@@ -171,8 +171,8 @@
 | 163 | 953 | Ladyrainbootz |
 | 164 | 951 | Cynthia Ward |
 | 165 | 950 | Teresa Gillmore |
-| 166 | 941 | Desiree Harris Rosch |
-| 167 | 941 | Marie Boyd Faulk |
+| 166 | 941 | Marie Boyd Faulk |
+| 167 | 941 | Desiree Harris Rosch |
 | 168 | 940 | Cool Clearer |
 | 169 | 937 | Shannon Joslin |
 | 170 | 935 | William Meussner |
@@ -198,12 +198,12 @@
 | 190 | 850 | Missie Lawson Gebhardt |
 | 191 | 849 | Jennifer Kistner |
 | 192 | 849 | Hillary Crawford |
-| 193 | 845 | April Dawn Gussler |
-| 194 | 845 | Felicia Lynn |
+| 193 | 845 | Felicia Lynn |
+| 194 | 845 | April Dawn Gussler |
 | 195 | 838 | Tralonda Weeks |
 | 196 | 837 | Ashley Rose Frederick |
-| 197 | 834 | Nika Bee |
-| 198 | 834 | Rebecca Doughman |
+| 197 | 834 | Rebecca Doughman |
+| 198 | 834 | Nika Bee |
 | 199 | 828 | Cindy Sechler Taninecz |
 | 200 | 826 | Moose Griffith |
 | 201 | 820 | Chirpy Staggerpiece |
@@ -751,8 +751,8 @@
 | 743 | 261 | MrsClaudette Will'sIam Matthews |
 | 744 | 261 | Mary Boss |
 | 745 | 261 | Gina Gina |
-| 746 | 261 | Fancy Twister |
-| 747 | 261 | Dany Murillo |
+| 746 | 261 | Dany Murillo |
+| 747 | 261 | Fancy Twister |
 | 748 | 260 | Michael David Hollis |
 | 749 | 260 | Hyper Riseclear |
 | 750 | 260 | Dad |
@@ -769,8 +769,8 @@
 | 761 | 256 | Monarca26 |
 | 762 | 256 | Brenna Yearian |
 | 763 | 256 | Amy Humphreys |
-| 764 | 255 | DefaultUser |
-| 765 | 255 | Tom Steffen |
+| 764 | 255 | Tom Steffen |
+| 765 | 255 | DefaultUser |
 | 766 | 255 | Emilie Desma |
 | 767 | 255 | ElizabethAnn Dickinson |
 | 768 | 254 | Elizabeth Diraffaele |

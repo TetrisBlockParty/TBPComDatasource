@@ -83,8 +83,8 @@
 | 75 | 404 | Courtney Cicoria |
 | 76 | 402 | Julian Garcia |
 | 77 | 399 | Jenna Ingersoll |
-| 78 | 396 | Alicia Bass |
-| 79 | 396 | Amy Suckarieh |
+| 78 | 396 | Amy Suckarieh |
+| 79 | 396 | Alicia Bass |
 | 80 | 391 | Ramel Rhodes |
 | 81 | 390 | Carlton Unfiltered |
 | 82 | 382 | Marie-Pier Desjardins |
@@ -144,8 +144,8 @@
 | 136 | 224 | Matt Summer |
 | 137 | 223 | Antony Dwayne Beasley |
 | 138 | 222 | Joeliecea Cobb |
-| 139 | 221 | Rheanda Weaskus |
-| 140 | 221 | PurpleMoonMa |
+| 139 | 221 | PurpleMoonMa |
+| 140 | 221 | Rheanda Weaskus |
 | 141 | 220 | Matt Dell'Olio |
 | 142 | 218 | Tyler Terrific |
 | 143 | 218 | Casey Grabner |
@@ -177,9 +177,9 @@
 | 169 | 189 | Calvin Dennis |
 | 170 | 188 | Andria Lynn |
 | 171 | 186 | Holly |
-| 172 | 185 | Andy Cabral |
+| 172 | 185 | Diana Houts |
 | 173 | 185 | Lori |
-| 174 | 185 | Diana Houts |
+| 174 | 185 | Andy Cabral |
 | 175 | 184 | Ak Jones |
 | 176 | 182 | Zippy Gridlock |
 | 177 | 181 | Klo |
@@ -407,8 +407,8 @@
 | 399 | 84 | Amy C Brown |
 | 400 | 83 | Lynn Marie |
 | 401 | 83 | Abigail Murphy |
-| 402 | 82 | Jason Bosco |
-| 403 | 82 | Stacy Jones |
+| 402 | 82 | Stacy Jones |
+| 403 | 82 | Jason Bosco |
 | 404 | 82 | Oleg Zakharskiy |
 | 405 | 81 | Robert Rangel |
 | 406 | 81 | Megan Boyce |

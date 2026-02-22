@@ -111,8 +111,8 @@
 | 103 | 506 | Sashay Tapae Simpson |
 | 104 | 503 | Susan Valentino |
 | 105 | 502 | Justin Ritter |
-| 106 | 500 | Domo Washington |
-| 107 | 500 | Kristie |
+| 106 | 500 | Kristie |
+| 107 | 500 | Domo Washington |
 | 108 | 497 | Mykal Burton |
 | 109 | 492 | Daira Largen |
 | 110 | 491 | Chauntee Alfrey-Cardinale |
@@ -253,9 +253,9 @@
 | 245 | 216 | rosy |
 | 246 | 215 | Alice |
 | 247 | 215 | IamJust Neyamijah Washington Sr. |
-| 248 | 214 | Rebel124 |
+| 248 | 214 | Connie Mohler-Fair |
 | 249 | 214 | Amy Fuller Heaton |
-| 250 | 214 | Connie Mohler-Fair |
+| 250 | 214 | Rebel124 |
 | 251 | 213 | Trisha Balmer |
 | 252 | 212 | Twisty Brick LT |
 | 253 | 212 | Desiree Gold |
@@ -296,8 +296,8 @@
 | 288 | 179 | DanceLuvLaugh |
 | 289 | 179 | Rachel Napper |
 | 290 | 179 | Tipsy Zonebuilder |
-| 291 | 178 | Jess Dearborn |
-| 292 | 178 | Jennifer Alvey |
+| 291 | 178 | Jennifer Alvey |
+| 292 | 178 | Jess Dearborn |
 | 293 | 176 | Melissa Orth Hunter |
 | 294 | 176 | Emma |
 | 295 | 175 | Eileen Brady Thurber |
