@@ -105,8 +105,8 @@
 | 97 | 581 | Danielle Mogg |
 | 98 | 579 | Jd Morris |
 | 99 | 566 | Dolores Falco |
-| 100 | 565 | Patty Allen |
-| 101 | 565 | Rachael McClain Owens |
+| 100 | 565 | Rachael McClain Owens |
+| 101 | 565 | Patty Allen |
 | 102 | 562 | Louise Stacy Sisson |
 | 103 | 562 | Dave Herzog |
 | 104 | 559 | Morgan Martinez |
@@ -212,11 +212,11 @@
 | 204 | 301 | Chelsea Hall |
 | 205 | 300 | Sherika C. McDaniels |
 | 206 | 298 | MsBee |
-| 207 | 296 | Ammmmmmy |
-| 208 | 296 | Katrina Turner |
+| 207 | 296 | Katrina Turner |
+| 208 | 296 | Ammmmmmy |
 | 209 | 296 | Brandon Givens |
-| 210 | 295 | RickyG |
-| 211 | 295 | Marci Mize Fandrich |
+| 210 | 295 | Marci Mize Fandrich |
+| 211 | 295 | RickyG |
 | 212 | 291 | Kristal C Lee |
 | 213 | 289 | DidIdothat |
 | 214 | 289 | Hoppy Buildout |
@@ -249,8 +249,8 @@
 | 241 | 258 | Tamara Deherrera |
 | 242 | 257 | Ashley Jones |
 | 243 | 256 | Brenda Lee Vander Molen |
-| 244 | 256 | KayB |
-| 245 | 256 | Tiffany Davie |
+| 244 | 256 | Tiffany Davie |
+| 245 | 256 | KayB |
 | 246 | 251 | Sabrina Hardrick |
 | 247 | 250 | fraulila |
 | 248 | 249 | Annie Marie |
@@ -283,8 +283,8 @@
 | 275 | 216 | Cheryl Hinch Tenbrook |
 | 276 | 215 | IamJust Neyamijah Washington Sr. |
 | 277 | 214 | Rebel124 |
-| 278 | 214 | Angela Scott |
-| 279 | 214 | Amy Fuller Heaton |
+| 278 | 214 | Amy Fuller Heaton |
+| 279 | 214 | Angela Scott |
 | 280 | 212 | Desiree Gold |
 | 281 | 212 | Sunny Rotater |
 | 282 | 211 | Velma Mull |
@@ -1993,7 +1993,7 @@
 | 1985 | 18 | Crystal Alden |
 | 1986 | 18 | Aj Foster |
 | 1987 | 18 | Laurie Raynor |
-| 1988 | 18 | Aj Foster |
+| 1988 | 18 | Valerie Mortinson |
 | 1989 | 18 | Cathy Piacente |
 | 1990 | 18 | Twisty Twistfit |
 | 1991 | 18 | Vita Passalacqua |

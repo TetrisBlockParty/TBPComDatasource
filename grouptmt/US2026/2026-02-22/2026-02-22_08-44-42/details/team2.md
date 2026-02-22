@@ -132,8 +132,8 @@
 | 124 | 1273 | Cool Rollpiece |
 | 125 | 1257 | Eileen Hale |
 | 126 | 1252 | Katrina Williams Balmir |
-| 127 | 1248 | Isabela Shaw |
-| 128 | 1248 | Howard Forest |
+| 127 | 1248 | Howard Forest |
+| 128 | 1248 | Isabela Shaw |
 | 129 | 1242 | Altamirano Michael |
 | 130 | 1237 | L3sli3 |
 | 131 | 1232 | Groovy Puzzle |
@@ -215,8 +215,8 @@
 | 207 | 867 | Michele Gabriel |
 | 208 | 867 | Peppy Zone |
 | 209 | 865 | Dedra Steward |
-| 210 | 862 | Robin Kerby |
-| 211 | 862 | Brittany Radaszewski |
+| 210 | 862 | Brittany Radaszewski |
+| 211 | 862 | Robin Kerby |
 | 212 | 860 | April Dawn Gussler |
 | 213 | 857 | Della Hole |
 | 214 | 853 | Felicia Lynn |
@@ -360,8 +360,8 @@
 | 352 | 562 | Ashley Lopez |
 | 353 | 561 | Traci Johnson |
 | 354 | 557 | Block Master |
-| 355 | 554 | Rachael Senard |
-| 356 | 554 | Santana Miyagi |
+| 355 | 554 | Santana Miyagi |
+| 356 | 554 | Rachael Senard |
 | 357 | 550 | Nashu |
 | 358 | 549 | Darcy Mae |
 | 359 | 549 | Kaylee McCafferty |
@@ -438,7 +438,7 @@
 | 430 | 482 | Amélie Cadieux |
 | 431 | 482 | Drwatson187 |
 | 432 | 482 | Eckoman518 |
-| 433 | 482 | Drwatson187 |
+| 433 | 482 | Ben Barkley |
 | 434 | 481 | Klee |
 | 435 | 480 | Ashley Collins |
 | 436 | 480 | Dar |
@@ -482,8 +482,8 @@
 | 474 | 444 | Chab |
 | 475 | 442 | Leah |
 | 476 | 441 | Christina Wsn |
-| 477 | 440 | Sarah Berger |
-| 478 | 440 | Liberty |
+| 477 | 440 | Liberty |
+| 478 | 440 | Sarah Berger |
 | 479 | 438 | Johnny Yeates |
 | 480 | 437 | Bubbly Snapfit |
 | 481 | 436 | Brenda Pierpoint |
@@ -498,8 +498,8 @@
 | 490 | 428 | Kiana Boschh |
 | 491 | 428 | Arkei Luster |
 | 492 | 428 | Shyenn Gadsby |
-| 493 | 427 | Destiny Cozier |
-| 494 | 427 | Quinn |
+| 493 | 427 | Quinn |
+| 494 | 427 | Destiny Cozier |
 | 495 | 427 | Kori Beth Babb |
 | 496 | 426 | Ashley Dow |
 | 497 | 425 | Skyler Morgan |
@@ -604,8 +604,8 @@
 | 596 | 371 | AkaLefty |
 | 597 | 371 | Brenda Messer |
 | 598 | 369 | Juan Castillo |
-| 599 | 369 | RaeVan Worthington |
-| 600 | 369 | Tony Lea |
+| 599 | 369 | Tony Lea |
+| 600 | 369 | RaeVan Worthington |
 | 601 | 368 | Angi Harrison |
 | 602 | 367 | Jessica Lamb |
 | 603 | 367 | Connie Lepore-Mann |
@@ -617,9 +617,9 @@
 | 609 | 365 | Audrey Jones |
 | 610 | 365 | Susan Arnburg |
 | 611 | 364 | Shinette Dobson |
-| 612 | 363 | Michelle Sager |
+| 612 | 363 | Kia Humphery |
 | 613 | 363 | Jes Norris |
-| 614 | 363 | Kia Humphery |
+| 614 | 363 | Michelle Sager |
 | 615 | 363 | Stephanie Fortune |
 | 616 | 362 | Andrea Maher |
 | 617 | 362 | Tracy Wise |
@@ -635,12 +635,12 @@
 | 627 | 357 | Tristan Szolek |
 | 628 | 355 | Amanda Perez |
 | 629 | 355 | Steve Man |
-| 630 | 354 | Rachel Kaminski |
-| 631 | 354 | Rickey Johnson |
+| 630 | 354 | Rickey Johnson |
+| 631 | 354 | Rachel Kaminski |
 | 632 | 352 | Rose Fx |
 | 633 | 352 | Jean FU Jagielski |
-| 634 | 352 | Mikayala Szaz |
-| 635 | 352 | ruth |
+| 634 | 352 | ruth |
+| 635 | 352 | Mikayala Szaz |
 | 636 | 351 | Connie Jimenez |
 | 637 | 350 | Fi Ne |
 | 638 | 350 | Chris Harr |
@@ -666,8 +666,8 @@
 | 658 | 337 | Sassy Pattern |
 | 659 | 337 | Tum |
 | 660 | 337 | Savannah Alexander |
-| 661 | 336 | Austin Wilson |
-| 662 | 336 | bru |
+| 661 | 336 | bru |
+| 662 | 336 | Austin Wilson |
 | 663 | 336 | Swanky Columnbuilder |
 | 664 | 335 | Brooke Leigh Strube |
 | 665 | 335 | Maria Louise |
@@ -803,8 +803,8 @@
 | 795 | 275 | Tammy Mitchell |
 | 796 | 275 | Neaomi Favro |
 | 797 | 275 | Crystal Elam |
-| 798 | 274 | Jamie Stevey |
-| 799 | 274 | Sabrena Yeisley |
+| 798 | 274 | Sabrena Yeisley |
+| 799 | 274 | Jamie Stevey |
 | 800 | 274 | KT Macadocious |
 | 801 | 274 | Robin L. Vial |
 | 802 | 273 | Jennifer Aiken |

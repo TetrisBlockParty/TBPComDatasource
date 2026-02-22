@@ -62,8 +62,8 @@
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Dustee Craddock-Harrison |
-| 58 | 636 | Kimyatta Cavin |
+| 57 | 636 | Kimyatta Cavin |
+| 58 | 636 | Dustee Craddock-Harrison |
 | 59 | 623 | Robin Getchel |
 | 60 | 599 | Brittney Griggs |
 | 61 | 593 | Lisa Davis |
@@ -80,8 +80,8 @@
 | 72 | 512 | Casey Jeffcoat |
 | 73 | 511 | Michelle Marie |
 | 74 | 500 | Rodney McMath Jr. |
-| 75 | 486 | Landon Keith Graffeo |
-| 76 | 486 | Carmethia Clemons Haslerig |
+| 75 | 486 | Carmethia Clemons Haslerig |
+| 76 | 486 | Landon Keith Graffeo |
 | 77 | 483 | TeeJ |
 | 78 | 467 | Dawn Alexander |
 | 79 | 447 | Samantha Peterson |
@@ -130,8 +130,8 @@
 | 122 | 294 | Kesha Brady |
 | 123 | 290 | 🥔🥔 Spudz |
 | 124 | 287 | Shannon Ferrari |
-| 125 | 286 | Daria Rycewicz |
-| 126 | 286 | shark tato |
+| 125 | 286 | shark tato |
+| 126 | 286 | Daria Rycewicz |
 | 127 | 283 | Brittney Orengo |
 | 128 | 281 | Meagan Nicole |
 | 129 | 278 | Desi Desporte |
@@ -172,10 +172,10 @@
 | 164 | 220 | Matt Dell'Olio |
 | 165 | 218 | Casey Grabner |
 | 166 | 217 | Chaz Duncan |
-| 167 | 215 | Ren Mc |
-| 168 | 215 | Jessica Bohlken |
-| 169 | 213 | Jason Allen |
-| 170 | 213 | Sarah Neathery |
+| 167 | 215 | Jessica Bohlken |
+| 168 | 215 | Ren Mc |
+| 169 | 213 | Sarah Neathery |
+| 170 | 213 | Jason Allen |
 | 171 | 212 | Mike Solo |
 | 172 | 211 | Jenna McGeorge |
 | 173 | 207 | Chirpy Basepiece |
