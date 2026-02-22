@@ -236,8 +236,8 @@
 | 228 | 350 | Kammy Hill |
 | 229 | 349 | Amanda J. Mcneil-Anderson |
 | 230 | 348 | Kristal C Lee |
-| 231 | 347 | Philip Rock |
-| 232 | 347 | Trisha Balmer |
+| 231 | 347 | Trisha Balmer |
+| 232 | 347 | Philip Rock |
 | 233 | 346 | Tamara Deherrera |
 | 234 | 344 | Roary Danner |
 | 235 | 344 | Rania Zaqout |
@@ -255,8 +255,8 @@
 | 247 | 326 | Dee Franklin |
 | 248 | 324 | Sissy Lowery Davis |
 | 249 | 321 | Rebecca Bailey |
-| 250 | 320 | Or Reznitsky |
-| 251 | 320 | Ashley Muncey |
+| 250 | 320 | Ashley Muncey |
+| 251 | 320 | Or Reznitsky |
 | 252 | 317 | Kelly |
 | 253 | 315 | Charles Perrone |
 | 254 | 312 | LadyTorad |

@@ -61,8 +61,8 @@
 | 53 | 766 | Robin Watters |
 | 54 | 763 | Ashley Ingram |
 | 55 | 757 | Ancient Intuition |
-| 56 | 751 | Jason Allen |
-| 57 | 751 | Rachel Anne |
+| 56 | 751 | Rachel Anne |
+| 57 | 751 | Jason Allen |
 | 58 | 745 | Robin Getchel |
 | 59 | 736 | Goatimus Lombardi |
 | 60 | 735 | Avy Absol |
@@ -73,13 +73,13 @@
 | 65 | 704 | Crystal Carroll |
 | 66 | 679 | D3TROITB0RN74 |
 | 67 | 671 | Kimyatta Cavin |
-| 68 | 664 | loulou |
-| 69 | 664 | Valerie Roberts |
+| 68 | 664 | Valerie Roberts |
+| 69 | 664 | loulou |
 | 70 | 659 | Jonathan Kimbrough |
 | 71 | 655 | Carolyn Wallace |
 | 72 | 654 | Julian Garcia |
-| 73 | 647 | Shauna Havard |
-| 74 | 647 | KM8 |
+| 73 | 647 | KM8 |
+| 74 | 647 | Shauna Havard |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 626 | Brittney Griggs |
 | 77 | 617 | Savannah Overdorf |
@@ -206,9 +206,9 @@
 | 198 | 262 | Holly Jolly |
 | 199 | 262 | Joeliecea Cobb |
 | 200 | 261 | scott |
-| 201 | 259 | Swanky Fitline |
-| 202 | 259 | Sam Bishop |
-| 203 | 259 | Melvin Baird |
+| 201 | 259 | Melvin Baird |
+| 202 | 259 | Swanky Fitline |
+| 203 | 259 | Sam Bishop |
 | 204 | 258 | Jen Caldwell |
 | 205 | 256 | Mylo Lipscomb |
 | 206 | 252 | Lindsey Gonzalez |

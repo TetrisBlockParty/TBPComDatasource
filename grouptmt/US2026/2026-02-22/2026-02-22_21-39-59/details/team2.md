@@ -228,8 +228,8 @@
 | 220 | 1039 | Moose Griffith |
 | 221 | 1036 | Allison Lockyer |
 | 222 | 1034 | Amber Shoemaker |
-| 223 | 1024 | Taylor Phillips |
-| 224 | 1024 | Desiree Anderson |
+| 223 | 1024 | Desiree Anderson |
+| 224 | 1024 | Taylor Phillips |
 | 225 | 1022 | Shannon Joslin |
 | 226 | 1020 | Eric Carlson |
 | 227 | 1016 | Jodi Blake |

@@ -118,8 +118,8 @@
 | 110 | 417 | Lori Sanders- Davis |
 | 111 | 414 | Veronica Eve |
 | 112 | 412 | Anaid Sanchez |
-| 113 | 409 | Yvonne Marie |
-| 114 | 409 | Dandy Basegrid |
+| 113 | 409 | Dandy Basegrid |
+| 114 | 409 | Yvonne Marie |
 | 115 | 397 | Candy Jones |
 | 116 | 395 | Nery Martinez |
 | 117 | 394 | Chris K |
@@ -323,8 +323,8 @@
 | 315 | 183 | Dino |
 | 316 | 182 | Oscar Zamora |
 | 317 | 181 | David DeSantis |
-| 318 | 179 | Ryan White |
-| 319 | 179 | Slinky Rotater |
+| 318 | 179 | Slinky Rotater |
+| 319 | 179 | Ryan White |
 | 320 | 178 | Gabrielle Louise Malloch |
 | 321 | 178 | Larry Tilton |
 | 322 | 177 | Jessica Russell |
