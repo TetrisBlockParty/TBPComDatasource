@@ -269,8 +269,8 @@
 | 261 | 583 | Jessicah Myers |
 | 262 | 583 | Steve Grotto |
 | 263 | 582 | Gary Stash |
-| 264 | 579 | Juliana Marques Do Nascimento Gordy |
-| 265 | 579 | Roy Salyer |
+| 264 | 579 | Roy Salyer |
+| 265 | 579 | Juliana Marques Do Nascimento Gordy |
 | 266 | 578 | Sally Dennis |
 | 267 | 576 | Ginger |
 | 268 | 572 | tejas25 |
@@ -432,9 +432,9 @@
 | 424 | 382 | Alexandra Weir |
 | 425 | 381 | Bubbly Snapfit |
 | 426 | 381 | Melissa Rebbe-Lehman |
-| 427 | 378 | TF Dyer |
-| 428 | 378 | Niceday |
-| 429 | 378 | Christina Ashley |
+| 427 | 378 | Christina Ashley |
+| 428 | 378 | TF Dyer |
+| 429 | 378 | Niceday |
 | 430 | 376 | Darlene Bowman |
 | 431 | 374 | Gloria Ininahazwe |
 | 432 | 371 | Brenda Messer |

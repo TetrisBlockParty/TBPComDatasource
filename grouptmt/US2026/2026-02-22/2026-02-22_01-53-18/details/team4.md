@@ -86,8 +86,8 @@
 | 78 | 370 | Leslie Thomas |
 | 79 | 369 | Nope Young |
 | 80 | 359 | Jamie Mann-Deichmann |
-| 81 | 358 | Nugget |
-| 82 | 358 | Shane Kalamata Platoon |
+| 81 | 358 | Shane Kalamata Platoon |
+| 82 | 358 | Nugget |
 | 83 | 340 | Cassie Michaux |
 | 84 | 319 | Livvy |
 | 85 | 318 | Amy Suckarieh |
@@ -233,7 +233,7 @@
 | 225 | 128 | Jackie Marie |
 | 226 | 128 | Kristin MacDonald |
 | 227 | 128 | April Rondinone |
-| 228 | 128 | Jackie Marie |
+| 228 | 128 | Rio Rocha |
 | 229 | 127 | Zesty Twistbuilder |
 | 230 | 126 | Angelito |
 | 231 | 126 | icequeenx |
@@ -243,8 +243,8 @@
 | 235 | 124 | Sam Middleton |
 | 236 | 123 | Lindsey Gonzalez |
 | 237 | 123 | Jasmine S Caldwell |
-| 238 | 123 | Austin Owens |
-| 239 | 123 | Joseph Edmonson |
+| 238 | 123 | Joseph Edmonson |
+| 239 | 123 | Austin Owens |
 | 240 | 121 | Joseph Pace |
 | 241 | 121 | Joshua Cuellar |
 | 242 | 121 | Smiley Tiltbuilder |
@@ -263,8 +263,8 @@
 | 255 | 115 | Jayk |
 | 256 | 115 | Alexandra Karavias |
 | 257 | 114 | PennyCandee |
-| 258 | 113 | Dandy Cascadefit |
-| 259 | 113 | Adam Randall |
+| 258 | 113 | Adam Randall |
+| 259 | 113 | Dandy Cascadefit |
 | 260 | 112 | Jeremy Steines |
 | 261 | 111 | Lazy Blocker |
 | 262 | 110 | Zach Kerbs |
