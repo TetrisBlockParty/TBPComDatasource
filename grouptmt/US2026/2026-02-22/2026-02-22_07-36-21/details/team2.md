@@ -219,8 +219,8 @@
 | 211 | 838 | Tralonda Weeks |
 | 212 | 837 | Ashley Rose Frederick |
 | 213 | 835 | Katrina Weston |
-| 214 | 834 | Rebecca Doughman |
-| 215 | 834 | Nika Bee |
+| 214 | 834 | Nika Bee |
+| 215 | 834 | Rebecca Doughman |
 | 216 | 828 | Cindy Sechler Taninecz |
 | 217 | 820 | Chirpy Staggerpiece |
 | 218 | 818 | Angela Bonquiqui Dinish |
@@ -299,8 +299,8 @@
 | 291 | 670 | Kassandra Hunt |
 | 292 | 669 | Charvi' Carter |
 | 293 | 666 | Speedy Spinblock |
-| 294 | 663 | Mandi Douglas Hilt |
-| 295 | 663 | Ashle Scranton |
+| 294 | 663 | Ashle Scranton |
+| 295 | 663 | Mandi Douglas Hilt |
 | 296 | 659 | Roseanna Peloso |
 | 297 | 658 | Erica Williams |
 | 298 | 653 | goofinoff |
@@ -317,8 +317,8 @@
 | 309 | 635 | William Hunt |
 | 310 | 631 | Marie Walker |
 | 311 | 629 | Sleepypanda67 |
-| 312 | 627 | Allan Wayne Lamia |
-| 313 | 627 | Victoria Moore-Smith |
+| 312 | 627 | Victoria Moore-Smith |
+| 313 | 627 | Allan Wayne Lamia |
 | 314 | 619 | Brandon Armstrong |
 | 315 | 619 | Jánine Riggs |
 | 316 | 617 | tejas25 |
@@ -437,8 +437,8 @@
 | 429 | 474 | Calandra Shaya Robinson |
 | 430 | 473 | Lyndi Robinson Wakefield |
 | 431 | 472 | Arwa Fatimah |
-| 432 | 471 | Jaycee |
-| 433 | 471 | Rae Rae |
+| 432 | 471 | Rae Rae |
+| 433 | 471 | Jaycee |
 | 434 | 470 | Street Sweeper |
 | 435 | 469 | Spunkysmom |
 | 436 | 466 | Crystal Greene |
@@ -482,11 +482,11 @@
 | 474 | 429 | Christy Krissie |
 | 475 | 428 | Arkei Luster |
 | 476 | 428 | Shyenn Gadsby |
-| 477 | 427 | Kori Beth Babb |
-| 478 | 427 | Quinn |
-| 479 | 427 | Destiny Cozier |
-| 480 | 426 | Niceday |
-| 481 | 426 | Ashley Dow |
+| 477 | 427 | Quinn |
+| 478 | 427 | Destiny Cozier |
+| 479 | 427 | Kori Beth Babb |
+| 480 | 426 | Ashley Dow |
+| 481 | 426 | Niceday |
 | 482 | 425 | Skyler Morgan |
 | 483 | 424 | Mia Muse Best |
 | 484 | 424 | Lina Sanders |

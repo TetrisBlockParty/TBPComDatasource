@@ -244,8 +244,8 @@
 | 236 | 160 | Tedashi |
 | 237 | 158 | Alenoush Karimian |
 | 238 | 158 | Sarah Marie |
-| 239 | 156 | Erin Rosberg |
-| 240 | 156 | Mark Smith |
+| 239 | 156 | Mark Smith |
+| 240 | 156 | Erin Rosberg |
 | 241 | 155 | Barry Mac'Ockner |
 | 242 | 154 | Gary Gobin |
 | 243 | 154 | Melissa Lemmon |
@@ -295,8 +295,8 @@
 | 287 | 130 | Howdi Duty |
 | 288 | 130 | Carl Claunch |
 | 289 | 129 | Sherri E Woods Hess |
-| 290 | 128 | Alyssa Ingram |
-| 291 | 128 | Chuck Gannon |
+| 290 | 128 | Chuck Gannon |
+| 291 | 128 | Alyssa Ingram |
 | 292 | 127 | Danielle Mae |
 | 293 | 126 | Zany Tiler |
 | 294 | 125 | Melissa Bires Hussar |

@@ -61,8 +61,8 @@
 | 53 | 908 | Alanna Rogers |
 | 54 | 907 | Judi Dobson |
 | 55 | 903 | Sarah Fehring |
-| 56 | 895 | Shonna Roberts |
-| 57 | 895 | Amanda L Baker |
+| 56 | 895 | Amanda L Baker |
+| 57 | 895 | Shonna Roberts |
 | 58 | 886 | Khristen AC |
 | 59 | 874 | Jessica Pineda-Lopez |
 | 60 | 867 | Corie A. Brinson |
@@ -103,8 +103,8 @@
 | 95 | 581 | Danielle Mogg |
 | 96 | 579 | Jd Morris |
 | 97 | 566 | Dolores Falco |
-| 98 | 565 | Rachael McClain Owens |
-| 99 | 565 | Patty Allen |
+| 98 | 565 | Patty Allen |
+| 99 | 565 | Rachael McClain Owens |
 | 100 | 562 | Louise Stacy Sisson |
 | 101 | 562 | Dave Herzog |
 | 102 | 559 | Morgan Martinez |
@@ -155,8 +155,8 @@
 | 147 | 401 | Katie Knaus |
 | 148 | 400 | Luciana Braganca Vieira |
 | 149 | 399 | Marcie Bressler |
-| 150 | 399 | Jacqueline Rodriguez |
-| 151 | 399 | Mcathen |
+| 150 | 399 | Mcathen |
+| 151 | 399 | Jacqueline Rodriguez |
 | 152 | 397 | Annie Déè |
 | 153 | 393 | Fallorina Susana |
 | 154 | 393 | CeceGeGe |
@@ -171,8 +171,8 @@
 | 163 | 374 | Sherry Ogden |
 | 164 | 371 | Michael Nowogorski |
 | 165 | 370 | Danielle Allison |
-| 166 | 370 | Logan Naccarato |
-| 167 | 370 | Santeria Trece Candles |
+| 166 | 370 | Santeria Trece Candles |
+| 167 | 370 | Logan Naccarato |
 | 168 | 368 | Stephanie Woods |
 | 169 | 366 | Adrian Marcel Pate |
 | 170 | 362 | Darlene McMillan |
@@ -195,11 +195,11 @@
 | 187 | 319 | Rebecca Funderburk Kirby |
 | 188 | 317 | Ashley Tookes |
 | 189 | 315 | Kammy Hill |
-| 190 | 311 | Araceli Parra |
-| 191 | 311 | Rochelle Hazelett |
+| 190 | 311 | Rochelle Hazelett |
+| 191 | 311 | Araceli Parra |
 | 192 | 310 | Danielle Balcom |
-| 193 | 308 | Daryn Elliott |
-| 194 | 308 | Rania Zaqout |
+| 193 | 308 | Rania Zaqout |
+| 194 | 308 | Daryn Elliott |
 | 195 | 307 | rnr junky |
 | 196 | 307 | Blocked |
 | 197 | 303 | Stephanie Burtin |
@@ -235,9 +235,9 @@
 | 227 | 263 | Brittany |
 | 228 | 263 | Angeline Joseph |
 | 229 | 262 | Joe-Maggie Mathews |
-| 230 | 261 | Tasha Wesson-Torrence |
+| 230 | 261 | Marquita Sheard |
 | 231 | 261 | Tiffany Ford |
-| 232 | 261 | Marquita Sheard |
+| 232 | 261 | Tasha Wesson-Torrence |
 | 233 | 260 | Grams |
 | 234 | 259 | Danielle Weikel |
 | 235 | 258 | Tamara Deherrera |
@@ -332,11 +332,11 @@
 | 324 | 174 | Betty Rosas |
 | 325 | 174 | Lesley Perez |
 | 326 | 173 | BŘŰŤİÇŨŚ |
-| 327 | 169 | Peachy Rollfit |
-| 328 | 169 | Naur |
+| 327 | 169 | Naur |
+| 328 | 169 | Peachy Rollfit |
 | 329 | 169 | Kristian Thurman |
-| 330 | 168 | Trice Thomas |
-| 331 | 168 | April Matthew Kibble |
+| 330 | 168 | April Matthew Kibble |
+| 331 | 168 | Trice Thomas |
 | 332 | 167 | Shicken Nuggit |
 | 333 | 167 | Irene Arreguin |
 | 334 | 167 | Romeo |
@@ -366,12 +366,12 @@
 | 358 | 156 | Nichole Greene |
 | 359 | 155 | Michell Hendershott Jackson |
 | 360 | 155 | Michael Leblanc |
-| 361 | 153 | Sheila M Frazier |
-| 362 | 153 | Lys |
+| 361 | 153 | Lys |
+| 362 | 153 | Sheila M Frazier |
 | 363 | 153 | Tony Waters |
 | 364 | 152 | Goofy Fall |
-| 365 | 152 | Shiny Zonebuilder |
-| 366 | 152 | Eric Caccavale |
+| 365 | 152 | Eric Caccavale |
+| 366 | 152 | Shiny Zonebuilder |
 | 367 | 151 | Sarah Cowan Burgos |
 | 368 | 149 | Alexis Taylor |
 | 369 | 148 | Pam Holt Powell |
