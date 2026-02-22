@@ -149,8 +149,8 @@
 | 141 | 290 | Death |
 | 142 | 288 | GATOR |
 | 143 | 285 | Ananda Mendez |
-| 144 | 284 | Rachael |
-| 145 | 284 | Emily Adelaide Wheatley |
+| 144 | 284 | Emily Adelaide Wheatley |
+| 145 | 284 | Rachael |
 | 146 | 283 | Franswa |
 | 147 | 282 | Snippy Wipebuilder |
 | 148 | 282 | Tyler Werts |

@@ -314,8 +314,8 @@
 | 306 | 715 | Stephanie Lumanlan |
 | 307 | 713 | Chelle |
 | 308 | 711 | Melissa Holsinger |
-| 309 | 704 | Jánine Riggs |
-| 310 | 704 | Shelley Thornburgh Wright |
+| 309 | 704 | Shelley Thornburgh Wright |
+| 310 | 704 | Jánine Riggs |
 | 311 | 703 | Gold Rose |
 | 312 | 700 | Hong Tang |
 | 313 | 700 | Vincent Petrella |

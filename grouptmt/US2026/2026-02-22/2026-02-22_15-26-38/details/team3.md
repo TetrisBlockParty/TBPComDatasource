@@ -198,13 +198,13 @@
 | 190 | 361 | Chelsea Hall |
 | 191 | 358 | RickyG |
 | 192 | 358 | Chummy Caster |
-| 193 | 357 | Tom Nault |
-| 194 | 357 | Stephanie Burtin |
+| 193 | 357 | Stephanie Burtin |
+| 194 | 357 | Tom Nault |
 | 195 | 353 | Nora Rogers |
 | 196 | 349 | Amanda J. Mcneil-Anderson |
 | 197 | 348 | Chasity |
-| 198 | 343 | Tamara Deherrera |
-| 199 | 343 | Ashley Raines |
+| 198 | 343 | Ashley Raines |
+| 199 | 343 | Tamara Deherrera |
 | 200 | 341 | Samantha Lynn |
 | 201 | 341 | Noyb Adam |
 | 202 | 340 | Ammmmmmy |
@@ -213,8 +213,8 @@
 | 205 | 332 | Rich LeBlanc |
 | 206 | 330 | Rebecca Funderburk Kirby |
 | 207 | 330 | Danielle Balcom |
-| 208 | 324 | Kristal C Lee |
-| 209 | 324 | Sissy Lowery Davis |
+| 208 | 324 | Sissy Lowery Davis |
+| 209 | 324 | Kristal C Lee |
 | 210 | 323 | Demetrious Shaw Sr. |
 | 211 | 320 | Or Reznitsky |
 | 212 | 320 | Ashley Muncey |
@@ -258,8 +258,8 @@
 | 250 | 274 | Tye Stovall |
 | 251 | 272 | Dee Franklin |
 | 252 | 271 | Cass Mendoza |
-| 253 | 271 | Alexmac |
-| 254 | 271 | Grego Daniel |
+| 253 | 271 | Grego Daniel |
+| 254 | 271 | Alexmac |
 | 255 | 269 | Loopy Fallmatch |
 | 256 | 268 | Tasha Wesson-Torrence |
 | 257 | 267 | Tiffany Davie |
@@ -313,8 +313,8 @@
 | 305 | 216 | Tina Smith Roy |
 | 306 | 215 | IamJust Neyamijah Washington Sr. |
 | 307 | 214 | Amy Fuller Heaton |
-| 308 | 214 | Jennifer Alvey |
-| 309 | 214 | Lizabeth Fox |
+| 308 | 214 | Lizabeth Fox |
+| 309 | 214 | Jennifer Alvey |
 | 310 | 213 | Nicholas Roddy |
 | 311 | 212 | Sunny Rotater |
 | 312 | 212 | Jana Polk |

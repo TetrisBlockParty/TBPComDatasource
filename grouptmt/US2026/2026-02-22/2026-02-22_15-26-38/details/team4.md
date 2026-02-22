@@ -43,8 +43,8 @@
 | 35 | 873 | Elizabeth Sallas |
 | 36 | 871 | Denny Shives |
 | 37 | 846 | Christine Marie |
-| 38 | 843 | Lucille Truesdale |
-| 39 | 843 | Shelly Chandler |
+| 38 | 843 | Shelly Chandler |
+| 39 | 843 | Lucille Truesdale |
 | 40 | 834 | quicksand420 |
 | 41 | 829 | LisaJo Picken Buchanan |
 | 42 | 823 | Jae Job |
@@ -62,8 +62,8 @@
 | 54 | 704 | Crystal Carroll |
 | 55 | 698 | Anthony Bryan Riva |
 | 56 | 697 | Edward White |
-| 57 | 664 | D3TROITB0RN74 |
-| 58 | 664 | Valerie Roberts |
+| 57 | 664 | Valerie Roberts |
+| 58 | 664 | D3TROITB0RN74 |
 | 59 | 659 | Jonathan Kimbrough |
 | 60 | 658 | loulou |
 | 61 | 654 | Chilly Line |
@@ -292,8 +292,8 @@
 | 284 | 151 | Joseph Pace |
 | 285 | 151 | Shainne Brewer |
 | 286 | 151 | Amanda Christine |
-| 287 | 150 | Jared Gutwein |
-| 288 | 150 | Brandon Link |
+| 287 | 150 | Brandon Link |
+| 288 | 150 | Jared Gutwein |
 | 289 | 150 | GBR |
 | 290 | 149 | Twisty Risebuilder |
 | 291 | 148 | Cranky Rollpiece |
