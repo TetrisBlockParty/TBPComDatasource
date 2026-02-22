@@ -103,16 +103,16 @@
 | 95 | 595 | Patricia White |
 | 96 | 591 | Jesse Olive |
 | 97 | 588 | yoyo |
-| 98 | 582 | Natasha Jones |
-| 99 | 582 | Jay Horn |
+| 98 | 582 | Jay Horn |
+| 99 | 582 | Natasha Jones |
 | 100 | 581 | Danielle Mogg |
 | 101 | 579 | Jd Morris |
 | 102 | 577 | Giddy Drop |
 | 103 | 566 | Dolores Falco |
 | 104 | 565 | Rachael McClain Owens |
 | 105 | 565 | Patty Allen |
-| 106 | 562 | Louise Stacy Sisson |
-| 107 | 562 | Dave Herzog |
+| 106 | 562 | Dave Herzog |
+| 107 | 562 | Louise Stacy Sisson |
 | 108 | 559 | Morgan Martinez |
 | 109 | 549 | Nicole Myers |
 | 110 | 526 | Cynthia Castros-Hampton |
@@ -143,8 +143,8 @@
 | 135 | 457 | Jim Mathews |
 | 136 | 454 | Makelini Mausia |
 | 137 | 449 | Danielle Rhoades |
-| 138 | 445 | Jacqueline Rodriguez |
-| 139 | 445 | Kristie McFarland |
+| 138 | 445 | Kristie McFarland |
+| 139 | 445 | Jacqueline Rodriguez |
 | 140 | 435 | Michelle |
 | 141 | 432 | Karon Griffin |
 | 142 | 432 | Jenny Hrndz |
@@ -225,8 +225,8 @@
 | 217 | 296 | Brandon Givens |
 | 218 | 295 | Marci Mize Fandrich |
 | 219 | 289 | DidIdothat |
-| 220 | 289 | Duane Bright |
-| 221 | 289 | Hoppy Buildout |
+| 220 | 289 | Hoppy Buildout |
+| 221 | 289 | Duane Bright |
 | 222 | 286 | Cynthia Herrmann Egland |
 | 223 | 284 | Denise Nardoni |
 | 224 | 283 | Charles Perrone |
@@ -274,8 +274,8 @@
 | 266 | 235 | Brenda Schmid Wood |
 | 267 | 235 | Cozy Snaplink |
 | 268 | 234 | Connie Mohler-Fair |
-| 269 | 233 | Ray Lader |
-| 270 | 233 | Josh Borquez |
+| 269 | 233 | Josh Borquez |
+| 270 | 233 | Ray Lader |
 | 271 | 232 | Donna |
 | 272 | 227 | Krystal Gerstberger |
 | 273 | 227 | Meowsa |
@@ -328,8 +328,8 @@
 | 320 | 193 | Clever Shiftsnap |
 | 321 | 193 | Lys |
 | 322 | 192 | Ryan Williams |
-| 323 | 192 | Kelly Ann Child |
-| 324 | 192 | Melanie Sherwood |
+| 323 | 192 | Melanie Sherwood |
+| 324 | 192 | Kelly Ann Child |
 | 325 | 191 | Becca Engle |
 | 326 | 191 | Philip Rock |
 | 327 | 189 | France Vézina |
@@ -374,8 +374,8 @@
 | 366 | 165 | Rainbow77375 |
 | 367 | 164 | Ashley Rufus Bythcez |
 | 368 | 164 | momo |
-| 369 | 163 | Christine Trester |
-| 370 | 163 | Diana Ibarra |
+| 369 | 163 | Diana Ibarra |
+| 370 | 163 | Christine Trester |
 | 371 | 163 | Ava Petito |
 | 372 | 162 | Loopy Fallzone |
 | 373 | 162 | Eric Caccavale |
@@ -432,14 +432,14 @@
 | 424 | 144 | Tenisha Semidey |
 | 425 | 144 | Crystal Hine |
 | 426 | 143 | Deseree Ewing |
-| 427 | 142 | Erica Anderson |
-| 428 | 142 | Gray Hicks |
+| 427 | 142 | Gray Hicks |
+| 428 | 142 | Erica Anderson |
 | 429 | 142 | Joy Petroski |
 | 430 | 142 | Jl |
-| 431 | 141 | Bhreagh Gentile |
-| 432 | 141 | Melissa Snyder |
-| 433 | 141 | Reina Roth |
-| 434 | 141 | Weerae |
+| 431 | 141 | Melissa Snyder |
+| 432 | 141 | Bhreagh Gentile |
+| 433 | 141 | Weerae |
+| 434 | 141 | Reina Roth |
 | 435 | 140 | Jumpy Curvebuilder |
 | 436 | 140 | Boldy Corner |
 | 437 | 140 | Linda Draper |

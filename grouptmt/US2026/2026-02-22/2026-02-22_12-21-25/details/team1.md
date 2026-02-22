@@ -54,8 +54,8 @@
 | 46 | 671 | Lawrence Belanger |
 | 47 | 663 | Drew Magnus |
 | 48 | 646 | Susanna Guerry |
-| 49 | 635 | Marianne Louise West |
-| 50 | 635 | Angel Fowler |
+| 49 | 635 | Angel Fowler |
+| 50 | 635 | Marianne Louise West |
 | 51 | 631 | comrade fish |
 | 52 | 627 | Katie Daniels |
 | 53 | 614 | Snappy Swiper |
@@ -114,8 +114,8 @@
 | 106 | 342 | Brenda Stewart |
 | 107 | 341 | Nick R Montague |
 | 108 | 335 | Luciano Moreira |
-| 109 | 333 | Gracie |
-| 110 | 333 | Brandi Huntington |
+| 109 | 333 | Brandi Huntington |
+| 110 | 333 | Gracie |
 | 111 | 332 | Kristen Gideon |
 | 112 | 330 | Sweet Baker |
 | 113 | 326 | Monica Donato |
@@ -137,8 +137,8 @@
 | 129 | 290 | Sarah Roberts |
 | 130 | 290 | Death |
 | 131 | 285 | Ananda Mendez |
-| 132 | 284 | Rachael |
-| 133 | 284 | Emily Adelaide Wheatley |
+| 132 | 284 | Emily Adelaide Wheatley |
+| 133 | 284 | Rachael |
 | 134 | 283 | Franswa |
 | 135 | 282 | Cool Shiftsnap |
 | 136 | 282 | Timothy Dew |
@@ -181,8 +181,8 @@
 | 173 | 226 | Kandae |
 | 174 | 219 | Chuck Gannon |
 | 175 | 218 | LC |
-| 176 | 217 | Kimberly Garcia |
-| 177 | 217 | ParisandCory Champagne |
+| 176 | 217 | ParisandCory Champagne |
+| 177 | 217 | Kimberly Garcia |
 | 178 | 216 | Shauntina Burke |
 | 179 | 215 | Shaykmia |
 | 180 | 215 | Sam Williams |
@@ -192,16 +192,16 @@
 | 184 | 210 | Giggly Builderline |
 | 185 | 210 | Letson Melissa |
 | 186 | 209 | Debbie Davis |
-| 187 | 208 | Donna Addison Williams |
-| 188 | 208 | Bouncy Grid |
-| 189 | 207 | Leslie Bush Yarbrough |
-| 190 | 207 | Brenda Alexander |
+| 187 | 208 | Bouncy Grid |
+| 188 | 208 | Donna Addison Williams |
+| 189 | 207 | Brenda Alexander |
+| 190 | 207 | Leslie Bush Yarbrough |
 | 191 | 206 | BadG52 |
 | 192 | 205 | Tater |
 | 193 | 205 | Snappy Matcher |
 | 194 | 204 | Lacy Wolfe |
-| 195 | 203 | LaFontaine Leslie |
-| 196 | 203 | Paula Martin |
+| 195 | 203 | Paula Martin |
+| 196 | 203 | LaFontaine Leslie |
 | 197 | 202 | Amanda Holibaugh |
 | 198 | 201 | Colleen Wise |
 | 199 | 200 | DaRascal |
@@ -324,8 +324,8 @@
 | 316 | 133 | Jasmine Riley |
 | 317 | 133 | MommaKFC |
 | 318 | 132 | Layzietyme |
-| 319 | 131 | Plucky Wrecker |
-| 320 | 131 | Dizzy Riseclear |
+| 319 | 131 | Dizzy Riseclear |
+| 320 | 131 | Plucky Wrecker |
 | 321 | 130 | Carl Claunch |
 | 322 | 129 | Sherri E Woods Hess |
 | 323 | 129 | Madison Wicks |
@@ -338,8 +338,8 @@
 | 330 | 125 | Angela Spann |
 | 331 | 124 | John Kim |
 | 332 | 124 | Mario Cab |
-| 333 | 124 | DoodleBug |
-| 334 | 124 | John Kim |
+| 333 | 124 | Rodney Schmerfeld |
+| 334 | 124 | DoodleBug |
 | 335 | 123 | Tonya Beasley |
 | 336 | 122 | Nate Funk |
 | 337 | 121 | Jacob Shaddock |

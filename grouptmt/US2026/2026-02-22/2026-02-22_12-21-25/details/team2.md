@@ -470,8 +470,8 @@
 | 462 | 477 | Julay |
 | 463 | 476 | Kitybox |
 | 464 | 475 | Michelle Lee |
-| 465 | 474 | Calandra Shaya Robinson |
-| 466 | 474 | Steve Man |
+| 465 | 474 | Steve Man |
+| 466 | 474 | Calandra Shaya Robinson |
 | 467 | 473 | coleksquad |
 | 468 | 473 | Lyndi Robinson Wakefield |
 | 469 | 472 | Arwa Fatimah |
@@ -486,9 +486,9 @@
 | 478 | 465 | Davetta Sanford |
 | 479 | 464 | snkylnk |
 | 480 | 464 | Kiana Boschh |
-| 481 | 463 | Jaye EL Hunter |
-| 482 | 463 | Sue Leard |
-| 483 | 463 | Cody Nishimura |
+| 481 | 463 | Sue Leard |
+| 482 | 463 | Cody Nishimura |
+| 483 | 463 | Jaye EL Hunter |
 | 484 | 463 | Mia Muse Best |
 | 485 | 462 | Dennis McLaurin |
 | 486 | 462 | Jarboe |
@@ -879,15 +879,15 @@
 | 871 | 263 | Amy Humphreys |
 | 872 | 263 | Sunshine711 |
 | 873 | 263 | Elizabeth Leinen |
-| 874 | 262 | Squirrel |
-| 875 | 262 | Taren Cowan |
+| 874 | 262 | Taren Cowan |
+| 875 | 262 | Squirrel |
 | 876 | 261 | Dany Murillo |
 | 877 | 261 | Gina Gina |
 | 878 | 261 | MrsClaudette Will'sIam Matthews |
 | 879 | 261 | Mellissa Evans |
-| 880 | 260 | Giggly Snap |
+| 880 | 260 | Manny Trindade |
 | 881 | 260 | Lianne Giandalone LaBounty |
-| 882 | 260 | Manny Trindade |
+| 882 | 260 | Giggly Snap |
 | 883 | 260 | Michael David Hollis |
 | 884 | 260 | Lynda Toland |
 | 885 | 259 | Mary Ahne |

@@ -56,8 +56,8 @@
 | 48 | 697 | Edward White |
 | 49 | 695 | LisaJo Picken Buchanan |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Rebecca Moulton Pinciaro |
-| 52 | 659 | Jonathan Kimbrough |
+| 51 | 659 | Jonathan Kimbrough |
+| 52 | 659 | Rebecca Moulton Pinciaro |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
@@ -74,8 +74,8 @@
 | 66 | 554 | Julian Garcia |
 | 67 | 546 | Kimberly Love |
 | 68 | 544 | Amy Suckarieh |
-| 69 | 533 | Eric Mcgaughy |
-| 70 | 533 | Chris Baggett |
+| 69 | 533 | Chris Baggett |
+| 70 | 533 | Eric Mcgaughy |
 | 71 | 530 | Yoset Mejia |
 | 72 | 524 | Amelpss |
 | 73 | 523 | Dawn Alexander |
@@ -84,8 +84,8 @@
 | 76 | 512 | Casey Jeffcoat |
 | 77 | 511 | Michelle Marie |
 | 78 | 500 | Rodney McMath Jr. |
-| 79 | 486 | Carmethia Clemons Haslerig |
-| 80 | 486 | Landon Keith Graffeo |
+| 79 | 486 | Landon Keith Graffeo |
+| 80 | 486 | Carmethia Clemons Haslerig |
 | 81 | 485 | TeeJ |
 | 82 | 469 | Ashley Ingram |
 | 83 | 468 | Shane Kalamata Platoon |
@@ -167,8 +167,8 @@
 | 159 | 237 | Chris Bernstein |
 | 160 | 233 | Ren Mc |
 | 161 | 232 | Crystal Nicolette Moore |
-| 162 | 230 | Cursed Hag |
-| 163 | 230 | Autum Leigh |
+| 162 | 230 | Autum Leigh |
+| 163 | 230 | Cursed Hag |
 | 164 | 228 | J-Rizzle |
 | 165 | 227 | Swanky Fitline |
 | 166 | 227 | Alyssa Papen |
@@ -200,11 +200,11 @@
 | 192 | 198 | Ruben Wheeler |
 | 193 | 198 | Keith Kelley |
 | 194 | 196 | Lori |
-| 195 | 196 | Oscar Alberto Perez |
-| 196 | 196 | Mr. Party |
+| 195 | 196 | Mr. Party |
+| 196 | 196 | Oscar Alberto Perez |
 | 197 | 195 | 中山成巳 |
-| 198 | 195 | Malakai Darien Fox |
-| 199 | 195 | ZeeZee |
+| 198 | 195 | ZeeZee |
+| 199 | 195 | Malakai Darien Fox |
 | 200 | 194 | Zany Twisterfit |
 | 201 | 193 | Nikki Rae Gordon |
 | 202 | 192 | Shauna Havard |
