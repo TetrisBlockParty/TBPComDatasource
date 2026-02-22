@@ -69,8 +69,8 @@
 | 61 | 688 | Avy Absol |
 | 62 | 671 | Kimyatta Cavin |
 | 63 | 671 | D3TROITB0RN74 |
-| 64 | 664 | loulou |
-| 65 | 664 | Valerie Roberts |
+| 64 | 664 | Valerie Roberts |
+| 65 | 664 | loulou |
 | 66 | 659 | Jonathan Kimbrough |
 | 67 | 654 | Chilly Line |
 | 68 | 647 | KM8 |
@@ -213,13 +213,13 @@
 | 205 | 225 | Perky Patternblock |
 | 206 | 222 | blockstar |
 | 207 | 221 | Kim Klutz Olson |
-| 208 | 221 | PurpleMoonMa |
-| 209 | 221 | Rheanda Weaskus |
-| 210 | 219 | Malakai Darien Fox |
-| 211 | 219 | JPW |
+| 208 | 221 | Rheanda Weaskus |
+| 209 | 221 | PurpleMoonMa |
+| 210 | 219 | JPW |
+| 211 | 219 | Malakai Darien Fox |
 | 212 | 217 | Kim Hunt |
-| 213 | 216 | Cristy Duerksen |
-| 214 | 216 | ZeeZee |
+| 213 | 216 | ZeeZee |
+| 214 | 216 | Cristy Duerksen |
 | 215 | 216 | Chance Strickland |
 | 216 | 215 | Ziggy |
 | 217 | 213 | Sarah Neathery |

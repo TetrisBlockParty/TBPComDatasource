@@ -82,9 +82,9 @@
 | 74 | 489 | Deanna L Hermanson |
 | 75 | 486 | Tater |
 | 76 | 485 | Cartier |
-| 77 | 483 | MomMom |
-| 78 | 483 | Ryan Lunnin |
-| 79 | 483 | Evie Khalil |
+| 77 | 483 | Ryan Lunnin |
+| 78 | 483 | Evie Khalil |
+| 79 | 483 | MomMom |
 | 80 | 480 | Nancy Green |
 | 81 | 472 | April Carroll |
 | 82 | 471 | Jennifer ManWarren |
@@ -95,8 +95,8 @@
 | 87 | 443 | Steve Schneider |
 | 88 | 436 | Tonya Beasley |
 | 89 | 434 | Loony Fitzone |
-| 90 | 433 | Tinah Montanna |
-| 91 | 433 | Trina Gee |
+| 90 | 433 | Trina Gee |
+| 91 | 433 | Tinah Montanna |
 | 92 | 429 | Tdub |
 | 93 | 428 | Stephanie Zahn |
 | 94 | 418 | Jazzy Framezone |
@@ -126,30 +126,30 @@
 | 118 | 355 | Hasbro Bros |
 | 119 | 354 | phrmblk24 |
 | 120 | 352 | Jason Jones |
-| 121 | 350 | Tipsy Strikerpiece |
-| 122 | 350 | Sweet Baker |
+| 121 | 350 | Sweet Baker |
+| 122 | 350 | Tipsy Strikerpiece |
 | 123 | 344 | Bhelle Sumile |
 | 124 | 343 | Death |
 | 125 | 341 | Nick R Montague |
 | 126 | 339 | Amanda Johnson Huffman |
 | 127 | 334 | Jaimie Lynn |
-| 128 | 333 | Gracie |
-| 129 | 333 | GATOR |
+| 128 | 333 | GATOR |
+| 129 | 333 | Gracie |
 | 130 | 332 | Kristen Gideon |
 | 131 | 330 | Elaine Elaine |
 | 132 | 328 | Fmp |
 | 133 | 326 | Monica Donato |
 | 134 | 325 | Jennifer Hardman |
-| 135 | 321 | Maria C. Hernandez |
-| 136 | 321 | Tanya Carpenter-Reynolds |
+| 135 | 321 | Tanya Carpenter-Reynolds |
+| 136 | 321 | Maria C. Hernandez |
 | 137 | 318 | Jessica Sheehan |
 | 138 | 316 | Dizzy Party |
 | 139 | 313 | Virginia Gray Floyd |
-| 140 | 308 | Sharon Reynolds |
-| 141 | 308 | Erin Hodges Plumb |
+| 140 | 308 | Erin Hodges Plumb |
+| 141 | 308 | Sharon Reynolds |
 | 142 | 307 | Kimberly Garcia |
-| 143 | 306 | Happy Basegrid |
-| 144 | 306 | Bloknboy |
+| 143 | 306 | Bloknboy |
+| 144 | 306 | Happy Basegrid |
 | 145 | 304 | Nicole Roseberry Weber |
 | 146 | 303 | Chelsea Dahlquist |
 | 147 | 301 | Lehrin Maria |
@@ -185,8 +185,8 @@
 | 177 | 264 | Jenny Gingrich Fuentes |
 | 178 | 261 | Witty Builderfit |
 | 179 | 258 | Billie Dawn Sparks |
-| 180 | 254 | Letson Melissa |
-| 181 | 254 | Al Smith Jr |
+| 180 | 254 | Al Smith Jr |
+| 181 | 254 | Letson Melissa |
 | 182 | 253 | Jamie Jury |
 | 183 | 252 | Dena Kayy |
 | 184 | 251 | Giggly Builderline |
@@ -200,8 +200,8 @@
 | 192 | 242 | John Kim |
 | 193 | 241 | John J. Cronin |
 | 194 | 240 | DaRascal |
-| 195 | 239 | Sam Williams |
-| 196 | 239 | Lacy Wolfe |
+| 195 | 239 | Lacy Wolfe |
+| 196 | 239 | Sam Williams |
 | 197 | 238 | Tiffany Smith |
 | 198 | 237 | Frothy Pattern |
 | 199 | 237 | LaFontaine Leslie |
@@ -221,8 +221,8 @@
 | 213 | 223 | Erez Yosef |
 | 214 | 222 | Debbie Davis |
 | 215 | 221 | Daring Fitclear |
-| 216 | 220 | Giddy Cascade |
-| 217 | 220 | Jessie Lynn |
+| 216 | 220 | Jessie Lynn |
+| 217 | 220 | Giddy Cascade |
 | 218 | 219 | Chuck Gannon |
 | 219 | 216 | Shauntina Burke |
 | 220 | 216 | Chad Atchley |
@@ -336,8 +336,8 @@
 | 328 | 155 | Hasty Columnbuilder |
 | 329 | 155 | Barry Mac'Ockner |
 | 330 | 155 | Fresno Beotoni |
-| 331 | 154 | Mario Cab |
-| 332 | 154 | Larry Tilton |
+| 331 | 154 | Larry Tilton |
+| 332 | 154 | Mario Cab |
 | 333 | 153 | Dino |
 | 334 | 152 | Speedy Snapfall |
 | 335 | 151 | Bruce Cruz |
@@ -364,8 +364,8 @@
 | 356 | 144 | Toph |
 | 357 | 143 | Guest |
 | 358 | 142 | Nathan Sealander |
-| 359 | 141 | Kayla Marie Stevenson |
-| 360 | 141 | Ashley Adams |
+| 359 | 141 | Ashley Adams |
+| 360 | 141 | Kayla Marie Stevenson |
 | 361 | 140 | Nathan William |
 | 362 | 140 | Lynn Adams |
 | 363 | 139 | Aimee Horton |
