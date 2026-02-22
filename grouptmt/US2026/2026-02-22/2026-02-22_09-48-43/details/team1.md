@@ -165,21 +165,21 @@
 | 157 | 241 | John J. Cronin |
 | 158 | 239 | Jamie Jury |
 | 159 | 232 | Jessi Sauer |
-| 160 | 230 | Billie Dawn Sparks |
-| 161 | 230 | Frothy Pattern |
+| 160 | 230 | Frothy Pattern |
+| 161 | 230 | Billie Dawn Sparks |
 | 162 | 229 | David Lutcher |
 | 163 | 226 | Sleepysloath5745 |
 | 164 | 226 | Kandae |
 | 165 | 224 | Dizzy Party |
 | 166 | 218 | LC |
 | 167 | 217 | ParisandCory Champagne |
-| 168 | 216 | Shauntina Burke |
-| 169 | 216 | MRdot Rooski |
+| 168 | 216 | MRdot Rooski |
+| 169 | 216 | Shauntina Burke |
 | 170 | 215 | Sam Williams |
 | 171 | 213 | Daring Fitclear |
 | 172 | 212 | Jaimie Lynn |
-| 173 | 211 | Kimberly Garcia |
-| 174 | 211 | Marianita Garcia |
+| 173 | 211 | Marianita Garcia |
+| 174 | 211 | Kimberly Garcia |
 | 175 | 210 | Giggly Builderline |
 | 176 | 210 | Letson Melissa |
 | 177 | 209 | Debbie Davis |
@@ -192,17 +192,17 @@
 | 184 | 205 | Snappy Matcher |
 | 185 | 205 | Tater |
 | 186 | 204 | Lacy Wolfe |
-| 187 | 203 | LaFontaine Leslie |
-| 188 | 203 | Paula Martin |
+| 187 | 203 | Paula Martin |
+| 188 | 203 | LaFontaine Leslie |
 | 189 | 201 | Colleen Wise |
 | 190 | 200 | Breanna Luna |
 | 191 | 200 | DaRascal |
 | 192 | 199 | Basment Living |
-| 193 | 198 | Shiny Gridmatch |
-| 194 | 198 | Happy Snapbuild |
-| 195 | 195 | Shaykmia |
-| 196 | 195 | Jennifer Olewnik Soborowski |
-| 197 | 195 | Bindi |
+| 193 | 198 | Happy Snapbuild |
+| 194 | 198 | Shiny Gridmatch |
+| 195 | 195 | Bindi |
+| 196 | 195 | Shaykmia |
+| 197 | 195 | Jennifer Olewnik Soborowski |
 | 198 | 194 | Christy Jones |
 | 199 | 193 | Michael |
 | 200 | 193 | Lachelle Dillon |
@@ -243,8 +243,8 @@
 | 235 | 170 | Standia Civil |
 | 236 | 170 | Cece Ibarra |
 | 237 | 169 | Abbey Crespo |
-| 238 | 168 | Amber Stoker |
-| 239 | 168 | Angela Fairbank |
+| 238 | 168 | Angela Fairbank |
+| 239 | 168 | Amber Stoker |
 | 240 | 167 | Nery Martinez |
 | 241 | 167 | Cranky Pattern |
 | 242 | 165 | Silly Align |

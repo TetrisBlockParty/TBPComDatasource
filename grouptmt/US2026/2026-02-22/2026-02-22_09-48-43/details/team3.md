@@ -203,12 +203,12 @@
 | 195 | 320 | Or Reznitsky |
 | 196 | 317 | Ashley Tookes |
 | 197 | 315 | Kammy Hill |
-| 198 | 311 | Araceli Parra |
-| 199 | 311 | Rochelle Hazelett |
-| 200 | 311 | Stephanie Burtin |
+| 198 | 311 | Rochelle Hazelett |
+| 199 | 311 | Stephanie Burtin |
+| 200 | 311 | Araceli Parra |
 | 201 | 310 | Danielle Balcom |
-| 202 | 308 | Daryn Elliott |
-| 203 | 308 | Rania Zaqout |
+| 202 | 308 | Rania Zaqout |
+| 203 | 308 | Daryn Elliott |
 | 204 | 307 | rnr junky |
 | 205 | 307 | Blocked |
 | 206 | 302 | Rebecca Bailey |
@@ -222,8 +222,8 @@
 | 214 | 295 | Marci Mize Fandrich |
 | 215 | 291 | Kristal C Lee |
 | 216 | 289 | DidIdothat |
-| 217 | 289 | Hoppy Buildout |
-| 218 | 289 | Duane Bright |
+| 217 | 289 | Duane Bright |
+| 218 | 289 | Hoppy Buildout |
 | 219 | 286 | Cynthia Herrmann Egland |
 | 220 | 284 | Denise Nardoni |
 | 221 | 283 | Cheeky Snapper |
@@ -236,28 +236,28 @@
 | 228 | 275 | Cassandra Bryant |
 | 229 | 274 | Tye Stovall |
 | 230 | 272 | Dee Franklin |
-| 231 | 271 | Ashley Muncey |
-| 232 | 271 | Cass Mendoza |
+| 231 | 271 | Cass Mendoza |
+| 232 | 271 | Ashley Muncey |
 | 233 | 269 | Trisha Balmer |
 | 234 | 267 | Terry Jo Jones |
 | 235 | 265 | Sarah Moyer |
 | 236 | 264 | Grego Daniel |
 | 237 | 263 | Brittany |
 | 238 | 262 | Joe-Maggie Mathews |
-| 239 | 261 | Tasha Wesson-Torrence |
-| 240 | 261 | Marquita Sheard |
-| 241 | 261 | Tiffany Ford |
+| 239 | 261 | Tiffany Ford |
+| 240 | 261 | Tasha Wesson-Torrence |
+| 241 | 261 | Marquita Sheard |
 | 242 | 260 | Grams |
 | 243 | 259 | Danielle Weikel |
 | 244 | 258 | Tamara Deherrera |
 | 245 | 257 | Ashley Jones |
 | 246 | 256 | Brenda Lee Vander Molen |
-| 247 | 256 | Tiffany Davie |
-| 248 | 256 | KayB |
+| 247 | 256 | KayB |
+| 248 | 256 | Tiffany Davie |
 | 249 | 251 | Sabrina Hardrick |
 | 250 | 250 | fraulila |
-| 251 | 249 | Annie Marie |
-| 252 | 249 | JerseyJess |
+| 251 | 249 | JerseyJess |
+| 252 | 249 | Annie Marie |
 | 253 | 247 | Carrie Huskey |
 | 254 | 246 | Eon Harris |
 | 255 | 246 | Peppy Shifter |
@@ -286,12 +286,12 @@
 | 278 | 220 | rosy |
 | 279 | 219 | Sissy Lowery Davis |
 | 280 | 218 | Michael Lucado |
-| 281 | 216 | Cheryl Hinch Tenbrook |
-| 282 | 216 | Twisty Brick LT |
+| 281 | 216 | Twisty Brick LT |
+| 282 | 216 | Cheryl Hinch Tenbrook |
 | 283 | 215 | IamJust Neyamijah Washington Sr. |
 | 284 | 214 | Angela Scott |
-| 285 | 214 | Rebel124 |
-| 286 | 214 | Amy Fuller Heaton |
+| 285 | 214 | Amy Fuller Heaton |
+| 286 | 214 | Rebel124 |
 | 287 | 213 | Nicholas Roddy |
 | 288 | 212 | Desiree Gold |
 | 289 | 212 | Sunny Rotater |
@@ -394,8 +394,8 @@
 | 386 | 152 | Shiny Zonebuilder |
 | 387 | 151 | Sarah Cowan Burgos |
 | 388 | 150 | Sassy Brickmatch |
-| 389 | 149 | Alexis Taylor |
-| 390 | 149 | Wacky Crasher |
+| 389 | 149 | Wacky Crasher |
+| 390 | 149 | Alexis Taylor |
 | 391 | 149 | Arden White Kirsch |
 | 392 | 148 | Pam Holt Powell |
 | 393 | 148 | Flashy Rumbler |

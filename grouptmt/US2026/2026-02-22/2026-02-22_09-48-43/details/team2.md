@@ -206,8 +206,8 @@
 | 198 | 919 | Isaac Trappiel IV |
 | 199 | 916 | Butta |
 | 200 | 915 | Kelly Trent |
-| 201 | 910 | Crystal Hoffman |
-| 202 | 910 | Shuany Arias |
+| 201 | 910 | Shuany Arias |
+| 202 | 910 | Crystal Hoffman |
 | 203 | 907 | Gene Mills |
 | 204 | 906 | Poppy Snap |
 | 205 | 901 | Jennifer Peachey |
@@ -283,15 +283,15 @@
 | 275 | 704 | Shelley Thornburgh Wright |
 | 276 | 703 | Gold Rose |
 | 277 | 701 | Hyper Cluster |
-| 278 | 700 | Vincent Petrella |
-| 279 | 700 | Hong Tang |
+| 278 | 700 | Hong Tang |
+| 279 | 700 | Vincent Petrella |
 | 280 | 700 | Beverly Owens |
 | 281 | 700 | Rosemadder |
 | 282 | 698 | Mighty Shatterfit |
 | 283 | 697 | Dreamy Blast |
 | 284 | 695 | Lakeysha Dortch |
-| 285 | 692 | Dannette Goldberg-Richards |
-| 286 | 692 | Jennifer Casey-Kay |
+| 285 | 692 | Jennifer Casey-Kay |
+| 286 | 692 | Dannette Goldberg-Richards |
 | 287 | 690 | Deborah Miller |
 | 288 | 689 | Giggy Blocker |
 | 289 | 688 | ShinyRose |
@@ -345,8 +345,8 @@
 | 337 | 603 | Cassie Maynard |
 | 338 | 602 | Christine Bollig |
 | 339 | 601 | Michele Morgan |
-| 340 | 600 | Demeka Dangerous-kisses Johnson |
-| 341 | 600 | Glitzy Stackzone |
+| 340 | 600 | Glitzy Stackzone |
+| 341 | 600 | Demeka Dangerous-kisses Johnson |
 | 342 | 597 | Steven Marshaun |
 | 343 | 596 | KhaosLord |
 | 344 | 594 | Jojo Momma |
@@ -390,8 +390,8 @@
 | 382 | 533 | Gauri Shrotriya |
 | 383 | 531 | Dizzy Zone |
 | 384 | 527 | Ryan Gunther |
-| 385 | 527 | Heather Causey |
-| 386 | 527 | Julie Kresal |
+| 385 | 527 | Julie Kresal |
+| 386 | 527 | Heather Causey |
 | 387 | 526 | Sheronda Jackson |
 | 388 | 526 | Heather Schelkopf |
 | 389 | 525 | Desiree Anderson |
@@ -480,8 +480,8 @@
 | 472 | 456 | Melissa Rebbe-Lehman |
 | 473 | 455 | Kiana Boschh |
 | 474 | 454 | Casey Schumacher |
-| 475 | 453 | Joshua Sommerville |
-| 476 | 453 | Rhonda Petro |
+| 475 | 453 | Rhonda Petro |
+| 476 | 453 | Joshua Sommerville |
 | 477 | 451 | Funky Caster |
 | 478 | 451 | Cody Nishimura |
 | 479 | 451 | Dylan Thomason |
@@ -548,8 +548,8 @@
 | 540 | 407 | Tipsy Filler |
 | 541 | 406 | Erin StFrancis |
 | 542 | 406 | Kimberly Ann |
-| 543 | 404 | Dawn L Washington-Feuquay |
-| 544 | 404 | Goofy Catcher |
+| 543 | 404 | Goofy Catcher |
+| 544 | 404 | Dawn L Washington-Feuquay |
 | 545 | 404 | Snappy snappers |
 | 546 | 403 | Goofy Dasher |
 | 547 | 402 | Steve Man |
@@ -588,8 +588,8 @@
 | 580 | 386 | Wuntayk |
 | 581 | 385 | Tansaria Couch-Butler |
 | 582 | 384 | Christina Ashley |
-| 583 | 384 | Kelly |
-| 584 | 384 | Party d |
+| 583 | 384 | Party d |
+| 584 | 384 | Kelly |
 | 585 | 383 | Belle Mari |
 | 586 | 382 | David Holliday |
 | 587 | 382 | Amber Gray |
@@ -710,8 +710,8 @@
 | 702 | 320 | Mary Boss |
 | 703 | 319 | RetroLemur |
 | 704 | 318 | Jennifer Mahon |
-| 705 | 317 | Ashlyn Berner |
-| 706 | 317 | Zombi3 |
+| 705 | 317 | Zombi3 |
+| 706 | 317 | Ashlyn Berner |
 | 707 | 317 | Aireka Roman |
 | 708 | 316 | Jenn Marie |
 | 709 | 316 | Epic Spinfit |
@@ -738,12 +738,12 @@
 | 730 | 307 | Peachy Blockbuilder |
 | 731 | 307 | stacey |
 | 732 | 306 | Kiorah Blaze |
-| 733 | 305 | MamaBear11 |
-| 734 | 305 | Zany Clusterbuilder |
+| 733 | 305 | Zany Clusterbuilder |
+| 734 | 305 | MamaBear11 |
 | 735 | 305 | Narutofreak13 |
-| 736 | 304 | NFLPITMOM |
-| 737 | 304 | Melissa McCall |
-| 738 | 304 | James Smith |
+| 736 | 304 | Melissa McCall |
+| 737 | 304 | James Smith |
+| 738 | 304 | NFLPITMOM |
 | 739 | 303 | Angie Marie |
 | 740 | 303 | Amanda Schaffer |
 | 741 | 303 | Devin |
@@ -751,20 +751,20 @@
 | 743 | 302 | Maxwell Escalera |
 | 744 | 300 | Alice Ball |
 | 745 | 300 | Tash Bell |
-| 746 | 300 | Kacee Conrad Bock |
-| 747 | 300 | Katie Joy McCombs |
+| 746 | 300 | Katie Joy McCombs |
+| 747 | 300 | Kacee Conrad Bock |
 | 748 | 299 | Cassie Newton |
 | 749 | 298 | Frilly Fallzone |
-| 750 | 298 | Lazy Riseclear |
-| 751 | 298 | Ryan Stadel |
+| 750 | 298 | Ryan Stadel |
+| 751 | 298 | Lazy Riseclear |
 | 752 | 297 | Toni Lynn |
 | 753 | 297 | Frisky Patternline |
-| 754 | 297 | Ashley Robbins |
-| 755 | 297 | Britney M. |
-| 756 | 296 | Frisky Riserbuilder |
-| 757 | 296 | Zappy Dropmatch |
+| 754 | 297 | Britney M. |
+| 755 | 297 | Ashley Robbins |
+| 756 | 296 | Jennifer Darby |
+| 757 | 296 | Frisky Riserbuilder |
 | 758 | 296 | Epic Fitzone |
-| 759 | 296 | Jennifer Darby |
+| 759 | 296 | Zappy Dropmatch |
 | 760 | 295 | Noel Tarmy |
 | 761 | 294 | Amanda Edwards |
 | 762 | 293 | Ann Marie Davis |
@@ -780,8 +780,8 @@
 | 772 | 288 | Samantha Angelo |
 | 773 | 288 | Ashley Criner |
 | 774 | 287 | Epic Stackzone |
-| 775 | 287 | N00D3S |
-| 776 | 287 | Toni Roberson |
+| 775 | 287 | Toni Roberson |
+| 776 | 287 | N00D3S |
 | 777 | 286 | Kelsey Sullivan |
 | 778 | 285 | Kimberly Mitchell |
 | 779 | 285 | Epic Stackbuilder |
