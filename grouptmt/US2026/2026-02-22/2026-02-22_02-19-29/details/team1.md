@@ -81,8 +81,8 @@
 | 73 | 353 | Trina Gee |
 | 74 | 347 | pjbeta |
 | 75 | 345 | Dee Perry |
-| 76 | 338 | Stephanie Zahn |
-| 77 | 338 | Tipsy Strikerpiece |
+| 76 | 338 | Tipsy Strikerpiece |
+| 77 | 338 | Stephanie Zahn |
 | 78 | 333 | Brandi Huntington |
 | 79 | 332 | Luciano Moreira |
 | 80 | 328 | Kellie |
@@ -153,15 +153,15 @@
 | 145 | 194 | Tyler Werts |
 | 146 | 194 | Ash Galvan |
 | 147 | 193 | Lachelle Dillon |
-| 148 | 192 | Shaykmia |
-| 149 | 192 | Jessica Sheehan |
+| 148 | 192 | Jessica Sheehan |
+| 149 | 192 | Shaykmia |
 | 150 | 191 | Bouncy Grid |
 | 151 | 191 | Diane Byrd |
 | 152 | 190 | Thorne Shumate |
 | 153 | 190 | Sweetts |
 | 154 | 188 | Sam Williams |
-| 155 | 187 | Snippy Wipebuilder |
-| 156 | 187 | Jennifer Olewnik Soborowski |
+| 155 | 187 | Jennifer Olewnik Soborowski |
+| 156 | 187 | Snippy Wipebuilder |
 | 157 | 186 | Margo Wagner |
 | 158 | 186 | Michael |
 | 159 | 185 | Basment Living |

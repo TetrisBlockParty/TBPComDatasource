@@ -104,8 +104,8 @@
 | 96 | 496 | Domo Washington |
 | 97 | 493 | Mandy Smith Oldham |
 | 98 | 491 | Chauntee Alfrey-Cardinale |
-| 99 | 471 | Mendoza Lee Christy |
-| 100 | 471 | Kristie |
+| 99 | 471 | Kristie |
+| 100 | 471 | Mendoza Lee Christy |
 | 101 | 459 | Nerdy Riseclear |
 | 102 | 453 | Silly Twist |
 | 103 | 446 | Danielle Rhoades |
@@ -184,8 +184,8 @@
 | 176 | 267 | Denise Nardoni |
 | 177 | 263 | Angeline Joseph |
 | 178 | 262 | Joe-Maggie Mathews |
-| 179 | 261 | Tom Nault |
-| 180 | 261 | Tiffany Ford |
+| 179 | 261 | Tiffany Ford |
+| 180 | 261 | Tom Nault |
 | 181 | 260 | Grams |
 | 182 | 258 | Tamara Deherrera |
 | 183 | 257 | Ashley Jones |
@@ -201,8 +201,8 @@
 | 193 | 245 | Latoya Mayne |
 | 194 | 243 | Rochelle Hazelett |
 | 195 | 241 | Eon Harris |
-| 196 | 240 | Jimmie Clemons |
-| 197 | 240 | Brandon Givens |
+| 196 | 240 | Brandon Givens |
+| 197 | 240 | Jimmie Clemons |
 | 198 | 238 | Araceli Parra |
 | 199 | 236 | Jess Bissett |
 | 200 | 236 | Rania Zaqout |
@@ -215,8 +215,8 @@
 | 207 | 224 | Nicole Myers |
 | 208 | 223 | Jeana Gilbert |
 | 209 | 221 | Jaime Monhaut-Reed |
-| 210 | 219 | Shunta Jacobs |
-| 211 | 219 | Sissy Lowery Davis |
+| 210 | 219 | Sissy Lowery Davis |
+| 211 | 219 | Shunta Jacobs |
 | 212 | 219 | Keis |
 | 213 | 218 | Michael Lucado |
 | 214 | 216 | Tasha Wesson-Torrence |

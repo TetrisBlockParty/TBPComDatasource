@@ -54,8 +54,8 @@
 | 46 | 594 | Ancient Intuition |
 | 47 | 590 | Valerie Roberts |
 | 48 | 555 | Clarence Patawaran |
-| 49 | 546 | Kimberly Love |
-| 50 | 546 | Savannah Overdorf |
+| 49 | 546 | Savannah Overdorf |
+| 50 | 546 | Kimberly Love |
 | 51 | 545 | KM8 |
 | 52 | 540 | Cassie Michaux |
 | 53 | 526 | Goatimus Lombardi |
@@ -197,10 +197,10 @@
 | 189 | 148 | Brittany Marsh |
 | 190 | 147 | B Renee Desjardin |
 | 191 | 147 | Jay28 |
-| 192 | 145 | Zany Shatterer |
-| 193 | 145 | Mimi |
-| 194 | 144 | Jason Allen |
-| 195 | 144 | Tanner Lund |
+| 192 | 145 | Mimi |
+| 193 | 145 | Zany Shatterer |
+| 194 | 144 | Tanner Lund |
+| 195 | 144 | Jason Allen |
 | 196 | 143 | Lauren Lamb |
 | 197 | 142 | Zippy Gridlock |
 | 198 | 141 | Montiette Mcglown |
