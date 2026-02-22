@@ -80,8 +80,8 @@
 | 72 | 970 | Rosalie Call Kehlenbeck |
 | 73 | 964 | Jennifer |
 | 74 | 945 | Christian A. Pollard |
-| 75 | 926 | Angela M. Fletcher |
-| 76 | 926 | Judi Dobson |
+| 75 | 926 | Judi Dobson |
+| 76 | 926 | Angela M. Fletcher |
 | 77 | 924 | Shonna Roberts |
 | 78 | 923 | Christine Filson |
 | 79 | 910 | Jay Horn |
@@ -117,8 +117,8 @@
 | 109 | 730 | Speedy Bridger |
 | 110 | 723 | Mandy Smith Oldham |
 | 111 | 720 | Raya |
-| 112 | 716 | Kristie |
-| 113 | 716 | Calista Jo Dickson |
+| 112 | 716 | Calista Jo Dickson |
+| 113 | 716 | Kristie |
 | 114 | 715 | Keith J Oshman Jr. |
 | 115 | 712 | Katrina Schroeder |
 | 116 | 704 | Suzieq |
@@ -186,8 +186,8 @@
 | 178 | 465 | Tasha Schriewer |
 | 179 | 464 | Makelini Mausia |
 | 180 | 461 | Shunta Jacobs |
-| 181 | 460 | Araceli Parra |
-| 182 | 460 | Danielle Allison |
+| 181 | 460 | Danielle Allison |
+| 182 | 460 | Araceli Parra |
 | 183 | 458 | Danielle Rhoades |
 | 184 | 457 | Jim Mathews |
 | 185 | 455 | Bmo |
@@ -290,8 +290,8 @@
 | 282 | 302 | Gray Hicks |
 | 283 | 301 | Betty Rosas |
 | 284 | 300 | Tiffany Davie |
-| 285 | 299 | Angie Harper |
-| 286 | 299 | Ray Lader |
+| 285 | 299 | Ray Lader |
+| 286 | 299 | Angie Harper |
 | 287 | 298 | Grams |
 | 288 | 297 | Jojo M |
 | 289 | 297 | kacihall |
@@ -414,8 +414,8 @@
 | 406 | 216 | Trice Thomas |
 | 407 | 216 | BugMansMom |
 | 408 | 216 | Breanna Marsden |
-| 409 | 215 | AlsoJess |
-| 410 | 215 | Saucy Buildout |
+| 409 | 215 | Saucy Buildout |
+| 410 | 215 | AlsoJess |
 | 411 | 214 | Amy Fuller Heaton |
 | 412 | 213 | Romeo |
 | 413 | 213 | JessDrown |

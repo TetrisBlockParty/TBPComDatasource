@@ -103,10 +103,10 @@
 | 95 | 533 | Samantha Peterson |
 | 96 | 531 | Zippy Gridlock |
 | 97 | 519 | Nugget |
-| 98 | 513 | YoMomma |
-| 99 | 513 | Erin Thomas |
-| 100 | 512 | Diana Houts |
-| 101 | 512 | Casey Jeffcoat |
+| 98 | 513 | Erin Thomas |
+| 99 | 513 | YoMomma |
+| 100 | 512 | Casey Jeffcoat |
+| 101 | 512 | Diana Houts |
 | 102 | 510 | Scott Jameson |
 | 103 | 500 | Rodney McMath Jr. |
 | 104 | 499 | Christina LR |
@@ -138,8 +138,8 @@
 | 130 | 408 | Amanda Pauldo-Ivy |
 | 131 | 400 | Ericca Eldridge |
 | 132 | 394 | Austin Owens |
-| 133 | 393 | Carlton Unfiltered |
-| 134 | 393 | Trish |
+| 133 | 393 | Trish |
+| 134 | 393 | Carlton Unfiltered |
 | 135 | 392 | Cristy Duerksen |
 | 136 | 391 | Ramel Rhodes |
 | 137 | 380 | Swanky Fitline |
@@ -177,8 +177,8 @@
 | 169 | 316 | Meagan Nicole |
 | 170 | 314 | Andy Cabral |
 | 171 | 311 | A5! |
-| 172 | 307 | Bio Nelly |
-| 173 | 307 | Girl |
+| 172 | 307 | Girl |
+| 173 | 307 | Bio Nelly |
 | 174 | 306 | Lindsey Gonzalez |
 | 175 | 304 | Chaz Duncan |
 | 176 | 303 | shark tato |

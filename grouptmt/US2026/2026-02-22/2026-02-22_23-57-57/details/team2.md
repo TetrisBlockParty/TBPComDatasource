@@ -285,8 +285,8 @@
 | 277 | 910 | Shuany Arias |
 | 278 | 907 | Gene Mills |
 | 279 | 905 | Osun Anuket Esu |
-| 280 | 904 | Jennifer Aiken |
-| 281 | 904 | John Bednarik |
+| 280 | 904 | John Bednarik |
+| 281 | 904 | Jennifer Aiken |
 | 282 | 904 | Ashlen Dorrell |
 | 283 | 904 | Missie Lawson Gebhardt |
 | 284 | 902 | William Hunt |
@@ -340,8 +340,8 @@
 | 332 | 807 | Khalil Lowe |
 | 333 | 801 | Cassie Mercer |
 | 334 | 799 | Joy LaJeunesse |
-| 335 | 793 | Lisa Ongtowasruk |
-| 336 | 793 | Heather Schelkopf |
+| 335 | 793 | Heather Schelkopf |
+| 336 | 793 | Lisa Ongtowasruk |
 | 337 | 792 | Gold Rose |
 | 338 | 790 | Brenda Pierpoint |
 | 339 | 788 | Erika Densmore |
@@ -394,8 +394,8 @@
 | 386 | 713 | Breezy Filler |
 | 387 | 713 | Chelle |
 | 388 | 710 | tejas25 |
-| 389 | 709 | Draizen Montrell Thomas |
-| 390 | 709 | Marie Walker |
+| 389 | 709 | Marie Walker |
+| 390 | 709 | Draizen Montrell Thomas |
 | 391 | 708 | Jelly |
 | 392 | 704 | Johnny Yeates |
 | 393 | 704 | Montez Mancil |
@@ -417,8 +417,8 @@
 | 409 | 680 | blume |
 | 410 | 679 | Kassandra Hunt |
 | 411 | 677 | Crystie Hicks |
-| 412 | 677 | Amanda Woodruff |
-| 413 | 677 | Ellie Jonas |
+| 412 | 677 | Ellie Jonas |
+| 413 | 677 | Amanda Woodruff |
 | 414 | 676 | Roseanna Peloso |
 | 415 | 674 | Lonne Emade |
 | 416 | 674 | Connie Jimenez |
@@ -466,8 +466,8 @@
 | 458 | 613 | Ann Matzkanin |
 | 459 | 612 | Slinky Racker |
 | 460 | 611 | Biggest thing |
-| 461 | 607 | Michelle Lee |
-| 462 | 607 | Véronique Lévesque Sabourin |
+| 461 | 607 | Véronique Lévesque Sabourin |
+| 462 | 607 | Michelle Lee |
 | 463 | 605 | Santana Miyagi |
 | 464 | 603 | Casper The Chonk |
 | 465 | 602 | KhaosLord |
@@ -760,8 +760,8 @@
 | 752 | 394 | Christina Jarvis-Swarbrick |
 | 753 | 393 | Jamie West |
 | 754 | 392 | Christy Green |
-| 755 | 391 | Chilly Bridgepiece |
-| 756 | 391 | Megan Kitchner |
+| 755 | 391 | Megan Kitchner |
+| 756 | 391 | Chilly Bridgepiece |
 | 757 | 391 | Heather Johnson |
 | 758 | 391 | Anthony |
 | 759 | 390 | Aireka Roman |
@@ -770,8 +770,8 @@
 | 762 | 388 | James Zaragoza |
 | 763 | 388 | ruth |
 | 764 | 388 | Ronnie Nelson |
-| 765 | 388 | CC |
-| 766 | 388 | Sarah block |
+| 765 | 388 | Sarah block |
+| 766 | 388 | CC |
 | 767 | 388 | Tamara Bailey |
 | 768 | 387 | Bold Brickster |
 | 769 | 387 | Bryan Werleman |
