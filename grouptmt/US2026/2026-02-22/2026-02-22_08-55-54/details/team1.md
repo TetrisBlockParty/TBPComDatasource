@@ -132,8 +132,8 @@
 | 124 | 290 | Death |
 | 125 | 286 | Arianna O'Brien |
 | 126 | 285 | Ananda Mendez |
-| 127 | 284 | Emily Adelaide Wheatley |
-| 128 | 284 | Rachael |
+| 127 | 284 | Rachael |
+| 128 | 284 | Emily Adelaide Wheatley |
 | 129 | 283 | Franswa |
 | 130 | 282 | Timothy Dew |
 | 131 | 282 | Cool Shiftsnap |
@@ -144,8 +144,8 @@
 | 136 | 270 | Ash Galvan |
 | 137 | 268 | GATOR |
 | 138 | 265 | SkipTheSadSauce |
-| 139 | 264 | Jenny Gingrich Fuentes |
-| 140 | 264 | Lexuriuos Lifestlye |
+| 139 | 264 | Lexuriuos Lifestlye |
+| 140 | 264 | Jenny Gingrich Fuentes |
 | 141 | 263 | Sharon Reynolds |
 | 142 | 258 | Virginia Gray Floyd |
 | 143 | 257 | Amanda Jarnagin |
@@ -167,8 +167,8 @@
 | 159 | 230 | Billie Dawn Sparks |
 | 160 | 230 | Frothy Pattern |
 | 161 | 229 | David Lutcher |
-| 162 | 226 | Sleepysloath5745 |
-| 163 | 226 | Kandae |
+| 162 | 226 | Kandae |
+| 163 | 226 | Sleepysloath5745 |
 | 164 | 224 | Dizzy Party |
 | 165 | 218 | LC |
 | 166 | 217 | ParisandCory Champagne |
@@ -192,8 +192,8 @@
 | 184 | 205 | Tater |
 | 185 | 205 | Snappy Matcher |
 | 186 | 204 | Lacy Wolfe |
-| 187 | 203 | LaFontaine Leslie |
-| 188 | 203 | Paula Martin |
+| 187 | 203 | Paula Martin |
+| 188 | 203 | LaFontaine Leslie |
 | 189 | 201 | Colleen Wise |
 | 190 | 200 | Breanna Luna |
 | 191 | 200 | DaRascal |
@@ -294,8 +294,8 @@
 | 286 | 136 | Chuck Gannon |
 | 287 | 135 | Mrs.Patrica |
 | 288 | 133 | MommaKFC |
-| 289 | 132 | Larry Tilton |
-| 290 | 132 | Layzietyme |
+| 289 | 132 | Layzietyme |
+| 290 | 132 | Larry Tilton |
 | 291 | 131 | Uhog SF |
 | 292 | 131 | Dizzy Riseclear |
 | 293 | 131 | Mike Ames |

@@ -204,8 +204,8 @@
 | 196 | 311 | Araceli Parra |
 | 197 | 311 | Rochelle Hazelett |
 | 198 | 310 | Danielle Balcom |
-| 199 | 308 | Rania Zaqout |
-| 200 | 308 | Daryn Elliott |
+| 199 | 308 | Daryn Elliott |
+| 200 | 308 | Rania Zaqout |
 | 201 | 307 | rnr junky |
 | 202 | 307 | Blocked |
 | 203 | 302 | Rebecca Bailey |
