@@ -399,8 +399,8 @@
 | 391 | 653 | Alex Dungo Hoang |
 | 392 | 652 | Mighty Spinbuilder |
 | 393 | 651 | Unica Rector |
-| 394 | 650 | Shiny Rollzone |
-| 395 | 650 | Amber Brion |
+| 394 | 650 | Amber Brion |
+| 395 | 650 | Shiny Rollzone |
 | 396 | 649 | Johnny Yeates |
 | 397 | 648 | AgileDragon |
 | 398 | 648 | Breezy Filler |
@@ -611,8 +611,8 @@
 | 603 | 450 | Mike Aprilliano |
 | 604 | 450 | Rich Sullivan |
 | 605 | 449 | Kristi Biddinger |
-| 606 | 448 | Lina Sanders |
-| 607 | 448 | Darlene Bowman |
+| 606 | 448 | Darlene Bowman |
+| 607 | 448 | Lina Sanders |
 | 608 | 447 | Boozi |
 | 609 | 446 | NanDa Cruzan VI |
 | 610 | 445 | Mar Q Thomas |
@@ -1162,11 +1162,11 @@
 | 1154 | 251 | Tim Jacoby |
 | 1155 | 251 | Sierra Edwards Lachmanek |
 | 1156 | 250 | Drew Berkelbach |
-| 1157 | 250 | Nikki Arlene |
-| 1158 | 250 | Happy Puzzle |
-| 1159 | 250 | Kay Stevenson |
-| 1160 | 249 | Kara Jennifer |
-| 1161 | 249 | Lesley Leanne Houston |
+| 1157 | 250 | Happy Puzzle |
+| 1158 | 250 | Kay Stevenson |
+| 1159 | 250 | Nikki Arlene |
+| 1160 | 249 | Lesley Leanne Houston |
+| 1161 | 249 | Kara Jennifer |
 | 1162 | 249 | J.L. Roberts |
 | 1163 | 249 | Pammie Miller |
 | 1164 | 249 | lady |
@@ -1575,7 +1575,7 @@
 | 1567 | 188 | Nuggets |
 | 1568 | 188 | Witty Risepiece |
 | 1569 | 188 | Sunny Frame |
-| 1570 | 188 | Corey Anthony Moe Matta |
+| 1570 | 188 | MineMineMine |
 | 1571 | 188 | Saucy Basegrid |
 | 1572 | 188 | Corey Anthony Moe Matta |
 | 1573 | 187 | Trevor Jordan |

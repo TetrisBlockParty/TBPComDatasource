@@ -139,8 +139,8 @@
 | 131 | 369 | Nope Young |
 | 132 | 368 | Lucas J Sutton |
 | 133 | 357 | Trista Leah |
-| 134 | 354 | Jessica Lynn Cutlip |
-| 135 | 354 | Kesha Brady |
+| 134 | 354 | Kesha Brady |
+| 135 | 354 | Jessica Lynn Cutlip |
 | 136 | 353 | Livvy |
 | 137 | 353 | Tyler Terrific |
 | 138 | 344 | Lush Linkfall |
@@ -258,8 +258,8 @@
 | 250 | 210 | Dihcheese444 |
 | 251 | 208 | Rebecca Morris |
 | 252 | 205 | Christina Black |
-| 253 | 205 | Keith Kelley |
-| 254 | 205 | James Hurley Jr. |
+| 253 | 205 | James Hurley Jr. |
+| 254 | 205 | Keith Kelley |
 | 255 | 203 | Katherine Crane |
 | 256 | 202 | Patron Anderson |
 | 257 | 202 | Orchislactea |
@@ -466,8 +466,8 @@
 | 458 | 117 | David V. Bowers |
 | 459 | 116 | Zesty Linkgrid |
 | 460 | 116 | Smiley Shifter |
-| 461 | 115 | Kujuanna Hammon |
-| 462 | 115 | Jayk |
+| 461 | 115 | Jayk |
+| 462 | 115 | Kujuanna Hammon |
 | 463 | 115 | Susan Williams |
 | 464 | 114 | The Murphy |
 | 465 | 114 | Rosemary Foster |

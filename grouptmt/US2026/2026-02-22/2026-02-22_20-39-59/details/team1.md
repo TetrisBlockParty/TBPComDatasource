@@ -98,8 +98,8 @@
 | 90 | 453 | Brandi Huntington |
 | 91 | 452 | Tdub |
 | 92 | 448 | Loony Fitzone |
-| 93 | 444 | Lexuriuos Lifestlye |
-| 94 | 444 | Hyper |
+| 93 | 444 | Hyper |
+| 94 | 444 | Lexuriuos Lifestlye |
 | 95 | 443 | Steve Schneider |
 | 96 | 439 | Trina Gee |
 | 97 | 436 | Tonya Beasley |
@@ -112,8 +112,8 @@
 | 104 | 417 | Lori Sanders- Davis |
 | 105 | 412 | Anaid Sanchez |
 | 106 | 411 | Luciano Moreira |
-| 107 | 409 | Dandy Basegrid |
-| 108 | 409 | Yvonne Marie |
+| 107 | 409 | Yvonne Marie |
+| 108 | 409 | Dandy Basegrid |
 | 109 | 395 | Nery Martinez |
 | 110 | 394 | Chris K |
 | 111 | 391 | Lori Bales |
@@ -135,8 +135,8 @@
 | 127 | 367 | Ly Phethmany |
 | 128 | 366 | And |
 | 129 | 364 | Shauna Loe |
-| 130 | 360 | phrmblk24 |
-| 131 | 360 | Wisa |
+| 130 | 360 | Wisa |
+| 131 | 360 | phrmblk24 |
 | 132 | 359 | Chirpy Smasher |
 | 133 | 357 | Amanda Johnson Huffman |
 | 134 | 350 | Tipsy Strikerpiece |
@@ -205,8 +205,8 @@
 | 197 | 261 | Witty Builderfit |
 | 198 | 260 | Cheeky Pop |
 | 199 | 256 | Chris65 |
-| 200 | 254 | Giggly Builderline |
-| 201 | 254 | Al Smith Jr |
+| 200 | 254 | Al Smith Jr |
+| 201 | 254 | Giggly Builderline |
 | 202 | 253 | Jamie Jury |
 | 203 | 252 | Dena Kayy |
 | 204 | 249 | Lakeisha Chapman |
@@ -220,8 +220,8 @@
 | 212 | 240 | DaRascal |
 | 213 | 239 | Lacy Wolfe |
 | 214 | 238 | Tiffany Smith |
-| 215 | 236 | Speedy Liney |
-| 216 | 236 | Matt Iaccheo |
+| 215 | 236 | Matt Iaccheo |
+| 216 | 236 | Speedy Liney |
 | 217 | 235 | MRdot Rooski |
 | 218 | 234 | Paula Martin |
 | 219 | 233 | LC |
@@ -430,8 +430,8 @@
 | 422 | 132 | Discovery Point |
 | 423 | 132 | Javyjavz |
 | 424 | 131 | Plucky Wrecker |
-| 425 | 130 | Katie Toothman |
-| 426 | 130 | Carl Claunch |
+| 425 | 130 | Carl Claunch |
+| 426 | 130 | Katie Toothman |
 | 427 | 130 | DoodleBug |
 | 428 | 129 | Sherri E Woods Hess |
 | 429 | 128 | Sarah Henniker |

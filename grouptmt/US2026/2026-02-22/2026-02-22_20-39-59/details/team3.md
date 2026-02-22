@@ -135,8 +135,8 @@
 | 127 | 572 | CeceGeGe |
 | 128 | 569 | Daryn Elliott |
 | 129 | 568 | Rachael McClain Owens |
-| 130 | 562 | Dave Herzog |
-| 131 | 562 | Louise Stacy Sisson |
+| 130 | 562 | Louise Stacy Sisson |
+| 131 | 562 | Dave Herzog |
 | 132 | 557 | Domo Washington |
 | 133 | 555 | Nicole Myers |
 | 134 | 554 | Leah Barnett |
@@ -166,8 +166,8 @@
 | 158 | 471 | Nora Rogers |
 | 159 | 471 | Mendoza Lee Christy |
 | 160 | 470 | Logan Naccarato |
-| 161 | 469 | Melissa Orth Hunter |
-| 162 | 469 | Adrian Marcel Pate |
+| 161 | 469 | Adrian Marcel Pate |
+| 162 | 469 | Melissa Orth Hunter |
 | 163 | 468 | Betty Ivy |
 | 164 | 464 | Makelini Mausia |
 | 165 | 464 | Michelle |
@@ -206,8 +206,8 @@
 | 198 | 400 | Sherika C. McDaniels |
 | 199 | 399 | Mcathen |
 | 200 | 391 | Cozy Snaplink |
-| 201 | 383 | Nicole Flippo |
-| 202 | 383 | rosy |
+| 201 | 383 | rosy |
+| 202 | 383 | Nicole Flippo |
 | 203 | 382 | Scott Carleton |
 | 204 | 378 | Chris Bell |
 | 205 | 377 | Darlene McMillan |
@@ -301,7 +301,7 @@
 | 293 | 271 | Cass Mendoza |
 | 294 | 269 | Micayah Stevens |
 | 295 | 269 | Brenda Schmid Wood |
-| 296 | 269 | Micayah Stevens |
+| 296 | 269 | ROODBOY |
 | 297 | 268 | Krystal Gerstberger |
 | 298 | 267 | Nikki Pags |
 | 299 | 267 | Aerian Preston |
@@ -386,8 +386,8 @@
 | 378 | 209 | Daring Builder |
 | 379 | 208 | Michael Kimbro |
 | 380 | 208 | Karent524 |
-| 381 | 207 | angieelyn |
-| 382 | 207 | Kristian Thurman |
+| 381 | 207 | Kristian Thurman |
+| 382 | 207 | angieelyn |
 | 383 | 206 | Tammy Rosenberry |
 | 384 | 206 | Cesar Barraza |
 | 385 | 205 | Rachel Napper |
