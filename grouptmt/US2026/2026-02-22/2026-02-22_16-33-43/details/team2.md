@@ -321,16 +321,16 @@
 | 313 | 715 | Stephanie Lumanlan |
 | 314 | 713 | Chelle |
 | 315 | 711 | Melissa Holsinger |
-| 316 | 704 | Shelley Thornburgh Wright |
-| 317 | 704 | Jánine Riggs |
+| 316 | 704 | Jánine Riggs |
+| 317 | 704 | Shelley Thornburgh Wright |
 | 318 | 703 | Gold Rose |
 | 319 | 700 | Beverly Owens |
 | 320 | 700 | Rosemadder |
 | 321 | 700 | Vincent Petrella |
 | 322 | 700 | Hong Tang |
 | 323 | 699 | tejas25 |
-| 324 | 697 | Ashle Scranton |
-| 325 | 697 | Dreamy Blast |
+| 324 | 697 | Dreamy Blast |
+| 325 | 697 | Ashle Scranton |
 | 326 | 695 | Deborah Miller |
 | 327 | 695 | Lakeysha Dortch |
 | 328 | 692 | Dannette Goldberg-Richards |

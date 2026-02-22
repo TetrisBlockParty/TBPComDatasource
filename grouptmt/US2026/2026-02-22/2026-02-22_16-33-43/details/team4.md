@@ -126,8 +126,8 @@
 | 118 | 369 | Nope Young |
 | 119 | 362 | Carrie Brian |
 | 120 | 354 | Serena Goodridge |
-| 121 | 353 | Tyler Terrific |
-| 122 | 353 | Livvy |
+| 121 | 353 | Livvy |
+| 122 | 353 | Tyler Terrific |
 | 123 | 344 | Lush Linkfall |
 | 124 | 343 | Latisha Davis |
 | 125 | 338 | ThaEviLJeNiuZ |
@@ -256,9 +256,9 @@
 | 248 | 181 | Jackie Marie |
 | 249 | 181 | Carter Jones |
 | 250 | 180 | Orchislactea |
-| 251 | 179 | Stephme310 |
+| 251 | 179 | TinyLegoRose |
 | 252 | 179 | Christina Black |
-| 253 | 179 | TinyLegoRose |
+| 253 | 179 | Stephme310 |
 | 254 | 179 | AyeKay |
 | 255 | 175 | Lorena Guerrero-Barron |
 | 256 | 171 | Autumn Kumzi |
@@ -267,10 +267,10 @@
 | 259 | 170 | Elie Pean |
 | 260 | 168 | 23 |
 | 261 | 167 | Cozy Balancer |
-| 262 | 166 | SammieJo Guy |
-| 263 | 166 | Jenny Wells-Oakley |
-| 264 | 166 | Angelito |
-| 265 | 166 | Megan Cutshaw |
+| 262 | 166 | Jenny Wells-Oakley |
+| 263 | 166 | SammieJo Guy |
+| 264 | 166 | Megan Cutshaw |
+| 265 | 166 | Angelito |
 | 266 | 165 | Brittany Marsh |
 | 267 | 165 | James Hurley Jr. |
 | 268 | 165 | Zappy Buildgrid |

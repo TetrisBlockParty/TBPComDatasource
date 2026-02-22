@@ -109,8 +109,8 @@
 | 101 | 389 | Nery Martinez |
 | 102 | 383 | pjbeta |
 | 103 | 380 | Dee Perry |
-| 104 | 379 | Kimmie Kimms |
-| 105 | 379 | Austin James |
+| 104 | 379 | Austin James |
+| 105 | 379 | Kimmie Kimms |
 | 106 | 376 | lil mickey |
 | 107 | 374 | Tinah Montanna |
 | 108 | 364 | Shauna Loe |
@@ -211,7 +211,7 @@
 | 203 | 221 | And |
 | 204 | 220 | Jessie Lynn |
 | 205 | 220 | Giddy Cascade |
-| 206 | 220 | Jessie Lynn |
+| 206 | 220 | Madison Wicks |
 | 207 | 219 | Chuck Gannon |
 | 208 | 218 | LC |
 | 209 | 216 | Shauntina Burke |
