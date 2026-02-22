@@ -86,8 +86,8 @@
 | 78 | 489 | Deanna L Hermanson |
 | 79 | 486 | Tater |
 | 80 | 485 | Cartier |
-| 81 | 483 | MomMom |
-| 82 | 483 | Ryan Lunnin |
+| 81 | 483 | Ryan Lunnin |
+| 82 | 483 | MomMom |
 | 83 | 480 | Nancy Green |
 | 84 | 472 | April Carroll |
 | 85 | 471 | Jennifer ManWarren |
@@ -130,8 +130,8 @@
 | 122 | 366 | David Miller |
 | 123 | 364 | Shauna Loe |
 | 124 | 362 | Plucky Ziggy |
-| 125 | 360 | Wisa |
-| 126 | 360 | phrmblk24 |
+| 125 | 360 | phrmblk24 |
+| 126 | 360 | Wisa |
 | 127 | 359 | Chirpy Smasher |
 | 128 | 358 | Sweet Baker |
 | 129 | 357 | Amanda Johnson Huffman |
@@ -182,8 +182,8 @@
 | 174 | 276 | Damon J. Martin |
 | 175 | 274 | Angela Renea Lester |
 | 176 | 273 | Shannon Marie Pitts |
-| 177 | 272 | Sleepysloath5745 |
-| 178 | 272 | Tana |
+| 177 | 272 | Tana |
+| 178 | 272 | Sleepysloath5745 |
 | 179 | 270 | Mandyy Rae |
 | 180 | 268 | Amanda Jarnagin |
 | 181 | 268 | Christy Jones |
@@ -219,15 +219,15 @@
 | 211 | 235 | MRdot Rooski |
 | 212 | 234 | Paula Martin |
 | 213 | 233 | LC |
-| 214 | 231 | Tyler Hertzog |
-| 215 | 231 | Sarah Somers Gray |
+| 214 | 231 | Sarah Somers Gray |
+| 215 | 231 | Tyler Hertzog |
 | 216 | 230 | BigWeenie69 |
-| 217 | 228 | Giddy Cascade |
-| 218 | 228 | Cheeky Pop |
+| 217 | 228 | Cheeky Pop |
+| 218 | 228 | Giddy Cascade |
 | 219 | 227 | Cody Gates |
 | 220 | 226 | Michael |
-| 221 | 225 | Bindi |
-| 222 | 225 | Jessie Lynn |
+| 221 | 225 | Jessie Lynn |
+| 222 | 225 | Bindi |
 | 223 | 224 | ParisandCory Champagne |
 | 224 | 223 | Christina Backer |
 | 225 | 223 | Erez Yosef |
@@ -650,7 +650,7 @@
 | 642 | 80 | Shannon Guilloty |
 | 643 | 80 | Spicy Zoner |
 | 644 | 79 | Scott Betson |
-| 645 | 79 | Jenn |
+| 645 | 79 | Zippy Align |
 | 646 | 79 | Kevin Prothro |
 | 647 | 79 | Cool Combo |
 | 648 | 79 | Churmo |

@@ -159,8 +159,8 @@
 | 151 | 1296 | Kristin Ruest |
 | 152 | 1290 | Bussyiano Page |
 | 153 | 1286 | Altamirano Michael |
-| 154 | 1282 | Tanya Parsons |
-| 155 | 1282 | Ashley Rose Frederick |
+| 154 | 1282 | Ashley Rose Frederick |
+| 155 | 1282 | Tanya Parsons |
 | 156 | 1273 | Cool Rollpiece |
 | 157 | 1271 | Shandrica Lowe |
 | 158 | 1248 | Isabela Shaw |
@@ -193,8 +193,8 @@
 | 185 | 1140 | Sarah Ridenour |
 | 186 | 1138 | Megan Ferguson Leone |
 | 187 | 1132 | Anna Edwards |
-| 188 | 1131 | Stacey Clement |
-| 189 | 1131 | Prado |
+| 188 | 1131 | Prado |
+| 189 | 1131 | Stacey Clement |
 | 190 | 1117 | Ricardo Burton |
 | 191 | 1105 | Nerdy Clearfit |
 | 192 | 1103 | William Meussner |
@@ -311,8 +311,8 @@
 | 303 | 787 | Laura McCarthey |
 | 304 | 783 | Lisa Ongtowasruk |
 | 305 | 781 | Hong Tang |
-| 306 | 777 | Tesha Oldaker |
-| 307 | 777 | Jessicah Myers |
+| 306 | 777 | Jessicah Myers |
+| 307 | 777 | Tesha Oldaker |
 | 308 | 777 | Samantha Jo |
 | 309 | 774 | Ginnell Browner |
 | 310 | 773 | Diana Fitzwater |
@@ -408,8 +408,8 @@
 | 400 | 627 | Victoria Moore-Smith |
 | 401 | 626 | Steven Marshaun |
 | 402 | 626 | Demeka Dangerous-kisses Johnson |
-| 403 | 620 | Brandon Armstrong |
-| 404 | 620 | Traci Johnson |
+| 403 | 620 | Traci Johnson |
+| 404 | 620 | Brandon Armstrong |
 | 405 | 619 | Melissa Penelope Ann Dodge |
 | 406 | 617 | Darcy Mae |
 | 407 | 617 | Nicole Cannon |
@@ -418,8 +418,8 @@
 | 410 | 613 | Caitlyn Blackwell |
 | 411 | 605 | Biggest thing |
 | 412 | 605 | g |
-| 413 | 602 | KhaosLord |
-| 414 | 602 | Shaun Church |
+| 413 | 602 | Shaun Church |
+| 414 | 602 | KhaosLord |
 | 415 | 601 | Moua Ying |
 | 416 | 600 | Arkei Luster |
 | 417 | 599 | Nashu |
@@ -521,11 +521,11 @@
 | 513 | 493 | Sarah DeHart |
 | 514 | 493 | Sue Leard |
 | 515 | 492 | Breezy Clusterer |
-| 516 | 492 | Armonie Smith |
-| 517 | 492 | Maya June |
-| 518 | 491 | Alezandra Smith |
+| 516 | 492 | Maya June |
+| 517 | 492 | Armonie Smith |
+| 518 | 491 | Michael Buckner |
 | 519 | 491 | Jedi |
-| 520 | 491 | Michael Buckner |
+| 520 | 491 | Alezandra Smith |
 | 521 | 489 | Elisheva Mizrachi |
 | 522 | 488 | Christina Wsn |
 | 523 | 487 | Ashley Dow |

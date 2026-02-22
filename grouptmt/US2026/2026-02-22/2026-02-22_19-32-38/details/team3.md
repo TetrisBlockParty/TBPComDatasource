@@ -70,8 +70,8 @@
 | 62 | 1027 | Gracie |
 | 63 | 1019 | Joey Banks |
 | 64 | 954 | Nate Burnside |
-| 65 | 926 | Judi Dobson |
-| 66 | 926 | Angela M. Fletcher |
+| 65 | 926 | Angela M. Fletcher |
+| 66 | 926 | Judi Dobson |
 | 67 | 924 | Shonna Roberts |
 | 68 | 909 | Jennifer |
 | 69 | 903 | Sarah Fehring |
@@ -210,8 +210,8 @@
 | 202 | 377 | rosy |
 | 203 | 376 | Loopy Clusterer |
 | 204 | 374 | Darlene McMillan |
-| 205 | 372 | Giddy Twistbuilder |
-| 206 | 372 | Tom Nault |
+| 205 | 372 | Tom Nault |
+| 206 | 372 | Giddy Twistbuilder |
 | 207 | 370 | Santeria Trece Candles |
 | 208 | 368 | Stephanie Woods |
 | 209 | 367 | Loopy Fallmatch |
