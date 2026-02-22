@@ -16,8 +16,8 @@
 | 8 | 1835 | East Mamba |
 | 9 | 1775 | Ash |
 | 10 | 1676 | Ayanna Soto |
-| 11 | 1447 | GreenJeepGirl |
-| 12 | 1447 | Juggalo |
+| 11 | 1447 | Juggalo |
+| 12 | 1447 | GreenJeepGirl |
 | 13 | 1318 | Cassie Michaux |
 | 14 | 1289 | Roger Coulter |
 | 15 | 1254 | Clarence Patawaran |
@@ -292,8 +292,8 @@
 | 284 | 151 | Shanon Klair |
 | 285 | 151 | Shainne Brewer |
 | 286 | 151 | Amanda Christine |
-| 287 | 150 | Brandon Link |
-| 288 | 150 | Jared Gutwein |
+| 287 | 150 | Jared Gutwein |
+| 288 | 150 | Brandon Link |
 | 289 | 150 | GBR |
 | 290 | 148 | Cranky Rollpiece |
 | 291 | 148 | Nubian1 |

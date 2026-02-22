@@ -115,8 +115,8 @@
 | 107 | 568 | Rachael McClain Owens |
 | 108 | 566 | Dolores Falco |
 | 109 | 565 | Patty Allen |
-| 110 | 562 | Dave Herzog |
-| 111 | 562 | Louise Stacy Sisson |
+| 110 | 562 | Louise Stacy Sisson |
+| 111 | 562 | Dave Herzog |
 | 112 | 559 | Morgan Martinez |
 | 113 | 551 | Kristie |
 | 114 | 549 | Nicole Myers |
@@ -136,8 +136,8 @@
 | 128 | 492 | Daira Largen |
 | 129 | 491 | Chauntee Alfrey-Cardinale |
 | 130 | 480 | Stephanie Blkpep Davidson |
-| 131 | 479 | Poppy Splitter |
-| 132 | 479 | Patti Skiles |
+| 131 | 479 | Patti Skiles |
+| 132 | 479 | Poppy Splitter |
 | 133 | 478 | CeceGeGe |
 | 134 | 473 | mzcatzy |
 | 135 | 471 | Mendoza Lee Christy |
@@ -170,8 +170,8 @@
 | 162 | 403 | Scott Lindsay |
 | 163 | 401 | Katie Knaus |
 | 164 | 400 | Luciana Braganca Vieira |
-| 165 | 399 | Marcie Bressler |
-| 166 | 399 | Mcathen |
+| 165 | 399 | Mcathen |
+| 166 | 399 | Marcie Bressler |
 | 167 | 397 | Annie Déè |
 | 168 | 393 | Fallorina Susana |
 | 169 | 391 | Araceli Parra |
@@ -183,8 +183,8 @@
 | 175 | 384 | Dapper Snap |
 | 176 | 382 | Scott Carleton |
 | 177 | 380 | Tasha Schriewer |
-| 178 | 378 | Chris Bell |
-| 179 | 378 | Nicole Flippo |
+| 178 | 378 | Nicole Flippo |
+| 179 | 378 | Chris Bell |
 | 180 | 376 | Loopy Clusterer |
 | 181 | 374 | Sherry Ogden |
 | 182 | 372 | Giddy Twistbuilder |
@@ -192,8 +192,8 @@
 | 184 | 370 | Danielle Allison |
 | 185 | 368 | Stephanie Woods |
 | 186 | 366 | Adrian Marcel Pate |
-| 187 | 362 | Rochelle Hazelett |
-| 188 | 362 | Darlene McMillan |
+| 187 | 362 | Darlene McMillan |
+| 188 | 362 | Rochelle Hazelett |
 | 189 | 361 | Jamie Lang |
 | 190 | 361 | Chelsea Hall |
 | 191 | 358 | RickyG |
@@ -257,9 +257,9 @@
 | 249 | 275 | Cassandra Bryant |
 | 250 | 274 | Tye Stovall |
 | 251 | 272 | Dee Franklin |
-| 252 | 271 | Alexmac |
+| 252 | 271 | Cass Mendoza |
 | 253 | 271 | Grego Daniel |
-| 254 | 271 | Cass Mendoza |
+| 254 | 271 | Alexmac |
 | 255 | 269 | Loopy Fallmatch |
 | 256 | 267 | Tiffany Davie |
 | 257 | 266 | Quirky Dropzone |
@@ -288,8 +288,8 @@
 | 280 | 239 | Michael Johnson |
 | 281 | 238 | LaTanya GeminiondaRise Johnson |
 | 282 | 236 | Angela Scott |
-| 283 | 236 | Jess Bissett |
-| 284 | 236 | Lys |
+| 283 | 236 | Lys |
+| 284 | 236 | Jess Bissett |
 | 285 | 235 | Cozy Snaplink |
 | 286 | 233 | Josh Borquez |
 | 287 | 232 | Donna |

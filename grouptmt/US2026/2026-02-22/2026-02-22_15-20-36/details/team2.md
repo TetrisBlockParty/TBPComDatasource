@@ -330,8 +330,8 @@
 | 322 | 688 | ShinyRose |
 | 323 | 687 | Dee |
 | 324 | 686 | Ashley Guernsey-Martin |
-| 325 | 685 | Binyah-Binyah |
-| 326 | 685 | Brenda Pierpoint |
+| 325 | 685 | Brenda Pierpoint |
+| 326 | 685 | Binyah-Binyah |
 | 327 | 682 | Poldo Ilano |
 | 328 | 680 | Glitzy Stackzone |
 | 329 | 679 | Eric Castaneda |
@@ -359,13 +359,13 @@
 | 351 | 640 | BYM4L |
 | 352 | 640 | Kara Gillen |
 | 353 | 639 | Crystie Hicks |
-| 354 | 639 | Jelly |
-| 355 | 639 | Rebecca Miller |
+| 354 | 639 | Rebecca Miller |
+| 355 | 639 | Jelly |
 | 356 | 631 | Dylan Thomason |
 | 357 | 631 | Marie Walker |
 | 358 | 628 | Brownie Sheena |
-| 359 | 627 | Allan Wayne Lamia |
-| 360 | 627 | Victoria Moore-Smith |
+| 359 | 627 | Victoria Moore-Smith |
+| 360 | 627 | Allan Wayne Lamia |
 | 361 | 620 | Brandon Armstrong |
 | 362 | 620 | Demeka Dangerous-kisses Johnson |
 | 363 | 618 | Gary Stash |
@@ -642,8 +642,8 @@
 | 634 | 384 | Party d |
 | 635 | 382 | Lively Edgepiece |
 | 636 | 382 | David Holliday |
-| 637 | 382 | James Zaragoza |
-| 638 | 382 | Amber Gray |
+| 637 | 382 | Amber Gray |
+| 638 | 382 | James Zaragoza |
 | 639 | 381 | Nicky Jackson |
 | 640 | 381 | Happy Caster |
 | 641 | 380 | Giggy Grabber |
@@ -667,15 +667,15 @@
 | 659 | 366 | Lawanda Forbes |
 | 660 | 366 | Courtney Burcham |
 | 661 | 365 | Christina Lewis-Vickers |
-| 662 | 364 | Matthew Joseph Acevedo |
-| 663 | 364 | Shinette Dobson |
-| 664 | 363 | Kia Humphery |
+| 662 | 364 | Shinette Dobson |
+| 663 | 364 | Matthew Joseph Acevedo |
+| 664 | 363 | Jes Norris |
 | 665 | 363 | Michelle Sager |
-| 666 | 363 | Jes Norris |
+| 666 | 363 | Kia Humphery |
 | 667 | 363 | Stephanie Fortune |
 | 668 | 363 | Veronica Stevenson |
-| 669 | 362 | Snappy Matchbuilder |
-| 670 | 362 | Janai Vrabel |
+| 669 | 362 | Janai Vrabel |
+| 670 | 362 | Snappy Matchbuilder |
 | 671 | 362 | Veronics |
 | 672 | 361 | Lewis Sturgeon |
 | 673 | 361 | Michelle Shrum |

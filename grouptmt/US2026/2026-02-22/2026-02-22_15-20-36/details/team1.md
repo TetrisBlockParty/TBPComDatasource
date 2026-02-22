@@ -149,8 +149,8 @@
 | 141 | 288 | GATOR |
 | 142 | 287 | David Lutcher |
 | 143 | 285 | Ananda Mendez |
-| 144 | 284 | Emily Adelaide Wheatley |
-| 145 | 284 | Rachael |
+| 144 | 284 | Rachael |
+| 145 | 284 | Emily Adelaide Wheatley |
 | 146 | 283 | Franswa |
 | 147 | 282 | Tyler Werts |
 | 148 | 282 | Cool Shiftsnap |
