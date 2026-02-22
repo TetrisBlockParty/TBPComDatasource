@@ -153,8 +153,8 @@
 | 145 | 400 | Luciana Braganca Vieira |
 | 146 | 400 | Aaron Pitkin |
 | 147 | 399 | Marcie Bressler |
-| 148 | 399 | Jacqueline Rodriguez |
-| 149 | 399 | Mcathen |
+| 148 | 399 | Mcathen |
+| 149 | 399 | Jacqueline Rodriguez |
 | 150 | 397 | Annie Déè |
 | 151 | 393 | Fallorina Susana |
 | 152 | 392 | Jim Mathews |
@@ -265,8 +265,8 @@
 | 257 | 227 | Meowsa |
 | 258 | 225 | Dirtgirl27 |
 | 259 | 223 | Connie Mohler-Fair |
-| 260 | 221 | Alice |
-| 261 | 221 | Jaime Monhaut-Reed |
+| 260 | 221 | Jaime Monhaut-Reed |
+| 261 | 221 | Alice |
 | 262 | 221 | Vaners |
 | 263 | 220 | rosy |
 | 264 | 219 | Sissy Lowery Davis |
@@ -308,8 +308,8 @@
 | 300 | 189 | Katie Leigh Blankenship |
 | 301 | 188 | Loopy Fallmatch |
 | 302 | 186 | Carrie Huskey |
-| 303 | 184 | France Vézina |
-| 304 | 184 | Troy |
+| 303 | 184 | Troy |
+| 304 | 184 | France Vézina |
 | 305 | 184 | Stephanie Hill |
 | 306 | 182 | Melanie Sherwood |
 | 307 | 181 | Nicholas Roddy |
@@ -335,8 +335,8 @@
 | 327 | 168 | Trice Thomas |
 | 328 | 168 | April Matthew Kibble |
 | 329 | 167 | Shicken Nuggit |
-| 330 | 167 | Irene Arreguin |
-| 331 | 167 | Romeo |
+| 330 | 167 | Romeo |
+| 331 | 167 | Irene Arreguin |
 | 332 | 166 | Noettín Kan Zasnemoore |
 | 333 | 166 | Snarky McFace |
 | 334 | 165 | Ashley Lynn Marchese |

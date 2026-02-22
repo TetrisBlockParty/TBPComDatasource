@@ -115,8 +115,8 @@
 | 107 | 319 | Deanna L Hermanson |
 | 108 | 313 | Tanya Carpenter-Reynolds |
 | 109 | 310 | Seth Wesson |
-| 110 | 310 | Jason Jones |
-| 111 | 310 | phrmblk24 |
+| 110 | 310 | phrmblk24 |
+| 111 | 310 | Jason Jones |
 | 112 | 306 | Happy Basegrid |
 | 113 | 304 | Nicole Roseberry Weber |
 | 114 | 301 | Lehrin Maria |
@@ -239,8 +239,8 @@
 | 231 | 163 | DaRascal |
 | 232 | 161 | SavageBooty98 |
 | 233 | 160 | Tedashi |
-| 234 | 158 | Sarah Marie |
-| 235 | 158 | Alenoush Karimian |
+| 234 | 158 | Alenoush Karimian |
+| 235 | 158 | Sarah Marie |
 | 236 | 156 | Erin Rosberg |
 | 237 | 156 | Mark Smith |
 | 238 | 155 | Barry Mac'Ockner |
@@ -287,8 +287,8 @@
 | 279 | 132 | Larry Tilton |
 | 280 | 132 | Layzietyme |
 | 281 | 131 | Uhog SF |
-| 282 | 130 | Carl Claunch |
-| 283 | 130 | Gilbert Ortiz Jr. |
+| 282 | 130 | Gilbert Ortiz Jr. |
+| 283 | 130 | Carl Claunch |
 | 284 | 130 | Howdi Duty |
 | 285 | 129 | Dizzy Riseclear |
 | 286 | 129 | Sherri E Woods Hess |

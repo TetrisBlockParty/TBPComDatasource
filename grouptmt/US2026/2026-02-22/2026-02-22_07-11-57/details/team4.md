@@ -78,8 +78,8 @@
 | 70 | 504 | Ash |
 | 71 | 500 | Rodney McMath Jr. |
 | 72 | 486 | Landon Keith Graffeo |
-| 73 | 483 | TeeJ |
-| 74 | 483 | Carmethia Clemons Haslerig |
+| 73 | 483 | Carmethia Clemons Haslerig |
+| 74 | 483 | TeeJ |
 | 75 | 467 | Dawn Alexander |
 | 76 | 463 | Eric Mcgaughy |
 | 77 | 447 | Samantha Peterson |
@@ -91,8 +91,8 @@
 | 83 | 409 | Isabella Blanco |
 | 84 | 405 | Shane Kalamata Platoon |
 | 85 | 404 | Courtney Cicoria |
-| 86 | 396 | Amy Suckarieh |
-| 87 | 396 | Alicia Bass |
+| 86 | 396 | Alicia Bass |
+| 87 | 396 | Amy Suckarieh |
 | 88 | 392 | Ericca Eldridge |
 | 89 | 391 | Ramel Rhodes |
 | 90 | 390 | Carlton Unfiltered |
@@ -130,8 +130,8 @@
 | 122 | 286 | Daria Rycewicz |
 | 123 | 283 | Brittney Orengo |
 | 124 | 281 | Meagan Nicole |
-| 125 | 278 | Carrie Brian |
-| 126 | 278 | Desi Desporte |
+| 125 | 278 | Desi Desporte |
+| 126 | 278 | Carrie Brian |
 | 127 | 277 | Mary Ann Pabukis |
 | 128 | 277 | Scott Jameson |
 | 129 | 275 | Dizzy Tiley |
@@ -191,12 +191,12 @@
 | 183 | 192 | Shauna Havard |
 | 184 | 191 | Klo |
 | 185 | 190 | Cheery Risebuilder |
-| 186 | 189 | Calvin Dennis |
-| 187 | 189 | Stacey Stano |
+| 186 | 189 | Stacey Stano |
+| 187 | 189 | Calvin Dennis |
 | 188 | 188 | Andria Lynn |
 | 189 | 186 | Holly |
-| 190 | 185 | Lori |
-| 191 | 185 | Andy Cabral |
+| 190 | 185 | Andy Cabral |
+| 191 | 185 | Lori |
 | 192 | 184 | Ak Jones |
 | 193 | 181 | Alan George LaRage |
 | 194 | 181 | Carter Jones |
@@ -209,8 +209,8 @@
 | 201 | 172 | Gilles Lanctot |
 | 202 | 171 | Autumn Kumzi |
 | 203 | 167 | Cozy Balancer |
-| 204 | 166 | SammieJo Guy |
-| 205 | 166 | Marvin Lou Martin |
+| 204 | 166 | Marvin Lou Martin |
+| 205 | 166 | SammieJo Guy |
 | 206 | 165 | James Hurley Jr. |
 | 207 | 165 | Jackie Marie |
 | 208 | 164 | 030Synner |
@@ -396,9 +396,9 @@
 | 388 | 94 | Cynthia Boudreau |
 | 389 | 94 | Ahleek Mitchell |
 | 390 | 93 | Matt Gooder |
-| 391 | 92 | Frilly Blocky |
+| 391 | 92 | Krash |
 | 392 | 92 | bloat princess |
-| 393 | 92 | Krash |
+| 393 | 92 | Frilly Blocky |
 | 394 | 91 | Sunny Filler |
 | 395 | 91 | Kametsunoyaiba |
 | 396 | 91 | Lee Silpe |
