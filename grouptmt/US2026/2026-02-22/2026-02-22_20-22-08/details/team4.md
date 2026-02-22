@@ -48,9 +48,9 @@
 | 40 | 908 | Misty Hollibaugh |
 | 41 | 886 | Dustin Robert |
 | 42 | 855 | Marvin Lou Martin |
-| 43 | 846 | Christine Marie |
-| 44 | 846 | Lucille Truesdale |
-| 45 | 846 | Jae Job |
+| 43 | 846 | Lucille Truesdale |
+| 44 | 846 | Jae Job |
+| 45 | 846 | Christine Marie |
 | 46 | 843 | Shelly Chandler |
 | 47 | 839 | LisaJo Picken Buchanan |
 | 48 | 835 | TeeJ |
@@ -76,13 +76,13 @@
 | 68 | 664 | loulou |
 | 69 | 659 | Jonathan Kimbrough |
 | 70 | 654 | Julian Garcia |
-| 71 | 647 | KM8 |
-| 72 | 647 | Shauna Havard |
+| 71 | 647 | Shauna Havard |
+| 72 | 647 | KM8 |
 | 73 | 646 | Jacqueline Helm |
 | 74 | 645 | Carolyn Wallace |
 | 75 | 626 | Brittney Griggs |
-| 76 | 617 | Savannah Overdorf |
-| 77 | 617 | Jason Hart |
+| 76 | 617 | Jason Hart |
+| 77 | 617 | Savannah Overdorf |
 | 78 | 614 | TheNeesh50 |
 | 79 | 603 | Jason Allen |
 | 80 | 597 | Eric Mcgaughy |
@@ -98,8 +98,8 @@
 | 90 | 537 | Dawn Alexander |
 | 91 | 531 | Amelpss |
 | 92 | 519 | Nugget |
-| 93 | 513 | Erin Thomas |
-| 94 | 513 | YoMomma |
+| 93 | 513 | YoMomma |
+| 94 | 513 | Erin Thomas |
 | 95 | 512 | Casey Jeffcoat |
 | 96 | 509 | Diana Houts |
 | 97 | 500 | Rodney McMath Jr. |
@@ -389,8 +389,8 @@
 | 381 | 140 | Joshua W. Benton |
 | 382 | 140 | Rico |
 | 383 | 139 | Bradley Reeves |
-| 384 | 139 | Ann G. Carrillo |
-| 385 | 139 | Lori Goudy |
+| 384 | 139 | Lori Goudy |
+| 385 | 139 | Ann G. Carrillo |
 | 386 | 138 | Moonsterix |
 | 387 | 138 | Janis Brown |
 | 388 | 138 | Jasmine S Caldwell |

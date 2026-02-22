@@ -209,8 +209,8 @@
 | 201 | 1063 | Mema |
 | 202 | 1062 | Crystal Slaughter |
 | 203 | 1058 | Jennifer Kistner |
-| 204 | 1057 | RAEPR05 |
-| 205 | 1057 | Desiree Harris Rosch |
+| 204 | 1057 | Desiree Harris Rosch |
+| 205 | 1057 | RAEPR05 |
 | 206 | 1052 | Amy Sayers |
 | 207 | 1045 | Lourisha |
 | 208 | 1043 | Brave Dropmatch |
@@ -470,8 +470,8 @@
 | 462 | 563 | Sarah Massey |
 | 463 | 562 | AISlop |
 | 464 | 559 | Blacc Blac |
-| 465 | 558 | Frisky Clearpiece |
-| 466 | 558 | Cheery Matchzone |
+| 465 | 558 | Cheery Matchzone |
+| 466 | 558 | Frisky Clearpiece |
 | 467 | 558 | Libby Hicks |
 | 468 | 556 | Slip |
 | 469 | 554 | Rachael Senard |

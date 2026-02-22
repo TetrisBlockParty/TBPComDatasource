@@ -70,8 +70,8 @@
 | 62 | 1027 | Gracie |
 | 63 | 1019 | Joey Banks |
 | 64 | 954 | Nate Burnside |
-| 65 | 926 | Angela M. Fletcher |
-| 66 | 926 | Judi Dobson |
+| 65 | 926 | Judi Dobson |
+| 66 | 926 | Angela M. Fletcher |
 | 67 | 924 | Shonna Roberts |
 | 68 | 909 | Jennifer |
 | 69 | 903 | Sarah Fehring |
@@ -137,8 +137,8 @@
 | 129 | 562 | Dave Herzog |
 | 130 | 562 | Louise Stacy Sisson |
 | 131 | 557 | Domo Washington |
-| 132 | 555 | opf |
-| 133 | 555 | Nicole Myers |
+| 132 | 555 | Nicole Myers |
+| 133 | 555 | opf |
 | 134 | 554 | Leah Barnett |
 | 135 | 553 | LaTanya GeminiondaRise Johnson |
 | 136 | 551 | Alaina Lee |
@@ -203,24 +203,24 @@
 | 195 | 400 | Sherika C. McDaniels |
 | 196 | 399 | Mcathen |
 | 197 | 392 | Chasity |
-| 198 | 391 | Cozy Snaplink |
-| 199 | 391 | Sarah Cowan Burgos |
+| 198 | 391 | Sarah Cowan Burgos |
+| 199 | 391 | Cozy Snaplink |
 | 200 | 383 | rosy |
 | 201 | 383 | Nicole Flippo |
 | 202 | 382 | Scott Carleton |
 | 203 | 378 | Chris Bell |
 | 204 | 377 | Darlene McMillan |
 | 205 | 376 | Loopy Clusterer |
-| 206 | 372 | Tom Nault |
+| 206 | 372 | Rich LeBlanc |
 | 207 | 372 | Giddy Twistbuilder |
-| 208 | 372 | Rich LeBlanc |
+| 208 | 372 | Tom Nault |
 | 209 | 370 | Santeria Trece Candles |
 | 210 | 369 | Sarah Moyer |
 | 211 | 368 | Stephanie Woods |
-| 212 | 367 | Loopy Fallmatch |
-| 213 | 367 | Marci Mize Fandrich |
-| 214 | 365 | Chummy Caster |
-| 215 | 365 | Tiffany Ford |
+| 212 | 367 | Marci Mize Fandrich |
+| 213 | 367 | Loopy Fallmatch |
+| 214 | 365 | Tiffany Ford |
+| 215 | 365 | Chummy Caster |
 | 216 | 362 | Brandon Givens |
 | 217 | 361 | RickyG |
 | 218 | 360 | Sheila M Frazier |
@@ -468,7 +468,7 @@
 | 460 | 170 | Tegan Chapman |
 | 461 | 169 | Peachy Rollfit |
 | 462 | 169 | Boldy Corner |
-| 463 | 168 | Christina Marie Swisher |
+| 463 | 168 | Hanna Kim |
 | 464 | 168 | Trice Thomas |
 | 465 | 168 | Christina Marie Swisher |
 | 466 | 168 | Snarky McFace |
@@ -537,12 +537,12 @@
 | 529 | 152 | lashanda |
 | 530 | 152 | Elisha L Allman |
 | 531 | 152 | Shiny Zonebuilder |
-| 532 | 151 | Cheery Brickster |
-| 533 | 151 | Carol Cain Thurman |
-| 534 | 151 | Paula Little |
+| 532 | 151 | Carol Cain Thurman |
+| 533 | 151 | Paula Little |
+| 534 | 151 | Cheery Brickster |
 | 535 | 150 | Steph Arcari |
 | 536 | 150 | Sassy Brickmatch |
-| 537 | 149 | Alexis Taylor |
+| 537 | 149 | xsiv |
 | 538 | 149 | Todd Hall |
 | 539 | 149 | Alexis Taylor |
 | 540 | 148 | Kate Farok |
@@ -551,8 +551,8 @@
 | 543 | 147 | Heather Bateman |
 | 544 | 147 | Megan Rathmanner |
 | 545 | 147 | Carrie Resler |
-| 546 | 146 | Amanda Declue |
-| 547 | 146 | Sara Dunn |
+| 546 | 146 | Sara Dunn |
+| 547 | 146 | Amanda Declue |
 | 548 | 145 | Christine Vosburgh |
 | 549 | 144 | Chipper Piecefit |
 | 550 | 144 | krazibtch |
