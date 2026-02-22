@@ -224,8 +224,8 @@
 | 216 | 919 | Isaac Trappiel IV |
 | 217 | 919 | Joshua Mandel |
 | 218 | 916 | Butta |
-| 219 | 915 | Robin Kerby |
-| 220 | 915 | Angela Bonquiqui Dinish |
+| 219 | 915 | Angela Bonquiqui Dinish |
+| 220 | 915 | Robin Kerby |
 | 221 | 915 | Kelly Trent |
 | 222 | 910 | Shuany Arias |
 | 223 | 907 | Cindy Sechler Taninecz |
@@ -279,8 +279,8 @@
 | 271 | 771 | Terri McKelvey McKinley |
 | 272 | 770 | Offonar Facey |
 | 273 | 768 | Mighty Shatterfit |
-| 274 | 767 | Ashley Lopez |
-| 275 | 767 | Jessica Wayne Cornwall |
+| 274 | 767 | Jessica Wayne Cornwall |
+| 275 | 767 | Ashley Lopez |
 | 276 | 765 | Jodi Blake |
 | 277 | 764 | Pacynthia Williams |
 | 278 | 763 | Angie Bolton Workman |
@@ -338,8 +338,8 @@
 | 330 | 669 | Charvi' Carter |
 | 331 | 668 | Roseanna Peloso |
 | 332 | 666 | Speedy Spinblock |
-| 333 | 665 | Prette Qui |
-| 334 | 665 | Leslie Ann Carter |
+| 333 | 665 | Leslie Ann Carter |
+| 334 | 665 | Prette Qui |
 | 335 | 664 | Sleepypanda67 |
 | 336 | 663 | Mandi Douglas Hilt |
 | 337 | 663 | Ashle Scranton |
@@ -348,8 +348,8 @@
 | 340 | 661 | goofinoff |
 | 341 | 659 | Draizen Montrell Thomas |
 | 342 | 651 | Unica Rector |
-| 343 | 650 | Shiny Rollzone |
-| 344 | 650 | tejas25 |
+| 343 | 650 | tejas25 |
+| 344 | 650 | Shiny Rollzone |
 | 345 | 643 | Hoppy Brickmatch |
 | 346 | 640 | Kara Gillen |
 | 347 | 640 | BYM4L |
@@ -586,8 +586,8 @@
 | 578 | 413 | Hunter Connors |
 | 579 | 413 | Angi Harrison |
 | 580 | 412 | Jason H Baker |
-| 581 | 411 | Mighty Spinbuilder |
-| 582 | 411 | Kristen O'Neal |
+| 581 | 411 | Kristen O'Neal |
+| 582 | 411 | Mighty Spinbuilder |
 | 583 | 410 | Belle |
 | 584 | 409 | Cleo Sims |
 | 585 | 408 | Stefanie Zonzini-Gagliardi |
@@ -610,8 +610,8 @@
 | 602 | 396 | AkaLefty |
 | 603 | 396 | Candy Pitts |
 | 604 | 396 | Boogie SoAnimated Johnson |
-| 605 | 393 | Jamie West |
-| 606 | 393 | bbv |
+| 605 | 393 | bbv |
+| 606 | 393 | Jamie West |
 | 607 | 393 | Deyawn Smith |
 | 608 | 393 | Smashanator |
 | 609 | 392 | Jasmine Kenney |
@@ -634,8 +634,8 @@
 | 626 | 384 | Party d |
 | 627 | 384 | Kelly |
 | 628 | 383 | Jessica Conaway |
-| 629 | 382 | David Holliday |
-| 630 | 382 | Lively Edgepiece |
+| 629 | 382 | Lively Edgepiece |
+| 630 | 382 | David Holliday |
 | 631 | 382 | Amber Gray |
 | 632 | 382 | James Zaragoza |
 | 633 | 381 | Nicky Jackson |

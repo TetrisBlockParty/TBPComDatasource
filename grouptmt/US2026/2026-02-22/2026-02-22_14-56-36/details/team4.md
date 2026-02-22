@@ -97,8 +97,8 @@
 | 89 | 468 | Shane Kalamata Platoon |
 | 90 | 455 | YoMomma |
 | 91 | 448 | Kristin Manee |
-| 92 | 447 | Samantha Peterson |
-| 93 | 447 | Shannon Ferrari |
+| 92 | 447 | Shannon Ferrari |
+| 93 | 447 | Samantha Peterson |
 | 94 | 447 | Erin Thomas |
 | 95 | 444 | Chilly Crasher |
 | 96 | 441 | Chastity Mitchell |
@@ -141,8 +141,8 @@
 | 133 | 315 | Jessica Bohlken |
 | 134 | 314 | Andy Cabral |
 | 135 | 303 | Lauren Scott |
-| 136 | 300 | Jason Hart |
-| 137 | 300 | Dana Scott |
+| 136 | 300 | Dana Scott |
+| 137 | 300 | Jason Hart |
 | 138 | 299 | TRCuse |
 | 139 | 298 | Lucas J Sutton |
 | 140 | 295 | Bio Nelly |
@@ -294,8 +294,8 @@
 | 286 | 150 | Brandon Link |
 | 287 | 150 | Jared Gutwein |
 | 288 | 149 | Shainne Brewer |
-| 289 | 148 | Nubian1 |
-| 290 | 148 | Cranky Rollpiece |
+| 289 | 148 | Cranky Rollpiece |
+| 290 | 148 | Nubian1 |
 | 291 | 148 | Janita Parrish |
 | 292 | 148 | Ruby Khalisadar |
 | 293 | 147 | Adam Stephanie Parker |
