@@ -234,14 +234,14 @@
 | 226 | 705 | Lola Contreras |
 | 227 | 705 | Roger Grabbit |
 | 228 | 703 | Gold Rose |
-| 229 | 700 | Vincent Petrella |
-| 230 | 700 | Rosemadder |
-| 231 | 700 | Beverly Owens |
+| 229 | 700 | Rosemadder |
+| 230 | 700 | Beverly Owens |
+| 231 | 700 | Vincent Petrella |
 | 232 | 698 | Mighty Shatterfit |
 | 233 | 697 | Dreamy Blast |
-| 234 | 692 | Chelle |
-| 235 | 692 | Jennifer Casey-Kay |
-| 236 | 692 | Dannette Goldberg-Richards |
+| 234 | 692 | Jennifer Casey-Kay |
+| 235 | 692 | Dannette Goldberg-Richards |
+| 236 | 692 | Chelle |
 | 237 | 690 | Deborah Miller |
 | 238 | 688 | ShinyRose |
 | 239 | 686 | Ashley Guernsey-Martin |
@@ -800,8 +800,8 @@
 | 792 | 237 | Jay Levy |
 | 793 | 237 | Devlin Ogg |
 | 794 | 237 | Jodi Mitnick |
-| 795 | 236 | Daring Matchfit |
-| 796 | 236 | Ashley Dow |
+| 795 | 236 | Ashley Dow |
+| 796 | 236 | Daring Matchfit |
 | 797 | 236 | Denisse Avilez |
 | 798 | 236 | Chummy Breaker |
 | 799 | 235 | Angelica |

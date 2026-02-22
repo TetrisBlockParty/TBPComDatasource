@@ -77,11 +77,11 @@
 | 69 | 412 | Jazzy Framezone |
 | 70 | 391 | Robert Benito |
 | 71 | 390 | Candy Jones |
-| 72 | 388 | Yvonne Marie |
-| 73 | 388 | Jennifer ManWarren |
+| 72 | 388 | Jennifer ManWarren |
+| 73 | 388 | Yvonne Marie |
 | 74 | 382 | Lori Sanders- Davis |
-| 75 | 380 | Cynthia Bradley |
-| 76 | 380 | cc |
+| 75 | 380 | cc |
+| 76 | 380 | Cynthia Bradley |
 | 77 | 379 | Austin James |
 | 78 | 374 | Tinah Montanna |
 | 79 | 368 | Tdub |
@@ -159,8 +159,8 @@
 | 151 | 201 | Sleepysloath5745 |
 | 152 | 200 | Ash Galvan |
 | 153 | 199 | Basment Living |
-| 154 | 198 | Shiny Gridmatch |
-| 155 | 198 | Happy Snapbuild |
+| 154 | 198 | Happy Snapbuild |
+| 155 | 198 | Shiny Gridmatch |
 | 156 | 195 | Daring Fitclear |
 | 157 | 194 | Tyler Werts |
 | 158 | 193 | Lachelle Dillon |
@@ -181,8 +181,8 @@
 | 173 | 179 | femmefatale |
 | 174 | 179 | Danielle Little-Daugherty |
 | 175 | 178 | Chad Atchley |
-| 176 | 177 | Irual Hctrab |
-| 177 | 177 | Jacqueline Unique |
+| 176 | 177 | Jacqueline Unique |
+| 177 | 177 | Irual Hctrab |
 | 178 | 176 | Mel Hogan |
 | 179 | 175 | John Barron |
 | 180 | 174 | Cheeky Pop |
@@ -317,8 +317,8 @@
 | 309 | 102 | Barrbaric |
 | 310 | 102 | Sarah Henniker |
 | 311 | 102 | Marie White |
-| 312 | 101 | Liliana Pena |
-| 313 | 101 | Mizzledagod |
+| 312 | 101 | Mizzledagod |
+| 313 | 101 | Liliana Pena |
 | 314 | 100 | Brandi Egbert |
 | 315 | 100 | Plucky Fallzone |
 | 316 | 100 | Jessica Weed |

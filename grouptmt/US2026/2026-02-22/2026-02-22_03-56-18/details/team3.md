@@ -106,8 +106,8 @@
 | 98 | 506 | Sashay Tapae Simpson |
 | 99 | 503 | Susan Valentino |
 | 100 | 502 | Justin Ritter |
-| 101 | 500 | Kristie |
-| 102 | 500 | Domo Washington |
+| 101 | 500 | Domo Washington |
+| 102 | 500 | Kristie |
 | 103 | 497 | Mykal Burton |
 | 104 | 491 | Chauntee Alfrey-Cardinale |
 | 105 | 487 | Alaina Lee |
@@ -130,16 +130,16 @@
 | 122 | 410 | Stephanie Blkpep Davidson |
 | 123 | 409 | Karon Griffin |
 | 124 | 405 | Michelle |
-| 125 | 403 | Scott Lindsay |
-| 126 | 403 | Christine Filson |
+| 125 | 403 | Christine Filson |
+| 126 | 403 | Scott Lindsay |
 | 127 | 402 | Shannon Matthew Byers |
 | 128 | 400 | Luciana Braganca Vieira |
 | 129 | 399 | Mcathen |
 | 130 | 399 | Patti Skiles |
 | 131 | 399 | ren |
 | 132 | 397 | Annie Déè |
-| 133 | 392 | Tasha Gillespie |
-| 134 | 392 | Katie Knaus |
+| 133 | 392 | Katie Knaus |
+| 134 | 392 | Tasha Gillespie |
 | 135 | 391 | Calista Jo Dickson |
 | 136 | 390 | Hasty Cascadefit |
 | 137 | 381 | Louise Stacy Sisson |
@@ -173,13 +173,13 @@
 | 165 | 317 | Ashley Tookes |
 | 166 | 311 | Raya |
 | 167 | 308 | Rania Zaqout |
-| 168 | 307 | Blocked |
-| 169 | 307 | rnr junky |
+| 168 | 307 | rnr junky |
+| 169 | 307 | Blocked |
 | 170 | 300 | Sherika C. McDaniels |
 | 171 | 298 | MsBee |
-| 172 | 295 | RickyG |
-| 173 | 295 | Jim Mathews |
-| 174 | 295 | Marcie Bressler |
+| 172 | 295 | Jim Mathews |
+| 173 | 295 | Marcie Bressler |
+| 174 | 295 | RickyG |
 | 175 | 293 | Marci Mize Fandrich |
 | 176 | 291 | Daryn Elliott |
 | 177 | 289 | DidIdothat |
@@ -191,8 +191,8 @@
 | 183 | 286 | Jacqueline Rodriguez |
 | 184 | 284 | Edwin Calvillo Jr. |
 | 185 | 283 | Joye Sims Binion |
-| 186 | 278 | Rufus Lincoln |
-| 187 | 278 | Araceli Parra |
+| 186 | 278 | Araceli Parra |
+| 187 | 278 | Rufus Lincoln |
 | 188 | 277 | Keis |
 | 189 | 276 | _melisa223_ |
 | 190 | 276 | Crimson |
@@ -262,8 +262,8 @@
 | 254 | 200 | Sharisse Baltimore |
 | 255 | 199 | Hyper Matchzone |
 | 256 | 197 | Raven Dudley |
-| 257 | 195 | Nicha Hooker |
-| 258 | 195 | Cheryl Hinch Tenbrook |
+| 257 | 195 | Cheryl Hinch Tenbrook |
+| 258 | 195 | Nicha Hooker |
 | 259 | 193 | Clever Shiftsnap |
 | 260 | 192 | Kelly Ann Child |
 | 261 | 191 | Meowsa |
@@ -330,8 +330,8 @@
 | 322 | 153 | Cozy Snaplink |
 | 323 | 153 | Steffi Chris Dacones |
 | 324 | 152 | LaTanya GeminiondaRise Johnson |
-| 325 | 152 | Shiny Zonebuilder |
-| 326 | 152 | Ashley Lynn Marchese |
+| 325 | 152 | Ashley Lynn Marchese |
+| 326 | 152 | Shiny Zonebuilder |
 | 327 | 152 | Goofy Fall |
 | 328 | 151 | Nichole Greene |
 | 329 | 151 | Rainbow77375 |
@@ -1420,7 +1420,7 @@
 | 1412 | 32 | chynadoll |
 | 1413 | 31 | Tracy Inez Ridgely |
 | 1414 | 31 | coop |
-| 1415 | 31 | Ashley Logan |
+| 1415 | 31 | MrLoner Stoner |
 | 1416 | 31 | Sarah Tsujikawa-Berreman |
 | 1417 | 31 | Ellen Schaupp |
 | 1418 | 31 | Lisa Mankin |
