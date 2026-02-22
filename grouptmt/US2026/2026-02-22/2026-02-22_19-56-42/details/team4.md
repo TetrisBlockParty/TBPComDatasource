@@ -72,8 +72,8 @@
 | 64 | 703 | Anthony Bryan Riva |
 | 65 | 675 | D3TROITB0RN74 |
 | 66 | 671 | Kimyatta Cavin |
-| 67 | 664 | Valerie Roberts |
-| 68 | 664 | loulou |
+| 67 | 664 | loulou |
+| 68 | 664 | Valerie Roberts |
 | 69 | 659 | Jonathan Kimbrough |
 | 70 | 647 | KM8 |
 | 71 | 647 | Shauna Havard |
@@ -175,8 +175,8 @@
 | 167 | 288 | Leah Kutz Zirbel |
 | 168 | 286 | Brittney Orengo |
 | 169 | 281 | Lindsay Ball |
-| 170 | 277 | Silly Zonebuilder |
-| 171 | 277 | Mary Ann Pabukis |
+| 170 | 277 | Mary Ann Pabukis |
+| 171 | 277 | Silly Zonebuilder |
 | 172 | 273 | Crystal Nicolette Moore |
 | 173 | 272 | Alan George LaRage |
 | 174 | 271 | Sarah Brown |
@@ -244,7 +244,7 @@
 | 236 | 215 | Ziggy |
 | 237 | 214 | Stacey Stano |
 | 238 | 213 | Sarah Neathery |
-| 239 | 213 | Angela Geist Jusinski |
+| 239 | 213 | Rio Rocha |
 | 240 | 213 | scott |
 | 241 | 213 | Angela Geist Jusinski |
 | 242 | 212 | Mike Solo |
@@ -263,8 +263,8 @@
 | 255 | 200 | Googenheim |
 | 256 | 199 | Orchislactea |
 | 257 | 198 | Angelito |
-| 258 | 198 | Calvin Dennis |
-| 259 | 198 | Silly SeaWeed |
+| 258 | 198 | Silly SeaWeed |
+| 259 | 198 | Calvin Dennis |
 | 260 | 197 | Gilles Lanctot |
 | 261 | 196 | Zany Shatterer |
 | 262 | 195 | Snippy Puzzle |
@@ -272,8 +272,8 @@
 | 264 | 194 | Zany Twisterfit |
 | 265 | 192 | Stephme310 |
 | 266 | 192 | Andrew Dang |
-| 267 | 191 | Earnest Thompson |
-| 268 | 191 | Chaz |
+| 267 | 191 | Chaz |
+| 268 | 191 | Earnest Thompson |
 | 269 | 189 | Shainne Brewer |
 | 270 | 189 | 030Synner |
 | 271 | 186 | Lauren Lamb |
@@ -418,7 +418,7 @@
 | 410 | 129 | Sherri |
 | 411 | 129 | Amy Sanford |
 | 412 | 128 | Denise B |
-| 413 | 128 | Dandy Cascadefit |
+| 413 | 128 | Raymond Roberts |
 | 414 | 128 | Dapper Balancer |
 | 415 | 128 | Dandy Cascadefit |
 | 416 | 128 | Groovy Gridlock |

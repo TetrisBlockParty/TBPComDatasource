@@ -170,8 +170,8 @@
 | 162 | 298 | femmefatale |
 | 163 | 297 | Danielle Little-Daugherty |
 | 164 | 296 | Madison Wicks |
-| 165 | 293 | Letson Melissa |
-| 166 | 293 | Sarah Roberts |
+| 165 | 293 | Sarah Roberts |
+| 166 | 293 | Letson Melissa |
 | 167 | 292 | David Lutcher |
 | 168 | 289 | ALFD |
 | 169 | 284 | Rachael |
@@ -299,11 +299,11 @@
 | 291 | 186 | Margo Wagner |
 | 292 | 185 | Hasty Columnbuilder |
 | 293 | 184 | Chris Sigurdson |
-| 294 | 183 | Tina Englert |
-| 295 | 183 | Dino |
+| 294 | 183 | Dino |
+| 295 | 183 | Tina Englert |
 | 296 | 181 | David DeSantis |
-| 297 | 179 | Ryan White |
-| 298 | 179 | Speedy Snapfall |
+| 297 | 179 | Speedy Snapfall |
+| 298 | 179 | Ryan White |
 | 299 | 178 | Gabrielle Louise Malloch |
 | 300 | 178 | Silly Align |
 | 301 | 178 | .running. |

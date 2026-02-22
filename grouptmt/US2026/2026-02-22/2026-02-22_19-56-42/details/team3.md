@@ -46,8 +46,8 @@
 | 38 | 1410 | Jennifer Willis |
 | 39 | 1402 | cowboy25469 |
 | 40 | 1394 | Ashley Jones |
-| 41 | 1369 | mjl574 |
-| 42 | 1369 | Tetris Master |
+| 41 | 1369 | Tetris Master |
+| 42 | 1369 | mjl574 |
 | 43 | 1361 | Kay |
 | 44 | 1358 | Raven Dudley |
 | 45 | 1313 | Delilah belle |
@@ -70,8 +70,8 @@
 | 62 | 1027 | Gracie |
 | 63 | 1019 | Joey Banks |
 | 64 | 954 | Nate Burnside |
-| 65 | 926 | Angela M. Fletcher |
-| 66 | 926 | Judi Dobson |
+| 65 | 926 | Judi Dobson |
+| 66 | 926 | Angela M. Fletcher |
 | 67 | 924 | Shonna Roberts |
 | 68 | 909 | Jennifer |
 | 69 | 903 | Sarah Fehring |
@@ -91,8 +91,8 @@
 | 83 | 828 | Jessica Ann |
 | 84 | 826 | Shane Wilson Jr. |
 | 85 | 824 | Shari Garber |
-| 86 | 811 | Jay Horn |
-| 87 | 811 | Sarajane Lokan |
+| 86 | 811 | Sarajane Lokan |
+| 87 | 811 | Jay Horn |
 | 88 | 807 | Snappy Glidepiece |
 | 89 | 800 | Lauren Girouard |
 | 90 | 794 | Aaron Pitkin |
@@ -132,8 +132,8 @@
 | 124 | 574 | Morgan Martinez |
 | 125 | 568 | Rachael McClain Owens |
 | 126 | 565 | Daryn Elliott |
-| 127 | 562 | Louise Stacy Sisson |
-| 128 | 562 | Dave Herzog |
+| 127 | 562 | Dave Herzog |
+| 128 | 562 | Louise Stacy Sisson |
 | 129 | 557 | Domo Washington |
 | 130 | 555 | Nicole Myers |
 | 131 | 551 | Alaina Lee |
@@ -156,9 +156,9 @@
 | 148 | 491 | Chauntee Alfrey-Cardinale |
 | 149 | 488 | CeceGeGe |
 | 150 | 484 | Samantha Greco |
-| 151 | 479 | Poppy Splitter |
+| 151 | 479 | Patti Skiles |
 | 152 | 479 | Annie Marie |
-| 153 | 479 | Patti Skiles |
+| 153 | 479 | Poppy Splitter |
 | 154 | 474 | Danielle Balcom |
 | 155 | 471 | Nora Rogers |
 | 156 | 471 | Mendoza Lee Christy |
@@ -242,8 +242,8 @@
 | 234 | 340 | Ammmmmmy |
 | 235 | 338 | Gumbo |
 | 236 | 332 | Bmo |
-| 237 | 330 | Rebecca Funderburk Kirby |
-| 238 | 330 | victory |
+| 237 | 330 | victory |
+| 238 | 330 | Rebecca Funderburk Kirby |
 | 239 | 326 | Dee Franklin |
 | 240 | 324 | Sissy Lowery Davis |
 | 241 | 323 | Demetrious Shaw Sr. |
@@ -386,8 +386,8 @@
 | 378 | 206 | Cesar Barraza |
 | 379 | 206 | Tammy Rosenberry |
 | 380 | 205 | Rachel Napper |
-| 381 | 204 | Frilly Stackzone |
-| 382 | 204 | Samantha Worley |
+| 381 | 204 | Samantha Worley |
+| 382 | 204 | Frilly Stackzone |
 | 383 | 203 | Angella Lyons |
 | 384 | 203 | DanceLuvLaugh |
 | 385 | 203 | Loopy Fallzone |
