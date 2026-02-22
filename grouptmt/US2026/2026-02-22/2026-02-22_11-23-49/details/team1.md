@@ -54,8 +54,8 @@
 | 46 | 671 | Lawrence Belanger |
 | 47 | 663 | Drew Magnus |
 | 48 | 646 | Susanna Guerry |
-| 49 | 635 | Angel Fowler |
-| 50 | 635 | Marianne Louise West |
+| 49 | 635 | Marianne Louise West |
+| 50 | 635 | Angel Fowler |
 | 51 | 631 | comrade fish |
 | 52 | 627 | Katie Daniels |
 | 53 | 614 | Snappy Swiper |
@@ -120,8 +120,8 @@
 | 112 | 330 | Sweet Baker |
 | 113 | 326 | Monica Donato |
 | 114 | 321 | Maria C. Hernandez |
-| 115 | 319 | Deanna L Hermanson |
-| 116 | 319 | Patrick Luckenbill |
+| 115 | 319 | Patrick Luckenbill |
+| 116 | 319 | Deanna L Hermanson |
 | 117 | 318 | Jessica Sheehan |
 | 118 | 316 | Jennifer Hardman |
 | 119 | 316 | Ly Phethmany |
@@ -157,16 +157,16 @@
 | 149 | 257 | Amanda Jarnagin |
 | 150 | 256 | David Miller |
 | 151 | 255 | Elaine Elaine |
-| 152 | 254 | Al Smith Jr |
-| 153 | 254 | Ty Brown |
+| 152 | 254 | Ty Brown |
+| 153 | 254 | Al Smith Jr |
 | 154 | 253 | Plucky Fallzone |
 | 155 | 253 | Witty Builderfit |
 | 156 | 252 | Dena Kayy |
 | 157 | 247 | Tana |
 | 158 | 246 | Lakeisha Chapman |
 | 159 | 243 | Trippy Redd |
-| 160 | 242 | Dizzy Party |
-| 161 | 242 | ALFD |
+| 160 | 242 | ALFD |
+| 161 | 242 | Dizzy Party |
 | 162 | 241 | John J. Cronin |
 | 163 | 239 | Jamie Jury |
 | 164 | 232 | Jessi Sauer |
@@ -199,8 +199,8 @@
 | 191 | 205 | Snappy Matcher |
 | 192 | 205 | Tater |
 | 193 | 204 | Lacy Wolfe |
-| 194 | 203 | Paula Martin |
-| 195 | 203 | LaFontaine Leslie |
+| 194 | 203 | LaFontaine Leslie |
+| 195 | 203 | Paula Martin |
 | 196 | 202 | Amanda Holibaugh |
 | 197 | 201 | Colleen Wise |
 | 198 | 200 | Breanna Luna |
@@ -242,8 +242,8 @@
 | 234 | 177 | Perky Shiftsnap |
 | 235 | 177 | Irual Hctrab |
 | 236 | 176 | Mel Hogan |
-| 237 | 175 | John Barron |
-| 238 | 175 | Kellie Tunstall |
+| 237 | 175 | Kellie Tunstall |
+| 238 | 175 | John Barron |
 | 239 | 174 | Cheeky Pop |
 | 240 | 173 | Tiger Lily |
 | 241 | 173 | Rico Rico |
@@ -259,8 +259,8 @@
 | 251 | 167 | Nery Martinez |
 | 252 | 167 | Cranky Pattern |
 | 253 | 166 | Carrie Smith |
-| 254 | 165 | Nadine Velardo |
-| 255 | 165 | Silly Align |
+| 254 | 165 | Silly Align |
+| 255 | 165 | Nadine Velardo |
 | 256 | 164 | Desiree Deschaine Havee |
 | 257 | 163 | Tyler Whitley |
 | 258 | 163 | Davery Spencer Adair |
@@ -313,13 +313,13 @@
 | 305 | 136 | Jessie |
 | 306 | 136 | Jennifer Chilton-Metlock |
 | 307 | 135 | Mrs.Patrica |
-| 308 | 133 | MommaKFC |
-| 309 | 133 | Jasmine Riley |
+| 308 | 133 | Jasmine Riley |
+| 309 | 133 | MommaKFC |
 | 310 | 133 | Lynn Adams |
 | 311 | 132 | Larry Tilton |
 | 312 | 132 | Layzietyme |
-| 313 | 131 | Plucky Wrecker |
-| 314 | 131 | Dizzy Riseclear |
+| 313 | 131 | Dizzy Riseclear |
+| 314 | 131 | Plucky Wrecker |
 | 315 | 130 | Carl Claunch |
 | 316 | 129 | Sherri E Woods Hess |
 | 317 | 129 | Melissa Bires Hussar |

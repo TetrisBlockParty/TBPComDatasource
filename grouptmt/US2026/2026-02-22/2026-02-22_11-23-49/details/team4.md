@@ -56,14 +56,14 @@
 | 48 | 697 | Edward White |
 | 49 | 695 | LisaJo Picken Buchanan |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Rebecca Moulton Pinciaro |
-| 52 | 659 | Jonathan Kimbrough |
+| 51 | 659 | Jonathan Kimbrough |
+| 52 | 659 | Rebecca Moulton Pinciaro |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Dustee Craddock-Harrison |
-| 58 | 636 | Kimyatta Cavin |
+| 57 | 636 | Kimyatta Cavin |
+| 58 | 636 | Dustee Craddock-Harrison |
 | 59 | 623 | Robin Getchel |
 | 60 | 614 | TheNeesh50 |
 | 61 | 599 | Brittney Griggs |
@@ -77,8 +77,8 @@
 | 69 | 530 | Yoset Mejia |
 | 70 | 524 | Amelpss |
 | 71 | 521 | Dawn Alexander |
-| 72 | 518 | Carolyn Wallace |
-| 73 | 518 | Eric Mcgaughy |
+| 72 | 518 | Eric Mcgaughy |
+| 73 | 518 | Carolyn Wallace |
 | 74 | 517 | H.R. Block |
 | 75 | 512 | Casey Jeffcoat |
 | 76 | 511 | Michelle Marie |
@@ -102,8 +102,8 @@
 | 94 | 404 | Courtney Cicoria |
 | 95 | 403 | shar |
 | 96 | 401 | Zippy Gridlock |
-| 97 | 396 | Amy Suckarieh |
-| 98 | 396 | Alicia Bass |
+| 97 | 396 | Alicia Bass |
+| 98 | 396 | Amy Suckarieh |
 | 99 | 392 | Ericca Eldridge |
 | 100 | 391 | Ramel Rhodes |
 | 101 | 390 | Carlton Unfiltered |
@@ -171,8 +171,8 @@
 | 163 | 224 | Matt Summer |
 | 164 | 223 | Kris Bartlett |
 | 165 | 223 | Antony Dwayne Beasley |
-| 166 | 221 | Rheanda Weaskus |
-| 167 | 221 | PurpleMoonMa |
+| 166 | 221 | PurpleMoonMa |
+| 167 | 221 | Rheanda Weaskus |
 | 168 | 220 | Matt Dell'Olio |
 | 169 | 218 | Casey Grabner |
 | 170 | 217 | Chaz Duncan |
@@ -186,12 +186,12 @@
 | 178 | 210 | Zethra Prenisha Rahming |
 | 179 | 207 | Chirpy Basepiece |
 | 180 | 205 | Kathy Brookins |
-| 181 | 204 | Jen Caldwell |
-| 182 | 204 | Carlos Ramirez |
+| 181 | 204 | Carlos Ramirez |
+| 182 | 204 | Jen Caldwell |
 | 183 | 203 | Katherine Crane |
 | 184 | 202 | TRCuse |
-| 185 | 201 | Melvin Baird |
-| 186 | 201 | Chance Strickland |
+| 185 | 201 | Chance Strickland |
+| 186 | 201 | Melvin Baird |
 | 187 | 200 | Laura |
 | 188 | 198 | Keith Kelley |
 | 189 | 198 | Ruben Wheeler |
@@ -228,7 +228,7 @@
 | 220 | 171 | Autumn Kumzi |
 | 221 | 168 | Lindsey Gonzalez |
 | 222 | 167 | Cozy Balancer |
-| 223 | 166 | Angelito |
+| 223 | 166 | Megan Cutshaw |
 | 224 | 166 | SammieJo Guy |
 | 225 | 166 | Angelito |
 | 226 | 165 | Juls |
@@ -252,8 +252,8 @@
 | 244 | 155 | AyeKay |
 | 245 | 154 | Zany Shatterer |
 | 246 | 153 | Empress Oasis |
-| 247 | 152 | Austin Owens |
-| 248 | 152 | Faja |
+| 247 | 152 | Faja |
+| 248 | 152 | Austin Owens |
 | 249 | 151 | Joseph Pace |
 | 250 | 150 | Tanner Lund |
 | 251 | 149 | DonMega |
@@ -390,7 +390,7 @@
 | 382 | 107 | Marcela Johnson |
 | 383 | 107 | Silly SeaWeed |
 | 384 | 106 | Lynn Marie |
-| 385 | 106 | Jacob Richard |
+| 385 | 106 | Verna Neal |
 | 386 | 106 | Zappy Snaplink |
 | 387 | 106 | Jacob Richard |
 | 388 | 106 | Nick Horn |
@@ -480,7 +480,7 @@
 | 472 | 84 | Jen Hallin |
 | 473 | 84 | Robert Sch |
 | 474 | 83 | Groovy Brickmatch |
-| 475 | 82 | Stacy Jones |
+| 475 | 82 | Oleg Zakharskiy |
 | 476 | 82 | Kimberlee Jan Beckstead |
 | 477 | 82 | Stacy Jones |
 | 478 | 81 | Megan Boyce |
