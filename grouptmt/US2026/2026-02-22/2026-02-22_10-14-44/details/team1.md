@@ -76,8 +76,8 @@
 | 68 | 473 | Kellie |
 | 69 | 461 | April Carroll |
 | 70 | 447 | Evie Khalil |
-| 71 | 434 | Hyper |
-| 72 | 434 | MomMom |
+| 71 | 434 | MomMom |
+| 72 | 434 | Hyper |
 | 73 | 430 | Nancy Green |
 | 74 | 428 | Stephanie Zahn |
 | 75 | 418 | Jazzy Framezone |
@@ -95,9 +95,9 @@
 | 87 | 388 | Jennifer ManWarren |
 | 88 | 383 | Loony Fitzone |
 | 89 | 382 | Jacqueline Williams |
-| 90 | 379 | Kimmie Kimms |
+| 90 | 379 | Nerdy Linkblock |
 | 91 | 379 | Austin James |
-| 92 | 379 | Nerdy Linkblock |
+| 92 | 379 | Kimmie Kimms |
 | 93 | 376 | lil mickey |
 | 94 | 374 | Tinah Montanna |
 | 95 | 369 | Arianna O'Brien |

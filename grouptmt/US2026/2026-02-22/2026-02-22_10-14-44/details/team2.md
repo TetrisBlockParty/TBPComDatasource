@@ -424,8 +424,8 @@
 | 416 | 500 | Sarah Ridenour |
 | 417 | 499 | Sarah Massey |
 | 418 | 498 | Rhonda Milstead |
-| 419 | 497 | Doowop40 |
-| 420 | 497 | June E Hanson |
+| 419 | 497 | June E Hanson |
+| 420 | 497 | Doowop40 |
 | 421 | 497 | Kimberly Randesi |
 | 422 | 496 | Blacc Blac |
 | 423 | 493 | Kara Gillen |
@@ -470,9 +470,9 @@
 | 462 | 466 | Koa N Sharon Chen |
 | 463 | 465 | Davetta Sanford |
 | 464 | 464 | snkylnk |
-| 465 | 463 | Sue Leard |
-| 466 | 463 | Jaye EL Hunter |
-| 467 | 463 | Cody Nishimura |
+| 465 | 463 | Jaye EL Hunter |
+| 466 | 463 | Cody Nishimura |
+| 467 | 463 | Sue Leard |
 | 468 | 462 | Jarboe |
 | 469 | 462 | Tonya Lee |
 | 470 | 462 | Daphne Jordan |
@@ -482,8 +482,8 @@
 | 474 | 456 | Melissa Rebbe-Lehman |
 | 475 | 455 | Kiana Boschh |
 | 476 | 454 | Casey Schumacher |
-| 477 | 453 | Joshua Sommerville |
-| 478 | 453 | Rhonda Petro |
+| 477 | 453 | Rhonda Petro |
+| 478 | 453 | Joshua Sommerville |
 | 479 | 451 | Funky Caster |
 | 480 | 451 | Dylan Thomason |
 | 481 | 450 | Cheery Matchzone |
@@ -606,16 +606,16 @@
 | 598 | 378 | Tina Marie |
 | 599 | 378 | Jasmine Kenney |
 | 600 | 377 | Jason H Baker |
-| 601 | 376 | Darlene Bowman |
-| 602 | 376 | James Zaragoza |
+| 601 | 376 | James Zaragoza |
+| 602 | 376 | Darlene Bowman |
 | 603 | 375 | Cecilia A Jenkins |
 | 604 | 375 | Lively Edgepiece |
 | 605 | 373 | Ashley Marie |
-| 606 | 373 | Hunter Connors |
-| 607 | 373 | Jessica Hughes |
+| 606 | 373 | Jessica Hughes |
+| 607 | 373 | Hunter Connors |
 | 608 | 372 | Ebony Deloach Bryant |
-| 609 | 371 | AkaLefty |
-| 610 | 371 | Brenda Messer |
+| 609 | 371 | Brenda Messer |
+| 610 | 371 | AkaLefty |
 | 611 | 371 | Saucy Fitzone |
 | 612 | 369 | RaeVan Worthington |
 | 613 | 369 | Tony Lea |
@@ -637,8 +637,8 @@
 | 629 | 362 | Andrea Maher |
 | 630 | 362 | Veronics |
 | 631 | 362 | Tracy Wise |
-| 632 | 362 | Aishah Brice |
-| 633 | 362 | Jennifer Scott |
+| 632 | 362 | Jennifer Scott |
+| 633 | 362 | Aishah Brice |
 | 634 | 361 | Michelle Shrum |
 | 635 | 361 | Lewis Sturgeon |
 | 636 | 360 | Jroc |
@@ -681,8 +681,8 @@
 | 673 | 337 | Diallo Sparkman |
 | 674 | 337 | Tum |
 | 675 | 337 | Savannah Alexander |
-| 676 | 336 | bru |
-| 677 | 336 | Austin Wilson |
+| 676 | 336 | Austin Wilson |
+| 677 | 336 | bru |
 | 678 | 336 | Swanky Columnbuilder |
 | 679 | 335 | Brooke Leigh Strube |
 | 680 | 335 | Maria Louise |
@@ -1328,8 +1328,8 @@
 | 1320 | 171 | Alicia Moreno |
 | 1321 | 171 | Tash |
 | 1322 | 171 | Abby Jensen |
-| 1323 | 171 | Kimberly Bickling |
-| 1324 | 171 | Chris Emanuel |
+| 1323 | 171 | Chris Emanuel |
+| 1324 | 171 | Kimberly Bickling |
 | 1325 | 171 | Catherine Varea |
 | 1326 | 171 | Lydia Greenman |
 | 1327 | 171 | Ashley Cooper Tharin |
@@ -1342,8 +1342,8 @@
 | 1334 | 170 | Leebo Slice |
 | 1335 | 170 | Nuggets |
 | 1336 | 170 | Poppy Gridder |
-| 1337 | 170 | Chummy Shiftsnap |
-| 1338 | 170 | Tigro Ace |
+| 1337 | 170 | Tigro Ace |
+| 1338 | 170 | Chummy Shiftsnap |
 | 1339 | 170 | Wayne Hayward |
 | 1340 | 169 | Micky |
 | 1341 | 169 | Jamie Frank Karolyi |
@@ -1357,9 +1357,9 @@
 | 1349 | 168 | Gaby |
 | 1350 | 168 | Mishka Upchurch |
 | 1351 | 168 | Leslie |
-| 1352 | 168 | Melissa Licklider |
-| 1353 | 168 | Jay Dreamer-x Shelly |
-| 1354 | 168 | JessieP123 |
+| 1352 | 168 | JessieP123 |
+| 1353 | 168 | Melissa Licklider |
+| 1354 | 168 | Jay Dreamer-x Shelly |
 | 1355 | 168 | Starrs Dcct |
 | 1356 | 167 | Stephanie Garber |
 | 1357 | 167 | Koko Charlotte Rudo |
@@ -1490,8 +1490,8 @@
 | 1482 | 153 | Amanda Fullerton |
 | 1483 | 153 | Ms806 |
 | 1484 | 153 | Ryan Kluck |
-| 1485 | 153 | Klaudia Figaszewska |
-| 1486 | 153 | Daring Caster |
+| 1485 | 153 | Daring Caster |
+| 1486 | 153 | Klaudia Figaszewska |
 | 1487 | 153 | Treshell Boyd |
 | 1488 | 152 | Angel Hunnewell |
 | 1489 | 152 | Carrie Pike |

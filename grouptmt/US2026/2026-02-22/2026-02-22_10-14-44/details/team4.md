@@ -56,14 +56,14 @@
 | 48 | 695 | LisaJo Picken Buchanan |
 | 49 | 681 | Anthony Bryan Riva |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Rebecca Moulton Pinciaro |
-| 52 | 659 | Jonathan Kimbrough |
+| 51 | 659 | Jonathan Kimbrough |
+| 52 | 659 | Rebecca Moulton Pinciaro |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Kimyatta Cavin |
-| 58 | 636 | Dustee Craddock-Harrison |
+| 57 | 636 | Dustee Craddock-Harrison |
+| 58 | 636 | Kimyatta Cavin |
 | 59 | 623 | Robin Getchel |
 | 60 | 599 | Brittney Griggs |
 | 61 | 593 | Lisa Davis |
@@ -101,8 +101,8 @@
 | 93 | 404 | Courtney Cicoria |
 | 94 | 403 | shar |
 | 95 | 401 | Zippy Gridlock |
-| 96 | 396 | Alicia Bass |
-| 97 | 396 | Amy Suckarieh |
+| 96 | 396 | Amy Suckarieh |
+| 97 | 396 | Alicia Bass |
 | 98 | 392 | Ericca Eldridge |
 | 99 | 391 | Ramel Rhodes |
 | 100 | 390 | Carlton Unfiltered |
@@ -191,8 +191,8 @@
 | 183 | 201 | Melvin Baird |
 | 184 | 200 | Laura |
 | 185 | 199 | Zethra Prenisha Rahming |
-| 186 | 198 | Keith Kelley |
-| 187 | 198 | Ruben Wheeler |
+| 186 | 198 | Ruben Wheeler |
+| 187 | 198 | Keith Kelley |
 | 188 | 196 | Oscar Alberto Perez |
 | 189 | 195 | Malakai Darien Fox |
 | 190 | 195 | ZeeZee |

@@ -63,8 +63,8 @@
 | 55 | 909 | Jennifer |
 | 56 | 908 | Alanna Rogers |
 | 57 | 903 | Sarah Fehring |
-| 58 | 895 | Shonna Roberts |
-| 59 | 895 | Amanda L Baker |
+| 58 | 895 | Amanda L Baker |
+| 59 | 895 | Shonna Roberts |
 | 60 | 886 | Khristen AC |
 | 61 | 874 | Jessica Pineda-Lopez |
 | 62 | 867 | Corie A. Brinson |
@@ -103,8 +103,8 @@
 | 95 | 593 | Raven Dudley |
 | 96 | 591 | Jesse Olive |
 | 97 | 588 | yoyo |
-| 98 | 582 | Natasha Jones |
-| 99 | 582 | Jay Horn |
+| 98 | 582 | Jay Horn |
+| 99 | 582 | Natasha Jones |
 | 100 | 581 | Danielle Mogg |
 | 101 | 579 | Jd Morris |
 | 102 | 566 | Dolores Falco |
@@ -174,8 +174,8 @@
 | 166 | 376 | Loopy Clusterer |
 | 167 | 374 | Sherry Ogden |
 | 168 | 371 | Michael Nowogorski |
-| 169 | 370 | Santeria Trece Candles |
-| 170 | 370 | Logan Naccarato |
+| 169 | 370 | Logan Naccarato |
+| 170 | 370 | Santeria Trece Candles |
 | 171 | 370 | Danielle Allison |
 | 172 | 368 | Stephanie Woods |
 | 173 | 366 | Adrian Marcel Pate |
@@ -207,8 +207,8 @@
 | 199 | 311 | Araceli Parra |
 | 200 | 311 | Rochelle Hazelett |
 | 201 | 310 | Danielle Balcom |
-| 202 | 308 | Rania Zaqout |
-| 203 | 308 | Daryn Elliott |
+| 202 | 308 | Daryn Elliott |
+| 203 | 308 | Rania Zaqout |
 | 204 | 307 | rnr junky |
 | 205 | 307 | Blocked |
 | 206 | 302 | Rebecca Bailey |
@@ -245,8 +245,8 @@
 | 237 | 264 | Grego Daniel |
 | 238 | 263 | Brittany |
 | 239 | 262 | Joe-Maggie Mathews |
-| 240 | 261 | Tasha Wesson-Torrence |
-| 241 | 261 | Tiffany Ford |
+| 240 | 261 | Tiffany Ford |
+| 241 | 261 | Tasha Wesson-Torrence |
 | 242 | 261 | Marquita Sheard |
 | 243 | 260 | Grams |
 | 244 | 259 | Danielle Weikel |
@@ -298,8 +298,8 @@
 | 290 | 211 | El Chapa |
 | 291 | 211 | Khaleada McGill Banks |
 | 292 | 211 | Velma Mull |
-| 293 | 210 | Lizabeth Fox |
-| 294 | 210 | Criss |
+| 293 | 210 | Criss |
+| 294 | 210 | Lizabeth Fox |
 | 295 | 209 | Micayah Stevens |
 | 296 | 208 | AlsoJess |
 | 297 | 207 | Jessica |
@@ -381,10 +381,10 @@
 | 373 | 159 | Joshua David Huie |
 | 374 | 159 | Salena Whitlock |
 | 375 | 158 | Willow |
-| 376 | 157 | Katrina E Jelks |
-| 377 | 157 | Steffi Chris Dacones |
-| 378 | 157 | Angel Mendez |
-| 379 | 157 | Wetwet |
+| 376 | 157 | Steffi Chris Dacones |
+| 377 | 157 | Katrina E Jelks |
+| 378 | 157 | Wetwet |
+| 379 | 157 | Angel Mendez |
 | 380 | 156 | Nichole Greene |
 | 381 | 155 | Michell Hendershott Jackson |
 | 382 | 155 | Michael Leblanc |
@@ -568,8 +568,8 @@
 | 560 | 106 | Vikkye Vizaniaris |
 | 561 | 106 | Jennifer Palermo |
 | 562 | 105 | Emi |
-| 563 | 105 | Kristi Taylor |
-| 564 | 105 | Zac Hudak |
+| 563 | 105 | Zac Hudak |
+| 564 | 105 | Kristi Taylor |
 | 565 | 105 | Amy Wheeler |
 | 566 | 104 | bean |
 | 567 | 104 | Jessica Rose-Morgan |
