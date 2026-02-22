@@ -70,8 +70,8 @@
 | 62 | 1027 | Gracie |
 | 63 | 1019 | Joey Banks |
 | 64 | 954 | Nate Burnside |
-| 65 | 926 | Judi Dobson |
-| 66 | 926 | Angela M. Fletcher |
+| 65 | 926 | Angela M. Fletcher |
+| 66 | 926 | Judi Dobson |
 | 67 | 924 | Shonna Roberts |
 | 68 | 909 | Jennifer |
 | 69 | 903 | Sarah Fehring |
@@ -145,8 +145,8 @@
 | 137 | 551 | Alaina Lee |
 | 138 | 531 | Mykal Burton |
 | 139 | 529 | Michael Nowogorski |
-| 140 | 526 | Michelle Becker |
-| 141 | 526 | Cynthia Castros-Hampton |
+| 140 | 526 | Cynthia Castros-Hampton |
+| 141 | 526 | Michelle Becker |
 | 142 | 525 | Justin Ritter |
 | 143 | 517 | Denise Nardoni |
 | 144 | 516 | Elissa S-k |
@@ -166,8 +166,8 @@
 | 158 | 471 | Nora Rogers |
 | 159 | 471 | Mendoza Lee Christy |
 | 160 | 470 | Logan Naccarato |
-| 161 | 469 | Melissa Orth Hunter |
-| 162 | 469 | Adrian Marcel Pate |
+| 161 | 469 | Adrian Marcel Pate |
+| 162 | 469 | Melissa Orth Hunter |
 | 163 | 468 | Betty Ivy |
 | 164 | 464 | Makelini Mausia |
 | 165 | 464 | Michelle |
@@ -264,10 +264,10 @@
 | 256 | 304 | Marquita Sheard |
 | 257 | 302 | Gray Hicks |
 | 258 | 301 | Betty Rosas |
-| 259 | 299 | Ray Lader |
-| 260 | 299 | Angie Harper |
-| 261 | 298 | MsBee |
-| 262 | 298 | Grams |
+| 259 | 299 | Angie Harper |
+| 260 | 299 | Ray Lader |
+| 261 | 298 | Grams |
+| 262 | 298 | MsBee |
 | 263 | 297 | Jojo M |
 | 264 | 296 | Hoppy Buildout |
 | 265 | 296 | Katrina Turner |

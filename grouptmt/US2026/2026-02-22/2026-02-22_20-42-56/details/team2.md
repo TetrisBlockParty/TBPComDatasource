@@ -161,8 +161,8 @@
 | 153 | 1300 | Tacara Cummings |
 | 154 | 1296 | Kristin Ruest |
 | 155 | 1286 | Altamirano Michael |
-| 156 | 1282 | Ashley Rose Frederick |
-| 157 | 1282 | Tanya Parsons |
+| 156 | 1282 | Tanya Parsons |
+| 157 | 1282 | Ashley Rose Frederick |
 | 158 | 1273 | Cool Rollpiece |
 | 159 | 1273 | Murrae Lynn Rebarchek |
 | 160 | 1271 | Shandrica Lowe |
@@ -399,8 +399,8 @@
 | 391 | 653 | Alex Dungo Hoang |
 | 392 | 652 | Mighty Spinbuilder |
 | 393 | 651 | Unica Rector |
-| 394 | 650 | Shiny Rollzone |
-| 395 | 650 | Amber Brion |
+| 394 | 650 | Amber Brion |
+| 395 | 650 | Shiny Rollzone |
 | 396 | 649 | Johnny Yeates |
 | 397 | 648 | AgileDragon |
 | 398 | 648 | Breezy Filler |
@@ -513,10 +513,10 @@
 | 505 | 515 | Armonie Smith |
 | 506 | 514 | Karen Posadas Centeno |
 | 507 | 512 | Leslie Jorgenson |
-| 508 | 511 | Laura Mclean |
-| 509 | 511 | Adam Simmons |
-| 510 | 509 | Kelli Wells |
-| 511 | 509 | Jordan Kaiser |
+| 508 | 511 | Adam Simmons |
+| 509 | 511 | Laura Mclean |
+| 510 | 509 | Jordan Kaiser |
+| 511 | 509 | Kelli Wells |
 | 512 | 508 | Erika Densmore |
 | 513 | 507 | Kitybox |
 | 514 | 507 | Daniell Martinez |
@@ -527,7 +527,7 @@
 | 519 | 497 | June E Hanson |
 | 520 | 495 | Bubbly Snapbuild |
 | 521 | 494 | Venita Ray |
-| 522 | 493 | Sarah DeHart |
+| 522 | 493 | Besma Ao |
 | 523 | 493 | Sue Leard |
 | 524 | 493 | Sarah DeHart |
 | 525 | 492 | Breezy Clusterer |
@@ -592,8 +592,8 @@
 | 584 | 462 | Daphne Jordan |
 | 585 | 461 | Lucy Marshall |
 | 586 | 460 | LaWanda Powell |
-| 587 | 460 | Funky Caster |
-| 588 | 460 | Gloria Ininahazwe |
+| 587 | 460 | Gloria Ininahazwe |
+| 588 | 460 | Funky Caster |
 | 589 | 460 | Tara Lynn Janes |
 | 590 | 459 | Shyenn Gadsby |
 | 591 | 459 | Snazzy Basepiece |
@@ -901,8 +901,8 @@
 | 893 | 309 | Byung Bae Park |
 | 894 | 308 | Hyper Riseclear |
 | 895 | 308 | Spicy Riser |
-| 896 | 308 | Katie Joy McCombs |
-| 897 | 308 | Justin Edwards |
+| 896 | 308 | Justin Edwards |
+| 897 | 308 | Katie Joy McCombs |
 | 898 | 307 | SpaceCase085 |
 | 899 | 307 | Deana |
 | 900 | 307 | Ethan Stienbarger |
@@ -968,8 +968,8 @@
 | 960 | 291 | Denisse Avilez |
 | 961 | 291 | Candace Noel |
 | 962 | 290 | Erika Deer Kauffman |
-| 963 | 290 | Dottie Turbeville Creel |
-| 964 | 290 | Janis Resendiz |
+| 963 | 290 | Janis Resendiz |
+| 964 | 290 | Dottie Turbeville Creel |
 | 965 | 289 | Cathy Bitters |
 | 966 | 289 | Alison Emmons |
 | 967 | 289 | Ryan Chan |
