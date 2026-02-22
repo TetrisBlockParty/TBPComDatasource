@@ -108,10 +108,10 @@
 | 100 | 581 | Danielle Mogg |
 | 101 | 579 | Jd Morris |
 | 102 | 566 | Dolores Falco |
-| 103 | 565 | Patty Allen |
-| 104 | 565 | Rachael McClain Owens |
-| 105 | 562 | Dave Herzog |
-| 106 | 562 | Louise Stacy Sisson |
+| 103 | 565 | Rachael McClain Owens |
+| 104 | 565 | Patty Allen |
+| 105 | 562 | Louise Stacy Sisson |
+| 106 | 562 | Dave Herzog |
 | 107 | 561 | Giddy Drop |
 | 108 | 559 | Morgan Martinez |
 | 109 | 549 | Nicole Myers |
@@ -143,8 +143,8 @@
 | 135 | 457 | Jim Mathews |
 | 136 | 454 | Makelini Mausia |
 | 137 | 449 | Danielle Rhoades |
-| 138 | 445 | Kristie McFarland |
-| 139 | 445 | Jacqueline Rodriguez |
+| 138 | 445 | Jacqueline Rodriguez |
+| 139 | 445 | Kristie McFarland |
 | 140 | 435 | Michelle |
 | 141 | 432 | Jenny Hrndz |
 | 142 | 427 | Wendy Dearden |
@@ -196,8 +196,8 @@
 | 188 | 343 | Ashley Raines |
 | 189 | 343 | Tamara Deherrera |
 | 190 | 341 | Samantha Lynn |
-| 191 | 338 | Leah Barnett |
-| 192 | 338 | Gumbo |
+| 191 | 338 | Gumbo |
+| 192 | 338 | Leah Barnett |
 | 193 | 332 | Rich LeBlanc |
 | 194 | 332 | Noyb Adam |
 | 195 | 330 | Rebecca Funderburk Kirby |
@@ -207,8 +207,8 @@
 | 199 | 320 | Or Reznitsky |
 | 200 | 317 | Ashley Tookes |
 | 201 | 315 | Kammy Hill |
-| 202 | 311 | Rochelle Hazelett |
-| 203 | 311 | Araceli Parra |
+| 202 | 311 | Araceli Parra |
+| 203 | 311 | Rochelle Hazelett |
 | 204 | 310 | Danielle Balcom |
 | 205 | 308 | Rania Zaqout |
 | 206 | 307 | rnr junky |
@@ -250,8 +250,8 @@
 | 242 | 264 | Grego Daniel |
 | 243 | 263 | Brittany |
 | 244 | 262 | Joe-Maggie Mathews |
-| 245 | 261 | Tiffany Ford |
-| 246 | 261 | Tasha Wesson-Torrence |
+| 245 | 261 | Tasha Wesson-Torrence |
+| 246 | 261 | Tiffany Ford |
 | 247 | 261 | Marquita Sheard |
 | 248 | 260 | Grams |
 | 249 | 259 | Danielle Weikel |
@@ -270,11 +270,11 @@
 | 262 | 239 | Nikki Pags |
 | 263 | 238 | LaTanya GeminiondaRise Johnson |
 | 264 | 236 | Jess Bissett |
-| 265 | 235 | Brenda Schmid Wood |
-| 266 | 235 | Cozy Snaplink |
+| 265 | 235 | Cozy Snaplink |
+| 266 | 235 | Brenda Schmid Wood |
 | 267 | 234 | Connie Mohler-Fair |
-| 268 | 233 | Josh Borquez |
-| 269 | 233 | Ray Lader |
+| 268 | 233 | Ray Lader |
+| 269 | 233 | Josh Borquez |
 | 270 | 232 | Donna |
 | 271 | 227 | Krystal Gerstberger |
 | 272 | 227 | Meowsa |
@@ -282,8 +282,8 @@
 | 274 | 225 | Steffi Chris Dacones |
 | 275 | 224 | Quirky Dropzone |
 | 276 | 221 | Vaners |
-| 277 | 221 | Jaime Monhaut-Reed |
-| 278 | 221 | Alice |
+| 277 | 221 | Alice |
+| 278 | 221 | Jaime Monhaut-Reed |
 | 279 | 220 | Tosha Griffey |
 | 280 | 220 | Roary Danner |
 | 281 | 220 | rosy |

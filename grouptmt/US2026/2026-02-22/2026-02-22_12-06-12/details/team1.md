@@ -54,8 +54,8 @@
 | 46 | 671 | Lawrence Belanger |
 | 47 | 663 | Drew Magnus |
 | 48 | 646 | Susanna Guerry |
-| 49 | 635 | Marianne Louise West |
-| 50 | 635 | Angel Fowler |
+| 49 | 635 | Angel Fowler |
+| 50 | 635 | Marianne Louise West |
 | 51 | 631 | comrade fish |
 | 52 | 627 | Katie Daniels |
 | 53 | 614 | Snappy Swiper |
@@ -120,11 +120,11 @@
 | 112 | 330 | Sweet Baker |
 | 113 | 326 | Monica Donato |
 | 114 | 321 | Maria C. Hernandez |
-| 115 | 319 | Deanna L Hermanson |
-| 116 | 319 | Patrick Luckenbill |
+| 115 | 319 | Patrick Luckenbill |
+| 116 | 319 | Deanna L Hermanson |
 | 117 | 318 | Jessica Sheehan |
-| 118 | 316 | Ly Phethmany |
-| 119 | 316 | Jennifer Hardman |
+| 118 | 316 | Jennifer Hardman |
+| 119 | 316 | Ly Phethmany |
 | 120 | 313 | Tanya Carpenter-Reynolds |
 | 121 | 310 | Jason Jones |
 | 122 | 310 | Seth Wesson |
@@ -141,12 +141,12 @@
 | 133 | 284 | Emily Adelaide Wheatley |
 | 134 | 283 | Franswa |
 | 135 | 282 | Cool Shiftsnap |
-| 136 | 282 | Snippy Wipebuilder |
-| 137 | 282 | Timothy Dew |
+| 136 | 282 | Timothy Dew |
+| 137 | 282 | Snippy Wipebuilder |
 | 138 | 276 | Dandy Basegrid |
 | 139 | 274 | Tyler Werts |
-| 140 | 270 | Mandyy Rae |
-| 141 | 270 | Ash Galvan |
+| 140 | 270 | Ash Galvan |
+| 141 | 270 | Mandyy Rae |
 | 142 | 268 | GATOR |
 | 143 | 265 | SkipTheSadSauce |
 | 144 | 265 | Nutty Spinblock |
@@ -189,8 +189,8 @@
 | 181 | 213 | Daring Fitclear |
 | 182 | 212 | Jaimie Lynn |
 | 183 | 211 | Marianita Garcia |
-| 184 | 210 | Giggly Builderline |
-| 185 | 210 | Letson Melissa |
+| 184 | 210 | Letson Melissa |
+| 185 | 210 | Giggly Builderline |
 | 186 | 209 | Debbie Davis |
 | 187 | 208 | Donna Addison Williams |
 | 188 | 208 | Bouncy Grid |
@@ -257,10 +257,10 @@
 | 249 | 170 | Standia Civil |
 | 250 | 170 | Cece Ibarra |
 | 251 | 169 | Abbey Crespo |
-| 252 | 168 | Angela Fairbank |
-| 253 | 168 | Amber Stoker |
-| 254 | 167 | Nery Martinez |
-| 255 | 167 | Cranky Pattern |
+| 252 | 168 | Amber Stoker |
+| 253 | 168 | Angela Fairbank |
+| 254 | 167 | Cranky Pattern |
+| 255 | 167 | Nery Martinez |
 | 256 | 166 | Carrie Smith |
 | 257 | 165 | Silly Align |
 | 258 | 165 | Nadine Velardo |
@@ -287,8 +287,8 @@
 | 279 | 151 | Gilbert Ortiz Jr. |
 | 280 | 150 | Agustin Duarte Orozco |
 | 281 | 150 | Adele Rahman |
-| 282 | 149 | Melissa Bires Hussar |
-| 283 | 149 | Jessica Russell |
+| 282 | 149 | Jessica Russell |
+| 283 | 149 | Melissa Bires Hussar |
 | 284 | 148 | Howdi Duty |
 | 285 | 147 | J.F. Fields |
 | 286 | 145 | Rachel Nichole Henry |

@@ -107,8 +107,8 @@
 | 99 | 1535 | Donnie Hunt |
 | 100 | 1534 | Loopy Clusterbuilder |
 | 101 | 1534 | Laura Marie Pelletier |
-| 102 | 1516 | Mindy Leigh Head |
-| 103 | 1516 | Stephen Stephen |
+| 102 | 1516 | Stephen Stephen |
+| 103 | 1516 | Mindy Leigh Head |
 | 104 | 1513 | Jamie Main |
 | 105 | 1507 | Linda Pierce |
 | 106 | 1495 | blackq |
@@ -136,8 +136,8 @@
 | 128 | 1273 | Cool Rollpiece |
 | 129 | 1257 | Eileen Hale |
 | 130 | 1252 | Katrina Williams Balmir |
-| 131 | 1248 | Howard Forest |
-| 132 | 1248 | Isabela Shaw |
+| 131 | 1248 | Isabela Shaw |
+| 132 | 1248 | Howard Forest |
 | 133 | 1242 | Altamirano Michael |
 | 134 | 1232 | Groovy Puzzle |
 | 135 | 1226 | Vo'Landa Reels |
@@ -212,8 +212,8 @@
 | 204 | 919 | Isaac Trappiel IV |
 | 205 | 916 | Butta |
 | 206 | 915 | Kelly Trent |
-| 207 | 910 | Crystal Hoffman |
-| 208 | 910 | Shuany Arias |
+| 207 | 910 | Shuany Arias |
+| 208 | 910 | Crystal Hoffman |
 | 209 | 907 | Gene Mills |
 | 210 | 901 | Jennifer Peachey |
 | 211 | 894 | Auntie B |
@@ -253,8 +253,8 @@
 | 245 | 800 | Danielle Johnson-Chandler |
 | 246 | 787 | Laura McCarthey |
 | 247 | 783 | Lisa Ongtowasruk |
-| 248 | 777 | Jessicah Myers |
-| 249 | 777 | Tesha Oldaker |
+| 248 | 777 | Tesha Oldaker |
+| 249 | 777 | Jessicah Myers |
 | 250 | 777 | Eric Carlson |
 | 251 | 772 | William Hunt |
 | 252 | 772 | Sam Joe |
@@ -263,8 +263,8 @@
 | 255 | 767 | Jessica Wayne Cornwall |
 | 256 | 765 | Jodi Blake |
 | 257 | 764 | Pacynthia Williams |
-| 258 | 763 | Samantha Jo |
-| 259 | 763 | Mischelle Clay |
+| 258 | 763 | Mischelle Clay |
+| 259 | 763 | Samantha Jo |
 | 260 | 763 | Beth |
 | 261 | 761 | Hyper Cluster |
 | 262 | 760 | Danielle Simmons |
@@ -392,8 +392,8 @@
 | 384 | 544 | Deidre Shaffer |
 | 385 | 544 | Leah Keesling |
 | 386 | 543 | Irene Jones |
-| 387 | 543 | Julie Kresal |
-| 388 | 543 | Vanessa Moreno |
+| 387 | 543 | Vanessa Moreno |
+| 388 | 543 | Julie Kresal |
 | 389 | 541 | g |
 | 390 | 540 | Dizzy Zone |
 | 391 | 538 | AISlop |
@@ -632,9 +632,9 @@
 | 624 | 369 | Juan Castillo |
 | 625 | 367 | Connie Lepore-Mann |
 | 626 | 367 | Jessica Lamb |
-| 627 | 366 | Lawanda Forbes |
+| 627 | 366 | Courtney Burcham |
 | 628 | 366 | Smashanator |
-| 629 | 366 | Courtney Burcham |
+| 629 | 366 | Lawanda Forbes |
 | 630 | 365 | Christina Lewis-Vickers |
 | 631 | 365 | Susan Arnburg |
 | 632 | 365 | Audrey Jones |
@@ -658,8 +658,8 @@
 | 650 | 357 | Shannon Byrd |
 | 651 | 357 | Tristan Szolek |
 | 652 | 355 | Amanda Perez |
-| 653 | 354 | Rachel Kaminski |
-| 654 | 354 | Rickey Johnson |
+| 653 | 354 | Rickey Johnson |
+| 654 | 354 | Rachel Kaminski |
 | 655 | 352 | Rose Fx |
 | 656 | 352 | Jean FU Jagielski |
 | 657 | 352 | ruth |
@@ -689,8 +689,8 @@
 | 681 | 337 | Savannah Alexander |
 | 682 | 337 | Tum |
 | 683 | 336 | Swanky Columnbuilder |
-| 684 | 336 | bru |
-| 685 | 336 | Austin Wilson |
+| 684 | 336 | Austin Wilson |
+| 685 | 336 | bru |
 | 686 | 335 | Brooke Leigh Strube |
 | 687 | 335 | Maria Louise |
 | 688 | 334 | Melissa James |
@@ -876,8 +876,8 @@
 | 868 | 262 | Taren Cowan |
 | 869 | 261 | Gina Gina |
 | 870 | 261 | Dany Murillo |
-| 871 | 261 | Mellissa Evans |
-| 872 | 261 | MrsClaudette Will'sIam Matthews |
+| 871 | 261 | MrsClaudette Will'sIam Matthews |
+| 872 | 261 | Mellissa Evans |
 | 873 | 260 | Giggly Snap |
 | 874 | 260 | Trista Carter |
 | 875 | 260 | Lianne Giandalone LaBounty |
@@ -987,8 +987,8 @@
 | 979 | 234 | Trina Harrison |
 | 980 | 234 | Joanna L. Abad |
 | 981 | 234 | Jannan Haimour |
-| 982 | 233 | Allison Hewitt |
-| 983 | 233 | ItsJennifer Neriss |
+| 982 | 233 | ItsJennifer Neriss |
+| 983 | 233 | Allison Hewitt |
 | 984 | 233 | Jessica Sutter |
 | 985 | 233 | Myleaha Holley |
 | 986 | 233 | Nerdy Riserfit |
@@ -1048,8 +1048,8 @@
 | 1040 | 222 | Crystal Herndon |
 | 1041 | 222 | Angel Moorhead |
 | 1042 | 222 | Lovely |
-| 1043 | 221 | Jeffrey Barrows |
-| 1044 | 221 | Chummy Caster |
+| 1043 | 221 | Chummy Caster |
+| 1044 | 221 | Jeffrey Barrows |
 | 1045 | 220 | Natalie M Wells |
 | 1046 | 220 | Sandra McNab |
 | 1047 | 220 | Marcie McLain Dodd |
@@ -1186,7 +1186,7 @@
 | 1178 | 194 | Brenda |
 | 1179 | 194 | Snappy Slamdrop |
 | 1180 | 194 | Hyper Gridroll |
-| 1181 | 194 | Snappy Slamdrop |
+| 1181 | 194 | Chilly Linkfall |
 | 1182 | 194 | ToastersBath |
 | 1183 | 193 | Dottie Turbeville Creel |
 | 1184 | 193 | Kelly Ann McCormick |
@@ -1199,8 +1199,8 @@
 | 1191 | 193 | Kristen Casale Berry |
 | 1192 | 192 | Dawn Woosley Bowes |
 | 1193 | 192 | Joy Marie |
-| 1194 | 192 | Leroy Jenkins |
-| 1195 | 192 | Nicole Sanqui |
+| 1194 | 192 | Nicole Sanqui |
+| 1195 | 192 | Leroy Jenkins |
 | 1196 | 192 | Donna M Carter |
 | 1197 | 191 | Netty |
 | 1198 | 191 | Klaudia Figaszewska |
@@ -1742,8 +1742,8 @@
 | 1734 | 135 | Romero Luisajavi |
 | 1735 | 135 | BrokeBetty |
 | 1736 | 135 | William Bresee |
-| 1737 | 135 | Jamie Whewell |
-| 1738 | 135 | Carrie Beth Coward |
+| 1737 | 135 | Carrie Beth Coward |
+| 1738 | 135 | Jamie Whewell |
 | 1739 | 134 | Michael Watson |
 | 1740 | 134 | Gulnaz Khanem |
 | 1741 | 134 | Kiana Serrao |
