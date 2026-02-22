@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Lucille Truesdale |
-| 34 | 843 | Shelly Chandler |
+| 33 | 843 | Shelly Chandler |
+| 34 | 843 | Lucille Truesdale |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -49,8 +49,8 @@
 | 41 | 757 | Ancient Intuition |
 | 42 | 747 | BertMofo |
 | 43 | 736 | Goatimus Lombardi |
-| 44 | 707 | Rachel Anne |
-| 45 | 707 | Clarence Patawaran |
+| 44 | 707 | Clarence Patawaran |
+| 45 | 707 | Rachel Anne |
 | 46 | 704 | Crystal Carroll |
 | 47 | 698 | Anthony Bryan Riva |
 | 48 | 697 | Edward White |
@@ -82,8 +82,8 @@
 | 74 | 512 | Casey Jeffcoat |
 | 75 | 511 | Michelle Marie |
 | 76 | 500 | Rodney McMath Jr. |
-| 77 | 486 | Carmethia Clemons Haslerig |
-| 78 | 486 | Landon Keith Graffeo |
+| 77 | 486 | Landon Keith Graffeo |
+| 78 | 486 | Carmethia Clemons Haslerig |
 | 79 | 485 | TeeJ |
 | 80 | 456 | TheNeesh50 |
 | 81 | 447 | Samantha Peterson |
@@ -91,8 +91,8 @@
 | 83 | 446 | Shane Kalamata Platoon |
 | 84 | 440 | Kristin Manee |
 | 85 | 437 | Chastity Mitchell |
-| 86 | 427 | Jolly Dashfit |
-| 87 | 427 | KJ Pool |
+| 86 | 427 | KJ Pool |
+| 87 | 427 | Jolly Dashfit |
 | 88 | 420 | Chilly Crasher |
 | 89 | 416 | YoMomma |
 | 90 | 412 | Jenna Ingersoll |
@@ -163,8 +163,8 @@
 | 155 | 230 | Autum Leigh |
 | 156 | 230 | Cursed Hag |
 | 157 | 228 | J-Rizzle |
-| 158 | 227 | Alyssa Papen |
-| 159 | 227 | Swanky Fitline |
+| 158 | 227 | Swanky Fitline |
+| 159 | 227 | Alyssa Papen |
 | 160 | 225 | Damn Libra |
 | 161 | 224 | Matt Summer |
 | 162 | 223 | Antony Dwayne Beasley |
@@ -232,25 +232,25 @@
 | 224 | 164 | 030Synner |
 | 225 | 164 | Lindsey Gonzalez |
 | 226 | 163 | Kristina Black |
-| 227 | 162 | Joanna |
-| 228 | 162 | John Brunetti |
+| 227 | 162 | John Brunetti |
+| 228 | 162 | Joanna |
 | 229 | 161 | Jenny Wells-Oakley |
 | 230 | 160 | Brittany Marsh |
 | 231 | 160 | Laura Hosford |
 | 232 | 159 | Marcus Todd |
-| 233 | 158 | Avy Absol |
-| 234 | 158 | Chair |
-| 235 | 157 | Bethany Ison |
-| 236 | 157 | KayM |
-| 237 | 157 | Paige Kittles |
-| 238 | 157 | scott |
+| 233 | 158 | Chair |
+| 234 | 158 | Avy Absol |
+| 235 | 157 | KayM |
+| 236 | 157 | Bethany Ison |
+| 237 | 157 | scott |
+| 238 | 157 | Paige Kittles |
 | 239 | 156 | Juls |
 | 240 | 156 | Ultramarine |
 | 241 | 155 | AyeKay |
 | 242 | 154 | Zany Shatterer |
 | 243 | 153 | Empress Oasis |
-| 244 | 152 | Austin Owens |
-| 245 | 152 | Faja |
+| 244 | 152 | Faja |
+| 245 | 152 | Austin Owens |
 | 246 | 149 | Tanner Lund |
 | 247 | 149 | Shainne Brewer |
 | 248 | 148 | Nubian1 |
@@ -277,9 +277,9 @@
 | 269 | 141 | Courtney Halleck |
 | 270 | 141 | Joshua Cuellar |
 | 271 | 140 | Cristy Duerksen |
-| 272 | 139 | ChasingZen |
-| 273 | 139 | O block |
-| 274 | 139 | Lori Goudy |
+| 272 | 139 | Lori Goudy |
+| 273 | 139 | ChasingZen |
+| 274 | 139 | O block |
 | 275 | 138 | Brandon Link |
 | 276 | 138 | Ashlee Carnes |
 | 277 | 138 | Nick Gray |
@@ -318,14 +318,14 @@
 | 310 | 128 | Allen Lloyd |
 | 311 | 128 | Kristin MacDonald |
 | 312 | 127 | Kim Hunt |
-| 313 | 126 | PAPatty |
+| 313 | 126 | Cheryl Johnson |
 | 314 | 126 | icequeenx |
 | 315 | 126 | PAPatty |
 | 316 | 125 | Steph Marie |
 | 317 | 125 | Ann G. Carrillo |
 | 318 | 125 | Daresha Fair |
-| 319 | 125 | Steph Marie |
-| 320 | 124 | Atia Scott |
+| 319 | 125 | Lush Linkfall |
+| 320 | 124 | Circuit8 |
 | 321 | 124 | Sam Middleton |
 | 322 | 124 | Atia Scott |
 | 323 | 123 | Joseph Edmonson |
@@ -392,11 +392,11 @@
 | 384 | 104 | mike |
 | 385 | 104 | Cranky Rollpiece |
 | 386 | 103 | Angela Srubar-Norman |
-| 387 | 102 | Brave Spinbuilder |
-| 388 | 102 | Bigeddie |
-| 389 | 102 | Christina O'Dell-Ishau |
-| 390 | 101 | wombat |
-| 391 | 101 | Saulc1991 |
+| 387 | 102 | Bigeddie |
+| 388 | 102 | Christina O'Dell-Ishau |
+| 389 | 102 | Brave Spinbuilder |
+| 390 | 101 | Saulc1991 |
+| 391 | 101 | wombat |
 | 392 | 101 | Nick Horn |
 | 393 | 100 | Marcus TheeyoungWoe Gilmore |
 | 394 | 100 | Sallie Sanborn |

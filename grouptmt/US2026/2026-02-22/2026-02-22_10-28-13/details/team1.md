@@ -54,8 +54,8 @@
 | 46 | 671 | Lawrence Belanger |
 | 47 | 663 | Drew Magnus |
 | 48 | 646 | Susanna Guerry |
-| 49 | 635 | Marianne Louise West |
-| 50 | 635 | Angel Fowler |
+| 49 | 635 | Angel Fowler |
+| 50 | 635 | Marianne Louise West |
 | 51 | 631 | comrade fish |
 | 52 | 627 | Katie Daniels |
 | 53 | 614 | Snappy Swiper |
@@ -120,8 +120,8 @@
 | 112 | 328 | Gracie |
 | 113 | 326 | Monica Donato |
 | 114 | 321 | Maria C. Hernandez |
-| 115 | 319 | Deanna L Hermanson |
-| 116 | 319 | Patrick Luckenbill |
+| 115 | 319 | Patrick Luckenbill |
+| 116 | 319 | Deanna L Hermanson |
 | 117 | 318 | Jessica Sheehan |
 | 118 | 316 | Ly Phethmany |
 | 119 | 313 | Tanya Carpenter-Reynolds |
@@ -134,8 +134,8 @@
 | 126 | 293 | Jennifer Hardman |
 | 127 | 290 | Death |
 | 128 | 285 | Ananda Mendez |
-| 129 | 284 | Emily Adelaide Wheatley |
-| 130 | 284 | Rachael |
+| 129 | 284 | Rachael |
+| 130 | 284 | Emily Adelaide Wheatley |
 | 131 | 283 | Franswa |
 | 132 | 282 | Snippy Wipebuilder |
 | 133 | 282 | Timothy Dew |
@@ -145,8 +145,8 @@
 | 137 | 270 | Ash Galvan |
 | 138 | 270 | Mandyy Rae |
 | 139 | 268 | GATOR |
-| 140 | 265 | Nutty Spinblock |
-| 141 | 265 | SkipTheSadSauce |
+| 140 | 265 | SkipTheSadSauce |
+| 141 | 265 | Nutty Spinblock |
 | 142 | 264 | Lexuriuos Lifestlye |
 | 143 | 264 | Jenny Gingrich Fuentes |
 | 144 | 263 | Sharon Reynolds |
@@ -180,8 +180,8 @@
 | 172 | 213 | Daring Fitclear |
 | 173 | 212 | Jaimie Lynn |
 | 174 | 211 | Marianita Garcia |
-| 175 | 210 | Letson Melissa |
-| 176 | 210 | Giggly Builderline |
+| 175 | 210 | Giggly Builderline |
+| 176 | 210 | Letson Melissa |
 | 177 | 209 | Debbie Davis |
 | 178 | 208 | Donna Addison Williams |
 | 179 | 208 | Bouncy Grid |
@@ -189,9 +189,9 @@
 | 181 | 207 | Ty Brown |
 | 182 | 207 | Brenda Alexander |
 | 183 | 206 | BadG52 |
-| 184 | 205 | Snappy Matcher |
-| 185 | 205 | Mike Ames |
-| 186 | 205 | Tater |
+| 184 | 205 | Mike Ames |
+| 185 | 205 | Tater |
+| 186 | 205 | Snappy Matcher |
 | 187 | 204 | Lacy Wolfe |
 | 188 | 203 | Paula Martin |
 | 189 | 203 | LaFontaine Leslie |

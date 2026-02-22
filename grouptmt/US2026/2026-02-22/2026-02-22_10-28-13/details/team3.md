@@ -194,8 +194,8 @@
 | 186 | 346 | RickyG |
 | 187 | 343 | Ashley Raines |
 | 188 | 341 | Samantha Lynn |
-| 189 | 338 | Gumbo |
-| 190 | 338 | Leah Barnett |
+| 189 | 338 | Leah Barnett |
+| 190 | 338 | Gumbo |
 | 191 | 332 | Rich LeBlanc |
 | 192 | 332 | Noyb Adam |
 | 193 | 330 | Rebecca Funderburk Kirby |
@@ -246,8 +246,8 @@
 | 238 | 264 | Grego Daniel |
 | 239 | 263 | Brittany |
 | 240 | 262 | Joe-Maggie Mathews |
-| 241 | 261 | Tiffany Ford |
-| 242 | 261 | Tasha Wesson-Torrence |
+| 241 | 261 | Tasha Wesson-Torrence |
+| 242 | 261 | Tiffany Ford |
 | 243 | 261 | Marquita Sheard |
 | 244 | 260 | Grams |
 | 245 | 259 | Danielle Weikel |
@@ -269,8 +269,8 @@
 | 261 | 240 | Jimmie Clemons |
 | 262 | 238 | LaTanya GeminiondaRise Johnson |
 | 263 | 236 | Jess Bissett |
-| 264 | 234 | Nikki Pags |
-| 265 | 234 | Connie Mohler-Fair |
+| 264 | 234 | Connie Mohler-Fair |
+| 265 | 234 | Nikki Pags |
 | 266 | 233 | Josh Borquez |
 | 267 | 233 | Ray Lader |
 | 268 | 232 | Brenda Schmid Wood |
@@ -286,11 +286,11 @@
 | 278 | 220 | Tosha Griffey |
 | 279 | 220 | rosy |
 | 280 | 218 | Michael Lucado |
-| 281 | 216 | Cheryl Hinch Tenbrook |
-| 282 | 216 | Twisty Brick LT |
+| 281 | 216 | Twisty Brick LT |
+| 282 | 216 | Cheryl Hinch Tenbrook |
 | 283 | 215 | IamJust Neyamijah Washington Sr. |
-| 284 | 214 | Amy Fuller Heaton |
-| 285 | 214 | Angela Scott |
+| 284 | 214 | Angela Scott |
+| 285 | 214 | Amy Fuller Heaton |
 | 286 | 214 | Rebel124 |
 | 287 | 213 | Nicholas Roddy |
 | 288 | 212 | Sunny Rotater |
