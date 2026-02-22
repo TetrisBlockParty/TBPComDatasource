@@ -187,8 +187,8 @@
 | 179 | 353 | Shunta Jacobs |
 | 180 | 353 | Nora Rogers |
 | 181 | 348 | Chasity |
-| 182 | 347 | Jone |
-| 183 | 347 | Nicole Flippo |
+| 182 | 347 | Nicole Flippo |
+| 183 | 347 | Jone |
 | 184 | 343 | Ashley Raines |
 | 185 | 341 | Samantha Lynn |
 | 186 | 340 | Chummy Caster |
@@ -236,8 +236,8 @@
 | 228 | 275 | Cassandra Bryant |
 | 229 | 274 | Tye Stovall |
 | 230 | 272 | Dee Franklin |
-| 231 | 271 | Ashley Muncey |
-| 232 | 271 | Cass Mendoza |
+| 231 | 271 | Cass Mendoza |
+| 232 | 271 | Ashley Muncey |
 | 233 | 269 | Trisha Balmer |
 | 234 | 267 | Terry Jo Jones |
 | 235 | 265 | Sarah Moyer |
@@ -252,8 +252,8 @@
 | 244 | 258 | Tamara Deherrera |
 | 245 | 257 | Ashley Jones |
 | 246 | 256 | Brenda Lee Vander Molen |
-| 247 | 256 | Tiffany Davie |
-| 248 | 256 | KayB |
+| 247 | 256 | KayB |
+| 248 | 256 | Tiffany Davie |
 | 249 | 251 | Sabrina Hardrick |
 | 250 | 250 | fraulila |
 | 251 | 249 | Annie Marie |
@@ -293,8 +293,8 @@
 | 285 | 214 | Rebel124 |
 | 286 | 212 | Sunny Rotater |
 | 287 | 212 | Desiree Gold |
-| 288 | 211 | Velma Mull |
-| 289 | 211 | El Chapa |
+| 288 | 211 | El Chapa |
+| 289 | 211 | Velma Mull |
 | 290 | 211 | Khaleada McGill Banks |
 | 291 | 210 | Lizabeth Fox |
 | 292 | 209 | Micayah Stevens |
@@ -349,8 +349,8 @@
 | 341 | 168 | April Matthew Kibble |
 | 342 | 168 | Trice Thomas |
 | 343 | 167 | Shicken Nuggit |
-| 344 | 167 | Irene Arreguin |
-| 345 | 167 | Romeo |
+| 344 | 167 | Romeo |
+| 345 | 167 | Irene Arreguin |
 | 346 | 166 | Noettín Kan Zasnemoore |
 | 347 | 166 | Angella Lyons |
 | 348 | 166 | Snarky McFace |
@@ -368,8 +368,8 @@
 | 360 | 162 | Stephanie Whitefield |
 | 361 | 162 | Kristin Delibac Corrigan |
 | 362 | 161 | Michael Johnson |
-| 363 | 161 | Julia Nicole |
-| 364 | 161 | Bouncy Blockbuilder |
+| 363 | 161 | Bouncy Blockbuilder |
+| 364 | 161 | Julia Nicole |
 | 365 | 160 | Sunny Lift |
 | 366 | 159 | Salena Whitlock |
 | 367 | 159 | Joshua David Huie |

@@ -133,8 +133,8 @@
 | 125 | 1273 | Cool Rollpiece |
 | 126 | 1257 | Eileen Hale |
 | 127 | 1252 | Katrina Williams Balmir |
-| 128 | 1248 | Isabela Shaw |
-| 129 | 1248 | Howard Forest |
+| 128 | 1248 | Howard Forest |
+| 129 | 1248 | Isabela Shaw |
 | 130 | 1242 | Altamirano Michael |
 | 131 | 1237 | L3sli3 |
 | 132 | 1232 | Groovy Puzzle |
@@ -535,8 +535,8 @@
 | 527 | 413 | Biggest thing |
 | 528 | 413 | Fancy Twister |
 | 529 | 413 | Juanita Lyons |
-| 530 | 411 | Kristen O'Neal |
-| 531 | 411 | Mighty Spinbuilder |
+| 530 | 411 | Mighty Spinbuilder |
+| 531 | 411 | Kristen O'Neal |
 | 532 | 410 | Tara Lynn Janes |
 | 533 | 410 | Nicole Cannon |
 | 534 | 408 | Brandon Jones |
@@ -676,15 +676,15 @@
 | 668 | 337 | Diallo Sparkman |
 | 669 | 337 | Tum |
 | 670 | 337 | Savannah Alexander |
-| 671 | 336 | bru |
-| 672 | 336 | Austin Wilson |
+| 671 | 336 | Austin Wilson |
+| 672 | 336 | bru |
 | 673 | 336 | Swanky Columnbuilder |
 | 674 | 335 | Brooke Leigh Strube |
 | 675 | 335 | Maria Louise |
 | 676 | 334 | Melissa James |
 | 677 | 333 | Veronica Stevenson |
-| 678 | 333 | Woodys Glass |
-| 679 | 333 | Adrian Benitez |
+| 678 | 333 | Adrian Benitez |
+| 679 | 333 | Woodys Glass |
 | 680 | 332 | Lathasa Newkirk |
 | 681 | 330 | Jennifer Monroe Kelly |
 | 682 | 329 | Chummy Blockbuilder |
@@ -937,8 +937,8 @@
 | 929 | 241 | Emoney Sanchez |
 | 930 | 241 | Ronda Cary |
 | 931 | 241 | Travis Tinsley |
-| 932 | 240 | Alison Emmons |
-| 933 | 240 | Renee Bowers |
+| 932 | 240 | Renee Bowers |
+| 933 | 240 | Alison Emmons |
 | 934 | 239 | Amy John Mills |
 | 935 | 239 | AsnPryBoy83 |
 | 936 | 239 | Daring Matchfit |
@@ -946,11 +946,11 @@
 | 938 | 239 | Shindee |
 | 939 | 239 | Joel Rosado |
 | 940 | 238 | Trista Carter |
-| 941 | 238 | SwifftFox |
-| 942 | 238 | Pfc Monei Rivera |
+| 941 | 238 | Pfc Monei Rivera |
+| 942 | 238 | SwifftFox |
 | 943 | 237 | Jay Levy |
-| 944 | 237 | Breezy Tilt |
-| 945 | 237 | Devlin Ogg |
+| 944 | 237 | Devlin Ogg |
+| 945 | 237 | Breezy Tilt |
 | 946 | 237 | Jodi Mitnick |
 | 947 | 237 | Nutty Matchline |
 | 948 | 235 | B-rad B-rad |
@@ -980,8 +980,8 @@
 | 972 | 229 | Chyrisse Norton |
 | 973 | 229 | Deidre Jenkins |
 | 974 | 229 | Heather Anspaugh |
-| 975 | 228 | Lee |
-| 976 | 228 | Yasmin Guzman |
+| 975 | 228 | Yasmin Guzman |
+| 976 | 228 | Lee |
 | 977 | 228 | Dara |
 | 978 | 228 | Queen |
 | 979 | 228 | Kandy Charmz |
@@ -1010,8 +1010,8 @@
 | 1002 | 223 | Zak Dunn |
 | 1003 | 223 | LegoCarpet |
 | 1004 | 223 | Jess Morrison |
-| 1005 | 223 | Sarah DeHart |
-| 1006 | 223 | Michele Moren |
+| 1005 | 223 | Michele Moren |
+| 1006 | 223 | Sarah DeHart |
 | 1007 | 223 | Natasha Marie |
 | 1008 | 223 | DesertDreamer24 |
 | 1009 | 223 | Laura Morrison |

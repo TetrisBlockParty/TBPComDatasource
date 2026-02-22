@@ -259,8 +259,8 @@
 | 251 | 155 | Barry Mac'Ockner |
 | 252 | 154 | Gary Gobin |
 | 253 | 154 | Melissa Lemmon |
-| 254 | 153 | Dino |
-| 255 | 153 | Tami Luce Martin |
+| 254 | 153 | Tami Luce Martin |
+| 255 | 153 | Dino |
 | 256 | 153 | Desiree Deschaine Havee |
 | 257 | 152 | Tavia |
 | 258 | 152 | Speedy Snapfall |
