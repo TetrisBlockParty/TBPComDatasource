@@ -42,8 +42,8 @@
 | 34 | 873 | Elizabeth Sallas |
 | 35 | 871 | Denny Shives |
 | 36 | 846 | Christine Marie |
-| 37 | 843 | Lucille Truesdale |
-| 38 | 843 | Shelly Chandler |
+| 37 | 843 | Shelly Chandler |
+| 38 | 843 | Lucille Truesdale |
 | 39 | 834 | quicksand420 |
 | 40 | 818 | Marvin Lou Martin |
 | 41 | 811 | Jae Job |
@@ -62,8 +62,8 @@
 | 54 | 671 | TeeJ |
 | 55 | 664 | Valerie Roberts |
 | 56 | 661 | D3TROITB0RN74 |
-| 57 | 659 | Jonathan Kimbrough |
-| 58 | 659 | Rebecca Moulton Pinciaro |
+| 57 | 659 | Rebecca Moulton Pinciaro |
+| 58 | 659 | Jonathan Kimbrough |
 | 59 | 658 | loulou |
 | 60 | 654 | Chilly Line |
 | 61 | 647 | KM8 |

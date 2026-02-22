@@ -76,8 +76,8 @@
 | 68 | 489 | Deanna L Hermanson |
 | 69 | 488 | Kellie |
 | 70 | 485 | Cartier |
-| 71 | 483 | Evie Khalil |
-| 72 | 483 | Ryan Lunnin |
+| 71 | 483 | Ryan Lunnin |
+| 72 | 483 | Evie Khalil |
 | 73 | 461 | April Carroll |
 | 74 | 458 | Jennifer ManWarren |
 | 75 | 456 | Arianna O'Brien |
@@ -101,8 +101,8 @@
 | 93 | 389 | Trina Gee |
 | 94 | 383 | Loony Fitzone |
 | 95 | 382 | Jacqueline Williams |
-| 96 | 379 | Kimmie Kimms |
-| 97 | 379 | Austin James |
+| 96 | 379 | Austin James |
+| 97 | 379 | Kimmie Kimms |
 | 98 | 376 | lil mickey |
 | 99 | 374 | Tinah Montanna |
 | 100 | 364 | Shauna Loe |
@@ -127,11 +127,11 @@
 | 119 | 326 | Monica Donato |
 | 120 | 321 | Maria C. Hernandez |
 | 121 | 318 | Jessica Sheehan |
-| 122 | 316 | Jennifer Hardman |
-| 123 | 316 | Ly Phethmany |
+| 122 | 316 | Ly Phethmany |
+| 123 | 316 | Jennifer Hardman |
 | 124 | 316 | Dizzy Party |
-| 125 | 313 | Virginia Gray Floyd |
-| 126 | 313 | Tanya Carpenter-Reynolds |
+| 125 | 313 | Tanya Carpenter-Reynolds |
+| 126 | 313 | Virginia Gray Floyd |
 | 127 | 310 | Seth Wesson |
 | 128 | 308 | Sharon Reynolds |
 | 129 | 306 | Happy Basegrid |
@@ -144,13 +144,13 @@
 | 136 | 290 | Death |
 | 137 | 289 | David Miller |
 | 138 | 285 | Ananda Mendez |
-| 139 | 284 | Emily Adelaide Wheatley |
-| 140 | 284 | Rachael |
+| 139 | 284 | Rachael |
+| 140 | 284 | Emily Adelaide Wheatley |
 | 141 | 283 | Franswa |
-| 142 | 282 | Tyler Werts |
-| 143 | 282 | Timothy Dew |
-| 144 | 282 | Snippy Wipebuilder |
-| 145 | 282 | Cool Shiftsnap |
+| 142 | 282 | Timothy Dew |
+| 143 | 282 | Tyler Werts |
+| 144 | 282 | Cool Shiftsnap |
+| 145 | 282 | Snippy Wipebuilder |
 | 146 | 276 | Dandy Basegrid |
 | 147 | 270 | Ash Galvan |
 | 148 | 270 | Mandyy Rae |
@@ -347,8 +347,8 @@
 | 339 | 128 | Alyssa Ingram |
 | 340 | 127 | Test |
 | 341 | 127 | Danielle Mae |
-| 342 | 126 | Tyler Hertzog |
-| 343 | 126 | Zany Tiler |
+| 342 | 126 | Zany Tiler |
+| 343 | 126 | Tyler Hertzog |
 | 344 | 126 | DoodleBug |
 | 345 | 125 | Angela Spann |
 | 346 | 125 | Matt Iaccheo |
