@@ -116,8 +116,8 @@
 | 108 | 506 | Sashay Tapae Simpson |
 | 109 | 502 | Justin Ritter |
 | 110 | 502 | Elissa S-k |
-| 111 | 500 | Domo Washington |
-| 112 | 500 | Kristie |
+| 111 | 500 | Kristie |
+| 112 | 500 | Domo Washington |
 | 113 | 497 | Mykal Burton |
 | 114 | 492 | Daira Largen |
 | 115 | 491 | Chauntee Alfrey-Cardinale |
@@ -383,11 +383,11 @@
 | 375 | 146 | Wettnippz |
 | 376 | 144 | Tenisha Semidey |
 | 377 | 142 | Gray Hicks |
-| 378 | 142 | Joy Petroski |
-| 379 | 142 | Erica Anderson |
-| 380 | 142 | Jl |
-| 381 | 141 | Weerae |
-| 382 | 141 | Melissa Snyder |
+| 378 | 142 | Jl |
+| 379 | 142 | Joy Petroski |
+| 380 | 142 | Erica Anderson |
+| 381 | 141 | Melissa Snyder |
+| 382 | 141 | Weerae |
 | 383 | 141 | Blair Erin Waite |
 | 384 | 140 | Alison Baus |
 | 385 | 140 | Boldy Corner |
@@ -406,16 +406,16 @@
 | 398 | 134 | Tammy |
 | 399 | 134 | gremicx |
 | 400 | 133 | Jen Lewis |
-| 401 | 132 | Hanna Kim |
-| 402 | 132 | Andrew Thorson |
+| 401 | 132 | Andrew Thorson |
+| 402 | 132 | Hanna Kim |
 | 403 | 131 | Cheeky Setter |
 | 404 | 130 | Sarah Whalen |
-| 405 | 130 | TotoCherue |
-| 406 | 130 | Karen Picaboo |
+| 405 | 130 | Karen Picaboo |
+| 406 | 130 | TotoCherue |
 | 407 | 129 | Betty Bóò |
-| 408 | 129 | Juliana Dottore |
+| 408 | 129 | luluraine |
 | 409 | 129 | Stella |
-| 410 | 129 | luluraine |
+| 410 | 129 | Juliana Dottore |
 | 411 | 129 | Amanda Neal |
 | 412 | 128 | David Kozen |
 | 413 | 127 | Jumpy Wrecker |
@@ -584,7 +584,7 @@
 | 576 | 94 | Tommy Proctor |
 | 577 | 94 | lashanda |
 | 578 | 94 | Velma Mull |
-| 579 | 93 | Tucker Allen |
+| 579 | 93 | Katheline Lazo Luizaga |
 | 580 | 93 | Samantha Long |
 | 581 | 93 | Tucker Allen |
 | 582 | 93 | Clever Clearbuilder |
@@ -876,7 +876,7 @@
 | 868 | 64 | Murray35 |
 | 869 | 64 | Chris Wallace |
 | 870 | 63 | HeatherMay220 |
-| 871 | 63 | Giggy Snapzone |
+| 871 | 63 | Flashy Brickline |
 | 872 | 63 | Bigz |
 | 873 | 63 | Giggy Snapzone |
 | 874 | 63 | Benny Tyrrell |

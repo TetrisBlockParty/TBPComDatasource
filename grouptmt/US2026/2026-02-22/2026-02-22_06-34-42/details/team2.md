@@ -122,8 +122,8 @@
 | 114 | 1273 | Cool Rollpiece |
 | 115 | 1257 | Eileen Hale |
 | 116 | 1252 | Katrina Williams Balmir |
-| 117 | 1248 | Howard Forest |
-| 118 | 1248 | Isabela Shaw |
+| 117 | 1248 | Isabela Shaw |
+| 118 | 1248 | Howard Forest |
 | 119 | 1242 | Altamirano Michael |
 | 120 | 1232 | Groovy Puzzle |
 | 121 | 1226 | Vo'Landa Reels |
@@ -214,8 +214,8 @@
 | 206 | 838 | Tralonda Weeks |
 | 207 | 837 | Ashley Rose Frederick |
 | 208 | 835 | Katrina Weston |
-| 209 | 834 | Rebecca Doughman |
-| 210 | 834 | Nika Bee |
+| 209 | 834 | Nika Bee |
+| 210 | 834 | Rebecca Doughman |
 | 211 | 828 | Cindy Sechler Taninecz |
 | 212 | 826 | Moose Griffith |
 | 213 | 820 | Chirpy Staggerpiece |
@@ -237,8 +237,8 @@
 | 229 | 771 | Terri McKelvey McKinley |
 | 230 | 769 | Adira Brown |
 | 231 | 767 | Jessica Wayne Cornwall |
-| 232 | 765 | Stephen Stephen |
-| 233 | 765 | Jodi Blake |
+| 232 | 765 | Jodi Blake |
+| 233 | 765 | Stephen Stephen |
 | 234 | 763 | Lisa Ongtowasruk |
 | 235 | 763 | Samantha Jo |
 | 236 | 759 | Desire Rice |
@@ -282,8 +282,8 @@
 | 274 | 679 | Dee |
 | 275 | 678 | Scott Treadway |
 | 276 | 677 | Mema |
-| 277 | 675 | Brenda Utphall |
-| 278 | 675 | Tommy Tha Boss Gunz |
+| 277 | 675 | Tommy Tha Boss Gunz |
+| 278 | 675 | Brenda Utphall |
 | 279 | 674 | Kathryn Townsley |
 | 280 | 673 | Claire Noland |
 | 281 | 672 | Danielle Simmons |
@@ -387,8 +387,8 @@
 | 379 | 509 | Kelli Wells |
 | 380 | 509 | Jordan Kaiser |
 | 381 | 507 | Gauri Shrotriya |
-| 382 | 507 | Joshua Mandel |
-| 383 | 507 | Magic steve |
+| 382 | 507 | Magic steve |
+| 383 | 507 | Joshua Mandel |
 | 384 | 503 | Emily Lyric Converse |
 | 385 | 502 | Sparkles |
 | 386 | 500 | Sarah Ridenour |
@@ -458,8 +458,8 @@
 | 450 | 440 | Sarah Berger |
 | 451 | 440 | Liberty |
 | 452 | 440 | Snippy Rumbler |
-| 453 | 437 | Bubbly Snapfit |
-| 454 | 437 | Arwa Fatimah |
+| 453 | 437 | Arwa Fatimah |
+| 454 | 437 | Bubbly Snapfit |
 | 455 | 435 | Regina Young |
 | 456 | 433 | KayLynn Ogden McClelland |
 | 457 | 432 | Lucy Marshall |
@@ -545,8 +545,8 @@
 | 537 | 384 | Party d |
 | 538 | 384 | Mike Aprilliano |
 | 539 | 383 | Belle Mari |
-| 540 | 382 | David Holliday |
-| 541 | 382 | KhaosLord |
+| 540 | 382 | KhaosLord |
+| 541 | 382 | David Holliday |
 | 542 | 381 | Melissa Rebbe-Lehman |
 | 543 | 381 | Jessica S Flecha |
 | 544 | 381 | Happy Caster |
@@ -591,8 +591,8 @@
 | 583 | 361 | Lewis Sturgeon |
 | 584 | 360 | Jroc |
 | 585 | 359 | Cheyenne Donovan |
-| 586 | 358 | Alyssaaelena |
-| 587 | 358 | Sydney Busse |
+| 586 | 358 | Sydney Busse |
+| 587 | 358 | Alyssaaelena |
 | 588 | 358 | Veronics |
 | 589 | 357 | Tristan Szolek |
 | 590 | 357 | Shannon Byrd |
