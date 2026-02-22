@@ -70,8 +70,8 @@
 | 62 | 1027 | Gracie |
 | 63 | 1019 | Joey Banks |
 | 64 | 954 | Nate Burnside |
-| 65 | 926 | Angela M. Fletcher |
-| 66 | 926 | Judi Dobson |
+| 65 | 926 | Judi Dobson |
+| 66 | 926 | Angela M. Fletcher |
 | 67 | 924 | Shonna Roberts |
 | 68 | 909 | Jennifer |
 | 69 | 903 | Sarah Fehring |
@@ -163,8 +163,8 @@
 | 155 | 479 | Poppy Splitter |
 | 156 | 474 | Danielle Balcom |
 | 157 | 473 | Calista Jo Dickson |
-| 158 | 471 | Mendoza Lee Christy |
-| 159 | 471 | Nora Rogers |
+| 158 | 471 | Nora Rogers |
+| 159 | 471 | Mendoza Lee Christy |
 | 160 | 470 | Logan Naccarato |
 | 161 | 469 | Adrian Marcel Pate |
 | 162 | 469 | Melissa Orth Hunter |
@@ -187,8 +187,8 @@
 | 179 | 432 | Christine Trester |
 | 180 | 432 | Jenny Hrndz |
 | 181 | 431 | Sarah Cowan Burgos |
-| 182 | 430 | Jeni Dow |
-| 183 | 430 | Joye Sims Binion |
+| 182 | 430 | Joye Sims Binion |
+| 183 | 430 | Jeni Dow |
 | 184 | 428 | Araceli Parra |
 | 185 | 427 | Wendy Dearden |
 | 186 | 425 | Rochelle Hazelett |
@@ -198,8 +198,8 @@
 | 190 | 416 | Staci George Fitzsimmons |
 | 191 | 415 | ren |
 | 192 | 410 | Stephanie Simpson |
-| 193 | 405 | Marcie Bressler |
-| 194 | 405 | Sherry Ogden |
+| 193 | 405 | Sherry Ogden |
+| 194 | 405 | Marcie Bressler |
 | 195 | 403 | Scott Lindsay |
 | 196 | 400 | Sherika C. McDaniels |
 | 197 | 399 | Mcathen |
@@ -226,8 +226,8 @@
 | 218 | 360 | Sheila M Frazier |
 | 219 | 357 | Stephanie Burtin |
 | 220 | 355 | Keis |
-| 221 | 351 | Eon Harris |
-| 222 | 351 | Rebecca Funderburk Kirby |
+| 221 | 351 | Rebecca Funderburk Kirby |
+| 222 | 351 | Eon Harris |
 | 223 | 350 | Kammy Hill |
 | 224 | 349 | Amanda J. Mcneil-Anderson |
 | 225 | 348 | Kristal C Lee |
@@ -285,8 +285,8 @@
 | 277 | 279 | Connie Mohler-Fair |
 | 278 | 278 | Rufus Lincoln |
 | 279 | 278 | LaShey Thompson |
-| 280 | 277 | Kaycee Kay |
-| 281 | 277 | Joe-Maggie Mathews |
+| 280 | 277 | Joe-Maggie Mathews |
+| 281 | 277 | Kaycee Kay |
 | 282 | 277 | Tracy Martin |
 | 283 | 276 | Heather De Vries Cobb |
 | 284 | 276 | Crimson |
@@ -308,8 +308,8 @@
 | 300 | 267 | Nikki Pags |
 | 301 | 266 | Quirky Dropzone |
 | 302 | 266 | Donna |
-| 303 | 261 | Foltz Lee Kelli |
-| 304 | 261 | Angela Scott |
+| 303 | 261 | Angela Scott |
+| 304 | 261 | Foltz Lee Kelli |
 | 305 | 260 | France Vézina |
 | 306 | 258 | IamJust Neyamijah Washington Sr. |
 | 307 | 256 | KayB |

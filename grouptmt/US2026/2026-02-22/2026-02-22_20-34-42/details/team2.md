@@ -141,8 +141,8 @@
 | 133 | 1469 | Christi Hulet |
 | 134 | 1450 | Cody Smith-Candelaria |
 | 135 | 1418 | L3sli3 |
-| 136 | 1411 | niecy |
-| 137 | 1411 | Zappy Cascade |
+| 136 | 1411 | Zappy Cascade |
+| 137 | 1411 | niecy |
 | 138 | 1401 | Brandy Andre |
 | 139 | 1397 | Bussyiano Page |
 | 140 | 1390 | Erica Williams |
@@ -161,8 +161,8 @@
 | 153 | 1300 | Tacara Cummings |
 | 154 | 1296 | Kristin Ruest |
 | 155 | 1286 | Altamirano Michael |
-| 156 | 1282 | Tanya Parsons |
-| 157 | 1282 | Ashley Rose Frederick |
+| 156 | 1282 | Ashley Rose Frederick |
+| 157 | 1282 | Tanya Parsons |
 | 158 | 1273 | Cool Rollpiece |
 | 159 | 1271 | Shandrica Lowe |
 | 160 | 1260 | Joshua Sommerville |
@@ -176,8 +176,8 @@
 | 168 | 1216 | Nancy Reid |
 | 169 | 1211 | Lucky Ladybug |
 | 170 | 1207 | David Cudicio-Hayden |
-| 171 | 1192 | Ashley House |
-| 172 | 1192 | Denisha Dawkins |
+| 171 | 1192 | Denisha Dawkins |
+| 172 | 1192 | Ashley House |
 | 173 | 1180 | Ambyre Patterson |
 | 174 | 1177 | Joyce Johnson Vaughn |
 | 175 | 1174 | Jennifer Casey-Kay |
@@ -431,8 +431,8 @@
 | 423 | 609 | g |
 | 424 | 605 | Biggest thing |
 | 425 | 603 | Casper The Chonk |
-| 426 | 602 | KhaosLord |
-| 427 | 602 | Shaun Church |
+| 426 | 602 | Shaun Church |
+| 427 | 602 | KhaosLord |
 | 428 | 601 | Moua Ying |
 | 429 | 600 | Arkei Luster |
 | 430 | 599 | Emilee Burke |
@@ -450,8 +450,8 @@
 | 442 | 584 | Kimberly Randesi |
 | 443 | 582 | Bee |
 | 444 | 581 | Angie Marie |
-| 445 | 580 | Joshua Self |
-| 446 | 580 | Angela Lynn |
+| 445 | 580 | Angela Lynn |
+| 446 | 580 | Joshua Self |
 | 447 | 579 | Roy Salyer |
 | 448 | 576 | Leslie Johnson Guinto |
 | 449 | 574 | Santana Miyagi |
@@ -465,8 +465,8 @@
 | 457 | 566 | Leah Keesling |
 | 458 | 565 | Lyndi Robinson Wakefield |
 | 459 | 565 | Jaycee |
-| 460 | 563 | Lonne Emade |
-| 461 | 563 | snkylnk |
+| 460 | 563 | snkylnk |
+| 461 | 563 | Lonne Emade |
 | 462 | 563 | Sarah Massey |
 | 463 | 562 | AISlop |
 | 464 | 559 | Blacc Blac |

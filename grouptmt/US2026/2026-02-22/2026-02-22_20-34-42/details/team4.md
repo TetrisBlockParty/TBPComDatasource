@@ -81,8 +81,8 @@
 | 73 | 647 | KM8 |
 | 74 | 646 | Jacqueline Helm |
 | 75 | 626 | Brittney Griggs |
-| 76 | 617 | Savannah Overdorf |
-| 77 | 617 | Jason Hart |
+| 76 | 617 | Jason Hart |
+| 77 | 617 | Savannah Overdorf |
 | 78 | 614 | TheNeesh50 |
 | 79 | 603 | Jason Allen |
 | 80 | 597 | Eric Mcgaughy |
@@ -298,8 +298,8 @@
 | 290 | 170 | PeaceOs |
 | 291 | 170 | Elie Pean |
 | 292 | 169 | Ellen Durfee |
-| 293 | 169 | Daring Pivot |
-| 294 | 169 | Jessica Atkinson |
+| 293 | 169 | Jessica Atkinson |
+| 294 | 169 | Daring Pivot |
 | 295 | 168 | Kathy Allen |
 | 296 | 168 | Zippy Tilt |
 | 297 | 166 | KimoKoala |
@@ -400,11 +400,11 @@
 | 392 | 137 | Carlos Hernandez |
 | 393 | 137 | Red |
 | 394 | 136 | Dandy Cascadefit |
-| 395 | 136 | Michelle Morris |
-| 396 | 136 | Jen Hallin |
+| 395 | 136 | Jen Hallin |
+| 396 | 136 | Michelle Morris |
 | 397 | 135 | Joshua Guess |
-| 398 | 134 | Kristin MacDonald |
-| 399 | 134 | Jobadia Steelerton |
+| 398 | 134 | Jobadia Steelerton |
+| 399 | 134 | Kristin MacDonald |
 | 400 | 133 | Jesus Garcia |
 | 401 | 132 | Melissa Priest Sellers |
 | 402 | 132 | Meg |
@@ -536,8 +536,8 @@
 | 528 | 99 | Dapper Frame |
 | 529 | 99 | Martha Lucinda Bishop |
 | 530 | 99 | Caitlyn Brown |
-| 531 | 98 | Brenda Bird |
-| 532 | 98 | Carla Harris |
+| 531 | 98 | Carla Harris |
+| 532 | 98 | Brenda Bird |
 | 533 | 97 | Serena Butter |
 | 534 | 97 | Flavoredsausage |
 | 535 | 96 | Destiney Carter |
