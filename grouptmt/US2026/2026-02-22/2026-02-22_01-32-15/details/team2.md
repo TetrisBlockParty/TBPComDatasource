@@ -193,8 +193,8 @@
 | 185 | 747 | Real Ri |
 | 186 | 746 | Moose Griffith |
 | 187 | 739 | Gary Schaffner Jr. |
-| 188 | 738 | Melissa Cole |
-| 189 | 738 | Maria Escobar |
+| 188 | 738 | Maria Escobar |
+| 189 | 738 | Melissa Cole |
 | 190 | 737 | Kristopher Miller |
 | 191 | 736 | Ashie Ann |
 | 192 | 729 | Murrae Lynn Rebarchek |
@@ -617,8 +617,8 @@
 | 609 | 275 | Crystal Elam |
 | 610 | 275 | Kathryn Townsley |
 | 611 | 274 | Jamie Stevey |
-| 612 | 274 | Kacee Conrad Bock |
-| 613 | 274 | Robin L. Vial |
+| 612 | 274 | Robin L. Vial |
+| 613 | 274 | Kacee Conrad Bock |
 | 614 | 273 | Britt Stunkel |
 | 615 | 272 | Ryan Lauer |
 | 616 | 272 | Witty Piecebuilder |

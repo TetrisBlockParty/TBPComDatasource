@@ -123,8 +123,8 @@
 | 115 | 225 | Damn Libra |
 | 116 | 222 | Joeliecea Cobb |
 | 117 | 221 | Alyssa Papen |
-| 118 | 218 | Antony Dwayne Beasley |
-| 119 | 218 | Casey Grabner |
+| 118 | 218 | Casey Grabner |
+| 119 | 218 | Antony Dwayne Beasley |
 | 120 | 217 | Chaz Duncan |
 | 121 | 217 | loulou |
 | 122 | 214 | Monica Daley |

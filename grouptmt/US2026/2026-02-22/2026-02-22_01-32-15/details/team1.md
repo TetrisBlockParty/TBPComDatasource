@@ -89,8 +89,8 @@
 | 81 | 323 | Candy Jones |
 | 82 | 323 | Sweet Baker |
 | 83 | 321 | Maria C. Hernandez |
-| 84 | 319 | Deanna L Hermanson |
-| 85 | 319 | Shauna Loe |
+| 84 | 319 | Shauna Loe |
+| 85 | 319 | Deanna L Hermanson |
 | 86 | 311 | Tanya Carpenter-Reynolds |
 | 87 | 310 | Seth Wesson |
 | 88 | 305 | Patrick Luckenbill |
@@ -180,8 +180,8 @@
 | 172 | 168 | Standia Civil |
 | 173 | 168 | Lori Bales |
 | 174 | 168 | Sleepysloath5745 |
-| 175 | 167 | Nery Martinez |
-| 176 | 167 | Erin Hodges Plumb |
+| 175 | 167 | Erin Hodges Plumb |
+| 176 | 167 | Nery Martinez |
 | 177 | 166 | Rico Rico |
 | 178 | 165 | Arianna O'Brien |
 | 179 | 165 | Nadine Velardo |
@@ -197,8 +197,8 @@
 | 189 | 154 | Christy Jones |
 | 190 | 154 | Melissa Lemmon |
 | 191 | 153 | Barry Mac'Ockner |
-| 192 | 152 | Speedy Snapfall |
-| 193 | 152 | Jacqueline Unique |
+| 192 | 152 | Jacqueline Unique |
+| 193 | 152 | Speedy Snapfall |
 | 194 | 150 | Adele Rahman |
 | 195 | 148 | Bouncy Grid |
 | 196 | 147 | DaRascal |
