@@ -150,8 +150,8 @@
 | 142 | 1450 | Cody Smith-Candelaria |
 | 143 | 1418 | L3sli3 |
 | 144 | 1412 | Angi Harrison |
-| 145 | 1411 | Zappy Cascade |
-| 146 | 1411 | niecy |
+| 145 | 1411 | niecy |
+| 146 | 1411 | Zappy Cascade |
 | 147 | 1401 | Brandy Andre |
 | 148 | 1397 | Bussyiano Page |
 | 149 | 1390 | Erica Williams |
@@ -252,8 +252,8 @@
 | 244 | 972 | Della Hole |
 | 245 | 965 | Maria Escobar |
 | 246 | 957 | Crystal Hoffman |
-| 247 | 957 | Block Master |
-| 248 | 957 | Keri Womack |
+| 247 | 957 | Keri Womack |
+| 248 | 957 | Block Master |
 | 249 | 955 | Angela Bonquiqui Dinish |
 | 250 | 951 | Cynthia Ward |
 | 251 | 941 | Cool Clearer |
@@ -428,8 +428,8 @@
 | 420 | 642 | Cassie Maynard |
 | 421 | 642 | Gary Stash |
 | 422 | 640 | BYM4L |
-| 423 | 639 | Rebecca Miller |
-| 424 | 639 | Steven Marshaun |
+| 423 | 639 | Steven Marshaun |
+| 424 | 639 | Rebecca Miller |
 | 425 | 635 | Mikayala Szaz |
 | 426 | 635 | Dennis McLaurin |
 | 427 | 632 | Brittney Jean |
@@ -457,8 +457,8 @@
 | 449 | 601 | Slinky Racker |
 | 450 | 597 | Jamie Schmitt |
 | 451 | 594 | Rhonda Milstead |
-| 452 | 594 | Autumn Schaeffer |
-| 453 | 594 | Michelle Fields |
+| 452 | 594 | Michelle Fields |
+| 453 | 594 | Autumn Schaeffer |
 | 454 | 594 | Irene Jones |
 | 455 | 591 | Kimberly Hope Howell |
 | 456 | 589 | Shavonna Haynes |
@@ -554,8 +554,8 @@
 | 546 | 496 | SwampRebel |
 | 547 | 495 | Michelle Lee |
 | 548 | 495 | Bubbly Snapbuild |
-| 549 | 494 | Venita Ray |
-| 550 | 494 | Snippy Rumbler |
+| 549 | 494 | Snippy Rumbler |
+| 550 | 494 | Venita Ray |
 | 551 | 493 | Sue Leard |
 | 552 | 493 | Besma Ao |
 | 553 | 492 | Breezy Clusterer |
@@ -580,8 +580,8 @@
 | 572 | 483 | Kyle LeRoy Harris |
 | 573 | 482 | Drwatson187 |
 | 574 | 482 | Kathleen Driskell |
-| 575 | 482 | Lina Sanders |
-| 576 | 482 | Amélie Cadieux |
+| 575 | 482 | Amélie Cadieux |
+| 576 | 482 | Lina Sanders |
 | 577 | 480 | Ryan Meilleur |
 | 578 | 480 | Dar |
 | 579 | 479 | James Smith |

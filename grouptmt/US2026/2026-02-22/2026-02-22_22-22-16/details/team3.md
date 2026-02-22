@@ -360,8 +360,8 @@
 | 352 | 235 | Cheryl Hinch Tenbrook |
 | 353 | 233 | Tony Waters |
 | 354 | 232 | Nicholas Roddy |
-| 355 | 231 | Frothy Snapper |
-| 356 | 231 | Kevin Russell |
+| 355 | 231 | Kevin Russell |
+| 356 | 231 | Frothy Snapper |
 | 357 | 230 | BigE |
 | 358 | 229 | DanceLuvLaugh |
 | 359 | 228 | Loopy Fallzone |
@@ -485,9 +485,9 @@
 | 477 | 177 | Silver Marchán |
 | 478 | 177 | Melissa Snyder |
 | 479 | 175 | Stella |
-| 480 | 174 | Lesley Perez |
-| 481 | 174 | Rayzer |
-| 482 | 174 | Sierra Spencer |
+| 480 | 174 | Sierra Spencer |
+| 481 | 174 | Lesley Perez |
+| 482 | 174 | Rayzer |
 | 483 | 173 | MizzMonick Smith |
 | 484 | 173 | Hanul |
 | 485 | 173 | momo |

@@ -68,8 +68,8 @@
 | 60 | 735 | Avy Absol |
 | 61 | 731 | Anthony Bryan Riva |
 | 62 | 722 | Dustee Craddock-Harrison |
-| 63 | 721 | Edward White |
-| 64 | 721 | Chilly Line |
+| 63 | 721 | Chilly Line |
+| 64 | 721 | Edward White |
 | 65 | 704 | Crystal Carroll |
 | 66 | 704 | loulou |
 | 67 | 679 | D3TROITB0RN74 |
@@ -125,8 +125,8 @@
 | 117 | 435 | Leslie Thomas |
 | 118 | 431 | Courtney Cicoria |
 | 119 | 429 | Ren Mc |
-| 120 | 427 | KJ Pool |
-| 121 | 427 | Jolly Dashfit |
+| 120 | 427 | Jolly Dashfit |
+| 121 | 427 | KJ Pool |
 | 122 | 418 | Dizzy Tiley |
 | 123 | 417 | Monica Daley |
 | 124 | 414 | Nope Young |
@@ -174,14 +174,14 @@
 | 166 | 312 | Rafael Valentin |
 | 167 | 311 | A5! |
 | 168 | 308 | Jeff Brian Gates |
-| 169 | 307 | Bio Nelly |
-| 170 | 307 | Girl |
+| 169 | 307 | Girl |
+| 170 | 307 | Bio Nelly |
 | 171 | 303 | shark tato |
 | 172 | 302 | Cursed Hag |
 | 173 | 301 | Damn Libra |
-| 174 | 301 | Crystal Nicolette Moore |
+| 174 | 301 | J-Rizzle |
 | 175 | 301 | Andria Lynn |
-| 176 | 301 | J-Rizzle |
+| 176 | 301 | Crystal Nicolette Moore |
 | 177 | 300 | Dana Scott |
 | 178 | 300 | Chaz Duncan |
 | 179 | 294 | Calvin Cannon |
@@ -209,10 +209,10 @@
 | 201 | 267 | Chris Bernstein |
 | 202 | 267 | Casey Grabner |
 | 203 | 262 | Holly Jolly |
-| 204 | 261 | scott |
-| 205 | 261 | Dihcheese444 |
-| 206 | 259 | Melvin Baird |
-| 207 | 259 | Sam Bishop |
+| 204 | 261 | Dihcheese444 |
+| 205 | 261 | scott |
+| 206 | 259 | Sam Bishop |
+| 207 | 259 | Melvin Baird |
 | 208 | 258 | Jen Caldwell |
 | 209 | 257 | Cheery Risebuilder |
 | 210 | 256 | Mylo Lipscomb |

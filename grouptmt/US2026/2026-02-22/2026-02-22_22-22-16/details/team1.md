@@ -130,8 +130,8 @@
 | 122 | 390 | Goose egg |
 | 123 | 387 | Emily Adelaide Wheatley |
 | 124 | 386 | Plucky Ziggy |
-| 125 | 386 | David Miller |
-| 126 | 386 | Ty Brown |
+| 125 | 386 | Ty Brown |
+| 126 | 386 | David Miller |
 | 127 | 383 | pjbeta |
 | 128 | 379 | Kimmie Kimms |
 | 129 | 379 | Austin James |
@@ -142,8 +142,8 @@
 | 134 | 370 | Ly Phethmany |
 | 135 | 364 | Shauna Loe |
 | 136 | 363 | Sharon Reynolds |
-| 137 | 360 | Wisa |
-| 138 | 360 | phrmblk24 |
+| 137 | 360 | phrmblk24 |
+| 138 | 360 | Wisa |
 | 139 | 359 | Chirpy Smasher |
 | 140 | 357 | Amanda Johnson Huffman |
 | 141 | 350 | Tipsy Strikerpiece |
@@ -213,12 +213,12 @@
 | 205 | 260 | Cheeky Pop |
 | 206 | 256 | Chris65 |
 | 207 | 255 | Speedy Liney |
-| 208 | 254 | Al Smith Jr |
-| 209 | 254 | Giggly Builderline |
+| 208 | 254 | Giggly Builderline |
+| 209 | 254 | Al Smith Jr |
 | 210 | 253 | Jamie Jury |
 | 211 | 252 | Dena Kayy |
-| 212 | 249 | Lakeisha Chapman |
-| 213 | 249 | Sam Williams |
+| 212 | 249 | Sam Williams |
+| 213 | 249 | Lakeisha Chapman |
 | 214 | 248 | Jen Nystrom |
 | 215 | 247 | Jessie Lynn |
 | 216 | 247 | John J. Cronin |
@@ -310,8 +310,8 @@
 | 302 | 191 | J.F. Fields |
 | 303 | 191 | Sarah Marie |
 | 304 | 190 | Sweetts |
-| 305 | 189 | Bird Person |
-| 306 | 189 | Tawnya Peltonen |
+| 305 | 189 | Tawnya Peltonen |
+| 306 | 189 | Bird Person |
 | 307 | 188 | Betsy |
 | 308 | 187 | GringaLinga |
 | 309 | 187 | Cool Towerzone |
@@ -342,8 +342,8 @@
 | 334 | 174 | Tavia |
 | 335 | 173 | Rico Rico |
 | 336 | 172 | Nathan Sealander |
-| 337 | 171 | Bruce Cruz |
-| 338 | 171 | Greg Premoe |
+| 337 | 171 | Greg Premoe |
+| 338 | 171 | Bruce Cruz |
 | 339 | 170 | Jessie |
 | 340 | 170 | LD1 |
 | 341 | 170 | Barrbaric |
