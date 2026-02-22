@@ -451,8 +451,8 @@
 | 443 | 466 | Crystal Greene |
 | 444 | 465 | Davetta Sanford |
 | 445 | 464 | Caitlyn Blackwell |
-| 446 | 463 | Sue Leard |
-| 447 | 463 | Jaye EL Hunter |
+| 446 | 463 | Jaye EL Hunter |
+| 447 | 463 | Sue Leard |
 | 448 | 462 | Jarboe |
 | 449 | 462 | Tonya Lee |
 | 450 | 462 | Daphne Jordan |
@@ -675,8 +675,8 @@
 | 667 | 329 | Chummy Blockbuilder |
 | 668 | 329 | Jane Crew |
 | 669 | 329 | Snappy Shatterfit |
-| 670 | 328 | BabyBird |
-| 671 | 328 | Jamie Carter Bierce |
+| 670 | 328 | Jamie Carter Bierce |
+| 671 | 328 | BabyBird |
 | 672 | 326 | Sharon Mills |
 | 673 | 326 | Angela Murgia-Owen |
 | 674 | 326 | Ann Knutson Anderson |

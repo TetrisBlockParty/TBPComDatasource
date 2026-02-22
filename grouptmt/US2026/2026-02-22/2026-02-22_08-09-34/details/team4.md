@@ -79,8 +79,8 @@
 | 71 | 511 | Michelle Marie |
 | 72 | 500 | Rodney McMath Jr. |
 | 73 | 486 | Landon Keith Graffeo |
-| 74 | 483 | Carmethia Clemons Haslerig |
-| 75 | 483 | TeeJ |
+| 74 | 483 | TeeJ |
+| 75 | 483 | Carmethia Clemons Haslerig |
 | 76 | 467 | Dawn Alexander |
 | 77 | 455 | Amelpss |
 | 78 | 447 | Samantha Peterson |
@@ -122,8 +122,8 @@
 | 114 | 303 | Lauren Scott |
 | 115 | 300 | Jason Hart |
 | 116 | 298 | Lucas J Sutton |
-| 117 | 296 | Justin Hannigan |
-| 118 | 296 | HastyGrabber |
+| 117 | 296 | HastyGrabber |
+| 118 | 296 | Justin Hannigan |
 | 119 | 295 | Latisha Davis |
 | 120 | 294 | Kesha Brady |
 | 121 | 290 | 🥔🥔 Spudz |
@@ -133,15 +133,15 @@
 | 125 | 286 | Daria Rycewicz |
 | 126 | 283 | Brittney Orengo |
 | 127 | 281 | Meagan Nicole |
-| 128 | 278 | Carrie Brian |
-| 129 | 278 | Desi Desporte |
+| 128 | 278 | Desi Desporte |
+| 129 | 278 | Carrie Brian |
 | 130 | 277 | Scott Jameson |
 | 131 | 277 | Mary Ann Pabukis |
 | 132 | 275 | Dizzy Tiley |
 | 133 | 271 | Sarah Brown |
-| 134 | 264 | Epic Curvetile |
+| 134 | 264 | Girl |
 | 135 | 264 | Dana Scott |
-| 136 | 264 | Girl |
+| 136 | 264 | Epic Curvetile |
 | 137 | 262 | Holly Jolly |
 | 138 | 256 | Mylo Lipscomb |
 | 139 | 255 | Lindsay Ball |
@@ -181,8 +181,8 @@
 | 173 | 204 | Jen Caldwell |
 | 174 | 203 | Katherine Crane |
 | 175 | 202 | TRCuse |
-| 176 | 201 | Melvin Baird |
-| 177 | 201 | Chance Strickland |
+| 176 | 201 | Chance Strickland |
+| 177 | 201 | Melvin Baird |
 | 178 | 199 | Zethra Prenisha Rahming |
 | 179 | 198 | Jessica Lynn Cutlip |
 | 180 | 196 | Oscar Alberto Perez |

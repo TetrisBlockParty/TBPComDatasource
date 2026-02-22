@@ -280,9 +280,9 @@
 | 272 | 216 | Twisty Brick LT |
 | 273 | 216 | Cheryl Hinch Tenbrook |
 | 274 | 215 | IamJust Neyamijah Washington Sr. |
-| 275 | 214 | Angela Scott |
-| 276 | 214 | Rebel124 |
-| 277 | 214 | Amy Fuller Heaton |
+| 275 | 214 | Amy Fuller Heaton |
+| 276 | 214 | Angela Scott |
+| 277 | 214 | Rebel124 |
 | 278 | 212 | Desiree Gold |
 | 279 | 212 | Sunny Rotater |
 | 280 | 211 | Velma Mull |
@@ -301,8 +301,8 @@
 | 293 | 202 | Staci George Fitzsimmons |
 | 294 | 201 | Hyper Matchzone |
 | 295 | 201 | Alexmac |
-| 296 | 200 | glichmod |
-| 297 | 200 | Sharisse Baltimore |
+| 296 | 200 | Sharisse Baltimore |
+| 297 | 200 | glichmod |
 | 298 | 200 | Saucy Buildout |
 | 299 | 198 | kacihall |
 | 300 | 195 | Nicha Hooker |
@@ -340,13 +340,13 @@
 | 332 | 168 | Trice Thomas |
 | 333 | 168 | April Matthew Kibble |
 | 334 | 167 | Shicken Nuggit |
-| 335 | 167 | Romeo |
-| 336 | 167 | Irene Arreguin |
+| 335 | 167 | Irene Arreguin |
+| 336 | 167 | Romeo |
 | 337 | 166 | Noettín Kan Zasnemoore |
 | 338 | 166 | Snarky McFace |
-| 339 | 165 | Rainbow77375 |
-| 340 | 165 | Ashley Lynn Marchese |
-| 341 | 165 | Kali Kelz Williams |
+| 339 | 165 | Kali Kelz Williams |
+| 340 | 165 | Rainbow77375 |
+| 341 | 165 | Ashley Lynn Marchese |
 | 342 | 164 | Ashley Rufus Bythcez |
 | 343 | 163 | Ava Petito |
 | 344 | 163 | Kirhonda Autmon |
@@ -369,8 +369,8 @@
 | 361 | 156 | Nichole Greene |
 | 362 | 155 | Michell Hendershott Jackson |
 | 363 | 155 | Michael Leblanc |
-| 364 | 153 | Lys |
-| 365 | 153 | Sheila M Frazier |
+| 364 | 153 | Sheila M Frazier |
+| 365 | 153 | Lys |
 | 366 | 153 | Tony Waters |
 | 367 | 152 | Goofy Fall |
 | 368 | 152 | Eric Caccavale |
@@ -441,8 +441,8 @@
 | 433 | 126 | Spicy Caster |
 | 434 | 126 | Crystal Martin |
 | 435 | 126 | Tipsy Puzzle |
-| 436 | 125 | Felicia Doxey |
-| 437 | 125 | BugMansMom |
+| 436 | 125 | BugMansMom |
+| 437 | 125 | Felicia Doxey |
 | 438 | 125 | Shimika Enay Wallace |
 | 439 | 124 | Daring Builder |
 | 440 | 124 | victory |

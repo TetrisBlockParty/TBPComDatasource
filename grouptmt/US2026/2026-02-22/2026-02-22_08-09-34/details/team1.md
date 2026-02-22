@@ -135,8 +135,8 @@
 | 127 | 283 | Franswa |
 | 128 | 282 | Timothy Dew |
 | 129 | 282 | Cool Shiftsnap |
-| 130 | 280 | Sarah Roberts |
-| 131 | 280 | Jennifer Hardman |
+| 130 | 280 | Jennifer Hardman |
+| 131 | 280 | Sarah Roberts |
 | 132 | 276 | Dandy Basegrid |
 | 133 | 270 | Ash Galvan |
 | 134 | 265 | SkipTheSadSauce |
@@ -230,8 +230,8 @@
 | 222 | 172 | Phu ckalldems |
 | 223 | 171 | David DeSantis |
 | 224 | 171 | Greg Premoe |
-| 225 | 170 | Cece Ibarra |
-| 226 | 170 | Standia Civil |
+| 225 | 170 | Standia Civil |
+| 226 | 170 | Cece Ibarra |
 | 227 | 169 | Abbey Crespo |
 | 228 | 169 | Alenoush Karimian |
 | 229 | 168 | Amber Stoker |
