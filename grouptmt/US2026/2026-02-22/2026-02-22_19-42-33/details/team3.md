@@ -89,8 +89,8 @@
 | 81 | 828 | Jessica Ann |
 | 82 | 826 | Shane Wilson Jr. |
 | 83 | 824 | Shari Garber |
-| 84 | 811 | Jay Horn |
-| 85 | 811 | Sarajane Lokan |
+| 84 | 811 | Sarajane Lokan |
+| 85 | 811 | Jay Horn |
 | 86 | 807 | Snappy Glidepiece |
 | 87 | 800 | Lauren Girouard |
 | 88 | 784 | Nerdy Riseclear |
@@ -458,7 +458,7 @@
 | 450 | 170 | Bouncy Blockbuilder |
 | 451 | 169 | luluraine |
 | 452 | 169 | Boldy Corner |
-| 453 | 169 | luluraine |
+| 453 | 169 | Peachy Rollfit |
 | 454 | 168 | Block Baddie |
 | 455 | 168 | Christina Marie Swisher |
 | 456 | 168 | Snarky McFace |

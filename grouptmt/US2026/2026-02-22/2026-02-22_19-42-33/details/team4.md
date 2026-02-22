@@ -46,8 +46,8 @@
 | 38 | 908 | Misty Hollibaugh |
 | 39 | 886 | Dustin Robert |
 | 40 | 871 | Denny Shives |
-| 41 | 846 | Lucille Truesdale |
-| 42 | 846 | Christine Marie |
+| 41 | 846 | Christine Marie |
+| 42 | 846 | Lucille Truesdale |
 | 43 | 843 | Jae Job |
 | 44 | 843 | Shelly Chandler |
 | 45 | 836 | LisaJo Picken Buchanan |
@@ -218,8 +218,8 @@
 | 210 | 237 | Jen Caldwell |
 | 211 | 236 | Swanky Fitline |
 | 212 | 235 | Chris Hartig |
-| 213 | 233 | Ruben Wheeler |
-| 214 | 233 | April Rondinone |
+| 213 | 233 | April Rondinone |
+| 214 | 233 | Ruben Wheeler |
 | 215 | 230 | blockstar |
 | 216 | 228 | Antony Dwayne Beasley |
 | 217 | 227 | Kim Hunt |

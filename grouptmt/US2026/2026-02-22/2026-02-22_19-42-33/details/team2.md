@@ -298,8 +298,8 @@
 | 290 | 820 | Chirpy Staggerpiece |
 | 291 | 819 | Carl Bradshaw |
 | 292 | 817 | Nett |
-| 293 | 816 | Jessica Wayne Cornwall |
-| 294 | 816 | James Simms III |
+| 293 | 816 | James Simms III |
+| 294 | 816 | Jessica Wayne Cornwall |
 | 295 | 810 | Caitlin Schmid |
 | 296 | 810 | Andrea Maher |
 | 297 | 808 | Desire Rice |
@@ -428,8 +428,8 @@
 | 420 | 599 | Nashu |
 | 421 | 595 | Kenny Alvarado |
 | 422 | 594 | Autumn Schaeffer |
-| 423 | 594 | Rhonda Milstead |
-| 424 | 594 | Lylymom |
+| 423 | 594 | Lylymom |
+| 424 | 594 | Rhonda Milstead |
 | 425 | 590 | Amanda Woodruff |
 | 426 | 589 | Shavonna Haynes |
 | 427 | 589 | Kelly Templeton |
@@ -823,8 +823,8 @@
 | 815 | 333 | Woodys Glass |
 | 816 | 333 | Snippy Block |
 | 817 | 332 | Tosa Puvapiromquan |
-| 818 | 330 | Toni Roberson |
-| 819 | 330 | Christina Loftus |
+| 818 | 330 | Christina Loftus |
+| 819 | 330 | Toni Roberson |
 | 820 | 329 | Jason Garnatz |
 | 821 | 328 | Sara Pennington |
 | 822 | 328 | BabyBird |
