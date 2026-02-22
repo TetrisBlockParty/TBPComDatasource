@@ -142,8 +142,8 @@
 | 134 | 454 | Makelini Mausia |
 | 135 | 453 | Silly Twist |
 | 136 | 449 | Danielle Rhoades |
-| 137 | 445 | Jacqueline Rodriguez |
-| 138 | 445 | Kristie McFarland |
+| 137 | 445 | Kristie McFarland |
+| 138 | 445 | Jacqueline Rodriguez |
 | 139 | 435 | Michelle |
 | 140 | 432 | Jenny Hrndz |
 | 141 | 428 | Betty Ivy |
@@ -192,8 +192,8 @@
 | 184 | 347 | Jone |
 | 185 | 343 | Ashley Raines |
 | 186 | 341 | Samantha Lynn |
-| 187 | 338 | Gumbo |
-| 188 | 338 | Leah Barnett |
+| 187 | 338 | Leah Barnett |
+| 188 | 338 | Gumbo |
 | 189 | 332 | Rich LeBlanc |
 | 190 | 332 | Noyb Adam |
 | 191 | 330 | Rebecca Funderburk Kirby |
@@ -205,7 +205,7 @@
 | 197 | 317 | Ashley Tookes |
 | 198 | 315 | Kammy Hill |
 | 199 | 311 | Rochelle Hazelett |
-| 200 | 311 | Stephanie Burtin |
+| 200 | 311 | Araceli Parra |
 | 201 | 310 | Danielle Balcom |
 | 202 | 308 | Daryn Elliott |
 | 203 | 308 | Rania Zaqout |
@@ -216,8 +216,8 @@
 | 208 | 300 | Sherika C. McDaniels |
 | 209 | 298 | MsBee |
 | 210 | 297 | Jojo M |
-| 211 | 296 | Katrina Turner |
-| 212 | 296 | Ammmmmmy |
+| 211 | 296 | Ammmmmmy |
+| 212 | 296 | Katrina Turner |
 | 213 | 296 | Brandon Givens |
 | 214 | 295 | Marci Mize Fandrich |
 | 215 | 291 | Kristal C Lee |
@@ -226,8 +226,8 @@
 | 218 | 289 | Hoppy Buildout |
 | 219 | 286 | Cynthia Herrmann Egland |
 | 220 | 284 | Denise Nardoni |
-| 221 | 283 | Cheeky Snapper |
-| 222 | 283 | Charles Perrone |
+| 221 | 283 | Charles Perrone |
+| 222 | 283 | Cheeky Snapper |
 | 223 | 281 | Valerie Gendron |
 | 224 | 278 | Rufus Lincoln |
 | 225 | 277 | Keis |
@@ -303,8 +303,8 @@
 | 295 | 208 | AlsoJess |
 | 296 | 207 | Jessica |
 | 297 | 207 | angieelyn |
-| 298 | 206 | Tammy Rosenberry |
-| 299 | 206 | Stephanie Hill |
+| 298 | 206 | Stephanie Hill |
+| 299 | 206 | Tammy Rosenberry |
 | 300 | 206 | Tracy Martin |
 | 301 | 205 | Kirhonda Autmon |
 | 302 | 204 | Aerian Preston |
@@ -435,8 +435,8 @@
 | 427 | 137 | Reina Roth |
 | 428 | 137 | Giggly Brickroll |
 | 429 | 136 | Crystal Hine |
-| 430 | 136 | Sabrina Mansfield |
-| 431 | 136 | Stephanie Zahm |
+| 430 | 136 | Stephanie Zahm |
+| 431 | 136 | Sabrina Mansfield |
 | 432 | 135 | Morgan Cudo |
 | 433 | 134 | Maia |
 | 434 | 134 | Sharon Dudley Lawson |

@@ -285,8 +285,8 @@
 | 277 | 703 | Gold Rose |
 | 278 | 700 | Hong Tang |
 | 279 | 700 | Vincent Petrella |
-| 280 | 700 | Beverly Owens |
-| 281 | 700 | Rosemadder |
+| 280 | 700 | Rosemadder |
+| 281 | 700 | Beverly Owens |
 | 282 | 698 | Mighty Shatterfit |
 | 283 | 697 | Dreamy Blast |
 | 284 | 695 | Lakeysha Dortch |
@@ -398,8 +398,8 @@
 | 390 | 525 | Desiree Anderson |
 | 391 | 524 | Lonne Emade |
 | 392 | 523 | Matt Johnson |
-| 393 | 522 | Joseph Musick |
-| 394 | 522 | Lylymom |
+| 393 | 522 | Lylymom |
+| 394 | 522 | Joseph Musick |
 | 395 | 521 | Tj Ball |
 | 396 | 520 | Maddy Petersen |
 | 397 | 520 | Angela Lynn |
@@ -494,9 +494,9 @@
 | 486 | 444 | Chab |
 | 487 | 442 | Leah |
 | 488 | 441 | Christina Wsn |
-| 489 | 440 | Victoria Regina Girolami |
+| 489 | 440 | Sarah Berger |
 | 490 | 440 | Liberty |
-| 491 | 440 | Sarah Berger |
+| 491 | 440 | Victoria Regina Girolami |
 | 492 | 438 | Johnny Yeates |
 | 493 | 437 | Bubbly Snapfit |
 | 494 | 436 | Brenda Pierpoint |
@@ -839,7 +839,7 @@
 | 831 | 270 | Nat |
 | 832 | 268 | Donald Nowland |
 | 833 | 267 | Dad |
-| 834 | 267 | Candace Cece Joseph |
+| 834 | 267 | Denisse Avilez |
 | 835 | 267 | David Duncan |
 | 836 | 267 | Candace Cece Joseph |
 | 837 | 266 | Debbie Gerlib-Molinari Leigh |
@@ -884,8 +884,8 @@
 | 876 | 258 | DesertDreamer24 |
 | 877 | 258 | Tee Jaleesa |
 | 878 | 257 | Mama T |
-| 879 | 257 | Ys Muhammed |
-| 880 | 257 | Jackie Jackie Lee |
+| 879 | 257 | Jackie Jackie Lee |
+| 880 | 257 | Ys Muhammed |
 | 881 | 256 | Gursharan Sandhu |
 | 882 | 256 | Monarca26 |
 | 883 | 256 | Brenna Yearian |
@@ -1588,7 +1588,7 @@
 | 1580 | 143 | Kimmy Smith |
 | 1581 | 143 | Chipper Towerfit |
 | 1582 | 143 | Anita Ortiz |
-| 1583 | 143 | Atara James |
+| 1583 | 143 | Sherika Walker |
 | 1584 | 143 | Tracie |
 | 1585 | 143 | Atara James |
 | 1586 | 142 | Lashea Lyons |
