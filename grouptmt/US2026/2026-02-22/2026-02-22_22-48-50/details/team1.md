@@ -86,8 +86,8 @@
 | 78 | 535 | Denice Dee |
 | 79 | 534 | Cynthia Bradley |
 | 80 | 522 | Robert Benito |
-| 81 | 519 | Ryan Lunnin |
-| 82 | 519 | Greg Hart |
+| 81 | 519 | Greg Hart |
+| 82 | 519 | Ryan Lunnin |
 | 83 | 510 | Colena Davenport |
 | 84 | 501 | Nancy Green |
 | 85 | 496 | Sarah Lombardo |
@@ -147,9 +147,9 @@
 | 139 | 359 | Chirpy Smasher |
 | 140 | 357 | Amanda Johnson Huffman |
 | 141 | 352 | Jason Savage |
-| 142 | 350 | SkipTheSadSauce |
-| 143 | 350 | Death |
-| 144 | 350 | Tipsy Strikerpiece |
+| 142 | 350 | Death |
+| 143 | 350 | Tipsy Strikerpiece |
+| 144 | 350 | SkipTheSadSauce |
 | 145 | 344 | Monica Donato |
 | 146 | 343 | Tanya Carpenter-Reynolds |
 | 147 | 341 | Nick R Montague |
@@ -334,7 +334,7 @@
 | 326 | 177 | ash |
 | 327 | 177 | Jacqueline Unique |
 | 328 | 177 | Irual Hctrab |
-| 329 | 176 | Mark Smith |
+| 329 | 176 | Vivienne Carter |
 | 330 | 176 | Damian Salem |
 | 331 | 176 | Наталья Солоид |
 | 332 | 176 | Mark Smith |
@@ -427,7 +427,7 @@
 | 419 | 144 | Andrew Backes |
 | 420 | 143 | Guest |
 | 421 | 142 | Lynn Adams |
-| 422 | 140 | Nathan William |
+| 422 | 140 | Billie Ann Eason |
 | 423 | 140 | Layzietyme |
 | 424 | 140 | Nathan William |
 | 425 | 139 | Aimee Horton |

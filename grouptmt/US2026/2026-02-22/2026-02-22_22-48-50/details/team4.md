@@ -59,8 +59,8 @@
 | 51 | 810 | BertMofo |
 | 52 | 793 | Rebecca Moulton Pinciaro |
 | 53 | 767 | Shannon Ferrari |
-| 54 | 766 | Ashley Ingram |
-| 55 | 766 | Robin Watters |
+| 54 | 766 | Robin Watters |
+| 55 | 766 | Ashley Ingram |
 | 56 | 757 | Ancient Intuition |
 | 57 | 755 | Edward White |
 | 58 | 751 | Rachel Anne |
@@ -123,8 +123,8 @@
 | 115 | 458 | Twisty Clicky |
 | 116 | 448 | Kristin Manee |
 | 117 | 435 | Leslie Thomas |
-| 118 | 431 | Jolly Dashfit |
-| 119 | 431 | Courtney Cicoria |
+| 118 | 431 | Courtney Cicoria |
+| 119 | 431 | Jolly Dashfit |
 | 120 | 429 | Ren Mc |
 | 121 | 427 | KJ Pool |
 | 122 | 418 | Dizzy Tiley |

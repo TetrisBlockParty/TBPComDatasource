@@ -95,8 +95,8 @@
 | 87 | 849 | Danielle Becker |
 | 88 | 848 | Patricia Gadsden |
 | 89 | 847 | Rosalie Call Kehlenbeck |
-| 90 | 838 | MissTaylor |
-| 91 | 838 | Sarajane Lokan |
+| 90 | 838 | Sarajane Lokan |
+| 91 | 838 | MissTaylor |
 | 92 | 835 | Snappy Glidepiece |
 | 93 | 831 | Angeline Joseph |
 | 94 | 830 | Stephanie Allmon |
@@ -191,8 +191,8 @@
 | 183 | 455 | Bmo |
 | 184 | 454 | FuzzyNavel |
 | 185 | 452 | Jacqueline Rodriguez |
-| 186 | 432 | Christine Trester |
-| 187 | 432 | Jenny Hrndz |
+| 186 | 432 | Jenny Hrndz |
+| 187 | 432 | Christine Trester |
 | 188 | 432 | Luciana Braganca Vieira |
 | 189 | 431 | Wendy Dearden |
 | 190 | 431 | Loopy Fallmatch |
