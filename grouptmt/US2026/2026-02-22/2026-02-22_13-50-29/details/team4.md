@@ -61,8 +61,8 @@
 | 53 | 697 | Edward White |
 | 54 | 664 | Valerie Roberts |
 | 55 | 661 | D3TROITB0RN74 |
-| 56 | 659 | Jonathan Kimbrough |
-| 57 | 659 | Rebecca Moulton Pinciaro |
+| 56 | 659 | Rebecca Moulton Pinciaro |
+| 57 | 659 | Jonathan Kimbrough |
 | 58 | 658 | loulou |
 | 59 | 654 | Chilly Line |
 | 60 | 651 | TeeJ |
@@ -192,8 +192,8 @@
 | 184 | 217 | Kim Hunt |
 | 185 | 216 | Chance Strickland |
 | 186 | 216 | ZeeZee |
-| 187 | 213 | Jason Allen |
-| 188 | 213 | Sarah Neathery |
+| 187 | 213 | Sarah Neathery |
+| 188 | 213 | Jason Allen |
 | 189 | 212 | Mike Solo |
 | 190 | 212 | Joanna |
 | 191 | 211 | Jenna McGeorge |
@@ -232,8 +232,8 @@
 | 224 | 185 | Laura Hosford |
 | 225 | 184 | Lauren Lamb |
 | 226 | 184 | Ak Jones |
-| 227 | 181 | Carter Jones |
-| 228 | 181 | Jackie Marie |
+| 227 | 181 | Jackie Marie |
+| 228 | 181 | Carter Jones |
 | 229 | 180 | Googenheim |
 | 230 | 180 | Orchislactea |
 | 231 | 179 | Christina Black |
@@ -313,9 +313,9 @@
 | 305 | 139 | O block |
 | 306 | 139 | Lori Goudy |
 | 307 | 138 | Sarah Hoffman |
-| 308 | 138 | Jasmine S Caldwell |
-| 309 | 138 | Nick Gray |
-| 310 | 138 | Ashlee Carnes |
+| 308 | 138 | Nick Gray |
+| 309 | 138 | Ashlee Carnes |
+| 310 | 138 | Jasmine S Caldwell |
 | 311 | 137 | Brianna Walker |
 | 312 | 137 | PeaceOs |
 | 313 | 137 | Red |
@@ -371,8 +371,8 @@
 | 363 | 117 | Gracie Ann Taylor |
 | 364 | 117 | PennyCandee |
 | 365 | 117 | BigSammy420 |
-| 366 | 116 | Smiley Shifter |
-| 367 | 116 | Kate |
+| 366 | 116 | Kate |
+| 367 | 116 | Smiley Shifter |
 | 368 | 116 | Bradley Reeves |
 | 369 | 115 | Tony Pavelka |
 | 370 | 115 | Jayk |

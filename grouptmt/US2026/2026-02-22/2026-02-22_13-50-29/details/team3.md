@@ -133,8 +133,8 @@
 | 125 | 491 | Chauntee Alfrey-Cardinale |
 | 126 | 485 | Christine Filson |
 | 127 | 480 | Stephanie Blkpep Davidson |
-| 128 | 479 | Patti Skiles |
-| 129 | 479 | Poppy Splitter |
+| 128 | 479 | Poppy Splitter |
+| 129 | 479 | Patti Skiles |
 | 130 | 478 | CeceGeGe |
 | 131 | 478 | Silly Twist |
 | 132 | 473 | mzcatzy |
@@ -253,8 +253,8 @@
 | 245 | 267 | Tiffany Davie |
 | 246 | 267 | Terry Jo Jones |
 | 247 | 262 | Joe-Maggie Mathews |
-| 248 | 261 | Tiffany Ford |
-| 249 | 261 | Tasha Wesson-Torrence |
+| 248 | 261 | Tasha Wesson-Torrence |
+| 249 | 261 | Tiffany Ford |
 | 250 | 261 | Marquita Sheard |
 | 251 | 260 | Grams |
 | 252 | 260 | Nikki Pags |
@@ -279,8 +279,8 @@
 | 271 | 236 | Jess Bissett |
 | 272 | 235 | Cozy Snaplink |
 | 273 | 234 | Lys |
-| 274 | 233 | Ray Lader |
-| 275 | 233 | Josh Borquez |
+| 274 | 233 | Josh Borquez |
+| 275 | 233 | Ray Lader |
 | 276 | 232 | Donna |
 | 277 | 227 | Krystal Gerstberger |
 | 278 | 227 | Meowsa |
@@ -302,8 +302,8 @@
 | 294 | 214 | Amy Fuller Heaton |
 | 295 | 214 | Rebel124 |
 | 296 | 213 | Nicholas Roddy |
-| 297 | 212 | Desiree Gold |
-| 298 | 212 | Sunny Rotater |
+| 297 | 212 | Sunny Rotater |
+| 298 | 212 | Desiree Gold |
 | 299 | 212 | Jana Polk |
 | 300 | 211 | Khaleada McGill Banks |
 | 301 | 211 | Velma Mull |
@@ -314,8 +314,8 @@
 | 306 | 208 | AlsoJess |
 | 307 | 208 | Niki Dalrymple |
 | 308 | 207 | angieelyn |
-| 309 | 207 | Jessica |
-| 310 | 207 | Daring Builder |
+| 309 | 207 | Daring Builder |
+| 310 | 207 | Jessica |
 | 311 | 206 | Tracy Martin |
 | 312 | 206 | Tammy Rosenberry |
 | 313 | 206 | Amanda J. Mcneil-Anderson |
@@ -620,8 +620,8 @@
 | 612 | 105 | Amy Wheeler |
 | 613 | 104 | Jessica Rose-Morgan |
 | 614 | 104 | bean |
-| 615 | 104 | PrncssPJ |
-| 616 | 104 | Jana Fagg |
+| 615 | 104 | Jana Fagg |
+| 616 | 104 | PrncssPJ |
 | 617 | 103 | Fancy Racker |
 | 618 | 103 | Lisa Lisa |
 | 619 | 103 | Tony Mia Christian |

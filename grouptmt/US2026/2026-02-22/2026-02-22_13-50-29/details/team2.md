@@ -299,8 +299,8 @@
 | 291 | 710 | Kathryn Townsley |
 | 292 | 704 | Shelley Thornburgh Wright |
 | 293 | 703 | Gold Rose |
-| 294 | 700 | Vincent Petrella |
-| 295 | 700 | Hong Tang |
+| 294 | 700 | Hong Tang |
+| 295 | 700 | Vincent Petrella |
 | 296 | 700 | Beverly Owens |
 | 297 | 700 | Rosemadder |
 | 298 | 697 | Dreamy Blast |
@@ -397,8 +397,8 @@
 | 389 | 550 | Nashu |
 | 390 | 549 | Darcy Mae |
 | 391 | 549 | Kaylee McCafferty |
-| 392 | 548 | Taryece Gause |
-| 393 | 548 | Brownie Sheena |
+| 392 | 548 | Brownie Sheena |
+| 393 | 548 | Taryece Gause |
 | 394 | 545 | Frisky Clearpiece |
 | 395 | 544 | Steve Man |
 | 396 | 544 | Deidre Shaffer |
@@ -727,8 +727,8 @@
 | 719 | 323 | stacey |
 | 720 | 323 | Briana Alexander |
 | 721 | 322 | Lea Stewart |
-| 722 | 322 | Michelle Pike |
-| 723 | 322 | Robin L. Vial |
+| 722 | 322 | Robin L. Vial |
+| 723 | 322 | Michelle Pike |
 | 724 | 322 | Christina Jarvis-Swarbrick |
 | 725 | 321 | Tamara Bailey |
 | 726 | 321 | Ashley Criner |
