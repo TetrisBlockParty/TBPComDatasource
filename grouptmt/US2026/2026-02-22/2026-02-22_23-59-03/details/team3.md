@@ -166,8 +166,8 @@
 | 158 | 519 | Jone |
 | 159 | 517 | Denise Nardoni |
 | 160 | 512 | Silly Twist |
-| 161 | 506 | Stephanie Blkpep Davidson |
-| 162 | 506 | Sashay Tapae Simpson |
+| 161 | 506 | Sashay Tapae Simpson |
+| 162 | 506 | Stephanie Blkpep Davidson |
 | 163 | 505 | Danielle Balcom |
 | 164 | 504 | Jennifer Lynn Fahrenholtz-Summers |
 | 165 | 502 | Snappy Balancer |
@@ -196,8 +196,8 @@
 | 188 | 451 | Sarah Cowan Burgos |
 | 189 | 442 | Loopy Fallmatch |
 | 190 | 432 | Christine Trester |
-| 191 | 432 | Jenny Hrndz |
-| 192 | 432 | Luciana Braganca Vieira |
+| 191 | 432 | Luciana Braganca Vieira |
+| 192 | 432 | Jenny Hrndz |
 | 193 | 431 | Wendy Dearden |
 | 194 | 430 | Jeni Dow |
 | 195 | 430 | Terry Jo Jones |
@@ -290,8 +290,8 @@
 | 282 | 302 | Gray Hicks |
 | 283 | 301 | Betty Rosas |
 | 284 | 300 | Tiffany Davie |
-| 285 | 299 | Angie Harper |
-| 286 | 299 | Ray Lader |
+| 285 | 299 | Ray Lader |
+| 286 | 299 | Angie Harper |
 | 287 | 298 | Grams |
 | 288 | 297 | Cheeky Snapper |
 | 289 | 297 | kacihall |

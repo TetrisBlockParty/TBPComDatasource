@@ -51,8 +51,8 @@
 | 43 | 899 | Dustin Robert |
 | 44 | 855 | Marvin Lou Martin |
 | 45 | 851 | Jae Job |
-| 46 | 846 | Lucille Truesdale |
-| 47 | 846 | Christine Marie |
+| 46 | 846 | Christine Marie |
+| 47 | 846 | Lucille Truesdale |
 | 48 | 845 | LisaJo Picken Buchanan |
 | 49 | 843 | Shelly Chandler |
 | 50 | 838 | TeeJ |
@@ -112,8 +112,8 @@
 | 104 | 499 | Christina LR |
 | 105 | 499 | Trista Leah |
 | 106 | 488 | Jen Allison |
-| 107 | 487 | Alyssa Papen |
-| 108 | 487 | shar |
+| 107 | 487 | shar |
+| 108 | 487 | Alyssa Papen |
 | 109 | 481 | Serena Goodridge |
 | 110 | 478 | Chilly Crasher |
 | 111 | 476 | Matt Summer |
@@ -126,8 +126,8 @@
 | 118 | 448 | Kristin Manee |
 | 119 | 435 | Leslie Thomas |
 | 120 | 433 | Jamie Gustafson |
-| 121 | 431 | Jolly Dashfit |
-| 122 | 431 | Courtney Cicoria |
+| 121 | 431 | Courtney Cicoria |
+| 122 | 431 | Jolly Dashfit |
 | 123 | 429 | Ren Mc |
 | 124 | 427 | KJ Pool |
 | 125 | 418 | Lush Linkfall |
@@ -138,8 +138,8 @@
 | 130 | 408 | Amanda Pauldo-Ivy |
 | 131 | 400 | Ericca Eldridge |
 | 132 | 394 | Austin Owens |
-| 133 | 393 | Carlton Unfiltered |
-| 134 | 393 | Trish |
+| 133 | 393 | Trish |
+| 134 | 393 | Carlton Unfiltered |
 | 135 | 392 | Cristy Duerksen |
 | 136 | 391 | Ramel Rhodes |
 | 137 | 380 | Swanky Fitline |
@@ -177,8 +177,8 @@
 | 169 | 316 | Meagan Nicole |
 | 170 | 314 | Andy Cabral |
 | 171 | 311 | A5! |
-| 172 | 307 | Bio Nelly |
-| 173 | 307 | Girl |
+| 172 | 307 | Girl |
+| 173 | 307 | Bio Nelly |
 | 174 | 306 | Lindsey Gonzalez |
 | 175 | 304 | Chaz Duncan |
 | 176 | 303 | shark tato |
@@ -289,8 +289,8 @@
 | 281 | 200 | Googenheim |
 | 282 | 199 | Carter Jones |
 | 283 | 198 | Calvin Dennis |
-| 284 | 197 | Stephme310 |
-| 285 | 197 | Gilles Lanctot |
+| 284 | 197 | Gilles Lanctot |
+| 285 | 197 | Stephme310 |
 | 286 | 195 | 中山成巳 |
 | 287 | 194 | Zany Twisterfit |
 | 288 | 194 | Brittany Marsh |
@@ -562,7 +562,7 @@
 | 554 | 103 | Larry Agan |
 | 555 | 103 | Jen Mattei |
 | 556 | 103 | Alee Marie |
-| 557 | 103 | Sassy Pattern |
+| 557 | 103 | Morgan Patrick |
 | 558 | 102 | Candice Carasiti |
 | 559 | 102 | Dapper Caster |
 | 560 | 101 | RIFATSIKDER |

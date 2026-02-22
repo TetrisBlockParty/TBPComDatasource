@@ -417,8 +417,8 @@
 | 409 | 680 | blume |
 | 410 | 679 | Kassandra Hunt |
 | 411 | 677 | Crystie Hicks |
-| 412 | 677 | Amanda Woodruff |
-| 413 | 677 | Ellie Jonas |
+| 412 | 677 | Ellie Jonas |
+| 413 | 677 | Amanda Woodruff |
 | 414 | 676 | Roseanna Peloso |
 | 415 | 674 | Lonne Emade |
 | 416 | 674 | Connie Jimenez |
@@ -466,8 +466,8 @@
 | 458 | 613 | Ann Matzkanin |
 | 459 | 612 | Slinky Racker |
 | 460 | 611 | Biggest thing |
-| 461 | 607 | Michelle Lee |
-| 462 | 607 | Véronique Lévesque Sabourin |
+| 461 | 607 | Véronique Lévesque Sabourin |
+| 462 | 607 | Michelle Lee |
 | 463 | 605 | Santana Miyagi |
 | 464 | 603 | Casper The Chonk |
 | 465 | 602 | Shaun Church |
@@ -770,8 +770,8 @@
 | 762 | 388 | ruth |
 | 763 | 388 | James Zaragoza |
 | 764 | 388 | Ronnie Nelson |
-| 765 | 388 | CC |
-| 766 | 388 | Sarah block |
+| 765 | 388 | Sarah block |
+| 766 | 388 | CC |
 | 767 | 388 | Tamara Bailey |
 | 768 | 387 | Bold Brickster |
 | 769 | 387 | Bryan Werleman |
@@ -875,8 +875,8 @@
 | 867 | 347 | Adrian Benitez |
 | 868 | 347 | Zesty Pivot |
 | 869 | 346 | bru |
-| 870 | 346 | Zappy Dropmatch |
-| 871 | 346 | Timothy Jesuwole |
+| 870 | 346 | Timothy Jesuwole |
+| 871 | 346 | Zappy Dropmatch |
 | 872 | 346 | Luke Califf |
 | 873 | 345 | Rhianna DiLorenzo |
 | 874 | 345 | Sinistah42o |
