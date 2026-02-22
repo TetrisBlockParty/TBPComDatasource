@@ -151,10 +151,10 @@
 | 143 | 343 | Tanya Carpenter-Reynolds |
 | 144 | 341 | Nick R Montague |
 | 145 | 336 | Elaine Elaine |
-| 146 | 334 | Fmp |
-| 147 | 334 | Jaimie Lynn |
-| 148 | 333 | GATOR |
-| 149 | 333 | Gracie |
+| 146 | 334 | Jaimie Lynn |
+| 147 | 334 | Fmp |
+| 148 | 333 | Gracie |
+| 149 | 333 | GATOR |
 | 150 | 332 | Lehrin Maria |
 | 151 | 331 | Josh Riemer |
 | 152 | 328 | Jennifer Hardman |
@@ -387,7 +387,7 @@
 | 379 | 156 | Mark Smith |
 | 380 | 156 | Wayne Saunders |
 | 381 | 156 | Jason Benitez |
-| 382 | 155 | Mrs.Patrica |
+| 382 | 155 | Barry Mac'Ockner |
 | 383 | 155 | Irv |
 | 384 | 155 | Mrs.Patrica |
 | 385 | 154 | TristansDad |

@@ -284,8 +284,8 @@
 | 276 | 882 | Nashu |
 | 277 | 880 | Sam Joe |
 | 278 | 878 | Missie Lawson Gebhardt |
-| 279 | 875 | William Hunt |
-| 280 | 875 | Jamie Otero |
+| 279 | 875 | Jamie Otero |
+| 280 | 875 | William Hunt |
 | 281 | 874 | Giggy Blocker |
 | 282 | 873 | Angel |
 | 283 | 872 | Felicia Lynn |

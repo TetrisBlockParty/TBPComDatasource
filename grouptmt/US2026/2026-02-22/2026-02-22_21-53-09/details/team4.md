@@ -83,8 +83,8 @@
 | 75 | 646 | Jacqueline Helm |
 | 76 | 633 | Lisa Davis |
 | 77 | 626 | Brittney Griggs |
-| 78 | 617 | Savannah Overdorf |
-| 79 | 617 | Jason Hart |
+| 78 | 617 | Jason Hart |
+| 79 | 617 | Savannah Overdorf |
 | 80 | 614 | TheNeesh50 |
 | 81 | 597 | Eric Mcgaughy |
 | 82 | 596 | Judy Cox |
@@ -138,8 +138,8 @@
 | 130 | 391 | Lush Linkfall |
 | 131 | 391 | Ramel Rhodes |
 | 132 | 378 | Lucas J Sutton |
-| 133 | 377 | Jessica Bohlken |
-| 134 | 377 | Carrie Brian |
+| 133 | 377 | Carrie Brian |
+| 134 | 377 | Jessica Bohlken |
 | 135 | 376 | Kesha Brady |
 | 136 | 373 | Joseph Guthrie |
 | 137 | 355 | Kristina Black |
@@ -236,8 +236,8 @@
 | 228 | 235 | April Rondinone |
 | 229 | 233 | Ruben Wheeler |
 | 230 | 233 | Matt Gooder |
-| 231 | 230 | Jade Rian |
-| 232 | 230 | blockstar |
+| 231 | 230 | blockstar |
+| 232 | 230 | Jade Rian |
 | 233 | 228 | Antony Dwayne Beasley |
 | 234 | 225 | Jenna McGeorge |
 | 235 | 225 | Perky Patternblock |
@@ -252,8 +252,8 @@
 | 244 | 219 | Malakai Darien Fox |
 | 245 | 216 | ZeeZee |
 | 246 | 216 | Chance Strickland |
-| 247 | 215 | John Brunetti |
-| 248 | 215 | Ziggy |
+| 247 | 215 | Ziggy |
+| 248 | 215 | John Brunetti |
 | 249 | 214 | Stacey Stano |
 | 250 | 213 | Sarah Neathery |
 | 251 | 213 | Angela Geist Jusinski |
@@ -262,9 +262,9 @@
 | 254 | 209 | Chaz |
 | 255 | 208 | Rebecca Morris |
 | 256 | 207 | Snippy Puzzle |
-| 257 | 205 | James Hurley Jr. |
-| 258 | 205 | Keith Kelley |
-| 259 | 205 | Christina Black |
+| 257 | 205 | Keith Kelley |
+| 258 | 205 | Christina Black |
+| 259 | 205 | James Hurley Jr. |
 | 260 | 203 | Katherine Crane |
 | 261 | 202 | Patron Anderson |
 | 262 | 202 | Orchislactea |
@@ -272,15 +272,15 @@
 | 264 | 201 | Zany Shatterer |
 | 265 | 200 | Googenheim |
 | 266 | 199 | TinyLegoRose |
-| 267 | 198 | Calvin Dennis |
-| 268 | 198 | Silly SeaWeed |
+| 267 | 198 | Silly SeaWeed |
+| 268 | 198 | Calvin Dennis |
 | 269 | 197 | Gilles Lanctot |
-| 270 | 195 | Shainne Brewer |
-| 271 | 195 | 中山成巳 |
+| 270 | 195 | 中山成巳 |
+| 271 | 195 | Shainne Brewer |
 | 272 | 194 | Zany Twisterfit |
 | 273 | 193 | Stephme310 |
-| 274 | 192 | Andrew Dang |
-| 275 | 192 | Stella |
+| 274 | 192 | Stella |
+| 275 | 192 | Andrew Dang |
 | 276 | 191 | Earnest Thompson |
 | 277 | 189 | 030Synner |
 | 278 | 187 | Cynthia Boudreau |
@@ -612,7 +612,7 @@
 | 604 | 88 | Joe Lonnemann |
 | 605 | 87 | Derek Pendarvis |
 | 606 | 87 | Kelly Duncan |
-| 607 | 87 | Derek Pendarvis |
+| 607 | 87 | Roseanna Anderson |
 | 608 | 86 | Saundra Miller |
 | 609 | 85 | Dylan Schultz |
 | 610 | 85 | Manuel Groleau |

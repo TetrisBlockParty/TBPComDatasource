@@ -255,8 +255,8 @@
 | 247 | 326 | Dee Franklin |
 | 248 | 324 | Sissy Lowery Davis |
 | 249 | 321 | Rebecca Bailey |
-| 250 | 320 | Or Reznitsky |
-| 251 | 320 | Ashley Muncey |
+| 250 | 320 | Ashley Muncey |
+| 251 | 320 | Or Reznitsky |
 | 252 | 317 | Kelly |
 | 253 | 315 | Charles Perrone |
 | 254 | 312 | Christian Werndl |
@@ -279,18 +279,18 @@
 | 271 | 297 | Jojo M |
 | 272 | 296 | Hoppy Buildout |
 | 273 | 294 | Tasha Wesson-Torrence |
-| 274 | 293 | Beaudie Stroebel |
+| 274 | 293 | Terry Jo Jones |
 | 275 | 293 | Tye Stovall |
-| 276 | 293 | Terry Jo Jones |
+| 276 | 293 | Beaudie Stroebel |
 | 277 | 292 | Cheeky Snapper |
 | 278 | 291 | Carrie Huskey |
-| 279 | 289 | DidIdothat |
-| 280 | 289 | Duane Bright |
+| 279 | 289 | Duane Bright |
+| 280 | 289 | DidIdothat |
 | 281 | 288 | Connie Mohler-Fair |
 | 282 | 287 | Sabrina Hardrick |
 | 283 | 283 | Heather Green |
-| 284 | 280 | fraulila |
-| 285 | 280 | Lizabeth Fox |
+| 284 | 280 | Lizabeth Fox |
+| 285 | 280 | fraulila |
 | 286 | 279 | Foltz Lee Kelli |
 | 287 | 278 | Steffi Chris Dacones |
 | 288 | 278 | LaShey Thompson |
