@@ -48,8 +48,8 @@
 | 40 | 1036 | Ant Ant |
 | 41 | 1015 | Amber Jones |
 | 42 | 998 | Liv Whetson |
-| 43 | 989 | Joey Banks |
-| 44 | 989 | Kay |
+| 43 | 989 | Kay |
+| 44 | 989 | Joey Banks |
 | 45 | 976 | Jeana Gilbert |
 | 46 | 975 | Stephanie Rice |
 | 47 | 956 | Gracie |
@@ -112,8 +112,8 @@
 | 104 | 503 | Susan Valentino |
 | 105 | 502 | Justin Ritter |
 | 106 | 502 | Elissa S-k |
-| 107 | 500 | Kristie |
-| 108 | 500 | Domo Washington |
+| 107 | 500 | Domo Washington |
+| 108 | 500 | Kristie |
 | 109 | 497 | Mykal Burton |
 | 110 | 492 | Daira Largen |
 | 111 | 491 | Chauntee Alfrey-Cardinale |
@@ -228,8 +228,8 @@
 | 220 | 260 | Grams |
 | 221 | 258 | Tamara Deherrera |
 | 222 | 257 | Ashley Jones |
-| 223 | 256 | Brenda Lee Vander Molen |
-| 224 | 256 | Tiffany Davie |
+| 223 | 256 | Tiffany Davie |
+| 224 | 256 | Brenda Lee Vander Molen |
 | 225 | 256 | KayB |
 | 226 | 253 | Nora Rogers |
 | 227 | 251 | Danielle Allison |

@@ -140,8 +140,8 @@
 | 132 | 249 | Kimmie Kimms |
 | 133 | 248 | Lori Bales |
 | 134 | 247 | Tana |
-| 135 | 243 | Trippy Redd |
-| 136 | 243 | Chelsea Dahlquist |
+| 135 | 243 | Chelsea Dahlquist |
+| 136 | 243 | Trippy Redd |
 | 137 | 241 | John J. Cronin |
 | 138 | 236 | Mandyy Rae |
 | 139 | 235 | lil mickey |
@@ -335,8 +335,8 @@
 | 327 | 103 | Alex Gauthier |
 | 328 | 102 | Sarah Henniker |
 | 329 | 102 | Barrbaric |
-| 330 | 102 | Sarah Henniker |
-| 331 | 101 | Mizzledagod |
+| 330 | 102 | Marie White |
+| 331 | 101 | .running. |
 | 332 | 101 | Liliana Pena |
 | 333 | 101 | Mizzledagod |
 | 334 | 100 | Jessica Weed |

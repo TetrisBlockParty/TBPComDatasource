@@ -348,8 +348,8 @@
 | 340 | 527 | Heather Causey |
 | 341 | 527 | Ryan Gunther |
 | 342 | 526 | Sheronda Jackson |
-| 343 | 525 | Nashu |
-| 344 | 525 | Desiree Anderson |
+| 343 | 525 | Desiree Anderson |
+| 344 | 525 | Nashu |
 | 345 | 524 | Jojo Momma |
 | 346 | 523 | Matt Johnson |
 | 347 | 521 | Tj Ball |
@@ -381,11 +381,11 @@
 | 373 | 496 | Karen Posadas Centeno |
 | 374 | 494 | Doowop40 |
 | 375 | 493 | Kara Gillen |
-| 376 | 492 | Armonie Smith |
-| 377 | 492 | Breezy Clusterer |
+| 376 | 492 | Breezy Clusterer |
+| 377 | 492 | Armonie Smith |
 | 378 | 491 | Michael Buckner |
-| 379 | 489 | Cassie Mercer |
-| 380 | 489 | Osun Anuket Esu |
+| 379 | 489 | Osun Anuket Esu |
+| 380 | 489 | Cassie Mercer |
 | 381 | 488 | Venita Ray |
 | 382 | 487 | MrsCandyfine As Wine Truss |
 | 383 | 487 | Joshua Mandel |
