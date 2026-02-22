@@ -76,8 +76,8 @@
 | 68 | 473 | Kellie |
 | 69 | 461 | April Carroll |
 | 70 | 447 | Evie Khalil |
-| 71 | 434 | Hyper |
-| 72 | 434 | MomMom |
+| 71 | 434 | MomMom |
+| 72 | 434 | Hyper |
 | 73 | 430 | Nancy Green |
 | 74 | 428 | Stephanie Zahn |
 | 75 | 418 | Jazzy Framezone |
@@ -114,19 +114,19 @@
 | 106 | 341 | Nick R Montague |
 | 107 | 333 | Brandi Huntington |
 | 108 | 333 | phrmblk24 |
-| 109 | 332 | Kristen Gideon |
-| 110 | 332 | Luciano Moreira |
+| 109 | 332 | Luciano Moreira |
+| 110 | 332 | Kristen Gideon |
 | 111 | 330 | Sweet Baker |
 | 112 | 328 | Gracie |
 | 113 | 326 | Monica Donato |
 | 114 | 321 | Maria C. Hernandez |
-| 115 | 319 | Deanna L Hermanson |
-| 116 | 319 | Patrick Luckenbill |
+| 115 | 319 | Patrick Luckenbill |
+| 116 | 319 | Deanna L Hermanson |
 | 117 | 318 | Jessica Sheehan |
 | 118 | 316 | Ly Phethmany |
 | 119 | 313 | Tanya Carpenter-Reynolds |
-| 120 | 310 | Jason Jones |
-| 121 | 310 | Seth Wesson |
+| 120 | 310 | Seth Wesson |
+| 121 | 310 | Jason Jones |
 | 122 | 306 | Happy Basegrid |
 | 123 | 306 | Jennifer Hardman |
 | 124 | 304 | Nicole Roseberry Weber |
@@ -155,8 +155,8 @@
 | 147 | 256 | David Miller |
 | 148 | 255 | Elaine Elaine |
 | 149 | 254 | Al Smith Jr |
-| 150 | 253 | Witty Builderfit |
-| 151 | 253 | Plucky Fallzone |
+| 150 | 253 | Plucky Fallzone |
+| 151 | 253 | Witty Builderfit |
 | 152 | 252 | Dena Kayy |
 | 153 | 247 | Tana |
 | 154 | 244 | Tyler Werts |
@@ -241,12 +241,12 @@
 | 233 | 176 | Mel Hogan |
 | 234 | 175 | John Barron |
 | 235 | 174 | Cheeky Pop |
-| 236 | 173 | Gabrielle Louise Malloch |
-| 237 | 173 | Rico Rico |
-| 238 | 171 | David DeSantis |
-| 239 | 171 | Greg Premoe |
-| 240 | 170 | Standia Civil |
-| 241 | 170 | Cece Ibarra |
+| 236 | 173 | Rico Rico |
+| 237 | 173 | Gabrielle Louise Malloch |
+| 238 | 171 | Greg Premoe |
+| 239 | 171 | David DeSantis |
+| 240 | 170 | Cece Ibarra |
+| 241 | 170 | Standia Civil |
 | 242 | 169 | Abbey Crespo |
 | 243 | 168 | Angela Fairbank |
 | 244 | 168 | Amber Stoker |

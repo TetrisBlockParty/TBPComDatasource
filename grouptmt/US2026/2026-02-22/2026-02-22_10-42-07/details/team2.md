@@ -222,8 +222,8 @@
 | 214 | 867 | Peppy Zone |
 | 215 | 865 | Dedra Steward |
 | 216 | 863 | nikki |
-| 217 | 862 | Brittany Radaszewski |
-| 218 | 862 | Robin Kerby |
+| 217 | 862 | Robin Kerby |
+| 218 | 862 | Brittany Radaszewski |
 | 219 | 860 | April Dawn Gussler |
 | 220 | 857 | Della Hole |
 | 221 | 855 | F-X |
@@ -376,8 +376,8 @@
 | 368 | 557 | Block Master |
 | 369 | 557 | Brandy Andre |
 | 370 | 556 | Slip |
-| 371 | 554 | Santana Miyagi |
-| 372 | 554 | Rachael Senard |
+| 371 | 554 | Rachael Senard |
+| 372 | 554 | Santana Miyagi |
 | 373 | 554 | Autumn Schaeffer |
 | 374 | 550 | Nashu |
 | 375 | 549 | Darcy Mae |
@@ -573,8 +573,8 @@
 | 565 | 394 | Taryece Gause |
 | 566 | 393 | Alexandra Weir |
 | 567 | 393 | Deyawn Smith |
-| 568 | 393 | bbv |
-| 569 | 393 | Jamie West |
+| 568 | 393 | Jamie West |
+| 569 | 393 | bbv |
 | 570 | 391 | Qiana Sanders |
 | 571 | 391 | Adam Simmons |
 | 572 | 391 | Anthony Huebel |
@@ -615,8 +615,8 @@
 | 607 | 373 | Jessica Hughes |
 | 608 | 373 | Hunter Connors |
 | 609 | 372 | Ebony Deloach Bryant |
-| 610 | 371 | Brenda Messer |
-| 611 | 371 | AkaLefty |
+| 610 | 371 | AkaLefty |
+| 611 | 371 | Brenda Messer |
 | 612 | 371 | Saucy Fitzone |
 | 613 | 370 | Heather Sawtelle-Mckenzie |
 | 614 | 369 | Tony Lea |
@@ -681,18 +681,18 @@
 | 673 | 339 | Denise Rickman |
 | 674 | 338 | Janitta Alvarez |
 | 675 | 337 | Sassy Pattern |
-| 676 | 337 | Diallo Sparkman |
-| 677 | 337 | Tum |
+| 676 | 337 | Tum |
+| 677 | 337 | Diallo Sparkman |
 | 678 | 337 | Savannah Alexander |
-| 679 | 336 | Austin Wilson |
-| 680 | 336 | bru |
+| 679 | 336 | bru |
+| 680 | 336 | Austin Wilson |
 | 681 | 336 | Swanky Columnbuilder |
 | 682 | 335 | Brooke Leigh Strube |
 | 683 | 335 | Maria Louise |
 | 684 | 334 | Melissa James |
 | 685 | 333 | Veronica Stevenson |
-| 686 | 333 | Adrian Benitez |
-| 687 | 333 | Woodys Glass |
+| 686 | 333 | Woodys Glass |
+| 687 | 333 | Adrian Benitez |
 | 688 | 332 | Lathasa Newkirk |
 | 689 | 330 | Jennifer Monroe Kelly |
 | 690 | 329 | Chummy Blockbuilder |
@@ -732,8 +732,8 @@
 | 724 | 311 | Megan Phillips |
 | 725 | 310 | Cheeky Brickmatch |
 | 726 | 310 | Wendy Ducheney |
-| 727 | 310 | Beth Decker |
-| 728 | 310 | Audra Williams |
+| 727 | 310 | Audra Williams |
+| 728 | 310 | Beth Decker |
 | 729 | 309 | Byung Bae Park |
 | 730 | 308 | Prado |
 | 731 | 308 | Claire |
@@ -744,8 +744,8 @@
 | 736 | 307 | Peachy Blockbuilder |
 | 737 | 306 | Kiorah Blaze |
 | 738 | 305 | Zany Clusterbuilder |
-| 739 | 305 | MamaBear11 |
-| 740 | 305 | Narutofreak13 |
+| 739 | 305 | Narutofreak13 |
+| 740 | 305 | MamaBear11 |
 | 741 | 304 | NFLPITMOM |
 | 742 | 304 | Melissa McCall |
 | 743 | 304 | James Smith |
@@ -784,31 +784,31 @@
 | 776 | 289 | Ryan Chan |
 | 777 | 288 | thranduil |
 | 778 | 288 | Ashley Criner |
-| 779 | 288 | Samantha Angelo |
-| 780 | 288 | Jenna Nance |
+| 779 | 288 | Jenna Nance |
+| 780 | 288 | Samantha Angelo |
 | 781 | 287 | Toni Roberson |
 | 782 | 287 | N00D3S |
 | 783 | 287 | Epic Stackzone |
 | 784 | 286 | Kelsey Sullivan |
 | 785 | 285 | Kimberly Mitchell |
-| 786 | 285 | Court |
-| 787 | 285 | Epic Stackbuilder |
+| 786 | 285 | Epic Stackbuilder |
+| 787 | 285 | Court |
 | 788 | 284 | Hillary Franklin |
 | 789 | 282 | Nutty Slice |
 | 790 | 281 | Anthony |
 | 791 | 280 | Danielle DeLozier Plesec |
 | 792 | 280 | Reece Smith |
 | 793 | 280 | Luke Califf |
-| 794 | 280 | Sandra Link-Gable |
-| 795 | 280 | Belle |
+| 794 | 280 | Belle |
+| 795 | 280 | Sandra Link-Gable |
 | 796 | 279 | Jennifer Coe |
 | 797 | 279 | Loony Basepiece |
 | 798 | 279 | Katherin Camacho |
 | 799 | 279 | Laura Wyatt |
 | 800 | 278 | AndrewandShela Gornik |
 | 801 | 277 | Brianna Cerney |
-| 802 | 277 | Anthony Mignacca |
-| 803 | 277 | Amanda Chamberlain |
+| 802 | 277 | Amanda Chamberlain |
+| 803 | 277 | Anthony Mignacca |
 | 804 | 276 | Jamie Dayton |
 | 805 | 276 | Ryan Lauer |
 | 806 | 276 | Jennifer Leigh |
@@ -835,8 +835,8 @@
 | 827 | 272 | Witty Piecebuilder |
 | 828 | 272 | Alexandrea |
 | 829 | 271 | Pam Doughty |
-| 830 | 271 | Shalisa Hill |
-| 831 | 271 | Beverly Hodge |
+| 830 | 271 | Beverly Hodge |
+| 831 | 271 | Shalisa Hill |
 | 832 | 270 | BK Queen |
 | 833 | 270 | Lazy Builderfit |
 | 834 | 270 | Nat |
@@ -1016,9 +1016,9 @@
 | 1008 | 226 | Anthony D Gritz Jr |
 | 1009 | 226 | Kourtney Bradley |
 | 1010 | 225 | Theresa Ring |
-| 1011 | 225 | Samantha Morgan |
-| 1012 | 225 | Caitlin Johnson |
-| 1013 | 225 | Tyler C. Jung |
+| 1011 | 225 | Tyler C. Jung |
+| 1012 | 225 | Samantha Morgan |
+| 1013 | 225 | Caitlin Johnson |
 | 1014 | 225 | Quiksilver |
 | 1015 | 225 | Anastacio Hernandez |
 | 1016 | 224 | Wil Allen |
@@ -1091,8 +1091,8 @@
 | 1083 | 209 | D5wag2014 |
 | 1084 | 209 | Tina Wright-Quigley |
 | 1085 | 209 | John Quiring |
-| 1086 | 209 | Alphia Price |
-| 1087 | 209 | Wedance Fong |
+| 1086 | 209 | Wedance Fong |
+| 1087 | 209 | Alphia Price |
 | 1088 | 208 | Kalius Torres |
 | 1089 | 208 | Alyssa Dean |
 | 1090 | 208 | TK Boles |
@@ -1129,8 +1129,8 @@
 | 1121 | 201 | LintFunk |
 | 1122 | 201 | Jennifer Rajek |
 | 1123 | 201 | Betty Ruth Hale |
-| 1124 | 200 | Sara Silvernail-Kay |
-| 1125 | 200 | Rich Sullivan |
+| 1124 | 200 | Rich Sullivan |
+| 1125 | 200 | Sara Silvernail-Kay |
 | 1126 | 200 | Shyne Sun |
 | 1127 | 199 | Tiffany Michelle Arnold |
 | 1128 | 199 | Jenny Castro |
