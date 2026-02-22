@@ -67,8 +67,8 @@
 | 59 | 412 | Anaid Sanchez |
 | 60 | 409 | Jazzy Framezone |
 | 61 | 391 | Robert Benito |
-| 62 | 388 | Yvonne Marie |
-| 63 | 388 | Jennifer ManWarren |
+| 62 | 388 | Jennifer ManWarren |
+| 63 | 388 | Yvonne Marie |
 | 64 | 382 | Lori Sanders- Davis |
 | 65 | 379 | Austin James |
 | 66 | 374 | Tinah Montanna |
@@ -139,8 +139,8 @@
 | 131 | 203 | GATOR |
 | 132 | 203 | Paula Martin |
 | 133 | 199 | Jennifer Hardman |
-| 134 | 198 | Shiny Gridmatch |
-| 135 | 198 | Happy Snapbuild |
+| 134 | 198 | Happy Snapbuild |
+| 135 | 198 | Shiny Gridmatch |
 | 136 | 195 | Daring Fitclear |
 | 137 | 194 | Ash Galvan |
 | 138 | 194 | Tyler Werts |
@@ -159,8 +159,8 @@
 | 151 | 186 | Michael |
 | 152 | 185 | Basment Living |
 | 153 | 182 | Monica Donato |
-| 154 | 180 | BigWeenie69 |
-| 155 | 180 | Erez Yosef |
+| 154 | 180 | Erez Yosef |
+| 155 | 180 | BigWeenie69 |
 | 156 | 179 | Danielle Little-Daugherty |
 | 157 | 178 | Chad Atchley |
 | 158 | 177 | ParisandCory Champagne |
@@ -197,8 +197,8 @@
 | 189 | 154 | Melissa Lemmon |
 | 190 | 154 | Christy Jones |
 | 191 | 153 | Barry Mac'Ockner |
-| 192 | 152 | Speedy Snapfall |
-| 193 | 152 | Jacqueline Unique |
+| 192 | 152 | Jacqueline Unique |
+| 193 | 152 | Speedy Snapfall |
 | 194 | 150 | Adele Rahman |
 | 195 | 148 | Bouncy Grid |
 | 196 | 147 | Davery Spencer Adair |

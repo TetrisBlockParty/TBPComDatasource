@@ -43,8 +43,8 @@
 | 35 | 1059 | Lori Barnaby |
 | 36 | 1058 | Tetris Master |
 | 37 | 1036 | Mahman |
-| 38 | 1013 | Laura Melton |
-| 39 | 1013 | Amber Jones |
+| 38 | 1013 | Amber Jones |
+| 39 | 1013 | Laura Melton |
 | 40 | 998 | Liv Whetson |
 | 41 | 996 | Danielle Cutler |
 | 42 | 989 | Kay |
@@ -75,8 +75,8 @@
 | 67 | 604 | Danielle Becker |
 | 68 | 591 | Suzieq |
 | 69 | 588 | yoyo |
-| 70 | 582 | Katrina Schroeder |
-| 71 | 582 | Natasha Jones |
+| 70 | 582 | Natasha Jones |
+| 71 | 582 | Katrina Schroeder |
 | 72 | 582 | Jay Horn |
 | 73 | 581 | Danielle Mogg |
 | 74 | 580 | Amanda L Baker |
@@ -193,8 +193,8 @@
 | 185 | 245 | Annie Marie |
 | 186 | 243 | Rebecca Funderburk Kirby |
 | 187 | 243 | Rochelle Hazelett |
-| 188 | 240 | Brandon Givens |
-| 189 | 240 | Jimmie Clemons |
+| 188 | 240 | Jimmie Clemons |
+| 189 | 240 | Brandon Givens |
 | 190 | 239 | Fallorina Susana |
 | 191 | 236 | Jess Bissett |
 | 192 | 234 | Nikki Pags |
@@ -217,8 +217,8 @@
 | 209 | 210 | Tasha Wesson-Torrence |
 | 210 | 209 | Twisty Brick LT |
 | 211 | 208 | Trisha Balmer |
-| 212 | 207 | Chris Bell |
-| 213 | 207 | Jessica |
+| 212 | 207 | Jessica |
+| 213 | 207 | Chris Bell |
 | 214 | 205 | Sarah Moyer |
 | 215 | 204 | Danielle Allison |
 | 216 | 204 | Sunny Rotater |

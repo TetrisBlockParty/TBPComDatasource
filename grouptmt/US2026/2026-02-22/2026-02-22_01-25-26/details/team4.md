@@ -117,9 +117,9 @@
 | 109 | 255 | Lindsay Ball |
 | 110 | 246 | Dizzy Tiley |
 | 111 | 231 | Chastity Mitchell |
-| 112 | 230 | Lucas J Sutton |
-| 113 | 230 | Daria Rycewicz |
-| 114 | 230 | Autum Leigh |
+| 112 | 230 | Daria Rycewicz |
+| 113 | 230 | Autum Leigh |
+| 114 | 230 | Lucas J Sutton |
 | 115 | 225 | Damn Libra |
 | 116 | 222 | Joeliecea Cobb |
 | 117 | 221 | Alyssa Papen |
@@ -145,8 +145,8 @@
 | 137 | 194 | Zany Twisterfit |
 | 138 | 192 | Shauna Havard |
 | 139 | 190 | Justin Hannigan |
-| 140 | 189 | Calvin Dennis |
-| 141 | 189 | Stacey Stano |
+| 140 | 189 | Stacey Stano |
+| 141 | 189 | Calvin Dennis |
 | 142 | 187 | TheNeesh50 |
 | 143 | 186 | Holly |
 | 144 | 185 | Andy Cabral |
