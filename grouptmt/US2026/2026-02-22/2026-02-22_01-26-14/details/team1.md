@@ -67,8 +67,8 @@
 | 59 | 412 | Anaid Sanchez |
 | 60 | 409 | Jazzy Framezone |
 | 61 | 391 | Robert Benito |
-| 62 | 388 | Yvonne Marie |
-| 63 | 388 | Jennifer ManWarren |
+| 62 | 388 | Jennifer ManWarren |
+| 63 | 388 | Yvonne Marie |
 | 64 | 382 | Lori Sanders- Davis |
 | 65 | 379 | Austin James |
 | 66 | 374 | Tinah Montanna |
@@ -89,8 +89,8 @@
 | 81 | 323 | Candy Jones |
 | 82 | 323 | Sweet Baker |
 | 83 | 321 | Maria C. Hernandez |
-| 84 | 319 | Shauna Loe |
-| 85 | 319 | Deanna L Hermanson |
+| 84 | 319 | Deanna L Hermanson |
+| 85 | 319 | Shauna Loe |
 | 86 | 311 | Tanya Carpenter-Reynolds |
 | 87 | 310 | Seth Wesson |
 | 88 | 305 | Patrick Luckenbill |
@@ -139,8 +139,8 @@
 | 131 | 203 | GATOR |
 | 132 | 203 | Paula Martin |
 | 133 | 199 | Jennifer Hardman |
-| 134 | 198 | Shiny Gridmatch |
-| 135 | 198 | Happy Snapbuild |
+| 134 | 198 | Happy Snapbuild |
+| 135 | 198 | Shiny Gridmatch |
 | 136 | 195 | Daring Fitclear |
 | 137 | 194 | Ash Galvan |
 | 138 | 194 | Tyler Werts |
@@ -156,7 +156,7 @@
 | 148 | 187 | Snippy Wipebuilder |
 | 149 | 186 | Michael |
 | 150 | 186 | Margo Wagner |
-| 151 | 186 | Michael |
+| 151 | 186 | Katie Daniels |
 | 152 | 185 | Basment Living |
 | 153 | 182 | Monica Donato |
 | 154 | 182 | ALFD |
@@ -197,8 +197,8 @@
 | 189 | 154 | Melissa Lemmon |
 | 190 | 154 | Christy Jones |
 | 191 | 153 | Barry Mac'Ockner |
-| 192 | 152 | Speedy Snapfall |
-| 193 | 152 | Jacqueline Unique |
+| 192 | 152 | Jacqueline Unique |
+| 193 | 152 | Speedy Snapfall |
 | 194 | 150 | Adele Rahman |
 | 195 | 148 | Bouncy Grid |
 | 196 | 147 | Davery Spencer Adair |
@@ -210,8 +210,8 @@
 | 202 | 144 | Gary Gobin |
 | 203 | 144 | Miguel Teixeira |
 | 204 | 142 | Colleen Wise |
-| 205 | 141 | Blaire Bruckoff |
-| 206 | 141 | Dino |
+| 205 | 141 | Dino |
+| 206 | 141 | Blaire Bruckoff |
 | 207 | 139 | Flashy Rotator |
 | 208 | 137 | Witty Builderfit |
 | 209 | 137 | Cody Gates |
@@ -240,9 +240,9 @@
 | 232 | 121 | Carl Claunch |
 | 233 | 120 | Kimmie Kimms |
 | 234 | 120 | Silly Align |
-| 235 | 119 | Desiree Deschaine Havee |
-| 236 | 119 | Strig |
-| 237 | 119 | Tater |
+| 235 | 119 | Strig |
+| 236 | 119 | Tater |
+| 237 | 119 | Desiree Deschaine Havee |
 | 238 | 118 | Jacob Shaddock |
 | 239 | 117 | Chantelle Ceno |
 | 240 | 116 | MomMom |

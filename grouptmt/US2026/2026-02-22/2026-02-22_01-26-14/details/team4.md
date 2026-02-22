@@ -123,8 +123,8 @@
 | 115 | 225 | Damn Libra |
 | 116 | 222 | Joeliecea Cobb |
 | 117 | 221 | Alyssa Papen |
-| 118 | 218 | Casey Grabner |
-| 119 | 218 | Antony Dwayne Beasley |
+| 118 | 218 | Antony Dwayne Beasley |
+| 119 | 218 | Casey Grabner |
 | 120 | 217 | Chaz Duncan |
 | 121 | 214 | Monica Daley |
 | 122 | 213 | loulou |
@@ -145,8 +145,8 @@
 | 137 | 194 | Zany Twisterfit |
 | 138 | 192 | Shauna Havard |
 | 139 | 190 | Justin Hannigan |
-| 140 | 189 | Calvin Dennis |
-| 141 | 189 | Stacey Stano |
+| 140 | 189 | Stacey Stano |
+| 141 | 189 | Calvin Dennis |
 | 142 | 187 | TheNeesh50 |
 | 143 | 186 | Holly |
 | 144 | 185 | Lori |

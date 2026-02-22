@@ -75,8 +75,8 @@
 | 67 | 605 | Suzieq |
 | 68 | 604 | Danielle Becker |
 | 69 | 588 | yoyo |
-| 70 | 582 | Katrina Schroeder |
-| 71 | 582 | Natasha Jones |
+| 70 | 582 | Natasha Jones |
+| 71 | 582 | Katrina Schroeder |
 | 72 | 582 | Jay Horn |
 | 73 | 581 | Danielle Mogg |
 | 74 | 580 | Amanda L Baker |
@@ -184,8 +184,8 @@
 | 176 | 261 | Tiffany Ford |
 | 177 | 258 | Tamara Deherrera |
 | 178 | 257 | Ashley Jones |
-| 179 | 256 | KayB |
-| 180 | 256 | Brenda Lee Vander Molen |
+| 179 | 256 | Brenda Lee Vander Molen |
+| 180 | 256 | KayB |
 | 181 | 254 | Duane Bright |
 | 182 | 250 | Jim Mathews |
 | 183 | 249 | Terry Jo Jones |
@@ -287,7 +287,7 @@
 | 279 | 157 | Sabrina Hardrick |
 | 280 | 157 | Katrina E Jelks |
 | 281 | 157 | Desiree Gold |
-| 282 | 157 | Sabrina Hardrick |
+| 282 | 157 | Samantha Lynn |
 | 283 | 156 | Brittany |
 | 284 | 156 | Katie Leigh Blankenship |
 | 285 | 155 | mzcatzy |
@@ -370,8 +370,8 @@
 | 362 | 122 | Giggly Brickroll |
 | 363 | 121 | Fredd Thomas |
 | 364 | 121 | Michael Johnson |
-| 365 | 120 | Carol Cain Thurman |
-| 366 | 120 | Rainbow77375 |
+| 365 | 120 | Rainbow77375 |
+| 366 | 120 | Carol Cain Thurman |
 | 367 | 120 | Brian Battjes |
 | 368 | 119 | BugMansMom |
 | 369 | 118 | Fancy Curver |
