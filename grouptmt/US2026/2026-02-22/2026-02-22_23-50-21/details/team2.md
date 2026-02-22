@@ -349,8 +349,8 @@
 | 341 | 782 | Beth |
 | 342 | 777 | Jessicah Myers |
 | 343 | 777 | Tesha Oldaker |
-| 344 | 774 | Ashley Dow |
-| 345 | 774 | Ginnell Browner |
+| 344 | 774 | Ginnell Browner |
+| 345 | 774 | Ashley Dow |
 | 346 | 773 | Diana Fitzwater |
 | 347 | 772 | Danielle Simmons |
 | 348 | 769 | Melissa Cole |

@@ -26,8 +26,8 @@
 | 18 | 1408 | Mara Hilker |
 | 19 | 1234 | Jennifer Cates |
 | 20 | 1215 | LaQuetta Faith Hines |
-| 21 | 1191 | Nerdy Linkblock |
-| 22 | 1191 | Roger Aschbrenner |
+| 21 | 1191 | Roger Aschbrenner |
+| 22 | 1191 | Nerdy Linkblock |
 | 23 | 1177 | Carolyn Smith |
 | 24 | 1145 | Tyler Alcock |
 | 25 | 1136 | Rahna Underwood |
@@ -85,8 +85,8 @@
 | 77 | 552 | Aaron Garnett |
 | 78 | 551 | Greg Hart |
 | 79 | 535 | Denice Dee |
-| 80 | 534 | Loony Fitzone |
-| 81 | 534 | Cynthia Bradley |
+| 80 | 534 | Cynthia Bradley |
+| 81 | 534 | Loony Fitzone |
 | 82 | 524 | Erin Hodges Plumb |
 | 83 | 522 | Robert Benito |
 | 84 | 519 | Ryan Lunnin |
@@ -146,8 +146,8 @@
 | 138 | 364 | Shauna Loe |
 | 139 | 363 | Sharon Reynolds |
 | 140 | 361 | Tanya Carpenter-Reynolds |
-| 141 | 360 | Wisa |
-| 142 | 360 | phrmblk24 |
+| 141 | 360 | phrmblk24 |
+| 142 | 360 | Wisa |
 | 143 | 359 | Chirpy Smasher |
 | 144 | 357 | Amanda Johnson Huffman |
 | 145 | 357 | Jason Savage |
@@ -159,16 +159,16 @@
 | 151 | 341 | Nick R Montague |
 | 152 | 336 | Fmp |
 | 153 | 334 | Jaimie Lynn |
-| 154 | 333 | Jennifer Hardman |
+| 154 | 333 | Gracie |
 | 155 | 333 | GATOR |
-| 156 | 333 | Gracie |
+| 156 | 333 | Jennifer Hardman |
 | 157 | 332 | Lehrin Maria |
 | 158 | 325 | Dizzy Party |
 | 159 | 324 | Ananda Mendez |
 | 160 | 324 | Rat666 |
 | 161 | 322 | Chelsea Dahlquist |
-| 162 | 318 | Jessica Sheehan |
-| 163 | 318 | Virginia Gray Floyd |
+| 162 | 318 | Virginia Gray Floyd |
+| 163 | 318 | Jessica Sheehan |
 | 164 | 317 | Rachael |
 | 165 | 315 | Danielle Little-Daugherty |
 | 166 | 315 | Tyler Werts |
@@ -210,8 +210,8 @@
 | 202 | 270 | Mandyy Rae |
 | 203 | 269 | Amanda Jarnagin |
 | 204 | 268 | Reesey Enyart |
-| 205 | 267 | Cody Gates |
-| 206 | 267 | Debbie Kane |
+| 205 | 267 | Debbie Kane |
+| 206 | 267 | Cody Gates |
 | 207 | 266 | BadG52 |
 | 208 | 265 | Kandae |
 | 209 | 264 | Jen Nystrom |
@@ -221,8 +221,8 @@
 | 213 | 256 | Chris65 |
 | 214 | 256 | Standia Civil |
 | 215 | 255 | Speedy Liney |
-| 216 | 254 | Giggly Builderline |
-| 217 | 254 | Al Smith Jr |
+| 216 | 254 | Al Smith Jr |
+| 217 | 254 | Giggly Builderline |
 | 218 | 253 | Jamie Jury |
 | 219 | 252 | Dena Kayy |
 | 220 | 249 | Lakeisha Chapman |

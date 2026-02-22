@@ -97,8 +97,8 @@
 | 89 | 860 | Sunny Rotater |
 | 90 | 849 | Danielle Becker |
 | 91 | 848 | Patricia Gadsden |
-| 92 | 838 | MissTaylor |
-| 93 | 838 | Sarajane Lokan |
+| 92 | 838 | Sarajane Lokan |
+| 93 | 838 | MissTaylor |
 | 94 | 831 | Angeline Joseph |
 | 95 | 830 | Stephanie Allmon |
 | 96 | 826 | Shane Wilson Jr. |
@@ -117,8 +117,8 @@
 | 109 | 730 | Speedy Bridger |
 | 110 | 723 | Mandy Smith Oldham |
 | 111 | 720 | Raya |
-| 112 | 716 | Calista Jo Dickson |
-| 113 | 716 | Kristie |
+| 112 | 716 | Kristie |
+| 113 | 716 | Calista Jo Dickson |
 | 114 | 715 | Keith J Oshman Jr. |
 | 115 | 712 | Katrina Schroeder |
 | 116 | 704 | Suzieq |
@@ -166,8 +166,8 @@
 | 158 | 517 | Denise Nardoni |
 | 159 | 516 | Elissa S-k |
 | 160 | 512 | Silly Twist |
-| 161 | 506 | Sashay Tapae Simpson |
-| 162 | 506 | Stephanie Blkpep Davidson |
+| 161 | 506 | Stephanie Blkpep Davidson |
+| 162 | 506 | Sashay Tapae Simpson |
 | 163 | 505 | Danielle Balcom |
 | 164 | 504 | Jennifer Lynn Fahrenholtz-Summers |
 | 165 | 502 | Snappy Balancer |
@@ -322,8 +322,8 @@
 | 314 | 273 | Troy |
 | 315 | 273 | Dannie Litchard |
 | 316 | 271 | France Vézina |
-| 317 | 271 | Grego Daniel |
-| 318 | 271 | Aerian Preston |
+| 317 | 271 | Aerian Preston |
+| 318 | 271 | Grego Daniel |
 | 319 | 269 | Micayah Stevens |
 | 320 | 269 | Samantha Worley |
 | 321 | 269 | Brenda Schmid Wood |
@@ -358,9 +358,9 @@
 | 350 | 247 | Daring Builder |
 | 351 | 247 | Jessica |
 | 352 | 245 | Latoya Mayne |
-| 353 | 244 | LaNette Morgan |
-| 354 | 244 | Tegan Chapman |
-| 355 | 244 | Quackers |
+| 353 | 244 | Tegan Chapman |
+| 354 | 244 | Quackers |
+| 355 | 244 | LaNette Morgan |
 | 356 | 243 | Josh Borquez |
 | 357 | 242 | Randy Clevenger |
 | 358 | 240 | Rachel Grant |
@@ -438,8 +438,8 @@
 | 430 | 202 | Melanie Sherwood |
 | 431 | 202 | Tipsy Zonebuilder |
 | 432 | 201 | Noettín Kan Zasnemoore |
-| 433 | 201 | Bhreagh Gentile |
-| 434 | 201 | Hyper Matchzone |
+| 433 | 201 | Hyper Matchzone |
+| 434 | 201 | Bhreagh Gentile |
 | 435 | 201 | Skinny Baldez |
 | 436 | 200 | Crystal Hine |
 | 437 | 200 | Megan Riggins |

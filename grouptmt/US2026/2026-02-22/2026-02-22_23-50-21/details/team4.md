@@ -51,8 +51,8 @@
 | 43 | 899 | Dustin Robert |
 | 44 | 855 | Marvin Lou Martin |
 | 45 | 851 | Jae Job |
-| 46 | 846 | Christine Marie |
-| 47 | 846 | Lucille Truesdale |
+| 46 | 846 | Lucille Truesdale |
+| 47 | 846 | Christine Marie |
 | 48 | 843 | Shelly Chandler |
 | 49 | 839 | LisaJo Picken Buchanan |
 | 50 | 838 | TeeJ |
@@ -125,9 +125,9 @@
 | 117 | 448 | Kristin Manee |
 | 118 | 435 | Leslie Thomas |
 | 119 | 433 | Jamie Gustafson |
-| 120 | 431 | Courtney Cicoria |
+| 120 | 431 | Jessica Lynn Cutlip |
 | 121 | 431 | Jolly Dashfit |
-| 122 | 431 | Jessica Lynn Cutlip |
+| 122 | 431 | Courtney Cicoria |
 | 123 | 429 | Ren Mc |
 | 124 | 427 | KJ Pool |
 | 125 | 417 | Monica Daley |
@@ -138,8 +138,8 @@
 | 130 | 406 | Lush Linkfall |
 | 131 | 400 | Ericca Eldridge |
 | 132 | 394 | Austin Owens |
-| 133 | 393 | Trish |
-| 134 | 393 | Carlton Unfiltered |
+| 133 | 393 | Carlton Unfiltered |
+| 134 | 393 | Trish |
 | 135 | 392 | Cristy Duerksen |
 | 136 | 391 | Ramel Rhodes |
 | 137 | 380 | Swanky Fitline |
@@ -153,11 +153,11 @@
 | 145 | 368 | Brandon Crabbs |
 | 146 | 359 | Angela Srubar-Norman |
 | 147 | 358 | ThaEviLJeNiuZ |
-| 148 | 353 | Tyler Terrific |
-| 149 | 353 | Livvy |
+| 148 | 353 | Livvy |
+| 149 | 353 | Tyler Terrific |
 | 150 | 349 | Desi Desporte |
-| 151 | 348 | Silly Zonebuilder |
-| 152 | 348 | 🥔🥔 Spudz |
+| 151 | 348 | 🥔🥔 Spudz |
+| 152 | 348 | Silly Zonebuilder |
 | 153 | 347 | Daria Rycewicz |
 | 154 | 343 | Latisha Davis |
 | 155 | 342 | Klo |
