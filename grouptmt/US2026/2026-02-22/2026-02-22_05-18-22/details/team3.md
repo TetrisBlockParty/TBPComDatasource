@@ -85,8 +85,8 @@
 | 77 | 628 | Tiff Vs Tiffany |
 | 78 | 626 | mjl574 |
 | 79 | 621 | Cherry Parker |
-| 80 | 618 | Katrina Schroeder |
-| 81 | 618 | Brandon Green |
+| 80 | 618 | Brandon Green |
+| 81 | 618 | Katrina Schroeder |
 | 82 | 613 | Amber Hughes |
 | 83 | 608 | Danielle Becker |
 | 84 | 591 | Jesse Olive |
@@ -231,17 +231,17 @@
 | 223 | 256 | Brenda Lee Vander Molen |
 | 224 | 256 | Tiffany Davie |
 | 225 | 253 | Nora Rogers |
-| 226 | 249 | JerseyJess |
-| 227 | 249 | Annie Marie |
+| 226 | 249 | Annie Marie |
+| 227 | 249 | JerseyJess |
 | 228 | 246 | Eon Harris |
-| 229 | 246 | Rochelle Hazelett |
-| 230 | 246 | Peppy Shifter |
+| 229 | 246 | Peppy Shifter |
+| 230 | 246 | Rochelle Hazelett |
 | 231 | 245 | Latoya Mayne |
 | 232 | 240 | Jimmie Clemons |
 | 233 | 236 | Jess Bissett |
 | 234 | 235 | LaNette Morgan |
-| 235 | 234 | Grego Daniel |
-| 236 | 234 | Nikki Pags |
+| 235 | 234 | Nikki Pags |
+| 236 | 234 | Grego Daniel |
 | 237 | 233 | Ray Lader |
 | 238 | 232 | Donna |
 | 239 | 228 | Brenda Schmid Wood |
@@ -252,8 +252,8 @@
 | 244 | 221 | Jaime Monhaut-Reed |
 | 245 | 219 | Sissy Lowery Davis |
 | 246 | 218 | Michael Lucado |
-| 247 | 216 | rosy |
-| 248 | 216 | LaTanya GeminiondaRise Johnson |
+| 247 | 216 | LaTanya GeminiondaRise Johnson |
+| 248 | 216 | rosy |
 | 249 | 215 | Alice |
 | 250 | 215 | IamJust Neyamijah Washington Sr. |
 | 251 | 214 | Amy Fuller Heaton |

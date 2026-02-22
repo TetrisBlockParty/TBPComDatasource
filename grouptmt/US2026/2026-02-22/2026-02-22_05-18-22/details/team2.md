@@ -172,8 +172,8 @@
 | 164 | 973 | Kim Dean |
 | 165 | 951 | Cynthia Ward |
 | 166 | 950 | Teresa Gillmore |
-| 167 | 941 | Marie Boyd Faulk |
-| 168 | 941 | Desiree Harris Rosch |
+| 167 | 941 | Desiree Harris Rosch |
+| 168 | 941 | Marie Boyd Faulk |
 | 169 | 940 | Cool Clearer |
 | 170 | 937 | Shannon Joslin |
 | 171 | 935 | William Meussner |
@@ -202,8 +202,8 @@
 | 194 | 845 | April Dawn Gussler |
 | 195 | 838 | Tralonda Weeks |
 | 196 | 837 | Ashley Rose Frederick |
-| 197 | 834 | Nika Bee |
-| 198 | 834 | Rebecca Doughman |
+| 197 | 834 | Rebecca Doughman |
+| 198 | 834 | Nika Bee |
 | 199 | 828 | Cindy Sechler Taninecz |
 | 200 | 826 | Moose Griffith |
 | 201 | 820 | Chirpy Staggerpiece |
@@ -286,8 +286,8 @@
 | 278 | 647 | Peppy Zone |
 | 279 | 647 | Ashle Scranton |
 | 280 | 643 | Hoppy Brickmatch |
-| 281 | 641 | Angie Bolton Workman |
-| 282 | 641 | Joce Lynn |
+| 281 | 641 | Joce Lynn |
+| 282 | 641 | Angie Bolton Workman |
 | 283 | 640 | BYM4L |
 | 284 | 639 | Crystie Hicks |
 | 285 | 639 | Rebecca Miller |
@@ -520,8 +520,8 @@
 | 512 | 384 | Party d |
 | 513 | 384 | Mike Aprilliano |
 | 514 | 383 | Giddy Gridclear |
-| 515 | 382 | David Holliday |
-| 516 | 382 | KhaosLord |
+| 515 | 382 | KhaosLord |
+| 516 | 382 | David Holliday |
 | 517 | 381 | Melissa Rebbe-Lehman |
 | 518 | 381 | Jessica S Flecha |
 | 519 | 380 | Crystal Heller Gonzalez |
@@ -552,12 +552,12 @@
 | 544 | 365 | Christina Lewis-Vickers |
 | 545 | 365 | Audrey Jones |
 | 546 | 365 | Susan Arnburg |
-| 547 | 364 | Jasmine Kenney |
-| 548 | 364 | Shinette Dobson |
-| 549 | 363 | Kia Humphery |
-| 550 | 363 | Michelle Sager |
-| 551 | 363 | Happy Caster |
-| 552 | 363 | Lawanda Forbes |
+| 547 | 364 | Shinette Dobson |
+| 548 | 364 | Jasmine Kenney |
+| 549 | 363 | Lawanda Forbes |
+| 550 | 363 | Kia Humphery |
+| 551 | 363 | Michelle Sager |
+| 552 | 363 | Happy Caster |
 | 553 | 362 | Tracy Wise |
 | 554 | 362 | Jennifer Scott |
 | 555 | 361 | Lewis Sturgeon |

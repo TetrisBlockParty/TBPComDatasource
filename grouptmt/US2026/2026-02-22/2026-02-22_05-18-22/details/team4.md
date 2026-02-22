@@ -30,8 +30,8 @@
 | 22 | 898 | Isabel Aguilar |
 | 23 | 883 | Dustin Robert |
 | 24 | 877 | Koshin Abdirahman |
-| 25 | 873 | Michelle Pearman |
-| 26 | 873 | Elizabeth Sallas |
+| 25 | 873 | Elizabeth Sallas |
+| 26 | 873 | Michelle Pearman |
 | 27 | 871 | Denny Shives |
 | 28 | 865 | Devinlee Brown |
 | 29 | 846 | Christine Marie |
@@ -168,13 +168,13 @@
 | 160 | 203 | Chris Bernstein |
 | 161 | 203 | Katherine Crane |
 | 162 | 202 | Zippy Gridlock |
-| 163 | 201 | Chance Strickland |
-| 164 | 201 | Melvin Baird |
+| 163 | 201 | Melvin Baird |
+| 164 | 201 | Chance Strickland |
 | 165 | 200 | Jeff Brian Gates |
 | 166 | 198 | Jessica Lynn Cutlip |
 | 167 | 195 | Malakai Darien Fox |
-| 168 | 194 | Zany Twisterfit |
-| 169 | 194 | Chilly Crasher |
+| 168 | 194 | Chilly Crasher |
+| 169 | 194 | Zany Twisterfit |
 | 170 | 192 | Shauna Havard |
 | 171 | 189 | Stacey Stano |
 | 172 | 189 | Calvin Dennis |
