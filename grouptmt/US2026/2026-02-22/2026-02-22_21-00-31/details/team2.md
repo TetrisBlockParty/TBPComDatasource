@@ -225,8 +225,8 @@
 | 217 | 1037 | Teddi Notyalc |
 | 218 | 1036 | Allison Lockyer |
 | 219 | 1034 | Debra Williams |
-| 220 | 1024 | Taylor Phillips |
-| 221 | 1024 | Desiree Anderson |
+| 220 | 1024 | Desiree Anderson |
+| 221 | 1024 | Taylor Phillips |
 | 222 | 1022 | Shannon Joslin |
 | 223 | 1020 | Eric Carlson |
 | 224 | 1019 | Kyle Swanson |
@@ -401,8 +401,8 @@
 | 393 | 652 | Mighty Spinbuilder |
 | 394 | 651 | Unica Rector |
 | 395 | 651 | Ashley Munn |
-| 396 | 650 | Amber Brion |
-| 397 | 650 | Shiny Rollzone |
+| 396 | 650 | Shiny Rollzone |
+| 397 | 650 | Amber Brion |
 | 398 | 649 | Johnny Yeates |
 | 399 | 648 | AgileDragon |
 | 400 | 648 | Breezy Filler |
@@ -457,8 +457,8 @@
 | 449 | 580 | Joshua Self |
 | 450 | 579 | Roy Salyer |
 | 451 | 576 | Leslie Johnson Guinto |
-| 452 | 574 | Dapper Dasher |
-| 453 | 574 | Santana Miyagi |
+| 452 | 574 | Santana Miyagi |
+| 453 | 574 | Dapper Dasher |
 | 454 | 572 | Chris Wanner |
 | 455 | 571 | Kimberly Hope Howell |
 | 456 | 571 | Julie Kresal |
@@ -607,8 +607,8 @@
 | 599 | 457 | Abimbola Bimbo |
 | 600 | 456 | Misty Mitchell |
 | 601 | 456 | Samantha Scibelli |
-| 602 | 456 | Kacee Conrad Bock |
-| 603 | 456 | Skyler Morgan |
+| 602 | 456 | Skyler Morgan |
+| 603 | 456 | Kacee Conrad Bock |
 | 604 | 454 | Joice Hansen |
 | 605 | 452 | Samuel Macon |
 | 606 | 451 | Michelle Pike |

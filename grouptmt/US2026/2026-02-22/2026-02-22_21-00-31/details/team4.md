@@ -67,8 +67,8 @@
 | 59 | 736 | Goatimus Lombardi |
 | 60 | 735 | Avy Absol |
 | 61 | 722 | Dustee Craddock-Harrison |
-| 62 | 721 | Chilly Line |
-| 63 | 721 | Edward White |
+| 62 | 721 | Edward White |
+| 63 | 721 | Chilly Line |
 | 64 | 704 | Crystal Carroll |
 | 65 | 703 | Anthony Bryan Riva |
 | 66 | 675 | D3TROITB0RN74 |
@@ -99,8 +99,8 @@
 | 91 | 539 | Dawn Alexander |
 | 92 | 531 | Amelpss |
 | 93 | 519 | Nugget |
-| 94 | 513 | YoMomma |
-| 95 | 513 | Erin Thomas |
+| 94 | 513 | Erin Thomas |
+| 95 | 513 | YoMomma |
 | 96 | 512 | Casey Jeffcoat |
 | 97 | 509 | Diana Houts |
 | 98 | 500 | Rodney McMath Jr. |
@@ -200,8 +200,8 @@
 | 192 | 266 | Laura |
 | 193 | 265 | J-Rizzle |
 | 194 | 264 | Epic Curvetile |
-| 195 | 262 | Joeliecea Cobb |
-| 196 | 262 | Holly Jolly |
+| 195 | 262 | Holly Jolly |
+| 196 | 262 | Joeliecea Cobb |
 | 197 | 261 | scott |
 | 198 | 260 | Sue Joyce Staats |
 | 199 | 259 | Melvin Baird |
@@ -252,8 +252,8 @@
 | 244 | 215 | John Brunetti |
 | 245 | 215 | Ziggy |
 | 246 | 214 | Stacey Stano |
-| 247 | 213 | Sarah Neathery |
-| 248 | 213 | Rio Rocha |
+| 247 | 213 | Rio Rocha |
+| 248 | 213 | Sarah Neathery |
 | 249 | 213 | Angela Geist Jusinski |
 | 250 | 212 | Mike Solo |
 | 251 | 208 | Rebecca Morris |

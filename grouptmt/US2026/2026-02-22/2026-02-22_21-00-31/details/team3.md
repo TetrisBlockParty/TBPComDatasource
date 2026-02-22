@@ -125,8 +125,8 @@
 | 117 | 625 | Amber Hughes |
 | 118 | 621 | Cherry Parker |
 | 119 | 618 | Bea Miles |
-| 120 | 595 | Giddy Drop |
-| 121 | 595 | Patricia White |
+| 120 | 595 | Patricia White |
+| 121 | 595 | Giddy Drop |
 | 122 | 587 | JerseyJess |
 | 123 | 585 | opf |
 | 124 | 583 | Karon Griffin |
@@ -145,8 +145,8 @@
 | 137 | 551 | Alaina Lee |
 | 138 | 531 | Mykal Burton |
 | 139 | 529 | Michael Nowogorski |
-| 140 | 526 | Cynthia Castros-Hampton |
-| 141 | 526 | Michelle Becker |
+| 140 | 526 | Michelle Becker |
+| 141 | 526 | Cynthia Castros-Hampton |
 | 142 | 525 | Justin Ritter |
 | 143 | 517 | Denise Nardoni |
 | 144 | 516 | Elissa S-k |
@@ -163,14 +163,14 @@
 | 155 | 479 | Poppy Splitter |
 | 156 | 474 | Danielle Balcom |
 | 157 | 473 | Calista Jo Dickson |
-| 158 | 471 | Nora Rogers |
-| 159 | 471 | Mendoza Lee Christy |
+| 158 | 471 | Mendoza Lee Christy |
+| 159 | 471 | Nora Rogers |
 | 160 | 470 | Logan Naccarato |
-| 161 | 469 | Adrian Marcel Pate |
-| 162 | 469 | Melissa Orth Hunter |
+| 161 | 469 | Melissa Orth Hunter |
+| 162 | 469 | Adrian Marcel Pate |
 | 163 | 468 | Betty Ivy |
-| 164 | 464 | Michelle |
-| 165 | 464 | Makelini Mausia |
+| 164 | 464 | Makelini Mausia |
+| 165 | 464 | Michelle |
 | 166 | 461 | Jone |
 | 167 | 460 | Danielle Allison |
 | 168 | 459 | Tasha Gillespie |
@@ -183,12 +183,12 @@
 | 175 | 447 | Shunta Jacobs |
 | 176 | 445 | Jacqueline Rodriguez |
 | 177 | 441 | Tasha Schriewer |
-| 178 | 432 | Luciana Braganca Vieira |
+| 178 | 432 | Jenny Hrndz |
 | 179 | 432 | Christine Trester |
-| 180 | 432 | Jenny Hrndz |
+| 180 | 432 | Luciana Braganca Vieira |
 | 181 | 431 | Sarah Cowan Burgos |
-| 182 | 430 | Jeni Dow |
-| 183 | 430 | Joye Sims Binion |
+| 182 | 430 | Joye Sims Binion |
+| 183 | 430 | Jeni Dow |
 | 184 | 428 | Araceli Parra |
 | 185 | 427 | Wendy Dearden |
 | 186 | 425 | Rochelle Hazelett |
@@ -244,8 +244,8 @@
 | 236 | 340 | Ammmmmmy |
 | 237 | 338 | Gumbo |
 | 238 | 332 | Bmo |
-| 239 | 330 | Peppy Shifter |
-| 240 | 330 | victory |
+| 239 | 330 | victory |
+| 240 | 330 | Peppy Shifter |
 | 241 | 329 | Brittany |
 | 242 | 326 | Dee Franklin |
 | 243 | 324 | Sissy Lowery Davis |
