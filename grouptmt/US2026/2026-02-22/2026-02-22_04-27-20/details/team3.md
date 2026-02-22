@@ -108,8 +108,8 @@
 | 100 | 506 | Sashay Tapae Simpson |
 | 101 | 503 | Susan Valentino |
 | 102 | 502 | Justin Ritter |
-| 103 | 500 | Kristie |
-| 104 | 500 | Domo Washington |
+| 103 | 500 | Domo Washington |
+| 104 | 500 | Kristie |
 | 105 | 497 | Mykal Burton |
 | 106 | 491 | Chauntee Alfrey-Cardinale |
 | 107 | 487 | Alaina Lee |
@@ -201,11 +201,11 @@
 | 193 | 276 | _melisa223_ |
 | 194 | 276 | Crimson |
 | 195 | 274 | Tye Stovall |
-| 196 | 272 | opf |
-| 197 | 272 | Dee Franklin |
+| 196 | 272 | Dee Franklin |
+| 197 | 272 | opf |
 | 198 | 271 | Ashley Muncey |
-| 199 | 267 | Terry Jo Jones |
-| 200 | 267 | Denise Nardoni |
+| 199 | 267 | Denise Nardoni |
+| 200 | 267 | Terry Jo Jones |
 | 201 | 265 | Sarah Moyer |
 | 202 | 265 | Scott Carleton |
 | 203 | 263 | Angeline Joseph |
@@ -278,8 +278,8 @@
 | 270 | 191 | Meowsa |
 | 271 | 189 | Katie Leigh Blankenship |
 | 272 | 188 | Loopy Fallmatch |
-| 273 | 184 | Troy |
-| 274 | 184 | France Vézina |
+| 273 | 184 | France Vézina |
+| 274 | 184 | Troy |
 | 275 | 184 | El Chapa |
 | 276 | 182 | Carrie Huskey |
 | 277 | 182 | Melanie Sherwood |
@@ -291,8 +291,8 @@
 | 283 | 179 | Rachel Napper |
 | 284 | 179 | Tipsy Zonebuilder |
 | 285 | 178 | Jess Dearborn |
-| 286 | 176 | Jennifer Alvey |
-| 287 | 176 | Melissa Orth Hunter |
+| 286 | 176 | Melissa Orth Hunter |
+| 287 | 176 | Jennifer Alvey |
 | 288 | 175 | Eileen Brady Thurber |
 | 289 | 174 | Chelsea Hall |
 | 290 | 174 | Betty Rosas |
@@ -354,8 +354,8 @@
 | 346 | 147 | David Bardo |
 | 347 | 144 | Tenisha Semidey |
 | 348 | 142 | Gray Hicks |
-| 349 | 142 | Michael Leblanc |
-| 350 | 142 | Joy Petroski |
+| 349 | 142 | Joy Petroski |
+| 350 | 142 | Michael Leblanc |
 | 351 | 142 | Jl |
 | 352 | 142 | Erica Anderson |
 | 353 | 141 | Weerae |

@@ -175,8 +175,8 @@
 | 167 | 189 | Michael |
 | 168 | 189 | Jeanna Dunn |
 | 169 | 188 | Sam Williams |
-| 170 | 187 | Snippy Wipebuilder |
-| 171 | 187 | Jennifer Olewnik Soborowski |
+| 170 | 187 | Jennifer Olewnik Soborowski |
+| 171 | 187 | Snippy Wipebuilder |
 | 172 | 186 | Erin Hodges Plumb |
 | 173 | 186 | Margo Wagner |
 | 174 | 181 | phrmblk24 |
@@ -449,7 +449,7 @@
 | 441 | 73 | John Ramirez |
 | 442 | 73 | William Cry |
 | 443 | 72 | Oliver Hollins |
-| 444 | 72 | Chaste Minor |
+| 444 | 72 | Tipsy Tiltpiece |
 | 445 | 72 | Zappy Pivoty |
 | 446 | 72 | Chaste Minor |
 | 447 | 71 | Lis |

@@ -43,8 +43,8 @@
 | 35 | 723 | Elizabeth Sallas |
 | 36 | 717 | BertMofo |
 | 37 | 704 | Crystal Carroll |
-| 38 | 697 | Rachel Anne |
-| 39 | 697 | Edward White |
+| 38 | 697 | Edward White |
+| 39 | 697 | Rachel Anne |
 | 40 | 659 | Rebecca Moulton Pinciaro |
 | 41 | 646 | Jacqueline Helm |
 | 42 | 634 | Anthony Bryan Riva |
@@ -157,8 +157,8 @@
 | 149 | 205 | Sarah Neathery |
 | 150 | 205 | Kathy Brookins |
 | 151 | 204 | Jen Caldwell |
-| 152 | 203 | Katherine Crane |
-| 153 | 203 | Chris Bernstein |
+| 152 | 203 | Chris Bernstein |
+| 153 | 203 | Katherine Crane |
 | 154 | 202 | 🥔🥔 Spudz |
 | 155 | 201 | Melvin Baird |
 | 156 | 199 | TheNeesh50 |
@@ -232,8 +232,8 @@
 | 224 | 140 | Paige Kittles |
 | 225 | 139 | Nerdy Twisterfit |
 | 226 | 139 | Kristina Black |
-| 227 | 139 | Lori Goudy |
-| 228 | 139 | Chaz |
+| 227 | 139 | Chaz |
+| 228 | 139 | Lori Goudy |
 | 229 | 138 | Brandon Link |
 | 230 | 137 | PeaceOs |
 | 231 | 137 | Brianna Walker |

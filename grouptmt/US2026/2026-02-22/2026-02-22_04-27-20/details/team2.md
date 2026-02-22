@@ -303,8 +303,8 @@
 | 295 | 589 | Thomas Hedrick |
 | 296 | 589 | Shavonna Haynes |
 | 297 | 582 | Gary Stash |
-| 298 | 579 | Roy Salyer |
-| 299 | 579 | Juliana Marques Do Nascimento Gordy |
+| 298 | 579 | Juliana Marques Do Nascimento Gordy |
+| 299 | 579 | Roy Salyer |
 | 300 | 576 | Ginger |
 | 301 | 569 | Vaniel Glover |
 | 302 | 567 | Victoria Moore-Smith |
