@@ -42,8 +42,8 @@
 | 34 | 873 | Elizabeth Sallas |
 | 35 | 871 | Denny Shives |
 | 36 | 846 | Christine Marie |
-| 37 | 843 | Shelly Chandler |
-| 38 | 843 | Lucille Truesdale |
+| 37 | 843 | Lucille Truesdale |
+| 38 | 843 | Shelly Chandler |
 | 39 | 834 | quicksand420 |
 | 40 | 818 | Marvin Lou Martin |
 | 41 | 811 | Jae Job |
@@ -273,8 +273,8 @@
 | 265 | 154 | conceptCollector |
 | 266 | 154 | Zany Shatterer |
 | 267 | 153 | Tina Martinez |
-| 268 | 153 | Empress Oasis |
-| 269 | 153 | Lush Linkfall |
+| 268 | 153 | Lush Linkfall |
+| 269 | 153 | Empress Oasis |
 | 270 | 152 | Angela Geist Jusinski |
 | 271 | 152 | Faja |
 | 272 | 151 | Stephme310 |

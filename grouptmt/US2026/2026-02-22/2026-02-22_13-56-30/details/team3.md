@@ -113,8 +113,8 @@
 | 105 | 568 | Rachael McClain Owens |
 | 106 | 566 | Dolores Falco |
 | 107 | 565 | Patty Allen |
-| 108 | 562 | Louise Stacy Sisson |
-| 109 | 562 | Dave Herzog |
+| 108 | 562 | Dave Herzog |
+| 109 | 562 | Louise Stacy Sisson |
 | 110 | 559 | Morgan Martinez |
 | 111 | 549 | Nicole Myers |
 | 112 | 533 | Alaina Lee |
@@ -155,8 +155,8 @@
 | 147 | 435 | Daryn Elliott |
 | 148 | 432 | Jenny Hrndz |
 | 149 | 430 | Joye Sims Binion |
-| 150 | 427 | Logan Naccarato |
-| 151 | 427 | Tasha Gillespie |
+| 150 | 427 | Tasha Gillespie |
+| 151 | 427 | Logan Naccarato |
 | 152 | 427 | Wendy Dearden |
 | 153 | 415 | ren |
 | 154 | 413 | Rachel |
