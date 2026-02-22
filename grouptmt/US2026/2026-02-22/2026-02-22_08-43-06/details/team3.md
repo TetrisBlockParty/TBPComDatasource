@@ -51,8 +51,8 @@
 | 43 | 1015 | Amber Jones |
 | 44 | 998 | Liv Whetson |
 | 45 | 996 | Stephanie Rice |
-| 46 | 989 | Joey Banks |
-| 47 | 989 | Kay |
+| 46 | 989 | Kay |
+| 47 | 989 | Joey Banks |
 | 48 | 983 | Brandon Green |
 | 49 | 976 | Dan Rob |
 | 50 | 956 | Gracie |
@@ -105,8 +105,8 @@
 | 97 | 581 | Danielle Mogg |
 | 98 | 579 | Jd Morris |
 | 99 | 566 | Dolores Falco |
-| 100 | 565 | Patty Allen |
-| 101 | 565 | Rachael McClain Owens |
+| 100 | 565 | Rachael McClain Owens |
+| 101 | 565 | Patty Allen |
 | 102 | 562 | Louise Stacy Sisson |
 | 103 | 562 | Dave Herzog |
 | 104 | 559 | Morgan Martinez |
@@ -154,8 +154,8 @@
 | 146 | 407 | Edwin Calvillo Jr. |
 | 147 | 403 | Scott Lindsay |
 | 148 | 402 | Shannon Matthew Byers |
-| 149 | 401 | Katie Knaus |
-| 150 | 401 | Rachel |
+| 149 | 401 | Rachel |
+| 150 | 401 | Katie Knaus |
 | 151 | 400 | Luciana Braganca Vieira |
 | 152 | 399 | Marcie Bressler |
 | 153 | 399 | Mcathen |
@@ -273,8 +273,8 @@
 | 265 | 225 | Cozy Snaplink |
 | 266 | 225 | Dirtgirl27 |
 | 267 | 221 | Vaners |
-| 268 | 221 | Alice |
-| 269 | 221 | Jaime Monhaut-Reed |
+| 268 | 221 | Jaime Monhaut-Reed |
+| 269 | 221 | Alice |
 | 270 | 220 | rosy |
 | 271 | 219 | Sissy Lowery Davis |
 | 272 | 218 | Michael Lucado |

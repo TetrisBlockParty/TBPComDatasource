@@ -115,8 +115,8 @@
 | 107 | 328 | Shauna Loe |
 | 108 | 326 | Monica Donato |
 | 109 | 321 | Maria C. Hernandez |
-| 110 | 319 | Patrick Luckenbill |
-| 111 | 319 | Deanna L Hermanson |
+| 110 | 319 | Deanna L Hermanson |
+| 111 | 319 | Patrick Luckenbill |
 | 112 | 316 | Ly Phethmany |
 | 113 | 313 | Tanya Carpenter-Reynolds |
 | 114 | 310 | Jason Jones |
@@ -303,8 +303,8 @@
 | 295 | 130 | Gilbert Ortiz Jr. |
 | 296 | 129 | Sherri E Woods Hess |
 | 297 | 128 | Alyssa Ingram |
-| 298 | 127 | Danielle Mae |
-| 299 | 127 | Lynn Adams |
+| 298 | 127 | Lynn Adams |
+| 299 | 127 | Danielle Mae |
 | 300 | 126 | Zany Tiler |
 | 301 | 125 | Melissa Bires Hussar |
 | 302 | 125 | Angela Spann |

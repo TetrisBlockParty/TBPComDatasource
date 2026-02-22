@@ -132,8 +132,8 @@
 | 124 | 1273 | Cool Rollpiece |
 | 125 | 1257 | Eileen Hale |
 | 126 | 1252 | Katrina Williams Balmir |
-| 127 | 1248 | Isabela Shaw |
-| 128 | 1248 | Howard Forest |
+| 127 | 1248 | Howard Forest |
+| 128 | 1248 | Isabela Shaw |
 | 129 | 1242 | Altamirano Michael |
 | 130 | 1237 | L3sli3 |
 | 131 | 1232 | Groovy Puzzle |
@@ -241,8 +241,8 @@
 | 233 | 800 | Danielle Johnson-Chandler |
 | 234 | 787 | Laura McCarthey |
 | 235 | 777 | Barbra Miller |
-| 236 | 777 | Tesha Oldaker |
-| 237 | 777 | Jessicah Myers |
+| 236 | 777 | Jessicah Myers |
+| 237 | 777 | Tesha Oldaker |
 | 238 | 777 | Eric Carlson |
 | 239 | 774 | Wakanda Forever |
 | 240 | 772 | Stephen Stephen |
@@ -360,8 +360,8 @@
 | 352 | 562 | Ashley Lopez |
 | 353 | 561 | Traci Johnson |
 | 354 | 557 | Block Master |
-| 355 | 554 | Rachael Senard |
-| 356 | 554 | Santana Miyagi |
+| 355 | 554 | Santana Miyagi |
+| 356 | 554 | Rachael Senard |
 | 357 | 550 | Nashu |
 | 358 | 549 | Darcy Mae |
 | 359 | 549 | Kaylee McCafferty |
@@ -473,8 +473,8 @@
 | 465 | 451 | Cody Nishimura |
 | 466 | 451 | Dylan Thomason |
 | 467 | 450 | Cheery Matchzone |
-| 468 | 447 | Brandy Andre |
-| 469 | 447 | Jessica S Flecha |
+| 468 | 447 | Jessica S Flecha |
+| 469 | 447 | Brandy Andre |
 | 470 | 447 | Heather Schelkopf |
 | 471 | 446 | Snippy Rumbler |
 | 472 | 445 | Mar Q Thomas |
@@ -595,8 +595,8 @@
 | 587 | 375 | Cecilia A Jenkins |
 | 588 | 375 | Lively Edgepiece |
 | 589 | 375 | Wuntayk |
-| 590 | 373 | Hunter Connors |
-| 591 | 373 | Jessica Hughes |
+| 590 | 373 | Jessica Hughes |
+| 591 | 373 | Hunter Connors |
 | 592 | 373 | Ashley Marie |
 | 593 | 372 | Ebony Deloach Bryant |
 | 594 | 371 | Saucy Fitzone |
@@ -633,10 +633,10 @@
 | 625 | 358 | Veronics |
 | 626 | 357 | Shannon Byrd |
 | 627 | 357 | Tristan Szolek |
-| 628 | 355 | Amanda Perez |
-| 629 | 355 | Steve Man |
-| 630 | 354 | Rachel Kaminski |
-| 631 | 354 | Rickey Johnson |
+| 628 | 355 | Steve Man |
+| 629 | 355 | Amanda Perez |
+| 630 | 354 | Rickey Johnson |
+| 631 | 354 | Rachel Kaminski |
 | 632 | 352 | Rose Fx |
 | 633 | 352 | Jean FU Jagielski |
 | 634 | 352 | Mikayala Szaz |
@@ -681,8 +681,8 @@
 | 673 | 329 | Chummy Blockbuilder |
 | 674 | 329 | Jane Crew |
 | 675 | 329 | Snappy Shatterfit |
-| 676 | 328 | BabyBird |
-| 677 | 328 | Jamie Carter Bierce |
+| 676 | 328 | Jamie Carter Bierce |
+| 677 | 328 | BabyBird |
 | 678 | 326 | Sharon Mills |
 | 679 | 326 | Ann Knutson Anderson |
 | 680 | 326 | Angela Murgia-Owen |
@@ -745,8 +745,8 @@
 | 737 | 298 | Frilly Fallzone |
 | 738 | 298 | Ryan Stadel |
 | 739 | 298 | Lazy Riseclear |
-| 740 | 297 | Toni Lynn |
-| 741 | 297 | Frisky Patternline |
+| 740 | 297 | Frisky Patternline |
+| 741 | 297 | Toni Lynn |
 | 742 | 297 | Britney M. |
 | 743 | 297 | Ashley Robbins |
 | 744 | 296 | Jennifer Darby |
@@ -843,7 +843,7 @@
 | 835 | 262 | Taren Cowan |
 | 836 | 261 | Gina Justbeingme Chillis |
 | 837 | 261 | Dany Murillo |
-| 838 | 261 | Gina Justbeingme Chillis |
+| 838 | 261 | Gina Gina |
 | 839 | 261 | MrsClaudette Will'sIam Matthews |
 | 840 | 260 | Giggly Snap |
 | 841 | 260 | Lianne Giandalone LaBounty |
