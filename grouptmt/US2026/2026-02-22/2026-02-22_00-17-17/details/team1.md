@@ -211,15 +211,15 @@
 | 203 | 135 | Giddy Cascade |
 | 204 | 135 | Guest |
 | 205 | 134 | Brave Wrecker |
-| 206 | 133 | LD1 |
+| 206 | 133 | Fmp |
 | 207 | 133 | Kimberly Garcia |
-| 208 | 133 | Fmp |
+| 208 | 133 | LD1 |
 | 209 | 132 | Layzietyme |
 | 210 | 131 | Uhog SF |
 | 211 | 130 | Gilbert Ortiz Jr. |
 | 212 | 129 | Larry Tilton |
-| 213 | 128 | lil mickey |
-| 214 | 128 | Brenda Alexander |
+| 213 | 128 | Brenda Alexander |
+| 214 | 128 | lil mickey |
 | 215 | 127 | Cheeky Pop |
 | 216 | 127 | Lori Bales |
 | 217 | 126 | Tami Luce Martin |
@@ -382,10 +382,10 @@
 | 374 | 76 | Bird Person |
 | 375 | 76 | Jessie Welch |
 | 376 | 76 | Mary Love |
-| 377 | 75 | Evan Richmond |
-| 378 | 75 | Nathan William |
-| 379 | 75 | Amber Nixon |
-| 380 | 75 | Tiger Lily |
+| 377 | 75 | Amber Nixon |
+| 378 | 75 | Evan Richmond |
+| 379 | 75 | Tiger Lily |
+| 380 | 75 | Nathan William |
 | 381 | 75 | Plucky Wrecker |
 | 382 | 74 | Greg Hart |
 | 383 | 74 | Tedashi |

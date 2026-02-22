@@ -198,8 +198,8 @@
 | 190 | 692 | Wendy Harder Gage |
 | 191 | 690 | Deborah Miller |
 | 192 | 688 | Dreamy Blast |
-| 193 | 686 | Dannette Goldberg-Richards |
-| 194 | 686 | Ashley Guernsey-Martin |
+| 193 | 686 | Ashley Guernsey-Martin |
+| 194 | 686 | Dannette Goldberg-Richards |
 | 195 | 679 | Gold Rose |
 | 196 | 677 | Moni Foxe |
 | 197 | 676 | Ashie Ann |
@@ -339,8 +339,8 @@
 | 331 | 449 | Davetta Sanford |
 | 332 | 449 | Shelley Thornburgh Wright |
 | 333 | 448 | Jojo Momma |
-| 334 | 447 | Lourisha |
-| 335 | 447 | Heather Schelkopf |
+| 334 | 447 | Heather Schelkopf |
+| 335 | 447 | Lourisha |
 | 336 | 445 | Mar Q Thomas |
 | 337 | 443 | Joseph Musick |
 | 338 | 442 | Leah |
@@ -580,8 +580,8 @@
 | 572 | 277 | NickyBrooks |
 | 573 | 277 | Dapper Dasher |
 | 574 | 276 | Lindsey Leigh |
-| 575 | 276 | Vonceial Boone |
-| 576 | 276 | Loony Basepiece |
+| 575 | 276 | Loony Basepiece |
+| 576 | 276 | Vonceial Boone |
 | 577 | 276 | Patrick Bartlett |
 | 578 | 274 | Kacee Conrad Bock |
 | 579 | 274 | Robin L. Vial |

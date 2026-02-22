@@ -27,8 +27,8 @@
 | 19 | 1562 | Trezure Gonzalez |
 | 20 | 1554 | Ashley Kiara |
 | 21 | 1474 | Jennie Beranek |
-| 22 | 1470 | Shandrea Crawford |
-| 23 | 1470 | Zippy Strikesnap |
+| 22 | 1470 | Zippy Strikesnap |
+| 23 | 1470 | Shandrea Crawford |
 | 24 | 1460 | Briarblack |
 | 25 | 1402 | cowboy25469 |
 | 26 | 1297 | Shelby Michelle |
@@ -65,8 +65,8 @@
 | 57 | 696 | Judi Dobson |
 | 58 | 632 | Jamie Furr |
 | 59 | 628 | Tiff Vs Tiffany |
-| 60 | 621 | Ebony West-Cundiff |
-| 61 | 621 | Cherry Parker |
+| 60 | 621 | Cherry Parker |
+| 61 | 621 | Ebony West-Cundiff |
 | 62 | 620 | Elaine Webb Graves |
 | 63 | 618 | Brandon Green |
 | 64 | 618 | MissTaylor |
@@ -114,8 +114,8 @@
 | 106 | 400 | Luciana Braganca Vieira |
 | 107 | 397 | Mcathen |
 | 108 | 396 | Shannon Matthew Byers |
-| 109 | 394 | joclisa |
-| 110 | 394 | Annie Déè |
+| 109 | 394 | Annie Déè |
+| 110 | 394 | joclisa |
 | 111 | 392 | Michelle |
 | 112 | 391 | Calista Jo Dickson |
 | 113 | 390 | Patti Skiles |
@@ -124,11 +124,11 @@
 | 116 | 389 | Jessica Bechler |
 | 117 | 386 | Katie Knaus |
 | 118 | 383 | Jesse Olive |
-| 119 | 378 | Tasha Schriewer |
-| 120 | 378 | Makelini Mausia |
+| 119 | 378 | Makelini Mausia |
+| 120 | 378 | Tasha Schriewer |
 | 121 | 374 | Loopy Clusterer |
-| 122 | 368 | Stephanie Blkpep Davidson |
-| 123 | 368 | Stephanie Woods |
+| 122 | 368 | Stephanie Woods |
+| 123 | 368 | Stephanie Blkpep Davidson |
 | 124 | 367 | mjl574 |
 | 125 | 366 | Adrian Marcel Pate |
 | 126 | 355 | Tessina Dewey-Mancino |
@@ -203,8 +203,8 @@
 | 195 | 211 | Katrina Turner |
 | 196 | 210 | Michael Lucado |
 | 197 | 209 | Twisty Brick LT |
-| 198 | 207 | Chris Bell |
-| 199 | 207 | Jessica |
+| 198 | 207 | Jessica |
+| 199 | 207 | Chris Bell |
 | 200 | 205 | Sarah Moyer |
 | 201 | 204 | Danielle Allison |
 | 202 | 201 | Karon Griffin |
@@ -274,8 +274,8 @@
 | 266 | 157 | Samantha Lynn |
 | 267 | 155 | RickyG |
 | 268 | 154 | Desiree Gold |
-| 269 | 153 | Wetwet |
-| 270 | 153 | Sheila M Frazier |
+| 269 | 153 | Sheila M Frazier |
+| 270 | 153 | Wetwet |
 | 271 | 153 | Cozy Snaplink |
 | 272 | 152 | Shiny Zonebuilder |
 | 273 | 152 | Nora Rogers |
