@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Shelly Chandler |
-| 34 | 843 | Lucille Truesdale |
+| 33 | 843 | Lucille Truesdale |
+| 34 | 843 | Shelly Chandler |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -279,8 +279,8 @@
 | 271 | 147 | Adam Stephanie Parker |
 | 272 | 147 | Jay28 |
 | 273 | 146 | KimoKoala |
-| 274 | 145 | Mimi |
-| 275 | 145 | Sandra Safford |
+| 274 | 145 | Sandra Safford |
+| 275 | 145 | Mimi |
 | 276 | 144 | Sticherella |
 | 277 | 143 | Daresha Fair |
 | 278 | 143 | Asher |
@@ -339,8 +339,8 @@
 | 331 | 128 | Kristin MacDonald |
 | 332 | 128 | Elie Pean |
 | 333 | 127 | Robert Rodriguez |
-| 334 | 126 | PAPatty |
-| 335 | 126 | Cheryl Johnson |
+| 334 | 126 | Cheryl Johnson |
+| 335 | 126 | PAPatty |
 | 336 | 126 | icequeenx |
 | 337 | 125 | Steph Marie |
 | 338 | 125 | Ann G. Carrillo |
@@ -365,10 +365,10 @@
 | 357 | 116 | Bradley Reeves |
 | 358 | 116 | Kate |
 | 359 | 116 | Smiley Shifter |
-| 360 | 115 | Alexandra Karavias |
-| 361 | 115 | Kevin Bush |
-| 362 | 115 | Jayk |
-| 363 | 115 | Meg |
+| 360 | 115 | Kevin Bush |
+| 361 | 115 | Alexandra Karavias |
+| 362 | 115 | Meg |
+| 363 | 115 | Jayk |
 | 364 | 114 | Jason Frehner |
 | 365 | 113 | Stephanie Mico |
 | 366 | 113 | @ |
@@ -426,9 +426,9 @@
 | 418 | 98 | Hyper Builder |
 | 419 | 98 | Squeezy Pearsall |
 | 420 | 98 | Brenda Bird |
-| 421 | 97 | Serena Butter |
+| 421 | 97 | Brandon Crabbs |
 | 422 | 97 | Sharyn Lemire |
-| 423 | 97 | Brandon Crabbs |
+| 423 | 97 | Serena Butter |
 | 424 | 97 | Cool Gridzone |
 | 425 | 96 | Rebecca Blake |
 | 426 | 95 | Chirpy Slammer |

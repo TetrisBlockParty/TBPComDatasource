@@ -146,8 +146,8 @@
 | 138 | 449 | Danielle Rhoades |
 | 139 | 448 | Karon Griffin |
 | 140 | 445 | Shannon Matthew Byers |
-| 141 | 445 | Jacqueline Rodriguez |
-| 142 | 445 | Kristie McFarland |
+| 141 | 445 | Kristie McFarland |
+| 142 | 445 | Jacqueline Rodriguez |
 | 143 | 435 | Daryn Elliott |
 | 144 | 435 | Michelle |
 | 145 | 432 | Jenny Hrndz |
@@ -227,8 +227,8 @@
 | 219 | 296 | Brandon Givens |
 | 220 | 295 | Marci Mize Fandrich |
 | 221 | 289 | DidIdothat |
-| 222 | 289 | Hoppy Buildout |
-| 223 | 289 | Duane Bright |
+| 222 | 289 | Duane Bright |
+| 223 | 289 | Hoppy Buildout |
 | 224 | 286 | Cynthia Herrmann Egland |
 | 225 | 284 | Denise Nardoni |
 | 226 | 283 | Sarah Moyer |
@@ -262,8 +262,8 @@
 | 254 | 252 | Roary Danner |
 | 255 | 251 | Nikki Pags |
 | 256 | 250 | fraulila |
-| 257 | 249 | Annie Marie |
-| 258 | 249 | JerseyJess |
+| 257 | 249 | JerseyJess |
+| 258 | 249 | Annie Marie |
 | 259 | 246 | Peppy Shifter |
 | 260 | 245 | Latoya Mayne |
 | 261 | 244 | LaNette Morgan |
@@ -274,8 +274,8 @@
 | 266 | 235 | Brenda Schmid Wood |
 | 267 | 235 | Cozy Snaplink |
 | 268 | 234 | Connie Mohler-Fair |
-| 269 | 233 | Ray Lader |
-| 270 | 233 | Josh Borquez |
+| 269 | 233 | Josh Borquez |
+| 270 | 233 | Ray Lader |
 | 271 | 232 | Donna |
 | 272 | 227 | Krystal Gerstberger |
 | 273 | 227 | Meowsa |
@@ -290,11 +290,11 @@
 | 282 | 220 | Tosha Griffey |
 | 283 | 220 | rosy |
 | 284 | 218 | Michael Lucado |
-| 285 | 216 | Cheryl Hinch Tenbrook |
-| 286 | 216 | Twisty Brick LT |
+| 285 | 216 | Twisty Brick LT |
+| 286 | 216 | Cheryl Hinch Tenbrook |
 | 287 | 215 | IamJust Neyamijah Washington Sr. |
-| 288 | 214 | Angela Scott |
-| 289 | 214 | Amy Fuller Heaton |
+| 288 | 214 | Amy Fuller Heaton |
+| 289 | 214 | Angela Scott |
 | 290 | 214 | Rebel124 |
 | 291 | 213 | Nicholas Roddy |
 | 292 | 212 | Sunny Rotater |
@@ -411,7 +411,7 @@
 | 403 | 151 | Sarah Cowan Burgos |
 | 404 | 150 | Sassy Brickmatch |
 | 405 | 149 | Arden White Kirsch |
-| 406 | 149 | Frothy Snapper |
+| 406 | 149 | Wacky Crasher |
 | 407 | 149 | Alexis Taylor |
 | 408 | 149 | Frothy Snapper |
 | 409 | 148 | Erykah |
@@ -657,7 +657,7 @@
 | 649 | 96 | Swanky Snapclear |
 | 650 | 96 | Mainhia Thao |
 | 651 | 96 | Kelly |
-| 652 | 96 | Swanky Snapclear |
+| 652 | 96 | Jason |
 | 653 | 96 | D3NO |
 | 654 | 95 | BingoStarr |
 | 655 | 95 | Chilly Pop |
