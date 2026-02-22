@@ -53,8 +53,8 @@
 | 45 | 671 | Lawrence Belanger |
 | 46 | 663 | Drew Magnus |
 | 47 | 646 | Susanna Guerry |
-| 48 | 635 | Marianne Louise West |
-| 49 | 635 | Angel Fowler |
+| 48 | 635 | Angel Fowler |
+| 49 | 635 | Marianne Louise West |
 | 50 | 631 | comrade fish |
 | 51 | 621 | Katie Daniels |
 | 52 | 614 | Snappy Swiper |
@@ -110,8 +110,8 @@
 | 102 | 342 | Brenda Stewart |
 | 103 | 341 | Nick R Montague |
 | 104 | 333 | Brandi Huntington |
-| 105 | 332 | Luciano Moreira |
-| 106 | 332 | Kristen Gideon |
+| 105 | 332 | Kristen Gideon |
+| 106 | 332 | Luciano Moreira |
 | 107 | 330 | Sweet Baker |
 | 108 | 329 | Shauna Loe |
 | 109 | 328 | Gracie |
@@ -168,18 +168,18 @@
 | 160 | 230 | Billie Dawn Sparks |
 | 161 | 230 | Frothy Pattern |
 | 162 | 229 | David Lutcher |
-| 163 | 226 | Kandae |
-| 164 | 226 | Sleepysloath5745 |
+| 163 | 226 | Sleepysloath5745 |
+| 164 | 226 | Kandae |
 | 165 | 224 | Dizzy Party |
 | 166 | 218 | LC |
 | 167 | 217 | ParisandCory Champagne |
-| 168 | 216 | MRdot Rooski |
-| 169 | 216 | Shauntina Burke |
+| 168 | 216 | Shauntina Burke |
+| 169 | 216 | MRdot Rooski |
 | 170 | 215 | Sam Williams |
 | 171 | 213 | Daring Fitclear |
 | 172 | 212 | Jaimie Lynn |
-| 173 | 211 | Marianita Garcia |
-| 174 | 211 | Kimberly Garcia |
+| 173 | 211 | Kimberly Garcia |
+| 174 | 211 | Marianita Garcia |
 | 175 | 210 | Giggly Builderline |
 | 176 | 210 | Letson Melissa |
 | 177 | 209 | Debbie Davis |
@@ -310,8 +310,8 @@
 | 302 | 127 | Danielle Mae |
 | 303 | 127 | Lynn Adams |
 | 304 | 126 | Zany Tiler |
-| 305 | 125 | Angela Spann |
-| 306 | 125 | Melissa Bires Hussar |
+| 305 | 125 | Melissa Bires Hussar |
+| 306 | 125 | Angela Spann |
 | 307 | 125 | Matt Iaccheo |
 | 308 | 124 | Chris K |
 | 309 | 124 | DoodleBug |

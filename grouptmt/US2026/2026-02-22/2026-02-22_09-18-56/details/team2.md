@@ -308,8 +308,8 @@
 | 300 | 672 | Danielle Simmons |
 | 301 | 669 | Charvi' Carter |
 | 302 | 666 | Speedy Spinblock |
-| 303 | 663 | Mandi Douglas Hilt |
-| 304 | 663 | Ashle Scranton |
+| 303 | 663 | Ashle Scranton |
+| 304 | 663 | Mandi Douglas Hilt |
 | 305 | 661 | Ginger |
 | 306 | 661 | Hyper Cluster |
 | 307 | 659 | Roseanna Peloso |
@@ -354,10 +354,10 @@
 | 346 | 584 | Ginnell Browner |
 | 347 | 582 | Gary Stash |
 | 348 | 581 | Jerry Tempelmeyer |
-| 349 | 579 | Jackie Avila |
-| 350 | 579 | AgileDragon |
-| 351 | 579 | Roy Salyer |
-| 352 | 579 | Juliana Marques Do Nascimento Gordy |
+| 349 | 579 | AgileDragon |
+| 350 | 579 | Jackie Avila |
+| 351 | 579 | Juliana Marques Do Nascimento Gordy |
+| 352 | 579 | Roy Salyer |
 | 353 | 576 | Leslie Johnson Guinto |
 | 354 | 572 | Chris Wanner |
 | 355 | 569 | Vaniel Glover |
@@ -724,8 +724,8 @@
 | 716 | 311 | Megan Phillips |
 | 717 | 310 | Wendy Ducheney |
 | 718 | 310 | Cheeky Brickmatch |
-| 719 | 310 | Audra Williams |
-| 720 | 310 | Beth Decker |
+| 719 | 310 | Beth Decker |
+| 720 | 310 | Audra Williams |
 | 721 | 309 | Byung Bae Park |
 | 722 | 308 | Prado |
 | 723 | 308 | Hyper Riseclear |
@@ -742,8 +742,8 @@
 | 734 | 304 | James Smith |
 | 735 | 304 | Melissa McCall |
 | 736 | 303 | Angie Marie |
-| 737 | 303 | Devin |
-| 738 | 303 | Amanda Schaffer |
+| 737 | 303 | Amanda Schaffer |
+| 738 | 303 | Devin |
 | 739 | 302 | Kena T. Tanner |
 | 740 | 302 | Maxwell Escalera |
 | 741 | 300 | Alice Ball |
@@ -758,8 +758,8 @@
 | 750 | 297 | Ashley Robbins |
 | 751 | 297 | Britney M. |
 | 752 | 296 | Frisky Riserbuilder |
-| 753 | 296 | Epic Fitzone |
-| 754 | 296 | Zappy Dropmatch |
+| 753 | 296 | Zappy Dropmatch |
+| 754 | 296 | Epic Fitzone |
 | 755 | 296 | Jennifer Darby |
 | 756 | 295 | Noel Tarmy |
 | 757 | 294 | Amanda Edwards |
@@ -773,16 +773,16 @@
 | 765 | 289 | August Hale |
 | 766 | 289 | Tash Bell |
 | 767 | 288 | Ashley Criner |
-| 768 | 288 | Samantha Angelo |
-| 769 | 288 | Jenna Nance |
+| 768 | 288 | Jenna Nance |
+| 769 | 288 | Samantha Angelo |
 | 770 | 288 | thranduil |
 | 771 | 287 | N00D3S |
 | 772 | 287 | Epic Stackzone |
 | 773 | 287 | Toni Roberson |
 | 774 | 286 | Kelsey Sullivan |
 | 775 | 285 | Kimberly Mitchell |
-| 776 | 285 | Epic Stackbuilder |
-| 777 | 285 | Court |
+| 776 | 285 | Court |
+| 777 | 285 | Epic Stackbuilder |
 | 778 | 284 | Hillary Franklin |
 | 779 | 282 | Nutty Slice |
 | 780 | 282 | Maria Hammett |
@@ -1101,8 +1101,8 @@
 | 1093 | 205 | Ashley McCarthy-Arnone |
 | 1094 | 205 | Tiffney Wroten |
 | 1095 | 205 | Desiree Hargrove Moore |
-| 1096 | 204 | Ali Gralski |
-| 1097 | 204 | Lakeela Wise |
+| 1096 | 204 | Lakeela Wise |
+| 1097 | 204 | Ali Gralski |
 | 1098 | 204 | Edralin Custodio |
 | 1099 | 203 | Gema Garcia |
 | 1100 | 202 | BIG BABY |

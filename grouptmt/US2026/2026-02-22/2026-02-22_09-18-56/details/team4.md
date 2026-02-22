@@ -49,21 +49,21 @@
 | 41 | 757 | Ancient Intuition |
 | 42 | 736 | Goatimus Lombardi |
 | 43 | 734 | BertMofo |
-| 44 | 707 | Rachel Anne |
-| 45 | 707 | Clarence Patawaran |
+| 44 | 707 | Clarence Patawaran |
+| 45 | 707 | Rachel Anne |
 | 46 | 704 | Crystal Carroll |
 | 47 | 697 | Edward White |
 | 48 | 695 | LisaJo Picken Buchanan |
 | 49 | 677 | Anthony Bryan Riva |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Jonathan Kimbrough |
-| 52 | 659 | Rebecca Moulton Pinciaro |
+| 51 | 659 | Rebecca Moulton Pinciaro |
+| 52 | 659 | Jonathan Kimbrough |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Kimyatta Cavin |
-| 58 | 636 | Dustee Craddock-Harrison |
+| 57 | 636 | Dustee Craddock-Harrison |
+| 58 | 636 | Kimyatta Cavin |
 | 59 | 623 | Robin Getchel |
 | 60 | 599 | Brittney Griggs |
 | 61 | 593 | Lisa Davis |
@@ -99,8 +99,8 @@
 | 91 | 407 | Leslie Thomas |
 | 92 | 404 | Courtney Cicoria |
 | 93 | 401 | Zippy Gridlock |
-| 94 | 396 | Alicia Bass |
-| 95 | 396 | Amy Suckarieh |
+| 94 | 396 | Amy Suckarieh |
+| 95 | 396 | Alicia Bass |
 | 96 | 392 | Ericca Eldridge |
 | 97 | 391 | Ramel Rhodes |
 | 98 | 390 | Carlton Unfiltered |
@@ -184,8 +184,8 @@
 | 176 | 204 | Jen Caldwell |
 | 177 | 203 | Katherine Crane |
 | 178 | 202 | TRCuse |
-| 179 | 201 | Chance Strickland |
-| 180 | 201 | Melvin Baird |
+| 179 | 201 | Melvin Baird |
+| 180 | 201 | Chance Strickland |
 | 181 | 201 | Bio Nelly |
 | 182 | 200 | Laura |
 | 183 | 199 | Zethra Prenisha Rahming |
