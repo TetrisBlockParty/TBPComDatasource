@@ -114,8 +114,8 @@
 | 106 | 271 | Sarah Brown |
 | 107 | 268 | Meagan Nicole |
 | 108 | 264 | Dana Scott |
-| 109 | 264 | Epic Curvetile |
-| 110 | 264 | Girl |
+| 109 | 264 | Girl |
+| 110 | 264 | Epic Curvetile |
 | 111 | 262 | Monica Daley |
 | 112 | 258 | Brittney Orengo |
 | 113 | 257 | Holly Jolly |
@@ -147,8 +147,8 @@
 | 139 | 211 | Twisty Cascadezone |
 | 140 | 211 | Jenna McGeorge |
 | 141 | 210 | Swanky Fitline |
-| 142 | 205 | Sarah Neathery |
-| 143 | 205 | Tyler Terrific |
+| 142 | 205 | Tyler Terrific |
+| 143 | 205 | Sarah Neathery |
 | 144 | 204 | Jen Caldwell |
 | 145 | 203 | Katherine Crane |
 | 146 | 201 | Melvin Baird |

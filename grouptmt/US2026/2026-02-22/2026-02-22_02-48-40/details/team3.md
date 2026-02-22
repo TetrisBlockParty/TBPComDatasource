@@ -194,8 +194,8 @@
 | 186 | 260 | Grams |
 | 187 | 258 | Tamara Deherrera |
 | 188 | 257 | Ashley Jones |
-| 189 | 256 | Tiffany Davie |
-| 190 | 256 | KayB |
+| 189 | 256 | KayB |
+| 190 | 256 | Tiffany Davie |
 | 191 | 256 | Brenda Lee Vander Molen |
 | 192 | 255 | Scott Lindsay |
 | 193 | 254 | Duane Bright |
@@ -258,8 +258,8 @@
 | 250 | 191 | Scott Carleton |
 | 251 | 190 | Saucy Buildout |
 | 252 | 189 | Katie Leigh Blankenship |
-| 253 | 188 | Loopy Fallmatch |
-| 254 | 188 | AlsoJess |
+| 253 | 188 | AlsoJess |
+| 254 | 188 | Loopy Fallmatch |
 | 255 | 184 | Troy |
 | 256 | 184 | France Vézina |
 | 257 | 182 | Carrie Huskey |

@@ -141,8 +141,8 @@
 | 133 | 216 | MRdot Rooski |
 | 134 | 216 | Shauntina Burke |
 | 135 | 214 | GATOR |
-| 136 | 212 | Jaimie Lynn |
-| 137 | 212 | Lori Bales |
+| 136 | 212 | Lori Bales |
+| 137 | 212 | Jaimie Lynn |
 | 138 | 211 | Marianita Garcia |
 | 139 | 208 | Giggly Builderline |
 | 140 | 207 | Leslie Bush Yarbrough |

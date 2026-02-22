@@ -285,8 +285,8 @@
 | 277 | 576 | Ginger |
 | 278 | 572 | tejas25 |
 | 279 | 571 | Angela Bonquiqui Dinish |
-| 280 | 569 | Marie Walker |
-| 281 | 569 | Vaniel Glover |
+| 280 | 569 | Vaniel Glover |
+| 281 | 569 | Marie Walker |
 | 282 | 557 | Scott Treadway |
 | 283 | 556 | Trista Dumais |
 | 284 | 555 | Catina Hutchison |
