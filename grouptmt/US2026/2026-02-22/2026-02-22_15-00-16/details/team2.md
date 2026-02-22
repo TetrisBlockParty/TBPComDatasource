@@ -110,8 +110,8 @@
 | 102 | 1564 | Charie Holland |
 | 103 | 1535 | Donnie Hunt |
 | 104 | 1534 | Loopy Clusterbuilder |
-| 105 | 1516 | Stephen Stephen |
-| 106 | 1516 | Mindy Leigh Head |
+| 105 | 1516 | Mindy Leigh Head |
+| 106 | 1516 | Stephen Stephen |
 | 107 | 1513 | blackq |
 | 108 | 1507 | Stephanie Chapman |
 | 109 | 1507 | Linda Pierce |
@@ -247,8 +247,8 @@
 | 239 | 860 | John Bednarik |
 | 240 | 857 | Della Hole |
 | 241 | 855 | F-X |
-| 242 | 853 | Maria Escobar |
-| 243 | 853 | Meghan M |
+| 242 | 853 | Meghan M |
+| 243 | 853 | Maria Escobar |
 | 244 | 850 | Missie Lawson Gebhardt |
 | 245 | 837 | Ashley Rose Frederick |
 | 246 | 835 | Katrina Weston |
@@ -327,8 +327,8 @@
 | 319 | 688 | ShinyRose |
 | 320 | 687 | Dee |
 | 321 | 686 | Ashley Guernsey-Martin |
-| 322 | 685 | Brenda Pierpoint |
-| 323 | 685 | Binyah-Binyah |
+| 322 | 685 | Binyah-Binyah |
+| 323 | 685 | Brenda Pierpoint |
 | 324 | 682 | Poldo Ilano |
 | 325 | 681 | Melissa Holsinger |
 | 326 | 680 | Glitzy Stackzone |
@@ -341,11 +341,11 @@
 | 333 | 665 | Leslie Ann Carter |
 | 334 | 665 | Prette Qui |
 | 335 | 664 | Sleepypanda67 |
-| 336 | 663 | Ashle Scranton |
-| 337 | 663 | Mandi Douglas Hilt |
+| 336 | 663 | Mandi Douglas Hilt |
+| 337 | 663 | Ashle Scranton |
 | 338 | 662 | Melissa Rebbe-Lehman |
-| 339 | 661 | goofinoff |
-| 340 | 661 | BeQuo |
+| 339 | 661 | BeQuo |
+| 340 | 661 | goofinoff |
 | 341 | 659 | Draizen Montrell Thomas |
 | 342 | 651 | Unica Rector |
 | 343 | 650 | Shiny Rollzone |
@@ -354,8 +354,8 @@
 | 346 | 640 | BYM4L |
 | 347 | 640 | Kara Gillen |
 | 348 | 639 | Crystie Hicks |
-| 349 | 639 | Jelly |
-| 350 | 639 | Rebecca Miller |
+| 349 | 639 | Rebecca Miller |
+| 350 | 639 | Jelly |
 | 351 | 635 | Diana Fitzwater |
 | 352 | 631 | Dylan Thomason |
 | 353 | 631 | Marie Walker |
@@ -418,14 +418,14 @@
 | 410 | 544 | Desiree Anderson |
 | 411 | 544 | Deidre Shaffer |
 | 412 | 544 | Leah Keesling |
-| 413 | 543 | Julie Kresal |
-| 414 | 543 | Vanessa Moreno |
+| 413 | 543 | Vanessa Moreno |
+| 414 | 543 | Julie Kresal |
 | 415 | 541 | g |
 | 416 | 540 | Dizzy Zone |
 | 417 | 539 | Dapper Dasher |
 | 418 | 538 | Tra Barnum |
-| 419 | 536 | Shaun Church |
-| 420 | 536 | Caitlin Schmid |
+| 419 | 536 | Caitlin Schmid |
+| 420 | 536 | Shaun Church |
 | 421 | 536 | Cassie Mercer |
 | 422 | 535 | Paul Huber |
 | 423 | 534 | Kenny Alvarado |
@@ -537,11 +537,11 @@
 | 529 | 447 | Besma Ao |
 | 530 | 447 | Jessica S Flecha |
 | 531 | 445 | Sharon Mills |
-| 532 | 445 | Elisheva Mizrachi |
-| 533 | 445 | Mar Q Thomas |
-| 534 | 444 | Ryan Meilleur |
-| 535 | 444 | Alexandra Weir |
-| 536 | 444 | Fi Ne |
+| 532 | 445 | Mar Q Thomas |
+| 533 | 445 | Elisheva Mizrachi |
+| 534 | 444 | Fi Ne |
+| 535 | 444 | Ryan Meilleur |
+| 536 | 444 | Alexandra Weir |
 | 537 | 444 | Chab |
 | 538 | 443 | Christy Long |
 | 539 | 442 | Darlene Bowman |
@@ -1056,8 +1056,8 @@
 | 1048 | 234 | Lonnie Brown |
 | 1049 | 234 | Joanna L. Abad |
 | 1050 | 234 | Jannan Haimour |
-| 1051 | 233 | Allison Hewitt |
-| 1052 | 233 | ItsJennifer Neriss |
+| 1051 | 233 | ItsJennifer Neriss |
+| 1052 | 233 | Allison Hewitt |
 | 1053 | 233 | Jessica Sutter |
 | 1054 | 233 | Nerdy Riserfit |
 | 1055 | 233 | ZenZanny |

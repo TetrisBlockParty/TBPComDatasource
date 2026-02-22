@@ -114,8 +114,8 @@
 | 106 | 568 | Rachael McClain Owens |
 | 107 | 566 | Dolores Falco |
 | 108 | 565 | Patty Allen |
-| 109 | 562 | Louise Stacy Sisson |
-| 110 | 562 | Dave Herzog |
+| 109 | 562 | Dave Herzog |
+| 110 | 562 | Louise Stacy Sisson |
 | 111 | 559 | Morgan Martinez |
 | 112 | 552 | Keith J Oshman Jr. |
 | 113 | 551 | Kristie |
@@ -136,8 +136,8 @@
 | 128 | 492 | Daira Largen |
 | 129 | 491 | Chauntee Alfrey-Cardinale |
 | 130 | 480 | Stephanie Blkpep Davidson |
-| 131 | 479 | Poppy Splitter |
-| 132 | 479 | Patti Skiles |
+| 131 | 479 | Patti Skiles |
+| 132 | 479 | Poppy Splitter |
 | 133 | 478 | CeceGeGe |
 | 134 | 473 | mzcatzy |
 | 135 | 471 | Mendoza Lee Christy |
@@ -151,8 +151,8 @@
 | 143 | 449 | Danielle Rhoades |
 | 144 | 448 | Karon Griffin |
 | 145 | 445 | Shannon Matthew Byers |
-| 146 | 445 | Jacqueline Rodriguez |
-| 147 | 445 | Kristie McFarland |
+| 146 | 445 | Kristie McFarland |
+| 147 | 445 | Jacqueline Rodriguez |
 | 148 | 439 | Michelle |
 | 149 | 434 | Logan Naccarato |
 | 150 | 432 | Jenny Hrndz |
@@ -286,16 +286,16 @@
 | 278 | 239 | Michael Johnson |
 | 279 | 238 | LaTanya GeminiondaRise Johnson |
 | 280 | 236 | Angela Scott |
-| 281 | 236 | Jess Bissett |
-| 282 | 236 | Lys |
+| 281 | 236 | Lys |
+| 282 | 236 | Jess Bissett |
 | 283 | 235 | Cozy Snaplink |
 | 284 | 233 | Ray Lader |
 | 285 | 233 | Josh Borquez |
 | 286 | 232 | Donna |
 | 287 | 227 | Krystal Gerstberger |
 | 288 | 227 | Meowsa |
-| 289 | 225 | Stephanie Hill |
-| 290 | 225 | Dirtgirl27 |
+| 289 | 225 | Dirtgirl27 |
+| 290 | 225 | Stephanie Hill |
 | 291 | 225 | Steffi Chris Dacones |
 | 292 | 223 | Michael Lucado |
 | 293 | 221 | Jaime Monhaut-Reed |
@@ -469,8 +469,8 @@
 | 461 | 142 | Gray Hicks |
 | 462 | 142 | Cheery Brickster |
 | 463 | 142 | Jl |
-| 464 | 141 | Bhreagh Gentile |
-| 465 | 141 | Jen Lewis |
+| 464 | 141 | Jen Lewis |
+| 465 | 141 | Bhreagh Gentile |
 | 466 | 141 | Heather Bateman |
 | 467 | 141 | Reina Roth |
 | 468 | 141 | Tipsy Puzzle |

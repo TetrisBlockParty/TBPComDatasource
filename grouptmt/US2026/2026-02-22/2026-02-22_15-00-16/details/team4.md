@@ -16,8 +16,8 @@
 | 8 | 1835 | East Mamba |
 | 9 | 1775 | Ash |
 | 10 | 1676 | Ayanna Soto |
-| 11 | 1447 | GreenJeepGirl |
-| 12 | 1447 | Juggalo |
+| 11 | 1447 | Juggalo |
+| 12 | 1447 | GreenJeepGirl |
 | 13 | 1318 | Cassie Michaux |
 | 14 | 1284 | Roger Coulter |
 | 15 | 1132 | Jayna Anoc |
