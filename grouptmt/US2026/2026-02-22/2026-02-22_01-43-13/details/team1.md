@@ -81,14 +81,14 @@
 | 73 | 348 | Stef Hu |
 | 74 | 347 | pjbeta |
 | 75 | 342 | Dee Perry |
-| 76 | 338 | Stephanie Zahn |
-| 77 | 338 | Tipsy Strikerpiece |
+| 76 | 338 | Tipsy Strikerpiece |
+| 77 | 338 | Stephanie Zahn |
 | 78 | 333 | Brandi Huntington |
 | 79 | 329 | Luciano Moreira |
-| 80 | 328 | Gracie |
-| 81 | 328 | Kellie |
-| 82 | 323 | Candy Jones |
-| 83 | 323 | Sweet Baker |
+| 80 | 328 | Kellie |
+| 81 | 328 | Gracie |
+| 82 | 323 | Sweet Baker |
+| 83 | 323 | Candy Jones |
 | 84 | 321 | Maria C. Hernandez |
 | 85 | 319 | Deanna L Hermanson |
 | 86 | 319 | Shauna Loe |
@@ -139,8 +139,8 @@
 | 131 | 211 | Marianita Garcia |
 | 132 | 208 | Giggly Builderline |
 | 133 | 207 | Leslie Bush Yarbrough |
-| 134 | 203 | Paula Martin |
-| 135 | 203 | GATOR |
+| 134 | 203 | GATOR |
+| 135 | 203 | Paula Martin |
 | 136 | 199 | Jennifer Hardman |
 | 137 | 198 | Greg Hart |
 | 138 | 198 | Shiny Gridmatch |
@@ -197,13 +197,13 @@
 | 189 | 159 | Bindi |
 | 190 | 158 | Sarah Marie |
 | 191 | 157 | Angela Fairbank |
-| 192 | 154 | Christy Jones |
-| 193 | 154 | Melissa Lemmon |
+| 192 | 154 | Melissa Lemmon |
+| 193 | 154 | Christy Jones |
 | 194 | 153 | Barry Mac'Ockner |
 | 195 | 152 | Speedy Snapfall |
 | 196 | 150 | Adele Rahman |
-| 197 | 147 | DaRascal |
-| 198 | 147 | Davery Spencer Adair |
+| 197 | 147 | Davery Spencer Adair |
+| 198 | 147 | DaRascal |
 | 199 | 146 | Brave Wrecker |
 | 200 | 145 | Agustin Duarte Orozco |
 | 201 | 144 | Cranky Pattern |

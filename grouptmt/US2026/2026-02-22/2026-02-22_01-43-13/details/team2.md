@@ -394,8 +394,8 @@
 | 386 | 414 | John |
 | 387 | 414 | Emily Lyric Converse |
 | 388 | 413 | Brandy Andre |
-| 389 | 411 | Kristen O'Neal |
-| 390 | 411 | Ricky Fortune |
+| 389 | 411 | Ricky Fortune |
+| 390 | 411 | Kristen O'Neal |
 | 391 | 406 | Erin StFrancis |
 | 392 | 406 | Julie Kresal |
 | 393 | 406 | Véronique Lévesque Sabourin |
@@ -475,8 +475,8 @@
 | 467 | 350 | Traci Johnson |
 | 468 | 350 | Fi Ne |
 | 469 | 348 | Richard Horton |
-| 470 | 347 | Cheyenne Donovan |
-| 471 | 347 | Zesty Pivot |
+| 470 | 347 | Zesty Pivot |
+| 471 | 347 | Cheyenne Donovan |
 | 472 | 346 | Morgan Easter |
 | 473 | 346 | Nicole Cannon |
 | 474 | 346 | Lewis Sturgeon |
