@@ -49,8 +49,8 @@
 | 41 | 757 | Ancient Intuition |
 | 42 | 747 | BertMofo |
 | 43 | 736 | Goatimus Lombardi |
-| 44 | 707 | Rachel Anne |
-| 45 | 707 | Clarence Patawaran |
+| 44 | 707 | Clarence Patawaran |
+| 45 | 707 | Rachel Anne |
 | 46 | 704 | Crystal Carroll |
 | 47 | 698 | Anthony Bryan Riva |
 | 48 | 697 | Edward White |
@@ -62,8 +62,8 @@
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Dustee Craddock-Harrison |
-| 58 | 636 | Kimyatta Cavin |
+| 57 | 636 | Kimyatta Cavin |
+| 58 | 636 | Dustee Craddock-Harrison |
 | 59 | 623 | Robin Getchel |
 | 60 | 599 | Brittney Griggs |
 | 61 | 593 | Lisa Davis |
@@ -83,8 +83,8 @@
 | 75 | 512 | Casey Jeffcoat |
 | 76 | 511 | Michelle Marie |
 | 77 | 500 | Rodney McMath Jr. |
-| 78 | 486 | Landon Keith Graffeo |
-| 79 | 486 | Carmethia Clemons Haslerig |
+| 78 | 486 | Carmethia Clemons Haslerig |
+| 79 | 486 | Landon Keith Graffeo |
 | 80 | 485 | TeeJ |
 | 81 | 468 | Shane Kalamata Platoon |
 | 82 | 447 | Samantha Peterson |
@@ -102,8 +102,8 @@
 | 94 | 404 | Courtney Cicoria |
 | 95 | 403 | shar |
 | 96 | 401 | Zippy Gridlock |
-| 97 | 396 | Amy Suckarieh |
-| 98 | 396 | Alicia Bass |
+| 97 | 396 | Alicia Bass |
+| 98 | 396 | Amy Suckarieh |
 | 99 | 392 | Ericca Eldridge |
 | 100 | 391 | Ramel Rhodes |
 | 101 | 390 | Carlton Unfiltered |
@@ -186,12 +186,12 @@
 | 178 | 210 | Zethra Prenisha Rahming |
 | 179 | 207 | Chirpy Basepiece |
 | 180 | 205 | Kathy Brookins |
-| 181 | 204 | Jen Caldwell |
-| 182 | 204 | Carlos Ramirez |
+| 181 | 204 | Carlos Ramirez |
+| 182 | 204 | Jen Caldwell |
 | 183 | 203 | Katherine Crane |
 | 184 | 202 | TRCuse |
-| 185 | 201 | Melvin Baird |
-| 186 | 201 | Chance Strickland |
+| 185 | 201 | Chance Strickland |
+| 186 | 201 | Melvin Baird |
 | 187 | 200 | Laura |
 | 188 | 198 | Keith Kelley |
 | 189 | 198 | Ruben Wheeler |
@@ -252,8 +252,8 @@
 | 244 | 155 | AyeKay |
 | 245 | 154 | Zany Shatterer |
 | 246 | 153 | Empress Oasis |
-| 247 | 152 | Austin Owens |
-| 248 | 152 | Faja |
+| 247 | 152 | Faja |
+| 248 | 152 | Austin Owens |
 | 249 | 151 | Joseph Pace |
 | 250 | 149 | Shainne Brewer |
 | 251 | 149 | DonMega |
@@ -443,8 +443,8 @@
 | 435 | 91 | Kametsunoyaiba |
 | 436 | 90 | Thomas Hettenhaus |
 | 437 | 90 | Carol Ricks Raymond |
-| 438 | 90 | June Hoffman |
-| 439 | 90 | Abigail Murphy |
+| 438 | 90 | Abigail Murphy |
+| 439 | 90 | June Hoffman |
 | 440 | 90 | tipsy tiger |
 | 441 | 89 | Moonsterix |
 | 442 | 89 | Susan Williams |
@@ -460,8 +460,8 @@
 | 452 | 87 | Derek Pendarvis |
 | 453 | 87 | Martha Lucinda Bishop |
 | 454 | 87 | Grann8 |
-| 455 | 86 | Destiney Carter |
-| 456 | 86 | Tamika Starkey |
+| 455 | 86 | Tamika Starkey |
+| 456 | 86 | Destiney Carter |
 | 457 | 86 | amy |
 | 458 | 85 | Jackie Clark |
 | 459 | 85 | Zippy Block |
@@ -656,8 +656,8 @@
 | 648 | 59 | Mitchell Everhart |
 | 649 | 59 | Kujuanna Hammon |
 | 650 | 58 | Chao Ma |
-| 651 | 58 | JEan Price |
-| 652 | 58 | Tipsy Cascader |
+| 651 | 58 | Tipsy Cascader |
+| 652 | 58 | JEan Price |
 | 653 | 58 | Garrett G-luv Kyser |
 | 654 | 58 | Richard Campbell II |
 | 655 | 58 | Bold Matcher |

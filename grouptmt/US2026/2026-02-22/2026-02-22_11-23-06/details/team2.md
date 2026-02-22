@@ -211,8 +211,8 @@
 | 203 | 919 | Isaac Trappiel IV |
 | 204 | 916 | Butta |
 | 205 | 915 | Kelly Trent |
-| 206 | 910 | Crystal Hoffman |
-| 207 | 910 | Shuany Arias |
+| 206 | 910 | Shuany Arias |
+| 207 | 910 | Crystal Hoffman |
 | 208 | 907 | Gene Mills |
 | 209 | 901 | Jennifer Peachey |
 | 210 | 894 | Auntie B |
@@ -250,9 +250,9 @@
 | 242 | 800 | Danielle Johnson-Chandler |
 | 243 | 787 | Laura McCarthey |
 | 244 | 783 | Lisa Ongtowasruk |
-| 245 | 777 | Jessicah Myers |
+| 245 | 777 | Barbra Miller |
 | 246 | 777 | Tesha Oldaker |
-| 247 | 777 | Barbra Miller |
+| 247 | 777 | Jessicah Myers |
 | 248 | 777 | Eric Carlson |
 | 249 | 772 | William Hunt |
 | 250 | 772 | Sam Joe |
@@ -598,8 +598,8 @@
 | 590 | 387 | Misti Markijohn |
 | 591 | 386 | Wuntayk |
 | 592 | 385 | Tansaria Couch-Butler |
-| 593 | 384 | Party d |
-| 594 | 384 | Kelly |
+| 593 | 384 | Kelly |
+| 594 | 384 | Party d |
 | 595 | 383 | Jessica Conaway |
 | 596 | 383 | Belle Mari |
 | 597 | 382 | David Holliday |
@@ -1179,7 +1179,7 @@
 | 1171 | 194 | Hyper Gridroll |
 | 1172 | 193 | Spunky Dash |
 | 1173 | 193 | Kristen Casale Berry |
-| 1174 | 193 | TJ Nash |
+| 1174 | 193 | Lynn Johnson |
 | 1175 | 193 | Ronnie Nelson |
 | 1176 | 193 | TJ Nash |
 | 1177 | 193 | Marshall Charron |
@@ -1195,16 +1195,16 @@
 | 1187 | 191 | Val Pal |
 | 1188 | 191 | Cherry |
 | 1189 | 191 | Netty |
-| 1190 | 190 | Andrew Bratton-Tomes |
-| 1191 | 190 | Blaine Birchem |
-| 1192 | 190 | Lucero Ramirez |
+| 1190 | 190 | Blaine Birchem |
+| 1191 | 190 | Lucero Ramirez |
+| 1192 | 190 | Andrew Bratton-Tomes |
 | 1193 | 190 | Jessica Kaye DeAguero |
 | 1194 | 190 | Lola |
 | 1195 | 190 | LaFaye Rivers |
 | 1196 | 190 | Jacob Huffman |
 | 1197 | 190 | Martina Gabrielle LaPolla |
-| 1198 | 190 | Katie Marie |
-| 1199 | 190 | Miyah Erraina |
+| 1198 | 190 | Miyah Erraina |
+| 1199 | 190 | Katie Marie |
 | 1200 | 189 | Meme Didit |
 | 1201 | 189 | Hazel Spears |
 | 1202 | 189 | Sharon Crawford |
