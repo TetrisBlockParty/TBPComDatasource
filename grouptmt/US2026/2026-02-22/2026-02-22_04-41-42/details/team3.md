@@ -109,8 +109,8 @@
 | 101 | 506 | Sashay Tapae Simpson |
 | 102 | 503 | Susan Valentino |
 | 103 | 502 | Justin Ritter |
-| 104 | 500 | Kristie |
-| 105 | 500 | Domo Washington |
+| 104 | 500 | Domo Washington |
+| 105 | 500 | Kristie |
 | 106 | 497 | Mykal Burton |
 | 107 | 492 | Daira Largen |
 | 108 | 491 | Chauntee Alfrey-Cardinale |
@@ -120,8 +120,8 @@
 | 112 | 479 | Poppy Splitter |
 | 113 | 471 | Mendoza Lee Christy |
 | 114 | 469 | Patricia White |
-| 115 | 459 | Nerdy Riseclear |
-| 116 | 459 | mjl574 |
+| 115 | 459 | mjl574 |
+| 116 | 459 | Nerdy Riseclear |
 | 117 | 453 | Silly Twist |
 | 118 | 449 | Danielle Rhoades |
 | 119 | 445 | Kristie McFarland |
@@ -135,8 +135,8 @@
 | 127 | 410 | Stephanie Blkpep Davidson |
 | 128 | 409 | Karon Griffin |
 | 129 | 405 | Michelle |
-| 130 | 403 | Christine Filson |
-| 131 | 403 | Scott Lindsay |
+| 130 | 403 | Scott Lindsay |
+| 131 | 403 | Christine Filson |
 | 132 | 402 | Shannon Matthew Byers |
 | 133 | 400 | Luciana Braganca Vieira |
 | 134 | 399 | Mcathen |
@@ -162,8 +162,8 @@
 | 154 | 365 | Logan Naccarato |
 | 155 | 359 | Dapper Snap |
 | 156 | 355 | Tessina Dewey-Mancino |
-| 157 | 353 | Shunta Jacobs |
-| 158 | 353 | CeceGeGe |
+| 157 | 353 | CeceGeGe |
+| 158 | 353 | Shunta Jacobs |
 | 159 | 352 | Chris Bell |
 | 160 | 350 | Darlene McMillan |
 | 161 | 348 | Chasity |
@@ -233,8 +233,8 @@
 | 225 | 240 | Jimmie Clemons |
 | 226 | 236 | Jess Bissett |
 | 227 | 235 | LaNette Morgan |
-| 228 | 234 | Nikki Pags |
-| 229 | 234 | Grego Daniel |
+| 228 | 234 | Grego Daniel |
+| 229 | 234 | Nikki Pags |
 | 230 | 233 | Ray Lader |
 | 231 | 232 | Donna |
 | 232 | 227 | Krystal Gerstberger |
@@ -343,8 +343,8 @@
 | 335 | 152 | Shiny Zonebuilder |
 | 336 | 152 | Goofy Fall |
 | 337 | 151 | Rainbow77375 |
-| 338 | 150 | Ava Petito |
-| 339 | 150 | Gumbo |
+| 338 | 150 | Gumbo |
+| 339 | 150 | Ava Petito |
 | 340 | 149 | Alexis Taylor |
 | 341 | 148 | Erykah |
 | 342 | 148 | Bryan Byrd |
