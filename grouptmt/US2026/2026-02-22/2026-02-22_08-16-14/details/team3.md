@@ -51,8 +51,8 @@
 | 43 | 1015 | Amber Jones |
 | 44 | 998 | Liv Whetson |
 | 45 | 996 | Stephanie Rice |
-| 46 | 989 | Kay |
-| 47 | 989 | Joey Banks |
+| 46 | 989 | Joey Banks |
+| 47 | 989 | Kay |
 | 48 | 983 | Brandon Green |
 | 49 | 956 | Gracie |
 | 50 | 953 | mjl574 |
@@ -99,8 +99,8 @@
 | 91 | 591 | Jesse Olive |
 | 92 | 588 | yoyo |
 | 93 | 582 | Speedy Bridger |
-| 94 | 582 | Jay Horn |
-| 95 | 582 | Natasha Jones |
+| 94 | 582 | Natasha Jones |
+| 95 | 582 | Jay Horn |
 | 96 | 581 | Danielle Mogg |
 | 97 | 579 | Jd Morris |
 | 98 | 566 | Dolores Falco |
@@ -127,8 +127,8 @@
 | 119 | 491 | Chauntee Alfrey-Cardinale |
 | 120 | 487 | Alaina Lee |
 | 121 | 482 | Jennifer Lynn Fahrenholtz-Summers |
-| 122 | 480 | Christine Filson |
-| 123 | 480 | Stephanie Blkpep Davidson |
+| 122 | 480 | Stephanie Blkpep Davidson |
+| 123 | 480 | Christine Filson |
 | 124 | 479 | Patti Skiles |
 | 125 | 479 | Poppy Splitter |
 | 126 | 473 | CeceGeGe |
@@ -199,8 +199,8 @@
 | 191 | 311 | Stephanie Burtin |
 | 192 | 311 | Araceli Parra |
 | 193 | 310 | Danielle Balcom |
-| 194 | 308 | Rania Zaqout |
-| 195 | 308 | Daryn Elliott |
+| 194 | 308 | Daryn Elliott |
+| 195 | 308 | Rania Zaqout |
 | 196 | 308 | Noyb Adam |
 | 197 | 307 | Blocked |
 | 198 | 307 | rnr junky |
@@ -215,8 +215,8 @@
 | 207 | 295 | Marci Mize Fandrich |
 | 208 | 291 | Kristal C Lee |
 | 209 | 289 | DidIdothat |
-| 210 | 289 | Duane Bright |
-| 211 | 289 | Hoppy Buildout |
+| 210 | 289 | Hoppy Buildout |
+| 211 | 289 | Duane Bright |
 | 212 | 286 | Cynthia Herrmann Egland |
 | 213 | 284 | Denise Nardoni |
 | 214 | 283 | Cheeky Snapper |
@@ -293,16 +293,16 @@
 | 285 | 208 | AlsoJess |
 | 286 | 207 | Jessica |
 | 287 | 207 | angieelyn |
-| 288 | 206 | Jone |
-| 289 | 206 | Tracy Martin |
+| 288 | 206 | Tracy Martin |
+| 289 | 206 | Jone |
 | 290 | 206 | Tammy Rosenberry |
 | 291 | 204 | Aerian Preston |
 | 292 | 203 | Angie Harper |
 | 293 | 202 | Staci George Fitzsimmons |
 | 294 | 201 | Hyper Matchzone |
 | 295 | 201 | Alexmac |
-| 296 | 200 | Sharisse Baltimore |
-| 297 | 200 | glichmod |
+| 296 | 200 | glichmod |
+| 297 | 200 | Sharisse Baltimore |
 | 298 | 200 | Saucy Buildout |
 | 299 | 198 | kacihall |
 | 300 | 195 | Nicha Hooker |
@@ -313,8 +313,8 @@
 | 305 | 189 | Katie Leigh Blankenship |
 | 306 | 188 | Loopy Fallmatch |
 | 307 | 186 | Carrie Huskey |
-| 308 | 184 | France Vézina |
-| 309 | 184 | Troy |
+| 308 | 184 | Troy |
+| 309 | 184 | France Vézina |
 | 310 | 184 | Stephanie Hill |
 | 311 | 183 | Cesar Barraza |
 | 312 | 182 | Melanie Sherwood |
@@ -359,8 +359,8 @@
 | 351 | 161 | Michael Johnson |
 | 352 | 161 | Bouncy Blockbuilder |
 | 353 | 161 | Julia Nicole |
-| 354 | 159 | Joshua David Huie |
-| 355 | 159 | Salena Whitlock |
+| 354 | 159 | Salena Whitlock |
+| 355 | 159 | Joshua David Huie |
 | 356 | 158 | Willow |
 | 357 | 157 | Angel Mendez |
 | 358 | 157 | Steffi Chris Dacones |

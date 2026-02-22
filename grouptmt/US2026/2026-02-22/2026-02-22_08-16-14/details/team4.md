@@ -48,8 +48,8 @@
 | 40 | 757 | Ancient Intuition |
 | 41 | 736 | Goatimus Lombardi |
 | 42 | 734 | BertMofo |
-| 43 | 707 | Rachel Anne |
-| 44 | 707 | Clarence Patawaran |
+| 43 | 707 | Clarence Patawaran |
+| 44 | 707 | Rachel Anne |
 | 45 | 704 | Crystal Carroll |
 | 46 | 697 | Edward White |
 | 47 | 695 | LisaJo Picken Buchanan |
@@ -122,8 +122,8 @@
 | 114 | 303 | Lauren Scott |
 | 115 | 300 | Jason Hart |
 | 116 | 298 | Lucas J Sutton |
-| 117 | 296 | HastyGrabber |
-| 118 | 296 | Leslie Nicole |
+| 117 | 296 | Leslie Nicole |
+| 118 | 296 | HastyGrabber |
 | 119 | 296 | Justin Hannigan |
 | 120 | 295 | Latisha Davis |
 | 121 | 294 | Kesha Brady |
