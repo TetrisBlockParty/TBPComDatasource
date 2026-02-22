@@ -190,9 +190,9 @@
 | 182 | 269 | jim |
 | 183 | 269 | Nikki Rae Gordon |
 | 184 | 268 | Mimi |
-| 185 | 267 | Casey Grabner |
+| 185 | 267 | Holly |
 | 186 | 267 | Kathy Brookins |
-| 187 | 267 | Holly |
+| 187 | 267 | Casey Grabner |
 | 188 | 266 | Laura |
 | 189 | 266 | Chris Bernstein |
 | 190 | 265 | J-Rizzle |

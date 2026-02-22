@@ -366,8 +366,8 @@
 | 358 | 702 | Allan Wayne Lamia |
 | 359 | 700 | Vincent Petrella |
 | 360 | 700 | Beverly Owens |
-| 361 | 697 | Ashle Scranton |
-| 362 | 697 | Dreamy Blast |
+| 361 | 697 | Dreamy Blast |
+| 362 | 697 | Ashle Scranton |
 | 363 | 695 | Mama T |
 | 364 | 695 | Dannette Goldberg-Richards |
 | 365 | 695 | Lakeysha Dortch |

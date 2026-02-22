@@ -70,8 +70,8 @@
 | 62 | 1027 | Gracie |
 | 63 | 1019 | Joey Banks |
 | 64 | 954 | Nate Burnside |
-| 65 | 926 | Judi Dobson |
-| 66 | 926 | Angela M. Fletcher |
+| 65 | 926 | Angela M. Fletcher |
+| 66 | 926 | Judi Dobson |
 | 67 | 924 | Shonna Roberts |
 | 68 | 909 | Jennifer |
 | 69 | 903 | Sarah Fehring |
@@ -144,8 +144,8 @@
 | 136 | 551 | Alaina Lee |
 | 137 | 531 | Mykal Burton |
 | 138 | 529 | Michael Nowogorski |
-| 139 | 526 | Michelle Becker |
-| 140 | 526 | Cynthia Castros-Hampton |
+| 139 | 526 | Cynthia Castros-Hampton |
+| 140 | 526 | Michelle Becker |
 | 141 | 525 | Justin Ritter |
 | 142 | 520 | JerseyJess |
 | 143 | 517 | Denise Nardoni |
@@ -162,8 +162,8 @@
 | 154 | 479 | Poppy Splitter |
 | 155 | 474 | Danielle Balcom |
 | 156 | 473 | Calista Jo Dickson |
-| 157 | 471 | Nora Rogers |
-| 158 | 471 | Mendoza Lee Christy |
+| 157 | 471 | Mendoza Lee Christy |
+| 158 | 471 | Nora Rogers |
 | 159 | 470 | Logan Naccarato |
 | 160 | 469 | Melissa Orth Hunter |
 | 161 | 469 | Adrian Marcel Pate |
@@ -219,15 +219,15 @@
 | 211 | 368 | Stephanie Woods |
 | 212 | 367 | Loopy Fallmatch |
 | 213 | 367 | Marci Mize Fandrich |
-| 214 | 365 | Tiffany Ford |
-| 215 | 365 | Chummy Caster |
+| 214 | 365 | Chummy Caster |
+| 215 | 365 | Tiffany Ford |
 | 216 | 362 | Brandon Givens |
 | 217 | 361 | RickyG |
 | 218 | 360 | Sheila M Frazier |
 | 219 | 357 | Stephanie Burtin |
 | 220 | 355 | Keis |
-| 221 | 351 | Rebecca Funderburk Kirby |
-| 222 | 351 | Eon Harris |
+| 221 | 351 | Eon Harris |
+| 222 | 351 | Rebecca Funderburk Kirby |
 | 223 | 350 | Kammy Hill |
 | 224 | 349 | Amanda J. Mcneil-Anderson |
 | 225 | 348 | Kristal C Lee |
@@ -314,8 +314,8 @@
 | 306 | 258 | IamJust Neyamijah Washington Sr. |
 | 307 | 256 | KayB |
 | 308 | 254 | Sharisse Baltimore |
-| 309 | 252 | Geoffrey Nash |
-| 310 | 252 | Snazzy Filler |
+| 309 | 252 | Snazzy Filler |
+| 310 | 252 | Geoffrey Nash |
 | 311 | 251 | Twisty Brick LT |
 | 312 | 251 | Naur |
 | 313 | 250 | Tosha Griffey |
@@ -332,11 +332,11 @@
 | 324 | 240 | Desiree Gold |
 | 325 | 238 | Niki Dalrymple |
 | 326 | 237 | Jennifer Alvey |
-| 327 | 236 | Jess Bissett |
-| 328 | 236 | Lys |
+| 327 | 236 | Lys |
+| 328 | 236 | Jess Bissett |
 | 329 | 233 | Tony Waters |
 | 330 | 232 | Nicholas Roddy |
-| 331 | 231 | Kevin Russell |
+| 331 | 231 | Frothy Snapper |
 | 332 | 231 | Kiki |
 | 333 | 231 | Kevin Russell |
 | 334 | 230 | Michael Lucado |

@@ -158,10 +158,10 @@
 | 150 | 316 | Dizzy Party |
 | 151 | 313 | Virginia Gray Floyd |
 | 152 | 310 | Kimberly Garcia |
-| 153 | 308 | Sharon Reynolds |
-| 154 | 308 | Jason Savage |
-| 155 | 306 | Bloknboy |
-| 156 | 306 | Happy Basegrid |
+| 153 | 308 | Jason Savage |
+| 154 | 308 | Sharon Reynolds |
+| 155 | 306 | Happy Basegrid |
+| 156 | 306 | Bloknboy |
 | 157 | 304 | Nicole Roseberry Weber |
 | 158 | 304 | Constance Risner |
 | 159 | 303 | Veronica Eve |
@@ -279,8 +279,8 @@
 | 271 | 198 | Adele Rahman |
 | 272 | 198 | Happy Snapbuild |
 | 273 | 197 | Joe Coon |
-| 274 | 196 | Marci Sanders |
-| 275 | 196 | Perky Shiftsnap |
+| 274 | 196 | Perky Shiftsnap |
+| 275 | 196 | Marci Sanders |
 | 276 | 195 | Jennifer Olewnik Soborowski |
 | 277 | 194 | Tiger Lily |
 | 278 | 194 | Glitzy Buildsnap |
