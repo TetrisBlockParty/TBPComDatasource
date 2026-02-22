@@ -144,16 +144,16 @@
 | 136 | 290 | Sarah Roberts |
 | 137 | 289 | David Miller |
 | 138 | 285 | Ananda Mendez |
-| 139 | 284 | Rachael |
-| 140 | 284 | Emily Adelaide Wheatley |
+| 139 | 284 | Emily Adelaide Wheatley |
+| 140 | 284 | Rachael |
 | 141 | 283 | Franswa |
 | 142 | 282 | Timothy Dew |
 | 143 | 282 | Tyler Werts |
 | 144 | 282 | Cool Shiftsnap |
 | 145 | 282 | Snippy Wipebuilder |
 | 146 | 276 | Dandy Basegrid |
-| 147 | 270 | Mandyy Rae |
-| 148 | 270 | Ash Galvan |
+| 147 | 270 | Ash Galvan |
+| 148 | 270 | Mandyy Rae |
 | 149 | 268 | GATOR |
 | 150 | 265 | SkipTheSadSauce |
 | 151 | 265 | Nutty Spinblock |
@@ -304,8 +304,8 @@
 | 296 | 151 | Bruce Cruz |
 | 297 | 150 | Agustin Duarte Orozco |
 | 298 | 150 | Barrbaric |
-| 299 | 149 | Melissa Bires Hussar |
-| 300 | 149 | Cody Gates |
+| 299 | 149 | Cody Gates |
+| 300 | 149 | Melissa Bires Hussar |
 | 301 | 148 | Howdi Duty |
 | 302 | 147 | J.F. Fields |
 | 303 | 146 | Larry Tilton |
@@ -364,7 +364,7 @@
 | 356 | 120 | Sarah Henniker |
 | 357 | 120 | Shiny Rotate |
 | 358 | 119 | Joe Coon |
-| 359 | 118 | Snappy Brickbuilder |
+| 359 | 118 | Kerry Lee Powell |
 | 360 | 118 | Garcia Bailey |
 | 361 | 118 | Snappy Brickbuilder |
 | 362 | 117 | Funky Piecebuilder |

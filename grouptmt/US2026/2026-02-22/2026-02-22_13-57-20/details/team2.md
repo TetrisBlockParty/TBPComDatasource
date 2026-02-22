@@ -140,8 +140,8 @@
 | 132 | 1273 | Cool Rollpiece |
 | 133 | 1265 | Katrina Williams Balmir |
 | 134 | 1257 | Eileen Hale |
-| 135 | 1248 | Isabela Shaw |
-| 136 | 1248 | Howard Forest |
+| 135 | 1248 | Howard Forest |
+| 136 | 1248 | Isabela Shaw |
 | 137 | 1242 | Altamirano Michael |
 | 138 | 1232 | Groovy Puzzle |
 | 139 | 1230 | Megan Garrick |
@@ -316,8 +316,8 @@
 | 308 | 688 | Tiara Elizabeth Baker |
 | 309 | 687 | Dee |
 | 310 | 686 | Ashley Guernsey-Martin |
-| 311 | 685 | Brenda Pierpoint |
-| 312 | 685 | Binyah-Binyah |
+| 311 | 685 | Binyah-Binyah |
+| 312 | 685 | Brenda Pierpoint |
 | 313 | 681 | Melissa Holsinger |
 | 314 | 679 | Eric Castaneda |
 | 315 | 679 | Kassandra Hunt |
@@ -355,8 +355,8 @@
 | 347 | 613 | Ellie Jonas |
 | 348 | 613 | Caitlyn Blackwell |
 | 349 | 613 | Breezy Filler |
-| 350 | 611 | Julio A Laracuente |
-| 351 | 611 | Carl Bradshaw |
+| 350 | 611 | Carl Bradshaw |
+| 351 | 611 | Julio A Laracuente |
 | 352 | 611 | Em Chen |
 | 353 | 603 | Cassie Maynard |
 | 354 | 602 | KhaosLord |
@@ -504,8 +504,8 @@
 | 496 | 463 | Jaye EL Hunter |
 | 497 | 463 | Sue Leard |
 | 498 | 463 | Mia Muse Best |
-| 499 | 462 | Daphne Jordan |
-| 500 | 462 | Amanda Ferrell |
+| 499 | 462 | Amanda Ferrell |
+| 500 | 462 | Daphne Jordan |
 | 501 | 462 | Jarboe |
 | 502 | 460 | Tara Lynn Janes |
 | 503 | 459 | Melissa Kay Gibson |
@@ -534,8 +534,8 @@
 | 526 | 438 | Johnny Yeates |
 | 527 | 437 | Bubbly Snapfit |
 | 528 | 436 | Niceday |
-| 529 | 435 | James Louie |
-| 530 | 435 | Regina Young |
+| 529 | 435 | Regina Young |
+| 530 | 435 | James Louie |
 | 531 | 433 | KayLynn Ogden McClelland |
 | 532 | 432 | Lucy Marshall |
 | 533 | 431 | Quinn |
@@ -620,8 +620,8 @@
 | 612 | 384 | Party d |
 | 613 | 384 | Kelly |
 | 614 | 383 | Jessica Conaway |
-| 615 | 382 | David Holliday |
-| 616 | 382 | Lively Edgepiece |
+| 615 | 382 | Lively Edgepiece |
+| 616 | 382 | David Holliday |
 | 617 | 382 | Amber Gray |
 | 618 | 381 | Nicky Jackson |
 | 619 | 381 | Happy Caster |
@@ -666,14 +666,14 @@
 | 658 | 361 | Lewis Sturgeon |
 | 659 | 360 | Jroc |
 | 660 | 359 | Cheyenne Donovan |
-| 661 | 358 | Sydney Busse |
-| 662 | 358 | Alyssaaelena |
+| 661 | 358 | Alyssaaelena |
+| 662 | 358 | Sydney Busse |
 | 663 | 357 | Shannon Byrd |
 | 664 | 357 | Tristan Szolek |
 | 665 | 356 | Kelsey Sullivan |
 | 666 | 355 | Amanda Perez |
-| 667 | 354 | Rachel Kaminski |
-| 668 | 354 | Rickey Johnson |
+| 667 | 354 | Rickey Johnson |
+| 668 | 354 | Rachel Kaminski |
 | 669 | 352 | Rose Fx |
 | 670 | 352 | Jean FU Jagielski |
 | 671 | 352 | ruth |
@@ -691,8 +691,8 @@
 | 683 | 345 | Gina Caulder |
 | 684 | 344 | Glenn Cobbins |
 | 685 | 343 | James Smith |
-| 686 | 343 | Janitta Alvarez |
-| 687 | 343 | Cris cris |
+| 686 | 343 | Cris cris |
+| 687 | 343 | Janitta Alvarez |
 | 688 | 342 | Quirky Twistline |
 | 689 | 341 | Shorty |
 | 690 | 341 | Swanky Columnbuilder |
@@ -909,10 +909,10 @@
 | 901 | 263 | Sunshine711 |
 | 902 | 263 | Amy Humphreys |
 | 903 | 263 | Sara Pennington |
-| 904 | 262 | Taren Cowan |
-| 905 | 262 | Squirrel |
-| 906 | 261 | Dany Murillo |
-| 907 | 261 | Chirpy Tilt |
+| 904 | 262 | Squirrel |
+| 905 | 262 | Taren Cowan |
+| 906 | 261 | Chirpy Tilt |
+| 907 | 261 | Dany Murillo |
 | 908 | 261 | Gina Gina |
 | 909 | 261 | MrsClaudette Will'sIam Matthews |
 | 910 | 261 | Mellissa Evans |
@@ -963,8 +963,8 @@
 | 955 | 251 | Dane Reing |
 | 956 | 251 | Regina Unruh |
 | 957 | 251 | Emoniee Sa'niaya |
-| 958 | 251 | Kimmie Zimmerman-Rocha |
-| 959 | 251 | Chipper Dashpiece |
+| 958 | 251 | Chipper Dashpiece |
+| 959 | 251 | Kimmie Zimmerman-Rocha |
 | 960 | 250 | Kay Stevenson |
 | 961 | 250 | Michelle Fleming Luna |
 | 962 | 250 | Muhammad |

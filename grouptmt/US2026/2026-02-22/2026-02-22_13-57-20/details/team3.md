@@ -113,8 +113,8 @@
 | 105 | 568 | Rachael McClain Owens |
 | 106 | 566 | Dolores Falco |
 | 107 | 565 | Patty Allen |
-| 108 | 562 | Louise Stacy Sisson |
-| 109 | 562 | Dave Herzog |
+| 108 | 562 | Dave Herzog |
+| 109 | 562 | Louise Stacy Sisson |
 | 110 | 559 | Morgan Martinez |
 | 111 | 549 | Nicole Myers |
 | 112 | 533 | Alaina Lee |
@@ -133,8 +133,8 @@
 | 125 | 492 | Daira Largen |
 | 126 | 491 | Chauntee Alfrey-Cardinale |
 | 127 | 480 | Stephanie Blkpep Davidson |
-| 128 | 479 | Poppy Splitter |
-| 129 | 479 | Patti Skiles |
+| 128 | 479 | Patti Skiles |
+| 129 | 479 | Poppy Splitter |
 | 130 | 478 | CeceGeGe |
 | 131 | 478 | Silly Twist |
 | 132 | 473 | mzcatzy |
@@ -149,14 +149,14 @@
 | 141 | 449 | Danielle Rhoades |
 | 142 | 448 | Karon Griffin |
 | 143 | 445 | Shannon Matthew Byers |
-| 144 | 445 | Kristie McFarland |
-| 145 | 445 | Jacqueline Rodriguez |
+| 144 | 445 | Jacqueline Rodriguez |
+| 145 | 445 | Kristie McFarland |
 | 146 | 435 | Michelle |
 | 147 | 435 | Daryn Elliott |
 | 148 | 432 | Jenny Hrndz |
 | 149 | 430 | Joye Sims Binion |
-| 150 | 427 | Logan Naccarato |
-| 151 | 427 | Tasha Gillespie |
+| 150 | 427 | Tasha Gillespie |
+| 151 | 427 | Logan Naccarato |
 | 152 | 427 | Wendy Dearden |
 | 153 | 415 | ren |
 | 154 | 413 | Rachel |
@@ -205,8 +205,8 @@
 | 197 | 338 | Gumbo |
 | 198 | 332 | Rich LeBlanc |
 | 199 | 330 | Rebecca Funderburk Kirby |
-| 200 | 324 | Kristal C Lee |
-| 201 | 324 | Sissy Lowery Davis |
+| 200 | 324 | Sissy Lowery Davis |
+| 201 | 324 | Kristal C Lee |
 | 202 | 323 | Demetrious Shaw Sr. |
 | 203 | 320 | Or Reznitsky |
 | 204 | 320 | Keis |
@@ -246,9 +246,9 @@
 | 238 | 275 | Eon Harris |
 | 239 | 274 | Tye Stovall |
 | 240 | 272 | Dee Franklin |
-| 241 | 271 | Cass Mendoza |
-| 242 | 271 | Ashley Muncey |
-| 243 | 271 | Grego Daniel |
+| 241 | 271 | Ashley Muncey |
+| 242 | 271 | Grego Daniel |
+| 243 | 271 | Cass Mendoza |
 | 244 | 268 | Carrie Huskey |
 | 245 | 267 | Tiffany Davie |
 | 246 | 267 | Terry Jo Jones |
@@ -445,8 +445,8 @@
 | 437 | 146 | Sara Dunn |
 | 438 | 146 | Sdot |
 | 439 | 144 | Crystal Hine |
-| 440 | 144 | Amber Groover Taylor |
-| 441 | 144 | Blair Erin Waite |
+| 440 | 144 | Blair Erin Waite |
+| 441 | 144 | Amber Groover Taylor |
 | 442 | 143 | Deseree Ewing |
 | 443 | 143 | Tracey Cox |
 | 444 | 142 | Jl |
