@@ -230,8 +230,8 @@
 | 222 | 709 | Jerilyn Andrina |
 | 223 | 705 | Lola Contreras |
 | 224 | 705 | Roger Grabbit |
-| 225 | 700 | Rosemadder |
-| 226 | 700 | Beverly Owens |
+| 225 | 700 | Beverly Owens |
+| 226 | 700 | Rosemadder |
 | 227 | 700 | Vincent Petrella |
 | 228 | 699 | Vo'Landa Reels |
 | 229 | 698 | Mighty Shatterfit |
@@ -1284,9 +1284,9 @@
 | 1276 | 146 | Laura Morrison |
 | 1277 | 146 | Kimmae Kimbrough |
 | 1278 | 146 | Sherry Aguinaga |
-| 1279 | 146 | Layla LS |
-| 1280 | 146 | Wayne Fields |
-| 1281 | 146 | Rolie Garcia |
+| 1279 | 146 | Rolie Garcia |
+| 1280 | 146 | Layla LS |
+| 1281 | 146 | Wayne Fields |
 | 1282 | 145 | Eri A |
 | 1283 | 145 | Anastacio Hernandez |
 | 1284 | 145 | Kelsey |

@@ -128,8 +128,8 @@
 | 120 | 410 | Stephanie Blkpep Davidson |
 | 121 | 409 | Karon Griffin |
 | 122 | 405 | Michelle |
-| 123 | 403 | Scott Lindsay |
-| 124 | 403 | Christine Filson |
+| 123 | 403 | Christine Filson |
+| 124 | 403 | Scott Lindsay |
 | 125 | 402 | Shannon Matthew Byers |
 | 126 | 400 | Luciana Braganca Vieira |
 | 127 | 399 | ren |

@@ -70,8 +70,8 @@
 | 62 | 430 | Nancy Green |
 | 63 | 428 | Stephanie Zahn |
 | 64 | 413 | Steve Schneider |
-| 65 | 412 | Anaid Sanchez |
-| 66 | 412 | Jazzy Framezone |
+| 65 | 412 | Jazzy Framezone |
+| 66 | 412 | Anaid Sanchez |
 | 67 | 393 | Kellie |
 | 68 | 391 | Robert Benito |
 | 69 | 390 | Candy Jones |
@@ -117,8 +117,8 @@
 | 109 | 283 | Franswa |
 | 110 | 282 | Timothy Dew |
 | 111 | 280 | Sarah Roberts |
-| 112 | 277 | Katie Daniels |
-| 113 | 277 | Ly Phethmany |
+| 112 | 277 | Ly Phethmany |
+| 113 | 277 | Katie Daniels |
 | 114 | 276 | Rachael |
 | 115 | 275 | Bhelle Sumile |
 | 116 | 273 | Happy Basegrid |
@@ -135,8 +135,8 @@
 | 127 | 236 | Mandyy Rae |
 | 128 | 232 | Jessi Sauer |
 | 129 | 232 | Jennifer Hardman |
-| 130 | 230 | Frothy Pattern |
-| 131 | 230 | Billie Dawn Sparks |
+| 130 | 230 | Billie Dawn Sparks |
+| 131 | 230 | Frothy Pattern |
 | 132 | 228 | Jenny Gingrich Fuentes |
 | 133 | 226 | Kandae |
 | 134 | 226 | ALFD |
@@ -144,8 +144,8 @@
 | 136 | 216 | MRdot Rooski |
 | 137 | 216 | Shauntina Burke |
 | 138 | 214 | GATOR |
-| 139 | 212 | Jaimie Lynn |
-| 140 | 212 | Lori Bales |
+| 139 | 212 | Lori Bales |
+| 140 | 212 | Jaimie Lynn |
 | 141 | 211 | Marianita Garcia |
 | 142 | 208 | Bouncy Grid |
 | 143 | 208 | Giggly Builderline |
@@ -155,8 +155,8 @@
 | 147 | 203 | Paula Martin |
 | 148 | 200 | Ash Galvan |
 | 149 | 199 | Basment Living |
-| 150 | 198 | Shiny Gridmatch |
-| 151 | 198 | Happy Snapbuild |
+| 150 | 198 | Happy Snapbuild |
+| 151 | 198 | Shiny Gridmatch |
 | 152 | 195 | Daring Fitclear |
 | 153 | 194 | Tyler Werts |
 | 154 | 193 | Lachelle Dillon |
