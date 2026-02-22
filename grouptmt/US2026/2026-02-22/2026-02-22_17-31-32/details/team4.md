@@ -69,8 +69,8 @@
 | 61 | 688 | Avy Absol |
 | 62 | 671 | Kimyatta Cavin |
 | 63 | 671 | D3TROITB0RN74 |
-| 64 | 664 | loulou |
-| 65 | 664 | Valerie Roberts |
+| 64 | 664 | Valerie Roberts |
+| 65 | 664 | loulou |
 | 66 | 659 | Jonathan Kimbrough |
 | 67 | 654 | Chilly Line |
 | 68 | 647 | KM8 |
@@ -131,10 +131,10 @@
 | 123 | 353 | Tyler Terrific |
 | 124 | 344 | Lush Linkfall |
 | 125 | 343 | Latisha Davis |
-| 126 | 338 | ThaEviLJeNiuZ |
-| 127 | 338 | Lucas J Sutton |
-| 128 | 332 | Desi Desporte |
-| 129 | 332 | HastyGrabber |
+| 126 | 338 | Lucas J Sutton |
+| 127 | 338 | ThaEviLJeNiuZ |
+| 128 | 332 | HastyGrabber |
+| 129 | 332 | Desi Desporte |
 | 130 | 330 | David Lay |
 | 131 | 329 | Amanda Pauldo-Ivy |
 | 132 | 329 | Jessica Bohlken |
@@ -193,8 +193,8 @@
 | 185 | 251 | Matt Summer |
 | 186 | 250 | Matt Dell'Olio |
 | 187 | 247 | Sam Bishop |
-| 188 | 245 | Peachy Fall |
-| 189 | 245 | Andria Lynn |
+| 188 | 245 | Andria Lynn |
+| 189 | 245 | Peachy Fall |
 | 190 | 245 | Autum Leigh |
 | 191 | 244 | Twisty Cascadezone |
 | 192 | 243 | Mr. Party |
@@ -255,11 +255,11 @@
 | 247 | 189 | 030Synner |
 | 248 | 188 | Stephme310 |
 | 249 | 185 | Laura Hosford |
-| 250 | 184 | Ak Jones |
-| 251 | 184 | Lauren Lamb |
+| 250 | 184 | Lauren Lamb |
+| 251 | 184 | Ak Jones |
 | 252 | 182 | TinyLegoRose |
-| 253 | 181 | Jackie Marie |
-| 254 | 181 | Carter Jones |
+| 253 | 181 | Carter Jones |
+| 254 | 181 | Jackie Marie |
 | 255 | 180 | Orchislactea |
 | 256 | 179 | Christina Black |
 | 257 | 179 | AyeKay |

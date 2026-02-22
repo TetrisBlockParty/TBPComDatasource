@@ -249,8 +249,8 @@
 | 241 | 894 | Auntie B |
 | 242 | 892 | Rebecca Doughman |
 | 243 | 890 | Kevin Walp |
-| 244 | 884 | Adira Brown |
-| 245 | 884 | Boldy Cascadepiece |
+| 244 | 884 | Boldy Cascadepiece |
+| 245 | 884 | Adira Brown |
 | 246 | 883 | nikki |
 | 247 | 880 | Sam Joe |
 | 248 | 879 | Tony Lea |
@@ -295,8 +295,8 @@
 | 287 | 787 | Laura McCarthey |
 | 288 | 783 | Lisa Ongtowasruk |
 | 289 | 781 | Angie Bolton Workman |
-| 290 | 777 | Jessicah Myers |
-| 291 | 777 | Tesha Oldaker |
+| 290 | 777 | Tesha Oldaker |
+| 291 | 777 | Jessicah Myers |
 | 292 | 777 | Samantha Jo |
 | 293 | 772 | Kristin Gower |
 | 294 | 768 | Michele Morgan |
@@ -332,8 +332,8 @@
 | 324 | 703 | Gold Rose |
 | 325 | 700 | Hong Tang |
 | 326 | 700 | Vincent Petrella |
-| 327 | 700 | Beverly Owens |
-| 328 | 700 | Rosemadder |
+| 327 | 700 | Rosemadder |
+| 328 | 700 | Beverly Owens |
 | 329 | 699 | tejas25 |
 | 330 | 697 | Ashle Scranton |
 | 331 | 697 | Dreamy Blast |
@@ -370,8 +370,8 @@
 | 362 | 643 | Hoppy Brickmatch |
 | 363 | 642 | Cassie Maynard |
 | 364 | 641 | Vonceial Boone |
-| 365 | 640 | Kara Gillen |
-| 366 | 640 | BYM4L |
+| 365 | 640 | BYM4L |
+| 366 | 640 | Kara Gillen |
 | 367 | 639 | Crystie Hicks |
 | 368 | 639 | Rebecca Miller |
 | 369 | 634 | Gary Stash |
@@ -591,8 +591,8 @@
 | 583 | 434 | bbv |
 | 584 | 432 | Abimbola Bimbo |
 | 585 | 432 | Lucy Marshall |
-| 586 | 431 | Hunter Connors |
-| 587 | 431 | Quinn |
+| 586 | 431 | Quinn |
+| 587 | 431 | Hunter Connors |
 | 588 | 429 | Tabs Reichert |
 | 589 | 428 | Lynda Toland |
 | 590 | 428 | Shyenn Gadsby |

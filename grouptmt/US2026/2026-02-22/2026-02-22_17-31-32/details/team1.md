@@ -89,8 +89,8 @@
 | 81 | 471 | Jennifer ManWarren |
 | 82 | 456 | Arianna O'Brien |
 | 83 | 453 | Brandi Huntington |
-| 84 | 444 | Hyper |
-| 85 | 444 | Lexuriuos Lifestlye |
+| 84 | 444 | Lexuriuos Lifestlye |
+| 85 | 444 | Hyper |
 | 86 | 443 | Steve Schneider |
 | 87 | 436 | Tonya Beasley |
 | 88 | 434 | Loony Fitzone |
@@ -144,8 +144,8 @@
 | 136 | 318 | Jessica Sheehan |
 | 137 | 316 | Dizzy Party |
 | 138 | 313 | Virginia Gray Floyd |
-| 139 | 308 | Erin Hodges Plumb |
-| 140 | 308 | Sharon Reynolds |
+| 139 | 308 | Sharon Reynolds |
+| 140 | 308 | Erin Hodges Plumb |
 | 141 | 307 | Kimberly Garcia |
 | 142 | 306 | Bloknboy |
 | 143 | 306 | Happy Basegrid |

@@ -178,8 +178,8 @@
 | 170 | 415 | ren |
 | 171 | 410 | Stephanie Simpson |
 | 172 | 407 | Jone |
-| 173 | 405 | Marcie Bressler |
-| 174 | 405 | JerseyJess |
+| 173 | 405 | JerseyJess |
+| 174 | 405 | Marcie Bressler |
 | 175 | 403 | Scott Lindsay |
 | 176 | 401 | Katie Knaus |
 | 177 | 400 | Sherika C. McDaniels |
@@ -206,8 +206,8 @@
 | 198 | 370 | Santeria Trece Candles |
 | 199 | 368 | Stephanie Woods |
 | 200 | 362 | Rochelle Hazelett |
-| 201 | 362 | Brandon Givens |
-| 202 | 362 | Loopy Fallmatch |
+| 201 | 362 | Loopy Fallmatch |
+| 202 | 362 | Brandon Givens |
 | 203 | 358 | RickyG |
 | 204 | 358 | Chummy Caster |
 | 205 | 357 | Stephanie Burtin |
