@@ -115,8 +115,8 @@
 | 107 | 506 | Sashay Tapae Simpson |
 | 108 | 502 | Justin Ritter |
 | 109 | 502 | Elissa S-k |
-| 110 | 500 | Domo Washington |
-| 111 | 500 | Kristie |
+| 110 | 500 | Kristie |
+| 111 | 500 | Domo Washington |
 | 112 | 497 | Mykal Burton |
 | 113 | 492 | Daira Largen |
 | 114 | 491 | Chauntee Alfrey-Cardinale |
@@ -222,8 +222,8 @@
 | 214 | 274 | Tye Stovall |
 | 215 | 272 | Dee Franklin |
 | 216 | 271 | Ashley Muncey |
-| 217 | 267 | Denise Nardoni |
-| 218 | 267 | Terry Jo Jones |
+| 217 | 267 | Terry Jo Jones |
+| 218 | 267 | Denise Nardoni |
 | 219 | 265 | Sarah Moyer |
 | 220 | 265 | Trisha Balmer |
 | 221 | 264 | Grego Daniel |
@@ -237,11 +237,11 @@
 | 229 | 258 | Tamara Deherrera |
 | 230 | 257 | Ashley Jones |
 | 231 | 256 | Brenda Lee Vander Molen |
-| 232 | 256 | KayB |
-| 233 | 256 | Tiffany Davie |
+| 232 | 256 | Tiffany Davie |
+| 233 | 256 | KayB |
 | 234 | 251 | Sabrina Hardrick |
-| 235 | 249 | Annie Marie |
-| 236 | 249 | JerseyJess |
+| 235 | 249 | JerseyJess |
+| 236 | 249 | Annie Marie |
 | 237 | 248 | Rochelle Hazelett |
 | 238 | 246 | Peppy Shifter |
 | 239 | 246 | Eon Harris |
@@ -280,9 +280,9 @@
 | 272 | 208 | AlsoJess |
 | 273 | 207 | Jessica |
 | 274 | 207 | angieelyn |
-| 275 | 206 | Jone |
-| 276 | 206 | Tracy Martin |
-| 277 | 206 | Tammy Rosenberry |
+| 275 | 206 | Tracy Martin |
+| 276 | 206 | Tammy Rosenberry |
+| 277 | 206 | Jone |
 | 278 | 204 | Aerian Preston |
 | 279 | 203 | Angie Harper |
 | 280 | 202 | Staci George Fitzsimmons |
@@ -397,11 +397,11 @@
 | 389 | 137 | Giggly Brickroll |
 | 390 | 137 | Reina Roth |
 | 391 | 137 | Arden White Kirsch |
-| 392 | 136 | Sabrina Mansfield |
-| 393 | 136 | Crystal Hine |
+| 392 | 136 | Crystal Hine |
+| 393 | 136 | Sabrina Mansfield |
 | 394 | 134 | Glenn Loving |
-| 395 | 134 | gremicx |
-| 396 | 134 | Tammy |
+| 395 | 134 | Tammy |
+| 396 | 134 | gremicx |
 | 397 | 133 | Jen Lewis |
 | 398 | 132 | Andrew Thorson |
 | 399 | 132 | Hanna Kim |
@@ -463,9 +463,9 @@
 | 455 | 115 | Brave Brickster |
 | 456 | 115 | Whitney Manuel |
 | 457 | 115 | Sameerah Smith |
-| 458 | 114 | Elizabeth Renee |
-| 459 | 114 | Bhreagh Gentile |
-| 460 | 114 | Joseph Vargas |
+| 458 | 114 | Bhreagh Gentile |
+| 459 | 114 | Joseph Vargas |
+| 460 | 114 | Elizabeth Renee |
 | 461 | 113 | Tia Moore |
 | 462 | 113 | Martin Bernier |
 | 463 | 113 | Leticia Lynn Lowe |

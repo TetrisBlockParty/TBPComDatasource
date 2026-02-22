@@ -88,8 +88,8 @@
 | 80 | 405 | Shane Kalamata Platoon |
 | 81 | 404 | Courtney Cicoria |
 | 82 | 402 | Julian Garcia |
-| 83 | 396 | Alicia Bass |
-| 84 | 396 | Amy Suckarieh |
+| 83 | 396 | Amy Suckarieh |
+| 84 | 396 | Alicia Bass |
 | 85 | 392 | Ericca Eldridge |
 | 86 | 391 | Ramel Rhodes |
 | 87 | 390 | Carlton Unfiltered |
@@ -113,8 +113,8 @@
 | 105 | 303 | Lauren Scott |
 | 106 | 300 | Jason Hart |
 | 107 | 298 | Lucas J Sutton |
-| 108 | 296 | HastyGrabber |
-| 109 | 296 | Justin Hannigan |
+| 108 | 296 | Justin Hannigan |
+| 109 | 296 | HastyGrabber |
 | 110 | 295 | Latisha Davis |
 | 111 | 294 | Kesha Brady |
 | 112 | 290 | 🥔🥔 Spudz |
@@ -180,8 +180,8 @@
 | 172 | 200 | Jeff Brian Gates |
 | 173 | 198 | Jessica Lynn Cutlip |
 | 174 | 196 | Oscar Alberto Perez |
-| 175 | 195 | ZeeZee |
-| 176 | 195 | Malakai Darien Fox |
+| 175 | 195 | Malakai Darien Fox |
+| 176 | 195 | ZeeZee |
 | 177 | 194 | Zany Twisterfit |
 | 178 | 192 | Shauna Havard |
 | 179 | 191 | Klo |
@@ -206,8 +206,8 @@
 | 198 | 167 | Cozy Balancer |
 | 199 | 166 | SammieJo Guy |
 | 200 | 166 | Marvin Lou Martin |
-| 201 | 165 | Jackie Marie |
-| 202 | 165 | James Hurley Jr. |
+| 201 | 165 | James Hurley Jr. |
+| 202 | 165 | Jackie Marie |
 | 203 | 164 | 030Synner |
 | 204 | 163 | Kristina Black |
 | 205 | 162 | Joanna |

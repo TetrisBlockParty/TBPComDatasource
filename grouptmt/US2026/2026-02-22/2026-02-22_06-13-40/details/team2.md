@@ -256,8 +256,8 @@
 | 248 | 704 | Shelley Thornburgh Wright |
 | 249 | 703 | Gold Rose |
 | 250 | 700 | Vincent Petrella |
-| 251 | 700 | Beverly Owens |
-| 252 | 700 | Rosemadder |
+| 251 | 700 | Rosemadder |
+| 252 | 700 | Beverly Owens |
 | 253 | 698 | Mighty Shatterfit |
 | 254 | 697 | Dreamy Blast |
 | 255 | 697 | Giddy Gridclear |
@@ -445,8 +445,8 @@
 | 437 | 451 | Cody Nishimura |
 | 438 | 451 | Dylan Thomason |
 | 439 | 447 | Brandy Andre |
-| 440 | 447 | Heather Schelkopf |
-| 441 | 447 | June E Hanson |
+| 440 | 447 | June E Hanson |
+| 441 | 447 | Heather Schelkopf |
 | 442 | 445 | Mar Q Thomas |
 | 443 | 444 | Ryan Meilleur |
 | 444 | 442 | Leah |

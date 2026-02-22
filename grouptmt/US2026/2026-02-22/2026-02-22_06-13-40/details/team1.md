@@ -236,10 +236,10 @@
 | 228 | 154 | Melissa Lemmon |
 | 229 | 153 | Desiree Deschaine Havee |
 | 230 | 153 | Tami Luce Martin |
-| 231 | 152 | Speedy Snapfall |
-| 232 | 152 | Tavia |
-| 233 | 152 | Brave Wrecker |
-| 234 | 152 | Strig |
+| 231 | 152 | Strig |
+| 232 | 152 | Brave Wrecker |
+| 233 | 152 | Speedy Snapfall |
+| 234 | 152 | Tavia |
 | 235 | 150 | Adele Rahman |
 | 236 | 150 | Agustin Duarte Orozco |
 | 237 | 149 | Chirpy Smasher |
@@ -311,9 +311,9 @@
 | 303 | 114 | Angela Rena Brooks |
 | 304 | 113 | Itspaigebro |
 | 305 | 112 | Chris65 |
-| 306 | 112 | Crystal Joslin |
-| 307 | 112 | Kayla Marie Stevenson |
-| 308 | 112 | Lush Zoney |
+| 306 | 112 | Kayla Marie Stevenson |
+| 307 | 112 | Lush Zoney |
+| 308 | 112 | Crystal Joslin |
 | 309 | 111 | Damon J. Martin |
 | 310 | 110 | Jennifer Corrado |
 | 311 | 110 | Loony Fitzone |
@@ -361,8 +361,8 @@
 | 353 | 98 | Kirk Torrey |
 | 354 | 98 | Alfredo Vasquez |
 | 355 | 97 | Steve Bomkamp |
-| 356 | 96 | Nutty Spinblock |
-| 357 | 96 | Lisa Marie |
+| 356 | 96 | Lisa Marie |
+| 357 | 96 | Nutty Spinblock |
 | 358 | 95 | Jay Tressler |
 | 359 | 95 | Angela Spann |
 | 360 | 94 | Patty Lavigne Craddock |
