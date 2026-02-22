@@ -63,8 +63,8 @@
 | 55 | 909 | Jennifer |
 | 56 | 908 | Alanna Rogers |
 | 57 | 903 | Sarah Fehring |
-| 58 | 895 | Amanda L Baker |
-| 59 | 895 | Shonna Roberts |
+| 58 | 895 | Shonna Roberts |
+| 59 | 895 | Amanda L Baker |
 | 60 | 886 | Khristen AC |
 | 61 | 874 | Jessica Pineda-Lopez |
 | 62 | 867 | Corie A. Brinson |
@@ -226,8 +226,8 @@
 | 218 | 289 | Hoppy Buildout |
 | 219 | 286 | Cynthia Herrmann Egland |
 | 220 | 284 | Denise Nardoni |
-| 221 | 283 | Charles Perrone |
-| 222 | 283 | Cheeky Snapper |
+| 221 | 283 | Cheeky Snapper |
+| 222 | 283 | Charles Perrone |
 | 223 | 281 | Valerie Gendron |
 | 224 | 278 | Rufus Lincoln |
 | 225 | 277 | Keis |
@@ -269,16 +269,16 @@
 | 261 | 240 | Jimmie Clemons |
 | 262 | 238 | LaTanya GeminiondaRise Johnson |
 | 263 | 236 | Jess Bissett |
-| 264 | 234 | Connie Mohler-Fair |
-| 265 | 234 | Nikki Pags |
+| 264 | 234 | Nikki Pags |
+| 265 | 234 | Connie Mohler-Fair |
 | 266 | 233 | Josh Borquez |
 | 267 | 233 | Ray Lader |
 | 268 | 232 | Brenda Schmid Wood |
 | 269 | 232 | Donna |
 | 270 | 227 | Krystal Gerstberger |
 | 271 | 227 | Meowsa |
-| 272 | 225 | Cozy Snaplink |
-| 273 | 225 | Dirtgirl27 |
+| 272 | 225 | Dirtgirl27 |
+| 273 | 225 | Cozy Snaplink |
 | 274 | 224 | Quirky Dropzone |
 | 275 | 221 | Vaners |
 | 276 | 221 | Jaime Monhaut-Reed |
@@ -286,8 +286,8 @@
 | 278 | 220 | rosy |
 | 279 | 220 | Tosha Griffey |
 | 280 | 218 | Michael Lucado |
-| 281 | 216 | Twisty Brick LT |
-| 282 | 216 | Cheryl Hinch Tenbrook |
+| 281 | 216 | Cheryl Hinch Tenbrook |
+| 282 | 216 | Twisty Brick LT |
 | 283 | 215 | IamJust Neyamijah Washington Sr. |
 | 284 | 214 | Angela Scott |
 | 285 | 214 | Amy Fuller Heaton |
@@ -340,8 +340,8 @@
 | 332 | 179 | DanceLuvLaugh |
 | 333 | 178 | Jess Dearborn |
 | 334 | 178 | Jennifer Alvey |
-| 335 | 176 | Melissa Orth Hunter |
-| 336 | 176 | Emma |
+| 335 | 176 | Emma |
+| 336 | 176 | Melissa Orth Hunter |
 | 337 | 175 | Eileen Brady Thurber |
 | 338 | 174 | Lesley Perez |
 | 339 | 173 | Naur |
@@ -486,9 +486,9 @@
 | 478 | 121 | Jason-Ashley Ludlow |
 | 479 | 121 | Fredd Thomas |
 | 480 | 121 | Oliver Neal II |
-| 481 | 121 | Groovy Blockclear |
-| 482 | 121 | Jenna Baker |
-| 483 | 121 | Brave Brickster |
+| 481 | 121 | Brave Brickster |
+| 482 | 121 | Groovy Blockclear |
+| 483 | 121 | Jenna Baker |
 | 484 | 120 | Giggy Glidepiece |
 | 485 | 120 | Carol Cain Thurman |
 | 486 | 119 | Tracey Cox |

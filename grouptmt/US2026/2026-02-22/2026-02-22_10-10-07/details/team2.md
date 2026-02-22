@@ -251,8 +251,8 @@
 | 243 | 777 | Jessicah Myers |
 | 244 | 777 | Eric Carlson |
 | 245 | 772 | Stephen Stephen |
-| 246 | 772 | Sam Joe |
-| 247 | 772 | William Hunt |
+| 246 | 772 | William Hunt |
+| 247 | 772 | Sam Joe |
 | 248 | 771 | Terri McKelvey McKinley |
 | 249 | 769 | Adira Brown |
 | 250 | 767 | Jessica Wayne Cornwall |
@@ -374,8 +374,8 @@
 | 366 | 558 | Libby Hicks |
 | 367 | 557 | Block Master |
 | 368 | 556 | Slip |
-| 369 | 554 | Santana Miyagi |
-| 370 | 554 | Rachael Senard |
+| 369 | 554 | Rachael Senard |
+| 370 | 554 | Santana Miyagi |
 | 371 | 554 | Autumn Schaeffer |
 | 372 | 550 | Nashu |
 | 373 | 549 | Darcy Mae |
@@ -513,8 +513,8 @@
 | 505 | 429 | Tabs Reichert |
 | 506 | 428 | Arkei Luster |
 | 507 | 428 | Shyenn Gadsby |
-| 508 | 427 | Quinn |
-| 509 | 427 | Destiny Cozier |
+| 508 | 427 | Destiny Cozier |
+| 509 | 427 | Quinn |
 | 510 | 427 | Aimee Campbell |
 | 511 | 427 | Kori Beth Babb |
 | 512 | 426 | Ashley Dow |
@@ -611,8 +611,8 @@
 | 603 | 375 | Cecilia A Jenkins |
 | 604 | 375 | Lively Edgepiece |
 | 605 | 373 | Ashley Marie |
-| 606 | 373 | Jessica Hughes |
-| 607 | 373 | Hunter Connors |
+| 606 | 373 | Hunter Connors |
+| 607 | 373 | Jessica Hughes |
 | 608 | 372 | Ebony Deloach Bryant |
 | 609 | 371 | Brenda Messer |
 | 610 | 371 | AkaLefty |
@@ -634,8 +634,8 @@
 | 626 | 363 | Michelle Sager |
 | 627 | 363 | Kia Humphery |
 | 628 | 363 | Stephanie Fortune |
-| 629 | 362 | Veronics |
-| 630 | 362 | Andrea Maher |
+| 629 | 362 | Andrea Maher |
+| 630 | 362 | Veronics |
 | 631 | 362 | Tracy Wise |
 | 632 | 362 | Jennifer Scott |
 | 633 | 362 | Aishah Brice |
@@ -678,18 +678,18 @@
 | 670 | 339 | Denise Rickman |
 | 671 | 338 | Janitta Alvarez |
 | 672 | 337 | Sassy Pattern |
-| 673 | 337 | Diallo Sparkman |
-| 674 | 337 | Tum |
+| 673 | 337 | Tum |
+| 674 | 337 | Diallo Sparkman |
 | 675 | 337 | Savannah Alexander |
-| 676 | 336 | Austin Wilson |
-| 677 | 336 | bru |
+| 676 | 336 | bru |
+| 677 | 336 | Austin Wilson |
 | 678 | 336 | Swanky Columnbuilder |
 | 679 | 335 | Brooke Leigh Strube |
 | 680 | 335 | Maria Louise |
 | 681 | 334 | Melissa James |
 | 682 | 333 | Veronica Stevenson |
-| 683 | 333 | Adrian Benitez |
-| 684 | 333 | Woodys Glass |
+| 683 | 333 | Woodys Glass |
+| 684 | 333 | Adrian Benitez |
 | 685 | 332 | Lathasa Newkirk |
 | 686 | 330 | Jennifer Monroe Kelly |
 | 687 | 329 | Chummy Blockbuilder |
@@ -816,7 +816,7 @@
 | 808 | 276 | Lindsey Leigh |
 | 809 | 275 | Crystal Elam |
 | 810 | 275 | Alishac Marie |
-| 811 | 275 | Tammy Mitchell |
+| 811 | 275 | Neaomi Favro |
 | 812 | 275 | LeVeL27 |
 | 813 | 275 | Tammy Mitchell |
 | 814 | 275 | Alyssia Tancredi |
@@ -855,14 +855,14 @@
 | 847 | 264 | Rachel Switala |
 | 848 | 264 | Ocean-Brianna McGregor |
 | 849 | 264 | Edna Combs |
-| 850 | 263 | Elizabeth Leinen |
-| 851 | 263 | Christina Walker |
+| 850 | 263 | Christina Walker |
+| 851 | 263 | Elizabeth Leinen |
 | 852 | 263 | Sunshine711 |
 | 853 | 263 | Amy Humphreys |
 | 854 | 263 | Sara Pennington |
 | 855 | 262 | Taren Cowan |
-| 856 | 261 | Gina Gina |
-| 857 | 261 | Dany Murillo |
+| 856 | 261 | Dany Murillo |
+| 857 | 261 | Gina Gina |
 | 858 | 261 | MrsClaudette Will'sIam Matthews |
 | 859 | 260 | Lynda Toland |
 | 860 | 260 | Michael David Hollis |
@@ -1065,9 +1065,9 @@
 | 1057 | 213 | Chirpy Tilt |
 | 1058 | 213 | Cynthia Knox |
 | 1059 | 213 | Hannah Leigh Pelofsky |
-| 1060 | 212 | Sarah Dean |
-| 1061 | 212 | JP Parks |
-| 1062 | 212 | Denelle Wendt-Ramalho |
+| 1060 | 212 | Denelle Wendt-Ramalho |
+| 1061 | 212 | Sarah Dean |
+| 1062 | 212 | JP Parks |
 | 1063 | 212 | Sassy Linkroll |
 | 1064 | 212 | Crafty Brickline |
 | 1065 | 212 | Izzy Rockford |
@@ -1443,8 +1443,8 @@
 | 1435 | 158 | Tammi Dorsey |
 | 1436 | 158 | John Cleland |
 | 1437 | 158 | Cerealkiller |
-| 1438 | 157 | Heather Walski |
-| 1439 | 157 | Ryley Laughlin |
+| 1438 | 157 | Ryley Laughlin |
+| 1439 | 157 | Heather Walski |
 | 1440 | 157 | James Lucas |
 | 1441 | 157 | Lively Piecebuilder |
 | 1442 | 157 | Dakota Brown |

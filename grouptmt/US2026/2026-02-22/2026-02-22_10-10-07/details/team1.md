@@ -96,8 +96,8 @@
 | 88 | 383 | Loony Fitzone |
 | 89 | 382 | Jacqueline Williams |
 | 90 | 379 | Nerdy Linkblock |
-| 91 | 379 | Austin James |
-| 92 | 379 | Kimmie Kimms |
+| 91 | 379 | Kimmie Kimms |
+| 92 | 379 | Austin James |
 | 93 | 376 | lil mickey |
 | 94 | 374 | Tinah Montanna |
 | 95 | 368 | Tdub |
@@ -133,14 +133,14 @@
 | 125 | 294 | Chelsea Dahlquist |
 | 126 | 290 | Death |
 | 127 | 285 | Ananda Mendez |
-| 128 | 284 | Rachael |
-| 129 | 284 | Emily Adelaide Wheatley |
+| 128 | 284 | Emily Adelaide Wheatley |
+| 129 | 284 | Rachael |
 | 130 | 283 | Franswa |
-| 131 | 282 | Cool Shiftsnap |
-| 132 | 282 | Snippy Wipebuilder |
-| 133 | 282 | Timothy Dew |
-| 134 | 280 | Sarah Roberts |
-| 135 | 280 | Jennifer Hardman |
+| 131 | 282 | Snippy Wipebuilder |
+| 132 | 282 | Timothy Dew |
+| 133 | 282 | Cool Shiftsnap |
+| 134 | 280 | Jennifer Hardman |
+| 135 | 280 | Sarah Roberts |
 | 136 | 276 | Dandy Basegrid |
 | 137 | 270 | Ash Galvan |
 | 138 | 268 | GATOR |
@@ -407,7 +407,7 @@
 | 399 | 94 | Logan McFarland |
 | 400 | 94 | Sylvia Vasquez |
 | 401 | 94 | Mitchel White |
-| 402 | 94 | Logan McFarland |
+| 402 | 94 | Christina Backer |
 | 403 | 94 | Patty Lavigne Craddock |
 | 404 | 94 | Tasha McCormack |
 | 405 | 94 | TristansDad |

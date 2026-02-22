@@ -170,8 +170,8 @@
 | 162 | 223 | Antony Dwayne Beasley |
 | 163 | 223 | Kris Bartlett |
 | 164 | 222 | Joeliecea Cobb |
-| 165 | 221 | Rheanda Weaskus |
-| 166 | 221 | PurpleMoonMa |
+| 165 | 221 | PurpleMoonMa |
+| 166 | 221 | Rheanda Weaskus |
 | 167 | 220 | Matt Dell'Olio |
 | 168 | 218 | Casey Grabner |
 | 169 | 217 | Chaz Duncan |
@@ -183,12 +183,12 @@
 | 175 | 211 | Jenna McGeorge |
 | 176 | 207 | Chirpy Basepiece |
 | 177 | 205 | Kathy Brookins |
-| 178 | 204 | Carlos Ramirez |
-| 179 | 204 | Jen Caldwell |
+| 178 | 204 | Jen Caldwell |
+| 179 | 204 | Carlos Ramirez |
 | 180 | 203 | Katherine Crane |
 | 181 | 202 | TRCuse |
-| 182 | 201 | Melvin Baird |
-| 183 | 201 | Chance Strickland |
+| 182 | 201 | Chance Strickland |
+| 183 | 201 | Melvin Baird |
 | 184 | 200 | Laura |
 | 185 | 199 | Zethra Prenisha Rahming |
 | 186 | 198 | Ruben Wheeler |
@@ -236,8 +236,8 @@
 | 228 | 160 | Laura Hosford |
 | 229 | 160 | Brittany Marsh |
 | 230 | 159 | Marcus Todd |
-| 231 | 158 | Chair |
-| 232 | 158 | Avy Absol |
+| 231 | 158 | Avy Absol |
+| 232 | 158 | Chair |
 | 233 | 157 | scott |
 | 234 | 157 | Bethany Ison |
 | 235 | 157 | KayM |
@@ -413,8 +413,8 @@
 | 405 | 96 | Sammy Noguera |
 | 406 | 96 | Rebecca Blake |
 | 407 | 95 | Chirpy Slammer |
-| 408 | 95 | Tina Martinez |
-| 409 | 95 | Jobadia Steelerton |
+| 408 | 95 | Jobadia Steelerton |
+| 409 | 95 | Tina Martinez |
 | 410 | 95 | RedBoots82 |
 | 411 | 94 | DonMega |
 | 412 | 94 | Jeff Roberts |
