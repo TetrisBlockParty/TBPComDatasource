@@ -100,8 +100,8 @@
 | 92 | 370 | Leslie Thomas |
 | 93 | 369 | Nope Young |
 | 94 | 358 | Nugget |
-| 95 | 352 | Monica Daley |
-| 96 | 352 | Zippy Gridlock |
+| 95 | 352 | Zippy Gridlock |
+| 96 | 352 | Monica Daley |
 | 97 | 344 | Livvy |
 | 98 | 337 | Lori Walker |
 | 99 | 319 | Amanda Pauldo-Ivy |

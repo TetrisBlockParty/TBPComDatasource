@@ -78,8 +78,8 @@
 | 70 | 417 | Lori Sanders- Davis |
 | 71 | 415 | Spunky Piecebuilder |
 | 72 | 413 | Steve Schneider |
-| 73 | 412 | Jazzy Framezone |
-| 74 | 412 | Anaid Sanchez |
+| 73 | 412 | Anaid Sanchez |
+| 74 | 412 | Jazzy Framezone |
 | 75 | 406 | Yvonne Marie |
 | 76 | 390 | Candy Jones |
 | 77 | 390 | Cynthia Bradley |
@@ -180,8 +180,8 @@
 | 172 | 203 | Paula Martin |
 | 173 | 201 | Sam Williams |
 | 174 | 199 | Basment Living |
-| 175 | 198 | Happy Snapbuild |
-| 176 | 198 | Shiny Gridmatch |
+| 175 | 198 | Shiny Gridmatch |
+| 176 | 198 | Happy Snapbuild |
 | 177 | 195 | Shaykmia |
 | 178 | 194 | Christy Jones |
 | 179 | 193 | Lachelle Dillon |
