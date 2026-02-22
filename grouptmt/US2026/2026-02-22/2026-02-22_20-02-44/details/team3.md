@@ -46,8 +46,8 @@
 | 38 | 1410 | Jennifer Willis |
 | 39 | 1402 | cowboy25469 |
 | 40 | 1394 | Ashley Jones |
-| 41 | 1369 | Tetris Master |
-| 42 | 1369 | mjl574 |
+| 41 | 1369 | mjl574 |
+| 42 | 1369 | Tetris Master |
 | 43 | 1361 | Kay |
 | 44 | 1358 | Raven Dudley |
 | 45 | 1313 | Delilah belle |
@@ -70,8 +70,8 @@
 | 62 | 1027 | Gracie |
 | 63 | 1019 | Joey Banks |
 | 64 | 954 | Nate Burnside |
-| 65 | 926 | Judi Dobson |
-| 66 | 926 | Angela M. Fletcher |
+| 65 | 926 | Angela M. Fletcher |
+| 66 | 926 | Judi Dobson |
 | 67 | 924 | Shonna Roberts |
 | 68 | 909 | Jennifer |
 | 69 | 903 | Sarah Fehring |
@@ -91,8 +91,8 @@
 | 83 | 828 | Jessica Ann |
 | 84 | 826 | Shane Wilson Jr. |
 | 85 | 824 | Shari Garber |
-| 86 | 811 | Sarajane Lokan |
-| 87 | 811 | Jay Horn |
+| 86 | 811 | Jay Horn |
+| 87 | 811 | Sarajane Lokan |
 | 88 | 807 | Snappy Glidepiece |
 | 89 | 800 | Lauren Girouard |
 | 90 | 797 | Danielle Mogg |
@@ -122,8 +122,8 @@
 | 114 | 625 | Shavette |
 | 115 | 625 | Amber Hughes |
 | 116 | 621 | Cherry Parker |
-| 117 | 618 | Bea Miles |
-| 118 | 618 | Kristie |
+| 117 | 618 | Kristie |
+| 118 | 618 | Bea Miles |
 | 119 | 595 | Patricia White |
 | 120 | 589 | Giddy Drop |
 | 121 | 583 | Karon Griffin |
@@ -180,11 +180,11 @@
 | 172 | 445 | Jacqueline Rodriguez |
 | 173 | 441 | Tasha Schriewer |
 | 174 | 439 | Tasha Gillespie |
-| 175 | 432 | Christine Trester |
+| 175 | 432 | Luciana Braganca Vieira |
 | 176 | 432 | Jenny Hrndz |
-| 177 | 432 | Luciana Braganca Vieira |
-| 178 | 430 | Joye Sims Binion |
-| 179 | 430 | Jeni Dow |
+| 177 | 432 | Christine Trester |
+| 178 | 430 | Jeni Dow |
+| 179 | 430 | Joye Sims Binion |
 | 180 | 428 | Araceli Parra |
 | 181 | 427 | Wendy Dearden |
 | 182 | 422 | Rochelle Hazelett |
@@ -211,9 +211,9 @@
 | 203 | 378 | Chris Bell |
 | 204 | 377 | Darlene McMillan |
 | 205 | 376 | Loopy Clusterer |
-| 206 | 372 | Tom Nault |
-| 207 | 372 | Giddy Twistbuilder |
-| 208 | 372 | Rich LeBlanc |
+| 206 | 372 | Giddy Twistbuilder |
+| 207 | 372 | Rich LeBlanc |
+| 208 | 372 | Tom Nault |
 | 209 | 370 | Santeria Trece Candles |
 | 210 | 369 | Sarah Moyer |
 | 211 | 368 | Stephanie Woods |
@@ -230,11 +230,11 @@
 | 222 | 350 | Kammy Hill |
 | 223 | 349 | Amanda J. Mcneil-Anderson |
 | 224 | 348 | Kristal C Lee |
-| 225 | 347 | Trisha Balmer |
-| 226 | 347 | Philip Rock |
+| 225 | 347 | Philip Rock |
+| 226 | 347 | Trisha Balmer |
 | 227 | 346 | Tamara Deherrera |
-| 228 | 344 | Rania Zaqout |
-| 229 | 344 | Roary Danner |
+| 228 | 344 | Roary Danner |
+| 229 | 344 | Rania Zaqout |
 | 230 | 343 | Ashley Raines |
 | 231 | 341 | Ashley Tookes |
 | 232 | 341 | Noyb Adam |
@@ -249,8 +249,8 @@
 | 241 | 324 | Sissy Lowery Davis |
 | 242 | 323 | Demetrious Shaw Sr. |
 | 243 | 321 | Rebecca Bailey |
-| 244 | 320 | Or Reznitsky |
-| 245 | 320 | Ashley Muncey |
+| 244 | 320 | Ashley Muncey |
+| 245 | 320 | Or Reznitsky |
 | 246 | 319 | Michael Johnson |
 | 247 | 317 | Kelly |
 | 248 | 314 | Peppy Shifter |
@@ -495,7 +495,7 @@
 | 487 | 161 | Erica Anderson |
 | 488 | 161 | Julia Nicole |
 | 489 | 161 | Alexi Pryor |
-| 490 | 161 | Tammy |
+| 490 | 161 | Paul Larsen |
 | 491 | 160 | Flashy Rumbler |
 | 492 | 160 | Michell Hendershott Jackson |
 | 493 | 160 | Bhreagh Gentile |
