@@ -142,13 +142,13 @@
 | 134 | 409 | Karon Griffin |
 | 135 | 407 | Joye Sims Binion |
 | 136 | 405 | Michelle |
-| 137 | 403 | Christine Filson |
-| 138 | 403 | Scott Lindsay |
+| 137 | 403 | Scott Lindsay |
+| 138 | 403 | Christine Filson |
 | 139 | 402 | Shannon Matthew Byers |
 | 140 | 400 | Luciana Braganca Vieira |
 | 141 | 400 | Aaron Pitkin |
-| 142 | 399 | Marcie Bressler |
-| 143 | 399 | Mcathen |
+| 142 | 399 | Mcathen |
+| 143 | 399 | Marcie Bressler |
 | 144 | 397 | Annie Déè |
 | 145 | 392 | Katie Knaus |
 | 146 | 392 | Tasha Gillespie |
@@ -237,8 +237,8 @@
 | 229 | 258 | Tamara Deherrera |
 | 230 | 257 | Ashley Jones |
 | 231 | 256 | Brenda Lee Vander Molen |
-| 232 | 256 | Tiffany Davie |
-| 233 | 256 | KayB |
+| 232 | 256 | KayB |
+| 233 | 256 | Tiffany Davie |
 | 234 | 251 | Sabrina Hardrick |
 | 235 | 251 | Rochelle Hazelett |
 | 236 | 250 | fraulila |
@@ -307,14 +307,14 @@
 | 299 | 182 | Melanie Sherwood |
 | 300 | 181 | Nicholas Roddy |
 | 301 | 181 | Denita Mungro |
-| 302 | 180 | Beth Ingham |
-| 303 | 180 | Criss |
+| 302 | 180 | Criss |
+| 303 | 180 | Beth Ingham |
 | 304 | 179 | DanceLuvLaugh |
 | 305 | 179 | Rachel Napper |
 | 306 | 179 | Christian Werndl |
 | 307 | 179 | Tipsy Zonebuilder |
-| 308 | 178 | Jess Dearborn |
-| 309 | 178 | Jennifer Alvey |
+| 308 | 178 | Jennifer Alvey |
+| 309 | 178 | Jess Dearborn |
 | 310 | 177 | Cozy Snaplink |
 | 311 | 176 | Emma |
 | 312 | 176 | Melissa Orth Hunter |
@@ -345,9 +345,9 @@
 | 337 | 161 | Bouncy Blockbuilder |
 | 338 | 161 | Michael Johnson |
 | 339 | 160 | Rachel |
-| 340 | 159 | Salena Whitlock |
-| 341 | 159 | Joshua David Huie |
-| 342 | 159 | Ashley Rufus Bythcez |
+| 340 | 159 | Ashley Rufus Bythcez |
+| 341 | 159 | Salena Whitlock |
+| 342 | 159 | Joshua David Huie |
 | 343 | 158 | Willow |
 | 344 | 157 | Katrina E Jelks |
 | 345 | 157 | Angel Mendez |
@@ -449,9 +449,9 @@
 | 441 | 119 | Angella Lyons |
 | 442 | 118 | Damian Reid |
 | 443 | 118 | Fancy Curver |
-| 444 | 117 | Anabela Ruiz |
-| 445 | 117 | Dee Pratt |
-| 446 | 117 | Rayzer |
+| 444 | 117 | Dee Pratt |
+| 445 | 117 | Rayzer |
+| 446 | 117 | Anabela Ruiz |
 | 447 | 117 | James Lykes |
 | 448 | 116 | Dapper Towerfit |
 | 449 | 116 | Elisha L Allman |
@@ -494,13 +494,13 @@
 | 486 | 108 | Rachel Grant |
 | 487 | 108 | Sierra Spencer |
 | 488 | 108 | Jack Bo |
-| 489 | 107 | Megan Stanley |
-| 490 | 107 | Alexsandran Valdivia |
+| 489 | 107 | Alexsandran Valdivia |
+| 490 | 107 | Megan Stanley |
 | 491 | 107 | Tiffany Marler |
-| 492 | 107 | Block Baddie |
-| 493 | 107 | Spicy Caster |
-| 494 | 106 | SaSa Mac |
-| 495 | 106 | Megan Riggins |
+| 492 | 107 | Spicy Caster |
+| 493 | 107 | Block Baddie |
+| 494 | 106 | Megan Riggins |
+| 495 | 106 | SaSa Mac |
 | 496 | 106 | Vikkye Vizaniaris |
 | 497 | 106 | Jul |
 | 498 | 106 | G |

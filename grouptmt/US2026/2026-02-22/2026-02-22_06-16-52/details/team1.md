@@ -307,8 +307,8 @@
 | 299 | 116 | Fresno Beotoni |
 | 300 | 115 | Mrs.Patrica |
 | 301 | 114 | Angela Rena Brooks |
-| 302 | 114 | Chris Sigurdson |
-| 303 | 114 | Constance Risner |
+| 302 | 114 | Constance Risner |
+| 303 | 114 | Chris Sigurdson |
 | 304 | 113 | Itspaigebro |
 | 305 | 112 | Chris65 |
 | 306 | 112 | Crystal Joslin |

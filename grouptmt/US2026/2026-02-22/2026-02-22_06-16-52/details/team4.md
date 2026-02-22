@@ -31,8 +31,8 @@
 | 23 | 886 | Dustin Robert |
 | 24 | 880 | Koshin Abdirahman |
 | 25 | 879 | Heather Tushner |
-| 26 | 873 | Michelle Pearman |
-| 27 | 873 | Elizabeth Sallas |
+| 26 | 873 | Elizabeth Sallas |
+| 27 | 873 | Michelle Pearman |
 | 28 | 871 | Denny Shives |
 | 29 | 870 | Devinlee Brown |
 | 30 | 846 | Christine Marie |
@@ -76,8 +76,8 @@
 | 68 | 501 | H.R. Block |
 | 69 | 500 | Rodney McMath Jr. |
 | 70 | 486 | Landon Keith Graffeo |
-| 71 | 483 | TeeJ |
-| 72 | 483 | Carmethia Clemons Haslerig |
+| 71 | 483 | Carmethia Clemons Haslerig |
+| 72 | 483 | TeeJ |
 | 73 | 467 | Dawn Alexander |
 | 74 | 447 | Samantha Peterson |
 | 75 | 440 | Kristin Manee |
@@ -113,8 +113,8 @@
 | 105 | 303 | Lauren Scott |
 | 106 | 300 | Jason Hart |
 | 107 | 298 | Lucas J Sutton |
-| 108 | 296 | Justin Hannigan |
-| 109 | 296 | HastyGrabber |
+| 108 | 296 | HastyGrabber |
+| 109 | 296 | Justin Hannigan |
 | 110 | 295 | Latisha Davis |
 | 111 | 294 | Kesha Brady |
 | 112 | 290 | 🥔🥔 Spudz |
@@ -123,8 +123,8 @@
 | 115 | 286 | Daria Rycewicz |
 | 116 | 284 | shark tato |
 | 117 | 281 | Meagan Nicole |
-| 118 | 278 | Desi Desporte |
-| 119 | 278 | Carrie Brian |
+| 118 | 278 | Carrie Brian |
+| 119 | 278 | Desi Desporte |
 | 120 | 277 | Scott Jameson |
 | 121 | 277 | Mary Ann Pabukis |
 | 122 | 275 | Dizzy Tiley |
@@ -139,8 +139,8 @@
 | 131 | 255 | Lindsay Ball |
 | 132 | 249 | Leah Kutz Zirbel |
 | 133 | 245 | Diana Houts |
-| 134 | 240 | Jolly Dashfit |
-| 135 | 240 | Peachy Fall |
+| 134 | 240 | Peachy Fall |
+| 135 | 240 | Jolly Dashfit |
 | 136 | 236 | Chastity Mitchell |
 | 137 | 232 | Crystal Nicolette Moore |
 | 138 | 232 | Chilly Crasher |
@@ -204,10 +204,10 @@
 | 196 | 171 | Autumn Kumzi |
 | 197 | 168 | TinyLegoRose |
 | 198 | 167 | Cozy Balancer |
-| 199 | 166 | Marvin Lou Martin |
-| 200 | 166 | SammieJo Guy |
-| 201 | 165 | James Hurley Jr. |
-| 202 | 165 | Jackie Marie |
+| 199 | 166 | SammieJo Guy |
+| 200 | 166 | Marvin Lou Martin |
+| 201 | 165 | Jackie Marie |
+| 202 | 165 | James Hurley Jr. |
 | 203 | 164 | 030Synner |
 | 204 | 163 | Kristina Black |
 | 205 | 162 | Joanna |
@@ -220,8 +220,8 @@
 | 212 | 158 | Sam Bishop |
 | 213 | 158 | Chair |
 | 214 | 157 | KayM |
-| 215 | 157 | Bethany Ison |
-| 216 | 157 | scott |
+| 215 | 157 | scott |
+| 216 | 157 | Bethany Ison |
 | 217 | 156 | Cheery Risebuilder |
 | 218 | 155 | AyeKay |
 | 219 | 154 | John Brunetti |
