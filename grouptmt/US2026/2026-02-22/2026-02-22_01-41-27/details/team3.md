@@ -119,7 +119,7 @@
 | 111 | 403 | Christine Filson |
 | 112 | 403 | FuzzyNavel |
 | 113 | 400 | Luciana Braganca Vieira |
-| 114 | 399 | Patti Skiles |
+| 114 | 399 | Mcathen |
 | 115 | 399 | ren |
 | 116 | 399 | Patti Skiles |
 | 117 | 397 | Annie Déè |
@@ -135,8 +135,8 @@
 | 127 | 378 | Makelini Mausia |
 | 128 | 376 | Khristen AC |
 | 129 | 376 | Loopy Clusterer |
-| 130 | 368 | Stephanie Blkpep Davidson |
-| 131 | 368 | Stephanie Woods |
+| 130 | 368 | Stephanie Woods |
+| 131 | 368 | Stephanie Blkpep Davidson |
 | 132 | 367 | mjl574 |
 | 133 | 366 | Adrian Marcel Pate |
 | 134 | 365 | Logan Naccarato |
@@ -185,16 +185,16 @@
 | 177 | 261 | Tiffany Ford |
 | 178 | 258 | Tamara Deherrera |
 | 179 | 257 | Ashley Jones |
-| 180 | 256 | Brenda Lee Vander Molen |
-| 181 | 256 | KayB |
+| 180 | 256 | KayB |
+| 181 | 256 | Brenda Lee Vander Molen |
 | 182 | 254 | Duane Bright |
 | 183 | 249 | Terry Jo Jones |
 | 184 | 247 | Rebecca Funderburk Kirby |
 | 185 | 245 | Latoya Mayne |
 | 186 | 245 | Annie Marie |
 | 187 | 243 | Rochelle Hazelett |
-| 188 | 240 | Jimmie Clemons |
-| 189 | 240 | Brandon Givens |
+| 188 | 240 | Brandon Givens |
+| 189 | 240 | Jimmie Clemons |
 | 190 | 239 | Fallorina Susana |
 | 191 | 236 | Jess Bissett |
 | 192 | 234 | Nikki Pags |

@@ -391,8 +391,8 @@
 | 383 | 416 | Lina Sanders |
 | 384 | 414 | Kara Gillen |
 | 385 | 414 | Sabrina Burton |
-| 386 | 414 | John |
-| 387 | 414 | Emily Lyric Converse |
+| 386 | 414 | Emily Lyric Converse |
+| 387 | 414 | John |
 | 388 | 413 | Brandy Andre |
 | 389 | 411 | Kristen O'Neal |
 | 390 | 411 | Ricky Fortune |

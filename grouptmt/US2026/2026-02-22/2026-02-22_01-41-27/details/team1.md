@@ -139,8 +139,8 @@
 | 131 | 211 | Marianita Garcia |
 | 132 | 208 | Giggly Builderline |
 | 133 | 207 | Leslie Bush Yarbrough |
-| 134 | 203 | GATOR |
-| 135 | 203 | Paula Martin |
+| 134 | 203 | Paula Martin |
+| 135 | 203 | GATOR |
 | 136 | 199 | Jennifer Hardman |
 | 137 | 198 | Greg Hart |
 | 138 | 198 | Happy Snapbuild |
@@ -186,8 +186,8 @@
 | 178 | 167 | Erin Hodges Plumb |
 | 179 | 167 | Nery Martinez |
 | 180 | 166 | Rico Rico |
-| 181 | 165 | Nadine Velardo |
-| 182 | 165 | Arianna O'Brien |
+| 181 | 165 | Arianna O'Brien |
+| 182 | 165 | Nadine Velardo |
 | 183 | 164 | Shanae Grant |
 | 184 | 163 | Tyler Whitley |
 | 185 | 162 | Cece Ibarra |
