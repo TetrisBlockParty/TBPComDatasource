@@ -98,8 +98,8 @@
 | 90 | 453 | Brandi Huntington |
 | 91 | 452 | Tdub |
 | 92 | 448 | Loony Fitzone |
-| 93 | 444 | Hyper |
-| 94 | 444 | Lexuriuos Lifestlye |
+| 93 | 444 | Lexuriuos Lifestlye |
+| 94 | 444 | Hyper |
 | 95 | 443 | Steve Schneider |
 | 96 | 439 | Trina Gee |
 | 97 | 436 | Tonya Beasley |
@@ -112,8 +112,8 @@
 | 104 | 417 | Lori Sanders- Davis |
 | 105 | 412 | Anaid Sanchez |
 | 106 | 411 | Luciano Moreira |
-| 107 | 409 | Yvonne Marie |
-| 108 | 409 | Dandy Basegrid |
+| 107 | 409 | Dandy Basegrid |
+| 108 | 409 | Yvonne Marie |
 | 109 | 395 | Nery Martinez |
 | 110 | 394 | Chris K |
 | 111 | 391 | Lori Bales |
@@ -301,9 +301,9 @@
 | 293 | 189 | Bird Person |
 | 294 | 189 | Katie Martin |
 | 295 | 188 | Brave Wrecker |
-| 296 | 187 | Cool Towerzone |
+| 296 | 187 | GringaLinga |
 | 297 | 187 | Jessica Weed |
-| 298 | 187 | GringaLinga |
+| 298 | 187 | Cool Towerzone |
 | 299 | 185 | Hasty Columnbuilder |
 | 300 | 185 | Speedy Snapfall |
 | 301 | 184 | Chris Sigurdson |

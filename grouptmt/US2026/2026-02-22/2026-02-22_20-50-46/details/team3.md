@@ -70,8 +70,8 @@
 | 62 | 1027 | Gracie |
 | 63 | 1019 | Joey Banks |
 | 64 | 954 | Nate Burnside |
-| 65 | 926 | Angela M. Fletcher |
-| 66 | 926 | Judi Dobson |
+| 65 | 926 | Judi Dobson |
+| 66 | 926 | Angela M. Fletcher |
 | 67 | 924 | Shonna Roberts |
 | 68 | 909 | Jennifer |
 | 69 | 903 | Sarah Fehring |
@@ -163,8 +163,8 @@
 | 155 | 479 | Annie Marie |
 | 156 | 474 | Danielle Balcom |
 | 157 | 473 | Calista Jo Dickson |
-| 158 | 471 | Mendoza Lee Christy |
-| 159 | 471 | Nora Rogers |
+| 158 | 471 | Nora Rogers |
+| 159 | 471 | Mendoza Lee Christy |
 | 160 | 470 | Logan Naccarato |
 | 161 | 469 | Melissa Orth Hunter |
 | 162 | 469 | Adrian Marcel Pate |
@@ -217,10 +217,10 @@
 | 209 | 370 | Santeria Trece Candles |
 | 210 | 369 | Sarah Moyer |
 | 211 | 368 | Stephanie Woods |
-| 212 | 367 | Marci Mize Fandrich |
-| 213 | 367 | Loopy Fallmatch |
-| 214 | 365 | Tiffany Ford |
-| 215 | 365 | Chummy Caster |
+| 212 | 367 | Loopy Fallmatch |
+| 213 | 367 | Marci Mize Fandrich |
+| 214 | 365 | Chummy Caster |
+| 215 | 365 | Tiffany Ford |
 | 216 | 362 | Brandon Givens |
 | 217 | 361 | RickyG |
 | 218 | 360 | Sheila M Frazier |
@@ -269,8 +269,8 @@
 | 261 | 298 | Grams |
 | 262 | 298 | MsBee |
 | 263 | 297 | Jojo M |
-| 264 | 296 | Katrina Turner |
-| 265 | 296 | Hoppy Buildout |
+| 264 | 296 | Hoppy Buildout |
+| 265 | 296 | Katrina Turner |
 | 266 | 295 | Tiffany Davie |
 | 267 | 293 | Tye Stovall |
 | 268 | 292 | Cheeky Snapper |
@@ -364,8 +364,8 @@
 | 356 | 221 | Vaners |
 | 357 | 219 | TotoCherue |
 | 358 | 218 | Isabel Ocasio |
-| 359 | 218 | Khaleada McGill Banks |
-| 360 | 218 | Tina Smith Roy |
+| 359 | 218 | Tina Smith Roy |
+| 360 | 218 | Khaleada McGill Banks |
 | 361 | 218 | Eileen Brady Thurber |
 | 362 | 217 | Emma |
 | 363 | 217 | Goofy Fall |
@@ -385,13 +385,13 @@
 | 377 | 211 | Hoppy Patternline |
 | 378 | 210 | Saucy Buildout |
 | 379 | 209 | Daring Builder |
-| 380 | 208 | Michael Kimbro |
-| 381 | 208 | Karent524 |
+| 380 | 208 | Karent524 |
+| 381 | 208 | Michael Kimbro |
 | 382 | 207 | angieelyn |
 | 383 | 207 | Kristian Thurman |
 | 384 | 207 | Loopy Fallzone |
-| 385 | 206 | Cesar Barraza |
-| 386 | 206 | Tammy Rosenberry |
+| 385 | 206 | Tammy Rosenberry |
+| 386 | 206 | Cesar Barraza |
 | 387 | 205 | Rachel Napper |
 | 388 | 204 | Samantha Worley |
 | 389 | 204 | Frilly Stackzone |

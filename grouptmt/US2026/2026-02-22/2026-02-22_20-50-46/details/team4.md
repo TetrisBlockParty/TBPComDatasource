@@ -122,8 +122,8 @@
 | 114 | 438 | shar |
 | 115 | 435 | Leslie Thomas |
 | 116 | 431 | Zippy Gridlock |
-| 117 | 427 | KJ Pool |
-| 118 | 427 | Jolly Dashfit |
+| 117 | 427 | Jolly Dashfit |
+| 118 | 427 | KJ Pool |
 | 119 | 426 | Ren Mc |
 | 120 | 418 | Dizzy Tiley |
 | 121 | 415 | Monica Daley |
@@ -139,8 +139,8 @@
 | 131 | 373 | Joseph Guthrie |
 | 132 | 368 | Lucas J Sutton |
 | 133 | 357 | Trista Leah |
-| 134 | 354 | Jessica Lynn Cutlip |
-| 135 | 354 | Kesha Brady |
+| 134 | 354 | Kesha Brady |
+| 135 | 354 | Jessica Lynn Cutlip |
 | 136 | 353 | Livvy |
 | 137 | 353 | Tyler Terrific |
 | 138 | 344 | Lush Linkfall |
@@ -200,11 +200,11 @@
 | 192 | 266 | Chris Bernstein |
 | 193 | 265 | J-Rizzle |
 | 194 | 264 | Epic Curvetile |
-| 195 | 262 | Holly Jolly |
-| 196 | 262 | Joeliecea Cobb |
+| 195 | 262 | Joeliecea Cobb |
+| 196 | 262 | Holly Jolly |
 | 197 | 261 | scott |
-| 198 | 259 | Melvin Baird |
-| 199 | 259 | Sam Bishop |
+| 198 | 259 | Sam Bishop |
+| 199 | 259 | Melvin Baird |
 | 200 | 258 | Jen Caldwell |
 | 201 | 256 | Mylo Lipscomb |
 | 202 | 255 | Sue Joyce Staats |

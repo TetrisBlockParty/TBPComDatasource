@@ -177,8 +177,8 @@
 | 169 | 1216 | Nancy Reid |
 | 170 | 1211 | Lucky Ladybug |
 | 171 | 1207 | David Cudicio-Hayden |
-| 172 | 1192 | Ashley House |
-| 173 | 1192 | Denisha Dawkins |
+| 172 | 1192 | Denisha Dawkins |
+| 173 | 1192 | Ashley House |
 | 174 | 1180 | Ambyre Patterson |
 | 175 | 1177 | Joyce Johnson Vaughn |
 | 176 | 1174 | Jennifer Casey-Kay |
@@ -277,8 +277,8 @@
 | 269 | 883 | nikki |
 | 270 | 880 | Sam Joe |
 | 271 | 878 | Missie Lawson Gebhardt |
-| 272 | 875 | William Hunt |
-| 273 | 875 | Jamie Otero |
+| 272 | 875 | Jamie Otero |
+| 273 | 875 | William Hunt |
 | 274 | 874 | Giggy Blocker |
 | 275 | 872 | Felicia Lynn |
 | 276 | 867 | Peppy Zone |
@@ -369,8 +369,8 @@
 | 361 | 700 | Vincent Petrella |
 | 362 | 700 | Beverly Owens |
 | 363 | 699 | Dannette Goldberg-Richards |
-| 364 | 697 | Ashle Scranton |
-| 365 | 697 | Dreamy Blast |
+| 364 | 697 | Dreamy Blast |
+| 365 | 697 | Ashle Scranton |
 | 366 | 695 | Mama T |
 | 367 | 695 | Lakeysha Dortch |
 | 368 | 691 | Joce Lynn |
@@ -419,8 +419,8 @@
 | 411 | 627 | Victoria Moore-Smith |
 | 412 | 626 | Steven Marshaun |
 | 413 | 626 | Demeka Dangerous-kisses Johnson |
-| 414 | 620 | Brandon Armstrong |
-| 415 | 620 | Traci Johnson |
+| 414 | 620 | Traci Johnson |
+| 415 | 620 | Brandon Armstrong |
 | 416 | 618 | Vanessa Moreno |
 | 417 | 617 | Darcy Mae |
 | 418 | 617 | Nicole Cannon |
