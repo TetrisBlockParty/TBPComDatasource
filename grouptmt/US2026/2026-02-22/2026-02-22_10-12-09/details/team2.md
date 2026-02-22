@@ -135,8 +135,8 @@
 | 127 | 1273 | Cool Rollpiece |
 | 128 | 1257 | Eileen Hale |
 | 129 | 1252 | Katrina Williams Balmir |
-| 130 | 1248 | Isabela Shaw |
-| 131 | 1248 | Howard Forest |
+| 130 | 1248 | Howard Forest |
+| 131 | 1248 | Isabela Shaw |
 | 132 | 1242 | Altamirano Michael |
 | 133 | 1232 | Groovy Puzzle |
 | 134 | 1226 | Vo'Landa Reels |
@@ -338,12 +338,12 @@
 | 330 | 620 | Brandon Armstrong |
 | 331 | 619 | Jánine Riggs |
 | 332 | 617 | Leslie Ann Carter |
-| 333 | 613 | Breezy Filler |
-| 334 | 613 | Caitlyn Blackwell |
+| 333 | 613 | Caitlyn Blackwell |
+| 334 | 613 | Breezy Filler |
 | 335 | 613 | Ellie Jonas |
 | 336 | 611 | Em Chen |
-| 337 | 611 | Carl Bradshaw |
-| 338 | 611 | Julio A Laracuente |
+| 337 | 611 | Julio A Laracuente |
+| 338 | 611 | Carl Bradshaw |
 | 339 | 605 | Jelly |
 | 340 | 603 | Cassie Maynard |
 | 341 | 602 | KhaosLord |
@@ -398,8 +398,8 @@
 | 390 | 525 | Desiree Anderson |
 | 391 | 524 | Lonne Emade |
 | 392 | 523 | Matt Johnson |
-| 393 | 522 | Lylymom |
-| 394 | 522 | Joseph Musick |
+| 393 | 522 | Joseph Musick |
+| 394 | 522 | Lylymom |
 | 395 | 521 | Tj Ball |
 | 396 | 520 | Maddy Petersen |
 | 397 | 520 | Angela Lynn |
@@ -482,8 +482,8 @@
 | 474 | 456 | Melissa Rebbe-Lehman |
 | 475 | 455 | Kiana Boschh |
 | 476 | 454 | Casey Schumacher |
-| 477 | 453 | Rhonda Petro |
-| 478 | 453 | Joshua Sommerville |
+| 477 | 453 | Joshua Sommerville |
+| 478 | 453 | Rhonda Petro |
 | 479 | 451 | Funky Caster |
 | 480 | 451 | Dylan Thomason |
 | 481 | 450 | Cheery Matchzone |
@@ -606,8 +606,8 @@
 | 598 | 378 | Tina Marie |
 | 599 | 378 | Jasmine Kenney |
 | 600 | 377 | Jason H Baker |
-| 601 | 376 | Darlene Bowman |
-| 602 | 376 | James Zaragoza |
+| 601 | 376 | James Zaragoza |
+| 602 | 376 | Darlene Bowman |
 | 603 | 375 | Cecilia A Jenkins |
 | 604 | 375 | Lively Edgepiece |
 | 605 | 373 | Ashley Marie |
@@ -681,8 +681,8 @@
 | 673 | 337 | Diallo Sparkman |
 | 674 | 337 | Tum |
 | 675 | 337 | Savannah Alexander |
-| 676 | 336 | bru |
-| 677 | 336 | Austin Wilson |
+| 676 | 336 | Austin Wilson |
+| 677 | 336 | bru |
 | 678 | 336 | Swanky Columnbuilder |
 | 679 | 335 | Brooke Leigh Strube |
 | 680 | 335 | Maria Louise |
@@ -693,8 +693,8 @@
 | 685 | 332 | Lathasa Newkirk |
 | 686 | 330 | Jennifer Monroe Kelly |
 | 687 | 329 | Chummy Blockbuilder |
-| 688 | 329 | Jane Crew |
-| 689 | 329 | Snappy Shatterfit |
+| 688 | 329 | Snappy Shatterfit |
+| 689 | 329 | Jane Crew |
 | 690 | 328 | BabyBird |
 | 691 | 328 | Jamie Carter Bierce |
 | 692 | 327 | Danielle Ayoub |
@@ -789,8 +789,8 @@
 | 781 | 286 | Kelsey Sullivan |
 | 782 | 285 | Kimberly Mitchell |
 | 783 | 285 | Min |
-| 784 | 285 | Court |
-| 785 | 285 | Epic Stackbuilder |
+| 784 | 285 | Epic Stackbuilder |
+| 785 | 285 | Court |
 | 786 | 284 | Hillary Franklin |
 | 787 | 282 | Nutty Slice |
 | 788 | 281 | Anthony |
@@ -804,7 +804,7 @@
 | 796 | 279 | Jennifer Coe |
 | 797 | 279 | Katherin Camacho |
 | 798 | 278 | AndrewandShela Gornik |
-| 799 | 277 | Anthony Mignacca |
+| 799 | 277 | Brianna Cerney |
 | 800 | 277 | Amanda Chamberlain |
 | 801 | 277 | Anthony Mignacca |
 | 802 | 276 | Jennifer Leigh |
@@ -1063,10 +1063,10 @@
 | 1055 | 214 | Luciano Andre Versace Grismondie |
 | 1056 | 213 | Janai Vrabel |
 | 1057 | 213 | Chirpy Tilt |
-| 1058 | 213 | Cynthia Knox |
-| 1059 | 213 | Hannah Leigh Pelofsky |
-| 1060 | 212 | Denelle Wendt-Ramalho |
-| 1061 | 212 | JP Parks |
+| 1058 | 213 | Hannah Leigh Pelofsky |
+| 1059 | 213 | Cynthia Knox |
+| 1060 | 212 | JP Parks |
+| 1061 | 212 | Denelle Wendt-Ramalho |
 | 1062 | 212 | Sarah Dean |
 | 1063 | 212 | Sassy Linkroll |
 | 1064 | 212 | Crafty Brickline |
@@ -1467,12 +1467,12 @@
 | 1459 | 155 | Fantastic Dog of black forest |
 | 1460 | 155 | BeenRich Theceo |
 | 1461 | 155 | Paula Martinez |
-| 1462 | 155 | Emilee Burke |
-| 1463 | 155 | STLBatman |
-| 1464 | 155 | Melissa Schwager |
-| 1465 | 154 | Alexander Rodriguez |
-| 1466 | 154 | Mine |
-| 1467 | 154 | Stacey |
+| 1462 | 155 | Melissa Schwager |
+| 1463 | 155 | Emilee Burke |
+| 1464 | 155 | STLBatman |
+| 1465 | 154 | Stacey |
+| 1466 | 154 | Alexander Rodriguez |
+| 1467 | 154 | Mine |
 | 1468 | 154 | Fancy Setter |
 | 1469 | 154 | Wayne Fields |
 | 1470 | 154 | Infinity steph |

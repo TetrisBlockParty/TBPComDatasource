@@ -96,8 +96,8 @@
 | 88 | 383 | Loony Fitzone |
 | 89 | 382 | Jacqueline Williams |
 | 90 | 379 | Nerdy Linkblock |
-| 91 | 379 | Austin James |
-| 92 | 379 | Kimmie Kimms |
+| 91 | 379 | Kimmie Kimms |
+| 92 | 379 | Austin James |
 | 93 | 376 | lil mickey |
 | 94 | 374 | Tinah Montanna |
 | 95 | 369 | Arianna O'Brien |
@@ -120,27 +120,27 @@
 | 112 | 328 | Gracie |
 | 113 | 326 | Monica Donato |
 | 114 | 321 | Maria C. Hernandez |
-| 115 | 319 | Deanna L Hermanson |
-| 116 | 319 | Patrick Luckenbill |
+| 115 | 319 | Patrick Luckenbill |
+| 116 | 319 | Deanna L Hermanson |
 | 117 | 318 | Jessica Sheehan |
 | 118 | 316 | Ly Phethmany |
 | 119 | 313 | Tanya Carpenter-Reynolds |
-| 120 | 310 | Jason Jones |
-| 121 | 310 | Seth Wesson |
+| 120 | 310 | Seth Wesson |
+| 121 | 310 | Jason Jones |
 | 122 | 306 | Happy Basegrid |
 | 123 | 304 | Nicole Roseberry Weber |
 | 124 | 301 | Lehrin Maria |
 | 125 | 294 | Chelsea Dahlquist |
 | 126 | 290 | Death |
 | 127 | 285 | Ananda Mendez |
-| 128 | 284 | Rachael |
-| 129 | 284 | Emily Adelaide Wheatley |
+| 128 | 284 | Emily Adelaide Wheatley |
+| 129 | 284 | Rachael |
 | 130 | 283 | Franswa |
-| 131 | 282 | Snippy Wipebuilder |
-| 132 | 282 | Timothy Dew |
-| 133 | 282 | Cool Shiftsnap |
-| 134 | 280 | Jennifer Hardman |
-| 135 | 280 | Sarah Roberts |
+| 131 | 282 | Cool Shiftsnap |
+| 132 | 282 | Snippy Wipebuilder |
+| 133 | 282 | Timothy Dew |
+| 134 | 280 | Sarah Roberts |
+| 135 | 280 | Jennifer Hardman |
 | 136 | 276 | Dandy Basegrid |
 | 137 | 270 | Ash Galvan |
 | 138 | 268 | GATOR |

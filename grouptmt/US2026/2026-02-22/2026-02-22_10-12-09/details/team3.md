@@ -63,8 +63,8 @@
 | 55 | 909 | Jennifer |
 | 56 | 908 | Alanna Rogers |
 | 57 | 903 | Sarah Fehring |
-| 58 | 895 | Amanda L Baker |
-| 59 | 895 | Shonna Roberts |
+| 58 | 895 | Shonna Roberts |
+| 59 | 895 | Amanda L Baker |
 | 60 | 886 | Khristen AC |
 | 61 | 874 | Jessica Pineda-Lopez |
 | 62 | 867 | Corie A. Brinson |
@@ -103,8 +103,8 @@
 | 95 | 593 | Raven Dudley |
 | 96 | 591 | Jesse Olive |
 | 97 | 588 | yoyo |
-| 98 | 582 | Natasha Jones |
-| 99 | 582 | Jay Horn |
+| 98 | 582 | Jay Horn |
+| 99 | 582 | Natasha Jones |
 | 100 | 581 | Danielle Mogg |
 | 101 | 579 | Jd Morris |
 | 102 | 566 | Dolores Falco |
@@ -174,8 +174,8 @@
 | 166 | 376 | Loopy Clusterer |
 | 167 | 374 | Sherry Ogden |
 | 168 | 371 | Michael Nowogorski |
-| 169 | 370 | Santeria Trece Candles |
-| 170 | 370 | Logan Naccarato |
+| 169 | 370 | Logan Naccarato |
+| 170 | 370 | Santeria Trece Candles |
 | 171 | 370 | Danielle Allison |
 | 172 | 368 | Stephanie Woods |
 | 173 | 366 | Adrian Marcel Pate |
@@ -188,8 +188,8 @@
 | 180 | 353 | Shunta Jacobs |
 | 181 | 353 | Nora Rogers |
 | 182 | 348 | Chasity |
-| 183 | 347 | Nicole Flippo |
-| 184 | 347 | Jone |
+| 183 | 347 | Jone |
+| 184 | 347 | Nicole Flippo |
 | 185 | 343 | Ashley Raines |
 | 186 | 341 | Samantha Lynn |
 | 187 | 338 | RickyG |
@@ -207,8 +207,8 @@
 | 199 | 311 | Rochelle Hazelett |
 | 200 | 311 | Araceli Parra |
 | 201 | 310 | Danielle Balcom |
-| 202 | 308 | Daryn Elliott |
-| 203 | 308 | Rania Zaqout |
+| 202 | 308 | Rania Zaqout |
+| 203 | 308 | Daryn Elliott |
 | 204 | 307 | rnr junky |
 | 205 | 307 | Blocked |
 | 206 | 302 | Rebecca Bailey |
@@ -226,8 +226,8 @@
 | 218 | 289 | Hoppy Buildout |
 | 219 | 286 | Cynthia Herrmann Egland |
 | 220 | 284 | Denise Nardoni |
-| 221 | 283 | Cheeky Snapper |
-| 222 | 283 | Charles Perrone |
+| 221 | 283 | Charles Perrone |
+| 222 | 283 | Cheeky Snapper |
 | 223 | 281 | Valerie Gendron |
 | 224 | 278 | Rufus Lincoln |
 | 225 | 277 | Keis |
@@ -336,12 +336,12 @@
 | 328 | 181 | Denita Mungro |
 | 329 | 180 | Beth Ingham |
 | 330 | 179 | Christian Werndl |
-| 331 | 179 | DanceLuvLaugh |
-| 332 | 179 | Rachel Napper |
+| 331 | 179 | Rachel Napper |
+| 332 | 179 | DanceLuvLaugh |
 | 333 | 178 | Jess Dearborn |
 | 334 | 178 | Jennifer Alvey |
-| 335 | 176 | Melissa Orth Hunter |
-| 336 | 176 | Emma |
+| 335 | 176 | Emma |
+| 336 | 176 | Melissa Orth Hunter |
 | 337 | 175 | Eileen Brady Thurber |
 | 338 | 174 | Lesley Perez |
 | 339 | 173 | Naur |
@@ -354,11 +354,11 @@
 | 346 | 168 | Trice Thomas |
 | 347 | 168 | April Matthew Kibble |
 | 348 | 167 | Shicken Nuggit |
-| 349 | 167 | Irene Arreguin |
-| 350 | 167 | Romeo |
+| 349 | 167 | Romeo |
+| 350 | 167 | Irene Arreguin |
 | 351 | 166 | Noettín Kan Zasnemoore |
-| 352 | 166 | Snarky McFace |
-| 353 | 166 | Angella Lyons |
+| 352 | 166 | Angella Lyons |
+| 353 | 166 | Snarky McFace |
 | 354 | 165 | Kali Kelz Williams |
 | 355 | 165 | Ashley Lynn Marchese |
 | 356 | 165 | Rainbow77375 |

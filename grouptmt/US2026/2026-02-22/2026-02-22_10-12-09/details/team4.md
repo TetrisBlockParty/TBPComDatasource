@@ -62,8 +62,8 @@
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Kimyatta Cavin |
-| 58 | 636 | Dustee Craddock-Harrison |
+| 57 | 636 | Dustee Craddock-Harrison |
+| 58 | 636 | Kimyatta Cavin |
 | 59 | 623 | Robin Getchel |
 | 60 | 599 | Brittney Griggs |
 | 61 | 593 | Lisa Davis |
@@ -160,8 +160,8 @@
 | 152 | 239 | Jessica Lynn Cutlip |
 | 153 | 237 | Chris Bernstein |
 | 154 | 232 | Crystal Nicolette Moore |
-| 155 | 230 | Autum Leigh |
-| 156 | 230 | Cursed Hag |
+| 155 | 230 | Cursed Hag |
+| 156 | 230 | Autum Leigh |
 | 157 | 228 | J-Rizzle |
 | 158 | 227 | Alyssa Papen |
 | 159 | 227 | Swanky Fitline |
@@ -170,8 +170,8 @@
 | 162 | 223 | Antony Dwayne Beasley |
 | 163 | 223 | Kris Bartlett |
 | 164 | 222 | Joeliecea Cobb |
-| 165 | 221 | Rheanda Weaskus |
-| 166 | 221 | PurpleMoonMa |
+| 165 | 221 | PurpleMoonMa |
+| 166 | 221 | Rheanda Weaskus |
 | 167 | 220 | Matt Dell'Olio |
 | 168 | 218 | Casey Grabner |
 | 169 | 217 | Chaz Duncan |
@@ -191,8 +191,8 @@
 | 183 | 201 | Chance Strickland |
 | 184 | 200 | Laura |
 | 185 | 199 | Zethra Prenisha Rahming |
-| 186 | 198 | Ruben Wheeler |
-| 187 | 198 | Keith Kelley |
+| 186 | 198 | Keith Kelley |
+| 187 | 198 | Ruben Wheeler |
 | 188 | 196 | Oscar Alberto Perez |
 | 189 | 195 | 中山成巳 |
 | 190 | 195 | ZeeZee |
@@ -201,11 +201,11 @@
 | 193 | 192 | Shauna Havard |
 | 194 | 191 | Klo |
 | 195 | 191 | Sam Bishop |
-| 196 | 190 | Cheery Risebuilder |
-| 197 | 190 | Alan George LaRage |
+| 196 | 190 | Alan George LaRage |
+| 197 | 190 | Cheery Risebuilder |
 | 198 | 189 | Calvin Dennis |
-| 199 | 189 | Lori |
-| 200 | 189 | Stacey Stano |
+| 199 | 189 | Stacey Stano |
+| 200 | 189 | Lori |
 | 201 | 188 | Andria Lynn |
 | 202 | 186 | Holly |
 | 203 | 185 | Nikki Rae Gordon |
@@ -230,8 +230,8 @@
 | 222 | 165 | James Hurley Jr. |
 | 223 | 164 | 030Synner |
 | 224 | 163 | Kristina Black |
-| 225 | 162 | John Brunetti |
-| 226 | 162 | Joanna |
+| 225 | 162 | Joanna |
+| 226 | 162 | John Brunetti |
 | 227 | 161 | Jenny Wells-Oakley |
 | 228 | 160 | Laura Hosford |
 | 229 | 160 | Brittany Marsh |
