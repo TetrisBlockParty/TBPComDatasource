@@ -66,8 +66,8 @@
 | 58 | 635 | Jamie Furr |
 | 59 | 628 | Tiff Vs Tiffany |
 | 60 | 625 | Elaine Webb Graves |
-| 61 | 621 | Ebony West-Cundiff |
-| 62 | 621 | Cherry Parker |
+| 61 | 621 | Cherry Parker |
+| 62 | 621 | Ebony West-Cundiff |
 | 63 | 619 | Jennifer |
 | 64 | 618 | Brandon Green |
 | 65 | 618 | MissTaylor |

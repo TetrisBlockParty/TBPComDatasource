@@ -209,15 +209,15 @@
 | 201 | 141 | Blaire Bruckoff |
 | 202 | 141 | Dino |
 | 203 | 139 | Flashy Rotator |
-| 204 | 137 | Cody Gates |
-| 205 | 137 | Witty Builderfit |
+| 204 | 137 | Witty Builderfit |
+| 205 | 137 | Cody Gates |
 | 206 | 136 | Breanna Luna |
 | 207 | 136 | Tavia |
 | 208 | 136 | Tipsy Riseclear |
-| 209 | 135 | Giddy Cascade |
-| 210 | 135 | Cheeky Pop |
-| 211 | 135 | Guest |
-| 212 | 135 | Aimee Horton |
+| 209 | 135 | Guest |
+| 210 | 135 | Giddy Cascade |
+| 211 | 135 | Aimee Horton |
+| 212 | 135 | Cheeky Pop |
 | 213 | 134 | LD1 |
 | 214 | 133 | Fmp |
 | 215 | 133 | Kimberly Garcia |
@@ -249,8 +249,8 @@
 | 241 | 114 | Hector Cruz |
 | 242 | 114 | Tyler Hertzog |
 | 243 | 113 | Melissa Bires Hussar |
-| 244 | 112 | Crystal Joslin |
-| 245 | 112 | Chris65 |
+| 244 | 112 | Chris65 |
+| 245 | 112 | Crystal Joslin |
 | 246 | 111 | Rachel Nichole Henry |
 | 247 | 111 | Damon J. Martin |
 | 248 | 111 | Chirpy Smasher |

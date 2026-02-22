@@ -125,7 +125,7 @@
 | 117 | 218 | Casey Grabner |
 | 118 | 217 | Chaz Duncan |
 | 119 | 213 | loulou |
-| 120 | 212 | Mike Solo |
+| 120 | 212 | Calvin Cannon |
 | 121 | 212 | Toots |
 | 122 | 212 | Mike Solo |
 | 123 | 211 | Twisty Cascadezone |
@@ -133,8 +133,8 @@
 | 125 | 210 | Swanky Fitline |
 | 126 | 208 | Chastity Mitchell |
 | 127 | 205 | Sarah Neathery |
-| 128 | 204 | Dana Scott |
-| 129 | 204 | Jen Caldwell |
+| 128 | 204 | Jen Caldwell |
+| 129 | 204 | Dana Scott |
 | 130 | 203 | Katherine Crane |
 | 131 | 202 | Monica Daley |
 | 132 | 201 | Melvin Baird |
@@ -143,17 +143,17 @@
 | 135 | 196 | Jenna McGeorge |
 | 136 | 194 | Zany Twisterfit |
 | 137 | 192 | Shauna Havard |
-| 138 | 189 | Calvin Dennis |
-| 139 | 189 | Stacey Stano |
+| 138 | 189 | Stacey Stano |
+| 139 | 189 | Calvin Dennis |
 | 140 | 187 | TheNeesh50 |
 | 141 | 186 | Holly |
 | 142 | 185 | Andy Cabral |
 | 143 | 185 | Malakai Darien Fox |
 | 144 | 185 | Lori |
 | 145 | 184 | Justin Hannigan |
-| 146 | 181 | Andria Lynn |
+| 146 | 181 | Klo |
 | 147 | 181 | Carter Jones |
-| 148 | 181 | Klo |
+| 148 | 181 | Andria Lynn |
 | 149 | 180 | Leah Kutz Zirbel |
 | 150 | 179 | Scott Jameson |
 | 151 | 179 | Ak Jones |

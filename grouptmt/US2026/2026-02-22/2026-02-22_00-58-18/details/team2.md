@@ -744,8 +744,8 @@
 | 736 | 220 | Wacky Cascade |
 | 737 | 219 | Abby Klaski |
 | 738 | 219 | Eileen Hale |
-| 739 | 219 | Beverly Hodge |
-| 740 | 219 | Cathy Bitters |
+| 739 | 219 | Cathy Bitters |
+| 740 | 219 | Trista Carter |
 | 741 | 219 | Chummy Breaker |
 | 742 | 219 | Beverly Hodge |
 | 743 | 218 | Shylee Tilman |
