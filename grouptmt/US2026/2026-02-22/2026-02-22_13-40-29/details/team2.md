@@ -254,8 +254,8 @@
 | 246 | 808 | Wakanda Forever |
 | 247 | 807 | Khalil Lowe |
 | 248 | 803 | Barbra Miller |
-| 249 | 801 | Debra Williams |
-| 250 | 801 | Ashlen Dorrell |
+| 249 | 801 | Ashlen Dorrell |
+| 250 | 801 | Debra Williams |
 | 251 | 800 | Danielle Johnson-Chandler |
 | 252 | 787 | Laura McCarthey |
 | 253 | 783 | Lisa Ongtowasruk |
@@ -338,8 +338,8 @@
 | 330 | 658 | Erica Williams |
 | 331 | 651 | Unica Rector |
 | 332 | 650 | Glitzy Stackzone |
-| 333 | 650 | Shiny Rollzone |
-| 334 | 650 | tejas25 |
+| 333 | 650 | tejas25 |
+| 334 | 650 | Shiny Rollzone |
 | 335 | 643 | Hoppy Brickmatch |
 | 336 | 641 | Angie Bolton Workman |
 | 337 | 640 | BYM4L |
@@ -360,8 +360,8 @@
 | 352 | 611 | Em Chen |
 | 353 | 603 | Cassie Maynard |
 | 354 | 602 | KhaosLord |
-| 355 | 602 | Biggest thing |
-| 356 | 602 | Christine Bollig |
+| 355 | 602 | Christine Bollig |
+| 356 | 602 | Biggest thing |
 | 357 | 601 | Michele Morgan |
 | 358 | 600 | Demeka Dangerous-kisses Johnson |
 | 359 | 597 | Steven Marshaun |
@@ -421,11 +421,11 @@
 | 413 | 525 | Desiree Anderson |
 | 414 | 524 | Lonne Emade |
 | 415 | 523 | Matt Johnson |
-| 416 | 522 | Joseph Musick |
-| 417 | 522 | Lylymom |
+| 416 | 522 | Lylymom |
+| 417 | 522 | Joseph Musick |
 | 418 | 521 | Tj Ball |
-| 419 | 520 | Maddy Petersen |
-| 420 | 520 | Angela Lynn |
+| 419 | 520 | Angela Lynn |
+| 420 | 520 | Maddy Petersen |
 | 421 | 519 | Rob Brown |
 | 422 | 517 | Alex Dungo Hoang |
 | 423 | 517 | Amber Brion |
@@ -445,13 +445,13 @@
 | 437 | 504 | Kimmy Newman |
 | 438 | 502 | Sparkles |
 | 439 | 502 | Sheniya Spurgeon |
-| 440 | 500 | Jaycee |
-| 441 | 500 | Sarah Ridenour |
+| 440 | 500 | Sarah Ridenour |
+| 441 | 500 | Jaycee |
 | 442 | 499 | Sarah Massey |
 | 443 | 498 | Rhonda Milstead |
 | 444 | 498 | Aimee Campbell |
-| 445 | 497 | June E Hanson |
-| 446 | 497 | Doowop40 |
+| 445 | 497 | Doowop40 |
+| 446 | 497 | June E Hanson |
 | 447 | 495 | Bubbly Snapbuild |
 | 448 | 495 | Osun Anuket Esu |
 | 449 | 494 | Venita Ray |
@@ -1227,11 +1227,11 @@
 | 1219 | 194 | Shena Washington |
 | 1220 | 194 | Snappy Slamdrop |
 | 1221 | 194 | Brenda |
-| 1222 | 194 | Snappy Slamdrop |
-| 1223 | 194 | Shena Washington |
+| 1222 | 194 | Hyper Gridroll |
+| 1223 | 194 | Chilly Linkfall |
 | 1224 | 194 | ToastersBath |
-| 1225 | 194 | Martina Gabrielle LaPolla |
-| 1226 | 194 | Katrina Willmon |
+| 1225 | 194 | Katrina Willmon |
+| 1226 | 194 | Martina Gabrielle LaPolla |
 | 1227 | 193 | Veronica Martin Trinkle |
 | 1228 | 193 | Brec2024 |
 | 1229 | 193 | Sherilyn Huie |

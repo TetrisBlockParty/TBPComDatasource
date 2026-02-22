@@ -41,8 +41,8 @@
 | 33 | 873 | Elizabeth Sallas |
 | 34 | 871 | Denny Shives |
 | 35 | 846 | Christine Marie |
-| 36 | 843 | Shelly Chandler |
-| 37 | 843 | Lucille Truesdale |
+| 36 | 843 | Lucille Truesdale |
+| 37 | 843 | Shelly Chandler |
 | 38 | 834 | quicksand420 |
 | 39 | 818 | Marvin Lou Martin |
 | 40 | 811 | Jae Job |
@@ -135,8 +135,8 @@
 | 127 | 303 | Lauren Scott |
 | 128 | 300 | Jason Hart |
 | 129 | 298 | Lucas J Sutton |
-| 130 | 296 | Desi Desporte |
-| 131 | 296 | HastyGrabber |
+| 130 | 296 | HastyGrabber |
+| 131 | 296 | Desi Desporte |
 | 132 | 294 | Kesha Brady |
 | 133 | 290 | 🥔🥔 Spudz |
 | 134 | 289 | Jessica Lynn Cutlip |
@@ -144,8 +144,8 @@
 | 136 | 286 | shark tato |
 | 137 | 283 | Brittney Orengo |
 | 138 | 281 | Meagan Nicole |
-| 139 | 278 | Leah Kutz Zirbel |
-| 140 | 278 | Carrie Brian |
+| 139 | 278 | Carrie Brian |
+| 140 | 278 | Leah Kutz Zirbel |
 | 141 | 277 | Mary Ann Pabukis |
 | 142 | 275 | Dizzy Tiley |
 | 143 | 274 | Calvin Cannon |
@@ -473,8 +473,8 @@
 | 465 | 88 | Joe Lonnemann |
 | 466 | 88 | Jesus Garcia |
 | 467 | 87 | Derek Pendarvis |
-| 468 | 87 | Shiny Pivoty |
-| 469 | 87 | Martha Lucinda Bishop |
+| 468 | 87 | Martha Lucinda Bishop |
+| 469 | 87 | Shiny Pivoty |
 | 470 | 87 | Grann8 |
 | 471 | 86 | amy |
 | 472 | 86 | Destiney Carter |

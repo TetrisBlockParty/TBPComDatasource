@@ -301,14 +301,14 @@
 | 293 | 214 | Amy Fuller Heaton |
 | 294 | 214 | Rebel124 |
 | 295 | 213 | Nicholas Roddy |
-| 296 | 212 | Desiree Gold |
-| 297 | 212 | Sunny Rotater |
+| 296 | 212 | Sunny Rotater |
+| 297 | 212 | Desiree Gold |
 | 298 | 212 | Jana Polk |
-| 299 | 211 | Khaleada McGill Banks |
-| 300 | 211 | Velma Mull |
-| 301 | 211 | El Chapa |
-| 302 | 210 | Criss |
-| 303 | 210 | Lizabeth Fox |
+| 299 | 211 | El Chapa |
+| 300 | 211 | Khaleada McGill Banks |
+| 301 | 211 | Velma Mull |
+| 302 | 210 | Lizabeth Fox |
+| 303 | 210 | Criss |
 | 304 | 209 | Micayah Stevens |
 | 305 | 208 | AlsoJess |
 | 306 | 208 | Niki Dalrymple |
@@ -348,8 +348,8 @@
 | 340 | 186 | Bryan Byrd |
 | 341 | 186 | Sameerah Smith |
 | 342 | 185 | Angella Lyons |
-| 343 | 184 | Troy |
-| 344 | 184 | Shanon R Jackson |
+| 343 | 184 | Shanon R Jackson |
+| 344 | 184 | Troy |
 | 345 | 183 | Salena Whitlock |
 | 346 | 183 | Cesar Barraza |
 | 347 | 182 | gremicx |
@@ -389,10 +389,10 @@
 | 381 | 163 | Diana Ibarra |
 | 382 | 163 | Christine Trester |
 | 383 | 162 | Beaudie Stroebel |
-| 384 | 162 | Nicole Summers-Nelson |
-| 385 | 162 | Stephanie Whitefield |
-| 386 | 162 | Loopy Fallzone |
-| 387 | 162 | Eric Caccavale |
+| 384 | 162 | Stephanie Whitefield |
+| 385 | 162 | Nicole Summers-Nelson |
+| 386 | 162 | Eric Caccavale |
+| 387 | 162 | Loopy Fallzone |
 | 388 | 161 | Betty Bóò |
 | 389 | 161 | Julia Nicole |
 | 390 | 161 | Bouncy Blockbuilder |
