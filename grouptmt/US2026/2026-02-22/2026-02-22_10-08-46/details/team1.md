@@ -407,7 +407,7 @@
 | 399 | 94 | Logan McFarland |
 | 400 | 94 | Sylvia Vasquez |
 | 401 | 94 | Mitchel White |
-| 402 | 94 | Logan McFarland |
+| 402 | 94 | Christina Backer |
 | 403 | 94 | Patty Lavigne Craddock |
 | 404 | 94 | Tasha McCormack |
 | 405 | 94 | TristansDad |

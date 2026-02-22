@@ -49,8 +49,8 @@
 | 41 | 757 | Ancient Intuition |
 | 42 | 736 | Goatimus Lombardi |
 | 43 | 734 | BertMofo |
-| 44 | 707 | Clarence Patawaran |
-| 45 | 707 | Rachel Anne |
+| 44 | 707 | Rachel Anne |
+| 45 | 707 | Clarence Patawaran |
 | 46 | 704 | Crystal Carroll |
 | 47 | 697 | Edward White |
 | 48 | 695 | LisaJo Picken Buchanan |
@@ -62,8 +62,8 @@
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Dustee Craddock-Harrison |
-| 58 | 636 | Kimyatta Cavin |
+| 57 | 636 | Kimyatta Cavin |
+| 58 | 636 | Dustee Craddock-Harrison |
 | 59 | 623 | Robin Getchel |
 | 60 | 599 | Brittney Griggs |
 | 61 | 593 | Lisa Davis |
@@ -183,8 +183,8 @@
 | 175 | 211 | Jenna McGeorge |
 | 176 | 207 | Chirpy Basepiece |
 | 177 | 205 | Kathy Brookins |
-| 178 | 204 | Carlos Ramirez |
-| 179 | 204 | Jen Caldwell |
+| 178 | 204 | Jen Caldwell |
+| 179 | 204 | Carlos Ramirez |
 | 180 | 203 | Katherine Crane |
 | 181 | 202 | TRCuse |
 | 182 | 201 | Melvin Baird |
@@ -275,7 +275,7 @@
 | 267 | 141 | Kathy Allen |
 | 268 | 141 | Courtney Halleck |
 | 269 | 141 | ĥuf |
-| 270 | 141 | Montiette Mcglown |
+| 270 | 141 | Joshua Cuellar |
 | 271 | 140 | Cristy Duerksen |
 | 272 | 139 | O block |
 | 273 | 139 | Lori Goudy |
@@ -412,9 +412,9 @@
 | 404 | 97 | Brandon Crabbs |
 | 405 | 96 | Rebecca Blake |
 | 406 | 96 | Sammy Noguera |
-| 407 | 95 | Chirpy Slammer |
+| 407 | 95 | Jobadia Steelerton |
 | 408 | 95 | Tina Martinez |
-| 409 | 95 | Jobadia Steelerton |
+| 409 | 95 | Chirpy Slammer |
 | 410 | 95 | RedBoots82 |
 | 411 | 94 | Ahleek Mitchell |
 | 412 | 94 | DonMega |

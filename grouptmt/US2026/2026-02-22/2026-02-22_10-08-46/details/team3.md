@@ -204,8 +204,8 @@
 | 196 | 320 | Or Reznitsky |
 | 197 | 317 | Ashley Tookes |
 | 198 | 315 | Kammy Hill |
-| 199 | 311 | Rochelle Hazelett |
-| 200 | 311 | Araceli Parra |
+| 199 | 311 | Araceli Parra |
+| 200 | 311 | Rochelle Hazelett |
 | 201 | 310 | Danielle Balcom |
 | 202 | 308 | Daryn Elliott |
 | 203 | 308 | Rania Zaqout |
@@ -222,12 +222,12 @@
 | 214 | 295 | Marci Mize Fandrich |
 | 215 | 291 | Kristal C Lee |
 | 216 | 289 | DidIdothat |
-| 217 | 289 | Hoppy Buildout |
-| 218 | 289 | Duane Bright |
+| 217 | 289 | Duane Bright |
+| 218 | 289 | Hoppy Buildout |
 | 219 | 286 | Cynthia Herrmann Egland |
 | 220 | 284 | Denise Nardoni |
-| 221 | 283 | Charles Perrone |
-| 222 | 283 | Cheeky Snapper |
+| 221 | 283 | Cheeky Snapper |
+| 222 | 283 | Charles Perrone |
 | 223 | 281 | Valerie Gendron |
 | 224 | 278 | Rufus Lincoln |
 | 225 | 277 | Keis |
@@ -269,8 +269,8 @@
 | 261 | 240 | Jimmie Clemons |
 | 262 | 238 | LaTanya GeminiondaRise Johnson |
 | 263 | 236 | Jess Bissett |
-| 264 | 234 | Connie Mohler-Fair |
-| 265 | 234 | Nikki Pags |
+| 264 | 234 | Nikki Pags |
+| 265 | 234 | Connie Mohler-Fair |
 | 266 | 233 | Josh Borquez |
 | 267 | 233 | Ray Lader |
 | 268 | 232 | Brenda Schmid Wood |
@@ -286,8 +286,8 @@
 | 278 | 220 | rosy |
 | 279 | 220 | Tosha Griffey |
 | 280 | 218 | Michael Lucado |
-| 281 | 216 | Twisty Brick LT |
-| 282 | 216 | Cheryl Hinch Tenbrook |
+| 281 | 216 | Cheryl Hinch Tenbrook |
+| 282 | 216 | Twisty Brick LT |
 | 283 | 215 | IamJust Neyamijah Washington Sr. |
 | 284 | 214 | Angela Scott |
 | 285 | 214 | Amy Fuller Heaton |
@@ -340,8 +340,8 @@
 | 332 | 179 | DanceLuvLaugh |
 | 333 | 178 | Jess Dearborn |
 | 334 | 178 | Jennifer Alvey |
-| 335 | 176 | Melissa Orth Hunter |
-| 336 | 176 | Emma |
+| 335 | 176 | Emma |
+| 336 | 176 | Melissa Orth Hunter |
 | 337 | 175 | Eileen Brady Thurber |
 | 338 | 174 | Lesley Perez |
 | 339 | 173 | Naur |

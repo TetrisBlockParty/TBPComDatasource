@@ -374,8 +374,8 @@
 | 366 | 558 | Libby Hicks |
 | 367 | 557 | Block Master |
 | 368 | 556 | Slip |
-| 369 | 554 | Santana Miyagi |
-| 370 | 554 | Rachael Senard |
+| 369 | 554 | Rachael Senard |
+| 370 | 554 | Santana Miyagi |
 | 371 | 554 | Autumn Schaeffer |
 | 372 | 550 | Nashu |
 | 373 | 549 | Darcy Mae |
@@ -499,8 +499,8 @@
 | 491 | 440 | Liberty |
 | 492 | 438 | Johnny Yeates |
 | 493 | 437 | Bubbly Snapfit |
-| 494 | 436 | Niceday |
-| 495 | 436 | Brenda Pierpoint |
+| 494 | 436 | Brenda Pierpoint |
+| 495 | 436 | Niceday |
 | 496 | 435 | Regina Young |
 | 497 | 435 | James Louie |
 | 498 | 433 | KayLynn Ogden McClelland |
@@ -634,8 +634,8 @@
 | 626 | 363 | Jes Norris |
 | 627 | 363 | Michelle Sager |
 | 628 | 363 | Stephanie Fortune |
-| 629 | 362 | Veronics |
-| 630 | 362 | Andrea Maher |
+| 629 | 362 | Andrea Maher |
+| 630 | 362 | Veronics |
 | 631 | 362 | Tracy Wise |
 | 632 | 362 | Jennifer Scott |
 | 633 | 362 | Aishah Brice |
@@ -643,8 +643,8 @@
 | 635 | 361 | Lewis Sturgeon |
 | 636 | 360 | Jroc |
 | 637 | 359 | Cheyenne Donovan |
-| 638 | 358 | Sydney Busse |
-| 639 | 358 | Alyssaaelena |
+| 638 | 358 | Alyssaaelena |
+| 639 | 358 | Sydney Busse |
 | 640 | 357 | Shannon Byrd |
 | 641 | 357 | Tristan Szolek |
 | 642 | 355 | Amanda Perez |
@@ -678,18 +678,18 @@
 | 670 | 339 | Denise Rickman |
 | 671 | 338 | Janitta Alvarez |
 | 672 | 337 | Sassy Pattern |
-| 673 | 337 | Diallo Sparkman |
-| 674 | 337 | Tum |
+| 673 | 337 | Tum |
+| 674 | 337 | Diallo Sparkman |
 | 675 | 337 | Savannah Alexander |
-| 676 | 336 | Austin Wilson |
-| 677 | 336 | bru |
+| 676 | 336 | bru |
+| 677 | 336 | Austin Wilson |
 | 678 | 336 | Swanky Columnbuilder |
 | 679 | 335 | Brooke Leigh Strube |
 | 680 | 335 | Maria Louise |
 | 681 | 334 | Melissa James |
 | 682 | 333 | Veronica Stevenson |
-| 683 | 333 | Adrian Benitez |
-| 684 | 333 | Woodys Glass |
+| 683 | 333 | Woodys Glass |
+| 684 | 333 | Adrian Benitez |
 | 685 | 332 | Lathasa Newkirk |
 | 686 | 330 | Jennifer Monroe Kelly |
 | 687 | 329 | Chummy Blockbuilder |
@@ -884,8 +884,8 @@
 | 876 | 258 | DesertDreamer24 |
 | 877 | 258 | Tee Jaleesa |
 | 878 | 257 | Mama T |
-| 879 | 257 | Jackie Jackie Lee |
-| 880 | 257 | Ys Muhammed |
+| 879 | 257 | Ys Muhammed |
+| 880 | 257 | Jackie Jackie Lee |
 | 881 | 256 | Gursharan Sandhu |
 | 882 | 256 | Monarca26 |
 | 883 | 256 | Nikki Vaughn |
@@ -899,7 +899,7 @@
 | 891 | 255 | Ronald Broad |
 | 892 | 255 | Jas |
 | 893 | 255 | Amanda Canterbury |
-| 894 | 255 | Ronald Broad |
+| 894 | 255 | Loopy Brickmatch |
 | 895 | 254 | Matthew Turner |
 | 896 | 254 | Elizabeth Diraffaele |
 | 897 | 252 | Marget Kay |
@@ -923,8 +923,8 @@
 | 915 | 248 | Angelina Marie |
 | 916 | 248 | CleverAngel |
 | 917 | 247 | Linda Miltenburg |
-| 918 | 247 | Karyn Yurcho Dooley |
-| 919 | 247 | Wizz |
+| 918 | 247 | Wizz |
+| 919 | 247 | Karyn Yurcho Dooley |
 | 920 | 246 | Stacey Tranchida |
 | 921 | 246 | Laura McConnell |
 | 922 | 245 | Mellissa Evans |
@@ -981,8 +981,8 @@
 | 973 | 233 | Myleaha Holley |
 | 974 | 232 | P. D. Paige |
 | 975 | 232 | Chirpy Snapper |
-| 976 | 231 | Vung Nguyen |
-| 977 | 231 | Michelle Fleming Luna |
+| 976 | 231 | Michelle Fleming Luna |
+| 977 | 231 | Vung Nguyen |
 | 978 | 231 | Stanley Vanekelenburg |
 | 979 | 230 | lady |
 | 980 | 230 | Anna Mayo |
@@ -1070,9 +1070,9 @@
 | 1062 | 212 | Denelle Wendt-Ramalho |
 | 1063 | 212 | Sassy Linkroll |
 | 1064 | 212 | Crafty Brickline |
-| 1065 | 211 | Nerdy Blockpiece |
-| 1066 | 211 | Melissa Koria |
-| 1067 | 211 | Scherrie Smith |
+| 1065 | 211 | Melissa Koria |
+| 1066 | 211 | Scherrie Smith |
+| 1067 | 211 | Nerdy Blockpiece |
 | 1068 | 211 | Neko Preston |
 | 1069 | 210 | Joshua Switzer |
 | 1070 | 210 | Cappin You |
@@ -1107,8 +1107,8 @@
 | 1099 | 206 | Seth Wrieden |
 | 1100 | 206 | Tristan Lamothe |
 | 1101 | 206 | Antonia Pike |
-| 1102 | 205 | SafetyEyes16 |
-| 1103 | 205 | Snazzy Basepiece |
+| 1102 | 205 | Snazzy Basepiece |
+| 1103 | 205 | SafetyEyes16 |
 | 1104 | 205 | Desiree Hargrove Moore |
 | 1105 | 205 | Tiffney Wroten |
 | 1106 | 205 | Shay Moore |
@@ -1470,8 +1470,8 @@
 | 1462 | 155 | Melissa Schwager |
 | 1463 | 155 | Emilee Burke |
 | 1464 | 155 | STLBatman |
-| 1465 | 154 | Stacey |
-| 1466 | 154 | Alexander Rodriguez |
+| 1465 | 154 | Alexander Rodriguez |
+| 1466 | 154 | Stacey |
 | 1467 | 154 | Mine |
 | 1468 | 154 | Fancy Setter |
 | 1469 | 154 | Wayne Fields |
@@ -1550,9 +1550,9 @@
 | 1542 | 146 | Layla LS |
 | 1543 | 146 | Samuel Macon |
 | 1544 | 146 | Nutty Splitter |
-| 1545 | 146 | Sherry Aguinaga |
-| 1546 | 146 | Kimmae Kimbrough |
-| 1547 | 146 | Brad Roggenbach |
+| 1545 | 146 | Kimmae Kimbrough |
+| 1546 | 146 | Sherry Aguinaga |
+| 1547 | 146 | Brandy Sutton |
 | 1548 | 146 | Britt Woolston |
 | 1549 | 146 | Afr Afr |
 | 1550 | 146 | Brad Roggenbach |
