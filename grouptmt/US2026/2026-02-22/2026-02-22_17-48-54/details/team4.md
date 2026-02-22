@@ -69,8 +69,8 @@
 | 61 | 688 | Avy Absol |
 | 62 | 671 | Kimyatta Cavin |
 | 63 | 671 | D3TROITB0RN74 |
-| 64 | 664 | Valerie Roberts |
-| 65 | 664 | loulou |
+| 64 | 664 | loulou |
+| 65 | 664 | Valerie Roberts |
 | 66 | 659 | Jonathan Kimbrough |
 | 67 | 654 | Chilly Line |
 | 68 | 650 | Tina Martinez |
@@ -129,8 +129,8 @@
 | 121 | 369 | Nope Young |
 | 122 | 362 | Carrie Brian |
 | 123 | 354 | Serena Goodridge |
-| 124 | 353 | Livvy |
-| 125 | 353 | Tyler Terrific |
+| 124 | 353 | Tyler Terrific |
+| 125 | 353 | Livvy |
 | 126 | 344 | Lush Linkfall |
 | 127 | 343 | Latisha Davis |
 | 128 | 338 | Lucas J Sutton |
@@ -213,8 +213,8 @@
 | 205 | 225 | Perky Patternblock |
 | 206 | 222 | blockstar |
 | 207 | 221 | Kim Klutz Olson |
-| 208 | 221 | Rheanda Weaskus |
-| 209 | 221 | PurpleMoonMa |
+| 208 | 221 | PurpleMoonMa |
+| 209 | 221 | Rheanda Weaskus |
 | 210 | 219 | Malakai Darien Fox |
 | 211 | 219 | JPW |
 | 212 | 217 | Kim Hunt |
@@ -338,8 +338,8 @@
 | 330 | 143 | Asher |
 | 331 | 143 | Daresha Fair |
 | 332 | 143 | Metsfan |
-| 333 | 142 | Nerdy Twisterfit |
-| 334 | 142 | Chaz |
+| 333 | 142 | Chaz |
+| 334 | 142 | Nerdy Twisterfit |
 | 335 | 142 | Alexandra Karavias |
 | 336 | 142 | Chantilly Laace |
 | 337 | 141 | Montiette Mcglown |
@@ -392,7 +392,7 @@
 | 384 | 127 | Robert Rodriguez |
 | 385 | 127 | Frank Cook |
 | 386 | 126 | Amy Sanford |
-| 387 | 126 | Cheryl Johnson |
+| 387 | 126 | Jim Hart |
 | 388 | 126 | PAPatty |
 | 389 | 126 | Cheryl Johnson |
 | 390 | 125 | Steph Marie |

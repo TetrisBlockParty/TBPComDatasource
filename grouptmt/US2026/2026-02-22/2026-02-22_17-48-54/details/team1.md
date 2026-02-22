@@ -236,8 +236,8 @@
 | 228 | 213 | Angela Fairbank |
 | 229 | 211 | Erin Rosberg |
 | 230 | 210 | Jessie Welch |
-| 231 | 209 | Cece Ibarra |
-| 232 | 209 | Jeanna Dunn |
+| 231 | 209 | Jeanna Dunn |
+| 232 | 209 | Cece Ibarra |
 | 233 | 208 | Bouncy Grid |
 | 234 | 208 | Donna Addison Williams |
 | 235 | 208 | Michelle Beres |
@@ -293,7 +293,7 @@
 | 285 | 175 | Kellie Tunstall |
 | 286 | 175 | Gary Gobin |
 | 287 | 175 | Evan Richmond |
-| 288 | 175 | Gary Gobin |
+| 288 | 175 | John Barron |
 | 289 | 174 | Alex Gauthier |
 | 290 | 174 | Tavia |
 | 291 | 173 | Rico Rico |
@@ -458,7 +458,7 @@
 | 450 | 108 | Owicked1 |
 | 451 | 108 | Stoney Smith |
 | 452 | 108 | Meechie |
-| 453 | 107 | sent2bless34 |
+| 453 | 107 | Mighty Shatterfit |
 | 454 | 107 | Mindy Gloska |
 | 455 | 107 | Susan Good |
 | 456 | 107 | sent2bless34 |

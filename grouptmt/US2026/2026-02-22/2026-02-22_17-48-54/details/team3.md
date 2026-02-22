@@ -127,8 +127,8 @@
 | 119 | 579 | Jd Morris |
 | 120 | 574 | Morgan Martinez |
 | 121 | 568 | Rachael McClain Owens |
-| 122 | 562 | Dave Herzog |
-| 123 | 562 | Louise Stacy Sisson |
+| 122 | 562 | Louise Stacy Sisson |
+| 123 | 562 | Dave Herzog |
 | 124 | 550 | Nicole Myers |
 | 125 | 546 | Domo Washington |
 | 126 | 533 | Alaina Lee |
@@ -208,8 +208,8 @@
 | 200 | 370 | Santeria Trece Candles |
 | 201 | 368 | Stephanie Woods |
 | 202 | 362 | Rochelle Hazelett |
-| 203 | 362 | Brandon Givens |
-| 204 | 362 | Loopy Fallmatch |
+| 203 | 362 | Loopy Fallmatch |
+| 204 | 362 | Brandon Givens |
 | 205 | 358 | RickyG |
 | 206 | 358 | Chummy Caster |
 | 207 | 357 | Stephanie Burtin |
@@ -318,8 +318,8 @@
 | 310 | 227 | Rebel124 |
 | 311 | 227 | Meowsa |
 | 312 | 226 | Jana Polk |
-| 313 | 225 | Steffi Chris Dacones |
-| 314 | 225 | Stephanie Hill |
+| 313 | 225 | Stephanie Hill |
+| 314 | 225 | Steffi Chris Dacones |
 | 315 | 225 | Dirtgirl27 |
 | 316 | 223 | Kaycee Kay |
 | 317 | 223 | Michael Lucado |
@@ -365,8 +365,8 @@
 | 357 | 205 | Rachel Napper |
 | 358 | 204 | Cesar Barraza |
 | 359 | 203 | DanceLuvLaugh |
-| 360 | 202 | Melanie Sherwood |
-| 361 | 202 | Tipsy Zonebuilder |
+| 360 | 202 | Tipsy Zonebuilder |
+| 361 | 202 | Melanie Sherwood |
 | 362 | 201 | Hyper Matchzone |
 | 363 | 200 | Sharisse Baltimore |
 | 364 | 200 | glichmod |

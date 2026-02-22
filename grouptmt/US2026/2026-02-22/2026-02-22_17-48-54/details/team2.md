@@ -212,8 +212,8 @@
 | 204 | 1002 | Foxxo |
 | 205 | 998 | Tralonda Weeks |
 | 206 | 991 | Moose Griffith |
-| 207 | 989 | Desiree Harris Rosch |
-| 208 | 989 | Teddi Notyalc |
+| 207 | 989 | Teddi Notyalc |
+| 208 | 989 | Desiree Harris Rosch |
 | 209 | 988 | Cherica Taylor |
 | 210 | 986 | RAEPR05 |
 | 211 | 979 | Hillary Crawford |
@@ -267,8 +267,8 @@
 | 259 | 860 | William Hunt |
 | 260 | 857 | Della Hole |
 | 261 | 855 | F-X |
-| 262 | 853 | Meghan M |
-| 263 | 853 | Maria Escobar |
+| 262 | 853 | Maria Escobar |
+| 263 | 853 | Meghan M |
 | 264 | 850 | Glitzy Stackzone |
 | 265 | 845 | Sheniya Spurgeon |
 | 266 | 844 | Terri McKelvey McKinley |
@@ -373,8 +373,8 @@
 | 365 | 643 | Hoppy Brickmatch |
 | 366 | 642 | Cassie Maynard |
 | 367 | 641 | Vonceial Boone |
-| 368 | 640 | Kara Gillen |
-| 369 | 640 | BYM4L |
+| 368 | 640 | BYM4L |
+| 369 | 640 | Kara Gillen |
 | 370 | 639 | Crystie Hicks |
 | 371 | 639 | Rebecca Miller |
 | 372 | 634 | Gary Stash |
@@ -403,8 +403,8 @@
 | 395 | 605 | g |
 | 396 | 604 | Dennis McLaurin |
 | 397 | 604 | Steven Marshaun |
-| 398 | 602 | Shaun Church |
-| 399 | 602 | KhaosLord |
+| 398 | 602 | KhaosLord |
+| 399 | 602 | Shaun Church |
 | 400 | 601 | Moua Ying |
 | 401 | 600 | Arkei Luster |
 | 402 | 600 | Connie Jimenez |
@@ -859,8 +859,8 @@
 | 851 | 302 | Kena T. Tanner |
 | 852 | 302 | Epic Stackbuilder |
 | 853 | 302 | Trista Carter |
-| 854 | 300 | Warren Marleau |
-| 855 | 300 | Dandy Combo |
+| 854 | 300 | Dandy Combo |
+| 855 | 300 | Warren Marleau |
 | 856 | 300 | Jay Levy |
 | 857 | 299 | Himothy |
 | 858 | 299 | Nancy Pohlman |
@@ -869,7 +869,7 @@
 | 861 | 298 | Angelica |
 | 862 | 298 | Timothy Jesuwole |
 | 863 | 298 | Kamilya Rembert |
-| 864 | 298 | Lazy Riseclear |
+| 864 | 298 | Rebecca Edmund |
 | 865 | 297 | Toni Lynn |
 | 866 | 297 | Sunny Pusher |
 | 867 | 297 | Ashley Robbins |
@@ -1617,8 +1617,8 @@
 | 1609 | 170 | Chummy Shiftsnap |
 | 1610 | 169 | Sarah Jensen |
 | 1611 | 169 | Dapper Blockroll |
-| 1612 | 169 | Zappy Stackbuilder |
-| 1613 | 169 | Keerstin Moniz |
+| 1612 | 169 | Keerstin Moniz |
+| 1613 | 169 | Zappy Stackbuilder |
 | 1614 | 169 | Sharice Hutchins |
 | 1615 | 168 | Sassy Pivot |
 | 1616 | 168 | Kermit T Frog |
@@ -1666,11 +1666,11 @@
 | 1658 | 164 | Brittany Chapman |
 | 1659 | 164 | Loony Shuffler |
 | 1660 | 164 | Jessica Vega |
-| 1661 | 164 | Crafty Climber |
-| 1662 | 164 | Tiara Gaither |
+| 1661 | 164 | Tiara Gaither |
+| 1662 | 164 | Crafty Climber |
 | 1663 | 164 | Amy Jackson |
-| 1664 | 164 | Ty Quarles |
-| 1665 | 164 | Natece Ceaser |
+| 1664 | 164 | Natece Ceaser |
+| 1665 | 164 | Ty Quarles |
 | 1666 | 163 | BeenRich Theceo |
 | 1667 | 163 | Brave Gridzone |
 | 1668 | 163 | Samantha Williams-Bittner |
