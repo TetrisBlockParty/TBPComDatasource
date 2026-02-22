@@ -63,8 +63,8 @@
 | 55 | 909 | Jennifer |
 | 56 | 908 | Alanna Rogers |
 | 57 | 903 | Sarah Fehring |
-| 58 | 895 | Amanda L Baker |
-| 59 | 895 | Shonna Roberts |
+| 58 | 895 | Shonna Roberts |
+| 59 | 895 | Amanda L Baker |
 | 60 | 886 | Khristen AC |
 | 61 | 882 | Susan Valentino |
 | 62 | 874 | Jessica Pineda-Lopez |
@@ -143,8 +143,8 @@
 | 135 | 457 | Jim Mathews |
 | 136 | 454 | Makelini Mausia |
 | 137 | 449 | Danielle Rhoades |
-| 138 | 445 | Kristie McFarland |
-| 139 | 445 | Jacqueline Rodriguez |
+| 138 | 445 | Jacqueline Rodriguez |
+| 139 | 445 | Kristie McFarland |
 | 140 | 435 | Michelle |
 | 141 | 432 | Jenny Hrndz |
 | 142 | 427 | Wendy Dearden |
@@ -196,8 +196,8 @@
 | 188 | 343 | Ashley Raines |
 | 189 | 343 | Tamara Deherrera |
 | 190 | 341 | Samantha Lynn |
-| 191 | 338 | Leah Barnett |
-| 192 | 338 | Gumbo |
+| 191 | 338 | Gumbo |
+| 192 | 338 | Leah Barnett |
 | 193 | 332 | Rich LeBlanc |
 | 194 | 332 | Noyb Adam |
 | 195 | 330 | Rebecca Funderburk Kirby |
@@ -207,8 +207,8 @@
 | 199 | 320 | Or Reznitsky |
 | 200 | 317 | Ashley Tookes |
 | 201 | 315 | Kammy Hill |
-| 202 | 311 | Rochelle Hazelett |
-| 203 | 311 | Araceli Parra |
+| 202 | 311 | Araceli Parra |
+| 203 | 311 | Rochelle Hazelett |
 | 204 | 310 | Danielle Balcom |
 | 205 | 308 | Rania Zaqout |
 | 206 | 307 | rnr junky |
@@ -250,8 +250,8 @@
 | 242 | 264 | Grego Daniel |
 | 243 | 263 | Brittany |
 | 244 | 262 | Joe-Maggie Mathews |
-| 245 | 261 | Tiffany Ford |
-| 246 | 261 | Tasha Wesson-Torrence |
+| 245 | 261 | Tasha Wesson-Torrence |
+| 246 | 261 | Tiffany Ford |
 | 247 | 261 | Marquita Sheard |
 | 248 | 260 | Grams |
 | 249 | 259 | Danielle Weikel |
@@ -270,8 +270,8 @@
 | 262 | 239 | Nikki Pags |
 | 263 | 238 | LaTanya GeminiondaRise Johnson |
 | 264 | 236 | Jess Bissett |
-| 265 | 235 | Brenda Schmid Wood |
-| 266 | 235 | Cozy Snaplink |
+| 265 | 235 | Cozy Snaplink |
+| 266 | 235 | Brenda Schmid Wood |
 | 267 | 234 | Connie Mohler-Fair |
 | 268 | 233 | Josh Borquez |
 | 269 | 233 | Ray Lader |
@@ -282,8 +282,8 @@
 | 274 | 225 | Steffi Chris Dacones |
 | 275 | 224 | Quirky Dropzone |
 | 276 | 221 | Vaners |
-| 277 | 221 | Jaime Monhaut-Reed |
-| 278 | 221 | Alice |
+| 277 | 221 | Alice |
+| 278 | 221 | Jaime Monhaut-Reed |
 | 279 | 220 | Tosha Griffey |
 | 280 | 220 | rosy |
 | 281 | 218 | Michael Lucado |
@@ -371,8 +371,8 @@
 | 363 | 165 | Ashley Lynn Marchese |
 | 364 | 164 | Ashley Rufus Bythcez |
 | 365 | 164 | momo |
-| 366 | 163 | Diana Ibarra |
-| 367 | 163 | Christine Trester |
+| 366 | 163 | Christine Trester |
+| 367 | 163 | Diana Ibarra |
 | 368 | 163 | Ava Petito |
 | 369 | 162 | Eric Caccavale |
 | 370 | 162 | Stephanie Whitefield |

@@ -126,8 +126,8 @@
 | 118 | 316 | Ly Phethmany |
 | 119 | 316 | Jennifer Hardman |
 | 120 | 313 | Tanya Carpenter-Reynolds |
-| 121 | 310 | Jason Jones |
-| 122 | 310 | Seth Wesson |
+| 121 | 310 | Seth Wesson |
+| 122 | 310 | Jason Jones |
 | 123 | 306 | Happy Basegrid |
 | 124 | 304 | Nicole Roseberry Weber |
 | 125 | 301 | Lehrin Maria |
@@ -141,12 +141,12 @@
 | 133 | 284 | Emily Adelaide Wheatley |
 | 134 | 283 | Franswa |
 | 135 | 282 | Cool Shiftsnap |
-| 136 | 282 | Snippy Wipebuilder |
-| 137 | 282 | Timothy Dew |
+| 136 | 282 | Timothy Dew |
+| 137 | 282 | Snippy Wipebuilder |
 | 138 | 276 | Dandy Basegrid |
 | 139 | 274 | Tyler Werts |
-| 140 | 270 | Mandyy Rae |
-| 141 | 270 | Ash Galvan |
+| 140 | 270 | Ash Galvan |
+| 141 | 270 | Mandyy Rae |
 | 142 | 268 | GATOR |
 | 143 | 265 | Nutty Spinblock |
 | 144 | 265 | SkipTheSadSauce |
@@ -270,10 +270,10 @@
 | 262 | 163 | Blaire Bruckoff |
 | 263 | 161 | SavageBooty98 |
 | 264 | 160 | Tedashi |
-| 265 | 159 | Uhog SF |
-| 266 | 159 | Amber Dee |
-| 267 | 156 | Spunky Builderpiece |
-| 268 | 156 | Mark Smith |
+| 265 | 159 | Amber Dee |
+| 266 | 159 | Uhog SF |
+| 267 | 156 | Mark Smith |
+| 268 | 156 | Spunky Builderpiece |
 | 269 | 155 | Barry Mac'Ockner |
 | 270 | 154 | Melissa Lemmon |
 | 271 | 154 | Gary Gobin |

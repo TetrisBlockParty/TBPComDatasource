@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Lucille Truesdale |
-| 34 | 843 | Shelly Chandler |
+| 33 | 843 | Shelly Chandler |
+| 34 | 843 | Lucille Truesdale |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -62,8 +62,8 @@
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Kimyatta Cavin |
-| 58 | 636 | Dustee Craddock-Harrison |
+| 57 | 636 | Dustee Craddock-Harrison |
+| 58 | 636 | Kimyatta Cavin |
 | 59 | 623 | Robin Getchel |
 | 60 | 614 | TheNeesh50 |
 | 61 | 599 | Brittney Griggs |
@@ -77,8 +77,8 @@
 | 69 | 530 | Yoset Mejia |
 | 70 | 524 | Amelpss |
 | 71 | 523 | Dawn Alexander |
-| 72 | 518 | Carolyn Wallace |
-| 73 | 518 | Eric Mcgaughy |
+| 72 | 518 | Eric Mcgaughy |
+| 73 | 518 | Carolyn Wallace |
 | 74 | 517 | H.R. Block |
 | 75 | 514 | Amy Suckarieh |
 | 76 | 512 | Casey Jeffcoat |
@@ -195,8 +195,8 @@
 | 187 | 201 | Chance Strickland |
 | 188 | 201 | Melvin Baird |
 | 189 | 200 | Laura |
-| 190 | 198 | Keith Kelley |
-| 191 | 198 | Ruben Wheeler |
+| 190 | 198 | Ruben Wheeler |
+| 191 | 198 | Keith Kelley |
 | 192 | 196 | Oscar Alberto Perez |
 | 193 | 196 | Mr. Party |
 | 194 | 196 | Lori |

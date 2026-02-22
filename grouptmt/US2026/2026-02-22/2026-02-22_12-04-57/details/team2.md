@@ -107,8 +107,8 @@
 | 99 | 1535 | Donnie Hunt |
 | 100 | 1534 | Loopy Clusterbuilder |
 | 101 | 1534 | Laura Marie Pelletier |
-| 102 | 1516 | Mindy Leigh Head |
-| 103 | 1516 | Stephen Stephen |
+| 102 | 1516 | Stephen Stephen |
+| 103 | 1516 | Mindy Leigh Head |
 | 104 | 1513 | Jamie Main |
 | 105 | 1507 | Linda Pierce |
 | 106 | 1495 | blackq |
@@ -136,8 +136,8 @@
 | 128 | 1273 | Cool Rollpiece |
 | 129 | 1257 | Eileen Hale |
 | 130 | 1252 | Katrina Williams Balmir |
-| 131 | 1248 | Howard Forest |
-| 132 | 1248 | Isabela Shaw |
+| 131 | 1248 | Isabela Shaw |
+| 132 | 1248 | Howard Forest |
 | 133 | 1242 | Altamirano Michael |
 | 134 | 1232 | Groovy Puzzle |
 | 135 | 1226 | Vo'Landa Reels |
@@ -212,8 +212,8 @@
 | 204 | 919 | Isaac Trappiel IV |
 | 205 | 916 | Butta |
 | 206 | 915 | Kelly Trent |
-| 207 | 910 | Crystal Hoffman |
-| 208 | 910 | Shuany Arias |
+| 207 | 910 | Shuany Arias |
+| 208 | 910 | Crystal Hoffman |
 | 209 | 907 | Gene Mills |
 | 210 | 901 | Jennifer Peachey |
 | 211 | 894 | Auntie B |
@@ -253,8 +253,8 @@
 | 245 | 800 | Danielle Johnson-Chandler |
 | 246 | 787 | Laura McCarthey |
 | 247 | 783 | Lisa Ongtowasruk |
-| 248 | 777 | Jessicah Myers |
-| 249 | 777 | Tesha Oldaker |
+| 248 | 777 | Tesha Oldaker |
+| 249 | 777 | Jessicah Myers |
 | 250 | 777 | Eric Carlson |
 | 251 | 772 | Cherica Taylor |
 | 252 | 772 | William Hunt |
@@ -469,8 +469,8 @@
 | 461 | 477 | Julay |
 | 462 | 476 | Kitybox |
 | 463 | 475 | Michelle Lee |
-| 464 | 474 | Calandra Shaya Robinson |
-| 465 | 474 | Steve Man |
+| 464 | 474 | Steve Man |
+| 465 | 474 | Calandra Shaya Robinson |
 | 466 | 473 | coleksquad |
 | 467 | 473 | Lyndi Robinson Wakefield |
 | 468 | 472 | Arwa Fatimah |
@@ -658,8 +658,8 @@
 | 650 | 357 | Shannon Byrd |
 | 651 | 357 | Tristan Szolek |
 | 652 | 355 | Amanda Perez |
-| 653 | 354 | Rachel Kaminski |
-| 654 | 354 | Rickey Johnson |
+| 653 | 354 | Rickey Johnson |
+| 654 | 354 | Rachel Kaminski |
 | 655 | 352 | Rose Fx |
 | 656 | 352 | Jean FU Jagielski |
 | 657 | 352 | ruth |
@@ -689,8 +689,8 @@
 | 681 | 337 | Savannah Alexander |
 | 682 | 337 | Tum |
 | 683 | 336 | Swanky Columnbuilder |
-| 684 | 336 | bru |
-| 685 | 336 | Austin Wilson |
+| 684 | 336 | Austin Wilson |
+| 685 | 336 | bru |
 | 686 | 335 | Brooke Leigh Strube |
 | 687 | 335 | Maria Louise |
 | 688 | 334 | Melissa James |
@@ -876,8 +876,8 @@
 | 868 | 262 | Taren Cowan |
 | 869 | 261 | Gina Gina |
 | 870 | 261 | Dany Murillo |
-| 871 | 261 | Mellissa Evans |
-| 872 | 261 | MrsClaudette Will'sIam Matthews |
+| 871 | 261 | MrsClaudette Will'sIam Matthews |
+| 872 | 261 | Mellissa Evans |
 | 873 | 260 | Giggly Snap |
 | 874 | 260 | Trista Carter |
 | 875 | 260 | Lianne Giandalone LaBounty |
@@ -980,10 +980,10 @@
 | 972 | 236 | Nikki Arlene |
 | 973 | 235 | Loopy Shatterfit |
 | 974 | 235 | B-rad B-rad |
-| 975 | 235 | Shantel Kelley |
-| 976 | 235 | Prince Ajesh |
-| 977 | 234 | Synn |
-| 978 | 234 | Lonnie Brown |
+| 975 | 235 | Prince Ajesh |
+| 976 | 235 | Shantel Kelley |
+| 977 | 234 | Lonnie Brown |
+| 978 | 234 | Synn |
 | 979 | 234 | Trina Harrison |
 | 980 | 234 | Joanna L. Abad |
 | 981 | 234 | Jannan Haimour |
@@ -994,10 +994,10 @@
 | 986 | 233 | Nerdy Riserfit |
 | 987 | 232 | P. D. Paige |
 | 988 | 232 | Chirpy Snapper |
-| 989 | 231 | Emily Valentine |
-| 990 | 231 | Stanley Vanekelenburg |
-| 991 | 231 | Michelle Fleming Luna |
-| 992 | 231 | Vung Nguyen |
+| 989 | 231 | Stanley Vanekelenburg |
+| 990 | 231 | Emily Valentine |
+| 991 | 231 | Vung Nguyen |
+| 992 | 231 | Michelle Fleming Luna |
 | 993 | 230 | Laura Mcfee |
 | 994 | 230 | Anna Mayo |
 | 995 | 230 | lady |
@@ -1039,8 +1039,8 @@
 | 1031 | 223 | Nancy Pohlman |
 | 1032 | 223 | Diona Burns |
 | 1033 | 223 | Jess Morrison |
-| 1034 | 223 | Michele Moren |
-| 1035 | 223 | Sarah DeHart |
+| 1034 | 223 | Sarah DeHart |
+| 1035 | 223 | Michele Moren |
 | 1036 | 223 | Tammy Coppoletta |
 | 1037 | 223 | Natasha Marie |
 | 1038 | 222 | Daring Lift |
@@ -1048,8 +1048,8 @@
 | 1040 | 222 | Crystal Herndon |
 | 1041 | 222 | Angel Moorhead |
 | 1042 | 222 | Lovely |
-| 1043 | 221 | Jeffrey Barrows |
-| 1044 | 221 | Chummy Caster |
+| 1043 | 221 | Chummy Caster |
+| 1044 | 221 | Jeffrey Barrows |
 | 1045 | 220 | Natalie M Wells |
 | 1046 | 220 | Sandra McNab |
 | 1047 | 220 | Marcie McLain Dodd |
@@ -1186,7 +1186,7 @@
 | 1178 | 194 | Brenda |
 | 1179 | 194 | Snappy Slamdrop |
 | 1180 | 194 | Hyper Gridroll |
-| 1181 | 194 | Snappy Slamdrop |
+| 1181 | 194 | Chilly Linkfall |
 | 1182 | 194 | ToastersBath |
 | 1183 | 193 | Dottie Turbeville Creel |
 | 1184 | 193 | Kelly Ann McCormick |
@@ -1804,7 +1804,7 @@
 | 1796 | 131 | Jacques London Taylor |
 | 1797 | 130 | Misty Leigh |
 | 1798 | 130 | Victoria Janell |
-| 1799 | 130 | Misty Leigh |
+| 1799 | 130 | Jen Sippel |
 | 1800 | 130 | Dylan Meadows |
 | 1801 | 130 | Mikey |
 | 1802 | 130 | Stanislav Petkov |
