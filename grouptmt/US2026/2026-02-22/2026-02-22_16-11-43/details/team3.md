@@ -70,8 +70,8 @@
 | 62 | 908 | Alanna Rogers |
 | 63 | 903 | Sarah Fehring |
 | 64 | 900 | Nate Burnside |
-| 65 | 895 | Shonna Roberts |
-| 66 | 895 | Amanda L Baker |
+| 65 | 895 | Amanda L Baker |
+| 66 | 895 | Shonna Roberts |
 | 67 | 892 | Corie A. Brinson |
 | 68 | 882 | Susan Valentino |
 | 69 | 874 | Jessica Pineda-Lopez |
@@ -308,8 +308,8 @@
 | 300 | 225 | Stephanie Hill |
 | 301 | 225 | Steffi Chris Dacones |
 | 302 | 223 | Michael Lucado |
-| 303 | 221 | Desiree Gold |
-| 304 | 221 | Ryan Williams |
+| 303 | 221 | Jaime Monhaut-Reed |
+| 304 | 221 | Desiree Gold |
 | 305 | 221 | Vaners |
 | 306 | 221 | Ryan Williams |
 | 307 | 221 | Alice |
@@ -317,8 +317,8 @@
 | 309 | 220 | Tosha Griffey |
 | 310 | 217 | Twisty Brick LT |
 | 311 | 217 | Goofy Fall |
-| 312 | 216 | Tina Smith Roy |
-| 313 | 216 | Frothy Snapper |
+| 312 | 216 | Frothy Snapper |
+| 313 | 216 | Tina Smith Roy |
 | 314 | 216 | Cheryl Hinch Tenbrook |
 | 315 | 214 | Lizabeth Fox |
 | 316 | 214 | Randy Clevenger |

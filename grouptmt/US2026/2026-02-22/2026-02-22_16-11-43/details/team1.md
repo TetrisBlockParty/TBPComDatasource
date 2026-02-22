@@ -85,8 +85,8 @@
 | 77 | 472 | April Carroll |
 | 78 | 471 | Jennifer ManWarren |
 | 79 | 456 | Arianna O'Brien |
-| 80 | 444 | Lexuriuos Lifestlye |
-| 81 | 444 | Hyper |
+| 80 | 444 | Hyper |
+| 81 | 444 | Lexuriuos Lifestlye |
 | 82 | 443 | Steve Schneider |
 | 83 | 436 | Tonya Beasley |
 | 84 | 433 | Trina Gee |
@@ -104,8 +104,8 @@
 | 96 | 390 | Candy Jones |
 | 97 | 390 | Lori Bales |
 | 98 | 389 | Nery Martinez |
-| 99 | 383 | pjbeta |
-| 100 | 383 | Loony Fitzone |
+| 99 | 383 | Loony Fitzone |
+| 100 | 383 | pjbeta |
 | 101 | 380 | Dee Perry |
 | 102 | 379 | Kimmie Kimms |
 | 103 | 379 | Austin James |
@@ -193,8 +193,8 @@
 | 185 | 239 | Sam Williams |
 | 186 | 237 | LaFontaine Leslie |
 | 187 | 236 | femmefatale |
-| 188 | 235 | MRdot Rooski |
-| 189 | 235 | Desiree Deschaine Havee |
+| 188 | 235 | Desiree Deschaine Havee |
+| 189 | 235 | MRdot Rooski |
 | 190 | 234 | Paula Martin |
 | 191 | 231 | Amanda Johnson Huffman |
 | 192 | 230 | Frothy Pattern |
@@ -303,12 +303,12 @@
 | 295 | 163 | .running. |
 | 296 | 163 | Tyler Whitley |
 | 297 | 163 | Davery Spencer Adair |
-| 298 | 163 | .running. |
-| 299 | 162 | Pauline Cortez |
-| 300 | 162 | Strig |
+| 298 | 163 | Blaire Bruckoff |
+| 299 | 162 | Strig |
+| 300 | 162 | Pauline Cortez |
 | 301 | 161 | SavageBooty98 |
-| 302 | 160 | Plucky Stacky |
-| 303 | 160 | Tedashi |
+| 302 | 160 | Tedashi |
+| 303 | 160 | Plucky Stacky |
 | 304 | 159 | Uhog SF |
 | 305 | 159 | Amber Dee |
 | 306 | 157 | Jo Kerley |
@@ -338,7 +338,7 @@
 | 330 | 145 | Chantelle Ceno |
 | 331 | 145 | Rachel Nichole Henry |
 | 332 | 145 | Robert |
-| 333 | 145 | Chantelle Ceno |
+| 333 | 145 | Tipsy Riseclear |
 | 334 | 144 | Toph |
 | 335 | 144 | Miguel Teixeira |
 | 336 | 143 | Guest |

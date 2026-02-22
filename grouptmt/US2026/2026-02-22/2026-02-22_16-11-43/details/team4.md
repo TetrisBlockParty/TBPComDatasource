@@ -17,8 +17,8 @@
 | 9 | 1835 | East Mamba |
 | 10 | 1775 | Ash |
 | 11 | 1676 | Ayanna Soto |
-| 12 | 1447 | Juggalo |
-| 13 | 1447 | GreenJeepGirl |
+| 12 | 1447 | GreenJeepGirl |
+| 13 | 1447 | Juggalo |
 | 14 | 1318 | Cassie Michaux |
 | 15 | 1289 | Roger Coulter |
 | 16 | 1132 | Jayna Anoc |
@@ -43,15 +43,15 @@
 | 35 | 873 | Elizabeth Sallas |
 | 36 | 871 | Denny Shives |
 | 37 | 846 | Christine Marie |
-| 38 | 843 | Shelly Chandler |
-| 39 | 843 | Lucille Truesdale |
+| 38 | 843 | Lucille Truesdale |
+| 39 | 843 | Shelly Chandler |
 | 40 | 834 | quicksand420 |
 | 41 | 829 | LisaJo Picken Buchanan |
 | 42 | 823 | Jae Job |
 | 43 | 818 | Marvin Lou Martin |
 | 44 | 798 | BertMofo |
-| 45 | 775 | Dee Kay |
-| 46 | 775 | Rebecca Moulton Pinciaro |
+| 45 | 775 | Rebecca Moulton Pinciaro |
+| 46 | 775 | Dee Kay |
 | 47 | 767 | Shannon Ferrari |
 | 48 | 766 | Robin Watters |
 | 49 | 762 | TeeJ |
@@ -95,8 +95,8 @@
 | 87 | 512 | Casey Jeffcoat |
 | 88 | 500 | Rodney McMath Jr. |
 | 89 | 493 | Judy Cox |
-| 90 | 488 | Shane Kalamata Platoon |
-| 91 | 488 | Jen Allison |
+| 90 | 488 | Jen Allison |
+| 91 | 488 | Shane Kalamata Platoon |
 | 92 | 486 | Carmethia Clemons Haslerig |
 | 93 | 448 | Kristin Manee |
 | 94 | 447 | Erin Thomas |
@@ -570,8 +570,8 @@
 | 562 | 78 | RobinC |
 | 563 | 78 | BROOKE |
 | 564 | 78 | Cranky Glidebuilder |
-| 565 | 77 | Kristen Rittall |
-| 566 | 77 | Angel Raya |
+| 565 | 77 | Angel Raya |
+| 566 | 77 | Kristen Rittall |
 | 567 | 77 | Hoppy Clearer |
 | 568 | 77 | Sunny Holder |
 | 569 | 77 | Kelli Steinmetz |

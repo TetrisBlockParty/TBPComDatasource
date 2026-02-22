@@ -134,8 +134,8 @@
 | 126 | 1383 | Ladyrainbootz |
 | 127 | 1380 | Jose Mendoza |
 | 128 | 1347 | Alisa Lamb |
-| 129 | 1342 | Eboni Banks |
-| 130 | 1342 | Christi Hulet |
+| 129 | 1342 | Christi Hulet |
+| 130 | 1342 | Eboni Banks |
 | 131 | 1342 | Bob |
 | 132 | 1338 | Dawn Geist-Weasner |
 | 133 | 1330 | Erica Williams |
@@ -337,8 +337,8 @@
 | 329 | 688 | ShinyRose |
 | 330 | 687 | Dee |
 | 331 | 686 | Ashley Guernsey-Martin |
-| 332 | 685 | Binyah-Binyah |
-| 333 | 685 | Brenda Pierpoint |
+| 332 | 685 | Brenda Pierpoint |
+| 333 | 685 | Binyah-Binyah |
 | 334 | 682 | Poldo Ilano |
 | 335 | 681 | Charvi' Carter |
 | 336 | 679 | Eric Castaneda |
@@ -348,8 +348,8 @@
 | 340 | 668 | Roseanna Peloso |
 | 341 | 666 | Speedy Spinblock |
 | 342 | 665 | Phil J. Grombliniak |
-| 343 | 665 | Taryece Gause |
-| 344 | 665 | Prette Qui |
+| 343 | 665 | Prette Qui |
+| 344 | 665 | Taryece Gause |
 | 345 | 664 | Sleepypanda67 |
 | 346 | 663 | tejas25 |
 | 347 | 663 | Mandi Douglas Hilt |
@@ -441,10 +441,10 @@
 | 433 | 532 | Lylymom |
 | 434 | 531 | Aishah Brice |
 | 435 | 529 | Ben Barkley |
-| 436 | 528 | Anita Rose Green |
-| 437 | 528 | Sparkles |
-| 438 | 527 | Osun Anuket Esu |
-| 439 | 527 | Ryan Gunther |
+| 436 | 528 | Sparkles |
+| 437 | 528 | Anita Rose Green |
+| 438 | 527 | Ryan Gunther |
+| 439 | 527 | Osun Anuket Esu |
 | 440 | 526 | Sheronda Jackson |
 | 441 | 525 | Joseph Musick |
 | 442 | 524 | Lonne Emade |
