@@ -198,8 +198,8 @@
 | 190 | 850 | Missie Lawson Gebhardt |
 | 191 | 849 | Hillary Crawford |
 | 192 | 849 | Jennifer Kistner |
-| 193 | 845 | Felicia Lynn |
-| 194 | 845 | April Dawn Gussler |
+| 193 | 845 | April Dawn Gussler |
+| 194 | 845 | Felicia Lynn |
 | 195 | 838 | Tralonda Weeks |
 | 196 | 837 | Ashley Rose Frederick |
 | 197 | 834 | Nika Bee |
@@ -312,8 +312,8 @@
 | 304 | 589 | Thomas Hedrick |
 | 305 | 589 | Shavonna Haynes |
 | 306 | 582 | Gary Stash |
-| 307 | 579 | Roy Salyer |
-| 308 | 579 | Juliana Marques Do Nascimento Gordy |
+| 307 | 579 | Juliana Marques Do Nascimento Gordy |
+| 308 | 579 | Roy Salyer |
 | 309 | 576 | Ginger |
 | 310 | 574 | Steven Marshaun |
 | 311 | 572 | Chris Wanner |
@@ -504,8 +504,8 @@
 | 496 | 391 | Adam Simmons |
 | 497 | 391 | Cleo Sims |
 | 498 | 390 | Moist_B-hole |
-| 499 | 390 | Besma Ao |
-| 500 | 390 | Joice Hansen |
+| 499 | 390 | Joice Hansen |
+| 500 | 390 | Besma Ao |
 | 501 | 389 | Alexis Richardson |
 | 502 | 389 | Kayla |
 | 503 | 389 | Julie Hamilton |
@@ -579,9 +579,9 @@
 | 571 | 352 | Rose Fx |
 | 572 | 350 | Chris Harr |
 | 573 | 350 | Fi Ne |
-| 574 | 348 | NanDa Cruzan VI |
+| 574 | 348 | Peppy Snapfall |
 | 575 | 348 | Richard Horton |
-| 576 | 348 | Peppy Snapfall |
+| 576 | 348 | NanDa Cruzan VI |
 | 577 | 347 | Kimmy Newman |
 | 578 | 347 | Zesty Pivot |
 | 579 | 346 | Morgan Easter |

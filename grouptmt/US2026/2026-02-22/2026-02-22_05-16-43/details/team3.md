@@ -165,8 +165,8 @@
 | 157 | 362 | Darlene McMillan |
 | 158 | 359 | Dapper Snap |
 | 159 | 355 | Tessina Dewey-Mancino |
-| 160 | 353 | CeceGeGe |
-| 161 | 353 | Shunta Jacobs |
+| 160 | 353 | Shunta Jacobs |
+| 161 | 353 | CeceGeGe |
 | 162 | 352 | Chris Bell |
 | 163 | 351 | Tom Nault |
 | 164 | 348 | Chasity |
@@ -273,8 +273,8 @@
 | 265 | 204 | Danielle Allison |
 | 266 | 203 | Angie Harper |
 | 267 | 202 | Staci George Fitzsimmons |
-| 268 | 200 | Sharisse Baltimore |
-| 269 | 200 | glichmod |
+| 268 | 200 | glichmod |
+| 269 | 200 | Sharisse Baltimore |
 | 270 | 199 | Hyper Matchzone |
 | 271 | 197 | Raven Dudley |
 | 272 | 195 | Nicha Hooker |

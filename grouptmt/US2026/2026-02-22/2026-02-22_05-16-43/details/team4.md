@@ -203,8 +203,8 @@
 | 195 | 164 | 030Synner |
 | 196 | 162 | Joanna |
 | 197 | 161 | Jenny Wells-Oakley |
-| 198 | 160 | Laura Hosford |
-| 199 | 160 | ZeeZee |
+| 198 | 160 | ZeeZee |
+| 199 | 160 | Laura Hosford |
 | 200 | 160 | Carlos Ramirez |
 | 201 | 159 | Marcus Todd |
 | 202 | 158 | Avy Absol |

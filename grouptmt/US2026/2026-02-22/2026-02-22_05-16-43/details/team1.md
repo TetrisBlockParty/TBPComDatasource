@@ -169,8 +169,8 @@
 | 161 | 206 | BadG52 |
 | 162 | 205 | Tater |
 | 163 | 204 | Lacy Wolfe |
-| 164 | 203 | Paula Martin |
-| 165 | 203 | LaFontaine Leslie |
+| 164 | 203 | LaFontaine Leslie |
+| 165 | 203 | Paula Martin |
 | 166 | 201 | Sam Williams |
 | 167 | 199 | Basment Living |
 | 168 | 198 | Shiny Gridmatch |
@@ -250,11 +250,11 @@
 | 242 | 142 | Jerry Danowski |
 | 243 | 142 | Colleen Wise |
 | 244 | 141 | Dino |
-| 245 | 139 | Aimee Horton |
-| 246 | 139 | LD1 |
-| 247 | 139 | Flashy Rotator |
-| 248 | 138 | Giddy Cascade |
-| 249 | 138 | Hector Cruz |
+| 245 | 139 | Flashy Rotator |
+| 246 | 139 | Aimee Horton |
+| 247 | 139 | LD1 |
+| 248 | 138 | Hector Cruz |
+| 249 | 138 | Giddy Cascade |
 | 250 | 138 | Mark Smith |
 | 251 | 137 | Marci Sanders |
 | 252 | 137 | Jo Kerley |
