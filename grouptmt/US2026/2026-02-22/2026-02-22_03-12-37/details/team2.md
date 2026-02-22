@@ -201,8 +201,8 @@
 | 193 | 798 | Moose Griffith |
 | 194 | 787 | Laura McCarthey |
 | 195 | 783 | Shuany Arias |
-| 196 | 777 | Tesha Oldaker |
-| 197 | 777 | Barbra Miller |
+| 196 | 777 | Barbra Miller |
+| 197 | 777 | Tesha Oldaker |
 | 198 | 771 | Terri McKelvey McKinley |
 | 199 | 765 | Jodi Blake |
 | 200 | 763 | Dineisha Carpenter |
@@ -215,8 +215,8 @@
 | 207 | 753 | SaraMarie Eveland |
 | 208 | 751 | Loony Snapper |
 | 209 | 749 | Debra Williams |
-| 210 | 738 | Maria Escobar |
-| 211 | 738 | Melissa Cole |
+| 210 | 738 | Melissa Cole |
+| 211 | 738 | Maria Escobar |
 | 212 | 736 | Ashie Ann |
 | 213 | 728 | Nika Bee |
 | 214 | 721 | Kristin Gower |
@@ -231,9 +231,9 @@
 | 223 | 699 | Vo'Landa Reels |
 | 224 | 698 | Mighty Shatterfit |
 | 225 | 697 | Dreamy Blast |
-| 226 | 692 | Dannette Goldberg-Richards |
-| 227 | 692 | Jennifer Casey-Kay |
-| 228 | 692 | Chelle |
+| 226 | 692 | Chelle |
+| 227 | 692 | Dannette Goldberg-Richards |
+| 228 | 692 | Jennifer Casey-Kay |
 | 229 | 690 | Deborah Miller |
 | 230 | 688 | ShinyRose |
 | 231 | 687 | Trista Dumais |

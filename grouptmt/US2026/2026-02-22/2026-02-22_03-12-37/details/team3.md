@@ -47,8 +47,8 @@
 | 39 | 1015 | Amber Jones |
 | 40 | 998 | Liv Whetson |
 | 41 | 996 | Danielle Cutler |
-| 42 | 989 | Kay |
-| 43 | 989 | Joey Banks |
+| 42 | 989 | Joey Banks |
+| 43 | 989 | Kay |
 | 44 | 945 | Stephanie Rice |
 | 45 | 935 | Snappy Fitzone |
 | 46 | 931 | Fancy Slam |
@@ -117,8 +117,8 @@
 | 109 | 445 | Kristie McFarland |
 | 110 | 438 | Bea Miles |
 | 111 | 432 | Jenny Hrndz |
-| 112 | 428 | Betty Ivy |
-| 113 | 428 | Elissa S-k |
+| 112 | 428 | Elissa S-k |
+| 113 | 428 | Betty Ivy |
 | 114 | 416 | Mary Pellegrino |
 | 115 | 411 | FuzzyNavel |
 | 116 | 410 | Stephanie Simpson |
