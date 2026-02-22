@@ -90,8 +90,8 @@
 | 82 | 471 | Jennifer ManWarren |
 | 83 | 456 | Arianna O'Brien |
 | 84 | 453 | Brandi Huntington |
-| 85 | 444 | Lexuriuos Lifestlye |
-| 86 | 444 | Hyper |
+| 85 | 444 | Hyper |
+| 86 | 444 | Lexuriuos Lifestlye |
 | 87 | 443 | Steve Schneider |
 | 88 | 436 | Tonya Beasley |
 | 89 | 434 | Loony Fitzone |
@@ -107,9 +107,9 @@
 | 99 | 401 | cc |
 | 100 | 400 | Cynthia Bradley |
 | 101 | 395 | Nery Martinez |
-| 102 | 390 | Candy Jones |
-| 103 | 390 | Lori Bales |
-| 104 | 390 | Goose egg |
+| 102 | 390 | Lori Bales |
+| 103 | 390 | Goose egg |
+| 104 | 390 | Candy Jones |
 | 105 | 385 | Brenda Stewart |
 | 106 | 383 | pjbeta |
 | 107 | 380 | Dee Perry |
@@ -222,8 +222,8 @@
 | 214 | 223 | Erez Yosef |
 | 215 | 222 | Debbie Davis |
 | 216 | 221 | Daring Fitclear |
-| 217 | 220 | Giddy Cascade |
-| 218 | 220 | Jessie Lynn |
+| 217 | 220 | Jessie Lynn |
+| 218 | 220 | Giddy Cascade |
 | 219 | 219 | Chuck Gannon |
 | 220 | 216 | Jason Savage |
 | 221 | 216 | Shauntina Burke |
@@ -338,12 +338,12 @@
 | 330 | 156 | Nerdy Curvebuilder |
 | 331 | 155 | Barry Mac'Ockner |
 | 332 | 155 | Fresno Beotoni |
-| 333 | 154 | Larry Tilton |
-| 334 | 154 | Mario Cab |
+| 333 | 154 | Mario Cab |
+| 334 | 154 | Larry Tilton |
 | 335 | 153 | Dino |
 | 336 | 152 | Speedy Snapfall |
-| 337 | 151 | Bruce Cruz |
-| 338 | 151 | Gilbert Ortiz Jr. |
+| 337 | 151 | Gilbert Ortiz Jr. |
+| 338 | 151 | Bruce Cruz |
 | 339 | 150 | Barrbaric |
 | 340 | 150 | Agustin Duarte Orozco |
 | 341 | 149 | Cody Gates |

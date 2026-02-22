@@ -452,8 +452,8 @@
 | 444 | 545 | Lyndi Robinson Wakefield |
 | 445 | 545 | Sparkles |
 | 446 | 544 | Deidre Shaffer |
-| 447 | 543 | Vanessa Moreno |
-| 448 | 543 | Julie Kresal |
+| 447 | 543 | Julie Kresal |
+| 448 | 543 | Vanessa Moreno |
 | 449 | 540 | Melissa Kay Gibson |
 | 450 | 540 | Dizzy Zone |
 | 451 | 538 | Lonne Emade |
@@ -472,8 +472,8 @@
 | 464 | 525 | Joseph Musick |
 | 465 | 523 | Matt Johnson |
 | 466 | 522 | Leah |
-| 467 | 520 | Maddy Petersen |
-| 468 | 520 | Joshua Self |
+| 467 | 520 | Joshua Self |
+| 468 | 520 | Maddy Petersen |
 | 469 | 519 | Rob Brown |
 | 470 | 518 | Mighty Spinbuilder |
 | 471 | 517 | Alex Dungo Hoang |
@@ -595,14 +595,14 @@
 | 587 | 436 | Kia Humphery |
 | 588 | 436 | Kayla |
 | 589 | 435 | CupCake |
-| 590 | 435 | Regina Young |
-| 591 | 435 | James Louie |
+| 590 | 435 | James Louie |
+| 591 | 435 | Regina Young |
 | 592 | 434 | Brenda Messer |
 | 593 | 434 | bbv |
 | 594 | 432 | Abimbola Bimbo |
 | 595 | 432 | Lucy Marshall |
-| 596 | 431 | Quinn |
-| 597 | 431 | Hunter Connors |
+| 596 | 431 | Hunter Connors |
+| 597 | 431 | Quinn |
 | 598 | 430 | Ryan Stadel |
 | 599 | 429 | Tabs Reichert |
 | 600 | 428 | Lynda Toland |
@@ -1007,8 +1007,8 @@
 | 999 | 265 | Renee Griffith |
 | 1000 | 265 | Theresa Sterrett |
 | 1001 | 265 | Kray Kray Katelynn |
-| 1002 | 264 | Matthew Turner |
-| 1003 | 264 | Ocean-Brianna McGregor |
+| 1002 | 264 | Ocean-Brianna McGregor |
+| 1003 | 264 | Matthew Turner |
 | 1004 | 264 | Nicki Stephens |
 | 1005 | 264 | Edna Combs |
 | 1006 | 263 | Meagan Privett |
@@ -1242,8 +1242,8 @@
 | 1234 | 220 | Melinda Avriett |
 | 1235 | 220 | Amy Reynolds |
 | 1236 | 220 | Samuel Macon |
-| 1237 | 219 | Kimberly Ashley-Stevens |
-| 1238 | 219 | Tracie |
+| 1237 | 219 | Tracie |
+| 1238 | 219 | Kimberly Ashley-Stevens |
 | 1239 | 219 | Jenn Morin |
 | 1240 | 219 | Asante Alexander |
 | 1241 | 219 | Irna |

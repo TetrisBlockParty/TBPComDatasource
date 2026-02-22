@@ -43,8 +43,8 @@
 | 35 | 880 | Koshin Abdirahman |
 | 36 | 873 | Elizabeth Sallas |
 | 37 | 871 | Denny Shives |
-| 38 | 846 | Lucille Truesdale |
-| 39 | 846 | Christine Marie |
+| 38 | 846 | Christine Marie |
+| 39 | 846 | Lucille Truesdale |
 | 40 | 843 | Shelly Chandler |
 | 41 | 843 | Jae Job |
 | 42 | 840 | Landon Keith Graffeo |
@@ -136,8 +136,8 @@
 | 128 | 338 | ThaEviLJeNiuZ |
 | 129 | 338 | Lucas J Sutton |
 | 130 | 336 | Austin Owens |
-| 131 | 332 | HastyGrabber |
-| 132 | 332 | Desi Desporte |
+| 131 | 332 | Desi Desporte |
+| 132 | 332 | HastyGrabber |
 | 133 | 330 | David Lay |
 | 134 | 329 | Amanda Pauldo-Ivy |
 | 135 | 329 | Jessica Bohlken |
@@ -196,8 +196,8 @@
 | 188 | 247 | Sam Bishop |
 | 189 | 247 | Dennis Bradley |
 | 190 | 245 | Autum Leigh |
-| 191 | 245 | Peachy Fall |
-| 192 | 245 | Andria Lynn |
+| 191 | 245 | Andria Lynn |
+| 192 | 245 | Peachy Fall |
 | 193 | 244 | Twisty Cascadezone |
 | 194 | 243 | Mr. Party |
 | 195 | 242 | Jose Dejesus |
@@ -747,8 +747,8 @@
 | 739 | 60 | Laurel Coppess |
 | 740 | 60 | Kris Zulch |
 | 741 | 60 | Too Low Lou |
-| 742 | 60 | Marjorie Sims Rentz |
-| 743 | 60 | JD |
+| 742 | 60 | JD |
+| 743 | 60 | Marjorie Sims Rentz |
 | 744 | 59 | Noel Christa |
 | 745 | 59 | Stacy |
 | 746 | 59 | Frothy Patterner |
