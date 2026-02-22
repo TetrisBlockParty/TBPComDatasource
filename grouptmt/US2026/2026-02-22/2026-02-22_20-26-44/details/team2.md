@@ -161,8 +161,8 @@
 | 153 | 1300 | Tacara Cummings |
 | 154 | 1296 | Kristin Ruest |
 | 155 | 1286 | Altamirano Michael |
-| 156 | 1282 | Tanya Parsons |
-| 157 | 1282 | Ashley Rose Frederick |
+| 156 | 1282 | Ashley Rose Frederick |
+| 157 | 1282 | Tanya Parsons |
 | 158 | 1273 | Cool Rollpiece |
 | 159 | 1271 | Shandrica Lowe |
 | 160 | 1260 | Joshua Sommerville |
@@ -366,8 +366,8 @@
 | 358 | 702 | Allan Wayne Lamia |
 | 359 | 700 | Vincent Petrella |
 | 360 | 700 | Beverly Owens |
-| 361 | 697 | Ashle Scranton |
-| 362 | 697 | Dreamy Blast |
+| 361 | 697 | Dreamy Blast |
+| 362 | 697 | Ashle Scranton |
 | 363 | 695 | Mama T |
 | 364 | 695 | Lakeysha Dortch |
 | 365 | 695 | Dannette Goldberg-Richards |
@@ -457,10 +457,10 @@
 | 449 | 574 | Santana Miyagi |
 | 450 | 572 | Chris Wanner |
 | 451 | 571 | Emily Lyric Converse |
-| 452 | 569 | Sparkles |
-| 453 | 569 | Dapper Dasher |
-| 454 | 569 | Joseph Musick |
-| 455 | 569 | Vaniel Glover |
+| 452 | 569 | Dapper Dasher |
+| 453 | 569 | Sparkles |
+| 454 | 569 | Vaniel Glover |
+| 455 | 569 | Joseph Musick |
 | 456 | 567 | Irene Jones |
 | 457 | 566 | Leah Keesling |
 | 458 | 565 | Lyndi Robinson Wakefield |
@@ -491,8 +491,8 @@
 | 483 | 533 | Davetta Sanford |
 | 484 | 532 | Ann Matzkanin |
 | 485 | 532 | Belle Mari |
-| 486 | 531 | Aishah Brice |
-| 487 | 531 | Briana Alexander |
+| 486 | 531 | Briana Alexander |
+| 487 | 531 | Aishah Brice |
 | 488 | 530 | Denise Rickman |
 | 489 | 529 | Victoria Regina Girolami |
 | 490 | 528 | Anita Rose Green |
@@ -501,8 +501,8 @@
 | 493 | 523 | Matt Johnson |
 | 494 | 522 | Leah |
 | 495 | 521 | Victor Obiakarije |
-| 496 | 520 | trabuco |
-| 497 | 520 | Maddy Petersen |
+| 496 | 520 | Maddy Petersen |
+| 497 | 520 | trabuco |
 | 498 | 519 | Rob Brown |
 | 499 | 517 | Sarah Berger |
 | 500 | 517 | Brenna Ann |
@@ -546,7 +546,7 @@
 | 538 | 484 | Wendy Unsain |
 | 539 | 484 | Street Sweeper |
 | 540 | 482 | Kathleen Driskell |
-| 541 | 482 | Snippy Rumbler |
+| 541 | 482 | Drwatson187 |
 | 542 | 482 | Amélie Cadieux |
 | 543 | 482 | Snippy Rumbler |
 | 544 | 481 | Quirky Twistline |
@@ -557,9 +557,9 @@
 | 549 | 477 | Rhonda Petro |
 | 550 | 476 | Christy Krissie |
 | 551 | 476 | Kiana Boschh |
-| 552 | 475 | Mia Muse Best |
-| 553 | 475 | Michelle Lee |
-| 554 | 474 | Jennifer Aiken |
+| 552 | 475 | Michelle Lee |
+| 553 | 475 | Mia Muse Best |
+| 554 | 474 | Calandra Shaya Robinson |
 | 555 | 474 | Cody Nishimura |
 | 556 | 474 | Jennifer Aiken |
 | 557 | 473 | Ashlee Cruz |
@@ -654,8 +654,8 @@
 | 646 | 419 | Lauren Fitzgerald Thomas |
 | 647 | 419 | Josh Dill |
 | 648 | 418 | Dawn L Washington-Feuquay |
-| 649 | 417 | Crystal Heller Gonzalez |
-| 650 | 417 | Giggy Grabber |
+| 649 | 417 | Giggy Grabber |
+| 650 | 417 | Crystal Heller Gonzalez |
 | 651 | 417 | Alexx Anaya |
 | 652 | 417 | Oscar Bernie |
 | 653 | 416 | Mo Shine On |
@@ -663,8 +663,8 @@
 | 655 | 414 | Jasmine Kenney |
 | 656 | 414 | Daniel Amos |
 | 657 | 413 | Kristen O'Neal |
-| 658 | 413 | Moist_B-hole |
-| 659 | 413 | Kimberly Ann |
+| 658 | 413 | Kimberly Ann |
+| 659 | 413 | Moist_B-hole |
 | 660 | 412 | Jason H Baker |
 | 661 | 412 | Lewis Sturgeon |
 | 662 | 411 | Christina Ashley |

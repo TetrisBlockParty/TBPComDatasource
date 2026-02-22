@@ -403,8 +403,8 @@
 | 395 | 136 | Jen Hallin |
 | 396 | 136 | Dandy Cascadefit |
 | 397 | 135 | Joshua Guess |
-| 398 | 134 | Jobadia Steelerton |
-| 399 | 134 | Kristin MacDonald |
+| 398 | 134 | Kristin MacDonald |
+| 399 | 134 | Jobadia Steelerton |
 | 400 | 133 | Jesus Garcia |
 | 401 | 132 | No Strings Attached Ra |
 | 402 | 132 | Degenerate |

@@ -121,8 +121,8 @@
 | 113 | 638 | Jesse Olive |
 | 114 | 630 | yoyo |
 | 115 | 627 | Kristie |
-| 116 | 625 | Amber Hughes |
-| 117 | 625 | Shavette |
+| 116 | 625 | Shavette |
+| 117 | 625 | Amber Hughes |
 | 118 | 621 | Cherry Parker |
 | 119 | 618 | Bea Miles |
 | 120 | 595 | Patricia White |
@@ -162,8 +162,8 @@
 | 154 | 479 | Poppy Splitter |
 | 155 | 474 | Danielle Balcom |
 | 156 | 473 | Calista Jo Dickson |
-| 157 | 471 | Nora Rogers |
-| 158 | 471 | Mendoza Lee Christy |
+| 157 | 471 | Mendoza Lee Christy |
+| 158 | 471 | Nora Rogers |
 | 159 | 470 | Logan Naccarato |
 | 160 | 469 | Adrian Marcel Pate |
 | 161 | 469 | Melissa Orth Hunter |
@@ -219,20 +219,20 @@
 | 211 | 368 | Stephanie Woods |
 | 212 | 367 | Loopy Fallmatch |
 | 213 | 367 | Marci Mize Fandrich |
-| 214 | 365 | Tiffany Ford |
-| 215 | 365 | Chummy Caster |
+| 214 | 365 | Chummy Caster |
+| 215 | 365 | Tiffany Ford |
 | 216 | 362 | Brandon Givens |
 | 217 | 361 | RickyG |
 | 218 | 360 | Sheila M Frazier |
 | 219 | 357 | Stephanie Burtin |
 | 220 | 355 | Keis |
-| 221 | 351 | Rebecca Funderburk Kirby |
-| 222 | 351 | Eon Harris |
+| 221 | 351 | Eon Harris |
+| 222 | 351 | Rebecca Funderburk Kirby |
 | 223 | 350 | Kammy Hill |
 | 224 | 349 | Amanda J. Mcneil-Anderson |
 | 225 | 348 | Kristal C Lee |
-| 226 | 347 | Trisha Balmer |
-| 227 | 347 | Philip Rock |
+| 226 | 347 | Philip Rock |
+| 227 | 347 | Trisha Balmer |
 | 228 | 346 | Tamara Deherrera |
 | 229 | 344 | Roary Danner |
 | 230 | 344 | Rania Zaqout |

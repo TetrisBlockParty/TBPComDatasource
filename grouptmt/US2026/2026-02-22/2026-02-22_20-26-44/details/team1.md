@@ -53,8 +53,8 @@
 | 45 | 783 | Redlicious 1 |
 | 46 | 779 | Andrea Dañielle Ortiz |
 | 47 | 777 | Patrick Luckenbill |
-| 48 | 770 | Zappy Curvetile |
-| 49 | 770 | Lawrence Belanger |
+| 48 | 770 | Lawrence Belanger |
+| 49 | 770 | Zappy Curvetile |
 | 50 | 760 | Kristen Roles Robben |
 | 51 | 749 | Jacqueline Williams |
 | 52 | 746 | Stef Hu |
@@ -226,8 +226,8 @@
 | 218 | 234 | Paula Martin |
 | 219 | 233 | LC |
 | 220 | 232 | Basment Living |
-| 221 | 231 | Tyler Hertzog |
-| 222 | 231 | Sarah Somers Gray |
+| 221 | 231 | Sarah Somers Gray |
+| 222 | 231 | Tyler Hertzog |
 | 223 | 230 | BigWeenie69 |
 | 224 | 230 | Jen Nystrom |
 | 225 | 228 | Shiny Gridmatch |
@@ -236,8 +236,8 @@
 | 228 | 225 | Jessie Lynn |
 | 229 | 225 | Bindi |
 | 230 | 224 | ParisandCory Champagne |
-| 231 | 223 | Christina Backer |
-| 232 | 223 | Erez Yosef |
+| 231 | 223 | Erez Yosef |
+| 232 | 223 | Christina Backer |
 | 233 | 222 | Debbie Davis |
 | 234 | 221 | Amy Hess |
 | 235 | 221 | Daring Fitclear |
@@ -279,8 +279,8 @@
 | 271 | 198 | Adele Rahman |
 | 272 | 198 | Happy Snapbuild |
 | 273 | 197 | Joe Coon |
-| 274 | 196 | Marci Sanders |
-| 275 | 196 | Perky Shiftsnap |
+| 274 | 196 | Perky Shiftsnap |
+| 275 | 196 | Marci Sanders |
 | 276 | 195 | Jennifer Olewnik Soborowski |
 | 277 | 194 | Poppy Riserpiece |
 | 278 | 194 | Glitzy Buildsnap |
@@ -466,8 +466,8 @@
 | 458 | 117 | Brad MG |
 | 459 | 117 | Beazel75 |
 | 460 | 116 | Travis Taylor |
-| 461 | 115 | Quirky Pusher |
-| 462 | 115 | Michelle |
+| 461 | 115 | Brave Slice |
+| 462 | 115 | Quirky Pusher |
 | 463 | 115 | Aaron Green |
 | 464 | 115 | Michelle |
 | 465 | 114 | ESC |
