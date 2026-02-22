@@ -204,8 +204,8 @@
 | 196 | 857 | Della Hole |
 | 197 | 850 | Missie Lawson Gebhardt |
 | 198 | 849 | Hillary Crawford |
-| 199 | 845 | April Dawn Gussler |
-| 200 | 845 | Felicia Lynn |
+| 199 | 845 | Felicia Lynn |
+| 200 | 845 | April Dawn Gussler |
 | 201 | 838 | Tralonda Weeks |
 | 202 | 837 | Catina Hutchison |
 | 203 | 837 | Ashley Rose Frederick |

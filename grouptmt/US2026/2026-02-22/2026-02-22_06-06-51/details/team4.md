@@ -129,7 +129,7 @@
 | 121 | 277 | Scott Jameson |
 | 122 | 275 | Dizzy Tiley |
 | 123 | 271 | Sarah Brown |
-| 124 | 264 | Girl |
+| 124 | 264 | Dana Scott |
 | 125 | 264 | Epic Curvetile |
 | 126 | 264 | Girl |
 | 127 | 262 | Tyler Terrific |
@@ -231,9 +231,9 @@
 | 223 | 152 | Faja |
 | 224 | 151 | Cheery Risebuilder |
 | 225 | 150 | Brittany Marsh |
-| 226 | 149 | Tanner Lund |
+| 226 | 149 | Shainne Brewer |
 | 227 | 149 | Megan Cutshaw |
-| 228 | 149 | Shainne Brewer |
+| 228 | 149 | Tanner Lund |
 | 229 | 148 | Janita Parrish |
 | 230 | 147 | Jared Gutwein |
 | 231 | 147 | B Renee Desjardin |
@@ -388,8 +388,8 @@
 | 380 | 90 | Carol Ricks Raymond |
 | 381 | 90 | Thomas Hettenhaus |
 | 382 | 89 | Tony Pavelka |
-| 383 | 89 | Cristy Duerksen |
-| 384 | 89 | Jonathan Mahfood |
+| 383 | 89 | Jonathan Mahfood |
+| 384 | 89 | Cristy Duerksen |
 | 385 | 89 | Moonsterix |
 | 386 | 88 | Elie Pean |
 | 387 | 88 | Michelle Parker |

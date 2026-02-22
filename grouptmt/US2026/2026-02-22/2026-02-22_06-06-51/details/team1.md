@@ -360,8 +360,8 @@
 | 352 | 98 | Alfredo Vasquez |
 | 353 | 98 | Kirk Torrey |
 | 354 | 97 | Steve Bomkamp |
-| 355 | 96 | Nutty Spinblock |
-| 356 | 96 | Lisa Marie |
+| 355 | 96 | Lisa Marie |
+| 356 | 96 | Nutty Spinblock |
 | 357 | 95 | Jay Tressler |
 | 358 | 95 | Angela Spann |
 | 359 | 94 | Christina Backer |
