@@ -136,8 +136,8 @@
 | 128 | 526 | Cynthia Castros-Hampton |
 | 129 | 525 | Justin Ritter |
 | 130 | 521 | Michael Nowogorski |
-| 131 | 521 | Michelle Becker |
-| 132 | 521 | Daryn Elliott |
+| 131 | 521 | Daryn Elliott |
+| 132 | 521 | Michelle Becker |
 | 133 | 518 | opf |
 | 134 | 506 | Sashay Tapae Simpson |
 | 135 | 504 | Jennifer Lynn Fahrenholtz-Summers |
@@ -187,9 +187,9 @@
 | 179 | 398 | Sherry Ogden |
 | 180 | 397 | Annie Déè |
 | 181 | 393 | Fallorina Susana |
-| 182 | 391 | Calista Jo Dickson |
-| 183 | 391 | Araceli Parra |
-| 184 | 391 | Sarah Cowan Burgos |
+| 182 | 391 | Araceli Parra |
+| 183 | 391 | Sarah Cowan Burgos |
+| 184 | 391 | Calista Jo Dickson |
 | 185 | 391 | Dapper Snap |
 | 186 | 390 | Chasity |
 | 187 | 390 | Shunta Jacobs |
@@ -224,8 +224,8 @@
 | 216 | 332 | Ashley Tookes |
 | 217 | 332 | Rich LeBlanc |
 | 218 | 330 | Rebecca Funderburk Kirby |
-| 219 | 324 | Kristal C Lee |
-| 220 | 324 | Sissy Lowery Davis |
+| 219 | 324 | Sissy Lowery Davis |
+| 220 | 324 | Kristal C Lee |
 | 221 | 323 | Demetrious Shaw Sr. |
 | 222 | 321 | Rebecca Bailey |
 | 223 | 320 | Ashley Muncey |
@@ -302,11 +302,11 @@
 | 294 | 240 | Jimmie Clemons |
 | 295 | 240 | Eric Caccavale |
 | 296 | 238 | Niki Dalrymple |
-| 297 | 236 | Lys |
-| 298 | 236 | Angela Scott |
+| 297 | 236 | Angela Scott |
+| 298 | 236 | Lys |
 | 299 | 236 | Jess Bissett |
-| 300 | 233 | Twisty Brick LT |
-| 301 | 233 | Tony Waters |
+| 300 | 233 | Tony Waters |
+| 301 | 233 | Twisty Brick LT |
 | 302 | 232 | Donna |
 | 303 | 231 | Kevin Russell |
 | 304 | 231 | Kiki |
@@ -392,8 +392,8 @@
 | 384 | 186 | Bryan Byrd |
 | 385 | 186 | Sameerah Smith |
 | 386 | 186 | Noettín Kan Zasnemoore |
-| 387 | 185 | Frilly Stackzone |
-| 388 | 185 | Angella Lyons |
+| 387 | 185 | Angella Lyons |
+| 388 | 185 | Frilly Stackzone |
 | 389 | 184 | Shanon R Jackson |
 | 390 | 184 | Salena Whitlock |
 | 391 | 183 | Smiley Zone |

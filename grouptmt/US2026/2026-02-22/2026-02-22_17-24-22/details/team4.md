@@ -131,10 +131,10 @@
 | 123 | 353 | Tyler Terrific |
 | 124 | 344 | Lush Linkfall |
 | 125 | 343 | Latisha Davis |
-| 126 | 338 | Lucas J Sutton |
-| 127 | 338 | ThaEviLJeNiuZ |
-| 128 | 332 | Desi Desporte |
-| 129 | 332 | HastyGrabber |
+| 126 | 338 | ThaEviLJeNiuZ |
+| 127 | 338 | Lucas J Sutton |
+| 128 | 332 | HastyGrabber |
+| 129 | 332 | Desi Desporte |
 | 130 | 330 | David Lay |
 | 131 | 329 | Amanda Pauldo-Ivy |
 | 132 | 329 | Jessica Bohlken |
@@ -157,8 +157,8 @@
 | 149 | 290 | Keshia Lyons |
 | 150 | 289 | Jessica Lynn Cutlip |
 | 151 | 288 | Leah Kutz Zirbel |
-| 152 | 286 | shark tato |
-| 153 | 286 | Brittney Orengo |
+| 152 | 286 | Brittney Orengo |
+| 153 | 286 | shark tato |
 | 154 | 282 | Rafael Valentin |
 | 155 | 281 | Lindsay Ball |
 | 156 | 277 | Mary Ann Pabukis |
@@ -228,9 +228,9 @@
 | 220 | 210 | Adam Stephanie Parker |
 | 221 | 209 | Chris Hartig |
 | 222 | 208 | scott |
-| 223 | 208 | Stacey Stano |
-| 224 | 208 | Oscar Alberto Perez |
-| 225 | 208 | Dizzy Matchzone |
+| 223 | 208 | Dizzy Matchzone |
+| 224 | 208 | Stacey Stano |
+| 225 | 208 | Oscar Alberto Perez |
 | 226 | 207 | Chirpy Basepiece |
 | 227 | 207 | JPW |
 | 228 | 204 | Carlos Ramirez |
@@ -258,8 +258,8 @@
 | 250 | 184 | Lauren Lamb |
 | 251 | 184 | Ak Jones |
 | 252 | 182 | TinyLegoRose |
-| 253 | 181 | Carter Jones |
-| 254 | 181 | Jackie Marie |
+| 253 | 181 | Jackie Marie |
+| 254 | 181 | Carter Jones |
 | 255 | 180 | Orchislactea |
 | 256 | 179 | Christina Black |
 | 257 | 179 | AyeKay |
@@ -313,8 +313,8 @@
 | 305 | 151 | Shanon Klair |
 | 306 | 151 | Brandon Crabbs |
 | 307 | 150 | Chris Alexinas |
-| 308 | 150 | Brandon Link |
-| 309 | 150 | GBR |
+| 308 | 150 | GBR |
+| 309 | 150 | Brandon Link |
 | 310 | 148 | Janita Parrish |
 | 311 | 148 | Nick Gray |
 | 312 | 148 | Ruby Khalisadar |
