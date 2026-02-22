@@ -89,8 +89,8 @@
 | 81 | 362 | Plucky Ziggy |
 | 82 | 361 | Trina Gee |
 | 83 | 359 | Nerdy Linkblock |
-| 84 | 347 | june october |
-| 85 | 347 | pjbeta |
+| 84 | 347 | pjbeta |
+| 85 | 347 | june october |
 | 86 | 345 | Dee Perry |
 | 87 | 338 | Tipsy Strikerpiece |
 | 88 | 337 | Hyper |
@@ -129,8 +129,8 @@
 | 121 | 252 | Dena Kayy |
 | 122 | 252 | Elaine Elaine |
 | 123 | 247 | Tana |
-| 124 | 243 | Chelsea Dahlquist |
-| 125 | 243 | Trippy Redd |
+| 124 | 243 | Trippy Redd |
+| 125 | 243 | Chelsea Dahlquist |
 | 126 | 241 | John J. Cronin |
 | 127 | 236 | Mandyy Rae |
 | 128 | 236 | David Miller |
@@ -142,8 +142,8 @@
 | 134 | 226 | ALFD |
 | 135 | 226 | Kandae |
 | 136 | 217 | ParisandCory Champagne |
-| 137 | 216 | MRdot Rooski |
-| 138 | 216 | Shauntina Burke |
+| 137 | 216 | Shauntina Burke |
+| 138 | 216 | MRdot Rooski |
 | 139 | 214 | GATOR |
 | 140 | 213 | Dizzy Party |
 | 141 | 212 | Lori Bales |
@@ -159,8 +159,8 @@
 | 151 | 201 | Sleepysloath5745 |
 | 152 | 200 | Ash Galvan |
 | 153 | 199 | Basment Living |
-| 154 | 198 | Happy Snapbuild |
-| 155 | 198 | Shiny Gridmatch |
+| 154 | 198 | Shiny Gridmatch |
+| 155 | 198 | Happy Snapbuild |
 | 156 | 195 | Daring Fitclear |
 | 157 | 194 | Tyler Werts |
 | 158 | 193 | Lachelle Dillon |

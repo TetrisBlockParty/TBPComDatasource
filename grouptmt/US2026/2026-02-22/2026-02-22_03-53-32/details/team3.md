@@ -106,8 +106,8 @@
 | 98 | 506 | Sashay Tapae Simpson |
 | 99 | 503 | Susan Valentino |
 | 100 | 502 | Justin Ritter |
-| 101 | 500 | Domo Washington |
-| 102 | 500 | Kristie |
+| 101 | 500 | Kristie |
+| 102 | 500 | Domo Washington |
 | 103 | 497 | Mykal Burton |
 | 104 | 491 | Chauntee Alfrey-Cardinale |
 | 105 | 487 | Alaina Lee |
@@ -138,8 +138,8 @@
 | 130 | 399 | Patti Skiles |
 | 131 | 399 | Mcathen |
 | 132 | 397 | Annie Déè |
-| 133 | 392 | Katie Knaus |
-| 134 | 392 | Tasha Gillespie |
+| 133 | 392 | Tasha Gillespie |
+| 134 | 392 | Katie Knaus |
 | 135 | 391 | Calista Jo Dickson |
 | 136 | 390 | Hasty Cascadefit |
 | 137 | 380 | Louise Stacy Sisson |
@@ -163,8 +163,8 @@
 | 155 | 347 | Nicole Flippo |
 | 156 | 343 | Chasity |
 | 157 | 338 | Leah Barnett |
-| 158 | 332 | Rich LeBlanc |
-| 159 | 332 | Fallorina Susana |
+| 158 | 332 | Fallorina Susana |
+| 159 | 332 | Rich LeBlanc |
 | 160 | 328 | Aaron Pitkin |
 | 161 | 323 | Ashley Raines |
 | 162 | 323 | Demetrious Shaw Sr. |
@@ -182,14 +182,14 @@
 | 174 | 295 | Marcie Bressler |
 | 175 | 293 | Marci Mize Fandrich |
 | 176 | 291 | Daryn Elliott |
-| 177 | 289 | Hoppy Buildout |
-| 178 | 289 | DidIdothat |
+| 177 | 289 | DidIdothat |
+| 178 | 289 | Hoppy Buildout |
 | 179 | 288 | Giddy Twistbuilder |
 | 180 | 286 | Jacqueline Rodriguez |
 | 181 | 286 | Cynthia Herrmann Egland |
 | 182 | 285 | Rebecca Bailey |
-| 183 | 284 | Duane Bright |
-| 184 | 284 | Edwin Calvillo Jr. |
+| 183 | 284 | Edwin Calvillo Jr. |
+| 184 | 284 | Duane Bright |
 | 185 | 283 | Joye Sims Binion |
 | 186 | 278 | Rufus Lincoln |
 | 187 | 278 | Araceli Parra |
@@ -217,8 +217,8 @@
 | 209 | 249 | JerseyJess |
 | 210 | 249 | Annie Marie |
 | 211 | 247 | Rebecca Funderburk Kirby |
-| 212 | 246 | Eon Harris |
-| 213 | 246 | Rochelle Hazelett |
+| 212 | 246 | Rochelle Hazelett |
+| 213 | 246 | Eon Harris |
 | 214 | 246 | Peppy Shifter |
 | 215 | 245 | Latoya Mayne |
 | 216 | 240 | Brandon Givens |
@@ -297,8 +297,8 @@
 | 289 | 169 | Peachy Rollfit |
 | 290 | 169 | Kristian Thurman |
 | 291 | 167 | fraulila |
-| 292 | 167 | Romeo |
-| 293 | 167 | Shicken Nuggit |
+| 292 | 167 | Shicken Nuggit |
+| 293 | 167 | Romeo |
 | 294 | 166 | April Matthew Kibble |
 | 295 | 165 | Kali Kelz Williams |
 | 296 | 165 | Irene Arreguin |
@@ -335,8 +335,8 @@
 | 327 | 152 | Goofy Fall |
 | 328 | 151 | Rainbow77375 |
 | 329 | 150 | Gumbo |
-| 330 | 149 | Ava Petito |
-| 331 | 149 | Angel Mendez |
+| 330 | 149 | Angel Mendez |
+| 331 | 149 | Ava Petito |
 | 332 | 149 | Alexis Taylor |
 | 333 | 148 | Bryan Byrd |
 | 334 | 148 | Pam Holt Powell |

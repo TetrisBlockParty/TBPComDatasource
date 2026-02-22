@@ -78,8 +78,8 @@
 | 70 | 409 | Isabella Blanco |
 | 71 | 404 | Courtney Cicoria |
 | 72 | 399 | Jenna Ingersoll |
-| 73 | 396 | Alicia Bass |
-| 74 | 396 | Amy Suckarieh |
+| 73 | 396 | Amy Suckarieh |
+| 74 | 396 | Alicia Bass |
 | 75 | 392 | YoMomma |
 | 76 | 391 | Ramel Rhodes |
 | 77 | 390 | Carlton Unfiltered |
@@ -117,8 +117,8 @@
 | 109 | 274 | Desi Desporte |
 | 110 | 271 | Sarah Brown |
 | 111 | 268 | Meagan Nicole |
-| 112 | 264 | Girl |
-| 113 | 264 | Epic Curvetile |
+| 112 | 264 | Epic Curvetile |
+| 113 | 264 | Girl |
 | 114 | 264 | Dana Scott |
 | 115 | 258 | Brittney Orengo |
 | 116 | 257 | Holly Jolly |
@@ -144,17 +144,17 @@
 | 136 | 218 | Antony Dwayne Beasley |
 | 137 | 218 | Casey Grabner |
 | 138 | 217 | Chaz Duncan |
-| 139 | 215 | Jessica Bohlken |
-| 140 | 215 | Ren Mc |
+| 139 | 215 | Ren Mc |
+| 140 | 215 | Jessica Bohlken |
 | 141 | 213 | Jason Allen |
 | 142 | 212 | Mike Solo |
 | 143 | 212 | Calvin Cannon |
 | 144 | 211 | Jenna McGeorge |
 | 145 | 211 | Twisty Cascadezone |
 | 146 | 210 | Swanky Fitline |
-| 147 | 205 | Tyler Terrific |
+| 147 | 205 | Kathy Brookins |
 | 148 | 205 | Sarah Neathery |
-| 149 | 205 | Kathy Brookins |
+| 149 | 205 | Tyler Terrific |
 | 150 | 204 | Jen Caldwell |
 | 151 | 203 | Chris Bernstein |
 | 152 | 203 | Katherine Crane |

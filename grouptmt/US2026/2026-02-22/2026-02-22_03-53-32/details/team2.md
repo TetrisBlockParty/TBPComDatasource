@@ -217,8 +217,8 @@
 | 209 | 763 | Samantha Jo |
 | 210 | 759 | Lisa Ongtowasruk |
 | 211 | 756 | Stephanie Neuburger |
-| 212 | 755 | Katrina Weston |
-| 213 | 755 | Ashley House |
+| 212 | 755 | Ashley House |
+| 213 | 755 | Katrina Weston |
 | 214 | 753 | SaraMarie Eveland |
 | 215 | 751 | Loony Snapper |
 | 216 | 749 | Debra Williams |
@@ -259,8 +259,8 @@
 | 251 | 666 | Charvi' Carter |
 | 252 | 663 | Mandi Douglas Hilt |
 | 253 | 662 | Poldo Ilano |
-| 254 | 660 | Binyah-Binyah |
-| 255 | 660 | Bussyiano Page |
+| 254 | 660 | Bussyiano Page |
+| 255 | 660 | Binyah-Binyah |
 | 256 | 659 | Roseanna Peloso |
 | 257 | 658 | Erica Williams |
 | 258 | 653 | goofinoff |
@@ -796,9 +796,9 @@
 | 788 | 238 | Trista Carter |
 | 789 | 238 | Manny Trindade |
 | 790 | 237 | Nutty Matchline |
-| 791 | 237 | Jay Levy |
-| 792 | 237 | Devlin Ogg |
-| 793 | 237 | Breezy Tilt |
+| 791 | 237 | Breezy Tilt |
+| 792 | 237 | Jay Levy |
+| 793 | 237 | Devlin Ogg |
 | 794 | 237 | Jodi Mitnick |
 | 795 | 236 | Ashley Dow |
 | 796 | 236 | Daring Matchfit |
