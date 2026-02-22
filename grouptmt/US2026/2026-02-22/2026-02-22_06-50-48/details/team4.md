@@ -77,8 +77,8 @@
 | 69 | 501 | H.R. Block |
 | 70 | 500 | Rodney McMath Jr. |
 | 71 | 486 | Landon Keith Graffeo |
-| 72 | 483 | TeeJ |
-| 73 | 483 | Carmethia Clemons Haslerig |
+| 72 | 483 | Carmethia Clemons Haslerig |
+| 73 | 483 | TeeJ |
 | 74 | 467 | Dawn Alexander |
 | 75 | 447 | Samantha Peterson |
 | 76 | 440 | Kristin Manee |
@@ -148,8 +148,8 @@
 | 140 | 240 | Jolly Dashfit |
 | 141 | 240 | Peachy Fall |
 | 142 | 232 | Crystal Nicolette Moore |
-| 143 | 230 | Cursed Hag |
-| 144 | 230 | Autum Leigh |
+| 143 | 230 | Autum Leigh |
+| 144 | 230 | Cursed Hag |
 | 145 | 228 | J-Rizzle |
 | 146 | 227 | Swanky Fitline |
 | 147 | 227 | Alyssa Papen |
@@ -389,8 +389,8 @@
 | 381 | 95 | Jobadia Steelerton |
 | 382 | 94 | DonMega |
 | 383 | 93 | Matt Gooder |
-| 384 | 92 | Frilly Blocky |
-| 385 | 92 | Krash |
+| 384 | 92 | Krash |
+| 385 | 92 | Frilly Blocky |
 | 386 | 92 | bloat princess |
 | 387 | 91 | Lee Silpe |
 | 388 | 91 | Sunny Filler |

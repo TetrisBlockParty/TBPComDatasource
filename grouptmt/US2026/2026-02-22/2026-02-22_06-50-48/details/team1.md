@@ -109,10 +109,10 @@
 | 101 | 330 | Sweet Baker |
 | 102 | 328 | Gracie |
 | 103 | 326 | Monica Donato |
-| 104 | 321 | Maria C. Hernandez |
-| 105 | 321 | Shauna Loe |
-| 106 | 319 | Deanna L Hermanson |
-| 107 | 319 | Patrick Luckenbill |
+| 104 | 321 | Shauna Loe |
+| 105 | 321 | Maria C. Hernandez |
+| 106 | 319 | Patrick Luckenbill |
+| 107 | 319 | Deanna L Hermanson |
 | 108 | 313 | Tanya Carpenter-Reynolds |
 | 109 | 310 | phrmblk24 |
 | 110 | 310 | Jason Jones |
@@ -451,11 +451,11 @@
 | 443 | 81 | Archie Ware |
 | 444 | 81 | Sari Jones |
 | 445 | 80 | Jennifer Chilton-Metlock |
-| 446 | 80 | Hasty Columnbuilder |
-| 447 | 80 | Tofy |
+| 446 | 80 | Tofy |
+| 447 | 80 | Hasty Columnbuilder |
 | 448 | 79 | Marqs Mel |
-| 449 | 79 | Cool Combo |
-| 450 | 79 | Henry Lanier |
+| 449 | 79 | Henry Lanier |
+| 450 | 79 | Cool Combo |
 | 451 | 79 | Scott Betson |
 | 452 | 78 | Becky Coker |
 | 453 | 78 | Margie Olivas |

@@ -49,8 +49,8 @@
 | 41 | 1036 | Ant Ant |
 | 42 | 1015 | Amber Jones |
 | 43 | 998 | Liv Whetson |
-| 44 | 989 | Kay |
-| 45 | 989 | Joey Banks |
+| 44 | 989 | Joey Banks |
+| 45 | 989 | Kay |
 | 46 | 985 | Stephanie Rice |
 | 47 | 983 | Brandon Green |
 | 48 | 956 | Gracie |
@@ -61,8 +61,8 @@
 | 53 | 908 | Alanna Rogers |
 | 54 | 907 | Judi Dobson |
 | 55 | 903 | Sarah Fehring |
-| 56 | 895 | Shonna Roberts |
-| 57 | 895 | Amanda L Baker |
+| 56 | 895 | Amanda L Baker |
+| 57 | 895 | Shonna Roberts |
 | 58 | 886 | Khristen AC |
 | 59 | 874 | Jessica Pineda-Lopez |
 | 60 | 867 | Corie A. Brinson |
@@ -96,14 +96,14 @@
 | 88 | 595 | Patricia White |
 | 89 | 591 | Jesse Olive |
 | 90 | 588 | yoyo |
-| 91 | 582 | Speedy Bridger |
-| 92 | 582 | Jay Horn |
-| 93 | 582 | Natasha Jones |
+| 91 | 582 | Jay Horn |
+| 92 | 582 | Natasha Jones |
+| 93 | 582 | Speedy Bridger |
 | 94 | 581 | Danielle Mogg |
 | 95 | 579 | Jd Morris |
 | 96 | 566 | Dolores Falco |
-| 97 | 565 | Rachael McClain Owens |
-| 98 | 565 | Patty Allen |
+| 97 | 565 | Patty Allen |
+| 98 | 565 | Rachael McClain Owens |
 | 99 | 562 | Louise Stacy Sisson |
 | 100 | 559 | Morgan Martinez |
 | 101 | 549 | Nicole Myers |
@@ -166,8 +166,8 @@
 | 158 | 376 | Loopy Clusterer |
 | 159 | 374 | Sherry Ogden |
 | 160 | 371 | Michael Nowogorski |
-| 161 | 370 | Logan Naccarato |
-| 162 | 370 | Danielle Allison |
+| 161 | 370 | Danielle Allison |
+| 162 | 370 | Logan Naccarato |
 | 163 | 370 | Santeria Trece Candles |
 | 164 | 368 | Stephanie Woods |
 | 165 | 366 | Adrian Marcel Pate |
@@ -193,11 +193,11 @@
 | 185 | 319 | Rebecca Funderburk Kirby |
 | 186 | 317 | Ashley Tookes |
 | 187 | 315 | Kammy Hill |
-| 188 | 311 | Araceli Parra |
-| 189 | 311 | Raya |
+| 188 | 311 | Raya |
+| 189 | 311 | Araceli Parra |
 | 190 | 310 | Danielle Balcom |
-| 191 | 308 | Daryn Elliott |
-| 192 | 308 | Rania Zaqout |
+| 191 | 308 | Rania Zaqout |
+| 192 | 308 | Daryn Elliott |
 | 193 | 307 | rnr junky |
 | 194 | 307 | Blocked |
 | 195 | 305 | Rochelle Hazelett |
@@ -212,8 +212,8 @@
 | 204 | 295 | RickyG |
 | 205 | 289 | Hoppy Buildout |
 | 206 | 289 | Duane Bright |
-| 207 | 289 | DidIdothat |
-| 208 | 289 | Rebecca Bailey |
+| 207 | 289 | Rebecca Bailey |
+| 208 | 289 | DidIdothat |
 | 209 | 286 | Cynthia Herrmann Egland |
 | 210 | 283 | Cheeky Snapper |
 | 211 | 281 | Valerie Gendron |
@@ -322,8 +322,8 @@
 | 314 | 178 | Jess Dearborn |
 | 315 | 178 | Jennifer Alvey |
 | 316 | 177 | Rachel |
-| 317 | 176 | Melissa Orth Hunter |
-| 318 | 176 | Emma |
+| 317 | 176 | Emma |
+| 318 | 176 | Melissa Orth Hunter |
 | 319 | 175 | Eileen Brady Thurber |
 | 320 | 174 | Betty Rosas |
 | 321 | 174 | Lesley Perez |
@@ -360,15 +360,15 @@
 | 352 | 157 | Angel Mendez |
 | 353 | 156 | Nichole Greene |
 | 354 | 155 | Chummy Caster |
-| 355 | 155 | Michell Hendershott Jackson |
-| 356 | 155 | Michael Leblanc |
+| 355 | 155 | Michael Leblanc |
+| 356 | 155 | Michell Hendershott Jackson |
 | 357 | 153 | Sheila M Frazier |
 | 358 | 153 | Lys |
 | 359 | 153 | Wetwet |
 | 360 | 153 | Tony Waters |
 | 361 | 152 | Goofy Fall |
-| 362 | 152 | Eric Caccavale |
-| 363 | 152 | Shiny Zonebuilder |
+| 362 | 152 | Shiny Zonebuilder |
+| 363 | 152 | Eric Caccavale |
 | 364 | 151 | Sarah Cowan Burgos |
 | 365 | 149 | Alexis Taylor |
 | 366 | 148 | Pam Holt Powell |
@@ -379,8 +379,8 @@
 | 371 | 147 | Kiki |
 | 372 | 147 | Funky Jumper |
 | 373 | 147 | sofaking |
-| 374 | 146 | Sara Dunn |
-| 375 | 146 | ROODBOY |
+| 374 | 146 | ROODBOY |
+| 375 | 146 | Sara Dunn |
 | 376 | 146 | Wettnippz |
 | 377 | 146 | Sdot |
 | 378 | 144 | Tenisha Semidey |
@@ -409,8 +409,8 @@
 | 401 | 134 | Tammy |
 | 402 | 134 | Glenn Loving |
 | 403 | 133 | Jen Lewis |
-| 404 | 132 | Andrew Thorson |
-| 405 | 132 | Hanna Kim |
+| 404 | 132 | Hanna Kim |
+| 405 | 132 | Andrew Thorson |
 | 406 | 131 | Cheeky Setter |
 | 407 | 130 | Sarah Whalen |
 | 408 | 130 | Karen Picaboo |
@@ -527,8 +527,8 @@
 | 519 | 104 | Johnathan Dowe |
 | 520 | 104 | Jana Fagg |
 | 521 | 103 | Snappy Balancer |
-| 522 | 103 | Lisa Lisa |
-| 523 | 103 | Heather Bateman |
+| 522 | 103 | Heather Bateman |
+| 523 | 103 | Lisa Lisa |
 | 524 | 103 | Breanna Marsden |
 | 525 | 102 | Kaitie Oliver |
 | 526 | 102 | Giggly Hitter |

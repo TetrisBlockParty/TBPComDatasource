@@ -122,8 +122,8 @@
 | 114 | 1273 | Cool Rollpiece |
 | 115 | 1257 | Eileen Hale |
 | 116 | 1252 | Katrina Williams Balmir |
-| 117 | 1248 | Howard Forest |
-| 118 | 1248 | Isabela Shaw |
+| 117 | 1248 | Isabela Shaw |
+| 118 | 1248 | Howard Forest |
 | 119 | 1242 | Altamirano Michael |
 | 120 | 1232 | Groovy Puzzle |
 | 121 | 1226 | Vo'Landa Reels |
@@ -311,8 +311,8 @@
 | 303 | 640 | BYM4L |
 | 304 | 639 | Crystie Hicks |
 | 305 | 639 | Rebecca Miller |
-| 306 | 635 | Diana Fitzwater |
-| 307 | 635 | William Hunt |
+| 306 | 635 | William Hunt |
+| 307 | 635 | Diana Fitzwater |
 | 308 | 631 | Marie Walker |
 | 309 | 629 | Sleepypanda67 |
 | 310 | 627 | Victoria Moore-Smith |
@@ -645,8 +645,8 @@
 | 637 | 333 | Veronica Stevenson |
 | 638 | 332 | Lathasa Newkirk |
 | 639 | 331 | Steve Man |
-| 640 | 330 | CC |
-| 641 | 330 | Jennifer Monroe Kelly |
+| 640 | 330 | Jennifer Monroe Kelly |
+| 641 | 330 | CC |
 | 642 | 329 | Chummy Blockbuilder |
 | 643 | 329 | Jane Crew |
 | 644 | 329 | Snappy Shatterfit |
@@ -777,8 +777,8 @@
 | 769 | 274 | Sabrena Yeisley |
 | 770 | 274 | Jamie Stevey |
 | 771 | 273 | Jennifer Aiken |
-| 772 | 273 | Britt Stunkel |
-| 773 | 273 | Kelly Meredeith |
+| 772 | 273 | Kelly Meredeith |
+| 773 | 273 | Britt Stunkel |
 | 774 | 272 | Witty Piecebuilder |
 | 775 | 271 | Shalisa Hill |
 | 776 | 271 | Pam Doughty |
