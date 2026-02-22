@@ -685,9 +685,9 @@
 | 677 | 311 | Megan Phillips |
 | 678 | 310 | Wendy Ducheney |
 | 679 | 310 | Cheeky Brickmatch |
-| 680 | 310 | Sharon Mills |
+| 680 | 310 | Beth Decker |
 | 681 | 310 | Audra Williams |
-| 682 | 310 | Beth Decker |
+| 682 | 310 | Sharon Mills |
 | 683 | 309 | Byung Bae Park |
 | 684 | 309 | Candy Pitts |
 | 685 | 309 | AgileDragon |

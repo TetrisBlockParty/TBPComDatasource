@@ -102,8 +102,8 @@
 | 94 | 581 | Danielle Mogg |
 | 95 | 579 | Jd Morris |
 | 96 | 566 | Dolores Falco |
-| 97 | 565 | Rachael McClain Owens |
-| 98 | 565 | Patty Allen |
+| 97 | 565 | Patty Allen |
+| 98 | 565 | Rachael McClain Owens |
 | 99 | 559 | Morgan Martinez |
 | 100 | 551 | Louise Stacy Sisson |
 | 101 | 549 | Nicole Myers |
@@ -144,8 +144,8 @@
 | 136 | 409 | Karon Griffin |
 | 137 | 407 | Joye Sims Binion |
 | 138 | 405 | Michelle |
-| 139 | 403 | Christine Filson |
-| 140 | 403 | Scott Lindsay |
+| 139 | 403 | Scott Lindsay |
+| 140 | 403 | Christine Filson |
 | 141 | 402 | Shannon Matthew Byers |
 | 142 | 401 | Katie Knaus |
 | 143 | 400 | Luciana Braganca Vieira |
@@ -233,9 +233,9 @@
 | 225 | 263 | Angeline Joseph |
 | 226 | 263 | Brittany |
 | 227 | 262 | Joe-Maggie Mathews |
-| 228 | 261 | Tiffany Ford |
+| 228 | 261 | Marquita Sheard |
 | 229 | 261 | Tasha Wesson-Torrence |
-| 230 | 261 | Marquita Sheard |
+| 230 | 261 | Tiffany Ford |
 | 231 | 260 | Grams |
 | 232 | 259 | Danielle Weikel |
 | 233 | 258 | Tamara Deherrera |
