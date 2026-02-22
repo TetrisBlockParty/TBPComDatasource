@@ -124,8 +124,8 @@
 | 116 | 290 | Death |
 | 117 | 288 | Seante Bullock |
 | 118 | 287 | Chelsea Dahlquist |
-| 119 | 286 | Arianna O'Brien |
-| 120 | 286 | Ly Phethmany |
+| 119 | 286 | Ly Phethmany |
+| 120 | 286 | Arianna O'Brien |
 | 121 | 285 | Ananda Mendez |
 | 122 | 284 | Emily Adelaide Wheatley |
 | 123 | 284 | Rachael |
@@ -213,8 +213,8 @@
 | 205 | 179 | femmefatale |
 | 206 | 179 | Danielle Little-Daugherty |
 | 207 | 178 | Chad Atchley |
-| 208 | 177 | Irual Hctrab |
-| 209 | 177 | Jacqueline Unique |
+| 208 | 177 | Jacqueline Unique |
+| 209 | 177 | Irual Hctrab |
 | 210 | 176 | Mel Hogan |
 | 211 | 175 | John Barron |
 | 212 | 174 | Cheeky Pop |

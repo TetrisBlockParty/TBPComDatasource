@@ -102,8 +102,8 @@
 | 94 | 581 | Danielle Mogg |
 | 95 | 579 | Jd Morris |
 | 96 | 566 | Dolores Falco |
-| 97 | 565 | Rachael McClain Owens |
-| 98 | 565 | Patty Allen |
+| 97 | 565 | Patty Allen |
+| 98 | 565 | Rachael McClain Owens |
 | 99 | 562 | Louise Stacy Sisson |
 | 100 | 562 | Dave Herzog |
 | 101 | 559 | Morgan Martinez |
@@ -153,8 +153,8 @@
 | 145 | 400 | Luciana Braganca Vieira |
 | 146 | 400 | Aaron Pitkin |
 | 147 | 399 | Marcie Bressler |
-| 148 | 399 | Jacqueline Rodriguez |
-| 149 | 399 | Mcathen |
+| 148 | 399 | Mcathen |
+| 149 | 399 | Jacqueline Rodriguez |
 | 150 | 397 | Annie Déè |
 | 151 | 393 | Fallorina Susana |
 | 152 | 392 | Jim Mathews |
@@ -170,8 +170,8 @@
 | 162 | 374 | Sherry Ogden |
 | 163 | 371 | Michael Nowogorski |
 | 164 | 370 | Logan Naccarato |
-| 165 | 370 | Danielle Allison |
-| 166 | 370 | Santeria Trece Candles |
+| 165 | 370 | Santeria Trece Candles |
+| 166 | 370 | Danielle Allison |
 | 167 | 368 | Stephanie Woods |
 | 168 | 366 | Adrian Marcel Pate |
 | 169 | 362 | Darlene McMillan |
@@ -265,8 +265,8 @@
 | 257 | 227 | Meowsa |
 | 258 | 225 | Dirtgirl27 |
 | 259 | 223 | Connie Mohler-Fair |
-| 260 | 221 | Jaime Monhaut-Reed |
-| 261 | 221 | Alice |
+| 260 | 221 | Alice |
+| 261 | 221 | Jaime Monhaut-Reed |
 | 262 | 221 | Vaners |
 | 263 | 220 | rosy |
 | 264 | 219 | Sissy Lowery Davis |
@@ -280,8 +280,8 @@
 | 272 | 214 | Angela Scott |
 | 273 | 212 | Desiree Gold |
 | 274 | 212 | Sunny Rotater |
-| 275 | 211 | El Chapa |
-| 276 | 211 | Velma Mull |
+| 275 | 211 | Velma Mull |
+| 276 | 211 | El Chapa |
 | 277 | 211 | Khaleada McGill Banks |
 | 278 | 209 | Micayah Stevens |
 | 279 | 208 | AlsoJess |
@@ -367,8 +367,8 @@
 | 359 | 153 | Lys |
 | 360 | 153 | Tony Waters |
 | 361 | 152 | Goofy Fall |
-| 362 | 152 | Shiny Zonebuilder |
-| 363 | 152 | Eric Caccavale |
+| 362 | 152 | Eric Caccavale |
+| 363 | 152 | Shiny Zonebuilder |
 | 364 | 151 | Sarah Cowan Burgos |
 | 365 | 149 | Alexis Taylor |
 | 366 | 148 | Pam Holt Powell |
@@ -386,13 +386,13 @@
 | 378 | 144 | Tenisha Semidey |
 | 379 | 144 | Blair Erin Waite |
 | 380 | 142 | Gray Hicks |
-| 381 | 142 | Joy Petroski |
+| 381 | 142 | Jl |
 | 382 | 142 | Erica Anderson |
-| 383 | 142 | Jl |
+| 383 | 142 | Joy Petroski |
 | 384 | 141 | Melissa Snyder |
 | 385 | 141 | Weerae |
 | 386 | 140 | Jumpy Curvebuilder |
-| 387 | 140 | Linda Draper |
+| 387 | 140 | Boldy Corner |
 | 388 | 140 | Alison Baus |
 | 389 | 140 | Linda Draper |
 | 390 | 139 | Beppy |

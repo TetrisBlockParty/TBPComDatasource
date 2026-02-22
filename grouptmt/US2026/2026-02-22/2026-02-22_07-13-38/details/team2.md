@@ -927,8 +927,8 @@
 | 919 | 231 | Stanley Vanekelenburg |
 | 920 | 230 | lady |
 | 921 | 230 | Andrew Engman |
-| 922 | 229 | Deidre Jenkins |
-| 923 | 229 | Heather Anspaugh |
+| 922 | 229 | Heather Anspaugh |
+| 923 | 229 | Deidre Jenkins |
 | 924 | 229 | BbqGuru |
 | 925 | 229 | Chyrisse Norton |
 | 926 | 228 | Kandy Charmz |

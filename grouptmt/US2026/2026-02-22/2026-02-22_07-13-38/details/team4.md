@@ -153,13 +153,13 @@
 | 145 | 230 | Cursed Hag |
 | 146 | 230 | Autum Leigh |
 | 147 | 228 | J-Rizzle |
-| 148 | 227 | Alyssa Papen |
-| 149 | 227 | Swanky Fitline |
-| 150 | 227 | Chris Bernstein |
+| 148 | 227 | Swanky Fitline |
+| 149 | 227 | Chris Bernstein |
+| 150 | 227 | Alyssa Papen |
 | 151 | 225 | Damn Libra |
 | 152 | 224 | Matt Summer |
-| 153 | 223 | Kris Bartlett |
-| 154 | 223 | Antony Dwayne Beasley |
+| 153 | 223 | Antony Dwayne Beasley |
+| 154 | 223 | Kris Bartlett |
 | 155 | 222 | Joeliecea Cobb |
 | 156 | 222 | TheNeesh50 |
 | 157 | 221 | Rheanda Weaskus |
@@ -198,8 +198,8 @@
 | 190 | 185 | Andy Cabral |
 | 191 | 185 | Lori |
 | 192 | 184 | Ak Jones |
-| 193 | 181 | Alan George LaRage |
-| 194 | 181 | Carter Jones |
+| 193 | 181 | Carter Jones |
+| 194 | 181 | Alan George LaRage |
 | 195 | 180 | Rafael Valentin |
 | 196 | 180 | Orchislactea |
 | 197 | 179 | blockstar |
@@ -218,8 +218,8 @@
 | 210 | 162 | Joanna |
 | 211 | 161 | Jenny Wells-Oakley |
 | 212 | 160 | Laura Hosford |
-| 213 | 160 | Carlos Ramirez |
-| 214 | 160 | Brittany Marsh |
+| 213 | 160 | Brittany Marsh |
+| 214 | 160 | Carlos Ramirez |
 | 215 | 159 | Marcus Todd |
 | 216 | 158 | Avy Absol |
 | 217 | 158 | Chair |
@@ -353,7 +353,7 @@
 | 345 | 107 | Marcela Johnson |
 | 346 | 106 | Zappy Snaplink |
 | 347 | 106 | Jacob Richard |
-| 348 | 105 | GBR |
+| 348 | 105 | meowmew |
 | 349 | 105 | Zesty Linkgrid |
 | 350 | 105 | GBR |
 | 351 | 104 | Jessica Johnston |
