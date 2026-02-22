@@ -98,8 +98,8 @@
 | 90 | 581 | Danielle Mogg |
 | 91 | 579 | Jd Morris |
 | 92 | 566 | Dolores Falco |
-| 93 | 565 | Patty Allen |
-| 94 | 565 | Rachael McClain Owens |
+| 93 | 565 | Rachael McClain Owens |
+| 94 | 565 | Patty Allen |
 | 95 | 559 | Morgan Martinez |
 | 96 | 558 | Sarajane Lokan |
 | 97 | 549 | Nicole Myers |
@@ -433,8 +433,8 @@
 | 425 | 122 | Scouty |
 | 426 | 122 | Naur |
 | 427 | 122 | Nichol Graham |
-| 428 | 122 | Lisa Ann |
-| 429 | 122 | BabyTonj Evans |
+| 428 | 122 | BabyTonj Evans |
+| 429 | 122 | Lisa Ann |
 | 430 | 121 | Fredd Thomas |
 | 431 | 121 | Kellie Montgomery |
 | 432 | 120 | Carol Cain Thurman |
@@ -626,11 +626,11 @@
 | 618 | 85 | Danny Matthews |
 | 619 | 85 | Loony Slider |
 | 620 | 85 | Heather De Vries Cobb |
-| 621 | 85 | Danny Matthews |
+| 621 | 85 | lema ean |
 | 622 | 85 | Jm |
 | 623 | 85 | Mike Spritzer |
-| 624 | 84 | Shalanda Hardy |
-| 625 | 84 | Earlanda Holland |
+| 624 | 84 | Earlanda Holland |
+| 625 | 84 | Shalanda Hardy |
 | 626 | 84 | Justice 4 P |
 | 627 | 84 | Christopher Mastropietro |
 | 628 | 84 | Happy Buildsnap |

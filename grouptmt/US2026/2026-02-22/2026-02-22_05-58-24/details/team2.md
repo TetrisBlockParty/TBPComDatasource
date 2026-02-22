@@ -233,8 +233,8 @@
 | 225 | 771 | Terri McKelvey McKinley |
 | 226 | 769 | Adira Brown |
 | 227 | 767 | Jessica Wayne Cornwall |
-| 228 | 765 | Stephen Stephen |
-| 229 | 765 | Jodi Blake |
+| 228 | 765 | Jodi Blake |
+| 229 | 765 | Stephen Stephen |
 | 230 | 763 | Samantha Jo |
 | 231 | 761 | Lisa Ongtowasruk |
 | 232 | 756 | Stephanie Neuburger |
@@ -308,8 +308,8 @@
 | 300 | 627 | Victoria Moore-Smith |
 | 301 | 627 | Allan Wayne Lamia |
 | 302 | 619 | Jánine Riggs |
-| 303 | 617 | tejas25 |
-| 304 | 617 | Leslie Ann Carter |
+| 303 | 617 | Leslie Ann Carter |
+| 304 | 617 | tejas25 |
 | 305 | 615 | Brandon Armstrong |
 | 306 | 613 | Ellie Jonas |
 | 307 | 611 | Julio A Laracuente |
@@ -336,8 +336,8 @@
 | 328 | 562 | Ashley Lopez |
 | 329 | 561 | Traci Johnson |
 | 330 | 555 | Brittney Jean |
-| 331 | 554 | Santana Miyagi |
-| 332 | 554 | Rachael Senard |
+| 331 | 554 | Rachael Senard |
+| 332 | 554 | Santana Miyagi |
 | 333 | 549 | Kaylee McCafferty |
 | 334 | 549 | Darcy Mae |
 | 335 | 548 | Slip |
@@ -674,8 +674,8 @@
 | 666 | 308 | Claire |
 | 667 | 307 | stacey |
 | 668 | 306 | Kiorah Blaze |
-| 669 | 305 | Zany Clusterbuilder |
-| 670 | 305 | MamaBear11 |
+| 669 | 305 | MamaBear11 |
+| 670 | 305 | Zany Clusterbuilder |
 | 671 | 305 | Libby Hicks |
 | 672 | 304 | Michelle Shrum |
 | 673 | 304 | Melissa McCall |

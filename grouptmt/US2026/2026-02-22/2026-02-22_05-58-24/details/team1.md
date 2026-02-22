@@ -94,8 +94,8 @@
 | 86 | 359 | Nerdy Linkblock |
 | 87 | 355 | Hasbro Bros |
 | 88 | 350 | Tipsy Strikerpiece |
-| 89 | 347 | pjbeta |
-| 90 | 347 | june october |
+| 89 | 347 | june october |
+| 90 | 347 | pjbeta |
 | 91 | 345 | Dee Perry |
 | 92 | 342 | Brenda Stewart |
 | 93 | 339 | Kimmie Kimms |
@@ -121,8 +121,8 @@
 | 113 | 292 | Kristen Gideon |
 | 114 | 290 | Death |
 | 115 | 288 | Seante Bullock |
-| 116 | 286 | Arianna O'Brien |
-| 117 | 286 | Ly Phethmany |
+| 116 | 286 | Ly Phethmany |
+| 117 | 286 | Arianna O'Brien |
 | 118 | 285 | Ananda Mendez |
 | 119 | 284 | Emily Adelaide Wheatley |
 | 120 | 284 | lil mickey |
@@ -134,13 +134,13 @@
 | 126 | 278 | Rachael |
 | 127 | 276 | Dandy Basegrid |
 | 128 | 265 | SkipTheSadSauce |
-| 129 | 264 | Jenny Gingrich Fuentes |
-| 130 | 264 | Lexuriuos Lifestlye |
+| 129 | 264 | Lexuriuos Lifestlye |
+| 130 | 264 | Jenny Gingrich Fuentes |
 | 131 | 263 | Sharon Reynolds |
 | 132 | 257 | Amanda Jarnagin |
 | 133 | 256 | David Miller |
-| 134 | 252 | Elaine Elaine |
-| 135 | 252 | Dena Kayy |
+| 134 | 252 | Dena Kayy |
+| 135 | 252 | Elaine Elaine |
 | 136 | 248 | Lori Bales |
 | 137 | 247 | Tana |
 | 138 | 246 | Chelsea Dahlquist |
@@ -165,15 +165,15 @@
 | 157 | 211 | Marianita Garcia |
 | 158 | 211 | Kimberly Garcia |
 | 159 | 210 | Ash Galvan |
-| 160 | 210 | Giggly Builderline |
-| 161 | 210 | Letson Melissa |
+| 160 | 210 | Letson Melissa |
+| 161 | 210 | Giggly Builderline |
 | 162 | 208 | Bouncy Grid |
 | 163 | 207 | Leslie Bush Yarbrough |
 | 164 | 206 | BadG52 |
 | 165 | 205 | Tater |
 | 166 | 204 | Lacy Wolfe |
-| 167 | 203 | Paula Martin |
-| 168 | 203 | LaFontaine Leslie |
+| 167 | 203 | LaFontaine Leslie |
+| 168 | 203 | Paula Martin |
 | 169 | 201 | Sam Williams |
 | 170 | 199 | Basment Living |
 | 171 | 198 | Happy Snapbuild |
@@ -188,8 +188,8 @@
 | 180 | 189 | Jeanna Dunn |
 | 181 | 189 | Michael |
 | 182 | 187 | Jennifer Olewnik Soborowski |
-| 183 | 187 | Snippy Wipebuilder |
-| 184 | 187 | Amanda Johnson Huffman |
+| 183 | 187 | Amanda Johnson Huffman |
+| 184 | 187 | Snippy Wipebuilder |
 | 185 | 186 | Margo Wagner |
 | 186 | 186 | Erin Hodges Plumb |
 | 187 | 183 | Andrew Boone |
@@ -309,9 +309,9 @@
 | 301 | 114 | Constance Risner |
 | 302 | 114 | Angela Rena Brooks |
 | 303 | 113 | Itspaigebro |
-| 304 | 112 | Lush Zoney |
+| 304 | 112 | Crystal Joslin |
 | 305 | 112 | Chris65 |
-| 306 | 112 | Crystal Joslin |
+| 306 | 112 | Lush Zoney |
 | 307 | 111 | Damon J. Martin |
 | 308 | 110 | Jen |
 | 309 | 110 | Loony Fitzone |
@@ -529,7 +529,7 @@
 | 521 | 66 | Sarah Barrow |
 | 522 | 66 | Shannon Guilloty |
 | 523 | 65 | OneCrazyGator |
-| 524 | 65 | Kayla |
+| 524 | 65 | Bruce Cruz |
 | 525 | 65 | Larissa Marie Nelson |
 | 526 | 65 | Kayla |
 | 527 | 64 | Jeff Jack II |
