@@ -90,8 +90,8 @@
 | 82 | 328 | Gracie |
 | 83 | 323 | Sweet Baker |
 | 84 | 321 | Maria C. Hernandez |
-| 85 | 319 | Deanna L Hermanson |
-| 86 | 319 | Shauna Loe |
+| 85 | 319 | Shauna Loe |
+| 86 | 319 | Deanna L Hermanson |
 | 87 | 315 | Cynthia Bradley |
 | 88 | 314 | MomMom |
 | 89 | 313 | Tanya Carpenter-Reynolds |
@@ -128,8 +128,8 @@
 | 120 | 243 | Chelsea Dahlquist |
 | 121 | 243 | Trippy Redd |
 | 122 | 241 | John J. Cronin |
-| 123 | 240 | Tana |
-| 124 | 240 | Lexuriuos Lifestlye |
+| 123 | 240 | Lexuriuos Lifestlye |
+| 124 | 240 | Tana |
 | 125 | 237 | Greg Hart |
 | 126 | 236 | Mandyy Rae |
 | 127 | 230 | Frothy Pattern |

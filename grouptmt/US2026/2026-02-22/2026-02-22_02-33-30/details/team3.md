@@ -79,9 +79,9 @@
 | 71 | 613 | Amber Hughes |
 | 72 | 604 | Danielle Becker |
 | 73 | 588 | yoyo |
-| 74 | 582 | Jay Horn |
+| 74 | 582 | Natasha Jones |
 | 75 | 582 | Katrina Schroeder |
-| 76 | 582 | Natasha Jones |
+| 76 | 582 | Jay Horn |
 | 77 | 581 | Danielle Mogg |
 | 78 | 580 | Amanda L Baker |
 | 79 | 577 | Speedy Bridger |
@@ -90,8 +90,8 @@
 | 82 | 561 | Rachael McClain Owens |
 | 83 | 559 | Morgan Martinez |
 | 84 | 548 | Dave Herzog |
-| 85 | 541 | Nate Burnside |
-| 86 | 541 | Patty Allen |
+| 85 | 541 | Patty Allen |
+| 86 | 541 | Nate Burnside |
 | 87 | 536 | Giddy Drop |
 | 88 | 526 | Cynthia Castros-Hampton |
 | 89 | 519 | Shari Garber |

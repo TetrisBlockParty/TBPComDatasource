@@ -76,8 +76,8 @@
 | 68 | 409 | Isabella Blanco |
 | 69 | 402 | Courtney Cicoria |
 | 70 | 399 | Jenna Ingersoll |
-| 71 | 396 | Amy Suckarieh |
-| 72 | 396 | Alicia Bass |
+| 71 | 396 | Alicia Bass |
+| 72 | 396 | Amy Suckarieh |
 | 73 | 391 | Ramel Rhodes |
 | 74 | 390 | Carlton Unfiltered |
 | 75 | 388 | YoMomma |
@@ -88,8 +88,8 @@
 | 80 | 370 | Leslie Thomas |
 | 81 | 369 | Nope Young |
 | 82 | 359 | Jamie Mann-Deichmann |
-| 83 | 358 | Nugget |
-| 84 | 358 | Shane Kalamata Platoon |
+| 83 | 358 | Shane Kalamata Platoon |
+| 84 | 358 | Nugget |
 | 85 | 319 | Livvy |
 | 86 | 317 | Lori Walker |
 | 87 | 314 | Amanda Pauldo-Ivy |
@@ -195,8 +195,8 @@
 | 187 | 149 | Shainne Brewer |
 | 188 | 149 | Judy Cox |
 | 189 | 148 | Brittany Marsh |
-| 190 | 148 | Mr. Party |
-| 191 | 148 | Janita Parrish |
+| 190 | 148 | Janita Parrish |
+| 191 | 148 | Mr. Party |
 | 192 | 147 | B Renee Desjardin |
 | 193 | 147 | Jay28 |
 | 194 | 145 | Zany Shatterer |
@@ -204,8 +204,8 @@
 | 196 | 144 | Tanner Lund |
 | 197 | 144 | Jason Allen |
 | 198 | 143 | Lauren Lamb |
-| 199 | 142 | Zippy Gridlock |
-| 200 | 142 | Chris Bernstein |
+| 199 | 142 | Chris Bernstein |
+| 200 | 142 | Zippy Gridlock |
 | 201 | 141 | ĥuf |
 | 202 | 141 | Victoria Faniel |
 | 203 | 141 | Kathy Allen |
