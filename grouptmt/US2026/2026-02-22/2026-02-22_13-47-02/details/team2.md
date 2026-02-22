@@ -140,8 +140,8 @@
 | 132 | 1273 | Cool Rollpiece |
 | 133 | 1265 | Katrina Williams Balmir |
 | 134 | 1257 | Eileen Hale |
-| 135 | 1248 | Howard Forest |
-| 136 | 1248 | Isabela Shaw |
+| 135 | 1248 | Isabela Shaw |
+| 136 | 1248 | Howard Forest |
 | 137 | 1242 | Altamirano Michael |
 | 138 | 1232 | Groovy Puzzle |
 | 139 | 1230 | Megan Garrick |
@@ -178,8 +178,8 @@
 | 170 | 1047 | Amy Sayers |
 | 171 | 1046 | Poppy Snap |
 | 172 | 1045 | Lourisha |
-| 173 | 1043 | Suki Kaur |
-| 174 | 1043 | Brave Dropmatch |
+| 173 | 1043 | Brave Dropmatch |
+| 174 | 1043 | Suki Kaur |
 | 175 | 1036 | Allison Lockyer |
 | 176 | 1035 | Sarah Freitas |
 | 177 | 1025 | Brandy Andre |
@@ -348,20 +348,20 @@
 | 340 | 635 | Diana Fitzwater |
 | 341 | 631 | Marie Walker |
 | 342 | 629 | Jelly |
-| 343 | 627 | Victoria Moore-Smith |
-| 344 | 627 | Allan Wayne Lamia |
+| 343 | 627 | Allan Wayne Lamia |
+| 344 | 627 | Victoria Moore-Smith |
 | 345 | 626 | Dylan Thomason |
 | 346 | 620 | Brandon Armstrong |
 | 347 | 613 | Ellie Jonas |
-| 348 | 613 | Caitlyn Blackwell |
-| 349 | 613 | Breezy Filler |
-| 350 | 611 | Julio A Laracuente |
-| 351 | 611 | Carl Bradshaw |
+| 348 | 613 | Breezy Filler |
+| 349 | 613 | Caitlyn Blackwell |
+| 350 | 611 | Carl Bradshaw |
+| 351 | 611 | Julio A Laracuente |
 | 352 | 611 | Em Chen |
 | 353 | 603 | Cassie Maynard |
 | 354 | 602 | KhaosLord |
-| 355 | 602 | Biggest thing |
-| 356 | 602 | Christine Bollig |
+| 355 | 602 | Christine Bollig |
+| 356 | 602 | Biggest thing |
 | 357 | 601 | Michele Morgan |
 | 358 | 600 | Demeka Dangerous-kisses Johnson |
 | 359 | 597 | Steven Marshaun |
@@ -389,16 +389,16 @@
 | 381 | 558 | Mikayala Szaz |
 | 382 | 558 | Libby Hicks |
 | 383 | 556 | Slip |
-| 384 | 554 | Santana Miyagi |
-| 385 | 554 | Rachael Senard |
+| 384 | 554 | Rachael Senard |
+| 385 | 554 | Santana Miyagi |
 | 386 | 554 | Autumn Schaeffer |
 | 387 | 553 | Blacc Blac |
 | 388 | 552 | Michelle Fields |
 | 389 | 550 | Nashu |
 | 390 | 549 | Darcy Mae |
 | 391 | 549 | Kaylee McCafferty |
-| 392 | 548 | Taryece Gause |
-| 393 | 548 | Brownie Sheena |
+| 392 | 548 | Brownie Sheena |
+| 393 | 548 | Taryece Gause |
 | 394 | 545 | Frisky Clearpiece |
 | 395 | 544 | Deidre Shaffer |
 | 396 | 544 | Leah Keesling |
@@ -633,8 +633,8 @@
 | 625 | 376 | James Zaragoza |
 | 626 | 375 | Cecilia A Jenkins |
 | 627 | 375 | Belle |
-| 628 | 373 | Hunter Connors |
-| 629 | 373 | Jessica Hughes |
+| 628 | 373 | Jessica Hughes |
+| 629 | 373 | Hunter Connors |
 | 630 | 373 | Ashley Marie |
 | 631 | 372 | Ebony Deloach Bryant |
 | 632 | 371 | Brenda Messer |
@@ -645,8 +645,8 @@
 | 637 | 369 | Juan Castillo |
 | 638 | 367 | Connie Lepore-Mann |
 | 639 | 367 | Jessica Lamb |
-| 640 | 366 | Lawanda Forbes |
-| 641 | 366 | Courtney Burcham |
+| 640 | 366 | Courtney Burcham |
+| 641 | 366 | Lawanda Forbes |
 | 642 | 365 | Christina Lewis-Vickers |
 | 643 | 365 | Audrey Jones |
 | 644 | 365 | Susan Arnburg |

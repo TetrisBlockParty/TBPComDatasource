@@ -167,8 +167,8 @@
 | 159 | 250 | Matt Dell'Olio |
 | 160 | 249 | Chris Bernstein |
 | 161 | 245 | Diana Houts |
-| 162 | 244 | J-Rizzle |
-| 163 | 244 | Twisty Cascadezone |
+| 162 | 244 | Twisty Cascadezone |
+| 163 | 244 | J-Rizzle |
 | 164 | 240 | Peachy Fall |
 | 165 | 236 | Swanky Fitline |
 | 166 | 234 | Porkobello |
@@ -266,7 +266,7 @@
 | 258 | 158 | Chair |
 | 259 | 157 | Bethany Ison |
 | 260 | 157 | Paige Kittles |
-| 261 | 157 | Bethany Ison |
+| 261 | 157 | KayM |
 | 262 | 157 | B Renee Desjardin |
 | 263 | 156 | Ultramarine |
 | 264 | 156 | Snippy Puzzle |
@@ -361,8 +361,8 @@
 | 353 | 121 | Jim Hart |
 | 354 | 120 | wombat |
 | 355 | 120 | Bryan Hodgins |
-| 356 | 119 | rebel4lyfe |
-| 357 | 119 | Gwendolyn Pitcairn |
+| 356 | 119 | Gwendolyn Pitcairn |
+| 357 | 119 | rebel4lyfe |
 | 358 | 119 | River Shady Sr. |
 | 359 | 118 | Darrin Rubalcava |
 | 360 | 118 | Mackenzie Forrester |
@@ -371,8 +371,8 @@
 | 363 | 117 | David V. Bowers |
 | 364 | 117 | Gracie Ann Taylor |
 | 365 | 117 | BigSammy420 |
-| 366 | 116 | Kate |
-| 367 | 116 | Smiley Shifter |
+| 366 | 116 | Smiley Shifter |
+| 367 | 116 | Kate |
 | 368 | 116 | Bradley Reeves |
 | 369 | 115 | Kevin Bush |
 | 370 | 115 | Tony Pavelka |
