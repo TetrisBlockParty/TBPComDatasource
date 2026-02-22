@@ -348,8 +348,8 @@
 | 340 | 507 | Magic steve |
 | 341 | 507 | Gauri Shrotriya |
 | 342 | 504 | Lylymom |
-| 343 | 502 | Poppy Snap |
-| 344 | 502 | Sparkles |
+| 343 | 502 | Sparkles |
+| 344 | 502 | Poppy Snap |
 | 345 | 500 | Sarah Ridenour |
 | 346 | 499 | Sarah Massey |
 | 347 | 497 | Kimberly Randesi |
@@ -402,16 +402,16 @@
 | 394 | 459 | Brenna Ann |
 | 395 | 458 | Casper The Chonk |
 | 396 | 454 | Casey Schumacher |
-| 397 | 453 | Joshua Sommerville |
-| 398 | 453 | Rhonda Petro |
-| 399 | 451 | Funky Caster |
-| 400 | 451 | Melissa Kay Gibson |
+| 397 | 453 | Rhonda Petro |
+| 398 | 453 | Joshua Sommerville |
+| 399 | 451 | Melissa Kay Gibson |
+| 400 | 451 | Funky Caster |
 | 401 | 451 | Cody Nishimura |
 | 402 | 451 | Dylan Thomason |
 | 403 | 449 | Davetta Sanford |
 | 404 | 447 | Heather Schelkopf |
-| 405 | 447 | Brandy Andre |
-| 406 | 447 | Ann Matzkanin |
+| 405 | 447 | Ann Matzkanin |
+| 406 | 447 | Brandy Andre |
 | 407 | 447 | Lourisha |
 | 408 | 445 | Mar Q Thomas |
 | 409 | 443 | Joseph Musick |

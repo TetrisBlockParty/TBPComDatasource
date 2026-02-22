@@ -74,8 +74,8 @@
 | 66 | 486 | Landon Keith Graffeo |
 | 67 | 483 | Carmethia Clemons Haslerig |
 | 68 | 466 | Dawn Alexander |
-| 69 | 447 | TeeJ |
-| 70 | 447 | Samantha Peterson |
+| 69 | 447 | Samantha Peterson |
+| 70 | 447 | TeeJ |
 | 71 | 409 | Isabella Blanco |
 | 72 | 404 | Courtney Cicoria |
 | 73 | 399 | Jenna Ingersoll |
