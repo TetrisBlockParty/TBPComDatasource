@@ -323,8 +323,8 @@
 | 315 | 130 | Carl Claunch |
 | 316 | 129 | Madison Wicks |
 | 317 | 129 | Sherri E Woods Hess |
-| 318 | 128 | Alyssa Ingram |
-| 319 | 128 | George Dalton |
+| 318 | 128 | George Dalton |
+| 319 | 128 | Alyssa Ingram |
 | 320 | 127 | Danielle Mae |
 | 321 | 126 | Tyler Hertzog |
 | 322 | 126 | Zany Tiler |

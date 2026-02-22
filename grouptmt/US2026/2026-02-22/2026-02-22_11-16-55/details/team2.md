@@ -287,8 +287,8 @@
 | 279 | 713 | Chelle |
 | 280 | 704 | Shelley Thornburgh Wright |
 | 281 | 703 | Gold Rose |
-| 282 | 700 | Vincent Petrella |
-| 283 | 700 | Hong Tang |
+| 282 | 700 | Hong Tang |
+| 283 | 700 | Vincent Petrella |
 | 284 | 700 | Rosemadder |
 | 285 | 700 | Beverly Owens |
 | 286 | 698 | Mighty Shatterfit |
@@ -343,8 +343,8 @@
 | 335 | 613 | Breezy Filler |
 | 336 | 613 | Ellie Jonas |
 | 337 | 611 | Em Chen |
-| 338 | 611 | Carl Bradshaw |
-| 339 | 611 | Julio A Laracuente |
+| 338 | 611 | Julio A Laracuente |
+| 339 | 611 | Carl Bradshaw |
 | 340 | 605 | Jelly |
 | 341 | 603 | Cassie Maynard |
 | 342 | 602 | KhaosLord |
@@ -685,8 +685,8 @@
 | 677 | 337 | Tum |
 | 678 | 337 | Diallo Sparkman |
 | 679 | 337 | Savannah Alexander |
-| 680 | 336 | Austin Wilson |
-| 681 | 336 | bru |
+| 680 | 336 | bru |
+| 681 | 336 | Austin Wilson |
 | 682 | 336 | Swanky Columnbuilder |
 | 683 | 335 | Brooke Leigh Strube |
 | 684 | 335 | Maria Louise |
@@ -768,8 +768,8 @@
 | 760 | 297 | Ashley Robbins |
 | 761 | 296 | Jennifer Darby |
 | 762 | 296 | Frisky Riserbuilder |
-| 763 | 296 | Epic Fitzone |
-| 764 | 296 | Zappy Dropmatch |
+| 763 | 296 | Zappy Dropmatch |
+| 764 | 296 | Epic Fitzone |
 | 765 | 295 | Noel Tarmy |
 | 766 | 294 | Amanda Edwards |
 | 767 | 293 | Ann Marie Davis |
@@ -839,8 +839,8 @@
 | 831 | 272 | Alexandrea |
 | 832 | 271 | Amber N Koepp |
 | 833 | 271 | Pam Doughty |
-| 834 | 271 | Beverly Hodge |
-| 835 | 271 | Shalisa Hill |
+| 834 | 271 | Shalisa Hill |
+| 835 | 271 | Beverly Hodge |
 | 836 | 270 | BK Queen |
 | 837 | 270 | Lazy Builderfit |
 | 838 | 270 | Nat |
@@ -872,9 +872,9 @@
 | 864 | 261 | MrsClaudette Will'sIam Matthews |
 | 865 | 261 | Tom Steffen |
 | 866 | 261 | Mellissa Evans |
-| 867 | 260 | Giggly Snap |
+| 867 | 260 | Manny Trindade |
 | 868 | 260 | Lianne Giandalone LaBounty |
-| 869 | 260 | Manny Trindade |
+| 869 | 260 | Giggly Snap |
 | 870 | 260 | Lynda Toland |
 | 871 | 260 | Michael David Hollis |
 | 872 | 259 | Mary Ahne |
@@ -899,7 +899,7 @@
 | 891 | 257 | Queen |
 | 892 | 256 | Slinky Racker |
 | 893 | 256 | Gursharan Sandhu |
-| 894 | 256 | Monarca26 |
+| 894 | 256 | Brenna Yearian |
 | 895 | 256 | Nikki Vaughn |
 | 896 | 256 | Monarca26 |
 | 897 | 255 | ElizabethAnn Dickinson |
@@ -925,8 +925,8 @@
 | 917 | 250 | Drew Berkelbach |
 | 918 | 250 | Kay Stevenson |
 | 919 | 249 | Angela Yantz |
-| 920 | 249 | Joshua Mullings |
-| 921 | 249 | Kamilya Rembert |
+| 920 | 249 | Kamilya Rembert |
+| 921 | 249 | Joshua Mullings |
 | 922 | 249 | J.L. Roberts |
 | 923 | 248 | Angelina Marie |
 | 924 | 248 | CleverAngel |
@@ -963,8 +963,8 @@
 | 955 | 239 | Amy John Mills |
 | 956 | 238 | Pfc Monei Rivera |
 | 957 | 238 | SwifftFox |
-| 958 | 238 | Trista Carter |
-| 959 | 238 | Kim McGrath |
+| 958 | 238 | Kim McGrath |
+| 959 | 238 | Trista Carter |
 | 960 | 237 | Nutty Matchline |
 | 961 | 237 | Devlin Ogg |
 | 962 | 237 | Jay Levy |
@@ -979,8 +979,8 @@
 | 971 | 235 | Loopy Shatterfit |
 | 972 | 234 | Joanna L. Abad |
 | 973 | 234 | Trina Harrison |
-| 974 | 234 | Lonnie Brown |
-| 975 | 234 | Synn |
+| 974 | 234 | Synn |
+| 975 | 234 | Lonnie Brown |
 | 976 | 234 | Jannan Haimour |
 | 977 | 233 | Allison Hewitt |
 | 978 | 233 | Myleaha Holley |
@@ -993,8 +993,8 @@
 | 985 | 231 | Michelle Fleming Luna |
 | 986 | 231 | Stanley Vanekelenburg |
 | 987 | 230 | lady |
-| 988 | 230 | Laura Mcfee |
-| 989 | 230 | Anna Mayo |
+| 988 | 230 | Anna Mayo |
+| 989 | 230 | Laura Mcfee |
 | 990 | 229 | Chyrisse Norton |
 | 991 | 229 | ItsJennifer Neriss |
 | 992 | 229 | BbqGuru |
@@ -1064,9 +1064,9 @@
 | 1056 | 215 | Stacy Harper |
 | 1057 | 215 | Facuetoo |
 | 1058 | 214 | Cass Shirley |
-| 1059 | 214 | Dane Reing |
-| 1060 | 214 | Perk Diggler |
-| 1061 | 214 | FloJo |
+| 1059 | 214 | Perk Diggler |
+| 1060 | 214 | FloJo |
+| 1061 | 214 | Dane Reing |
 | 1062 | 214 | Happy Puzzle |
 | 1063 | 214 | Michele Phelps |
 | 1064 | 214 | Luciano Andre Versace Grismondie |

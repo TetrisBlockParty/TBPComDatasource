@@ -77,8 +77,8 @@
 | 69 | 530 | Yoset Mejia |
 | 70 | 524 | Amelpss |
 | 71 | 521 | Dawn Alexander |
-| 72 | 518 | Eric Mcgaughy |
-| 73 | 518 | Carolyn Wallace |
+| 72 | 518 | Carolyn Wallace |
+| 73 | 518 | Eric Mcgaughy |
 | 74 | 517 | H.R. Block |
 | 75 | 512 | Casey Jeffcoat |
 | 76 | 511 | Michelle Marie |
@@ -91,8 +91,8 @@
 | 83 | 447 | Erin Thomas |
 | 84 | 440 | Kristin Manee |
 | 85 | 437 | Chastity Mitchell |
-| 86 | 427 | Jolly Dashfit |
-| 87 | 427 | KJ Pool |
+| 86 | 427 | KJ Pool |
+| 87 | 427 | Jolly Dashfit |
 | 88 | 420 | Chilly Crasher |
 | 89 | 417 | Ashley Ingram |
 | 90 | 416 | YoMomma |
@@ -137,8 +137,8 @@
 | 129 | 286 | shark tato |
 | 130 | 283 | Brittney Orengo |
 | 131 | 281 | Meagan Nicole |
-| 132 | 278 | Desi Desporte |
-| 133 | 278 | Carrie Brian |
+| 132 | 278 | Carrie Brian |
+| 133 | 278 | Desi Desporte |
 | 134 | 277 | Scott Jameson |
 | 135 | 277 | Mary Ann Pabukis |
 | 136 | 275 | Dizzy Tiley |
@@ -176,8 +176,8 @@
 | 168 | 220 | Matt Dell'Olio |
 | 169 | 218 | Casey Grabner |
 | 170 | 217 | Chaz Duncan |
-| 171 | 215 | Ren Mc |
-| 172 | 215 | Jessica Bohlken |
+| 171 | 215 | Jessica Bohlken |
+| 172 | 215 | Ren Mc |
 | 173 | 213 | Jason Allen |
 | 174 | 213 | Sarah Neathery |
 | 175 | 212 | Mike Solo |
@@ -185,17 +185,17 @@
 | 177 | 210 | Zethra Prenisha Rahming |
 | 178 | 207 | Chirpy Basepiece |
 | 179 | 205 | Kathy Brookins |
-| 180 | 204 | Carlos Ramirez |
-| 181 | 204 | Jen Caldwell |
+| 180 | 204 | Jen Caldwell |
+| 181 | 204 | Carlos Ramirez |
 | 182 | 203 | Katherine Crane |
 | 183 | 202 | TRCuse |
-| 184 | 201 | Melvin Baird |
-| 185 | 201 | Chance Strickland |
+| 184 | 201 | Chance Strickland |
+| 185 | 201 | Melvin Baird |
 | 186 | 200 | Laura |
-| 187 | 198 | Keith Kelley |
-| 188 | 198 | Ruben Wheeler |
-| 189 | 196 | Lori |
-| 190 | 196 | Oscar Alberto Perez |
+| 187 | 198 | Ruben Wheeler |
+| 188 | 198 | Keith Kelley |
+| 189 | 196 | Oscar Alberto Perez |
+| 190 | 196 | Lori |
 | 191 | 196 | Mr. Party |
 | 192 | 195 | Malakai Darien Fox |
 | 193 | 195 | ZeeZee |
@@ -208,8 +208,8 @@
 | 200 | 190 | Cheery Risebuilder |
 | 201 | 189 | Stacey Stano |
 | 202 | 189 | Calvin Dennis |
-| 203 | 188 | Kim Hunt |
-| 204 | 188 | Andria Lynn |
+| 203 | 188 | Andria Lynn |
+| 204 | 188 | Kim Hunt |
 | 205 | 186 | Holly |
 | 206 | 185 | Nikki Rae Gordon |
 | 207 | 184 | Ak Jones |
