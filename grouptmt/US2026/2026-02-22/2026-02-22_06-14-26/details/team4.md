@@ -31,8 +31,8 @@
 | 23 | 886 | Dustin Robert |
 | 24 | 880 | Koshin Abdirahman |
 | 25 | 879 | Heather Tushner |
-| 26 | 873 | Michelle Pearman |
-| 27 | 873 | Elizabeth Sallas |
+| 26 | 873 | Elizabeth Sallas |
+| 27 | 873 | Michelle Pearman |
 | 28 | 871 | Denny Shives |
 | 29 | 870 | Devinlee Brown |
 | 30 | 846 | Christine Marie |
@@ -88,8 +88,8 @@
 | 80 | 405 | Shane Kalamata Platoon |
 | 81 | 404 | Courtney Cicoria |
 | 82 | 402 | Julian Garcia |
-| 83 | 396 | Alicia Bass |
-| 84 | 396 | Amy Suckarieh |
+| 83 | 396 | Amy Suckarieh |
+| 84 | 396 | Alicia Bass |
 | 85 | 392 | Ericca Eldridge |
 | 86 | 391 | Ramel Rhodes |
 | 87 | 390 | Carlton Unfiltered |
@@ -113,8 +113,8 @@
 | 105 | 303 | Lauren Scott |
 | 106 | 300 | Jason Hart |
 | 107 | 298 | Lucas J Sutton |
-| 108 | 296 | HastyGrabber |
-| 109 | 296 | Justin Hannigan |
+| 108 | 296 | Justin Hannigan |
+| 109 | 296 | HastyGrabber |
 | 110 | 295 | Latisha Davis |
 | 111 | 294 | Kesha Brady |
 | 112 | 290 | 🥔🥔 Spudz |
@@ -155,8 +155,8 @@
 | 147 | 223 | Antony Dwayne Beasley |
 | 148 | 222 | TheNeesh50 |
 | 149 | 222 | Joeliecea Cobb |
-| 150 | 221 | Rheanda Weaskus |
-| 151 | 221 | PurpleMoonMa |
+| 150 | 221 | PurpleMoonMa |
+| 151 | 221 | Rheanda Weaskus |
 | 152 | 220 | Matt Dell'Olio |
 | 153 | 218 | Casey Grabner |
 | 154 | 218 | Cursed Hag |

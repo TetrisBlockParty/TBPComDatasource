@@ -240,8 +240,8 @@
 | 232 | 256 | KayB |
 | 233 | 256 | Tiffany Davie |
 | 234 | 251 | Sabrina Hardrick |
-| 235 | 249 | Annie Marie |
-| 236 | 249 | JerseyJess |
+| 235 | 249 | JerseyJess |
+| 236 | 249 | Annie Marie |
 | 237 | 248 | Rochelle Hazelett |
 | 238 | 246 | Peppy Shifter |
 | 239 | 246 | Eon Harris |
@@ -327,8 +327,8 @@
 | 319 | 169 | Peachy Rollfit |
 | 320 | 169 | Kristian Thurman |
 | 321 | 168 | Trice Thomas |
-| 322 | 167 | Romeo |
-| 323 | 167 | Shicken Nuggit |
+| 322 | 167 | Shicken Nuggit |
+| 323 | 167 | Romeo |
 | 324 | 166 | Noettín Kan Zasnemoore |
 | 325 | 166 | April Matthew Kibble |
 | 326 | 165 | Ashley Lynn Marchese |
@@ -375,8 +375,8 @@
 | 367 | 147 | David Bardo |
 | 368 | 147 | Kiki |
 | 369 | 146 | Sdot |
-| 370 | 146 | ROODBOY |
-| 371 | 146 | Sara Dunn |
+| 370 | 146 | Sara Dunn |
+| 371 | 146 | ROODBOY |
 | 372 | 144 | Tenisha Semidey |
 | 373 | 142 | Gray Hicks |
 | 374 | 142 | Wettnippz |
@@ -494,8 +494,8 @@
 | 486 | 108 | Sierra Spencer |
 | 487 | 108 | Rachel Grant |
 | 488 | 108 | Jack Bo |
-| 489 | 107 | Alexsandran Valdivia |
-| 490 | 107 | Megan Stanley |
+| 489 | 107 | Megan Stanley |
+| 490 | 107 | Alexsandran Valdivia |
 | 491 | 107 | Tiffany Marler |
 | 492 | 107 | Spicy Caster |
 | 493 | 107 | Block Baddie |

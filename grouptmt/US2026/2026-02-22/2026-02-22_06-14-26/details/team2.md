@@ -445,8 +445,8 @@
 | 437 | 451 | Cody Nishimura |
 | 438 | 451 | Dylan Thomason |
 | 439 | 447 | Brandy Andre |
-| 440 | 447 | Heather Schelkopf |
-| 441 | 447 | June E Hanson |
+| 440 | 447 | June E Hanson |
+| 441 | 447 | Heather Schelkopf |
 | 442 | 445 | Mar Q Thomas |
 | 443 | 444 | Ryan Meilleur |
 | 444 | 443 | Jarboe |
