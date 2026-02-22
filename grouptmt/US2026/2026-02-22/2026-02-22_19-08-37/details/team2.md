@@ -174,8 +174,8 @@
 | 166 | 1203 | Suki Kaur |
 | 167 | 1201 | Murrae Lynn Rebarchek |
 | 168 | 1193 | David Cudicio-Hayden |
-| 169 | 1192 | Denisha Dawkins |
-| 170 | 1192 | Ashley House |
+| 169 | 1192 | Ashley House |
+| 170 | 1192 | Denisha Dawkins |
 | 171 | 1180 | Ambyre Patterson |
 | 172 | 1177 | Joyce Johnson Vaughn |
 | 173 | 1174 | Jennifer Casey-Kay |
@@ -413,8 +413,8 @@
 | 405 | 617 | Darcy Mae |
 | 406 | 617 | Nicole Cannon |
 | 407 | 615 | Julio A Laracuente |
-| 408 | 613 | Caitlyn Blackwell |
-| 409 | 613 | Tonya Lee |
+| 408 | 613 | Tonya Lee |
+| 409 | 613 | Caitlyn Blackwell |
 | 410 | 605 | Biggest thing |
 | 411 | 605 | g |
 | 412 | 602 | KhaosLord |
