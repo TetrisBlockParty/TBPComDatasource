@@ -63,8 +63,8 @@
 | 55 | 2344 | Melinda Brown |
 | 56 | 2333 | Crystalin Heath Lewis |
 | 57 | 2298 | Brent Bittenbender |
-| 58 | 2280 | Robert Diddle |
-| 59 | 2280 | Ramone Armstrong |
+| 58 | 2280 | Ramone Armstrong |
+| 59 | 2280 | Robert Diddle |
 | 60 | 2151 | Kelly Crook |
 | 61 | 2137 | KellyDyan |
 | 62 | 2131 | RdRydnHd |
@@ -204,8 +204,8 @@
 | 196 | 919 | Isaac Trappiel IV |
 | 197 | 916 | Butta |
 | 198 | 915 | Kelly Trent |
-| 199 | 910 | Crystal Hoffman |
-| 200 | 910 | Shuany Arias |
+| 199 | 910 | Shuany Arias |
+| 200 | 910 | Crystal Hoffman |
 | 201 | 907 | Gene Mills |
 | 202 | 901 | Jennifer Peachey |
 | 203 | 892 | Auntie B |
@@ -528,8 +528,8 @@
 | 520 | 413 | Lauren Fitzgerald Thomas |
 | 521 | 413 | Fancy Twister |
 | 522 | 413 | Biggest thing |
-| 523 | 411 | Kristen O'Neal |
-| 524 | 411 | Mighty Spinbuilder |
+| 523 | 411 | Mighty Spinbuilder |
+| 524 | 411 | Kristen O'Neal |
 | 525 | 410 | Tara Lynn Janes |
 | 526 | 410 | Nicole Cannon |
 | 527 | 408 | Brandon Jones |
@@ -562,9 +562,9 @@
 | 554 | 393 | bbv |
 | 555 | 393 | Deyawn Smith |
 | 556 | 391 | Libby Hicks |
-| 557 | 391 | Chilly Bridgepiece |
-| 558 | 391 | Anthony Huebel |
-| 559 | 391 | Adam Simmons |
+| 557 | 391 | Anthony Huebel |
+| 558 | 391 | Adam Simmons |
+| 559 | 391 | Chilly Bridgepiece |
 | 560 | 391 | Qiana Sanders |
 | 561 | 390 | Moist_B-hole |
 | 562 | 390 | Joice Hansen |
@@ -732,8 +732,8 @@
 | 724 | 307 | stacey |
 | 725 | 307 | Peachy Blockbuilder |
 | 726 | 306 | Kiorah Blaze |
-| 727 | 305 | MamaBear11 |
-| 728 | 305 | Zany Clusterbuilder |
+| 727 | 305 | Zany Clusterbuilder |
+| 728 | 305 | MamaBear11 |
 | 729 | 305 | Narutofreak13 |
 | 730 | 304 | James Smith |
 | 731 | 304 | Melissa McCall |
@@ -1519,8 +1519,8 @@
 | 1511 | 146 | Cathleena Giusto |
 | 1512 | 146 | Layla LS |
 | 1513 | 146 | Samuel Macon |
-| 1514 | 146 | Kimmae Kimbrough |
-| 1515 | 146 | Nutty Splitter |
+| 1514 | 146 | Nutty Splitter |
+| 1515 | 146 | Kimmae Kimbrough |
 | 1516 | 146 | Sherry Aguinaga |
 | 1517 | 146 | Afr Afr |
 | 1518 | 146 | Brandy Sutton |

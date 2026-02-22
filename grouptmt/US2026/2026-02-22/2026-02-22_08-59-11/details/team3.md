@@ -234,8 +234,8 @@
 | 226 | 275 | Cassandra Bryant |
 | 227 | 274 | Tye Stovall |
 | 228 | 272 | Dee Franklin |
-| 229 | 271 | Cass Mendoza |
-| 230 | 271 | Ashley Muncey |
+| 229 | 271 | Ashley Muncey |
+| 230 | 271 | Cass Mendoza |
 | 231 | 269 | Trisha Balmer |
 | 232 | 267 | Terry Jo Jones |
 | 233 | 265 | Sarah Moyer |
@@ -243,9 +243,9 @@
 | 235 | 263 | Brittany |
 | 236 | 263 | Angeline Joseph |
 | 237 | 262 | Joe-Maggie Mathews |
-| 238 | 261 | Tiffany Ford |
+| 238 | 261 | Tasha Wesson-Torrence |
 | 239 | 261 | Marquita Sheard |
-| 240 | 261 | Tasha Wesson-Torrence |
+| 240 | 261 | Tiffany Ford |
 | 241 | 260 | Grams |
 | 242 | 259 | Danielle Weikel |
 | 243 | 258 | Tamara Deherrera |
@@ -349,8 +349,8 @@
 | 341 | 168 | April Matthew Kibble |
 | 342 | 168 | Trice Thomas |
 | 343 | 167 | Shicken Nuggit |
-| 344 | 167 | Romeo |
-| 345 | 167 | Irene Arreguin |
+| 344 | 167 | Irene Arreguin |
+| 345 | 167 | Romeo |
 | 346 | 166 | Noettín Kan Zasnemoore |
 | 347 | 166 | Angella Lyons |
 | 348 | 166 | Snarky McFace |
@@ -409,8 +409,8 @@
 | 401 | 144 | Tenisha Semidey |
 | 402 | 142 | Gray Hicks |
 | 403 | 142 | Erica Anderson |
-| 404 | 142 | Joy Petroski |
-| 405 | 142 | Jl |
+| 404 | 142 | Jl |
+| 405 | 142 | Joy Petroski |
 | 406 | 141 | Melissa Snyder |
 | 407 | 141 | Weerae |
 | 408 | 140 | Jumpy Curvebuilder |
@@ -455,8 +455,8 @@
 | 447 | 126 | Crystal Martin |
 | 448 | 126 | Spicy Caster |
 | 449 | 126 | Tipsy Puzzle |
-| 450 | 125 | BugMansMom |
-| 451 | 125 | Felicia Doxey |
+| 450 | 125 | Felicia Doxey |
+| 451 | 125 | BugMansMom |
 | 452 | 125 | Shimika Enay Wallace |
 | 453 | 124 | victory |
 | 454 | 124 | xsiv |

@@ -93,9 +93,9 @@
 | 85 | 388 | cc |
 | 86 | 383 | Loony Fitzone |
 | 87 | 382 | Jacqueline Williams |
-| 88 | 379 | Kimmie Kimms |
+| 88 | 379 | Austin James |
 | 89 | 379 | Nerdy Linkblock |
-| 90 | 379 | Austin James |
+| 90 | 379 | Kimmie Kimms |
 | 91 | 376 | lil mickey |
 | 92 | 374 | Tinah Montanna |
 | 93 | 371 | Hyper |
@@ -144,8 +144,8 @@
 | 136 | 270 | Ash Galvan |
 | 137 | 268 | GATOR |
 | 138 | 265 | SkipTheSadSauce |
-| 139 | 264 | Lexuriuos Lifestlye |
-| 140 | 264 | Jenny Gingrich Fuentes |
+| 139 | 264 | Jenny Gingrich Fuentes |
+| 140 | 264 | Lexuriuos Lifestlye |
 | 141 | 263 | Sharon Reynolds |
 | 142 | 258 | Virginia Gray Floyd |
 | 143 | 258 | Nutty Spinblock |
@@ -164,8 +164,8 @@
 | 156 | 239 | Jamie Jury |
 | 157 | 236 | Mandyy Rae |
 | 158 | 232 | Jessi Sauer |
-| 159 | 230 | Frothy Pattern |
-| 160 | 230 | Billie Dawn Sparks |
+| 159 | 230 | Billie Dawn Sparks |
+| 160 | 230 | Frothy Pattern |
 | 161 | 229 | David Lutcher |
 | 162 | 226 | Sleepysloath5745 |
 | 163 | 226 | Kandae |
@@ -192,8 +192,8 @@
 | 184 | 205 | Tater |
 | 185 | 205 | Snappy Matcher |
 | 186 | 204 | Lacy Wolfe |
-| 187 | 203 | Paula Martin |
-| 188 | 203 | LaFontaine Leslie |
+| 187 | 203 | LaFontaine Leslie |
+| 188 | 203 | Paula Martin |
 | 189 | 201 | Colleen Wise |
 | 190 | 200 | DaRascal |
 | 191 | 200 | Breanna Luna |

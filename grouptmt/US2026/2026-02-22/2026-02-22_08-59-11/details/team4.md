@@ -56,8 +56,8 @@
 | 48 | 695 | LisaJo Picken Buchanan |
 | 49 | 667 | Anthony Bryan Riva |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Rebecca Moulton Pinciaro |
-| 52 | 659 | Jonathan Kimbrough |
+| 51 | 659 | Jonathan Kimbrough |
+| 52 | 659 | Rebecca Moulton Pinciaro |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
@@ -94,13 +94,13 @@
 | 86 | 418 | Chastity Mitchell |
 | 87 | 416 | YoMomma |
 | 88 | 412 | Jenna Ingersoll |
-| 89 | 409 | Isabella Blanco |
-| 90 | 409 | Jolly Dashfit |
+| 89 | 409 | Jolly Dashfit |
+| 90 | 409 | Isabella Blanco |
 | 91 | 407 | Leslie Thomas |
 | 92 | 404 | Courtney Cicoria |
 | 93 | 401 | Zippy Gridlock |
-| 94 | 396 | Amy Suckarieh |
-| 95 | 396 | Alicia Bass |
+| 94 | 396 | Alicia Bass |
+| 95 | 396 | Amy Suckarieh |
 | 96 | 392 | Ericca Eldridge |
 | 97 | 391 | Ramel Rhodes |
 | 98 | 390 | Carlton Unfiltered |
@@ -207,9 +207,9 @@
 | 199 | 185 | Lori |
 | 200 | 184 | Ak Jones |
 | 201 | 181 | Carter Jones |
-| 202 | 180 | Dihcheese444 |
+| 202 | 180 | Orchislactea |
 | 203 | 180 | Rafael Valentin |
-| 204 | 180 | Orchislactea |
+| 204 | 180 | Dihcheese444 |
 | 205 | 179 | blockstar |
 | 206 | 175 | TinyLegoRose |
 | 207 | 175 | Lorena Guerrero-Barron |
