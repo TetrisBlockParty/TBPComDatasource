@@ -69,8 +69,8 @@
 | 61 | 621 | Cherry Parker |
 | 62 | 621 | Ebony West-Cundiff |
 | 63 | 619 | Jennifer |
-| 64 | 618 | MissTaylor |
-| 65 | 618 | Brandon Green |
+| 64 | 618 | Brandon Green |
+| 65 | 618 | MissTaylor |
 | 66 | 613 | Amber Hughes |
 | 67 | 604 | Danielle Becker |
 | 68 | 591 | Suzieq |
@@ -131,16 +131,16 @@
 | 123 | 378 | Tasha Schriewer |
 | 124 | 378 | Makelini Mausia |
 | 125 | 374 | Loopy Clusterer |
-| 126 | 368 | Stephanie Woods |
-| 127 | 368 | Stephanie Blkpep Davidson |
+| 126 | 368 | Stephanie Blkpep Davidson |
+| 127 | 368 | Stephanie Woods |
 | 128 | 367 | mjl574 |
 | 129 | 366 | Adrian Marcel Pate |
 | 130 | 355 | Tessina Dewey-Mancino |
 | 131 | 355 | Sherry Ogden |
 | 132 | 352 | Logan Naccarato |
 | 133 | 348 | CeceGeGe |
-| 134 | 347 | Darlene McMillan |
-| 135 | 347 | Nicole Flippo |
+| 134 | 347 | Nicole Flippo |
+| 135 | 347 | Darlene McMillan |
 | 136 | 343 | Chasity |
 | 137 | 328 | Aaron Pitkin |
 | 138 | 328 | Dapper Snap |
@@ -197,8 +197,8 @@
 | 189 | 228 | Jennifer Lynn Fahrenholtz-Summers |
 | 190 | 227 | Krystal Gerstberger |
 | 191 | 226 | Grego Daniel |
-| 192 | 224 | Araceli Parra |
-| 193 | 224 | Nicole Myers |
+| 192 | 224 | Nicole Myers |
+| 193 | 224 | Araceli Parra |
 | 194 | 223 | Jeana Gilbert |
 | 195 | 220 | Jim Mathews |
 | 196 | 219 | Shunta Jacobs |
@@ -211,8 +211,8 @@
 | 203 | 211 | Khaleada McGill Banks |
 | 204 | 210 | Michael Lucado |
 | 205 | 209 | Twisty Brick LT |
-| 206 | 208 | Tasha Wesson-Torrence |
-| 207 | 208 | Trisha Balmer |
+| 206 | 208 | Trisha Balmer |
+| 207 | 208 | Tasha Wesson-Torrence |
 | 208 | 207 | Jessica |
 | 209 | 207 | Chris Bell |
 | 210 | 205 | Sarah Moyer |
@@ -377,7 +377,7 @@
 | 369 | 118 | Damian Reid |
 | 370 | 117 | Rayzer |
 | 371 | 117 | Dee Pratt |
-| 372 | 116 | Denise Marie |
+| 372 | 116 | Jason-Ashley Ludlow |
 | 373 | 116 | Elisha L Allman |
 | 374 | 116 | Denise Marie |
 | 375 | 115 | Brave Brickster |

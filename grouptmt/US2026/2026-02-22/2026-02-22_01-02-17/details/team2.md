@@ -435,8 +435,8 @@
 | 427 | 369 | Tara Lynn Janes |
 | 428 | 367 | Deyawn Smith |
 | 429 | 366 | Darcy Mae |
-| 430 | 366 | Courtney Burcham |
-| 431 | 366 | Smashanator |
+| 430 | 366 | Smashanator |
+| 431 | 366 | Courtney Burcham |
 | 432 | 365 | Christina Lewis-Vickers |
 | 433 | 365 | Audrey Jones |
 | 434 | 365 | Susan Arnburg |
@@ -477,17 +477,17 @@
 | 469 | 342 | Sydney Busse |
 | 470 | 342 | Ebony Deloach Bryant |
 | 471 | 342 | Angi Harrison |
-| 472 | 341 | Daniel Amos |
-| 473 | 341 | Andrew Willis |
+| 472 | 341 | Andrew Willis |
+| 473 | 341 | Daniel Amos |
 | 474 | 341 | Traci Johnson |
 | 475 | 339 | Cool Rollpiece |
-| 476 | 338 | Peppy Snapfall |
-| 477 | 338 | Shorty |
+| 476 | 338 | Shorty |
+| 477 | 338 | Peppy Snapfall |
 | 478 | 337 | Autumn Schaeffer |
 | 479 | 337 | Sassy Pattern |
 | 480 | 336 | Hong Tang |
-| 481 | 335 | Brooke Leigh Strube |
-| 482 | 335 | William Hunt |
+| 481 | 335 | William Hunt |
+| 482 | 335 | Brooke Leigh Strube |
 | 483 | 334 | Brittney Jean |
 | 484 | 333 | Tra Barnum |
 | 485 | 332 | Andrea Maher |

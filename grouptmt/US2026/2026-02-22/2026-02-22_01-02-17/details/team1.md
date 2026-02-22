@@ -109,8 +109,8 @@
 | 101 | 275 | Cynthia Bradley |
 | 102 | 273 | Happy Basegrid |
 | 103 | 271 | Bhelle Sumile |
-| 104 | 269 | Rachael |
-| 105 | 269 | Seante Bullock |
+| 104 | 269 | Seante Bullock |
+| 105 | 269 | Rachael |
 | 106 | 263 | Sharon Reynolds |
 | 107 | 262 | Dandy Basegrid |
 | 108 | 257 | june october |
@@ -158,8 +158,8 @@
 | 150 | 186 | Margo Wagner |
 | 151 | 185 | Basment Living |
 | 152 | 182 | Monica Donato |
-| 153 | 180 | BigWeenie69 |
-| 154 | 180 | Erez Yosef |
+| 153 | 180 | Erez Yosef |
+| 154 | 180 | BigWeenie69 |
 | 155 | 179 | Danielle Little-Daugherty |
 | 156 | 178 | Chad Atchley |
 | 157 | 177 | Irual Hctrab |
@@ -178,8 +178,8 @@
 | 170 | 167 | Erin Hodges Plumb |
 | 171 | 166 | Rico Rico |
 | 172 | 165 | Nadine Velardo |
-| 173 | 163 | Mel Hogan |
-| 174 | 163 | Tyler Whitley |
+| 173 | 163 | Tyler Whitley |
+| 174 | 163 | Mel Hogan |
 | 175 | 162 | Cece Ibarra |
 | 176 | 161 | SavageBooty98 |
 | 177 | 159 | David Miller |
@@ -202,9 +202,9 @@
 | 194 | 147 | DaRascal |
 | 195 | 146 | Brave Wrecker |
 | 196 | 145 | Agustin Duarte Orozco |
-| 197 | 144 | Gary Gobin |
-| 198 | 144 | Miguel Teixeira |
-| 199 | 144 | Cranky Pattern |
+| 197 | 144 | Miguel Teixeira |
+| 198 | 144 | Cranky Pattern |
+| 199 | 144 | Gary Gobin |
 | 200 | 142 | Colleen Wise |
 | 201 | 141 | Dino |
 | 202 | 141 | Blaire Bruckoff |

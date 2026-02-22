@@ -133,8 +133,8 @@
 | 125 | 210 | Swanky Fitline |
 | 126 | 208 | Chastity Mitchell |
 | 127 | 205 | Sarah Neathery |
-| 128 | 204 | Jen Caldwell |
-| 129 | 204 | Dana Scott |
+| 128 | 204 | Dana Scott |
+| 129 | 204 | Jen Caldwell |
 | 130 | 203 | Katherine Crane |
 | 131 | 202 | Monica Daley |
 | 132 | 201 | Melvin Baird |
@@ -181,7 +181,7 @@
 | 173 | 148 | Brittany Marsh |
 | 174 | 148 | Janita Parrish |
 | 175 | 148 | Mr. Party |
-| 176 | 147 | Tyler Terrific |
+| 176 | 147 | Jay28 |
 | 177 | 147 | B Renee Desjardin |
 | 178 | 147 | Tyler Terrific |
 | 179 | 145 | Zany Shatterer |
