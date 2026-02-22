@@ -33,8 +33,8 @@
 | 25 | 886 | Dustin Robert |
 | 26 | 880 | Koshin Abdirahman |
 | 27 | 879 | Heather Tushner |
-| 28 | 873 | Elizabeth Sallas |
-| 29 | 873 | Michelle Pearman |
+| 28 | 873 | Michelle Pearman |
+| 29 | 873 | Elizabeth Sallas |
 | 30 | 871 | Denny Shives |
 | 31 | 846 | Christine Marie |
 | 32 | 843 | Lucille Truesdale |
@@ -191,8 +191,8 @@
 | 183 | 192 | Shauna Havard |
 | 184 | 191 | Klo |
 | 185 | 190 | Cheery Risebuilder |
-| 186 | 189 | Calvin Dennis |
-| 187 | 189 | Stacey Stano |
+| 186 | 189 | Stacey Stano |
+| 187 | 189 | Calvin Dennis |
 | 188 | 188 | Andria Lynn |
 | 189 | 186 | Holly |
 | 190 | 185 | Lori |
@@ -208,8 +208,8 @@
 | 200 | 172 | Gilles Lanctot |
 | 201 | 171 | Autumn Kumzi |
 | 202 | 167 | Cozy Balancer |
-| 203 | 166 | Marvin Lou Martin |
-| 204 | 166 | SammieJo Guy |
+| 203 | 166 | SammieJo Guy |
+| 204 | 166 | Marvin Lou Martin |
 | 205 | 165 | James Hurley Jr. |
 | 206 | 165 | Jackie Marie |
 | 207 | 164 | 030Synner |
@@ -229,9 +229,9 @@
 | 221 | 157 | KayM |
 | 222 | 156 | John Brunetti |
 | 223 | 155 | AyeKay |
-| 224 | 153 | Zany Shatterer |
+| 224 | 153 | Mr. Party |
 | 225 | 153 | Empress Oasis |
-| 226 | 153 | Mr. Party |
+| 226 | 153 | Zany Shatterer |
 | 227 | 152 | Faja |
 | 228 | 152 | Austin Owens |
 | 229 | 149 | Tanner Lund |
@@ -241,8 +241,8 @@
 | 233 | 147 | Jared Gutwein |
 | 234 | 147 | Jay28 |
 | 235 | 147 | B Renee Desjardin |
-| 236 | 145 | Sandra Safford |
-| 237 | 145 | Mimi |
+| 236 | 145 | Mimi |
+| 237 | 145 | Sandra Safford |
 | 238 | 144 | Nubian1 |
 | 239 | 143 | Zesty Twistbuilder |
 | 240 | 143 | Lauren Lamb |

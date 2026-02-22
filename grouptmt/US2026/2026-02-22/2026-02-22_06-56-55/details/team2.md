@@ -205,8 +205,8 @@
 | 197 | 871 | Jamie Otero |
 | 198 | 867 | Michele Gabriel |
 | 199 | 865 | Dedra Steward |
-| 200 | 862 | Robin Kerby |
-| 201 | 862 | Brittany Radaszewski |
+| 200 | 862 | Brittany Radaszewski |
+| 201 | 862 | Robin Kerby |
 | 202 | 860 | April Dawn Gussler |
 | 203 | 859 | Auntie B |
 | 204 | 857 | Della Hole |
@@ -311,8 +311,8 @@
 | 303 | 640 | BYM4L |
 | 304 | 639 | Crystie Hicks |
 | 305 | 639 | Rebecca Miller |
-| 306 | 635 | William Hunt |
-| 307 | 635 | Diana Fitzwater |
+| 306 | 635 | Diana Fitzwater |
+| 307 | 635 | William Hunt |
 | 308 | 631 | Marie Walker |
 | 309 | 629 | Sleepypanda67 |
 | 310 | 627 | Victoria Moore-Smith |
@@ -447,8 +447,8 @@
 | 439 | 459 | Melissa Kay Gibson |
 | 440 | 458 | Casper The Chonk |
 | 441 | 454 | Casey Schumacher |
-| 442 | 453 | Joshua Sommerville |
-| 443 | 453 | Rhonda Petro |
+| 442 | 453 | Rhonda Petro |
+| 443 | 453 | Joshua Sommerville |
 | 444 | 451 | Funky Caster |
 | 445 | 451 | Cody Nishimura |
 | 446 | 451 | Dylan Thomason |

@@ -96,9 +96,9 @@
 | 88 | 595 | Patricia White |
 | 89 | 591 | Jesse Olive |
 | 90 | 588 | yoyo |
-| 91 | 582 | Jay Horn |
-| 92 | 582 | Natasha Jones |
-| 93 | 582 | Speedy Bridger |
+| 91 | 582 | Natasha Jones |
+| 92 | 582 | Speedy Bridger |
+| 93 | 582 | Jay Horn |
 | 94 | 581 | Danielle Mogg |
 | 95 | 579 | Jd Morris |
 | 96 | 566 | Dolores Falco |
@@ -233,9 +233,9 @@
 | 225 | 263 | Angeline Joseph |
 | 226 | 263 | Brittany |
 | 227 | 262 | Joe-Maggie Mathews |
-| 228 | 261 | Marquita Sheard |
-| 229 | 261 | Tasha Wesson-Torrence |
-| 230 | 261 | Tiffany Ford |
+| 228 | 261 | Tiffany Ford |
+| 229 | 261 | Marquita Sheard |
+| 230 | 261 | Tasha Wesson-Torrence |
 | 231 | 260 | Grams |
 | 232 | 259 | Danielle Weikel |
 | 233 | 258 | Tamara Deherrera |
@@ -266,8 +266,8 @@
 | 258 | 223 | Connie Mohler-Fair |
 | 259 | 222 | Charles Perrone |
 | 260 | 221 | Vaners |
-| 261 | 221 | Jaime Monhaut-Reed |
-| 262 | 221 | Alice |
+| 261 | 221 | Alice |
+| 262 | 221 | Jaime Monhaut-Reed |
 | 263 | 219 | Cozy Snaplink |
 | 264 | 219 | Sissy Lowery Davis |
 | 265 | 218 | Michael Lucado |
@@ -372,17 +372,17 @@
 | 364 | 151 | Sarah Cowan Burgos |
 | 365 | 149 | Alexis Taylor |
 | 366 | 148 | Pam Holt Powell |
-| 367 | 148 | Bryan Byrd |
-| 368 | 148 | Erykah |
-| 369 | 148 | Flashy Rumbler |
-| 370 | 147 | Kiki |
+| 367 | 148 | Erykah |
+| 368 | 148 | Flashy Rumbler |
+| 369 | 148 | Bryan Byrd |
+| 370 | 147 | David Bardo |
 | 371 | 147 | Funky Jumper |
-| 372 | 147 | David Bardo |
+| 372 | 147 | Kiki |
 | 373 | 147 | sofaking |
-| 374 | 146 | ROODBOY |
-| 375 | 146 | Sara Dunn |
-| 376 | 146 | Sdot |
-| 377 | 146 | Wettnippz |
+| 374 | 146 | Sara Dunn |
+| 375 | 146 | ROODBOY |
+| 376 | 146 | Wettnippz |
+| 377 | 146 | Sdot |
 | 378 | 144 | Tenisha Semidey |
 | 379 | 144 | Blair Erin Waite |
 | 380 | 142 | Gray Hicks |
@@ -458,16 +458,16 @@
 | 450 | 118 | Fancy Curver |
 | 451 | 118 | Damian Reid |
 | 452 | 117 | James Lykes |
-| 453 | 117 | Rayzer |
-| 454 | 117 | Dee Pratt |
+| 453 | 117 | Dee Pratt |
+| 454 | 117 | Rayzer |
 | 455 | 117 | Anabela Ruiz |
 | 456 | 116 | TazB |
-| 457 | 116 | Niki Dalrymple |
-| 458 | 116 | Shelby Crawford |
-| 459 | 116 | Dapper Towerfit |
-| 460 | 116 | Elisha L Allman |
+| 457 | 116 | Shelby Crawford |
+| 458 | 116 | Niki Dalrymple |
+| 459 | 116 | Elisha L Allman |
+| 460 | 116 | Dapper Towerfit |
 | 461 | 115 | Sameerah Smith |
-| 462 | 115 | FATTY |
+| 462 | 115 | Carrie Resler |
 | 463 | 115 | Whitney Manuel |
 | 464 | 115 | FATTY |
 | 465 | 115 | Brave Brickster |
@@ -521,8 +521,8 @@
 | 513 | 106 | SaSa Mac |
 | 514 | 106 | Cyd061769 |
 | 515 | 105 | Emi |
-| 516 | 105 | Amy Wheeler |
-| 517 | 105 | Zac Hudak |
+| 516 | 105 | Zac Hudak |
+| 517 | 105 | Amy Wheeler |
 | 518 | 104 | Jessica Rose-Morgan |
 | 519 | 104 | bean |
 | 520 | 104 | Jana Fagg |

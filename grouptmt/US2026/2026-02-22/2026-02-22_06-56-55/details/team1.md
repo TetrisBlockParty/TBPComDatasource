@@ -127,8 +127,8 @@
 | 119 | 286 | Ly Phethmany |
 | 120 | 286 | Arianna O'Brien |
 | 121 | 285 | Ananda Mendez |
-| 122 | 284 | Emily Adelaide Wheatley |
-| 123 | 284 | Rachael |
+| 122 | 284 | Rachael |
+| 123 | 284 | Emily Adelaide Wheatley |
 | 124 | 283 | Franswa |
 | 125 | 282 | Cool Shiftsnap |
 | 126 | 282 | Timothy Dew |
@@ -153,8 +153,8 @@
 | 145 | 239 | Jamie Jury |
 | 146 | 236 | Mandyy Rae |
 | 147 | 232 | Jessi Sauer |
-| 148 | 230 | Frothy Pattern |
-| 149 | 230 | Billie Dawn Sparks |
+| 148 | 230 | Billie Dawn Sparks |
+| 149 | 230 | Frothy Pattern |
 | 150 | 229 | David Lutcher |
 | 151 | 226 | Sleepysloath5745 |
 | 152 | 226 | Kandae |
@@ -225,8 +225,8 @@
 | 217 | 169 | Abbey Crespo |
 | 218 | 169 | Nutty Spinblock |
 | 219 | 168 | Amber Stoker |
-| 220 | 167 | Nery Martinez |
-| 221 | 167 | Bindi |
+| 220 | 167 | Bindi |
+| 221 | 167 | Nery Martinez |
 | 222 | 167 | Cranky Pattern |
 | 223 | 165 | Silly Align |
 | 224 | 165 | Nadine Velardo |
