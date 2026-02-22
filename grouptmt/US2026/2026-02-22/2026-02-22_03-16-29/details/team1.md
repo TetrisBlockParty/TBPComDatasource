@@ -72,8 +72,8 @@
 | 64 | 412 | Jazzy Framezone |
 | 65 | 412 | Anaid Sanchez |
 | 66 | 391 | Robert Benito |
-| 67 | 388 | Yvonne Marie |
-| 68 | 388 | Jennifer ManWarren |
+| 67 | 388 | Jennifer ManWarren |
+| 68 | 388 | Yvonne Marie |
 | 69 | 386 | Candy Jones |
 | 70 | 382 | Lori Sanders- Davis |
 | 71 | 379 | Austin James |
@@ -133,8 +133,8 @@
 | 125 | 240 | Tana |
 | 126 | 236 | Mandyy Rae |
 | 127 | 232 | Jessi Sauer |
-| 128 | 230 | Billie Dawn Sparks |
-| 129 | 230 | Frothy Pattern |
+| 128 | 230 | Frothy Pattern |
+| 129 | 230 | Billie Dawn Sparks |
 | 130 | 229 | Jennifer Hardman |
 | 131 | 228 | Jenny Gingrich Fuentes |
 | 132 | 226 | ALFD |
@@ -142,8 +142,8 @@
 | 134 | 216 | Shauntina Burke |
 | 135 | 216 | MRdot Rooski |
 | 136 | 214 | GATOR |
-| 137 | 212 | Jaimie Lynn |
-| 138 | 212 | Lori Bales |
+| 137 | 212 | Lori Bales |
+| 138 | 212 | Jaimie Lynn |
 | 139 | 211 | Marianita Garcia |
 | 140 | 209 | Snappy Swiper |
 | 141 | 208 | Giggly Builderline |

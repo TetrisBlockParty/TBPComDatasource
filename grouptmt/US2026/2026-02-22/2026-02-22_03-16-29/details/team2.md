@@ -190,8 +190,8 @@
 | 182 | 828 | Cindy Sechler Taninecz |
 | 183 | 822 | YiFei |
 | 184 | 820 | Chirpy Staggerpiece |
-| 185 | 815 | Rebecca Doughman |
-| 186 | 815 | Moni Foxe |
+| 185 | 815 | Moni Foxe |
+| 186 | 815 | Rebecca Doughman |
 | 187 | 811 | James Simms III |
 | 188 | 810 | Dolores Russworn |
 | 189 | 808 | John Bednarik |
@@ -313,8 +313,8 @@
 | 305 | 526 | Sheronda Jackson |
 | 306 | 525 | Desiree Anderson |
 | 307 | 521 | Tj Ball |
-| 308 | 520 | Maddy Petersen |
-| 309 | 520 | Angela Lynn |
+| 308 | 520 | Angela Lynn |
+| 309 | 520 | Maddy Petersen |
 | 310 | 520 | Cheech Dta |
 | 311 | 519 | AISlop |
 | 312 | 519 | Em Chen |
@@ -372,8 +372,8 @@
 | 364 | 467 | Sam Joe |
 | 365 | 465 | Blacc Blac |
 | 366 | 463 | Sue Leard |
-| 367 | 462 | Daphne Jordan |
-| 368 | 462 | Amanda Ferrell |
+| 367 | 462 | Amanda Ferrell |
+| 368 | 462 | Daphne Jordan |
 | 369 | 461 | Angie Bolton Workman |
 | 370 | 460 | Cody Smith-Candelaria |
 | 371 | 459 | Cassie Mercer |
@@ -413,11 +413,11 @@
 | 405 | 428 | Rhonda Milstead |
 | 406 | 427 | Destiny Cozier |
 | 407 | 427 | Kori Beth Babb |
-| 408 | 425 | Shyenn Gadsby |
-| 409 | 425 | Skyler Morgan |
+| 408 | 425 | Skyler Morgan |
+| 409 | 425 | Shyenn Gadsby |
 | 410 | 424 | Lina Sanders |
-| 411 | 423 | Sam |
-| 412 | 423 | Shaun Church |
+| 411 | 423 | Shaun Church |
+| 412 | 423 | Sam |
 | 413 | 421 | Vanessa Moreno |
 | 414 | 421 | Vonceial Boone |
 | 415 | 414 | Kara Gillen |

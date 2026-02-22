@@ -126,8 +126,8 @@
 | 118 | 240 | Leah Kutz Zirbel |
 | 119 | 239 | Kristin Manee |
 | 120 | 237 | Peachy Fall |
-| 121 | 235 | Scott Jameson |
-| 122 | 235 | Lucas J Sutton |
+| 121 | 235 | Lucas J Sutton |
+| 122 | 235 | Scott Jameson |
 | 123 | 232 | Crystal Nicolette Moore |
 | 124 | 231 | Chastity Mitchell |
 | 125 | 230 | Autum Leigh |
