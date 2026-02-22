@@ -53,8 +53,8 @@
 | 45 | 671 | Lawrence Belanger |
 | 46 | 663 | Drew Magnus |
 | 47 | 646 | Susanna Guerry |
-| 48 | 635 | Marianne Louise West |
-| 49 | 635 | Angel Fowler |
+| 48 | 635 | Angel Fowler |
+| 49 | 635 | Marianne Louise West |
 | 50 | 631 | comrade fish |
 | 51 | 621 | Katie Daniels |
 | 52 | 614 | Snappy Swiper |
@@ -110,8 +110,8 @@
 | 102 | 342 | Brenda Stewart |
 | 103 | 341 | Nick R Montague |
 | 104 | 333 | Brandi Huntington |
-| 105 | 332 | Luciano Moreira |
-| 106 | 332 | Kristen Gideon |
+| 105 | 332 | Kristen Gideon |
+| 106 | 332 | Luciano Moreira |
 | 107 | 330 | Sweet Baker |
 | 108 | 329 | Shauna Loe |
 | 109 | 328 | Gracie |
@@ -132,8 +132,8 @@
 | 124 | 290 | Death |
 | 125 | 286 | Arianna O'Brien |
 | 126 | 285 | Ananda Mendez |
-| 127 | 284 | Rachael |
-| 128 | 284 | Emily Adelaide Wheatley |
+| 127 | 284 | Emily Adelaide Wheatley |
+| 128 | 284 | Rachael |
 | 129 | 283 | Franswa |
 | 130 | 282 | Snippy Wipebuilder |
 | 131 | 282 | Cool Shiftsnap |
@@ -168,18 +168,18 @@
 | 160 | 230 | Billie Dawn Sparks |
 | 161 | 230 | Frothy Pattern |
 | 162 | 229 | David Lutcher |
-| 163 | 226 | Kandae |
-| 164 | 226 | Sleepysloath5745 |
+| 163 | 226 | Sleepysloath5745 |
+| 164 | 226 | Kandae |
 | 165 | 224 | Dizzy Party |
 | 166 | 218 | LC |
 | 167 | 217 | ParisandCory Champagne |
-| 168 | 216 | MRdot Rooski |
-| 169 | 216 | Shauntina Burke |
+| 168 | 216 | Shauntina Burke |
+| 169 | 216 | MRdot Rooski |
 | 170 | 215 | Sam Williams |
 | 171 | 213 | Daring Fitclear |
 | 172 | 212 | Jaimie Lynn |
-| 173 | 211 | Marianita Garcia |
-| 174 | 211 | Kimberly Garcia |
+| 173 | 211 | Kimberly Garcia |
+| 174 | 211 | Marianita Garcia |
 | 175 | 210 | Giggly Builderline |
 | 176 | 210 | Letson Melissa |
 | 177 | 209 | Debbie Davis |
@@ -234,10 +234,10 @@
 | 226 | 176 | Mel Hogan |
 | 227 | 175 | John Barron |
 | 228 | 174 | Cheeky Pop |
-| 229 | 173 | Gabrielle Louise Malloch |
-| 230 | 173 | Rico Rico |
-| 231 | 171 | David DeSantis |
-| 232 | 171 | Greg Premoe |
+| 229 | 173 | Rico Rico |
+| 230 | 173 | Gabrielle Louise Malloch |
+| 231 | 171 | Greg Premoe |
+| 232 | 171 | David DeSantis |
 | 233 | 170 | Cece Ibarra |
 | 234 | 170 | Standia Civil |
 | 235 | 169 | Abbey Crespo |
@@ -310,8 +310,8 @@
 | 302 | 127 | Danielle Mae |
 | 303 | 127 | Lynn Adams |
 | 304 | 126 | Zany Tiler |
-| 305 | 125 | Angela Spann |
-| 306 | 125 | Melissa Bires Hussar |
+| 305 | 125 | Melissa Bires Hussar |
+| 306 | 125 | Angela Spann |
 | 307 | 125 | Matt Iaccheo |
 | 308 | 124 | Chris K |
 | 309 | 124 | Madison Wicks |
@@ -322,8 +322,8 @@
 | 314 | 123 | Tonya Beasley |
 | 315 | 122 | Tyler Hertzog |
 | 316 | 122 | Nate Funk |
-| 317 | 121 | John Ramirez |
-| 318 | 121 | Pauline Cortez |
+| 317 | 121 | Pauline Cortez |
+| 318 | 121 | John Ramirez |
 | 319 | 121 | Jacob Shaddock |
 | 320 | 120 | Jennifer Chilton-Metlock |
 | 321 | 120 | Shiny Rotate |

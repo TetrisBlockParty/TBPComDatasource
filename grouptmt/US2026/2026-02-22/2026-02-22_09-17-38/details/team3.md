@@ -52,8 +52,8 @@
 | 44 | 1006 | Dan Rob |
 | 45 | 998 | Liv Whetson |
 | 46 | 996 | Stephanie Rice |
-| 47 | 989 | Kay |
-| 48 | 989 | Joey Banks |
+| 47 | 989 | Joey Banks |
+| 48 | 989 | Kay |
 | 49 | 983 | Brandon Green |
 | 50 | 956 | Gracie |
 | 51 | 953 | mjl574 |
@@ -100,8 +100,8 @@
 | 92 | 594 | Queen Kam |
 | 93 | 591 | Jesse Olive |
 | 94 | 588 | yoyo |
-| 95 | 582 | Natasha Jones |
-| 96 | 582 | Jay Horn |
+| 95 | 582 | Jay Horn |
+| 96 | 582 | Natasha Jones |
 | 97 | 581 | Danielle Mogg |
 | 98 | 579 | Jd Morris |
 | 99 | 566 | Dolores Falco |
@@ -172,8 +172,8 @@
 | 164 | 376 | Loopy Clusterer |
 | 165 | 374 | Sherry Ogden |
 | 166 | 371 | Michael Nowogorski |
-| 167 | 370 | Danielle Allison |
-| 168 | 370 | Logan Naccarato |
+| 167 | 370 | Logan Naccarato |
+| 168 | 370 | Danielle Allison |
 | 169 | 370 | Santeria Trece Candles |
 | 170 | 368 | Stephanie Woods |
 | 171 | 366 | Adrian Marcel Pate |
@@ -215,8 +215,8 @@
 | 207 | 301 | Chelsea Hall |
 | 208 | 300 | Sherika C. McDaniels |
 | 209 | 298 | MsBee |
-| 210 | 296 | Katrina Turner |
-| 211 | 296 | Ammmmmmy |
+| 210 | 296 | Ammmmmmy |
+| 211 | 296 | Katrina Turner |
 | 212 | 296 | Brandon Givens |
 | 213 | 295 | Marci Mize Fandrich |
 | 214 | 291 | Kristal C Lee |
@@ -236,8 +236,8 @@
 | 228 | 275 | Cassandra Bryant |
 | 229 | 274 | Tye Stovall |
 | 230 | 272 | Dee Franklin |
-| 231 | 271 | Ashley Muncey |
-| 232 | 271 | Cass Mendoza |
+| 231 | 271 | Cass Mendoza |
+| 232 | 271 | Ashley Muncey |
 | 233 | 269 | Trisha Balmer |
 | 234 | 267 | Terry Jo Jones |
 | 235 | 265 | Sarah Moyer |
@@ -267,8 +267,8 @@
 | 259 | 240 | Jimmie Clemons |
 | 260 | 238 | LaTanya GeminiondaRise Johnson |
 | 261 | 236 | Jess Bissett |
-| 262 | 234 | Nikki Pags |
-| 263 | 234 | Connie Mohler-Fair |
+| 262 | 234 | Connie Mohler-Fair |
+| 263 | 234 | Nikki Pags |
 | 264 | 233 | Josh Borquez |
 | 265 | 233 | Ray Lader |
 | 266 | 232 | Brenda Schmid Wood |
@@ -285,8 +285,8 @@
 | 277 | 220 | rosy |
 | 278 | 219 | Sissy Lowery Davis |
 | 279 | 218 | Michael Lucado |
-| 280 | 216 | Twisty Brick LT |
-| 281 | 216 | Cheryl Hinch Tenbrook |
+| 280 | 216 | Cheryl Hinch Tenbrook |
+| 281 | 216 | Twisty Brick LT |
 | 282 | 215 | IamJust Neyamijah Washington Sr. |
 | 283 | 214 | Rebel124 |
 | 284 | 214 | Amy Fuller Heaton |
@@ -346,8 +346,8 @@
 | 338 | 173 | Naur |
 | 339 | 169 | Peachy Rollfit |
 | 340 | 169 | Kristian Thurman |
-| 341 | 168 | April Matthew Kibble |
-| 342 | 168 | Trice Thomas |
+| 341 | 168 | Trice Thomas |
+| 342 | 168 | April Matthew Kibble |
 | 343 | 167 | Shicken Nuggit |
 | 344 | 167 | Irene Arreguin |
 | 345 | 167 | Romeo |
@@ -368,8 +368,8 @@
 | 360 | 162 | Stephanie Whitefield |
 | 361 | 162 | Kristin Delibac Corrigan |
 | 362 | 161 | Michael Johnson |
-| 363 | 161 | Bouncy Blockbuilder |
-| 364 | 161 | Julia Nicole |
+| 363 | 161 | Julia Nicole |
+| 364 | 161 | Bouncy Blockbuilder |
 | 365 | 160 | Sunny Lift |
 | 366 | 159 | Joshua David Huie |
 | 367 | 159 | Salena Whitlock |
@@ -385,8 +385,8 @@
 | 377 | 153 | Lys |
 | 378 | 153 | Tony Waters |
 | 379 | 152 | Goofy Fall |
-| 380 | 152 | Eric Caccavale |
-| 381 | 152 | Shiny Zonebuilder |
+| 380 | 152 | Shiny Zonebuilder |
+| 381 | 152 | Eric Caccavale |
 | 382 | 151 | Sarah Cowan Burgos |
 | 383 | 150 | Sassy Brickmatch |
 | 384 | 149 | Wacky Crasher |

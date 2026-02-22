@@ -171,8 +171,8 @@
 | 163 | 1048 | PsychKIRAtrist |
 | 164 | 1047 | Amy Sayers |
 | 165 | 1045 | Lourisha |
-| 166 | 1043 | Suki Kaur |
-| 167 | 1043 | Brave Dropmatch |
+| 166 | 1043 | Brave Dropmatch |
+| 167 | 1043 | Suki Kaur |
 | 168 | 1035 | Sarah Freitas |
 | 169 | 1023 | William Meussner |
 | 170 | 1023 | Brainy Smurf |
@@ -248,9 +248,9 @@
 | 240 | 777 | Barbra Miller |
 | 241 | 777 | Tesha Oldaker |
 | 242 | 777 | Eric Carlson |
-| 243 | 772 | William Hunt |
+| 243 | 772 | Stephen Stephen |
 | 244 | 772 | Sam Joe |
-| 245 | 772 | Stephen Stephen |
+| 245 | 772 | William Hunt |
 | 246 | 771 | Terri McKelvey McKinley |
 | 247 | 769 | Adira Brown |
 | 248 | 767 | Jessica Wayne Cornwall |
@@ -308,8 +308,8 @@
 | 300 | 670 | Kassandra Hunt |
 | 301 | 669 | Charvi' Carter |
 | 302 | 666 | Speedy Spinblock |
-| 303 | 663 | Mandi Douglas Hilt |
-| 304 | 663 | Ashle Scranton |
+| 303 | 663 | Ashle Scranton |
+| 304 | 663 | Mandi Douglas Hilt |
 | 305 | 661 | Ginger |
 | 306 | 661 | Hyper Cluster |
 | 307 | 659 | Roseanna Peloso |
@@ -354,8 +354,8 @@
 | 346 | 584 | Ginnell Browner |
 | 347 | 582 | Gary Stash |
 | 348 | 581 | Jerry Tempelmeyer |
-| 349 | 579 | Jackie Avila |
-| 350 | 579 | AgileDragon |
+| 349 | 579 | AgileDragon |
+| 350 | 579 | Jackie Avila |
 | 351 | 579 | Roy Salyer |
 | 352 | 579 | Juliana Marques Do Nascimento Gordy |
 | 353 | 576 | Leslie Johnson Guinto |
@@ -365,8 +365,8 @@
 | 357 | 561 | Traci Johnson |
 | 358 | 557 | Block Master |
 | 359 | 556 | Slip |
-| 360 | 554 | Santana Miyagi |
-| 361 | 554 | Rachael Senard |
+| 360 | 554 | Rachael Senard |
+| 361 | 554 | Santana Miyagi |
 | 362 | 550 | Nashu |
 | 363 | 549 | Darcy Mae |
 | 364 | 549 | Jojo Momma |
@@ -434,9 +434,9 @@
 | 426 | 487 | MrsCandyfine As Wine Truss |
 | 427 | 486 | Caitlin Schmid |
 | 428 | 485 | Mamachelle Eisweirth |
-| 429 | 485 | Ann Matzkanin |
+| 429 | 485 | Michelle Fields |
 | 430 | 485 | Dapper Dasher |
-| 431 | 485 | Michelle Fields |
+| 431 | 485 | Ann Matzkanin |
 | 432 | 484 | Brenna Ann |
 | 433 | 483 | Victor Obiakarije |
 | 434 | 483 | Alezandra Smith |
@@ -724,8 +724,8 @@
 | 716 | 311 | Megan Phillips |
 | 717 | 310 | Wendy Ducheney |
 | 718 | 310 | Cheeky Brickmatch |
-| 719 | 310 | Audra Williams |
-| 720 | 310 | Beth Decker |
+| 719 | 310 | Beth Decker |
+| 720 | 310 | Audra Williams |
 | 721 | 309 | Byung Bae Park |
 | 722 | 308 | Prado |
 | 723 | 308 | Hyper Riseclear |
@@ -742,8 +742,8 @@
 | 734 | 304 | James Smith |
 | 735 | 304 | Melissa McCall |
 | 736 | 303 | Angie Marie |
-| 737 | 303 | Devin |
-| 738 | 303 | Amanda Schaffer |
+| 737 | 303 | Amanda Schaffer |
+| 738 | 303 | Devin |
 | 739 | 302 | Kena T. Tanner |
 | 740 | 302 | Maxwell Escalera |
 | 741 | 300 | Alice Ball |
@@ -751,8 +751,8 @@
 | 743 | 300 | Katie Joy McCombs |
 | 744 | 299 | Cassie Newton |
 | 745 | 298 | Frilly Fallzone |
-| 746 | 298 | Ryan Stadel |
-| 747 | 298 | Lazy Riseclear |
+| 746 | 298 | Lazy Riseclear |
+| 747 | 298 | Ryan Stadel |
 | 748 | 297 | Toni Lynn |
 | 749 | 297 | Frisky Patternline |
 | 750 | 297 | Ashley Robbins |
@@ -781,8 +781,8 @@
 | 773 | 287 | Toni Roberson |
 | 774 | 286 | Kelsey Sullivan |
 | 775 | 285 | Kimberly Mitchell |
-| 776 | 285 | Epic Stackbuilder |
-| 777 | 285 | Court |
+| 776 | 285 | Court |
+| 777 | 285 | Epic Stackbuilder |
 | 778 | 284 | Hillary Franklin |
 | 779 | 282 | Nutty Slice |
 | 780 | 282 | Maria Hammett |
@@ -817,8 +817,8 @@
 | 809 | 274 | KT Macadocious |
 | 810 | 274 | Jamie Stevey |
 | 811 | 274 | Robin L. Vial |
-| 812 | 274 | Matthew Joseph Acevedo |
-| 813 | 274 | Amanda Michelle Pigeon |
+| 812 | 274 | Amanda Michelle Pigeon |
+| 813 | 274 | Matthew Joseph Acevedo |
 | 814 | 273 | Jennifer Aiken |
 | 815 | 273 | Swanky Snap |
 | 816 | 273 | Britt Stunkel |
