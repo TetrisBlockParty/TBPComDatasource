@@ -118,8 +118,8 @@
 | 110 | 328 | Gracie |
 | 111 | 326 | Monica Donato |
 | 112 | 321 | Maria C. Hernandez |
-| 113 | 319 | Deanna L Hermanson |
-| 114 | 319 | Patrick Luckenbill |
+| 113 | 319 | Patrick Luckenbill |
+| 114 | 319 | Deanna L Hermanson |
 | 115 | 318 | Jessica Sheehan |
 | 116 | 316 | Ly Phethmany |
 | 117 | 313 | Tanya Carpenter-Reynolds |
@@ -132,8 +132,8 @@
 | 124 | 294 | Chelsea Dahlquist |
 | 125 | 290 | Death |
 | 126 | 285 | Ananda Mendez |
-| 127 | 284 | Emily Adelaide Wheatley |
-| 128 | 284 | Rachael |
+| 127 | 284 | Rachael |
+| 128 | 284 | Emily Adelaide Wheatley |
 | 129 | 283 | Franswa |
 | 130 | 282 | Snippy Wipebuilder |
 | 131 | 282 | Cool Shiftsnap |
@@ -173,15 +173,15 @@
 | 165 | 224 | Dizzy Party |
 | 166 | 218 | LC |
 | 167 | 217 | ParisandCory Champagne |
-| 168 | 216 | Shauntina Burke |
-| 169 | 216 | MRdot Rooski |
+| 168 | 216 | MRdot Rooski |
+| 169 | 216 | Shauntina Burke |
 | 170 | 215 | Sam Williams |
 | 171 | 213 | Daring Fitclear |
 | 172 | 212 | Jaimie Lynn |
 | 173 | 211 | Marianita Garcia |
 | 174 | 211 | Kimberly Garcia |
-| 175 | 210 | Letson Melissa |
-| 176 | 210 | Giggly Builderline |
+| 175 | 210 | Giggly Builderline |
+| 176 | 210 | Letson Melissa |
 | 177 | 209 | Debbie Davis |
 | 178 | 208 | Donna Addison Williams |
 | 179 | 208 | Bouncy Grid |
@@ -189,8 +189,8 @@
 | 181 | 207 | Leslie Bush Yarbrough |
 | 182 | 207 | Ty Brown |
 | 183 | 206 | BadG52 |
-| 184 | 205 | Tater |
-| 185 | 205 | Snappy Matcher |
+| 184 | 205 | Snappy Matcher |
+| 185 | 205 | Tater |
 | 186 | 204 | Lacy Wolfe |
 | 187 | 203 | LaFontaine Leslie |
 | 188 | 203 | Paula Martin |
@@ -279,10 +279,10 @@
 | 271 | 144 | Toph |
 | 272 | 144 | Miguel Teixeira |
 | 273 | 143 | Herm Junior |
-| 274 | 143 | Chantelle Ceno |
-| 275 | 143 | Guest |
-| 276 | 142 | Jerry Danowski |
-| 277 | 142 | Uhog SF |
+| 274 | 143 | Guest |
+| 275 | 143 | Chantelle Ceno |
+| 276 | 142 | Uhog SF |
+| 277 | 142 | Jerry Danowski |
 | 278 | 141 | Kayla Marie Stevenson |
 | 279 | 139 | Aimee Horton |
 | 280 | 139 | Flashy Rotator |

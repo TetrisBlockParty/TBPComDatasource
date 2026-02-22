@@ -206,8 +206,8 @@
 | 198 | 919 | Isaac Trappiel IV |
 | 199 | 916 | Butta |
 | 200 | 915 | Kelly Trent |
-| 201 | 910 | Crystal Hoffman |
-| 202 | 910 | Shuany Arias |
+| 201 | 910 | Shuany Arias |
+| 202 | 910 | Crystal Hoffman |
 | 203 | 907 | Gene Mills |
 | 204 | 901 | Jennifer Peachey |
 | 205 | 894 | Auntie B |
@@ -285,8 +285,8 @@
 | 277 | 701 | Hyper Cluster |
 | 278 | 700 | Hong Tang |
 | 279 | 700 | Vincent Petrella |
-| 280 | 700 | Rosemadder |
-| 281 | 700 | Beverly Owens |
+| 280 | 700 | Beverly Owens |
+| 281 | 700 | Rosemadder |
 | 282 | 698 | Mighty Shatterfit |
 | 283 | 697 | Dreamy Blast |
 | 284 | 695 | Lakeysha Dortch |
@@ -526,14 +526,14 @@
 | 518 | 420 | LaWanda Powell |
 | 519 | 419 | Pocho Zavala |
 | 520 | 419 | Josh Dill |
-| 521 | 418 | Kristi Biddinger |
-| 522 | 418 | Véronique Lévesque Sabourin |
+| 521 | 418 | Véronique Lévesque Sabourin |
+| 522 | 418 | Kristi Biddinger |
 | 523 | 417 | Alexx Anaya |
 | 524 | 416 | Ricky Fortune |
 | 525 | 414 | John |
 | 526 | 414 | Sabrina Burton |
-| 527 | 413 | Biggest thing |
-| 528 | 413 | Lauren Fitzgerald Thomas |
+| 527 | 413 | Lauren Fitzgerald Thomas |
+| 528 | 413 | Biggest thing |
 | 529 | 413 | Fancy Twister |
 | 530 | 413 | Juanita Lyons |
 | 531 | 411 | Mighty Spinbuilder |
@@ -567,8 +567,8 @@
 | 559 | 393 | Alexandra Weir |
 | 560 | 393 | Arlene Joy Belicina |
 | 561 | 393 | Deyawn Smith |
-| 562 | 393 | Jamie West |
-| 563 | 393 | bbv |
+| 562 | 393 | bbv |
+| 563 | 393 | Jamie West |
 | 564 | 391 | Qiana Sanders |
 | 565 | 391 | Chilly Bridgepiece |
 | 566 | 391 | Anthony Huebel |
@@ -613,8 +613,8 @@
 | 605 | 371 | Brenda Messer |
 | 606 | 371 | Giggy Grabber |
 | 607 | 371 | Saucy Fitzone |
-| 608 | 369 | Tony Lea |
-| 609 | 369 | RaeVan Worthington |
+| 608 | 369 | RaeVan Worthington |
+| 609 | 369 | Tony Lea |
 | 610 | 369 | Juan Castillo |
 | 611 | 368 | Angi Harrison |
 | 612 | 367 | Jessica Lamb |
@@ -626,9 +626,9 @@
 | 618 | 365 | Susan Arnburg |
 | 619 | 365 | Audrey Jones |
 | 620 | 364 | Shinette Dobson |
-| 621 | 363 | Jes Norris |
-| 622 | 363 | Michelle Sager |
-| 623 | 363 | Kia Humphery |
+| 621 | 363 | Kia Humphery |
+| 622 | 363 | Jes Norris |
+| 623 | 363 | Michelle Sager |
 | 624 | 363 | Stephanie Fortune |
 | 625 | 362 | Andrea Maher |
 | 626 | 362 | Veronics |
@@ -822,14 +822,14 @@
 | 814 | 274 | Sabrena Yeisley |
 | 815 | 274 | KT Macadocious |
 | 816 | 274 | Jamie Stevey |
-| 817 | 273 | Britt Stunkel |
-| 818 | 273 | Swanky Snap |
+| 817 | 273 | Swanky Snap |
+| 818 | 273 | Britt Stunkel |
 | 819 | 273 | Jennifer Aiken |
 | 820 | 272 | Witty Piecebuilder |
 | 821 | 272 | Alexandrea |
 | 822 | 271 | Pam Doughty |
-| 823 | 271 | Beverly Hodge |
-| 824 | 271 | Shalisa Hill |
+| 823 | 271 | Shalisa Hill |
+| 824 | 271 | Beverly Hodge |
 | 825 | 270 | BK Queen |
 | 826 | 270 | Lazy Builderfit |
 | 827 | 270 | Nat |
@@ -1100,8 +1100,8 @@
 | 1092 | 206 | Crystal EatableCupcake Stepney |
 | 1093 | 206 | Allyson Marra |
 | 1094 | 206 | Antonia Pike |
-| 1095 | 205 | Snazzy Basepiece |
-| 1096 | 205 | SafetyEyes16 |
+| 1095 | 205 | SafetyEyes16 |
+| 1096 | 205 | Snazzy Basepiece |
 | 1097 | 205 | Shay Moore |
 | 1098 | 205 | Ashley McCarthy-Arnone |
 | 1099 | 205 | Tiffney Wroten |
@@ -1166,8 +1166,8 @@
 | 1158 | 192 | Joy Marie |
 | 1159 | 192 | Donna M Carter |
 | 1160 | 191 | Netty |
-| 1161 | 191 | Samuel Labruno |
-| 1162 | 191 | Andre Love |
+| 1161 | 191 | Andre Love |
+| 1162 | 191 | Samuel Labruno |
 | 1163 | 191 | Casaundra Little-Abeling |
 | 1164 | 190 | Jessica Kaye DeAguero |
 | 1165 | 190 | Cherry |

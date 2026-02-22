@@ -222,8 +222,8 @@
 | 214 | 295 | Marci Mize Fandrich |
 | 215 | 291 | Kristal C Lee |
 | 216 | 289 | DidIdothat |
-| 217 | 289 | Hoppy Buildout |
-| 218 | 289 | Duane Bright |
+| 217 | 289 | Duane Bright |
+| 218 | 289 | Hoppy Buildout |
 | 219 | 286 | Cynthia Herrmann Egland |
 | 220 | 284 | Denise Nardoni |
 | 221 | 283 | Cheeky Snapper |
@@ -256,8 +256,8 @@
 | 248 | 256 | KayB |
 | 249 | 251 | Sabrina Hardrick |
 | 250 | 250 | fraulila |
-| 251 | 249 | JerseyJess |
-| 252 | 249 | Annie Marie |
+| 251 | 249 | Annie Marie |
+| 252 | 249 | JerseyJess |
 | 253 | 247 | Carrie Huskey |
 | 254 | 246 | Eon Harris |
 | 255 | 246 | Peppy Shifter |
@@ -267,8 +267,8 @@
 | 259 | 240 | Jimmie Clemons |
 | 260 | 238 | LaTanya GeminiondaRise Johnson |
 | 261 | 236 | Jess Bissett |
-| 262 | 234 | Nikki Pags |
-| 263 | 234 | Connie Mohler-Fair |
+| 262 | 234 | Connie Mohler-Fair |
+| 263 | 234 | Nikki Pags |
 | 264 | 233 | Josh Borquez |
 | 265 | 233 | Ray Lader |
 | 266 | 232 | Brenda Schmid Wood |
@@ -312,8 +312,8 @@
 | 304 | 202 | Staci George Fitzsimmons |
 | 305 | 201 | Hyper Matchzone |
 | 306 | 201 | Alexmac |
-| 307 | 200 | Sharisse Baltimore |
-| 308 | 200 | glichmod |
+| 307 | 200 | glichmod |
+| 308 | 200 | Sharisse Baltimore |
 | 309 | 200 | Saucy Buildout |
 | 310 | 198 | kacihall |
 | 311 | 195 | Nicha Hooker |
@@ -321,8 +321,8 @@
 | 313 | 192 | Ryan Williams |
 | 314 | 192 | Kelly Ann Child |
 | 315 | 191 | Philip Rock |
-| 316 | 189 | France Vézina |
-| 317 | 189 | Katie Leigh Blankenship |
+| 316 | 189 | Katie Leigh Blankenship |
+| 317 | 189 | France Vézina |
 | 318 | 188 | Loopy Fallmatch |
 | 319 | 187 | Tipsy Zonebuilder |
 | 320 | 186 | Sameerah Smith |
@@ -476,9 +476,9 @@
 | 468 | 122 | Lisa Ann |
 | 469 | 122 | BabyTonj Evans |
 | 470 | 122 | Scouty |
-| 471 | 122 | Amber Groover Taylor |
-| 472 | 122 | Nichol Graham |
-| 473 | 121 | Jason-Ashley Ludlow |
+| 471 | 122 | Nichol Graham |
+| 472 | 122 | Amber Groover Taylor |
+| 473 | 121 | Oliver Neal II |
 | 474 | 121 | Fredd Thomas |
 | 475 | 121 | Jason-Ashley Ludlow |
 | 476 | 121 | Kellie Montgomery |
