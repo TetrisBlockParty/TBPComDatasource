@@ -120,12 +120,12 @@
 | 112 | 410 | Stephanie Simpson |
 | 113 | 410 | Stephanie Blkpep Davidson |
 | 114 | 405 | Michelle |
-| 115 | 403 | Christine Filson |
-| 116 | 403 | FuzzyNavel |
+| 115 | 403 | FuzzyNavel |
+| 116 | 403 | Christine Filson |
 | 117 | 400 | Luciana Braganca Vieira |
-| 118 | 399 | ren |
-| 119 | 399 | Mcathen |
-| 120 | 399 | Patti Skiles |
+| 118 | 399 | Mcathen |
+| 119 | 399 | Patti Skiles |
+| 120 | 399 | ren |
 | 121 | 397 | Annie Déè |
 | 122 | 396 | Shannon Matthew Byers |
 | 123 | 394 | joclisa |
@@ -192,8 +192,8 @@
 | 184 | 254 | Duane Bright |
 | 185 | 249 | Terry Jo Jones |
 | 186 | 247 | Rebecca Funderburk Kirby |
-| 187 | 245 | Annie Marie |
-| 188 | 245 | Latoya Mayne |
+| 187 | 245 | Latoya Mayne |
+| 188 | 245 | Annie Marie |
 | 189 | 244 | Nora Rogers |
 | 190 | 243 | Rochelle Hazelett |
 | 191 | 242 | MsBee |
@@ -227,8 +227,8 @@
 | 219 | 211 | Khaleada McGill Banks |
 | 220 | 211 | Katrina Turner |
 | 221 | 209 | Trisha Balmer |
-| 222 | 207 | Jessica |
-| 223 | 207 | Chris Bell |
+| 222 | 207 | Chris Bell |
+| 223 | 207 | Jessica |
 | 224 | 205 | Sarah Moyer |
 | 225 | 204 | Danielle Allison |
 | 226 | 204 | Aerian Preston |
@@ -251,8 +251,8 @@
 | 243 | 189 | Katie Leigh Blankenship |
 | 244 | 188 | JerseyJess |
 | 245 | 185 | AlsoJess |
-| 246 | 184 | Troy |
-| 247 | 184 | France Vézina |
+| 246 | 184 | France Vézina |
+| 247 | 184 | Troy |
 | 248 | 181 | Nicholas Roddy |
 | 249 | 180 | Loopy Fallmatch |
 | 250 | 180 | Ryan Williams |
@@ -307,8 +307,8 @@
 | 299 | 152 | Shiny Zonebuilder |
 | 300 | 152 | Goofy Fall |
 | 301 | 151 | Ashley Lynn Marchese |
-| 302 | 150 | Gumbo |
-| 303 | 150 | Steffi Chris Dacones |
+| 302 | 150 | Steffi Chris Dacones |
+| 303 | 150 | Gumbo |
 | 304 | 149 | Alexis Taylor |
 | 305 | 149 | Angel Mendez |
 | 306 | 148 | Carrie Huskey |
@@ -350,7 +350,7 @@
 | 342 | 130 | El Chapa |
 | 343 | 130 | Karen Picaboo |
 | 344 | 130 | Chummy Caster |
-| 345 | 129 | luluraine |
+| 345 | 129 | Danielle Weikel |
 | 346 | 129 | Juliana Dottore |
 | 347 | 129 | luluraine |
 | 348 | 128 | Linda Draper |

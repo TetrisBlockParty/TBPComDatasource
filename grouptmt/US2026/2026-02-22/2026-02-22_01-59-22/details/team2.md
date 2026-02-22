@@ -421,8 +421,8 @@
 | 413 | 393 | Hillary Crawford |
 | 414 | 392 | Christine Bollig |
 | 415 | 391 | Qiana Sanders |
-| 416 | 391 | Chilly Bridgepiece |
-| 417 | 391 | Adam Simmons |
+| 416 | 391 | Adam Simmons |
+| 417 | 391 | Chilly Bridgepiece |
 | 418 | 389 | Alexis Richardson |
 | 419 | 387 | Johnny Yeates |
 | 420 | 386 | Eileen Hale |

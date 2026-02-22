@@ -189,8 +189,8 @@
 | 181 | 151 | Bethany Ison |
 | 182 | 149 | Shainne Brewer |
 | 183 | 149 | Megan Cutshaw |
-| 184 | 148 | Mr. Party |
-| 185 | 148 | Brittany Marsh |
+| 184 | 148 | Brittany Marsh |
+| 185 | 148 | Mr. Party |
 | 186 | 148 | Janita Parrish |
 | 187 | 147 | Jay28 |
 | 188 | 147 | B Renee Desjardin |
@@ -239,8 +239,8 @@
 | 231 | 127 | Zesty Twistbuilder |
 | 232 | 126 | Angelito |
 | 233 | 126 | icequeenx |
-| 234 | 125 | Lush Linkfall |
-| 235 | 125 | KimoKoala |
+| 234 | 125 | KimoKoala |
+| 235 | 125 | Lush Linkfall |
 | 236 | 124 | Sam Middleton |
 | 237 | 124 | Allen Lloyd |
 | 238 | 124 | Lindsey Gonzalez |
@@ -287,8 +287,8 @@
 | 279 | 106 | Brandi Durig |
 | 280 | 105 | GBR |
 | 281 | 105 | Kim Hunt |
-| 282 | 104 | mike |
-| 283 | 104 | Cheery Risebuilder |
+| 282 | 104 | Cheery Risebuilder |
+| 283 | 104 | mike |
 | 284 | 103 | Paige Kittles |
 | 285 | 103 | Richard-April Kice |
 | 286 | 102 | Autumn Kumzi |

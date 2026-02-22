@@ -69,8 +69,8 @@
 | 61 | 412 | Anaid Sanchez |
 | 62 | 409 | Jazzy Framezone |
 | 63 | 391 | Robert Benito |
-| 64 | 388 | Jennifer ManWarren |
-| 65 | 388 | Yvonne Marie |
+| 64 | 388 | Yvonne Marie |
+| 65 | 388 | Jennifer ManWarren |
 | 66 | 382 | Lori Sanders- Davis |
 | 67 | 379 | Austin James |
 | 68 | 374 | Tinah Montanna |
@@ -129,8 +129,8 @@
 | 121 | 240 | Tana |
 | 122 | 236 | Mandyy Rae |
 | 123 | 230 | Frothy Pattern |
-| 124 | 228 | Jenny Gingrich Fuentes |
-| 125 | 228 | Billie Dawn Sparks |
+| 124 | 228 | Billie Dawn Sparks |
+| 125 | 228 | Jenny Gingrich Fuentes |
 | 126 | 226 | Kandae |
 | 127 | 223 | Jennifer Hardman |
 | 128 | 222 | ALFD |
@@ -189,8 +189,8 @@
 | 181 | 167 | Erin Hodges Plumb |
 | 182 | 167 | Nery Martinez |
 | 183 | 166 | Rico Rico |
-| 184 | 165 | Arianna O'Brien |
-| 185 | 165 | Nadine Velardo |
+| 184 | 165 | Nadine Velardo |
+| 185 | 165 | Arianna O'Brien |
 | 186 | 164 | Shanae Grant |
 | 187 | 163 | Tyler Whitley |
 | 188 | 162 | Cece Ibarra |
@@ -214,8 +214,8 @@
 | 206 | 144 | Toph |
 | 207 | 143 | lil mickey |
 | 208 | 142 | Colleen Wise |
-| 209 | 141 | Blaire Bruckoff |
-| 210 | 141 | Dino |
+| 209 | 141 | Dino |
+| 210 | 141 | Blaire Bruckoff |
 | 211 | 139 | Flashy Rotator |
 | 212 | 138 | Mark Smith |
 | 213 | 137 | Marci Sanders |
