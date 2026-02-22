@@ -49,8 +49,8 @@
 | 41 | 1036 | Ant Ant |
 | 42 | 1015 | Amber Jones |
 | 43 | 998 | Liv Whetson |
-| 44 | 989 | Joey Banks |
-| 45 | 989 | Kay |
+| 44 | 989 | Kay |
+| 45 | 989 | Joey Banks |
 | 46 | 985 | Stephanie Rice |
 | 47 | 983 | Brandon Green |
 | 48 | 956 | Gracie |
@@ -288,8 +288,8 @@
 | 280 | 203 | Angie Harper |
 | 281 | 202 | Staci George Fitzsimmons |
 | 282 | 201 | Hyper Matchzone |
-| 283 | 200 | Sharisse Baltimore |
-| 284 | 200 | glichmod |
+| 283 | 200 | glichmod |
+| 284 | 200 | Sharisse Baltimore |
 | 285 | 199 | Raven Dudley |
 | 286 | 197 | Saucy Buildout |
 | 287 | 195 | Nicha Hooker |

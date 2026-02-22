@@ -117,8 +117,8 @@
 | 109 | 310 | Seth Wesson |
 | 110 | 310 | Jason Jones |
 | 111 | 306 | Happy Basegrid |
-| 112 | 304 | Nicole Roseberry Weber |
-| 113 | 304 | phrmblk24 |
+| 112 | 304 | phrmblk24 |
+| 113 | 304 | Nicole Roseberry Weber |
 | 114 | 301 | Lehrin Maria |
 | 115 | 292 | Kristen Gideon |
 | 116 | 290 | Death |
@@ -190,8 +190,8 @@
 | 182 | 192 | Brenda Alexander |
 | 183 | 191 | Shanae Grant |
 | 184 | 191 | Diane Byrd |
-| 185 | 190 | Thorne Shumate |
-| 186 | 190 | Sweetts |
+| 185 | 190 | Sweetts |
+| 186 | 190 | Thorne Shumate |
 | 187 | 189 | Jeanna Dunn |
 | 188 | 187 | Jennifer Olewnik Soborowski |
 | 189 | 187 | Cool Towerzone |
@@ -207,8 +207,8 @@
 | 199 | 179 | Danielle Little-Daugherty |
 | 200 | 179 | femmefatale |
 | 201 | 178 | Chad Atchley |
-| 202 | 177 | Jacqueline Unique |
-| 203 | 177 | Irual Hctrab |
+| 202 | 177 | Irual Hctrab |
+| 203 | 177 | Jacqueline Unique |
 | 204 | 176 | Mel Hogan |
 | 205 | 175 | John Barron |
 | 206 | 174 | Cheeky Pop |
@@ -231,8 +231,8 @@
 | 223 | 163 | DaRascal |
 | 224 | 161 | SavageBooty98 |
 | 225 | 160 | Tedashi |
-| 226 | 158 | Alenoush Karimian |
-| 227 | 158 | Sarah Marie |
+| 226 | 158 | Sarah Marie |
+| 227 | 158 | Alenoush Karimian |
 | 228 | 155 | Barry Mac'Ockner |
 | 229 | 154 | Melissa Lemmon |
 | 230 | 153 | Desiree Deschaine Havee |
@@ -245,8 +245,8 @@
 | 237 | 150 | Adele Rahman |
 | 238 | 149 | Chirpy Smasher |
 | 239 | 148 | Dino |
-| 240 | 147 | J.F. Fields |
-| 241 | 147 | Davery Spencer Adair |
+| 240 | 147 | Davery Spencer Adair |
+| 241 | 147 | J.F. Fields |
 | 242 | 145 | Tipsy Riseclear |
 | 243 | 144 | Miguel Teixeira |
 | 244 | 144 | Fmp |

@@ -113,8 +113,8 @@
 | 105 | 303 | Lauren Scott |
 | 106 | 300 | Jason Hart |
 | 107 | 298 | Lucas J Sutton |
-| 108 | 296 | Justin Hannigan |
-| 109 | 296 | HastyGrabber |
+| 108 | 296 | HastyGrabber |
+| 109 | 296 | Justin Hannigan |
 | 110 | 295 | Latisha Davis |
 | 111 | 294 | Kesha Brady |
 | 112 | 290 | 🥔🥔 Spudz |
@@ -218,12 +218,12 @@
 | 210 | 160 | Rio Rocha |
 | 211 | 160 | Carlos Ramirez |
 | 212 | 159 | Marcus Todd |
-| 213 | 158 | Chair |
-| 214 | 158 | Sam Bishop |
-| 215 | 158 | Avy Absol |
-| 216 | 157 | scott |
-| 217 | 157 | KayM |
-| 218 | 157 | Bethany Ison |
+| 213 | 158 | Sam Bishop |
+| 214 | 158 | Avy Absol |
+| 215 | 158 | Chair |
+| 216 | 157 | Bethany Ison |
+| 217 | 157 | scott |
+| 218 | 157 | KayM |
 | 219 | 155 | AyeKay |
 | 220 | 154 | John Brunetti |
 | 221 | 153 | Zany Shatterer |
