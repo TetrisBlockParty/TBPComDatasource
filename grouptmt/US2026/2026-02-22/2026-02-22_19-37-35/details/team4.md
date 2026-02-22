@@ -46,8 +46,8 @@
 | 38 | 908 | Misty Hollibaugh |
 | 39 | 886 | Dustin Robert |
 | 40 | 871 | Denny Shives |
-| 41 | 846 | Christine Marie |
-| 42 | 846 | Lucille Truesdale |
+| 41 | 846 | Lucille Truesdale |
+| 42 | 846 | Christine Marie |
 | 43 | 843 | Jae Job |
 | 44 | 843 | Shelly Chandler |
 | 45 | 836 | LisaJo Picken Buchanan |
@@ -183,8 +183,8 @@
 | 175 | 268 | Christina LR |
 | 176 | 268 | Mimi |
 | 177 | 267 | Casey Grabner |
-| 178 | 267 | Kathy Brookins |
-| 179 | 267 | Holly |
+| 178 | 267 | Holly |
+| 179 | 267 | Kathy Brookins |
 | 180 | 266 | Laura |
 | 181 | 265 | Chris Bernstein |
 | 182 | 264 | Girl |
@@ -241,8 +241,8 @@
 | 233 | 212 | scott |
 | 234 | 212 | Mike Solo |
 | 235 | 211 | Jenna McGeorge |
-| 236 | 210 | Dihcheese444 |
-| 237 | 210 | Adam Stephanie Parker |
+| 236 | 210 | Adam Stephanie Parker |
+| 237 | 210 | Dihcheese444 |
 | 238 | 209 | Ak Jones |
 | 239 | 208 | Oscar Alberto Perez |
 | 240 | 208 | Chair |
@@ -262,8 +262,8 @@
 | 254 | 198 | Silly SeaWeed |
 | 255 | 197 | Gilles Lanctot |
 | 256 | 196 | Zany Shatterer |
-| 257 | 195 | 中山成巳 |
-| 258 | 195 | Snippy Puzzle |
+| 257 | 195 | Snippy Puzzle |
+| 258 | 195 | 中山成巳 |
 | 259 | 194 | Zany Twisterfit |
 | 260 | 192 | Stephme310 |
 | 261 | 192 | Andrew Dang |
@@ -388,7 +388,7 @@
 | 380 | 137 | Carlos Hernandez |
 | 381 | 137 | PeaceOs |
 | 382 | 137 | Red |
-| 383 | 137 | PeaceOs |
+| 383 | 137 | Funky Risepiece |
 | 384 | 136 | Jen Hallin |
 | 385 | 136 | Michelle Morris |
 | 386 | 135 | Joshua Guess |

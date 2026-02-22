@@ -89,8 +89,8 @@
 | 81 | 828 | Jessica Ann |
 | 82 | 826 | Shane Wilson Jr. |
 | 83 | 824 | Shari Garber |
-| 84 | 811 | Jay Horn |
-| 85 | 811 | Sarajane Lokan |
+| 84 | 811 | Sarajane Lokan |
+| 85 | 811 | Jay Horn |
 | 86 | 807 | Snappy Glidepiece |
 | 87 | 800 | Lauren Girouard |
 | 88 | 784 | Nerdy Riseclear |
@@ -132,8 +132,8 @@
 | 124 | 574 | Morgan Martinez |
 | 125 | 568 | Rachael McClain Owens |
 | 126 | 565 | Daryn Elliott |
-| 127 | 562 | Dave Herzog |
-| 128 | 562 | Louise Stacy Sisson |
+| 127 | 562 | Louise Stacy Sisson |
+| 128 | 562 | Dave Herzog |
 | 129 | 557 | Domo Washington |
 | 130 | 555 | Nicole Myers |
 | 131 | 551 | Alaina Lee |
@@ -158,8 +158,8 @@
 | 150 | 479 | Poppy Splitter |
 | 151 | 479 | Annie Marie |
 | 152 | 474 | Danielle Balcom |
-| 153 | 471 | Nora Rogers |
-| 154 | 471 | Mendoza Lee Christy |
+| 153 | 471 | Mendoza Lee Christy |
+| 154 | 471 | Nora Rogers |
 | 155 | 470 | Logan Naccarato |
 | 156 | 469 | Adrian Marcel Pate |
 | 157 | 468 | Betty Ivy |
@@ -210,8 +210,8 @@
 | 202 | 377 | rosy |
 | 203 | 376 | Loopy Clusterer |
 | 204 | 374 | Darlene McMillan |
-| 205 | 372 | Tom Nault |
-| 206 | 372 | Giddy Twistbuilder |
+| 205 | 372 | Giddy Twistbuilder |
+| 206 | 372 | Tom Nault |
 | 207 | 370 | Santeria Trece Candles |
 | 208 | 368 | Stephanie Woods |
 | 209 | 367 | Loopy Fallmatch |
@@ -357,10 +357,10 @@
 | 349 | 218 | Khaleada McGill Banks |
 | 350 | 218 | Isabel Ocasio |
 | 351 | 217 | Goofy Fall |
-| 352 | 217 | Kristin Delibac Corrigan |
-| 353 | 217 | Emma |
-| 354 | 216 | Frothy Snapper |
-| 355 | 216 | Cheryl Hinch Tenbrook |
+| 352 | 217 | Emma |
+| 353 | 217 | Kristin Delibac Corrigan |
+| 354 | 216 | Cheryl Hinch Tenbrook |
+| 355 | 216 | Frothy Snapper |
 | 356 | 215 | AlsoJess |
 | 357 | 215 | Everret Maxine |
 | 358 | 214 | Randy Clevenger |
@@ -535,9 +535,9 @@
 | 527 | 151 | Carol Cain Thurman |
 | 528 | 150 | Sassy Brickmatch |
 | 529 | 150 | Steph Arcari |
-| 530 | 149 | Todd Hall |
+| 530 | 149 | Alexis Taylor |
 | 531 | 149 | xsiv |
-| 532 | 149 | Alexis Taylor |
+| 532 | 149 | Todd Hall |
 | 533 | 148 | Groovy Blockclear |
 | 534 | 148 | Kate Farok |
 | 535 | 148 | neci |
