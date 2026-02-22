@@ -61,8 +61,8 @@
 | 53 | 766 | Robin Watters |
 | 54 | 763 | Ashley Ingram |
 | 55 | 757 | Ancient Intuition |
-| 56 | 751 | Jason Allen |
-| 57 | 751 | Rachel Anne |
+| 56 | 751 | Rachel Anne |
+| 57 | 751 | Jason Allen |
 | 58 | 745 | Robin Getchel |
 | 59 | 736 | Goatimus Lombardi |
 | 60 | 735 | Avy Absol |
@@ -101,8 +101,8 @@
 | 93 | 544 | Amy Suckarieh |
 | 94 | 533 | Samantha Peterson |
 | 95 | 519 | Nugget |
-| 96 | 513 | YoMomma |
-| 97 | 513 | Erin Thomas |
+| 96 | 513 | Erin Thomas |
+| 97 | 513 | YoMomma |
 | 98 | 512 | Casey Jeffcoat |
 | 99 | 512 | Diana Houts |
 | 100 | 511 | Zippy Gridlock |
@@ -131,8 +131,8 @@
 | 123 | 414 | Nope Young |
 | 124 | 409 | Marie-Pier Desjardins |
 | 125 | 408 | Amanda Pauldo-Ivy |
-| 126 | 400 | Ericca Eldridge |
-| 127 | 400 | Trista Leah |
+| 126 | 400 | Trista Leah |
+| 127 | 400 | Ericca Eldridge |
 | 128 | 393 | Carlton Unfiltered |
 | 129 | 391 | Austin Owens |
 | 130 | 391 | Ramel Rhodes |
@@ -144,8 +144,8 @@
 | 136 | 373 | Joseph Guthrie |
 | 137 | 355 | Kristina Black |
 | 138 | 354 | Jessica Lynn Cutlip |
-| 139 | 353 | Livvy |
-| 140 | 353 | Tyler Terrific |
+| 139 | 353 | Tyler Terrific |
+| 140 | 353 | Livvy |
 | 141 | 350 | Angela Srubar-Norman |
 | 142 | 348 | Silly Zonebuilder |
 | 143 | 343 | Latisha Davis |
@@ -224,8 +224,8 @@
 | 216 | 246 | Carlos Ramirez |
 | 217 | 246 | Zethra Prenisha Rahming |
 | 218 | 245 | Adam Stephanie Parker |
-| 219 | 245 | 23 |
-| 220 | 245 | Autum Leigh |
+| 219 | 245 | Autum Leigh |
+| 220 | 245 | 23 |
 | 221 | 243 | Mr. Party |
 | 222 | 241 | Allen Lloyd |
 | 223 | 238 | JPW |
@@ -239,8 +239,8 @@
 | 231 | 230 | blockstar |
 | 232 | 230 | Jade Rian |
 | 233 | 228 | Antony Dwayne Beasley |
-| 234 | 225 | Jenna McGeorge |
-| 235 | 225 | Perky Patternblock |
+| 234 | 225 | Perky Patternblock |
+| 235 | 225 | Jenna McGeorge |
 | 236 | 222 | Brandi Durig |
 | 237 | 221 | Rheanda Weaskus |
 | 238 | 221 | PurpleMoonMa |

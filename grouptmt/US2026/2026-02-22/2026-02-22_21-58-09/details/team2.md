@@ -170,8 +170,8 @@
 | 162 | 1296 | Kristin Ruest |
 | 163 | 1294 | Ashley House |
 | 164 | 1286 | Altamirano Michael |
-| 165 | 1282 | Ashley Rose Frederick |
-| 166 | 1282 | Tanya Parsons |
+| 165 | 1282 | Tanya Parsons |
+| 166 | 1282 | Ashley Rose Frederick |
 | 167 | 1271 | Shandrica Lowe |
 | 168 | 1260 | Joshua Sommerville |
 | 169 | 1257 | Michele Gabriel |
@@ -187,8 +187,8 @@
 | 179 | 1192 | Denisha Dawkins |
 | 180 | 1190 | Debra Williams |
 | 181 | 1177 | Joyce Johnson Vaughn |
-| 182 | 1174 | Poppy Snap |
-| 183 | 1174 | Jennifer Casey-Kay |
+| 182 | 1174 | Jennifer Casey-Kay |
+| 183 | 1174 | Poppy Snap |
 | 184 | 1171 | Marie Boyd Faulk |
 | 185 | 1169 | Pacynthia Williams |
 | 186 | 1169 | Tonya Morgan |

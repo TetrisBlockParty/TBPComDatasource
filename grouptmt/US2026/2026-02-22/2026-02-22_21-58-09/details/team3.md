@@ -139,8 +139,8 @@
 | 131 | 574 | Morgan Martinez |
 | 132 | 572 | CeceGeGe |
 | 133 | 568 | Rachael McClain Owens |
-| 134 | 562 | Dave Herzog |
-| 135 | 562 | Louise Stacy Sisson |
+| 134 | 562 | Louise Stacy Sisson |
+| 135 | 562 | Dave Herzog |
 | 136 | 558 | Nicole Myers |
 | 137 | 557 | Domo Washington |
 | 138 | 554 | Leah Barnett |
@@ -239,8 +239,8 @@
 | 231 | 347 | Trisha Balmer |
 | 232 | 347 | Philip Rock |
 | 233 | 346 | Tamara Deherrera |
-| 234 | 344 | Roary Danner |
-| 235 | 344 | Rania Zaqout |
+| 234 | 344 | Rania Zaqout |
+| 235 | 344 | Roary Danner |
 | 236 | 343 | Ashley Raines |
 | 237 | 341 | Samantha Lynn |
 | 238 | 341 | Ashley Tookes |
