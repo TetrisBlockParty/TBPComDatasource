@@ -378,8 +378,8 @@
 | 370 | 602 | Biggest thing |
 | 371 | 597 | Steven Marshaun |
 | 372 | 591 | AgileDragon |
-| 373 | 589 | Shavonna Haynes |
-| 374 | 589 | Thomas Hedrick |
+| 373 | 589 | Thomas Hedrick |
+| 374 | 589 | Shavonna Haynes |
 | 375 | 586 | Heather Schelkopf |
 | 376 | 585 | Taryece Gause |
 | 377 | 584 | Kimberly Randesi |
@@ -401,8 +401,8 @@
 | 393 | 558 | Libby Hicks |
 | 394 | 558 | Mikayala Szaz |
 | 395 | 556 | Slip |
-| 396 | 554 | Rachael Senard |
-| 397 | 554 | Santana Miyagi |
+| 396 | 554 | Santana Miyagi |
+| 397 | 554 | Rachael Senard |
 | 398 | 554 | Nicole Cannon |
 | 399 | 554 | Autumn Schaeffer |
 | 400 | 553 | Blacc Blac |

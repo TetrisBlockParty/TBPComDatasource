@@ -182,8 +182,8 @@
 | 174 | 241 | John J. Cronin |
 | 175 | 239 | Sam Williams |
 | 176 | 237 | Kimberly Garcia |
-| 177 | 235 | Desiree Deschaine Havee |
-| 178 | 235 | MRdot Rooski |
+| 177 | 235 | MRdot Rooski |
+| 178 | 235 | Desiree Deschaine Havee |
 | 179 | 234 | Paula Martin |
 | 180 | 232 | femmefatale |
 | 181 | 231 | Amanda Johnson Huffman |
@@ -220,8 +220,8 @@
 | 212 | 204 | Lacy Wolfe |
 | 213 | 202 | Amanda Holibaugh |
 | 214 | 201 | Colleen Wise |
-| 215 | 200 | Flashy Rotator |
-| 216 | 200 | Breanna Luna |
+| 215 | 200 | Breanna Luna |
+| 216 | 200 | Flashy Rotator |
 | 217 | 199 | Alenoush Karimian |
 | 218 | 198 | Shiny Gridmatch |
 | 219 | 198 | Happy Snapbuild |
