@@ -109,15 +109,15 @@
 | 101 | 273 | Carrie Brian |
 | 102 | 271 | Sarah Brown |
 | 103 | 268 | Meagan Nicole |
-| 104 | 264 | Epic Curvetile |
-| 105 | 264 | Girl |
+| 104 | 264 | Girl |
+| 105 | 264 | Epic Curvetile |
 | 106 | 258 | Brittney Orengo |
 | 107 | 257 | Holly Jolly |
 | 108 | 256 | Mylo Lipscomb |
 | 109 | 255 | Lindsay Ball |
-| 110 | 230 | Daria Rycewicz |
-| 111 | 230 | Lucas J Sutton |
-| 112 | 230 | Autum Leigh |
+| 110 | 230 | Lucas J Sutton |
+| 111 | 230 | Autum Leigh |
+| 112 | 230 | Daria Rycewicz |
 | 113 | 225 | Damn Libra |
 | 114 | 222 | Joeliecea Cobb |
 | 115 | 221 | Alyssa Papen |

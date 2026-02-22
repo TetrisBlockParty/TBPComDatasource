@@ -172,8 +172,8 @@
 | 164 | 802 | Robin Kerby |
 | 165 | 800 | Danielle Johnson-Chandler |
 | 166 | 789 | Stephanie Chapman |
-| 167 | 787 | Laura McCarthey |
-| 168 | 787 | Jennifer Malloy - Cardy |
+| 167 | 787 | Jennifer Malloy - Cardy |
+| 168 | 787 | Laura McCarthey |
 | 169 | 785 | YiFei |
 | 170 | 780 | Nickole Andrews |
 | 171 | 771 | Terri McKelvey McKinley |
@@ -438,15 +438,15 @@
 | 430 | 366 | Smashanator |
 | 431 | 366 | Courtney Burcham |
 | 432 | 365 | Christina Lewis-Vickers |
-| 433 | 365 | Audrey Jones |
-| 434 | 365 | Susan Arnburg |
-| 435 | 365 | Kayla |
+| 433 | 365 | Kayla |
+| 434 | 365 | Audrey Jones |
+| 435 | 365 | Susan Arnburg |
 | 436 | 364 | Lively Edgepiece |
 | 437 | 364 | Shinette Dobson |
 | 438 | 363 | Happy Caster |
-| 439 | 362 | Adam Simmons |
+| 439 | 362 | KayLynn Ogden McClelland |
 | 440 | 362 | Tracy Wise |
-| 441 | 362 | KayLynn Ogden McClelland |
+| 441 | 362 | Adam Simmons |
 | 442 | 359 | Offonar Facey |
 | 443 | 358 | Alyssaaelena |
 | 444 | 358 | Michelle Sager |
