@@ -54,8 +54,8 @@
 | 46 | 671 | Lawrence Belanger |
 | 47 | 663 | Drew Magnus |
 | 48 | 646 | Susanna Guerry |
-| 49 | 635 | Marianne Louise West |
-| 50 | 635 | Angel Fowler |
+| 49 | 635 | Angel Fowler |
+| 50 | 635 | Marianne Louise West |
 | 51 | 631 | comrade fish |
 | 52 | 627 | Katie Daniels |
 | 53 | 614 | Snappy Swiper |
@@ -120,14 +120,14 @@
 | 112 | 330 | Sweet Baker |
 | 113 | 326 | Monica Donato |
 | 114 | 321 | Maria C. Hernandez |
-| 115 | 319 | Deanna L Hermanson |
-| 116 | 319 | Patrick Luckenbill |
+| 115 | 319 | Patrick Luckenbill |
+| 116 | 319 | Deanna L Hermanson |
 | 117 | 318 | Jessica Sheehan |
 | 118 | 316 | Jennifer Hardman |
 | 119 | 316 | Ly Phethmany |
 | 120 | 313 | Tanya Carpenter-Reynolds |
-| 121 | 310 | Jason Jones |
-| 122 | 310 | Seth Wesson |
+| 121 | 310 | Seth Wesson |
+| 122 | 310 | Jason Jones |
 | 123 | 306 | Happy Basegrid |
 | 124 | 304 | Nicole Roseberry Weber |
 | 125 | 301 | Lehrin Maria |
@@ -185,8 +185,8 @@
 | 177 | 213 | Daring Fitclear |
 | 178 | 212 | Jaimie Lynn |
 | 179 | 211 | Marianita Garcia |
-| 180 | 210 | Giggly Builderline |
-| 181 | 210 | Letson Melissa |
+| 180 | 210 | Letson Melissa |
+| 181 | 210 | Giggly Builderline |
 | 182 | 209 | Debbie Davis |
 | 183 | 208 | Bouncy Grid |
 | 184 | 208 | Donna Addison Williams |
@@ -326,8 +326,8 @@
 | 318 | 128 | Alyssa Ingram |
 | 319 | 128 | George Dalton |
 | 320 | 127 | Danielle Mae |
-| 321 | 126 | Zany Tiler |
-| 322 | 126 | Tyler Hertzog |
+| 321 | 126 | Tyler Hertzog |
+| 322 | 126 | Zany Tiler |
 | 323 | 125 | Matt Iaccheo |
 | 324 | 125 | Melissa Bires Hussar |
 | 325 | 125 | Angela Spann |

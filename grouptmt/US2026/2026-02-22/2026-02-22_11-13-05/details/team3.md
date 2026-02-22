@@ -142,8 +142,8 @@
 | 134 | 454 | Makelini Mausia |
 | 135 | 453 | Silly Twist |
 | 136 | 449 | Danielle Rhoades |
-| 137 | 445 | Kristie McFarland |
-| 138 | 445 | Jacqueline Rodriguez |
+| 137 | 445 | Jacqueline Rodriguez |
+| 138 | 445 | Kristie McFarland |
 | 139 | 435 | Michelle |
 | 140 | 432 | Jenny Hrndz |
 | 141 | 428 | Betty Ivy |
@@ -204,8 +204,8 @@
 | 196 | 320 | Or Reznitsky |
 | 197 | 317 | Ashley Tookes |
 | 198 | 315 | Kammy Hill |
-| 199 | 311 | Araceli Parra |
-| 200 | 311 | Rochelle Hazelett |
+| 199 | 311 | Rochelle Hazelett |
+| 200 | 311 | Araceli Parra |
 | 201 | 310 | Danielle Balcom |
 | 202 | 308 | Rania Zaqout |
 | 203 | 308 | Daryn Elliott |
@@ -223,8 +223,8 @@
 | 215 | 295 | Marci Mize Fandrich |
 | 216 | 291 | Kristal C Lee |
 | 217 | 289 | DidIdothat |
-| 218 | 289 | Duane Bright |
-| 219 | 289 | Hoppy Buildout |
+| 218 | 289 | Hoppy Buildout |
+| 219 | 289 | Duane Bright |
 | 220 | 286 | Cynthia Herrmann Egland |
 | 221 | 284 | Denise Nardoni |
 | 222 | 283 | Cheeky Snapper |
@@ -232,16 +232,16 @@
 | 224 | 281 | Betty Rosas |
 | 225 | 281 | Tamara Deherrera |
 | 226 | 281 | Valerie Gendron |
-| 227 | 278 | Sabrina Hardrick |
-| 228 | 278 | Rufus Lincoln |
+| 227 | 278 | Rufus Lincoln |
+| 228 | 278 | Sabrina Hardrick |
 | 229 | 277 | Keis |
 | 230 | 276 | _melisa223_ |
 | 231 | 276 | Crimson |
 | 232 | 275 | Cassandra Bryant |
 | 233 | 274 | Tye Stovall |
 | 234 | 272 | Dee Franklin |
-| 235 | 271 | Cass Mendoza |
-| 236 | 271 | Ashley Muncey |
+| 235 | 271 | Ashley Muncey |
+| 236 | 271 | Cass Mendoza |
 | 237 | 269 | Trisha Balmer |
 | 238 | 267 | Terry Jo Jones |
 | 239 | 266 | Eon Harris |
@@ -270,8 +270,8 @@
 | 262 | 238 | LaTanya GeminiondaRise Johnson |
 | 263 | 236 | Jess Bissett |
 | 264 | 235 | Cozy Snaplink |
-| 265 | 234 | Nikki Pags |
-| 266 | 234 | Connie Mohler-Fair |
+| 265 | 234 | Connie Mohler-Fair |
+| 266 | 234 | Nikki Pags |
 | 267 | 233 | Josh Borquez |
 | 268 | 233 | Ray Lader |
 | 269 | 232 | Brenda Schmid Wood |
@@ -282,8 +282,8 @@
 | 274 | 225 | Steffi Chris Dacones |
 | 275 | 224 | Quirky Dropzone |
 | 276 | 221 | Vaners |
-| 277 | 221 | Jaime Monhaut-Reed |
-| 278 | 221 | Alice |
+| 277 | 221 | Alice |
+| 278 | 221 | Jaime Monhaut-Reed |
 | 279 | 220 | Tosha Griffey |
 | 280 | 220 | rosy |
 | 281 | 218 | Michael Lucado |
@@ -303,8 +303,8 @@
 | 295 | 210 | Criss |
 | 296 | 209 | Micayah Stevens |
 | 297 | 208 | AlsoJess |
-| 298 | 207 | Daring Builder |
-| 299 | 207 | Jessica |
+| 298 | 207 | Jessica |
+| 299 | 207 | Daring Builder |
 | 300 | 207 | angieelyn |
 | 301 | 206 | Stephanie Hill |
 | 302 | 206 | Tammy Rosenberry |
@@ -312,8 +312,8 @@
 | 304 | 205 | Kirhonda Autmon |
 | 305 | 204 | Aerian Preston |
 | 306 | 203 | Angie Harper |
-| 307 | 202 | Staci George Fitzsimmons |
-| 308 | 202 | Tipsy Zonebuilder |
+| 307 | 202 | Tipsy Zonebuilder |
+| 308 | 202 | Staci George Fitzsimmons |
 | 309 | 201 | Alexmac |
 | 310 | 201 | Hyper Matchzone |
 | 311 | 200 | Saucy Buildout |
@@ -384,9 +384,9 @@
 | 376 | 159 | Joshua David Huie |
 | 377 | 158 | Willow |
 | 378 | 158 | FATTY |
-| 379 | 157 | Wetwet |
-| 380 | 157 | Miranda Taylor |
-| 381 | 157 | Angel Mendez |
+| 379 | 157 | Angel Mendez |
+| 380 | 157 | Wetwet |
+| 381 | 157 | Miranda Taylor |
 | 382 | 157 | Katrina E Jelks |
 | 383 | 156 | Nichole Greene |
 | 384 | 155 | Michell Hendershott Jackson |
@@ -397,8 +397,8 @@
 | 389 | 153 | Betty Bóò |
 | 390 | 153 | Lys |
 | 391 | 153 | Sheila M Frazier |
-| 392 | 152 | Silver Marchán |
-| 393 | 152 | Shiny Zonebuilder |
+| 392 | 152 | Shiny Zonebuilder |
+| 393 | 152 | Silver Marchán |
 | 394 | 151 | Sarah Cowan Burgos |
 | 395 | 150 | Sassy Brickmatch |
 | 396 | 149 | Alexis Taylor |
@@ -484,8 +484,8 @@
 | 476 | 123 | Amanda Declue |
 | 477 | 123 | Silly Curvetile |
 | 478 | 122 | Jess Meyers |
-| 479 | 122 | Lisa Ann |
-| 480 | 122 | BabyTonj Evans |
+| 479 | 122 | BabyTonj Evans |
+| 480 | 122 | Lisa Ann |
 | 481 | 122 | Scouty |
 | 482 | 122 | Nichol Graham |
 | 483 | 122 | Amber Groover Taylor |
@@ -494,8 +494,8 @@
 | 486 | 121 | Kellie Montgomery |
 | 487 | 121 | Jason-Ashley Ludlow |
 | 488 | 121 | Brave Brickster |
-| 489 | 121 | Jenna Baker |
-| 490 | 121 | Groovy Blockclear |
+| 489 | 121 | Groovy Blockclear |
+| 490 | 121 | Jenna Baker |
 | 491 | 120 | Giggy Glidepiece |
 | 492 | 120 | Carol Cain Thurman |
 | 493 | 119 | Tracey Cox |

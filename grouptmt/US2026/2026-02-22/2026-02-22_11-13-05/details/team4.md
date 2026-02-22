@@ -56,8 +56,8 @@
 | 48 | 697 | Edward White |
 | 49 | 695 | LisaJo Picken Buchanan |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Rebecca Moulton Pinciaro |
-| 52 | 659 | Jonathan Kimbrough |
+| 51 | 659 | Jonathan Kimbrough |
+| 52 | 659 | Rebecca Moulton Pinciaro |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
@@ -83,8 +83,8 @@
 | 75 | 512 | Casey Jeffcoat |
 | 76 | 511 | Michelle Marie |
 | 77 | 500 | Rodney McMath Jr. |
-| 78 | 486 | Carmethia Clemons Haslerig |
-| 79 | 486 | Landon Keith Graffeo |
+| 78 | 486 | Landon Keith Graffeo |
+| 79 | 486 | Carmethia Clemons Haslerig |
 | 80 | 485 | TeeJ |
 | 81 | 468 | Shane Kalamata Platoon |
 | 82 | 447 | Samantha Peterson |
