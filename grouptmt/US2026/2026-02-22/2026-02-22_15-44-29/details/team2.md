@@ -228,8 +228,8 @@
 | 220 | 919 | Joshua Mandel |
 | 221 | 919 | Isaac Trappiel IV |
 | 222 | 916 | Butta |
-| 223 | 915 | Robin Kerby |
-| 224 | 915 | Angela Bonquiqui Dinish |
+| 223 | 915 | Angela Bonquiqui Dinish |
+| 224 | 915 | Robin Kerby |
 | 225 | 915 | Kelly Trent |
 | 226 | 910 | Shuany Arias |
 | 227 | 907 | Cindy Sechler Taninecz |
@@ -515,8 +515,8 @@
 | 507 | 469 | Johnny Yeates |
 | 508 | 469 | Spunkysmom |
 | 509 | 467 | Audrey Jones |
-| 510 | 466 | Tina Marie |
-| 511 | 466 | Koa N Sharon Chen |
+| 510 | 466 | Koa N Sharon Chen |
+| 511 | 466 | Tina Marie |
 | 512 | 466 | Kori Beth Babb |
 | 513 | 466 | Crystal Greene |
 | 514 | 465 | Davetta Sanford |

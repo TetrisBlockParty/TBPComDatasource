@@ -130,8 +130,8 @@
 | 122 | 330 | Sweet Baker |
 | 123 | 326 | Monica Donato |
 | 124 | 325 | Jennifer Hardman |
-| 125 | 321 | Maria C. Hernandez |
-| 126 | 321 | Tanya Carpenter-Reynolds |
+| 125 | 321 | Tanya Carpenter-Reynolds |
+| 126 | 321 | Maria C. Hernandez |
 | 127 | 318 | Jessica Sheehan |
 | 128 | 316 | Dizzy Party |
 | 129 | 316 | Ly Phethmany |
@@ -173,8 +173,8 @@
 | 165 | 263 | Ty Brown |
 | 166 | 262 | Sleepysloath5745 |
 | 167 | 257 | Shannon Marie Pitts |
-| 168 | 254 | Letson Melissa |
-| 169 | 254 | Al Smith Jr |
+| 168 | 254 | Al Smith Jr |
+| 169 | 254 | Letson Melissa |
 | 170 | 253 | Witty Builderfit |
 | 171 | 253 | Jamie Jury |
 | 172 | 252 | Dena Kayy |
