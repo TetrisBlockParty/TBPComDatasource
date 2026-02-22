@@ -91,8 +91,8 @@
 | 83 | 446 | Shane Kalamata Platoon |
 | 84 | 440 | Kristin Manee |
 | 85 | 437 | Chastity Mitchell |
-| 86 | 427 | Jolly Dashfit |
-| 87 | 427 | KJ Pool |
+| 86 | 427 | KJ Pool |
+| 87 | 427 | Jolly Dashfit |
 | 88 | 420 | Chilly Crasher |
 | 89 | 416 | YoMomma |
 | 90 | 412 | Jenna Ingersoll |
@@ -111,8 +111,8 @@
 | 103 | 382 | Marie-Pier Desjardins |
 | 104 | 373 | Joseph Guthrie |
 | 105 | 369 | Nope Young |
-| 106 | 358 | Nugget |
-| 107 | 358 | Lori Walker |
+| 106 | 358 | Lori Walker |
+| 107 | 358 | Nugget |
 | 108 | 353 | Tyler Terrific |
 | 109 | 352 | Monica Daley |
 | 110 | 344 | Livvy |
@@ -212,7 +212,7 @@
 | 204 | 185 | Nikki Rae Gordon |
 | 205 | 184 | Ak Jones |
 | 206 | 181 | Carter Jones |
-| 207 | 180 | Dihcheese444 |
+| 207 | 180 | Rafael Valentin |
 | 208 | 180 | Orchislactea |
 | 209 | 180 | Dihcheese444 |
 | 210 | 179 | TinyLegoRose |
@@ -253,8 +253,8 @@
 | 245 | 152 | Faja |
 | 246 | 149 | Shainne Brewer |
 | 247 | 149 | Tanner Lund |
-| 248 | 148 | Nubian1 |
-| 249 | 148 | Janita Parrish |
+| 248 | 148 | Janita Parrish |
+| 249 | 148 | Nubian1 |
 | 250 | 147 | B Renee Desjardin |
 | 251 | 147 | Jay28 |
 | 252 | 147 | Jared Gutwein |

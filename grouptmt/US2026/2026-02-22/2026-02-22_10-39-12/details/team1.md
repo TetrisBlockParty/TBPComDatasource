@@ -134,8 +134,8 @@
 | 126 | 298 | Chelsea Dahlquist |
 | 127 | 290 | Death |
 | 128 | 285 | Ananda Mendez |
-| 129 | 284 | Emily Adelaide Wheatley |
-| 130 | 284 | Rachael |
+| 129 | 284 | Rachael |
+| 130 | 284 | Emily Adelaide Wheatley |
 | 131 | 283 | Franswa |
 | 132 | 282 | Timothy Dew |
 | 133 | 282 | Cool Shiftsnap |
@@ -172,8 +172,8 @@
 | 164 | 226 | Kandae |
 | 165 | 224 | Dizzy Party |
 | 166 | 218 | LC |
-| 167 | 217 | Kimberly Garcia |
-| 168 | 217 | ParisandCory Champagne |
+| 167 | 217 | ParisandCory Champagne |
+| 168 | 217 | Kimberly Garcia |
 | 169 | 216 | MRdot Rooski |
 | 170 | 216 | Shauntina Burke |
 | 171 | 215 | Sam Williams |
@@ -194,8 +194,8 @@
 | 186 | 205 | Mike Ames |
 | 187 | 205 | Tater |
 | 188 | 204 | Lacy Wolfe |
-| 189 | 203 | LaFontaine Leslie |
-| 190 | 203 | Paula Martin |
+| 189 | 203 | Paula Martin |
+| 190 | 203 | LaFontaine Leslie |
 | 191 | 201 | Colleen Wise |
 | 192 | 200 | Breanna Luna |
 | 193 | 200 | DaRascal |

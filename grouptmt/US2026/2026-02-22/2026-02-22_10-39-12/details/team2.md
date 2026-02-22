@@ -529,8 +529,8 @@
 | 521 | 424 | Mia Muse Best |
 | 522 | 423 | Sam |
 | 523 | 422 | coleksquad |
-| 524 | 421 | SwampRebel |
-| 525 | 421 | Vonceial Boone |
+| 524 | 421 | Vonceial Boone |
+| 525 | 421 | SwampRebel |
 | 526 | 420 | LaWanda Powell |
 | 527 | 419 | Pocho Zavala |
 | 528 | 419 | Josh Dill |
@@ -544,8 +544,8 @@
 | 536 | 413 | Fancy Twister |
 | 537 | 413 | Lauren Fitzgerald Thomas |
 | 538 | 413 | Juanita Lyons |
-| 539 | 411 | Mighty Spinbuilder |
-| 540 | 411 | Kristen O'Neal |
+| 539 | 411 | Kristen O'Neal |
+| 540 | 411 | Mighty Spinbuilder |
 | 541 | 410 | Tara Lynn Janes |
 | 542 | 410 | Nicole Cannon |
 | 543 | 408 | Brandon Jones |
@@ -554,8 +554,8 @@
 | 546 | 407 | Tipsy Filler |
 | 547 | 406 | Erin StFrancis |
 | 548 | 406 | Kimberly Ann |
-| 549 | 404 | Goofy Catcher |
-| 550 | 404 | Dawn L Washington-Feuquay |
+| 549 | 404 | Dawn L Washington-Feuquay |
+| 550 | 404 | Goofy Catcher |
 | 551 | 404 | Boozi |
 | 552 | 403 | Goofy Dasher |
 | 553 | 401 | Moua Ying |
@@ -612,8 +612,8 @@
 | 604 | 375 | Cecilia A Jenkins |
 | 605 | 375 | Lively Edgepiece |
 | 606 | 373 | Ashley Marie |
-| 607 | 373 | Hunter Connors |
-| 608 | 373 | Jessica Hughes |
+| 607 | 373 | Jessica Hughes |
+| 608 | 373 | Hunter Connors |
 | 609 | 372 | Ebony Deloach Bryant |
 | 610 | 371 | AkaLefty |
 | 611 | 371 | Brenda Messer |
@@ -796,8 +796,8 @@
 | 788 | 284 | Hillary Franklin |
 | 789 | 282 | Nutty Slice |
 | 790 | 281 | Anthony |
-| 791 | 280 | Danielle DeLozier Plesec |
-| 792 | 280 | Reece Smith |
+| 791 | 280 | Reece Smith |
+| 792 | 280 | Danielle DeLozier Plesec |
 | 793 | 280 | Luke Califf |
 | 794 | 280 | Sandra Link-Gable |
 | 795 | 280 | Belle |
@@ -807,8 +807,8 @@
 | 799 | 279 | Laura Wyatt |
 | 800 | 278 | AndrewandShela Gornik |
 | 801 | 277 | Brianna Cerney |
-| 802 | 277 | Anthony Mignacca |
-| 803 | 277 | Amanda Chamberlain |
+| 802 | 277 | Amanda Chamberlain |
+| 803 | 277 | Anthony Mignacca |
 | 804 | 276 | Jamie Dayton |
 | 805 | 276 | Josh Webster |
 | 806 | 276 | Ryan Lauer |
@@ -1004,8 +1004,8 @@
 | 996 | 228 | Asha Nichols-Collins |
 | 997 | 228 | Lee |
 | 998 | 228 | Yasmin Guzman |
-| 999 | 227 | Sedo |
-| 1000 | 227 | Artemus Darnell |
+| 999 | 227 | Artemus Darnell |
+| 1000 | 227 | Sedo |
 | 1001 | 227 | William David Swallow |
 | 1002 | 227 | Monique Foster |
 | 1003 | 227 | Toni Whipple |
