@@ -271,8 +271,8 @@
 | 263 | 198 | Angelito |
 | 264 | 197 | Gilles Lanctot |
 | 265 | 196 | Zany Shatterer |
-| 266 | 195 | 中山成巳 |
-| 267 | 195 | Snippy Puzzle |
+| 266 | 195 | Snippy Puzzle |
+| 267 | 195 | 中山成巳 |
 | 268 | 194 | Zany Twisterfit |
 | 269 | 193 | Shainne Brewer |
 | 270 | 193 | Stephme310 |
@@ -524,7 +524,7 @@
 | 516 | 102 | Candice Carasiti |
 | 517 | 102 | Christina O'Dell-Ishau |
 | 518 | 101 | Brittany Little |
-| 519 | 101 | Cindy Looper |
+| 519 | 101 | Hoppy Clearer |
 | 520 | 101 | Saulc1991 |
 | 521 | 101 | Jen Mattei |
 | 522 | 101 | Jacob Campbell |

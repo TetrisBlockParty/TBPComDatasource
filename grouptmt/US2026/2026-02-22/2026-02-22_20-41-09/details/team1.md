@@ -112,13 +112,13 @@
 | 104 | 417 | Lori Sanders- Davis |
 | 105 | 412 | Anaid Sanchez |
 | 106 | 411 | Luciano Moreira |
-| 107 | 409 | Dandy Basegrid |
-| 108 | 409 | Yvonne Marie |
+| 107 | 409 | Yvonne Marie |
+| 108 | 409 | Dandy Basegrid |
 | 109 | 395 | Nery Martinez |
 | 110 | 394 | Chris K |
 | 111 | 391 | Lori Bales |
-| 112 | 390 | Goose egg |
-| 113 | 390 | Candy Jones |
+| 112 | 390 | Candy Jones |
+| 113 | 390 | Goose egg |
 | 114 | 389 | Ash Galvan |
 | 115 | 386 | Ty Brown |
 | 116 | 386 | Plucky Ziggy |
@@ -147,11 +147,11 @@
 | 139 | 340 | Tanya Carpenter-Reynolds |
 | 140 | 336 | Elaine Elaine |
 | 141 | 334 | Jaimie Lynn |
-| 142 | 333 | Gracie |
-| 143 | 333 | GATOR |
-| 144 | 332 | Fmp |
-| 145 | 332 | Kristen Gideon |
-| 146 | 332 | Lehrin Maria |
+| 142 | 333 | GATOR |
+| 143 | 333 | Gracie |
+| 144 | 332 | Lehrin Maria |
+| 145 | 332 | Fmp |
+| 146 | 332 | Kristen Gideon |
 | 147 | 325 | Jennifer Hardman |
 | 148 | 324 | Ananda Mendez |
 | 149 | 318 | Jessica Sheehan |
@@ -205,8 +205,8 @@
 | 197 | 261 | Witty Builderfit |
 | 198 | 260 | Cheeky Pop |
 | 199 | 256 | Chris65 |
-| 200 | 254 | Giggly Builderline |
-| 201 | 254 | Al Smith Jr |
+| 200 | 254 | Al Smith Jr |
+| 201 | 254 | Giggly Builderline |
 | 202 | 253 | Jamie Jury |
 | 203 | 252 | Dena Kayy |
 | 204 | 249 | Lakeisha Chapman |
@@ -364,8 +364,8 @@
 | 356 | 159 | Howdi Duty |
 | 357 | 159 | Uhog SF |
 | 358 | 158 | Melissa Bires Hussar |
-| 359 | 158 | Christina Norman |
-| 360 | 158 | Teddy Alexander |
+| 359 | 158 | Teddy Alexander |
+| 360 | 158 | Christina Norman |
 | 361 | 157 | Ruthie Mahoney Saunders-Browne |
 | 362 | 156 | Mark Smith |
 | 363 | 156 | Wayne Saunders |

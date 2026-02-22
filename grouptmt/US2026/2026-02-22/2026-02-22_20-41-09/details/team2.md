@@ -399,8 +399,8 @@
 | 391 | 653 | Alex Dungo Hoang |
 | 392 | 652 | Mighty Spinbuilder |
 | 393 | 651 | Unica Rector |
-| 394 | 650 | Shiny Rollzone |
-| 395 | 650 | Amber Brion |
+| 394 | 650 | Amber Brion |
+| 395 | 650 | Shiny Rollzone |
 | 396 | 649 | Johnny Yeates |
 | 397 | 648 | AgileDragon |
 | 398 | 648 | Breezy Filler |
@@ -408,8 +408,8 @@
 | 400 | 643 | Hoppy Brickmatch |
 | 401 | 642 | Cassie Maynard |
 | 402 | 640 | Gary Stash |
-| 403 | 640 | Crystie Hicks |
-| 404 | 640 | BYM4L |
+| 403 | 640 | BYM4L |
+| 404 | 640 | Crystie Hicks |
 | 405 | 639 | Melissa Penelope Ann Dodge |
 | 406 | 639 | Rebecca Miller |
 | 407 | 635 | Dennis McLaurin |
@@ -513,10 +513,10 @@
 | 505 | 515 | Armonie Smith |
 | 506 | 514 | Karen Posadas Centeno |
 | 507 | 512 | Leslie Jorgenson |
-| 508 | 511 | Laura Mclean |
-| 509 | 511 | Adam Simmons |
-| 510 | 509 | Kelli Wells |
-| 511 | 509 | Jordan Kaiser |
+| 508 | 511 | Adam Simmons |
+| 509 | 511 | Laura Mclean |
+| 510 | 509 | Jordan Kaiser |
+| 511 | 509 | Kelli Wells |
 | 512 | 508 | Erika Densmore |
 | 513 | 507 | Kitybox |
 | 514 | 507 | Daniell Martinez |
@@ -527,7 +527,7 @@
 | 519 | 497 | June E Hanson |
 | 520 | 495 | Bubbly Snapbuild |
 | 521 | 494 | Venita Ray |
-| 522 | 493 | Sarah DeHart |
+| 522 | 493 | Besma Ao |
 | 523 | 493 | Sue Leard |
 | 524 | 493 | Sarah DeHart |
 | 525 | 492 | Breezy Clusterer |
@@ -573,7 +573,7 @@
 | 565 | 473 | Juanita Lyons |
 | 566 | 472 | Kyle LeRoy Harris |
 | 567 | 472 | KayLynn Ogden McClelland |
-| 568 | 472 | Kyle LeRoy Harris |
+| 568 | 472 | Arwa Fatimah |
 | 569 | 471 | Rae Rae |
 | 570 | 470 | Arlene Joy Belicina |
 | 571 | 469 | Christy Long |
@@ -875,8 +875,8 @@
 | 867 | 318 | Jeffrey Barrows |
 | 868 | 318 | Ashlyn Berner |
 | 869 | 318 | Samuel Labruno |
-| 870 | 317 | Jumpy Gridclear |
-| 871 | 317 | Nancy Pohlman |
+| 870 | 317 | Nancy Pohlman |
+| 871 | 317 | Jumpy Gridclear |
 | 872 | 317 | Zombi3 |
 | 873 | 317 | R |
 | 874 | 316 | Nutty Slice |
@@ -947,8 +947,8 @@
 | 939 | 297 | Deana |
 | 940 | 297 | Bing |
 | 941 | 297 | David Duncan |
-| 942 | 296 | Jamie Dayton |
-| 943 | 296 | Jennifer Darby |
+| 942 | 296 | Jennifer Darby |
+| 943 | 296 | Jamie Dayton |
 | 944 | 296 | Shindee |
 | 945 | 295 | Devlin Ogg |
 | 946 | 294 | AndrewandShela Gornik |

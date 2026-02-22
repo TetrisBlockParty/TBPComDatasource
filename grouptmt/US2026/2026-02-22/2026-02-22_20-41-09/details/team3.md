@@ -70,8 +70,8 @@
 | 62 | 1027 | Gracie |
 | 63 | 1019 | Joey Banks |
 | 64 | 954 | Nate Burnside |
-| 65 | 926 | Judi Dobson |
-| 66 | 926 | Angela M. Fletcher |
+| 65 | 926 | Angela M. Fletcher |
+| 66 | 926 | Judi Dobson |
 | 67 | 924 | Shonna Roberts |
 | 68 | 909 | Jennifer |
 | 69 | 903 | Sarah Fehring |
@@ -135,8 +135,8 @@
 | 127 | 572 | CeceGeGe |
 | 128 | 569 | Daryn Elliott |
 | 129 | 568 | Rachael McClain Owens |
-| 130 | 562 | Dave Herzog |
-| 131 | 562 | Louise Stacy Sisson |
+| 130 | 562 | Louise Stacy Sisson |
+| 131 | 562 | Dave Herzog |
 | 132 | 557 | Domo Washington |
 | 133 | 555 | Nicole Myers |
 | 134 | 554 | Leah Barnett |
@@ -163,11 +163,11 @@
 | 155 | 479 | Poppy Splitter |
 | 156 | 474 | Danielle Balcom |
 | 157 | 473 | Calista Jo Dickson |
-| 158 | 471 | Nora Rogers |
-| 159 | 471 | Mendoza Lee Christy |
+| 158 | 471 | Mendoza Lee Christy |
+| 159 | 471 | Nora Rogers |
 | 160 | 470 | Logan Naccarato |
-| 161 | 469 | Melissa Orth Hunter |
-| 162 | 469 | Adrian Marcel Pate |
+| 161 | 469 | Adrian Marcel Pate |
+| 162 | 469 | Melissa Orth Hunter |
 | 163 | 468 | Betty Ivy |
 | 164 | 464 | Makelini Mausia |
 | 165 | 464 | Michelle |
@@ -187,8 +187,8 @@
 | 179 | 432 | Luciana Braganca Vieira |
 | 180 | 432 | Christine Trester |
 | 181 | 431 | Sarah Cowan Burgos |
-| 182 | 430 | Joye Sims Binion |
-| 183 | 430 | Jeni Dow |
+| 182 | 430 | Jeni Dow |
+| 183 | 430 | Joye Sims Binion |
 | 184 | 428 | Araceli Parra |
 | 185 | 427 | Wendy Dearden |
 | 186 | 425 | Rochelle Hazelett |
@@ -206,14 +206,14 @@
 | 198 | 400 | Sherika C. McDaniels |
 | 199 | 399 | Mcathen |
 | 200 | 391 | Cozy Snaplink |
-| 201 | 383 | Nicole Flippo |
-| 202 | 383 | rosy |
+| 201 | 383 | rosy |
+| 202 | 383 | Nicole Flippo |
 | 203 | 382 | Scott Carleton |
 | 204 | 378 | Chris Bell |
 | 205 | 377 | Darlene McMillan |
 | 206 | 376 | Loopy Clusterer |
-| 207 | 372 | Giddy Twistbuilder |
-| 208 | 372 | Rich LeBlanc |
+| 207 | 372 | Rich LeBlanc |
+| 208 | 372 | Giddy Twistbuilder |
 | 209 | 370 | Santeria Trece Candles |
 | 210 | 369 | Sarah Moyer |
 | 211 | 368 | Stephanie Woods |
@@ -234,8 +234,8 @@
 | 226 | 347 | Trisha Balmer |
 | 227 | 347 | Philip Rock |
 | 228 | 346 | Tamara Deherrera |
-| 229 | 344 | Roary Danner |
-| 230 | 344 | Rania Zaqout |
+| 229 | 344 | Rania Zaqout |
+| 230 | 344 | Roary Danner |
 | 231 | 343 | Ashley Raines |
 | 232 | 341 | Ashley Tookes |
 | 233 | 341 | Samantha Lynn |
@@ -269,8 +269,8 @@
 | 261 | 298 | Grams |
 | 262 | 298 | MsBee |
 | 263 | 297 | Jojo M |
-| 264 | 296 | Hoppy Buildout |
-| 265 | 296 | Katrina Turner |
+| 264 | 296 | Katrina Turner |
+| 265 | 296 | Hoppy Buildout |
 | 266 | 295 | Tiffany Davie |
 | 267 | 292 | Cheeky Snapper |
 | 268 | 291 | Carrie Huskey |
@@ -279,8 +279,8 @@
 | 271 | 289 | Danielle Weikel |
 | 272 | 287 | Sabrina Hardrick |
 | 273 | 286 | Christian Werndl |
-| 274 | 286 | Tye Stovall |
-| 275 | 286 | Terry Jo Jones |
+| 274 | 286 | Terry Jo Jones |
+| 275 | 286 | Tye Stovall |
 | 276 | 283 | Heather Green |
 | 277 | 279 | Connie Mohler-Fair |
 | 278 | 278 | Rufus Lincoln |
@@ -544,8 +544,8 @@
 | 536 | 151 | Carol Cain Thurman |
 | 537 | 150 | Steph Arcari |
 | 538 | 150 | Sassy Brickmatch |
-| 539 | 149 | Alexis Taylor |
-| 540 | 149 | xsiv |
+| 539 | 149 | xsiv |
+| 540 | 149 | Alexis Taylor |
 | 541 | 149 | Todd Hall |
 | 542 | 148 | Kate Farok |
 | 543 | 148 | Groovy Blockclear |
