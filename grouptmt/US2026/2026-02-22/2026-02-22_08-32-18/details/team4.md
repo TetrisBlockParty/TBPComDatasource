@@ -84,8 +84,8 @@
 | 76 | 486 | Carmethia Clemons Haslerig |
 | 77 | 483 | TeeJ |
 | 78 | 467 | Dawn Alexander |
-| 79 | 447 | Samantha Peterson |
-| 80 | 447 | Erin Thomas |
+| 79 | 447 | Erin Thomas |
+| 80 | 447 | Samantha Peterson |
 | 81 | 440 | Kristin Manee |
 | 82 | 435 | Shane Kalamata Platoon |
 | 83 | 427 | KJ Pool |
@@ -202,11 +202,11 @@
 | 194 | 186 | Holly |
 | 195 | 185 | Lori |
 | 196 | 184 | Ak Jones |
-| 197 | 181 | Carter Jones |
-| 198 | 181 | Alan George LaRage |
-| 199 | 180 | Orchislactea |
-| 200 | 180 | Rafael Valentin |
-| 201 | 180 | Dihcheese444 |
+| 197 | 181 | Alan George LaRage |
+| 198 | 181 | Carter Jones |
+| 199 | 180 | Dihcheese444 |
+| 200 | 180 | Orchislactea |
+| 201 | 180 | Rafael Valentin |
 | 202 | 179 | blockstar |
 | 203 | 175 | TinyLegoRose |
 | 204 | 174 | Rio Rocha |
@@ -276,8 +276,8 @@
 | 268 | 136 | Maureen Flanigan |
 | 269 | 135 | Joshua Guess |
 | 270 | 134 | Duck |
-| 271 | 134 | Kim Klutz Olson |
-| 272 | 134 | Angelito |
+| 271 | 134 | Angelito |
+| 272 | 134 | Kim Klutz Olson |
 | 273 | 133 | KimoKoala |
 | 274 | 132 | Jason Bosco |
 | 275 | 132 | Degenerate |

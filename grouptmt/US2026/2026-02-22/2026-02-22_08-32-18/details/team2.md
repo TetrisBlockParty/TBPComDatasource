@@ -424,15 +424,15 @@
 | 416 | 487 | Maya June |
 | 417 | 487 | MrsCandyfine As Wine Truss |
 | 418 | 486 | Caitlin Schmid |
-| 419 | 485 | Dapper Dasher |
-| 420 | 485 | Ann Matzkanin |
+| 419 | 485 | Ann Matzkanin |
+| 420 | 485 | Dapper Dasher |
 | 421 | 485 | Mamachelle Eisweirth |
 | 422 | 484 | Brenna Ann |
 | 423 | 483 | Victor Obiakarije |
 | 424 | 483 | Alezandra Smith |
 | 425 | 482 | Amélie Cadieux |
-| 426 | 482 | Eckoman518 |
-| 427 | 482 | Drwatson187 |
+| 426 | 482 | Drwatson187 |
+| 427 | 482 | Eckoman518 |
 | 428 | 482 | Ben Barkley |
 | 429 | 481 | KhaosLord |
 | 430 | 481 | Klee |
@@ -470,8 +470,8 @@
 | 462 | 451 | Cody Nishimura |
 | 463 | 451 | Dylan Thomason |
 | 464 | 450 | Cheery Matchzone |
-| 465 | 447 | Jessica S Flecha |
-| 466 | 447 | Brandy Andre |
+| 465 | 447 | Brandy Andre |
+| 466 | 447 | Jessica S Flecha |
 | 467 | 447 | Heather Schelkopf |
 | 468 | 446 | Snippy Rumbler |
 | 469 | 445 | Mar Q Thomas |
@@ -479,8 +479,8 @@
 | 471 | 444 | Chab |
 | 472 | 442 | Leah |
 | 473 | 441 | Christina Wsn |
-| 474 | 440 | Sarah Berger |
-| 475 | 440 | Liberty |
+| 474 | 440 | Liberty |
+| 475 | 440 | Sarah Berger |
 | 476 | 438 | Johnny Yeates |
 | 477 | 437 | Bubbly Snapfit |
 | 478 | 436 | Brenda Pierpoint |

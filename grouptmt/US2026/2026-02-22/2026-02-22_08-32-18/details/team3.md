@@ -51,8 +51,8 @@
 | 43 | 1015 | Amber Jones |
 | 44 | 998 | Liv Whetson |
 | 45 | 996 | Stephanie Rice |
-| 46 | 989 | Joey Banks |
-| 47 | 989 | Kay |
+| 46 | 989 | Kay |
+| 47 | 989 | Joey Banks |
 | 48 | 983 | Brandon Green |
 | 49 | 956 | Gracie |
 | 50 | 953 | mjl574 |
@@ -187,8 +187,8 @@
 | 179 | 347 | Nicole Flippo |
 | 180 | 343 | Ashley Raines |
 | 181 | 341 | Samantha Lynn |
-| 182 | 338 | Gumbo |
-| 183 | 338 | Leah Barnett |
+| 182 | 338 | Leah Barnett |
+| 183 | 338 | Gumbo |
 | 184 | 332 | Rich LeBlanc |
 | 185 | 332 | Noyb Adam |
 | 186 | 328 | Giddy Twistbuilder |
@@ -248,8 +248,8 @@
 | 240 | 258 | Tamara Deherrera |
 | 241 | 257 | Ashley Jones |
 | 242 | 256 | Brenda Lee Vander Molen |
-| 243 | 256 | Tiffany Davie |
-| 244 | 256 | KayB |
+| 243 | 256 | KayB |
+| 244 | 256 | Tiffany Davie |
 | 245 | 251 | Sabrina Hardrick |
 | 246 | 250 | fraulila |
 | 247 | 249 | Annie Marie |
@@ -269,8 +269,8 @@
 | 261 | 230 | Connie Mohler-Fair |
 | 262 | 227 | Krystal Gerstberger |
 | 263 | 227 | Meowsa |
-| 264 | 225 | Cozy Snaplink |
-| 265 | 225 | Dirtgirl27 |
+| 264 | 225 | Dirtgirl27 |
+| 265 | 225 | Cozy Snaplink |
 | 266 | 221 | Vaners |
 | 267 | 221 | Alice |
 | 268 | 221 | Jaime Monhaut-Reed |
@@ -285,8 +285,8 @@
 | 277 | 214 | Rebel124 |
 | 278 | 212 | Desiree Gold |
 | 279 | 212 | Sunny Rotater |
-| 280 | 211 | Velma Mull |
-| 281 | 211 | El Chapa |
+| 280 | 211 | El Chapa |
+| 281 | 211 | Velma Mull |
 | 282 | 211 | Khaleada McGill Banks |
 | 283 | 210 | Lizabeth Fox |
 | 284 | 209 | Micayah Stevens |
