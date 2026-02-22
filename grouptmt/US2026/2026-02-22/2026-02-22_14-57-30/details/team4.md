@@ -50,8 +50,8 @@
 | 42 | 823 | Jae Job |
 | 43 | 818 | Marvin Lou Martin |
 | 44 | 779 | BertMofo |
-| 45 | 775 | Dee Kay |
-| 46 | 775 | Rebecca Moulton Pinciaro |
+| 45 | 775 | Rebecca Moulton Pinciaro |
+| 46 | 775 | Dee Kay |
 | 47 | 766 | Robin Watters |
 | 48 | 757 | Ancient Intuition |
 | 49 | 736 | Goatimus Lombardi |
@@ -97,8 +97,8 @@
 | 89 | 468 | Shane Kalamata Platoon |
 | 90 | 455 | YoMomma |
 | 91 | 448 | Kristin Manee |
-| 92 | 447 | Samantha Peterson |
-| 93 | 447 | Shannon Ferrari |
+| 92 | 447 | Shannon Ferrari |
+| 93 | 447 | Samantha Peterson |
 | 94 | 447 | Erin Thomas |
 | 95 | 444 | Chilly Crasher |
 | 96 | 441 | Chastity Mitchell |
@@ -151,8 +151,8 @@
 | 143 | 289 | Jessica Lynn Cutlip |
 | 144 | 286 | shark tato |
 | 145 | 283 | Brittney Orengo |
-| 146 | 281 | Meagan Nicole |
-| 147 | 281 | Lindsay Ball |
+| 146 | 281 | Lindsay Ball |
+| 147 | 281 | Meagan Nicole |
 | 148 | 278 | Leah Kutz Zirbel |
 | 149 | 277 | Mary Ann Pabukis |
 | 150 | 275 | Dizzy Tiley |
@@ -196,8 +196,8 @@
 | 188 | 217 | Chaz Duncan |
 | 189 | 216 | ZeeZee |
 | 190 | 216 | Chance Strickland |
-| 191 | 213 | Sarah Neathery |
-| 192 | 213 | Jason Allen |
+| 191 | 213 | Jason Allen |
+| 192 | 213 | Sarah Neathery |
 | 193 | 212 | Mike Solo |
 | 194 | 212 | Joanna |
 | 195 | 211 | Jenna McGeorge |
@@ -291,8 +291,8 @@
 | 283 | 151 | Shanon Klair |
 | 284 | 151 | Joseph Pace |
 | 285 | 150 | GBR |
-| 286 | 150 | Brandon Link |
-| 287 | 150 | Jared Gutwein |
+| 286 | 150 | Jared Gutwein |
+| 287 | 150 | Brandon Link |
 | 288 | 149 | Shainne Brewer |
 | 289 | 148 | Nubian1 |
 | 290 | 148 | Cranky Rollpiece |
@@ -371,8 +371,8 @@
 | 363 | 122 | PennyCandee |
 | 364 | 121 | Chris Alexinas |
 | 365 | 121 | Riverdale |
-| 366 | 120 | wombat |
-| 367 | 120 | Bryan Hodgins |
+| 366 | 120 | Bryan Hodgins |
+| 367 | 120 | wombat |
 | 368 | 119 | rebel4lyfe |
 | 369 | 119 | River Shady Sr. |
 | 370 | 118 | Perky Piecegrid |
@@ -437,7 +437,7 @@
 | 429 | 104 | Jessica Johnston |
 | 430 | 104 | Gdiguy |
 | 431 | 104 | Amy Jean |
-| 432 | 104 | Jessica Johnston |
+| 432 | 104 | Blessedmama |
 | 433 | 104 | Ryry |
 | 434 | 103 | Jesus Garcia |
 | 435 | 102 | Christina O'Dell-Ishau |

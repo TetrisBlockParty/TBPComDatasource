@@ -182,8 +182,8 @@
 | 174 | 384 | Dapper Snap |
 | 175 | 382 | Scott Carleton |
 | 176 | 380 | Tasha Schriewer |
-| 177 | 378 | Nicole Flippo |
-| 178 | 378 | Chris Bell |
+| 177 | 378 | Chris Bell |
+| 178 | 378 | Nicole Flippo |
 | 179 | 376 | Loopy Clusterer |
 | 180 | 374 | Sherry Ogden |
 | 181 | 372 | Giddy Twistbuilder |
@@ -196,8 +196,8 @@
 | 188 | 361 | Jamie Lang |
 | 189 | 358 | Chummy Caster |
 | 190 | 358 | RickyG |
-| 191 | 357 | Tom Nault |
-| 192 | 357 | Stephanie Burtin |
+| 191 | 357 | Stephanie Burtin |
+| 192 | 357 | Tom Nault |
 | 193 | 353 | Nora Rogers |
 | 194 | 349 | Amanda J. Mcneil-Anderson |
 | 195 | 348 | Chasity |
@@ -211,8 +211,8 @@
 | 203 | 332 | Rich LeBlanc |
 | 204 | 330 | Rebecca Funderburk Kirby |
 | 205 | 330 | Danielle Balcom |
-| 206 | 324 | Sissy Lowery Davis |
-| 207 | 324 | Kristal C Lee |
+| 206 | 324 | Kristal C Lee |
+| 207 | 324 | Sissy Lowery Davis |
 | 208 | 323 | Demetrious Shaw Sr. |
 | 209 | 320 | Or Reznitsky |
 | 210 | 320 | Keis |
@@ -230,8 +230,8 @@
 | 222 | 301 | Chelsea Hall |
 | 223 | 300 | Sherika C. McDaniels |
 | 224 | 298 | MsBee |
-| 225 | 297 | Jojo M |
-| 226 | 297 | JerseyJess |
+| 225 | 297 | JerseyJess |
+| 226 | 297 | Jojo M |
 | 227 | 296 | Katrina Turner |
 | 228 | 296 | Brandon Givens |
 | 229 | 289 | Hoppy Buildout |
@@ -506,11 +506,11 @@
 | 498 | 130 | Alexi Pryor |
 | 499 | 130 | Jul |
 | 500 | 129 | Juliana Dottore |
-| 501 | 129 | Stella |
-| 502 | 129 | LIL BIT |
-| 503 | 129 | luluraine |
+| 501 | 129 | LIL BIT |
+| 502 | 129 | Stella |
+| 503 | 129 | TLM |
 | 504 | 129 | Amanda Neal |
-| 505 | 129 | TLM |
+| 505 | 129 | luluraine |
 | 506 | 128 | David Kozen |
 | 507 | 127 | Jason-Ashley Ludlow |
 | 508 | 127 | Kevin Russell |
@@ -942,8 +942,8 @@
 | 934 | 73 | Speedy Builder |
 | 935 | 73 | Heather Watson |
 | 936 | 73 | Rhiannon Nikkie Thomas Ashbeck |
-| 937 | 73 | Carrie Wheetley |
-| 938 | 73 | Snippy Brickster |
+| 937 | 73 | Snippy Brickster |
+| 938 | 73 | Carrie Wheetley |
 | 939 | 72 | Johnny Hill |
 | 940 | 72 | Jodi Kaczynski-O'Dowd |
 | 941 | 72 | Bouncy Line |

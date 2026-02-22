@@ -338,8 +338,8 @@
 | 330 | 669 | Charvi' Carter |
 | 331 | 668 | Roseanna Peloso |
 | 332 | 666 | Speedy Spinblock |
-| 333 | 665 | Prette Qui |
-| 334 | 665 | Leslie Ann Carter |
+| 333 | 665 | Leslie Ann Carter |
+| 334 | 665 | Prette Qui |
 | 335 | 664 | Sleepypanda67 |
 | 336 | 663 | Mandi Douglas Hilt |
 | 337 | 663 | Ashle Scranton |
@@ -348,8 +348,8 @@
 | 340 | 661 | goofinoff |
 | 341 | 659 | Draizen Montrell Thomas |
 | 342 | 651 | Unica Rector |
-| 343 | 650 | Shiny Rollzone |
-| 344 | 650 | tejas25 |
+| 343 | 650 | tejas25 |
+| 344 | 650 | Shiny Rollzone |
 | 345 | 643 | Hoppy Brickmatch |
 | 346 | 640 | Kara Gillen |
 | 347 | 640 | BYM4L |
@@ -597,8 +597,8 @@
 | 589 | 406 | Kimberly Ann |
 | 590 | 406 | Erin StFrancis |
 | 591 | 404 | Dawn L Washington-Feuquay |
-| 592 | 403 | Nate Skidmore |
-| 593 | 403 | Goofy Dasher |
+| 592 | 403 | Goofy Dasher |
+| 593 | 403 | Nate Skidmore |
 | 594 | 401 | Moua Ying |
 | 595 | 401 | De Hawkins |
 | 596 | 400 | Tammy Allen |
@@ -695,8 +695,8 @@
 | 687 | 350 | Maria Hammett |
 | 688 | 350 | Kyla Louise |
 | 689 | 348 | Kelly Meredeith |
-| 690 | 348 | Richard Horton |
-| 691 | 348 | Peppy Snapfall |
+| 690 | 348 | Peppy Snapfall |
+| 691 | 348 | Richard Horton |
 | 692 | 347 | CC |
 | 693 | 347 | Zesty Pivot |
 | 694 | 346 | Danielle Ayoub |
