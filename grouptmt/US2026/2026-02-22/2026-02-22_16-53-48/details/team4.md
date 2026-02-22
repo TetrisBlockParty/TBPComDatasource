@@ -163,8 +163,8 @@
 | 155 | 275 | Dizzy Tiley |
 | 156 | 274 | Calvin Cannon |
 | 157 | 273 | Crystal Nicolette Moore |
-| 158 | 272 | Alan George LaRage |
-| 159 | 272 | Keshia Lyons |
+| 158 | 272 | Keshia Lyons |
+| 159 | 272 | Alan George LaRage |
 | 160 | 271 | Sarah Brown |
 | 161 | 269 | Nikki Rae Gordon |
 | 162 | 268 | Mimi |
@@ -285,11 +285,11 @@
 | 277 | 159 | Marcus Todd |
 | 278 | 159 | DonMega |
 | 279 | 157 | Bethany Ison |
-| 280 | 157 | KayM |
-| 281 | 157 | Paige Kittles |
-| 282 | 157 | B Renee Desjardin |
-| 283 | 156 | Terrance Fung |
-| 284 | 156 | Ultramarine |
+| 280 | 157 | Paige Kittles |
+| 281 | 157 | B Renee Desjardin |
+| 282 | 157 | KayM |
+| 283 | 156 | Ultramarine |
+| 284 | 156 | Terrance Fung |
 | 285 | 154 | Zany Shatterer |
 | 286 | 153 | Shainne Brewer |
 | 287 | 153 | Empress Oasis |

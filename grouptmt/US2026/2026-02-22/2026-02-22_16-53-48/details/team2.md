@@ -258,9 +258,9 @@
 | 250 | 867 | Michele Gabriel |
 | 251 | 867 | Peppy Zone |
 | 252 | 862 | Brittany Radaszewski |
-| 253 | 860 | William Hunt |
-| 254 | 860 | John Bednarik |
-| 255 | 860 | April Dawn Gussler |
+| 253 | 860 | John Bednarik |
+| 254 | 860 | April Dawn Gussler |
+| 255 | 860 | William Hunt |
 | 256 | 857 | Della Hole |
 | 257 | 855 | F-X |
 | 258 | 853 | Maria Escobar |
@@ -362,8 +362,8 @@
 | 354 | 661 | BeQuo |
 | 355 | 659 | Draizen Montrell Thomas |
 | 356 | 651 | Unica Rector |
-| 357 | 650 | Shiny Rollzone |
-| 358 | 650 | Amber Brion |
+| 357 | 650 | Amber Brion |
+| 358 | 650 | Shiny Rollzone |
 | 359 | 644 | AgileDragon |
 | 360 | 643 | Hoppy Brickmatch |
 | 361 | 641 | Vonceial Boone |
@@ -591,8 +591,8 @@
 | 583 | 429 | Tabs Reichert |
 | 584 | 428 | Lynda Toland |
 | 585 | 428 | Shyenn Gadsby |
-| 586 | 427 | Destiny Cozier |
-| 587 | 427 | Sabrina Burton |
+| 586 | 427 | Sabrina Burton |
+| 587 | 427 | Destiny Cozier |
 | 588 | 426 | De Hawkins |
 | 589 | 426 | Ashley Dow |
 | 590 | 425 | Samantha Scibelli |
@@ -608,8 +608,8 @@
 | 600 | 418 | Snappy snappers |
 | 601 | 417 | Alexx Anaya |
 | 602 | 417 | Lauren Fitzgerald Thomas |
-| 603 | 416 | Ricky Fortune |
-| 604 | 416 | Mighty Spinbuilder |
+| 603 | 416 | Mighty Spinbuilder |
+| 604 | 416 | Ricky Fortune |
 | 605 | 414 | John |
 | 606 | 413 | Angi Harrison |
 | 607 | 413 | Kristen O'Neal |
@@ -626,8 +626,8 @@
 | 618 | 407 | Tipsy Filler |
 | 619 | 406 | Erin StFrancis |
 | 620 | 404 | Dawn L Washington-Feuquay |
-| 621 | 403 | Nate Skidmore |
-| 622 | 403 | Goofy Dasher |
+| 621 | 403 | Goofy Dasher |
+| 622 | 403 | Nate Skidmore |
 | 623 | 401 | Jasmine Kenney |
 | 624 | 400 | Kathleen Driskell |
 | 625 | 400 | Tammy Allen |
