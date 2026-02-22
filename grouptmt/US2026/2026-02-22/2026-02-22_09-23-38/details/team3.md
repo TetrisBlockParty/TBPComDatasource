@@ -342,15 +342,15 @@
 | 334 | 175 | Eileen Brady Thurber |
 | 335 | 175 | Becca Engle |
 | 336 | 174 | Lesley Perez |
-| 337 | 173 | Naur |
-| 338 | 173 | BŘŰŤİÇŨŚ |
+| 337 | 173 | BŘŰŤİÇŨŚ |
+| 338 | 173 | Naur |
 | 339 | 169 | Peachy Rollfit |
 | 340 | 169 | Kristian Thurman |
-| 341 | 168 | Trice Thomas |
-| 342 | 168 | April Matthew Kibble |
+| 341 | 168 | April Matthew Kibble |
+| 342 | 168 | Trice Thomas |
 | 343 | 167 | Shicken Nuggit |
-| 344 | 167 | Romeo |
-| 345 | 167 | Irene Arreguin |
+| 344 | 167 | Irene Arreguin |
+| 345 | 167 | Romeo |
 | 346 | 166 | Noettín Kan Zasnemoore |
 | 347 | 166 | Snarky McFace |
 | 348 | 166 | Angella Lyons |
@@ -371,8 +371,8 @@
 | 363 | 161 | Julia Nicole |
 | 364 | 161 | Bouncy Blockbuilder |
 | 365 | 160 | Sunny Lift |
-| 366 | 159 | Salena Whitlock |
-| 367 | 159 | Joshua David Huie |
+| 366 | 159 | Joshua David Huie |
+| 367 | 159 | Salena Whitlock |
 | 368 | 158 | Willow |
 | 369 | 157 | Angel Mendez |
 | 370 | 157 | Steffi Chris Dacones |

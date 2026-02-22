@@ -49,8 +49,8 @@
 | 41 | 757 | Ancient Intuition |
 | 42 | 736 | Goatimus Lombardi |
 | 43 | 734 | BertMofo |
-| 44 | 707 | Clarence Patawaran |
-| 45 | 707 | Rachel Anne |
+| 44 | 707 | Rachel Anne |
+| 45 | 707 | Clarence Patawaran |
 | 46 | 704 | Crystal Carroll |
 | 47 | 697 | Edward White |
 | 48 | 695 | LisaJo Picken Buchanan |
@@ -62,8 +62,8 @@
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Dustee Craddock-Harrison |
-| 58 | 636 | Kimyatta Cavin |
+| 57 | 636 | Kimyatta Cavin |
+| 58 | 636 | Dustee Craddock-Harrison |
 | 59 | 623 | Robin Getchel |
 | 60 | 599 | Brittney Griggs |
 | 61 | 593 | Lisa Davis |
@@ -99,8 +99,8 @@
 | 91 | 407 | Leslie Thomas |
 | 92 | 404 | Courtney Cicoria |
 | 93 | 401 | Zippy Gridlock |
-| 94 | 396 | Amy Suckarieh |
-| 95 | 396 | Alicia Bass |
+| 94 | 396 | Alicia Bass |
+| 95 | 396 | Amy Suckarieh |
 | 96 | 392 | Ericca Eldridge |
 | 97 | 391 | Ramel Rhodes |
 | 98 | 390 | Carlton Unfiltered |
@@ -124,8 +124,8 @@
 | 116 | 303 | Lauren Scott |
 | 117 | 300 | Jason Hart |
 | 118 | 298 | Lucas J Sutton |
-| 119 | 296 | HastyGrabber |
-| 120 | 296 | Justin Hannigan |
+| 119 | 296 | Justin Hannigan |
+| 120 | 296 | HastyGrabber |
 | 121 | 295 | Latisha Davis |
 | 122 | 294 | Kesha Brady |
 | 123 | 290 | 🥔🥔 Spudz |
@@ -192,9 +192,9 @@
 | 184 | 198 | Keith Kelley |
 | 185 | 198 | Jessica Lynn Cutlip |
 | 186 | 196 | Oscar Alberto Perez |
-| 187 | 195 | 中山成巳 |
+| 187 | 195 | ZeeZee |
 | 188 | 195 | Malakai Darien Fox |
-| 189 | 195 | ZeeZee |
+| 189 | 195 | 中山成巳 |
 | 190 | 194 | Zany Twisterfit |
 | 191 | 192 | Shauna Havard |
 | 192 | 191 | Sam Bishop |
@@ -209,13 +209,13 @@
 | 201 | 184 | Ak Jones |
 | 202 | 181 | Carter Jones |
 | 203 | 180 | Rafael Valentin |
-| 204 | 180 | Orchislactea |
-| 205 | 180 | Dihcheese444 |
+| 204 | 180 | Dihcheese444 |
+| 205 | 180 | Orchislactea |
 | 206 | 179 | blockstar |
 | 207 | 178 | TinyLegoRose |
 | 208 | 175 | Lorena Guerrero-Barron |
-| 209 | 174 | JPW |
-| 210 | 174 | Rio Rocha |
+| 209 | 174 | Rio Rocha |
+| 210 | 174 | JPW |
 | 211 | 172 | Gilles Lanctot |
 | 212 | 171 | Autumn Kumzi |
 | 213 | 167 | Cozy Balancer |
@@ -229,8 +229,8 @@
 | 221 | 162 | Joanna |
 | 222 | 161 | Jenny Wells-Oakley |
 | 223 | 160 | Laura Hosford |
-| 224 | 160 | Brittany Marsh |
-| 225 | 160 | Carlos Ramirez |
+| 224 | 160 | Carlos Ramirez |
+| 225 | 160 | Brittany Marsh |
 | 226 | 159 | Marcus Todd |
 | 227 | 158 | Avy Absol |
 | 228 | 158 | Chair |

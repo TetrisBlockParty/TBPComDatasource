@@ -713,8 +713,8 @@
 | 705 | 316 | Jenn Marie |
 | 706 | 316 | Epic Spinfit |
 | 707 | 316 | Johanna Massaro |
-| 708 | 314 | Amanda West |
-| 709 | 314 | Twisty Tetriblast |
+| 708 | 314 | Twisty Tetriblast |
+| 709 | 314 | Amanda West |
 | 710 | 314 | Anita Rose Green |
 | 711 | 313 | Marina Linda |
 | 712 | 313 | Natasha Edmonds |
@@ -732,8 +732,8 @@
 | 724 | 308 | Claire |
 | 725 | 308 | Danielle Ayoub |
 | 726 | 308 | Sarah block |
-| 727 | 307 | Peachy Blockbuilder |
-| 728 | 307 | stacey |
+| 727 | 307 | stacey |
+| 728 | 307 | Peachy Blockbuilder |
 | 729 | 306 | Kiorah Blaze |
 | 730 | 305 | Zany Clusterbuilder |
 | 731 | 305 | MamaBear11 |
@@ -912,8 +912,8 @@
 | 904 | 249 | J.L. Roberts |
 | 905 | 249 | Angela Yantz |
 | 906 | 248 | Jaybee Nguyen |
-| 907 | 248 | CleverAngel |
-| 908 | 248 | Loopy Brickmatch |
+| 907 | 248 | Loopy Brickmatch |
+| 908 | 248 | CleverAngel |
 | 909 | 248 | Angelina Marie |
 | 910 | 247 | Aprill Bolton |
 | 911 | 247 | Karyn Yurcho Dooley |
@@ -975,8 +975,8 @@
 | 967 | 231 | Michelle Fleming Luna |
 | 968 | 231 | Stanley Vanekelenburg |
 | 969 | 230 | lady |
-| 970 | 229 | ItsJennifer Neriss |
-| 971 | 229 | BbqGuru |
+| 970 | 229 | BbqGuru |
+| 971 | 229 | ItsJennifer Neriss |
 | 972 | 229 | Chyrisse Norton |
 | 973 | 229 | Deidre Jenkins |
 | 974 | 229 | Heather Anspaugh |
@@ -1037,8 +1037,8 @@
 | 1029 | 217 | Kyane Johnson |
 | 1030 | 217 | Trisha Gallagher |
 | 1031 | 217 | Christine Lockwood |
-| 1032 | 216 | Monica Wilson |
-| 1033 | 216 | Anthony McAlister |
+| 1032 | 216 | Anthony McAlister |
+| 1033 | 216 | Monica Wilson |
 | 1034 | 216 | Alyssa Nadine Medelez |
 | 1035 | 215 | Stacy Harper |
 | 1036 | 215 | Facuetoo |
