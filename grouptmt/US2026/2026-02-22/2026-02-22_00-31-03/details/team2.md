@@ -199,9 +199,9 @@
 | 191 | 700 | Vincent Petrella |
 | 192 | 699 | Vo'Landa Reels |
 | 193 | 697 | Real Ri |
-| 194 | 692 | Jennifer Casey-Kay |
-| 195 | 692 | Chelle |
-| 196 | 692 | Wendy Harder Gage |
+| 194 | 692 | Wendy Harder Gage |
+| 195 | 692 | Jennifer Casey-Kay |
+| 196 | 692 | Chelle |
 | 197 | 690 | Deborah Miller |
 | 198 | 688 | Dreamy Blast |
 | 199 | 686 | Dannette Goldberg-Richards |
@@ -320,8 +320,8 @@
 | 312 | 469 | Ashley Lopez |
 | 313 | 469 | Jai Jackson |
 | 314 | 468 | Drwatson187 |
-| 315 | 467 | Scott Treadway |
-| 316 | 467 | Dedra Steward |
+| 315 | 467 | Dedra Steward |
+| 316 | 467 | Scott Treadway |
 | 317 | 463 | Sue Leard |
 | 318 | 460 | Barbra Miller |
 | 319 | 460 | Cody Smith-Candelaria |

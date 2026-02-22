@@ -144,8 +144,8 @@
 | 136 | 189 | Calvin Dennis |
 | 137 | 189 | Stacey Stano |
 | 138 | 187 | TheNeesh50 |
-| 139 | 185 | Malakai Darien Fox |
-| 140 | 185 | Andy Cabral |
+| 139 | 185 | Andy Cabral |
+| 140 | 185 | Malakai Darien Fox |
 | 141 | 184 | Justin Hannigan |
 | 142 | 181 | Andria Lynn |
 | 143 | 181 | Klo |

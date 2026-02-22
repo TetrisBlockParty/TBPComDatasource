@@ -41,8 +41,8 @@
 | 33 | 650 | TSwag |
 | 34 | 632 | Susanna Guerry |
 | 35 | 587 | Marianne Louise West |
-| 36 | 585 | Jennifer Cates |
-| 37 | 585 | Angel Fowler |
+| 36 | 585 | Angel Fowler |
+| 37 | 585 | Jennifer Cates |
 | 38 | 570 | Cody Slav |
 | 39 | 550 | Kristen Roles Robben |
 | 40 | 543 | Aaron Garnett |
@@ -156,12 +156,12 @@
 | 148 | 186 | Katie Daniels |
 | 149 | 185 | Basment Living |
 | 150 | 183 | Michael |
-| 151 | 180 | BigWeenie69 |
-| 152 | 180 | Erez Yosef |
+| 151 | 180 | Erez Yosef |
+| 152 | 180 | BigWeenie69 |
 | 153 | 179 | Danielle Little-Daugherty |
 | 154 | 178 | Chad Atchley |
-| 155 | 177 | ParisandCory Champagne |
-| 156 | 177 | Irual Hctrab |
+| 155 | 177 | Irual Hctrab |
+| 156 | 177 | ParisandCory Champagne |
 | 157 | 175 | John Barron |
 | 158 | 171 | Greg Premoe |
 | 159 | 171 | femmefatale |

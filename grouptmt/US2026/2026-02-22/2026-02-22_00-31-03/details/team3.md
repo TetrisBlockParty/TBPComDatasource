@@ -69,14 +69,14 @@
 | 61 | 621 | Ebony West-Cundiff |
 | 62 | 620 | Elaine Webb Graves |
 | 63 | 619 | Jennifer |
-| 64 | 618 | MissTaylor |
-| 65 | 618 | Brandon Green |
+| 64 | 618 | Brandon Green |
+| 65 | 618 | MissTaylor |
 | 66 | 613 | Amber Hughes |
 | 67 | 604 | Danielle Becker |
 | 68 | 591 | Suzieq |
 | 69 | 588 | yoyo |
-| 70 | 582 | Katrina Schroeder |
-| 71 | 582 | Natasha Jones |
+| 70 | 582 | Natasha Jones |
+| 71 | 582 | Katrina Schroeder |
 | 72 | 581 | Danielle Mogg |
 | 73 | 580 | Amanda L Baker |
 | 74 | 576 | Dan Rob |
@@ -129,8 +129,8 @@
 | 121 | 378 | Makelini Mausia |
 | 122 | 378 | Tasha Schriewer |
 | 123 | 374 | Loopy Clusterer |
-| 124 | 368 | Stephanie Woods |
-| 125 | 368 | Stephanie Blkpep Davidson |
+| 124 | 368 | Stephanie Blkpep Davidson |
+| 125 | 368 | Stephanie Woods |
 | 126 | 367 | mjl574 |
 | 127 | 366 | Adrian Marcel Pate |
 | 128 | 358 | Tasha Gillespie |
