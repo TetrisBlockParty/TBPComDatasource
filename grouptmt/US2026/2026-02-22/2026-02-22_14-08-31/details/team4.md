@@ -143,10 +143,10 @@
 | 135 | 287 | Shannon Ferrari |
 | 136 | 286 | shark tato |
 | 137 | 283 | Brittney Orengo |
-| 138 | 281 | Lindsay Ball |
-| 139 | 281 | Meagan Nicole |
-| 140 | 278 | Carrie Brian |
-| 141 | 278 | Leah Kutz Zirbel |
+| 138 | 281 | Meagan Nicole |
+| 139 | 281 | Lindsay Ball |
+| 140 | 278 | Leah Kutz Zirbel |
+| 141 | 278 | Carrie Brian |
 | 142 | 277 | Mary Ann Pabukis |
 | 143 | 275 | Dizzy Tiley |
 | 144 | 274 | Calvin Cannon |
@@ -199,10 +199,10 @@
 | 191 | 212 | Joanna |
 | 192 | 211 | Jenna McGeorge |
 | 193 | 210 | Austin Owens |
-| 194 | 209 | Rafael Valentin |
-| 195 | 209 | Sam Bishop |
-| 196 | 207 | Chirpy Basepiece |
-| 197 | 207 | scott |
+| 194 | 209 | Sam Bishop |
+| 195 | 209 | Rafael Valentin |
+| 196 | 207 | scott |
+| 197 | 207 | Chirpy Basepiece |
 | 198 | 206 | Ruben Wheeler |
 | 199 | 205 | Kathy Brookins |
 | 200 | 205 | Lindsey Gonzalez |
@@ -215,8 +215,8 @@
 | 207 | 198 | Keith Kelley |
 | 208 | 198 | Zesty Twistbuilder |
 | 209 | 197 | Silly SeaWeed |
-| 210 | 196 | Oscar Alberto Perez |
-| 211 | 196 | Mr. Party |
+| 210 | 196 | Mr. Party |
+| 211 | 196 | Oscar Alberto Perez |
 | 212 | 195 | 中山成巳 |
 | 213 | 195 | Malakai Darien Fox |
 | 214 | 194 | Zany Twisterfit |

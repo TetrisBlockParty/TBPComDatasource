@@ -1251,8 +1251,8 @@
 | 1243 | 194 | Chilly Linkfall |
 | 1244 | 194 | Brenda |
 | 1245 | 194 | ToastersBath |
-| 1246 | 194 | Martina Gabrielle LaPolla |
-| 1247 | 194 | Katrina Willmon |
+| 1246 | 194 | Katrina Willmon |
+| 1247 | 194 | Martina Gabrielle LaPolla |
 | 1248 | 193 | Veronica Martin Trinkle |
 | 1249 | 193 | Sherilyn Huie |
 | 1250 | 193 | Kristen Casale Berry |
