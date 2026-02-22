@@ -119,8 +119,8 @@
 | 111 | 506 | Sashay Tapae Simpson |
 | 112 | 502 | Justin Ritter |
 | 113 | 502 | Elissa S-k |
-| 114 | 500 | Kristie |
-| 115 | 500 | Domo Washington |
+| 114 | 500 | Domo Washington |
+| 115 | 500 | Kristie |
 | 116 | 497 | Mykal Burton |
 | 117 | 492 | Daira Largen |
 | 118 | 491 | Chauntee Alfrey-Cardinale |
