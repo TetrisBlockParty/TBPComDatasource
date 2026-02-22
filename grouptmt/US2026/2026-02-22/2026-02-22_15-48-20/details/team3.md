@@ -67,8 +67,8 @@
 | 59 | 909 | Jennifer |
 | 60 | 908 | Alanna Rogers |
 | 61 | 903 | Sarah Fehring |
-| 62 | 895 | Amanda L Baker |
-| 63 | 895 | Shonna Roberts |
+| 62 | 895 | Shonna Roberts |
+| 63 | 895 | Amanda L Baker |
 | 64 | 893 | Khristen AC |
 | 65 | 882 | Susan Valentino |
 | 66 | 881 | Nate Burnside |
@@ -207,8 +207,8 @@
 | 199 | 349 | Amanda J. Mcneil-Anderson |
 | 200 | 346 | Tamara Deherrera |
 | 201 | 343 | Ashley Raines |
-| 202 | 341 | Samantha Lynn |
-| 203 | 341 | Noyb Adam |
+| 202 | 341 | Noyb Adam |
+| 203 | 341 | Samantha Lynn |
 | 204 | 340 | Ammmmmmy |
 | 205 | 338 | Gumbo |
 | 206 | 332 | Rich LeBlanc |
@@ -235,8 +235,8 @@
 | 227 | 305 | Rebecca Bailey |
 | 228 | 301 | Betty Rosas |
 | 229 | 300 | Sherika C. McDaniels |
-| 230 | 299 | Brandon Givens |
-| 231 | 299 | Melissa Orth Hunter |
+| 230 | 299 | Melissa Orth Hunter |
+| 231 | 299 | Brandon Givens |
 | 232 | 298 | MsBee |
 | 233 | 297 | Jojo M |
 | 234 | 296 | Katrina Turner |
@@ -248,8 +248,8 @@
 | 240 | 286 | Tye Stovall |
 | 241 | 284 | Denise Nardoni |
 | 242 | 283 | Cheeky Snapper |
-| 243 | 283 | Sarah Moyer |
-| 244 | 283 | Eon Harris |
+| 243 | 283 | Eon Harris |
+| 244 | 283 | Sarah Moyer |
 | 245 | 282 | Marquita Sheard |
 | 246 | 281 | Carrie Huskey |
 | 247 | 279 | Terry Jo Jones |
@@ -261,15 +261,15 @@
 | 253 | 272 | Tasha Wesson-Torrence |
 | 254 | 272 | Dee Franklin |
 | 255 | 271 | Cass Mendoza |
-| 256 | 271 | Alexmac |
-| 257 | 271 | Grego Daniel |
+| 256 | 271 | Grego Daniel |
+| 257 | 271 | Alexmac |
 | 258 | 267 | Tiffany Davie |
 | 259 | 266 | Quirky Dropzone |
-| 260 | 262 | Ray Lader |
-| 261 | 262 | Joe-Maggie Mathews |
+| 260 | 262 | Joe-Maggie Mathews |
+| 261 | 262 | Ray Lader |
 | 262 | 261 | Tiffany Ford |
-| 263 | 260 | Nikki Pags |
-| 264 | 260 | Grams |
+| 263 | 260 | Grams |
+| 264 | 260 | Nikki Pags |
 | 265 | 259 | Danielle Weikel |
 | 266 | 258 | IamJust Neyamijah Washington Sr. |
 | 267 | 257 | Ashley Jones |
@@ -354,8 +354,8 @@
 | 346 | 200 | Colleen Phelps |
 | 347 | 200 | Saucy Buildout |
 | 348 | 199 | Samantha Worley |
-| 349 | 199 | Kristian Thurman |
-| 350 | 199 | Mariah Williams |
+| 349 | 199 | Mariah Williams |
+| 350 | 199 | Kristian Thurman |
 | 351 | 198 | Goofy Fall |
 | 352 | 198 | Zac Hudak |
 | 353 | 196 | Ashley Lynn Marchese |

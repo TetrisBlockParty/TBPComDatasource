@@ -173,10 +173,10 @@
 | 165 | 263 | Ty Brown |
 | 166 | 262 | Sleepysloath5745 |
 | 167 | 257 | Shannon Marie Pitts |
-| 168 | 254 | Al Smith Jr |
-| 169 | 254 | Letson Melissa |
-| 170 | 253 | Jamie Jury |
-| 171 | 253 | Witty Builderfit |
+| 168 | 254 | Letson Melissa |
+| 169 | 254 | Al Smith Jr |
+| 170 | 253 | Witty Builderfit |
+| 171 | 253 | Jamie Jury |
 | 172 | 252 | Dena Kayy |
 | 173 | 251 | Giggly Builderline |
 | 174 | 249 | ALFD |
@@ -287,8 +287,8 @@
 | 279 | 173 | Cranky Pattern |
 | 280 | 171 | Greg Premoe |
 | 281 | 171 | Chris65 |
-| 282 | 170 | Tina Englert |
-| 283 | 170 | Spunky Builderpiece |
+| 282 | 170 | Spunky Builderpiece |
+| 283 | 170 | Tina Englert |
 | 284 | 169 | Allena Craft |
 | 285 | 169 | Abbey Crespo |
 | 286 | 168 | Angela Fairbank |

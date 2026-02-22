@@ -43,8 +43,8 @@
 | 35 | 873 | Elizabeth Sallas |
 | 36 | 871 | Denny Shives |
 | 37 | 846 | Christine Marie |
-| 38 | 843 | Shelly Chandler |
-| 39 | 843 | Lucille Truesdale |
+| 38 | 843 | Lucille Truesdale |
+| 39 | 843 | Shelly Chandler |
 | 40 | 834 | quicksand420 |
 | 41 | 829 | LisaJo Picken Buchanan |
 | 42 | 823 | Jae Job |
@@ -143,8 +143,8 @@
 | 135 | 314 | Andy Cabral |
 | 136 | 304 | Guy Incognito |
 | 137 | 303 | Lauren Scott |
-| 138 | 300 | Dana Scott |
-| 139 | 300 | Jason Hart |
+| 138 | 300 | Jason Hart |
+| 139 | 300 | Dana Scott |
 | 140 | 299 | TRCuse |
 | 141 | 298 | Lucas J Sutton |
 | 142 | 295 | Bio Nelly |
@@ -162,8 +162,8 @@
 | 154 | 275 | Dizzy Tiley |
 | 155 | 274 | Calvin Cannon |
 | 156 | 273 | Crystal Nicolette Moore |
-| 157 | 272 | Keshia Lyons |
-| 158 | 272 | Alan George LaRage |
+| 157 | 272 | Alan George LaRage |
+| 158 | 272 | Keshia Lyons |
 | 159 | 271 | Sarah Brown |
 | 160 | 269 | Nikki Rae Gordon |
 | 161 | 268 | Cursed Hag |
@@ -247,8 +247,8 @@
 | 239 | 186 | Cristy Duerksen |
 | 240 | 186 | Holly |
 | 241 | 185 | Laura Hosford |
-| 242 | 184 | Lauren Lamb |
-| 243 | 184 | Ak Jones |
+| 242 | 184 | Ak Jones |
+| 243 | 184 | Lauren Lamb |
 | 244 | 183 | JPW |
 | 245 | 181 | Carter Jones |
 | 246 | 181 | Jackie Marie |
@@ -311,10 +311,10 @@
 | 303 | 145 | Daring Pivot |
 | 304 | 145 | Nick Gray |
 | 305 | 144 | Sticherella |
-| 306 | 144 | Circuit8 |
-| 307 | 144 | Maureen Flanigan |
-| 308 | 143 | Metsfan |
-| 309 | 143 | Asher |
+| 306 | 144 | Maureen Flanigan |
+| 307 | 144 | Circuit8 |
+| 308 | 143 | Asher |
+| 309 | 143 | Metsfan |
 | 310 | 143 | Daresha Fair |
 | 311 | 142 | Cynthia Boudreau |
 | 312 | 142 | Chantilly Laace |
@@ -350,8 +350,8 @@
 | 342 | 132 | Degenerate |
 | 343 | 132 | Jessica Cagle |
 | 344 | 132 | Vamp |
-| 345 | 131 | Smiley Tiltbuilder |
-| 346 | 131 | Peppy Drop |
+| 345 | 131 | Peppy Drop |
+| 346 | 131 | Smiley Tiltbuilder |
 | 347 | 130 | Shukee Lo |
 | 348 | 130 | Zach Kerbs |
 | 349 | 130 | icequeenx |
@@ -471,8 +471,8 @@
 | 463 | 98 | Hyper Builder |
 | 464 | 98 | Squeezy Pearsall |
 | 465 | 98 | Groovy Gridlock |
-| 466 | 97 | Flavoredsausage |
-| 467 | 97 | Serena Butter |
+| 466 | 97 | Serena Butter |
+| 467 | 97 | Flavoredsausage |
 | 468 | 96 | Rebecca Blake |
 | 469 | 96 | Nicole McMurray |
 | 470 | 95 | RedBoots82 |
