@@ -130,8 +130,8 @@
 | 122 | 373 | Joseph Guthrie |
 | 123 | 369 | Nope Young |
 | 124 | 356 | Serena Goodridge |
-| 125 | 353 | Tyler Terrific |
-| 126 | 353 | Livvy |
+| 125 | 353 | Livvy |
+| 126 | 353 | Tyler Terrific |
 | 127 | 344 | Lush Linkfall |
 | 128 | 343 | Latisha Davis |
 | 129 | 338 | Lucas J Sutton |
@@ -397,10 +397,10 @@
 | 389 | 129 | Dreamy Snapgrid |
 | 390 | 128 | Denise B |
 | 391 | 128 | Silly Zonebuilder |
-| 392 | 128 | Raymond Roberts |
-| 393 | 128 | Madison Sweere |
-| 394 | 127 | Robert Rodriguez |
-| 395 | 127 | Gdiguy |
+| 392 | 128 | Madison Sweere |
+| 393 | 128 | Raymond Roberts |
+| 394 | 127 | Gdiguy |
+| 395 | 127 | Robert Rodriguez |
 | 396 | 127 | Frank Cook |
 | 397 | 126 | PAPatty |
 | 398 | 126 | Jim Hart |
@@ -417,8 +417,8 @@
 | 409 | 122 | Blessedmama |
 | 410 | 122 | PennyCandee |
 | 411 | 122 | Kate |
-| 412 | 121 | Cool Gridzone |
-| 413 | 121 | Riverdale |
+| 412 | 121 | Riverdale |
+| 413 | 121 | Cool Gridzone |
 | 414 | 120 | Bryan Hodgins |
 | 415 | 120 | Jay You |
 | 416 | 119 | River Shady Sr. |
@@ -490,8 +490,8 @@
 | 482 | 104 | Kametsunoyaiba |
 | 483 | 104 | Jeff Roberts |
 | 484 | 103 | Lilya Troutman |
-| 485 | 102 | Katie Alexander |
-| 486 | 102 | Christina O'Dell-Ishau |
+| 485 | 102 | Christina O'Dell-Ishau |
+| 486 | 102 | Katie Alexander |
 | 487 | 102 | Candice Carasiti |
 | 488 | 101 | Brittany Little |
 | 489 | 101 | Jen Mattei |

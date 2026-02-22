@@ -130,18 +130,18 @@
 | 122 | 357 | Dandy Basegrid |
 | 123 | 355 | Hasbro Bros |
 | 124 | 352 | Jason Jones |
-| 125 | 350 | Sweet Baker |
-| 126 | 350 | Tipsy Strikerpiece |
+| 125 | 350 | Tipsy Strikerpiece |
+| 126 | 350 | Sweet Baker |
 | 127 | 344 | Bhelle Sumile |
 | 128 | 343 | Death |
 | 129 | 341 | Nick R Montague |
 | 130 | 340 | Tanya Carpenter-Reynolds |
 | 131 | 336 | Elaine Elaine |
 | 132 | 334 | Jaimie Lynn |
-| 133 | 333 | GATOR |
-| 134 | 333 | Gracie |
-| 135 | 332 | Kristen Gideon |
-| 136 | 332 | Lehrin Maria |
+| 133 | 333 | Gracie |
+| 134 | 333 | GATOR |
+| 135 | 332 | Lehrin Maria |
+| 136 | 332 | Kristen Gideon |
 | 137 | 328 | Fmp |
 | 138 | 326 | Monica Donato |
 | 139 | 325 | Jennifer Hardman |

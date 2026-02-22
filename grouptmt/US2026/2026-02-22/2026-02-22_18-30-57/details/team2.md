@@ -133,8 +133,8 @@
 | 125 | 1439 | Jumpy Gridpiece |
 | 126 | 1435 | Jessie McDougald |
 | 127 | 1418 | L3sli3 |
-| 128 | 1411 | Zappy Cascade |
-| 129 | 1411 | niecy |
+| 128 | 1411 | niecy |
+| 129 | 1411 | Zappy Cascade |
 | 130 | 1384 | Katrina Williams Balmir |
 | 131 | 1383 | Ladyrainbootz |
 | 132 | 1380 | Jose Mendoza |
@@ -187,8 +187,8 @@
 | 179 | 1147 | Kiok |
 | 180 | 1138 | Megan Ferguson Leone |
 | 181 | 1132 | Anna Edwards |
-| 182 | 1131 | Prado |
-| 183 | 1131 | Stacey Clement |
+| 182 | 1131 | Stacey Clement |
+| 183 | 1131 | Prado |
 | 184 | 1117 | Ricardo Burton |
 | 185 | 1112 | Adam Erikson |
 | 186 | 1105 | Nerdy Clearfit |
@@ -468,8 +468,8 @@
 | 460 | 540 | Melissa Kay Gibson |
 | 461 | 540 | Joshua Self |
 | 462 | 534 | Alexandra Weir |
-| 463 | 533 | Davetta Sanford |
-| 464 | 533 | Gauri Shrotriya |
+| 463 | 533 | Gauri Shrotriya |
+| 464 | 533 | Davetta Sanford |
 | 465 | 532 | Ann Matzkanin |
 | 466 | 531 | Briana Alexander |
 | 467 | 531 | Aishah Brice |
@@ -606,8 +606,8 @@
 | 598 | 434 | bbv |
 | 599 | 432 | Abimbola Bimbo |
 | 600 | 432 | Lucy Marshall |
-| 601 | 431 | Hunter Connors |
-| 602 | 431 | Quinn |
+| 601 | 431 | Quinn |
+| 602 | 431 | Hunter Connors |
 | 603 | 429 | Tabs Reichert |
 | 604 | 429 | Angel Hunnewell |
 | 605 | 428 | Shyenn Gadsby |
@@ -665,8 +665,8 @@
 | 657 | 396 | AkaLefty |
 | 658 | 396 | Boogie SoAnimated Johnson |
 | 659 | 395 | Vung Nguyen |
-| 660 | 393 | Misti Markijohn |
-| 661 | 393 | Deyawn Smith |
+| 660 | 393 | Deyawn Smith |
+| 661 | 393 | Misti Markijohn |
 | 662 | 393 | Jamie West |
 | 663 | 393 | Smashanator |
 | 664 | 391 | Qiana Sanders |
@@ -824,8 +824,8 @@
 | 816 | 319 | RetroLemur |
 | 817 | 319 | Giggly Snap |
 | 818 | 319 | Cheery Puzzler |
-| 819 | 318 | Jeffrey Barrows |
-| 820 | 318 | Ashlyn Berner |
+| 819 | 318 | Ashlyn Berner |
+| 820 | 318 | Jeffrey Barrows |
 | 821 | 317 | Zombi3 |
 | 822 | 317 | R |
 | 823 | 317 | Donald Nowland |
