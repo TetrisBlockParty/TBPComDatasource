@@ -139,8 +139,8 @@
 | 131 | 574 | Morgan Martinez |
 | 132 | 572 | CeceGeGe |
 | 133 | 568 | Rachael McClain Owens |
-| 134 | 562 | Dave Herzog |
-| 135 | 562 | Louise Stacy Sisson |
+| 134 | 562 | Louise Stacy Sisson |
+| 135 | 562 | Dave Herzog |
 | 136 | 558 | Nicole Myers |
 | 137 | 557 | Domo Washington |
 | 138 | 554 | Leah Barnett |
@@ -225,8 +225,8 @@
 | 217 | 369 | RickyG |
 | 218 | 368 | Stephanie Woods |
 | 219 | 367 | Loopy Fallmatch |
-| 220 | 365 | Chummy Caster |
-| 221 | 365 | Tiffany Ford |
+| 220 | 365 | Tiffany Ford |
+| 221 | 365 | Chummy Caster |
 | 222 | 362 | Brandon Givens |
 | 223 | 360 | Sheila M Frazier |
 | 224 | 357 | Stephanie Burtin |
@@ -236,11 +236,11 @@
 | 228 | 350 | Kammy Hill |
 | 229 | 349 | Amanda J. Mcneil-Anderson |
 | 230 | 348 | Kristal C Lee |
-| 231 | 347 | Trisha Balmer |
-| 232 | 347 | Philip Rock |
+| 231 | 347 | Philip Rock |
+| 232 | 347 | Trisha Balmer |
 | 233 | 346 | Tamara Deherrera |
-| 234 | 344 | Rania Zaqout |
-| 235 | 344 | Roary Danner |
+| 234 | 344 | Roary Danner |
+| 235 | 344 | Rania Zaqout |
 | 236 | 343 | Ashley Raines |
 | 237 | 341 | Samantha Lynn |
 | 238 | 341 | Noyb Adam |
@@ -265,18 +265,18 @@
 | 257 | 309 | Felicia Rocha |
 | 258 | 308 | Katrina Turner |
 | 259 | 308 | Cynthia Herrmann Egland |
-| 260 | 307 | Blocked |
-| 261 | 307 | rnr junky |
+| 260 | 307 | rnr junky |
+| 261 | 307 | Blocked |
 | 262 | 304 | Marquita Sheard |
 | 263 | 303 | Alexmac |
 | 264 | 302 | Gray Hicks |
 | 265 | 301 | Betty Rosas |
 | 266 | 300 | Tiffany Davie |
-| 267 | 299 | Angie Harper |
-| 268 | 299 | Ray Lader |
+| 267 | 299 | Ray Lader |
+| 268 | 299 | Angie Harper |
 | 269 | 298 | Grams |
-| 270 | 297 | Jojo M |
-| 271 | 297 | kacihall |
+| 270 | 297 | kacihall |
+| 271 | 297 | Jojo M |
 | 272 | 296 | Hoppy Buildout |
 | 273 | 294 | Tasha Wesson-Torrence |
 | 274 | 293 | Terry Jo Jones |

@@ -61,8 +61,8 @@
 | 53 | 766 | Robin Watters |
 | 54 | 763 | Ashley Ingram |
 | 55 | 757 | Ancient Intuition |
-| 56 | 751 | Jason Allen |
-| 57 | 751 | Rachel Anne |
+| 56 | 751 | Rachel Anne |
+| 57 | 751 | Jason Allen |
 | 58 | 745 | Robin Getchel |
 | 59 | 736 | Goatimus Lombardi |
 | 60 | 735 | Avy Absol |
@@ -78,13 +78,13 @@
 | 70 | 664 | Valerie Roberts |
 | 71 | 659 | Jonathan Kimbrough |
 | 72 | 655 | Carolyn Wallace |
-| 73 | 647 | Shauna Havard |
-| 74 | 647 | KM8 |
+| 73 | 647 | KM8 |
+| 74 | 647 | Shauna Havard |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 633 | Lisa Davis |
 | 77 | 626 | Brittney Griggs |
-| 78 | 617 | Jason Hart |
-| 79 | 617 | Savannah Overdorf |
+| 78 | 617 | Savannah Overdorf |
+| 79 | 617 | Jason Hart |
 | 80 | 614 | TheNeesh50 |
 | 81 | 597 | Eric Mcgaughy |
 | 82 | 596 | Judy Cox |
@@ -101,8 +101,8 @@
 | 93 | 544 | Amy Suckarieh |
 | 94 | 533 | Samantha Peterson |
 | 95 | 519 | Nugget |
-| 96 | 513 | Erin Thomas |
-| 97 | 513 | YoMomma |
+| 96 | 513 | YoMomma |
+| 97 | 513 | Erin Thomas |
 | 98 | 512 | Casey Jeffcoat |
 | 99 | 512 | Diana Houts |
 | 100 | 511 | Zippy Gridlock |
@@ -228,8 +228,8 @@
 | 220 | 245 | 23 |
 | 221 | 243 | Mr. Party |
 | 222 | 241 | Allen Lloyd |
-| 223 | 238 | JPW |
-| 224 | 238 | Zesty Twistbuilder |
+| 223 | 238 | Zesty Twistbuilder |
+| 224 | 238 | JPW |
 | 225 | 237 | April Rondinone |
 | 226 | 236 | Kim Hunt |
 | 227 | 235 | LaDonna LovinmesomeMe Lambert |

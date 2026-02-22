@@ -309,8 +309,8 @@
 | 301 | 191 | John Garza |
 | 302 | 191 | Sarah Marie |
 | 303 | 190 | Sweetts |
-| 304 | 189 | Bird Person |
-| 305 | 189 | Tawnya Peltonen |
+| 304 | 189 | Tawnya Peltonen |
+| 305 | 189 | Bird Person |
 | 306 | 188 | Betsy |
 | 307 | 187 | GringaLinga |
 | 308 | 187 | Fresno Beotoni |
@@ -448,7 +448,7 @@
 | 440 | 132 | Angela Ellyson |
 | 441 | 132 | Javyjavz |
 | 442 | 131 | Plucky Wrecker |
-| 443 | 130 | Shiny Brickclear |
+| 443 | 130 | Carl Claunch |
 | 444 | 130 | Katie Toothman |
 | 445 | 130 | Shiny Brickclear |
 | 446 | 129 | Sherri E Woods Hess |
