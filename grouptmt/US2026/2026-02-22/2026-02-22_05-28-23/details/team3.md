@@ -48,8 +48,8 @@
 | 40 | 1036 | Ant Ant |
 | 41 | 1015 | Amber Jones |
 | 42 | 998 | Liv Whetson |
-| 43 | 989 | Joey Banks |
-| 44 | 989 | Kay |
+| 43 | 989 | Kay |
+| 44 | 989 | Joey Banks |
 | 45 | 976 | Jeana Gilbert |
 | 46 | 975 | Stephanie Rice |
 | 47 | 956 | Gracie |
@@ -91,8 +91,8 @@
 | 83 | 608 | Danielle Becker |
 | 84 | 591 | Jesse Olive |
 | 85 | 588 | yoyo |
-| 86 | 582 | Speedy Bridger |
-| 87 | 582 | Jay Horn |
+| 86 | 582 | Jay Horn |
+| 87 | 582 | Speedy Bridger |
 | 88 | 582 | Natasha Jones |
 | 89 | 581 | Danielle Mogg |
 | 90 | 576 | Dan Rob |
@@ -148,8 +148,8 @@
 | 140 | 399 | Patti Skiles |
 | 141 | 397 | Annie Déè |
 | 142 | 396 | Aaron Pitkin |
-| 143 | 392 | Tasha Gillespie |
-| 144 | 392 | Katie Knaus |
+| 143 | 392 | Katie Knaus |
+| 144 | 392 | Tasha Gillespie |
 | 145 | 391 | Calista Jo Dickson |
 | 146 | 390 | Hasty Cascadefit |
 | 147 | 389 | Jeni Dow |
@@ -179,8 +179,8 @@
 | 171 | 325 | Giddy Twistbuilder |
 | 172 | 323 | Demetrious Shaw Sr. |
 | 173 | 320 | Or Reznitsky |
-| 174 | 317 | Ashley Tookes |
-| 175 | 317 | Rebecca Funderburk Kirby |
+| 174 | 317 | Rebecca Funderburk Kirby |
+| 175 | 317 | Ashley Tookes |
 | 176 | 315 | Kammy Hill |
 | 177 | 311 | Raya |
 | 178 | 308 | Rania Zaqout |

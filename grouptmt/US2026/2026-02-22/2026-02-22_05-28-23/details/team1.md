@@ -140,8 +140,8 @@
 | 132 | 249 | Kimmie Kimms |
 | 133 | 248 | Lori Bales |
 | 134 | 247 | Tana |
-| 135 | 243 | Trippy Redd |
-| 136 | 243 | Chelsea Dahlquist |
+| 135 | 243 | Chelsea Dahlquist |
+| 136 | 243 | Trippy Redd |
 | 137 | 241 | John J. Cronin |
 | 138 | 236 | Mandyy Rae |
 | 139 | 235 | lil mickey |
