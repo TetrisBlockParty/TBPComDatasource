@@ -76,8 +76,8 @@
 | 68 | 409 | Isabella Blanco |
 | 69 | 402 | Courtney Cicoria |
 | 70 | 399 | Jenna Ingersoll |
-| 71 | 396 | Amy Suckarieh |
-| 72 | 396 | Alicia Bass |
+| 71 | 396 | Alicia Bass |
+| 72 | 396 | Amy Suckarieh |
 | 73 | 391 | Ramel Rhodes |
 | 74 | 390 | Carlton Unfiltered |
 | 75 | 388 | YoMomma |

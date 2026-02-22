@@ -296,8 +296,8 @@
 | 288 | 548 | Slip |
 | 289 | 547 | Giggy Blocker |
 | 290 | 544 | Leah Keesling |
-| 291 | 543 | Adira Brown |
-| 292 | 543 | Teresa Gillmore |
+| 291 | 543 | Teresa Gillmore |
+| 292 | 543 | Adira Brown |
 | 293 | 537 | Cherica Taylor |
 | 294 | 535 | Jessie McDougald |
 | 295 | 535 | Paul Huber |

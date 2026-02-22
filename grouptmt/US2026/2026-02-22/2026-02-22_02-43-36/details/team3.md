@@ -234,8 +234,8 @@
 | 226 | 211 | Khaleada McGill Banks |
 | 227 | 211 | Katrina Turner |
 | 228 | 209 | Trisha Balmer |
-| 229 | 207 | Chris Bell |
-| 230 | 207 | Jessica |
+| 229 | 207 | Jessica |
+| 230 | 207 | Chris Bell |
 | 231 | 205 | Sarah Moyer |
 | 232 | 204 | Aerian Preston |
 | 233 | 204 | Desiree Gold |
@@ -324,8 +324,8 @@
 | 316 | 149 | Alexis Taylor |
 | 317 | 147 | David Bardo |
 | 318 | 146 | Ava Petito |
-| 319 | 145 | Funky Jumper |
-| 320 | 145 | Bryan Byrd |
+| 319 | 145 | Bryan Byrd |
+| 320 | 145 | Funky Jumper |
 | 321 | 144 | Tenisha Semidey |
 | 322 | 143 | Alice |
 | 323 | 142 | Criss |
