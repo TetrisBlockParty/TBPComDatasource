@@ -74,8 +74,8 @@
 | 66 | 704 | Crystal Carroll |
 | 67 | 679 | D3TROITB0RN74 |
 | 68 | 671 | Kimyatta Cavin |
-| 69 | 664 | Julian Garcia |
-| 70 | 664 | Valerie Roberts |
+| 69 | 664 | Valerie Roberts |
+| 70 | 664 | Julian Garcia |
 | 71 | 659 | Jonathan Kimbrough |
 | 72 | 655 | Carolyn Wallace |
 | 73 | 647 | KM8 |
@@ -96,8 +96,8 @@
 | 88 | 575 | Jeremy Steines |
 | 89 | 561 | H.R. Block |
 | 90 | 557 | Carmethia Clemons Haslerig |
-| 91 | 547 | Chris Baggett |
-| 92 | 547 | Amy Suckarieh |
+| 91 | 547 | Amy Suckarieh |
+| 92 | 547 | Chris Baggett |
 | 93 | 546 | Amelpss |
 | 94 | 533 | Samantha Peterson |
 | 95 | 531 | Isabella Blanco |
@@ -123,8 +123,8 @@
 | 115 | 458 | Twisty Clicky |
 | 116 | 448 | Kristin Manee |
 | 117 | 435 | Leslie Thomas |
-| 118 | 431 | Courtney Cicoria |
-| 119 | 431 | Jolly Dashfit |
+| 118 | 431 | Jolly Dashfit |
+| 119 | 431 | Courtney Cicoria |
 | 120 | 429 | Ren Mc |
 | 121 | 427 | KJ Pool |
 | 122 | 418 | Dizzy Tiley |
@@ -133,8 +133,8 @@
 | 125 | 409 | Marie-Pier Desjardins |
 | 126 | 408 | Amanda Pauldo-Ivy |
 | 127 | 400 | Ericca Eldridge |
-| 128 | 393 | Trish |
-| 129 | 393 | Carlton Unfiltered |
+| 128 | 393 | Carlton Unfiltered |
+| 129 | 393 | Trish |
 | 130 | 392 | Cristy Duerksen |
 | 131 | 391 | Ramel Rhodes |
 | 132 | 391 | Lush Linkfall |

@@ -151,8 +151,8 @@
 | 143 | 1423 | Auntie B |
 | 144 | 1418 | L3sli3 |
 | 145 | 1412 | Angi Harrison |
-| 146 | 1411 | Zappy Cascade |
-| 147 | 1411 | niecy |
+| 146 | 1411 | niecy |
+| 147 | 1411 | Zappy Cascade |
 | 148 | 1401 | Brandy Andre |
 | 149 | 1397 | Bussyiano Page |
 | 150 | 1395 | Alisa Lamb |
@@ -310,16 +310,16 @@
 | 302 | 840 | Caitlin Schmid |
 | 303 | 838 | Steve Man |
 | 304 | 838 | Wakanda Forever |
-| 305 | 833 | Tim Dyer |
+| 305 | 833 | Moni Foxe |
 | 306 | 833 | Cody Nishimura |
-| 307 | 833 | Moni Foxe |
+| 307 | 833 | Tim Dyer |
 | 308 | 824 | Chirpy Staggerpiece |
 | 309 | 821 | Angie Bolton Workman |
 | 310 | 821 | Diallo Sparkman |
 | 311 | 818 | Lola Contreras |
 | 312 | 817 | Nett |
-| 313 | 816 | Jessica Wayne Cornwall |
-| 314 | 816 | James Simms III |
+| 313 | 816 | James Simms III |
+| 314 | 816 | Jessica Wayne Cornwall |
 | 315 | 810 | Andrea Maher |
 | 316 | 808 | Melissa McCall |
 | 317 | 808 | Desire Rice |
@@ -356,12 +356,12 @@
 | 348 | 751 | Loony Snapper |
 | 349 | 746 | Jerilyn Andrina |
 | 350 | 745 | Kiely Tomaskovich |
-| 351 | 743 | Melissa Cole |
-| 352 | 743 | Tiara Elizabeth Baker |
+| 351 | 743 | Tiara Elizabeth Baker |
+| 352 | 743 | Melissa Cole |
 | 353 | 741 | Mandi Douglas Hilt |
 | 354 | 740 | Jerry Tempelmeyer |
-| 355 | 739 | Jánine Riggs |
-| 356 | 739 | Brenda Utphall |
+| 355 | 739 | Brenda Utphall |
+| 356 | 739 | Jánine Riggs |
 | 357 | 738 | Aimee Campbell |
 | 358 | 737 | Jeremy Parodi |
 | 359 | 737 | Ginger |
@@ -369,8 +369,8 @@
 | 361 | 732 | Stephanie Lumanlan |
 | 362 | 728 | Dylan Thomason |
 | 363 | 728 | Tom Riefer |
-| 364 | 725 | Charvi' Carter |
-| 365 | 725 | Vonceial Boone |
+| 364 | 725 | Vonceial Boone |
+| 365 | 725 | Charvi' Carter |
 | 366 | 724 | Melissa Holsinger |
 | 367 | 724 | Dreamy Blast |
 | 368 | 723 | Leslie Ann Carter |
@@ -391,8 +391,8 @@
 | 383 | 698 | Joce Lynn |
 | 384 | 698 | Spunkysmom |
 | 385 | 697 | Ashle Scranton |
-| 386 | 695 | Lakeysha Dortch |
-| 387 | 695 | Arkei Luster |
+| 386 | 695 | Arkei Luster |
+| 387 | 695 | Lakeysha Dortch |
 | 388 | 688 | Poldo Ilano |
 | 389 | 686 | Ashley Guernsey-Martin |
 | 390 | 682 | BeQuo |
@@ -400,9 +400,9 @@
 | 392 | 680 | blume |
 | 393 | 679 | Kassandra Hunt |
 | 394 | 677 | Susan Perraut Jones |
-| 395 | 677 | Kenny Alvarado |
+| 395 | 677 | Crystie Hicks |
 | 396 | 677 | Amanda Woodruff |
-| 397 | 677 | Crystie Hicks |
+| 397 | 677 | Kenny Alvarado |
 | 398 | 674 | Connie Jimenez |
 | 399 | 671 | Victoria Moore-Smith |
 | 400 | 669 | Marie Walker |
@@ -445,8 +445,8 @@
 | 437 | 616 | Jackie Avila |
 | 438 | 615 | Julio A Laracuente |
 | 439 | 614 | Emilee Burke |
-| 440 | 613 | Tonya Lee |
-| 441 | 613 | Lylymom |
+| 440 | 613 | Lylymom |
+| 441 | 613 | Tonya Lee |
 | 442 | 611 | Biggest thing |
 | 443 | 605 | Santana Miyagi |
 | 444 | 603 | Casper The Chonk |
@@ -600,9 +600,9 @@
 | 592 | 474 | Jennifer Monroe Kelly |
 | 593 | 474 | Jennifer Scott |
 | 594 | 474 | KayLynn Ogden McClelland |
-| 595 | 473 | Mary Marie |
+| 595 | 473 | Tracy Wise |
 | 596 | 473 | Wuntayk |
-| 597 | 473 | Tracy Wise |
+| 597 | 473 | Mary Marie |
 | 598 | 473 | coleksquad |
 | 599 | 472 | Arwa Fatimah |
 | 600 | 471 | Rae Rae |

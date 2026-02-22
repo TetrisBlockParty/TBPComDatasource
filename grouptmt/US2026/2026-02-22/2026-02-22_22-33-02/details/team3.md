@@ -173,8 +173,8 @@
 | 165 | 479 | Annie Marie |
 | 166 | 475 | Tessina Dewey-Mancino |
 | 167 | 474 | Danielle Balcom |
-| 168 | 471 | Mendoza Lee Christy |
-| 169 | 471 | Rachel |
+| 168 | 471 | Rachel |
+| 169 | 471 | Mendoza Lee Christy |
 | 170 | 470 | Logan Naccarato |
 | 171 | 469 | Melissa Orth Hunter |
 | 172 | 469 | Adrian Marcel Pate |
@@ -488,7 +488,7 @@
 | 480 | 175 | Stella |
 | 481 | 174 | Sierra Spencer |
 | 482 | 174 | Lesley Perez |
-| 483 | 174 | Sierra Spencer |
+| 483 | 174 | Rayzer |
 | 484 | 173 | Jumpy Curvebuilder |
 | 485 | 173 | MizzMonick Smith |
 | 486 | 173 | momo |
