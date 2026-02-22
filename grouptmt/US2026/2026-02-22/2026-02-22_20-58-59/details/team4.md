@@ -67,8 +67,8 @@
 | 59 | 736 | Goatimus Lombardi |
 | 60 | 735 | Avy Absol |
 | 61 | 722 | Dustee Craddock-Harrison |
-| 62 | 721 | Chilly Line |
-| 63 | 721 | Edward White |
+| 62 | 721 | Edward White |
+| 63 | 721 | Chilly Line |
 | 64 | 704 | Crystal Carroll |
 | 65 | 703 | Anthony Bryan Riva |
 | 66 | 675 | D3TROITB0RN74 |
@@ -139,8 +139,8 @@
 | 131 | 373 | Joseph Guthrie |
 | 132 | 368 | Lucas J Sutton |
 | 133 | 357 | Trista Leah |
-| 134 | 354 | Kesha Brady |
-| 135 | 354 | Jessica Lynn Cutlip |
+| 134 | 354 | Jessica Lynn Cutlip |
+| 135 | 354 | Kesha Brady |
 | 136 | 353 | Livvy |
 | 137 | 353 | Tyler Terrific |
 | 138 | 344 | Lush Linkfall |
@@ -161,8 +161,8 @@
 | 153 | 321 | Klo |
 | 154 | 320 | Lauren Scott |
 | 155 | 316 | Meagan Nicole |
-| 156 | 314 | 🥔🥔 Spudz |
-| 157 | 314 | Andy Cabral |
+| 156 | 314 | Andy Cabral |
+| 157 | 314 | 🥔🥔 Spudz |
 | 158 | 312 | Rafael Valentin |
 | 159 | 311 | Kristina Black |
 | 160 | 308 | Jeff Brian Gates |
@@ -200,8 +200,8 @@
 | 192 | 266 | Chris Bernstein |
 | 193 | 265 | J-Rizzle |
 | 194 | 264 | Epic Curvetile |
-| 195 | 262 | Joeliecea Cobb |
-| 196 | 262 | Holly Jolly |
+| 195 | 262 | Holly Jolly |
+| 196 | 262 | Joeliecea Cobb |
 | 197 | 261 | scott |
 | 198 | 260 | Sue Joyce Staats |
 | 199 | 259 | Melvin Baird |
@@ -248,12 +248,12 @@
 | 240 | 219 | Dizzy Matchzone |
 | 241 | 216 | Chance Strickland |
 | 242 | 216 | Cristy Duerksen |
-| 243 | 216 | Chance Strickland |
+| 243 | 216 | ZeeZee |
 | 244 | 215 | John Brunetti |
 | 245 | 215 | Ziggy |
 | 246 | 214 | Stacey Stano |
-| 247 | 213 | Sarah Neathery |
-| 248 | 213 | Rio Rocha |
+| 247 | 213 | Rio Rocha |
+| 248 | 213 | Sarah Neathery |
 | 249 | 213 | Angela Geist Jusinski |
 | 250 | 212 | Mike Solo |
 | 251 | 208 | Rebecca Morris |
@@ -287,8 +287,8 @@
 | 279 | 185 | Morti |
 | 280 | 185 | Laura Hosford |
 | 281 | 185 | Nubian1 |
-| 282 | 183 | Cozy Balancer |
-| 283 | 183 | Twisty Risebuilder |
+| 282 | 183 | Twisty Risebuilder |
+| 283 | 183 | Cozy Balancer |
 | 284 | 181 | Carter Jones |
 | 285 | 181 | Jackie Marie |
 | 286 | 179 | AyeKay |

@@ -225,8 +225,8 @@
 | 217 | 1037 | Teddi Notyalc |
 | 218 | 1036 | Allison Lockyer |
 | 219 | 1034 | Debra Williams |
-| 220 | 1024 | Taylor Phillips |
-| 221 | 1024 | Desiree Anderson |
+| 220 | 1024 | Desiree Anderson |
+| 221 | 1024 | Taylor Phillips |
 | 222 | 1022 | Shannon Joslin |
 | 223 | 1020 | Eric Carlson |
 | 224 | 1019 | Kyle Swanson |
@@ -401,8 +401,8 @@
 | 393 | 652 | Mighty Spinbuilder |
 | 394 | 651 | Unica Rector |
 | 395 | 651 | Ashley Munn |
-| 396 | 650 | Amber Brion |
-| 397 | 650 | Shiny Rollzone |
+| 396 | 650 | Shiny Rollzone |
+| 397 | 650 | Amber Brion |
 | 398 | 649 | Johnny Yeates |
 | 399 | 648 | AgileDragon |
 | 400 | 648 | Breezy Filler |

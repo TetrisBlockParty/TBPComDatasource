@@ -136,8 +136,8 @@
 | 128 | 572 | CeceGeGe |
 | 129 | 569 | Daryn Elliott |
 | 130 | 568 | Rachael McClain Owens |
-| 131 | 562 | Louise Stacy Sisson |
-| 132 | 562 | Dave Herzog |
+| 131 | 562 | Dave Herzog |
+| 132 | 562 | Louise Stacy Sisson |
 | 133 | 558 | Nicole Myers |
 | 134 | 557 | Domo Washington |
 | 135 | 554 | Leah Barnett |
@@ -157,14 +157,14 @@
 | 149 | 497 | Stephanie Blkpep Davidson |
 | 150 | 492 | Daira Largen |
 | 151 | 491 | Chauntee Alfrey-Cardinale |
-| 152 | 484 | Dapper Snap |
-| 153 | 484 | Samantha Greco |
-| 154 | 479 | Poppy Splitter |
-| 155 | 479 | Annie Marie |
+| 152 | 484 | Samantha Greco |
+| 153 | 484 | Dapper Snap |
+| 154 | 479 | Annie Marie |
+| 155 | 479 | Poppy Splitter |
 | 156 | 474 | Danielle Balcom |
 | 157 | 473 | Calista Jo Dickson |
-| 158 | 471 | Nora Rogers |
-| 159 | 471 | Mendoza Lee Christy |
+| 158 | 471 | Mendoza Lee Christy |
+| 159 | 471 | Nora Rogers |
 | 160 | 470 | Logan Naccarato |
 | 161 | 469 | Adrian Marcel Pate |
 | 162 | 469 | Melissa Orth Hunter |
