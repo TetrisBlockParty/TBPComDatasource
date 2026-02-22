@@ -57,8 +57,8 @@
 | 49 | 695 | LisaJo Picken Buchanan |
 | 50 | 664 | Valerie Roberts |
 | 51 | 661 | D3TROITB0RN74 |
-| 52 | 659 | Jonathan Kimbrough |
-| 53 | 659 | Rebecca Moulton Pinciaro |
+| 52 | 659 | Rebecca Moulton Pinciaro |
+| 53 | 659 | Jonathan Kimbrough |
 | 54 | 658 | loulou |
 | 55 | 654 | Chilly Line |
 | 56 | 647 | KM8 |
@@ -80,15 +80,15 @@
 | 72 | 533 | Eric Mcgaughy |
 | 73 | 533 | Chris Baggett |
 | 74 | 530 | Yoset Mejia |
-| 75 | 524 | Carolyn Wallace |
-| 76 | 524 | Amelpss |
+| 75 | 524 | Amelpss |
+| 76 | 524 | Carolyn Wallace |
 | 77 | 523 | Dawn Alexander |
 | 78 | 517 | H.R. Block |
 | 79 | 512 | Casey Jeffcoat |
 | 80 | 511 | Michelle Marie |
 | 81 | 500 | Rodney McMath Jr. |
-| 82 | 486 | Carmethia Clemons Haslerig |
-| 83 | 486 | Landon Keith Graffeo |
+| 82 | 486 | Landon Keith Graffeo |
+| 83 | 486 | Carmethia Clemons Haslerig |
 | 84 | 469 | Ashley Ingram |
 | 85 | 468 | Shane Kalamata Platoon |
 | 86 | 447 | Samantha Peterson |
@@ -183,8 +183,8 @@
 | 175 | 217 | Kim Hunt |
 | 176 | 217 | Angela Srubar-Norman |
 | 177 | 215 | Jessica Bohlken |
-| 178 | 213 | Jason Allen |
-| 179 | 213 | Sarah Neathery |
+| 178 | 213 | Sarah Neathery |
+| 179 | 213 | Jason Allen |
 | 180 | 212 | Mike Solo |
 | 181 | 211 | Jenna McGeorge |
 | 182 | 210 | Zethra Prenisha Rahming |
@@ -339,8 +339,8 @@
 | 331 | 128 | Kristin MacDonald |
 | 332 | 128 | Elie Pean |
 | 333 | 127 | Robert Rodriguez |
-| 334 | 126 | Cheryl Johnson |
-| 335 | 126 | PAPatty |
+| 334 | 126 | PAPatty |
+| 335 | 126 | Cheryl Johnson |
 | 336 | 126 | icequeenx |
 | 337 | 125 | Steph Marie |
 | 338 | 125 | Ann G. Carrillo |

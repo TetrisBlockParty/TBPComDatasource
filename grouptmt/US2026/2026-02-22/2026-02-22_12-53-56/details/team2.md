@@ -138,8 +138,8 @@
 | 130 | 1265 | Katrina Williams Balmir |
 | 131 | 1265 | PandaMama |
 | 132 | 1257 | Eileen Hale |
-| 133 | 1248 | Isabela Shaw |
-| 134 | 1248 | Howard Forest |
+| 133 | 1248 | Howard Forest |
+| 134 | 1248 | Isabela Shaw |
 | 135 | 1242 | Altamirano Michael |
 | 136 | 1232 | Groovy Puzzle |
 | 137 | 1226 | Vo'Landa Reels |
@@ -385,8 +385,8 @@
 | 377 | 558 | Libby Hicks |
 | 378 | 558 | Mikayala Szaz |
 | 379 | 556 | Slip |
-| 380 | 554 | Santana Miyagi |
-| 381 | 554 | Rachael Senard |
+| 380 | 554 | Rachael Senard |
+| 381 | 554 | Santana Miyagi |
 | 382 | 554 | Autumn Schaeffer |
 | 383 | 553 | Blacc Blac |
 | 384 | 552 | Michelle Fields |
@@ -444,8 +444,8 @@
 | 436 | 499 | Sarah Massey |
 | 437 | 498 | Rhonda Milstead |
 | 438 | 498 | Aimee Campbell |
-| 439 | 497 | Doowop40 |
-| 440 | 497 | June E Hanson |
+| 439 | 497 | June E Hanson |
+| 440 | 497 | Doowop40 |
 | 441 | 494 | Venita Ray |
 | 442 | 493 | Kara Gillen |
 | 443 | 492 | Maya June |
@@ -540,8 +540,8 @@
 | 532 | 428 | Arkei Luster |
 | 533 | 428 | Shyenn Gadsby |
 | 534 | 427 | Alexandra Weir |
-| 535 | 427 | Sabrina Burton |
-| 536 | 427 | Destiny Cozier |
+| 535 | 427 | Destiny Cozier |
+| 536 | 427 | Sabrina Burton |
 | 537 | 426 | Ashley Dow |
 | 538 | 425 | Skyler Morgan |
 | 539 | 425 | Elisheva Mizrachi |
@@ -565,8 +565,8 @@
 | 557 | 411 | Kristen O'Neal |
 | 558 | 410 | Nicole Cannon |
 | 559 | 409 | Angi Harrison |
-| 560 | 408 | Abimbola Bimbo |
-| 561 | 408 | Stefanie Zonzini-Gagliardi |
+| 560 | 408 | Stefanie Zonzini-Gagliardi |
+| 561 | 408 | Abimbola Bimbo |
 | 562 | 408 | Brandon Jones |
 | 563 | 407 | Tipsy Filler |
 | 564 | 407 | Goofy Catcher |
@@ -599,8 +599,8 @@
 | 591 | 390 | Joice Hansen |
 | 592 | 390 | Moist_B-hole |
 | 593 | 389 | Julie Hamilton |
-| 594 | 389 | Alexis Richardson |
-| 595 | 389 | Kayla |
+| 594 | 389 | Kayla |
+| 595 | 389 | Alexis Richardson |
 | 596 | 388 | Christina Ashley |
 | 597 | 387 | Bold Brickster |
 | 598 | 387 | Misti Markijohn |
@@ -710,8 +710,8 @@
 | 702 | 328 | BabyBird |
 | 703 | 328 | Jamie Carter Bierce |
 | 704 | 326 | Ann Knutson Anderson |
-| 705 | 325 | James Smith |
-| 706 | 325 | Justin Hines |
+| 705 | 325 | Justin Hines |
+| 706 | 325 | James Smith |
 | 707 | 325 | Mike73 |
 | 708 | 324 | Tasia Stinson |
 | 709 | 324 | Dale Haanpaa |
@@ -1161,8 +1161,8 @@
 | 1153 | 201 | Betty Ruth Hale |
 | 1154 | 201 | Jadelynn Sarbacher |
 | 1155 | 200 | Amanda Allmon |
-| 1156 | 200 | Sara Silvernail-Kay |
-| 1157 | 200 | Rich Sullivan |
+| 1156 | 200 | Rich Sullivan |
+| 1157 | 200 | Sara Silvernail-Kay |
 | 1158 | 200 | Shyne Sun |
 | 1159 | 199 | Tiffany Michelle Arnold |
 | 1160 | 199 | Katelyn Fitzsimmons |
