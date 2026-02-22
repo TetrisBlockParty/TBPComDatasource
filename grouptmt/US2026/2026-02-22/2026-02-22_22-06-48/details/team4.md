@@ -61,8 +61,8 @@
 | 53 | 766 | Robin Watters |
 | 54 | 763 | Ashley Ingram |
 | 55 | 757 | Ancient Intuition |
-| 56 | 751 | Rachel Anne |
-| 57 | 751 | Jason Allen |
+| 56 | 751 | Jason Allen |
+| 57 | 751 | Rachel Anne |
 | 58 | 745 | Robin Getchel |
 | 59 | 736 | Goatimus Lombardi |
 | 60 | 735 | Avy Absol |
@@ -83,8 +83,8 @@
 | 75 | 646 | Jacqueline Helm |
 | 76 | 633 | Lisa Davis |
 | 77 | 626 | Brittney Griggs |
-| 78 | 617 | Savannah Overdorf |
-| 79 | 617 | Jason Hart |
+| 78 | 617 | Jason Hart |
+| 79 | 617 | Savannah Overdorf |
 | 80 | 614 | TheNeesh50 |
 | 81 | 597 | Eric Mcgaughy |
 | 82 | 596 | Judy Cox |
@@ -138,18 +138,18 @@
 | 130 | 391 | Lush Linkfall |
 | 131 | 391 | Ramel Rhodes |
 | 132 | 378 | Lucas J Sutton |
-| 133 | 377 | Jessica Bohlken |
-| 134 | 377 | Carrie Brian |
+| 133 | 377 | Carrie Brian |
+| 134 | 377 | Jessica Bohlken |
 | 135 | 376 | Kesha Brady |
 | 136 | 373 | Joseph Guthrie |
 | 137 | 355 | Kristina Black |
 | 138 | 354 | Jessica Lynn Cutlip |
-| 139 | 353 | Livvy |
-| 140 | 353 | Tyler Terrific |
+| 139 | 353 | Tyler Terrific |
+| 140 | 353 | Livvy |
 | 141 | 350 | Angela Srubar-Norman |
 | 142 | 348 | Silly Zonebuilder |
-| 143 | 343 | ThaEviLJeNiuZ |
-| 144 | 343 | Latisha Davis |
+| 143 | 343 | Latisha Davis |
+| 144 | 343 | ThaEviLJeNiuZ |
 | 145 | 339 | David Lay |
 | 146 | 336 | Klo |
 | 147 | 334 | Guy Incognito |
@@ -252,8 +252,8 @@
 | 244 | 219 | Dizzy Matchzone |
 | 245 | 216 | Chance Strickland |
 | 246 | 216 | ZeeZee |
-| 247 | 215 | Ziggy |
-| 248 | 215 | John Brunetti |
+| 247 | 215 | John Brunetti |
+| 248 | 215 | Ziggy |
 | 249 | 214 | Stacey Stano |
 | 250 | 213 | Rio Rocha |
 | 251 | 213 | Sarah Neathery |

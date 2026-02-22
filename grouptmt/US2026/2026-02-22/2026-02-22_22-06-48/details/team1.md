@@ -120,8 +120,8 @@
 | 112 | 417 | Lori Sanders- Davis |
 | 113 | 414 | Veronica Eve |
 | 114 | 412 | Anaid Sanchez |
-| 115 | 409 | Dandy Basegrid |
-| 116 | 409 | Yvonne Marie |
+| 115 | 409 | Yvonne Marie |
+| 116 | 409 | Dandy Basegrid |
 | 117 | 399 | Nery Martinez |
 | 118 | 397 | Candy Jones |
 | 119 | 394 | Chris K |
@@ -193,10 +193,10 @@
 | 185 | 282 | Angela Renea Lester |
 | 186 | 281 | Desiree Deschaine Havee |
 | 187 | 279 | Tana |
-| 188 | 277 | Nutty Spinblock |
-| 189 | 277 | Christy Jones |
-| 190 | 276 | Damon J. Martin |
-| 191 | 276 | Shiny Snapfit |
+| 188 | 277 | Christy Jones |
+| 189 | 277 | Nutty Spinblock |
+| 190 | 276 | Shiny Snapfit |
+| 191 | 276 | Damon J. Martin |
 | 192 | 273 | Shannon Marie Pitts |
 | 193 | 272 | Sleepysloath5745 |
 | 194 | 270 | Mandyy Rae |
@@ -323,8 +323,8 @@
 | 315 | 184 | Cranky Pattern |
 | 316 | 183 | Dino |
 | 317 | 181 | David DeSantis |
-| 318 | 179 | Ryan White |
-| 319 | 179 | Slinky Rotater |
+| 318 | 179 | Slinky Rotater |
+| 319 | 179 | Ryan White |
 | 320 | 178 | Larry Tilton |
 | 321 | 178 | Gabrielle Louise Malloch |
 | 322 | 177 | Irual Hctrab |
@@ -343,7 +343,7 @@
 | 335 | 172 | Nathan Sealander |
 | 336 | 171 | Greg Premoe |
 | 337 | 171 | Bruce Cruz |
-| 338 | 170 | Наталья Солоид |
+| 338 | 170 | Spunky Builderpiece |
 | 339 | 170 | Jessie |
 | 340 | 170 | LD1 |
 | 341 | 170 | Наталья Солоид |
