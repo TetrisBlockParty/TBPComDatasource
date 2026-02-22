@@ -77,8 +77,8 @@
 | 69 | 461 | April Carroll |
 | 70 | 456 | Arianna O'Brien |
 | 71 | 447 | Evie Khalil |
-| 72 | 434 | MomMom |
-| 73 | 434 | Hyper |
+| 72 | 434 | Hyper |
+| 73 | 434 | MomMom |
 | 74 | 430 | Nancy Green |
 | 75 | 428 | Stephanie Zahn |
 | 76 | 418 | Jazzy Framezone |
@@ -123,8 +123,8 @@
 | 115 | 319 | Patrick Luckenbill |
 | 116 | 319 | Deanna L Hermanson |
 | 117 | 318 | Jessica Sheehan |
-| 118 | 316 | Ly Phethmany |
-| 119 | 316 | Jennifer Hardman |
+| 118 | 316 | Jennifer Hardman |
+| 119 | 316 | Ly Phethmany |
 | 120 | 313 | Tanya Carpenter-Reynolds |
 | 121 | 310 | Jason Jones |
 | 122 | 310 | Seth Wesson |
@@ -135,8 +135,8 @@
 | 127 | 298 | Erin Hodges Plumb |
 | 128 | 290 | Death |
 | 129 | 285 | Ananda Mendez |
-| 130 | 284 | Emily Adelaide Wheatley |
-| 131 | 284 | Rachael |
+| 130 | 284 | Rachael |
+| 131 | 284 | Emily Adelaide Wheatley |
 | 132 | 283 | Franswa |
 | 133 | 282 | Snippy Wipebuilder |
 | 134 | 282 | Cool Shiftsnap |
@@ -144,8 +144,8 @@
 | 136 | 280 | Sarah Roberts |
 | 137 | 276 | Dandy Basegrid |
 | 138 | 274 | Tyler Werts |
-| 139 | 270 | Ash Galvan |
-| 140 | 270 | Mandyy Rae |
+| 139 | 270 | Mandyy Rae |
+| 140 | 270 | Ash Galvan |
 | 141 | 268 | GATOR |
 | 142 | 265 | SkipTheSadSauce |
 | 143 | 265 | Nutty Spinblock |

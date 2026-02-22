@@ -318,8 +318,8 @@
 | 310 | 666 | Speedy Spinblock |
 | 311 | 665 | Prette Qui |
 | 312 | 664 | Sleepypanda67 |
-| 313 | 663 | Ashle Scranton |
-| 314 | 663 | Mandi Douglas Hilt |
+| 313 | 663 | Mandi Douglas Hilt |
+| 314 | 663 | Ashle Scranton |
 | 315 | 659 | Draizen Montrell Thomas |
 | 316 | 659 | Roseanna Peloso |
 | 317 | 658 | Erica Williams |
@@ -329,8 +329,8 @@
 | 321 | 650 | Shiny Rollzone |
 | 322 | 645 | tejas25 |
 | 323 | 643 | Hoppy Brickmatch |
-| 324 | 641 | Joce Lynn |
-| 325 | 641 | Angie Bolton Workman |
+| 324 | 641 | Angie Bolton Workman |
+| 325 | 641 | Joce Lynn |
 | 326 | 640 | BYM4L |
 | 327 | 639 | Crystie Hicks |
 | 328 | 639 | Rebecca Miller |
@@ -340,12 +340,12 @@
 | 332 | 627 | Victoria Moore-Smith |
 | 333 | 620 | Brandon Armstrong |
 | 334 | 617 | Leslie Ann Carter |
-| 335 | 613 | Breezy Filler |
-| 336 | 613 | Caitlyn Blackwell |
+| 335 | 613 | Caitlyn Blackwell |
+| 336 | 613 | Breezy Filler |
 | 337 | 613 | Ellie Jonas |
 | 338 | 611 | Em Chen |
-| 339 | 611 | Julio A Laracuente |
-| 340 | 611 | Carl Bradshaw |
+| 339 | 611 | Carl Bradshaw |
+| 340 | 611 | Julio A Laracuente |
 | 341 | 605 | Jelly |
 | 342 | 603 | Cassie Maynard |
 | 343 | 602 | KhaosLord |
@@ -408,8 +408,8 @@
 | 400 | 522 | Lylymom |
 | 401 | 522 | Joseph Musick |
 | 402 | 521 | Tj Ball |
-| 403 | 520 | Maddy Petersen |
-| 404 | 520 | Angela Lynn |
+| 403 | 520 | Angela Lynn |
+| 404 | 520 | Maddy Petersen |
 | 405 | 519 | Rob Brown |
 | 406 | 517 | Alex Dungo Hoang |
 | 407 | 517 | Amber Brion |
@@ -710,9 +710,9 @@
 | 702 | 324 | Tasia Stinson |
 | 703 | 324 | Dale Haanpaa |
 | 704 | 323 | Briana Alexander |
-| 705 | 322 | Christina Jarvis-Swarbrick |
+| 705 | 322 | Lea Stewart |
 | 706 | 322 | Michelle Pike |
-| 707 | 322 | Lea Stewart |
+| 707 | 322 | Christina Jarvis-Swarbrick |
 | 708 | 321 | Samantha Scibelli |
 | 709 | 321 | Ashley Criner |
 | 710 | 321 | Tamara Bailey |
@@ -927,8 +927,8 @@
 | 919 | 250 | Kay Stevenson |
 | 920 | 250 | Drew Berkelbach |
 | 921 | 249 | J.L. Roberts |
-| 922 | 249 | Kamilya Rembert |
-| 923 | 249 | Joshua Mullings |
+| 922 | 249 | Joshua Mullings |
+| 923 | 249 | Kamilya Rembert |
 | 924 | 249 | Angela Yantz |
 | 925 | 248 | Jaybee Nguyen |
 | 926 | 248 | Angelina Marie |
@@ -1134,10 +1134,10 @@
 | 1126 | 204 | Ali Gralski |
 | 1127 | 204 | Edralin Custodio |
 | 1128 | 203 | Giggy Mover |
-| 1129 | 202 | Joshua Yonker |
-| 1130 | 202 | BIG BABY |
-| 1131 | 201 | Jennifer Rajek |
-| 1132 | 201 | LintFunk |
+| 1129 | 202 | BIG BABY |
+| 1130 | 202 | Joshua Yonker |
+| 1131 | 201 | LintFunk |
+| 1132 | 201 | Jennifer Rajek |
 | 1133 | 201 | Betty Ruth Hale |
 | 1134 | 200 | Sara Silvernail-Kay |
 | 1135 | 200 | Rich Sullivan |
@@ -1153,9 +1153,9 @@
 | 1145 | 199 | Quels Whidbee |
 | 1146 | 199 | Melissa May |
 | 1147 | 198 | Majed Tawk |
-| 1148 | 197 | Kati Russeau |
+| 1148 | 197 | Octavio Garza |
 | 1149 | 197 | Jermaine Johnson |
-| 1150 | 197 | Octavio Garza |
+| 1150 | 197 | Kati Russeau |
 | 1151 | 197 | Darla Silva |
 | 1152 | 197 | Sunny Pusher |
 | 1153 | 197 | Tammie Siegfried |
