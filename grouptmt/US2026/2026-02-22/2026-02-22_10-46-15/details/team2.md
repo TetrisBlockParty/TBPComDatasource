@@ -130,8 +130,8 @@
 | 122 | 1301 | Rosa Franklin |
 | 123 | 1300 | Mari Ac |
 | 124 | 1300 | Tacara Cummings |
-| 125 | 1298 | Deanna Morton |
-| 126 | 1298 | Becca Widmer |
+| 125 | 1298 | Becca Widmer |
+| 126 | 1298 | Deanna Morton |
 | 127 | 1273 | Cool Rollpiece |
 | 128 | 1257 | Eileen Hale |
 | 129 | 1252 | Katrina Williams Balmir |
@@ -401,8 +401,8 @@
 | 393 | 525 | Desiree Anderson |
 | 394 | 524 | Lonne Emade |
 | 395 | 523 | Matt Johnson |
-| 396 | 522 | Joseph Musick |
-| 397 | 522 | Lylymom |
+| 396 | 522 | Lylymom |
+| 397 | 522 | Joseph Musick |
 | 398 | 521 | Tj Ball |
 | 399 | 520 | Maddy Petersen |
 | 400 | 520 | Angela Lynn |
@@ -651,8 +651,8 @@
 | 643 | 357 | Shannon Byrd |
 | 644 | 357 | Tristan Szolek |
 | 645 | 355 | Amanda Perez |
-| 646 | 354 | Rickey Johnson |
-| 647 | 354 | Rachel Kaminski |
+| 646 | 354 | Rachel Kaminski |
+| 647 | 354 | Rickey Johnson |
 | 648 | 352 | Rose Fx |
 | 649 | 352 | Jean FU Jagielski |
 | 650 | 352 | ruth |
@@ -791,8 +791,8 @@
 | 783 | 287 | Epic Stackzone |
 | 784 | 286 | Kelsey Sullivan |
 | 785 | 285 | Kimberly Mitchell |
-| 786 | 285 | Epic Stackbuilder |
-| 787 | 285 | Court |
+| 786 | 285 | Court |
+| 787 | 285 | Epic Stackbuilder |
 | 788 | 284 | Hillary Franklin |
 | 789 | 282 | Nutty Slice |
 | 790 | 281 | Anthony |
@@ -1187,11 +1187,11 @@
 | 1179 | 192 | Donna M Carter |
 | 1180 | 191 | Netty |
 | 1181 | 191 | Samuel Labruno |
-| 1182 | 191 | Casaundra Little-Abeling |
-| 1183 | 191 | Val Pal |
-| 1184 | 190 | Cherry |
+| 1182 | 191 | Val Pal |
+| 1183 | 191 | Casaundra Little-Abeling |
+| 1184 | 190 | Jessica Kaye DeAguero |
 | 1185 | 190 | Lola |
-| 1186 | 190 | Jessica Kaye DeAguero |
+| 1186 | 190 | Cherry |
 | 1187 | 190 | Lucero Ramirez |
 | 1188 | 190 | Andrew Bratton-Tomes |
 | 1189 | 190 | Miyah Erraina |
@@ -1203,9 +1203,9 @@
 | 1195 | 189 | Daveeda Ansourian Joplin |
 | 1196 | 189 | Nick Spring |
 | 1197 | 189 | Nate Skidmore |
-| 1198 | 189 | Sharon Crawford |
+| 1198 | 189 | Hazel Spears |
 | 1199 | 189 | Billy Quinn |
-| 1200 | 189 | Hazel Spears |
+| 1200 | 189 | Sharon Crawford |
 | 1201 | 189 | Meme Didit |
 | 1202 | 188 | Corey Anthony Moe Matta |
 | 1203 | 188 | Kii |

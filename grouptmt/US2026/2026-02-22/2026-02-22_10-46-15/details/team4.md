@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Shelly Chandler |
-| 34 | 843 | Lucille Truesdale |
+| 33 | 843 | Lucille Truesdale |
+| 34 | 843 | Shelly Chandler |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -111,8 +111,8 @@
 | 103 | 382 | Marie-Pier Desjardins |
 | 104 | 373 | Joseph Guthrie |
 | 105 | 369 | Nope Young |
-| 106 | 358 | Lori Walker |
-| 107 | 358 | Nugget |
+| 106 | 358 | Nugget |
+| 107 | 358 | Lori Walker |
 | 108 | 353 | Tyler Terrific |
 | 109 | 352 | Monica Daley |
 | 110 | 344 | Livvy |
@@ -127,13 +127,13 @@
 | 119 | 303 | Lauren Scott |
 | 120 | 300 | Jason Hart |
 | 121 | 298 | Lucas J Sutton |
-| 122 | 296 | HastyGrabber |
-| 123 | 296 | Justin Hannigan |
+| 122 | 296 | Justin Hannigan |
+| 123 | 296 | HastyGrabber |
 | 124 | 294 | Kesha Brady |
 | 125 | 290 | 🥔🥔 Spudz |
 | 126 | 287 | Shannon Ferrari |
-| 127 | 286 | Daria Rycewicz |
-| 128 | 286 | shark tato |
+| 127 | 286 | shark tato |
+| 128 | 286 | Daria Rycewicz |
 | 129 | 283 | Brittney Orengo |
 | 130 | 281 | Andy Cabral |
 | 131 | 281 | Meagan Nicole |
@@ -184,12 +184,12 @@
 | 176 | 210 | Zethra Prenisha Rahming |
 | 177 | 207 | Chirpy Basepiece |
 | 178 | 205 | Kathy Brookins |
-| 179 | 204 | Carlos Ramirez |
-| 180 | 204 | Jen Caldwell |
+| 179 | 204 | Jen Caldwell |
+| 180 | 204 | Carlos Ramirez |
 | 181 | 203 | Katherine Crane |
 | 182 | 202 | TRCuse |
-| 183 | 201 | Chance Strickland |
-| 184 | 201 | Melvin Baird |
+| 183 | 201 | Melvin Baird |
+| 184 | 201 | Chance Strickland |
 | 185 | 200 | Laura |
 | 186 | 198 | Keith Kelley |
 | 187 | 198 | Ruben Wheeler |
@@ -201,12 +201,12 @@
 | 193 | 195 | ZeeZee |
 | 194 | 194 | Zany Twisterfit |
 | 195 | 192 | Shauna Havard |
-| 196 | 191 | Klo |
-| 197 | 191 | Sam Bishop |
-| 198 | 190 | Alan George LaRage |
-| 199 | 190 | Cheery Risebuilder |
-| 200 | 189 | Stacey Stano |
-| 201 | 189 | Calvin Dennis |
+| 196 | 191 | Sam Bishop |
+| 197 | 191 | Klo |
+| 198 | 190 | Cheery Risebuilder |
+| 199 | 190 | Alan George LaRage |
+| 200 | 189 | Calvin Dennis |
+| 201 | 189 | Stacey Stano |
 | 202 | 188 | Andria Lynn |
 | 203 | 186 | Holly |
 | 204 | 185 | Nikki Rae Gordon |
@@ -218,8 +218,8 @@
 | 210 | 179 | TinyLegoRose |
 | 211 | 179 | blockstar |
 | 212 | 175 | Lorena Guerrero-Barron |
-| 213 | 174 | Rio Rocha |
-| 214 | 174 | JPW |
+| 213 | 174 | JPW |
+| 214 | 174 | Rio Rocha |
 | 215 | 172 | Gilles Lanctot |
 | 216 | 171 | Autumn Kumzi |
 | 217 | 168 | Lindsey Gonzalez |
@@ -235,8 +235,8 @@
 | 227 | 162 | John Brunetti |
 | 228 | 162 | Joanna |
 | 229 | 161 | Jenny Wells-Oakley |
-| 230 | 160 | Brittany Marsh |
-| 231 | 160 | Laura Hosford |
+| 230 | 160 | Laura Hosford |
+| 231 | 160 | Brittany Marsh |
 | 232 | 159 | Marcus Todd |
 | 233 | 158 | Chair |
 | 234 | 158 | Avy Absol |
