@@ -47,8 +47,8 @@
 | 39 | 757 | Ancient Intuition |
 | 40 | 736 | Goatimus Lombardi |
 | 41 | 734 | BertMofo |
-| 42 | 707 | Clarence Patawaran |
-| 43 | 707 | Rachel Anne |
+| 42 | 707 | Rachel Anne |
+| 43 | 707 | Clarence Patawaran |
 | 44 | 704 | Crystal Carroll |
 | 45 | 697 | Edward White |
 | 46 | 695 | LisaJo Picken Buchanan |
@@ -91,8 +91,8 @@
 | 83 | 409 | Isabella Blanco |
 | 84 | 405 | Shane Kalamata Platoon |
 | 85 | 404 | Courtney Cicoria |
-| 86 | 396 | Alicia Bass |
-| 87 | 396 | Amy Suckarieh |
+| 86 | 396 | Amy Suckarieh |
+| 87 | 396 | Alicia Bass |
 | 88 | 392 | Ericca Eldridge |
 | 89 | 391 | Ramel Rhodes |
 | 90 | 390 | Carlton Unfiltered |
@@ -136,8 +136,8 @@
 | 128 | 277 | Scott Jameson |
 | 129 | 275 | Dizzy Tiley |
 | 130 | 271 | Sarah Brown |
-| 131 | 264 | Epic Curvetile |
-| 132 | 264 | Girl |
+| 131 | 264 | Girl |
+| 132 | 264 | Epic Curvetile |
 | 133 | 264 | Dana Scott |
 | 134 | 262 | Holly Jolly |
 | 135 | 256 | Mylo Lipscomb |
@@ -179,8 +179,8 @@
 | 171 | 204 | Jen Caldwell |
 | 172 | 203 | Katherine Crane |
 | 173 | 202 | TRCuse |
-| 174 | 201 | Chance Strickland |
-| 175 | 201 | Melvin Baird |
+| 174 | 201 | Melvin Baird |
+| 175 | 201 | Chance Strickland |
 | 176 | 198 | Jessica Lynn Cutlip |
 | 177 | 196 | Zethra Prenisha Rahming |
 | 178 | 196 | Oscar Alberto Perez |
@@ -198,10 +198,10 @@
 | 190 | 185 | Lori |
 | 191 | 185 | Andy Cabral |
 | 192 | 184 | Ak Jones |
-| 193 | 181 | Carter Jones |
-| 194 | 181 | Alan George LaRage |
-| 195 | 180 | Rafael Valentin |
-| 196 | 180 | Orchislactea |
+| 193 | 181 | Alan George LaRage |
+| 194 | 181 | Carter Jones |
+| 195 | 180 | Orchislactea |
+| 196 | 180 | Rafael Valentin |
 | 197 | 179 | blockstar |
 | 198 | 175 | TinyLegoRose |
 | 199 | 174 | Dihcheese444 |

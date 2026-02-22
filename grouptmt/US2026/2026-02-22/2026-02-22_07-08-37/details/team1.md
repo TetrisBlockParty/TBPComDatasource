@@ -97,8 +97,8 @@
 | 89 | 359 | Nerdy Linkblock |
 | 90 | 355 | Hasbro Bros |
 | 91 | 350 | Tipsy Strikerpiece |
-| 92 | 347 | pjbeta |
-| 93 | 347 | june october |
+| 92 | 347 | june october |
+| 93 | 347 | pjbeta |
 | 94 | 345 | Dee Perry |
 | 95 | 344 | lil mickey |
 | 96 | 342 | Brenda Stewart |
@@ -114,8 +114,8 @@
 | 106 | 319 | Deanna L Hermanson |
 | 107 | 319 | Patrick Luckenbill |
 | 108 | 313 | Tanya Carpenter-Reynolds |
-| 109 | 310 | Jason Jones |
-| 110 | 310 | Seth Wesson |
+| 109 | 310 | Seth Wesson |
+| 110 | 310 | Jason Jones |
 | 111 | 310 | phrmblk24 |
 | 112 | 306 | Happy Basegrid |
 | 113 | 304 | Nicole Roseberry Weber |
@@ -124,8 +124,8 @@
 | 116 | 290 | Death |
 | 117 | 288 | Seante Bullock |
 | 118 | 287 | Chelsea Dahlquist |
-| 119 | 286 | Ly Phethmany |
-| 120 | 286 | Arianna O'Brien |
+| 119 | 286 | Arianna O'Brien |
+| 120 | 286 | Ly Phethmany |
 | 121 | 285 | Ananda Mendez |
 | 122 | 284 | Rachael |
 | 123 | 284 | Emily Adelaide Wheatley |
@@ -207,9 +207,9 @@
 | 199 | 184 | Debbie Davis |
 | 200 | 184 | Nutty Spinblock |
 | 201 | 183 | Andrew Boone |
-| 202 | 180 | BigWeenie69 |
-| 203 | 180 | Erez Yosef |
-| 204 | 180 | Jessie Lynn |
+| 202 | 180 | Jessie Lynn |
+| 203 | 180 | BigWeenie69 |
+| 204 | 180 | Erez Yosef |
 | 205 | 179 | Danielle Little-Daugherty |
 | 206 | 179 | femmefatale |
 | 207 | 178 | Chad Atchley |
