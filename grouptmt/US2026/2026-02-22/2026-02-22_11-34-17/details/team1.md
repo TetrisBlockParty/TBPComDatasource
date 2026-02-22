@@ -54,8 +54,8 @@
 | 46 | 671 | Lawrence Belanger |
 | 47 | 663 | Drew Magnus |
 | 48 | 646 | Susanna Guerry |
-| 49 | 635 | Marianne Louise West |
-| 50 | 635 | Angel Fowler |
+| 49 | 635 | Angel Fowler |
+| 50 | 635 | Marianne Louise West |
 | 51 | 631 | comrade fish |
 | 52 | 627 | Katie Daniels |
 | 53 | 614 | Snappy Swiper |
@@ -77,8 +77,8 @@
 | 69 | 461 | April Carroll |
 | 70 | 456 | Arianna O'Brien |
 | 71 | 447 | Evie Khalil |
-| 72 | 434 | MomMom |
-| 73 | 434 | Hyper |
+| 72 | 434 | Hyper |
+| 73 | 434 | MomMom |
 | 74 | 430 | Nancy Green |
 | 75 | 428 | Stephanie Zahn |
 | 76 | 418 | Jazzy Framezone |
@@ -120,14 +120,14 @@
 | 112 | 330 | Sweet Baker |
 | 113 | 326 | Monica Donato |
 | 114 | 321 | Maria C. Hernandez |
-| 115 | 319 | Patrick Luckenbill |
-| 116 | 319 | Deanna L Hermanson |
+| 115 | 319 | Deanna L Hermanson |
+| 116 | 319 | Patrick Luckenbill |
 | 117 | 318 | Jessica Sheehan |
 | 118 | 316 | Jennifer Hardman |
 | 119 | 316 | Ly Phethmany |
 | 120 | 313 | Tanya Carpenter-Reynolds |
-| 121 | 310 | Jason Jones |
-| 122 | 310 | Seth Wesson |
+| 121 | 310 | Seth Wesson |
+| 122 | 310 | Jason Jones |
 | 123 | 306 | Happy Basegrid |
 | 124 | 304 | Nicole Roseberry Weber |
 | 125 | 301 | Lehrin Maria |
@@ -135,8 +135,8 @@
 | 127 | 298 | Erin Hodges Plumb |
 | 128 | 290 | Death |
 | 129 | 285 | Ananda Mendez |
-| 130 | 284 | Emily Adelaide Wheatley |
-| 131 | 284 | Rachael |
+| 130 | 284 | Rachael |
+| 131 | 284 | Emily Adelaide Wheatley |
 | 132 | 283 | Franswa |
 | 133 | 282 | Timothy Dew |
 | 134 | 282 | Cool Shiftsnap |
@@ -144,8 +144,8 @@
 | 136 | 280 | Sarah Roberts |
 | 137 | 276 | Dandy Basegrid |
 | 138 | 274 | Tyler Werts |
-| 139 | 270 | Ash Galvan |
-| 140 | 270 | Mandyy Rae |
+| 139 | 270 | Mandyy Rae |
+| 140 | 270 | Ash Galvan |
 | 141 | 268 | GATOR |
 | 142 | 265 | SkipTheSadSauce |
 | 143 | 265 | Nutty Spinblock |
@@ -263,9 +263,9 @@
 | 255 | 165 | Nadine Velardo |
 | 256 | 165 | Silly Align |
 | 257 | 164 | Desiree Deschaine Havee |
-| 258 | 163 | Davery Spencer Adair |
+| 258 | 163 | Tyler Whitley |
 | 259 | 163 | Blaire Bruckoff |
-| 260 | 163 | Tyler Whitley |
+| 260 | 163 | Davery Spencer Adair |
 | 261 | 161 | SavageBooty98 |
 | 262 | 160 | Tedashi |
 | 263 | 159 | Uhog SF |
@@ -283,8 +283,8 @@
 | 275 | 152 | Speedy Snapfall |
 | 276 | 151 | Gilbert Ortiz Jr. |
 | 277 | 151 | Bruce Cruz |
-| 278 | 150 | Adele Rahman |
-| 279 | 150 | Agustin Duarte Orozco |
+| 278 | 150 | Agustin Duarte Orozco |
+| 279 | 150 | Adele Rahman |
 | 280 | 149 | Jessica Russell |
 | 281 | 148 | Howdi Duty |
 | 282 | 147 | J.F. Fields |

@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Lucille Truesdale |
-| 34 | 843 | Shelly Chandler |
+| 33 | 843 | Shelly Chandler |
+| 34 | 843 | Lucille Truesdale |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -62,8 +62,8 @@
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Dustee Craddock-Harrison |
-| 58 | 636 | Kimyatta Cavin |
+| 57 | 636 | Kimyatta Cavin |
+| 58 | 636 | Dustee Craddock-Harrison |
 | 59 | 623 | Robin Getchel |
 | 60 | 614 | TheNeesh50 |
 | 61 | 599 | Brittney Griggs |
@@ -171,8 +171,8 @@
 | 163 | 224 | Matt Summer |
 | 164 | 223 | Kris Bartlett |
 | 165 | 223 | Antony Dwayne Beasley |
-| 166 | 221 | Rheanda Weaskus |
-| 167 | 221 | PurpleMoonMa |
+| 166 | 221 | PurpleMoonMa |
+| 167 | 221 | Rheanda Weaskus |
 | 168 | 220 | Matt Dell'Olio |
 | 169 | 218 | Casey Grabner |
 | 170 | 217 | Kim Hunt |
@@ -190,8 +190,8 @@
 | 182 | 204 | Carlos Ramirez |
 | 183 | 203 | Katherine Crane |
 | 184 | 202 | TRCuse |
-| 185 | 201 | Melvin Baird |
-| 186 | 201 | Chance Strickland |
+| 185 | 201 | Chance Strickland |
+| 186 | 201 | Melvin Baird |
 | 187 | 200 | Laura |
 | 188 | 198 | Keith Kelley |
 | 189 | 198 | Ruben Wheeler |
@@ -266,8 +266,8 @@
 | 258 | 147 | Jay28 |
 | 259 | 147 | Jared Gutwein |
 | 260 | 146 | Dizzy Matchzone |
-| 261 | 145 | Sandra Safford |
-| 262 | 145 | Mimi |
+| 261 | 145 | Mimi |
+| 262 | 145 | Sandra Safford |
 | 263 | 144 | Sticherella |
 | 264 | 143 | Dennis Bradley |
 | 265 | 143 | Zesty Twistbuilder |
@@ -366,8 +366,8 @@
 | 358 | 113 | Dandy Cascadefit |
 | 359 | 113 | @ |
 | 360 | 113 | Raymond Roberts |
-| 361 | 112 | Darrin Rubalcava |
-| 362 | 112 | Chris Alexinas |
+| 361 | 112 | Chris Alexinas |
+| 362 | 112 | Darrin Rubalcava |
 | 363 | 111 | Peppy Strike |
 | 364 | 111 | Heather Bruce |
 | 365 | 111 | Richard-April Kice |
@@ -426,8 +426,8 @@
 | 418 | 97 | Brandon Crabbs |
 | 419 | 97 | Cool Gridzone |
 | 420 | 96 | Rebecca Blake |
-| 421 | 95 | Jobadia Steelerton |
-| 422 | 95 | Chirpy Slammer |
+| 421 | 95 | Chirpy Slammer |
+| 422 | 95 | Jobadia Steelerton |
 | 423 | 95 | RedBoots82 |
 | 424 | 94 | Jeff Roberts |
 | 425 | 94 | Ahleek Mitchell |
