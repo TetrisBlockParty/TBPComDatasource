@@ -130,8 +130,8 @@
 | 122 | 287 | Chelsea Dahlquist |
 | 123 | 286 | Arianna O'Brien |
 | 124 | 285 | Ananda Mendez |
-| 125 | 284 | Rachael |
-| 126 | 284 | Emily Adelaide Wheatley |
+| 125 | 284 | Emily Adelaide Wheatley |
+| 126 | 284 | Rachael |
 | 127 | 283 | Franswa |
 | 128 | 282 | Timothy Dew |
 | 129 | 282 | Cool Shiftsnap |
@@ -169,8 +169,8 @@
 | 161 | 224 | Dizzy Party |
 | 162 | 218 | LC |
 | 163 | 217 | ParisandCory Champagne |
-| 164 | 216 | MRdot Rooski |
-| 165 | 216 | Shauntina Burke |
+| 164 | 216 | Shauntina Burke |
+| 165 | 216 | MRdot Rooski |
 | 166 | 213 | Daring Fitclear |
 | 167 | 212 | Jaimie Lynn |
 | 168 | 211 | Marianita Garcia |
@@ -183,8 +183,8 @@
 | 175 | 207 | Ty Brown |
 | 176 | 207 | Leslie Bush Yarbrough |
 | 177 | 206 | BadG52 |
-| 178 | 205 | Snappy Matcher |
-| 179 | 205 | Tater |
+| 178 | 205 | Tater |
+| 179 | 205 | Snappy Matcher |
 | 180 | 204 | Lacy Wolfe |
 | 181 | 203 | Paula Martin |
 | 182 | 203 | LaFontaine Leslie |
@@ -192,13 +192,13 @@
 | 184 | 201 | Sam Williams |
 | 185 | 200 | Debbie Davis |
 | 186 | 199 | Basment Living |
-| 187 | 198 | Shiny Gridmatch |
-| 188 | 198 | Happy Snapbuild |
+| 187 | 198 | Happy Snapbuild |
+| 188 | 198 | Shiny Gridmatch |
 | 189 | 195 | Shaykmia |
 | 190 | 194 | Christy Jones |
-| 191 | 193 | Jennifer Olewnik Soborowski |
-| 192 | 193 | Lachelle Dillon |
-| 193 | 193 | Michael |
+| 191 | 193 | Lachelle Dillon |
+| 192 | 193 | Michael |
+| 193 | 193 | Jennifer Olewnik Soborowski |
 | 194 | 192 | Jessica Sheehan |
 | 195 | 191 | Shanae Grant |
 | 196 | 191 | Diane Byrd |

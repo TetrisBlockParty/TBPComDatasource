@@ -48,8 +48,8 @@
 | 40 | 757 | Ancient Intuition |
 | 41 | 736 | Goatimus Lombardi |
 | 42 | 734 | BertMofo |
-| 43 | 707 | Clarence Patawaran |
-| 44 | 707 | Rachel Anne |
+| 43 | 707 | Rachel Anne |
+| 44 | 707 | Clarence Patawaran |
 | 45 | 704 | Crystal Carroll |
 | 46 | 697 | Edward White |
 | 47 | 695 | LisaJo Picken Buchanan |
@@ -61,8 +61,8 @@
 | 53 | 652 | Anthony Bryan Riva |
 | 54 | 647 | KM8 |
 | 55 | 646 | Jacqueline Helm |
-| 56 | 636 | Kimyatta Cavin |
-| 57 | 636 | Dustee Craddock-Harrison |
+| 56 | 636 | Dustee Craddock-Harrison |
+| 57 | 636 | Kimyatta Cavin |
 | 58 | 623 | Robin Getchel |
 | 59 | 599 | Brittney Griggs |
 | 60 | 593 | Lisa Davis |
@@ -92,8 +92,8 @@
 | 84 | 418 | Chastity Mitchell |
 | 85 | 416 | YoMomma |
 | 86 | 412 | Jenna Ingersoll |
-| 87 | 409 | Jolly Dashfit |
-| 88 | 409 | Isabella Blanco |
+| 87 | 409 | Isabella Blanco |
+| 88 | 409 | Jolly Dashfit |
 | 89 | 407 | Leslie Thomas |
 | 90 | 405 | Shane Kalamata Platoon |
 | 91 | 404 | Courtney Cicoria |
@@ -107,8 +107,8 @@
 | 99 | 373 | Joseph Guthrie |
 | 100 | 369 | Nope Young |
 | 101 | 358 | Nugget |
-| 102 | 352 | Zippy Gridlock |
-| 103 | 352 | Monica Daley |
+| 102 | 352 | Monica Daley |
+| 103 | 352 | Zippy Gridlock |
 | 104 | 344 | Livvy |
 | 105 | 340 | Tyler Terrific |
 | 106 | 337 | Lori Walker |
@@ -129,8 +129,8 @@
 | 121 | 294 | Kesha Brady |
 | 122 | 290 | 🥔🥔 Spudz |
 | 123 | 287 | Shannon Ferrari |
-| 124 | 286 | Daria Rycewicz |
-| 125 | 286 | shark tato |
+| 124 | 286 | shark tato |
+| 125 | 286 | Daria Rycewicz |
 | 126 | 283 | Brittney Orengo |
 | 127 | 281 | Meagan Nicole |
 | 128 | 278 | Carrie Brian |
@@ -157,8 +157,8 @@
 | 149 | 230 | Cursed Hag |
 | 150 | 229 | Chris Bernstein |
 | 151 | 228 | J-Rizzle |
-| 152 | 227 | Swanky Fitline |
-| 153 | 227 | Alyssa Papen |
+| 152 | 227 | Alyssa Papen |
+| 153 | 227 | Swanky Fitline |
 | 154 | 225 | Damn Libra |
 | 155 | 224 | Matt Summer |
 | 156 | 223 | Andy Cabral |
@@ -182,8 +182,8 @@
 | 174 | 204 | Jen Caldwell |
 | 175 | 203 | Katherine Crane |
 | 176 | 202 | TRCuse |
-| 177 | 201 | Chance Strickland |
-| 178 | 201 | Melvin Baird |
+| 177 | 201 | Melvin Baird |
+| 178 | 201 | Chance Strickland |
 | 179 | 199 | Zethra Prenisha Rahming |
 | 180 | 198 | Jessica Lynn Cutlip |
 | 181 | 196 | Oscar Alberto Perez |
@@ -221,9 +221,9 @@
 | 213 | 162 | John Brunetti |
 | 214 | 162 | Joanna |
 | 215 | 161 | Jenny Wells-Oakley |
-| 216 | 160 | Brittany Marsh |
-| 217 | 160 | Laura Hosford |
-| 218 | 160 | Carlos Ramirez |
+| 216 | 160 | Laura Hosford |
+| 217 | 160 | Carlos Ramirez |
+| 218 | 160 | Brittany Marsh |
 | 219 | 159 | Marcus Todd |
 | 220 | 158 | Ashley Ingram |
 | 221 | 158 | Avy Absol |

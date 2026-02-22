@@ -275,19 +275,19 @@
 | 267 | 713 | Kiely Tomaskovich |
 | 268 | 704 | Shelley Thornburgh Wright |
 | 269 | 703 | Gold Rose |
-| 270 | 700 | Beverly Owens |
-| 271 | 700 | Rosemadder |
-| 272 | 700 | Hong Tang |
-| 273 | 700 | Vincent Petrella |
+| 270 | 700 | Hong Tang |
+| 271 | 700 | Vincent Petrella |
+| 272 | 700 | Beverly Owens |
+| 273 | 700 | Rosemadder |
 | 274 | 698 | Mighty Shatterfit |
 | 275 | 697 | Dreamy Blast |
-| 276 | 692 | Jennifer Casey-Kay |
-| 277 | 692 | Dannette Goldberg-Richards |
-| 278 | 692 | Chelle |
+| 276 | 692 | Chelle |
+| 277 | 692 | Jennifer Casey-Kay |
+| 278 | 692 | Dannette Goldberg-Richards |
 | 279 | 690 | Deborah Miller |
 | 280 | 689 | Giggy Blocker |
-| 281 | 688 | ShinyRose |
-| 282 | 688 | Tiara Elizabeth Baker |
+| 281 | 688 | Tiara Elizabeth Baker |
+| 282 | 688 | ShinyRose |
 | 283 | 687 | Stephanie Lumanlan |
 | 284 | 686 | Ashley Guernsey-Martin |
 | 285 | 685 | Binyah-Binyah |
@@ -380,7 +380,7 @@
 | 372 | 527 | Julie Kresal |
 | 373 | 526 | Emily Lyric Converse |
 | 374 | 526 | Sheronda Jackson |
-| 375 | 526 | Emily Lyric Converse |
+| 375 | 526 | AISlop |
 | 376 | 525 | Desiree Anderson |
 | 377 | 524 | Jojo Momma |
 | 378 | 524 | Shaun Church |
@@ -401,8 +401,8 @@
 | 393 | 509 | Kelli Wells |
 | 394 | 509 | Jordan Kaiser |
 | 395 | 507 | Irene Jones |
-| 396 | 507 | Joshua Mandel |
-| 397 | 507 | Magic steve |
+| 396 | 507 | Magic steve |
+| 397 | 507 | Joshua Mandel |
 | 398 | 504 | Kimmy Newman |
 | 399 | 502 | Sparkles |
 | 400 | 500 | Sarah Ridenour |
@@ -819,14 +819,14 @@
 | 811 | 265 | trabuco |
 | 812 | 265 | Theresa Sterrett |
 | 813 | 265 | Chummy Breaker |
-| 814 | 264 | Debbie Gerlib-Molinari Leigh |
-| 815 | 264 | Rachel Switala |
-| 816 | 264 | Ocean-Brianna McGregor |
-| 817 | 264 | Matthew Joseph Acevedo |
+| 814 | 264 | Ocean-Brianna McGregor |
+| 815 | 264 | Matthew Joseph Acevedo |
+| 816 | 264 | Rachel Switala |
+| 817 | 264 | Debbie Gerlib-Molinari Leigh |
 | 818 | 264 | Sanaa Nounoussa |
 | 819 | 264 | Maria Hammett |
-| 820 | 263 | Sara Pennington |
-| 821 | 263 | Laura Wyatt |
+| 820 | 263 | Laura Wyatt |
+| 821 | 263 | Sara Pennington |
 | 822 | 263 | Elizabeth Leinen |
 | 823 | 263 | Katherin Camacho |
 | 824 | 263 | Sunshine711 |

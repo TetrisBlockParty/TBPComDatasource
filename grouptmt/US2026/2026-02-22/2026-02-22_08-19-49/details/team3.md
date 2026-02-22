@@ -120,19 +120,19 @@
 | 112 | 506 | Sashay Tapae Simpson |
 | 113 | 502 | Justin Ritter |
 | 114 | 502 | Elissa S-k |
-| 115 | 500 | Kristie |
-| 116 | 500 | Domo Washington |
+| 115 | 500 | Domo Washington |
+| 116 | 500 | Kristie |
 | 117 | 497 | Mykal Burton |
 | 118 | 492 | Daira Largen |
 | 119 | 491 | Chauntee Alfrey-Cardinale |
 | 120 | 487 | Alaina Lee |
 | 121 | 482 | Jennifer Lynn Fahrenholtz-Summers |
-| 122 | 480 | Stephanie Blkpep Davidson |
-| 123 | 480 | Christine Filson |
+| 122 | 480 | Christine Filson |
+| 123 | 480 | Stephanie Blkpep Davidson |
 | 124 | 479 | Patti Skiles |
 | 125 | 479 | Poppy Splitter |
-| 126 | 473 | CeceGeGe |
-| 127 | 473 | mzcatzy |
+| 126 | 473 | mzcatzy |
+| 127 | 473 | CeceGeGe |
 | 128 | 471 | Mendoza Lee Christy |
 | 129 | 459 | Nerdy Riseclear |
 | 130 | 457 | Jim Mathews |
@@ -156,8 +156,8 @@
 | 148 | 401 | Katie Knaus |
 | 149 | 400 | Luciana Braganca Vieira |
 | 150 | 399 | Marcie Bressler |
-| 151 | 399 | Jacqueline Rodriguez |
-| 152 | 399 | Mcathen |
+| 151 | 399 | Mcathen |
+| 152 | 399 | Jacqueline Rodriguez |
 | 153 | 397 | Annie Déè |
 | 154 | 393 | Fallorina Susana |
 | 155 | 392 | Tasha Gillespie |
@@ -285,8 +285,8 @@
 | 277 | 214 | Rebel124 |
 | 278 | 212 | Desiree Gold |
 | 279 | 212 | Sunny Rotater |
-| 280 | 211 | Velma Mull |
-| 281 | 211 | El Chapa |
+| 280 | 211 | El Chapa |
+| 281 | 211 | Velma Mull |
 | 282 | 211 | Khaleada McGill Banks |
 | 283 | 210 | Lizabeth Fox |
 | 284 | 209 | Micayah Stevens |
