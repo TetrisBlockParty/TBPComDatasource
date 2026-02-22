@@ -104,8 +104,8 @@
 | 96 | 369 | Nope Young |
 | 97 | 359 | Chilly Crasher |
 | 98 | 358 | Nugget |
-| 99 | 352 | Zippy Gridlock |
-| 100 | 352 | Monica Daley |
+| 99 | 352 | Monica Daley |
+| 100 | 352 | Zippy Gridlock |
 | 101 | 344 | Livvy |
 | 102 | 337 | Lori Walker |
 | 103 | 331 | ThaEviLJeNiuZ |
@@ -126,8 +126,8 @@
 | 118 | 290 | 🥔🥔 Spudz |
 | 119 | 288 | Leslie Nicole |
 | 120 | 287 | Shannon Ferrari |
-| 121 | 286 | shark tato |
-| 122 | 286 | Daria Rycewicz |
+| 121 | 286 | Daria Rycewicz |
+| 122 | 286 | shark tato |
 | 123 | 283 | Brittney Orengo |
 | 124 | 281 | Meagan Nicole |
 | 125 | 278 | Carrie Brian |
@@ -171,8 +171,8 @@
 | 163 | 215 | Ren Mc |
 | 164 | 213 | Jason Allen |
 | 165 | 213 | Sarah Neathery |
-| 166 | 212 | Mike Solo |
-| 167 | 212 | Calvin Cannon |
+| 166 | 212 | Calvin Cannon |
+| 167 | 212 | Mike Solo |
 | 168 | 211 | Jenna McGeorge |
 | 169 | 207 | Chirpy Basepiece |
 | 170 | 205 | Kathy Brookins |
@@ -191,12 +191,12 @@
 | 183 | 192 | Shauna Havard |
 | 184 | 191 | Klo |
 | 185 | 190 | Cheery Risebuilder |
-| 186 | 189 | Calvin Dennis |
-| 187 | 189 | Stacey Stano |
+| 186 | 189 | Stacey Stano |
+| 187 | 189 | Calvin Dennis |
 | 188 | 188 | Andria Lynn |
 | 189 | 186 | Holly |
-| 190 | 185 | Lori |
-| 191 | 185 | Andy Cabral |
+| 190 | 185 | Andy Cabral |
+| 191 | 185 | Lori |
 | 192 | 184 | Ak Jones |
 | 193 | 181 | Alan George LaRage |
 | 194 | 181 | Carter Jones |
@@ -209,8 +209,8 @@
 | 201 | 172 | Gilles Lanctot |
 | 202 | 171 | Autumn Kumzi |
 | 203 | 167 | Cozy Balancer |
-| 204 | 166 | SammieJo Guy |
-| 205 | 166 | Marvin Lou Martin |
+| 204 | 166 | Marvin Lou Martin |
+| 205 | 166 | SammieJo Guy |
 | 206 | 165 | James Hurley Jr. |
 | 207 | 165 | Jackie Marie |
 | 208 | 164 | 030Synner |

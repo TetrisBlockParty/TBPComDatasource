@@ -61,8 +61,8 @@
 | 53 | 908 | Alanna Rogers |
 | 54 | 907 | Judi Dobson |
 | 55 | 903 | Sarah Fehring |
-| 56 | 895 | Amanda L Baker |
-| 57 | 895 | Shonna Roberts |
+| 56 | 895 | Shonna Roberts |
+| 57 | 895 | Amanda L Baker |
 | 58 | 886 | Khristen AC |
 | 59 | 874 | Jessica Pineda-Lopez |
 | 60 | 867 | Corie A. Brinson |
@@ -308,8 +308,8 @@
 | 300 | 189 | Katie Leigh Blankenship |
 | 301 | 188 | Loopy Fallmatch |
 | 302 | 186 | Carrie Huskey |
-| 303 | 184 | France Vézina |
-| 304 | 184 | Troy |
+| 303 | 184 | Troy |
+| 304 | 184 | France Vézina |
 | 305 | 184 | Stephanie Hill |
 | 306 | 182 | Melanie Sherwood |
 | 307 | 181 | Nicholas Roddy |
@@ -335,8 +335,8 @@
 | 327 | 168 | Trice Thomas |
 | 328 | 168 | April Matthew Kibble |
 | 329 | 167 | Shicken Nuggit |
-| 330 | 167 | Irene Arreguin |
-| 331 | 167 | Romeo |
+| 330 | 167 | Romeo |
+| 331 | 167 | Irene Arreguin |
 | 332 | 166 | Noettín Kan Zasnemoore |
 | 333 | 166 | Snarky McFace |
 | 334 | 165 | Ashley Lynn Marchese |
@@ -352,8 +352,8 @@
 | 344 | 161 | Michael Johnson |
 | 345 | 161 | Bouncy Blockbuilder |
 | 346 | 159 | Joshua David Huie |
-| 347 | 159 | Salena Whitlock |
-| 348 | 159 | Ashley Rufus Bythcez |
+| 347 | 159 | Ashley Rufus Bythcez |
+| 348 | 159 | Salena Whitlock |
 | 349 | 158 | Willow |
 | 350 | 157 | Angel Mendez |
 | 351 | 157 | Katrina E Jelks |
@@ -363,8 +363,8 @@
 | 355 | 156 | Nichole Greene |
 | 356 | 155 | Michell Hendershott Jackson |
 | 357 | 155 | Michael Leblanc |
-| 358 | 153 | Lys |
-| 359 | 153 | Sheila M Frazier |
+| 358 | 153 | Sheila M Frazier |
+| 359 | 153 | Lys |
 | 360 | 153 | Tony Waters |
 | 361 | 152 | Goofy Fall |
 | 362 | 152 | Shiny Zonebuilder |
@@ -377,7 +377,7 @@
 | 369 | 148 | Bryan Byrd |
 | 370 | 147 | Kiki |
 | 371 | 147 | David Bardo |
-| 372 | 147 | Kiki |
+| 372 | 147 | Funky Jumper |
 | 373 | 147 | sofaking |
 | 374 | 146 | ROODBOY |
 | 375 | 146 | Sara Dunn |
@@ -397,7 +397,7 @@
 | 389 | 140 | Alison Baus |
 | 390 | 139 | Betty Bóò |
 | 391 | 139 | Beppy |
-| 392 | 139 | Betty Bóò |
+| 392 | 139 | MizzMonick Smith |
 | 393 | 139 | Paula Little |
 | 394 | 138 | Bleu Sun Beams |
 | 395 | 138 | Skinny Baldez |

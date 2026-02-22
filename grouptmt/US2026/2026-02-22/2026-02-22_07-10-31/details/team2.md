@@ -217,8 +217,8 @@
 | 209 | 838 | Tralonda Weeks |
 | 210 | 837 | Ashley Rose Frederick |
 | 211 | 835 | Katrina Weston |
-| 212 | 834 | Nika Bee |
-| 213 | 834 | Rebecca Doughman |
+| 212 | 834 | Rebecca Doughman |
+| 213 | 834 | Nika Bee |
 | 214 | 828 | Cindy Sechler Taninecz |
 | 215 | 820 | Chirpy Staggerpiece |
 | 216 | 818 | Angela Bonquiqui Dinish |
@@ -234,9 +234,9 @@
 | 226 | 801 | Debra Williams |
 | 227 | 800 | Danielle Johnson-Chandler |
 | 228 | 787 | Laura McCarthey |
-| 229 | 777 | Tesha Oldaker |
+| 229 | 777 | Barbra Miller |
 | 230 | 777 | Jessicah Myers |
-| 231 | 777 | Barbra Miller |
+| 231 | 777 | Tesha Oldaker |
 | 232 | 777 | Eric Carlson |
 | 233 | 772 | Stephen Stephen |
 | 234 | 771 | Terri McKelvey McKinley |
@@ -736,8 +736,8 @@
 | 728 | 297 | Ashley Robbins |
 | 729 | 296 | Jennifer Darby |
 | 730 | 296 | Frisky Riserbuilder |
-| 731 | 296 | Zappy Dropmatch |
-| 732 | 296 | Amber Gray |
+| 731 | 296 | Amber Gray |
+| 732 | 296 | Zappy Dropmatch |
 | 733 | 295 | Noel Tarmy |
 | 734 | 294 | Epic Fitzone |
 | 735 | 294 | Hyper Riseclear |
@@ -748,8 +748,8 @@
 | 740 | 289 | August Hale |
 | 741 | 289 | Bella Novia |
 | 742 | 288 | thranduil |
-| 743 | 288 | Samantha Angelo |
-| 744 | 288 | Jenna Nance |
+| 743 | 288 | Jenna Nance |
+| 744 | 288 | Samantha Angelo |
 | 745 | 288 | Ashley Criner |
 | 746 | 287 | Toni Roberson |
 | 747 | 286 | Kelsey Sullivan |
