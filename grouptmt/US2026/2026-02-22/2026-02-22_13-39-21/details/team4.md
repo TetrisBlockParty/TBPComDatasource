@@ -61,8 +61,8 @@
 | 53 | 697 | Edward White |
 | 54 | 664 | Valerie Roberts |
 | 55 | 661 | D3TROITB0RN74 |
-| 56 | 659 | Jonathan Kimbrough |
-| 57 | 659 | Rebecca Moulton Pinciaro |
+| 56 | 659 | Rebecca Moulton Pinciaro |
+| 57 | 659 | Jonathan Kimbrough |
 | 58 | 658 | loulou |
 | 59 | 654 | Chilly Line |
 | 60 | 647 | KM8 |
@@ -371,8 +371,8 @@
 | 363 | 117 | David V. Bowers |
 | 364 | 117 | PennyCandee |
 | 365 | 117 | BigSammy420 |
-| 366 | 116 | Smiley Shifter |
-| 367 | 116 | Kate |
+| 366 | 116 | Kate |
+| 367 | 116 | Smiley Shifter |
 | 368 | 116 | Bradley Reeves |
 | 369 | 115 | Kevin Bush |
 | 370 | 115 | Jayk |

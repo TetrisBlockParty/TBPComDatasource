@@ -212,8 +212,8 @@
 | 204 | 202 | Amanda Holibaugh |
 | 205 | 202 | Fmp |
 | 206 | 201 | Colleen Wise |
-| 207 | 200 | Flashy Rotator |
-| 208 | 200 | DaRascal |
+| 207 | 200 | DaRascal |
+| 208 | 200 | Flashy Rotator |
 | 209 | 200 | Breanna Luna |
 | 210 | 199 | Alenoush Karimian |
 | 211 | 198 | Shiny Gridmatch |
