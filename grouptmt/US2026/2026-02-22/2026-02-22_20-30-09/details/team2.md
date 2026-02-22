@@ -141,8 +141,8 @@
 | 133 | 1469 | Christi Hulet |
 | 134 | 1450 | Cody Smith-Candelaria |
 | 135 | 1418 | L3sli3 |
-| 136 | 1411 | Zappy Cascade |
-| 137 | 1411 | niecy |
+| 136 | 1411 | niecy |
+| 137 | 1411 | Zappy Cascade |
 | 138 | 1401 | Brandy Andre |
 | 139 | 1390 | Erica Williams |
 | 140 | 1383 | Ladyrainbootz |
@@ -219,8 +219,8 @@
 | 211 | 1037 | Teddi Notyalc |
 | 212 | 1036 | Allison Lockyer |
 | 213 | 1034 | Debra Williams |
-| 214 | 1024 | Taylor Phillips |
-| 215 | 1024 | Desiree Anderson |
+| 214 | 1024 | Desiree Anderson |
+| 215 | 1024 | Taylor Phillips |
 | 216 | 1023 | Brainy Smurf |
 | 217 | 1022 | Shannon Joslin |
 | 218 | 1020 | Eric Carlson |
@@ -450,23 +450,23 @@
 | 442 | 584 | Emilee Burke |
 | 443 | 582 | Bee |
 | 444 | 581 | Angie Marie |
-| 445 | 580 | Angela Lynn |
-| 446 | 580 | Joshua Self |
+| 445 | 580 | Joshua Self |
+| 446 | 580 | Angela Lynn |
 | 447 | 579 | Roy Salyer |
 | 448 | 576 | Leslie Johnson Guinto |
 | 449 | 574 | Santana Miyagi |
 | 450 | 572 | Chris Wanner |
 | 451 | 571 | Emily Lyric Converse |
-| 452 | 569 | Dapper Dasher |
-| 453 | 569 | Sparkles |
+| 452 | 569 | Sparkles |
+| 453 | 569 | Dapper Dasher |
 | 454 | 569 | Vaniel Glover |
 | 455 | 569 | Joseph Musick |
 | 456 | 567 | Irene Jones |
 | 457 | 566 | Leah Keesling |
 | 458 | 565 | Lyndi Robinson Wakefield |
 | 459 | 565 | Jaycee |
-| 460 | 563 | snkylnk |
-| 461 | 563 | Lonne Emade |
+| 460 | 563 | Lonne Emade |
+| 461 | 563 | snkylnk |
 | 462 | 563 | Sarah Massey |
 | 463 | 562 | AISlop |
 | 464 | 559 | Blacc Blac |
@@ -475,8 +475,8 @@
 | 467 | 558 | Libby Hicks |
 | 468 | 556 | Slip |
 | 469 | 554 | Rachael Senard |
-| 470 | 554 | Laquetta Royston |
-| 471 | 554 | Tra Barnum |
+| 470 | 554 | Tra Barnum |
+| 471 | 554 | Laquetta Royston |
 | 472 | 551 | Cynthia Louann Rose |
 | 473 | 550 | Michael Artis |
 | 474 | 549 | Kaylee McCafferty |
@@ -536,8 +536,8 @@
 | 528 | 491 | Alezandra Smith |
 | 529 | 489 | Elisheva Mizrachi |
 | 530 | 488 | Christina Wsn |
-| 531 | 487 | Morgan Easter |
-| 532 | 487 | MrsCandyfine As Wine Truss |
+| 531 | 487 | MrsCandyfine As Wine Truss |
+| 532 | 487 | Morgan Easter |
 | 533 | 486 | Amanda Ferrell |
 | 534 | 486 | Ann Knutson Anderson |
 | 535 | 485 | Klee |
@@ -599,8 +599,8 @@
 | 591 | 458 | Jessica S Flecha |
 | 592 | 457 | Abimbola Bimbo |
 | 593 | 456 | Misty Mitchell |
-| 594 | 456 | Kacee Conrad Bock |
-| 595 | 456 | Skyler Morgan |
+| 594 | 456 | Skyler Morgan |
+| 595 | 456 | Kacee Conrad Bock |
 | 596 | 454 | Joice Hansen |
 | 597 | 453 | Samantha Scibelli |
 | 598 | 452 | BK Queen |

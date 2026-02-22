@@ -183,8 +183,8 @@
 | 175 | 445 | Jacqueline Rodriguez |
 | 176 | 441 | Tasha Schriewer |
 | 177 | 439 | Tasha Gillespie |
-| 178 | 432 | Jenny Hrndz |
-| 179 | 432 | Luciana Braganca Vieira |
+| 178 | 432 | Luciana Braganca Vieira |
+| 179 | 432 | Jenny Hrndz |
 | 180 | 432 | Christine Trester |
 | 181 | 431 | Sarah Cowan Burgos |
 | 182 | 430 | Jeni Dow |
@@ -249,8 +249,8 @@
 | 241 | 324 | Sissy Lowery Davis |
 | 242 | 323 | Demetrious Shaw Sr. |
 | 243 | 321 | Rebecca Bailey |
-| 244 | 320 | Or Reznitsky |
-| 245 | 320 | Ashley Muncey |
+| 244 | 320 | Ashley Muncey |
+| 245 | 320 | Or Reznitsky |
 | 246 | 319 | Jaime Monhaut-Reed |
 | 247 | 319 | Michael Johnson |
 | 248 | 317 | Kelly |
@@ -314,8 +314,8 @@
 | 306 | 258 | IamJust Neyamijah Washington Sr. |
 | 307 | 256 | KayB |
 | 308 | 254 | Sharisse Baltimore |
-| 309 | 252 | Geoffrey Nash |
-| 310 | 252 | Snazzy Filler |
+| 309 | 252 | Snazzy Filler |
+| 310 | 252 | Geoffrey Nash |
 | 311 | 251 | Twisty Brick LT |
 | 312 | 251 | Naur |
 | 313 | 250 | Tosha Griffey |
@@ -383,8 +383,8 @@
 | 375 | 209 | Daring Builder |
 | 376 | 208 | Karent524 |
 | 377 | 208 | Michael Kimbro |
-| 378 | 207 | angieelyn |
-| 379 | 207 | Kristian Thurman |
+| 378 | 207 | Kristian Thurman |
+| 379 | 207 | angieelyn |
 | 380 | 206 | Tammy Rosenberry |
 | 381 | 206 | Cesar Barraza |
 | 382 | 205 | Rachel Napper |

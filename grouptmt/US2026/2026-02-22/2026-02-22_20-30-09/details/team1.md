@@ -167,8 +167,8 @@
 | 159 | 303 | Chelsea Dahlquist |
 | 160 | 303 | Veronica Eve |
 | 161 | 302 | Mike Ames |
-| 162 | 298 | femmefatale |
-| 163 | 298 | Danielle Little-Daugherty |
+| 162 | 298 | Danielle Little-Daugherty |
+| 163 | 298 | femmefatale |
 | 164 | 296 | Madison Wicks |
 | 165 | 295 | David Lutcher |
 | 166 | 295 | Emily Adelaide Wheatley |
@@ -226,21 +226,21 @@
 | 218 | 234 | Paula Martin |
 | 219 | 233 | LC |
 | 220 | 232 | Basment Living |
-| 221 | 231 | Tyler Hertzog |
-| 222 | 231 | Sarah Somers Gray |
+| 221 | 231 | Sarah Somers Gray |
+| 222 | 231 | Tyler Hertzog |
 | 223 | 230 | BigWeenie69 |
 | 224 | 230 | Jen Nystrom |
 | 225 | 228 | Shiny Gridmatch |
 | 226 | 228 | Giddy Cascade |
 | 227 | 226 | Michael |
-| 228 | 225 | Jessie Lynn |
-| 229 | 225 | Bindi |
+| 228 | 225 | Bindi |
+| 229 | 225 | Jessie Lynn |
 | 230 | 224 | ParisandCory Champagne |
 | 231 | 223 | Christina Backer |
 | 232 | 223 | Erez Yosef |
 | 233 | 222 | Debbie Davis |
-| 234 | 221 | Amy Hess |
-| 235 | 221 | Daring Fitclear |
+| 234 | 221 | Daring Fitclear |
+| 235 | 221 | Amy Hess |
 | 236 | 219 | Chuck Gannon |
 | 237 | 219 | Negan Mallory Knoxx Spence |
 | 238 | 216 | Shanae Grant |

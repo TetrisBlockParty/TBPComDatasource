@@ -81,8 +81,8 @@
 | 73 | 647 | Shauna Havard |
 | 74 | 646 | Jacqueline Helm |
 | 75 | 626 | Brittney Griggs |
-| 76 | 617 | Jason Hart |
-| 77 | 617 | Savannah Overdorf |
+| 76 | 617 | Savannah Overdorf |
+| 77 | 617 | Jason Hart |
 | 78 | 614 | TheNeesh50 |
 | 79 | 603 | Jason Allen |
 | 80 | 597 | Eric Mcgaughy |
@@ -98,8 +98,8 @@
 | 90 | 537 | Dawn Alexander |
 | 91 | 531 | Amelpss |
 | 92 | 519 | Nugget |
-| 93 | 513 | YoMomma |
-| 94 | 513 | Erin Thomas |
+| 93 | 513 | Erin Thomas |
+| 94 | 513 | YoMomma |
 | 95 | 512 | Casey Jeffcoat |
 | 96 | 509 | Diana Houts |
 | 97 | 500 | Rodney McMath Jr. |
@@ -187,8 +187,8 @@
 | 179 | 272 | Alan George LaRage |
 | 180 | 271 | Sarah Brown |
 | 181 | 270 | Juls |
-| 182 | 269 | jim |
-| 183 | 269 | Nikki Rae Gordon |
+| 182 | 269 | Nikki Rae Gordon |
+| 183 | 269 | jim |
 | 184 | 268 | Mimi |
 | 185 | 267 | Kathy Brookins |
 | 186 | 267 | Casey Grabner |
@@ -664,8 +664,8 @@
 | 656 | 76 | Kelly Duncan |
 | 657 | 76 | Meli  Jackson |
 | 658 | 75 | Hyper Matchclear |
-| 659 | 75 | Ashley Danielle |
-| 660 | 75 | Bold Buildsnap |
+| 659 | 75 | Bold Buildsnap |
+| 660 | 75 | Ashley Danielle |
 | 661 | 75 | Tracey Oger |
 | 662 | 74 | Tiffany Tran |
 | 663 | 74 | Kelly Williams |
