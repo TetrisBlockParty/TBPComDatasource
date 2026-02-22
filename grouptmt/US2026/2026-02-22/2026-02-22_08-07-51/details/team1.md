@@ -263,8 +263,8 @@
 | 255 | 150 | Adele Rahman |
 | 256 | 149 | Jessica Russell |
 | 257 | 149 | Chirpy Smasher |
-| 258 | 147 | J.F. Fields |
-| 259 | 147 | Davery Spencer Adair |
+| 258 | 147 | Davery Spencer Adair |
+| 259 | 147 | J.F. Fields |
 | 260 | 145 | Tipsy Riseclear |
 | 261 | 144 | Miguel Teixeira |
 | 262 | 144 | Fmp |

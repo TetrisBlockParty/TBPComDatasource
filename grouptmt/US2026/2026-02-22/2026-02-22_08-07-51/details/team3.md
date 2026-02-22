@@ -104,8 +104,8 @@
 | 96 | 581 | Danielle Mogg |
 | 97 | 579 | Jd Morris |
 | 98 | 566 | Dolores Falco |
-| 99 | 565 | Patty Allen |
-| 100 | 565 | Rachael McClain Owens |
+| 99 | 565 | Rachael McClain Owens |
+| 100 | 565 | Patty Allen |
 | 101 | 562 | Louise Stacy Sisson |
 | 102 | 562 | Dave Herzog |
 | 103 | 559 | Morgan Martinez |
@@ -119,8 +119,8 @@
 | 111 | 506 | Sashay Tapae Simpson |
 | 112 | 502 | Justin Ritter |
 | 113 | 502 | Elissa S-k |
-| 114 | 500 | Kristie |
-| 115 | 500 | Domo Washington |
+| 114 | 500 | Domo Washington |
+| 115 | 500 | Kristie |
 | 116 | 497 | Mykal Burton |
 | 117 | 496 | Queen Kam |
 | 118 | 492 | Daira Largen |
@@ -131,8 +131,8 @@
 | 123 | 480 | Christine Filson |
 | 124 | 479 | Patti Skiles |
 | 125 | 479 | Poppy Splitter |
-| 126 | 473 | CeceGeGe |
-| 127 | 473 | mzcatzy |
+| 126 | 473 | mzcatzy |
+| 127 | 473 | CeceGeGe |
 | 128 | 471 | Mendoza Lee Christy |
 | 129 | 459 | Nerdy Riseclear |
 | 130 | 457 | Jim Mathews |
@@ -156,8 +156,8 @@
 | 148 | 401 | Katie Knaus |
 | 149 | 400 | Luciana Braganca Vieira |
 | 150 | 399 | Marcie Bressler |
-| 151 | 399 | Mcathen |
-| 152 | 399 | Jacqueline Rodriguez |
+| 151 | 399 | Jacqueline Rodriguez |
+| 152 | 399 | Mcathen |
 | 153 | 397 | Annie Déè |
 | 154 | 393 | Fallorina Susana |
 | 155 | 392 | Tasha Gillespie |
@@ -199,8 +199,8 @@
 | 191 | 311 | Rochelle Hazelett |
 | 192 | 311 | Stephanie Burtin |
 | 193 | 310 | Danielle Balcom |
-| 194 | 308 | Daryn Elliott |
-| 195 | 308 | Rania Zaqout |
+| 194 | 308 | Rania Zaqout |
+| 195 | 308 | Daryn Elliott |
 | 196 | 307 | rnr junky |
 | 197 | 307 | Blocked |
 | 198 | 306 | Noyb Adam |
@@ -213,8 +213,8 @@
 | 205 | 296 | Brandon Givens |
 | 206 | 295 | Marci Mize Fandrich |
 | 207 | 295 | RickyG |
-| 208 | 289 | Hoppy Buildout |
-| 209 | 289 | Duane Bright |
+| 208 | 289 | Duane Bright |
+| 209 | 289 | Hoppy Buildout |
 | 210 | 289 | DidIdothat |
 | 211 | 286 | Cynthia Herrmann Egland |
 | 212 | 284 | Denise Nardoni |
@@ -293,9 +293,9 @@
 | 285 | 208 | AlsoJess |
 | 286 | 207 | Jessica |
 | 287 | 207 | angieelyn |
-| 288 | 206 | Tammy Rosenberry |
-| 289 | 206 | Jone |
-| 290 | 206 | Tracy Martin |
+| 288 | 206 | Tracy Martin |
+| 289 | 206 | Tammy Rosenberry |
+| 290 | 206 | Jone |
 | 291 | 204 | Aerian Preston |
 | 292 | 203 | Angie Harper |
 | 293 | 202 | Staci George Fitzsimmons |
@@ -328,14 +328,14 @@
 | 320 | 179 | Tipsy Zonebuilder |
 | 321 | 178 | Jess Dearborn |
 | 322 | 178 | Jennifer Alvey |
-| 323 | 176 | Melissa Orth Hunter |
-| 324 | 176 | Emma |
+| 323 | 176 | Emma |
+| 324 | 176 | Melissa Orth Hunter |
 | 325 | 175 | Eileen Brady Thurber |
 | 326 | 174 | Betty Rosas |
 | 327 | 174 | Lesley Perez |
 | 328 | 173 | BŘŰŤİÇŨŚ |
-| 329 | 169 | Peachy Rollfit |
-| 330 | 169 | Naur |
+| 329 | 169 | Naur |
+| 330 | 169 | Peachy Rollfit |
 | 331 | 169 | Kristian Thurman |
 | 332 | 168 | Trice Thomas |
 | 333 | 168 | April Matthew Kibble |
@@ -373,8 +373,8 @@
 | 365 | 153 | Sheila M Frazier |
 | 366 | 153 | Tony Waters |
 | 367 | 152 | Goofy Fall |
-| 368 | 152 | Eric Caccavale |
-| 369 | 152 | Shiny Zonebuilder |
+| 368 | 152 | Shiny Zonebuilder |
+| 369 | 152 | Eric Caccavale |
 | 370 | 151 | Sarah Cowan Burgos |
 | 371 | 150 | Sassy Brickmatch |
 | 372 | 149 | Alexis Taylor |

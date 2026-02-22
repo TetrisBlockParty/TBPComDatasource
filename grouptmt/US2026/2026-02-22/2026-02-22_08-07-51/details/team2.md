@@ -61,8 +61,8 @@
 | 53 | 2344 | Melinda Brown |
 | 54 | 2333 | Crystalin Heath Lewis |
 | 55 | 2298 | Brent Bittenbender |
-| 56 | 2280 | Ramone Armstrong |
-| 57 | 2280 | Robert Diddle |
+| 56 | 2280 | Robert Diddle |
+| 57 | 2280 | Ramone Armstrong |
 | 58 | 2151 | Kelly Crook |
 | 59 | 2137 | KellyDyan |
 | 60 | 2131 | RdRydnHd |
@@ -128,8 +128,8 @@
 | 120 | 1273 | Cool Rollpiece |
 | 121 | 1257 | Eileen Hale |
 | 122 | 1252 | Katrina Williams Balmir |
-| 123 | 1248 | Howard Forest |
-| 124 | 1248 | Isabela Shaw |
+| 123 | 1248 | Isabela Shaw |
+| 124 | 1248 | Howard Forest |
 | 125 | 1242 | Altamirano Michael |
 | 126 | 1232 | Groovy Puzzle |
 | 127 | 1226 | Vo'Landa Reels |
@@ -385,11 +385,11 @@
 | 377 | 524 | Jojo Momma |
 | 378 | 524 | Shaun Church |
 | 379 | 523 | Matt Johnson |
-| 380 | 522 | Lylymom |
-| 381 | 522 | Joseph Musick |
+| 380 | 522 | Joseph Musick |
+| 381 | 522 | Lylymom |
 | 382 | 521 | Tj Ball |
-| 383 | 520 | Angela Lynn |
-| 384 | 520 | Maddy Petersen |
+| 383 | 520 | Maddy Petersen |
+| 384 | 520 | Angela Lynn |
 | 385 | 519 | Rob Brown |
 | 386 | 517 | Amber Brion |
 | 387 | 517 | Porsche' Nicole |
@@ -401,8 +401,8 @@
 | 393 | 509 | Kelli Wells |
 | 394 | 509 | Jordan Kaiser |
 | 395 | 507 | Irene Jones |
-| 396 | 507 | Joshua Mandel |
-| 397 | 507 | Magic steve |
+| 396 | 507 | Magic steve |
+| 397 | 507 | Joshua Mandel |
 | 398 | 504 | Kimmy Newman |
 | 399 | 502 | Sparkles |
 | 400 | 500 | Sarah Ridenour |
@@ -436,8 +436,8 @@
 | 428 | 481 | Klee |
 | 429 | 480 | Dar |
 | 430 | 478 | Ashley Collins |
-| 431 | 477 | Michelle Fields |
-| 432 | 477 | Julay |
+| 431 | 477 | Julay |
+| 432 | 477 | Michelle Fields |
 | 433 | 476 | Kitybox |
 | 434 | 475 | Michelle Lee |
 | 435 | 474 | Calandra Shaya Robinson |
@@ -728,9 +728,9 @@
 | 720 | 304 | Melissa McCall |
 | 721 | 304 | NFLPITMOM |
 | 722 | 303 | Angie Marie |
-| 723 | 303 | Amanda Schaffer |
+| 723 | 303 | Devin |
 | 724 | 303 | Peachy Blockbuilder |
-| 725 | 303 | Devin |
+| 725 | 303 | Amanda Schaffer |
 | 726 | 302 | Kena T. Tanner |
 | 727 | 302 | Maxwell Escalera |
 | 728 | 301 | Danielle Ayoub |
@@ -942,8 +942,8 @@
 | 934 | 233 | Nerdy Riserfit |
 | 935 | 232 | P. D. Paige |
 | 936 | 232 | Regina Unruh |
-| 937 | 231 | Vung Nguyen |
-| 938 | 231 | Michelle Fleming Luna |
+| 937 | 231 | Michelle Fleming Luna |
+| 938 | 231 | Vung Nguyen |
 | 939 | 231 | Stanley Vanekelenburg |
 | 940 | 230 | lady |
 | 941 | 230 | Andrew Engman |

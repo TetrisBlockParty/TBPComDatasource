@@ -48,8 +48,8 @@
 | 40 | 757 | Ancient Intuition |
 | 41 | 736 | Goatimus Lombardi |
 | 42 | 734 | BertMofo |
-| 43 | 707 | Rachel Anne |
-| 44 | 707 | Clarence Patawaran |
+| 43 | 707 | Clarence Patawaran |
+| 44 | 707 | Rachel Anne |
 | 45 | 704 | Crystal Carroll |
 | 46 | 697 | Edward White |
 | 47 | 695 | LisaJo Picken Buchanan |
@@ -107,8 +107,8 @@
 | 99 | 369 | Nope Young |
 | 100 | 358 | Nugget |
 | 101 | 356 | Marvin Lou Martin |
-| 102 | 352 | Monica Daley |
-| 103 | 352 | Zippy Gridlock |
+| 102 | 352 | Zippy Gridlock |
+| 103 | 352 | Monica Daley |
 | 104 | 344 | Livvy |
 | 105 | 337 | Lori Walker |
 | 106 | 331 | ThaEviLJeNiuZ |
@@ -129,8 +129,8 @@
 | 121 | 290 | 🥔🥔 Spudz |
 | 122 | 288 | Leslie Nicole |
 | 123 | 287 | Shannon Ferrari |
-| 124 | 286 | Daria Rycewicz |
-| 125 | 286 | shark tato |
+| 124 | 286 | shark tato |
+| 125 | 286 | Daria Rycewicz |
 | 126 | 283 | Brittney Orengo |
 | 127 | 281 | Meagan Nicole |
 | 128 | 278 | Carrie Brian |
@@ -156,8 +156,8 @@
 | 148 | 230 | Cursed Hag |
 | 149 | 229 | Chris Bernstein |
 | 150 | 228 | J-Rizzle |
-| 151 | 227 | Alyssa Papen |
-| 152 | 227 | Swanky Fitline |
+| 151 | 227 | Swanky Fitline |
+| 152 | 227 | Alyssa Papen |
 | 153 | 225 | Damn Libra |
 | 154 | 224 | Matt Summer |
 | 155 | 223 | Kris Bartlett |
@@ -193,8 +193,8 @@
 | 185 | 192 | Shauna Havard |
 | 186 | 191 | Klo |
 | 187 | 190 | Cheery Risebuilder |
-| 188 | 189 | Stacey Stano |
-| 189 | 189 | Calvin Dennis |
+| 188 | 189 | Calvin Dennis |
+| 189 | 189 | Stacey Stano |
 | 190 | 188 | Andria Lynn |
 | 191 | 186 | Holly |
 | 192 | 185 | Lori |
