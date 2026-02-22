@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Lucille Truesdale |
-| 34 | 843 | Shelly Chandler |
+| 33 | 843 | Shelly Chandler |
+| 34 | 843 | Lucille Truesdale |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -194,8 +194,8 @@
 | 186 | 204 | Carlos Ramirez |
 | 187 | 203 | Katherine Crane |
 | 188 | 202 | TRCuse |
-| 189 | 201 | Melvin Baird |
-| 190 | 201 | Chance Strickland |
+| 189 | 201 | Chance Strickland |
+| 190 | 201 | Melvin Baird |
 | 191 | 200 | Laura |
 | 192 | 198 | Ruben Wheeler |
 | 193 | 198 | Keith Kelley |
@@ -220,13 +220,13 @@
 | 212 | 185 | Laura Hosford |
 | 213 | 184 | Ak Jones |
 | 214 | 181 | Carter Jones |
-| 215 | 180 | Dihcheese444 |
-| 216 | 180 | Orchislactea |
-| 217 | 180 | Googenheim |
+| 215 | 180 | Orchislactea |
+| 216 | 180 | Googenheim |
+| 217 | 180 | Dihcheese444 |
 | 218 | 179 | TinyLegoRose |
 | 219 | 175 | Lorena Guerrero-Barron |
-| 220 | 174 | Rio Rocha |
-| 221 | 174 | JPW |
+| 220 | 174 | JPW |
+| 221 | 174 | Rio Rocha |
 | 222 | 173 | Rebecca Morris |
 | 223 | 172 | Patron Anderson |
 | 224 | 172 | Gilles Lanctot |

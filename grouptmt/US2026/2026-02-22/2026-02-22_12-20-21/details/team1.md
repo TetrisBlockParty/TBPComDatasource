@@ -77,8 +77,8 @@
 | 69 | 461 | April Carroll |
 | 70 | 456 | Arianna O'Brien |
 | 71 | 447 | Evie Khalil |
-| 72 | 434 | MomMom |
-| 73 | 434 | Hyper |
+| 72 | 434 | Hyper |
+| 73 | 434 | MomMom |
 | 74 | 430 | Nancy Green |
 | 75 | 428 | Stephanie Zahn |
 | 76 | 418 | Jazzy Framezone |
@@ -91,8 +91,8 @@
 | 83 | 400 | Cynthia Bradley |
 | 84 | 399 | Nerdy Linkblock |
 | 85 | 390 | Candy Jones |
-| 86 | 390 | Lori Bales |
-| 87 | 390 | Goose egg |
+| 86 | 390 | Goose egg |
+| 87 | 390 | Lori Bales |
 | 88 | 389 | Trina Gee |
 | 89 | 388 | Jennifer ManWarren |
 | 90 | 383 | Loony Fitzone |
@@ -114,14 +114,14 @@
 | 106 | 342 | Brenda Stewart |
 | 107 | 341 | Nick R Montague |
 | 108 | 335 | Luciano Moreira |
-| 109 | 333 | Gracie |
-| 110 | 333 | Brandi Huntington |
+| 109 | 333 | Brandi Huntington |
+| 110 | 333 | Gracie |
 | 111 | 332 | Kristen Gideon |
 | 112 | 330 | Sweet Baker |
 | 113 | 326 | Monica Donato |
 | 114 | 321 | Maria C. Hernandez |
-| 115 | 319 | Deanna L Hermanson |
-| 116 | 319 | Patrick Luckenbill |
+| 115 | 319 | Patrick Luckenbill |
+| 116 | 319 | Deanna L Hermanson |
 | 117 | 318 | Jessica Sheehan |
 | 118 | 316 | Jennifer Hardman |
 | 119 | 316 | Ly Phethmany |
@@ -200,8 +200,8 @@
 | 192 | 205 | Tater |
 | 193 | 205 | Snappy Matcher |
 | 194 | 204 | Lacy Wolfe |
-| 195 | 203 | LaFontaine Leslie |
-| 196 | 203 | Paula Martin |
+| 195 | 203 | Paula Martin |
+| 196 | 203 | LaFontaine Leslie |
 | 197 | 202 | Amanda Holibaugh |
 | 198 | 201 | Colleen Wise |
 | 199 | 200 | DaRascal |
@@ -230,11 +230,11 @@
 | 222 | 187 | Tawnya Peltonen |
 | 223 | 186 | Margo Wagner |
 | 224 | 184 | Chris Sigurdson |
-| 225 | 183 | Andrew Boone |
-| 226 | 183 | Amy Hess |
+| 225 | 183 | Amy Hess |
+| 226 | 183 | Andrew Boone |
 | 227 | 182 | Phu ckalldems |
-| 228 | 180 | BigWeenie69 |
-| 229 | 180 | Jessie Lynn |
+| 228 | 180 | Jessie Lynn |
+| 229 | 180 | BigWeenie69 |
 | 230 | 180 | Beau Galvan |
 | 231 | 179 | femmefatale |
 | 232 | 179 | Danielle Little-Daugherty |
@@ -327,13 +327,13 @@
 | 319 | 131 | Plucky Wrecker |
 | 320 | 131 | Dizzy Riseclear |
 | 321 | 130 | Carl Claunch |
-| 322 | 129 | Madison Wicks |
-| 323 | 129 | Sherri E Woods Hess |
-| 324 | 128 | Alyssa Ingram |
-| 325 | 128 | George Dalton |
+| 322 | 129 | Sherri E Woods Hess |
+| 323 | 129 | Madison Wicks |
+| 324 | 128 | George Dalton |
+| 325 | 128 | Alyssa Ingram |
 | 326 | 127 | Danielle Mae |
-| 327 | 126 | Tyler Hertzog |
-| 328 | 126 | Zany Tiler |
+| 327 | 126 | Zany Tiler |
+| 328 | 126 | Tyler Hertzog |
 | 329 | 125 | Angela Spann |
 | 330 | 125 | Matt Iaccheo |
 | 331 | 124 | Rodney Schmerfeld |

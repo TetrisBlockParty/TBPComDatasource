@@ -63,8 +63,8 @@
 | 55 | 909 | Jennifer |
 | 56 | 908 | Alanna Rogers |
 | 57 | 903 | Sarah Fehring |
-| 58 | 895 | Shonna Roberts |
-| 59 | 895 | Amanda L Baker |
+| 58 | 895 | Amanda L Baker |
+| 59 | 895 | Shonna Roberts |
 | 60 | 886 | Khristen AC |
 | 61 | 882 | Susan Valentino |
 | 62 | 874 | Jessica Pineda-Lopez |
@@ -103,8 +103,8 @@
 | 95 | 595 | Patricia White |
 | 96 | 591 | Jesse Olive |
 | 97 | 588 | yoyo |
-| 98 | 582 | Natasha Jones |
-| 99 | 582 | Jay Horn |
+| 98 | 582 | Jay Horn |
+| 99 | 582 | Natasha Jones |
 | 100 | 581 | Danielle Mogg |
 | 101 | 579 | Jd Morris |
 | 102 | 577 | Giddy Drop |
@@ -186,8 +186,8 @@
 | 178 | 359 | Dapper Snap |
 | 179 | 358 | RickyG |
 | 180 | 358 | Chummy Caster |
-| 181 | 357 | Stephanie Burtin |
-| 182 | 357 | Tom Nault |
+| 181 | 357 | Tom Nault |
+| 182 | 357 | Stephanie Burtin |
 | 183 | 355 | Tessina Dewey-Mancino |
 | 184 | 353 | Shunta Jacobs |
 | 185 | 353 | Nora Rogers |
@@ -229,8 +229,8 @@
 | 221 | 289 | Hoppy Buildout |
 | 222 | 286 | Cynthia Herrmann Egland |
 | 223 | 284 | Denise Nardoni |
-| 224 | 283 | Charles Perrone |
-| 225 | 283 | Cheeky Snapper |
+| 224 | 283 | Cheeky Snapper |
+| 225 | 283 | Charles Perrone |
 | 226 | 281 | Betty Rosas |
 | 227 | 281 | Valerie Gendron |
 | 228 | 278 | Sabrina Hardrick |
@@ -274,8 +274,8 @@
 | 266 | 235 | Cozy Snaplink |
 | 267 | 235 | Brenda Schmid Wood |
 | 268 | 234 | Connie Mohler-Fair |
-| 269 | 233 | Ray Lader |
-| 270 | 233 | Josh Borquez |
+| 269 | 233 | Josh Borquez |
+| 270 | 233 | Ray Lader |
 | 271 | 232 | Donna |
 | 272 | 227 | Krystal Gerstberger |
 | 273 | 227 | Meowsa |
@@ -292,8 +292,8 @@
 | 284 | 216 | Twisty Brick LT |
 | 285 | 216 | Cheryl Hinch Tenbrook |
 | 286 | 215 | IamJust Neyamijah Washington Sr. |
-| 287 | 214 | Angela Scott |
-| 288 | 214 | Amy Fuller Heaton |
+| 287 | 214 | Amy Fuller Heaton |
+| 288 | 214 | Angela Scott |
 | 289 | 214 | Rebel124 |
 | 290 | 213 | Nicholas Roddy |
 | 291 | 212 | Desiree Gold |
@@ -325,8 +325,8 @@
 | 317 | 198 | kacihall |
 | 318 | 195 | Nicha Hooker |
 | 319 | 194 | Goofy Fall |
-| 320 | 193 | Clever Shiftsnap |
-| 321 | 193 | Lys |
+| 320 | 193 | Lys |
+| 321 | 193 | Clever Shiftsnap |
 | 322 | 192 | Ryan Williams |
 | 323 | 192 | Kelly Ann Child |
 | 324 | 192 | Melanie Sherwood |

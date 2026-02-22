@@ -372,8 +372,8 @@
 | 364 | 579 | Roy Salyer |
 | 365 | 576 | Leslie Johnson Guinto |
 | 366 | 572 | Chris Wanner |
-| 367 | 571 | Dylan Thomason |
-| 368 | 571 | Emily Lyric Converse |
+| 367 | 571 | Emily Lyric Converse |
+| 368 | 571 | Dylan Thomason |
 | 369 | 569 | Vaniel Glover |
 | 370 | 568 | BeQuo |
 | 371 | 562 | Ashley Lopez |
@@ -470,8 +470,8 @@
 | 462 | 477 | Julay |
 | 463 | 476 | Kitybox |
 | 464 | 475 | Michelle Lee |
-| 465 | 474 | Calandra Shaya Robinson |
-| 466 | 474 | Steve Man |
+| 465 | 474 | Steve Man |
+| 466 | 474 | Calandra Shaya Robinson |
 | 467 | 473 | coleksquad |
 | 468 | 473 | Lyndi Robinson Wakefield |
 | 469 | 472 | Arwa Fatimah |
@@ -486,9 +486,9 @@
 | 478 | 465 | Davetta Sanford |
 | 479 | 464 | snkylnk |
 | 480 | 464 | Kiana Boschh |
-| 481 | 463 | Jaye EL Hunter |
-| 482 | 463 | Sue Leard |
-| 483 | 463 | Cody Nishimura |
+| 481 | 463 | Sue Leard |
+| 482 | 463 | Cody Nishimura |
+| 483 | 463 | Jaye EL Hunter |
 | 484 | 463 | Mia Muse Best |
 | 485 | 462 | Dennis McLaurin |
 | 486 | 462 | Jarboe |
