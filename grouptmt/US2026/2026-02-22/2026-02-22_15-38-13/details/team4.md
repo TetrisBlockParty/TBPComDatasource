@@ -76,8 +76,8 @@
 | 68 | 614 | TheNeesh50 |
 | 69 | 608 | Avy Absol |
 | 70 | 600 | Michelle Marie |
-| 71 | 599 | Savannah Overdorf |
-| 72 | 599 | Brittney Griggs |
+| 71 | 599 | Brittney Griggs |
+| 72 | 599 | Savannah Overdorf |
 | 73 | 593 | Lisa Davis |
 | 74 | 588 | Eric Mcgaughy |
 | 75 | 575 | Jeremy Steines |
@@ -202,8 +202,8 @@
 | 194 | 217 | Kim Hunt |
 | 195 | 216 | ZeeZee |
 | 196 | 216 | Chance Strickland |
-| 197 | 213 | Sarah Neathery |
-| 198 | 213 | Jason Allen |
+| 197 | 213 | Jason Allen |
+| 198 | 213 | Sarah Neathery |
 | 199 | 212 | Mike Solo |
 | 200 | 212 | Joanna |
 | 201 | 211 | Jenna McGeorge |
@@ -258,8 +258,8 @@
 | 250 | 179 | Christina Black |
 | 251 | 179 | AyeKay |
 | 252 | 175 | Lorena Guerrero-Barron |
-| 253 | 171 | June Hoffman |
-| 254 | 171 | Autumn Kumzi |
+| 253 | 171 | Autumn Kumzi |
+| 254 | 171 | June Hoffman |
 | 255 | 168 | 23 |
 | 256 | 167 | Cozy Balancer |
 | 257 | 166 | Jenny Wells-Oakley |

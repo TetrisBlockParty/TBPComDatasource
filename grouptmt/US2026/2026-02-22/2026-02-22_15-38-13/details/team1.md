@@ -195,13 +195,13 @@
 | 187 | 235 | Desiree Deschaine Havee |
 | 188 | 234 | Paula Martin |
 | 189 | 231 | Amanda Johnson Huffman |
-| 190 | 230 | Frothy Pattern |
-| 191 | 230 | Christy Jones |
+| 190 | 230 | Christy Jones |
+| 191 | 230 | Frothy Pattern |
 | 192 | 229 | Chris K |
 | 193 | 226 | Kandae |
 | 194 | 224 | ParisandCory Champagne |
-| 195 | 223 | Basment Living |
-| 196 | 223 | Erez Yosef |
+| 195 | 223 | Erez Yosef |
+| 196 | 223 | Basment Living |
 | 197 | 222 | Debbie Davis |
 | 198 | 221 | Daring Fitclear |
 | 199 | 220 | Giddy Cascade |
@@ -291,8 +291,8 @@
 | 283 | 169 | Allena Craft |
 | 284 | 169 | Abbey Crespo |
 | 285 | 168 | Angela Fairbank |
-| 286 | 166 | Carrie Smith |
-| 287 | 166 | LD1 |
+| 286 | 166 | LD1 |
+| 287 | 166 | Carrie Smith |
 | 288 | 165 | Silly Align |
 | 289 | 165 | Nadine Velardo |
 | 290 | 164 | Poppy Riserpiece |
@@ -319,12 +319,12 @@
 | 311 | 153 | Tami Luce Martin |
 | 312 | 153 | John Kim |
 | 313 | 152 | Speedy Snapfall |
-| 314 | 151 | Bruce Cruz |
-| 315 | 151 | Gilbert Ortiz Jr. |
+| 314 | 151 | Gilbert Ortiz Jr. |
+| 315 | 151 | Bruce Cruz |
 | 316 | 150 | Agustin Duarte Orozco |
 | 317 | 150 | Barrbaric |
-| 318 | 149 | Cody Gates |
-| 319 | 149 | Melissa Bires Hussar |
+| 318 | 149 | Melissa Bires Hussar |
+| 319 | 149 | Cody Gates |
 | 320 | 148 | Howdi Duty |
 | 321 | 148 | Teddy Alexander |
 | 322 | 148 | Evan Richmond |

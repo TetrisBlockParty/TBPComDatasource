@@ -104,8 +104,8 @@
 | 96 | 1640 | Sam Smith |
 | 97 | 1603 | Gabby Jenner |
 | 98 | 1601 | Ray Ray Prado |
-| 99 | 1599 | Rob Riggin |
-| 100 | 1599 | Janel Turley-Garner |
+| 99 | 1599 | Janel Turley-Garner |
+| 100 | 1599 | Rob Riggin |
 | 101 | 1578 | Jamie Main |
 | 102 | 1567 | Sally Dennis |
 | 103 | 1564 | Charie Holland |
@@ -243,13 +243,13 @@
 | 235 | 878 | Rebecca Doughman |
 | 236 | 877 | Eric Carlson |
 | 237 | 875 | Jamie Otero |
-| 238 | 869 | Felicia Lynn |
-| 239 | 869 | Tony Lea |
+| 238 | 869 | Tony Lea |
+| 239 | 869 | Felicia Lynn |
 | 240 | 867 | Peppy Zone |
 | 241 | 867 | Michele Gabriel |
 | 242 | 862 | Brittany Radaszewski |
-| 243 | 860 | John Bednarik |
-| 244 | 860 | April Dawn Gussler |
+| 243 | 860 | April Dawn Gussler |
+| 244 | 860 | John Bednarik |
 | 245 | 857 | Della Hole |
 | 246 | 855 | F-X |
 | 247 | 853 | Maria Escobar |
@@ -535,8 +535,8 @@
 | 527 | 453 | Rhonda Petro |
 | 528 | 452 | Juanita Lyons |
 | 529 | 451 | Lee Harper |
-| 530 | 451 | Anthony Huebel |
-| 531 | 451 | Funky Caster |
+| 530 | 451 | Funky Caster |
+| 531 | 451 | Anthony Huebel |
 | 532 | 450 | Cheery Matchzone |
 | 533 | 448 | Liberty |
 | 534 | 447 | Boozi |
