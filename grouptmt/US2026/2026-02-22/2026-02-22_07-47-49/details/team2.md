@@ -191,8 +191,8 @@
 | 183 | 951 | Cynthia Ward |
 | 184 | 950 | Teresa Gillmore |
 | 185 | 942 | Keri Womack |
-| 186 | 941 | Marie Boyd Faulk |
-| 187 | 941 | Cool Clearer |
+| 186 | 941 | Cool Clearer |
+| 187 | 941 | Marie Boyd Faulk |
 | 188 | 935 | William Meussner |
 | 189 | 932 | Catina Hutchison |
 | 190 | 925 | Moose Griffith |
@@ -219,8 +219,8 @@
 | 211 | 841 | Tralonda Weeks |
 | 212 | 837 | Ashley Rose Frederick |
 | 213 | 835 | Katrina Weston |
-| 214 | 834 | Rebecca Doughman |
-| 215 | 834 | Nika Bee |
+| 214 | 834 | Nika Bee |
+| 215 | 834 | Rebecca Doughman |
 | 216 | 828 | Cindy Sechler Taninecz |
 | 217 | 820 | Chirpy Staggerpiece |
 | 218 | 818 | Angela Bonquiqui Dinish |
@@ -317,8 +317,8 @@
 | 309 | 635 | William Hunt |
 | 310 | 631 | Marie Walker |
 | 311 | 629 | Sleepypanda67 |
-| 312 | 627 | Allan Wayne Lamia |
-| 313 | 627 | Victoria Moore-Smith |
+| 312 | 627 | Victoria Moore-Smith |
+| 313 | 627 | Allan Wayne Lamia |
 | 314 | 619 | Brandon Armstrong |
 | 315 | 619 | Jánine Riggs |
 | 316 | 617 | Leslie Ann Carter |
@@ -1162,8 +1162,8 @@
 | 1154 | 187 | Bee |
 | 1155 | 186 | Bette Prieto |
 | 1156 | 186 | Stephanie Myers |
-| 1157 | 185 | Silly Pivotfall |
-| 1158 | 185 | Lucero Ramirez |
+| 1157 | 185 | Lucero Ramirez |
+| 1158 | 185 | Silly Pivotfall |
 | 1159 | 185 | Kimberly Wright |
 | 1160 | 185 | Fae-Bulous |
 | 1161 | 185 | Zachary Boyarski |
@@ -1244,8 +1244,8 @@
 | 1236 | 174 | Wha |
 | 1237 | 174 | Tripper Boone |
 | 1238 | 174 | Leigh Ann |
-| 1239 | 174 | Kierra Kierra |
-| 1240 | 174 | kickstante |
+| 1239 | 174 | kickstante |
+| 1240 | 174 | Kierra Kierra |
 | 1241 | 173 | Yemaja Obba Olokun |
 | 1242 | 173 | Robin |
 | 1243 | 173 | Shelley Vaux |

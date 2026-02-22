@@ -48,8 +48,8 @@
 | 40 | 757 | Ancient Intuition |
 | 41 | 736 | Goatimus Lombardi |
 | 42 | 734 | BertMofo |
-| 43 | 707 | Rachel Anne |
-| 44 | 707 | Clarence Patawaran |
+| 43 | 707 | Clarence Patawaran |
+| 44 | 707 | Rachel Anne |
 | 45 | 704 | Crystal Carroll |
 | 46 | 697 | Edward White |
 | 47 | 695 | LisaJo Picken Buchanan |
@@ -169,8 +169,8 @@
 | 161 | 220 | Matt Dell'Olio |
 | 162 | 218 | Casey Grabner |
 | 163 | 217 | Chaz Duncan |
-| 164 | 215 | Ren Mc |
-| 165 | 215 | Jessica Bohlken |
+| 164 | 215 | Jessica Bohlken |
+| 165 | 215 | Ren Mc |
 | 166 | 213 | Jason Allen |
 | 167 | 213 | Sarah Neathery |
 | 168 | 212 | Mike Solo |
@@ -199,11 +199,11 @@
 | 191 | 186 | Holly |
 | 192 | 185 | Lori |
 | 193 | 184 | Ak Jones |
-| 194 | 181 | Alan George LaRage |
-| 195 | 181 | Carter Jones |
+| 194 | 181 | Carter Jones |
+| 195 | 181 | Alan George LaRage |
 | 196 | 180 | Orchislactea |
-| 197 | 180 | Dihcheese444 |
-| 198 | 180 | Rafael Valentin |
+| 197 | 180 | Rafael Valentin |
+| 198 | 180 | Dihcheese444 |
 | 199 | 179 | blockstar |
 | 200 | 175 | TinyLegoRose |
 | 201 | 174 | Rio Rocha |
@@ -239,9 +239,9 @@
 | 231 | 149 | Tanner Lund |
 | 232 | 149 | Shainne Brewer |
 | 233 | 148 | Janita Parrish |
-| 234 | 147 | Jared Gutwein |
+| 234 | 147 | Jay28 |
 | 235 | 147 | B Renee Desjardin |
-| 236 | 147 | Jay28 |
+| 236 | 147 | Jared Gutwein |
 | 237 | 146 | Ultramarine |
 | 238 | 145 | Sandra Safford |
 | 239 | 145 | Mimi |

@@ -50,8 +50,8 @@
 | 42 | 1036 | Ant Ant |
 | 43 | 1015 | Amber Jones |
 | 44 | 998 | Liv Whetson |
-| 45 | 989 | Joey Banks |
-| 46 | 989 | Kay |
+| 45 | 989 | Kay |
+| 46 | 989 | Joey Banks |
 | 47 | 985 | Stephanie Rice |
 | 48 | 983 | Brandon Green |
 | 49 | 956 | Gracie |
@@ -97,9 +97,9 @@
 | 89 | 595 | Patricia White |
 | 90 | 591 | Jesse Olive |
 | 91 | 588 | yoyo |
-| 92 | 582 | Natasha Jones |
+| 92 | 582 | Jay Horn |
 | 93 | 582 | Speedy Bridger |
-| 94 | 582 | Jay Horn |
+| 94 | 582 | Natasha Jones |
 | 95 | 581 | Danielle Mogg |
 | 96 | 579 | Jd Morris |
 | 97 | 567 | Raya |
@@ -119,8 +119,8 @@
 | 111 | 506 | Sashay Tapae Simpson |
 | 112 | 502 | Justin Ritter |
 | 113 | 502 | Elissa S-k |
-| 114 | 500 | Domo Washington |
-| 115 | 500 | Kristie |
+| 114 | 500 | Kristie |
+| 115 | 500 | Domo Washington |
 | 116 | 497 | Mykal Burton |
 | 117 | 492 | Daira Largen |
 | 118 | 491 | Chauntee Alfrey-Cardinale |
@@ -299,8 +299,8 @@
 | 291 | 202 | Staci George Fitzsimmons |
 | 292 | 201 | Hyper Matchzone |
 | 293 | 201 | Alexmac |
-| 294 | 200 | glichmod |
-| 295 | 200 | Sharisse Baltimore |
+| 294 | 200 | Sharisse Baltimore |
+| 295 | 200 | glichmod |
 | 296 | 198 | kacihall |
 | 297 | 197 | Saucy Buildout |
 | 298 | 195 | Nicha Hooker |
@@ -326,8 +326,8 @@
 | 318 | 179 | Tipsy Zonebuilder |
 | 319 | 178 | Jess Dearborn |
 | 320 | 178 | Jennifer Alvey |
-| 321 | 176 | Emma |
-| 322 | 176 | Melissa Orth Hunter |
+| 321 | 176 | Melissa Orth Hunter |
+| 322 | 176 | Emma |
 | 323 | 175 | Eileen Brady Thurber |
 | 324 | 174 | Betty Rosas |
 | 325 | 174 | Lesley Perez |
@@ -342,7 +342,7 @@
 | 334 | 167 | Romeo |
 | 335 | 166 | Noettín Kan Zasnemoore |
 | 336 | 166 | Snarky McFace |
-| 337 | 165 | Kali Kelz Williams |
+| 337 | 165 | Ashley Lynn Marchese |
 | 338 | 165 | Rainbow77375 |
 | 339 | 165 | Kali Kelz Williams |
 | 340 | 164 | Ashley Rufus Bythcez |
@@ -369,8 +369,8 @@
 | 361 | 153 | Sheila M Frazier |
 | 362 | 153 | Lys |
 | 363 | 153 | Tony Waters |
-| 364 | 152 | Goofy Fall |
-| 365 | 152 | Noyb Adam |
+| 364 | 152 | Noyb Adam |
+| 365 | 152 | Goofy Fall |
 | 366 | 152 | Shiny Zonebuilder |
 | 367 | 152 | Eric Caccavale |
 | 368 | 151 | Sarah Cowan Burgos |
@@ -391,8 +391,8 @@
 | 383 | 144 | Tenisha Semidey |
 | 384 | 144 | Blair Erin Waite |
 | 385 | 142 | Gray Hicks |
-| 386 | 142 | Joy Petroski |
-| 387 | 142 | Erica Anderson |
+| 386 | 142 | Erica Anderson |
+| 387 | 142 | Joy Petroski |
 | 388 | 142 | Jl |
 | 389 | 141 | Melissa Snyder |
 | 390 | 141 | Weerae |
