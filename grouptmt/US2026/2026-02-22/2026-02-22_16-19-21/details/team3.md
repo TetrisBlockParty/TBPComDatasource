@@ -70,8 +70,8 @@
 | 62 | 909 | Jennifer |
 | 63 | 908 | Alanna Rogers |
 | 64 | 903 | Sarah Fehring |
-| 65 | 895 | Amanda L Baker |
-| 66 | 895 | Shonna Roberts |
+| 65 | 895 | Shonna Roberts |
+| 66 | 895 | Amanda L Baker |
 | 67 | 892 | Corie A. Brinson |
 | 68 | 882 | Susan Valentino |
 | 69 | 874 | Jessica Pineda-Lopez |
@@ -130,8 +130,8 @@
 | 122 | 526 | Cynthia Castros-Hampton |
 | 123 | 525 | Justin Ritter |
 | 124 | 521 | Michael Nowogorski |
-| 125 | 521 | Daryn Elliott |
-| 126 | 521 | Michelle Becker |
+| 125 | 521 | Michelle Becker |
+| 126 | 521 | Daryn Elliott |
 | 127 | 518 | opf |
 | 128 | 506 | Sashay Tapae Simpson |
 | 129 | 504 | Jennifer Lynn Fahrenholtz-Summers |

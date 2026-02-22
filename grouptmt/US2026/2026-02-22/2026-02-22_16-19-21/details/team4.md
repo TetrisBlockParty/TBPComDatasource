@@ -95,8 +95,8 @@
 | 87 | 512 | Casey Jeffcoat |
 | 88 | 500 | Rodney McMath Jr. |
 | 89 | 493 | Judy Cox |
-| 90 | 488 | Jen Allison |
-| 91 | 488 | Shane Kalamata Platoon |
+| 90 | 488 | Shane Kalamata Platoon |
+| 91 | 488 | Jen Allison |
 | 92 | 486 | Carmethia Clemons Haslerig |
 | 93 | 448 | Kristin Manee |
 | 94 | 447 | Erin Thomas |
@@ -132,8 +132,8 @@
 | 124 | 343 | Latisha Davis |
 | 125 | 338 | ThaEviLJeNiuZ |
 | 126 | 333 | Twisty Clicky |
-| 127 | 332 | Desi Desporte |
-| 128 | 332 | HastyGrabber |
+| 127 | 332 | HastyGrabber |
+| 128 | 332 | Desi Desporte |
 | 129 | 330 | David Lay |
 | 130 | 329 | Jessica Bohlken |
 | 131 | 329 | Amanda Pauldo-Ivy |
@@ -162,8 +162,8 @@
 | 154 | 275 | Dizzy Tiley |
 | 155 | 274 | Calvin Cannon |
 | 156 | 273 | Crystal Nicolette Moore |
-| 157 | 272 | Keshia Lyons |
-| 158 | 272 | Alan George LaRage |
+| 157 | 272 | Alan George LaRage |
+| 158 | 272 | Keshia Lyons |
 | 159 | 271 | Sarah Brown |
 | 160 | 269 | Nikki Rae Gordon |
 | 161 | 268 | Cursed Hag |
@@ -233,8 +233,8 @@
 | 225 | 200 | Rebecca Morris |
 | 226 | 200 | Lori |
 | 227 | 199 | April Rondinone |
-| 228 | 198 | Keith Kelley |
-| 229 | 198 | Calvin Dennis |
+| 228 | 198 | Calvin Dennis |
+| 229 | 198 | Keith Kelley |
 | 230 | 197 | Silly SeaWeed |
 | 231 | 197 | Gilles Lanctot |
 | 232 | 195 | Malakai Darien Fox |
@@ -261,8 +261,8 @@
 | 253 | 179 | AyeKay |
 | 254 | 176 | Trista Leah |
 | 255 | 175 | Lorena Guerrero-Barron |
-| 256 | 171 | June Hoffman |
-| 257 | 171 | Autumn Kumzi |
+| 256 | 171 | Autumn Kumzi |
+| 257 | 171 | June Hoffman |
 | 258 | 170 | Elie Pean |
 | 259 | 168 | 23 |
 | 260 | 167 | Cozy Balancer |
@@ -332,8 +332,8 @@
 | 324 | 141 | Montiette Mcglown |
 | 325 | 141 | Tony Pavelka |
 | 326 | 140 | Rico |
-| 327 | 139 | O block |
-| 328 | 139 | Lori Goudy |
+| 327 | 139 | Lori Goudy |
+| 328 | 139 | O block |
 | 329 | 138 | Ashlee Carnes |
 | 330 | 138 | Jasmine S Caldwell |
 | 331 | 138 | Moonsterix |

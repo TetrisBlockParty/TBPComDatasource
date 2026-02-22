@@ -135,15 +135,15 @@
 | 127 | 1380 | Jose Mendoza |
 | 128 | 1371 | Zappy Cascade |
 | 129 | 1347 | Alisa Lamb |
-| 130 | 1342 | Christi Hulet |
-| 131 | 1342 | Eboni Banks |
+| 130 | 1342 | Eboni Banks |
+| 131 | 1342 | Christi Hulet |
 | 132 | 1342 | Bob |
 | 133 | 1338 | Dawn Geist-Weasner |
 | 134 | 1330 | Erica Williams |
 | 135 | 1316 | Rosa Franklin |
 | 136 | 1312 | Katrina Williams Balmir |
-| 137 | 1306 | Becca Widmer |
-| 138 | 1306 | Howard Forest |
+| 137 | 1306 | Howard Forest |
+| 138 | 1306 | Becca Widmer |
 | 139 | 1300 | Tacara Cummings |
 | 140 | 1298 | Scott Treadway |
 | 141 | 1290 | Bussyiano Page |
@@ -358,12 +358,12 @@
 | 350 | 661 | BeQuo |
 | 351 | 659 | Draizen Montrell Thomas |
 | 352 | 651 | Unica Rector |
-| 353 | 650 | Shiny Rollzone |
-| 354 | 650 | Amber Brion |
+| 353 | 650 | Amber Brion |
+| 354 | 650 | Shiny Rollzone |
 | 355 | 644 | Desiree Anderson |
 | 356 | 643 | Hoppy Brickmatch |
-| 357 | 640 | Kara Gillen |
-| 358 | 640 | BYM4L |
+| 357 | 640 | BYM4L |
+| 358 | 640 | Kara Gillen |
 | 359 | 639 | Crystie Hicks |
 | 360 | 639 | Rebecca Miller |
 | 361 | 634 | Gary Stash |
@@ -495,9 +495,9 @@
 | 487 | 491 | Adam Simmons |
 | 488 | 491 | Michael Buckner |
 | 489 | 488 | Christina Wsn |
-| 490 | 487 | MrsCandyfine As Wine Truss |
+| 490 | 487 | Morgan Easter |
 | 491 | 487 | Michael Artis |
-| 492 | 487 | Morgan Easter |
+| 492 | 487 | MrsCandyfine As Wine Truss |
 | 493 | 485 | Mamachelle Eisweirth |
 | 494 | 484 | Street Sweeper |
 | 495 | 484 | Wendy Unsain |
@@ -515,8 +515,8 @@
 | 507 | 473 | Sam |
 | 508 | 473 | Wuntayk |
 | 509 | 473 | Tracy Wise |
-| 510 | 472 | KayLynn Ogden McClelland |
-| 511 | 472 | Arwa Fatimah |
+| 510 | 472 | Arwa Fatimah |
+| 511 | 472 | KayLynn Ogden McClelland |
 | 512 | 472 | Kyle LeRoy Harris |
 | 513 | 471 | Rae Rae |
 | 514 | 470 | Arlene Joy Belicina |
@@ -526,10 +526,10 @@
 | 518 | 469 | Spunkysmom |
 | 519 | 469 | Christy Long |
 | 520 | 467 | Audrey Jones |
-| 521 | 466 | Tina Marie |
-| 522 | 466 | Koa N Sharon Chen |
-| 523 | 466 | Crystal Greene |
-| 524 | 466 | Kori Beth Babb |
+| 521 | 466 | Koa N Sharon Chen |
+| 522 | 466 | Tina Marie |
+| 523 | 466 | Kori Beth Babb |
+| 524 | 466 | Crystal Greene |
 | 525 | 465 | Davetta Sanford |
 | 526 | 463 | Mia Muse Best |
 | 527 | 463 | Jaye EL Hunter |
