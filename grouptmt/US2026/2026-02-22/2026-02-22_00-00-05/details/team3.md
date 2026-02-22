@@ -113,8 +113,8 @@
 | 105 | 402 | Stephanie Simpson |
 | 106 | 400 | Luciana Braganca Vieira |
 | 107 | 397 | Mcathen |
-| 108 | 394 | Annie Déè |
-| 109 | 394 | joclisa |
+| 108 | 394 | joclisa |
+| 109 | 394 | Annie Déè |
 | 110 | 392 | Michelle |
 | 111 | 391 | Calista Jo Dickson |
 | 112 | 390 | Hasty Cascadefit |
@@ -126,8 +126,8 @@
 | 118 | 378 | Tasha Schriewer |
 | 119 | 378 | Makelini Mausia |
 | 120 | 377 | Jesse Olive |
-| 121 | 368 | Stephanie Woods |
-| 122 | 368 | Stephanie Blkpep Davidson |
+| 121 | 368 | Stephanie Blkpep Davidson |
+| 122 | 368 | Stephanie Woods |
 | 123 | 367 | mjl574 |
 | 124 | 366 | Adrian Marcel Pate |
 | 125 | 355 | Tessina Dewey-Mancino |
@@ -202,8 +202,8 @@
 | 194 | 211 | Katrina Turner |
 | 195 | 210 | Michael Lucado |
 | 196 | 209 | Twisty Brick LT |
-| 197 | 207 | Jessica |
-| 198 | 207 | Chris Bell |
+| 197 | 207 | Chris Bell |
+| 198 | 207 | Jessica |
 | 199 | 205 | Sarah Moyer |
 | 200 | 204 | Danielle Allison |
 | 201 | 201 | Karon Griffin |
@@ -214,7 +214,7 @@
 | 206 | 197 | Angie Harper |
 | 207 | 197 | Staci George Fitzsimmons |
 | 208 | 195 | Nicha Hooker |
-| 209 | 193 | Tasha Wesson-Torrence |
+| 209 | 193 | Stephanie Burtin |
 | 210 | 193 | Clever Shiftsnap |
 | 211 | 193 | Tasha Wesson-Torrence |
 | 212 | 192 | Kelly Ann Child |

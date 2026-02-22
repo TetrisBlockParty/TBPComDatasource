@@ -117,16 +117,16 @@
 | 109 | 230 | Lucas J Sutton |
 | 110 | 222 | Joeliecea Cobb |
 | 111 | 221 | Alyssa Papen |
-| 112 | 218 | Casey Grabner |
-| 113 | 218 | Antony Dwayne Beasley |
+| 112 | 218 | Antony Dwayne Beasley |
+| 113 | 218 | Casey Grabner |
 | 114 | 213 | Chaz Duncan |
 | 115 | 213 | loulou |
 | 116 | 212 | Calvin Cannon |
 | 117 | 212 | Mike Solo |
 | 118 | 211 | Dizzy Tiley |
 | 119 | 210 | Damn Libra |
-| 120 | 208 | Twisty Cascadezone |
-| 121 | 208 | Chastity Mitchell |
+| 120 | 208 | Chastity Mitchell |
+| 121 | 208 | Twisty Cascadezone |
 | 122 | 206 | Mylo Lipscomb |
 | 123 | 205 | Sarah Neathery |
 | 124 | 204 | Dana Scott |
@@ -139,15 +139,15 @@
 | 131 | 196 | Jeff Brian Gates |
 | 132 | 194 | Zany Twisterfit |
 | 133 | 192 | Shauna Havard |
-| 134 | 189 | Calvin Dennis |
-| 135 | 189 | Stacey Stano |
+| 134 | 189 | Stacey Stano |
+| 135 | 189 | Calvin Dennis |
 | 136 | 188 | Katherine Crane |
 | 137 | 187 | TheNeesh50 |
 | 138 | 185 | Andy Cabral |
 | 139 | 185 | Malakai Darien Fox |
 | 140 | 184 | Justin Hannigan |
-| 141 | 181 | Carter Jones |
-| 142 | 181 | Klo |
+| 141 | 181 | Klo |
+| 142 | 181 | Carter Jones |
 | 143 | 181 | Andria Lynn |
 | 144 | 180 | Leah Kutz Zirbel |
 | 145 | 178 | Lori |
@@ -300,9 +300,9 @@
 | 292 | 92 | Hyper Builder |
 | 293 | 91 | wombat |
 | 294 | 91 | Sunny Filler |
-| 295 | 90 | Chirpy Slammer |
-| 296 | 90 | Carol Ricks Raymond |
-| 297 | 90 | Thomas Hettenhaus |
+| 295 | 90 | Thomas Hettenhaus |
+| 296 | 90 | Chirpy Slammer |
+| 297 | 90 | Carol Ricks Raymond |
 | 298 | 89 | Jonathan Mahfood |
 | 299 | 89 | bloat princess |
 | 300 | 89 | Red |
@@ -538,7 +538,7 @@
 | 530 | 52 | Randy |
 | 531 | 52 | Cheery Lift |
 | 532 | 52 | Petty |
-| 533 | 52 | Randy |
+| 533 | 52 | Eminem |
 | 534 | 52 | Earnest Thompson |
 | 535 | 51 | George Nutt |
 | 536 | 51 | Zappy Buildgrid |

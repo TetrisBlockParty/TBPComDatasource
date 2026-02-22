@@ -155,14 +155,14 @@
 | 147 | 808 | Missie Lawson Gebhardt |
 | 148 | 808 | John Bednarik |
 | 149 | 807 | Khalil Lowe |
-| 150 | 802 | Brittany Clark |
-| 151 | 802 | Robin Kerby |
+| 150 | 802 | Robin Kerby |
+| 151 | 802 | Brittany Clark |
 | 152 | 800 | Tacara Cummings |
 | 153 | 800 | Danielle Johnson-Chandler |
 | 154 | 792 | Jumpy Gridpiece |
 | 155 | 791 | Chirpy Staggerpiece |
-| 156 | 789 | James Simms III |
-| 157 | 789 | Stephanie Chapman |
+| 156 | 789 | Stephanie Chapman |
+| 157 | 789 | James Simms III |
 | 158 | 787 | Laura McCarthey |
 | 159 | 785 | YiFei |
 | 160 | 780 | Amanda Grohmann |
@@ -232,8 +232,8 @@
 | 224 | 618 | Brenda Utphall |
 | 225 | 618 | Gabby Jenner |
 | 226 | 612 | Brandon Armstrong |
-| 227 | 608 | goofinoff |
-| 228 | 608 | Sommer Shope |
+| 227 | 608 | Sommer Shope |
+| 228 | 608 | goofinoff |
 | 229 | 606 | Ellie Jonas |
 | 230 | 605 | Jelly |
 | 231 | 603 | Cassie Maynard |
@@ -284,8 +284,8 @@
 | 276 | 514 | Dizzy Zone |
 | 277 | 513 | Angela Bonquiqui Dinish |
 | 278 | 511 | Laura Mclean |
-| 279 | 509 | Kelli Wells |
-| 280 | 509 | Jordan Kaiser |
+| 279 | 509 | Jordan Kaiser |
+| 280 | 509 | Kelli Wells |
 | 281 | 504 | Cherica Taylor |
 | 282 | 503 | Matt Johnson |
 | 283 | 502 | Magic steve |
@@ -311,9 +311,9 @@
 | 303 | 471 | Rae Rae |
 | 304 | 470 | Jerry Tempelmeyer |
 | 305 | 469 | Jai Jackson |
-| 306 | 469 | Ashley Rose Frederick |
+| 306 | 469 | Ashley Lopez |
 | 307 | 469 | Amélie Cadieux |
-| 308 | 469 | Ashley Lopez |
+| 308 | 469 | Ashley Rose Frederick |
 | 309 | 468 | Drwatson187 |
 | 310 | 467 | Dedra Steward |
 | 311 | 467 | Scott Treadway |
