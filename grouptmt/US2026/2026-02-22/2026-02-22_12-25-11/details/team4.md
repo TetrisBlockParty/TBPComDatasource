@@ -56,14 +56,14 @@
 | 48 | 697 | Edward White |
 | 49 | 695 | LisaJo Picken Buchanan |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Jonathan Kimbrough |
-| 52 | 659 | Rebecca Moulton Pinciaro |
+| 51 | 659 | Rebecca Moulton Pinciaro |
+| 52 | 659 | Jonathan Kimbrough |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Dustee Craddock-Harrison |
-| 58 | 636 | Kimyatta Cavin |
+| 57 | 636 | Kimyatta Cavin |
+| 58 | 636 | Dustee Craddock-Harrison |
 | 59 | 623 | Robin Getchel |
 | 60 | 614 | TheNeesh50 |
 | 61 | 599 | Brittney Griggs |
@@ -74,8 +74,8 @@
 | 66 | 554 | Julian Garcia |
 | 67 | 546 | Kimberly Love |
 | 68 | 544 | Amy Suckarieh |
-| 69 | 533 | Chris Baggett |
-| 70 | 533 | Eric Mcgaughy |
+| 69 | 533 | Eric Mcgaughy |
+| 70 | 533 | Chris Baggett |
 | 71 | 530 | Yoset Mejia |
 | 72 | 524 | Amelpss |
 | 73 | 523 | Dawn Alexander |
@@ -84,8 +84,8 @@
 | 76 | 512 | Casey Jeffcoat |
 | 77 | 511 | Michelle Marie |
 | 78 | 500 | Rodney McMath Jr. |
-| 79 | 486 | Landon Keith Graffeo |
-| 80 | 486 | Carmethia Clemons Haslerig |
+| 79 | 486 | Carmethia Clemons Haslerig |
+| 80 | 486 | Landon Keith Graffeo |
 | 81 | 485 | TeeJ |
 | 82 | 474 | Justin Hannigan |
 | 83 | 469 | Ashley Ingram |
@@ -136,8 +136,8 @@
 | 128 | 289 | Jessica Lynn Cutlip |
 | 129 | 287 | Shannon Ferrari |
 | 130 | 286 | shark tato |
-| 131 | 283 | Scott Jameson |
-| 132 | 283 | Brittney Orengo |
+| 131 | 283 | Brittney Orengo |
+| 132 | 283 | Scott Jameson |
 | 133 | 281 | Meagan Nicole |
 | 134 | 278 | Desi Desporte |
 | 135 | 278 | Carrie Brian |
@@ -182,8 +182,8 @@
 | 174 | 217 | Kim Hunt |
 | 175 | 217 | Angela Srubar-Norman |
 | 176 | 215 | Jessica Bohlken |
-| 177 | 213 | Sarah Neathery |
-| 178 | 213 | Jason Allen |
+| 177 | 213 | Jason Allen |
+| 178 | 213 | Sarah Neathery |
 | 179 | 212 | Mike Solo |
 | 180 | 211 | Jenna McGeorge |
 | 181 | 210 | Zethra Prenisha Rahming |
@@ -194,8 +194,8 @@
 | 186 | 204 | Carlos Ramirez |
 | 187 | 203 | Katherine Crane |
 | 188 | 202 | TRCuse |
-| 189 | 201 | Chance Strickland |
-| 190 | 201 | Melvin Baird |
+| 189 | 201 | Melvin Baird |
+| 190 | 201 | Chance Strickland |
 | 191 | 200 | Laura |
 | 192 | 198 | Keith Kelley |
 | 193 | 198 | Ruben Wheeler |
@@ -207,10 +207,10 @@
 | 199 | 195 | Malakai Darien Fox |
 | 200 | 194 | Zany Twisterfit |
 | 201 | 193 | Nikki Rae Gordon |
-| 202 | 192 | Shauna Havard |
-| 203 | 192 | Dizzy Matchzone |
-| 204 | 191 | Klo |
-| 205 | 191 | Sam Bishop |
+| 202 | 192 | Dizzy Matchzone |
+| 203 | 192 | Shauna Havard |
+| 204 | 191 | Sam Bishop |
+| 205 | 191 | Klo |
 | 206 | 190 | Cheery Risebuilder |
 | 207 | 189 | Stacey Stano |
 | 208 | 189 | Calvin Dennis |

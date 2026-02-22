@@ -348,8 +348,8 @@
 | 340 | 613 | Caitlyn Blackwell |
 | 341 | 613 | Ellie Jonas |
 | 342 | 611 | Em Chen |
-| 343 | 611 | Julio A Laracuente |
-| 344 | 611 | Carl Bradshaw |
+| 343 | 611 | Carl Bradshaw |
+| 344 | 611 | Julio A Laracuente |
 | 345 | 603 | Cassie Maynard |
 | 346 | 602 | KhaosLord |
 | 347 | 602 | Christine Bollig |
@@ -444,12 +444,12 @@
 | 436 | 494 | Venita Ray |
 | 437 | 493 | Kara Gillen |
 | 438 | 492 | Maya June |
-| 439 | 492 | Armonie Smith |
-| 440 | 492 | Breezy Clusterer |
-| 441 | 491 | Jedi |
-| 442 | 491 | Michael Buckner |
-| 443 | 489 | Osun Anuket Esu |
-| 444 | 489 | Cassie Mercer |
+| 439 | 492 | Breezy Clusterer |
+| 440 | 492 | Armonie Smith |
+| 441 | 491 | Michael Buckner |
+| 442 | 491 | Jedi |
+| 443 | 489 | Cassie Mercer |
+| 444 | 489 | Osun Anuket Esu |
 | 445 | 488 | Christina Wsn |
 | 446 | 487 | Morgan Easter |
 | 447 | 487 | MrsCandyfine As Wine Truss |
@@ -470,8 +470,8 @@
 | 462 | 477 | Julay |
 | 463 | 476 | Kitybox |
 | 464 | 475 | Michelle Lee |
-| 465 | 474 | Steve Man |
-| 466 | 474 | Calandra Shaya Robinson |
+| 465 | 474 | Calandra Shaya Robinson |
+| 466 | 474 | Steve Man |
 | 467 | 473 | coleksquad |
 | 468 | 473 | Lyndi Robinson Wakefield |
 | 469 | 472 | Arwa Fatimah |
@@ -501,8 +501,8 @@
 | 493 | 454 | Casey Schumacher |
 | 494 | 453 | Joshua Sommerville |
 | 495 | 453 | Rhonda Petro |
-| 496 | 452 | Sarah Berger |
-| 497 | 452 | Aimee Campbell |
+| 496 | 452 | Aimee Campbell |
+| 497 | 452 | Sarah Berger |
 | 498 | 451 | Funky Caster |
 | 499 | 450 | Cheery Matchzone |
 | 500 | 449 | Andrea Maher |
@@ -558,8 +558,8 @@
 | 550 | 413 | Lauren Fitzgerald Thomas |
 | 551 | 413 | Fancy Twister |
 | 552 | 412 | Jason H Baker |
-| 553 | 411 | Kristen O'Neal |
-| 554 | 411 | Mighty Spinbuilder |
+| 553 | 411 | Mighty Spinbuilder |
+| 554 | 411 | Kristen O'Neal |
 | 555 | 410 | Nicole Cannon |
 | 556 | 408 | Abimbola Bimbo |
 | 557 | 408 | Stefanie Zonzini-Gagliardi |
@@ -646,10 +646,10 @@
 | 638 | 363 | Stephanie Fortune |
 | 639 | 363 | Veronica Stevenson |
 | 640 | 362 | Jennifer Scott |
-| 641 | 362 | Tracy Wise |
-| 642 | 362 | Veronics |
-| 643 | 361 | Lewis Sturgeon |
-| 644 | 361 | Michelle Shrum |
+| 641 | 362 | Veronics |
+| 642 | 362 | Tracy Wise |
+| 643 | 361 | Michelle Shrum |
+| 644 | 361 | Lewis Sturgeon |
 | 645 | 360 | Jroc |
 | 646 | 359 | Diallo Sparkman |
 | 647 | 359 | Cheyenne Donovan |
