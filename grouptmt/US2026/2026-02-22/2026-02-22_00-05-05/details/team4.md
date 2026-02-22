@@ -132,8 +132,8 @@
 | 124 | 204 | Jen Caldwell |
 | 125 | 204 | Dana Scott |
 | 126 | 202 | Monica Daley |
-| 127 | 201 | Melvin Baird |
-| 128 | 201 | Swanky Fitline |
+| 127 | 201 | Swanky Fitline |
+| 128 | 201 | Melvin Baird |
 | 129 | 197 | Peachy Fall |
 | 130 | 196 | Jenna McGeorge |
 | 131 | 196 | Jeff Brian Gates |
@@ -143,8 +143,8 @@
 | 135 | 189 | Calvin Dennis |
 | 136 | 188 | Katherine Crane |
 | 137 | 187 | TheNeesh50 |
-| 138 | 185 | Malakai Darien Fox |
-| 139 | 185 | Andy Cabral |
+| 138 | 185 | Andy Cabral |
+| 139 | 185 | Malakai Darien Fox |
 | 140 | 184 | Justin Hannigan |
 | 141 | 181 | Klo |
 | 142 | 181 | Andria Lynn |
@@ -163,9 +163,9 @@
 | 155 | 160 | ZeeZee |
 | 156 | 156 | Holly |
 | 157 | 155 | AyeKay |
-| 158 | 153 | Chair |
-| 159 | 153 | Empress Oasis |
-| 160 | 153 | Avy Absol |
+| 158 | 153 | Empress Oasis |
+| 159 | 153 | Avy Absol |
+| 160 | 153 | Chair |
 | 161 | 152 | Mary Ann Pabukis |
 | 162 | 152 | scott |
 | 163 | 151 | Bethany Ison |
@@ -296,8 +296,8 @@
 | 288 | 95 | Tina Martinez |
 | 289 | 94 | DonMega |
 | 290 | 93 | No Strings Attached Ra |
-| 291 | 92 | Hyper Builder |
-| 292 | 92 | Frilly Blocky |
+| 291 | 92 | Frilly Blocky |
+| 292 | 92 | Hyper Builder |
 | 293 | 91 | wombat |
 | 294 | 91 | Sunny Filler |
 | 295 | 90 | Chirpy Slammer |

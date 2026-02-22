@@ -158,8 +158,8 @@
 | 150 | 180 | BigWeenie69 |
 | 151 | 179 | Danielle Little-Daugherty |
 | 152 | 178 | Chad Atchley |
-| 153 | 177 | ParisandCory Champagne |
-| 154 | 177 | Irual Hctrab |
+| 153 | 177 | Irual Hctrab |
+| 154 | 177 | ParisandCory Champagne |
 | 155 | 175 | John Barron |
 | 156 | 171 | femmefatale |
 | 157 | 171 | David DeSantis |
@@ -177,8 +177,8 @@
 | 169 | 161 | SavageBooty98 |
 | 170 | 161 | Jessie Lynn |
 | 171 | 159 | Bindi |
-| 172 | 158 | Arianna O'Brien |
-| 173 | 158 | Sarah Marie |
+| 172 | 158 | Sarah Marie |
+| 173 | 158 | Arianna O'Brien |
 | 174 | 157 | Angela Fairbank |
 | 175 | 154 | Christy Jones |
 | 176 | 152 | Speedy Snapfall |

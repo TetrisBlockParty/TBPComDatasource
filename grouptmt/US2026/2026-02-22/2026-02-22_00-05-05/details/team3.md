@@ -65,10 +65,10 @@
 | 57 | 696 | Judi Dobson |
 | 58 | 632 | Jamie Furr |
 | 59 | 628 | Tiff Vs Tiffany |
-| 60 | 621 | Cherry Parker |
-| 61 | 621 | Ebony West-Cundiff |
-| 62 | 618 | Brandon Green |
-| 63 | 618 | MissTaylor |
+| 60 | 621 | Ebony West-Cundiff |
+| 61 | 621 | Cherry Parker |
+| 62 | 618 | MissTaylor |
+| 63 | 618 | Brandon Green |
 | 64 | 613 | Amber Hughes |
 | 65 | 611 | Elaine Webb Graves |
 | 66 | 604 | Danielle Becker |
@@ -190,8 +190,8 @@
 | 182 | 226 | Grego Daniel |
 | 183 | 224 | Nicole Myers |
 | 184 | 223 | Jeana Gilbert |
-| 185 | 219 | Rebecca Bailey |
-| 186 | 219 | Shunta Jacobs |
+| 185 | 219 | Shunta Jacobs |
+| 186 | 219 | Rebecca Bailey |
 | 187 | 218 | LaNette Morgan |
 | 188 | 217 | Jess Bissett |
 | 189 | 215 | Araceli Parra |

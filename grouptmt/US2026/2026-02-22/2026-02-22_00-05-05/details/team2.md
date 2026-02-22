@@ -511,9 +511,9 @@
 | 503 | 308 | Christina Jarvis-Swarbrick |
 | 504 | 308 | Ann Knutson Anderson |
 | 505 | 307 | Diallo Sparkman |
-| 506 | 305 | Samantha Scibelli |
-| 507 | 305 | Zany Clusterbuilder |
-| 508 | 305 | Claire |
+| 506 | 305 | Claire |
+| 507 | 305 | Samantha Scibelli |
+| 508 | 305 | Zany Clusterbuilder |
 | 509 | 305 | Libby Hicks |
 | 510 | 304 | Michelle Shrum |
 | 511 | 304 | NFLPITMOM |
