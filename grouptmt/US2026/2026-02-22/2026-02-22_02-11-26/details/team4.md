@@ -88,8 +88,8 @@
 | 80 | 370 | Leslie Thomas |
 | 81 | 369 | Nope Young |
 | 82 | 359 | Jamie Mann-Deichmann |
-| 83 | 358 | Shane Kalamata Platoon |
-| 84 | 358 | Nugget |
+| 83 | 358 | Nugget |
+| 84 | 358 | Shane Kalamata Platoon |
 | 85 | 319 | Livvy |
 | 86 | 314 | Amanda Pauldo-Ivy |
 | 87 | 311 | David Lay |
@@ -242,8 +242,8 @@
 | 234 | 127 | Joshua Cuellar |
 | 235 | 126 | Angelito |
 | 236 | 126 | icequeenx |
-| 237 | 125 | KimoKoala |
-| 238 | 125 | Lush Linkfall |
+| 237 | 125 | Lush Linkfall |
+| 238 | 125 | KimoKoala |
 | 239 | 124 | Sam Middleton |
 | 240 | 124 | Allen Lloyd |
 | 241 | 123 | Jasmine S Caldwell |

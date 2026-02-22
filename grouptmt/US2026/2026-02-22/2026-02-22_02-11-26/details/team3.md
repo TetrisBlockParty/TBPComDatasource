@@ -114,8 +114,8 @@
 | 106 | 432 | Jenny Hrndz |
 | 107 | 432 | Jennifer Lynn Fahrenholtz-Summers |
 | 108 | 430 | Patricia White |
-| 109 | 428 | Betty Ivy |
-| 110 | 428 | Elissa S-k |
+| 109 | 428 | Elissa S-k |
+| 110 | 428 | Betty Ivy |
 | 111 | 416 | Mary Pellegrino |
 | 112 | 410 | Stephanie Blkpep Davidson |
 | 113 | 410 | Stephanie Simpson |
@@ -215,8 +215,8 @@
 | 207 | 224 | Nicole Myers |
 | 208 | 223 | Jeana Gilbert |
 | 209 | 221 | Jaime Monhaut-Reed |
-| 210 | 219 | Shunta Jacobs |
-| 211 | 219 | Sissy Lowery Davis |
+| 210 | 219 | Sissy Lowery Davis |
+| 211 | 219 | Shunta Jacobs |
 | 212 | 219 | Keis |
 | 213 | 218 | Michael Lucado |
 | 214 | 216 | Tasha Wesson-Torrence |
@@ -230,8 +230,8 @@
 | 222 | 207 | Jessica |
 | 223 | 207 | Chris Bell |
 | 224 | 205 | Sarah Moyer |
-| 225 | 204 | Danielle Allison |
-| 226 | 204 | Aerian Preston |
+| 225 | 204 | Aerian Preston |
+| 226 | 204 | Danielle Allison |
 | 227 | 204 | Sunny Rotater |
 | 228 | 201 | Karon Griffin |
 | 229 | 200 | Sharisse Baltimore |

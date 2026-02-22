@@ -90,12 +90,12 @@
 | 82 | 323 | Candy Jones |
 | 83 | 323 | Sweet Baker |
 | 84 | 321 | Maria C. Hernandez |
-| 85 | 319 | Shauna Loe |
-| 86 | 319 | Deanna L Hermanson |
+| 85 | 319 | Deanna L Hermanson |
+| 86 | 319 | Shauna Loe |
 | 87 | 311 | Tanya Carpenter-Reynolds |
 | 88 | 310 | Seth Wesson |
-| 89 | 305 | Patrick Luckenbill |
-| 90 | 305 | Cynthia Bradley |
+| 89 | 305 | Cynthia Bradley |
+| 90 | 305 | Patrick Luckenbill |
 | 91 | 304 | Nicole Roseberry Weber |
 | 92 | 303 | cc |
 | 93 | 301 | Hyper |
@@ -171,9 +171,9 @@
 | 163 | 179 | Danielle Little-Daugherty |
 | 164 | 179 | femmefatale |
 | 165 | 178 | Chad Atchley |
-| 166 | 177 | ParisandCory Champagne |
+| 166 | 177 | Jacqueline Unique |
 | 167 | 177 | Irual Hctrab |
-| 168 | 177 | Jacqueline Unique |
+| 168 | 177 | ParisandCory Champagne |
 | 169 | 175 | John Barron |
 | 170 | 174 | Cheeky Pop |
 | 171 | 173 | Mel Hogan |
