@@ -187,8 +187,8 @@
 | 179 | 1147 | Kiok |
 | 180 | 1138 | Megan Ferguson Leone |
 | 181 | 1132 | Anna Edwards |
-| 182 | 1131 | Prado |
-| 183 | 1131 | Stacey Clement |
+| 182 | 1131 | Stacey Clement |
+| 183 | 1131 | Prado |
 | 184 | 1117 | Ricardo Burton |
 | 185 | 1112 | Adam Erikson |
 | 186 | 1105 | Nerdy Clearfit |
@@ -606,14 +606,14 @@
 | 598 | 434 | bbv |
 | 599 | 432 | Abimbola Bimbo |
 | 600 | 432 | Lucy Marshall |
-| 601 | 431 | Hunter Connors |
-| 602 | 431 | Quinn |
+| 601 | 431 | Quinn |
+| 602 | 431 | Hunter Connors |
 | 603 | 429 | Tabs Reichert |
 | 604 | 429 | Angel Hunnewell |
 | 605 | 428 | Shyenn Gadsby |
 | 606 | 428 | Lynda Toland |
-| 607 | 427 | Sabrina Burton |
-| 608 | 427 | Destiny Cozier |
+| 607 | 427 | Destiny Cozier |
+| 608 | 427 | Sabrina Burton |
 | 609 | 426 | De Hawkins |
 | 610 | 426 | Joel Rosado |
 | 611 | 426 | Tom Steffen |

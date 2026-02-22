@@ -126,8 +126,8 @@
 | 118 | 360 | Wisa |
 | 119 | 360 | phrmblk24 |
 | 120 | 359 | Chirpy Smasher |
-| 121 | 357 | Amanda Johnson Huffman |
-| 122 | 357 | Dandy Basegrid |
+| 121 | 357 | Dandy Basegrid |
+| 122 | 357 | Amanda Johnson Huffman |
 | 123 | 355 | Hasbro Bros |
 | 124 | 352 | Jason Jones |
 | 125 | 350 | Sweet Baker |

@@ -128,8 +128,8 @@
 | 120 | 579 | Jd Morris |
 | 121 | 574 | Morgan Martinez |
 | 122 | 568 | Rachael McClain Owens |
-| 123 | 562 | Louise Stacy Sisson |
-| 124 | 562 | Dave Herzog |
+| 123 | 562 | Dave Herzog |
+| 124 | 562 | Louise Stacy Sisson |
 | 125 | 551 | Alaina Lee |
 | 126 | 550 | Nicole Myers |
 | 127 | 546 | Domo Washington |

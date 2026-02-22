@@ -196,8 +196,8 @@
 | 188 | 250 | Matt Dell'Olio |
 | 189 | 248 | Chirpy Basepiece |
 | 190 | 247 | Sam Bishop |
-| 191 | 247 | jim |
-| 192 | 247 | Dennis Bradley |
+| 191 | 247 | Dennis Bradley |
+| 192 | 247 | jim |
 | 193 | 246 | Carlos Ramirez |
 | 194 | 245 | Andria Lynn |
 | 195 | 245 | Autum Leigh |
@@ -210,8 +210,8 @@
 | 202 | 239 | Zethra Prenisha Rahming |
 | 203 | 237 | Jen Caldwell |
 | 204 | 236 | Swanky Fitline |
-| 205 | 233 | Ruben Wheeler |
-| 206 | 233 | April Rondinone |
+| 205 | 233 | April Rondinone |
+| 206 | 233 | Ruben Wheeler |
 | 207 | 230 | Kristina Black |
 | 208 | 230 | blockstar |
 | 209 | 228 | Antony Dwayne Beasley |
@@ -265,8 +265,8 @@
 | 257 | 190 | Cheery Risebuilder |
 | 258 | 189 | Dihcheese444 |
 | 259 | 189 | 030Synner |
-| 260 | 185 | Morti |
-| 261 | 185 | Laura Hosford |
+| 260 | 185 | Laura Hosford |
+| 261 | 185 | Morti |
 | 262 | 184 | Lauren Lamb |
 | 263 | 183 | Twisty Risebuilder |
 | 264 | 183 | Nubian1 |
@@ -414,8 +414,8 @@
 | 406 | 123 | MOCHA |
 | 407 | 123 | Jennifer Perkins |
 | 408 | 122 | Spicy Cascadezone |
-| 409 | 122 | Blessedmama |
-| 410 | 122 | PennyCandee |
+| 409 | 122 | PennyCandee |
+| 410 | 122 | Blessedmama |
 | 411 | 122 | Kate |
 | 412 | 121 | Riverdale |
 | 413 | 121 | Cool Gridzone |
