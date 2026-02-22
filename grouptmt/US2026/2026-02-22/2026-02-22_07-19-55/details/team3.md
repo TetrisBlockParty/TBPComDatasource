@@ -265,8 +265,8 @@
 | 257 | 227 | Meowsa |
 | 258 | 225 | Dirtgirl27 |
 | 259 | 223 | Connie Mohler-Fair |
-| 260 | 221 | Alice |
-| 261 | 221 | Jaime Monhaut-Reed |
+| 260 | 221 | Jaime Monhaut-Reed |
+| 261 | 221 | Alice |
 | 262 | 221 | Vaners |
 | 263 | 220 | rosy |
 | 264 | 219 | Sissy Lowery Davis |
@@ -295,8 +295,8 @@
 | 287 | 202 | Rachel |
 | 288 | 202 | Staci George Fitzsimmons |
 | 289 | 201 | Hyper Matchzone |
-| 290 | 200 | glichmod |
-| 291 | 200 | Sharisse Baltimore |
+| 290 | 200 | Sharisse Baltimore |
+| 291 | 200 | glichmod |
 | 292 | 198 | kacihall |
 | 293 | 197 | Saucy Buildout |
 | 294 | 195 | Nicha Hooker |
@@ -644,8 +644,8 @@
 | 636 | 87 | Richard Rowell |
 | 637 | 87 | gravelgrinder |
 | 638 | 87 | monied |
-| 639 | 86 | Spencer Nikki |
-| 640 | 86 | Dee |
+| 639 | 86 | Dee |
+| 640 | 86 | Spencer Nikki |
 | 641 | 86 | Anna Fuerstenau |
 | 642 | 86 | Jonathn Poindexter |
 | 643 | 86 | Viola Vanquet |

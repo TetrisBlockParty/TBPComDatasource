@@ -235,9 +235,9 @@
 | 227 | 801 | Debra Williams |
 | 228 | 800 | Danielle Johnson-Chandler |
 | 229 | 787 | Laura McCarthey |
-| 230 | 777 | Barbra Miller |
-| 231 | 777 | Tesha Oldaker |
-| 232 | 777 | Jessicah Myers |
+| 230 | 777 | Jessicah Myers |
+| 231 | 777 | Barbra Miller |
+| 232 | 777 | Tesha Oldaker |
 | 233 | 777 | Eric Carlson |
 | 234 | 772 | Stephen Stephen |
 | 235 | 771 | Terri McKelvey McKinley |
@@ -245,8 +245,8 @@
 | 237 | 767 | Jessica Wayne Cornwall |
 | 238 | 765 | Jodi Blake |
 | 239 | 763 | Lisa Ongtowasruk |
-| 240 | 763 | Beth |
-| 241 | 763 | Samantha Jo |
+| 240 | 763 | Samantha Jo |
+| 241 | 763 | Beth |
 | 242 | 759 | Desire Rice |
 | 243 | 756 | Stephanie Neuburger |
 | 244 | 753 | SaraMarie Eveland |
@@ -266,10 +266,10 @@
 | 258 | 705 | Lola Contreras |
 | 259 | 704 | Shelley Thornburgh Wright |
 | 260 | 703 | Gold Rose |
-| 261 | 700 | Beverly Owens |
-| 262 | 700 | Rosemadder |
-| 263 | 700 | Hong Tang |
-| 264 | 700 | Vincent Petrella |
+| 261 | 700 | Hong Tang |
+| 262 | 700 | Vincent Petrella |
+| 263 | 700 | Beverly Owens |
+| 264 | 700 | Rosemadder |
 | 265 | 698 | Mighty Shatterfit |
 | 266 | 697 | Dreamy Blast |
 | 267 | 692 | Chelle |
@@ -307,8 +307,8 @@
 | 299 | 651 | Unica Rector |
 | 300 | 650 | Shiny Rollzone |
 | 301 | 643 | Hoppy Brickmatch |
-| 302 | 641 | Angie Bolton Workman |
-| 303 | 641 | Joce Lynn |
+| 302 | 641 | Joce Lynn |
+| 303 | 641 | Angie Bolton Workman |
 | 304 | 640 | BYM4L |
 | 305 | 639 | Crystie Hicks |
 | 306 | 639 | Rebecca Miller |
@@ -374,8 +374,8 @@
 | 366 | 525 | Desiree Anderson |
 | 367 | 524 | Jojo Momma |
 | 368 | 523 | Matt Johnson |
-| 369 | 522 | Lylymom |
-| 370 | 522 | Joseph Musick |
+| 369 | 522 | Joseph Musick |
+| 370 | 522 | Lylymom |
 | 371 | 521 | Tj Ball |
 | 372 | 520 | Maddy Petersen |
 | 373 | 520 | Angela Lynn |
@@ -570,8 +570,8 @@
 | 562 | 378 | Tina Marie |
 | 563 | 378 | TF Dyer |
 | 564 | 377 | Jason H Baker |
-| 565 | 376 | James Zaragoza |
-| 566 | 376 | Darlene Bowman |
+| 565 | 376 | Darlene Bowman |
+| 566 | 376 | James Zaragoza |
 | 567 | 375 | Cecilia A Jenkins |
 | 568 | 375 | Lively Edgepiece |
 | 569 | 375 | Wuntayk |
@@ -614,13 +614,13 @@
 | 606 | 357 | Shannon Byrd |
 | 607 | 357 | Tristan Szolek |
 | 608 | 355 | Amanda Perez |
-| 609 | 354 | Demeka Dangerous-kisses Johnson |
-| 610 | 354 | Rachel Kaminski |
+| 609 | 354 | Rachel Kaminski |
+| 610 | 354 | Demeka Dangerous-kisses Johnson |
 | 611 | 354 | Rickey Johnson |
 | 612 | 352 | Rose Fx |
 | 613 | 352 | Jean FU Jagielski |
-| 614 | 352 | ruth |
-| 615 | 352 | Mikayala Szaz |
+| 614 | 352 | Mikayala Szaz |
+| 615 | 352 | ruth |
 | 616 | 351 | Connie Jimenez |
 | 617 | 350 | Fi Ne |
 | 618 | 350 | Chris Harr |

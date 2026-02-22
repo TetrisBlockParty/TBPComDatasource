@@ -33,8 +33,8 @@
 | 25 | 886 | Dustin Robert |
 | 26 | 880 | Koshin Abdirahman |
 | 27 | 879 | Heather Tushner |
-| 28 | 873 | Michelle Pearman |
-| 29 | 873 | Elizabeth Sallas |
+| 28 | 873 | Elizabeth Sallas |
+| 29 | 873 | Michelle Pearman |
 | 30 | 871 | Denny Shives |
 | 31 | 846 | Christine Marie |
 | 32 | 843 | Lucille Truesdale |
@@ -47,8 +47,8 @@
 | 39 | 757 | Ancient Intuition |
 | 40 | 736 | Goatimus Lombardi |
 | 41 | 734 | BertMofo |
-| 42 | 707 | Rachel Anne |
-| 43 | 707 | Clarence Patawaran |
+| 42 | 707 | Clarence Patawaran |
+| 43 | 707 | Rachel Anne |
 | 44 | 704 | Crystal Carroll |
 | 45 | 697 | Edward White |
 | 46 | 695 | LisaJo Picken Buchanan |
@@ -182,8 +182,8 @@
 | 174 | 201 | Chance Strickland |
 | 175 | 201 | Melvin Baird |
 | 176 | 198 | Jessica Lynn Cutlip |
-| 177 | 196 | Zethra Prenisha Rahming |
-| 178 | 196 | Oscar Alberto Perez |
+| 177 | 196 | Oscar Alberto Perez |
+| 178 | 196 | Zethra Prenisha Rahming |
 | 179 | 195 | Malakai Darien Fox |
 | 180 | 195 | ZeeZee |
 | 181 | 195 | 中山成巳 |
@@ -191,17 +191,17 @@
 | 183 | 192 | Shauna Havard |
 | 184 | 191 | Klo |
 | 185 | 190 | Cheery Risebuilder |
-| 186 | 189 | Calvin Dennis |
-| 187 | 189 | Stacey Stano |
+| 186 | 189 | Stacey Stano |
+| 187 | 189 | Calvin Dennis |
 | 188 | 188 | Andria Lynn |
 | 189 | 186 | Holly |
-| 190 | 185 | Lori |
-| 191 | 185 | Andy Cabral |
+| 190 | 185 | Andy Cabral |
+| 191 | 185 | Lori |
 | 192 | 184 | Ak Jones |
-| 193 | 181 | Carter Jones |
-| 194 | 181 | Alan George LaRage |
-| 195 | 180 | Orchislactea |
-| 196 | 180 | Rafael Valentin |
+| 193 | 181 | Alan George LaRage |
+| 194 | 181 | Carter Jones |
+| 195 | 180 | Rafael Valentin |
+| 196 | 180 | Orchislactea |
 | 197 | 179 | blockstar |
 | 198 | 175 | TinyLegoRose |
 | 199 | 174 | Rio Rocha |
@@ -246,8 +246,8 @@
 | 238 | 145 | Sandra Safford |
 | 239 | 145 | Mimi |
 | 240 | 144 | Nubian1 |
-| 241 | 143 | Zesty Twistbuilder |
-| 242 | 143 | Lauren Lamb |
+| 241 | 143 | Lauren Lamb |
+| 242 | 143 | Zesty Twistbuilder |
 | 243 | 142 | Stephme310 |
 | 244 | 142 | Chaz |
 | 245 | 142 | Patron Anderson |
@@ -349,8 +349,8 @@
 | 341 | 108 | Walter Beltran |
 | 342 | 108 | Denise B |
 | 343 | 107 | Brandi Durig |
-| 344 | 107 | Silly SeaWeed |
-| 345 | 107 | Marcela Johnson |
+| 344 | 107 | Marcela Johnson |
+| 345 | 107 | Silly SeaWeed |
 | 346 | 106 | Zappy Snaplink |
 | 347 | 106 | Jacob Richard |
 | 348 | 105 | meowmew |

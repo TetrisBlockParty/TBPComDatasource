@@ -63,8 +63,8 @@
 | 55 | 517 | Jen Sartain |
 | 56 | 510 | Colena Davenport |
 | 57 | 495 | Sevens4L |
-| 58 | 493 | Robert Benito |
-| 59 | 493 | Katie Daniels |
+| 58 | 493 | Katie Daniels |
+| 59 | 493 | Robert Benito |
 | 60 | 491 | Sarah Lombardo |
 | 61 | 483 | Ryan Lunnin |
 | 62 | 476 | Cartier |
@@ -269,9 +269,9 @@
 | 261 | 143 | Herm Junior |
 | 262 | 142 | Jerry Danowski |
 | 263 | 140 | Tawnya Peltonen |
-| 264 | 139 | Flashy Rotator |
+| 264 | 139 | LD1 |
 | 265 | 139 | Aimee Horton |
-| 266 | 139 | LD1 |
+| 266 | 139 | Flashy Rotator |
 | 267 | 138 | Hector Cruz |
 | 268 | 138 | Ruthie Mahoney Saunders-Browne |
 | 269 | 138 | Rachel Nichole Henry |
