@@ -136,8 +136,8 @@
 | 128 | 526 | Cynthia Castros-Hampton |
 | 129 | 525 | Justin Ritter |
 | 130 | 521 | Michael Nowogorski |
-| 131 | 521 | Michelle Becker |
-| 132 | 521 | Daryn Elliott |
+| 131 | 521 | Daryn Elliott |
+| 132 | 521 | Michelle Becker |
 | 133 | 518 | opf |
 | 134 | 506 | Sashay Tapae Simpson |
 | 135 | 504 | Jennifer Lynn Fahrenholtz-Summers |
@@ -299,8 +299,8 @@
 | 291 | 243 | Josh Borquez |
 | 292 | 241 | Troy |
 | 293 | 241 | LaShey Thompson |
-| 294 | 240 | Eric Caccavale |
-| 295 | 240 | Jimmie Clemons |
+| 294 | 240 | Jimmie Clemons |
+| 295 | 240 | Eric Caccavale |
 | 296 | 238 | Niki Dalrymple |
 | 297 | 236 | Angela Scott |
 | 298 | 236 | Lys |
@@ -313,8 +313,8 @@
 | 305 | 230 | BigE |
 | 306 | 228 | Naur |
 | 307 | 227 | Rebel124 |
-| 308 | 227 | Meowsa |
-| 309 | 227 | ROODBOY |
+| 308 | 227 | ROODBOY |
+| 309 | 227 | Meowsa |
 | 310 | 226 | Jana Polk |
 | 311 | 225 | Stephanie Hill |
 | 312 | 225 | Steffi Chris Dacones |
@@ -390,8 +390,8 @@
 | 382 | 189 | Katheline Lazo Luizaga |
 | 383 | 188 | Crystal Hine |
 | 384 | 186 | Bryan Byrd |
-| 385 | 186 | Sameerah Smith |
-| 386 | 186 | Noettín Kan Zasnemoore |
+| 385 | 186 | Noettín Kan Zasnemoore |
+| 386 | 186 | Sameerah Smith |
 | 387 | 185 | Frilly Stackzone |
 | 388 | 185 | Angella Lyons |
 | 389 | 184 | Shanon R Jackson |

@@ -221,9 +221,9 @@
 | 213 | 973 | Kim Dean |
 | 214 | 972 | Juliana Marques Do Nascimento Gordy |
 | 215 | 960 | Jennifer Kistner |
-| 216 | 957 | Keri Womack |
+| 216 | 957 | Crystal Hoffman |
 | 217 | 957 | Block Master |
-| 218 | 957 | Crystal Hoffman |
+| 218 | 957 | Keri Womack |
 | 219 | 954 | Shannon Joslin |
 | 220 | 951 | Cynthia Ward |
 | 221 | 950 | Teresa Gillmore |
@@ -294,14 +294,14 @@
 | 286 | 787 | Laura McCarthey |
 | 287 | 783 | Lisa Ongtowasruk |
 | 288 | 781 | Angie Bolton Workman |
-| 289 | 777 | Tesha Oldaker |
-| 290 | 777 | Jessicah Myers |
+| 289 | 777 | Jessicah Myers |
+| 290 | 777 | Tesha Oldaker |
 | 291 | 777 | Samantha Jo |
 | 292 | 773 | Joshua Sommerville |
 | 293 | 772 | Kristin Gower |
 | 294 | 768 | Michele Morgan |
-| 295 | 767 | Ashley Lopez |
-| 296 | 767 | Dee |
+| 295 | 767 | Dee |
+| 296 | 767 | Ashley Lopez |
 | 297 | 763 | Heather Causey |
 | 298 | 763 | Beth |
 | 299 | 761 | Hyper Cluster |
@@ -335,8 +335,8 @@
 | 327 | 700 | Vincent Petrella |
 | 328 | 700 | Hong Tang |
 | 329 | 699 | tejas25 |
-| 330 | 697 | Dreamy Blast |
-| 331 | 697 | Ashle Scranton |
+| 330 | 697 | Ashle Scranton |
+| 331 | 697 | Dreamy Blast |
 | 332 | 695 | Deborah Miller |
 | 333 | 695 | Lakeysha Dortch |
 | 334 | 692 | Dannette Goldberg-Richards |
@@ -345,8 +345,8 @@
 | 337 | 688 | Leslie Ann Carter |
 | 338 | 688 | ShinyRose |
 | 339 | 686 | Ashley Guernsey-Martin |
-| 340 | 685 | Brenda Pierpoint |
-| 341 | 685 | Binyah-Binyah |
+| 340 | 685 | Binyah-Binyah |
+| 341 | 685 | Brenda Pierpoint |
 | 342 | 682 | Poldo Ilano |
 | 343 | 680 | blume |
 | 344 | 679 | Kassandra Hunt |
@@ -521,12 +521,12 @@
 | 513 | 475 | Michelle Lee |
 | 514 | 474 | Calandra Shaya Robinson |
 | 515 | 473 | Wuntayk |
-| 516 | 473 | Sam |
-| 517 | 473 | coleksquad |
+| 516 | 473 | coleksquad |
+| 517 | 473 | Sam |
 | 518 | 473 | Tracy Wise |
 | 519 | 473 | Ashlee Cruz |
-| 520 | 472 | KayLynn Ogden McClelland |
-| 521 | 472 | Arwa Fatimah |
+| 520 | 472 | Arwa Fatimah |
+| 521 | 472 | KayLynn Ogden McClelland |
 | 522 | 472 | Kyle LeRoy Harris |
 | 523 | 471 | Rae Rae |
 | 524 | 470 | Arlene Joy Belicina |

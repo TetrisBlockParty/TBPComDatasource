@@ -184,8 +184,8 @@
 | 176 | 264 | Jenny Gingrich Fuentes |
 | 177 | 261 | Witty Builderfit |
 | 178 | 258 | Billie Dawn Sparks |
-| 179 | 254 | Al Smith Jr |
-| 180 | 254 | Letson Melissa |
+| 179 | 254 | Letson Melissa |
+| 180 | 254 | Al Smith Jr |
 | 181 | 253 | Jamie Jury |
 | 182 | 252 | Dena Kayy |
 | 183 | 251 | Giggly Builderline |
@@ -218,8 +218,8 @@
 | 210 | 223 | Basment Living |
 | 211 | 222 | Debbie Davis |
 | 212 | 221 | Daring Fitclear |
-| 213 | 220 | Jessie Lynn |
-| 214 | 220 | Giddy Cascade |
+| 213 | 220 | Giddy Cascade |
+| 214 | 220 | Jessie Lynn |
 | 215 | 219 | Chuck Gannon |
 | 216 | 219 | Lacy Wolfe |
 | 217 | 216 | Shauntina Burke |

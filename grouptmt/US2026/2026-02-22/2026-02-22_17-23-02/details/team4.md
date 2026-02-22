@@ -17,8 +17,8 @@
 | 9 | 1835 | East Mamba |
 | 10 | 1775 | Ash |
 | 11 | 1676 | Ayanna Soto |
-| 12 | 1447 | Juggalo |
-| 13 | 1447 | GreenJeepGirl |
+| 12 | 1447 | GreenJeepGirl |
+| 13 | 1447 | Juggalo |
 | 14 | 1318 | Cassie Michaux |
 | 15 | 1292 | Roger Coulter |
 | 16 | 1204 | Alicia Bass |
@@ -127,14 +127,14 @@
 | 119 | 369 | Nope Young |
 | 120 | 362 | Carrie Brian |
 | 121 | 354 | Serena Goodridge |
-| 122 | 353 | Tyler Terrific |
-| 123 | 353 | Livvy |
+| 122 | 353 | Livvy |
+| 123 | 353 | Tyler Terrific |
 | 124 | 344 | Lush Linkfall |
 | 125 | 343 | Latisha Davis |
-| 126 | 338 | ThaEviLJeNiuZ |
-| 127 | 338 | Lucas J Sutton |
-| 128 | 332 | HastyGrabber |
-| 129 | 332 | Desi Desporte |
+| 126 | 338 | Lucas J Sutton |
+| 127 | 338 | ThaEviLJeNiuZ |
+| 128 | 332 | Desi Desporte |
+| 129 | 332 | HastyGrabber |
 | 130 | 330 | David Lay |
 | 131 | 329 | Amanda Pauldo-Ivy |
 | 132 | 329 | Jessica Bohlken |
@@ -287,8 +287,8 @@
 | 279 | 161 | Matt Gooder |
 | 280 | 161 | Tanner Lund |
 | 281 | 161 | Twisty Risebuilder |
-| 282 | 159 | DonMega |
-| 283 | 159 | Marcus Todd |
+| 282 | 159 | Marcus Todd |
+| 283 | 159 | DonMega |
 | 284 | 157 | Bethany Ison |
 | 285 | 157 | KayM |
 | 286 | 157 | Linda Alexander Downing |
