@@ -63,8 +63,8 @@
 | 55 | 909 | Jennifer |
 | 56 | 908 | Alanna Rogers |
 | 57 | 903 | Sarah Fehring |
-| 58 | 895 | Shonna Roberts |
-| 59 | 895 | Amanda L Baker |
+| 58 | 895 | Amanda L Baker |
+| 59 | 895 | Shonna Roberts |
 | 60 | 886 | Khristen AC |
 | 61 | 874 | Jessica Pineda-Lopez |
 | 62 | 867 | Corie A. Brinson |
@@ -189,13 +189,13 @@
 | 181 | 353 | Shunta Jacobs |
 | 182 | 353 | Nora Rogers |
 | 183 | 348 | Chasity |
-| 184 | 347 | Nicole Flippo |
-| 185 | 347 | Jone |
+| 184 | 347 | Jone |
+| 185 | 347 | Nicole Flippo |
 | 186 | 346 | RickyG |
 | 187 | 343 | Ashley Raines |
 | 188 | 341 | Samantha Lynn |
-| 189 | 338 | Gumbo |
-| 190 | 338 | Leah Barnett |
+| 189 | 338 | Leah Barnett |
+| 190 | 338 | Gumbo |
 | 191 | 332 | Rich LeBlanc |
 | 192 | 332 | Noyb Adam |
 | 193 | 330 | Rebecca Funderburk Kirby |
@@ -204,8 +204,8 @@
 | 196 | 320 | Or Reznitsky |
 | 197 | 317 | Ashley Tookes |
 | 198 | 315 | Kammy Hill |
-| 199 | 311 | Araceli Parra |
-| 200 | 311 | Rochelle Hazelett |
+| 199 | 311 | Rochelle Hazelett |
+| 200 | 311 | Araceli Parra |
 | 201 | 310 | Danielle Balcom |
 | 202 | 308 | Rania Zaqout |
 | 203 | 308 | Daryn Elliott |
@@ -311,8 +311,8 @@
 | 303 | 205 | Kirhonda Autmon |
 | 304 | 204 | Aerian Preston |
 | 305 | 203 | Angie Harper |
-| 306 | 202 | Tipsy Zonebuilder |
-| 307 | 202 | Staci George Fitzsimmons |
+| 306 | 202 | Staci George Fitzsimmons |
+| 307 | 202 | Tipsy Zonebuilder |
 | 308 | 201 | Alexmac |
 | 309 | 201 | Daring Builder |
 | 310 | 201 | Hyper Matchzone |
@@ -347,13 +347,13 @@
 | 339 | 175 | Eileen Brady Thurber |
 | 340 | 174 | Lesley Perez |
 | 341 | 173 | Naur |
-| 342 | 173 | MizzMonick Smith |
-| 343 | 173 | BŘŰŤİÇŨŚ |
+| 342 | 173 | BŘŰŤİÇŨŚ |
+| 343 | 173 | MizzMonick Smith |
 | 344 | 170 | Tina Smith Roy |
 | 345 | 169 | Kristian Thurman |
 | 346 | 169 | Peachy Rollfit |
-| 347 | 168 | Trice Thomas |
-| 348 | 168 | April Matthew Kibble |
+| 347 | 168 | April Matthew Kibble |
+| 348 | 168 | Trice Thomas |
 | 349 | 167 | Shicken Nuggit |
 | 350 | 167 | Salena Whitlock |
 | 351 | 167 | Irene Arreguin |

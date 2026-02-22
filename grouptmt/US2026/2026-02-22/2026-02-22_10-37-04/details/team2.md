@@ -472,9 +472,9 @@
 | 464 | 466 | Koa N Sharon Chen |
 | 465 | 465 | Davetta Sanford |
 | 466 | 464 | snkylnk |
-| 467 | 463 | Jaye EL Hunter |
-| 468 | 463 | Sue Leard |
-| 469 | 463 | Cody Nishimura |
+| 467 | 463 | Cody Nishimura |
+| 468 | 463 | Jaye EL Hunter |
+| 469 | 463 | Sue Leard |
 | 470 | 462 | Jarboe |
 | 471 | 462 | Mikayala Szaz |
 | 472 | 462 | Daphne Jordan |
@@ -573,8 +573,8 @@
 | 565 | 394 | Taryece Gause |
 | 566 | 393 | Alexandra Weir |
 | 567 | 393 | Deyawn Smith |
-| 568 | 393 | Jamie West |
-| 569 | 393 | bbv |
+| 568 | 393 | bbv |
+| 569 | 393 | Jamie West |
 | 570 | 391 | Qiana Sanders |
 | 571 | 391 | Chilly Bridgepiece |
 | 572 | 391 | Anthony Huebel |
@@ -858,8 +858,8 @@
 | 850 | 264 | Nicki Stephens |
 | 851 | 264 | Sanaa Nounoussa |
 | 852 | 264 | Edna Combs |
-| 853 | 263 | Sunshine711 |
-| 854 | 263 | Amy Humphreys |
+| 853 | 263 | Amy Humphreys |
+| 854 | 263 | Sunshine711 |
 | 855 | 263 | Elizabeth Leinen |
 | 856 | 263 | Sara Pennington |
 | 857 | 262 | Taren Cowan |
@@ -887,8 +887,8 @@
 | 879 | 258 | DesertDreamer24 |
 | 880 | 258 | Tee Jaleesa |
 | 881 | 257 | Mama T |
-| 882 | 257 | Jackie Jackie Lee |
-| 883 | 257 | Ys Muhammed |
+| 882 | 257 | Ys Muhammed |
+| 883 | 257 | Jackie Jackie Lee |
 | 884 | 256 | Gursharan Sandhu |
 | 885 | 256 | Brenna Yearian |
 | 886 | 256 | Nikki Vaughn |
@@ -910,8 +910,8 @@
 | 902 | 252 | Layna Lyons |
 | 903 | 252 | Amanda Segura |
 | 904 | 251 | Bold Clusterfit |
-| 905 | 251 | Regina Unruh |
-| 906 | 251 | Sveta Lana |
+| 905 | 251 | Sveta Lana |
+| 906 | 251 | Regina Unruh |
 | 907 | 251 | Emoniee Sa'niaya |
 | 908 | 251 | Kimmie Zimmerman-Rocha |
 | 909 | 251 | Chipper Dashpiece |
@@ -926,8 +926,8 @@
 | 918 | 248 | Angelina Marie |
 | 919 | 248 | CleverAngel |
 | 920 | 247 | Linda Miltenburg |
-| 921 | 247 | Karyn Yurcho Dooley |
-| 922 | 247 | Wizz |
+| 921 | 247 | Wizz |
+| 922 | 247 | Karyn Yurcho Dooley |
 | 923 | 246 | Stacey Tranchida |
 | 924 | 246 | Laura McConnell |
 | 925 | 245 | Cassi Owens |
@@ -1049,8 +1049,8 @@
 | 1041 | 219 | Cathy Bitters |
 | 1042 | 219 | Jenn Morin |
 | 1043 | 219 | Kimberly Ashley-Stevens |
-| 1044 | 218 | Shea Edison |
-| 1045 | 218 | Clever Dashgrid |
+| 1044 | 218 | Clever Dashgrid |
+| 1045 | 218 | Shea Edison |
 | 1046 | 217 | Christine Lockwood |
 | 1047 | 217 | Kyane Johnson |
 | 1048 | 217 | Trisha Gallagher |

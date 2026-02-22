@@ -76,8 +76,8 @@
 | 68 | 473 | Kellie |
 | 69 | 461 | April Carroll |
 | 70 | 447 | Evie Khalil |
-| 71 | 434 | MomMom |
-| 72 | 434 | Hyper |
+| 71 | 434 | Hyper |
+| 72 | 434 | MomMom |
 | 73 | 430 | Nancy Green |
 | 74 | 428 | Stephanie Zahn |
 | 75 | 418 | Jazzy Framezone |
@@ -125,8 +125,8 @@
 | 117 | 318 | Jessica Sheehan |
 | 118 | 316 | Ly Phethmany |
 | 119 | 313 | Tanya Carpenter-Reynolds |
-| 120 | 310 | Seth Wesson |
-| 121 | 310 | Jason Jones |
+| 120 | 310 | Jason Jones |
+| 121 | 310 | Seth Wesson |
 | 122 | 306 | Happy Basegrid |
 | 123 | 304 | Nicole Roseberry Weber |
 | 124 | 301 | Lehrin Maria |
@@ -155,8 +155,8 @@
 | 147 | 256 | David Miller |
 | 148 | 255 | Elaine Elaine |
 | 149 | 254 | Al Smith Jr |
-| 150 | 253 | Plucky Fallzone |
-| 151 | 253 | Witty Builderfit |
+| 150 | 253 | Witty Builderfit |
+| 151 | 253 | Plucky Fallzone |
 | 152 | 252 | Dena Kayy |
 | 153 | 247 | Tana |
 | 154 | 244 | Tyler Werts |
@@ -165,8 +165,8 @@
 | 157 | 241 | John J. Cronin |
 | 158 | 239 | Jamie Jury |
 | 159 | 232 | Jessi Sauer |
-| 160 | 230 | Frothy Pattern |
-| 161 | 230 | Billie Dawn Sparks |
+| 160 | 230 | Billie Dawn Sparks |
+| 161 | 230 | Frothy Pattern |
 | 162 | 229 | David Lutcher |
 | 163 | 226 | Sleepysloath5745 |
 | 164 | 226 | Kandae |
@@ -194,8 +194,8 @@
 | 186 | 205 | Tater |
 | 187 | 205 | Snappy Matcher |
 | 188 | 204 | Lacy Wolfe |
-| 189 | 203 | Paula Martin |
-| 190 | 203 | LaFontaine Leslie |
+| 189 | 203 | LaFontaine Leslie |
+| 190 | 203 | Paula Martin |
 | 191 | 201 | Colleen Wise |
 | 192 | 200 | Breanna Luna |
 | 193 | 200 | DaRascal |
@@ -221,7 +221,7 @@
 | 213 | 187 | GringaLinga |
 | 214 | 187 | Amanda Johnson Huffman |
 | 215 | 186 | Margo Wagner |
-| 216 | 186 | Brian Richardsson |
+| 216 | 186 | Erin Hodges Plumb |
 | 217 | 184 | Chris Sigurdson |
 | 218 | 183 | Andrew Boone |
 | 219 | 183 | Amy Hess |
@@ -253,8 +253,8 @@
 | 245 | 167 | Cranky Pattern |
 | 246 | 167 | Nery Martinez |
 | 247 | 166 | Carrie Smith |
-| 248 | 165 | Silly Align |
-| 249 | 165 | Nadine Velardo |
+| 248 | 165 | Nadine Velardo |
+| 249 | 165 | Silly Align |
 | 250 | 164 | Desiree Deschaine Havee |
 | 251 | 163 | Blaire Bruckoff |
 | 252 | 163 | Davery Spencer Adair |
@@ -270,7 +270,7 @@
 | 262 | 154 | Gary Gobin |
 | 263 | 153 | Tami Luce Martin |
 | 264 | 153 | Dino |
-| 265 | 152 | Speedy Snapfall |
+| 265 | 152 | Brave Wrecker |
 | 266 | 152 | Strig |
 | 267 | 152 | Tavia |
 | 268 | 152 | Speedy Snapfall |

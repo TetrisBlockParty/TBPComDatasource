@@ -62,8 +62,8 @@
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Kimyatta Cavin |
-| 58 | 636 | Dustee Craddock-Harrison |
+| 57 | 636 | Dustee Craddock-Harrison |
+| 58 | 636 | Kimyatta Cavin |
 | 59 | 623 | Robin Getchel |
 | 60 | 599 | Brittney Griggs |
 | 61 | 593 | Lisa Davis |
@@ -132,8 +132,8 @@
 | 124 | 294 | Kesha Brady |
 | 125 | 290 | 🥔🥔 Spudz |
 | 126 | 287 | Shannon Ferrari |
-| 127 | 286 | Daria Rycewicz |
-| 128 | 286 | shark tato |
+| 127 | 286 | shark tato |
+| 128 | 286 | Daria Rycewicz |
 | 129 | 283 | Brittney Orengo |
 | 130 | 281 | Meagan Nicole |
 | 131 | 278 | Carrie Brian |
@@ -160,11 +160,11 @@
 | 152 | 240 | Peachy Fall |
 | 153 | 237 | Chris Bernstein |
 | 154 | 232 | Crystal Nicolette Moore |
-| 155 | 230 | Cursed Hag |
-| 156 | 230 | Autum Leigh |
+| 155 | 230 | Autum Leigh |
+| 156 | 230 | Cursed Hag |
 | 157 | 228 | J-Rizzle |
-| 158 | 227 | Alyssa Papen |
-| 159 | 227 | Swanky Fitline |
+| 158 | 227 | Swanky Fitline |
+| 159 | 227 | Alyssa Papen |
 | 160 | 225 | Damn Libra |
 | 161 | 224 | Matt Summer |
 | 162 | 223 | Antony Dwayne Beasley |
@@ -175,10 +175,10 @@
 | 167 | 220 | Matt Dell'Olio |
 | 168 | 218 | Casey Grabner |
 | 169 | 217 | Chaz Duncan |
-| 170 | 215 | Ren Mc |
-| 171 | 215 | Jessica Bohlken |
-| 172 | 213 | Jason Allen |
-| 173 | 213 | Sarah Neathery |
+| 170 | 215 | Jessica Bohlken |
+| 171 | 215 | Ren Mc |
+| 172 | 213 | Sarah Neathery |
+| 173 | 213 | Jason Allen |
 | 174 | 212 | Mike Solo |
 | 175 | 211 | Jenna McGeorge |
 | 176 | 210 | Zethra Prenisha Rahming |
@@ -253,8 +253,8 @@
 | 245 | 152 | Faja |
 | 246 | 149 | Shainne Brewer |
 | 247 | 149 | Tanner Lund |
-| 248 | 148 | Nubian1 |
-| 249 | 148 | Janita Parrish |
+| 248 | 148 | Janita Parrish |
+| 249 | 148 | Nubian1 |
 | 250 | 147 | B Renee Desjardin |
 | 251 | 147 | Jay28 |
 | 252 | 147 | Jared Gutwein |
@@ -326,10 +326,10 @@
 | 318 | 125 | Steph Marie |
 | 319 | 125 | Lush Linkfall |
 | 320 | 124 | Sam Middleton |
-| 321 | 124 | Circuit8 |
-| 322 | 124 | Atia Scott |
-| 323 | 123 | Joseph Edmonson |
-| 324 | 123 | Lora |
+| 321 | 124 | Atia Scott |
+| 322 | 124 | Circuit8 |
+| 323 | 123 | Lora |
+| 324 | 123 | Joseph Edmonson |
 | 325 | 121 | Riverdale |
 | 326 | 121 | Jim Hart |
 | 327 | 120 | Metsfan |
