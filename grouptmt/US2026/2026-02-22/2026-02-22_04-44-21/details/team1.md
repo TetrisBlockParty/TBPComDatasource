@@ -164,8 +164,8 @@
 | 156 | 201 | Sam Williams |
 | 157 | 201 | Sleepysloath5745 |
 | 158 | 199 | Basment Living |
-| 159 | 198 | Happy Snapbuild |
-| 160 | 198 | Shiny Gridmatch |
+| 159 | 198 | Shiny Gridmatch |
+| 160 | 198 | Happy Snapbuild |
 | 161 | 195 | Daring Fitclear |
 | 162 | 194 | Tyler Werts |
 | 163 | 193 | Lachelle Dillon |

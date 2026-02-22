@@ -841,8 +841,8 @@
 | 833 | 229 | BbqGuru |
 | 834 | 229 | Deidre Shaffer |
 | 835 | 229 | Chyrisse Norton |
-| 836 | 229 | Deidre Jenkins |
-| 837 | 229 | Regina Unruh |
+| 836 | 229 | Regina Unruh |
+| 837 | 229 | Deidre Jenkins |
 | 838 | 229 | Heather Anspaugh |
 | 839 | 228 | Samantha Angelo |
 | 840 | 228 | Synn |

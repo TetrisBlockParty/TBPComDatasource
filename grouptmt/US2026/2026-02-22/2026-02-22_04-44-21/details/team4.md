@@ -30,8 +30,8 @@
 | 22 | 898 | Isabel Aguilar |
 | 23 | 883 | Dustin Robert |
 | 24 | 877 | Koshin Abdirahman |
-| 25 | 873 | Michelle Pearman |
-| 26 | 873 | Elizabeth Sallas |
+| 25 | 873 | Elizabeth Sallas |
+| 26 | 873 | Michelle Pearman |
 | 27 | 865 | Devinlee Brown |
 | 28 | 846 | Christine Marie |
 | 29 | 843 | Lucille Truesdale |
@@ -159,8 +159,8 @@
 | 151 | 205 | Kathy Brookins |
 | 152 | 205 | Sarah Neathery |
 | 153 | 204 | Jen Caldwell |
-| 154 | 203 | Katherine Crane |
-| 155 | 203 | Chris Bernstein |
+| 154 | 203 | Chris Bernstein |
+| 155 | 203 | Katherine Crane |
 | 156 | 202 | 🥔🥔 Spudz |
 | 157 | 201 | Melvin Baird |
 | 158 | 199 | TheNeesh50 |
@@ -169,9 +169,9 @@
 | 161 | 195 | Malakai Darien Fox |
 | 162 | 194 | Zany Twisterfit |
 | 163 | 192 | Shauna Havard |
-| 164 | 189 | Chilly Crasher |
-| 165 | 189 | Stacey Stano |
-| 166 | 189 | Calvin Dennis |
+| 164 | 189 | Calvin Dennis |
+| 165 | 189 | Chilly Crasher |
+| 166 | 189 | Stacey Stano |
 | 167 | 188 | Andria Lynn |
 | 168 | 186 | Holly |
 | 169 | 185 | Lori |

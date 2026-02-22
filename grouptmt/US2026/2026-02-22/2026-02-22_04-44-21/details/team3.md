@@ -321,8 +321,8 @@
 | 313 | 161 | Bouncy Blockbuilder |
 | 314 | 160 | Rachel |
 | 315 | 160 | Ashley Lynn Marchese |
-| 316 | 159 | Joshua David Huie |
-| 317 | 159 | Jone |
+| 316 | 159 | Jone |
+| 317 | 159 | Joshua David Huie |
 | 318 | 158 | Willow |
 | 319 | 157 | Angel Mendez |
 | 320 | 157 | Danielle Balcom |
