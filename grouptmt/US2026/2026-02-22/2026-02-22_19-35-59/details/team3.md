@@ -154,9 +154,9 @@
 | 146 | 491 | Chauntee Alfrey-Cardinale |
 | 147 | 488 | CeceGeGe |
 | 148 | 484 | Samantha Greco |
-| 149 | 479 | Patti Skiles |
+| 149 | 479 | Poppy Splitter |
 | 150 | 479 | Annie Marie |
-| 151 | 479 | Poppy Splitter |
+| 151 | 479 | Patti Skiles |
 | 152 | 474 | Danielle Balcom |
 | 153 | 471 | Mendoza Lee Christy |
 | 154 | 471 | Nora Rogers |
@@ -210,8 +210,8 @@
 | 202 | 377 | rosy |
 | 203 | 376 | Loopy Clusterer |
 | 204 | 374 | Darlene McMillan |
-| 205 | 372 | Tom Nault |
-| 206 | 372 | Giddy Twistbuilder |
+| 205 | 372 | Giddy Twistbuilder |
+| 206 | 372 | Tom Nault |
 | 207 | 370 | Santeria Trece Candles |
 | 208 | 368 | Stephanie Woods |
 | 209 | 367 | Loopy Fallmatch |

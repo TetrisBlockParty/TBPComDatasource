@@ -264,8 +264,8 @@
 | 256 | 894 | Auntie B |
 | 257 | 892 | Rebecca Doughman |
 | 258 | 890 | Kevin Walp |
-| 259 | 884 | Adira Brown |
-| 260 | 884 | Boldy Cascadepiece |
+| 259 | 884 | Boldy Cascadepiece |
+| 260 | 884 | Adira Brown |
 | 261 | 883 | nikki |
 | 262 | 880 | Sam Joe |
 | 263 | 879 | Tony Lea |
@@ -298,8 +298,8 @@
 | 290 | 820 | Chirpy Staggerpiece |
 | 291 | 819 | Carl Bradshaw |
 | 292 | 817 | Nett |
-| 293 | 816 | James Simms III |
-| 294 | 816 | Jessica Wayne Cornwall |
+| 293 | 816 | Jessica Wayne Cornwall |
+| 294 | 816 | James Simms III |
 | 295 | 810 | Caitlin Schmid |
 | 296 | 810 | Andrea Maher |
 | 297 | 808 | Desire Rice |
@@ -397,8 +397,8 @@
 | 389 | 643 | Hoppy Brickmatch |
 | 390 | 642 | Cassie Maynard |
 | 391 | 640 | Gary Stash |
-| 392 | 640 | Crystie Hicks |
-| 393 | 640 | BYM4L |
+| 392 | 640 | BYM4L |
+| 393 | 640 | Crystie Hicks |
 | 394 | 639 | Rebecca Miller |
 | 395 | 636 | Mighty Spinbuilder |
 | 396 | 635 | Dennis McLaurin |

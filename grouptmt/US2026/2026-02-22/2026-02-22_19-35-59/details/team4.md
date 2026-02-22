@@ -46,8 +46,8 @@
 | 38 | 908 | Misty Hollibaugh |
 | 39 | 886 | Dustin Robert |
 | 40 | 871 | Denny Shives |
-| 41 | 846 | Christine Marie |
-| 42 | 846 | Lucille Truesdale |
+| 41 | 846 | Lucille Truesdale |
+| 42 | 846 | Christine Marie |
 | 43 | 843 | Jae Job |
 | 44 | 843 | Shelly Chandler |
 | 45 | 836 | LisaJo Picken Buchanan |
@@ -173,8 +173,8 @@
 | 165 | 286 | Brittney Orengo |
 | 166 | 281 | Lindsay Ball |
 | 167 | 280 | Peachy Fall |
-| 168 | 277 | Silly Zonebuilder |
-| 169 | 277 | Mary Ann Pabukis |
+| 168 | 277 | Mary Ann Pabukis |
+| 169 | 277 | Silly Zonebuilder |
 | 170 | 273 | Crystal Nicolette Moore |
 | 171 | 272 | Alan George LaRage |
 | 172 | 271 | Sarah Brown |
@@ -238,8 +238,8 @@
 | 230 | 214 | Stacey Stano |
 | 231 | 213 | Sarah Neathery |
 | 232 | 213 | Rio Rocha |
-| 233 | 212 | scott |
-| 234 | 212 | Mike Solo |
+| 233 | 212 | Mike Solo |
+| 234 | 212 | scott |
 | 235 | 211 | Jenna McGeorge |
 | 236 | 210 | Dihcheese444 |
 | 237 | 210 | Adam Stephanie Parker |
