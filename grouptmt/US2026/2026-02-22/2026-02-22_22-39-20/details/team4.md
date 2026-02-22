@@ -78,8 +78,8 @@
 | 70 | 664 | Julian Garcia |
 | 71 | 659 | Jonathan Kimbrough |
 | 72 | 655 | Carolyn Wallace |
-| 73 | 647 | Shauna Havard |
-| 74 | 647 | KM8 |
+| 73 | 647 | KM8 |
+| 74 | 647 | Shauna Havard |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 633 | Lisa Davis |
 | 77 | 626 | Brittney Griggs |
@@ -133,15 +133,15 @@
 | 125 | 409 | Marie-Pier Desjardins |
 | 126 | 408 | Amanda Pauldo-Ivy |
 | 127 | 400 | Ericca Eldridge |
-| 128 | 393 | Carlton Unfiltered |
-| 129 | 393 | Trish |
+| 128 | 393 | Trish |
+| 129 | 393 | Carlton Unfiltered |
 | 130 | 392 | Cristy Duerksen |
 | 131 | 391 | Lush Linkfall |
 | 132 | 391 | Ramel Rhodes |
 | 133 | 391 | Austin Owens |
 | 134 | 378 | Lucas J Sutton |
-| 135 | 377 | Jessica Bohlken |
-| 136 | 377 | Carrie Brian |
+| 135 | 377 | Carrie Brian |
+| 136 | 377 | Jessica Bohlken |
 | 137 | 376 | Kesha Brady |
 | 138 | 373 | Joseph Guthrie |
 | 139 | 371 | Jessica Lynn Cutlip |
@@ -152,8 +152,8 @@
 | 144 | 350 | Angela Srubar-Norman |
 | 145 | 348 | Silly Zonebuilder |
 | 146 | 347 | Daria Rycewicz |
-| 147 | 343 | ThaEviLJeNiuZ |
-| 148 | 343 | Latisha Davis |
+| 147 | 343 | Latisha Davis |
+| 148 | 343 | ThaEviLJeNiuZ |
 | 149 | 339 | David Lay |
 | 150 | 336 | Klo |
 | 151 | 334 | Guy Incognito |
@@ -163,8 +163,8 @@
 | 155 | 332 | HastyGrabber |
 | 156 | 332 | Leslie Nicole |
 | 157 | 330 | Oscar Alberto Perez |
-| 158 | 328 | Brandon Crabbs |
-| 159 | 328 | Kris Bartlett |
+| 158 | 328 | Kris Bartlett |
+| 159 | 328 | Brandon Crabbs |
 | 160 | 321 | jim |
 | 161 | 320 | Lauren Scott |
 | 162 | 316 | Meagan Nicole |

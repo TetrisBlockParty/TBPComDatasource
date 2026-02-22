@@ -159,8 +159,8 @@
 | 151 | 517 | Denise Nardoni |
 | 152 | 516 | Elissa S-k |
 | 153 | 512 | Silly Twist |
-| 154 | 506 | Sashay Tapae Simpson |
-| 155 | 506 | Stephanie Blkpep Davidson |
+| 154 | 506 | Stephanie Blkpep Davidson |
+| 155 | 506 | Sashay Tapae Simpson |
 | 156 | 504 | Jennifer Lynn Fahrenholtz-Summers |
 | 157 | 502 | Snappy Balancer |
 | 158 | 501 | Patti Skiles |
@@ -179,15 +179,15 @@
 | 171 | 470 | Logan Naccarato |
 | 172 | 469 | Melissa Orth Hunter |
 | 173 | 468 | Betty Ivy |
-| 174 | 464 | Michelle |
-| 175 | 464 | Makelini Mausia |
+| 174 | 464 | Makelini Mausia |
+| 175 | 464 | Michelle |
 | 176 | 461 | Shunta Jacobs |
-| 177 | 460 | Araceli Parra |
-| 178 | 460 | Danielle Allison |
+| 177 | 460 | Danielle Allison |
+| 178 | 460 | Araceli Parra |
 | 179 | 459 | Tasha Schriewer |
 | 180 | 458 | Danielle Rhoades |
-| 181 | 457 | Shannon Matthew Byers |
-| 182 | 457 | Jim Mathews |
+| 181 | 457 | Jim Mathews |
+| 182 | 457 | Shannon Matthew Byers |
 | 183 | 455 | Bmo |
 | 184 | 454 | FuzzyNavel |
 | 185 | 452 | Jacqueline Rodriguez |
@@ -474,10 +474,10 @@
 | 466 | 181 | Beth Smith |
 | 467 | 181 | Happy Tetriblast |
 | 468 | 180 | Beth Ingham |
-| 469 | 179 | Snarky McFace |
-| 470 | 179 | Kali Kelz Williams |
-| 471 | 178 | Morgan Cudo |
-| 472 | 178 | Danielle Beaunoyer Jean |
+| 469 | 179 | Kali Kelz Williams |
+| 470 | 179 | Snarky McFace |
+| 471 | 178 | Christian Luna |
+| 472 | 178 | Morgan Cudo |
 | 473 | 178 | Flashy Rumbler |
 | 474 | 178 | Danielle Beaunoyer Jean |
 | 475 | 178 | Paula Little |

@@ -237,8 +237,8 @@
 | 229 | 238 | Tiffany Smith |
 | 230 | 238 | Sarah Somers Gray |
 | 231 | 235 | Bindi |
-| 232 | 234 | Shanae Grant |
-| 233 | 234 | Paula Martin |
+| 232 | 234 | Paula Martin |
+| 233 | 234 | Shanae Grant |
 | 234 | 233 | LC |
 | 235 | 231 | BadG52 |
 | 236 | 231 | Tyler Hertzog |
