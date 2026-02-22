@@ -293,8 +293,8 @@
 | 285 | 288 | Connie Mohler-Fair |
 | 286 | 287 | Sabrina Hardrick |
 | 287 | 282 | LaShey Thompson |
-| 288 | 280 | Lizabeth Fox |
-| 289 | 280 | fraulila |
+| 288 | 280 | fraulila |
+| 289 | 280 | Lizabeth Fox |
 | 290 | 279 | Foltz Lee Kelli |
 | 291 | 278 | Rufus Lincoln |
 | 292 | 278 | Steffi Chris Dacones |
@@ -437,7 +437,7 @@
 | 429 | 196 | Rainbow77375 |
 | 430 | 195 | Swanky Snapclear |
 | 431 | 195 | Nicha Hooker |
-| 432 | 194 | Willow |
+| 432 | 194 | Kevin Fountain |
 | 433 | 194 | Erykah |
 | 434 | 194 | Willow |
 | 435 | 193 | Clever Shiftsnap |

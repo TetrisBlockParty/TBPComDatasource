@@ -150,8 +150,8 @@
 | 142 | 1450 | Cody Smith-Candelaria |
 | 143 | 1418 | L3sli3 |
 | 144 | 1412 | Angi Harrison |
-| 145 | 1411 | Zappy Cascade |
-| 146 | 1411 | niecy |
+| 145 | 1411 | niecy |
+| 146 | 1411 | Zappy Cascade |
 | 147 | 1401 | Brandy Andre |
 | 148 | 1397 | Bussyiano Page |
 | 149 | 1390 | Erica Williams |
@@ -178,8 +178,8 @@
 | 170 | 1260 | Joshua Sommerville |
 | 171 | 1257 | Michele Gabriel |
 | 172 | 1242 | Mischelle Clay |
-| 173 | 1232 | Ambyre Patterson |
-| 174 | 1232 | Groovy Puzzle |
+| 173 | 1232 | Groovy Puzzle |
+| 174 | 1232 | Ambyre Patterson |
 | 175 | 1230 | Megan Garrick |
 | 176 | 1224 | Liberty |
 | 177 | 1216 | Nancy Reid |
@@ -189,8 +189,8 @@
 | 181 | 1192 | Denisha Dawkins |
 | 182 | 1190 | Debra Williams |
 | 183 | 1177 | Joyce Johnson Vaughn |
-| 184 | 1174 | Jennifer Casey-Kay |
-| 185 | 1174 | Poppy Snap |
+| 184 | 1174 | Poppy Snap |
+| 185 | 1174 | Jennifer Casey-Kay |
 | 186 | 1171 | Marie Boyd Faulk |
 | 187 | 1169 | Pacynthia Williams |
 | 188 | 1169 | Tonya Morgan |
@@ -400,9 +400,9 @@
 | 392 | 680 | blume |
 | 393 | 679 | Kassandra Hunt |
 | 394 | 677 | Susan Perraut Jones |
-| 395 | 677 | Crystie Hicks |
+| 395 | 677 | Kenny Alvarado |
 | 396 | 677 | Amanda Woodruff |
-| 397 | 677 | Kenny Alvarado |
+| 397 | 677 | Crystie Hicks |
 | 398 | 674 | Connie Jimenez |
 | 399 | 669 | Marie Walker |
 | 400 | 668 | Amber Brion |
@@ -428,8 +428,8 @@
 | 420 | 642 | Cassie Maynard |
 | 421 | 642 | Gary Stash |
 | 422 | 640 | BYM4L |
-| 423 | 639 | Rebecca Miller |
-| 424 | 639 | Steven Marshaun |
+| 423 | 639 | Steven Marshaun |
+| 424 | 639 | Rebecca Miller |
 | 425 | 635 | Mikayala Szaz |
 | 426 | 635 | Dennis McLaurin |
 | 427 | 632 | Brittney Jean |
@@ -457,8 +457,8 @@
 | 449 | 601 | Slinky Racker |
 | 450 | 597 | Jamie Schmitt |
 | 451 | 594 | Rhonda Milstead |
-| 452 | 594 | Autumn Schaeffer |
-| 453 | 594 | Michelle Fields |
+| 452 | 594 | Michelle Fields |
+| 453 | 594 | Autumn Schaeffer |
 | 454 | 594 | Irene Jones |
 | 455 | 591 | Kimberly Hope Howell |
 | 456 | 589 | Shavonna Haynes |

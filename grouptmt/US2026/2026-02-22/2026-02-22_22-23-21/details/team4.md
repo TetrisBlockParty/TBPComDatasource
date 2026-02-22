@@ -108,8 +108,8 @@
 | 100 | 512 | Diana Houts |
 | 101 | 510 | Scott Jameson |
 | 102 | 500 | Rodney McMath Jr. |
-| 103 | 499 | Trista Leah |
-| 104 | 499 | Christina LR |
+| 103 | 499 | Christina LR |
+| 104 | 499 | Trista Leah |
 | 105 | 488 | Jen Allison |
 | 106 | 481 | Serena Goodridge |
 | 107 | 476 | Matt Summer |
@@ -263,8 +263,8 @@
 | 255 | 213 | Rio Rocha |
 | 256 | 212 | Mike Solo |
 | 257 | 209 | Chaz |
-| 258 | 208 | Rebecca Morris |
-| 259 | 208 | Christina Black |
+| 258 | 208 | Christina Black |
+| 259 | 208 | Rebecca Morris |
 | 260 | 207 | Snippy Puzzle |
 | 261 | 205 | James Hurley Jr. |
 | 262 | 203 | TinyLegoRose |
@@ -275,14 +275,14 @@
 | 267 | 201 | Zany Shatterer |
 | 268 | 200 | Googenheim |
 | 269 | 198 | Silly SeaWeed |
-| 270 | 198 | Shainne Brewer |
-| 271 | 198 | Calvin Dennis |
+| 270 | 198 | Calvin Dennis |
+| 271 | 198 | Shainne Brewer |
 | 272 | 197 | Gilles Lanctot |
 | 273 | 195 | 中山成巳 |
 | 274 | 194 | Zany Twisterfit |
 | 275 | 193 | Stephme310 |
-| 276 | 192 | Andrew Dang |
-| 277 | 192 | Stella |
+| 276 | 192 | Stella |
+| 277 | 192 | Andrew Dang |
 | 278 | 191 | Earnest Thompson |
 | 279 | 191 | Norman Klick |
 | 280 | 189 | 030Synner |
