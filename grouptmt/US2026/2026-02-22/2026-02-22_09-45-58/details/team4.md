@@ -49,21 +49,21 @@
 | 41 | 757 | Ancient Intuition |
 | 42 | 736 | Goatimus Lombardi |
 | 43 | 734 | BertMofo |
-| 44 | 707 | Clarence Patawaran |
-| 45 | 707 | Rachel Anne |
+| 44 | 707 | Rachel Anne |
+| 45 | 707 | Clarence Patawaran |
 | 46 | 704 | Crystal Carroll |
 | 47 | 697 | Edward White |
 | 48 | 695 | LisaJo Picken Buchanan |
 | 49 | 677 | Anthony Bryan Riva |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Jonathan Kimbrough |
-| 52 | 659 | Rebecca Moulton Pinciaro |
+| 51 | 659 | Rebecca Moulton Pinciaro |
+| 52 | 659 | Jonathan Kimbrough |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Dustee Craddock-Harrison |
-| 58 | 636 | Kimyatta Cavin |
+| 57 | 636 | Kimyatta Cavin |
+| 58 | 636 | Dustee Craddock-Harrison |
 | 59 | 623 | Robin Getchel |
 | 60 | 599 | Brittney Griggs |
 | 61 | 593 | Lisa Davis |
@@ -131,8 +131,8 @@
 | 123 | 294 | Kesha Brady |
 | 124 | 290 | 🥔🥔 Spudz |
 | 125 | 287 | Shannon Ferrari |
-| 126 | 286 | Daria Rycewicz |
-| 127 | 286 | shark tato |
+| 126 | 286 | shark tato |
+| 127 | 286 | Daria Rycewicz |
 | 128 | 283 | Brittney Orengo |
 | 129 | 281 | Meagan Nicole |
 | 130 | 278 | Carrie Brian |
@@ -209,14 +209,14 @@
 | 201 | 185 | Nikki Rae Gordon |
 | 202 | 184 | Ak Jones |
 | 203 | 181 | Carter Jones |
-| 204 | 180 | Dihcheese444 |
-| 205 | 180 | Orchislactea |
-| 206 | 180 | Rafael Valentin |
+| 204 | 180 | Orchislactea |
+| 205 | 180 | Rafael Valentin |
+| 206 | 180 | Dihcheese444 |
 | 207 | 179 | blockstar |
 | 208 | 178 | TinyLegoRose |
 | 209 | 175 | Lorena Guerrero-Barron |
-| 210 | 174 | Rio Rocha |
-| 211 | 174 | JPW |
+| 210 | 174 | JPW |
+| 211 | 174 | Rio Rocha |
 | 212 | 172 | Gilles Lanctot |
 | 213 | 171 | Autumn Kumzi |
 | 214 | 167 | Cozy Balancer |
@@ -391,15 +391,15 @@
 | 383 | 104 | Gdiguy |
 | 384 | 103 | Angela Srubar-Norman |
 | 385 | 102 | Bigeddie |
-| 386 | 102 | Christina O'Dell-Ishau |
-| 387 | 102 | Brave Spinbuilder |
-| 388 | 101 | Saulc1991 |
-| 389 | 101 | wombat |
-| 390 | 100 | Marcus TheeyoungWoe Gilmore |
-| 391 | 100 | Rico |
-| 392 | 100 | Sallie Sanborn |
+| 386 | 102 | Brave Spinbuilder |
+| 387 | 102 | Christina O'Dell-Ishau |
+| 388 | 101 | wombat |
+| 389 | 101 | Saulc1991 |
+| 390 | 100 | Sallie Sanborn |
+| 391 | 100 | Marcus TheeyoungWoe Gilmore |
+| 392 | 100 | Rico |
 | 393 | 99 | Dapper Frame |
-| 394 | 98 | Hyper Builder |
+| 394 | 98 | Groovy Gridlock |
 | 395 | 98 | Squeezy Pearsall |
 | 396 | 98 | Perky Piecegrid |
 | 397 | 98 | Dizzy Matchzone |

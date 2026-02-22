@@ -153,9 +153,9 @@
 | 145 | 256 | David Miller |
 | 146 | 255 | Elaine Elaine |
 | 147 | 254 | Al Smith Jr |
-| 148 | 253 | Chirpy Smasher |
+| 148 | 253 | Witty Builderfit |
 | 149 | 253 | Plucky Fallzone |
-| 150 | 253 | Witty Builderfit |
+| 150 | 253 | Chirpy Smasher |
 | 151 | 252 | Dena Kayy |
 | 152 | 247 | Tana |
 | 153 | 244 | Tyler Werts |
@@ -183,8 +183,8 @@
 | 175 | 210 | Letson Melissa |
 | 176 | 210 | Giggly Builderline |
 | 177 | 209 | Debbie Davis |
-| 178 | 208 | Donna Addison Williams |
-| 179 | 208 | Bouncy Grid |
+| 178 | 208 | Bouncy Grid |
+| 179 | 208 | Donna Addison Williams |
 | 180 | 207 | Leslie Bush Yarbrough |
 | 181 | 207 | Ty Brown |
 | 182 | 207 | Brenda Alexander |
@@ -195,8 +195,8 @@
 | 187 | 203 | LaFontaine Leslie |
 | 188 | 203 | Paula Martin |
 | 189 | 201 | Colleen Wise |
-| 190 | 200 | DaRascal |
-| 191 | 200 | Breanna Luna |
+| 190 | 200 | Breanna Luna |
+| 191 | 200 | DaRascal |
 | 192 | 199 | Basment Living |
 | 193 | 198 | Shiny Gridmatch |
 | 194 | 198 | Happy Snapbuild |
@@ -333,8 +333,8 @@
 | 325 | 121 | Pauline Cortez |
 | 326 | 120 | Jasmine Riley |
 | 327 | 120 | Shiny Rotate |
-| 328 | 118 | Kerry Lee Powell |
-| 329 | 118 | Snappy Brickbuilder |
+| 328 | 118 | Snappy Brickbuilder |
+| 329 | 118 | Kerry Lee Powell |
 | 330 | 118 | Garcia Bailey |
 | 331 | 117 | Brad MG |
 | 332 | 117 | Beazel75 |

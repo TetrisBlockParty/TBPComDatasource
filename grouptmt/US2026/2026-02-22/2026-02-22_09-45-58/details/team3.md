@@ -63,8 +63,8 @@
 | 55 | 909 | Jennifer |
 | 56 | 908 | Alanna Rogers |
 | 57 | 903 | Sarah Fehring |
-| 58 | 895 | Shonna Roberts |
-| 59 | 895 | Amanda L Baker |
+| 58 | 895 | Amanda L Baker |
+| 59 | 895 | Shonna Roberts |
 | 60 | 886 | Khristen AC |
 | 61 | 874 | Jessica Pineda-Lopez |
 | 62 | 867 | Corie A. Brinson |
@@ -142,8 +142,8 @@
 | 134 | 454 | Makelini Mausia |
 | 135 | 453 | Silly Twist |
 | 136 | 449 | Danielle Rhoades |
-| 137 | 445 | Jacqueline Rodriguez |
-| 138 | 445 | Kristie McFarland |
+| 137 | 445 | Kristie McFarland |
+| 138 | 445 | Jacqueline Rodriguez |
 | 139 | 435 | Michelle |
 | 140 | 432 | Jenny Hrndz |
 | 141 | 428 | Betty Ivy |
@@ -256,8 +256,8 @@
 | 248 | 256 | KayB |
 | 249 | 251 | Sabrina Hardrick |
 | 250 | 250 | fraulila |
-| 251 | 249 | JerseyJess |
-| 252 | 249 | Annie Marie |
+| 251 | 249 | Annie Marie |
+| 252 | 249 | JerseyJess |
 | 253 | 247 | Carrie Huskey |
 | 254 | 246 | Eon Harris |
 | 255 | 246 | Peppy Shifter |
@@ -342,13 +342,13 @@
 | 334 | 176 | Emma |
 | 335 | 175 | Eileen Brady Thurber |
 | 336 | 174 | Lesley Perez |
-| 337 | 173 | Naur |
-| 338 | 173 | BŘŰŤİÇŨŚ |
+| 337 | 173 | BŘŰŤİÇŨŚ |
+| 338 | 173 | Naur |
 | 339 | 170 | Tina Smith Roy |
 | 340 | 169 | Kristian Thurman |
 | 341 | 169 | Peachy Rollfit |
-| 342 | 168 | Trice Thomas |
-| 343 | 168 | April Matthew Kibble |
+| 342 | 168 | April Matthew Kibble |
+| 343 | 168 | Trice Thomas |
 | 344 | 167 | Shicken Nuggit |
 | 345 | 167 | Irene Arreguin |
 | 346 | 167 | Romeo |
@@ -442,8 +442,8 @@
 | 434 | 134 | gremicx |
 | 435 | 134 | Cheery Brickster |
 | 436 | 133 | Jen Lewis |
-| 437 | 132 | Andrew Thorson |
-| 438 | 132 | Hanna Kim |
+| 437 | 132 | Hanna Kim |
+| 438 | 132 | Andrew Thorson |
 | 439 | 131 | Cheeky Setter |
 | 440 | 130 | Stephanie Zahm |
 | 441 | 130 | Sarah Whalen |
@@ -570,13 +570,13 @@
 | 562 | 104 | Johnathan Dowe |
 | 563 | 104 | Jana Fagg |
 | 564 | 103 | Snappy Balancer |
-| 565 | 103 | Heather Bateman |
-| 566 | 103 | Lisa Lisa |
-| 567 | 103 | Breanna Marsden |
-| 568 | 103 | Melissa Parlow-Callaway |
-| 569 | 102 | Me,Him,Yu |
-| 570 | 102 | Brittany Smith Brown |
-| 571 | 102 | Rima Mackelburger |
+| 565 | 103 | Melissa Parlow-Callaway |
+| 566 | 103 | Heather Bateman |
+| 567 | 103 | Lisa Lisa |
+| 568 | 103 | Breanna Marsden |
+| 569 | 102 | Rima Mackelburger |
+| 570 | 102 | Me,Him,Yu |
+| 571 | 102 | Brittany Smith Brown |
 | 572 | 102 | Kaitie Oliver |
 | 573 | 102 | Giggly Hitter |
 | 574 | 102 | Snazzy Brickzone |
@@ -619,8 +619,8 @@
 | 611 | 98 | Armi |
 | 612 | 98 | Tanesha BigBabby Darling |
 | 613 | 97 | Daisy Rocha |
-| 614 | 97 | Tina Baurdau |
-| 615 | 97 | Rebecca Lynn |
+| 614 | 97 | Rebecca Lynn |
+| 615 | 97 | Tina Baurdau |
 | 616 | 96 | D3NO |
 | 617 | 96 | Kelly |
 | 618 | 96 | Swanky Snapclear |
@@ -1156,7 +1156,7 @@
 | 1148 | 51 | Deanna McDivitt Garrison |
 | 1149 | 51 | Mt Shirley |
 | 1150 | 51 | Funky Tilt |
-| 1151 | 51 | Sally G |
+| 1151 | 51 | Gigi McCue |
 | 1152 | 51 | Kendra Peterson |
 | 1153 | 51 | DeeDee13 |
 | 1154 | 51 | Sally G |

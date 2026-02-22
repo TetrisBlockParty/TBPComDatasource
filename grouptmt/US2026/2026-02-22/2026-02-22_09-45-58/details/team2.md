@@ -290,8 +290,8 @@
 | 282 | 698 | Mighty Shatterfit |
 | 283 | 697 | Dreamy Blast |
 | 284 | 695 | Lakeysha Dortch |
-| 285 | 692 | Jennifer Casey-Kay |
-| 286 | 692 | Dannette Goldberg-Richards |
+| 285 | 692 | Dannette Goldberg-Richards |
+| 286 | 692 | Jennifer Casey-Kay |
 | 287 | 690 | Deborah Miller |
 | 288 | 689 | Giggy Blocker |
 | 289 | 688 | ShinyRose |
@@ -390,8 +390,8 @@
 | 382 | 533 | Gauri Shrotriya |
 | 383 | 531 | Dizzy Zone |
 | 384 | 527 | Ryan Gunther |
-| 385 | 527 | Heather Causey |
-| 386 | 527 | Julie Kresal |
+| 385 | 527 | Julie Kresal |
+| 386 | 527 | Heather Causey |
 | 387 | 526 | Sheronda Jackson |
 | 388 | 525 | Desiree Anderson |
 | 389 | 523 | Matt Johnson |
@@ -403,8 +403,8 @@
 | 395 | 520 | Angela Lynn |
 | 396 | 519 | Rob Brown |
 | 397 | 517 | Alex Dungo Hoang |
-| 398 | 517 | Amber Brion |
-| 399 | 517 | Porsche' Nicole |
+| 398 | 517 | Porsche' Nicole |
+| 399 | 517 | Amber Brion |
 | 400 | 516 | Diamond Scott |
 | 401 | 515 | Laquetta Royston |
 | 402 | 515 | Autumn Schaeffer |
@@ -588,8 +588,8 @@
 | 580 | 386 | Wuntayk |
 | 581 | 385 | Tansaria Couch-Butler |
 | 582 | 384 | Christina Ashley |
-| 583 | 384 | Party d |
-| 584 | 384 | Kelly |
+| 583 | 384 | Kelly |
+| 584 | 384 | Party d |
 | 585 | 383 | Belle Mari |
 | 586 | 382 | David Holliday |
 | 587 | 382 | Amber Gray |
@@ -626,8 +626,8 @@
 | 618 | 366 | Courtney Burcham |
 | 619 | 366 | Smashanator |
 | 620 | 365 | Christina Lewis-Vickers |
-| 621 | 365 | Audrey Jones |
-| 622 | 365 | Susan Arnburg |
+| 621 | 365 | Susan Arnburg |
+| 622 | 365 | Audrey Jones |
 | 623 | 364 | Shinette Dobson |
 | 624 | 363 | Jes Norris |
 | 625 | 363 | Michelle Sager |
@@ -637,20 +637,20 @@
 | 629 | 362 | Andrea Maher |
 | 630 | 362 | Tracy Wise |
 | 631 | 362 | Jennifer Scott |
-| 632 | 361 | Lewis Sturgeon |
-| 633 | 361 | Michelle Shrum |
+| 632 | 361 | Michelle Shrum |
+| 633 | 361 | Lewis Sturgeon |
 | 634 | 360 | Jroc |
 | 635 | 359 | Cheyenne Donovan |
-| 636 | 358 | Alyssaaelena |
-| 637 | 358 | Sydney Busse |
+| 636 | 358 | Sydney Busse |
+| 637 | 358 | Alyssaaelena |
 | 638 | 357 | Shannon Byrd |
 | 639 | 357 | Tristan Szolek |
 | 640 | 355 | Amanda Perez |
-| 641 | 354 | Rickey Johnson |
-| 642 | 354 | Rachel Kaminski |
+| 641 | 354 | Rachel Kaminski |
+| 642 | 354 | Rickey Johnson |
 | 643 | 352 | Rose Fx |
-| 644 | 352 | ruth |
-| 645 | 352 | Jean FU Jagielski |
+| 644 | 352 | Jean FU Jagielski |
+| 645 | 352 | ruth |
 | 646 | 351 | Connie Jimenez |
 | 647 | 350 | Fi Ne |
 | 648 | 350 | Chris Harr |
@@ -671,8 +671,8 @@
 | 663 | 341 | Shorty |
 | 664 | 340 | Dennis McLaurin |
 | 665 | 340 | Quirky Twistline |
-| 666 | 339 | Denise Rickman |
-| 667 | 339 | Cynthia Louann Rose |
+| 666 | 339 | Cynthia Louann Rose |
+| 667 | 339 | Denise Rickman |
 | 668 | 338 | Janitta Alvarez |
 | 669 | 337 | Sassy Pattern |
 | 670 | 337 | Diallo Sparkman |
@@ -710,14 +710,14 @@
 | 702 | 320 | Mary Boss |
 | 703 | 319 | RetroLemur |
 | 704 | 318 | Jennifer Mahon |
-| 705 | 317 | Zombi3 |
-| 706 | 317 | Ashlyn Berner |
+| 705 | 317 | Ashlyn Berner |
+| 706 | 317 | Zombi3 |
 | 707 | 317 | Aireka Roman |
 | 708 | 316 | Jenn Marie |
 | 709 | 316 | Epic Spinfit |
 | 710 | 316 | Johanna Massaro |
-| 711 | 314 | Twisty Tetriblast |
-| 712 | 314 | Amanda West |
+| 711 | 314 | Amanda West |
+| 712 | 314 | Twisty Tetriblast |
 | 713 | 314 | Anita Rose Green |
 | 714 | 313 | Marina Linda |
 | 715 | 313 | Natasha Edmonds |
@@ -738,15 +738,15 @@
 | 730 | 307 | stacey |
 | 731 | 307 | Peachy Blockbuilder |
 | 732 | 306 | Kiorah Blaze |
-| 733 | 305 | Zany Clusterbuilder |
-| 734 | 305 | MamaBear11 |
+| 733 | 305 | MamaBear11 |
+| 734 | 305 | Zany Clusterbuilder |
 | 735 | 305 | Narutofreak13 |
-| 736 | 304 | Melissa McCall |
-| 737 | 304 | James Smith |
-| 738 | 304 | NFLPITMOM |
+| 736 | 304 | NFLPITMOM |
+| 737 | 304 | Melissa McCall |
+| 738 | 304 | James Smith |
 | 739 | 303 | Angie Marie |
-| 740 | 303 | Amanda Schaffer |
-| 741 | 303 | Devin |
+| 740 | 303 | Devin |
+| 741 | 303 | Amanda Schaffer |
 | 742 | 302 | Kena T. Tanner |
 | 743 | 302 | Maxwell Escalera |
 | 744 | 300 | Alice Ball |
@@ -780,8 +780,8 @@
 | 772 | 288 | Samantha Angelo |
 | 773 | 288 | Ashley Criner |
 | 774 | 287 | Epic Stackzone |
-| 775 | 287 | Toni Roberson |
-| 776 | 287 | N00D3S |
+| 775 | 287 | N00D3S |
+| 776 | 287 | Toni Roberson |
 | 777 | 286 | Kelsey Sullivan |
 | 778 | 285 | Kimberly Mitchell |
 | 779 | 285 | Court |
@@ -828,11 +828,11 @@
 | 820 | 272 | Witty Piecebuilder |
 | 821 | 272 | Alexandrea |
 | 822 | 271 | Pam Doughty |
-| 823 | 271 | Beverly Hodge |
-| 824 | 271 | Shalisa Hill |
+| 823 | 271 | Shalisa Hill |
+| 824 | 271 | Beverly Hodge |
 | 825 | 270 | BK Queen |
-| 826 | 270 | Nat |
-| 827 | 270 | Lazy Builderfit |
+| 826 | 270 | Lazy Builderfit |
+| 827 | 270 | Nat |
 | 828 | 268 | Donald Nowland |
 | 829 | 267 | Dad |
 | 830 | 267 | Denisse Avilez |
