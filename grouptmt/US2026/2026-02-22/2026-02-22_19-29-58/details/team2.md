@@ -311,15 +311,15 @@
 | 303 | 787 | Laura McCarthey |
 | 304 | 783 | Lisa Ongtowasruk |
 | 305 | 781 | Hong Tang |
-| 306 | 777 | Tesha Oldaker |
-| 307 | 777 | Jessicah Myers |
+| 306 | 777 | Jessicah Myers |
+| 307 | 777 | Tesha Oldaker |
 | 308 | 777 | Samantha Jo |
 | 309 | 774 | Ginnell Browner |
 | 310 | 773 | Diana Fitzwater |
 | 311 | 770 | Danielle Simmons |
 | 312 | 768 | Michele Morgan |
-| 313 | 767 | Ashley Lopez |
-| 314 | 767 | Fancy Twister |
+| 313 | 767 | Fancy Twister |
+| 314 | 767 | Ashley Lopez |
 | 315 | 763 | Heather Causey |
 | 316 | 763 | Beth |
 | 317 | 762 | Melissa McCall |
@@ -396,9 +396,9 @@
 | 388 | 644 | Kimmy Newman |
 | 389 | 643 | Hoppy Brickmatch |
 | 390 | 642 | Cassie Maynard |
-| 391 | 640 | Gary Stash |
-| 392 | 640 | BYM4L |
-| 393 | 640 | Crystie Hicks |
+| 391 | 640 | BYM4L |
+| 392 | 640 | Crystie Hicks |
+| 393 | 640 | Gary Stash |
 | 394 | 639 | Rebecca Miller |
 | 395 | 636 | Mighty Spinbuilder |
 | 396 | 635 | Dennis McLaurin |
@@ -497,8 +497,8 @@
 | 489 | 520 | Maddy Petersen |
 | 490 | 519 | Rob Brown |
 | 491 | 517 | Sarah Berger |
-| 492 | 517 | Porsche' Nicole |
-| 493 | 517 | Brenna Ann |
+| 492 | 517 | Brenna Ann |
+| 493 | 517 | Porsche' Nicole |
 | 494 | 516 | Diamond Scott |
 | 495 | 514 | Karen Posadas Centeno |
 | 496 | 512 | Leslie Jorgenson |

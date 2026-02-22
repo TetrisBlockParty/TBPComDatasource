@@ -114,8 +114,8 @@
 | 106 | 441 | Chastity Mitchell |
 | 107 | 440 | Lori Walker |
 | 108 | 435 | Leslie Thomas |
-| 109 | 427 | KJ Pool |
-| 110 | 427 | Jolly Dashfit |
+| 109 | 427 | Jolly Dashfit |
+| 110 | 427 | KJ Pool |
 | 111 | 426 | Ren Mc |
 | 112 | 423 | Jenna Ingersoll |
 | 113 | 422 | shar |
@@ -133,16 +133,16 @@
 | 125 | 377 | Carrie Brian |
 | 126 | 373 | Joseph Guthrie |
 | 127 | 369 | Nope Young |
-| 128 | 353 | Tyler Terrific |
-| 129 | 353 | Livvy |
+| 128 | 353 | Livvy |
+| 129 | 353 | Tyler Terrific |
 | 130 | 344 | Lush Linkfall |
 | 131 | 343 | Latisha Davis |
 | 132 | 338 | ThaEviLJeNiuZ |
 | 133 | 338 | Lucas J Sutton |
 | 134 | 336 | Jessica Bohlken |
 | 135 | 334 | Jessica Lynn Cutlip |
-| 136 | 332 | HastyGrabber |
-| 137 | 332 | Desi Desporte |
+| 136 | 332 | Desi Desporte |
+| 137 | 332 | HastyGrabber |
 | 138 | 330 | David Lay |
 | 139 | 328 | Leslie Nicole |
 | 140 | 328 | Kris Bartlett |
@@ -277,8 +277,8 @@
 | 269 | 184 | Lauren Lamb |
 | 270 | 183 | Twisty Risebuilder |
 | 271 | 182 | TinyLegoRose |
-| 272 | 181 | Carter Jones |
-| 273 | 181 | Jackie Marie |
+| 272 | 181 | Jackie Marie |
+| 273 | 181 | Carter Jones |
 | 274 | 180 | Cozy Balancer |
 | 275 | 179 | AyeKay |
 | 276 | 175 | Lorena Guerrero-Barron |

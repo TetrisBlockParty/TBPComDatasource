@@ -86,8 +86,8 @@
 | 78 | 489 | Deanna L Hermanson |
 | 79 | 486 | Tater |
 | 80 | 485 | Cartier |
-| 81 | 483 | Ryan Lunnin |
-| 82 | 483 | MomMom |
+| 81 | 483 | MomMom |
+| 82 | 483 | Ryan Lunnin |
 | 83 | 480 | Nancy Green |
 | 84 | 472 | April Carroll |
 | 85 | 471 | Jennifer ManWarren |
@@ -160,8 +160,8 @@
 | 152 | 308 | Sharon Reynolds |
 | 153 | 306 | Happy Basegrid |
 | 154 | 306 | Bloknboy |
-| 155 | 304 | Constance Risner |
-| 156 | 304 | Nicole Roseberry Weber |
+| 155 | 304 | Nicole Roseberry Weber |
+| 156 | 304 | Constance Risner |
 | 157 | 303 | Chelsea Dahlquist |
 | 158 | 302 | Mike Ames |
 | 159 | 297 | Danielle Little-Daugherty |
@@ -185,8 +185,8 @@
 | 177 | 272 | Sleepysloath5745 |
 | 178 | 272 | Tana |
 | 179 | 270 | Mandyy Rae |
-| 180 | 268 | Jessi Sauer |
-| 181 | 268 | Christy Jones |
+| 180 | 268 | Christy Jones |
+| 181 | 268 | Jessi Sauer |
 | 182 | 268 | Amanda Jarnagin |
 | 183 | 267 | Billie Dawn Sparks |
 | 184 | 265 | Shiny Snapfit |
