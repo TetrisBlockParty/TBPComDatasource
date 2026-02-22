@@ -318,8 +318,8 @@
 | 310 | 773 | Diana Fitzwater |
 | 311 | 770 | Danielle Simmons |
 | 312 | 768 | Michele Morgan |
-| 313 | 767 | Fancy Twister |
-| 314 | 767 | Ashley Lopez |
+| 313 | 767 | Ashley Lopez |
+| 314 | 767 | Fancy Twister |
 | 315 | 763 | Heather Causey |
 | 316 | 763 | Beth |
 | 317 | 762 | Ashley Dow |
@@ -671,8 +671,8 @@
 | 663 | 406 | Erin StFrancis |
 | 664 | 406 | Tyler C. Jung |
 | 665 | 406 | Jess Morrison |
-| 666 | 403 | Nate Skidmore |
-| 667 | 403 | Kelly Meredeith |
+| 666 | 403 | Kelly Meredeith |
+| 667 | 403 | Nate Skidmore |
 | 668 | 403 | Goofy Dasher |
 | 669 | 402 | B |
 | 670 | 401 | Beth Decker |
@@ -690,8 +690,8 @@
 | 682 | 396 | Candy Pitts |
 | 683 | 395 | Vung Nguyen |
 | 684 | 395 | Susan Arnburg |
-| 685 | 393 | Misti Markijohn |
-| 686 | 393 | Deyawn Smith |
+| 685 | 393 | Deyawn Smith |
+| 686 | 393 | Misti Markijohn |
 | 687 | 393 | Jamie West |
 | 688 | 392 | Swanky Columnbuilder |
 | 689 | 391 | Chilly Bridgepiece |
@@ -700,8 +700,8 @@
 | 692 | 389 | Michelle Pike |
 | 693 | 389 | AsnPryBoy83 |
 | 694 | 388 | Sarah block |
-| 695 | 388 | ruth |
-| 696 | 388 | James Zaragoza |
+| 695 | 388 | James Zaragoza |
+| 696 | 388 | ruth |
 | 697 | 388 | Tamara Bailey |
 | 698 | 387 | Bold Brickster |
 | 699 | 385 | Tansaria Couch-Butler |

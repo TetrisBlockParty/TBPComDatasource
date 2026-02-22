@@ -96,8 +96,8 @@
 | 88 | 453 | Brandi Huntington |
 | 89 | 448 | Loony Fitzone |
 | 90 | 446 | Tdub |
-| 91 | 444 | Hyper |
-| 92 | 444 | Lexuriuos Lifestlye |
+| 91 | 444 | Lexuriuos Lifestlye |
+| 92 | 444 | Hyper |
 | 93 | 443 | Steve Schneider |
 | 94 | 439 | cc |
 | 95 | 439 | Trina Gee |
@@ -268,8 +268,8 @@
 | 260 | 201 | Beau Galvan |
 | 261 | 201 | Andrew Boone |
 | 262 | 200 | Breanna Luna |
-| 263 | 200 | Diane Byrd |
-| 264 | 200 | Evan Richmond |
+| 263 | 200 | Evan Richmond |
+| 264 | 200 | Diane Byrd |
 | 265 | 199 | Alenoush Karimian |
 | 266 | 198 | Melissa Lemmon |
 | 267 | 198 | Adele Rahman |
@@ -302,8 +302,8 @@
 | 294 | 183 | Dino |
 | 295 | 183 | Tina Englert |
 | 296 | 181 | David DeSantis |
-| 297 | 179 | Speedy Snapfall |
-| 298 | 179 | Ryan White |
+| 297 | 179 | Ryan White |
+| 298 | 179 | Speedy Snapfall |
 | 299 | 178 | Gabrielle Louise Malloch |
 | 300 | 178 | Silly Align |
 | 301 | 177 | Sarah Marie |
@@ -357,8 +357,8 @@
 | 349 | 159 | Jamie Catlett |
 | 350 | 159 | Uhog SF |
 | 351 | 158 | Melissa Bires Hussar |
-| 352 | 158 | Christina Norman |
-| 353 | 158 | Teddy Alexander |
+| 352 | 158 | Teddy Alexander |
+| 353 | 158 | Christina Norman |
 | 354 | 157 | Ruthie Mahoney Saunders-Browne |
 | 355 | 156 | Nerdy Curvebuilder |
 | 356 | 156 | Wayne Saunders |

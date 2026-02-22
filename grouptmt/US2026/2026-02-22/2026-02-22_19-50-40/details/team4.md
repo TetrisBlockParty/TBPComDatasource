@@ -72,11 +72,11 @@
 | 64 | 703 | Anthony Bryan Riva |
 | 65 | 675 | D3TROITB0RN74 |
 | 66 | 671 | Kimyatta Cavin |
-| 67 | 664 | loulou |
-| 68 | 664 | Valerie Roberts |
+| 67 | 664 | Valerie Roberts |
+| 68 | 664 | loulou |
 | 69 | 659 | Jonathan Kimbrough |
-| 70 | 647 | Shauna Havard |
-| 71 | 647 | KM8 |
+| 70 | 647 | KM8 |
+| 71 | 647 | Shauna Havard |
 | 72 | 646 | Jacqueline Helm |
 | 73 | 641 | Carolyn Wallace |
 | 74 | 638 | Julian Garcia |
@@ -117,8 +117,8 @@
 | 109 | 440 | Lori Walker |
 | 110 | 435 | Leslie Thomas |
 | 111 | 431 | Zippy Gridlock |
-| 112 | 427 | Jolly Dashfit |
-| 113 | 427 | KJ Pool |
+| 112 | 427 | KJ Pool |
+| 113 | 427 | Jolly Dashfit |
 | 114 | 426 | Ren Mc |
 | 115 | 422 | shar |
 | 116 | 415 | Monica Daley |
@@ -204,15 +204,15 @@
 | 196 | 249 | Cheery Risebuilder |
 | 197 | 248 | Chirpy Basepiece |
 | 198 | 247 | Dennis Bradley |
-| 199 | 246 | Carlos Ramirez |
-| 200 | 246 | Lindsey Gonzalez |
-| 201 | 245 | 23 |
-| 202 | 245 | Autum Leigh |
+| 199 | 246 | Lindsey Gonzalez |
+| 200 | 246 | Carlos Ramirez |
+| 201 | 245 | Autum Leigh |
+| 202 | 245 | 23 |
 | 203 | 244 | Twisty Cascadezone |
 | 204 | 243 | Jose Dejesus |
 | 205 | 243 | Mr. Party |
-| 206 | 241 | Allen Lloyd |
-| 207 | 241 | Kristina Black |
+| 206 | 241 | Kristina Black |
+| 207 | 241 | Allen Lloyd |
 | 208 | 240 | Zethra Prenisha Rahming |
 | 209 | 238 | JPW |
 | 210 | 237 | Jen Caldwell |
