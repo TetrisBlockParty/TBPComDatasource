@@ -61,8 +61,8 @@
 | 53 | 697 | Edward White |
 | 54 | 664 | Valerie Roberts |
 | 55 | 661 | D3TROITB0RN74 |
-| 56 | 659 | Rebecca Moulton Pinciaro |
-| 57 | 659 | Jonathan Kimbrough |
+| 56 | 659 | Jonathan Kimbrough |
+| 57 | 659 | Rebecca Moulton Pinciaro |
 | 58 | 658 | loulou |
 | 59 | 654 | Chilly Line |
 | 60 | 647 | KM8 |
@@ -89,8 +89,8 @@
 | 81 | 512 | Casey Jeffcoat |
 | 82 | 500 | Rodney McMath Jr. |
 | 83 | 493 | Judy Cox |
-| 84 | 486 | Carmethia Clemons Haslerig |
-| 85 | 486 | Landon Keith Graffeo |
+| 84 | 486 | Landon Keith Graffeo |
+| 85 | 486 | Carmethia Clemons Haslerig |
 | 86 | 468 | Shane Kalamata Platoon |
 | 87 | 447 | Samantha Peterson |
 | 88 | 447 | Erin Thomas |
@@ -371,8 +371,8 @@
 | 363 | 117 | David V. Bowers |
 | 364 | 117 | Gracie Ann Taylor |
 | 365 | 117 | BigSammy420 |
-| 366 | 116 | Kate |
-| 367 | 116 | Smiley Shifter |
+| 366 | 116 | Smiley Shifter |
+| 367 | 116 | Kate |
 | 368 | 116 | Bradley Reeves |
 | 369 | 115 | Kevin Bush |
 | 370 | 115 | Meg |
@@ -784,9 +784,9 @@
 | 776 | 48 | Austin Trent Weaver |
 | 777 | 48 | Kristen Rittall |
 | 778 | 48 | Loopy Rollbuilder |
-| 779 | 48 | Wacky Twister |
-| 780 | 48 | Veronica Garza |
-| 781 | 47 | Angel Johnson |
+| 779 | 48 | Veronica Garza |
+| 780 | 48 | Wacky Twister |
+| 781 | 47 | James May |
 | 782 | 47 | April Swinney |
 | 783 | 47 | Angel Johnson |
 | 784 | 47 | Zer0h |

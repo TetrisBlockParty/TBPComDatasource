@@ -54,8 +54,8 @@
 | 46 | 671 | Lawrence Belanger |
 | 47 | 663 | Drew Magnus |
 | 48 | 646 | Susanna Guerry |
-| 49 | 635 | Angel Fowler |
-| 50 | 635 | Marianne Louise West |
+| 49 | 635 | Marianne Louise West |
+| 50 | 635 | Angel Fowler |
 | 51 | 631 | comrade fish |
 | 52 | 627 | Katie Daniels |
 | 53 | 614 | Snappy Swiper |
@@ -118,8 +118,8 @@
 | 110 | 342 | Brenda Stewart |
 | 111 | 341 | Nick R Montague |
 | 112 | 334 | Jaimie Lynn |
-| 113 | 333 | Gracie |
-| 114 | 333 | Brandi Huntington |
+| 113 | 333 | Brandi Huntington |
+| 114 | 333 | Gracie |
 | 115 | 332 | Kristen Gideon |
 | 116 | 330 | Sweet Baker |
 | 117 | 326 | Monica Donato |
@@ -436,8 +436,8 @@
 | 428 | 97 | Tiffany Daboss Seymour |
 | 429 | 97 | Edgar Algiere |
 | 430 | 96 | Lisa Marie |
-| 431 | 95 | Ric Hard Hernandez |
-| 432 | 95 | Jolly Climber |
+| 431 | 95 | Jolly Climber |
+| 432 | 95 | Ric Hard Hernandez |
 | 433 | 95 | Jay Tressler |
 | 434 | 94 | Kelly Holland |
 | 435 | 94 | Mitchel White |

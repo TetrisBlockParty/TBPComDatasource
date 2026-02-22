@@ -133,8 +133,8 @@
 | 125 | 491 | Chauntee Alfrey-Cardinale |
 | 126 | 485 | Christine Filson |
 | 127 | 480 | Stephanie Blkpep Davidson |
-| 128 | 479 | Poppy Splitter |
-| 129 | 479 | Patti Skiles |
+| 128 | 479 | Patti Skiles |
+| 129 | 479 | Poppy Splitter |
 | 130 | 478 | CeceGeGe |
 | 131 | 478 | Silly Twist |
 | 132 | 473 | mzcatzy |
@@ -183,8 +183,8 @@
 | 175 | 374 | Sherry Ogden |
 | 176 | 372 | Giddy Twistbuilder |
 | 177 | 371 | Michael Nowogorski |
-| 178 | 370 | Santeria Trece Candles |
-| 179 | 370 | Danielle Allison |
+| 178 | 370 | Danielle Allison |
+| 179 | 370 | Santeria Trece Candles |
 | 180 | 368 | Stephanie Woods |
 | 181 | 366 | Adrian Marcel Pate |
 | 182 | 362 | Rochelle Hazelett |
@@ -192,8 +192,8 @@
 | 184 | 361 | Jamie Lang |
 | 185 | 358 | Chummy Caster |
 | 186 | 358 | RickyG |
-| 187 | 357 | Tom Nault |
-| 188 | 357 | Stephanie Burtin |
+| 187 | 357 | Stephanie Burtin |
+| 188 | 357 | Tom Nault |
 | 189 | 353 | Nora Rogers |
 | 190 | 351 | Sarah Cowan Burgos |
 | 191 | 348 | Chasity |
@@ -253,8 +253,8 @@
 | 245 | 267 | Terry Jo Jones |
 | 246 | 264 | Tiffany Davie |
 | 247 | 262 | Joe-Maggie Mathews |
-| 248 | 261 | Tasha Wesson-Torrence |
-| 249 | 261 | Tiffany Ford |
+| 248 | 261 | Tiffany Ford |
+| 249 | 261 | Tasha Wesson-Torrence |
 | 250 | 261 | Marquita Sheard |
 | 251 | 260 | Grams |
 | 252 | 260 | Nikki Pags |
@@ -335,8 +335,8 @@
 | 327 | 198 | Goofy Fall |
 | 328 | 195 | Nicha Hooker |
 | 329 | 193 | Clever Shiftsnap |
-| 330 | 192 | Katrina E Jelks |
-| 331 | 192 | Ryan Williams |
+| 330 | 192 | Ryan Williams |
+| 331 | 192 | Katrina E Jelks |
 | 332 | 192 | Kelly Ann Child |
 | 333 | 192 | Melanie Sherwood |
 | 334 | 191 | Philip Rock |

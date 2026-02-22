@@ -348,8 +348,8 @@
 | 340 | 635 | Diana Fitzwater |
 | 341 | 631 | Marie Walker |
 | 342 | 629 | Jelly |
-| 343 | 627 | Victoria Moore-Smith |
-| 344 | 627 | Allan Wayne Lamia |
+| 343 | 627 | Allan Wayne Lamia |
+| 344 | 627 | Victoria Moore-Smith |
 | 345 | 626 | Dylan Thomason |
 | 346 | 620 | Brandon Armstrong |
 | 347 | 613 | Ellie Jonas |
@@ -360,8 +360,8 @@
 | 352 | 611 | Em Chen |
 | 353 | 603 | Cassie Maynard |
 | 354 | 602 | KhaosLord |
-| 355 | 602 | Christine Bollig |
-| 356 | 602 | Biggest thing |
+| 355 | 602 | Biggest thing |
+| 356 | 602 | Christine Bollig |
 | 357 | 601 | Michele Morgan |
 | 358 | 600 | Demeka Dangerous-kisses Johnson |
 | 359 | 597 | Steven Marshaun |
@@ -402,8 +402,8 @@
 | 394 | 545 | Frisky Clearpiece |
 | 395 | 544 | Deidre Shaffer |
 | 396 | 544 | Leah Keesling |
-| 397 | 543 | Julie Kresal |
-| 398 | 543 | Vanessa Moreno |
+| 397 | 543 | Vanessa Moreno |
+| 398 | 543 | Julie Kresal |
 | 399 | 542 | AISlop |
 | 400 | 541 | g |
 | 401 | 540 | Dizzy Zone |
@@ -585,9 +585,9 @@
 | 577 | 403 | Goofy Dasher |
 | 578 | 401 | Moua Ying |
 | 579 | 401 | De Hawkins |
-| 580 | 400 | Michael Artis |
-| 581 | 400 | Joshua Self |
-| 582 | 400 | Tammy Allen |
+| 580 | 400 | Tammy Allen |
+| 581 | 400 | Michael Artis |
+| 582 | 400 | Joshua Self |
 | 583 | 400 | Kathleen Driskell |
 | 584 | 399 | Oscar Bernie |
 | 585 | 398 | Crystal Heller Gonzalez |
@@ -598,9 +598,9 @@
 | 590 | 393 | Jamie West |
 | 591 | 393 | Deyawn Smith |
 | 592 | 393 | Smashanator |
-| 593 | 391 | Adam Simmons |
-| 594 | 391 | Anthony Huebel |
-| 595 | 391 | Chilly Bridgepiece |
+| 593 | 391 | Anthony Huebel |
+| 594 | 391 | Chilly Bridgepiece |
+| 595 | 391 | Adam Simmons |
 | 596 | 391 | Qiana Sanders |
 | 597 | 390 | Joice Hansen |
 | 598 | 390 | Moist_B-hole |
@@ -619,8 +619,8 @@
 | 611 | 383 | Jessica Conaway |
 | 612 | 383 | Belle Mari |
 | 613 | 382 | Amber Gray |
-| 614 | 382 | Lively Edgepiece |
-| 615 | 382 | David Holliday |
+| 614 | 382 | David Holliday |
+| 615 | 382 | Lively Edgepiece |
 | 616 | 381 | Nicky Jackson |
 | 617 | 381 | JAG$*V¡LL£•FL•DuuuVaL |
 | 618 | 381 | Happy Caster |
@@ -669,8 +669,8 @@
 | 661 | 357 | Tristan Szolek |
 | 662 | 356 | Kelsey Sullivan |
 | 663 | 355 | Amanda Perez |
-| 664 | 354 | Rickey Johnson |
-| 665 | 354 | Rachel Kaminski |
+| 664 | 354 | Rachel Kaminski |
+| 665 | 354 | Rickey Johnson |
 | 666 | 352 | Rose Fx |
 | 667 | 352 | Jean FU Jagielski |
 | 668 | 352 | ruth |
