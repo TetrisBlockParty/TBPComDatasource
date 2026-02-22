@@ -163,8 +163,8 @@
 | 155 | 479 | Annie Marie |
 | 156 | 474 | Danielle Balcom |
 | 157 | 473 | Calista Jo Dickson |
-| 158 | 471 | Mendoza Lee Christy |
-| 159 | 471 | Nora Rogers |
+| 158 | 471 | Nora Rogers |
+| 159 | 471 | Mendoza Lee Christy |
 | 160 | 470 | Logan Naccarato |
 | 161 | 469 | Melissa Orth Hunter |
 | 162 | 469 | Adrian Marcel Pate |
@@ -223,7 +223,7 @@
 | 215 | 367 | Marci Mize Fandrich |
 | 216 | 365 | Tiffany Ford |
 | 217 | 365 | Chummy Caster |
-| 218 | 365 | Tiffany Ford |
+| 218 | 365 | Michael Johnson |
 | 219 | 362 | Brandon Givens |
 | 220 | 361 | Demetrious Shaw Sr. |
 | 221 | 360 | Sheila M Frazier |
@@ -247,8 +247,8 @@
 | 239 | 340 | Ammmmmmy |
 | 240 | 338 | Gumbo |
 | 241 | 332 | Bmo |
-| 242 | 330 | Peppy Shifter |
-| 243 | 330 | victory |
+| 242 | 330 | victory |
+| 243 | 330 | Peppy Shifter |
 | 244 | 329 | Brittany |
 | 245 | 327 | Snappy Balancer |
 | 246 | 326 | Dee Franklin |
@@ -257,8 +257,8 @@
 | 249 | 320 | Or Reznitsky |
 | 250 | 320 | Ashley Muncey |
 | 251 | 317 | Kelly |
-| 252 | 312 | Christian Werndl |
-| 253 | 312 | Charles Perrone |
+| 252 | 312 | Charles Perrone |
+| 253 | 312 | Christian Werndl |
 | 254 | 309 | Felicia Rocha |
 | 255 | 308 | Cynthia Herrmann Egland |
 | 256 | 307 | Blocked |

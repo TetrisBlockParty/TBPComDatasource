@@ -49,8 +49,8 @@
 | 41 | 886 | Dustin Robert |
 | 42 | 855 | Marvin Lou Martin |
 | 43 | 846 | Lucille Truesdale |
-| 44 | 846 | Christine Marie |
-| 45 | 846 | Jae Job |
+| 44 | 846 | Jae Job |
+| 45 | 846 | Christine Marie |
 | 46 | 843 | Shelly Chandler |
 | 47 | 839 | LisaJo Picken Buchanan |
 | 48 | 835 | TeeJ |
@@ -82,8 +82,8 @@
 | 74 | 647 | Shauna Havard |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 626 | Brittney Griggs |
-| 77 | 617 | Savannah Overdorf |
-| 78 | 617 | Jason Hart |
+| 77 | 617 | Jason Hart |
+| 78 | 617 | Savannah Overdorf |
 | 79 | 614 | TheNeesh50 |
 | 80 | 597 | Eric Mcgaughy |
 | 81 | 594 | Jamie Mann-Deichmann |
@@ -132,8 +132,8 @@
 | 124 | 404 | Courtney Cicoria |
 | 125 | 400 | Ericca Eldridge |
 | 126 | 393 | Carlton Unfiltered |
-| 127 | 391 | Ramel Rhodes |
-| 128 | 391 | Austin Owens |
+| 127 | 391 | Austin Owens |
+| 128 | 391 | Ramel Rhodes |
 | 129 | 391 | Nope Young |
 | 130 | 377 | Carrie Brian |
 | 131 | 373 | Joseph Guthrie |
@@ -161,8 +161,8 @@
 | 153 | 321 | Klo |
 | 154 | 320 | Lauren Scott |
 | 155 | 316 | Meagan Nicole |
-| 156 | 314 | Andy Cabral |
-| 157 | 314 | 🥔🥔 Spudz |
+| 156 | 314 | 🥔🥔 Spudz |
+| 157 | 314 | Andy Cabral |
 | 158 | 312 | Rafael Valentin |
 | 159 | 311 | Kristina Black |
 | 160 | 308 | Jeff Brian Gates |
@@ -237,8 +237,8 @@
 | 229 | 230 | Jade Rian |
 | 230 | 228 | Dihcheese444 |
 | 231 | 228 | Antony Dwayne Beasley |
-| 232 | 225 | Perky Patternblock |
-| 233 | 225 | Jenna McGeorge |
+| 232 | 225 | Jenna McGeorge |
+| 233 | 225 | Perky Patternblock |
 | 234 | 222 | Brandi Durig |
 | 235 | 221 | PurpleMoonMa |
 | 236 | 221 | Rheanda Weaskus |
@@ -269,8 +269,8 @@
 | 261 | 201 | Chaz |
 | 262 | 200 | Googenheim |
 | 263 | 199 | TinyLegoRose |
-| 264 | 198 | Silly SeaWeed |
-| 265 | 198 | Calvin Dennis |
+| 264 | 198 | Calvin Dennis |
+| 265 | 198 | Silly SeaWeed |
 | 266 | 198 | Angelito |
 | 267 | 197 | Gilles Lanctot |
 | 268 | 196 | Zany Shatterer |

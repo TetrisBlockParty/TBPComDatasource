@@ -176,8 +176,8 @@
 | 168 | 298 | Danielle Little-Daugherty |
 | 169 | 298 | femmefatale |
 | 170 | 296 | Madison Wicks |
-| 171 | 295 | Emily Adelaide Wheatley |
-| 172 | 295 | David Lutcher |
+| 171 | 295 | David Lutcher |
+| 172 | 295 | Emily Adelaide Wheatley |
 | 173 | 293 | Letson Melissa |
 | 174 | 289 | ALFD |
 | 175 | 283 | Franswa |
@@ -225,8 +225,8 @@
 | 217 | 240 | DaRascal |
 | 218 | 239 | Lacy Wolfe |
 | 219 | 238 | Tiffany Smith |
-| 220 | 236 | Speedy Liney |
-| 221 | 236 | Matt Iaccheo |
+| 220 | 236 | Matt Iaccheo |
+| 221 | 236 | Speedy Liney |
 | 222 | 235 | Bindi |
 | 223 | 235 | MRdot Rooski |
 | 224 | 234 | Paula Martin |
@@ -331,7 +331,7 @@
 | 323 | 175 | Kellie Tunstall |
 | 324 | 174 | Tavia |
 | 325 | 174 | Ariel Whittington |
-| 326 | 174 | Tavia |
+| 326 | 174 | Alex Gauthier |
 | 327 | 173 | Rico Rico |
 | 328 | 172 | Nathan Sealander |
 | 329 | 171 | Bruce Cruz |

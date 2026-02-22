@@ -299,8 +299,8 @@
 | 291 | 844 | Terri McKelvey McKinley |
 | 292 | 843 | Alyssa Hileman |
 | 293 | 836 | Wakanda Forever |
-| 294 | 833 | Tim Dyer |
-| 295 | 833 | Moni Foxe |
+| 294 | 833 | Moni Foxe |
+| 295 | 833 | Tim Dyer |
 | 296 | 824 | Chirpy Staggerpiece |
 | 297 | 823 | SaraMarie Eveland |
 | 298 | 821 | Diallo Sparkman |
@@ -323,8 +323,8 @@
 | 315 | 782 | Beth |
 | 316 | 781 | Hong Tang |
 | 317 | 778 | Lola Contreras |
-| 318 | 777 | Tesha Oldaker |
-| 319 | 777 | Jessicah Myers |
+| 318 | 777 | Jessicah Myers |
+| 319 | 777 | Tesha Oldaker |
 | 320 | 777 | Samantha Jo |
 | 321 | 774 | Ashley Dow |
 | 322 | 774 | Ginnell Browner |
@@ -332,8 +332,8 @@
 | 324 | 773 | Heather Schelkopf |
 | 325 | 772 | Danielle Simmons |
 | 326 | 768 | Michele Morgan |
-| 327 | 767 | Fancy Twister |
-| 328 | 767 | Ashley Lopez |
+| 327 | 767 | Ashley Lopez |
+| 328 | 767 | Fancy Twister |
 | 329 | 763 | Heather Causey |
 | 330 | 761 | Hyper Cluster |
 | 331 | 760 | Cheech Dta |
