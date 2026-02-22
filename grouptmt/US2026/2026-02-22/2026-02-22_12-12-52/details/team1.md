@@ -54,8 +54,8 @@
 | 46 | 671 | Lawrence Belanger |
 | 47 | 663 | Drew Magnus |
 | 48 | 646 | Susanna Guerry |
-| 49 | 635 | Angel Fowler |
-| 50 | 635 | Marianne Louise West |
+| 49 | 635 | Marianne Louise West |
+| 50 | 635 | Angel Fowler |
 | 51 | 631 | comrade fish |
 | 52 | 627 | Katie Daniels |
 | 53 | 614 | Snappy Swiper |
@@ -77,8 +77,8 @@
 | 69 | 461 | April Carroll |
 | 70 | 456 | Arianna O'Brien |
 | 71 | 447 | Evie Khalil |
-| 72 | 434 | Hyper |
-| 73 | 434 | MomMom |
+| 72 | 434 | MomMom |
+| 73 | 434 | Hyper |
 | 74 | 430 | Nancy Green |
 | 75 | 428 | Stephanie Zahn |
 | 76 | 418 | Jazzy Framezone |
@@ -120,8 +120,8 @@
 | 112 | 330 | Sweet Baker |
 | 113 | 326 | Monica Donato |
 | 114 | 321 | Maria C. Hernandez |
-| 115 | 319 | Patrick Luckenbill |
-| 116 | 319 | Deanna L Hermanson |
+| 115 | 319 | Deanna L Hermanson |
+| 116 | 319 | Patrick Luckenbill |
 | 117 | 318 | Jessica Sheehan |
 | 118 | 316 | Jennifer Hardman |
 | 119 | 316 | Ly Phethmany |
@@ -145,8 +145,8 @@
 | 137 | 282 | Timothy Dew |
 | 138 | 276 | Dandy Basegrid |
 | 139 | 274 | Tyler Werts |
-| 140 | 270 | Ash Galvan |
-| 141 | 270 | Mandyy Rae |
+| 140 | 270 | Mandyy Rae |
+| 141 | 270 | Ash Galvan |
 | 142 | 268 | GATOR |
 | 143 | 265 | SkipTheSadSauce |
 | 144 | 265 | Nutty Spinblock |
@@ -159,8 +159,8 @@
 | 151 | 257 | Amanda Jarnagin |
 | 152 | 256 | David Miller |
 | 153 | 255 | Elaine Elaine |
-| 154 | 254 | Ty Brown |
-| 155 | 254 | Al Smith Jr |
+| 154 | 254 | Al Smith Jr |
+| 155 | 254 | Ty Brown |
 | 156 | 253 | Witty Builderfit |
 | 157 | 253 | Plucky Fallzone |
 | 158 | 252 | Dena Kayy |
@@ -181,8 +181,8 @@
 | 173 | 226 | Sleepysloath5745 |
 | 174 | 219 | Chuck Gannon |
 | 175 | 218 | LC |
-| 176 | 217 | ParisandCory Champagne |
-| 177 | 217 | Kimberly Garcia |
+| 176 | 217 | Kimberly Garcia |
+| 177 | 217 | ParisandCory Champagne |
 | 178 | 216 | Shauntina Burke |
 | 179 | 215 | Sam Williams |
 | 180 | 215 | Shaykmia |
@@ -197,8 +197,8 @@
 | 189 | 207 | Brenda Alexander |
 | 190 | 207 | Leslie Bush Yarbrough |
 | 191 | 206 | BadG52 |
-| 192 | 205 | Snappy Matcher |
-| 193 | 205 | Tater |
+| 192 | 205 | Tater |
+| 193 | 205 | Snappy Matcher |
 | 194 | 204 | Lacy Wolfe |
 | 195 | 203 | Paula Martin |
 | 196 | 203 | LaFontaine Leslie |
@@ -230,8 +230,8 @@
 | 222 | 187 | GringaLinga |
 | 223 | 186 | Margo Wagner |
 | 224 | 184 | Chris Sigurdson |
-| 225 | 183 | Amy Hess |
-| 226 | 183 | Andrew Boone |
+| 225 | 183 | Andrew Boone |
+| 226 | 183 | Amy Hess |
 | 227 | 182 | Phu ckalldems |
 | 228 | 180 | Beau Galvan |
 | 229 | 180 | BigWeenie69 |
@@ -259,8 +259,8 @@
 | 251 | 169 | Abbey Crespo |
 | 252 | 168 | Angela Fairbank |
 | 253 | 168 | Amber Stoker |
-| 254 | 167 | Cranky Pattern |
-| 255 | 167 | Nery Martinez |
+| 254 | 167 | Nery Martinez |
+| 255 | 167 | Cranky Pattern |
 | 256 | 166 | Carrie Smith |
 | 257 | 165 | Nadine Velardo |
 | 258 | 165 | Silly Align |

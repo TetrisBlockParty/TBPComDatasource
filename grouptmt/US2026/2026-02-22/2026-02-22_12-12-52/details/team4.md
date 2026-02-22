@@ -1065,7 +1065,7 @@
 | 1057 | 26 | Bubbly Edge |
 | 1058 | 25 | Nutty Tile |
 | 1059 | 25 | Agápē Seb |
-| 1060 | 25 | Nutty Tile |
+| 1060 | 25 | FreckledFlamingo |
 | 1061 | 25 | Aleshia Harrity |
 | 1062 | 25 | Mary Haynes |
 | 1063 | 25 | Saucy Brickfit |
