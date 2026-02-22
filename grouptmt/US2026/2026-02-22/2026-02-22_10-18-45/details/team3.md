@@ -103,8 +103,8 @@
 | 95 | 594 | Queen Kam |
 | 96 | 591 | Jesse Olive |
 | 97 | 588 | yoyo |
-| 98 | 582 | Jay Horn |
-| 99 | 582 | Natasha Jones |
+| 98 | 582 | Natasha Jones |
+| 99 | 582 | Jay Horn |
 | 100 | 581 | Danielle Mogg |
 | 101 | 579 | Jd Morris |
 | 102 | 566 | Dolores Falco |
@@ -142,8 +142,8 @@
 | 134 | 454 | Makelini Mausia |
 | 135 | 453 | Silly Twist |
 | 136 | 449 | Danielle Rhoades |
-| 137 | 445 | Kristie McFarland |
-| 138 | 445 | Jacqueline Rodriguez |
+| 137 | 445 | Jacqueline Rodriguez |
+| 138 | 445 | Kristie McFarland |
 | 139 | 435 | Michelle |
 | 140 | 432 | Jenny Hrndz |
 | 141 | 428 | Betty Ivy |
@@ -293,19 +293,19 @@
 | 285 | 214 | Rebel124 |
 | 286 | 214 | Amy Fuller Heaton |
 | 287 | 213 | Nicholas Roddy |
-| 288 | 212 | Sunny Rotater |
-| 289 | 212 | Desiree Gold |
+| 288 | 212 | Desiree Gold |
+| 289 | 212 | Sunny Rotater |
 | 290 | 211 | El Chapa |
 | 291 | 211 | Khaleada McGill Banks |
 | 292 | 211 | Velma Mull |
-| 293 | 210 | Criss |
-| 294 | 210 | Lizabeth Fox |
+| 293 | 210 | Lizabeth Fox |
+| 294 | 210 | Criss |
 | 295 | 209 | Micayah Stevens |
 | 296 | 208 | AlsoJess |
 | 297 | 207 | Jessica |
 | 298 | 207 | angieelyn |
-| 299 | 206 | Stephanie Hill |
-| 300 | 206 | Tammy Rosenberry |
+| 299 | 206 | Tammy Rosenberry |
+| 300 | 206 | Stephanie Hill |
 | 301 | 206 | Tracy Martin |
 | 302 | 205 | Kirhonda Autmon |
 | 303 | 204 | Aerian Preston |
@@ -337,12 +337,12 @@
 | 329 | 181 | Denita Mungro |
 | 330 | 180 | Beth Ingham |
 | 331 | 179 | Christian Werndl |
-| 332 | 179 | Rachel Napper |
-| 333 | 179 | DanceLuvLaugh |
+| 332 | 179 | DanceLuvLaugh |
+| 333 | 179 | Rachel Napper |
 | 334 | 178 | Jess Dearborn |
 | 335 | 178 | Jennifer Alvey |
-| 336 | 176 | Emma |
-| 337 | 176 | Melissa Orth Hunter |
+| 336 | 176 | Melissa Orth Hunter |
+| 337 | 176 | Emma |
 | 338 | 175 | Eileen Brady Thurber |
 | 339 | 174 | Lesley Perez |
 | 340 | 173 | Naur |
@@ -360,8 +360,8 @@
 | 352 | 166 | Angella Lyons |
 | 353 | 166 | Snarky McFace |
 | 354 | 165 | Kali Kelz Williams |
-| 355 | 165 | Rainbow77375 |
-| 356 | 165 | Ashley Lynn Marchese |
+| 355 | 165 | Ashley Lynn Marchese |
+| 356 | 165 | Rainbow77375 |
 | 357 | 164 | Ashley Rufus Bythcez |
 | 358 | 164 | momo |
 | 359 | 163 | Christine Trester |

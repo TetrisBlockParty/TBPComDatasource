@@ -180,8 +180,8 @@
 | 172 | 213 | Daring Fitclear |
 | 173 | 212 | Jaimie Lynn |
 | 174 | 211 | Marianita Garcia |
-| 175 | 210 | Letson Melissa |
-| 176 | 210 | Giggly Builderline |
+| 175 | 210 | Giggly Builderline |
+| 176 | 210 | Letson Melissa |
 | 177 | 209 | Debbie Davis |
 | 178 | 208 | Donna Addison Williams |
 | 179 | 208 | Bouncy Grid |

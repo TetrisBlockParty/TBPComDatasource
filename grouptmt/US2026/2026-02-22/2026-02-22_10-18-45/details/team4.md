@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Lucille Truesdale |
-| 34 | 843 | Shelly Chandler |
+| 33 | 843 | Shelly Chandler |
+| 34 | 843 | Lucille Truesdale |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -76,8 +76,8 @@
 | 68 | 530 | Yoset Mejia |
 | 69 | 524 | Amelpss |
 | 70 | 521 | Dawn Alexander |
-| 71 | 518 | Eric Mcgaughy |
-| 72 | 518 | Carolyn Wallace |
+| 71 | 518 | Carolyn Wallace |
+| 72 | 518 | Eric Mcgaughy |
 | 73 | 517 | H.R. Block |
 | 74 | 512 | Casey Jeffcoat |
 | 75 | 511 | Michelle Marie |
@@ -90,8 +90,8 @@
 | 82 | 446 | Shane Kalamata Platoon |
 | 83 | 440 | Kristin Manee |
 | 84 | 437 | Chastity Mitchell |
-| 85 | 427 | KJ Pool |
-| 86 | 427 | Jolly Dashfit |
+| 85 | 427 | Jolly Dashfit |
+| 86 | 427 | KJ Pool |
 | 87 | 420 | Chilly Crasher |
 | 88 | 416 | YoMomma |
 | 89 | 412 | Jenna Ingersoll |
@@ -217,8 +217,8 @@
 | 209 | 179 | blockstar |
 | 210 | 179 | TinyLegoRose |
 | 211 | 175 | Lorena Guerrero-Barron |
-| 212 | 174 | JPW |
-| 213 | 174 | Rio Rocha |
+| 212 | 174 | Rio Rocha |
+| 213 | 174 | JPW |
 | 214 | 172 | Gilles Lanctot |
 | 215 | 171 | Autumn Kumzi |
 | 216 | 167 | Cozy Balancer |

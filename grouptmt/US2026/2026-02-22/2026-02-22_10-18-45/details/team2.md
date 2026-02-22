@@ -173,8 +173,8 @@
 | 165 | 1048 | PsychKIRAtrist |
 | 166 | 1047 | Amy Sayers |
 | 167 | 1045 | Lourisha |
-| 168 | 1043 | Suki Kaur |
-| 169 | 1043 | Brave Dropmatch |
+| 168 | 1043 | Brave Dropmatch |
+| 169 | 1043 | Suki Kaur |
 | 170 | 1035 | Sarah Freitas |
 | 171 | 1024 | Bri Lynn |
 | 172 | 1023 | Brainy Smurf |
@@ -207,8 +207,8 @@
 | 199 | 919 | Isaac Trappiel IV |
 | 200 | 916 | Butta |
 | 201 | 915 | Kelly Trent |
-| 202 | 910 | Shuany Arias |
-| 203 | 910 | Crystal Hoffman |
+| 202 | 910 | Crystal Hoffman |
+| 203 | 910 | Shuany Arias |
 | 204 | 907 | Gene Mills |
 | 205 | 901 | Jennifer Peachey |
 | 206 | 894 | Auntie B |
@@ -293,8 +293,8 @@
 | 285 | 698 | Mighty Shatterfit |
 | 286 | 697 | Dreamy Blast |
 | 287 | 695 | Lakeysha Dortch |
-| 288 | 692 | Jennifer Casey-Kay |
-| 289 | 692 | Dannette Goldberg-Richards |
+| 288 | 692 | Dannette Goldberg-Richards |
+| 289 | 692 | Jennifer Casey-Kay |
 | 290 | 690 | Deborah Miller |
 | 291 | 689 | Giggy Blocker |
 | 292 | 688 | Tiara Elizabeth Baker |
@@ -303,8 +303,8 @@
 | 295 | 685 | Binyah-Binyah |
 | 296 | 681 | Melissa Holsinger |
 | 297 | 679 | Offonar Facey |
-| 298 | 679 | Brenda Utphall |
-| 299 | 679 | Dee |
+| 298 | 679 | Dee |
+| 299 | 679 | Brenda Utphall |
 | 300 | 679 | Kassandra Hunt |
 | 301 | 678 | Scott Treadway |
 | 302 | 677 | Mema |
@@ -338,8 +338,8 @@
 | 330 | 620 | Brandon Armstrong |
 | 331 | 619 | Jánine Riggs |
 | 332 | 617 | Leslie Ann Carter |
-| 333 | 613 | Breezy Filler |
-| 334 | 613 | Caitlyn Blackwell |
+| 333 | 613 | Caitlyn Blackwell |
+| 334 | 613 | Breezy Filler |
 | 335 | 613 | Ellie Jonas |
 | 336 | 611 | Em Chen |
 | 337 | 611 | Carl Bradshaw |
@@ -374,8 +374,8 @@
 | 366 | 558 | Libby Hicks |
 | 367 | 557 | Block Master |
 | 368 | 556 | Slip |
-| 369 | 554 | Santana Miyagi |
-| 370 | 554 | Rachael Senard |
+| 369 | 554 | Rachael Senard |
+| 370 | 554 | Santana Miyagi |
 | 371 | 554 | Autumn Schaeffer |
 | 372 | 550 | Nashu |
 | 373 | 549 | Darcy Mae |
@@ -424,8 +424,8 @@
 | 416 | 500 | Sarah Ridenour |
 | 417 | 499 | Sarah Massey |
 | 418 | 498 | Rhonda Milstead |
-| 419 | 497 | June E Hanson |
-| 420 | 497 | Doowop40 |
+| 419 | 497 | Doowop40 |
+| 420 | 497 | June E Hanson |
 | 421 | 497 | Kimberly Randesi |
 | 422 | 496 | Blacc Blac |
 | 423 | 493 | Kara Gillen |
@@ -611,8 +611,8 @@
 | 603 | 375 | Cecilia A Jenkins |
 | 604 | 375 | Lively Edgepiece |
 | 605 | 373 | Ashley Marie |
-| 606 | 373 | Jessica Hughes |
-| 607 | 373 | Hunter Connors |
+| 606 | 373 | Hunter Connors |
+| 607 | 373 | Jessica Hughes |
 | 608 | 372 | Ebony Deloach Bryant |
 | 609 | 371 | Brenda Messer |
 | 610 | 371 | AkaLefty |
@@ -643,8 +643,8 @@
 | 635 | 361 | Lewis Sturgeon |
 | 636 | 360 | Jroc |
 | 637 | 359 | Cheyenne Donovan |
-| 638 | 358 | Sydney Busse |
-| 639 | 358 | Alyssaaelena |
+| 638 | 358 | Alyssaaelena |
+| 639 | 358 | Sydney Busse |
 | 640 | 357 | Shannon Byrd |
 | 641 | 357 | Tristan Szolek |
 | 642 | 355 | Amanda Perez |
@@ -702,8 +702,8 @@
 | 694 | 326 | Ann Knutson Anderson |
 | 695 | 325 | Justin Hines |
 | 696 | 324 | Mike73 |
-| 697 | 324 | Tasia Stinson |
-| 698 | 324 | Dale Haanpaa |
+| 697 | 324 | Dale Haanpaa |
+| 698 | 324 | Tasia Stinson |
 | 699 | 323 | Kyla Louise |
 | 700 | 323 | Briana Alexander |
 | 701 | 322 | Christina Jarvis-Swarbrick |
@@ -749,8 +749,8 @@
 | 741 | 304 | Melissa McCall |
 | 742 | 304 | James Smith |
 | 743 | 303 | Angie Marie |
-| 744 | 303 | Amanda Schaffer |
-| 745 | 303 | Devin |
+| 744 | 303 | Devin |
+| 745 | 303 | Amanda Schaffer |
 | 746 | 302 | Kena T. Tanner |
 | 747 | 302 | Maxwell Escalera |
 | 748 | 300 | Alice Ball |
@@ -861,8 +861,8 @@
 | 853 | 263 | Amy Humphreys |
 | 854 | 263 | Sara Pennington |
 | 855 | 262 | Taren Cowan |
-| 856 | 261 | Dany Murillo |
-| 857 | 261 | Gina Gina |
+| 856 | 261 | Gina Gina |
+| 857 | 261 | Dany Murillo |
 | 858 | 261 | MrsClaudette Will'sIam Matthews |
 | 859 | 260 | Michael David Hollis |
 | 860 | 260 | Lynda Toland |
@@ -927,8 +927,8 @@
 | 919 | 247 | Wizz |
 | 920 | 247 | Karyn Yurcho Dooley |
 | 921 | 246 | Stacey Tranchida |
-| 922 | 246 | Cool Grabber |
-| 923 | 246 | Laura McConnell |
+| 922 | 246 | Laura McConnell |
+| 923 | 246 | Cool Grabber |
 | 924 | 245 | Lively Piecefit |
 | 925 | 245 | Mellissa Evans |
 | 926 | 245 | Abby Klaski |
