@@ -99,8 +99,8 @@
 | 91 | 539 | Dawn Alexander |
 | 92 | 531 | Amelpss |
 | 93 | 519 | Nugget |
-| 94 | 513 | Erin Thomas |
-| 95 | 513 | YoMomma |
+| 94 | 513 | YoMomma |
+| 95 | 513 | Erin Thomas |
 | 96 | 512 | Casey Jeffcoat |
 | 97 | 509 | Diana Houts |
 | 98 | 500 | Rodney McMath Jr. |
@@ -246,7 +246,7 @@
 | 238 | 219 | BigSammy420 |
 | 239 | 219 | Malakai Darien Fox |
 | 240 | 219 | Dizzy Matchzone |
-| 241 | 216 | ZeeZee |
+| 241 | 216 | Cristy Duerksen |
 | 242 | 216 | Chance Strickland |
 | 243 | 216 | ZeeZee |
 | 244 | 215 | John Brunetti |
@@ -371,10 +371,10 @@
 | 363 | 146 | Brave Spinbuilder |
 | 364 | 146 | PennyCandee |
 | 365 | 146 | Jarred Falls |
-| 366 | 145 | Sallie Sanborn |
+| 366 | 145 | Sandra Safford |
 | 367 | 145 | Glitzy Crasher |
-| 368 | 145 | Sandra Safford |
-| 369 | 145 | Jackie Clark |
+| 368 | 145 | Jackie Clark |
+| 369 | 145 | Sallie Sanborn |
 | 370 | 144 | Squeezy Pearsall |
 | 371 | 143 | Asher |
 | 372 | 143 | Groovy Gridlock |

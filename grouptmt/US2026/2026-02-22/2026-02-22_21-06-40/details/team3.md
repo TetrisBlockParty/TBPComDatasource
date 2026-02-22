@@ -71,8 +71,8 @@
 | 63 | 1024 | Jessica Ann |
 | 64 | 1019 | Joey Banks |
 | 65 | 954 | Nate Burnside |
-| 66 | 926 | Judi Dobson |
-| 67 | 926 | Angela M. Fletcher |
+| 66 | 926 | Angela M. Fletcher |
+| 67 | 926 | Judi Dobson |
 | 68 | 924 | Shonna Roberts |
 | 69 | 924 | Aaron Pitkin |
 | 70 | 909 | Jennifer |
@@ -93,8 +93,8 @@
 | 85 | 836 | Jamie Lang |
 | 86 | 835 | Snappy Glidepiece |
 | 87 | 831 | Angeline Joseph |
-| 88 | 830 | Stephanie Allmon |
-| 89 | 830 | Sarajane Lokan |
+| 88 | 830 | Sarajane Lokan |
+| 89 | 830 | Stephanie Allmon |
 | 90 | 826 | Shane Wilson Jr. |
 | 91 | 811 | Jay Horn |
 | 92 | 800 | Lauren Girouard |
@@ -136,8 +136,8 @@
 | 128 | 572 | CeceGeGe |
 | 129 | 569 | Daryn Elliott |
 | 130 | 568 | Rachael McClain Owens |
-| 131 | 562 | Dave Herzog |
-| 132 | 562 | Louise Stacy Sisson |
+| 131 | 562 | Louise Stacy Sisson |
+| 132 | 562 | Dave Herzog |
 | 133 | 558 | Nicole Myers |
 | 134 | 557 | Domo Washington |
 | 135 | 554 | Leah Barnett |
@@ -145,8 +145,8 @@
 | 137 | 551 | Alaina Lee |
 | 138 | 531 | Mykal Burton |
 | 139 | 529 | Michael Nowogorski |
-| 140 | 526 | Michelle Becker |
-| 141 | 526 | Cynthia Castros-Hampton |
+| 140 | 526 | Cynthia Castros-Hampton |
+| 141 | 526 | Michelle Becker |
 | 142 | 525 | Justin Ritter |
 | 143 | 517 | Denise Nardoni |
 | 144 | 516 | Elissa S-k |
@@ -163,14 +163,14 @@
 | 155 | 479 | Poppy Splitter |
 | 156 | 474 | Danielle Balcom |
 | 157 | 473 | Calista Jo Dickson |
-| 158 | 471 | Mendoza Lee Christy |
-| 159 | 471 | Nora Rogers |
+| 158 | 471 | Nora Rogers |
+| 159 | 471 | Mendoza Lee Christy |
 | 160 | 470 | Logan Naccarato |
 | 161 | 469 | Melissa Orth Hunter |
 | 162 | 469 | Adrian Marcel Pate |
 | 163 | 468 | Betty Ivy |
-| 164 | 464 | Makelini Mausia |
-| 165 | 464 | Michelle |
+| 164 | 464 | Michelle |
+| 165 | 464 | Makelini Mausia |
 | 166 | 461 | Jone |
 | 167 | 460 | Tasha Gillespie |
 | 168 | 460 | Danielle Allison |
@@ -263,8 +263,8 @@
 | 255 | 307 | rnr junky |
 | 256 | 307 | Blocked |
 | 257 | 304 | Marquita Sheard |
-| 258 | 302 | Gray Hicks |
-| 259 | 302 | Christian Werndl |
+| 258 | 302 | Christian Werndl |
+| 259 | 302 | Gray Hicks |
 | 260 | 301 | Betty Rosas |
 | 261 | 299 | Angie Harper |
 | 262 | 299 | Ray Lader |
@@ -298,8 +298,8 @@
 | 290 | 276 | Heather De Vries Cobb |
 | 291 | 275 | Cassandra Bryant |
 | 292 | 275 | Tasha Wesson-Torrence |
-| 293 | 273 | Troy |
-| 294 | 273 | Dannie Litchard |
+| 293 | 273 | Dannie Litchard |
+| 294 | 273 | Troy |
 | 295 | 272 | fraulila |
 | 296 | 271 | Grego Daniel |
 | 297 | 271 | Cass Mendoza |

@@ -247,8 +247,8 @@
 | 239 | 972 | Juliana Marques Do Nascimento Gordy |
 | 240 | 972 | Della Hole |
 | 241 | 965 | Maria Escobar |
-| 242 | 957 | Block Master |
-| 243 | 957 | Keri Womack |
+| 242 | 957 | Keri Womack |
+| 243 | 957 | Block Master |
 | 244 | 957 | Crystal Hoffman |
 | 245 | 955 | Angela Bonquiqui Dinish |
 | 246 | 951 | Cynthia Ward |
@@ -436,8 +436,8 @@
 | 428 | 613 | Lylymom |
 | 429 | 605 | Biggest thing |
 | 430 | 603 | Casper The Chonk |
-| 431 | 602 | KhaosLord |
-| 432 | 602 | Shaun Church |
+| 431 | 602 | Shaun Church |
+| 432 | 602 | KhaosLord |
 | 433 | 601 | Moua Ying |
 | 434 | 601 | Slinky Racker |
 | 435 | 600 | Véronique Lévesque Sabourin |
