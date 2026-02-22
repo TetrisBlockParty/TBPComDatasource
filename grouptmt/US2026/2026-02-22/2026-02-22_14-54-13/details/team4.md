@@ -16,8 +16,8 @@
 | 8 | 1835 | East Mamba |
 | 9 | 1775 | Ash |
 | 10 | 1676 | Ayanna Soto |
-| 11 | 1447 | Juggalo |
-| 12 | 1447 | GreenJeepGirl |
+| 11 | 1447 | GreenJeepGirl |
+| 12 | 1447 | Juggalo |
 | 13 | 1318 | Cassie Michaux |
 | 14 | 1284 | Roger Coulter |
 | 15 | 1132 | Jayna Anoc |
@@ -50,8 +50,8 @@
 | 42 | 823 | Jae Job |
 | 43 | 818 | Marvin Lou Martin |
 | 44 | 779 | BertMofo |
-| 45 | 775 | Dee Kay |
-| 46 | 775 | Rebecca Moulton Pinciaro |
+| 45 | 775 | Rebecca Moulton Pinciaro |
+| 46 | 775 | Dee Kay |
 | 47 | 766 | Robin Watters |
 | 48 | 757 | Ancient Intuition |
 | 49 | 736 | Goatimus Lombardi |
@@ -75,8 +75,8 @@
 | 67 | 613 | Ashley Ingram |
 | 68 | 608 | Avy Absol |
 | 69 | 600 | Michelle Marie |
-| 70 | 599 | Savannah Overdorf |
-| 71 | 599 | Brittney Griggs |
+| 70 | 599 | Brittney Griggs |
+| 71 | 599 | Savannah Overdorf |
 | 72 | 593 | Lisa Davis |
 | 73 | 588 | Eric Mcgaughy |
 | 74 | 561 | Julian Garcia |

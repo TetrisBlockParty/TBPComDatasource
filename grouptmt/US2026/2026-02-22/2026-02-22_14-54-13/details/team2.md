@@ -216,8 +216,8 @@
 | 208 | 950 | Teresa Gillmore |
 | 209 | 944 | Kimberly Hauck-Rausch |
 | 210 | 942 | Keri Womack |
-| 211 | 941 | Marie Boyd Faulk |
-| 212 | 941 | Cool Clearer |
+| 211 | 941 | Cool Clearer |
+| 212 | 941 | Marie Boyd Faulk |
 | 213 | 932 | Catina Hutchison |
 | 214 | 924 | Crystal Hoffman |
 | 215 | 921 | Morgue Chick |
@@ -279,8 +279,8 @@
 | 271 | 771 | Terri McKelvey McKinley |
 | 272 | 770 | Offonar Facey |
 | 273 | 768 | Mighty Shatterfit |
-| 274 | 767 | Ashley Lopez |
-| 275 | 767 | Jessica Wayne Cornwall |
+| 274 | 767 | Jessica Wayne Cornwall |
+| 275 | 767 | Ashley Lopez |
 | 276 | 765 | Jodi Blake |
 | 277 | 764 | Pacynthia Williams |
 | 278 | 763 | Angie Bolton Workman |
@@ -344,15 +344,15 @@
 | 336 | 663 | Mandi Douglas Hilt |
 | 337 | 663 | Ashle Scranton |
 | 338 | 662 | Melissa Rebbe-Lehman |
-| 339 | 661 | BeQuo |
-| 340 | 661 | goofinoff |
+| 339 | 661 | goofinoff |
+| 340 | 661 | BeQuo |
 | 341 | 659 | Draizen Montrell Thomas |
 | 342 | 651 | Unica Rector |
-| 343 | 650 | Shiny Rollzone |
-| 344 | 650 | tejas25 |
+| 343 | 650 | tejas25 |
+| 344 | 650 | Shiny Rollzone |
 | 345 | 643 | Hoppy Brickmatch |
-| 346 | 640 | Kara Gillen |
-| 347 | 640 | BYM4L |
+| 346 | 640 | BYM4L |
+| 347 | 640 | Kara Gillen |
 | 348 | 639 | Crystie Hicks |
 | 349 | 639 | Rebecca Miller |
 | 350 | 639 | Jelly |
@@ -557,19 +557,19 @@
 | 549 | 431 | Quinn |
 | 550 | 430 | Gloria Ininahazwe |
 | 551 | 429 | Christy Krissie |
-| 552 | 429 | Mike Aprilliano |
-| 553 | 429 | Tabs Reichert |
-| 554 | 428 | Arkei Luster |
-| 555 | 428 | Shyenn Gadsby |
-| 556 | 427 | Sabrina Burton |
-| 557 | 427 | Destiny Cozier |
+| 552 | 429 | Tabs Reichert |
+| 553 | 429 | Mike Aprilliano |
+| 554 | 428 | Shyenn Gadsby |
+| 555 | 428 | Arkei Luster |
+| 556 | 427 | Destiny Cozier |
+| 557 | 427 | Sabrina Burton |
 | 558 | 426 | Ashley Dow |
 | 559 | 424 | Lina Sanders |
 | 560 | 424 | Saucy Fitzone |
-| 561 | 423 | Taylor Flowers |
-| 562 | 423 | Sam |
-| 563 | 421 | Joel Rosado |
-| 564 | 421 | Véronique Lévesque Sabourin |
+| 561 | 423 | Sam |
+| 562 | 423 | Taylor Flowers |
+| 563 | 421 | Véronique Lévesque Sabourin |
+| 564 | 421 | Joel Rosado |
 | 565 | 420 | LaWanda Powell |
 | 566 | 420 | Jennifer Scott |
 | 567 | 419 | Pocho Zavala |
@@ -590,15 +590,15 @@
 | 582 | 411 | Kristen O'Neal |
 | 583 | 410 | Belle |
 | 584 | 409 | Cleo Sims |
-| 585 | 408 | Stefanie Zonzini-Gagliardi |
-| 586 | 408 | Abimbola Bimbo |
+| 585 | 408 | Abimbola Bimbo |
+| 586 | 408 | Stefanie Zonzini-Gagliardi |
 | 587 | 408 | Brandon Jones |
 | 588 | 407 | Tipsy Filler |
 | 589 | 406 | Kimberly Ann |
 | 590 | 406 | Erin StFrancis |
 | 591 | 404 | Dawn L Washington-Feuquay |
-| 592 | 403 | Goofy Dasher |
-| 593 | 403 | Nate Skidmore |
+| 592 | 403 | Nate Skidmore |
+| 593 | 403 | Goofy Dasher |
 | 594 | 401 | Moua Ying |
 | 595 | 401 | De Hawkins |
 | 596 | 400 | Joshua Self |
@@ -678,8 +678,8 @@
 | 670 | 361 | Michelle Shrum |
 | 671 | 360 | Jroc |
 | 672 | 359 | Cheyenne Donovan |
-| 673 | 358 | Alyssaaelena |
-| 674 | 358 | Sydney Busse |
+| 673 | 358 | Sydney Busse |
+| 674 | 358 | Alyssaaelena |
 | 675 | 358 | Frilly Fallzone |
 | 676 | 357 | Tristan Szolek |
 | 677 | 357 | Shannon Byrd |
@@ -748,13 +748,13 @@
 | 740 | 322 | Robin L. Vial |
 | 741 | 322 | Michelle Pike |
 | 742 | 322 | Christina Jarvis-Swarbrick |
-| 743 | 321 | Ashley Criner |
-| 744 | 321 | Tamara Bailey |
+| 743 | 321 | Tamara Bailey |
+| 744 | 321 | Ashley Criner |
 | 745 | 320 | Peachy Blockbuilder |
 | 746 | 320 | Tash Bell |
 | 747 | 320 | Mary Boss |
-| 748 | 319 | Cheery Puzzler |
-| 749 | 319 | RetroLemur |
+| 748 | 319 | RetroLemur |
+| 749 | 319 | Cheery Puzzler |
 | 750 | 318 | Jennifer Mahon |
 | 751 | 317 | Ashlyn Berner |
 | 752 | 317 | Zombi3 |
@@ -764,8 +764,8 @@
 | 756 | 315 | Sinistah42o |
 | 757 | 314 | Christina Walker |
 | 758 | 314 | Amanda West |
-| 759 | 313 | Natasha Edmonds |
-| 760 | 313 | Marina Linda |
+| 759 | 313 | Marina Linda |
+| 760 | 313 | Natasha Edmonds |
 | 761 | 313 | Jeffrey Barrows |
 | 762 | 313 | Donald Nowland |
 | 763 | 313 | Snippy Block |

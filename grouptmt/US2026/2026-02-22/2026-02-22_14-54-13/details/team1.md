@@ -113,8 +113,8 @@
 | 105 | 362 | Plucky Ziggy |
 | 106 | 359 | Chirpy Smasher |
 | 107 | 355 | Hasbro Bros |
-| 108 | 352 | Jason Jones |
-| 109 | 352 | phrmblk24 |
+| 108 | 352 | phrmblk24 |
+| 109 | 352 | Jason Jones |
 | 110 | 350 | Tipsy Strikerpiece |
 | 111 | 349 | Dee Perry |
 | 112 | 344 | Bhelle Sumile |
@@ -126,8 +126,8 @@
 | 118 | 332 | Kristen Gideon |
 | 119 | 330 | Sweet Baker |
 | 120 | 326 | Monica Donato |
-| 121 | 321 | Tanya Carpenter-Reynolds |
-| 122 | 321 | Maria C. Hernandez |
+| 121 | 321 | Maria C. Hernandez |
+| 122 | 321 | Tanya Carpenter-Reynolds |
 | 123 | 318 | Jessica Sheehan |
 | 124 | 316 | Jennifer Hardman |
 | 125 | 316 | Dizzy Party |
@@ -207,7 +207,7 @@
 | 199 | 210 | Letson Melissa |
 | 200 | 210 | Giggly Builderline |
 | 201 | 209 | Cece Ibarra |
-| 202 | 208 | Michelle Beres |
+| 202 | 208 | Donna Addison Williams |
 | 203 | 208 | Bouncy Grid |
 | 204 | 208 | Michelle Beres |
 | 205 | 207 | Speedy Liney |
