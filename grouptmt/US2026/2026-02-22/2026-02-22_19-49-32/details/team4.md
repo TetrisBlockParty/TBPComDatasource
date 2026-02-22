@@ -46,8 +46,8 @@
 | 38 | 908 | Misty Hollibaugh |
 | 39 | 886 | Dustin Robert |
 | 40 | 871 | Denny Shives |
-| 41 | 846 | Christine Marie |
-| 42 | 846 | Lucille Truesdale |
+| 41 | 846 | Lucille Truesdale |
+| 42 | 846 | Christine Marie |
 | 43 | 843 | Jae Job |
 | 44 | 843 | Shelly Chandler |
 | 45 | 836 | LisaJo Picken Buchanan |
@@ -117,8 +117,8 @@
 | 109 | 440 | Lori Walker |
 | 110 | 435 | Leslie Thomas |
 | 111 | 431 | Zippy Gridlock |
-| 112 | 427 | Jolly Dashfit |
-| 113 | 427 | KJ Pool |
+| 112 | 427 | KJ Pool |
+| 113 | 427 | Jolly Dashfit |
 | 114 | 426 | Ren Mc |
 | 115 | 422 | shar |
 | 116 | 415 | Monica Daley |
@@ -129,8 +129,8 @@
 | 121 | 400 | Ericca Eldridge |
 | 122 | 398 | Dizzy Tiley |
 | 123 | 393 | Carlton Unfiltered |
-| 124 | 391 | Austin Owens |
-| 125 | 391 | Ramel Rhodes |
+| 124 | 391 | Ramel Rhodes |
+| 125 | 391 | Austin Owens |
 | 126 | 377 | Carrie Brian |
 | 127 | 373 | Joseph Guthrie |
 | 128 | 369 | Nope Young |
@@ -204,15 +204,15 @@
 | 196 | 249 | Cheery Risebuilder |
 | 197 | 248 | Chirpy Basepiece |
 | 198 | 247 | Dennis Bradley |
-| 199 | 246 | Carlos Ramirez |
-| 200 | 246 | Lindsey Gonzalez |
-| 201 | 245 | 23 |
-| 202 | 245 | Autum Leigh |
+| 199 | 246 | Lindsey Gonzalez |
+| 200 | 246 | Carlos Ramirez |
+| 201 | 245 | Autum Leigh |
+| 202 | 245 | 23 |
 | 203 | 244 | Twisty Cascadezone |
 | 204 | 243 | Jose Dejesus |
 | 205 | 243 | Mr. Party |
-| 206 | 241 | Allen Lloyd |
-| 207 | 241 | Kristina Black |
+| 206 | 241 | Kristina Black |
+| 207 | 241 | Allen Lloyd |
 | 208 | 240 | Zethra Prenisha Rahming |
 | 209 | 238 | JPW |
 | 210 | 237 | Jen Caldwell |
@@ -310,8 +310,8 @@
 | 302 | 163 | Jason Bosco |
 | 303 | 163 | Ellen Durfee |
 | 304 | 162 | Gwendolyn Pitcairn |
-| 305 | 162 | conceptCollector |
-| 306 | 162 | Victoria Faniel |
+| 305 | 162 | Victoria Faniel |
+| 306 | 162 | conceptCollector |
 | 307 | 161 | Tanner Lund |
 | 308 | 160 | wombat |
 | 309 | 160 | Lora |

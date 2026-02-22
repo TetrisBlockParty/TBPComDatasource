@@ -234,8 +234,8 @@
 | 226 | 346 | Tamara Deherrera |
 | 227 | 344 | Roary Danner |
 | 228 | 343 | Ashley Raines |
-| 229 | 341 | Noyb Adam |
-| 230 | 341 | Rania Zaqout |
+| 229 | 341 | Rania Zaqout |
+| 230 | 341 | Noyb Adam |
 | 231 | 341 | Samantha Lynn |
 | 232 | 341 | Ashley Tookes |
 | 233 | 340 | Ammmmmmy |
@@ -269,7 +269,7 @@
 | 261 | 296 | Hoppy Buildout |
 | 262 | 296 | Katrina Turner |
 | 263 | 291 | Carrie Huskey |
-| 264 | 289 | Danielle Weikel |
+| 264 | 289 | DidIdothat |
 | 265 | 289 | Duane Bright |
 | 266 | 289 | Danielle Weikel |
 | 267 | 286 | Tye Stovall |
@@ -397,8 +397,8 @@
 | 389 | 200 | glichmod |
 | 390 | 200 | Colleen Phelps |
 | 391 | 198 | Zac Hudak |
-| 392 | 196 | Rainbow77375 |
-| 393 | 196 | Salena Whitlock |
+| 392 | 196 | Salena Whitlock |
+| 393 | 196 | Rainbow77375 |
 | 394 | 195 | Nicha Hooker |
 | 395 | 194 | Willow |
 | 396 | 194 | Erykah |

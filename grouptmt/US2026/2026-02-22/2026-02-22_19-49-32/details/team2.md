@@ -671,8 +671,8 @@
 | 663 | 406 | Erin StFrancis |
 | 664 | 406 | Tyler C. Jung |
 | 665 | 406 | Jess Morrison |
-| 666 | 403 | Nate Skidmore |
-| 667 | 403 | Kelly Meredeith |
+| 666 | 403 | Kelly Meredeith |
+| 667 | 403 | Nate Skidmore |
 | 668 | 403 | Goofy Dasher |
 | 669 | 402 | B |
 | 670 | 401 | Beth Decker |
