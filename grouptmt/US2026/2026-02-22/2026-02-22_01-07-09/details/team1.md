@@ -128,8 +128,8 @@
 | 120 | 228 | Jenny Gingrich Fuentes |
 | 121 | 226 | Kandae |
 | 122 | 219 | Lexuriuos Lifestlye |
-| 123 | 216 | Shauntina Burke |
-| 124 | 216 | MRdot Rooski |
+| 123 | 216 | MRdot Rooski |
+| 124 | 216 | Shauntina Burke |
 | 125 | 214 | Billie Dawn Sparks |
 | 126 | 212 | Jaimie Lynn |
 | 127 | 211 | Marianita Garcia |
@@ -158,8 +158,8 @@
 | 150 | 186 | Jennifer Olewnik Soborowski |
 | 151 | 185 | Basment Living |
 | 152 | 182 | Monica Donato |
-| 153 | 180 | Erez Yosef |
-| 154 | 180 | BigWeenie69 |
+| 153 | 180 | BigWeenie69 |
+| 154 | 180 | Erez Yosef |
 | 155 | 179 | Danielle Little-Daugherty |
 | 156 | 178 | Chad Atchley |
 | 157 | 177 | Irual Hctrab |

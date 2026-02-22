@@ -43,8 +43,8 @@
 | 35 | 1059 | Lori Barnaby |
 | 36 | 1058 | Tetris Master |
 | 37 | 1036 | Mahman |
-| 38 | 1013 | Amber Jones |
-| 39 | 1013 | Laura Melton |
+| 38 | 1013 | Laura Melton |
+| 39 | 1013 | Amber Jones |
 | 40 | 998 | Liv Whetson |
 | 41 | 996 | Danielle Cutler |
 | 42 | 989 | Kay |
@@ -118,12 +118,12 @@
 | 110 | 400 | Luciana Braganca Vieira |
 | 111 | 399 | Mcathen |
 | 112 | 396 | Shannon Matthew Byers |
-| 113 | 394 | Annie Déè |
-| 114 | 394 | joclisa |
+| 113 | 394 | joclisa |
+| 114 | 394 | Annie Déè |
 | 115 | 392 | Michelle |
 | 116 | 391 | Calista Jo Dickson |
-| 117 | 390 | Patti Skiles |
-| 118 | 390 | Hasty Cascadefit |
+| 117 | 390 | Hasty Cascadefit |
+| 118 | 390 | Patti Skiles |
 | 119 | 389 | FuzzyNavel |
 | 120 | 386 | Katie Knaus |
 | 121 | 383 | Jesse Olive |
@@ -139,8 +139,8 @@
 | 131 | 355 | Sherry Ogden |
 | 132 | 352 | Logan Naccarato |
 | 133 | 348 | CeceGeGe |
-| 134 | 347 | Nicole Flippo |
-| 135 | 347 | Darlene McMillan |
+| 134 | 347 | Darlene McMillan |
+| 135 | 347 | Nicole Flippo |
 | 136 | 343 | Chasity |
 | 137 | 340 | Patricia Gadsden |
 | 138 | 328 | Dapper Snap |
@@ -368,8 +368,8 @@
 | 360 | 122 | BabyTonj Evans |
 | 361 | 121 | Fredd Thomas |
 | 362 | 121 | Michael Johnson |
-| 363 | 120 | Brian Battjes |
-| 364 | 120 | Rainbow77375 |
+| 363 | 120 | Rainbow77375 |
+| 364 | 120 | Brian Battjes |
 | 365 | 119 | BugMansMom |
 | 366 | 118 | Michael Nowogorski |
 | 367 | 118 | Lizabeth Fox |

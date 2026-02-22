@@ -83,8 +83,8 @@
 | 75 | 370 | Leslie Thomas |
 | 76 | 369 | Nope Young |
 | 77 | 359 | Jamie Mann-Deichmann |
-| 78 | 358 | Shane Kalamata Platoon |
-| 79 | 358 | Nugget |
+| 78 | 358 | Nugget |
+| 79 | 358 | Shane Kalamata Platoon |
 | 80 | 330 | Jae Job |
 | 81 | 323 | Robin Getchel |
 | 82 | 318 | Amy Suckarieh |
@@ -109,8 +109,8 @@
 | 101 | 273 | Carrie Brian |
 | 102 | 271 | Sarah Brown |
 | 103 | 268 | Meagan Nicole |
-| 104 | 264 | Girl |
-| 105 | 264 | Epic Curvetile |
+| 104 | 264 | Epic Curvetile |
+| 105 | 264 | Girl |
 | 106 | 258 | Brittney Orengo |
 | 107 | 257 | Holly Jolly |
 | 108 | 256 | Mylo Lipscomb |
@@ -198,7 +198,7 @@
 | 190 | 137 | PeaceOs |
 | 191 | 136 | Chaz |
 | 192 | 136 | Crystal Nicolette Moore |
-| 193 | 134 | Jason Allen |
+| 193 | 134 | Chirpy Basepiece |
 | 194 | 134 | Kristina Black |
 | 195 | 134 | Jason Allen |
 | 196 | 134 | Kim Klutz Olson |
@@ -254,8 +254,8 @@
 | 246 | 114 | Kesha Brady |
 | 247 | 114 | Joshua Cuellar |
 | 248 | 114 | PennyCandee |
-| 249 | 113 | Dandy Cascadefit |
-| 250 | 113 | Adam Randall |
+| 249 | 113 | Adam Randall |
+| 250 | 113 | Dandy Cascadefit |
 | 251 | 112 | Jeremy Steines |
 | 252 | 111 | Lazy Blocker |
 | 253 | 110 | Zach Kerbs |
