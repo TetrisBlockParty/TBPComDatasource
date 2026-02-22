@@ -242,8 +242,8 @@
 | 234 | 867 | Peppy Zone |
 | 235 | 862 | Brittany Radaszewski |
 | 236 | 860 | Felicia Lynn |
-| 237 | 860 | April Dawn Gussler |
-| 238 | 860 | John Bednarik |
+| 237 | 860 | John Bednarik |
+| 238 | 860 | April Dawn Gussler |
 | 239 | 857 | Della Hole |
 | 240 | 855 | F-X |
 | 241 | 853 | Meghan M |
@@ -381,8 +381,8 @@
 | 373 | 589 | Thomas Hedrick |
 | 374 | 589 | Shavonna Haynes |
 | 375 | 586 | Heather Schelkopf |
-| 376 | 584 | Kimberly Randesi |
-| 377 | 584 | Eckoman518 |
+| 376 | 584 | Eckoman518 |
+| 377 | 584 | Kimberly Randesi |
 | 378 | 584 | Ginnell Browner |
 | 379 | 583 | Jackie Avila |
 | 380 | 581 | Jerry Tempelmeyer |

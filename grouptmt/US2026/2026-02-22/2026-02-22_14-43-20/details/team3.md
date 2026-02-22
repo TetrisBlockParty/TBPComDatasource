@@ -64,8 +64,8 @@
 | 56 | 909 | Jennifer |
 | 57 | 908 | Alanna Rogers |
 | 58 | 903 | Sarah Fehring |
-| 59 | 895 | Shonna Roberts |
-| 60 | 895 | Amanda L Baker |
+| 59 | 895 | Amanda L Baker |
+| 60 | 895 | Shonna Roberts |
 | 61 | 893 | Khristen AC |
 | 62 | 882 | Susan Valentino |
 | 63 | 881 | Nate Burnside |
@@ -151,8 +151,8 @@
 | 143 | 449 | Danielle Rhoades |
 | 144 | 448 | Karon Griffin |
 | 145 | 445 | Shannon Matthew Byers |
-| 146 | 445 | Kristie McFarland |
-| 147 | 445 | Jacqueline Rodriguez |
+| 146 | 445 | Jacqueline Rodriguez |
+| 147 | 445 | Kristie McFarland |
 | 148 | 439 | Michelle |
 | 149 | 434 | Logan Naccarato |
 | 150 | 432 | Jenny Hrndz |
@@ -195,8 +195,8 @@
 | 187 | 361 | Jamie Lang |
 | 188 | 358 | Chummy Caster |
 | 189 | 358 | RickyG |
-| 190 | 357 | Tom Nault |
-| 191 | 357 | Stephanie Burtin |
+| 190 | 357 | Stephanie Burtin |
+| 191 | 357 | Tom Nault |
 | 192 | 353 | Nora Rogers |
 | 193 | 349 | Amanda J. Mcneil-Anderson |
 | 194 | 348 | Chasity |
@@ -287,8 +287,8 @@
 | 279 | 236 | Jess Bissett |
 | 280 | 235 | Cozy Snaplink |
 | 281 | 234 | Lys |
-| 282 | 233 | Ray Lader |
-| 283 | 233 | Josh Borquez |
+| 282 | 233 | Josh Borquez |
+| 283 | 233 | Ray Lader |
 | 284 | 232 | Donna |
 | 285 | 227 | Krystal Gerstberger |
 | 286 | 227 | Meowsa |
@@ -312,8 +312,8 @@
 | 304 | 212 | Jana Polk |
 | 305 | 212 | Sunny Rotater |
 | 306 | 211 | Velma Mull |
-| 307 | 211 | El Chapa |
-| 308 | 211 | Khaleada McGill Banks |
+| 307 | 211 | Khaleada McGill Banks |
+| 308 | 211 | El Chapa |
 | 309 | 210 | Criss |
 | 310 | 210 | Lizabeth Fox |
 | 311 | 209 | Micayah Stevens |
@@ -770,8 +770,8 @@
 | 762 | 88 | Emily Dahl |
 | 763 | 88 | fred |
 | 764 | 88 | Beanrr |
-| 765 | 88 | fred |
-| 766 | 88 | Happy Buildsnap |
+| 765 | 88 | Happy Buildsnap |
+| 766 | 88 | Sherry DeLong |
 | 767 | 87 | Richard Rowell |
 | 768 | 87 | Hasty Pop |
 | 769 | 87 | monied |
