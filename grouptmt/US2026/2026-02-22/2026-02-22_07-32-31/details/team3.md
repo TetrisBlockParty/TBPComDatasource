@@ -50,8 +50,8 @@
 | 42 | 1036 | Ant Ant |
 | 43 | 1015 | Amber Jones |
 | 44 | 998 | Liv Whetson |
-| 45 | 989 | Joey Banks |
-| 46 | 989 | Kay |
+| 45 | 989 | Kay |
+| 46 | 989 | Joey Banks |
 | 47 | 985 | Stephanie Rice |
 | 48 | 983 | Brandon Green |
 | 49 | 956 | Gracie |
@@ -326,8 +326,8 @@
 | 318 | 179 | Rachel Napper |
 | 319 | 178 | Jess Dearborn |
 | 320 | 178 | Jennifer Alvey |
-| 321 | 176 | Emma |
-| 322 | 176 | Melissa Orth Hunter |
+| 321 | 176 | Melissa Orth Hunter |
+| 322 | 176 | Emma |
 | 323 | 175 | Eileen Brady Thurber |
 | 324 | 174 | Betty Rosas |
 | 325 | 174 | Lesley Perez |
@@ -345,8 +345,8 @@
 | 337 | 165 | Rainbow77375 |
 | 338 | 165 | Kali Kelz Williams |
 | 339 | 165 | Ashley Lynn Marchese |
-| 340 | 163 | Diana Ibarra |
-| 341 | 163 | Christine Trester |
+| 340 | 163 | Christine Trester |
+| 341 | 163 | Diana Ibarra |
 | 342 | 162 | Nicole Summers-Nelson |
 | 343 | 162 | Kristin Delibac Corrigan |
 | 344 | 162 | Loopy Fallzone |
@@ -425,8 +425,8 @@
 | 417 | 129 | luluraine |
 | 418 | 129 | Stella |
 | 419 | 129 | Juliana Dottore |
-| 420 | 129 | Amanda Neal |
-| 421 | 129 | TLM |
+| 420 | 129 | TLM |
+| 421 | 129 | Amanda Neal |
 | 422 | 128 | David Kozen |
 | 423 | 127 | Jumpy Wrecker |
 | 424 | 126 | Tipsy Puzzle |

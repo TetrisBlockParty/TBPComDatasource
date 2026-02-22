@@ -127,8 +127,8 @@
 | 119 | 1257 | Eileen Hale |
 | 120 | 1256 | Bob |
 | 121 | 1252 | Katrina Williams Balmir |
-| 122 | 1248 | Howard Forest |
-| 123 | 1248 | Isabela Shaw |
+| 122 | 1248 | Isabela Shaw |
+| 123 | 1248 | Howard Forest |
 | 124 | 1242 | Altamirano Michael |
 | 125 | 1232 | Groovy Puzzle |
 | 126 | 1226 | Vo'Landa Reels |
@@ -219,8 +219,8 @@
 | 211 | 838 | Tralonda Weeks |
 | 212 | 837 | Ashley Rose Frederick |
 | 213 | 835 | Katrina Weston |
-| 214 | 834 | Nika Bee |
-| 215 | 834 | Rebecca Doughman |
+| 214 | 834 | Rebecca Doughman |
+| 215 | 834 | Nika Bee |
 | 216 | 828 | Cindy Sechler Taninecz |
 | 217 | 820 | Chirpy Staggerpiece |
 | 218 | 818 | Angela Bonquiqui Dinish |
@@ -299,8 +299,8 @@
 | 291 | 670 | Kassandra Hunt |
 | 292 | 669 | Charvi' Carter |
 | 293 | 666 | Speedy Spinblock |
-| 294 | 663 | Ashle Scranton |
-| 295 | 663 | Mandi Douglas Hilt |
+| 294 | 663 | Mandi Douglas Hilt |
+| 295 | 663 | Ashle Scranton |
 | 296 | 659 | Roseanna Peloso |
 | 297 | 658 | Erica Williams |
 | 298 | 653 | goofinoff |
@@ -317,8 +317,8 @@
 | 309 | 635 | Diana Fitzwater |
 | 310 | 631 | Marie Walker |
 | 311 | 629 | Sleepypanda67 |
-| 312 | 627 | Victoria Moore-Smith |
-| 313 | 627 | Allan Wayne Lamia |
+| 312 | 627 | Allan Wayne Lamia |
+| 313 | 627 | Victoria Moore-Smith |
 | 314 | 619 | Brandon Armstrong |
 | 315 | 619 | Jánine Riggs |
 | 316 | 617 | tejas25 |
@@ -351,8 +351,8 @@
 | 343 | 562 | Ashley Lopez |
 | 344 | 561 | Traci Johnson |
 | 345 | 557 | Block Master |
-| 346 | 554 | Santana Miyagi |
-| 347 | 554 | Rachael Senard |
+| 346 | 554 | Rachael Senard |
+| 347 | 554 | Santana Miyagi |
 | 348 | 552 | F-X |
 | 349 | 550 | Nashu |
 | 350 | 549 | Darcy Mae |
@@ -401,9 +401,9 @@
 | 393 | 502 | Sparkles |
 | 394 | 500 | Sarah Ridenour |
 | 395 | 499 | Sarah Massey |
-| 396 | 497 | BeQuo |
-| 397 | 497 | Doowop40 |
-| 398 | 497 | June E Hanson |
+| 396 | 497 | Doowop40 |
+| 397 | 497 | June E Hanson |
+| 398 | 497 | BeQuo |
 | 399 | 497 | Kimberly Randesi |
 | 400 | 496 | Blacc Blac |
 | 401 | 494 | Ginnell Browner |
@@ -453,8 +453,8 @@
 | 445 | 459 | Melissa Kay Gibson |
 | 446 | 458 | Casper The Chonk |
 | 447 | 454 | Casey Schumacher |
-| 448 | 453 | Joshua Sommerville |
-| 449 | 453 | Rhonda Petro |
+| 448 | 453 | Rhonda Petro |
+| 449 | 453 | Joshua Sommerville |
 | 450 | 451 | Funky Caster |
 | 451 | 451 | Cody Nishimura |
 | 452 | 451 | Dylan Thomason |
@@ -517,8 +517,8 @@
 | 509 | 406 | Kimberly Ann |
 | 510 | 406 | Erin StFrancis |
 | 511 | 404 | Snappy snappers |
-| 512 | 404 | Dawn L Washington-Feuquay |
-| 513 | 404 | Goofy Catcher |
+| 512 | 404 | Goofy Catcher |
+| 513 | 404 | Dawn L Washington-Feuquay |
 | 514 | 403 | Goofy Dasher |
 | 515 | 401 | Moua Ying |
 | 516 | 401 | Mighty Spinbuilder |
@@ -568,8 +568,8 @@
 | 560 | 381 | Happy Caster |
 | 561 | 379 | Mary Marie |
 | 562 | 379 | Cini |
-| 563 | 378 | Tina Marie |
-| 564 | 378 | TF Dyer |
+| 563 | 378 | TF Dyer |
+| 564 | 378 | Tina Marie |
 | 565 | 377 | Josh Dill |
 | 566 | 377 | Jason H Baker |
 | 567 | 376 | James Zaragoza |

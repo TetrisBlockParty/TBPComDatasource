@@ -33,8 +33,8 @@
 | 25 | 886 | Dustin Robert |
 | 26 | 880 | Koshin Abdirahman |
 | 27 | 879 | Heather Tushner |
-| 28 | 873 | Elizabeth Sallas |
-| 29 | 873 | Michelle Pearman |
+| 28 | 873 | Michelle Pearman |
+| 29 | 873 | Elizabeth Sallas |
 | 30 | 871 | Denny Shives |
 | 31 | 846 | Christine Marie |
 | 32 | 843 | Lucille Truesdale |
@@ -154,8 +154,8 @@
 | 146 | 230 | Autum Leigh |
 | 147 | 228 | J-Rizzle |
 | 148 | 227 | Chris Bernstein |
-| 149 | 227 | Swanky Fitline |
-| 150 | 227 | Alyssa Papen |
+| 149 | 227 | Alyssa Papen |
+| 150 | 227 | Swanky Fitline |
 | 151 | 225 | Damn Libra |
 | 152 | 224 | Matt Summer |
 | 153 | 223 | Kris Bartlett |
@@ -192,8 +192,8 @@
 | 184 | 192 | Shauna Havard |
 | 185 | 191 | Klo |
 | 186 | 190 | Cheery Risebuilder |
-| 187 | 189 | Stacey Stano |
-| 188 | 189 | Calvin Dennis |
+| 187 | 189 | Calvin Dennis |
+| 188 | 189 | Stacey Stano |
 | 189 | 188 | Andria Lynn |
 | 190 | 186 | Holly |
 | 191 | 185 | Andy Cabral |
@@ -243,8 +243,8 @@
 | 235 | 147 | Jay28 |
 | 236 | 147 | Jared Gutwein |
 | 237 | 146 | Ultramarine |
-| 238 | 145 | Mimi |
-| 239 | 145 | Sandra Safford |
+| 238 | 145 | Sandra Safford |
+| 239 | 145 | Mimi |
 | 240 | 144 | Nubian1 |
 | 241 | 143 | Lauren Lamb |
 | 242 | 143 | Dennis Bradley |
