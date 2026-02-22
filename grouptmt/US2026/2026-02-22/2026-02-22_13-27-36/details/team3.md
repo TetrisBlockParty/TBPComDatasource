@@ -104,8 +104,8 @@
 | 96 | 595 | Patricia White |
 | 97 | 591 | Jesse Olive |
 | 98 | 588 | yoyo |
-| 99 | 582 | Natasha Jones |
-| 100 | 582 | Jay Horn |
+| 99 | 582 | Jay Horn |
+| 100 | 582 | Natasha Jones |
 | 101 | 581 | Danielle Mogg |
 | 102 | 579 | Jd Morris |
 | 103 | 577 | Giddy Drop |
@@ -113,8 +113,8 @@
 | 105 | 568 | Rachael McClain Owens |
 | 106 | 566 | Dolores Falco |
 | 107 | 565 | Patty Allen |
-| 108 | 562 | Dave Herzog |
-| 109 | 562 | Louise Stacy Sisson |
+| 108 | 562 | Louise Stacy Sisson |
+| 109 | 562 | Dave Herzog |
 | 110 | 559 | Morgan Martinez |
 | 111 | 549 | Nicole Myers |
 | 112 | 533 | Alaina Lee |
@@ -165,8 +165,8 @@
 | 157 | 403 | Scott Lindsay |
 | 158 | 401 | Katie Knaus |
 | 159 | 400 | Luciana Braganca Vieira |
-| 160 | 399 | Marcie Bressler |
-| 161 | 399 | Mcathen |
+| 160 | 399 | Mcathen |
+| 161 | 399 | Marcie Bressler |
 | 162 | 397 | Annie Déè |
 | 163 | 393 | Fallorina Susana |
 | 164 | 391 | Calista Jo Dickson |
@@ -287,9 +287,9 @@
 | 279 | 224 | Quirky Dropzone |
 | 280 | 221 | Vaners |
 | 281 | 221 | France Vézina |
-| 282 | 221 | Alice |
-| 283 | 221 | Jaime Monhaut-Reed |
-| 284 | 221 | kacihall |
+| 282 | 221 | Jaime Monhaut-Reed |
+| 283 | 221 | kacihall |
+| 284 | 221 | Alice |
 | 285 | 220 | Tosha Griffey |
 | 286 | 220 | rosy |
 | 287 | 218 | Michael Lucado |
@@ -399,13 +399,13 @@
 | 391 | 159 | Joshua David Huie |
 | 392 | 158 | Willow |
 | 393 | 158 | FATTY |
-| 394 | 157 | Angel Mendez |
+| 394 | 157 | Wetwet |
 | 395 | 157 | Kevin Fountain |
 | 396 | 157 | Angel Mendez |
 | 397 | 157 | Miranda Taylor |
 | 398 | 156 | Niki Dalrymple |
 | 399 | 156 | Nichole Greene |
-| 400 | 156 | Niki Dalrymple |
+| 400 | 156 | Courtney Conboy |
 | 401 | 155 | Michael Leblanc |
 | 402 | 154 | Everret Maxine |
 | 403 | 153 | Jada Cox |

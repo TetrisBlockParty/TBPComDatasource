@@ -402,8 +402,8 @@
 | 394 | 545 | Frisky Clearpiece |
 | 395 | 544 | Deidre Shaffer |
 | 396 | 544 | Leah Keesling |
-| 397 | 543 | Julie Kresal |
-| 398 | 543 | Vanessa Moreno |
+| 397 | 543 | Vanessa Moreno |
+| 398 | 543 | Julie Kresal |
 | 399 | 542 | AISlop |
 | 400 | 541 | g |
 | 401 | 540 | Dizzy Zone |
@@ -606,9 +606,9 @@
 | 598 | 389 | Alexis Richardson |
 | 599 | 389 | Kayla |
 | 600 | 388 | Christina Ashley |
-| 601 | 387 | Tina Marie |
+| 601 | 387 | Misti Markijohn |
 | 602 | 387 | Bold Brickster |
-| 603 | 387 | Misti Markijohn |
+| 603 | 387 | Tina Marie |
 | 604 | 385 | Tansaria Couch-Butler |
 | 605 | 384 | Mary Marie |
 | 606 | 384 | Party d |
@@ -629,8 +629,8 @@
 | 621 | 376 | James Zaragoza |
 | 622 | 375 | Cecilia A Jenkins |
 | 623 | 375 | Belle |
-| 624 | 373 | Jessica Hughes |
-| 625 | 373 | Hunter Connors |
+| 624 | 373 | Hunter Connors |
+| 625 | 373 | Jessica Hughes |
 | 626 | 373 | Ashley Marie |
 | 627 | 372 | Ebony Deloach Bryant |
 | 628 | 371 | Brenda Messer |

@@ -143,8 +143,8 @@
 | 135 | 286 | shark tato |
 | 136 | 283 | Brittney Orengo |
 | 137 | 281 | Meagan Nicole |
-| 138 | 278 | Carrie Brian |
-| 139 | 278 | Desi Desporte |
+| 138 | 278 | Desi Desporte |
+| 139 | 278 | Carrie Brian |
 | 140 | 277 | Mary Ann Pabukis |
 | 141 | 275 | Dizzy Tiley |
 | 142 | 274 | Calvin Cannon |
@@ -164,16 +164,16 @@
 | 156 | 255 | Lindsay Ball |
 | 157 | 253 | Casey Grabner |
 | 158 | 250 | Matt Dell'Olio |
-| 159 | 249 | Leah Kutz Zirbel |
-| 160 | 249 | Chris Bernstein |
+| 159 | 249 | Chris Bernstein |
+| 160 | 249 | Leah Kutz Zirbel |
 | 161 | 245 | Diana Houts |
 | 162 | 244 | J-Rizzle |
 | 163 | 244 | Twisty Cascadezone |
 | 164 | 240 | Peachy Fall |
 | 165 | 236 | Swanky Fitline |
 | 166 | 232 | Crystal Nicolette Moore |
-| 167 | 230 | Autum Leigh |
-| 168 | 230 | Cursed Hag |
+| 167 | 230 | Cursed Hag |
+| 168 | 230 | Autum Leigh |
 | 169 | 227 | Alyssa Papen |
 | 170 | 224 | Matt Summer |
 | 171 | 223 | Antony Dwayne Beasley |

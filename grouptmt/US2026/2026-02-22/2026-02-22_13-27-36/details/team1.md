@@ -94,8 +94,8 @@
 | 86 | 400 | Cynthia Bradley |
 | 87 | 399 | Nerdy Linkblock |
 | 88 | 397 | Tdub |
-| 89 | 390 | Lori Bales |
-| 90 | 390 | Goose egg |
+| 89 | 390 | Goose egg |
+| 90 | 390 | Lori Bales |
 | 91 | 390 | Candy Jones |
 | 92 | 389 | Trina Gee |
 | 93 | 383 | Loony Fitzone |
@@ -135,11 +135,11 @@
 | 127 | 306 | Happy Basegrid |
 | 128 | 304 | Nicole Roseberry Weber |
 | 129 | 301 | Lehrin Maria |
-| 130 | 300 | Chelsea Dahlquist |
-| 131 | 300 | Elaine Elaine |
+| 130 | 300 | Elaine Elaine |
+| 131 | 300 | Chelsea Dahlquist |
 | 132 | 298 | Erin Hodges Plumb |
-| 133 | 290 | Death |
-| 134 | 290 | Sarah Roberts |
+| 133 | 290 | Sarah Roberts |
+| 134 | 290 | Death |
 | 135 | 289 | David Miller |
 | 136 | 285 | Ananda Mendez |
 | 137 | 284 | Emily Adelaide Wheatley |
@@ -153,11 +153,11 @@
 | 145 | 270 | Mandyy Rae |
 | 146 | 270 | Ash Galvan |
 | 147 | 268 | GATOR |
-| 148 | 265 | SkipTheSadSauce |
-| 149 | 265 | Nutty Spinblock |
-| 150 | 264 | Lexuriuos Lifestlye |
-| 151 | 264 | Jenny Gingrich Fuentes |
-| 152 | 264 | Brian Richardsson |
+| 148 | 265 | Nutty Spinblock |
+| 149 | 265 | SkipTheSadSauce |
+| 150 | 264 | Brian Richardsson |
+| 151 | 264 | Lexuriuos Lifestlye |
+| 152 | 264 | Jenny Gingrich Fuentes |
 | 153 | 263 | Angela Renea Lester |
 | 154 | 262 | Jessi Sauer |
 | 155 | 261 | Jaimie Lynn |
@@ -276,7 +276,7 @@
 | 268 | 165 | Nadine Velardo |
 | 269 | 163 | Blaire Bruckoff |
 | 270 | 163 | Tyler Whitley |
-| 271 | 163 | Blaire Bruckoff |
+| 271 | 163 | Davery Spencer Adair |
 | 272 | 161 | SavageBooty98 |
 | 273 | 160 | Tedashi |
 | 274 | 159 | Uhog SF |
@@ -333,8 +333,8 @@
 | 325 | 133 | Jasmine Riley |
 | 326 | 132 | Layzietyme |
 | 327 | 132 | John Kim |
-| 328 | 131 | Plucky Wrecker |
-| 329 | 131 | Dizzy Riseclear |
+| 328 | 131 | Dizzy Riseclear |
+| 329 | 131 | Plucky Wrecker |
 | 330 | 130 | Carl Claunch |
 | 331 | 129 | Sherri E Woods Hess |
 | 332 | 129 | Madison Wicks |
