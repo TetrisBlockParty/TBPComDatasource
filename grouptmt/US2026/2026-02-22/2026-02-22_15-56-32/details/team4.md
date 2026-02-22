@@ -17,8 +17,8 @@
 | 9 | 1794 | Clarence Patawaran |
 | 10 | 1775 | Ash |
 | 11 | 1676 | Ayanna Soto |
-| 12 | 1447 | Juggalo |
-| 13 | 1447 | GreenJeepGirl |
+| 12 | 1447 | GreenJeepGirl |
+| 13 | 1447 | Juggalo |
 | 14 | 1318 | Cassie Michaux |
 | 15 | 1289 | Roger Coulter |
 | 16 | 1132 | Jayna Anoc |
@@ -131,8 +131,8 @@
 | 123 | 344 | Lush Linkfall |
 | 124 | 343 | Latisha Davis |
 | 125 | 338 | ThaEviLJeNiuZ |
-| 126 | 332 | HastyGrabber |
-| 127 | 332 | Desi Desporte |
+| 126 | 332 | Desi Desporte |
+| 127 | 332 | HastyGrabber |
 | 128 | 330 | David Lay |
 | 129 | 330 | Twisty Clicky |
 | 130 | 329 | Amanda Pauldo-Ivy |
@@ -202,8 +202,8 @@
 | 194 | 221 | PurpleMoonMa |
 | 195 | 221 | Rheanda Weaskus |
 | 196 | 217 | Kim Hunt |
-| 197 | 216 | ZeeZee |
-| 198 | 216 | Cristy Duerksen |
+| 197 | 216 | Cristy Duerksen |
+| 198 | 216 | ZeeZee |
 | 199 | 216 | Chance Strickland |
 | 200 | 215 | Laura |
 | 201 | 215 | Ziggy |
@@ -258,8 +258,8 @@
 | 250 | 179 | Stephme310 |
 | 251 | 179 | AyeKay |
 | 252 | 175 | Lorena Guerrero-Barron |
-| 253 | 171 | June Hoffman |
-| 254 | 171 | Autumn Kumzi |
+| 253 | 171 | Autumn Kumzi |
+| 254 | 171 | June Hoffman |
 | 255 | 170 | Elie Pean |
 | 256 | 168 | 23 |
 | 257 | 167 | Cozy Balancer |

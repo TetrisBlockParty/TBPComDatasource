@@ -177,9 +177,9 @@
 | 169 | 399 | Marcie Bressler |
 | 170 | 397 | Annie Déè |
 | 171 | 393 | Fallorina Susana |
-| 172 | 391 | Sarah Cowan Burgos |
+| 172 | 391 | Araceli Parra |
 | 173 | 391 | Calista Jo Dickson |
-| 174 | 391 | Araceli Parra |
+| 174 | 391 | Sarah Cowan Burgos |
 | 175 | 390 | Hasty Cascadefit |
 | 176 | 390 | Chasity |
 | 177 | 389 | Jeni Dow |
@@ -187,8 +187,8 @@
 | 179 | 384 | Dapper Snap |
 | 180 | 382 | Scott Carleton |
 | 181 | 380 | Tasha Schriewer |
-| 182 | 378 | Nicole Flippo |
-| 183 | 378 | Chris Bell |
+| 182 | 378 | Chris Bell |
+| 183 | 378 | Nicole Flippo |
 | 184 | 376 | Loopy Clusterer |
 | 185 | 374 | Sherry Ogden |
 | 186 | 372 | Giddy Twistbuilder |
@@ -291,8 +291,8 @@
 | 283 | 241 | France Vézina |
 | 284 | 240 | Jimmie Clemons |
 | 285 | 239 | Michael Johnson |
-| 286 | 236 | Lys |
-| 287 | 236 | Jess Bissett |
+| 286 | 236 | Jess Bissett |
+| 287 | 236 | Lys |
 | 288 | 236 | Angela Scott |
 | 289 | 236 | Sunny Rotater |
 | 290 | 233 | Josh Borquez |
@@ -335,8 +335,8 @@
 | 327 | 209 | Micayah Stevens |
 | 328 | 209 | TotoCherue |
 | 329 | 209 | Philip Rock |
-| 330 | 208 | Niki Dalrymple |
-| 331 | 208 | AlsoJess |
+| 330 | 208 | AlsoJess |
+| 331 | 208 | Niki Dalrymple |
 | 332 | 207 | angieelyn |
 | 333 | 207 | Daring Builder |
 | 334 | 207 | Jessica |

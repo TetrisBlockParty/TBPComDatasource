@@ -213,9 +213,9 @@
 | 205 | 973 | Kim Dean |
 | 206 | 972 | Juliana Marques Do Nascimento Gordy |
 | 207 | 960 | Jennifer Kistner |
-| 208 | 957 | Crystal Hoffman |
+| 208 | 957 | Block Master |
 | 209 | 957 | Keri Womack |
-| 210 | 957 | Block Master |
+| 210 | 957 | Crystal Hoffman |
 | 211 | 954 | Shannon Joslin |
 | 212 | 951 | Cynthia Ward |
 | 213 | 950 | Teresa Gillmore |
@@ -294,8 +294,8 @@
 | 286 | 768 | Michele Morgan |
 | 287 | 767 | Ashley Lopez |
 | 288 | 764 | Pacynthia Williams |
-| 289 | 763 | Beth |
-| 290 | 763 | Heather Causey |
+| 289 | 763 | Heather Causey |
+| 290 | 763 | Beth |
 | 291 | 761 | Hyper Cluster |
 | 292 | 760 | Danielle Simmons |
 | 293 | 759 | Jojo Momma |
@@ -318,8 +318,8 @@
 | 310 | 715 | Stephanie Lumanlan |
 | 311 | 713 | Chelle |
 | 312 | 711 | Melissa Holsinger |
-| 313 | 704 | Shelley Thornburgh Wright |
-| 314 | 704 | Jánine Riggs |
+| 313 | 704 | Jánine Riggs |
+| 314 | 704 | Shelley Thornburgh Wright |
 | 315 | 703 | Gold Rose |
 | 316 | 700 | Rosemadder |
 | 317 | 700 | Beverly Owens |
@@ -353,16 +353,16 @@
 | 345 | 664 | Sleepypanda67 |
 | 346 | 663 | Mandi Douglas Hilt |
 | 347 | 662 | Melissa Rebbe-Lehman |
-| 348 | 661 | goofinoff |
-| 349 | 661 | BeQuo |
+| 348 | 661 | BeQuo |
+| 349 | 661 | goofinoff |
 | 350 | 659 | Draizen Montrell Thomas |
 | 351 | 651 | Unica Rector |
-| 352 | 650 | Shiny Rollzone |
-| 353 | 650 | tejas25 |
+| 352 | 650 | tejas25 |
+| 353 | 650 | Shiny Rollzone |
 | 354 | 644 | Desiree Anderson |
 | 355 | 643 | Hoppy Brickmatch |
-| 356 | 640 | Kara Gillen |
-| 357 | 640 | BYM4L |
+| 356 | 640 | BYM4L |
+| 357 | 640 | Kara Gillen |
 | 358 | 639 | Crystie Hicks |
 | 359 | 639 | Rebecca Miller |
 | 360 | 631 | Dylan Thomason |
@@ -385,8 +385,8 @@
 | 377 | 606 | Brittney Jean |
 | 378 | 603 | Cassie Maynard |
 | 379 | 602 | KhaosLord |
-| 380 | 602 | Biggest thing |
-| 381 | 602 | Christine Bollig |
+| 380 | 602 | Christine Bollig |
+| 381 | 602 | Biggest thing |
 | 382 | 601 | Vonceial Boone |
 | 383 | 601 | Steven Marshaun |
 | 384 | 595 | Nicole Cannon |
@@ -802,8 +802,8 @@
 | 794 | 310 | Cozy Drop |
 | 795 | 310 | Cheeky Brickmatch |
 | 796 | 310 | Beth Decker |
-| 797 | 309 | Daniell Martinez |
-| 798 | 309 | Byung Bae Park |
+| 797 | 309 | Byung Bae Park |
+| 798 | 309 | Daniell Martinez |
 | 799 | 308 | Hyper Riseclear |
 | 800 | 308 | Claire |
 | 801 | 308 | Kristina Marie Hanna |
@@ -815,8 +815,8 @@
 | 807 | 305 | Zany Clusterbuilder |
 | 808 | 304 | Melissa McCall |
 | 809 | 304 | NFLPITMOM |
-| 810 | 303 | Devin |
-| 811 | 303 | Amanda Schaffer |
+| 810 | 303 | Amanda Schaffer |
+| 811 | 303 | Devin |
 | 812 | 303 | Alyssia Tancredi |
 | 813 | 302 | Epic Stackbuilder |
 | 814 | 302 | Kena T. Tanner |
