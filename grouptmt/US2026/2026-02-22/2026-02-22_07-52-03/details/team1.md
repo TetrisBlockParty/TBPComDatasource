@@ -86,8 +86,8 @@
 | 78 | 400 | Cynthia Bradley |
 | 79 | 390 | Candy Jones |
 | 80 | 389 | Trina Gee |
-| 81 | 388 | Jennifer ManWarren |
-| 82 | 388 | cc |
+| 81 | 388 | cc |
+| 82 | 388 | Jennifer ManWarren |
 | 83 | 382 | Jacqueline Williams |
 | 84 | 379 | Austin James |
 | 85 | 379 | Kimmie Kimms |
@@ -129,13 +129,13 @@
 | 121 | 286 | Arianna O'Brien |
 | 122 | 286 | Ly Phethmany |
 | 123 | 285 | Ananda Mendez |
-| 124 | 284 | Emily Adelaide Wheatley |
-| 125 | 284 | Rachael |
+| 124 | 284 | Rachael |
+| 125 | 284 | Emily Adelaide Wheatley |
 | 126 | 283 | Franswa |
 | 127 | 282 | Cool Shiftsnap |
 | 128 | 282 | Timothy Dew |
-| 129 | 280 | Jennifer Hardman |
-| 130 | 280 | Sarah Roberts |
+| 129 | 280 | Sarah Roberts |
+| 130 | 280 | Jennifer Hardman |
 | 131 | 276 | Dandy Basegrid |
 | 132 | 265 | SkipTheSadSauce |
 | 133 | 264 | Lexuriuos Lifestlye |

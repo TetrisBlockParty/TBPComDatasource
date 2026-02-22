@@ -50,8 +50,8 @@
 | 42 | 1036 | Ant Ant |
 | 43 | 1015 | Amber Jones |
 | 44 | 998 | Liv Whetson |
-| 45 | 989 | Kay |
-| 46 | 989 | Joey Banks |
+| 45 | 989 | Joey Banks |
+| 46 | 989 | Kay |
 | 47 | 985 | Stephanie Rice |
 | 48 | 983 | Brandon Green |
 | 49 | 956 | Gracie |
@@ -156,8 +156,8 @@
 | 148 | 401 | Katie Knaus |
 | 149 | 400 | Luciana Braganca Vieira |
 | 150 | 399 | Marcie Bressler |
-| 151 | 399 | Jacqueline Rodriguez |
-| 152 | 399 | Mcathen |
+| 151 | 399 | Mcathen |
+| 152 | 399 | Jacqueline Rodriguez |
 | 153 | 397 | Annie Déè |
 | 154 | 393 | Fallorina Susana |
 | 155 | 392 | Tasha Gillespie |
@@ -199,8 +199,8 @@
 | 191 | 311 | Rochelle Hazelett |
 | 192 | 311 | Araceli Parra |
 | 193 | 310 | Danielle Balcom |
-| 194 | 308 | Rania Zaqout |
-| 195 | 308 | Daryn Elliott |
+| 194 | 308 | Daryn Elliott |
+| 195 | 308 | Rania Zaqout |
 | 196 | 307 | rnr junky |
 | 197 | 307 | Blocked |
 | 198 | 302 | Rebecca Bailey |
@@ -220,8 +220,8 @@
 | 212 | 283 | Cheeky Snapper |
 | 213 | 281 | Valerie Gendron |
 | 214 | 278 | Rufus Lincoln |
-| 215 | 277 | Keis |
-| 216 | 277 | Charles Perrone |
+| 215 | 277 | Charles Perrone |
+| 216 | 277 | Keis |
 | 217 | 276 | _melisa223_ |
 | 218 | 276 | Crimson |
 | 219 | 275 | Cassandra Bryant |

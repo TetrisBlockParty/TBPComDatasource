@@ -34,8 +34,8 @@
 | 26 | 886 | Dustin Robert |
 | 27 | 880 | Koshin Abdirahman |
 | 28 | 879 | Heather Tushner |
-| 29 | 873 | Elizabeth Sallas |
-| 30 | 873 | Michelle Pearman |
+| 29 | 873 | Michelle Pearman |
+| 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
 | 33 | 843 | Shelly Chandler |
@@ -48,8 +48,8 @@
 | 40 | 757 | Ancient Intuition |
 | 41 | 736 | Goatimus Lombardi |
 | 42 | 734 | BertMofo |
-| 43 | 707 | Clarence Patawaran |
-| 44 | 707 | Rachel Anne |
+| 43 | 707 | Rachel Anne |
+| 44 | 707 | Clarence Patawaran |
 | 45 | 704 | Crystal Carroll |
 | 46 | 697 | Edward White |
 | 47 | 695 | LisaJo Picken Buchanan |
@@ -79,8 +79,8 @@
 | 71 | 511 | Michelle Marie |
 | 72 | 500 | Rodney McMath Jr. |
 | 73 | 486 | Landon Keith Graffeo |
-| 74 | 483 | Carmethia Clemons Haslerig |
-| 75 | 483 | TeeJ |
+| 74 | 483 | TeeJ |
+| 75 | 483 | Carmethia Clemons Haslerig |
 | 76 | 467 | Dawn Alexander |
 | 77 | 447 | Erin Thomas |
 | 78 | 447 | Samantha Peterson |
@@ -186,9 +186,9 @@
 | 178 | 199 | Zethra Prenisha Rahming |
 | 179 | 198 | Jessica Lynn Cutlip |
 | 180 | 196 | Oscar Alberto Perez |
-| 181 | 195 | Malakai Darien Fox |
+| 181 | 195 | ZeeZee |
 | 182 | 195 | 中山成巳 |
-| 183 | 195 | ZeeZee |
+| 183 | 195 | Malakai Darien Fox |
 | 184 | 194 | Zany Twisterfit |
 | 185 | 192 | Shauna Havard |
 | 186 | 191 | Klo |
@@ -212,8 +212,8 @@
 | 204 | 167 | Cozy Balancer |
 | 205 | 166 | SammieJo Guy |
 | 206 | 166 | Megan Cutshaw |
-| 207 | 165 | Jackie Marie |
-| 208 | 165 | James Hurley Jr. |
+| 207 | 165 | James Hurley Jr. |
+| 208 | 165 | Jackie Marie |
 | 209 | 164 | 030Synner |
 | 210 | 163 | Kristina Black |
 | 211 | 162 | Joanna |
@@ -419,7 +419,7 @@
 | 411 | 88 | Chris Hartig |
 | 412 | 88 | Renee Marshall |
 | 413 | 88 | Andrew Dang |
-| 414 | 88 | Jesus Garcia |
+| 414 | 88 | Michelle Parker |
 | 415 | 87 | Martha Lucinda Bishop |
 | 416 | 86 | Destiney Carter |
 | 417 | 86 | Peppy Strike |

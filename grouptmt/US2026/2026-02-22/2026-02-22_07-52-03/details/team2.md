@@ -308,8 +308,8 @@
 | 300 | 651 | Unica Rector |
 | 301 | 650 | Shiny Rollzone |
 | 302 | 643 | Hoppy Brickmatch |
-| 303 | 641 | Angie Bolton Workman |
-| 304 | 641 | Joce Lynn |
+| 303 | 641 | Joce Lynn |
+| 304 | 641 | Angie Bolton Workman |
 | 305 | 640 | BYM4L |
 | 306 | 639 | Crystie Hicks |
 | 307 | 639 | Rebecca Miller |
@@ -321,8 +321,8 @@
 | 313 | 627 | Victoria Moore-Smith |
 | 314 | 619 | Brandon Armstrong |
 | 315 | 619 | Jánine Riggs |
-| 316 | 617 | tejas25 |
-| 317 | 617 | Leslie Ann Carter |
+| 316 | 617 | Leslie Ann Carter |
+| 317 | 617 | tejas25 |
 | 318 | 613 | Ellie Jonas |
 | 319 | 612 | Kiely Tomaskovich |
 | 320 | 611 | Julio A Laracuente |
@@ -1438,10 +1438,10 @@
 | 1430 | 151 | Keri Higuchi |
 | 1431 | 151 | Bashful |
 | 1432 | 151 | Britney Volz |
-| 1433 | 150 | Hfcbgc |
-| 1434 | 150 | Catherine Marsh Gruda |
-| 1435 | 150 | Dizzy Clicker |
-| 1436 | 150 | BEAST |
+| 1433 | 150 | Catherine Marsh Gruda |
+| 1434 | 150 | Hfcbgc |
+| 1435 | 150 | BEAST |
+| 1436 | 150 | Dizzy Clicker |
 | 1437 | 150 | Shakena Tuggle |
 | 1438 | 150 | Francine Young |
 | 1439 | 150 | Amanda |
