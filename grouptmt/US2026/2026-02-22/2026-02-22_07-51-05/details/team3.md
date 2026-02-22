@@ -156,8 +156,8 @@
 | 148 | 401 | Katie Knaus |
 | 149 | 400 | Luciana Braganca Vieira |
 | 150 | 399 | Marcie Bressler |
-| 151 | 399 | Jacqueline Rodriguez |
-| 152 | 399 | Mcathen |
+| 151 | 399 | Mcathen |
+| 152 | 399 | Jacqueline Rodriguez |
 | 153 | 397 | Annie Déè |
 | 154 | 393 | Fallorina Susana |
 | 155 | 392 | Tasha Gillespie |
@@ -199,8 +199,8 @@
 | 191 | 311 | Rochelle Hazelett |
 | 192 | 311 | Araceli Parra |
 | 193 | 310 | Danielle Balcom |
-| 194 | 308 | Rania Zaqout |
-| 195 | 308 | Daryn Elliott |
+| 194 | 308 | Daryn Elliott |
+| 195 | 308 | Rania Zaqout |
 | 196 | 307 | rnr junky |
 | 197 | 307 | Blocked |
 | 198 | 302 | Rebecca Bailey |
@@ -220,8 +220,8 @@
 | 212 | 283 | Cheeky Snapper |
 | 213 | 281 | Valerie Gendron |
 | 214 | 278 | Rufus Lincoln |
-| 215 | 277 | Keis |
-| 216 | 277 | Charles Perrone |
+| 215 | 277 | Charles Perrone |
+| 216 | 277 | Keis |
 | 217 | 276 | _melisa223_ |
 | 218 | 276 | Crimson |
 | 219 | 275 | Cassandra Bryant |
@@ -235,9 +235,9 @@
 | 227 | 263 | Brittany |
 | 228 | 263 | Angeline Joseph |
 | 229 | 262 | Joe-Maggie Mathews |
-| 230 | 261 | Tiffany Ford |
+| 230 | 261 | Tasha Wesson-Torrence |
 | 231 | 261 | Marquita Sheard |
-| 232 | 261 | Tasha Wesson-Torrence |
+| 232 | 261 | Tiffany Ford |
 | 233 | 260 | Grams |
 | 234 | 259 | Danielle Weikel |
 | 235 | 258 | Tamara Deherrera |

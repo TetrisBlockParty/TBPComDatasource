@@ -199,8 +199,8 @@
 | 191 | 921 | Morgue Chick |
 | 192 | 916 | Butta |
 | 193 | 915 | Kelly Trent |
-| 194 | 910 | Crystal Hoffman |
-| 195 | 910 | Shuany Arias |
+| 194 | 910 | Shuany Arias |
+| 195 | 910 | Crystal Hoffman |
 | 196 | 907 | Gene Mills |
 | 197 | 901 | Jennifer Peachey |
 | 198 | 890 | Kevin Walp |
@@ -209,8 +209,8 @@
 | 201 | 868 | Auntie B |
 | 202 | 867 | Michele Gabriel |
 | 203 | 865 | Dedra Steward |
-| 204 | 862 | Brittany Radaszewski |
-| 205 | 862 | Robin Kerby |
+| 204 | 862 | Robin Kerby |
+| 205 | 862 | Brittany Radaszewski |
 | 206 | 860 | April Dawn Gussler |
 | 207 | 857 | Della Hole |
 | 208 | 853 | Felicia Lynn |
@@ -375,8 +375,8 @@
 | 367 | 527 | Julie Kresal |
 | 368 | 526 | Sheronda Jackson |
 | 369 | 525 | Desiree Anderson |
-| 370 | 524 | Shaun Church |
-| 371 | 524 | Jojo Momma |
+| 370 | 524 | Jojo Momma |
+| 371 | 524 | Shaun Church |
 | 372 | 523 | AISlop |
 | 373 | 523 | Matt Johnson |
 | 374 | 522 | Lylymom |
@@ -464,8 +464,8 @@
 | 456 | 450 | Cheery Matchzone |
 | 457 | 447 | Jessica S Flecha |
 | 458 | 447 | Brandy Andre |
-| 459 | 447 | Bri Lynn |
-| 460 | 447 | Heather Schelkopf |
+| 459 | 447 | Heather Schelkopf |
+| 460 | 447 | Bri Lynn |
 | 461 | 445 | Mar Q Thomas |
 | 462 | 444 | Ryan Meilleur |
 | 463 | 442 | Leah |
@@ -1438,8 +1438,8 @@
 | 1430 | 151 | Eve Marie |
 | 1431 | 151 | Bashful |
 | 1432 | 151 | Britney Volz |
-| 1433 | 150 | Hfcbgc |
-| 1434 | 150 | Catherine Marsh Gruda |
+| 1433 | 150 | Catherine Marsh Gruda |
+| 1434 | 150 | Hfcbgc |
 | 1435 | 150 | Dizzy Clicker |
 | 1436 | 150 | BEAST |
 | 1437 | 150 | Shakena Tuggle |

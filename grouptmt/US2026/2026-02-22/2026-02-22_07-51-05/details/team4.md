@@ -79,8 +79,8 @@
 | 71 | 511 | Michelle Marie |
 | 72 | 500 | Rodney McMath Jr. |
 | 73 | 486 | Landon Keith Graffeo |
-| 74 | 483 | Carmethia Clemons Haslerig |
-| 75 | 483 | TeeJ |
+| 74 | 483 | TeeJ |
+| 75 | 483 | Carmethia Clemons Haslerig |
 | 76 | 467 | Dawn Alexander |
 | 77 | 447 | Samantha Peterson |
 | 78 | 447 | Erin Thomas |
@@ -160,8 +160,8 @@
 | 152 | 227 | Chris Bernstein |
 | 153 | 225 | Damn Libra |
 | 154 | 224 | Matt Summer |
-| 155 | 223 | Antony Dwayne Beasley |
-| 156 | 223 | Kris Bartlett |
+| 155 | 223 | Kris Bartlett |
+| 156 | 223 | Antony Dwayne Beasley |
 | 157 | 222 | TheNeesh50 |
 | 158 | 222 | Joeliecea Cobb |
 | 159 | 221 | PurpleMoonMa |
@@ -246,8 +246,8 @@
 | 238 | 145 | Sandra Safford |
 | 239 | 145 | Mimi |
 | 240 | 144 | Nubian1 |
-| 241 | 143 | Dennis Bradley |
-| 242 | 143 | Zesty Twistbuilder |
+| 241 | 143 | Zesty Twistbuilder |
+| 242 | 143 | Dennis Bradley |
 | 243 | 143 | Lauren Lamb |
 | 244 | 142 | Angela Geist Jusinski |
 | 245 | 142 | Chaz |
