@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Shelly Chandler |
-| 34 | 843 | Lucille Truesdale |
+| 33 | 843 | Lucille Truesdale |
+| 34 | 843 | Shelly Chandler |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -136,10 +136,10 @@
 | 128 | 286 | shark tato |
 | 129 | 283 | Brittney Orengo |
 | 130 | 281 | Meagan Nicole |
-| 131 | 278 | Desi Desporte |
-| 132 | 278 | Carrie Brian |
-| 133 | 277 | Mary Ann Pabukis |
-| 134 | 277 | Scott Jameson |
+| 131 | 278 | Carrie Brian |
+| 132 | 278 | Desi Desporte |
+| 133 | 277 | Scott Jameson |
+| 134 | 277 | Mary Ann Pabukis |
 | 135 | 275 | Dizzy Tiley |
 | 136 | 274 | Calvin Cannon |
 | 137 | 272 | Keshia Lyons |
@@ -155,8 +155,8 @@
 | 147 | 253 | Jeff Brian Gates |
 | 148 | 249 | Leah Kutz Zirbel |
 | 149 | 245 | Diana Houts |
-| 150 | 244 | Twisty Cascadezone |
-| 151 | 244 | Jessica Lynn Cutlip |
+| 150 | 244 | Jessica Lynn Cutlip |
+| 151 | 244 | Twisty Cascadezone |
 | 152 | 240 | Peachy Fall |
 | 153 | 237 | Chris Bernstein |
 | 154 | 232 | Crystal Nicolette Moore |

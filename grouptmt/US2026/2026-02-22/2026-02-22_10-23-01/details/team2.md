@@ -500,10 +500,10 @@
 | 492 | 438 | Johnny Yeates |
 | 493 | 438 | Kristi Biddinger |
 | 494 | 437 | Bubbly Snapfit |
-| 495 | 436 | Brenda Pierpoint |
-| 496 | 436 | Niceday |
-| 497 | 435 | James Louie |
-| 498 | 435 | Regina Young |
+| 495 | 436 | Niceday |
+| 496 | 436 | Brenda Pierpoint |
+| 497 | 435 | Regina Young |
+| 498 | 435 | James Louie |
 | 499 | 433 | KayLynn Ogden McClelland |
 | 500 | 432 | Mikayala Szaz |
 | 501 | 432 | Steve Man |
@@ -1071,9 +1071,9 @@
 | 1063 | 213 | Hannah Leigh Pelofsky |
 | 1064 | 213 | Cassi Owens |
 | 1065 | 212 | Izzy Rockford |
-| 1066 | 212 | Sarah Dean |
-| 1067 | 212 | Denelle Wendt-Ramalho |
-| 1068 | 212 | JP Parks |
+| 1066 | 212 | Denelle Wendt-Ramalho |
+| 1067 | 212 | JP Parks |
+| 1068 | 212 | Sarah Dean |
 | 1069 | 212 | Crafty Brickline |
 | 1070 | 212 | Sassy Linkroll |
 | 1071 | 211 | Scherrie Smith |
@@ -1119,8 +1119,8 @@
 | 1111 | 205 | Shay Moore |
 | 1112 | 205 | Tiffney Wroten |
 | 1113 | 205 | Desiree Hargrove Moore |
-| 1114 | 204 | Ali Gralski |
-| 1115 | 204 | Lakeela Wise |
+| 1114 | 204 | Lakeela Wise |
+| 1115 | 204 | Ali Gralski |
 | 1116 | 204 | Edralin Custodio |
 | 1117 | 203 | Andre Love |
 | 1118 | 202 | Joshua Yonker |
@@ -1179,8 +1179,8 @@
 | 1171 | 193 | Lynn Johnson |
 | 1172 | 192 | Nicole Sanqui |
 | 1173 | 192 | Leroy Jenkins |
-| 1174 | 192 | Dawn Woosley Bowes |
-| 1175 | 192 | Joy Marie |
+| 1174 | 192 | Joy Marie |
+| 1175 | 192 | Dawn Woosley Bowes |
 | 1176 | 192 | Donna M Carter |
 | 1177 | 191 | Netty |
 | 1178 | 191 | Samuel Labruno |
@@ -1332,8 +1332,8 @@
 | 1324 | 171 | Abby Jensen |
 | 1325 | 171 | Kimberly Bickling |
 | 1326 | 171 | Chris Emanuel |
-| 1327 | 171 | Lydia Greenman |
-| 1328 | 171 | Ashley Cooper Tharin |
+| 1327 | 171 | Ashley Cooper Tharin |
+| 1328 | 171 | Lydia Greenman |
 | 1329 | 171 | Catherine Varea |
 | 1330 | 170 | Stormy McCormack |
 | 1331 | 170 | Orla Aherne |

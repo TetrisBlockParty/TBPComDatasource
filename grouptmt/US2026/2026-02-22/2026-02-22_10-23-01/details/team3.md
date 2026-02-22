@@ -174,9 +174,9 @@
 | 166 | 376 | Loopy Clusterer |
 | 167 | 374 | Sherry Ogden |
 | 168 | 371 | Michael Nowogorski |
-| 169 | 370 | Danielle Allison |
-| 170 | 370 | Santeria Trece Candles |
-| 171 | 370 | Logan Naccarato |
+| 169 | 370 | Logan Naccarato |
+| 170 | 370 | Danielle Allison |
+| 171 | 370 | Santeria Trece Candles |
 | 172 | 368 | Stephanie Woods |
 | 173 | 366 | Adrian Marcel Pate |
 | 174 | 362 | Darlene McMillan |
@@ -204,8 +204,8 @@
 | 196 | 320 | Or Reznitsky |
 | 197 | 317 | Ashley Tookes |
 | 198 | 315 | Kammy Hill |
-| 199 | 311 | Rochelle Hazelett |
-| 200 | 311 | Araceli Parra |
+| 199 | 311 | Araceli Parra |
+| 200 | 311 | Rochelle Hazelett |
 | 201 | 310 | Danielle Balcom |
 | 202 | 308 | Rania Zaqout |
 | 203 | 308 | Daryn Elliott |
@@ -269,8 +269,8 @@
 | 261 | 240 | Jimmie Clemons |
 | 262 | 238 | LaTanya GeminiondaRise Johnson |
 | 263 | 236 | Jess Bissett |
-| 264 | 234 | Connie Mohler-Fair |
-| 265 | 234 | Nikki Pags |
+| 264 | 234 | Nikki Pags |
+| 265 | 234 | Connie Mohler-Fair |
 | 266 | 233 | Josh Borquez |
 | 267 | 233 | Ray Lader |
 | 268 | 232 | Brenda Schmid Wood |
@@ -286,8 +286,8 @@
 | 278 | 220 | rosy |
 | 279 | 220 | Tosha Griffey |
 | 280 | 218 | Michael Lucado |
-| 281 | 216 | Twisty Brick LT |
-| 282 | 216 | Cheryl Hinch Tenbrook |
+| 281 | 216 | Cheryl Hinch Tenbrook |
+| 282 | 216 | Twisty Brick LT |
 | 283 | 215 | IamJust Neyamijah Washington Sr. |
 | 284 | 214 | Angela Scott |
 | 285 | 214 | Amy Fuller Heaton |
@@ -313,11 +313,11 @@
 | 305 | 202 | Staci George Fitzsimmons |
 | 306 | 202 | Tipsy Zonebuilder |
 | 307 | 201 | Alexmac |
-| 308 | 201 | Hyper Matchzone |
-| 309 | 201 | Daring Builder |
+| 308 | 201 | Daring Builder |
+| 309 | 201 | Hyper Matchzone |
 | 310 | 200 | Saucy Buildout |
-| 311 | 200 | glichmod |
-| 312 | 200 | Sharisse Baltimore |
+| 311 | 200 | Sharisse Baltimore |
+| 312 | 200 | glichmod |
 | 313 | 199 | Mariah Williams |
 | 314 | 198 | kacihall |
 | 315 | 195 | Nicha Hooker |
@@ -337,8 +337,8 @@
 | 329 | 181 | Denita Mungro |
 | 330 | 180 | Beth Ingham |
 | 331 | 179 | Christian Werndl |
-| 332 | 179 | DanceLuvLaugh |
-| 333 | 179 | Rachel Napper |
+| 332 | 179 | Rachel Napper |
+| 333 | 179 | DanceLuvLaugh |
 | 334 | 178 | Jess Dearborn |
 | 335 | 178 | Jennifer Alvey |
 | 336 | 176 | Melissa Orth Hunter |
@@ -383,8 +383,8 @@
 | 375 | 159 | Salena Whitlock |
 | 376 | 158 | Willow |
 | 377 | 157 | Katrina E Jelks |
-| 378 | 157 | Angel Mendez |
-| 379 | 157 | Wetwet |
+| 378 | 157 | Wetwet |
+| 379 | 157 | Angel Mendez |
 | 380 | 156 | Nichole Greene |
 | 381 | 155 | Michell Hendershott Jackson |
 | 382 | 155 | Michael Leblanc |
