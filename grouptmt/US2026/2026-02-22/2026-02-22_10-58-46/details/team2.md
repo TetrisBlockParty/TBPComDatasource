@@ -135,8 +135,8 @@
 | 127 | 1273 | Cool Rollpiece |
 | 128 | 1257 | Eileen Hale |
 | 129 | 1252 | Katrina Williams Balmir |
-| 130 | 1248 | Howard Forest |
-| 131 | 1248 | Isabela Shaw |
+| 130 | 1248 | Isabela Shaw |
+| 131 | 1248 | Howard Forest |
 | 132 | 1242 | Altamirano Michael |
 | 133 | 1232 | Groovy Puzzle |
 | 134 | 1226 | Vo'Landa Reels |
@@ -250,9 +250,9 @@
 | 242 | 800 | Danielle Johnson-Chandler |
 | 243 | 787 | Laura McCarthey |
 | 244 | 778 | Lisa Ongtowasruk |
-| 245 | 777 | Jessicah Myers |
-| 246 | 777 | Barbra Miller |
-| 247 | 777 | Tesha Oldaker |
+| 245 | 777 | Barbra Miller |
+| 246 | 777 | Tesha Oldaker |
+| 247 | 777 | Jessicah Myers |
 | 248 | 777 | Eric Carlson |
 | 249 | 772 | William Hunt |
 | 250 | 772 | Sam Joe |
@@ -328,8 +328,8 @@
 | 320 | 650 | Shiny Rollzone |
 | 321 | 645 | tejas25 |
 | 322 | 643 | Hoppy Brickmatch |
-| 323 | 641 | Joce Lynn |
-| 324 | 641 | Angie Bolton Workman |
+| 323 | 641 | Angie Bolton Workman |
+| 324 | 641 | Joce Lynn |
 | 325 | 640 | BYM4L |
 | 326 | 639 | Crystie Hicks |
 | 327 | 639 | Rebecca Miller |
@@ -339,12 +339,12 @@
 | 331 | 627 | Victoria Moore-Smith |
 | 332 | 620 | Brandon Armstrong |
 | 333 | 617 | Leslie Ann Carter |
-| 334 | 613 | Caitlyn Blackwell |
-| 335 | 613 | Breezy Filler |
+| 334 | 613 | Breezy Filler |
+| 335 | 613 | Caitlyn Blackwell |
 | 336 | 613 | Ellie Jonas |
 | 337 | 611 | Em Chen |
-| 338 | 611 | Carl Bradshaw |
-| 339 | 611 | Julio A Laracuente |
+| 338 | 611 | Julio A Laracuente |
+| 339 | 611 | Carl Bradshaw |
 | 340 | 605 | Jelly |
 | 341 | 603 | Cassie Maynard |
 | 342 | 602 | KhaosLord |
@@ -520,8 +520,8 @@
 | 512 | 429 | Tabs Reichert |
 | 513 | 428 | Arkei Luster |
 | 514 | 428 | Shyenn Gadsby |
-| 515 | 427 | Quinn |
-| 516 | 427 | Destiny Cozier |
+| 515 | 427 | Destiny Cozier |
+| 516 | 427 | Quinn |
 | 517 | 427 | Aimee Campbell |
 | 518 | 427 | Kori Beth Babb |
 | 519 | 426 | Ashley Dow |
@@ -531,8 +531,8 @@
 | 523 | 424 | Mia Muse Best |
 | 524 | 423 | Sam |
 | 525 | 422 | coleksquad |
-| 526 | 421 | Vonceial Boone |
-| 527 | 421 | SwampRebel |
+| 526 | 421 | SwampRebel |
+| 527 | 421 | Vonceial Boone |
 | 528 | 420 | LaWanda Powell |
 | 529 | 419 | Pocho Zavala |
 | 530 | 419 | Josh Dill |
@@ -543,8 +543,8 @@
 | 535 | 416 | Ricky Fortune |
 | 536 | 414 | John |
 | 537 | 414 | Sabrina Burton |
-| 538 | 413 | Lauren Fitzgerald Thomas |
-| 539 | 413 | Biggest thing |
+| 538 | 413 | Biggest thing |
+| 539 | 413 | Lauren Fitzgerald Thomas |
 | 540 | 413 | Fancy Twister |
 | 541 | 413 | Juanita Lyons |
 | 542 | 412 | Jason H Baker |
@@ -552,8 +552,8 @@
 | 544 | 411 | Mighty Spinbuilder |
 | 545 | 410 | Nicole Cannon |
 | 546 | 408 | Brandon Jones |
-| 547 | 408 | Abimbola Bimbo |
-| 548 | 408 | Stefanie Zonzini-Gagliardi |
+| 547 | 408 | Stefanie Zonzini-Gagliardi |
+| 548 | 408 | Abimbola Bimbo |
 | 549 | 407 | Tipsy Filler |
 | 550 | 406 | Erin StFrancis |
 | 551 | 406 | Kimberly Ann |
@@ -646,8 +646,8 @@
 | 638 | 361 | Lewis Sturgeon |
 | 639 | 360 | Jroc |
 | 640 | 359 | Cheyenne Donovan |
-| 641 | 358 | Alyssaaelena |
-| 642 | 358 | Sydney Busse |
+| 641 | 358 | Sydney Busse |
+| 642 | 358 | Alyssaaelena |
 | 643 | 357 | Shannon Byrd |
 | 644 | 357 | Tristan Szolek |
 | 645 | 355 | Amanda Perez |
@@ -716,8 +716,8 @@
 | 708 | 320 | Mary Boss |
 | 709 | 319 | RetroLemur |
 | 710 | 318 | Jennifer Mahon |
-| 711 | 317 | Zombi3 |
-| 712 | 317 | Ashlyn Berner |
+| 711 | 317 | Ashlyn Berner |
+| 712 | 317 | Zombi3 |
 | 713 | 317 | Aireka Roman |
 | 714 | 316 | Jenn Marie |
 | 715 | 316 | Epic Spinfit |
@@ -730,8 +730,8 @@
 | 722 | 312 | Sassy Linkbuilder |
 | 723 | 312 | Heather Renee Jeffers |
 | 724 | 311 | Megan Phillips |
-| 725 | 310 | Wendy Ducheney |
-| 726 | 310 | Cheeky Brickmatch |
+| 725 | 310 | Cheeky Brickmatch |
+| 726 | 310 | Wendy Ducheney |
 | 727 | 310 | Beth Decker |
 | 728 | 310 | Audra Williams |
 | 729 | 309 | Byung Bae Park |
@@ -744,8 +744,8 @@
 | 736 | 307 | stacey |
 | 737 | 306 | Kiorah Blaze |
 | 738 | 305 | Zany Clusterbuilder |
-| 739 | 305 | Narutofreak13 |
-| 740 | 305 | MamaBear11 |
+| 739 | 305 | MamaBear11 |
+| 740 | 305 | Narutofreak13 |
 | 741 | 304 | NFLPITMOM |
 | 742 | 304 | Melissa McCall |
 | 743 | 304 | James Smith |
@@ -792,13 +792,13 @@
 | 784 | 287 | Epic Stackzone |
 | 785 | 286 | Kelsey Sullivan |
 | 786 | 285 | Kimberly Mitchell |
-| 787 | 285 | Epic Stackbuilder |
-| 788 | 285 | Court |
+| 787 | 285 | Court |
+| 788 | 285 | Epic Stackbuilder |
 | 789 | 284 | Hillary Franklin |
 | 790 | 282 | Nutty Slice |
 | 791 | 281 | Anthony |
-| 792 | 280 | Danielle DeLozier Plesec |
-| 793 | 280 | Reece Smith |
+| 792 | 280 | Reece Smith |
+| 793 | 280 | Danielle DeLozier Plesec |
 | 794 | 280 | Luke Califf |
 | 795 | 280 | Belle |
 | 796 | 280 | Sandra Link-Gable |
@@ -836,8 +836,8 @@
 | 828 | 272 | Alexandrea |
 | 829 | 271 | Amber N Koepp |
 | 830 | 271 | Pam Doughty |
-| 831 | 271 | Shalisa Hill |
-| 832 | 271 | Beverly Hodge |
+| 831 | 271 | Beverly Hodge |
+| 832 | 271 | Shalisa Hill |
 | 833 | 270 | BK Queen |
 | 834 | 270 | Lazy Builderfit |
 | 835 | 270 | Nat |
@@ -971,8 +971,8 @@
 | 963 | 237 | Jay Levy |
 | 964 | 237 | Jodi Mitnick |
 | 965 | 236 | Meli |
-| 966 | 235 | Angelica |
-| 967 | 235 | B-rad B-rad |
+| 966 | 235 | B-rad B-rad |
+| 967 | 235 | Angelica |
 | 968 | 235 | Prince Ajesh |
 | 969 | 235 | Shantel Kelley |
 | 970 | 235 | Loopy Shatterfit |
@@ -1013,8 +1013,8 @@
 | 1005 | 227 | Artemus Darnell |
 | 1006 | 227 | Sedo |
 | 1007 | 227 | Toni Whipple |
-| 1008 | 226 | Anthony D Gritz Jr |
-| 1009 | 226 | Kourtney Bradley |
+| 1008 | 226 | Kourtney Bradley |
+| 1009 | 226 | Anthony D Gritz Jr |
 | 1010 | 225 | Theresa Ring |
 | 1011 | 225 | Caitlin Johnson |
 | 1012 | 225 | Samantha Morgan |
@@ -1039,8 +1039,8 @@
 | 1031 | 223 | Laura Morrison |
 | 1032 | 222 | Angel Moorhead |
 | 1033 | 222 | Lovely |
-| 1034 | 222 | Wacky Edgefit |
-| 1035 | 222 | Crystal Herndon |
+| 1034 | 222 | Crystal Herndon |
+| 1035 | 222 | Wacky Edgefit |
 | 1036 | 222 | Daring Lift |
 | 1037 | 220 | Amy Reynolds |
 | 1038 | 220 | Sandra McNab |
@@ -1185,8 +1185,8 @@
 | 1177 | 192 | Dawn Woosley Bowes |
 | 1178 | 192 | Joy Marie |
 | 1179 | 192 | Donna M Carter |
-| 1180 | 192 | Leroy Jenkins |
-| 1181 | 192 | Nicole Sanqui |
+| 1180 | 192 | Nicole Sanqui |
+| 1181 | 192 | Leroy Jenkins |
 | 1182 | 191 | Samuel Labruno |
 | 1183 | 191 | Netty |
 | 1184 | 191 | Cherry |
@@ -1935,8 +1935,8 @@
 | 1927 | 120 | Robert Smith |
 | 1928 | 120 | Kim Stevens |
 | 1929 | 119 | Terry Paulson |
-| 1930 | 119 | Barb |
-| 1931 | 119 | Erica Messina |
+| 1930 | 119 | Erica Messina |
+| 1931 | 119 | Barb |
 | 1932 | 119 | Ashley Wise |
 | 1933 | 119 | Diane Louise |
 | 1934 | 119 | Kara Campbell |

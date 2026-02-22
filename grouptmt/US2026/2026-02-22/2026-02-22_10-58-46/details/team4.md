@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Shelly Chandler |
-| 34 | 843 | Lucille Truesdale |
+| 33 | 843 | Lucille Truesdale |
+| 34 | 843 | Shelly Chandler |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -62,8 +62,8 @@
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Dustee Craddock-Harrison |
-| 58 | 636 | Kimyatta Cavin |
+| 57 | 636 | Kimyatta Cavin |
+| 58 | 636 | Dustee Craddock-Harrison |
 | 59 | 623 | Robin Getchel |
 | 60 | 599 | Brittney Griggs |
 | 61 | 593 | Lisa Davis |
@@ -139,8 +139,8 @@
 | 131 | 281 | Meagan Nicole |
 | 132 | 278 | Desi Desporte |
 | 133 | 278 | Carrie Brian |
-| 134 | 277 | Scott Jameson |
-| 135 | 277 | Mary Ann Pabukis |
+| 134 | 277 | Mary Ann Pabukis |
+| 135 | 277 | Scott Jameson |
 | 136 | 275 | Dizzy Tiley |
 | 137 | 274 | Calvin Cannon |
 | 138 | 272 | Keshia Lyons |
@@ -201,8 +201,8 @@
 | 193 | 195 | ZeeZee |
 | 194 | 194 | Zany Twisterfit |
 | 195 | 192 | Shauna Havard |
-| 196 | 191 | Klo |
-| 197 | 191 | Sam Bishop |
+| 196 | 191 | Sam Bishop |
+| 197 | 191 | Klo |
 | 198 | 190 | Alan George LaRage |
 | 199 | 190 | Cheery Risebuilder |
 | 200 | 189 | Stacey Stano |
@@ -235,8 +235,8 @@
 | 227 | 162 | Joanna |
 | 228 | 162 | John Brunetti |
 | 229 | 161 | Jenny Wells-Oakley |
-| 230 | 160 | Brittany Marsh |
-| 231 | 160 | Laura Hosford |
+| 230 | 160 | Laura Hosford |
+| 231 | 160 | Brittany Marsh |
 | 232 | 159 | Marcus Todd |
 | 233 | 158 | Chair |
 | 234 | 158 | Avy Absol |
