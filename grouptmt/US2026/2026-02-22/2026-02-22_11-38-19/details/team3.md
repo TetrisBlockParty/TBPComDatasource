@@ -63,8 +63,8 @@
 | 55 | 909 | Jennifer |
 | 56 | 908 | Alanna Rogers |
 | 57 | 903 | Sarah Fehring |
-| 58 | 895 | Amanda L Baker |
-| 59 | 895 | Shonna Roberts |
+| 58 | 895 | Shonna Roberts |
+| 59 | 895 | Amanda L Baker |
 | 60 | 886 | Khristen AC |
 | 61 | 882 | Susan Valentino |
 | 62 | 874 | Jessica Pineda-Lopez |
@@ -225,16 +225,16 @@
 | 217 | 295 | Marci Mize Fandrich |
 | 218 | 291 | Kristal C Lee |
 | 219 | 289 | DidIdothat |
-| 220 | 289 | Duane Bright |
-| 221 | 289 | Hoppy Buildout |
+| 220 | 289 | Hoppy Buildout |
+| 221 | 289 | Duane Bright |
 | 222 | 286 | Cynthia Herrmann Egland |
 | 223 | 284 | Denise Nardoni |
 | 224 | 283 | Charles Perrone |
 | 225 | 283 | Cheeky Snapper |
 | 226 | 281 | Betty Rosas |
 | 227 | 281 | Valerie Gendron |
-| 228 | 278 | Sabrina Hardrick |
-| 229 | 278 | Rufus Lincoln |
+| 228 | 278 | Rufus Lincoln |
+| 229 | 278 | Sabrina Hardrick |
 | 230 | 276 | Crimson |
 | 231 | 276 | _melisa223_ |
 | 232 | 275 | Cassandra Bryant |
@@ -331,8 +331,8 @@
 | 323 | 191 | Philip Rock |
 | 324 | 189 | Katie Leigh Blankenship |
 | 325 | 189 | France Vézina |
-| 326 | 188 | Loopy Fallmatch |
-| 327 | 188 | Romeo |
+| 326 | 188 | Romeo |
+| 327 | 188 | Loopy Fallmatch |
 | 328 | 186 | Bryan Byrd |
 | 329 | 186 | Sameerah Smith |
 | 330 | 184 | Troy |
@@ -365,12 +365,12 @@
 | 357 | 166 | Snarky McFace |
 | 358 | 166 | Angella Lyons |
 | 359 | 165 | Kali Kelz Williams |
-| 360 | 165 | Ashley Lynn Marchese |
-| 361 | 165 | Rainbow77375 |
+| 360 | 165 | Rainbow77375 |
+| 361 | 165 | Ashley Lynn Marchese |
 | 362 | 164 | Ashley Rufus Bythcez |
 | 363 | 164 | momo |
-| 364 | 163 | Christine Trester |
-| 365 | 163 | Diana Ibarra |
+| 364 | 163 | Diana Ibarra |
+| 365 | 163 | Christine Trester |
 | 366 | 163 | Ava Petito |
 | 367 | 162 | Loopy Fallzone |
 | 368 | 162 | Eric Caccavale |

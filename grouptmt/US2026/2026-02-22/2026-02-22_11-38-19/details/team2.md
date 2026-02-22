@@ -730,8 +730,8 @@
 | 722 | 316 | Epic Spinfit |
 | 723 | 316 | Johanna Massaro |
 | 724 | 314 | Amanda West |
-| 725 | 313 | Natasha Edmonds |
-| 726 | 313 | Marina Linda |
+| 725 | 313 | Marina Linda |
+| 726 | 313 | Natasha Edmonds |
 | 727 | 313 | Snippy Block |
 | 728 | 312 | Heather Renee Jeffers |
 | 729 | 312 | Sassy Linkbuilder |
@@ -1120,7 +1120,7 @@
 | 1112 | 206 | Seth Wrieden |
 | 1113 | 206 | Allyson Marra |
 | 1114 | 206 | Tristan Lamothe |
-| 1115 | 206 | Zach Doiron |
+| 1115 | 206 | Gema Garcia |
 | 1116 | 206 | Antonia Pike |
 | 1117 | 205 | SafetyEyes16 |
 | 1118 | 205 | Desiree Hargrove Moore |

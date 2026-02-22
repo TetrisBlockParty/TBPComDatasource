@@ -56,8 +56,8 @@
 | 48 | 697 | Edward White |
 | 49 | 695 | LisaJo Picken Buchanan |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Rebecca Moulton Pinciaro |
-| 52 | 659 | Jonathan Kimbrough |
+| 51 | 659 | Jonathan Kimbrough |
+| 52 | 659 | Rebecca Moulton Pinciaro |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
@@ -83,8 +83,8 @@
 | 75 | 512 | Casey Jeffcoat |
 | 76 | 511 | Michelle Marie |
 | 77 | 500 | Rodney McMath Jr. |
-| 78 | 486 | Carmethia Clemons Haslerig |
-| 79 | 486 | Landon Keith Graffeo |
+| 78 | 486 | Landon Keith Graffeo |
+| 79 | 486 | Carmethia Clemons Haslerig |
 | 80 | 485 | TeeJ |
 | 81 | 468 | Shane Kalamata Platoon |
 | 82 | 447 | Samantha Peterson |
@@ -128,8 +128,8 @@
 | 120 | 303 | Lauren Scott |
 | 121 | 300 | Jason Hart |
 | 122 | 298 | Lucas J Sutton |
-| 123 | 296 | HastyGrabber |
-| 124 | 296 | Justin Hannigan |
+| 123 | 296 | Justin Hannigan |
+| 124 | 296 | HastyGrabber |
 | 125 | 294 | Kesha Brady |
 | 126 | 290 | 🥔🥔 Spudz |
 | 127 | 289 | Jessica Lynn Cutlip |
@@ -162,17 +162,17 @@
 | 154 | 234 | Joeliecea Cobb |
 | 155 | 233 | Twisty Clicky |
 | 156 | 232 | Crystal Nicolette Moore |
-| 157 | 230 | Cursed Hag |
-| 158 | 230 | Autum Leigh |
+| 157 | 230 | Autum Leigh |
+| 158 | 230 | Cursed Hag |
 | 159 | 228 | J-Rizzle |
-| 160 | 227 | Swanky Fitline |
-| 161 | 227 | Alyssa Papen |
+| 160 | 227 | Alyssa Papen |
+| 161 | 227 | Swanky Fitline |
 | 162 | 225 | Damn Libra |
 | 163 | 224 | Matt Summer |
 | 164 | 223 | Kris Bartlett |
 | 165 | 223 | Antony Dwayne Beasley |
-| 166 | 221 | PurpleMoonMa |
-| 167 | 221 | Rheanda Weaskus |
+| 166 | 221 | Rheanda Weaskus |
+| 167 | 221 | PurpleMoonMa |
 | 168 | 220 | Matt Dell'Olio |
 | 169 | 218 | Casey Grabner |
 | 170 | 217 | Chaz Duncan |
@@ -222,8 +222,8 @@
 | 214 | 179 | TinyLegoRose |
 | 215 | 179 | Laura Hosford |
 | 216 | 175 | Lorena Guerrero-Barron |
-| 217 | 174 | Rio Rocha |
-| 218 | 174 | JPW |
+| 217 | 174 | JPW |
+| 218 | 174 | Rio Rocha |
 | 219 | 173 | Rebecca Morris |
 | 220 | 172 | Gilles Lanctot |
 | 221 | 171 | Autumn Kumzi |
@@ -234,8 +234,8 @@
 | 226 | 166 | SammieJo Guy |
 | 227 | 166 | Juls |
 | 228 | 165 | Jackie Marie |
-| 229 | 165 | Zappy Buildgrid |
-| 230 | 165 | James Hurley Jr. |
+| 229 | 165 | James Hurley Jr. |
+| 230 | 165 | Zappy Buildgrid |
 | 231 | 164 | 030Synner |
 | 232 | 163 | Kristina Black |
 | 233 | 162 | John Brunetti |
@@ -426,8 +426,8 @@
 | 418 | 97 | Cool Gridzone |
 | 419 | 97 | Brandon Crabbs |
 | 420 | 96 | Rebecca Blake |
-| 421 | 95 | Chirpy Slammer |
-| 422 | 95 | Jobadia Steelerton |
+| 421 | 95 | Jobadia Steelerton |
+| 422 | 95 | Chirpy Slammer |
 | 423 | 95 | RedBoots82 |
 | 424 | 94 | Jeff Roberts |
 | 425 | 94 | Ahleek Mitchell |
