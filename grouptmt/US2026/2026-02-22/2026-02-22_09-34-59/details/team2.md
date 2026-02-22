@@ -285,8 +285,8 @@
 | 277 | 701 | Hyper Cluster |
 | 278 | 700 | Hong Tang |
 | 279 | 700 | Vincent Petrella |
-| 280 | 700 | Rosemadder |
-| 281 | 700 | Beverly Owens |
+| 280 | 700 | Beverly Owens |
+| 281 | 700 | Rosemadder |
 | 282 | 698 | Mighty Shatterfit |
 | 283 | 697 | Dreamy Blast |
 | 284 | 695 | Lakeysha Dortch |
@@ -330,8 +330,8 @@
 | 322 | 639 | Rebecca Miller |
 | 323 | 635 | Diana Fitzwater |
 | 324 | 631 | Marie Walker |
-| 325 | 627 | Victoria Moore-Smith |
-| 326 | 627 | Allan Wayne Lamia |
+| 325 | 627 | Allan Wayne Lamia |
+| 326 | 627 | Victoria Moore-Smith |
 | 327 | 620 | Brandon Armstrong |
 | 328 | 619 | Jánine Riggs |
 | 329 | 617 | Leslie Ann Carter |
@@ -433,8 +433,8 @@
 | 425 | 489 | Cassie Mercer |
 | 426 | 489 | Osun Anuket Esu |
 | 427 | 488 | Venita Ray |
-| 428 | 487 | Maya June |
-| 429 | 487 | MrsCandyfine As Wine Truss |
+| 428 | 487 | MrsCandyfine As Wine Truss |
+| 429 | 487 | Maya June |
 | 430 | 486 | Caitlin Schmid |
 | 431 | 485 | Ann Matzkanin |
 | 432 | 485 | Autumn Schaeffer |
@@ -526,18 +526,18 @@
 | 518 | 420 | LaWanda Powell |
 | 519 | 419 | Pocho Zavala |
 | 520 | 419 | Josh Dill |
-| 521 | 418 | Kristi Biddinger |
-| 522 | 418 | Véronique Lévesque Sabourin |
+| 521 | 418 | Véronique Lévesque Sabourin |
+| 522 | 418 | Kristi Biddinger |
 | 523 | 417 | Alexx Anaya |
 | 524 | 416 | Ricky Fortune |
 | 525 | 414 | John |
 | 526 | 414 | Sabrina Burton |
-| 527 | 413 | Biggest thing |
-| 528 | 413 | Lauren Fitzgerald Thomas |
+| 527 | 413 | Lauren Fitzgerald Thomas |
+| 528 | 413 | Biggest thing |
 | 529 | 413 | Fancy Twister |
 | 530 | 413 | Juanita Lyons |
-| 531 | 411 | Mighty Spinbuilder |
-| 532 | 411 | Kristen O'Neal |
+| 531 | 411 | Kristen O'Neal |
+| 532 | 411 | Mighty Spinbuilder |
 | 533 | 410 | Tara Lynn Janes |
 | 534 | 410 | Nicole Cannon |
 | 535 | 408 | Brandon Jones |
@@ -626,9 +626,9 @@
 | 618 | 365 | Susan Arnburg |
 | 619 | 365 | Audrey Jones |
 | 620 | 364 | Shinette Dobson |
-| 621 | 363 | Jes Norris |
-| 622 | 363 | Michelle Sager |
-| 623 | 363 | Kia Humphery |
+| 621 | 363 | Kia Humphery |
+| 622 | 363 | Jes Norris |
+| 623 | 363 | Michelle Sager |
 | 624 | 363 | Stephanie Fortune |
 | 625 | 362 | Andrea Maher |
 | 626 | 362 | Frisky Clearpiece |
@@ -644,8 +644,8 @@
 | 636 | 357 | Shannon Byrd |
 | 637 | 357 | Tristan Szolek |
 | 638 | 355 | Amanda Perez |
-| 639 | 354 | Rickey Johnson |
-| 640 | 354 | Rachel Kaminski |
+| 639 | 354 | Rachel Kaminski |
+| 640 | 354 | Rickey Johnson |
 | 641 | 352 | Rose Fx |
 | 642 | 352 | Jean FU Jagielski |
 | 643 | 352 | ruth |
@@ -1504,7 +1504,7 @@
 | 1496 | 150 | Hfcbgc |
 | 1497 | 150 | Meagan Privett |
 | 1498 | 150 | Francine Young |
-| 1499 | 150 | Meagan Privett |
+| 1499 | 150 | Anthony Memphis Croom |
 | 1500 | 150 | Dizzy Clicker |
 | 1501 | 150 | BEAST |
 | 1502 | 150 | Shakena Tuggle |
@@ -1594,8 +1594,8 @@
 | 1586 | 142 | Kelly Darin |
 | 1587 | 142 | Shiny Snapmatch |
 | 1588 | 142 | Mimerz |
-| 1589 | 142 | Babydro27 |
-| 1590 | 142 | Kayla Cothren |
+| 1589 | 142 | Kayla Cothren |
+| 1590 | 142 | Babydro27 |
 | 1591 | 141 | Fancy Zigzag |
 | 1592 | 141 | Tanisha Virgo |
 | 1593 | 141 | Emesia Quarry |

@@ -174,8 +174,8 @@
 | 166 | 220 | Matt Dell'Olio |
 | 167 | 218 | Casey Grabner |
 | 168 | 217 | Chaz Duncan |
-| 169 | 215 | Jessica Bohlken |
-| 170 | 215 | Ren Mc |
+| 169 | 215 | Ren Mc |
+| 170 | 215 | Jessica Bohlken |
 | 171 | 213 | Jason Allen |
 | 172 | 213 | Sarah Neathery |
 | 173 | 212 | Mike Solo |
@@ -185,15 +185,15 @@
 | 177 | 204 | Jen Caldwell |
 | 178 | 203 | Katherine Crane |
 | 179 | 202 | TRCuse |
-| 180 | 201 | Melvin Baird |
-| 181 | 201 | Chance Strickland |
+| 180 | 201 | Chance Strickland |
+| 181 | 201 | Melvin Baird |
 | 182 | 200 | Laura |
 | 183 | 199 | Zethra Prenisha Rahming |
-| 184 | 198 | Keith Kelley |
-| 185 | 198 | Jessica Lynn Cutlip |
+| 184 | 198 | Jessica Lynn Cutlip |
+| 185 | 198 | Keith Kelley |
 | 186 | 196 | Oscar Alberto Perez |
-| 187 | 195 | ZeeZee |
-| 188 | 195 | Malakai Darien Fox |
+| 187 | 195 | Malakai Darien Fox |
+| 188 | 195 | ZeeZee |
 | 189 | 195 | 中山成巳 |
 | 190 | 194 | Zany Twisterfit |
 | 191 | 192 | Shauna Havard |
@@ -244,8 +244,8 @@
 | 236 | 156 | Ruben Wheeler |
 | 237 | 155 | AyeKay |
 | 238 | 154 | Zany Shatterer |
-| 239 | 153 | Empress Oasis |
-| 240 | 153 | Mr. Party |
+| 239 | 153 | Mr. Party |
+| 240 | 153 | Empress Oasis |
 | 241 | 152 | Faja |
 | 242 | 152 | Austin Owens |
 | 243 | 149 | Tanner Lund |

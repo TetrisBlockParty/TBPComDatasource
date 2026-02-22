@@ -187,13 +187,13 @@
 | 179 | 353 | Shunta Jacobs |
 | 180 | 353 | Nora Rogers |
 | 181 | 348 | Chasity |
-| 182 | 347 | Jone |
-| 183 | 347 | Nicole Flippo |
+| 182 | 347 | Nicole Flippo |
+| 183 | 347 | Jone |
 | 184 | 343 | Ashley Raines |
 | 185 | 341 | Samantha Lynn |
 | 186 | 340 | Chummy Caster |
-| 187 | 338 | Leah Barnett |
-| 188 | 338 | Gumbo |
+| 187 | 338 | Gumbo |
+| 188 | 338 | Leah Barnett |
 | 189 | 332 | Rich LeBlanc |
 | 190 | 332 | Noyb Adam |
 | 191 | 330 | Rebecca Funderburk Kirby |
@@ -321,8 +321,8 @@
 | 313 | 192 | Ryan Williams |
 | 314 | 192 | Kelly Ann Child |
 | 315 | 191 | Philip Rock |
-| 316 | 189 | France Vézina |
-| 317 | 189 | Katie Leigh Blankenship |
+| 316 | 189 | Katie Leigh Blankenship |
+| 317 | 189 | France Vézina |
 | 318 | 188 | Loopy Fallmatch |
 | 319 | 187 | Tipsy Zonebuilder |
 | 320 | 186 | Sameerah Smith |
@@ -332,18 +332,18 @@
 | 324 | 181 | Denita Mungro |
 | 325 | 180 | Beth Ingham |
 | 326 | 180 | Criss |
-| 327 | 179 | Christian Werndl |
-| 328 | 179 | DanceLuvLaugh |
+| 327 | 179 | DanceLuvLaugh |
+| 328 | 179 | Christian Werndl |
 | 329 | 179 | Rachel Napper |
 | 330 | 178 | Jess Dearborn |
 | 331 | 178 | Jennifer Alvey |
-| 332 | 176 | Emma |
-| 333 | 176 | Melissa Orth Hunter |
+| 332 | 176 | Melissa Orth Hunter |
+| 333 | 176 | Emma |
 | 334 | 175 | Eileen Brady Thurber |
 | 335 | 175 | Becca Engle |
 | 336 | 174 | Lesley Perez |
-| 337 | 173 | Naur |
-| 338 | 173 | BŘŰŤİÇŨŚ |
+| 337 | 173 | BŘŰŤİÇŨŚ |
+| 338 | 173 | Naur |
 | 339 | 169 | Peachy Rollfit |
 | 340 | 169 | Kristian Thurman |
 | 341 | 168 | Trice Thomas |
@@ -368,15 +368,15 @@
 | 360 | 162 | Stephanie Whitefield |
 | 361 | 162 | Loopy Fallzone |
 | 362 | 161 | Michael Johnson |
-| 363 | 161 | Julia Nicole |
-| 364 | 161 | Bouncy Blockbuilder |
+| 363 | 161 | Bouncy Blockbuilder |
+| 364 | 161 | Julia Nicole |
 | 365 | 160 | Sunny Lift |
-| 366 | 159 | Salena Whitlock |
-| 367 | 159 | Joshua David Huie |
+| 366 | 159 | Joshua David Huie |
+| 367 | 159 | Salena Whitlock |
 | 368 | 158 | Willow |
 | 369 | 157 | Katrina E Jelks |
-| 370 | 157 | Angel Mendez |
-| 371 | 157 | Steffi Chris Dacones |
+| 370 | 157 | Steffi Chris Dacones |
+| 371 | 157 | Angel Mendez |
 | 372 | 157 | Wetwet |
 | 373 | 156 | Nichole Greene |
 | 374 | 155 | Michell Hendershott Jackson |
@@ -386,8 +386,8 @@
 | 378 | 153 | Lys |
 | 379 | 153 | Tony Waters |
 | 380 | 152 | Goofy Fall |
-| 381 | 152 | Shiny Zonebuilder |
-| 382 | 152 | Eric Caccavale |
+| 381 | 152 | Eric Caccavale |
+| 382 | 152 | Shiny Zonebuilder |
 | 383 | 152 | Bryan Byrd |
 | 384 | 151 | Sarah Cowan Burgos |
 | 385 | 150 | Sassy Brickmatch |
@@ -440,7 +440,7 @@
 | 432 | 134 | gremicx |
 | 433 | 134 | Cheery Brickster |
 | 434 | 133 | Jen Lewis |
-| 435 | 132 | Mariah Williams |
+| 435 | 132 | Andrew Thorson |
 | 436 | 132 | Hanna Kim |
 | 437 | 132 | Mariah Williams |
 | 438 | 131 | Daring Builder |

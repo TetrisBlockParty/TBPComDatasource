@@ -145,8 +145,8 @@
 | 137 | 268 | GATOR |
 | 138 | 265 | SkipTheSadSauce |
 | 139 | 265 | Nutty Spinblock |
-| 140 | 264 | Lexuriuos Lifestlye |
-| 141 | 264 | Jenny Gingrich Fuentes |
+| 140 | 264 | Jenny Gingrich Fuentes |
+| 141 | 264 | Lexuriuos Lifestlye |
 | 142 | 263 | Sharon Reynolds |
 | 143 | 258 | Virginia Gray Floyd |
 | 144 | 257 | Amanda Jarnagin |
@@ -217,8 +217,8 @@
 | 209 | 186 | Margo Wagner |
 | 210 | 186 | Erin Hodges Plumb |
 | 211 | 184 | Chris Sigurdson |
-| 212 | 183 | Andrew Boone |
-| 213 | 183 | Amy Hess |
+| 212 | 183 | Amy Hess |
+| 213 | 183 | Andrew Boone |
 | 214 | 182 | Phu ckalldems |
 | 215 | 180 | Jessie Lynn |
 | 216 | 180 | Beau Galvan |
