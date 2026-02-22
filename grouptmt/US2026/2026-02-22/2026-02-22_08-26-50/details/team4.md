@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Shelly Chandler |
-| 34 | 843 | Lucille Truesdale |
+| 33 | 843 | Lucille Truesdale |
+| 34 | 843 | Shelly Chandler |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 811 | Jae Job |
@@ -84,8 +84,8 @@
 | 76 | 483 | Carmethia Clemons Haslerig |
 | 77 | 483 | TeeJ |
 | 78 | 467 | Dawn Alexander |
-| 79 | 447 | Erin Thomas |
-| 80 | 447 | Samantha Peterson |
+| 79 | 447 | Samantha Peterson |
+| 80 | 447 | Erin Thomas |
 | 81 | 440 | Kristin Manee |
 | 82 | 427 | KJ Pool |
 | 83 | 420 | Chilly Crasher |
@@ -93,8 +93,8 @@
 | 85 | 416 | YoMomma |
 | 86 | 415 | Shane Kalamata Platoon |
 | 87 | 412 | Jenna Ingersoll |
-| 88 | 409 | Jolly Dashfit |
-| 89 | 409 | Isabella Blanco |
+| 88 | 409 | Isabella Blanco |
+| 89 | 409 | Jolly Dashfit |
 | 90 | 407 | Leslie Thomas |
 | 91 | 404 | Courtney Cicoria |
 | 92 | 396 | Alicia Bass |
@@ -139,9 +139,9 @@
 | 131 | 277 | Scott Jameson |
 | 132 | 275 | Dizzy Tiley |
 | 133 | 271 | Sarah Brown |
-| 134 | 264 | Epic Curvetile |
-| 135 | 264 | Dana Scott |
-| 136 | 264 | Girl |
+| 134 | 264 | Dana Scott |
+| 135 | 264 | Girl |
+| 136 | 264 | Epic Curvetile |
 | 137 | 262 | Holly Jolly |
 | 138 | 260 | Chris Baggett |
 | 139 | 256 | Mylo Lipscomb |

@@ -162,8 +162,8 @@
 | 154 | 239 | Jamie Jury |
 | 155 | 236 | Mandyy Rae |
 | 156 | 232 | Jessi Sauer |
-| 157 | 230 | Billie Dawn Sparks |
-| 158 | 230 | Frothy Pattern |
+| 157 | 230 | Frothy Pattern |
+| 158 | 230 | Billie Dawn Sparks |
 | 159 | 229 | David Lutcher |
 | 160 | 226 | Sleepysloath5745 |
 | 161 | 226 | Kandae |
@@ -240,8 +240,8 @@
 | 232 | 167 | Nery Martinez |
 | 233 | 167 | Cranky Pattern |
 | 234 | 167 | Bindi |
-| 235 | 165 | Nadine Velardo |
-| 236 | 165 | Silly Align |
+| 235 | 165 | Silly Align |
+| 236 | 165 | Nadine Velardo |
 | 237 | 163 | Angela Fairbank |
 | 238 | 163 | Blaire Bruckoff |
 | 239 | 163 | DaRascal |
@@ -327,8 +327,8 @@
 | 319 | 117 | Bob |
 | 320 | 117 | .running. |
 | 321 | 117 | Beazel75 |
-| 322 | 116 | Brad MG |
-| 323 | 116 | Fresno Beotoni |
+| 322 | 116 | Fresno Beotoni |
+| 323 | 116 | Brad MG |
 | 324 | 115 | Brave Slice |
 | 325 | 114 | Angela Rena Brooks |
 | 326 | 114 | Plucky Stacky |

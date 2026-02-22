@@ -51,8 +51,8 @@
 | 43 | 1015 | Amber Jones |
 | 44 | 998 | Liv Whetson |
 | 45 | 996 | Stephanie Rice |
-| 46 | 989 | Kay |
-| 47 | 989 | Joey Banks |
+| 46 | 989 | Joey Banks |
+| 47 | 989 | Kay |
 | 48 | 983 | Brandon Green |
 | 49 | 956 | Gracie |
 | 50 | 953 | mjl574 |
@@ -104,8 +104,8 @@
 | 96 | 581 | Danielle Mogg |
 | 97 | 579 | Jd Morris |
 | 98 | 566 | Dolores Falco |
-| 99 | 565 | Patty Allen |
-| 100 | 565 | Rachael McClain Owens |
+| 99 | 565 | Rachael McClain Owens |
+| 100 | 565 | Patty Allen |
 | 101 | 562 | Louise Stacy Sisson |
 | 102 | 562 | Dave Herzog |
 | 103 | 559 | Morgan Martinez |
@@ -216,8 +216,8 @@
 | 208 | 295 | RickyG |
 | 209 | 291 | Kristal C Lee |
 | 210 | 289 | DidIdothat |
-| 211 | 289 | Duane Bright |
-| 212 | 289 | Hoppy Buildout |
+| 211 | 289 | Hoppy Buildout |
+| 212 | 289 | Duane Bright |
 | 213 | 286 | Cynthia Herrmann Egland |
 | 214 | 284 | Denise Nardoni |
 | 215 | 283 | Cheeky Snapper |
@@ -269,8 +269,8 @@
 | 261 | 230 | Connie Mohler-Fair |
 | 262 | 227 | Krystal Gerstberger |
 | 263 | 227 | Meowsa |
-| 264 | 225 | Dirtgirl27 |
-| 265 | 225 | Cozy Snaplink |
+| 264 | 225 | Cozy Snaplink |
+| 265 | 225 | Dirtgirl27 |
 | 266 | 221 | Vaners |
 | 267 | 221 | Jaime Monhaut-Reed |
 | 268 | 221 | Alice |

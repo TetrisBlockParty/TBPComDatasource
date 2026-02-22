@@ -348,10 +348,10 @@
 | 340 | 583 | Bri Lynn |
 | 341 | 582 | Gary Stash |
 | 342 | 581 | Jerry Tempelmeyer |
-| 343 | 579 | Jackie Avila |
-| 344 | 579 | AgileDragon |
-| 345 | 579 | Juliana Marques Do Nascimento Gordy |
-| 346 | 579 | Roy Salyer |
+| 343 | 579 | AgileDragon |
+| 344 | 579 | Jackie Avila |
+| 345 | 579 | Roy Salyer |
+| 346 | 579 | Juliana Marques Do Nascimento Gordy |
 | 347 | 576 | Leslie Johnson Guinto |
 | 348 | 572 | Chris Wanner |
 | 349 | 569 | Vaniel Glover |
@@ -421,8 +421,8 @@
 | 413 | 489 | Cassie Mercer |
 | 414 | 489 | Osun Anuket Esu |
 | 415 | 488 | Venita Ray |
-| 416 | 487 | MrsCandyfine As Wine Truss |
-| 417 | 487 | Maya June |
+| 416 | 487 | Maya June |
+| 417 | 487 | MrsCandyfine As Wine Truss |
 | 418 | 486 | Caitlin Schmid |
 | 419 | 485 | Ann Matzkanin |
 | 420 | 485 | Dapper Dasher |
@@ -663,8 +663,8 @@
 | 655 | 337 | Savannah Alexander |
 | 656 | 337 | Tum |
 | 657 | 336 | Swanky Columnbuilder |
-| 658 | 336 | bru |
-| 659 | 336 | Austin Wilson |
+| 658 | 336 | Austin Wilson |
+| 659 | 336 | bru |
 | 660 | 335 | Brooke Leigh Strube |
 | 661 | 335 | Maria Louise |
 | 662 | 334 | Melissa James |
@@ -731,9 +731,9 @@
 | 723 | 304 | James Smith |
 | 724 | 304 | Melissa McCall |
 | 725 | 303 | Angie Marie |
-| 726 | 303 | Devin |
+| 726 | 303 | Peachy Blockbuilder |
 | 727 | 303 | Amanda Schaffer |
-| 728 | 303 | Peachy Blockbuilder |
+| 728 | 303 | Devin |
 | 729 | 302 | Kena T. Tanner |
 | 730 | 302 | Maxwell Escalera |
 | 731 | 300 | Alice Ball |
@@ -742,14 +742,14 @@
 | 734 | 298 | Frilly Fallzone |
 | 735 | 298 | Lazy Riseclear |
 | 736 | 298 | Ryan Stadel |
-| 737 | 297 | Toni Lynn |
-| 738 | 297 | Frisky Patternline |
+| 737 | 297 | Frisky Patternline |
+| 738 | 297 | Toni Lynn |
 | 739 | 297 | Britney M. |
 | 740 | 297 | Ashley Robbins |
 | 741 | 296 | Jennifer Darby |
 | 742 | 296 | Frisky Riserbuilder |
-| 743 | 296 | Zappy Dropmatch |
-| 744 | 296 | Epic Fitzone |
+| 743 | 296 | Epic Fitzone |
+| 744 | 296 | Zappy Dropmatch |
 | 745 | 295 | Noel Tarmy |
 | 746 | 294 | Amanda Edwards |
 | 747 | 293 | Ann Marie Davis |
