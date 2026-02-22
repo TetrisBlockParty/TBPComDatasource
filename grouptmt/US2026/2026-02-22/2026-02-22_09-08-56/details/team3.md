@@ -62,8 +62,8 @@
 | 54 | 909 | Jennifer |
 | 55 | 908 | Alanna Rogers |
 | 56 | 903 | Sarah Fehring |
-| 57 | 895 | Amanda L Baker |
-| 58 | 895 | Shonna Roberts |
+| 57 | 895 | Shonna Roberts |
+| 58 | 895 | Amanda L Baker |
 | 59 | 891 | Elaine Webb Graves |
 | 60 | 886 | Khristen AC |
 | 61 | 874 | Jessica Pineda-Lopez |
@@ -205,8 +205,8 @@
 | 197 | 311 | Rochelle Hazelett |
 | 198 | 311 | Araceli Parra |
 | 199 | 310 | Danielle Balcom |
-| 200 | 308 | Rania Zaqout |
-| 201 | 308 | Daryn Elliott |
+| 200 | 308 | Daryn Elliott |
+| 201 | 308 | Rania Zaqout |
 | 202 | 307 | rnr junky |
 | 203 | 307 | Jone |
 | 204 | 307 | Blocked |
@@ -311,8 +311,8 @@
 | 303 | 201 | Alexmac |
 | 304 | 201 | Hyper Matchzone |
 | 305 | 200 | Saucy Buildout |
-| 306 | 200 | Sharisse Baltimore |
-| 307 | 200 | glichmod |
+| 306 | 200 | glichmod |
+| 307 | 200 | Sharisse Baltimore |
 | 308 | 198 | kacihall |
 | 309 | 195 | Nicha Hooker |
 | 310 | 195 | Stephanie Hill |
@@ -370,8 +370,8 @@
 | 362 | 161 | Michael Johnson |
 | 363 | 161 | Bouncy Blockbuilder |
 | 364 | 161 | Julia Nicole |
-| 365 | 159 | Joshua David Huie |
-| 366 | 159 | Salena Whitlock |
+| 365 | 159 | Salena Whitlock |
+| 366 | 159 | Joshua David Huie |
 | 367 | 158 | Willow |
 | 368 | 157 | Katrina E Jelks |
 | 369 | 157 | Steffi Chris Dacones |
@@ -436,8 +436,8 @@
 | 428 | 134 | Cheery Brickster |
 | 429 | 134 | gremicx |
 | 430 | 133 | Jen Lewis |
-| 431 | 132 | Andrew Thorson |
-| 432 | 132 | Hanna Kim |
+| 431 | 132 | Hanna Kim |
+| 432 | 132 | Andrew Thorson |
 | 433 | 131 | Cheeky Setter |
 | 434 | 130 | Sarah Whalen |
 | 435 | 130 | Brian Battjes |
@@ -479,9 +479,9 @@
 | 471 | 121 | Groovy Blockclear |
 | 472 | 120 | Giggy Glidepiece |
 | 473 | 120 | Carol Cain Thurman |
-| 474 | 119 | Boldy Blocker |
+| 474 | 119 | Geoffrey Nash |
 | 475 | 119 | Tracey Cox |
-| 476 | 119 | Geoffrey Nash |
+| 476 | 119 | Boldy Blocker |
 | 477 | 119 | Brian Quigley |
 | 478 | 119 | Everret Maxine |
 | 479 | 118 | Damian Reid |
@@ -574,7 +574,7 @@
 | 566 | 102 | Kaitie Oliver |
 | 567 | 102 | Cheeky Twisterfit |
 | 568 | 102 | Paul Larsen |
-| 569 | 102 | Kaitie Oliver |
+| 569 | 102 | Snazzy Brickzone |
 | 570 | 101 | Jolly Dashpiece |
 | 571 | 101 | JM MJ |
 | 572 | 101 | Sassy Zonebuilder |

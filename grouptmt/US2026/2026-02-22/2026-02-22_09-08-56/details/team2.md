@@ -204,8 +204,8 @@
 | 196 | 919 | Isaac Trappiel IV |
 | 197 | 916 | Butta |
 | 198 | 915 | Kelly Trent |
-| 199 | 910 | Crystal Hoffman |
-| 200 | 910 | Shuany Arias |
+| 199 | 910 | Shuany Arias |
+| 200 | 910 | Crystal Hoffman |
 | 201 | 907 | Gene Mills |
 | 202 | 901 | Jennifer Peachey |
 | 203 | 892 | Auntie B |
