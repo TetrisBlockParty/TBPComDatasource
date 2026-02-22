@@ -407,8 +407,8 @@
 | 399 | 84 | Amy C Brown |
 | 400 | 83 | Lynn Marie |
 | 401 | 83 | Abigail Murphy |
-| 402 | 82 | Jason Bosco |
-| 403 | 82 | Stacy Jones |
+| 402 | 82 | Stacy Jones |
+| 403 | 82 | Jason Bosco |
 | 404 | 82 | Oleg Zakharskiy |
 | 405 | 81 | Robert Rangel |
 | 406 | 81 | Megan Boyce |

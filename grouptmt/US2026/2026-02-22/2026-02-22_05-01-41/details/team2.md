@@ -171,8 +171,8 @@
 | 163 | 953 | Ladyrainbootz |
 | 164 | 951 | Cynthia Ward |
 | 165 | 950 | Teresa Gillmore |
-| 166 | 941 | Desiree Harris Rosch |
-| 167 | 941 | Marie Boyd Faulk |
+| 166 | 941 | Marie Boyd Faulk |
+| 167 | 941 | Desiree Harris Rosch |
 | 168 | 940 | Cool Clearer |
 | 169 | 937 | Shannon Joslin |
 | 170 | 935 | William Meussner |
@@ -198,8 +198,8 @@
 | 190 | 850 | Missie Lawson Gebhardt |
 | 191 | 849 | Jennifer Kistner |
 | 192 | 849 | Hillary Crawford |
-| 193 | 845 | April Dawn Gussler |
-| 194 | 845 | Felicia Lynn |
+| 193 | 845 | Felicia Lynn |
+| 194 | 845 | April Dawn Gussler |
 | 195 | 838 | Tralonda Weeks |
 | 196 | 837 | Ashley Rose Frederick |
 | 197 | 834 | Nika Bee |
@@ -738,9 +738,9 @@
 | 730 | 265 | Sandra Link-Gable |
 | 731 | 264 | Ocean-Brianna McGregor |
 | 732 | 264 | Rachel Switala |
-| 733 | 263 | Lazy Riseclear |
-| 734 | 263 | Elizabeth Leinen |
-| 735 | 263 | Alyssia Tancredi |
+| 733 | 263 | Elizabeth Leinen |
+| 734 | 263 | Alyssia Tancredi |
+| 735 | 263 | Lazy Riseclear |
 | 736 | 263 | Sara Pennington |
 | 737 | 263 | Laura Wyatt |
 | 738 | 263 | Alishac Marie |
@@ -759,15 +759,15 @@
 | 751 | 259 | Sarah Sims |
 | 752 | 259 | JacJac |
 | 753 | 259 | sup |
-| 754 | 258 | Scott |
-| 755 | 258 | Warren Marleau |
+| 754 | 258 | Warren Marleau |
+| 755 | 258 | Scott |
 | 756 | 258 | Andrea Devery Beck |
 | 757 | 258 | Tee Jaleesa |
 | 758 | 258 | Mordoks Pyrography |
 | 759 | 258 | Shylee Tilman |
 | 760 | 257 | Jackie Jackie Lee |
-| 761 | 256 | Monarca26 |
-| 762 | 256 | Brenna Yearian |
+| 761 | 256 | Brenna Yearian |
+| 762 | 256 | Monarca26 |
 | 763 | 256 | Amy Humphreys |
 | 764 | 255 | DefaultUser |
 | 765 | 255 | Tom Steffen |

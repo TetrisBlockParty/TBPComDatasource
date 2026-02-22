@@ -297,8 +297,8 @@
 | 289 | 114 | Rachel Nichole Henry |
 | 290 | 114 | Angela Rena Brooks |
 | 291 | 113 | Itspaigebro |
-| 292 | 112 | Lush Zoney |
-| 293 | 112 | Chris65 |
+| 292 | 112 | Chris65 |
+| 293 | 112 | Lush Zoney |
 | 294 | 112 | Crystal Joslin |
 | 295 | 111 | Damon J. Martin |
 | 296 | 110 | Jodee Woods |

@@ -209,8 +209,8 @@
 | 201 | 272 | Dee Franklin |
 | 202 | 272 | opf |
 | 203 | 271 | Ashley Muncey |
-| 204 | 267 | Denise Nardoni |
-| 205 | 267 | Terry Jo Jones |
+| 204 | 267 | Terry Jo Jones |
+| 205 | 267 | Denise Nardoni |
 | 206 | 265 | Sarah Moyer |
 | 207 | 265 | Scott Carleton |
 | 208 | 263 | Brittany |
@@ -238,8 +238,8 @@
 | 230 | 240 | Jimmie Clemons |
 | 231 | 236 | Jess Bissett |
 | 232 | 235 | LaNette Morgan |
-| 233 | 234 | Nikki Pags |
-| 234 | 234 | Grego Daniel |
+| 233 | 234 | Grego Daniel |
+| 234 | 234 | Nikki Pags |
 | 235 | 233 | Ray Lader |
 | 236 | 232 | Donna |
 | 237 | 228 | Brenda Schmid Wood |
@@ -253,9 +253,9 @@
 | 245 | 216 | rosy |
 | 246 | 215 | Alice |
 | 247 | 215 | IamJust Neyamijah Washington Sr. |
-| 248 | 214 | Rebel124 |
+| 248 | 214 | Connie Mohler-Fair |
 | 249 | 214 | Amy Fuller Heaton |
-| 250 | 214 | Connie Mohler-Fair |
+| 250 | 214 | Rebel124 |
 | 251 | 213 | Trisha Balmer |
 | 252 | 212 | LaTanya GeminiondaRise Johnson |
 | 253 | 212 | Desiree Gold |
@@ -328,7 +328,7 @@
 | 320 | 160 | Ashley Lynn Marchese |
 | 321 | 159 | Ashley Rufus Bythcez |
 | 322 | 159 | Joshua David Huie |
-| 323 | 159 | Ashley Rufus Bythcez |
+| 323 | 159 | Jone |
 | 324 | 158 | Willow |
 | 325 | 157 | Angel Mendez |
 | 326 | 157 | Danielle Balcom |
