@@ -63,8 +63,8 @@
 | 55 | 909 | Jennifer |
 | 56 | 908 | Alanna Rogers |
 | 57 | 903 | Sarah Fehring |
-| 58 | 895 | Shonna Roberts |
-| 59 | 895 | Amanda L Baker |
+| 58 | 895 | Amanda L Baker |
+| 59 | 895 | Shonna Roberts |
 | 60 | 886 | Khristen AC |
 | 61 | 882 | Susan Valentino |
 | 62 | 874 | Nate Burnside |
@@ -158,8 +158,8 @@
 | 150 | 413 | Rachel |
 | 151 | 411 | FuzzyNavel |
 | 152 | 410 | Stephanie Simpson |
-| 153 | 407 | Logan Naccarato |
-| 154 | 407 | Joye Sims Binion |
+| 153 | 407 | Joye Sims Binion |
+| 154 | 407 | Logan Naccarato |
 | 155 | 407 | Edwin Calvillo Jr. |
 | 156 | 403 | Scott Lindsay |
 | 157 | 401 | Katie Knaus |
@@ -189,8 +189,8 @@
 | 181 | 359 | Dapper Snap |
 | 182 | 358 | RickyG |
 | 183 | 358 | Chummy Caster |
-| 184 | 357 | Tom Nault |
-| 185 | 357 | Stephanie Burtin |
+| 184 | 357 | Stephanie Burtin |
+| 185 | 357 | Tom Nault |
 | 186 | 355 | Tessina Dewey-Mancino |
 | 187 | 353 | Nora Rogers |
 | 188 | 348 | Chasity |
@@ -262,8 +262,8 @@
 | 254 | 252 | Nikki Pags |
 | 255 | 252 | Roary Danner |
 | 256 | 250 | fraulila |
-| 257 | 249 | JerseyJess |
-| 258 | 249 | Annie Marie |
+| 257 | 249 | Annie Marie |
+| 258 | 249 | JerseyJess |
 | 259 | 246 | Peppy Shifter |
 | 260 | 245 | Latoya Mayne |
 | 261 | 244 | LaNette Morgan |
@@ -274,8 +274,8 @@
 | 266 | 235 | Brenda Schmid Wood |
 | 267 | 235 | Cozy Snaplink |
 | 268 | 234 | Connie Mohler-Fair |
-| 269 | 233 | Ray Lader |
-| 270 | 233 | Josh Borquez |
+| 269 | 233 | Josh Borquez |
+| 270 | 233 | Ray Lader |
 | 271 | 232 | Donna |
 | 272 | 229 | Hasty Gridpiece |
 | 273 | 227 | Meowsa |
@@ -445,9 +445,9 @@
 | 437 | 141 | Weerae |
 | 438 | 140 | Jumpy Curvebuilder |
 | 439 | 140 | Christine Vosburgh |
-| 440 | 140 | Boldy Corner |
-| 441 | 140 | Linda Draper |
-| 442 | 140 | Alison Baus |
+| 440 | 140 | Alison Baus |
+| 441 | 140 | Boldy Corner |
+| 442 | 140 | Linda Draper |
 | 443 | 139 | Beppy |
 | 444 | 139 | Paula Little |
 | 445 | 138 | Kellie Montgomery |

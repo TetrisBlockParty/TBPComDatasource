@@ -139,8 +139,8 @@
 | 131 | 290 | Sarah Roberts |
 | 132 | 290 | Death |
 | 133 | 285 | Ananda Mendez |
-| 134 | 284 | Emily Adelaide Wheatley |
-| 135 | 284 | Rachael |
+| 134 | 284 | Rachael |
+| 135 | 284 | Emily Adelaide Wheatley |
 | 136 | 283 | Franswa |
 | 137 | 282 | Timothy Dew |
 | 138 | 282 | Tyler Werts |

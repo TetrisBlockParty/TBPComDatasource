@@ -49,8 +49,8 @@
 | 41 | 766 | Robin Watters |
 | 42 | 757 | Ancient Intuition |
 | 43 | 736 | Goatimus Lombardi |
-| 44 | 707 | Clarence Patawaran |
-| 45 | 707 | Rachel Anne |
+| 44 | 707 | Rachel Anne |
+| 45 | 707 | Clarence Patawaran |
 | 46 | 704 | Crystal Carroll |
 | 47 | 698 | Anthony Bryan Riva |
 | 48 | 697 | Edward White |
@@ -87,8 +87,8 @@
 | 79 | 512 | Casey Jeffcoat |
 | 80 | 511 | Michelle Marie |
 | 81 | 500 | Rodney McMath Jr. |
-| 82 | 486 | Carmethia Clemons Haslerig |
-| 83 | 486 | Landon Keith Graffeo |
+| 82 | 486 | Landon Keith Graffeo |
+| 83 | 486 | Carmethia Clemons Haslerig |
 | 84 | 469 | Ashley Ingram |
 | 85 | 468 | Shane Kalamata Platoon |
 | 86 | 447 | Samantha Peterson |
@@ -109,12 +109,12 @@
 | 101 | 396 | Alicia Bass |
 | 102 | 393 | Carlton Unfiltered |
 | 103 | 392 | Ericca Eldridge |
-| 104 | 391 | Monica Daley |
-| 105 | 391 | Ramel Rhodes |
+| 104 | 391 | Ramel Rhodes |
+| 105 | 391 | Monica Daley |
 | 106 | 387 | Denise Carlson |
 | 107 | 382 | Marie-Pier Desjardins |
-| 108 | 377 | Ren Mc |
-| 109 | 377 | Lori Walker |
+| 108 | 377 | Lori Walker |
+| 109 | 377 | Ren Mc |
 | 110 | 373 | Joseph Guthrie |
 | 111 | 369 | Nope Young |
 | 112 | 358 | Nugget |
@@ -183,8 +183,8 @@
 | 175 | 217 | Kim Hunt |
 | 176 | 217 | Angela Srubar-Norman |
 | 177 | 215 | Jessica Bohlken |
-| 178 | 213 | Jason Allen |
-| 179 | 213 | Sarah Neathery |
+| 178 | 213 | Sarah Neathery |
+| 179 | 213 | Jason Allen |
 | 180 | 212 | Mike Solo |
 | 181 | 211 | Jenna McGeorge |
 | 182 | 210 | Zethra Prenisha Rahming |
@@ -386,7 +386,7 @@
 | 378 | 111 | Richard-April Kice |
 | 379 | 110 | JoAnna Zalkovsky |
 | 380 | 110 | Spicy Cascadezone |
-| 381 | 110 | JoAnna Zalkovsky |
+| 381 | 110 | No Strings Attached Ra |
 | 382 | 110 | Thomas Hettenhaus |
 | 383 | 110 | Glitzy Crasher |
 | 384 | 109 | Jessica Miller |
