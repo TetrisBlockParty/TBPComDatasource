@@ -238,8 +238,8 @@
 | 230 | 919 | Joshua Mandel |
 | 231 | 919 | Isaac Trappiel IV |
 | 232 | 916 | Butta |
-| 233 | 915 | Robin Kerby |
-| 234 | 915 | Angela Bonquiqui Dinish |
+| 233 | 915 | Angela Bonquiqui Dinish |
+| 234 | 915 | Robin Kerby |
 | 235 | 915 | Kelly Trent |
 | 236 | 912 | Dedra Steward |
 | 237 | 910 | Shuany Arias |
@@ -603,8 +603,8 @@
 | 595 | 429 | Tabs Reichert |
 | 596 | 428 | Lynda Toland |
 | 597 | 428 | Shyenn Gadsby |
-| 598 | 427 | Destiny Cozier |
-| 599 | 427 | Sabrina Burton |
+| 598 | 427 | Sabrina Burton |
+| 599 | 427 | Destiny Cozier |
 | 600 | 426 | De Hawkins |
 | 601 | 426 | Ashley Dow |
 | 602 | 424 | Saucy Fitzone |
@@ -636,8 +636,8 @@
 | 628 | 408 | Brandon Jones |
 | 629 | 407 | Tipsy Filler |
 | 630 | 406 | Erin StFrancis |
-| 631 | 403 | Nate Skidmore |
-| 632 | 403 | Goofy Dasher |
+| 631 | 403 | Goofy Dasher |
+| 632 | 403 | Nate Skidmore |
 | 633 | 403 | Ryan Stadel |
 | 634 | 401 | Beth Decker |
 | 635 | 400 | Tammy Allen |

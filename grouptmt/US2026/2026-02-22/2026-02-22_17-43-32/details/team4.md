@@ -176,8 +176,8 @@
 | 168 | 268 | Mimi |
 | 169 | 268 | Trista Leah |
 | 170 | 267 | Kathy Brookins |
-| 171 | 267 | Casey Grabner |
-| 172 | 267 | Damn Libra |
+| 171 | 267 | Damn Libra |
+| 172 | 267 | Casey Grabner |
 | 173 | 266 | Laura |
 | 174 | 265 | Jeff Brian Gates |
 | 175 | 265 | Chris Bernstein |
@@ -441,8 +441,8 @@
 | 433 | 113 | Sharyn Lemire |
 | 434 | 113 | Stephanie Mico |
 | 435 | 113 | Peppy Strike |
-| 436 | 113 | Michael Orris |
-| 437 | 113 | Dandy Cascadefit |
+| 436 | 113 | Dandy Cascadefit |
+| 437 | 113 | Michael Orris |
 | 438 | 112 | Jarred Falls |
 | 439 | 111 | Zocko Ellet |
 | 440 | 111 | Raegan Lane-Ross |

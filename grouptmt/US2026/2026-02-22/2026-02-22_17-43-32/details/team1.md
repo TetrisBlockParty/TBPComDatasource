@@ -185,8 +185,8 @@
 | 177 | 264 | Ty Brown |
 | 178 | 261 | Witty Builderfit |
 | 179 | 258 | Billie Dawn Sparks |
-| 180 | 254 | Letson Melissa |
-| 181 | 254 | Al Smith Jr |
+| 180 | 254 | Al Smith Jr |
+| 181 | 254 | Letson Melissa |
 | 182 | 253 | Jamie Jury |
 | 183 | 252 | Dena Kayy |
 | 184 | 251 | Giggly Builderline |
@@ -221,8 +221,8 @@
 | 213 | 223 | Jerry Danowski |
 | 214 | 222 | Debbie Davis |
 | 215 | 221 | Daring Fitclear |
-| 216 | 220 | Giddy Cascade |
-| 217 | 220 | Jessie Lynn |
+| 216 | 220 | Jessie Lynn |
+| 217 | 220 | Giddy Cascade |
 | 218 | 219 | Chuck Gannon |
 | 219 | 216 | Chad Atchley |
 | 220 | 216 | Shauntina Burke |
@@ -329,15 +329,15 @@
 | 321 | 159 | Howdi Duty |
 | 322 | 159 | Amber Dee |
 | 323 | 157 | Ruthie Mahoney Saunders-Browne |
-| 324 | 156 | Jason Benitez |
+| 324 | 156 | Jessie |
 | 325 | 156 | Nerdy Curvebuilder |
 | 326 | 156 | Mark Smith |
 | 327 | 156 | Jason Benitez |
 | 328 | 155 | Hasty Columnbuilder |
 | 329 | 155 | Barry Mac'Ockner |
 | 330 | 155 | Fresno Beotoni |
-| 331 | 154 | Mario Cab |
-| 332 | 154 | Larry Tilton |
+| 331 | 154 | Larry Tilton |
+| 332 | 154 | Mario Cab |
 | 333 | 153 | Dino |
 | 334 | 152 | Speedy Snapfall |
 | 335 | 151 | Gilbert Ortiz Jr. |
@@ -364,8 +364,8 @@
 | 356 | 144 | Miguel Teixeira |
 | 357 | 143 | Guest |
 | 358 | 142 | Nathan Sealander |
-| 359 | 141 | Kayla Marie Stevenson |
-| 360 | 141 | Ashley Adams |
+| 359 | 141 | Ashley Adams |
+| 360 | 141 | Kayla Marie Stevenson |
 | 361 | 140 | Nathan William |
 | 362 | 139 | Aimee Horton |
 | 363 | 139 | Cozy Shatterer |
