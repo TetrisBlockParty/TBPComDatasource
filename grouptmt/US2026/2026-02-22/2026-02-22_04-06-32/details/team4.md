@@ -48,8 +48,8 @@
 | 40 | 646 | Jacqueline Helm |
 | 41 | 634 | Anthony Bryan Riva |
 | 42 | 632 | Kimyatta Cavin |
-| 43 | 630 | Chilly Line |
-| 44 | 630 | Dustee Craddock-Harrison |
+| 43 | 630 | Dustee Craddock-Harrison |
+| 44 | 630 | Chilly Line |
 | 45 | 627 | Jonathan Kimbrough |
 | 46 | 620 | Cassie Michaux |
 | 47 | 614 | Robin Getchel |
@@ -79,8 +79,8 @@
 | 71 | 409 | Isabella Blanco |
 | 72 | 404 | Courtney Cicoria |
 | 73 | 399 | Jenna Ingersoll |
-| 74 | 396 | Amy Suckarieh |
-| 75 | 396 | Alicia Bass |
+| 74 | 396 | Alicia Bass |
+| 75 | 396 | Amy Suckarieh |
 | 76 | 392 | YoMomma |
 | 77 | 391 | Ramel Rhodes |
 | 78 | 390 | Carlton Unfiltered |
@@ -90,8 +90,8 @@
 | 82 | 373 | Joseph Guthrie |
 | 83 | 370 | Leslie Thomas |
 | 84 | 369 | Nope Young |
-| 85 | 358 | Shane Kalamata Platoon |
-| 86 | 358 | Nugget |
+| 85 | 358 | Nugget |
+| 86 | 358 | Shane Kalamata Platoon |
 | 87 | 352 | Monica Daley |
 | 88 | 327 | Lori Walker |
 | 89 | 319 | Livvy |
@@ -111,8 +111,8 @@
 | 103 | 286 | Daria Rycewicz |
 | 104 | 284 | shark tato |
 | 105 | 279 | Ericca Eldridge |
-| 106 | 278 | Carrie Brian |
-| 107 | 278 | Lucas J Sutton |
+| 106 | 278 | Lucas J Sutton |
+| 107 | 278 | Carrie Brian |
 | 108 | 277 | KJ Pool |
 | 109 | 274 | Kesha Brady |
 | 110 | 274 | Desi Desporte |
@@ -167,9 +167,9 @@
 | 159 | 195 | Malakai Darien Fox |
 | 160 | 194 | Zany Twisterfit |
 | 161 | 192 | Shauna Havard |
-| 162 | 189 | Chilly Crasher |
-| 163 | 189 | Stacey Stano |
-| 164 | 189 | Calvin Dennis |
+| 162 | 189 | Calvin Dennis |
+| 163 | 189 | Chilly Crasher |
+| 164 | 189 | Stacey Stano |
 | 165 | 188 | Andria Lynn |
 | 166 | 186 | Holly |
 | 167 | 185 | Diana Houts |
@@ -477,7 +477,7 @@
 | 469 | 68 | zelda Morgan |
 | 470 | 67 | Kayley Kara Gaudin |
 | 471 | 67 | Cozy Framezone |
-| 472 | 67 | Courtney Halleck |
+| 472 | 67 | Laurie McGregor |
 | 473 | 67 | Zany Cascadebuilder |
 | 474 | 67 | Joyce Fees |
 | 475 | 67 | Cranky Pivoty |

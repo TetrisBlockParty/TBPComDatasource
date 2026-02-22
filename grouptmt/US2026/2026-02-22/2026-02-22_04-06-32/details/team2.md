@@ -166,8 +166,8 @@
 | 158 | 953 | Ladyrainbootz |
 | 159 | 951 | Cynthia Ward |
 | 160 | 950 | Teresa Gillmore |
-| 161 | 941 | Marie Boyd Faulk |
-| 162 | 941 | Desiree Harris Rosch |
+| 161 | 941 | Desiree Harris Rosch |
+| 162 | 941 | Marie Boyd Faulk |
 | 163 | 937 | Shannon Joslin |
 | 164 | 935 | William Meussner |
 | 165 | 932 | Cool Clearer |
@@ -195,8 +195,8 @@
 | 187 | 845 | April Dawn Gussler |
 | 188 | 838 | Tralonda Weeks |
 | 189 | 837 | Ashley Rose Frederick |
-| 190 | 834 | Rebecca Doughman |
-| 191 | 834 | Nika Bee |
+| 190 | 834 | Nika Bee |
+| 191 | 834 | Rebecca Doughman |
 | 192 | 833 | Dineisha Carpenter |
 | 193 | 828 | Cindy Sechler Taninecz |
 | 194 | 824 | Felicia Lynn |
@@ -804,8 +804,8 @@
 | 796 | 237 | Jay Levy |
 | 797 | 237 | Devlin Ogg |
 | 798 | 237 | Jodi Mitnick |
-| 799 | 236 | Daring Matchfit |
-| 800 | 236 | Ashley Dow |
+| 799 | 236 | Ashley Dow |
+| 800 | 236 | Daring Matchfit |
 | 801 | 236 | Denisse Avilez |
 | 802 | 236 | Chummy Breaker |
 | 803 | 235 | Timothy Jesuwole |

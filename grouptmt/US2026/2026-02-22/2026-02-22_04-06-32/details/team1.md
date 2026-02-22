@@ -100,9 +100,9 @@
 | 92 | 326 | Monica Donato |
 | 93 | 323 | Sweet Baker |
 | 94 | 321 | Maria C. Hernandez |
-| 95 | 319 | Patrick Luckenbill |
-| 96 | 319 | Shauna Loe |
-| 97 | 319 | Deanna L Hermanson |
+| 95 | 319 | Deanna L Hermanson |
+| 96 | 319 | Patrick Luckenbill |
+| 97 | 319 | Shauna Loe |
 | 98 | 316 | Spunky Piecebuilder |
 | 99 | 313 | Tanya Carpenter-Reynolds |
 | 100 | 310 | Seth Wesson |
@@ -220,8 +220,8 @@
 | 212 | 152 | Speedy Snapfall |
 | 213 | 150 | Adele Rahman |
 | 214 | 150 | Agustin Duarte Orozco |
-| 215 | 147 | Davery Spencer Adair |
-| 216 | 147 | J.F. Fields |
+| 215 | 147 | J.F. Fields |
+| 216 | 147 | Davery Spencer Adair |
 | 217 | 146 | Witty Builderfit |
 | 218 | 145 | Tipsy Riseclear |
 | 219 | 144 | Cranky Pattern |

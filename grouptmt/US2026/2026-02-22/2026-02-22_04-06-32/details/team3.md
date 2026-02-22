@@ -134,12 +134,12 @@
 | 126 | 403 | Christine Filson |
 | 127 | 402 | Shannon Matthew Byers |
 | 128 | 400 | Luciana Braganca Vieira |
-| 129 | 399 | Patti Skiles |
-| 130 | 399 | ren |
+| 129 | 399 | ren |
+| 130 | 399 | Patti Skiles |
 | 131 | 399 | Mcathen |
 | 132 | 397 | Annie Déè |
-| 133 | 392 | Tasha Gillespie |
-| 134 | 392 | Katie Knaus |
+| 133 | 392 | Katie Knaus |
+| 134 | 392 | Tasha Gillespie |
 | 135 | 391 | Calista Jo Dickson |
 | 136 | 390 | Marcie Bressler |
 | 137 | 390 | Hasty Cascadefit |
@@ -162,8 +162,8 @@
 | 154 | 352 | Chris Bell |
 | 155 | 350 | Darlene McMillan |
 | 156 | 347 | Nicole Flippo |
-| 157 | 343 | Ashley Raines |
-| 158 | 343 | Chasity |
+| 157 | 343 | Chasity |
+| 158 | 343 | Ashley Raines |
 | 159 | 338 | Leah Barnett |
 | 160 | 332 | Fallorina Susana |
 | 161 | 332 | Rich LeBlanc |
@@ -179,8 +179,8 @@
 | 171 | 300 | Sherika C. McDaniels |
 | 172 | 300 | Giddy Twistbuilder |
 | 173 | 298 | MsBee |
-| 174 | 295 | Jim Mathews |
-| 175 | 295 | RickyG |
+| 174 | 295 | RickyG |
+| 175 | 295 | Jim Mathews |
 | 176 | 293 | Marci Mize Fandrich |
 | 177 | 291 | Daryn Elliott |
 | 178 | 289 | Duane Bright |
@@ -258,8 +258,8 @@
 | 250 | 203 | Angie Harper |
 | 251 | 202 | Staci George Fitzsimmons |
 | 252 | 200 | glichmod |
-| 253 | 200 | angieelyn |
-| 254 | 200 | Sharisse Baltimore |
+| 253 | 200 | Sharisse Baltimore |
+| 254 | 200 | angieelyn |
 | 255 | 199 | Hyper Matchzone |
 | 256 | 197 | Raven Dudley |
 | 257 | 195 | Nicha Hooker |
