@@ -343,7 +343,7 @@
 | 335 | 121 | John Ramirez |
 | 336 | 120 | Shiny Rotate |
 | 337 | 119 | Joe Coon |
-| 338 | 118 | Snappy Brickbuilder |
+| 338 | 118 | Garcia Bailey |
 | 339 | 118 | Kerry Lee Powell |
 | 340 | 118 | Snappy Brickbuilder |
 | 341 | 117 | Brad MG |
@@ -429,7 +429,7 @@
 | 421 | 91 | Amh |
 | 422 | 91 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 423 | 91 | Charlie Walker |
-| 424 | 91 | Isaiah |
+| 424 | 91 | Vivienne Carter |
 | 425 | 90 | Matt Cinelli |
 | 426 | 90 | Ric Hard Hernandez |
 | 427 | 90 | Heather Wilson |

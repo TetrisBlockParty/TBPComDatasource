@@ -63,8 +63,8 @@
 | 55 | 909 | Jennifer |
 | 56 | 908 | Alanna Rogers |
 | 57 | 903 | Sarah Fehring |
-| 58 | 895 | Amanda L Baker |
-| 59 | 895 | Shonna Roberts |
+| 58 | 895 | Shonna Roberts |
+| 59 | 895 | Amanda L Baker |
 | 60 | 886 | Khristen AC |
 | 61 | 882 | Susan Valentino |
 | 62 | 874 | Jessica Pineda-Lopez |
@@ -103,8 +103,8 @@
 | 95 | 594 | Queen Kam |
 | 96 | 591 | Jesse Olive |
 | 97 | 588 | yoyo |
-| 98 | 582 | Jay Horn |
-| 99 | 582 | Natasha Jones |
+| 98 | 582 | Natasha Jones |
+| 99 | 582 | Jay Horn |
 | 100 | 581 | Danielle Mogg |
 | 101 | 579 | Jd Morris |
 | 102 | 566 | Dolores Falco |
@@ -142,8 +142,8 @@
 | 134 | 454 | Makelini Mausia |
 | 135 | 453 | Silly Twist |
 | 136 | 449 | Danielle Rhoades |
-| 137 | 445 | Kristie McFarland |
-| 138 | 445 | Jacqueline Rodriguez |
+| 137 | 445 | Jacqueline Rodriguez |
+| 138 | 445 | Kristie McFarland |
 | 139 | 435 | Michelle |
 | 140 | 432 | Jenny Hrndz |
 | 141 | 428 | Betty Ivy |
@@ -175,17 +175,17 @@
 | 167 | 376 | Loopy Clusterer |
 | 168 | 374 | Sherry Ogden |
 | 169 | 371 | Michael Nowogorski |
-| 170 | 370 | Santeria Trece Candles |
+| 170 | 370 | Danielle Allison |
 | 171 | 370 | Logan Naccarato |
-| 172 | 370 | Danielle Allison |
+| 172 | 370 | Santeria Trece Candles |
 | 173 | 368 | Stephanie Woods |
 | 174 | 366 | Adrian Marcel Pate |
 | 175 | 362 | Darlene McMillan |
 | 176 | 361 | Jamie Lang |
 | 177 | 359 | Dapper Snap |
 | 178 | 358 | Chummy Caster |
-| 179 | 357 | Stephanie Burtin |
-| 180 | 357 | Tom Nault |
+| 179 | 357 | Tom Nault |
+| 180 | 357 | Stephanie Burtin |
 | 181 | 355 | Tessina Dewey-Mancino |
 | 182 | 353 | Shunta Jacobs |
 | 183 | 353 | Nora Rogers |
@@ -194,8 +194,8 @@
 | 186 | 347 | Jone |
 | 187 | 343 | Ashley Raines |
 | 188 | 341 | Samantha Lynn |
-| 189 | 338 | Gumbo |
-| 190 | 338 | Leah Barnett |
+| 189 | 338 | Leah Barnett |
+| 190 | 338 | Gumbo |
 | 191 | 332 | Rich LeBlanc |
 | 192 | 332 | Noyb Adam |
 | 193 | 330 | Rebecca Funderburk Kirby |
@@ -232,16 +232,16 @@
 | 224 | 281 | Betty Rosas |
 | 225 | 281 | Tamara Deherrera |
 | 226 | 281 | Valerie Gendron |
-| 227 | 278 | Sabrina Hardrick |
-| 228 | 278 | Rufus Lincoln |
+| 227 | 278 | Rufus Lincoln |
+| 228 | 278 | Sabrina Hardrick |
 | 229 | 277 | Keis |
 | 230 | 276 | _melisa223_ |
 | 231 | 276 | Crimson |
 | 232 | 275 | Cassandra Bryant |
 | 233 | 274 | Tye Stovall |
 | 234 | 272 | Dee Franklin |
-| 235 | 271 | Cass Mendoza |
-| 236 | 271 | Ashley Muncey |
+| 235 | 271 | Ashley Muncey |
+| 236 | 271 | Cass Mendoza |
 | 237 | 269 | Trisha Balmer |
 | 238 | 267 | Terry Jo Jones |
 | 239 | 266 | Eon Harris |
@@ -256,8 +256,8 @@
 | 248 | 259 | Danielle Weikel |
 | 249 | 257 | Ashley Jones |
 | 250 | 256 | Brenda Lee Vander Molen |
-| 251 | 256 | Tiffany Davie |
-| 252 | 256 | KayB |
+| 251 | 256 | KayB |
+| 252 | 256 | Tiffany Davie |
 | 253 | 250 | fraulila |
 | 254 | 249 | JerseyJess |
 | 255 | 249 | Annie Marie |
@@ -270,8 +270,8 @@
 | 262 | 238 | LaTanya GeminiondaRise Johnson |
 | 263 | 236 | Jess Bissett |
 | 264 | 235 | Cozy Snaplink |
-| 265 | 234 | Connie Mohler-Fair |
-| 266 | 234 | Nikki Pags |
+| 265 | 234 | Nikki Pags |
+| 266 | 234 | Connie Mohler-Fair |
 | 267 | 233 | Josh Borquez |
 | 268 | 233 | Ray Lader |
 | 269 | 232 | Brenda Schmid Wood |
@@ -282,16 +282,16 @@
 | 274 | 225 | Steffi Chris Dacones |
 | 275 | 224 | Quirky Dropzone |
 | 276 | 221 | Vaners |
-| 277 | 221 | Alice |
-| 278 | 221 | Jaime Monhaut-Reed |
+| 277 | 221 | Jaime Monhaut-Reed |
+| 278 | 221 | Alice |
 | 279 | 220 | rosy |
 | 280 | 220 | Tosha Griffey |
 | 281 | 218 | Michael Lucado |
 | 282 | 216 | Cheryl Hinch Tenbrook |
 | 283 | 216 | Twisty Brick LT |
 | 284 | 215 | IamJust Neyamijah Washington Sr. |
-| 285 | 214 | Angela Scott |
-| 286 | 214 | Amy Fuller Heaton |
+| 285 | 214 | Amy Fuller Heaton |
+| 286 | 214 | Angela Scott |
 | 287 | 214 | Rebel124 |
 | 288 | 213 | Nicholas Roddy |
 | 289 | 212 | Desiree Gold |
@@ -303,8 +303,8 @@
 | 295 | 210 | Lizabeth Fox |
 | 296 | 209 | Micayah Stevens |
 | 297 | 208 | AlsoJess |
-| 298 | 207 | Daring Builder |
-| 299 | 207 | Jessica |
+| 298 | 207 | Jessica |
+| 299 | 207 | Daring Builder |
 | 300 | 207 | angieelyn |
 | 301 | 206 | Stephanie Hill |
 | 302 | 206 | Tammy Rosenberry |
@@ -419,8 +419,8 @@
 | 411 | 146 | ROODBOY |
 | 412 | 146 | Sdot |
 | 413 | 144 | Crystal Hine |
-| 414 | 144 | Tenisha Semidey |
-| 415 | 144 | Blair Erin Waite |
+| 414 | 144 | Blair Erin Waite |
+| 415 | 144 | Tenisha Semidey |
 | 416 | 143 | Deseree Ewing |
 | 417 | 142 | Erica Anderson |
 | 418 | 142 | Courtney Conboy |

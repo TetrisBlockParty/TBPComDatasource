@@ -839,8 +839,8 @@
 | 831 | 272 | Alexandrea |
 | 832 | 271 | Amber N Koepp |
 | 833 | 271 | Pam Doughty |
-| 834 | 271 | Beverly Hodge |
-| 835 | 271 | Shalisa Hill |
+| 834 | 271 | Shalisa Hill |
+| 835 | 271 | Beverly Hodge |
 | 836 | 270 | BK Queen |
 | 837 | 270 | Lazy Builderfit |
 | 838 | 270 | Nat |
@@ -932,8 +932,8 @@
 | 924 | 248 | CleverAngel |
 | 925 | 248 | Jaybee Nguyen |
 | 926 | 247 | Linda Miltenburg |
-| 927 | 247 | Wizz |
-| 928 | 247 | Karyn Yurcho Dooley |
+| 927 | 247 | Karyn Yurcho Dooley |
+| 928 | 247 | Wizz |
 | 929 | 246 | Laura McConnell |
 | 930 | 246 | Stacey Tranchida |
 | 931 | 245 | Cassi Owens |

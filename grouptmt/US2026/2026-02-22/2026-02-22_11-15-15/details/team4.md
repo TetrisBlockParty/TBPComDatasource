@@ -62,8 +62,8 @@
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Kimyatta Cavin |
-| 58 | 636 | Dustee Craddock-Harrison |
+| 57 | 636 | Dustee Craddock-Harrison |
+| 58 | 636 | Kimyatta Cavin |
 | 59 | 623 | Robin Getchel |
 | 60 | 599 | Brittney Griggs |
 | 61 | 593 | Lisa Davis |
@@ -77,8 +77,8 @@
 | 69 | 530 | Yoset Mejia |
 | 70 | 524 | Amelpss |
 | 71 | 521 | Dawn Alexander |
-| 72 | 518 | Carolyn Wallace |
-| 73 | 518 | Eric Mcgaughy |
+| 72 | 518 | Eric Mcgaughy |
+| 73 | 518 | Carolyn Wallace |
 | 74 | 517 | H.R. Block |
 | 75 | 512 | Casey Jeffcoat |
 | 76 | 511 | Michelle Marie |
@@ -102,8 +102,8 @@
 | 94 | 404 | Courtney Cicoria |
 | 95 | 403 | shar |
 | 96 | 401 | Zippy Gridlock |
-| 97 | 396 | Alicia Bass |
-| 98 | 396 | Amy Suckarieh |
+| 97 | 396 | Amy Suckarieh |
+| 98 | 396 | Alicia Bass |
 | 99 | 392 | Ericca Eldridge |
 | 100 | 391 | Ramel Rhodes |
 | 101 | 390 | Carlton Unfiltered |
@@ -139,8 +139,8 @@
 | 131 | 281 | Meagan Nicole |
 | 132 | 278 | Carrie Brian |
 | 133 | 278 | Desi Desporte |
-| 134 | 277 | Mary Ann Pabukis |
-| 135 | 277 | Scott Jameson |
+| 134 | 277 | Scott Jameson |
+| 135 | 277 | Mary Ann Pabukis |
 | 136 | 275 | Dizzy Tiley |
 | 137 | 274 | Calvin Cannon |
 | 138 | 272 | Keshia Lyons |
@@ -164,8 +164,8 @@
 | 156 | 230 | Autum Leigh |
 | 157 | 228 | J-Rizzle |
 | 158 | 228 | Joeliecea Cobb |
-| 159 | 227 | Alyssa Papen |
-| 160 | 227 | Swanky Fitline |
+| 159 | 227 | Swanky Fitline |
+| 160 | 227 | Alyssa Papen |
 | 161 | 225 | Damn Libra |
 | 162 | 224 | Matt Summer |
 | 163 | 223 | Kris Bartlett |
