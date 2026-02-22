@@ -74,8 +74,8 @@
 | 66 | 2218 | Dineisha Carpenter |
 | 67 | 2196 | YiFei |
 | 68 | 2151 | Kelly Crook |
-| 69 | 2137 | Roger Grabbit |
-| 70 | 2137 | KellyDyan |
+| 69 | 2137 | KellyDyan |
+| 70 | 2137 | Roger Grabbit |
 | 71 | 2108 | Heather Piotrowski |
 | 72 | 2103 | Alisha Peoples |
 | 73 | 2090 | Jordan Petro |
@@ -191,8 +191,8 @@
 | 183 | 1062 | Crystal Slaughter |
 | 184 | 1050 | Amy Sayers |
 | 185 | 1045 | Lourisha |
-| 186 | 1043 | Suki Kaur |
-| 187 | 1043 | Brave Dropmatch |
+| 186 | 1043 | Brave Dropmatch |
+| 187 | 1043 | Suki Kaur |
 | 188 | 1036 | Allison Lockyer |
 | 189 | 1035 | Maegan Beaule |
 | 190 | 1024 | Bri Lynn |
@@ -348,8 +348,8 @@
 | 340 | 668 | Roseanna Peloso |
 | 341 | 666 | Speedy Spinblock |
 | 342 | 665 | Phil J. Grombliniak |
-| 343 | 665 | Taryece Gause |
-| 344 | 665 | Prette Qui |
+| 343 | 665 | Prette Qui |
+| 344 | 665 | Taryece Gause |
 | 345 | 664 | Sleepypanda67 |
 | 346 | 663 | tejas25 |
 | 347 | 663 | Mandi Douglas Hilt |
@@ -362,8 +362,8 @@
 | 354 | 650 | Amber Brion |
 | 355 | 644 | Desiree Anderson |
 | 356 | 643 | Hoppy Brickmatch |
-| 357 | 640 | Kara Gillen |
-| 358 | 640 | BYM4L |
+| 357 | 640 | BYM4L |
+| 358 | 640 | Kara Gillen |
 | 359 | 639 | Crystie Hicks |
 | 360 | 639 | Rebecca Miller |
 | 361 | 633 | Breezy Filler |
@@ -441,10 +441,10 @@
 | 433 | 532 | Lylymom |
 | 434 | 531 | Aishah Brice |
 | 435 | 529 | Ben Barkley |
-| 436 | 528 | Anita Rose Green |
-| 437 | 528 | Sparkles |
-| 438 | 527 | Osun Anuket Esu |
-| 439 | 527 | Ryan Gunther |
+| 436 | 528 | Sparkles |
+| 437 | 528 | Anita Rose Green |
+| 438 | 527 | Ryan Gunther |
+| 439 | 527 | Osun Anuket Esu |
 | 440 | 526 | Sheronda Jackson |
 | 441 | 525 | Joseph Musick |
 | 442 | 524 | Lonne Emade |

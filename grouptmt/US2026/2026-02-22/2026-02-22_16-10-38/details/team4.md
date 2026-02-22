@@ -43,8 +43,8 @@
 | 35 | 873 | Elizabeth Sallas |
 | 36 | 871 | Denny Shives |
 | 37 | 846 | Christine Marie |
-| 38 | 843 | Shelly Chandler |
-| 39 | 843 | Lucille Truesdale |
+| 38 | 843 | Lucille Truesdale |
+| 39 | 843 | Shelly Chandler |
 | 40 | 834 | quicksand420 |
 | 41 | 829 | LisaJo Picken Buchanan |
 | 42 | 823 | Jae Job |
@@ -169,12 +169,12 @@
 | 161 | 268 | Cursed Hag |
 | 162 | 267 | Kathy Brookins |
 | 163 | 267 | Damn Libra |
-| 164 | 265 | Jeff Brian Gates |
-| 165 | 265 | Chris Bernstein |
+| 164 | 265 | Chris Bernstein |
+| 165 | 265 | Jeff Brian Gates |
 | 166 | 264 | Girl |
 | 167 | 264 | Epic Curvetile |
-| 168 | 262 | Holly Jolly |
-| 169 | 262 | Joeliecea Cobb |
+| 168 | 262 | Joeliecea Cobb |
+| 169 | 262 | Holly Jolly |
 | 170 | 262 | Juls |
 | 171 | 256 | Mylo Lipscomb |
 | 172 | 256 | Porkobello |
@@ -248,15 +248,15 @@
 | 240 | 189 | Dihcheese444 |
 | 241 | 186 | Holly |
 | 242 | 185 | Laura Hosford |
-| 243 | 184 | Lauren Lamb |
-| 244 | 184 | Ak Jones |
+| 243 | 184 | Ak Jones |
+| 244 | 184 | Lauren Lamb |
 | 245 | 183 | JPW |
-| 246 | 181 | Carter Jones |
-| 247 | 181 | Jackie Marie |
+| 246 | 181 | Jackie Marie |
+| 247 | 181 | Carter Jones |
 | 248 | 180 | Orchislactea |
-| 249 | 179 | Christina Black |
-| 250 | 179 | TinyLegoRose |
-| 251 | 179 | Stephme310 |
+| 249 | 179 | Stephme310 |
+| 250 | 179 | Christina Black |
+| 251 | 179 | TinyLegoRose |
 | 252 | 179 | AyeKay |
 | 253 | 176 | Trista Leah |
 | 254 | 175 | Perky Patternblock |
@@ -495,8 +495,8 @@
 | 487 | 93 | Megan Boyce |
 | 488 | 93 | Mousey406 |
 | 489 | 92 | Krash |
-| 490 | 92 | Frilly Blocky |
-| 491 | 92 | Chris Hartig |
+| 490 | 92 | Chris Hartig |
+| 491 | 92 | Frilly Blocky |
 | 492 | 92 | RogueRebel |
 | 493 | 91 | Kametsunoyaiba |
 | 494 | 90 | Heather Mamabear Pezze |

@@ -249,8 +249,8 @@
 | 241 | 286 | Cynthia Herrmann Egland |
 | 242 | 284 | Denise Nardoni |
 | 243 | 283 | Cheeky Snapper |
-| 244 | 283 | Eon Harris |
-| 245 | 283 | Sarah Moyer |
+| 244 | 283 | Sarah Moyer |
+| 245 | 283 | Eon Harris |
 | 246 | 282 | Marquita Sheard |
 | 247 | 281 | Carrie Huskey |
 | 248 | 280 | Terry Jo Jones |
@@ -291,15 +291,15 @@
 | 283 | 244 | LaNette Morgan |
 | 284 | 244 | Christian Werndl |
 | 285 | 243 | Foltz Lee Kelli |
-| 286 | 241 | LaShey Thompson |
-| 287 | 241 | France Vézina |
+| 286 | 241 | France Vézina |
+| 287 | 241 | LaShey Thompson |
 | 288 | 240 | Jimmie Clemons |
 | 289 | 239 | Michael Johnson |
-| 290 | 236 | Jess Bissett |
-| 291 | 236 | Lys |
+| 290 | 236 | Lys |
+| 291 | 236 | Jess Bissett |
 | 292 | 236 | Angela Scott |
-| 293 | 233 | Tony Waters |
-| 294 | 233 | Josh Borquez |
+| 293 | 233 | Josh Borquez |
+| 294 | 233 | Tony Waters |
 | 295 | 232 | Donna |
 | 296 | 227 | Rebel124 |
 | 297 | 227 | ROODBOY |
@@ -472,7 +472,7 @@
 | 464 | 151 | Carol Cain Thurman |
 | 465 | 150 | Sassy Brickmatch |
 | 466 | 150 | Steph Arcari |
-| 467 | 149 | Alexis Taylor |
+| 467 | 149 | Weerae |
 | 468 | 149 | Elisha L Allman |
 | 469 | 149 | Alexis Taylor |
 | 470 | 148 | Groovy Blockclear |
