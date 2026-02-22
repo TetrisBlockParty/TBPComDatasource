@@ -151,8 +151,8 @@
 | 143 | 308 | Brian Richardsson |
 | 144 | 308 | Sharon Reynolds |
 | 145 | 307 | Kimberly Garcia |
-| 146 | 306 | Bloknboy |
-| 147 | 306 | Happy Basegrid |
+| 146 | 306 | Happy Basegrid |
+| 147 | 306 | Bloknboy |
 | 148 | 304 | Constance Risner |
 | 149 | 304 | Nicole Roseberry Weber |
 | 150 | 303 | Chelsea Dahlquist |
@@ -223,8 +223,8 @@
 | 215 | 223 | Erez Yosef |
 | 216 | 222 | Debbie Davis |
 | 217 | 221 | Daring Fitclear |
-| 218 | 220 | Giddy Cascade |
-| 219 | 220 | Jessie Lynn |
+| 218 | 220 | Jessie Lynn |
+| 219 | 220 | Giddy Cascade |
 | 220 | 219 | Chuck Gannon |
 | 221 | 217 | Jason Savage |
 | 222 | 216 | Shauntina Burke |
@@ -283,8 +283,8 @@
 | 275 | 183 | Brave Wrecker |
 | 276 | 183 | Tiger Lily |
 | 277 | 181 | David DeSantis |
-| 278 | 180 | Beau Galvan |
-| 279 | 180 | Matt Iaccheo |
+| 278 | 180 | Matt Iaccheo |
+| 279 | 180 | Beau Galvan |
 | 280 | 179 | Ryan White |
 | 281 | 178 | Gabrielle Louise Malloch |
 | 282 | 178 | Steph |
@@ -403,8 +403,8 @@
 | 395 | 130 | Carl Claunch |
 | 396 | 130 | Katie Toothman |
 | 397 | 129 | Sherri E Woods Hess |
-| 398 | 128 | Alyssa Ingram |
-| 399 | 128 | Sarah Henniker |
+| 398 | 128 | Sarah Henniker |
+| 399 | 128 | Alyssa Ingram |
 | 400 | 128 | George Dalton |
 | 401 | 127 | Frisky Risebuilder |
 | 402 | 126 | Shiny Rotate |

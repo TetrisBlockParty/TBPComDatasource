@@ -149,9 +149,9 @@
 | 141 | 492 | Daira Largen |
 | 142 | 491 | Chauntee Alfrey-Cardinale |
 | 143 | 488 | CeceGeGe |
-| 144 | 479 | Patti Skiles |
+| 144 | 479 | Annie Marie |
 | 145 | 479 | Poppy Splitter |
-| 146 | 479 | Annie Marie |
+| 146 | 479 | Patti Skiles |
 | 147 | 473 | mzcatzy |
 | 148 | 471 | Mendoza Lee Christy |
 | 149 | 469 | Adrian Marcel Pate |
@@ -210,8 +210,8 @@
 | 202 | 362 | Rochelle Hazelett |
 | 203 | 362 | Brandon Givens |
 | 204 | 362 | Loopy Fallmatch |
-| 205 | 358 | RickyG |
-| 206 | 358 | Chummy Caster |
+| 205 | 358 | Chummy Caster |
+| 206 | 358 | RickyG |
 | 207 | 357 | Stephanie Burtin |
 | 208 | 353 | Nora Rogers |
 | 209 | 351 | Eon Harris |
@@ -597,9 +597,9 @@
 | 589 | 124 | Julian Murphy |
 | 590 | 123 | gravelgrinder |
 | 591 | 123 | Chenoa Urban Sophicated Redy |
-| 592 | 123 | Spencer Nikki |
+| 592 | 123 | Silly Curvetile |
 | 593 | 123 | Brittany Shantea Maynard |
-| 594 | 123 | Silly Curvetile |
+| 594 | 123 | Spencer Nikki |
 | 595 | 122 | Scouty |
 | 596 | 122 | Christopher Mastropietro |
 | 597 | 122 | BabyTonj Evans |

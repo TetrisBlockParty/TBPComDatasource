@@ -224,8 +224,8 @@
 | 216 | 973 | Kim Dean |
 | 217 | 972 | Juliana Marques Do Nascimento Gordy |
 | 218 | 960 | Jennifer Kistner |
-| 219 | 957 | Keri Womack |
-| 220 | 957 | Block Master |
+| 219 | 957 | Block Master |
+| 220 | 957 | Keri Womack |
 | 221 | 957 | Crystal Hoffman |
 | 222 | 955 | Angela Bonquiqui Dinish |
 | 223 | 954 | Shannon Joslin |
@@ -1087,8 +1087,8 @@
 | 1079 | 249 | Ownlane Rico |
 | 1080 | 249 | Pammie Miller |
 | 1081 | 249 | Andrew Engman |
-| 1082 | 249 | Lively Piecebuilder |
-| 1083 | 249 | J.L. Roberts |
+| 1082 | 249 | J.L. Roberts |
+| 1083 | 249 | Lively Piecebuilder |
 | 1084 | 248 | Wil Allen |
 | 1085 | 248 | ItsJennifer Neriss |
 | 1086 | 248 | Jaybee Nguyen |
