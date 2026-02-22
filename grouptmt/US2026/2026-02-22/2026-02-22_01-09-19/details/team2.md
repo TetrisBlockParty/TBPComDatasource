@@ -257,8 +257,8 @@
 | 249 | 589 | Thomas Hedrick |
 | 250 | 587 | Hyper Cluster |
 | 251 | 586 | Hoppy Brickmatch |
-| 252 | 583 | Jessicah Myers |
-| 253 | 583 | Steve Grotto |
+| 252 | 583 | Steve Grotto |
+| 253 | 583 | Jessicah Myers |
 | 254 | 582 | Gary Stash |
 | 255 | 579 | Roy Salyer |
 | 256 | 579 | Juliana Marques Do Nascimento Gordy |
@@ -350,8 +350,8 @@
 | 342 | 451 | Melissa Kay Gibson |
 | 343 | 451 | Cody Nishimura |
 | 344 | 451 | Dylan Thomason |
-| 345 | 449 | Shelley Thornburgh Wright |
-| 346 | 449 | Davetta Sanford |
+| 345 | 449 | Davetta Sanford |
+| 346 | 449 | Shelley Thornburgh Wright |
 | 347 | 448 | Jojo Momma |
 | 348 | 447 | Heather Schelkopf |
 | 349 | 447 | Lourisha |
@@ -369,8 +369,8 @@
 | 361 | 433 | Caitlin Schmid |
 | 362 | 428 | Crystie Hicks |
 | 363 | 428 | Rhonda Milstead |
-| 364 | 427 | Destiny Cozier |
-| 365 | 427 | Amanda Ferrell |
+| 364 | 427 | Amanda Ferrell |
+| 365 | 427 | Destiny Cozier |
 | 366 | 427 | Kori Beth Babb |
 | 367 | 425 | Skyler Morgan |
 | 368 | 423 | Victoria Moore-Smith |
@@ -398,8 +398,8 @@
 | 390 | 401 | Taylor Flowers |
 | 391 | 400 | Tammy Allen |
 | 392 | 400 | Lee Harper |
-| 393 | 399 | Steven Marshaun |
-| 394 | 399 | Juanita Lyons |
+| 393 | 399 | Juanita Lyons |
+| 394 | 399 | Steven Marshaun |
 | 395 | 398 | Véronique Lévesque Sabourin |
 | 396 | 397 | coleksquad |
 | 397 | 396 | Stefanie Zonzini-Gagliardi |
@@ -417,14 +417,14 @@
 | 409 | 386 | Irene Jones |
 | 410 | 384 | Mike Aprilliano |
 | 411 | 383 | Arkei Luster |
-| 412 | 382 | David Holliday |
-| 413 | 382 | KhaosLord |
+| 412 | 382 | KhaosLord |
+| 413 | 382 | David Holliday |
 | 414 | 382 | Alexandra Weir |
 | 415 | 381 | Bubbly Snapfit |
 | 416 | 381 | Melissa Rebbe-Lehman |
 | 417 | 378 | Christina Ashley |
-| 418 | 378 | Niceday |
-| 419 | 378 | TF Dyer |
+| 418 | 378 | TF Dyer |
+| 419 | 378 | Niceday |
 | 420 | 376 | Darlene Bowman |
 | 421 | 374 | Gloria Ininahazwe |
 | 422 | 371 | AkaLefty |
@@ -517,8 +517,8 @@
 | 509 | 317 | snkylnk |
 | 510 | 316 | Mikayala Szaz |
 | 511 | 314 | James Zaragoza |
-| 512 | 314 | Amanda West |
-| 513 | 314 | Party d |
+| 512 | 314 | Party d |
+| 513 | 314 | Amanda West |
 | 514 | 313 | Natasha Edmonds |
 | 515 | 312 | Justin Hines |
 | 516 | 312 | Michelle Pike |

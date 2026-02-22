@@ -110,8 +110,8 @@
 | 102 | 441 | Jessica Bechler |
 | 103 | 438 | Bea Miles |
 | 104 | 430 | Patricia White |
-| 105 | 428 | Elissa S-k |
-| 106 | 428 | Betty Ivy |
+| 105 | 428 | Betty Ivy |
+| 106 | 428 | Elissa S-k |
 | 107 | 416 | Mary Pellegrino |
 | 108 | 410 | Stephanie Simpson |
 | 109 | 403 | Christine Filson |
@@ -242,8 +242,8 @@
 | 234 | 185 | AlsoJess |
 | 235 | 184 | Troy |
 | 236 | 181 | Nicholas Roddy |
-| 237 | 180 | Ryan Williams |
-| 238 | 180 | Loopy Fallmatch |
+| 237 | 180 | Loopy Fallmatch |
+| 238 | 180 | Ryan Williams |
 | 239 | 179 | Rachel Napper |
 | 240 | 179 | Daira Largen |
 | 241 | 179 | DanceLuvLaugh |
@@ -401,8 +401,8 @@
 | 393 | 109 | mommablock |
 | 394 | 109 | Sarah Whalen |
 | 395 | 109 | Sarah Morris |
-| 396 | 108 | Sierra Spencer |
-| 397 | 108 | Scouty |
+| 396 | 108 | Scouty |
+| 397 | 108 | Sierra Spencer |
 | 398 | 107 | Megan Stanley |
 | 399 | 106 | Cheeky Setter |
 | 400 | 106 | Crystal Hine |

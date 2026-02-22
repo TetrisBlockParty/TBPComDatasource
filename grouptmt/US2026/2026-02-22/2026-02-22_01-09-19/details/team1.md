@@ -86,8 +86,8 @@
 | 78 | 328 | Gracie |
 | 79 | 328 | Kellie |
 | 80 | 326 | Luciano Moreira |
-| 81 | 323 | Candy Jones |
-| 82 | 323 | Sweet Baker |
+| 81 | 323 | Sweet Baker |
+| 82 | 323 | Candy Jones |
 | 83 | 321 | Maria C. Hernandez |
 | 84 | 319 | Shauna Loe |
 | 85 | 319 | Deanna L Hermanson |
@@ -110,8 +110,8 @@
 | 102 | 273 | Bhelle Sumile |
 | 103 | 273 | Happy Basegrid |
 | 104 | 270 | Spunky Piecebuilder |
-| 105 | 269 | Rachael |
-| 106 | 269 | Seante Bullock |
+| 105 | 269 | Seante Bullock |
+| 106 | 269 | Rachael |
 | 107 | 263 | Sharon Reynolds |
 | 108 | 262 | Dandy Basegrid |
 | 109 | 257 | june october |
@@ -142,11 +142,11 @@
 | 134 | 198 | Happy Snapbuild |
 | 135 | 198 | Shiny Gridmatch |
 | 136 | 195 | Daring Fitclear |
-| 137 | 194 | Ash Galvan |
-| 138 | 194 | Tyler Werts |
+| 137 | 194 | Tyler Werts |
+| 138 | 194 | Ash Galvan |
 | 139 | 193 | Lachelle Dillon |
-| 140 | 192 | Jessica Sheehan |
-| 141 | 192 | Shaykmia |
+| 140 | 192 | Shaykmia |
+| 141 | 192 | Jessica Sheehan |
 | 142 | 191 | Diane Byrd |
 | 143 | 190 | Sweetts |
 | 144 | 190 | Thorne Shumate |
@@ -167,10 +167,10 @@
 | 159 | 175 | John Barron |
 | 160 | 173 | Gabrielle Louise Malloch |
 | 161 | 171 | Greg Premoe |
-| 162 | 171 | David DeSantis |
-| 163 | 171 | femmefatale |
-| 164 | 170 | Cartier |
-| 165 | 170 | Veronica Eve |
+| 162 | 171 | femmefatale |
+| 163 | 171 | David DeSantis |
+| 164 | 170 | Veronica Eve |
+| 165 | 170 | Cartier |
 | 166 | 169 | Abbey Crespo |
 | 167 | 168 | Jessie Lynn |
 | 168 | 168 | Sleepysloath5745 |
@@ -531,7 +531,7 @@
 | 523 | 56 | William Cry |
 | 524 | 56 | Robert |
 | 525 | 56 | Skuba Cece |
-| 526 | 56 | Perky Shiftsnap |
+| 526 | 56 | Amanda Stevens |
 | 527 | 56 | ash |
 | 528 | 56 | Johnnette Kruse |
 | 529 | 56 | Gregg Scott |

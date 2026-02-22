@@ -133,14 +133,14 @@
 | 125 | 210 | Swanky Fitline |
 | 126 | 208 | Chastity Mitchell |
 | 127 | 205 | Sarah Neathery |
-| 128 | 204 | Jen Caldwell |
-| 129 | 204 | Dana Scott |
+| 128 | 204 | Dana Scott |
+| 129 | 204 | Jen Caldwell |
 | 130 | 203 | Katherine Crane |
 | 131 | 202 | Monica Daley |
 | 132 | 201 | Melvin Baird |
 | 133 | 197 | Peachy Fall |
-| 134 | 196 | Jeff Brian Gates |
-| 135 | 196 | Jenna McGeorge |
+| 134 | 196 | Jenna McGeorge |
+| 135 | 196 | Jeff Brian Gates |
 | 136 | 194 | Zany Twisterfit |
 | 137 | 192 | Shauna Havard |
 | 138 | 190 | Mary Ann Pabukis |
@@ -148,8 +148,8 @@
 | 140 | 189 | Calvin Dennis |
 | 141 | 187 | TheNeesh50 |
 | 142 | 186 | Holly |
-| 143 | 185 | Andy Cabral |
-| 144 | 185 | Lori |
+| 143 | 185 | Lori |
+| 144 | 185 | Andy Cabral |
 | 145 | 185 | Malakai Darien Fox |
 | 146 | 184 | Justin Hannigan |
 | 147 | 181 | Andria Lynn |
