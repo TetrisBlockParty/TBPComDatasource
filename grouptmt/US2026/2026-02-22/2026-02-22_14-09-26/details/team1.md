@@ -140,8 +140,8 @@
 | 132 | 300 | Elaine Elaine |
 | 133 | 300 | Chelsea Dahlquist |
 | 134 | 298 | Erin Hodges Plumb |
-| 135 | 290 | Death |
-| 136 | 290 | Sarah Roberts |
+| 135 | 290 | Sarah Roberts |
+| 136 | 290 | Death |
 | 137 | 289 | David Miller |
 | 138 | 285 | Ananda Mendez |
 | 139 | 284 | Rachael |
@@ -170,10 +170,10 @@
 | 162 | 252 | Dena Kayy |
 | 163 | 252 | Constance Risner |
 | 164 | 247 | Tana |
-| 165 | 246 | Mike Ames |
-| 166 | 246 | Lakeisha Chapman |
-| 167 | 244 | Marianita Garcia |
-| 168 | 244 | Eddie Dillon |
+| 165 | 246 | Lakeisha Chapman |
+| 166 | 246 | Mike Ames |
+| 167 | 244 | Eddie Dillon |
+| 168 | 244 | Marianita Garcia |
 | 169 | 243 | Trippy Redd |
 | 170 | 242 | ALFD |
 | 171 | 241 | John J. Cronin |
@@ -222,8 +222,8 @@
 | 214 | 198 | Shiny Gridmatch |
 | 215 | 198 | Happy Snapbuild |
 | 216 | 197 | Melissa Lemmon |
-| 217 | 195 | Bindi |
-| 218 | 195 | Jennifer Olewnik Soborowski |
+| 217 | 195 | Jennifer Olewnik Soborowski |
+| 218 | 195 | Bindi |
 | 219 | 194 | Christy Jones |
 | 220 | 193 | Michael |
 | 221 | 193 | Lachelle Dillon |
@@ -270,9 +270,9 @@
 | 262 | 173 | Rico Rico |
 | 263 | 171 | David DeSantis |
 | 264 | 171 | Greg Premoe |
-| 265 | 170 | Spunky Builderpiece |
+| 265 | 170 | Standia Civil |
 | 266 | 170 | Tina Englert |
-| 267 | 170 | Standia Civil |
+| 267 | 170 | Spunky Builderpiece |
 | 268 | 169 | Abbey Crespo |
 | 269 | 168 | Angela Fairbank |
 | 270 | 167 | Cranky Pattern |

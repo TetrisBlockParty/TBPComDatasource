@@ -580,9 +580,9 @@
 | 572 | 71 | Speedy Wipeblock |
 | 573 | 71 | Mary Miller |
 | 574 | 71 | Nikisha Reed |
-| 575 | 70 | Chilly Filler |
-| 576 | 70 | PlatinumRose |
-| 577 | 70 | Brittany Price |
+| 575 | 70 | Brittany Price |
+| 576 | 70 | Chilly Filler |
+| 577 | 70 | PlatinumRose |
 | 578 | 70 | Cranky Pivoty |
 | 579 | 70 | Stephanie Jones |
 | 580 | 70 | Katie Linneman-Rowland |
