@@ -146,8 +146,8 @@
 | 138 | 364 | Serina Marie |
 | 139 | 363 | Sharon Reynolds |
 | 140 | 361 | Tanya Carpenter-Reynolds |
-| 141 | 360 | phrmblk24 |
-| 142 | 360 | Wisa |
+| 141 | 360 | Wisa |
+| 142 | 360 | phrmblk24 |
 | 143 | 359 | Chirpy Smasher |
 | 144 | 357 | Amanda Johnson Huffman |
 | 145 | 356 | Jason Savage |
@@ -164,8 +164,8 @@
 | 156 | 333 | Gracie |
 | 157 | 332 | Lehrin Maria |
 | 158 | 325 | Dizzy Party |
-| 159 | 324 | Rat666 |
-| 160 | 324 | Ananda Mendez |
+| 159 | 324 | Ananda Mendez |
+| 160 | 324 | Rat666 |
 | 161 | 322 | Chelsea Dahlquist |
 | 162 | 318 | Jessica Sheehan |
 | 163 | 318 | Virginia Gray Floyd |

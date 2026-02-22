@@ -199,8 +199,8 @@
 | 191 | 431 | Loopy Fallmatch |
 | 192 | 431 | Wendy Dearden |
 | 193 | 430 | Terry Jo Jones |
-| 194 | 430 | Joye Sims Binion |
-| 195 | 430 | Jeni Dow |
+| 194 | 430 | Jeni Dow |
+| 195 | 430 | Joye Sims Binion |
 | 196 | 426 | Rochelle Hazelett |
 | 197 | 425 | Michael Johnson |
 | 198 | 422 | Fallorina Susana |
@@ -472,8 +472,8 @@
 | 464 | 189 | Deseree Ewing |
 | 465 | 187 | Sabrina Mansfield |
 | 466 | 185 | Funky Jumper |
-| 467 | 184 | Shanon R Jackson |
-| 468 | 184 | Cheeky Setter |
+| 467 | 184 | Cheeky Setter |
+| 468 | 184 | Shanon R Jackson |
 | 469 | 183 | Smiley Zone |
 | 470 | 182 | Sunny Lift |
 | 471 | 182 | Alicia |

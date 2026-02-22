@@ -112,8 +112,8 @@
 | 104 | 499 | Christina LR |
 | 105 | 499 | Trista Leah |
 | 106 | 488 | Jen Allison |
-| 107 | 487 | shar |
-| 108 | 487 | Alyssa Papen |
+| 107 | 487 | Alyssa Papen |
+| 108 | 487 | shar |
 | 109 | 481 | Serena Goodridge |
 | 110 | 476 | Matt Summer |
 | 111 | 474 | Jenna Ingersoll |
@@ -153,8 +153,8 @@
 | 145 | 368 | Brandon Crabbs |
 | 146 | 359 | Angela Srubar-Norman |
 | 147 | 358 | ThaEviLJeNiuZ |
-| 148 | 353 | Tyler Terrific |
-| 149 | 353 | Livvy |
+| 148 | 353 | Livvy |
+| 149 | 353 | Tyler Terrific |
 | 150 | 349 | Desi Desporte |
 | 151 | 348 | 🥔🥔 Spudz |
 | 152 | 348 | Silly Zonebuilder |
@@ -164,8 +164,8 @@
 | 156 | 339 | David Lay |
 | 157 | 333 | Peachy Fall |
 | 158 | 333 | Twisty Cascadezone |
-| 159 | 332 | HastyGrabber |
-| 160 | 332 | Leslie Nicole |
+| 159 | 332 | Leslie Nicole |
+| 160 | 332 | HastyGrabber |
 | 161 | 330 | Oscar Alberto Perez |
 | 162 | 329 | Jeff Brian Gates |
 | 163 | 328 | Kris Bartlett |
@@ -489,11 +489,11 @@
 | 481 | 124 | Jackson Karen |
 | 482 | 124 | Stacy |
 | 483 | 124 | Atia Scott |
-| 484 | 123 | Sunny Filler |
-| 485 | 123 | MOCHA |
-| 486 | 123 | Jennifer Perkins |
-| 487 | 122 | @ |
-| 488 | 122 | bloat princess |
+| 484 | 123 | MOCHA |
+| 485 | 123 | Jennifer Perkins |
+| 486 | 123 | Sunny Filler |
+| 487 | 122 | bloat princess |
+| 488 | 122 | @ |
 | 489 | 122 | Kate |
 | 490 | 121 | Jesse Saville |
 | 491 | 120 | Christina O'Dell-Ishau |

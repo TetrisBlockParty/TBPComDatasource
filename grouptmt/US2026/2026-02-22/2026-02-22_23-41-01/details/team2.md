@@ -478,8 +478,8 @@
 | 470 | 589 | Kelly Templeton |
 | 471 | 589 | Shavonna Haynes |
 | 472 | 589 | Thomas Hedrick |
-| 473 | 584 | Ryan Stadel |
-| 474 | 584 | snkylnk |
+| 473 | 584 | snkylnk |
+| 474 | 584 | Ryan Stadel |
 | 475 | 583 | Kitybox |
 | 476 | 582 | Bee |
 | 477 | 582 | Gauri Shrotriya |
@@ -500,8 +500,8 @@
 | 492 | 567 | Snappy Matchbuilder |
 | 493 | 566 | Leah Keesling |
 | 494 | 565 | Lyndi Robinson Wakefield |
-| 495 | 565 | Blacc Blac |
-| 496 | 565 | Ann Knutson Anderson |
+| 495 | 565 | Ann Knutson Anderson |
+| 496 | 565 | Blacc Blac |
 | 497 | 563 | Frisky Clearpiece |
 | 498 | 563 | Sarah Massey |
 | 499 | 562 | AISlop |
