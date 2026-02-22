@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Shelly Chandler |
-| 34 | 843 | Lucille Truesdale |
+| 33 | 843 | Lucille Truesdale |
+| 34 | 843 | Shelly Chandler |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -146,8 +146,8 @@
 | 138 | 274 | Calvin Cannon |
 | 139 | 272 | Keshia Lyons |
 | 140 | 271 | Sarah Brown |
-| 141 | 264 | Epic Curvetile |
-| 142 | 264 | Dana Scott |
+| 141 | 264 | Dana Scott |
+| 142 | 264 | Girl |
 | 143 | 264 | Epic Curvetile |
 | 144 | 262 | Alan George LaRage |
 | 145 | 262 | Holly Jolly |
@@ -204,8 +204,8 @@
 | 196 | 195 | 中山成巳 |
 | 197 | 194 | Zany Twisterfit |
 | 198 | 192 | Shauna Havard |
-| 199 | 191 | Klo |
-| 200 | 191 | Sam Bishop |
+| 199 | 191 | Sam Bishop |
+| 200 | 191 | Klo |
 | 201 | 190 | Cheery Risebuilder |
 | 202 | 189 | Stacey Stano |
 | 203 | 189 | Calvin Dennis |
@@ -426,8 +426,8 @@
 | 418 | 97 | Cool Gridzone |
 | 419 | 97 | Rosemary Foster |
 | 420 | 96 | Rebecca Blake |
-| 421 | 95 | Chirpy Slammer |
-| 422 | 95 | Jobadia Steelerton |
+| 421 | 95 | Jobadia Steelerton |
+| 422 | 95 | Chirpy Slammer |
 | 423 | 95 | RedBoots82 |
 | 424 | 94 | Jeff Roberts |
 | 425 | 94 | Ahleek Mitchell |
@@ -481,7 +481,7 @@
 | 473 | 84 | mini |
 | 474 | 84 | Robert Sch |
 | 475 | 83 | Groovy Brickmatch |
-| 476 | 82 | Oleg Zakharskiy |
+| 476 | 82 | Kimberlee Jan Beckstead |
 | 477 | 82 | Stacy Jones |
 | 478 | 82 | Oleg Zakharskiy |
 | 479 | 81 | Tiffany Root |

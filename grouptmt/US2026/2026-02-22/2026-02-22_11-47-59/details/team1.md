@@ -54,8 +54,8 @@
 | 46 | 671 | Lawrence Belanger |
 | 47 | 663 | Drew Magnus |
 | 48 | 646 | Susanna Guerry |
-| 49 | 635 | Marianne Louise West |
-| 50 | 635 | Angel Fowler |
+| 49 | 635 | Angel Fowler |
+| 50 | 635 | Marianne Louise West |
 | 51 | 631 | comrade fish |
 | 52 | 627 | Katie Daniels |
 | 53 | 614 | Snappy Swiper |
@@ -77,8 +77,8 @@
 | 69 | 461 | April Carroll |
 | 70 | 456 | Arianna O'Brien |
 | 71 | 447 | Evie Khalil |
-| 72 | 434 | Hyper |
-| 73 | 434 | MomMom |
+| 72 | 434 | MomMom |
+| 73 | 434 | Hyper |
 | 74 | 430 | Nancy Green |
 | 75 | 428 | Stephanie Zahn |
 | 76 | 418 | Jazzy Framezone |
@@ -126,8 +126,8 @@
 | 118 | 316 | Jennifer Hardman |
 | 119 | 316 | Ly Phethmany |
 | 120 | 313 | Tanya Carpenter-Reynolds |
-| 121 | 310 | Seth Wesson |
-| 122 | 310 | Jason Jones |
+| 121 | 310 | Jason Jones |
+| 122 | 310 | Seth Wesson |
 | 123 | 306 | Happy Basegrid |
 | 124 | 304 | Nicole Roseberry Weber |
 | 125 | 301 | Lehrin Maria |
@@ -161,8 +161,8 @@
 | 153 | 255 | Elaine Elaine |
 | 154 | 254 | Al Smith Jr |
 | 155 | 254 | Ty Brown |
-| 156 | 253 | Plucky Fallzone |
-| 157 | 253 | Witty Builderfit |
+| 156 | 253 | Witty Builderfit |
+| 157 | 253 | Plucky Fallzone |
 | 158 | 252 | Dena Kayy |
 | 159 | 247 | Tana |
 | 160 | 246 | Lakeisha Chapman |
@@ -180,8 +180,8 @@
 | 172 | 226 | Kandae |
 | 173 | 219 | Chuck Gannon |
 | 174 | 218 | LC |
-| 175 | 217 | ParisandCory Champagne |
-| 176 | 217 | Kimberly Garcia |
+| 175 | 217 | Kimberly Garcia |
+| 176 | 217 | ParisandCory Champagne |
 | 177 | 216 | Shauntina Burke |
 | 178 | 216 | MRdot Rooski |
 | 179 | 215 | Shaykmia |
@@ -189,13 +189,13 @@
 | 181 | 213 | Daring Fitclear |
 | 182 | 212 | Jaimie Lynn |
 | 183 | 211 | Marianita Garcia |
-| 184 | 210 | Letson Melissa |
-| 185 | 210 | Giggly Builderline |
+| 184 | 210 | Giggly Builderline |
+| 185 | 210 | Letson Melissa |
 | 186 | 209 | Debbie Davis |
-| 187 | 208 | Donna Addison Williams |
-| 188 | 208 | Bouncy Grid |
-| 189 | 207 | Brenda Alexander |
-| 190 | 207 | Leslie Bush Yarbrough |
+| 187 | 208 | Bouncy Grid |
+| 188 | 208 | Donna Addison Williams |
+| 189 | 207 | Leslie Bush Yarbrough |
+| 190 | 207 | Brenda Alexander |
 | 191 | 206 | BadG52 |
 | 192 | 205 | Tater |
 | 193 | 205 | Snappy Matcher |
@@ -219,8 +219,8 @@
 | 211 | 191 | Shanae Grant |
 | 212 | 191 | Diane Byrd |
 | 213 | 190 | Thorne Shumate |
-| 214 | 190 | Erez Yosef |
-| 215 | 190 | Sweetts |
+| 214 | 190 | Sweetts |
+| 215 | 190 | Erez Yosef |
 | 216 | 189 | Jeanna Dunn |
 | 217 | 189 | Veronica Eve |
 | 218 | 187 | Tawnya Peltonen |
@@ -229,8 +229,8 @@
 | 221 | 187 | Amanda Johnson Huffman |
 | 222 | 186 | Margo Wagner |
 | 223 | 184 | Chris Sigurdson |
-| 224 | 183 | Andrew Boone |
-| 225 | 183 | Amy Hess |
+| 224 | 183 | Amy Hess |
+| 225 | 183 | Andrew Boone |
 | 226 | 182 | Phu ckalldems |
 | 227 | 180 | Beau Galvan |
 | 228 | 180 | BigWeenie69 |
@@ -320,8 +320,8 @@
 | 312 | 133 | MommaKFC |
 | 313 | 132 | Larry Tilton |
 | 314 | 132 | Layzietyme |
-| 315 | 131 | Plucky Wrecker |
-| 316 | 131 | Dizzy Riseclear |
+| 315 | 131 | Dizzy Riseclear |
+| 316 | 131 | Plucky Wrecker |
 | 317 | 130 | Carl Claunch |
 | 318 | 130 | Jessica Weed |
 | 319 | 129 | Madison Wicks |

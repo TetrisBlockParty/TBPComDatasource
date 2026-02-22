@@ -103,8 +103,8 @@
 | 95 | 595 | Patricia White |
 | 96 | 591 | Jesse Olive |
 | 97 | 588 | yoyo |
-| 98 | 582 | Jay Horn |
-| 99 | 582 | Natasha Jones |
+| 98 | 582 | Natasha Jones |
+| 99 | 582 | Jay Horn |
 | 100 | 581 | Danielle Mogg |
 | 101 | 579 | Jd Morris |
 | 102 | 566 | Dolores Falco |
@@ -142,8 +142,8 @@
 | 134 | 457 | Jim Mathews |
 | 135 | 454 | Makelini Mausia |
 | 136 | 449 | Danielle Rhoades |
-| 137 | 445 | Jacqueline Rodriguez |
-| 138 | 445 | Kristie McFarland |
+| 137 | 445 | Kristie McFarland |
+| 138 | 445 | Jacqueline Rodriguez |
 | 139 | 435 | Michelle |
 | 140 | 432 | Jenny Hrndz |
 | 141 | 428 | Betty Ivy |
@@ -185,8 +185,8 @@
 | 177 | 359 | Dapper Snap |
 | 178 | 358 | RickyG |
 | 179 | 358 | Chummy Caster |
-| 180 | 357 | Stephanie Burtin |
-| 181 | 357 | Tom Nault |
+| 180 | 357 | Tom Nault |
+| 181 | 357 | Stephanie Burtin |
 | 182 | 355 | Tessina Dewey-Mancino |
 | 183 | 353 | Shunta Jacobs |
 | 184 | 353 | Nora Rogers |
@@ -206,8 +206,8 @@
 | 198 | 320 | Or Reznitsky |
 | 199 | 317 | Ashley Tookes |
 | 200 | 315 | Kammy Hill |
-| 201 | 311 | Araceli Parra |
-| 202 | 311 | Rochelle Hazelett |
+| 201 | 311 | Rochelle Hazelett |
+| 202 | 311 | Araceli Parra |
 | 203 | 310 | Danielle Balcom |
 | 204 | 308 | Rania Zaqout |
 | 205 | 308 | Daryn Elliott |
@@ -217,8 +217,8 @@
 | 209 | 301 | Chelsea Hall |
 | 210 | 300 | Sherika C. McDaniels |
 | 211 | 298 | MsBee |
-| 212 | 297 | Jojo M |
-| 213 | 297 | Keis |
+| 212 | 297 | Keis |
+| 213 | 297 | Jojo M |
 | 214 | 296 | Ammmmmmy |
 | 215 | 296 | Katrina Turner |
 | 216 | 296 | Brandon Givens |
@@ -257,8 +257,8 @@
 | 249 | 259 | Danielle Weikel |
 | 250 | 257 | Ashley Jones |
 | 251 | 256 | Brenda Lee Vander Molen |
-| 252 | 256 | KayB |
-| 253 | 256 | Tiffany Davie |
+| 252 | 256 | Tiffany Davie |
+| 253 | 256 | KayB |
 | 254 | 250 | fraulila |
 | 255 | 249 | Annie Marie |
 | 256 | 249 | JerseyJess |
@@ -287,11 +287,11 @@
 | 279 | 220 | Tosha Griffey |
 | 280 | 220 | rosy |
 | 281 | 218 | Michael Lucado |
-| 282 | 216 | Twisty Brick LT |
-| 283 | 216 | Cheryl Hinch Tenbrook |
+| 282 | 216 | Cheryl Hinch Tenbrook |
+| 283 | 216 | Twisty Brick LT |
 | 284 | 215 | IamJust Neyamijah Washington Sr. |
-| 285 | 214 | Amy Fuller Heaton |
-| 286 | 214 | Angela Scott |
+| 285 | 214 | Angela Scott |
+| 286 | 214 | Amy Fuller Heaton |
 | 287 | 214 | Rebel124 |
 | 288 | 213 | Nicholas Roddy |
 | 289 | 212 | Desiree Gold |
@@ -443,8 +443,8 @@
 | 435 | 140 | Linda Draper |
 | 436 | 139 | Beppy |
 | 437 | 139 | Paula Little |
-| 438 | 138 | Bleu Sun Beams |
-| 439 | 138 | Skinny Baldez |
+| 438 | 138 | Skinny Baldez |
+| 439 | 138 | Bleu Sun Beams |
 | 440 | 137 | Giggly Brickroll |
 | 441 | 136 | Sabrina Mansfield |
 | 442 | 136 | Stephanie Zahm |
@@ -543,8 +543,8 @@
 | 535 | 113 | Christopher Woost |
 | 536 | 112 | Bekah Dietrich |
 | 537 | 112 | Michael Kimbro |
-| 538 | 111 | Jennifer Neiman Gaal |
-| 539 | 111 | Geronimo |
+| 538 | 111 | Geronimo |
+| 539 | 111 | Jennifer Neiman Gaal |
 | 540 | 111 | Chenoa Urban Sophicated Redy |
 | 541 | 111 | Victoria Wangler Lewis |
 | 542 | 110 | Scott Doss |
