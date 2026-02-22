@@ -85,10 +85,10 @@
 | 77 | 338 | Stephanie Zahn |
 | 78 | 333 | Brandi Huntington |
 | 79 | 332 | Luciano Moreira |
-| 80 | 328 | Gracie |
-| 81 | 328 | Kellie |
-| 82 | 323 | Candy Jones |
-| 83 | 323 | Sweet Baker |
+| 80 | 328 | Kellie |
+| 81 | 328 | Gracie |
+| 82 | 323 | Sweet Baker |
+| 83 | 323 | Candy Jones |
 | 84 | 321 | Maria C. Hernandez |
 | 85 | 319 | Deanna L Hermanson |
 | 86 | 319 | Shauna Loe |
@@ -160,10 +160,10 @@
 | 152 | 190 | Sweetts |
 | 153 | 190 | Thorne Shumate |
 | 154 | 188 | Sam Williams |
-| 155 | 187 | Jennifer Olewnik Soborowski |
-| 156 | 187 | Snippy Wipebuilder |
-| 157 | 186 | Margo Wagner |
-| 158 | 186 | Michael |
+| 155 | 187 | Snippy Wipebuilder |
+| 156 | 187 | Jennifer Olewnik Soborowski |
+| 157 | 186 | Michael |
+| 158 | 186 | Margo Wagner |
 | 159 | 185 | Basment Living |
 | 160 | 183 | Sleepysloath5745 |
 | 161 | 180 | Erez Yosef |

@@ -88,8 +88,8 @@
 | 80 | 370 | Leslie Thomas |
 | 81 | 369 | Nope Young |
 | 82 | 359 | Jamie Mann-Deichmann |
-| 83 | 358 | Nugget |
-| 84 | 358 | Shane Kalamata Platoon |
+| 83 | 358 | Shane Kalamata Platoon |
+| 84 | 358 | Nugget |
 | 85 | 319 | Livvy |
 | 86 | 314 | Amanda Pauldo-Ivy |
 | 87 | 311 | David Lay |
@@ -136,8 +136,8 @@
 | 128 | 217 | loulou |
 | 129 | 217 | Chaz Duncan |
 | 130 | 215 | Jessica Bohlken |
-| 131 | 212 | Mike Solo |
-| 132 | 212 | Calvin Cannon |
+| 131 | 212 | Calvin Cannon |
+| 132 | 212 | Mike Solo |
 | 133 | 211 | Twisty Cascadezone |
 | 134 | 210 | Swanky Fitline |
 | 135 | 207 | Scott Jameson |

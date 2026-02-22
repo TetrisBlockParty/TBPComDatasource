@@ -71,8 +71,8 @@
 | 63 | 649 | MissTaylor |
 | 64 | 639 | Elaine Webb Graves |
 | 65 | 628 | Tiff Vs Tiffany |
-| 66 | 621 | Jessica Bechler |
-| 67 | 621 | Cherry Parker |
+| 66 | 621 | Cherry Parker |
+| 67 | 621 | Jessica Bechler |
 | 68 | 619 | Jennifer |
 | 69 | 618 | Brandon Green |
 | 70 | 613 | Amber Hughes |
@@ -114,8 +114,8 @@
 | 106 | 432 | Jennifer Lynn Fahrenholtz-Summers |
 | 107 | 432 | Jenny Hrndz |
 | 108 | 430 | Patricia White |
-| 109 | 428 | Elissa S-k |
-| 110 | 428 | Betty Ivy |
+| 109 | 428 | Betty Ivy |
+| 110 | 428 | Elissa S-k |
 | 111 | 416 | Mary Pellegrino |
 | 112 | 410 | Stephanie Simpson |
 | 113 | 410 | Stephanie Blkpep Davidson |
@@ -124,9 +124,9 @@
 | 116 | 403 | Christine Filson |
 | 117 | 400 | Luciana Braganca Vieira |
 | 118 | 400 | Jesse Olive |
-| 119 | 399 | ren |
-| 120 | 399 | Patti Skiles |
-| 121 | 399 | Mcathen |
+| 119 | 399 | Mcathen |
+| 120 | 399 | ren |
+| 121 | 399 | Patti Skiles |
 | 122 | 397 | Annie Déè |
 | 123 | 396 | Shannon Matthew Byers |
 | 124 | 394 | joclisa |
@@ -189,8 +189,8 @@
 | 181 | 260 | Grams |
 | 182 | 258 | Tamara Deherrera |
 | 183 | 257 | Ashley Jones |
-| 184 | 256 | Brenda Lee Vander Molen |
-| 185 | 256 | KayB |
+| 184 | 256 | KayB |
+| 185 | 256 | Brenda Lee Vander Molen |
 | 186 | 254 | Duane Bright |
 | 187 | 253 | Nora Rogers |
 | 188 | 251 | Tiffany Davie |
