@@ -74,8 +74,8 @@
 | 66 | 604 | Danielle Becker |
 | 67 | 591 | Suzieq |
 | 68 | 588 | yoyo |
-| 69 | 582 | Katrina Schroeder |
-| 70 | 582 | Natasha Jones |
+| 69 | 582 | Natasha Jones |
+| 70 | 582 | Katrina Schroeder |
 | 71 | 581 | Danielle Mogg |
 | 72 | 580 | Amanda L Baker |
 | 73 | 576 | Dan Rob |
@@ -207,8 +207,8 @@
 | 199 | 207 | Jessica |
 | 200 | 205 | Sarah Moyer |
 | 201 | 204 | Danielle Allison |
-| 202 | 201 | Karon Griffin |
-| 203 | 201 | IamJust Neyamijah Washington Sr. |
+| 202 | 201 | IamJust Neyamijah Washington Sr. |
+| 203 | 201 | Karon Griffin |
 | 204 | 200 | Sharisse Baltimore |
 | 205 | 200 | glichmod |
 | 206 | 197 | Angie Harper |
@@ -224,8 +224,8 @@
 | 216 | 191 | Scott Carleton |
 | 217 | 191 | Brenda Lee Vander Molen |
 | 218 | 190 | Raven Dudley |
-| 219 | 189 | Sissy Lowery Davis |
-| 220 | 189 | Aerian Preston |
+| 219 | 189 | Aerian Preston |
+| 220 | 189 | Sissy Lowery Davis |
 | 221 | 188 | JerseyJess |
 | 222 | 186 | Hyper Matchzone |
 | 223 | 186 | Sunny Rotater |

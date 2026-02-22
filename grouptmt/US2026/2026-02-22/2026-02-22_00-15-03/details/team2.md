@@ -160,8 +160,8 @@
 | 152 | 808 | Missie Lawson Gebhardt |
 | 153 | 807 | Khalil Lowe |
 | 154 | 802 | Robin Kerby |
-| 155 | 800 | Tacara Cummings |
-| 156 | 800 | Danielle Johnson-Chandler |
+| 155 | 800 | Danielle Johnson-Chandler |
+| 156 | 800 | Tacara Cummings |
 | 157 | 792 | Jumpy Gridpiece |
 | 158 | 791 | Chirpy Staggerpiece |
 | 159 | 789 | Stephanie Chapman |
@@ -246,8 +246,8 @@
 | 238 | 587 | Hyper Cluster |
 | 239 | 586 | Hoppy Brickmatch |
 | 240 | 586 | Stephen Stephen |
-| 241 | 583 | Steve Grotto |
-| 242 | 583 | Jessicah Myers |
+| 241 | 583 | Jessicah Myers |
+| 242 | 583 | Steve Grotto |
 | 243 | 582 | Gary Stash |
 | 244 | 581 | Jánine Riggs |
 | 245 | 580 | Leslie Ann Carter |
@@ -583,17 +583,17 @@
 | 575 | 276 | Vonceial Boone |
 | 576 | 276 | Loony Basepiece |
 | 577 | 276 | Patrick Bartlett |
-| 578 | 274 | Robin L. Vial |
-| 579 | 274 | Kacee Conrad Bock |
+| 578 | 274 | Kacee Conrad Bock |
+| 579 | 274 | Robin L. Vial |
 | 580 | 274 | Jamie Stevey |
 | 581 | 274 | Kathryn Townsley |
 | 582 | 274 | Eric Carlson |
 | 583 | 273 | Britt Stunkel |
 | 584 | 272 | Ryan Lauer |
 | 585 | 272 | Witty Piecebuilder |
-| 586 | 270 | Ben Barkley |
-| 587 | 270 | Tim Dyer |
-| 588 | 270 | Court |
+| 586 | 270 | Tim Dyer |
+| 587 | 270 | Court |
+| 588 | 270 | Ben Barkley |
 | 589 | 270 | Santana Miyagi |
 | 590 | 269 | Reece Smith |
 | 591 | 269 | Pocho Zavala |
@@ -609,8 +609,8 @@
 | 601 | 263 | Alyssia Tancredi |
 | 602 | 263 | Sara Pennington |
 | 603 | 262 | Jackie Lucas |
-| 604 | 262 | Sarah block |
-| 605 | 262 | Danielle Ayoub |
+| 604 | 262 | Danielle Ayoub |
+| 605 | 262 | Sarah block |
 | 606 | 262 | Taren Cowan |
 | 607 | 261 | Fancy Twister |
 | 608 | 261 | Maria Hammett |
@@ -622,9 +622,9 @@
 | 614 | 257 | Mary Boss |
 | 615 | 257 | Jackie Jackie Lee |
 | 616 | 256 | Johanna Massaro |
-| 617 | 256 | Brenna Yearian |
-| 618 | 256 | Quirky Twistline |
-| 619 | 256 | De Hawkins |
+| 617 | 256 | De Hawkins |
+| 618 | 256 | Brenna Yearian |
+| 619 | 256 | Quirky Twistline |
 | 620 | 256 | Tee Jaleesa |
 | 621 | 256 | Amy Humphreys |
 | 622 | 255 | DefaultUser |

@@ -80,8 +80,8 @@
 | 72 | 370 | Leslie Thomas |
 | 73 | 369 | Nope Young |
 | 74 | 359 | Jamie Mann-Deichmann |
-| 75 | 358 | Shane Kalamata Platoon |
-| 76 | 358 | Nugget |
+| 75 | 358 | Nugget |
+| 76 | 358 | Shane Kalamata Platoon |
 | 77 | 356 | shar |
 | 78 | 345 | Ancient Intuition |
 | 79 | 328 | Dustee Craddock-Harrison |
@@ -107,8 +107,8 @@
 | 99 | 273 | shark tato |
 | 100 | 271 | Sarah Brown |
 | 101 | 268 | Meagan Nicole |
-| 102 | 264 | Girl |
-| 103 | 264 | Epic Curvetile |
+| 102 | 264 | Epic Curvetile |
+| 103 | 264 | Girl |
 | 104 | 258 | Brittney Orengo |
 | 105 | 257 | Holly Jolly |
 | 106 | 255 | Lindsay Ball |
@@ -125,8 +125,8 @@
 | 117 | 212 | Calvin Cannon |
 | 118 | 211 | Dizzy Tiley |
 | 119 | 210 | Damn Libra |
-| 120 | 208 | Twisty Cascadezone |
-| 121 | 208 | Chastity Mitchell |
+| 120 | 208 | Chastity Mitchell |
+| 121 | 208 | Twisty Cascadezone |
 | 122 | 206 | Mylo Lipscomb |
 | 123 | 205 | Sarah Neathery |
 | 124 | 204 | Jen Caldwell |
@@ -146,9 +146,9 @@
 | 138 | 185 | Andy Cabral |
 | 139 | 185 | Malakai Darien Fox |
 | 140 | 184 | Justin Hannigan |
-| 141 | 181 | Klo |
+| 141 | 181 | Carter Jones |
 | 142 | 181 | Andria Lynn |
-| 143 | 181 | Carter Jones |
+| 143 | 181 | Klo |
 | 144 | 180 | Leah Kutz Zirbel |
 | 145 | 179 | Scott Jameson |
 | 146 | 179 | Ak Jones |
@@ -165,9 +165,9 @@
 | 157 | 156 | Holly |
 | 158 | 155 | AyeKay |
 | 159 | 154 | scott |
-| 160 | 153 | Chair |
-| 161 | 153 | Avy Absol |
-| 162 | 153 | Empress Oasis |
+| 160 | 153 | Empress Oasis |
+| 161 | 153 | Chair |
+| 162 | 153 | Avy Absol |
 | 163 | 152 | Mary Ann Pabukis |
 | 164 | 151 | Bethany Ison |
 | 165 | 149 | Shainne Brewer |
@@ -248,8 +248,8 @@
 | 240 | 113 | Dandy Cascadefit |
 | 241 | 113 | Adam Randall |
 | 242 | 112 | Jeremy Steines |
-| 243 | 111 | Rafael Valentin |
-| 244 | 111 | Lazy Blocker |
+| 243 | 111 | Lazy Blocker |
+| 244 | 111 | Rafael Valentin |
 | 245 | 110 | Zach Kerbs |
 | 246 | 109 | LS |
 | 247 | 109 | Frank Cook |
