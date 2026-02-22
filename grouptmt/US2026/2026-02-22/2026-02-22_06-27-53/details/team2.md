@@ -305,8 +305,8 @@
 | 297 | 640 | BYM4L |
 | 298 | 639 | Crystie Hicks |
 | 299 | 639 | Rebecca Miller |
-| 300 | 635 | Diana Fitzwater |
-| 301 | 635 | William Hunt |
+| 300 | 635 | William Hunt |
+| 301 | 635 | Diana Fitzwater |
 | 302 | 632 | Beth |
 | 303 | 631 | Marie Walker |
 | 304 | 629 | Sleepypanda67 |
@@ -376,8 +376,8 @@
 | 368 | 517 | Poppy Snap |
 | 369 | 517 | Amber Brion |
 | 370 | 516 | Diamond Scott |
-| 371 | 515 | Laquetta Royston |
-| 372 | 515 | Lonne Emade |
+| 371 | 515 | Lonne Emade |
+| 372 | 515 | Laquetta Royston |
 | 373 | 514 | Joseph Musick |
 | 374 | 514 | Karen Posadas Centeno |
 | 375 | 511 | Laura Mclean |
@@ -500,8 +500,8 @@
 | 492 | 408 | Stefanie Zonzini-Gagliardi |
 | 493 | 408 | Brandon Jones |
 | 494 | 406 | Kimberly Ann |
-| 495 | 406 | Kiana Boschh |
-| 496 | 406 | Erin StFrancis |
+| 495 | 406 | Erin StFrancis |
+| 496 | 406 | Kiana Boschh |
 | 497 | 404 | Snappy snappers |
 | 498 | 404 | Dawn L Washington-Feuquay |
 | 499 | 403 | Goofy Dasher |

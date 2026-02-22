@@ -158,8 +158,8 @@
 | 150 | 223 | Kris Bartlett |
 | 151 | 222 | TheNeesh50 |
 | 152 | 222 | Joeliecea Cobb |
-| 153 | 221 | PurpleMoonMa |
-| 154 | 221 | Rheanda Weaskus |
+| 153 | 221 | Rheanda Weaskus |
+| 154 | 221 | PurpleMoonMa |
 | 155 | 220 | Matt Dell'Olio |
 | 156 | 218 | Casey Grabner |
 | 157 | 217 | Chaz Duncan |

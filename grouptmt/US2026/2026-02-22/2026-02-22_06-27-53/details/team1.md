@@ -135,8 +135,8 @@
 | 127 | 280 | Jennifer Hardman |
 | 128 | 276 | Dandy Basegrid |
 | 129 | 265 | SkipTheSadSauce |
-| 130 | 264 | Jenny Gingrich Fuentes |
-| 131 | 264 | Lexuriuos Lifestlye |
+| 130 | 264 | Lexuriuos Lifestlye |
+| 131 | 264 | Jenny Gingrich Fuentes |
 | 132 | 263 | Sharon Reynolds |
 | 133 | 257 | Amanda Jarnagin |
 | 134 | 256 | David Miller |
@@ -245,8 +245,8 @@
 | 237 | 150 | Agustin Duarte Orozco |
 | 238 | 149 | Chirpy Smasher |
 | 239 | 148 | Dino |
-| 240 | 147 | J.F. Fields |
-| 241 | 147 | Davery Spencer Adair |
+| 240 | 147 | Davery Spencer Adair |
+| 241 | 147 | J.F. Fields |
 | 242 | 145 | Tipsy Riseclear |
 | 243 | 144 | Toph |
 | 244 | 144 | Gary Gobin |

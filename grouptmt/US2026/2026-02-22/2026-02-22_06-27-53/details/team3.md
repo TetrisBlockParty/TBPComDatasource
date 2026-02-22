@@ -149,8 +149,8 @@
 | 141 | 401 | Katie Knaus |
 | 142 | 400 | Luciana Braganca Vieira |
 | 143 | 400 | Aaron Pitkin |
-| 144 | 399 | Mcathen |
-| 145 | 399 | Marcie Bressler |
+| 144 | 399 | Marcie Bressler |
+| 145 | 399 | Mcathen |
 | 146 | 397 | Annie Déè |
 | 147 | 392 | Tasha Gillespie |
 | 148 | 391 | Calista Jo Dickson |
