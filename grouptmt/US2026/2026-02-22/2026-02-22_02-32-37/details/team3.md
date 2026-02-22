@@ -336,8 +336,8 @@
 | 328 | 141 | Melissa Snyder |
 | 329 | 141 | Weerae |
 | 330 | 138 | Pam Holt Powell |
-| 331 | 138 | sofaking |
-| 332 | 138 | Skinny Baldez |
+| 331 | 138 | Skinny Baldez |
+| 332 | 138 | sofaking |
 | 333 | 138 | Boldy Corner |
 | 334 | 137 | kacihall |
 | 335 | 137 | Linda Draper |
@@ -352,10 +352,10 @@
 | 344 | 133 | Crystal Hine |
 | 345 | 132 | Hanna Kim |
 | 346 | 132 | Angela Scott |
-| 347 | 131 | Beppy |
-| 348 | 131 | Cheeky Snapper |
-| 349 | 130 | Karen Picaboo |
-| 350 | 130 | TotoCherue |
+| 347 | 131 | Cheeky Snapper |
+| 348 | 131 | Beppy |
+| 349 | 130 | TotoCherue |
+| 350 | 130 | Karen Picaboo |
 | 351 | 130 | Chummy Caster |
 | 352 | 129 | luluraine |
 | 353 | 129 | Danielle Weikel |

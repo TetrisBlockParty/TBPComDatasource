@@ -222,8 +222,8 @@
 | 214 | 134 | Chirpy Basepiece |
 | 215 | 134 | Kim Klutz Olson |
 | 216 | 133 | Angela Geist Jusinski |
-| 217 | 132 | Jessica Cagle |
-| 218 | 132 | Melissa Priest Sellers |
+| 217 | 132 | Melissa Priest Sellers |
+| 218 | 132 | Jessica Cagle |
 | 219 | 132 | Degenerate |
 | 220 | 132 | Orchislactea |
 | 221 | 131 | Vanessa Smart |

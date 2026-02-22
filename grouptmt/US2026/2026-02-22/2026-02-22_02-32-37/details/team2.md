@@ -133,8 +133,8 @@
 | 125 | 1051 | Shandrica Lowe |
 | 126 | 1048 | PsychKIRAtrist |
 | 127 | 1047 | Amy Sayers |
-| 128 | 1043 | Brave Dropmatch |
-| 129 | 1043 | Suki Kaur |
+| 128 | 1043 | Suki Kaur |
+| 129 | 1043 | Brave Dropmatch |
 | 130 | 1032 | Sarah Freitas |
 | 131 | 1020 | Heather Westrum |
 | 132 | 1018 | LordZophar |
