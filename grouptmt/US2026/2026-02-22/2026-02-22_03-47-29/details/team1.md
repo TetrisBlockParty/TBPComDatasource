@@ -198,9 +198,9 @@
 | 190 | 169 | Andrew Boone |
 | 191 | 169 | Abbey Crespo |
 | 192 | 168 | Jessie Lynn |
-| 193 | 167 | Nery Martinez |
+| 193 | 167 | Bindi |
 | 194 | 167 | Erin Hodges Plumb |
-| 195 | 167 | Bindi |
+| 195 | 167 | Nery Martinez |
 | 196 | 165 | Silly Align |
 | 197 | 165 | Nadine Velardo |
 | 198 | 164 | Shanae Grant |
@@ -255,12 +255,12 @@
 | 247 | 128 | Alyssa Ingram |
 | 248 | 128 | Brenda Alexander |
 | 249 | 127 | Chantelle Ceno |
-| 250 | 126 | Tami Luce Martin |
-| 251 | 126 | Alenoush Karimian |
+| 250 | 126 | Alenoush Karimian |
+| 251 | 126 | Tami Luce Martin |
 | 252 | 125 | Strig |
 | 253 | 125 | Melissa Bires Hussar |
-| 254 | 124 | Rodney Schmerfeld |
-| 255 | 124 | Howdi Duty |
+| 254 | 124 | Howdi Duty |
+| 255 | 124 | Rodney Schmerfeld |
 | 256 | 123 | Zany Tiler |
 | 257 | 122 | Dizzy Riseclear |
 | 258 | 122 | Nate Funk |
@@ -313,8 +313,8 @@
 | 305 | 104 | Charla Pross-Fugleberg |
 | 306 | 103 | Tiger Lily |
 | 307 | 103 | Alex Gauthier |
-| 308 | 102 | Marie White |
-| 309 | 102 | Barrbaric |
+| 308 | 102 | Barrbaric |
+| 309 | 102 | Marie White |
 | 310 | 102 | Sarah Henniker |
 | 311 | 101 | Mizzledagod |
 | 312 | 101 | Liliana Pena |

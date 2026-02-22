@@ -73,8 +73,8 @@
 | 65 | 486 | Landon Keith Graffeo |
 | 66 | 483 | Carmethia Clemons Haslerig |
 | 67 | 466 | Dawn Alexander |
-| 68 | 447 | TeeJ |
-| 69 | 447 | Samantha Peterson |
+| 68 | 447 | Samantha Peterson |
+| 69 | 447 | TeeJ |
 | 70 | 409 | Isabella Blanco |
 | 71 | 404 | Courtney Cicoria |
 | 72 | 399 | Jenna Ingersoll |
@@ -90,8 +90,8 @@
 | 82 | 370 | Leslie Thomas |
 | 83 | 369 | Nope Young |
 | 84 | 368 | Jamie Mann-Deichmann |
-| 85 | 358 | Nugget |
-| 86 | 358 | Shane Kalamata Platoon |
+| 85 | 358 | Shane Kalamata Platoon |
+| 86 | 358 | Nugget |
 | 87 | 352 | Monica Daley |
 | 88 | 327 | Lori Walker |
 | 89 | 319 | Livvy |
@@ -117,9 +117,9 @@
 | 109 | 274 | Desi Desporte |
 | 110 | 271 | Sarah Brown |
 | 111 | 268 | Meagan Nicole |
-| 112 | 264 | Girl |
-| 113 | 264 | Epic Curvetile |
-| 114 | 264 | Dana Scott |
+| 112 | 264 | Dana Scott |
+| 113 | 264 | Girl |
+| 114 | 264 | Epic Curvetile |
 | 115 | 258 | Brittney Orengo |
 | 116 | 257 | Holly Jolly |
 | 117 | 256 | Mylo Lipscomb |
@@ -191,8 +191,8 @@
 | 183 | 160 | TinyLegoRose |
 | 184 | 160 | ZeeZee |
 | 185 | 159 | Marcus Todd |
-| 186 | 158 | Chair |
-| 187 | 158 | Avy Absol |
+| 186 | 158 | Avy Absol |
+| 187 | 158 | Chair |
 | 188 | 155 | AyeKay |
 | 189 | 154 | scott |
 | 190 | 154 | Laura Hosford |
@@ -205,7 +205,7 @@
 | 197 | 149 | Judy Cox |
 | 198 | 149 | Shainne Brewer |
 | 199 | 148 | Zany Shatterer |
-| 200 | 148 | Mr. Party |
+| 200 | 148 | Brittany Marsh |
 | 201 | 148 | Janita Parrish |
 | 202 | 148 | Mr. Party |
 | 203 | 147 | B Renee Desjardin |

@@ -209,8 +209,8 @@
 | 201 | 787 | Laura McCarthey |
 | 202 | 783 | Dineisha Carpenter |
 | 203 | 783 | Shuany Arias |
-| 204 | 777 | Barbra Miller |
-| 205 | 777 | Tesha Oldaker |
+| 204 | 777 | Tesha Oldaker |
+| 205 | 777 | Barbra Miller |
 | 206 | 771 | Terri McKelvey McKinley |
 | 207 | 768 | Nika Bee |
 | 208 | 765 | Jodi Blake |

@@ -71,8 +71,8 @@
 | 63 | 713 | Jessica Bechler |
 | 64 | 704 | Suzieq |
 | 65 | 682 | Patricia Gadsden |
-| 66 | 656 | Elaine Webb Graves |
-| 67 | 656 | Ebony West-Cundiff |
+| 66 | 656 | Ebony West-Cundiff |
+| 67 | 656 | Elaine Webb Graves |
 | 68 | 649 | MissTaylor |
 | 69 | 628 | Tiff Vs Tiffany |
 | 70 | 621 | Cherry Parker |
@@ -82,9 +82,9 @@
 | 74 | 608 | Danielle Becker |
 | 75 | 590 | Katrina Schroeder |
 | 76 | 588 | yoyo |
-| 77 | 582 | Natasha Jones |
+| 77 | 582 | Speedy Bridger |
 | 78 | 582 | Jay Horn |
-| 79 | 582 | Speedy Bridger |
+| 79 | 582 | Natasha Jones |
 | 80 | 581 | Danielle Mogg |
 | 81 | 576 | Dan Rob |
 | 82 | 571 | Fancy Cascader |
@@ -128,8 +128,8 @@
 | 120 | 410 | Stephanie Simpson |
 | 121 | 409 | Karon Griffin |
 | 122 | 405 | Michelle |
-| 123 | 403 | Scott Lindsay |
-| 124 | 403 | Christine Filson |
+| 123 | 403 | Christine Filson |
+| 124 | 403 | Scott Lindsay |
 | 125 | 402 | Shannon Matthew Byers |
 | 126 | 401 | Lauren Girouard |
 | 127 | 400 | Luciana Braganca Vieira |
@@ -225,8 +225,8 @@
 | 217 | 240 | Jimmie Clemons |
 | 218 | 236 | Jess Bissett |
 | 219 | 235 | LaNette Morgan |
-| 220 | 234 | Nikki Pags |
-| 221 | 234 | Grego Daniel |
+| 220 | 234 | Grego Daniel |
+| 221 | 234 | Nikki Pags |
 | 222 | 233 | Ray Lader |
 | 223 | 232 | Donna |
 | 224 | 227 | Krystal Gerstberger |
@@ -237,8 +237,8 @@
 | 229 | 218 | Michael Lucado |
 | 230 | 216 | Tasha Wesson-Torrence |
 | 231 | 215 | IamJust Neyamijah Washington Sr. |
-| 232 | 214 | Rebel124 |
-| 233 | 214 | Amy Fuller Heaton |
+| 232 | 214 | Amy Fuller Heaton |
+| 233 | 214 | Rebel124 |
 | 234 | 213 | Stephanie Burtin |
 | 235 | 212 | Desiree Gold |
 | 236 | 212 | Twisty Brick LT |
@@ -305,8 +305,8 @@
 | 297 | 163 | Diana Ibarra |
 | 298 | 163 | Christine Trester |
 | 299 | 163 | Stephanie Hill |
-| 300 | 162 | Loopy Fallzone |
-| 301 | 162 | Stephanie Whitefield |
+| 300 | 162 | Stephanie Whitefield |
+| 301 | 162 | Loopy Fallzone |
 | 302 | 161 | Bouncy Blockbuilder |
 | 303 | 161 | Michael Johnson |
 | 304 | 160 | Rachel |
