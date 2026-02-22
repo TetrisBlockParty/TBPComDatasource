@@ -140,8 +140,8 @@
 | 132 | 372 | Sweet Baker |
 | 133 | 370 | Ly Phethmany |
 | 134 | 364 | Shauna Loe |
-| 135 | 360 | phrmblk24 |
-| 136 | 360 | Wisa |
+| 135 | 360 | Wisa |
+| 136 | 360 | phrmblk24 |
 | 137 | 359 | Chirpy Smasher |
 | 138 | 357 | Amanda Johnson Huffman |
 | 139 | 350 | Tipsy Strikerpiece |
@@ -217,9 +217,9 @@
 | 209 | 252 | Dena Kayy |
 | 210 | 249 | Lakeisha Chapman |
 | 211 | 247 | Frothy Pattern |
-| 212 | 244 | Marianita Garcia |
-| 213 | 244 | Eddie Dillon |
-| 214 | 244 | LaFontaine Leslie |
+| 212 | 244 | Eddie Dillon |
+| 213 | 244 | LaFontaine Leslie |
+| 214 | 244 | Marianita Garcia |
 | 215 | 242 | Sam Williams |
 | 216 | 242 | John Kim |
 | 217 | 241 | John J. Cronin |
@@ -250,8 +250,8 @@
 | 242 | 223 | Thorne Shumate |
 | 243 | 223 | Christina Backer |
 | 244 | 222 | Debbie Davis |
-| 245 | 221 | Daring Fitclear |
-| 246 | 221 | Amy Hess |
+| 245 | 221 | Amy Hess |
+| 246 | 221 | Daring Fitclear |
 | 247 | 220 | Bouncy Grid |
 | 248 | 219 | Joe Coon |
 | 249 | 219 | Chuck Gannon |
@@ -274,8 +274,8 @@
 | 266 | 207 | Brenda Alexander |
 | 267 | 206 | BadG52 |
 | 268 | 205 | Tyler L Hunt |
-| 269 | 204 | Mel Hogan |
-| 270 | 204 | Chris Sigurdson |
+| 269 | 204 | Chris Sigurdson |
+| 270 | 204 | Mel Hogan |
 | 271 | 203 | Andrew Boone |
 | 272 | 202 | Amanda Holibaugh |
 | 273 | 201 | Colleen Wise |

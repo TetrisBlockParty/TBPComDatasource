@@ -67,8 +67,8 @@
 | 59 | 736 | Goatimus Lombardi |
 | 60 | 735 | Avy Absol |
 | 61 | 722 | Dustee Craddock-Harrison |
-| 62 | 721 | Chilly Line |
-| 63 | 721 | Edward White |
+| 62 | 721 | Edward White |
+| 63 | 721 | Chilly Line |
 | 64 | 712 | Anthony Bryan Riva |
 | 65 | 704 | Crystal Carroll |
 | 66 | 679 | D3TROITB0RN74 |
@@ -123,8 +123,8 @@
 | 115 | 448 | Kristin Manee |
 | 116 | 435 | Leslie Thomas |
 | 117 | 429 | Ren Mc |
-| 118 | 427 | Jolly Dashfit |
-| 119 | 427 | KJ Pool |
+| 118 | 427 | KJ Pool |
+| 119 | 427 | Jolly Dashfit |
 | 120 | 418 | Dizzy Tiley |
 | 121 | 415 | Monica Daley |
 | 122 | 414 | Nope Young |
@@ -134,9 +134,9 @@
 | 126 | 400 | Ericca Eldridge |
 | 127 | 397 | Trista Leah |
 | 128 | 393 | Carlton Unfiltered |
-| 129 | 391 | Lush Linkfall |
-| 130 | 391 | Austin Owens |
-| 131 | 391 | Ramel Rhodes |
+| 129 | 391 | Ramel Rhodes |
+| 130 | 391 | Lush Linkfall |
+| 131 | 391 | Austin Owens |
 | 132 | 378 | Lucas J Sutton |
 | 133 | 377 | Carrie Brian |
 | 134 | 377 | Jessica Bohlken |
@@ -163,9 +163,9 @@
 | 155 | 321 | jim |
 | 156 | 320 | Lauren Scott |
 | 157 | 316 | Meagan Nicole |
-| 158 | 314 | TRCuse |
-| 159 | 314 | Andy Cabral |
-| 160 | 314 | 🥔🥔 Spudz |
+| 158 | 314 | Andy Cabral |
+| 159 | 314 | 🥔🥔 Spudz |
+| 160 | 314 | TRCuse |
 | 161 | 312 | Rafael Valentin |
 | 162 | 311 | Kristina Black |
 | 163 | 308 | Jeff Brian Gates |
@@ -254,9 +254,9 @@
 | 246 | 215 | John Brunetti |
 | 247 | 215 | Ziggy |
 | 248 | 214 | Stacey Stano |
-| 249 | 213 | Sarah Neathery |
-| 250 | 213 | Angela Geist Jusinski |
-| 251 | 213 | Rio Rocha |
+| 249 | 213 | Rio Rocha |
+| 250 | 213 | Sarah Neathery |
+| 251 | 213 | Angela Geist Jusinski |
 | 252 | 212 | Mike Solo |
 | 253 | 209 | Chaz |
 | 254 | 208 | Rebecca Morris |
