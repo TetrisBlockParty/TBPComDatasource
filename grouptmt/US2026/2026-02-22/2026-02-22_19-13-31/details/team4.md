@@ -140,8 +140,8 @@
 | 132 | 338 | ThaEviLJeNiuZ |
 | 133 | 336 | Austin Owens |
 | 134 | 336 | Jessica Bohlken |
-| 135 | 332 | Desi Desporte |
-| 136 | 332 | HastyGrabber |
+| 135 | 332 | HastyGrabber |
+| 136 | 332 | Desi Desporte |
 | 137 | 330 | David Lay |
 | 138 | 329 | Jessica Lynn Cutlip |
 | 139 | 328 | Leslie Nicole |
@@ -159,8 +159,8 @@
 | 151 | 300 | Jason Hart |
 | 152 | 300 | Dana Scott |
 | 153 | 299 | TRCuse |
-| 154 | 294 | Kesha Brady |
-| 155 | 294 | Calvin Cannon |
+| 154 | 294 | Calvin Cannon |
+| 155 | 294 | Kesha Brady |
 | 156 | 292 | Cursed Hag |
 | 157 | 292 | Rafael Valentin |
 | 158 | 291 | shark tato |
@@ -181,8 +181,8 @@
 | 173 | 269 | Nikki Rae Gordon |
 | 174 | 268 | Mimi |
 | 175 | 267 | Casey Grabner |
-| 176 | 267 | Holly |
-| 177 | 267 | Kathy Brookins |
+| 176 | 267 | Kathy Brookins |
+| 177 | 267 | Holly |
 | 178 | 266 | Laura |
 | 179 | 265 | Chris Bernstein |
 | 180 | 264 | Girl |
@@ -197,14 +197,14 @@
 | 189 | 251 | Matt Summer |
 | 190 | 250 | Matt Dell'Olio |
 | 191 | 248 | Chirpy Basepiece |
-| 192 | 247 | Dennis Bradley |
-| 193 | 247 | jim |
+| 192 | 247 | jim |
+| 193 | 247 | Dennis Bradley |
 | 194 | 246 | Carlos Ramirez |
 | 195 | 245 | 23 |
 | 196 | 245 | Autum Leigh |
 | 197 | 245 | Andria Lynn |
-| 198 | 244 | Twisty Cascadezone |
-| 199 | 244 | Lindsey Gonzalez |
+| 198 | 244 | Lindsey Gonzalez |
+| 199 | 244 | Twisty Cascadezone |
 | 200 | 243 | Jose Dejesus |
 | 201 | 243 | Mr. Party |
 | 202 | 241 | Allen Lloyd |
@@ -316,7 +316,7 @@
 | 308 | 157 | Paige Kittles |
 | 309 | 157 | B Renee Desjardin |
 | 310 | 157 | Bethany Ison |
-| 311 | 156 | Stella |
+| 311 | 156 | Ultramarine |
 | 312 | 156 | Terrance Fung |
 | 313 | 156 | Stella |
 | 314 | 154 | Circuit8 |

@@ -232,8 +232,8 @@
 | 224 | 346 | Tamara Deherrera |
 | 225 | 344 | Roary Danner |
 | 226 | 343 | Ashley Raines |
-| 227 | 341 | Samantha Lynn |
-| 228 | 341 | Noyb Adam |
+| 227 | 341 | Noyb Adam |
+| 228 | 341 | Samantha Lynn |
 | 229 | 341 | Ashley Tookes |
 | 230 | 340 | Ammmmmmy |
 | 231 | 339 | Rania Zaqout |
@@ -281,16 +281,16 @@
 | 273 | 276 | _melisa223_ |
 | 274 | 275 | Cassandra Bryant |
 | 275 | 273 | Troy |
-| 276 | 272 | fraulila |
-| 277 | 272 | Tasha Wesson-Torrence |
-| 278 | 271 | Grego Daniel |
-| 279 | 271 | Cass Mendoza |
-| 280 | 271 | Alexmac |
+| 276 | 272 | Tasha Wesson-Torrence |
+| 277 | 272 | fraulila |
+| 278 | 271 | Alexmac |
+| 279 | 271 | Grego Daniel |
+| 280 | 271 | Cass Mendoza |
 | 281 | 269 | Micayah Stevens |
 | 282 | 268 | Krystal Gerstberger |
-| 283 | 267 | April Matthew Kibble |
-| 284 | 267 | Nikki Pags |
-| 285 | 267 | Tiffany Davie |
+| 283 | 267 | Nikki Pags |
+| 284 | 267 | Tiffany Davie |
+| 285 | 267 | April Matthew Kibble |
 | 286 | 267 | Aerian Preston |
 | 287 | 266 | Quirky Dropzone |
 | 288 | 263 | Brenda Schmid Wood |
@@ -324,8 +324,8 @@
 | 316 | 233 | Tony Waters |
 | 317 | 232 | Nicholas Roddy |
 | 318 | 232 | Donna |
-| 319 | 231 | Kiki |
-| 320 | 231 | Kevin Russell |
+| 319 | 231 | Kevin Russell |
+| 320 | 231 | Kiki |
 | 321 | 230 | BigE |
 | 322 | 228 | Beaudie Stroebel |
 | 323 | 228 | Naur |

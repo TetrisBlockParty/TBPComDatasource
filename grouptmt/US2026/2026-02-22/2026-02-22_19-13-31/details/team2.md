@@ -137,8 +137,8 @@
 | 129 | 1439 | Jumpy Gridpiece |
 | 130 | 1435 | Jessie McDougald |
 | 131 | 1418 | L3sli3 |
-| 132 | 1411 | niecy |
-| 133 | 1411 | Zappy Cascade |
+| 132 | 1411 | Zappy Cascade |
+| 133 | 1411 | niecy |
 | 134 | 1401 | Brandy Andre |
 | 135 | 1384 | Katrina Williams Balmir |
 | 136 | 1383 | Ladyrainbootz |
@@ -159,8 +159,8 @@
 | 151 | 1296 | Kristin Ruest |
 | 152 | 1290 | Bussyiano Page |
 | 153 | 1286 | Altamirano Michael |
-| 154 | 1282 | Ashley Rose Frederick |
-| 155 | 1282 | Tanya Parsons |
+| 154 | 1282 | Tanya Parsons |
+| 155 | 1282 | Ashley Rose Frederick |
 | 156 | 1273 | Cool Rollpiece |
 | 157 | 1271 | Shandrica Lowe |
 | 158 | 1248 | Isabela Shaw |
@@ -193,8 +193,8 @@
 | 185 | 1140 | Sarah Ridenour |
 | 186 | 1138 | Megan Ferguson Leone |
 | 187 | 1132 | Anna Edwards |
-| 188 | 1131 | Prado |
-| 189 | 1131 | Stacey Clement |
+| 188 | 1131 | Stacey Clement |
+| 189 | 1131 | Prado |
 | 190 | 1117 | Ricardo Burton |
 | 191 | 1105 | Nerdy Clearfit |
 | 192 | 1103 | William Meussner |
@@ -211,8 +211,8 @@
 | 203 | 1043 | Brave Dropmatch |
 | 204 | 1039 | Moose Griffith |
 | 205 | 1036 | Allison Lockyer |
-| 206 | 1024 | Desiree Anderson |
-| 207 | 1024 | Bri Lynn |
+| 206 | 1024 | Bri Lynn |
+| 207 | 1024 | Desiree Anderson |
 | 208 | 1023 | Brainy Smurf |
 | 209 | 1022 | Shannon Joslin |
 | 210 | 1020 | Eric Carlson |
@@ -479,8 +479,8 @@
 | 471 | 533 | Davetta Sanford |
 | 472 | 533 | Gauri Shrotriya |
 | 473 | 532 | Ann Matzkanin |
-| 474 | 531 | Aishah Brice |
-| 475 | 531 | Briana Alexander |
+| 474 | 531 | Briana Alexander |
+| 475 | 531 | Aishah Brice |
 | 476 | 529 | Victoria Regina Girolami |
 | 477 | 528 | Anita Rose Green |
 | 478 | 527 | Ryan Gunther |
@@ -495,8 +495,8 @@
 | 487 | 520 | Maddy Petersen |
 | 488 | 519 | Rob Brown |
 | 489 | 517 | Sarah Berger |
-| 490 | 517 | Brenna Ann |
-| 491 | 517 | Porsche' Nicole |
+| 490 | 517 | Porsche' Nicole |
+| 491 | 517 | Brenna Ann |
 | 492 | 516 | Diamond Scott |
 | 493 | 514 | Karen Posadas Centeno |
 | 494 | 512 | Leslie Jorgenson |
@@ -533,8 +533,8 @@
 | 525 | 484 | Wendy Unsain |
 | 526 | 482 | Drwatson187 |
 | 527 | 482 | Amélie Cadieux |
-| 528 | 481 | Quirky Twistline |
-| 529 | 481 | Anthony Huebel |
+| 528 | 481 | Anthony Huebel |
+| 529 | 481 | Quirky Twistline |
 | 530 | 481 | Klee |
 | 531 | 480 | Ashley Collins |
 | 532 | 480 | Ryan Meilleur |
@@ -634,21 +634,21 @@
 | 626 | 423 | Taylor Flowers |
 | 627 | 423 | Smashanator |
 | 628 | 422 | Stefanie Zonzini-Gagliardi |
-| 629 | 420 | Joice Hansen |
-| 630 | 420 | Kacee Conrad Bock |
-| 631 | 419 | Pocho Zavala |
+| 629 | 420 | Kacee Conrad Bock |
+| 630 | 420 | Joice Hansen |
+| 631 | 419 | Frilly Fallzone |
 | 632 | 419 | Josh Dill |
-| 633 | 419 | Frilly Fallzone |
+| 633 | 419 | Pocho Zavala |
 | 634 | 418 | Dawn L Washington-Feuquay |
 | 635 | 417 | Lauren Fitzgerald Thomas |
-| 636 | 417 | Alexx Anaya |
-| 637 | 417 | Oscar Bernie |
-| 638 | 416 | Mo Shine On |
-| 639 | 416 | Ricky Fortune |
+| 636 | 417 | Oscar Bernie |
+| 637 | 417 | Alexx Anaya |
+| 638 | 416 | Ricky Fortune |
+| 639 | 416 | Mo Shine On |
 | 640 | 414 | Daniel Amos |
 | 641 | 414 | John |
-| 642 | 413 | Kristen O'Neal |
-| 643 | 413 | Kimberly Ann |
+| 642 | 413 | Kimberly Ann |
+| 643 | 413 | Kristen O'Neal |
 | 644 | 412 | Jason H Baker |
 | 645 | 411 | Jasmine Kenney |
 | 646 | 411 | Christina Ashley |
