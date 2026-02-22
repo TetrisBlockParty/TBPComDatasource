@@ -70,8 +70,8 @@
 | 62 | 703 | Anthony Bryan Riva |
 | 63 | 675 | D3TROITB0RN74 |
 | 64 | 671 | Kimyatta Cavin |
-| 65 | 664 | loulou |
-| 66 | 664 | Valerie Roberts |
+| 65 | 664 | Valerie Roberts |
+| 66 | 664 | loulou |
 | 67 | 659 | Jonathan Kimbrough |
 | 68 | 654 | Chilly Line |
 | 69 | 647 | KM8 |
@@ -95,8 +95,8 @@
 | 87 | 539 | Chris Baggett |
 | 88 | 531 | Amelpss |
 | 89 | 531 | Dawn Alexander |
-| 90 | 513 | YoMomma |
-| 91 | 513 | Erin Thomas |
+| 90 | 513 | Erin Thomas |
+| 91 | 513 | YoMomma |
 | 92 | 512 | Casey Jeffcoat |
 | 93 | 501 | Denise Carlson |
 | 94 | 500 | Rodney McMath Jr. |
@@ -113,8 +113,8 @@
 | 105 | 441 | Chastity Mitchell |
 | 106 | 440 | Lori Walker |
 | 107 | 435 | Leslie Thomas |
-| 108 | 427 | KJ Pool |
-| 109 | 427 | Jolly Dashfit |
+| 108 | 427 | Jolly Dashfit |
+| 109 | 427 | KJ Pool |
 | 110 | 426 | Ren Mc |
 | 111 | 419 | shar |
 | 112 | 415 | Monica Daley |
@@ -243,8 +243,8 @@
 | 235 | 208 | Stacey Stano |
 | 236 | 208 | Oscar Alberto Perez |
 | 237 | 205 | James Hurley Jr. |
-| 238 | 205 | Keith Kelley |
-| 239 | 205 | Christina Black |
+| 238 | 205 | Christina Black |
+| 239 | 205 | Keith Kelley |
 | 240 | 204 | Matt Gooder |
 | 241 | 203 | Katherine Crane |
 | 242 | 202 | Patron Anderson |
@@ -269,19 +269,19 @@
 | 261 | 189 | Shainne Brewer |
 | 262 | 189 | 030Synner |
 | 263 | 188 | A5! |
-| 264 | 185 | Laura Hosford |
-| 265 | 185 | Morti |
+| 264 | 185 | Morti |
+| 265 | 185 | Laura Hosford |
 | 266 | 184 | Lauren Lamb |
-| 267 | 183 | Twisty Risebuilder |
-| 268 | 183 | Nubian1 |
+| 267 | 183 | Nubian1 |
+| 268 | 183 | Twisty Risebuilder |
 | 269 | 182 | TinyLegoRose |
 | 270 | 181 | Carter Jones |
 | 271 | 181 | Jackie Marie |
 | 272 | 180 | Cozy Balancer |
 | 273 | 179 | AyeKay |
 | 274 | 175 | Lorena Guerrero-Barron |
-| 275 | 174 | Shane Vick |
-| 276 | 174 | BigSammy420 |
+| 275 | 174 | BigSammy420 |
+| 276 | 174 | Shane Vick |
 | 277 | 171 | June Hoffman |
 | 278 | 171 | Autumn Kumzi |
 | 279 | 170 | Cynthia Boudreau |
@@ -298,8 +298,8 @@
 | 290 | 164 | Marvetta Williams |
 | 291 | 163 | Joseph Edmonson |
 | 292 | 163 | Ellen Durfee |
-| 293 | 162 | Gwendolyn Pitcairn |
-| 294 | 162 | Victoria Faniel |
+| 293 | 162 | Victoria Faniel |
+| 294 | 162 | Gwendolyn Pitcairn |
 | 295 | 162 | conceptCollector |
 | 296 | 161 | Tanner Lund |
 | 297 | 160 | wombat |
@@ -500,10 +500,10 @@
 | 492 | 103 | Lilya Troutman |
 | 493 | 102 | Candice Carasiti |
 | 494 | 102 | Christina O'Dell-Ishau |
-| 495 | 101 | Cindy Looper |
-| 496 | 101 | Saulc1991 |
-| 497 | 101 | Jen Mattei |
-| 498 | 101 | amy |
+| 495 | 101 | Saulc1991 |
+| 496 | 101 | Cindy Looper |
+| 497 | 101 | amy |
+| 498 | 101 | Jen Mattei |
 | 499 | 101 | Brittany Little |
 | 500 | 100 | Tianna Frey |
 | 501 | 100 | April Spoelma |

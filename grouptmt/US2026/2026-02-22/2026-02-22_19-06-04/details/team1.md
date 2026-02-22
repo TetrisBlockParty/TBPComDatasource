@@ -86,8 +86,8 @@
 | 78 | 489 | Deanna L Hermanson |
 | 79 | 486 | Tater |
 | 80 | 485 | Cartier |
-| 81 | 483 | MomMom |
-| 82 | 483 | Ryan Lunnin |
+| 81 | 483 | Ryan Lunnin |
+| 82 | 483 | MomMom |
 | 83 | 480 | Nancy Green |
 | 84 | 472 | April Carroll |
 | 85 | 471 | Jennifer ManWarren |
@@ -295,8 +295,8 @@
 | 287 | 183 | Tina Englert |
 | 288 | 182 | Glitzy Buildsnap |
 | 289 | 181 | David DeSantis |
-| 290 | 180 | Matt Iaccheo |
-| 291 | 180 | Beau Galvan |
+| 290 | 180 | Beau Galvan |
+| 291 | 180 | Matt Iaccheo |
 | 292 | 179 | Ryan White |
 | 293 | 178 | Gabrielle Louise Malloch |
 | 294 | 177 | Jacqueline Unique |

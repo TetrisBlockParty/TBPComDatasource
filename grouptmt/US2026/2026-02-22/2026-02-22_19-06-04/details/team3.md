@@ -89,8 +89,8 @@
 | 81 | 828 | Jessica Ann |
 | 82 | 826 | Shane Wilson Jr. |
 | 83 | 824 | Shari Garber |
-| 84 | 811 | Sarajane Lokan |
-| 85 | 811 | Jay Horn |
+| 84 | 811 | Jay Horn |
+| 85 | 811 | Sarajane Lokan |
 | 86 | 807 | Snappy Glidepiece |
 | 87 | 800 | Lauren Girouard |
 | 88 | 784 | Nerdy Riseclear |
@@ -130,8 +130,8 @@
 | 122 | 574 | Morgan Martinez |
 | 123 | 568 | Rachael McClain Owens |
 | 124 | 565 | Daryn Elliott |
-| 125 | 562 | Dave Herzog |
-| 126 | 562 | Louise Stacy Sisson |
+| 125 | 562 | Louise Stacy Sisson |
+| 126 | 562 | Dave Herzog |
 | 127 | 555 | Nicole Myers |
 | 128 | 553 | Domo Washington |
 | 129 | 551 | Alaina Lee |
@@ -140,8 +140,8 @@
 | 132 | 526 | Cynthia Castros-Hampton |
 | 133 | 525 | Justin Ritter |
 | 134 | 521 | Leah Barnett |
-| 135 | 521 | Michael Nowogorski |
-| 136 | 521 | Michelle Becker |
+| 135 | 521 | Michelle Becker |
+| 136 | 521 | Michael Nowogorski |
 | 137 | 518 | opf |
 | 138 | 513 | mzcatzy |
 | 139 | 506 | Sashay Tapae Simpson |
@@ -324,8 +324,8 @@
 | 316 | 233 | Tony Waters |
 | 317 | 232 | Nicholas Roddy |
 | 318 | 232 | Donna |
-| 319 | 231 | Kiki |
-| 320 | 231 | Kevin Russell |
+| 319 | 231 | Kevin Russell |
+| 320 | 231 | Kiki |
 | 321 | 230 | BigE |
 | 322 | 228 | Beaudie Stroebel |
 | 323 | 228 | Naur |

@@ -413,8 +413,8 @@
 | 405 | 617 | Darcy Mae |
 | 406 | 617 | Nicole Cannon |
 | 407 | 615 | Julio A Laracuente |
-| 408 | 613 | Caitlyn Blackwell |
-| 409 | 613 | Tonya Lee |
+| 408 | 613 | Tonya Lee |
+| 409 | 613 | Caitlyn Blackwell |
 | 410 | 605 | Biggest thing |
 | 411 | 605 | g |
 | 412 | 602 | Shaun Church |
