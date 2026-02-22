@@ -184,8 +184,8 @@
 | 176 | 267 | Denise Nardoni |
 | 177 | 263 | Angeline Joseph |
 | 178 | 262 | Joe-Maggie Mathews |
-| 179 | 261 | Tom Nault |
-| 180 | 261 | Tiffany Ford |
+| 179 | 261 | Tiffany Ford |
+| 180 | 261 | Tom Nault |
 | 181 | 260 | Grams |
 | 182 | 258 | Tamara Deherrera |
 | 183 | 257 | Ashley Jones |
@@ -204,8 +204,8 @@
 | 196 | 240 | Brandon Givens |
 | 197 | 240 | Jimmie Clemons |
 | 198 | 238 | Araceli Parra |
-| 199 | 236 | Rania Zaqout |
-| 200 | 236 | Jess Bissett |
+| 199 | 236 | Jess Bissett |
+| 200 | 236 | Rania Zaqout |
 | 201 | 235 | LaNette Morgan |
 | 202 | 234 | Nikki Pags |
 | 203 | 233 | Ray Lader |
@@ -215,8 +215,8 @@
 | 207 | 224 | Nicole Myers |
 | 208 | 223 | Jeana Gilbert |
 | 209 | 221 | Jaime Monhaut-Reed |
-| 210 | 219 | Sissy Lowery Davis |
-| 211 | 219 | Shunta Jacobs |
+| 210 | 219 | Shunta Jacobs |
+| 211 | 219 | Sissy Lowery Davis |
 | 212 | 219 | Keis |
 | 213 | 218 | Michael Lucado |
 | 214 | 218 | Giddy Twistbuilder |
@@ -284,8 +284,8 @@
 | 276 | 166 | Betty Rosas |
 | 277 | 165 | Kali Kelz Williams |
 | 278 | 165 | Irene Arreguin |
-| 279 | 163 | Stephanie Hill |
-| 280 | 163 | Christine Trester |
+| 279 | 163 | Christine Trester |
+| 280 | 163 | Stephanie Hill |
 | 281 | 163 | Diana Ibarra |
 | 282 | 162 | Stephanie Whitefield |
 | 283 | 162 | Valerie Gendron |

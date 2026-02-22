@@ -484,8 +484,8 @@
 | 476 | 362 | Jennifer Scott |
 | 477 | 359 | Offonar Facey |
 | 478 | 359 | Jroc |
-| 479 | 358 | Alyssaaelena |
-| 480 | 358 | Eric Castaneda |
+| 479 | 358 | Eric Castaneda |
+| 480 | 358 | Alyssaaelena |
 | 481 | 358 | Michelle Sager |
 | 482 | 357 | Shannon Byrd |
 | 483 | 357 | Jessica Lamb |
@@ -494,8 +494,8 @@
 | 486 | 354 | Connie Lepore-Mann |
 | 487 | 354 | Rickey Johnson |
 | 488 | 353 | Cheery Matchzone |
-| 489 | 352 | Andrea Maher |
-| 490 | 352 | Jean FU Jagielski |
+| 489 | 352 | Jean FU Jagielski |
+| 490 | 352 | Andrea Maher |
 | 491 | 352 | ruth |
 | 492 | 352 | Cheyenne Donovan |
 | 493 | 350 | Chris Harr |
@@ -818,8 +818,8 @@
 | 810 | 217 | Christine Lockwood |
 | 811 | 216 | Monica Wilson |
 | 812 | 216 | Jamie Main |
-| 813 | 215 | Facuetoo |
-| 814 | 215 | Natalie M Wells |
+| 813 | 215 | Natalie M Wells |
+| 814 | 215 | Facuetoo |
 | 815 | 215 | Scott |
 | 816 | 214 | Dawn L Washington-Feuquay |
 | 817 | 214 | Cass Shirley |

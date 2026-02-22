@@ -127,12 +127,12 @@
 | 119 | 243 | Chelsea Dahlquist |
 | 120 | 243 | Trippy Redd |
 | 121 | 241 | John J. Cronin |
-| 122 | 240 | Tana |
-| 123 | 240 | Lexuriuos Lifestlye |
+| 122 | 240 | Lexuriuos Lifestlye |
+| 123 | 240 | Tana |
 | 124 | 236 | Mandyy Rae |
 | 125 | 234 | MomMom |
-| 126 | 230 | Frothy Pattern |
-| 127 | 230 | Billie Dawn Sparks |
+| 126 | 230 | Billie Dawn Sparks |
+| 127 | 230 | Frothy Pattern |
 | 128 | 229 | Jennifer Hardman |
 | 129 | 228 | Jenny Gingrich Fuentes |
 | 130 | 226 | Kandae |
@@ -151,8 +151,8 @@
 | 143 | 198 | Shiny Gridmatch |
 | 144 | 198 | Happy Snapbuild |
 | 145 | 195 | Daring Fitclear |
-| 146 | 194 | Tyler Werts |
-| 147 | 194 | Ash Galvan |
+| 146 | 194 | Ash Galvan |
+| 147 | 194 | Tyler Werts |
 | 148 | 193 | Lachelle Dillon |
 | 149 | 192 | Jessica Sheehan |
 | 150 | 192 | Shaykmia |
@@ -195,8 +195,8 @@
 | 187 | 165 | Nadine Velardo |
 | 188 | 165 | Arianna O'Brien |
 | 189 | 164 | Shanae Grant |
-| 190 | 163 | Angela Fairbank |
-| 191 | 163 | Tyler Whitley |
+| 190 | 163 | Tyler Whitley |
+| 191 | 163 | Angela Fairbank |
 | 192 | 162 | Cece Ibarra |
 | 193 | 161 | SavageBooty98 |
 | 194 | 160 | David Miller |

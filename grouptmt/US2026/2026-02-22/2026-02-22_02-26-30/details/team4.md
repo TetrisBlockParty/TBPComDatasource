@@ -88,8 +88,8 @@
 | 80 | 370 | Leslie Thomas |
 | 81 | 369 | Nope Young |
 | 82 | 359 | Jamie Mann-Deichmann |
-| 83 | 358 | Nugget |
-| 84 | 358 | Shane Kalamata Platoon |
+| 83 | 358 | Shane Kalamata Platoon |
+| 84 | 358 | Nugget |
 | 85 | 319 | Livvy |
 | 86 | 317 | Lori Walker |
 | 87 | 314 | Amanda Pauldo-Ivy |
@@ -112,8 +112,8 @@
 | 104 | 273 | Carrie Brian |
 | 105 | 271 | Sarah Brown |
 | 106 | 268 | Meagan Nicole |
-| 107 | 264 | Girl |
-| 108 | 264 | Epic Curvetile |
+| 107 | 264 | Epic Curvetile |
+| 108 | 264 | Girl |
 | 109 | 262 | Monica Daley |
 | 110 | 258 | Brittney Orengo |
 | 111 | 257 | Holly Jolly |
@@ -149,8 +149,8 @@
 | 141 | 203 | Katherine Crane |
 | 142 | 201 | Melvin Baird |
 | 143 | 198 | Jessica Lynn Cutlip |
-| 144 | 196 | Jeff Brian Gates |
-| 145 | 196 | Jenna McGeorge |
+| 144 | 196 | Jenna McGeorge |
+| 145 | 196 | Jeff Brian Gates |
 | 146 | 195 | Malakai Darien Fox |
 | 147 | 194 | Zany Twisterfit |
 | 148 | 192 | Shauna Havard |
