@@ -165,8 +165,8 @@
 | 157 | 1236 | Nika Bee |
 | 158 | 1232 | Groovy Puzzle |
 | 159 | 1230 | Megan Garrick |
-| 160 | 1226 | Vo'Landa Reels |
-| 161 | 1226 | Brandy Andre |
+| 160 | 1226 | Brandy Andre |
+| 161 | 1226 | Vo'Landa Reels |
 | 162 | 1211 | Lucky Ladybug |
 | 163 | 1203 | Suki Kaur |
 | 164 | 1201 | Murrae Lynn Rebarchek |
@@ -1457,8 +1457,8 @@
 | 1449 | 190 | Lucero Ramirez |
 | 1450 | 190 | Blaine Birchem |
 | 1451 | 190 | Katie Marie |
-| 1452 | 189 | Daveeda Ansourian Joplin |
-| 1453 | 189 | Frothy Shatter |
+| 1452 | 189 | Frothy Shatter |
+| 1453 | 189 | Daveeda Ansourian Joplin |
 | 1454 | 189 | Ryan Carpenter |
 | 1455 | 189 | Miranda Jackson |
 | 1456 | 189 | ForestGem |

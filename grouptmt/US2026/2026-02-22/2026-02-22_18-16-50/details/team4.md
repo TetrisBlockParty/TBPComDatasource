@@ -85,8 +85,8 @@
 | 77 | 590 | Jamie Mann-Deichmann |
 | 78 | 588 | Eric Mcgaughy |
 | 79 | 581 | Yoset Mejia |
-| 80 | 575 | Carolyn Wallace |
-| 81 | 575 | Jeremy Steines |
+| 80 | 575 | Jeremy Steines |
+| 81 | 575 | Carolyn Wallace |
 | 82 | 564 | Shane Kalamata Platoon |
 | 83 | 560 | Jason Allen |
 | 84 | 559 | H.R. Block |
@@ -141,8 +141,8 @@
 | 133 | 330 | David Lay |
 | 134 | 329 | Amanda Pauldo-Ivy |
 | 135 | 329 | Jessica Bohlken |
-| 136 | 328 | Kris Bartlett |
-| 137 | 328 | Leslie Nicole |
+| 136 | 328 | Leslie Nicole |
+| 137 | 328 | Kris Bartlett |
 | 138 | 325 | Dizzy Tiley |
 | 139 | 324 | Jessica Lynn Cutlip |
 | 140 | 323 | Daria Rycewicz |
@@ -163,8 +163,8 @@
 | 155 | 290 | 🥔🥔 Spudz |
 | 156 | 290 | Chaz Duncan |
 | 157 | 288 | Leah Kutz Zirbel |
-| 158 | 286 | Brittney Orengo |
-| 159 | 286 | shark tato |
+| 158 | 286 | shark tato |
+| 159 | 286 | Brittney Orengo |
 | 160 | 282 | Rafael Valentin |
 | 161 | 281 | Lindsay Ball |
 | 162 | 277 | Mary Ann Pabukis |
@@ -817,7 +817,7 @@
 | 809 | 54 | Joseph Bodon |
 | 810 | 54 | Timothy Allen |
 | 811 | 54 | Chilly Matcher |
-| 812 | 54 | Timothy Allen |
+| 812 | 54 | Lisha Billups |
 | 813 | 53 | Tabi Williams |
 | 814 | 53 | Snappy Combofall |
 | 815 | 53 | Kevin Blevins |

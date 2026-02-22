@@ -221,8 +221,8 @@
 | 213 | 346 | Tamara Deherrera |
 | 214 | 344 | Roary Danner |
 | 215 | 343 | Ashley Raines |
-| 216 | 341 | Noyb Adam |
-| 217 | 341 | Samantha Lynn |
+| 216 | 341 | Samantha Lynn |
+| 217 | 341 | Noyb Adam |
 | 218 | 341 | Ashley Tookes |
 | 219 | 340 | Ammmmmmy |
 | 220 | 339 | Rania Zaqout |
