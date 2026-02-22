@@ -104,8 +104,8 @@
 | 96 | 369 | Nope Young |
 | 97 | 359 | Chilly Crasher |
 | 98 | 358 | Nugget |
-| 99 | 352 | Monica Daley |
-| 100 | 352 | Zippy Gridlock |
+| 99 | 352 | Zippy Gridlock |
+| 100 | 352 | Monica Daley |
 | 101 | 344 | Livvy |
 | 102 | 337 | Lori Walker |
 | 103 | 331 | ThaEviLJeNiuZ |
@@ -150,12 +150,12 @@
 | 142 | 244 | Twisty Cascadezone |
 | 143 | 240 | Peachy Fall |
 | 144 | 232 | Crystal Nicolette Moore |
-| 145 | 230 | Autum Leigh |
-| 146 | 230 | Cursed Hag |
+| 145 | 230 | Cursed Hag |
+| 146 | 230 | Autum Leigh |
 | 147 | 228 | J-Rizzle |
-| 148 | 227 | Chris Bernstein |
+| 148 | 227 | Alyssa Papen |
 | 149 | 227 | Swanky Fitline |
-| 150 | 227 | Alyssa Papen |
+| 150 | 227 | Chris Bernstein |
 | 151 | 225 | Damn Libra |
 | 152 | 224 | Matt Summer |
 | 153 | 223 | Antony Dwayne Beasley |
@@ -195,8 +195,8 @@
 | 187 | 189 | Calvin Dennis |
 | 188 | 188 | Andria Lynn |
 | 189 | 186 | Holly |
-| 190 | 185 | Andy Cabral |
-| 191 | 185 | Lori |
+| 190 | 185 | Lori |
+| 191 | 185 | Andy Cabral |
 | 192 | 184 | Ak Jones |
 | 193 | 181 | Carter Jones |
 | 194 | 181 | Alan George LaRage |
@@ -204,8 +204,8 @@
 | 196 | 180 | Rafael Valentin |
 | 197 | 179 | blockstar |
 | 198 | 175 | TinyLegoRose |
-| 199 | 174 | Rio Rocha |
-| 200 | 174 | Dihcheese444 |
+| 199 | 174 | Dihcheese444 |
+| 200 | 174 | Rio Rocha |
 | 201 | 172 | Gilles Lanctot |
 | 202 | 171 | Autumn Kumzi |
 | 203 | 167 | Cozy Balancer |

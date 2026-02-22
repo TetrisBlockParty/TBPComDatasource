@@ -117,8 +117,8 @@
 | 109 | 506 | Sashay Tapae Simpson |
 | 110 | 502 | Justin Ritter |
 | 111 | 502 | Elissa S-k |
-| 112 | 500 | Kristie |
-| 113 | 500 | Domo Washington |
+| 112 | 500 | Domo Washington |
+| 113 | 500 | Kristie |
 | 114 | 497 | Mykal Burton |
 | 115 | 492 | Daira Largen |
 | 116 | 491 | Chauntee Alfrey-Cardinale |
@@ -194,8 +194,8 @@
 | 186 | 319 | Rebecca Funderburk Kirby |
 | 187 | 317 | Ashley Tookes |
 | 188 | 315 | Kammy Hill |
-| 189 | 311 | Araceli Parra |
-| 190 | 311 | Rochelle Hazelett |
+| 189 | 311 | Rochelle Hazelett |
+| 190 | 311 | Araceli Parra |
 | 191 | 310 | Danielle Balcom |
 | 192 | 308 | Daryn Elliott |
 | 193 | 308 | Rania Zaqout |
@@ -223,8 +223,8 @@
 | 215 | 276 | _melisa223_ |
 | 216 | 276 | Crimson |
 | 217 | 275 | Cassandra Bryant |
-| 218 | 274 | Tye Stovall |
-| 219 | 274 | Charles Perrone |
+| 218 | 274 | Charles Perrone |
+| 219 | 274 | Tye Stovall |
 | 220 | 272 | Dee Franklin |
 | 221 | 271 | Ashley Muncey |
 | 222 | 269 | Trisha Balmer |
@@ -234,16 +234,16 @@
 | 226 | 263 | Brittany |
 | 227 | 263 | Angeline Joseph |
 | 228 | 262 | Joe-Maggie Mathews |
-| 229 | 261 | Tiffany Ford |
-| 230 | 261 | Marquita Sheard |
+| 229 | 261 | Marquita Sheard |
+| 230 | 261 | Tiffany Ford |
 | 231 | 261 | Tasha Wesson-Torrence |
 | 232 | 260 | Grams |
 | 233 | 259 | Danielle Weikel |
 | 234 | 258 | Tamara Deherrera |
 | 235 | 257 | Ashley Jones |
 | 236 | 256 | Brenda Lee Vander Molen |
-| 237 | 256 | Tiffany Davie |
-| 238 | 256 | KayB |
+| 237 | 256 | KayB |
+| 238 | 256 | Tiffany Davie |
 | 239 | 251 | Sabrina Hardrick |
 | 240 | 250 | fraulila |
 | 241 | 249 | Annie Marie |
@@ -265,8 +265,8 @@
 | 257 | 227 | Meowsa |
 | 258 | 225 | Dirtgirl27 |
 | 259 | 223 | Connie Mohler-Fair |
-| 260 | 221 | Jaime Monhaut-Reed |
-| 261 | 221 | Alice |
+| 260 | 221 | Alice |
+| 261 | 221 | Jaime Monhaut-Reed |
 | 262 | 221 | Vaners |
 | 263 | 220 | rosy |
 | 264 | 219 | Cozy Snaplink |
@@ -280,8 +280,8 @@
 | 272 | 214 | Amy Fuller Heaton |
 | 273 | 212 | Desiree Gold |
 | 274 | 212 | Sunny Rotater |
-| 275 | 211 | Velma Mull |
-| 276 | 211 | El Chapa |
+| 275 | 211 | El Chapa |
+| 276 | 211 | Velma Mull |
 | 277 | 211 | Khaleada McGill Banks |
 | 278 | 209 | Micayah Stevens |
 | 279 | 208 | AlsoJess |
@@ -323,8 +323,8 @@
 | 315 | 179 | Tipsy Zonebuilder |
 | 316 | 178 | Jess Dearborn |
 | 317 | 178 | Jennifer Alvey |
-| 318 | 176 | Melissa Orth Hunter |
-| 319 | 176 | Emma |
+| 318 | 176 | Emma |
+| 319 | 176 | Melissa Orth Hunter |
 | 320 | 175 | Eileen Brady Thurber |
 | 321 | 174 | Betty Rosas |
 | 322 | 174 | Lesley Perez |
@@ -361,8 +361,8 @@
 | 353 | 157 | Wetwet |
 | 354 | 157 | Chummy Caster |
 | 355 | 156 | Nichole Greene |
-| 356 | 155 | Michael Leblanc |
-| 357 | 155 | Michell Hendershott Jackson |
+| 356 | 155 | Michell Hendershott Jackson |
+| 357 | 155 | Michael Leblanc |
 | 358 | 153 | Sheila M Frazier |
 | 359 | 153 | Lys |
 | 360 | 153 | Tony Waters |

@@ -312,8 +312,8 @@
 | 304 | 640 | BYM4L |
 | 305 | 639 | Crystie Hicks |
 | 306 | 639 | Rebecca Miller |
-| 307 | 635 | William Hunt |
-| 308 | 635 | Diana Fitzwater |
+| 307 | 635 | Diana Fitzwater |
+| 308 | 635 | William Hunt |
 | 309 | 631 | Marie Walker |
 | 310 | 629 | Sleepypanda67 |
 | 311 | 627 | Victoria Moore-Smith |
@@ -874,8 +874,8 @@
 | 866 | 246 | Stacey Tranchida |
 | 867 | 245 | Theresa Sterrett |
 | 868 | 245 | Abby Klaski |
-| 869 | 244 | David Rehse |
-| 870 | 244 | Jumpy Gridclear |
+| 869 | 244 | Jumpy Gridclear |
+| 870 | 244 | David Rehse |
 | 871 | 244 | Nakiiya Dreamcatcher Gore |
 | 872 | 244 | Brooklynn Huckaby |
 | 873 | 244 | Erika Deer Kauffman |
@@ -887,8 +887,8 @@
 | 879 | 242 | Meganator42 |
 | 880 | 242 | Greenshades00 |
 | 881 | 242 | Donna Chandler |
-| 882 | 241 | Emoney Sanchez |
-| 883 | 241 | Ronda Cary |
+| 882 | 241 | Ronda Cary |
+| 883 | 241 | Emoney Sanchez |
 | 884 | 241 | Travis Tinsley |
 | 885 | 240 | Kimmie Zimmerman-Rocha |
 | 886 | 240 | Matthew Joseph Acevedo |
@@ -913,9 +913,9 @@
 | 905 | 235 | B-rad B-rad |
 | 906 | 235 | Prince Ajesh |
 | 907 | 235 | Loopy Shatterfit |
-| 908 | 234 | Synn |
-| 909 | 234 | Kim McGrath |
-| 910 | 234 | Jennifer Coe |
+| 908 | 234 | Kim McGrath |
+| 909 | 234 | Jennifer Coe |
+| 910 | 234 | Synn |
 | 911 | 234 | Jannan Haimour |
 | 912 | 233 | Allison Hewitt |
 | 913 | 233 | Jessica Sutter |
