@@ -122,8 +122,8 @@
 | 114 | 1273 | Cool Rollpiece |
 | 115 | 1257 | Eileen Hale |
 | 116 | 1252 | Katrina Williams Balmir |
-| 117 | 1248 | Isabela Shaw |
-| 118 | 1248 | Howard Forest |
+| 117 | 1248 | Howard Forest |
+| 118 | 1248 | Isabela Shaw |
 | 119 | 1242 | Altamirano Michael |
 | 120 | 1232 | Groovy Puzzle |
 | 121 | 1226 | Vo'Landa Reels |
@@ -635,8 +635,8 @@
 | 627 | 337 | Sassy Pattern |
 | 628 | 337 | Tum |
 | 629 | 337 | Savannah Alexander |
-| 630 | 336 | Austin Wilson |
-| 631 | 336 | bru |
+| 630 | 336 | bru |
+| 631 | 336 | Austin Wilson |
 | 632 | 336 | Swanky Columnbuilder |
 | 633 | 335 | Brooke Leigh Strube |
 | 634 | 334 | Phil J. Grombliniak |
