@@ -109,8 +109,8 @@
 | 101 | 290 | Death |
 | 102 | 288 | Seante Bullock |
 | 103 | 285 | Ananda Mendez |
-| 104 | 284 | Emily Adelaide Wheatley |
-| 105 | 284 | Theo Pinnow |
+| 104 | 284 | Theo Pinnow |
+| 105 | 284 | Emily Adelaide Wheatley |
 | 106 | 283 | Franswa |
 | 107 | 282 | Timothy Dew |
 | 108 | 280 | Sarah Roberts |
@@ -128,18 +128,18 @@
 | 120 | 243 | Chelsea Dahlquist |
 | 121 | 243 | Trippy Redd |
 | 122 | 241 | John J. Cronin |
-| 123 | 240 | Lexuriuos Lifestlye |
-| 124 | 240 | Tana |
+| 123 | 240 | Tana |
+| 124 | 240 | Lexuriuos Lifestlye |
 | 125 | 237 | Greg Hart |
 | 126 | 236 | Mandyy Rae |
-| 127 | 230 | Billie Dawn Sparks |
-| 128 | 230 | Frothy Pattern |
+| 127 | 230 | Frothy Pattern |
+| 128 | 230 | Billie Dawn Sparks |
 | 129 | 229 | Jennifer Hardman |
 | 130 | 228 | Jenny Gingrich Fuentes |
-| 131 | 226 | Kandae |
-| 132 | 226 | ALFD |
-| 133 | 216 | Shauntina Burke |
-| 134 | 216 | MRdot Rooski |
+| 131 | 226 | ALFD |
+| 132 | 226 | Kandae |
+| 133 | 216 | MRdot Rooski |
+| 134 | 216 | Shauntina Burke |
 | 135 | 214 | GATOR |
 | 136 | 212 | Jaimie Lynn |
 | 137 | 212 | Lori Bales |
@@ -217,8 +217,8 @@
 | 209 | 144 | Miguel Teixeira |
 | 210 | 144 | Gary Gobin |
 | 211 | 142 | Colleen Wise |
-| 212 | 141 | Blaire Bruckoff |
-| 213 | 141 | Dino |
+| 212 | 141 | Dino |
+| 213 | 141 | Blaire Bruckoff |
 | 214 | 140 | Witty Builderfit |
 | 215 | 139 | Flashy Rotator |
 | 216 | 138 | Giddy Cascade |

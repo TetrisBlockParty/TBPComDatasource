@@ -334,8 +334,8 @@
 | 326 | 492 | Armonie Smith |
 | 327 | 491 | Michael Buckner |
 | 328 | 489 | Osun Anuket Esu |
-| 329 | 488 | Andrew Willis |
-| 330 | 488 | Venita Ray |
+| 329 | 488 | Venita Ray |
+| 330 | 488 | Andrew Willis |
 | 331 | 487 | MrsCandyfine As Wine Truss |
 | 332 | 483 | Alezandra Smith |
 | 333 | 482 | Eckoman518 |

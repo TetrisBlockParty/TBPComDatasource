@@ -90,8 +90,8 @@
 | 82 | 561 | Rachael McClain Owens |
 | 83 | 559 | Morgan Martinez |
 | 84 | 548 | Dave Herzog |
-| 85 | 541 | Patty Allen |
-| 86 | 541 | Nate Burnside |
+| 85 | 541 | Nate Burnside |
+| 86 | 541 | Patty Allen |
 | 87 | 536 | Giddy Drop |
 | 88 | 526 | Cynthia Castros-Hampton |
 | 89 | 519 | Shari Garber |
@@ -134,8 +134,8 @@
 | 126 | 391 | Calista Jo Dickson |
 | 127 | 390 | Hasty Cascadefit |
 | 128 | 386 | Katie Knaus |
-| 129 | 378 | Tasha Schriewer |
-| 130 | 378 | Makelini Mausia |
+| 129 | 378 | Makelini Mausia |
+| 130 | 378 | Tasha Schriewer |
 | 131 | 376 | Loopy Clusterer |
 | 132 | 371 | mjl574 |
 | 133 | 370 | Santeria Trece Candles |
@@ -143,15 +143,15 @@
 | 135 | 368 | Stephanie Woods |
 | 136 | 366 | Adrian Marcel Pate |
 | 137 | 365 | Logan Naccarato |
-| 138 | 355 | Tessina Dewey-Mancino |
-| 139 | 355 | Sherry Ogden |
+| 138 | 355 | Sherry Ogden |
+| 139 | 355 | Tessina Dewey-Mancino |
 | 140 | 353 | Louise Stacy Sisson |
 | 141 | 350 | Darlene McMillan |
 | 142 | 348 | CeceGeGe |
 | 143 | 347 | Nicole Flippo |
 | 144 | 343 | Chasity |
-| 145 | 328 | Aaron Pitkin |
-| 146 | 328 | Dapper Snap |
+| 145 | 328 | Dapper Snap |
+| 146 | 328 | Aaron Pitkin |
 | 147 | 326 | Fancy Cascader |
 | 148 | 325 | Fallorina Susana |
 | 149 | 323 | Ashley Raines |
