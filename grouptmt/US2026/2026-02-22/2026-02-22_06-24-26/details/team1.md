@@ -78,8 +78,8 @@
 | 70 | 417 | Lori Sanders- Davis |
 | 71 | 415 | Spunky Piecebuilder |
 | 72 | 413 | Steve Schneider |
-| 73 | 412 | Jazzy Framezone |
-| 74 | 412 | Anaid Sanchez |
+| 73 | 412 | Anaid Sanchez |
+| 74 | 412 | Jazzy Framezone |
 | 75 | 406 | Yvonne Marie |
 | 76 | 390 | Candy Jones |
 | 77 | 390 | Cynthia Bradley |
@@ -207,8 +207,8 @@
 | 199 | 179 | femmefatale |
 | 200 | 179 | Danielle Little-Daugherty |
 | 201 | 178 | Chad Atchley |
-| 202 | 177 | Irual Hctrab |
-| 203 | 177 | Jacqueline Unique |
+| 202 | 177 | Jacqueline Unique |
+| 203 | 177 | Irual Hctrab |
 | 204 | 176 | Mel Hogan |
 | 205 | 175 | John Barron |
 | 206 | 174 | Cheeky Pop |
@@ -280,17 +280,17 @@
 | 272 | 130 | Howdi Duty |
 | 273 | 130 | Gilbert Ortiz Jr. |
 | 274 | 129 | Sherri E Woods Hess |
-| 275 | 128 | Alyssa Ingram |
-| 276 | 128 | Chuck Gannon |
+| 275 | 128 | Chuck Gannon |
+| 276 | 128 | Alyssa Ingram |
 | 277 | 127 | Danielle Mae |
 | 278 | 126 | Zany Tiler |
 | 279 | 126 | Dizzy Riseclear |
 | 280 | 125 | Melissa Bires Hussar |
 | 281 | 125 | Matt Iaccheo |
-| 282 | 124 | DoodleBug |
-| 283 | 124 | Rodney Schmerfeld |
-| 284 | 124 | Madison Wicks |
-| 285 | 124 | John Kim |
+| 282 | 124 | John Kim |
+| 283 | 124 | DoodleBug |
+| 284 | 124 | Rodney Schmerfeld |
+| 285 | 124 | Madison Wicks |
 | 286 | 123 | Tonya Beasley |
 | 287 | 122 | Nate Funk |
 | 288 | 121 | Jacob Shaddock |

@@ -88,8 +88,8 @@
 | 80 | 628 | Tiff Vs Tiffany |
 | 81 | 626 | Dan Rob |
 | 82 | 621 | Cherry Parker |
-| 83 | 618 | Christine Niles |
-| 84 | 618 | Katrina Schroeder |
+| 83 | 618 | Katrina Schroeder |
+| 84 | 618 | Christine Niles |
 | 85 | 613 | Amber Hughes |
 | 86 | 608 | Danielle Becker |
 | 87 | 591 | Jesse Olive |
@@ -180,8 +180,8 @@
 | 172 | 343 | Ashley Raines |
 | 173 | 341 | Samantha Lynn |
 | 174 | 338 | Nora Rogers |
-| 175 | 338 | Gumbo |
-| 176 | 338 | Leah Barnett |
+| 175 | 338 | Leah Barnett |
+| 176 | 338 | Gumbo |
 | 177 | 332 | Rich LeBlanc |
 | 178 | 325 | Giddy Twistbuilder |
 | 179 | 323 | Demetrious Shaw Sr. |
@@ -191,8 +191,8 @@
 | 183 | 315 | Kammy Hill |
 | 184 | 311 | Araceli Parra |
 | 185 | 311 | Raya |
-| 186 | 308 | Rania Zaqout |
-| 187 | 308 | Daryn Elliott |
+| 186 | 308 | Daryn Elliott |
+| 187 | 308 | Rania Zaqout |
 | 188 | 307 | rnr junky |
 | 189 | 307 | Blocked |
 | 190 | 301 | Stephanie Burtin |
@@ -231,9 +231,9 @@
 | 223 | 263 | Angeline Joseph |
 | 224 | 263 | Brittany |
 | 225 | 262 | Joe-Maggie Mathews |
-| 226 | 261 | Marquita Sheard |
-| 227 | 261 | Tiffany Ford |
-| 228 | 261 | Tasha Wesson-Torrence |
+| 226 | 261 | Tiffany Ford |
+| 227 | 261 | Tasha Wesson-Torrence |
+| 228 | 261 | Marquita Sheard |
 | 229 | 260 | Grams |
 | 230 | 259 | Danielle Weikel |
 | 231 | 258 | Tamara Deherrera |
@@ -356,14 +356,14 @@
 | 348 | 156 | Nichole Greene |
 | 349 | 155 | Chummy Caster |
 | 350 | 155 | Michael Leblanc |
-| 351 | 153 | Sheila M Frazier |
+| 351 | 153 | Steffi Chris Dacones |
 | 352 | 153 | Lys |
 | 353 | 153 | Sheila M Frazier |
 | 354 | 153 | Tony Waters |
 | 355 | 153 | Wetwet |
 | 356 | 152 | Goofy Fall |
-| 357 | 152 | Eric Caccavale |
-| 358 | 152 | Shiny Zonebuilder |
+| 357 | 152 | Shiny Zonebuilder |
+| 358 | 152 | Eric Caccavale |
 | 359 | 149 | Micayah Stevens |
 | 360 | 149 | Alexis Taylor |
 | 361 | 148 | Pam Holt Powell |

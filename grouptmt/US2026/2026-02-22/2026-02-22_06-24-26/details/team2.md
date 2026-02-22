@@ -191,8 +191,8 @@
 | 183 | 921 | Morgue Chick |
 | 184 | 916 | Butta |
 | 185 | 915 | Kelly Trent |
-| 186 | 910 | Crystal Hoffman |
-| 187 | 910 | Shuany Arias |
+| 186 | 910 | Shuany Arias |
+| 187 | 910 | Crystal Hoffman |
 | 188 | 907 | Gene Mills |
 | 189 | 902 | Murrae Lynn Rebarchek |
 | 190 | 895 | Jennifer Peachey |
@@ -281,8 +281,8 @@
 | 273 | 679 | Dee |
 | 274 | 678 | Scott Treadway |
 | 275 | 677 | Mema |
-| 276 | 675 | Tommy Tha Boss Gunz |
-| 277 | 675 | Brenda Utphall |
+| 276 | 675 | Brenda Utphall |
+| 277 | 675 | Tommy Tha Boss Gunz |
 | 278 | 674 | Kathryn Townsley |
 | 279 | 673 | Claire Noland |
 | 280 | 672 | Danielle Simmons |
