@@ -65,8 +65,8 @@
 | 57 | 730 | Sevens4L |
 | 58 | 720 | Zippy Align |
 | 59 | 703 | Angel Fowler |
-| 60 | 691 | Seante Bullock |
-| 61 | 691 | Marianne Louise West |
+| 60 | 691 | Marianne Louise West |
+| 61 | 691 | Seante Bullock |
 | 62 | 687 | comrade fish |
 | 63 | 677 | Drew Magnus |
 | 64 | 655 | Brenda Stewart |
@@ -217,8 +217,8 @@
 | 209 | 254 | Giggly Builderline |
 | 210 | 253 | Jamie Jury |
 | 211 | 252 | Dena Kayy |
-| 212 | 249 | Lakeisha Chapman |
-| 213 | 249 | Sam Williams |
+| 212 | 249 | Sam Williams |
+| 213 | 249 | Lakeisha Chapman |
 | 214 | 248 | Jen Nystrom |
 | 215 | 247 | John J. Cronin |
 | 216 | 247 | Jessie Lynn |
@@ -250,8 +250,8 @@
 | 242 | 228 | Giddy Cascade |
 | 243 | 228 | Shiny Gridmatch |
 | 244 | 224 | ParisandCory Champagne |
-| 245 | 223 | Erez Yosef |
-| 246 | 223 | Christina Backer |
+| 245 | 223 | Christina Backer |
+| 246 | 223 | Erez Yosef |
 | 247 | 223 | Thorne Shumate |
 | 248 | 222 | Snappy Bridgepiece |
 | 249 | 222 | Debbie Davis |
@@ -310,8 +310,8 @@
 | 302 | 191 | J.F. Fields |
 | 303 | 191 | Renata Mabie |
 | 304 | 190 | Sweetts |
-| 305 | 189 | Bird Person |
-| 306 | 189 | Tawnya Peltonen |
+| 305 | 189 | Tawnya Peltonen |
+| 306 | 189 | Bird Person |
 | 307 | 188 | Betsy |
 | 308 | 187 | Jessica Weed |
 | 309 | 187 | GringaLinga |

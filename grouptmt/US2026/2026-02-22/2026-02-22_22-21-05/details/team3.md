@@ -175,11 +175,11 @@
 | 167 | 471 | Rachel |
 | 168 | 471 | Mendoza Lee Christy |
 | 169 | 470 | Logan Naccarato |
-| 170 | 469 | Adrian Marcel Pate |
-| 171 | 469 | Melissa Orth Hunter |
+| 170 | 469 | Melissa Orth Hunter |
+| 171 | 469 | Adrian Marcel Pate |
 | 172 | 468 | Betty Ivy |
-| 173 | 464 | Michelle |
-| 174 | 464 | Makelini Mausia |
+| 173 | 464 | Makelini Mausia |
+| 174 | 464 | Michelle |
 | 175 | 461 | Shunta Jacobs |
 | 176 | 460 | Danielle Allison |
 | 177 | 460 | Araceli Parra |
@@ -216,8 +216,8 @@
 | 208 | 393 | Cozy Snaplink |
 | 209 | 384 | rosy |
 | 210 | 383 | Nicole Flippo |
-| 211 | 382 | Scott Carleton |
-| 212 | 382 | Giddy Twistbuilder |
+| 211 | 382 | Giddy Twistbuilder |
+| 212 | 382 | Scott Carleton |
 | 213 | 378 | Chris Bell |
 | 214 | 377 | Darlene McMillan |
 | 215 | 374 | Marci Mize Fandrich |
@@ -360,8 +360,8 @@
 | 352 | 235 | Cheryl Hinch Tenbrook |
 | 353 | 233 | Tony Waters |
 | 354 | 232 | Nicholas Roddy |
-| 355 | 231 | Frothy Snapper |
-| 356 | 231 | Kevin Russell |
+| 355 | 231 | Kevin Russell |
+| 356 | 231 | Frothy Snapper |
 | 357 | 230 | BigE |
 | 358 | 229 | DanceLuvLaugh |
 | 359 | 228 | Ashley Lynn Marchese |

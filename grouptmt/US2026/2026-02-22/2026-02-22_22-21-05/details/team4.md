@@ -48,9 +48,9 @@
 | 40 | 908 | Misty Hollibaugh |
 | 41 | 886 | Dustin Robert |
 | 42 | 855 | Marvin Lou Martin |
-| 43 | 846 | Jae Job |
-| 44 | 846 | Lucille Truesdale |
-| 45 | 846 | Christine Marie |
+| 43 | 846 | Lucille Truesdale |
+| 44 | 846 | Christine Marie |
+| 45 | 846 | Jae Job |
 | 46 | 843 | Shelly Chandler |
 | 47 | 839 | LisaJo Picken Buchanan |
 | 48 | 838 | TeeJ |
@@ -108,8 +108,8 @@
 | 100 | 512 | Diana Houts |
 | 101 | 510 | Scott Jameson |
 | 102 | 500 | Rodney McMath Jr. |
-| 103 | 499 | Christina LR |
-| 104 | 499 | Trista Leah |
+| 103 | 499 | Trista Leah |
+| 104 | 499 | Christina LR |
 | 105 | 488 | Jen Allison |
 | 106 | 481 | Serena Goodridge |
 | 107 | 476 | Matt Summer |
@@ -197,8 +197,8 @@
 | 189 | 277 | Kim Klutz Olson |
 | 190 | 277 | Mary Ann Pabukis |
 | 191 | 276 | Joeliecea Cobb |
-| 192 | 272 | Alan George LaRage |
-| 193 | 272 | Dennis Bradley |
+| 192 | 272 | Dennis Bradley |
+| 193 | 272 | Alan George LaRage |
 | 194 | 271 | Sarah Brown |
 | 195 | 270 | Juls |
 | 196 | 269 | Nikki Rae Gordon |
@@ -211,8 +211,8 @@
 | 203 | 262 | Holly Jolly |
 | 204 | 261 | scott |
 | 205 | 261 | Dihcheese444 |
-| 206 | 259 | Melvin Baird |
-| 207 | 259 | Sam Bishop |
+| 206 | 259 | Sam Bishop |
+| 207 | 259 | Melvin Baird |
 | 208 | 258 | Jen Caldwell |
 | 209 | 257 | Cheery Risebuilder |
 | 210 | 256 | Mylo Lipscomb |
@@ -228,7 +228,7 @@
 | 220 | 245 | April Rondinone |
 | 221 | 245 | Adam Stephanie Parker |
 | 222 | 243 | Mr. Party |
-| 223 | 241 | Zakia Monae |
+| 223 | 241 | Allen Lloyd |
 | 224 | 241 | JPW |
 | 225 | 241 | Zakia Monae |
 | 226 | 238 | Zesty Twistbuilder |
@@ -315,8 +315,8 @@
 | 307 | 169 | Ellen Durfee |
 | 308 | 168 | Zippy Tilt |
 | 309 | 168 | Chummy Towerzone |
-| 310 | 167 | Jason Bosco |
-| 311 | 167 | Jim Hart |
+| 310 | 167 | Jim Hart |
+| 311 | 167 | Jason Bosco |
 | 312 | 166 | SammieJo Guy |
 | 313 | 166 | KimoKoala |
 | 314 | 166 | Megan Cutshaw |

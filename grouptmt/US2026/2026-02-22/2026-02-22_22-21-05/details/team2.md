@@ -150,8 +150,8 @@
 | 142 | 1450 | Cody Smith-Candelaria |
 | 143 | 1418 | L3sli3 |
 | 144 | 1412 | Angi Harrison |
-| 145 | 1411 | Zappy Cascade |
-| 146 | 1411 | niecy |
+| 145 | 1411 | niecy |
+| 146 | 1411 | Zappy Cascade |
 | 147 | 1401 | Brandy Andre |
 | 148 | 1397 | Bussyiano Page |
 | 149 | 1390 | Erica Williams |
@@ -379,8 +379,8 @@
 | 371 | 708 | Jelly |
 | 372 | 706 | goofinoff |
 | 373 | 703 | Gold Rose |
-| 374 | 702 | Kimberly Randesi |
-| 375 | 702 | Allan Wayne Lamia |
+| 374 | 702 | Allan Wayne Lamia |
+| 375 | 702 | Kimberly Randesi |
 | 376 | 701 | Mama T |
 | 377 | 701 | Draizen Montrell Thomas |
 | 378 | 700 | Beverly Owens |
@@ -405,8 +405,8 @@
 | 397 | 677 | Crystie Hicks |
 | 398 | 674 | Connie Jimenez |
 | 399 | 669 | Marie Walker |
-| 400 | 668 | Amber Brion |
-| 401 | 668 | Roseanna Peloso |
+| 400 | 668 | Roseanna Peloso |
+| 401 | 668 | Amber Brion |
 | 402 | 665 | Prette Qui |
 | 403 | 665 | Victoria Moore-Smith |
 | 404 | 665 | Taryece Gause |
@@ -428,8 +428,8 @@
 | 420 | 642 | Cassie Maynard |
 | 421 | 642 | Gary Stash |
 | 422 | 640 | BYM4L |
-| 423 | 639 | Rebecca Miller |
-| 424 | 639 | Steven Marshaun |
+| 423 | 639 | Steven Marshaun |
+| 424 | 639 | Rebecca Miller |
 | 425 | 635 | Mikayala Szaz |
 | 426 | 635 | Dennis McLaurin |
 | 427 | 632 | Brittney Jean |
@@ -445,8 +445,8 @@
 | 437 | 616 | Jackie Avila |
 | 438 | 615 | Julio A Laracuente |
 | 439 | 614 | Emilee Burke |
-| 440 | 613 | Tonya Lee |
-| 441 | 613 | Lylymom |
+| 440 | 613 | Lylymom |
+| 441 | 613 | Tonya Lee |
 | 442 | 611 | Biggest thing |
 | 443 | 605 | Santana Miyagi |
 | 444 | 603 | Casper The Chonk |
@@ -457,8 +457,8 @@
 | 449 | 601 | Slinky Racker |
 | 450 | 597 | Jamie Schmitt |
 | 451 | 594 | Rhonda Milstead |
-| 452 | 594 | Autumn Schaeffer |
-| 453 | 594 | Michelle Fields |
+| 452 | 594 | Michelle Fields |
+| 453 | 594 | Autumn Schaeffer |
 | 454 | 594 | Irene Jones |
 | 455 | 591 | Kimberly Hope Howell |
 | 456 | 589 | Shavonna Haynes |
@@ -3382,7 +3382,7 @@
 | 3374 | 95 | Ryan |
 | 3375 | 95 | Pamela Murphy |
 | 3376 | 94 | Destiny Rowland |
-| 3377 | 94 | José Vega |
+| 3377 | 94 | Trudi Batten |
 | 3378 | 94 | Dorothy Rudolech |
 | 3379 | 94 | Lydfin |
 | 3380 | 94 | Matthew McCarthy-Arnone |
