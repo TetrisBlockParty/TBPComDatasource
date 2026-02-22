@@ -82,8 +82,8 @@
 | 74 | 483 | TeeJ |
 | 75 | 483 | Carmethia Clemons Haslerig |
 | 76 | 467 | Dawn Alexander |
-| 77 | 447 | Erin Thomas |
-| 78 | 447 | Samantha Peterson |
+| 77 | 447 | Samantha Peterson |
+| 78 | 447 | Erin Thomas |
 | 79 | 440 | Kristin Manee |
 | 80 | 427 | KJ Pool |
 | 81 | 424 | Amelpss |
@@ -121,8 +121,8 @@
 | 113 | 303 | Lauren Scott |
 | 114 | 300 | Jason Hart |
 | 115 | 298 | Lucas J Sutton |
-| 116 | 296 | HastyGrabber |
-| 117 | 296 | Justin Hannigan |
+| 116 | 296 | Justin Hannigan |
+| 117 | 296 | HastyGrabber |
 | 118 | 295 | Latisha Davis |
 | 119 | 294 | Kesha Brady |
 | 120 | 290 | 🥔🥔 Spudz |

@@ -61,8 +61,8 @@
 | 53 | 908 | Alanna Rogers |
 | 54 | 907 | Judi Dobson |
 | 55 | 903 | Sarah Fehring |
-| 56 | 895 | Shonna Roberts |
-| 57 | 895 | Amanda L Baker |
+| 56 | 895 | Amanda L Baker |
+| 57 | 895 | Shonna Roberts |
 | 58 | 886 | Khristen AC |
 | 59 | 874 | Jessica Pineda-Lopez |
 | 60 | 867 | Corie A. Brinson |
@@ -103,8 +103,8 @@
 | 95 | 581 | Danielle Mogg |
 | 96 | 579 | Jd Morris |
 | 97 | 566 | Dolores Falco |
-| 98 | 565 | Rachael McClain Owens |
-| 99 | 565 | Patty Allen |
+| 98 | 565 | Patty Allen |
+| 99 | 565 | Rachael McClain Owens |
 | 100 | 562 | Louise Stacy Sisson |
 | 101 | 562 | Dave Herzog |
 | 102 | 559 | Morgan Martinez |
@@ -119,8 +119,8 @@
 | 111 | 506 | Sashay Tapae Simpson |
 | 112 | 502 | Justin Ritter |
 | 113 | 502 | Elissa S-k |
-| 114 | 500 | Kristie |
-| 115 | 500 | Domo Washington |
+| 114 | 500 | Domo Washington |
+| 115 | 500 | Kristie |
 | 116 | 497 | Mykal Burton |
 | 117 | 492 | Daira Largen |
 | 118 | 491 | Chauntee Alfrey-Cardinale |
@@ -186,8 +186,8 @@
 | 178 | 343 | Ashley Raines |
 | 179 | 341 | Samantha Lynn |
 | 180 | 338 | Raven Dudley |
-| 181 | 338 | Leah Barnett |
-| 182 | 338 | Gumbo |
+| 181 | 338 | Gumbo |
+| 182 | 338 | Leah Barnett |
 | 183 | 332 | Rich LeBlanc |
 | 184 | 328 | Giddy Twistbuilder |
 | 185 | 323 | Demetrious Shaw Sr. |
@@ -267,8 +267,8 @@
 | 259 | 225 | Dirtgirl27 |
 | 260 | 225 | Cozy Snaplink |
 | 261 | 223 | Connie Mohler-Fair |
-| 262 | 221 | Alice |
-| 263 | 221 | Jaime Monhaut-Reed |
+| 262 | 221 | Jaime Monhaut-Reed |
+| 263 | 221 | Alice |
 | 264 | 221 | Vaners |
 | 265 | 220 | rosy |
 | 266 | 219 | Sissy Lowery Davis |
@@ -332,8 +332,8 @@
 | 324 | 174 | Betty Rosas |
 | 325 | 174 | Lesley Perez |
 | 326 | 173 | BŘŰŤİÇŨŚ |
-| 327 | 169 | Peachy Rollfit |
-| 328 | 169 | Naur |
+| 327 | 169 | Naur |
+| 328 | 169 | Peachy Rollfit |
 | 329 | 169 | Kristian Thurman |
 | 330 | 168 | Trice Thomas |
 | 331 | 168 | April Matthew Kibble |
@@ -359,15 +359,15 @@
 | 351 | 159 | Salena Whitlock |
 | 352 | 159 | Joshua David Huie |
 | 353 | 158 | Willow |
-| 354 | 157 | Katrina E Jelks |
-| 355 | 157 | Angel Mendez |
-| 356 | 157 | Steffi Chris Dacones |
+| 354 | 157 | Steffi Chris Dacones |
+| 355 | 157 | Katrina E Jelks |
+| 356 | 157 | Angel Mendez |
 | 357 | 157 | Wetwet |
 | 358 | 156 | Nichole Greene |
 | 359 | 155 | Michell Hendershott Jackson |
 | 360 | 155 | Michael Leblanc |
-| 361 | 153 | Sheila M Frazier |
-| 362 | 153 | Lys |
+| 361 | 153 | Lys |
+| 362 | 153 | Sheila M Frazier |
 | 363 | 153 | Tony Waters |
 | 364 | 152 | Noyb Adam |
 | 365 | 152 | Goofy Fall |

@@ -209,8 +209,8 @@
 | 201 | 868 | Auntie B |
 | 202 | 867 | Michele Gabriel |
 | 203 | 865 | Dedra Steward |
-| 204 | 862 | Robin Kerby |
-| 205 | 862 | Brittany Radaszewski |
+| 204 | 862 | Brittany Radaszewski |
+| 205 | 862 | Robin Kerby |
 | 206 | 860 | April Dawn Gussler |
 | 207 | 857 | Della Hole |
 | 208 | 853 | Felicia Lynn |
@@ -219,8 +219,8 @@
 | 211 | 838 | Tralonda Weeks |
 | 212 | 837 | Ashley Rose Frederick |
 | 213 | 835 | Katrina Weston |
-| 214 | 834 | Rebecca Doughman |
-| 215 | 834 | Nika Bee |
+| 214 | 834 | Nika Bee |
+| 215 | 834 | Rebecca Doughman |
 | 216 | 828 | Cindy Sechler Taninecz |
 | 217 | 820 | Chirpy Staggerpiece |
 | 218 | 818 | Angela Bonquiqui Dinish |
@@ -280,10 +280,10 @@
 | 272 | 692 | Chelle |
 | 273 | 690 | Deborah Miller |
 | 274 | 689 | Giggy Blocker |
-| 275 | 688 | Tiara Elizabeth Baker |
-| 276 | 688 | ShinyRose |
-| 277 | 687 | Jai Jackson |
-| 278 | 687 | Stephanie Lumanlan |
+| 275 | 688 | ShinyRose |
+| 276 | 688 | Tiara Elizabeth Baker |
+| 277 | 687 | Stephanie Lumanlan |
+| 278 | 687 | Jai Jackson |
 | 279 | 686 | Ashley Guernsey-Martin |
 | 280 | 685 | Binyah-Binyah |
 | 281 | 681 | Melissa Holsinger |
@@ -308,8 +308,8 @@
 | 300 | 651 | Unica Rector |
 | 301 | 650 | Shiny Rollzone |
 | 302 | 643 | Hoppy Brickmatch |
-| 303 | 641 | Joce Lynn |
-| 304 | 641 | Angie Bolton Workman |
+| 303 | 641 | Angie Bolton Workman |
+| 304 | 641 | Joce Lynn |
 | 305 | 640 | BYM4L |
 | 306 | 639 | Crystie Hicks |
 | 307 | 639 | Rebecca Miller |
@@ -317,8 +317,8 @@
 | 309 | 635 | William Hunt |
 | 310 | 631 | Marie Walker |
 | 311 | 629 | Sleepypanda67 |
-| 312 | 627 | Allan Wayne Lamia |
-| 313 | 627 | Victoria Moore-Smith |
+| 312 | 627 | Victoria Moore-Smith |
+| 313 | 627 | Allan Wayne Lamia |
 | 314 | 619 | Brandon Armstrong |
 | 315 | 619 | Jánine Riggs |
 | 316 | 617 | Leslie Ann Carter |
