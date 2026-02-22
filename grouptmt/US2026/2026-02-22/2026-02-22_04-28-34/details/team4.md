@@ -49,8 +49,8 @@
 | 41 | 646 | Jacqueline Helm |
 | 42 | 634 | Anthony Bryan Riva |
 | 43 | 632 | Kimyatta Cavin |
-| 44 | 630 | Chilly Line |
-| 45 | 630 | Dustee Craddock-Harrison |
+| 44 | 630 | Dustee Craddock-Harrison |
+| 45 | 630 | Chilly Line |
 | 46 | 627 | Jonathan Kimbrough |
 | 47 | 614 | Robin Getchel |
 | 48 | 614 | KM8 |
@@ -154,8 +154,8 @@
 | 146 | 211 | Twisty Cascadezone |
 | 147 | 211 | Jenna McGeorge |
 | 148 | 210 | Swanky Fitline |
-| 149 | 205 | Sarah Neathery |
-| 150 | 205 | Kathy Brookins |
+| 149 | 205 | Kathy Brookins |
+| 150 | 205 | Sarah Neathery |
 | 151 | 204 | Jen Caldwell |
 | 152 | 203 | Katherine Crane |
 | 153 | 203 | Chris Bernstein |

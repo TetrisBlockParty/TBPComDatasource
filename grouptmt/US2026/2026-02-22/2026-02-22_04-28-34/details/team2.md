@@ -260,8 +260,8 @@
 | 252 | 678 | Scott Treadway |
 | 253 | 677 | Mema |
 | 254 | 676 | Pacynthia Williams |
-| 255 | 675 | Brenda Utphall |
-| 256 | 675 | Tommy Tha Boss Gunz |
+| 255 | 675 | Tommy Tha Boss Gunz |
+| 256 | 675 | Brenda Utphall |
 | 257 | 672 | Danielle Simmons |
 | 258 | 669 | Claire Noland |
 | 259 | 666 | Speedy Spinblock |
@@ -615,8 +615,8 @@
 | 607 | 314 | Amanda West |
 | 608 | 313 | Marina Linda |
 | 609 | 313 | Natasha Edmonds |
-| 610 | 313 | Jennifer Mahon |
-| 611 | 313 | Mary Marie |
+| 610 | 313 | Mary Marie |
+| 611 | 313 | Jennifer Mahon |
 | 612 | 312 | Sassy Linkbuilder |
 | 613 | 312 | Christina Jarvis-Swarbrick |
 | 614 | 311 | Diallo Sparkman |
@@ -943,8 +943,8 @@
 | 935 | 200 | Rich Sullivan |
 | 936 | 200 | Sara Silvernail-Kay |
 | 937 | 200 | Shyne Sun |
-| 938 | 199 | Quels Whidbee |
-| 939 | 199 | Crafty Brickline |
+| 938 | 199 | Crafty Brickline |
+| 939 | 199 | Quels Whidbee |
 | 940 | 199 | BeaNzMaMa |
 | 941 | 199 | Boldy Block |
 | 942 | 199 | Jenny Castro |

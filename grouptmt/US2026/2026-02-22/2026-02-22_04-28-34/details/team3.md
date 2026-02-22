@@ -168,8 +168,8 @@
 | 160 | 347 | Nicole Flippo |
 | 161 | 343 | Ashley Raines |
 | 162 | 338 | Leah Barnett |
-| 163 | 332 | Fallorina Susana |
-| 164 | 332 | Rich LeBlanc |
+| 163 | 332 | Rich LeBlanc |
+| 164 | 332 | Fallorina Susana |
 | 165 | 330 | Aaron Pitkin |
 | 166 | 325 | Giddy Twistbuilder |
 | 167 | 324 | Tom Nault |
@@ -183,9 +183,9 @@
 | 175 | 300 | Sherika C. McDaniels |
 | 176 | 298 | Daira Largen |
 | 177 | 298 | MsBee |
-| 178 | 295 | RickyG |
-| 179 | 295 | Jim Mathews |
-| 180 | 295 | Marci Mize Fandrich |
+| 178 | 295 | Jim Mathews |
+| 179 | 295 | Marci Mize Fandrich |
+| 180 | 295 | RickyG |
 | 181 | 291 | Daryn Elliott |
 | 182 | 289 | Hoppy Buildout |
 | 183 | 289 | Duane Bright |
@@ -233,8 +233,8 @@
 | 225 | 239 | Tasha Wesson-Torrence |
 | 226 | 236 | Jess Bissett |
 | 227 | 235 | LaNette Morgan |
-| 228 | 234 | Nikki Pags |
-| 229 | 234 | Grego Daniel |
+| 228 | 234 | Grego Daniel |
+| 229 | 234 | Nikki Pags |
 | 230 | 233 | Ray Lader |
 | 231 | 232 | Donna |
 | 232 | 227 | Krystal Gerstberger |
@@ -265,8 +265,8 @@
 | 257 | 202 | rosy |
 | 258 | 202 | Staci George Fitzsimmons |
 | 259 | 200 | glichmod |
-| 260 | 200 | angieelyn |
-| 261 | 200 | rosy |
+| 260 | 200 | Sharisse Baltimore |
+| 261 | 200 | angieelyn |
 | 262 | 199 | Hyper Matchzone |
 | 263 | 197 | Raven Dudley |
 | 264 | 195 | Nicha Hooker |
