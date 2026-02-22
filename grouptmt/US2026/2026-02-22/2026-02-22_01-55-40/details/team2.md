@@ -285,8 +285,8 @@
 | 277 | 549 | Kaylee McCafferty |
 | 278 | 547 | Giggy Blocker |
 | 279 | 544 | Leah Keesling |
-| 280 | 543 | Adira Brown |
-| 281 | 543 | Teresa Gillmore |
+| 280 | 543 | Teresa Gillmore |
+| 281 | 543 | Adira Brown |
 | 282 | 542 | Slip |
 | 283 | 535 | Jessie McDougald |
 | 284 | 535 | Paul Huber |

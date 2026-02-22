@@ -113,8 +113,8 @@
 | 105 | 438 | Bea Miles |
 | 106 | 432 | Jenny Hrndz |
 | 107 | 430 | Patricia White |
-| 108 | 428 | Elissa S-k |
-| 109 | 428 | Betty Ivy |
+| 108 | 428 | Betty Ivy |
+| 109 | 428 | Elissa S-k |
 | 110 | 416 | Mary Pellegrino |
 | 111 | 416 | Jennifer Lynn Fahrenholtz-Summers |
 | 112 | 410 | Stephanie Simpson |
@@ -149,8 +149,8 @@
 | 141 | 347 | Nicole Flippo |
 | 142 | 346 | Louise Stacy Sisson |
 | 143 | 343 | Chasity |
-| 144 | 328 | Aaron Pitkin |
-| 145 | 328 | Dapper Snap |
+| 144 | 328 | Dapper Snap |
+| 145 | 328 | Aaron Pitkin |
 | 146 | 328 | Jeni Dow |
 | 147 | 326 | Fancy Cascader |
 | 148 | 323 | Ashley Raines |
@@ -171,8 +171,8 @@
 | 163 | 286 | Cynthia Herrmann Egland |
 | 164 | 283 | Joye Sims Binion |
 | 165 | 278 | Rufus Lincoln |
-| 166 | 276 | _melisa223_ |
-| 167 | 276 | Crimson |
+| 166 | 276 | Crimson |
+| 167 | 276 | _melisa223_ |
 | 168 | 274 | Tye Stovall |
 | 169 | 273 | RickyG |
 | 170 | 272 | Rebecca Bailey |
@@ -329,7 +329,7 @@
 | 321 | 141 | Melissa Snyder |
 | 322 | 141 | Weerae |
 | 323 | 138 | Boldy Corner |
-| 324 | 138 | sofaking |
+| 324 | 138 | Skinny Baldez |
 | 325 | 138 | Pam Holt Powell |
 | 326 | 138 | sofaking |
 | 327 | 137 | kacihall |
@@ -415,8 +415,8 @@
 | 407 | 108 | Jack Bo |
 | 408 | 108 | Scouty |
 | 409 | 107 | Megan Stanley |
-| 410 | 106 | Cheeky Setter |
-| 411 | 106 | Joseph Vargas |
+| 410 | 106 | Joseph Vargas |
+| 411 | 106 | Cheeky Setter |
 | 412 | 106 | Megan Riggins |
 | 413 | 105 | Snarky McFace |
 | 414 | 105 | Zac Hudak |

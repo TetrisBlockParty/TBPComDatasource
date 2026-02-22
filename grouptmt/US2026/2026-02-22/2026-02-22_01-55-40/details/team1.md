@@ -122,8 +122,8 @@
 | 114 | 251 | Jason Jones |
 | 115 | 249 | Elaine Elaine |
 | 116 | 244 | Franswa |
-| 117 | 243 | Trippy Redd |
-| 118 | 243 | Chelsea Dahlquist |
+| 117 | 243 | Chelsea Dahlquist |
+| 118 | 243 | Trippy Redd |
 | 119 | 241 | John J. Cronin |
 | 120 | 240 | Tana |
 | 121 | 236 | Mandyy Rae |
@@ -204,11 +204,11 @@
 | 196 | 153 | Barry Mac'Ockner |
 | 197 | 152 | Speedy Snapfall |
 | 198 | 150 | Adele Rahman |
-| 199 | 147 | DaRascal |
-| 200 | 147 | Davery Spencer Adair |
+| 199 | 147 | Davery Spencer Adair |
+| 200 | 147 | DaRascal |
 | 201 | 146 | Brave Wrecker |
 | 202 | 145 | Agustin Duarte Orozco |
-| 203 | 144 | Toph |
+| 203 | 144 | Cranky Pattern |
 | 204 | 144 | Gary Gobin |
 | 205 | 144 | Miguel Teixeira |
 | 206 | 144 | Toph |
@@ -236,8 +236,8 @@
 | 228 | 131 | Uhog SF |
 | 229 | 131 | Jessie |
 | 230 | 130 | Gilbert Ortiz Jr. |
-| 231 | 129 | Jessica Russell |
-| 232 | 129 | Sherri E Woods Hess |
+| 231 | 129 | Sherri E Woods Hess |
+| 232 | 129 | Jessica Russell |
 | 233 | 128 | Desiree Deschaine Havee |
 | 234 | 128 | Alyssa Ingram |
 | 235 | 128 | Brenda Alexander |
