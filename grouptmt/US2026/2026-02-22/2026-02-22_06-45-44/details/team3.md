@@ -193,8 +193,8 @@
 | 185 | 319 | Rebecca Funderburk Kirby |
 | 186 | 317 | Ashley Tookes |
 | 187 | 315 | Kammy Hill |
-| 188 | 311 | Raya |
-| 189 | 311 | Araceli Parra |
+| 188 | 311 | Araceli Parra |
+| 189 | 311 | Raya |
 | 190 | 310 | Danielle Balcom |
 | 191 | 308 | Rania Zaqout |
 | 192 | 308 | Daryn Elliott |
@@ -265,8 +265,8 @@
 | 257 | 223 | Connie Mohler-Fair |
 | 258 | 222 | Charles Perrone |
 | 259 | 221 | Vaners |
-| 260 | 221 | Alice |
-| 261 | 221 | Jaime Monhaut-Reed |
+| 260 | 221 | Jaime Monhaut-Reed |
+| 261 | 221 | Alice |
 | 262 | 219 | Sissy Lowery Davis |
 | 263 | 218 | Michael Lucado |
 | 264 | 217 | rosy |
@@ -2038,7 +2038,7 @@
 | 2030 | 16 | Taylor Wittman |
 | 2031 | 15 | Wendy Zerucha Sargent |
 | 2032 | 15 | Stella Mariz |
-| 2033 | 15 | Wendy Zerucha Sargent |
+| 2033 | 15 | Plucky Stagger |
 | 2034 | 15 | Kelli Johnston |
 | 2035 | 15 | Cyd |
 | 2036 | 15 | Zesty Riser |

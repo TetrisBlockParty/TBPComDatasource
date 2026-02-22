@@ -33,8 +33,8 @@
 | 25 | 886 | Dustin Robert |
 | 26 | 880 | Koshin Abdirahman |
 | 27 | 879 | Heather Tushner |
-| 28 | 873 | Michelle Pearman |
-| 29 | 873 | Elizabeth Sallas |
+| 28 | 873 | Elizabeth Sallas |
+| 29 | 873 | Michelle Pearman |
 | 30 | 871 | Denny Shives |
 | 31 | 846 | Christine Marie |
 | 32 | 843 | Lucille Truesdale |
@@ -77,8 +77,8 @@
 | 69 | 501 | H.R. Block |
 | 70 | 500 | Rodney McMath Jr. |
 | 71 | 486 | Landon Keith Graffeo |
-| 72 | 483 | Carmethia Clemons Haslerig |
-| 73 | 483 | TeeJ |
+| 72 | 483 | TeeJ |
+| 73 | 483 | Carmethia Clemons Haslerig |
 | 74 | 467 | Dawn Alexander |
 | 75 | 447 | Samantha Peterson |
 | 76 | 440 | Kristin Manee |
@@ -148,8 +148,8 @@
 | 140 | 240 | Peachy Fall |
 | 141 | 240 | Jolly Dashfit |
 | 142 | 232 | Crystal Nicolette Moore |
-| 143 | 230 | Autum Leigh |
-| 144 | 230 | Cursed Hag |
+| 143 | 230 | Cursed Hag |
+| 144 | 230 | Autum Leigh |
 | 145 | 228 | J-Rizzle |
 | 146 | 227 | Swanky Fitline |
 | 147 | 227 | Chris Bernstein |

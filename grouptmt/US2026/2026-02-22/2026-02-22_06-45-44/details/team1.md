@@ -114,8 +114,8 @@
 | 106 | 319 | Deanna L Hermanson |
 | 107 | 319 | Patrick Luckenbill |
 | 108 | 313 | Tanya Carpenter-Reynolds |
-| 109 | 310 | Jason Jones |
-| 110 | 310 | phrmblk24 |
+| 109 | 310 | phrmblk24 |
+| 110 | 310 | Jason Jones |
 | 111 | 310 | Seth Wesson |
 | 112 | 306 | Happy Basegrid |
 | 113 | 304 | Nicole Roseberry Weber |
@@ -189,10 +189,10 @@
 | 181 | 193 | Lachelle Dillon |
 | 182 | 193 | Michael |
 | 183 | 192 | Jessica Sheehan |
-| 184 | 191 | Shanae Grant |
-| 185 | 191 | Diane Byrd |
-| 186 | 190 | Thorne Shumate |
-| 187 | 190 | Sweetts |
+| 184 | 191 | Diane Byrd |
+| 185 | 191 | Shanae Grant |
+| 186 | 190 | Sweetts |
+| 187 | 190 | Thorne Shumate |
 | 188 | 189 | Jeanna Dunn |
 | 189 | 187 | Amanda Johnson Huffman |
 | 190 | 187 | Cool Towerzone |
@@ -208,8 +208,8 @@
 | 200 | 179 | Danielle Little-Daugherty |
 | 201 | 179 | femmefatale |
 | 202 | 178 | Chad Atchley |
-| 203 | 177 | Irual Hctrab |
-| 204 | 177 | Jacqueline Unique |
+| 203 | 177 | Jacqueline Unique |
+| 204 | 177 | Irual Hctrab |
 | 205 | 176 | Mel Hogan |
 | 206 | 175 | John Barron |
 | 207 | 174 | Cheeky Pop |

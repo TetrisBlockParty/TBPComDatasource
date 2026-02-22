@@ -193,8 +193,8 @@
 | 185 | 920 | Bob |
 | 186 | 916 | Butta |
 | 187 | 915 | Kelly Trent |
-| 188 | 910 | Shuany Arias |
-| 189 | 910 | Crystal Hoffman |
+| 188 | 910 | Crystal Hoffman |
+| 189 | 910 | Shuany Arias |
 | 190 | 907 | Gene Mills |
 | 191 | 902 | Murrae Lynn Rebarchek |
 | 192 | 901 | Rosa Franklin |
@@ -306,8 +306,8 @@
 | 298 | 651 | Unica Rector |
 | 299 | 650 | Shiny Rollzone |
 | 300 | 643 | Hoppy Brickmatch |
-| 301 | 641 | Angie Bolton Workman |
-| 302 | 641 | Joce Lynn |
+| 301 | 641 | Joce Lynn |
+| 302 | 641 | Angie Bolton Workman |
 | 303 | 640 | BYM4L |
 | 304 | 639 | Crystie Hicks |
 | 305 | 639 | Rebecca Miller |
@@ -315,8 +315,8 @@
 | 307 | 635 | Diana Fitzwater |
 | 308 | 631 | Marie Walker |
 | 309 | 629 | Sleepypanda67 |
-| 310 | 627 | Allan Wayne Lamia |
-| 311 | 627 | Victoria Moore-Smith |
+| 310 | 627 | Victoria Moore-Smith |
+| 311 | 627 | Allan Wayne Lamia |
 | 312 | 619 | Jánine Riggs |
 | 313 | 617 | Leslie Ann Carter |
 | 314 | 617 | tejas25 |
@@ -423,9 +423,9 @@
 | 415 | 481 | Klee |
 | 416 | 480 | Dar |
 | 417 | 478 | Ashley Collins |
-| 418 | 477 | Brenna Ann |
-| 419 | 477 | Michelle Fields |
-| 420 | 477 | Julay |
+| 418 | 477 | Julay |
+| 419 | 477 | Brenna Ann |
+| 420 | 477 | Michelle Fields |
 | 421 | 476 | Kitybox |
 | 422 | 476 | Maya June |
 | 423 | 475 | Michelle Lee |
@@ -439,8 +439,8 @@
 | 431 | 463 | Jaye EL Hunter |
 | 432 | 463 | Sue Leard |
 | 433 | 462 | Amanda Ferrell |
-| 434 | 462 | Tonya Lee |
-| 435 | 462 | Daphne Jordan |
+| 434 | 462 | Daphne Jordan |
+| 435 | 462 | Tonya Lee |
 | 436 | 462 | Jarboe |
 | 437 | 459 | Melissa Kay Gibson |
 | 438 | 458 | Casper The Chonk |
@@ -467,8 +467,8 @@
 | 459 | 432 | Lucy Marshall |
 | 460 | 430 | Jackie Lucas |
 | 461 | 430 | Gloria Ininahazwe |
-| 462 | 429 | Christy Krissie |
-| 463 | 429 | Rhonda Milstead |
+| 462 | 429 | Rhonda Milstead |
+| 463 | 429 | Christy Krissie |
 | 464 | 428 | Arkei Luster |
 | 465 | 428 | Shyenn Gadsby |
 | 466 | 427 | Kori Beth Babb |
