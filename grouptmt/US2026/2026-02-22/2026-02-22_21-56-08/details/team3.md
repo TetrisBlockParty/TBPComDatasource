@@ -128,8 +128,8 @@
 | 120 | 621 | Cherry Parker |
 | 121 | 618 | Bea Miles |
 | 122 | 613 | JerseyJess |
-| 123 | 595 | Giddy Drop |
-| 124 | 595 | Patricia White |
+| 123 | 595 | Patricia White |
+| 124 | 595 | Giddy Drop |
 | 125 | 585 | opf |
 | 126 | 583 | Karon Griffin |
 | 127 | 582 | Natasha Jones |
@@ -239,8 +239,8 @@
 | 231 | 347 | Philip Rock |
 | 232 | 347 | Trisha Balmer |
 | 233 | 346 | Tamara Deherrera |
-| 234 | 344 | Roary Danner |
-| 235 | 344 | Rania Zaqout |
+| 234 | 344 | Rania Zaqout |
+| 235 | 344 | Roary Danner |
 | 236 | 343 | Ashley Raines |
 | 237 | 341 | Samantha Lynn |
 | 238 | 341 | Noyb Adam |
@@ -275,8 +275,8 @@
 | 267 | 299 | Angie Harper |
 | 268 | 299 | Ray Lader |
 | 269 | 298 | Grams |
-| 270 | 297 | kacihall |
-| 271 | 297 | Jojo M |
+| 270 | 297 | Jojo M |
+| 271 | 297 | kacihall |
 | 272 | 296 | Hoppy Buildout |
 | 273 | 294 | Tasha Wesson-Torrence |
 | 274 | 293 | Terry Jo Jones |
@@ -284,8 +284,8 @@
 | 276 | 293 | Beaudie Stroebel |
 | 277 | 292 | Cheeky Snapper |
 | 278 | 291 | Carrie Huskey |
-| 279 | 289 | Duane Bright |
-| 280 | 289 | DidIdothat |
+| 279 | 289 | DidIdothat |
+| 280 | 289 | Duane Bright |
 | 281 | 288 | Connie Mohler-Fair |
 | 282 | 287 | Sabrina Hardrick |
 | 283 | 283 | Heather Green |

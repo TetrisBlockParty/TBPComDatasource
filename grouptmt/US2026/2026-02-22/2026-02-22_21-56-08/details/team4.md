@@ -61,8 +61,8 @@
 | 53 | 766 | Robin Watters |
 | 54 | 763 | Ashley Ingram |
 | 55 | 757 | Ancient Intuition |
-| 56 | 751 | Jason Allen |
-| 57 | 751 | Rachel Anne |
+| 56 | 751 | Rachel Anne |
+| 57 | 751 | Jason Allen |
 | 58 | 745 | Robin Getchel |
 | 59 | 736 | Goatimus Lombardi |
 | 60 | 735 | Avy Absol |
@@ -101,10 +101,10 @@
 | 93 | 544 | Amy Suckarieh |
 | 94 | 533 | Samantha Peterson |
 | 95 | 519 | Nugget |
-| 96 | 513 | YoMomma |
-| 97 | 513 | Erin Thomas |
-| 98 | 512 | Diana Houts |
-| 99 | 512 | Casey Jeffcoat |
+| 96 | 513 | Erin Thomas |
+| 97 | 513 | YoMomma |
+| 98 | 512 | Casey Jeffcoat |
+| 99 | 512 | Diana Houts |
 | 100 | 511 | Zippy Gridlock |
 | 101 | 510 | Scott Jameson |
 | 102 | 500 | Rodney McMath Jr. |
@@ -131,8 +131,8 @@
 | 123 | 414 | Nope Young |
 | 124 | 409 | Marie-Pier Desjardins |
 | 125 | 408 | Amanda Pauldo-Ivy |
-| 126 | 400 | Ericca Eldridge |
-| 127 | 400 | Trista Leah |
+| 126 | 400 | Trista Leah |
+| 127 | 400 | Ericca Eldridge |
 | 128 | 393 | Carlton Unfiltered |
 | 129 | 391 | Lush Linkfall |
 | 130 | 391 | Ramel Rhodes |
@@ -239,8 +239,8 @@
 | 231 | 230 | blockstar |
 | 232 | 230 | Jade Rian |
 | 233 | 228 | Antony Dwayne Beasley |
-| 234 | 225 | Jenna McGeorge |
-| 235 | 225 | Perky Patternblock |
+| 234 | 225 | Perky Patternblock |
+| 235 | 225 | Jenna McGeorge |
 | 236 | 222 | Brandi Durig |
 | 237 | 221 | PurpleMoonMa |
 | 238 | 221 | Rheanda Weaskus |
@@ -611,8 +611,8 @@
 | 603 | 88 | Nicole Silvers |
 | 604 | 88 | Joe Lonnemann |
 | 605 | 87 | Roseanna Anderson |
-| 606 | 87 | Kelly Duncan |
-| 607 | 87 | Derek Pendarvis |
+| 606 | 87 | Derek Pendarvis |
+| 607 | 87 | Kelly Duncan |
 | 608 | 86 | Saundra Miller |
 | 609 | 85 | Tim Knight-ten |
 | 610 | 85 | Zippy Block |
