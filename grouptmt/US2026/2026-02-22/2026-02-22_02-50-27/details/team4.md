@@ -58,8 +58,8 @@
 | 50 | 594 | Ancient Intuition |
 | 51 | 590 | Valerie Roberts |
 | 52 | 555 | Clarence Patawaran |
-| 53 | 546 | Kimberly Love |
-| 54 | 546 | Savannah Overdorf |
+| 53 | 546 | Savannah Overdorf |
+| 54 | 546 | Kimberly Love |
 | 55 | 526 | Goatimus Lombardi |
 | 56 | 518 | Carolyn Wallace |
 | 57 | 512 | Casey Jeffcoat |
@@ -77,8 +77,8 @@
 | 69 | 409 | Isabella Blanco |
 | 70 | 402 | Courtney Cicoria |
 | 71 | 399 | Jenna Ingersoll |
-| 72 | 396 | Alicia Bass |
-| 73 | 396 | Amy Suckarieh |
+| 72 | 396 | Amy Suckarieh |
+| 73 | 396 | Alicia Bass |
 | 74 | 391 | Ramel Rhodes |
 | 75 | 390 | Carlton Unfiltered |
 | 76 | 388 | YoMomma |
@@ -158,9 +158,9 @@
 | 150 | 194 | Zany Twisterfit |
 | 151 | 192 | Shauna Havard |
 | 152 | 190 | Justin Hannigan |
-| 153 | 189 | Calvin Dennis |
+| 153 | 189 | Chilly Crasher |
 | 154 | 189 | Stacey Stano |
-| 155 | 189 | Chilly Crasher |
+| 155 | 189 | Calvin Dennis |
 | 156 | 188 | Andria Lynn |
 | 157 | 187 | TheNeesh50 |
 | 158 | 186 | Holly |
@@ -187,8 +187,8 @@
 | 179 | 160 | ZeeZee |
 | 180 | 160 | Carlos Ramirez |
 | 181 | 159 | Marcus Todd |
-| 182 | 158 | Avy Absol |
-| 183 | 158 | Chair |
+| 182 | 158 | Chair |
+| 183 | 158 | Avy Absol |
 | 184 | 155 | AyeKay |
 | 185 | 154 | scott |
 | 186 | 154 | Chris Bernstein |

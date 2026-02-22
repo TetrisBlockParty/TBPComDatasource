@@ -100,8 +100,8 @@
 | 92 | 313 | Tanya Carpenter-Reynolds |
 | 93 | 310 | Seth Wesson |
 | 94 | 307 | Hyper |
-| 95 | 305 | Spunky Piecebuilder |
-| 96 | 305 | Patrick Luckenbill |
+| 95 | 305 | Patrick Luckenbill |
+| 96 | 305 | Spunky Piecebuilder |
 | 97 | 304 | Nicole Roseberry Weber |
 | 98 | 303 | cc |
 | 99 | 301 | Lehrin Maria |
@@ -208,8 +208,8 @@
 | 200 | 155 | Silly Align |
 | 201 | 154 | Melissa Lemmon |
 | 202 | 153 | Barry Mac'Ockner |
-| 203 | 152 | Speedy Snapfall |
-| 204 | 152 | Brave Wrecker |
+| 203 | 152 | Brave Wrecker |
+| 204 | 152 | Speedy Snapfall |
 | 205 | 150 | Agustin Duarte Orozco |
 | 206 | 150 | Adele Rahman |
 | 207 | 147 | DaRascal |
