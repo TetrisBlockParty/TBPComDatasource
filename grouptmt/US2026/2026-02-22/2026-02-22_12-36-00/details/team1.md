@@ -91,8 +91,8 @@
 | 83 | 400 | Cynthia Bradley |
 | 84 | 399 | Nerdy Linkblock |
 | 85 | 397 | Tdub |
-| 86 | 390 | Candy Jones |
-| 87 | 390 | Lori Bales |
+| 86 | 390 | Lori Bales |
+| 87 | 390 | Candy Jones |
 | 88 | 390 | Goose egg |
 | 89 | 389 | Trina Gee |
 | 90 | 388 | Jennifer ManWarren |
@@ -120,8 +120,8 @@
 | 112 | 330 | Sweet Baker |
 | 113 | 326 | Monica Donato |
 | 114 | 321 | Maria C. Hernandez |
-| 115 | 319 | Deanna L Hermanson |
-| 116 | 319 | Patrick Luckenbill |
+| 115 | 319 | Patrick Luckenbill |
+| 116 | 319 | Deanna L Hermanson |
 | 117 | 318 | Jessica Sheehan |
 | 118 | 316 | Dizzy Party |
 | 119 | 316 | Ly Phethmany |
@@ -134,8 +134,8 @@
 | 126 | 301 | Lehrin Maria |
 | 127 | 300 | Chelsea Dahlquist |
 | 128 | 298 | Erin Hodges Plumb |
-| 129 | 290 | Sarah Roberts |
-| 130 | 290 | Death |
+| 129 | 290 | Death |
+| 130 | 290 | Sarah Roberts |
 | 131 | 285 | Ananda Mendez |
 | 132 | 284 | Emily Adelaide Wheatley |
 | 133 | 284 | Rachael |
@@ -184,8 +184,8 @@
 | 176 | 217 | ParisandCory Champagne |
 | 177 | 217 | Kimberly Garcia |
 | 178 | 216 | Shauntina Burke |
-| 179 | 215 | Sam Williams |
-| 180 | 215 | Shaykmia |
+| 179 | 215 | Shaykmia |
+| 180 | 215 | Sam Williams |
 | 181 | 213 | Daring Fitclear |
 | 182 | 212 | Jaimie Lynn |
 | 183 | 211 | Marianita Garcia |
@@ -197,11 +197,11 @@
 | 189 | 207 | Brenda Alexander |
 | 190 | 207 | Leslie Bush Yarbrough |
 | 191 | 206 | BadG52 |
-| 192 | 205 | Snappy Matcher |
-| 193 | 205 | Tater |
+| 192 | 205 | Tater |
+| 193 | 205 | Snappy Matcher |
 | 194 | 204 | Lacy Wolfe |
-| 195 | 203 | Paula Martin |
-| 196 | 203 | LaFontaine Leslie |
+| 195 | 203 | LaFontaine Leslie |
+| 196 | 203 | Paula Martin |
 | 197 | 202 | Amanda Holibaugh |
 | 198 | 201 | Colleen Wise |
 | 199 | 200 | Flashy Rotator |
@@ -249,8 +249,8 @@
 | 241 | 177 | Herm Junior |
 | 242 | 176 | Tiger Lily |
 | 243 | 176 | Mel Hogan |
-| 244 | 175 | Kellie Tunstall |
-| 245 | 175 | John Barron |
+| 244 | 175 | John Barron |
+| 245 | 175 | Kellie Tunstall |
 | 246 | 174 | Cheeky Pop |
 | 247 | 173 | Gabrielle Louise Malloch |
 | 248 | 173 | Rico Rico |

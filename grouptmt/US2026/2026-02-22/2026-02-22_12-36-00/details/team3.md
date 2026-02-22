@@ -186,8 +186,8 @@
 | 178 | 359 | Dapper Snap |
 | 179 | 358 | RickyG |
 | 180 | 358 | Chummy Caster |
-| 181 | 357 | Stephanie Burtin |
-| 182 | 357 | Tom Nault |
+| 181 | 357 | Tom Nault |
+| 182 | 357 | Stephanie Burtin |
 | 183 | 355 | Tessina Dewey-Mancino |
 | 184 | 354 | Leah Barnett |
 | 185 | 353 | Shunta Jacobs |
@@ -209,8 +209,8 @@
 | 201 | 320 | Or Reznitsky |
 | 202 | 317 | Ashley Tookes |
 | 203 | 315 | Kammy Hill |
-| 204 | 311 | Araceli Parra |
-| 205 | 311 | Rochelle Hazelett |
+| 204 | 311 | Rochelle Hazelett |
+| 205 | 311 | Araceli Parra |
 | 206 | 310 | Danielle Balcom |
 | 207 | 308 | Rania Zaqout |
 | 208 | 307 | rnr junky |
@@ -318,8 +318,8 @@
 | 310 | 202 | Tipsy Zonebuilder |
 | 311 | 201 | Alexmac |
 | 312 | 201 | Hyper Matchzone |
-| 313 | 200 | Sharisse Baltimore |
-| 314 | 200 | glichmod |
+| 313 | 200 | glichmod |
+| 314 | 200 | Sharisse Baltimore |
 | 315 | 200 | Saucy Buildout |
 | 316 | 199 | Mariah Williams |
 | 317 | 199 | Christian Werndl |
@@ -355,8 +355,8 @@
 | 347 | 178 | Jess Dearborn |
 | 348 | 178 | Jennifer Alvey |
 | 349 | 177 | Kristin Delibac Corrigan |
-| 350 | 176 | Emma |
-| 351 | 176 | Melissa Orth Hunter |
+| 350 | 176 | Melissa Orth Hunter |
+| 351 | 176 | Emma |
 | 352 | 175 | Eileen Brady Thurber |
 | 353 | 174 | TotoCherue |
 | 354 | 174 | Lesley Perez |

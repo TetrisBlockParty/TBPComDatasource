@@ -169,8 +169,8 @@
 | 161 | 240 | Peachy Fall |
 | 162 | 240 | Chris Bernstein |
 | 163 | 232 | Crystal Nicolette Moore |
-| 164 | 230 | Cursed Hag |
-| 165 | 230 | Autum Leigh |
+| 164 | 230 | Autum Leigh |
+| 165 | 230 | Cursed Hag |
 | 166 | 228 | J-Rizzle |
 | 167 | 227 | Swanky Fitline |
 | 168 | 227 | Alyssa Papen |
@@ -182,8 +182,8 @@
 | 174 | 217 | Chaz Duncan |
 | 175 | 217 | Angela Srubar-Norman |
 | 176 | 215 | Jessica Bohlken |
-| 177 | 213 | Sarah Neathery |
-| 178 | 213 | Jason Allen |
+| 177 | 213 | Jason Allen |
+| 178 | 213 | Sarah Neathery |
 | 179 | 212 | Mike Solo |
 | 180 | 211 | Jenna McGeorge |
 | 181 | 210 | Zethra Prenisha Rahming |
@@ -207,12 +207,12 @@
 | 199 | 195 | ZeeZee |
 | 200 | 195 | Malakai Darien Fox |
 | 201 | 194 | Zany Twisterfit |
-| 202 | 193 | Nikki Rae Gordon |
-| 203 | 193 | Rio Rocha |
+| 202 | 193 | Rio Rocha |
+| 203 | 193 | Nikki Rae Gordon |
 | 204 | 192 | Dizzy Matchzone |
 | 205 | 192 | Shauna Havard |
-| 206 | 191 | Klo |
-| 207 | 191 | Sam Bishop |
+| 206 | 191 | Sam Bishop |
+| 207 | 191 | Klo |
 | 208 | 190 | Cheery Risebuilder |
 | 209 | 189 | Calvin Dennis |
 | 210 | 189 | Stacey Stano |
@@ -339,8 +339,8 @@
 | 331 | 128 | Jeremy Steines |
 | 332 | 128 | Kristin MacDonald |
 | 333 | 127 | Robert Rodriguez |
-| 334 | 126 | PAPatty |
-| 335 | 126 | Cheryl Johnson |
+| 334 | 126 | Cheryl Johnson |
+| 335 | 126 | PAPatty |
 | 336 | 126 | icequeenx |
 | 337 | 125 | Ann G. Carrillo |
 | 338 | 125 | Steph Marie |

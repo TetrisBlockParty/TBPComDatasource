@@ -439,8 +439,8 @@
 | 431 | 500 | Sarah Ridenour |
 | 432 | 499 | Sarah Massey |
 | 433 | 498 | Rhonda Milstead |
-| 434 | 497 | June E Hanson |
-| 435 | 497 | Doowop40 |
+| 434 | 497 | Doowop40 |
+| 435 | 497 | June E Hanson |
 | 436 | 494 | Venita Ray |
 | 437 | 493 | Kara Gillen |
 | 438 | 492 | Maya June |
@@ -691,8 +691,8 @@
 | 683 | 337 | Savannah Alexander |
 | 684 | 337 | Tum |
 | 685 | 336 | Swanky Columnbuilder |
-| 686 | 336 | Austin Wilson |
-| 687 | 336 | bru |
+| 686 | 336 | bru |
+| 687 | 336 | Austin Wilson |
 | 688 | 335 | Brooke Leigh Strube |
 | 689 | 335 | Maria Louise |
 | 690 | 334 | Melissa James |
@@ -703,8 +703,8 @@
 | 695 | 330 | Toni Roberson |
 | 696 | 330 | Jennifer Monroe Kelly |
 | 697 | 329 | Chummy Blockbuilder |
-| 698 | 329 | Snappy Shatterfit |
-| 699 | 329 | Jane Crew |
+| 698 | 329 | Jane Crew |
+| 699 | 329 | Snappy Shatterfit |
 | 700 | 328 | BabyBird |
 | 701 | 328 | Jamie Carter Bierce |
 | 702 | 326 | Angela Murgia-Owen |
@@ -712,8 +712,8 @@
 | 704 | 325 | James Smith |
 | 705 | 325 | Justin Hines |
 | 706 | 325 | Mike73 |
-| 707 | 324 | Tasia Stinson |
-| 708 | 324 | Dale Haanpaa |
+| 707 | 324 | Dale Haanpaa |
+| 708 | 324 | Tasia Stinson |
 | 709 | 323 | Briana Alexander |
 | 710 | 322 | Lea Stewart |
 | 711 | 322 | Michelle Pike |
@@ -726,8 +726,8 @@
 | 718 | 319 | Prado |
 | 719 | 319 | RetroLemur |
 | 720 | 318 | Jennifer Mahon |
-| 721 | 317 | Zombi3 |
-| 722 | 317 | Ashlyn Berner |
+| 721 | 317 | Ashlyn Berner |
+| 722 | 317 | Zombi3 |
 | 723 | 317 | Aireka Roman |
 | 724 | 316 | Jenn Marie |
 | 725 | 316 | Epic Spinfit |
