@@ -66,8 +66,8 @@
 | 58 | 736 | Goatimus Lombardi |
 | 59 | 735 | Avy Absol |
 | 60 | 722 | Dustee Craddock-Harrison |
-| 61 | 721 | Edward White |
-| 62 | 721 | Chilly Line |
+| 61 | 721 | Chilly Line |
+| 62 | 721 | Edward White |
 | 63 | 704 | Crystal Carroll |
 | 64 | 703 | Anthony Bryan Riva |
 | 65 | 677 | Jason Allen |
@@ -151,9 +151,9 @@
 | 143 | 334 | Guy Incognito |
 | 144 | 332 | HastyGrabber |
 | 145 | 332 | Desi Desporte |
-| 146 | 328 | Kris Bartlett |
+| 146 | 328 | Brandon Crabbs |
 | 147 | 328 | Leslie Nicole |
-| 148 | 328 | Brandon Crabbs |
+| 148 | 328 | Kris Bartlett |
 | 149 | 325 | Peachy Fall |
 | 150 | 323 | Daria Rycewicz |
 | 151 | 321 | Klo |
@@ -274,8 +274,8 @@
 | 266 | 195 | Snippy Puzzle |
 | 267 | 195 | 中山成巳 |
 | 268 | 194 | Zany Twisterfit |
-| 269 | 193 | Stephme310 |
-| 270 | 193 | Shainne Brewer |
+| 269 | 193 | Shainne Brewer |
+| 270 | 193 | Stephme310 |
 | 271 | 192 | Andrew Dang |
 | 272 | 191 | Earnest Thompson |
 | 273 | 190 | Stella |

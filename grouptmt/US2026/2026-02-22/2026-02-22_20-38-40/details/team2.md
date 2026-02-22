@@ -176,8 +176,8 @@
 | 168 | 1216 | Nancy Reid |
 | 169 | 1211 | Lucky Ladybug |
 | 170 | 1207 | David Cudicio-Hayden |
-| 171 | 1192 | Ashley House |
-| 172 | 1192 | Denisha Dawkins |
+| 171 | 1192 | Denisha Dawkins |
+| 172 | 1192 | Ashley House |
 | 173 | 1180 | Ambyre Patterson |
 | 174 | 1177 | Joyce Johnson Vaughn |
 | 175 | 1174 | Jennifer Casey-Kay |
@@ -450,8 +450,8 @@
 | 442 | 584 | Kimberly Randesi |
 | 443 | 582 | Bee |
 | 444 | 581 | Angie Marie |
-| 445 | 580 | Joshua Self |
-| 446 | 580 | Angela Lynn |
+| 445 | 580 | Angela Lynn |
+| 446 | 580 | Joshua Self |
 | 447 | 579 | Roy Salyer |
 | 448 | 576 | Leslie Johnson Guinto |
 | 449 | 574 | Santana Miyagi |
@@ -470,8 +470,8 @@
 | 462 | 563 | Sarah Massey |
 | 463 | 562 | AISlop |
 | 464 | 559 | Blacc Blac |
-| 465 | 558 | Cheery Matchzone |
-| 466 | 558 | Frisky Clearpiece |
+| 465 | 558 | Frisky Clearpiece |
+| 466 | 558 | Cheery Matchzone |
 | 467 | 558 | Libby Hicks |
 | 468 | 556 | Slip |
 | 469 | 554 | Rachael Senard |

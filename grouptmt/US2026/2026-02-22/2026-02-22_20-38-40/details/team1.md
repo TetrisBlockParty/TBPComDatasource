@@ -53,8 +53,8 @@
 | 45 | 783 | Redlicious 1 |
 | 46 | 779 | Andrea Dañielle Ortiz |
 | 47 | 777 | Patrick Luckenbill |
-| 48 | 770 | Zappy Curvetile |
-| 49 | 770 | Lawrence Belanger |
+| 48 | 770 | Lawrence Belanger |
+| 49 | 770 | Zappy Curvetile |
 | 50 | 760 | Kristen Roles Robben |
 | 51 | 749 | Jacqueline Williams |
 | 52 | 746 | Stef Hu |
@@ -112,8 +112,8 @@
 | 104 | 417 | Lori Sanders- Davis |
 | 105 | 412 | Anaid Sanchez |
 | 106 | 411 | Luciano Moreira |
-| 107 | 409 | Dandy Basegrid |
-| 108 | 409 | Yvonne Marie |
+| 107 | 409 | Yvonne Marie |
+| 108 | 409 | Dandy Basegrid |
 | 109 | 395 | Nery Martinez |
 | 110 | 394 | Chris K |
 | 111 | 391 | Lori Bales |
@@ -135,8 +135,8 @@
 | 127 | 367 | Ly Phethmany |
 | 128 | 366 | And |
 | 129 | 364 | Shauna Loe |
-| 130 | 360 | phrmblk24 |
-| 131 | 360 | Wisa |
+| 130 | 360 | Wisa |
+| 131 | 360 | phrmblk24 |
 | 132 | 359 | Chirpy Smasher |
 | 133 | 357 | Amanda Johnson Huffman |
 | 134 | 350 | Tipsy Strikerpiece |
@@ -205,8 +205,8 @@
 | 197 | 261 | Witty Builderfit |
 | 198 | 260 | Cheeky Pop |
 | 199 | 256 | Chris65 |
-| 200 | 254 | Giggly Builderline |
-| 201 | 254 | Al Smith Jr |
+| 200 | 254 | Al Smith Jr |
+| 201 | 254 | Giggly Builderline |
 | 202 | 253 | Jamie Jury |
 | 203 | 252 | Dena Kayy |
 | 204 | 249 | Lakeisha Chapman |
@@ -317,11 +317,11 @@
 | 309 | 177 | Jessica Russell |
 | 310 | 177 | Irual Hctrab |
 | 311 | 176 | Vivienne Carter |
-| 312 | 175 | Gary Gobin |
-| 313 | 175 | Kellie Tunstall |
+| 312 | 175 | Kellie Tunstall |
+| 313 | 175 | Gary Gobin |
 | 314 | 174 | Tavia |
-| 315 | 174 | Ariel Whittington |
-| 316 | 174 | Alex Gauthier |
+| 315 | 174 | Alex Gauthier |
+| 316 | 174 | Ariel Whittington |
 | 317 | 173 | Rico Rico |
 | 318 | 172 | Nathan Sealander |
 | 319 | 171 | Bruce Cruz |

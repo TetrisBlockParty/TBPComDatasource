@@ -121,8 +121,8 @@
 | 113 | 643 | mzcatzy |
 | 114 | 638 | Jesse Olive |
 | 115 | 630 | yoyo |
-| 116 | 625 | Amber Hughes |
-| 117 | 625 | Shavette |
+| 116 | 625 | Shavette |
+| 117 | 625 | Amber Hughes |
 | 118 | 621 | Cherry Parker |
 | 119 | 618 | Bea Miles |
 | 120 | 595 | Giddy Drop |
@@ -163,8 +163,8 @@
 | 155 | 479 | Annie Marie |
 | 156 | 474 | Danielle Balcom |
 | 157 | 473 | Calista Jo Dickson |
-| 158 | 471 | Mendoza Lee Christy |
-| 159 | 471 | Nora Rogers |
+| 158 | 471 | Nora Rogers |
+| 159 | 471 | Mendoza Lee Christy |
 | 160 | 470 | Logan Naccarato |
 | 161 | 469 | Melissa Orth Hunter |
 | 162 | 469 | Adrian Marcel Pate |
@@ -187,8 +187,8 @@
 | 179 | 432 | Christine Trester |
 | 180 | 432 | Jenny Hrndz |
 | 181 | 431 | Sarah Cowan Burgos |
-| 182 | 430 | Joye Sims Binion |
-| 183 | 430 | Jeni Dow |
+| 182 | 430 | Jeni Dow |
+| 183 | 430 | Joye Sims Binion |
 | 184 | 428 | Araceli Parra |
 | 185 | 427 | Wendy Dearden |
 | 186 | 425 | Rochelle Hazelett |
@@ -234,8 +234,8 @@
 | 226 | 347 | Philip Rock |
 | 227 | 347 | Trisha Balmer |
 | 228 | 346 | Tamara Deherrera |
-| 229 | 344 | Roary Danner |
-| 230 | 344 | Rania Zaqout |
+| 229 | 344 | Rania Zaqout |
+| 230 | 344 | Roary Danner |
 | 231 | 343 | Ashley Raines |
 | 232 | 341 | Noyb Adam |
 | 233 | 341 | Samantha Lynn |
@@ -269,8 +269,8 @@
 | 261 | 298 | MsBee |
 | 262 | 298 | Grams |
 | 263 | 297 | Jojo M |
-| 264 | 296 | Katrina Turner |
-| 265 | 296 | Hoppy Buildout |
+| 264 | 296 | Hoppy Buildout |
+| 265 | 296 | Katrina Turner |
 | 266 | 295 | Tiffany Davie |
 | 267 | 292 | Cheeky Snapper |
 | 268 | 291 | Carrie Huskey |
@@ -278,9 +278,9 @@
 | 270 | 289 | DidIdothat |
 | 271 | 289 | Danielle Weikel |
 | 272 | 287 | Sabrina Hardrick |
-| 273 | 286 | Tye Stovall |
-| 274 | 286 | Christian Werndl |
-| 275 | 286 | Terry Jo Jones |
+| 273 | 286 | Terry Jo Jones |
+| 274 | 286 | Tye Stovall |
+| 275 | 286 | Christian Werndl |
 | 276 | 283 | Heather Green |
 | 277 | 279 | Connie Mohler-Fair |
 | 278 | 278 | Rufus Lincoln |
@@ -303,9 +303,9 @@
 | 295 | 269 | Brenda Schmid Wood |
 | 296 | 269 | Micayah Stevens |
 | 297 | 268 | Krystal Gerstberger |
-| 298 | 267 | Nikki Pags |
-| 299 | 267 | April Matthew Kibble |
-| 300 | 267 | Aerian Preston |
+| 298 | 267 | Aerian Preston |
+| 299 | 267 | Nikki Pags |
+| 300 | 267 | April Matthew Kibble |
 | 301 | 266 | Donna |
 | 302 | 266 | Quirky Dropzone |
 | 303 | 261 | Angela Scott |
@@ -450,8 +450,8 @@
 | 442 | 178 | Christian Luna |
 | 443 | 177 | Sabrina Mansfield |
 | 444 | 176 | Anna Moeller |
-| 445 | 175 | Gideon Walker |
-| 446 | 175 | Stella |
+| 445 | 175 | Stella |
+| 446 | 175 | Gideon Walker |
 | 447 | 175 | Joshua David Huie |
 | 448 | 174 | Sierra Spencer |
 | 449 | 174 | Rayzer |
