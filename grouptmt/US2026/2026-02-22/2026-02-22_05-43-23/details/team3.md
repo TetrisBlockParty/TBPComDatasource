@@ -49,8 +49,8 @@
 | 41 | 1036 | Ant Ant |
 | 42 | 1015 | Amber Jones |
 | 43 | 998 | Liv Whetson |
-| 44 | 989 | Kay |
-| 45 | 989 | Joey Banks |
+| 44 | 989 | Joey Banks |
+| 45 | 989 | Kay |
 | 46 | 975 | Stephanie Rice |
 | 47 | 956 | Gracie |
 | 48 | 935 | Snappy Fitzone |
@@ -85,8 +85,8 @@
 | 77 | 649 | MissTaylor |
 | 78 | 628 | Tiff Vs Tiffany |
 | 79 | 621 | Cherry Parker |
-| 80 | 618 | Katrina Schroeder |
-| 81 | 618 | Brandon Green |
+| 80 | 618 | Brandon Green |
+| 81 | 618 | Katrina Schroeder |
 | 82 | 613 | Amber Hughes |
 | 83 | 608 | Danielle Becker |
 | 84 | 596 | Dan Rob |
@@ -111,10 +111,10 @@
 | 103 | 512 | Christine Niles |
 | 104 | 506 | Sashay Tapae Simpson |
 | 105 | 503 | Susan Valentino |
-| 106 | 502 | Elissa S-k |
-| 107 | 502 | Justin Ritter |
-| 108 | 500 | Domo Washington |
-| 109 | 500 | Kristie |
+| 106 | 502 | Justin Ritter |
+| 107 | 502 | Elissa S-k |
+| 108 | 500 | Kristie |
+| 109 | 500 | Domo Washington |
 | 110 | 497 | Mykal Burton |
 | 111 | 492 | Daira Largen |
 | 112 | 491 | Chauntee Alfrey-Cardinale |
@@ -146,8 +146,8 @@
 | 138 | 403 | Scott Lindsay |
 | 139 | 402 | Shannon Matthew Byers |
 | 140 | 400 | Luciana Braganca Vieira |
-| 141 | 399 | Mcathen |
-| 142 | 399 | Marcie Bressler |
+| 141 | 399 | Marcie Bressler |
+| 142 | 399 | Mcathen |
 | 143 | 397 | Annie Déè |
 | 144 | 396 | Aaron Pitkin |
 | 145 | 392 | Tasha Gillespie |
@@ -193,8 +193,8 @@
 | 185 | 300 | Sherika C. McDaniels |
 | 186 | 300 | Araceli Parra |
 | 187 | 298 | MsBee |
-| 188 | 296 | Ammmmmmy |
-| 189 | 296 | Brandon Givens |
+| 188 | 296 | Brandon Givens |
+| 189 | 296 | Ammmmmmy |
 | 190 | 296 | Katrina Turner |
 | 191 | 295 | Gumbo |
 | 192 | 295 | Jim Mathews |
@@ -282,8 +282,8 @@
 | 274 | 202 | Staci George Fitzsimmons |
 | 275 | 200 | Sharisse Baltimore |
 | 276 | 200 | glichmod |
-| 277 | 199 | Raven Dudley |
-| 278 | 199 | Hyper Matchzone |
+| 277 | 199 | Hyper Matchzone |
+| 278 | 199 | Raven Dudley |
 | 279 | 195 | Nicha Hooker |
 | 280 | 194 | Saucy Buildout |
 | 281 | 194 | Dirtgirl27 |
@@ -299,8 +299,8 @@
 | 291 | 184 | France Vézina |
 | 292 | 184 | Troy |
 | 293 | 182 | Melanie Sherwood |
-| 294 | 181 | Denita Mungro |
-| 295 | 181 | Nicholas Roddy |
+| 294 | 181 | Nicholas Roddy |
+| 295 | 181 | Denita Mungro |
 | 296 | 180 | Criss |
 | 297 | 180 | Beth Ingham |
 | 298 | 179 | Rachel Napper |
@@ -334,10 +334,10 @@
 | 326 | 165 | Cozy Snaplink |
 | 327 | 163 | Diana Ibarra |
 | 328 | 163 | Christine Trester |
-| 329 | 162 | Stephanie Whitefield |
-| 330 | 162 | Loopy Fallzone |
-| 331 | 161 | Michael Johnson |
-| 332 | 161 | Bouncy Blockbuilder |
+| 329 | 162 | Loopy Fallzone |
+| 330 | 162 | Stephanie Whitefield |
+| 331 | 161 | Bouncy Blockbuilder |
+| 332 | 161 | Michael Johnson |
 | 333 | 160 | Rachel |
 | 334 | 159 | Ashley Rufus Bythcez |
 | 335 | 159 | Joshua David Huie |
@@ -352,9 +352,9 @@
 | 344 | 155 | Chummy Caster |
 | 345 | 153 | Wetwet |
 | 346 | 153 | Tony Waters |
-| 347 | 153 | Steffi Chris Dacones |
-| 348 | 153 | Lys |
-| 349 | 153 | Sheila M Frazier |
+| 347 | 153 | Sheila M Frazier |
+| 348 | 153 | Steffi Chris Dacones |
+| 349 | 153 | Lys |
 | 350 | 152 | Shiny Zonebuilder |
 | 351 | 152 | Goofy Fall |
 | 352 | 149 | Alexis Taylor |

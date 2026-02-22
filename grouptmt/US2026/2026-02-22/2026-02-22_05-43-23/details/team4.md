@@ -129,9 +129,9 @@
 | 121 | 275 | Dizzy Tiley |
 | 122 | 274 | Desi Desporte |
 | 123 | 271 | Sarah Brown |
-| 124 | 264 | Girl |
+| 124 | 264 | Dana Scott |
 | 125 | 264 | Epic Curvetile |
-| 126 | 264 | Dana Scott |
+| 126 | 264 | Girl |
 | 127 | 262 | Holly Jolly |
 | 128 | 258 | Brittney Orengo |
 | 129 | 256 | Mylo Lipscomb |
@@ -145,15 +145,15 @@
 | 137 | 230 | Autum Leigh |
 | 138 | 229 | Jolly Dashfit |
 | 139 | 228 | J-Rizzle |
-| 140 | 227 | Swanky Fitline |
-| 141 | 227 | Alyssa Papen |
+| 140 | 227 | Alyssa Papen |
+| 141 | 227 | Swanky Fitline |
 | 142 | 225 | Damn Libra |
 | 143 | 224 | Matt Summer |
 | 144 | 223 | Antony Dwayne Beasley |
 | 145 | 222 | Joeliecea Cobb |
 | 146 | 222 | TheNeesh50 |
-| 147 | 221 | PurpleMoonMa |
-| 148 | 221 | Rheanda Weaskus |
+| 147 | 221 | Rheanda Weaskus |
+| 148 | 221 | PurpleMoonMa |
 | 149 | 220 | Matt Dell'Olio |
 | 150 | 218 | Casey Grabner |
 | 151 | 217 | Chaz Duncan |

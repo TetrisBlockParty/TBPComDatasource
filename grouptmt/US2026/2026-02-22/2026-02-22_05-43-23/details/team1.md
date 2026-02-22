@@ -112,8 +112,8 @@
 | 104 | 310 | Seth Wesson |
 | 105 | 310 | Jason Jones |
 | 106 | 306 | Happy Basegrid |
-| 107 | 304 | phrmblk24 |
-| 108 | 304 | Nicole Roseberry Weber |
+| 107 | 304 | Nicole Roseberry Weber |
+| 108 | 304 | phrmblk24 |
 | 109 | 301 | Lehrin Maria |
 | 110 | 301 | Theo Pinnow |
 | 111 | 292 | Kristen Gideon |
@@ -220,7 +220,7 @@
 | 212 | 165 | Nadine Velardo |
 | 213 | 165 | Silly Align |
 | 214 | 164 | Shanae Grant |
-| 215 | 163 | Blaire Bruckoff |
+| 215 | 163 | DaRascal |
 | 216 | 163 | Tyler Whitley |
 | 217 | 163 | Blaire Bruckoff |
 | 218 | 163 | Angela Fairbank |
@@ -239,8 +239,8 @@
 | 231 | 150 | Agustin Duarte Orozco |
 | 232 | 149 | Brenda Alexander |
 | 233 | 149 | Chirpy Smasher |
-| 234 | 147 | J.F. Fields |
-| 235 | 147 | Davery Spencer Adair |
+| 234 | 147 | Davery Spencer Adair |
+| 235 | 147 | J.F. Fields |
 | 236 | 146 | Witty Builderfit |
 | 237 | 145 | Tipsy Riseclear |
 | 238 | 144 | Gary Gobin |
@@ -302,9 +302,9 @@
 | 294 | 116 | Fresno Beotoni |
 | 295 | 116 | Brad MG |
 | 296 | 115 | Mrs.Patrica |
-| 297 | 114 | Angela Rena Brooks |
-| 298 | 114 | Constance Risner |
-| 299 | 114 | Chris Sigurdson |
+| 297 | 114 | Constance Risner |
+| 298 | 114 | Chris Sigurdson |
+| 299 | 114 | Angela Rena Brooks |
 | 300 | 113 | Itspaigebro |
 | 301 | 112 | Crystal Joslin |
 | 302 | 112 | Lush Zoney |

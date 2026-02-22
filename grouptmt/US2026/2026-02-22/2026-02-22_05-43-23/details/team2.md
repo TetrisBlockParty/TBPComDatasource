@@ -153,8 +153,8 @@
 | 145 | 1051 | Shandrica Lowe |
 | 146 | 1048 | PsychKIRAtrist |
 | 147 | 1047 | Amy Sayers |
-| 148 | 1043 | Suki Kaur |
-| 149 | 1043 | Brave Dropmatch |
+| 148 | 1043 | Brave Dropmatch |
+| 149 | 1043 | Suki Kaur |
 | 150 | 1035 | Sarah Freitas |
 | 151 | 1026 | Heather Westrum |
 | 152 | 1023 | Brainy Smurf |
@@ -271,8 +271,8 @@
 | 263 | 679 | Dee |
 | 264 | 678 | Scott Treadway |
 | 265 | 677 | Mema |
-| 266 | 675 | Brenda Utphall |
-| 267 | 675 | Tommy Tha Boss Gunz |
+| 266 | 675 | Tommy Tha Boss Gunz |
+| 267 | 675 | Brenda Utphall |
 | 268 | 673 | Claire Noland |
 | 269 | 672 | Danielle Simmons |
 | 270 | 671 | Poldo Ilano |
@@ -338,8 +338,8 @@
 | 330 | 554 | Rachael Senard |
 | 331 | 549 | Kaylee McCafferty |
 | 332 | 549 | Darcy Mae |
-| 333 | 548 | Brownie Sheena |
-| 334 | 548 | Slip |
+| 333 | 548 | Slip |
+| 334 | 548 | Brownie Sheena |
 | 335 | 544 | Leah Keesling |
 | 336 | 541 | g |
 | 337 | 538 | Eric Castaneda |
