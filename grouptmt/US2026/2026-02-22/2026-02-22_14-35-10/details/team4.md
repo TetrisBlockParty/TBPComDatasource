@@ -26,8 +26,8 @@
 | 18 | 1046 | Johnathan Martinez |
 | 19 | 1038 | Leah Gorsuch |
 | 20 | 1020 | Sammy Noguera |
-| 21 | 999 | Kimberly Love |
-| 22 | 999 | Johnny Yang Cotter |
+| 21 | 999 | Johnny Yang Cotter |
+| 22 | 999 | Kimberly Love |
 | 23 | 991 | Michelle Pearman |
 | 24 | 980 | Cherrish Duren |
 | 25 | 959 | Heather Tushner |
@@ -49,8 +49,8 @@
 | 41 | 811 | Jae Job |
 | 42 | 802 | LisaJo Picken Buchanan |
 | 43 | 779 | BertMofo |
-| 44 | 775 | Rebecca Moulton Pinciaro |
-| 45 | 775 | Dee Kay |
+| 44 | 775 | Dee Kay |
+| 45 | 775 | Rebecca Moulton Pinciaro |
 | 46 | 766 | Robin Watters |
 | 47 | 765 | Clarence Patawaran |
 | 48 | 757 | Ancient Intuition |
@@ -84,8 +84,8 @@
 | 76 | 544 | Amy Suckarieh |
 | 77 | 533 | Chris Baggett |
 | 78 | 530 | Yoset Mejia |
-| 79 | 524 | Amelpss |
-| 80 | 524 | Carolyn Wallace |
+| 79 | 524 | Carolyn Wallace |
+| 80 | 524 | Amelpss |
 | 81 | 523 | Dawn Alexander |
 | 82 | 517 | H.R. Block |
 | 83 | 512 | Casey Jeffcoat |

@@ -242,8 +242,8 @@
 | 234 | 867 | Peppy Zone |
 | 235 | 862 | Brittany Radaszewski |
 | 236 | 860 | Felicia Lynn |
-| 237 | 860 | John Bednarik |
-| 238 | 860 | April Dawn Gussler |
+| 237 | 860 | April Dawn Gussler |
+| 238 | 860 | John Bednarik |
 | 239 | 857 | Della Hole |
 | 240 | 855 | F-X |
 | 241 | 853 | Meghan M |

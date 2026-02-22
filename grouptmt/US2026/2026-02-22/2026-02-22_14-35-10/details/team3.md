@@ -134,8 +134,8 @@
 | 126 | 492 | Daira Largen |
 | 127 | 491 | Chauntee Alfrey-Cardinale |
 | 128 | 480 | Stephanie Blkpep Davidson |
-| 129 | 479 | Patti Skiles |
-| 130 | 479 | Poppy Splitter |
+| 129 | 479 | Poppy Splitter |
+| 130 | 479 | Patti Skiles |
 | 131 | 478 | CeceGeGe |
 | 132 | 473 | mzcatzy |
 | 133 | 471 | Mendoza Lee Christy |
@@ -298,8 +298,8 @@
 | 290 | 224 | Quirky Dropzone |
 | 291 | 221 | Vaners |
 | 292 | 221 | Jaime Monhaut-Reed |
-| 293 | 221 | kacihall |
-| 294 | 221 | Alice |
+| 293 | 221 | Alice |
+| 294 | 221 | kacihall |
 | 295 | 220 | Tosha Griffey |
 | 296 | 218 | Michael Lucado |
 | 297 | 217 | Twisty Brick LT |
@@ -317,8 +317,8 @@
 | 309 | 210 | Criss |
 | 310 | 210 | Lizabeth Fox |
 | 311 | 209 | Micayah Stevens |
-| 312 | 208 | Niki Dalrymple |
-| 313 | 208 | AlsoJess |
+| 312 | 208 | AlsoJess |
+| 313 | 208 | Niki Dalrymple |
 | 314 | 207 | angieelyn |
 | 315 | 207 | Daring Builder |
 | 316 | 207 | Jessica |

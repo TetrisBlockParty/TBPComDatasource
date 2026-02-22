@@ -145,8 +145,8 @@
 | 137 | 290 | Death |
 | 138 | 289 | David Miller |
 | 139 | 285 | Ananda Mendez |
-| 140 | 284 | Rachael |
-| 141 | 284 | Emily Adelaide Wheatley |
+| 140 | 284 | Emily Adelaide Wheatley |
+| 141 | 284 | Rachael |
 | 142 | 283 | Franswa |
 | 143 | 282 | Snippy Wipebuilder |
 | 144 | 282 | Constance Risner |
@@ -182,8 +182,8 @@
 | 174 | 241 | John J. Cronin |
 | 175 | 239 | Sam Williams |
 | 176 | 237 | Kimberly Garcia |
-| 177 | 235 | Desiree Deschaine Havee |
-| 178 | 235 | MRdot Rooski |
+| 177 | 235 | MRdot Rooski |
+| 178 | 235 | Desiree Deschaine Havee |
 | 179 | 234 | Paula Martin |
 | 180 | 231 | Amanda Johnson Huffman |
 | 181 | 230 | Frothy Pattern |
