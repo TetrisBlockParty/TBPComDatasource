@@ -95,8 +95,8 @@
 | 87 | 849 | Danielle Becker |
 | 88 | 848 | Patricia Gadsden |
 | 89 | 847 | Rosalie Call Kehlenbeck |
-| 90 | 838 | Sarajane Lokan |
-| 91 | 838 | MissTaylor |
+| 90 | 838 | MissTaylor |
+| 91 | 838 | Sarajane Lokan |
 | 92 | 835 | Snappy Glidepiece |
 | 93 | 831 | Angeline Joseph |
 | 94 | 830 | Stephanie Allmon |
@@ -348,8 +348,8 @@
 | 340 | 247 | Jessica |
 | 341 | 246 | Erika Thornton |
 | 342 | 245 | Latoya Mayne |
-| 343 | 244 | Quackers |
-| 344 | 244 | LaNette Morgan |
+| 343 | 244 | LaNette Morgan |
+| 344 | 244 | Quackers |
 | 345 | 243 | Josh Borquez |
 | 346 | 242 | Randy Clevenger |
 | 347 | 240 | Juliana Dottore |

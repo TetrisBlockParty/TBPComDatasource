@@ -59,8 +59,8 @@
 | 51 | 810 | BertMofo |
 | 52 | 793 | Rebecca Moulton Pinciaro |
 | 53 | 767 | Shannon Ferrari |
-| 54 | 766 | Robin Watters |
-| 55 | 766 | Ashley Ingram |
+| 54 | 766 | Ashley Ingram |
+| 55 | 766 | Robin Watters |
 | 56 | 757 | Ancient Intuition |
 | 57 | 755 | Edward White |
 | 58 | 751 | Rachel Anne |
@@ -74,8 +74,8 @@
 | 66 | 704 | Crystal Carroll |
 | 67 | 701 | D3TROITB0RN74 |
 | 68 | 671 | Kimyatta Cavin |
-| 69 | 664 | Julian Garcia |
-| 70 | 664 | Valerie Roberts |
+| 69 | 664 | Valerie Roberts |
+| 70 | 664 | Julian Garcia |
 | 71 | 659 | Jonathan Kimbrough |
 | 72 | 655 | Carolyn Wallace |
 | 73 | 654 | Isabella Blanco |

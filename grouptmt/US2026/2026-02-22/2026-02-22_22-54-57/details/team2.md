@@ -346,8 +346,8 @@
 | 338 | 772 | Danielle Simmons |
 | 339 | 769 | Melissa Cole |
 | 340 | 768 | Joshua Self |
-| 341 | 767 | Fancy Twister |
-| 342 | 767 | Ashley Lopez |
+| 341 | 767 | Ashley Lopez |
+| 342 | 767 | Fancy Twister |
 | 343 | 765 | Kathryn Townsley |
 | 344 | 763 | Heather Causey |
 | 345 | 761 | Hyper Cluster |
@@ -596,8 +596,8 @@
 | 588 | 476 | Cecilia A Jenkins |
 | 589 | 476 | Ashlee Cruz |
 | 590 | 476 | Kiana Boschh |
-| 591 | 475 | Mia Muse Best |
-| 592 | 475 | Lee Harper |
+| 591 | 475 | Lee Harper |
+| 592 | 475 | Mia Muse Best |
 | 593 | 474 | Calandra Shaya Robinson |
 | 594 | 474 | Jennifer Monroe Kelly |
 | 595 | 474 | Jennifer Scott |
