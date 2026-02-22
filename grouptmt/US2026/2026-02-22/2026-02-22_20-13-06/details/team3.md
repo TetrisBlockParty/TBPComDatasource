@@ -217,8 +217,8 @@
 | 209 | 370 | Santeria Trece Candles |
 | 210 | 369 | Sarah Moyer |
 | 211 | 368 | Stephanie Woods |
-| 212 | 367 | Marci Mize Fandrich |
-| 213 | 367 | Loopy Fallmatch |
+| 212 | 367 | Loopy Fallmatch |
+| 213 | 367 | Marci Mize Fandrich |
 | 214 | 365 | Tiffany Ford |
 | 215 | 365 | Chummy Caster |
 | 216 | 362 | Brandon Givens |
@@ -230,15 +230,15 @@
 | 222 | 350 | Kammy Hill |
 | 223 | 349 | Amanda J. Mcneil-Anderson |
 | 224 | 348 | Kristal C Lee |
-| 225 | 347 | Philip Rock |
-| 226 | 347 | Trisha Balmer |
+| 225 | 347 | Trisha Balmer |
+| 226 | 347 | Philip Rock |
 | 227 | 346 | Tamara Deherrera |
 | 228 | 344 | Rania Zaqout |
 | 229 | 344 | Roary Danner |
 | 230 | 343 | Ashley Raines |
-| 231 | 341 | Ashley Tookes |
+| 231 | 341 | Samantha Lynn |
 | 232 | 341 | Noyb Adam |
-| 233 | 341 | Samantha Lynn |
+| 233 | 341 | Ashley Tookes |
 | 234 | 340 | Ammmmmmy |
 | 235 | 338 | Gumbo |
 | 236 | 338 | Rebecca Funderburk Kirby |
@@ -249,8 +249,8 @@
 | 241 | 324 | Sissy Lowery Davis |
 | 242 | 323 | Demetrious Shaw Sr. |
 | 243 | 321 | Rebecca Bailey |
-| 244 | 320 | Or Reznitsky |
-| 245 | 320 | Ashley Muncey |
+| 244 | 320 | Ashley Muncey |
+| 245 | 320 | Or Reznitsky |
 | 246 | 319 | Michael Johnson |
 | 247 | 317 | Kelly |
 | 248 | 314 | Peppy Shifter |
@@ -387,8 +387,8 @@
 | 379 | 206 | Cesar Barraza |
 | 380 | 206 | Tammy Rosenberry |
 | 381 | 205 | Rachel Napper |
-| 382 | 204 | Frilly Stackzone |
-| 383 | 204 | Samantha Worley |
+| 382 | 204 | Samantha Worley |
+| 383 | 204 | Frilly Stackzone |
 | 384 | 203 | DanceLuvLaugh |
 | 385 | 203 | Loopy Fallzone |
 | 386 | 203 | Angella Lyons |
@@ -401,8 +401,8 @@
 | 393 | 200 | glichmod |
 | 394 | 198 | Brian Battjes |
 | 395 | 198 | Zac Hudak |
-| 396 | 196 | Rainbow77375 |
-| 397 | 196 | Salena Whitlock |
+| 396 | 196 | Salena Whitlock |
+| 397 | 196 | Rainbow77375 |
 | 398 | 195 | Nicha Hooker |
 | 399 | 194 | Quackers |
 | 400 | 194 | Kevin Fountain |
@@ -421,8 +421,8 @@
 | 413 | 189 | Katie Leigh Blankenship |
 | 414 | 189 | Deseree Ewing |
 | 415 | 188 | Crystal Hine |
-| 416 | 186 | Noettín Kan Zasnemoore |
-| 417 | 186 | Sameerah Smith |
+| 416 | 186 | Sameerah Smith |
+| 417 | 186 | Noettín Kan Zasnemoore |
 | 418 | 184 | Cheeky Setter |
 | 419 | 184 | Shanon R Jackson |
 | 420 | 184 | 4girls |

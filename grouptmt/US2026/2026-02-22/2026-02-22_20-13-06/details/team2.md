@@ -401,11 +401,11 @@
 | 393 | 644 | Kimmy Newman |
 | 394 | 643 | Hoppy Brickmatch |
 | 395 | 642 | Cassie Maynard |
-| 396 | 640 | BYM4L |
-| 397 | 640 | Crystie Hicks |
+| 396 | 640 | Crystie Hicks |
+| 397 | 640 | BYM4L |
 | 398 | 640 | Gary Stash |
-| 399 | 639 | Johnny Yeates |
-| 400 | 639 | Rebecca Miller |
+| 399 | 639 | Rebecca Miller |
+| 400 | 639 | Johnny Yeates |
 | 401 | 639 | Melissa Penelope Ann Dodge |
 | 402 | 636 | Mighty Spinbuilder |
 | 403 | 635 | Dennis McLaurin |
@@ -437,7 +437,7 @@
 | 429 | 595 | Kenny Alvarado |
 | 430 | 594 | Rhonda Milstead |
 | 431 | 594 | Autumn Schaeffer |
-| 432 | 594 | Rhonda Milstead |
+| 432 | 594 | Michelle Fields |
 | 433 | 589 | Thomas Hedrick |
 | 434 | 589 | Shavonna Haynes |
 | 435 | 589 | Kelly Templeton |
@@ -525,8 +525,8 @@
 | 517 | 497 | June E Hanson |
 | 518 | 495 | Bubbly Snapbuild |
 | 519 | 494 | Venita Ray |
-| 520 | 493 | Sarah DeHart |
-| 521 | 493 | Sue Leard |
+| 520 | 493 | Sue Leard |
+| 521 | 493 | Sarah DeHart |
 | 522 | 493 | Besma Ao |
 | 523 | 492 | Breezy Clusterer |
 | 524 | 492 | Maya June |
@@ -667,8 +667,8 @@
 | 659 | 410 | Belle |
 | 660 | 409 | Alexis Richardson |
 | 661 | 409 | Cleo Sims |
-| 662 | 408 | Boogie SoAnimated Johnson |
-| 663 | 408 | Qiana Sanders |
+| 662 | 408 | Qiana Sanders |
+| 663 | 408 | Boogie SoAnimated Johnson |
 | 664 | 408 | Brandon Jones |
 | 665 | 407 | Tipsy Filler |
 | 666 | 406 | Erin StFrancis |

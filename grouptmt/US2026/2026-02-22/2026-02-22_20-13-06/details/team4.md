@@ -130,8 +130,8 @@
 | 122 | 404 | Courtney Cicoria |
 | 123 | 400 | Ericca Eldridge |
 | 124 | 393 | Carlton Unfiltered |
-| 125 | 391 | Ramel Rhodes |
-| 126 | 391 | Austin Owens |
+| 125 | 391 | Austin Owens |
+| 126 | 391 | Ramel Rhodes |
 | 127 | 377 | Carrie Brian |
 | 128 | 373 | Joseph Guthrie |
 | 129 | 369 | Nope Young |
@@ -214,8 +214,8 @@
 | 206 | 244 | Twisty Cascadezone |
 | 207 | 243 | Jose Dejesus |
 | 208 | 243 | Mr. Party |
-| 209 | 241 | Allen Lloyd |
-| 210 | 241 | Kristina Black |
+| 209 | 241 | Kristina Black |
+| 210 | 241 | Allen Lloyd |
 | 211 | 240 | Zethra Prenisha Rahming |
 | 212 | 238 | JPW |
 | 213 | 237 | Jen Caldwell |
@@ -247,16 +247,16 @@
 | 239 | 215 | Ziggy |
 | 240 | 214 | Stacey Stano |
 | 241 | 213 | Sarah Neathery |
-| 242 | 213 | Angela Geist Jusinski |
-| 243 | 213 | Rio Rocha |
+| 242 | 213 | Rio Rocha |
+| 243 | 213 | Angela Geist Jusinski |
 | 244 | 212 | Mike Solo |
 | 245 | 210 | Dihcheese444 |
 | 246 | 209 | Ak Jones |
 | 247 | 208 | Oscar Alberto Perez |
 | 248 | 208 | Rebecca Morris |
 | 249 | 205 | Christina Black |
-| 250 | 205 | Keith Kelley |
-| 251 | 205 | James Hurley Jr. |
+| 250 | 205 | James Hurley Jr. |
+| 251 | 205 | Keith Kelley |
 | 252 | 203 | Katherine Crane |
 | 253 | 202 | Patron Anderson |
 | 254 | 201 | Chaz |

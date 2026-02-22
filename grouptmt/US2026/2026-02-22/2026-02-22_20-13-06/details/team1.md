@@ -187,8 +187,8 @@
 | 179 | 276 | Damon J. Martin |
 | 180 | 274 | Angela Renea Lester |
 | 181 | 273 | Shannon Marie Pitts |
-| 182 | 272 | Tana |
-| 183 | 272 | Sleepysloath5745 |
+| 182 | 272 | Sleepysloath5745 |
+| 183 | 272 | Tana |
 | 184 | 270 | Mandyy Rae |
 | 185 | 268 | Amanda Jarnagin |
 | 186 | 268 | Jessi Sauer |
@@ -297,9 +297,9 @@
 | 289 | 189 | Tawnya Peltonen |
 | 290 | 189 | Bird Person |
 | 291 | 188 | Brave Wrecker |
-| 292 | 187 | Cool Towerzone |
-| 293 | 187 | GringaLinga |
-| 294 | 187 | Jessica Weed |
+| 292 | 187 | GringaLinga |
+| 293 | 187 | Jessica Weed |
+| 294 | 187 | Cool Towerzone |
 | 295 | 186 | Margo Wagner |
 | 296 | 185 | Hasty Columnbuilder |
 | 297 | 184 | Chris Sigurdson |
