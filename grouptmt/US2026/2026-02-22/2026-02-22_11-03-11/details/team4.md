@@ -56,8 +56,8 @@
 | 48 | 697 | Edward White |
 | 49 | 695 | LisaJo Picken Buchanan |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Rebecca Moulton Pinciaro |
-| 52 | 659 | Jonathan Kimbrough |
+| 51 | 659 | Jonathan Kimbrough |
+| 52 | 659 | Rebecca Moulton Pinciaro |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
@@ -102,8 +102,8 @@
 | 94 | 403 | shar |
 | 95 | 403 | Ashley Ingram |
 | 96 | 401 | Zippy Gridlock |
-| 97 | 396 | Alicia Bass |
-| 98 | 396 | Amy Suckarieh |
+| 97 | 396 | Amy Suckarieh |
+| 98 | 396 | Alicia Bass |
 | 99 | 392 | Ericca Eldridge |
 | 100 | 391 | Ramel Rhodes |
 | 101 | 390 | Carlton Unfiltered |
@@ -133,8 +133,8 @@
 | 125 | 291 | Andy Cabral |
 | 126 | 290 | 🥔🥔 Spudz |
 | 127 | 287 | Shannon Ferrari |
-| 128 | 286 | Daria Rycewicz |
-| 129 | 286 | shark tato |
+| 128 | 286 | shark tato |
+| 129 | 286 | Daria Rycewicz |
 | 130 | 283 | Brittney Orengo |
 | 131 | 281 | Meagan Nicole |
 | 132 | 278 | Carrie Brian |
@@ -145,9 +145,9 @@
 | 137 | 274 | Calvin Cannon |
 | 138 | 272 | Keshia Lyons |
 | 139 | 271 | Sarah Brown |
-| 140 | 264 | Dana Scott |
-| 141 | 264 | Epic Curvetile |
-| 142 | 264 | Girl |
+| 140 | 264 | Girl |
+| 141 | 264 | Dana Scott |
+| 142 | 264 | Epic Curvetile |
 | 143 | 262 | Holly Jolly |
 | 144 | 258 | Bio Nelly |
 | 145 | 256 | Mylo Lipscomb |
@@ -723,7 +723,7 @@
 | 715 | 51 | Speedy Zigzag |
 | 716 | 51 | Travis Poe |
 | 717 | 51 | Allen Johnson |
-| 718 | 51 | Travis Poe |
+| 718 | 51 | Lane Wasson |
 | 719 | 50 | Ashley Lynn Shannon |
 | 720 | 50 | Cool Towerbuilder |
 | 721 | 50 | Wacky Blockclear |

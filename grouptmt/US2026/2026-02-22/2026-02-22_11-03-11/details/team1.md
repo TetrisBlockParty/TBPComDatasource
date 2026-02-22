@@ -54,8 +54,8 @@
 | 46 | 671 | Lawrence Belanger |
 | 47 | 663 | Drew Magnus |
 | 48 | 646 | Susanna Guerry |
-| 49 | 635 | Marianne Louise West |
-| 50 | 635 | Angel Fowler |
+| 49 | 635 | Angel Fowler |
+| 50 | 635 | Marianne Louise West |
 | 51 | 631 | comrade fish |
 | 52 | 627 | Katie Daniels |
 | 53 | 614 | Snappy Swiper |
@@ -96,9 +96,9 @@
 | 88 | 388 | Jennifer ManWarren |
 | 89 | 383 | Loony Fitzone |
 | 90 | 382 | Jacqueline Williams |
-| 91 | 379 | Nerdy Linkblock |
+| 91 | 379 | Kimmie Kimms |
 | 92 | 379 | Austin James |
-| 93 | 379 | Kimmie Kimms |
+| 93 | 379 | Nerdy Linkblock |
 | 94 | 376 | lil mickey |
 | 95 | 374 | Tinah Montanna |
 | 96 | 368 | Tdub |
@@ -123,8 +123,8 @@
 | 115 | 319 | Deanna L Hermanson |
 | 116 | 319 | Patrick Luckenbill |
 | 117 | 318 | Jessica Sheehan |
-| 118 | 316 | Ly Phethmany |
-| 119 | 316 | Jennifer Hardman |
+| 118 | 316 | Jennifer Hardman |
+| 119 | 316 | Ly Phethmany |
 | 120 | 313 | Tanya Carpenter-Reynolds |
 | 121 | 310 | Seth Wesson |
 | 122 | 310 | Jason Jones |
