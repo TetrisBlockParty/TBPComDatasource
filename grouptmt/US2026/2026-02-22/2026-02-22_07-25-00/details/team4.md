@@ -33,8 +33,8 @@
 | 25 | 886 | Dustin Robert |
 | 26 | 880 | Koshin Abdirahman |
 | 27 | 879 | Heather Tushner |
-| 28 | 873 | Elizabeth Sallas |
-| 29 | 873 | Michelle Pearman |
+| 28 | 873 | Michelle Pearman |
+| 29 | 873 | Elizabeth Sallas |
 | 30 | 871 | Denny Shives |
 | 31 | 846 | Christine Marie |
 | 32 | 843 | Lucille Truesdale |
@@ -221,8 +221,8 @@
 | 213 | 160 | Carlos Ramirez |
 | 214 | 160 | Laura Hosford |
 | 215 | 159 | Marcus Todd |
-| 216 | 158 | Sam Bishop |
-| 217 | 158 | Chair |
+| 216 | 158 | Chair |
+| 217 | 158 | Sam Bishop |
 | 218 | 158 | Avy Absol |
 | 219 | 157 | Paige Kittles |
 | 220 | 157 | KayM |
@@ -240,8 +240,8 @@
 | 232 | 149 | Megan Cutshaw |
 | 233 | 148 | Janita Parrish |
 | 234 | 147 | Jared Gutwein |
-| 235 | 147 | Jay28 |
-| 236 | 147 | B Renee Desjardin |
+| 235 | 147 | B Renee Desjardin |
+| 236 | 147 | Jay28 |
 | 237 | 146 | Ultramarine |
 | 238 | 145 | Mimi |
 | 239 | 145 | Sandra Safford |

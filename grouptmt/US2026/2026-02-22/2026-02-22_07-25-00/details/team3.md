@@ -61,8 +61,8 @@
 | 53 | 908 | Alanna Rogers |
 | 54 | 907 | Judi Dobson |
 | 55 | 903 | Sarah Fehring |
-| 56 | 895 | Shonna Roberts |
-| 57 | 895 | Amanda L Baker |
+| 56 | 895 | Amanda L Baker |
+| 57 | 895 | Shonna Roberts |
 | 58 | 886 | Khristen AC |
 | 59 | 874 | Jessica Pineda-Lopez |
 | 60 | 867 | Corie A. Brinson |
@@ -102,8 +102,8 @@
 | 94 | 581 | Danielle Mogg |
 | 95 | 579 | Jd Morris |
 | 96 | 566 | Dolores Falco |
-| 97 | 565 | Rachael McClain Owens |
-| 98 | 565 | Patty Allen |
+| 97 | 565 | Patty Allen |
+| 98 | 565 | Rachael McClain Owens |
 | 99 | 562 | Louise Stacy Sisson |
 | 100 | 562 | Dave Herzog |
 | 101 | 559 | Morgan Martinez |
@@ -185,8 +185,8 @@
 | 177 | 347 | Nicole Flippo |
 | 178 | 343 | Ashley Raines |
 | 179 | 341 | Samantha Lynn |
-| 180 | 338 | Gumbo |
-| 181 | 338 | Leah Barnett |
+| 180 | 338 | Leah Barnett |
+| 181 | 338 | Gumbo |
 | 182 | 332 | Rich LeBlanc |
 | 183 | 328 | Giddy Twistbuilder |
 | 184 | 323 | Demetrious Shaw Sr. |
@@ -235,8 +235,8 @@
 | 227 | 263 | Angeline Joseph |
 | 228 | 262 | Joe-Maggie Mathews |
 | 229 | 261 | Tasha Wesson-Torrence |
-| 230 | 261 | Marquita Sheard |
-| 231 | 261 | Tiffany Ford |
+| 230 | 261 | Tiffany Ford |
+| 231 | 261 | Marquita Sheard |
 | 232 | 260 | Grams |
 | 233 | 259 | Danielle Weikel |
 | 234 | 258 | Tamara Deherrera |
@@ -265,8 +265,8 @@
 | 257 | 227 | Meowsa |
 | 258 | 225 | Dirtgirl27 |
 | 259 | 223 | Connie Mohler-Fair |
-| 260 | 221 | Jaime Monhaut-Reed |
-| 261 | 221 | Alice |
+| 260 | 221 | Alice |
+| 261 | 221 | Jaime Monhaut-Reed |
 | 262 | 221 | Vaners |
 | 263 | 220 | rosy |
 | 264 | 219 | Sissy Lowery Davis |
@@ -280,15 +280,15 @@
 | 272 | 214 | Angela Scott |
 | 273 | 212 | Desiree Gold |
 | 274 | 212 | Sunny Rotater |
-| 275 | 211 | El Chapa |
-| 276 | 211 | Velma Mull |
+| 275 | 211 | Velma Mull |
+| 276 | 211 | El Chapa |
 | 277 | 211 | Khaleada McGill Banks |
 | 278 | 210 | Lizabeth Fox |
 | 279 | 209 | Micayah Stevens |
 | 280 | 208 | AlsoJess |
 | 281 | 207 | Jessica |
 | 282 | 207 | angieelyn |
-| 283 | 206 | Tracy Martin |
+| 283 | 206 | Tammy Rosenberry |
 | 284 | 206 | Jone |
 | 285 | 206 | Tracy Martin |
 | 286 | 205 | Rachel |
@@ -498,8 +498,8 @@
 | 490 | 111 | Victoria Wangler Lewis |
 | 491 | 110 | Bekah Dietrich |
 | 492 | 110 | Kate Farok |
-| 493 | 110 | Michael Pleasant |
-| 494 | 110 | Angela VanOstrand |
+| 493 | 110 | Angela VanOstrand |
+| 494 | 110 | Michael Pleasant |
 | 495 | 109 | Peachy Westbrook |
 | 496 | 109 | Hyper Bridger |
 | 497 | 109 | Lush Risebuilder |

@@ -198,8 +198,8 @@
 | 190 | 921 | Morgue Chick |
 | 191 | 916 | Butta |
 | 192 | 915 | Kelly Trent |
-| 193 | 910 | Crystal Hoffman |
-| 194 | 910 | Shuany Arias |
+| 193 | 910 | Shuany Arias |
+| 194 | 910 | Crystal Hoffman |
 | 195 | 907 | Gene Mills |
 | 196 | 901 | Jennifer Peachey |
 | 197 | 890 | Kevin Walp |
@@ -245,8 +245,8 @@
 | 237 | 767 | Jessica Wayne Cornwall |
 | 238 | 765 | Jodi Blake |
 | 239 | 763 | Lisa Ongtowasruk |
-| 240 | 763 | Samantha Jo |
-| 241 | 763 | Beth |
+| 240 | 763 | Beth |
+| 241 | 763 | Samantha Jo |
 | 242 | 759 | Desire Rice |
 | 243 | 756 | Stephanie Neuburger |
 | 244 | 753 | SaraMarie Eveland |
@@ -307,8 +307,8 @@
 | 299 | 651 | Unica Rector |
 | 300 | 650 | Shiny Rollzone |
 | 301 | 643 | Hoppy Brickmatch |
-| 302 | 641 | Joce Lynn |
-| 303 | 641 | Angie Bolton Workman |
+| 302 | 641 | Angie Bolton Workman |
+| 303 | 641 | Joce Lynn |
 | 304 | 640 | BYM4L |
 | 305 | 639 | Crystie Hicks |
 | 306 | 639 | Rebecca Miller |
@@ -381,8 +381,8 @@
 | 373 | 520 | Angela Lynn |
 | 374 | 520 | AISlop |
 | 375 | 519 | Rob Brown |
-| 376 | 517 | Gauri Shrotriya |
-| 377 | 517 | Amber Brion |
+| 376 | 517 | Amber Brion |
+| 377 | 517 | Gauri Shrotriya |
 | 378 | 517 | Porsche' Nicole |
 | 379 | 517 | Poppy Snap |
 | 380 | 516 | Diamond Scott |
@@ -482,8 +482,8 @@
 | 474 | 429 | Rhonda Milstead |
 | 475 | 428 | Arkei Luster |
 | 476 | 428 | Shyenn Gadsby |
-| 477 | 427 | Quinn |
-| 478 | 427 | Destiny Cozier |
+| 477 | 427 | Destiny Cozier |
+| 478 | 427 | Quinn |
 | 479 | 427 | Kori Beth Babb |
 | 480 | 426 | Ashley Dow |
 | 481 | 426 | Niceday |
@@ -619,8 +619,8 @@
 | 611 | 354 | Rickey Johnson |
 | 612 | 352 | Rose Fx |
 | 613 | 352 | Jean FU Jagielski |
-| 614 | 352 | Mikayala Szaz |
-| 615 | 352 | ruth |
+| 614 | 352 | ruth |
+| 615 | 352 | Mikayala Szaz |
 | 616 | 351 | Connie Jimenez |
 | 617 | 350 | Fi Ne |
 | 618 | 350 | Chris Harr |

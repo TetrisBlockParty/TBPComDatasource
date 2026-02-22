@@ -208,7 +208,7 @@
 | 200 | 186 | Margo Wagner |
 | 201 | 186 | Erin Hodges Plumb |
 | 202 | 183 | Andrew Boone |
-| 203 | 180 | Jessie Lynn |
+| 203 | 180 | Erez Yosef |
 | 204 | 180 | BigWeenie69 |
 | 205 | 180 | Jessie Lynn |
 | 206 | 180 | Amy Hess |
