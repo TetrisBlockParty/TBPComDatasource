@@ -17,8 +17,8 @@
 | 9 | 1835 | East Mamba |
 | 10 | 1775 | Ash |
 | 11 | 1676 | Ayanna Soto |
-| 12 | 1447 | Juggalo |
-| 13 | 1447 | GreenJeepGirl |
+| 12 | 1447 | GreenJeepGirl |
+| 13 | 1447 | Juggalo |
 | 14 | 1318 | Cassie Michaux |
 | 15 | 1292 | Roger Coulter |
 | 16 | 1147 | Kimberly Love |
@@ -163,8 +163,8 @@
 | 155 | 275 | Dizzy Tiley |
 | 156 | 274 | Calvin Cannon |
 | 157 | 273 | Crystal Nicolette Moore |
-| 158 | 272 | Alan George LaRage |
-| 159 | 272 | Keshia Lyons |
+| 158 | 272 | Keshia Lyons |
+| 159 | 272 | Alan George LaRage |
 | 160 | 271 | Sarah Brown |
 | 161 | 269 | Nikki Rae Gordon |
 | 162 | 268 | Mimi |

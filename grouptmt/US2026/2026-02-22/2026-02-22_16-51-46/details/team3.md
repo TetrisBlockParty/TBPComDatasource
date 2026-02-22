@@ -132,8 +132,8 @@
 | 124 | 526 | Cynthia Castros-Hampton |
 | 125 | 525 | Justin Ritter |
 | 126 | 521 | Michael Nowogorski |
-| 127 | 521 | Michelle Becker |
-| 128 | 521 | Daryn Elliott |
+| 127 | 521 | Daryn Elliott |
+| 128 | 521 | Michelle Becker |
 | 129 | 518 | opf |
 | 130 | 516 | Domo Washington |
 | 131 | 506 | Sashay Tapae Simpson |
@@ -219,8 +219,8 @@
 | 211 | 340 | Ammmmmmy |
 | 212 | 338 | Gumbo |
 | 213 | 332 | Rich LeBlanc |
-| 214 | 330 | Rebecca Funderburk Kirby |
-| 215 | 330 | Danielle Balcom |
+| 214 | 330 | Danielle Balcom |
+| 215 | 330 | Rebecca Funderburk Kirby |
 | 216 | 324 | Sissy Lowery Davis |
 | 217 | 324 | Kristal C Lee |
 | 218 | 323 | Demetrious Shaw Sr. |
@@ -236,8 +236,8 @@
 | 228 | 311 | Peppy Shifter |
 | 229 | 308 | Rania Zaqout |
 | 230 | 307 | rnr junky |
-| 231 | 307 | Blocked |
-| 232 | 307 | Marci Mize Fandrich |
+| 231 | 307 | Marci Mize Fandrich |
+| 232 | 307 | Blocked |
 | 233 | 305 | Rebecca Bailey |
 | 234 | 301 | Betty Rosas |
 | 235 | 299 | Melissa Orth Hunter |
@@ -529,15 +529,15 @@
 | 521 | 136 | Sabrina Mansfield |
 | 522 | 136 | Tia Moore |
 | 523 | 136 | Karen Picaboo |
-| 524 | 135 | Morgan Cudo |
-| 525 | 135 | Kate Farok |
-| 526 | 134 | Glenn Loving |
+| 524 | 135 | Kate Farok |
+| 525 | 135 | Morgan Cudo |
+| 526 | 134 | Sharon Dudley Lawson |
 | 527 | 134 | Maia |
-| 528 | 134 | Carrie Resler |
-| 529 | 134 | Sharon Dudley Lawson |
+| 528 | 134 | Glenn Loving |
+| 529 | 134 | Carrie Resler |
 | 530 | 134 | Brian Battjes |
-| 531 | 133 | Spunky Racker |
-| 532 | 133 | Jumpy Wrecker |
+| 531 | 133 | Jumpy Wrecker |
+| 532 | 133 | Spunky Racker |
 | 533 | 133 | Whitney Manuel |
 | 534 | 133 | Chummy Rumbler |
 | 535 | 133 | Nichol Graham |
@@ -559,8 +559,8 @@
 | 551 | 126 | Kristi Taylor |
 | 552 | 126 | demon14 |
 | 553 | 126 | Lush Balance |
-| 554 | 125 | Brooke Bauer |
-| 555 | 125 | Barb Wensink Johnson |
+| 554 | 125 | Barb Wensink Johnson |
+| 555 | 125 | Brooke Bauer |
 | 556 | 125 | BugMansMom |
 | 557 | 125 | Felicia Doxey |
 | 558 | 125 | Shimika Enay Wallace |
@@ -586,7 +586,7 @@
 | 578 | 121 | Dee Pratt |
 | 579 | 121 | Matty Ray |
 | 580 | 120 | Crystel b520 |
-| 581 | 120 | Santana Lantana |
+| 581 | 120 | PrncssPJ |
 | 582 | 120 | Betsey Hayes-Solano |
 | 583 | 120 | Symantha Brott |
 | 584 | 120 | James Lykes |

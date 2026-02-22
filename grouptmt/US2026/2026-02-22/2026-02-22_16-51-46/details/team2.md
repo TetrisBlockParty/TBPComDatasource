@@ -217,9 +217,9 @@
 | 209 | 973 | Kim Dean |
 | 210 | 972 | Juliana Marques Do Nascimento Gordy |
 | 211 | 960 | Jennifer Kistner |
-| 212 | 957 | Crystal Hoffman |
+| 212 | 957 | Block Master |
 | 213 | 957 | Keri Womack |
-| 214 | 957 | Block Master |
+| 214 | 957 | Crystal Hoffman |
 | 215 | 954 | Shannon Joslin |
 | 216 | 951 | Cynthia Ward |
 | 217 | 950 | Teresa Gillmore |
@@ -580,8 +580,8 @@
 | 572 | 438 | Mike Aprilliano |
 | 573 | 437 | Cynthia Louann Rose |
 | 574 | 437 | Véronique Lévesque Sabourin |
-| 575 | 435 | Regina Young |
-| 576 | 435 | James Louie |
+| 575 | 435 | James Louie |
+| 576 | 435 | Regina Young |
 | 577 | 434 | Brenda Messer |
 | 578 | 434 | bbv |
 | 579 | 432 | Lucy Marshall |
@@ -591,8 +591,8 @@
 | 583 | 429 | Tabs Reichert |
 | 584 | 428 | Lynda Toland |
 | 585 | 428 | Shyenn Gadsby |
-| 586 | 427 | Destiny Cozier |
-| 587 | 427 | Sabrina Burton |
+| 586 | 427 | Sabrina Burton |
+| 587 | 427 | Destiny Cozier |
 | 588 | 426 | De Hawkins |
 | 589 | 426 | Ashley Dow |
 | 590 | 425 | Samantha Scibelli |
@@ -636,8 +636,8 @@
 | 628 | 398 | Heather Sawtelle-Mckenzie |
 | 629 | 398 | Ebony Deloach Bryant |
 | 630 | 397 | Snazzy Basepiece |
-| 631 | 396 | AkaLefty |
-| 632 | 396 | Candy Pitts |
+| 631 | 396 | Candy Pitts |
+| 632 | 396 | AkaLefty |
 | 633 | 396 | Boogie SoAnimated Johnson |
 | 634 | 393 | Jamie West |
 | 635 | 393 | Misti Markijohn |
@@ -648,8 +648,8 @@
 | 640 | 391 | Chilly Bridgepiece |
 | 641 | 390 | Moist_B-hole |
 | 642 | 390 | Frisky Riserbuilder |
-| 643 | 389 | Swanky Columnbuilder |
-| 644 | 389 | Alexis Richardson |
+| 643 | 389 | Alexis Richardson |
+| 644 | 389 | Swanky Columnbuilder |
 | 645 | 389 | Julie Hamilton |
 | 646 | 389 | Lathasa Newkirk |
 | 647 | 388 | ruth |
@@ -1467,7 +1467,7 @@
 | 1459 | 181 | Jake |
 | 1460 | 181 | ScubaSteve |
 | 1461 | 181 | Charming Leech |
-| 1462 | 181 | ScubaSteve |
+| 1462 | 181 | Michael Keim |
 | 1463 | 181 | Long Tran |
 | 1464 | 180 | Kristin King |
 | 1465 | 180 | Kelli Hackett |
@@ -1478,7 +1478,7 @@
 | 1470 | 180 | Kristen Shields |
 | 1471 | 180 | Johnny Pineapples |
 | 1472 | 180 | Lively Brickfit |
-| 1473 | 180 | Johnny Pineapples |
+| 1473 | 180 | Peter Palestino |
 | 1474 | 180 | Bethany Blanchette |
 | 1475 | 179 | Starrs Dcct |
 | 1476 | 179 | Cat |

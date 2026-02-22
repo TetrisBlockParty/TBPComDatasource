@@ -114,15 +114,15 @@
 | 106 | 379 | Kimmie Kimms |
 | 107 | 376 | lil mickey |
 | 108 | 374 | Tinah Montanna |
-| 109 | 364 | Ly Phethmany |
-| 110 | 364 | Shauna Loe |
+| 109 | 364 | Shauna Loe |
+| 110 | 364 | Ly Phethmany |
 | 111 | 362 | Plucky Ziggy |
 | 112 | 359 | Chirpy Smasher |
 | 113 | 355 | Hasbro Bros |
 | 114 | 354 | phrmblk24 |
 | 115 | 352 | Jason Jones |
-| 116 | 350 | Tipsy Strikerpiece |
-| 117 | 350 | Sweet Baker |
+| 116 | 350 | Sweet Baker |
+| 117 | 350 | Tipsy Strikerpiece |
 | 118 | 344 | Bhelle Sumile |
 | 119 | 343 | Death |
 | 120 | 342 | Brenda Stewart |
@@ -226,8 +226,8 @@
 | 218 | 213 | Shanae Grant |
 | 219 | 213 | Speedy Liney |
 | 220 | 210 | Jessie Welch |
-| 221 | 209 | Jeanna Dunn |
-| 222 | 209 | Cece Ibarra |
+| 221 | 209 | Cece Ibarra |
+| 222 | 209 | Jeanna Dunn |
 | 223 | 208 | Snappy Matcher |
 | 224 | 208 | Donna Addison Williams |
 | 225 | 208 | Michelle Beres |
@@ -236,8 +236,8 @@
 | 228 | 207 | Brenda Alexander |
 | 229 | 206 | BadG52 |
 | 230 | 205 | Tater |
-| 231 | 204 | Jason Savage |
-| 232 | 204 | Lacy Wolfe |
+| 231 | 204 | Lacy Wolfe |
+| 232 | 204 | Jason Savage |
 | 233 | 202 | Amanda Holibaugh |
 | 234 | 201 | Chad Atchley |
 | 235 | 201 | Colleen Wise |
