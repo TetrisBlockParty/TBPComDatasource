@@ -194,8 +194,8 @@
 | 186 | 951 | Cynthia Ward |
 | 187 | 950 | Teresa Gillmore |
 | 188 | 942 | Keri Womack |
-| 189 | 941 | Marie Boyd Faulk |
-| 190 | 941 | Cool Clearer |
+| 189 | 941 | Cool Clearer |
+| 190 | 941 | Marie Boyd Faulk |
 | 191 | 935 | William Meussner |
 | 192 | 932 | Catina Hutchison |
 | 193 | 925 | Moose Griffith |
@@ -276,15 +276,15 @@
 | 268 | 713 | Kiely Tomaskovich |
 | 269 | 704 | Shelley Thornburgh Wright |
 | 270 | 703 | Gold Rose |
-| 271 | 700 | Hong Tang |
-| 272 | 700 | Vincent Petrella |
+| 271 | 700 | Vincent Petrella |
+| 272 | 700 | Hong Tang |
 | 273 | 700 | Rosemadder |
 | 274 | 700 | Beverly Owens |
 | 275 | 698 | Mighty Shatterfit |
 | 276 | 697 | Dreamy Blast |
 | 277 | 692 | Chelle |
-| 278 | 692 | Dannette Goldberg-Richards |
-| 279 | 692 | Jennifer Casey-Kay |
+| 278 | 692 | Jennifer Casey-Kay |
+| 279 | 692 | Dannette Goldberg-Richards |
 | 280 | 690 | Deborah Miller |
 | 281 | 689 | Giggy Blocker |
 | 282 | 688 | Tiara Elizabeth Baker |
@@ -331,8 +331,8 @@
 | 323 | 617 | Leslie Ann Carter |
 | 324 | 613 | Ellie Jonas |
 | 325 | 611 | Em Chen |
-| 326 | 611 | Carl Bradshaw |
-| 327 | 611 | Julio A Laracuente |
+| 326 | 611 | Julio A Laracuente |
+| 327 | 611 | Carl Bradshaw |
 | 328 | 605 | Jelly |
 | 329 | 603 | Cassie Maynard |
 | 330 | 602 | Christine Bollig |
@@ -508,8 +508,8 @@
 | 500 | 423 | Sam |
 | 501 | 422 | coleksquad |
 | 502 | 422 | Kenny Alvarado |
-| 503 | 421 | SwampRebel |
-| 504 | 421 | Vonceial Boone |
+| 503 | 421 | Vonceial Boone |
+| 504 | 421 | SwampRebel |
 | 505 | 420 | LaWanda Powell |
 | 506 | 419 | Pocho Zavala |
 | 507 | 419 | Josh Dill |
@@ -813,8 +813,8 @@
 | 805 | 272 | Alexandrea |
 | 806 | 272 | Witty Piecebuilder |
 | 807 | 271 | Pam Doughty |
-| 808 | 271 | Shalisa Hill |
-| 809 | 271 | Beverly Hodge |
+| 808 | 271 | Beverly Hodge |
+| 809 | 271 | Shalisa Hill |
 | 810 | 270 | BK Queen |
 | 811 | 270 | Nat |
 | 812 | 270 | Lazy Builderfit |

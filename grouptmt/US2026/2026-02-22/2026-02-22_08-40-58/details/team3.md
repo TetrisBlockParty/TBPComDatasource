@@ -273,8 +273,8 @@
 | 265 | 225 | Cozy Snaplink |
 | 266 | 225 | Dirtgirl27 |
 | 267 | 221 | Vaners |
-| 268 | 221 | Jaime Monhaut-Reed |
-| 269 | 221 | Alice |
+| 268 | 221 | Alice |
+| 269 | 221 | Jaime Monhaut-Reed |
 | 270 | 220 | rosy |
 | 271 | 219 | Sissy Lowery Davis |
 | 272 | 218 | Michael Lucado |
@@ -375,8 +375,8 @@
 | 367 | 156 | Nichole Greene |
 | 368 | 155 | Michell Hendershott Jackson |
 | 369 | 155 | Michael Leblanc |
-| 370 | 153 | Sheila M Frazier |
-| 371 | 153 | Lys |
+| 370 | 153 | Lys |
+| 371 | 153 | Sheila M Frazier |
 | 372 | 153 | Tony Waters |
 | 373 | 152 | Goofy Fall |
 | 374 | 152 | Quirky Dropzone |
@@ -405,8 +405,8 @@
 | 397 | 144 | Tenisha Semidey |
 | 398 | 142 | Erica Anderson |
 | 399 | 142 | Gray Hicks |
-| 400 | 142 | Jl |
-| 401 | 142 | Joy Petroski |
+| 400 | 142 | Joy Petroski |
+| 401 | 142 | Jl |
 | 402 | 141 | Melissa Snyder |
 | 403 | 141 | Weerae |
 | 404 | 140 | Jumpy Curvebuilder |

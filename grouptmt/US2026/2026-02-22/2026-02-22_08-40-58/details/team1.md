@@ -138,13 +138,13 @@
 | 130 | 280 | Sarah Roberts |
 | 131 | 280 | Jennifer Hardman |
 | 132 | 278 | Snippy Wipebuilder |
-| 133 | 276 | Goose egg |
-| 134 | 276 | Dandy Basegrid |
+| 133 | 276 | Dandy Basegrid |
+| 134 | 276 | Goose egg |
 | 135 | 270 | Ash Galvan |
 | 136 | 268 | GATOR |
 | 137 | 265 | SkipTheSadSauce |
-| 138 | 264 | Jenny Gingrich Fuentes |
-| 139 | 264 | Lexuriuos Lifestlye |
+| 138 | 264 | Lexuriuos Lifestlye |
+| 139 | 264 | Jenny Gingrich Fuentes |
 | 140 | 263 | Sharon Reynolds |
 | 141 | 258 | Virginia Gray Floyd |
 | 142 | 257 | Amanda Jarnagin |
@@ -191,8 +191,8 @@
 | 183 | 205 | Tater |
 | 184 | 205 | Snappy Matcher |
 | 185 | 204 | Lacy Wolfe |
-| 186 | 203 | Paula Martin |
-| 187 | 203 | LaFontaine Leslie |
+| 186 | 203 | LaFontaine Leslie |
+| 187 | 203 | Paula Martin |
 | 188 | 201 | Colleen Wise |
 | 189 | 199 | Basment Living |
 | 190 | 198 | Shiny Gridmatch |
@@ -294,8 +294,8 @@
 | 286 | 136 | Breanna Luna |
 | 287 | 135 | Mrs.Patrica |
 | 288 | 133 | MommaKFC |
-| 289 | 132 | Larry Tilton |
-| 290 | 132 | Layzietyme |
+| 289 | 132 | Layzietyme |
+| 290 | 132 | Larry Tilton |
 | 291 | 131 | Dizzy Riseclear |
 | 292 | 131 | Uhog SF |
 | 293 | 130 | Carl Claunch |
@@ -303,8 +303,8 @@
 | 295 | 130 | Gilbert Ortiz Jr. |
 | 296 | 129 | Sherri E Woods Hess |
 | 297 | 128 | Alyssa Ingram |
-| 298 | 127 | Danielle Mae |
-| 299 | 127 | Lynn Adams |
+| 298 | 127 | Lynn Adams |
+| 299 | 127 | Danielle Mae |
 | 300 | 126 | Zany Tiler |
 | 301 | 125 | Melissa Bires Hussar |
 | 302 | 125 | Angela Spann |
