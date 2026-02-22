@@ -149,8 +149,8 @@
 | 141 | 1450 | Cody Smith-Candelaria |
 | 142 | 1418 | L3sli3 |
 | 143 | 1412 | Angi Harrison |
-| 144 | 1411 | niecy |
-| 145 | 1411 | Zappy Cascade |
+| 144 | 1411 | Zappy Cascade |
+| 145 | 1411 | niecy |
 | 146 | 1401 | Brandy Andre |
 | 147 | 1397 | Bussyiano Page |
 | 148 | 1390 | Erica Williams |
@@ -461,8 +461,8 @@
 | 453 | 594 | Irene Jones |
 | 454 | 591 | Kimberly Hope Howell |
 | 455 | 589 | Shavonna Haynes |
-| 456 | 589 | Kelly Templeton |
-| 457 | 589 | Thomas Hedrick |
+| 456 | 589 | Thomas Hedrick |
+| 457 | 589 | Kelly Templeton |
 | 458 | 585 | Sheronda Jackson |
 | 459 | 584 | Ryan Stadel |
 | 460 | 583 | Ann Matzkanin |
@@ -478,8 +478,8 @@
 | 470 | 571 | Julie Kresal |
 | 471 | 571 | Emily Lyric Converse |
 | 472 | 570 | Lonne Emade |
-| 473 | 569 | Vaniel Glover |
-| 474 | 569 | Joseph Musick |
+| 473 | 569 | Joseph Musick |
+| 474 | 569 | Vaniel Glover |
 | 475 | 569 | Sparkles |
 | 476 | 569 | Ben Barkley |
 | 477 | 567 | Snappy Matchbuilder |
@@ -808,8 +808,8 @@
 | 800 | 357 | Ys Muhammed |
 | 801 | 357 | Shannon Byrd |
 | 802 | 356 | Alyssia Tancredi |
-| 803 | 355 | Jaime E. Rodriguez |
-| 804 | 355 | Noel Tarmy |
+| 803 | 355 | Noel Tarmy |
+| 804 | 355 | Jaime E. Rodriguez |
 | 805 | 355 | Tammy Mitchell |
 | 806 | 355 | Mike73 |
 | 807 | 354 | Rachel Kaminski |
@@ -878,8 +878,8 @@
 | 870 | 333 | Snippy Block |
 | 871 | 333 | Nikki Nikki |
 | 872 | 332 | Sunny Pusher |
-| 873 | 330 | Christina Loftus |
-| 874 | 330 | Toni Roberson |
+| 873 | 330 | Toni Roberson |
+| 874 | 330 | Christina Loftus |
 | 875 | 330 | Samuel Labruno |
 | 876 | 329 | Joanna L. Abad |
 | 877 | 328 | BabyBird |
@@ -890,8 +890,8 @@
 | 882 | 325 | Justin Hines |
 | 883 | 324 | Trista Carter |
 | 884 | 324 | Dale Haanpaa |
-| 885 | 324 | Persipnei Cuesta |
-| 886 | 324 | Heather Renee Jeffers |
+| 885 | 324 | Heather Renee Jeffers |
+| 886 | 324 | Persipnei Cuesta |
 | 887 | 323 | Epic Stackbuilder |
 | 888 | 323 | Joshua Mullings |
 | 889 | 322 | Jeffrey Barrows |
@@ -1136,8 +1136,8 @@
 | 1128 | 268 | Dione |
 | 1129 | 268 | Sassy Linkroll |
 | 1130 | 267 | Sanaa Nounoussa |
-| 1131 | 267 | Anthony McAlister |
-| 1132 | 267 | Renee Bowers |
+| 1131 | 267 | Renee Bowers |
+| 1132 | 267 | Anthony McAlister |
 | 1133 | 266 | Chris L Gustafson |
 | 1134 | 266 | Edralin Custodio |
 | 1135 | 266 | Sonya Back |

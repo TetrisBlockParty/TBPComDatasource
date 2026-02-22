@@ -176,8 +176,8 @@
 | 168 | 305 | Constance Risner |
 | 169 | 304 | Nicole Roseberry Weber |
 | 170 | 302 | Mike Ames |
-| 171 | 298 | Danielle Little-Daugherty |
-| 172 | 298 | femmefatale |
+| 171 | 298 | femmefatale |
+| 172 | 298 | Danielle Little-Daugherty |
 | 173 | 296 | Madison Wicks |
 | 174 | 295 | David Lutcher |
 | 175 | 293 | Letson Melissa |
@@ -193,10 +193,10 @@
 | 185 | 282 | Timothy Dew |
 | 186 | 281 | Desiree Deschaine Havee |
 | 187 | 279 | Tana |
-| 188 | 277 | Christy Jones |
-| 189 | 277 | Nutty Spinblock |
-| 190 | 276 | Damon J. Martin |
-| 191 | 276 | Shiny Snapfit |
+| 188 | 277 | Nutty Spinblock |
+| 189 | 277 | Christy Jones |
+| 190 | 276 | Shiny Snapfit |
+| 191 | 276 | Damon J. Martin |
 | 192 | 273 | Shannon Marie Pitts |
 | 193 | 272 | Sleepysloath5745 |
 | 194 | 270 | Mandyy Rae |
@@ -238,14 +238,14 @@
 | 230 | 234 | Shanae Grant |
 | 231 | 233 | LC |
 | 232 | 231 | Tyler Hertzog |
-| 233 | 230 | BigWeenie69 |
-| 234 | 230 | Diane Byrd |
+| 233 | 230 | Diane Byrd |
+| 234 | 230 | BigWeenie69 |
 | 235 | 229 | Standia Civil |
-| 236 | 228 | Shiny Gridmatch |
+| 236 | 228 | Michael |
 | 237 | 228 | Giddy Cascade |
 | 238 | 228 | Erin Rosberg |
 | 239 | 228 | Adele Rahman |
-| 240 | 228 | Michael |
+| 240 | 228 | Shiny Gridmatch |
 | 241 | 225 | Jessie Lynn |
 | 242 | 224 | ParisandCory Champagne |
 | 243 | 223 | Christina Backer |

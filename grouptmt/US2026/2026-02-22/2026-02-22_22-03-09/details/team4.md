@@ -61,8 +61,8 @@
 | 53 | 766 | Robin Watters |
 | 54 | 763 | Ashley Ingram |
 | 55 | 757 | Ancient Intuition |
-| 56 | 751 | Rachel Anne |
-| 57 | 751 | Jason Allen |
+| 56 | 751 | Jason Allen |
+| 57 | 751 | Rachel Anne |
 | 58 | 745 | Robin Getchel |
 | 59 | 736 | Goatimus Lombardi |
 | 60 | 735 | Avy Absol |
@@ -78,8 +78,8 @@
 | 70 | 664 | loulou |
 | 71 | 659 | Jonathan Kimbrough |
 | 72 | 655 | Carolyn Wallace |
-| 73 | 647 | Shauna Havard |
-| 74 | 647 | KM8 |
+| 73 | 647 | KM8 |
+| 74 | 647 | Shauna Havard |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 633 | Lisa Davis |
 | 77 | 626 | Brittney Griggs |
@@ -138,8 +138,8 @@
 | 130 | 391 | Austin Owens |
 | 131 | 391 | Ramel Rhodes |
 | 132 | 378 | Lucas J Sutton |
-| 133 | 377 | Jessica Bohlken |
-| 134 | 377 | Carrie Brian |
+| 133 | 377 | Carrie Brian |
+| 134 | 377 | Jessica Bohlken |
 | 135 | 376 | Kesha Brady |
 | 136 | 373 | Joseph Guthrie |
 | 137 | 355 | Kristina Black |
@@ -219,8 +219,8 @@
 | 211 | 253 | Lindsey Gonzalez |
 | 212 | 250 | Matt Dell'Olio |
 | 213 | 249 | Ak Jones |
-| 214 | 248 | Chirpy Basepiece |
-| 215 | 248 | Jose Dejesus |
+| 214 | 248 | Jose Dejesus |
+| 215 | 248 | Chirpy Basepiece |
 | 216 | 246 | Carlos Ramirez |
 | 217 | 246 | Zethra Prenisha Rahming |
 | 218 | 245 | 23 |
@@ -236,11 +236,11 @@
 | 228 | 235 | Chris Hartig |
 | 229 | 233 | Matt Gooder |
 | 230 | 233 | Ruben Wheeler |
-| 231 | 230 | blockstar |
-| 232 | 230 | Jade Rian |
+| 231 | 230 | Jade Rian |
+| 232 | 230 | blockstar |
 | 233 | 228 | Antony Dwayne Beasley |
-| 234 | 225 | Perky Patternblock |
-| 235 | 225 | Jenna McGeorge |
+| 234 | 225 | Jenna McGeorge |
+| 235 | 225 | Perky Patternblock |
 | 236 | 222 | Brandi Durig |
 | 237 | 221 | Rheanda Weaskus |
 | 238 | 221 | PurpleMoonMa |
