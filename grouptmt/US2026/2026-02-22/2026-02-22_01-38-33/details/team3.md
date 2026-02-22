@@ -116,8 +116,8 @@
 | 108 | 428 | Elissa S-k |
 | 109 | 416 | Mary Pellegrino |
 | 110 | 410 | Stephanie Simpson |
-| 111 | 403 | FuzzyNavel |
-| 112 | 403 | Christine Filson |
+| 111 | 403 | Christine Filson |
+| 112 | 403 | FuzzyNavel |
 | 113 | 400 | Luciana Braganca Vieira |
 | 114 | 399 | Patti Skiles |
 | 115 | 399 | ren |
@@ -181,8 +181,8 @@
 | 173 | 265 | DidIdothat |
 | 174 | 263 | Angeline Joseph |
 | 175 | 262 | Joe-Maggie Mathews |
-| 176 | 261 | Tom Nault |
-| 177 | 261 | Tiffany Ford |
+| 176 | 261 | Tiffany Ford |
+| 177 | 261 | Tom Nault |
 | 178 | 258 | Tamara Deherrera |
 | 179 | 257 | Ashley Jones |
 | 180 | 256 | KayB |

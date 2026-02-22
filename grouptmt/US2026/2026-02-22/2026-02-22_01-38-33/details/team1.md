@@ -166,8 +166,8 @@
 | 158 | 180 | Erez Yosef |
 | 159 | 179 | Danielle Little-Daugherty |
 | 160 | 178 | Chad Atchley |
-| 161 | 177 | ParisandCory Champagne |
-| 162 | 177 | Irual Hctrab |
+| 161 | 177 | Irual Hctrab |
+| 162 | 177 | ParisandCory Champagne |
 | 163 | 175 | John Barron |
 | 164 | 174 | Cheeky Pop |
 | 165 | 173 | Gabrielle Louise Malloch |

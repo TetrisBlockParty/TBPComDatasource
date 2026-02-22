@@ -284,8 +284,8 @@
 | 276 | 549 | Kaylee McCafferty |
 | 277 | 547 | Giggy Blocker |
 | 278 | 544 | Leah Keesling |
-| 279 | 543 | Teresa Gillmore |
-| 280 | 543 | Adira Brown |
+| 279 | 543 | Adira Brown |
+| 280 | 543 | Teresa Gillmore |
 | 281 | 542 | Slip |
 | 282 | 535 | Paul Huber |
 | 283 | 535 | Jessie McDougald |
@@ -416,8 +416,8 @@
 | 408 | 393 | Ryan Meilleur |
 | 409 | 393 | Hillary Crawford |
 | 410 | 392 | Christine Bollig |
-| 411 | 391 | Qiana Sanders |
-| 412 | 391 | Chilly Bridgepiece |
+| 411 | 391 | Chilly Bridgepiece |
+| 412 | 391 | Qiana Sanders |
 | 413 | 389 | Alexis Richardson |
 | 414 | 387 | Johnny Yeates |
 | 415 | 387 | Ann Matzkanin |
@@ -539,14 +539,14 @@
 | 531 | 310 | Audra Williams |
 | 532 | 310 | Sharon Mills |
 | 533 | 309 | Diallo Sparkman |
-| 534 | 308 | Claire |
-| 535 | 308 | Ann Knutson Anderson |
+| 534 | 308 | Ann Knutson Anderson |
+| 535 | 308 | Claire |
 | 536 | 308 | BabyBird |
 | 537 | 307 | Johanna Massaro |
 | 538 | 306 | Gina Caulder |
 | 539 | 305 | Libby Hicks |
-| 540 | 305 | Zany Clusterbuilder |
-| 541 | 305 | Arlene Joy Belicina |
+| 540 | 305 | Arlene Joy Belicina |
+| 541 | 305 | Zany Clusterbuilder |
 | 542 | 305 | Samantha Scibelli |
 | 543 | 304 | Melissa McCall |
 | 544 | 304 | Michelle Shrum |
