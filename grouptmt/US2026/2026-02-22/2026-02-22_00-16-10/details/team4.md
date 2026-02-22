@@ -112,21 +112,21 @@
 | 104 | 258 | Brittney Orengo |
 | 105 | 257 | Holly Jolly |
 | 106 | 255 | Lindsay Ball |
-| 107 | 230 | Daria Rycewicz |
-| 108 | 230 | Lucas J Sutton |
+| 107 | 230 | Lucas J Sutton |
+| 108 | 230 | Daria Rycewicz |
 | 109 | 230 | Autum Leigh |
 | 110 | 222 | Joeliecea Cobb |
 | 111 | 221 | Alyssa Papen |
 | 112 | 218 | Antony Dwayne Beasley |
 | 113 | 218 | Casey Grabner |
-| 114 | 213 | loulou |
-| 115 | 213 | Chaz Duncan |
-| 116 | 212 | Mike Solo |
-| 117 | 212 | Calvin Cannon |
+| 114 | 213 | Chaz Duncan |
+| 115 | 213 | loulou |
+| 116 | 212 | Calvin Cannon |
+| 117 | 212 | Mike Solo |
 | 118 | 211 | Dizzy Tiley |
 | 119 | 210 | Damn Libra |
-| 120 | 208 | Twisty Cascadezone |
-| 121 | 208 | Chastity Mitchell |
+| 120 | 208 | Chastity Mitchell |
+| 121 | 208 | Twisty Cascadezone |
 | 122 | 206 | Mylo Lipscomb |
 | 123 | 205 | Sarah Neathery |
 | 124 | 204 | Jen Caldwell |
@@ -248,8 +248,8 @@
 | 240 | 113 | Adam Randall |
 | 241 | 113 | Dandy Cascadefit |
 | 242 | 112 | Jeremy Steines |
-| 243 | 111 | Rafael Valentin |
-| 244 | 111 | Lazy Blocker |
+| 243 | 111 | Lazy Blocker |
+| 244 | 111 | Rafael Valentin |
 | 245 | 110 | Zach Kerbs |
 | 246 | 109 | Berklie Apedaile |
 | 247 | 109 | Jessica Miller |

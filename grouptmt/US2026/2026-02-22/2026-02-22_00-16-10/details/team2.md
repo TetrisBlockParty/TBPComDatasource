@@ -336,11 +336,11 @@
 | 328 | 451 | Melissa Kay Gibson |
 | 329 | 451 | Daphne Jordan |
 | 330 | 451 | Dylan Thomason |
-| 331 | 449 | Davetta Sanford |
-| 332 | 449 | Shelley Thornburgh Wright |
+| 331 | 449 | Shelley Thornburgh Wright |
+| 332 | 449 | Davetta Sanford |
 | 333 | 448 | Jojo Momma |
-| 334 | 447 | Lourisha |
-| 335 | 447 | Heather Schelkopf |
+| 334 | 447 | Heather Schelkopf |
+| 335 | 447 | Lourisha |
 | 336 | 445 | Mar Q Thomas |
 | 337 | 443 | Joseph Musick |
 | 338 | 442 | Leah |
@@ -361,10 +361,10 @@
 | 353 | 422 | Mamachelle Eisweirth |
 | 354 | 421 | Vanessa Moreno |
 | 355 | 416 | Lina Sanders |
-| 356 | 414 | Kara Gillen |
-| 357 | 414 | Sabrina Burton |
-| 358 | 414 | John |
-| 359 | 414 | Emily Lyric Converse |
+| 356 | 414 | Sabrina Burton |
+| 357 | 414 | Kara Gillen |
+| 358 | 414 | Emily Lyric Converse |
+| 359 | 414 | John |
 | 360 | 413 | Brandy Andre |
 | 361 | 411 | Ricky Fortune |
 | 362 | 411 | Sam Joe |
@@ -580,8 +580,8 @@
 | 572 | 277 | Dapper Dasher |
 | 573 | 277 | NickyBrooks |
 | 574 | 276 | Lindsey Leigh |
-| 575 | 276 | Vonceial Boone |
-| 576 | 276 | Loony Basepiece |
+| 575 | 276 | Loony Basepiece |
+| 576 | 276 | Vonceial Boone |
 | 577 | 276 | Patrick Bartlett |
 | 578 | 274 | Robin L. Vial |
 | 579 | 274 | Kacee Conrad Bock |

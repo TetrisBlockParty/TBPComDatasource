@@ -27,8 +27,8 @@
 | 19 | 1562 | Trezure Gonzalez |
 | 20 | 1554 | Ashley Kiara |
 | 21 | 1474 | Jennie Beranek |
-| 22 | 1470 | Shandrea Crawford |
-| 23 | 1470 | Zippy Strikesnap |
+| 22 | 1470 | Zippy Strikesnap |
+| 23 | 1470 | Shandrea Crawford |
 | 24 | 1460 | Briarblack |
 | 25 | 1402 | cowboy25469 |
 | 26 | 1297 | Shelby Michelle |
@@ -74,8 +74,8 @@
 | 66 | 604 | Danielle Becker |
 | 67 | 591 | Suzieq |
 | 68 | 588 | yoyo |
-| 69 | 582 | Katrina Schroeder |
-| 70 | 582 | Natasha Jones |
+| 69 | 582 | Natasha Jones |
+| 70 | 582 | Katrina Schroeder |
 | 71 | 581 | Danielle Mogg |
 | 72 | 580 | Amanda L Baker |
 | 73 | 576 | Dan Rob |
@@ -224,8 +224,8 @@
 | 216 | 191 | Scott Carleton |
 | 217 | 191 | Brenda Lee Vander Molen |
 | 218 | 190 | Raven Dudley |
-| 219 | 189 | Sissy Lowery Davis |
-| 220 | 189 | Aerian Preston |
+| 219 | 189 | Aerian Preston |
+| 220 | 189 | Sissy Lowery Davis |
 | 221 | 188 | JerseyJess |
 | 222 | 186 | Hyper Matchzone |
 | 223 | 186 | Sunny Rotater |
@@ -453,7 +453,7 @@
 | 445 | 93 | Crystel b520 |
 | 446 | 92 | Melanie Sherwood |
 | 447 | 92 | Patty White |
-| 448 | 92 | Jackie-Lynne Goertzen |
+| 448 | 92 | Jennifer Caputo |
 | 449 | 92 | Alison Baus |
 | 450 | 92 | Jackie-Lynne Goertzen |
 | 451 | 91 | Donna S. Greene-Brathwaite |
