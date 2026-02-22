@@ -161,8 +161,8 @@
 | 153 | 800 | Tacara Cummings |
 | 154 | 792 | Jumpy Gridpiece |
 | 155 | 791 | Chirpy Staggerpiece |
-| 156 | 789 | James Simms III |
-| 157 | 789 | Stephanie Chapman |
+| 156 | 789 | Stephanie Chapman |
+| 157 | 789 | James Simms III |
 | 158 | 787 | Laura McCarthey |
 | 159 | 785 | YiFei |
 | 160 | 780 | Amanda Grohmann |

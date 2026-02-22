@@ -113,8 +113,8 @@
 | 105 | 402 | Stephanie Simpson |
 | 106 | 400 | Luciana Braganca Vieira |
 | 107 | 397 | Mcathen |
-| 108 | 394 | Annie Déè |
-| 109 | 394 | joclisa |
+| 108 | 394 | joclisa |
+| 109 | 394 | Annie Déè |
 | 110 | 392 | Michelle |
 | 111 | 391 | Calista Jo Dickson |
 | 112 | 390 | Hasty Cascadefit |
@@ -123,8 +123,8 @@
 | 115 | 389 | FuzzyNavel |
 | 116 | 386 | Katie Knaus |
 | 117 | 384 | Shannon Matthew Byers |
-| 118 | 378 | Tasha Schriewer |
-| 119 | 378 | Makelini Mausia |
+| 118 | 378 | Makelini Mausia |
+| 119 | 378 | Tasha Schriewer |
 | 120 | 377 | Jesse Olive |
 | 121 | 368 | Stephanie Blkpep Davidson |
 | 122 | 368 | Stephanie Woods |
@@ -138,8 +138,8 @@
 | 130 | 343 | Chasity |
 | 131 | 339 | Tasha Gillespie |
 | 132 | 330 | Logan Naccarato |
-| 133 | 328 | Aaron Pitkin |
-| 134 | 328 | Jeni Dow |
+| 133 | 328 | Jeni Dow |
+| 134 | 328 | Aaron Pitkin |
 | 135 | 327 | Dapper Snap |
 | 136 | 326 | Fancy Cascader |
 | 137 | 323 | Ashley Raines |
@@ -206,13 +206,13 @@
 | 198 | 207 | Chris Bell |
 | 199 | 205 | Sarah Moyer |
 | 200 | 204 | Danielle Allison |
-| 201 | 201 | IamJust Neyamijah Washington Sr. |
-| 202 | 201 | Karon Griffin |
+| 201 | 201 | Karon Griffin |
+| 202 | 201 | IamJust Neyamijah Washington Sr. |
 | 203 | 200 | Sharisse Baltimore |
 | 204 | 200 | glichmod |
-| 205 | 197 | Staci George Fitzsimmons |
+| 205 | 197 | Angie Harper |
 | 206 | 197 | Connie Mohler-Fair |
-| 207 | 197 | Angie Harper |
+| 207 | 197 | Staci George Fitzsimmons |
 | 208 | 195 | Nicha Hooker |
 | 209 | 194 | Tasha Wesson-Torrence |
 | 210 | 193 | Clever Shiftsnap |

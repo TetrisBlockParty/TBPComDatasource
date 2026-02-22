@@ -81,8 +81,8 @@
 | 73 | 338 | Tipsy Strikerpiece |
 | 74 | 333 | Brandi Huntington |
 | 75 | 328 | Gracie |
-| 76 | 323 | Candy Jones |
-| 77 | 323 | Kellie |
+| 76 | 323 | Kellie |
+| 77 | 323 | Candy Jones |
 | 78 | 319 | Deanna L Hermanson |
 | 79 | 318 | Dee Perry |
 | 80 | 310 | Seth Wesson |
@@ -114,8 +114,8 @@
 | 106 | 249 | Elaine Elaine |
 | 107 | 248 | Jason Jones |
 | 108 | 244 | Franswa |
-| 109 | 240 | Chelsea Dahlquist |
-| 110 | 240 | Tana |
+| 109 | 240 | Tana |
+| 110 | 240 | Chelsea Dahlquist |
 | 111 | 238 | Steve Schneider |
 | 112 | 238 | John J. Cronin |
 | 113 | 230 | Frothy Pattern |
@@ -177,8 +177,8 @@
 | 169 | 161 | Jessie Lynn |
 | 170 | 161 | SavageBooty98 |
 | 171 | 159 | Bindi |
-| 172 | 158 | Sarah Marie |
-| 173 | 158 | Arianna O'Brien |
+| 172 | 158 | Arianna O'Brien |
+| 173 | 158 | Sarah Marie |
 | 174 | 157 | Angela Fairbank |
 | 175 | 154 | Christy Jones |
 | 176 | 152 | Speedy Snapfall |

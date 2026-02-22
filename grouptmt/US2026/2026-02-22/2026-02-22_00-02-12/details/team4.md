@@ -51,8 +51,8 @@
 | 43 | 526 | Goatimus Lombardi |
 | 44 | 519 | Anthony Bryan Riva |
 | 45 | 504 | Ash |
-| 46 | 500 | Rodney McMath Jr. |
-| 47 | 500 | Savannah Overdorf |
+| 46 | 500 | Savannah Overdorf |
+| 47 | 500 | Rodney McMath Jr. |
 | 48 | 496 | Carolyn Wallace |
 | 49 | 491 | Casey Jeffcoat |
 | 50 | 486 | Landon Keith Graffeo |
@@ -117,8 +117,8 @@
 | 109 | 230 | Daria Rycewicz |
 | 110 | 222 | Joeliecea Cobb |
 | 111 | 221 | Alyssa Papen |
-| 112 | 218 | Antony Dwayne Beasley |
-| 113 | 218 | Casey Grabner |
+| 112 | 218 | Casey Grabner |
+| 113 | 218 | Antony Dwayne Beasley |
 | 114 | 213 | Chaz Duncan |
 | 115 | 213 | loulou |
 | 116 | 212 | Mike Solo |
