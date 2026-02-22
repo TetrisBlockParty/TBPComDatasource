@@ -111,8 +111,8 @@
 | 103 | 506 | Sashay Tapae Simpson |
 | 104 | 503 | Susan Valentino |
 | 105 | 502 | Justin Ritter |
-| 106 | 500 | Kristie |
-| 107 | 500 | Domo Washington |
+| 106 | 500 | Domo Washington |
+| 107 | 500 | Kristie |
 | 108 | 497 | Mykal Burton |
 | 109 | 492 | Daira Largen |
 | 110 | 491 | Chauntee Alfrey-Cardinale |
@@ -137,8 +137,8 @@
 | 129 | 409 | Karon Griffin |
 | 130 | 407 | Joye Sims Binion |
 | 131 | 405 | Michelle |
-| 132 | 403 | Scott Lindsay |
-| 133 | 403 | Christine Filson |
+| 132 | 403 | Christine Filson |
+| 133 | 403 | Scott Lindsay |
 | 134 | 402 | Shannon Matthew Byers |
 | 135 | 400 | Louise Stacy Sisson |
 | 136 | 400 | Luciana Braganca Vieira |
@@ -253,9 +253,9 @@
 | 245 | 216 | rosy |
 | 246 | 215 | Alice |
 | 247 | 215 | IamJust Neyamijah Washington Sr. |
-| 248 | 214 | Connie Mohler-Fair |
-| 249 | 214 | Amy Fuller Heaton |
-| 250 | 214 | Rebel124 |
+| 248 | 214 | Rebel124 |
+| 249 | 214 | Connie Mohler-Fair |
+| 250 | 214 | Amy Fuller Heaton |
 | 251 | 213 | Trisha Balmer |
 | 252 | 212 | LaTanya GeminiondaRise Johnson |
 | 253 | 212 | Desiree Gold |

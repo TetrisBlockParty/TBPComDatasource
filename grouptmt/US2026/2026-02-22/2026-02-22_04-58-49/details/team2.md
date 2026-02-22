@@ -263,8 +263,8 @@
 | 255 | 678 | Scott Treadway |
 | 256 | 677 | Mema |
 | 257 | 676 | Pacynthia Williams |
-| 258 | 675 | Tommy Tha Boss Gunz |
-| 259 | 675 | Brenda Utphall |
+| 258 | 675 | Brenda Utphall |
+| 259 | 675 | Tommy Tha Boss Gunz |
 | 260 | 672 | Danielle Simmons |
 | 261 | 671 | Poldo Ilano |
 | 262 | 669 | Claire Noland |
