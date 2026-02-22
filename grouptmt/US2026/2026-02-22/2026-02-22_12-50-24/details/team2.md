@@ -661,8 +661,8 @@
 | 653 | 357 | Shannon Byrd |
 | 654 | 357 | Tristan Szolek |
 | 655 | 355 | Amanda Perez |
-| 656 | 354 | Rickey Johnson |
-| 657 | 354 | Rachel Kaminski |
+| 656 | 354 | Rachel Kaminski |
+| 657 | 354 | Rickey Johnson |
 | 658 | 352 | Rose Fx |
 | 659 | 352 | Jean FU Jagielski |
 | 660 | 352 | ruth |
@@ -713,8 +713,8 @@
 | 705 | 325 | James Smith |
 | 706 | 325 | Justin Hines |
 | 707 | 325 | Mike73 |
-| 708 | 324 | Dale Haanpaa |
-| 709 | 324 | Tasia Stinson |
+| 708 | 324 | Tasia Stinson |
+| 709 | 324 | Dale Haanpaa |
 | 710 | 323 | Briana Alexander |
 | 711 | 322 | Lea Stewart |
 | 712 | 322 | Christina Jarvis-Swarbrick |

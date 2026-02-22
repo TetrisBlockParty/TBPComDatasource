@@ -49,8 +49,8 @@
 | 41 | 766 | Robin Watters |
 | 42 | 757 | Ancient Intuition |
 | 43 | 736 | Goatimus Lombardi |
-| 44 | 707 | Rachel Anne |
-| 45 | 707 | Clarence Patawaran |
+| 44 | 707 | Clarence Patawaran |
+| 45 | 707 | Rachel Anne |
 | 46 | 704 | Crystal Carroll |
 | 47 | 698 | Anthony Bryan Riva |
 | 48 | 697 | Edward White |
@@ -106,8 +106,8 @@
 | 98 | 404 | Courtney Cicoria |
 | 99 | 401 | Zippy Gridlock |
 | 100 | 396 | Alicia Bass |
-| 101 | 393 | Judy Cox |
-| 102 | 393 | Carlton Unfiltered |
+| 101 | 393 | Carlton Unfiltered |
+| 102 | 393 | Judy Cox |
 | 103 | 392 | Ericca Eldridge |
 | 104 | 391 | Ramel Rhodes |
 | 105 | 391 | Monica Daley |
@@ -152,19 +152,19 @@
 | 144 | 267 | Damn Libra |
 | 145 | 265 | Jeff Brian Gates |
 | 146 | 264 | Dana Scott |
-| 147 | 264 | Girl |
-| 148 | 264 | Epic Curvetile |
-| 149 | 262 | Alan George LaRage |
-| 150 | 262 | Joeliecea Cobb |
-| 151 | 262 | Holly Jolly |
+| 147 | 264 | Epic Curvetile |
+| 148 | 264 | Girl |
+| 149 | 262 | Joeliecea Cobb |
+| 150 | 262 | Holly Jolly |
+| 151 | 262 | Alan George LaRage |
 | 152 | 258 | Bio Nelly |
 | 153 | 257 | Twisty Clicky |
 | 154 | 256 | Mylo Lipscomb |
 | 155 | 255 | Lindsay Ball |
 | 156 | 253 | Casey Grabner |
 | 157 | 250 | Matt Dell'Olio |
-| 158 | 249 | Chris Bernstein |
-| 159 | 249 | Leah Kutz Zirbel |
+| 158 | 249 | Leah Kutz Zirbel |
+| 159 | 249 | Chris Bernstein |
 | 160 | 245 | Diana Houts |
 | 161 | 244 | Twisty Cascadezone |
 | 162 | 240 | Peachy Fall |
@@ -183,8 +183,8 @@
 | 175 | 217 | Chaz Duncan |
 | 176 | 217 | Angela Srubar-Norman |
 | 177 | 215 | Jessica Bohlken |
-| 178 | 213 | Sarah Neathery |
-| 179 | 213 | Jason Allen |
+| 178 | 213 | Jason Allen |
+| 179 | 213 | Sarah Neathery |
 | 180 | 212 | Mike Solo |
 | 181 | 211 | Jenna McGeorge |
 | 182 | 210 | Zethra Prenisha Rahming |
@@ -370,10 +370,10 @@
 | 362 | 115 | Alexandra Karavias |
 | 363 | 115 | Meg |
 | 364 | 114 | Jason Frehner |
-| 365 | 113 | @ |
-| 366 | 113 | Stephanie Mico |
-| 367 | 113 | Adam Randall |
-| 368 | 113 | Dandy Cascadefit |
+| 365 | 113 | Dandy Cascadefit |
+| 366 | 113 | Adam Randall |
+| 367 | 113 | Stephanie Mico |
+| 368 | 113 | @ |
 | 369 | 113 | Raymond Roberts |
 | 370 | 112 | Rosemary Foster |
 | 371 | 112 | Darrin Rubalcava |
