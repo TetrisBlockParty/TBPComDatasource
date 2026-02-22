@@ -65,8 +65,8 @@
 | 57 | 696 | Judi Dobson |
 | 58 | 632 | Jamie Furr |
 | 59 | 628 | Tiff Vs Tiffany |
-| 60 | 621 | Ebony West-Cundiff |
-| 61 | 621 | Cherry Parker |
+| 60 | 621 | Cherry Parker |
+| 61 | 621 | Ebony West-Cundiff |
 | 62 | 618 | Brandon Green |
 | 63 | 618 | MissTaylor |
 | 64 | 613 | Amber Hughes |
@@ -150,8 +150,8 @@
 | 142 | 300 | Sherika C. McDaniels |
 | 143 | 293 | Poppy Splitter |
 | 144 | 289 | Hoppy Buildout |
-| 145 | 286 | Marci Mize Fandrich |
-| 146 | 286 | Jacqueline Rodriguez |
+| 145 | 286 | Jacqueline Rodriguez |
+| 146 | 286 | Marci Mize Fandrich |
 | 147 | 283 | Joye Sims Binion |
 | 148 | 282 | Nicole Flippo |
 | 149 | 280 | Betty Ivy |
@@ -190,8 +190,8 @@
 | 182 | 226 | Grego Daniel |
 | 183 | 224 | Nicole Myers |
 | 184 | 223 | Jeana Gilbert |
-| 185 | 219 | Shunta Jacobs |
-| 186 | 219 | Rebecca Bailey |
+| 185 | 219 | Rebecca Bailey |
+| 186 | 219 | Shunta Jacobs |
 | 187 | 218 | LaNette Morgan |
 | 188 | 217 | Jess Bissett |
 | 189 | 215 | Araceli Parra |
@@ -202,8 +202,8 @@
 | 194 | 211 | Khaleada McGill Banks |
 | 195 | 210 | Michael Lucado |
 | 196 | 209 | Twisty Brick LT |
-| 197 | 207 | Chris Bell |
-| 198 | 207 | Jessica |
+| 197 | 207 | Jessica |
+| 198 | 207 | Chris Bell |
 | 199 | 205 | Sarah Moyer |
 | 200 | 204 | Danielle Allison |
 | 201 | 201 | IamJust Neyamijah Washington Sr. |
@@ -285,9 +285,9 @@
 | 277 | 148 | Carrie Huskey |
 | 278 | 148 | Gumbo |
 | 279 | 147 | Ashley Lynn Marchese |
-| 280 | 146 | Rachel |
+| 280 | 146 | Ava Petito |
 | 281 | 146 | Tony Waters |
-| 282 | 146 | Ava Petito |
+| 282 | 146 | Rachel |
 | 283 | 145 | Bryan Byrd |
 | 284 | 144 | Tenisha Semidey |
 | 285 | 144 | fraulila |

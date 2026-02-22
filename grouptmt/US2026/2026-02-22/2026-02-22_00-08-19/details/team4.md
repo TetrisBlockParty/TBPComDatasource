@@ -74,8 +74,8 @@
 | 66 | 391 | Ramel Rhodes |
 | 67 | 390 | Carlton Unfiltered |
 | 68 | 388 | YoMomma |
-| 69 | 376 | Marie-Pier Desjardins |
-| 70 | 376 | quicksand420 |
+| 69 | 376 | quicksand420 |
+| 70 | 376 | Marie-Pier Desjardins |
 | 71 | 373 | Joseph Guthrie |
 | 72 | 370 | Leslie Thomas |
 | 73 | 369 | Nope Young |
@@ -201,9 +201,9 @@
 | 193 | 132 | Jessica Cagle |
 | 194 | 132 | Melissa Priest Sellers |
 | 195 | 131 | Michelle Morris |
-| 196 | 130 | Carlos Ramirez |
-| 197 | 130 | Shukee Lo |
-| 198 | 130 | Chris Bernstein |
+| 196 | 130 | Shukee Lo |
+| 197 | 130 | Chris Bernstein |
+| 198 | 130 | Carlos Ramirez |
 | 199 | 129 | Dreamy Snapgrid |
 | 200 | 128 | Jackie Marie |
 | 201 | 128 | Rio Rocha |

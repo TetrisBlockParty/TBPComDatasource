@@ -362,11 +362,11 @@
 | 354 | 416 | Lina Sanders |
 | 355 | 414 | Sabrina Burton |
 | 356 | 414 | Kara Gillen |
-| 357 | 414 | Emily Lyric Converse |
-| 358 | 414 | John |
+| 357 | 414 | John |
+| 358 | 414 | Emily Lyric Converse |
 | 359 | 411 | Ricky Fortune |
-| 360 | 411 | Kristen O'Neal |
-| 361 | 411 | Sam Joe |
+| 360 | 411 | Sam Joe |
+| 361 | 411 | Kristen O'Neal |
 | 362 | 406 | Erin StFrancis |
 | 363 | 406 | Julie Kresal |
 | 364 | 406 | Tj Ball |
@@ -460,8 +460,8 @@
 | 452 | 341 | Andrew Willis |
 | 453 | 341 | Traci Johnson |
 | 454 | 339 | Cool Rollpiece |
-| 455 | 338 | Peppy Snapfall |
-| 456 | 338 | Shorty |
+| 455 | 338 | Shorty |
+| 456 | 338 | Peppy Snapfall |
 | 457 | 337 | Sassy Pattern |
 | 458 | 336 | Hong Tang |
 | 459 | 335 | Brooke Leigh Strube |
