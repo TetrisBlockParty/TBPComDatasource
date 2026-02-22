@@ -43,17 +43,17 @@
 | 35 | 723 | Elizabeth Sallas |
 | 36 | 717 | BertMofo |
 | 37 | 704 | Crystal Carroll |
-| 38 | 697 | Edward White |
-| 39 | 697 | Rachel Anne |
+| 38 | 697 | Rachel Anne |
+| 39 | 697 | Edward White |
 | 40 | 659 | Rebecca Moulton Pinciaro |
 | 41 | 646 | Jacqueline Helm |
 | 42 | 634 | Anthony Bryan Riva |
 | 43 | 632 | Kimyatta Cavin |
-| 44 | 630 | Dustee Craddock-Harrison |
-| 45 | 630 | Chilly Line |
+| 44 | 630 | Chilly Line |
+| 45 | 630 | Dustee Craddock-Harrison |
 | 46 | 627 | Jonathan Kimbrough |
-| 47 | 614 | KM8 |
-| 48 | 614 | Robin Getchel |
+| 47 | 614 | Robin Getchel |
+| 48 | 614 | KM8 |
 | 49 | 608 | Denny Shives |
 | 50 | 603 | LisaJo Picken Buchanan |
 | 51 | 599 | Brittney Griggs |
@@ -145,8 +145,8 @@
 | 137 | 220 | Matt Dell'Olio |
 | 138 | 218 | Casey Grabner |
 | 139 | 217 | Chaz Duncan |
-| 140 | 215 | Jessica Bohlken |
-| 141 | 215 | Ren Mc |
+| 140 | 215 | Ren Mc |
+| 141 | 215 | Jessica Bohlken |
 | 142 | 213 | Tyler Terrific |
 | 143 | 213 | Jason Allen |
 | 144 | 212 | Calvin Cannon |
@@ -157,8 +157,8 @@
 | 149 | 205 | Kathy Brookins |
 | 150 | 205 | Sarah Neathery |
 | 151 | 204 | Jen Caldwell |
-| 152 | 203 | Chris Bernstein |
-| 153 | 203 | Katherine Crane |
+| 152 | 203 | Katherine Crane |
+| 153 | 203 | Chris Bernstein |
 | 154 | 202 | 🥔🥔 Spudz |
 | 155 | 201 | Melvin Baird |
 | 156 | 199 | TheNeesh50 |
@@ -175,8 +175,8 @@
 | 167 | 188 | Andria Lynn |
 | 168 | 186 | Holly |
 | 169 | 185 | Andy Cabral |
-| 170 | 185 | Diana Houts |
-| 171 | 185 | Lori |
+| 170 | 185 | Lori |
+| 171 | 185 | Diana Houts |
 | 172 | 184 | Ak Jones |
 | 173 | 181 | Klo |
 | 174 | 181 | Carter Jones |
@@ -273,8 +273,8 @@
 | 265 | 125 | KimoKoala |
 | 266 | 125 | Daresha Fair |
 | 267 | 124 | Sam Middleton |
-| 268 | 123 | Joseph Edmonson |
-| 269 | 123 | Sandra Safford |
+| 268 | 123 | Sandra Safford |
+| 269 | 123 | Joseph Edmonson |
 | 270 | 121 | Joseph Pace |
 | 271 | 120 | Porkobello |
 | 272 | 120 | Metsfan |
@@ -296,8 +296,8 @@
 | 288 | 115 | Meg |
 | 289 | 115 | Nubian1 |
 | 290 | 114 | Christina Black |
-| 291 | 113 | Dandy Cascadefit |
-| 292 | 113 | Adam Randall |
+| 291 | 113 | Adam Randall |
+| 292 | 113 | Dandy Cascadefit |
 | 293 | 112 | Chris Alexinas |
 | 294 | 111 | Lazy Blocker |
 | 295 | 111 | Michael Orris |

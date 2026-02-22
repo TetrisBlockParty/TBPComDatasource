@@ -196,13 +196,13 @@
 | 188 | 857 | Della Hole |
 | 189 | 856 | Roger Grabbit |
 | 190 | 850 | Missie Lawson Gebhardt |
-| 191 | 849 | Hillary Crawford |
-| 192 | 849 | Jennifer Kistner |
+| 191 | 849 | Jennifer Kistner |
+| 192 | 849 | Hillary Crawford |
 | 193 | 845 | April Dawn Gussler |
 | 194 | 838 | Tralonda Weeks |
 | 195 | 837 | Ashley Rose Frederick |
-| 196 | 834 | Rebecca Doughman |
-| 197 | 834 | Nika Bee |
+| 196 | 834 | Nika Bee |
+| 197 | 834 | Rebecca Doughman |
 | 198 | 828 | Cindy Sechler Taninecz |
 | 199 | 826 | Moose Griffith |
 | 200 | 824 | Felicia Lynn |
@@ -217,16 +217,16 @@
 | 209 | 799 | Foxxo |
 | 210 | 787 | Laura McCarthey |
 | 211 | 783 | Shuany Arias |
-| 212 | 777 | Barbra Miller |
-| 213 | 777 | Tesha Oldaker |
+| 212 | 777 | Tesha Oldaker |
+| 213 | 777 | Barbra Miller |
 | 214 | 777 | Eric Carlson |
 | 215 | 771 | Terri McKelvey McKinley |
 | 216 | 765 | Jodi Blake |
 | 217 | 763 | Samantha Jo |
 | 218 | 761 | Lisa Ongtowasruk |
 | 219 | 756 | Stephanie Neuburger |
-| 220 | 755 | Ashley House |
-| 221 | 755 | Katrina Weston |
+| 220 | 755 | Katrina Weston |
+| 221 | 755 | Ashley House |
 | 222 | 753 | SaraMarie Eveland |
 | 223 | 751 | Loony Snapper |
 | 224 | 750 | Maria Escobar |
@@ -248,8 +248,8 @@
 | 240 | 698 | Mighty Shatterfit |
 | 241 | 697 | Dreamy Blast |
 | 242 | 692 | Chelle |
-| 243 | 692 | Jennifer Casey-Kay |
-| 244 | 692 | Dannette Goldberg-Richards |
+| 243 | 692 | Dannette Goldberg-Richards |
+| 244 | 692 | Jennifer Casey-Kay |
 | 245 | 690 | Deborah Miller |
 | 246 | 689 | Auntie B |
 | 247 | 688 | ShinyRose |
@@ -260,8 +260,8 @@
 | 252 | 678 | Scott Treadway |
 | 253 | 677 | Mema |
 | 254 | 676 | Pacynthia Williams |
-| 255 | 675 | Tommy Tha Boss Gunz |
-| 256 | 675 | Brenda Utphall |
+| 255 | 675 | Brenda Utphall |
+| 256 | 675 | Tommy Tha Boss Gunz |
 | 257 | 672 | Danielle Simmons |
 | 258 | 669 | Claire Noland |
 | 259 | 666 | Speedy Spinblock |
@@ -287,11 +287,11 @@
 | 279 | 635 | William Hunt |
 | 280 | 632 | Beth |
 | 281 | 631 | Marie Walker |
-| 282 | 626 | Allan Wayne Lamia |
-| 283 | 626 | Stephen Stephen |
+| 282 | 626 | Stephen Stephen |
+| 283 | 626 | Allan Wayne Lamia |
 | 284 | 619 | Jánine Riggs |
-| 285 | 617 | tejas25 |
-| 286 | 617 | Leslie Ann Carter |
+| 285 | 617 | Leslie Ann Carter |
+| 286 | 617 | tejas25 |
 | 287 | 615 | Brandon Armstrong |
 | 288 | 613 | Ellie Jonas |
 | 289 | 611 | Julio A Laracuente |
@@ -674,8 +674,8 @@
 | 666 | 288 | Ashley Criner |
 | 667 | 287 | Toni Roberson |
 | 668 | 287 | Brave Gridpiece |
-| 669 | 286 | Epic Spinfit |
-| 670 | 286 | Kelsey Sullivan |
+| 669 | 286 | Kelsey Sullivan |
+| 670 | 286 | Epic Spinfit |
 | 671 | 285 | June E Hanson |
 | 672 | 285 | Court |
 | 673 | 284 | Tabs Reichert |

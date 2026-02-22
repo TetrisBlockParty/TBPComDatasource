@@ -201,11 +201,11 @@
 | 193 | 276 | _melisa223_ |
 | 194 | 276 | Crimson |
 | 195 | 274 | Tye Stovall |
-| 196 | 272 | Dee Franklin |
-| 197 | 272 | opf |
+| 196 | 272 | opf |
+| 197 | 272 | Dee Franklin |
 | 198 | 271 | Ashley Muncey |
-| 199 | 267 | Denise Nardoni |
-| 200 | 267 | Terry Jo Jones |
+| 199 | 267 | Terry Jo Jones |
+| 200 | 267 | Denise Nardoni |
 | 201 | 265 | Sarah Moyer |
 | 202 | 265 | Scott Carleton |
 | 203 | 263 | Angeline Joseph |
@@ -233,8 +233,8 @@
 | 225 | 240 | Brandon Givens |
 | 226 | 236 | Jess Bissett |
 | 227 | 235 | LaNette Morgan |
-| 228 | 234 | Grego Daniel |
-| 229 | 234 | Nikki Pags |
+| 228 | 234 | Nikki Pags |
+| 229 | 234 | Grego Daniel |
 | 230 | 233 | Ray Lader |
 | 231 | 232 | Donna |
 | 232 | 227 | Krystal Gerstberger |
@@ -279,8 +279,8 @@
 | 271 | 189 | Katie Leigh Blankenship |
 | 272 | 188 | Loopy Fallmatch |
 | 273 | 184 | Troy |
-| 274 | 184 | France Vézina |
-| 275 | 184 | El Chapa |
+| 274 | 184 | El Chapa |
+| 275 | 184 | France Vézina |
 | 276 | 182 | Carrie Huskey |
 | 277 | 182 | Melanie Sherwood |
 | 278 | 181 | Nicholas Roddy |
@@ -308,8 +308,8 @@
 | 300 | 167 | Shicken Nuggit |
 | 301 | 167 | Samantha Lynn |
 | 302 | 166 | April Matthew Kibble |
-| 303 | 165 | Irene Arreguin |
-| 304 | 165 | Kali Kelz Williams |
+| 303 | 165 | Kali Kelz Williams |
+| 304 | 165 | Irene Arreguin |
 | 305 | 163 | Diana Ibarra |
 | 306 | 163 | Stephanie Hill |
 | 307 | 163 | Christine Trester |
