@@ -67,8 +67,8 @@
 | 59 | 698 | Anthony Bryan Riva |
 | 60 | 697 | Edward White |
 | 61 | 671 | D3TROITB0RN74 |
-| 62 | 664 | Kimyatta Cavin |
-| 63 | 664 | Valerie Roberts |
+| 62 | 664 | Valerie Roberts |
+| 63 | 664 | Kimyatta Cavin |
 | 64 | 659 | Jonathan Kimbrough |
 | 65 | 658 | loulou |
 | 66 | 654 | Chilly Line |
@@ -153,8 +153,8 @@
 | 145 | 290 | 🥔🥔 Spudz |
 | 146 | 289 | Jessica Lynn Cutlip |
 | 147 | 288 | Leah Kutz Zirbel |
-| 148 | 286 | Brittney Orengo |
-| 149 | 286 | shark tato |
+| 148 | 286 | shark tato |
+| 149 | 286 | Brittney Orengo |
 | 150 | 282 | Rafael Valentin |
 | 151 | 281 | Lindsay Ball |
 | 152 | 281 | Meagan Nicole |
@@ -163,8 +163,8 @@
 | 155 | 275 | Dizzy Tiley |
 | 156 | 274 | Calvin Cannon |
 | 157 | 273 | Crystal Nicolette Moore |
-| 158 | 272 | Keshia Lyons |
-| 159 | 272 | Alan George LaRage |
+| 158 | 272 | Alan George LaRage |
+| 159 | 272 | Keshia Lyons |
 | 160 | 271 | Sarah Brown |
 | 161 | 269 | Nikki Rae Gordon |
 | 162 | 268 | Mimi |
@@ -237,24 +237,24 @@
 | 229 | 200 | Rebecca Morris |
 | 230 | 200 | Lori |
 | 231 | 199 | April Rondinone |
-| 232 | 198 | Keith Kelley |
-| 233 | 198 | Calvin Dennis |
+| 232 | 198 | Calvin Dennis |
+| 233 | 198 | Keith Kelley |
 | 234 | 197 | Silly SeaWeed |
 | 235 | 197 | Gilles Lanctot |
 | 236 | 195 | 中山成巳 |
 | 237 | 194 | Zany Twisterfit |
 | 238 | 193 | Rio Rocha |
-| 239 | 190 | Cheery Risebuilder |
-| 240 | 190 | Snippy Puzzle |
-| 241 | 189 | Dihcheese444 |
-| 242 | 189 | 030Synner |
+| 239 | 190 | Snippy Puzzle |
+| 240 | 190 | Cheery Risebuilder |
+| 241 | 189 | 030Synner |
+| 242 | 189 | Dihcheese444 |
 | 243 | 186 | Holly |
 | 244 | 185 | Laura Hosford |
-| 245 | 184 | Ak Jones |
-| 246 | 184 | Lauren Lamb |
+| 245 | 184 | Lauren Lamb |
+| 246 | 184 | Ak Jones |
 | 247 | 183 | JPW |
-| 248 | 181 | Carter Jones |
-| 249 | 181 | Jackie Marie |
+| 248 | 181 | Jackie Marie |
+| 249 | 181 | Carter Jones |
 | 250 | 180 | Orchislactea |
 | 251 | 179 | Stephme310 |
 | 252 | 179 | Christina Black |
@@ -270,8 +270,8 @@
 | 262 | 167 | Cozy Balancer |
 | 263 | 166 | SammieJo Guy |
 | 264 | 166 | Jenny Wells-Oakley |
-| 265 | 166 | Megan Cutshaw |
-| 266 | 166 | Angelito |
+| 265 | 166 | Angelito |
+| 266 | 166 | Megan Cutshaw |
 | 267 | 165 | James Hurley Jr. |
 | 268 | 165 | Brittany Marsh |
 | 269 | 165 | Zappy Buildgrid |

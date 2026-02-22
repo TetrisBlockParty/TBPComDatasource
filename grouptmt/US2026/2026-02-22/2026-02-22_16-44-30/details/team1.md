@@ -114,8 +114,8 @@
 | 106 | 379 | Austin James |
 | 107 | 376 | lil mickey |
 | 108 | 374 | Tinah Montanna |
-| 109 | 364 | Shauna Loe |
-| 110 | 364 | Ly Phethmany |
+| 109 | 364 | Ly Phethmany |
+| 110 | 364 | Shauna Loe |
 | 111 | 362 | Plucky Ziggy |
 | 112 | 359 | Chirpy Smasher |
 | 113 | 355 | Hasbro Bros |
@@ -154,8 +154,8 @@
 | 146 | 293 | Sarah Roberts |
 | 147 | 292 | David Lutcher |
 | 148 | 285 | Ananda Mendez |
-| 149 | 284 | Rachael |
-| 150 | 284 | Emily Adelaide Wheatley |
+| 149 | 284 | Emily Adelaide Wheatley |
+| 150 | 284 | Rachael |
 | 151 | 283 | Franswa |
 | 152 | 282 | Timothy Dew |
 | 153 | 282 | Snippy Wipebuilder |
@@ -301,8 +301,8 @@
 | 293 | 169 | Allena Craft |
 | 294 | 169 | Abbey Crespo |
 | 295 | 168 | Angela Fairbank |
-| 296 | 166 | Carrie Smith |
-| 297 | 166 | LD1 |
+| 296 | 166 | LD1 |
+| 297 | 166 | Carrie Smith |
 | 298 | 165 | Silly Align |
 | 299 | 165 | Nadine Velardo |
 | 300 | 164 | Poppy Riserpiece |

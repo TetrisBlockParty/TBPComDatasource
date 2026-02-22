@@ -122,8 +122,8 @@
 | 114 | 568 | Rachael McClain Owens |
 | 115 | 566 | Dolores Falco |
 | 116 | 565 | Patty Allen |
-| 117 | 562 | Dave Herzog |
-| 118 | 562 | Louise Stacy Sisson |
+| 117 | 562 | Louise Stacy Sisson |
+| 118 | 562 | Dave Herzog |
 | 119 | 554 | joclisa |
 | 120 | 550 | Nicole Myers |
 | 121 | 533 | Alaina Lee |
@@ -183,8 +183,8 @@
 | 175 | 397 | Annie Déè |
 | 176 | 393 | Fallorina Susana |
 | 177 | 391 | Araceli Parra |
-| 178 | 391 | Sarah Cowan Burgos |
-| 179 | 391 | Calista Jo Dickson |
+| 178 | 391 | Calista Jo Dickson |
+| 179 | 391 | Sarah Cowan Burgos |
 | 180 | 391 | Dapper Snap |
 | 181 | 390 | Chasity |
 | 182 | 385 | Shunta Jacobs |
@@ -196,8 +196,8 @@
 | 188 | 376 | Loopy Clusterer |
 | 189 | 374 | Darlene McMillan |
 | 190 | 374 | Sherry Ogden |
-| 191 | 372 | Giddy Twistbuilder |
-| 192 | 372 | Tom Nault |
+| 191 | 372 | Tom Nault |
+| 192 | 372 | Giddy Twistbuilder |
 | 193 | 370 | Santeria Trece Candles |
 | 194 | 370 | Danielle Allison |
 | 195 | 368 | Stephanie Woods |
@@ -371,8 +371,8 @@
 | 363 | 196 | Denita Mungro |
 | 364 | 195 | Nicha Hooker |
 | 365 | 194 | Kevin Fountain |
-| 366 | 193 | BŘŰŤİÇŨŚ |
-| 367 | 193 | Clever Shiftsnap |
+| 366 | 193 | Clever Shiftsnap |
+| 367 | 193 | BŘŰŤİÇŨŚ |
 | 368 | 193 | Loopy Fallzone |
 | 369 | 192 | Melanie Sherwood |
 | 370 | 192 | Katrina E Jelks |

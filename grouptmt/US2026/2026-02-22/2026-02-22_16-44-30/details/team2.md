@@ -76,8 +76,8 @@
 | 68 | 2218 | Dineisha Carpenter |
 | 69 | 2196 | YiFei |
 | 70 | 2151 | Kelly Crook |
-| 71 | 2137 | Roger Grabbit |
-| 72 | 2137 | KellyDyan |
+| 71 | 2137 | KellyDyan |
+| 72 | 2137 | Roger Grabbit |
 | 73 | 2108 | Heather Piotrowski |
 | 74 | 2103 | Alisha Peoples |
 | 75 | 2090 | Jordan Petro |
@@ -192,8 +192,8 @@
 | 184 | 1062 | Crystal Slaughter |
 | 185 | 1050 | Amy Sayers |
 | 186 | 1045 | Lourisha |
-| 187 | 1043 | Brave Dropmatch |
-| 188 | 1043 | Suki Kaur |
+| 187 | 1043 | Suki Kaur |
+| 188 | 1043 | Brave Dropmatch |
 | 189 | 1036 | Allison Lockyer |
 | 190 | 1032 | Ashley Rose Frederick |
 | 191 | 1024 | Bri Lynn |
@@ -290,9 +290,9 @@
 | 282 | 787 | Laura McCarthey |
 | 283 | 786 | Jessica Wayne Cornwall |
 | 284 | 783 | Lisa Ongtowasruk |
-| 285 | 777 | Angie Bolton Workman |
-| 286 | 777 | Jessicah Myers |
-| 287 | 777 | Tesha Oldaker |
+| 285 | 777 | Tesha Oldaker |
+| 286 | 777 | Angie Bolton Workman |
+| 287 | 777 | Jessicah Myers |
 | 288 | 777 | Samantha Jo |
 | 289 | 774 | Offonar Facey |
 | 290 | 772 | Kristin Gower |
@@ -715,8 +715,8 @@
 | 707 | 356 | Kelsey Sullivan |
 | 708 | 356 | Shorty |
 | 709 | 355 | Mike73 |
-| 710 | 354 | Rickey Johnson |
-| 711 | 354 | Rachel Kaminski |
+| 710 | 354 | Rachel Kaminski |
+| 711 | 354 | Rickey Johnson |
 | 712 | 352 | Jean FU Jagielski |
 | 713 | 352 | Savannah Alexander |
 | 714 | 350 | Chris Harr |
