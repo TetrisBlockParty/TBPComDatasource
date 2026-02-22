@@ -120,8 +120,8 @@
 | 112 | 341 | Nick R Montague |
 | 113 | 340 | Jason Jones |
 | 114 | 334 | Jaimie Lynn |
-| 115 | 333 | Brandi Huntington |
-| 116 | 333 | Gracie |
+| 115 | 333 | Gracie |
+| 116 | 333 | Brandi Huntington |
 | 117 | 332 | Kristen Gideon |
 | 118 | 330 | Sweet Baker |
 | 119 | 326 | Monica Donato |

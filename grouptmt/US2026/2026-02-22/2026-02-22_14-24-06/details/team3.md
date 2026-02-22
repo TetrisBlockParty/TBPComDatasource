@@ -113,8 +113,8 @@
 | 105 | 568 | Rachael McClain Owens |
 | 106 | 566 | Dolores Falco |
 | 107 | 565 | Patty Allen |
-| 108 | 562 | Dave Herzog |
-| 109 | 562 | Louise Stacy Sisson |
+| 108 | 562 | Louise Stacy Sisson |
+| 109 | 562 | Dave Herzog |
 | 110 | 559 | Morgan Martinez |
 | 111 | 549 | Nicole Myers |
 | 112 | 546 | Kristie |
@@ -149,13 +149,13 @@
 | 141 | 449 | Danielle Rhoades |
 | 142 | 448 | Karon Griffin |
 | 143 | 445 | Shannon Matthew Byers |
-| 144 | 445 | Jacqueline Rodriguez |
-| 145 | 445 | Kristie McFarland |
+| 144 | 445 | Kristie McFarland |
+| 145 | 445 | Jacqueline Rodriguez |
 | 146 | 439 | Michelle |
 | 147 | 435 | Daryn Elliott |
 | 148 | 432 | Jenny Hrndz |
-| 149 | 430 | Tasha Gillespie |
-| 150 | 430 | Joye Sims Binion |
+| 149 | 430 | Joye Sims Binion |
+| 150 | 430 | Tasha Gillespie |
 | 151 | 427 | Logan Naccarato |
 | 152 | 427 | Wendy Dearden |
 | 153 | 415 | ren |
@@ -201,9 +201,9 @@
 | 193 | 348 | Chasity |
 | 194 | 343 | Ashley Raines |
 | 195 | 343 | Tamara Deherrera |
-| 196 | 341 | Samantha Lynn |
-| 197 | 341 | Noyb Adam |
-| 198 | 341 | Araceli Parra |
+| 196 | 341 | Noyb Adam |
+| 197 | 341 | Araceli Parra |
+| 198 | 341 | Samantha Lynn |
 | 199 | 338 | Gumbo |
 | 200 | 332 | Rich LeBlanc |
 | 201 | 330 | Danielle Balcom |
@@ -227,8 +227,8 @@
 | 219 | 300 | Sherika C. McDaniels |
 | 220 | 298 | MsBee |
 | 221 | 297 | Jojo M |
-| 222 | 296 | Ammmmmmy |
-| 223 | 296 | Katrina Turner |
+| 222 | 296 | Katrina Turner |
+| 223 | 296 | Ammmmmmy |
 | 224 | 296 | Brandon Givens |
 | 225 | 291 | JerseyJess |
 | 226 | 289 | DidIdothat |
@@ -261,16 +261,16 @@
 | 253 | 261 | Tasha Wesson-Torrence |
 | 254 | 261 | Tiffany Ford |
 | 255 | 261 | Marquita Sheard |
-| 256 | 260 | Nikki Pags |
-| 257 | 260 | Grams |
+| 256 | 260 | Grams |
+| 257 | 260 | Nikki Pags |
 | 258 | 259 | Danielle Weikel |
 | 259 | 257 | Ashley Jones |
 | 260 | 256 | KayB |
 | 261 | 254 | Brenda Schmid Wood |
 | 262 | 252 | Roary Danner |
 | 263 | 250 | fraulila |
-| 264 | 249 | Hasty Gridpiece |
-| 265 | 249 | Annie Marie |
+| 264 | 249 | Annie Marie |
+| 265 | 249 | Hasty Gridpiece |
 | 266 | 246 | Peppy Shifter |
 | 267 | 245 | Latoya Mayne |
 | 268 | 244 | LaNette Morgan |

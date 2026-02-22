@@ -142,8 +142,8 @@
 | 134 | 1273 | Cool Rollpiece |
 | 135 | 1265 | Katrina Williams Balmir |
 | 136 | 1257 | Eileen Hale |
-| 137 | 1248 | Howard Forest |
-| 138 | 1248 | Isabela Shaw |
+| 137 | 1248 | Isabela Shaw |
+| 138 | 1248 | Howard Forest |
 | 139 | 1242 | Altamirano Michael |
 | 140 | 1232 | Groovy Puzzle |
 | 141 | 1230 | Megan Garrick |
@@ -270,8 +270,8 @@
 | 262 | 778 | Desire Rice |
 | 263 | 778 | Mischelle Clay |
 | 264 | 777 | Samantha Jo |
-| 265 | 777 | Tesha Oldaker |
-| 266 | 777 | Jessicah Myers |
+| 265 | 777 | Jessicah Myers |
+| 266 | 777 | Tesha Oldaker |
 | 267 | 772 | William Hunt |
 | 268 | 772 | Sam Joe |
 | 269 | 771 | Terri McKelvey McKinley |
@@ -376,8 +376,8 @@
 | 368 | 589 | Thomas Hedrick |
 | 369 | 586 | Heather Schelkopf |
 | 370 | 584 | Ginnell Browner |
-| 371 | 584 | Eckoman518 |
-| 372 | 584 | Kimberly Randesi |
+| 371 | 584 | Kimberly Randesi |
+| 372 | 584 | Eckoman518 |
 | 373 | 583 | Jackie Avila |
 | 374 | 581 | Jerry Tempelmeyer |
 | 375 | 581 | Tj Ball |
@@ -391,8 +391,8 @@
 | 383 | 563 | Irene Jones |
 | 384 | 561 | Traci Johnson |
 | 385 | 560 | Phil J. Grombliniak |
-| 386 | 558 | Libby Hicks |
-| 387 | 558 | Mikayala Szaz |
+| 386 | 558 | Mikayala Szaz |
+| 387 | 558 | Libby Hicks |
 | 388 | 556 | Slip |
 | 389 | 554 | Santana Miyagi |
 | 390 | 554 | Rachael Senard |
@@ -468,9 +468,9 @@
 | 460 | 495 | Bubbly Snapbuild |
 | 461 | 494 | Venita Ray |
 | 462 | 492 | Maya June |
-| 463 | 492 | Armonie Smith |
-| 464 | 492 | Breezy Clusterer |
-| 465 | 491 | Jedi |
+| 463 | 492 | Breezy Clusterer |
+| 464 | 492 | Armonie Smith |
+| 465 | 491 | Michael Buckner |
 | 466 | 491 | Victor Obiakarije |
 | 467 | 491 | Jedi |
 | 468 | 490 | Jackie Lucas |
@@ -554,8 +554,8 @@
 | 546 | 428 | Shyenn Gadsby |
 | 547 | 428 | Arkei Luster |
 | 548 | 427 | Alexandra Weir |
-| 549 | 427 | Sabrina Burton |
-| 550 | 427 | Destiny Cozier |
+| 549 | 427 | Destiny Cozier |
+| 550 | 427 | Sabrina Burton |
 | 551 | 426 | Ashley Dow |
 | 552 | 424 | Lina Sanders |
 | 553 | 424 | Saucy Fitzone |
@@ -625,8 +625,8 @@
 | 617 | 384 | Kelly |
 | 618 | 384 | Party d |
 | 619 | 383 | Jessica Conaway |
-| 620 | 382 | Lively Edgepiece |
-| 621 | 382 | David Holliday |
+| 620 | 382 | David Holliday |
+| 621 | 382 | Lively Edgepiece |
 | 622 | 382 | Amber Gray |
 | 623 | 382 | James Zaragoza |
 | 624 | 381 | Nicky Jackson |
