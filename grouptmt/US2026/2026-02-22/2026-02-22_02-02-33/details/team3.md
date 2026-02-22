@@ -78,9 +78,9 @@
 | 70 | 604 | Danielle Becker |
 | 71 | 596 | Jessica Bechler |
 | 72 | 588 | yoyo |
-| 73 | 582 | Jay Horn |
-| 74 | 582 | Natasha Jones |
-| 75 | 582 | Katrina Schroeder |
+| 73 | 582 | Katrina Schroeder |
+| 74 | 582 | Jay Horn |
+| 75 | 582 | Natasha Jones |
 | 76 | 581 | Danielle Mogg |
 | 77 | 580 | Amanda L Baker |
 | 78 | 577 | Speedy Bridger |
@@ -115,10 +115,10 @@
 | 107 | 430 | Patricia White |
 | 108 | 428 | Betty Ivy |
 | 109 | 428 | Elissa S-k |
-| 110 | 416 | Jennifer Lynn Fahrenholtz-Summers |
-| 111 | 416 | Mary Pellegrino |
-| 112 | 410 | Stephanie Blkpep Davidson |
-| 113 | 410 | Stephanie Simpson |
+| 110 | 416 | Mary Pellegrino |
+| 111 | 416 | Jennifer Lynn Fahrenholtz-Summers |
+| 112 | 410 | Stephanie Simpson |
+| 113 | 410 | Stephanie Blkpep Davidson |
 | 114 | 405 | Michelle |
 | 115 | 403 | FuzzyNavel |
 | 116 | 403 | Christine Filson |
@@ -264,11 +264,11 @@
 | 256 | 178 | Sarajane Lokan |
 | 257 | 177 | Saucy Buildout |
 | 258 | 176 | Beth Ingham |
-| 259 | 174 | Jennifer Alvey |
-| 260 | 174 | Marquita Sheard |
+| 259 | 174 | Marquita Sheard |
+| 260 | 174 | Jennifer Alvey |
 | 261 | 174 | Lesley Perez |
-| 262 | 173 | BŘŰŤİÇŨŚ |
-| 263 | 173 | Denita Mungro |
+| 262 | 173 | Denita Mungro |
+| 263 | 173 | BŘŰŤİÇŨŚ |
 | 264 | 171 | Emma |
 | 265 | 170 | Dee Franklin |
 | 266 | 170 | Cesar Barraza |
@@ -361,11 +361,11 @@
 | 353 | 127 | Jumpy Wrecker |
 | 354 | 126 | Stella |
 | 355 | 126 | Crystal Martin |
-| 356 | 125 | Andrew Thorson |
-| 357 | 125 | Shimika Enay Wallace |
-| 358 | 125 | Felicia Doxey |
-| 359 | 124 | gremicx |
-| 360 | 124 | Tipsy Puzzle |
+| 356 | 125 | Felicia Doxey |
+| 357 | 125 | Andrew Thorson |
+| 358 | 125 | Shimika Enay Wallace |
+| 359 | 124 | Tipsy Puzzle |
+| 360 | 124 | gremicx |
 | 361 | 123 | Michael Latasha Gray |
 | 362 | 122 | Amber Groover Taylor |
 | 363 | 122 | BabyTonj Evans |

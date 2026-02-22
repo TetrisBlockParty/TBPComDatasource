@@ -122,11 +122,11 @@
 | 114 | 252 | Dena Kayy |
 | 115 | 249 | Elaine Elaine |
 | 116 | 244 | Franswa |
-| 117 | 243 | Chelsea Dahlquist |
-| 118 | 243 | Trippy Redd |
+| 117 | 243 | Trippy Redd |
+| 118 | 243 | Chelsea Dahlquist |
 | 119 | 241 | John J. Cronin |
-| 120 | 240 | Tana |
-| 121 | 240 | Lexuriuos Lifestlye |
+| 120 | 240 | Lexuriuos Lifestlye |
+| 121 | 240 | Tana |
 | 122 | 236 | Mandyy Rae |
 | 123 | 230 | Billie Dawn Sparks |
 | 124 | 230 | Frothy Pattern |

@@ -135,8 +135,8 @@
 | 127 | 217 | loulou |
 | 128 | 215 | Jessica Bohlken |
 | 129 | 214 | Monica Daley |
-| 130 | 212 | Calvin Cannon |
-| 131 | 212 | Mike Solo |
+| 130 | 212 | Mike Solo |
+| 131 | 212 | Calvin Cannon |
 | 132 | 211 | Twisty Cascadezone |
 | 133 | 210 | Swanky Fitline |
 | 134 | 207 | Scott Jameson |
@@ -226,8 +226,8 @@
 | 218 | 132 | Orchislactea |
 | 219 | 131 | Vanessa Smart |
 | 220 | 131 | Michelle Morris |
-| 221 | 130 | Shukee Lo |
-| 222 | 130 | Nerdy Twisterfit |
+| 221 | 130 | Nerdy Twisterfit |
+| 222 | 130 | Shukee Lo |
 | 223 | 130 | Ultramarine |
 | 224 | 129 | Dreamy Snapgrid |
 | 225 | 129 | Sherri |
@@ -322,7 +322,7 @@
 | 314 | 95 | Tina Martinez |
 | 315 | 94 | Red |
 | 316 | 94 | DonMega |
-| 317 | 93 | JPW |
+| 317 | 93 | No Strings Attached Ra |
 | 318 | 93 | Matt Gooder |
 | 319 | 93 | JPW |
 | 320 | 92 | Bigeddie |
