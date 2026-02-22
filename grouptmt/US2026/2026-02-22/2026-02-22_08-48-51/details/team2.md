@@ -170,8 +170,8 @@
 | 162 | 1048 | PsychKIRAtrist |
 | 163 | 1047 | Amy Sayers |
 | 164 | 1045 | Lourisha |
-| 165 | 1043 | Suki Kaur |
-| 166 | 1043 | Brave Dropmatch |
+| 165 | 1043 | Brave Dropmatch |
+| 166 | 1043 | Suki Kaur |
 | 167 | 1035 | Sarah Freitas |
 | 168 | 1026 | Heather Westrum |
 | 169 | 1023 | Brainy Smurf |
@@ -204,8 +204,8 @@
 | 196 | 919 | Isaac Trappiel IV |
 | 197 | 916 | Butta |
 | 198 | 915 | Kelly Trent |
-| 199 | 910 | Crystal Hoffman |
-| 200 | 910 | Shuany Arias |
+| 199 | 910 | Shuany Arias |
+| 200 | 910 | Crystal Hoffman |
 | 201 | 907 | Gene Mills |
 | 202 | 901 | Jennifer Peachey |
 | 203 | 892 | Auntie B |
@@ -254,8 +254,8 @@
 | 246 | 766 | Lisa Ongtowasruk |
 | 247 | 765 | Jodi Blake |
 | 248 | 764 | Pacynthia Williams |
-| 249 | 763 | Mischelle Clay |
-| 250 | 763 | Samantha Jo |
+| 249 | 763 | Samantha Jo |
+| 250 | 763 | Mischelle Clay |
 | 251 | 763 | Beth |
 | 252 | 759 | Desire Rice |
 | 253 | 756 | Stephanie Neuburger |
@@ -381,14 +381,14 @@
 | 373 | 527 | Ryan Gunther |
 | 374 | 527 | Julie Kresal |
 | 375 | 527 | Heather Causey |
-| 376 | 526 | Emily Lyric Converse |
-| 377 | 526 | Sheronda Jackson |
+| 376 | 526 | Sheronda Jackson |
+| 377 | 526 | Emily Lyric Converse |
 | 378 | 525 | Desiree Anderson |
 | 379 | 524 | Jojo Momma |
 | 380 | 524 | Shaun Church |
 | 381 | 523 | Matt Johnson |
-| 382 | 522 | Lylymom |
-| 383 | 522 | Joseph Musick |
+| 382 | 522 | Joseph Musick |
+| 383 | 522 | Lylymom |
 | 384 | 521 | Tj Ball |
 | 385 | 520 | Maddy Petersen |
 | 386 | 520 | Angela Lynn |
@@ -482,8 +482,8 @@
 | 474 | 444 | Chab |
 | 475 | 442 | Leah |
 | 476 | 441 | Christina Wsn |
-| 477 | 440 | Liberty |
-| 478 | 440 | Sarah Berger |
+| 477 | 440 | Sarah Berger |
+| 478 | 440 | Liberty |
 | 479 | 438 | Johnny Yeates |
 | 480 | 437 | Bubbly Snapfit |
 | 481 | 436 | Niceday |
@@ -521,11 +521,11 @@
 | 513 | 414 | Sabrina Burton |
 | 514 | 414 | John |
 | 515 | 413 | Juanita Lyons |
-| 516 | 413 | Lauren Fitzgerald Thomas |
-| 517 | 413 | Fancy Twister |
+| 516 | 413 | Fancy Twister |
+| 517 | 413 | Lauren Fitzgerald Thomas |
 | 518 | 413 | Biggest thing |
-| 519 | 411 | Kristen O'Neal |
-| 520 | 411 | Mighty Spinbuilder |
+| 519 | 411 | Mighty Spinbuilder |
+| 520 | 411 | Kristen O'Neal |
 | 521 | 410 | Tara Lynn Janes |
 | 522 | 410 | Nicole Cannon |
 | 523 | 408 | Brandon Jones |
@@ -604,8 +604,8 @@
 | 596 | 371 | AkaLefty |
 | 597 | 371 | Giggy Grabber |
 | 598 | 369 | Juan Castillo |
-| 599 | 369 | Tony Lea |
-| 600 | 369 | RaeVan Worthington |
+| 599 | 369 | RaeVan Worthington |
+| 600 | 369 | Tony Lea |
 | 601 | 368 | Angi Harrison |
 | 602 | 367 | Jessica Lamb |
 | 603 | 367 | Connie Lepore-Mann |
@@ -618,8 +618,8 @@
 | 610 | 365 | Susan Arnburg |
 | 611 | 364 | Shinette Dobson |
 | 612 | 363 | Michelle Sager |
-| 613 | 363 | Kia Humphery |
-| 614 | 363 | Jes Norris |
+| 613 | 363 | Jes Norris |
+| 614 | 363 | Kia Humphery |
 | 615 | 363 | Stephanie Fortune |
 | 616 | 362 | Andrea Maher |
 | 617 | 362 | Tracy Wise |
@@ -635,8 +635,8 @@
 | 627 | 357 | Tristan Szolek |
 | 628 | 355 | Amanda Perez |
 | 629 | 355 | Steve Man |
-| 630 | 354 | Rickey Johnson |
-| 631 | 354 | Rachel Kaminski |
+| 630 | 354 | Rachel Kaminski |
+| 631 | 354 | Rickey Johnson |
 | 632 | 352 | Rose Fx |
 | 633 | 352 | Jean FU Jagielski |
 | 634 | 352 | ruth |
@@ -666,8 +666,8 @@
 | 658 | 337 | Sassy Pattern |
 | 659 | 337 | Tum |
 | 660 | 337 | Savannah Alexander |
-| 661 | 336 | bru |
-| 662 | 336 | Austin Wilson |
+| 661 | 336 | Austin Wilson |
+| 662 | 336 | bru |
 | 663 | 336 | Swanky Columnbuilder |
 | 664 | 335 | Brooke Leigh Strube |
 | 665 | 335 | Maria Louise |
@@ -727,8 +727,8 @@
 | 719 | 308 | Hyper Riseclear |
 | 720 | 308 | Claire |
 | 721 | 307 | Danielle Ayoub |
-| 722 | 307 | Peachy Blockbuilder |
-| 723 | 307 | stacey |
+| 722 | 307 | stacey |
+| 723 | 307 | Peachy Blockbuilder |
 | 724 | 306 | Kiorah Blaze |
 | 725 | 305 | MamaBear11 |
 | 726 | 305 | Zany Clusterbuilder |
@@ -778,10 +778,10 @@
 | 770 | 284 | Hillary Franklin |
 | 771 | 282 | Nutty Slice |
 | 772 | 281 | Anthony |
-| 773 | 280 | Danielle DeLozier Plesec |
-| 774 | 280 | Reece Smith |
-| 775 | 280 | Belle |
-| 776 | 280 | Sandra Link-Gable |
+| 773 | 280 | Reece Smith |
+| 774 | 280 | Danielle DeLozier Plesec |
+| 775 | 280 | Sandra Link-Gable |
+| 776 | 280 | Belle |
 | 777 | 280 | Luke Califf |
 | 778 | 279 | Laura Wyatt |
 | 779 | 279 | Loony Basepiece |
@@ -1083,8 +1083,8 @@
 | 1075 | 206 | Tristan Lamothe |
 | 1076 | 206 | Antonia Pike |
 | 1077 | 205 | SafetyEyes16 |
-| 1078 | 205 | Ashley McCarthy-Arnone |
-| 1079 | 205 | Shay Moore |
+| 1078 | 205 | Shay Moore |
+| 1079 | 205 | Ashley McCarthy-Arnone |
 | 1080 | 205 | Tiffney Wroten |
 | 1081 | 205 | Desiree Hargrove Moore |
 | 1082 | 204 | Lakeela Wise |

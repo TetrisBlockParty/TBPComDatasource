@@ -99,8 +99,8 @@
 | 91 | 407 | Leslie Thomas |
 | 92 | 404 | Courtney Cicoria |
 | 93 | 401 | Zippy Gridlock |
-| 94 | 396 | Amy Suckarieh |
-| 95 | 396 | Alicia Bass |
+| 94 | 396 | Alicia Bass |
+| 95 | 396 | Amy Suckarieh |
 | 96 | 392 | Ericca Eldridge |
 | 97 | 391 | Ramel Rhodes |
 | 98 | 390 | Carlton Unfiltered |
@@ -221,8 +221,8 @@
 | 213 | 165 | James Hurley Jr. |
 | 214 | 164 | 030Synner |
 | 215 | 163 | Kristina Black |
-| 216 | 162 | John Brunetti |
-| 217 | 162 | Joanna |
+| 216 | 162 | Joanna |
+| 217 | 162 | John Brunetti |
 | 218 | 161 | Jenny Wells-Oakley |
 | 219 | 160 | Brittany Marsh |
 | 220 | 160 | Carlos Ramirez |

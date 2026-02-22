@@ -220,8 +220,8 @@
 | 212 | 180 | Erez Yosef |
 | 213 | 180 | BigWeenie69 |
 | 214 | 179 | femmefatale |
-| 215 | 179 | Erin Rosberg |
-| 216 | 179 | Danielle Little-Daugherty |
+| 215 | 179 | Danielle Little-Daugherty |
+| 216 | 179 | Erin Rosberg |
 | 217 | 178 | Chad Atchley |
 | 218 | 177 | Beau Galvan |
 | 219 | 177 | Perky Shiftsnap |
