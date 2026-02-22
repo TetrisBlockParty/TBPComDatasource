@@ -63,8 +63,8 @@
 | 55 | 517 | Jen Sartain |
 | 56 | 510 | Colena Davenport |
 | 57 | 495 | Sevens4L |
-| 58 | 493 | Robert Benito |
-| 59 | 493 | Katie Daniels |
+| 58 | 493 | Katie Daniels |
+| 59 | 493 | Robert Benito |
 | 60 | 491 | Sarah Lombardo |
 | 61 | 483 | Ryan Lunnin |
 | 62 | 476 | Cartier |
@@ -85,8 +85,8 @@
 | 77 | 400 | Cynthia Bradley |
 | 78 | 390 | Candy Jones |
 | 79 | 389 | Trina Gee |
-| 80 | 388 | cc |
-| 81 | 388 | Jennifer ManWarren |
+| 80 | 388 | Jennifer ManWarren |
+| 81 | 388 | cc |
 | 82 | 382 | Jacqueline Williams |
 | 83 | 379 | Austin James |
 | 84 | 379 | Kimmie Kimms |
@@ -97,8 +97,8 @@
 | 89 | 359 | Nerdy Linkblock |
 | 90 | 355 | Hasbro Bros |
 | 91 | 350 | Tipsy Strikerpiece |
-| 92 | 347 | pjbeta |
-| 93 | 347 | june october |
+| 92 | 347 | june october |
+| 93 | 347 | pjbeta |
 | 94 | 345 | Dee Perry |
 | 95 | 344 | lil mickey |
 | 96 | 342 | Brenda Stewart |
@@ -114,9 +114,9 @@
 | 106 | 319 | Deanna L Hermanson |
 | 107 | 319 | Patrick Luckenbill |
 | 108 | 313 | Tanya Carpenter-Reynolds |
-| 109 | 310 | Jason Jones |
-| 110 | 310 | phrmblk24 |
-| 111 | 310 | Seth Wesson |
+| 109 | 310 | Seth Wesson |
+| 110 | 310 | Jason Jones |
+| 111 | 310 | phrmblk24 |
 | 112 | 306 | Happy Basegrid |
 | 113 | 304 | Nicole Roseberry Weber |
 | 114 | 301 | Lehrin Maria |

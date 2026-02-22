@@ -47,8 +47,8 @@
 | 39 | 757 | Ancient Intuition |
 | 40 | 736 | Goatimus Lombardi |
 | 41 | 734 | BertMofo |
-| 42 | 707 | Rachel Anne |
-| 43 | 707 | Clarence Patawaran |
+| 42 | 707 | Clarence Patawaran |
+| 43 | 707 | Rachel Anne |
 | 44 | 704 | Crystal Carroll |
 | 45 | 697 | Edward White |
 | 46 | 695 | LisaJo Picken Buchanan |
@@ -91,8 +91,8 @@
 | 83 | 409 | Isabella Blanco |
 | 84 | 405 | Shane Kalamata Platoon |
 | 85 | 404 | Courtney Cicoria |
-| 86 | 396 | Alicia Bass |
-| 87 | 396 | Amy Suckarieh |
+| 86 | 396 | Amy Suckarieh |
+| 87 | 396 | Alicia Bass |
 | 88 | 392 | Ericca Eldridge |
 | 89 | 391 | Ramel Rhodes |
 | 90 | 390 | Carlton Unfiltered |
@@ -153,9 +153,9 @@
 | 145 | 230 | Autum Leigh |
 | 146 | 230 | Cursed Hag |
 | 147 | 228 | J-Rizzle |
-| 148 | 227 | Swanky Fitline |
-| 149 | 227 | Chris Bernstein |
-| 150 | 227 | Alyssa Papen |
+| 148 | 227 | Alyssa Papen |
+| 149 | 227 | Swanky Fitline |
+| 150 | 227 | Chris Bernstein |
 | 151 | 225 | Damn Libra |
 | 152 | 224 | Matt Summer |
 | 153 | 223 | Kris Bartlett |
@@ -209,8 +209,8 @@
 | 201 | 172 | Gilles Lanctot |
 | 202 | 171 | Autumn Kumzi |
 | 203 | 167 | Cozy Balancer |
-| 204 | 166 | Marvin Lou Martin |
-| 205 | 166 | SammieJo Guy |
+| 204 | 166 | SammieJo Guy |
+| 205 | 166 | Marvin Lou Martin |
 | 206 | 165 | James Hurley Jr. |
 | 207 | 165 | Jackie Marie |
 | 208 | 164 | 030Synner |
