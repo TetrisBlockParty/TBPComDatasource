@@ -412,8 +412,8 @@
 | 404 | 664 | Kayla |
 | 405 | 664 | Sleepypanda67 |
 | 406 | 663 | Kimmy Newman |
-| 407 | 662 | Ellie Jonas |
-| 408 | 662 | AgileDragon |
+| 407 | 662 | AgileDragon |
+| 408 | 662 | Ellie Jonas |
 | 409 | 661 | Christine Bollig |
 | 410 | 659 | Victoria Moore-Smith |
 | 411 | 653 | trabuco |
@@ -449,8 +449,8 @@
 | 441 | 613 | Lylymom |
 | 442 | 611 | Biggest thing |
 | 443 | 605 | Santana Miyagi |
-| 444 | 603 | Casper The Chonk |
-| 445 | 603 | Véronique Lévesque Sabourin |
+| 444 | 603 | Véronique Lévesque Sabourin |
+| 445 | 603 | Casper The Chonk |
 | 446 | 602 | Shaun Church |
 | 447 | 602 | KhaosLord |
 | 448 | 601 | Moua Ying |
@@ -480,8 +480,8 @@
 | 472 | 571 | Julie Kresal |
 | 473 | 571 | Emily Lyric Converse |
 | 474 | 570 | Lonne Emade |
-| 475 | 569 | Vaniel Glover |
-| 476 | 569 | Joseph Musick |
+| 475 | 569 | Joseph Musick |
+| 476 | 569 | Vaniel Glover |
 | 477 | 569 | Sparkles |
 | 478 | 569 | Ben Barkley |
 | 479 | 567 | Snappy Matchbuilder |
@@ -496,8 +496,8 @@
 | 488 | 558 | Libby Hicks |
 | 489 | 558 | Cheery Matchzone |
 | 490 | 557 | Victor Obiakarije |
-| 491 | 554 | Tra Barnum |
-| 492 | 554 | Laquetta Royston |
+| 491 | 554 | Laquetta Royston |
+| 492 | 554 | Tra Barnum |
 | 493 | 554 | Rachael Senard |
 | 494 | 554 | Jennifer Aiken |
 | 495 | 554 | Dizzy Zone |
@@ -642,8 +642,8 @@
 | 634 | 444 | Fi Ne |
 | 635 | 444 | Chab |
 | 636 | 443 | Christina Ashley |
-| 637 | 442 | Niceday |
-| 638 | 442 | Juan Castillo |
+| 637 | 442 | Juan Castillo |
+| 638 | 442 | Niceday |
 | 639 | 438 | Crystal Heller Gonzalez |
 | 640 | 438 | Lynda Toland |
 | 641 | 436 | Angela Murgia-Owen |

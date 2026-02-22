@@ -115,8 +115,8 @@
 | 107 | 712 | Katrina Schroeder |
 | 108 | 704 | Suzieq |
 | 109 | 699 | Marcie Bressler |
-| 110 | 696 | Speedy Bridger |
-| 111 | 696 | Christine Niles |
+| 110 | 696 | Christine Niles |
+| 111 | 696 | Speedy Bridger |
 | 112 | 694 | joclisa |
 | 113 | 693 | Hasty Cascadefit |
 | 114 | 674 | Patty Allen |
@@ -175,8 +175,8 @@
 | 167 | 471 | Rachel |
 | 168 | 471 | Mendoza Lee Christy |
 | 169 | 470 | Logan Naccarato |
-| 170 | 469 | Adrian Marcel Pate |
-| 171 | 469 | Melissa Orth Hunter |
+| 170 | 469 | Melissa Orth Hunter |
+| 171 | 469 | Adrian Marcel Pate |
 | 172 | 468 | Betty Ivy |
 | 173 | 464 | Makelini Mausia |
 | 174 | 464 | Michelle |
