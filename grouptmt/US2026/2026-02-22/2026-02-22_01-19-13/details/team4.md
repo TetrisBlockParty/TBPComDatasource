@@ -109,8 +109,8 @@
 | 101 | 273 | Carrie Brian |
 | 102 | 271 | Sarah Brown |
 | 103 | 268 | Meagan Nicole |
-| 104 | 264 | Girl |
-| 105 | 264 | Epic Curvetile |
+| 104 | 264 | Epic Curvetile |
+| 105 | 264 | Girl |
 | 106 | 258 | Brittney Orengo |
 | 107 | 257 | Holly Jolly |
 | 108 | 256 | Mylo Lipscomb |
@@ -140,8 +140,8 @@
 | 132 | 201 | Melvin Baird |
 | 133 | 199 | Mary Ann Pabukis |
 | 134 | 197 | Peachy Fall |
-| 135 | 196 | Jeff Brian Gates |
-| 136 | 196 | Jenna McGeorge |
+| 135 | 196 | Jenna McGeorge |
+| 136 | 196 | Jeff Brian Gates |
 | 137 | 194 | Zany Twisterfit |
 | 138 | 192 | Shauna Havard |
 | 139 | 190 | Justin Hannigan |
@@ -253,8 +253,8 @@
 | 245 | 115 | Jayk |
 | 246 | 115 | Maureen Flanigan |
 | 247 | 115 | Alexandra Karavias |
-| 248 | 114 | Circuit8 |
-| 249 | 114 | Joshua Cuellar |
+| 248 | 114 | Joshua Cuellar |
+| 249 | 114 | Circuit8 |
 | 250 | 114 | PennyCandee |
 | 251 | 113 | Dandy Cascadefit |
 | 252 | 113 | Adam Randall |

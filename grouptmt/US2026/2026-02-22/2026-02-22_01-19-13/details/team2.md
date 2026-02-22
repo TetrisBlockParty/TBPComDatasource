@@ -281,8 +281,8 @@
 | 273 | 547 | Giggy Blocker |
 | 274 | 547 | Mema |
 | 275 | 544 | Leah Keesling |
-| 276 | 543 | Adira Brown |
-| 277 | 543 | Teresa Gillmore |
+| 276 | 543 | Teresa Gillmore |
+| 277 | 543 | Adira Brown |
 | 278 | 542 | Slip |
 | 279 | 535 | Paul Huber |
 | 280 | 535 | Jessie McDougald |
@@ -338,17 +338,17 @@
 | 330 | 465 | Blacc Blac |
 | 331 | 463 | Sue Leard |
 | 332 | 460 | Cody Smith-Candelaria |
-| 333 | 459 | Doowop40 |
-| 334 | 459 | Brainy Smurf |
+| 333 | 459 | Brainy Smurf |
+| 334 | 459 | Doowop40 |
 | 335 | 458 | Casper The Chonk |
 | 336 | 454 | Nashu |
 | 337 | 454 | Casey Schumacher |
 | 338 | 453 | Rhonda Petro |
 | 339 | 453 | Joshua Sommerville |
 | 340 | 452 | Alezandra Smith |
-| 341 | 451 | Funky Caster |
-| 342 | 451 | Melissa Kay Gibson |
-| 343 | 451 | Daphne Jordan |
+| 341 | 451 | Melissa Kay Gibson |
+| 342 | 451 | Daphne Jordan |
+| 343 | 451 | Funky Caster |
 | 344 | 451 | Cody Nishimura |
 | 345 | 451 | Dylan Thomason |
 | 346 | 449 | Davetta Sanford |

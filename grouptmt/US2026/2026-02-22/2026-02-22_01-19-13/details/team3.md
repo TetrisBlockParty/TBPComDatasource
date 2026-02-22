@@ -75,9 +75,9 @@
 | 67 | 604 | Danielle Becker |
 | 68 | 591 | Suzieq |
 | 69 | 588 | yoyo |
-| 70 | 582 | Jay Horn |
+| 70 | 582 | Natasha Jones |
 | 71 | 582 | Katrina Schroeder |
-| 72 | 582 | Natasha Jones |
+| 72 | 582 | Jay Horn |
 | 73 | 581 | Danielle Mogg |
 | 74 | 580 | Amanda L Baker |
 | 75 | 576 | Dan Rob |
@@ -118,8 +118,8 @@
 | 110 | 400 | Luciana Braganca Vieira |
 | 111 | 399 | Mcathen |
 | 112 | 396 | Shannon Matthew Byers |
-| 113 | 394 | joclisa |
-| 114 | 394 | Annie Déè |
+| 113 | 394 | Annie Déè |
+| 114 | 394 | joclisa |
 | 115 | 392 | Michelle |
 | 116 | 391 | Calista Jo Dickson |
 | 117 | 390 | Patti Skiles |
@@ -131,8 +131,8 @@
 | 123 | 378 | Makelini Mausia |
 | 124 | 378 | Tasha Schriewer |
 | 125 | 374 | Loopy Clusterer |
-| 126 | 368 | Stephanie Woods |
-| 127 | 368 | Stephanie Blkpep Davidson |
+| 126 | 368 | Stephanie Blkpep Davidson |
+| 127 | 368 | Stephanie Woods |
 | 128 | 367 | mjl574 |
 | 129 | 366 | Adrian Marcel Pate |
 | 130 | 365 | Logan Naccarato |
@@ -391,8 +391,8 @@
 | 383 | 113 | Gideon Walker |
 | 384 | 112 | Shanon R Jackson |
 | 385 | 112 | Tia Moore |
-| 386 | 111 | Stephanie Zahm |
-| 387 | 111 | Leticia Lynn Lowe |
+| 386 | 111 | Leticia Lynn Lowe |
+| 387 | 111 | Stephanie Zahm |
 | 388 | 110 | Danielle Weikel |
 | 389 | 110 | Tracey Cox |
 | 390 | 109 | Ashley Rufus Bythcez |

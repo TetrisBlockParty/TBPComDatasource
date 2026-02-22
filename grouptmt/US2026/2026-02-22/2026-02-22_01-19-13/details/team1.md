@@ -89,8 +89,8 @@
 | 81 | 323 | Candy Jones |
 | 82 | 323 | Sweet Baker |
 | 83 | 321 | Maria C. Hernandez |
-| 84 | 319 | Shauna Loe |
-| 85 | 319 | Deanna L Hermanson |
+| 84 | 319 | Deanna L Hermanson |
+| 85 | 319 | Shauna Loe |
 | 86 | 311 | Tanya Carpenter-Reynolds |
 | 87 | 310 | Seth Wesson |
 | 88 | 305 | Patrick Luckenbill |
@@ -136,11 +136,11 @@
 | 128 | 211 | Marianita Garcia |
 | 129 | 208 | Giggly Builderline |
 | 130 | 207 | Leslie Bush Yarbrough |
-| 131 | 203 | GATOR |
-| 132 | 203 | Paula Martin |
+| 131 | 203 | Paula Martin |
+| 132 | 203 | GATOR |
 | 133 | 199 | Jennifer Hardman |
-| 134 | 198 | Happy Snapbuild |
-| 135 | 198 | Shiny Gridmatch |
+| 134 | 198 | Shiny Gridmatch |
+| 135 | 198 | Happy Snapbuild |
 | 136 | 195 | Daring Fitclear |
 | 137 | 194 | Tyler Werts |
 | 138 | 194 | Ash Galvan |
@@ -281,7 +281,7 @@
 | 273 | 105 | Brad MG |
 | 274 | 105 | Dizzy Riseclear |
 | 275 | 105 | J.F. Fields |
-| 276 | 104 | DoodleBug |
+| 276 | 104 | Charla Pross-Fugleberg |
 | 277 | 104 | Serina Marie |
 | 278 | 104 | DoodleBug |
 | 279 | 103 | Nerdy Curvebuilder |
