@@ -107,8 +107,8 @@
 | 99 | 1535 | Donnie Hunt |
 | 100 | 1534 | Loopy Clusterbuilder |
 | 101 | 1534 | Laura Marie Pelletier |
-| 102 | 1516 | Stephen Stephen |
-| 103 | 1516 | Mindy Leigh Head |
+| 102 | 1516 | Mindy Leigh Head |
+| 103 | 1516 | Stephen Stephen |
 | 104 | 1513 | Jamie Main |
 | 105 | 1507 | Linda Pierce |
 | 106 | 1495 | blackq |
@@ -432,8 +432,8 @@
 | 424 | 503 | Kimberly Randesi |
 | 425 | 502 | Sparkles |
 | 426 | 502 | Sheniya Spurgeon |
-| 427 | 500 | Sarah Ridenour |
-| 428 | 500 | Frisky Clearpiece |
+| 427 | 500 | Frisky Clearpiece |
+| 428 | 500 | Sarah Ridenour |
 | 429 | 499 | Sarah Massey |
 | 430 | 498 | Rhonda Milstead |
 | 431 | 497 | June E Hanson |
@@ -448,12 +448,12 @@
 | 440 | 489 | Cassie Mercer |
 | 441 | 489 | Osun Anuket Esu |
 | 442 | 488 | Christina Wsn |
-| 443 | 487 | Morgan Easter |
-| 444 | 487 | MrsCandyfine As Wine Truss |
+| 443 | 487 | MrsCandyfine As Wine Truss |
+| 444 | 487 | Morgan Easter |
 | 445 | 486 | Caitlin Schmid |
 | 446 | 485 | Mamachelle Eisweirth |
-| 447 | 485 | Ann Matzkanin |
-| 448 | 485 | Dapper Dasher |
+| 447 | 485 | Dapper Dasher |
+| 448 | 485 | Ann Matzkanin |
 | 449 | 484 | Brenna Ann |
 | 450 | 484 | Street Sweeper |
 | 451 | 483 | Victor Obiakarije |
@@ -529,17 +529,17 @@
 | 521 | 429 | Tabs Reichert |
 | 522 | 428 | Arkei Luster |
 | 523 | 428 | Shyenn Gadsby |
-| 524 | 427 | Quinn |
-| 525 | 427 | Destiny Cozier |
-| 526 | 427 | Aimee Campbell |
-| 527 | 427 | Kori Beth Babb |
+| 524 | 427 | Destiny Cozier |
+| 525 | 427 | Quinn |
+| 526 | 427 | Kori Beth Babb |
+| 527 | 427 | Aimee Campbell |
 | 528 | 426 | Ashley Dow |
 | 529 | 425 | Skyler Morgan |
 | 530 | 425 | Elisheva Mizrachi |
 | 531 | 424 | Lina Sanders |
 | 532 | 423 | Sam |
-| 533 | 421 | SwampRebel |
-| 534 | 421 | Vonceial Boone |
+| 533 | 421 | Vonceial Boone |
+| 534 | 421 | SwampRebel |
 | 535 | 420 | LaWanda Powell |
 | 536 | 420 | Juanita Lyons |
 | 537 | 419 | Pocho Zavala |
@@ -554,8 +554,8 @@
 | 546 | 413 | Fancy Twister |
 | 547 | 413 | Lauren Fitzgerald Thomas |
 | 548 | 412 | Jason H Baker |
-| 549 | 411 | Kristen O'Neal |
-| 550 | 411 | Mighty Spinbuilder |
+| 549 | 411 | Mighty Spinbuilder |
+| 550 | 411 | Kristen O'Neal |
 | 551 | 411 | Andrea Maher |
 | 552 | 410 | Nicole Cannon |
 | 553 | 410 | Alexandra Weir |
@@ -570,8 +570,8 @@
 | 562 | 404 | Goofy Catcher |
 | 563 | 403 | Goofy Dasher |
 | 564 | 401 | Moua Ying |
-| 565 | 401 | De Hawkins |
-| 566 | 401 | Taylor Flowers |
+| 565 | 401 | Taylor Flowers |
+| 566 | 401 | De Hawkins |
 | 567 | 400 | Joshua Self |
 | 568 | 400 | Michael Artis |
 | 569 | 400 | Tammy Allen |
@@ -627,8 +627,8 @@
 | 619 | 371 | Angi Harrison |
 | 620 | 371 | Saucy Fitzone |
 | 621 | 370 | Heather Sawtelle-Mckenzie |
-| 622 | 369 | Tony Lea |
-| 623 | 369 | RaeVan Worthington |
+| 622 | 369 | RaeVan Worthington |
+| 623 | 369 | Tony Lea |
 | 624 | 369 | Juan Castillo |
 | 625 | 367 | Connie Lepore-Mann |
 | 626 | 367 | Jessica Lamb |
@@ -723,8 +723,8 @@
 | 715 | 319 | Prado |
 | 716 | 319 | RetroLemur |
 | 717 | 318 | Jennifer Mahon |
-| 718 | 317 | Zombi3 |
-| 719 | 317 | Ashlyn Berner |
+| 718 | 317 | Ashlyn Berner |
+| 719 | 317 | Zombi3 |
 | 720 | 317 | Aireka Roman |
 | 721 | 316 | Jenn Marie |
 | 722 | 316 | Epic Spinfit |
@@ -746,8 +746,8 @@
 | 738 | 308 | Hyper Riseclear |
 | 739 | 308 | Sarah block |
 | 740 | 308 | Katie Joy McCombs |
-| 741 | 307 | stacey |
-| 742 | 307 | Peachy Blockbuilder |
+| 741 | 307 | Peachy Blockbuilder |
+| 742 | 307 | stacey |
 | 743 | 306 | Kiorah Blaze |
 | 744 | 305 | Zany Clusterbuilder |
 | 745 | 305 | MamaBear11 |
@@ -761,8 +761,8 @@
 | 753 | 302 | Kena T. Tanner |
 | 754 | 302 | Maxwell Escalera |
 | 755 | 300 | Alice Ball |
-| 756 | 300 | Warren Marleau |
-| 757 | 300 | Kacee Conrad Bock |
+| 756 | 300 | Kacee Conrad Bock |
+| 757 | 300 | Warren Marleau |
 | 758 | 299 | Cassie Newton |
 | 759 | 298 | Frilly Fallzone |
 | 760 | 298 | Lazy Riseclear |
@@ -773,8 +773,8 @@
 | 765 | 297 | Ashley Robbins |
 | 766 | 296 | Jennifer Darby |
 | 767 | 296 | Frisky Riserbuilder |
-| 768 | 296 | Zappy Dropmatch |
-| 769 | 296 | Epic Fitzone |
+| 768 | 296 | Epic Fitzone |
+| 769 | 296 | Zappy Dropmatch |
 | 770 | 295 | Noel Tarmy |
 | 771 | 294 | Christina Walker |
 | 772 | 294 | Sveta Lana |
@@ -984,8 +984,8 @@
 | 976 | 235 | Shantel Kelley |
 | 977 | 234 | Lonnie Brown |
 | 978 | 234 | Synn |
-| 979 | 234 | Trina Harrison |
-| 980 | 234 | Joanna L. Abad |
+| 979 | 234 | Joanna L. Abad |
+| 980 | 234 | Trina Harrison |
 | 981 | 234 | Jannan Haimour |
 | 982 | 233 | ItsJennifer Neriss |
 | 983 | 233 | Allison Hewitt |
@@ -1007,7 +1007,7 @@
 | 999 | 229 | Chyrisse Norton |
 | 1000 | 228 | Kandy Charmz |
 | 1001 | 228 | Dara |
-| 1002 | 228 | Asha Nichols-Collins |
+| 1002 | 228 | Yasmin Guzman |
 | 1003 | 228 | Lee |
 | 1004 | 228 | Asha Nichols-Collins |
 | 1005 | 227 | Sedo |

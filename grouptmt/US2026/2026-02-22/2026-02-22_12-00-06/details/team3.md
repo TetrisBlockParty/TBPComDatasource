@@ -108,8 +108,8 @@
 | 100 | 581 | Danielle Mogg |
 | 101 | 579 | Jd Morris |
 | 102 | 566 | Dolores Falco |
-| 103 | 565 | Rachael McClain Owens |
-| 104 | 565 | Patty Allen |
+| 103 | 565 | Patty Allen |
+| 104 | 565 | Rachael McClain Owens |
 | 105 | 562 | Dave Herzog |
 | 106 | 562 | Louise Stacy Sisson |
 | 107 | 559 | Morgan Martinez |
@@ -171,8 +171,8 @@
 | 163 | 384 | Logan Naccarato |
 | 164 | 382 | Scott Carleton |
 | 165 | 380 | Tasha Schriewer |
-| 166 | 378 | Nicole Flippo |
-| 167 | 378 | Chris Bell |
+| 166 | 378 | Chris Bell |
+| 167 | 378 | Nicole Flippo |
 | 168 | 376 | Loopy Clusterer |
 | 169 | 374 | Sherry Ogden |
 | 170 | 371 | Michael Nowogorski |
@@ -282,8 +282,8 @@
 | 274 | 225 | Steffi Chris Dacones |
 | 275 | 224 | Quirky Dropzone |
 | 276 | 221 | Vaners |
-| 277 | 221 | Alice |
-| 278 | 221 | Jaime Monhaut-Reed |
+| 277 | 221 | Jaime Monhaut-Reed |
+| 278 | 221 | Alice |
 | 279 | 220 | Tosha Griffey |
 | 280 | 220 | rosy |
 | 281 | 218 | Michael Lucado |
@@ -304,8 +304,8 @@
 | 296 | 210 | Lizabeth Fox |
 | 297 | 209 | Micayah Stevens |
 | 298 | 208 | AlsoJess |
-| 299 | 207 | Jessica |
-| 300 | 207 | Daring Builder |
+| 299 | 207 | Daring Builder |
+| 300 | 207 | Jessica |
 | 301 | 207 | angieelyn |
 | 302 | 206 | Tammy Rosenberry |
 | 303 | 206 | Tracy Martin |

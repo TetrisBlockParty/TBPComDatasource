@@ -54,8 +54,8 @@
 | 46 | 671 | Lawrence Belanger |
 | 47 | 663 | Drew Magnus |
 | 48 | 646 | Susanna Guerry |
-| 49 | 635 | Angel Fowler |
-| 50 | 635 | Marianne Louise West |
+| 49 | 635 | Marianne Louise West |
+| 50 | 635 | Angel Fowler |
 | 51 | 631 | comrade fish |
 | 52 | 627 | Katie Daniels |
 | 53 | 614 | Snappy Swiper |
@@ -194,8 +194,8 @@
 | 186 | 209 | Debbie Davis |
 | 187 | 208 | Donna Addison Williams |
 | 188 | 208 | Bouncy Grid |
-| 189 | 207 | Leslie Bush Yarbrough |
-| 190 | 207 | Brenda Alexander |
+| 189 | 207 | Brenda Alexander |
+| 190 | 207 | Leslie Bush Yarbrough |
 | 191 | 206 | BadG52 |
 | 192 | 205 | Snappy Matcher |
 | 193 | 205 | Tater |
@@ -229,8 +229,8 @@
 | 221 | 187 | Cool Towerzone |
 | 222 | 186 | Margo Wagner |
 | 223 | 184 | Chris Sigurdson |
-| 224 | 183 | Andrew Boone |
-| 225 | 183 | Amy Hess |
+| 224 | 183 | Amy Hess |
+| 225 | 183 | Andrew Boone |
 | 226 | 182 | Phu ckalldems |
 | 227 | 180 | BigWeenie69 |
 | 228 | 180 | Beau Galvan |
@@ -386,9 +386,9 @@
 | 378 | 105 | Eddie Dillon |
 | 379 | 105 | Bye Love |
 | 380 | 104 | Serina Marie |
-| 381 | 104 | Jamie Catlett |
-| 382 | 104 | Charla Pross-Fugleberg |
-| 383 | 103 | Timothy Danaher |
+| 381 | 104 | Charla Pross-Fugleberg |
+| 382 | 104 | Jamie Catlett |
+| 383 | 103 | Alex Gauthier |
 | 384 | 103 | Mariah Cornell |
 | 385 | 103 | Timothy Danaher |
 | 386 | 102 | Marie White |

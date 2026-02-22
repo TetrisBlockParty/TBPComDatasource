@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Shelly Chandler |
-| 34 | 843 | Lucille Truesdale |
+| 33 | 843 | Lucille Truesdale |
+| 34 | 843 | Shelly Chandler |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -77,8 +77,8 @@
 | 69 | 530 | Yoset Mejia |
 | 70 | 524 | Amelpss |
 | 71 | 523 | Dawn Alexander |
-| 72 | 518 | Eric Mcgaughy |
-| 73 | 518 | Carolyn Wallace |
+| 72 | 518 | Carolyn Wallace |
+| 73 | 518 | Eric Mcgaughy |
 | 74 | 517 | H.R. Block |
 | 75 | 512 | Casey Jeffcoat |
 | 76 | 511 | Michelle Marie |
@@ -168,13 +168,13 @@
 | 160 | 230 | Cursed Hag |
 | 161 | 230 | Autum Leigh |
 | 162 | 228 | J-Rizzle |
-| 163 | 227 | Alyssa Papen |
-| 164 | 227 | Swanky Fitline |
+| 163 | 227 | Swanky Fitline |
+| 164 | 227 | Alyssa Papen |
 | 165 | 224 | Matt Summer |
 | 166 | 223 | Kris Bartlett |
 | 167 | 223 | Antony Dwayne Beasley |
-| 168 | 221 | PurpleMoonMa |
-| 169 | 221 | Rheanda Weaskus |
+| 168 | 221 | Rheanda Weaskus |
+| 169 | 221 | PurpleMoonMa |
 | 170 | 220 | Matt Dell'Olio |
 | 171 | 217 | Chaz Duncan |
 | 172 | 217 | Kim Hunt |
@@ -269,8 +269,8 @@
 | 261 | 147 | Adam Stephanie Parker |
 | 262 | 147 | Jay28 |
 | 263 | 146 | Porkobello |
-| 264 | 145 | Mimi |
-| 265 | 145 | Sandra Safford |
+| 264 | 145 | Sandra Safford |
+| 265 | 145 | Mimi |
 | 266 | 144 | Sticherella |
 | 267 | 143 | Dennis Bradley |
 | 268 | 143 | Zesty Twistbuilder |
@@ -292,9 +292,9 @@
 | 284 | 141 | Joshua Cuellar |
 | 285 | 140 | Guy Incognito |
 | 286 | 140 | Cristy Duerksen |
-| 287 | 139 | Lori Goudy |
-| 288 | 139 | ChasingZen |
-| 289 | 139 | O block |
+| 287 | 139 | O block |
+| 288 | 139 | Lori Goudy |
+| 289 | 139 | ChasingZen |
 | 290 | 139 | Jose Dejesus |
 | 291 | 138 | Sarah Hoffman |
 | 292 | 138 | Brandon Link |
