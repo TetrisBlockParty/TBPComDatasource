@@ -48,9 +48,9 @@
 | 40 | 908 | Misty Hollibaugh |
 | 41 | 886 | Dustin Robert |
 | 42 | 855 | Marvin Lou Martin |
-| 43 | 846 | Lucille Truesdale |
-| 44 | 846 | Jae Job |
-| 45 | 846 | Christine Marie |
+| 43 | 846 | Christine Marie |
+| 44 | 846 | Lucille Truesdale |
+| 45 | 846 | Jae Job |
 | 46 | 843 | Shelly Chandler |
 | 47 | 839 | LisaJo Picken Buchanan |
 | 48 | 835 | TeeJ |
@@ -67,8 +67,8 @@
 | 59 | 736 | Goatimus Lombardi |
 | 60 | 735 | Avy Absol |
 | 61 | 722 | Dustee Craddock-Harrison |
-| 62 | 721 | Edward White |
-| 63 | 721 | Chilly Line |
+| 62 | 721 | Chilly Line |
+| 63 | 721 | Edward White |
 | 64 | 704 | Crystal Carroll |
 | 65 | 703 | Anthony Bryan Riva |
 | 66 | 675 | D3TROITB0RN74 |
@@ -139,13 +139,13 @@
 | 131 | 373 | Joseph Guthrie |
 | 132 | 368 | Lucas J Sutton |
 | 133 | 357 | Trista Leah |
-| 134 | 354 | Jessica Lynn Cutlip |
-| 135 | 354 | Kesha Brady |
+| 134 | 354 | Kesha Brady |
+| 135 | 354 | Jessica Lynn Cutlip |
 | 136 | 353 | Livvy |
 | 137 | 353 | Tyler Terrific |
 | 138 | 344 | Lush Linkfall |
-| 139 | 343 | Latisha Davis |
-| 140 | 343 | ThaEviLJeNiuZ |
+| 139 | 343 | ThaEviLJeNiuZ |
+| 140 | 343 | Latisha Davis |
 | 141 | 339 | David Lay |
 | 142 | 336 | Jessica Bohlken |
 | 143 | 334 | Guy Incognito |
@@ -189,8 +189,8 @@
 | 181 | 272 | Alan George LaRage |
 | 182 | 271 | Sarah Brown |
 | 183 | 270 | Juls |
-| 184 | 269 | Nikki Rae Gordon |
-| 185 | 269 | jim |
+| 184 | 269 | jim |
+| 185 | 269 | Nikki Rae Gordon |
 | 186 | 268 | Porkobello |
 | 187 | 268 | Mimi |
 | 188 | 267 | Holly |
@@ -203,17 +203,17 @@
 | 195 | 262 | Holly Jolly |
 | 196 | 262 | Joeliecea Cobb |
 | 197 | 261 | scott |
-| 198 | 259 | Melvin Baird |
-| 199 | 259 | Sam Bishop |
+| 198 | 259 | Sam Bishop |
+| 199 | 259 | Melvin Baird |
 | 200 | 258 | Jen Caldwell |
 | 201 | 256 | Mylo Lipscomb |
 | 202 | 255 | Sue Joyce Staats |
 | 203 | 250 | A5! |
 | 204 | 250 | Matt Dell'Olio |
-| 205 | 249 | Ak Jones |
-| 206 | 249 | Cheery Risebuilder |
-| 207 | 248 | Chirpy Basepiece |
-| 208 | 248 | Lindsey Gonzalez |
+| 205 | 249 | Cheery Risebuilder |
+| 206 | 249 | Ak Jones |
+| 207 | 248 | Lindsey Gonzalez |
+| 208 | 248 | Chirpy Basepiece |
 | 209 | 247 | Dennis Bradley |
 | 210 | 246 | Carlos Ramirez |
 | 211 | 245 | Autum Leigh |
@@ -264,16 +264,16 @@
 | 256 | 202 | Orchislactea |
 | 257 | 202 | Patron Anderson |
 | 258 | 201 | Chaz |
-| 259 | 200 | Googenheim |
-| 260 | 200 | Lori |
+| 259 | 200 | Lori |
+| 260 | 200 | Googenheim |
 | 261 | 199 | TinyLegoRose |
-| 262 | 198 | Silly SeaWeed |
-| 263 | 198 | Calvin Dennis |
+| 262 | 198 | Calvin Dennis |
+| 263 | 198 | Silly SeaWeed |
 | 264 | 198 | Angelito |
 | 265 | 197 | Gilles Lanctot |
 | 266 | 196 | Zany Shatterer |
-| 267 | 195 | 中山成巳 |
-| 268 | 195 | Snippy Puzzle |
+| 267 | 195 | Snippy Puzzle |
+| 268 | 195 | 中山成巳 |
 | 269 | 194 | Zany Twisterfit |
 | 270 | 193 | Shainne Brewer |
 | 271 | 193 | Stephme310 |

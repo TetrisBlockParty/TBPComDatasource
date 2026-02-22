@@ -163,8 +163,8 @@
 | 155 | 1300 | Tacara Cummings |
 | 156 | 1296 | Kristin Ruest |
 | 157 | 1286 | Altamirano Michael |
-| 158 | 1282 | Tanya Parsons |
-| 159 | 1282 | Ashley Rose Frederick |
+| 158 | 1282 | Ashley Rose Frederick |
+| 159 | 1282 | Tanya Parsons |
 | 160 | 1273 | Cool Rollpiece |
 | 161 | 1271 | Shandrica Lowe |
 | 162 | 1260 | Joshua Sommerville |
@@ -257,8 +257,8 @@
 | 249 | 935 | Kevin Walp |
 | 250 | 933 | Cindy Sechler Taninecz |
 | 251 | 920 | Phil J. Grombliniak |
-| 252 | 919 | Isaac Trappiel IV |
-| 253 | 919 | Joshua Mandel |
+| 252 | 919 | Joshua Mandel |
+| 253 | 919 | Isaac Trappiel IV |
 | 254 | 916 | Butta |
 | 255 | 915 | Robin Kerby |
 | 256 | 915 | Kelly Trent |
@@ -342,8 +342,8 @@
 | 334 | 746 | Kathryn Townsley |
 | 335 | 746 | Jerilyn Andrina |
 | 336 | 745 | Kiely Tomaskovich |
-| 337 | 743 | Tiara Elizabeth Baker |
-| 338 | 743 | Melissa Cole |
+| 337 | 743 | Melissa Cole |
+| 338 | 743 | Tiara Elizabeth Baker |
 | 339 | 741 | Mandi Douglas Hilt |
 | 340 | 740 | Jerry Tempelmeyer |
 | 341 | 739 | Brenda Utphall |

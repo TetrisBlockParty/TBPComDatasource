@@ -174,8 +174,8 @@
 | 166 | 296 | Madison Wicks |
 | 167 | 295 | David Lutcher |
 | 168 | 295 | Emily Adelaide Wheatley |
-| 169 | 293 | Sarah Roberts |
-| 170 | 293 | Letson Melissa |
+| 169 | 293 | Letson Melissa |
+| 170 | 293 | Sarah Roberts |
 | 171 | 289 | ALFD |
 | 172 | 283 | Franswa |
 | 173 | 282 | Angela Renea Lester |
@@ -281,8 +281,8 @@
 | 273 | 198 | Adele Rahman |
 | 274 | 198 | Happy Snapbuild |
 | 275 | 197 | Joe Coon |
-| 276 | 196 | Marci Sanders |
-| 277 | 196 | Perky Shiftsnap |
+| 276 | 196 | Perky Shiftsnap |
+| 277 | 196 | Marci Sanders |
 | 278 | 195 | Jennifer Olewnik Soborowski |
 | 279 | 194 | Glitzy Buildsnap |
 | 280 | 194 | Poppy Riserpiece |
