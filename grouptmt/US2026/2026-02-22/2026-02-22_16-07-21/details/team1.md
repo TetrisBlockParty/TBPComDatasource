@@ -77,8 +77,8 @@
 | 69 | 492 | Lola Adkhambekovna |
 | 70 | 489 | Deanna L Hermanson |
 | 71 | 485 | Cartier |
-| 72 | 483 | Ryan Lunnin |
-| 73 | 483 | MomMom |
+| 72 | 483 | MomMom |
+| 73 | 483 | Ryan Lunnin |
 | 74 | 483 | Evie Khalil |
 | 75 | 480 | Spunky Piecebuilder |
 | 76 | 480 | Nancy Green |
@@ -193,8 +193,8 @@
 | 185 | 239 | Sam Williams |
 | 186 | 237 | LaFontaine Leslie |
 | 187 | 236 | femmefatale |
-| 188 | 235 | Desiree Deschaine Havee |
-| 189 | 235 | MRdot Rooski |
+| 188 | 235 | MRdot Rooski |
+| 189 | 235 | Desiree Deschaine Havee |
 | 190 | 234 | Paula Martin |
 | 191 | 231 | Amanda Johnson Huffman |
 | 192 | 230 | Frothy Pattern |
@@ -255,8 +255,8 @@
 | 247 | 187 | Bird Person |
 | 248 | 187 | Jessica Weed |
 | 249 | 187 | Tawnya Peltonen |
-| 250 | 186 | Margo Wagner |
-| 251 | 186 | Marci Sanders |
+| 250 | 186 | Marci Sanders |
+| 251 | 186 | Margo Wagner |
 | 252 | 184 | Jerry Danowski |
 | 253 | 184 | Chris Sigurdson |
 | 254 | 183 | Amy Hess |

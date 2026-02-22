@@ -70,8 +70,8 @@
 | 62 | 908 | Alanna Rogers |
 | 63 | 903 | Sarah Fehring |
 | 64 | 900 | Nate Burnside |
-| 65 | 895 | Amanda L Baker |
-| 66 | 895 | Shonna Roberts |
+| 65 | 895 | Shonna Roberts |
+| 66 | 895 | Amanda L Baker |
 | 67 | 892 | Corie A. Brinson |
 | 68 | 882 | Susan Valentino |
 | 69 | 874 | Jessica Pineda-Lopez |
@@ -295,15 +295,15 @@
 | 287 | 241 | LaShey Thompson |
 | 288 | 240 | Jimmie Clemons |
 | 289 | 239 | Michael Johnson |
-| 290 | 236 | Lys |
-| 291 | 236 | Jess Bissett |
+| 290 | 236 | Jess Bissett |
+| 291 | 236 | Lys |
 | 292 | 236 | Angela Scott |
-| 293 | 233 | Tony Waters |
-| 294 | 233 | Josh Borquez |
+| 293 | 233 | Josh Borquez |
+| 294 | 233 | Tony Waters |
 | 295 | 232 | Donna |
 | 296 | 227 | Rebel124 |
-| 297 | 227 | Meowsa |
-| 298 | 227 | ROODBOY |
+| 297 | 227 | ROODBOY |
+| 298 | 227 | Meowsa |
 | 299 | 225 | Dirtgirl27 |
 | 300 | 225 | Stephanie Hill |
 | 301 | 225 | Steffi Chris Dacones |

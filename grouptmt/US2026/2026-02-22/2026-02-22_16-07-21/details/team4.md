@@ -43,8 +43,8 @@
 | 35 | 873 | Elizabeth Sallas |
 | 36 | 871 | Denny Shives |
 | 37 | 846 | Christine Marie |
-| 38 | 843 | Lucille Truesdale |
-| 39 | 843 | Shelly Chandler |
+| 38 | 843 | Shelly Chandler |
+| 39 | 843 | Lucille Truesdale |
 | 40 | 834 | quicksand420 |
 | 41 | 829 | LisaJo Picken Buchanan |
 | 42 | 823 | Jae Job |
@@ -131,8 +131,8 @@
 | 123 | 344 | Lush Linkfall |
 | 124 | 343 | Latisha Davis |
 | 125 | 338 | ThaEviLJeNiuZ |
-| 126 | 332 | Desi Desporte |
-| 127 | 332 | HastyGrabber |
+| 126 | 332 | HastyGrabber |
+| 127 | 332 | Desi Desporte |
 | 128 | 332 | Twisty Clicky |
 | 129 | 330 | David Lay |
 | 130 | 329 | Jessica Bohlken |
@@ -144,8 +144,8 @@
 | 136 | 318 | Lauren Scott |
 | 137 | 314 | Andy Cabral |
 | 138 | 303 | Angela Srubar-Norman |
-| 139 | 300 | Dana Scott |
-| 140 | 300 | Jason Hart |
+| 139 | 300 | Jason Hart |
+| 140 | 300 | Dana Scott |
 | 141 | 299 | TRCuse |
 | 142 | 298 | Lucas J Sutton |
 | 143 | 295 | Bio Nelly |
@@ -176,8 +176,8 @@
 | 168 | 262 | Holly Jolly |
 | 169 | 262 | Joeliecea Cobb |
 | 170 | 262 | Juls |
-| 171 | 256 | Porkobello |
-| 172 | 256 | Mylo Lipscomb |
+| 171 | 256 | Mylo Lipscomb |
+| 172 | 256 | Porkobello |
 | 173 | 255 | Diana Houts |
 | 174 | 253 | Casey Grabner |
 | 175 | 251 | Matt Summer |
