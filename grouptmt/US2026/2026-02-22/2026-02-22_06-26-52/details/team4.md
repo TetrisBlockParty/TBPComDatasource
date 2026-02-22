@@ -100,8 +100,8 @@
 | 92 | 370 | Leslie Thomas |
 | 93 | 369 | Nope Young |
 | 94 | 358 | Nugget |
-| 95 | 352 | Zippy Gridlock |
-| 96 | 352 | Monica Daley |
+| 95 | 352 | Monica Daley |
+| 96 | 352 | Zippy Gridlock |
 | 97 | 344 | Livvy |
 | 98 | 337 | Lori Walker |
 | 99 | 319 | Amanda Pauldo-Ivy |
@@ -163,11 +163,11 @@
 | 155 | 220 | Matt Dell'Olio |
 | 156 | 218 | Casey Grabner |
 | 157 | 217 | Chaz Duncan |
-| 158 | 215 | Ren Mc |
-| 159 | 215 | Jessica Bohlken |
+| 158 | 215 | Jessica Bohlken |
+| 159 | 215 | Ren Mc |
 | 160 | 214 | Twisty Cascadezone |
-| 161 | 213 | Jason Allen |
-| 162 | 213 | Sarah Neathery |
+| 161 | 213 | Sarah Neathery |
+| 162 | 213 | Jason Allen |
 | 163 | 212 | Mike Solo |
 | 164 | 212 | Calvin Cannon |
 | 165 | 211 | Jenna McGeorge |
@@ -188,8 +188,8 @@
 | 180 | 192 | Shauna Havard |
 | 181 | 191 | Klo |
 | 182 | 190 | Cheery Risebuilder |
-| 183 | 189 | Calvin Dennis |
-| 184 | 189 | Stacey Stano |
+| 183 | 189 | Stacey Stano |
+| 184 | 189 | Calvin Dennis |
 | 185 | 188 | Andria Lynn |
 | 186 | 186 | Holly |
 | 187 | 185 | Andy Cabral |

@@ -135,8 +135,8 @@
 | 127 | 280 | Jennifer Hardman |
 | 128 | 276 | Dandy Basegrid |
 | 129 | 265 | SkipTheSadSauce |
-| 130 | 264 | Jenny Gingrich Fuentes |
-| 131 | 264 | Lexuriuos Lifestlye |
+| 130 | 264 | Lexuriuos Lifestlye |
+| 131 | 264 | Jenny Gingrich Fuentes |
 | 132 | 263 | Sharon Reynolds |
 | 133 | 257 | Amanda Jarnagin |
 | 134 | 256 | David Miller |
@@ -220,7 +220,7 @@
 | 212 | 170 | Standia Civil |
 | 213 | 169 | Abbey Crespo |
 | 214 | 168 | Amber Stoker |
-| 215 | 167 | Bindi |
+| 215 | 167 | Cranky Pattern |
 | 216 | 167 | Nery Martinez |
 | 217 | 167 | Bindi |
 | 218 | 165 | Silly Align |

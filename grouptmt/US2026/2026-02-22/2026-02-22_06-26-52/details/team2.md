@@ -154,8 +154,8 @@
 | 146 | 1051 | Shandrica Lowe |
 | 147 | 1048 | PsychKIRAtrist |
 | 148 | 1047 | Amy Sayers |
-| 149 | 1043 | Brave Dropmatch |
-| 150 | 1043 | Suki Kaur |
+| 149 | 1043 | Suki Kaur |
+| 150 | 1043 | Brave Dropmatch |
 | 151 | 1035 | Sarah Freitas |
 | 152 | 1026 | Heather Westrum |
 | 153 | 1023 | Brainy Smurf |
@@ -167,8 +167,8 @@
 | 159 | 997 | Real Ri |
 | 160 | 990 | Amber Shoemaker |
 | 161 | 989 | Teddi Notyalc |
-| 162 | 988 | Maegan Beaule |
-| 163 | 988 | Mr. Street Stack |
+| 162 | 988 | Mr. Street Stack |
+| 163 | 988 | Maegan Beaule |
 | 164 | 986 | RAEPR05 |
 | 165 | 985 | Ashley House |
 | 166 | 985 | Taylor Phillips |
@@ -305,8 +305,8 @@
 | 297 | 640 | BYM4L |
 | 298 | 639 | Crystie Hicks |
 | 299 | 639 | Rebecca Miller |
-| 300 | 635 | Diana Fitzwater |
-| 301 | 635 | William Hunt |
+| 300 | 635 | William Hunt |
+| 301 | 635 | Diana Fitzwater |
 | 302 | 632 | Beth |
 | 303 | 631 | Marie Walker |
 | 304 | 629 | Sleepypanda67 |

@@ -281,8 +281,8 @@
 | 273 | 208 | AlsoJess |
 | 274 | 207 | Jessica |
 | 275 | 207 | angieelyn |
-| 276 | 206 | Tammy Rosenberry |
-| 277 | 206 | Jone |
+| 276 | 206 | Jone |
+| 277 | 206 | Tammy Rosenberry |
 | 278 | 206 | Tracy Martin |
 | 279 | 204 | Aerian Preston |
 | 280 | 203 | Angie Harper |
@@ -339,8 +339,8 @@
 | 331 | 163 | Diana Ibarra |
 | 332 | 163 | Christine Trester |
 | 333 | 162 | Nicole Summers-Nelson |
-| 334 | 162 | Stephanie Whitefield |
-| 335 | 162 | Loopy Fallzone |
+| 334 | 162 | Loopy Fallzone |
+| 335 | 162 | Stephanie Whitefield |
 | 336 | 162 | Kristin Delibac Corrigan |
 | 337 | 161 | Michael Johnson |
 | 338 | 161 | Bouncy Blockbuilder |
@@ -387,10 +387,10 @@
 | 379 | 141 | Weerae |
 | 380 | 141 | Melissa Snyder |
 | 381 | 141 | Blair Erin Waite |
-| 382 | 140 | Linda Draper |
+| 382 | 140 | Alison Baus |
 | 383 | 140 | Michell Hendershott Jackson |
-| 384 | 140 | Boldy Corner |
-| 385 | 140 | Alison Baus |
+| 384 | 140 | Linda Draper |
+| 385 | 140 | Boldy Corner |
 | 386 | 139 | Beppy |
 | 387 | 139 | Paula Little |
 | 388 | 138 | Skinny Baldez |
@@ -405,8 +405,8 @@
 | 397 | 134 | Glenn Loving |
 | 398 | 134 | Tammy |
 | 399 | 133 | Jen Lewis |
-| 400 | 132 | Andrew Thorson |
-| 401 | 132 | Hanna Kim |
+| 400 | 132 | Hanna Kim |
+| 401 | 132 | Andrew Thorson |
 | 402 | 131 | Cheeky Setter |
 | 403 | 130 | Sarah Whalen |
 | 404 | 130 | Karen Picaboo |
