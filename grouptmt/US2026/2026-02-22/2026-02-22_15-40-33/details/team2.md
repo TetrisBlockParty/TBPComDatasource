@@ -111,8 +111,8 @@
 | 103 | 1564 | Charie Holland |
 | 104 | 1535 | Donnie Hunt |
 | 105 | 1534 | Loopy Clusterbuilder |
-| 106 | 1516 | Stephen Stephen |
-| 107 | 1516 | Mindy Leigh Head |
+| 106 | 1516 | Mindy Leigh Head |
+| 107 | 1516 | Stephen Stephen |
 | 108 | 1513 | blackq |
 | 109 | 1507 | Stephanie Chapman |
 | 110 | 1507 | Linda Pierce |
@@ -141,8 +141,8 @@
 | 133 | 1317 | Alisa Lamb |
 | 134 | 1316 | Rosa Franklin |
 | 135 | 1312 | Katrina Williams Balmir |
-| 136 | 1306 | Howard Forest |
-| 137 | 1306 | Becca Widmer |
+| 136 | 1306 | Becca Widmer |
+| 137 | 1306 | Howard Forest |
 | 138 | 1300 | Tacara Cummings |
 | 139 | 1290 | Bussyiano Page |
 | 140 | 1286 | Kristin Ruest |
@@ -293,8 +293,8 @@
 | 285 | 767 | Ashley Lopez |
 | 286 | 765 | Jodi Blake |
 | 287 | 764 | Pacynthia Williams |
-| 288 | 763 | Beth |
-| 289 | 763 | Heather Causey |
+| 288 | 763 | Heather Causey |
+| 289 | 763 | Beth |
 | 290 | 761 | Hyper Cluster |
 | 291 | 760 | Danielle Simmons |
 | 292 | 759 | Jojo Momma |
@@ -334,8 +334,8 @@
 | 326 | 688 | ShinyRose |
 | 327 | 687 | Dee |
 | 328 | 686 | Ashley Guernsey-Martin |
-| 329 | 685 | Brenda Pierpoint |
-| 330 | 685 | Binyah-Binyah |
+| 329 | 685 | Binyah-Binyah |
+| 330 | 685 | Brenda Pierpoint |
 | 331 | 682 | Poldo Ilano |
 | 332 | 680 | Glitzy Stackzone |
 | 333 | 679 | Leslie Ann Carter |
@@ -350,15 +350,15 @@
 | 342 | 665 | Prette Qui |
 | 343 | 665 | Phil J. Grombliniak |
 | 344 | 664 | Sleepypanda67 |
-| 345 | 663 | Ashle Scranton |
-| 346 | 663 | Mandi Douglas Hilt |
+| 345 | 663 | Mandi Douglas Hilt |
+| 346 | 663 | Ashle Scranton |
 | 347 | 662 | Melissa Rebbe-Lehman |
-| 348 | 661 | BeQuo |
-| 349 | 661 | goofinoff |
+| 348 | 661 | goofinoff |
+| 349 | 661 | BeQuo |
 | 350 | 659 | Draizen Montrell Thomas |
 | 351 | 651 | Unica Rector |
-| 352 | 650 | Shiny Rollzone |
-| 353 | 650 | tejas25 |
+| 352 | 650 | tejas25 |
+| 353 | 650 | Shiny Rollzone |
 | 354 | 643 | Hoppy Brickmatch |
 | 355 | 640 | BYM4L |
 | 356 | 640 | Kara Gillen |
@@ -619,8 +619,8 @@
 | 611 | 399 | Oscar Bernie |
 | 612 | 398 | Heather Sawtelle-Mckenzie |
 | 613 | 396 | Boogie SoAnimated Johnson |
-| 614 | 396 | Candy Pitts |
-| 615 | 396 | AkaLefty |
+| 614 | 396 | AkaLefty |
+| 615 | 396 | Candy Pitts |
 | 616 | 393 | Deyawn Smith |
 | 617 | 393 | Jamie West |
 | 618 | 393 | Smashanator |

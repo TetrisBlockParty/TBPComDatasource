@@ -50,8 +50,8 @@
 | 42 | 823 | Jae Job |
 | 43 | 818 | Marvin Lou Martin |
 | 44 | 798 | BertMofo |
-| 45 | 775 | Rebecca Moulton Pinciaro |
-| 46 | 775 | Dee Kay |
+| 45 | 775 | Dee Kay |
+| 46 | 775 | Rebecca Moulton Pinciaro |
 | 47 | 766 | Robin Watters |
 | 48 | 757 | Ancient Intuition |
 | 49 | 740 | Robin Getchel |
@@ -62,8 +62,8 @@
 | 54 | 704 | Crystal Carroll |
 | 55 | 698 | Anthony Bryan Riva |
 | 56 | 697 | Edward White |
-| 57 | 664 | Valerie Roberts |
-| 58 | 664 | D3TROITB0RN74 |
+| 57 | 664 | D3TROITB0RN74 |
+| 58 | 664 | Valerie Roberts |
 | 59 | 659 | Jonathan Kimbrough |
 | 60 | 658 | loulou |
 | 61 | 654 | Chilly Line |
@@ -129,8 +129,8 @@
 | 121 | 353 | Tyler Terrific |
 | 122 | 344 | Livvy |
 | 123 | 343 | Latisha Davis |
-| 124 | 332 | Desi Desporte |
-| 125 | 332 | HastyGrabber |
+| 124 | 332 | HastyGrabber |
+| 125 | 332 | Desi Desporte |
 | 126 | 331 | ThaEviLJeNiuZ |
 | 127 | 330 | David Lay |
 | 128 | 330 | Twisty Clicky |
@@ -141,8 +141,8 @@
 | 133 | 323 | Daria Rycewicz |
 | 134 | 314 | Andy Cabral |
 | 135 | 303 | Lauren Scott |
-| 136 | 300 | Jason Hart |
-| 137 | 300 | Dana Scott |
+| 136 | 300 | Dana Scott |
+| 137 | 300 | Jason Hart |
 | 138 | 299 | TRCuse |
 | 139 | 298 | Lucas J Sutton |
 | 140 | 295 | Bio Nelly |
@@ -168,8 +168,8 @@
 | 160 | 268 | Cursed Hag |
 | 161 | 267 | Damn Libra |
 | 162 | 265 | Jeff Brian Gates |
-| 163 | 264 | Girl |
-| 164 | 264 | Epic Curvetile |
+| 163 | 264 | Epic Curvetile |
+| 164 | 264 | Girl |
 | 165 | 263 | Chris Bernstein |
 | 166 | 262 | Joeliecea Cobb |
 | 167 | 262 | Holly Jolly |
@@ -202,14 +202,14 @@
 | 194 | 217 | Kim Hunt |
 | 195 | 216 | ZeeZee |
 | 196 | 216 | Chance Strickland |
-| 197 | 213 | Sarah Neathery |
-| 198 | 213 | Jason Allen |
+| 197 | 213 | Jason Allen |
+| 198 | 213 | Sarah Neathery |
 | 199 | 212 | Mike Solo |
 | 200 | 212 | Joanna |
 | 201 | 211 | Jenna McGeorge |
 | 202 | 210 | Austin Owens |
-| 203 | 209 | Sam Bishop |
-| 204 | 209 | Lindsey Gonzalez |
+| 203 | 209 | Lindsey Gonzalez |
+| 204 | 209 | Sam Bishop |
 | 205 | 209 | Rafael Valentin |
 | 206 | 208 | scott |
 | 207 | 208 | Dizzy Matchzone |
@@ -250,8 +250,8 @@
 | 242 | 184 | Lauren Lamb |
 | 243 | 184 | Ak Jones |
 | 244 | 183 | JPW |
-| 245 | 181 | Jackie Marie |
-| 246 | 181 | Carter Jones |
+| 245 | 181 | Carter Jones |
+| 246 | 181 | Jackie Marie |
 | 247 | 180 | Orchislactea |
 | 248 | 179 | Christina Black |
 | 249 | 179 | Stephme310 |
@@ -350,10 +350,10 @@
 | 342 | 132 | Melissa Priest Sellers |
 | 343 | 132 | Jessica Cagle |
 | 344 | 132 | Vamp |
-| 345 | 131 | Smiley Tiltbuilder |
-| 346 | 131 | Peppy Drop |
-| 347 | 130 | Shukee Lo |
-| 348 | 130 | Zach Kerbs |
+| 345 | 131 | Peppy Drop |
+| 346 | 131 | Smiley Tiltbuilder |
+| 347 | 130 | Zach Kerbs |
+| 348 | 130 | Shukee Lo |
 | 349 | 130 | icequeenx |
 | 350 | 129 | Dreamy Snapgrid |
 | 351 | 129 | Chris Alexinas |

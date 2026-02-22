@@ -116,8 +116,8 @@
 | 108 | 568 | Rachael McClain Owens |
 | 109 | 566 | Dolores Falco |
 | 110 | 565 | Patty Allen |
-| 111 | 562 | Louise Stacy Sisson |
-| 112 | 562 | Dave Herzog |
+| 111 | 562 | Dave Herzog |
+| 112 | 562 | Louise Stacy Sisson |
 | 113 | 551 | Kristie |
 | 114 | 549 | Nicole Myers |
 | 115 | 533 | Alaina Lee |
@@ -184,8 +184,8 @@
 | 176 | 384 | Dapper Snap |
 | 177 | 382 | Scott Carleton |
 | 178 | 380 | Tasha Schriewer |
-| 179 | 378 | Chris Bell |
-| 180 | 378 | Nicole Flippo |
+| 179 | 378 | Nicole Flippo |
+| 180 | 378 | Chris Bell |
 | 181 | 376 | Loopy Clusterer |
 | 182 | 374 | Sherry Ogden |
 | 183 | 373 | Chasity |
@@ -213,8 +213,8 @@
 | 205 | 332 | Rich LeBlanc |
 | 206 | 330 | Rebecca Funderburk Kirby |
 | 207 | 330 | Danielle Balcom |
-| 208 | 324 | Sissy Lowery Davis |
-| 209 | 324 | Kristal C Lee |
+| 208 | 324 | Kristal C Lee |
+| 209 | 324 | Sissy Lowery Davis |
 | 210 | 323 | Demetrious Shaw Sr. |
 | 211 | 320 | Ashley Muncey |
 | 212 | 320 | Keis |
@@ -268,8 +268,8 @@
 | 260 | 262 | Joe-Maggie Mathews |
 | 261 | 262 | Ray Lader |
 | 262 | 261 | Tiffany Ford |
-| 263 | 260 | Grams |
-| 264 | 260 | Nikki Pags |
+| 263 | 260 | Nikki Pags |
+| 264 | 260 | Grams |
 | 265 | 259 | Danielle Weikel |
 | 266 | 257 | Ashley Jones |
 | 267 | 256 | Connie Mohler-Fair |
