@@ -48,8 +48,8 @@
 | 40 | 1036 | Ant Ant |
 | 41 | 1015 | Amber Jones |
 | 42 | 998 | Liv Whetson |
-| 43 | 989 | Kay |
-| 44 | 989 | Joey Banks |
+| 43 | 989 | Joey Banks |
+| 44 | 989 | Kay |
 | 45 | 968 | Stephanie Rice |
 | 46 | 956 | Gracie |
 | 47 | 935 | Snappy Fitzone |
@@ -111,8 +111,8 @@
 | 103 | 506 | Sashay Tapae Simpson |
 | 104 | 503 | Susan Valentino |
 | 105 | 502 | Justin Ritter |
-| 106 | 500 | Domo Washington |
-| 107 | 500 | Kristie |
+| 106 | 500 | Kristie |
+| 107 | 500 | Domo Washington |
 | 108 | 497 | Mykal Burton |
 | 109 | 492 | Daira Largen |
 | 110 | 491 | Chauntee Alfrey-Cardinale |
@@ -137,8 +137,8 @@
 | 129 | 409 | Karon Griffin |
 | 130 | 407 | Joye Sims Binion |
 | 131 | 405 | Michelle |
-| 132 | 403 | Christine Filson |
-| 133 | 403 | Scott Lindsay |
+| 132 | 403 | Scott Lindsay |
+| 133 | 403 | Christine Filson |
 | 134 | 402 | Shannon Matthew Byers |
 | 135 | 400 | Luciana Braganca Vieira |
 | 136 | 399 | Patti Skiles |
@@ -171,8 +171,8 @@
 | 163 | 347 | Nicole Flippo |
 | 164 | 343 | Ashley Raines |
 | 165 | 338 | Leah Barnett |
-| 166 | 332 | Fallorina Susana |
-| 167 | 332 | Rich LeBlanc |
+| 166 | 332 | Rich LeBlanc |
+| 167 | 332 | Fallorina Susana |
 | 168 | 325 | Giddy Twistbuilder |
 | 169 | 324 | Tom Nault |
 | 170 | 323 | Demetrious Shaw Sr. |
@@ -309,19 +309,19 @@
 | 301 | 169 | Peachy Rollfit |
 | 302 | 169 | Kristian Thurman |
 | 303 | 168 | Trice Thomas |
-| 304 | 167 | Romeo |
-| 305 | 167 | Shicken Nuggit |
+| 304 | 167 | Shicken Nuggit |
+| 305 | 167 | Romeo |
 | 306 | 166 | April Matthew Kibble |
 | 307 | 165 | Irene Arreguin |
 | 308 | 165 | Kali Kelz Williams |
 | 309 | 163 | Diana Ibarra |
-| 310 | 163 | Stephanie Hill |
-| 311 | 163 | Christine Trester |
-| 312 | 162 | Stephanie Whitefield |
-| 313 | 162 | Loopy Fallzone |
+| 310 | 163 | Christine Trester |
+| 311 | 163 | Stephanie Hill |
+| 312 | 162 | Loopy Fallzone |
+| 313 | 162 | Stephanie Whitefield |
 | 314 | 161 | Michael Johnson |
-| 315 | 161 | mzcatzy |
-| 316 | 161 | Bouncy Blockbuilder |
+| 315 | 161 | Bouncy Blockbuilder |
+| 316 | 161 | mzcatzy |
 | 317 | 160 | Rachel |
 | 318 | 160 | Ashley Lynn Marchese |
 | 319 | 159 | Joshua David Huie |
@@ -376,8 +376,8 @@
 | 368 | 137 | Giggly Brickroll |
 | 369 | 137 | Arden White Kirsch |
 | 370 | 137 | kacihall |
-| 371 | 136 | Sabrina Mansfield |
-| 372 | 136 | Bleu Sun Beams |
+| 371 | 136 | Bleu Sun Beams |
+| 372 | 136 | Sabrina Mansfield |
 | 373 | 136 | Blair Erin Waite |
 | 374 | 134 | Glenn Loving |
 | 375 | 134 | Tammy |
@@ -434,9 +434,9 @@
 | 426 | 117 | Dee Pratt |
 | 427 | 117 | Nicole Summers-Nelson |
 | 428 | 116 | Elisha L Allman |
-| 429 | 116 | Jason-Ashley Ludlow |
-| 430 | 116 | Kristin Delibac Corrigan |
-| 431 | 116 | TazB |
+| 429 | 116 | Kristin Delibac Corrigan |
+| 430 | 116 | TazB |
+| 431 | 116 | Jason-Ashley Ludlow |
 | 432 | 116 | Niki Dalrymple |
 | 433 | 115 | FATTY |
 | 434 | 115 | Alison Baus |

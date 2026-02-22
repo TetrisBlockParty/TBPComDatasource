@@ -130,8 +130,8 @@
 | 122 | 263 | Jason Jones |
 | 123 | 263 | Sharon Reynolds |
 | 124 | 256 | David Miller |
-| 125 | 252 | Elaine Elaine |
-| 126 | 252 | Dena Kayy |
+| 125 | 252 | Dena Kayy |
+| 126 | 252 | Elaine Elaine |
 | 127 | 249 | Kimmie Kimms |
 | 128 | 247 | Tana |
 | 129 | 243 | Chelsea Dahlquist |

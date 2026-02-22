@@ -50,8 +50,8 @@
 | 42 | 646 | Jacqueline Helm |
 | 43 | 634 | Anthony Bryan Riva |
 | 44 | 632 | Kimyatta Cavin |
-| 45 | 630 | Chilly Line |
-| 46 | 630 | Dustee Craddock-Harrison |
+| 45 | 630 | Dustee Craddock-Harrison |
+| 46 | 630 | Chilly Line |
 | 47 | 627 | Jonathan Kimbrough |
 | 48 | 623 | Robin Getchel |
 | 49 | 614 | KM8 |
@@ -142,8 +142,8 @@
 | 134 | 224 | Matt Summer |
 | 135 | 223 | Antony Dwayne Beasley |
 | 136 | 222 | Joeliecea Cobb |
-| 137 | 221 | Rheanda Weaskus |
-| 138 | 221 | PurpleMoonMa |
+| 137 | 221 | PurpleMoonMa |
+| 138 | 221 | Rheanda Weaskus |
 | 139 | 220 | Matt Dell'Olio |
 | 140 | 218 | Casey Grabner |
 | 141 | 217 | Swanky Fitline |
@@ -196,9 +196,9 @@
 | 188 | 165 | James Hurley Jr. |
 | 189 | 164 | 030Synner |
 | 190 | 162 | Joanna |
-| 191 | 160 | Carlos Ramirez |
-| 192 | 160 | ZeeZee |
-| 193 | 160 | Laura Hosford |
+| 191 | 160 | Laura Hosford |
+| 192 | 160 | Carlos Ramirez |
+| 193 | 160 | ZeeZee |
 | 194 | 159 | Marcus Todd |
 | 195 | 158 | Avy Absol |
 | 196 | 158 | Chair |
