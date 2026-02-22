@@ -111,8 +111,8 @@
 | 103 | 1564 | Charie Holland |
 | 104 | 1535 | Donnie Hunt |
 | 105 | 1534 | Loopy Clusterbuilder |
-| 106 | 1516 | Mindy Leigh Head |
-| 107 | 1516 | Stephen Stephen |
+| 106 | 1516 | Stephen Stephen |
+| 107 | 1516 | Mindy Leigh Head |
 | 108 | 1513 | blackq |
 | 109 | 1507 | Stephanie Chapman |
 | 110 | 1507 | Linda Pierce |
@@ -186,8 +186,8 @@
 | 178 | 1062 | Crystal Slaughter |
 | 179 | 1050 | Amy Sayers |
 | 180 | 1045 | Lourisha |
-| 181 | 1043 | Brave Dropmatch |
-| 182 | 1043 | Suki Kaur |
+| 181 | 1043 | Suki Kaur |
+| 182 | 1043 | Brave Dropmatch |
 | 183 | 1036 | Allison Lockyer |
 | 184 | 1025 | Brandy Andre |
 | 185 | 1024 | Bri Lynn |
@@ -428,8 +428,8 @@
 | 420 | 538 | Tra Barnum |
 | 421 | 536 | Melissa Kay Gibson |
 | 422 | 536 | Cassie Mercer |
-| 423 | 536 | Caitlin Schmid |
-| 424 | 536 | Shaun Church |
+| 423 | 536 | Shaun Church |
+| 424 | 536 | Caitlin Schmid |
 | 425 | 534 | Kenny Alvarado |
 | 426 | 533 | Gauri Shrotriya |
 | 427 | 532 | Lylymom |
@@ -621,8 +621,8 @@
 | 613 | 393 | Deyawn Smith |
 | 614 | 392 | Jasmine Kenney |
 | 615 | 391 | Chilly Bridgepiece |
-| 616 | 391 | Jessica Conaway |
-| 617 | 391 | Qiana Sanders |
+| 616 | 391 | Qiana Sanders |
+| 617 | 391 | Jessica Conaway |
 | 618 | 390 | Frisky Riserbuilder |
 | 619 | 390 | Joice Hansen |
 | 620 | 390 | Moist_B-hole |
@@ -664,8 +664,8 @@
 | 656 | 369 | Juan Castillo |
 | 657 | 368 | Susan Arnburg |
 | 658 | 367 | Connie Lepore-Mann |
-| 659 | 366 | Lawanda Forbes |
-| 660 | 366 | Courtney Burcham |
+| 659 | 366 | Courtney Burcham |
+| 660 | 366 | Lawanda Forbes |
 | 661 | 365 | Christina Lewis-Vickers |
 | 662 | 364 | Matthew Joseph Acevedo |
 | 663 | 364 | Shinette Dobson |
@@ -762,8 +762,8 @@
 | 754 | 320 | Peachy Blockbuilder |
 | 755 | 320 | Tash Bell |
 | 756 | 320 | Mary Boss |
-| 757 | 319 | RetroLemur |
-| 758 | 319 | Cheery Puzzler |
+| 757 | 319 | Cheery Puzzler |
+| 758 | 319 | RetroLemur |
 | 759 | 318 | Jennifer Mahon |
 | 760 | 317 | Zombi3 |
 | 761 | 317 | Ashlyn Berner |
@@ -863,8 +863,8 @@
 | 855 | 282 | Witty Piecebuilder |
 | 856 | 282 | Bec |
 | 857 | 281 | Anthony |
-| 858 | 281 | Dad |
-| 859 | 281 | Amy McManus |
+| 858 | 281 | Amy McManus |
+| 859 | 281 | Dad |
 | 860 | 281 | Michelle Ettrick |
 | 861 | 280 | Reece Smith |
 | 862 | 280 | Sandra Link-Gable |

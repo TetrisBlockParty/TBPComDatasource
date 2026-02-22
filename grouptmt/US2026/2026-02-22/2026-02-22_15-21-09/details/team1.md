@@ -149,8 +149,8 @@
 | 141 | 290 | Death |
 | 142 | 288 | GATOR |
 | 143 | 285 | Ananda Mendez |
-| 144 | 284 | Emily Adelaide Wheatley |
-| 145 | 284 | Rachael |
+| 144 | 284 | Rachael |
+| 145 | 284 | Emily Adelaide Wheatley |
 | 146 | 283 | Franswa |
 | 147 | 282 | Tyler Werts |
 | 148 | 282 | Cool Shiftsnap |
@@ -198,8 +198,8 @@
 | 190 | 229 | Chris K |
 | 191 | 226 | Kandae |
 | 192 | 224 | ParisandCory Champagne |
-| 193 | 223 | Basment Living |
-| 194 | 223 | Erez Yosef |
+| 193 | 223 | Erez Yosef |
+| 194 | 223 | Basment Living |
 | 195 | 222 | Debbie Davis |
 | 196 | 221 | Daring Fitclear |
 | 197 | 221 | Christy Jones |

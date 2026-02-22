@@ -16,8 +16,8 @@
 | 8 | 1835 | East Mamba |
 | 9 | 1775 | Ash |
 | 10 | 1676 | Ayanna Soto |
-| 11 | 1447 | GreenJeepGirl |
-| 12 | 1447 | Juggalo |
+| 11 | 1447 | Juggalo |
+| 12 | 1447 | GreenJeepGirl |
 | 13 | 1318 | Cassie Michaux |
 | 14 | 1289 | Roger Coulter |
 | 15 | 1254 | Clarence Patawaran |
@@ -128,8 +128,8 @@
 | 120 | 353 | Tyler Terrific |
 | 121 | 344 | Livvy |
 | 122 | 343 | Latisha Davis |
-| 123 | 332 | Desi Desporte |
-| 124 | 332 | HastyGrabber |
+| 123 | 332 | HastyGrabber |
+| 124 | 332 | Desi Desporte |
 | 125 | 331 | ThaEviLJeNiuZ |
 | 126 | 330 | David Lay |
 | 127 | 330 | Twisty Clicky |
@@ -141,8 +141,8 @@
 | 133 | 323 | Daria Rycewicz |
 | 134 | 314 | Andy Cabral |
 | 135 | 303 | Lauren Scott |
-| 136 | 300 | Dana Scott |
-| 137 | 300 | Jason Hart |
+| 136 | 300 | Jason Hart |
+| 137 | 300 | Dana Scott |
 | 138 | 299 | TRCuse |
 | 139 | 298 | Lucas J Sutton |
 | 140 | 295 | Bio Nelly |
@@ -151,8 +151,8 @@
 | 143 | 289 | Jessica Lynn Cutlip |
 | 144 | 286 | shark tato |
 | 145 | 283 | Brittney Orengo |
-| 146 | 281 | Meagan Nicole |
-| 147 | 281 | Lindsay Ball |
+| 146 | 281 | Lindsay Ball |
+| 147 | 281 | Meagan Nicole |
 | 148 | 278 | Leah Kutz Zirbel |
 | 149 | 277 | Mary Ann Pabukis |
 | 150 | 275 | Dizzy Tiley |
@@ -253,7 +253,7 @@
 | 245 | 180 | Googenheim |
 | 246 | 179 | TinyLegoRose |
 | 247 | 179 | Stephme310 |
-| 248 | 179 | TinyLegoRose |
+| 248 | 179 | Christina Black |
 | 249 | 179 | AyeKay |
 | 250 | 175 | Lorena Guerrero-Barron |
 | 251 | 172 | Ziggy |
@@ -292,8 +292,8 @@
 | 284 | 151 | Shanon Klair |
 | 285 | 151 | Shainne Brewer |
 | 286 | 151 | Amanda Christine |
-| 287 | 150 | Brandon Link |
-| 288 | 150 | Jared Gutwein |
+| 287 | 150 | Jared Gutwein |
+| 288 | 150 | Brandon Link |
 | 289 | 150 | GBR |
 | 290 | 148 | Cranky Rollpiece |
 | 291 | 148 | Nubian1 |

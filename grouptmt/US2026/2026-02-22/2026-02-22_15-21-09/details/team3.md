@@ -115,8 +115,8 @@
 | 107 | 568 | Rachael McClain Owens |
 | 108 | 566 | Dolores Falco |
 | 109 | 565 | Patty Allen |
-| 110 | 562 | Dave Herzog |
-| 111 | 562 | Louise Stacy Sisson |
+| 110 | 562 | Louise Stacy Sisson |
+| 111 | 562 | Dave Herzog |
 | 112 | 559 | Morgan Martinez |
 | 113 | 551 | Kristie |
 | 114 | 549 | Nicole Myers |
@@ -136,8 +136,8 @@
 | 128 | 492 | Daira Largen |
 | 129 | 491 | Chauntee Alfrey-Cardinale |
 | 130 | 480 | Stephanie Blkpep Davidson |
-| 131 | 479 | Poppy Splitter |
-| 132 | 479 | Patti Skiles |
+| 131 | 479 | Patti Skiles |
+| 132 | 479 | Poppy Splitter |
 | 133 | 478 | CeceGeGe |
 | 134 | 473 | mzcatzy |
 | 135 | 471 | Mendoza Lee Christy |
@@ -288,8 +288,8 @@
 | 280 | 239 | Michael Johnson |
 | 281 | 238 | LaTanya GeminiondaRise Johnson |
 | 282 | 236 | Angela Scott |
-| 283 | 236 | Jess Bissett |
-| 284 | 236 | Lys |
+| 283 | 236 | Lys |
+| 284 | 236 | Jess Bissett |
 | 285 | 235 | Cozy Snaplink |
 | 286 | 233 | Josh Borquez |
 | 287 | 232 | Donna |
@@ -313,8 +313,8 @@
 | 305 | 216 | Frothy Snapper |
 | 306 | 215 | IamJust Neyamijah Washington Sr. |
 | 307 | 214 | Amy Fuller Heaton |
-| 308 | 214 | Lizabeth Fox |
-| 309 | 214 | Jennifer Alvey |
+| 308 | 214 | Jennifer Alvey |
+| 309 | 214 | Lizabeth Fox |
 | 310 | 213 | Nicholas Roddy |
 | 311 | 212 | Jana Polk |
 | 312 | 212 | Sunny Rotater |
