@@ -265,8 +265,8 @@
 | 257 | 302 | Gray Hicks |
 | 258 | 301 | Betty Rosas |
 | 259 | 299 | Angie Harper |
-| 260 | 298 | Grams |
-| 261 | 298 | MsBee |
+| 260 | 298 | MsBee |
+| 261 | 298 | Grams |
 | 262 | 297 | Jojo M |
 | 263 | 296 | Katrina Turner |
 | 264 | 296 | Hoppy Buildout |
@@ -321,8 +321,8 @@
 | 313 | 250 | Tosha Griffey |
 | 314 | 247 | Jessica |
 | 315 | 246 | Erika Thornton |
-| 316 | 245 | Latoya Mayne |
-| 317 | 245 | Lizabeth Fox |
+| 316 | 245 | Lizabeth Fox |
+| 317 | 245 | Latoya Mayne |
 | 318 | 244 | LaNette Morgan |
 | 319 | 244 | Quackers |
 | 320 | 243 | Josh Borquez |

@@ -98,8 +98,8 @@
 | 90 | 537 | Dawn Alexander |
 | 91 | 531 | Amelpss |
 | 92 | 519 | Nugget |
-| 93 | 513 | Erin Thomas |
-| 94 | 513 | YoMomma |
+| 93 | 513 | YoMomma |
+| 94 | 513 | Erin Thomas |
 | 95 | 512 | Casey Jeffcoat |
 | 96 | 509 | Diana Houts |
 | 97 | 500 | Rodney McMath Jr. |
@@ -298,8 +298,8 @@
 | 290 | 170 | PeaceOs |
 | 291 | 170 | Elie Pean |
 | 292 | 169 | Ellen Durfee |
-| 293 | 169 | Jessica Atkinson |
-| 294 | 169 | Daring Pivot |
+| 293 | 169 | Daring Pivot |
+| 294 | 169 | Jessica Atkinson |
 | 295 | 168 | Zippy Tilt |
 | 296 | 168 | Kathy Allen |
 | 297 | 166 | KimoKoala |
@@ -316,7 +316,7 @@
 | 308 | 163 | Cheaneen Livingston |
 | 309 | 162 | conceptCollector |
 | 310 | 162 | Gwendolyn Pitcairn |
-| 311 | 162 | conceptCollector |
+| 311 | 162 | Victoria Faniel |
 | 312 | 162 | Chummy Towerzone |
 | 313 | 161 | Tanner Lund |
 | 314 | 160 | wombat |

@@ -161,8 +161,8 @@
 | 153 | 1300 | Tacara Cummings |
 | 154 | 1296 | Kristin Ruest |
 | 155 | 1286 | Altamirano Michael |
-| 156 | 1282 | Tanya Parsons |
-| 157 | 1282 | Ashley Rose Frederick |
+| 156 | 1282 | Ashley Rose Frederick |
+| 157 | 1282 | Tanya Parsons |
 | 158 | 1273 | Cool Rollpiece |
 | 159 | 1271 | Shandrica Lowe |
 | 160 | 1260 | Joshua Sommerville |
@@ -366,8 +366,8 @@
 | 358 | 702 | Allan Wayne Lamia |
 | 359 | 700 | Vincent Petrella |
 | 360 | 700 | Beverly Owens |
-| 361 | 697 | Dreamy Blast |
-| 362 | 697 | Ashle Scranton |
+| 361 | 697 | Ashle Scranton |
+| 362 | 697 | Dreamy Blast |
 | 363 | 695 | Mama T |
 | 364 | 695 | Lakeysha Dortch |
 | 365 | 695 | Dannette Goldberg-Richards |
@@ -1476,8 +1476,8 @@
 | 1468 | 199 | Melissa Jean Elizabeth |
 | 1469 | 199 | Melissa May |
 | 1470 | 198 | Lisa Chapman |
-| 1471 | 198 | Makayla Harris |
-| 1472 | 198 | Alice Samm |
+| 1471 | 198 | Alice Samm |
+| 1472 | 198 | Makayla Harris |
 | 1473 | 197 | Kristie Wilcox |
 | 1474 | 197 | Plucky Slide |
 | 1475 | 197 | Donna M Carter |
