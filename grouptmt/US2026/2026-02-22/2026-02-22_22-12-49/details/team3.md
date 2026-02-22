@@ -239,8 +239,8 @@
 | 231 | 348 | Kristal C Lee |
 | 232 | 347 | Philip Rock |
 | 233 | 346 | Tamara Deherrera |
-| 234 | 344 | Rania Zaqout |
-| 235 | 344 | Roary Danner |
+| 234 | 344 | Roary Danner |
+| 235 | 344 | Rania Zaqout |
 | 236 | 343 | Ashley Raines |
 | 237 | 341 | Bmo |
 | 238 | 341 | Samantha Lynn |
@@ -320,9 +320,9 @@
 | 312 | 268 | Nikki Pags |
 | 313 | 268 | Denita Mungro |
 | 314 | 267 | April Matthew Kibble |
-| 315 | 266 | Donna |
+| 315 | 266 | Snazzy Filler |
 | 316 | 266 | Quirky Dropzone |
-| 317 | 266 | Snazzy Filler |
+| 317 | 266 | Donna |
 | 318 | 263 | Jimmie Clemons |
 | 319 | 261 | Angela Scott |
 | 320 | 258 | IamJust Neyamijah Washington Sr. |

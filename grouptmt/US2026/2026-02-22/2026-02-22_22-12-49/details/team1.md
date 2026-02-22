@@ -146,8 +146,8 @@
 | 138 | 360 | Wisa |
 | 139 | 359 | Chirpy Smasher |
 | 140 | 357 | Amanda Johnson Huffman |
-| 141 | 350 | Tipsy Strikerpiece |
-| 142 | 350 | Death |
+| 141 | 350 | Death |
+| 142 | 350 | Tipsy Strikerpiece |
 | 143 | 344 | Monica Donato |
 | 144 | 343 | Tanya Carpenter-Reynolds |
 | 145 | 341 | Nick R Montague |
