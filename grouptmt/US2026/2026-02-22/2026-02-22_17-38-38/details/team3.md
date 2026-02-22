@@ -205,10 +205,10 @@
 | 197 | 372 | Tom Nault |
 | 198 | 370 | Santeria Trece Candles |
 | 199 | 368 | Stephanie Woods |
-| 200 | 362 | Danielle Balcom |
-| 201 | 362 | Rochelle Hazelett |
-| 202 | 362 | Brandon Givens |
-| 203 | 362 | Loopy Fallmatch |
+| 200 | 362 | Rochelle Hazelett |
+| 201 | 362 | Danielle Balcom |
+| 202 | 362 | Loopy Fallmatch |
+| 203 | 362 | Brandon Givens |
 | 204 | 358 | RickyG |
 | 205 | 358 | Chummy Caster |
 | 206 | 357 | Stephanie Burtin |
@@ -258,16 +258,16 @@
 | 250 | 284 | Denise Nardoni |
 | 251 | 283 | Sarah Moyer |
 | 252 | 283 | Cheeky Snapper |
-| 253 | 282 | Marquita Sheard |
-| 254 | 282 | Angie Harper |
+| 253 | 282 | Angie Harper |
+| 254 | 282 | Marquita Sheard |
 | 255 | 281 | Carrie Huskey |
 | 256 | 280 | Terry Jo Jones |
-| 257 | 278 | Sabrina Hardrick |
-| 258 | 278 | Rufus Lincoln |
+| 257 | 278 | Rufus Lincoln |
+| 258 | 278 | Sabrina Hardrick |
 | 259 | 277 | Tracy Martin |
 | 260 | 276 | Crimson |
-| 261 | 276 | Connie Mohler-Fair |
-| 262 | 276 | _melisa223_ |
+| 261 | 276 | _melisa223_ |
+| 262 | 276 | Connie Mohler-Fair |
 | 263 | 275 | Cassandra Bryant |
 | 264 | 272 | fraulila |
 | 265 | 272 | Tasha Wesson-Torrence |
@@ -304,8 +304,8 @@
 | 296 | 240 | Eric Caccavale |
 | 297 | 240 | Jimmie Clemons |
 | 298 | 238 | Niki Dalrymple |
-| 299 | 236 | Angela Scott |
-| 300 | 236 | Lys |
+| 299 | 236 | Lys |
+| 300 | 236 | Angela Scott |
 | 301 | 236 | Jess Bissett |
 | 302 | 233 | Tony Waters |
 | 303 | 232 | Donna |
@@ -352,14 +352,14 @@
 | 344 | 211 | El Chapa |
 | 345 | 210 | Criss |
 | 346 | 210 | Saucy Buildout |
-| 347 | 210 | Ashley Lynn Marchese |
-| 348 | 210 | Eileen Brady Thurber |
-| 349 | 209 | Kirhonda Autmon |
-| 350 | 209 | TotoCherue |
+| 347 | 210 | Eileen Brady Thurber |
+| 348 | 210 | Ashley Lynn Marchese |
+| 349 | 209 | TotoCherue |
+| 350 | 209 | Kirhonda Autmon |
 | 351 | 209 | Daring Builder |
 | 352 | 208 | Karent524 |
-| 353 | 207 | Kristian Thurman |
-| 354 | 207 | angieelyn |
+| 353 | 207 | angieelyn |
+| 354 | 207 | Kristian Thurman |
 | 355 | 206 | Tammy Rosenberry |
 | 356 | 205 | Rachel Napper |
 | 357 | 204 | Cesar Barraza |
@@ -373,7 +373,7 @@
 | 365 | 199 | Mariah Williams |
 | 366 | 199 | Samantha Worley |
 | 367 | 199 | Loopy Fallzone |
-| 368 | 199 | Samantha Worley |
+| 368 | 199 | Michael Kimbro |
 | 369 | 198 | Zac Hudak |
 | 370 | 196 | Denita Mungro |
 | 371 | 195 | Frilly Stackzone |

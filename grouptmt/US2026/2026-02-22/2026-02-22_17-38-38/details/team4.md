@@ -230,8 +230,8 @@
 | 222 | 209 | Chris Hartig |
 | 223 | 208 | scott |
 | 224 | 208 | Oscar Alberto Perez |
-| 225 | 208 | Stacey Stano |
-| 226 | 208 | Dizzy Matchzone |
+| 225 | 208 | Dizzy Matchzone |
+| 226 | 208 | Stacey Stano |
 | 227 | 207 | Chirpy Basepiece |
 | 228 | 204 | Carlos Ramirez |
 | 229 | 203 | Katherine Crane |
@@ -288,8 +288,8 @@
 | 280 | 161 | Matt Gooder |
 | 281 | 161 | Tanner Lund |
 | 282 | 161 | Twisty Risebuilder |
-| 283 | 159 | Marcus Todd |
-| 284 | 159 | DonMega |
+| 283 | 159 | DonMega |
+| 284 | 159 | Marcus Todd |
 | 285 | 157 | Bethany Ison |
 | 286 | 157 | KayM |
 | 287 | 157 | B Renee Desjardin |

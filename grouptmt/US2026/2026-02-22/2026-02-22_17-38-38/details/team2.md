@@ -201,8 +201,8 @@
 | 193 | 1045 | Lourisha |
 | 194 | 1043 | Brave Dropmatch |
 | 195 | 1036 | Allison Lockyer |
-| 196 | 1024 | Bri Lynn |
-| 197 | 1024 | Desiree Anderson |
+| 196 | 1024 | Desiree Anderson |
+| 197 | 1024 | Bri Lynn |
 | 198 | 1023 | Brainy Smurf |
 | 199 | 1020 | Eric Carlson |
 | 200 | 1019 | Taylor Phillips |
@@ -212,8 +212,8 @@
 | 204 | 1001 | Debra Williams |
 | 205 | 998 | Tralonda Weeks |
 | 206 | 991 | Moose Griffith |
-| 207 | 989 | Desiree Harris Rosch |
-| 208 | 989 | Teddi Notyalc |
+| 207 | 989 | Teddi Notyalc |
+| 208 | 989 | Desiree Harris Rosch |
 | 209 | 988 | Cherica Taylor |
 | 210 | 986 | RAEPR05 |
 | 211 | 979 | Hillary Crawford |
@@ -238,8 +238,8 @@
 | 230 | 919 | Joshua Mandel |
 | 231 | 919 | Isaac Trappiel IV |
 | 232 | 916 | Butta |
-| 233 | 915 | Angela Bonquiqui Dinish |
-| 234 | 915 | Robin Kerby |
+| 233 | 915 | Robin Kerby |
+| 234 | 915 | Angela Bonquiqui Dinish |
 | 235 | 915 | Kelly Trent |
 | 236 | 912 | Dedra Steward |
 | 237 | 910 | Shuany Arias |
@@ -266,8 +266,8 @@
 | 258 | 860 | William Hunt |
 | 259 | 857 | Della Hole |
 | 260 | 855 | F-X |
-| 261 | 853 | Maria Escobar |
-| 262 | 853 | Meghan M |
+| 261 | 853 | Meghan M |
+| 262 | 853 | Maria Escobar |
 | 263 | 850 | Glitzy Stackzone |
 | 264 | 845 | Sheniya Spurgeon |
 | 265 | 844 | Terri McKelvey McKinley |
