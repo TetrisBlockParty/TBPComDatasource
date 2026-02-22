@@ -199,8 +199,8 @@
 | 191 | 857 | Della Hole |
 | 192 | 850 | Missie Lawson Gebhardt |
 | 193 | 849 | Hillary Crawford |
-| 194 | 845 | April Dawn Gussler |
-| 195 | 845 | Felicia Lynn |
+| 194 | 845 | Felicia Lynn |
+| 195 | 845 | April Dawn Gussler |
 | 196 | 838 | Tralonda Weeks |
 | 197 | 837 | Ashley Rose Frederick |
 | 198 | 836 | Ashley House |
@@ -250,9 +250,9 @@
 | 242 | 705 | Lola Contreras |
 | 243 | 704 | Shelley Thornburgh Wright |
 | 244 | 703 | Gold Rose |
-| 245 | 700 | Rosemadder |
-| 246 | 700 | Beverly Owens |
-| 247 | 700 | Vincent Petrella |
+| 245 | 700 | Vincent Petrella |
+| 246 | 700 | Rosemadder |
+| 247 | 700 | Beverly Owens |
 | 248 | 699 | Keri Womack |
 | 249 | 698 | Mighty Shatterfit |
 | 250 | 697 | Dreamy Blast |

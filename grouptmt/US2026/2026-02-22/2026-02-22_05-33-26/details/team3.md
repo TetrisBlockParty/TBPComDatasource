@@ -256,13 +256,13 @@
 | 248 | 221 | Jaime Monhaut-Reed |
 | 249 | 219 | Sissy Lowery Davis |
 | 250 | 218 | Michael Lucado |
-| 251 | 216 | LaTanya GeminiondaRise Johnson |
-| 252 | 216 | rosy |
+| 251 | 216 | rosy |
+| 252 | 216 | LaTanya GeminiondaRise Johnson |
 | 253 | 215 | Alice |
 | 254 | 215 | IamJust Neyamijah Washington Sr. |
-| 255 | 214 | Angela Scott |
+| 255 | 214 | Rebel124 |
 | 256 | 214 | Amy Fuller Heaton |
-| 257 | 214 | Rebel124 |
+| 257 | 214 | Angela Scott |
 | 258 | 212 | Desiree Gold |
 | 259 | 212 | Twisty Brick LT |
 | 260 | 212 | Sunny Rotater |
@@ -271,8 +271,8 @@
 | 263 | 208 | AlsoJess |
 | 264 | 207 | Jessica |
 | 265 | 207 | angieelyn |
-| 266 | 206 | Cheryl Hinch Tenbrook |
-| 267 | 206 | Tammy Rosenberry |
+| 266 | 206 | Tammy Rosenberry |
+| 267 | 206 | Cheryl Hinch Tenbrook |
 | 268 | 204 | Aerian Preston |
 | 269 | 203 | Angie Harper |
 | 270 | 202 | Staci George Fitzsimmons |

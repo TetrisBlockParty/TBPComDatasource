@@ -52,8 +52,8 @@
 | 44 | 646 | Jacqueline Helm |
 | 45 | 634 | Anthony Bryan Riva |
 | 46 | 632 | Kimyatta Cavin |
-| 47 | 630 | Chilly Line |
-| 48 | 630 | Dustee Craddock-Harrison |
+| 47 | 630 | Dustee Craddock-Harrison |
+| 48 | 630 | Chilly Line |
 | 49 | 627 | Jonathan Kimbrough |
 | 50 | 623 | Robin Getchel |
 | 51 | 614 | KM8 |
@@ -241,8 +241,8 @@
 | 233 | 142 | Victoria Faniel |
 | 234 | 142 | Angela Geist Jusinski |
 | 235 | 141 | Kathy Allen |
-| 236 | 141 | ĥuf |
-| 237 | 141 | Montiette Mcglown |
+| 236 | 141 | Montiette Mcglown |
+| 237 | 141 | ĥuf |
 | 238 | 140 | Paige Kittles |
 | 239 | 139 | Kristina Black |
 | 240 | 139 | Nerdy Twisterfit |

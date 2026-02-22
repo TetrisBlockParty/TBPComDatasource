@@ -300,9 +300,9 @@
 | 292 | 116 | Brad MG |
 | 293 | 116 | Debbie Davis |
 | 294 | 115 | Mrs.Patrica |
-| 295 | 114 | Constance Risner |
-| 296 | 114 | Chris Sigurdson |
-| 297 | 114 | Angela Rena Brooks |
+| 295 | 114 | Chris Sigurdson |
+| 296 | 114 | Angela Rena Brooks |
+| 297 | 114 | Constance Risner |
 | 298 | 113 | Itspaigebro |
 | 299 | 112 | Crystal Joslin |
 | 300 | 112 | Lush Zoney |
@@ -563,7 +563,7 @@
 | 555 | 61 | Kkl |
 | 556 | 60 | docjp |
 | 557 | 60 | Sunny Catcher |
-| 558 | 60 | Glitzy Grid |
+| 558 | 60 | Gerald Richard Franke |
 | 559 | 60 | Danielle S Kester |
 | 560 | 60 | Nicole Meredith Flynn |
 | 561 | 60 | Glitzy Grid |
