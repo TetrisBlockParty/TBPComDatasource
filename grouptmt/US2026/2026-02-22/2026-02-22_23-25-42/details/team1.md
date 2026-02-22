@@ -61,8 +61,8 @@
 | 53 | 770 | Zappy Curvetile |
 | 54 | 767 | Kristen Roles Robben |
 | 55 | 752 | Jacqueline Williams |
-| 56 | 746 | TSwag |
-| 57 | 746 | Stef Hu |
+| 56 | 746 | Stef Hu |
+| 57 | 746 | TSwag |
 | 58 | 738 | Michelle Nicole |
 | 59 | 720 | Zippy Align |
 | 60 | 716 | Marianne Louise West |
@@ -136,8 +136,8 @@
 | 128 | 383 | Sweet Baker |
 | 129 | 383 | pjbeta |
 | 130 | 382 | And |
-| 131 | 379 | Austin James |
-| 132 | 379 | Kimmie Kimms |
+| 131 | 379 | Kimmie Kimms |
+| 132 | 379 | Austin James |
 | 133 | 376 | lil mickey |
 | 134 | 376 | Brian Richardsson |
 | 135 | 364 | Shauna Loe |
@@ -210,8 +210,8 @@
 | 202 | 270 | Mandyy Rae |
 | 203 | 269 | Amanda Jarnagin |
 | 204 | 268 | Reesey Enyart |
-| 205 | 267 | Cody Gates |
-| 206 | 267 | Debbie Kane |
+| 205 | 267 | Debbie Kane |
+| 206 | 267 | Cody Gates |
 | 207 | 266 | BadG52 |
 | 208 | 265 | Kandae |
 | 209 | 264 | Jen Nystrom |
@@ -220,8 +220,8 @@
 | 212 | 260 | Cheeky Pop |
 | 213 | 256 | Chris65 |
 | 214 | 255 | Speedy Liney |
-| 215 | 254 | Giggly Builderline |
-| 216 | 254 | Al Smith Jr |
+| 215 | 254 | Al Smith Jr |
+| 216 | 254 | Giggly Builderline |
 | 217 | 253 | Jamie Jury |
 | 218 | 252 | Dena Kayy |
 | 219 | 249 | Sam Williams |
@@ -231,8 +231,8 @@
 | 223 | 245 | Matt Iaccheo |
 | 224 | 245 | MRdot Rooski |
 | 225 | 244 | Marianita Garcia |
-| 226 | 244 | Eddie Dillon |
-| 227 | 244 | LaFontaine Leslie |
+| 226 | 244 | LaFontaine Leslie |
+| 227 | 244 | Eddie Dillon |
 | 228 | 242 | ParisandCory Champagne |
 | 229 | 241 | Tyler Hertzog |
 | 230 | 240 | Daring Fitclear |

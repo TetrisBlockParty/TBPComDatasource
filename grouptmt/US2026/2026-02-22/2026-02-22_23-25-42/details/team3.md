@@ -136,8 +136,8 @@
 | 128 | 621 | Cherry Parker |
 | 129 | 618 | Bea Miles |
 | 130 | 617 | Leah Barnett |
-| 131 | 595 | Patricia White |
-| 132 | 595 | Giddy Drop |
+| 131 | 595 | Giddy Drop |
+| 132 | 595 | Patricia White |
 | 133 | 590 | Santeria Trece Candles |
 | 134 | 588 | Justin Ritter |
 | 135 | 587 | Daryn Elliott |
@@ -176,8 +176,8 @@
 | 168 | 485 | Dapper Snap |
 | 169 | 479 | Poppy Splitter |
 | 170 | 475 | Tessina Dewey-Mancino |
-| 171 | 471 | Mendoza Lee Christy |
-| 172 | 471 | Rachel |
+| 171 | 471 | Rachel |
+| 172 | 471 | Mendoza Lee Christy |
 | 173 | 470 | Logan Naccarato |
 | 174 | 469 | Melissa Orth Hunter |
 | 175 | 468 | Betty Ivy |
@@ -229,8 +229,8 @@
 | 221 | 376 | Trisha Balmer |
 | 222 | 375 | Duane Bright |
 | 223 | 374 | Marci Mize Fandrich |
-| 224 | 372 | Rich LeBlanc |
-| 225 | 372 | Sarah Moyer |
+| 224 | 372 | Sarah Moyer |
+| 225 | 372 | Rich LeBlanc |
 | 226 | 370 | RickyG |
 | 227 | 368 | Rebecca Funderburk Kirby |
 | 228 | 368 | Stephanie Woods |
@@ -246,8 +246,8 @@
 | 238 | 351 | Eon Harris |
 | 239 | 350 | Kammy Hill |
 | 240 | 349 | Amanda J. Mcneil-Anderson |
-| 241 | 347 | Rebecca Bailey |
-| 242 | 347 | Philip Rock |
+| 241 | 347 | Philip Rock |
+| 242 | 347 | Rebecca Bailey |
 | 243 | 346 | Tamara Deherrera |
 | 244 | 345 | Kelly |
 | 245 | 344 | Rania Zaqout |
@@ -367,8 +367,8 @@
 | 359 | 238 | Niki Dalrymple |
 | 360 | 237 | Jennifer Alvey |
 | 361 | 237 | Carol Cain Thurman |
-| 362 | 236 | Jess Bissett |
-| 363 | 236 | Ashley Lynn Marchese |
+| 362 | 236 | Ashley Lynn Marchese |
+| 363 | 236 | Jess Bissett |
 | 364 | 235 | Beppy |
 | 365 | 235 | Cheryl Hinch Tenbrook |
 | 366 | 233 | Tony Waters |
@@ -441,7 +441,7 @@
 | 433 | 200 | Colleen Phelps |
 | 434 | 200 | Crystal Hine |
 | 435 | 200 | glichmod |
-| 436 | 200 | Colleen Phelps |
+| 436 | 200 | Jumpy Wrecker |
 | 437 | 199 | Dakota Graham |
 | 438 | 198 | Zac Hudak |
 | 439 | 198 | joz |

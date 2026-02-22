@@ -262,8 +262,8 @@
 | 254 | 971 | Robin Kerby |
 | 255 | 970 | Maria Escobar |
 | 256 | 958 | Brenda Messer |
-| 257 | 957 | Block Master |
-| 258 | 957 | Keri Womack |
+| 257 | 957 | Keri Womack |
+| 258 | 957 | Block Master |
 | 259 | 957 | Crystal Hoffman |
 | 260 | 955 | Angela Bonquiqui Dinish |
 | 261 | 955 | Kevin Walp |
@@ -305,8 +305,8 @@
 | 297 | 860 | Carl Bradshaw |
 | 298 | 858 | Porsche' Nicole |
 | 299 | 857 | Kara Gillen |
-| 300 | 856 | Mighty Shatterfit |
-| 301 | 856 | Jojo Momma |
+| 300 | 856 | Jojo Momma |
+| 301 | 856 | Mighty Shatterfit |
 | 302 | 853 | Meghan M |
 | 303 | 848 | Elizabeth Wilbanks |
 | 304 | 846 | Binyah-Binyah |

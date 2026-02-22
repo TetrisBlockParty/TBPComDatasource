@@ -109,8 +109,8 @@
 | 101 | 512 | Casey Jeffcoat |
 | 102 | 510 | Scott Jameson |
 | 103 | 500 | Rodney McMath Jr. |
-| 104 | 499 | Christina LR |
-| 105 | 499 | Trista Leah |
+| 104 | 499 | Trista Leah |
+| 105 | 499 | Christina LR |
 | 106 | 488 | Jen Allison |
 | 107 | 487 | shar |
 | 108 | 487 | Alyssa Papen |
@@ -125,8 +125,8 @@
 | 117 | 448 | Kristin Manee |
 | 118 | 435 | Leslie Thomas |
 | 119 | 433 | Jamie Gustafson |
-| 120 | 431 | Jolly Dashfit |
-| 121 | 431 | Courtney Cicoria |
+| 120 | 431 | Courtney Cicoria |
+| 121 | 431 | Jolly Dashfit |
 | 122 | 429 | Ren Mc |
 | 123 | 427 | KJ Pool |
 | 124 | 417 | Monica Daley |
@@ -176,8 +176,8 @@
 | 168 | 314 | Andy Cabral |
 | 169 | 312 | Rafael Valentin |
 | 170 | 311 | A5! |
-| 171 | 307 | Bio Nelly |
-| 172 | 307 | Girl |
+| 171 | 307 | Girl |
+| 172 | 307 | Bio Nelly |
 | 173 | 304 | Chaz Duncan |
 | 174 | 303 | shark tato |
 | 175 | 302 | Cursed Hag |
@@ -202,14 +202,14 @@
 | 194 | 281 | Kim Klutz Olson |
 | 195 | 281 | Laura |
 | 196 | 277 | Mary Ann Pabukis |
-| 197 | 276 | Matt Dell'Olio |
-| 198 | 276 | Joeliecea Cobb |
+| 197 | 276 | Joeliecea Cobb |
+| 198 | 276 | Matt Dell'Olio |
 | 199 | 273 | Casey Grabner |
 | 200 | 272 | Alan George LaRage |
 | 201 | 272 | Dennis Bradley |
 | 202 | 271 | Sarah Brown |
-| 203 | 270 | Juls |
-| 204 | 270 | Melissa Adams |
+| 203 | 270 | Melissa Adams |
+| 204 | 270 | Juls |
 | 205 | 269 | Nikki Rae Gordon |
 | 206 | 268 | Mimi |
 | 207 | 268 | Sam Bishop |
@@ -226,8 +226,8 @@
 | 218 | 251 | Carol Ricks Raymond |
 | 219 | 250 | Matt Gooder |
 | 220 | 249 | Ak Jones |
-| 221 | 248 | Jose Dejesus |
-| 222 | 248 | Chirpy Basepiece |
+| 221 | 248 | Chirpy Basepiece |
+| 222 | 248 | Jose Dejesus |
 | 223 | 247 | April Rondinone |
 | 224 | 246 | Zethra Prenisha Rahming |
 | 225 | 246 | Carlos Ramirez |
@@ -243,8 +243,8 @@
 | 235 | 238 | Chaz |
 | 236 | 235 | LaDonna LovinmesomeMe Lambert |
 | 237 | 233 | Ruben Wheeler |
-| 238 | 230 | Jade Rian |
-| 239 | 230 | blockstar |
+| 238 | 230 | blockstar |
+| 239 | 230 | Jade Rian |
 | 240 | 228 | Antony Dwayne Beasley |
 | 241 | 226 | Dizzy Matchzone |
 | 242 | 225 | Perky Patternblock |
