@@ -136,8 +136,8 @@
 | 128 | 1273 | Cool Rollpiece |
 | 129 | 1257 | Eileen Hale |
 | 130 | 1252 | Katrina Williams Balmir |
-| 131 | 1248 | Isabela Shaw |
-| 132 | 1248 | Howard Forest |
+| 131 | 1248 | Howard Forest |
+| 132 | 1248 | Isabela Shaw |
 | 133 | 1242 | Altamirano Michael |
 | 134 | 1232 | Groovy Puzzle |
 | 135 | 1226 | Vo'Landa Reels |
@@ -298,8 +298,8 @@
 | 290 | 696 | Kathryn Townsley |
 | 291 | 696 | Jánine Riggs |
 | 292 | 695 | Lakeysha Dortch |
-| 293 | 692 | Dannette Goldberg-Richards |
-| 294 | 692 | Jennifer Casey-Kay |
+| 293 | 692 | Jennifer Casey-Kay |
+| 294 | 692 | Dannette Goldberg-Richards |
 | 295 | 690 | Deborah Miller |
 | 296 | 689 | Giggy Blocker |
 | 297 | 688 | Tiara Elizabeth Baker |
@@ -432,8 +432,8 @@
 | 424 | 503 | Kimberly Randesi |
 | 425 | 502 | Sparkles |
 | 426 | 502 | Sheniya Spurgeon |
-| 427 | 500 | Sarah Ridenour |
-| 428 | 500 | Frisky Clearpiece |
+| 427 | 500 | Frisky Clearpiece |
+| 428 | 500 | Sarah Ridenour |
 | 429 | 499 | Sarah Massey |
 | 430 | 498 | Rhonda Milstead |
 | 431 | 497 | June E Hanson |
@@ -452,8 +452,8 @@
 | 444 | 487 | MrsCandyfine As Wine Truss |
 | 445 | 486 | Caitlin Schmid |
 | 446 | 485 | Mamachelle Eisweirth |
-| 447 | 485 | Ann Matzkanin |
-| 448 | 485 | Dapper Dasher |
+| 447 | 485 | Dapper Dasher |
+| 448 | 485 | Ann Matzkanin |
 | 449 | 484 | Brenna Ann |
 | 450 | 484 | Street Sweeper |
 | 451 | 483 | Alezandra Smith |
@@ -601,8 +601,8 @@
 | 593 | 386 | Wuntayk |
 | 594 | 385 | Tansaria Couch-Butler |
 | 595 | 384 | Mary Marie |
-| 596 | 384 | Party d |
-| 597 | 384 | Kelly |
+| 596 | 384 | Kelly |
+| 597 | 384 | Party d |
 | 598 | 383 | Jessica Conaway |
 | 599 | 383 | Belle Mari |
 | 600 | 382 | David Holliday |
@@ -627,8 +627,8 @@
 | 619 | 371 | Angi Harrison |
 | 620 | 371 | Saucy Fitzone |
 | 621 | 370 | Heather Sawtelle-Mckenzie |
-| 622 | 369 | Tony Lea |
-| 623 | 369 | RaeVan Worthington |
+| 622 | 369 | RaeVan Worthington |
+| 623 | 369 | Tony Lea |
 | 624 | 369 | Juan Castillo |
 | 625 | 367 | Connie Lepore-Mann |
 | 626 | 367 | Jessica Lamb |
@@ -809,8 +809,8 @@
 | 801 | 280 | Sandra Link-Gable |
 | 802 | 280 | Luke Califf |
 | 803 | 279 | Laura Wyatt |
-| 804 | 279 | Loony Basepiece |
-| 805 | 279 | Jennifer Coe |
+| 804 | 279 | Jennifer Coe |
+| 805 | 279 | Loony Basepiece |
 | 806 | 279 | Katherin Camacho |
 | 807 | 278 | Timothy Jesuwole |
 | 808 | 278 | AndrewandShela Gornik |
@@ -974,8 +974,8 @@
 | 966 | 238 | Pfc Monei Rivera |
 | 967 | 238 | Kim McGrath |
 | 968 | 237 | Nutty Matchline |
-| 969 | 237 | Breezy Tilt |
-| 970 | 237 | Devlin Ogg |
+| 969 | 237 | Devlin Ogg |
+| 970 | 237 | Breezy Tilt |
 | 971 | 237 | Jodi Mitnick |
 | 972 | 236 | Nikki Arlene |
 | 973 | 235 | Loopy Shatterfit |

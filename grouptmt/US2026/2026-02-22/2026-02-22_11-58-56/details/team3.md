@@ -229,8 +229,8 @@
 | 221 | 289 | Duane Bright |
 | 222 | 286 | Cynthia Herrmann Egland |
 | 223 | 284 | Denise Nardoni |
-| 224 | 283 | Charles Perrone |
-| 225 | 283 | Cheeky Snapper |
+| 224 | 283 | Cheeky Snapper |
+| 225 | 283 | Charles Perrone |
 | 226 | 281 | Betty Rosas |
 | 227 | 281 | Valerie Gendron |
 | 228 | 278 | Sabrina Hardrick |
@@ -257,8 +257,8 @@
 | 249 | 259 | Danielle Weikel |
 | 250 | 257 | Ashley Jones |
 | 251 | 256 | Brenda Lee Vander Molen |
-| 252 | 256 | KayB |
-| 253 | 256 | Tiffany Davie |
+| 252 | 256 | Tiffany Davie |
+| 253 | 256 | KayB |
 | 254 | 250 | fraulila |
 | 255 | 249 | Annie Marie |
 | 256 | 249 | JerseyJess |
@@ -304,8 +304,8 @@
 | 296 | 210 | Criss |
 | 297 | 209 | Micayah Stevens |
 | 298 | 208 | AlsoJess |
-| 299 | 207 | Jessica |
-| 300 | 207 | Daring Builder |
+| 299 | 207 | Daring Builder |
+| 300 | 207 | Jessica |
 | 301 | 207 | angieelyn |
 | 302 | 206 | Tammy Rosenberry |
 | 303 | 206 | Tracy Martin |
@@ -539,9 +539,9 @@
 | 531 | 113 | Kristy Brown |
 | 532 | 113 | Block Baddie |
 | 533 | 113 | Gideon Walker |
-| 534 | 113 | Leticia Lynn Lowe |
+| 534 | 113 | Martin Bernier |
 | 535 | 113 | Christopher Woost |
-| 536 | 113 | Martin Bernier |
+| 536 | 113 | Leticia Lynn Lowe |
 | 537 | 112 | Bekah Dietrich |
 | 538 | 112 | Michael Kimbro |
 | 539 | 111 | Geronimo |

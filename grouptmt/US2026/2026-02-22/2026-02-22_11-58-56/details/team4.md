@@ -77,8 +77,8 @@
 | 69 | 530 | Yoset Mejia |
 | 70 | 524 | Amelpss |
 | 71 | 523 | Dawn Alexander |
-| 72 | 518 | Eric Mcgaughy |
-| 73 | 518 | Carolyn Wallace |
+| 72 | 518 | Carolyn Wallace |
+| 73 | 518 | Eric Mcgaughy |
 | 74 | 517 | H.R. Block |
 | 75 | 512 | Casey Jeffcoat |
 | 76 | 511 | Michelle Marie |
@@ -173,8 +173,8 @@
 | 165 | 224 | Matt Summer |
 | 166 | 223 | Kris Bartlett |
 | 167 | 223 | Antony Dwayne Beasley |
-| 168 | 221 | PurpleMoonMa |
-| 169 | 221 | Rheanda Weaskus |
+| 168 | 221 | Rheanda Weaskus |
+| 169 | 221 | PurpleMoonMa |
 | 170 | 220 | Matt Dell'Olio |
 | 171 | 217 | Chaz Duncan |
 | 172 | 217 | Kim Hunt |

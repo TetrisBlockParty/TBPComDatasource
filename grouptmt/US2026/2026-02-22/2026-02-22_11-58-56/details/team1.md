@@ -89,8 +89,8 @@
 | 81 | 406 | Yvonne Marie |
 | 82 | 401 | cc |
 | 83 | 400 | Cynthia Bradley |
-| 84 | 390 | Goose egg |
-| 85 | 390 | Candy Jones |
+| 84 | 390 | Candy Jones |
+| 85 | 390 | Goose egg |
 | 86 | 390 | Lori Bales |
 | 87 | 389 | Trina Gee |
 | 88 | 388 | Jennifer ManWarren |
@@ -123,8 +123,8 @@
 | 115 | 319 | Patrick Luckenbill |
 | 116 | 319 | Deanna L Hermanson |
 | 117 | 318 | Jessica Sheehan |
-| 118 | 316 | Jennifer Hardman |
-| 119 | 316 | Ly Phethmany |
+| 118 | 316 | Ly Phethmany |
+| 119 | 316 | Jennifer Hardman |
 | 120 | 313 | Tanya Carpenter-Reynolds |
 | 121 | 310 | Seth Wesson |
 | 122 | 310 | Jason Jones |
@@ -171,13 +171,13 @@
 | 163 | 241 | John J. Cronin |
 | 164 | 239 | Jamie Jury |
 | 165 | 232 | Jessi Sauer |
-| 166 | 230 | Frothy Pattern |
-| 167 | 230 | Mike Ames |
-| 168 | 230 | Billie Dawn Sparks |
-| 169 | 229 | David Lutcher |
-| 170 | 229 | Chris K |
-| 171 | 226 | Kandae |
-| 172 | 226 | Sleepysloath5745 |
+| 166 | 230 | Mike Ames |
+| 167 | 230 | Billie Dawn Sparks |
+| 168 | 230 | Frothy Pattern |
+| 169 | 229 | Chris K |
+| 170 | 229 | David Lutcher |
+| 171 | 226 | Sleepysloath5745 |
+| 172 | 226 | Kandae |
 | 173 | 219 | Chuck Gannon |
 | 174 | 218 | LC |
 | 175 | 217 | Kimberly Garcia |
@@ -189,16 +189,16 @@
 | 181 | 213 | Daring Fitclear |
 | 182 | 212 | Jaimie Lynn |
 | 183 | 211 | Marianita Garcia |
-| 184 | 210 | Letson Melissa |
-| 185 | 210 | Giggly Builderline |
+| 184 | 210 | Giggly Builderline |
+| 185 | 210 | Letson Melissa |
 | 186 | 209 | Debbie Davis |
 | 187 | 208 | Donna Addison Williams |
 | 188 | 208 | Bouncy Grid |
 | 189 | 207 | Leslie Bush Yarbrough |
 | 190 | 207 | Brenda Alexander |
 | 191 | 206 | BadG52 |
-| 192 | 205 | Snappy Matcher |
-| 193 | 205 | Tater |
+| 192 | 205 | Tater |
+| 193 | 205 | Snappy Matcher |
 | 194 | 204 | Lacy Wolfe |
 | 195 | 203 | Paula Martin |
 | 196 | 203 | LaFontaine Leslie |
@@ -326,8 +326,8 @@
 | 318 | 130 | Carl Claunch |
 | 319 | 129 | Sherri E Woods Hess |
 | 320 | 129 | Madison Wicks |
-| 321 | 128 | Alyssa Ingram |
-| 322 | 128 | George Dalton |
+| 321 | 128 | George Dalton |
+| 322 | 128 | Alyssa Ingram |
 | 323 | 127 | Danielle Mae |
 | 324 | 126 | Tyler Hertzog |
 | 325 | 126 | Zany Tiler |
