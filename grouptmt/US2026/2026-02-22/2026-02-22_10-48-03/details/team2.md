@@ -222,8 +222,8 @@
 | 214 | 867 | Peppy Zone |
 | 215 | 865 | Dedra Steward |
 | 216 | 863 | nikki |
-| 217 | 862 | Robin Kerby |
-| 218 | 862 | Brittany Radaszewski |
+| 217 | 862 | Brittany Radaszewski |
+| 218 | 862 | Robin Kerby |
 | 219 | 860 | April Dawn Gussler |
 | 220 | 857 | Della Hole |
 | 221 | 855 | F-X |
@@ -376,8 +376,8 @@
 | 368 | 557 | Block Master |
 | 369 | 557 | Brandy Andre |
 | 370 | 556 | Slip |
-| 371 | 554 | Rachael Senard |
-| 372 | 554 | Santana Miyagi |
+| 371 | 554 | Santana Miyagi |
+| 372 | 554 | Rachael Senard |
 | 373 | 554 | Autumn Schaeffer |
 | 374 | 550 | Nashu |
 | 375 | 549 | Darcy Mae |
@@ -681,8 +681,8 @@
 | 673 | 339 | Denise Rickman |
 | 674 | 338 | Janitta Alvarez |
 | 675 | 337 | Sassy Pattern |
-| 676 | 337 | Tum |
-| 677 | 337 | Diallo Sparkman |
+| 676 | 337 | Diallo Sparkman |
+| 677 | 337 | Tum |
 | 678 | 337 | Savannah Alexander |
 | 679 | 336 | bru |
 | 680 | 336 | Austin Wilson |
@@ -750,8 +750,8 @@
 | 742 | 304 | Melissa McCall |
 | 743 | 304 | James Smith |
 | 744 | 303 | Angie Marie |
-| 745 | 303 | Devin |
-| 746 | 303 | Amanda Schaffer |
+| 745 | 303 | Amanda Schaffer |
+| 746 | 303 | Devin |
 | 747 | 302 | Kena T. Tanner |
 | 748 | 302 | Maxwell Escalera |
 | 749 | 300 | Alice Ball |
@@ -772,8 +772,8 @@
 | 764 | 295 | Noel Tarmy |
 | 765 | 294 | Amanda Edwards |
 | 766 | 293 | Ann Marie Davis |
-| 767 | 292 | Christina Walker |
-| 768 | 292 | Bryan Werleman |
+| 767 | 292 | Bryan Werleman |
+| 768 | 292 | Christina Walker |
 | 769 | 292 | Deana |
 | 770 | 291 | Bella Novia |
 | 771 | 291 | Jennie Lee Huntley |
@@ -784,8 +784,8 @@
 | 776 | 289 | Ryan Chan |
 | 777 | 288 | thranduil |
 | 778 | 288 | Ashley Criner |
-| 779 | 288 | Jenna Nance |
-| 780 | 288 | Samantha Angelo |
+| 779 | 288 | Samantha Angelo |
+| 780 | 288 | Jenna Nance |
 | 781 | 287 | Toni Roberson |
 | 782 | 287 | N00D3S |
 | 783 | 287 | Epic Stackzone |
@@ -817,7 +817,7 @@
 | 809 | 276 | Lindsey Leigh |
 | 810 | 276 | Patrick Bartlett |
 | 811 | 275 | Crystal Elam |
-| 812 | 275 | Tammy Mitchell |
+| 812 | 275 | Alyssia Tancredi |
 | 813 | 275 | Neaomi Favro |
 | 814 | 275 | LeVeL27 |
 | 815 | 275 | Tammy Mitchell |
@@ -961,13 +961,13 @@
 | 953 | 239 | Joel Rosado |
 | 954 | 239 | AsnPryBoy83 |
 | 955 | 239 | Amy John Mills |
-| 956 | 238 | Pfc Monei Rivera |
-| 957 | 238 | SwifftFox |
+| 956 | 238 | SwifftFox |
+| 957 | 238 | Pfc Monei Rivera |
 | 958 | 238 | Trista Carter |
 | 959 | 237 | Nutty Matchline |
-| 960 | 237 | Breezy Tilt |
+| 960 | 237 | Jay Levy |
 | 961 | 237 | Devlin Ogg |
-| 962 | 237 | Jay Levy |
+| 962 | 237 | Breezy Tilt |
 | 963 | 237 | Jodi Mitnick |
 | 964 | 236 | Meli |
 | 965 | 235 | B-rad B-rad |
@@ -979,8 +979,8 @@
 | 971 | 234 | Joanna L. Abad |
 | 972 | 234 | Trina Harrison |
 | 973 | 234 | Lonnie Brown |
-| 974 | 234 | Kim McGrath |
-| 975 | 234 | Synn |
+| 974 | 234 | Synn |
+| 975 | 234 | Kim McGrath |
 | 976 | 234 | Jannan Haimour |
 | 977 | 233 | Allison Hewitt |
 | 978 | 233 | Myleaha Holley |
@@ -1146,8 +1146,8 @@
 | 1138 | 199 | Katelyn Fitzsimmons |
 | 1139 | 199 | Melissa May |
 | 1140 | 197 | Darla Silva |
-| 1141 | 197 | Jermaine Johnson |
-| 1142 | 197 | Octavio Garza |
+| 1141 | 197 | Octavio Garza |
+| 1142 | 197 | Jermaine Johnson |
 | 1143 | 197 | Kati Russeau |
 | 1144 | 197 | Erica Dale |
 | 1145 | 197 | Sunny Pusher |

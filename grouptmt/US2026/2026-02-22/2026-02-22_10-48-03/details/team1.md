@@ -224,8 +224,8 @@
 | 216 | 186 | Erin Hodges Plumb |
 | 217 | 186 | Margo Wagner |
 | 218 | 184 | Chris Sigurdson |
-| 219 | 183 | Andrew Boone |
-| 220 | 183 | Amy Hess |
+| 219 | 183 | Amy Hess |
+| 220 | 183 | Andrew Boone |
 | 221 | 182 | Phu ckalldems |
 | 222 | 180 | Beau Galvan |
 | 223 | 180 | Jessie Lynn |
