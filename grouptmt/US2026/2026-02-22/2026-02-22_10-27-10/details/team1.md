@@ -104,8 +104,8 @@
 | 96 | 368 | Tdub |
 | 97 | 362 | Plucky Ziggy |
 | 98 | 359 | Chirpy Smasher |
-| 99 | 355 | Hasbro Bros |
-| 100 | 355 | Shauna Loe |
+| 99 | 355 | Shauna Loe |
+| 100 | 355 | Hasbro Bros |
 | 101 | 350 | Tipsy Strikerpiece |
 | 102 | 349 | Dee Perry |
 | 103 | 347 | pjbeta |
@@ -120,13 +120,13 @@
 | 112 | 328 | Gracie |
 | 113 | 326 | Monica Donato |
 | 114 | 321 | Maria C. Hernandez |
-| 115 | 319 | Deanna L Hermanson |
-| 116 | 319 | Patrick Luckenbill |
+| 115 | 319 | Patrick Luckenbill |
+| 116 | 319 | Deanna L Hermanson |
 | 117 | 318 | Jessica Sheehan |
 | 118 | 316 | Ly Phethmany |
 | 119 | 313 | Tanya Carpenter-Reynolds |
-| 120 | 310 | Seth Wesson |
-| 121 | 310 | Jason Jones |
+| 120 | 310 | Jason Jones |
+| 121 | 310 | Seth Wesson |
 | 122 | 306 | Happy Basegrid |
 | 123 | 304 | Nicole Roseberry Weber |
 | 124 | 301 | Lehrin Maria |
@@ -134,8 +134,8 @@
 | 126 | 292 | Jennifer Hardman |
 | 127 | 290 | Death |
 | 128 | 285 | Ananda Mendez |
-| 129 | 284 | Emily Adelaide Wheatley |
-| 130 | 284 | Rachael |
+| 129 | 284 | Rachael |
+| 130 | 284 | Emily Adelaide Wheatley |
 | 131 | 283 | Franswa |
 | 132 | 282 | Cool Shiftsnap |
 | 133 | 282 | Snippy Wipebuilder |
@@ -180,14 +180,14 @@
 | 172 | 213 | Daring Fitclear |
 | 173 | 212 | Jaimie Lynn |
 | 174 | 211 | Marianita Garcia |
-| 175 | 210 | Letson Melissa |
-| 176 | 210 | Giggly Builderline |
+| 175 | 210 | Giggly Builderline |
+| 176 | 210 | Letson Melissa |
 | 177 | 209 | Debbie Davis |
 | 178 | 208 | Donna Addison Williams |
 | 179 | 208 | Bouncy Grid |
-| 180 | 207 | Brenda Alexander |
+| 180 | 207 | Ty Brown |
 | 181 | 207 | Leslie Bush Yarbrough |
-| 182 | 207 | Ty Brown |
+| 182 | 207 | Brenda Alexander |
 | 183 | 206 | BadG52 |
 | 184 | 205 | Snappy Matcher |
 | 185 | 205 | Mike Ames |
@@ -370,8 +370,8 @@
 | 362 | 108 | Nathan Sealander |
 | 363 | 108 | Owicked1 |
 | 364 | 107 | sent2bless34 |
-| 365 | 107 | Colleen Pinette |
-| 366 | 107 | MIKOZ |
+| 365 | 107 | MIKOZ |
+| 366 | 107 | Colleen Pinette |
 | 367 | 106 | Josh Smith |
 | 368 | 106 | Bloknboy |
 | 369 | 105 | Eddie Dillon |

@@ -49,15 +49,15 @@
 | 41 | 757 | Ancient Intuition |
 | 42 | 747 | BertMofo |
 | 43 | 736 | Goatimus Lombardi |
-| 44 | 707 | Rachel Anne |
-| 45 | 707 | Clarence Patawaran |
+| 44 | 707 | Clarence Patawaran |
+| 45 | 707 | Rachel Anne |
 | 46 | 704 | Crystal Carroll |
 | 47 | 698 | Anthony Bryan Riva |
 | 48 | 697 | Edward White |
 | 49 | 695 | LisaJo Picken Buchanan |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Rebecca Moulton Pinciaro |
-| 52 | 659 | Jonathan Kimbrough |
+| 51 | 659 | Jonathan Kimbrough |
+| 52 | 659 | Rebecca Moulton Pinciaro |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
@@ -91,8 +91,8 @@
 | 83 | 446 | Shane Kalamata Platoon |
 | 84 | 440 | Kristin Manee |
 | 85 | 437 | Chastity Mitchell |
-| 86 | 427 | Jolly Dashfit |
-| 87 | 427 | KJ Pool |
+| 86 | 427 | KJ Pool |
+| 87 | 427 | Jolly Dashfit |
 | 88 | 420 | Chilly Crasher |
 | 89 | 416 | YoMomma |
 | 90 | 412 | Jenna Ingersoll |
@@ -101,8 +101,8 @@
 | 93 | 404 | Courtney Cicoria |
 | 94 | 403 | shar |
 | 95 | 401 | Zippy Gridlock |
-| 96 | 396 | Alicia Bass |
-| 97 | 396 | Amy Suckarieh |
+| 96 | 396 | Amy Suckarieh |
+| 97 | 396 | Alicia Bass |
 | 98 | 392 | Ericca Eldridge |
 | 99 | 391 | Ramel Rhodes |
 | 100 | 390 | Carlton Unfiltered |
@@ -127,13 +127,13 @@
 | 119 | 303 | Lauren Scott |
 | 120 | 300 | Jason Hart |
 | 121 | 298 | Lucas J Sutton |
-| 122 | 296 | HastyGrabber |
-| 123 | 296 | Justin Hannigan |
+| 122 | 296 | Justin Hannigan |
+| 123 | 296 | HastyGrabber |
 | 124 | 294 | Kesha Brady |
 | 125 | 290 | 🥔🥔 Spudz |
 | 126 | 287 | Shannon Ferrari |
-| 127 | 286 | Daria Rycewicz |
-| 128 | 286 | shark tato |
+| 127 | 286 | shark tato |
+| 128 | 286 | Daria Rycewicz |
 | 129 | 283 | Brittney Orengo |
 | 130 | 281 | Meagan Nicole |
 | 131 | 278 | Carrie Brian |
@@ -160,8 +160,8 @@
 | 152 | 240 | Peachy Fall |
 | 153 | 237 | Chris Bernstein |
 | 154 | 232 | Crystal Nicolette Moore |
-| 155 | 230 | Cursed Hag |
-| 156 | 230 | Autum Leigh |
+| 155 | 230 | Autum Leigh |
+| 156 | 230 | Cursed Hag |
 | 157 | 228 | J-Rizzle |
 | 158 | 227 | Alyssa Papen |
 | 159 | 227 | Swanky Fitline |
@@ -188,8 +188,8 @@
 | 180 | 204 | Carlos Ramirez |
 | 181 | 203 | Katherine Crane |
 | 182 | 202 | TRCuse |
-| 183 | 201 | Chance Strickland |
-| 184 | 201 | Melvin Baird |
+| 183 | 201 | Melvin Baird |
+| 184 | 201 | Chance Strickland |
 | 185 | 200 | Laura |
 | 186 | 198 | Ruben Wheeler |
 | 187 | 198 | Keith Kelley |
@@ -212,11 +212,11 @@
 | 204 | 185 | Nikki Rae Gordon |
 | 205 | 184 | Ak Jones |
 | 206 | 181 | Carter Jones |
-| 207 | 180 | Rafael Valentin |
-| 208 | 180 | Orchislactea |
-| 209 | 180 | Dihcheese444 |
-| 210 | 179 | blockstar |
-| 211 | 179 | TinyLegoRose |
+| 207 | 180 | Dihcheese444 |
+| 208 | 180 | Rafael Valentin |
+| 209 | 180 | Orchislactea |
+| 210 | 179 | TinyLegoRose |
+| 211 | 179 | blockstar |
 | 212 | 175 | Lorena Guerrero-Barron |
 | 213 | 174 | JPW |
 | 214 | 174 | Rio Rocha |
@@ -249,8 +249,8 @@
 | 241 | 155 | AyeKay |
 | 242 | 154 | Zany Shatterer |
 | 243 | 153 | Empress Oasis |
-| 244 | 152 | Austin Owens |
-| 245 | 152 | Faja |
+| 244 | 152 | Faja |
+| 245 | 152 | Austin Owens |
 | 246 | 149 | Tanner Lund |
 | 247 | 149 | Shainne Brewer |
 | 248 | 148 | Janita Parrish |

@@ -173,8 +173,8 @@
 | 165 | 1048 | PsychKIRAtrist |
 | 166 | 1047 | Amy Sayers |
 | 167 | 1045 | Lourisha |
-| 168 | 1043 | Brave Dropmatch |
-| 169 | 1043 | Suki Kaur |
+| 168 | 1043 | Suki Kaur |
+| 169 | 1043 | Brave Dropmatch |
 | 170 | 1035 | Sarah Freitas |
 | 171 | 1024 | Bri Lynn |
 | 172 | 1023 | Brainy Smurf |
@@ -326,8 +326,8 @@
 | 318 | 650 | Shiny Rollzone |
 | 319 | 645 | tejas25 |
 | 320 | 643 | Hoppy Brickmatch |
-| 321 | 641 | Joce Lynn |
-| 322 | 641 | Angie Bolton Workman |
+| 321 | 641 | Angie Bolton Workman |
+| 322 | 641 | Joce Lynn |
 | 323 | 640 | BYM4L |
 | 324 | 639 | Crystie Hicks |
 | 325 | 639 | Rebecca Miller |
@@ -361,8 +361,8 @@
 | 353 | 584 | Ginnell Browner |
 | 354 | 582 | Gary Stash |
 | 355 | 581 | Jerry Tempelmeyer |
-| 356 | 579 | AgileDragon |
-| 357 | 579 | Jackie Avila |
+| 356 | 579 | Jackie Avila |
+| 357 | 579 | AgileDragon |
 | 358 | 579 | Roy Salyer |
 | 359 | 576 | Leslie Johnson Guinto |
 | 360 | 572 | Chris Wanner |
@@ -573,8 +573,8 @@
 | 565 | 394 | Taryece Gause |
 | 566 | 393 | Alexandra Weir |
 | 567 | 393 | Deyawn Smith |
-| 568 | 393 | Jamie West |
-| 569 | 393 | bbv |
+| 568 | 393 | bbv |
+| 569 | 393 | Jamie West |
 | 570 | 391 | Qiana Sanders |
 | 571 | 391 | Chilly Bridgepiece |
 | 572 | 391 | Adam Simmons |
@@ -612,8 +612,8 @@
 | 604 | 375 | Cecilia A Jenkins |
 | 605 | 375 | Lively Edgepiece |
 | 606 | 373 | Ashley Marie |
-| 607 | 373 | Jessica Hughes |
-| 608 | 373 | Hunter Connors |
+| 607 | 373 | Hunter Connors |
+| 608 | 373 | Jessica Hughes |
 | 609 | 372 | Ebony Deloach Bryant |
 | 610 | 371 | Brenda Messer |
 | 611 | 371 | AkaLefty |
@@ -639,8 +639,8 @@
 | 631 | 362 | Veronics |
 | 632 | 362 | Andrea Maher |
 | 633 | 362 | Tracy Wise |
-| 634 | 362 | Aishah Brice |
-| 635 | 362 | Jennifer Scott |
+| 634 | 362 | Jennifer Scott |
+| 635 | 362 | Aishah Brice |
 | 636 | 361 | Michelle Shrum |
 | 637 | 361 | Lewis Sturgeon |
 | 638 | 360 | Jroc |
@@ -682,15 +682,15 @@
 | 674 | 337 | Diallo Sparkman |
 | 675 | 337 | Tum |
 | 676 | 337 | Savannah Alexander |
-| 677 | 336 | bru |
-| 678 | 336 | Austin Wilson |
+| 677 | 336 | Austin Wilson |
+| 678 | 336 | bru |
 | 679 | 336 | Swanky Columnbuilder |
 | 680 | 335 | Brooke Leigh Strube |
 | 681 | 335 | Maria Louise |
 | 682 | 334 | Melissa James |
 | 683 | 333 | Veronica Stevenson |
-| 684 | 333 | Adrian Benitez |
-| 685 | 333 | Woodys Glass |
+| 684 | 333 | Woodys Glass |
+| 685 | 333 | Adrian Benitez |
 | 686 | 332 | Lathasa Newkirk |
 | 687 | 331 | Danielle Ayoub |
 | 688 | 330 | Jennifer Monroe Kelly |
@@ -747,8 +747,8 @@
 | 739 | 305 | Narutofreak13 |
 | 740 | 305 | MamaBear11 |
 | 741 | 304 | NFLPITMOM |
-| 742 | 304 | James Smith |
-| 743 | 304 | Melissa McCall |
+| 742 | 304 | Melissa McCall |
+| 743 | 304 | James Smith |
 | 744 | 303 | Angie Marie |
 | 745 | 303 | Amanda Schaffer |
 | 746 | 303 | Devin |
@@ -759,10 +759,10 @@
 | 751 | 300 | Kacee Conrad Bock |
 | 752 | 299 | Cassie Newton |
 | 753 | 298 | Frilly Fallzone |
-| 754 | 298 | Lazy Riseclear |
-| 755 | 298 | Ryan Stadel |
-| 756 | 297 | Toni Lynn |
-| 757 | 297 | Frisky Patternline |
+| 754 | 298 | Ryan Stadel |
+| 755 | 298 | Lazy Riseclear |
+| 756 | 297 | Frisky Patternline |
+| 757 | 297 | Toni Lynn |
 | 758 | 297 | Britney M. |
 | 759 | 297 | Ashley Robbins |
 | 760 | 296 | Jennifer Darby |
@@ -966,10 +966,10 @@
 | 958 | 237 | Breezy Tilt |
 | 959 | 237 | Devlin Ogg |
 | 960 | 237 | Jodi Mitnick |
-| 961 | 235 | Angelica |
-| 962 | 235 | B-rad B-rad |
-| 963 | 235 | Shantel Kelley |
-| 964 | 235 | Prince Ajesh |
+| 961 | 235 | B-rad B-rad |
+| 962 | 235 | Angelica |
+| 963 | 235 | Prince Ajesh |
+| 964 | 235 | Shantel Kelley |
 | 965 | 235 | Loopy Shatterfit |
 | 966 | 234 | Nikki Arlene |
 | 967 | 234 | Trina Harrison |
@@ -1125,8 +1125,8 @@
 | 1117 | 204 | Andre Love |
 | 1118 | 202 | Joshua Yonker |
 | 1119 | 202 | BIG BABY |
-| 1120 | 201 | LintFunk |
-| 1121 | 201 | Jennifer Rajek |
+| 1120 | 201 | Jennifer Rajek |
+| 1121 | 201 | LintFunk |
 | 1122 | 201 | Betty Ruth Hale |
 | 1123 | 200 | Sara Silvernail-Kay |
 | 1124 | 200 | Rich Sullivan |
