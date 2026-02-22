@@ -47,8 +47,8 @@
 | 39 | 1402 | cowboy25469 |
 | 40 | 1394 | Ashley Jones |
 | 41 | 1371 | Kay |
-| 42 | 1369 | mjl574 |
-| 43 | 1369 | Tetris Master |
+| 42 | 1369 | Tetris Master |
+| 43 | 1369 | mjl574 |
 | 44 | 1358 | Raven Dudley |
 | 45 | 1313 | Delilah belle |
 | 46 | 1302 | Josiah Fam |
@@ -70,8 +70,8 @@
 | 62 | 1027 | Gracie |
 | 63 | 1019 | Joey Banks |
 | 64 | 954 | Nate Burnside |
-| 65 | 926 | Angela M. Fletcher |
-| 66 | 926 | Judi Dobson |
+| 65 | 926 | Judi Dobson |
+| 66 | 926 | Angela M. Fletcher |
 | 67 | 924 | Shonna Roberts |
 | 68 | 909 | Jennifer |
 | 69 | 903 | Sarah Fehring |
@@ -91,8 +91,8 @@
 | 83 | 828 | Jessica Ann |
 | 84 | 826 | Shane Wilson Jr. |
 | 85 | 824 | Shari Garber |
-| 86 | 811 | Jay Horn |
-| 87 | 811 | Sarajane Lokan |
+| 86 | 811 | Sarajane Lokan |
+| 87 | 811 | Jay Horn |
 | 88 | 807 | Snappy Glidepiece |
 | 89 | 800 | Lauren Girouard |
 | 90 | 797 | Danielle Mogg |
@@ -133,8 +133,8 @@
 | 125 | 574 | Morgan Martinez |
 | 126 | 568 | Rachael McClain Owens |
 | 127 | 565 | Daryn Elliott |
-| 128 | 562 | Dave Herzog |
-| 129 | 562 | Louise Stacy Sisson |
+| 128 | 562 | Louise Stacy Sisson |
+| 129 | 562 | Dave Herzog |
 | 130 | 557 | Domo Washington |
 | 131 | 555 | Nicole Myers |
 | 132 | 554 | Leah Barnett |
@@ -263,8 +263,8 @@
 | 255 | 304 | Marquita Sheard |
 | 256 | 301 | Betty Rosas |
 | 257 | 299 | Angie Harper |
-| 258 | 298 | Grams |
-| 259 | 298 | MsBee |
+| 258 | 298 | MsBee |
+| 259 | 298 | Grams |
 | 260 | 297 | Jojo M |
 | 261 | 296 | Katrina Turner |
 | 262 | 296 | Hoppy Buildout |
@@ -362,7 +362,7 @@
 | 354 | 217 | Kristin Delibac Corrigan |
 | 355 | 217 | Goofy Fall |
 | 356 | 217 | Emma |
-| 357 | 216 | Cheryl Hinch Tenbrook |
+| 357 | 216 | Michael Leblanc |
 | 358 | 216 | Criss |
 | 359 | 216 | Cheryl Hinch Tenbrook |
 | 360 | 216 | Kirhonda Autmon |

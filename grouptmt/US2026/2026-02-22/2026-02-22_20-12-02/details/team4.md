@@ -130,8 +130,8 @@
 | 122 | 404 | Courtney Cicoria |
 | 123 | 400 | Ericca Eldridge |
 | 124 | 393 | Carlton Unfiltered |
-| 125 | 391 | Ramel Rhodes |
-| 126 | 391 | Austin Owens |
+| 125 | 391 | Austin Owens |
+| 126 | 391 | Ramel Rhodes |
 | 127 | 377 | Carrie Brian |
 | 128 | 373 | Joseph Guthrie |
 | 129 | 369 | Nope Young |
@@ -168,9 +168,9 @@
 | 160 | 292 | Cursed Hag |
 | 161 | 292 | Rafael Valentin |
 | 162 | 291 | shark tato |
-| 163 | 290 | 🥔🥔 Spudz |
+| 163 | 290 | Keshia Lyons |
 | 164 | 290 | Damn Libra |
-| 165 | 290 | Keshia Lyons |
+| 165 | 290 | 🥔🥔 Spudz |
 | 166 | 290 | Chaz Duncan |
 | 167 | 288 | Andria Lynn |
 | 168 | 288 | Leah Kutz Zirbel |
@@ -221,10 +221,10 @@
 | 213 | 237 | Jen Caldwell |
 | 214 | 236 | Swanky Fitline |
 | 215 | 235 | Chris Hartig |
-| 216 | 233 | April Rondinone |
-| 217 | 233 | Ruben Wheeler |
-| 218 | 230 | blockstar |
-| 219 | 230 | Jade Rian |
+| 216 | 233 | Ruben Wheeler |
+| 217 | 233 | April Rondinone |
+| 218 | 230 | Jade Rian |
+| 219 | 230 | blockstar |
 | 220 | 228 | Antony Dwayne Beasley |
 | 221 | 227 | Kim Hunt |
 | 222 | 226 | Zesty Twistbuilder |
@@ -247,8 +247,8 @@
 | 239 | 215 | Ziggy |
 | 240 | 214 | Stacey Stano |
 | 241 | 213 | Sarah Neathery |
-| 242 | 213 | Angela Geist Jusinski |
-| 243 | 213 | Rio Rocha |
+| 242 | 213 | Rio Rocha |
+| 243 | 213 | Angela Geist Jusinski |
 | 244 | 212 | Mike Solo |
 | 245 | 210 | Dihcheese444 |
 | 246 | 209 | Ak Jones |
@@ -260,8 +260,8 @@
 | 252 | 203 | Katherine Crane |
 | 253 | 202 | Patron Anderson |
 | 254 | 201 | Chaz |
-| 255 | 200 | Lori |
-| 256 | 200 | Googenheim |
+| 255 | 200 | Googenheim |
+| 256 | 200 | Lori |
 | 257 | 199 | Orchislactea |
 | 258 | 198 | Angelito |
 | 259 | 198 | Calvin Dennis |
