@@ -199,8 +199,8 @@
 | 191 | 431 | Loopy Fallmatch |
 | 192 | 431 | Wendy Dearden |
 | 193 | 430 | Terry Jo Jones |
-| 194 | 430 | Joye Sims Binion |
-| 195 | 430 | Jeni Dow |
+| 194 | 430 | Jeni Dow |
+| 195 | 430 | Joye Sims Binion |
 | 196 | 426 | Rochelle Hazelett |
 | 197 | 425 | Michael Johnson |
 | 198 | 422 | Fallorina Susana |

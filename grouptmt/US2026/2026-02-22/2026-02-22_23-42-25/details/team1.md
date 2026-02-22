@@ -218,8 +218,8 @@
 | 210 | 264 | Jen Nystrom |
 | 211 | 263 | Jessie Lynn |
 | 212 | 260 | Cheeky Pop |
-| 213 | 256 | Standia Civil |
-| 214 | 256 | Chris65 |
+| 213 | 256 | Chris65 |
+| 214 | 256 | Standia Civil |
 | 215 | 255 | Speedy Liney |
 | 216 | 254 | Al Smith Jr |
 | 217 | 254 | Giggly Builderline |
