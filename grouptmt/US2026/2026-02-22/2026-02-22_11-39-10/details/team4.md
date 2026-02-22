@@ -56,8 +56,8 @@
 | 48 | 697 | Edward White |
 | 49 | 695 | LisaJo Picken Buchanan |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Rebecca Moulton Pinciaro |
-| 52 | 659 | Jonathan Kimbrough |
+| 51 | 659 | Jonathan Kimbrough |
+| 52 | 659 | Rebecca Moulton Pinciaro |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
@@ -83,8 +83,8 @@
 | 75 | 512 | Casey Jeffcoat |
 | 76 | 511 | Michelle Marie |
 | 77 | 500 | Rodney McMath Jr. |
-| 78 | 486 | Carmethia Clemons Haslerig |
-| 79 | 486 | Landon Keith Graffeo |
+| 78 | 486 | Landon Keith Graffeo |
+| 79 | 486 | Carmethia Clemons Haslerig |
 | 80 | 485 | TeeJ |
 | 81 | 468 | Shane Kalamata Platoon |
 | 82 | 447 | Samantha Peterson |
@@ -171,8 +171,8 @@
 | 163 | 224 | Matt Summer |
 | 164 | 223 | Kris Bartlett |
 | 165 | 223 | Antony Dwayne Beasley |
-| 166 | 221 | PurpleMoonMa |
-| 167 | 221 | Rheanda Weaskus |
+| 166 | 221 | Rheanda Weaskus |
+| 167 | 221 | PurpleMoonMa |
 | 168 | 220 | Matt Dell'Olio |
 | 169 | 218 | Casey Grabner |
 | 170 | 217 | Chaz Duncan |
@@ -406,14 +406,14 @@
 | 398 | 104 | Cranky Rollpiece |
 | 399 | 104 | Jessica Johnston |
 | 400 | 103 | Sammy Noguera |
-| 401 | 102 | Brave Spinbuilder |
-| 402 | 102 | Christina O'Dell-Ishau |
+| 401 | 102 | Christina O'Dell-Ishau |
+| 402 | 102 | Brave Spinbuilder |
 | 403 | 102 | Bigeddie |
 | 404 | 101 | Saulc1991 |
 | 405 | 101 | wombat |
 | 406 | 100 | Sallie Sanborn |
 | 407 | 100 | Marcus TheeyoungWoe Gilmore |
-| 408 | 100 | Sallie Sanborn |
+| 408 | 100 | Rico |
 | 409 | 99 | Dapper Frame |
 | 410 | 98 | Groovy Gridlock |
 | 411 | 98 | Brenda Bird |
@@ -438,10 +438,10 @@
 | 430 | 92 | bloat princess |
 | 431 | 92 | Frilly Blocky |
 | 432 | 92 | Krash |
-| 433 | 91 | Lee Silpe |
-| 434 | 91 | Kametsunoyaiba |
+| 433 | 91 | Kametsunoyaiba |
+| 434 | 91 | Lee Silpe |
 | 435 | 91 | Sunny Filler |
-| 436 | 90 | Carol Ricks Raymond |
+| 436 | 90 | tipsy tiger |
 | 437 | 90 | Thomas Hettenhaus |
 | 438 | 90 | Carol Ricks Raymond |
 | 439 | 90 | Abigail Murphy |

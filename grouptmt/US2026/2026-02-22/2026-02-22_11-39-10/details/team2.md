@@ -485,16 +485,16 @@
 | 477 | 463 | Cody Nishimura |
 | 478 | 463 | Jaye EL Hunter |
 | 479 | 462 | Jarboe |
-| 480 | 462 | Amanda Ferrell |
-| 481 | 462 | Daphne Jordan |
+| 480 | 462 | Daphne Jordan |
+| 481 | 462 | Amanda Ferrell |
 | 482 | 460 | Tara Lynn Janes |
 | 483 | 459 | Melissa Kay Gibson |
 | 484 | 458 | Casper The Chonk |
 | 485 | 456 | Melissa Rebbe-Lehman |
 | 486 | 455 | Morgan Easter |
 | 487 | 454 | Casey Schumacher |
-| 488 | 453 | Rhonda Petro |
-| 489 | 453 | Joshua Sommerville |
+| 488 | 453 | Joshua Sommerville |
+| 489 | 453 | Rhonda Petro |
 | 490 | 453 | PandaMama |
 | 491 | 451 | Funky Caster |
 | 492 | 450 | Cheery Matchzone |
@@ -583,17 +583,17 @@
 | 575 | 393 | Jamie West |
 | 576 | 393 | bbv |
 | 577 | 393 | Deyawn Smith |
-| 578 | 391 | Qiana Sanders |
-| 579 | 391 | Adam Simmons |
-| 580 | 391 | Chilly Bridgepiece |
-| 581 | 391 | Anthony Huebel |
-| 582 | 390 | Besma Ao |
-| 583 | 390 | Joice Hansen |
-| 584 | 390 | Mike Aprilliano |
-| 585 | 390 | Moist_B-hole |
-| 586 | 389 | Julie Hamilton |
-| 587 | 389 | Alexis Richardson |
-| 588 | 389 | Kayla |
+| 578 | 391 | Adam Simmons |
+| 579 | 391 | Chilly Bridgepiece |
+| 580 | 391 | Anthony Huebel |
+| 581 | 391 | Qiana Sanders |
+| 582 | 390 | Moist_B-hole |
+| 583 | 390 | Besma Ao |
+| 584 | 390 | Joice Hansen |
+| 585 | 390 | Mike Aprilliano |
+| 586 | 389 | Alexis Richardson |
+| 587 | 389 | Kayla |
+| 588 | 389 | Julie Hamilton |
 | 589 | 388 | Christina Ashley |
 | 590 | 387 | Bold Brickster |
 | 591 | 387 | Misti Markijohn |
@@ -608,11 +608,11 @@
 | 600 | 382 | Amber Gray |
 | 601 | 381 | Nicky Jackson |
 | 602 | 381 | Happy Caster |
-| 603 | 380 | Christy Long |
-| 604 | 380 | Giggy Grabber |
+| 603 | 380 | Giggy Grabber |
+| 604 | 380 | Christy Long |
 | 605 | 379 | Cini |
-| 606 | 378 | Tina Marie |
-| 607 | 378 | TF Dyer |
+| 606 | 378 | TF Dyer |
+| 607 | 378 | Tina Marie |
 | 608 | 378 | Jasmine Kenney |
 | 609 | 376 | James Zaragoza |
 | 610 | 375 | Cecilia A Jenkins |
@@ -651,8 +651,8 @@
 | 643 | 361 | Lewis Sturgeon |
 | 644 | 360 | Jroc |
 | 645 | 359 | Cheyenne Donovan |
-| 646 | 358 | Alyssaaelena |
-| 647 | 358 | Sydney Busse |
+| 646 | 358 | Sydney Busse |
+| 647 | 358 | Alyssaaelena |
 | 648 | 357 | Shannon Byrd |
 | 649 | 357 | Tristan Szolek |
 | 650 | 355 | Amanda Perez |
@@ -723,8 +723,8 @@
 | 715 | 319 | Prado |
 | 716 | 319 | RetroLemur |
 | 717 | 318 | Jennifer Mahon |
-| 718 | 317 | Ashlyn Berner |
-| 719 | 317 | Zombi3 |
+| 718 | 317 | Zombi3 |
+| 719 | 317 | Ashlyn Berner |
 | 720 | 317 | Aireka Roman |
 | 721 | 316 | Jenn Marie |
 | 722 | 316 | Epic Spinfit |
@@ -1545,7 +1545,7 @@
 | 1537 | 151 | hyperbole |
 | 1538 | 151 | Britney Volz |
 | 1539 | 150 | Catherine Marsh Gruda |
-| 1540 | 150 | Chummy Caster |
+| 1540 | 150 | Sammy Bear |
 | 1541 | 150 | Amanda |
 | 1542 | 150 | Chummy Caster |
 | 1543 | 150 | Anthony Memphis Croom |
