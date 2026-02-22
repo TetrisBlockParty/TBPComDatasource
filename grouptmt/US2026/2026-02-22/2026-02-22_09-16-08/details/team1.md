@@ -132,8 +132,8 @@
 | 124 | 290 | Death |
 | 125 | 286 | Arianna O'Brien |
 | 126 | 285 | Ananda Mendez |
-| 127 | 284 | Rachael |
-| 128 | 284 | Emily Adelaide Wheatley |
+| 127 | 284 | Emily Adelaide Wheatley |
+| 128 | 284 | Rachael |
 | 129 | 283 | Franswa |
 | 130 | 282 | Timothy Dew |
 | 131 | 282 | Cool Shiftsnap |
@@ -195,8 +195,8 @@
 | 187 | 203 | LaFontaine Leslie |
 | 188 | 203 | Paula Martin |
 | 189 | 201 | Colleen Wise |
-| 190 | 200 | Breanna Luna |
-| 191 | 200 | DaRascal |
+| 190 | 200 | DaRascal |
+| 191 | 200 | Breanna Luna |
 | 192 | 199 | Basment Living |
 | 193 | 198 | Shiny Gridmatch |
 | 194 | 198 | Happy Snapbuild |
@@ -361,8 +361,8 @@
 | 353 | 108 | Owicked1 |
 | 354 | 108 | Teddy Alexander |
 | 355 | 107 | Colleen Pinette |
-| 356 | 107 | sent2bless34 |
-| 357 | 107 | MIKOZ |
+| 356 | 107 | MIKOZ |
+| 357 | 107 | sent2bless34 |
 | 358 | 106 | Josh Smith |
 | 359 | 106 | Bloknboy |
 | 360 | 105 | George Dalton |

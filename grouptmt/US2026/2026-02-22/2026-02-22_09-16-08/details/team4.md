@@ -49,8 +49,8 @@
 | 41 | 757 | Ancient Intuition |
 | 42 | 736 | Goatimus Lombardi |
 | 43 | 734 | BertMofo |
-| 44 | 707 | Rachel Anne |
-| 45 | 707 | Clarence Patawaran |
+| 44 | 707 | Clarence Patawaran |
+| 45 | 707 | Rachel Anne |
 | 46 | 704 | Crystal Carroll |
 | 47 | 697 | Edward White |
 | 48 | 695 | LisaJo Picken Buchanan |
@@ -99,8 +99,8 @@
 | 91 | 407 | Leslie Thomas |
 | 92 | 404 | Courtney Cicoria |
 | 93 | 401 | Zippy Gridlock |
-| 94 | 396 | Alicia Bass |
-| 95 | 396 | Amy Suckarieh |
+| 94 | 396 | Amy Suckarieh |
+| 95 | 396 | Alicia Bass |
 | 96 | 392 | Ericca Eldridge |
 | 97 | 391 | Ramel Rhodes |
 | 98 | 390 | Carlton Unfiltered |
@@ -160,8 +160,8 @@
 | 152 | 230 | Autum Leigh |
 | 153 | 230 | Cursed Hag |
 | 154 | 228 | J-Rizzle |
-| 155 | 227 | Swanky Fitline |
-| 156 | 227 | Alyssa Papen |
+| 155 | 227 | Alyssa Papen |
+| 156 | 227 | Swanky Fitline |
 | 157 | 225 | Damn Libra |
 | 158 | 224 | Matt Summer |
 | 159 | 223 | Kris Bartlett |
@@ -214,8 +214,8 @@
 | 206 | 179 | blockstar |
 | 207 | 178 | TinyLegoRose |
 | 208 | 175 | Lorena Guerrero-Barron |
-| 209 | 174 | Rio Rocha |
-| 210 | 174 | JPW |
+| 209 | 174 | JPW |
+| 210 | 174 | Rio Rocha |
 | 211 | 172 | Gilles Lanctot |
 | 212 | 171 | Autumn Kumzi |
 | 213 | 167 | Cozy Balancer |
@@ -225,19 +225,19 @@
 | 217 | 165 | James Hurley Jr. |
 | 218 | 164 | 030Synner |
 | 219 | 163 | Kristina Black |
-| 220 | 162 | Joanna |
-| 221 | 162 | John Brunetti |
+| 220 | 162 | John Brunetti |
+| 221 | 162 | Joanna |
 | 222 | 161 | Jenny Wells-Oakley |
 | 223 | 160 | Laura Hosford |
 | 224 | 160 | Carlos Ramirez |
 | 225 | 160 | Brittany Marsh |
 | 226 | 159 | Marcus Todd |
-| 227 | 158 | Chair |
-| 228 | 158 | Avy Absol |
-| 229 | 157 | KayM |
+| 227 | 158 | Avy Absol |
+| 228 | 158 | Chair |
+| 229 | 157 | Bethany Ison |
 | 230 | 157 | scott |
 | 231 | 157 | Paige Kittles |
-| 232 | 157 | Bethany Ison |
+| 232 | 157 | KayM |
 | 233 | 156 | Ultramarine |
 | 234 | 155 | AyeKay |
 | 235 | 154 | Zany Shatterer |
@@ -389,9 +389,9 @@
 | 381 | 102 | Bigeddie |
 | 382 | 101 | wombat |
 | 383 | 101 | Saulc1991 |
-| 384 | 100 | Marcus TheeyoungWoe Gilmore |
+| 384 | 100 | Rico |
 | 385 | 100 | Sallie Sanborn |
-| 386 | 100 | Rico |
+| 386 | 100 | Marcus TheeyoungWoe Gilmore |
 | 387 | 99 | Dapper Frame |
 | 388 | 98 | Squeezy Pearsall |
 | 389 | 98 | Dizzy Matchzone |

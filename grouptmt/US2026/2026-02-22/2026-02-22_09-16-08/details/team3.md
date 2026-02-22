@@ -52,8 +52,8 @@
 | 44 | 1006 | Dan Rob |
 | 45 | 998 | Liv Whetson |
 | 46 | 996 | Stephanie Rice |
-| 47 | 989 | Kay |
-| 48 | 989 | Joey Banks |
+| 47 | 989 | Joey Banks |
+| 48 | 989 | Kay |
 | 49 | 983 | Brandon Green |
 | 50 | 956 | Gracie |
 | 51 | 953 | mjl574 |
@@ -172,9 +172,9 @@
 | 164 | 376 | Loopy Clusterer |
 | 165 | 374 | Sherry Ogden |
 | 166 | 371 | Michael Nowogorski |
-| 167 | 370 | Danielle Allison |
-| 168 | 370 | Santeria Trece Candles |
-| 169 | 370 | Logan Naccarato |
+| 167 | 370 | Logan Naccarato |
+| 168 | 370 | Danielle Allison |
+| 169 | 370 | Santeria Trece Candles |
 | 170 | 368 | Stephanie Woods |
 | 171 | 366 | Adrian Marcel Pate |
 | 172 | 362 | Darlene McMillan |
@@ -252,8 +252,8 @@
 | 244 | 258 | Tamara Deherrera |
 | 245 | 257 | Ashley Jones |
 | 246 | 256 | Brenda Lee Vander Molen |
-| 247 | 256 | Tiffany Davie |
-| 248 | 256 | KayB |
+| 247 | 256 | KayB |
+| 248 | 256 | Tiffany Davie |
 | 249 | 251 | Sabrina Hardrick |
 | 250 | 250 | fraulila |
 | 251 | 249 | Annie Marie |
@@ -267,8 +267,8 @@
 | 259 | 240 | Jimmie Clemons |
 | 260 | 238 | LaTanya GeminiondaRise Johnson |
 | 261 | 236 | Jess Bissett |
-| 262 | 234 | Nikki Pags |
-| 263 | 234 | Connie Mohler-Fair |
+| 262 | 234 | Connie Mohler-Fair |
+| 263 | 234 | Nikki Pags |
 | 264 | 233 | Josh Borquez |
 | 265 | 233 | Ray Lader |
 | 266 | 232 | Brenda Schmid Wood |
@@ -342,15 +342,15 @@
 | 334 | 175 | Eileen Brady Thurber |
 | 335 | 175 | Becca Engle |
 | 336 | 174 | Lesley Perez |
-| 337 | 173 | BŘŰŤİÇŨŚ |
-| 338 | 173 | Naur |
+| 337 | 173 | Naur |
+| 338 | 173 | BŘŰŤİÇŨŚ |
 | 339 | 169 | Peachy Rollfit |
 | 340 | 169 | Kristian Thurman |
 | 341 | 168 | April Matthew Kibble |
 | 342 | 168 | Trice Thomas |
 | 343 | 167 | Shicken Nuggit |
-| 344 | 167 | Irene Arreguin |
-| 345 | 167 | Romeo |
+| 344 | 167 | Romeo |
+| 345 | 167 | Irene Arreguin |
 | 346 | 166 | Noettín Kan Zasnemoore |
 | 347 | 166 | Angella Lyons |
 | 348 | 166 | Snarky McFace |
@@ -385,8 +385,8 @@
 | 377 | 153 | Sheila M Frazier |
 | 378 | 153 | Tony Waters |
 | 379 | 152 | Goofy Fall |
-| 380 | 152 | Eric Caccavale |
-| 381 | 152 | Shiny Zonebuilder |
+| 380 | 152 | Shiny Zonebuilder |
+| 381 | 152 | Eric Caccavale |
 | 382 | 151 | Sarah Cowan Burgos |
 | 383 | 150 | Sassy Brickmatch |
 | 384 | 149 | Wacky Crasher |
@@ -408,8 +408,8 @@
 | 400 | 146 | Sdot |
 | 401 | 144 | Tenisha Semidey |
 | 402 | 144 | Blair Erin Waite |
-| 403 | 142 | Erica Anderson |
-| 404 | 142 | Gray Hicks |
+| 403 | 142 | Gray Hicks |
+| 404 | 142 | Erica Anderson |
 | 405 | 142 | Joy Petroski |
 | 406 | 142 | Jl |
 | 407 | 141 | Melissa Snyder |
@@ -436,8 +436,8 @@
 | 428 | 134 | Cheery Brickster |
 | 429 | 134 | gremicx |
 | 430 | 133 | Jen Lewis |
-| 431 | 132 | Hanna Kim |
-| 432 | 132 | Andrew Thorson |
+| 431 | 132 | Andrew Thorson |
+| 432 | 132 | Hanna Kim |
 | 433 | 131 | Cheeky Setter |
 | 434 | 130 | Sarah Whalen |
 | 435 | 130 | TotoCherue |

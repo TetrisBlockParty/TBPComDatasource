@@ -132,8 +132,8 @@
 | 124 | 1273 | Cool Rollpiece |
 | 125 | 1257 | Eileen Hale |
 | 126 | 1252 | Katrina Williams Balmir |
-| 127 | 1248 | Howard Forest |
-| 128 | 1248 | Isabela Shaw |
+| 127 | 1248 | Isabela Shaw |
+| 128 | 1248 | Howard Forest |
 | 129 | 1242 | Altamirano Michael |
 | 130 | 1237 | L3sli3 |
 | 131 | 1232 | Groovy Puzzle |
@@ -722,8 +722,8 @@
 | 714 | 312 | Sassy Linkbuilder |
 | 715 | 312 | Heather Renee Jeffers |
 | 716 | 311 | Megan Phillips |
-| 717 | 310 | Cheeky Brickmatch |
-| 718 | 310 | Wendy Ducheney |
+| 717 | 310 | Wendy Ducheney |
+| 718 | 310 | Cheeky Brickmatch |
 | 719 | 310 | Audra Williams |
 | 720 | 310 | Beth Decker |
 | 721 | 309 | Byung Bae Park |
@@ -742,8 +742,8 @@
 | 734 | 304 | James Smith |
 | 735 | 304 | Melissa McCall |
 | 736 | 303 | Angie Marie |
-| 737 | 303 | Devin |
-| 738 | 303 | Amanda Schaffer |
+| 737 | 303 | Amanda Schaffer |
+| 738 | 303 | Devin |
 | 739 | 302 | Kena T. Tanner |
 | 740 | 302 | Maxwell Escalera |
 | 741 | 300 | Alice Ball |
@@ -797,8 +797,8 @@
 | 789 | 279 | Laura Wyatt |
 | 790 | 278 | AndrewandShela Gornik |
 | 791 | 278 | Katherin Camacho |
-| 792 | 277 | Anthony Mignacca |
-| 793 | 277 | Amanda Chamberlain |
+| 792 | 277 | Amanda Chamberlain |
+| 793 | 277 | Anthony Mignacca |
 | 794 | 277 | Min |
 | 795 | 276 | Dandy Combo |
 | 796 | 276 | Ryan Lauer |
@@ -817,8 +817,8 @@
 | 809 | 274 | KT Macadocious |
 | 810 | 274 | Jamie Stevey |
 | 811 | 274 | Robin L. Vial |
-| 812 | 274 | Matthew Joseph Acevedo |
-| 813 | 274 | Amanda Michelle Pigeon |
+| 812 | 274 | Amanda Michelle Pigeon |
+| 813 | 274 | Matthew Joseph Acevedo |
 | 814 | 273 | Jennifer Aiken |
 | 815 | 273 | Swanky Snap |
 | 816 | 273 | Britt Stunkel |
