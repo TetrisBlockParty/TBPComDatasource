@@ -78,8 +78,8 @@
 | 70 | 353 | Trina Gee |
 | 71 | 348 | Stef Hu |
 | 72 | 347 | pjbeta |
-| 73 | 338 | Tipsy Strikerpiece |
-| 74 | 338 | Stephanie Zahn |
+| 73 | 338 | Stephanie Zahn |
+| 74 | 338 | Tipsy Strikerpiece |
 | 75 | 333 | Brandi Huntington |
 | 76 | 328 | Gracie |
 | 77 | 328 | Kellie |
@@ -118,8 +118,8 @@
 | 110 | 249 | Elaine Elaine |
 | 111 | 248 | Jason Jones |
 | 112 | 244 | Franswa |
-| 113 | 243 | Trippy Redd |
-| 114 | 243 | Chelsea Dahlquist |
+| 113 | 243 | Chelsea Dahlquist |
+| 114 | 243 | Trippy Redd |
 | 115 | 240 | Tana |
 | 116 | 238 | John J. Cronin |
 | 117 | 236 | Mandyy Rae |
@@ -138,14 +138,14 @@
 | 130 | 203 | GATOR |
 | 131 | 203 | Paula Martin |
 | 132 | 199 | Jennifer Hardman |
-| 133 | 198 | Happy Snapbuild |
-| 134 | 198 | Shiny Gridmatch |
+| 133 | 198 | Shiny Gridmatch |
+| 134 | 198 | Happy Snapbuild |
 | 135 | 195 | Daring Fitclear |
-| 136 | 194 | Tyler Werts |
-| 137 | 194 | Ash Galvan |
+| 136 | 194 | Ash Galvan |
+| 137 | 194 | Tyler Werts |
 | 138 | 193 | Lachelle Dillon |
-| 139 | 192 | Shaykmia |
-| 140 | 192 | Jessica Sheehan |
+| 139 | 192 | Jessica Sheehan |
+| 140 | 192 | Shaykmia |
 | 141 | 191 | Diane Byrd |
 | 142 | 190 | Sweetts |
 | 143 | 190 | Thorne Shumate |
@@ -157,8 +157,8 @@
 | 149 | 186 | Michael |
 | 150 | 185 | Basment Living |
 | 151 | 182 | Monica Donato |
-| 152 | 180 | Erez Yosef |
-| 153 | 180 | BigWeenie69 |
+| 152 | 180 | BigWeenie69 |
+| 153 | 180 | Erez Yosef |
 | 154 | 179 | Danielle Little-Daugherty |
 | 155 | 178 | Chad Atchley |
 | 156 | 177 | ParisandCory Champagne |
@@ -172,10 +172,10 @@
 | 164 | 170 | Veronica Eve |
 | 165 | 169 | Abbey Crespo |
 | 166 | 168 | Standia Civil |
-| 167 | 167 | Erin Hodges Plumb |
-| 168 | 167 | Nery Martinez |
-| 169 | 166 | Jessie Lynn |
-| 170 | 166 | Rico Rico |
+| 167 | 167 | Nery Martinez |
+| 168 | 167 | Erin Hodges Plumb |
+| 169 | 166 | Rico Rico |
+| 170 | 166 | Jessie Lynn |
 | 171 | 165 | Nadine Velardo |
 | 172 | 163 | Tyler Whitley |
 | 173 | 162 | Cece Ibarra |

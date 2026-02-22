@@ -43,8 +43,8 @@
 | 35 | 1059 | Lori Barnaby |
 | 36 | 1058 | Tetris Master |
 | 37 | 1036 | Mahman |
-| 38 | 1013 | Laura Melton |
-| 39 | 1013 | Amber Jones |
+| 38 | 1013 | Amber Jones |
+| 39 | 1013 | Laura Melton |
 | 40 | 998 | Liv Whetson |
 | 41 | 996 | Danielle Cutler |
 | 42 | 989 | Kay |
@@ -66,8 +66,8 @@
 | 58 | 632 | Jamie Furr |
 | 59 | 628 | Tiff Vs Tiffany |
 | 60 | 625 | Elaine Webb Graves |
-| 61 | 621 | Ebony West-Cundiff |
-| 62 | 621 | Cherry Parker |
+| 61 | 621 | Cherry Parker |
+| 62 | 621 | Ebony West-Cundiff |
 | 63 | 619 | Jennifer |
 | 64 | 618 | MissTaylor |
 | 65 | 618 | Brandon Green |
@@ -75,8 +75,8 @@
 | 67 | 604 | Danielle Becker |
 | 68 | 591 | Suzieq |
 | 69 | 588 | yoyo |
-| 70 | 582 | Katrina Schroeder |
-| 71 | 582 | Natasha Jones |
+| 70 | 582 | Natasha Jones |
+| 71 | 582 | Katrina Schroeder |
 | 72 | 581 | Danielle Mogg |
 | 73 | 580 | Amanda L Baker |
 | 74 | 576 | Dan Rob |
@@ -91,8 +91,8 @@
 | 83 | 514 | Jay Horn |
 | 84 | 510 | Dave Herzog |
 | 85 | 506 | Sashay Tapae Simpson |
-| 86 | 503 | Susan Valentino |
-| 87 | 503 | Nate Burnside |
+| 86 | 503 | Nate Burnside |
+| 87 | 503 | Susan Valentino |
 | 88 | 502 | Justin Ritter |
 | 89 | 497 | Jennifer Petrie |
 | 90 | 493 | Mandy Smith Oldham |
@@ -121,8 +121,8 @@
 | 113 | 394 | Annie Déè |
 | 114 | 392 | Michelle |
 | 115 | 391 | Calista Jo Dickson |
-| 116 | 390 | Hasty Cascadefit |
-| 117 | 390 | Patti Skiles |
+| 116 | 390 | Patti Skiles |
+| 117 | 390 | Hasty Cascadefit |
 | 118 | 389 | FuzzyNavel |
 | 119 | 389 | Jessica Bechler |
 | 120 | 386 | Katie Knaus |
