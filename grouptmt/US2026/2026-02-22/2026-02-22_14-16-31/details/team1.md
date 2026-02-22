@@ -140,8 +140,8 @@
 | 132 | 300 | Elaine Elaine |
 | 133 | 300 | Chelsea Dahlquist |
 | 134 | 298 | Erin Hodges Plumb |
-| 135 | 290 | Sarah Roberts |
-| 136 | 290 | Death |
+| 135 | 290 | Death |
+| 136 | 290 | Sarah Roberts |
 | 137 | 289 | David Miller |
 | 138 | 285 | Ananda Mendez |
 | 139 | 284 | Emily Adelaide Wheatley |
@@ -181,8 +181,8 @@
 | 173 | 241 | John J. Cronin |
 | 174 | 239 | Sam Williams |
 | 175 | 237 | Kimberly Garcia |
-| 176 | 235 | Desiree Deschaine Havee |
-| 177 | 235 | MRdot Rooski |
+| 176 | 235 | MRdot Rooski |
+| 177 | 235 | Desiree Deschaine Havee |
 | 178 | 234 | Paula Martin |
 | 179 | 231 | Amanda Johnson Huffman |
 | 180 | 230 | Billie Dawn Sparks |

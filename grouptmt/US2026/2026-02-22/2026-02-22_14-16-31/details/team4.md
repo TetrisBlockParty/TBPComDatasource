@@ -170,8 +170,8 @@
 | 162 | 253 | Casey Grabner |
 | 163 | 250 | Matt Dell'Olio |
 | 164 | 245 | Diana Houts |
-| 165 | 244 | Twisty Cascadezone |
-| 166 | 244 | J-Rizzle |
+| 165 | 244 | J-Rizzle |
+| 166 | 244 | Twisty Cascadezone |
 | 167 | 241 | Allen Lloyd |
 | 168 | 240 | Peachy Fall |
 | 169 | 237 | Jen Caldwell |
@@ -205,8 +205,8 @@
 | 197 | 207 | Chirpy Basepiece |
 | 198 | 207 | scott |
 | 199 | 206 | Ruben Wheeler |
-| 200 | 205 | Lindsey Gonzalez |
-| 201 | 205 | Kathy Brookins |
+| 200 | 205 | Kathy Brookins |
+| 201 | 205 | Lindsey Gonzalez |
 | 202 | 204 | Carlos Ramirez |
 | 203 | 203 | Katherine Crane |
 | 204 | 202 | Patron Anderson |

@@ -196,8 +196,8 @@
 | 188 | 993 | Tralonda Weeks |
 | 189 | 991 | Moose Griffith |
 | 190 | 989 | Teddi Notyalc |
-| 191 | 988 | Cherica Taylor |
-| 192 | 988 | Maegan Beaule |
+| 191 | 988 | Maegan Beaule |
+| 192 | 988 | Cherica Taylor |
 | 193 | 986 | RAEPR05 |
 | 194 | 984 | Nika Bee |
 | 195 | 982 | Desiree Harris Rosch |

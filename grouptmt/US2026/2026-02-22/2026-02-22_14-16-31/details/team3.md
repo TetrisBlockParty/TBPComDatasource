@@ -113,8 +113,8 @@
 | 105 | 568 | Rachael McClain Owens |
 | 106 | 566 | Dolores Falco |
 | 107 | 565 | Patty Allen |
-| 108 | 562 | Dave Herzog |
-| 109 | 562 | Louise Stacy Sisson |
+| 108 | 562 | Louise Stacy Sisson |
+| 109 | 562 | Dave Herzog |
 | 110 | 559 | Morgan Martinez |
 | 111 | 549 | Nicole Myers |
 | 112 | 540 | Kristie |
@@ -294,9 +294,9 @@
 | 286 | 225 | Steffi Chris Dacones |
 | 287 | 224 | Quirky Dropzone |
 | 288 | 221 | Vaners |
-| 289 | 221 | Alice |
+| 289 | 221 | Jaime Monhaut-Reed |
 | 290 | 221 | kacihall |
-| 291 | 221 | Jaime Monhaut-Reed |
+| 291 | 221 | Alice |
 | 292 | 220 | Tosha Griffey |
 | 293 | 220 | rosy |
 | 294 | 218 | Michael Lucado |
@@ -326,8 +326,8 @@
 | 318 | 205 | Kirhonda Autmon |
 | 319 | 204 | Aerian Preston |
 | 320 | 203 | Angie Harper |
-| 321 | 202 | Tipsy Zonebuilder |
-| 322 | 202 | Staci George Fitzsimmons |
+| 321 | 202 | Staci George Fitzsimmons |
+| 322 | 202 | Tipsy Zonebuilder |
 | 323 | 201 | Hyper Matchzone |
 | 324 | 200 | glichmod |
 | 325 | 200 | Colleen Phelps |
