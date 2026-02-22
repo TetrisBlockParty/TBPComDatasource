@@ -186,12 +186,12 @@
 | 178 | 951 | Cynthia Ward |
 | 179 | 950 | Teresa Gillmore |
 | 180 | 942 | Keri Womack |
-| 181 | 941 | Marie Boyd Faulk |
-| 182 | 941 | Cool Clearer |
+| 181 | 941 | Cool Clearer |
+| 182 | 941 | Marie Boyd Faulk |
 | 183 | 935 | YiFei |
 | 184 | 935 | William Meussner |
-| 185 | 932 | L3sli3 |
-| 186 | 932 | Catina Hutchison |
+| 185 | 932 | Catina Hutchison |
+| 186 | 932 | L3sli3 |
 | 187 | 921 | Morgue Chick |
 | 188 | 916 | Butta |
 | 189 | 915 | Kelly Trent |
@@ -272,15 +272,15 @@
 | 264 | 700 | Beverly Owens |
 | 265 | 698 | Mighty Shatterfit |
 | 266 | 697 | Dreamy Blast |
-| 267 | 692 | Jennifer Casey-Kay |
-| 268 | 692 | Dannette Goldberg-Richards |
-| 269 | 692 | Chelle |
+| 267 | 692 | Chelle |
+| 268 | 692 | Jennifer Casey-Kay |
+| 269 | 692 | Dannette Goldberg-Richards |
 | 270 | 690 | Deborah Miller |
 | 271 | 689 | Giggy Blocker |
-| 272 | 688 | ShinyRose |
-| 273 | 688 | Tiara Elizabeth Baker |
-| 274 | 687 | Stephanie Lumanlan |
-| 275 | 687 | Jai Jackson |
+| 272 | 688 | Tiara Elizabeth Baker |
+| 273 | 688 | ShinyRose |
+| 274 | 687 | Jai Jackson |
+| 275 | 687 | Stephanie Lumanlan |
 | 276 | 686 | Ashley Guernsey-Martin |
 | 277 | 685 | Binyah-Binyah |
 | 278 | 681 | Melissa Holsinger |

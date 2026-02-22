@@ -151,8 +151,8 @@
 | 143 | 401 | Katie Knaus |
 | 144 | 400 | Luciana Braganca Vieira |
 | 145 | 400 | Aaron Pitkin |
-| 146 | 399 | Jacqueline Rodriguez |
-| 147 | 399 | Mcathen |
+| 146 | 399 | Mcathen |
+| 147 | 399 | Jacqueline Rodriguez |
 | 148 | 399 | Marcie Bressler |
 | 149 | 397 | Annie Déè |
 | 150 | 393 | Fallorina Susana |
@@ -245,9 +245,9 @@
 | 237 | 256 | Tiffany Davie |
 | 238 | 251 | Sabrina Hardrick |
 | 239 | 250 | fraulila |
-| 240 | 249 | JerseyJess |
-| 241 | 249 | Annie Marie |
-| 242 | 249 | Raven Dudley |
+| 240 | 249 | Raven Dudley |
+| 241 | 249 | JerseyJess |
+| 242 | 249 | Annie Marie |
 | 243 | 246 | Eon Harris |
 | 244 | 246 | Peppy Shifter |
 | 245 | 245 | Latoya Mayne |
@@ -322,8 +322,8 @@
 | 314 | 178 | Jess Dearborn |
 | 315 | 178 | Jennifer Alvey |
 | 316 | 177 | Rachel |
-| 317 | 176 | Melissa Orth Hunter |
-| 318 | 176 | Emma |
+| 317 | 176 | Emma |
+| 318 | 176 | Melissa Orth Hunter |
 | 319 | 175 | Eileen Brady Thurber |
 | 320 | 174 | Betty Rosas |
 | 321 | 174 | Lesley Perez |
@@ -335,8 +335,8 @@
 | 327 | 168 | April Matthew Kibble |
 | 328 | 168 | Trice Thomas |
 | 329 | 167 | Shicken Nuggit |
-| 330 | 167 | Irene Arreguin |
-| 331 | 167 | Romeo |
+| 330 | 167 | Romeo |
+| 331 | 167 | Irene Arreguin |
 | 332 | 166 | Noettín Kan Zasnemoore |
 | 333 | 166 | Snarky McFace |
 | 334 | 165 | Ashley Lynn Marchese |
@@ -355,16 +355,16 @@
 | 347 | 159 | Salena Whitlock |
 | 348 | 159 | Joshua David Huie |
 | 349 | 158 | Willow |
-| 350 | 157 | Katrina E Jelks |
-| 351 | 157 | Steffi Chris Dacones |
-| 352 | 157 | Angel Mendez |
+| 350 | 157 | Angel Mendez |
+| 351 | 157 | Katrina E Jelks |
+| 352 | 157 | Steffi Chris Dacones |
 | 353 | 157 | Wetwet |
 | 354 | 156 | Nichole Greene |
 | 355 | 155 | Chummy Caster |
 | 356 | 155 | Michell Hendershott Jackson |
 | 357 | 155 | Michael Leblanc |
-| 358 | 153 | Sheila M Frazier |
-| 359 | 153 | Lys |
+| 358 | 153 | Lys |
+| 359 | 153 | Sheila M Frazier |
 | 360 | 153 | Tony Waters |
 | 361 | 152 | Goofy Fall |
 | 362 | 152 | Shiny Zonebuilder |
@@ -379,8 +379,8 @@
 | 371 | 147 | David Bardo |
 | 372 | 147 | Funky Jumper |
 | 373 | 147 | sofaking |
-| 374 | 146 | Sara Dunn |
-| 375 | 146 | ROODBOY |
+| 374 | 146 | ROODBOY |
+| 375 | 146 | Sara Dunn |
 | 376 | 146 | Sdot |
 | 377 | 146 | Wettnippz |
 | 378 | 144 | Blair Erin Waite |
@@ -807,7 +807,7 @@
 | 799 | 69 | Anastasia Williams |
 | 800 | 69 | Lisa Feddeck |
 | 801 | 69 | Paula Urlacher |
-| 802 | 69 | Michelle Castillo |
+| 802 | 69 | Stitchmom |
 | 803 | 69 | Chad |
 | 804 | 69 | Michelle Castillo |
 | 805 | 68 | Monica Richter |

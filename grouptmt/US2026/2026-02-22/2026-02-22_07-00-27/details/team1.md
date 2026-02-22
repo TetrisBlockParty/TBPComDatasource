@@ -124,8 +124,8 @@
 | 116 | 290 | Death |
 | 117 | 288 | Seante Bullock |
 | 118 | 287 | Chelsea Dahlquist |
-| 119 | 286 | Ly Phethmany |
-| 120 | 286 | Arianna O'Brien |
+| 119 | 286 | Arianna O'Brien |
+| 120 | 286 | Ly Phethmany |
 | 121 | 285 | Ananda Mendez |
 | 122 | 284 | Emily Adelaide Wheatley |
 | 123 | 284 | Rachael |
@@ -136,8 +136,8 @@
 | 128 | 280 | Jennifer Hardman |
 | 129 | 276 | Dandy Basegrid |
 | 130 | 265 | SkipTheSadSauce |
-| 131 | 264 | Jenny Gingrich Fuentes |
-| 132 | 264 | Lexuriuos Lifestlye |
+| 131 | 264 | Lexuriuos Lifestlye |
+| 132 | 264 | Jenny Gingrich Fuentes |
 | 133 | 263 | Sharon Reynolds |
 | 134 | 257 | Amanda Jarnagin |
 | 135 | 256 | David Miller |

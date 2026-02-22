@@ -136,8 +136,8 @@
 | 128 | 277 | Mary Ann Pabukis |
 | 129 | 275 | Dizzy Tiley |
 | 130 | 271 | Sarah Brown |
-| 131 | 264 | Girl |
-| 132 | 264 | Dana Scott |
+| 131 | 264 | Dana Scott |
+| 132 | 264 | Girl |
 | 133 | 264 | Epic Curvetile |
 | 134 | 262 | Holly Jolly |
 | 135 | 256 | Mylo Lipscomb |
@@ -148,8 +148,8 @@
 | 140 | 240 | Peachy Fall |
 | 141 | 240 | Jolly Dashfit |
 | 142 | 232 | Crystal Nicolette Moore |
-| 143 | 230 | Cursed Hag |
-| 144 | 230 | Autum Leigh |
+| 143 | 230 | Autum Leigh |
+| 144 | 230 | Cursed Hag |
 | 145 | 228 | J-Rizzle |
 | 146 | 227 | Alyssa Papen |
 | 147 | 227 | Chris Bernstein |
@@ -171,8 +171,8 @@
 | 163 | 215 | Jessica Bohlken |
 | 164 | 213 | Jason Allen |
 | 165 | 213 | Sarah Neathery |
-| 166 | 212 | Calvin Cannon |
-| 167 | 212 | Mike Solo |
+| 166 | 212 | Mike Solo |
+| 167 | 212 | Calvin Cannon |
 | 168 | 211 | Jenna McGeorge |
 | 169 | 207 | Chirpy Basepiece |
 | 170 | 205 | Kathy Brookins |
