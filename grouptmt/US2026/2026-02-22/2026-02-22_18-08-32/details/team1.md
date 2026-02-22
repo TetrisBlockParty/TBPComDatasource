@@ -308,7 +308,7 @@
 | 300 | 170 | Наталья Солоид |
 | 301 | 169 | Ward Leandrea |
 | 302 | 169 | Allena Craft |
-| 303 | 169 | Ward Leandrea |
+| 303 | 169 | Abbey Crespo |
 | 304 | 168 | Amber Dee |
 | 305 | 166 | LD1 |
 | 306 | 166 | Carrie Smith |

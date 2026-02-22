@@ -210,8 +210,8 @@
 | 202 | 362 | Rochelle Hazelett |
 | 203 | 362 | Brandon Givens |
 | 204 | 362 | Loopy Fallmatch |
-| 205 | 358 | Chummy Caster |
-| 206 | 358 | RickyG |
+| 205 | 358 | RickyG |
+| 206 | 358 | Chummy Caster |
 | 207 | 357 | Stephanie Burtin |
 | 208 | 353 | Nora Rogers |
 | 209 | 351 | Eon Harris |
@@ -221,8 +221,8 @@
 | 213 | 346 | Tamara Deherrera |
 | 214 | 344 | Roary Danner |
 | 215 | 343 | Ashley Raines |
-| 216 | 341 | Noyb Adam |
-| 217 | 341 | Samantha Lynn |
+| 216 | 341 | Samantha Lynn |
+| 217 | 341 | Noyb Adam |
 | 218 | 341 | Ashley Tookes |
 | 219 | 340 | Ammmmmmy |
 | 220 | 339 | Rania Zaqout |
@@ -230,8 +230,8 @@
 | 222 | 337 | Philip Rock |
 | 223 | 332 | Rich LeBlanc |
 | 224 | 330 | Rebecca Funderburk Kirby |
-| 225 | 324 | Kristal C Lee |
-| 226 | 324 | Sissy Lowery Davis |
+| 225 | 324 | Sissy Lowery Davis |
+| 226 | 324 | Kristal C Lee |
 | 227 | 323 | Demetrious Shaw Sr. |
 | 228 | 323 | Melissa Orth Hunter |
 | 229 | 322 | Marci Mize Fandrich |
@@ -341,8 +341,8 @@
 | 333 | 218 | Tina Smith Roy |
 | 334 | 217 | Snazzy Filler |
 | 335 | 217 | Goofy Fall |
-| 336 | 216 | Cheryl Hinch Tenbrook |
-| 337 | 216 | Frothy Snapper |
+| 336 | 216 | Frothy Snapper |
+| 337 | 216 | Cheryl Hinch Tenbrook |
 | 338 | 215 | Everret Maxine |
 | 339 | 214 | Amy Fuller Heaton |
 | 340 | 214 | Randy Clevenger |
@@ -350,13 +350,13 @@
 | 342 | 213 | Nicholas Roddy |
 | 343 | 213 | Jess Dearborn |
 | 344 | 212 | AlsoJess |
-| 345 | 211 | Velma Mull |
-| 346 | 211 | El Chapa |
+| 345 | 211 | El Chapa |
+| 346 | 211 | Velma Mull |
 | 347 | 210 | Criss |
 | 348 | 210 | Ashley Lynn Marchese |
 | 349 | 210 | Saucy Buildout |
-| 350 | 209 | TotoCherue |
-| 351 | 209 | Kirhonda Autmon |
+| 350 | 209 | Kirhonda Autmon |
+| 351 | 209 | TotoCherue |
 | 352 | 209 | Daring Builder |
 | 353 | 208 | Karent524 |
 | 354 | 207 | Kristian Thurman |

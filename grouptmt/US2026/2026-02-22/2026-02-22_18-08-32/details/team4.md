@@ -18,8 +18,8 @@
 | 10 | 1835 | East Mamba |
 | 11 | 1775 | Ash |
 | 12 | 1676 | Ayanna Soto |
-| 13 | 1447 | GreenJeepGirl |
-| 14 | 1447 | Juggalo |
+| 13 | 1447 | Juggalo |
+| 14 | 1447 | GreenJeepGirl |
 | 15 | 1398 | Cassie Michaux |
 | 16 | 1292 | Roger Coulter |
 | 17 | 1255 | Tammi Crnza |
@@ -70,8 +70,8 @@
 | 62 | 688 | Avy Absol |
 | 63 | 671 | Kimyatta Cavin |
 | 64 | 671 | D3TROITB0RN74 |
-| 65 | 664 | Valerie Roberts |
-| 66 | 664 | loulou |
+| 65 | 664 | loulou |
+| 66 | 664 | Valerie Roberts |
 | 67 | 659 | Jonathan Kimbrough |
 | 68 | 654 | Chilly Line |
 | 69 | 647 | KM8 |
@@ -85,8 +85,8 @@
 | 77 | 590 | Jamie Mann-Deichmann |
 | 78 | 588 | Eric Mcgaughy |
 | 79 | 581 | Yoset Mejia |
-| 80 | 575 | Jeremy Steines |
-| 81 | 575 | Carolyn Wallace |
+| 80 | 575 | Carolyn Wallace |
+| 81 | 575 | Jeremy Steines |
 | 82 | 564 | Shane Kalamata Platoon |
 | 83 | 560 | Jason Allen |
 | 84 | 559 | H.R. Block |
@@ -116,8 +116,8 @@
 | 108 | 426 | Ren Mc |
 | 109 | 419 | shar |
 | 110 | 415 | Monica Daley |
-| 111 | 412 | Scott Jameson |
-| 112 | 412 | Jenna Ingersoll |
+| 111 | 412 | Jenna Ingersoll |
+| 112 | 412 | Scott Jameson |
 | 113 | 409 | Isabella Blanco |
 | 114 | 407 | Marie-Pier Desjardins |
 | 115 | 404 | Courtney Cicoria |
@@ -136,8 +136,8 @@
 | 128 | 338 | Lucas J Sutton |
 | 129 | 338 | ThaEviLJeNiuZ |
 | 130 | 336 | Austin Owens |
-| 131 | 332 | HastyGrabber |
-| 132 | 332 | Desi Desporte |
+| 131 | 332 | Desi Desporte |
+| 132 | 332 | HastyGrabber |
 | 133 | 330 | David Lay |
 | 134 | 329 | Amanda Pauldo-Ivy |
 | 135 | 329 | Jessica Bohlken |
@@ -149,10 +149,10 @@
 | 141 | 319 | Guy Incognito |
 | 142 | 318 | Lauren Scott |
 | 143 | 314 | Andy Cabral |
-| 144 | 307 | Angela Srubar-Norman |
-| 145 | 307 | Bio Nelly |
-| 146 | 300 | Jason Hart |
-| 147 | 300 | Dana Scott |
+| 144 | 307 | Bio Nelly |
+| 145 | 307 | Angela Srubar-Norman |
+| 146 | 300 | Dana Scott |
+| 147 | 300 | Jason Hart |
 | 148 | 299 | TRCuse |
 | 149 | 296 | Klo |
 | 150 | 294 | Kesha Brady |
@@ -175,10 +175,10 @@
 | 167 | 271 | Sarah Brown |
 | 168 | 269 | Nikki Rae Gordon |
 | 169 | 268 | Mimi |
-| 170 | 267 | Casey Grabner |
-| 171 | 267 | Damn Libra |
-| 172 | 267 | Kathy Brookins |
-| 173 | 267 | Holly |
+| 170 | 267 | Damn Libra |
+| 171 | 267 | Casey Grabner |
+| 172 | 267 | Holly |
+| 173 | 267 | Kathy Brookins |
 | 174 | 266 | Laura |
 | 175 | 265 | Jeff Brian Gates |
 | 176 | 265 | Chris Bernstein |
@@ -503,8 +503,8 @@
 | 495 | 98 | Brenda Bird |
 | 496 | 97 | Serena Butter |
 | 497 | 97 | Renee Marshall |
-| 498 | 97 | Tyler Bechtel |
-| 499 | 97 | Flavoredsausage |
+| 498 | 97 | Flavoredsausage |
+| 499 | 97 | Tyler Bechtel |
 | 500 | 96 | Destiney Carter |
 | 501 | 96 | Christy |
 | 502 | 96 | Snippy Clearer |
