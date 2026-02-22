@@ -56,8 +56,8 @@
 | 48 | 695 | LisaJo Picken Buchanan |
 | 49 | 677 | Anthony Bryan Riva |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Jonathan Kimbrough |
-| 52 | 659 | Rebecca Moulton Pinciaro |
+| 51 | 659 | Rebecca Moulton Pinciaro |
+| 52 | 659 | Jonathan Kimbrough |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
@@ -185,8 +185,8 @@
 | 177 | 204 | Jen Caldwell |
 | 178 | 203 | Katherine Crane |
 | 179 | 202 | TRCuse |
-| 180 | 201 | Melvin Baird |
-| 181 | 201 | Chance Strickland |
+| 180 | 201 | Chance Strickland |
+| 181 | 201 | Melvin Baird |
 | 182 | 200 | Laura |
 | 183 | 199 | Zethra Prenisha Rahming |
 | 184 | 198 | Jessica Lynn Cutlip |
@@ -247,8 +247,8 @@
 | 239 | 154 | Zany Shatterer |
 | 240 | 153 | Mr. Party |
 | 241 | 153 | Empress Oasis |
-| 242 | 152 | Faja |
-| 243 | 152 | Austin Owens |
+| 242 | 152 | Austin Owens |
+| 243 | 152 | Faja |
 | 244 | 151 | Angelito |
 | 245 | 149 | Shainne Brewer |
 | 246 | 149 | Tanner Lund |
@@ -414,9 +414,9 @@
 | 406 | 95 | Jobadia Steelerton |
 | 407 | 95 | Chirpy Slammer |
 | 408 | 95 | RedBoots82 |
-| 409 | 94 | Jeff Roberts |
+| 409 | 94 | Ahleek Mitchell |
 | 410 | 94 | DonMega |
-| 411 | 94 | Ahleek Mitchell |
+| 411 | 94 | Jeff Roberts |
 | 412 | 93 | Matt Gooder |
 | 413 | 93 | Mousey406 |
 | 414 | 92 | Krash |

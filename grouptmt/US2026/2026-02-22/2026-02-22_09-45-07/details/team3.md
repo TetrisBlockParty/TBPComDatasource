@@ -142,8 +142,8 @@
 | 134 | 454 | Makelini Mausia |
 | 135 | 453 | Silly Twist |
 | 136 | 449 | Danielle Rhoades |
-| 137 | 445 | Jacqueline Rodriguez |
-| 138 | 445 | Kristie McFarland |
+| 137 | 445 | Kristie McFarland |
+| 138 | 445 | Jacqueline Rodriguez |
 | 139 | 435 | Michelle |
 | 140 | 432 | Jenny Hrndz |
 | 141 | 428 | Betty Ivy |
@@ -192,8 +192,8 @@
 | 184 | 343 | Ashley Raines |
 | 185 | 341 | Samantha Lynn |
 | 186 | 340 | Chummy Caster |
-| 187 | 338 | Gumbo |
-| 188 | 338 | Leah Barnett |
+| 187 | 338 | Leah Barnett |
+| 188 | 338 | Gumbo |
 | 189 | 332 | Rich LeBlanc |
 | 190 | 332 | Noyb Adam |
 | 191 | 330 | Rebecca Funderburk Kirby |
@@ -207,8 +207,8 @@
 | 199 | 311 | Araceli Parra |
 | 200 | 311 | Stephanie Burtin |
 | 201 | 310 | Danielle Balcom |
-| 202 | 308 | Rania Zaqout |
-| 203 | 308 | Daryn Elliott |
+| 202 | 308 | Daryn Elliott |
+| 203 | 308 | Rania Zaqout |
 | 204 | 307 | rnr junky |
 | 205 | 307 | Blocked |
 | 206 | 302 | Rebecca Bailey |
@@ -256,8 +256,8 @@
 | 248 | 256 | KayB |
 | 249 | 251 | Sabrina Hardrick |
 | 250 | 250 | fraulila |
-| 251 | 249 | JerseyJess |
-| 252 | 249 | Annie Marie |
+| 251 | 249 | Annie Marie |
+| 252 | 249 | JerseyJess |
 | 253 | 247 | Carrie Huskey |
 | 254 | 246 | Eon Harris |
 | 255 | 246 | Peppy Shifter |
@@ -347,14 +347,14 @@
 | 339 | 170 | Tina Smith Roy |
 | 340 | 169 | Kristian Thurman |
 | 341 | 169 | Peachy Rollfit |
-| 342 | 168 | Trice Thomas |
-| 343 | 168 | April Matthew Kibble |
+| 342 | 168 | April Matthew Kibble |
+| 343 | 168 | Trice Thomas |
 | 344 | 167 | Shicken Nuggit |
-| 345 | 167 | Irene Arreguin |
-| 346 | 167 | Romeo |
+| 345 | 167 | Romeo |
+| 346 | 167 | Irene Arreguin |
 | 347 | 166 | Noettín Kan Zasnemoore |
-| 348 | 166 | Angella Lyons |
-| 349 | 166 | Snarky McFace |
+| 348 | 166 | Snarky McFace |
+| 349 | 166 | Angella Lyons |
 | 350 | 165 | Kali Kelz Williams |
 | 351 | 165 | Ashley Lynn Marchese |
 | 352 | 165 | Rainbow77375 |
@@ -442,8 +442,8 @@
 | 434 | 134 | gremicx |
 | 435 | 134 | Cheery Brickster |
 | 436 | 133 | Jen Lewis |
-| 437 | 132 | Andrew Thorson |
-| 438 | 132 | Hanna Kim |
+| 437 | 132 | Hanna Kim |
+| 438 | 132 | Andrew Thorson |
 | 439 | 131 | Cheeky Setter |
 | 440 | 130 | Stephanie Zahm |
 | 441 | 130 | Sarah Whalen |
@@ -562,8 +562,8 @@
 | 554 | 106 | JustGiGi |
 | 555 | 106 | Vikkye Vizaniaris |
 | 556 | 105 | Emi |
-| 557 | 105 | Kristi Taylor |
-| 558 | 105 | Zac Hudak |
+| 557 | 105 | Zac Hudak |
+| 558 | 105 | Kristi Taylor |
 | 559 | 105 | Amy Wheeler |
 | 560 | 104 | bean |
 | 561 | 104 | Jessica Rose-Morgan |

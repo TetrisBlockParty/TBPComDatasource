@@ -246,12 +246,12 @@
 | 238 | 800 | Danielle Johnson-Chandler |
 | 239 | 787 | Laura McCarthey |
 | 240 | 777 | Jessicah Myers |
-| 241 | 777 | Barbra Miller |
-| 242 | 777 | Tesha Oldaker |
+| 241 | 777 | Tesha Oldaker |
+| 242 | 777 | Barbra Miller |
 | 243 | 777 | Eric Carlson |
 | 244 | 772 | Stephen Stephen |
-| 245 | 772 | William Hunt |
-| 246 | 772 | Sam Joe |
+| 245 | 772 | Sam Joe |
+| 246 | 772 | William Hunt |
 | 247 | 771 | Terri McKelvey McKinley |
 | 248 | 769 | Adira Brown |
 | 249 | 767 | Jessica Wayne Cornwall |
@@ -285,8 +285,8 @@
 | 277 | 701 | Hyper Cluster |
 | 278 | 700 | Hong Tang |
 | 279 | 700 | Vincent Petrella |
-| 280 | 700 | Beverly Owens |
-| 281 | 700 | Rosemadder |
+| 280 | 700 | Rosemadder |
+| 281 | 700 | Beverly Owens |
 | 282 | 698 | Mighty Shatterfit |
 | 283 | 697 | Dreamy Blast |
 | 284 | 695 | Lakeysha Dortch |
@@ -311,8 +311,8 @@
 | 303 | 669 | Charvi' Carter |
 | 304 | 666 | Speedy Spinblock |
 | 305 | 664 | Sleepypanda67 |
-| 306 | 663 | Mandi Douglas Hilt |
-| 307 | 663 | Ashle Scranton |
+| 306 | 663 | Ashle Scranton |
+| 307 | 663 | Mandi Douglas Hilt |
 | 308 | 661 | Ginger |
 | 309 | 659 | Roseanna Peloso |
 | 310 | 659 | Draizen Montrell Thomas |
@@ -323,8 +323,8 @@
 | 315 | 650 | Shiny Rollzone |
 | 316 | 645 | tejas25 |
 | 317 | 643 | Hoppy Brickmatch |
-| 318 | 641 | Joce Lynn |
-| 319 | 641 | Angie Bolton Workman |
+| 318 | 641 | Angie Bolton Workman |
+| 319 | 641 | Joce Lynn |
 | 320 | 640 | BYM4L |
 | 321 | 639 | Crystie Hicks |
 | 322 | 639 | Rebecca Miller |
@@ -399,8 +399,8 @@
 | 391 | 522 | Lylymom |
 | 392 | 522 | Joseph Musick |
 | 393 | 521 | Tj Ball |
-| 394 | 520 | Maddy Petersen |
-| 395 | 520 | Angela Lynn |
+| 394 | 520 | Angela Lynn |
+| 395 | 520 | Maddy Petersen |
 | 396 | 519 | Rob Brown |
 | 397 | 517 | Alex Dungo Hoang |
 | 398 | 517 | Amber Brion |
@@ -521,8 +521,8 @@
 | 513 | 424 | Mia Muse Best |
 | 514 | 423 | Sam |
 | 515 | 422 | coleksquad |
-| 516 | 421 | SwampRebel |
-| 517 | 421 | Vonceial Boone |
+| 516 | 421 | Vonceial Boone |
+| 517 | 421 | SwampRebel |
 | 518 | 420 | LaWanda Powell |
 | 519 | 419 | Aimee Campbell |
 | 520 | 419 | Pocho Zavala |
@@ -598,8 +598,8 @@
 | 590 | 380 | Christy Long |
 | 591 | 379 | Cini |
 | 592 | 379 | Mary Marie |
-| 593 | 378 | TF Dyer |
-| 594 | 378 | Tina Marie |
+| 593 | 378 | Tina Marie |
+| 594 | 378 | TF Dyer |
 | 595 | 378 | Jasmine Kenney |
 | 596 | 377 | Frisky Clearpiece |
 | 597 | 377 | Jason H Baker |
@@ -685,8 +685,8 @@
 | 677 | 335 | Maria Louise |
 | 678 | 334 | Melissa James |
 | 679 | 333 | Veronica Stevenson |
-| 680 | 333 | Woodys Glass |
-| 681 | 333 | Adrian Benitez |
+| 680 | 333 | Adrian Benitez |
+| 681 | 333 | Woodys Glass |
 | 682 | 332 | Lathasa Newkirk |
 | 683 | 330 | Jennifer Monroe Kelly |
 | 684 | 329 | Chummy Blockbuilder |
@@ -716,8 +716,8 @@
 | 708 | 316 | Jenn Marie |
 | 709 | 316 | Epic Spinfit |
 | 710 | 316 | Johanna Massaro |
-| 711 | 314 | Twisty Tetriblast |
-| 712 | 314 | Amanda West |
+| 711 | 314 | Amanda West |
+| 712 | 314 | Twisty Tetriblast |
 | 713 | 314 | Anita Rose Green |
 | 714 | 313 | Snippy Block |
 | 715 | 313 | Marina Linda |
@@ -731,15 +731,15 @@
 | 723 | 310 | Beth Decker |
 | 724 | 309 | Byung Bae Park |
 | 725 | 308 | Prado |
-| 726 | 308 | Danielle Ayoub |
+| 726 | 308 | Hyper Riseclear |
 | 727 | 308 | Claire |
 | 728 | 308 | Sarah block |
 | 729 | 308 | Danielle Ayoub |
 | 730 | 307 | stacey |
 | 731 | 307 | Peachy Blockbuilder |
 | 732 | 306 | Kiorah Blaze |
-| 733 | 305 | Zany Clusterbuilder |
-| 734 | 305 | MamaBear11 |
+| 733 | 305 | MamaBear11 |
+| 734 | 305 | Zany Clusterbuilder |
 | 735 | 305 | Narutofreak13 |
 | 736 | 304 | Melissa McCall |
 | 737 | 304 | James Smith |
@@ -776,8 +776,8 @@
 | 768 | 291 | Bella Novia |
 | 769 | 289 | August Hale |
 | 770 | 288 | thranduil |
-| 771 | 288 | Samantha Angelo |
-| 772 | 288 | Jenna Nance |
+| 771 | 288 | Jenna Nance |
+| 772 | 288 | Samantha Angelo |
 | 773 | 288 | Ashley Criner |
 | 774 | 287 | Epic Stackzone |
 | 775 | 287 | Toni Roberson |
@@ -799,9 +799,9 @@
 | 791 | 279 | Laura Wyatt |
 | 792 | 278 | AndrewandShela Gornik |
 | 793 | 278 | Katherin Camacho |
-| 794 | 277 | Amanda Chamberlain |
+| 794 | 277 | Brianna Cerney |
 | 795 | 277 | Anthony Mignacca |
-| 796 | 277 | Brianna Cerney |
+| 796 | 277 | Amanda Chamberlain |
 | 797 | 277 | Min |
 | 798 | 276 | Dandy Combo |
 | 799 | 276 | Jamie Dayton |
@@ -857,8 +857,8 @@
 | 849 | 263 | Elizabeth Leinen |
 | 850 | 263 | Sara Pennington |
 | 851 | 262 | Taren Cowan |
-| 852 | 261 | Gina Gina |
-| 853 | 261 | Dany Murillo |
+| 852 | 261 | Dany Murillo |
+| 853 | 261 | Gina Gina |
 | 854 | 261 | MrsClaudette Will'sIam Matthews |
 | 855 | 260 | Manny Trindade |
 | 856 | 260 | Lianne Giandalone LaBounty |
