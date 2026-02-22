@@ -70,13 +70,13 @@
 | 62 | 430 | Nancy Green |
 | 63 | 428 | Stephanie Zahn |
 | 64 | 413 | Steve Schneider |
-| 65 | 412 | Anaid Sanchez |
-| 66 | 412 | Jazzy Framezone |
+| 65 | 412 | Jazzy Framezone |
+| 66 | 412 | Anaid Sanchez |
 | 67 | 393 | Kellie |
 | 68 | 391 | Robert Benito |
 | 69 | 390 | Candy Jones |
-| 70 | 388 | Jennifer ManWarren |
-| 71 | 388 | Yvonne Marie |
+| 70 | 388 | Yvonne Marie |
+| 71 | 388 | Jennifer ManWarren |
 | 72 | 382 | Lori Sanders- Davis |
 | 73 | 379 | Austin James |
 | 74 | 374 | Tinah Montanna |
@@ -165,8 +165,8 @@
 | 157 | 192 | Jessica Sheehan |
 | 158 | 192 | Christy Jones |
 | 159 | 191 | Diane Byrd |
-| 160 | 190 | Thorne Shumate |
-| 161 | 190 | Sweetts |
+| 160 | 190 | Sweetts |
+| 161 | 190 | Thorne Shumate |
 | 162 | 189 | Michael |
 | 163 | 188 | Sam Williams |
 | 164 | 187 | Snippy Wipebuilder |

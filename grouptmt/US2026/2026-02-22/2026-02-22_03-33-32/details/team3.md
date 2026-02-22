@@ -71,8 +71,8 @@
 | 63 | 704 | Suzieq |
 | 64 | 703 | Jessica Bechler |
 | 65 | 682 | Patricia Gadsden |
-| 66 | 656 | Ebony West-Cundiff |
-| 67 | 656 | Elaine Webb Graves |
+| 66 | 656 | Elaine Webb Graves |
+| 67 | 656 | Ebony West-Cundiff |
 | 68 | 649 | MissTaylor |
 | 69 | 628 | Tiff Vs Tiffany |
 | 70 | 621 | Cherry Parker |
@@ -104,8 +104,8 @@
 | 96 | 506 | Sashay Tapae Simpson |
 | 97 | 503 | Susan Valentino |
 | 98 | 502 | Justin Ritter |
-| 99 | 500 | Domo Washington |
-| 100 | 500 | Kristie |
+| 99 | 500 | Kristie |
+| 100 | 500 | Domo Washington |
 | 101 | 497 | Mykal Burton |
 | 102 | 491 | Chauntee Alfrey-Cardinale |
 | 103 | 482 | Jennifer Lynn Fahrenholtz-Summers |

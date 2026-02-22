@@ -220,8 +220,8 @@
 | 212 | 753 | SaraMarie Eveland |
 | 213 | 751 | Loony Snapper |
 | 214 | 749 | Debra Williams |
-| 215 | 738 | Melissa Cole |
-| 216 | 738 | Maria Escobar |
+| 215 | 738 | Maria Escobar |
+| 216 | 738 | Melissa Cole |
 | 217 | 736 | Ashie Ann |
 | 218 | 728 | Nika Bee |
 | 219 | 721 | Kristin Gower |
@@ -230,8 +230,8 @@
 | 222 | 709 | Jerilyn Andrina |
 | 223 | 705 | Lola Contreras |
 | 224 | 705 | Roger Grabbit |
-| 225 | 700 | Rosemadder |
-| 226 | 700 | Beverly Owens |
+| 225 | 700 | Beverly Owens |
+| 226 | 700 | Rosemadder |
 | 227 | 700 | Vincent Petrella |
 | 228 | 699 | Vo'Landa Reels |
 | 229 | 698 | Mighty Shatterfit |
@@ -284,12 +284,12 @@
 | 276 | 605 | Jelly |
 | 277 | 603 | Cassie Maynard |
 | 278 | 601 | Michele Morgan |
-| 279 | 589 | Thomas Hedrick |
-| 280 | 589 | Shavonna Haynes |
+| 279 | 589 | Shavonna Haynes |
+| 280 | 589 | Thomas Hedrick |
 | 281 | 587 | Hyper Cluster |
 | 282 | 582 | Gary Stash |
-| 283 | 579 | Juliana Marques Do Nascimento Gordy |
-| 284 | 579 | Roy Salyer |
+| 283 | 579 | Roy Salyer |
+| 284 | 579 | Juliana Marques Do Nascimento Gordy |
 | 285 | 578 | Sally Dennis |
 | 286 | 576 | Ginger |
 | 287 | 572 | tejas25 |
@@ -521,8 +521,8 @@
 | 513 | 358 | Alyssaaelena |
 | 514 | 358 | Sydney Busse |
 | 515 | 358 | Jessica Lamb |
-| 516 | 358 | Veronics |
-| 517 | 358 | Lewis Sturgeon |
+| 516 | 358 | Lewis Sturgeon |
+| 517 | 358 | Veronics |
 | 518 | 357 | Shannon Byrd |
 | 519 | 357 | Keri Womack |
 | 520 | 355 | Amanda Perez |

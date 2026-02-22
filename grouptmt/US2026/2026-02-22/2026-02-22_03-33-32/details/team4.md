@@ -47,8 +47,8 @@
 | 39 | 646 | Jacqueline Helm |
 | 40 | 634 | Anthony Bryan Riva |
 | 41 | 632 | Kimyatta Cavin |
-| 42 | 630 | Dustee Craddock-Harrison |
-| 43 | 630 | Chilly Line |
+| 42 | 630 | Chilly Line |
+| 43 | 630 | Dustee Craddock-Harrison |
 | 44 | 627 | Jonathan Kimbrough |
 | 45 | 620 | Cassie Michaux |
 | 46 | 614 | KM8 |
@@ -90,8 +90,8 @@
 | 82 | 370 | Leslie Thomas |
 | 83 | 369 | Nope Young |
 | 84 | 359 | Jamie Mann-Deichmann |
-| 85 | 358 | Nugget |
-| 86 | 358 | Shane Kalamata Platoon |
+| 85 | 358 | Shane Kalamata Platoon |
+| 86 | 358 | Nugget |
 | 87 | 352 | Monica Daley |
 | 88 | 319 | Livvy |
 | 89 | 317 | Lori Walker |
@@ -171,11 +171,11 @@
 | 163 | 189 | Chilly Crasher |
 | 164 | 188 | Andria Lynn |
 | 165 | 186 | Holly |
-| 166 | 185 | Lori |
-| 167 | 185 | Andy Cabral |
+| 166 | 185 | Andy Cabral |
+| 167 | 185 | Lori |
 | 168 | 184 | Ak Jones |
-| 169 | 181 | Klo |
-| 170 | 181 | Carter Jones |
+| 169 | 181 | Carter Jones |
+| 170 | 181 | Klo |
 | 171 | 179 | blockstar |
 | 172 | 176 | Zethra Prenisha Rahming |
 | 173 | 174 | Dihcheese444 |
