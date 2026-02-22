@@ -85,8 +85,8 @@
 | 77 | 370 | Leslie Thomas |
 | 78 | 369 | Nope Young |
 | 79 | 359 | Jamie Mann-Deichmann |
-| 80 | 358 | Shane Kalamata Platoon |
-| 81 | 358 | Nugget |
+| 80 | 358 | Nugget |
+| 81 | 358 | Shane Kalamata Platoon |
 | 82 | 319 | Livvy |
 | 83 | 318 | Amy Suckarieh |
 | 84 | 311 | David Lay |

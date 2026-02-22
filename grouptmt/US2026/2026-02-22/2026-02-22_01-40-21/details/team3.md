@@ -40,8 +40,8 @@
 | 32 | 1175 | Laurie Allen |
 | 33 | 1119 | Lauren d |
 | 34 | 1077 | Tetris Master |
-| 35 | 1065 | Laura Melton |
-| 36 | 1065 | Josiah Fam |
+| 35 | 1065 | Josiah Fam |
+| 36 | 1065 | Laura Melton |
 | 37 | 1059 | Lori Barnaby |
 | 38 | 1036 | Mahman |
 | 39 | 1013 | Amber Jones |
@@ -76,9 +76,9 @@
 | 68 | 604 | Danielle Becker |
 | 69 | 596 | Jessica Bechler |
 | 70 | 588 | yoyo |
-| 71 | 582 | Natasha Jones |
+| 71 | 582 | Katrina Schroeder |
 | 72 | 582 | Jay Horn |
-| 73 | 582 | Katrina Schroeder |
+| 73 | 582 | Natasha Jones |
 | 74 | 581 | Danielle Mogg |
 | 75 | 580 | Amanda L Baker |
 | 76 | 576 | Dan Rob |

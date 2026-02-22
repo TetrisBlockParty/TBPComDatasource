@@ -379,8 +379,8 @@
 | 371 | 429 | Crystie Hicks |
 | 372 | 429 | Christy Krissie |
 | 373 | 428 | Rhonda Milstead |
-| 374 | 427 | Destiny Cozier |
-| 375 | 427 | Amanda Ferrell |
+| 374 | 427 | Amanda Ferrell |
+| 375 | 427 | Destiny Cozier |
 | 376 | 427 | Kori Beth Babb |
 | 377 | 425 | Skyler Morgan |
 | 378 | 423 | Sam |
@@ -429,9 +429,9 @@
 | 421 | 382 | Alexandra Weir |
 | 422 | 381 | Melissa Rebbe-Lehman |
 | 423 | 381 | Bubbly Snapfit |
-| 424 | 378 | TF Dyer |
-| 425 | 378 | Niceday |
-| 426 | 378 | Christina Ashley |
+| 424 | 378 | Christina Ashley |
+| 425 | 378 | TF Dyer |
+| 426 | 378 | Niceday |
 | 427 | 376 | Darlene Bowman |
 | 428 | 374 | Gloria Ininahazwe |
 | 429 | 371 | AkaLefty |
