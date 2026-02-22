@@ -267,8 +267,8 @@
 | 259 | 865 | Kristin Gower |
 | 260 | 862 | Brittany Radaszewski |
 | 261 | 860 | Sheniya Spurgeon |
-| 262 | 860 | April Dawn Gussler |
-| 263 | 860 | John Bednarik |
+| 262 | 860 | John Bednarik |
+| 263 | 860 | April Dawn Gussler |
 | 264 | 860 | William Hunt |
 | 265 | 858 | Maria Escobar |
 | 266 | 857 | Della Hole |
@@ -398,9 +398,9 @@
 | 390 | 626 | Steven Marshaun |
 | 391 | 626 | Mighty Spinbuilder |
 | 392 | 625 | Em Chen |
-| 393 | 620 | Demeka Dangerous-kisses Johnson |
+| 393 | 620 | Traci Johnson |
 | 394 | 620 | Brandon Armstrong |
-| 395 | 620 | Traci Johnson |
+| 395 | 620 | Demeka Dangerous-kisses Johnson |
 | 396 | 619 | Melissa Penelope Ann Dodge |
 | 397 | 617 | Darcy Mae |
 | 398 | 617 | Nicole Cannon |
@@ -471,8 +471,8 @@
 | 463 | 533 | Davetta Sanford |
 | 464 | 533 | Gauri Shrotriya |
 | 465 | 532 | Ann Matzkanin |
-| 466 | 531 | Aishah Brice |
-| 467 | 531 | Briana Alexander |
+| 466 | 531 | Briana Alexander |
+| 467 | 531 | Aishah Brice |
 | 468 | 529 | Victoria Regina Girolami |
 | 469 | 528 | Anita Rose Green |
 | 470 | 527 | Ryan Gunther |
@@ -502,8 +502,8 @@
 | 494 | 507 | Daniell Martinez |
 | 495 | 499 | Sarah Massey |
 | 496 | 499 | Crystal Elam |
-| 497 | 498 | Rhonda Milstead |
-| 498 | 498 | Aimee Campbell |
+| 497 | 498 | Aimee Campbell |
+| 498 | 498 | Rhonda Milstead |
 | 499 | 497 | June E Hanson |
 | 500 | 496 | Erika Densmore |
 | 501 | 495 | Bubbly Snapbuild |
@@ -799,8 +799,8 @@
 | 791 | 335 | Brooke Leigh Strube |
 | 792 | 334 | Melissa James |
 | 793 | 333 | Nikki Nikki |
-| 794 | 333 | Adrian Benitez |
-| 795 | 333 | Woodys Glass |
+| 794 | 333 | Woodys Glass |
+| 795 | 333 | Adrian Benitez |
 | 796 | 333 | Snippy Block |
 | 797 | 332 | Tosa Puvapiromquan |
 | 798 | 330 | Toni Roberson |

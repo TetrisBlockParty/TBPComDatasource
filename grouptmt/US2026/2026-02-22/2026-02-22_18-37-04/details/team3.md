@@ -402,9 +402,9 @@
 | 394 | 189 | Deseree Ewing |
 | 395 | 189 | Katheline Lazo Luizaga |
 | 396 | 188 | Crystal Hine |
-| 397 | 186 | Noettín Kan Zasnemoore |
+| 397 | 186 | Sameerah Smith |
 | 398 | 186 | Bryan Byrd |
-| 399 | 186 | Sameerah Smith |
+| 399 | 186 | Noettín Kan Zasnemoore |
 | 400 | 184 | Shanon R Jackson |
 | 401 | 183 | Smiley Zone |
 | 402 | 183 | Geoffrey Nash |
@@ -448,10 +448,10 @@
 | 440 | 167 | Arden White Kirsch |
 | 441 | 166 | Armi |
 | 442 | 166 | Block Baddie |
-| 443 | 166 | Armi |
+| 443 | 166 | Rashad Green |
 | 444 | 165 | Mary Giorgenti |
-| 445 | 165 | Silver Marchán |
-| 446 | 165 | Kali Kelz Williams |
+| 445 | 165 | Kali Kelz Williams |
+| 446 | 165 | Silver Marchán |
 | 447 | 164 | Hanna Kim |
 | 448 | 164 | TazB |
 | 449 | 164 | Tenisha Semidey |
@@ -506,12 +506,12 @@
 | 498 | 152 | Shiny Zonebuilder |
 | 499 | 152 | Elisha L Allman |
 | 500 | 152 | Beppy |
-| 501 | 151 | Jumpy Curvebuilder |
-| 502 | 151 | Carol Cain Thurman |
+| 501 | 151 | Carol Cain Thurman |
+| 502 | 151 | Jumpy Curvebuilder |
 | 503 | 151 | Cheery Brickster |
 | 504 | 150 | Sassy Brickmatch |
-| 505 | 150 | Tipsy Puzzle |
-| 506 | 150 | Steph Arcari |
+| 505 | 150 | Steph Arcari |
+| 506 | 150 | Tipsy Puzzle |
 | 507 | 150 | Autumn Phillimore |
 | 508 | 149 | xsiv |
 | 509 | 149 | Alexis Taylor |

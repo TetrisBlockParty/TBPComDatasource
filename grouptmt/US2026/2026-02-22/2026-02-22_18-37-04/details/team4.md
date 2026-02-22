@@ -44,8 +44,8 @@
 | 36 | 886 | Dustin Robert |
 | 37 | 880 | Koshin Abdirahman |
 | 38 | 871 | Denny Shives |
-| 39 | 846 | Lucille Truesdale |
-| 40 | 846 | Christine Marie |
+| 39 | 846 | Christine Marie |
+| 40 | 846 | Lucille Truesdale |
 | 41 | 843 | Jae Job |
 | 42 | 843 | Shelly Chandler |
 | 43 | 836 | LisaJo Picken Buchanan |
@@ -205,21 +205,21 @@
 | 197 | 244 | Twisty Cascadezone |
 | 198 | 243 | Jose Dejesus |
 | 199 | 243 | Mr. Party |
-| 200 | 241 | Lindsey Gonzalez |
-| 201 | 241 | Allen Lloyd |
+| 200 | 241 | Allen Lloyd |
+| 201 | 241 | Lindsey Gonzalez |
 | 202 | 239 | Zethra Prenisha Rahming |
 | 203 | 237 | Jen Caldwell |
 | 204 | 236 | Swanky Fitline |
-| 205 | 233 | April Rondinone |
-| 206 | 233 | Ruben Wheeler |
+| 205 | 233 | Ruben Wheeler |
+| 206 | 233 | April Rondinone |
 | 207 | 230 | Kristina Black |
 | 208 | 230 | blockstar |
 | 209 | 228 | Antony Dwayne Beasley |
 | 210 | 227 | Kim Hunt |
 | 211 | 226 | Zesty Twistbuilder |
 | 212 | 225 | Perky Patternblock |
-| 213 | 221 | Rheanda Weaskus |
-| 214 | 221 | PurpleMoonMa |
+| 213 | 221 | PurpleMoonMa |
+| 214 | 221 | Rheanda Weaskus |
 | 215 | 221 | Kim Klutz Olson |
 | 216 | 220 | Michele Plunkett |
 | 217 | 219 | JPW |
