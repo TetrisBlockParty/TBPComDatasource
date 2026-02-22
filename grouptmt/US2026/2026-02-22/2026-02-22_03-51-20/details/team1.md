@@ -89,8 +89,8 @@
 | 81 | 362 | Plucky Ziggy |
 | 82 | 361 | Trina Gee |
 | 83 | 359 | Nerdy Linkblock |
-| 84 | 347 | pjbeta |
-| 85 | 347 | june october |
+| 84 | 347 | june october |
+| 85 | 347 | pjbeta |
 | 86 | 345 | Dee Perry |
 | 87 | 338 | Tipsy Strikerpiece |
 | 88 | 337 | Hyper |
@@ -159,8 +159,8 @@
 | 151 | 201 | Sleepysloath5745 |
 | 152 | 200 | Ash Galvan |
 | 153 | 199 | Basment Living |
-| 154 | 198 | Happy Snapbuild |
-| 155 | 198 | Shiny Gridmatch |
+| 154 | 198 | Shiny Gridmatch |
+| 155 | 198 | Happy Snapbuild |
 | 156 | 195 | Daring Fitclear |
 | 157 | 194 | Tyler Werts |
 | 158 | 193 | Lachelle Dillon |
@@ -205,8 +205,8 @@
 | 197 | 165 | Silly Align |
 | 198 | 164 | Shanae Grant |
 | 199 | 163 | DaRascal |
-| 200 | 163 | Tyler Whitley |
-| 201 | 163 | Angela Fairbank |
+| 200 | 163 | Angela Fairbank |
+| 201 | 163 | Tyler Whitley |
 | 202 | 161 | SavageBooty98 |
 | 203 | 160 | Tedashi |
 | 204 | 158 | Sarah Marie |

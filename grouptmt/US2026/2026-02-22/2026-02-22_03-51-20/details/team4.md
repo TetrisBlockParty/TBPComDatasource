@@ -73,13 +73,13 @@
 | 65 | 486 | Landon Keith Graffeo |
 | 66 | 483 | Carmethia Clemons Haslerig |
 | 67 | 466 | Dawn Alexander |
-| 68 | 447 | Samantha Peterson |
-| 69 | 447 | TeeJ |
+| 68 | 447 | TeeJ |
+| 69 | 447 | Samantha Peterson |
 | 70 | 409 | Isabella Blanco |
 | 71 | 404 | Courtney Cicoria |
 | 72 | 399 | Jenna Ingersoll |
-| 73 | 396 | Alicia Bass |
-| 74 | 396 | Amy Suckarieh |
+| 73 | 396 | Amy Suckarieh |
+| 74 | 396 | Alicia Bass |
 | 75 | 392 | YoMomma |
 | 76 | 391 | Ramel Rhodes |
 | 77 | 390 | Carlton Unfiltered |
@@ -90,8 +90,8 @@
 | 82 | 370 | Leslie Thomas |
 | 83 | 369 | Nope Young |
 | 84 | 368 | Jamie Mann-Deichmann |
-| 85 | 358 | Shane Kalamata Platoon |
-| 86 | 358 | Nugget |
+| 85 | 358 | Nugget |
+| 86 | 358 | Shane Kalamata Platoon |
 | 87 | 352 | Monica Daley |
 | 88 | 327 | Lori Walker |
 | 89 | 319 | Livvy |
@@ -141,8 +141,8 @@
 | 133 | 221 | PurpleMoonMa |
 | 134 | 220 | Matt Dell'Olio |
 | 135 | 220 | Mary Ann Pabukis |
-| 136 | 218 | Antony Dwayne Beasley |
-| 137 | 218 | Casey Grabner |
+| 136 | 218 | Casey Grabner |
+| 137 | 218 | Antony Dwayne Beasley |
 | 138 | 217 | Chaz Duncan |
 | 139 | 215 | Ren Mc |
 | 140 | 215 | Jessica Bohlken |
@@ -306,8 +306,8 @@
 | 298 | 108 | Bradley Reeves |
 | 299 | 108 | Ali Ian |
 | 300 | 107 | Richard-April Kice |
-| 301 | 107 | Brandi Durig |
-| 302 | 107 | Marcela Johnson |
+| 301 | 107 | Marcela Johnson |
+| 302 | 107 | Brandi Durig |
 | 303 | 106 | Jacob Richard |
 | 304 | 106 | Zappy Snaplink |
 | 305 | 106 | Nick Gray |
@@ -354,9 +354,9 @@
 | 346 | 95 | Tina Martinez |
 | 347 | 94 | DonMega |
 | 348 | 93 | Matt Gooder |
-| 349 | 92 | Frilly Blocky |
-| 350 | 92 | Bigeddie |
-| 351 | 91 | wombat |
+| 349 | 92 | Bigeddie |
+| 350 | 92 | Frilly Blocky |
+| 351 | 91 | Lee Silpe |
 | 352 | 91 | Kametsunoyaiba |
 | 353 | 91 | Sunny Filler |
 | 354 | 91 | wombat |

@@ -82,9 +82,9 @@
 | 74 | 608 | Danielle Becker |
 | 75 | 590 | Katrina Schroeder |
 | 76 | 588 | yoyo |
-| 77 | 582 | Speedy Bridger |
+| 77 | 582 | Natasha Jones |
 | 78 | 582 | Jay Horn |
-| 79 | 582 | Natasha Jones |
+| 79 | 582 | Speedy Bridger |
 | 80 | 581 | Danielle Mogg |
 | 81 | 576 | Dan Rob |
 | 82 | 571 | Fancy Cascader |
@@ -138,8 +138,8 @@
 | 130 | 399 | ren |
 | 131 | 399 | Mcathen |
 | 132 | 397 | Annie Déè |
-| 133 | 392 | Katie Knaus |
-| 134 | 392 | Tasha Gillespie |
+| 133 | 392 | Tasha Gillespie |
+| 134 | 392 | Katie Knaus |
 | 135 | 391 | Calista Jo Dickson |
 | 136 | 390 | Hasty Cascadefit |
 | 137 | 378 | Makelini Mausia |
@@ -214,19 +214,19 @@
 | 206 | 256 | Tiffany Davie |
 | 207 | 256 | Brenda Lee Vander Molen |
 | 208 | 253 | Nora Rogers |
-| 209 | 249 | Annie Marie |
-| 210 | 249 | JerseyJess |
+| 209 | 249 | JerseyJess |
+| 210 | 249 | Annie Marie |
 | 211 | 247 | Rebecca Funderburk Kirby |
 | 212 | 246 | Eon Harris |
 | 213 | 246 | Rochelle Hazelett |
 | 214 | 246 | Peppy Shifter |
 | 215 | 245 | Latoya Mayne |
-| 216 | 240 | Jimmie Clemons |
-| 217 | 240 | Brandon Givens |
+| 216 | 240 | Brandon Givens |
+| 217 | 240 | Jimmie Clemons |
 | 218 | 236 | Jess Bissett |
 | 219 | 235 | LaNette Morgan |
-| 220 | 234 | Grego Daniel |
-| 221 | 234 | Nikki Pags |
+| 220 | 234 | Nikki Pags |
+| 221 | 234 | Grego Daniel |
 | 222 | 233 | Ray Lader |
 | 223 | 232 | Donna |
 | 224 | 227 | Krystal Gerstberger |
@@ -272,8 +272,8 @@
 | 264 | 188 | Loopy Fallmatch |
 | 265 | 184 | Troy |
 | 266 | 184 | France Vézina |
-| 267 | 182 | Melanie Sherwood |
-| 268 | 182 | Carrie Huskey |
+| 267 | 182 | Carrie Huskey |
+| 268 | 182 | Melanie Sherwood |
 | 269 | 181 | Nicholas Roddy |
 | 270 | 180 | Criss |
 | 271 | 180 | Ryan Williams |
