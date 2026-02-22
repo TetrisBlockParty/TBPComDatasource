@@ -17,8 +17,8 @@
 | 9 | 1835 | East Mamba |
 | 10 | 1775 | Ash |
 | 11 | 1676 | Ayanna Soto |
-| 12 | 1447 | Juggalo |
-| 13 | 1447 | GreenJeepGirl |
+| 12 | 1447 | GreenJeepGirl |
+| 13 | 1447 | Juggalo |
 | 14 | 1318 | Cassie Michaux |
 | 15 | 1289 | Roger Coulter |
 | 16 | 1132 | Jayna Anoc |
@@ -50,8 +50,8 @@
 | 42 | 823 | Jae Job |
 | 43 | 818 | Marvin Lou Martin |
 | 44 | 798 | BertMofo |
-| 45 | 775 | Dee Kay |
-| 46 | 775 | Rebecca Moulton Pinciaro |
+| 45 | 775 | Rebecca Moulton Pinciaro |
+| 46 | 775 | Dee Kay |
 | 47 | 767 | Shannon Ferrari |
 | 48 | 766 | Robin Watters |
 | 49 | 762 | TeeJ |
@@ -251,12 +251,12 @@
 | 243 | 184 | Lauren Lamb |
 | 244 | 184 | Ak Jones |
 | 245 | 183 | JPW |
-| 246 | 181 | Carter Jones |
-| 247 | 181 | Jackie Marie |
+| 246 | 181 | Jackie Marie |
+| 247 | 181 | Carter Jones |
 | 248 | 180 | Orchislactea |
-| 249 | 179 | Christina Black |
+| 249 | 179 | Stephme310 |
 | 250 | 179 | TinyLegoRose |
-| 251 | 179 | Stephme310 |
+| 251 | 179 | Christina Black |
 | 252 | 179 | AyeKay |
 | 253 | 176 | Trista Leah |
 | 254 | 175 | Lorena Guerrero-Barron |
@@ -275,8 +275,8 @@
 | 267 | 164 | KimoKoala |
 | 268 | 163 | Ellen Durfee |
 | 269 | 162 | Gwendolyn Pitcairn |
-| 270 | 162 | conceptCollector |
-| 271 | 162 | John Brunetti |
+| 270 | 162 | John Brunetti |
+| 271 | 162 | conceptCollector |
 | 272 | 161 | Twisty Risebuilder |
 | 273 | 161 | Tanner Lund |
 | 274 | 160 | Chair |
@@ -323,7 +323,7 @@
 | 315 | 142 | Nerdy Twisterfit |
 | 316 | 142 | Victoria Faniel |
 | 317 | 142 | Chaz |
-| 318 | 141 | Heather Bruce |
+| 318 | 141 | Courtney Halleck |
 | 319 | 141 | ĥuf |
 | 320 | 141 | Heather Bruce |
 | 321 | 141 | ChasingZen |
@@ -332,8 +332,8 @@
 | 324 | 141 | Tony Pavelka |
 | 325 | 141 | Montiette Mcglown |
 | 326 | 140 | Rico |
-| 327 | 139 | O block |
-| 328 | 139 | Lori Goudy |
+| 327 | 139 | Lori Goudy |
+| 328 | 139 | O block |
 | 329 | 138 | Ashlee Carnes |
 | 330 | 138 | Moonsterix |
 | 331 | 138 | Jasmine S Caldwell |
@@ -353,8 +353,8 @@
 | 345 | 132 | Melissa Priest Sellers |
 | 346 | 132 | Jessica Cagle |
 | 347 | 132 | Vamp |
-| 348 | 131 | Smiley Tiltbuilder |
-| 349 | 131 | Peppy Drop |
+| 348 | 131 | Peppy Drop |
+| 349 | 131 | Smiley Tiltbuilder |
 | 350 | 130 | Shukee Lo |
 | 351 | 130 | Linda Alexander Downing |
 | 352 | 130 | icequeenx |

@@ -70,8 +70,8 @@
 | 62 | 908 | Alanna Rogers |
 | 63 | 903 | Sarah Fehring |
 | 64 | 900 | Nate Burnside |
-| 65 | 895 | Amanda L Baker |
-| 66 | 895 | Shonna Roberts |
+| 65 | 895 | Shonna Roberts |
+| 66 | 895 | Amanda L Baker |
 | 67 | 892 | Corie A. Brinson |
 | 68 | 882 | Susan Valentino |
 | 69 | 874 | Jessica Pineda-Lopez |
@@ -298,8 +298,8 @@
 | 290 | 236 | Jess Bissett |
 | 291 | 236 | Lys |
 | 292 | 236 | Angela Scott |
-| 293 | 233 | Tony Waters |
-| 294 | 233 | Josh Borquez |
+| 293 | 233 | Josh Borquez |
+| 294 | 233 | Tony Waters |
 | 295 | 232 | Donna |
 | 296 | 227 | Rebel124 |
 | 297 | 227 | Meowsa |
@@ -558,8 +558,8 @@
 | 550 | 124 | joz |
 | 551 | 124 | Jess Meyers |
 | 552 | 124 | xsiv |
-| 553 | 123 | Chenoa Urban Sophicated Redy |
-| 554 | 123 | Jm |
+| 553 | 123 | Jm |
+| 554 | 123 | Silly Curvetile |
 | 555 | 123 | Cranky Fitzone |
 | 556 | 123 | Chenoa Urban Sophicated Redy |
 | 557 | 123 | Brittany Shantea Maynard |

@@ -77,9 +77,9 @@
 | 69 | 492 | Lola Adkhambekovna |
 | 70 | 489 | Deanna L Hermanson |
 | 71 | 485 | Cartier |
-| 72 | 483 | MomMom |
-| 73 | 483 | Evie Khalil |
-| 74 | 483 | Ryan Lunnin |
+| 72 | 483 | Ryan Lunnin |
+| 73 | 483 | MomMom |
+| 74 | 483 | Evie Khalil |
 | 75 | 480 | Spunky Piecebuilder |
 | 76 | 480 | Nancy Green |
 | 77 | 472 | April Carroll |

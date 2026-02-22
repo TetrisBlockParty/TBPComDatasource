@@ -377,16 +377,16 @@
 | 369 | 620 | Demeka Dangerous-kisses Johnson |
 | 370 | 620 | Brandon Armstrong |
 | 371 | 616 | Cassie Mercer |
-| 372 | 613 | Caitlyn Blackwell |
-| 373 | 613 | Ellie Jonas |
-| 374 | 611 | Em Chen |
-| 375 | 611 | Julio A Laracuente |
-| 376 | 611 | Carl Bradshaw |
+| 372 | 613 | Ellie Jonas |
+| 373 | 613 | Caitlyn Blackwell |
+| 374 | 611 | Julio A Laracuente |
+| 375 | 611 | Carl Bradshaw |
+| 376 | 611 | Em Chen |
 | 377 | 606 | Brittney Jean |
 | 378 | 603 | Cassie Maynard |
 | 379 | 602 | KhaosLord |
-| 380 | 602 | Biggest thing |
-| 381 | 602 | Christine Bollig |
+| 380 | 602 | Christine Bollig |
+| 381 | 602 | Biggest thing |
 | 382 | 601 | Vonceial Boone |
 | 383 | 601 | Steven Marshaun |
 | 384 | 595 | Nicole Cannon |
@@ -411,8 +411,8 @@
 | 403 | 566 | Leah Keesling |
 | 404 | 565 | Steve Man |
 | 405 | 565 | Jaycee |
-| 406 | 563 | Irene Jones |
-| 407 | 563 | snkylnk |
+| 406 | 563 | snkylnk |
+| 407 | 563 | Irene Jones |
 | 408 | 559 | Blacc Blac |
 | 409 | 558 | Libby Hicks |
 | 410 | 558 | Mikayala Szaz |
@@ -435,8 +435,8 @@
 | 427 | 540 | Dizzy Zone |
 | 428 | 539 | Dapper Dasher |
 | 429 | 538 | Tra Barnum |
-| 430 | 536 | Caitlin Schmid |
-| 431 | 536 | Melissa Kay Gibson |
+| 430 | 536 | Melissa Kay Gibson |
+| 431 | 536 | Caitlin Schmid |
 | 432 | 533 | Gauri Shrotriya |
 | 433 | 532 | Lylymom |
 | 434 | 531 | Aishah Brice |
