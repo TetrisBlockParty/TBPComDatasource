@@ -108,8 +108,8 @@
 | 100 | 581 | Danielle Mogg |
 | 101 | 579 | Jd Morris |
 | 102 | 566 | Dolores Falco |
-| 103 | 565 | Patty Allen |
-| 104 | 565 | Rachael McClain Owens |
+| 103 | 565 | Rachael McClain Owens |
+| 104 | 565 | Patty Allen |
 | 105 | 562 | Louise Stacy Sisson |
 | 106 | 562 | Dave Herzog |
 | 107 | 559 | Morgan Martinez |
@@ -207,8 +207,8 @@
 | 199 | 311 | Rochelle Hazelett |
 | 200 | 311 | Araceli Parra |
 | 201 | 310 | Danielle Balcom |
-| 202 | 308 | Daryn Elliott |
-| 203 | 308 | Rania Zaqout |
+| 202 | 308 | Rania Zaqout |
+| 203 | 308 | Daryn Elliott |
 | 204 | 307 | rnr junky |
 | 205 | 307 | Blocked |
 | 206 | 302 | Rebecca Bailey |
@@ -222,8 +222,8 @@
 | 214 | 295 | Marci Mize Fandrich |
 | 215 | 291 | Kristal C Lee |
 | 216 | 289 | DidIdothat |
-| 217 | 289 | Duane Bright |
-| 218 | 289 | Hoppy Buildout |
+| 217 | 289 | Hoppy Buildout |
+| 218 | 289 | Duane Bright |
 | 219 | 286 | Cynthia Herrmann Egland |
 | 220 | 284 | Denise Nardoni |
 | 221 | 283 | Cheeky Snapper |
@@ -269,22 +269,22 @@
 | 261 | 240 | Jimmie Clemons |
 | 262 | 238 | LaTanya GeminiondaRise Johnson |
 | 263 | 236 | Jess Bissett |
-| 264 | 234 | Connie Mohler-Fair |
-| 265 | 234 | Nikki Pags |
+| 264 | 234 | Nikki Pags |
+| 265 | 234 | Connie Mohler-Fair |
 | 266 | 233 | Josh Borquez |
 | 267 | 233 | Ray Lader |
 | 268 | 232 | Brenda Schmid Wood |
 | 269 | 232 | Donna |
 | 270 | 227 | Krystal Gerstberger |
 | 271 | 227 | Meowsa |
-| 272 | 225 | Cozy Snaplink |
-| 273 | 225 | Dirtgirl27 |
+| 272 | 225 | Dirtgirl27 |
+| 273 | 225 | Cozy Snaplink |
 | 274 | 224 | Quirky Dropzone |
 | 275 | 221 | Vaners |
-| 276 | 221 | Jaime Monhaut-Reed |
-| 277 | 221 | Alice |
-| 278 | 220 | rosy |
-| 279 | 220 | Tosha Griffey |
+| 276 | 221 | Alice |
+| 277 | 221 | Jaime Monhaut-Reed |
+| 278 | 220 | Tosha Griffey |
+| 279 | 220 | rosy |
 | 280 | 218 | Michael Lucado |
 | 281 | 216 | Twisty Brick LT |
 | 282 | 216 | Cheryl Hinch Tenbrook |
@@ -293,9 +293,9 @@
 | 285 | 214 | Amy Fuller Heaton |
 | 286 | 214 | Rebel124 |
 | 287 | 213 | Nicholas Roddy |
-| 288 | 212 | Desiree Gold |
-| 289 | 212 | Sunny Rotater |
-| 290 | 211 | El Chapa |
+| 288 | 212 | Sunny Rotater |
+| 289 | 212 | Desiree Gold |
+| 290 | 211 | Velma Mull |
 | 291 | 211 | Khaleada McGill Banks |
 | 292 | 211 | El Chapa |
 | 293 | 210 | Criss |
@@ -340,8 +340,8 @@
 | 332 | 179 | Rachel Napper |
 | 333 | 178 | Jess Dearborn |
 | 334 | 178 | Jennifer Alvey |
-| 335 | 176 | Melissa Orth Hunter |
-| 336 | 176 | Emma |
+| 335 | 176 | Emma |
+| 336 | 176 | Melissa Orth Hunter |
 | 337 | 175 | Eileen Brady Thurber |
 | 338 | 174 | Lesley Perez |
 | 339 | 173 | Naur |
@@ -354,14 +354,14 @@
 | 346 | 168 | Trice Thomas |
 | 347 | 168 | April Matthew Kibble |
 | 348 | 167 | Shicken Nuggit |
-| 349 | 167 | Irene Arreguin |
-| 350 | 167 | Romeo |
+| 349 | 167 | Romeo |
+| 350 | 167 | Irene Arreguin |
 | 351 | 166 | Noettín Kan Zasnemoore |
-| 352 | 166 | Snarky McFace |
-| 353 | 166 | Angella Lyons |
+| 352 | 166 | Angella Lyons |
+| 353 | 166 | Snarky McFace |
 | 354 | 165 | Kali Kelz Williams |
-| 355 | 165 | Ashley Lynn Marchese |
-| 356 | 165 | Rainbow77375 |
+| 355 | 165 | Rainbow77375 |
+| 356 | 165 | Ashley Lynn Marchese |
 | 357 | 164 | Ashley Rufus Bythcez |
 | 358 | 164 | momo |
 | 359 | 163 | Colleen Phelps |
@@ -825,7 +825,7 @@
 | 817 | 74 | Ann Hammac |
 | 818 | 73 | Yvonne Felicia Garcia |
 | 819 | 73 | Misstery |
-| 820 | 73 | TheNikkiJ |
+| 820 | 73 | Speedy Builder |
 | 821 | 73 | Carrie Wheetley |
 | 822 | 73 | Nerdy Wipeout |
 | 823 | 73 | TheNikkiJ |

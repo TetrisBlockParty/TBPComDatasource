@@ -96,8 +96,8 @@
 | 88 | 383 | Loony Fitzone |
 | 89 | 382 | Jacqueline Williams |
 | 90 | 379 | Nerdy Linkblock |
-| 91 | 379 | Austin James |
-| 92 | 379 | Kimmie Kimms |
+| 91 | 379 | Kimmie Kimms |
+| 92 | 379 | Austin James |
 | 93 | 376 | lil mickey |
 | 94 | 374 | Tinah Montanna |
 | 95 | 368 | Tdub |
@@ -133,8 +133,8 @@
 | 125 | 294 | Chelsea Dahlquist |
 | 126 | 290 | Death |
 | 127 | 285 | Ananda Mendez |
-| 128 | 284 | Rachael |
-| 129 | 284 | Emily Adelaide Wheatley |
+| 128 | 284 | Emily Adelaide Wheatley |
+| 129 | 284 | Rachael |
 | 130 | 283 | Franswa |
 | 131 | 282 | Snippy Wipebuilder |
 | 132 | 282 | Timothy Dew |

@@ -338,12 +338,12 @@
 | 330 | 620 | Brandon Armstrong |
 | 331 | 619 | Jánine Riggs |
 | 332 | 617 | Leslie Ann Carter |
-| 333 | 613 | Breezy Filler |
-| 334 | 613 | Caitlyn Blackwell |
+| 333 | 613 | Caitlyn Blackwell |
+| 334 | 613 | Breezy Filler |
 | 335 | 613 | Ellie Jonas |
 | 336 | 611 | Em Chen |
-| 337 | 611 | Carl Bradshaw |
-| 338 | 611 | Julio A Laracuente |
+| 337 | 611 | Julio A Laracuente |
+| 338 | 611 | Carl Bradshaw |
 | 339 | 605 | Jelly |
 | 340 | 603 | Cassie Maynard |
 | 341 | 602 | KhaosLord |
@@ -602,8 +602,8 @@
 | 594 | 380 | Christy Long |
 | 595 | 379 | Mary Marie |
 | 596 | 379 | Cini |
-| 597 | 378 | TF Dyer |
-| 598 | 378 | Tina Marie |
+| 597 | 378 | Tina Marie |
+| 598 | 378 | TF Dyer |
 | 599 | 378 | Jasmine Kenney |
 | 600 | 377 | Jason H Baker |
 | 601 | 376 | Darlene Bowman |
@@ -614,8 +614,8 @@
 | 606 | 373 | Jessica Hughes |
 | 607 | 373 | Hunter Connors |
 | 608 | 372 | Ebony Deloach Bryant |
-| 609 | 371 | Brenda Messer |
-| 610 | 371 | AkaLefty |
+| 609 | 371 | AkaLefty |
+| 610 | 371 | Brenda Messer |
 | 611 | 371 | Saucy Fitzone |
 | 612 | 369 | RaeVan Worthington |
 | 613 | 369 | Tony Lea |
@@ -713,8 +713,8 @@
 | 705 | 320 | Mary Boss |
 | 706 | 319 | RetroLemur |
 | 707 | 318 | Jennifer Mahon |
-| 708 | 317 | Ashlyn Berner |
-| 709 | 317 | Zombi3 |
+| 708 | 317 | Zombi3 |
+| 709 | 317 | Ashlyn Berner |
 | 710 | 317 | Aireka Roman |
 | 711 | 316 | Jenn Marie |
 | 712 | 316 | Epic Spinfit |
@@ -852,8 +852,8 @@
 | 844 | 265 | trabuco |
 | 845 | 264 | Sanaa Nounoussa |
 | 846 | 264 | Nicki Stephens |
-| 847 | 264 | Rachel Switala |
-| 848 | 264 | Ocean-Brianna McGregor |
+| 847 | 264 | Ocean-Brianna McGregor |
+| 848 | 264 | Rachel Switala |
 | 849 | 264 | Edna Combs |
 | 850 | 263 | Elizabeth Leinen |
 | 851 | 263 | Christina Walker |
@@ -861,8 +861,8 @@
 | 853 | 263 | Amy Humphreys |
 | 854 | 263 | Sara Pennington |
 | 855 | 262 | Taren Cowan |
-| 856 | 261 | Gina Gina |
-| 857 | 261 | Dany Murillo |
+| 856 | 261 | Dany Murillo |
+| 857 | 261 | Gina Gina |
 | 858 | 261 | MrsClaudette Will'sIam Matthews |
 | 859 | 260 | Lynda Toland |
 | 860 | 260 | Michael David Hollis |
@@ -904,8 +904,8 @@
 | 896 | 254 | Elizabeth Diraffaele |
 | 897 | 252 | Marget Kay |
 | 898 | 252 | Aleasha M Brown |
-| 899 | 252 | Layna Lyons |
-| 900 | 252 | Amanda Segura |
+| 899 | 252 | Amanda Segura |
+| 900 | 252 | Layna Lyons |
 | 901 | 251 | Bold Clusterfit |
 | 902 | 251 | Regina Unruh |
 | 903 | 251 | Sveta Lana |
@@ -915,9 +915,9 @@
 | 907 | 250 | Kay Stevenson |
 | 908 | 250 | Drew Berkelbach |
 | 909 | 249 | J.L. Roberts |
-| 910 | 249 | Kamilya Rembert |
-| 911 | 249 | Timothy Jesuwole |
-| 912 | 249 | Joshua Mullings |
+| 910 | 249 | Timothy Jesuwole |
+| 911 | 249 | Joshua Mullings |
+| 912 | 249 | Kamilya Rembert |
 | 913 | 249 | Angela Yantz |
 | 914 | 248 | Jaybee Nguyen |
 | 915 | 248 | Angelina Marie |
@@ -1368,9 +1368,9 @@
 | 1360 | 167 | Mary Lopez Sr. |
 | 1361 | 167 | Tiffany Hassanshahi |
 | 1362 | 167 | Sabrina Smith |
-| 1363 | 166 | Dapper Setter |
+| 1363 | 166 | Happy Twistpiece |
 | 1364 | 166 | suuny |
-| 1365 | 166 | Happy Twistpiece |
+| 1365 | 166 | Dapper Setter |
 | 1366 | 166 | Michelle Loar |
 | 1367 | 166 | King Shamell Young |
 | 1368 | 166 | Gemini Washington |
@@ -1443,13 +1443,13 @@
 | 1435 | 158 | Tammi Dorsey |
 | 1436 | 158 | John Cleland |
 | 1437 | 158 | Cerealkiller |
-| 1438 | 157 | Heather Walski |
-| 1439 | 157 | Ryley Laughlin |
+| 1438 | 157 | Ryley Laughlin |
+| 1439 | 157 | Heather Walski |
 | 1440 | 157 | James Lucas |
-| 1441 | 157 | Lively Piecebuilder |
-| 1442 | 157 | Dakota Brown |
-| 1443 | 157 | Preya Patel |
-| 1444 | 157 | Madysen Holt |
+| 1441 | 157 | Preya Patel |
+| 1442 | 157 | Lively Piecebuilder |
+| 1443 | 157 | Madysen Holt |
+| 1444 | 157 | Dakota Brown |
 | 1445 | 157 | Dap Duong |
 | 1446 | 156 | Cranky Pattern |
 | 1447 | 156 | Eunique Griffin |

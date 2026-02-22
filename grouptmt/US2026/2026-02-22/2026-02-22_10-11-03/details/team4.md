@@ -160,8 +160,8 @@
 | 152 | 239 | Jessica Lynn Cutlip |
 | 153 | 237 | Chris Bernstein |
 | 154 | 232 | Crystal Nicolette Moore |
-| 155 | 230 | Autum Leigh |
-| 156 | 230 | Cursed Hag |
+| 155 | 230 | Cursed Hag |
+| 156 | 230 | Autum Leigh |
 | 157 | 228 | J-Rizzle |
 | 158 | 227 | Swanky Fitline |
 | 159 | 227 | Alyssa Papen |
@@ -204,8 +204,8 @@
 | 196 | 190 | Cheery Risebuilder |
 | 197 | 190 | Alan George LaRage |
 | 198 | 189 | Calvin Dennis |
-| 199 | 189 | Lori |
-| 200 | 189 | Stacey Stano |
+| 199 | 189 | Stacey Stano |
+| 200 | 189 | Lori |
 | 201 | 188 | Andria Lynn |
 | 202 | 186 | Holly |
 | 203 | 185 | Nikki Rae Gordon |
@@ -230,8 +230,8 @@
 | 222 | 165 | Zappy Buildgrid |
 | 223 | 164 | 030Synner |
 | 224 | 163 | Kristina Black |
-| 225 | 162 | John Brunetti |
-| 226 | 162 | Joanna |
+| 225 | 162 | Joanna |
+| 226 | 162 | John Brunetti |
 | 227 | 161 | Jenny Wells-Oakley |
 | 228 | 160 | Laura Hosford |
 | 229 | 160 | Brittany Marsh |
