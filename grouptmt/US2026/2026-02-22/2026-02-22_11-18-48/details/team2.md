@@ -335,8 +335,8 @@
 | 327 | 639 | Rebecca Miller |
 | 328 | 635 | Diana Fitzwater |
 | 329 | 631 | Marie Walker |
-| 330 | 627 | Allan Wayne Lamia |
-| 331 | 627 | Victoria Moore-Smith |
+| 330 | 627 | Victoria Moore-Smith |
+| 331 | 627 | Allan Wayne Lamia |
 | 332 | 620 | Brandon Armstrong |
 | 333 | 617 | Leslie Ann Carter |
 | 334 | 613 | Caitlyn Blackwell |
@@ -629,9 +629,9 @@
 | 621 | 369 | Juan Castillo |
 | 622 | 367 | Connie Lepore-Mann |
 | 623 | 367 | Jessica Lamb |
-| 624 | 366 | Courtney Burcham |
+| 624 | 366 | Smashanator |
 | 625 | 366 | Lawanda Forbes |
-| 626 | 366 | Smashanator |
+| 626 | 366 | Courtney Burcham |
 | 627 | 365 | Christina Lewis-Vickers |
 | 628 | 365 | Susan Arnburg |
 | 629 | 365 | Audrey Jones |
@@ -685,8 +685,8 @@
 | 677 | 337 | Diallo Sparkman |
 | 678 | 337 | Tum |
 | 679 | 337 | Savannah Alexander |
-| 680 | 336 | Austin Wilson |
-| 681 | 336 | bru |
+| 680 | 336 | bru |
+| 681 | 336 | Austin Wilson |
 | 682 | 336 | Swanky Columnbuilder |
 | 683 | 335 | Brooke Leigh Strube |
 | 684 | 335 | Maria Louise |
@@ -699,14 +699,14 @@
 | 691 | 329 | Chummy Blockbuilder |
 | 692 | 329 | Snappy Shatterfit |
 | 693 | 329 | Jane Crew |
-| 694 | 328 | Jamie Carter Bierce |
-| 695 | 328 | BabyBird |
-| 696 | 326 | Angela Murgia-Owen |
-| 697 | 326 | Ann Knutson Anderson |
+| 694 | 328 | BabyBird |
+| 695 | 328 | Jamie Carter Bierce |
+| 696 | 326 | Ann Knutson Anderson |
+| 697 | 326 | Angela Murgia-Owen |
 | 698 | 325 | Justin Hines |
 | 699 | 325 | Mike73 |
-| 700 | 324 | Dale Haanpaa |
-| 701 | 324 | Tasia Stinson |
+| 700 | 324 | Tasia Stinson |
+| 701 | 324 | Dale Haanpaa |
 | 702 | 323 | Briana Alexander |
 | 703 | 322 | Christina Jarvis-Swarbrick |
 | 704 | 322 | Michelle Pike |
@@ -862,8 +862,8 @@
 | 854 | 264 | Ocean-Brianna McGregor |
 | 855 | 264 | Nicki Stephens |
 | 856 | 264 | Edna Combs |
-| 857 | 263 | Amy Humphreys |
-| 858 | 263 | Sunshine711 |
+| 857 | 263 | Sunshine711 |
+| 858 | 263 | Amy Humphreys |
 | 859 | 263 | Elizabeth Leinen |
 | 860 | 263 | Sara Pennington |
 | 861 | 262 | Taren Cowan |
@@ -993,8 +993,8 @@
 | 985 | 231 | Michelle Fleming Luna |
 | 986 | 231 | Stanley Vanekelenburg |
 | 987 | 230 | lady |
-| 988 | 230 | Anna Mayo |
-| 989 | 230 | Laura Mcfee |
+| 988 | 230 | Laura Mcfee |
+| 989 | 230 | Anna Mayo |
 | 990 | 229 | Chyrisse Norton |
 | 991 | 229 | ItsJennifer Neriss |
 | 992 | 229 | BbqGuru |

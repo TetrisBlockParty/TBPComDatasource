@@ -77,8 +77,8 @@
 | 69 | 530 | Yoset Mejia |
 | 70 | 524 | Amelpss |
 | 71 | 521 | Dawn Alexander |
-| 72 | 518 | Eric Mcgaughy |
-| 73 | 518 | Carolyn Wallace |
+| 72 | 518 | Carolyn Wallace |
+| 73 | 518 | Eric Mcgaughy |
 | 74 | 517 | H.R. Block |
 | 75 | 512 | Casey Jeffcoat |
 | 76 | 511 | Michelle Marie |
@@ -133,14 +133,14 @@
 | 125 | 294 | Kesha Brady |
 | 126 | 290 | 🥔🥔 Spudz |
 | 127 | 287 | Shannon Ferrari |
-| 128 | 286 | Daria Rycewicz |
-| 129 | 286 | shark tato |
+| 128 | 286 | shark tato |
+| 129 | 286 | Daria Rycewicz |
 | 130 | 283 | Brittney Orengo |
 | 131 | 281 | Meagan Nicole |
-| 132 | 278 | Desi Desporte |
-| 133 | 278 | Carrie Brian |
-| 134 | 277 | Scott Jameson |
-| 135 | 277 | Mary Ann Pabukis |
+| 132 | 278 | Carrie Brian |
+| 133 | 278 | Desi Desporte |
+| 134 | 277 | Mary Ann Pabukis |
+| 135 | 277 | Scott Jameson |
 | 136 | 275 | Dizzy Tiley |
 | 137 | 274 | Calvin Cannon |
 | 138 | 272 | Keshia Lyons |

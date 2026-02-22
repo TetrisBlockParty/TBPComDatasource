@@ -96,9 +96,9 @@
 | 88 | 388 | Jennifer ManWarren |
 | 89 | 383 | Loony Fitzone |
 | 90 | 382 | Jacqueline Williams |
-| 91 | 379 | Kimmie Kimms |
+| 91 | 379 | Austin James |
 | 92 | 379 | Nerdy Linkblock |
-| 93 | 379 | Austin James |
+| 93 | 379 | Kimmie Kimms |
 | 94 | 376 | lil mickey |
 | 95 | 374 | Tinah Montanna |
 | 96 | 368 | Tdub |
@@ -120,11 +120,11 @@
 | 112 | 330 | Sweet Baker |
 | 113 | 326 | Monica Donato |
 | 114 | 321 | Maria C. Hernandez |
-| 115 | 319 | Patrick Luckenbill |
-| 116 | 319 | Deanna L Hermanson |
+| 115 | 319 | Deanna L Hermanson |
+| 116 | 319 | Patrick Luckenbill |
 | 117 | 318 | Jessica Sheehan |
-| 118 | 316 | Ly Phethmany |
-| 119 | 316 | Jennifer Hardman |
+| 118 | 316 | Jennifer Hardman |
+| 119 | 316 | Ly Phethmany |
 | 120 | 313 | Tanya Carpenter-Reynolds |
 | 121 | 310 | Seth Wesson |
 | 122 | 310 | Jason Jones |
@@ -137,9 +137,9 @@
 | 129 | 284 | Emily Adelaide Wheatley |
 | 130 | 284 | Rachael |
 | 131 | 283 | Franswa |
-| 132 | 282 | Snippy Wipebuilder |
-| 133 | 282 | Timothy Dew |
-| 134 | 282 | Cool Shiftsnap |
+| 132 | 282 | Timothy Dew |
+| 133 | 282 | Cool Shiftsnap |
+| 134 | 282 | Snippy Wipebuilder |
 | 135 | 280 | Sarah Roberts |
 | 136 | 276 | Dandy Basegrid |
 | 137 | 274 | Tyler Werts |
@@ -236,17 +236,17 @@
 | 228 | 180 | Beau Galvan |
 | 229 | 179 | Erin Rosberg |
 | 230 | 179 | Danielle Little-Daugherty |
-| 231 | 179 | Erin Rosberg |
+| 231 | 179 | femmefatale |
 | 232 | 178 | Chad Atchley |
 | 233 | 177 | Perky Shiftsnap |
 | 234 | 177 | Irual Hctrab |
 | 235 | 177 | Jacqueline Unique |
 | 236 | 176 | Mel Hogan |
-| 237 | 175 | Kellie Tunstall |
-| 238 | 175 | John Barron |
+| 237 | 175 | John Barron |
+| 238 | 175 | Kellie Tunstall |
 | 239 | 174 | Cheeky Pop |
-| 240 | 173 | Gabrielle Louise Malloch |
-| 241 | 173 | Rico Rico |
+| 240 | 173 | Rico Rico |
+| 241 | 173 | Gabrielle Louise Malloch |
 | 242 | 173 | Tiger Lily |
 | 243 | 171 | David DeSantis |
 | 244 | 171 | Sarah Marie |
@@ -267,13 +267,13 @@
 | 259 | 163 | Davery Spencer Adair |
 | 260 | 161 | SavageBooty98 |
 | 261 | 160 | Tedashi |
-| 262 | 159 | Uhog SF |
-| 263 | 159 | Amber Dee |
+| 262 | 159 | Amber Dee |
+| 263 | 159 | Uhog SF |
 | 264 | 156 | Mark Smith |
 | 265 | 156 | Spunky Builderpiece |
 | 266 | 155 | Barry Mac'Ockner |
-| 267 | 154 | Gary Gobin |
-| 268 | 154 | Melissa Lemmon |
+| 267 | 154 | Melissa Lemmon |
+| 268 | 154 | Gary Gobin |
 | 269 | 153 | Tami Luce Martin |
 | 270 | 153 | Dino |
 | 271 | 152 | Speedy Snapfall |

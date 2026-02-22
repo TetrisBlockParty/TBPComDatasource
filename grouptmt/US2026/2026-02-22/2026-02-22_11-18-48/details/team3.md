@@ -240,8 +240,8 @@
 | 232 | 275 | Cassandra Bryant |
 | 233 | 274 | Tye Stovall |
 | 234 | 272 | Dee Franklin |
-| 235 | 271 | Ashley Muncey |
-| 236 | 271 | Cass Mendoza |
+| 235 | 271 | Cass Mendoza |
+| 236 | 271 | Ashley Muncey |
 | 237 | 269 | Trisha Balmer |
 | 238 | 267 | Terry Jo Jones |
 | 239 | 266 | Eon Harris |
@@ -329,8 +329,8 @@
 | 321 | 192 | Kelly Ann Child |
 | 322 | 191 | Becca Engle |
 | 323 | 191 | Philip Rock |
-| 324 | 189 | Katie Leigh Blankenship |
-| 325 | 189 | France Vézina |
+| 324 | 189 | France Vézina |
+| 325 | 189 | Katie Leigh Blankenship |
 | 326 | 188 | Loopy Fallmatch |
 | 327 | 186 | Bryan Byrd |
 | 328 | 186 | Sameerah Smith |
@@ -369,8 +369,8 @@
 | 361 | 165 | Ashley Lynn Marchese |
 | 362 | 164 | Ashley Rufus Bythcez |
 | 363 | 164 | momo |
-| 364 | 163 | Diana Ibarra |
-| 365 | 163 | Christine Trester |
+| 364 | 163 | Christine Trester |
+| 365 | 163 | Diana Ibarra |
 | 366 | 163 | Ava Petito |
 | 367 | 162 | Stephanie Whitefield |
 | 368 | 162 | Loopy Fallzone |
@@ -385,8 +385,8 @@
 | 377 | 158 | Willow |
 | 378 | 158 | FATTY |
 | 379 | 157 | Miranda Taylor |
-| 380 | 157 | Angel Mendez |
-| 381 | 157 | Wetwet |
+| 380 | 157 | Wetwet |
+| 381 | 157 | Angel Mendez |
 | 382 | 157 | Katrina E Jelks |
 | 383 | 156 | Nichole Greene |
 | 384 | 156 | Courtney Conboy |
@@ -442,8 +442,8 @@
 | 434 | 138 | Skinny Baldez |
 | 435 | 137 | Giggly Brickroll |
 | 436 | 136 | Karen Picaboo |
-| 437 | 136 | Sabrina Mansfield |
-| 438 | 136 | Stephanie Zahm |
+| 437 | 136 | Stephanie Zahm |
+| 438 | 136 | Sabrina Mansfield |
 | 439 | 135 | Morgan Cudo |
 | 440 | 134 | Glenn Loving |
 | 441 | 134 | Cheery Brickster |
@@ -474,8 +474,8 @@
 | 466 | 126 | Crystal Martin |
 | 467 | 126 | Spicy Caster |
 | 468 | 125 | Shimika Enay Wallace |
-| 469 | 125 | Felicia Doxey |
-| 470 | 125 | BugMansMom |
+| 469 | 125 | BugMansMom |
+| 470 | 125 | Felicia Doxey |
 | 471 | 124 | victory |
 | 472 | 124 | xsiv |
 | 473 | 123 | Denise Marie |
