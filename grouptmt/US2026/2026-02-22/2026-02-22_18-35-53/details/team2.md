@@ -157,8 +157,8 @@
 | 149 | 1290 | Bussyiano Page |
 | 150 | 1286 | Altamirano Michael |
 | 151 | 1286 | Eileen Hale |
-| 152 | 1282 | Ashley Rose Frederick |
-| 153 | 1282 | Tanya Parsons |
+| 152 | 1282 | Tanya Parsons |
+| 153 | 1282 | Ashley Rose Frederick |
 | 154 | 1273 | Cool Rollpiece |
 | 155 | 1271 | Shandrica Lowe |
 | 156 | 1248 | Isabela Shaw |
@@ -253,8 +253,8 @@
 | 245 | 894 | Auntie B |
 | 246 | 892 | Rebecca Doughman |
 | 247 | 890 | Kevin Walp |
-| 248 | 884 | Adira Brown |
-| 249 | 884 | Boldy Cascadepiece |
+| 248 | 884 | Boldy Cascadepiece |
+| 249 | 884 | Adira Brown |
 | 250 | 883 | nikki |
 | 251 | 880 | Sam Joe |
 | 252 | 879 | Tony Lea |
@@ -471,8 +471,8 @@
 | 463 | 533 | Davetta Sanford |
 | 464 | 533 | Gauri Shrotriya |
 | 465 | 532 | Ann Matzkanin |
-| 466 | 531 | Aishah Brice |
-| 467 | 531 | Briana Alexander |
+| 466 | 531 | Briana Alexander |
+| 467 | 531 | Aishah Brice |
 | 468 | 529 | Victoria Regina Girolami |
 | 469 | 528 | Anita Rose Green |
 | 470 | 527 | Ryan Gunther |
@@ -502,8 +502,8 @@
 | 494 | 507 | Daniell Martinez |
 | 495 | 499 | Sarah Massey |
 | 496 | 499 | Crystal Elam |
-| 497 | 498 | Rhonda Milstead |
-| 498 | 498 | Aimee Campbell |
+| 497 | 498 | Aimee Campbell |
+| 498 | 498 | Rhonda Milstead |
 | 499 | 497 | June E Hanson |
 | 500 | 496 | Erika Densmore |
 | 501 | 495 | Bubbly Snapbuild |
@@ -799,8 +799,8 @@
 | 791 | 335 | Brooke Leigh Strube |
 | 792 | 334 | Melissa James |
 | 793 | 333 | Nikki Nikki |
-| 794 | 333 | Adrian Benitez |
-| 795 | 333 | Woodys Glass |
+| 794 | 333 | Woodys Glass |
+| 795 | 333 | Adrian Benitez |
 | 796 | 333 | Snippy Block |
 | 797 | 332 | Tosa Puvapiromquan |
 | 798 | 330 | Toni Roberson |
@@ -826,8 +826,8 @@
 | 818 | 319 | Giggly Snap |
 | 819 | 318 | Jeffrey Barrows |
 | 820 | 318 | Ashlyn Berner |
-| 821 | 317 | R |
-| 822 | 317 | Zombi3 |
+| 821 | 317 | Zombi3 |
+| 822 | 317 | R |
 | 823 | 317 | Donald Nowland |
 | 824 | 317 | Jumpy Gridclear |
 | 825 | 316 | Epic Spinfit |

@@ -44,8 +44,8 @@
 | 36 | 886 | Dustin Robert |
 | 37 | 880 | Koshin Abdirahman |
 | 38 | 871 | Denny Shives |
-| 39 | 846 | Lucille Truesdale |
-| 40 | 846 | Christine Marie |
+| 39 | 846 | Christine Marie |
+| 40 | 846 | Lucille Truesdale |
 | 41 | 843 | Jae Job |
 | 42 | 843 | Shelly Chandler |
 | 43 | 836 | LisaJo Picken Buchanan |
@@ -70,8 +70,8 @@
 | 62 | 698 | Anthony Bryan Riva |
 | 63 | 671 | D3TROITB0RN74 |
 | 64 | 671 | Kimyatta Cavin |
-| 65 | 664 | loulou |
-| 66 | 664 | Valerie Roberts |
+| 65 | 664 | Valerie Roberts |
+| 66 | 664 | loulou |
 | 67 | 659 | Jonathan Kimbrough |
 | 68 | 654 | Chilly Line |
 | 69 | 647 | KM8 |
@@ -181,8 +181,8 @@
 | 173 | 269 | Nikki Rae Gordon |
 | 174 | 268 | Mimi |
 | 175 | 267 | Casey Grabner |
-| 176 | 267 | Kathy Brookins |
-| 177 | 267 | Holly |
+| 176 | 267 | Holly |
+| 177 | 267 | Kathy Brookins |
 | 178 | 266 | Laura |
 | 179 | 265 | Chris Bernstein |
 | 180 | 264 | Girl |
@@ -210,8 +210,8 @@
 | 202 | 239 | Zethra Prenisha Rahming |
 | 203 | 237 | Jen Caldwell |
 | 204 | 236 | Swanky Fitline |
-| 205 | 233 | April Rondinone |
-| 206 | 233 | Ruben Wheeler |
+| 205 | 233 | Ruben Wheeler |
+| 206 | 233 | April Rondinone |
 | 207 | 230 | Kristina Black |
 | 208 | 230 | blockstar |
 | 209 | 228 | Antony Dwayne Beasley |
@@ -251,20 +251,20 @@
 | 243 | 200 | Rebecca Morris |
 | 244 | 200 | Lori |
 | 245 | 199 | Orchislactea |
-| 246 | 198 | Keith Kelley |
-| 247 | 198 | Silly SeaWeed |
+| 246 | 198 | Silly SeaWeed |
+| 247 | 198 | Keith Kelley |
 | 248 | 198 | Calvin Dennis |
 | 249 | 197 | Gilles Lanctot |
-| 250 | 195 | Snippy Puzzle |
-| 251 | 195 | 中山成巳 |
+| 250 | 195 | 中山成巳 |
+| 251 | 195 | Snippy Puzzle |
 | 252 | 194 | Zany Twisterfit |
 | 253 | 192 | Stephme310 |
 | 254 | 192 | Andrew Dang |
 | 255 | 191 | Chaz |
 | 256 | 190 | Angelito |
 | 257 | 190 | Cheery Risebuilder |
-| 258 | 189 | Dihcheese444 |
-| 259 | 189 | 030Synner |
+| 258 | 189 | 030Synner |
+| 259 | 189 | Dihcheese444 |
 | 260 | 185 | Laura Hosford |
 | 261 | 185 | Morti |
 | 262 | 184 | Matt Gooder |
@@ -631,8 +631,8 @@
 | 623 | 76 | Albert Walker III |
 | 624 | 76 | Dapper Balancer |
 | 625 | 76 | Rae Henderson |
-| 626 | 75 | Tracey Oger |
-| 627 | 75 | Ashley Danielle |
+| 626 | 75 | Ashley Danielle |
+| 627 | 75 | Tracey Oger |
 | 628 | 75 | Hyper Matchclear |
 | 629 | 74 | Elle Joe |
 | 630 | 74 | Cranky Pivoty |
@@ -693,7 +693,7 @@
 | 685 | 67 | Selena Shaw |
 | 686 | 67 | Nig |
 | 687 | 67 | Eminem |
-| 688 | 67 | Nig |
+| 688 | 67 | Dante Korleon |
 | 689 | 67 | Gary Say |
 | 690 | 66 | TwistyMcTwist |
 | 691 | 66 | Bubbly Twistpiece |

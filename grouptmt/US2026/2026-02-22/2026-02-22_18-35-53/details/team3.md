@@ -138,8 +138,8 @@
 | 130 | 526 | Cynthia Castros-Hampton |
 | 131 | 525 | Justin Ritter |
 | 132 | 521 | Leah Barnett |
-| 133 | 521 | Michelle Becker |
-| 134 | 521 | Michael Nowogorski |
+| 133 | 521 | Michael Nowogorski |
+| 134 | 521 | Michelle Becker |
 | 135 | 518 | opf |
 | 136 | 506 | Sashay Tapae Simpson |
 | 137 | 504 | Jennifer Lynn Fahrenholtz-Summers |
@@ -513,7 +513,7 @@
 | 505 | 150 | Tipsy Puzzle |
 | 506 | 150 | Steph Arcari |
 | 507 | 150 | Autumn Phillimore |
-| 508 | 149 | Todd Hall |
+| 508 | 149 | Alexis Taylor |
 | 509 | 149 | xsiv |
 | 510 | 149 | Todd Hall |
 | 511 | 148 | Groovy Blockclear |
