@@ -103,8 +103,8 @@
 | 95 | 581 | Danielle Mogg |
 | 96 | 579 | Jd Morris |
 | 97 | 566 | Dolores Falco |
-| 98 | 565 | Rachael McClain Owens |
-| 99 | 565 | Patty Allen |
+| 98 | 565 | Patty Allen |
+| 99 | 565 | Rachael McClain Owens |
 | 100 | 562 | Louise Stacy Sisson |
 | 101 | 562 | Dave Herzog |
 | 102 | 559 | Morgan Martinez |
@@ -171,8 +171,8 @@
 | 163 | 374 | Sherry Ogden |
 | 164 | 371 | Michael Nowogorski |
 | 165 | 370 | Danielle Allison |
-| 166 | 370 | Logan Naccarato |
-| 167 | 370 | Santeria Trece Candles |
+| 166 | 370 | Santeria Trece Candles |
+| 167 | 370 | Logan Naccarato |
 | 168 | 368 | Stephanie Woods |
 | 169 | 366 | Adrian Marcel Pate |
 | 170 | 362 | Darlene McMillan |
@@ -195,8 +195,8 @@
 | 187 | 319 | Rebecca Funderburk Kirby |
 | 188 | 317 | Ashley Tookes |
 | 189 | 315 | Kammy Hill |
-| 190 | 311 | Araceli Parra |
-| 191 | 311 | Rochelle Hazelett |
+| 190 | 311 | Rochelle Hazelett |
+| 191 | 311 | Araceli Parra |
 | 192 | 310 | Danielle Balcom |
 | 193 | 308 | Rania Zaqout |
 | 194 | 308 | Daryn Elliott |
@@ -332,8 +332,8 @@
 | 324 | 174 | Betty Rosas |
 | 325 | 174 | Lesley Perez |
 | 326 | 173 | BŘŰŤİÇŨŚ |
-| 327 | 169 | Peachy Rollfit |
-| 328 | 169 | Naur |
+| 327 | 169 | Naur |
+| 328 | 169 | Peachy Rollfit |
 | 329 | 169 | Kristian Thurman |
 | 330 | 168 | April Matthew Kibble |
 | 331 | 168 | Trice Thomas |
@@ -366,8 +366,8 @@
 | 358 | 156 | Nichole Greene |
 | 359 | 155 | Michell Hendershott Jackson |
 | 360 | 155 | Michael Leblanc |
-| 361 | 153 | Sheila M Frazier |
-| 362 | 153 | Lys |
+| 361 | 153 | Lys |
+| 362 | 153 | Sheila M Frazier |
 | 363 | 153 | Tony Waters |
 | 364 | 152 | Goofy Fall |
 | 365 | 152 | Eric Caccavale |

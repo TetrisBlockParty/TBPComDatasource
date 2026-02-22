@@ -150,8 +150,8 @@
 | 142 | 244 | Twisty Cascadezone |
 | 143 | 240 | Peachy Fall |
 | 144 | 232 | Crystal Nicolette Moore |
-| 145 | 230 | Autum Leigh |
-| 146 | 230 | Cursed Hag |
+| 145 | 230 | Cursed Hag |
+| 146 | 230 | Autum Leigh |
 | 147 | 228 | J-Rizzle |
 | 148 | 227 | Chris Bernstein |
 | 149 | 227 | Alyssa Papen |
@@ -211,8 +211,8 @@
 | 203 | 171 | Autumn Kumzi |
 | 204 | 167 | Cozy Balancer |
 | 205 | 166 | SammieJo Guy |
-| 206 | 165 | James Hurley Jr. |
-| 207 | 165 | Jackie Marie |
+| 206 | 165 | Jackie Marie |
+| 207 | 165 | James Hurley Jr. |
 | 208 | 164 | 030Synner |
 | 209 | 163 | Kristina Black |
 | 210 | 162 | Joanna |
@@ -239,8 +239,8 @@
 | 231 | 149 | Shainne Brewer |
 | 232 | 149 | Megan Cutshaw |
 | 233 | 148 | Janita Parrish |
-| 234 | 147 | Jay28 |
-| 235 | 147 | B Renee Desjardin |
+| 234 | 147 | B Renee Desjardin |
+| 235 | 147 | Jay28 |
 | 236 | 147 | Jared Gutwein |
 | 237 | 146 | Ultramarine |
 | 238 | 145 | Sandra Safford |
