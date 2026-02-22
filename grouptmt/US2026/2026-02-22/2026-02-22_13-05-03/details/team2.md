@@ -303,8 +303,8 @@
 | 295 | 697 | Dreamy Blast |
 | 296 | 696 | Jánine Riggs |
 | 297 | 695 | Lakeysha Dortch |
-| 298 | 692 | Dannette Goldberg-Richards |
-| 299 | 692 | Jennifer Casey-Kay |
+| 298 | 692 | Jennifer Casey-Kay |
+| 299 | 692 | Dannette Goldberg-Richards |
 | 300 | 691 | Joce Lynn |
 | 301 | 690 | Deborah Miller |
 | 302 | 689 | Giggy Blocker |
@@ -404,8 +404,8 @@
 | 396 | 542 | AISlop |
 | 397 | 541 | g |
 | 398 | 540 | Dizzy Zone |
-| 399 | 536 | Caitlin Schmid |
-| 400 | 536 | Shaun Church |
+| 399 | 536 | Shaun Church |
+| 400 | 536 | Caitlin Schmid |
 | 401 | 535 | Paul Huber |
 | 402 | 534 | Kenny Alvarado |
 | 403 | 533 | Gauri Shrotriya |
@@ -663,8 +663,8 @@
 | 655 | 357 | Shannon Byrd |
 | 656 | 357 | Tristan Szolek |
 | 657 | 355 | Amanda Perez |
-| 658 | 354 | Rachel Kaminski |
-| 659 | 354 | Rickey Johnson |
+| 658 | 354 | Rickey Johnson |
+| 659 | 354 | Rachel Kaminski |
 | 660 | 352 | Rose Fx |
 | 661 | 352 | Jean FU Jagielski |
 | 662 | 352 | ruth |
@@ -993,8 +993,8 @@
 | 985 | 236 | Nikki Arlene |
 | 986 | 235 | Loopy Shatterfit |
 | 987 | 235 | Sinistah42o |
-| 988 | 235 | Shantel Kelley |
-| 989 | 235 | Prince Ajesh |
+| 988 | 235 | Prince Ajesh |
+| 989 | 235 | Shantel Kelley |
 | 990 | 235 | B-rad B-rad |
 | 991 | 234 | Fredrick Burney |
 | 992 | 234 | Lonnie Brown |
@@ -1093,17 +1093,17 @@
 | 1085 | 215 | Nicolle Danielle |
 | 1086 | 215 | Alphia Price |
 | 1087 | 214 | Michele Phelps |
-| 1088 | 214 | Dane Reing |
+| 1088 | 214 | Cass Shirley |
 | 1089 | 214 | FloJo |
-| 1090 | 214 | Cass Shirley |
+| 1090 | 214 | Dane Reing |
 | 1091 | 214 | Brandon McDonald |
 | 1092 | 213 | Cynthia Knox |
 | 1093 | 213 | Hannah Leigh Pelofsky |
 | 1094 | 213 | Frank Castle |
 | 1095 | 213 | Janai Vrabel |
 | 1096 | 212 | Denelle Wendt-Ramalho |
-| 1097 | 212 | Sarah Dean |
-| 1098 | 212 | JP Parks |
+| 1097 | 212 | JP Parks |
+| 1098 | 212 | Sarah Dean |
 | 1099 | 212 | Crafty Brickline |
 | 1100 | 212 | Sassy Linkroll |
 | 1101 | 212 | Izzy Rockford |

@@ -99,8 +99,8 @@
 | 91 | 389 | Trina Gee |
 | 92 | 383 | Loony Fitzone |
 | 93 | 382 | Jacqueline Williams |
-| 94 | 379 | Kimmie Kimms |
-| 95 | 379 | Austin James |
+| 94 | 379 | Austin James |
+| 95 | 379 | Kimmie Kimms |
 | 96 | 376 | lil mickey |
 | 97 | 374 | Tinah Montanna |
 | 98 | 364 | Shauna Loe |
@@ -123,9 +123,9 @@
 | 115 | 321 | Maria C. Hernandez |
 | 116 | 319 | Patrick Luckenbill |
 | 117 | 318 | Jessica Sheehan |
-| 118 | 316 | Jennifer Hardman |
-| 119 | 316 | Dizzy Party |
-| 120 | 316 | Ly Phethmany |
+| 118 | 316 | Ly Phethmany |
+| 119 | 316 | Jennifer Hardman |
+| 120 | 316 | Dizzy Party |
 | 121 | 313 | Tanya Carpenter-Reynolds |
 | 122 | 310 | Jason Jones |
 | 123 | 310 | Seth Wesson |
@@ -205,8 +205,8 @@
 | 197 | 204 | Lacy Wolfe |
 | 198 | 203 | Paula Martin |
 | 199 | 203 | LaFontaine Leslie |
-| 200 | 202 | Amanda Holibaugh |
-| 201 | 202 | Fmp |
+| 200 | 202 | Fmp |
+| 201 | 202 | Amanda Holibaugh |
 | 202 | 201 | Colleen Wise |
 | 203 | 200 | Flashy Rotator |
 | 204 | 200 | DaRascal |
@@ -235,8 +235,8 @@
 | 227 | 186 | Margo Wagner |
 | 228 | 184 | Desiree Deschaine Havee |
 | 229 | 184 | Chris Sigurdson |
-| 230 | 183 | Amy Hess |
-| 231 | 183 | Andrew Boone |
+| 230 | 183 | Andrew Boone |
+| 231 | 183 | Amy Hess |
 | 232 | 182 | Phu ckalldems |
 | 233 | 181 | Melissa Lemmon |
 | 234 | 180 | Jessie Lynn |
@@ -248,7 +248,7 @@
 | 240 | 179 | femmefatale |
 | 241 | 178 | Chad Atchley |
 | 242 | 177 | Herm Junior |
-| 243 | 177 | Sarah Marie |
+| 243 | 177 | Jacqueline Unique |
 | 244 | 177 | Irual Hctrab |
 | 245 | 177 | Sarah Marie |
 | 246 | 176 | Tiger Lily |
@@ -400,14 +400,14 @@
 | 392 | 105 | Bye Love |
 | 393 | 105 | Billie Ann Eason |
 | 394 | 105 | Lucinda Thacker |
-| 395 | 104 | Charla Pross-Fugleberg |
-| 396 | 104 | Serina Marie |
-| 397 | 104 | Jamie Catlett |
+| 395 | 104 | Jamie Catlett |
+| 396 | 104 | Charla Pross-Fugleberg |
+| 397 | 104 | Serina Marie |
 | 398 | 103 | Adriansoky |
 | 399 | 103 | Mariah Cornell |
 | 400 | 102 | osodabear |
-| 401 | 102 | Twisty Wobbler |
-| 402 | 102 | Marie White |
+| 401 | 102 | Marie White |
+| 402 | 102 | Twisty Wobbler |
 | 403 | 101 | Mighty Shatterfit |
 | 404 | 101 | Liliana Pena |
 | 405 | 101 | Mizzledagod |

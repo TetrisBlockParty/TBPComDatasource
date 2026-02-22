@@ -56,10 +56,10 @@
 | 48 | 698 | Anthony Bryan Riva |
 | 49 | 697 | Edward White |
 | 50 | 664 | Valerie Roberts |
-| 51 | 661 | Kimberly Love |
-| 52 | 661 | D3TROITB0RN74 |
-| 53 | 659 | Jonathan Kimbrough |
-| 54 | 659 | Rebecca Moulton Pinciaro |
+| 51 | 661 | D3TROITB0RN74 |
+| 52 | 661 | Kimberly Love |
+| 53 | 659 | Rebecca Moulton Pinciaro |
+| 54 | 659 | Jonathan Kimbrough |
 | 55 | 658 | loulou |
 | 56 | 654 | Chilly Line |
 | 57 | 647 | KM8 |
@@ -67,8 +67,8 @@
 | 59 | 636 | Dustee Craddock-Harrison |
 | 60 | 636 | Kimyatta Cavin |
 | 61 | 623 | Robin Getchel |
-| 62 | 614 | TheNeesh50 |
-| 63 | 614 | Justin Hannigan |
+| 62 | 614 | Justin Hannigan |
+| 63 | 614 | TheNeesh50 |
 | 64 | 599 | Brittney Griggs |
 | 65 | 593 | Sammy Noguera |
 | 66 | 593 | Lisa Davis |
@@ -80,8 +80,8 @@
 | 72 | 533 | Eric Mcgaughy |
 | 73 | 533 | Chris Baggett |
 | 74 | 530 | Yoset Mejia |
-| 75 | 524 | Carolyn Wallace |
-| 76 | 524 | Amelpss |
+| 75 | 524 | Amelpss |
+| 76 | 524 | Carolyn Wallace |
 | 77 | 523 | Dawn Alexander |
 | 78 | 517 | H.R. Block |
 | 79 | 512 | Casey Jeffcoat |
@@ -215,8 +215,8 @@
 | 207 | 193 | Rio Rocha |
 | 208 | 192 | Shauna Havard |
 | 209 | 192 | Dizzy Matchzone |
-| 210 | 191 | Sam Bishop |
-| 211 | 191 | Klo |
+| 210 | 191 | Klo |
+| 211 | 191 | Sam Bishop |
 | 212 | 190 | Cheery Risebuilder |
 | 213 | 189 | Calvin Dennis |
 | 214 | 189 | Stacey Stano |
@@ -252,8 +252,8 @@
 | 244 | 161 | Jenny Wells-Oakley |
 | 245 | 160 | Ellen Durfee |
 | 246 | 160 | Brittany Marsh |
-| 247 | 159 | DonMega |
-| 248 | 159 | Marcus Todd |
+| 247 | 159 | Marcus Todd |
+| 248 | 159 | DonMega |
 | 249 | 158 | Chair |
 | 250 | 157 | scott |
 | 251 | 157 | Paige Kittles |
@@ -305,7 +305,7 @@
 | 297 | 139 | ChasingZen |
 | 298 | 139 | Lori Goudy |
 | 299 | 139 | Jose Dejesus |
-| 300 | 138 | Nick Gray |
+| 300 | 138 | Jasmine S Caldwell |
 | 301 | 138 | Sarah Hoffman |
 | 302 | 138 | Allen Lloyd |
 | 303 | 138 | Nick Gray |
@@ -339,8 +339,8 @@
 | 331 | 128 | Kristin MacDonald |
 | 332 | 128 | Silly Zonebuilder |
 | 333 | 127 | Robert Rodriguez |
-| 334 | 126 | Cheryl Johnson |
-| 335 | 126 | PAPatty |
+| 334 | 126 | PAPatty |
+| 335 | 126 | Cheryl Johnson |
 | 336 | 126 | icequeenx |
 | 337 | 125 | Ann G. Carrillo |
 | 338 | 125 | Steph Marie |
