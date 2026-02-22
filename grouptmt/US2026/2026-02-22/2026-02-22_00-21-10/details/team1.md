@@ -77,8 +77,8 @@
 | 69 | 353 | Trina Gee |
 | 70 | 348 | Stef Hu |
 | 71 | 347 | pjbeta |
-| 72 | 338 | Tipsy Strikerpiece |
-| 73 | 338 | Stephanie Zahn |
+| 72 | 338 | Stephanie Zahn |
+| 73 | 338 | Tipsy Strikerpiece |
 | 74 | 333 | Brandi Huntington |
 | 75 | 328 | Kellie |
 | 76 | 328 | Gracie |
@@ -105,8 +105,8 @@
 | 97 | 277 | Ly Phethmany |
 | 98 | 273 | Happy Basegrid |
 | 99 | 271 | Bhelle Sumile |
-| 100 | 269 | Rachael |
-| 101 | 269 | Seante Bullock |
+| 100 | 269 | Seante Bullock |
+| 101 | 269 | Rachael |
 | 102 | 263 | Sharon Reynolds |
 | 103 | 262 | Dandy Basegrid |
 | 104 | 257 | june october |
@@ -146,17 +146,17 @@
 | 138 | 192 | Jessica Sheehan |
 | 139 | 192 | Shaykmia |
 | 140 | 191 | Diane Byrd |
-| 141 | 190 | Sweetts |
-| 142 | 190 | Thorne Shumate |
+| 141 | 190 | Thorne Shumate |
+| 142 | 190 | Sweetts |
 | 143 | 188 | Sam Williams |
 | 144 | 187 | Snippy Wipebuilder |
-| 145 | 186 | Jennifer Olewnik Soborowski |
-| 146 | 186 | Katie Daniels |
-| 147 | 186 | Margo Wagner |
+| 145 | 186 | Margo Wagner |
+| 146 | 186 | Jennifer Olewnik Soborowski |
+| 147 | 186 | Katie Daniels |
 | 148 | 185 | Basment Living |
 | 149 | 183 | Michael |
-| 150 | 180 | BigWeenie69 |
-| 151 | 180 | Erez Yosef |
+| 150 | 180 | Erez Yosef |
+| 151 | 180 | BigWeenie69 |
 | 152 | 179 | Danielle Little-Daugherty |
 | 153 | 178 | Chad Atchley |
 | 154 | 177 | Irual Hctrab |
@@ -314,7 +314,7 @@
 | 306 | 90 | Matt Cinelli |
 | 307 | 90 | Nick R Montague |
 | 308 | 89 | Angela Renea Lester |
-| 309 | 89 | Isodor |
+| 309 | 89 | Itspaigebro |
 | 310 | 89 | Timothy Danaher |
 | 311 | 89 | Isodor |
 | 312 | 88 | John Garza |

@@ -280,7 +280,7 @@
 | 272 | 153 | Cozy Snaplink |
 | 273 | 152 | Shiny Zonebuilder |
 | 274 | 152 | LaTanya GeminiondaRise Johnson |
-| 275 | 152 | Shiny Zonebuilder |
+| 275 | 152 | Brittany |
 | 276 | 150 | Steffi Chris Dacones |
 | 277 | 149 | Alexis Taylor |
 | 278 | 149 | Peachy Rollfit |
@@ -395,8 +395,8 @@
 | 387 | 109 | Ashley Rufus Bythcez |
 | 388 | 109 | kacihall |
 | 389 | 108 | Scouty |
-| 390 | 107 | Megan Stanley |
-| 391 | 107 | Bouncy Blockbuilder |
+| 390 | 107 | Bouncy Blockbuilder |
+| 391 | 107 | Megan Stanley |
 | 392 | 106 | Cheeky Setter |
 | 393 | 105 | Dapper Towerfit |
 | 394 | 105 | Trice Thomas |

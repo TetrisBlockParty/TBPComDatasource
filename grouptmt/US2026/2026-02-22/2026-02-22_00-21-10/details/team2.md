@@ -333,11 +333,11 @@
 | 325 | 453 | Joshua Sommerville |
 | 326 | 453 | Cozy Filler |
 | 327 | 452 | Alezandra Smith |
-| 328 | 451 | Daphne Jordan |
-| 329 | 451 | Melissa Kay Gibson |
+| 328 | 451 | Melissa Kay Gibson |
+| 329 | 451 | Daphne Jordan |
 | 330 | 451 | Dylan Thomason |
-| 331 | 449 | Shelley Thornburgh Wright |
-| 332 | 449 | Davetta Sanford |
+| 331 | 449 | Davetta Sanford |
+| 332 | 449 | Shelley Thornburgh Wright |
 | 333 | 448 | Jojo Momma |
 | 334 | 447 | Heather Schelkopf |
 | 335 | 447 | Lourisha |
@@ -633,8 +633,8 @@
 | 625 | 255 | DefaultUser |
 | 626 | 255 | Hillary Crawford |
 | 627 | 254 | Elizabeth Diraffaele |
-| 628 | 253 | Christine Bollig |
-| 629 | 253 | Tansaria Couch-Butler |
+| 628 | 253 | Tansaria Couch-Butler |
+| 629 | 253 | Christine Bollig |
 | 630 | 252 | Sheniya Spurgeon |
 | 631 | 252 | Aleasha M Brown |
 | 632 | 250 | Kiorah Blaze |
