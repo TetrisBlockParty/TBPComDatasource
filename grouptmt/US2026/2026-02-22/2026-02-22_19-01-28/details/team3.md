@@ -207,8 +207,8 @@
 | 199 | 377 | rosy |
 | 200 | 376 | Loopy Clusterer |
 | 201 | 374 | Darlene McMillan |
-| 202 | 372 | Tom Nault |
-| 203 | 372 | Giddy Twistbuilder |
+| 202 | 372 | Giddy Twistbuilder |
+| 203 | 372 | Tom Nault |
 | 204 | 370 | Santeria Trece Candles |
 | 205 | 368 | Christine Trester |
 | 206 | 368 | Stephanie Woods |
@@ -311,8 +311,8 @@
 | 303 | 245 | Latoya Mayne |
 | 304 | 245 | Lizabeth Fox |
 | 305 | 244 | Christian Werndl |
-| 306 | 244 | LaNette Morgan |
-| 307 | 244 | Sharisse Baltimore |
+| 306 | 244 | Sharisse Baltimore |
+| 307 | 244 | LaNette Morgan |
 | 308 | 243 | Josh Borquez |
 | 309 | 241 | Angela Scott |
 | 310 | 240 | Jimmie Clemons |
@@ -523,8 +523,8 @@
 | 515 | 150 | Sassy Brickmatch |
 | 516 | 150 | Steph Arcari |
 | 517 | 150 | 4girls |
-| 518 | 149 | Todd Hall |
-| 519 | 149 | xsiv |
+| 518 | 149 | xsiv |
+| 519 | 149 | Todd Hall |
 | 520 | 149 | Alexis Taylor |
 | 521 | 148 | neci |
 | 522 | 148 | Kate Farok |

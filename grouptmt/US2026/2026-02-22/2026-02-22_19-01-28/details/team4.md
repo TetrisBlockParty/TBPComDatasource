@@ -70,8 +70,8 @@
 | 62 | 698 | Anthony Bryan Riva |
 | 63 | 675 | D3TROITB0RN74 |
 | 64 | 671 | Kimyatta Cavin |
-| 65 | 664 | Valerie Roberts |
-| 66 | 664 | loulou |
+| 65 | 664 | loulou |
+| 66 | 664 | Valerie Roberts |
 | 67 | 659 | Jonathan Kimbrough |
 | 68 | 654 | Chilly Line |
 | 69 | 647 | KM8 |
@@ -147,8 +147,8 @@
 | 139 | 325 | Dizzy Tiley |
 | 140 | 324 | Jessica Lynn Cutlip |
 | 141 | 323 | Daria Rycewicz |
-| 142 | 321 | Trista Leah |
-| 143 | 321 | Klo |
+| 142 | 321 | Klo |
+| 143 | 321 | Trista Leah |
 | 144 | 319 | Guy Incognito |
 | 145 | 318 | Lauren Scott |
 | 146 | 314 | Andy Cabral |
@@ -196,8 +196,8 @@
 | 188 | 251 | Matt Summer |
 | 189 | 250 | Matt Dell'Olio |
 | 190 | 248 | Chirpy Basepiece |
-| 191 | 247 | Dennis Bradley |
-| 192 | 247 | jim |
+| 191 | 247 | jim |
+| 192 | 247 | Dennis Bradley |
 | 193 | 246 | Carlos Ramirez |
 | 194 | 245 | 23 |
 | 195 | 245 | Michele Plunkett |
@@ -250,8 +250,8 @@
 | 242 | 202 | Patron Anderson |
 | 243 | 202 | Rebecca Morris |
 | 244 | 201 | Melvin Baird |
-| 245 | 200 | Googenheim |
-| 246 | 200 | Chair |
+| 245 | 200 | Chair |
+| 246 | 200 | Googenheim |
 | 247 | 200 | Lori |
 | 248 | 199 | Orchislactea |
 | 249 | 198 | Silly SeaWeed |
@@ -280,10 +280,10 @@
 | 272 | 180 | Cozy Balancer |
 | 273 | 179 | AyeKay |
 | 274 | 175 | Lorena Guerrero-Barron |
-| 275 | 174 | Shane Vick |
-| 276 | 174 | BigSammy420 |
-| 277 | 171 | Autumn Kumzi |
-| 278 | 171 | June Hoffman |
+| 275 | 174 | BigSammy420 |
+| 276 | 174 | Shane Vick |
+| 277 | 171 | June Hoffman |
+| 278 | 171 | Autumn Kumzi |
 | 279 | 170 | Cynthia Boudreau |
 | 280 | 170 | Elie Pean |
 | 281 | 169 | Daring Pivot |

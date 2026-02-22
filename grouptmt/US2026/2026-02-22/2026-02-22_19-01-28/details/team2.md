@@ -303,15 +303,15 @@
 | 295 | 803 | Barbra Miller |
 | 296 | 801 | Jojo Momma |
 | 297 | 800 | Danielle Johnson-Chandler |
-| 298 | 797 | Osun Anuket Esu |
-| 299 | 797 | Offonar Facey |
+| 298 | 797 | Offonar Facey |
+| 299 | 797 | Osun Anuket Esu |
 | 300 | 796 | Angie Bolton Workman |
 | 301 | 787 | Dee |
 | 302 | 787 | Laura McCarthey |
 | 303 | 783 | Lisa Ongtowasruk |
 | 304 | 781 | Hong Tang |
-| 305 | 777 | Tesha Oldaker |
-| 306 | 777 | Jessicah Myers |
+| 305 | 777 | Jessicah Myers |
+| 306 | 777 | Tesha Oldaker |
 | 307 | 777 | Samantha Jo |
 | 308 | 773 | Diana Fitzwater |
 | 309 | 768 | Michele Morgan |
@@ -477,8 +477,8 @@
 | 469 | 533 | Gauri Shrotriya |
 | 470 | 533 | Davetta Sanford |
 | 471 | 532 | Ann Matzkanin |
-| 472 | 531 | Aishah Brice |
-| 473 | 531 | Briana Alexander |
+| 472 | 531 | Briana Alexander |
+| 473 | 531 | Aishah Brice |
 | 474 | 530 | Amanda Woodruff |
 | 475 | 529 | Victoria Regina Girolami |
 | 476 | 528 | Anita Rose Green |
@@ -499,16 +499,16 @@
 | 491 | 516 | Diamond Scott |
 | 492 | 514 | Karen Posadas Centeno |
 | 493 | 512 | Leslie Jorgenson |
-| 494 | 511 | Adam Simmons |
-| 495 | 511 | Laura Mclean |
-| 496 | 509 | Jarboe |
-| 497 | 509 | Jordan Kaiser |
-| 498 | 509 | Kelli Wells |
+| 494 | 511 | Laura Mclean |
+| 495 | 511 | Adam Simmons |
+| 496 | 509 | Kelli Wells |
+| 497 | 509 | Jarboe |
+| 498 | 509 | Jordan Kaiser |
 | 499 | 507 | Kitybox |
 | 500 | 507 | Daniell Martinez |
 | 501 | 505 | Casey Schumacher |
-| 502 | 499 | Crystal Elam |
-| 503 | 499 | Sarah Massey |
+| 502 | 499 | Sarah Massey |
+| 503 | 499 | Crystal Elam |
 | 504 | 497 | June E Hanson |
 | 505 | 496 | Erika Densmore |
 | 506 | 495 | Bubbly Snapbuild |
@@ -532,11 +532,11 @@
 | 524 | 484 | Wendy Unsain |
 | 525 | 482 | Drwatson187 |
 | 526 | 482 | Amélie Cadieux |
-| 527 | 481 | Quirky Twistline |
-| 528 | 481 | Anthony Huebel |
+| 527 | 481 | Anthony Huebel |
+| 528 | 481 | Quirky Twistline |
 | 529 | 481 | Klee |
-| 530 | 480 | Ryan Meilleur |
-| 531 | 480 | Ashley Collins |
+| 530 | 480 | Ashley Collins |
+| 531 | 480 | Ryan Meilleur |
 | 532 | 480 | Dar |
 | 533 | 477 | Rhonda Petro |
 | 534 | 476 | Christy Krissie |
@@ -547,11 +547,11 @@
 | 539 | 473 | Sam |
 | 540 | 473 | Wuntayk |
 | 541 | 473 | coleksquad |
-| 542 | 473 | Tracy Wise |
-| 543 | 473 | Ashlee Cruz |
-| 544 | 472 | KayLynn Ogden McClelland |
-| 545 | 472 | Arwa Fatimah |
-| 546 | 472 | Véronique Lévesque Sabourin |
+| 542 | 473 | Ashlee Cruz |
+| 543 | 473 | Tracy Wise |
+| 544 | 472 | Arwa Fatimah |
+| 545 | 472 | Véronique Lévesque Sabourin |
+| 546 | 472 | KayLynn Ogden McClelland |
 | 547 | 472 | Mary Marie |
 | 548 | 472 | Kyle LeRoy Harris |
 | 549 | 471 | Rae Rae |
@@ -599,9 +599,9 @@
 | 591 | 444 | Chab |
 | 592 | 444 | Fi Ne |
 | 593 | 443 | Snazzy Basepiece |
-| 594 | 442 | Niceday |
+| 594 | 442 | Juan Castillo |
 | 595 | 442 | Bubbly Snapfit |
-| 596 | 442 | Juan Castillo |
+| 596 | 442 | Niceday |
 | 597 | 437 | Brenda Messer |
 | 598 | 436 | Kia Humphery |
 | 599 | 436 | Kayla |
@@ -729,11 +729,11 @@
 | 721 | 369 | Amanda Canterbury |
 | 722 | 369 | Lewis Sturgeon |
 | 723 | 368 | Veronics |
-| 724 | 368 | Susan Arnburg |
-| 725 | 368 | Anthony D Gritz Jr |
-| 726 | 367 | Connie Lepore-Mann |
+| 724 | 368 | Anthony D Gritz Jr |
+| 725 | 368 | Susan Arnburg |
+| 726 | 367 | Melanie Csikortos |
 | 727 | 367 | Rose Fx |
-| 728 | 367 | Melanie Csikortos |
+| 728 | 367 | Connie Lepore-Mann |
 | 729 | 366 | Courtney Burcham |
 | 730 | 365 | Christina Lewis-Vickers |
 | 731 | 364 | Shinette Dobson |
