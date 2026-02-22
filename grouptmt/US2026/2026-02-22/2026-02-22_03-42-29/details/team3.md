@@ -132,12 +132,12 @@
 | 124 | 403 | Scott Lindsay |
 | 125 | 402 | Shannon Matthew Byers |
 | 126 | 400 | Luciana Braganca Vieira |
-| 127 | 399 | ren |
-| 128 | 399 | Patti Skiles |
-| 129 | 399 | Mcathen |
+| 127 | 399 | Mcathen |
+| 128 | 399 | ren |
+| 129 | 399 | Patti Skiles |
 | 130 | 397 | Annie Déè |
-| 131 | 392 | Katie Knaus |
-| 132 | 392 | Tasha Gillespie |
+| 131 | 392 | Tasha Gillespie |
+| 132 | 392 | Katie Knaus |
 | 133 | 391 | Calista Jo Dickson |
 | 134 | 390 | Hasty Cascadefit |
 | 135 | 378 | Makelini Mausia |

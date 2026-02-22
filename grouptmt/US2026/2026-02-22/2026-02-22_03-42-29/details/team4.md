@@ -90,8 +90,8 @@
 | 82 | 370 | Leslie Thomas |
 | 83 | 369 | Nope Young |
 | 84 | 368 | Jamie Mann-Deichmann |
-| 85 | 358 | Nugget |
-| 86 | 358 | Shane Kalamata Platoon |
+| 85 | 358 | Shane Kalamata Platoon |
+| 86 | 358 | Nugget |
 | 87 | 352 | Monica Daley |
 | 88 | 327 | Lori Walker |
 | 89 | 319 | Livvy |
@@ -117,9 +117,9 @@
 | 109 | 274 | Desi Desporte |
 | 110 | 271 | Sarah Brown |
 | 111 | 268 | Meagan Nicole |
-| 112 | 264 | Epic Curvetile |
-| 113 | 264 | Girl |
-| 114 | 264 | Dana Scott |
+| 112 | 264 | Dana Scott |
+| 113 | 264 | Epic Curvetile |
+| 114 | 264 | Girl |
 | 115 | 258 | Brittney Orengo |
 | 116 | 257 | Holly Jolly |
 | 117 | 256 | Mylo Lipscomb |
@@ -131,9 +131,9 @@
 | 123 | 236 | Scott Jameson |
 | 124 | 232 | Crystal Nicolette Moore |
 | 125 | 231 | Chastity Mitchell |
-| 126 | 230 | Autum Leigh |
-| 127 | 230 | loulou |
-| 128 | 230 | Justin Hannigan |
+| 126 | 230 | Justin Hannigan |
+| 127 | 230 | Autum Leigh |
+| 128 | 230 | loulou |
 | 129 | 227 | Alyssa Papen |
 | 130 | 225 | Damn Libra |
 | 131 | 224 | Matt Summer |
@@ -182,8 +182,8 @@
 | 174 | 174 | Dihcheese444 |
 | 175 | 173 | ThaEviLJeNiuZ |
 | 176 | 171 | Diana Houts |
-| 177 | 166 | SammieJo Guy |
-| 178 | 166 | Cozy Balancer |
+| 177 | 166 | Cozy Balancer |
+| 178 | 166 | SammieJo Guy |
 | 179 | 164 | 030Synner |
 | 180 | 162 | Joanna |
 | 181 | 160 | James Hurley Jr. |
@@ -191,8 +191,8 @@
 | 183 | 160 | Carlos Ramirez |
 | 184 | 160 | ZeeZee |
 | 185 | 159 | Marcus Todd |
-| 186 | 158 | Avy Absol |
-| 187 | 158 | Chair |
+| 186 | 158 | Chair |
+| 187 | 158 | Avy Absol |
 | 188 | 155 | AyeKay |
 | 189 | 154 | Laura Hosford |
 | 190 | 154 | scott |

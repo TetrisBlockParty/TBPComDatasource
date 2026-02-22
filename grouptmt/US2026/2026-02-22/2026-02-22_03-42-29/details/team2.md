@@ -375,8 +375,8 @@
 | 367 | 471 | Rae Rae |
 | 368 | 470 | Jerry Tempelmeyer |
 | 369 | 469 | Jai Jackson |
-| 370 | 469 | Ashley Lopez |
-| 371 | 469 | Amélie Cadieux |
+| 370 | 469 | Amélie Cadieux |
+| 371 | 469 | Ashley Lopez |
 | 372 | 468 | Amber Brion |
 | 373 | 468 | Drwatson187 |
 | 374 | 467 | Sam Joe |
@@ -519,8 +519,8 @@
 | 511 | 360 | Juan Castillo |
 | 512 | 360 | Jroc |
 | 513 | 359 | Cheyenne Donovan |
-| 514 | 358 | Sydney Busse |
-| 515 | 358 | Alyssaaelena |
+| 514 | 358 | Alyssaaelena |
+| 515 | 358 | Sydney Busse |
 | 516 | 358 | Jessica Lamb |
 | 517 | 358 | Veronics |
 | 518 | 358 | Lewis Sturgeon |
@@ -528,8 +528,8 @@
 | 520 | 357 | Keri Womack |
 | 521 | 355 | Amanda Perez |
 | 522 | 354 | Connie Lepore-Mann |
-| 523 | 354 | Demeka Dangerous-kisses Johnson |
-| 524 | 354 | Rickey Johnson |
+| 523 | 354 | Rickey Johnson |
+| 524 | 354 | Demeka Dangerous-kisses Johnson |
 | 525 | 353 | Cheery Matchzone |
 | 526 | 352 | Jean FU Jagielski |
 | 527 | 352 | Andrea Maher |

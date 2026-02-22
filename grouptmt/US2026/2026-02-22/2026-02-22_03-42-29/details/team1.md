@@ -133,19 +133,19 @@
 | 125 | 243 | Trippy Redd |
 | 126 | 241 | John J. Cronin |
 | 127 | 236 | Mandyy Rae |
-| 128 | 232 | Jessi Sauer |
-| 129 | 232 | Jennifer Hardman |
-| 130 | 230 | Billie Dawn Sparks |
-| 131 | 230 | Frothy Pattern |
+| 128 | 232 | Jennifer Hardman |
+| 129 | 232 | Jessi Sauer |
+| 130 | 230 | Frothy Pattern |
+| 131 | 230 | Billie Dawn Sparks |
 | 132 | 228 | Jenny Gingrich Fuentes |
-| 133 | 226 | ALFD |
-| 134 | 226 | Kandae |
+| 133 | 226 | Kandae |
+| 134 | 226 | ALFD |
 | 135 | 217 | ParisandCory Champagne |
-| 136 | 216 | Shauntina Burke |
-| 137 | 216 | MRdot Rooski |
+| 136 | 216 | MRdot Rooski |
+| 137 | 216 | Shauntina Burke |
 | 138 | 214 | GATOR |
-| 139 | 212 | Jaimie Lynn |
-| 140 | 212 | Lori Bales |
+| 139 | 212 | Lori Bales |
+| 140 | 212 | Jaimie Lynn |
 | 141 | 211 | Marianita Garcia |
 | 142 | 208 | Giggly Builderline |
 | 143 | 208 | Bouncy Grid |
@@ -216,8 +216,8 @@
 | 208 | 152 | Speedy Snapfall |
 | 209 | 150 | Adele Rahman |
 | 210 | 150 | Agustin Duarte Orozco |
-| 211 | 147 | Davery Spencer Adair |
-| 212 | 147 | J.F. Fields |
+| 211 | 147 | J.F. Fields |
+| 212 | 147 | Davery Spencer Adair |
 | 213 | 146 | Witty Builderfit |
 | 214 | 145 | Tipsy Riseclear |
 | 215 | 144 | Gary Gobin |
@@ -243,10 +243,10 @@
 | 235 | 136 | Jerry Danowski |
 | 236 | 135 | Aimee Horton |
 | 237 | 134 | Jessie |
-| 238 | 132 | Larry Tilton |
-| 239 | 132 | Layzietyme |
-| 240 | 131 | Uhog SF |
-| 241 | 131 | Tawnya Peltonen |
+| 238 | 132 | Layzietyme |
+| 239 | 132 | Larry Tilton |
+| 240 | 131 | Tawnya Peltonen |
+| 241 | 131 | Uhog SF |
 | 242 | 130 | Carl Claunch |
 | 243 | 130 | Gilbert Ortiz Jr. |
 | 244 | 129 | Sherri E Woods Hess |
