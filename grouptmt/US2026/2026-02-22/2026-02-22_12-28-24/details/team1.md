@@ -200,8 +200,8 @@
 | 192 | 205 | Tater |
 | 193 | 205 | Snappy Matcher |
 | 194 | 204 | Lacy Wolfe |
-| 195 | 203 | Paula Martin |
-| 196 | 203 | LaFontaine Leslie |
+| 195 | 203 | LaFontaine Leslie |
+| 196 | 203 | Paula Martin |
 | 197 | 202 | Amanda Holibaugh |
 | 198 | 201 | Colleen Wise |
 | 199 | 200 | Flashy Rotator |

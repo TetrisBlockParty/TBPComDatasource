@@ -465,8 +465,8 @@
 | 457 | 482 | Drwatson187 |
 | 458 | 482 | Ben Barkley |
 | 459 | 481 | Klee |
-| 460 | 480 | Dar |
-| 461 | 480 | Ashley Collins |
+| 460 | 480 | Ashley Collins |
+| 461 | 480 | Dar |
 | 462 | 477 | Julay |
 | 463 | 476 | Kitybox |
 | 464 | 475 | Michelle Lee |
@@ -481,8 +481,8 @@
 | 473 | 470 | Arlene Joy Belicina |
 | 474 | 469 | Spunkysmom |
 | 475 | 468 | Tra Barnum |
-| 476 | 466 | Koa N Sharon Chen |
-| 477 | 466 | Crystal Greene |
+| 476 | 466 | Crystal Greene |
+| 477 | 466 | Koa N Sharon Chen |
 | 478 | 465 | Davetta Sanford |
 | 479 | 464 | snkylnk |
 | 480 | 464 | Kiana Boschh |
@@ -543,8 +543,8 @@
 | 535 | 424 | Lina Sanders |
 | 536 | 423 | Sam |
 | 537 | 421 | Vonceial Boone |
-| 538 | 420 | LaWanda Powell |
-| 539 | 420 | Juanita Lyons |
+| 538 | 420 | Juanita Lyons |
+| 539 | 420 | LaWanda Powell |
 | 540 | 419 | Pocho Zavala |
 | 541 | 419 | Biggest thing |
 | 542 | 419 | Josh Dill |

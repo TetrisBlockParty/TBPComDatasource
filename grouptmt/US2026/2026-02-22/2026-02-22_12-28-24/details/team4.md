@@ -139,8 +139,8 @@
 | 131 | 283 | Brittney Orengo |
 | 132 | 283 | Scott Jameson |
 | 133 | 281 | Meagan Nicole |
-| 134 | 278 | Desi Desporte |
-| 135 | 278 | Carrie Brian |
+| 134 | 278 | Carrie Brian |
+| 135 | 278 | Desi Desporte |
 | 136 | 277 | Mary Ann Pabukis |
 | 137 | 275 | Dizzy Tiley |
 | 138 | 274 | Calvin Cannon |
@@ -352,8 +352,8 @@
 | 344 | 121 | Chris Alexinas |
 | 345 | 121 | Riverdale |
 | 346 | 121 | Jim Hart |
-| 347 | 120 | Bryan Hodgins |
-| 348 | 120 | wombat |
+| 347 | 120 | wombat |
+| 348 | 120 | Bryan Hodgins |
 | 349 | 119 | rebel4lyfe |
 | 350 | 119 | Gwendolyn Pitcairn |
 | 351 | 119 | River Shady Sr. |
