@@ -97,8 +97,8 @@
 | 89 | 590 | Denise Carlson |
 | 90 | 568 | Chris Baggett |
 | 91 | 566 | Amelpss |
-| 92 | 561 | Amy Suckarieh |
-| 93 | 561 | H.R. Block |
+| 92 | 561 | H.R. Block |
+| 93 | 561 | Amy Suckarieh |
 | 94 | 557 | Carmethia Clemons Haslerig |
 | 95 | 533 | Samantha Peterson |
 | 96 | 531 | Zippy Gridlock |
@@ -112,8 +112,8 @@
 | 104 | 499 | Christina LR |
 | 105 | 499 | Trista Leah |
 | 106 | 488 | Jen Allison |
-| 107 | 487 | shar |
-| 108 | 487 | Alyssa Papen |
+| 107 | 487 | Alyssa Papen |
+| 108 | 487 | shar |
 | 109 | 481 | Serena Goodridge |
 | 110 | 476 | Matt Summer |
 | 111 | 474 | Jenna Ingersoll |
@@ -197,10 +197,10 @@
 | 189 | 288 | Leah Kutz Zirbel |
 | 190 | 287 | Plucky Patternblock |
 | 191 | 286 | Brittney Orengo |
-| 192 | 282 | Chris Bernstein |
-| 193 | 282 | Sue Joyce Staats |
-| 194 | 281 | Laura |
-| 195 | 281 | Kim Klutz Olson |
+| 192 | 282 | Sue Joyce Staats |
+| 193 | 282 | Chris Bernstein |
+| 194 | 281 | Kim Klutz Olson |
+| 195 | 281 | Laura |
 | 196 | 277 | Mary Ann Pabukis |
 | 197 | 276 | Joeliecea Cobb |
 | 198 | 276 | Matt Dell'Olio |
@@ -217,8 +217,8 @@
 | 209 | 267 | Kathy Brookins |
 | 210 | 267 | Holly |
 | 211 | 264 | Holly Jolly |
-| 212 | 261 | Dihcheese444 |
-| 213 | 261 | scott |
+| 212 | 261 | scott |
+| 213 | 261 | Dihcheese444 |
 | 214 | 258 | Jen Caldwell |
 | 215 | 257 | Cheery Risebuilder |
 | 216 | 257 | PeaceOs |
@@ -247,8 +247,8 @@
 | 239 | 230 | Jade Rian |
 | 240 | 228 | Antony Dwayne Beasley |
 | 241 | 226 | Dizzy Matchzone |
-| 242 | 225 | Jenna McGeorge |
-| 243 | 225 | Perky Patternblock |
+| 242 | 225 | Perky Patternblock |
+| 243 | 225 | Jenna McGeorge |
 | 244 | 222 | Brandi Durig |
 | 245 | 221 | Rheanda Weaskus |
 | 246 | 221 | PurpleMoonMa |
@@ -446,8 +446,8 @@
 | 438 | 135 | Marcela Johnson |
 | 439 | 135 | Joshua Guess |
 | 440 | 134 | Happy Combo |
-| 441 | 133 | Jesus Garcia |
-| 442 | 133 | Dapper Frame |
+| 441 | 133 | Dapper Frame |
+| 442 | 133 | Jesus Garcia |
 | 443 | 133 | Darrin Rubalcava |
 | 444 | 132 | Melissa Priest Sellers |
 | 445 | 132 | Nerdy Linebuilder |

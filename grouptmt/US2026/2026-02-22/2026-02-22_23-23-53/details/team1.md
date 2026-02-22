@@ -25,8 +25,8 @@
 | 17 | 1408 | Mara Hilker |
 | 18 | 1234 | Jennifer Cates |
 | 19 | 1215 | LaQuetta Faith Hines |
-| 20 | 1191 | Roger Aschbrenner |
-| 21 | 1191 | Nerdy Linkblock |
+| 20 | 1191 | Nerdy Linkblock |
+| 21 | 1191 | Roger Aschbrenner |
 | 22 | 1177 | Carolyn Smith |
 | 23 | 1145 | Tyler Alcock |
 | 24 | 1136 | Rahna Underwood |
@@ -61,8 +61,8 @@
 | 53 | 770 | Zappy Curvetile |
 | 54 | 767 | Kristen Roles Robben |
 | 55 | 752 | Jacqueline Williams |
-| 56 | 746 | TSwag |
-| 57 | 746 | Stef Hu |
+| 56 | 746 | Stef Hu |
+| 57 | 746 | TSwag |
 | 58 | 738 | Michelle Nicole |
 | 59 | 720 | Zippy Align |
 | 60 | 716 | Marianne Louise West |
@@ -220,8 +220,8 @@
 | 212 | 260 | Cheeky Pop |
 | 213 | 256 | Chris65 |
 | 214 | 255 | Speedy Liney |
-| 215 | 254 | Giggly Builderline |
-| 216 | 254 | Al Smith Jr |
+| 215 | 254 | Al Smith Jr |
+| 216 | 254 | Giggly Builderline |
 | 217 | 253 | Jamie Jury |
 | 218 | 252 | Dena Kayy |
 | 219 | 249 | Lakeisha Chapman |

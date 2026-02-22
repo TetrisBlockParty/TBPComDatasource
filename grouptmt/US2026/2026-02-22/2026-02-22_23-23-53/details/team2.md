@@ -437,8 +437,8 @@
 | 429 | 642 | Gary Stash |
 | 430 | 640 | Belle |
 | 431 | 640 | BYM4L |
-| 432 | 639 | Steven Marshaun |
-| 433 | 639 | Rebecca Miller |
+| 432 | 639 | Rebecca Miller |
+| 433 | 639 | Steven Marshaun |
 | 434 | 635 | Mikayala Szaz |
 | 435 | 635 | Dennis McLaurin |
 | 436 | 632 | Irene Jones |
@@ -5389,8 +5389,8 @@
 | 5381 | 55 | Rack |
 | 5382 | 54 | Speedy |
 | 5383 | 54 | Amie Bliss |
-| 5384 | 54 | Bold Buildout |
-| 5385 | 54 | Frisky Rollfit |
+| 5384 | 54 | Striker |
+| 5385 | 54 | Taylor |
 | 5386 | 54 | Manfa79 |
 | 5387 | 54 | Bold Buildout |
 | 5388 | 54 | Frisky Rollfit |

@@ -136,8 +136,8 @@
 | 128 | 621 | Cherry Parker |
 | 129 | 618 | Bea Miles |
 | 130 | 617 | Leah Barnett |
-| 131 | 595 | Patricia White |
-| 132 | 595 | Giddy Drop |
+| 131 | 595 | Giddy Drop |
+| 132 | 595 | Patricia White |
 | 133 | 590 | Santeria Trece Candles |
 | 134 | 588 | Justin Ritter |
 | 135 | 587 | Daryn Elliott |
@@ -211,8 +211,8 @@
 | 203 | 415 | Cass Mendoza |
 | 204 | 413 | Loopy Clusterer |
 | 205 | 410 | Stephanie Simpson |
-| 206 | 405 | Sherry Ogden |
-| 207 | 405 | Tom Nault |
+| 206 | 405 | Tom Nault |
+| 207 | 405 | Sherry Ogden |
 | 208 | 404 | Chasity |
 | 209 | 403 | Scott Lindsay |
 | 210 | 401 | Demetrious Shaw Sr. |
@@ -222,8 +222,8 @@
 | 214 | 387 | rosy |
 | 215 | 383 | Nicole Flippo |
 | 216 | 383 | Heather Green |
-| 217 | 382 | Scott Carleton |
-| 218 | 382 | Giddy Twistbuilder |
+| 217 | 382 | Giddy Twistbuilder |
+| 218 | 382 | Scott Carleton |
 | 219 | 378 | Chris Bell |
 | 220 | 377 | Darlene McMillan |
 | 221 | 376 | Trisha Balmer |
@@ -232,11 +232,11 @@
 | 224 | 372 | Sarah Moyer |
 | 225 | 372 | Rich LeBlanc |
 | 226 | 370 | RickyG |
-| 227 | 368 | Rebecca Funderburk Kirby |
-| 228 | 368 | Stephanie Woods |
+| 227 | 368 | Stephanie Woods |
+| 228 | 368 | Rebecca Funderburk Kirby |
 | 229 | 366 | Marquita Sheard |
-| 230 | 365 | Chummy Caster |
-| 231 | 365 | Tiffany Ford |
+| 230 | 365 | Tiffany Ford |
+| 231 | 365 | Chummy Caster |
 | 232 | 362 | Brandon Givens |
 | 233 | 360 | Sheila M Frazier |
 | 234 | 358 | Kristal C Lee |
@@ -283,8 +283,8 @@
 | 275 | 302 | Gray Hicks |
 | 276 | 301 | Betty Rosas |
 | 277 | 300 | Tiffany Davie |
-| 278 | 299 | Angie Harper |
-| 279 | 299 | Ray Lader |
+| 278 | 299 | Ray Lader |
+| 279 | 299 | Angie Harper |
 | 280 | 298 | Grams |
 | 281 | 297 | Jojo M |
 | 282 | 297 | Cheeky Snapper |
@@ -369,8 +369,8 @@
 | 361 | 237 | Jennifer Alvey |
 | 362 | 236 | Ashley Lynn Marchese |
 | 363 | 236 | Jess Bissett |
-| 364 | 235 | Cheryl Hinch Tenbrook |
-| 365 | 235 | Beppy |
+| 364 | 235 | Beppy |
+| 365 | 235 | Cheryl Hinch Tenbrook |
 | 366 | 233 | Tony Waters |
 | 367 | 232 | Nicholas Roddy |
 | 368 | 232 | Michael Latasha Gray |
