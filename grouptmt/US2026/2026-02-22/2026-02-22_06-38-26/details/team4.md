@@ -33,8 +33,8 @@
 | 25 | 886 | Dustin Robert |
 | 26 | 880 | Koshin Abdirahman |
 | 27 | 879 | Heather Tushner |
-| 28 | 873 | Elizabeth Sallas |
-| 29 | 873 | Michelle Pearman |
+| 28 | 873 | Michelle Pearman |
+| 29 | 873 | Elizabeth Sallas |
 | 30 | 871 | Denny Shives |
 | 31 | 846 | Christine Marie |
 | 32 | 843 | Lucille Truesdale |
@@ -168,10 +168,10 @@
 | 160 | 215 | Ren Mc |
 | 161 | 215 | Jessica Bohlken |
 | 162 | 214 | Twisty Cascadezone |
-| 163 | 213 | Sarah Neathery |
-| 164 | 213 | Jason Allen |
-| 165 | 212 | Mike Solo |
-| 166 | 212 | Calvin Cannon |
+| 163 | 213 | Jason Allen |
+| 164 | 213 | Sarah Neathery |
+| 165 | 212 | Calvin Cannon |
+| 166 | 212 | Mike Solo |
 | 167 | 211 | Jenna McGeorge |
 | 168 | 207 | Chirpy Basepiece |
 | 169 | 205 | Kathy Brookins |
