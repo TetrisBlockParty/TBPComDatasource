@@ -90,8 +90,8 @@
 | 82 | 418 | Chastity Mitchell |
 | 83 | 416 | YoMomma |
 | 84 | 412 | Jenna Ingersoll |
-| 85 | 409 | Isabella Blanco |
-| 86 | 409 | Jolly Dashfit |
+| 85 | 409 | Jolly Dashfit |
+| 86 | 409 | Isabella Blanco |
 | 87 | 405 | Shane Kalamata Platoon |
 | 88 | 404 | Courtney Cicoria |
 | 89 | 404 | Chilly Crasher |
@@ -152,8 +152,8 @@
 | 144 | 244 | Calvin Cannon |
 | 145 | 240 | Peachy Fall |
 | 146 | 232 | Crystal Nicolette Moore |
-| 147 | 230 | Autum Leigh |
-| 148 | 230 | Cursed Hag |
+| 147 | 230 | Cursed Hag |
+| 148 | 230 | Autum Leigh |
 | 149 | 228 | J-Rizzle |
 | 150 | 227 | Alyssa Papen |
 | 151 | 227 | Chris Bernstein |
@@ -193,8 +193,8 @@
 | 185 | 192 | Shauna Havard |
 | 186 | 191 | Klo |
 | 187 | 190 | Cheery Risebuilder |
-| 188 | 189 | Stacey Stano |
-| 189 | 189 | Calvin Dennis |
+| 188 | 189 | Calvin Dennis |
+| 189 | 189 | Stacey Stano |
 | 190 | 188 | Andria Lynn |
 | 191 | 186 | Holly |
 | 192 | 185 | Lori |

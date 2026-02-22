@@ -190,8 +190,8 @@
 | 182 | 201 | Colleen Wise |
 | 183 | 200 | Debbie Davis |
 | 184 | 199 | Basment Living |
-| 185 | 198 | Shiny Gridmatch |
-| 186 | 198 | Happy Snapbuild |
+| 185 | 198 | Happy Snapbuild |
+| 186 | 198 | Shiny Gridmatch |
 | 187 | 195 | Shaykmia |
 | 188 | 194 | Christy Jones |
 | 189 | 193 | Michael |
