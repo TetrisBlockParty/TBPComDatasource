@@ -159,8 +159,8 @@
 | 151 | 1296 | Kristin Ruest |
 | 152 | 1290 | Bussyiano Page |
 | 153 | 1286 | Altamirano Michael |
-| 154 | 1282 | Tanya Parsons |
-| 155 | 1282 | Ashley Rose Frederick |
+| 154 | 1282 | Ashley Rose Frederick |
+| 155 | 1282 | Tanya Parsons |
 | 156 | 1273 | Cool Rollpiece |
 | 157 | 1271 | Shandrica Lowe |
 | 158 | 1248 | Isabela Shaw |
@@ -193,8 +193,8 @@
 | 185 | 1140 | Sarah Ridenour |
 | 186 | 1138 | Megan Ferguson Leone |
 | 187 | 1132 | Anna Edwards |
-| 188 | 1131 | Stacey Clement |
-| 189 | 1131 | Prado |
+| 188 | 1131 | Prado |
+| 189 | 1131 | Stacey Clement |
 | 190 | 1117 | Ricardo Burton |
 | 191 | 1105 | Nerdy Clearfit |
 | 192 | 1103 | William Meussner |
@@ -311,8 +311,8 @@
 | 303 | 787 | Laura McCarthey |
 | 304 | 783 | Lisa Ongtowasruk |
 | 305 | 781 | Hong Tang |
-| 306 | 777 | Tesha Oldaker |
-| 307 | 777 | Jessicah Myers |
+| 306 | 777 | Jessicah Myers |
+| 307 | 777 | Tesha Oldaker |
 | 308 | 777 | Samantha Jo |
 | 309 | 774 | Ginnell Browner |
 | 310 | 773 | Diana Fitzwater |
@@ -390,8 +390,8 @@
 | 382 | 655 | Em Chen |
 | 383 | 653 | Alex Dungo Hoang |
 | 384 | 651 | Unica Rector |
-| 385 | 650 | Shiny Rollzone |
-| 386 | 650 | Amber Brion |
+| 385 | 650 | Amber Brion |
+| 386 | 650 | Shiny Rollzone |
 | 387 | 644 | AgileDragon |
 | 388 | 644 | Kimmy Newman |
 | 389 | 643 | Hoppy Brickmatch |
@@ -418,8 +418,8 @@
 | 410 | 613 | Tonya Lee |
 | 411 | 605 | Biggest thing |
 | 412 | 605 | g |
-| 413 | 602 | KhaosLord |
-| 414 | 602 | Shaun Church |
+| 413 | 602 | Shaun Church |
+| 414 | 602 | KhaosLord |
 | 415 | 601 | Moua Ying |
 | 416 | 600 | Arkei Luster |
 | 417 | 599 | Nashu |

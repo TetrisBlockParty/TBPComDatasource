@@ -160,8 +160,8 @@
 | 152 | 308 | Sharon Reynolds |
 | 153 | 306 | Happy Basegrid |
 | 154 | 306 | Bloknboy |
-| 155 | 304 | Constance Risner |
-| 156 | 304 | Nicole Roseberry Weber |
+| 155 | 304 | Nicole Roseberry Weber |
+| 156 | 304 | Constance Risner |
 | 157 | 303 | Chelsea Dahlquist |
 | 158 | 302 | Mike Ames |
 | 159 | 297 | Danielle Little-Daugherty |

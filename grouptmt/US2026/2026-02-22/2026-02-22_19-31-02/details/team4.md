@@ -75,8 +75,8 @@
 | 67 | 664 | Valerie Roberts |
 | 68 | 664 | loulou |
 | 69 | 659 | Jonathan Kimbrough |
-| 70 | 647 | KM8 |
-| 71 | 647 | Shauna Havard |
+| 70 | 647 | Shauna Havard |
+| 71 | 647 | KM8 |
 | 72 | 646 | Jacqueline Helm |
 | 73 | 641 | Carolyn Wallace |
 | 74 | 638 | Julian Garcia |
@@ -144,8 +144,8 @@
 | 136 | 332 | HastyGrabber |
 | 137 | 332 | Desi Desporte |
 | 138 | 330 | David Lay |
-| 139 | 328 | Leslie Nicole |
-| 140 | 328 | Kris Bartlett |
+| 139 | 328 | Kris Bartlett |
+| 140 | 328 | Leslie Nicole |
 | 141 | 323 | Daria Rycewicz |
 | 142 | 321 | Trista Leah |
 | 143 | 321 | Klo |
@@ -155,8 +155,8 @@
 | 147 | 316 | Meagan Nicole |
 | 148 | 314 | Andy Cabral |
 | 149 | 308 | Jeff Brian Gates |
-| 150 | 307 | Bio Nelly |
-| 151 | 307 | Angela Srubar-Norman |
+| 150 | 307 | Angela Srubar-Norman |
+| 151 | 307 | Bio Nelly |
 | 152 | 300 | Dana Scott |
 | 153 | 299 | TRCuse |
 | 154 | 294 | Kesha Brady |
@@ -173,8 +173,8 @@
 | 165 | 286 | Brittney Orengo |
 | 166 | 281 | Lindsay Ball |
 | 167 | 280 | Peachy Fall |
-| 168 | 277 | Mary Ann Pabukis |
-| 169 | 277 | Silly Zonebuilder |
+| 168 | 277 | Silly Zonebuilder |
+| 169 | 277 | Mary Ann Pabukis |
 | 170 | 273 | Crystal Nicolette Moore |
 | 171 | 272 | Alan George LaRage |
 | 172 | 271 | Sarah Brown |
@@ -456,8 +456,8 @@
 | 448 | 115 | Susan Williams |
 | 449 | 115 | Kevin Bush |
 | 450 | 115 | Kujuanna Hammon |
-| 451 | 114 | Jackson Karen |
-| 452 | 114 | The Murphy |
+| 451 | 114 | The Murphy |
+| 452 | 114 | Jackson Karen |
 | 453 | 114 | Rosemary Foster |
 | 454 | 114 | Jason Frehner |
 | 455 | 113 | Peppy Strike |

@@ -89,8 +89,8 @@
 | 81 | 828 | Jessica Ann |
 | 82 | 826 | Shane Wilson Jr. |
 | 83 | 824 | Shari Garber |
-| 84 | 811 | Jay Horn |
-| 85 | 811 | Sarajane Lokan |
+| 84 | 811 | Sarajane Lokan |
+| 85 | 811 | Jay Horn |
 | 86 | 807 | Snappy Glidepiece |
 | 87 | 800 | Lauren Girouard |
 | 88 | 784 | Nerdy Riseclear |
@@ -141,8 +141,8 @@
 | 133 | 526 | Cynthia Castros-Hampton |
 | 134 | 525 | Justin Ritter |
 | 135 | 521 | Leah Barnett |
-| 136 | 521 | Michael Nowogorski |
-| 137 | 521 | Michelle Becker |
+| 136 | 521 | Michelle Becker |
+| 137 | 521 | Michael Nowogorski |
 | 138 | 518 | opf |
 | 139 | 516 | Elissa S-k |
 | 140 | 506 | Sashay Tapae Simpson |
@@ -278,9 +278,9 @@
 | 270 | 278 | Rufus Lincoln |
 | 271 | 277 | Tracy Martin |
 | 272 | 276 | Crimson |
-| 273 | 276 | _melisa223_ |
-| 274 | 276 | Heather De Vries Cobb |
-| 275 | 276 | Hasty Gridpiece |
+| 273 | 276 | Heather De Vries Cobb |
+| 274 | 276 | Hasty Gridpiece |
+| 275 | 276 | _melisa223_ |
 | 276 | 275 | Cassandra Bryant |
 | 277 | 275 | Bmo |
 | 278 | 273 | Troy |
