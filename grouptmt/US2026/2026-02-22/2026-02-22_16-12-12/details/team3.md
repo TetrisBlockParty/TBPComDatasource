@@ -177,8 +177,8 @@
 | 169 | 399 | Mcathen |
 | 170 | 397 | Annie Déè |
 | 171 | 393 | Fallorina Susana |
-| 172 | 391 | Sarah Cowan Burgos |
-| 173 | 391 | Araceli Parra |
+| 172 | 391 | Araceli Parra |
+| 173 | 391 | Sarah Cowan Burgos |
 | 174 | 391 | Calista Jo Dickson |
 | 175 | 391 | Dapper Snap |
 | 176 | 390 | Chasity |
@@ -249,8 +249,8 @@
 | 241 | 286 | Cynthia Herrmann Egland |
 | 242 | 284 | Denise Nardoni |
 | 243 | 283 | Cheeky Snapper |
-| 244 | 283 | Eon Harris |
-| 245 | 283 | Sarah Moyer |
+| 244 | 283 | Sarah Moyer |
+| 245 | 283 | Eon Harris |
 | 246 | 282 | Marquita Sheard |
 | 247 | 281 | Carrie Huskey |
 | 248 | 280 | Terry Jo Jones |
@@ -291,12 +291,12 @@
 | 283 | 244 | LaNette Morgan |
 | 284 | 244 | Christian Werndl |
 | 285 | 243 | Foltz Lee Kelli |
-| 286 | 241 | LaShey Thompson |
-| 287 | 241 | France Vézina |
+| 286 | 241 | France Vézina |
+| 287 | 241 | LaShey Thompson |
 | 288 | 240 | Jimmie Clemons |
 | 289 | 239 | Michael Johnson |
-| 290 | 236 | Jess Bissett |
-| 291 | 236 | Lys |
+| 290 | 236 | Lys |
+| 291 | 236 | Jess Bissett |
 | 292 | 236 | Angela Scott |
 | 293 | 233 | Josh Borquez |
 | 294 | 233 | Tony Waters |
@@ -317,8 +317,8 @@
 | 309 | 220 | Tosha Griffey |
 | 310 | 217 | Twisty Brick LT |
 | 311 | 217 | Goofy Fall |
-| 312 | 216 | Tina Smith Roy |
-| 313 | 216 | Frothy Snapper |
+| 312 | 216 | Frothy Snapper |
+| 313 | 216 | Tina Smith Roy |
 | 314 | 216 | Cheryl Hinch Tenbrook |
 | 315 | 214 | Jennifer Alvey |
 | 316 | 214 | Lizabeth Fox |
@@ -336,11 +336,11 @@
 | 328 | 209 | TotoCherue |
 | 329 | 209 | Micayah Stevens |
 | 330 | 209 | Philip Rock |
-| 331 | 208 | AlsoJess |
-| 332 | 208 | Niki Dalrymple |
+| 331 | 208 | Niki Dalrymple |
+| 332 | 208 | AlsoJess |
 | 333 | 207 | angieelyn |
-| 334 | 207 | Jessica |
-| 335 | 207 | Daring Builder |
+| 334 | 207 | Daring Builder |
+| 335 | 207 | Jessica |
 | 336 | 206 | Tammy Rosenberry |
 | 337 | 205 | Rachel Napper |
 | 338 | 205 | Kirhonda Autmon |
@@ -729,9 +729,9 @@
 | 721 | 98 | Tanesha BigBabby Darling |
 | 722 | 98 | Jess Reppert |
 | 723 | 97 | Moimyzean |
-| 724 | 97 | Trissy Collins |
-| 725 | 97 | Bobbie Freeman |
-| 726 | 97 | Jennifer Kahler |
+| 724 | 97 | Bobbie Freeman |
+| 725 | 97 | Jennifer Kahler |
+| 726 | 97 | Trissy Collins |
 | 727 | 97 | Kell Cinn |
 | 728 | 96 | Swanky Snapclear |
 | 729 | 96 | Kelly |

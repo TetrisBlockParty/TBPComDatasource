@@ -106,8 +106,8 @@
 | 98 | 1640 | Sam Smith |
 | 99 | 1603 | Gabby Jenner |
 | 100 | 1601 | Ray Ray Prado |
-| 101 | 1599 | Janel Turley-Garner |
-| 102 | 1599 | Rob Riggin |
+| 101 | 1599 | Rob Riggin |
+| 102 | 1599 | Janel Turley-Garner |
 | 103 | 1567 | Sally Dennis |
 | 104 | 1564 | Charie Holland |
 | 105 | 1555 | blarg |
@@ -229,8 +229,8 @@
 | 221 | 919 | Joshua Mandel |
 | 222 | 919 | Isaac Trappiel IV |
 | 223 | 916 | Butta |
-| 224 | 915 | Angela Bonquiqui Dinish |
-| 225 | 915 | Robin Kerby |
+| 224 | 915 | Robin Kerby |
+| 225 | 915 | Angela Bonquiqui Dinish |
 | 226 | 915 | Kelly Trent |
 | 227 | 910 | Shuany Arias |
 | 228 | 907 | Gene Mills |
@@ -348,8 +348,8 @@
 | 340 | 668 | Roseanna Peloso |
 | 341 | 666 | Speedy Spinblock |
 | 342 | 665 | Phil J. Grombliniak |
-| 343 | 665 | Taryece Gause |
-| 344 | 665 | Prette Qui |
+| 343 | 665 | Prette Qui |
+| 344 | 665 | Taryece Gause |
 | 345 | 664 | Sleepypanda67 |
 | 346 | 663 | tejas25 |
 | 347 | 663 | Mandi Douglas Hilt |
@@ -926,8 +926,8 @@
 | 918 | 272 | Fredrick Burney |
 | 919 | 272 | Daring Matchfit |
 | 920 | 272 | Trina Harrison |
-| 921 | 271 | Sedo |
-| 922 | 271 | Amber N Koepp |
+| 921 | 271 | Amber N Koepp |
+| 922 | 271 | Sedo |
 | 923 | 271 | Pam Doughty |
 | 924 | 271 | Beverly Hodge |
 | 925 | 271 | Shalisa Hill |
@@ -1099,7 +1099,7 @@
 | 1091 | 233 | Nerdy Riserfit |
 | 1092 | 232 | Kirsten Marie Lomupo |
 | 1093 | 232 | P. D. Paige |
-| 1094 | 232 | Kirsten Marie Lomupo |
+| 1094 | 232 | Chirpy Snapper |
 | 1095 | 232 | Janis Resendiz |
 | 1096 | 232 | Alicia Moreno |
 | 1097 | 231 | Wacky Cascade |

@@ -17,8 +17,8 @@
 | 9 | 1835 | East Mamba |
 | 10 | 1775 | Ash |
 | 11 | 1676 | Ayanna Soto |
-| 12 | 1447 | Juggalo |
-| 13 | 1447 | GreenJeepGirl |
+| 12 | 1447 | GreenJeepGirl |
+| 13 | 1447 | Juggalo |
 | 14 | 1318 | Cassie Michaux |
 | 15 | 1289 | Roger Coulter |
 | 16 | 1132 | Jayna Anoc |
@@ -95,8 +95,8 @@
 | 87 | 512 | Casey Jeffcoat |
 | 88 | 500 | Rodney McMath Jr. |
 | 89 | 493 | Judy Cox |
-| 90 | 488 | Shane Kalamata Platoon |
-| 91 | 488 | Jen Allison |
+| 90 | 488 | Jen Allison |
+| 91 | 488 | Shane Kalamata Platoon |
 | 92 | 486 | Carmethia Clemons Haslerig |
 | 93 | 448 | Kristin Manee |
 | 94 | 447 | Erin Thomas |
@@ -169,10 +169,10 @@
 | 161 | 268 | Cursed Hag |
 | 162 | 267 | Kathy Brookins |
 | 163 | 267 | Damn Libra |
-| 164 | 265 | Chris Bernstein |
-| 165 | 265 | Jeff Brian Gates |
-| 166 | 264 | Girl |
-| 167 | 264 | Epic Curvetile |
+| 164 | 265 | Jeff Brian Gates |
+| 165 | 265 | Chris Bernstein |
+| 166 | 264 | Epic Curvetile |
+| 167 | 264 | Girl |
 | 168 | 262 | Holly Jolly |
 | 169 | 262 | Joeliecea Cobb |
 | 170 | 262 | Juls |
@@ -248,15 +248,15 @@
 | 240 | 189 | 030Synner |
 | 241 | 186 | Holly |
 | 242 | 185 | Laura Hosford |
-| 243 | 184 | Ak Jones |
-| 244 | 184 | Lauren Lamb |
+| 243 | 184 | Lauren Lamb |
+| 244 | 184 | Ak Jones |
 | 245 | 183 | JPW |
 | 246 | 181 | Jackie Marie |
 | 247 | 181 | Carter Jones |
 | 248 | 180 | Orchislactea |
-| 249 | 179 | Stephme310 |
+| 249 | 179 | Christina Black |
 | 250 | 179 | TinyLegoRose |
-| 251 | 179 | Christina Black |
+| 251 | 179 | Stephme310 |
 | 252 | 179 | AyeKay |
 | 253 | 176 | Trista Leah |
 | 254 | 175 | Lorena Guerrero-Barron |
@@ -344,8 +344,8 @@
 | 336 | 136 | Michelle Morris |
 | 337 | 135 | Vanessa Smart |
 | 338 | 135 | Joshua Guess |
-| 339 | 134 | Duck |
-| 340 | 134 | Marvetta Williams |
+| 339 | 134 | Marvetta Williams |
+| 340 | 134 | Duck |
 | 341 | 133 | Jesus Garcia |
 | 342 | 132 | Kristin MacDonald |
 | 343 | 132 | Adam Randall |

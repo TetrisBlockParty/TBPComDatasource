@@ -142,8 +142,8 @@
 | 134 | 304 | Nicole Roseberry Weber |
 | 135 | 303 | Chelsea Dahlquist |
 | 136 | 301 | Lehrin Maria |
-| 137 | 300 | Fmp |
-| 138 | 300 | Elaine Elaine |
+| 137 | 300 | Elaine Elaine |
+| 138 | 300 | Fmp |
 | 139 | 298 | Erin Hodges Plumb |
 | 140 | 297 | Constance Risner |
 | 141 | 293 | Sarah Roberts |
@@ -307,10 +307,10 @@
 | 299 | 162 | Strig |
 | 300 | 162 | Pauline Cortez |
 | 301 | 161 | SavageBooty98 |
-| 302 | 160 | Plucky Stacky |
-| 303 | 160 | Tedashi |
-| 304 | 159 | Uhog SF |
-| 305 | 159 | Amber Dee |
+| 302 | 160 | Tedashi |
+| 303 | 160 | Plucky Stacky |
+| 304 | 159 | Amber Dee |
+| 305 | 159 | Uhog SF |
 | 306 | 157 | Jo Kerley |
 | 307 | 156 | Nerdy Curvebuilder |
 | 308 | 156 | Mark Smith |
@@ -382,8 +382,8 @@
 | 374 | 127 | Danielle Mae |
 | 375 | 127 | Test |
 | 376 | 126 | DoodleBug |
-| 377 | 126 | Zany Tiler |
-| 378 | 126 | Shiny Rotate |
+| 377 | 126 | Shiny Rotate |
+| 378 | 126 | Zany Tiler |
 | 379 | 125 | Angela Spann |
 | 380 | 124 | Rodney Schmerfeld |
 | 381 | 123 | Kirk Torrey |
