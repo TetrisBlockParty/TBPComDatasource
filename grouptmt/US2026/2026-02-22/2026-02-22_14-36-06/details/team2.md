@@ -142,8 +142,8 @@
 | 134 | 1273 | Cool Rollpiece |
 | 135 | 1265 | Katrina Williams Balmir |
 | 136 | 1257 | Eileen Hale |
-| 137 | 1248 | Howard Forest |
-| 138 | 1248 | Isabela Shaw |
+| 137 | 1248 | Isabela Shaw |
+| 138 | 1248 | Howard Forest |
 | 139 | 1242 | Altamirano Michael |
 | 140 | 1232 | Groovy Puzzle |
 | 141 | 1230 | Megan Garrick |
@@ -452,13 +452,13 @@
 | 444 | 509 | Kelli Wells |
 | 445 | 509 | Tonya Lee |
 | 446 | 509 | Jordan Kaiser |
-| 447 | 507 | Kitybox |
-| 448 | 507 | Magic steve |
-| 449 | 504 | Brenna Ann |
-| 450 | 504 | Kimmy Newman |
+| 447 | 507 | Magic steve |
+| 448 | 507 | Kitybox |
+| 449 | 504 | Kimmy Newman |
+| 450 | 504 | Brenna Ann |
 | 451 | 502 | Sparkles |
-| 452 | 502 | Dennis McLaurin |
-| 453 | 502 | Sheniya Spurgeon |
+| 452 | 502 | Sheniya Spurgeon |
+| 453 | 502 | Dennis McLaurin |
 | 454 | 501 | Ann Matzkanin |
 | 455 | 500 | Sarah Ridenour |
 | 456 | 499 | Sarah Massey |

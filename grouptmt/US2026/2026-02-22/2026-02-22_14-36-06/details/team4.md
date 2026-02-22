@@ -26,8 +26,8 @@
 | 18 | 1046 | Johnathan Martinez |
 | 19 | 1038 | Leah Gorsuch |
 | 20 | 1020 | Sammy Noguera |
-| 21 | 999 | Kimberly Love |
-| 22 | 999 | Johnny Yang Cotter |
+| 21 | 999 | Johnny Yang Cotter |
+| 22 | 999 | Kimberly Love |
 | 23 | 991 | Michelle Pearman |
 | 24 | 980 | Cherrish Duren |
 | 25 | 959 | Heather Tushner |
@@ -68,8 +68,8 @@
 | 60 | 654 | Chilly Line |
 | 61 | 647 | KM8 |
 | 62 | 646 | Jacqueline Helm |
-| 63 | 636 | Dustee Craddock-Harrison |
-| 64 | 636 | Kimyatta Cavin |
+| 63 | 636 | Kimyatta Cavin |
+| 64 | 636 | Dustee Craddock-Harrison |
 | 65 | 620 | Landon Keith Graffeo |
 | 66 | 614 | TheNeesh50 |
 | 67 | 608 | Avy Absol |
@@ -84,8 +84,8 @@
 | 76 | 544 | Amy Suckarieh |
 | 77 | 533 | Chris Baggett |
 | 78 | 530 | Yoset Mejia |
-| 79 | 524 | Amelpss |
-| 80 | 524 | Carolyn Wallace |
+| 79 | 524 | Carolyn Wallace |
+| 80 | 524 | Amelpss |
 | 81 | 523 | Dawn Alexander |
 | 82 | 517 | H.R. Block |
 | 83 | 512 | Casey Jeffcoat |
@@ -126,8 +126,8 @@
 | 118 | 351 | Serena Goodridge |
 | 119 | 344 | Livvy |
 | 120 | 343 | Latisha Davis |
-| 121 | 332 | HastyGrabber |
-| 122 | 332 | Desi Desporte |
+| 121 | 332 | Desi Desporte |
+| 122 | 332 | HastyGrabber |
 | 123 | 331 | ThaEviLJeNiuZ |
 | 124 | 329 | Amanda Pauldo-Ivy |
 | 125 | 328 | Leslie Nicole |
@@ -298,8 +298,8 @@
 | 290 | 145 | Sandra Safford |
 | 291 | 145 | GBR |
 | 292 | 145 | Nick Gray |
-| 293 | 144 | Circuit8 |
-| 294 | 144 | Maureen Flanigan |
+| 293 | 144 | Maureen Flanigan |
+| 294 | 144 | Circuit8 |
 | 295 | 144 | Sticherella |
 | 296 | 143 | Daresha Fair |
 | 297 | 143 | Metsfan |
@@ -368,8 +368,8 @@
 | 360 | 123 | Lora |
 | 361 | 121 | Chris Alexinas |
 | 362 | 121 | Riverdale |
-| 363 | 120 | wombat |
-| 364 | 120 | Bryan Hodgins |
+| 363 | 120 | Bryan Hodgins |
+| 364 | 120 | wombat |
 | 365 | 119 | Glitzy Crasher |
 | 366 | 119 | rebel4lyfe |
 | 367 | 119 | River Shady Sr. |
