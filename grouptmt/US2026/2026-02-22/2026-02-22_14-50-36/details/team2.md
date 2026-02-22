@@ -341,15 +341,15 @@
 | 333 | 665 | Leslie Ann Carter |
 | 334 | 665 | Prette Qui |
 | 335 | 664 | Sleepypanda67 |
-| 336 | 663 | Ashle Scranton |
-| 337 | 663 | Mandi Douglas Hilt |
+| 336 | 663 | Mandi Douglas Hilt |
+| 337 | 663 | Ashle Scranton |
 | 338 | 662 | Melissa Rebbe-Lehman |
-| 339 | 661 | goofinoff |
-| 340 | 661 | BeQuo |
+| 339 | 661 | BeQuo |
+| 340 | 661 | goofinoff |
 | 341 | 659 | Draizen Montrell Thomas |
 | 342 | 651 | Unica Rector |
-| 343 | 650 | tejas25 |
-| 344 | 650 | Shiny Rollzone |
+| 343 | 650 | Shiny Rollzone |
+| 344 | 650 | tejas25 |
 | 345 | 643 | Hoppy Brickmatch |
 | 346 | 640 | BYM4L |
 | 347 | 640 | Kara Gillen |
@@ -597,8 +597,8 @@
 | 589 | 406 | Kimberly Ann |
 | 590 | 406 | Erin StFrancis |
 | 591 | 404 | Dawn L Washington-Feuquay |
-| 592 | 403 | Nate Skidmore |
-| 593 | 403 | Goofy Dasher |
+| 592 | 403 | Goofy Dasher |
+| 593 | 403 | Nate Skidmore |
 | 594 | 401 | Moua Ying |
 | 595 | 401 | De Hawkins |
 | 596 | 400 | Joshua Self |
@@ -716,14 +716,14 @@
 | 708 | 338 | Lynda Toland |
 | 709 | 337 | Sassy Pattern |
 | 710 | 337 | Tum |
-| 711 | 336 | bru |
-| 712 | 336 | Austin Wilson |
+| 711 | 336 | Austin Wilson |
+| 712 | 336 | bru |
 | 713 | 335 | Alexandrea |
 | 714 | 335 | Brooke Leigh Strube |
 | 715 | 335 | Maria Louise |
 | 716 | 334 | Melissa James |
-| 717 | 333 | Adrian Benitez |
-| 718 | 333 | Woodys Glass |
+| 717 | 333 | Woodys Glass |
+| 718 | 333 | Adrian Benitez |
 | 719 | 333 | trabuco |
 | 720 | 332 | Tosa Puvapiromquan |
 | 721 | 331 | Johanna Massaro |
@@ -779,8 +779,8 @@
 | 771 | 310 | Beth Decker |
 | 772 | 309 | Byung Bae Park |
 | 773 | 309 | Kiorah Blaze |
-| 774 | 308 | Claire |
-| 775 | 308 | Kristina Marie Hanna |
+| 774 | 308 | Kristina Marie Hanna |
+| 775 | 308 | Claire |
 | 776 | 308 | Hyper Riseclear |
 | 777 | 308 | Katie Joy McCombs |
 | 778 | 305 | Zany Clusterbuilder |

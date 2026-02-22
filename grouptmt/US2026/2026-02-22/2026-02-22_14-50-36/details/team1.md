@@ -173,10 +173,10 @@
 | 165 | 253 | Witty Builderfit |
 | 166 | 253 | Jamie Jury |
 | 167 | 252 | Dena Kayy |
-| 168 | 246 | Lakeisha Chapman |
-| 169 | 246 | Mike Ames |
-| 170 | 244 | Eddie Dillon |
-| 171 | 244 | Marianita Garcia |
+| 168 | 246 | Mike Ames |
+| 169 | 246 | Lakeisha Chapman |
+| 170 | 244 | Marianita Garcia |
+| 171 | 244 | Eddie Dillon |
 | 172 | 243 | Trippy Redd |
 | 173 | 242 | ALFD |
 | 174 | 241 | John J. Cronin |
