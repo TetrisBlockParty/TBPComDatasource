@@ -149,8 +149,8 @@
 | 141 | 1051 | Shandrica Lowe |
 | 142 | 1048 | PsychKIRAtrist |
 | 143 | 1047 | Amy Sayers |
-| 144 | 1043 | Suki Kaur |
-| 145 | 1043 | Brave Dropmatch |
+| 144 | 1043 | Brave Dropmatch |
+| 145 | 1043 | Suki Kaur |
 | 146 | 1032 | Sarah Freitas |
 | 147 | 1026 | Heather Westrum |
 | 148 | 1023 | Brainy Smurf |
@@ -610,8 +610,8 @@
 | 602 | 331 | bru |
 | 603 | 330 | CC |
 | 604 | 329 | Chummy Blockbuilder |
-| 605 | 329 | Jane Crew |
-| 606 | 329 | Snappy Shatterfit |
+| 605 | 329 | Snappy Shatterfit |
+| 606 | 329 | Jane Crew |
 | 607 | 328 | BabyBird |
 | 608 | 326 | Jennifer Monroe Kelly |
 | 609 | 326 | Ann Knutson Anderson |
@@ -634,8 +634,8 @@
 | 626 | 316 | Epic Spinfit |
 | 627 | 314 | Anita Rose Green |
 | 628 | 314 | Amanda West |
-| 629 | 313 | Marina Linda |
-| 630 | 313 | Natasha Edmonds |
+| 629 | 313 | Natasha Edmonds |
+| 630 | 313 | Marina Linda |
 | 631 | 313 | Nicky Jackson |
 | 632 | 312 | Christina Jarvis-Swarbrick |
 | 633 | 312 | Sassy Linkbuilder |

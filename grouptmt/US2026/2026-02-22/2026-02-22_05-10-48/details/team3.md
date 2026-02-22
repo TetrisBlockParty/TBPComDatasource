@@ -92,8 +92,8 @@
 | 84 | 590 | Katrina Schroeder |
 | 85 | 588 | yoyo |
 | 86 | 582 | Natasha Jones |
-| 87 | 582 | Jay Horn |
-| 88 | 582 | Speedy Bridger |
+| 87 | 582 | Speedy Bridger |
+| 88 | 582 | Jay Horn |
 | 89 | 581 | Danielle Mogg |
 | 90 | 576 | Dan Rob |
 | 91 | 566 | Dolores Falco |
@@ -111,8 +111,8 @@
 | 103 | 506 | Sashay Tapae Simpson |
 | 104 | 503 | Susan Valentino |
 | 105 | 502 | Justin Ritter |
-| 106 | 500 | Kristie |
-| 107 | 500 | Domo Washington |
+| 106 | 500 | Domo Washington |
+| 107 | 500 | Kristie |
 | 108 | 497 | Mykal Burton |
 | 109 | 492 | Daira Largen |
 | 110 | 491 | Chauntee Alfrey-Cardinale |

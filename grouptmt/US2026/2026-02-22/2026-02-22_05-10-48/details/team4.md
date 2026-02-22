@@ -44,8 +44,8 @@
 | 36 | 766 | Robin Watters |
 | 37 | 717 | BertMofo |
 | 38 | 704 | Crystal Carroll |
-| 39 | 697 | Edward White |
-| 40 | 697 | Rachel Anne |
+| 39 | 697 | Rachel Anne |
+| 40 | 697 | Edward White |
 | 41 | 659 | Rebecca Moulton Pinciaro |
 | 42 | 658 | loulou |
 | 43 | 646 | Jacqueline Helm |
@@ -109,8 +109,8 @@
 | 101 | 303 | Lauren Scott |
 | 102 | 300 | Jason Hart |
 | 103 | 298 | Lucas J Sutton |
-| 104 | 296 | Justin Hannigan |
-| 105 | 296 | HastyGrabber |
+| 104 | 296 | HastyGrabber |
+| 105 | 296 | Justin Hannigan |
 | 106 | 295 | Latisha Davis |
 | 107 | 294 | Kesha Brady |
 | 108 | 288 | Leslie Nicole |
@@ -118,9 +118,9 @@
 | 110 | 286 | Daria Rycewicz |
 | 111 | 284 | shark tato |
 | 112 | 278 | Carrie Brian |
-| 113 | 277 | Mary Ann Pabukis |
-| 114 | 277 | Scott Jameson |
-| 115 | 277 | KJ Pool |
+| 113 | 277 | KJ Pool |
+| 114 | 277 | Mary Ann Pabukis |
+| 115 | 277 | Scott Jameson |
 | 116 | 275 | Dizzy Tiley |
 | 117 | 274 | Desi Desporte |
 | 118 | 271 | Sarah Brown |
