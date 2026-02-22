@@ -191,13 +191,13 @@
 | 183 | 370 | Danielle Allison |
 | 184 | 368 | Stephanie Woods |
 | 185 | 366 | Adrian Marcel Pate |
-| 186 | 362 | Rochelle Hazelett |
-| 187 | 362 | Darlene McMillan |
+| 186 | 362 | Darlene McMillan |
+| 187 | 362 | Rochelle Hazelett |
 | 188 | 361 | Jamie Lang |
 | 189 | 358 | Chummy Caster |
 | 190 | 358 | RickyG |
-| 191 | 357 | Stephanie Burtin |
-| 192 | 357 | Tom Nault |
+| 191 | 357 | Tom Nault |
+| 192 | 357 | Stephanie Burtin |
 | 193 | 353 | Nora Rogers |
 | 194 | 351 | Chelsea Hall |
 | 195 | 349 | Amanda J. Mcneil-Anderson |
@@ -212,7 +212,7 @@
 | 204 | 332 | Rich LeBlanc |
 | 205 | 330 | Rebecca Funderburk Kirby |
 | 206 | 330 | Danielle Balcom |
-| 207 | 324 | rosy |
+| 207 | 324 | Kristal C Lee |
 | 208 | 324 | Sissy Lowery Davis |
 | 209 | 324 | rosy |
 | 210 | 323 | Demetrious Shaw Sr. |
@@ -456,8 +456,8 @@
 | 448 | 147 | sofaking |
 | 449 | 147 | Megan Rathmanner |
 | 450 | 146 | Sdot |
-| 451 | 146 | Sara Dunn |
-| 452 | 146 | Sarah Whalen |
+| 451 | 146 | Sarah Whalen |
+| 452 | 146 | Sara Dunn |
 | 453 | 145 | Alison Baus |
 | 454 | 145 | Eboni Starr |
 | 455 | 145 | Denise Marie |

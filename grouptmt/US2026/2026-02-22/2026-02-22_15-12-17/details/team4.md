@@ -97,8 +97,8 @@
 | 89 | 486 | Carmethia Clemons Haslerig |
 | 90 | 468 | Shane Kalamata Platoon |
 | 91 | 448 | Kristin Manee |
-| 92 | 447 | Shannon Ferrari |
-| 93 | 447 | Samantha Peterson |
+| 92 | 447 | Samantha Peterson |
+| 93 | 447 | Shannon Ferrari |
 | 94 | 447 | Erin Thomas |
 | 95 | 444 | Chilly Crasher |
 | 96 | 441 | Chastity Mitchell |
@@ -128,8 +128,8 @@
 | 120 | 351 | Serena Goodridge |
 | 121 | 344 | Livvy |
 | 122 | 343 | Latisha Davis |
-| 123 | 332 | Desi Desporte |
-| 124 | 332 | HastyGrabber |
+| 123 | 332 | HastyGrabber |
+| 124 | 332 | Desi Desporte |
 | 125 | 331 | ThaEviLJeNiuZ |
 | 126 | 330 | David Lay |
 | 127 | 330 | Twisty Clicky |
@@ -141,8 +141,8 @@
 | 133 | 318 | Carrie Brian |
 | 134 | 314 | Andy Cabral |
 | 135 | 303 | Lauren Scott |
-| 136 | 300 | Dana Scott |
-| 137 | 300 | Jason Hart |
+| 136 | 300 | Jason Hart |
+| 137 | 300 | Dana Scott |
 | 138 | 299 | TRCuse |
 | 139 | 298 | Lucas J Sutton |
 | 140 | 295 | Bio Nelly |
@@ -151,8 +151,8 @@
 | 143 | 289 | Jessica Lynn Cutlip |
 | 144 | 286 | shark tato |
 | 145 | 283 | Brittney Orengo |
-| 146 | 281 | Lindsay Ball |
-| 147 | 281 | Meagan Nicole |
+| 146 | 281 | Meagan Nicole |
+| 147 | 281 | Lindsay Ball |
 | 148 | 278 | Leah Kutz Zirbel |
 | 149 | 277 | Mary Ann Pabukis |
 | 150 | 275 | Dizzy Tiley |
@@ -237,8 +237,8 @@
 | 229 | 191 | Klo |
 | 230 | 190 | Snippy Puzzle |
 | 231 | 190 | Cheery Risebuilder |
-| 232 | 189 | 030Synner |
-| 233 | 189 | Dihcheese444 |
+| 232 | 189 | Dihcheese444 |
+| 233 | 189 | 030Synner |
 | 234 | 188 | April Rondinone |
 | 235 | 186 | Cristy Duerksen |
 | 236 | 186 | Holly |
@@ -311,8 +311,8 @@
 | 303 | 143 | Dennis Bradley |
 | 304 | 143 | Asher |
 | 305 | 143 | Daresha Fair |
-| 306 | 142 | Chantilly Laace |
-| 307 | 142 | Cynthia Boudreau |
+| 306 | 142 | Cynthia Boudreau |
+| 307 | 142 | Chantilly Laace |
 | 308 | 142 | Victoria Faniel |
 | 309 | 142 | Nerdy Twisterfit |
 | 310 | 142 | Chaz |
@@ -481,9 +481,9 @@
 | 473 | 93 | Nicole McMurray |
 | 474 | 93 | Megan Boyce |
 | 475 | 92 | Krash |
-| 476 | 92 | bloat princess |
-| 477 | 92 | RogueRebel |
-| 478 | 92 | Frilly Blocky |
+| 476 | 92 | RogueRebel |
+| 477 | 92 | Frilly Blocky |
+| 478 | 92 | bloat princess |
 | 479 | 91 | Kametsunoyaiba |
 | 480 | 90 | tipsy tiger |
 | 481 | 90 | Heather Mamabear Pezze |
