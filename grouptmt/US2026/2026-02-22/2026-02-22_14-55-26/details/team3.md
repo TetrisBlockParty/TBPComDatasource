@@ -64,8 +64,8 @@
 | 56 | 909 | Jennifer |
 | 57 | 908 | Alanna Rogers |
 | 58 | 903 | Sarah Fehring |
-| 59 | 895 | Shonna Roberts |
-| 60 | 895 | Amanda L Baker |
+| 59 | 895 | Amanda L Baker |
+| 60 | 895 | Shonna Roberts |
 | 61 | 893 | Khristen AC |
 | 62 | 882 | Susan Valentino |
 | 63 | 881 | Nate Burnside |
@@ -114,8 +114,8 @@
 | 106 | 568 | Rachael McClain Owens |
 | 107 | 566 | Dolores Falco |
 | 108 | 565 | Patty Allen |
-| 109 | 562 | Dave Herzog |
-| 110 | 562 | Louise Stacy Sisson |
+| 109 | 562 | Louise Stacy Sisson |
+| 110 | 562 | Dave Herzog |
 | 111 | 559 | Morgan Martinez |
 | 112 | 552 | Keith J Oshman Jr. |
 | 113 | 551 | Kristie |
@@ -245,8 +245,8 @@
 | 237 | 281 | Carrie Huskey |
 | 238 | 279 | Brittany |
 | 239 | 279 | Terry Jo Jones |
-| 240 | 278 | Sabrina Hardrick |
-| 241 | 278 | Rufus Lincoln |
+| 240 | 278 | Rufus Lincoln |
+| 241 | 278 | Sabrina Hardrick |
 | 242 | 276 | _melisa223_ |
 | 243 | 276 | Crimson |
 | 244 | 275 | Eon Harris |

@@ -216,8 +216,8 @@
 | 208 | 950 | Teresa Gillmore |
 | 209 | 944 | Kimberly Hauck-Rausch |
 | 210 | 942 | Keri Womack |
-| 211 | 941 | Marie Boyd Faulk |
-| 212 | 941 | Cool Clearer |
+| 211 | 941 | Cool Clearer |
+| 212 | 941 | Marie Boyd Faulk |
 | 213 | 932 | Catina Hutchison |
 | 214 | 924 | Crystal Hoffman |
 | 215 | 921 | Morgue Chick |
@@ -279,8 +279,8 @@
 | 271 | 771 | Terri McKelvey McKinley |
 | 272 | 770 | Offonar Facey |
 | 273 | 768 | Mighty Shatterfit |
-| 274 | 767 | Ashley Lopez |
-| 275 | 767 | Jessica Wayne Cornwall |
+| 274 | 767 | Jessica Wayne Cornwall |
+| 275 | 767 | Ashley Lopez |
 | 276 | 765 | Jodi Blake |
 | 277 | 764 | Pacynthia Williams |
 | 278 | 763 | Angie Bolton Workman |
@@ -338,18 +338,18 @@
 | 330 | 669 | Charvi' Carter |
 | 331 | 668 | Roseanna Peloso |
 | 332 | 666 | Speedy Spinblock |
-| 333 | 665 | Prette Qui |
-| 334 | 665 | Leslie Ann Carter |
+| 333 | 665 | Leslie Ann Carter |
+| 334 | 665 | Prette Qui |
 | 335 | 664 | Sleepypanda67 |
-| 336 | 663 | Mandi Douglas Hilt |
-| 337 | 663 | Ashle Scranton |
+| 336 | 663 | Ashle Scranton |
+| 337 | 663 | Mandi Douglas Hilt |
 | 338 | 662 | Melissa Rebbe-Lehman |
 | 339 | 661 | BeQuo |
 | 340 | 661 | goofinoff |
 | 341 | 659 | Draizen Montrell Thomas |
 | 342 | 651 | Unica Rector |
-| 343 | 650 | Shiny Rollzone |
-| 344 | 650 | tejas25 |
+| 343 | 650 | tejas25 |
+| 344 | 650 | Shiny Rollzone |
 | 345 | 643 | Hoppy Brickmatch |
 | 346 | 640 | Kara Gillen |
 | 347 | 640 | BYM4L |
@@ -550,8 +550,8 @@
 | 542 | 438 | Kristi Biddinger |
 | 543 | 437 | Bubbly Snapfit |
 | 544 | 436 | Niceday |
-| 545 | 435 | Regina Young |
-| 546 | 435 | James Louie |
+| 545 | 435 | James Louie |
+| 546 | 435 | Regina Young |
 | 547 | 433 | KayLynn Ogden McClelland |
 | 548 | 432 | Lucy Marshall |
 | 549 | 431 | Quinn |
@@ -597,8 +597,8 @@
 | 589 | 406 | Kimberly Ann |
 | 590 | 406 | Erin StFrancis |
 | 591 | 404 | Dawn L Washington-Feuquay |
-| 592 | 403 | Goofy Dasher |
-| 593 | 403 | Nate Skidmore |
+| 592 | 403 | Nate Skidmore |
+| 593 | 403 | Goofy Dasher |
 | 594 | 401 | Moua Ying |
 | 595 | 401 | De Hawkins |
 | 596 | 400 | Tammy Allen |
@@ -678,8 +678,8 @@
 | 670 | 361 | Michelle Shrum |
 | 671 | 360 | Jroc |
 | 672 | 359 | Cheyenne Donovan |
-| 673 | 358 | Alyssaaelena |
-| 674 | 358 | Sydney Busse |
+| 673 | 358 | Sydney Busse |
+| 674 | 358 | Alyssaaelena |
 | 675 | 358 | Frilly Fallzone |
 | 676 | 357 | Tristan Szolek |
 | 677 | 357 | Shannon Byrd |
@@ -711,13 +711,13 @@
 | 703 | 341 | Daniel Amos |
 | 704 | 341 | Shorty |
 | 705 | 339 | Jenn Marie |
-| 706 | 339 | Cynthia Louann Rose |
-| 707 | 339 | Twisty Tetriblast |
+| 706 | 339 | Twisty Tetriblast |
+| 707 | 339 | Cynthia Louann Rose |
 | 708 | 338 | Lynda Toland |
 | 709 | 337 | Sassy Pattern |
 | 710 | 337 | Tum |
-| 711 | 336 | Austin Wilson |
-| 712 | 336 | bru |
+| 711 | 336 | bru |
+| 712 | 336 | Austin Wilson |
 | 713 | 335 | Alexandrea |
 | 714 | 335 | Brooke Leigh Strube |
 | 715 | 335 | Maria Louise |
@@ -756,16 +756,16 @@
 | 748 | 319 | RetroLemur |
 | 749 | 319 | Cheery Puzzler |
 | 750 | 318 | Jennifer Mahon |
-| 751 | 317 | Ashlyn Berner |
-| 752 | 317 | Zombi3 |
+| 751 | 317 | Zombi3 |
+| 752 | 317 | Ashlyn Berner |
 | 753 | 317 | Aireka Roman |
 | 754 | 316 | Epic Spinfit |
 | 755 | 315 | MamaBear11 |
 | 756 | 315 | Sinistah42o |
 | 757 | 314 | Christina Walker |
 | 758 | 314 | Amanda West |
-| 759 | 313 | Natasha Edmonds |
-| 760 | 313 | Marina Linda |
+| 759 | 313 | Marina Linda |
+| 760 | 313 | Natasha Edmonds |
 | 761 | 313 | Jeffrey Barrows |
 | 762 | 313 | Donald Nowland |
 | 763 | 313 | Snippy Block |

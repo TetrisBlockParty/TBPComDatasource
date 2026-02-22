@@ -129,9 +129,9 @@
 | 121 | 321 | Maria C. Hernandez |
 | 122 | 321 | Tanya Carpenter-Reynolds |
 | 123 | 318 | Jessica Sheehan |
-| 124 | 316 | Jennifer Hardman |
+| 124 | 316 | Ly Phethmany |
 | 125 | 316 | Dizzy Party |
-| 126 | 316 | Ly Phethmany |
+| 126 | 316 | Jennifer Hardman |
 | 127 | 313 | Virginia Gray Floyd |
 | 128 | 310 | Seth Wesson |
 | 129 | 308 | Sharon Reynolds |
@@ -231,11 +231,11 @@
 | 223 | 195 | Madison Wicks |
 | 224 | 195 | Jennifer Olewnik Soborowski |
 | 225 | 193 | Lachelle Dillon |
-| 226 | 193 | Shanae Grant |
-| 227 | 193 | Standia Civil |
-| 228 | 191 | Perky Shiftsnap |
-| 229 | 191 | Diane Byrd |
-| 230 | 190 | And |
+| 226 | 193 | Standia Civil |
+| 227 | 193 | Shanae Grant |
+| 228 | 191 | Diane Byrd |
+| 229 | 191 | Perky Shiftsnap |
+| 230 | 190 | Thorne Shumate |
 | 231 | 190 | Sweetts |
 | 232 | 190 | And |
 | 233 | 189 | Veronica Eve |

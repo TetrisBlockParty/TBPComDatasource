@@ -75,8 +75,8 @@
 | 67 | 613 | Ashley Ingram |
 | 68 | 608 | Avy Absol |
 | 69 | 600 | Michelle Marie |
-| 70 | 599 | Savannah Overdorf |
-| 71 | 599 | Brittney Griggs |
+| 70 | 599 | Brittney Griggs |
+| 71 | 599 | Savannah Overdorf |
 | 72 | 593 | Lisa Davis |
 | 73 | 588 | Eric Mcgaughy |
 | 74 | 561 | Julian Garcia |
@@ -97,8 +97,8 @@
 | 89 | 468 | Shane Kalamata Platoon |
 | 90 | 449 | YoMomma |
 | 91 | 448 | Kristin Manee |
-| 92 | 447 | Samantha Peterson |
-| 93 | 447 | Shannon Ferrari |
+| 92 | 447 | Shannon Ferrari |
+| 93 | 447 | Samantha Peterson |
 | 94 | 447 | Erin Thomas |
 | 95 | 444 | Chilly Crasher |
 | 96 | 441 | Chastity Mitchell |
@@ -346,8 +346,8 @@
 | 338 | 132 | Kristin MacDonald |
 | 339 | 132 | Vamp |
 | 340 | 131 | Smiley Tiltbuilder |
-| 341 | 130 | Zach Kerbs |
-| 342 | 130 | Shukee Lo |
+| 341 | 130 | Shukee Lo |
+| 342 | 130 | Zach Kerbs |
 | 343 | 129 | Sherri |
 | 344 | 129 | Berklie Apedaile |
 | 345 | 129 | Dreamy Snapgrid |
