@@ -45,8 +45,8 @@
 | 37 | 908 | Misty Hollibaugh |
 | 38 | 886 | Dustin Robert |
 | 39 | 871 | Denny Shives |
-| 40 | 846 | Christine Marie |
-| 41 | 846 | Lucille Truesdale |
+| 40 | 846 | Lucille Truesdale |
+| 41 | 846 | Christine Marie |
 | 42 | 843 | Jae Job |
 | 43 | 843 | Shelly Chandler |
 | 44 | 836 | LisaJo Picken Buchanan |
@@ -223,20 +223,20 @@
 | 215 | 227 | Kim Hunt |
 | 216 | 226 | Zesty Twistbuilder |
 | 217 | 225 | Perky Patternblock |
-| 218 | 221 | PurpleMoonMa |
-| 219 | 221 | Rheanda Weaskus |
+| 218 | 221 | Rheanda Weaskus |
+| 219 | 221 | PurpleMoonMa |
 | 220 | 220 | Joanna |
-| 221 | 219 | Dizzy Matchzone |
-| 222 | 219 | Malakai Darien Fox |
-| 223 | 216 | ZeeZee |
-| 224 | 216 | Chance Strickland |
+| 221 | 219 | Malakai Darien Fox |
+| 222 | 219 | Dizzy Matchzone |
+| 223 | 216 | Chance Strickland |
+| 224 | 216 | ZeeZee |
 | 225 | 216 | Cristy Duerksen |
-| 226 | 215 | Ziggy |
-| 227 | 215 | John Brunetti |
+| 226 | 215 | John Brunetti |
+| 227 | 215 | Ziggy |
 | 228 | 213 | Rio Rocha |
 | 229 | 213 | Sarah Neathery |
-| 230 | 212 | scott |
-| 231 | 212 | Mike Solo |
+| 230 | 212 | Mike Solo |
+| 231 | 212 | scott |
 | 232 | 211 | Jenna McGeorge |
 | 233 | 210 | Adam Stephanie Parker |
 | 234 | 209 | Ak Jones |

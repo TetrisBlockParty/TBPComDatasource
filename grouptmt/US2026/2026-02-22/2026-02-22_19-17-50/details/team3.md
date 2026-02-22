@@ -70,8 +70,8 @@
 | 62 | 1027 | Gracie |
 | 63 | 1019 | Joey Banks |
 | 64 | 954 | Nate Burnside |
-| 65 | 926 | Angela M. Fletcher |
-| 66 | 926 | Judi Dobson |
+| 65 | 926 | Judi Dobson |
+| 66 | 926 | Angela M. Fletcher |
 | 67 | 924 | Shonna Roberts |
 | 68 | 909 | Jennifer |
 | 69 | 903 | Sarah Fehring |
@@ -319,8 +319,8 @@
 | 311 | 240 | Jimmie Clemons |
 | 312 | 240 | Desiree Gold |
 | 313 | 238 | Niki Dalrymple |
-| 314 | 236 | Lys |
-| 315 | 236 | Jess Bissett |
+| 314 | 236 | Jess Bissett |
+| 315 | 236 | Lys |
 | 316 | 233 | Tony Waters |
 | 317 | 232 | Nicholas Roddy |
 | 318 | 232 | Donna |
@@ -330,8 +330,8 @@
 | 322 | 228 | Beaudie Stroebel |
 | 323 | 228 | Naur |
 | 324 | 227 | Rebel124 |
-| 325 | 227 | Meowsa |
-| 326 | 227 | Wettnippz |
+| 325 | 227 | Wettnippz |
+| 326 | 227 | Meowsa |
 | 327 | 226 | Jana Polk |
 | 328 | 225 | Dirtgirl27 |
 | 329 | 225 | Steffi Chris Dacones |
