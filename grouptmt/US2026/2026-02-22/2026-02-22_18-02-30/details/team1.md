@@ -90,8 +90,8 @@
 | 82 | 471 | Jennifer ManWarren |
 | 83 | 456 | Arianna O'Brien |
 | 84 | 453 | Brandi Huntington |
-| 85 | 444 | Hyper |
-| 86 | 444 | Lexuriuos Lifestlye |
+| 85 | 444 | Lexuriuos Lifestlye |
+| 86 | 444 | Hyper |
 | 87 | 443 | Steve Schneider |
 | 88 | 436 | Tonya Beasley |
 | 89 | 434 | Loony Fitzone |
@@ -122,8 +122,8 @@
 | 114 | 362 | Plucky Ziggy |
 | 115 | 360 | Wisa |
 | 116 | 359 | Chirpy Smasher |
-| 117 | 357 | Amanda Johnson Huffman |
-| 118 | 357 | Dandy Basegrid |
+| 117 | 357 | Dandy Basegrid |
+| 118 | 357 | Amanda Johnson Huffman |
 | 119 | 355 | Hasbro Bros |
 | 120 | 354 | phrmblk24 |
 | 121 | 352 | Jason Jones |
@@ -138,8 +138,8 @@
 | 130 | 333 | Gracie |
 | 131 | 332 | Kristen Gideon |
 | 132 | 328 | Fmp |
-| 133 | 326 | Monica Donato |
-| 134 | 326 | Lehrin Maria |
+| 133 | 326 | Lehrin Maria |
+| 134 | 326 | Monica Donato |
 | 135 | 325 | Jennifer Hardman |
 | 136 | 321 | Maria C. Hernandez |
 | 137 | 321 | Tanya Carpenter-Reynolds |
@@ -222,8 +222,8 @@
 | 214 | 223 | Jerry Danowski |
 | 215 | 222 | Debbie Davis |
 | 216 | 221 | Daring Fitclear |
-| 217 | 220 | Jessie Lynn |
-| 218 | 220 | Giddy Cascade |
+| 217 | 220 | Giddy Cascade |
+| 218 | 220 | Jessie Lynn |
 | 219 | 219 | Chuck Gannon |
 | 220 | 217 | Jason Savage |
 | 221 | 216 | Chad Atchley |

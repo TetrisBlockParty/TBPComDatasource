@@ -70,8 +70,8 @@
 | 62 | 688 | Avy Absol |
 | 63 | 671 | Kimyatta Cavin |
 | 64 | 671 | D3TROITB0RN74 |
-| 65 | 664 | loulou |
-| 66 | 664 | Valerie Roberts |
+| 65 | 664 | Valerie Roberts |
+| 66 | 664 | loulou |
 | 67 | 659 | Jonathan Kimbrough |
 | 68 | 654 | Chilly Line |
 | 69 | 647 | KM8 |
@@ -85,8 +85,8 @@
 | 77 | 590 | Jamie Mann-Deichmann |
 | 78 | 588 | Eric Mcgaughy |
 | 79 | 581 | Yoset Mejia |
-| 80 | 575 | Carolyn Wallace |
-| 81 | 575 | Jeremy Steines |
+| 80 | 575 | Jeremy Steines |
+| 81 | 575 | Carolyn Wallace |
 | 82 | 564 | Shane Kalamata Platoon |
 | 83 | 559 | H.R. Block |
 | 84 | 544 | Amy Suckarieh |
@@ -129,15 +129,15 @@
 | 121 | 369 | Nope Young |
 | 122 | 362 | Carrie Brian |
 | 123 | 356 | Serena Goodridge |
-| 124 | 353 | Livvy |
-| 125 | 353 | Tyler Terrific |
+| 124 | 353 | Tyler Terrific |
+| 125 | 353 | Livvy |
 | 126 | 344 | Lush Linkfall |
 | 127 | 343 | Latisha Davis |
-| 128 | 338 | Lucas J Sutton |
-| 129 | 338 | ThaEviLJeNiuZ |
+| 128 | 338 | ThaEviLJeNiuZ |
+| 129 | 338 | Lucas J Sutton |
 | 130 | 336 | Austin Owens |
-| 131 | 332 | Desi Desporte |
-| 132 | 332 | HastyGrabber |
+| 131 | 332 | HastyGrabber |
+| 132 | 332 | Desi Desporte |
 | 133 | 330 | David Lay |
 | 134 | 329 | Amanda Pauldo-Ivy |
 | 135 | 329 | Jessica Bohlken |
@@ -166,8 +166,8 @@
 | 158 | 286 | shark tato |
 | 159 | 282 | Rafael Valentin |
 | 160 | 281 | Lindsay Ball |
-| 161 | 277 | Cursed Hag |
-| 162 | 277 | Mary Ann Pabukis |
+| 161 | 277 | Mary Ann Pabukis |
+| 162 | 277 | Cursed Hag |
 | 163 | 276 | Alyssa Papen |
 | 164 | 275 | Trista Leah |
 | 165 | 273 | Crystal Nicolette Moore |
@@ -175,8 +175,8 @@
 | 167 | 271 | Sarah Brown |
 | 168 | 269 | Nikki Rae Gordon |
 | 169 | 268 | Mimi |
-| 170 | 267 | Damn Libra |
-| 171 | 267 | Casey Grabner |
+| 170 | 267 | Casey Grabner |
+| 171 | 267 | Damn Libra |
 | 172 | 267 | Holly |
 | 173 | 267 | Kathy Brookins |
 | 174 | 266 | Laura |

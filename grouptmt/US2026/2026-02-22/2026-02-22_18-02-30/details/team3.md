@@ -208,8 +208,8 @@
 | 200 | 370 | Santeria Trece Candles |
 | 201 | 368 | Stephanie Woods |
 | 202 | 362 | Rochelle Hazelett |
-| 203 | 362 | Brandon Givens |
-| 204 | 362 | Loopy Fallmatch |
+| 203 | 362 | Loopy Fallmatch |
+| 204 | 362 | Brandon Givens |
 | 205 | 358 | RickyG |
 | 206 | 358 | Chummy Caster |
 | 207 | 357 | Stephanie Burtin |
@@ -230,8 +230,8 @@
 | 222 | 337 | Philip Rock |
 | 223 | 332 | Rich LeBlanc |
 | 224 | 330 | Rebecca Funderburk Kirby |
-| 225 | 324 | Sissy Lowery Davis |
-| 226 | 324 | Kristal C Lee |
+| 225 | 324 | Kristal C Lee |
+| 226 | 324 | Sissy Lowery Davis |
 | 227 | 323 | Demetrious Shaw Sr. |
 | 228 | 323 | Melissa Orth Hunter |
 | 229 | 321 | Rebecca Bailey |
@@ -311,8 +311,8 @@
 | 303 | 236 | Lys |
 | 304 | 233 | Tony Waters |
 | 305 | 232 | Donna |
-| 306 | 231 | Kiki |
-| 307 | 231 | Kevin Russell |
+| 306 | 231 | Kevin Russell |
+| 307 | 231 | Kiki |
 | 308 | 230 | BigE |
 | 309 | 228 | Beaudie Stroebel |
 | 310 | 228 | Naur |
@@ -355,12 +355,12 @@
 | 347 | 210 | Criss |
 | 348 | 210 | Ashley Lynn Marchese |
 | 349 | 210 | Saucy Buildout |
-| 350 | 209 | Kirhonda Autmon |
-| 351 | 209 | TotoCherue |
+| 350 | 209 | TotoCherue |
+| 351 | 209 | Kirhonda Autmon |
 | 352 | 209 | Daring Builder |
 | 353 | 208 | Karent524 |
-| 354 | 207 | angieelyn |
-| 355 | 207 | Kristian Thurman |
+| 354 | 207 | Kristian Thurman |
+| 355 | 207 | angieelyn |
 | 356 | 206 | Tammy Rosenberry |
 | 357 | 205 | Rachel Napper |
 | 358 | 205 | Emma |

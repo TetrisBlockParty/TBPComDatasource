@@ -132,8 +132,8 @@
 | 124 | 1439 | Jumpy Gridpiece |
 | 125 | 1435 | Jessie McDougald |
 | 126 | 1418 | L3sli3 |
-| 127 | 1411 | Zappy Cascade |
-| 128 | 1411 | niecy |
+| 127 | 1411 | niecy |
+| 128 | 1411 | Zappy Cascade |
 | 129 | 1384 | Katrina Williams Balmir |
 | 130 | 1383 | Ladyrainbootz |
 | 131 | 1380 | Jose Mendoza |
@@ -396,15 +396,15 @@
 | 388 | 619 | Melissa Penelope Ann Dodge |
 | 389 | 617 | Darcy Mae |
 | 390 | 616 | Cassie Mercer |
-| 391 | 613 | Caitlyn Blackwell |
-| 392 | 613 | Tonya Lee |
+| 391 | 613 | Tonya Lee |
+| 392 | 613 | Caitlyn Blackwell |
 | 393 | 612 | Nicole Cannon |
 | 394 | 611 | Julio A Laracuente |
 | 395 | 605 | Biggest thing |
 | 396 | 605 | g |
 | 397 | 604 | Dennis McLaurin |
-| 398 | 602 | KhaosLord |
-| 399 | 602 | Shaun Church |
+| 398 | 602 | Shaun Church |
+| 399 | 602 | KhaosLord |
 | 400 | 601 | Moua Ying |
 | 401 | 600 | Arkei Luster |
 | 402 | 600 | Connie Jimenez |
@@ -472,8 +472,8 @@
 | 464 | 525 | Joseph Musick |
 | 465 | 523 | Matt Johnson |
 | 466 | 522 | Leah |
-| 467 | 520 | Joshua Self |
-| 468 | 520 | Maddy Petersen |
+| 467 | 520 | Maddy Petersen |
+| 468 | 520 | Joshua Self |
 | 469 | 519 | Rob Brown |
 | 470 | 518 | Mighty Spinbuilder |
 | 471 | 518 | Ann Matzkanin |
@@ -542,8 +542,8 @@
 | 534 | 472 | Kyle LeRoy Harris |
 | 535 | 471 | Christy Krissie |
 | 536 | 471 | Rae Rae |
-| 537 | 470 | Arlene Joy Belicina |
-| 538 | 470 | Snippy Rumbler |
+| 537 | 470 | Snippy Rumbler |
+| 538 | 470 | Arlene Joy Belicina |
 | 539 | 469 | Christy Long |
 | 540 | 469 | Spunkysmom |
 | 541 | 467 | Audrey Jones |
@@ -564,11 +564,11 @@
 | 556 | 460 | Gloria Ininahazwe |
 | 557 | 460 | Tara Lynn Janes |
 | 558 | 460 | Slinky Racker |
-| 559 | 458 | SwampRebel |
-| 560 | 458 | Casper The Chonk |
+| 559 | 458 | Casper The Chonk |
+| 560 | 458 | SwampRebel |
 | 561 | 456 | Misty Mitchell |
-| 562 | 456 | Lee Harper |
-| 563 | 456 | Skyler Morgan |
+| 562 | 456 | Skyler Morgan |
+| 563 | 456 | Lee Harper |
 | 564 | 455 | Ann Knutson Anderson |
 | 565 | 453 | Jessica S Flecha |
 | 566 | 452 | Juanita Lyons |
@@ -918,11 +918,11 @@
 | 910 | 284 | Loopy Shatterfit |
 | 911 | 284 | Candice Mack |
 | 912 | 284 | Hillary Franklin |
-| 913 | 282 | Albert McKnight |
-| 914 | 282 | Witty Piecebuilder |
+| 913 | 282 | Witty Piecebuilder |
+| 914 | 282 | Albert McKnight |
 | 915 | 282 | Poppy |
-| 916 | 282 | Abby Jensen |
-| 917 | 282 | Jannan Haimour |
+| 916 | 282 | Jannan Haimour |
+| 917 | 282 | Abby Jensen |
 | 918 | 282 | Bec |
 | 919 | 281 | Michelle Ettrick |
 | 920 | 281 | Tara Nicole Church |
@@ -988,8 +988,8 @@
 | 980 | 271 | Amandacolle |
 | 981 | 271 | Pam Doughty |
 | 982 | 271 | Shalisa Hill |
-| 983 | 271 | Sedo |
-| 984 | 271 | Amber N Koepp |
+| 983 | 271 | Amber N Koepp |
+| 984 | 271 | Sedo |
 | 985 | 270 | Lexa Craft Davidson |
 | 986 | 270 | Meganator42 |
 | 987 | 270 | BK Queen |
@@ -999,8 +999,8 @@
 | 991 | 268 | Chummy Breaker |
 | 992 | 268 | Sassy Linkroll |
 | 993 | 267 | Sanaa Nounoussa |
-| 994 | 267 | Nikki Vaughn |
-| 995 | 267 | Renee Bowers |
+| 994 | 267 | Renee Bowers |
+| 995 | 267 | Nikki Vaughn |
 | 996 | 267 | Denisse Avilez |
 | 997 | 266 | Quiksilver |
 | 998 | 266 | Bigg Meezy |
@@ -1263,8 +1263,8 @@
 | 1255 | 217 | Nick Spring |
 | 1256 | 217 | Christine Lockwood |
 | 1257 | 217 | Wedance Fong |
-| 1258 | 217 | Jaci Marie |
-| 1259 | 217 | Christy Cormier |
+| 1258 | 217 | Christy Cormier |
+| 1259 | 217 | Jaci Marie |
 | 1260 | 216 | Kim King |
 | 1261 | 216 | Crystal Ament |
 | 1262 | 216 | Candace Noel |
