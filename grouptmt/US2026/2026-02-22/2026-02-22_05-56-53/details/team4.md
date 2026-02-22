@@ -129,9 +129,9 @@
 | 121 | 275 | Dizzy Tiley |
 | 122 | 274 | Desi Desporte |
 | 123 | 271 | Sarah Brown |
-| 124 | 264 | Girl |
+| 124 | 264 | Epic Curvetile |
 | 125 | 264 | Dana Scott |
-| 126 | 264 | Epic Curvetile |
+| 126 | 264 | Girl |
 | 127 | 262 | Holly Jolly |
 | 128 | 258 | Brittney Orengo |
 | 129 | 256 | Mylo Lipscomb |
@@ -163,8 +163,8 @@
 | 155 | 214 | Twisty Cascadezone |
 | 156 | 213 | Sarah Neathery |
 | 157 | 213 | Jason Allen |
-| 158 | 212 | Calvin Cannon |
-| 159 | 212 | Mike Solo |
+| 158 | 212 | Mike Solo |
+| 159 | 212 | Calvin Cannon |
 | 160 | 211 | Jenna McGeorge |
 | 161 | 209 | Chilly Crasher |
 | 162 | 207 | Chirpy Basepiece |

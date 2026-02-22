@@ -112,10 +112,10 @@
 | 104 | 512 | Christine Niles |
 | 105 | 506 | Sashay Tapae Simpson |
 | 106 | 503 | Susan Valentino |
-| 107 | 502 | Elissa S-k |
-| 108 | 502 | Justin Ritter |
-| 109 | 500 | Domo Washington |
-| 110 | 500 | Kristie |
+| 107 | 502 | Justin Ritter |
+| 108 | 502 | Elissa S-k |
+| 109 | 500 | Kristie |
+| 110 | 500 | Domo Washington |
 | 111 | 497 | Mykal Burton |
 | 112 | 492 | Daira Largen |
 | 113 | 491 | Chauntee Alfrey-Cardinale |
@@ -137,13 +137,13 @@
 | 129 | 416 | Mary Pellegrino |
 | 130 | 415 | ren |
 | 131 | 411 | FuzzyNavel |
-| 132 | 410 | Stephanie Blkpep Davidson |
-| 133 | 410 | Stephanie Simpson |
+| 132 | 410 | Stephanie Simpson |
+| 133 | 410 | Stephanie Blkpep Davidson |
 | 134 | 409 | Karon Griffin |
 | 135 | 407 | Joye Sims Binion |
 | 136 | 405 | Michelle |
-| 137 | 403 | Christine Filson |
-| 138 | 403 | Scott Lindsay |
+| 137 | 403 | Scott Lindsay |
+| 138 | 403 | Christine Filson |
 | 139 | 402 | Shannon Matthew Byers |
 | 140 | 400 | Luciana Braganca Vieira |
 | 141 | 399 | Mcathen |
@@ -321,10 +321,10 @@
 | 313 | 170 | Cesar Barraza |
 | 314 | 169 | Peachy Rollfit |
 | 315 | 169 | Kristian Thurman |
-| 316 | 168 | Trice Thomas |
-| 317 | 168 | Stephanie Hill |
-| 318 | 167 | Shicken Nuggit |
-| 319 | 167 | Romeo |
+| 316 | 168 | Stephanie Hill |
+| 317 | 168 | Trice Thomas |
+| 318 | 167 | Romeo |
+| 319 | 167 | Shicken Nuggit |
 | 320 | 166 | Noettín Kan Zasnemoore |
 | 321 | 166 | April Matthew Kibble |
 | 322 | 165 | Cozy Snaplink |
@@ -335,10 +335,10 @@
 | 327 | 165 | Josh Borquez |
 | 328 | 163 | Diana Ibarra |
 | 329 | 163 | Christine Trester |
-| 330 | 162 | Stephanie Whitefield |
-| 331 | 162 | Loopy Fallzone |
-| 332 | 161 | Michael Johnson |
-| 333 | 161 | Bouncy Blockbuilder |
+| 330 | 162 | Loopy Fallzone |
+| 331 | 162 | Stephanie Whitefield |
+| 332 | 161 | Bouncy Blockbuilder |
+| 333 | 161 | Michael Johnson |
 | 334 | 160 | Rachel |
 | 335 | 159 | Salena Whitlock |
 | 336 | 159 | Joshua David Huie |
@@ -449,11 +449,11 @@
 | 441 | 117 | Dee Pratt |
 | 442 | 117 | Rayzer |
 | 443 | 116 | Jason-Ashley Ludlow |
-| 444 | 116 | TazB |
-| 445 | 116 | Niki Dalrymple |
-| 446 | 116 | Shelby Crawford |
-| 447 | 116 | Dapper Towerfit |
-| 448 | 116 | Elisha L Allman |
+| 444 | 116 | Shelby Crawford |
+| 445 | 116 | TazB |
+| 446 | 116 | Niki Dalrymple |
+| 447 | 116 | Elisha L Allman |
+| 448 | 116 | Dapper Towerfit |
 | 449 | 115 | Sameerah Smith |
 | 450 | 115 | FATTY |
 | 451 | 115 | Brave Brickster |

@@ -124,8 +124,8 @@
 | 116 | 1248 | Howard Forest |
 | 117 | 1242 | Altamirano Michael |
 | 118 | 1237 | Roger Grabbit |
-| 119 | 1232 | Isabela Shaw |
-| 120 | 1232 | Groovy Puzzle |
+| 119 | 1232 | Groovy Puzzle |
+| 120 | 1232 | Isabela Shaw |
 | 121 | 1226 | Vo'Landa Reels |
 | 122 | 1216 | Kristin Ruest |
 | 123 | 1215 | Megan Garrick |
@@ -253,14 +253,14 @@
 | 245 | 705 | Lola Contreras |
 | 246 | 704 | Shelley Thornburgh Wright |
 | 247 | 703 | Gold Rose |
-| 248 | 700 | Rosemadder |
-| 249 | 700 | Beverly Owens |
-| 250 | 700 | Vincent Petrella |
+| 248 | 700 | Vincent Petrella |
+| 249 | 700 | Rosemadder |
+| 250 | 700 | Beverly Owens |
 | 251 | 698 | Mighty Shatterfit |
 | 252 | 697 | Dreamy Blast |
-| 253 | 692 | Jennifer Casey-Kay |
-| 254 | 692 | Dannette Goldberg-Richards |
-| 255 | 692 | Chelle |
+| 253 | 692 | Chelle |
+| 254 | 692 | Jennifer Casey-Kay |
+| 255 | 692 | Dannette Goldberg-Richards |
 | 256 | 690 | Deborah Miller |
 | 257 | 689 | Giggy Blocker |
 | 258 | 688 | Tiara Elizabeth Baker |
@@ -294,8 +294,8 @@
 | 286 | 647 | Ashle Scranton |
 | 287 | 644 | Andrew Willis |
 | 288 | 643 | Hoppy Brickmatch |
-| 289 | 641 | Joce Lynn |
-| 290 | 641 | Angie Bolton Workman |
+| 289 | 641 | Angie Bolton Workman |
+| 290 | 641 | Joce Lynn |
 | 291 | 640 | BYM4L |
 | 292 | 639 | Crystie Hicks |
 | 293 | 639 | Rebecca Miller |
@@ -305,8 +305,8 @@
 | 297 | 632 | Beth |
 | 298 | 631 | Marie Walker |
 | 299 | 629 | Sleepypanda67 |
-| 300 | 627 | Allan Wayne Lamia |
-| 301 | 627 | Victoria Moore-Smith |
+| 300 | 627 | Victoria Moore-Smith |
+| 301 | 627 | Allan Wayne Lamia |
 | 302 | 619 | Jánine Riggs |
 | 303 | 617 | Leslie Ann Carter |
 | 304 | 617 | tejas25 |
@@ -336,8 +336,8 @@
 | 328 | 562 | Ashley Lopez |
 | 329 | 561 | Traci Johnson |
 | 330 | 555 | Brittney Jean |
-| 331 | 554 | Santana Miyagi |
-| 332 | 554 | Rachael Senard |
+| 331 | 554 | Rachael Senard |
+| 332 | 554 | Santana Miyagi |
 | 333 | 549 | Kaylee McCafferty |
 | 334 | 549 | Darcy Mae |
 | 335 | 548 | Slip |
@@ -569,8 +569,8 @@
 | 561 | 365 | Audrey Jones |
 | 562 | 364 | Shinette Dobson |
 | 563 | 364 | Jasmine Kenney |
-| 564 | 363 | Kia Humphery |
-| 565 | 363 | Michelle Sager |
+| 564 | 363 | Michelle Sager |
+| 565 | 363 | Kia Humphery |
 | 566 | 362 | Tracy Wise |
 | 567 | 362 | Jennifer Scott |
 | 568 | 361 | Kimberly Ann |
