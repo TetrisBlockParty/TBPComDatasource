@@ -104,8 +104,8 @@
 | 96 | 519 | Nugget |
 | 97 | 513 | Erin Thomas |
 | 98 | 513 | YoMomma |
-| 99 | 512 | Diana Houts |
-| 100 | 512 | Casey Jeffcoat |
+| 99 | 512 | Casey Jeffcoat |
+| 100 | 512 | Diana Houts |
 | 101 | 510 | Scott Jameson |
 | 102 | 500 | Rodney McMath Jr. |
 | 103 | 499 | Trista Leah |
@@ -157,8 +157,8 @@
 | 149 | 339 | David Lay |
 | 150 | 336 | Klo |
 | 151 | 334 | Guy Incognito |
-| 152 | 333 | Twisty Cascadezone |
-| 153 | 333 | Peachy Fall |
+| 152 | 333 | Peachy Fall |
+| 153 | 333 | Twisty Cascadezone |
 | 154 | 332 | HastyGrabber |
 | 155 | 332 | Desi Desporte |
 | 156 | 332 | Leslie Nicole |
@@ -174,8 +174,8 @@
 | 166 | 312 | Rafael Valentin |
 | 167 | 311 | A5! |
 | 168 | 308 | Jeff Brian Gates |
-| 169 | 307 | Girl |
-| 170 | 307 | Bio Nelly |
+| 169 | 307 | Bio Nelly |
+| 170 | 307 | Girl |
 | 171 | 303 | shark tato |
 | 172 | 302 | Cursed Hag |
 | 173 | 301 | J-Rizzle |
@@ -194,11 +194,11 @@
 | 186 | 286 | Brittney Orengo |
 | 187 | 282 | Sue Joyce Staats |
 | 188 | 281 | Laura |
-| 189 | 277 | Mary Ann Pabukis |
-| 190 | 277 | Kim Klutz Olson |
+| 189 | 277 | Kim Klutz Olson |
+| 190 | 277 | Mary Ann Pabukis |
 | 191 | 276 | Joeliecea Cobb |
-| 192 | 272 | Dennis Bradley |
-| 193 | 272 | Alan George LaRage |
+| 192 | 272 | Alan George LaRage |
+| 193 | 272 | Dennis Bradley |
 | 194 | 271 | Sarah Brown |
 | 195 | 270 | Juls |
 | 196 | 269 | Nikki Rae Gordon |

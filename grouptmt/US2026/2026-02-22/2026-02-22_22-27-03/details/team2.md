@@ -314,12 +314,12 @@
 | 306 | 833 | Cody Nishimura |
 | 307 | 833 | Tim Dyer |
 | 308 | 824 | Chirpy Staggerpiece |
-| 309 | 821 | Diallo Sparkman |
-| 310 | 821 | Angie Bolton Workman |
+| 309 | 821 | Angie Bolton Workman |
+| 310 | 821 | Diallo Sparkman |
 | 311 | 818 | Lola Contreras |
 | 312 | 817 | Nett |
-| 313 | 816 | James Simms III |
-| 314 | 816 | Jessica Wayne Cornwall |
+| 313 | 816 | Jessica Wayne Cornwall |
+| 314 | 816 | James Simms III |
 | 315 | 810 | Andrea Maher |
 | 316 | 808 | Melissa McCall |
 | 317 | 808 | Desire Rice |
@@ -379,8 +379,8 @@
 | 371 | 708 | Jelly |
 | 372 | 706 | goofinoff |
 | 373 | 703 | Gold Rose |
-| 374 | 702 | Allan Wayne Lamia |
-| 375 | 702 | Kimberly Randesi |
+| 374 | 702 | Kimberly Randesi |
+| 375 | 702 | Allan Wayne Lamia |
 | 376 | 701 | Mama T |
 | 377 | 701 | Draizen Montrell Thomas |
 | 378 | 700 | Beverly Owens |
