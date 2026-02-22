@@ -86,8 +86,8 @@
 | 78 | 400 | Cynthia Bradley |
 | 79 | 390 | Candy Jones |
 | 80 | 389 | Trina Gee |
-| 81 | 388 | Jennifer ManWarren |
-| 82 | 388 | cc |
+| 81 | 388 | cc |
+| 82 | 388 | Jennifer ManWarren |
 | 83 | 383 | Loony Fitzone |
 | 84 | 382 | Jacqueline Williams |
 | 85 | 379 | Kimmie Kimms |
@@ -130,8 +130,8 @@
 | 122 | 287 | Chelsea Dahlquist |
 | 123 | 286 | Arianna O'Brien |
 | 124 | 285 | Ananda Mendez |
-| 125 | 284 | Emily Adelaide Wheatley |
-| 126 | 284 | Rachael |
+| 125 | 284 | Rachael |
+| 126 | 284 | Emily Adelaide Wheatley |
 | 127 | 283 | Franswa |
 | 128 | 282 | Timothy Dew |
 | 129 | 282 | Cool Shiftsnap |
@@ -208,8 +208,8 @@
 | 200 | 189 | Jeanna Dunn |
 | 201 | 187 | Amanda Johnson Huffman |
 | 202 | 187 | Cool Towerzone |
-| 203 | 186 | Margo Wagner |
-| 204 | 186 | Erin Hodges Plumb |
+| 203 | 186 | Erin Hodges Plumb |
+| 204 | 186 | Margo Wagner |
 | 205 | 183 | Andrew Boone |
 | 206 | 183 | Amy Hess |
 | 207 | 180 | BigWeenie69 |
@@ -342,7 +342,7 @@
 | 334 | 112 | Chris65 |
 | 335 | 112 | Glitzy Curvebuilder |
 | 336 | 111 | Damon J. Martin |
-| 337 | 110 | Jen |
+| 337 | 110 | Jennifer Corrado |
 | 338 | 110 | Jodee Woods |
 | 339 | 110 | Dandy Towerbuilder |
 | 340 | 110 | Jen |
@@ -362,9 +362,9 @@
 | 354 | 105 | Bye Love |
 | 355 | 105 | Eddie Dillon |
 | 356 | 104 | Jamie Catlett |
-| 357 | 104 | Serina Marie |
-| 358 | 104 | Charla Pross-Fugleberg |
-| 359 | 103 | Alex Gauthier |
+| 357 | 104 | Charla Pross-Fugleberg |
+| 358 | 104 | Serina Marie |
+| 359 | 103 | Tiger Lily |
 | 360 | 103 | Mariah Cornell |
 | 361 | 103 | Alex Gauthier |
 | 362 | 102 | Sarah Henniker |

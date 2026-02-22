@@ -61,8 +61,8 @@
 | 53 | 652 | Anthony Bryan Riva |
 | 54 | 647 | KM8 |
 | 55 | 646 | Jacqueline Helm |
-| 56 | 636 | Dustee Craddock-Harrison |
-| 57 | 636 | Kimyatta Cavin |
+| 56 | 636 | Kimyatta Cavin |
+| 57 | 636 | Dustee Craddock-Harrison |
 | 58 | 623 | Robin Getchel |
 | 59 | 599 | Brittney Griggs |
 | 60 | 593 | Lisa Davis |
@@ -133,8 +133,8 @@
 | 125 | 286 | shark tato |
 | 126 | 283 | Brittney Orengo |
 | 127 | 281 | Meagan Nicole |
-| 128 | 278 | Desi Desporte |
-| 129 | 278 | Carrie Brian |
+| 128 | 278 | Carrie Brian |
+| 129 | 278 | Desi Desporte |
 | 130 | 277 | Scott Jameson |
 | 131 | 277 | Mary Ann Pabukis |
 | 132 | 275 | Dizzy Tiley |
