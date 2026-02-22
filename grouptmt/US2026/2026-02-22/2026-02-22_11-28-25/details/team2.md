@@ -136,8 +136,8 @@
 | 128 | 1273 | Cool Rollpiece |
 | 129 | 1257 | Eileen Hale |
 | 130 | 1252 | Katrina Williams Balmir |
-| 131 | 1248 | Isabela Shaw |
-| 132 | 1248 | Howard Forest |
+| 131 | 1248 | Howard Forest |
+| 132 | 1248 | Isabela Shaw |
 | 133 | 1242 | Altamirano Michael |
 | 134 | 1232 | Groovy Puzzle |
 | 135 | 1226 | Vo'Landa Reels |
@@ -344,8 +344,8 @@
 | 336 | 613 | Breezy Filler |
 | 337 | 613 | Ellie Jonas |
 | 338 | 611 | Em Chen |
-| 339 | 611 | Carl Bradshaw |
-| 340 | 611 | Julio A Laracuente |
+| 339 | 611 | Julio A Laracuente |
+| 340 | 611 | Carl Bradshaw |
 | 341 | 605 | Jelly |
 | 342 | 603 | Cassie Maynard |
 | 343 | 602 | KhaosLord |
@@ -377,8 +377,8 @@
 | 369 | 558 | Libby Hicks |
 | 370 | 557 | Block Master |
 | 371 | 556 | Slip |
-| 372 | 554 | Santana Miyagi |
-| 373 | 554 | Rachael Senard |
+| 372 | 554 | Rachael Senard |
+| 373 | 554 | Santana Miyagi |
 | 374 | 554 | Autumn Schaeffer |
 | 375 | 552 | Michelle Fields |
 | 376 | 550 | Nashu |
@@ -405,8 +405,8 @@
 | 397 | 525 | Desiree Anderson |
 | 398 | 524 | Lonne Emade |
 | 399 | 523 | Matt Johnson |
-| 400 | 522 | Joseph Musick |
-| 401 | 522 | Lylymom |
+| 400 | 522 | Lylymom |
+| 401 | 522 | Joseph Musick |
 | 402 | 521 | Tj Ball |
 | 403 | 520 | Maddy Petersen |
 | 404 | 520 | Angela Lynn |
@@ -594,12 +594,12 @@
 | 586 | 389 | Kayla |
 | 587 | 389 | Julie Hamilton |
 | 588 | 388 | Christina Ashley |
-| 589 | 387 | Misti Markijohn |
-| 590 | 387 | Bold Brickster |
+| 589 | 387 | Bold Brickster |
+| 590 | 387 | Misti Markijohn |
 | 591 | 386 | Wuntayk |
 | 592 | 385 | Tansaria Couch-Butler |
-| 593 | 384 | Kelly |
-| 594 | 384 | Party d |
+| 593 | 384 | Party d |
+| 594 | 384 | Kelly |
 | 595 | 383 | Jessica Conaway |
 | 596 | 383 | Belle Mari |
 | 597 | 382 | David Holliday |
@@ -616,8 +616,8 @@
 | 608 | 376 | James Zaragoza |
 | 609 | 375 | Cecilia A Jenkins |
 | 610 | 375 | Lively Edgepiece |
-| 611 | 373 | Jessica Hughes |
-| 612 | 373 | Hunter Connors |
+| 611 | 373 | Hunter Connors |
+| 612 | 373 | Jessica Hughes |
 | 613 | 373 | Ashley Marie |
 | 614 | 372 | Ebony Deloach Bryant |
 | 615 | 371 | Brenda Messer |
@@ -806,8 +806,8 @@
 | 798 | 280 | Belle |
 | 799 | 280 | Luke Califf |
 | 800 | 279 | Laura Wyatt |
-| 801 | 279 | Jennifer Coe |
-| 802 | 279 | Loony Basepiece |
+| 801 | 279 | Loony Basepiece |
+| 802 | 279 | Jennifer Coe |
 | 803 | 279 | Katherin Camacho |
 | 804 | 278 | Timothy Jesuwole |
 | 805 | 278 | AndrewandShela Gornik |
@@ -1056,9 +1056,9 @@
 | 1048 | 218 | Shea Edison |
 | 1049 | 218 | Clever Dashgrid |
 | 1050 | 217 | Wedance Fong |
-| 1051 | 217 | Elizabeth Pearson |
-| 1052 | 217 | Erika Meaux |
-| 1053 | 217 | Kyane Johnson |
+| 1051 | 217 | Erika Meaux |
+| 1052 | 217 | Kyane Johnson |
+| 1053 | 217 | Elizabeth Pearson |
 | 1054 | 217 | Trisha Gallagher |
 | 1055 | 217 | Christine Lockwood |
 | 1056 | 216 | Anthony McAlister |

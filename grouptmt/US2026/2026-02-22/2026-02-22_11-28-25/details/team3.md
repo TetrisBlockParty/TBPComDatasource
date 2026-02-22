@@ -170,22 +170,22 @@
 | 162 | 389 | Jeni Dow |
 | 163 | 382 | Scott Carleton |
 | 164 | 380 | Tasha Schriewer |
-| 165 | 378 | Nicole Flippo |
-| 166 | 378 | Chris Bell |
+| 165 | 378 | Chris Bell |
+| 166 | 378 | Nicole Flippo |
 | 167 | 376 | Loopy Clusterer |
 | 168 | 374 | Sherry Ogden |
 | 169 | 371 | Michael Nowogorski |
-| 170 | 370 | Danielle Allison |
+| 170 | 370 | Logan Naccarato |
 | 171 | 370 | Santeria Trece Candles |
-| 172 | 370 | Logan Naccarato |
+| 172 | 370 | Danielle Allison |
 | 173 | 368 | Stephanie Woods |
 | 174 | 366 | Adrian Marcel Pate |
 | 175 | 362 | Darlene McMillan |
 | 176 | 361 | Jamie Lang |
 | 177 | 359 | Dapper Snap |
 | 178 | 358 | Chummy Caster |
-| 179 | 357 | Stephanie Burtin |
-| 180 | 357 | Tom Nault |
+| 179 | 357 | Tom Nault |
+| 180 | 357 | Stephanie Burtin |
 | 181 | 355 | Tessina Dewey-Mancino |
 | 182 | 355 | RickyG |
 | 183 | 353 | Shunta Jacobs |
@@ -242,8 +242,8 @@
 | 234 | 272 | Dee Franklin |
 | 235 | 271 | Cass Mendoza |
 | 236 | 271 | Ashley Muncey |
-| 237 | 269 | Trisha Balmer |
-| 238 | 269 | Eon Harris |
+| 237 | 269 | Eon Harris |
+| 238 | 269 | Trisha Balmer |
 | 239 | 267 | Terry Jo Jones |
 | 240 | 265 | Sarah Moyer |
 | 241 | 264 | Grego Daniel |
@@ -303,8 +303,8 @@
 | 295 | 210 | Lizabeth Fox |
 | 296 | 209 | Micayah Stevens |
 | 297 | 208 | AlsoJess |
-| 298 | 207 | Jessica |
-| 299 | 207 | Daring Builder |
+| 298 | 207 | Daring Builder |
+| 299 | 207 | Jessica |
 | 300 | 207 | angieelyn |
 | 301 | 206 | Stephanie Hill |
 | 302 | 206 | Tammy Rosenberry |
@@ -329,8 +329,8 @@
 | 321 | 192 | Kelly Ann Child |
 | 322 | 191 | Becca Engle |
 | 323 | 191 | Philip Rock |
-| 324 | 189 | Katie Leigh Blankenship |
-| 325 | 189 | France Vézina |
+| 324 | 189 | France Vézina |
+| 325 | 189 | Katie Leigh Blankenship |
 | 326 | 188 | Loopy Fallmatch |
 | 327 | 188 | Romeo |
 | 328 | 186 | Bryan Byrd |
@@ -384,8 +384,8 @@
 | 376 | 159 | Joshua David Huie |
 | 377 | 158 | Willow |
 | 378 | 158 | FATTY |
-| 379 | 157 | Angel Mendez |
-| 380 | 157 | Wetwet |
+| 379 | 157 | Wetwet |
+| 380 | 157 | Angel Mendez |
 | 381 | 157 | Miranda Taylor |
 | 382 | 157 | Katrina E Jelks |
 | 383 | 156 | Courtney Conboy |
@@ -416,8 +416,8 @@
 | 408 | 147 | David Bardo |
 | 409 | 147 | Erika Thornton |
 | 410 | 146 | Sdot |
-| 411 | 146 | Wettnippz |
-| 412 | 146 | ROODBOY |
+| 411 | 146 | ROODBOY |
+| 412 | 146 | Wettnippz |
 | 413 | 146 | Sara Dunn |
 | 414 | 144 | Tenisha Semidey |
 | 415 | 144 | Blair Erin Waite |
@@ -442,8 +442,8 @@
 | 434 | 138 | Skinny Baldez |
 | 435 | 137 | Giggly Brickroll |
 | 436 | 136 | Karen Picaboo |
-| 437 | 136 | Sabrina Mansfield |
-| 438 | 136 | Stephanie Zahm |
+| 437 | 136 | Stephanie Zahm |
+| 438 | 136 | Sabrina Mansfield |
 | 439 | 135 | Morgan Cudo |
 | 440 | 134 | Maia |
 | 441 | 134 | Tammy |

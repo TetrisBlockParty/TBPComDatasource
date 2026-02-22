@@ -89,9 +89,9 @@
 | 81 | 406 | Yvonne Marie |
 | 82 | 401 | cc |
 | 83 | 400 | Cynthia Bradley |
-| 84 | 390 | Candy Jones |
-| 85 | 390 | Lori Bales |
-| 86 | 390 | Goose egg |
+| 84 | 390 | Lori Bales |
+| 85 | 390 | Goose egg |
+| 86 | 390 | Candy Jones |
 | 87 | 389 | Trina Gee |
 | 88 | 388 | Jennifer ManWarren |
 | 89 | 383 | Loony Fitzone |
@@ -403,8 +403,8 @@
 | 395 | 100 | Billie Ann Eason |
 | 396 | 100 | Margie Olivas |
 | 397 | 99 | Brandy Ann |
-| 398 | 99 | Unelanuhi Belladonna Mystikal Bomar |
-| 399 | 99 | Speedy Liney |
+| 398 | 99 | Speedy Liney |
+| 399 | 99 | Unelanuhi Belladonna Mystikal Bomar |
 | 400 | 98 | Kirk Torrey |
 | 401 | 98 | Alfredo Vasquez |
 | 402 | 97 | Edgar Algiere |
@@ -466,9 +466,9 @@
 | 458 | 85 | Jolly Climber |
 | 459 | 85 | Kimberly Sharp-Bowen |
 | 460 | 85 | weezy |
-| 461 | 84 | Amber Nixon |
+| 461 | 84 | Christina Torres |
 | 462 | 84 | Jason Savage |
-| 463 | 84 | Christina Torres |
+| 463 | 84 | Amber Nixon |
 | 464 | 83 | FableGray |
 | 465 | 83 | Jeremy Maubert |
 | 466 | 83 | Ramona Shaver |

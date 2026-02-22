@@ -83,8 +83,8 @@
 | 75 | 512 | Casey Jeffcoat |
 | 76 | 511 | Michelle Marie |
 | 77 | 500 | Rodney McMath Jr. |
-| 78 | 486 | Carmethia Clemons Haslerig |
-| 79 | 486 | Landon Keith Graffeo |
+| 78 | 486 | Landon Keith Graffeo |
+| 79 | 486 | Carmethia Clemons Haslerig |
 | 80 | 485 | TeeJ |
 | 81 | 468 | Shane Kalamata Platoon |
 | 82 | 447 | Samantha Peterson |
@@ -128,8 +128,8 @@
 | 120 | 303 | Lauren Scott |
 | 121 | 300 | Jason Hart |
 | 122 | 298 | Lucas J Sutton |
-| 123 | 296 | HastyGrabber |
-| 124 | 296 | Justin Hannigan |
+| 123 | 296 | Justin Hannigan |
+| 124 | 296 | HastyGrabber |
 | 125 | 294 | Kesha Brady |
 | 126 | 290 | 🥔🥔 Spudz |
 | 127 | 287 | Shannon Ferrari |
@@ -137,8 +137,8 @@
 | 129 | 286 | Daria Rycewicz |
 | 130 | 283 | Brittney Orengo |
 | 131 | 281 | Meagan Nicole |
-| 132 | 278 | Desi Desporte |
-| 133 | 278 | Carrie Brian |
+| 132 | 278 | Carrie Brian |
+| 133 | 278 | Desi Desporte |
 | 134 | 277 | Scott Jameson |
 | 135 | 277 | Mary Ann Pabukis |
 | 136 | 275 | Dizzy Tiley |
@@ -165,8 +165,8 @@
 | 157 | 230 | Cursed Hag |
 | 158 | 230 | Autum Leigh |
 | 159 | 228 | J-Rizzle |
-| 160 | 227 | Alyssa Papen |
-| 161 | 227 | Swanky Fitline |
+| 160 | 227 | Swanky Fitline |
+| 161 | 227 | Alyssa Papen |
 | 162 | 225 | Damn Libra |
 | 163 | 224 | Matt Summer |
 | 164 | 223 | Kris Bartlett |
@@ -198,9 +198,9 @@
 | 190 | 196 | Mr. Party |
 | 191 | 196 | Lori |
 | 192 | 196 | Oscar Alberto Perez |
-| 193 | 195 | 中山成巳 |
+| 193 | 195 | Malakai Darien Fox |
 | 194 | 195 | ZeeZee |
-| 195 | 195 | Malakai Darien Fox |
+| 195 | 195 | 中山成巳 |
 | 196 | 194 | Zany Twisterfit |
 | 197 | 192 | Shauna Havard |
 | 198 | 191 | Sam Bishop |
