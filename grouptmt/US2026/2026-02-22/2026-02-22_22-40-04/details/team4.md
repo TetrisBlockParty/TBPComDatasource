@@ -123,8 +123,8 @@
 | 115 | 458 | Twisty Clicky |
 | 116 | 448 | Kristin Manee |
 | 117 | 435 | Leslie Thomas |
-| 118 | 431 | Jolly Dashfit |
-| 119 | 431 | Courtney Cicoria |
+| 118 | 431 | Courtney Cicoria |
+| 119 | 431 | Jolly Dashfit |
 | 120 | 429 | Ren Mc |
 | 121 | 427 | KJ Pool |
 | 122 | 418 | Dizzy Tiley |
@@ -140,8 +140,8 @@
 | 132 | 391 | Austin Owens |
 | 133 | 391 | Lush Linkfall |
 | 134 | 378 | Lucas J Sutton |
-| 135 | 377 | Jessica Bohlken |
-| 136 | 377 | Carrie Brian |
+| 135 | 377 | Carrie Brian |
+| 136 | 377 | Jessica Bohlken |
 | 137 | 376 | Kesha Brady |
 | 138 | 373 | Joseph Guthrie |
 | 139 | 371 | Jessica Lynn Cutlip |
@@ -152,8 +152,8 @@
 | 144 | 350 | Angela Srubar-Norman |
 | 145 | 348 | Silly Zonebuilder |
 | 146 | 347 | Daria Rycewicz |
-| 147 | 343 | ThaEviLJeNiuZ |
-| 148 | 343 | Latisha Davis |
+| 147 | 343 | Latisha Davis |
+| 148 | 343 | ThaEviLJeNiuZ |
 | 149 | 339 | David Lay |
 | 150 | 336 | Klo |
 | 151 | 334 | Guy Incognito |

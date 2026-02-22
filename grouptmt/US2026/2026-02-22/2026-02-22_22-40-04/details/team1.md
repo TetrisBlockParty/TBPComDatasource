@@ -101,8 +101,8 @@
 | 93 | 483 | Jennifer ManWarren |
 | 94 | 477 | Loony Fitzone |
 | 95 | 474 | cc |
-| 96 | 472 | April Carroll |
-| 97 | 472 | Kristen Gideon |
+| 96 | 472 | Kristen Gideon |
+| 97 | 472 | April Carroll |
 | 98 | 466 | Hasbro Bros |
 | 99 | 462 | Tdub |
 | 100 | 453 | Brandi Huntington |
@@ -322,8 +322,8 @@
 | 314 | 186 | Nikki Fridley |
 | 315 | 185 | Hasty Columnbuilder |
 | 316 | 185 | Oscar Zamora |
-| 317 | 184 | Itspaigebro |
-| 318 | 184 | Cranky Pattern |
+| 317 | 184 | Cranky Pattern |
+| 318 | 184 | Itspaigebro |
 | 319 | 183 | Dino |
 | 320 | 181 | David DeSantis |
 | 321 | 179 | Larry Tilton |

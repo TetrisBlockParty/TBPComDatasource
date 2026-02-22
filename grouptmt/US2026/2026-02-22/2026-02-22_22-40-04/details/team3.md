@@ -367,7 +367,7 @@
 | 359 | 231 | Kevin Russell |
 | 360 | 231 | Frothy Snapper |
 | 361 | 230 | BigE |
-| 362 | 229 | Juliana Dottore |
+| 362 | 229 | DanceLuvLaugh |
 | 363 | 229 | Everret Maxine |
 | 364 | 229 | Juliana Dottore |
 | 365 | 228 | Loopy Fallzone |
