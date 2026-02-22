@@ -42,8 +42,8 @@
 | 34 | 873 | Elizabeth Sallas |
 | 35 | 871 | Denny Shives |
 | 36 | 846 | Christine Marie |
-| 37 | 843 | Lucille Truesdale |
-| 38 | 843 | Shelly Chandler |
+| 37 | 843 | Shelly Chandler |
+| 38 | 843 | Lucille Truesdale |
 | 39 | 834 | quicksand420 |
 | 40 | 818 | Marvin Lou Martin |
 | 41 | 811 | Jae Job |
@@ -89,8 +89,8 @@
 | 81 | 512 | Casey Jeffcoat |
 | 82 | 500 | Rodney McMath Jr. |
 | 83 | 493 | Judy Cox |
-| 84 | 486 | Carmethia Clemons Haslerig |
-| 85 | 486 | Landon Keith Graffeo |
+| 84 | 486 | Landon Keith Graffeo |
+| 85 | 486 | Carmethia Clemons Haslerig |
 | 86 | 468 | Shane Kalamata Platoon |
 | 87 | 447 | Samantha Peterson |
 | 88 | 447 | Erin Thomas |
@@ -112,8 +112,8 @@
 | 104 | 395 | Marie-Pier Desjardins |
 | 105 | 393 | Carlton Unfiltered |
 | 106 | 392 | Ericca Eldridge |
-| 107 | 391 | Monica Daley |
-| 108 | 391 | Ramel Rhodes |
+| 107 | 391 | Ramel Rhodes |
+| 108 | 391 | Monica Daley |
 | 109 | 387 | Denise Carlson |
 | 110 | 377 | Lori Walker |
 | 111 | 373 | Joseph Guthrie |
@@ -144,8 +144,8 @@
 | 136 | 286 | shark tato |
 | 137 | 283 | Brittney Orengo |
 | 138 | 281 | Meagan Nicole |
-| 139 | 278 | Carrie Brian |
-| 140 | 278 | Leah Kutz Zirbel |
+| 139 | 278 | Leah Kutz Zirbel |
+| 140 | 278 | Carrie Brian |
 | 141 | 277 | Mary Ann Pabukis |
 | 142 | 275 | Dizzy Tiley |
 | 143 | 274 | Calvin Cannon |
@@ -454,9 +454,9 @@
 | 446 | 93 | Matt Gooder |
 | 447 | 93 | Nicole McMurray |
 | 448 | 92 | Krash |
-| 449 | 92 | RogueRebel |
+| 449 | 92 | bloat princess |
 | 450 | 92 | Frilly Blocky |
-| 451 | 92 | bloat princess |
+| 451 | 92 | RogueRebel |
 | 452 | 91 | Kametsunoyaiba |
 | 453 | 91 | Ryry |
 | 454 | 90 | tipsy tiger |

@@ -106,8 +106,8 @@
 | 98 | 591 | Jesse Olive |
 | 99 | 588 | yoyo |
 | 100 | 585 | Giddy Drop |
-| 101 | 582 | Jay Horn |
-| 102 | 582 | Natasha Jones |
+| 101 | 582 | Natasha Jones |
+| 102 | 582 | Jay Horn |
 | 103 | 581 | Danielle Mogg |
 | 104 | 579 | Jd Morris |
 | 105 | 568 | Rachael McClain Owens |
@@ -183,8 +183,8 @@
 | 175 | 374 | Sherry Ogden |
 | 176 | 372 | Giddy Twistbuilder |
 | 177 | 371 | Michael Nowogorski |
-| 178 | 370 | Santeria Trece Candles |
-| 179 | 370 | Danielle Allison |
+| 178 | 370 | Danielle Allison |
+| 179 | 370 | Santeria Trece Candles |
 | 180 | 368 | Stephanie Woods |
 | 181 | 366 | Adrian Marcel Pate |
 | 182 | 362 | Darlene McMillan |
@@ -192,8 +192,8 @@
 | 184 | 361 | Jamie Lang |
 | 185 | 358 | Chummy Caster |
 | 186 | 358 | RickyG |
-| 187 | 357 | Tom Nault |
-| 188 | 357 | Stephanie Burtin |
+| 187 | 357 | Stephanie Burtin |
+| 188 | 357 | Tom Nault |
 | 189 | 353 | Nora Rogers |
 | 190 | 351 | Sarah Cowan Burgos |
 | 191 | 348 | Chasity |
@@ -228,8 +228,8 @@
 | 220 | 296 | Katrina Turner |
 | 221 | 296 | Ammmmmmy |
 | 222 | 296 | Brandon Givens |
-| 223 | 289 | Duane Bright |
-| 224 | 289 | Hoppy Buildout |
+| 223 | 289 | Hoppy Buildout |
+| 224 | 289 | Duane Bright |
 | 225 | 289 | DidIdothat |
 | 226 | 287 | Trisha Balmer |
 | 227 | 286 | Cynthia Herrmann Egland |
@@ -253,11 +253,11 @@
 | 245 | 267 | Terry Jo Jones |
 | 246 | 264 | Tiffany Davie |
 | 247 | 262 | Joe-Maggie Mathews |
-| 248 | 261 | Tasha Wesson-Torrence |
-| 249 | 261 | Tiffany Ford |
+| 248 | 261 | Tiffany Ford |
+| 249 | 261 | Tasha Wesson-Torrence |
 | 250 | 261 | Marquita Sheard |
-| 251 | 260 | Grams |
-| 252 | 260 | Nikki Pags |
+| 251 | 260 | Nikki Pags |
+| 252 | 260 | Grams |
 | 253 | 259 | Danielle Weikel |
 | 254 | 257 | Ashley Jones |
 | 255 | 256 | KayB |

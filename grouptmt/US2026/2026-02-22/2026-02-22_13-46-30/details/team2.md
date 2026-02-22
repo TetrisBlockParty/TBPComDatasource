@@ -178,8 +178,8 @@
 | 170 | 1047 | Amy Sayers |
 | 171 | 1046 | Poppy Snap |
 | 172 | 1045 | Lourisha |
-| 173 | 1043 | Suki Kaur |
-| 174 | 1043 | Brave Dropmatch |
+| 173 | 1043 | Brave Dropmatch |
+| 174 | 1043 | Suki Kaur |
 | 175 | 1036 | Allison Lockyer |
 | 176 | 1035 | Sarah Freitas |
 | 177 | 1025 | Brandy Andre |
@@ -299,8 +299,8 @@
 | 291 | 710 | Kathryn Townsley |
 | 292 | 704 | Shelley Thornburgh Wright |
 | 293 | 703 | Gold Rose |
-| 294 | 700 | Hong Tang |
-| 295 | 700 | Vincent Petrella |
+| 294 | 700 | Vincent Petrella |
+| 295 | 700 | Hong Tang |
 | 296 | 700 | Beverly Owens |
 | 297 | 700 | Rosemadder |
 | 298 | 697 | Dreamy Blast |
@@ -338,8 +338,8 @@
 | 330 | 658 | Erica Williams |
 | 331 | 651 | Unica Rector |
 | 332 | 650 | Glitzy Stackzone |
-| 333 | 650 | tejas25 |
-| 334 | 650 | Shiny Rollzone |
+| 333 | 650 | Shiny Rollzone |
+| 334 | 650 | tejas25 |
 | 335 | 643 | Hoppy Brickmatch |
 | 336 | 641 | Angie Bolton Workman |
 | 337 | 640 | BYM4L |
@@ -645,8 +645,8 @@
 | 637 | 369 | Juan Castillo |
 | 638 | 367 | Connie Lepore-Mann |
 | 639 | 367 | Jessica Lamb |
-| 640 | 366 | Lawanda Forbes |
-| 641 | 366 | Courtney Burcham |
+| 640 | 366 | Courtney Burcham |
+| 641 | 366 | Lawanda Forbes |
 | 642 | 365 | Christina Lewis-Vickers |
 | 643 | 365 | Audrey Jones |
 | 644 | 365 | Susan Arnburg |
@@ -663,8 +663,8 @@
 | 655 | 361 | Michelle Shrum |
 | 656 | 360 | Jroc |
 | 657 | 359 | Cheyenne Donovan |
-| 658 | 358 | Sydney Busse |
-| 659 | 358 | Alyssaaelena |
+| 658 | 358 | Alyssaaelena |
+| 659 | 358 | Sydney Busse |
 | 660 | 357 | Shannon Byrd |
 | 661 | 357 | Tristan Szolek |
 | 662 | 356 | Kelsey Sullivan |
@@ -672,17 +672,17 @@
 | 664 | 354 | Rickey Johnson |
 | 665 | 354 | Rachel Kaminski |
 | 666 | 352 | Rose Fx |
-| 667 | 352 | Jean FU Jagielski |
-| 668 | 352 | ruth |
-| 669 | 350 | Chris Harr |
-| 670 | 350 | Fi Ne |
-| 671 | 350 | Maria Hammett |
-| 672 | 350 | Kyla Louise |
-| 673 | 348 | Peppy Snapfall |
+| 667 | 352 | ruth |
+| 668 | 352 | Jean FU Jagielski |
+| 669 | 350 | Fi Ne |
+| 670 | 350 | Maria Hammett |
+| 671 | 350 | Kyla Louise |
+| 672 | 350 | Chris Harr |
+| 673 | 348 | Kelly Meredeith |
 | 674 | 348 | Richard Horton |
-| 675 | 348 | Kelly Meredeith |
-| 676 | 347 | Zesty Pivot |
-| 677 | 347 | CC |
+| 675 | 348 | Peppy Snapfall |
+| 676 | 347 | CC |
+| 677 | 347 | Zesty Pivot |
 | 678 | 346 | Danielle Ayoub |
 | 679 | 345 | Rhianna DiLorenzo |
 | 680 | 345 | Gina Caulder |
