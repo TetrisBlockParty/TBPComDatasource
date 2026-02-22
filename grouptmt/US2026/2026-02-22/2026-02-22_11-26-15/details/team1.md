@@ -89,16 +89,16 @@
 | 81 | 406 | Yvonne Marie |
 | 82 | 401 | cc |
 | 83 | 400 | Cynthia Bradley |
-| 84 | 390 | Candy Jones |
-| 85 | 390 | Lori Bales |
-| 86 | 390 | Goose egg |
+| 84 | 390 | Lori Bales |
+| 85 | 390 | Goose egg |
+| 86 | 390 | Candy Jones |
 | 87 | 389 | Trina Gee |
 | 88 | 388 | Jennifer ManWarren |
 | 89 | 383 | Loony Fitzone |
 | 90 | 382 | Jacqueline Williams |
 | 91 | 379 | Nerdy Linkblock |
-| 92 | 379 | Kimmie Kimms |
-| 93 | 379 | Austin James |
+| 92 | 379 | Austin James |
+| 93 | 379 | Kimmie Kimms |
 | 94 | 376 | lil mickey |
 | 95 | 374 | Tinah Montanna |
 | 96 | 368 | Tdub |
@@ -123,8 +123,8 @@
 | 115 | 319 | Deanna L Hermanson |
 | 116 | 319 | Patrick Luckenbill |
 | 117 | 318 | Jessica Sheehan |
-| 118 | 316 | Jennifer Hardman |
-| 119 | 316 | Ly Phethmany |
+| 118 | 316 | Ly Phethmany |
+| 119 | 316 | Jennifer Hardman |
 | 120 | 313 | Tanya Carpenter-Reynolds |
 | 121 | 310 | Seth Wesson |
 | 122 | 310 | Jason Jones |
@@ -191,10 +191,10 @@
 | 183 | 210 | Letson Melissa |
 | 184 | 210 | Giggly Builderline |
 | 185 | 209 | Debbie Davis |
-| 186 | 208 | Bouncy Grid |
-| 187 | 208 | Donna Addison Williams |
-| 188 | 207 | Leslie Bush Yarbrough |
-| 189 | 207 | Brenda Alexander |
+| 186 | 208 | Donna Addison Williams |
+| 187 | 208 | Bouncy Grid |
+| 188 | 207 | Brenda Alexander |
+| 189 | 207 | Leslie Bush Yarbrough |
 | 190 | 206 | BadG52 |
 | 191 | 205 | Snappy Matcher |
 | 192 | 205 | Tater |
@@ -390,9 +390,9 @@
 | 382 | 104 | Serina Marie |
 | 383 | 103 | Alex Gauthier |
 | 384 | 103 | Mariah Cornell |
-| 385 | 102 | osodabear |
-| 386 | 102 | Sarah Henniker |
-| 387 | 102 | Marie White |
+| 385 | 102 | Sarah Henniker |
+| 386 | 102 | Marie White |
+| 387 | 102 | osodabear |
 | 388 | 102 | Twisty Wobbler |
 | 389 | 101 | Mizzledagod |
 | 390 | 101 | Liliana Pena |

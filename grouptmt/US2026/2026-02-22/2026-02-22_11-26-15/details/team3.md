@@ -63,8 +63,8 @@
 | 55 | 909 | Jennifer |
 | 56 | 908 | Alanna Rogers |
 | 57 | 903 | Sarah Fehring |
-| 58 | 895 | Amanda L Baker |
-| 59 | 895 | Shonna Roberts |
+| 58 | 895 | Shonna Roberts |
+| 59 | 895 | Amanda L Baker |
 | 60 | 886 | Khristen AC |
 | 61 | 882 | Susan Valentino |
 | 62 | 874 | Jessica Pineda-Lopez |
@@ -170,8 +170,8 @@
 | 162 | 389 | Jeni Dow |
 | 163 | 382 | Scott Carleton |
 | 164 | 380 | Tasha Schriewer |
-| 165 | 378 | Chris Bell |
-| 166 | 378 | Nicole Flippo |
+| 165 | 378 | Nicole Flippo |
+| 166 | 378 | Chris Bell |
 | 167 | 376 | Loopy Clusterer |
 | 168 | 374 | Sherry Ogden |
 | 169 | 371 | Michael Nowogorski |
@@ -218,14 +218,14 @@
 | 210 | 300 | Sherika C. McDaniels |
 | 211 | 298 | MsBee |
 | 212 | 297 | Jojo M |
-| 213 | 296 | Ammmmmmy |
-| 214 | 296 | Katrina Turner |
+| 213 | 296 | Katrina Turner |
+| 214 | 296 | Ammmmmmy |
 | 215 | 296 | Brandon Givens |
 | 216 | 295 | Marci Mize Fandrich |
 | 217 | 291 | Kristal C Lee |
 | 218 | 289 | DidIdothat |
-| 219 | 289 | Hoppy Buildout |
-| 220 | 289 | Duane Bright |
+| 219 | 289 | Duane Bright |
+| 220 | 289 | Hoppy Buildout |
 | 221 | 286 | Cynthia Herrmann Egland |
 | 222 | 284 | Denise Nardoni |
 | 223 | 283 | Charles Perrone |
@@ -303,8 +303,8 @@
 | 295 | 210 | Lizabeth Fox |
 | 296 | 209 | Micayah Stevens |
 | 297 | 208 | AlsoJess |
-| 298 | 207 | Daring Builder |
-| 299 | 207 | Jessica |
+| 298 | 207 | Jessica |
+| 299 | 207 | Daring Builder |
 | 300 | 207 | angieelyn |
 | 301 | 206 | Stephanie Hill |
 | 302 | 206 | Tammy Rosenberry |
@@ -362,8 +362,8 @@
 | 354 | 167 | Shicken Nuggit |
 | 355 | 167 | Irene Arreguin |
 | 356 | 166 | Noettín Kan Zasnemoore |
-| 357 | 166 | Snarky McFace |
-| 358 | 166 | Angella Lyons |
+| 357 | 166 | Angella Lyons |
+| 358 | 166 | Snarky McFace |
 | 359 | 165 | Kali Kelz Williams |
 | 360 | 165 | Ashley Lynn Marchese |
 | 361 | 165 | Rainbow77375 |
@@ -1587,7 +1587,7 @@
 | 1579 | 33 | MommaC |
 | 1580 | 33 | Timothy Troy Frazier |
 | 1581 | 32 | Twisty Slider |
-| 1582 | 32 | Ascended Jorts |
+| 1582 | 32 | Dreamy Dropper |
 | 1583 | 32 | Katelyn Dorman |
 | 1584 | 32 | Ascended Jorts |
 | 1585 | 32 | Anita Crutcher |

@@ -171,12 +171,12 @@
 | 163 | 224 | Matt Summer |
 | 164 | 223 | Kris Bartlett |
 | 165 | 223 | Antony Dwayne Beasley |
-| 166 | 221 | PurpleMoonMa |
-| 167 | 221 | Rheanda Weaskus |
+| 166 | 221 | Rheanda Weaskus |
+| 167 | 221 | PurpleMoonMa |
 | 168 | 220 | Matt Dell'Olio |
 | 169 | 218 | Casey Grabner |
-| 170 | 217 | Chaz Duncan |
-| 171 | 217 | Kim Hunt |
+| 170 | 217 | Kim Hunt |
+| 171 | 217 | Chaz Duncan |
 | 172 | 215 | Jessica Bohlken |
 | 173 | 215 | Ren Mc |
 | 174 | 213 | Jason Allen |
@@ -190,8 +190,8 @@
 | 182 | 204 | Carlos Ramirez |
 | 183 | 203 | Katherine Crane |
 | 184 | 202 | TRCuse |
-| 185 | 201 | Melvin Baird |
-| 186 | 201 | Chance Strickland |
+| 185 | 201 | Chance Strickland |
+| 186 | 201 | Melvin Baird |
 | 187 | 200 | Laura |
 | 188 | 198 | Keith Kelley |
 | 189 | 198 | Ruben Wheeler |

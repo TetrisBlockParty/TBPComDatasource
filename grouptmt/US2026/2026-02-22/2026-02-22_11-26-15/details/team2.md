@@ -175,8 +175,8 @@
 | 167 | 1048 | PsychKIRAtrist |
 | 168 | 1047 | Amy Sayers |
 | 169 | 1045 | Lourisha |
-| 170 | 1043 | Suki Kaur |
-| 171 | 1043 | Brave Dropmatch |
+| 170 | 1043 | Brave Dropmatch |
+| 171 | 1043 | Suki Kaur |
 | 172 | 1035 | Sarah Freitas |
 | 173 | 1024 | Bri Lynn |
 | 174 | 1023 | Brainy Smurf |
@@ -250,9 +250,9 @@
 | 242 | 800 | Danielle Johnson-Chandler |
 | 243 | 787 | Laura McCarthey |
 | 244 | 783 | Lisa Ongtowasruk |
-| 245 | 777 | Tesha Oldaker |
-| 246 | 777 | Jessicah Myers |
-| 247 | 777 | Barbra Miller |
+| 245 | 777 | Barbra Miller |
+| 246 | 777 | Tesha Oldaker |
+| 247 | 777 | Jessicah Myers |
 | 248 | 777 | Eric Carlson |
 | 249 | 772 | Cherica Taylor |
 | 250 | 772 | William Hunt |
@@ -405,11 +405,11 @@
 | 397 | 525 | Desiree Anderson |
 | 398 | 524 | Lonne Emade |
 | 399 | 523 | Matt Johnson |
-| 400 | 522 | Joseph Musick |
-| 401 | 522 | Lylymom |
+| 400 | 522 | Lylymom |
+| 401 | 522 | Joseph Musick |
 | 402 | 521 | Tj Ball |
-| 403 | 520 | Angela Lynn |
-| 404 | 520 | Maddy Petersen |
+| 403 | 520 | Maddy Petersen |
+| 404 | 520 | Angela Lynn |
 | 405 | 519 | Rob Brown |
 | 406 | 517 | Alex Dungo Hoang |
 | 407 | 517 | Amber Brion |
@@ -493,8 +493,8 @@
 | 485 | 456 | Melissa Rebbe-Lehman |
 | 486 | 455 | Morgan Easter |
 | 487 | 454 | Casey Schumacher |
-| 488 | 453 | Rhonda Petro |
-| 489 | 453 | Joshua Sommerville |
+| 488 | 453 | Joshua Sommerville |
+| 489 | 453 | Rhonda Petro |
 | 490 | 451 | Funky Caster |
 | 491 | 450 | Cheery Matchzone |
 | 492 | 447 | Jessica S Flecha |
@@ -579,8 +579,8 @@
 | 571 | 396 | Boogie SoAnimated Johnson |
 | 572 | 394 | Taryece Gause |
 | 573 | 393 | Alexandra Weir |
-| 574 | 393 | bbv |
-| 575 | 393 | Jamie West |
+| 574 | 393 | Jamie West |
+| 575 | 393 | bbv |
 | 576 | 393 | Deyawn Smith |
 | 577 | 391 | Chilly Bridgepiece |
 | 578 | 391 | Adam Simmons |
@@ -616,8 +616,8 @@
 | 608 | 376 | James Zaragoza |
 | 609 | 375 | Cecilia A Jenkins |
 | 610 | 375 | Lively Edgepiece |
-| 611 | 373 | Jessica Hughes |
-| 612 | 373 | Hunter Connors |
+| 611 | 373 | Hunter Connors |
+| 612 | 373 | Jessica Hughes |
 | 613 | 373 | Ashley Marie |
 | 614 | 372 | Ebony Deloach Bryant |
 | 615 | 371 | Brenda Messer |
@@ -921,8 +921,8 @@
 | 913 | 251 | Bold Clusterfit |
 | 914 | 251 | Regina Unruh |
 | 915 | 251 | Emoniee Sa'niaya |
-| 916 | 251 | Kimmie Zimmerman-Rocha |
-| 917 | 251 | Chipper Dashpiece |
+| 916 | 251 | Chipper Dashpiece |
+| 917 | 251 | Kimmie Zimmerman-Rocha |
 | 918 | 250 | Kay Stevenson |
 | 919 | 250 | Drew Berkelbach |
 | 920 | 249 | J.L. Roberts |
@@ -953,8 +953,8 @@
 | 945 | 242 | Groovy Tilefall |
 | 946 | 242 | Juan Killyoselfifudontlikeme Ronaldo |
 | 947 | 242 | Donna Chandler |
-| 948 | 241 | Emoney Sanchez |
-| 949 | 241 | Ronda Cary |
+| 948 | 241 | Ronda Cary |
+| 949 | 241 | Emoney Sanchez |
 | 950 | 241 | Travis Tinsley |
 | 951 | 240 | Renee Bowers |
 | 952 | 239 | Shilo Anderson |
@@ -984,9 +984,9 @@
 | 976 | 234 | Lonnie Brown |
 | 977 | 234 | Jannan Haimour |
 | 978 | 233 | Allison Hewitt |
-| 979 | 233 | Myleaha Holley |
+| 979 | 233 | Jessica Sutter |
 | 980 | 233 | Nerdy Riserfit |
-| 981 | 233 | Jessica Sutter |
+| 981 | 233 | Myleaha Holley |
 | 982 | 233 | Andrew Engman |
 | 983 | 232 | Chirpy Snapper |
 | 984 | 232 | P. D. Paige |
@@ -1042,8 +1042,8 @@
 | 1034 | 223 | Wacky Brickbuilder |
 | 1035 | 222 | Angel Moorhead |
 | 1036 | 222 | Lovely |
-| 1037 | 222 | Wacky Edgefit |
-| 1038 | 222 | Crystal Herndon |
+| 1037 | 222 | Crystal Herndon |
+| 1038 | 222 | Wacky Edgefit |
 | 1039 | 222 | Daring Lift |
 | 1040 | 220 | Amy Reynolds |
 | 1041 | 220 | Sandra McNab |
@@ -1056,7 +1056,7 @@
 | 1048 | 218 | Shea Edison |
 | 1049 | 218 | Clever Dashgrid |
 | 1050 | 217 | Wedance Fong |
-| 1051 | 217 | Erika Meaux |
+| 1051 | 217 | Elizabeth Pearson |
 | 1052 | 217 | Kyane Johnson |
 | 1053 | 217 | Trisha Gallagher |
 | 1054 | 217 | Erika Meaux |
@@ -1065,10 +1065,10 @@
 | 1057 | 216 | Monica Wilson |
 | 1058 | 215 | Stacy Harper |
 | 1059 | 215 | Facuetoo |
-| 1060 | 214 | Cass Shirley |
-| 1061 | 214 | FloJo |
-| 1062 | 214 | Dane Reing |
-| 1063 | 214 | Perk Diggler |
+| 1060 | 214 | FloJo |
+| 1061 | 214 | Perk Diggler |
+| 1062 | 214 | Cass Shirley |
+| 1063 | 214 | Dane Reing |
 | 1064 | 214 | Happy Puzzle |
 | 1065 | 214 | Michele Phelps |
 | 1066 | 214 | Brandon McDonald |
