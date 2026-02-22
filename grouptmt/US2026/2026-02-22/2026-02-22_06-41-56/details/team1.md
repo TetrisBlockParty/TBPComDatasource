@@ -135,8 +135,8 @@
 | 127 | 280 | Sarah Roberts |
 | 128 | 276 | Dandy Basegrid |
 | 129 | 265 | SkipTheSadSauce |
-| 130 | 264 | Jenny Gingrich Fuentes |
-| 131 | 264 | Lexuriuos Lifestlye |
+| 130 | 264 | Lexuriuos Lifestlye |
+| 131 | 264 | Jenny Gingrich Fuentes |
 | 132 | 263 | Sharon Reynolds |
 | 133 | 257 | Amanda Jarnagin |
 | 134 | 256 | David Miller |
@@ -172,17 +172,17 @@
 | 164 | 210 | Letson Melissa |
 | 165 | 210 | Giggly Builderline |
 | 166 | 208 | Bouncy Grid |
-| 167 | 207 | Brenda Alexander |
-| 168 | 207 | Leslie Bush Yarbrough |
+| 167 | 207 | Leslie Bush Yarbrough |
+| 168 | 207 | Brenda Alexander |
 | 169 | 206 | BadG52 |
 | 170 | 205 | Tater |
 | 171 | 204 | Lacy Wolfe |
-| 172 | 203 | Paula Martin |
-| 173 | 203 | LaFontaine Leslie |
+| 172 | 203 | LaFontaine Leslie |
+| 173 | 203 | Paula Martin |
 | 174 | 201 | Sam Williams |
 | 175 | 199 | Basment Living |
-| 176 | 198 | Happy Snapbuild |
-| 177 | 198 | Shiny Gridmatch |
+| 176 | 198 | Shiny Gridmatch |
+| 177 | 198 | Happy Snapbuild |
 | 178 | 195 | Shaykmia |
 | 179 | 194 | Christy Jones |
 | 180 | 194 | Donna Addison Williams |
@@ -204,7 +204,7 @@
 | 196 | 180 | BigWeenie69 |
 | 197 | 180 | Jessie Lynn |
 | 198 | 180 | Veronica Eve |
-| 199 | 180 | BigWeenie69 |
+| 199 | 180 | Erez Yosef |
 | 200 | 179 | femmefatale |
 | 201 | 179 | Danielle Little-Daugherty |
 | 202 | 178 | Chad Atchley |
@@ -232,8 +232,8 @@
 | 224 | 163 | Blaire Bruckoff |
 | 225 | 161 | SavageBooty98 |
 | 226 | 160 | Tedashi |
-| 227 | 158 | Alenoush Karimian |
-| 228 | 158 | Sarah Marie |
+| 227 | 158 | Sarah Marie |
+| 228 | 158 | Alenoush Karimian |
 | 229 | 155 | Barry Mac'Ockner |
 | 230 | 155 | Phu ckalldems |
 | 231 | 154 | Melissa Lemmon |
@@ -250,10 +250,10 @@
 | 242 | 147 | J.F. Fields |
 | 243 | 147 | Davery Spencer Adair |
 | 244 | 145 | Tipsy Riseclear |
-| 245 | 144 | Toph |
-| 246 | 144 | Fmp |
-| 247 | 144 | Gary Gobin |
-| 248 | 144 | Miguel Teixeira |
+| 245 | 144 | Fmp |
+| 246 | 144 | Gary Gobin |
+| 247 | 144 | Miguel Teixeira |
+| 248 | 144 | Toph |
 | 249 | 143 | Herm Junior |
 | 250 | 143 | Guest |
 | 251 | 142 | Colleen Wise |
@@ -282,7 +282,7 @@
 | 274 | 131 | Uhog SF |
 | 275 | 130 | Carl Claunch |
 | 276 | 130 | Howdi Duty |
-| 277 | 130 | Carl Claunch |
+| 277 | 130 | Gilbert Ortiz Jr. |
 | 278 | 129 | Sherri E Woods Hess |
 | 279 | 128 | Alyssa Ingram |
 | 280 | 128 | Chuck Gannon |
@@ -424,8 +424,8 @@
 | 416 | 85 | weezy |
 | 417 | 85 | Mariah Cornell |
 | 418 | 84 | Christina Torres |
-| 419 | 84 | Amber Nixon |
-| 420 | 84 | Jennifer Duttry |
+| 419 | 84 | Jennifer Duttry |
+| 420 | 84 | Amber Nixon |
 | 421 | 84 | Jason Savage |
 | 422 | 83 | FableGray |
 | 423 | 83 | Chris K |

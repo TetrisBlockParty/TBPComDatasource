@@ -445,8 +445,8 @@
 | 437 | 459 | Melissa Kay Gibson |
 | 438 | 458 | Casper The Chonk |
 | 439 | 454 | Casey Schumacher |
-| 440 | 453 | Joshua Sommerville |
-| 441 | 453 | Rhonda Petro |
+| 440 | 453 | Rhonda Petro |
+| 441 | 453 | Joshua Sommerville |
 | 442 | 451 | Funky Caster |
 | 443 | 451 | Cody Nishimura |
 | 444 | 451 | Dylan Thomason |
@@ -460,8 +460,8 @@
 | 452 | 440 | Sarah Berger |
 | 453 | 440 | Liberty |
 | 454 | 440 | Snippy Rumbler |
-| 455 | 437 | Arwa Fatimah |
-| 456 | 437 | Bubbly Snapfit |
+| 455 | 437 | Bubbly Snapfit |
+| 456 | 437 | Arwa Fatimah |
 | 457 | 435 | Regina Young |
 | 458 | 433 | KayLynn Ogden McClelland |
 | 459 | 432 | Lucy Marshall |

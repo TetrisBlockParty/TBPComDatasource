@@ -89,8 +89,8 @@
 | 81 | 405 | Shane Kalamata Platoon |
 | 82 | 404 | Courtney Cicoria |
 | 83 | 402 | Julian Garcia |
-| 84 | 396 | Amy Suckarieh |
-| 85 | 396 | Alicia Bass |
+| 84 | 396 | Alicia Bass |
+| 85 | 396 | Amy Suckarieh |
 | 86 | 392 | Ericca Eldridge |
 | 87 | 391 | Ramel Rhodes |
 | 88 | 390 | Carlton Unfiltered |
@@ -100,8 +100,8 @@
 | 92 | 370 | Leslie Thomas |
 | 93 | 369 | Nope Young |
 | 94 | 358 | Nugget |
-| 95 | 352 | Zippy Gridlock |
-| 96 | 352 | Monica Daley |
+| 95 | 352 | Monica Daley |
+| 96 | 352 | Zippy Gridlock |
 | 97 | 344 | Livvy |
 | 98 | 337 | Lori Walker |
 | 99 | 335 | Eric Mcgaughy |
@@ -152,8 +152,8 @@
 | 144 | 230 | Cursed Hag |
 | 145 | 228 | J-Rizzle |
 | 146 | 227 | Alyssa Papen |
-| 147 | 227 | Swanky Fitline |
-| 148 | 227 | Chris Bernstein |
+| 147 | 227 | Chris Bernstein |
+| 148 | 227 | Swanky Fitline |
 | 149 | 225 | Damn Libra |
 | 150 | 224 | Matt Summer |
 | 151 | 223 | Kris Bartlett |
@@ -165,8 +165,8 @@
 | 157 | 220 | Matt Dell'Olio |
 | 158 | 218 | Casey Grabner |
 | 159 | 217 | Chaz Duncan |
-| 160 | 215 | Ren Mc |
-| 161 | 215 | Jessica Bohlken |
+| 160 | 215 | Jessica Bohlken |
+| 161 | 215 | Ren Mc |
 | 162 | 214 | Twisty Cascadezone |
 | 163 | 213 | Jason Allen |
 | 164 | 213 | Sarah Neathery |
@@ -178,8 +178,8 @@
 | 170 | 204 | Jen Caldwell |
 | 171 | 203 | Katherine Crane |
 | 172 | 202 | TRCuse |
-| 173 | 201 | Melvin Baird |
-| 174 | 201 | Chance Strickland |
+| 173 | 201 | Chance Strickland |
+| 174 | 201 | Melvin Baird |
 | 175 | 198 | Jessica Lynn Cutlip |
 | 176 | 196 | Zethra Prenisha Rahming |
 | 177 | 196 | Oscar Alberto Perez |
@@ -193,8 +193,8 @@
 | 185 | 189 | Calvin Dennis |
 | 186 | 188 | Andria Lynn |
 | 187 | 186 | Holly |
-| 188 | 185 | Andy Cabral |
-| 189 | 185 | Lori |
+| 188 | 185 | Lori |
+| 189 | 185 | Andy Cabral |
 | 190 | 184 | Ak Jones |
 | 191 | 181 | Carter Jones |
 | 192 | 181 | Alan George LaRage |
@@ -227,11 +227,11 @@
 | 219 | 156 | John Brunetti |
 | 220 | 155 | AyeKay |
 | 221 | 154 | Brittany Marsh |
-| 222 | 153 | Zany Shatterer |
+| 222 | 153 | Mr. Party |
 | 223 | 153 | Empress Oasis |
-| 224 | 153 | Mr. Party |
-| 225 | 152 | Faja |
-| 226 | 152 | Austin Owens |
+| 224 | 153 | Zany Shatterer |
+| 225 | 152 | Austin Owens |
+| 226 | 152 | Faja |
 | 227 | 150 | Amelpss |
 | 228 | 149 | Shainne Brewer |
 | 229 | 149 | Tanner Lund |
@@ -240,8 +240,8 @@
 | 232 | 147 | B Renee Desjardin |
 | 233 | 147 | Jared Gutwein |
 | 234 | 147 | Jay28 |
-| 235 | 145 | Mimi |
-| 236 | 145 | Sandra Safford |
+| 235 | 145 | Sandra Safford |
+| 236 | 145 | Mimi |
 | 237 | 144 | Nubian1 |
 | 238 | 143 | Lauren Lamb |
 | 239 | 143 | Zesty Twistbuilder |
@@ -382,9 +382,9 @@
 | 374 | 97 | Rosemary Foster |
 | 375 | 96 | Rebecca Blake |
 | 376 | 96 | Sammy Noguera |
-| 377 | 95 | Jobadia Steelerton |
-| 378 | 95 | Tina Martinez |
-| 379 | 95 | Chirpy Slammer |
+| 377 | 95 | Tina Martinez |
+| 378 | 95 | Chirpy Slammer |
+| 379 | 95 | Jobadia Steelerton |
 | 380 | 94 | DonMega |
 | 381 | 93 | Matt Gooder |
 | 382 | 92 | Krash |
