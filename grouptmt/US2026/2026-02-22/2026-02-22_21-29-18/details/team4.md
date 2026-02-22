@@ -82,8 +82,8 @@
 | 74 | 647 | KM8 |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 626 | Brittney Griggs |
-| 77 | 617 | Jason Hart |
-| 78 | 617 | Savannah Overdorf |
+| 77 | 617 | Savannah Overdorf |
+| 78 | 617 | Jason Hart |
 | 79 | 614 | TheNeesh50 |
 | 80 | 597 | Eric Mcgaughy |
 | 81 | 594 | Jamie Mann-Deichmann |
@@ -254,9 +254,9 @@
 | 246 | 215 | Ziggy |
 | 247 | 215 | John Brunetti |
 | 248 | 214 | Stacey Stano |
-| 249 | 213 | Rio Rocha |
-| 250 | 213 | Sarah Neathery |
-| 251 | 213 | Angela Geist Jusinski |
+| 249 | 213 | Angela Geist Jusinski |
+| 250 | 213 | Rio Rocha |
+| 251 | 213 | Sarah Neathery |
 | 252 | 212 | Mike Solo |
 | 253 | 209 | Chaz |
 | 254 | 208 | Rebecca Morris |

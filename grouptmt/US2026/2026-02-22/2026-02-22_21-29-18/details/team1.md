@@ -91,8 +91,8 @@
 | 83 | 489 | Deanna L Hermanson |
 | 84 | 486 | Tater |
 | 85 | 485 | Cartier |
-| 86 | 483 | Ryan Lunnin |
-| 87 | 483 | MomMom |
+| 86 | 483 | MomMom |
+| 87 | 483 | Ryan Lunnin |
 | 88 | 472 | April Carroll |
 | 89 | 471 | Jennifer ManWarren |
 | 90 | 466 | Hasbro Bros |
@@ -306,8 +306,8 @@
 | 298 | 191 | J.F. Fields |
 | 299 | 191 | John Garza |
 | 300 | 190 | Sweetts |
-| 301 | 189 | Tawnya Peltonen |
-| 302 | 189 | Bird Person |
+| 301 | 189 | Bird Person |
+| 302 | 189 | Tawnya Peltonen |
 | 303 | 188 | Brave Wrecker |
 | 304 | 187 | GringaLinga |
 | 305 | 187 | Tipsy Riseclear |

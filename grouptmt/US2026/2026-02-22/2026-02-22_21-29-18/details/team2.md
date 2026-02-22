@@ -147,8 +147,8 @@
 | 139 | 1452 | Poppy Snapper |
 | 140 | 1450 | Cody Smith-Candelaria |
 | 141 | 1418 | L3sli3 |
-| 142 | 1411 | Zappy Cascade |
-| 143 | 1411 | niecy |
+| 142 | 1411 | niecy |
+| 143 | 1411 | Zappy Cascade |
 | 144 | 1401 | Brandy Andre |
 | 145 | 1397 | Bussyiano Page |
 | 146 | 1395 | Jose Mendoza |
@@ -173,8 +173,8 @@
 | 165 | 1265 | Isabela Shaw |
 | 166 | 1260 | Joshua Sommerville |
 | 167 | 1242 | Mischelle Clay |
-| 168 | 1232 | Groovy Puzzle |
-| 169 | 1232 | Ambyre Patterson |
+| 168 | 1232 | Ambyre Patterson |
+| 169 | 1232 | Groovy Puzzle |
 | 170 | 1230 | Megan Garrick |
 | 171 | 1224 | Liberty |
 | 172 | 1216 | Nancy Reid |
@@ -259,8 +259,8 @@
 | 251 | 933 | Cindy Sechler Taninecz |
 | 252 | 921 | Glitzy Stackzone |
 | 253 | 920 | Phil J. Grombliniak |
-| 254 | 919 | Isaac Trappiel IV |
-| 255 | 919 | Joshua Mandel |
+| 254 | 919 | Joshua Mandel |
+| 255 | 919 | Isaac Trappiel IV |
 | 256 | 916 | Butta |
 | 257 | 915 | Robin Kerby |
 | 258 | 915 | Kelly Trent |
@@ -280,8 +280,8 @@
 | 272 | 883 | nikki |
 | 273 | 880 | Sam Joe |
 | 274 | 878 | Missie Lawson Gebhardt |
-| 275 | 875 | Jamie Otero |
-| 276 | 875 | William Hunt |
+| 275 | 875 | William Hunt |
+| 276 | 875 | Jamie Otero |
 | 277 | 874 | Giggy Blocker |
 | 278 | 872 | Felicia Lynn |
 | 279 | 867 | Peppy Zone |
@@ -353,8 +353,8 @@
 | 345 | 737 | Ginger |
 | 346 | 737 | Jeremy Parodi |
 | 347 | 734 | Deborah Miller |
-| 348 | 729 | Cassie Mercer |
-| 349 | 729 | Aimee Campbell |
+| 348 | 729 | Aimee Campbell |
+| 349 | 729 | Cassie Mercer |
 | 350 | 729 | Stephanie Lumanlan |
 | 351 | 728 | Dylan Thomason |
 | 352 | 728 | Tom Riefer |
@@ -675,8 +675,8 @@
 | 667 | 417 | Alexx Anaya |
 | 668 | 414 | Daniel Amos |
 | 669 | 414 | John |
-| 670 | 413 | Ashley Robbins |
-| 671 | 413 | Kristen O'Neal |
+| 670 | 413 | Kristen O'Neal |
+| 671 | 413 | Ashley Robbins |
 | 672 | 413 | Moist_B-hole |
 | 673 | 412 | Lewis Sturgeon |
 | 674 | 412 | Jason H Baker |
@@ -684,8 +684,8 @@
 | 676 | 410 | Beth Decker |
 | 677 | 410 | Belle |
 | 678 | 409 | Alexis Richardson |
-| 679 | 408 | Boogie SoAnimated Johnson |
-| 680 | 408 | Qiana Sanders |
+| 679 | 408 | Qiana Sanders |
+| 680 | 408 | Boogie SoAnimated Johnson |
 | 681 | 407 | Tipsy Filler |
 | 682 | 406 | Erin StFrancis |
 | 683 | 406 | Courtney Burcham |

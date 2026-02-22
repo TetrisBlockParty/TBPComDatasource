@@ -72,8 +72,8 @@
 | 64 | 1027 | Gracie |
 | 65 | 1019 | Joey Banks |
 | 66 | 954 | Nate Burnside |
-| 67 | 926 | Angela M. Fletcher |
-| 68 | 926 | Judi Dobson |
+| 67 | 926 | Judi Dobson |
+| 68 | 926 | Angela M. Fletcher |
 | 69 | 924 | Shonna Roberts |
 | 70 | 919 | Jennifer |
 | 71 | 910 | Corie A. Brinson |
@@ -258,12 +258,12 @@
 | 250 | 320 | Or Reznitsky |
 | 251 | 317 | Kelly |
 | 252 | 312 | Charles Perrone |
-| 253 | 312 | LadyTorad |
-| 254 | 312 | Christian Werndl |
+| 253 | 312 | Christian Werndl |
+| 254 | 312 | LadyTorad |
 | 255 | 309 | Felicia Rocha |
 | 256 | 308 | Cynthia Herrmann Egland |
-| 257 | 307 | rnr junky |
-| 258 | 307 | Blocked |
+| 257 | 307 | Blocked |
+| 258 | 307 | rnr junky |
 | 259 | 304 | Katrina Turner |
 | 260 | 304 | Marquita Sheard |
 | 261 | 303 | Alexmac |
@@ -333,8 +333,8 @@
 | 325 | 246 | Erika Thornton |
 | 326 | 245 | Latoya Mayne |
 | 327 | 245 | Lizabeth Fox |
-| 328 | 244 | Quackers |
-| 329 | 244 | LaNette Morgan |
+| 328 | 244 | LaNette Morgan |
+| 329 | 244 | Quackers |
 | 330 | 243 | Josh Borquez |
 | 331 | 243 | Michael Kimbro |
 | 332 | 242 | Randy Clevenger |
