@@ -130,12 +130,12 @@
 | 122 | 373 | Joseph Guthrie |
 | 123 | 369 | Nope Young |
 | 124 | 356 | Serena Goodridge |
-| 125 | 353 | Livvy |
-| 126 | 353 | Tyler Terrific |
+| 125 | 353 | Tyler Terrific |
+| 126 | 353 | Livvy |
 | 127 | 344 | Lush Linkfall |
 | 128 | 343 | Latisha Davis |
-| 129 | 338 | Lucas J Sutton |
-| 130 | 338 | ThaEviLJeNiuZ |
+| 129 | 338 | ThaEviLJeNiuZ |
+| 130 | 338 | Lucas J Sutton |
 | 131 | 336 | Austin Owens |
 | 132 | 335 | Diana Houts |
 | 133 | 333 | Jessica Bohlken |
@@ -374,8 +374,8 @@
 | 366 | 136 | Jen Hallin |
 | 367 | 136 | Michelle Morris |
 | 368 | 135 | Joshua Guess |
-| 369 | 134 | Kristin MacDonald |
-| 370 | 134 | Hyper Builder |
+| 369 | 134 | Hyper Builder |
+| 370 | 134 | Kristin MacDonald |
 | 371 | 133 | Berklie Apedaile |
 | 372 | 133 | Jesus Garcia |
 | 373 | 132 | Meg |

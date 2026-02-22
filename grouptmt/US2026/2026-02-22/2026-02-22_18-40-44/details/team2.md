@@ -155,8 +155,8 @@
 | 147 | 1297 | Maegan Beaule |
 | 148 | 1296 | Kristin Ruest |
 | 149 | 1290 | Bussyiano Page |
-| 150 | 1286 | Eileen Hale |
-| 151 | 1286 | Altamirano Michael |
+| 150 | 1286 | Altamirano Michael |
+| 151 | 1286 | Eileen Hale |
 | 152 | 1282 | Ashley Rose Frederick |
 | 153 | 1282 | Tanya Parsons |
 | 154 | 1273 | Cool Rollpiece |
@@ -468,11 +468,11 @@
 | 460 | 540 | Melissa Kay Gibson |
 | 461 | 540 | Joshua Self |
 | 462 | 534 | Alexandra Weir |
-| 463 | 533 | Gauri Shrotriya |
-| 464 | 533 | Davetta Sanford |
+| 463 | 533 | Davetta Sanford |
+| 464 | 533 | Gauri Shrotriya |
 | 465 | 532 | Ann Matzkanin |
-| 466 | 531 | Briana Alexander |
-| 467 | 531 | Aishah Brice |
+| 466 | 531 | Aishah Brice |
+| 467 | 531 | Briana Alexander |
 | 468 | 529 | Victoria Regina Girolami |
 | 469 | 528 | Aimee Campbell |
 | 470 | 528 | Anita Rose Green |
@@ -777,13 +777,13 @@
 | 769 | 344 | Glenn Cobbins |
 | 770 | 344 | Mary Boss |
 | 771 | 343 | Sabrena Yeisley |
-| 772 | 343 | Snappy Shatterfit |
-| 773 | 343 | bru |
+| 772 | 343 | bru |
+| 773 | 343 | Snappy Shatterfit |
 | 774 | 342 | Danielle DeLozier Plesec |
 | 775 | 342 | Christy Green |
 | 776 | 341 | Robin L. Vial |
 | 777 | 340 | Kiorah Blaze |
-| 778 | 339 | NickyBrooks |
+| 778 | 339 | Patrick Fleming |
 | 779 | 339 | Maxwell Escalera |
 | 780 | 339 | NickyBrooks |
 | 781 | 339 | Tasia Stinson |
@@ -792,8 +792,8 @@
 | 784 | 337 | Tum |
 | 785 | 337 | Catherine Marsh Gruda |
 | 786 | 337 | Sassy Pattern |
-| 787 | 336 | Jennie Lee Huntley |
-| 788 | 336 | Crystal Cornelius |
+| 787 | 336 | Crystal Cornelius |
+| 788 | 336 | Jennie Lee Huntley |
 | 789 | 335 | Alexandrea |
 | 790 | 335 | Brooke Leigh Strube |
 | 791 | 335 | Luke Califf |

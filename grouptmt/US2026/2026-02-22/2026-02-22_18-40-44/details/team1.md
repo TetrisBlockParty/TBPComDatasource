@@ -85,8 +85,8 @@
 | 77 | 489 | Deanna L Hermanson |
 | 78 | 486 | Tater |
 | 79 | 485 | Cartier |
-| 80 | 483 | Ryan Lunnin |
-| 81 | 483 | MomMom |
+| 80 | 483 | MomMom |
+| 81 | 483 | Ryan Lunnin |
 | 82 | 480 | Nancy Green |
 | 83 | 472 | April Carroll |
 | 84 | 471 | Shalene Frederick Autrey |
@@ -94,8 +94,8 @@
 | 86 | 456 | Arianna O'Brien |
 | 87 | 453 | Brandi Huntington |
 | 88 | 448 | Loony Fitzone |
-| 89 | 444 | Hyper |
-| 90 | 444 | Lexuriuos Lifestlye |
+| 89 | 444 | Lexuriuos Lifestlye |
+| 90 | 444 | Hyper |
 | 91 | 443 | Steve Schneider |
 | 92 | 439 | Trina Gee |
 | 93 | 436 | Tonya Beasley |
@@ -154,10 +154,10 @@
 | 146 | 312 | Erin Hodges Plumb |
 | 147 | 310 | Kimberly Garcia |
 | 148 | 308 | Sharon Reynolds |
-| 149 | 306 | Happy Basegrid |
-| 150 | 306 | Bloknboy |
-| 151 | 304 | Constance Risner |
-| 152 | 304 | Nicole Roseberry Weber |
+| 149 | 306 | Bloknboy |
+| 150 | 306 | Happy Basegrid |
+| 151 | 304 | Nicole Roseberry Weber |
+| 152 | 304 | Constance Risner |
 | 153 | 303 | Chelsea Dahlquist |
 | 154 | 297 | Danielle Little-Daugherty |
 | 155 | 296 | Madison Wicks |
@@ -346,7 +346,7 @@
 | 338 | 158 | Melissa Bires Hussar |
 | 339 | 157 | Ruthie Mahoney Saunders-Browne |
 | 340 | 156 | Jason Benitez |
-| 341 | 156 | Ashley Adams |
+| 341 | 156 | Jessie |
 | 342 | 156 | Nerdy Curvebuilder |
 | 343 | 156 | Mark Smith |
 | 344 | 156 | Ashley Adams |

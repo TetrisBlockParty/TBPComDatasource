@@ -88,8 +88,8 @@
 | 80 | 828 | Jessica Ann |
 | 81 | 826 | Shane Wilson Jr. |
 | 82 | 824 | Shari Garber |
-| 83 | 811 | Jay Horn |
-| 84 | 811 | Sarajane Lokan |
+| 83 | 811 | Sarajane Lokan |
+| 84 | 811 | Jay Horn |
 | 85 | 807 | Snappy Glidepiece |
 | 86 | 800 | Lauren Girouard |
 | 87 | 784 | Nerdy Riseclear |
@@ -150,8 +150,8 @@
 | 142 | 491 | Chauntee Alfrey-Cardinale |
 | 143 | 488 | CeceGeGe |
 | 144 | 479 | Annie Marie |
-| 145 | 479 | Patti Skiles |
-| 146 | 479 | Poppy Splitter |
+| 145 | 479 | Poppy Splitter |
+| 146 | 479 | Patti Skiles |
 | 147 | 473 | mzcatzy |
 | 148 | 471 | Mendoza Lee Christy |
 | 149 | 469 | Adrian Marcel Pate |
@@ -205,8 +205,8 @@
 | 197 | 377 | rosy |
 | 198 | 376 | Loopy Clusterer |
 | 199 | 374 | Darlene McMillan |
-| 200 | 372 | Tom Nault |
-| 201 | 372 | Giddy Twistbuilder |
+| 200 | 372 | Giddy Twistbuilder |
+| 201 | 372 | Tom Nault |
 | 202 | 370 | Santeria Trece Candles |
 | 203 | 368 | Stephanie Woods |
 | 204 | 367 | Loopy Fallmatch |
@@ -362,8 +362,8 @@
 | 354 | 210 | Ashley Lynn Marchese |
 | 355 | 210 | Criss |
 | 356 | 210 | Saucy Buildout |
-| 357 | 209 | Daring Builder |
-| 358 | 209 | TotoCherue |
+| 357 | 209 | TotoCherue |
+| 358 | 209 | Daring Builder |
 | 359 | 208 | Karent524 |
 | 360 | 207 | angieelyn |
 | 361 | 207 | Kristian Thurman |
@@ -662,7 +662,7 @@
 | 654 | 115 | Jonathn Poindexter |
 | 655 | 114 | JM MJ |
 | 656 | 114 | Hyper Shuffler |
-| 657 | 114 | Misstery |
+| 657 | 114 | Marcey Peneaux |
 | 658 | 114 | Christy Quick |
 | 659 | 114 | Beth Smith |
 | 660 | 114 | Misstery |
