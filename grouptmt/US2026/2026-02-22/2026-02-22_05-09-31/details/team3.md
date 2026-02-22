@@ -48,8 +48,8 @@
 | 40 | 1036 | Ant Ant |
 | 41 | 1015 | Amber Jones |
 | 42 | 998 | Liv Whetson |
-| 43 | 989 | Joey Banks |
-| 44 | 989 | Kay |
+| 43 | 989 | Kay |
+| 44 | 989 | Joey Banks |
 | 45 | 968 | Stephanie Rice |
 | 46 | 956 | Gracie |
 | 47 | 935 | Snappy Fitzone |
@@ -111,8 +111,8 @@
 | 103 | 506 | Sashay Tapae Simpson |
 | 104 | 503 | Susan Valentino |
 | 105 | 502 | Justin Ritter |
-| 106 | 500 | Kristie |
-| 107 | 500 | Domo Washington |
+| 106 | 500 | Domo Washington |
+| 107 | 500 | Kristie |
 | 108 | 497 | Mykal Burton |
 | 109 | 492 | Daira Largen |
 | 110 | 491 | Chauntee Alfrey-Cardinale |
@@ -138,8 +138,8 @@
 | 130 | 407 | Joye Sims Binion |
 | 131 | 407 | Louise Stacy Sisson |
 | 132 | 405 | Michelle |
-| 133 | 403 | Christine Filson |
-| 134 | 403 | Scott Lindsay |
+| 133 | 403 | Scott Lindsay |
+| 134 | 403 | Christine Filson |
 | 135 | 402 | Shannon Matthew Byers |
 | 136 | 400 | Luciana Braganca Vieira |
 | 137 | 399 | Marcie Bressler |
@@ -148,8 +148,8 @@
 | 140 | 397 | Annie Déè |
 | 141 | 396 | Jd Morris |
 | 142 | 396 | Aaron Pitkin |
-| 143 | 392 | Tasha Gillespie |
-| 144 | 392 | Katie Knaus |
+| 143 | 392 | Katie Knaus |
+| 144 | 392 | Tasha Gillespie |
 | 145 | 391 | Calista Jo Dickson |
 | 146 | 390 | Hasty Cascadefit |
 | 147 | 389 | Jeni Dow |
@@ -165,8 +165,8 @@
 | 157 | 362 | Darlene McMillan |
 | 158 | 359 | Dapper Snap |
 | 159 | 355 | Tessina Dewey-Mancino |
-| 160 | 353 | CeceGeGe |
-| 161 | 353 | Shunta Jacobs |
+| 160 | 353 | Shunta Jacobs |
+| 161 | 353 | CeceGeGe |
 | 162 | 352 | Chris Bell |
 | 163 | 351 | Tom Nault |
 | 164 | 348 | Chasity |
@@ -208,8 +208,8 @@
 | 200 | 276 | _melisa223_ |
 | 201 | 276 | Crimson |
 | 202 | 274 | Tye Stovall |
-| 203 | 272 | opf |
-| 204 | 272 | Dee Franklin |
+| 203 | 272 | Dee Franklin |
+| 204 | 272 | opf |
 | 205 | 271 | Ashley Muncey |
 | 206 | 270 | Stephanie Burtin |
 | 207 | 267 | Terry Jo Jones |
@@ -233,14 +233,14 @@
 | 225 | 249 | Annie Marie |
 | 226 | 249 | JerseyJess |
 | 227 | 246 | Eon Harris |
-| 228 | 246 | Rochelle Hazelett |
-| 229 | 246 | Peppy Shifter |
+| 228 | 246 | Peppy Shifter |
+| 229 | 246 | Rochelle Hazelett |
 | 230 | 245 | Latoya Mayne |
 | 231 | 240 | Jimmie Clemons |
 | 232 | 236 | Jess Bissett |
 | 233 | 235 | LaNette Morgan |
-| 234 | 234 | Nikki Pags |
-| 235 | 234 | Grego Daniel |
+| 234 | 234 | Grego Daniel |
+| 235 | 234 | Nikki Pags |
 | 236 | 233 | Ray Lader |
 | 237 | 232 | Donna |
 | 238 | 228 | Brenda Schmid Wood |
