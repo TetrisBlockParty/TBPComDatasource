@@ -269,8 +269,8 @@
 | 261 | 583 | Steve Grotto |
 | 262 | 583 | Jessicah Myers |
 | 263 | 582 | Gary Stash |
-| 264 | 579 | Roy Salyer |
-| 265 | 579 | Juliana Marques Do Nascimento Gordy |
+| 264 | 579 | Juliana Marques Do Nascimento Gordy |
+| 265 | 579 | Roy Salyer |
 | 266 | 578 | Sally Dennis |
 | 267 | 576 | Ginger |
 | 268 | 572 | tejas25 |
@@ -380,8 +380,8 @@
 | 372 | 429 | Spunkysmom |
 | 373 | 429 | Cassie Mercer |
 | 374 | 428 | Rhonda Milstead |
-| 375 | 427 | Amanda Ferrell |
-| 376 | 427 | Destiny Cozier |
+| 375 | 427 | Destiny Cozier |
+| 376 | 427 | Amanda Ferrell |
 | 377 | 427 | Kori Beth Babb |
 | 378 | 425 | Skyler Morgan |
 | 379 | 423 | Sam |

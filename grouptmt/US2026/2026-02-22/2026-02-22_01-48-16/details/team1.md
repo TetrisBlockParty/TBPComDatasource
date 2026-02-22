@@ -85,13 +85,13 @@
 | 77 | 338 | Tipsy Strikerpiece |
 | 78 | 333 | Brandi Huntington |
 | 79 | 329 | Luciano Moreira |
-| 80 | 328 | Kellie |
-| 81 | 328 | Gracie |
+| 80 | 328 | Gracie |
+| 81 | 328 | Kellie |
 | 82 | 323 | Candy Jones |
 | 83 | 323 | Sweet Baker |
 | 84 | 321 | Maria C. Hernandez |
-| 85 | 319 | Shauna Loe |
-| 86 | 319 | Deanna L Hermanson |
+| 85 | 319 | Deanna L Hermanson |
+| 86 | 319 | Shauna Loe |
 | 87 | 311 | Tanya Carpenter-Reynolds |
 | 88 | 310 | Seth Wesson |
 | 89 | 305 | Patrick Luckenbill |
@@ -122,8 +122,8 @@
 | 114 | 251 | Jason Jones |
 | 115 | 249 | Elaine Elaine |
 | 116 | 244 | Franswa |
-| 117 | 243 | Chelsea Dahlquist |
-| 118 | 243 | Trippy Redd |
+| 117 | 243 | Trippy Redd |
+| 118 | 243 | Chelsea Dahlquist |
 | 119 | 241 | John J. Cronin |
 | 120 | 240 | Tana |
 | 121 | 236 | Mandyy Rae |
@@ -142,9 +142,9 @@
 | 134 | 203 | GATOR |
 | 135 | 203 | Paula Martin |
 | 136 | 199 | Jennifer Hardman |
-| 137 | 198 | Shiny Gridmatch |
+| 137 | 198 | Happy Snapbuild |
 | 138 | 198 | Greg Hart |
-| 139 | 198 | Happy Snapbuild |
+| 139 | 198 | Shiny Gridmatch |
 | 140 | 196 | Katie Daniels |
 | 141 | 195 | Daring Fitclear |
 | 142 | 194 | Tyler Werts |

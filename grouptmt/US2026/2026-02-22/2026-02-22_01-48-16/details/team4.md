@@ -45,8 +45,8 @@
 | 37 | 632 | Kimyatta Cavin |
 | 38 | 630 | Dustee Craddock-Harrison |
 | 39 | 608 | Denny Shives |
-| 40 | 603 | Chilly Line |
-| 41 | 603 | LisaJo Picken Buchanan |
+| 40 | 603 | LisaJo Picken Buchanan |
+| 41 | 603 | Chilly Line |
 | 42 | 594 | Ancient Intuition |
 | 43 | 590 | Valerie Roberts |
 | 44 | 555 | Clarence Patawaran |
