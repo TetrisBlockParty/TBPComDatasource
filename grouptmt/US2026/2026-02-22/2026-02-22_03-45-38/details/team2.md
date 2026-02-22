@@ -140,8 +140,8 @@
 | 132 | 1051 | Shandrica Lowe |
 | 133 | 1048 | PsychKIRAtrist |
 | 134 | 1047 | Amy Sayers |
-| 135 | 1043 | Suki Kaur |
-| 136 | 1043 | Brave Dropmatch |
+| 135 | 1043 | Brave Dropmatch |
+| 136 | 1043 | Suki Kaur |
 | 137 | 1032 | Sarah Freitas |
 | 138 | 1020 | Heather Westrum |
 | 139 | 1018 | LordZophar |
@@ -209,8 +209,8 @@
 | 201 | 787 | Laura McCarthey |
 | 202 | 783 | Dineisha Carpenter |
 | 203 | 783 | Shuany Arias |
-| 204 | 777 | Barbra Miller |
-| 205 | 777 | Tesha Oldaker |
+| 204 | 777 | Tesha Oldaker |
+| 205 | 777 | Barbra Miller |
 | 206 | 771 | Terri McKelvey McKinley |
 | 207 | 765 | Jodi Blake |
 | 208 | 763 | Samantha Jo |
@@ -248,8 +248,8 @@
 | 240 | 678 | Scott Treadway |
 | 241 | 677 | Mema |
 | 242 | 676 | Pacynthia Williams |
-| 243 | 675 | Brenda Utphall |
-| 244 | 675 | Tommy Tha Boss Gunz |
+| 243 | 675 | Tommy Tha Boss Gunz |
+| 244 | 675 | Brenda Utphall |
 | 245 | 674 | Auntie B |
 | 246 | 672 | Danielle Simmons |
 | 247 | 669 | Claire Noland |
@@ -315,8 +315,8 @@
 | 307 | 535 | Jessie McDougald |
 | 308 | 531 | Chris Wanner |
 | 309 | 528 | Brownie Sheena |
-| 310 | 527 | Ryan Gunther |
-| 311 | 527 | Heather Causey |
+| 310 | 527 | Heather Causey |
+| 311 | 527 | Ryan Gunther |
 | 312 | 526 | Sheronda Jackson |
 | 313 | 525 | Desiree Anderson |
 | 314 | 522 | Julio A Laracuente |
@@ -330,8 +330,8 @@
 | 322 | 518 | Traci Johnson |
 | 323 | 517 | Porsche' Nicole |
 | 324 | 516 | Diamond Scott |
-| 325 | 515 | Matt Johnson |
-| 326 | 515 | Laquetta Royston |
+| 325 | 515 | Laquetta Royston |
+| 326 | 515 | Matt Johnson |
 | 327 | 514 | Dizzy Zone |
 | 328 | 512 | Julie Kresal |
 | 329 | 511 | Laura Mclean |

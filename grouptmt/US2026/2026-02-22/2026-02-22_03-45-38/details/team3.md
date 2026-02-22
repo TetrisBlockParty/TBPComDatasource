@@ -71,8 +71,8 @@
 | 63 | 713 | Jessica Bechler |
 | 64 | 704 | Suzieq |
 | 65 | 682 | Patricia Gadsden |
-| 66 | 656 | Elaine Webb Graves |
-| 67 | 656 | Ebony West-Cundiff |
+| 66 | 656 | Ebony West-Cundiff |
+| 67 | 656 | Elaine Webb Graves |
 | 68 | 649 | MissTaylor |
 | 69 | 628 | Tiff Vs Tiffany |
 | 70 | 621 | Cherry Parker |
@@ -120,12 +120,12 @@
 | 112 | 445 | Kristie McFarland |
 | 113 | 438 | Bea Miles |
 | 114 | 432 | Jenny Hrndz |
-| 115 | 428 | Betty Ivy |
-| 116 | 428 | Elissa S-k |
+| 115 | 428 | Elissa S-k |
+| 116 | 428 | Betty Ivy |
 | 117 | 416 | Mary Pellegrino |
 | 118 | 411 | FuzzyNavel |
-| 119 | 410 | Stephanie Simpson |
-| 120 | 410 | Stephanie Blkpep Davidson |
+| 119 | 410 | Stephanie Blkpep Davidson |
+| 120 | 410 | Stephanie Simpson |
 | 121 | 409 | Karon Griffin |
 | 122 | 405 | Michelle |
 | 123 | 403 | Christine Filson |
@@ -300,10 +300,10 @@
 | 292 | 167 | Romeo |
 | 293 | 167 | fraulila |
 | 294 | 166 | April Matthew Kibble |
-| 295 | 165 | Kali Kelz Williams |
-| 296 | 165 | Irene Arreguin |
-| 297 | 163 | Diana Ibarra |
-| 298 | 163 | Christine Trester |
+| 295 | 165 | Irene Arreguin |
+| 296 | 165 | Kali Kelz Williams |
+| 297 | 163 | Christine Trester |
+| 298 | 163 | Diana Ibarra |
 | 299 | 163 | Stephanie Hill |
 | 300 | 162 | Loopy Fallzone |
 | 301 | 162 | Stephanie Whitefield |
@@ -328,8 +328,8 @@
 | 320 | 153 | Wetwet |
 | 321 | 153 | Steffi Chris Dacones |
 | 322 | 152 | LaTanya GeminiondaRise Johnson |
-| 323 | 152 | Ashley Lynn Marchese |
-| 324 | 152 | Shiny Zonebuilder |
+| 323 | 152 | Shiny Zonebuilder |
+| 324 | 152 | Ashley Lynn Marchese |
 | 325 | 152 | Goofy Fall |
 | 326 | 151 | Rainbow77375 |
 | 327 | 151 | El Chapa |
@@ -370,7 +370,7 @@
 | 362 | 133 | Crystal Hine |
 | 363 | 133 | Jen Lewis |
 | 364 | 132 | Hanna Kim |
-| 365 | 131 | Danielle Weikel |
+| 365 | 131 | Cheeky Snapper |
 | 366 | 131 | Cheeky Setter |
 | 367 | 131 | Beppy |
 | 368 | 131 | Danielle Weikel |

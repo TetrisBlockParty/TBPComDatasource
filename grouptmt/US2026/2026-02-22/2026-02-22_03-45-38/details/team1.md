@@ -89,8 +89,8 @@
 | 81 | 362 | Plucky Ziggy |
 | 82 | 361 | Trina Gee |
 | 83 | 359 | Nerdy Linkblock |
-| 84 | 347 | june october |
-| 85 | 347 | pjbeta |
+| 84 | 347 | pjbeta |
+| 85 | 347 | june october |
 | 86 | 345 | Dee Perry |
 | 87 | 338 | Tipsy Strikerpiece |
 | 88 | 337 | Hyper |
@@ -141,8 +141,8 @@
 | 133 | 226 | Kandae |
 | 134 | 226 | ALFD |
 | 135 | 217 | ParisandCory Champagne |
-| 136 | 216 | MRdot Rooski |
-| 137 | 216 | Shauntina Burke |
+| 136 | 216 | Shauntina Burke |
+| 137 | 216 | MRdot Rooski |
 | 138 | 214 | GATOR |
 | 139 | 212 | Jaimie Lynn |
 | 140 | 212 | Lori Bales |

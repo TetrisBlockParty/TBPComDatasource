@@ -144,13 +144,13 @@
 | 136 | 218 | Antony Dwayne Beasley |
 | 137 | 218 | Casey Grabner |
 | 138 | 217 | Chaz Duncan |
-| 139 | 215 | Jessica Bohlken |
-| 140 | 215 | Ren Mc |
+| 139 | 215 | Ren Mc |
+| 140 | 215 | Jessica Bohlken |
 | 141 | 213 | Jason Allen |
 | 142 | 212 | Calvin Cannon |
 | 143 | 212 | Mike Solo |
-| 144 | 211 | Twisty Cascadezone |
-| 145 | 211 | Jenna McGeorge |
+| 144 | 211 | Jenna McGeorge |
+| 145 | 211 | Twisty Cascadezone |
 | 146 | 210 | Swanky Fitline |
 | 147 | 205 | Tyler Terrific |
 | 148 | 205 | Kathy Brookins |
@@ -197,8 +197,8 @@
 | 189 | 154 | Laura Hosford |
 | 190 | 154 | scott |
 | 191 | 153 | Empress Oasis |
-| 192 | 152 | John Brunetti |
-| 193 | 152 | Austin Owens |
+| 192 | 152 | Austin Owens |
+| 193 | 152 | John Brunetti |
 | 194 | 151 | Bethany Ison |
 | 195 | 150 | Rio Rocha |
 | 196 | 149 | Megan Cutshaw |
@@ -262,8 +262,8 @@
 | 254 | 125 | KimoKoala |
 | 255 | 125 | Daresha Fair |
 | 256 | 124 | Sam Middleton |
-| 257 | 123 | Joseph Edmonson |
-| 258 | 123 | Sandra Safford |
+| 257 | 123 | Sandra Safford |
+| 258 | 123 | Joseph Edmonson |
 | 259 | 121 | Joseph Pace |
 | 260 | 120 | Paige Kittles |
 | 261 | 120 | Porkobello |
