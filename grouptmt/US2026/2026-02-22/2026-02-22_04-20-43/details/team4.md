@@ -49,11 +49,11 @@
 | 41 | 646 | Jacqueline Helm |
 | 42 | 634 | Anthony Bryan Riva |
 | 43 | 632 | Kimyatta Cavin |
-| 44 | 630 | Chilly Line |
-| 45 | 630 | Dustee Craddock-Harrison |
+| 44 | 630 | Dustee Craddock-Harrison |
+| 45 | 630 | Chilly Line |
 | 46 | 627 | Jonathan Kimbrough |
-| 47 | 614 | KM8 |
-| 48 | 614 | Robin Getchel |
+| 47 | 614 | Robin Getchel |
+| 48 | 614 | KM8 |
 | 49 | 608 | Denny Shives |
 | 50 | 603 | LisaJo Picken Buchanan |
 | 51 | 599 | Brittney Griggs |
@@ -145,8 +145,8 @@
 | 137 | 220 | Matt Dell'Olio |
 | 138 | 218 | Casey Grabner |
 | 139 | 217 | Chaz Duncan |
-| 140 | 215 | Jessica Bohlken |
-| 141 | 215 | Ren Mc |
+| 140 | 215 | Ren Mc |
+| 141 | 215 | Jessica Bohlken |
 | 142 | 213 | Tyler Terrific |
 | 143 | 213 | Jason Allen |
 | 144 | 212 | Mike Solo |
@@ -185,8 +185,8 @@
 | 177 | 174 | Dihcheese444 |
 | 178 | 173 | ThaEviLJeNiuZ |
 | 179 | 168 | TinyLegoRose |
-| 180 | 166 | SammieJo Guy |
-| 181 | 166 | Cozy Balancer |
+| 180 | 166 | Cozy Balancer |
+| 181 | 166 | SammieJo Guy |
 | 182 | 164 | 030Synner |
 | 183 | 162 | Joanna |
 | 184 | 160 | ZeeZee |

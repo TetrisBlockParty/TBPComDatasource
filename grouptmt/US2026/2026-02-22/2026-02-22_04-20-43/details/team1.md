@@ -70,8 +70,8 @@
 | 62 | 444 | Evie Khalil |
 | 63 | 434 | MomMom |
 | 64 | 430 | Nancy Green |
-| 65 | 428 | Kellie |
-| 66 | 428 | Stephanie Zahn |
+| 65 | 428 | Stephanie Zahn |
+| 66 | 428 | Kellie |
 | 67 | 413 | Steve Schneider |
 | 68 | 412 | Anaid Sanchez |
 | 69 | 412 | Jazzy Framezone |
@@ -90,8 +90,8 @@
 | 82 | 361 | Trina Gee |
 | 83 | 359 | Nerdy Linkblock |
 | 84 | 353 | Hyper |
-| 85 | 347 | pjbeta |
-| 86 | 347 | june october |
+| 85 | 347 | june october |
+| 86 | 347 | pjbeta |
 | 87 | 345 | Dee Perry |
 | 88 | 338 | Tipsy Strikerpiece |
 | 89 | 333 | Brandi Huntington |
@@ -106,8 +106,8 @@
 | 98 | 319 | Deanna L Hermanson |
 | 99 | 313 | Tanya Carpenter-Reynolds |
 | 100 | 310 | Seth Wesson |
-| 101 | 304 | Nicole Roseberry Weber |
-| 102 | 304 | Katie Daniels |
+| 101 | 304 | Katie Daniels |
+| 102 | 304 | Nicole Roseberry Weber |
 | 103 | 301 | Lehrin Maria |
 | 104 | 294 | Theo Pinnow |
 | 105 | 292 | Kristen Gideon |
@@ -147,8 +147,8 @@
 | 139 | 216 | Shauntina Burke |
 | 140 | 216 | MRdot Rooski |
 | 141 | 214 | GATOR |
-| 142 | 212 | Jaimie Lynn |
-| 143 | 212 | Lori Bales |
+| 142 | 212 | Lori Bales |
+| 143 | 212 | Jaimie Lynn |
 | 144 | 211 | Marianita Garcia |
 | 145 | 210 | Giggly Builderline |
 | 146 | 208 | Bouncy Grid |
@@ -270,8 +270,8 @@
 | 262 | 124 | Madison Wicks |
 | 263 | 123 | Zany Tiler |
 | 264 | 122 | Nate Funk |
-| 265 | 121 | Jacob Shaddock |
-| 266 | 121 | Jamie Jury |
+| 265 | 121 | Jamie Jury |
+| 266 | 121 | Jacob Shaddock |
 | 267 | 120 | DoodleBug |
 | 268 | 119 | Chuck Gannon |
 | 269 | 119 | Tater |

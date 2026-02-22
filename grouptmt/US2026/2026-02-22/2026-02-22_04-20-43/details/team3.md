@@ -47,8 +47,8 @@
 | 39 | 1015 | Amber Jones |
 | 40 | 1012 | Danielle Cutler |
 | 41 | 998 | Liv Whetson |
-| 42 | 989 | Joey Banks |
-| 43 | 989 | Kay |
+| 42 | 989 | Kay |
+| 43 | 989 | Joey Banks |
 | 44 | 968 | Stephanie Rice |
 | 45 | 935 | Snappy Fitzone |
 | 46 | 931 | Fancy Slam |
@@ -204,15 +204,15 @@
 | 196 | 272 | Dee Franklin |
 | 197 | 272 | opf |
 | 198 | 271 | Ashley Muncey |
-| 199 | 267 | Denise Nardoni |
-| 200 | 267 | Terry Jo Jones |
+| 199 | 267 | Terry Jo Jones |
+| 200 | 267 | Denise Nardoni |
 | 201 | 265 | Sarah Moyer |
 | 202 | 265 | Scott Carleton |
 | 203 | 263 | Angeline Joseph |
 | 204 | 262 | Joe-Maggie Mathews |
 | 205 | 261 | Brittany |
-| 206 | 261 | Marquita Sheard |
-| 207 | 261 | Tiffany Ford |
+| 206 | 261 | Tiffany Ford |
+| 207 | 261 | Marquita Sheard |
 | 208 | 260 | Grams |
 | 209 | 258 | Tamara Deherrera |
 | 210 | 257 | Ashley Jones |
@@ -291,8 +291,8 @@
 | 283 | 179 | Tipsy Zonebuilder |
 | 284 | 178 | Jess Dearborn |
 | 285 | 176 | Beth Ingham |
-| 286 | 176 | Melissa Orth Hunter |
-| 287 | 176 | Jennifer Alvey |
+| 286 | 176 | Jennifer Alvey |
+| 287 | 176 | Melissa Orth Hunter |
 | 288 | 175 | Eileen Brady Thurber |
 | 289 | 174 | Betty Rosas |
 | 290 | 174 | fraulila |
@@ -354,7 +354,7 @@
 | 346 | 144 | Trice Thomas |
 | 347 | 144 | Tenisha Semidey |
 | 348 | 142 | Gray Hicks |
-| 349 | 142 | Michael Leblanc |
+| 349 | 142 | Erica Anderson |
 | 350 | 142 | Jl |
 | 351 | 142 | Joy Petroski |
 | 352 | 142 | Michael Leblanc |

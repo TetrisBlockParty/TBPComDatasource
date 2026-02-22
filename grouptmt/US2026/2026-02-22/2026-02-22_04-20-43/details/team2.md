@@ -375,8 +375,8 @@
 | 367 | 481 | Klee |
 | 368 | 480 | Dar |
 | 369 | 478 | Ashley Collins |
-| 370 | 477 | Julay |
-| 371 | 477 | Brenna Ann |
+| 370 | 477 | Brenna Ann |
+| 371 | 477 | Julay |
 | 372 | 476 | Kitybox |
 | 373 | 476 | Maya June |
 | 374 | 475 | Michelle Lee |
@@ -410,8 +410,8 @@
 | 402 | 451 | Dylan Thomason |
 | 403 | 449 | Davetta Sanford |
 | 404 | 447 | Heather Schelkopf |
-| 405 | 447 | Ann Matzkanin |
-| 406 | 447 | Brandy Andre |
+| 405 | 447 | Brandy Andre |
+| 406 | 447 | Ann Matzkanin |
 | 407 | 447 | Lourisha |
 | 408 | 445 | Mar Q Thomas |
 | 409 | 443 | Joseph Musick |
@@ -832,8 +832,8 @@
 | 824 | 229 | Besma Ao |
 | 825 | 229 | BbqGuru |
 | 826 | 229 | Chyrisse Norton |
-| 827 | 229 | Regina Unruh |
-| 828 | 229 | Deidre Jenkins |
+| 827 | 229 | Deidre Jenkins |
+| 828 | 229 | Regina Unruh |
 | 829 | 229 | Heather Anspaugh |
 | 830 | 228 | Synn |
 | 831 | 228 | Samantha Angelo |
