@@ -81,8 +81,8 @@
 | 73 | 338 | Stephanie Zahn |
 | 74 | 333 | Brandi Huntington |
 | 75 | 328 | Gracie |
-| 76 | 323 | Candy Jones |
-| 77 | 323 | Kellie |
+| 76 | 323 | Kellie |
+| 77 | 323 | Candy Jones |
 | 78 | 319 | Deanna L Hermanson |
 | 79 | 318 | Dee Perry |
 | 80 | 310 | Seth Wesson |
@@ -114,8 +114,8 @@
 | 106 | 249 | Elaine Elaine |
 | 107 | 248 | Jason Jones |
 | 108 | 244 | Franswa |
-| 109 | 240 | Tana |
-| 110 | 240 | Chelsea Dahlquist |
+| 109 | 240 | Chelsea Dahlquist |
+| 110 | 240 | Tana |
 | 111 | 238 | John J. Cronin |
 | 112 | 238 | Steve Schneider |
 | 113 | 230 | Frothy Pattern |
@@ -161,15 +161,15 @@
 | 153 | 177 | ParisandCory Champagne |
 | 154 | 177 | Irual Hctrab |
 | 155 | 175 | John Barron |
-| 156 | 171 | David DeSantis |
-| 157 | 171 | femmefatale |
-| 158 | 171 | Greg Premoe |
+| 156 | 171 | Greg Premoe |
+| 157 | 171 | David DeSantis |
+| 158 | 171 | femmefatale |
 | 159 | 170 | Veronica Eve |
 | 160 | 170 | Cartier |
 | 161 | 169 | Abbey Crespo |
 | 162 | 168 | Standia Civil |
-| 163 | 167 | Nery Martinez |
-| 164 | 167 | Erin Hodges Plumb |
+| 163 | 167 | Erin Hodges Plumb |
+| 164 | 167 | Nery Martinez |
 | 165 | 166 | Rico Rico |
 | 166 | 165 | Nadine Velardo |
 | 167 | 163 | Tyler Whitley |

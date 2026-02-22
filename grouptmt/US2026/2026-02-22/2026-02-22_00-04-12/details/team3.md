@@ -67,8 +67,8 @@
 | 59 | 628 | Tiff Vs Tiffany |
 | 60 | 621 | Cherry Parker |
 | 61 | 621 | Ebony West-Cundiff |
-| 62 | 618 | Brandon Green |
-| 63 | 618 | MissTaylor |
+| 62 | 618 | MissTaylor |
+| 63 | 618 | Brandon Green |
 | 64 | 613 | Amber Hughes |
 | 65 | 611 | Elaine Webb Graves |
 | 66 | 604 | Danielle Becker |
@@ -239,12 +239,12 @@
 | 231 | 179 | Daira Largen |
 | 232 | 178 | Sarajane Lokan |
 | 233 | 178 | Ryan Williams |
-| 234 | 176 | Jim Mathews |
-| 235 | 176 | rosy |
+| 234 | 176 | rosy |
+| 235 | 176 | Jim Mathews |
 | 236 | 174 | Marquita Sheard |
 | 237 | 172 | Grams |
 | 238 | 170 | Lesley Perez |
-| 239 | 169 | Emma |
+| 239 | 169 | BŘŰŤİÇŨŚ |
 | 240 | 169 | Daryn Elliott |
 | 241 | 169 | Emma |
 | 242 | 169 | Jennifer |
@@ -257,11 +257,11 @@
 | 249 | 163 | Christine Trester |
 | 250 | 162 | Stephanie Whitefield |
 | 251 | 162 | Loopy Fallzone |
-| 252 | 162 | Stephanie Whitefield |
+| 252 | 162 | Cesar Barraza |
 | 253 | 161 | Kristian Thurman |
 | 254 | 160 | Tiffany Davie |
-| 255 | 159 | Jone |
-| 256 | 159 | Valerie Gendron |
+| 255 | 159 | Valerie Gendron |
+| 256 | 159 | Jone |
 | 257 | 158 | Denita Mungro |
 | 258 | 158 | _melisa223_ |
 | 259 | 157 | Katrina E Jelks |

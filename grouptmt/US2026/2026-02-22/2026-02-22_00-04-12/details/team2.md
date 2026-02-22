@@ -506,10 +506,10 @@
 | 498 | 311 | Kitybox |
 | 499 | 310 | Lonne Emade |
 | 500 | 310 | Cheeky Brickmatch |
-| 501 | 310 | Sharon Mills |
-| 502 | 310 | Audra Williams |
-| 503 | 308 | Ann Knutson Anderson |
-| 504 | 308 | Christina Jarvis-Swarbrick |
+| 501 | 310 | Audra Williams |
+| 502 | 310 | Sharon Mills |
+| 503 | 308 | Christina Jarvis-Swarbrick |
+| 504 | 308 | Ann Knutson Anderson |
 | 505 | 307 | Diallo Sparkman |
 | 506 | 305 | Samantha Scibelli |
 | 507 | 305 | Zany Clusterbuilder |
@@ -705,8 +705,8 @@
 | 697 | 225 | BK Queen |
 | 698 | 225 | Meganator42 |
 | 699 | 224 | Artemus Darnell |
-| 700 | 223 | Laura Wyatt |
-| 701 | 223 | Michele Moren |
+| 700 | 223 | Michele Moren |
+| 701 | 223 | Laura Wyatt |
 | 702 | 223 | Jess Morrison |
 | 703 | 223 | LegoCarpet |
 | 704 | 223 | J.L. Roberts |

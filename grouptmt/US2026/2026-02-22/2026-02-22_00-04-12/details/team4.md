@@ -51,8 +51,8 @@
 | 43 | 526 | Goatimus Lombardi |
 | 44 | 519 | Anthony Bryan Riva |
 | 45 | 504 | Ash |
-| 46 | 500 | Rodney McMath Jr. |
-| 47 | 500 | Savannah Overdorf |
+| 46 | 500 | Savannah Overdorf |
+| 47 | 500 | Rodney McMath Jr. |
 | 48 | 496 | Carolyn Wallace |
 | 49 | 491 | Casey Jeffcoat |
 | 50 | 486 | Landon Keith Graffeo |
@@ -74,8 +74,8 @@
 | 66 | 391 | Ramel Rhodes |
 | 67 | 390 | Carlton Unfiltered |
 | 68 | 388 | YoMomma |
-| 69 | 376 | quicksand420 |
-| 70 | 376 | Marie-Pier Desjardins |
+| 69 | 376 | Marie-Pier Desjardins |
+| 70 | 376 | quicksand420 |
 | 71 | 373 | Joseph Guthrie |
 | 72 | 370 | Leslie Thomas |
 | 73 | 369 | Nope Young |
@@ -117,10 +117,10 @@
 | 109 | 230 | Daria Rycewicz |
 | 110 | 222 | Joeliecea Cobb |
 | 111 | 221 | Alyssa Papen |
-| 112 | 218 | Antony Dwayne Beasley |
-| 113 | 218 | Casey Grabner |
-| 114 | 213 | loulou |
-| 115 | 213 | Chaz Duncan |
+| 112 | 218 | Casey Grabner |
+| 113 | 218 | Antony Dwayne Beasley |
+| 114 | 213 | Chaz Duncan |
+| 115 | 213 | loulou |
 | 116 | 212 | Calvin Cannon |
 | 117 | 212 | Mike Solo |
 | 118 | 211 | Dizzy Tiley |
@@ -139,8 +139,8 @@
 | 131 | 196 | Jeff Brian Gates |
 | 132 | 194 | Zany Twisterfit |
 | 133 | 192 | Shauna Havard |
-| 134 | 189 | Stacey Stano |
-| 135 | 189 | Calvin Dennis |
+| 134 | 189 | Calvin Dennis |
+| 135 | 189 | Stacey Stano |
 | 136 | 188 | Katherine Crane |
 | 137 | 187 | TheNeesh50 |
 | 138 | 185 | Malakai Darien Fox |
@@ -163,9 +163,9 @@
 | 155 | 160 | ZeeZee |
 | 156 | 156 | Holly |
 | 157 | 155 | AyeKay |
-| 158 | 153 | Chair |
-| 159 | 153 | Empress Oasis |
-| 160 | 153 | Avy Absol |
+| 158 | 153 | Avy Absol |
+| 159 | 153 | Chair |
+| 160 | 153 | Empress Oasis |
 | 161 | 152 | Mary Ann Pabukis |
 | 162 | 152 | scott |
 | 163 | 151 | Bethany Ison |
@@ -293,7 +293,7 @@
 | 285 | 96 | Paige Kittles |
 | 286 | 95 | Tina Martinez |
 | 287 | 95 | TRCuse |
-| 288 | 95 | Tina Martinez |
+| 288 | 95 | Patron Anderson |
 | 289 | 94 | DonMega |
 | 290 | 93 | No Strings Attached Ra |
 | 291 | 92 | Hyper Builder |
@@ -336,8 +336,8 @@
 | 328 | 83 | Daresha Fair |
 | 329 | 82 | Sallie Sanborn |
 | 330 | 82 | Jason Bosco |
-| 331 | 82 | Sallie Sanborn |
-| 332 | 82 | Kametsunoyaiba |
+| 331 | 82 | Kametsunoyaiba |
+| 332 | 82 | Oleg Zakharskiy |
 | 333 | 81 | Crystal Lynn |
 | 334 | 80 | Melissa Adams |
 | 335 | 80 | GBR |
