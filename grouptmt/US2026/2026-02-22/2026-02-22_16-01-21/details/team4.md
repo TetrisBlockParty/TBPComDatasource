@@ -75,8 +75,8 @@
 | 67 | 638 | Julian Garcia |
 | 68 | 620 | Landon Keith Graffeo |
 | 69 | 614 | TheNeesh50 |
-| 70 | 608 | Savannah Overdorf |
-| 71 | 608 | Avy Absol |
+| 70 | 608 | Avy Absol |
+| 71 | 608 | Savannah Overdorf |
 | 72 | 600 | Michelle Marie |
 | 73 | 599 | Brittney Griggs |
 | 74 | 593 | Lisa Davis |

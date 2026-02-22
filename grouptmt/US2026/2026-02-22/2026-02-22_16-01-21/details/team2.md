@@ -105,8 +105,8 @@
 | 97 | 1640 | Sam Smith |
 | 98 | 1603 | Gabby Jenner |
 | 99 | 1601 | Ray Ray Prado |
-| 100 | 1599 | Rob Riggin |
-| 101 | 1599 | Janel Turley-Garner |
+| 100 | 1599 | Janel Turley-Garner |
+| 101 | 1599 | Rob Riggin |
 | 102 | 1578 | Jamie Main |
 | 103 | 1567 | Sally Dennis |
 | 104 | 1564 | Charie Holland |
@@ -213,9 +213,9 @@
 | 205 | 973 | Kim Dean |
 | 206 | 972 | Juliana Marques Do Nascimento Gordy |
 | 207 | 960 | Jennifer Kistner |
-| 208 | 957 | Keri Womack |
-| 209 | 957 | Block Master |
-| 210 | 957 | Crystal Hoffman |
+| 208 | 957 | Crystal Hoffman |
+| 209 | 957 | Keri Womack |
+| 210 | 957 | Block Master |
 | 211 | 954 | Shannon Joslin |
 | 212 | 951 | Cynthia Ward |
 | 213 | 950 | Teresa Gillmore |
@@ -353,16 +353,16 @@
 | 345 | 664 | Sleepypanda67 |
 | 346 | 663 | Mandi Douglas Hilt |
 | 347 | 662 | Melissa Rebbe-Lehman |
-| 348 | 661 | BeQuo |
-| 349 | 661 | goofinoff |
+| 348 | 661 | goofinoff |
+| 349 | 661 | BeQuo |
 | 350 | 659 | Draizen Montrell Thomas |
 | 351 | 651 | Unica Rector |
-| 352 | 650 | tejas25 |
-| 353 | 650 | Shiny Rollzone |
+| 352 | 650 | Shiny Rollzone |
+| 353 | 650 | tejas25 |
 | 354 | 644 | Desiree Anderson |
 | 355 | 643 | Hoppy Brickmatch |
-| 356 | 640 | BYM4L |
-| 357 | 640 | Kara Gillen |
+| 356 | 640 | Kara Gillen |
+| 357 | 640 | BYM4L |
 | 358 | 639 | Crystie Hicks |
 | 359 | 639 | Rebecca Miller |
 | 360 | 634 | Amber Brion |
@@ -427,8 +427,8 @@
 | 419 | 547 | Shaun Church |
 | 420 | 545 | Lyndi Robinson Wakefield |
 | 421 | 544 | Deidre Shaffer |
-| 422 | 543 | Julie Kresal |
-| 423 | 543 | Vanessa Moreno |
+| 422 | 543 | Vanessa Moreno |
+| 423 | 543 | Julie Kresal |
 | 424 | 541 | Julay |
 | 425 | 541 | g |
 | 426 | 540 | Dizzy Zone |
@@ -779,8 +779,8 @@
 | 771 | 319 | Cheery Puzzler |
 | 772 | 319 | RetroLemur |
 | 773 | 318 | Jennifer Mahon |
-| 774 | 317 | Ashlyn Berner |
-| 775 | 317 | Zombi3 |
+| 774 | 317 | Zombi3 |
+| 775 | 317 | Ashlyn Berner |
 | 776 | 317 | Aireka Roman |
 | 777 | 316 | Epic Spinfit |
 | 778 | 315 | MamaBear11 |
@@ -795,8 +795,8 @@
 | 787 | 313 | Natasha Edmonds |
 | 788 | 312 | Heather Renee Jeffers |
 | 789 | 312 | Kiorah Blaze |
-| 790 | 311 | Audra Williams |
-| 791 | 311 | SwifftFox |
+| 790 | 311 | SwifftFox |
+| 791 | 311 | Audra Williams |
 | 792 | 311 | Megan Phillips |
 | 793 | 310 | Cheeky Brickmatch |
 | 794 | 310 | Cozy Drop |
@@ -805,8 +805,8 @@
 | 797 | 309 | Daniell Martinez |
 | 798 | 309 | Byung Bae Park |
 | 799 | 308 | Hyper Riseclear |
-| 800 | 308 | Kristina Marie Hanna |
-| 801 | 308 | Claire |
+| 800 | 308 | Claire |
+| 801 | 308 | Kristina Marie Hanna |
 | 802 | 308 | Katie Joy McCombs |
 | 803 | 307 | Brave Gridpiece |
 | 804 | 305 | Epic Fitzone |
@@ -818,8 +818,8 @@
 | 810 | 303 | Devin |
 | 811 | 303 | Amanda Schaffer |
 | 812 | 303 | Alyssia Tancredi |
-| 813 | 302 | Kena T. Tanner |
-| 814 | 302 | Epic Stackbuilder |
+| 813 | 302 | Epic Stackbuilder |
+| 814 | 302 | Kena T. Tanner |
 | 815 | 301 | Tom Steffen |
 | 816 | 300 | Jay Levy |
 | 817 | 300 | Warren Marleau |

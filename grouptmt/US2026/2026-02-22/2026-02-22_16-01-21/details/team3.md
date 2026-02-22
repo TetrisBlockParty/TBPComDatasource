@@ -219,8 +219,8 @@
 | 211 | 324 | Sissy Lowery Davis |
 | 212 | 324 | Kristal C Lee |
 | 213 | 323 | Demetrious Shaw Sr. |
-| 214 | 320 | Keis |
-| 215 | 320 | Ashley Muncey |
+| 214 | 320 | Ashley Muncey |
+| 215 | 320 | Keis |
 | 216 | 320 | Or Reznitsky |
 | 217 | 318 | Loopy Fallmatch |
 | 218 | 317 | Ashley Tookes |
@@ -335,11 +335,11 @@
 | 327 | 209 | TotoCherue |
 | 328 | 209 | Micayah Stevens |
 | 329 | 209 | Philip Rock |
-| 330 | 208 | AlsoJess |
-| 331 | 208 | Niki Dalrymple |
+| 330 | 208 | Niki Dalrymple |
+| 331 | 208 | AlsoJess |
 | 332 | 207 | angieelyn |
-| 333 | 207 | Jessica |
-| 334 | 207 | Daring Builder |
+| 333 | 207 | Daring Builder |
+| 334 | 207 | Jessica |
 | 335 | 206 | Tammy Rosenberry |
 | 336 | 205 | Rachel Napper |
 | 337 | 205 | Kirhonda Autmon |
@@ -392,8 +392,8 @@
 | 384 | 178 | Christian Luna |
 | 385 | 178 | Joy Petroski |
 | 386 | 177 | Kristin Delibac Corrigan |
-| 387 | 176 | Skinny Baldez |
-| 388 | 176 | Emma |
+| 387 | 176 | Emma |
+| 388 | 176 | Skinny Baldez |
 | 389 | 175 | Michael Latasha Gray |
 | 390 | 175 | Wacky Crasher |
 | 391 | 174 | Lesley Perez |

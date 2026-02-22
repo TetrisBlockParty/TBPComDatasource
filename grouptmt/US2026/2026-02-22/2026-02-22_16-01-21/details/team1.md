@@ -165,11 +165,11 @@
 | 157 | 270 | Ash Galvan |
 | 158 | 268 | Jessi Sauer |
 | 159 | 268 | Amanda Jarnagin |
-| 160 | 265 | Nutty Spinblock |
-| 161 | 265 | Shiny Snapfit |
+| 160 | 265 | Shiny Snapfit |
+| 161 | 265 | Nutty Spinblock |
 | 162 | 265 | SkipTheSadSauce |
-| 163 | 264 | Brian Richardsson |
-| 164 | 264 | Jenny Gingrich Fuentes |
+| 163 | 264 | Jenny Gingrich Fuentes |
+| 164 | 264 | Brian Richardsson |
 | 165 | 263 | Ty Brown |
 | 166 | 262 | Sleepysloath5745 |
 | 167 | 261 | Witty Builderfit |
@@ -193,8 +193,8 @@
 | 185 | 239 | Sam Williams |
 | 186 | 237 | LaFontaine Leslie |
 | 187 | 236 | femmefatale |
-| 188 | 235 | MRdot Rooski |
-| 189 | 235 | Desiree Deschaine Havee |
+| 188 | 235 | Desiree Deschaine Havee |
+| 189 | 235 | MRdot Rooski |
 | 190 | 234 | Paula Martin |
 | 191 | 231 | Amanda Johnson Huffman |
 | 192 | 230 | Frothy Pattern |
@@ -202,8 +202,8 @@
 | 194 | 226 | Kandae |
 | 195 | 225 | Bindi |
 | 196 | 224 | ParisandCory Champagne |
-| 197 | 223 | Erez Yosef |
-| 198 | 223 | Basment Living |
+| 197 | 223 | Basment Living |
+| 198 | 223 | Erez Yosef |
 | 199 | 222 | Debbie Davis |
 | 200 | 221 | Daring Fitclear |
 | 201 | 220 | Jessie Lynn |
