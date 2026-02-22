@@ -256,8 +256,8 @@
 | 248 | 224 | Tipsy Riseclear |
 | 249 | 223 | Erez Yosef |
 | 250 | 223 | Christina Backer |
-| 251 | 222 | Debbie Davis |
-| 252 | 222 | Snappy Bridgepiece |
+| 251 | 222 | Snappy Bridgepiece |
+| 252 | 222 | Debbie Davis |
 | 253 | 221 | Amy Hess |
 | 254 | 220 | Bouncy Grid |
 | 255 | 219 | Joe Coon |

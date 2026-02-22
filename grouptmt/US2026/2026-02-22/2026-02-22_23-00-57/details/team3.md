@@ -95,8 +95,8 @@
 | 87 | 849 | Danielle Becker |
 | 88 | 848 | Patricia Gadsden |
 | 89 | 847 | Rosalie Call Kehlenbeck |
-| 90 | 838 | MissTaylor |
-| 91 | 838 | Sarajane Lokan |
+| 90 | 838 | Sarajane Lokan |
+| 91 | 838 | MissTaylor |
 | 92 | 835 | Snappy Glidepiece |
 | 93 | 831 | Angeline Joseph |
 | 94 | 830 | Stephanie Allmon |
@@ -113,8 +113,8 @@
 | 105 | 733 | mzcatzy |
 | 106 | 723 | Mandy Smith Oldham |
 | 107 | 720 | Raya |
-| 108 | 716 | Calista Jo Dickson |
-| 109 | 716 | Kristie |
+| 108 | 716 | Kristie |
+| 109 | 716 | Calista Jo Dickson |
 | 110 | 715 | Keith J Oshman Jr. |
 | 111 | 712 | Katrina Schroeder |
 | 112 | 708 | Speedy Bridger |
@@ -274,8 +274,8 @@
 | 266 | 310 | Cynthia Herrmann Egland |
 | 267 | 309 | Felicia Rocha |
 | 268 | 308 | Katrina Turner |
-| 269 | 307 | rnr junky |
-| 270 | 307 | Blocked |
+| 269 | 307 | Blocked |
+| 270 | 307 | rnr junky |
 | 271 | 303 | Alexmac |
 | 272 | 302 | Gray Hicks |
 | 273 | 301 | Betty Rosas |
@@ -420,9 +420,9 @@
 | 412 | 208 | Luccy Luxe |
 | 413 | 208 | Betty Bóò |
 | 414 | 207 | angieelyn |
-| 415 | 206 | Tammy Rosenberry |
+| 415 | 206 | Andrew Thorson |
 | 416 | 206 | Cesar Barraza |
-| 417 | 206 | Andrew Thorson |
+| 417 | 206 | Tammy Rosenberry |
 | 418 | 205 | Rachel Napper |
 | 419 | 204 | Frilly Stackzone |
 | 420 | 203 | Cheeky Twisterfit |

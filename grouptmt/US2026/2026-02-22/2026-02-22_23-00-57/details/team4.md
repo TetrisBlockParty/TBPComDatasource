@@ -109,8 +109,8 @@
 | 101 | 512 | Diana Houts |
 | 102 | 510 | Scott Jameson |
 | 103 | 500 | Rodney McMath Jr. |
-| 104 | 499 | Christina LR |
-| 105 | 499 | Trista Leah |
+| 104 | 499 | Trista Leah |
+| 105 | 499 | Christina LR |
 | 106 | 488 | Jen Allison |
 | 107 | 487 | shar |
 | 108 | 487 | Alyssa Papen |
@@ -148,8 +148,8 @@
 | 140 | 373 | Joseph Guthrie |
 | 141 | 358 | ThaEviLJeNiuZ |
 | 142 | 355 | Kristina Black |
-| 143 | 353 | Tyler Terrific |
-| 144 | 353 | Livvy |
+| 143 | 353 | Livvy |
+| 144 | 353 | Tyler Terrific |
 | 145 | 350 | Angela Srubar-Norman |
 | 146 | 348 | Silly Zonebuilder |
 | 147 | 347 | Daria Rycewicz |

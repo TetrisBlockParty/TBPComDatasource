@@ -180,8 +180,8 @@
 | 172 | 1260 | Joshua Sommerville |
 | 173 | 1257 | Michele Gabriel |
 | 174 | 1242 | Mischelle Clay |
-| 175 | 1232 | Ambyre Patterson |
-| 176 | 1232 | Groovy Puzzle |
+| 175 | 1232 | Groovy Puzzle |
+| 176 | 1232 | Ambyre Patterson |
 | 177 | 1230 | Megan Garrick |
 | 178 | 1224 | Liberty |
 | 179 | 1211 | Lucky Ladybug |
@@ -313,8 +313,8 @@
 | 305 | 840 | Caitlin Schmid |
 | 306 | 838 | Steve Man |
 | 307 | 833 | Moni Foxe |
-| 308 | 833 | Cody Nishimura |
-| 309 | 833 | Tim Dyer |
+| 308 | 833 | Tim Dyer |
+| 309 | 833 | Cody Nishimura |
 | 310 | 824 | Chirpy Staggerpiece |
 | 311 | 821 | Diallo Sparkman |
 | 312 | 821 | Angie Bolton Workman |
@@ -329,8 +329,8 @@
 | 321 | 800 | Danielle Johnson-Chandler |
 | 322 | 799 | Joy LaJeunesse |
 | 323 | 797 | Offonar Facey |
-| 324 | 793 | Heather Schelkopf |
-| 325 | 793 | Lisa Ongtowasruk |
+| 324 | 793 | Lisa Ongtowasruk |
+| 325 | 793 | Heather Schelkopf |
 | 326 | 790 | Brenda Pierpoint |
 | 327 | 790 | Jackie Lucas |
 | 328 | 788 | Erika Densmore |
@@ -346,8 +346,8 @@
 | 338 | 772 | Danielle Simmons |
 | 339 | 769 | Melissa Cole |
 | 340 | 768 | Joshua Self |
-| 341 | 767 | Ashley Lopez |
-| 342 | 767 | Fancy Twister |
+| 341 | 767 | Fancy Twister |
+| 342 | 767 | Ashley Lopez |
 | 343 | 765 | Kathryn Townsley |
 | 344 | 763 | Heather Causey |
 | 345 | 761 | Hyper Cluster |
@@ -443,8 +443,8 @@
 | 435 | 626 | Demeka Dangerous-kisses Johnson |
 | 436 | 620 | Brandon Armstrong |
 | 437 | 620 | Traci Johnson |
-| 438 | 618 | Caitlyn Blackwell |
-| 439 | 618 | Vanessa Moreno |
+| 438 | 618 | Vanessa Moreno |
+| 439 | 618 | Caitlyn Blackwell |
 | 440 | 617 | Darcy Mae |
 | 441 | 617 | Nicole Cannon |
 | 442 | 616 | Jackie Avila |
