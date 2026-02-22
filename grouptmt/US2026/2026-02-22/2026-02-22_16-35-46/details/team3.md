@@ -212,8 +212,8 @@
 | 204 | 346 | Tamara Deherrera |
 | 205 | 344 | Trisha Balmer |
 | 206 | 343 | Ashley Raines |
-| 207 | 341 | Samantha Lynn |
-| 208 | 341 | Noyb Adam |
+| 207 | 341 | Noyb Adam |
+| 208 | 341 | Samantha Lynn |
 | 209 | 340 | Ammmmmmy |
 | 210 | 338 | Gumbo |
 | 211 | 332 | Rich LeBlanc |
@@ -233,8 +233,8 @@
 | 225 | 312 | Charles Perrone |
 | 226 | 308 | Rania Zaqout |
 | 227 | 307 | rnr junky |
-| 228 | 307 | Blocked |
-| 229 | 307 | Marci Mize Fandrich |
+| 228 | 307 | Marci Mize Fandrich |
+| 229 | 307 | Blocked |
 | 230 | 305 | Rebecca Bailey |
 | 231 | 304 | Cozy Snaplink |
 | 232 | 301 | Betty Rosas |
@@ -298,8 +298,8 @@
 | 290 | 239 | Michael Johnson |
 | 291 | 238 | Niki Dalrymple |
 | 292 | 236 | Angela Scott |
-| 293 | 236 | Lys |
-| 294 | 236 | Jess Bissett |
+| 293 | 236 | Jess Bissett |
+| 294 | 236 | Lys |
 | 295 | 233 | Tony Waters |
 | 296 | 232 | Donna |
 | 297 | 232 | Jessica |
@@ -532,8 +532,8 @@
 | 524 | 134 | Sharon Dudley Lawson |
 | 525 | 134 | Brian Battjes |
 | 526 | 133 | Chummy Rumbler |
-| 527 | 133 | Spunky Racker |
-| 528 | 133 | Jumpy Wrecker |
+| 527 | 133 | Jumpy Wrecker |
+| 528 | 133 | Spunky Racker |
 | 529 | 133 | Nichol Graham |
 | 530 | 132 | Giggy Glidepiece |
 | 531 | 132 | Andrew Thorson |

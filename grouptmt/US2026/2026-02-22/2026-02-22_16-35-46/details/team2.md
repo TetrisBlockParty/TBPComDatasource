@@ -135,8 +135,8 @@
 | 127 | 1380 | Jose Mendoza |
 | 128 | 1371 | Zappy Cascade |
 | 129 | 1347 | Alisa Lamb |
-| 130 | 1342 | Christi Hulet |
-| 131 | 1342 | Eboni Banks |
+| 130 | 1342 | Eboni Banks |
+| 131 | 1342 | Christi Hulet |
 | 132 | 1342 | Bob |
 | 133 | 1338 | Dawn Geist-Weasner |
 | 134 | 1330 | Erica Williams |
@@ -192,8 +192,8 @@
 | 184 | 1062 | Crystal Slaughter |
 | 185 | 1050 | Amy Sayers |
 | 186 | 1045 | Lourisha |
-| 187 | 1043 | Suki Kaur |
-| 188 | 1043 | Brave Dropmatch |
+| 187 | 1043 | Brave Dropmatch |
+| 188 | 1043 | Suki Kaur |
 | 189 | 1036 | Allison Lockyer |
 | 190 | 1024 | Bri Lynn |
 | 191 | 1023 | Brainy Smurf |
@@ -329,8 +329,8 @@
 | 321 | 700 | Vincent Petrella |
 | 322 | 700 | Hong Tang |
 | 323 | 699 | tejas25 |
-| 324 | 697 | Ashle Scranton |
-| 325 | 697 | Dreamy Blast |
+| 324 | 697 | Dreamy Blast |
+| 325 | 697 | Ashle Scranton |
 | 326 | 695 | Deborah Miller |
 | 327 | 695 | Lakeysha Dortch |
 | 328 | 692 | Dannette Goldberg-Richards |
@@ -359,12 +359,12 @@
 | 351 | 661 | BeQuo |
 | 352 | 659 | Draizen Montrell Thomas |
 | 353 | 651 | Unica Rector |
-| 354 | 650 | Amber Brion |
-| 355 | 650 | Shiny Rollzone |
+| 354 | 650 | Shiny Rollzone |
+| 355 | 650 | Amber Brion |
 | 356 | 644 | Desiree Anderson |
 | 357 | 643 | Hoppy Brickmatch |
-| 358 | 640 | BYM4L |
-| 359 | 640 | Kara Gillen |
+| 358 | 640 | Kara Gillen |
+| 359 | 640 | BYM4L |
 | 360 | 639 | Crystie Hicks |
 | 361 | 639 | Rebecca Miller |
 | 362 | 634 | Gary Stash |
@@ -715,8 +715,8 @@
 | 707 | 356 | Shorty |
 | 708 | 356 | Kelsey Sullivan |
 | 709 | 355 | Mike73 |
-| 710 | 354 | Rachel Kaminski |
-| 711 | 354 | Rickey Johnson |
+| 710 | 354 | Rickey Johnson |
+| 711 | 354 | Rachel Kaminski |
 | 712 | 352 | Jean FU Jagielski |
 | 713 | 352 | Savannah Alexander |
 | 714 | 350 | Chris Harr |

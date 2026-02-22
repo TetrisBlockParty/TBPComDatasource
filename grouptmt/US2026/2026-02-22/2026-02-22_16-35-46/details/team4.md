@@ -232,12 +232,12 @@
 | 224 | 203 | Katherine Crane |
 | 225 | 202 | Patron Anderson |
 | 226 | 201 | Melvin Baird |
-| 227 | 200 | Rebecca Morris |
-| 228 | 200 | Googenheim |
+| 227 | 200 | Googenheim |
+| 228 | 200 | Rebecca Morris |
 | 229 | 200 | Lori |
 | 230 | 199 | April Rondinone |
-| 231 | 198 | Keith Kelley |
-| 232 | 198 | Calvin Dennis |
+| 231 | 198 | Calvin Dennis |
+| 232 | 198 | Keith Kelley |
 | 233 | 197 | Silly SeaWeed |
 | 234 | 197 | Gilles Lanctot |
 | 235 | 195 | 中山成巳 |
@@ -246,8 +246,8 @@
 | 238 | 191 | Klo |
 | 239 | 190 | Cheery Risebuilder |
 | 240 | 190 | Snippy Puzzle |
-| 241 | 189 | Dihcheese444 |
-| 242 | 189 | 030Synner |
+| 241 | 189 | 030Synner |
+| 242 | 189 | Dihcheese444 |
 | 243 | 186 | Holly |
 | 244 | 185 | Laura Hosford |
 | 245 | 184 | Lauren Lamb |
@@ -303,7 +303,7 @@
 | 295 | 150 | Brandon Link |
 | 296 | 150 | GBR |
 | 297 | 149 | Jason Bosco |
-| 298 | 148 | Nubian1 |
+| 298 | 148 | Sam Middleton |
 | 299 | 148 | Cranky Rollpiece |
 | 300 | 148 | Nubian1 |
 | 301 | 148 | Ruby Khalisadar |
@@ -350,7 +350,7 @@
 | 342 | 134 | Marvetta Williams |
 | 343 | 133 | Jesus Garcia |
 | 344 | 132 | Jessica Cagle |
-| 345 | 132 | Adam Randall |
+| 345 | 132 | Melissa Priest Sellers |
 | 346 | 132 | Meg |
 | 347 | 132 | Kristin MacDonald |
 | 348 | 132 | Degenerate |
