@@ -328,8 +328,8 @@
 | 320 | 711 | Melissa Holsinger |
 | 321 | 704 | Shelley Thornburgh Wright |
 | 322 | 703 | Gold Rose |
-| 323 | 700 | Hong Tang |
-| 324 | 700 | Vincent Petrella |
+| 323 | 700 | Vincent Petrella |
+| 324 | 700 | Hong Tang |
 | 325 | 700 | Beverly Owens |
 | 326 | 700 | Rosemadder |
 | 327 | 699 | tejas25 |
@@ -445,8 +445,8 @@
 | 437 | 545 | Sparkles |
 | 438 | 545 | Lyndi Robinson Wakefield |
 | 439 | 544 | Deidre Shaffer |
-| 440 | 543 | Vanessa Moreno |
-| 441 | 543 | Julie Kresal |
+| 440 | 543 | Julie Kresal |
+| 441 | 543 | Vanessa Moreno |
 | 442 | 540 | Melissa Kay Gibson |
 | 443 | 540 | Dizzy Zone |
 | 444 | 536 | Caitlin Schmid |

@@ -104,8 +104,8 @@
 | 96 | 409 | Yvonne Marie |
 | 97 | 401 | cc |
 | 98 | 400 | Cynthia Bradley |
-| 99 | 390 | Goose egg |
-| 100 | 390 | Candy Jones |
+| 99 | 390 | Candy Jones |
+| 100 | 390 | Goose egg |
 | 101 | 390 | Lori Bales |
 | 102 | 389 | Nery Martinez |
 | 103 | 385 | Brenda Stewart |
@@ -149,8 +149,8 @@
 | 141 | 306 | Happy Basegrid |
 | 142 | 304 | Nicole Roseberry Weber |
 | 143 | 303 | Chelsea Dahlquist |
-| 144 | 301 | Dandy Basegrid |
-| 145 | 301 | Lehrin Maria |
+| 144 | 301 | Lehrin Maria |
+| 145 | 301 | Dandy Basegrid |
 | 146 | 297 | Constance Risner |
 | 147 | 293 | Sarah Roberts |
 | 148 | 292 | David Lutcher |
@@ -189,7 +189,7 @@
 | 181 | 251 | Giggly Builderline |
 | 182 | 249 | Lakeisha Chapman |
 | 183 | 246 | Mike Ames |
-| 184 | 244 | Serina Marie |
+| 184 | 244 | Eddie Dillon |
 | 185 | 244 | Marianita Garcia |
 | 186 | 244 | Serina Marie |
 | 187 | 243 | Trippy Redd |

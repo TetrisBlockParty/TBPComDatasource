@@ -333,8 +333,8 @@
 | 325 | 220 | Tosha Griffey |
 | 326 | 217 | Goofy Fall |
 | 327 | 216 | Tina Smith Roy |
-| 328 | 216 | Frothy Snapper |
-| 329 | 216 | Cheryl Hinch Tenbrook |
+| 328 | 216 | Cheryl Hinch Tenbrook |
+| 329 | 216 | Frothy Snapper |
 | 330 | 214 | Amy Fuller Heaton |
 | 331 | 214 | Randy Clevenger |
 | 332 | 214 | Lizabeth Fox |
