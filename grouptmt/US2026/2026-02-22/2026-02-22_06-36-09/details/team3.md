@@ -49,8 +49,8 @@
 | 41 | 1036 | Ant Ant |
 | 42 | 1015 | Amber Jones |
 | 43 | 998 | Liv Whetson |
-| 44 | 989 | Kay |
-| 45 | 989 | Joey Banks |
+| 44 | 989 | Joey Banks |
+| 45 | 989 | Kay |
 | 46 | 985 | Stephanie Rice |
 | 47 | 983 | Brandon Green |
 | 48 | 956 | Gracie |
@@ -310,11 +310,11 @@
 | 302 | 182 | Melanie Sherwood |
 | 303 | 181 | Nicholas Roddy |
 | 304 | 181 | Denita Mungro |
-| 305 | 180 | Beth Ingham |
-| 306 | 180 | Criss |
+| 305 | 180 | Criss |
+| 306 | 180 | Beth Ingham |
 | 307 | 179 | Rachel Napper |
-| 308 | 179 | DanceLuvLaugh |
-| 309 | 179 | Christian Werndl |
+| 308 | 179 | Christian Werndl |
+| 309 | 179 | DanceLuvLaugh |
 | 310 | 179 | Tipsy Zonebuilder |
 | 311 | 178 | Jess Dearborn |
 | 312 | 178 | kacihall |

@@ -181,8 +181,8 @@
 | 173 | 201 | Chance Strickland |
 | 174 | 201 | Melvin Baird |
 | 175 | 198 | Jessica Lynn Cutlip |
-| 176 | 196 | Oscar Alberto Perez |
-| 177 | 196 | Zethra Prenisha Rahming |
+| 176 | 196 | Zethra Prenisha Rahming |
+| 177 | 196 | Oscar Alberto Perez |
 | 178 | 195 | ZeeZee |
 | 179 | 195 | Malakai Darien Fox |
 | 180 | 194 | Zany Twisterfit |
@@ -193,11 +193,11 @@
 | 185 | 189 | Stacey Stano |
 | 186 | 188 | Andria Lynn |
 | 187 | 186 | Holly |
-| 188 | 185 | Lori |
-| 189 | 185 | Andy Cabral |
+| 188 | 185 | Andy Cabral |
+| 189 | 185 | Lori |
 | 190 | 184 | Ak Jones |
-| 191 | 181 | Carter Jones |
-| 192 | 181 | Alan George LaRage |
+| 191 | 181 | Alan George LaRage |
+| 192 | 181 | Carter Jones |
 | 193 | 180 | Orchislactea |
 | 194 | 180 | Rafael Valentin |
 | 195 | 179 | blockstar |

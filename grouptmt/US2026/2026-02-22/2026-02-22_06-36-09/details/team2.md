@@ -122,8 +122,8 @@
 | 114 | 1273 | Cool Rollpiece |
 | 115 | 1257 | Eileen Hale |
 | 116 | 1252 | Katrina Williams Balmir |
-| 117 | 1248 | Howard Forest |
-| 118 | 1248 | Isabela Shaw |
+| 117 | 1248 | Isabela Shaw |
+| 118 | 1248 | Howard Forest |
 | 119 | 1242 | Altamirano Michael |
 | 120 | 1232 | Groovy Puzzle |
 | 121 | 1226 | Vo'Landa Reels |
@@ -560,10 +560,10 @@
 | 552 | 375 | Lively Edgepiece |
 | 553 | 375 | Wuntayk |
 | 554 | 374 | Elisheva Mizrachi |
-| 555 | 373 | Jessica Hughes |
-| 556 | 373 | Hunter Connors |
-| 557 | 373 | Ashley Marie |
-| 558 | 373 | Jasmine Kenney |
+| 555 | 373 | Hunter Connors |
+| 556 | 373 | Jessica Hughes |
+| 557 | 373 | Jasmine Kenney |
+| 558 | 373 | Ashley Marie |
 | 559 | 372 | Ebony Deloach Bryant |
 | 560 | 371 | Saucy Fitzone |
 | 561 | 371 | AkaLefty |
@@ -583,8 +583,8 @@
 | 575 | 365 | Susan Arnburg |
 | 576 | 365 | Audrey Jones |
 | 577 | 364 | Shinette Dobson |
-| 578 | 363 | Kia Humphery |
-| 579 | 363 | Michelle Sager |
+| 578 | 363 | Michelle Sager |
+| 579 | 363 | Kia Humphery |
 | 580 | 362 | Tracy Wise |
 | 581 | 362 | Jennifer Scott |
 | 582 | 361 | Angi Harrison |
