@@ -277,8 +277,8 @@
 | 269 | 266 | Quirky Dropzone |
 | 270 | 264 | Nikki Pags |
 | 271 | 263 | Brenda Schmid Wood |
-| 272 | 262 | Ray Lader |
-| 273 | 262 | Joe-Maggie Mathews |
+| 272 | 262 | Joe-Maggie Mathews |
+| 273 | 262 | Ray Lader |
 | 274 | 261 | Tiffany Ford |
 | 275 | 260 | Grams |
 | 276 | 259 | Michael Johnson |
@@ -299,8 +299,8 @@
 | 291 | 240 | Jimmie Clemons |
 | 292 | 238 | Niki Dalrymple |
 | 293 | 236 | Angela Scott |
-| 294 | 236 | Jess Bissett |
-| 295 | 236 | Lys |
+| 294 | 236 | Lys |
+| 295 | 236 | Jess Bissett |
 | 296 | 233 | Tony Waters |
 | 297 | 232 | Donna |
 | 298 | 231 | Kiki |
@@ -424,7 +424,7 @@
 | 416 | 168 | Snarky McFace |
 | 417 | 167 | Arden White Kirsch |
 | 418 | 167 | Shicken Nuggit |
-| 419 | 167 | Arden White Kirsch |
+| 419 | 167 | Boldy Blocker |
 | 420 | 167 | Irene Arreguin |
 | 421 | 166 | Rashad Green |
 | 422 | 166 | Joshua David Huie |
@@ -529,17 +529,17 @@
 | 521 | 136 | Stephanie Zahm |
 | 522 | 136 | Sabrina Mansfield |
 | 523 | 136 | Karen Picaboo |
-| 524 | 135 | Morgan Cudo |
-| 525 | 135 | Kate Farok |
-| 526 | 134 | Sharon Dudley Lawson |
-| 527 | 134 | Glenn Loving |
-| 528 | 134 | Maia |
-| 529 | 134 | Carrie Resler |
+| 524 | 135 | Kate Farok |
+| 525 | 135 | Morgan Cudo |
+| 526 | 134 | Carrie Resler |
+| 527 | 134 | Maia |
+| 528 | 134 | Glenn Loving |
+| 529 | 134 | Sharon Dudley Lawson |
 | 530 | 134 | Brian Battjes |
-| 531 | 133 | Chummy Rumbler |
-| 532 | 133 | Spunky Racker |
-| 533 | 133 | Jumpy Wrecker |
-| 534 | 133 | Whitney Manuel |
+| 531 | 133 | Whitney Manuel |
+| 532 | 133 | Jumpy Wrecker |
+| 533 | 133 | Chummy Rumbler |
+| 534 | 133 | Spunky Racker |
 | 535 | 133 | Nichol Graham |
 | 536 | 132 | Andrew Thorson |
 | 537 | 132 | Jolly Dashpiece |

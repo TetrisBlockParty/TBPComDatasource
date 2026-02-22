@@ -353,22 +353,22 @@
 | 345 | 668 | Roseanna Peloso |
 | 346 | 666 | Speedy Spinblock |
 | 347 | 665 | Phil J. Grombliniak |
-| 348 | 665 | Prette Qui |
-| 349 | 665 | Taryece Gause |
+| 348 | 665 | Taryece Gause |
+| 349 | 665 | Prette Qui |
 | 350 | 664 | Sleepypanda67 |
 | 351 | 662 | Melissa Rebbe-Lehman |
-| 352 | 661 | goofinoff |
-| 353 | 661 | Christine Bollig |
-| 354 | 661 | BeQuo |
+| 352 | 661 | BeQuo |
+| 353 | 661 | goofinoff |
+| 354 | 661 | Christine Bollig |
 | 355 | 659 | Draizen Montrell Thomas |
 | 356 | 651 | Unica Rector |
-| 357 | 650 | Shiny Rollzone |
-| 358 | 650 | Amber Brion |
+| 357 | 650 | Amber Brion |
+| 358 | 650 | Shiny Rollzone |
 | 359 | 644 | AgileDragon |
 | 360 | 643 | Hoppy Brickmatch |
 | 361 | 641 | Vonceial Boone |
-| 362 | 640 | Kara Gillen |
-| 363 | 640 | BYM4L |
+| 362 | 640 | BYM4L |
+| 363 | 640 | Kara Gillen |
 | 364 | 639 | Crystie Hicks |
 | 365 | 639 | Rebecca Miller |
 | 366 | 635 | Joshua Sommerville |
@@ -565,8 +565,8 @@
 | 557 | 447 | Besma Ao |
 | 558 | 446 | NanDa Cruzan VI |
 | 559 | 445 | Sharon Mills |
-| 560 | 445 | Elisheva Mizrachi |
-| 561 | 445 | Mar Q Thomas |
+| 560 | 445 | Mar Q Thomas |
+| 561 | 445 | Elisheva Mizrachi |
 | 562 | 444 | Fi Ne |
 | 563 | 444 | Ryan Meilleur |
 | 564 | 444 | Chab |
@@ -580,8 +580,8 @@
 | 572 | 438 | Mike Aprilliano |
 | 573 | 437 | Cynthia Louann Rose |
 | 574 | 437 | Véronique Lévesque Sabourin |
-| 575 | 435 | James Louie |
-| 576 | 435 | Regina Young |
+| 575 | 435 | Regina Young |
+| 576 | 435 | James Louie |
 | 577 | 434 | Brenda Messer |
 | 578 | 434 | bbv |
 | 579 | 432 | Lucy Marshall |
@@ -626,8 +626,8 @@
 | 618 | 407 | Tipsy Filler |
 | 619 | 406 | Erin StFrancis |
 | 620 | 404 | Dawn L Washington-Feuquay |
-| 621 | 403 | Nate Skidmore |
-| 622 | 403 | Goofy Dasher |
+| 621 | 403 | Goofy Dasher |
+| 622 | 403 | Nate Skidmore |
 | 623 | 401 | Jasmine Kenney |
 | 624 | 400 | Kathleen Driskell |
 | 625 | 400 | Tammy Allen |
@@ -700,8 +700,8 @@
 | 692 | 363 | Michelle Sager |
 | 693 | 363 | Stephanie Fortune |
 | 694 | 363 | Veronica Stevenson |
-| 695 | 362 | Janai Vrabel |
-| 696 | 362 | Snappy Matchbuilder |
+| 695 | 362 | Snappy Matchbuilder |
+| 696 | 362 | Janai Vrabel |
 | 697 | 361 | Michelle Shrum |
 | 698 | 360 | Kacee Conrad Bock |
 | 699 | 360 | Jroc |
@@ -917,8 +917,8 @@
 | 909 | 277 | Anthony Mignacca |
 | 910 | 277 | Brianna Cerney |
 | 911 | 277 | Abby Klaski |
-| 912 | 277 | Beverly Hodge |
-| 913 | 277 | Patti Rone |
+| 912 | 277 | Patti Rone |
+| 913 | 277 | Beverly Hodge |
 | 914 | 276 | Patrick Bartlett |
 | 915 | 276 | Ryan Lauer |
 | 916 | 276 | Jamie Dayton |

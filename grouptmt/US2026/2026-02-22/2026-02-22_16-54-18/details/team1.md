@@ -126,8 +126,8 @@
 | 118 | 344 | Bhelle Sumile |
 | 119 | 343 | Death |
 | 120 | 342 | Brenda Stewart |
-| 121 | 341 | Nick R Montague |
-| 122 | 341 | David Miller |
+| 121 | 341 | David Miller |
+| 122 | 341 | Nick R Montague |
 | 123 | 334 | Jaimie Lynn |
 | 124 | 333 | Gracie |
 | 125 | 332 | Kristen Gideon |
@@ -180,8 +180,8 @@
 | 172 | 264 | Jenny Gingrich Fuentes |
 | 173 | 263 | Ty Brown |
 | 174 | 261 | Witty Builderfit |
-| 175 | 254 | Letson Melissa |
-| 176 | 254 | Al Smith Jr |
+| 175 | 254 | Al Smith Jr |
+| 176 | 254 | Letson Melissa |
 | 177 | 253 | Jamie Jury |
 | 178 | 252 | Billie Dawn Sparks |
 | 179 | 252 | Dena Kayy |
@@ -236,8 +236,8 @@
 | 228 | 207 | Leslie Bush Yarbrough |
 | 229 | 206 | BadG52 |
 | 230 | 205 | Tater |
-| 231 | 204 | Jason Savage |
-| 232 | 204 | Lacy Wolfe |
+| 231 | 204 | Lacy Wolfe |
+| 232 | 204 | Jason Savage |
 | 233 | 202 | Amanda Holibaugh |
 | 234 | 201 | Chad Atchley |
 | 235 | 201 | Colleen Wise |

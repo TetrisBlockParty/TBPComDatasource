@@ -168,8 +168,8 @@
 | 160 | 271 | Sarah Brown |
 | 161 | 269 | Nikki Rae Gordon |
 | 162 | 268 | Mimi |
-| 163 | 268 | Trista Leah |
-| 164 | 268 | Cursed Hag |
+| 163 | 268 | Cursed Hag |
+| 164 | 268 | Trista Leah |
 | 165 | 267 | Kathy Brookins |
 | 166 | 267 | Casey Grabner |
 | 167 | 267 | Damn Libra |
@@ -277,8 +277,8 @@
 | 269 | 165 | Zappy Buildgrid |
 | 270 | 164 | KimoKoala |
 | 271 | 163 | Ellen Durfee |
-| 272 | 162 | Gwendolyn Pitcairn |
-| 273 | 162 | John Brunetti |
+| 272 | 162 | John Brunetti |
+| 273 | 162 | Gwendolyn Pitcairn |
 | 274 | 162 | conceptCollector |
 | 275 | 161 | Tanner Lund |
 | 276 | 161 | Twisty Risebuilder |
