@@ -117,8 +117,8 @@
 | 109 | 393 | Carlton Unfiltered |
 | 110 | 392 | Ericca Eldridge |
 | 111 | 392 | Scott Jameson |
-| 112 | 391 | Monica Daley |
-| 113 | 391 | Ramel Rhodes |
+| 112 | 391 | Ramel Rhodes |
+| 113 | 391 | Monica Daley |
 | 114 | 388 | Tina Martinez |
 | 115 | 387 | Denise Carlson |
 | 116 | 373 | Joseph Guthrie |

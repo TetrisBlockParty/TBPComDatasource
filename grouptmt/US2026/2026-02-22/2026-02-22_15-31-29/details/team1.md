@@ -149,8 +149,8 @@
 | 141 | 290 | Death |
 | 142 | 288 | GATOR |
 | 143 | 285 | Ananda Mendez |
-| 144 | 284 | Emily Adelaide Wheatley |
-| 145 | 284 | Rachael |
+| 144 | 284 | Rachael |
+| 145 | 284 | Emily Adelaide Wheatley |
 | 146 | 283 | Franswa |
 | 147 | 282 | Snippy Wipebuilder |
 | 148 | 282 | Timothy Dew |
@@ -221,8 +221,8 @@
 | 213 | 207 | Brenda Alexander |
 | 214 | 207 | Leslie Bush Yarbrough |
 | 215 | 206 | BadG52 |
-| 216 | 205 | Tater |
-| 217 | 205 | Snappy Matcher |
+| 216 | 205 | Snappy Matcher |
+| 217 | 205 | Tater |
 | 218 | 204 | Lacy Wolfe |
 | 219 | 202 | Amanda Holibaugh |
 | 220 | 201 | Colleen Wise |
@@ -293,11 +293,11 @@
 | 285 | 168 | Angela Fairbank |
 | 286 | 166 | LD1 |
 | 287 | 166 | Carrie Smith |
-| 288 | 165 | Nadine Velardo |
-| 289 | 165 | Silly Align |
+| 288 | 165 | Silly Align |
+| 289 | 165 | Nadine Velardo |
 | 290 | 164 | Poppy Riserpiece |
-| 291 | 163 | Tyler Whitley |
-| 292 | 163 | Davery Spencer Adair |
+| 291 | 163 | Davery Spencer Adair |
+| 292 | 163 | Tyler Whitley |
 | 293 | 163 | Blaire Bruckoff |
 | 294 | 161 | Pauline Cortez |
 | 295 | 161 | SavageBooty98 |

@@ -459,8 +459,8 @@
 | 451 | 512 | Leslie Jorgenson |
 | 452 | 511 | Laura Mclean |
 | 453 | 509 | Kelli Wells |
-| 454 | 509 | Tonya Lee |
-| 455 | 509 | Jordan Kaiser |
+| 454 | 509 | Jordan Kaiser |
+| 455 | 509 | Tonya Lee |
 | 456 | 508 | Julay |
 | 457 | 507 | Magic steve |
 | 458 | 507 | Kitybox |
@@ -1098,9 +1098,9 @@
 | 1090 | 229 | Mrs. New |
 | 1091 | 229 | Richard Hunt |
 | 1092 | 229 | Nicolee Hackney |
-| 1093 | 228 | Kandy Charmz |
-| 1094 | 228 | Mo Shine On |
-| 1095 | 228 | Nutty Cascade |
+| 1093 | 228 | Mo Shine On |
+| 1094 | 228 | Nutty Cascade |
+| 1095 | 228 | Kandy Charmz |
 | 1096 | 228 | Patrick Fleming |
 | 1097 | 228 | Dara |
 | 1098 | 228 | Macy Jarrett |
@@ -1150,9 +1150,9 @@
 | 1142 | 222 | Daring Lift |
 | 1143 | 222 | Dione |
 | 1144 | 222 | Lovely |
-| 1145 | 221 | Sabrina Smith |
+| 1145 | 221 | Persipnei Cuesta |
 | 1146 | 221 | Clever Dashgrid |
-| 1147 | 221 | Persipnei Cuesta |
+| 1147 | 221 | Sabrina Smith |
 | 1148 | 221 | Spunky Dash |
 | 1149 | 221 | Chummy Caster |
 | 1150 | 220 | Natalie M Wells |
