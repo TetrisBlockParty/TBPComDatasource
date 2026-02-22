@@ -80,8 +80,8 @@
 | 72 | 533 | Eric Mcgaughy |
 | 73 | 533 | Chris Baggett |
 | 74 | 530 | Yoset Mejia |
-| 75 | 524 | Carolyn Wallace |
-| 76 | 524 | Amelpss |
+| 75 | 524 | Amelpss |
+| 76 | 524 | Carolyn Wallace |
 | 77 | 523 | Dawn Alexander |
 | 78 | 517 | H.R. Block |
 | 79 | 512 | Casey Jeffcoat |
@@ -215,8 +215,8 @@
 | 207 | 193 | Rio Rocha |
 | 208 | 192 | Shauna Havard |
 | 209 | 192 | Dizzy Matchzone |
-| 210 | 191 | Klo |
-| 211 | 191 | Sam Bishop |
+| 210 | 191 | Sam Bishop |
+| 211 | 191 | Klo |
 | 212 | 190 | Cheery Risebuilder |
 | 213 | 189 | Calvin Dennis |
 | 214 | 189 | Stacey Stano |
@@ -278,8 +278,8 @@
 | 270 | 148 | Ruby Khalisadar |
 | 271 | 148 | Janita Parrish |
 | 272 | 147 | B Renee Desjardin |
-| 273 | 147 | Adam Stephanie Parker |
-| 274 | 147 | Jay28 |
+| 273 | 147 | Jay28 |
+| 274 | 147 | Adam Stephanie Parker |
 | 275 | 146 | KimoKoala |
 | 276 | 145 | Sandra Safford |
 | 277 | 145 | Mimi |
@@ -352,8 +352,8 @@
 | 344 | 121 | Chris Alexinas |
 | 345 | 121 | Riverdale |
 | 346 | 121 | Jim Hart |
-| 347 | 120 | wombat |
-| 348 | 120 | Bryan Hodgins |
+| 347 | 120 | Bryan Hodgins |
+| 348 | 120 | wombat |
 | 349 | 119 | rebel4lyfe |
 | 350 | 119 | Gwendolyn Pitcairn |
 | 351 | 119 | River Shady Sr. |

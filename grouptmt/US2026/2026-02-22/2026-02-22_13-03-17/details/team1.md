@@ -54,8 +54,8 @@
 | 46 | 671 | Lawrence Belanger |
 | 47 | 663 | Drew Magnus |
 | 48 | 646 | Susanna Guerry |
-| 49 | 635 | Angel Fowler |
-| 50 | 635 | Marianne Louise West |
+| 49 | 635 | Marianne Louise West |
+| 50 | 635 | Angel Fowler |
 | 51 | 631 | comrade fish |
 | 52 | 627 | Katie Daniels |
 | 53 | 614 | Snappy Swiper |
@@ -127,8 +127,8 @@
 | 119 | 316 | Jennifer Hardman |
 | 120 | 316 | Dizzy Party |
 | 121 | 313 | Tanya Carpenter-Reynolds |
-| 122 | 310 | Seth Wesson |
-| 123 | 310 | Jason Jones |
+| 122 | 310 | Jason Jones |
+| 123 | 310 | Seth Wesson |
 | 124 | 308 | Sharon Reynolds |
 | 125 | 306 | Happy Basegrid |
 | 126 | 304 | Nicole Roseberry Weber |

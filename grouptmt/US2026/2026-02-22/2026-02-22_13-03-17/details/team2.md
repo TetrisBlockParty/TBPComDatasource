@@ -178,8 +178,8 @@
 | 170 | 1047 | Amy Sayers |
 | 171 | 1046 | Poppy Snap |
 | 172 | 1045 | Lourisha |
-| 173 | 1043 | Brave Dropmatch |
-| 174 | 1043 | Suki Kaur |
+| 173 | 1043 | Suki Kaur |
+| 174 | 1043 | Brave Dropmatch |
 | 175 | 1036 | Allison Lockyer |
 | 176 | 1035 | Sarah Freitas |
 | 177 | 1025 | Brandy Andre |
@@ -303,8 +303,8 @@
 | 295 | 697 | Dreamy Blast |
 | 296 | 696 | Jánine Riggs |
 | 297 | 695 | Lakeysha Dortch |
-| 298 | 692 | Dannette Goldberg-Richards |
-| 299 | 692 | Jennifer Casey-Kay |
+| 298 | 692 | Jennifer Casey-Kay |
+| 299 | 692 | Dannette Goldberg-Richards |
 | 300 | 691 | Joce Lynn |
 | 301 | 690 | Deborah Miller |
 | 302 | 689 | Giggy Blocker |
@@ -587,8 +587,8 @@
 | 579 | 396 | Candy Pitts |
 | 580 | 396 | AkaLefty |
 | 581 | 396 | Boogie SoAnimated Johnson |
-| 582 | 393 | bbv |
-| 583 | 393 | Jamie West |
+| 582 | 393 | Jamie West |
+| 583 | 393 | bbv |
 | 584 | 393 | Deyawn Smith |
 | 585 | 393 | Smashanator |
 | 586 | 391 | Adam Simmons |
@@ -820,8 +820,8 @@
 | 812 | 280 | Reece Smith |
 | 813 | 280 | Luke Califf |
 | 814 | 280 | Sandra Link-Gable |
-| 815 | 279 | Loony Basepiece |
-| 816 | 279 | Jennifer Coe |
+| 815 | 279 | Jennifer Coe |
+| 816 | 279 | Loony Basepiece |
 | 817 | 279 | Katherin Camacho |
 | 818 | 279 | Laura Wyatt |
 | 819 | 278 | AndrewandShela Gornik |
@@ -1142,12 +1142,12 @@
 | 1134 | 206 | Crystal EatableCupcake Stepney |
 | 1135 | 206 | Antonia Pike |
 | 1136 | 205 | SafetyEyes16 |
-| 1137 | 205 | Janis Resendiz |
-| 1138 | 205 | Shay Moore |
-| 1139 | 205 | Sabrina Smith |
+| 1137 | 205 | Sabrina Smith |
+| 1138 | 205 | Janis Resendiz |
+| 1139 | 205 | Shay Moore |
 | 1140 | 205 | Tiffney Wroten |
-| 1141 | 205 | Desiree Hargrove Moore |
-| 1142 | 205 | Cozy Drop |
+| 1141 | 205 | Cozy Drop |
+| 1142 | 205 | Desiree Hargrove Moore |
 | 1143 | 204 | ນາງ ບີ ລາດຊະຈັກ |
 | 1144 | 204 | Lakeela Wise |
 | 1145 | 204 | Ali Gralski |
@@ -1219,8 +1219,8 @@
 | 1211 | 193 | Miranda Morris |
 | 1212 | 193 | Kelly Ann McCormick |
 | 1213 | 192 | Donna M Carter |
-| 1214 | 192 | Dawn Woosley Bowes |
-| 1215 | 192 | Joy Marie |
+| 1214 | 192 | Joy Marie |
+| 1215 | 192 | Dawn Woosley Bowes |
 | 1216 | 192 | Leroy Jenkins |
 | 1217 | 192 | Hoppy Tilefall |
 | 1218 | 192 | Nicole Sanqui |

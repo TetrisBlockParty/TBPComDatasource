@@ -257,8 +257,8 @@
 | 249 | 260 | Grams |
 | 250 | 259 | Danielle Weikel |
 | 251 | 257 | Ashley Jones |
-| 252 | 256 | Tiffany Davie |
-| 253 | 256 | KayB |
+| 252 | 256 | KayB |
+| 253 | 256 | Tiffany Davie |
 | 254 | 255 | Nikki Pags |
 | 255 | 252 | Roary Danner |
 | 256 | 250 | fraulila |
@@ -292,8 +292,8 @@
 | 284 | 220 | rosy |
 | 285 | 218 | Michael Lucado |
 | 286 | 217 | Angela Scott |
-| 287 | 216 | Cheryl Hinch Tenbrook |
-| 288 | 216 | Twisty Brick LT |
+| 287 | 216 | Twisty Brick LT |
+| 288 | 216 | Cheryl Hinch Tenbrook |
 | 289 | 215 | IamJust Neyamijah Washington Sr. |
 | 290 | 214 | Amy Fuller Heaton |
 | 291 | 214 | Rebel124 |
@@ -308,8 +308,8 @@
 | 300 | 210 | Lizabeth Fox |
 | 301 | 209 | Micayah Stevens |
 | 302 | 208 | AlsoJess |
-| 303 | 207 | Jessica |
-| 304 | 207 | Daring Builder |
+| 303 | 207 | Daring Builder |
+| 304 | 207 | Jessica |
 | 305 | 207 | angieelyn |
 | 306 | 206 | Tammy Rosenberry |
 | 307 | 206 | Tracy Martin |
@@ -348,8 +348,8 @@
 | 340 | 184 | Shanon R Jackson |
 | 341 | 183 | Cesar Barraza |
 | 342 | 183 | Salena Whitlock |
-| 343 | 181 | Denita Mungro |
-| 344 | 181 | Michael Johnson |
+| 343 | 181 | Michael Johnson |
+| 344 | 181 | Denita Mungro |
 | 345 | 180 | Beth Ingham |
 | 346 | 179 | DanceLuvLaugh |
 | 347 | 179 | Rachel Napper |
@@ -364,8 +364,8 @@
 | 356 | 174 | TotoCherue |
 | 357 | 174 | Lesley Perez |
 | 358 | 173 | MizzMonick Smith |
-| 359 | 173 | Naur |
-| 360 | 173 | BŘŰŤİÇŨŚ |
+| 359 | 173 | BŘŰŤİÇŨŚ |
+| 360 | 173 | Naur |
 | 361 | 170 | Colleen Phelps |
 | 362 | 170 | Tina Smith Roy |
 | 363 | 169 | Peachy Rollfit |
