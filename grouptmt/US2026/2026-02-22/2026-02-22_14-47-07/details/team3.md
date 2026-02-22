@@ -113,8 +113,8 @@
 | 105 | 568 | Rachael McClain Owens |
 | 106 | 566 | Dolores Falco |
 | 107 | 565 | Patty Allen |
-| 108 | 562 | Dave Herzog |
-| 109 | 562 | Louise Stacy Sisson |
+| 108 | 562 | Louise Stacy Sisson |
+| 109 | 562 | Dave Herzog |
 | 110 | 560 | Christine Filson |
 | 111 | 559 | Morgan Martinez |
 | 112 | 551 | Kristie |
@@ -151,8 +151,8 @@
 | 143 | 449 | Danielle Rhoades |
 | 144 | 448 | Karon Griffin |
 | 145 | 445 | Shannon Matthew Byers |
-| 146 | 445 | Jacqueline Rodriguez |
-| 147 | 445 | Kristie McFarland |
+| 146 | 445 | Kristie McFarland |
+| 147 | 445 | Jacqueline Rodriguez |
 | 148 | 439 | Michelle |
 | 149 | 434 | Logan Naccarato |
 | 150 | 432 | Jenny Hrndz |
@@ -169,8 +169,8 @@
 | 161 | 403 | Scott Lindsay |
 | 162 | 401 | Katie Knaus |
 | 163 | 400 | Luciana Braganca Vieira |
-| 164 | 399 | Marcie Bressler |
-| 165 | 399 | Mcathen |
+| 164 | 399 | Mcathen |
+| 165 | 399 | Marcie Bressler |
 | 166 | 397 | Annie Déè |
 | 167 | 393 | Fallorina Susana |
 | 168 | 391 | Calista Jo Dickson |
@@ -272,8 +272,8 @@
 | 264 | 253 | Connie Mohler-Fair |
 | 265 | 252 | Roary Danner |
 | 266 | 250 | fraulila |
-| 267 | 249 | Annie Marie |
-| 268 | 249 | Hasty Gridpiece |
+| 267 | 249 | Hasty Gridpiece |
+| 268 | 249 | Annie Marie |
 | 269 | 246 | Peppy Shifter |
 | 270 | 245 | Latoya Mayne |
 | 271 | 244 | LaNette Morgan |
@@ -287,13 +287,13 @@
 | 279 | 236 | Jess Bissett |
 | 280 | 235 | Cozy Snaplink |
 | 281 | 234 | Lys |
-| 282 | 233 | Josh Borquez |
-| 283 | 233 | Ray Lader |
+| 282 | 233 | Ray Lader |
+| 283 | 233 | Josh Borquez |
 | 284 | 232 | Donna |
 | 285 | 227 | Krystal Gerstberger |
 | 286 | 227 | Meowsa |
-| 287 | 225 | Stephanie Hill |
-| 288 | 225 | Dirtgirl27 |
+| 287 | 225 | Dirtgirl27 |
+| 288 | 225 | Stephanie Hill |
 | 289 | 225 | Steffi Chris Dacones |
 | 290 | 224 | Quirky Dropzone |
 | 291 | 221 | Jaime Monhaut-Reed |
@@ -369,15 +369,15 @@
 | 361 | 180 | Ava Petito |
 | 362 | 180 | Loopy Fallzone |
 | 363 | 180 | Beth Ingham |
-| 364 | 179 | DanceLuvLaugh |
-| 365 | 179 | Rachel Napper |
+| 364 | 179 | Rachel Napper |
+| 365 | 179 | DanceLuvLaugh |
 | 366 | 178 | Jess Dearborn |
 | 367 | 177 | Kristin Delibac Corrigan |
 | 368 | 176 | Skinny Baldez |
 | 369 | 176 | Emma |
 | 370 | 175 | Wacky Crasher |
-| 371 | 174 | Lesley Perez |
-| 372 | 174 | Sierra Spencer |
+| 371 | 174 | Sierra Spencer |
+| 372 | 174 | Lesley Perez |
 | 373 | 174 | TotoCherue |
 | 374 | 173 | Kiki |
 | 375 | 173 | Naur |
@@ -493,8 +493,8 @@
 | 485 | 134 | Tammy |
 | 486 | 134 | Maia |
 | 487 | 134 | Brian Battjes |
-| 488 | 133 | Jumpy Wrecker |
-| 489 | 133 | Chummy Rumbler |
+| 488 | 133 | Chummy Rumbler |
+| 489 | 133 | Jumpy Wrecker |
 | 490 | 132 | Andrew Thorson |
 | 491 | 131 | Erin Ervin |
 | 492 | 131 | Jolly Dashpiece |

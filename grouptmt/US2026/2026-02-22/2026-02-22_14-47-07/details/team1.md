@@ -204,8 +204,8 @@
 | 196 | 215 | Shaykmia |
 | 197 | 214 | LaFontaine Leslie |
 | 198 | 213 | Daring Fitclear |
-| 199 | 210 | Letson Melissa |
-| 200 | 210 | Giggly Builderline |
+| 199 | 210 | Giggly Builderline |
+| 200 | 210 | Letson Melissa |
 | 201 | 209 | Cece Ibarra |
 | 202 | 208 | Bouncy Grid |
 | 203 | 208 | Michelle Beres |
@@ -214,17 +214,17 @@
 | 206 | 207 | Leslie Bush Yarbrough |
 | 207 | 207 | Brenda Alexander |
 | 208 | 206 | BadG52 |
-| 209 | 205 | Snappy Matcher |
-| 210 | 205 | Tater |
+| 209 | 205 | Tater |
+| 210 | 205 | Snappy Matcher |
 | 211 | 205 | Christy Jones |
 | 212 | 204 | Lacy Wolfe |
 | 213 | 202 | Amanda Holibaugh |
 | 214 | 201 | Colleen Wise |
-| 215 | 200 | Flashy Rotator |
-| 216 | 200 | Breanna Luna |
+| 215 | 200 | Breanna Luna |
+| 216 | 200 | Flashy Rotator |
 | 217 | 199 | Alenoush Karimian |
-| 218 | 198 | Happy Snapbuild |
-| 219 | 198 | Shiny Gridmatch |
+| 218 | 198 | Shiny Gridmatch |
+| 219 | 198 | Happy Snapbuild |
 | 220 | 197 | Melissa Lemmon |
 | 221 | 196 | Michael |
 | 222 | 195 | Bindi |
@@ -252,12 +252,12 @@
 | 244 | 183 | Chad Atchley |
 | 245 | 183 | Brave Wrecker |
 | 246 | 182 | Phu ckalldems |
-| 247 | 180 | Matt Iaccheo |
+| 247 | 180 | Jessie Lynn |
 | 248 | 180 | BigWeenie69 |
-| 249 | 180 | Jessie Lynn |
+| 249 | 180 | Matt Iaccheo |
 | 250 | 180 | Beau Galvan |
-| 251 | 179 | Ryan White |
-| 252 | 179 | Erin Rosberg |
+| 251 | 179 | Erin Rosberg |
+| 252 | 179 | Ryan White |
 | 253 | 179 | Danielle Little-Daugherty |
 | 254 | 178 | Gabrielle Louise Malloch |
 | 255 | 177 | Herm Junior |
