@@ -76,8 +76,8 @@
 | 68 | 604 | Danielle Becker |
 | 69 | 596 | Jessica Bechler |
 | 70 | 588 | yoyo |
-| 71 | 582 | Jay Horn |
-| 72 | 582 | Katrina Schroeder |
+| 71 | 582 | Katrina Schroeder |
+| 72 | 582 | Jay Horn |
 | 73 | 582 | Natasha Jones |
 | 74 | 581 | Danielle Mogg |
 | 75 | 580 | Amanda L Baker |
@@ -163,9 +163,9 @@
 | 155 | 300 | Sherika C. McDaniels |
 | 156 | 295 | Jim Mathews |
 | 157 | 293 | Poppy Splitter |
-| 158 | 289 | DidIdothat |
-| 159 | 289 | Hoppy Buildout |
-| 160 | 289 | Daryn Elliott |
+| 158 | 289 | Hoppy Buildout |
+| 159 | 289 | Daryn Elliott |
+| 160 | 289 | DidIdothat |
 | 161 | 288 | Marci Mize Fandrich |
 | 162 | 286 | Cynthia Herrmann Egland |
 | 163 | 286 | Jacqueline Rodriguez |
@@ -326,9 +326,9 @@
 | 318 | 142 | Gray Hicks |
 | 319 | 141 | Weerae |
 | 320 | 139 | Melissa Snyder |
-| 321 | 138 | Boldy Corner |
-| 322 | 138 | Skinny Baldez |
-| 323 | 138 | Pam Holt Powell |
+| 321 | 138 | Pam Holt Powell |
+| 322 | 138 | Boldy Corner |
+| 323 | 138 | Skinny Baldez |
 | 324 | 137 | kacihall |
 | 325 | 137 | sofaking |
 | 326 | 136 | Blair Erin Waite |

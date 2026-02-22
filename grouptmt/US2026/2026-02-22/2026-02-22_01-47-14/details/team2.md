@@ -269,8 +269,8 @@
 | 261 | 583 | Steve Grotto |
 | 262 | 583 | Jessicah Myers |
 | 263 | 582 | Gary Stash |
-| 264 | 579 | Roy Salyer |
-| 265 | 579 | Juliana Marques Do Nascimento Gordy |
+| 264 | 579 | Juliana Marques Do Nascimento Gordy |
+| 265 | 579 | Roy Salyer |
 | 266 | 578 | Sally Dennis |
 | 267 | 576 | Ginger |
 | 268 | 572 | tejas25 |

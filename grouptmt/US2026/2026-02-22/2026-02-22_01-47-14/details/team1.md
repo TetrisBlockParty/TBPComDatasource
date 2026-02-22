@@ -90,15 +90,15 @@
 | 82 | 323 | Candy Jones |
 | 83 | 323 | Sweet Baker |
 | 84 | 321 | Maria C. Hernandez |
-| 85 | 319 | Shauna Loe |
-| 86 | 319 | Deanna L Hermanson |
+| 85 | 319 | Deanna L Hermanson |
+| 86 | 319 | Shauna Loe |
 | 87 | 311 | Tanya Carpenter-Reynolds |
 | 88 | 310 | Seth Wesson |
 | 89 | 305 | Patrick Luckenbill |
 | 90 | 304 | Nicole Roseberry Weber |
 | 91 | 303 | cc |
-| 92 | 301 | Hyper |
-| 93 | 301 | Lehrin Maria |
+| 92 | 301 | Lehrin Maria |
+| 93 | 301 | Hyper |
 | 94 | 298 | Carrie Beck Geartz |
 | 95 | 295 | Spunky Piecebuilder |
 | 96 | 293 | Adam Byrd |
@@ -156,10 +156,10 @@
 | 148 | 190 | Thorne Shumate |
 | 149 | 190 | Sweetts |
 | 150 | 188 | Sam Williams |
-| 151 | 187 | Snippy Wipebuilder |
-| 152 | 187 | Jennifer Olewnik Soborowski |
-| 153 | 186 | Margo Wagner |
-| 154 | 186 | Michael |
+| 151 | 187 | Jennifer Olewnik Soborowski |
+| 152 | 187 | Snippy Wipebuilder |
+| 153 | 186 | Michael |
+| 154 | 186 | Margo Wagner |
 | 155 | 185 | Basment Living |
 | 156 | 182 | Monica Donato |
 | 157 | 180 | BigWeenie69 |
@@ -185,7 +185,7 @@
 | 177 | 168 | Lori Bales |
 | 178 | 167 | Erin Hodges Plumb |
 | 179 | 167 | Bouncy Grid |
-| 180 | 167 | Erin Hodges Plumb |
+| 180 | 167 | Nery Martinez |
 | 181 | 166 | Rico Rico |
 | 182 | 165 | Nadine Velardo |
 | 183 | 165 | Arianna O'Brien |
@@ -206,10 +206,10 @@
 | 198 | 147 | DaRascal |
 | 199 | 146 | Brave Wrecker |
 | 200 | 145 | Agustin Duarte Orozco |
-| 201 | 144 | Toph |
-| 202 | 144 | Cranky Pattern |
+| 201 | 144 | Cranky Pattern |
+| 202 | 144 | Gary Gobin |
 | 203 | 144 | Miguel Teixeira |
-| 204 | 144 | Gary Gobin |
+| 204 | 144 | Toph |
 | 205 | 142 | Colleen Wise |
 | 206 | 141 | Dino |
 | 207 | 141 | Kimberly Garcia |
