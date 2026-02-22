@@ -110,8 +110,8 @@
 | 102 | 389 | Nery Martinez |
 | 103 | 383 | pjbeta |
 | 104 | 380 | Dee Perry |
-| 105 | 379 | Austin James |
-| 106 | 379 | Kimmie Kimms |
+| 105 | 379 | Kimmie Kimms |
+| 106 | 379 | Austin James |
 | 107 | 376 | lil mickey |
 | 108 | 374 | Tinah Montanna |
 | 109 | 364 | Ly Phethmany |
@@ -135,8 +135,8 @@
 | 127 | 328 | Fmp |
 | 128 | 326 | Monica Donato |
 | 129 | 325 | Jennifer Hardman |
-| 130 | 321 | Tanya Carpenter-Reynolds |
-| 131 | 321 | Maria C. Hernandez |
+| 130 | 321 | Maria C. Hernandez |
+| 131 | 321 | Tanya Carpenter-Reynolds |
 | 132 | 320 | Wisa |
 | 133 | 318 | Jessica Sheehan |
 | 134 | 316 | Dizzy Party |
@@ -189,8 +189,8 @@
 | 181 | 251 | Giggly Builderline |
 | 182 | 249 | Lakeisha Chapman |
 | 183 | 246 | Mike Ames |
-| 184 | 244 | Eddie Dillon |
-| 185 | 244 | Marianita Garcia |
+| 184 | 244 | Marianita Garcia |
+| 185 | 244 | Eddie Dillon |
 | 186 | 243 | Trippy Redd |
 | 187 | 242 | John Kim |
 | 188 | 241 | John J. Cronin |
@@ -269,9 +269,9 @@
 | 261 | 187 | Tawnya Peltonen |
 | 262 | 186 | Margo Wagner |
 | 263 | 184 | Chris Sigurdson |
-| 264 | 183 | Brave Wrecker |
+| 264 | 183 | Amy Hess |
 | 265 | 183 | Tiger Lily |
-| 266 | 183 | Amy Hess |
+| 266 | 183 | Brave Wrecker |
 | 267 | 182 | Phu ckalldems |
 | 268 | 181 | David DeSantis |
 | 269 | 180 | Matt Iaccheo |
@@ -366,7 +366,7 @@
 | 358 | 138 | Hector Cruz |
 | 359 | 137 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 360 | 137 | Gina Bettikofer |
-| 361 | 136 | Itspaigebro |
+| 361 | 136 | Jennifer Chilton-Metlock |
 | 362 | 136 | Amanda Stevens |
 | 363 | 136 | Itspaigebro |
 | 364 | 135 | Christina Backer |

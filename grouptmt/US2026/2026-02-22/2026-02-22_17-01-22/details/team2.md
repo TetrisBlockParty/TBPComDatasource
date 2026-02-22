@@ -210,8 +210,8 @@
 | 202 | 998 | Tralonda Weeks |
 | 203 | 993 | Eric Carlson |
 | 204 | 991 | Moose Griffith |
-| 205 | 989 | Teddi Notyalc |
-| 206 | 989 | Desiree Harris Rosch |
+| 205 | 989 | Desiree Harris Rosch |
+| 206 | 989 | Teddi Notyalc |
 | 207 | 988 | Cherica Taylor |
 | 208 | 986 | RAEPR05 |
 | 209 | 979 | Hillary Crawford |
@@ -255,16 +255,16 @@
 | 247 | 875 | Jamie Otero |
 | 248 | 874 | Giggy Blocker |
 | 249 | 869 | Felicia Lynn |
-| 250 | 867 | Michele Gabriel |
-| 251 | 867 | Peppy Zone |
+| 250 | 867 | Peppy Zone |
+| 251 | 867 | Michele Gabriel |
 | 252 | 862 | Brittany Radaszewski |
 | 253 | 860 | William Hunt |
 | 254 | 860 | April Dawn Gussler |
 | 255 | 860 | John Bednarik |
 | 256 | 857 | Della Hole |
 | 257 | 855 | F-X |
-| 258 | 853 | Meghan M |
-| 259 | 853 | Maria Escobar |
+| 258 | 853 | Maria Escobar |
+| 259 | 853 | Meghan M |
 | 260 | 845 | Sheniya Spurgeon |
 | 261 | 844 | Terri McKelvey McKinley |
 | 262 | 842 | Elizabeth Wilbanks |
@@ -363,8 +363,8 @@
 | 355 | 661 | Christine Bollig |
 | 356 | 659 | Draizen Montrell Thomas |
 | 357 | 651 | Unica Rector |
-| 358 | 650 | Amber Brion |
-| 359 | 650 | Shiny Rollzone |
+| 358 | 650 | Shiny Rollzone |
+| 359 | 650 | Amber Brion |
 | 360 | 644 | AgileDragon |
 | 361 | 643 | Hoppy Brickmatch |
 | 362 | 641 | Vonceial Boone |
@@ -374,8 +374,8 @@
 | 366 | 639 | Rebecca Miller |
 | 367 | 634 | Gary Stash |
 | 368 | 633 | Breezy Filler |
-| 369 | 631 | Marie Walker |
-| 370 | 631 | Dylan Thomason |
+| 369 | 631 | Dylan Thomason |
+| 370 | 631 | Marie Walker |
 | 371 | 629 | Heather Schelkopf |
 | 372 | 628 | Brownie Sheena |
 | 373 | 627 | Allan Wayne Lamia |
@@ -438,8 +438,8 @@
 | 430 | 554 | Tra Barnum |
 | 431 | 551 | Julay |
 | 432 | 549 | Frisky Clearpiece |
-| 433 | 549 | Kaylee McCafferty |
-| 434 | 549 | Darcy Mae |
+| 433 | 549 | Darcy Mae |
+| 434 | 549 | Kaylee McCafferty |
 | 435 | 548 | AISlop |
 | 436 | 547 | Osun Anuket Esu |
 | 437 | 545 | Sparkles |
@@ -462,8 +462,8 @@
 | 454 | 524 | Lonne Emade |
 | 455 | 523 | Matt Johnson |
 | 456 | 522 | Leah |
-| 457 | 520 | Maddy Petersen |
-| 458 | 520 | Joshua Self |
+| 457 | 520 | Joshua Self |
+| 458 | 520 | Maddy Petersen |
 | 459 | 519 | Rob Brown |
 | 460 | 518 | Dennis McLaurin |
 | 461 | 518 | Doowop40 |
@@ -505,8 +505,8 @@
 | 497 | 487 | Morgan Easter |
 | 498 | 487 | Michael Artis |
 | 499 | 485 | Mamachelle Eisweirth |
-| 500 | 484 | Wendy Unsain |
-| 501 | 484 | Street Sweeper |
+| 500 | 484 | Street Sweeper |
+| 501 | 484 | Wendy Unsain |
 | 502 | 483 | Alezandra Smith |
 | 503 | 482 | Amélie Cadieux |
 | 504 | 482 | Drwatson187 |
@@ -740,8 +740,8 @@
 | 732 | 344 | Sarah block |
 | 733 | 344 | stacey |
 | 734 | 343 | Cris cris |
-| 735 | 343 | Snappy Shatterfit |
-| 736 | 343 | bru |
+| 735 | 343 | bru |
+| 736 | 343 | Snappy Shatterfit |
 | 737 | 342 | Danielle DeLozier Plesec |
 | 738 | 339 | Twisty Tetriblast |
 | 739 | 339 | Patrick Fleming |

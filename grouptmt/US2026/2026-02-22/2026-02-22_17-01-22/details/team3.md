@@ -259,8 +259,8 @@
 | 251 | 282 | Angie Harper |
 | 252 | 281 | Carrie Huskey |
 | 253 | 280 | Terry Jo Jones |
-| 254 | 278 | Sabrina Hardrick |
-| 255 | 278 | Rufus Lincoln |
+| 254 | 278 | Rufus Lincoln |
+| 255 | 278 | Sabrina Hardrick |
 | 256 | 277 | Tracy Martin |
 | 257 | 276 | Crimson |
 | 258 | 276 | _melisa223_ |
@@ -389,8 +389,8 @@
 | 381 | 186 | Noettín Kan Zasnemoore |
 | 382 | 186 | Sameerah Smith |
 | 383 | 186 | Bryan Byrd |
-| 384 | 185 | Angella Lyons |
-| 385 | 185 | Frilly Stackzone |
+| 384 | 185 | Frilly Stackzone |
+| 385 | 185 | Angella Lyons |
 | 386 | 184 | Shanon R Jackson |
 | 387 | 184 | Salena Whitlock |
 | 388 | 184 | Crystal Hine |

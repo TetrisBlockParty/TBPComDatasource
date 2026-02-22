@@ -144,8 +144,8 @@
 | 136 | 319 | Guy Incognito |
 | 137 | 318 | Lauren Scott |
 | 138 | 314 | Andy Cabral |
-| 139 | 307 | Angela Srubar-Norman |
-| 140 | 307 | Bio Nelly |
+| 139 | 307 | Bio Nelly |
+| 140 | 307 | Angela Srubar-Norman |
 | 141 | 300 | Jason Hart |
 | 142 | 300 | Dana Scott |
 | 143 | 299 | TRCuse |
@@ -215,8 +215,8 @@
 | 207 | 221 | Rheanda Weaskus |
 | 208 | 219 | Malakai Darien Fox |
 | 209 | 217 | Kim Hunt |
-| 210 | 216 | ZeeZee |
-| 211 | 216 | Cristy Duerksen |
+| 210 | 216 | Cristy Duerksen |
+| 211 | 216 | ZeeZee |
 | 212 | 216 | Chance Strickland |
 | 213 | 215 | Ziggy |
 | 214 | 213 | Sarah Neathery |
@@ -233,8 +233,8 @@
 | 225 | 203 | Katherine Crane |
 | 226 | 202 | Patron Anderson |
 | 227 | 201 | Melvin Baird |
-| 228 | 200 | Rebecca Morris |
-| 229 | 200 | Googenheim |
+| 228 | 200 | Googenheim |
+| 229 | 200 | Rebecca Morris |
 | 230 | 200 | Lori |
 | 231 | 199 | April Rondinone |
 | 232 | 198 | Silly SeaWeed |
@@ -281,10 +281,10 @@
 | 273 | 162 | Gwendolyn Pitcairn |
 | 274 | 162 | John Brunetti |
 | 275 | 162 | conceptCollector |
-| 276 | 161 | Twisty Risebuilder |
-| 277 | 161 | Tanner Lund |
-| 278 | 159 | Marcus Todd |
-| 279 | 159 | DonMega |
+| 276 | 161 | Tanner Lund |
+| 277 | 161 | Twisty Risebuilder |
+| 278 | 159 | DonMega |
+| 279 | 159 | Marcus Todd |
 | 280 | 157 | Bethany Ison |
 | 281 | 157 | KayM |
 | 282 | 157 | B Renee Desjardin |
