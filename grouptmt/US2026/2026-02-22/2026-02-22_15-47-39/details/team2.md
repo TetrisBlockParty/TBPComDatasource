@@ -189,8 +189,8 @@
 | 181 | 1062 | Crystal Slaughter |
 | 182 | 1050 | Amy Sayers |
 | 183 | 1045 | Lourisha |
-| 184 | 1043 | Suki Kaur |
-| 185 | 1043 | Brave Dropmatch |
+| 184 | 1043 | Brave Dropmatch |
+| 185 | 1043 | Suki Kaur |
 | 186 | 1036 | Allison Lockyer |
 | 187 | 1024 | Bri Lynn |
 | 188 | 1024 | Prado |
@@ -318,8 +318,8 @@
 | 310 | 715 | Stephanie Lumanlan |
 | 311 | 713 | Chelle |
 | 312 | 711 | Melissa Holsinger |
-| 313 | 704 | Jánine Riggs |
-| 314 | 704 | Shelley Thornburgh Wright |
+| 313 | 704 | Shelley Thornburgh Wright |
+| 314 | 704 | Jánine Riggs |
 | 315 | 703 | Gold Rose |
 | 316 | 700 | Vincent Petrella |
 | 317 | 700 | Hong Tang |
@@ -334,8 +334,8 @@
 | 326 | 688 | ShinyRose |
 | 327 | 687 | Dee |
 | 328 | 686 | Ashley Guernsey-Martin |
-| 329 | 685 | Binyah-Binyah |
-| 330 | 685 | Brenda Pierpoint |
+| 329 | 685 | Brenda Pierpoint |
+| 330 | 685 | Binyah-Binyah |
 | 331 | 682 | Poldo Ilano |
 | 332 | 680 | Glitzy Stackzone |
 | 333 | 679 | Eric Castaneda |
@@ -412,8 +412,8 @@
 | 404 | 563 | Irene Jones |
 | 405 | 563 | snkylnk |
 | 406 | 561 | Traci Johnson |
-| 407 | 558 | Mikayala Szaz |
-| 408 | 558 | Libby Hicks |
+| 407 | 558 | Libby Hicks |
+| 408 | 558 | Mikayala Szaz |
 | 409 | 556 | Slip |
 | 410 | 554 | Santana Miyagi |
 | 411 | 554 | Rachael Senard |
@@ -535,7 +535,7 @@
 | 527 | 453 | Rhonda Petro |
 | 528 | 452 | Juanita Lyons |
 | 529 | 451 | Lee Harper |
-| 530 | 451 | KayLynn Ogden McClelland |
+| 530 | 451 | Anthony Huebel |
 | 531 | 451 | Funky Caster |
 | 532 | 451 | KayLynn Ogden McClelland |
 | 533 | 450 | blume |

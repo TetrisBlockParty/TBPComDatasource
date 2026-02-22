@@ -143,8 +143,8 @@
 | 135 | 314 | Andy Cabral |
 | 136 | 304 | Guy Incognito |
 | 137 | 303 | Lauren Scott |
-| 138 | 300 | Dana Scott |
-| 139 | 300 | Jason Hart |
+| 138 | 300 | Jason Hart |
+| 139 | 300 | Dana Scott |
 | 140 | 299 | TRCuse |
 | 141 | 298 | Lucas J Sutton |
 | 142 | 295 | Bio Nelly |
@@ -162,8 +162,8 @@
 | 154 | 275 | Dizzy Tiley |
 | 155 | 274 | Calvin Cannon |
 | 156 | 273 | Crystal Nicolette Moore |
-| 157 | 272 | Keshia Lyons |
-| 158 | 272 | Alan George LaRage |
+| 157 | 272 | Alan George LaRage |
+| 158 | 272 | Keshia Lyons |
 | 159 | 271 | Sarah Brown |
 | 160 | 269 | Nikki Rae Gordon |
 | 161 | 268 | Cursed Hag |
@@ -250,8 +250,8 @@
 | 242 | 184 | Lauren Lamb |
 | 243 | 184 | Ak Jones |
 | 244 | 183 | JPW |
-| 245 | 181 | Jackie Marie |
-| 246 | 181 | Carter Jones |
+| 245 | 181 | Carter Jones |
+| 246 | 181 | Jackie Marie |
 | 247 | 180 | Orchislactea |
 | 248 | 179 | TinyLegoRose |
 | 249 | 179 | Christina Black |
@@ -292,23 +292,23 @@
 | 284 | 153 | Empress Oasis |
 | 285 | 152 | Angela Geist Jusinski |
 | 286 | 152 | Faja |
-| 287 | 151 | Shanon Klair |
-| 288 | 151 | Joseph Pace |
+| 287 | 151 | Joseph Pace |
+| 288 | 151 | Shanon Klair |
 | 289 | 151 | Sarah Hoffman |
 | 290 | 151 | Amanda Christine |
 | 291 | 150 | Jared Gutwein |
 | 292 | 150 | Brandon Link |
 | 293 | 150 | GBR |
-| 294 | 148 | Cranky Rollpiece |
-| 295 | 148 | Nubian1 |
+| 294 | 148 | Nubian1 |
+| 295 | 148 | Cranky Rollpiece |
 | 296 | 148 | Sam Middleton |
 | 297 | 148 | Janita Parrish |
 | 298 | 148 | Ruby Khalisadar |
 | 299 | 147 | Adam Stephanie Parker |
 | 300 | 147 | Jay28 |
-| 301 | 145 | Daring Pivot |
-| 302 | 145 | Glitzy Crasher |
-| 303 | 145 | Sandra Safford |
+| 301 | 145 | Glitzy Crasher |
+| 302 | 145 | Sandra Safford |
+| 303 | 145 | Daring Pivot |
 | 304 | 145 | Nick Gray |
 | 305 | 144 | Sticherella |
 | 306 | 144 | Circuit8 |
@@ -350,10 +350,10 @@
 | 342 | 132 | Melissa Priest Sellers |
 | 343 | 132 | Degenerate |
 | 344 | 132 | Vamp |
-| 345 | 131 | Smiley Tiltbuilder |
-| 346 | 131 | Peppy Drop |
-| 347 | 130 | Shukee Lo |
-| 348 | 130 | Zach Kerbs |
+| 345 | 131 | Peppy Drop |
+| 346 | 131 | Smiley Tiltbuilder |
+| 347 | 130 | Zach Kerbs |
+| 348 | 130 | Shukee Lo |
 | 349 | 130 | icequeenx |
 | 350 | 129 | Dreamy Snapgrid |
 | 351 | 129 | Sherri |

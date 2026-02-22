@@ -235,8 +235,8 @@
 | 227 | 305 | Rebecca Bailey |
 | 228 | 301 | Betty Rosas |
 | 229 | 300 | Sherika C. McDaniels |
-| 230 | 299 | Brandon Givens |
-| 231 | 299 | Melissa Orth Hunter |
+| 230 | 299 | Melissa Orth Hunter |
+| 231 | 299 | Brandon Givens |
 | 232 | 298 | MsBee |
 | 233 | 297 | Jojo M |
 | 234 | 296 | Peppy Shifter |
@@ -265,8 +265,8 @@
 | 257 | 271 | Grego Daniel |
 | 258 | 267 | Tiffany Davie |
 | 259 | 266 | Quirky Dropzone |
-| 260 | 262 | Ray Lader |
-| 261 | 262 | Joe-Maggie Mathews |
+| 260 | 262 | Joe-Maggie Mathews |
+| 261 | 262 | Ray Lader |
 | 262 | 261 | Tiffany Ford |
 | 263 | 260 | Nikki Pags |
 | 264 | 260 | Grams |
@@ -344,8 +344,8 @@
 | 336 | 205 | Kirhonda Autmon |
 | 337 | 204 | Aerian Preston |
 | 338 | 204 | Cesar Barraza |
-| 339 | 203 | Angie Harper |
-| 340 | 203 | Snazzy Filler |
+| 339 | 203 | Snazzy Filler |
+| 340 | 203 | Angie Harper |
 | 341 | 202 | Tipsy Zonebuilder |
 | 342 | 201 | Hyper Matchzone |
 | 343 | 200 | Everret Maxine |

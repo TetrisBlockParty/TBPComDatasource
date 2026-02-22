@@ -347,8 +347,8 @@
 | 339 | 139 | Cozy Shatterer |
 | 340 | 139 | Aimee Horton |
 | 341 | 138 | Hector Cruz |
-| 342 | 138 | Lynn Adams |
-| 343 | 138 | Ruthie Mahoney Saunders-Browne |
+| 342 | 138 | Ruthie Mahoney Saunders-Browne |
+| 343 | 138 | Lynn Adams |
 | 344 | 137 | Gina Bettikofer |
 | 345 | 137 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 346 | 136 | Jennifer Chilton-Metlock |
