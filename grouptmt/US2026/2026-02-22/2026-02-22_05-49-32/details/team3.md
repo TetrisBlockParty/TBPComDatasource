@@ -137,8 +137,8 @@
 | 129 | 416 | Mary Pellegrino |
 | 130 | 415 | ren |
 | 131 | 411 | FuzzyNavel |
-| 132 | 410 | Stephanie Simpson |
-| 133 | 410 | Stephanie Blkpep Davidson |
+| 132 | 410 | Stephanie Blkpep Davidson |
+| 133 | 410 | Stephanie Simpson |
 | 134 | 409 | Karon Griffin |
 | 135 | 407 | Joye Sims Binion |
 | 136 | 405 | Michelle |
@@ -219,8 +219,8 @@
 | 211 | 272 | opf |
 | 212 | 272 | Dee Franklin |
 | 213 | 271 | Ashley Muncey |
-| 214 | 267 | Denise Nardoni |
-| 215 | 267 | Terry Jo Jones |
+| 214 | 267 | Terry Jo Jones |
+| 215 | 267 | Denise Nardoni |
 | 216 | 265 | Sarah Moyer |
 | 217 | 265 | Scott Carleton |
 | 218 | 264 | Grego Daniel |

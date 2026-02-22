@@ -153,8 +153,8 @@
 | 145 | 1051 | Shandrica Lowe |
 | 146 | 1048 | PsychKIRAtrist |
 | 147 | 1047 | Amy Sayers |
-| 148 | 1043 | Brave Dropmatch |
-| 149 | 1043 | Suki Kaur |
+| 148 | 1043 | Suki Kaur |
+| 149 | 1043 | Brave Dropmatch |
 | 150 | 1035 | Sarah Freitas |
 | 151 | 1026 | Heather Westrum |
 | 152 | 1023 | Brainy Smurf |
@@ -206,8 +206,8 @@
 | 198 | 842 | Alisa Lamb |
 | 199 | 838 | Tralonda Weeks |
 | 200 | 837 | Ashley Rose Frederick |
-| 201 | 834 | Rebecca Doughman |
-| 202 | 834 | Nika Bee |
+| 201 | 834 | Nika Bee |
+| 202 | 834 | Rebecca Doughman |
 | 203 | 828 | Cindy Sechler Taninecz |
 | 204 | 826 | Moose Griffith |
 | 205 | 825 | Katrina Weston |
@@ -435,11 +435,11 @@
 | 427 | 453 | Joshua Sommerville |
 | 428 | 453 | Rhonda Petro |
 | 429 | 451 | Funky Caster |
-| 430 | 451 | Dylan Thomason |
-| 431 | 451 | Cody Nishimura |
-| 432 | 447 | Lourisha |
+| 430 | 451 | Cody Nishimura |
+| 431 | 451 | Dylan Thomason |
+| 432 | 447 | Brandy Andre |
 | 433 | 447 | Heather Schelkopf |
-| 434 | 447 | Brandy Andre |
+| 434 | 447 | Lourisha |
 | 435 | 445 | Mar Q Thomas |
 | 436 | 444 | Ryan Meilleur |
 | 437 | 442 | Leah |
@@ -674,15 +674,15 @@
 | 666 | 308 | Claire |
 | 667 | 307 | stacey |
 | 668 | 306 | Kiorah Blaze |
-| 669 | 305 | MamaBear11 |
-| 670 | 305 | Zany Clusterbuilder |
+| 669 | 305 | Zany Clusterbuilder |
+| 670 | 305 | MamaBear11 |
 | 671 | 305 | Libby Hicks |
 | 672 | 304 | Michelle Shrum |
 | 673 | 304 | Melissa McCall |
 | 674 | 304 | NFLPITMOM |
-| 675 | 303 | Devin |
-| 676 | 303 | Amanda Schaffer |
-| 677 | 303 | Peachy Blockbuilder |
+| 675 | 303 | Amanda Schaffer |
+| 676 | 303 | Peachy Blockbuilder |
+| 677 | 303 | Devin |
 | 678 | 303 | Angie Marie |
 | 679 | 303 | Jenn Marie |
 | 680 | 302 | Kena T. Tanner |

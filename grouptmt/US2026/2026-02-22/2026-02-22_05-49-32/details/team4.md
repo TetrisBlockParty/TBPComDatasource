@@ -31,8 +31,8 @@
 | 23 | 883 | Dustin Robert |
 | 24 | 880 | Koshin Abdirahman |
 | 25 | 879 | Heather Tushner |
-| 26 | 873 | Elizabeth Sallas |
-| 27 | 873 | Michelle Pearman |
+| 26 | 873 | Michelle Pearman |
+| 27 | 873 | Elizabeth Sallas |
 | 28 | 871 | Denny Shives |
 | 29 | 866 | Devinlee Brown |
 | 30 | 846 | Christine Marie |
@@ -86,8 +86,8 @@
 | 78 | 409 | Isabella Blanco |
 | 79 | 404 | Courtney Cicoria |
 | 80 | 402 | Julian Garcia |
-| 81 | 396 | Alicia Bass |
-| 82 | 396 | Amy Suckarieh |
+| 81 | 396 | Amy Suckarieh |
+| 82 | 396 | Alicia Bass |
 | 83 | 391 | Ramel Rhodes |
 | 84 | 390 | Carlton Unfiltered |
 | 85 | 382 | Marie-Pier Desjardins |
@@ -113,8 +113,8 @@
 | 105 | 303 | Lauren Scott |
 | 106 | 300 | Jason Hart |
 | 107 | 298 | Lucas J Sutton |
-| 108 | 296 | HastyGrabber |
-| 109 | 296 | Justin Hannigan |
+| 108 | 296 | Justin Hannigan |
+| 109 | 296 | HastyGrabber |
 | 110 | 295 | Latisha Davis |
 | 111 | 294 | Kesha Brady |
 | 112 | 290 | 🥔🥔 Spudz |
@@ -129,8 +129,8 @@
 | 121 | 275 | Dizzy Tiley |
 | 122 | 274 | Desi Desporte |
 | 123 | 271 | Sarah Brown |
-| 124 | 264 | Epic Curvetile |
-| 125 | 264 | Girl |
+| 124 | 264 | Girl |
+| 125 | 264 | Epic Curvetile |
 | 126 | 264 | Dana Scott |
 | 127 | 262 | Holly Jolly |
 | 128 | 258 | Brittney Orengo |
@@ -172,8 +172,8 @@
 | 164 | 203 | Katherine Crane |
 | 165 | 202 | TRCuse |
 | 166 | 202 | Chilly Crasher |
-| 167 | 201 | Chance Strickland |
-| 168 | 201 | Melvin Baird |
+| 167 | 201 | Melvin Baird |
+| 168 | 201 | Chance Strickland |
 | 169 | 200 | Jeff Brian Gates |
 | 170 | 198 | Jessica Lynn Cutlip |
 | 171 | 196 | Oscar Alberto Perez |
