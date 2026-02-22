@@ -53,8 +53,8 @@
 | 45 | 783 | Redlicious 1 |
 | 46 | 779 | Andrea Dañielle Ortiz |
 | 47 | 777 | Patrick Luckenbill |
-| 48 | 770 | Zappy Curvetile |
-| 49 | 770 | Lawrence Belanger |
+| 48 | 770 | Lawrence Belanger |
+| 49 | 770 | Zappy Curvetile |
 | 50 | 760 | Kristen Roles Robben |
 | 51 | 749 | Jacqueline Williams |
 | 52 | 746 | Stef Hu |
@@ -87,8 +87,8 @@
 | 79 | 489 | Deanna L Hermanson |
 | 80 | 486 | Tater |
 | 81 | 485 | Cartier |
-| 82 | 483 | MomMom |
-| 83 | 483 | Ryan Lunnin |
+| 82 | 483 | Ryan Lunnin |
+| 83 | 483 | MomMom |
 | 84 | 480 | Nancy Green |
 | 85 | 472 | April Carroll |
 | 86 | 471 | Jennifer ManWarren |
@@ -98,8 +98,8 @@
 | 90 | 453 | Brandi Huntington |
 | 91 | 452 | Tdub |
 | 92 | 448 | Loony Fitzone |
-| 93 | 444 | Hyper |
-| 94 | 444 | Lexuriuos Lifestlye |
+| 93 | 444 | Lexuriuos Lifestlye |
+| 94 | 444 | Hyper |
 | 95 | 443 | Steve Schneider |
 | 96 | 439 | Trina Gee |
 | 97 | 436 | Tonya Beasley |
@@ -158,10 +158,10 @@
 | 150 | 316 | Dizzy Party |
 | 151 | 313 | Virginia Gray Floyd |
 | 152 | 310 | Kimberly Garcia |
-| 153 | 308 | Sharon Reynolds |
-| 154 | 308 | Jason Savage |
-| 155 | 306 | Bloknboy |
-| 156 | 306 | Happy Basegrid |
+| 153 | 308 | Jason Savage |
+| 154 | 308 | Sharon Reynolds |
+| 155 | 306 | Happy Basegrid |
+| 156 | 306 | Bloknboy |
 | 157 | 304 | Nicole Roseberry Weber |
 | 158 | 304 | Constance Risner |
 | 159 | 303 | Chelsea Dahlquist |
@@ -214,14 +214,14 @@
 | 206 | 244 | Marianita Garcia |
 | 207 | 244 | Eddie Dillon |
 | 208 | 244 | LaFontaine Leslie |
-| 209 | 242 | Sam Williams |
-| 210 | 242 | John Kim |
+| 209 | 242 | John Kim |
+| 210 | 242 | Sam Williams |
 | 211 | 241 | John J. Cronin |
 | 212 | 240 | DaRascal |
 | 213 | 239 | Lacy Wolfe |
 | 214 | 238 | Tiffany Smith |
-| 215 | 236 | Matt Iaccheo |
-| 216 | 236 | Speedy Liney |
+| 215 | 236 | Speedy Liney |
+| 216 | 236 | Matt Iaccheo |
 | 217 | 235 | MRdot Rooski |
 | 218 | 234 | Paula Martin |
 | 219 | 233 | LC |
@@ -263,8 +263,8 @@
 | 255 | 207 | Leslie Bush Yarbrough |
 | 256 | 207 | Brenda Alexander |
 | 257 | 206 | BadG52 |
-| 258 | 205 | Margo Wagner |
-| 259 | 205 | Thorne Shumate |
+| 258 | 205 | Thorne Shumate |
+| 259 | 205 | Margo Wagner |
 | 260 | 204 | Mel Hogan |
 | 261 | 203 | Andrew Boone |
 | 262 | 202 | Amanda Holibaugh |
@@ -317,8 +317,8 @@
 | 309 | 177 | Jessica Russell |
 | 310 | 177 | Irual Hctrab |
 | 311 | 176 | Vivienne Carter |
-| 312 | 175 | Gary Gobin |
-| 313 | 175 | Kellie Tunstall |
+| 312 | 175 | Kellie Tunstall |
+| 313 | 175 | Gary Gobin |
 | 314 | 174 | Tavia |
 | 315 | 174 | Ariel Whittington |
 | 316 | 174 | Alex Gauthier |
@@ -501,8 +501,8 @@
 | 493 | 108 | Stoney Smith |
 | 494 | 108 | Meechie |
 | 495 | 107 | sent2bless34 |
-| 496 | 107 | Mighty Shatterfit |
-| 497 | 107 | Patty Lavigne Craddock |
+| 496 | 107 | Mindy Gloska |
+| 497 | 107 | Mighty Shatterfit |
 | 498 | 107 | Swanky Crasher |
 | 499 | 107 | Patty Lavigne Craddock |
 | 500 | 106 | Jessica Imboden |

@@ -169,8 +169,8 @@
 | 161 | 469 | Adrian Marcel Pate |
 | 162 | 469 | Melissa Orth Hunter |
 | 163 | 468 | Betty Ivy |
-| 164 | 464 | Michelle |
-| 165 | 464 | Makelini Mausia |
+| 164 | 464 | Makelini Mausia |
+| 165 | 464 | Michelle |
 | 166 | 461 | Jone |
 | 167 | 460 | Danielle Allison |
 | 168 | 457 | Jim Mathews |
@@ -212,8 +212,8 @@
 | 204 | 378 | Chris Bell |
 | 205 | 377 | Darlene McMillan |
 | 206 | 376 | Loopy Clusterer |
-| 207 | 372 | Rich LeBlanc |
-| 208 | 372 | Giddy Twistbuilder |
+| 207 | 372 | Giddy Twistbuilder |
+| 208 | 372 | Rich LeBlanc |
 | 209 | 370 | Santeria Trece Candles |
 | 210 | 369 | Sarah Moyer |
 | 211 | 368 | Stephanie Woods |
@@ -304,12 +304,12 @@
 | 296 | 269 | Brenda Schmid Wood |
 | 297 | 268 | Krystal Gerstberger |
 | 298 | 267 | April Matthew Kibble |
-| 299 | 267 | Aerian Preston |
-| 300 | 267 | Nikki Pags |
+| 299 | 267 | Nikki Pags |
+| 300 | 267 | Aerian Preston |
 | 301 | 266 | Quirky Dropzone |
 | 302 | 266 | Donna |
-| 303 | 261 | Foltz Lee Kelli |
-| 304 | 261 | Angela Scott |
+| 303 | 261 | Angela Scott |
+| 304 | 261 | Foltz Lee Kelli |
 | 305 | 260 | France Vézina |
 | 306 | 258 | IamJust Neyamijah Washington Sr. |
 | 307 | 256 | KayB |
@@ -539,7 +539,7 @@
 | 531 | 153 | Tracey Cox |
 | 532 | 152 | Elisha L Allman |
 | 533 | 152 | Shiny Zonebuilder |
-| 534 | 152 | Elisha L Allman |
+| 534 | 152 | lashanda |
 | 535 | 151 | Carol Cain Thurman |
 | 536 | 151 | Cheery Brickster |
 | 537 | 150 | Sassy Brickmatch |

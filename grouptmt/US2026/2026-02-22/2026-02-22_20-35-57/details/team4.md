@@ -81,8 +81,8 @@
 | 73 | 647 | Shauna Havard |
 | 74 | 646 | Jacqueline Helm |
 | 75 | 626 | Brittney Griggs |
-| 76 | 617 | Savannah Overdorf |
-| 77 | 617 | Jason Hart |
+| 76 | 617 | Jason Hart |
+| 77 | 617 | Savannah Overdorf |
 | 78 | 614 | TheNeesh50 |
 | 79 | 603 | Jason Allen |
 | 80 | 597 | Eric Mcgaughy |
@@ -217,8 +217,8 @@
 | 209 | 245 | 23 |
 | 210 | 243 | Jose Dejesus |
 | 211 | 243 | Mr. Party |
-| 212 | 241 | Kristina Black |
-| 213 | 241 | Allen Lloyd |
+| 212 | 241 | Allen Lloyd |
+| 213 | 241 | Kristina Black |
 | 214 | 240 | Zethra Prenisha Rahming |
 | 215 | 238 | JPW |
 | 216 | 236 | Kim Hunt |
@@ -234,8 +234,8 @@
 | 226 | 226 | Zesty Twistbuilder |
 | 227 | 225 | Perky Patternblock |
 | 228 | 222 | Brandi Durig |
-| 229 | 221 | Rheanda Weaskus |
-| 230 | 221 | PurpleMoonMa |
+| 229 | 221 | PurpleMoonMa |
+| 230 | 221 | Rheanda Weaskus |
 | 231 | 220 | Joanna |
 | 232 | 220 | Chair |
 | 233 | 219 | Malakai Darien Fox |
@@ -274,8 +274,8 @@
 | 266 | 195 | Snippy Puzzle |
 | 267 | 195 | 中山成巳 |
 | 268 | 194 | Zany Twisterfit |
-| 269 | 193 | Stephme310 |
-| 270 | 193 | Shainne Brewer |
+| 269 | 193 | Shainne Brewer |
+| 270 | 193 | Stephme310 |
 | 271 | 192 | Andrew Dang |
 | 272 | 191 | Earnest Thompson |
 | 273 | 190 | Stella |
@@ -298,8 +298,8 @@
 | 290 | 170 | PeaceOs |
 | 291 | 170 | Elie Pean |
 | 292 | 169 | Ellen Durfee |
-| 293 | 169 | Daring Pivot |
-| 294 | 169 | Jessica Atkinson |
+| 293 | 169 | Jessica Atkinson |
+| 294 | 169 | Daring Pivot |
 | 295 | 168 | Kathy Allen |
 | 296 | 168 | Zippy Tilt |
 | 297 | 166 | Megan Cutshaw |
@@ -403,8 +403,8 @@
 | 395 | 136 | Michelle Morris |
 | 396 | 136 | Jen Hallin |
 | 397 | 135 | Joshua Guess |
-| 398 | 134 | Kristin MacDonald |
-| 399 | 134 | Jobadia Steelerton |
+| 398 | 134 | Jobadia Steelerton |
+| 399 | 134 | Kristin MacDonald |
 | 400 | 133 | Jesus Garcia |
 | 401 | 132 | Degenerate |
 | 402 | 132 | Melissa Priest Sellers |
@@ -441,7 +441,7 @@
 | 433 | 124 | Nikki Wilson |
 | 434 | 124 | Cheery Towerzone |
 | 435 | 124 | Atia Scott |
-| 436 | 124 | Cheery Towerzone |
+| 436 | 124 | Kelly Adams Carnahan |
 | 437 | 123 | MOCHA |
 | 438 | 123 | Sunny Filler |
 | 439 | 123 | Jennifer Perkins |
