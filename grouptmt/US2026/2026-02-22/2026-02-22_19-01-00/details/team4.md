@@ -142,8 +142,8 @@
 | 134 | 332 | Desi Desporte |
 | 135 | 332 | HastyGrabber |
 | 136 | 330 | David Lay |
-| 137 | 328 | Leslie Nicole |
-| 138 | 328 | Kris Bartlett |
+| 137 | 328 | Kris Bartlett |
+| 138 | 328 | Leslie Nicole |
 | 139 | 325 | Dizzy Tiley |
 | 140 | 324 | Jessica Lynn Cutlip |
 | 141 | 323 | Daria Rycewicz |
@@ -196,8 +196,8 @@
 | 188 | 251 | Matt Summer |
 | 189 | 250 | Matt Dell'Olio |
 | 190 | 248 | Chirpy Basepiece |
-| 191 | 247 | Dennis Bradley |
-| 192 | 247 | jim |
+| 191 | 247 | jim |
+| 192 | 247 | Dennis Bradley |
 | 193 | 246 | Carlos Ramirez |
 | 194 | 245 | Autum Leigh |
 | 195 | 245 | 23 |
@@ -212,8 +212,8 @@
 | 204 | 238 | JPW |
 | 205 | 237 | Jen Caldwell |
 | 206 | 236 | Swanky Fitline |
-| 207 | 233 | Ruben Wheeler |
-| 208 | 233 | April Rondinone |
+| 207 | 233 | April Rondinone |
+| 208 | 233 | Ruben Wheeler |
 | 209 | 230 | Kristina Black |
 | 210 | 230 | blockstar |
 | 211 | 228 | Antony Dwayne Beasley |
@@ -229,8 +229,8 @@
 | 221 | 216 | Chance Strickland |
 | 222 | 216 | ZeeZee |
 | 223 | 216 | Cristy Duerksen |
-| 224 | 215 | Ziggy |
-| 225 | 215 | John Brunetti |
+| 224 | 215 | John Brunetti |
+| 225 | 215 | Ziggy |
 | 226 | 213 | Rio Rocha |
 | 227 | 213 | Sarah Neathery |
 | 228 | 212 | Mike Solo |
@@ -315,13 +315,13 @@
 | 307 | 157 | LunaMoon |
 | 308 | 157 | Linda Alexander Downing |
 | 309 | 157 | Bethany Ison |
-| 310 | 156 | Terrance Fung |
-| 311 | 156 | Ultramarine |
+| 310 | 156 | Ultramarine |
+| 311 | 156 | Terrance Fung |
 | 312 | 154 | Circuit8 |
 | 313 | 154 | Chummy Towerzone |
 | 314 | 153 | Empress Oasis |
-| 315 | 152 | Vanessa Smart |
-| 316 | 152 | Jared Gutwein |
+| 315 | 152 | Jared Gutwein |
+| 316 | 152 | Vanessa Smart |
 | 317 | 152 | Faja |
 | 318 | 151 | Nick Gray |
 | 319 | 151 | Shanon Klair |
@@ -420,7 +420,7 @@
 | 412 | 124 | Marcela Johnson |
 | 413 | 123 | Sunny Filler |
 | 414 | 123 | Jennifer Perkins |
-| 415 | 123 | Sunny Filler |
+| 415 | 123 | MOCHA |
 | 416 | 122 | Blessedmama |
 | 417 | 122 | PennyCandee |
 | 418 | 122 | Spicy Cascadezone |

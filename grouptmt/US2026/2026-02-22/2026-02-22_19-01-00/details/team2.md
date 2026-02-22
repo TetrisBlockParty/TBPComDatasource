@@ -310,8 +310,8 @@
 | 302 | 787 | Laura McCarthey |
 | 303 | 783 | Lisa Ongtowasruk |
 | 304 | 781 | Hong Tang |
-| 305 | 777 | Tesha Oldaker |
-| 306 | 777 | Jessicah Myers |
+| 305 | 777 | Jessicah Myers |
+| 306 | 777 | Tesha Oldaker |
 | 307 | 777 | Samantha Jo |
 | 308 | 773 | Diana Fitzwater |
 | 309 | 768 | Michele Morgan |
@@ -768,8 +768,8 @@
 | 760 | 350 | Chris Harr |
 | 761 | 350 | Epic Fitzone |
 | 762 | 349 | Jenn Marie |
-| 763 | 348 | Richard Horton |
-| 764 | 348 | Christy Green |
+| 763 | 348 | Christy Green |
+| 764 | 348 | Richard Horton |
 | 765 | 348 | Janitta Alvarez |
 | 766 | 348 | stacey |
 | 767 | 347 | Zesty Pivot |
