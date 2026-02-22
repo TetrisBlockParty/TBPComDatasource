@@ -153,8 +153,8 @@
 | 145 | 213 | Tyler Terrific |
 | 146 | 212 | Calvin Cannon |
 | 147 | 212 | Mike Solo |
-| 148 | 211 | Twisty Cascadezone |
-| 149 | 211 | Jenna McGeorge |
+| 148 | 211 | Jenna McGeorge |
+| 149 | 211 | Twisty Cascadezone |
 | 150 | 210 | Swanky Fitline |
 | 151 | 205 | Kathy Brookins |
 | 152 | 205 | Sarah Neathery |

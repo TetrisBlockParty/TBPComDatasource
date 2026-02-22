@@ -285,8 +285,8 @@
 | 277 | 640 | BYM4L |
 | 278 | 639 | Crystie Hicks |
 | 279 | 639 | Rebecca Miller |
-| 280 | 635 | Diana Fitzwater |
-| 281 | 635 | William Hunt |
+| 280 | 635 | William Hunt |
+| 281 | 635 | Diana Fitzwater |
 | 282 | 632 | Beth |
 | 283 | 631 | Marie Walker |
 | 284 | 626 | Allan Wayne Lamia |
@@ -378,8 +378,8 @@
 | 370 | 481 | Klee |
 | 371 | 480 | Dar |
 | 372 | 478 | Ashley Collins |
-| 373 | 477 | Brenna Ann |
-| 374 | 477 | Julay |
+| 373 | 477 | Julay |
+| 374 | 477 | Brenna Ann |
 | 375 | 476 | Kitybox |
 | 376 | 476 | Maya June |
 | 377 | 475 | Michelle Lee |
@@ -455,8 +455,8 @@
 | 447 | 415 | Véronique Lévesque Sabourin |
 | 448 | 414 | Sabrina Burton |
 | 449 | 414 | John |
-| 450 | 413 | Biggest thing |
-| 451 | 413 | Lauren Fitzgerald Thomas |
+| 450 | 413 | Lauren Fitzgerald Thomas |
+| 451 | 413 | Biggest thing |
 | 452 | 411 | Kristen O'Neal |
 | 453 | 408 | Sleepypanda67 |
 | 454 | 408 | Stefanie Zonzini-Gagliardi |

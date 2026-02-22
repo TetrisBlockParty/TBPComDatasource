@@ -109,8 +109,8 @@
 | 101 | 506 | Sashay Tapae Simpson |
 | 102 | 503 | Susan Valentino |
 | 103 | 502 | Justin Ritter |
-| 104 | 500 | Domo Washington |
-| 105 | 500 | Kristie |
+| 104 | 500 | Kristie |
+| 105 | 500 | Domo Washington |
 | 106 | 497 | Mykal Burton |
 | 107 | 492 | Daira Largen |
 | 108 | 491 | Chauntee Alfrey-Cardinale |
@@ -120,8 +120,8 @@
 | 112 | 479 | Poppy Splitter |
 | 113 | 471 | Mendoza Lee Christy |
 | 114 | 469 | Patricia White |
-| 115 | 459 | mjl574 |
-| 116 | 459 | Nerdy Riseclear |
+| 115 | 459 | Nerdy Riseclear |
+| 116 | 459 | mjl574 |
 | 117 | 453 | Silly Twist |
 | 118 | 449 | Danielle Rhoades |
 | 119 | 445 | Kristie McFarland |
@@ -245,8 +245,8 @@
 | 237 | 221 | Jaime Monhaut-Reed |
 | 238 | 219 | Sissy Lowery Davis |
 | 239 | 218 | Michael Lucado |
-| 240 | 216 | rosy |
-| 241 | 216 | Samantha Lynn |
+| 240 | 216 | Samantha Lynn |
+| 241 | 216 | rosy |
 | 242 | 215 | Alice |
 | 243 | 215 | IamJust Neyamijah Washington Sr. |
 | 244 | 214 | Connie Mohler-Fair |
@@ -297,17 +297,17 @@
 | 289 | 178 | Jennifer Alvey |
 | 290 | 176 | Melissa Orth Hunter |
 | 291 | 175 | Eileen Brady Thurber |
-| 292 | 174 | Betty Rosas |
-| 293 | 174 | fraulila |
+| 292 | 174 | fraulila |
+| 293 | 174 | Betty Rosas |
 | 294 | 174 | Lesley Perez |
-| 295 | 173 | Denita Mungro |
-| 296 | 173 | BŘŰŤİÇŨŚ |
+| 295 | 173 | BŘŰŤİÇŨŚ |
+| 296 | 173 | Denita Mungro |
 | 297 | 171 | Emma |
 | 298 | 170 | Cesar Barraza |
 | 299 | 169 | Peachy Rollfit |
 | 300 | 169 | Kristian Thurman |
-| 301 | 167 | Shicken Nuggit |
-| 302 | 167 | Romeo |
+| 301 | 167 | Romeo |
+| 302 | 167 | Shicken Nuggit |
 | 303 | 166 | April Matthew Kibble |
 | 304 | 165 | Kali Kelz Williams |
 | 305 | 165 | Irene Arreguin |
@@ -849,8 +849,8 @@
 | 841 | 62 | GirthBrooks |
 | 842 | 62 | Melissa Ponder |
 | 843 | 62 | Nikkie Bucciano |
-| 844 | 62 | Melissa Ponder |
-| 845 | 62 | Kacy Ramsey |
+| 844 | 62 | fred |
+| 845 | 62 | Kari Gibson Simmons |
 | 846 | 62 | Aponk |
 | 847 | 62 | Cameron Lovell |
 | 848 | 62 | Kacy Ramsey |
