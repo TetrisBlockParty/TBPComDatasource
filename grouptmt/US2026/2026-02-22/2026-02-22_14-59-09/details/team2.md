@@ -110,8 +110,8 @@
 | 102 | 1564 | Charie Holland |
 | 103 | 1535 | Donnie Hunt |
 | 104 | 1534 | Loopy Clusterbuilder |
-| 105 | 1516 | Stephen Stephen |
-| 106 | 1516 | Mindy Leigh Head |
+| 105 | 1516 | Mindy Leigh Head |
+| 106 | 1516 | Stephen Stephen |
 | 107 | 1513 | blackq |
 | 108 | 1507 | Stephanie Chapman |
 | 109 | 1507 | Linda Pierce |
@@ -186,8 +186,8 @@
 | 178 | 1057 | Sarah Freitas |
 | 179 | 1050 | Amy Sayers |
 | 180 | 1045 | Lourisha |
-| 181 | 1043 | Brave Dropmatch |
-| 182 | 1043 | Suki Kaur |
+| 181 | 1043 | Suki Kaur |
+| 182 | 1043 | Brave Dropmatch |
 | 183 | 1036 | Allison Lockyer |
 | 184 | 1025 | Brandy Andre |
 | 185 | 1024 | Bri Lynn |
@@ -224,8 +224,8 @@
 | 216 | 919 | Isaac Trappiel IV |
 | 217 | 919 | Joshua Mandel |
 | 218 | 916 | Butta |
-| 219 | 915 | Robin Kerby |
-| 220 | 915 | Angela Bonquiqui Dinish |
+| 219 | 915 | Angela Bonquiqui Dinish |
+| 220 | 915 | Robin Kerby |
 | 221 | 915 | Kelly Trent |
 | 222 | 910 | Shuany Arias |
 | 223 | 907 | Cindy Sechler Taninecz |
@@ -243,8 +243,8 @@
 | 235 | 867 | Peppy Zone |
 | 236 | 867 | Michele Gabriel |
 | 237 | 862 | Brittany Radaszewski |
-| 238 | 860 | John Bednarik |
-| 239 | 860 | April Dawn Gussler |
+| 238 | 860 | April Dawn Gussler |
+| 239 | 860 | John Bednarik |
 | 240 | 857 | Della Hole |
 | 241 | 855 | F-X |
 | 242 | 853 | Maria Escobar |
@@ -272,8 +272,8 @@
 | 264 | 778 | Desire Rice |
 | 265 | 778 | Mischelle Clay |
 | 266 | 777 | Samantha Jo |
-| 267 | 777 | Jessicah Myers |
-| 268 | 777 | Tesha Oldaker |
+| 267 | 777 | Tesha Oldaker |
+| 268 | 777 | Jessicah Myers |
 | 269 | 772 | William Hunt |
 | 270 | 772 | Sam Joe |
 | 271 | 771 | Terri McKelvey McKinley |
@@ -354,8 +354,8 @@
 | 346 | 640 | Kara Gillen |
 | 347 | 640 | BYM4L |
 | 348 | 639 | Crystie Hicks |
-| 349 | 639 | Jelly |
-| 350 | 639 | Rebecca Miller |
+| 349 | 639 | Rebecca Miller |
+| 350 | 639 | Jelly |
 | 351 | 635 | Diana Fitzwater |
 | 352 | 631 | Dylan Thomason |
 | 353 | 631 | Marie Walker |
@@ -1061,8 +1061,8 @@
 | 1053 | 233 | Jessica Sutter |
 | 1054 | 233 | Nerdy Riserfit |
 | 1055 | 233 | ZenZanny |
-| 1056 | 232 | P. D. Paige |
-| 1057 | 232 | Kirsten Marie Lomupo |
+| 1056 | 232 | Kirsten Marie Lomupo |
+| 1057 | 232 | P. D. Paige |
 | 1058 | 232 | Chirpy Snapper |
 | 1059 | 231 | Emily Valentine |
 | 1060 | 231 | Stanley Vanekelenburg |

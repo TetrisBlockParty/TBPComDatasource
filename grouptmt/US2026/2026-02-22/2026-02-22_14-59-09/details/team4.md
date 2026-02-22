@@ -16,8 +16,8 @@
 | 8 | 1835 | East Mamba |
 | 9 | 1775 | Ash |
 | 10 | 1676 | Ayanna Soto |
-| 11 | 1447 | GreenJeepGirl |
-| 12 | 1447 | Juggalo |
+| 11 | 1447 | Juggalo |
+| 12 | 1447 | GreenJeepGirl |
 | 13 | 1318 | Cassie Michaux |
 | 14 | 1284 | Roger Coulter |
 | 15 | 1132 | Jayna Anoc |
@@ -128,8 +128,8 @@
 | 120 | 351 | Serena Goodridge |
 | 121 | 344 | Livvy |
 | 122 | 343 | Latisha Davis |
-| 123 | 332 | Desi Desporte |
-| 124 | 332 | HastyGrabber |
+| 123 | 332 | HastyGrabber |
+| 124 | 332 | Desi Desporte |
 | 125 | 331 | ThaEviLJeNiuZ |
 | 126 | 330 | David Lay |
 | 127 | 330 | Twisty Clicky |
@@ -151,14 +151,14 @@
 | 143 | 289 | Jessica Lynn Cutlip |
 | 144 | 286 | shark tato |
 | 145 | 283 | Brittney Orengo |
-| 146 | 281 | Lindsay Ball |
-| 147 | 281 | Meagan Nicole |
+| 146 | 281 | Meagan Nicole |
+| 147 | 281 | Lindsay Ball |
 | 148 | 278 | Leah Kutz Zirbel |
 | 149 | 277 | Mary Ann Pabukis |
 | 150 | 275 | Dizzy Tiley |
 | 151 | 274 | Calvin Cannon |
-| 152 | 272 | Keshia Lyons |
-| 153 | 272 | Alan George LaRage |
+| 152 | 272 | Alan George LaRage |
+| 153 | 272 | Keshia Lyons |
 | 154 | 271 | Sarah Brown |
 | 155 | 267 | Damn Libra |
 | 156 | 265 | Jeff Brian Gates |
@@ -612,9 +612,9 @@
 | 604 | 68 | Joni Marie Flanary |
 | 605 | 68 | KanVus |
 | 606 | 68 | Aly Eggers |
-| 607 | 68 | Maria Larsen |
-| 608 | 68 | Gia Mims |
-| 609 | 68 | Bold Buildsnap |
+| 607 | 68 | Bold Buildsnap |
+| 608 | 68 | Maria Larsen |
+| 609 | 68 | Gia Mims |
 | 610 | 68 | Matthew Pate |
 | 611 | 67 | Rick SJ |
 | 612 | 67 | Heather Stratos |

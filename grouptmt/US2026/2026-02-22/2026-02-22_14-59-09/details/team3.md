@@ -114,8 +114,8 @@
 | 106 | 568 | Rachael McClain Owens |
 | 107 | 566 | Dolores Falco |
 | 108 | 565 | Patty Allen |
-| 109 | 562 | Louise Stacy Sisson |
-| 110 | 562 | Dave Herzog |
+| 109 | 562 | Dave Herzog |
+| 110 | 562 | Louise Stacy Sisson |
 | 111 | 559 | Morgan Martinez |
 | 112 | 552 | Keith J Oshman Jr. |
 | 113 | 551 | Kristie |
@@ -151,8 +151,8 @@
 | 143 | 449 | Danielle Rhoades |
 | 144 | 448 | Karon Griffin |
 | 145 | 445 | Shannon Matthew Byers |
-| 146 | 445 | Jacqueline Rodriguez |
-| 147 | 445 | Kristie McFarland |
+| 146 | 445 | Kristie McFarland |
+| 147 | 445 | Jacqueline Rodriguez |
 | 148 | 439 | Michelle |
 | 149 | 434 | Logan Naccarato |
 | 150 | 432 | Jenny Hrndz |
@@ -182,8 +182,8 @@
 | 174 | 384 | Dapper Snap |
 | 175 | 382 | Scott Carleton |
 | 176 | 380 | Tasha Schriewer |
-| 177 | 378 | Chris Bell |
-| 178 | 378 | Nicole Flippo |
+| 177 | 378 | Nicole Flippo |
+| 178 | 378 | Chris Bell |
 | 179 | 376 | Loopy Clusterer |
 | 180 | 374 | Sherry Ogden |
 | 181 | 372 | Giddy Twistbuilder |
@@ -294,8 +294,8 @@
 | 286 | 232 | Donna |
 | 287 | 227 | Krystal Gerstberger |
 | 288 | 227 | Meowsa |
-| 289 | 225 | Stephanie Hill |
-| 290 | 225 | Dirtgirl27 |
+| 289 | 225 | Dirtgirl27 |
+| 290 | 225 | Stephanie Hill |
 | 291 | 225 | Steffi Chris Dacones |
 | 292 | 223 | Michael Lucado |
 | 293 | 221 | Vaners |
@@ -674,7 +674,7 @@
 | 666 | 101 | Christine Foley |
 | 667 | 101 | Block Dropper |
 | 668 | 100 | Bree Sexton |
-| 669 | 100 | TEDDY |
+| 669 | 100 | Kelly Koenig |
 | 670 | 100 | Betsey Hayes-Solano |
 | 671 | 100 | TEDDY |
 | 672 | 100 | Crystel b520 |
