@@ -85,8 +85,8 @@
 | 77 | 628 | Tiff Vs Tiffany |
 | 78 | 626 | mjl574 |
 | 79 | 621 | Cherry Parker |
-| 80 | 618 | Katrina Schroeder |
-| 81 | 618 | Brandon Green |
+| 80 | 618 | Brandon Green |
+| 81 | 618 | Katrina Schroeder |
 | 82 | 613 | Amber Hughes |
 | 83 | 608 | Danielle Becker |
 | 84 | 591 | Jesse Olive |
@@ -446,7 +446,7 @@
 | 438 | 117 | Rayzer |
 | 439 | 117 | Nicole Summers-Nelson |
 | 440 | 116 | Elisha L Allman |
-| 441 | 116 | Shelby Crawford |
+| 441 | 116 | Niki Dalrymple |
 | 442 | 116 | TazB |
 | 443 | 116 | Shelby Crawford |
 | 444 | 116 | Jason-Ashley Ludlow |

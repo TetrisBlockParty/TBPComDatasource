@@ -250,14 +250,14 @@
 | 242 | 705 | Lola Contreras |
 | 243 | 704 | Shelley Thornburgh Wright |
 | 244 | 703 | Gold Rose |
-| 245 | 700 | Rosemadder |
-| 246 | 700 | Beverly Owens |
-| 247 | 700 | Vincent Petrella |
+| 245 | 700 | Vincent Petrella |
+| 246 | 700 | Rosemadder |
+| 247 | 700 | Beverly Owens |
 | 248 | 699 | Keri Womack |
 | 249 | 698 | Mighty Shatterfit |
 | 250 | 697 | Dreamy Blast |
-| 251 | 692 | Jennifer Casey-Kay |
-| 252 | 692 | Dannette Goldberg-Richards |
+| 251 | 692 | Dannette Goldberg-Richards |
+| 252 | 692 | Jennifer Casey-Kay |
 | 253 | 692 | Chelle |
 | 254 | 690 | Deborah Miller |
 | 255 | 689 | Giggy Blocker |
@@ -381,7 +381,7 @@
 | 373 | 496 | Karen Posadas Centeno |
 | 374 | 494 | Doowop40 |
 | 375 | 493 | Kara Gillen |
-| 376 | 492 | Joshua Mandel |
+| 376 | 492 | Armonie Smith |
 | 377 | 492 | Breezy Clusterer |
 | 378 | 492 | Joshua Mandel |
 | 379 | 491 | Michael Buckner |
@@ -534,20 +534,20 @@
 | 526 | 378 | Tina Marie |
 | 527 | 378 | Deidre Shaffer |
 | 528 | 377 | Jason H Baker |
-| 529 | 376 | James Zaragoza |
-| 530 | 376 | Darlene Bowman |
+| 529 | 376 | Darlene Bowman |
+| 530 | 376 | James Zaragoza |
 | 531 | 375 | Lively Edgepiece |
 | 532 | 375 | Wuntayk |
 | 533 | 374 | Elisheva Mizrachi |
 | 534 | 373 | Jessica Hughes |
 | 535 | 373 | Hunter Connors |
 | 536 | 372 | Ebony Deloach Bryant |
-| 537 | 371 | AkaLefty |
-| 538 | 371 | Brenda Messer |
-| 539 | 371 | Giggy Grabber |
+| 537 | 371 | Giggy Grabber |
+| 538 | 371 | AkaLefty |
+| 539 | 371 | Brenda Messer |
 | 540 | 371 | Saucy Fitzone |
-| 541 | 369 | Tony Lea |
-| 542 | 369 | RaeVan Worthington |
+| 541 | 369 | RaeVan Worthington |
+| 542 | 369 | Tony Lea |
 | 543 | 369 | Juan Castillo |
 | 544 | 367 | Deyawn Smith |
 | 545 | 367 | Jessica Lamb |
@@ -626,8 +626,8 @@
 | 618 | 326 | Jennifer Monroe Kelly |
 | 619 | 326 | Ann Knutson Anderson |
 | 620 | 325 | Justin Hines |
-| 621 | 324 | Kimberly Hauck-Rausch |
-| 622 | 324 | Mike73 |
+| 621 | 324 | Mike73 |
+| 622 | 324 | Kimberly Hauck-Rausch |
 | 623 | 323 | Briana Alexander |
 | 624 | 322 | Melissa James |
 | 625 | 322 | Chab |
@@ -883,7 +883,7 @@
 | 875 | 228 | Synn |
 | 876 | 227 | Monique Foster |
 | 877 | 227 | Artemus Darnell |
-| 878 | 227 | Monique Foster |
+| 878 | 227 | William David Swallow |
 | 879 | 227 | Sedo |
 | 880 | 227 | Toni Whipple |
 | 881 | 227 | Ethan Stienbarger |

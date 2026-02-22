@@ -52,8 +52,8 @@
 | 44 | 646 | Jacqueline Helm |
 | 45 | 634 | Anthony Bryan Riva |
 | 46 | 632 | Kimyatta Cavin |
-| 47 | 630 | Chilly Line |
-| 48 | 630 | Dustee Craddock-Harrison |
+| 47 | 630 | Dustee Craddock-Harrison |
+| 48 | 630 | Chilly Line |
 | 49 | 627 | Jonathan Kimbrough |
 | 50 | 623 | Robin Getchel |
 | 51 | 614 | KM8 |
@@ -111,8 +111,8 @@
 | 103 | 303 | Lauren Scott |
 | 104 | 300 | Jason Hart |
 | 105 | 298 | Lucas J Sutton |
-| 106 | 296 | HastyGrabber |
-| 107 | 296 | Justin Hannigan |
+| 106 | 296 | Justin Hannigan |
+| 107 | 296 | HastyGrabber |
 | 108 | 295 | Latisha Davis |
 | 109 | 294 | Kesha Brady |
 | 110 | 288 | Leslie Nicole |
@@ -128,9 +128,9 @@
 | 120 | 274 | Desi Desporte |
 | 121 | 271 | Sarah Brown |
 | 122 | 268 | 🥔🥔 Spudz |
-| 123 | 264 | Girl |
-| 124 | 264 | Dana Scott |
-| 125 | 264 | Epic Curvetile |
+| 123 | 264 | Dana Scott |
+| 124 | 264 | Epic Curvetile |
+| 125 | 264 | Girl |
 | 126 | 262 | Holly Jolly |
 | 127 | 258 | Brittney Orengo |
 | 128 | 256 | Mylo Lipscomb |
@@ -333,9 +333,9 @@
 | 325 | 106 | Cheery Risebuilder |
 | 326 | 106 | Zappy Snaplink |
 | 327 | 106 | Jacob Richard |
-| 328 | 105 | Jim Hart |
+| 328 | 105 | GBR |
 | 329 | 105 | Zesty Linkgrid |
-| 330 | 105 | GBR |
+| 330 | 105 | Jim Hart |
 | 331 | 105 | meowmew |
 | 332 | 104 | Jessica Johnston |
 | 333 | 104 | Cranky Rollpiece |
