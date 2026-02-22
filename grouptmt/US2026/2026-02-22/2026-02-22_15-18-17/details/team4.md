@@ -16,8 +16,8 @@
 | 8 | 1835 | East Mamba |
 | 9 | 1775 | Ash |
 | 10 | 1676 | Ayanna Soto |
-| 11 | 1447 | Juggalo |
-| 12 | 1447 | GreenJeepGirl |
+| 11 | 1447 | GreenJeepGirl |
+| 12 | 1447 | Juggalo |
 | 13 | 1318 | Cassie Michaux |
 | 14 | 1289 | Roger Coulter |
 | 15 | 1194 | Clarence Patawaran |
@@ -50,8 +50,8 @@
 | 42 | 823 | Jae Job |
 | 43 | 818 | Marvin Lou Martin |
 | 44 | 798 | BertMofo |
-| 45 | 775 | Rebecca Moulton Pinciaro |
-| 46 | 775 | Dee Kay |
+| 45 | 775 | Dee Kay |
+| 46 | 775 | Rebecca Moulton Pinciaro |
 | 47 | 766 | Robin Watters |
 | 48 | 757 | Ancient Intuition |
 | 49 | 738 | TeeJ |
@@ -97,8 +97,8 @@
 | 89 | 486 | Carmethia Clemons Haslerig |
 | 90 | 468 | Shane Kalamata Platoon |
 | 91 | 448 | Kristin Manee |
-| 92 | 447 | Samantha Peterson |
-| 93 | 447 | Shannon Ferrari |
+| 92 | 447 | Shannon Ferrari |
+| 93 | 447 | Samantha Peterson |
 | 94 | 447 | Erin Thomas |
 | 95 | 444 | Chilly Crasher |
 | 96 | 441 | Chastity Mitchell |
@@ -116,8 +116,8 @@
 | 108 | 393 | Carlton Unfiltered |
 | 109 | 392 | Ericca Eldridge |
 | 110 | 392 | Scott Jameson |
-| 111 | 391 | Ramel Rhodes |
-| 112 | 391 | Monica Daley |
+| 111 | 391 | Monica Daley |
+| 112 | 391 | Ramel Rhodes |
 | 113 | 388 | Tina Martinez |
 | 114 | 387 | Denise Carlson |
 | 115 | 382 | Lori Walker |
@@ -219,8 +219,8 @@
 | 211 | 204 | Carlos Ramirez |
 | 212 | 203 | Katherine Crane |
 | 213 | 202 | Patron Anderson |
-| 214 | 201 | Melvin Baird |
-| 215 | 201 | Zesty Twistbuilder |
+| 214 | 201 | Zesty Twistbuilder |
+| 215 | 201 | Melvin Baird |
 | 216 | 200 | Lori |
 | 217 | 200 | Laura |
 | 218 | 198 | Calvin Dennis |
@@ -276,10 +276,10 @@
 | 268 | 159 | DonMega |
 | 269 | 159 | Marcus Todd |
 | 270 | 158 | Chair |
-| 271 | 157 | KayM |
-| 272 | 157 | Bethany Ison |
-| 273 | 157 | Paige Kittles |
-| 274 | 157 | B Renee Desjardin |
+| 271 | 157 | Bethany Ison |
+| 272 | 157 | KayM |
+| 273 | 157 | B Renee Desjardin |
+| 274 | 157 | Paige Kittles |
 | 275 | 156 | Ultramarine |
 | 276 | 156 | Terrance Fung |
 | 277 | 154 | Zany Shatterer |
@@ -292,8 +292,8 @@
 | 284 | 151 | Shainne Brewer |
 | 285 | 151 | Shanon Klair |
 | 286 | 151 | Amanda Christine |
-| 287 | 150 | Jared Gutwein |
-| 288 | 150 | Brandon Link |
+| 287 | 150 | Brandon Link |
+| 288 | 150 | Jared Gutwein |
 | 289 | 150 | GBR |
 | 290 | 148 | Cranky Rollpiece |
 | 291 | 148 | Nubian1 |

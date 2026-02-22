@@ -136,8 +136,8 @@
 | 128 | 492 | Daira Largen |
 | 129 | 491 | Chauntee Alfrey-Cardinale |
 | 130 | 480 | Stephanie Blkpep Davidson |
-| 131 | 479 | Poppy Splitter |
-| 132 | 479 | Patti Skiles |
+| 131 | 479 | Patti Skiles |
+| 132 | 479 | Poppy Splitter |
 | 133 | 478 | CeceGeGe |
 | 134 | 473 | mzcatzy |
 | 135 | 471 | Mendoza Lee Christy |
@@ -170,8 +170,8 @@
 | 162 | 403 | Scott Lindsay |
 | 163 | 401 | Katie Knaus |
 | 164 | 400 | Luciana Braganca Vieira |
-| 165 | 399 | Marcie Bressler |
-| 166 | 399 | Mcathen |
+| 165 | 399 | Mcathen |
+| 166 | 399 | Marcie Bressler |
 | 167 | 397 | Annie Déè |
 | 168 | 393 | Fallorina Susana |
 | 169 | 391 | Sarah Cowan Burgos |
@@ -183,8 +183,8 @@
 | 175 | 384 | Dapper Snap |
 | 176 | 382 | Scott Carleton |
 | 177 | 380 | Tasha Schriewer |
-| 178 | 378 | Chris Bell |
-| 179 | 378 | Nicole Flippo |
+| 178 | 378 | Nicole Flippo |
+| 179 | 378 | Chris Bell |
 | 180 | 376 | Loopy Clusterer |
 | 181 | 374 | Sherry Ogden |
 | 182 | 372 | Giddy Twistbuilder |
@@ -250,8 +250,8 @@
 | 242 | 281 | Carrie Huskey |
 | 243 | 280 | Brittany |
 | 244 | 279 | Terry Jo Jones |
-| 245 | 278 | Rufus Lincoln |
-| 246 | 278 | Sabrina Hardrick |
+| 245 | 278 | Sabrina Hardrick |
+| 246 | 278 | Rufus Lincoln |
 | 247 | 276 | _melisa223_ |
 | 248 | 276 | Crimson |
 | 249 | 275 | Cassandra Bryant |
@@ -374,8 +374,8 @@
 | 366 | 183 | Naur |
 | 367 | 182 | gremicx |
 | 368 | 181 | Denita Mungro |
-| 369 | 180 | Ava Petito |
-| 370 | 180 | Loopy Fallzone |
+| 369 | 180 | Loopy Fallzone |
+| 370 | 180 | Ava Petito |
 | 371 | 180 | Beth Ingham |
 | 372 | 179 | DanceLuvLaugh |
 | 373 | 178 | Jess Dearborn |
@@ -572,9 +572,9 @@
 | 564 | 118 | Scott Doss |
 | 565 | 118 | Martin Bernier |
 | 566 | 118 | Damian Reid |
-| 567 | 117 | Daisy Rocha |
-| 568 | 117 | Dee Pratt |
-| 569 | 117 | Jennifer Neiman Gaal |
+| 567 | 117 | Jennifer Neiman Gaal |
+| 568 | 117 | Daisy Rocha |
+| 569 | 117 | Dee Pratt |
 | 570 | 117 | Elyse Grabowsky |
 | 571 | 117 | Anabela Ruiz |
 | 572 | 116 | Daring Rollfit |

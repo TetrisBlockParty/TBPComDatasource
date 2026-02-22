@@ -111,8 +111,8 @@
 | 103 | 1564 | Charie Holland |
 | 104 | 1535 | Donnie Hunt |
 | 105 | 1534 | Loopy Clusterbuilder |
-| 106 | 1516 | Stephen Stephen |
-| 107 | 1516 | Mindy Leigh Head |
+| 106 | 1516 | Mindy Leigh Head |
+| 107 | 1516 | Stephen Stephen |
 | 108 | 1513 | blackq |
 | 109 | 1507 | Stephanie Chapman |
 | 110 | 1507 | Linda Pierce |
@@ -186,8 +186,8 @@
 | 178 | 1062 | Crystal Slaughter |
 | 179 | 1050 | Amy Sayers |
 | 180 | 1045 | Lourisha |
-| 181 | 1043 | Brave Dropmatch |
-| 182 | 1043 | Suki Kaur |
+| 181 | 1043 | Suki Kaur |
+| 182 | 1043 | Brave Dropmatch |
 | 183 | 1036 | Allison Lockyer |
 | 184 | 1025 | Brandy Andre |
 | 185 | 1024 | Bri Lynn |
@@ -314,8 +314,8 @@
 | 306 | 715 | Stephanie Lumanlan |
 | 307 | 713 | Chelle |
 | 308 | 711 | Melissa Holsinger |
-| 309 | 704 | Shelley Thornburgh Wright |
-| 310 | 704 | Jánine Riggs |
+| 309 | 704 | Jánine Riggs |
+| 310 | 704 | Shelley Thornburgh Wright |
 | 311 | 703 | Gold Rose |
 | 312 | 700 | Vincent Petrella |
 | 313 | 700 | Hong Tang |
@@ -330,8 +330,8 @@
 | 322 | 688 | ShinyRose |
 | 323 | 687 | Dee |
 | 324 | 686 | Ashley Guernsey-Martin |
-| 325 | 685 | Binyah-Binyah |
-| 326 | 685 | Brenda Pierpoint |
+| 325 | 685 | Brenda Pierpoint |
+| 326 | 685 | Binyah-Binyah |
 | 327 | 682 | Poldo Ilano |
 | 328 | 680 | Glitzy Stackzone |
 | 329 | 679 | Eric Castaneda |
@@ -370,10 +370,10 @@
 | 362 | 620 | Demeka Dangerous-kisses Johnson |
 | 363 | 618 | Gary Stash |
 | 364 | 613 | Ellie Jonas |
-| 365 | 613 | Caitlyn Blackwell |
-| 366 | 613 | Breezy Filler |
-| 367 | 611 | Carl Bradshaw |
-| 368 | 611 | Julio A Laracuente |
+| 365 | 613 | Breezy Filler |
+| 366 | 613 | Caitlyn Blackwell |
+| 367 | 611 | Julio A Laracuente |
+| 368 | 611 | Carl Bradshaw |
 | 369 | 611 | Em Chen |
 | 370 | 606 | Brittney Jean |
 | 371 | 603 | Cassie Maynard |
@@ -617,8 +617,8 @@
 | 609 | 396 | AkaLefty |
 | 610 | 396 | Boogie SoAnimated Johnson |
 | 611 | 393 | Jamie West |
-| 612 | 393 | Deyawn Smith |
-| 613 | 393 | Smashanator |
+| 612 | 393 | Smashanator |
+| 613 | 393 | Deyawn Smith |
 | 614 | 392 | Jasmine Kenney |
 | 615 | 391 | Chilly Bridgepiece |
 | 616 | 391 | Qiana Sanders |
