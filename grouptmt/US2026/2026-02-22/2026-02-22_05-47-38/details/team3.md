@@ -49,8 +49,8 @@
 | 41 | 1036 | Ant Ant |
 | 42 | 1015 | Amber Jones |
 | 43 | 998 | Liv Whetson |
-| 44 | 989 | Joey Banks |
-| 45 | 989 | Kay |
+| 44 | 989 | Kay |
+| 45 | 989 | Joey Banks |
 | 46 | 975 | Stephanie Rice |
 | 47 | 956 | Gracie |
 | 48 | 935 | Snappy Fitzone |
@@ -781,7 +781,7 @@
 | 773 | 70 | Silly Curvetile |
 | 774 | 70 | Lesa Bartlett |
 | 775 | 69 | Michelle Castillo |
-| 776 | 69 | Chad |
+| 776 | 69 | Stitchmom |
 | 777 | 69 | Paula Urlacher |
 | 778 | 69 | Chad |
 | 779 | 69 | Lisa Feddeck |
@@ -1324,7 +1324,7 @@
 | 1316 | 39 | Dreamy Riserfit |
 | 1317 | 39 | Proshone Clark |
 | 1318 | 39 | Christine M. Foran |
-| 1319 | 39 | Twisty Strikerpiece |
+| 1319 | 39 | Poppy T-spin |
 | 1320 | 39 | Sumner Lee |
 | 1321 | 39 | Jennifer Carpenter |
 | 1322 | 39 | Twisty Strikerpiece |

@@ -183,8 +183,8 @@
 | 175 | 193 | Lachelle Dillon |
 | 176 | 192 | Jessica Sheehan |
 | 177 | 191 | Diane Byrd |
-| 178 | 190 | Thorne Shumate |
-| 179 | 190 | Sweetts |
+| 178 | 190 | Sweetts |
+| 179 | 190 | Thorne Shumate |
 | 180 | 189 | Jeanna Dunn |
 | 181 | 189 | Michael |
 | 182 | 187 | Jennifer Olewnik Soborowski |

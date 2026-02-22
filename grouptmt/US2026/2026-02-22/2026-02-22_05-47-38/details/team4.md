@@ -86,8 +86,8 @@
 | 78 | 409 | Isabella Blanco |
 | 79 | 404 | Courtney Cicoria |
 | 80 | 402 | Julian Garcia |
-| 81 | 396 | Alicia Bass |
-| 82 | 396 | Amy Suckarieh |
+| 81 | 396 | Amy Suckarieh |
+| 82 | 396 | Alicia Bass |
 | 83 | 391 | Ramel Rhodes |
 | 84 | 390 | Carlton Unfiltered |
 | 85 | 382 | Marie-Pier Desjardins |
@@ -150,8 +150,8 @@
 | 142 | 225 | Damn Libra |
 | 143 | 224 | Matt Summer |
 | 144 | 223 | Antony Dwayne Beasley |
-| 145 | 222 | TheNeesh50 |
-| 146 | 222 | Joeliecea Cobb |
+| 145 | 222 | Joeliecea Cobb |
+| 146 | 222 | TheNeesh50 |
 | 147 | 221 | PurpleMoonMa |
 | 148 | 221 | Rheanda Weaskus |
 | 149 | 220 | Matt Dell'Olio |
@@ -368,7 +368,7 @@
 | 360 | 97 | Rosemary Foster |
 | 361 | 96 | Rebecca Blake |
 | 362 | 96 | Sammy Noguera |
-| 363 | 95 | Chirpy Slammer |
+| 363 | 95 | Jobadia Steelerton |
 | 364 | 95 | Tina Martinez |
 | 365 | 95 | Chirpy Slammer |
 | 366 | 95 | Lora |
