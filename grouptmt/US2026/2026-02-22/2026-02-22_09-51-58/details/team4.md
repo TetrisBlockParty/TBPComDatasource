@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Lucille Truesdale |
-| 34 | 843 | Shelly Chandler |
+| 33 | 843 | Shelly Chandler |
+| 34 | 843 | Lucille Truesdale |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -56,14 +56,14 @@
 | 48 | 695 | LisaJo Picken Buchanan |
 | 49 | 677 | Anthony Bryan Riva |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Rebecca Moulton Pinciaro |
-| 52 | 659 | Jonathan Kimbrough |
+| 51 | 659 | Jonathan Kimbrough |
+| 52 | 659 | Rebecca Moulton Pinciaro |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Kimyatta Cavin |
-| 58 | 636 | Dustee Craddock-Harrison |
+| 57 | 636 | Dustee Craddock-Harrison |
+| 58 | 636 | Kimyatta Cavin |
 | 59 | 623 | Robin Getchel |
 | 60 | 599 | Brittney Griggs |
 | 61 | 593 | Lisa Davis |
@@ -135,10 +135,10 @@
 | 127 | 286 | Daria Rycewicz |
 | 128 | 283 | Brittney Orengo |
 | 129 | 281 | Meagan Nicole |
-| 130 | 278 | Carrie Brian |
-| 131 | 278 | Desi Desporte |
-| 132 | 277 | Scott Jameson |
-| 133 | 277 | Mary Ann Pabukis |
+| 130 | 278 | Desi Desporte |
+| 131 | 278 | Carrie Brian |
+| 132 | 277 | Mary Ann Pabukis |
+| 133 | 277 | Scott Jameson |
 | 134 | 275 | Dizzy Tiley |
 | 135 | 274 | Calvin Cannon |
 | 136 | 272 | Keshia Lyons |
@@ -158,8 +158,8 @@
 | 150 | 240 | Peachy Fall |
 | 151 | 237 | Chris Bernstein |
 | 152 | 232 | Crystal Nicolette Moore |
-| 153 | 230 | Cursed Hag |
-| 154 | 230 | Autum Leigh |
+| 153 | 230 | Autum Leigh |
+| 154 | 230 | Cursed Hag |
 | 155 | 228 | J-Rizzle |
 | 156 | 227 | Alyssa Papen |
 | 157 | 227 | Swanky Fitline |
@@ -186,8 +186,8 @@
 | 178 | 204 | Jen Caldwell |
 | 179 | 203 | Katherine Crane |
 | 180 | 202 | TRCuse |
-| 181 | 201 | Chance Strickland |
-| 182 | 201 | Melvin Baird |
+| 181 | 201 | Melvin Baird |
+| 182 | 201 | Chance Strickland |
 | 183 | 200 | Laura |
 | 184 | 199 | Zethra Prenisha Rahming |
 | 185 | 198 | Keith Kelley |

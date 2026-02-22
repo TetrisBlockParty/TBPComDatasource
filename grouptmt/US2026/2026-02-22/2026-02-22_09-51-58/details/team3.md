@@ -142,8 +142,8 @@
 | 134 | 454 | Makelini Mausia |
 | 135 | 453 | Silly Twist |
 | 136 | 449 | Danielle Rhoades |
-| 137 | 445 | Kristie McFarland |
-| 138 | 445 | Jacqueline Rodriguez |
+| 137 | 445 | Jacqueline Rodriguez |
+| 138 | 445 | Kristie McFarland |
 | 139 | 435 | Michelle |
 | 140 | 432 | Jenny Hrndz |
 | 141 | 428 | Betty Ivy |
@@ -174,8 +174,8 @@
 | 166 | 376 | Loopy Clusterer |
 | 167 | 374 | Sherry Ogden |
 | 168 | 371 | Michael Nowogorski |
-| 169 | 370 | Logan Naccarato |
-| 170 | 370 | Santeria Trece Candles |
+| 169 | 370 | Santeria Trece Candles |
+| 170 | 370 | Logan Naccarato |
 | 171 | 370 | Danielle Allison |
 | 172 | 368 | Stephanie Woods |
 | 173 | 366 | Adrian Marcel Pate |
@@ -276,8 +276,8 @@
 | 268 | 232 | Donna |
 | 269 | 227 | Krystal Gerstberger |
 | 270 | 227 | Meowsa |
-| 271 | 225 | Cozy Snaplink |
-| 272 | 225 | Dirtgirl27 |
+| 271 | 225 | Dirtgirl27 |
+| 272 | 225 | Cozy Snaplink |
 | 273 | 224 | Quirky Dropzone |
 | 274 | 221 | Vaners |
 | 275 | 221 | Jaime Monhaut-Reed |
@@ -290,14 +290,14 @@
 | 282 | 216 | Twisty Brick LT |
 | 283 | 215 | IamJust Neyamijah Washington Sr. |
 | 284 | 214 | Angela Scott |
-| 285 | 214 | Amy Fuller Heaton |
-| 286 | 214 | Rebel124 |
+| 285 | 214 | Rebel124 |
+| 286 | 214 | Amy Fuller Heaton |
 | 287 | 213 | Nicholas Roddy |
-| 288 | 212 | Sunny Rotater |
-| 289 | 212 | Desiree Gold |
-| 290 | 211 | Khaleada McGill Banks |
+| 288 | 212 | Desiree Gold |
+| 289 | 212 | Sunny Rotater |
+| 290 | 211 | El Chapa |
 | 291 | 211 | Velma Mull |
-| 292 | 211 | El Chapa |
+| 292 | 211 | Khaleada McGill Banks |
 | 293 | 210 | Lizabeth Fox |
 | 294 | 209 | Micayah Stevens |
 | 295 | 208 | AlsoJess |
@@ -322,8 +322,8 @@
 | 314 | 192 | Kelly Ann Child |
 | 315 | 191 | Becca Engle |
 | 316 | 191 | Philip Rock |
-| 317 | 189 | Katie Leigh Blankenship |
-| 318 | 189 | France Vézina |
+| 317 | 189 | France Vézina |
+| 318 | 189 | Katie Leigh Blankenship |
 | 319 | 188 | Loopy Fallmatch |
 | 320 | 187 | Tipsy Zonebuilder |
 | 321 | 186 | Sameerah Smith |

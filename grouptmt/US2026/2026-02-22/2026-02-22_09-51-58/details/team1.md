@@ -54,8 +54,8 @@
 | 46 | 671 | Lawrence Belanger |
 | 47 | 663 | Drew Magnus |
 | 48 | 646 | Susanna Guerry |
-| 49 | 635 | Marianne Louise West |
-| 50 | 635 | Angel Fowler |
+| 49 | 635 | Angel Fowler |
+| 50 | 635 | Marianne Louise West |
 | 51 | 631 | comrade fish |
 | 52 | 623 | Katie Daniels |
 | 53 | 614 | Snappy Swiper |
@@ -76,8 +76,8 @@
 | 68 | 473 | Kellie |
 | 69 | 461 | April Carroll |
 | 70 | 447 | Evie Khalil |
-| 71 | 434 | Hyper |
-| 72 | 434 | MomMom |
+| 71 | 434 | MomMom |
+| 72 | 434 | Hyper |
 | 73 | 430 | Nancy Green |
 | 74 | 428 | Stephanie Zahn |
 | 75 | 418 | Jazzy Framezone |
@@ -87,9 +87,9 @@
 | 79 | 412 | Anaid Sanchez |
 | 80 | 406 | Yvonne Marie |
 | 81 | 400 | Cynthia Bradley |
-| 82 | 390 | Candy Jones |
+| 82 | 390 | Lori Bales |
 | 83 | 390 | Goose egg |
-| 84 | 390 | Lori Bales |
+| 84 | 390 | Candy Jones |
 | 85 | 389 | Trina Gee |
 | 86 | 388 | Jennifer ManWarren |
 | 87 | 388 | cc |
@@ -110,10 +110,10 @@
 | 102 | 344 | Bhelle Sumile |
 | 103 | 342 | Brenda Stewart |
 | 104 | 341 | Nick R Montague |
-| 105 | 333 | Brandi Huntington |
-| 106 | 333 | phrmblk24 |
-| 107 | 332 | Kristen Gideon |
-| 108 | 332 | Luciano Moreira |
+| 105 | 333 | phrmblk24 |
+| 106 | 333 | Brandi Huntington |
+| 107 | 332 | Luciano Moreira |
+| 108 | 332 | Kristen Gideon |
 | 109 | 330 | Sweet Baker |
 | 110 | 328 | Gracie |
 | 111 | 327 | Arianna O'Brien |
@@ -158,8 +158,8 @@
 | 150 | 253 | Witty Builderfit |
 | 151 | 252 | Dena Kayy |
 | 152 | 247 | Tana |
-| 153 | 244 | Mandyy Rae |
-| 154 | 244 | Tyler Werts |
+| 153 | 244 | Tyler Werts |
+| 154 | 244 | Mandyy Rae |
 | 155 | 243 | Trippy Redd |
 | 156 | 242 | ALFD |
 | 157 | 241 | John J. Cronin |
@@ -189,8 +189,8 @@
 | 181 | 207 | Leslie Bush Yarbrough |
 | 182 | 207 | Ty Brown |
 | 183 | 206 | BadG52 |
-| 184 | 205 | Snappy Matcher |
-| 185 | 205 | Tater |
+| 184 | 205 | Tater |
+| 185 | 205 | Snappy Matcher |
 | 186 | 204 | Lacy Wolfe |
 | 187 | 203 | LaFontaine Leslie |
 | 188 | 203 | Paula Martin |
@@ -198,16 +198,16 @@
 | 190 | 200 | DaRascal |
 | 191 | 200 | Breanna Luna |
 | 192 | 199 | Basment Living |
-| 193 | 198 | Happy Snapbuild |
-| 194 | 198 | Shiny Gridmatch |
+| 193 | 198 | Shiny Gridmatch |
+| 194 | 198 | Happy Snapbuild |
 | 195 | 195 | Shaykmia |
 | 196 | 195 | Jennifer Olewnik Soborowski |
 | 197 | 195 | Bindi |
 | 198 | 194 | Christy Jones |
-| 199 | 193 | Lachelle Dillon |
-| 200 | 193 | Michael |
-| 201 | 191 | Shanae Grant |
-| 202 | 191 | Diane Byrd |
+| 199 | 193 | Michael |
+| 200 | 193 | Lachelle Dillon |
+| 201 | 191 | Diane Byrd |
+| 202 | 191 | Shanae Grant |
 | 203 | 190 | Sweetts |
 | 204 | 190 | Thorne Shumate |
 | 205 | 189 | Veronica Eve |
@@ -312,8 +312,8 @@
 | 304 | 130 | Carrie Smith |
 | 305 | 130 | Carl Claunch |
 | 306 | 129 | Sherri E Woods Hess |
-| 307 | 128 | George Dalton |
-| 308 | 128 | Alyssa Ingram |
+| 307 | 128 | Alyssa Ingram |
+| 308 | 128 | George Dalton |
 | 309 | 127 | Danielle Mae |
 | 310 | 126 | Zany Tiler |
 | 311 | 126 | Tyler Hertzog |
