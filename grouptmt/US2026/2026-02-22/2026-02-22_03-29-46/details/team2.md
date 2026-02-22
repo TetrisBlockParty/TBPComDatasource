@@ -155,8 +155,8 @@
 | 147 | 983 | Teddi Notyalc |
 | 148 | 977 | Ricardo Burton |
 | 149 | 974 | Dolores Russworn |
-| 150 | 973 | Kim Dean |
-| 151 | 973 | Janel Turley-Garner |
+| 150 | 973 | Janel Turley-Garner |
+| 151 | 973 | Kim Dean |
 | 152 | 970 | Mr. Street Stack |
 | 153 | 953 | Ladyrainbootz |
 | 154 | 951 | Cynthia Ward |

@@ -205,16 +205,16 @@
 | 197 | 163 | DaRascal |
 | 198 | 162 | Cece Ibarra |
 | 199 | 161 | SavageBooty98 |
-| 200 | 160 | Tedashi |
-| 201 | 160 | David Miller |
+| 200 | 160 | David Miller |
+| 201 | 160 | Tedashi |
 | 202 | 159 | Bindi |
 | 203 | 158 | Sarah Marie |
 | 204 | 154 | Melissa Lemmon |
 | 205 | 153 | Barry Mac'Ockner |
 | 206 | 152 | Speedy Snapfall |
 | 207 | 152 | Brave Wrecker |
-| 208 | 150 | Adele Rahman |
-| 209 | 150 | Agustin Duarte Orozco |
+| 208 | 150 | Agustin Duarte Orozco |
+| 209 | 150 | Adele Rahman |
 | 210 | 147 | Davery Spencer Adair |
 | 211 | 147 | J.F. Fields |
 | 212 | 146 | Witty Builderfit |
@@ -263,12 +263,12 @@
 | 255 | 123 | Zany Tiler |
 | 256 | 122 | Nate Funk |
 | 257 | 121 | Jacob Shaddock |
-| 258 | 120 | DoodleBug |
-| 259 | 120 | Kimmie Kimms |
+| 258 | 120 | Kimmie Kimms |
+| 259 | 120 | DoodleBug |
 | 260 | 119 | Strig |
 | 261 | 119 | Tater |
-| 262 | 118 | Garcia Bailey |
-| 263 | 118 | Tyler Hertzog |
+| 262 | 118 | Tyler Hertzog |
+| 263 | 118 | Garcia Bailey |
 | 264 | 116 | Fresno Beotoni |
 | 265 | 116 | Debbie Davis |
 | 266 | 115 | Mrs.Patrica |

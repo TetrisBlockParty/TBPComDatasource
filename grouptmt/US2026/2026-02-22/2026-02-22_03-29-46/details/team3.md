@@ -47,8 +47,8 @@
 | 39 | 1015 | Amber Jones |
 | 40 | 998 | Liv Whetson |
 | 41 | 996 | Danielle Cutler |
-| 42 | 989 | Joey Banks |
-| 43 | 989 | Kay |
+| 42 | 989 | Kay |
+| 43 | 989 | Joey Banks |
 | 44 | 954 | Stephanie Rice |
 | 45 | 935 | Snappy Fitzone |
 | 46 | 931 | Fancy Slam |
@@ -71,8 +71,8 @@
 | 63 | 704 | Suzieq |
 | 64 | 703 | Jessica Bechler |
 | 65 | 682 | Patricia Gadsden |
-| 66 | 656 | Elaine Webb Graves |
-| 67 | 656 | Ebony West-Cundiff |
+| 66 | 656 | Ebony West-Cundiff |
+| 67 | 656 | Elaine Webb Graves |
 | 68 | 649 | MissTaylor |
 | 69 | 628 | Tiff Vs Tiffany |
 | 70 | 621 | Cherry Parker |
@@ -161,8 +161,8 @@
 | 153 | 335 | Leah Barnett |
 | 154 | 332 | Fallorina Susana |
 | 155 | 328 | Aaron Pitkin |
-| 156 | 323 | Ashley Raines |
-| 157 | 323 | Demetrious Shaw Sr. |
+| 156 | 323 | Demetrious Shaw Sr. |
+| 157 | 323 | Ashley Raines |
 | 158 | 320 | Or Reznitsky |
 | 159 | 317 | Ashley Tookes |
 | 160 | 316 | Rich LeBlanc |
@@ -197,8 +197,8 @@
 | 189 | 267 | Terry Jo Jones |
 | 190 | 267 | Denise Nardoni |
 | 191 | 265 | Araceli Parra |
-| 192 | 264 | Tom Nault |
-| 193 | 264 | Dee Franklin |
+| 192 | 264 | Dee Franklin |
+| 193 | 264 | Tom Nault |
 | 194 | 263 | Angeline Joseph |
 | 195 | 262 | Joe-Maggie Mathews |
 | 196 | 261 | Brittany |
@@ -206,9 +206,9 @@
 | 198 | 260 | Grams |
 | 199 | 258 | Tamara Deherrera |
 | 200 | 257 | Ashley Jones |
-| 201 | 256 | KayB |
-| 202 | 256 | Brenda Lee Vander Molen |
-| 203 | 256 | Tiffany Davie |
+| 201 | 256 | Brenda Lee Vander Molen |
+| 202 | 256 | Tiffany Davie |
+| 203 | 256 | KayB |
 | 204 | 254 | Duane Bright |
 | 205 | 253 | Nora Rogers |
 | 206 | 249 | Annie Marie |
@@ -503,7 +503,7 @@
 | 495 | 96 | Rima Mackelburger |
 | 496 | 96 | Oliver Neal II |
 | 497 | 96 | James Lykes |
-| 498 | 95 | Nichole Greene |
+| 498 | 95 | Sassy Tiler |
 | 499 | 95 | Me,Him,Yu |
 | 500 | 95 | Nichole Greene |
 | 501 | 94 | Jalissa Monique |
