@@ -250,9 +250,9 @@
 | 242 | 228 | Giddy Cascade |
 | 243 | 228 | Michael |
 | 244 | 224 | ParisandCory Champagne |
-| 245 | 223 | Thorne Shumate |
-| 246 | 223 | Erez Yosef |
-| 247 | 223 | Christina Backer |
+| 245 | 223 | Erez Yosef |
+| 246 | 223 | Christina Backer |
+| 247 | 223 | Thorne Shumate |
 | 248 | 222 | Snappy Bridgepiece |
 | 249 | 222 | Debbie Davis |
 | 250 | 221 | BadG52 |
@@ -294,8 +294,8 @@
 | 286 | 196 | Perky Shiftsnap |
 | 287 | 195 | Jennifer Olewnik Soborowski |
 | 288 | 195 | Beazel75 |
-| 289 | 194 | Tiger Lily |
-| 290 | 194 | Poppy Riserpiece |
+| 289 | 194 | Poppy Riserpiece |
+| 290 | 194 | Tiger Lily |
 | 291 | 194 | Glitzy Buildsnap |
 | 292 | 193 | Phu ckalldems |
 | 293 | 193 | Tina Englert |
@@ -319,8 +319,8 @@
 | 311 | 187 | GringaLinga |
 | 312 | 187 | Speedy Snapfall |
 | 313 | 186 | Nikki Fridley |
-| 314 | 185 | Oscar Zamora |
-| 315 | 185 | Hasty Columnbuilder |
+| 314 | 185 | Hasty Columnbuilder |
+| 315 | 185 | Oscar Zamora |
 | 316 | 184 | Cranky Pattern |
 | 317 | 184 | Itspaigebro |
 | 318 | 183 | Dino |
