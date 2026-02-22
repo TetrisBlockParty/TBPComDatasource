@@ -193,8 +193,8 @@
 | 185 | 251 | Matt Summer |
 | 186 | 250 | Matt Dell'Olio |
 | 187 | 247 | Sam Bishop |
-| 188 | 245 | Peachy Fall |
-| 189 | 245 | Andria Lynn |
+| 188 | 245 | Andria Lynn |
+| 189 | 245 | Peachy Fall |
 | 190 | 245 | Autum Leigh |
 | 191 | 244 | Twisty Cascadezone |
 | 192 | 243 | Mr. Party |
@@ -255,11 +255,11 @@
 | 247 | 189 | Dihcheese444 |
 | 248 | 188 | Stephme310 |
 | 249 | 185 | Laura Hosford |
-| 250 | 184 | Lauren Lamb |
-| 251 | 184 | Ak Jones |
+| 250 | 184 | Ak Jones |
+| 251 | 184 | Lauren Lamb |
 | 252 | 182 | TinyLegoRose |
-| 253 | 181 | Carter Jones |
-| 254 | 181 | Jackie Marie |
+| 253 | 181 | Jackie Marie |
+| 254 | 181 | Carter Jones |
 | 255 | 180 | Orchislactea |
 | 256 | 179 | Christina Black |
 | 257 | 179 | AyeKay |
@@ -489,7 +489,7 @@
 | 481 | 98 | Carla Harris |
 | 482 | 98 | Morti |
 | 483 | 98 | Brenda Bird |
-| 484 | 98 | Morti |
+| 484 | 98 | LunaMoon |
 | 485 | 97 | Serena Butter |
 | 486 | 97 | Flavoredsausage |
 | 487 | 96 | Tyler Bechtel |

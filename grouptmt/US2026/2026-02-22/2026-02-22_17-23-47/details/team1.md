@@ -94,8 +94,8 @@
 | 86 | 443 | Steve Schneider |
 | 87 | 436 | Tonya Beasley |
 | 88 | 434 | Loony Fitzone |
-| 89 | 433 | Tinah Montanna |
-| 90 | 433 | Trina Gee |
+| 89 | 433 | Trina Gee |
+| 90 | 433 | Tinah Montanna |
 | 91 | 429 | Tdub |
 | 92 | 428 | Stephanie Zahn |
 | 93 | 418 | Jazzy Framezone |
@@ -105,8 +105,8 @@
 | 97 | 409 | Yvonne Marie |
 | 98 | 401 | cc |
 | 99 | 400 | Cynthia Bradley |
-| 100 | 390 | Lori Bales |
-| 101 | 390 | Candy Jones |
+| 100 | 390 | Candy Jones |
+| 101 | 390 | Lori Bales |
 | 102 | 390 | Goose egg |
 | 103 | 389 | Nery Martinez |
 | 104 | 385 | Brenda Stewart |

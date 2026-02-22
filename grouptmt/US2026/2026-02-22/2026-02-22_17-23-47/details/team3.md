@@ -224,8 +224,8 @@
 | 216 | 332 | Ashley Tookes |
 | 217 | 332 | Rich LeBlanc |
 | 218 | 330 | Rebecca Funderburk Kirby |
-| 219 | 324 | Kristal C Lee |
-| 220 | 324 | Sissy Lowery Davis |
+| 219 | 324 | Sissy Lowery Davis |
+| 220 | 324 | Kristal C Lee |
 | 221 | 323 | Demetrious Shaw Sr. |
 | 222 | 321 | Rebecca Bailey |
 | 223 | 320 | Brittany |
@@ -305,18 +305,18 @@
 | 297 | 236 | Lys |
 | 298 | 236 | Angela Scott |
 | 299 | 236 | Jess Bissett |
-| 300 | 233 | Twisty Brick LT |
-| 301 | 233 | Tony Waters |
+| 300 | 233 | Tony Waters |
+| 301 | 233 | Twisty Brick LT |
 | 302 | 232 | Donna |
 | 303 | 231 | Kiki |
 | 304 | 231 | Kevin Russell |
 | 305 | 230 | BigE |
 | 306 | 228 | Naur |
 | 307 | 227 | Rebel124 |
-| 308 | 227 | Meowsa |
-| 309 | 227 | ROODBOY |
+| 308 | 227 | ROODBOY |
+| 309 | 227 | Meowsa |
 | 310 | 226 | Jana Polk |
-| 311 | 225 | Stephanie Hill |
+| 311 | 225 | Dirtgirl27 |
 | 312 | 225 | Steffi Chris Dacones |
 | 313 | 225 | Stephanie Hill |
 | 314 | 223 | Michael Lucado |
@@ -390,10 +390,10 @@
 | 382 | 189 | Katie Leigh Blankenship |
 | 383 | 188 | Crystal Hine |
 | 384 | 186 | Bryan Byrd |
-| 385 | 186 | Sameerah Smith |
-| 386 | 186 | Noettín Kan Zasnemoore |
-| 387 | 185 | Frilly Stackzone |
-| 388 | 185 | Angella Lyons |
+| 385 | 186 | Noettín Kan Zasnemoore |
+| 386 | 186 | Sameerah Smith |
+| 387 | 185 | Angella Lyons |
+| 388 | 185 | Frilly Stackzone |
 | 389 | 184 | Shanon R Jackson |
 | 390 | 184 | Salena Whitlock |
 | 391 | 183 | Smiley Zone |

@@ -211,8 +211,8 @@
 | 203 | 998 | Tralonda Weeks |
 | 204 | 993 | Eric Carlson |
 | 205 | 991 | Moose Griffith |
-| 206 | 989 | Desiree Harris Rosch |
-| 207 | 989 | Teddi Notyalc |
+| 206 | 989 | Teddi Notyalc |
+| 207 | 989 | Desiree Harris Rosch |
 | 208 | 988 | Cherica Taylor |
 | 209 | 986 | RAEPR05 |
 | 210 | 979 | Hillary Crawford |
@@ -289,8 +289,8 @@
 | 281 | 803 | Barbra Miller |
 | 282 | 802 | Jessica Wayne Cornwall |
 | 283 | 800 | Danielle Johnson-Chandler |
-| 284 | 792 | Offonar Facey |
-| 285 | 792 | Andrea Maher |
+| 284 | 792 | Andrea Maher |
+| 285 | 792 | Offonar Facey |
 | 286 | 787 | Laura McCarthey |
 | 287 | 783 | Lisa Ongtowasruk |
 | 288 | 781 | Angie Bolton Workman |
@@ -370,8 +370,8 @@
 | 362 | 643 | Hoppy Brickmatch |
 | 363 | 642 | Cassie Maynard |
 | 364 | 641 | Vonceial Boone |
-| 365 | 640 | BYM4L |
-| 366 | 640 | Kara Gillen |
+| 365 | 640 | Kara Gillen |
+| 366 | 640 | BYM4L |
 | 367 | 639 | Crystie Hicks |
 | 368 | 639 | Rebecca Miller |
 | 369 | 634 | Gary Stash |
@@ -549,8 +549,8 @@
 | 541 | 462 | Jarboe |
 | 542 | 460 | Slinky Racker |
 | 543 | 460 | Tara Lynn Janes |
-| 544 | 460 | Funky Caster |
-| 545 | 460 | Gloria Ininahazwe |
+| 544 | 460 | Gloria Ininahazwe |
+| 545 | 460 | Funky Caster |
 | 546 | 458 | SwampRebel |
 | 547 | 458 | Casper The Chonk |
 | 548 | 456 | Lee Harper |
@@ -835,8 +835,8 @@
 | 827 | 308 | Samuel Labruno |
 | 828 | 307 | Ethan Stienbarger |
 | 829 | 305 | Zany Clusterbuilder |
-| 830 | 305 | Epic Fitzone |
-| 831 | 305 | Narutofreak13 |
+| 830 | 305 | Narutofreak13 |
+| 831 | 305 | Epic Fitzone |
 | 832 | 305 | Frisky Patternline |
 | 833 | 304 | Giggly Snap |
 | 834 | 304 | Melissa McCall |
