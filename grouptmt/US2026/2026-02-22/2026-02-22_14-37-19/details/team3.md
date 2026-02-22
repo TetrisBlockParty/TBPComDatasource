@@ -227,13 +227,13 @@
 | 219 | 301 | Chelsea Hall |
 | 220 | 300 | Sherika C. McDaniels |
 | 221 | 298 | MsBee |
-| 222 | 297 | Jojo M |
-| 223 | 297 | JerseyJess |
+| 222 | 297 | JerseyJess |
+| 223 | 297 | Jojo M |
 | 224 | 296 | Ammmmmmy |
 | 225 | 296 | Katrina Turner |
 | 226 | 296 | Brandon Givens |
-| 227 | 289 | Duane Bright |
-| 228 | 289 | Hoppy Buildout |
+| 227 | 289 | Hoppy Buildout |
+| 228 | 289 | Duane Bright |
 | 229 | 289 | DidIdothat |
 | 230 | 288 | Staci George Fitzsimmons |
 | 231 | 288 | Melissa Orth Hunter |
@@ -317,8 +317,8 @@
 | 309 | 210 | Criss |
 | 310 | 210 | Lizabeth Fox |
 | 311 | 209 | Micayah Stevens |
-| 312 | 208 | Niki Dalrymple |
-| 313 | 208 | AlsoJess |
+| 312 | 208 | AlsoJess |
+| 313 | 208 | Niki Dalrymple |
 | 314 | 207 | angieelyn |
 | 315 | 207 | Jessica |
 | 316 | 207 | Daring Builder |

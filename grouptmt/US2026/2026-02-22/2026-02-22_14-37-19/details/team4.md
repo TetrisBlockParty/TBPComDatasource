@@ -42,8 +42,8 @@
 | 34 | 873 | Elizabeth Sallas |
 | 35 | 871 | Denny Shives |
 | 36 | 846 | Christine Marie |
-| 37 | 843 | Lucille Truesdale |
-| 38 | 843 | Shelly Chandler |
+| 37 | 843 | Shelly Chandler |
+| 38 | 843 | Lucille Truesdale |
 | 39 | 834 | quicksand420 |
 | 40 | 818 | Marvin Lou Martin |
 | 41 | 811 | Jae Job |
@@ -68,8 +68,8 @@
 | 60 | 654 | Chilly Line |
 | 61 | 647 | KM8 |
 | 62 | 646 | Jacqueline Helm |
-| 63 | 636 | Dustee Craddock-Harrison |
-| 64 | 636 | Kimyatta Cavin |
+| 63 | 636 | Kimyatta Cavin |
+| 64 | 636 | Dustee Craddock-Harrison |
 | 65 | 620 | Landon Keith Graffeo |
 | 66 | 614 | TheNeesh50 |
 | 67 | 608 | Avy Absol |
@@ -114,8 +114,8 @@
 | 106 | 395 | Marie-Pier Desjardins |
 | 107 | 393 | Carlton Unfiltered |
 | 108 | 392 | Ericca Eldridge |
-| 109 | 391 | Monica Daley |
-| 110 | 391 | Ramel Rhodes |
+| 109 | 391 | Ramel Rhodes |
+| 110 | 391 | Monica Daley |
 | 111 | 387 | Denise Carlson |
 | 112 | 382 | Lori Walker |
 | 113 | 373 | Joseph Guthrie |
@@ -370,8 +370,8 @@
 | 362 | 121 | Riverdale |
 | 363 | 120 | wombat |
 | 364 | 120 | Bryan Hodgins |
-| 365 | 119 | Glitzy Crasher |
-| 366 | 119 | rebel4lyfe |
+| 365 | 119 | rebel4lyfe |
+| 366 | 119 | Glitzy Crasher |
 | 367 | 119 | River Shady Sr. |
 | 368 | 118 | Perky Piecegrid |
 | 369 | 118 | Darrin Rubalcava |
