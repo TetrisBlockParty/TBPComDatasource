@@ -135,8 +135,8 @@
 | 127 | 1273 | Cool Rollpiece |
 | 128 | 1257 | Eileen Hale |
 | 129 | 1252 | Katrina Williams Balmir |
-| 130 | 1248 | Isabela Shaw |
-| 131 | 1248 | Howard Forest |
+| 130 | 1248 | Howard Forest |
+| 131 | 1248 | Isabela Shaw |
 | 132 | 1242 | Altamirano Michael |
 | 133 | 1232 | Groovy Puzzle |
 | 134 | 1226 | Vo'Landa Reels |
@@ -173,8 +173,8 @@
 | 165 | 1048 | PsychKIRAtrist |
 | 166 | 1047 | Amy Sayers |
 | 167 | 1045 | Lourisha |
-| 168 | 1043 | Suki Kaur |
-| 169 | 1043 | Brave Dropmatch |
+| 168 | 1043 | Brave Dropmatch |
+| 169 | 1043 | Suki Kaur |
 | 170 | 1035 | Sarah Freitas |
 | 171 | 1029 | Samantha Roberts |
 | 172 | 1024 | Bri Lynn |
@@ -289,8 +289,8 @@
 | 281 | 703 | Gold Rose |
 | 282 | 700 | Hong Tang |
 | 283 | 700 | Vincent Petrella |
-| 284 | 700 | Rosemadder |
-| 285 | 700 | Beverly Owens |
+| 284 | 700 | Beverly Owens |
+| 285 | 700 | Rosemadder |
 | 286 | 698 | Mighty Shatterfit |
 | 287 | 697 | Dreamy Blast |
 | 288 | 696 | Kathryn Townsley |
@@ -305,8 +305,8 @@
 | 297 | 685 | Binyah-Binyah |
 | 298 | 681 | Melissa Holsinger |
 | 299 | 679 | Offonar Facey |
-| 300 | 679 | Brenda Utphall |
-| 301 | 679 | Dee |
+| 300 | 679 | Dee |
+| 301 | 679 | Brenda Utphall |
 | 302 | 679 | Kassandra Hunt |
 | 303 | 678 | Scott Treadway |
 | 304 | 677 | Mema |
@@ -613,8 +613,8 @@
 | 605 | 376 | Darlene Bowman |
 | 606 | 375 | Cecilia A Jenkins |
 | 607 | 375 | Lively Edgepiece |
-| 608 | 373 | Hunter Connors |
-| 609 | 373 | Jessica Hughes |
+| 608 | 373 | Jessica Hughes |
+| 609 | 373 | Hunter Connors |
 | 610 | 373 | Ashley Marie |
 | 611 | 372 | Ebony Deloach Bryant |
 | 612 | 371 | Brenda Messer |
@@ -640,8 +640,8 @@
 | 632 | 362 | Veronics |
 | 633 | 362 | Andrea Maher |
 | 634 | 362 | Tracy Wise |
-| 635 | 362 | Jennifer Scott |
-| 636 | 362 | Aishah Brice |
+| 635 | 362 | Aishah Brice |
+| 636 | 362 | Jennifer Scott |
 | 637 | 361 | Michelle Shrum |
 | 638 | 361 | Lewis Sturgeon |
 | 639 | 360 | Jroc |
@@ -767,8 +767,8 @@
 | 759 | 297 | Ashley Robbins |
 | 760 | 296 | Jennifer Darby |
 | 761 | 296 | Frisky Riserbuilder |
-| 762 | 296 | Epic Fitzone |
-| 763 | 296 | Zappy Dropmatch |
+| 762 | 296 | Zappy Dropmatch |
+| 763 | 296 | Epic Fitzone |
 | 764 | 295 | Noel Tarmy |
 | 765 | 294 | Amanda Edwards |
 | 766 | 293 | Ann Marie Davis |
@@ -792,13 +792,13 @@
 | 784 | 287 | Epic Stackzone |
 | 785 | 286 | Kelsey Sullivan |
 | 786 | 285 | Kimberly Mitchell |
-| 787 | 285 | Court |
-| 788 | 285 | Epic Stackbuilder |
+| 787 | 285 | Epic Stackbuilder |
+| 788 | 285 | Court |
 | 789 | 284 | Hillary Franklin |
 | 790 | 282 | Nutty Slice |
 | 791 | 281 | Anthony |
-| 792 | 280 | Reece Smith |
-| 793 | 280 | Danielle DeLozier Plesec |
+| 792 | 280 | Danielle DeLozier Plesec |
+| 793 | 280 | Reece Smith |
 | 794 | 280 | Luke Califf |
 | 795 | 280 | Belle |
 | 796 | 280 | Sandra Link-Gable |
@@ -983,9 +983,9 @@
 | 975 | 234 | Synn |
 | 976 | 234 | Jannan Haimour |
 | 977 | 233 | Allison Hewitt |
-| 978 | 233 | Nerdy Riserfit |
+| 978 | 233 | Myleaha Holley |
 | 979 | 233 | Jessica Sutter |
-| 980 | 233 | Myleaha Holley |
+| 980 | 233 | Nerdy Riserfit |
 | 981 | 233 | Andrew Engman |
 | 982 | 232 | Chirpy Snapper |
 | 983 | 232 | P. D. Paige |
@@ -1013,8 +1013,8 @@
 | 1005 | 227 | Artemus Darnell |
 | 1006 | 227 | Sedo |
 | 1007 | 227 | Toni Whipple |
-| 1008 | 226 | Kourtney Bradley |
-| 1009 | 226 | Anthony D Gritz Jr |
+| 1008 | 226 | Anthony D Gritz Jr |
+| 1009 | 226 | Kourtney Bradley |
 | 1010 | 225 | Theresa Ring |
 | 1011 | 225 | Tyler C. Jung |
 | 1012 | 225 | Samantha Morgan |
@@ -1069,8 +1069,8 @@
 | 1061 | 214 | Michele Phelps |
 | 1062 | 214 | Happy Puzzle |
 | 1063 | 214 | Luciano Andre Versace Grismondie |
-| 1064 | 213 | Chirpy Tilt |
-| 1065 | 213 | Janai Vrabel |
+| 1064 | 213 | Janai Vrabel |
+| 1065 | 213 | Chirpy Tilt |
 | 1066 | 213 | Hannah Leigh Pelofsky |
 | 1067 | 213 | Cynthia Knox |
 | 1068 | 212 | Sarah Dean |
@@ -1083,9 +1083,9 @@
 | 1075 | 211 | Melissa Koria |
 | 1076 | 211 | Nerdy Blockpiece |
 | 1077 | 211 | Scherrie Smith |
-| 1078 | 210 | Nicolee Hackney |
-| 1079 | 210 | Janet Marie Vega |
-| 1080 | 210 | Nicolle Danielle |
+| 1078 | 210 | Janet Marie Vega |
+| 1079 | 210 | Nicolle Danielle |
+| 1080 | 210 | Nicolee Hackney |
 | 1081 | 210 | Joshua Switzer |
 | 1082 | 210 | Cappin You |
 | 1083 | 209 | Tina Blessed Cage |
@@ -1709,9 +1709,9 @@
 | 1701 | 136 | Krystal Tracy |
 | 1702 | 136 | London Winchester |
 | 1703 | 136 | Saucy Matchfit |
-| 1704 | 136 | Misti Xgipsonx |
+| 1704 | 136 | Shannon Grisson |
 | 1705 | 136 | Oke Raph |
-| 1706 | 136 | Shannon Grisson |
+| 1706 | 136 | Misti Xgipsonx |
 | 1707 | 136 | Tokayan Tannasha Graham |
 | 1708 | 136 | Timothy Mitchell |
 | 1709 | 136 | Slimkaite |
@@ -1853,8 +1853,8 @@
 | 1845 | 126 | Loony Shuffler |
 | 1846 | 126 | Tipsy Balanceblock |
 | 1847 | 125 | Jaime E. Rodriguez |
-| 1848 | 125 | Kristen Bates |
-| 1849 | 125 | Yulonda F Clark |
+| 1848 | 125 | Yulonda F Clark |
+| 1849 | 125 | Kristen Bates |
 | 1850 | 125 | Melvin Mitchell |
 | 1851 | 125 | Ilse Chaparro |
 | 1852 | 125 | Josh N Corrine |

@@ -114,8 +114,8 @@
 | 106 | 341 | Nick R Montague |
 | 107 | 333 | phrmblk24 |
 | 108 | 333 | Brandi Huntington |
-| 109 | 332 | Kristen Gideon |
-| 110 | 332 | Luciano Moreira |
+| 109 | 332 | Luciano Moreira |
+| 110 | 332 | Kristen Gideon |
 | 111 | 330 | Sweet Baker |
 | 112 | 328 | Gracie |
 | 113 | 326 | Monica Donato |
@@ -167,8 +167,8 @@
 | 159 | 241 | John J. Cronin |
 | 160 | 239 | Jamie Jury |
 | 161 | 232 | Jessi Sauer |
-| 162 | 230 | Billie Dawn Sparks |
-| 163 | 230 | Frothy Pattern |
+| 162 | 230 | Frothy Pattern |
+| 163 | 230 | Billie Dawn Sparks |
 | 164 | 229 | David Lutcher |
 | 165 | 229 | Chris K |
 | 166 | 226 | Kandae |

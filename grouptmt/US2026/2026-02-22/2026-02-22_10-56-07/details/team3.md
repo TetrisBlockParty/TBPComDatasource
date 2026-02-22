@@ -217,8 +217,8 @@
 | 209 | 300 | Sherika C. McDaniels |
 | 210 | 298 | MsBee |
 | 211 | 297 | Jojo M |
-| 212 | 296 | Ammmmmmy |
-| 213 | 296 | Katrina Turner |
+| 212 | 296 | Katrina Turner |
+| 213 | 296 | Ammmmmmy |
 | 214 | 296 | Brandon Givens |
 | 215 | 295 | Marci Mize Fandrich |
 | 216 | 291 | Kristal C Lee |
@@ -255,8 +255,8 @@
 | 247 | 258 | Tamara Deherrera |
 | 248 | 257 | Ashley Jones |
 | 249 | 256 | Brenda Lee Vander Molen |
-| 250 | 256 | KayB |
-| 251 | 256 | Tiffany Davie |
+| 250 | 256 | Tiffany Davie |
+| 251 | 256 | KayB |
 | 252 | 250 | Eon Harris |
 | 253 | 250 | fraulila |
 | 254 | 249 | Annie Marie |
@@ -290,8 +290,8 @@
 | 282 | 216 | Twisty Brick LT |
 | 283 | 216 | Cheryl Hinch Tenbrook |
 | 284 | 215 | IamJust Neyamijah Washington Sr. |
-| 285 | 214 | Amy Fuller Heaton |
-| 286 | 214 | Angela Scott |
+| 285 | 214 | Angela Scott |
+| 286 | 214 | Amy Fuller Heaton |
 | 287 | 214 | Rebel124 |
 | 288 | 213 | Nicholas Roddy |
 | 289 | 212 | Sunny Rotater |
@@ -299,8 +299,8 @@
 | 291 | 211 | El Chapa |
 | 292 | 211 | Khaleada McGill Banks |
 | 293 | 211 | Velma Mull |
-| 294 | 210 | Criss |
-| 295 | 210 | Lizabeth Fox |
+| 294 | 210 | Lizabeth Fox |
+| 295 | 210 | Criss |
 | 296 | 209 | Micayah Stevens |
 | 297 | 208 | AlsoJess |
 | 298 | 207 | Jessica |
@@ -394,9 +394,9 @@
 | 386 | 154 | Shanon R Jackson |
 | 387 | 153 | Stefanie LaPointe |
 | 388 | 153 | Tony Waters |
-| 389 | 153 | Lys |
-| 390 | 153 | Betty Bóò |
-| 391 | 153 | Sheila M Frazier |
+| 389 | 153 | Betty Bóò |
+| 390 | 153 | Sheila M Frazier |
+| 391 | 153 | Lys |
 | 392 | 152 | Shiny Zonebuilder |
 | 393 | 151 | Sarah Cowan Burgos |
 | 394 | 150 | Sassy Brickmatch |
@@ -440,8 +440,8 @@
 | 432 | 138 | Skinny Baldez |
 | 433 | 137 | Giggly Brickroll |
 | 434 | 136 | Karen Picaboo |
-| 435 | 136 | Stephanie Zahm |
-| 436 | 136 | Sabrina Mansfield |
+| 435 | 136 | Sabrina Mansfield |
+| 436 | 136 | Stephanie Zahm |
 | 437 | 135 | Morgan Cudo |
 | 438 | 135 | Silver Marchán |
 | 439 | 134 | gremicx |
