@@ -67,19 +67,19 @@
 | 59 | 736 | Goatimus Lombardi |
 | 60 | 735 | Avy Absol |
 | 61 | 722 | Dustee Craddock-Harrison |
-| 62 | 721 | Edward White |
-| 63 | 721 | Chilly Line |
+| 62 | 721 | Chilly Line |
+| 63 | 721 | Edward White |
 | 64 | 712 | Anthony Bryan Riva |
 | 65 | 704 | Crystal Carroll |
 | 66 | 679 | D3TROITB0RN74 |
 | 67 | 671 | Kimyatta Cavin |
-| 68 | 664 | loulou |
-| 69 | 664 | Valerie Roberts |
+| 68 | 664 | Valerie Roberts |
+| 69 | 664 | loulou |
 | 70 | 659 | Jonathan Kimbrough |
 | 71 | 655 | Carolyn Wallace |
 | 72 | 654 | Julian Garcia |
-| 73 | 647 | Shauna Havard |
-| 74 | 647 | KM8 |
+| 73 | 647 | KM8 |
+| 74 | 647 | Shauna Havard |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 633 | Lisa Davis |
 | 77 | 626 | Brittney Griggs |
@@ -101,8 +101,8 @@
 | 93 | 539 | Chris Baggett |
 | 94 | 533 | Samantha Peterson |
 | 95 | 519 | Nugget |
-| 96 | 513 | Erin Thomas |
-| 97 | 513 | YoMomma |
+| 96 | 513 | YoMomma |
+| 97 | 513 | Erin Thomas |
 | 98 | 512 | Casey Jeffcoat |
 | 99 | 512 | Diana Houts |
 | 100 | 511 | Zippy Gridlock |
@@ -138,8 +138,8 @@
 | 130 | 391 | Lush Linkfall |
 | 131 | 391 | Ramel Rhodes |
 | 132 | 378 | Lucas J Sutton |
-| 133 | 377 | Jessica Bohlken |
-| 134 | 377 | Carrie Brian |
+| 133 | 377 | Carrie Brian |
+| 134 | 377 | Jessica Bohlken |
 | 135 | 376 | Kesha Brady |
 | 136 | 373 | Joseph Guthrie |
 | 137 | 355 | Kristina Black |
@@ -279,14 +279,14 @@
 | 271 | 195 | 中山成巳 |
 | 272 | 194 | Zany Twisterfit |
 | 273 | 193 | Stephme310 |
-| 274 | 192 | Stella |
-| 275 | 192 | Andrew Dang |
+| 274 | 192 | Andrew Dang |
+| 275 | 192 | Stella |
 | 276 | 191 | Earnest Thompson |
 | 277 | 189 | 030Synner |
-| 278 | 187 | Nita Wells |
-| 279 | 187 | Cynthia Boudreau |
-| 280 | 186 | wombat |
-| 281 | 186 | June Hoffman |
+| 278 | 187 | Cynthia Boudreau |
+| 279 | 187 | Nita Wells |
+| 280 | 186 | June Hoffman |
+| 281 | 186 | wombat |
 | 282 | 186 | Lauren Lamb |
 | 283 | 185 | Morti |
 | 284 | 185 | Nubian1 |
