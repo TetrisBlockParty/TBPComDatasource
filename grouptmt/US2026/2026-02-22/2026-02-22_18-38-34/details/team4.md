@@ -134,8 +134,8 @@
 | 126 | 353 | Tyler Terrific |
 | 127 | 344 | Lush Linkfall |
 | 128 | 343 | Latisha Davis |
-| 129 | 338 | Lucas J Sutton |
-| 130 | 338 | ThaEviLJeNiuZ |
+| 129 | 338 | ThaEviLJeNiuZ |
+| 130 | 338 | Lucas J Sutton |
 | 131 | 336 | Austin Owens |
 | 132 | 335 | Diana Houts |
 | 133 | 332 | HastyGrabber |
@@ -210,8 +210,8 @@
 | 202 | 239 | Zethra Prenisha Rahming |
 | 203 | 237 | Jen Caldwell |
 | 204 | 236 | Swanky Fitline |
-| 205 | 233 | April Rondinone |
-| 206 | 233 | Ruben Wheeler |
+| 205 | 233 | Ruben Wheeler |
+| 206 | 233 | April Rondinone |
 | 207 | 230 | Kristina Black |
 | 208 | 230 | blockstar |
 | 209 | 228 | Antony Dwayne Beasley |
@@ -364,18 +364,18 @@
 | 356 | 139 | O block |
 | 357 | 139 | Lori Goudy |
 | 358 | 138 | Zippy Tilt |
-| 359 | 138 | Jasmine S Caldwell |
-| 360 | 138 | Ashlee Carnes |
+| 359 | 138 | Ashlee Carnes |
+| 360 | 138 | Jasmine S Caldwell |
 | 361 | 138 | Moonsterix |
-| 362 | 137 | Carlos Hernandez |
-| 363 | 137 | Brianna Walker |
+| 362 | 137 | Brianna Walker |
+| 363 | 137 | Carlos Hernandez |
 | 364 | 137 | PeaceOs |
 | 365 | 137 | Red |
 | 366 | 136 | Jen Hallin |
 | 367 | 136 | Michelle Morris |
 | 368 | 135 | Joshua Guess |
-| 369 | 134 | Kristin MacDonald |
-| 370 | 134 | Hyper Builder |
+| 369 | 134 | Hyper Builder |
+| 370 | 134 | Kristin MacDonald |
 | 371 | 133 | Berklie Apedaile |
 | 372 | 133 | Jesus Garcia |
 | 373 | 132 | Paito |

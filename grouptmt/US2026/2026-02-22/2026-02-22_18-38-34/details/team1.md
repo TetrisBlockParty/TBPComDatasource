@@ -85,8 +85,8 @@
 | 77 | 489 | Deanna L Hermanson |
 | 78 | 486 | Tater |
 | 79 | 485 | Cartier |
-| 80 | 483 | MomMom |
-| 81 | 483 | Ryan Lunnin |
+| 80 | 483 | Ryan Lunnin |
+| 81 | 483 | MomMom |
 | 82 | 480 | Nancy Green |
 | 83 | 472 | April Carroll |
 | 84 | 471 | Jennifer ManWarren |

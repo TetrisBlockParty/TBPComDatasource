@@ -138,8 +138,8 @@
 | 130 | 526 | Cynthia Castros-Hampton |
 | 131 | 525 | Justin Ritter |
 | 132 | 521 | Leah Barnett |
-| 133 | 521 | Michael Nowogorski |
-| 134 | 521 | Michelle Becker |
+| 133 | 521 | Michelle Becker |
+| 134 | 521 | Michael Nowogorski |
 | 135 | 518 | opf |
 | 136 | 506 | Sashay Tapae Simpson |
 | 137 | 504 | Jennifer Lynn Fahrenholtz-Summers |
@@ -205,8 +205,8 @@
 | 197 | 377 | rosy |
 | 198 | 376 | Loopy Clusterer |
 | 199 | 374 | Darlene McMillan |
-| 200 | 372 | Tom Nault |
-| 201 | 372 | Giddy Twistbuilder |
+| 200 | 372 | Giddy Twistbuilder |
+| 201 | 372 | Tom Nault |
 | 202 | 370 | Santeria Trece Candles |
 | 203 | 368 | Stephanie Woods |
 | 204 | 367 | Loopy Fallmatch |
@@ -448,9 +448,9 @@
 | 440 | 167 | Shicken Nuggit |
 | 441 | 166 | Armi |
 | 442 | 166 | Rashad Green |
-| 443 | 166 | Armi |
-| 444 | 165 | Mary Giorgenti |
-| 445 | 165 | Kali Kelz Williams |
+| 443 | 166 | Block Baddie |
+| 444 | 165 | Kali Kelz Williams |
+| 445 | 165 | Mary Giorgenti |
 | 446 | 165 | Silver Marchán |
 | 447 | 164 | Hanna Kim |
 | 448 | 164 | Ashley Rufus Bythcez |

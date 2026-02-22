@@ -227,9 +227,9 @@
 | 219 | 973 | Kim Dean |
 | 220 | 972 | Juliana Marques Do Nascimento Gordy |
 | 221 | 960 | Jennifer Kistner |
-| 222 | 957 | Crystal Hoffman |
+| 222 | 957 | Keri Womack |
 | 223 | 957 | Block Master |
-| 224 | 957 | Keri Womack |
+| 224 | 957 | Crystal Hoffman |
 | 225 | 955 | Angela Bonquiqui Dinish |
 | 226 | 951 | Cynthia Ward |
 | 227 | 950 | Teresa Gillmore |
@@ -253,8 +253,8 @@
 | 245 | 894 | Auntie B |
 | 246 | 892 | Rebecca Doughman |
 | 247 | 890 | Kevin Walp |
-| 248 | 884 | Boldy Cascadepiece |
-| 249 | 884 | Adira Brown |
+| 248 | 884 | Adira Brown |
+| 249 | 884 | Boldy Cascadepiece |
 | 250 | 883 | nikki |
 | 251 | 880 | Sam Joe |
 | 252 | 879 | Tony Lea |
@@ -400,7 +400,7 @@
 | 392 | 626 | Mighty Spinbuilder |
 | 393 | 620 | Traci Johnson |
 | 394 | 620 | Brandon Armstrong |
-| 395 | 620 | Traci Johnson |
+| 395 | 620 | Demeka Dangerous-kisses Johnson |
 | 396 | 619 | Melissa Penelope Ann Dodge |
 | 397 | 617 | Darcy Mae |
 | 398 | 617 | Nicole Cannon |
@@ -471,8 +471,8 @@
 | 463 | 533 | Gauri Shrotriya |
 | 464 | 533 | Davetta Sanford |
 | 465 | 532 | Ann Matzkanin |
-| 466 | 531 | Aishah Brice |
-| 467 | 531 | Briana Alexander |
+| 466 | 531 | Briana Alexander |
+| 467 | 531 | Aishah Brice |
 | 468 | 529 | Victoria Regina Girolami |
 | 469 | 528 | Anita Rose Green |
 | 470 | 527 | Ryan Gunther |
@@ -547,7 +547,7 @@
 | 539 | 472 | Arwa Fatimah |
 | 540 | 472 | Mary Marie |
 | 541 | 472 | KayLynn Ogden McClelland |
-| 542 | 472 | Mary Marie |
+| 542 | 472 | Rhonda Petro |
 | 543 | 472 | Kyle LeRoy Harris |
 | 544 | 471 | Rae Rae |
 | 545 | 470 | Arlene Joy Belicina |
@@ -555,8 +555,8 @@
 | 547 | 469 | Christy Long |
 | 548 | 467 | Audrey Jones |
 | 549 | 467 | SwampRebel |
-| 550 | 466 | Tina Marie |
-| 551 | 466 | Koa N Sharon Chen |
+| 550 | 466 | Koa N Sharon Chen |
+| 551 | 466 | Tina Marie |
 | 552 | 466 | Crystal Greene |
 | 553 | 466 | Kori Beth Babb |
 | 554 | 463 | Jaye EL Hunter |
@@ -748,11 +748,11 @@
 | 740 | 358 | Alyssaaelena |
 | 741 | 357 | Shannon Byrd |
 | 742 | 357 | Tristan Szolek |
-| 743 | 356 | Shorty |
-| 744 | 356 | Peppy Snapfall |
+| 743 | 356 | Peppy Snapfall |
+| 744 | 356 | Shorty |
 | 745 | 356 | Kelsey Sullivan |
-| 746 | 355 | Cris cris |
-| 747 | 355 | Mike73 |
+| 746 | 355 | Mike73 |
+| 747 | 355 | Cris cris |
 | 748 | 354 | Rachel Kaminski |
 | 749 | 354 | Rickey Johnson |
 | 750 | 352 | Savannah Alexander |
@@ -774,11 +774,11 @@
 | 766 | 346 | Danielle Ayoub |
 | 767 | 345 | Rhianna DiLorenzo |
 | 768 | 345 | Gina Caulder |
-| 769 | 344 | Mary Boss |
-| 770 | 344 | Glenn Cobbins |
+| 769 | 344 | Glenn Cobbins |
+| 770 | 344 | Mary Boss |
 | 771 | 343 | Sabrena Yeisley |
-| 772 | 343 | Snappy Shatterfit |
-| 773 | 343 | bru |
+| 772 | 343 | bru |
+| 773 | 343 | Snappy Shatterfit |
 | 774 | 342 | Danielle DeLozier Plesec |
 | 775 | 342 | Christy Green |
 | 776 | 341 | Robin L. Vial |
@@ -795,8 +795,8 @@
 | 787 | 336 | Jennie Lee Huntley |
 | 788 | 336 | Crystal Cornelius |
 | 789 | 335 | Alexandrea |
-| 790 | 335 | Luke Califf |
-| 791 | 335 | Brooke Leigh Strube |
+| 790 | 335 | Brooke Leigh Strube |
+| 791 | 335 | Luke Califf |
 | 792 | 334 | Melissa James |
 | 793 | 333 | Nikki Nikki |
 | 794 | 333 | Woodys Glass |
