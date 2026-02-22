@@ -128,8 +128,8 @@
 | 120 | 579 | Jd Morris |
 | 121 | 574 | Morgan Martinez |
 | 122 | 568 | Rachael McClain Owens |
-| 123 | 562 | Louise Stacy Sisson |
-| 124 | 562 | Dave Herzog |
+| 123 | 562 | Dave Herzog |
+| 124 | 562 | Louise Stacy Sisson |
 | 125 | 551 | Alaina Lee |
 | 126 | 550 | Nicole Myers |
 | 127 | 546 | Domo Washington |
@@ -266,8 +266,8 @@
 | 258 | 282 | Angie Harper |
 | 259 | 282 | Terry Jo Jones |
 | 260 | 281 | Carrie Huskey |
-| 261 | 278 | Sabrina Hardrick |
-| 262 | 278 | Rufus Lincoln |
+| 261 | 278 | Rufus Lincoln |
+| 262 | 278 | Sabrina Hardrick |
 | 263 | 277 | Tracy Martin |
 | 264 | 276 | Crimson |
 | 265 | 276 | LaShey Thompson |
@@ -379,7 +379,7 @@
 | 371 | 200 | glichmod |
 | 372 | 199 | Loopy Fallzone |
 | 373 | 199 | Mariah Williams |
-| 374 | 199 | Loopy Fallzone |
+| 374 | 199 | Samantha Worley |
 | 375 | 198 | Zac Hudak |
 | 376 | 197 | Rosalie Call Kehlenbeck |
 | 377 | 196 | Cyd061769 |

@@ -97,8 +97,8 @@
 | 89 | 443 | Steve Schneider |
 | 90 | 436 | Tonya Beasley |
 | 91 | 434 | Loony Fitzone |
-| 92 | 433 | Tinah Montanna |
-| 93 | 433 | Trina Gee |
+| 92 | 433 | Trina Gee |
+| 93 | 433 | Tinah Montanna |
 | 94 | 429 | Tdub |
 | 95 | 428 | Stephanie Zahn |
 | 96 | 418 | Jazzy Framezone |
@@ -154,8 +154,8 @@
 | 146 | 308 | Sharon Reynolds |
 | 147 | 306 | Happy Basegrid |
 | 148 | 306 | Bloknboy |
-| 149 | 304 | Nicole Roseberry Weber |
-| 150 | 304 | Constance Risner |
+| 149 | 304 | Constance Risner |
+| 150 | 304 | Nicole Roseberry Weber |
 | 151 | 303 | Chelsea Dahlquist |
 | 152 | 297 | Ananda Mendez |
 | 153 | 297 | Danielle Little-Daugherty |
@@ -164,8 +164,8 @@
 | 156 | 293 | Sarah Roberts |
 | 157 | 292 | David Lutcher |
 | 158 | 285 | ALFD |
-| 159 | 284 | Emily Adelaide Wheatley |
-| 160 | 284 | Rachael |
+| 159 | 284 | Rachael |
+| 160 | 284 | Emily Adelaide Wheatley |
 | 161 | 283 | Franswa |
 | 162 | 282 | Ty Brown |
 | 163 | 282 | Tyler Werts |
@@ -210,8 +210,8 @@
 | 202 | 238 | Tiffany Smith |
 | 203 | 237 | Veronica Eve |
 | 204 | 236 | femmefatale |
-| 205 | 235 | MRdot Rooski |
-| 206 | 235 | Desiree Deschaine Havee |
+| 205 | 235 | Desiree Deschaine Havee |
+| 206 | 235 | MRdot Rooski |
 | 207 | 234 | Paula Martin |
 | 208 | 233 | LC |
 | 209 | 230 | BigWeenie69 |
