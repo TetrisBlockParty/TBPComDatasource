@@ -108,8 +108,8 @@
 | 100 | 1535 | Donnie Hunt |
 | 101 | 1534 | Laura Marie Pelletier |
 | 102 | 1534 | Loopy Clusterbuilder |
-| 103 | 1516 | Mindy Leigh Head |
-| 104 | 1516 | Stephen Stephen |
+| 103 | 1516 | Stephen Stephen |
+| 104 | 1516 | Mindy Leigh Head |
 | 105 | 1513 | Jamie Main |
 | 106 | 1507 | Linda Pierce |
 | 107 | 1495 | blackq |
@@ -138,8 +138,8 @@
 | 130 | 1273 | Cool Rollpiece |
 | 131 | 1265 | Katrina Williams Balmir |
 | 132 | 1257 | Eileen Hale |
-| 133 | 1248 | Howard Forest |
-| 134 | 1248 | Isabela Shaw |
+| 133 | 1248 | Isabela Shaw |
+| 134 | 1248 | Howard Forest |
 | 135 | 1242 | Altamirano Michael |
 | 136 | 1232 | Groovy Puzzle |
 | 137 | 1226 | Vo'Landa Reels |
@@ -178,8 +178,8 @@
 | 170 | 1047 | Amy Sayers |
 | 171 | 1046 | Poppy Snap |
 | 172 | 1045 | Lourisha |
-| 173 | 1043 | Brave Dropmatch |
-| 174 | 1043 | Suki Kaur |
+| 173 | 1043 | Suki Kaur |
+| 174 | 1043 | Brave Dropmatch |
 | 175 | 1036 | Allison Lockyer |
 | 176 | 1035 | Sarah Freitas |
 | 177 | 1025 | Brandy Andre |
@@ -303,8 +303,8 @@
 | 295 | 697 | Dreamy Blast |
 | 296 | 696 | Jánine Riggs |
 | 297 | 695 | Lakeysha Dortch |
-| 298 | 692 | Jennifer Casey-Kay |
-| 299 | 692 | Dannette Goldberg-Richards |
+| 298 | 692 | Dannette Goldberg-Richards |
+| 299 | 692 | Jennifer Casey-Kay |
 | 300 | 691 | Joce Lynn |
 | 301 | 690 | Deborah Miller |
 | 302 | 689 | Joshua Mandel |
@@ -707,8 +707,8 @@
 | 699 | 330 | Toni Roberson |
 | 700 | 330 | Jennifer Monroe Kelly |
 | 701 | 329 | Chummy Blockbuilder |
-| 702 | 329 | Snappy Shatterfit |
-| 703 | 329 | Jane Crew |
+| 702 | 329 | Jane Crew |
+| 703 | 329 | Snappy Shatterfit |
 | 704 | 328 | BabyBird |
 | 705 | 328 | Jamie Carter Bierce |
 | 706 | 326 | Ann Knutson Anderson |
@@ -720,7 +720,7 @@
 | 712 | 323 | Briana Alexander |
 | 713 | 322 | Lea Stewart |
 | 714 | 322 | Michelle Pike |
-| 715 | 322 | Lea Stewart |
+| 715 | 322 | Christina Jarvis-Swarbrick |
 | 716 | 321 | Samantha Scibelli |
 | 717 | 321 | Ashley Criner |
 | 718 | 321 | Tamara Bailey |
@@ -729,8 +729,8 @@
 | 721 | 319 | Prado |
 | 722 | 319 | RetroLemur |
 | 723 | 318 | Jennifer Mahon |
-| 724 | 317 | Ashlyn Berner |
-| 725 | 317 | Zombi3 |
+| 724 | 317 | Zombi3 |
+| 725 | 317 | Ashlyn Berner |
 | 726 | 317 | Aireka Roman |
 | 727 | 316 | Jenn Marie |
 | 728 | 316 | Epic Spinfit |
@@ -1071,8 +1071,8 @@
 | 1063 | 222 | Crystal Herndon |
 | 1064 | 222 | Wacky Edgefit |
 | 1065 | 221 | Chummy Caster |
-| 1066 | 220 | Natalie M Wells |
-| 1067 | 220 | Perk Diggler |
+| 1066 | 220 | Perk Diggler |
+| 1067 | 220 | Natalie M Wells |
 | 1068 | 220 | Amy Reynolds |
 | 1069 | 220 | HarleyJane |
 | 1070 | 220 | Marcie McLain Dodd |
@@ -1111,8 +1111,8 @@
 | 1103 | 211 | Scherrie Smith |
 | 1104 | 211 | Melissa Koria |
 | 1105 | 211 | Nerdy Blockpiece |
-| 1106 | 210 | Janet Marie Vega |
-| 1107 | 210 | Nicolee Hackney |
+| 1106 | 210 | Nicolee Hackney |
+| 1107 | 210 | Janet Marie Vega |
 | 1108 | 210 | Joshua Switzer |
 | 1109 | 210 | Cappin You |
 | 1110 | 209 | D5wag2014 |
@@ -1288,9 +1288,9 @@
 | 1280 | 184 | BamaGirlinTX |
 | 1281 | 184 | Mindy Folsom |
 | 1282 | 183 | Harley Williams |
-| 1283 | 183 | teo1 |
-| 1284 | 183 | Smiley Strike |
-| 1285 | 183 | Ericka Marie Smith |
+| 1283 | 183 | Ericka Marie Smith |
+| 1284 | 183 | teo1 |
+| 1285 | 183 | Smiley Strike |
 | 1286 | 182 | Dylan Meadows |
 | 1287 | 182 | Giggly Stackzone |
 | 1288 | 182 | Miranda Jackson |
@@ -1379,10 +1379,10 @@
 | 1371 | 173 | Robin |
 | 1372 | 172 | Fredonia Lewis |
 | 1373 | 172 | Ashley M. Davis |
-| 1374 | 172 | Patty |
-| 1375 | 172 | Fancy Glidezone |
-| 1376 | 171 | Chris Emanuel |
-| 1377 | 171 | Kimberly Bickling |
+| 1374 | 172 | Fancy Glidezone |
+| 1375 | 172 | Patty |
+| 1376 | 171 | Kimberly Bickling |
+| 1377 | 171 | Chris Emanuel |
 | 1378 | 171 | Abby Jensen |
 | 1379 | 171 | Alicia Moreno |
 | 1380 | 171 | Lydia Greenman |

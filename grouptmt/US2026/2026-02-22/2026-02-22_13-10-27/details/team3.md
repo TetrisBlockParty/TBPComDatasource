@@ -174,8 +174,8 @@
 | 166 | 389 | Jeni Dow |
 | 167 | 382 | Scott Carleton |
 | 168 | 380 | Tasha Schriewer |
-| 169 | 378 | Nicole Flippo |
-| 170 | 378 | Chris Bell |
+| 169 | 378 | Chris Bell |
+| 170 | 378 | Nicole Flippo |
 | 171 | 376 | Loopy Clusterer |
 | 172 | 375 | Shunta Jacobs |
 | 173 | 374 | Sherry Ogden |
@@ -227,8 +227,8 @@
 | 219 | 296 | Brandon Givens |
 | 220 | 295 | Marci Mize Fandrich |
 | 221 | 289 | DidIdothat |
-| 222 | 289 | Hoppy Buildout |
-| 223 | 289 | Duane Bright |
+| 222 | 289 | Duane Bright |
+| 223 | 289 | Hoppy Buildout |
 | 224 | 286 | Cynthia Herrmann Egland |
 | 225 | 284 | Denise Nardoni |
 | 226 | 283 | Sarah Moyer |
@@ -245,8 +245,8 @@
 | 237 | 271 | Cass Mendoza |
 | 238 | 271 | Grego Daniel |
 | 239 | 271 | Ashley Muncey |
-| 240 | 269 | Eon Harris |
-| 241 | 269 | Trisha Balmer |
+| 240 | 269 | Trisha Balmer |
+| 241 | 269 | Eon Harris |
 | 242 | 268 | Carrie Huskey |
 | 243 | 267 | Terry Jo Jones |
 | 244 | 263 | Brittany |
@@ -344,8 +344,8 @@
 | 336 | 186 | Noettín Kan Zasnemoore |
 | 337 | 186 | Sameerah Smith |
 | 338 | 185 | Angella Lyons |
-| 339 | 184 | Shanon R Jackson |
-| 340 | 184 | Troy |
+| 339 | 184 | Troy |
+| 340 | 184 | Shanon R Jackson |
 | 341 | 183 | Cesar Barraza |
 | 342 | 183 | Salena Whitlock |
 | 343 | 182 | gremicx |
