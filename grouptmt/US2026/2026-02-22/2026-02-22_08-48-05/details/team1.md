@@ -35,8 +35,8 @@
 | 27 | 851 | Tipsy Column |
 | 28 | 842 | Chipper Gridlock |
 | 29 | 830 | Jennifer Cates |
-| 30 | 829 | Carrie Beck Geartz |
-| 31 | 829 | Hyp James NObettadanluvarat |
+| 30 | 829 | Hyp James NObettadanluvarat |
+| 31 | 829 | Carrie Beck Geartz |
 | 32 | 827 | Christina Graham |
 | 33 | 791 | Adryane Schnase |
 | 34 | 779 | Andrea Dañielle Ortiz |
@@ -220,8 +220,8 @@
 | 212 | 180 | Erez Yosef |
 | 213 | 180 | BigWeenie69 |
 | 214 | 179 | femmefatale |
-| 215 | 179 | Erin Rosberg |
-| 216 | 179 | Danielle Little-Daugherty |
+| 215 | 179 | Danielle Little-Daugherty |
+| 216 | 179 | Erin Rosberg |
 | 217 | 178 | Chad Atchley |
 | 218 | 177 | Beau Galvan |
 | 219 | 177 | Perky Shiftsnap |
@@ -235,8 +235,8 @@
 | 227 | 173 | Gabrielle Louise Malloch |
 | 228 | 171 | Greg Premoe |
 | 229 | 171 | David DeSantis |
-| 230 | 170 | Standia Civil |
-| 231 | 170 | Cece Ibarra |
+| 230 | 170 | Cece Ibarra |
+| 231 | 170 | Standia Civil |
 | 232 | 169 | Abbey Crespo |
 | 233 | 168 | Amber Stoker |
 | 234 | 167 | Bindi |

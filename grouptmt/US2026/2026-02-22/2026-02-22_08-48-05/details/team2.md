@@ -305,8 +305,8 @@
 | 297 | 670 | Kassandra Hunt |
 | 298 | 669 | Charvi' Carter |
 | 299 | 666 | Speedy Spinblock |
-| 300 | 663 | Mandi Douglas Hilt |
-| 301 | 663 | Ashle Scranton |
+| 300 | 663 | Ashle Scranton |
+| 301 | 663 | Mandi Douglas Hilt |
 | 302 | 661 | Ginger |
 | 303 | 659 | Roseanna Peloso |
 | 304 | 659 | Draizen Montrell Thomas |
@@ -350,8 +350,8 @@
 | 342 | 583 | Bri Lynn |
 | 343 | 582 | Gary Stash |
 | 344 | 581 | Jerry Tempelmeyer |
-| 345 | 579 | Jackie Avila |
-| 346 | 579 | AgileDragon |
+| 345 | 579 | AgileDragon |
+| 346 | 579 | Jackie Avila |
 | 347 | 579 | Roy Salyer |
 | 348 | 579 | Juliana Marques Do Nascimento Gordy |
 | 349 | 576 | Leslie Johnson Guinto |
@@ -412,8 +412,8 @@
 | 404 | 500 | Sarah Ridenour |
 | 405 | 499 | Sarah Massey |
 | 406 | 498 | Rhonda Milstead |
-| 407 | 497 | BeQuo |
-| 408 | 497 | Doowop40 |
+| 407 | 497 | Doowop40 |
+| 408 | 497 | BeQuo |
 | 409 | 497 | June E Hanson |
 | 410 | 497 | Kimberly Randesi |
 | 411 | 496 | Blacc Blac |
@@ -495,8 +495,8 @@
 | 487 | 430 | Jackie Lucas |
 | 488 | 430 | Gloria Ininahazwe |
 | 489 | 429 | Christy Krissie |
-| 490 | 428 | Kiana Boschh |
-| 491 | 428 | Arkei Luster |
+| 490 | 428 | Arkei Luster |
+| 491 | 428 | Kiana Boschh |
 | 492 | 428 | Shyenn Gadsby |
 | 493 | 427 | Destiny Cozier |
 | 494 | 427 | Quinn |
@@ -508,8 +508,8 @@
 | 500 | 423 | Sam |
 | 501 | 422 | coleksquad |
 | 502 | 422 | Kenny Alvarado |
-| 503 | 421 | Vonceial Boone |
-| 504 | 421 | SwampRebel |
+| 503 | 421 | SwampRebel |
+| 504 | 421 | Vonceial Boone |
 | 505 | 420 | LaWanda Powell |
 | 506 | 419 | Pocho Zavala |
 | 507 | 419 | Josh Dill |
@@ -684,8 +684,8 @@
 | 676 | 328 | Jamie Carter Bierce |
 | 677 | 328 | BabyBird |
 | 678 | 326 | Sharon Mills |
-| 679 | 326 | Angela Murgia-Owen |
-| 680 | 326 | Ann Knutson Anderson |
+| 679 | 326 | Ann Knutson Anderson |
+| 680 | 326 | Angela Murgia-Owen |
 | 681 | 325 | Justin Hines |
 | 682 | 324 | Mike73 |
 | 683 | 324 | Tasia Stinson |

@@ -334,8 +334,8 @@
 | 326 | 179 | Rachel Napper |
 | 327 | 178 | Jess Dearborn |
 | 328 | 178 | Jennifer Alvey |
-| 329 | 176 | Melissa Orth Hunter |
-| 330 | 176 | Emma |
+| 329 | 176 | Emma |
+| 330 | 176 | Melissa Orth Hunter |
 | 331 | 175 | Eileen Brady Thurber |
 | 332 | 175 | Becca Engle |
 | 333 | 174 | Lesley Perez |
