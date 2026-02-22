@@ -128,8 +128,8 @@
 | 120 | 243 | Chelsea Dahlquist |
 | 121 | 243 | Trippy Redd |
 | 122 | 241 | John J. Cronin |
-| 123 | 240 | Tana |
-| 124 | 240 | Lexuriuos Lifestlye |
+| 123 | 240 | Lexuriuos Lifestlye |
+| 124 | 240 | Tana |
 | 125 | 237 | Greg Hart |
 | 126 | 236 | Mandyy Rae |
 | 127 | 230 | Frothy Pattern |

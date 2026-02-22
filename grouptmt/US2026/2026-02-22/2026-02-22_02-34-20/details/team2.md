@@ -363,8 +363,8 @@
 | 355 | 458 | Casper The Chonk |
 | 356 | 454 | Nashu |
 | 357 | 454 | Casey Schumacher |
-| 358 | 453 | Rhonda Petro |
-| 359 | 453 | Joshua Sommerville |
+| 358 | 453 | Joshua Sommerville |
+| 359 | 453 | Rhonda Petro |
 | 360 | 452 | Alezandra Smith |
 | 361 | 451 | Daphne Jordan |
 | 362 | 451 | Melissa Kay Gibson |

@@ -76,8 +76,8 @@
 | 68 | 409 | Isabella Blanco |
 | 69 | 402 | Courtney Cicoria |
 | 70 | 399 | Jenna Ingersoll |
-| 71 | 396 | Amy Suckarieh |
-| 72 | 396 | Alicia Bass |
+| 71 | 396 | Alicia Bass |
+| 72 | 396 | Amy Suckarieh |
 | 73 | 391 | Ramel Rhodes |
 | 74 | 390 | Carlton Unfiltered |
 | 75 | 388 | YoMomma |
@@ -194,9 +194,9 @@
 | 186 | 149 | Shainne Brewer |
 | 187 | 149 | Megan Cutshaw |
 | 188 | 149 | Judy Cox |
-| 189 | 148 | Brittany Marsh |
-| 190 | 148 | Mr. Party |
-| 191 | 148 | Janita Parrish |
+| 189 | 148 | Mr. Party |
+| 190 | 148 | Janita Parrish |
+| 191 | 148 | Brittany Marsh |
 | 192 | 147 | B Renee Desjardin |
 | 193 | 147 | Jay28 |
 | 194 | 145 | Zany Shatterer |
@@ -617,7 +617,7 @@
 | 609 | 49 | Speedy Clearer |
 | 610 | 49 | Deb Rubeck |
 | 611 | 48 | giantslover514 |
-| 612 | 48 | Lilya Troutman |
+| 612 | 48 | Eric Mcgaughy |
 | 613 | 48 | OneBuke FollowMe |
 | 614 | 48 | Lilya Troutman |
 | 615 | 47 | Aaron Wilkins |

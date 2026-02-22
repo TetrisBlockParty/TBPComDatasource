@@ -134,8 +134,8 @@
 | 126 | 391 | Calista Jo Dickson |
 | 127 | 390 | Hasty Cascadefit |
 | 128 | 386 | Katie Knaus |
-| 129 | 378 | Tasha Schriewer |
-| 130 | 378 | Makelini Mausia |
+| 129 | 378 | Makelini Mausia |
+| 130 | 378 | Tasha Schriewer |
 | 131 | 376 | Loopy Clusterer |
 | 132 | 371 | mjl574 |
 | 133 | 370 | Santeria Trece Candles |
