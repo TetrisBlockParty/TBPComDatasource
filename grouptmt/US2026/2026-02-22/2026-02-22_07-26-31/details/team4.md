@@ -240,8 +240,8 @@
 | 232 | 149 | Shainne Brewer |
 | 233 | 148 | Janita Parrish |
 | 234 | 147 | Jared Gutwein |
-| 235 | 147 | Jay28 |
-| 236 | 147 | B Renee Desjardin |
+| 235 | 147 | B Renee Desjardin |
+| 236 | 147 | Jay28 |
 | 237 | 146 | Ultramarine |
 | 238 | 145 | Sandra Safford |
 | 239 | 145 | Mimi |
@@ -314,9 +314,9 @@
 | 306 | 119 | rebel4lyfe |
 | 307 | 119 | Gwendolyn Pitcairn |
 | 308 | 118 | Christina Black |
-| 309 | 117 | Gracie Ann Taylor |
+| 309 | 117 | PennyCandee |
 | 310 | 117 | BigSammy420 |
-| 311 | 117 | PennyCandee |
+| 311 | 117 | Gracie Ann Taylor |
 | 312 | 116 | Adam Stephanie Parker |
 | 313 | 116 | Smiley Shifter |
 | 314 | 116 | Kate |

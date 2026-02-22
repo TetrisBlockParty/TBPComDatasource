@@ -453,8 +453,8 @@
 | 445 | 459 | Melissa Kay Gibson |
 | 446 | 458 | Casper The Chonk |
 | 447 | 454 | Casey Schumacher |
-| 448 | 453 | Joshua Sommerville |
-| 449 | 453 | Rhonda Petro |
+| 448 | 453 | Rhonda Petro |
+| 449 | 453 | Joshua Sommerville |
 | 450 | 451 | Funky Caster |
 | 451 | 451 | Cody Nishimura |
 | 452 | 451 | Dylan Thomason |
@@ -511,8 +511,8 @@
 | 503 | 411 | Kristen O'Neal |
 | 504 | 410 | Kiana Boschh |
 | 505 | 410 | Nicole Cannon |
-| 506 | 408 | Abimbola Bimbo |
-| 507 | 408 | Stefanie Zonzini-Gagliardi |
+| 506 | 408 | Stefanie Zonzini-Gagliardi |
+| 507 | 408 | Abimbola Bimbo |
 | 508 | 408 | Brandon Jones |
 | 509 | 406 | Kimberly Ann |
 | 510 | 406 | Erin StFrancis |
