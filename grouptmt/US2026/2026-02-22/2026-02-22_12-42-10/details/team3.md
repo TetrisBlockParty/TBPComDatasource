@@ -63,8 +63,8 @@
 | 55 | 909 | Jennifer |
 | 56 | 908 | Alanna Rogers |
 | 57 | 903 | Sarah Fehring |
-| 58 | 895 | Shonna Roberts |
-| 59 | 895 | Amanda L Baker |
+| 58 | 895 | Amanda L Baker |
+| 59 | 895 | Shonna Roberts |
 | 60 | 886 | Khristen AC |
 | 61 | 882 | Susan Valentino |
 | 62 | 874 | Jessica Pineda-Lopez |
@@ -162,8 +162,8 @@
 | 154 | 403 | Scott Lindsay |
 | 155 | 401 | Katie Knaus |
 | 156 | 400 | Luciana Braganca Vieira |
-| 157 | 399 | Mcathen |
-| 158 | 399 | Marcie Bressler |
+| 157 | 399 | Marcie Bressler |
+| 158 | 399 | Mcathen |
 | 159 | 397 | Annie Déè |
 | 160 | 393 | Fallorina Susana |
 | 161 | 393 | Logan Naccarato |
@@ -203,8 +203,8 @@
 | 195 | 332 | Noyb Adam |
 | 196 | 330 | Rebecca Funderburk Kirby |
 | 197 | 328 | Giddy Twistbuilder |
-| 198 | 324 | Kristal C Lee |
-| 199 | 324 | Sissy Lowery Davis |
+| 198 | 324 | Sissy Lowery Davis |
+| 199 | 324 | Kristal C Lee |
 | 200 | 323 | Demetrious Shaw Sr. |
 | 201 | 321 | Rochelle Hazelett |
 | 202 | 320 | Or Reznitsky |
@@ -227,8 +227,8 @@
 | 219 | 296 | Brandon Givens |
 | 220 | 295 | Marci Mize Fandrich |
 | 221 | 289 | DidIdothat |
-| 222 | 289 | Duane Bright |
-| 223 | 289 | Hoppy Buildout |
+| 222 | 289 | Hoppy Buildout |
+| 223 | 289 | Duane Bright |
 | 224 | 286 | Cynthia Herrmann Egland |
 | 225 | 284 | Denise Nardoni |
 | 226 | 283 | Sarah Moyer |
@@ -257,13 +257,13 @@
 | 249 | 260 | Grams |
 | 250 | 259 | Danielle Weikel |
 | 251 | 257 | Ashley Jones |
-| 252 | 256 | Tiffany Davie |
-| 253 | 256 | KayB |
+| 252 | 256 | KayB |
+| 253 | 256 | Tiffany Davie |
 | 254 | 252 | Roary Danner |
 | 255 | 251 | Nikki Pags |
 | 256 | 250 | fraulila |
-| 257 | 249 | JerseyJess |
-| 258 | 249 | Annie Marie |
+| 257 | 249 | Annie Marie |
+| 258 | 249 | JerseyJess |
 | 259 | 246 | Peppy Shifter |
 | 260 | 245 | Latoya Mayne |
 | 261 | 244 | LaNette Morgan |
@@ -315,8 +315,8 @@
 | 307 | 205 | Kirhonda Autmon |
 | 308 | 204 | Aerian Preston |
 | 309 | 203 | Angie Harper |
-| 310 | 202 | Tipsy Zonebuilder |
-| 311 | 202 | Staci George Fitzsimmons |
+| 310 | 202 | Staci George Fitzsimmons |
+| 311 | 202 | Tipsy Zonebuilder |
 | 312 | 201 | Hyper Matchzone |
 | 313 | 201 | Alexmac |
 | 314 | 200 | Sharisse Baltimore |

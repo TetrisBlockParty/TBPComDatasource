@@ -54,8 +54,8 @@
 | 46 | 671 | Lawrence Belanger |
 | 47 | 663 | Drew Magnus |
 | 48 | 646 | Susanna Guerry |
-| 49 | 635 | Marianne Louise West |
-| 50 | 635 | Angel Fowler |
+| 49 | 635 | Angel Fowler |
+| 50 | 635 | Marianne Louise West |
 | 51 | 631 | comrade fish |
 | 52 | 627 | Katie Daniels |
 | 53 | 614 | Snappy Swiper |
@@ -181,11 +181,11 @@
 | 173 | 226 | Kandae |
 | 174 | 219 | Chuck Gannon |
 | 175 | 218 | LC |
-| 176 | 217 | Kimberly Garcia |
-| 177 | 217 | ParisandCory Champagne |
+| 176 | 217 | ParisandCory Champagne |
+| 177 | 217 | Kimberly Garcia |
 | 178 | 216 | Shauntina Burke |
-| 179 | 215 | Shaykmia |
-| 180 | 215 | Sam Williams |
+| 179 | 215 | Sam Williams |
+| 180 | 215 | Shaykmia |
 | 181 | 213 | Daring Fitclear |
 | 182 | 212 | Jaimie Lynn |
 | 183 | 211 | Marianita Garcia |

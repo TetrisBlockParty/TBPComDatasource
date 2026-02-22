@@ -56,8 +56,8 @@
 | 48 | 697 | Edward White |
 | 49 | 695 | LisaJo Picken Buchanan |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Rebecca Moulton Pinciaro |
-| 52 | 659 | Jonathan Kimbrough |
+| 51 | 659 | Jonathan Kimbrough |
+| 52 | 659 | Rebecca Moulton Pinciaro |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
@@ -182,16 +182,16 @@
 | 174 | 217 | Chaz Duncan |
 | 175 | 217 | Angela Srubar-Norman |
 | 176 | 215 | Jessica Bohlken |
-| 177 | 213 | Jason Allen |
-| 178 | 213 | Sarah Neathery |
+| 177 | 213 | Sarah Neathery |
+| 178 | 213 | Jason Allen |
 | 179 | 212 | Mike Solo |
 | 180 | 211 | Jenna McGeorge |
 | 181 | 210 | Zethra Prenisha Rahming |
 | 182 | 209 | Rafael Valentin |
 | 183 | 207 | Chirpy Basepiece |
 | 184 | 205 | Kathy Brookins |
-| 185 | 204 | Carlos Ramirez |
-| 186 | 204 | Jen Caldwell |
+| 185 | 204 | Jen Caldwell |
+| 186 | 204 | Carlos Ramirez |
 | 187 | 203 | Katherine Crane |
 | 188 | 202 | TRCuse |
 | 189 | 202 | Patron Anderson |

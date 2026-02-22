@@ -719,8 +719,8 @@
 | 711 | 322 | Michelle Pike |
 | 712 | 322 | Christina Jarvis-Swarbrick |
 | 713 | 321 | Samantha Scibelli |
-| 714 | 321 | Ashley Criner |
-| 715 | 321 | Tamara Bailey |
+| 714 | 321 | Tamara Bailey |
+| 715 | 321 | Ashley Criner |
 | 716 | 320 | Tash Bell |
 | 717 | 320 | Mary Boss |
 | 718 | 320 | Joel Rosado |
