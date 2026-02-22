@@ -194,8 +194,8 @@
 | 186 | 951 | Cynthia Ward |
 | 187 | 950 | Teresa Gillmore |
 | 188 | 942 | Keri Womack |
-| 189 | 941 | Marie Boyd Faulk |
-| 190 | 941 | Cool Clearer |
+| 189 | 941 | Cool Clearer |
+| 190 | 941 | Marie Boyd Faulk |
 | 191 | 935 | William Meussner |
 | 192 | 932 | Catina Hutchison |
 | 193 | 925 | Moose Griffith |
@@ -335,8 +335,8 @@
 | 327 | 611 | Julio A Laracuente |
 | 328 | 605 | Jelly |
 | 329 | 603 | Cassie Maynard |
-| 330 | 602 | Christine Bollig |
-| 331 | 602 | Hyper Cluster |
+| 330 | 602 | Hyper Cluster |
+| 331 | 602 | Christine Bollig |
 | 332 | 601 | Michele Morgan |
 | 333 | 600 | Demeka Dangerous-kisses Johnson |
 | 334 | 600 | Glitzy Stackzone |
@@ -512,8 +512,8 @@
 | 504 | 421 | Vonceial Boone |
 | 505 | 420 | LaWanda Powell |
 | 506 | 419 | Pocho Zavala |
-| 507 | 418 | Véronique Lévesque Sabourin |
-| 508 | 418 | Kristi Biddinger |
+| 507 | 418 | Kristi Biddinger |
+| 508 | 418 | Véronique Lévesque Sabourin |
 | 509 | 417 | Alexx Anaya |
 | 510 | 416 | Ricky Fortune |
 | 511 | 415 | Elisheva Mizrachi |
@@ -533,8 +533,8 @@
 | 525 | 406 | Kimberly Ann |
 | 526 | 406 | Erin StFrancis |
 | 527 | 404 | Snappy snappers |
-| 528 | 404 | Dawn L Washington-Feuquay |
-| 529 | 404 | Goofy Catcher |
+| 528 | 404 | Goofy Catcher |
+| 529 | 404 | Dawn L Washington-Feuquay |
 | 530 | 403 | Goofy Dasher |
 | 531 | 401 | Moua Ying |
 | 532 | 401 | Taylor Flowers |

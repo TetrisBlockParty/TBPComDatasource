@@ -105,8 +105,8 @@
 | 97 | 579 | Jd Morris |
 | 98 | 578 | Queen Kam |
 | 99 | 566 | Dolores Falco |
-| 100 | 565 | Rachael McClain Owens |
-| 101 | 565 | Patty Allen |
+| 100 | 565 | Patty Allen |
+| 101 | 565 | Rachael McClain Owens |
 | 102 | 562 | Louise Stacy Sisson |
 | 103 | 562 | Dave Herzog |
 | 104 | 559 | Morgan Martinez |
@@ -127,8 +127,8 @@
 | 119 | 491 | Chauntee Alfrey-Cardinale |
 | 120 | 487 | Alaina Lee |
 | 121 | 482 | Jennifer Lynn Fahrenholtz-Summers |
-| 122 | 480 | Christine Filson |
-| 123 | 480 | Stephanie Blkpep Davidson |
+| 122 | 480 | Stephanie Blkpep Davidson |
+| 123 | 480 | Christine Filson |
 | 124 | 479 | Patti Skiles |
 | 125 | 479 | Poppy Splitter |
 | 126 | 478 | CeceGeGe |
@@ -187,8 +187,8 @@
 | 179 | 347 | Nicole Flippo |
 | 180 | 343 | Ashley Raines |
 | 181 | 341 | Samantha Lynn |
-| 182 | 338 | Leah Barnett |
-| 183 | 338 | Gumbo |
+| 182 | 338 | Gumbo |
+| 183 | 338 | Leah Barnett |
 | 184 | 332 | Rich LeBlanc |
 | 185 | 332 | Noyb Adam |
 | 186 | 328 | Giddy Twistbuilder |
@@ -202,20 +202,20 @@
 | 194 | 311 | Araceli Parra |
 | 195 | 311 | Rochelle Hazelett |
 | 196 | 310 | Danielle Balcom |
-| 197 | 308 | Rania Zaqout |
-| 198 | 308 | Daryn Elliott |
+| 197 | 308 | Daryn Elliott |
+| 198 | 308 | Rania Zaqout |
 | 199 | 307 | rnr junky |
 | 200 | 307 | Blocked |
-| 201 | 302 | Rebecca Bailey |
-| 202 | 302 | Wendy Dearden |
+| 201 | 302 | Wendy Dearden |
+| 202 | 302 | Rebecca Bailey |
 | 203 | 301 | Chelsea Hall |
 | 204 | 300 | Sherika C. McDaniels |
 | 205 | 298 | MsBee |
 | 206 | 296 | Katrina Turner |
 | 207 | 296 | Ammmmmmy |
 | 208 | 296 | Brandon Givens |
-| 209 | 295 | RickyG |
-| 210 | 295 | Marci Mize Fandrich |
+| 209 | 295 | Marci Mize Fandrich |
+| 210 | 295 | RickyG |
 | 211 | 291 | Kristal C Lee |
 | 212 | 289 | DidIdothat |
 | 213 | 289 | Duane Bright |
@@ -248,8 +248,8 @@
 | 240 | 258 | Tamara Deherrera |
 | 241 | 257 | Ashley Jones |
 | 242 | 256 | Brenda Lee Vander Molen |
-| 243 | 256 | KayB |
-| 244 | 256 | Tiffany Davie |
+| 243 | 256 | Tiffany Davie |
+| 244 | 256 | KayB |
 | 245 | 251 | Sabrina Hardrick |
 | 246 | 250 | fraulila |
 | 247 | 249 | Annie Marie |
@@ -273,8 +273,8 @@
 | 265 | 225 | Dirtgirl27 |
 | 266 | 225 | Cozy Snaplink |
 | 267 | 221 | Vaners |
-| 268 | 221 | Jaime Monhaut-Reed |
-| 269 | 221 | Alice |
+| 268 | 221 | Alice |
+| 269 | 221 | Jaime Monhaut-Reed |
 | 270 | 220 | rosy |
 | 271 | 219 | Sissy Lowery Davis |
 | 272 | 218 | Michael Lucado |
@@ -299,13 +299,13 @@
 | 291 | 206 | Tammy Rosenberry |
 | 292 | 205 | Kirhonda Autmon |
 | 293 | 204 | Aerian Preston |
-| 294 | 203 | Angie Harper |
-| 295 | 203 | Foltz Lee Kelli |
+| 294 | 203 | Foltz Lee Kelli |
+| 295 | 203 | Angie Harper |
 | 296 | 202 | Staci George Fitzsimmons |
 | 297 | 201 | Hyper Matchzone |
 | 298 | 201 | Alexmac |
-| 299 | 200 | glichmod |
-| 300 | 200 | Sharisse Baltimore |
+| 299 | 200 | Sharisse Baltimore |
+| 300 | 200 | glichmod |
 | 301 | 200 | Saucy Buildout |
 | 302 | 198 | kacihall |
 | 303 | 195 | Nicha Hooker |
@@ -375,8 +375,8 @@
 | 367 | 156 | Nichole Greene |
 | 368 | 155 | Michell Hendershott Jackson |
 | 369 | 155 | Michael Leblanc |
-| 370 | 153 | Sheila M Frazier |
-| 371 | 153 | Lys |
+| 370 | 153 | Lys |
+| 371 | 153 | Sheila M Frazier |
 | 372 | 153 | Tony Waters |
 | 373 | 152 | Goofy Fall |
 | 374 | 152 | Quirky Dropzone |
