@@ -81,8 +81,8 @@
 | 73 | 353 | Trina Gee |
 | 74 | 347 | pjbeta |
 | 75 | 345 | Dee Perry |
-| 76 | 338 | Stephanie Zahn |
-| 77 | 338 | Tipsy Strikerpiece |
+| 76 | 338 | Tipsy Strikerpiece |
+| 77 | 338 | Stephanie Zahn |
 | 78 | 333 | Brandi Huntington |
 | 79 | 332 | Luciano Moreira |
 | 80 | 328 | Gracie |
@@ -122,11 +122,11 @@
 | 114 | 252 | Dena Kayy |
 | 115 | 249 | Elaine Elaine |
 | 116 | 244 | Franswa |
-| 117 | 243 | Chelsea Dahlquist |
-| 118 | 243 | Trippy Redd |
+| 117 | 243 | Trippy Redd |
+| 118 | 243 | Chelsea Dahlquist |
 | 119 | 241 | John J. Cronin |
-| 120 | 240 | Tana |
-| 121 | 240 | Lexuriuos Lifestlye |
+| 120 | 240 | Lexuriuos Lifestlye |
+| 121 | 240 | Tana |
 | 122 | 236 | Mandyy Rae |
 | 123 | 230 | Frothy Pattern |
 | 124 | 228 | Billie Dawn Sparks |
@@ -159,16 +159,16 @@
 | 151 | 190 | Sweetts |
 | 152 | 190 | Thorne Shumate |
 | 153 | 188 | Sam Williams |
-| 154 | 187 | Jennifer Olewnik Soborowski |
-| 155 | 187 | Snippy Wipebuilder |
-| 156 | 186 | Margo Wagner |
-| 157 | 186 | Michael |
+| 154 | 187 | Snippy Wipebuilder |
+| 155 | 187 | Jennifer Olewnik Soborowski |
+| 156 | 186 | Michael |
+| 157 | 186 | Margo Wagner |
 | 158 | 185 | Basment Living |
 | 159 | 184 | Bouncy Grid |
 | 160 | 180 | BigWeenie69 |
 | 161 | 180 | Erez Yosef |
-| 162 | 179 | femmefatale |
-| 163 | 179 | Danielle Little-Daugherty |
+| 162 | 179 | Danielle Little-Daugherty |
+| 163 | 179 | femmefatale |
 | 164 | 178 | Chad Atchley |
 | 165 | 177 | Irual Hctrab |
 | 166 | 177 | ParisandCory Champagne |
@@ -189,8 +189,8 @@
 | 181 | 167 | Nery Martinez |
 | 182 | 167 | Erin Hodges Plumb |
 | 183 | 166 | Rico Rico |
-| 184 | 165 | Arianna O'Brien |
-| 185 | 165 | Nadine Velardo |
+| 184 | 165 | Nadine Velardo |
+| 185 | 165 | Arianna O'Brien |
 | 186 | 164 | Shanae Grant |
 | 187 | 163 | Angela Fairbank |
 | 188 | 163 | Tyler Whitley |
