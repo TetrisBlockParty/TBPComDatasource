@@ -103,8 +103,8 @@
 | 95 | 594 | Queen Kam |
 | 96 | 591 | Jesse Olive |
 | 97 | 588 | yoyo |
-| 98 | 582 | Jay Horn |
-| 99 | 582 | Natasha Jones |
+| 98 | 582 | Natasha Jones |
+| 99 | 582 | Jay Horn |
 | 100 | 581 | Danielle Mogg |
 | 101 | 579 | Jd Morris |
 | 102 | 566 | Dolores Falco |
@@ -142,8 +142,8 @@
 | 134 | 454 | Makelini Mausia |
 | 135 | 453 | Silly Twist |
 | 136 | 449 | Danielle Rhoades |
-| 137 | 445 | Jacqueline Rodriguez |
-| 138 | 445 | Kristie McFarland |
+| 137 | 445 | Kristie McFarland |
+| 138 | 445 | Jacqueline Rodriguez |
 | 139 | 435 | Michelle |
 | 140 | 432 | Jenny Hrndz |
 | 141 | 428 | Betty Ivy |
@@ -217,8 +217,8 @@
 | 209 | 300 | Sherika C. McDaniels |
 | 210 | 298 | MsBee |
 | 211 | 297 | Jojo M |
-| 212 | 296 | Ammmmmmy |
-| 213 | 296 | Katrina Turner |
+| 212 | 296 | Katrina Turner |
+| 213 | 296 | Ammmmmmy |
 | 214 | 296 | Brandon Givens |
 | 215 | 295 | Marci Mize Fandrich |
 | 216 | 291 | Kristal C Lee |
@@ -227,8 +227,8 @@
 | 219 | 289 | Duane Bright |
 | 220 | 286 | Cynthia Herrmann Egland |
 | 221 | 284 | Denise Nardoni |
-| 222 | 283 | Cheeky Snapper |
-| 223 | 283 | Charles Perrone |
+| 222 | 283 | Charles Perrone |
+| 223 | 283 | Cheeky Snapper |
 | 224 | 281 | Betty Rosas |
 | 225 | 281 | Valerie Gendron |
 | 226 | 278 | Rufus Lincoln |
@@ -254,8 +254,8 @@
 | 246 | 258 | Tamara Deherrera |
 | 247 | 257 | Ashley Jones |
 | 248 | 256 | Brenda Lee Vander Molen |
-| 249 | 256 | KayB |
-| 250 | 256 | Tiffany Davie |
+| 249 | 256 | Tiffany Davie |
+| 250 | 256 | KayB |
 | 251 | 251 | Sabrina Hardrick |
 | 252 | 250 | fraulila |
 | 253 | 249 | JerseyJess |
@@ -328,8 +328,8 @@
 | 320 | 192 | Kelly Ann Child |
 | 321 | 191 | Becca Engle |
 | 322 | 191 | Philip Rock |
-| 323 | 189 | Katie Leigh Blankenship |
-| 324 | 189 | France Vézina |
+| 323 | 189 | France Vézina |
+| 324 | 189 | Katie Leigh Blankenship |
 | 325 | 188 | Loopy Fallmatch |
 | 326 | 186 | Sameerah Smith |
 | 327 | 184 | Troy |
@@ -338,8 +338,8 @@
 | 330 | 181 | Denita Mungro |
 | 331 | 180 | Beth Ingham |
 | 332 | 179 | Christian Werndl |
-| 333 | 179 | Rachel Napper |
-| 334 | 179 | DanceLuvLaugh |
+| 333 | 179 | DanceLuvLaugh |
+| 334 | 179 | Rachel Napper |
 | 335 | 178 | Jess Dearborn |
 | 336 | 178 | Jennifer Alvey |
 | 337 | 176 | Emma |
@@ -358,8 +358,8 @@
 | 350 | 167 | Romeo |
 | 351 | 167 | Irene Arreguin |
 | 352 | 166 | Noettín Kan Zasnemoore |
-| 353 | 166 | Snarky McFace |
-| 354 | 166 | Angella Lyons |
+| 353 | 166 | Angella Lyons |
+| 354 | 166 | Snarky McFace |
 | 355 | 165 | Kali Kelz Williams |
 | 356 | 165 | Ashley Lynn Marchese |
 | 357 | 165 | Rainbow77375 |
@@ -389,8 +389,8 @@
 | 381 | 155 | Michell Hendershott Jackson |
 | 382 | 155 | Michael Leblanc |
 | 383 | 154 | Shanon R Jackson |
-| 384 | 153 | Tony Waters |
-| 385 | 153 | Stefanie LaPointe |
+| 384 | 153 | Stefanie LaPointe |
+| 385 | 153 | Tony Waters |
 | 386 | 153 | Betty Bóò |
 | 387 | 153 | Lys |
 | 388 | 153 | Sheila M Frazier |

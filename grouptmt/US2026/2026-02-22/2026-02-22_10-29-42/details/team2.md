@@ -472,8 +472,8 @@
 | 464 | 466 | Koa N Sharon Chen |
 | 465 | 465 | Davetta Sanford |
 | 466 | 464 | snkylnk |
-| 467 | 463 | Cody Nishimura |
-| 468 | 463 | Jaye EL Hunter |
+| 467 | 463 | Jaye EL Hunter |
+| 468 | 463 | Cody Nishimura |
 | 469 | 463 | Sue Leard |
 | 470 | 462 | Jarboe |
 | 471 | 462 | Amanda Ferrell |
@@ -592,8 +592,8 @@
 | 584 | 386 | Michael Artis |
 | 585 | 386 | Wuntayk |
 | 586 | 385 | Tansaria Couch-Butler |
-| 587 | 384 | Party d |
-| 588 | 384 | Kelly |
+| 587 | 384 | Kelly |
+| 588 | 384 | Party d |
 | 589 | 383 | Belle Mari |
 | 590 | 382 | David Holliday |
 | 591 | 382 | Amber Gray |
@@ -601,10 +601,10 @@
 | 593 | 381 | Happy Caster |
 | 594 | 380 | Giggy Grabber |
 | 595 | 380 | Christy Long |
-| 596 | 379 | Mary Marie |
-| 597 | 379 | Cini |
-| 598 | 378 | Tina Marie |
-| 599 | 378 | TF Dyer |
+| 596 | 379 | Cini |
+| 597 | 379 | Mary Marie |
+| 598 | 378 | TF Dyer |
+| 599 | 378 | Tina Marie |
 | 600 | 378 | Jasmine Kenney |
 | 601 | 377 | Jason H Baker |
 | 602 | 376 | Darlene Bowman |
@@ -679,8 +679,8 @@
 | 671 | 339 | Denise Rickman |
 | 672 | 338 | Janitta Alvarez |
 | 673 | 337 | Sassy Pattern |
-| 674 | 337 | Tum |
-| 675 | 337 | Diallo Sparkman |
+| 674 | 337 | Diallo Sparkman |
+| 675 | 337 | Tum |
 | 676 | 337 | Savannah Alexander |
 | 677 | 336 | Austin Wilson |
 | 678 | 336 | bru |
@@ -703,8 +703,8 @@
 | 695 | 326 | Ann Knutson Anderson |
 | 696 | 325 | Justin Hines |
 | 697 | 324 | Mike73 |
-| 698 | 324 | Dale Haanpaa |
-| 699 | 324 | Tasia Stinson |
+| 698 | 324 | Tasia Stinson |
+| 699 | 324 | Dale Haanpaa |
 | 700 | 323 | Kyla Louise |
 | 701 | 323 | Briana Alexander |
 | 702 | 322 | Christina Jarvis-Swarbrick |
@@ -740,8 +740,8 @@
 | 732 | 308 | Hyper Riseclear |
 | 733 | 308 | Claire |
 | 734 | 308 | Katie Joy McCombs |
-| 735 | 307 | stacey |
-| 736 | 307 | Peachy Blockbuilder |
+| 735 | 307 | Peachy Blockbuilder |
+| 736 | 307 | stacey |
 | 737 | 306 | Kiorah Blaze |
 | 738 | 305 | Zany Clusterbuilder |
 | 739 | 305 | Narutofreak13 |
@@ -835,8 +835,8 @@
 | 827 | 272 | Witty Piecebuilder |
 | 828 | 272 | Alexandrea |
 | 829 | 271 | Pam Doughty |
-| 830 | 271 | Shalisa Hill |
-| 831 | 271 | Beverly Hodge |
+| 830 | 271 | Beverly Hodge |
+| 831 | 271 | Shalisa Hill |
 | 832 | 270 | BK Queen |
 | 833 | 270 | Lazy Builderfit |
 | 834 | 270 | Nat |
@@ -910,11 +910,11 @@
 | 902 | 252 | Layna Lyons |
 | 903 | 252 | Amanda Segura |
 | 904 | 251 | Bold Clusterfit |
-| 905 | 251 | Sveta Lana |
-| 906 | 251 | Regina Unruh |
+| 905 | 251 | Regina Unruh |
+| 906 | 251 | Sveta Lana |
 | 907 | 251 | Emoniee Sa'niaya |
-| 908 | 251 | Chipper Dashpiece |
-| 909 | 251 | Kimmie Zimmerman-Rocha |
+| 908 | 251 | Kimmie Zimmerman-Rocha |
+| 909 | 251 | Chipper Dashpiece |
 | 910 | 250 | Kay Stevenson |
 | 911 | 250 | Drew Berkelbach |
 | 912 | 249 | J.L. Roberts |
