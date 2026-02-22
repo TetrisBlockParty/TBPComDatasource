@@ -122,8 +122,8 @@
 | 114 | 342 | Brenda Stewart |
 | 115 | 341 | Nick R Montague |
 | 116 | 334 | Jaimie Lynn |
-| 117 | 333 | Gracie |
-| 118 | 333 | Brandi Huntington |
+| 117 | 333 | Brandi Huntington |
+| 118 | 333 | Gracie |
 | 119 | 332 | Kristen Gideon |
 | 120 | 330 | Sweet Baker |
 | 121 | 326 | Monica Donato |

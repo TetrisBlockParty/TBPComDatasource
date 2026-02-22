@@ -136,8 +136,8 @@
 | 128 | 492 | Daira Largen |
 | 129 | 491 | Chauntee Alfrey-Cardinale |
 | 130 | 480 | Stephanie Blkpep Davidson |
-| 131 | 479 | Poppy Splitter |
-| 132 | 479 | Patti Skiles |
+| 131 | 479 | Patti Skiles |
+| 132 | 479 | Poppy Splitter |
 | 133 | 478 | CeceGeGe |
 | 134 | 473 | mzcatzy |
 | 135 | 471 | Mendoza Lee Christy |
@@ -152,8 +152,8 @@
 | 144 | 449 | Danielle Rhoades |
 | 145 | 448 | Karon Griffin |
 | 146 | 445 | Shannon Matthew Byers |
-| 147 | 445 | Jacqueline Rodriguez |
-| 148 | 445 | Kristie McFarland |
+| 147 | 445 | Kristie McFarland |
+| 148 | 445 | Jacqueline Rodriguez |
 | 149 | 439 | Michelle |
 | 150 | 438 | Valerie Gendron |
 | 151 | 438 | Logan Naccarato |

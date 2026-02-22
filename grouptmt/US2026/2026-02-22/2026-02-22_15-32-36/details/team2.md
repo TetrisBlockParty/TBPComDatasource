@@ -104,8 +104,8 @@
 | 96 | 1640 | Sam Smith |
 | 97 | 1603 | Gabby Jenner |
 | 98 | 1601 | Ray Ray Prado |
-| 99 | 1599 | Janel Turley-Garner |
-| 100 | 1599 | Rob Riggin |
+| 99 | 1599 | Rob Riggin |
+| 100 | 1599 | Janel Turley-Garner |
 | 101 | 1578 | Jamie Main |
 | 102 | 1567 | Sally Dennis |
 | 103 | 1564 | Charie Holland |
@@ -459,8 +459,8 @@
 | 451 | 512 | Leslie Jorgenson |
 | 452 | 511 | Laura Mclean |
 | 453 | 509 | Kelli Wells |
-| 454 | 509 | Tonya Lee |
-| 455 | 509 | Jordan Kaiser |
+| 454 | 509 | Jordan Kaiser |
+| 455 | 509 | Tonya Lee |
 | 456 | 508 | Julay |
 | 457 | 507 | Magic steve |
 | 458 | 507 | Kitybox |
@@ -556,8 +556,8 @@
 | 548 | 442 | Leah |
 | 549 | 438 | Kristi Biddinger |
 | 550 | 436 | Sam |
-| 551 | 435 | Regina Young |
-| 552 | 435 | James Louie |
+| 551 | 435 | James Louie |
+| 552 | 435 | Regina Young |
 | 553 | 434 | Brenda Messer |
 | 554 | 434 | bbv |
 | 555 | 433 | KayLynn Ogden McClelland |
@@ -1003,14 +1003,14 @@
 | 995 | 251 | Kimmie Zimmerman-Rocha |
 | 996 | 251 | Chipper Dashpiece |
 | 997 | 251 | Regina Unruh |
-| 998 | 251 | Dane Reing |
+| 998 | 251 | Meganator42 |
 | 999 | 251 | Bold Clusterfit |
-| 1000 | 251 | Meganator42 |
+| 1000 | 251 | Dane Reing |
 | 1001 | 251 | Emoniee Sa'niaya |
 | 1002 | 250 | Drew Berkelbach |
 | 1003 | 250 | Kay Stevenson |
-| 1004 | 250 | Daring Matchfit |
-| 1005 | 250 | Bee |
+| 1004 | 250 | Bee |
+| 1005 | 250 | Daring Matchfit |
 | 1006 | 250 | Muhammad |
 | 1007 | 249 | Joshua Mullings |
 | 1008 | 249 | Angela Yantz |
@@ -1088,8 +1088,8 @@
 | 1080 | 230 | Hoppy Glidebuilder |
 | 1081 | 230 | Laura Mcfee |
 | 1082 | 230 | lady |
-| 1083 | 229 | BbqGuru |
-| 1084 | 229 | Marcie McLain Dodd |
+| 1083 | 229 | Marcie McLain Dodd |
+| 1084 | 229 | BbqGuru |
 | 1085 | 229 | Deidre Jenkins |
 | 1086 | 229 | Goofy Cascadeclear |
 | 1087 | 229 | Cranky Tower |

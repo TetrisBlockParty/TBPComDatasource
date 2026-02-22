@@ -117,8 +117,8 @@
 | 109 | 393 | Carlton Unfiltered |
 | 110 | 392 | Ericca Eldridge |
 | 111 | 392 | Scott Jameson |
-| 112 | 391 | Monica Daley |
-| 113 | 391 | Ramel Rhodes |
+| 112 | 391 | Ramel Rhodes |
+| 113 | 391 | Monica Daley |
 | 114 | 388 | Tina Martinez |
 | 115 | 387 | Denise Carlson |
 | 116 | 373 | Joseph Guthrie |
@@ -141,8 +141,8 @@
 | 133 | 323 | Daria Rycewicz |
 | 134 | 314 | Andy Cabral |
 | 135 | 303 | Lauren Scott |
-| 136 | 300 | Dana Scott |
-| 137 | 300 | Jason Hart |
+| 136 | 300 | Jason Hart |
+| 137 | 300 | Dana Scott |
 | 138 | 299 | TRCuse |
 | 139 | 298 | Lucas J Sutton |
 | 140 | 295 | Bio Nelly |
@@ -308,10 +308,10 @@
 | 300 | 145 | Daring Pivot |
 | 301 | 145 | Nick Gray |
 | 302 | 144 | Sticherella |
-| 303 | 144 | Circuit8 |
-| 304 | 144 | Maureen Flanigan |
-| 305 | 143 | Dennis Bradley |
-| 306 | 143 | Metsfan |
+| 303 | 144 | Maureen Flanigan |
+| 304 | 144 | Circuit8 |
+| 305 | 143 | Metsfan |
+| 306 | 143 | Dennis Bradley |
 | 307 | 143 | Asher |
 | 308 | 143 | Daresha Fair |
 | 309 | 142 | Cynthia Boudreau |
@@ -351,8 +351,8 @@
 | 343 | 132 | Degenerate |
 | 344 | 132 | Vamp |
 | 345 | 131 | Smiley Tiltbuilder |
-| 346 | 130 | Shukee Lo |
-| 347 | 130 | Zach Kerbs |
+| 346 | 130 | Zach Kerbs |
+| 347 | 130 | Shukee Lo |
 | 348 | 130 | icequeenx |
 | 349 | 129 | Dreamy Snapgrid |
 | 350 | 129 | Sherri |
