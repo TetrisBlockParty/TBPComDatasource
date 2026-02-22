@@ -85,8 +85,8 @@
 | 77 | 409 | Isabella Blanco |
 | 78 | 404 | Courtney Cicoria |
 | 79 | 402 | Julian Garcia |
-| 80 | 396 | Amy Suckarieh |
-| 81 | 396 | Alicia Bass |
+| 80 | 396 | Alicia Bass |
+| 81 | 396 | Amy Suckarieh |
 | 82 | 391 | Ramel Rhodes |
 | 83 | 390 | Carlton Unfiltered |
 | 84 | 382 | Marie-Pier Desjardins |
@@ -171,8 +171,8 @@
 | 163 | 203 | Katherine Crane |
 | 164 | 203 | Chris Bernstein |
 | 165 | 202 | TRCuse |
-| 166 | 201 | Chance Strickland |
-| 167 | 201 | Melvin Baird |
+| 166 | 201 | Melvin Baird |
+| 167 | 201 | Chance Strickland |
 | 168 | 200 | Jeff Brian Gates |
 | 169 | 198 | Jessica Lynn Cutlip |
 | 170 | 197 | Chilly Crasher |

@@ -92,8 +92,8 @@
 | 84 | 591 | Jesse Olive |
 | 85 | 588 | yoyo |
 | 86 | 582 | Natasha Jones |
-| 87 | 582 | Jay Horn |
-| 88 | 582 | Speedy Bridger |
+| 87 | 582 | Speedy Bridger |
+| 88 | 582 | Jay Horn |
 | 89 | 581 | Danielle Mogg |
 | 90 | 576 | Dan Rob |
 | 91 | 566 | Dolores Falco |
@@ -144,8 +144,8 @@
 | 136 | 402 | Shannon Matthew Byers |
 | 137 | 400 | Luciana Braganca Vieira |
 | 138 | 399 | Mcathen |
-| 139 | 399 | Patti Skiles |
-| 140 | 399 | Marcie Bressler |
+| 139 | 399 | Marcie Bressler |
+| 140 | 399 | Patti Skiles |
 | 141 | 397 | Annie Déè |
 | 142 | 396 | Aaron Pitkin |
 | 143 | 392 | Katie Knaus |
@@ -179,8 +179,8 @@
 | 171 | 325 | Giddy Twistbuilder |
 | 172 | 323 | Demetrious Shaw Sr. |
 | 173 | 320 | Or Reznitsky |
-| 174 | 317 | Rebecca Funderburk Kirby |
-| 175 | 317 | Ashley Tookes |
+| 174 | 317 | Ashley Tookes |
+| 175 | 317 | Rebecca Funderburk Kirby |
 | 176 | 315 | Kammy Hill |
 | 177 | 311 | Raya |
 | 178 | 308 | Daryn Elliott |
@@ -464,11 +464,11 @@
 | 456 | 113 | Martin Bernier |
 | 457 | 113 | Kristy Brown |
 | 458 | 112 | TLM |
-| 459 | 112 | Sarah Morris |
+| 459 | 112 | Michael Kimbro |
 | 460 | 112 | Shanon R Jackson |
-| 461 | 112 | Michael Kimbro |
-| 462 | 111 | Stephanie Zahm |
-| 463 | 111 | momo |
+| 461 | 112 | Sarah Morris |
+| 462 | 111 | momo |
+| 463 | 111 | Stephanie Zahm |
 | 464 | 111 | Morgan Cudo |
 | 465 | 111 | Jennifer Neiman Gaal |
 | 466 | 111 | Victoria Wangler Lewis |
