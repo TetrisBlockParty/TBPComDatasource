@@ -94,8 +94,8 @@
 | 86 | 399 | Nerdy Linkblock |
 | 87 | 397 | Tdub |
 | 88 | 390 | Goose egg |
-| 89 | 390 | Lori Bales |
-| 90 | 390 | Candy Jones |
+| 89 | 390 | Candy Jones |
+| 90 | 390 | Lori Bales |
 | 91 | 389 | Trina Gee |
 | 92 | 383 | Loony Fitzone |
 | 93 | 382 | Plucky Fallzone |
@@ -141,13 +141,13 @@
 | 133 | 290 | Sarah Roberts |
 | 134 | 290 | Death |
 | 135 | 285 | Ananda Mendez |
-| 136 | 284 | Rachael |
-| 137 | 284 | Emily Adelaide Wheatley |
+| 136 | 284 | Emily Adelaide Wheatley |
+| 137 | 284 | Rachael |
 | 138 | 283 | Franswa |
-| 139 | 282 | Snippy Wipebuilder |
-| 140 | 282 | Cool Shiftsnap |
-| 141 | 282 | Tyler Werts |
-| 142 | 282 | Timothy Dew |
+| 139 | 282 | Cool Shiftsnap |
+| 140 | 282 | Snippy Wipebuilder |
+| 141 | 282 | Timothy Dew |
+| 142 | 282 | Tyler Werts |
 | 143 | 276 | Dandy Basegrid |
 | 144 | 270 | Mandyy Rae |
 | 145 | 270 | Ash Galvan |
@@ -166,8 +166,8 @@
 | 158 | 253 | Witty Builderfit |
 | 159 | 252 | Dena Kayy |
 | 160 | 247 | Tana |
-| 161 | 246 | Mike Ames |
-| 162 | 246 | Lakeisha Chapman |
+| 161 | 246 | Lakeisha Chapman |
+| 162 | 246 | Mike Ames |
 | 163 | 244 | Marianita Garcia |
 | 164 | 243 | Trippy Redd |
 | 165 | 242 | ALFD |
@@ -270,7 +270,7 @@
 | 262 | 167 | Nery Martinez |
 | 263 | 167 | Cranky Pattern |
 | 264 | 166 | Carrie Smith |
-| 265 | 165 | Tina Englert |
+| 265 | 165 | Silly Align |
 | 266 | 165 | Nadine Velardo |
 | 267 | 165 | Tina Englert |
 | 268 | 163 | Davery Spencer Adair |

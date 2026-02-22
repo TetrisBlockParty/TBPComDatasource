@@ -80,8 +80,8 @@
 | 72 | 533 | Chris Baggett |
 | 73 | 533 | Eric Mcgaughy |
 | 74 | 530 | Yoset Mejia |
-| 75 | 524 | Amelpss |
-| 76 | 524 | Carolyn Wallace |
+| 75 | 524 | Carolyn Wallace |
+| 76 | 524 | Amelpss |
 | 77 | 523 | Dawn Alexander |
 | 78 | 517 | H.R. Block |
 | 79 | 512 | Casey Jeffcoat |
@@ -156,8 +156,8 @@
 | 148 | 264 | Dana Scott |
 | 149 | 264 | Girl |
 | 150 | 262 | Holly Jolly |
-| 151 | 262 | Alan George LaRage |
-| 152 | 262 | Joeliecea Cobb |
+| 151 | 262 | Joeliecea Cobb |
+| 152 | 262 | Alan George LaRage |
 | 153 | 258 | Bio Nelly |
 | 154 | 257 | Twisty Clicky |
 | 155 | 256 | Mylo Lipscomb |
@@ -188,8 +188,8 @@
 | 180 | 212 | Mike Solo |
 | 181 | 211 | Jenna McGeorge |
 | 182 | 210 | Zethra Prenisha Rahming |
-| 183 | 209 | Porkobello |
-| 184 | 209 | Rafael Valentin |
+| 183 | 209 | Rafael Valentin |
+| 184 | 209 | Porkobello |
 | 185 | 207 | Chirpy Basepiece |
 | 186 | 205 | Kathy Brookins |
 | 187 | 204 | Carlos Ramirez |
@@ -197,8 +197,8 @@
 | 189 | 203 | Katherine Crane |
 | 190 | 202 | Patron Anderson |
 | 191 | 202 | TRCuse |
-| 192 | 201 | Chance Strickland |
-| 193 | 201 | Melvin Baird |
+| 192 | 201 | Melvin Baird |
+| 193 | 201 | Chance Strickland |
 | 194 | 200 | Lori |
 | 195 | 200 | Laura |
 | 196 | 198 | Zesty Twistbuilder |
@@ -215,8 +215,8 @@
 | 207 | 193 | Nikki Rae Gordon |
 | 208 | 192 | Shauna Havard |
 | 209 | 192 | Dizzy Matchzone |
-| 210 | 191 | Sam Bishop |
-| 211 | 191 | Klo |
+| 210 | 191 | Klo |
+| 211 | 191 | Sam Bishop |
 | 212 | 190 | Cheery Risebuilder |
 | 213 | 189 | Dihcheese444 |
 | 214 | 189 | Calvin Dennis |
@@ -252,8 +252,8 @@
 | 244 | 162 | John Brunetti |
 | 245 | 160 | Ellen Durfee |
 | 246 | 160 | Brittany Marsh |
-| 247 | 159 | DonMega |
-| 248 | 159 | Marcus Todd |
+| 247 | 159 | Marcus Todd |
+| 248 | 159 | DonMega |
 | 249 | 158 | Chair |
 | 250 | 157 | Bethany Ison |
 | 251 | 157 | scott |
@@ -339,11 +339,11 @@
 | 331 | 128 | Silly Zonebuilder |
 | 332 | 128 | Kristin MacDonald |
 | 333 | 127 | Robert Rodriguez |
-| 334 | 126 | Cheryl Johnson |
-| 335 | 126 | PAPatty |
+| 334 | 126 | PAPatty |
+| 335 | 126 | Cheryl Johnson |
 | 336 | 126 | icequeenx |
-| 337 | 125 | Steph Marie |
-| 338 | 125 | Ann G. Carrillo |
+| 337 | 125 | Ann G. Carrillo |
+| 338 | 125 | Steph Marie |
 | 339 | 124 | Atia Scott |
 | 340 | 124 | Sam Middleton |
 | 341 | 124 | Circuit8 |

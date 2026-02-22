@@ -561,8 +561,8 @@
 | 553 | 413 | Lauren Fitzgerald Thomas |
 | 554 | 413 | Fancy Twister |
 | 555 | 412 | Jason H Baker |
-| 556 | 411 | Mighty Spinbuilder |
-| 557 | 411 | Kristen O'Neal |
+| 556 | 411 | Kristen O'Neal |
+| 557 | 411 | Mighty Spinbuilder |
 | 558 | 410 | Nicole Cannon |
 | 559 | 409 | Angi Harrison |
 | 560 | 408 | Stefanie Zonzini-Gagliardi |
@@ -739,8 +739,8 @@
 | 731 | 314 | Christina Walker |
 | 732 | 313 | Britney M. |
 | 733 | 313 | Snippy Block |
-| 734 | 313 | Natasha Edmonds |
-| 735 | 313 | Marina Linda |
+| 734 | 313 | Marina Linda |
+| 735 | 313 | Natasha Edmonds |
 | 736 | 312 | Heather Renee Jeffers |
 | 737 | 312 | Sassy Linkbuilder |
 | 738 | 311 | Kelsey Sullivan |
@@ -765,18 +765,18 @@
 | 757 | 304 | Melissa McCall |
 | 758 | 304 | NFLPITMOM |
 | 759 | 303 | Angie Marie |
-| 760 | 303 | Devin |
-| 761 | 303 | Amanda Schaffer |
-| 762 | 302 | Epic Stackbuilder |
-| 763 | 302 | Kena T. Tanner |
+| 760 | 303 | Amanda Schaffer |
+| 761 | 303 | Devin |
+| 762 | 302 | Kena T. Tanner |
+| 763 | 302 | Epic Stackbuilder |
 | 764 | 302 | Maxwell Escalera |
 | 765 | 300 | Alice Ball |
-| 766 | 300 | Kacee Conrad Bock |
-| 767 | 300 | Warren Marleau |
+| 766 | 300 | Warren Marleau |
+| 767 | 300 | Kacee Conrad Bock |
 | 768 | 299 | Cassie Newton |
 | 769 | 298 | Frilly Fallzone |
-| 770 | 298 | Ryan Stadel |
-| 771 | 298 | Lazy Riseclear |
+| 770 | 298 | Lazy Riseclear |
+| 771 | 298 | Ryan Stadel |
 | 772 | 297 | Frisky Patternline |
 | 773 | 297 | Toni Lynn |
 | 774 | 297 | Ashley Robbins |
@@ -856,8 +856,8 @@
 | 848 | 274 | KT Macadocious |
 | 849 | 274 | Jamie Stevey |
 | 850 | 273 | Britt Stunkel |
-| 851 | 273 | Boldy Block |
-| 852 | 273 | Jennifer Aiken |
+| 851 | 273 | Jennifer Aiken |
+| 852 | 273 | Boldy Block |
 | 853 | 272 | Gina Justbeingme Chillis |
 | 854 | 272 | Witty Piecebuilder |
 | 855 | 271 | Michelle Ettrick |
@@ -871,8 +871,8 @@
 | 863 | 269 | Queen |
 | 864 | 268 | Donald Nowland |
 | 865 | 267 | Kim McGrath |
-| 866 | 267 | Denisse Avilez |
-| 867 | 267 | Candace Cece Joseph |
+| 866 | 267 | Candace Cece Joseph |
+| 867 | 267 | Denisse Avilez |
 | 868 | 267 | Dad |
 | 869 | 267 | Sanaa Nounoussa |
 | 870 | 266 | Man of Steel |
@@ -905,8 +905,8 @@
 | 897 | 260 | Lianne Giandalone LaBounty |
 | 898 | 260 | Lynda Toland |
 | 899 | 259 | Mary Ahne |
-| 900 | 259 | sup |
-| 901 | 259 | Alyssa Nadine Medelez |
+| 900 | 259 | Alyssa Nadine Medelez |
+| 901 | 259 | sup |
 | 902 | 259 | Sarah Sims |
 | 903 | 259 | Andrea Devery Beck |
 | 904 | 259 | JacJac |
@@ -973,9 +973,9 @@
 | 965 | 244 | Erika Deer Kauffman |
 | 966 | 244 | Brooklynn Huckaby |
 | 967 | 243 | Albert McKnight |
-| 968 | 242 | Beautae |
+| 968 | 242 | Meganator42 |
 | 969 | 242 | Greenshades00 |
-| 970 | 242 | Meganator42 |
+| 970 | 242 | Beautae |
 | 971 | 242 | Groovy Tilefall |
 | 972 | 242 | Juan Killyoselfifudontlikeme Ronaldo |
 | 973 | 242 | Donna Chandler |

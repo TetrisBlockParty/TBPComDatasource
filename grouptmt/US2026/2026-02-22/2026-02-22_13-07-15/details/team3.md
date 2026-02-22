@@ -174,14 +174,14 @@
 | 166 | 389 | Jeni Dow |
 | 167 | 382 | Scott Carleton |
 | 168 | 380 | Tasha Schriewer |
-| 169 | 378 | Chris Bell |
-| 170 | 378 | Nicole Flippo |
+| 169 | 378 | Nicole Flippo |
+| 170 | 378 | Chris Bell |
 | 171 | 376 | Loopy Clusterer |
 | 172 | 375 | Shunta Jacobs |
 | 173 | 374 | Sherry Ogden |
 | 174 | 371 | Michael Nowogorski |
-| 175 | 370 | Santeria Trece Candles |
-| 176 | 370 | Danielle Allison |
+| 175 | 370 | Danielle Allison |
+| 176 | 370 | Santeria Trece Candles |
 | 177 | 368 | Stephanie Woods |
 | 178 | 366 | Adrian Marcel Pate |
 | 179 | 362 | Darlene McMillan |
@@ -189,8 +189,8 @@
 | 181 | 359 | Dapper Snap |
 | 182 | 358 | RickyG |
 | 183 | 358 | Chummy Caster |
-| 184 | 357 | Tom Nault |
-| 185 | 357 | Stephanie Burtin |
+| 184 | 357 | Stephanie Burtin |
+| 185 | 357 | Tom Nault |
 | 186 | 355 | Tessina Dewey-Mancino |
 | 187 | 353 | Nora Rogers |
 | 188 | 348 | Chasity |
@@ -227,8 +227,8 @@
 | 219 | 296 | Brandon Givens |
 | 220 | 295 | Marci Mize Fandrich |
 | 221 | 289 | DidIdothat |
-| 222 | 289 | Duane Bright |
-| 223 | 289 | Hoppy Buildout |
+| 222 | 289 | Hoppy Buildout |
+| 223 | 289 | Duane Bright |
 | 224 | 286 | Cynthia Herrmann Egland |
 | 225 | 284 | Denise Nardoni |
 | 226 | 283 | Sarah Moyer |
@@ -251,8 +251,8 @@
 | 243 | 267 | Terry Jo Jones |
 | 244 | 263 | Brittany |
 | 245 | 262 | Joe-Maggie Mathews |
-| 246 | 261 | Tiffany Ford |
-| 247 | 261 | Tasha Wesson-Torrence |
+| 246 | 261 | Tasha Wesson-Torrence |
+| 247 | 261 | Tiffany Ford |
 | 248 | 261 | Marquita Sheard |
 | 249 | 260 | Grams |
 | 250 | 259 | Nikki Pags |
@@ -330,8 +330,8 @@
 | 322 | 199 | Christian Werndl |
 | 323 | 198 | Goofy Fall |
 | 324 | 195 | Nicha Hooker |
-| 325 | 193 | Lys |
-| 326 | 193 | Clever Shiftsnap |
+| 325 | 193 | Clever Shiftsnap |
+| 326 | 193 | Lys |
 | 327 | 192 | Ryan Williams |
 | 328 | 192 | Kelly Ann Child |
 | 329 | 192 | Melanie Sherwood |
