@@ -170,8 +170,8 @@
 | 162 | 953 | Ladyrainbootz |
 | 163 | 951 | Cynthia Ward |
 | 164 | 950 | Teresa Gillmore |
-| 165 | 941 | Marie Boyd Faulk |
-| 166 | 941 | Desiree Harris Rosch |
+| 165 | 941 | Desiree Harris Rosch |
+| 166 | 941 | Marie Boyd Faulk |
 | 167 | 940 | Cool Clearer |
 | 168 | 937 | Shannon Joslin |
 | 169 | 935 | William Meussner |
@@ -314,8 +314,8 @@
 | 306 | 549 | Kaylee McCafferty |
 | 307 | 549 | Darcy Mae |
 | 308 | 548 | Jeremy Parodi |
-| 309 | 548 | Slip |
-| 310 | 548 | Brownie Sheena |
+| 309 | 548 | Brownie Sheena |
+| 310 | 548 | Slip |
 | 311 | 547 | Giggy Blocker |
 | 312 | 544 | Leah Keesling |
 | 313 | 543 | Adira Brown |
@@ -351,8 +351,8 @@
 | 343 | 507 | Gauri Shrotriya |
 | 344 | 505 | Nashu |
 | 345 | 504 | Lylymom |
-| 346 | 502 | Poppy Snap |
-| 347 | 502 | Sparkles |
+| 346 | 502 | Sparkles |
+| 347 | 502 | Poppy Snap |
 | 348 | 500 | Sarah Ridenour |
 | 349 | 499 | Sarah Massey |
 | 350 | 497 | Kimberly Randesi |
@@ -476,8 +476,8 @@
 | 468 | 393 | Ryan Meilleur |
 | 469 | 393 | Alexandra Weir |
 | 470 | 393 | Jamie West |
-| 471 | 392 | Niceday |
-| 472 | 392 | Christine Bollig |
+| 471 | 392 | Christine Bollig |
+| 472 | 392 | Niceday |
 | 473 | 391 | Cleo Sims |
 | 474 | 391 | Adam Simmons |
 | 475 | 391 | Chilly Bridgepiece |
@@ -649,12 +649,12 @@
 | 641 | 299 | Cassie Newton |
 | 642 | 299 | Beth Decker |
 | 643 | 298 | Frilly Fallzone |
-| 644 | 298 | Ryan Stadel |
-| 645 | 298 | RetroLemur |
+| 644 | 298 | RetroLemur |
+| 645 | 298 | Ryan Stadel |
 | 646 | 297 | Toni Lynn |
 | 647 | 296 | Amber Gray |
-| 648 | 296 | Frisky Riserbuilder |
-| 649 | 296 | Nicky Jackson |
+| 648 | 296 | Nicky Jackson |
+| 649 | 296 | Frisky Riserbuilder |
 | 650 | 296 | Jennifer Darby |
 | 651 | 295 | Sleepypanda67 |
 | 652 | 295 | Alice Ball |
@@ -914,7 +914,7 @@
 | 906 | 209 | Alphia Price |
 | 907 | 209 | Wedance Fong |
 | 908 | 208 | Ashley MoBetta Humes |
-| 909 | 208 | Patrick Fleming |
+| 909 | 208 | Alyssa Dean |
 | 910 | 208 | TK Boles |
 | 911 | 208 | Patrick Fleming |
 | 912 | 207 | Wungun Shun |

@@ -47,8 +47,8 @@
 | 39 | 1015 | Amber Jones |
 | 40 | 1012 | Danielle Cutler |
 | 41 | 998 | Liv Whetson |
-| 42 | 989 | Kay |
-| 43 | 989 | Joey Banks |
+| 42 | 989 | Joey Banks |
+| 43 | 989 | Kay |
 | 44 | 968 | Stephanie Rice |
 | 45 | 935 | Snappy Fitzone |
 | 46 | 931 | Fancy Slam |
@@ -108,8 +108,8 @@
 | 100 | 506 | Sashay Tapae Simpson |
 | 101 | 503 | Susan Valentino |
 | 102 | 502 | Justin Ritter |
-| 103 | 500 | Domo Washington |
-| 104 | 500 | Kristie |
+| 103 | 500 | Kristie |
+| 104 | 500 | Domo Washington |
 | 105 | 497 | Mykal Burton |
 | 106 | 491 | Chauntee Alfrey-Cardinale |
 | 107 | 487 | Alaina Lee |
@@ -233,8 +233,8 @@
 | 225 | 239 | Tasha Wesson-Torrence |
 | 226 | 236 | Jess Bissett |
 | 227 | 235 | LaNette Morgan |
-| 228 | 234 | Nikki Pags |
-| 229 | 234 | Grego Daniel |
+| 228 | 234 | Grego Daniel |
+| 229 | 234 | Nikki Pags |
 | 230 | 233 | Ray Lader |
 | 231 | 232 | Donna |
 | 232 | 227 | Krystal Gerstberger |
@@ -273,8 +273,8 @@
 | 265 | 195 | Cheryl Hinch Tenbrook |
 | 266 | 194 | Saucy Buildout |
 | 267 | 193 | Clever Shiftsnap |
-| 268 | 192 | Kelly Ann Child |
-| 269 | 192 | Ryan Williams |
+| 268 | 192 | Ryan Williams |
+| 269 | 192 | Kelly Ann Child |
 | 270 | 191 | Meowsa |
 | 271 | 189 | Katie Leigh Blankenship |
 | 272 | 188 | Loopy Fallmatch |
@@ -291,12 +291,12 @@
 | 283 | 179 | Christian Werndl |
 | 284 | 179 | Tipsy Zonebuilder |
 | 285 | 178 | Jess Dearborn |
-| 286 | 176 | Melissa Orth Hunter |
-| 287 | 176 | Jennifer Alvey |
+| 286 | 176 | Jennifer Alvey |
+| 287 | 176 | Melissa Orth Hunter |
 | 288 | 175 | Eileen Brady Thurber |
 | 289 | 174 | Betty Rosas |
-| 290 | 174 | fraulila |
-| 291 | 174 | Chelsea Hall |
+| 290 | 174 | Chelsea Hall |
+| 291 | 174 | fraulila |
 | 292 | 174 | Lesley Perez |
 | 293 | 173 | Denita Mungro |
 | 294 | 173 | BŘŰŤİÇŨŚ |
@@ -501,8 +501,8 @@
 | 493 | 100 | TEDDY |
 | 494 | 100 | Brooke Bauer |
 | 495 | 99 | Breanna Marsden |
-| 496 | 99 | Michelle Ramirez |
-| 497 | 99 | Angie King |
+| 496 | 99 | Angie King |
+| 497 | 99 | Michelle Ramirez |
 | 498 | 99 | Todd Hall |
 | 499 | 99 | Elyse Grabowsky |
 | 500 | 98 | Vikkye Vizaniaris |

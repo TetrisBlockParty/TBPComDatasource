@@ -49,8 +49,8 @@
 | 41 | 646 | Jacqueline Helm |
 | 42 | 634 | Anthony Bryan Riva |
 | 43 | 632 | Kimyatta Cavin |
-| 44 | 630 | Chilly Line |
-| 45 | 630 | Dustee Craddock-Harrison |
+| 44 | 630 | Dustee Craddock-Harrison |
+| 45 | 630 | Chilly Line |
 | 46 | 627 | Jonathan Kimbrough |
 | 47 | 614 | KM8 |
 | 48 | 614 | Robin Getchel |
@@ -328,9 +328,9 @@
 | 320 | 104 | Cranky Rollpiece |
 | 321 | 104 | Blessedmama |
 | 322 | 103 | Denise B |
-| 323 | 102 | Christina O'Dell-Ishau |
-| 324 | 102 | Autumn Kumzi |
-| 325 | 102 | Brave Spinbuilder |
+| 323 | 102 | Autumn Kumzi |
+| 324 | 102 | Brave Spinbuilder |
+| 325 | 102 | Christina O'Dell-Ishau |
 | 326 | 101 | Nikki Rae Gordon |
 | 327 | 101 | Saulc1991 |
 | 328 | 101 | Spicy Cascadezone |
