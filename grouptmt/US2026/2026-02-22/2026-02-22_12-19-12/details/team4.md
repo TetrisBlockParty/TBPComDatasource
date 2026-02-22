@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Lucille Truesdale |
-| 34 | 843 | Shelly Chandler |
+| 33 | 843 | Shelly Chandler |
+| 34 | 843 | Lucille Truesdale |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -62,8 +62,8 @@
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Kimyatta Cavin |
-| 58 | 636 | Dustee Craddock-Harrison |
+| 57 | 636 | Dustee Craddock-Harrison |
+| 58 | 636 | Kimyatta Cavin |
 | 59 | 623 | Robin Getchel |
 | 60 | 614 | TheNeesh50 |
 | 61 | 599 | Brittney Griggs |
@@ -74,8 +74,8 @@
 | 66 | 554 | Julian Garcia |
 | 67 | 546 | Kimberly Love |
 | 68 | 544 | Amy Suckarieh |
-| 69 | 533 | Eric Mcgaughy |
-| 70 | 533 | Chris Baggett |
+| 69 | 533 | Chris Baggett |
+| 70 | 533 | Eric Mcgaughy |
 | 71 | 530 | Yoset Mejia |
 | 72 | 524 | Amelpss |
 | 73 | 523 | Dawn Alexander |
@@ -429,9 +429,9 @@
 | 421 | 97 | Serena Butter |
 | 422 | 97 | Brandon Crabbs |
 | 423 | 96 | Rebecca Blake |
-| 424 | 95 | Jobadia Steelerton |
-| 425 | 95 | Susan Williams |
-| 426 | 95 | Chirpy Slammer |
+| 424 | 95 | Susan Williams |
+| 425 | 95 | Chirpy Slammer |
+| 426 | 95 | Jobadia Steelerton |
 | 427 | 95 | RedBoots82 |
 | 428 | 94 | Ahleek Mitchell |
 | 429 | 94 | Lee Silpe |
@@ -1146,9 +1146,9 @@
 | 1138 | 21 | ZZZZZZZ |
 | 1139 | 21 | Cool Cascadefit |
 | 1140 | 20 | Kim Houston Vickrey |
-| 1141 | 20 | DaReal007EJW |
-| 1142 | 20 | Kaung San |
-| 1143 | 20 | Malisa Brookins |
+| 1141 | 20 | Kaung San |
+| 1142 | 20 | Malisa Brookins |
+| 1143 | 20 | Cheery Shatterclear |
 | 1144 | 20 | Jennifer Brown |
 | 1145 | 20 | DaReal007EJW |
 | 1146 | 20 | John Anderson |

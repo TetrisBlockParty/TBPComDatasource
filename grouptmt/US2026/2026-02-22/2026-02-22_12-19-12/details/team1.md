@@ -54,8 +54,8 @@
 | 46 | 671 | Lawrence Belanger |
 | 47 | 663 | Drew Magnus |
 | 48 | 646 | Susanna Guerry |
-| 49 | 635 | Marianne Louise West |
-| 50 | 635 | Angel Fowler |
+| 49 | 635 | Angel Fowler |
+| 50 | 635 | Marianne Louise West |
 | 51 | 631 | comrade fish |
 | 52 | 627 | Katie Daniels |
 | 53 | 614 | Snappy Swiper |
@@ -91,8 +91,8 @@
 | 83 | 400 | Cynthia Bradley |
 | 84 | 399 | Nerdy Linkblock |
 | 85 | 390 | Candy Jones |
-| 86 | 390 | Lori Bales |
-| 87 | 390 | Goose egg |
+| 86 | 390 | Goose egg |
+| 87 | 390 | Lori Bales |
 | 88 | 389 | Trina Gee |
 | 89 | 388 | Jennifer ManWarren |
 | 90 | 383 | Loony Fitzone |
@@ -120,8 +120,8 @@
 | 112 | 330 | Sweet Baker |
 | 113 | 326 | Monica Donato |
 | 114 | 321 | Maria C. Hernandez |
-| 115 | 319 | Deanna L Hermanson |
-| 116 | 319 | Patrick Luckenbill |
+| 115 | 319 | Patrick Luckenbill |
+| 116 | 319 | Deanna L Hermanson |
 | 117 | 318 | Jessica Sheehan |
 | 118 | 316 | Ly Phethmany |
 | 119 | 316 | Jennifer Hardman |
@@ -189,8 +189,8 @@
 | 181 | 213 | Daring Fitclear |
 | 182 | 212 | Jaimie Lynn |
 | 183 | 211 | Marianita Garcia |
-| 184 | 210 | Giggly Builderline |
-| 185 | 210 | Letson Melissa |
+| 184 | 210 | Letson Melissa |
+| 185 | 210 | Giggly Builderline |
 | 186 | 209 | Debbie Davis |
 | 187 | 208 | Donna Addison Williams |
 | 188 | 208 | Bouncy Grid |
@@ -230,8 +230,8 @@
 | 222 | 187 | Cool Towerzone |
 | 223 | 186 | Margo Wagner |
 | 224 | 184 | Chris Sigurdson |
-| 225 | 183 | Andrew Boone |
-| 226 | 183 | Amy Hess |
+| 225 | 183 | Amy Hess |
+| 226 | 183 | Andrew Boone |
 | 227 | 182 | Phu ckalldems |
 | 228 | 180 | BigWeenie69 |
 | 229 | 180 | Jessie Lynn |
@@ -278,8 +278,8 @@
 | 270 | 155 | Barry Mac'Ockner |
 | 271 | 154 | Gary Gobin |
 | 272 | 154 | Melissa Lemmon |
-| 273 | 153 | Dino |
-| 274 | 153 | Tami Luce Martin |
+| 273 | 153 | Tami Luce Martin |
+| 274 | 153 | Dino |
 | 275 | 152 | Tavia |
 | 276 | 152 | Speedy Snapfall |
 | 277 | 152 | Brave Wrecker |
@@ -302,8 +302,8 @@
 | 294 | 144 | Fmp |
 | 295 | 143 | Guest |
 | 296 | 143 | Chantelle Ceno |
-| 297 | 142 | Plucky Stacky |
-| 298 | 142 | Jerry Danowski |
+| 297 | 142 | Jerry Danowski |
+| 298 | 142 | Plucky Stacky |
 | 299 | 141 | Kayla Marie Stevenson |
 | 300 | 139 | Aimee Horton |
 | 301 | 139 | LD1 |

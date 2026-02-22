@@ -486,9 +486,9 @@
 | 478 | 465 | Davetta Sanford |
 | 479 | 464 | snkylnk |
 | 480 | 464 | Kiana Boschh |
-| 481 | 463 | Jaye EL Hunter |
-| 482 | 463 | Sue Leard |
-| 483 | 463 | Cody Nishimura |
+| 481 | 463 | Sue Leard |
+| 482 | 463 | Cody Nishimura |
+| 483 | 463 | Jaye EL Hunter |
 | 484 | 463 | Mia Muse Best |
 | 485 | 462 | Dennis McLaurin |
 | 486 | 462 | Jarboe |
@@ -717,8 +717,8 @@
 | 709 | 322 | Michelle Pike |
 | 710 | 322 | Christina Jarvis-Swarbrick |
 | 711 | 321 | Samantha Scibelli |
-| 712 | 321 | Tamara Bailey |
-| 713 | 321 | Ashley Criner |
+| 712 | 321 | Ashley Criner |
+| 713 | 321 | Tamara Bailey |
 | 714 | 320 | Tash Bell |
 | 715 | 320 | Mary Boss |
 | 716 | 319 | Prado |
@@ -948,8 +948,8 @@
 | 940 | 247 | Karyn Yurcho Dooley |
 | 941 | 246 | Stacey Tranchida |
 | 942 | 246 | Laura McConnell |
-| 943 | 245 | Cassi Owens |
-| 944 | 245 | Lively Piecefit |
+| 943 | 245 | Lively Piecefit |
+| 944 | 245 | Cassi Owens |
 | 945 | 245 | Shindee |
 | 946 | 245 | Abby Klaski |
 | 947 | 244 | Jumpy Gridclear |
@@ -1005,12 +1005,12 @@
 | 997 | 230 | Anna Mayo |
 | 998 | 230 | lady |
 | 999 | 229 | BbqGuru |
-| 1000 | 229 | Deidre Jenkins |
-| 1001 | 229 | Heather Anspaugh |
+| 1000 | 229 | Heather Anspaugh |
+| 1001 | 229 | Deidre Jenkins |
 | 1002 | 229 | Chyrisse Norton |
 | 1003 | 228 | Kandy Charmz |
 | 1004 | 228 | Dara |
-| 1005 | 228 | Lee |
+| 1005 | 228 | Yasmin Guzman |
 | 1006 | 228 | Asha Nichols-Collins |
 | 1007 | 228 | Lee |
 | 1008 | 227 | Artemus Darnell |
