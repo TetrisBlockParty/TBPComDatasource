@@ -120,8 +120,8 @@
 | 112 | 1252 | Katrina Williams Balmir |
 | 113 | 1248 | Howard Forest |
 | 114 | 1242 | Altamirano Michael |
-| 115 | 1232 | Groovy Puzzle |
-| 116 | 1232 | Isabela Shaw |
+| 115 | 1232 | Isabela Shaw |
+| 116 | 1232 | Groovy Puzzle |
 | 117 | 1226 | Vo'Landa Reels |
 | 118 | 1216 | Kristin Ruest |
 | 119 | 1215 | Megan Garrick |
@@ -202,8 +202,8 @@
 | 194 | 845 | April Dawn Gussler |
 | 195 | 838 | Tralonda Weeks |
 | 196 | 837 | Ashley Rose Frederick |
-| 197 | 834 | Rebecca Doughman |
-| 198 | 834 | Nika Bee |
+| 197 | 834 | Nika Bee |
+| 198 | 834 | Rebecca Doughman |
 | 199 | 828 | Cindy Sechler Taninecz |
 | 200 | 826 | Moose Griffith |
 | 201 | 820 | Chirpy Staggerpiece |
@@ -315,8 +315,8 @@
 | 307 | 589 | Shavonna Haynes |
 | 308 | 589 | Kelly Crook |
 | 309 | 582 | Gary Stash |
-| 310 | 579 | Juliana Marques Do Nascimento Gordy |
-| 311 | 579 | Roy Salyer |
+| 310 | 579 | Roy Salyer |
+| 311 | 579 | Juliana Marques Do Nascimento Gordy |
 | 312 | 576 | Ginger |
 | 313 | 572 | Chris Wanner |
 | 314 | 572 | Andrew Willis |
@@ -530,16 +530,16 @@
 | 522 | 378 | Christina Ashley |
 | 523 | 378 | TF Dyer |
 | 524 | 377 | Jason H Baker |
-| 525 | 376 | James Zaragoza |
-| 526 | 376 | Darlene Bowman |
-| 527 | 375 | Lively Edgepiece |
-| 528 | 375 | Wuntayk |
+| 525 | 376 | Darlene Bowman |
+| 526 | 376 | James Zaragoza |
+| 527 | 375 | Wuntayk |
+| 528 | 375 | Lively Edgepiece |
 | 529 | 374 | Elisheva Mizrachi |
 | 530 | 373 | Hunter Connors |
 | 531 | 373 | Jessica Hughes |
 | 532 | 372 | Ebony Deloach Bryant |
-| 533 | 371 | Giggy Grabber |
-| 534 | 371 | Brenda Messer |
+| 533 | 371 | Saucy Fitzone |
+| 534 | 371 | Giggy Grabber |
 | 535 | 371 | AkaLefty |
 | 536 | 371 | Brenda Messer |
 | 537 | 369 | Juan Castillo |

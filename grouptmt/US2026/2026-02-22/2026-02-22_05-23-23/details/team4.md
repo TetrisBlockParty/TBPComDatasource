@@ -196,8 +196,8 @@
 | 188 | 173 | ThaEviLJeNiuZ |
 | 189 | 168 | TinyLegoRose |
 | 190 | 167 | Cozy Balancer |
-| 191 | 166 | SammieJo Guy |
-| 192 | 166 | Marvin Lou Martin |
+| 191 | 166 | Marvin Lou Martin |
+| 192 | 166 | SammieJo Guy |
 | 193 | 165 | James Hurley Jr. |
 | 194 | 165 | Jackie Marie |
 | 195 | 164 | 030Synner |
