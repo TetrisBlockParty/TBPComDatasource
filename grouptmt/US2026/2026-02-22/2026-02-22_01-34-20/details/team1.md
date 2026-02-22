@@ -80,8 +80,8 @@
 | 72 | 348 | Stef Hu |
 | 73 | 347 | pjbeta |
 | 74 | 342 | Dee Perry |
-| 75 | 338 | Stephanie Zahn |
-| 76 | 338 | Tipsy Strikerpiece |
+| 75 | 338 | Tipsy Strikerpiece |
+| 76 | 338 | Stephanie Zahn |
 | 77 | 333 | Brandi Huntington |
 | 78 | 329 | Luciano Moreira |
 | 79 | 328 | Kellie |
