@@ -195,8 +195,8 @@
 | 187 | 921 | Morgue Chick |
 | 188 | 916 | Butta |
 | 189 | 915 | Kelly Trent |
-| 190 | 910 | Shuany Arias |
-| 191 | 910 | Crystal Hoffman |
+| 190 | 910 | Crystal Hoffman |
+| 191 | 910 | Shuany Arias |
 | 192 | 907 | Gene Mills |
 | 193 | 902 | Murrae Lynn Rebarchek |
 | 194 | 901 | Jennifer Peachey |
@@ -236,7 +236,7 @@
 | 228 | 787 | Laura McCarthey |
 | 229 | 777 | Tesha Oldaker |
 | 230 | 777 | Jessicah Myers |
-| 231 | 777 | Tesha Oldaker |
+| 231 | 777 | Barbra Miller |
 | 232 | 777 | Eric Carlson |
 | 233 | 772 | Stephen Stephen |
 | 234 | 771 | Terri McKelvey McKinley |
@@ -420,8 +420,8 @@
 | 412 | 483 | Victor Obiakarije |
 | 413 | 482 | Ben Barkley |
 | 414 | 482 | Amélie Cadieux |
-| 415 | 482 | Drwatson187 |
-| 416 | 482 | Eckoman518 |
+| 415 | 482 | Eckoman518 |
+| 416 | 482 | Drwatson187 |
 | 417 | 481 | Klee |
 | 418 | 480 | Dar |
 | 419 | 478 | Ashley Collins |

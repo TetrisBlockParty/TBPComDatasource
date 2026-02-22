@@ -294,8 +294,8 @@
 | 286 | 203 | Angie Harper |
 | 287 | 202 | Staci George Fitzsimmons |
 | 288 | 201 | Hyper Matchzone |
-| 289 | 200 | glichmod |
-| 290 | 200 | Sharisse Baltimore |
+| 289 | 200 | Sharisse Baltimore |
+| 290 | 200 | glichmod |
 | 291 | 198 | kacihall |
 | 292 | 197 | Saucy Buildout |
 | 293 | 195 | Nicha Hooker |
@@ -367,8 +367,8 @@
 | 359 | 153 | Lys |
 | 360 | 153 | Tony Waters |
 | 361 | 152 | Goofy Fall |
-| 362 | 152 | Shiny Zonebuilder |
-| 363 | 152 | Eric Caccavale |
+| 362 | 152 | Eric Caccavale |
+| 363 | 152 | Shiny Zonebuilder |
 | 364 | 151 | Sarah Cowan Burgos |
 | 365 | 149 | Alexis Taylor |
 | 366 | 148 | Pam Holt Powell |
@@ -381,10 +381,10 @@
 | 373 | 147 | sofaking |
 | 374 | 146 | Sara Dunn |
 | 375 | 146 | ROODBOY |
-| 376 | 146 | Wettnippz |
-| 377 | 146 | Sdot |
-| 378 | 144 | Tenisha Semidey |
-| 379 | 144 | Blair Erin Waite |
+| 376 | 146 | Sdot |
+| 377 | 146 | Wettnippz |
+| 378 | 144 | Blair Erin Waite |
+| 379 | 144 | Tenisha Semidey |
 | 380 | 142 | Gray Hicks |
 | 381 | 142 | Erica Anderson |
 | 382 | 142 | Jl |

@@ -85,8 +85,8 @@
 | 77 | 400 | Cynthia Bradley |
 | 78 | 390 | Candy Jones |
 | 79 | 389 | Trina Gee |
-| 80 | 388 | cc |
-| 81 | 388 | Jennifer ManWarren |
+| 80 | 388 | Jennifer ManWarren |
+| 81 | 388 | cc |
 | 82 | 382 | Jacqueline Williams |
 | 83 | 379 | Austin James |
 | 84 | 375 | Kimmie Kimms |
@@ -124,8 +124,8 @@
 | 116 | 290 | Death |
 | 117 | 288 | Seante Bullock |
 | 118 | 287 | Chelsea Dahlquist |
-| 119 | 286 | Arianna O'Brien |
-| 120 | 286 | Ly Phethmany |
+| 119 | 286 | Ly Phethmany |
+| 120 | 286 | Arianna O'Brien |
 | 121 | 285 | Ananda Mendez |
 | 122 | 284 | Rachael |
 | 123 | 284 | Emily Adelaide Wheatley |
@@ -429,7 +429,7 @@
 | 421 | 85 | Lakeisha Chapman |
 | 422 | 84 | Amber Nixon |
 | 423 | 84 | Christina Torres |
-| 424 | 84 | Amber Nixon |
+| 424 | 84 | Jennifer Duttry |
 | 425 | 84 | Jason Savage |
 | 426 | 83 | FableGray |
 | 427 | 83 | Jeremy Maubert |
@@ -466,7 +466,7 @@
 | 458 | 78 | Michelle Beres |
 | 459 | 77 | Tim Giacobone |
 | 460 | 77 | Monica Rivas |
-| 461 | 77 | Tim Giacobone |
+| 461 | 77 | Maria Maloney |
 | 462 | 76 | Steph |
 | 463 | 76 | Tim Mccrary |
 | 464 | 76 | Mary Love |

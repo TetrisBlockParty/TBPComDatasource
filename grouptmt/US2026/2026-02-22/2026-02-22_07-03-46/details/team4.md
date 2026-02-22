@@ -33,8 +33,8 @@
 | 25 | 886 | Dustin Robert |
 | 26 | 880 | Koshin Abdirahman |
 | 27 | 879 | Heather Tushner |
-| 28 | 873 | Michelle Pearman |
-| 29 | 873 | Elizabeth Sallas |
+| 28 | 873 | Elizabeth Sallas |
+| 29 | 873 | Michelle Pearman |
 | 30 | 871 | Denny Shives |
 | 31 | 846 | Christine Marie |
 | 32 | 843 | Lucille Truesdale |
@@ -47,8 +47,8 @@
 | 39 | 757 | Ancient Intuition |
 | 40 | 736 | Goatimus Lombardi |
 | 41 | 734 | BertMofo |
-| 42 | 707 | Rachel Anne |
-| 43 | 707 | Clarence Patawaran |
+| 42 | 707 | Clarence Patawaran |
+| 43 | 707 | Rachel Anne |
 | 44 | 704 | Crystal Carroll |
 | 45 | 697 | Edward White |
 | 46 | 695 | LisaJo Picken Buchanan |
@@ -148,8 +148,8 @@
 | 140 | 245 | Jolly Dashfit |
 | 141 | 240 | Peachy Fall |
 | 142 | 232 | Crystal Nicolette Moore |
-| 143 | 230 | Cursed Hag |
-| 144 | 230 | Autum Leigh |
+| 143 | 230 | Autum Leigh |
+| 144 | 230 | Cursed Hag |
 | 145 | 228 | J-Rizzle |
 | 146 | 227 | Chris Bernstein |
 | 147 | 227 | Alyssa Papen |
@@ -191,8 +191,8 @@
 | 183 | 192 | Shauna Havard |
 | 184 | 191 | Klo |
 | 185 | 190 | Cheery Risebuilder |
-| 186 | 189 | Stacey Stano |
-| 187 | 189 | Calvin Dennis |
+| 186 | 189 | Calvin Dennis |
+| 187 | 189 | Stacey Stano |
 | 188 | 188 | Andria Lynn |
 | 189 | 186 | Holly |
 | 190 | 185 | Andy Cabral |
