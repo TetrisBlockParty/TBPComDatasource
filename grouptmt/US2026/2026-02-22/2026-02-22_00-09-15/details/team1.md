@@ -154,12 +154,12 @@
 | 146 | 186 | Jennifer Olewnik Soborowski |
 | 147 | 185 | Basment Living |
 | 148 | 183 | Michael |
-| 149 | 180 | BigWeenie69 |
-| 150 | 180 | Erez Yosef |
+| 149 | 180 | Erez Yosef |
+| 150 | 180 | BigWeenie69 |
 | 151 | 179 | Danielle Little-Daugherty |
 | 152 | 178 | Chad Atchley |
-| 153 | 177 | Irual Hctrab |
-| 154 | 177 | ParisandCory Champagne |
+| 153 | 177 | ParisandCory Champagne |
+| 154 | 177 | Irual Hctrab |
 | 155 | 175 | John Barron |
 | 156 | 171 | David DeSantis |
 | 157 | 171 | Greg Premoe |

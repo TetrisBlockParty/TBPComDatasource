@@ -102,8 +102,8 @@
 | 94 | 449 | Speedy Bridger |
 | 95 | 447 | Mykal Burton |
 | 96 | 446 | Danielle Rhoades |
-| 97 | 445 | Kristie McFarland |
-| 98 | 445 | Silly Twist |
+| 97 | 445 | Silly Twist |
+| 98 | 445 | Kristie McFarland |
 | 99 | 430 | Patricia White |
 | 100 | 428 | Elissa S-k |
 | 101 | 425 | Patty Allen |
@@ -190,8 +190,8 @@
 | 182 | 226 | Grego Daniel |
 | 183 | 224 | Nicole Myers |
 | 184 | 223 | Jeana Gilbert |
-| 185 | 219 | Shunta Jacobs |
-| 186 | 219 | Rebecca Bailey |
+| 185 | 219 | Rebecca Bailey |
+| 186 | 219 | Shunta Jacobs |
 | 187 | 218 | LaNette Morgan |
 | 188 | 217 | Jess Bissett |
 | 189 | 215 | Araceli Parra |

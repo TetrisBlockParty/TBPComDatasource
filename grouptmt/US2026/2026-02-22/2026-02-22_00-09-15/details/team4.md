@@ -51,8 +51,8 @@
 | 43 | 526 | Goatimus Lombardi |
 | 44 | 519 | Anthony Bryan Riva |
 | 45 | 504 | Ash |
-| 46 | 500 | Savannah Overdorf |
-| 47 | 500 | Rodney McMath Jr. |
+| 46 | 500 | Rodney McMath Jr. |
+| 47 | 500 | Savannah Overdorf |
 | 48 | 496 | Carolyn Wallace |
 | 49 | 491 | Casey Jeffcoat |
 | 50 | 486 | Landon Keith Graffeo |
@@ -125,8 +125,8 @@
 | 117 | 212 | Calvin Cannon |
 | 118 | 211 | Dizzy Tiley |
 | 119 | 210 | Damn Libra |
-| 120 | 208 | Twisty Cascadezone |
-| 121 | 208 | Chastity Mitchell |
+| 120 | 208 | Chastity Mitchell |
+| 121 | 208 | Twisty Cascadezone |
 | 122 | 206 | Mylo Lipscomb |
 | 123 | 205 | Sarah Neathery |
 | 124 | 204 | Jen Caldwell |
@@ -139,8 +139,8 @@
 | 131 | 196 | Jeff Brian Gates |
 | 132 | 194 | Zany Twisterfit |
 | 133 | 192 | Shauna Havard |
-| 134 | 189 | Calvin Dennis |
-| 135 | 189 | Stacey Stano |
+| 134 | 189 | Stacey Stano |
+| 135 | 189 | Calvin Dennis |
 | 136 | 188 | Katherine Crane |
 | 137 | 187 | TheNeesh50 |
 | 138 | 185 | Malakai Darien Fox |
@@ -178,7 +178,7 @@
 | 170 | 145 | Mimi |
 | 171 | 144 | Ak Jones |
 | 172 | 142 | Zippy Gridlock |
-| 173 | 141 | ĥuf |
+| 173 | 141 | Kathy Allen |
 | 174 | 141 | Marcus Todd |
 | 175 | 141 | ĥuf |
 | 176 | 140 | John Brunetti |
@@ -259,8 +259,8 @@
 | 251 | 108 | Ali Ian |
 | 252 | 108 | Kate |
 | 253 | 107 | Chris Alexinas |
-| 254 | 106 | Zappy Snaplink |
-| 255 | 106 | Brandi Durig |
+| 254 | 106 | Brandi Durig |
+| 255 | 106 | Zappy Snaplink |
 | 256 | 105 | Kim Hunt |
 | 257 | 104 | Cheery Risebuilder |
 | 258 | 104 | mike |

@@ -391,8 +391,8 @@
 | 383 | 390 | Caitlin Schmid |
 | 384 | 389 | Alexis Richardson |
 | 385 | 387 | Johnny Yeates |
-| 386 | 387 | Jennifer Malloy - Cardy |
-| 387 | 387 | Véronique Lévesque Sabourin |
+| 386 | 387 | Véronique Lévesque Sabourin |
+| 387 | 387 | Jennifer Malloy - Cardy |
 | 388 | 386 | Irene Jones |
 | 389 | 384 | Mike Aprilliano |
 | 390 | 383 | Arkei Luster |
