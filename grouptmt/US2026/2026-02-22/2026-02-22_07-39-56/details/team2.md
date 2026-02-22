@@ -351,8 +351,8 @@
 | 343 | 562 | Ashley Lopez |
 | 344 | 561 | Traci Johnson |
 | 345 | 557 | Block Master |
-| 346 | 554 | Rachael Senard |
-| 347 | 554 | Santana Miyagi |
+| 346 | 554 | Santana Miyagi |
+| 347 | 554 | Rachael Senard |
 | 348 | 552 | F-X |
 | 349 | 550 | Nashu |
 | 350 | 549 | Darcy Mae |
@@ -408,8 +408,8 @@
 | 400 | 497 | Kimberly Randesi |
 | 401 | 496 | Blacc Blac |
 | 402 | 493 | Kara Gillen |
-| 403 | 492 | Armonie Smith |
-| 404 | 492 | Breezy Clusterer |
+| 403 | 492 | Breezy Clusterer |
+| 404 | 492 | Armonie Smith |
 | 405 | 491 | Michael Buckner |
 | 406 | 489 | Osun Anuket Esu |
 | 407 | 489 | Cassie Mercer |
@@ -429,8 +429,8 @@
 | 421 | 481 | Klee |
 | 422 | 480 | Dar |
 | 423 | 478 | Ashley Collins |
-| 424 | 477 | Julay |
-| 425 | 477 | Brenna Ann |
+| 424 | 477 | Brenna Ann |
+| 425 | 477 | Julay |
 | 426 | 477 | Michelle Fields |
 | 427 | 476 | Kitybox |
 | 428 | 475 | Michelle Lee |
@@ -560,8 +560,8 @@
 | 552 | 386 | Michael Artis |
 | 553 | 385 | Tansaria Couch-Butler |
 | 554 | 384 | Christina Ashley |
-| 555 | 384 | Kelly |
-| 556 | 384 | Party d |
+| 555 | 384 | Party d |
+| 556 | 384 | Kelly |
 | 557 | 383 | Belle Mari |
 | 558 | 382 | David Holliday |
 | 559 | 382 | KhaosLord |

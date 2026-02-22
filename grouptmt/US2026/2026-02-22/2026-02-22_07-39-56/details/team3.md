@@ -103,8 +103,8 @@
 | 95 | 581 | Danielle Mogg |
 | 96 | 579 | Jd Morris |
 | 97 | 566 | Dolores Falco |
-| 98 | 565 | Patty Allen |
-| 99 | 565 | Rachael McClain Owens |
+| 98 | 565 | Rachael McClain Owens |
+| 99 | 565 | Patty Allen |
 | 100 | 562 | Louise Stacy Sisson |
 | 101 | 562 | Dave Herzog |
 | 102 | 559 | Morgan Martinez |
@@ -267,8 +267,8 @@
 | 259 | 225 | Cozy Snaplink |
 | 260 | 225 | Dirtgirl27 |
 | 261 | 223 | Connie Mohler-Fair |
-| 262 | 221 | Jaime Monhaut-Reed |
-| 263 | 221 | Alice |
+| 262 | 221 | Alice |
+| 263 | 221 | Jaime Monhaut-Reed |
 | 264 | 221 | Vaners |
 | 265 | 220 | rosy |
 | 266 | 219 | Sissy Lowery Davis |
@@ -335,8 +335,8 @@
 | 327 | 169 | Naur |
 | 328 | 169 | Peachy Rollfit |
 | 329 | 169 | Kristian Thurman |
-| 330 | 168 | April Matthew Kibble |
-| 331 | 168 | Trice Thomas |
+| 330 | 168 | Trice Thomas |
+| 331 | 168 | April Matthew Kibble |
 | 332 | 167 | Shicken Nuggit |
 | 333 | 167 | Irene Arreguin |
 | 334 | 167 | Romeo |
@@ -359,9 +359,9 @@
 | 351 | 159 | Ashley Rufus Bythcez |
 | 352 | 159 | Salena Whitlock |
 | 353 | 158 | Willow |
-| 354 | 157 | Angel Mendez |
+| 354 | 157 | Steffi Chris Dacones |
 | 355 | 157 | Katrina E Jelks |
-| 356 | 157 | Steffi Chris Dacones |
+| 356 | 157 | Angel Mendez |
 | 357 | 157 | Wetwet |
 | 358 | 156 | Nichole Greene |
 | 359 | 155 | Michell Hendershott Jackson |
@@ -416,8 +416,8 @@
 | 408 | 134 | gremicx |
 | 409 | 134 | Maia |
 | 410 | 133 | Jen Lewis |
-| 411 | 132 | Andrew Thorson |
-| 412 | 132 | Hanna Kim |
+| 411 | 132 | Hanna Kim |
+| 412 | 132 | Andrew Thorson |
 | 413 | 131 | Cheeky Setter |
 | 414 | 130 | Sarah Whalen |
 | 415 | 130 | Karen Picaboo |
