@@ -104,8 +104,8 @@
 | 96 | 506 | Sashay Tapae Simpson |
 | 97 | 503 | Susan Valentino |
 | 98 | 502 | Justin Ritter |
-| 99 | 500 | Domo Washington |
-| 100 | 500 | Kristie |
+| 99 | 500 | Kristie |
+| 100 | 500 | Domo Washington |
 | 101 | 497 | Mykal Burton |
 | 102 | 491 | Chauntee Alfrey-Cardinale |
 | 103 | 482 | Jennifer Lynn Fahrenholtz-Summers |
@@ -440,8 +440,8 @@
 | 432 | 108 | Jack Bo |
 | 433 | 108 | Rachel Grant |
 | 434 | 107 | Megan Stanley |
-| 435 | 106 | G |
-| 436 | 106 | Joseph Vargas |
+| 435 | 106 | Joseph Vargas |
+| 436 | 106 | G |
 | 437 | 106 | Megan Riggins |
 | 438 | 105 | Snarky McFace |
 | 439 | 105 | Kiki |

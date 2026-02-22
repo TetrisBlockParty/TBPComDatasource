@@ -155,8 +155,8 @@
 | 147 | 200 | Ash Galvan |
 | 148 | 200 | Lacy Wolfe |
 | 149 | 199 | Basment Living |
-| 150 | 198 | Happy Snapbuild |
-| 151 | 198 | Shiny Gridmatch |
+| 150 | 198 | Shiny Gridmatch |
+| 151 | 198 | Happy Snapbuild |
 | 152 | 195 | Daring Fitclear |
 | 153 | 194 | Tyler Werts |
 | 154 | 193 | lil mickey |
@@ -165,8 +165,8 @@
 | 157 | 192 | Shaykmia |
 | 158 | 192 | Jessica Sheehan |
 | 159 | 191 | Diane Byrd |
-| 160 | 190 | Thorne Shumate |
-| 161 | 190 | Sweetts |
+| 160 | 190 | Sweetts |
+| 161 | 190 | Thorne Shumate |
 | 162 | 189 | Michael |
 | 163 | 188 | Sam Williams |
 | 164 | 187 | Jennifer Olewnik Soborowski |
@@ -197,8 +197,8 @@
 | 189 | 168 | Jessie Lynn |
 | 190 | 167 | Erin Hodges Plumb |
 | 191 | 167 | Nery Martinez |
-| 192 | 165 | Silly Align |
-| 193 | 165 | Nadine Velardo |
+| 192 | 165 | Nadine Velardo |
+| 193 | 165 | Silly Align |
 | 194 | 164 | Shanae Grant |
 | 195 | 163 | Angela Fairbank |
 | 196 | 163 | Tyler Whitley |
@@ -316,12 +316,12 @@
 | 308 | 102 | Barrbaric |
 | 309 | 101 | Mizzledagod |
 | 310 | 101 | Liliana Pena |
-| 311 | 100 | Plucky Fallzone |
-| 312 | 100 | Erin Rosberg |
-| 313 | 100 | Jessica Weed |
-| 314 | 100 | Brandi Egbert |
-| 315 | 99 | Lush Zoney |
-| 316 | 99 | Unelanuhi Belladonna Mystikal Bomar |
+| 311 | 100 | Brandi Egbert |
+| 312 | 100 | Jessica Weed |
+| 313 | 100 | Erin Rosberg |
+| 314 | 100 | Plucky Fallzone |
+| 315 | 99 | Unelanuhi Belladonna Mystikal Bomar |
+| 316 | 99 | Lush Zoney |
 | 317 | 98 | Amy Hess |
 | 318 | 98 | Virginia Gray Floyd |
 | 319 | 98 | Kirk Torrey |

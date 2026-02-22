@@ -185,9 +185,9 @@
 | 177 | 166 | SammieJo Guy |
 | 178 | 164 | 030Synner |
 | 179 | 162 | Joanna |
-| 180 | 160 | ZeeZee |
-| 181 | 160 | James Hurley Jr. |
-| 182 | 160 | Carlos Ramirez |
+| 180 | 160 | James Hurley Jr. |
+| 181 | 160 | Carlos Ramirez |
+| 182 | 160 | ZeeZee |
 | 183 | 159 | Marcus Todd |
 | 184 | 158 | Avy Absol |
 | 185 | 158 | Chair |

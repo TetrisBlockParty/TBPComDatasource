@@ -236,9 +236,9 @@
 | 228 | 699 | Vo'Landa Reels |
 | 229 | 698 | Mighty Shatterfit |
 | 230 | 697 | Dreamy Blast |
-| 231 | 692 | Chelle |
+| 231 | 692 | Jennifer Casey-Kay |
 | 232 | 692 | Dannette Goldberg-Richards |
-| 233 | 692 | Jennifer Casey-Kay |
+| 233 | 692 | Chelle |
 | 234 | 690 | Deborah Miller |
 | 235 | 688 | ShinyRose |
 | 236 | 686 | Ashley Guernsey-Martin |
@@ -288,8 +288,8 @@
 | 280 | 587 | Hyper Cluster |
 | 281 | 583 | Jessicah Myers |
 | 282 | 582 | Gary Stash |
-| 283 | 579 | Juliana Marques Do Nascimento Gordy |
-| 284 | 579 | Roy Salyer |
+| 283 | 579 | Roy Salyer |
+| 284 | 579 | Juliana Marques Do Nascimento Gordy |
 | 285 | 578 | Sally Dennis |
 | 286 | 576 | Ginger |
 | 287 | 572 | tejas25 |
