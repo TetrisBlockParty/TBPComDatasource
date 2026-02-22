@@ -200,8 +200,8 @@
 | 192 | 247 | Dennis Bradley |
 | 193 | 246 | Carlos Ramirez |
 | 194 | 245 | Andria Lynn |
-| 195 | 245 | Autum Leigh |
-| 196 | 245 | 23 |
+| 195 | 245 | 23 |
+| 196 | 245 | Autum Leigh |
 | 197 | 244 | Twisty Cascadezone |
 | 198 | 243 | Jose Dejesus |
 | 199 | 243 | Mr. Party |
@@ -255,8 +255,8 @@
 | 247 | 198 | Silly SeaWeed |
 | 248 | 198 | Calvin Dennis |
 | 249 | 197 | Gilles Lanctot |
-| 250 | 195 | Snippy Puzzle |
-| 251 | 195 | 中山成巳 |
+| 250 | 195 | 中山成巳 |
+| 251 | 195 | Snippy Puzzle |
 | 252 | 194 | Zany Twisterfit |
 | 253 | 192 | Stephme310 |
 | 254 | 192 | Andrew Dang |

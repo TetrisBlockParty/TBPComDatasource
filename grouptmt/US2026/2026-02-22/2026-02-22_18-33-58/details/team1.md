@@ -331,7 +331,7 @@
 | 323 | 163 | Blaire Bruckoff |
 | 324 | 162 | Jo Kerley |
 | 325 | 162 | Strig |
-| 326 | 162 | Jo Kerley |
+| 326 | 162 | Pauline Cortez |
 | 327 | 162 | Charla Pross-Fugleberg |
 | 328 | 161 | SavageBooty98 |
 | 329 | 160 | Tedashi |

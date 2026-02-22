@@ -121,8 +121,8 @@
 | 113 | 1519 | Mindy Leigh Head |
 | 114 | 1513 | blackq |
 | 115 | 1509 | Whitney Nicole Waterman |
-| 116 | 1507 | Stephanie Chapman |
-| 117 | 1507 | Linda Pierce |
+| 116 | 1507 | Linda Pierce |
+| 117 | 1507 | Stephanie Chapman |
 | 118 | 1495 | Tj Ball |
 | 119 | 1493 | Mari Ac |
 | 120 | 1487 | Kristopher Miller |
@@ -157,8 +157,8 @@
 | 149 | 1290 | Bussyiano Page |
 | 150 | 1286 | Altamirano Michael |
 | 151 | 1286 | Eileen Hale |
-| 152 | 1282 | Ashley Rose Frederick |
-| 153 | 1282 | Tanya Parsons |
+| 152 | 1282 | Tanya Parsons |
+| 153 | 1282 | Ashley Rose Frederick |
 | 154 | 1273 | Cool Rollpiece |
 | 155 | 1271 | Shandrica Lowe |
 | 156 | 1248 | Isabela Shaw |
@@ -253,8 +253,8 @@
 | 245 | 894 | Auntie B |
 | 246 | 892 | Rebecca Doughman |
 | 247 | 890 | Kevin Walp |
-| 248 | 884 | Adira Brown |
-| 249 | 884 | Boldy Cascadepiece |
+| 248 | 884 | Boldy Cascadepiece |
+| 249 | 884 | Adira Brown |
 | 250 | 883 | nikki |
 | 251 | 880 | Sam Joe |
 | 252 | 879 | Tony Lea |
@@ -393,8 +393,8 @@
 | 385 | 631 | Marie Walker |
 | 386 | 630 | Brittney Jean |
 | 387 | 628 | Brownie Sheena |
-| 388 | 627 | Victoria Moore-Smith |
-| 389 | 627 | Allan Wayne Lamia |
+| 388 | 627 | Allan Wayne Lamia |
+| 389 | 627 | Victoria Moore-Smith |
 | 390 | 626 | Steven Marshaun |
 | 391 | 626 | Mighty Spinbuilder |
 | 392 | 625 | Em Chen |
