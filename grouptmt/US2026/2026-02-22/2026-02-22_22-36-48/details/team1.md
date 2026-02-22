@@ -168,8 +168,8 @@
 | 160 | 318 | Virginia Gray Floyd |
 | 161 | 317 | Rachael |
 | 162 | 315 | Tyler Werts |
-| 163 | 310 | Basment Living |
-| 164 | 310 | Kimberly Garcia |
+| 163 | 310 | Kimberly Garcia |
+| 164 | 310 | Basment Living |
 | 165 | 307 | Sarah Roberts |
 | 166 | 306 | Rat666 |
 | 167 | 306 | Happy Basegrid |

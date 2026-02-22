@@ -74,12 +74,12 @@
 | 66 | 704 | Crystal Carroll |
 | 67 | 679 | D3TROITB0RN74 |
 | 68 | 671 | Kimyatta Cavin |
-| 69 | 664 | Valerie Roberts |
-| 70 | 664 | Julian Garcia |
+| 69 | 664 | Julian Garcia |
+| 70 | 664 | Valerie Roberts |
 | 71 | 659 | Jonathan Kimbrough |
 | 72 | 655 | Carolyn Wallace |
-| 73 | 647 | Shauna Havard |
-| 74 | 647 | KM8 |
+| 73 | 647 | KM8 |
+| 74 | 647 | Shauna Havard |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 633 | Lisa Davis |
 | 77 | 626 | Brittney Griggs |
@@ -163,8 +163,8 @@
 | 155 | 332 | Desi Desporte |
 | 156 | 332 | HastyGrabber |
 | 157 | 330 | Oscar Alberto Perez |
-| 158 | 328 | Brandon Crabbs |
-| 159 | 328 | Kris Bartlett |
+| 158 | 328 | Kris Bartlett |
+| 159 | 328 | Brandon Crabbs |
 | 160 | 321 | jim |
 | 161 | 320 | Lauren Scott |
 | 162 | 316 | Meagan Nicole |
@@ -220,8 +220,8 @@
 | 212 | 256 | Mylo Lipscomb |
 | 213 | 250 | Matt Dell'Olio |
 | 214 | 249 | Ak Jones |
-| 215 | 248 | Chirpy Basepiece |
-| 216 | 248 | Jose Dejesus |
+| 215 | 248 | Jose Dejesus |
+| 216 | 248 | Chirpy Basepiece |
 | 217 | 246 | Zethra Prenisha Rahming |
 | 218 | 246 | Carlos Ramirez |
 | 219 | 245 | Autum Leigh |

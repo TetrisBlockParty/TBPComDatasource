@@ -76,8 +76,8 @@
 | 68 | 964 | Jennifer |
 | 69 | 954 | Nate Burnside |
 | 70 | 945 | Christian A. Pollard |
-| 71 | 926 | Judi Dobson |
-| 72 | 926 | Angela M. Fletcher |
+| 71 | 926 | Angela M. Fletcher |
+| 72 | 926 | Judi Dobson |
 | 73 | 924 | Shonna Roberts |
 | 74 | 907 | Michelle Becker |
 | 75 | 903 | Sarah Fehring |
@@ -179,8 +179,8 @@
 | 171 | 469 | Adrian Marcel Pate |
 | 172 | 469 | Melissa Orth Hunter |
 | 173 | 468 | Betty Ivy |
-| 174 | 464 | Makelini Mausia |
-| 175 | 464 | Michelle |
+| 174 | 464 | Michelle |
+| 175 | 464 | Makelini Mausia |
 | 176 | 461 | Shunta Jacobs |
 | 177 | 460 | Araceli Parra |
 | 178 | 460 | Danielle Allison |
@@ -195,8 +195,8 @@
 | 187 | 432 | Luciana Braganca Vieira |
 | 188 | 432 | Christine Trester |
 | 189 | 431 | Sarah Cowan Burgos |
-| 190 | 430 | Joye Sims Binion |
-| 191 | 430 | Jeni Dow |
+| 190 | 430 | Jeni Dow |
+| 191 | 430 | Joye Sims Binion |
 | 192 | 427 | Wendy Dearden |
 | 193 | 426 | Rochelle Hazelett |
 | 194 | 425 | Michael Johnson |
