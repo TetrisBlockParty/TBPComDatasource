@@ -64,8 +64,8 @@
 | 56 | 909 | Jennifer |
 | 57 | 908 | Alanna Rogers |
 | 58 | 903 | Sarah Fehring |
-| 59 | 895 | Shonna Roberts |
-| 60 | 895 | Amanda L Baker |
+| 59 | 895 | Amanda L Baker |
+| 60 | 895 | Shonna Roberts |
 | 61 | 893 | Khristen AC |
 | 62 | 882 | Susan Valentino |
 | 63 | 881 | Nate Burnside |
@@ -113,8 +113,8 @@
 | 105 | 568 | Rachael McClain Owens |
 | 106 | 566 | Dolores Falco |
 | 107 | 565 | Patty Allen |
-| 108 | 562 | Louise Stacy Sisson |
-| 109 | 562 | Dave Herzog |
+| 108 | 562 | Dave Herzog |
+| 109 | 562 | Louise Stacy Sisson |
 | 110 | 559 | Morgan Martinez |
 | 111 | 551 | Kristie |
 | 112 | 549 | Nicole Myers |
@@ -371,12 +371,12 @@
 | 363 | 178 | Jess Dearborn |
 | 364 | 178 | ROODBOY |
 | 365 | 177 | Kristin Delibac Corrigan |
-| 366 | 176 | Skinny Baldez |
-| 367 | 176 | Emma |
+| 366 | 176 | Emma |
+| 367 | 176 | Skinny Baldez |
 | 368 | 175 | Loopy Fallzone |
 | 369 | 175 | Wacky Crasher |
-| 370 | 174 | Lesley Perez |
-| 371 | 174 | Sierra Spencer |
+| 370 | 174 | Sierra Spencer |
+| 371 | 174 | Lesley Perez |
 | 372 | 174 | TotoCherue |
 | 373 | 173 | Naur |
 | 374 | 173 | MizzMonick Smith |

@@ -26,8 +26,8 @@
 | 18 | 1046 | Johnathan Martinez |
 | 19 | 1038 | Leah Gorsuch |
 | 20 | 1020 | Sammy Noguera |
-| 21 | 999 | Johnny Yang Cotter |
-| 22 | 999 | Kimberly Love |
+| 21 | 999 | Kimberly Love |
+| 22 | 999 | Johnny Yang Cotter |
 | 23 | 991 | Michelle Pearman |
 | 24 | 980 | Cherrish Duren |
 | 25 | 959 | Heather Tushner |
@@ -170,8 +170,8 @@
 | 162 | 253 | Casey Grabner |
 | 163 | 250 | Matt Dell'Olio |
 | 164 | 245 | Diana Houts |
-| 165 | 244 | J-Rizzle |
-| 166 | 244 | Twisty Cascadezone |
+| 165 | 244 | Twisty Cascadezone |
+| 166 | 244 | J-Rizzle |
 | 167 | 241 | Allen Lloyd |
 | 168 | 240 | Peachy Fall |
 | 169 | 239 | Zethra Prenisha Rahming |
@@ -255,12 +255,12 @@
 | 247 | 169 | AyeKay |
 | 248 | 168 | 23 |
 | 249 | 167 | Cozy Balancer |
-| 250 | 166 | Megan Cutshaw |
-| 251 | 166 | SammieJo Guy |
-| 252 | 166 | Angelito |
+| 250 | 166 | SammieJo Guy |
+| 251 | 166 | Angelito |
+| 252 | 166 | Megan Cutshaw |
 | 253 | 166 | Jenny Wells-Oakley |
-| 254 | 165 | James Hurley Jr. |
-| 255 | 165 | Zappy Buildgrid |
+| 254 | 165 | Zappy Buildgrid |
+| 255 | 165 | James Hurley Jr. |
 | 256 | 164 | 030Synner |
 | 257 | 163 | Kristina Black |
 | 258 | 162 | John Brunetti |
