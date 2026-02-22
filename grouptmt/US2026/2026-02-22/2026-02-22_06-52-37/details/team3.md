@@ -96,14 +96,14 @@
 | 88 | 595 | Patricia White |
 | 89 | 591 | Jesse Olive |
 | 90 | 588 | yoyo |
-| 91 | 582 | Natasha Jones |
+| 91 | 582 | Jay Horn |
 | 92 | 582 | Speedy Bridger |
-| 93 | 582 | Jay Horn |
+| 93 | 582 | Natasha Jones |
 | 94 | 581 | Danielle Mogg |
 | 95 | 579 | Jd Morris |
 | 96 | 566 | Dolores Falco |
-| 97 | 565 | Patty Allen |
-| 98 | 565 | Rachael McClain Owens |
+| 97 | 565 | Rachael McClain Owens |
+| 98 | 565 | Patty Allen |
 | 99 | 562 | Louise Stacy Sisson |
 | 100 | 559 | Morgan Martinez |
 | 101 | 549 | Nicole Myers |
@@ -193,11 +193,11 @@
 | 185 | 319 | Rebecca Funderburk Kirby |
 | 186 | 317 | Ashley Tookes |
 | 187 | 315 | Kammy Hill |
-| 188 | 311 | Raya |
-| 189 | 311 | Araceli Parra |
+| 188 | 311 | Araceli Parra |
+| 189 | 311 | Raya |
 | 190 | 310 | Danielle Balcom |
-| 191 | 308 | Daryn Elliott |
-| 192 | 308 | Rania Zaqout |
+| 191 | 308 | Rania Zaqout |
+| 192 | 308 | Daryn Elliott |
 | 193 | 307 | rnr junky |
 | 194 | 307 | Blocked |
 | 195 | 305 | Rochelle Hazelett |
@@ -208,12 +208,12 @@
 | 200 | 296 | Katrina Turner |
 | 201 | 296 | Ammmmmmy |
 | 202 | 296 | Brandon Givens |
-| 203 | 295 | Marci Mize Fandrich |
-| 204 | 295 | RickyG |
-| 205 | 289 | Hoppy Buildout |
-| 206 | 289 | Duane Bright |
-| 207 | 289 | Rebecca Bailey |
-| 208 | 289 | DidIdothat |
+| 203 | 295 | RickyG |
+| 204 | 295 | Marci Mize Fandrich |
+| 205 | 289 | Duane Bright |
+| 206 | 289 | Hoppy Buildout |
+| 207 | 289 | DidIdothat |
+| 208 | 289 | Rebecca Bailey |
 | 209 | 286 | Cynthia Herrmann Egland |
 | 210 | 284 | Denise Nardoni |
 | 211 | 283 | Cheeky Snapper |
@@ -241,8 +241,8 @@
 | 233 | 258 | Tamara Deherrera |
 | 234 | 257 | Ashley Jones |
 | 235 | 256 | Brenda Lee Vander Molen |
-| 236 | 256 | Tiffany Davie |
-| 237 | 256 | KayB |
+| 236 | 256 | KayB |
+| 237 | 256 | Tiffany Davie |
 | 238 | 251 | Sabrina Hardrick |
 | 239 | 250 | fraulila |
 | 240 | 249 | JerseyJess |

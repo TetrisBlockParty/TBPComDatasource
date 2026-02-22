@@ -33,8 +33,8 @@
 | 25 | 886 | Dustin Robert |
 | 26 | 880 | Koshin Abdirahman |
 | 27 | 879 | Heather Tushner |
-| 28 | 873 | Michelle Pearman |
-| 29 | 873 | Elizabeth Sallas |
+| 28 | 873 | Elizabeth Sallas |
+| 29 | 873 | Michelle Pearman |
 | 30 | 871 | Denny Shives |
 | 31 | 846 | Christine Marie |
 | 32 | 843 | Lucille Truesdale |
@@ -77,8 +77,8 @@
 | 69 | 501 | H.R. Block |
 | 70 | 500 | Rodney McMath Jr. |
 | 71 | 486 | Landon Keith Graffeo |
-| 72 | 483 | TeeJ |
-| 73 | 483 | Carmethia Clemons Haslerig |
+| 72 | 483 | Carmethia Clemons Haslerig |
+| 73 | 483 | TeeJ |
 | 74 | 467 | Dawn Alexander |
 | 75 | 447 | Samantha Peterson |
 | 76 | 440 | Kristin Manee |
@@ -130,8 +130,8 @@
 | 122 | 281 | Meagan Nicole |
 | 123 | 278 | Desi Desporte |
 | 124 | 278 | Carrie Brian |
-| 125 | 277 | Scott Jameson |
-| 126 | 277 | Mary Ann Pabukis |
+| 125 | 277 | Mary Ann Pabukis |
+| 126 | 277 | Scott Jameson |
 | 127 | 275 | Dizzy Tiley |
 | 128 | 272 | Brittney Orengo |
 | 129 | 271 | Sarah Brown |
@@ -151,13 +151,13 @@
 | 143 | 230 | Autum Leigh |
 | 144 | 230 | Cursed Hag |
 | 145 | 228 | J-Rizzle |
-| 146 | 227 | Swanky Fitline |
-| 147 | 227 | Alyssa Papen |
-| 148 | 227 | Chris Bernstein |
+| 146 | 227 | Chris Bernstein |
+| 147 | 227 | Swanky Fitline |
+| 148 | 227 | Alyssa Papen |
 | 149 | 225 | Damn Libra |
 | 150 | 224 | Matt Summer |
-| 151 | 223 | Antony Dwayne Beasley |
-| 152 | 223 | Kris Bartlett |
+| 151 | 223 | Kris Bartlett |
+| 152 | 223 | Antony Dwayne Beasley |
 | 153 | 222 | Joeliecea Cobb |
 | 154 | 222 | TheNeesh50 |
 | 155 | 221 | Rheanda Weaskus |
@@ -168,8 +168,8 @@
 | 160 | 215 | Ren Mc |
 | 161 | 215 | Jessica Bohlken |
 | 162 | 214 | Twisty Cascadezone |
-| 163 | 213 | Jason Allen |
-| 164 | 213 | Sarah Neathery |
+| 163 | 213 | Sarah Neathery |
+| 164 | 213 | Jason Allen |
 | 165 | 212 | Mike Solo |
 | 166 | 212 | Calvin Cannon |
 | 167 | 211 | Jenna McGeorge |
@@ -257,8 +257,8 @@
 | 249 | 141 | Kathy Allen |
 | 250 | 141 | ĥuf |
 | 251 | 140 | Paige Kittles |
-| 252 | 139 | Lori Goudy |
-| 253 | 139 | ChasingZen |
+| 252 | 139 | ChasingZen |
+| 253 | 139 | Lori Goudy |
 | 254 | 138 | Ashlee Carnes |
 | 255 | 138 | Ultramarine |
 | 256 | 138 | Nick Gray |
@@ -385,8 +385,8 @@
 | 377 | 96 | Rebecca Blake |
 | 378 | 96 | Sammy Noguera |
 | 379 | 95 | Chirpy Slammer |
-| 380 | 95 | Jobadia Steelerton |
-| 381 | 95 | Tina Martinez |
+| 380 | 95 | Tina Martinez |
+| 381 | 95 | Jobadia Steelerton |
 | 382 | 94 | DonMega |
 | 383 | 93 | Matt Gooder |
 | 384 | 92 | Frilly Blocky |

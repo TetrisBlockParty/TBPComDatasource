@@ -158,8 +158,8 @@
 | 150 | 1048 | PsychKIRAtrist |
 | 151 | 1047 | Amy Sayers |
 | 152 | 1045 | Lourisha |
-| 153 | 1043 | Suki Kaur |
-| 154 | 1043 | Brave Dropmatch |
+| 153 | 1043 | Brave Dropmatch |
+| 154 | 1043 | Suki Kaur |
 | 155 | 1035 | Sarah Freitas |
 | 156 | 1027 | Alisa Lamb |
 | 157 | 1026 | Heather Westrum |
@@ -306,13 +306,13 @@
 | 298 | 651 | Unica Rector |
 | 299 | 650 | Shiny Rollzone |
 | 300 | 643 | Hoppy Brickmatch |
-| 301 | 641 | Joce Lynn |
-| 302 | 641 | Angie Bolton Workman |
+| 301 | 641 | Angie Bolton Workman |
+| 302 | 641 | Joce Lynn |
 | 303 | 640 | BYM4L |
 | 304 | 639 | Crystie Hicks |
 | 305 | 639 | Rebecca Miller |
-| 306 | 635 | Diana Fitzwater |
-| 307 | 635 | William Hunt |
+| 306 | 635 | William Hunt |
+| 307 | 635 | Diana Fitzwater |
 | 308 | 631 | Marie Walker |
 | 309 | 629 | Sleepypanda67 |
 | 310 | 627 | Allan Wayne Lamia |
@@ -526,8 +526,8 @@
 | 518 | 396 | Boogie SoAnimated Johnson |
 | 519 | 394 | Taryece Gause |
 | 520 | 393 | Alexandra Weir |
-| 521 | 393 | Jamie West |
-| 522 | 393 | bbv |
+| 521 | 393 | bbv |
+| 522 | 393 | Jamie West |
 | 523 | 391 | Qiana Sanders |
 | 524 | 391 | Tipsy Filler |
 | 525 | 391 | Anthony Huebel |
@@ -565,8 +565,8 @@
 | 557 | 375 | Lively Edgepiece |
 | 558 | 375 | Wuntayk |
 | 559 | 374 | Elisheva Mizrachi |
-| 560 | 373 | Hunter Connors |
-| 561 | 373 | Jessica Hughes |
+| 560 | 373 | Jessica Hughes |
+| 561 | 373 | Hunter Connors |
 | 562 | 373 | Jasmine Kenney |
 | 563 | 373 | Ashley Marie |
 | 564 | 372 | Ebony Deloach Bryant |
@@ -620,8 +620,8 @@
 | 612 | 347 | Zesty Pivot |
 | 613 | 346 | Morgan Easter |
 | 614 | 346 | Stephanie Fortune |
-| 615 | 345 | Frisky Clearpiece |
-| 616 | 345 | Rhianna DiLorenzo |
+| 615 | 345 | Rhianna DiLorenzo |
+| 616 | 345 | Frisky Clearpiece |
 | 617 | 345 | Gina Caulder |
 | 618 | 344 | Tra Barnum |
 | 619 | 344 | Glenn Cobbins |
@@ -710,10 +710,10 @@
 | 702 | 304 | NFLPITMOM |
 | 703 | 304 | Melissa McCall |
 | 704 | 303 | Amanda Schaffer |
-| 705 | 303 | Devin |
-| 706 | 303 | Peachy Blockbuilder |
-| 707 | 303 | Angie Marie |
-| 708 | 303 | Ashlyn Berner |
+| 705 | 303 | Peachy Blockbuilder |
+| 706 | 303 | Devin |
+| 707 | 303 | Ashlyn Berner |
+| 708 | 303 | Angie Marie |
 | 709 | 302 | Kena T. Tanner |
 | 710 | 302 | Maxwell Escalera |
 | 711 | 300 | LaWanda Powell |

@@ -85,8 +85,8 @@
 | 77 | 400 | Cynthia Bradley |
 | 78 | 390 | Candy Jones |
 | 79 | 389 | Trina Gee |
-| 80 | 388 | cc |
-| 81 | 388 | Jennifer ManWarren |
+| 80 | 388 | Jennifer ManWarren |
+| 81 | 388 | cc |
 | 82 | 382 | Jacqueline Williams |
 | 83 | 379 | Austin James |
 | 84 | 375 | Kimmie Kimms |
@@ -136,8 +136,8 @@
 | 128 | 280 | Sarah Roberts |
 | 129 | 276 | Dandy Basegrid |
 | 130 | 265 | SkipTheSadSauce |
-| 131 | 264 | Lexuriuos Lifestlye |
-| 132 | 264 | Jenny Gingrich Fuentes |
+| 131 | 264 | Jenny Gingrich Fuentes |
+| 132 | 264 | Lexuriuos Lifestlye |
 | 133 | 263 | Sharon Reynolds |
 | 134 | 257 | Amanda Jarnagin |
 | 135 | 256 | David Miller |
@@ -149,8 +149,8 @@
 | 141 | 243 | Trippy Redd |
 | 142 | 241 | John J. Cronin |
 | 143 | 240 | ALFD |
-| 144 | 239 | Jamie Jury |
-| 145 | 239 | GATOR |
+| 144 | 239 | GATOR |
+| 145 | 239 | Jamie Jury |
 | 146 | 236 | Mandyy Rae |
 | 147 | 232 | Jessi Sauer |
 | 148 | 230 | Billie Dawn Sparks |
@@ -166,11 +166,11 @@
 | 158 | 216 | MRdot Rooski |
 | 159 | 213 | Daring Fitclear |
 | 160 | 212 | Jaimie Lynn |
-| 161 | 211 | Marianita Garcia |
-| 162 | 211 | Kimberly Garcia |
+| 161 | 211 | Kimberly Garcia |
+| 162 | 211 | Marianita Garcia |
 | 163 | 210 | Giggly Builderline |
-| 164 | 210 | Letson Melissa |
-| 165 | 210 | Ash Galvan |
+| 164 | 210 | Ash Galvan |
+| 165 | 210 | Letson Melissa |
 | 166 | 208 | Bouncy Grid |
 | 167 | 207 | Leslie Bush Yarbrough |
 | 168 | 207 | Ty Brown |
