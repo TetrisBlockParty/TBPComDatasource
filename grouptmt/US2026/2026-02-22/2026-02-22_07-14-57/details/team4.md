@@ -132,8 +132,8 @@
 | 124 | 281 | Meagan Nicole |
 | 125 | 278 | Carrie Brian |
 | 126 | 278 | Desi Desporte |
-| 127 | 277 | Scott Jameson |
-| 128 | 277 | Mary Ann Pabukis |
+| 127 | 277 | Mary Ann Pabukis |
+| 128 | 277 | Scott Jameson |
 | 129 | 275 | Dizzy Tiley |
 | 130 | 271 | Sarah Brown |
 | 131 | 264 | Dana Scott |
@@ -191,12 +191,12 @@
 | 183 | 192 | Shauna Havard |
 | 184 | 191 | Klo |
 | 185 | 190 | Cheery Risebuilder |
-| 186 | 189 | Stacey Stano |
-| 187 | 189 | Calvin Dennis |
+| 186 | 189 | Calvin Dennis |
+| 187 | 189 | Stacey Stano |
 | 188 | 188 | Andria Lynn |
 | 189 | 186 | Holly |
-| 190 | 185 | Andy Cabral |
-| 191 | 185 | Lori |
+| 190 | 185 | Lori |
+| 191 | 185 | Andy Cabral |
 | 192 | 184 | Ak Jones |
 | 193 | 181 | Alan George LaRage |
 | 194 | 181 | Carter Jones |

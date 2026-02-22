@@ -127,8 +127,8 @@
 | 119 | 286 | Arianna O'Brien |
 | 120 | 286 | Ly Phethmany |
 | 121 | 285 | Ananda Mendez |
-| 122 | 284 | Emily Adelaide Wheatley |
-| 123 | 284 | Rachael |
+| 122 | 284 | Rachael |
+| 123 | 284 | Emily Adelaide Wheatley |
 | 124 | 283 | Franswa |
 | 125 | 282 | Cool Shiftsnap |
 | 126 | 282 | Timothy Dew |
@@ -161,8 +161,8 @@
 | 153 | 226 | Kandae |
 | 154 | 218 | Witty Builderfit |
 | 155 | 218 | LC |
-| 156 | 217 | Dizzy Party |
-| 157 | 217 | ParisandCory Champagne |
+| 156 | 217 | ParisandCory Champagne |
+| 157 | 217 | Dizzy Party |
 | 158 | 216 | MRdot Rooski |
 | 159 | 216 | Shauntina Burke |
 | 160 | 213 | Daring Fitclear |

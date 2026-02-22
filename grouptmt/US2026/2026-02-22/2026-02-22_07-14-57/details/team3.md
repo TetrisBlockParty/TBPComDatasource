@@ -61,8 +61,8 @@
 | 53 | 908 | Alanna Rogers |
 | 54 | 907 | Judi Dobson |
 | 55 | 903 | Sarah Fehring |
-| 56 | 895 | Shonna Roberts |
-| 57 | 895 | Amanda L Baker |
+| 56 | 895 | Amanda L Baker |
+| 57 | 895 | Shonna Roberts |
 | 58 | 886 | Khristen AC |
 | 59 | 874 | Jessica Pineda-Lopez |
 | 60 | 867 | Corie A. Brinson |
@@ -96,8 +96,8 @@
 | 88 | 595 | Patricia White |
 | 89 | 591 | Jesse Olive |
 | 90 | 588 | yoyo |
-| 91 | 582 | Natasha Jones |
-| 92 | 582 | Speedy Bridger |
+| 91 | 582 | Speedy Bridger |
+| 92 | 582 | Natasha Jones |
 | 93 | 582 | Jay Horn |
 | 94 | 581 | Danielle Mogg |
 | 95 | 579 | Jd Morris |
@@ -234,9 +234,9 @@
 | 226 | 263 | Brittany |
 | 227 | 263 | Angeline Joseph |
 | 228 | 262 | Joe-Maggie Mathews |
-| 229 | 261 | Tasha Wesson-Torrence |
+| 229 | 261 | Marquita Sheard |
 | 230 | 261 | Tiffany Ford |
-| 231 | 261 | Marquita Sheard |
+| 231 | 261 | Tasha Wesson-Torrence |
 | 232 | 260 | Grams |
 | 233 | 259 | Danielle Weikel |
 | 234 | 258 | Tamara Deherrera |
@@ -265,8 +265,8 @@
 | 257 | 227 | Meowsa |
 | 258 | 225 | Dirtgirl27 |
 | 259 | 223 | Connie Mohler-Fair |
-| 260 | 221 | Jaime Monhaut-Reed |
-| 261 | 221 | Alice |
+| 260 | 221 | Alice |
+| 261 | 221 | Jaime Monhaut-Reed |
 | 262 | 221 | Vaners |
 | 263 | 220 | rosy |
 | 264 | 219 | Sissy Lowery Davis |
@@ -386,9 +386,9 @@
 | 378 | 144 | Tenisha Semidey |
 | 379 | 144 | Blair Erin Waite |
 | 380 | 142 | Gray Hicks |
-| 381 | 142 | Joy Petroski |
-| 382 | 142 | Erica Anderson |
-| 383 | 142 | Jl |
+| 381 | 142 | Erica Anderson |
+| 382 | 142 | Jl |
+| 383 | 142 | Joy Petroski |
 | 384 | 141 | Melissa Snyder |
 | 385 | 141 | Weerae |
 | 386 | 140 | Jumpy Curvebuilder |

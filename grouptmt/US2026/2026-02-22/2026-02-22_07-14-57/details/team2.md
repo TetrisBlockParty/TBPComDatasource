@@ -661,8 +661,8 @@
 | 653 | 329 | Chummy Blockbuilder |
 | 654 | 329 | Jane Crew |
 | 655 | 329 | Snappy Shatterfit |
-| 656 | 328 | Jamie Carter Bierce |
-| 657 | 328 | BabyBird |
+| 656 | 328 | BabyBird |
+| 657 | 328 | Jamie Carter Bierce |
 | 658 | 326 | Angela Murgia-Owen |
 | 659 | 326 | Ann Knutson Anderson |
 | 660 | 326 | Maria Louise |
@@ -882,8 +882,8 @@
 | 874 | 243 | Cool Grabber |
 | 875 | 243 | Albert McKnight |
 | 876 | 243 | Jaybee Nguyen |
-| 877 | 242 | Aimee Campbell |
-| 878 | 242 | Groovy Tilefall |
+| 877 | 242 | Groovy Tilefall |
+| 878 | 242 | Aimee Campbell |
 | 879 | 242 | Meganator42 |
 | 880 | 242 | Greenshades00 |
 | 881 | 242 | Donna Chandler |
