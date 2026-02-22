@@ -49,8 +49,8 @@
 | 41 | 1036 | Ant Ant |
 | 42 | 1015 | Amber Jones |
 | 43 | 998 | Liv Whetson |
-| 44 | 989 | Kay |
-| 45 | 989 | Joey Banks |
+| 44 | 989 | Joey Banks |
+| 45 | 989 | Kay |
 | 46 | 985 | Stephanie Rice |
 | 47 | 983 | Brandon Green |
 | 48 | 956 | Gracie |
@@ -61,8 +61,8 @@
 | 53 | 908 | Alanna Rogers |
 | 54 | 907 | Judi Dobson |
 | 55 | 903 | Sarah Fehring |
-| 56 | 895 | Shonna Roberts |
-| 57 | 895 | Amanda L Baker |
+| 56 | 895 | Amanda L Baker |
+| 57 | 895 | Shonna Roberts |
 | 58 | 886 | Khristen AC |
 | 59 | 874 | Jessica Pineda-Lopez |
 | 60 | 867 | Corie A. Brinson |
@@ -116,8 +116,8 @@
 | 108 | 506 | Sashay Tapae Simpson |
 | 109 | 502 | Justin Ritter |
 | 110 | 502 | Elissa S-k |
-| 111 | 500 | Kristie |
-| 112 | 500 | Domo Washington |
+| 111 | 500 | Domo Washington |
+| 112 | 500 | Kristie |
 | 113 | 497 | Mykal Burton |
 | 114 | 492 | Daira Largen |
 | 115 | 491 | Chauntee Alfrey-Cardinale |
@@ -351,8 +351,8 @@
 | 343 | 159 | Salena Whitlock |
 | 344 | 159 | Ashley Rufus Bythcez |
 | 345 | 158 | Willow |
-| 346 | 157 | Angel Mendez |
-| 347 | 157 | Katrina E Jelks |
+| 346 | 157 | Katrina E Jelks |
+| 347 | 157 | Angel Mendez |
 | 348 | 157 | Steffi Chris Dacones |
 | 349 | 156 | Micayah Stevens |
 | 350 | 156 | Nichole Greene |

@@ -114,8 +114,8 @@
 | 106 | 319 | Patrick Luckenbill |
 | 107 | 319 | Deanna L Hermanson |
 | 108 | 313 | Tanya Carpenter-Reynolds |
-| 109 | 310 | Jason Jones |
-| 110 | 310 | Seth Wesson |
+| 109 | 310 | Seth Wesson |
+| 110 | 310 | Jason Jones |
 | 111 | 306 | Happy Basegrid |
 | 112 | 304 | phrmblk24 |
 | 113 | 304 | Nicole Roseberry Weber |
@@ -123,8 +123,8 @@
 | 115 | 292 | Kristen Gideon |
 | 116 | 290 | Death |
 | 117 | 288 | Seante Bullock |
-| 118 | 286 | Arianna O'Brien |
-| 119 | 286 | Ly Phethmany |
+| 118 | 286 | Ly Phethmany |
+| 119 | 286 | Arianna O'Brien |
 | 120 | 285 | Ananda Mendez |
 | 121 | 284 | Rachael |
 | 122 | 284 | Emily Adelaide Wheatley |
@@ -168,12 +168,12 @@
 | 160 | 212 | Jaimie Lynn |
 | 161 | 211 | Kimberly Garcia |
 | 162 | 211 | Marianita Garcia |
-| 163 | 210 | Ash Galvan |
-| 164 | 210 | Giggly Builderline |
-| 165 | 210 | Letson Melissa |
+| 163 | 210 | Letson Melissa |
+| 164 | 210 | Ash Galvan |
+| 165 | 210 | Giggly Builderline |
 | 166 | 208 | Bouncy Grid |
-| 167 | 207 | Leslie Bush Yarbrough |
-| 168 | 207 | Brenda Alexander |
+| 167 | 207 | Brenda Alexander |
+| 168 | 207 | Leslie Bush Yarbrough |
 | 169 | 206 | BadG52 |
 | 170 | 205 | Tater |
 | 171 | 204 | Lacy Wolfe |
