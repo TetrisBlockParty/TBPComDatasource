@@ -173,8 +173,8 @@
 | 165 | 1260 | Joshua Sommerville |
 | 166 | 1248 | Isabela Shaw |
 | 167 | 1242 | Mischelle Clay |
-| 168 | 1232 | Ambyre Patterson |
-| 169 | 1232 | Groovy Puzzle |
+| 168 | 1232 | Groovy Puzzle |
+| 169 | 1232 | Ambyre Patterson |
 | 170 | 1230 | Megan Garrick |
 | 171 | 1224 | Liberty |
 | 172 | 1216 | Nancy Reid |
@@ -592,8 +592,8 @@
 | 584 | 468 | Tina Marie |
 | 585 | 468 | Jennifer Monroe Kelly |
 | 586 | 468 | Melanie Csikortos |
-| 587 | 467 | Audrey Jones |
-| 588 | 467 | SwampRebel |
+| 587 | 467 | SwampRebel |
+| 588 | 467 | Audrey Jones |
 | 589 | 466 | Crystal Greene |
 | 590 | 466 | Ebony Deloach Bryant |
 | 591 | 463 | Jaye EL Hunter |

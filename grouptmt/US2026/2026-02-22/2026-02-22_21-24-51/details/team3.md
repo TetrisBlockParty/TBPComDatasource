@@ -136,8 +136,8 @@
 | 128 | 572 | CeceGeGe |
 | 129 | 569 | Daryn Elliott |
 | 130 | 568 | Rachael McClain Owens |
-| 131 | 562 | Louise Stacy Sisson |
-| 132 | 562 | Dave Herzog |
+| 131 | 562 | Dave Herzog |
+| 132 | 562 | Louise Stacy Sisson |
 | 133 | 558 | Nicole Myers |
 | 134 | 557 | Domo Washington |
 | 135 | 554 | Leah Barnett |
@@ -166,8 +166,8 @@
 | 158 | 471 | Nora Rogers |
 | 159 | 471 | Mendoza Lee Christy |
 | 160 | 470 | Logan Naccarato |
-| 161 | 469 | Adrian Marcel Pate |
-| 162 | 469 | Melissa Orth Hunter |
+| 161 | 469 | Melissa Orth Hunter |
+| 162 | 469 | Adrian Marcel Pate |
 | 163 | 468 | Betty Ivy |
 | 164 | 465 | Tasha Gillespie |
 | 165 | 464 | Michelle |
@@ -235,11 +235,11 @@
 | 227 | 350 | Kammy Hill |
 | 228 | 349 | Amanda J. Mcneil-Anderson |
 | 229 | 348 | Kristal C Lee |
-| 230 | 347 | Philip Rock |
-| 231 | 347 | Trisha Balmer |
+| 230 | 347 | Trisha Balmer |
+| 231 | 347 | Philip Rock |
 | 232 | 346 | Tamara Deherrera |
-| 233 | 344 | Roary Danner |
-| 234 | 344 | Rania Zaqout |
+| 233 | 344 | Rania Zaqout |
+| 234 | 344 | Roary Danner |
 | 235 | 343 | Ashley Raines |
 | 236 | 342 | Snappy Balancer |
 | 237 | 341 | Ashley Tookes |
@@ -331,12 +331,12 @@
 | 323 | 250 | Tosha Griffey |
 | 324 | 247 | Jessica |
 | 325 | 246 | Erika Thornton |
-| 326 | 245 | Lizabeth Fox |
-| 327 | 245 | Latoya Mayne |
-| 328 | 244 | LaNette Morgan |
-| 329 | 244 | Quackers |
-| 330 | 243 | Josh Borquez |
-| 331 | 243 | Michael Kimbro |
+| 326 | 245 | Latoya Mayne |
+| 327 | 245 | Lizabeth Fox |
+| 328 | 244 | Quackers |
+| 329 | 244 | LaNette Morgan |
+| 330 | 243 | Michael Kimbro |
+| 331 | 243 | Josh Borquez |
 | 332 | 242 | Randy Clevenger |
 | 333 | 240 | Tegan Chapman |
 | 334 | 240 | Eric Caccavale |
@@ -348,9 +348,9 @@
 | 340 | 235 | Cheryl Hinch Tenbrook |
 | 341 | 233 | Tony Waters |
 | 342 | 232 | Nicholas Roddy |
-| 343 | 231 | Frothy Snapper |
-| 344 | 231 | Kevin Russell |
-| 345 | 231 | Kiki |
+| 343 | 231 | Kiki |
+| 344 | 231 | Frothy Snapper |
+| 345 | 231 | Kevin Russell |
 | 346 | 230 | Michael Lucado |
 | 347 | 230 | BigE |
 | 348 | 227 | Meowsa |

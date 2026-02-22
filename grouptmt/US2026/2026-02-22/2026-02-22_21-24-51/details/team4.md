@@ -122,8 +122,8 @@
 | 114 | 446 | shar |
 | 115 | 441 | Chastity Mitchell |
 | 116 | 435 | Leslie Thomas |
-| 117 | 427 | KJ Pool |
-| 118 | 427 | Jolly Dashfit |
+| 117 | 427 | Jolly Dashfit |
+| 118 | 427 | KJ Pool |
 | 119 | 426 | Ren Mc |
 | 120 | 418 | Dizzy Tiley |
 | 121 | 415 | Monica Daley |
@@ -170,9 +170,9 @@
 | 162 | 307 | TRCuse |
 | 163 | 307 | Bio Nelly |
 | 164 | 303 | shark tato |
-| 165 | 301 | Crystal Nicolette Moore |
-| 166 | 301 | Damn Libra |
-| 167 | 301 | Andria Lynn |
+| 165 | 301 | Andria Lynn |
+| 166 | 301 | Crystal Nicolette Moore |
+| 167 | 301 | Damn Libra |
 | 168 | 300 | Dana Scott |
 | 169 | 295 | Cursed Hag |
 | 170 | 294 | Calvin Cannon |
@@ -237,8 +237,8 @@
 | 229 | 230 | blockstar |
 | 230 | 230 | Jade Rian |
 | 231 | 228 | Antony Dwayne Beasley |
-| 232 | 225 | Jenna McGeorge |
-| 233 | 225 | Perky Patternblock |
+| 232 | 225 | Perky Patternblock |
+| 233 | 225 | Jenna McGeorge |
 | 234 | 222 | Brandi Durig |
 | 235 | 221 | PurpleMoonMa |
 | 236 | 221 | Rheanda Weaskus |

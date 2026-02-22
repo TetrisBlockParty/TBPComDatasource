@@ -55,8 +55,8 @@
 | 47 | 779 | Andrea Dañielle Ortiz |
 | 48 | 777 | Patrick Luckenbill |
 | 49 | 770 | Zappy Curvetile |
-| 50 | 760 | Kristen Roles Robben |
-| 51 | 760 | Katie Daniels |
+| 50 | 760 | Katie Daniels |
+| 51 | 760 | Kristen Roles Robben |
 | 52 | 749 | Jacqueline Williams |
 | 53 | 746 | Stef Hu |
 | 54 | 743 | TSwag |
