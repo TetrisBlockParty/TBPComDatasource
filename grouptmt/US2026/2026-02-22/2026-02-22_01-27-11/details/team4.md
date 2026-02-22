@@ -195,8 +195,8 @@
 | 187 | 141 | Victoria Faniel |
 | 188 | 140 | Stephme310 |
 | 189 | 140 | John Brunetti |
-| 190 | 138 | Tanner Lund |
-| 191 | 138 | Brandon Link |
+| 190 | 138 | Brandon Link |
+| 191 | 138 | Tanner Lund |
 | 192 | 137 | PeaceOs |
 | 193 | 136 | Chaz |
 | 194 | 136 | Crystal Nicolette Moore |

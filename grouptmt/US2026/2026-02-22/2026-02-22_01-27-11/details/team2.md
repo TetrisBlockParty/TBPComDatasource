@@ -368,8 +368,8 @@
 | 360 | 438 | Mamachelle Eisweirth |
 | 361 | 437 | Arwa Fatimah |
 | 362 | 435 | Regina Young |
-| 363 | 433 | Caitlin Schmid |
-| 364 | 433 | Victor Obiakarije |
+| 363 | 433 | Victor Obiakarije |
+| 364 | 433 | Caitlin Schmid |
 | 365 | 429 | Christy Krissie |
 | 366 | 429 | Venita Ray |
 | 367 | 428 | Crystie Hicks |
@@ -845,8 +845,8 @@
 | 837 | 197 | Kati Russeau |
 | 838 | 197 | Sarah Dean |
 | 839 | 197 | Octavio Garza |
-| 840 | 197 | Karyn Yurcho Dooley |
-| 841 | 197 | Jaye EL Hunter |
+| 840 | 197 | Jaye EL Hunter |
+| 841 | 197 | Karyn Yurcho Dooley |
 | 842 | 196 | Wedance Fong |
 | 843 | 196 | Donna Colby |
 | 844 | 196 | Boldy Block |

@@ -89,8 +89,8 @@
 | 81 | 323 | Candy Jones |
 | 82 | 323 | Sweet Baker |
 | 83 | 321 | Maria C. Hernandez |
-| 84 | 319 | Shauna Loe |
-| 85 | 319 | Deanna L Hermanson |
+| 84 | 319 | Deanna L Hermanson |
+| 85 | 319 | Shauna Loe |
 | 86 | 311 | Tanya Carpenter-Reynolds |
 | 87 | 310 | Seth Wesson |
 | 88 | 305 | Patrick Luckenbill |

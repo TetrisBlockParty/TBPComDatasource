@@ -43,8 +43,8 @@
 | 35 | 1059 | Lori Barnaby |
 | 36 | 1058 | Tetris Master |
 | 37 | 1036 | Mahman |
-| 38 | 1013 | Laura Melton |
-| 39 | 1013 | Amber Jones |
+| 38 | 1013 | Amber Jones |
+| 39 | 1013 | Laura Melton |
 | 40 | 998 | Liv Whetson |
 | 41 | 996 | Danielle Cutler |
 | 42 | 989 | Kay |
@@ -140,11 +140,11 @@
 | 132 | 367 | mjl574 |
 | 133 | 366 | Adrian Marcel Pate |
 | 134 | 365 | Logan Naccarato |
-| 135 | 355 | Tessina Dewey-Mancino |
-| 136 | 355 | Sherry Ogden |
+| 135 | 355 | Sherry Ogden |
+| 136 | 355 | Tessina Dewey-Mancino |
 | 137 | 348 | CeceGeGe |
-| 138 | 347 | Nicole Flippo |
-| 139 | 347 | Darlene McMillan |
+| 138 | 347 | Darlene McMillan |
+| 139 | 347 | Nicole Flippo |
 | 140 | 343 | Chasity |
 | 141 | 336 | Louise Stacy Sisson |
 | 142 | 328 | Dapper Snap |
@@ -169,8 +169,8 @@
 | 161 | 286 | Cynthia Herrmann Egland |
 | 162 | 283 | Joye Sims Binion |
 | 163 | 278 | Rufus Lincoln |
-| 164 | 276 | Crimson |
-| 165 | 276 | _melisa223_ |
+| 164 | 276 | _melisa223_ |
+| 165 | 276 | Crimson |
 | 166 | 274 | Tye Stovall |
 | 167 | 272 | opf |
 | 168 | 272 | Rebecca Bailey |
