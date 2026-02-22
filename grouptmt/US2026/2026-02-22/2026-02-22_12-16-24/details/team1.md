@@ -54,8 +54,8 @@
 | 46 | 671 | Lawrence Belanger |
 | 47 | 663 | Drew Magnus |
 | 48 | 646 | Susanna Guerry |
-| 49 | 635 | Angel Fowler |
-| 50 | 635 | Marianne Louise West |
+| 49 | 635 | Marianne Louise West |
+| 50 | 635 | Angel Fowler |
 | 51 | 631 | comrade fish |
 | 52 | 627 | Katie Daniels |
 | 53 | 614 | Snappy Swiper |
@@ -114,8 +114,8 @@
 | 106 | 342 | Brenda Stewart |
 | 107 | 341 | Nick R Montague |
 | 108 | 335 | Luciano Moreira |
-| 109 | 333 | Brandi Huntington |
-| 110 | 333 | Gracie |
+| 109 | 333 | Gracie |
+| 110 | 333 | Brandi Huntington |
 | 111 | 332 | Kristen Gideon |
 | 112 | 330 | Sweet Baker |
 | 113 | 326 | Monica Donato |
@@ -230,8 +230,8 @@
 | 222 | 187 | Jessica Weed |
 | 223 | 186 | Margo Wagner |
 | 224 | 184 | Chris Sigurdson |
-| 225 | 183 | Amy Hess |
-| 226 | 183 | Andrew Boone |
+| 225 | 183 | Andrew Boone |
+| 226 | 183 | Amy Hess |
 | 227 | 182 | Phu ckalldems |
 | 228 | 180 | Beau Galvan |
 | 229 | 180 | BigWeenie69 |
@@ -250,15 +250,15 @@
 | 242 | 175 | John Barron |
 | 243 | 175 | Kellie Tunstall |
 | 244 | 174 | Cheeky Pop |
-| 245 | 173 | Rico Rico |
-| 246 | 173 | Gabrielle Louise Malloch |
+| 245 | 173 | Gabrielle Louise Malloch |
+| 246 | 173 | Rico Rico |
 | 247 | 171 | David DeSantis |
 | 248 | 171 | Greg Premoe |
 | 249 | 170 | Cece Ibarra |
 | 250 | 170 | Standia Civil |
 | 251 | 169 | Abbey Crespo |
-| 252 | 168 | Amber Stoker |
-| 253 | 168 | Angela Fairbank |
+| 252 | 168 | Angela Fairbank |
+| 253 | 168 | Amber Stoker |
 | 254 | 167 | Nery Martinez |
 | 255 | 167 | Cranky Pattern |
 | 256 | 166 | Carrie Smith |

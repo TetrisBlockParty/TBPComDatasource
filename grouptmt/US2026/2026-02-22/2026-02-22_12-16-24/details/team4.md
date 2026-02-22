@@ -56,8 +56,8 @@
 | 48 | 697 | Edward White |
 | 49 | 695 | LisaJo Picken Buchanan |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Jonathan Kimbrough |
-| 52 | 659 | Rebecca Moulton Pinciaro |
+| 51 | 659 | Rebecca Moulton Pinciaro |
+| 52 | 659 | Jonathan Kimbrough |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
@@ -74,8 +74,8 @@
 | 66 | 554 | Julian Garcia |
 | 67 | 546 | Kimberly Love |
 | 68 | 544 | Amy Suckarieh |
-| 69 | 533 | Chris Baggett |
-| 70 | 533 | Eric Mcgaughy |
+| 69 | 533 | Eric Mcgaughy |
+| 70 | 533 | Chris Baggett |
 | 71 | 530 | Yoset Mejia |
 | 72 | 524 | Amelpss |
 | 73 | 523 | Dawn Alexander |
@@ -84,8 +84,8 @@
 | 76 | 512 | Casey Jeffcoat |
 | 77 | 511 | Michelle Marie |
 | 78 | 500 | Rodney McMath Jr. |
-| 79 | 486 | Landon Keith Graffeo |
-| 80 | 486 | Carmethia Clemons Haslerig |
+| 79 | 486 | Carmethia Clemons Haslerig |
+| 80 | 486 | Landon Keith Graffeo |
 | 81 | 485 | TeeJ |
 | 82 | 469 | Ashley Ingram |
 | 83 | 468 | Shane Kalamata Platoon |
@@ -139,8 +139,8 @@
 | 131 | 283 | Brittney Orengo |
 | 132 | 283 | Scott Jameson |
 | 133 | 281 | Meagan Nicole |
-| 134 | 278 | Desi Desporte |
-| 135 | 278 | Carrie Brian |
+| 134 | 278 | Carrie Brian |
+| 135 | 278 | Desi Desporte |
 | 136 | 277 | Mary Ann Pabukis |
 | 137 | 275 | Dizzy Tiley |
 | 138 | 274 | Calvin Cannon |
@@ -298,7 +298,7 @@
 | 290 | 140 | Guy Incognito |
 | 291 | 139 | O block |
 | 292 | 139 | ChasingZen |
-| 293 | 139 | O block |
+| 293 | 139 | Lori Goudy |
 | 294 | 139 | Jose Dejesus |
 | 295 | 138 | Ashlee Carnes |
 | 296 | 138 | Sarah Hoffman |
@@ -338,8 +338,8 @@
 | 330 | 128 | Jeremy Steines |
 | 331 | 128 | April Rondinone |
 | 332 | 127 | Robert Rodriguez |
-| 333 | 126 | PAPatty |
-| 334 | 126 | Cheryl Johnson |
+| 333 | 126 | Cheryl Johnson |
+| 334 | 126 | PAPatty |
 | 335 | 126 | icequeenx |
 | 336 | 125 | Steph Marie |
 | 337 | 125 | Ann G. Carrillo |
@@ -641,7 +641,7 @@
 | 633 | 62 | Matt Rawls |
 | 634 | 62 | Sunny Brickroll |
 | 635 | 62 | Demont Darius |
-| 636 | 61 | Snappy Bouncer |
+| 636 | 61 | Missy Conley Sayne |
 | 637 | 61 | Andrea Gallagher |
 | 638 | 61 | Sunny Holder |
 | 639 | 61 | Groovy Shiftspin |

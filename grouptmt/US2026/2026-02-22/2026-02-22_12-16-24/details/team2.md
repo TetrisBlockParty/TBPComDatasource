@@ -107,8 +107,8 @@
 | 99 | 1535 | Donnie Hunt |
 | 100 | 1534 | Laura Marie Pelletier |
 | 101 | 1534 | Loopy Clusterbuilder |
-| 102 | 1516 | Stephen Stephen |
-| 103 | 1516 | Mindy Leigh Head |
+| 102 | 1516 | Mindy Leigh Head |
+| 103 | 1516 | Stephen Stephen |
 | 104 | 1513 | Jamie Main |
 | 105 | 1507 | Linda Pierce |
 | 106 | 1495 | blackq |
@@ -320,10 +320,10 @@
 | 312 | 666 | Speedy Spinblock |
 | 313 | 665 | Prette Qui |
 | 314 | 664 | Sleepypanda67 |
-| 315 | 663 | Ashle Scranton |
-| 316 | 663 | Mandi Douglas Hilt |
-| 317 | 659 | Roseanna Peloso |
-| 318 | 659 | Draizen Montrell Thomas |
+| 315 | 663 | Mandi Douglas Hilt |
+| 316 | 663 | Ashle Scranton |
+| 317 | 659 | Draizen Montrell Thomas |
+| 318 | 659 | Roseanna Peloso |
 | 319 | 658 | Erica Williams |
 | 320 | 654 | Eric Castaneda |
 | 321 | 653 | goofinoff |
@@ -338,8 +338,8 @@
 | 330 | 639 | Rebecca Miller |
 | 331 | 635 | Diana Fitzwater |
 | 332 | 631 | Marie Walker |
-| 333 | 627 | Allan Wayne Lamia |
-| 334 | 627 | Victoria Moore-Smith |
+| 333 | 627 | Victoria Moore-Smith |
+| 334 | 627 | Allan Wayne Lamia |
 | 335 | 620 | Brandon Armstrong |
 | 336 | 619 | Jelly |
 | 337 | 617 | Leslie Ann Carter |
@@ -591,14 +591,14 @@
 | 583 | 391 | Chilly Bridgepiece |
 | 584 | 391 | Qiana Sanders |
 | 585 | 390 | Moist_B-hole |
-| 586 | 390 | Joice Hansen |
-| 587 | 390 | Mike Aprilliano |
+| 586 | 390 | Mike Aprilliano |
+| 587 | 390 | Joice Hansen |
 | 588 | 389 | Alexis Richardson |
 | 589 | 389 | Kayla |
 | 590 | 389 | Julie Hamilton |
 | 591 | 388 | Christina Ashley |
-| 592 | 387 | Bold Brickster |
-| 593 | 387 | Misti Markijohn |
+| 592 | 387 | Misti Markijohn |
+| 593 | 387 | Bold Brickster |
 | 594 | 386 | Wuntayk |
 | 595 | 385 | Tansaria Couch-Butler |
 | 596 | 384 | Mary Marie |
@@ -613,14 +613,14 @@
 | 605 | 380 | Giggy Grabber |
 | 606 | 380 | Christy Long |
 | 607 | 379 | Cini |
-| 608 | 378 | TF Dyer |
-| 609 | 378 | Tina Marie |
+| 608 | 378 | Tina Marie |
+| 609 | 378 | TF Dyer |
 | 610 | 378 | Jasmine Kenney |
 | 611 | 376 | James Zaragoza |
 | 612 | 375 | Cecilia A Jenkins |
 | 613 | 375 | Lively Edgepiece |
-| 614 | 373 | Jessica Hughes |
-| 615 | 373 | Hunter Connors |
+| 614 | 373 | Hunter Connors |
+| 615 | 373 | Jessica Hughes |
 | 616 | 373 | Ashley Marie |
 | 617 | 372 | Ebony Deloach Bryant |
 | 618 | 371 | Brenda Messer |
@@ -757,8 +757,8 @@
 | 749 | 304 | Melissa McCall |
 | 750 | 304 | NFLPITMOM |
 | 751 | 303 | Angie Marie |
-| 752 | 303 | Amanda Schaffer |
-| 753 | 303 | Devin |
+| 752 | 303 | Devin |
+| 753 | 303 | Amanda Schaffer |
 | 754 | 302 | Kena T. Tanner |
 | 755 | 302 | Maxwell Escalera |
 | 756 | 300 | Britney M. |
