@@ -67,8 +67,8 @@
 | 59 | 412 | Anaid Sanchez |
 | 60 | 409 | Jazzy Framezone |
 | 61 | 391 | Robert Benito |
-| 62 | 388 | Jennifer ManWarren |
-| 63 | 388 | Yvonne Marie |
+| 62 | 388 | Yvonne Marie |
+| 63 | 388 | Jennifer ManWarren |
 | 64 | 382 | Lori Sanders- Davis |
 | 65 | 379 | Austin James |
 | 66 | 374 | Tinah Montanna |
@@ -89,8 +89,8 @@
 | 81 | 323 | Sweet Baker |
 | 82 | 323 | Candy Jones |
 | 83 | 321 | Maria C. Hernandez |
-| 84 | 319 | Deanna L Hermanson |
-| 85 | 319 | Shauna Loe |
+| 84 | 319 | Shauna Loe |
+| 85 | 319 | Deanna L Hermanson |
 | 86 | 311 | Tanya Carpenter-Reynolds |
 | 87 | 310 | Seth Wesson |
 | 88 | 305 | Patrick Luckenbill |
@@ -136,8 +136,8 @@
 | 128 | 211 | Marianita Garcia |
 | 129 | 208 | Giggly Builderline |
 | 130 | 207 | Leslie Bush Yarbrough |
-| 131 | 203 | Paula Martin |
-| 132 | 203 | GATOR |
+| 131 | 203 | GATOR |
+| 132 | 203 | Paula Martin |
 | 133 | 199 | Jennifer Hardman |
 | 134 | 198 | Happy Snapbuild |
 | 135 | 198 | Shiny Gridmatch |
@@ -145,8 +145,8 @@
 | 137 | 194 | Tyler Werts |
 | 138 | 194 | Ash Galvan |
 | 139 | 193 | Lachelle Dillon |
-| 140 | 192 | Jessica Sheehan |
-| 141 | 192 | Shaykmia |
+| 140 | 192 | Shaykmia |
+| 141 | 192 | Jessica Sheehan |
 | 142 | 191 | Diane Byrd |
 | 143 | 190 | Thorne Shumate |
 | 144 | 190 | Sweetts |
@@ -159,8 +159,8 @@
 | 151 | 186 | Katie Daniels |
 | 152 | 185 | Basment Living |
 | 153 | 182 | Monica Donato |
-| 154 | 180 | Erez Yosef |
-| 155 | 180 | BigWeenie69 |
+| 154 | 180 | BigWeenie69 |
+| 155 | 180 | Erez Yosef |
 | 156 | 179 | Danielle Little-Daugherty |
 | 157 | 178 | Chad Atchley |
 | 158 | 177 | Irual Hctrab |
@@ -210,8 +210,8 @@
 | 202 | 144 | Toph |
 | 203 | 144 | Gary Gobin |
 | 204 | 142 | Colleen Wise |
-| 205 | 141 | Dino |
-| 206 | 141 | Blaire Bruckoff |
+| 205 | 141 | Blaire Bruckoff |
+| 206 | 141 | Dino |
 | 207 | 139 | Flashy Rotator |
 | 208 | 137 | Witty Builderfit |
 | 209 | 137 | Cody Gates |

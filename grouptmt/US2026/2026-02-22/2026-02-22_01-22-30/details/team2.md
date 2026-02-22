@@ -167,10 +167,10 @@
 | 159 | 826 | Cindy Sechler Taninecz |
 | 160 | 815 | Moni Foxe |
 | 161 | 815 | Chirpy Staggerpiece |
-| 162 | 811 | James Simms III |
-| 163 | 811 | Rebecca Doughman |
-| 164 | 808 | Missie Lawson Gebhardt |
-| 165 | 808 | John Bednarik |
+| 162 | 811 | Rebecca Doughman |
+| 163 | 811 | James Simms III |
+| 164 | 808 | John Bednarik |
+| 165 | 808 | Missie Lawson Gebhardt |
 | 166 | 807 | Khalil Lowe |
 | 167 | 805 | Robin Kerby |
 | 168 | 804 | Cozy Filler |
@@ -261,8 +261,8 @@
 | 253 | 587 | Hyper Cluster |
 | 254 | 586 | Hoppy Brickmatch |
 | 255 | 585 | Tommy Tha Boss Gunz |
-| 256 | 583 | Jessicah Myers |
-| 257 | 583 | Steve Grotto |
+| 256 | 583 | Steve Grotto |
+| 257 | 583 | Jessicah Myers |
 | 258 | 582 | Gary Stash |
 | 259 | 579 | Roy Salyer |
 | 260 | 579 | Juliana Marques Do Nascimento Gordy |
@@ -310,8 +310,8 @@
 | 302 | 502 | Poppy Snap |
 | 303 | 500 | Glitzy Stackzone |
 | 304 | 500 | Sarah Ridenour |
-| 305 | 499 | Alisa Lamb |
-| 306 | 499 | Sarah Massey |
+| 305 | 499 | Sarah Massey |
+| 306 | 499 | Alisa Lamb |
 | 307 | 498 | Lylymom |
 | 308 | 497 | Jeremy Parodi |
 | 309 | 492 | Armonie Smith |

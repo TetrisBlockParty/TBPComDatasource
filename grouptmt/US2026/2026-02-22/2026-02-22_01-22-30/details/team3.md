@@ -43,8 +43,8 @@
 | 35 | 1059 | Lori Barnaby |
 | 36 | 1058 | Tetris Master |
 | 37 | 1036 | Mahman |
-| 38 | 1013 | Amber Jones |
-| 39 | 1013 | Laura Melton |
+| 38 | 1013 | Laura Melton |
+| 39 | 1013 | Amber Jones |
 | 40 | 998 | Liv Whetson |
 | 41 | 996 | Danielle Cutler |
 | 42 | 989 | Kay |
@@ -93,8 +93,8 @@
 | 85 | 510 | Dave Herzog |
 | 86 | 507 | Jennifer Petrie |
 | 87 | 506 | Sashay Tapae Simpson |
-| 88 | 503 | Nate Burnside |
-| 89 | 503 | Susan Valentino |
+| 88 | 503 | Susan Valentino |
+| 89 | 503 | Nate Burnside |
 | 90 | 502 | Justin Ritter |
 | 91 | 501 | Jessica Bechler |
 | 92 | 493 | Mandy Smith Oldham |
@@ -202,8 +202,8 @@
 | 194 | 232 | Rania Zaqout |
 | 195 | 227 | Krystal Gerstberger |
 | 196 | 226 | Grego Daniel |
-| 197 | 224 | Nicole Myers |
-| 198 | 224 | Araceli Parra |
+| 197 | 224 | Araceli Parra |
+| 198 | 224 | Nicole Myers |
 | 199 | 223 | Jeana Gilbert |
 | 200 | 221 | Eon Harris |
 | 201 | 219 | Shunta Jacobs |
