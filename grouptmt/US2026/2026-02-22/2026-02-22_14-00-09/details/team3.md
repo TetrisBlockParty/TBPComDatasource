@@ -64,8 +64,8 @@
 | 56 | 909 | Jennifer |
 | 57 | 908 | Alanna Rogers |
 | 58 | 903 | Sarah Fehring |
-| 59 | 895 | Shonna Roberts |
-| 60 | 895 | Amanda L Baker |
+| 59 | 895 | Amanda L Baker |
+| 60 | 895 | Shonna Roberts |
 | 61 | 886 | Khristen AC |
 | 62 | 882 | Susan Valentino |
 | 63 | 881 | Nate Burnside |
@@ -113,8 +113,8 @@
 | 105 | 568 | Rachael McClain Owens |
 | 106 | 566 | Dolores Falco |
 | 107 | 565 | Patty Allen |
-| 108 | 562 | Dave Herzog |
-| 109 | 562 | Louise Stacy Sisson |
+| 108 | 562 | Louise Stacy Sisson |
+| 109 | 562 | Dave Herzog |
 | 110 | 559 | Morgan Martinez |
 | 111 | 549 | Nicole Myers |
 | 112 | 533 | Alaina Lee |
@@ -166,12 +166,12 @@
 | 158 | 403 | Scott Lindsay |
 | 159 | 401 | Katie Knaus |
 | 160 | 400 | Luciana Braganca Vieira |
-| 161 | 399 | Mcathen |
-| 162 | 399 | Marcie Bressler |
+| 161 | 399 | Marcie Bressler |
+| 162 | 399 | Mcathen |
 | 163 | 397 | Annie Déè |
 | 164 | 393 | Fallorina Susana |
-| 165 | 391 | Calista Jo Dickson |
-| 166 | 391 | Sarah Cowan Burgos |
+| 165 | 391 | Sarah Cowan Burgos |
+| 166 | 391 | Calista Jo Dickson |
 | 167 | 390 | Hasty Cascadefit |
 | 168 | 389 | Jeni Dow |
 | 169 | 384 | Dapper Snap |
@@ -188,8 +188,8 @@
 | 180 | 370 | Danielle Allison |
 | 181 | 368 | Stephanie Woods |
 | 182 | 366 | Adrian Marcel Pate |
-| 183 | 362 | Darlene McMillan |
-| 184 | 362 | Rochelle Hazelett |
+| 183 | 362 | Rochelle Hazelett |
+| 184 | 362 | Darlene McMillan |
 | 185 | 361 | Jamie Lang |
 | 186 | 358 | Chummy Caster |
 | 187 | 358 | RickyG |
@@ -205,8 +205,8 @@
 | 197 | 338 | Gumbo |
 | 198 | 332 | Rich LeBlanc |
 | 199 | 330 | Rebecca Funderburk Kirby |
-| 200 | 324 | Kristal C Lee |
-| 201 | 324 | Sissy Lowery Davis |
+| 200 | 324 | Sissy Lowery Davis |
+| 201 | 324 | Kristal C Lee |
 | 202 | 323 | Demetrious Shaw Sr. |
 | 203 | 320 | Or Reznitsky |
 | 204 | 320 | Keis |
@@ -355,8 +355,8 @@
 | 347 | 183 | Salena Whitlock |
 | 348 | 183 | Cesar Barraza |
 | 349 | 182 | gremicx |
-| 350 | 181 | Denita Mungro |
-| 351 | 181 | Michael Johnson |
+| 350 | 181 | Michael Johnson |
+| 351 | 181 | Denita Mungro |
 | 352 | 180 | Beth Ingham |
 | 353 | 180 | Snazzy Filler |
 | 354 | 179 | Rachel Napper |
@@ -385,13 +385,13 @@
 | 377 | 167 | Irene Arreguin |
 | 378 | 166 | Snarky McFace |
 | 379 | 165 | Kali Kelz Williams |
-| 380 | 164 | momo |
-| 381 | 164 | TazB |
+| 380 | 164 | TazB |
+| 381 | 164 | momo |
 | 382 | 164 | Ashley Rufus Bythcez |
 | 383 | 163 | Christine Trester |
 | 384 | 163 | Diana Ibarra |
-| 385 | 162 | Stephanie Whitefield |
-| 386 | 162 | Sierra Spencer |
+| 385 | 162 | Nicole Summers-Nelson |
+| 386 | 162 | Stephanie Whitefield |
 | 387 | 162 | Beaudie Stroebel |
 | 388 | 162 | Sierra Spencer |
 | 389 | 162 | Eric Caccavale |

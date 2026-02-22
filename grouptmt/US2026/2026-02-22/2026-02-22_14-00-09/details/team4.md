@@ -188,8 +188,8 @@
 | 180 | 221 | Rheanda Weaskus |
 | 181 | 221 | Jose Dejesus |
 | 182 | 217 | Angela Srubar-Norman |
-| 183 | 217 | Chaz Duncan |
-| 184 | 217 | Kim Hunt |
+| 183 | 217 | Kim Hunt |
+| 184 | 217 | Chaz Duncan |
 | 185 | 216 | ZeeZee |
 | 186 | 216 | Chance Strickland |
 | 187 | 213 | Jason Allen |
@@ -226,9 +226,9 @@
 | 218 | 192 | Dizzy Matchzone |
 | 219 | 191 | Klo |
 | 220 | 190 | Cheery Risebuilder |
-| 221 | 189 | Stacey Stano |
-| 222 | 189 | Dihcheese444 |
-| 223 | 189 | Calvin Dennis |
+| 221 | 189 | Dihcheese444 |
+| 222 | 189 | Calvin Dennis |
+| 223 | 189 | Stacey Stano |
 | 224 | 186 | Holly |
 | 225 | 185 | Rebecca Morris |
 | 226 | 185 | Laura Hosford |
@@ -246,10 +246,10 @@
 | 238 | 172 | Gilles Lanctot |
 | 239 | 171 | Autumn Kumzi |
 | 240 | 171 | June Hoffman |
-| 241 | 169 | April Rondinone |
-| 242 | 169 | AyeKay |
+| 241 | 169 | AyeKay |
+| 242 | 169 | April Rondinone |
 | 243 | 167 | Cozy Balancer |
-| 244 | 166 | Angelito |
+| 244 | 166 | SammieJo Guy |
 | 245 | 166 | Megan Cutshaw |
 | 246 | 166 | Angelito |
 | 247 | 166 | Juls |
@@ -293,9 +293,9 @@
 | 285 | 145 | Sandra Safford |
 | 286 | 144 | Sticherella |
 | 287 | 144 | Circuit8 |
-| 288 | 143 | Dennis Bradley |
-| 289 | 143 | Asher |
-| 290 | 143 | Metsfan |
+| 288 | 143 | Asher |
+| 289 | 143 | Metsfan |
+| 290 | 143 | Dennis Bradley |
 | 291 | 143 | Daresha Fair |
 | 292 | 142 | Chaz |
 | 293 | 142 | Victoria Faniel |
@@ -446,7 +446,7 @@
 | 438 | 97 | Brandon Crabbs |
 | 439 | 97 | Serena Butter |
 | 440 | 96 | Rebecca Blake |
-| 441 | 95 | Chirpy Slammer |
+| 441 | 95 | Sunny Filler |
 | 442 | 95 | Susan Williams |
 | 443 | 95 | Chirpy Slammer |
 | 444 | 95 | Jobadia Steelerton |

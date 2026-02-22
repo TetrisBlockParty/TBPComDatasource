@@ -364,8 +364,8 @@
 | 356 | 120 | Sarah Henniker |
 | 357 | 120 | Shiny Rotate |
 | 358 | 119 | Joe Coon |
-| 359 | 118 | Snappy Brickbuilder |
-| 360 | 118 | Garcia Bailey |
+| 359 | 118 | Garcia Bailey |
+| 360 | 118 | Snappy Brickbuilder |
 | 361 | 118 | Kerry Lee Powell |
 | 362 | 117 | Beazel75 |
 | 363 | 117 | Brad MG |

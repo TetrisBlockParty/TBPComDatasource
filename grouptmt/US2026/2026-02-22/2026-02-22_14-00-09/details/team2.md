@@ -534,8 +534,8 @@
 | 526 | 438 | Kristi Biddinger |
 | 527 | 437 | Bubbly Snapfit |
 | 528 | 436 | Niceday |
-| 529 | 435 | Regina Young |
-| 530 | 435 | James Louie |
+| 529 | 435 | James Louie |
+| 530 | 435 | Regina Young |
 | 531 | 433 | KayLynn Ogden McClelland |
 | 532 | 432 | Lucy Marshall |
 | 533 | 431 | Quinn |
@@ -871,8 +871,8 @@
 | 863 | 274 | Jamie Stevey |
 | 864 | 274 | Sabrena Yeisley |
 | 865 | 273 | Britt Stunkel |
-| 866 | 273 | Boldy Block |
-| 867 | 273 | Jennifer Aiken |
+| 866 | 273 | Jennifer Aiken |
+| 867 | 273 | Boldy Block |
 | 868 | 272 | Gina Justbeingme Chillis |
 | 869 | 272 | Witty Piecebuilder |
 | 870 | 271 | Michelle Ettrick |
@@ -963,14 +963,14 @@
 | 955 | 251 | Bold Clusterfit |
 | 956 | 251 | Regina Unruh |
 | 957 | 251 | Emoniee Sa'niaya |
-| 958 | 251 | Kimmie Zimmerman-Rocha |
-| 959 | 251 | Chipper Dashpiece |
+| 958 | 251 | Chipper Dashpiece |
+| 959 | 251 | Kimmie Zimmerman-Rocha |
 | 960 | 250 | Kay Stevenson |
-| 961 | 250 | Michelle Fleming Luna |
-| 962 | 250 | Muhammad |
+| 961 | 250 | Muhammad |
+| 962 | 250 | Michelle Fleming Luna |
 | 963 | 250 | Drew Berkelbach |
-| 964 | 249 | Andrew Engman |
-| 965 | 249 | Angela Yantz |
+| 964 | 249 | Angela Yantz |
+| 965 | 249 | Andrew Engman |
 | 966 | 249 | J.L. Roberts |
 | 967 | 249 | Joshua Mullings |
 | 968 | 248 | CleverAngel |
