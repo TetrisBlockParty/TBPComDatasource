@@ -200,7 +200,7 @@
 | 192 | 149 | Shainne Brewer |
 | 193 | 148 | Mr. Party |
 | 194 | 148 | Brittany Marsh |
-| 195 | 148 | Mr. Party |
+| 195 | 148 | Janita Parrish |
 | 196 | 147 | B Renee Desjardin |
 | 197 | 147 | Jay28 |
 | 198 | 145 | Zany Shatterer |
@@ -273,7 +273,7 @@
 | 265 | 115 | Alexandra Karavias |
 | 266 | 115 | Nubian1 |
 | 267 | 115 | Rebecca Morris |
-| 268 | 115 | Nubian1 |
+| 268 | 115 | Jayk |
 | 269 | 114 | Christina Black |
 | 270 | 114 | PennyCandee |
 | 271 | 113 | Dandy Cascadefit |

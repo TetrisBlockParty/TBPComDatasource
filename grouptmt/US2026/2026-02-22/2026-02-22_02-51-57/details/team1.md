@@ -100,8 +100,8 @@
 | 92 | 313 | Tanya Carpenter-Reynolds |
 | 93 | 310 | Seth Wesson |
 | 94 | 307 | Hyper |
-| 95 | 305 | Spunky Piecebuilder |
-| 96 | 305 | Patrick Luckenbill |
+| 95 | 305 | Patrick Luckenbill |
+| 96 | 305 | Spunky Piecebuilder |
 | 97 | 304 | Nicole Roseberry Weber |
 | 98 | 303 | cc |
 | 99 | 301 | Lehrin Maria |
@@ -109,8 +109,8 @@
 | 101 | 290 | Death |
 | 102 | 288 | Seante Bullock |
 | 103 | 285 | Ananda Mendez |
-| 104 | 284 | Emily Adelaide Wheatley |
-| 105 | 284 | Theo Pinnow |
+| 104 | 284 | Theo Pinnow |
+| 105 | 284 | Emily Adelaide Wheatley |
 | 106 | 283 | Franswa |
 | 107 | 282 | Timothy Dew |
 | 108 | 280 | Sarah Roberts |
@@ -157,8 +157,8 @@
 | 149 | 194 | Ash Galvan |
 | 150 | 194 | Tyler Werts |
 | 151 | 193 | Lachelle Dillon |
-| 152 | 192 | Shaykmia |
-| 153 | 192 | Jessica Sheehan |
+| 152 | 192 | Jessica Sheehan |
+| 153 | 192 | Shaykmia |
 | 154 | 191 | Diane Byrd |
 | 155 | 191 | Christy Jones |
 | 156 | 190 | Thorne Shumate |
@@ -183,8 +183,8 @@
 | 175 | 175 | John Barron |
 | 176 | 174 | Cheeky Pop |
 | 177 | 173 | Gabrielle Louise Malloch |
-| 178 | 171 | Greg Premoe |
-| 179 | 171 | David DeSantis |
+| 178 | 171 | David DeSantis |
+| 179 | 171 | Greg Premoe |
 | 180 | 170 | Cartier |
 | 181 | 170 | Veronica Eve |
 | 182 | 169 | Arianna O'Brien |
@@ -192,8 +192,8 @@
 | 184 | 169 | Abbey Crespo |
 | 185 | 168 | Jessie Lynn |
 | 186 | 168 | Standia Civil |
-| 187 | 167 | Nery Martinez |
-| 188 | 167 | Erin Hodges Plumb |
+| 187 | 167 | Erin Hodges Plumb |
+| 188 | 167 | Nery Martinez |
 | 189 | 166 | Rico Rico |
 | 190 | 165 | Silly Align |
 | 191 | 165 | Nadine Velardo |
@@ -221,8 +221,8 @@
 | 213 | 144 | Miguel Teixeira |
 | 214 | 143 | Guest |
 | 215 | 142 | Colleen Wise |
-| 216 | 141 | Blaire Bruckoff |
-| 217 | 141 | Dino |
+| 216 | 141 | Dino |
+| 217 | 141 | Blaire Bruckoff |
 | 218 | 139 | Flashy Rotator |
 | 219 | 138 | Mark Smith |
 | 220 | 138 | Hector Cruz |
@@ -266,8 +266,8 @@
 | 258 | 118 | Garcia Bailey |
 | 259 | 118 | Tyler Hertzog |
 | 260 | 116 | Fresno Beotoni |
-| 261 | 115 | Mrs.Patrica |
-| 262 | 115 | Chuck Gannon |
+| 261 | 115 | Chuck Gannon |
+| 262 | 115 | Mrs.Patrica |
 | 263 | 114 | Constance Risner |
 | 264 | 113 | Jamie Jury |
 | 265 | 112 | Chris65 |
