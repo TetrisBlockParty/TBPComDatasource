@@ -166,8 +166,8 @@
 | 158 | 1048 | PsychKIRAtrist |
 | 159 | 1047 | Amy Sayers |
 | 160 | 1045 | Lourisha |
-| 161 | 1043 | Suki Kaur |
-| 162 | 1043 | Brave Dropmatch |
+| 161 | 1043 | Brave Dropmatch |
+| 162 | 1043 | Suki Kaur |
 | 163 | 1035 | Sarah Freitas |
 | 164 | 1026 | Heather Westrum |
 | 165 | 1023 | Brainy Smurf |
@@ -199,8 +199,8 @@
 | 191 | 921 | Morgue Chick |
 | 192 | 916 | Butta |
 | 193 | 915 | Kelly Trent |
-| 194 | 910 | Shuany Arias |
-| 195 | 910 | Crystal Hoffman |
+| 194 | 910 | Crystal Hoffman |
+| 195 | 910 | Shuany Arias |
 | 196 | 907 | Gene Mills |
 | 197 | 901 | Jennifer Peachey |
 | 198 | 890 | Kevin Walp |
@@ -410,11 +410,11 @@
 | 402 | 497 | Kimberly Randesi |
 | 403 | 496 | Blacc Blac |
 | 404 | 493 | Kara Gillen |
-| 405 | 492 | Armonie Smith |
-| 406 | 492 | Breezy Clusterer |
+| 405 | 492 | Breezy Clusterer |
+| 406 | 492 | Armonie Smith |
 | 407 | 491 | Michael Buckner |
-| 408 | 489 | Osun Anuket Esu |
-| 409 | 489 | Cassie Mercer |
+| 408 | 489 | Cassie Mercer |
+| 409 | 489 | Osun Anuket Esu |
 | 410 | 488 | Venita Ray |
 | 411 | 487 | Maya June |
 | 412 | 487 | MrsCandyfine As Wine Truss |
@@ -673,8 +673,8 @@
 | 665 | 328 | Jamie Carter Bierce |
 | 666 | 328 | BabyBird |
 | 667 | 326 | Sharon Mills |
-| 668 | 326 | Ann Knutson Anderson |
-| 669 | 326 | Angela Murgia-Owen |
+| 668 | 326 | Angela Murgia-Owen |
+| 669 | 326 | Ann Knutson Anderson |
 | 670 | 325 | Justin Hines |
 | 671 | 324 | Mike73 |
 | 672 | 324 | Tasia Stinson |
@@ -713,13 +713,13 @@
 | 705 | 310 | Beth Decker |
 | 706 | 309 | Byung Bae Park |
 | 707 | 309 | Candy Pitts |
-| 708 | 308 | Claire |
-| 709 | 308 | Sarah block |
+| 708 | 308 | Sarah block |
+| 709 | 308 | Claire |
 | 710 | 308 | Prado |
 | 711 | 307 | stacey |
 | 712 | 306 | Kiorah Blaze |
-| 713 | 305 | MamaBear11 |
-| 714 | 305 | Zany Clusterbuilder |
+| 713 | 305 | Zany Clusterbuilder |
+| 714 | 305 | MamaBear11 |
 | 715 | 305 | Libby Hicks |
 | 716 | 304 | Michelle Shrum |
 | 717 | 304 | James Smith |
@@ -821,8 +821,8 @@
 | 813 | 264 | Ocean-Brianna McGregor |
 | 814 | 264 | Debbie Gerlib-Molinari Leigh |
 | 815 | 264 | Maria Hammett |
-| 816 | 263 | Sara Pennington |
-| 817 | 263 | Laura Wyatt |
+| 816 | 263 | Laura Wyatt |
+| 817 | 263 | Sara Pennington |
 | 818 | 263 | Elizabeth Leinen |
 | 819 | 263 | Sunshine711 |
 | 820 | 262 | Taren Cowan |
@@ -1029,8 +1029,8 @@
 | 1021 | 211 | Nerdy Blockpiece |
 | 1022 | 211 | Melissa Koria |
 | 1023 | 211 | Neko Preston |
-| 1024 | 210 | Joshua Switzer |
-| 1025 | 210 | Clever Dashgrid |
+| 1024 | 210 | Clever Dashgrid |
+| 1025 | 210 | Joshua Switzer |
 | 1026 | 210 | Cappin You |
 | 1027 | 210 | Nicolle Danielle |
 | 1028 | 210 | Nicolee Hackney |
@@ -1126,10 +1126,10 @@
 | 1118 | 192 | Chilly Linkfall |
 | 1119 | 192 | Donna M Carter |
 | 1120 | 191 | Samuel Labruno |
-| 1121 | 191 | Casaundra Little-Abeling |
-| 1122 | 191 | Laura McConnell |
-| 1123 | 190 | Lola |
-| 1124 | 190 | Jessica Kaye DeAguero |
+| 1121 | 191 | Laura McConnell |
+| 1122 | 191 | Casaundra Little-Abeling |
+| 1123 | 190 | Jessica Kaye DeAguero |
+| 1124 | 190 | Lola |
 | 1125 | 190 | Miyah Erraina |
 | 1126 | 190 | Andrew Bratton-Tomes |
 | 1127 | 190 | Katie Marie |
@@ -1140,8 +1140,8 @@
 | 1132 | 189 | Daveeda Ansourian Joplin |
 | 1133 | 189 | Nick Spring |
 | 1134 | 189 | Nate Skidmore |
-| 1135 | 189 | Hazel Spears |
-| 1136 | 189 | Sharon Crawford |
+| 1135 | 189 | Sharon Crawford |
+| 1136 | 189 | Hazel Spears |
 | 1137 | 189 | Hannah Leigh Pelofsky |
 | 1138 | 188 | Corey Anthony Moe Matta |
 | 1139 | 188 | Asha Nichols-Collins |

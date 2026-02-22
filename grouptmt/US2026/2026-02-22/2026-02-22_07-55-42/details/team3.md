@@ -61,8 +61,8 @@
 | 53 | 908 | Alanna Rogers |
 | 54 | 907 | Judi Dobson |
 | 55 | 903 | Sarah Fehring |
-| 56 | 895 | Amanda L Baker |
-| 57 | 895 | Shonna Roberts |
+| 56 | 895 | Shonna Roberts |
+| 57 | 895 | Amanda L Baker |
 | 58 | 886 | Khristen AC |
 | 59 | 874 | Jessica Pineda-Lopez |
 | 60 | 867 | Corie A. Brinson |
@@ -119,8 +119,8 @@
 | 111 | 506 | Sashay Tapae Simpson |
 | 112 | 502 | Justin Ritter |
 | 113 | 502 | Elissa S-k |
-| 114 | 500 | Kristie |
-| 115 | 500 | Domo Washington |
+| 114 | 500 | Domo Washington |
+| 115 | 500 | Kristie |
 | 116 | 497 | Mykal Burton |
 | 117 | 492 | Daira Largen |
 | 118 | 491 | Chauntee Alfrey-Cardinale |
@@ -199,8 +199,8 @@
 | 191 | 311 | Araceli Parra |
 | 192 | 311 | Rochelle Hazelett |
 | 193 | 310 | Danielle Balcom |
-| 194 | 308 | Daryn Elliott |
-| 195 | 308 | Rania Zaqout |
+| 194 | 308 | Rania Zaqout |
+| 195 | 308 | Daryn Elliott |
 | 196 | 307 | rnr junky |
 | 197 | 307 | Blocked |
 | 198 | 302 | Rebecca Bailey |
@@ -393,8 +393,8 @@
 | 385 | 144 | Blair Erin Waite |
 | 386 | 142 | Erica Anderson |
 | 387 | 142 | Gray Hicks |
-| 388 | 142 | Jl |
-| 389 | 142 | Joy Petroski |
+| 388 | 142 | Joy Petroski |
+| 389 | 142 | Jl |
 | 390 | 141 | Melissa Snyder |
 | 391 | 141 | Weerae |
 | 392 | 140 | Jumpy Curvebuilder |

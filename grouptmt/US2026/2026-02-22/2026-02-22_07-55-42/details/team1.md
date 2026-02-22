@@ -113,8 +113,8 @@
 | 105 | 326 | Monica Donato |
 | 106 | 323 | Shauna Loe |
 | 107 | 321 | Maria C. Hernandez |
-| 108 | 319 | Deanna L Hermanson |
-| 109 | 319 | Patrick Luckenbill |
+| 108 | 319 | Patrick Luckenbill |
+| 109 | 319 | Deanna L Hermanson |
 | 110 | 313 | Tanya Carpenter-Reynolds |
 | 111 | 310 | phrmblk24 |
 | 112 | 310 | Seth Wesson |
@@ -126,8 +126,8 @@
 | 118 | 292 | Kristen Gideon |
 | 119 | 290 | Death |
 | 120 | 287 | Chelsea Dahlquist |
-| 121 | 286 | Arianna O'Brien |
-| 122 | 286 | Ly Phethmany |
+| 121 | 286 | Ly Phethmany |
+| 122 | 286 | Arianna O'Brien |
 | 123 | 285 | Ananda Mendez |
 | 124 | 284 | Rachael |
 | 125 | 284 | Emily Adelaide Wheatley |
@@ -190,8 +190,8 @@
 | 182 | 201 | Colleen Wise |
 | 183 | 200 | Debbie Davis |
 | 184 | 199 | Basment Living |
-| 185 | 198 | Happy Snapbuild |
-| 186 | 198 | Shiny Gridmatch |
+| 185 | 198 | Shiny Gridmatch |
+| 186 | 198 | Happy Snapbuild |
 | 187 | 195 | Shaykmia |
 | 188 | 194 | Christy Jones |
 | 189 | 193 | Jennifer Olewnik Soborowski |
