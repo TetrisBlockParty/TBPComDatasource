@@ -113,8 +113,8 @@
 | 105 | 303 | Lauren Scott |
 | 106 | 300 | Jason Hart |
 | 107 | 298 | Lucas J Sutton |
-| 108 | 296 | HastyGrabber |
-| 109 | 296 | Justin Hannigan |
+| 108 | 296 | Justin Hannigan |
+| 109 | 296 | HastyGrabber |
 | 110 | 295 | Latisha Davis |
 | 111 | 294 | Kesha Brady |
 | 112 | 290 | 🥔🥔 Spudz |
@@ -145,8 +145,8 @@
 | 137 | 232 | Crystal Nicolette Moore |
 | 138 | 230 | Autum Leigh |
 | 139 | 228 | J-Rizzle |
-| 140 | 227 | Swanky Fitline |
-| 141 | 227 | Alyssa Papen |
+| 140 | 227 | Alyssa Papen |
+| 141 | 227 | Swanky Fitline |
 | 142 | 225 | Damn Libra |
 | 143 | 224 | Matt Summer |
 | 144 | 223 | Antony Dwayne Beasley |
@@ -161,8 +161,8 @@
 | 153 | 215 | Ren Mc |
 | 154 | 215 | Chris Bernstein |
 | 155 | 214 | Twisty Cascadezone |
-| 156 | 213 | Jason Allen |
-| 157 | 213 | Sarah Neathery |
+| 156 | 213 | Sarah Neathery |
+| 157 | 213 | Jason Allen |
 | 158 | 212 | Calvin Cannon |
 | 159 | 212 | Mike Solo |
 | 160 | 211 | Jenna McGeorge |
@@ -284,10 +284,10 @@
 | 276 | 128 | Allen Lloyd |
 | 277 | 127 | Kim Hunt |
 | 278 | 126 | icequeenx |
-| 279 | 125 | Daresha Fair |
+| 279 | 125 | KimoKoala |
 | 280 | 125 | Steph Marie |
 | 281 | 125 | Lush Linkfall |
-| 282 | 125 | KimoKoala |
+| 282 | 125 | Daresha Fair |
 | 283 | 124 | Sam Middleton |
 | 284 | 123 | Joseph Edmonson |
 | 285 | 121 | Joseph Pace |

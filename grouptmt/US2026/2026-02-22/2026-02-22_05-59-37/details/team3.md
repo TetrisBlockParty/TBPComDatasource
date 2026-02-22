@@ -49,8 +49,8 @@
 | 41 | 1036 | Ant Ant |
 | 42 | 1015 | Amber Jones |
 | 43 | 998 | Liv Whetson |
-| 44 | 989 | Joey Banks |
-| 45 | 989 | Kay |
+| 44 | 989 | Kay |
+| 45 | 989 | Joey Banks |
 | 46 | 975 | Stephanie Rice |
 | 47 | 963 | Brandon Green |
 | 48 | 956 | Gracie |
@@ -112,10 +112,10 @@
 | 104 | 512 | Christine Niles |
 | 105 | 506 | Sashay Tapae Simpson |
 | 106 | 503 | Susan Valentino |
-| 107 | 502 | Justin Ritter |
-| 108 | 502 | Elissa S-k |
-| 109 | 500 | Kristie |
-| 110 | 500 | Domo Washington |
+| 107 | 502 | Elissa S-k |
+| 108 | 502 | Justin Ritter |
+| 109 | 500 | Domo Washington |
+| 110 | 500 | Kristie |
 | 111 | 497 | Mykal Burton |
 | 112 | 492 | Daira Largen |
 | 113 | 491 | Chauntee Alfrey-Cardinale |

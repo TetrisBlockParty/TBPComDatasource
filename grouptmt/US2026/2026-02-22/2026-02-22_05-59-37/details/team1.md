@@ -94,8 +94,8 @@
 | 86 | 359 | Nerdy Linkblock |
 | 87 | 355 | Hasbro Bros |
 | 88 | 350 | Tipsy Strikerpiece |
-| 89 | 347 | pjbeta |
-| 90 | 347 | june october |
+| 89 | 347 | june october |
+| 90 | 347 | pjbeta |
 | 91 | 345 | Dee Perry |
 | 92 | 342 | Brenda Stewart |
 | 93 | 339 | Kimmie Kimms |
@@ -121,8 +121,8 @@
 | 113 | 292 | Kristen Gideon |
 | 114 | 290 | Death |
 | 115 | 288 | Seante Bullock |
-| 116 | 286 | Arianna O'Brien |
-| 117 | 286 | Ly Phethmany |
+| 116 | 286 | Ly Phethmany |
+| 117 | 286 | Arianna O'Brien |
 | 118 | 285 | Ananda Mendez |
 | 119 | 284 | lil mickey |
 | 120 | 284 | Emily Adelaide Wheatley |
@@ -134,13 +134,13 @@
 | 126 | 278 | Rachael |
 | 127 | 276 | Dandy Basegrid |
 | 128 | 265 | SkipTheSadSauce |
-| 129 | 264 | Jenny Gingrich Fuentes |
-| 130 | 264 | Lexuriuos Lifestlye |
+| 129 | 264 | Lexuriuos Lifestlye |
+| 130 | 264 | Jenny Gingrich Fuentes |
 | 131 | 263 | Sharon Reynolds |
 | 132 | 257 | Amanda Jarnagin |
 | 133 | 256 | David Miller |
-| 134 | 252 | Elaine Elaine |
-| 135 | 252 | Dena Kayy |
+| 134 | 252 | Dena Kayy |
+| 135 | 252 | Elaine Elaine |
 | 136 | 248 | Lori Bales |
 | 137 | 247 | Tana |
 | 138 | 246 | Chelsea Dahlquist |
@@ -172,8 +172,8 @@
 | 164 | 206 | BadG52 |
 | 165 | 205 | Tater |
 | 166 | 204 | Lacy Wolfe |
-| 167 | 203 | Paula Martin |
-| 168 | 203 | LaFontaine Leslie |
+| 167 | 203 | LaFontaine Leslie |
+| 168 | 203 | Paula Martin |
 | 169 | 201 | Sam Williams |
 | 170 | 199 | Basment Living |
 | 171 | 198 | Shiny Gridmatch |
@@ -529,7 +529,7 @@
 | 521 | 66 | Shannon Guilloty |
 | 522 | 66 | Al Smith Jr |
 | 523 | 65 | OneCrazyGator |
-| 524 | 65 | Kayla |
+| 524 | 65 | Bruce Cruz |
 | 525 | 65 | Larissa Marie Nelson |
 | 526 | 65 | Kayla |
 | 527 | 64 | April Jones |

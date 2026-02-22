@@ -124,8 +124,8 @@
 | 116 | 1248 | Howard Forest |
 | 117 | 1242 | Altamirano Michael |
 | 118 | 1237 | Roger Grabbit |
-| 119 | 1232 | Isabela Shaw |
-| 120 | 1232 | Groovy Puzzle |
+| 119 | 1232 | Groovy Puzzle |
+| 120 | 1232 | Isabela Shaw |
 | 121 | 1226 | Vo'Landa Reels |
 | 122 | 1216 | Kristin Ruest |
 | 123 | 1215 | Megan Garrick |
@@ -294,19 +294,19 @@
 | 286 | 650 | Shiny Rollzone |
 | 287 | 647 | Ashle Scranton |
 | 288 | 643 | Hoppy Brickmatch |
-| 289 | 641 | Joce Lynn |
-| 290 | 641 | Angie Bolton Workman |
+| 289 | 641 | Angie Bolton Workman |
+| 290 | 641 | Joce Lynn |
 | 291 | 640 | BYM4L |
 | 292 | 639 | Crystie Hicks |
 | 293 | 639 | Rebecca Miller |
-| 294 | 635 | Diana Fitzwater |
-| 295 | 635 | William Hunt |
+| 294 | 635 | William Hunt |
+| 295 | 635 | Diana Fitzwater |
 | 296 | 633 | Bob |
 | 297 | 632 | Beth |
 | 298 | 631 | Marie Walker |
 | 299 | 629 | Sleepypanda67 |
-| 300 | 627 | Victoria Moore-Smith |
-| 301 | 627 | Allan Wayne Lamia |
+| 300 | 627 | Allan Wayne Lamia |
+| 301 | 627 | Victoria Moore-Smith |
 | 302 | 619 | Jánine Riggs |
 | 303 | 617 | tejas25 |
 | 304 | 617 | Leslie Ann Carter |
@@ -336,8 +336,8 @@
 | 328 | 562 | Ashley Lopez |
 | 329 | 561 | Traci Johnson |
 | 330 | 555 | Brittney Jean |
-| 331 | 554 | Santana Miyagi |
-| 332 | 554 | Rachael Senard |
+| 331 | 554 | Rachael Senard |
+| 332 | 554 | Santana Miyagi |
 | 333 | 549 | Kaylee McCafferty |
 | 334 | 549 | Darcy Mae |
 | 335 | 548 | Brownie Sheena |
@@ -670,12 +670,12 @@
 | 662 | 309 | Candy Pitts |
 | 663 | 309 | Byung Bae Park |
 | 664 | 308 | Prado |
-| 665 | 308 | Sarah block |
-| 666 | 308 | Claire |
+| 665 | 308 | Claire |
+| 666 | 308 | Sarah block |
 | 667 | 307 | stacey |
 | 668 | 306 | Kiorah Blaze |
-| 669 | 305 | Zany Clusterbuilder |
-| 670 | 305 | MamaBear11 |
+| 669 | 305 | MamaBear11 |
+| 670 | 305 | Zany Clusterbuilder |
 | 671 | 305 | Libby Hicks |
 | 672 | 304 | Michelle Shrum |
 | 673 | 304 | Melissa McCall |
