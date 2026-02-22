@@ -33,8 +33,8 @@
 | 25 | 886 | Dustin Robert |
 | 26 | 880 | Koshin Abdirahman |
 | 27 | 879 | Heather Tushner |
-| 28 | 873 | Elizabeth Sallas |
-| 29 | 873 | Michelle Pearman |
+| 28 | 873 | Michelle Pearman |
+| 29 | 873 | Elizabeth Sallas |
 | 30 | 871 | Denny Shives |
 | 31 | 846 | Christine Marie |
 | 32 | 843 | Lucille Truesdale |
@@ -104,8 +104,8 @@
 | 96 | 370 | Leslie Thomas |
 | 97 | 369 | Nope Young |
 | 98 | 358 | Nugget |
-| 99 | 352 | Monica Daley |
-| 100 | 352 | Zippy Gridlock |
+| 99 | 352 | Zippy Gridlock |
+| 100 | 352 | Monica Daley |
 | 101 | 344 | Livvy |
 | 102 | 337 | Lori Walker |
 | 103 | 334 | Amelpss |

@@ -243,8 +243,8 @@
 | 235 | 258 | Tamara Deherrera |
 | 236 | 257 | Ashley Jones |
 | 237 | 256 | Brenda Lee Vander Molen |
-| 238 | 256 | Tiffany Davie |
-| 239 | 256 | KayB |
+| 238 | 256 | KayB |
+| 239 | 256 | Tiffany Davie |
 | 240 | 251 | Sabrina Hardrick |
 | 241 | 250 | fraulila |
 | 242 | 249 | Annie Marie |
@@ -269,8 +269,8 @@
 | 261 | 221 | Jaime Monhaut-Reed |
 | 262 | 221 | Vaners |
 | 263 | 220 | rosy |
-| 264 | 219 | Cozy Snaplink |
-| 265 | 219 | Sissy Lowery Davis |
+| 264 | 219 | Sissy Lowery Davis |
+| 265 | 219 | Cozy Snaplink |
 | 266 | 218 | Michael Lucado |
 | 267 | 217 | Chummy Caster |
 | 268 | 216 | Cheryl Hinch Tenbrook |
@@ -311,8 +311,8 @@
 | 303 | 189 | Katie Leigh Blankenship |
 | 304 | 188 | Loopy Fallmatch |
 | 305 | 186 | Carrie Huskey |
-| 306 | 184 | France Vézina |
-| 307 | 184 | Troy |
+| 306 | 184 | Troy |
+| 307 | 184 | France Vézina |
 | 308 | 184 | Stephanie Hill |
 | 309 | 183 | Cesar Barraza |
 | 310 | 182 | Melanie Sherwood |
@@ -326,8 +326,8 @@
 | 318 | 179 | Rachel Napper |
 | 319 | 178 | Jess Dearborn |
 | 320 | 178 | Jennifer Alvey |
-| 321 | 176 | Emma |
-| 322 | 176 | Melissa Orth Hunter |
+| 321 | 176 | Melissa Orth Hunter |
+| 322 | 176 | Emma |
 | 323 | 175 | Eileen Brady Thurber |
 | 324 | 174 | Betty Rosas |
 | 325 | 174 | Lesley Perez |
@@ -370,8 +370,8 @@
 | 362 | 153 | Sheila M Frazier |
 | 363 | 153 | Tony Waters |
 | 364 | 152 | Goofy Fall |
-| 365 | 152 | Eric Caccavale |
-| 366 | 152 | Shiny Zonebuilder |
+| 365 | 152 | Shiny Zonebuilder |
+| 366 | 152 | Eric Caccavale |
 | 367 | 151 | Sarah Cowan Burgos |
 | 368 | 149 | Alexis Taylor |
 | 369 | 148 | Pam Holt Powell |
@@ -582,9 +582,9 @@
 | 574 | 97 | Daisy Rocha |
 | 575 | 97 | Tina Baurdau |
 | 576 | 97 | Rebecca Lynn |
-| 577 | 96 | D3NO |
+| 577 | 96 | Jason |
 | 578 | 96 | Brittany Smith Brown |
-| 579 | 96 | Jason |
+| 579 | 96 | D3NO |
 | 580 | 96 | Kelly |
 | 581 | 96 | Swanky Snapclear |
 | 582 | 95 | Jazzy Zoner |
@@ -605,7 +605,7 @@
 | 597 | 93 | Samantha Long |
 | 598 | 92 | Patty White |
 | 599 | 92 | Jackie-Lynne Goertzen |
-| 600 | 92 | Patty White |
+| 600 | 92 | Jennifer Caputo |
 | 601 | 92 | Cary M. Fong |
 | 602 | 91 | Donna S. Greene-Brathwaite |
 | 603 | 91 | lydynred |
