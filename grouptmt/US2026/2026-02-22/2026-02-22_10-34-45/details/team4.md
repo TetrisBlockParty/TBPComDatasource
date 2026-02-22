@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Shelly Chandler |
-| 34 | 843 | Lucille Truesdale |
+| 33 | 843 | Lucille Truesdale |
+| 34 | 843 | Shelly Chandler |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -56,8 +56,8 @@
 | 48 | 697 | Edward White |
 | 49 | 695 | LisaJo Picken Buchanan |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Jonathan Kimbrough |
-| 52 | 659 | Rebecca Moulton Pinciaro |
+| 51 | 659 | Rebecca Moulton Pinciaro |
+| 52 | 659 | Jonathan Kimbrough |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
@@ -111,8 +111,8 @@
 | 103 | 382 | Marie-Pier Desjardins |
 | 104 | 373 | Joseph Guthrie |
 | 105 | 369 | Nope Young |
-| 106 | 358 | Lori Walker |
-| 107 | 358 | Nugget |
+| 106 | 358 | Nugget |
+| 107 | 358 | Lori Walker |
 | 108 | 353 | Tyler Terrific |
 | 109 | 352 | Monica Daley |
 | 110 | 344 | Livvy |
@@ -160,18 +160,18 @@
 | 152 | 240 | Peachy Fall |
 | 153 | 237 | Chris Bernstein |
 | 154 | 232 | Crystal Nicolette Moore |
-| 155 | 230 | Cursed Hag |
-| 156 | 230 | Autum Leigh |
+| 155 | 230 | Autum Leigh |
+| 156 | 230 | Cursed Hag |
 | 157 | 228 | J-Rizzle |
-| 158 | 227 | Alyssa Papen |
-| 159 | 227 | Swanky Fitline |
+| 158 | 227 | Swanky Fitline |
+| 159 | 227 | Alyssa Papen |
 | 160 | 225 | Damn Libra |
 | 161 | 224 | Matt Summer |
 | 162 | 223 | Antony Dwayne Beasley |
 | 163 | 223 | Kris Bartlett |
 | 164 | 222 | Joeliecea Cobb |
-| 165 | 221 | PurpleMoonMa |
-| 166 | 221 | Rheanda Weaskus |
+| 165 | 221 | Rheanda Weaskus |
+| 166 | 221 | PurpleMoonMa |
 | 167 | 220 | Matt Dell'Olio |
 | 168 | 218 | Casey Grabner |
 | 169 | 217 | Chaz Duncan |
@@ -218,8 +218,8 @@
 | 210 | 179 | blockstar |
 | 211 | 179 | TinyLegoRose |
 | 212 | 175 | Lorena Guerrero-Barron |
-| 213 | 174 | Rio Rocha |
-| 214 | 174 | JPW |
+| 213 | 174 | JPW |
+| 214 | 174 | Rio Rocha |
 | 215 | 172 | Gilles Lanctot |
 | 216 | 171 | Autumn Kumzi |
 | 217 | 167 | Cozy Balancer |
@@ -229,11 +229,11 @@
 | 221 | 166 | SammieJo Guy |
 | 222 | 165 | Jackie Marie |
 | 223 | 165 | Zappy Buildgrid |
-| 224 | 165 | Jackie Marie |
+| 224 | 165 | James Hurley Jr. |
 | 225 | 164 | 030Synner |
 | 226 | 163 | Kristina Black |
-| 227 | 162 | John Brunetti |
-| 228 | 162 | Joanna |
+| 227 | 162 | Joanna |
+| 228 | 162 | John Brunetti |
 | 229 | 161 | Jenny Wells-Oakley |
 | 230 | 160 | Brittany Marsh |
 | 231 | 160 | Laura Hosford |
@@ -353,9 +353,9 @@
 | 345 | 115 | Alexandra Karavias |
 | 346 | 114 | Jason Frehner |
 | 347 | 113 | Dandy Cascadefit |
-| 348 | 113 | @ |
-| 349 | 113 | Adam Randall |
-| 350 | 113 | Stephanie Mico |
+| 348 | 113 | Stephanie Mico |
+| 349 | 113 | @ |
+| 350 | 113 | Adam Randall |
 | 351 | 112 | Chris Alexinas |
 | 352 | 112 | Darrin Rubalcava |
 | 353 | 111 | Heather Bruce |

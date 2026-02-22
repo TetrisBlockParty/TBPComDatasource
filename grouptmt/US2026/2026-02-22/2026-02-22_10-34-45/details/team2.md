@@ -426,8 +426,8 @@
 | 418 | 500 | Sarah Ridenour |
 | 419 | 499 | Sarah Massey |
 | 420 | 498 | Rhonda Milstead |
-| 421 | 497 | June E Hanson |
-| 422 | 497 | Doowop40 |
+| 421 | 497 | Doowop40 |
+| 422 | 497 | June E Hanson |
 | 423 | 497 | Kimberly Randesi |
 | 424 | 496 | Blacc Blac |
 | 425 | 493 | Kara Gillen |
@@ -443,8 +443,8 @@
 | 435 | 487 | MrsCandyfine As Wine Truss |
 | 436 | 486 | Caitlin Schmid |
 | 437 | 485 | Mamachelle Eisweirth |
-| 438 | 485 | Michelle Fields |
-| 439 | 485 | Ann Matzkanin |
+| 438 | 485 | Ann Matzkanin |
+| 439 | 485 | Michelle Fields |
 | 440 | 485 | Dapper Dasher |
 | 441 | 484 | Brenna Ann |
 | 442 | 483 | Victor Obiakarije |
@@ -472,9 +472,9 @@
 | 464 | 466 | Koa N Sharon Chen |
 | 465 | 465 | Davetta Sanford |
 | 466 | 464 | snkylnk |
-| 467 | 463 | Jaye EL Hunter |
-| 468 | 463 | Sue Leard |
-| 469 | 463 | Cody Nishimura |
+| 467 | 463 | Cody Nishimura |
+| 468 | 463 | Jaye EL Hunter |
+| 469 | 463 | Sue Leard |
 | 470 | 462 | Jarboe |
 | 471 | 462 | Daphne Jordan |
 | 472 | 462 | Amanda Ferrell |
@@ -518,8 +518,8 @@
 | 510 | 429 | Christy Krissie |
 | 511 | 428 | Arkei Luster |
 | 512 | 428 | Shyenn Gadsby |
-| 513 | 427 | Destiny Cozier |
-| 514 | 427 | Quinn |
+| 513 | 427 | Quinn |
+| 514 | 427 | Destiny Cozier |
 | 515 | 427 | Kori Beth Babb |
 | 516 | 427 | Aimee Campbell |
 | 517 | 426 | Ashley Dow |
@@ -529,8 +529,8 @@
 | 521 | 424 | Mia Muse Best |
 | 522 | 423 | Sam |
 | 523 | 422 | coleksquad |
-| 524 | 421 | Vonceial Boone |
-| 525 | 421 | SwampRebel |
+| 524 | 421 | SwampRebel |
+| 525 | 421 | Vonceial Boone |
 | 526 | 420 | LaWanda Powell |
 | 527 | 419 | Pocho Zavala |
 | 528 | 419 | Josh Dill |
@@ -544,8 +544,8 @@
 | 536 | 413 | Biggest thing |
 | 537 | 413 | Lauren Fitzgerald Thomas |
 | 538 | 413 | Juanita Lyons |
-| 539 | 411 | Kristen O'Neal |
-| 540 | 411 | Mighty Spinbuilder |
+| 539 | 411 | Mighty Spinbuilder |
+| 540 | 411 | Kristen O'Neal |
 | 541 | 410 | Tara Lynn Janes |
 | 542 | 410 | Nicole Cannon |
 | 543 | 408 | Brandon Jones |
@@ -573,8 +573,8 @@
 | 565 | 394 | Taryece Gause |
 | 566 | 393 | Alexandra Weir |
 | 567 | 393 | Deyawn Smith |
-| 568 | 393 | Jamie West |
-| 569 | 393 | bbv |
+| 568 | 393 | bbv |
+| 569 | 393 | Jamie West |
 | 570 | 391 | Qiana Sanders |
 | 571 | 391 | Chilly Bridgepiece |
 | 572 | 391 | Anthony Huebel |
@@ -645,8 +645,8 @@
 | 637 | 361 | Lewis Sturgeon |
 | 638 | 360 | Jroc |
 | 639 | 359 | Cheyenne Donovan |
-| 640 | 358 | Alyssaaelena |
-| 641 | 358 | Sydney Busse |
+| 640 | 358 | Sydney Busse |
+| 641 | 358 | Alyssaaelena |
 | 642 | 357 | Shannon Byrd |
 | 643 | 357 | Tristan Szolek |
 | 644 | 355 | Amanda Perez |
@@ -679,8 +679,8 @@
 | 671 | 339 | Denise Rickman |
 | 672 | 338 | Janitta Alvarez |
 | 673 | 337 | Sassy Pattern |
-| 674 | 337 | Diallo Sparkman |
-| 675 | 337 | Tum |
+| 674 | 337 | Tum |
+| 675 | 337 | Diallo Sparkman |
 | 676 | 337 | Savannah Alexander |
 | 677 | 336 | bru |
 | 678 | 336 | Austin Wilson |
@@ -740,8 +740,8 @@
 | 732 | 308 | Hyper Riseclear |
 | 733 | 308 | Sarah block |
 | 734 | 308 | Katie Joy McCombs |
-| 735 | 307 | Peachy Blockbuilder |
-| 736 | 307 | stacey |
+| 735 | 307 | stacey |
+| 736 | 307 | Peachy Blockbuilder |
 | 737 | 306 | Kiorah Blaze |
 | 738 | 305 | Zany Clusterbuilder |
 | 739 | 305 | Narutofreak13 |
@@ -858,13 +858,13 @@
 | 850 | 264 | Nicki Stephens |
 | 851 | 264 | Sanaa Nounoussa |
 | 852 | 264 | Edna Combs |
-| 853 | 263 | Sunshine711 |
-| 854 | 263 | Amy Humphreys |
+| 853 | 263 | Amy Humphreys |
+| 854 | 263 | Sunshine711 |
 | 855 | 263 | Elizabeth Leinen |
 | 856 | 263 | Sara Pennington |
 | 857 | 262 | Taren Cowan |
-| 858 | 261 | Dany Murillo |
-| 859 | 261 | Gina Gina |
+| 858 | 261 | Gina Gina |
+| 859 | 261 | Dany Murillo |
 | 860 | 261 | MrsClaudette Will'sIam Matthews |
 | 861 | 260 | Giggly Snap |
 | 862 | 260 | Manny Trindade |
@@ -887,8 +887,8 @@
 | 879 | 258 | DesertDreamer24 |
 | 880 | 258 | Tee Jaleesa |
 | 881 | 257 | Mama T |
-| 882 | 257 | Jackie Jackie Lee |
-| 883 | 257 | Ys Muhammed |
+| 882 | 257 | Ys Muhammed |
+| 883 | 257 | Jackie Jackie Lee |
 | 884 | 256 | Gursharan Sandhu |
 | 885 | 256 | Brenna Yearian |
 | 886 | 256 | Nikki Vaughn |
@@ -910,8 +910,8 @@
 | 902 | 252 | Amanda Segura |
 | 903 | 252 | Layna Lyons |
 | 904 | 251 | Bold Clusterfit |
-| 905 | 251 | Regina Unruh |
-| 906 | 251 | Sveta Lana |
+| 905 | 251 | Sveta Lana |
+| 906 | 251 | Regina Unruh |
 | 907 | 251 | Emoniee Sa'niaya |
 | 908 | 251 | Kimmie Zimmerman-Rocha |
 | 909 | 251 | Chipper Dashpiece |
@@ -926,12 +926,12 @@
 | 918 | 248 | Angelina Marie |
 | 919 | 248 | CleverAngel |
 | 920 | 247 | Linda Miltenburg |
-| 921 | 247 | Karyn Yurcho Dooley |
-| 922 | 247 | Wizz |
+| 921 | 247 | Wizz |
+| 922 | 247 | Karyn Yurcho Dooley |
 | 923 | 246 | Stacey Tranchida |
 | 924 | 246 | Laura McConnell |
-| 925 | 245 | Lively Piecefit |
-| 926 | 245 | Cassi Owens |
+| 925 | 245 | Cassi Owens |
+| 926 | 245 | Lively Piecefit |
 | 927 | 245 | Mellissa Evans |
 | 928 | 245 | Abby Klaski |
 | 929 | 245 | Shindee |
@@ -1049,8 +1049,8 @@
 | 1041 | 219 | Cathy Bitters |
 | 1042 | 219 | Jenn Morin |
 | 1043 | 219 | Kimberly Ashley-Stevens |
-| 1044 | 218 | Shea Edison |
-| 1045 | 218 | Clever Dashgrid |
+| 1044 | 218 | Clever Dashgrid |
+| 1045 | 218 | Shea Edison |
 | 1046 | 217 | Christine Lockwood |
 | 1047 | 217 | Trisha Gallagher |
 | 1048 | 217 | Elizabeth Pearson |
@@ -1123,10 +1123,10 @@
 | 1115 | 204 | Lakeela Wise |
 | 1116 | 204 | Ali Gralski |
 | 1117 | 204 | Edralin Custodio |
-| 1118 | 202 | Joshua Yonker |
-| 1119 | 202 | BIG BABY |
-| 1120 | 201 | LintFunk |
-| 1121 | 201 | Jennifer Rajek |
+| 1118 | 202 | BIG BABY |
+| 1119 | 202 | Joshua Yonker |
+| 1120 | 201 | Jennifer Rajek |
+| 1121 | 201 | LintFunk |
 | 1122 | 201 | Betty Ruth Hale |
 | 1123 | 200 | Sara Silvernail-Kay |
 | 1124 | 200 | Rich Sullivan |
@@ -1167,7 +1167,7 @@
 | 1159 | 194 | Hyper Gridroll |
 | 1160 | 194 | Chilly Linkfall |
 | 1161 | 194 | Brenda |
-| 1162 | 194 | Chilly Linkfall |
+| 1162 | 194 | Snappy Slamdrop |
 | 1163 | 193 | Kristen Casale Berry |
 | 1164 | 193 | Spunky Dash |
 | 1165 | 193 | Tammie Siegfried |

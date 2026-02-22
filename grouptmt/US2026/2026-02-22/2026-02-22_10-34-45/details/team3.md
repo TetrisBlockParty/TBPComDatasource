@@ -110,8 +110,8 @@
 | 102 | 566 | Dolores Falco |
 | 103 | 565 | Rachael McClain Owens |
 | 104 | 565 | Patty Allen |
-| 105 | 562 | Louise Stacy Sisson |
-| 106 | 562 | Dave Herzog |
+| 105 | 562 | Dave Herzog |
+| 106 | 562 | Louise Stacy Sisson |
 | 107 | 559 | Morgan Martinez |
 | 108 | 549 | Nicole Myers |
 | 109 | 536 | Giddy Drop |
@@ -189,8 +189,8 @@
 | 181 | 353 | Shunta Jacobs |
 | 182 | 353 | Nora Rogers |
 | 183 | 348 | Chasity |
-| 184 | 347 | Nicole Flippo |
-| 185 | 347 | Jone |
+| 184 | 347 | Jone |
+| 185 | 347 | Nicole Flippo |
 | 186 | 346 | RickyG |
 | 187 | 343 | Ashley Raines |
 | 188 | 341 | Samantha Lynn |
@@ -238,8 +238,8 @@
 | 230 | 275 | Cassandra Bryant |
 | 231 | 274 | Tye Stovall |
 | 232 | 272 | Dee Franklin |
-| 233 | 271 | Ashley Muncey |
-| 234 | 271 | Cass Mendoza |
+| 233 | 271 | Cass Mendoza |
+| 234 | 271 | Ashley Muncey |
 | 235 | 269 | Trisha Balmer |
 | 236 | 267 | Terry Jo Jones |
 | 237 | 265 | Sarah Moyer |
@@ -311,8 +311,8 @@
 | 303 | 205 | Kirhonda Autmon |
 | 304 | 204 | Aerian Preston |
 | 305 | 203 | Angie Harper |
-| 306 | 202 | Tipsy Zonebuilder |
-| 307 | 202 | Staci George Fitzsimmons |
+| 306 | 202 | Staci George Fitzsimmons |
+| 307 | 202 | Tipsy Zonebuilder |
 | 308 | 201 | Alexmac |
 | 309 | 201 | Hyper Matchzone |
 | 310 | 201 | Daring Builder |
@@ -352,8 +352,8 @@
 | 344 | 170 | Tina Smith Roy |
 | 345 | 169 | Kristian Thurman |
 | 346 | 169 | Peachy Rollfit |
-| 347 | 168 | Trice Thomas |
-| 348 | 168 | April Matthew Kibble |
+| 347 | 168 | April Matthew Kibble |
+| 348 | 168 | Trice Thomas |
 | 349 | 167 | Shicken Nuggit |
 | 350 | 167 | Irene Arreguin |
 | 351 | 167 | Romeo |
@@ -383,8 +383,8 @@
 | 375 | 159 | Salena Whitlock |
 | 376 | 158 | Willow |
 | 377 | 157 | Katrina E Jelks |
-| 378 | 157 | Angel Mendez |
-| 379 | 157 | Wetwet |
+| 378 | 157 | Wetwet |
+| 379 | 157 | Angel Mendez |
 | 380 | 156 | Nichole Greene |
 | 381 | 155 | Michell Hendershott Jackson |
 | 382 | 155 | Michael Leblanc |
@@ -398,8 +398,8 @@
 | 390 | 152 | Bryan Byrd |
 | 391 | 151 | Sarah Cowan Burgos |
 | 392 | 150 | Sassy Brickmatch |
-| 393 | 149 | Arden White Kirsch |
-| 394 | 149 | FATTY |
+| 393 | 149 | Wacky Crasher |
+| 394 | 149 | Miranda Taylor |
 | 395 | 149 | Alexis Taylor |
 | 396 | 149 | Arden White Kirsch |
 | 397 | 149 | FATTY |

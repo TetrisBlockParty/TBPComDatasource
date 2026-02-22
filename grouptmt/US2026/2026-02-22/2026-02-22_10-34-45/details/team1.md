@@ -54,8 +54,8 @@
 | 46 | 671 | Lawrence Belanger |
 | 47 | 663 | Drew Magnus |
 | 48 | 646 | Susanna Guerry |
-| 49 | 635 | Angel Fowler |
-| 50 | 635 | Marianne Louise West |
+| 49 | 635 | Marianne Louise West |
+| 50 | 635 | Angel Fowler |
 | 51 | 631 | comrade fish |
 | 52 | 627 | Katie Daniels |
 | 53 | 614 | Snappy Swiper |
@@ -88,9 +88,9 @@
 | 80 | 406 | Yvonne Marie |
 | 81 | 401 | cc |
 | 82 | 400 | Cynthia Bradley |
-| 83 | 390 | Goose egg |
-| 84 | 390 | Lori Bales |
-| 85 | 390 | Candy Jones |
+| 83 | 390 | Candy Jones |
+| 84 | 390 | Goose egg |
+| 85 | 390 | Lori Bales |
 | 86 | 389 | Trina Gee |
 | 87 | 388 | Jennifer ManWarren |
 | 88 | 383 | Loony Fitzone |
@@ -120,13 +120,13 @@
 | 112 | 328 | Gracie |
 | 113 | 326 | Monica Donato |
 | 114 | 321 | Maria C. Hernandez |
-| 115 | 319 | Patrick Luckenbill |
-| 116 | 319 | Deanna L Hermanson |
+| 115 | 319 | Deanna L Hermanson |
+| 116 | 319 | Patrick Luckenbill |
 | 117 | 318 | Jessica Sheehan |
 | 118 | 316 | Ly Phethmany |
 | 119 | 313 | Tanya Carpenter-Reynolds |
-| 120 | 310 | Seth Wesson |
-| 121 | 310 | Jason Jones |
+| 120 | 310 | Jason Jones |
+| 121 | 310 | Seth Wesson |
 | 122 | 306 | Happy Basegrid |
 | 123 | 304 | Nicole Roseberry Weber |
 | 124 | 301 | Lehrin Maria |
@@ -134,16 +134,16 @@
 | 126 | 296 | Chelsea Dahlquist |
 | 127 | 290 | Death |
 | 128 | 285 | Ananda Mendez |
-| 129 | 284 | Rachael |
-| 130 | 284 | Emily Adelaide Wheatley |
+| 129 | 284 | Emily Adelaide Wheatley |
+| 130 | 284 | Rachael |
 | 131 | 283 | Franswa |
 | 132 | 282 | Snippy Wipebuilder |
 | 133 | 282 | Timothy Dew |
 | 134 | 282 | Cool Shiftsnap |
 | 135 | 280 | Sarah Roberts |
 | 136 | 276 | Dandy Basegrid |
-| 137 | 270 | Mandyy Rae |
-| 138 | 270 | Ash Galvan |
+| 137 | 270 | Ash Galvan |
+| 138 | 270 | Mandyy Rae |
 | 139 | 268 | GATOR |
 | 140 | 265 | SkipTheSadSauce |
 | 141 | 265 | Nutty Spinblock |
@@ -155,8 +155,8 @@
 | 147 | 256 | David Miller |
 | 148 | 255 | Elaine Elaine |
 | 149 | 254 | Al Smith Jr |
-| 150 | 253 | Plucky Fallzone |
-| 151 | 253 | Witty Builderfit |
+| 150 | 253 | Witty Builderfit |
+| 151 | 253 | Plucky Fallzone |
 | 152 | 252 | Dena Kayy |
 | 153 | 247 | Tana |
 | 154 | 244 | Tyler Werts |
