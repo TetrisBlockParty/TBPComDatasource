@@ -52,8 +52,8 @@
 | 44 | 646 | Jacqueline Helm |
 | 45 | 634 | Anthony Bryan Riva |
 | 46 | 632 | Kimyatta Cavin |
-| 47 | 630 | Dustee Craddock-Harrison |
-| 48 | 630 | Chilly Line |
+| 47 | 630 | Chilly Line |
+| 48 | 630 | Dustee Craddock-Harrison |
 | 49 | 627 | Jonathan Kimbrough |
 | 50 | 623 | Robin Getchel |
 | 51 | 614 | KM8 |
@@ -196,8 +196,8 @@
 | 188 | 173 | ThaEviLJeNiuZ |
 | 189 | 168 | TinyLegoRose |
 | 190 | 167 | Cozy Balancer |
-| 191 | 166 | Marvin Lou Martin |
-| 192 | 166 | SammieJo Guy |
+| 191 | 166 | SammieJo Guy |
+| 192 | 166 | Marvin Lou Martin |
 | 193 | 165 | James Hurley Jr. |
 | 194 | 165 | Jackie Marie |
 | 195 | 164 | 030Synner |

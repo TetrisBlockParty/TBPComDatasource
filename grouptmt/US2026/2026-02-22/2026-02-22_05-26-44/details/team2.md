@@ -478,8 +478,8 @@
 | 470 | 411 | Kristen O'Neal |
 | 471 | 410 | Nicole Cannon |
 | 472 | 408 | Abimbola Bimbo |
-| 473 | 408 | Brandon Jones |
-| 474 | 408 | Stefanie Zonzini-Gagliardi |
+| 473 | 408 | Stefanie Zonzini-Gagliardi |
+| 474 | 408 | Brandon Jones |
 | 475 | 406 | Erin StFrancis |
 | 476 | 404 | Snappy snappers |
 | 477 | 404 | Dawn L Washington-Feuquay |

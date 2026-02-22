@@ -335,8 +335,8 @@
 | 327 | 103 | Alex Gauthier |
 | 328 | 102 | Sarah Henniker |
 | 329 | 102 | Barrbaric |
-| 330 | 102 | Sarah Henniker |
-| 331 | 101 | Mizzledagod |
+| 330 | 102 | Marie White |
+| 331 | 101 | .running. |
 | 332 | 101 | Liliana Pena |
 | 333 | 101 | Mizzledagod |
 | 334 | 100 | Jessica Weed |

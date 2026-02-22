@@ -85,15 +85,15 @@
 | 77 | 628 | Tiff Vs Tiffany |
 | 78 | 626 | mjl574 |
 | 79 | 621 | Cherry Parker |
-| 80 | 618 | Brandon Green |
-| 81 | 618 | Katrina Schroeder |
+| 80 | 618 | Katrina Schroeder |
+| 81 | 618 | Brandon Green |
 | 82 | 613 | Amber Hughes |
 | 83 | 608 | Danielle Becker |
 | 84 | 591 | Jesse Olive |
 | 85 | 588 | yoyo |
 | 86 | 582 | Natasha Jones |
-| 87 | 582 | Speedy Bridger |
-| 88 | 582 | Jay Horn |
+| 87 | 582 | Jay Horn |
+| 88 | 582 | Speedy Bridger |
 | 89 | 581 | Danielle Mogg |
 | 90 | 576 | Dan Rob |
 | 91 | 566 | Dolores Falco |
@@ -110,8 +110,8 @@
 | 102 | 512 | Christine Niles |
 | 103 | 506 | Sashay Tapae Simpson |
 | 104 | 503 | Susan Valentino |
-| 105 | 502 | Justin Ritter |
-| 106 | 502 | Elissa S-k |
+| 105 | 502 | Elissa S-k |
+| 106 | 502 | Justin Ritter |
 | 107 | 500 | Kristie |
 | 108 | 500 | Domo Washington |
 | 109 | 497 | Mykal Burton |
@@ -134,8 +134,8 @@
 | 126 | 415 | ren |
 | 127 | 413 | Louise Stacy Sisson |
 | 128 | 411 | FuzzyNavel |
-| 129 | 410 | Stephanie Blkpep Davidson |
-| 130 | 410 | Stephanie Simpson |
+| 129 | 410 | Stephanie Simpson |
+| 130 | 410 | Stephanie Blkpep Davidson |
 | 131 | 409 | Karon Griffin |
 | 132 | 407 | Joye Sims Binion |
 | 133 | 405 | Michelle |
