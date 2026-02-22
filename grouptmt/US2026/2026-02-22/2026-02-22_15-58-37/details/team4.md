@@ -43,15 +43,15 @@
 | 35 | 873 | Elizabeth Sallas |
 | 36 | 871 | Denny Shives |
 | 37 | 846 | Christine Marie |
-| 38 | 843 | Lucille Truesdale |
-| 39 | 843 | Shelly Chandler |
+| 38 | 843 | Shelly Chandler |
+| 39 | 843 | Lucille Truesdale |
 | 40 | 834 | quicksand420 |
 | 41 | 829 | LisaJo Picken Buchanan |
 | 42 | 823 | Jae Job |
 | 43 | 818 | Marvin Lou Martin |
 | 44 | 798 | BertMofo |
-| 45 | 775 | Dee Kay |
-| 46 | 775 | Rebecca Moulton Pinciaro |
+| 45 | 775 | Rebecca Moulton Pinciaro |
+| 46 | 775 | Dee Kay |
 | 47 | 766 | Robin Watters |
 | 48 | 762 | TeeJ |
 | 49 | 757 | Ancient Intuition |
@@ -202,8 +202,8 @@
 | 194 | 221 | PurpleMoonMa |
 | 195 | 221 | Rheanda Weaskus |
 | 196 | 217 | Kim Hunt |
-| 197 | 216 | Cristy Duerksen |
-| 198 | 216 | ZeeZee |
+| 197 | 216 | ZeeZee |
+| 198 | 216 | Cristy Duerksen |
 | 199 | 216 | Chance Strickland |
 | 200 | 215 | Laura |
 | 201 | 215 | Ziggy |

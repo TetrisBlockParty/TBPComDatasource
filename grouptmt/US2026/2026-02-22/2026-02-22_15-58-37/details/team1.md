@@ -77,9 +77,9 @@
 | 69 | 492 | Lola Adkhambekovna |
 | 70 | 489 | Deanna L Hermanson |
 | 71 | 485 | Cartier |
-| 72 | 483 | Evie Khalil |
+| 72 | 483 | Ryan Lunnin |
 | 73 | 483 | MomMom |
-| 74 | 483 | Ryan Lunnin |
+| 74 | 483 | Evie Khalil |
 | 75 | 480 | Spunky Piecebuilder |
 | 76 | 480 | Nancy Green |
 | 77 | 472 | April Carroll |
@@ -124,8 +124,8 @@
 | 116 | 341 | Nick R Montague |
 | 117 | 341 | David Miller |
 | 118 | 334 | Jaimie Lynn |
-| 119 | 333 | Gracie |
-| 120 | 333 | Brandi Huntington |
+| 119 | 333 | Brandi Huntington |
+| 120 | 333 | Gracie |
 | 121 | 332 | Kristen Gideon |
 | 122 | 330 | Sweet Baker |
 | 123 | 326 | Monica Donato |
@@ -202,8 +202,8 @@
 | 194 | 226 | Kandae |
 | 195 | 225 | Bindi |
 | 196 | 224 | ParisandCory Champagne |
-| 197 | 223 | Erez Yosef |
-| 198 | 223 | Basment Living |
+| 197 | 223 | Basment Living |
+| 198 | 223 | Erez Yosef |
 | 199 | 222 | Debbie Davis |
 | 200 | 221 | Daring Fitclear |
 | 201 | 220 | Giddy Cascade |
@@ -563,8 +563,8 @@
 | 555 | 81 | Francesca Gee |
 | 556 | 81 | Giddy Glider |
 | 557 | 80 | Nutty Clusterline |
-| 558 | 80 | Tofy |
-| 559 | 80 | Matt Weierke |
+| 558 | 80 | Matt Weierke |
+| 559 | 80 | Tofy |
 | 560 | 80 | Shannon Guilloty |
 | 561 | 80 | Silly Patternblock |
 | 562 | 79 | Christine Smith |

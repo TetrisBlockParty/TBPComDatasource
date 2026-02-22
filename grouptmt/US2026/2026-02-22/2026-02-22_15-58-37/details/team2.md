@@ -113,8 +113,8 @@
 | 105 | 1555 | blarg |
 | 106 | 1535 | Donnie Hunt |
 | 107 | 1534 | Loopy Clusterbuilder |
-| 108 | 1516 | Stephen Stephen |
-| 109 | 1516 | Mindy Leigh Head |
+| 108 | 1516 | Mindy Leigh Head |
+| 109 | 1516 | Stephen Stephen |
 | 110 | 1513 | blackq |
 | 111 | 1507 | Stephanie Chapman |
 | 112 | 1507 | Linda Pierce |
@@ -294,8 +294,8 @@
 | 286 | 768 | Michele Morgan |
 | 287 | 767 | Ashley Lopez |
 | 288 | 764 | Pacynthia Williams |
-| 289 | 763 | Heather Causey |
-| 290 | 763 | Beth |
+| 289 | 763 | Beth |
+| 290 | 763 | Heather Causey |
 | 291 | 761 | Hyper Cluster |
 | 292 | 760 | Danielle Simmons |
 | 293 | 759 | Jojo Momma |
@@ -353,12 +353,12 @@
 | 345 | 664 | Sleepypanda67 |
 | 346 | 663 | Mandi Douglas Hilt |
 | 347 | 662 | Melissa Rebbe-Lehman |
-| 348 | 661 | BeQuo |
-| 349 | 661 | goofinoff |
+| 348 | 661 | goofinoff |
+| 349 | 661 | BeQuo |
 | 350 | 659 | Draizen Montrell Thomas |
 | 351 | 651 | Unica Rector |
-| 352 | 650 | Shiny Rollzone |
-| 353 | 650 | tejas25 |
+| 352 | 650 | tejas25 |
+| 353 | 650 | Shiny Rollzone |
 | 354 | 644 | Desiree Anderson |
 | 355 | 643 | Hoppy Brickmatch |
 | 356 | 640 | BYM4L |
@@ -690,18 +690,18 @@
 | 682 | 363 | Stephanie Fortune |
 | 683 | 362 | Veronics |
 | 684 | 362 | Snappy Matchbuilder |
-| 685 | 362 | Veronics |
-| 686 | 361 | Lewis Sturgeon |
-| 687 | 361 | Michelle Shrum |
-| 688 | 360 | Kacee Conrad Bock |
-| 689 | 360 | Jroc |
-| 690 | 359 | Court |
-| 691 | 359 | Cheyenne Donovan |
-| 692 | 358 | Alyssaaelena |
+| 685 | 362 | Janai Vrabel |
+| 686 | 361 | Michelle Shrum |
+| 687 | 361 | Lewis Sturgeon |
+| 688 | 360 | Jroc |
+| 689 | 360 | Kacee Conrad Bock |
+| 690 | 359 | Cheyenne Donovan |
+| 691 | 359 | Court |
+| 692 | 358 | Sydney Busse |
 | 693 | 358 | Frilly Fallzone |
-| 694 | 358 | Sydney Busse |
-| 695 | 357 | Tristan Szolek |
-| 696 | 357 | Shannon Byrd |
+| 694 | 358 | Alyssaaelena |
+| 695 | 357 | Shannon Byrd |
+| 696 | 357 | Tristan Szolek |
 | 697 | 357 | Chummy Blockbuilder |
 | 698 | 356 | Shorty |
 | 699 | 356 | Kelsey Sullivan |
@@ -758,8 +758,8 @@
 | 750 | 326 | Ann Knutson Anderson |
 | 751 | 325 | NickyBrooks |
 | 752 | 325 | Justin Hines |
-| 753 | 325 | Noel Tarmy |
-| 754 | 325 | August Hale |
+| 753 | 325 | August Hale |
+| 754 | 325 | Noel Tarmy |
 | 755 | 324 | Amanda Canterbury |
 | 756 | 324 | Britney M. |
 | 757 | 324 | Dale Haanpaa |
@@ -776,11 +776,11 @@
 | 768 | 320 | Tash Bell |
 | 769 | 320 | Mary Boss |
 | 770 | 319 | Cassie Newton |
-| 771 | 319 | RetroLemur |
-| 772 | 319 | Cheery Puzzler |
+| 771 | 319 | Cheery Puzzler |
+| 772 | 319 | RetroLemur |
 | 773 | 318 | Jennifer Mahon |
-| 774 | 317 | Ashlyn Berner |
-| 775 | 317 | Zombi3 |
+| 774 | 317 | Zombi3 |
+| 775 | 317 | Ashlyn Berner |
 | 776 | 317 | Aireka Roman |
 | 777 | 316 | Epic Spinfit |
 | 778 | 315 | MamaBear11 |
@@ -791,12 +791,12 @@
 | 783 | 313 | Snippy Block |
 | 784 | 313 | Jeffrey Barrows |
 | 785 | 313 | Donald Nowland |
-| 786 | 313 | Marina Linda |
-| 787 | 313 | Natasha Edmonds |
+| 786 | 313 | Natasha Edmonds |
+| 787 | 313 | Marina Linda |
 | 788 | 312 | Heather Renee Jeffers |
 | 789 | 312 | Kiorah Blaze |
-| 790 | 311 | Audra Williams |
-| 791 | 311 | SwifftFox |
+| 790 | 311 | SwifftFox |
+| 791 | 311 | Audra Williams |
 | 792 | 311 | Megan Phillips |
 | 793 | 310 | Cozy Drop |
 | 794 | 310 | Cheeky Brickmatch |
