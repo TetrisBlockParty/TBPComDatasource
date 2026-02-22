@@ -154,8 +154,8 @@
 | 146 | 1450 | Cody Smith-Candelaria |
 | 147 | 1418 | L3sli3 |
 | 148 | 1416 | Nancy Reid |
-| 149 | 1411 | Zappy Cascade |
-| 150 | 1411 | niecy |
+| 149 | 1411 | niecy |
+| 150 | 1411 | Zappy Cascade |
 | 151 | 1401 | Brandy Andre |
 | 152 | 1401 | Nett |
 | 153 | 1397 | Bussyiano Page |
@@ -868,8 +868,8 @@
 | 860 | 344 | Kelsey |
 | 861 | 343 | Alexandrea |
 | 862 | 343 | Victoria Marie Bunch |
-| 863 | 343 | Timothy Jesuwole |
-| 864 | 343 | Snappy Shatterfit |
+| 863 | 343 | Snappy Shatterfit |
+| 864 | 343 | Timothy Jesuwole |
 | 865 | 342 | Danielle DeLozier Plesec |
 | 866 | 342 | Theresa Sterrett |
 | 867 | 342 | SwifftFox |

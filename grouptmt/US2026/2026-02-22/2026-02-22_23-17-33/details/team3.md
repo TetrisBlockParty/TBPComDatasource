@@ -175,8 +175,8 @@
 | 167 | 484 | Dapper Snap |
 | 168 | 479 | Poppy Splitter |
 | 169 | 475 | Tessina Dewey-Mancino |
-| 170 | 471 | Rachel |
-| 171 | 471 | Mendoza Lee Christy |
+| 170 | 471 | Mendoza Lee Christy |
+| 171 | 471 | Rachel |
 | 172 | 470 | Logan Naccarato |
 | 173 | 469 | Melissa Orth Hunter |
 | 174 | 468 | Betty Ivy |
@@ -296,10 +296,10 @@
 | 288 | 291 | Carrie Huskey |
 | 289 | 289 | DidIdothat |
 | 290 | 287 | Sabrina Hardrick |
-| 291 | 282 | Hanna Kim |
-| 292 | 282 | LaShey Thompson |
-| 293 | 280 | Kaycee Kay |
-| 294 | 280 | Lizabeth Fox |
+| 291 | 282 | LaShey Thompson |
+| 292 | 282 | Hanna Kim |
+| 293 | 280 | Lizabeth Fox |
+| 294 | 280 | Kaycee Kay |
 | 295 | 279 | Foltz Lee Kelli |
 | 296 | 278 | Steffi Chris Dacones |
 | 297 | 278 | Rufus Lincoln |

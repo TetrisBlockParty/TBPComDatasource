@@ -105,8 +105,8 @@
 | 97 | 519 | Nugget |
 | 98 | 513 | Erin Thomas |
 | 99 | 513 | YoMomma |
-| 100 | 512 | Casey Jeffcoat |
-| 101 | 512 | Diana Houts |
+| 100 | 512 | Diana Houts |
+| 101 | 512 | Casey Jeffcoat |
 | 102 | 510 | Scott Jameson |
 | 103 | 500 | Rodney McMath Jr. |
 | 104 | 499 | Trista Leah |
@@ -139,12 +139,12 @@
 | 131 | 393 | Trish |
 | 132 | 393 | Carlton Unfiltered |
 | 133 | 392 | Cristy Duerksen |
-| 134 | 391 | Lush Linkfall |
-| 135 | 391 | Ramel Rhodes |
+| 134 | 391 | Ramel Rhodes |
+| 135 | 391 | Lush Linkfall |
 | 136 | 380 | Swanky Fitline |
 | 137 | 378 | Lucas J Sutton |
-| 138 | 377 | Jessica Bohlken |
-| 139 | 377 | Carrie Brian |
+| 138 | 377 | Carrie Brian |
+| 139 | 377 | Jessica Bohlken |
 | 140 | 376 | Kesha Brady |
 | 141 | 373 | Joseph Guthrie |
 | 142 | 371 | JIGsaw ~(•¿°)~ |
@@ -217,8 +217,8 @@
 | 209 | 267 | Kathy Brookins |
 | 210 | 267 | Holly |
 | 211 | 264 | Holly Jolly |
-| 212 | 261 | scott |
-| 213 | 261 | Dihcheese444 |
+| 212 | 261 | Dihcheese444 |
+| 213 | 261 | scott |
 | 214 | 258 | Jen Caldwell |
 | 215 | 257 | PeaceOs |
 | 216 | 257 | Cheery Risebuilder |
