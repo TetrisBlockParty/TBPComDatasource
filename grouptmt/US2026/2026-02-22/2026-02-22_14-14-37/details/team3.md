@@ -166,8 +166,8 @@
 | 158 | 403 | Scott Lindsay |
 | 159 | 401 | Katie Knaus |
 | 160 | 400 | Luciana Braganca Vieira |
-| 161 | 399 | Marcie Bressler |
-| 162 | 399 | Mcathen |
+| 161 | 399 | Mcathen |
+| 162 | 399 | Marcie Bressler |
 | 163 | 397 | Annie Déè |
 | 164 | 393 | Fallorina Susana |
 | 165 | 391 | Calista Jo Dickson |
@@ -300,8 +300,8 @@
 | 292 | 220 | Tosha Griffey |
 | 293 | 220 | rosy |
 | 294 | 218 | Michael Lucado |
-| 295 | 216 | Cheryl Hinch Tenbrook |
-| 296 | 216 | Twisty Brick LT |
+| 295 | 216 | Twisty Brick LT |
+| 296 | 216 | Cheryl Hinch Tenbrook |
 | 297 | 215 | IamJust Neyamijah Washington Sr. |
 | 298 | 214 | Amy Fuller Heaton |
 | 299 | 214 | Rebel124 |
@@ -315,8 +315,8 @@
 | 307 | 210 | Lizabeth Fox |
 | 308 | 210 | Criss |
 | 309 | 209 | Micayah Stevens |
-| 310 | 208 | AlsoJess |
-| 311 | 208 | Niki Dalrymple |
+| 310 | 208 | Niki Dalrymple |
+| 311 | 208 | AlsoJess |
 | 312 | 207 | angieelyn |
 | 313 | 207 | Jessica |
 | 314 | 207 | Daring Builder |
@@ -803,7 +803,7 @@
 | 795 | 84 | Justice 4 P |
 | 796 | 84 | Samantha Greco |
 | 797 | 83 | Bigmack |
-| 798 | 83 | Melissa Landsperger |
+| 798 | 83 | Bela PC |
 | 799 | 83 | Mandy |
 | 800 | 83 | Melissa Landsperger |
 | 801 | 83 | Kristina Marie |

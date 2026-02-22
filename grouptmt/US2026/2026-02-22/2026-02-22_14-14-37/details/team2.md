@@ -637,7 +637,7 @@
 | 629 | 376 | James Zaragoza |
 | 630 | 375 | Cecilia A Jenkins |
 | 631 | 374 | Amanda Perez |
-| 632 | 373 | Ashley Marie |
+| 632 | 373 | Hunter Connors |
 | 633 | 373 | Jessica Hughes |
 | 634 | 373 | Ashley Marie |
 | 635 | 372 | Lathasa Newkirk |
@@ -911,8 +911,8 @@
 | 903 | 264 | Edna Combs |
 | 904 | 264 | Ocean-Brianna McGregor |
 | 905 | 263 | Elizabeth Leinen |
-| 906 | 263 | Amy Humphreys |
-| 907 | 263 | Sunshine711 |
+| 906 | 263 | Sunshine711 |
+| 907 | 263 | Amy Humphreys |
 | 908 | 263 | Sara Pennington |
 | 909 | 262 | Elena Vap |
 | 910 | 262 | Squirrel |

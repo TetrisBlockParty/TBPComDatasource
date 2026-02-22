@@ -42,8 +42,8 @@
 | 34 | 873 | Elizabeth Sallas |
 | 35 | 871 | Denny Shives |
 | 36 | 846 | Christine Marie |
-| 37 | 843 | Lucille Truesdale |
-| 38 | 843 | Shelly Chandler |
+| 37 | 843 | Shelly Chandler |
+| 38 | 843 | Lucille Truesdale |
 | 39 | 834 | quicksand420 |
 | 40 | 818 | Marvin Lou Martin |
 | 41 | 811 | Jae Job |
@@ -90,8 +90,8 @@
 | 82 | 512 | Casey Jeffcoat |
 | 83 | 500 | Rodney McMath Jr. |
 | 84 | 493 | Judy Cox |
-| 85 | 488 | Jen Allison |
-| 86 | 488 | Avy Absol |
+| 85 | 488 | Avy Absol |
+| 86 | 488 | Jen Allison |
 | 87 | 486 | Carmethia Clemons Haslerig |
 | 88 | 468 | Shane Kalamata Platoon |
 | 89 | 448 | Kristin Manee |
@@ -113,8 +113,8 @@
 | 105 | 395 | Marie-Pier Desjardins |
 | 106 | 393 | Carlton Unfiltered |
 | 107 | 392 | Ericca Eldridge |
-| 108 | 391 | Monica Daley |
-| 109 | 391 | Ramel Rhodes |
+| 108 | 391 | Ramel Rhodes |
+| 109 | 391 | Monica Daley |
 | 110 | 387 | Denise Carlson |
 | 111 | 377 | Lori Walker |
 | 112 | 373 | Joseph Guthrie |
@@ -145,8 +145,8 @@
 | 137 | 283 | Brittney Orengo |
 | 138 | 281 | Meagan Nicole |
 | 139 | 281 | Lindsay Ball |
-| 140 | 278 | Leah Kutz Zirbel |
-| 141 | 278 | Carrie Brian |
+| 140 | 278 | Carrie Brian |
+| 141 | 278 | Leah Kutz Zirbel |
 | 142 | 277 | Mary Ann Pabukis |
 | 143 | 275 | Dizzy Tiley |
 | 144 | 274 | Calvin Cannon |
@@ -185,8 +185,8 @@
 | 177 | 224 | Matt Summer |
 | 178 | 223 | Antony Dwayne Beasley |
 | 179 | 222 | blockstar |
-| 180 | 221 | PurpleMoonMa |
-| 181 | 221 | Rheanda Weaskus |
+| 180 | 221 | Rheanda Weaskus |
+| 181 | 221 | PurpleMoonMa |
 | 182 | 221 | Jose Dejesus |
 | 183 | 217 | Angela Srubar-Norman |
 | 184 | 217 | Chaz Duncan |
@@ -216,10 +216,10 @@
 | 208 | 198 | Zesty Twistbuilder |
 | 209 | 198 | Keith Kelley |
 | 210 | 197 | Silly SeaWeed |
-| 211 | 196 | Oscar Alberto Perez |
-| 212 | 196 | Mr. Party |
-| 213 | 195 | 中山成巳 |
-| 214 | 195 | Malakai Darien Fox |
+| 211 | 196 | Mr. Party |
+| 212 | 196 | Oscar Alberto Perez |
+| 213 | 195 | Malakai Darien Fox |
+| 214 | 195 | 中山成巳 |
 | 215 | 194 | Zany Twisterfit |
 | 216 | 193 | Tina Martinez |
 | 217 | 193 | Rio Rocha |
@@ -278,8 +278,8 @@
 | 270 | 154 | Zany Shatterer |
 | 271 | 153 | Empress Oasis |
 | 272 | 153 | Lush Linkfall |
-| 273 | 152 | Angela Geist Jusinski |
-| 274 | 152 | Faja |
+| 273 | 152 | Faja |
+| 274 | 152 | Angela Geist Jusinski |
 | 275 | 151 | Joseph Pace |
 | 276 | 150 | KimoKoala |
 | 277 | 150 | Brandon Link |

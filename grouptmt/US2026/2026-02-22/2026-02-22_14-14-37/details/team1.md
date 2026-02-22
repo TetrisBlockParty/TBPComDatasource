@@ -55,8 +55,8 @@
 | 47 | 671 | Lawrence Belanger |
 | 48 | 663 | Drew Magnus |
 | 49 | 646 | Susanna Guerry |
-| 50 | 635 | Marianne Louise West |
-| 51 | 635 | Angel Fowler |
+| 50 | 635 | Angel Fowler |
+| 51 | 635 | Marianne Louise West |
 | 52 | 631 | comrade fish |
 | 53 | 627 | Katie Daniels |
 | 54 | 614 | Snappy Swiper |
@@ -95,14 +95,14 @@
 | 87 | 400 | Cynthia Bradley |
 | 88 | 399 | Nerdy Linkblock |
 | 89 | 397 | Tdub |
-| 90 | 390 | Lori Bales |
-| 91 | 390 | Goose egg |
-| 92 | 390 | Candy Jones |
+| 90 | 390 | Candy Jones |
+| 91 | 390 | Lori Bales |
+| 92 | 390 | Goose egg |
 | 93 | 389 | Trina Gee |
 | 94 | 383 | Loony Fitzone |
 | 95 | 382 | Jacqueline Williams |
-| 96 | 379 | Austin James |
-| 97 | 379 | Kimmie Kimms |
+| 96 | 379 | Kimmie Kimms |
+| 97 | 379 | Austin James |
 | 98 | 376 | lil mickey |
 | 99 | 374 | Tinah Montanna |
 | 100 | 364 | Shauna Loe |
@@ -130,8 +130,8 @@
 | 122 | 316 | Ly Phethmany |
 | 123 | 316 | Jennifer Hardman |
 | 124 | 316 | Dizzy Party |
-| 125 | 313 | Virginia Gray Floyd |
-| 126 | 313 | Tanya Carpenter-Reynolds |
+| 125 | 313 | Tanya Carpenter-Reynolds |
+| 126 | 313 | Virginia Gray Floyd |
 | 127 | 310 | Seth Wesson |
 | 128 | 308 | Sharon Reynolds |
 | 129 | 306 | Happy Basegrid |
@@ -140,8 +140,8 @@
 | 132 | 300 | Elaine Elaine |
 | 133 | 300 | Chelsea Dahlquist |
 | 134 | 298 | Erin Hodges Plumb |
-| 135 | 290 | Sarah Roberts |
-| 136 | 290 | Death |
+| 135 | 290 | Death |
+| 136 | 290 | Sarah Roberts |
 | 137 | 289 | David Miller |
 | 138 | 285 | Ananda Mendez |
 | 139 | 284 | Emily Adelaide Wheatley |
