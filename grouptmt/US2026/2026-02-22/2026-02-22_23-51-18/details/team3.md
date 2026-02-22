@@ -97,8 +97,8 @@
 | 89 | 860 | Sunny Rotater |
 | 90 | 849 | Danielle Becker |
 | 91 | 848 | Patricia Gadsden |
-| 92 | 838 | MissTaylor |
-| 93 | 838 | Sarajane Lokan |
+| 92 | 838 | Sarajane Lokan |
+| 93 | 838 | MissTaylor |
 | 94 | 831 | Angeline Joseph |
 | 95 | 830 | Stephanie Allmon |
 | 96 | 826 | Shane Wilson Jr. |
@@ -166,8 +166,8 @@
 | 158 | 517 | Denise Nardoni |
 | 159 | 516 | Elissa S-k |
 | 160 | 512 | Silly Twist |
-| 161 | 506 | Sashay Tapae Simpson |
-| 162 | 506 | Stephanie Blkpep Davidson |
+| 161 | 506 | Stephanie Blkpep Davidson |
+| 162 | 506 | Sashay Tapae Simpson |
 | 163 | 505 | Danielle Balcom |
 | 164 | 504 | Jennifer Lynn Fahrenholtz-Summers |
 | 165 | 502 | Snappy Balancer |
@@ -186,8 +186,8 @@
 | 178 | 465 | Tasha Schriewer |
 | 179 | 464 | Makelini Mausia |
 | 180 | 461 | Shunta Jacobs |
-| 181 | 460 | Danielle Allison |
-| 182 | 460 | Araceli Parra |
+| 181 | 460 | Araceli Parra |
+| 182 | 460 | Danielle Allison |
 | 183 | 458 | Danielle Rhoades |
 | 184 | 457 | Jim Mathews |
 | 185 | 455 | Bmo |
@@ -688,7 +688,7 @@
 | 680 | 129 | Christina Rotz Shows |
 | 681 | 129 | Amanda Neal |
 | 682 | 128 | Nerdy Lifter |
-| 683 | 128 | Courtney van der Kooy |
+| 683 | 128 | Katelyn Dorman |
 | 684 | 128 | Serenity |
 | 685 | 128 | Courtney van der Kooy |
 | 686 | 127 | Scidone Perez |

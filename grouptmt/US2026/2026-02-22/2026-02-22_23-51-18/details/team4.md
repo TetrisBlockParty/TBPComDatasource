@@ -97,8 +97,8 @@
 | 89 | 590 | Denise Carlson |
 | 90 | 568 | Chris Baggett |
 | 91 | 566 | Amelpss |
-| 92 | 561 | Amy Suckarieh |
-| 93 | 561 | H.R. Block |
+| 92 | 561 | H.R. Block |
+| 93 | 561 | Amy Suckarieh |
 | 94 | 557 | Carmethia Clemons Haslerig |
 | 95 | 533 | Samantha Peterson |
 | 96 | 531 | Zippy Gridlock |
@@ -112,8 +112,8 @@
 | 104 | 499 | Christina LR |
 | 105 | 499 | Trista Leah |
 | 106 | 488 | Jen Allison |
-| 107 | 487 | shar |
-| 108 | 487 | Alyssa Papen |
+| 107 | 487 | Alyssa Papen |
+| 108 | 487 | shar |
 | 109 | 481 | Serena Goodridge |
 | 110 | 478 | Chilly Crasher |
 | 111 | 476 | Matt Summer |
@@ -153,8 +153,8 @@
 | 145 | 368 | Brandon Crabbs |
 | 146 | 359 | Angela Srubar-Norman |
 | 147 | 358 | ThaEviLJeNiuZ |
-| 148 | 353 | Tyler Terrific |
-| 149 | 353 | Livvy |
+| 148 | 353 | Livvy |
+| 149 | 353 | Tyler Terrific |
 | 150 | 349 | Desi Desporte |
 | 151 | 348 | Silly Zonebuilder |
 | 152 | 348 | 🥔🥔 Spudz |

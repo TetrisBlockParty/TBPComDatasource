@@ -26,8 +26,8 @@
 | 18 | 1408 | Mara Hilker |
 | 19 | 1234 | Jennifer Cates |
 | 20 | 1215 | LaQuetta Faith Hines |
-| 21 | 1191 | Nerdy Linkblock |
-| 22 | 1191 | Roger Aschbrenner |
+| 21 | 1191 | Roger Aschbrenner |
+| 22 | 1191 | Nerdy Linkblock |
 | 23 | 1177 | Carolyn Smith |
 | 24 | 1145 | Tyler Alcock |
 | 25 | 1136 | Rahna Underwood |
@@ -61,8 +61,8 @@
 | 53 | 770 | Zappy Curvetile |
 | 54 | 767 | Kristen Roles Robben |
 | 55 | 752 | Jacqueline Williams |
-| 56 | 746 | Stef Hu |
-| 57 | 746 | TSwag |
+| 56 | 746 | TSwag |
+| 57 | 746 | Stef Hu |
 | 58 | 738 | Michelle Nicole |
 | 59 | 720 | Zippy Align |
 | 60 | 720 | Spunky Piecebuilder |
@@ -85,8 +85,8 @@
 | 77 | 552 | Aaron Garnett |
 | 78 | 551 | Greg Hart |
 | 79 | 535 | Denice Dee |
-| 80 | 534 | Loony Fitzone |
-| 81 | 534 | Cynthia Bradley |
+| 80 | 534 | Cynthia Bradley |
+| 81 | 534 | Loony Fitzone |
 | 82 | 524 | Erin Hodges Plumb |
 | 83 | 522 | Robert Benito |
 | 84 | 519 | Ryan Lunnin |
@@ -146,14 +146,14 @@
 | 138 | 364 | Shauna Loe |
 | 139 | 363 | Sharon Reynolds |
 | 140 | 361 | Tanya Carpenter-Reynolds |
-| 141 | 360 | Wisa |
-| 142 | 360 | phrmblk24 |
+| 141 | 360 | phrmblk24 |
+| 142 | 360 | Wisa |
 | 143 | 359 | Chirpy Smasher |
 | 144 | 357 | Amanda Johnson Huffman |
 | 145 | 357 | Jason Savage |
 | 146 | 353 | Josh Riemer |
-| 147 | 350 | Tipsy Strikerpiece |
-| 148 | 350 | Death |
+| 147 | 350 | Death |
+| 148 | 350 | Tipsy Strikerpiece |
 | 149 | 344 | Monica Donato |
 | 150 | 343 | Elaine Elaine |
 | 151 | 341 | Nick R Montague |
@@ -164,8 +164,8 @@
 | 156 | 333 | Gracie |
 | 157 | 332 | Lehrin Maria |
 | 158 | 325 | Dizzy Party |
-| 159 | 324 | Ananda Mendez |
-| 160 | 324 | Rat666 |
+| 159 | 324 | Rat666 |
+| 160 | 324 | Ananda Mendez |
 | 161 | 322 | Chelsea Dahlquist |
 | 162 | 318 | Jessica Sheehan |
 | 163 | 318 | Virginia Gray Floyd |
@@ -179,8 +179,8 @@
 | 171 | 309 | Jessi Sauer |
 | 172 | 307 | Sarah Roberts |
 | 173 | 307 | femmefatale |
-| 174 | 306 | Happy Basegrid |
-| 175 | 306 | Bloknboy |
+| 174 | 306 | Bloknboy |
+| 175 | 306 | Happy Basegrid |
 | 176 | 304 | David Lutcher |
 | 177 | 304 | Nicole Roseberry Weber |
 | 178 | 303 | Letson Melissa |
@@ -214,15 +214,15 @@
 | 206 | 267 | Cody Gates |
 | 207 | 267 | Debbie Kane |
 | 208 | 265 | Kandae |
-| 209 | 264 | Jen Nystrom |
-| 210 | 264 | Jenny Gingrich Fuentes |
+| 209 | 264 | Jenny Gingrich Fuentes |
+| 210 | 264 | Jen Nystrom |
 | 211 | 263 | Jessie Lynn |
 | 212 | 260 | Cheeky Pop |
 | 213 | 256 | Chris65 |
 | 214 | 256 | Standia Civil |
 | 215 | 255 | Speedy Liney |
-| 216 | 254 | Giggly Builderline |
-| 217 | 254 | Al Smith Jr |
+| 216 | 254 | Al Smith Jr |
+| 217 | 254 | Giggly Builderline |
 | 218 | 253 | Jamie Jury |
 | 219 | 252 | Dena Kayy |
 | 220 | 249 | Sam Williams |
