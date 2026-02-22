@@ -63,8 +63,8 @@
 | 55 | 909 | Jennifer |
 | 56 | 908 | Alanna Rogers |
 | 57 | 903 | Sarah Fehring |
-| 58 | 895 | Amanda L Baker |
-| 59 | 895 | Shonna Roberts |
+| 58 | 895 | Shonna Roberts |
+| 59 | 895 | Amanda L Baker |
 | 60 | 886 | Khristen AC |
 | 61 | 882 | Susan Valentino |
 | 62 | 874 | Jessica Pineda-Lopez |
@@ -177,8 +177,8 @@
 | 169 | 376 | Loopy Clusterer |
 | 170 | 374 | Sherry Ogden |
 | 171 | 371 | Michael Nowogorski |
-| 172 | 370 | Santeria Trece Candles |
-| 173 | 370 | Danielle Allison |
+| 172 | 370 | Danielle Allison |
+| 173 | 370 | Santeria Trece Candles |
 | 174 | 368 | Stephanie Woods |
 | 175 | 366 | Adrian Marcel Pate |
 | 176 | 362 | Darlene McMillan |
@@ -220,10 +220,10 @@
 | 212 | 301 | Chelsea Hall |
 | 213 | 300 | Sherika C. McDaniels |
 | 214 | 298 | MsBee |
-| 215 | 297 | Keis |
-| 216 | 297 | Jojo M |
-| 217 | 296 | Ammmmmmy |
-| 218 | 296 | Katrina Turner |
+| 215 | 297 | Jojo M |
+| 216 | 297 | Keis |
+| 217 | 296 | Katrina Turner |
+| 218 | 296 | Ammmmmmy |
 | 219 | 296 | Brandon Givens |
 | 220 | 295 | Marci Mize Fandrich |
 | 221 | 289 | DidIdothat |
@@ -242,11 +242,11 @@
 | 234 | 275 | Cassandra Bryant |
 | 235 | 274 | Tye Stovall |
 | 236 | 272 | Dee Franklin |
-| 237 | 271 | Cass Mendoza |
-| 238 | 271 | Ashley Muncey |
+| 237 | 271 | Ashley Muncey |
+| 238 | 271 | Cass Mendoza |
 | 239 | 271 | Grego Daniel |
-| 240 | 269 | Eon Harris |
-| 241 | 269 | Trisha Balmer |
+| 240 | 269 | Trisha Balmer |
+| 241 | 269 | Eon Harris |
 | 242 | 268 | Carrie Huskey |
 | 243 | 267 | Terry Jo Jones |
 | 244 | 263 | Brittany |
@@ -257,8 +257,8 @@
 | 249 | 260 | Grams |
 | 250 | 259 | Danielle Weikel |
 | 251 | 257 | Ashley Jones |
-| 252 | 256 | KayB |
-| 253 | 256 | Tiffany Davie |
+| 252 | 256 | Tiffany Davie |
+| 253 | 256 | KayB |
 | 254 | 252 | Roary Danner |
 | 255 | 251 | Nikki Pags |
 | 256 | 250 | fraulila |
@@ -274,13 +274,13 @@
 | 266 | 235 | Cozy Snaplink |
 | 267 | 235 | Brenda Schmid Wood |
 | 268 | 234 | Connie Mohler-Fair |
-| 269 | 233 | Josh Borquez |
-| 270 | 233 | Ray Lader |
+| 269 | 233 | Ray Lader |
+| 270 | 233 | Josh Borquez |
 | 271 | 232 | Donna |
 | 272 | 227 | Krystal Gerstberger |
 | 273 | 227 | Meowsa |
-| 274 | 225 | Dirtgirl27 |
-| 275 | 225 | Stephanie Hill |
+| 274 | 225 | Stephanie Hill |
+| 275 | 225 | Dirtgirl27 |
 | 276 | 225 | Steffi Chris Dacones |
 | 277 | 224 | Quirky Dropzone |
 | 278 | 221 | Vaners |
@@ -330,10 +330,10 @@
 | 322 | 193 | Clever Shiftsnap |
 | 323 | 193 | Lys |
 | 324 | 192 | Ryan Williams |
-| 325 | 192 | Melanie Sherwood |
-| 326 | 192 | Kelly Ann Child |
-| 327 | 191 | Philip Rock |
-| 328 | 191 | Becca Engle |
+| 325 | 192 | Kelly Ann Child |
+| 326 | 192 | Melanie Sherwood |
+| 327 | 191 | Becca Engle |
+| 328 | 191 | Philip Rock |
 | 329 | 189 | France Vézina |
 | 330 | 189 | Katie Leigh Blankenship |
 | 331 | 188 | Romeo |
@@ -349,9 +349,9 @@
 | 341 | 181 | Michael Johnson |
 | 342 | 181 | Denita Mungro |
 | 343 | 180 | Beth Ingham |
-| 344 | 179 | Rachel Napper |
-| 345 | 179 | April Matthew Kibble |
-| 346 | 179 | DanceLuvLaugh |
+| 344 | 179 | DanceLuvLaugh |
+| 345 | 179 | Rachel Napper |
+| 346 | 179 | April Matthew Kibble |
 | 347 | 178 | Jess Dearborn |
 | 348 | 178 | Jennifer Alvey |
 | 349 | 177 | Kristin Delibac Corrigan |
@@ -426,10 +426,10 @@
 | 418 | 147 | Kiki |
 | 419 | 147 | Erika Thornton |
 | 420 | 146 | Sdot |
-| 421 | 146 | Sara Dunn |
-| 422 | 146 | Wettnippz |
-| 423 | 144 | Blair Erin Waite |
-| 424 | 144 | Tenisha Semidey |
+| 421 | 146 | Wettnippz |
+| 422 | 146 | Sara Dunn |
+| 423 | 144 | Tenisha Semidey |
+| 424 | 144 | Blair Erin Waite |
 | 425 | 144 | Crystal Hine |
 | 426 | 143 | Deseree Ewing |
 | 427 | 142 | Erica Anderson |

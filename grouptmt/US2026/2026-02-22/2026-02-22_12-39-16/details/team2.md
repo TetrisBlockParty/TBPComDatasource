@@ -522,9 +522,9 @@
 | 514 | 438 | Kristi Biddinger |
 | 515 | 438 | Johnny Yeates |
 | 516 | 437 | Bubbly Snapfit |
-| 517 | 436 | Niceday |
-| 518 | 436 | SwampRebel |
-| 519 | 436 | Brenda Pierpoint |
+| 517 | 436 | Brenda Pierpoint |
+| 518 | 436 | Niceday |
+| 519 | 436 | SwampRebel |
 | 520 | 435 | James Louie |
 | 521 | 435 | Regina Young |
 | 522 | 433 | KayLynn Ogden McClelland |
@@ -604,8 +604,8 @@
 | 596 | 387 | Bold Brickster |
 | 597 | 385 | Tansaria Couch-Butler |
 | 598 | 384 | Mary Marie |
-| 599 | 384 | Kelly |
-| 600 | 384 | Party d |
+| 599 | 384 | Party d |
+| 600 | 384 | Kelly |
 | 601 | 383 | Jessica Conaway |
 | 602 | 383 | Smashanator |
 | 603 | 383 | Belle Mari |

@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Shelly Chandler |
-| 34 | 843 | Lucille Truesdale |
+| 33 | 843 | Lucille Truesdale |
+| 34 | 843 | Shelly Chandler |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -49,8 +49,8 @@
 | 41 | 766 | Robin Watters |
 | 42 | 757 | Ancient Intuition |
 | 43 | 736 | Goatimus Lombardi |
-| 44 | 707 | Rachel Anne |
-| 45 | 707 | Clarence Patawaran |
+| 44 | 707 | Clarence Patawaran |
+| 45 | 707 | Rachel Anne |
 | 46 | 704 | Crystal Carroll |
 | 47 | 698 | Anthony Bryan Riva |
 | 48 | 697 | Edward White |
@@ -249,8 +249,8 @@
 | 241 | 162 | John Brunetti |
 | 242 | 161 | Jenny Wells-Oakley |
 | 243 | 160 | Brittany Marsh |
-| 244 | 159 | Marcus Todd |
-| 245 | 159 | DonMega |
+| 244 | 159 | DonMega |
+| 245 | 159 | Marcus Todd |
 | 246 | 158 | Chair |
 | 247 | 157 | Paige Kittles |
 | 248 | 157 | KayM |
@@ -421,10 +421,10 @@
 | 413 | 99 | Heather Layne Smith |
 | 414 | 99 | Dapper Frame |
 | 415 | 99 | Dapper Caster |
-| 416 | 98 | Groovy Gridlock |
-| 417 | 98 | Hyper Builder |
-| 418 | 98 | Squeezy Pearsall |
-| 419 | 98 | LunaMoon |
+| 416 | 98 | Squeezy Pearsall |
+| 417 | 98 | LunaMoon |
+| 418 | 98 | Groovy Gridlock |
+| 419 | 98 | Hyper Builder |
 | 420 | 98 | Brenda Bird |
 | 421 | 97 | Brandon Crabbs |
 | 422 | 97 | Cool Gridzone |
