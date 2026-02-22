@@ -49,8 +49,8 @@
 | 41 | 757 | Ancient Intuition |
 | 42 | 747 | BertMofo |
 | 43 | 736 | Goatimus Lombardi |
-| 44 | 707 | Clarence Patawaran |
-| 45 | 707 | Rachel Anne |
+| 44 | 707 | Rachel Anne |
+| 45 | 707 | Clarence Patawaran |
 | 46 | 704 | Crystal Carroll |
 | 47 | 697 | Edward White |
 | 48 | 695 | LisaJo Picken Buchanan |
@@ -82,8 +82,8 @@
 | 74 | 512 | Casey Jeffcoat |
 | 75 | 511 | Michelle Marie |
 | 76 | 500 | Rodney McMath Jr. |
-| 77 | 486 | Landon Keith Graffeo |
-| 78 | 486 | Carmethia Clemons Haslerig |
+| 77 | 486 | Carmethia Clemons Haslerig |
+| 78 | 486 | Landon Keith Graffeo |
 | 79 | 485 | TeeJ |
 | 80 | 456 | TheNeesh50 |
 | 81 | 447 | Samantha Peterson |
@@ -127,13 +127,13 @@
 | 119 | 303 | Lauren Scott |
 | 120 | 300 | Jason Hart |
 | 121 | 298 | Lucas J Sutton |
-| 122 | 296 | Justin Hannigan |
-| 123 | 296 | HastyGrabber |
+| 122 | 296 | HastyGrabber |
+| 123 | 296 | Justin Hannigan |
 | 124 | 294 | Kesha Brady |
 | 125 | 290 | 🥔🥔 Spudz |
 | 126 | 287 | Shannon Ferrari |
-| 127 | 286 | shark tato |
-| 128 | 286 | Daria Rycewicz |
+| 127 | 286 | Daria Rycewicz |
+| 128 | 286 | shark tato |
 | 129 | 283 | Brittney Orengo |
 | 130 | 281 | Meagan Nicole |
 | 131 | 278 | Desi Desporte |
@@ -160,8 +160,8 @@
 | 152 | 240 | Peachy Fall |
 | 153 | 237 | Chris Bernstein |
 | 154 | 232 | Crystal Nicolette Moore |
-| 155 | 230 | Autum Leigh |
-| 156 | 230 | Cursed Hag |
+| 155 | 230 | Cursed Hag |
+| 156 | 230 | Autum Leigh |
 | 157 | 228 | J-Rizzle |
 | 158 | 227 | Swanky Fitline |
 | 159 | 227 | Alyssa Papen |
@@ -191,8 +191,8 @@
 | 183 | 201 | Melvin Baird |
 | 184 | 201 | Chance Strickland |
 | 185 | 200 | Laura |
-| 186 | 198 | Ruben Wheeler |
-| 187 | 198 | Keith Kelley |
+| 186 | 198 | Keith Kelley |
+| 187 | 198 | Ruben Wheeler |
 | 188 | 196 | Oscar Alberto Perez |
 | 189 | 196 | Mr. Party |
 | 190 | 195 | 中山成巳 |

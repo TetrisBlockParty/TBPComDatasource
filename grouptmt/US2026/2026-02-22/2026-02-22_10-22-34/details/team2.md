@@ -173,8 +173,8 @@
 | 165 | 1048 | PsychKIRAtrist |
 | 166 | 1047 | Amy Sayers |
 | 167 | 1045 | Lourisha |
-| 168 | 1043 | Suki Kaur |
-| 169 | 1043 | Brave Dropmatch |
+| 168 | 1043 | Brave Dropmatch |
+| 169 | 1043 | Suki Kaur |
 | 170 | 1035 | Sarah Freitas |
 | 171 | 1024 | Bri Lynn |
 | 172 | 1023 | Brainy Smurf |
@@ -293,8 +293,8 @@
 | 285 | 698 | Mighty Shatterfit |
 | 286 | 697 | Dreamy Blast |
 | 287 | 695 | Lakeysha Dortch |
-| 288 | 692 | Jennifer Casey-Kay |
-| 289 | 692 | Dannette Goldberg-Richards |
+| 288 | 692 | Dannette Goldberg-Richards |
+| 289 | 692 | Jennifer Casey-Kay |
 | 290 | 690 | Deborah Miller |
 | 291 | 689 | Giggy Blocker |
 | 292 | 688 | Tiara Elizabeth Baker |
@@ -303,8 +303,8 @@
 | 295 | 685 | Binyah-Binyah |
 | 296 | 681 | Melissa Holsinger |
 | 297 | 679 | Offonar Facey |
-| 298 | 679 | Brenda Utphall |
-| 299 | 679 | Dee |
+| 298 | 679 | Dee |
+| 299 | 679 | Brenda Utphall |
 | 300 | 679 | Kassandra Hunt |
 | 301 | 678 | Scott Treadway |
 | 302 | 677 | Mema |
@@ -342,8 +342,8 @@
 | 334 | 613 | Caitlyn Blackwell |
 | 335 | 613 | Ellie Jonas |
 | 336 | 611 | Em Chen |
-| 337 | 611 | Carl Bradshaw |
-| 338 | 611 | Julio A Laracuente |
+| 337 | 611 | Julio A Laracuente |
+| 338 | 611 | Carl Bradshaw |
 | 339 | 605 | Jelly |
 | 340 | 603 | Cassie Maynard |
 | 341 | 602 | KhaosLord |
@@ -500,10 +500,10 @@
 | 492 | 438 | Johnny Yeates |
 | 493 | 438 | Kristi Biddinger |
 | 494 | 437 | Bubbly Snapfit |
-| 495 | 436 | Brenda Pierpoint |
-| 496 | 436 | Niceday |
-| 497 | 435 | James Louie |
-| 498 | 435 | Regina Young |
+| 495 | 436 | Niceday |
+| 496 | 436 | Brenda Pierpoint |
+| 497 | 435 | Regina Young |
+| 498 | 435 | James Louie |
 | 499 | 433 | KayLynn Ogden McClelland |
 | 500 | 432 | Mikayala Szaz |
 | 501 | 432 | Steve Man |

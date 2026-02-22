@@ -63,8 +63,8 @@
 | 55 | 909 | Jennifer |
 | 56 | 908 | Alanna Rogers |
 | 57 | 903 | Sarah Fehring |
-| 58 | 895 | Amanda L Baker |
-| 59 | 895 | Shonna Roberts |
+| 58 | 895 | Shonna Roberts |
+| 59 | 895 | Amanda L Baker |
 | 60 | 886 | Khristen AC |
 | 61 | 874 | Jessica Pineda-Lopez |
 | 62 | 867 | Corie A. Brinson |
@@ -142,8 +142,8 @@
 | 134 | 454 | Makelini Mausia |
 | 135 | 453 | Silly Twist |
 | 136 | 449 | Danielle Rhoades |
-| 137 | 445 | Kristie McFarland |
-| 138 | 445 | Jacqueline Rodriguez |
+| 137 | 445 | Jacqueline Rodriguez |
+| 138 | 445 | Kristie McFarland |
 | 139 | 435 | Michelle |
 | 140 | 432 | Jenny Hrndz |
 | 141 | 428 | Betty Ivy |
@@ -194,8 +194,8 @@
 | 186 | 346 | RickyG |
 | 187 | 343 | Ashley Raines |
 | 188 | 341 | Samantha Lynn |
-| 189 | 338 | Leah Barnett |
-| 190 | 338 | Gumbo |
+| 189 | 338 | Gumbo |
+| 190 | 338 | Leah Barnett |
 | 191 | 332 | Rich LeBlanc |
 | 192 | 332 | Noyb Adam |
 | 193 | 330 | Rebecca Funderburk Kirby |
@@ -258,8 +258,8 @@
 | 250 | 256 | Tiffany Davie |
 | 251 | 251 | Sabrina Hardrick |
 | 252 | 250 | fraulila |
-| 253 | 249 | JerseyJess |
-| 254 | 249 | Annie Marie |
+| 253 | 249 | Annie Marie |
+| 254 | 249 | JerseyJess |
 | 255 | 247 | Carrie Huskey |
 | 256 | 246 | Eon Harris |
 | 257 | 246 | Peppy Shifter |
@@ -293,8 +293,8 @@
 | 285 | 214 | Amy Fuller Heaton |
 | 286 | 214 | Rebel124 |
 | 287 | 213 | Nicholas Roddy |
-| 288 | 212 | Sunny Rotater |
-| 289 | 212 | Desiree Gold |
+| 288 | 212 | Desiree Gold |
+| 289 | 212 | Sunny Rotater |
 | 290 | 211 | El Chapa |
 | 291 | 211 | Velma Mull |
 | 292 | 211 | Khaleada McGill Banks |
@@ -345,8 +345,8 @@
 | 337 | 176 | Melissa Orth Hunter |
 | 338 | 175 | Eileen Brady Thurber |
 | 339 | 174 | Lesley Perez |
-| 340 | 173 | Naur |
-| 341 | 173 | BŘŰŤİÇŨŚ |
+| 340 | 173 | BŘŰŤİÇŨŚ |
+| 341 | 173 | Naur |
 | 342 | 173 | MizzMonick Smith |
 | 343 | 170 | Steffi Chris Dacones |
 | 344 | 170 | Tina Smith Roy |
@@ -416,8 +416,8 @@
 | 408 | 146 | Sara Dunn |
 | 409 | 146 | Sdot |
 | 410 | 144 | Crystal Hine |
-| 411 | 144 | Tenisha Semidey |
-| 412 | 144 | Blair Erin Waite |
+| 411 | 144 | Blair Erin Waite |
+| 412 | 144 | Tenisha Semidey |
 | 413 | 143 | Deseree Ewing |
 | 414 | 142 | Frothy Snapper |
 | 415 | 142 | Erica Anderson |

@@ -104,8 +104,8 @@
 | 96 | 368 | Tdub |
 | 97 | 362 | Plucky Ziggy |
 | 98 | 359 | Chirpy Smasher |
-| 99 | 355 | Shauna Loe |
-| 100 | 355 | Hasbro Bros |
+| 99 | 355 | Hasbro Bros |
+| 100 | 355 | Shauna Loe |
 | 101 | 350 | Tipsy Strikerpiece |
 | 102 | 349 | Dee Perry |
 | 103 | 347 | pjbeta |
@@ -125,8 +125,8 @@
 | 117 | 318 | Jessica Sheehan |
 | 118 | 316 | Ly Phethmany |
 | 119 | 313 | Tanya Carpenter-Reynolds |
-| 120 | 310 | Jason Jones |
-| 121 | 310 | Seth Wesson |
+| 120 | 310 | Seth Wesson |
+| 121 | 310 | Jason Jones |
 | 122 | 306 | Happy Basegrid |
 | 123 | 304 | Nicole Roseberry Weber |
 | 124 | 301 | Lehrin Maria |
@@ -165,8 +165,8 @@
 | 157 | 241 | John J. Cronin |
 | 158 | 239 | Jamie Jury |
 | 159 | 232 | Jessi Sauer |
-| 160 | 230 | Billie Dawn Sparks |
-| 161 | 230 | Frothy Pattern |
+| 160 | 230 | Frothy Pattern |
+| 161 | 230 | Billie Dawn Sparks |
 | 162 | 229 | David Lutcher |
 | 163 | 226 | Kandae |
 | 164 | 226 | Sleepysloath5745 |
@@ -233,8 +233,8 @@
 | 225 | 179 | Erin Rosberg |
 | 226 | 178 | Chad Atchley |
 | 227 | 177 | Jacqueline Unique |
-| 228 | 177 | Perky Shiftsnap |
-| 229 | 177 | Irual Hctrab |
+| 228 | 177 | Irual Hctrab |
+| 229 | 177 | Perky Shiftsnap |
 | 230 | 176 | Mel Hogan |
 | 231 | 175 | John Barron |
 | 232 | 174 | Cheeky Pop |
@@ -400,8 +400,8 @@
 | 392 | 99 | Joe Coon |
 | 393 | 98 | Alfredo Vasquez |
 | 394 | 98 | Kirk Torrey |
-| 395 | 97 | Steve Bomkamp |
-| 396 | 97 | Edgar Algiere |
+| 395 | 97 | Edgar Algiere |
+| 396 | 97 | Steve Bomkamp |
 | 397 | 96 | Lisa Marie |
 | 398 | 95 | Jay Tressler |
 | 399 | 95 | Quirky Pusher |
