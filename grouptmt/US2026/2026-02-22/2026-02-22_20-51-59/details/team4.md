@@ -49,8 +49,8 @@
 | 41 | 886 | Dustin Robert |
 | 42 | 855 | Marvin Lou Martin |
 | 43 | 846 | Jae Job |
-| 44 | 846 | Lucille Truesdale |
-| 45 | 846 | Christine Marie |
+| 44 | 846 | Christine Marie |
+| 45 | 846 | Lucille Truesdale |
 | 46 | 843 | Shelly Chandler |
 | 47 | 839 | LisaJo Picken Buchanan |
 | 48 | 835 | TeeJ |
@@ -82,8 +82,8 @@
 | 74 | 647 | Shauna Havard |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 626 | Brittney Griggs |
-| 77 | 617 | Jason Hart |
-| 78 | 617 | Savannah Overdorf |
+| 77 | 617 | Savannah Overdorf |
+| 78 | 617 | Jason Hart |
 | 79 | 614 | TheNeesh50 |
 | 80 | 597 | Eric Mcgaughy |
 | 81 | 594 | Jamie Mann-Deichmann |
@@ -139,8 +139,8 @@
 | 131 | 373 | Joseph Guthrie |
 | 132 | 368 | Lucas J Sutton |
 | 133 | 357 | Trista Leah |
-| 134 | 354 | Jessica Lynn Cutlip |
-| 135 | 354 | Kesha Brady |
+| 134 | 354 | Kesha Brady |
+| 135 | 354 | Jessica Lynn Cutlip |
 | 136 | 353 | Livvy |
 | 137 | 353 | Tyler Terrific |
 | 138 | 344 | Lush Linkfall |
@@ -200,11 +200,11 @@
 | 192 | 266 | Chris Bernstein |
 | 193 | 265 | J-Rizzle |
 | 194 | 264 | Epic Curvetile |
-| 195 | 262 | Holly Jolly |
-| 196 | 262 | Joeliecea Cobb |
+| 195 | 262 | Joeliecea Cobb |
+| 196 | 262 | Holly Jolly |
 | 197 | 261 | scott |
-| 198 | 259 | Melvin Baird |
-| 199 | 259 | Sam Bishop |
+| 198 | 259 | Sam Bishop |
+| 199 | 259 | Melvin Baird |
 | 200 | 258 | Jen Caldwell |
 | 201 | 256 | Mylo Lipscomb |
 | 202 | 255 | Sue Joyce Staats |
@@ -275,8 +275,8 @@
 | 267 | 195 | 中山成巳 |
 | 268 | 195 | Snippy Puzzle |
 | 269 | 194 | Zany Twisterfit |
-| 270 | 193 | Stephme310 |
-| 271 | 193 | Shainne Brewer |
+| 270 | 193 | Shainne Brewer |
+| 271 | 193 | Stephme310 |
 | 272 | 192 | Andrew Dang |
 | 273 | 192 | Stella |
 | 274 | 191 | Earnest Thompson |
@@ -318,8 +318,8 @@
 | 310 | 163 | Cheaneen Livingston |
 | 311 | 163 | Montiette Mcglown |
 | 312 | 162 | Gwendolyn Pitcairn |
-| 313 | 162 | conceptCollector |
-| 314 | 162 | Victoria Faniel |
+| 313 | 162 | Victoria Faniel |
+| 314 | 162 | conceptCollector |
 | 315 | 162 | Chummy Towerzone |
 | 316 | 161 | Tanner Lund |
 | 317 | 160 | wombat |

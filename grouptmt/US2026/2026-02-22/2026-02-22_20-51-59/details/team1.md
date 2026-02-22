@@ -89,8 +89,8 @@
 | 81 | 489 | Deanna L Hermanson |
 | 82 | 486 | Tater |
 | 83 | 485 | Cartier |
-| 84 | 483 | MomMom |
-| 85 | 483 | Ryan Lunnin |
+| 84 | 483 | Ryan Lunnin |
+| 85 | 483 | MomMom |
 | 86 | 472 | April Carroll |
 | 87 | 471 | Jennifer ManWarren |
 | 88 | 466 | Hasbro Bros |
@@ -112,8 +112,8 @@
 | 104 | 417 | Lori Sanders- Davis |
 | 105 | 412 | Anaid Sanchez |
 | 106 | 411 | Luciano Moreira |
-| 107 | 409 | Yvonne Marie |
-| 108 | 409 | Dandy Basegrid |
+| 107 | 409 | Dandy Basegrid |
+| 108 | 409 | Yvonne Marie |
 | 109 | 395 | Nery Martinez |
 | 110 | 394 | Chris K |
 | 111 | 391 | Lori Bales |
@@ -169,11 +169,11 @@
 | 161 | 304 | Rachael |
 | 162 | 303 | Chelsea Dahlquist |
 | 163 | 302 | Mike Ames |
-| 164 | 298 | Danielle Little-Daugherty |
-| 165 | 298 | femmefatale |
+| 164 | 298 | femmefatale |
+| 165 | 298 | Danielle Little-Daugherty |
 | 166 | 296 | Madison Wicks |
-| 167 | 295 | Emily Adelaide Wheatley |
-| 168 | 295 | David Lutcher |
+| 167 | 295 | David Lutcher |
+| 168 | 295 | Emily Adelaide Wheatley |
 | 169 | 293 | Sarah Roberts |
 | 170 | 293 | Letson Melissa |
 | 171 | 289 | ALFD |

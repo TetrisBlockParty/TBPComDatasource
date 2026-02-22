@@ -177,8 +177,8 @@
 | 169 | 1216 | Nancy Reid |
 | 170 | 1211 | Lucky Ladybug |
 | 171 | 1207 | David Cudicio-Hayden |
-| 172 | 1192 | Ashley House |
-| 173 | 1192 | Denisha Dawkins |
+| 172 | 1192 | Denisha Dawkins |
+| 173 | 1192 | Ashley House |
 | 174 | 1180 | Ambyre Patterson |
 | 175 | 1177 | Joyce Johnson Vaughn |
 | 176 | 1174 | Jennifer Casey-Kay |
@@ -277,8 +277,8 @@
 | 269 | 883 | nikki |
 | 270 | 880 | Sam Joe |
 | 271 | 878 | Missie Lawson Gebhardt |
-| 272 | 875 | William Hunt |
-| 273 | 875 | Jamie Otero |
+| 272 | 875 | Jamie Otero |
+| 273 | 875 | William Hunt |
 | 274 | 874 | Giggy Blocker |
 | 275 | 872 | Felicia Lynn |
 | 276 | 867 | Peppy Zone |
@@ -357,8 +357,8 @@
 | 349 | 728 | Dylan Thomason |
 | 350 | 727 | Doowop40 |
 | 351 | 727 | Tom Riefer |
-| 352 | 725 | Charvi' Carter |
-| 353 | 725 | Vonceial Boone |
+| 352 | 725 | Vonceial Boone |
+| 353 | 725 | Charvi' Carter |
 | 354 | 717 | Melissa Holsinger |
 | 355 | 713 | Leslie Ann Carter |
 | 356 | 713 | Chelle |
@@ -419,8 +419,8 @@
 | 411 | 627 | Victoria Moore-Smith |
 | 412 | 626 | Steven Marshaun |
 | 413 | 626 | Demeka Dangerous-kisses Johnson |
-| 414 | 620 | Brandon Armstrong |
-| 415 | 620 | Traci Johnson |
+| 414 | 620 | Traci Johnson |
+| 415 | 620 | Brandon Armstrong |
 | 416 | 618 | Vanessa Moreno |
 | 417 | 617 | Darcy Mae |
 | 418 | 617 | Nicole Cannon |
@@ -461,15 +461,15 @@
 | 453 | 572 | Chris Wanner |
 | 454 | 571 | Emily Lyric Converse |
 | 455 | 570 | Lonne Emade |
-| 456 | 569 | Vaniel Glover |
-| 457 | 569 | Joseph Musick |
+| 456 | 569 | Joseph Musick |
+| 457 | 569 | Vaniel Glover |
 | 458 | 569 | Sparkles |
 | 459 | 567 | Irene Jones |
 | 460 | 566 | Leah Keesling |
 | 461 | 565 | Lyndi Robinson Wakefield |
 | 462 | 565 | Jaycee |
-| 463 | 563 | Sarah Massey |
-| 464 | 563 | snkylnk |
+| 463 | 563 | snkylnk |
+| 464 | 563 | Sarah Massey |
 | 465 | 562 | AISlop |
 | 466 | 559 | Blacc Blac |
 | 467 | 558 | Frisky Clearpiece |
@@ -495,8 +495,8 @@
 | 487 | 533 | Gauri Shrotriya |
 | 488 | 533 | Davetta Sanford |
 | 489 | 532 | Belle Mari |
-| 490 | 531 | Briana Alexander |
-| 491 | 531 | Aishah Brice |
+| 490 | 531 | Aishah Brice |
+| 491 | 531 | Briana Alexander |
 | 492 | 529 | Victoria Regina Girolami |
 | 493 | 528 | Sarah Berger |
 | 494 | 528 | Anita Rose Green |
@@ -709,8 +709,8 @@
 | 701 | 392 | Swanky Columnbuilder |
 | 702 | 391 | Jessica Conaway |
 | 703 | 391 | Chilly Bridgepiece |
-| 704 | 390 | Austin Wilson |
-| 705 | 390 | Cini |
+| 704 | 390 | Cini |
+| 705 | 390 | Austin Wilson |
 | 706 | 389 | AsnPryBoy83 |
 | 707 | 389 | Toni Whipple |
 | 708 | 388 | Sarah block |
@@ -809,8 +809,8 @@
 | 801 | 349 | Jenn Marie |
 | 802 | 349 | Kiorah Blaze |
 | 803 | 348 | Richard Horton |
-| 804 | 348 | stacey |
-| 805 | 348 | Sara Pennington |
+| 804 | 348 | Sara Pennington |
+| 805 | 348 | stacey |
 | 806 | 347 | Zesty Pivot |
 | 807 | 346 | Zappy Dropmatch |
 | 808 | 346 | Mary Boss |
