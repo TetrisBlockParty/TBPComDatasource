@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Shelly Chandler |
-| 34 | 843 | Lucille Truesdale |
+| 33 | 843 | Lucille Truesdale |
+| 34 | 843 | Shelly Chandler |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -56,8 +56,8 @@
 | 48 | 697 | Edward White |
 | 49 | 695 | LisaJo Picken Buchanan |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Jonathan Kimbrough |
-| 52 | 659 | Rebecca Moulton Pinciaro |
+| 51 | 659 | Rebecca Moulton Pinciaro |
+| 52 | 659 | Jonathan Kimbrough |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
@@ -129,8 +129,8 @@
 | 121 | 303 | Lauren Scott |
 | 122 | 300 | Jason Hart |
 | 123 | 298 | Lucas J Sutton |
-| 124 | 296 | HastyGrabber |
-| 125 | 296 | Justin Hannigan |
+| 124 | 296 | Justin Hannigan |
+| 125 | 296 | HastyGrabber |
 | 126 | 294 | Kesha Brady |
 | 127 | 290 | 🥔🥔 Spudz |
 | 128 | 289 | Jessica Lynn Cutlip |
@@ -237,7 +237,7 @@
 | 229 | 166 | SammieJo Guy |
 | 230 | 165 | Zappy Buildgrid |
 | 231 | 165 | James Hurley Jr. |
-| 232 | 165 | Zappy Buildgrid |
+| 232 | 165 | Jackie Marie |
 | 233 | 164 | 030Synner |
 | 234 | 163 | Kristina Black |
 | 235 | 162 | Joanna |

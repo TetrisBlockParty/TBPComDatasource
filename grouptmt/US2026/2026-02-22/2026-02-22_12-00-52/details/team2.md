@@ -107,8 +107,8 @@
 | 99 | 1535 | Donnie Hunt |
 | 100 | 1534 | Loopy Clusterbuilder |
 | 101 | 1534 | Laura Marie Pelletier |
-| 102 | 1516 | Stephen Stephen |
-| 103 | 1516 | Mindy Leigh Head |
+| 102 | 1516 | Mindy Leigh Head |
+| 103 | 1516 | Stephen Stephen |
 | 104 | 1513 | Jamie Main |
 | 105 | 1507 | Linda Pierce |
 | 106 | 1495 | blackq |
@@ -448,8 +448,8 @@
 | 440 | 489 | Cassie Mercer |
 | 441 | 489 | Osun Anuket Esu |
 | 442 | 488 | Christina Wsn |
-| 443 | 487 | Morgan Easter |
-| 444 | 487 | MrsCandyfine As Wine Truss |
+| 443 | 487 | MrsCandyfine As Wine Truss |
+| 444 | 487 | Morgan Easter |
 | 445 | 486 | Caitlin Schmid |
 | 446 | 485 | Mamachelle Eisweirth |
 | 447 | 485 | Ann Matzkanin |
@@ -529,10 +529,10 @@
 | 521 | 429 | Tabs Reichert |
 | 522 | 428 | Arkei Luster |
 | 523 | 428 | Shyenn Gadsby |
-| 524 | 427 | Quinn |
-| 525 | 427 | Destiny Cozier |
-| 526 | 427 | Aimee Campbell |
-| 527 | 427 | Kori Beth Babb |
+| 524 | 427 | Destiny Cozier |
+| 525 | 427 | Quinn |
+| 526 | 427 | Kori Beth Babb |
+| 527 | 427 | Aimee Campbell |
 | 528 | 426 | Ashley Dow |
 | 529 | 425 | Skyler Morgan |
 | 530 | 425 | Elisheva Mizrachi |
@@ -554,8 +554,8 @@
 | 546 | 413 | Fancy Twister |
 | 547 | 413 | Lauren Fitzgerald Thomas |
 | 548 | 412 | Jason H Baker |
-| 549 | 411 | Kristen O'Neal |
-| 550 | 411 | Mighty Spinbuilder |
+| 549 | 411 | Mighty Spinbuilder |
+| 550 | 411 | Kristen O'Neal |
 | 551 | 411 | Andrea Maher |
 | 552 | 410 | Nicole Cannon |
 | 553 | 410 | Alexandra Weir |
@@ -570,8 +570,8 @@
 | 562 | 404 | Goofy Catcher |
 | 563 | 403 | Goofy Dasher |
 | 564 | 401 | Moua Ying |
-| 565 | 401 | De Hawkins |
-| 566 | 401 | Taylor Flowers |
+| 565 | 401 | Taylor Flowers |
+| 566 | 401 | De Hawkins |
 | 567 | 400 | Joshua Self |
 | 568 | 400 | Michael Artis |
 | 569 | 400 | Tammy Allen |
@@ -584,9 +584,9 @@
 | 576 | 393 | Jamie West |
 | 577 | 393 | bbv |
 | 578 | 393 | Deyawn Smith |
-| 579 | 391 | Adam Simmons |
-| 580 | 391 | Chilly Bridgepiece |
-| 581 | 391 | Anthony Huebel |
+| 579 | 391 | Anthony Huebel |
+| 580 | 391 | Adam Simmons |
+| 581 | 391 | Chilly Bridgepiece |
 | 582 | 391 | Qiana Sanders |
 | 583 | 390 | Moist_B-hole |
 | 584 | 390 | Besma Ao |
@@ -709,8 +709,8 @@
 | 701 | 326 | Angela Murgia-Owen |
 | 702 | 325 | Justin Hines |
 | 703 | 325 | Mike73 |
-| 704 | 324 | Tasia Stinson |
-| 705 | 324 | Dale Haanpaa |
+| 704 | 324 | Dale Haanpaa |
+| 705 | 324 | Tasia Stinson |
 | 706 | 323 | Briana Alexander |
 | 707 | 322 | Lea Stewart |
 | 708 | 322 | Michelle Pike |
@@ -723,8 +723,8 @@
 | 715 | 319 | Prado |
 | 716 | 319 | RetroLemur |
 | 717 | 318 | Jennifer Mahon |
-| 718 | 317 | Zombi3 |
-| 719 | 317 | Ashlyn Berner |
+| 718 | 317 | Ashlyn Berner |
+| 719 | 317 | Zombi3 |
 | 720 | 317 | Aireka Roman |
 | 721 | 316 | Jenn Marie |
 | 722 | 316 | Epic Spinfit |
@@ -761,8 +761,8 @@
 | 753 | 302 | Kena T. Tanner |
 | 754 | 302 | Maxwell Escalera |
 | 755 | 300 | Alice Ball |
-| 756 | 300 | Warren Marleau |
-| 757 | 300 | Kacee Conrad Bock |
+| 756 | 300 | Kacee Conrad Bock |
+| 757 | 300 | Warren Marleau |
 | 758 | 299 | Cassie Newton |
 | 759 | 298 | Frilly Fallzone |
 | 760 | 298 | Lazy Riseclear |
@@ -984,8 +984,8 @@
 | 976 | 235 | Shantel Kelley |
 | 977 | 234 | Lonnie Brown |
 | 978 | 234 | Synn |
-| 979 | 234 | Trina Harrison |
-| 980 | 234 | Joanna L. Abad |
+| 979 | 234 | Joanna L. Abad |
+| 980 | 234 | Trina Harrison |
 | 981 | 234 | Jannan Haimour |
 | 982 | 233 | ItsJennifer Neriss |
 | 983 | 233 | Allison Hewitt |
@@ -1007,7 +1007,7 @@
 | 999 | 229 | Chyrisse Norton |
 | 1000 | 228 | Kandy Charmz |
 | 1001 | 228 | Dara |
-| 1002 | 228 | Asha Nichols-Collins |
+| 1002 | 228 | Yasmin Guzman |
 | 1003 | 228 | Lee |
 | 1004 | 228 | Asha Nichols-Collins |
 | 1005 | 227 | Sedo |

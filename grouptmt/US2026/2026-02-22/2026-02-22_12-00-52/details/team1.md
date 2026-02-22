@@ -54,8 +54,8 @@
 | 46 | 671 | Lawrence Belanger |
 | 47 | 663 | Drew Magnus |
 | 48 | 646 | Susanna Guerry |
-| 49 | 635 | Angel Fowler |
-| 50 | 635 | Marianne Louise West |
+| 49 | 635 | Marianne Louise West |
+| 50 | 635 | Angel Fowler |
 | 51 | 631 | comrade fish |
 | 52 | 627 | Katie Daniels |
 | 53 | 614 | Snappy Swiper |
@@ -189,8 +189,8 @@
 | 181 | 213 | Daring Fitclear |
 | 182 | 212 | Jaimie Lynn |
 | 183 | 211 | Marianita Garcia |
-| 184 | 210 | Letson Melissa |
-| 185 | 210 | Giggly Builderline |
+| 184 | 210 | Giggly Builderline |
+| 185 | 210 | Letson Melissa |
 | 186 | 209 | Debbie Davis |
 | 187 | 208 | Bouncy Grid |
 | 188 | 208 | Donna Addison Williams |
@@ -229,8 +229,8 @@
 | 221 | 187 | Amanda Johnson Huffman |
 | 222 | 186 | Margo Wagner |
 | 223 | 184 | Chris Sigurdson |
-| 224 | 183 | Andrew Boone |
-| 225 | 183 | Amy Hess |
+| 224 | 183 | Amy Hess |
+| 225 | 183 | Andrew Boone |
 | 226 | 182 | Phu ckalldems |
 | 227 | 180 | Jessie Lynn |
 | 228 | 180 | BigWeenie69 |
@@ -245,8 +245,8 @@
 | 237 | 177 | Perky Shiftsnap |
 | 238 | 177 | Sarah Marie |
 | 239 | 176 | Mel Hogan |
-| 240 | 175 | John Barron |
-| 241 | 175 | Kellie Tunstall |
+| 240 | 175 | Kellie Tunstall |
+| 241 | 175 | John Barron |
 | 242 | 174 | Cheeky Pop |
 | 243 | 173 | Gabrielle Louise Malloch |
 | 244 | 173 | Tiger Lily |
@@ -386,9 +386,9 @@
 | 378 | 105 | Eddie Dillon |
 | 379 | 105 | Bye Love |
 | 380 | 104 | Serina Marie |
-| 381 | 104 | Jamie Catlett |
-| 382 | 104 | Charla Pross-Fugleberg |
-| 383 | 103 | Timothy Danaher |
+| 381 | 104 | Charla Pross-Fugleberg |
+| 382 | 104 | Jamie Catlett |
+| 383 | 103 | Alex Gauthier |
 | 384 | 103 | Mariah Cornell |
 | 385 | 103 | Timothy Danaher |
 | 386 | 102 | Marie White |
