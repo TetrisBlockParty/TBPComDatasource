@@ -299,8 +299,8 @@
 | 291 | 844 | Terri McKelvey McKinley |
 | 292 | 843 | Alyssa Hileman |
 | 293 | 836 | Wakanda Forever |
-| 294 | 833 | Tim Dyer |
-| 295 | 833 | Moni Foxe |
+| 294 | 833 | Moni Foxe |
+| 295 | 833 | Tim Dyer |
 | 296 | 824 | Chirpy Staggerpiece |
 | 297 | 823 | SaraMarie Eveland |
 | 298 | 821 | Diallo Sparkman |
@@ -318,8 +318,8 @@
 | 310 | 796 | Angie Bolton Workman |
 | 311 | 790 | Brenda Pierpoint |
 | 312 | 790 | Jackie Lucas |
-| 313 | 787 | Lisa Ongtowasruk |
-| 314 | 787 | Laura McCarthey |
+| 313 | 787 | Laura McCarthey |
+| 314 | 787 | Lisa Ongtowasruk |
 | 315 | 782 | Beth |
 | 316 | 781 | Hong Tang |
 | 317 | 778 | Lola Contreras |

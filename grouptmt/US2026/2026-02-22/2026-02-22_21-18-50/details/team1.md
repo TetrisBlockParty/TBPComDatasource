@@ -90,8 +90,8 @@
 | 82 | 489 | Deanna L Hermanson |
 | 83 | 486 | Tater |
 | 84 | 485 | Cartier |
-| 85 | 483 | Ryan Lunnin |
-| 86 | 483 | MomMom |
+| 85 | 483 | MomMom |
+| 86 | 483 | Ryan Lunnin |
 | 87 | 472 | April Carroll |
 | 88 | 471 | Jennifer ManWarren |
 | 89 | 466 | Hasbro Bros |
@@ -219,8 +219,8 @@
 | 211 | 244 | Eddie Dillon |
 | 212 | 244 | Marianita Garcia |
 | 213 | 244 | LaFontaine Leslie |
-| 214 | 242 | John Kim |
-| 215 | 242 | Sam Williams |
+| 214 | 242 | Sam Williams |
+| 215 | 242 | John Kim |
 | 216 | 241 | John J. Cronin |
 | 217 | 240 | DaRascal |
 | 218 | 239 | Lacy Wolfe |
@@ -247,8 +247,8 @@
 | 239 | 223 | Thorne Shumate |
 | 240 | 223 | Erez Yosef |
 | 241 | 222 | Debbie Davis |
-| 242 | 221 | Amy Hess |
-| 243 | 221 | Daring Fitclear |
+| 242 | 221 | Daring Fitclear |
+| 243 | 221 | Amy Hess |
 | 244 | 220 | Bouncy Grid |
 | 245 | 219 | Chuck Gannon |
 | 246 | 219 | Negan Mallory Knoxx Spence |
@@ -327,10 +327,10 @@
 | 319 | 177 | Irual Hctrab |
 | 320 | 176 | Vivienne Carter |
 | 321 | 176 | Reesey Enyart |
-| 322 | 175 | Kellie Tunstall |
-| 323 | 175 | Gary Gobin |
-| 324 | 174 | Alex Gauthier |
-| 325 | 174 | Ariel Whittington |
+| 322 | 175 | Gary Gobin |
+| 323 | 175 | Kellie Tunstall |
+| 324 | 174 | Ariel Whittington |
+| 325 | 174 | Alex Gauthier |
 | 326 | 174 | Tavia |
 | 327 | 173 | Rico Rico |
 | 328 | 172 | Nathan Sealander |

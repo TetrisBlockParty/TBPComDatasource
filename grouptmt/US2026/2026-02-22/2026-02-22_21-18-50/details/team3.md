@@ -125,8 +125,8 @@
 | 117 | 625 | Amber Hughes |
 | 118 | 621 | Cherry Parker |
 | 119 | 618 | Bea Miles |
-| 120 | 595 | Giddy Drop |
-| 121 | 595 | Patricia White |
+| 120 | 595 | Patricia White |
+| 121 | 595 | Giddy Drop |
 | 122 | 593 | JerseyJess |
 | 123 | 585 | opf |
 | 124 | 583 | Karon Griffin |
@@ -136,8 +136,8 @@
 | 128 | 572 | CeceGeGe |
 | 129 | 569 | Daryn Elliott |
 | 130 | 568 | Rachael McClain Owens |
-| 131 | 562 | Dave Herzog |
-| 132 | 562 | Louise Stacy Sisson |
+| 131 | 562 | Louise Stacy Sisson |
+| 132 | 562 | Dave Herzog |
 | 133 | 558 | Nicole Myers |
 | 134 | 557 | Domo Washington |
 | 135 | 554 | Leah Barnett |
@@ -151,16 +151,16 @@
 | 143 | 517 | Denise Nardoni |
 | 144 | 516 | Elissa S-k |
 | 145 | 512 | Silly Twist |
-| 146 | 506 | Sashay Tapae Simpson |
-| 147 | 506 | Stephanie Blkpep Davidson |
+| 146 | 506 | Stephanie Blkpep Davidson |
+| 147 | 506 | Sashay Tapae Simpson |
 | 148 | 504 | Jennifer Lynn Fahrenholtz-Summers |
 | 149 | 501 | Patti Skiles |
 | 150 | 492 | Daira Largen |
 | 151 | 491 | Chauntee Alfrey-Cardinale |
-| 152 | 484 | Dapper Snap |
-| 153 | 484 | Samantha Greco |
-| 154 | 479 | Annie Marie |
-| 155 | 479 | Poppy Splitter |
+| 152 | 484 | Samantha Greco |
+| 153 | 484 | Dapper Snap |
+| 154 | 479 | Poppy Splitter |
+| 155 | 479 | Annie Marie |
 | 156 | 474 | Danielle Balcom |
 | 157 | 473 | Calista Jo Dickson |
 | 158 | 471 | Mendoza Lee Christy |
@@ -188,8 +188,8 @@
 | 180 | 432 | Luciana Braganca Vieira |
 | 181 | 432 | Jenny Hrndz |
 | 182 | 431 | Sarah Cowan Burgos |
-| 183 | 430 | Jeni Dow |
-| 184 | 430 | Joye Sims Binion |
+| 183 | 430 | Joye Sims Binion |
+| 184 | 430 | Jeni Dow |
 | 185 | 427 | Wendy Dearden |
 | 186 | 425 | Rochelle Hazelett |
 | 187 | 422 | Fallorina Susana |
@@ -214,8 +214,8 @@
 | 206 | 378 | Chris Bell |
 | 207 | 377 | Darlene McMillan |
 | 208 | 376 | Loopy Clusterer |
-| 209 | 372 | Giddy Twistbuilder |
-| 210 | 372 | Rich LeBlanc |
+| 209 | 372 | Rich LeBlanc |
+| 210 | 372 | Giddy Twistbuilder |
 | 211 | 369 | Sarah Moyer |
 | 212 | 369 | RickyG |
 | 213 | 368 | Stephanie Woods |
@@ -261,8 +261,8 @@
 | 253 | 312 | Charles Perrone |
 | 254 | 309 | Felicia Rocha |
 | 255 | 308 | Cynthia Herrmann Egland |
-| 256 | 307 | Blocked |
-| 257 | 307 | rnr junky |
+| 256 | 307 | rnr junky |
+| 257 | 307 | Blocked |
 | 258 | 304 | Marquita Sheard |
 | 259 | 302 | Gray Hicks |
 | 260 | 301 | Betty Rosas |
@@ -270,10 +270,10 @@
 | 262 | 299 | Angie Harper |
 | 263 | 298 | MsBee |
 | 264 | 298 | Grams |
-| 265 | 297 | Jojo M |
-| 266 | 297 | kacihall |
-| 267 | 296 | Hoppy Buildout |
-| 268 | 296 | Katrina Turner |
+| 265 | 297 | kacihall |
+| 266 | 297 | Jojo M |
+| 267 | 296 | Katrina Turner |
+| 268 | 296 | Hoppy Buildout |
 | 269 | 295 | Tiffany Davie |
 | 270 | 293 | Tye Stovall |
 | 271 | 292 | Cheeky Snapper |

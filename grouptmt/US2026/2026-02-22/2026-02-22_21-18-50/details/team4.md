@@ -67,23 +67,23 @@
 | 59 | 736 | Goatimus Lombardi |
 | 60 | 735 | Avy Absol |
 | 61 | 722 | Dustee Craddock-Harrison |
-| 62 | 721 | Edward White |
-| 63 | 721 | Chilly Line |
+| 62 | 721 | Chilly Line |
+| 63 | 721 | Edward White |
 | 64 | 712 | Anthony Bryan Riva |
 | 65 | 704 | Crystal Carroll |
 | 66 | 679 | D3TROITB0RN74 |
 | 67 | 671 | Kimyatta Cavin |
-| 68 | 664 | loulou |
-| 69 | 664 | Valerie Roberts |
+| 68 | 664 | Valerie Roberts |
+| 69 | 664 | loulou |
 | 70 | 659 | Jonathan Kimbrough |
 | 71 | 655 | Carolyn Wallace |
 | 72 | 654 | Julian Garcia |
-| 73 | 647 | KM8 |
-| 74 | 647 | Shauna Havard |
+| 73 | 647 | Shauna Havard |
+| 74 | 647 | KM8 |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 626 | Brittney Griggs |
-| 77 | 617 | Savannah Overdorf |
-| 78 | 617 | Jason Hart |
+| 77 | 617 | Jason Hart |
+| 78 | 617 | Savannah Overdorf |
 | 79 | 614 | TheNeesh50 |
 | 80 | 597 | Eric Mcgaughy |
 | 81 | 594 | Jamie Mann-Deichmann |
@@ -132,8 +132,8 @@
 | 124 | 404 | Courtney Cicoria |
 | 125 | 400 | Ericca Eldridge |
 | 126 | 393 | Carlton Unfiltered |
-| 127 | 391 | Ramel Rhodes |
-| 128 | 391 | Austin Owens |
+| 127 | 391 | Austin Owens |
+| 128 | 391 | Ramel Rhodes |
 | 129 | 391 | Nope Young |
 | 130 | 377 | Carrie Brian |
 | 131 | 373 | Joseph Guthrie |
@@ -161,8 +161,8 @@
 | 153 | 321 | Klo |
 | 154 | 320 | Lauren Scott |
 | 155 | 316 | Meagan Nicole |
-| 156 | 314 | Andy Cabral |
-| 157 | 314 | 🥔🥔 Spudz |
+| 156 | 314 | 🥔🥔 Spudz |
+| 157 | 314 | Andy Cabral |
 | 158 | 312 | Rafael Valentin |
 | 159 | 311 | Kristina Black |
 | 160 | 308 | Jeff Brian Gates |
@@ -269,17 +269,17 @@
 | 261 | 201 | Chaz |
 | 262 | 200 | Googenheim |
 | 263 | 199 | TinyLegoRose |
-| 264 | 198 | Silly SeaWeed |
-| 265 | 198 | Calvin Dennis |
+| 264 | 198 | Calvin Dennis |
+| 265 | 198 | Silly SeaWeed |
 | 266 | 198 | Angelito |
 | 267 | 197 | Gilles Lanctot |
 | 268 | 196 | Zany Shatterer |
 | 269 | 195 | 中山成巳 |
 | 270 | 194 | Zany Twisterfit |
-| 271 | 193 | Stephme310 |
-| 272 | 193 | Shainne Brewer |
-| 273 | 192 | Stella |
-| 274 | 192 | Andrew Dang |
+| 271 | 193 | Shainne Brewer |
+| 272 | 193 | Stephme310 |
+| 273 | 192 | Andrew Dang |
+| 274 | 192 | Stella |
 | 275 | 191 | Earnest Thompson |
 | 276 | 189 | 030Synner |
 | 277 | 187 | Cynthia Boudreau |
@@ -297,14 +297,14 @@
 | 289 | 175 | Lorena Guerrero-Barron |
 | 290 | 174 | Shane Vick |
 | 291 | 171 | Autumn Kumzi |
-| 292 | 170 | PeaceOs |
-| 293 | 170 | Elie Pean |
-| 294 | 169 | Daring Pivot |
-| 295 | 169 | Dante Korleon |
-| 296 | 169 | Jessica Atkinson |
+| 292 | 170 | Elie Pean |
+| 293 | 170 | PeaceOs |
+| 294 | 169 | Dante Korleon |
+| 295 | 169 | Jessica Atkinson |
+| 296 | 169 | Daring Pivot |
 | 297 | 169 | Ellen Durfee |
-| 298 | 168 | Kathy Allen |
-| 299 | 168 | Zippy Tilt |
+| 298 | 168 | Zippy Tilt |
+| 299 | 168 | Kathy Allen |
 | 300 | 167 | Jim Hart |
 | 301 | 166 | Megan Cutshaw |
 | 302 | 166 | KimoKoala |
