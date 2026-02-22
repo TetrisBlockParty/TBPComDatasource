@@ -142,15 +142,15 @@
 | 134 | 368 | Stephanie Woods |
 | 135 | 366 | Adrian Marcel Pate |
 | 136 | 365 | Logan Naccarato |
-| 137 | 355 | Tessina Dewey-Mancino |
-| 138 | 355 | Sherry Ogden |
+| 137 | 355 | Sherry Ogden |
+| 138 | 355 | Tessina Dewey-Mancino |
 | 139 | 348 | CeceGeGe |
-| 140 | 347 | Nicole Flippo |
-| 141 | 347 | Darlene McMillan |
+| 140 | 347 | Darlene McMillan |
+| 141 | 347 | Nicole Flippo |
 | 142 | 346 | Louise Stacy Sisson |
 | 143 | 343 | Chasity |
-| 144 | 328 | Aaron Pitkin |
-| 145 | 328 | Dapper Snap |
+| 144 | 328 | Dapper Snap |
+| 145 | 328 | Aaron Pitkin |
 | 146 | 328 | Jeni Dow |
 | 147 | 326 | Fancy Cascader |
 | 148 | 323 | Ashley Raines |
@@ -158,8 +158,8 @@
 | 150 | 317 | Ashley Tookes |
 | 151 | 316 | Rich LeBlanc |
 | 152 | 311 | Raya |
-| 153 | 307 | rnr junky |
-| 154 | 307 | Blocked |
+| 153 | 307 | Blocked |
+| 154 | 307 | rnr junky |
 | 155 | 300 | Sherika C. McDaniels |
 | 156 | 295 | Jim Mathews |
 | 157 | 293 | Poppy Splitter |

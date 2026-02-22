@@ -97,8 +97,8 @@
 | 89 | 305 | Patrick Luckenbill |
 | 90 | 304 | Nicole Roseberry Weber |
 | 91 | 303 | cc |
-| 92 | 301 | Hyper |
-| 93 | 301 | Lehrin Maria |
+| 92 | 301 | Lehrin Maria |
+| 93 | 301 | Hyper |
 | 94 | 298 | Carrie Beck Geartz |
 | 95 | 295 | Spunky Piecebuilder |
 | 96 | 293 | Adam Byrd |
