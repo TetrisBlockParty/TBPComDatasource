@@ -122,8 +122,8 @@
 | 114 | 625 | Shavette |
 | 115 | 625 | Amber Hughes |
 | 116 | 621 | Cherry Parker |
-| 117 | 618 | Bea Miles |
-| 118 | 618 | Kristie |
+| 117 | 618 | Kristie |
+| 118 | 618 | Bea Miles |
 | 119 | 595 | Patricia White |
 | 120 | 589 | Giddy Drop |
 | 121 | 583 | Karon Griffin |
@@ -190,8 +190,8 @@
 | 182 | 422 | Rochelle Hazelett |
 | 183 | 419 | Annie Déè |
 | 184 | 417 | Edwin Calvillo Jr. |
-| 185 | 416 | Staci George Fitzsimmons |
-| 186 | 416 | Shunta Jacobs |
+| 185 | 416 | Shunta Jacobs |
+| 186 | 416 | Staci George Fitzsimmons |
 | 187 | 415 | ren |
 | 188 | 413 | Fallorina Susana |
 | 189 | 410 | Stephanie Simpson |
@@ -233,8 +233,8 @@
 | 225 | 347 | Trisha Balmer |
 | 226 | 347 | Philip Rock |
 | 227 | 346 | Tamara Deherrera |
-| 228 | 344 | Rania Zaqout |
-| 229 | 344 | Roary Danner |
+| 228 | 344 | Roary Danner |
+| 229 | 344 | Rania Zaqout |
 | 230 | 343 | Ashley Raines |
 | 231 | 341 | Ashley Tookes |
 | 232 | 341 | Samantha Lynn |
@@ -263,8 +263,8 @@
 | 255 | 304 | Marquita Sheard |
 | 256 | 301 | Betty Rosas |
 | 257 | 299 | Angie Harper |
-| 258 | 298 | MsBee |
-| 259 | 298 | Grams |
+| 258 | 298 | Grams |
+| 259 | 298 | MsBee |
 | 260 | 297 | Jojo M |
 | 261 | 296 | Hoppy Buildout |
 | 262 | 296 | Katrina Turner |
@@ -303,9 +303,9 @@
 | 295 | 267 | April Matthew Kibble |
 | 296 | 266 | Quirky Dropzone |
 | 297 | 262 | Ray Lader |
-| 298 | 261 | Foltz Lee Kelli |
-| 299 | 261 | ROODBOY |
-| 300 | 261 | Angela Scott |
+| 298 | 261 | Angela Scott |
+| 299 | 261 | Foltz Lee Kelli |
+| 300 | 261 | ROODBOY |
 | 301 | 260 | France Vézina |
 | 302 | 259 | Kaycee Kay |
 | 303 | 258 | IamJust Neyamijah Washington Sr. |
@@ -330,8 +330,8 @@
 | 322 | 236 | Jess Bissett |
 | 323 | 236 | Lys |
 | 324 | 233 | Tony Waters |
-| 325 | 232 | Nicholas Roddy |
-| 326 | 232 | Donna |
+| 325 | 232 | Donna |
+| 326 | 232 | Nicholas Roddy |
 | 327 | 231 | Frothy Snapper |
 | 328 | 231 | Kevin Russell |
 | 329 | 231 | Kiki |

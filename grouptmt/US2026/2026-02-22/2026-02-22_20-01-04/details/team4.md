@@ -249,8 +249,8 @@
 | 241 | 213 | Rio Rocha |
 | 242 | 212 | Mike Solo |
 | 243 | 211 | Jenna McGeorge |
-| 244 | 210 | Dihcheese444 |
-| 245 | 210 | Adam Stephanie Parker |
+| 244 | 210 | Adam Stephanie Parker |
+| 245 | 210 | Dihcheese444 |
 | 246 | 209 | Ak Jones |
 | 247 | 208 | Oscar Alberto Perez |
 | 248 | 208 | Rebecca Morris |
@@ -288,10 +288,10 @@
 | 280 | 180 | Cozy Balancer |
 | 281 | 179 | AyeKay |
 | 282 | 175 | Lorena Guerrero-Barron |
-| 283 | 174 | BigSammy420 |
-| 284 | 174 | Shane Vick |
-| 285 | 171 | Autumn Kumzi |
-| 286 | 171 | June Hoffman |
+| 283 | 174 | Shane Vick |
+| 284 | 174 | BigSammy420 |
+| 285 | 171 | June Hoffman |
+| 286 | 171 | Autumn Kumzi |
 | 287 | 170 | Cynthia Boudreau |
 | 288 | 170 | Elie Pean |
 | 289 | 169 | Daring Pivot |
@@ -303,9 +303,9 @@
 | 295 | 166 | Jenny Wells-Oakley |
 | 296 | 166 | Megan Cutshaw |
 | 297 | 165 | ChasingZen |
-| 298 | 165 | Zappy Buildgrid |
+| 298 | 165 | Brittany Marsh |
 | 299 | 165 | Amanda Christine |
-| 300 | 165 | Brittany Marsh |
+| 300 | 165 | Zappy Buildgrid |
 | 301 | 164 | Marvetta Williams |
 | 302 | 163 | Joseph Edmonson |
 | 303 | 163 | Jason Bosco |
@@ -397,9 +397,9 @@
 | 389 | 136 | Jen Hallin |
 | 390 | 136 | Michelle Morris |
 | 391 | 135 | Joshua Guess |
-| 392 | 134 | Hyper Builder |
+| 392 | 134 | Kristin MacDonald |
 | 393 | 134 | Jobadia Steelerton |
-| 394 | 134 | Kristin MacDonald |
+| 394 | 134 | Hyper Builder |
 | 395 | 133 | Jesus Garcia |
 | 396 | 132 | No Strings Attached Ra |
 | 397 | 132 | Melissa Priest Sellers |

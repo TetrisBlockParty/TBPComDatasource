@@ -364,8 +364,8 @@
 | 356 | 697 | Ashle Scranton |
 | 357 | 697 | Dreamy Blast |
 | 358 | 695 | Mama T |
-| 359 | 695 | Lakeysha Dortch |
-| 360 | 695 | Dannette Goldberg-Richards |
+| 359 | 695 | Dannette Goldberg-Richards |
+| 360 | 695 | Lakeysha Dortch |
 | 361 | 691 | Joce Lynn |
 | 362 | 690 | Draizen Montrell Thomas |
 | 363 | 688 | ShinyRose |
@@ -463,8 +463,8 @@
 | 455 | 566 | Leah Keesling |
 | 456 | 565 | Lyndi Robinson Wakefield |
 | 457 | 565 | Jaycee |
-| 458 | 563 | snkylnk |
-| 459 | 563 | Sarah Massey |
+| 458 | 563 | Sarah Massey |
+| 459 | 563 | snkylnk |
 | 460 | 562 | AISlop |
 | 461 | 561 | Lonne Emade |
 | 462 | 559 | Blacc Blac |
@@ -604,8 +604,8 @@
 | 596 | 450 | Mike Aprilliano |
 | 597 | 450 | Rich Sullivan |
 | 598 | 449 | Kristi Biddinger |
-| 599 | 448 | Darlene Bowman |
-| 600 | 448 | Lina Sanders |
+| 599 | 448 | Lina Sanders |
+| 600 | 448 | Darlene Bowman |
 | 601 | 447 | Boozi |
 | 602 | 446 | Snazzy Basepiece |
 | 603 | 446 | NanDa Cruzan VI |
@@ -678,8 +678,8 @@
 | 670 | 403 | Kelly Meredeith |
 | 671 | 402 | B |
 | 672 | 401 | Beth Decker |
-| 673 | 400 | Tammy Allen |
-| 674 | 400 | Lathasa Newkirk |
+| 673 | 400 | Lathasa Newkirk |
+| 674 | 400 | Tammy Allen |
 | 675 | 399 | Court |
 | 676 | 398 | Witty Piecebuilder |
 | 677 | 398 | Heather Sawtelle-Mckenzie |
