@@ -213,8 +213,8 @@
 | 205 | 370 | Santeria Trece Candles |
 | 206 | 368 | Stephanie Woods |
 | 207 | 367 | Loopy Fallmatch |
-| 208 | 365 | Tiffany Ford |
-| 209 | 365 | Chummy Caster |
+| 208 | 365 | Chummy Caster |
+| 209 | 365 | Tiffany Ford |
 | 210 | 362 | Brandon Givens |
 | 211 | 361 | Staci George Fitzsimmons |
 | 212 | 360 | Sheila M Frazier |
@@ -281,11 +281,11 @@
 | 273 | 276 | _melisa223_ |
 | 274 | 275 | Cassandra Bryant |
 | 275 | 273 | Troy |
-| 276 | 272 | Tasha Wesson-Torrence |
-| 277 | 272 | fraulila |
-| 278 | 271 | Alexmac |
-| 279 | 271 | Grego Daniel |
-| 280 | 271 | Cass Mendoza |
+| 276 | 272 | fraulila |
+| 277 | 272 | Tasha Wesson-Torrence |
+| 278 | 271 | Cass Mendoza |
+| 279 | 271 | Alexmac |
+| 280 | 271 | Grego Daniel |
 | 281 | 269 | Micayah Stevens |
 | 282 | 268 | Krystal Gerstberger |
 | 283 | 267 | April Matthew Kibble |
@@ -315,9 +315,9 @@
 | 307 | 244 | LaNette Morgan |
 | 308 | 243 | Josh Borquez |
 | 309 | 241 | Angela Scott |
-| 310 | 240 | Desiree Gold |
+| 310 | 240 | Jimmie Clemons |
 | 311 | 240 | Eric Caccavale |
-| 312 | 240 | Jimmie Clemons |
+| 312 | 240 | Desiree Gold |
 | 313 | 238 | Niki Dalrymple |
 | 314 | 236 | Jess Bissett |
 | 315 | 236 | Lys |

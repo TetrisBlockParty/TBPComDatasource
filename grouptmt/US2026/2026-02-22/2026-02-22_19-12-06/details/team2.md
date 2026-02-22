@@ -159,8 +159,8 @@
 | 151 | 1296 | Kristin Ruest |
 | 152 | 1290 | Bussyiano Page |
 | 153 | 1286 | Altamirano Michael |
-| 154 | 1282 | Ashley Rose Frederick |
-| 155 | 1282 | Tanya Parsons |
+| 154 | 1282 | Tanya Parsons |
+| 155 | 1282 | Ashley Rose Frederick |
 | 156 | 1273 | Cool Rollpiece |
 | 157 | 1271 | Shandrica Lowe |
 | 158 | 1248 | Isabela Shaw |
@@ -340,8 +340,8 @@
 | 332 | 733 | Brenda Utphall |
 | 333 | 729 | Stephanie Lumanlan |
 | 334 | 729 | Aimee Campbell |
-| 335 | 727 | Tom Riefer |
-| 336 | 727 | Mandi Douglas Hilt |
+| 335 | 727 | Mandi Douglas Hilt |
+| 336 | 727 | Tom Riefer |
 | 337 | 724 | Deborah Miller |
 | 338 | 723 | Dylan Thomason |
 | 339 | 720 | Charvi' Carter |
@@ -641,14 +641,14 @@
 | 633 | 419 | Frilly Fallzone |
 | 634 | 418 | Dawn L Washington-Feuquay |
 | 635 | 417 | Lauren Fitzgerald Thomas |
-| 636 | 417 | Oscar Bernie |
-| 637 | 417 | Alexx Anaya |
-| 638 | 416 | Ricky Fortune |
-| 639 | 416 | Mo Shine On |
+| 636 | 417 | Alexx Anaya |
+| 637 | 417 | Oscar Bernie |
+| 638 | 416 | Mo Shine On |
+| 639 | 416 | Ricky Fortune |
 | 640 | 414 | Daniel Amos |
 | 641 | 414 | John |
-| 642 | 413 | Kimberly Ann |
-| 643 | 413 | Kristen O'Neal |
+| 642 | 413 | Kristen O'Neal |
+| 643 | 413 | Kimberly Ann |
 | 644 | 412 | Jason H Baker |
 | 645 | 411 | Jasmine Kenney |
 | 646 | 411 | Christina Ashley |

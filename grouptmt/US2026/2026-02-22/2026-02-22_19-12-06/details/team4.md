@@ -95,8 +95,8 @@
 | 87 | 539 | Chris Baggett |
 | 88 | 531 | Amelpss |
 | 89 | 531 | Dawn Alexander |
-| 90 | 513 | Erin Thomas |
-| 91 | 513 | YoMomma |
+| 90 | 513 | YoMomma |
+| 91 | 513 | Erin Thomas |
 | 92 | 512 | Casey Jeffcoat |
 | 93 | 507 | Denise Carlson |
 | 94 | 505 | Diana Houts |
@@ -143,8 +143,8 @@
 | 135 | 332 | Desi Desporte |
 | 136 | 332 | HastyGrabber |
 | 137 | 330 | David Lay |
-| 138 | 328 | Leslie Nicole |
-| 139 | 328 | Kris Bartlett |
+| 138 | 328 | Kris Bartlett |
+| 139 | 328 | Leslie Nicole |
 | 140 | 324 | Jessica Lynn Cutlip |
 | 141 | 323 | Daria Rycewicz |
 | 142 | 321 | Klo |
@@ -181,8 +181,8 @@
 | 173 | 269 | Nikki Rae Gordon |
 | 174 | 268 | Mimi |
 | 175 | 267 | Casey Grabner |
-| 176 | 267 | Holly |
-| 177 | 267 | Kathy Brookins |
+| 176 | 267 | Kathy Brookins |
+| 177 | 267 | Holly |
 | 178 | 266 | Laura |
 | 179 | 265 | Chris Bernstein |
 | 180 | 264 | Girl |
@@ -203,8 +203,8 @@
 | 195 | 245 | 23 |
 | 196 | 245 | Autum Leigh |
 | 197 | 245 | Andria Lynn |
-| 198 | 244 | Twisty Cascadezone |
-| 199 | 244 | Lindsey Gonzalez |
+| 198 | 244 | Lindsey Gonzalez |
+| 199 | 244 | Twisty Cascadezone |
 | 200 | 243 | Jose Dejesus |
 | 201 | 243 | Mr. Party |
 | 202 | 241 | Allen Lloyd |
