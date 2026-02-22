@@ -121,8 +121,8 @@
 | 113 | 235 | Lucas J Sutton |
 | 114 | 232 | Peachy Fall |
 | 115 | 231 | Chastity Mitchell |
-| 116 | 230 | Autum Leigh |
-| 117 | 230 | Daria Rycewicz |
+| 116 | 230 | Daria Rycewicz |
+| 117 | 230 | Autum Leigh |
 | 118 | 225 | Damn Libra |
 | 119 | 222 | Joeliecea Cobb |
 | 120 | 221 | Alyssa Papen |
@@ -134,8 +134,8 @@
 | 126 | 217 | Chaz Duncan |
 | 127 | 215 | Jessica Bohlken |
 | 128 | 214 | Monica Daley |
-| 129 | 212 | Mike Solo |
-| 130 | 212 | Calvin Cannon |
+| 129 | 212 | Calvin Cannon |
+| 130 | 212 | Mike Solo |
 | 131 | 211 | Twisty Cascadezone |
 | 132 | 210 | Swanky Fitline |
 | 133 | 207 | Scott Jameson |

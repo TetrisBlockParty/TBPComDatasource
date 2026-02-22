@@ -285,8 +285,8 @@
 | 277 | 549 | Kaylee McCafferty |
 | 278 | 547 | Giggy Blocker |
 | 279 | 544 | Leah Keesling |
-| 280 | 543 | Teresa Gillmore |
-| 281 | 543 | Adira Brown |
+| 280 | 543 | Adira Brown |
+| 281 | 543 | Teresa Gillmore |
 | 282 | 542 | Slip |
 | 283 | 535 | Jessie McDougald |
 | 284 | 535 | Paul Huber |
@@ -343,8 +343,8 @@
 | 335 | 465 | Blacc Blac |
 | 336 | 463 | Sue Leard |
 | 337 | 460 | Cody Smith-Candelaria |
-| 338 | 459 | Doowop40 |
-| 339 | 459 | Brainy Smurf |
+| 338 | 459 | Brainy Smurf |
+| 339 | 459 | Doowop40 |
 | 340 | 458 | Casper The Chonk |
 | 341 | 455 | Sam Joe |
 | 342 | 454 | Nashu |
