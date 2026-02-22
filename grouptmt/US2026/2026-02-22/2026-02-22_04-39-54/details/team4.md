@@ -49,8 +49,8 @@
 | 41 | 646 | Jacqueline Helm |
 | 42 | 634 | Anthony Bryan Riva |
 | 43 | 632 | Kimyatta Cavin |
-| 44 | 630 | Chilly Line |
-| 45 | 630 | Dustee Craddock-Harrison |
+| 44 | 630 | Dustee Craddock-Harrison |
+| 45 | 630 | Chilly Line |
 | 46 | 627 | Jonathan Kimbrough |
 | 47 | 614 | KM8 |
 | 48 | 614 | Robin Getchel |
@@ -175,12 +175,12 @@
 | 167 | 188 | Andria Lynn |
 | 168 | 186 | Holly |
 | 169 | 185 | Lori |
-| 170 | 185 | Diana Houts |
-| 171 | 185 | Andy Cabral |
+| 170 | 185 | Andy Cabral |
+| 171 | 185 | Diana Houts |
 | 172 | 184 | Ak Jones |
-| 173 | 181 | Alan George LaRage |
+| 173 | 181 | Klo |
 | 174 | 181 | Carter Jones |
-| 175 | 181 | Klo |
+| 175 | 181 | Alan George LaRage |
 | 176 | 180 | Orchislactea |
 | 177 | 179 | blockstar |
 | 178 | 176 | Zethra Prenisha Rahming |

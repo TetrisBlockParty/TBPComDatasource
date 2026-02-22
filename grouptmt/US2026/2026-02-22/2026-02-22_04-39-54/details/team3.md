@@ -48,8 +48,8 @@
 | 40 | 1015 | Amber Jones |
 | 41 | 1012 | Danielle Cutler |
 | 42 | 998 | Liv Whetson |
-| 43 | 989 | Kay |
-| 44 | 989 | Joey Banks |
+| 43 | 989 | Joey Banks |
+| 44 | 989 | Kay |
 | 45 | 968 | Stephanie Rice |
 | 46 | 935 | Snappy Fitzone |
 | 47 | 931 | Fancy Slam |

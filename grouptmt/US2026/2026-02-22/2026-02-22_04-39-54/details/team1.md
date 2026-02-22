@@ -130,8 +130,8 @@
 | 122 | 263 | Sharon Reynolds |
 | 123 | 263 | Jason Jones |
 | 124 | 256 | David Miller |
-| 125 | 252 | Elaine Elaine |
-| 126 | 252 | Dena Kayy |
+| 125 | 252 | Dena Kayy |
+| 126 | 252 | Elaine Elaine |
 | 127 | 249 | Kimmie Kimms |
 | 128 | 247 | Tana |
 | 129 | 243 | Chelsea Dahlquist |
@@ -156,8 +156,8 @@
 | 148 | 210 | Giggly Builderline |
 | 149 | 208 | Bouncy Grid |
 | 150 | 207 | Leslie Bush Yarbrough |
-| 151 | 206 | BadG52 |
-| 152 | 206 | Kimberly Garcia |
+| 151 | 206 | Kimberly Garcia |
+| 152 | 206 | BadG52 |
 | 153 | 205 | Tater |
 | 154 | 204 | Lacy Wolfe |
 | 155 | 203 | Paula Martin |
@@ -179,8 +179,8 @@
 | 171 | 189 | Jeanna Dunn |
 | 172 | 187 | Snippy Wipebuilder |
 | 173 | 187 | Jennifer Olewnik Soborowski |
-| 174 | 186 | Margo Wagner |
-| 175 | 186 | Erin Hodges Plumb |
+| 174 | 186 | Erin Hodges Plumb |
+| 175 | 186 | Margo Wagner |
 | 176 | 181 | Arianna O'Brien |
 | 177 | 180 | BigWeenie69 |
 | 178 | 180 | Erez Yosef |
