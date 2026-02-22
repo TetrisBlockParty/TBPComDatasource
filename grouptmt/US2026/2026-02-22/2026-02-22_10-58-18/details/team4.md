@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Shelly Chandler |
-| 34 | 843 | Lucille Truesdale |
+| 33 | 843 | Lucille Truesdale |
+| 34 | 843 | Shelly Chandler |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -56,8 +56,8 @@
 | 48 | 697 | Edward White |
 | 49 | 695 | LisaJo Picken Buchanan |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Jonathan Kimbrough |
-| 52 | 659 | Rebecca Moulton Pinciaro |
+| 51 | 659 | Rebecca Moulton Pinciaro |
+| 52 | 659 | Jonathan Kimbrough |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
@@ -145,9 +145,9 @@
 | 137 | 274 | Calvin Cannon |
 | 138 | 272 | Keshia Lyons |
 | 139 | 271 | Sarah Brown |
-| 140 | 264 | Epic Curvetile |
+| 140 | 264 | Girl |
 | 141 | 264 | Dana Scott |
-| 142 | 264 | Girl |
+| 142 | 264 | Epic Curvetile |
 | 143 | 262 | Holly Jolly |
 | 144 | 258 | Bio Nelly |
 | 145 | 256 | Mylo Lipscomb |
@@ -170,8 +170,8 @@
 | 162 | 223 | Kris Bartlett |
 | 163 | 223 | Antony Dwayne Beasley |
 | 164 | 222 | Joeliecea Cobb |
-| 165 | 221 | PurpleMoonMa |
-| 166 | 221 | Rheanda Weaskus |
+| 165 | 221 | Rheanda Weaskus |
+| 166 | 221 | PurpleMoonMa |
 | 167 | 220 | Matt Dell'Olio |
 | 168 | 218 | Casey Grabner |
 | 169 | 217 | Chaz Duncan |
@@ -201,8 +201,8 @@
 | 193 | 195 | ZeeZee |
 | 194 | 194 | Zany Twisterfit |
 | 195 | 192 | Shauna Havard |
-| 196 | 191 | Klo |
-| 197 | 191 | Sam Bishop |
+| 196 | 191 | Sam Bishop |
+| 197 | 191 | Klo |
 | 198 | 190 | Alan George LaRage |
 | 199 | 190 | Cheery Risebuilder |
 | 200 | 189 | Stacey Stano |
@@ -235,8 +235,8 @@
 | 227 | 162 | Joanna |
 | 228 | 162 | John Brunetti |
 | 229 | 161 | Jenny Wells-Oakley |
-| 230 | 160 | Brittany Marsh |
-| 231 | 160 | Laura Hosford |
+| 230 | 160 | Laura Hosford |
+| 231 | 160 | Brittany Marsh |
 | 232 | 159 | Marcus Todd |
 | 233 | 158 | Chair |
 | 234 | 158 | Avy Absol |
@@ -329,10 +329,10 @@
 | 321 | 125 | Steph Marie |
 | 322 | 125 | Lush Linkfall |
 | 323 | 124 | Atia Scott |
-| 324 | 124 | Circuit8 |
-| 325 | 124 | Sam Middleton |
-| 326 | 123 | Joseph Edmonson |
-| 327 | 123 | Lora |
+| 324 | 124 | Sam Middleton |
+| 325 | 124 | Circuit8 |
+| 326 | 123 | Lora |
+| 327 | 123 | Joseph Edmonson |
 | 328 | 121 | Riverdale |
 | 329 | 121 | Jim Hart |
 | 330 | 120 | Rebecca Morris |
@@ -1008,8 +1008,8 @@
 | 1000 | 29 | Dorothy Horton |
 | 1001 | 29 | Nutty Lifter |
 | 1002 | 29 | Cari Underwood |
-| 1003 | 28 | Jodi Warner Sommerer |
-| 1004 | 28 | Joey Goodrum |
+| 1003 | 28 | Joey Goodrum |
+| 1004 | 28 | Slinky Matcher |
 | 1005 | 28 | Jamie Gustafson |
 | 1006 | 28 | Jodi Warner Sommerer |
 | 1007 | 28 | Marta Savchuk |

@@ -76,8 +76,8 @@
 | 68 | 473 | Kellie |
 | 69 | 461 | April Carroll |
 | 70 | 447 | Evie Khalil |
-| 71 | 434 | MomMom |
-| 72 | 434 | Hyper |
+| 71 | 434 | Hyper |
+| 72 | 434 | MomMom |
 | 73 | 430 | Nancy Green |
 | 74 | 428 | Stephanie Zahn |
 | 75 | 418 | Jazzy Framezone |
@@ -96,9 +96,9 @@
 | 88 | 388 | Jennifer ManWarren |
 | 89 | 383 | Loony Fitzone |
 | 90 | 382 | Jacqueline Williams |
-| 91 | 379 | Kimmie Kimms |
-| 92 | 379 | Austin James |
-| 93 | 379 | Nerdy Linkblock |
+| 91 | 379 | Nerdy Linkblock |
+| 92 | 379 | Kimmie Kimms |
+| 93 | 379 | Austin James |
 | 94 | 376 | lil mickey |
 | 95 | 374 | Tinah Montanna |
 | 96 | 368 | Tdub |
@@ -114,8 +114,8 @@
 | 106 | 341 | Nick R Montague |
 | 107 | 333 | phrmblk24 |
 | 108 | 333 | Brandi Huntington |
-| 109 | 332 | Luciano Moreira |
-| 110 | 332 | Kristen Gideon |
+| 109 | 332 | Kristen Gideon |
+| 110 | 332 | Luciano Moreira |
 | 111 | 330 | Sweet Baker |
 | 112 | 328 | Gracie |
 | 113 | 326 | Monica Donato |
@@ -183,8 +183,8 @@
 | 175 | 213 | Daring Fitclear |
 | 176 | 212 | Jaimie Lynn |
 | 177 | 211 | Marianita Garcia |
-| 178 | 210 | Letson Melissa |
-| 179 | 210 | Giggly Builderline |
+| 178 | 210 | Giggly Builderline |
+| 179 | 210 | Letson Melissa |
 | 180 | 209 | Debbie Davis |
 | 181 | 208 | Donna Addison Williams |
 | 182 | 208 | Bouncy Grid |
@@ -236,9 +236,9 @@
 | 228 | 179 | femmefatale |
 | 229 | 179 | Erin Rosberg |
 | 230 | 178 | Chad Atchley |
-| 231 | 177 | Perky Shiftsnap |
+| 231 | 177 | Irual Hctrab |
 | 232 | 177 | Jacqueline Unique |
-| 233 | 177 | Irual Hctrab |
+| 233 | 177 | Perky Shiftsnap |
 | 234 | 176 | Mel Hogan |
 | 235 | 175 | John Barron |
 | 236 | 174 | Cheeky Pop |
@@ -250,8 +250,8 @@
 | 242 | 170 | Cece Ibarra |
 | 243 | 170 | Standia Civil |
 | 244 | 169 | Abbey Crespo |
-| 245 | 168 | Amber Stoker |
-| 246 | 168 | Angela Fairbank |
+| 245 | 168 | Angela Fairbank |
+| 246 | 168 | Amber Stoker |
 | 247 | 167 | Cranky Pattern |
 | 248 | 167 | Nery Martinez |
 | 249 | 166 | Carrie Smith |

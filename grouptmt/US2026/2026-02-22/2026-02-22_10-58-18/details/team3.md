@@ -63,8 +63,8 @@
 | 55 | 909 | Jennifer |
 | 56 | 908 | Alanna Rogers |
 | 57 | 903 | Sarah Fehring |
-| 58 | 895 | Amanda L Baker |
-| 59 | 895 | Shonna Roberts |
+| 58 | 895 | Shonna Roberts |
+| 59 | 895 | Amanda L Baker |
 | 60 | 886 | Khristen AC |
 | 61 | 882 | Susan Valentino |
 | 62 | 874 | Jessica Pineda-Lopez |
@@ -184,8 +184,8 @@
 | 176 | 361 | Jamie Lang |
 | 177 | 359 | Dapper Snap |
 | 178 | 358 | Chummy Caster |
-| 179 | 357 | Tom Nault |
-| 180 | 357 | Stephanie Burtin |
+| 179 | 357 | Stephanie Burtin |
+| 180 | 357 | Tom Nault |
 | 181 | 355 | Tessina Dewey-Mancino |
 | 182 | 353 | Shunta Jacobs |
 | 183 | 353 | Nora Rogers |
@@ -204,11 +204,11 @@
 | 196 | 320 | Or Reznitsky |
 | 197 | 317 | Ashley Tookes |
 | 198 | 315 | Kammy Hill |
-| 199 | 311 | Araceli Parra |
-| 200 | 311 | Rochelle Hazelett |
+| 199 | 311 | Rochelle Hazelett |
+| 200 | 311 | Araceli Parra |
 | 201 | 310 | Danielle Balcom |
-| 202 | 308 | Rania Zaqout |
-| 203 | 308 | Daryn Elliott |
+| 202 | 308 | Daryn Elliott |
+| 203 | 308 | Rania Zaqout |
 | 204 | 307 | rnr junky |
 | 205 | 307 | Blocked |
 | 206 | 304 | Sissy Lowery Davis |
@@ -223,8 +223,8 @@
 | 215 | 295 | Marci Mize Fandrich |
 | 216 | 291 | Kristal C Lee |
 | 217 | 289 | DidIdothat |
-| 218 | 289 | Duane Bright |
-| 219 | 289 | Hoppy Buildout |
+| 218 | 289 | Hoppy Buildout |
+| 219 | 289 | Duane Bright |
 | 220 | 286 | Cynthia Herrmann Egland |
 | 221 | 284 | Denise Nardoni |
 | 222 | 283 | Charles Perrone |
@@ -270,8 +270,8 @@
 | 262 | 238 | LaTanya GeminiondaRise Johnson |
 | 263 | 236 | Jess Bissett |
 | 264 | 235 | Cozy Snaplink |
-| 265 | 234 | Connie Mohler-Fair |
-| 266 | 234 | Nikki Pags |
+| 265 | 234 | Nikki Pags |
+| 266 | 234 | Connie Mohler-Fair |
 | 267 | 233 | Josh Borquez |
 | 268 | 233 | Ray Lader |
 | 269 | 232 | Brenda Schmid Wood |
@@ -342,8 +342,8 @@
 | 334 | 179 | Rachel Napper |
 | 335 | 178 | Jess Dearborn |
 | 336 | 178 | Jennifer Alvey |
-| 337 | 176 | Emma |
-| 338 | 176 | Melissa Orth Hunter |
+| 337 | 176 | Melissa Orth Hunter |
+| 338 | 176 | Emma |
 | 339 | 175 | Eileen Brady Thurber |
 | 340 | 174 | Salena Whitlock |
 | 341 | 174 | Lesley Perez |
@@ -363,8 +363,8 @@
 | 355 | 166 | Snarky McFace |
 | 356 | 166 | Angella Lyons |
 | 357 | 165 | Kali Kelz Williams |
-| 358 | 165 | Rainbow77375 |
-| 359 | 165 | Ashley Lynn Marchese |
+| 358 | 165 | Ashley Lynn Marchese |
+| 359 | 165 | Rainbow77375 |
 | 360 | 164 | Ashley Rufus Bythcez |
 | 361 | 164 | momo |
 | 362 | 163 | Diana Ibarra |
@@ -403,8 +403,8 @@
 | 395 | 149 | Wacky Crasher |
 | 396 | 149 | Arden White Kirsch |
 | 397 | 149 | Alexis Taylor |
-| 398 | 148 | Pam Holt Powell |
-| 399 | 148 | Flashy Rumbler |
+| 398 | 148 | Flashy Rumbler |
+| 399 | 148 | Pam Holt Powell |
 | 400 | 148 | Erykah |
 | 401 | 147 | Funky Jumper |
 | 402 | 147 | Megan Rathmanner |
@@ -426,10 +426,10 @@
 | 418 | 142 | Frothy Snapper |
 | 419 | 142 | Jl |
 | 420 | 142 | Joy Petroski |
-| 421 | 141 | Melissa Snyder |
-| 422 | 141 | Bhreagh Gentile |
-| 423 | 141 | Reina Roth |
-| 424 | 141 | Weerae |
+| 421 | 141 | Bhreagh Gentile |
+| 422 | 141 | Melissa Snyder |
+| 423 | 141 | Weerae |
+| 424 | 141 | Reina Roth |
 | 425 | 140 | Jumpy Curvebuilder |
 | 426 | 140 | Boldy Corner |
 | 427 | 140 | Linda Draper |
@@ -467,11 +467,11 @@
 | 459 | 129 | Amanda Neal |
 | 460 | 128 | David Kozen |
 | 461 | 127 | Jumpy Wrecker |
-| 462 | 126 | demon14 |
+| 462 | 126 | Lush Balance |
 | 463 | 126 | Tipsy Puzzle |
-| 464 | 126 | Lush Balance |
-| 465 | 126 | Crystal Martin |
-| 466 | 126 | Spicy Caster |
+| 464 | 126 | demon14 |
+| 465 | 126 | Spicy Caster |
+| 466 | 126 | Crystal Martin |
 | 467 | 125 | Shimika Enay Wallace |
 | 468 | 125 | BugMansMom |
 | 469 | 125 | Felicia Doxey |
