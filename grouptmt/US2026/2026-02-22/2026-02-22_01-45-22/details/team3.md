@@ -77,8 +77,8 @@
 | 69 | 596 | Jessica Bechler |
 | 70 | 588 | yoyo |
 | 71 | 582 | Natasha Jones |
-| 72 | 582 | Katrina Schroeder |
-| 73 | 582 | Jay Horn |
+| 72 | 582 | Jay Horn |
+| 73 | 582 | Katrina Schroeder |
 | 74 | 581 | Danielle Mogg |
 | 75 | 580 | Amanda L Baker |
 | 76 | 576 | Dan Rob |
@@ -112,8 +112,8 @@
 | 104 | 438 | Bea Miles |
 | 105 | 432 | Jenny Hrndz |
 | 106 | 430 | Patricia White |
-| 107 | 428 | Betty Ivy |
-| 108 | 428 | Elissa S-k |
+| 107 | 428 | Elissa S-k |
+| 108 | 428 | Betty Ivy |
 | 109 | 416 | Mary Pellegrino |
 | 110 | 412 | Khristen AC |
 | 111 | 410 | Stephanie Simpson |
@@ -140,8 +140,8 @@
 | 132 | 367 | mjl574 |
 | 133 | 366 | Adrian Marcel Pate |
 | 134 | 365 | Logan Naccarato |
-| 135 | 355 | Sherry Ogden |
-| 136 | 355 | Tessina Dewey-Mancino |
+| 135 | 355 | Tessina Dewey-Mancino |
+| 136 | 355 | Sherry Ogden |
 | 137 | 350 | Santeria Trece Candles |
 | 138 | 348 | CeceGeGe |
 | 139 | 348 | Jennifer Lynn Fahrenholtz-Summers |
@@ -167,8 +167,8 @@
 | 159 | 289 | Hoppy Buildout |
 | 160 | 289 | Daryn Elliott |
 | 161 | 288 | Marci Mize Fandrich |
-| 162 | 286 | Jacqueline Rodriguez |
-| 163 | 286 | Cynthia Herrmann Egland |
+| 162 | 286 | Cynthia Herrmann Egland |
+| 163 | 286 | Jacqueline Rodriguez |
 | 164 | 283 | Joye Sims Binion |
 | 165 | 278 | Rufus Lincoln |
 | 166 | 276 | _melisa223_ |
@@ -364,7 +364,7 @@
 | 356 | 124 | gremicx |
 | 357 | 124 | Tipsy Puzzle |
 | 358 | 123 | Michael Latasha Gray |
-| 359 | 122 | Nichol Graham |
+| 359 | 122 | BabyTonj Evans |
 | 360 | 122 | Arden White Kirsch |
 | 361 | 122 | Amber Groover Taylor |
 | 362 | 122 | Daring Builder |

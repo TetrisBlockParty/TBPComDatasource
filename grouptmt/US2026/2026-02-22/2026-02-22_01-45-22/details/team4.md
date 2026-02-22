@@ -121,12 +121,12 @@
 | 113 | 235 | Lucas J Sutton |
 | 114 | 232 | Peachy Fall |
 | 115 | 231 | Chastity Mitchell |
-| 116 | 230 | Daria Rycewicz |
-| 117 | 230 | Autum Leigh |
+| 116 | 230 | Autum Leigh |
+| 117 | 230 | Daria Rycewicz |
 | 118 | 225 | Damn Libra |
 | 119 | 222 | Joeliecea Cobb |
-| 120 | 221 | PurpleMoonMa |
-| 121 | 221 | Alyssa Papen |
+| 120 | 221 | Alyssa Papen |
+| 121 | 221 | PurpleMoonMa |
 | 122 | 218 | Antony Dwayne Beasley |
 | 123 | 218 | Casey Grabner |
 | 124 | 217 | Mary Ann Pabukis |
@@ -151,8 +151,8 @@
 | 143 | 194 | Zany Twisterfit |
 | 144 | 192 | Shauna Havard |
 | 145 | 190 | Justin Hannigan |
-| 146 | 189 | Stacey Stano |
-| 147 | 189 | Calvin Dennis |
+| 146 | 189 | Calvin Dennis |
+| 147 | 189 | Stacey Stano |
 | 148 | 187 | TheNeesh50 |
 | 149 | 186 | Holly |
 | 150 | 185 | Andy Cabral |

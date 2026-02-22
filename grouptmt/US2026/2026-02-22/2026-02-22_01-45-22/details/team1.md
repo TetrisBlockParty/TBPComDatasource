@@ -122,8 +122,8 @@
 | 114 | 251 | Jason Jones |
 | 115 | 249 | Elaine Elaine |
 | 116 | 244 | Franswa |
-| 117 | 243 | Trippy Redd |
-| 118 | 243 | Chelsea Dahlquist |
+| 117 | 243 | Chelsea Dahlquist |
+| 118 | 243 | Trippy Redd |
 | 119 | 241 | John J. Cronin |
 | 120 | 240 | Tana |
 | 121 | 236 | Mandyy Rae |
@@ -235,10 +235,10 @@
 | 227 | 131 | Jessie |
 | 228 | 131 | Uhog SF |
 | 229 | 130 | Gilbert Ortiz Jr. |
-| 230 | 129 | Jessica Russell |
-| 231 | 129 | Sherri E Woods Hess |
-| 232 | 128 | Alyssa Ingram |
-| 233 | 128 | Brenda Alexander |
+| 230 | 129 | Sherri E Woods Hess |
+| 231 | 129 | Jessica Russell |
+| 232 | 128 | Brenda Alexander |
+| 233 | 128 | Alyssa Ingram |
 | 234 | 126 | Tami Luce Martin |
 | 235 | 125 | Melissa Bires Hussar |
 | 236 | 124 | Alenoush Karimian |

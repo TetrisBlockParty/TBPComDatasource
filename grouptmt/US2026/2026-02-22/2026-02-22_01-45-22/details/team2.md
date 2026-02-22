@@ -236,8 +236,8 @@
 | 228 | 659 | Poldo Ilano |
 | 229 | 658 | Erica Williams |
 | 230 | 654 | Mandi Douglas Hilt |
-| 231 | 651 | Auntie B |
-| 232 | 651 | Unica Rector |
+| 231 | 651 | Unica Rector |
+| 232 | 651 | Auntie B |
 | 233 | 650 | Shiny Rollzone |
 | 234 | 647 | Peppy Zone |
 | 235 | 647 | Ashle Scranton |
@@ -288,13 +288,13 @@
 | 280 | 543 | Adira Brown |
 | 281 | 543 | Teresa Gillmore |
 | 282 | 542 | Slip |
-| 283 | 535 | Jessie McDougald |
-| 284 | 535 | Paul Huber |
+| 283 | 535 | Paul Huber |
+| 284 | 535 | Jessie McDougald |
 | 285 | 531 | Chris Wanner |
-| 286 | 528 | Taylor Phillips |
-| 287 | 528 | Brownie Sheena |
-| 288 | 527 | Heather Causey |
-| 289 | 527 | Ryan Gunther |
+| 286 | 528 | Brownie Sheena |
+| 287 | 528 | Taylor Phillips |
+| 288 | 527 | Ryan Gunther |
+| 289 | 527 | Heather Causey |
 | 290 | 525 | Desiree Anderson |
 | 291 | 520 | Cheech Dta |
 | 292 | 519 | Rob Brown |
@@ -302,8 +302,8 @@
 | 294 | 514 | Laquetta Royston |
 | 295 | 514 | Dizzy Zone |
 | 296 | 511 | Laura Mclean |
-| 297 | 509 | Kelli Wells |
-| 298 | 509 | Jordan Kaiser |
+| 297 | 509 | Jordan Kaiser |
+| 298 | 509 | Kelli Wells |
 | 299 | 507 | Matt Johnson |
 | 300 | 506 | Cherica Taylor |
 | 301 | 504 | Magic steve |
@@ -398,8 +398,8 @@
 | 390 | 411 | Ricky Fortune |
 | 391 | 406 | Erin StFrancis |
 | 392 | 406 | Julie Kresal |
-| 393 | 406 | Véronique Lévesque Sabourin |
-| 394 | 406 | Tj Ball |
+| 393 | 406 | Tj Ball |
+| 394 | 406 | Véronique Lévesque Sabourin |
 | 395 | 403 | Tonya Lee |
 | 396 | 402 | Gauri Shrotriya |
 | 397 | 402 | Michelle Fields |
