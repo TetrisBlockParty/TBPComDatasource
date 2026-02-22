@@ -61,8 +61,8 @@
 | 53 | 908 | Alanna Rogers |
 | 54 | 907 | Judi Dobson |
 | 55 | 903 | Sarah Fehring |
-| 56 | 895 | Amanda L Baker |
-| 57 | 895 | Shonna Roberts |
+| 56 | 895 | Shonna Roberts |
+| 57 | 895 | Amanda L Baker |
 | 58 | 886 | Khristen AC |
 | 59 | 874 | Jessica Pineda-Lopez |
 | 60 | 867 | Corie A. Brinson |
@@ -265,12 +265,12 @@
 | 257 | 227 | Meowsa |
 | 258 | 225 | Dirtgirl27 |
 | 259 | 223 | Connie Mohler-Fair |
-| 260 | 221 | Alice |
-| 261 | 221 | Jaime Monhaut-Reed |
+| 260 | 221 | Jaime Monhaut-Reed |
+| 261 | 221 | Alice |
 | 262 | 221 | Vaners |
 | 263 | 220 | rosy |
-| 264 | 219 | Cozy Snaplink |
-| 265 | 219 | Sissy Lowery Davis |
+| 264 | 219 | Sissy Lowery Davis |
+| 265 | 219 | Cozy Snaplink |
 | 266 | 218 | Michael Lucado |
 | 267 | 216 | Cheryl Hinch Tenbrook |
 | 268 | 215 | IamJust Neyamijah Washington Sr. |
@@ -332,14 +332,14 @@
 | 324 | 174 | Betty Rosas |
 | 325 | 174 | Lesley Perez |
 | 326 | 173 | BŘŰŤİÇŨŚ |
-| 327 | 169 | Naur |
-| 328 | 169 | Peachy Rollfit |
+| 327 | 169 | Peachy Rollfit |
+| 328 | 169 | Naur |
 | 329 | 169 | Kristian Thurman |
 | 330 | 168 | April Matthew Kibble |
 | 331 | 168 | Trice Thomas |
 | 332 | 167 | Shicken Nuggit |
-| 333 | 167 | Irene Arreguin |
-| 334 | 167 | Romeo |
+| 333 | 167 | Romeo |
+| 334 | 167 | Irene Arreguin |
 | 335 | 166 | Noettín Kan Zasnemoore |
 | 336 | 166 | Snarky McFace |
 | 337 | 165 | Rainbow77375 |

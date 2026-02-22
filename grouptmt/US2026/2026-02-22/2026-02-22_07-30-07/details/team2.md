@@ -198,8 +198,8 @@
 | 190 | 921 | Morgue Chick |
 | 191 | 916 | Butta |
 | 192 | 915 | Kelly Trent |
-| 193 | 910 | Shuany Arias |
-| 194 | 910 | Crystal Hoffman |
+| 193 | 910 | Crystal Hoffman |
+| 194 | 910 | Shuany Arias |
 | 195 | 907 | Gene Mills |
 | 196 | 901 | Jennifer Peachey |
 | 197 | 890 | Kevin Walp |
@@ -321,8 +321,8 @@
 | 313 | 627 | Victoria Moore-Smith |
 | 314 | 619 | Brandon Armstrong |
 | 315 | 619 | Jánine Riggs |
-| 316 | 617 | Leslie Ann Carter |
-| 317 | 617 | tejas25 |
+| 316 | 617 | tejas25 |
+| 317 | 617 | Leslie Ann Carter |
 | 318 | 613 | Ellie Jonas |
 | 319 | 611 | Em Chen |
 | 320 | 611 | Julio A Laracuente |
@@ -351,8 +351,8 @@
 | 343 | 562 | Ashley Lopez |
 | 344 | 561 | Traci Johnson |
 | 345 | 557 | Block Master |
-| 346 | 554 | Rachael Senard |
-| 347 | 554 | Santana Miyagi |
+| 346 | 554 | Santana Miyagi |
+| 347 | 554 | Rachael Senard |
 | 348 | 552 | F-X |
 | 349 | 550 | Nashu |
 | 350 | 549 | Darcy Mae |
@@ -374,8 +374,8 @@
 | 366 | 525 | Desiree Anderson |
 | 367 | 524 | Jojo Momma |
 | 368 | 523 | Matt Johnson |
-| 369 | 522 | Lylymom |
-| 370 | 522 | Joseph Musick |
+| 369 | 522 | Joseph Musick |
+| 370 | 522 | Lylymom |
 | 371 | 521 | Tj Ball |
 | 372 | 520 | Angela Lynn |
 | 373 | 520 | Maddy Petersen |
@@ -453,8 +453,8 @@
 | 445 | 459 | Melissa Kay Gibson |
 | 446 | 458 | Casper The Chonk |
 | 447 | 454 | Casey Schumacher |
-| 448 | 453 | Rhonda Petro |
-| 449 | 453 | Joshua Sommerville |
+| 448 | 453 | Joshua Sommerville |
+| 449 | 453 | Rhonda Petro |
 | 450 | 451 | Funky Caster |
 | 451 | 451 | Cody Nishimura |
 | 452 | 451 | Dylan Thomason |
@@ -482,8 +482,8 @@
 | 474 | 429 | Christy Krissie |
 | 475 | 428 | Arkei Luster |
 | 476 | 428 | Shyenn Gadsby |
-| 477 | 427 | Destiny Cozier |
-| 478 | 427 | Quinn |
+| 477 | 427 | Quinn |
+| 478 | 427 | Destiny Cozier |
 | 479 | 427 | Kori Beth Babb |
 | 480 | 426 | Ashley Dow |
 | 481 | 426 | Niceday |
@@ -666,8 +666,8 @@
 | 658 | 328 | Jamie Carter Bierce |
 | 659 | 328 | BabyBird |
 | 660 | 327 | Prette Qui |
-| 661 | 326 | Ann Knutson Anderson |
-| 662 | 326 | Angela Murgia-Owen |
+| 661 | 326 | Angela Murgia-Owen |
+| 662 | 326 | Ann Knutson Anderson |
 | 663 | 326 | Maria Louise |
 | 664 | 325 | Justin Hines |
 | 665 | 324 | Mike73 |
@@ -683,8 +683,8 @@
 | 675 | 320 | Mary Boss |
 | 676 | 319 | RetroLemur |
 | 677 | 318 | Jennifer Mahon |
-| 678 | 317 | Zombi3 |
-| 679 | 317 | Ashlyn Berner |
+| 678 | 317 | Ashlyn Berner |
+| 679 | 317 | Zombi3 |
 | 680 | 317 | Aireka Roman |
 | 681 | 316 | Jenn Marie |
 | 682 | 316 | Epic Spinfit |
@@ -707,12 +707,12 @@
 | 699 | 309 | Byung Bae Park |
 | 700 | 309 | Candy Pitts |
 | 701 | 308 | Prado |
-| 702 | 308 | Claire |
-| 703 | 308 | Sarah block |
+| 702 | 308 | Sarah block |
+| 703 | 308 | Claire |
 | 704 | 307 | stacey |
 | 705 | 306 | Kiorah Blaze |
-| 706 | 305 | Zany Clusterbuilder |
-| 707 | 305 | MamaBear11 |
+| 706 | 305 | MamaBear11 |
+| 707 | 305 | Zany Clusterbuilder |
 | 708 | 305 | Libby Hicks |
 | 709 | 304 | Michelle Shrum |
 | 710 | 304 | Melissa McCall |

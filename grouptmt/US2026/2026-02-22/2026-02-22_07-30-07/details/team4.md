@@ -33,8 +33,8 @@
 | 25 | 886 | Dustin Robert |
 | 26 | 880 | Koshin Abdirahman |
 | 27 | 879 | Heather Tushner |
-| 28 | 873 | Michelle Pearman |
-| 29 | 873 | Elizabeth Sallas |
+| 28 | 873 | Elizabeth Sallas |
+| 29 | 873 | Michelle Pearman |
 | 30 | 871 | Denny Shives |
 | 31 | 846 | Christine Marie |
 | 32 | 843 | Lucille Truesdale |
@@ -91,8 +91,8 @@
 | 83 | 409 | Isabella Blanco |
 | 84 | 405 | Shane Kalamata Platoon |
 | 85 | 404 | Courtney Cicoria |
-| 86 | 396 | Alicia Bass |
-| 87 | 396 | Amy Suckarieh |
+| 86 | 396 | Amy Suckarieh |
+| 87 | 396 | Alicia Bass |
 | 88 | 392 | Ericca Eldridge |
 | 89 | 391 | Ramel Rhodes |
 | 90 | 390 | Carlton Unfiltered |
@@ -153,9 +153,9 @@
 | 145 | 230 | Cursed Hag |
 | 146 | 230 | Autum Leigh |
 | 147 | 228 | J-Rizzle |
-| 148 | 227 | Chris Bernstein |
-| 149 | 227 | Alyssa Papen |
-| 150 | 227 | Swanky Fitline |
+| 148 | 227 | Swanky Fitline |
+| 149 | 227 | Chris Bernstein |
+| 150 | 227 | Alyssa Papen |
 | 151 | 225 | Damn Libra |
 | 152 | 224 | Matt Summer |
 | 153 | 223 | Kris Bartlett |

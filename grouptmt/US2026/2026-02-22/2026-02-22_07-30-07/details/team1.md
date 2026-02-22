@@ -127,8 +127,8 @@
 | 119 | 286 | Ly Phethmany |
 | 120 | 286 | Arianna O'Brien |
 | 121 | 285 | Ananda Mendez |
-| 122 | 284 | Emily Adelaide Wheatley |
-| 123 | 284 | Rachael |
+| 122 | 284 | Rachael |
+| 123 | 284 | Emily Adelaide Wheatley |
 | 124 | 283 | Franswa |
 | 125 | 282 | Cool Shiftsnap |
 | 126 | 282 | Timothy Dew |
@@ -150,10 +150,10 @@
 | 142 | 243 | Trippy Redd |
 | 143 | 242 | ALFD |
 | 144 | 241 | John J. Cronin |
-| 145 | 239 | GATOR |
-| 146 | 239 | Jamie Jury |
-| 147 | 236 | Mandyy Rae |
-| 148 | 236 | Rahna Underwood |
+| 145 | 239 | Jamie Jury |
+| 146 | 239 | GATOR |
+| 147 | 236 | Rahna Underwood |
+| 148 | 236 | Mandyy Rae |
 | 149 | 232 | Jessi Sauer |
 | 150 | 230 | Frothy Pattern |
 | 151 | 230 | Billie Dawn Sparks |
@@ -170,11 +170,11 @@
 | 162 | 216 | MRdot Rooski |
 | 163 | 213 | Daring Fitclear |
 | 164 | 212 | Jaimie Lynn |
-| 165 | 211 | Marianita Garcia |
-| 166 | 211 | Kimberly Garcia |
-| 167 | 210 | Giggly Builderline |
-| 168 | 210 | Letson Melissa |
-| 169 | 210 | Ash Galvan |
+| 165 | 211 | Kimberly Garcia |
+| 166 | 211 | Marianita Garcia |
+| 167 | 210 | Ash Galvan |
+| 168 | 210 | Giggly Builderline |
+| 169 | 210 | Letson Melissa |
 | 170 | 208 | Donna Addison Williams |
 | 171 | 208 | Bouncy Grid |
 | 172 | 207 | Ty Brown |
@@ -295,8 +295,8 @@
 | 287 | 130 | Gilbert Ortiz Jr. |
 | 288 | 130 | Carl Claunch |
 | 289 | 129 | Sherri E Woods Hess |
-| 290 | 128 | Alyssa Ingram |
-| 291 | 128 | Chuck Gannon |
+| 290 | 128 | Chuck Gannon |
+| 291 | 128 | Alyssa Ingram |
 | 292 | 127 | Danielle Mae |
 | 293 | 126 | Zany Tiler |
 | 294 | 125 | Melissa Bires Hussar |
