@@ -712,15 +712,15 @@
 | 704 | 325 | James Smith |
 | 705 | 325 | Justin Hines |
 | 706 | 325 | Mike73 |
-| 707 | 324 | Dale Haanpaa |
-| 708 | 324 | Tasia Stinson |
+| 707 | 324 | Tasia Stinson |
+| 708 | 324 | Dale Haanpaa |
 | 709 | 323 | Briana Alexander |
 | 710 | 322 | Lea Stewart |
 | 711 | 322 | Michelle Pike |
 | 712 | 322 | Christina Jarvis-Swarbrick |
 | 713 | 321 | Samantha Scibelli |
-| 714 | 321 | Ashley Criner |
-| 715 | 321 | Tamara Bailey |
+| 714 | 321 | Tamara Bailey |
+| 715 | 321 | Ashley Criner |
 | 716 | 320 | Tash Bell |
 | 717 | 320 | Mary Boss |
 | 718 | 320 | Joel Rosado |
@@ -814,8 +814,8 @@
 | 806 | 281 | Anthony |
 | 807 | 281 | Amy McManus |
 | 808 | 280 | Sandra Link-Gable |
-| 809 | 280 | Reece Smith |
-| 810 | 280 | Danielle DeLozier Plesec |
+| 809 | 280 | Danielle DeLozier Plesec |
+| 810 | 280 | Reece Smith |
 | 811 | 280 | Luke Califf |
 | 812 | 279 | Laura Wyatt |
 | 813 | 279 | Jennifer Coe |

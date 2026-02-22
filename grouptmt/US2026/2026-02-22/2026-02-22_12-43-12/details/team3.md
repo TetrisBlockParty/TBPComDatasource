@@ -63,8 +63,8 @@
 | 55 | 909 | Jennifer |
 | 56 | 908 | Alanna Rogers |
 | 57 | 903 | Sarah Fehring |
-| 58 | 895 | Shonna Roberts |
-| 59 | 895 | Amanda L Baker |
+| 58 | 895 | Amanda L Baker |
+| 59 | 895 | Shonna Roberts |
 | 60 | 886 | Khristen AC |
 | 61 | 882 | Susan Valentino |
 | 62 | 874 | Jessica Pineda-Lopez |
@@ -227,8 +227,8 @@
 | 219 | 296 | Brandon Givens |
 | 220 | 295 | Marci Mize Fandrich |
 | 221 | 289 | DidIdothat |
-| 222 | 289 | Duane Bright |
-| 223 | 289 | Hoppy Buildout |
+| 222 | 289 | Hoppy Buildout |
+| 223 | 289 | Duane Bright |
 | 224 | 286 | Cynthia Herrmann Egland |
 | 225 | 284 | Denise Nardoni |
 | 226 | 283 | Sarah Moyer |
@@ -257,13 +257,13 @@
 | 249 | 260 | Grams |
 | 250 | 259 | Danielle Weikel |
 | 251 | 257 | Ashley Jones |
-| 252 | 256 | Tiffany Davie |
-| 253 | 256 | KayB |
+| 252 | 256 | KayB |
+| 253 | 256 | Tiffany Davie |
 | 254 | 252 | Roary Danner |
 | 255 | 251 | Nikki Pags |
 | 256 | 250 | fraulila |
-| 257 | 249 | JerseyJess |
-| 258 | 249 | Annie Marie |
+| 257 | 249 | Annie Marie |
+| 258 | 249 | JerseyJess |
 | 259 | 246 | Peppy Shifter |
 | 260 | 245 | Latoya Mayne |
 | 261 | 244 | LaNette Morgan |
@@ -271,11 +271,11 @@
 | 263 | 240 | Jimmie Clemons |
 | 264 | 238 | LaTanya GeminiondaRise Johnson |
 | 265 | 236 | Jess Bissett |
-| 266 | 235 | Brenda Schmid Wood |
-| 267 | 235 | Cozy Snaplink |
+| 266 | 235 | Cozy Snaplink |
+| 267 | 235 | Brenda Schmid Wood |
 | 268 | 234 | Connie Mohler-Fair |
-| 269 | 233 | Ray Lader |
-| 270 | 233 | Josh Borquez |
+| 269 | 233 | Josh Borquez |
+| 270 | 233 | Ray Lader |
 | 271 | 232 | Donna |
 | 272 | 227 | Krystal Gerstberger |
 | 273 | 227 | Meowsa |
@@ -300,9 +300,9 @@
 | 292 | 212 | Desiree Gold |
 | 293 | 212 | Sunny Rotater |
 | 294 | 212 | Jana Polk |
-| 295 | 211 | Khaleada McGill Banks |
-| 296 | 211 | Velma Mull |
-| 297 | 211 | El Chapa |
+| 295 | 211 | El Chapa |
+| 296 | 211 | Khaleada McGill Banks |
+| 297 | 211 | Velma Mull |
 | 298 | 210 | Criss |
 | 299 | 210 | Lizabeth Fox |
 | 300 | 209 | Micayah Stevens |
@@ -319,8 +319,8 @@
 | 311 | 202 | Tipsy Zonebuilder |
 | 312 | 201 | Hyper Matchzone |
 | 313 | 201 | Alexmac |
-| 314 | 200 | Sharisse Baltimore |
-| 315 | 200 | glichmod |
+| 314 | 200 | glichmod |
+| 315 | 200 | Sharisse Baltimore |
 | 316 | 200 | Saucy Buildout |
 | 317 | 199 | Mariah Williams |
 | 318 | 199 | Christian Werndl |
@@ -376,8 +376,8 @@
 | 368 | 165 | Rainbow77375 |
 | 369 | 164 | Ashley Rufus Bythcez |
 | 370 | 164 | momo |
-| 371 | 163 | Diana Ibarra |
-| 372 | 163 | Christine Trester |
+| 371 | 163 | Christine Trester |
+| 372 | 163 | Diana Ibarra |
 | 373 | 163 | Ava Petito |
 | 374 | 162 | Loopy Fallzone |
 | 375 | 162 | Stephanie Whitefield |
