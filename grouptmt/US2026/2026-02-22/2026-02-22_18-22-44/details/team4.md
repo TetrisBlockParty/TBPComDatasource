@@ -141,8 +141,8 @@
 | 133 | 332 | Desi Desporte |
 | 134 | 330 | David Lay |
 | 135 | 329 | Jessica Bohlken |
-| 136 | 328 | Leslie Nicole |
-| 137 | 328 | Kris Bartlett |
+| 136 | 328 | Kris Bartlett |
+| 137 | 328 | Leslie Nicole |
 | 138 | 325 | Dizzy Tiley |
 | 139 | 324 | Jessica Lynn Cutlip |
 | 140 | 323 | Daria Rycewicz |
@@ -223,8 +223,8 @@
 | 215 | 219 | JPW |
 | 216 | 219 | Malakai Darien Fox |
 | 217 | 217 | Kim Hunt |
-| 218 | 216 | Cristy Duerksen |
-| 219 | 216 | ZeeZee |
+| 218 | 216 | ZeeZee |
+| 219 | 216 | Cristy Duerksen |
 | 220 | 216 | Chance Strickland |
 | 221 | 215 | John Brunetti |
 | 222 | 215 | Ziggy |
@@ -245,8 +245,8 @@
 | 237 | 203 | Katherine Crane |
 | 238 | 202 | Patron Anderson |
 | 239 | 201 | Melvin Baird |
-| 240 | 200 | Rebecca Morris |
-| 241 | 200 | Chair |
+| 240 | 200 | Chair |
+| 241 | 200 | Rebecca Morris |
 | 242 | 200 | Googenheim |
 | 243 | 200 | Lori |
 | 244 | 199 | Orchislactea |
@@ -326,8 +326,8 @@
 | 318 | 150 | GBR |
 | 319 | 150 | Brandon Link |
 | 320 | 150 | Chris Alexinas |
-| 321 | 149 | Duck |
-| 322 | 149 | Lora |
+| 321 | 149 | Lora |
+| 322 | 149 | Duck |
 | 323 | 149 | Sticherella |
 | 324 | 148 | Joseph Edmonson |
 | 325 | 148 | Mighty Edgepiece |
@@ -359,9 +359,9 @@
 | 351 | 141 | Courtney Halleck |
 | 352 | 140 | Rico |
 | 353 | 140 | Joshua W. Benton |
-| 354 | 139 | O block |
+| 354 | 139 | Lori Goudy |
 | 355 | 139 | Ann G. Carrillo |
-| 356 | 139 | Lori Goudy |
+| 356 | 139 | O block |
 | 357 | 138 | Ashlee Carnes |
 | 358 | 138 | Zippy Tilt |
 | 359 | 138 | Moonsterix |

@@ -203,8 +203,8 @@
 | 195 | 377 | rosy |
 | 196 | 376 | Loopy Clusterer |
 | 197 | 374 | Darlene McMillan |
-| 198 | 372 | Tom Nault |
-| 199 | 372 | Giddy Twistbuilder |
+| 198 | 372 | Giddy Twistbuilder |
+| 199 | 372 | Tom Nault |
 | 200 | 370 | Santeria Trece Candles |
 | 201 | 368 | Stephanie Woods |
 | 202 | 367 | Loopy Fallmatch |
@@ -308,8 +308,8 @@
 | 300 | 240 | Jimmie Clemons |
 | 301 | 238 | Niki Dalrymple |
 | 302 | 236 | Jess Bissett |
-| 303 | 236 | Angela Scott |
-| 304 | 236 | Lys |
+| 303 | 236 | Lys |
+| 304 | 236 | Angela Scott |
 | 305 | 233 | Tony Waters |
 | 306 | 232 | Donna |
 | 307 | 231 | Kiki |
@@ -332,7 +332,7 @@
 | 324 | 221 | Bleu Sun Beams |
 | 325 | 221 | kacihall |
 | 326 | 221 | Ryan Williams |
-| 327 | 221 | Vaners |
+| 327 | 221 | Alice |
 | 328 | 221 | Jaime Monhaut-Reed |
 | 329 | 221 | Vaners |
 | 330 | 220 | Wettnippz |

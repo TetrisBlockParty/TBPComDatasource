@@ -154,8 +154,8 @@
 | 146 | 1297 | Maegan Beaule |
 | 147 | 1296 | Kristin Ruest |
 | 148 | 1290 | Bussyiano Page |
-| 149 | 1286 | Altamirano Michael |
-| 150 | 1286 | Eileen Hale |
+| 149 | 1286 | Eileen Hale |
+| 150 | 1286 | Altamirano Michael |
 | 151 | 1282 | Tanya Parsons |
 | 152 | 1282 | Ashley Rose Frederick |
 | 153 | 1273 | Cool Rollpiece |
@@ -216,8 +216,8 @@
 | 208 | 1002 | Foxxo |
 | 209 | 998 | Tralonda Weeks |
 | 210 | 991 | Moose Griffith |
-| 211 | 989 | Desiree Harris Rosch |
-| 212 | 989 | Teddi Notyalc |
+| 211 | 989 | Teddi Notyalc |
+| 212 | 989 | Desiree Harris Rosch |
 | 213 | 988 | Cherica Taylor |
 | 214 | 986 | RAEPR05 |
 | 215 | 979 | Hillary Crawford |
@@ -1042,8 +1042,8 @@
 | 1034 | 259 | Alyssa Nadine Medelez |
 | 1035 | 259 | Mary Ahne |
 | 1036 | 259 | Jay Dreamer-x Shelly |
-| 1037 | 259 | JacJac |
-| 1038 | 259 | Sarah Sims |
+| 1037 | 259 | Sarah Sims |
+| 1038 | 259 | JacJac |
 | 1039 | 259 | Maurice Bundy |
 | 1040 | 258 | DesertDreamer24 |
 | 1041 | 258 | Kara Tolbert |
@@ -1059,7 +1059,7 @@
 | 1051 | 257 | Charles E Mccardell |
 | 1052 | 256 | Neko Preston |
 | 1053 | 256 | Gursharan Sandhu |
-| 1054 | 256 | Brenna Yearian |
+| 1054 | 256 | Chipper Basepiece |
 | 1055 | 256 | Allyson Marra |
 | 1056 | 256 | Brenna Yearian |
 | 1057 | 255 | ElizabethAnn Dickinson |
@@ -1074,8 +1074,8 @@
 | 1066 | 254 | Dane Reing |
 | 1067 | 254 | Paula Martinez |
 | 1068 | 254 | Poppy Gridder |
-| 1069 | 253 | Chipper Dashpiece |
-| 1070 | 253 | Amber Cano |
+| 1069 | 253 | Amber Cano |
+| 1070 | 253 | Chipper Dashpiece |
 | 1071 | 253 | Lynzekwi |
 | 1072 | 253 | Cynthia Knox |
 | 1073 | 252 | Aleasha M Brown |
