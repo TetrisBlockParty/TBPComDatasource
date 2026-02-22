@@ -377,8 +377,8 @@
 | 369 | 562 | Ashley Lopez |
 | 370 | 561 | Traci Johnson |
 | 371 | 560 | Phil J. Grombliniak |
-| 372 | 558 | Libby Hicks |
-| 373 | 558 | Mikayala Szaz |
+| 372 | 558 | Mikayala Szaz |
+| 373 | 558 | Libby Hicks |
 | 374 | 557 | Block Master |
 | 375 | 556 | Slip |
 | 376 | 554 | Rachael Senard |
@@ -613,8 +613,8 @@
 | 605 | 380 | Giggy Grabber |
 | 606 | 380 | Christy Long |
 | 607 | 379 | Cini |
-| 608 | 378 | Tina Marie |
-| 609 | 378 | TF Dyer |
+| 608 | 378 | TF Dyer |
+| 609 | 378 | Tina Marie |
 | 610 | 378 | Jasmine Kenney |
 | 611 | 376 | James Zaragoza |
 | 612 | 375 | Cecilia A Jenkins |
@@ -658,8 +658,8 @@
 | 650 | 357 | Shannon Byrd |
 | 651 | 357 | Tristan Szolek |
 | 652 | 355 | Amanda Perez |
-| 653 | 354 | Rickey Johnson |
-| 654 | 354 | Rachel Kaminski |
+| 653 | 354 | Rachel Kaminski |
+| 654 | 354 | Rickey Johnson |
 | 655 | 352 | Rose Fx |
 | 656 | 352 | Jean FU Jagielski |
 | 657 | 352 | ruth |
@@ -730,8 +730,8 @@
 | 722 | 316 | Epic Spinfit |
 | 723 | 316 | Johanna Massaro |
 | 724 | 314 | Amanda West |
-| 725 | 313 | Natasha Edmonds |
-| 726 | 313 | Marina Linda |
+| 725 | 313 | Marina Linda |
+| 726 | 313 | Natasha Edmonds |
 | 727 | 313 | Snippy Block |
 | 728 | 312 | Heather Renee Jeffers |
 | 729 | 312 | Sassy Linkbuilder |
@@ -751,8 +751,8 @@
 | 743 | 307 | stacey |
 | 744 | 306 | Kiorah Blaze |
 | 745 | 305 | Zany Clusterbuilder |
-| 746 | 305 | MamaBear11 |
-| 747 | 305 | Narutofreak13 |
+| 746 | 305 | Narutofreak13 |
+| 747 | 305 | MamaBear11 |
 | 748 | 304 | Melissa McCall |
 | 749 | 304 | NFLPITMOM |
 | 750 | 303 | Christina Walker |
@@ -777,8 +777,8 @@
 | 769 | 296 | Epic Fitzone |
 | 770 | 296 | Frisky Riserbuilder |
 | 771 | 295 | Noel Tarmy |
-| 772 | 294 | Sveta Lana |
-| 773 | 294 | Amanda Edwards |
+| 772 | 294 | Amanda Edwards |
+| 773 | 294 | Sveta Lana |
 | 774 | 293 | Ann Marie Davis |
 | 775 | 292 | Bryan Werleman |
 | 776 | 292 | Deana |

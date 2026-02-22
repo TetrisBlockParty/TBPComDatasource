@@ -63,8 +63,8 @@
 | 55 | 909 | Jennifer |
 | 56 | 908 | Alanna Rogers |
 | 57 | 903 | Sarah Fehring |
-| 58 | 895 | Shonna Roberts |
-| 59 | 895 | Amanda L Baker |
+| 58 | 895 | Amanda L Baker |
+| 59 | 895 | Shonna Roberts |
 | 60 | 886 | Khristen AC |
 | 61 | 882 | Susan Valentino |
 | 62 | 874 | Jessica Pineda-Lopez |
@@ -143,8 +143,8 @@
 | 135 | 457 | Jim Mathews |
 | 136 | 454 | Makelini Mausia |
 | 137 | 449 | Danielle Rhoades |
-| 138 | 445 | Jacqueline Rodriguez |
-| 139 | 445 | Kristie McFarland |
+| 138 | 445 | Kristie McFarland |
+| 139 | 445 | Jacqueline Rodriguez |
 | 140 | 435 | Michelle |
 | 141 | 432 | Karon Griffin |
 | 142 | 432 | Jenny Hrndz |
@@ -186,8 +186,8 @@
 | 178 | 359 | Dapper Snap |
 | 179 | 358 | RickyG |
 | 180 | 358 | Chummy Caster |
-| 181 | 357 | Stephanie Burtin |
-| 182 | 357 | Tom Nault |
+| 181 | 357 | Tom Nault |
+| 182 | 357 | Stephanie Burtin |
 | 183 | 355 | Tessina Dewey-Mancino |
 | 184 | 353 | Shunta Jacobs |
 | 185 | 353 | Nora Rogers |
@@ -196,8 +196,8 @@
 | 188 | 343 | Ashley Raines |
 | 189 | 343 | Tamara Deherrera |
 | 190 | 341 | Samantha Lynn |
-| 191 | 338 | Gumbo |
-| 192 | 338 | Leah Barnett |
+| 191 | 338 | Leah Barnett |
+| 192 | 338 | Gumbo |
 | 193 | 332 | Rich LeBlanc |
 | 194 | 332 | Noyb Adam |
 | 195 | 330 | Rebecca Funderburk Kirby |
@@ -240,8 +240,8 @@
 | 232 | 275 | Cassandra Bryant |
 | 233 | 274 | Tye Stovall |
 | 234 | 272 | Dee Franklin |
-| 235 | 271 | Ashley Muncey |
-| 236 | 271 | Cass Mendoza |
+| 235 | 271 | Cass Mendoza |
+| 236 | 271 | Ashley Muncey |
 | 237 | 269 | Trisha Balmer |
 | 238 | 269 | Eon Harris |
 | 239 | 268 | Carrie Huskey |
@@ -292,8 +292,8 @@
 | 284 | 216 | Cheryl Hinch Tenbrook |
 | 285 | 216 | Twisty Brick LT |
 | 286 | 215 | IamJust Neyamijah Washington Sr. |
-| 287 | 214 | Angela Scott |
-| 288 | 214 | Amy Fuller Heaton |
+| 287 | 214 | Amy Fuller Heaton |
+| 288 | 214 | Angela Scott |
 | 289 | 214 | Rebel124 |
 | 290 | 213 | Nicholas Roddy |
 | 291 | 212 | Desiree Gold |
@@ -567,7 +567,7 @@
 | 559 | 108 | Matty Pope |
 | 560 | 108 | Stephanie Bradley |
 | 561 | 108 | Jack Bo |
-| 562 | 108 | Matty Pope |
+| 562 | 108 | Rachel Grant |
 | 563 | 107 | Sarah Tschee |
 | 564 | 107 | Tiffany Marler |
 | 565 | 107 | Megan Stanley |

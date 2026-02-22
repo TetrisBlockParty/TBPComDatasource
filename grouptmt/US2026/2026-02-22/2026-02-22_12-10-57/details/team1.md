@@ -200,8 +200,8 @@
 | 192 | 205 | Snappy Matcher |
 | 193 | 205 | Tater |
 | 194 | 204 | Lacy Wolfe |
-| 195 | 203 | Paula Martin |
-| 196 | 203 | LaFontaine Leslie |
+| 195 | 203 | LaFontaine Leslie |
+| 196 | 203 | Paula Martin |
 | 197 | 202 | Amanda Holibaugh |
 | 198 | 201 | Colleen Wise |
 | 199 | 200 | Flashy Rotator |
@@ -247,8 +247,8 @@
 | 239 | 177 | Herm Junior |
 | 240 | 176 | Tiger Lily |
 | 241 | 176 | Mel Hogan |
-| 242 | 175 | Kellie Tunstall |
-| 243 | 175 | John Barron |
+| 242 | 175 | John Barron |
+| 243 | 175 | Kellie Tunstall |
 | 244 | 174 | Cheeky Pop |
 | 245 | 173 | Gabrielle Louise Malloch |
 | 246 | 173 | Rico Rico |
@@ -272,8 +272,8 @@
 | 264 | 160 | Tedashi |
 | 265 | 159 | Uhog SF |
 | 266 | 159 | Amber Dee |
-| 267 | 156 | Mark Smith |
-| 268 | 156 | Spunky Builderpiece |
+| 267 | 156 | Spunky Builderpiece |
+| 268 | 156 | Mark Smith |
 | 269 | 155 | Barry Mac'Ockner |
 | 270 | 154 | Melissa Lemmon |
 | 271 | 154 | Gary Gobin |

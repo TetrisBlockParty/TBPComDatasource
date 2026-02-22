@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Shelly Chandler |
-| 34 | 843 | Lucille Truesdale |
+| 33 | 843 | Lucille Truesdale |
+| 34 | 843 | Shelly Chandler |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -56,14 +56,14 @@
 | 48 | 697 | Edward White |
 | 49 | 695 | LisaJo Picken Buchanan |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Rebecca Moulton Pinciaro |
-| 52 | 659 | Jonathan Kimbrough |
+| 51 | 659 | Jonathan Kimbrough |
+| 52 | 659 | Rebecca Moulton Pinciaro |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Dustee Craddock-Harrison |
-| 58 | 636 | Kimyatta Cavin |
+| 57 | 636 | Kimyatta Cavin |
+| 58 | 636 | Dustee Craddock-Harrison |
 | 59 | 623 | Robin Getchel |
 | 60 | 614 | TheNeesh50 |
 | 61 | 599 | Brittney Griggs |
@@ -136,8 +136,8 @@
 | 128 | 289 | Jessica Lynn Cutlip |
 | 129 | 287 | Shannon Ferrari |
 | 130 | 286 | shark tato |
-| 131 | 283 | Scott Jameson |
-| 132 | 283 | Brittney Orengo |
+| 131 | 283 | Brittney Orengo |
+| 132 | 283 | Scott Jameson |
 | 133 | 281 | Meagan Nicole |
 | 134 | 278 | Carrie Brian |
 | 135 | 278 | Desi Desporte |
@@ -408,8 +408,8 @@
 | 400 | 104 | Gdiguy |
 | 401 | 104 | Blessedmama |
 | 402 | 104 | Jessica Johnston |
-| 403 | 102 | Christina O'Dell-Ishau |
-| 404 | 102 | Brave Spinbuilder |
+| 403 | 102 | Brave Spinbuilder |
+| 404 | 102 | Christina O'Dell-Ishau |
 | 405 | 102 | Bigeddie |
 | 406 | 101 | Saulc1991 |
 | 407 | 100 | Sallie Sanborn |
