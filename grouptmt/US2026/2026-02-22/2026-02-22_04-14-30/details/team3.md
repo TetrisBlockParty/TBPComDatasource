@@ -47,8 +47,8 @@
 | 39 | 1015 | Amber Jones |
 | 40 | 1012 | Danielle Cutler |
 | 41 | 998 | Liv Whetson |
-| 42 | 989 | Kay |
-| 43 | 989 | Joey Banks |
+| 42 | 989 | Joey Banks |
+| 43 | 989 | Kay |
 | 44 | 968 | Stephanie Rice |
 | 45 | 935 | Snappy Fitzone |
 | 46 | 931 | Fancy Slam |
@@ -107,8 +107,8 @@
 | 99 | 506 | Sashay Tapae Simpson |
 | 100 | 503 | Susan Valentino |
 | 101 | 502 | Justin Ritter |
-| 102 | 500 | Kristie |
-| 103 | 500 | Domo Washington |
+| 102 | 500 | Domo Washington |
+| 103 | 500 | Kristie |
 | 104 | 497 | Mykal Burton |
 | 105 | 491 | Chauntee Alfrey-Cardinale |
 | 106 | 487 | Alaina Lee |
@@ -130,8 +130,8 @@
 | 122 | 410 | Stephanie Blkpep Davidson |
 | 123 | 409 | Karon Griffin |
 | 124 | 405 | Michelle |
-| 125 | 403 | Christine Filson |
-| 126 | 403 | Scott Lindsay |
+| 125 | 403 | Scott Lindsay |
+| 126 | 403 | Christine Filson |
 | 127 | 402 | Shannon Matthew Byers |
 | 128 | 400 | Luciana Braganca Vieira |
 | 129 | 399 | Mcathen |
@@ -155,10 +155,10 @@
 | 147 | 366 | Adrian Marcel Pate |
 | 148 | 365 | Logan Naccarato |
 | 149 | 359 | Dapper Snap |
-| 150 | 355 | Sherry Ogden |
-| 151 | 355 | Tessina Dewey-Mancino |
-| 152 | 353 | Shunta Jacobs |
-| 153 | 353 | CeceGeGe |
+| 150 | 355 | Tessina Dewey-Mancino |
+| 151 | 355 | Sherry Ogden |
+| 152 | 353 | CeceGeGe |
+| 153 | 353 | Shunta Jacobs |
 | 154 | 352 | Chris Bell |
 | 155 | 350 | Darlene McMillan |
 | 156 | 348 | Chasity |
@@ -169,8 +169,8 @@
 | 161 | 332 | Rich LeBlanc |
 | 162 | 328 | Aaron Pitkin |
 | 163 | 323 | Demetrious Shaw Sr. |
-| 164 | 320 | Or Reznitsky |
-| 165 | 320 | Tom Nault |
+| 164 | 320 | Tom Nault |
+| 165 | 320 | Or Reznitsky |
 | 166 | 317 | Ashley Tookes |
 | 167 | 317 | Giddy Twistbuilder |
 | 168 | 311 | Raya |
@@ -209,8 +209,8 @@
 | 201 | 263 | Angeline Joseph |
 | 202 | 262 | Joe-Maggie Mathews |
 | 203 | 261 | Brittany |
-| 204 | 261 | Tiffany Ford |
-| 205 | 261 | Marquita Sheard |
+| 204 | 261 | Marquita Sheard |
+| 205 | 261 | Tiffany Ford |
 | 206 | 260 | Grams |
 | 207 | 258 | Tamara Deherrera |
 | 208 | 257 | Ashley Jones |
@@ -315,8 +315,8 @@
 | 307 | 161 | Michael Johnson |
 | 308 | 161 | Bouncy Blockbuilder |
 | 309 | 160 | Rachel |
-| 310 | 159 | Joshua David Huie |
-| 311 | 159 | Jone |
+| 310 | 159 | Jone |
+| 311 | 159 | Joshua David Huie |
 | 312 | 158 | Willow |
 | 313 | 157 | Danielle Balcom |
 | 314 | 157 | Sabrina Hardrick |

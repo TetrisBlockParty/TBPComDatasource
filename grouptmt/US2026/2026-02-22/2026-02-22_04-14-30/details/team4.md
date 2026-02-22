@@ -90,8 +90,8 @@
 | 82 | 373 | Joseph Guthrie |
 | 83 | 370 | Leslie Thomas |
 | 84 | 369 | Nope Young |
-| 85 | 358 | Shane Kalamata Platoon |
-| 86 | 358 | Nugget |
+| 85 | 358 | Nugget |
+| 86 | 358 | Shane Kalamata Platoon |
 | 87 | 352 | Monica Daley |
 | 88 | 337 | Julian Garcia |
 | 89 | 337 | Lori Walker |
@@ -112,8 +112,8 @@
 | 104 | 286 | Daria Rycewicz |
 | 105 | 284 | shark tato |
 | 106 | 279 | Ericca Eldridge |
-| 107 | 278 | Lucas J Sutton |
-| 108 | 278 | Carrie Brian |
+| 107 | 278 | Carrie Brian |
+| 108 | 278 | Lucas J Sutton |
 | 109 | 277 | KJ Pool |
 | 110 | 275 | Dizzy Tiley |
 | 111 | 274 | Desi Desporte |
@@ -157,8 +157,8 @@
 | 149 | 205 | Kathy Brookins |
 | 150 | 205 | Sarah Neathery |
 | 151 | 204 | Jen Caldwell |
-| 152 | 203 | Katherine Crane |
-| 153 | 203 | Chris Bernstein |
+| 152 | 203 | Chris Bernstein |
+| 153 | 203 | Katherine Crane |
 | 154 | 202 | 🥔🥔 Spudz |
 | 155 | 201 | Melvin Baird |
 | 156 | 199 | TheNeesh50 |

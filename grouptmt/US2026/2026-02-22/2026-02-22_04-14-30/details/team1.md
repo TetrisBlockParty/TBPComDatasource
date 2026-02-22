@@ -73,8 +73,8 @@
 | 65 | 428 | Kellie |
 | 66 | 428 | Stephanie Zahn |
 | 67 | 413 | Steve Schneider |
-| 68 | 412 | Anaid Sanchez |
-| 69 | 412 | Jazzy Framezone |
+| 68 | 412 | Jazzy Framezone |
+| 69 | 412 | Anaid Sanchez |
 | 70 | 391 | Robert Benito |
 | 71 | 390 | Candy Jones |
 | 72 | 390 | Cynthia Bradley |
@@ -123,8 +123,8 @@
 | 115 | 276 | Dandy Basegrid |
 | 116 | 275 | Bhelle Sumile |
 | 117 | 273 | Happy Basegrid |
-| 118 | 264 | Lexuriuos Lifestlye |
-| 119 | 264 | Jenny Gingrich Fuentes |
+| 118 | 264 | Jenny Gingrich Fuentes |
+| 119 | 264 | Lexuriuos Lifestlye |
 | 120 | 263 | Sharon Reynolds |
 | 121 | 263 | Jason Jones |
 | 122 | 256 | David Miller |
@@ -142,8 +142,8 @@
 | 134 | 230 | Billie Dawn Sparks |
 | 135 | 228 | ALFD |
 | 136 | 226 | Kandae |
-| 137 | 217 | Dizzy Party |
-| 138 | 217 | ParisandCory Champagne |
+| 137 | 217 | ParisandCory Champagne |
+| 138 | 217 | Dizzy Party |
 | 139 | 216 | MRdot Rooski |
 | 140 | 216 | Shauntina Burke |
 | 141 | 214 | GATOR |
@@ -281,7 +281,7 @@
 | 273 | 116 | Fresno Beotoni |
 | 274 | 116 | Debbie Davis |
 | 275 | 115 | Mrs.Patrica |
-| 276 | 114 | Angela Rena Brooks |
+| 276 | 114 | Rachel Nichole Henry |
 | 277 | 114 | Constance Risner |
 | 278 | 114 | Angela Rena Brooks |
 | 279 | 112 | Crystal Joslin |

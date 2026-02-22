@@ -184,8 +184,8 @@
 | 176 | 881 | Tanya Parsons |
 | 177 | 878 | L3sli3 |
 | 178 | 871 | Jamie Otero |
-| 179 | 867 | YiFei |
-| 180 | 867 | Rosa Franklin |
+| 179 | 867 | Rosa Franklin |
+| 180 | 867 | YiFei |
 | 181 | 867 | Michele Gabriel |
 | 182 | 865 | Dedra Steward |
 | 183 | 862 | Robin Kerby |
@@ -197,8 +197,8 @@
 | 189 | 845 | April Dawn Gussler |
 | 190 | 838 | Tralonda Weeks |
 | 191 | 837 | Ashley Rose Frederick |
-| 192 | 834 | Nika Bee |
-| 193 | 834 | Rebecca Doughman |
+| 192 | 834 | Rebecca Doughman |
+| 193 | 834 | Nika Bee |
 | 194 | 828 | Cindy Sechler Taninecz |
 | 195 | 826 | Moose Griffith |
 | 196 | 824 | Felicia Lynn |
@@ -348,8 +348,8 @@
 | 340 | 507 | Magic steve |
 | 341 | 507 | Gauri Shrotriya |
 | 342 | 504 | Lylymom |
-| 343 | 502 | Poppy Snap |
-| 344 | 502 | Sparkles |
+| 343 | 502 | Sparkles |
+| 344 | 502 | Poppy Snap |
 | 345 | 500 | Sarah Ridenour |
 | 346 | 499 | Sarah Massey |
 | 347 | 497 | Jeremy Parodi |
@@ -393,9 +393,9 @@
 | 385 | 465 | Michelle Fields |
 | 386 | 463 | Jaye EL Hunter |
 | 387 | 463 | Sue Leard |
-| 388 | 462 | Daphne Jordan |
-| 389 | 462 | Tonya Lee |
-| 390 | 462 | Amanda Ferrell |
+| 388 | 462 | Tonya Lee |
+| 389 | 462 | Amanda Ferrell |
+| 390 | 462 | Daphne Jordan |
 | 391 | 461 | Hong Tang |
 | 392 | 460 | Cody Smith-Candelaria |
 | 393 | 459 | Cassie Mercer |
@@ -563,8 +563,8 @@
 | 555 | 345 | Frisky Clearpiece |
 | 556 | 345 | Rhianna DiLorenzo |
 | 557 | 345 | Gina Caulder |
-| 558 | 344 | Glenn Cobbins |
-| 559 | 344 | Tra Barnum |
+| 558 | 344 | Tra Barnum |
+| 559 | 344 | Glenn Cobbins |
 | 560 | 343 | Peppy Snapfall |
 | 561 | 343 | Kia Humphery |
 | 562 | 342 | Angi Harrison |
