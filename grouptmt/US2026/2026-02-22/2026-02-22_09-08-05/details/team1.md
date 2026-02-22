@@ -132,8 +132,8 @@
 | 124 | 290 | Death |
 | 125 | 286 | Arianna O'Brien |
 | 126 | 285 | Ananda Mendez |
-| 127 | 284 | Rachael |
-| 128 | 284 | Emily Adelaide Wheatley |
+| 127 | 284 | Emily Adelaide Wheatley |
+| 128 | 284 | Rachael |
 | 129 | 283 | Franswa |
 | 130 | 282 | Cool Shiftsnap |
 | 131 | 282 | Timothy Dew |
@@ -172,8 +172,8 @@
 | 164 | 224 | Dizzy Party |
 | 165 | 218 | LC |
 | 166 | 217 | ParisandCory Champagne |
-| 167 | 216 | MRdot Rooski |
-| 168 | 216 | Shauntina Burke |
+| 167 | 216 | Shauntina Burke |
+| 168 | 216 | MRdot Rooski |
 | 169 | 215 | Sam Williams |
 | 170 | 214 | Chirpy Smasher |
 | 171 | 213 | Daring Fitclear |

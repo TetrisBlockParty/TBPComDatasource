@@ -204,8 +204,8 @@
 | 196 | 919 | Isaac Trappiel IV |
 | 197 | 916 | Butta |
 | 198 | 915 | Kelly Trent |
-| 199 | 910 | Crystal Hoffman |
-| 200 | 910 | Shuany Arias |
+| 199 | 910 | Shuany Arias |
+| 200 | 910 | Crystal Hoffman |
 | 201 | 907 | Gene Mills |
 | 202 | 901 | Jennifer Peachey |
 | 203 | 892 | Auntie B |
@@ -335,8 +335,8 @@
 | 327 | 613 | Caitlyn Blackwell |
 | 328 | 613 | Ellie Jonas |
 | 329 | 611 | Em Chen |
-| 330 | 611 | Carl Bradshaw |
-| 331 | 611 | Julio A Laracuente |
+| 330 | 611 | Julio A Laracuente |
+| 331 | 611 | Carl Bradshaw |
 | 332 | 605 | Jelly |
 | 333 | 603 | Cassie Maynard |
 | 334 | 602 | Christine Bollig |
@@ -365,8 +365,8 @@
 | 357 | 561 | Traci Johnson |
 | 358 | 557 | Block Master |
 | 359 | 556 | Slip |
-| 360 | 554 | Santana Miyagi |
-| 361 | 554 | Rachael Senard |
+| 360 | 554 | Rachael Senard |
+| 361 | 554 | Santana Miyagi |
 | 362 | 550 | Nashu |
 | 363 | 549 | Darcy Mae |
 | 364 | 549 | Kaylee McCafferty |
@@ -541,14 +541,14 @@
 | 533 | 407 | Tipsy Filler |
 | 534 | 406 | Erin StFrancis |
 | 535 | 406 | Kimberly Ann |
-| 536 | 404 | Dawn L Washington-Feuquay |
-| 537 | 404 | Goofy Catcher |
+| 536 | 404 | Goofy Catcher |
+| 537 | 404 | Dawn L Washington-Feuquay |
 | 538 | 404 | Snappy snappers |
 | 539 | 403 | Goofy Dasher |
 | 540 | 401 | Moua Ying |
 | 541 | 401 | Lee Harper |
-| 542 | 401 | Taylor Flowers |
-| 543 | 401 | De Hawkins |
+| 542 | 401 | De Hawkins |
+| 543 | 401 | Taylor Flowers |
 | 544 | 400 | Tammy Allen |
 | 545 | 400 | Kathleen Driskell |
 | 546 | 399 | Cleo Sims |
@@ -560,12 +560,12 @@
 | 552 | 394 | Taryece Gause |
 | 553 | 393 | Arlene Joy Belicina |
 | 554 | 393 | Alexandra Weir |
-| 555 | 393 | Jamie West |
-| 556 | 393 | bbv |
+| 555 | 393 | bbv |
+| 556 | 393 | Jamie West |
 | 557 | 393 | Deyawn Smith |
-| 558 | 391 | Adam Simmons |
-| 559 | 391 | Anthony Huebel |
-| 560 | 391 | Chilly Bridgepiece |
+| 558 | 391 | Anthony Huebel |
+| 559 | 391 | Chilly Bridgepiece |
+| 560 | 391 | Adam Simmons |
 | 561 | 391 | Qiana Sanders |
 | 562 | 390 | Moist_B-hole |
 | 563 | 390 | Besma Ao |
@@ -1909,7 +1909,7 @@
 | 1901 | 117 | Dana Praisehisname Livingston |
 | 1902 | 117 | Kara E. Butler |
 | 1903 | 117 | Luceros7 |
-| 1904 | 117 | Brian Baesler |
+| 1904 | 117 | Snazzy Striker |
 | 1905 | 117 | JAG$*V¡LL£•FL•DuuuVaL |
 | 1906 | 117 | Speedy Twistbuilder |
 | 1907 | 117 | Cristy Richardson |

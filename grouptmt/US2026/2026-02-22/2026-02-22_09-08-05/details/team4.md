@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Shelly Chandler |
-| 34 | 843 | Lucille Truesdale |
+| 33 | 843 | Lucille Truesdale |
+| 34 | 843 | Shelly Chandler |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -62,8 +62,8 @@
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Kimyatta Cavin |
-| 58 | 636 | Dustee Craddock-Harrison |
+| 57 | 636 | Dustee Craddock-Harrison |
+| 58 | 636 | Kimyatta Cavin |
 | 59 | 623 | Robin Getchel |
 | 60 | 599 | Brittney Griggs |
 | 61 | 593 | Lisa Davis |
@@ -99,8 +99,8 @@
 | 91 | 407 | Leslie Thomas |
 | 92 | 404 | Courtney Cicoria |
 | 93 | 401 | Zippy Gridlock |
-| 94 | 396 | Alicia Bass |
-| 95 | 396 | Amy Suckarieh |
+| 94 | 396 | Amy Suckarieh |
+| 95 | 396 | Alicia Bass |
 | 96 | 392 | Ericca Eldridge |
 | 97 | 391 | Ramel Rhodes |
 | 98 | 390 | Carlton Unfiltered |
@@ -130,8 +130,8 @@
 | 122 | 294 | Kesha Brady |
 | 123 | 290 | 🥔🥔 Spudz |
 | 124 | 287 | Shannon Ferrari |
-| 125 | 286 | Daria Rycewicz |
-| 126 | 286 | shark tato |
+| 125 | 286 | shark tato |
+| 126 | 286 | Daria Rycewicz |
 | 127 | 283 | Brittney Orengo |
 | 128 | 281 | Meagan Nicole |
 | 129 | 280 | Ashley Ingram |
@@ -160,8 +160,8 @@
 | 152 | 230 | Autum Leigh |
 | 153 | 229 | Chris Bernstein |
 | 154 | 228 | J-Rizzle |
-| 155 | 227 | Alyssa Papen |
-| 156 | 227 | Swanky Fitline |
+| 155 | 227 | Swanky Fitline |
+| 156 | 227 | Alyssa Papen |
 | 157 | 225 | Damn Libra |
 | 158 | 224 | Matt Summer |
 | 159 | 223 | Kris Bartlett |
@@ -184,16 +184,16 @@
 | 176 | 204 | Jen Caldwell |
 | 177 | 203 | Katherine Crane |
 | 178 | 202 | TRCuse |
-| 179 | 201 | Chance Strickland |
-| 180 | 201 | Melvin Baird |
+| 179 | 201 | Melvin Baird |
+| 180 | 201 | Chance Strickland |
 | 181 | 200 | Laura |
 | 182 | 199 | Zethra Prenisha Rahming |
 | 183 | 198 | Jessica Lynn Cutlip |
 | 184 | 198 | Keith Kelley |
 | 185 | 196 | Oscar Alberto Perez |
-| 186 | 195 | ZeeZee |
-| 187 | 195 | 中山成巳 |
-| 188 | 195 | Malakai Darien Fox |
+| 186 | 195 | Malakai Darien Fox |
+| 187 | 195 | ZeeZee |
+| 188 | 195 | 中山成巳 |
 | 189 | 194 | Zany Twisterfit |
 | 190 | 192 | Shauna Havard |
 | 191 | 191 | Klo |
@@ -224,8 +224,8 @@
 | 216 | 165 | James Hurley Jr. |
 | 217 | 164 | 030Synner |
 | 218 | 163 | Kristina Black |
-| 219 | 162 | Joanna |
-| 220 | 162 | John Brunetti |
+| 219 | 162 | John Brunetti |
+| 220 | 162 | Joanna |
 | 221 | 161 | Jenny Wells-Oakley |
 | 222 | 160 | Laura Hosford |
 | 223 | 160 | Brittany Marsh |
@@ -390,8 +390,8 @@
 | 382 | 101 | Saulc1991 |
 | 383 | 101 | wombat |
 | 384 | 100 | Sallie Sanborn |
-| 385 | 100 | Rico |
-| 386 | 100 | Marcus TheeyoungWoe Gilmore |
+| 385 | 100 | Marcus TheeyoungWoe Gilmore |
+| 386 | 100 | Rico |
 | 387 | 99 | Dapper Frame |
 | 388 | 98 | Dizzy Matchzone |
 | 389 | 98 | Groovy Gridlock |
