@@ -78,8 +78,8 @@
 | 70 | 664 | Julian Garcia |
 | 71 | 659 | Jonathan Kimbrough |
 | 72 | 655 | Carolyn Wallace |
-| 73 | 647 | Shauna Havard |
-| 74 | 647 | KM8 |
+| 73 | 647 | KM8 |
+| 74 | 647 | Shauna Havard |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 633 | Lisa Davis |
 | 77 | 626 | Brittney Griggs |
@@ -136,8 +136,8 @@
 | 128 | 393 | Trish |
 | 129 | 393 | Carlton Unfiltered |
 | 130 | 392 | Cristy Duerksen |
-| 131 | 391 | Austin Owens |
-| 132 | 391 | Lush Linkfall |
+| 131 | 391 | Lush Linkfall |
+| 132 | 391 | Austin Owens |
 | 133 | 391 | Ramel Rhodes |
 | 134 | 378 | Lucas J Sutton |
 | 135 | 377 | Carrie Brian |
@@ -160,8 +160,8 @@
 | 152 | 333 | Peachy Fall |
 | 153 | 333 | Twisty Cascadezone |
 | 154 | 332 | Leslie Nicole |
-| 155 | 332 | HastyGrabber |
-| 156 | 332 | Desi Desporte |
+| 155 | 332 | Desi Desporte |
+| 156 | 332 | HastyGrabber |
 | 157 | 330 | Oscar Alberto Perez |
 | 158 | 328 | Brandon Crabbs |
 | 159 | 328 | Kris Bartlett |
@@ -174,8 +174,8 @@
 | 166 | 312 | Rafael Valentin |
 | 167 | 311 | A5! |
 | 168 | 308 | Jeff Brian Gates |
-| 169 | 307 | Bio Nelly |
-| 170 | 307 | Girl |
+| 169 | 307 | Girl |
+| 170 | 307 | Bio Nelly |
 | 171 | 303 | shark tato |
 | 172 | 302 | Cursed Hag |
 | 173 | 301 | Andria Lynn |
@@ -194,8 +194,8 @@
 | 186 | 286 | Brittney Orengo |
 | 187 | 282 | Sue Joyce Staats |
 | 188 | 281 | Laura |
-| 189 | 277 | Kim Klutz Olson |
-| 190 | 277 | Mary Ann Pabukis |
+| 189 | 277 | Mary Ann Pabukis |
+| 190 | 277 | Kim Klutz Olson |
 | 191 | 276 | Joeliecea Cobb |
 | 192 | 272 | Alan George LaRage |
 | 193 | 272 | Dennis Bradley |
@@ -220,8 +220,8 @@
 | 212 | 256 | Mylo Lipscomb |
 | 213 | 250 | Matt Dell'Olio |
 | 214 | 249 | Ak Jones |
-| 215 | 248 | Chirpy Basepiece |
-| 216 | 248 | Jose Dejesus |
+| 215 | 248 | Jose Dejesus |
+| 216 | 248 | Chirpy Basepiece |
 | 217 | 246 | Carlos Ramirez |
 | 218 | 246 | Zethra Prenisha Rahming |
 | 219 | 245 | Autum Leigh |
