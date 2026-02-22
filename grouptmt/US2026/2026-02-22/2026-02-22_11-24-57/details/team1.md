@@ -96,8 +96,8 @@
 | 88 | 388 | Jennifer ManWarren |
 | 89 | 383 | Loony Fitzone |
 | 90 | 382 | Jacqueline Williams |
-| 91 | 379 | Nerdy Linkblock |
-| 92 | 379 | Kimmie Kimms |
+| 91 | 379 | Kimmie Kimms |
+| 92 | 379 | Nerdy Linkblock |
 | 93 | 379 | Austin James |
 | 94 | 376 | lil mickey |
 | 95 | 374 | Tinah Montanna |
@@ -120,11 +120,11 @@
 | 112 | 330 | Sweet Baker |
 | 113 | 326 | Monica Donato |
 | 114 | 321 | Maria C. Hernandez |
-| 115 | 319 | Deanna L Hermanson |
-| 116 | 319 | Patrick Luckenbill |
+| 115 | 319 | Patrick Luckenbill |
+| 116 | 319 | Deanna L Hermanson |
 | 117 | 318 | Jessica Sheehan |
-| 118 | 316 | Jennifer Hardman |
-| 119 | 316 | Ly Phethmany |
+| 118 | 316 | Ly Phethmany |
+| 119 | 316 | Jennifer Hardman |
 | 120 | 313 | Tanya Carpenter-Reynolds |
 | 121 | 310 | Seth Wesson |
 | 122 | 310 | Jason Jones |
@@ -196,8 +196,8 @@
 | 188 | 207 | Leslie Bush Yarbrough |
 | 189 | 207 | Brenda Alexander |
 | 190 | 206 | BadG52 |
-| 191 | 205 | Snappy Matcher |
-| 192 | 205 | Tater |
+| 191 | 205 | Tater |
+| 192 | 205 | Snappy Matcher |
 | 193 | 204 | Lacy Wolfe |
 | 194 | 203 | Paula Martin |
 | 195 | 203 | LaFontaine Leslie |
@@ -206,10 +206,10 @@
 | 198 | 200 | DaRascal |
 | 199 | 200 | Breanna Luna |
 | 200 | 200 | Flashy Rotator |
-| 201 | 199 | Basment Living |
-| 202 | 199 | Alenoush Karimian |
-| 203 | 198 | Happy Snapbuild |
-| 204 | 198 | Shiny Gridmatch |
+| 201 | 199 | Alenoush Karimian |
+| 202 | 199 | Basment Living |
+| 203 | 198 | Shiny Gridmatch |
+| 204 | 198 | Happy Snapbuild |
 | 205 | 195 | Bindi |
 | 206 | 195 | Jennifer Olewnik Soborowski |
 | 207 | 194 | Christy Jones |

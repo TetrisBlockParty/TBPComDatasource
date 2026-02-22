@@ -259,8 +259,8 @@
 | 251 | 256 | KayB |
 | 252 | 256 | Tiffany Davie |
 | 253 | 250 | fraulila |
-| 254 | 249 | Annie Marie |
-| 255 | 249 | JerseyJess |
+| 254 | 249 | JerseyJess |
+| 255 | 249 | Annie Marie |
 | 256 | 247 | Carrie Huskey |
 | 257 | 246 | Peppy Shifter |
 | 258 | 245 | Latoya Mayne |
@@ -312,8 +312,8 @@
 | 304 | 205 | Kirhonda Autmon |
 | 305 | 204 | Aerian Preston |
 | 306 | 203 | Angie Harper |
-| 307 | 202 | Tipsy Zonebuilder |
-| 308 | 202 | Staci George Fitzsimmons |
+| 307 | 202 | Staci George Fitzsimmons |
+| 308 | 202 | Tipsy Zonebuilder |
 | 309 | 201 | Alexmac |
 | 310 | 201 | Hyper Matchzone |
 | 311 | 200 | Saucy Buildout |
@@ -341,8 +341,8 @@
 | 333 | 181 | Denita Mungro |
 | 334 | 180 | Beth Ingham |
 | 335 | 179 | Christian Werndl |
-| 336 | 179 | Rachel Napper |
-| 337 | 179 | DanceLuvLaugh |
+| 336 | 179 | DanceLuvLaugh |
+| 337 | 179 | Rachel Napper |
 | 338 | 178 | Jess Dearborn |
 | 339 | 178 | Jennifer Alvey |
 | 340 | 177 | Kristin Delibac Corrigan |
@@ -369,8 +369,8 @@
 | 361 | 165 | Rainbow77375 |
 | 362 | 164 | Ashley Rufus Bythcez |
 | 363 | 164 | momo |
-| 364 | 163 | Christine Trester |
-| 365 | 163 | Diana Ibarra |
+| 364 | 163 | Diana Ibarra |
+| 365 | 163 | Christine Trester |
 | 366 | 163 | Ava Petito |
 | 367 | 162 | Stephanie Whitefield |
 | 368 | 162 | Eric Caccavale |
@@ -535,8 +535,8 @@
 | 527 | 113 | Gideon Walker |
 | 528 | 113 | Tia Moore |
 | 529 | 113 | Martin Bernier |
-| 530 | 113 | Leticia Lynn Lowe |
-| 531 | 113 | Christopher Woost |
+| 530 | 113 | Christopher Woost |
+| 531 | 113 | Leticia Lynn Lowe |
 | 532 | 112 | Bekah Dietrich |
 | 533 | 112 | Michael Kimbro |
 | 534 | 111 | Jennifer Neiman Gaal |

@@ -175,8 +175,8 @@
 | 167 | 1048 | PsychKIRAtrist |
 | 168 | 1047 | Amy Sayers |
 | 169 | 1045 | Lourisha |
-| 170 | 1043 | Suki Kaur |
-| 171 | 1043 | Brave Dropmatch |
+| 170 | 1043 | Brave Dropmatch |
+| 171 | 1043 | Suki Kaur |
 | 172 | 1035 | Sarah Freitas |
 | 173 | 1024 | Bri Lynn |
 | 174 | 1023 | Brainy Smurf |
@@ -211,8 +211,8 @@
 | 203 | 919 | Isaac Trappiel IV |
 | 204 | 916 | Butta |
 | 205 | 915 | Kelly Trent |
-| 206 | 910 | Crystal Hoffman |
-| 207 | 910 | Shuany Arias |
+| 206 | 910 | Shuany Arias |
+| 207 | 910 | Crystal Hoffman |
 | 208 | 907 | Gene Mills |
 | 209 | 901 | Jennifer Peachey |
 | 210 | 894 | Auntie B |
@@ -408,8 +408,8 @@
 | 400 | 522 | Joseph Musick |
 | 401 | 522 | Lylymom |
 | 402 | 521 | Tj Ball |
-| 403 | 520 | Angela Lynn |
-| 404 | 520 | Maddy Petersen |
+| 403 | 520 | Maddy Petersen |
+| 404 | 520 | Angela Lynn |
 | 405 | 519 | Rob Brown |
 | 406 | 517 | Alex Dungo Hoang |
 | 407 | 517 | Amber Brion |
@@ -420,8 +420,8 @@
 | 412 | 514 | Karen Posadas Centeno |
 | 413 | 511 | Laura Mclean |
 | 414 | 511 | BeQuo |
-| 415 | 509 | Jordan Kaiser |
-| 416 | 509 | Tonya Lee |
+| 415 | 509 | Tonya Lee |
+| 416 | 509 | Jordan Kaiser |
 | 417 | 509 | Kelli Wells |
 | 418 | 508 | Blacc Blac |
 | 419 | 507 | Joshua Mandel |
@@ -598,8 +598,8 @@
 | 590 | 387 | Misti Markijohn |
 | 591 | 386 | Wuntayk |
 | 592 | 385 | Tansaria Couch-Butler |
-| 593 | 384 | Party d |
-| 594 | 384 | Kelly |
+| 593 | 384 | Kelly |
+| 594 | 384 | Party d |
 | 595 | 383 | Jessica Conaway |
 | 596 | 383 | Belle Mari |
 | 597 | 382 | David Holliday |
@@ -685,8 +685,8 @@
 | 677 | 337 | Tum |
 | 678 | 337 | Diallo Sparkman |
 | 679 | 337 | Savannah Alexander |
-| 680 | 336 | bru |
-| 681 | 336 | Austin Wilson |
+| 680 | 336 | Austin Wilson |
+| 681 | 336 | bru |
 | 682 | 336 | Swanky Columnbuilder |
 | 683 | 335 | Brooke Leigh Strube |
 | 684 | 335 | Maria Louise |
@@ -705,8 +705,8 @@
 | 697 | 326 | Ann Knutson Anderson |
 | 698 | 325 | Justin Hines |
 | 699 | 325 | Mike73 |
-| 700 | 324 | Tasia Stinson |
-| 701 | 324 | Dale Haanpaa |
+| 700 | 324 | Dale Haanpaa |
+| 701 | 324 | Tasia Stinson |
 | 702 | 323 | Briana Alexander |
 | 703 | 322 | Christina Jarvis-Swarbrick |
 | 704 | 322 | Michelle Pike |
@@ -741,12 +741,12 @@
 | 733 | 308 | Claire |
 | 734 | 308 | Sarah block |
 | 735 | 308 | Katie Joy McCombs |
-| 736 | 307 | stacey |
-| 737 | 307 | Peachy Blockbuilder |
+| 736 | 307 | Peachy Blockbuilder |
+| 737 | 307 | stacey |
 | 738 | 306 | Kiorah Blaze |
 | 739 | 305 | Zany Clusterbuilder |
-| 740 | 305 | MamaBear11 |
-| 741 | 305 | Narutofreak13 |
+| 740 | 305 | Narutofreak13 |
+| 741 | 305 | MamaBear11 |
 | 742 | 304 | NFLPITMOM |
 | 743 | 304 | Melissa McCall |
 | 744 | 304 | James Smith |

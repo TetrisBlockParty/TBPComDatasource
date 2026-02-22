@@ -56,8 +56,8 @@
 | 48 | 697 | Edward White |
 | 49 | 695 | LisaJo Picken Buchanan |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Rebecca Moulton Pinciaro |
-| 52 | 659 | Jonathan Kimbrough |
+| 51 | 659 | Jonathan Kimbrough |
+| 52 | 659 | Rebecca Moulton Pinciaro |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
@@ -77,8 +77,8 @@
 | 69 | 530 | Yoset Mejia |
 | 70 | 524 | Amelpss |
 | 71 | 521 | Dawn Alexander |
-| 72 | 518 | Carolyn Wallace |
-| 73 | 518 | Eric Mcgaughy |
+| 72 | 518 | Eric Mcgaughy |
+| 73 | 518 | Carolyn Wallace |
 | 74 | 517 | H.R. Block |
 | 75 | 512 | Casey Jeffcoat |
 | 76 | 511 | Michelle Marie |
@@ -102,8 +102,8 @@
 | 94 | 404 | Courtney Cicoria |
 | 95 | 403 | shar |
 | 96 | 401 | Zippy Gridlock |
-| 97 | 396 | Amy Suckarieh |
-| 98 | 396 | Alicia Bass |
+| 97 | 396 | Alicia Bass |
+| 98 | 396 | Amy Suckarieh |
 | 99 | 392 | Ericca Eldridge |
 | 100 | 391 | Ramel Rhodes |
 | 101 | 390 | Carlton Unfiltered |
