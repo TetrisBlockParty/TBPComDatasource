@@ -174,8 +174,8 @@
 | 166 | 1203 | Suki Kaur |
 | 167 | 1201 | Murrae Lynn Rebarchek |
 | 168 | 1193 | David Cudicio-Hayden |
-| 169 | 1192 | Denisha Dawkins |
-| 170 | 1192 | Ashley House |
+| 169 | 1192 | Ashley House |
+| 170 | 1192 | Denisha Dawkins |
 | 171 | 1180 | Ambyre Patterson |
 | 172 | 1177 | Joyce Johnson Vaughn |
 | 173 | 1174 | Jennifer Casey-Kay |
@@ -274,8 +274,8 @@
 | 266 | 867 | Peppy Zone |
 | 267 | 865 | Kristin Gower |
 | 268 | 862 | Brittany Radaszewski |
-| 269 | 860 | April Dawn Gussler |
-| 270 | 860 | Sheniya Spurgeon |
+| 269 | 860 | Sheniya Spurgeon |
+| 270 | 860 | April Dawn Gussler |
 | 271 | 860 | William Hunt |
 | 272 | 857 | Kara Gillen |
 | 273 | 855 | F-X |
@@ -417,8 +417,8 @@
 | 409 | 613 | Tonya Lee |
 | 410 | 605 | Biggest thing |
 | 411 | 605 | g |
-| 412 | 602 | KhaosLord |
-| 413 | 602 | Shaun Church |
+| 412 | 602 | Shaun Church |
+| 413 | 602 | KhaosLord |
 | 414 | 601 | Moua Ying |
 | 415 | 600 | Arkei Luster |
 | 416 | 599 | Nashu |
@@ -588,8 +588,8 @@
 | 580 | 450 | Mike Aprilliano |
 | 581 | 450 | Rich Sullivan |
 | 582 | 449 | Kristi Biddinger |
-| 583 | 448 | Darlene Bowman |
-| 584 | 448 | Lina Sanders |
+| 583 | 448 | Lina Sanders |
+| 584 | 448 | Darlene Bowman |
 | 585 | 447 | Boozi |
 | 586 | 447 | Besma Ao |
 | 587 | 446 | NanDa Cruzan VI |

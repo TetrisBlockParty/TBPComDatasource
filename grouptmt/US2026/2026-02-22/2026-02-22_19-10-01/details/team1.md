@@ -94,8 +94,8 @@
 | 86 | 456 | Arianna O'Brien |
 | 87 | 453 | Brandi Huntington |
 | 88 | 448 | Loony Fitzone |
-| 89 | 444 | Lexuriuos Lifestlye |
-| 90 | 444 | Hyper |
+| 89 | 444 | Hyper |
+| 90 | 444 | Lexuriuos Lifestlye |
 | 91 | 443 | Steve Schneider |
 | 92 | 439 | Trina Gee |
 | 93 | 436 | Tonya Beasley |
@@ -218,8 +218,8 @@
 | 210 | 234 | Paula Martin |
 | 211 | 233 | LC |
 | 212 | 230 | BigWeenie69 |
-| 213 | 228 | Cheeky Pop |
-| 214 | 228 | Giddy Cascade |
+| 213 | 228 | Giddy Cascade |
+| 214 | 228 | Cheeky Pop |
 | 215 | 227 | Cody Gates |
 | 216 | 226 | Michael |
 | 217 | 226 | Jason Savage |
@@ -244,8 +244,8 @@
 | 236 | 213 | Speedy Liney |
 | 237 | 213 | Shanae Grant |
 | 238 | 212 | Tyler Hertzog |
-| 239 | 211 | Erin Rosberg |
-| 240 | 211 | Sarah Somers Gray |
+| 239 | 211 | Sarah Somers Gray |
+| 240 | 211 | Erin Rosberg |
 | 241 | 210 | Jessie Welch |
 | 242 | 209 | Cece Ibarra |
 | 243 | 209 | Jeanna Dunn |

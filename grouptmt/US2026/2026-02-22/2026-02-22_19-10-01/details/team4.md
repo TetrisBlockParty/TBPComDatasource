@@ -45,8 +45,8 @@
 | 37 | 901 | Koshin Abdirahman |
 | 38 | 886 | Dustin Robert |
 | 39 | 871 | Denny Shives |
-| 40 | 846 | Lucille Truesdale |
-| 41 | 846 | Christine Marie |
+| 40 | 846 | Christine Marie |
+| 41 | 846 | Lucille Truesdale |
 | 42 | 843 | Jae Job |
 | 43 | 843 | Shelly Chandler |
 | 44 | 836 | LisaJo Picken Buchanan |
@@ -95,8 +95,8 @@
 | 87 | 539 | Chris Baggett |
 | 88 | 531 | Amelpss |
 | 89 | 531 | Dawn Alexander |
-| 90 | 513 | Erin Thomas |
-| 91 | 513 | YoMomma |
+| 90 | 513 | YoMomma |
+| 91 | 513 | Erin Thomas |
 | 92 | 512 | Casey Jeffcoat |
 | 93 | 507 | Denise Carlson |
 | 94 | 505 | Diana Houts |
@@ -113,8 +113,8 @@
 | 105 | 441 | Chastity Mitchell |
 | 106 | 440 | Lori Walker |
 | 107 | 435 | Leslie Thomas |
-| 108 | 427 | Jolly Dashfit |
-| 109 | 427 | KJ Pool |
+| 108 | 427 | KJ Pool |
+| 109 | 427 | Jolly Dashfit |
 | 110 | 426 | Ren Mc |
 | 111 | 419 | shar |
 | 112 | 415 | Monica Daley |
@@ -131,8 +131,8 @@
 | 123 | 373 | Joseph Guthrie |
 | 124 | 369 | Nope Young |
 | 125 | 356 | Serena Goodridge |
-| 126 | 353 | Tyler Terrific |
-| 127 | 353 | Livvy |
+| 126 | 353 | Livvy |
+| 127 | 353 | Tyler Terrific |
 | 128 | 344 | Lush Linkfall |
 | 129 | 343 | Latisha Davis |
 | 130 | 342 | Dizzy Tiley |
@@ -147,8 +147,8 @@
 | 139 | 328 | Leslie Nicole |
 | 140 | 324 | Jessica Lynn Cutlip |
 | 141 | 323 | Daria Rycewicz |
-| 142 | 321 | Klo |
-| 143 | 321 | Trista Leah |
+| 142 | 321 | Trista Leah |
+| 143 | 321 | Klo |
 | 144 | 319 | Guy Incognito |
 | 145 | 318 | Lauren Scott |
 | 146 | 316 | Meagan Nicole |
@@ -159,8 +159,8 @@
 | 151 | 300 | Jason Hart |
 | 152 | 300 | Dana Scott |
 | 153 | 299 | TRCuse |
-| 154 | 294 | Calvin Cannon |
-| 155 | 294 | Kesha Brady |
+| 154 | 294 | Kesha Brady |
+| 155 | 294 | Calvin Cannon |
 | 156 | 292 | Cursed Hag |
 | 157 | 292 | Rafael Valentin |
 | 158 | 291 | shark tato |
@@ -411,18 +411,18 @@
 | 403 | 127 | Robert Rodriguez |
 | 404 | 127 | Gdiguy |
 | 405 | 127 | Frank Cook |
-| 406 | 126 | Cheryl Johnson |
-| 407 | 126 | PAPatty |
-| 408 | 125 | Frilly Blocky |
+| 406 | 126 | PAPatty |
+| 407 | 126 | Cheryl Johnson |
+| 408 | 125 | Sallie Sanborn |
 | 409 | 125 | Steph Marie |
-| 410 | 125 | Sallie Sanborn |
+| 410 | 125 | Frilly Blocky |
 | 411 | 124 | Nikki Wilson |
 | 412 | 124 | Marcela Johnson |
 | 413 | 124 | Atia Scott |
 | 414 | 124 | Cheery Towerzone |
 | 415 | 123 | MOCHA |
-| 416 | 123 | Jennifer Perkins |
-| 417 | 123 | Sunny Filler |
+| 416 | 123 | Sunny Filler |
+| 417 | 123 | Jennifer Perkins |
 | 418 | 122 | Blessedmama |
 | 419 | 122 | Spicy Cascadezone |
 | 420 | 122 | Kate |

@@ -89,8 +89,8 @@
 | 81 | 828 | Jessica Ann |
 | 82 | 826 | Shane Wilson Jr. |
 | 83 | 824 | Shari Garber |
-| 84 | 811 | Jay Horn |
-| 85 | 811 | Sarajane Lokan |
+| 84 | 811 | Sarajane Lokan |
+| 85 | 811 | Jay Horn |
 | 86 | 807 | Snappy Glidepiece |
 | 87 | 800 | Lauren Girouard |
 | 88 | 784 | Nerdy Riseclear |
@@ -460,7 +460,7 @@
 | 452 | 167 | Boldy Blocker |
 | 453 | 166 | Block Baddie |
 | 454 | 166 | Armi |
-| 455 | 166 | Block Baddie |
+| 455 | 166 | Rashad Green |
 | 456 | 165 | Kali Kelz Williams |
 | 457 | 165 | Mary Giorgenti |
 | 458 | 165 | Gideon Walker |
