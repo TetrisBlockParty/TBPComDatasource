@@ -402,8 +402,8 @@
 | 394 | 545 | Frisky Clearpiece |
 | 395 | 544 | Deidre Shaffer |
 | 396 | 544 | Leah Keesling |
-| 397 | 543 | Julie Kresal |
-| 398 | 543 | Vanessa Moreno |
+| 397 | 543 | Vanessa Moreno |
+| 398 | 543 | Julie Kresal |
 | 399 | 542 | AISlop |
 | 400 | 541 | g |
 | 401 | 540 | Dizzy Zone |
@@ -611,8 +611,8 @@
 | 603 | 387 | Misti Markijohn |
 | 604 | 385 | Tansaria Couch-Butler |
 | 605 | 384 | Mary Marie |
-| 606 | 384 | Party d |
-| 607 | 384 | Kelly |
+| 606 | 384 | Kelly |
+| 607 | 384 | Party d |
 | 608 | 383 | Jessica Conaway |
 | 609 | 383 | Belle Mari |
 | 610 | 382 | David Holliday |
@@ -702,8 +702,8 @@
 | 694 | 336 | Austin Wilson |
 | 695 | 336 | bru |
 | 696 | 336 | Swanky Columnbuilder |
-| 697 | 335 | Brooke Leigh Strube |
-| 698 | 335 | Alexandrea |
+| 697 | 335 | Alexandrea |
+| 698 | 335 | Brooke Leigh Strube |
 | 699 | 335 | Maria Louise |
 | 700 | 334 | Melissa James |
 | 701 | 333 | Adrian Benitez |
@@ -868,8 +868,8 @@
 | 860 | 272 | Witty Piecebuilder |
 | 861 | 271 | Michelle Ettrick |
 | 862 | 271 | Pam Doughty |
-| 863 | 271 | Beverly Hodge |
-| 864 | 271 | Shalisa Hill |
+| 863 | 271 | Shalisa Hill |
+| 864 | 271 | Beverly Hodge |
 | 865 | 271 | Amber N Koepp |
 | 866 | 270 | Lazy Builderfit |
 | 867 | 270 | BK Queen |

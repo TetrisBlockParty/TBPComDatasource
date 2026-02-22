@@ -41,8 +41,8 @@
 | 33 | 873 | Elizabeth Sallas |
 | 34 | 871 | Denny Shives |
 | 35 | 846 | Christine Marie |
-| 36 | 843 | Shelly Chandler |
-| 37 | 843 | Lucille Truesdale |
+| 36 | 843 | Lucille Truesdale |
+| 37 | 843 | Shelly Chandler |
 | 38 | 834 | quicksand420 |
 | 39 | 818 | Marvin Lou Martin |
 | 40 | 811 | Jae Job |
@@ -61,8 +61,8 @@
 | 53 | 697 | Edward White |
 | 54 | 664 | Valerie Roberts |
 | 55 | 661 | D3TROITB0RN74 |
-| 56 | 659 | Rebecca Moulton Pinciaro |
-| 57 | 659 | Jonathan Kimbrough |
+| 56 | 659 | Jonathan Kimbrough |
+| 57 | 659 | Rebecca Moulton Pinciaro |
 | 58 | 658 | loulou |
 | 59 | 654 | Chilly Line |
 | 60 | 647 | KM8 |
@@ -172,8 +172,8 @@
 | 164 | 240 | Peachy Fall |
 | 165 | 236 | Swanky Fitline |
 | 166 | 232 | Crystal Nicolette Moore |
-| 167 | 230 | Cursed Hag |
-| 168 | 230 | Autum Leigh |
+| 167 | 230 | Autum Leigh |
+| 168 | 230 | Cursed Hag |
 | 169 | 227 | Alyssa Papen |
 | 170 | 224 | Matt Summer |
 | 171 | 223 | Antony Dwayne Beasley |
@@ -509,7 +509,7 @@
 | 501 | 80 | Shirl |
 | 502 | 80 | Melissa Adams |
 | 503 | 80 | Alee Marie |
-| 504 | 80 | Christina Hyde |
+| 504 | 80 | Brittany Little |
 | 505 | 80 | Somnium Era |
 | 506 | 80 | Alo |
 | 507 | 79 | Milan Markeisha |

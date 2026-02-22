@@ -54,8 +54,8 @@
 | 46 | 671 | Lawrence Belanger |
 | 47 | 663 | Drew Magnus |
 | 48 | 646 | Susanna Guerry |
-| 49 | 635 | Angel Fowler |
-| 50 | 635 | Marianne Louise West |
+| 49 | 635 | Marianne Louise West |
+| 50 | 635 | Angel Fowler |
 | 51 | 631 | comrade fish |
 | 52 | 627 | Katie Daniels |
 | 53 | 614 | Snappy Swiper |
@@ -204,8 +204,8 @@
 | 196 | 207 | Brenda Alexander |
 | 197 | 207 | Leslie Bush Yarbrough |
 | 198 | 206 | BadG52 |
-| 199 | 205 | Snappy Matcher |
-| 200 | 205 | Tater |
+| 199 | 205 | Tater |
+| 200 | 205 | Snappy Matcher |
 | 201 | 204 | Lacy Wolfe |
 | 202 | 203 | Paula Martin |
 | 203 | 203 | LaFontaine Leslie |
@@ -373,8 +373,8 @@
 | 365 | 115 | Brave Slice |
 | 366 | 115 | Michelle |
 | 367 | 115 | Quirky Pusher |
-| 368 | 114 | ESC |
-| 369 | 114 | Angela Rena Brooks |
+| 368 | 114 | Angela Rena Brooks |
+| 369 | 114 | ESC |
 | 370 | 113 | I Am |
 | 371 | 112 | Glitzy Curvebuilder |
 | 372 | 112 | Negan Mallory Knoxx Spence |

@@ -64,8 +64,8 @@
 | 56 | 909 | Jennifer |
 | 57 | 908 | Alanna Rogers |
 | 58 | 903 | Sarah Fehring |
-| 59 | 895 | Amanda L Baker |
-| 60 | 895 | Shonna Roberts |
+| 59 | 895 | Shonna Roberts |
+| 60 | 895 | Amanda L Baker |
 | 61 | 886 | Khristen AC |
 | 62 | 882 | Susan Valentino |
 | 63 | 874 | Nate Burnside |
@@ -165,8 +165,8 @@
 | 157 | 403 | Scott Lindsay |
 | 158 | 401 | Katie Knaus |
 | 159 | 400 | Luciana Braganca Vieira |
-| 160 | 399 | Marcie Bressler |
-| 161 | 399 | Mcathen |
+| 160 | 399 | Mcathen |
+| 161 | 399 | Marcie Bressler |
 | 162 | 397 | Annie Déè |
 | 163 | 393 | Fallorina Susana |
 | 164 | 391 | Calista Jo Dickson |
