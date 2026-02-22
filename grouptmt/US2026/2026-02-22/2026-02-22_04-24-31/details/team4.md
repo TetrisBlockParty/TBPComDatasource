@@ -79,8 +79,8 @@
 | 71 | 409 | Isabella Blanco |
 | 72 | 404 | Courtney Cicoria |
 | 73 | 399 | Jenna Ingersoll |
-| 74 | 396 | Amy Suckarieh |
-| 75 | 396 | Alicia Bass |
+| 74 | 396 | Alicia Bass |
+| 75 | 396 | Amy Suckarieh |
 | 76 | 392 | YoMomma |
 | 77 | 391 | Ramel Rhodes |
 | 78 | 390 | Carlton Unfiltered |
@@ -91,8 +91,8 @@
 | 83 | 373 | Joseph Guthrie |
 | 84 | 370 | Leslie Thomas |
 | 85 | 369 | Nope Young |
-| 86 | 358 | Nugget |
-| 87 | 358 | Shane Kalamata Platoon |
+| 86 | 358 | Shane Kalamata Platoon |
+| 87 | 358 | Nugget |
 | 88 | 352 | Monica Daley |
 | 89 | 347 | Julian Garcia |
 | 90 | 337 | Lori Walker |
@@ -154,8 +154,8 @@
 | 146 | 211 | Twisty Cascadezone |
 | 147 | 211 | Jenna McGeorge |
 | 148 | 210 | Swanky Fitline |
-| 149 | 205 | Kathy Brookins |
-| 150 | 205 | Sarah Neathery |
+| 149 | 205 | Sarah Neathery |
+| 150 | 205 | Kathy Brookins |
 | 151 | 204 | Jen Caldwell |
 | 152 | 203 | Katherine Crane |
 | 153 | 203 | Chris Bernstein |
@@ -172,21 +172,21 @@
 | 164 | 189 | Calvin Dennis |
 | 165 | 188 | Andria Lynn |
 | 166 | 186 | Holly |
-| 167 | 185 | Andy Cabral |
-| 168 | 185 | Lori |
+| 167 | 185 | Lori |
+| 168 | 185 | Andy Cabral |
 | 169 | 185 | Diana Houts |
 | 170 | 184 | Ak Jones |
-| 171 | 181 | Klo |
-| 172 | 181 | Alan George LaRage |
-| 173 | 181 | Carter Jones |
+| 171 | 181 | Carter Jones |
+| 172 | 181 | Klo |
+| 173 | 181 | Alan George LaRage |
 | 174 | 180 | Orchislactea |
 | 175 | 179 | blockstar |
 | 176 | 176 | Zethra Prenisha Rahming |
 | 177 | 174 | Dihcheese444 |
 | 178 | 173 | ThaEviLJeNiuZ |
 | 179 | 168 | TinyLegoRose |
-| 180 | 166 | Cozy Balancer |
-| 181 | 166 | SammieJo Guy |
+| 180 | 166 | SammieJo Guy |
+| 181 | 166 | Cozy Balancer |
 | 182 | 164 | 030Synner |
 | 183 | 162 | Joanna |
 | 184 | 160 | Rheanda Weaskus |
@@ -216,7 +216,7 @@
 | 208 | 148 | Brittany Marsh |
 | 209 | 147 | B Renee Desjardin |
 | 210 | 147 | Jay28 |
-| 211 | 147 | B Renee Desjardin |
+| 211 | 147 | Jared Gutwein |
 | 212 | 145 | Mimi |
 | 213 | 144 | Tanner Lund |
 | 214 | 143 | Zesty Twistbuilder |
@@ -272,8 +272,8 @@
 | 264 | 125 | Steph Marie |
 | 265 | 125 | Daresha Fair |
 | 266 | 124 | Sam Middleton |
-| 267 | 123 | Joseph Edmonson |
-| 268 | 123 | Sandra Safford |
+| 267 | 123 | Sandra Safford |
+| 268 | 123 | Joseph Edmonson |
 | 269 | 121 | Joseph Pace |
 | 270 | 120 | Bryan Hodgins |
 | 271 | 120 | Rafael Valentin |

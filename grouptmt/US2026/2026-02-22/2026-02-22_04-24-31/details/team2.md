@@ -333,8 +333,8 @@
 | 325 | 525 | Desiree Anderson |
 | 326 | 524 | Jojo Momma |
 | 327 | 521 | Tj Ball |
-| 328 | 520 | Maddy Petersen |
-| 329 | 520 | Angela Lynn |
+| 328 | 520 | Angela Lynn |
+| 329 | 520 | Maddy Petersen |
 | 330 | 520 | Cheech Dta |
 | 331 | 519 | AISlop |
 | 332 | 519 | Rob Brown |
@@ -410,8 +410,8 @@
 | 402 | 451 | Dylan Thomason |
 | 403 | 449 | Davetta Sanford |
 | 404 | 447 | Heather Schelkopf |
-| 405 | 447 | Brandy Andre |
-| 406 | 447 | Ann Matzkanin |
+| 405 | 447 | Ann Matzkanin |
+| 406 | 447 | Brandy Andre |
 | 407 | 447 | Lourisha |
 | 408 | 445 | Mar Q Thomas |
 | 409 | 443 | Joseph Musick |
@@ -745,8 +745,8 @@
 | 737 | 258 | Tee Jaleesa |
 | 738 | 258 | JacJac |
 | 739 | 257 | Jackie Jackie Lee |
-| 740 | 256 | Brenna Yearian |
-| 741 | 256 | Quirky Twistline |
+| 740 | 256 | Quirky Twistline |
+| 741 | 256 | Brenna Yearian |
 | 742 | 256 | Amy Humphreys |
 | 743 | 256 | Andrea Devery Beck |
 | 744 | 255 | Tom Steffen |
@@ -967,10 +967,10 @@
 | 959 | 196 | Goofy Cascadeclear |
 | 960 | 195 | Diona Burns |
 | 961 | 194 | Snappy Slamdrop |
-| 962 | 193 | Seth Wrieden |
-| 963 | 193 | Kristen Casale Berry |
-| 964 | 193 | Tanya Eubanks |
-| 965 | 193 | Spunky Dash |
+| 962 | 193 | Kristen Casale Berry |
+| 963 | 193 | Seth Wrieden |
+| 964 | 193 | D5wag2014 |
+| 965 | 193 | Tanya Eubanks |
 | 966 | 193 | Hyper Gridroll |
 | 967 | 193 | Spunky Dash |
 | 968 | 193 | Kelly Ann McCormick |

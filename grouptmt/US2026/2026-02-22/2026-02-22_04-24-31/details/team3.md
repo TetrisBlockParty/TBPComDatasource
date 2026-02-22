@@ -136,8 +136,8 @@
 | 128 | 403 | Christine Filson |
 | 129 | 402 | Shannon Matthew Byers |
 | 130 | 400 | Luciana Braganca Vieira |
-| 131 | 399 | Patti Skiles |
-| 132 | 399 | Mcathen |
+| 131 | 399 | Mcathen |
+| 132 | 399 | Patti Skiles |
 | 133 | 397 | Annie Déè |
 | 134 | 392 | Tasha Gillespie |
 | 135 | 392 | Katie Knaus |
@@ -273,14 +273,14 @@
 | 265 | 195 | Cheryl Hinch Tenbrook |
 | 266 | 194 | Saucy Buildout |
 | 267 | 193 | Clever Shiftsnap |
-| 268 | 192 | Ryan Williams |
-| 269 | 192 | Kelly Ann Child |
+| 268 | 192 | Kelly Ann Child |
+| 269 | 192 | Ryan Williams |
 | 270 | 191 | Meowsa |
 | 271 | 189 | Katie Leigh Blankenship |
 | 272 | 188 | Loopy Fallmatch |
-| 273 | 184 | France Vézina |
-| 274 | 184 | Troy |
-| 275 | 184 | El Chapa |
+| 273 | 184 | El Chapa |
+| 274 | 184 | France Vézina |
+| 275 | 184 | Troy |
 | 276 | 182 | Carrie Huskey |
 | 277 | 182 | Melanie Sherwood |
 | 278 | 181 | Nicholas Roddy |
@@ -294,8 +294,8 @@
 | 286 | 176 | Jennifer Alvey |
 | 287 | 176 | Melissa Orth Hunter |
 | 288 | 175 | Eileen Brady Thurber |
-| 289 | 174 | fraulila |
-| 290 | 174 | Betty Rosas |
+| 289 | 174 | Betty Rosas |
+| 290 | 174 | fraulila |
 | 291 | 174 | Lesley Perez |
 | 292 | 173 | Denita Mungro |
 | 293 | 173 | BŘŰŤİÇŨŚ |
@@ -379,7 +379,7 @@
 | 371 | 133 | Jen Lewis |
 | 372 | 132 | Andrew Thorson |
 | 373 | 132 | Hanna Kim |
-| 374 | 131 | Cheeky Snapper |
+| 374 | 131 | Beppy |
 | 375 | 131 | Cheeky Setter |
 | 376 | 131 | Cheeky Snapper |
 | 377 | 130 | Karen Picaboo |

@@ -151,8 +151,8 @@
 | 143 | 212 | Lori Bales |
 | 144 | 211 | Marianita Garcia |
 | 145 | 210 | Giggly Builderline |
-| 146 | 208 | lil mickey |
-| 147 | 208 | Bouncy Grid |
+| 146 | 208 | Bouncy Grid |
+| 147 | 208 | lil mickey |
 | 148 | 207 | Leslie Bush Yarbrough |
 | 149 | 206 | BadG52 |
 | 150 | 206 | Kimberly Garcia |
@@ -161,8 +161,8 @@
 | 153 | 203 | Paula Martin |
 | 154 | 201 | Sleepysloath5745 |
 | 155 | 199 | Basment Living |
-| 156 | 198 | Shiny Gridmatch |
-| 157 | 198 | Happy Snapbuild |
+| 156 | 198 | Happy Snapbuild |
+| 157 | 198 | Shiny Gridmatch |
 | 158 | 195 | Daring Fitclear |
 | 159 | 194 | Tyler Werts |
 | 160 | 193 | Lachelle Dillon |
