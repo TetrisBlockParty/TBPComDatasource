@@ -116,8 +116,8 @@
 | 108 | 344 | Bhelle Sumile |
 | 109 | 342 | Brenda Stewart |
 | 110 | 341 | Nick R Montague |
-| 111 | 333 | Gracie |
-| 112 | 333 | Brandi Huntington |
+| 111 | 333 | Brandi Huntington |
+| 112 | 333 | Gracie |
 | 113 | 332 | Kristen Gideon |
 | 114 | 330 | Sweet Baker |
 | 115 | 326 | Monica Donato |
@@ -235,7 +235,7 @@
 | 227 | 187 | GringaLinga |
 | 228 | 187 | Tawnya Peltonen |
 | 229 | 186 | Margo Wagner |
-| 230 | 184 | Bird Person |
+| 230 | 184 | Chris Sigurdson |
 | 231 | 184 | Desiree Deschaine Havee |
 | 232 | 184 | Bird Person |
 | 233 | 183 | Andrew Boone |
@@ -353,7 +353,7 @@
 | 345 | 123 | Tonya Beasley |
 | 346 | 123 | Test |
 | 347 | 122 | Nate Funk |
-| 348 | 121 | John Ramirez |
+| 348 | 121 | .running. |
 | 349 | 121 | Jacob Shaddock |
 | 350 | 121 | John Ramirez |
 | 351 | 120 | Shiny Rotate |

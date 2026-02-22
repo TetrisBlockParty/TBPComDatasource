@@ -109,8 +109,8 @@
 | 101 | 1535 | Donnie Hunt |
 | 102 | 1534 | Loopy Clusterbuilder |
 | 103 | 1534 | Laura Marie Pelletier |
-| 104 | 1516 | Stephen Stephen |
-| 105 | 1516 | Mindy Leigh Head |
+| 104 | 1516 | Mindy Leigh Head |
+| 105 | 1516 | Stephen Stephen |
 | 106 | 1513 | Jamie Main |
 | 107 | 1507 | Linda Pierce |
 | 108 | 1495 | blackq |
@@ -138,8 +138,8 @@
 | 130 | 1273 | Cool Rollpiece |
 | 131 | 1265 | Katrina Williams Balmir |
 | 132 | 1257 | Eileen Hale |
-| 133 | 1248 | Howard Forest |
-| 134 | 1248 | Isabela Shaw |
+| 133 | 1248 | Isabela Shaw |
+| 134 | 1248 | Howard Forest |
 | 135 | 1242 | Altamirano Michael |
 | 136 | 1232 | Groovy Puzzle |
 | 137 | 1226 | Vo'Landa Reels |
@@ -304,8 +304,8 @@
 | 296 | 697 | Dreamy Blast |
 | 297 | 696 | Jánine Riggs |
 | 298 | 695 | Lakeysha Dortch |
-| 299 | 692 | Jennifer Casey-Kay |
-| 300 | 692 | Dannette Goldberg-Richards |
+| 299 | 692 | Dannette Goldberg-Richards |
+| 300 | 692 | Jennifer Casey-Kay |
 | 301 | 691 | Joce Lynn |
 | 302 | 690 | Deborah Miller |
 | 303 | 689 | Giggy Blocker |
@@ -358,8 +358,8 @@
 | 350 | 611 | Em Chen |
 | 351 | 603 | Cassie Maynard |
 | 352 | 602 | KhaosLord |
-| 353 | 602 | Biggest thing |
-| 354 | 602 | Christine Bollig |
+| 353 | 602 | Christine Bollig |
+| 354 | 602 | Biggest thing |
 | 355 | 601 | Michele Morgan |
 | 356 | 600 | Demeka Dangerous-kisses Johnson |
 | 357 | 597 | Steven Marshaun |
@@ -385,8 +385,8 @@
 | 377 | 561 | Irene Jones |
 | 378 | 561 | Traci Johnson |
 | 379 | 560 | Phil J. Grombliniak |
-| 380 | 558 | Mikayala Szaz |
-| 381 | 558 | Libby Hicks |
+| 380 | 558 | Libby Hicks |
+| 381 | 558 | Mikayala Szaz |
 | 382 | 556 | Slip |
 | 383 | 554 | Santana Miyagi |
 | 384 | 554 | Rachael Senard |
@@ -439,8 +439,8 @@
 | 431 | 509 | Tonya Lee |
 | 432 | 509 | Jordan Kaiser |
 | 433 | 507 | Magic steve |
-| 434 | 504 | Kimmy Newman |
-| 435 | 504 | Brenna Ann |
+| 434 | 504 | Brenna Ann |
+| 435 | 504 | Kimmy Newman |
 | 436 | 502 | Sparkles |
 | 437 | 502 | Sheniya Spurgeon |
 | 438 | 500 | Sarah Ridenour |
@@ -506,8 +506,8 @@
 | 498 | 459 | Melissa Kay Gibson |
 | 499 | 458 | Casper The Chonk |
 | 500 | 454 | Casey Schumacher |
-| 501 | 453 | Rhonda Petro |
-| 502 | 453 | Joshua Sommerville |
+| 501 | 453 | Joshua Sommerville |
+| 502 | 453 | Rhonda Petro |
 | 503 | 452 | Sarah Berger |
 | 504 | 452 | Juanita Lyons |
 | 505 | 451 | Funky Caster |
@@ -515,8 +515,8 @@
 | 507 | 448 | Lee Harper |
 | 508 | 448 | Liberty |
 | 509 | 447 | Boozi |
-| 510 | 447 | Jessica S Flecha |
-| 511 | 447 | Besma Ao |
+| 510 | 447 | Besma Ao |
+| 511 | 447 | Jessica S Flecha |
 | 512 | 446 | Snippy Rumbler |
 | 513 | 445 | Mar Q Thomas |
 | 514 | 445 | Sharon Mills |
@@ -540,8 +540,8 @@
 | 532 | 429 | Tabs Reichert |
 | 533 | 428 | Arkei Luster |
 | 534 | 428 | Shyenn Gadsby |
-| 535 | 427 | Destiny Cozier |
-| 536 | 427 | Sabrina Burton |
+| 535 | 427 | Sabrina Burton |
+| 536 | 427 | Destiny Cozier |
 | 537 | 427 | Alexandra Weir |
 | 538 | 426 | Ashley Dow |
 | 539 | 425 | Skyler Morgan |
@@ -562,20 +562,20 @@
 | 554 | 413 | Lauren Fitzgerald Thomas |
 | 555 | 413 | Fancy Twister |
 | 556 | 412 | Jason H Baker |
-| 557 | 411 | Mighty Spinbuilder |
-| 558 | 411 | Kristen O'Neal |
+| 557 | 411 | Kristen O'Neal |
+| 558 | 411 | Mighty Spinbuilder |
 | 559 | 410 | Nicole Cannon |
 | 560 | 408 | Brandon Jones |
-| 561 | 408 | Stefanie Zonzini-Gagliardi |
-| 562 | 408 | Abimbola Bimbo |
+| 561 | 408 | Abimbola Bimbo |
+| 562 | 408 | Stefanie Zonzini-Gagliardi |
 | 563 | 407 | Goofy Catcher |
 | 564 | 407 | Cleo Sims |
 | 565 | 407 | Tipsy Filler |
 | 566 | 406 | Erin StFrancis |
 | 567 | 406 | Kimberly Ann |
 | 568 | 404 | Dawn L Washington-Feuquay |
-| 569 | 403 | Sarah DeHart |
-| 570 | 403 | Goofy Dasher |
+| 569 | 403 | Goofy Dasher |
+| 570 | 403 | Sarah DeHart |
 | 571 | 401 | Moua Ying |
 | 572 | 401 | De Hawkins |
 | 573 | 401 | Taylor Flowers |

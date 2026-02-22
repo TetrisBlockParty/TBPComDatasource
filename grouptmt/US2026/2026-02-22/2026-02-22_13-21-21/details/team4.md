@@ -40,8 +40,8 @@
 | 32 | 871 | Denny Shives |
 | 33 | 870 | Toots |
 | 34 | 846 | Christine Marie |
-| 35 | 843 | Lucille Truesdale |
-| 36 | 843 | Shelly Chandler |
+| 35 | 843 | Shelly Chandler |
+| 36 | 843 | Lucille Truesdale |
 | 37 | 834 | quicksand420 |
 | 38 | 818 | Marvin Lou Martin |
 | 39 | 811 | Jae Job |
@@ -80,8 +80,8 @@
 | 72 | 544 | Amy Suckarieh |
 | 73 | 533 | Chris Baggett |
 | 74 | 530 | Yoset Mejia |
-| 75 | 524 | Amelpss |
-| 76 | 524 | Carolyn Wallace |
+| 75 | 524 | Carolyn Wallace |
+| 76 | 524 | Amelpss |
 | 77 | 523 | Dawn Alexander |
 | 78 | 517 | H.R. Block |
 | 79 | 512 | Casey Jeffcoat |
@@ -143,8 +143,8 @@
 | 135 | 286 | shark tato |
 | 136 | 283 | Brittney Orengo |
 | 137 | 281 | Meagan Nicole |
-| 138 | 278 | Desi Desporte |
-| 139 | 278 | Carrie Brian |
+| 138 | 278 | Carrie Brian |
+| 139 | 278 | Desi Desporte |
 | 140 | 277 | Mary Ann Pabukis |
 | 141 | 275 | Dizzy Tiley |
 | 142 | 274 | Calvin Cannon |
@@ -164,8 +164,8 @@
 | 156 | 255 | Lindsay Ball |
 | 157 | 253 | Casey Grabner |
 | 158 | 250 | Matt Dell'Olio |
-| 159 | 249 | Chris Bernstein |
-| 160 | 249 | Leah Kutz Zirbel |
+| 159 | 249 | Leah Kutz Zirbel |
+| 160 | 249 | Chris Bernstein |
 | 161 | 245 | Diana Houts |
 | 162 | 244 | Twisty Cascadezone |
 | 163 | 244 | J-Rizzle |
@@ -177,10 +177,10 @@
 | 169 | 227 | Alyssa Papen |
 | 170 | 224 | Matt Summer |
 | 171 | 223 | Antony Dwayne Beasley |
-| 172 | 221 | Rheanda Weaskus |
-| 173 | 221 | PurpleMoonMa |
-| 174 | 217 | Chaz Duncan |
-| 175 | 217 | Kim Hunt |
+| 172 | 221 | PurpleMoonMa |
+| 173 | 221 | Rheanda Weaskus |
+| 174 | 217 | Kim Hunt |
+| 175 | 217 | Chaz Duncan |
 | 176 | 217 | Angela Srubar-Norman |
 | 177 | 215 | Porkobello |
 | 178 | 215 | Jessica Bohlken |

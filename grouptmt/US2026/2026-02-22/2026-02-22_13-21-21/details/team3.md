@@ -104,8 +104,8 @@
 | 96 | 595 | Patricia White |
 | 97 | 591 | Jesse Olive |
 | 98 | 588 | yoyo |
-| 99 | 582 | Jay Horn |
-| 100 | 582 | Natasha Jones |
+| 99 | 582 | Natasha Jones |
+| 100 | 582 | Jay Horn |
 | 101 | 581 | Danielle Mogg |
 | 102 | 579 | Jd Morris |
 | 103 | 577 | Giddy Drop |
@@ -340,10 +340,10 @@
 | 332 | 191 | Philip Rock |
 | 333 | 191 | Becca Engle |
 | 334 | 189 | Katie Leigh Blankenship |
-| 335 | 188 | Romeo |
-| 336 | 188 | Loopy Fallmatch |
-| 337 | 186 | Bryan Byrd |
-| 338 | 186 | Noettín Kan Zasnemoore |
+| 335 | 188 | Loopy Fallmatch |
+| 336 | 188 | Romeo |
+| 337 | 186 | Noettín Kan Zasnemoore |
+| 338 | 186 | Bryan Byrd |
 | 339 | 186 | Sameerah Smith |
 | 340 | 185 | Angella Lyons |
 | 341 | 184 | Troy |
