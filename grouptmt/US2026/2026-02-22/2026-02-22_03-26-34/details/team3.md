@@ -104,8 +104,8 @@
 | 96 | 506 | Sashay Tapae Simpson |
 | 97 | 503 | Susan Valentino |
 | 98 | 502 | Justin Ritter |
-| 99 | 500 | Kristie |
-| 100 | 500 | Domo Washington |
+| 99 | 500 | Domo Washington |
+| 100 | 500 | Kristie |
 | 101 | 497 | Mykal Burton |
 | 102 | 491 | Chauntee Alfrey-Cardinale |
 | 103 | 482 | Jennifer Lynn Fahrenholtz-Summers |
@@ -292,7 +292,7 @@
 | 284 | 170 | Betty Rosas |
 | 285 | 169 | Kristian Thurman |
 | 286 | 169 | Peachy Rollfit |
-| 287 | 167 | Romeo |
+| 287 | 167 | fraulila |
 | 288 | 167 | Shicken Nuggit |
 | 289 | 167 | Romeo |
 | 290 | 165 | Kali Kelz Williams |
@@ -363,8 +363,8 @@
 | 355 | 134 | Glenn Loving |
 | 356 | 134 | Jd Morris |
 | 357 | 134 | MizzMonick Smith |
-| 358 | 133 | Jen Lewis |
-| 359 | 133 | Crystal Hine |
+| 358 | 133 | Crystal Hine |
+| 359 | 133 | Jen Lewis |
 | 360 | 132 | Hanna Kim |
 | 361 | 131 | Cheeky Snapper |
 | 362 | 131 | Cheeky Setter |

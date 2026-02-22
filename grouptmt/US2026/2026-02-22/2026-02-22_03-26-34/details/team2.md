@@ -74,8 +74,8 @@
 | 66 | 1681 | Shameika Trail |
 | 67 | 1641 | Andea Beck |
 | 68 | 1620 | Sam Smith |
-| 69 | 1603 | RdRydnHd |
-| 70 | 1603 | Gabby Jenner |
+| 69 | 1603 | Gabby Jenner |
+| 70 | 1603 | RdRydnHd |
 | 71 | 1596 | Ray Ray Prado |
 | 72 | 1587 | Rob Riggin |
 | 73 | 1553 | Charie Holland |
@@ -288,8 +288,8 @@
 | 280 | 587 | Hyper Cluster |
 | 281 | 583 | Jessicah Myers |
 | 282 | 582 | Gary Stash |
-| 283 | 579 | Roy Salyer |
-| 284 | 579 | Juliana Marques Do Nascimento Gordy |
+| 283 | 579 | Juliana Marques Do Nascimento Gordy |
+| 284 | 579 | Roy Salyer |
 | 285 | 578 | Sally Dennis |
 | 286 | 576 | Ginger |
 | 287 | 572 | tejas25 |
@@ -505,8 +505,8 @@
 | 497 | 366 | Smashanator |
 | 498 | 366 | Courtney Burcham |
 | 499 | 365 | Christina Lewis-Vickers |
-| 500 | 365 | Audrey Jones |
-| 501 | 365 | Susan Arnburg |
+| 500 | 365 | Susan Arnburg |
+| 501 | 365 | Audrey Jones |
 | 502 | 364 | Shinette Dobson |
 | 503 | 363 | Michelle Sager |
 | 504 | 363 | Lawanda Forbes |
@@ -519,14 +519,14 @@
 | 511 | 359 | Cheyenne Donovan |
 | 512 | 358 | Alyssaaelena |
 | 513 | 358 | Sydney Busse |
-| 514 | 358 | Veronics |
+| 514 | 358 | Jessica Lamb |
 | 515 | 358 | Lewis Sturgeon |
 | 516 | 358 | Veronics |
 | 517 | 357 | Shannon Byrd |
 | 518 | 357 | Keri Womack |
 | 519 | 355 | Amanda Perez |
-| 520 | 354 | Rickey Johnson |
-| 521 | 354 | Connie Lepore-Mann |
+| 520 | 354 | Connie Lepore-Mann |
+| 521 | 354 | Rickey Johnson |
 | 522 | 353 | Cheery Matchzone |
 | 523 | 352 | Jean FU Jagielski |
 | 524 | 352 | Andrea Maher |

@@ -155,8 +155,8 @@
 | 147 | 200 | Lacy Wolfe |
 | 148 | 200 | Ash Galvan |
 | 149 | 199 | Basment Living |
-| 150 | 198 | Shiny Gridmatch |
-| 151 | 198 | Happy Snapbuild |
+| 150 | 198 | Happy Snapbuild |
+| 151 | 198 | Shiny Gridmatch |
 | 152 | 195 | Daring Fitclear |
 | 153 | 194 | Tyler Werts |
 | 154 | 193 | lil mickey |
@@ -215,8 +215,8 @@
 | 207 | 152 | Speedy Snapfall |
 | 208 | 150 | Agustin Duarte Orozco |
 | 209 | 150 | Adele Rahman |
-| 210 | 147 | Davery Spencer Adair |
-| 211 | 147 | J.F. Fields |
+| 210 | 147 | J.F. Fields |
+| 211 | 147 | Davery Spencer Adair |
 | 212 | 146 | Witty Builderfit |
 | 213 | 144 | Gary Gobin |
 | 214 | 144 | Miguel Teixeira |
