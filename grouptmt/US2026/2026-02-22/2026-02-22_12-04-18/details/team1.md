@@ -77,8 +77,8 @@
 | 69 | 461 | April Carroll |
 | 70 | 456 | Arianna O'Brien |
 | 71 | 447 | Evie Khalil |
-| 72 | 434 | Hyper |
-| 73 | 434 | MomMom |
+| 72 | 434 | MomMom |
+| 73 | 434 | Hyper |
 | 74 | 430 | Nancy Green |
 | 75 | 428 | Stephanie Zahn |
 | 76 | 418 | Jazzy Framezone |
@@ -189,19 +189,19 @@
 | 181 | 213 | Daring Fitclear |
 | 182 | 212 | Jaimie Lynn |
 | 183 | 211 | Marianita Garcia |
-| 184 | 210 | Giggly Builderline |
-| 185 | 210 | Letson Melissa |
+| 184 | 210 | Letson Melissa |
+| 185 | 210 | Giggly Builderline |
 | 186 | 209 | Debbie Davis |
-| 187 | 208 | Bouncy Grid |
-| 188 | 208 | Donna Addison Williams |
-| 189 | 207 | Brenda Alexander |
-| 190 | 207 | Leslie Bush Yarbrough |
+| 187 | 208 | Donna Addison Williams |
+| 188 | 208 | Bouncy Grid |
+| 189 | 207 | Leslie Bush Yarbrough |
+| 190 | 207 | Brenda Alexander |
 | 191 | 206 | BadG52 |
 | 192 | 205 | Snappy Matcher |
 | 193 | 205 | Tater |
 | 194 | 204 | Lacy Wolfe |
-| 195 | 203 | LaFontaine Leslie |
-| 196 | 203 | Paula Martin |
+| 195 | 203 | Paula Martin |
+| 196 | 203 | LaFontaine Leslie |
 | 197 | 202 | Amanda Holibaugh |
 | 198 | 201 | Colleen Wise |
 | 199 | 200 | Flashy Rotator |

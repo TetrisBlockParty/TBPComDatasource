@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Lucille Truesdale |
-| 34 | 843 | Shelly Chandler |
+| 33 | 843 | Shelly Chandler |
+| 34 | 843 | Lucille Truesdale |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -62,8 +62,8 @@
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Kimyatta Cavin |
-| 58 | 636 | Dustee Craddock-Harrison |
+| 57 | 636 | Dustee Craddock-Harrison |
+| 58 | 636 | Kimyatta Cavin |
 | 59 | 623 | Robin Getchel |
 | 60 | 614 | TheNeesh50 |
 | 61 | 599 | Brittney Griggs |
@@ -84,8 +84,8 @@
 | 76 | 512 | Casey Jeffcoat |
 | 77 | 511 | Michelle Marie |
 | 78 | 500 | Rodney McMath Jr. |
-| 79 | 486 | Carmethia Clemons Haslerig |
-| 80 | 486 | Landon Keith Graffeo |
+| 79 | 486 | Landon Keith Graffeo |
+| 80 | 486 | Carmethia Clemons Haslerig |
 | 81 | 485 | TeeJ |
 | 82 | 469 | Ashley Ingram |
 | 83 | 468 | Shane Kalamata Platoon |
@@ -93,8 +93,8 @@
 | 85 | 447 | Erin Thomas |
 | 86 | 440 | Kristin Manee |
 | 87 | 437 | Chastity Mitchell |
-| 88 | 427 | Chilly Crasher |
-| 89 | 427 | KJ Pool |
+| 88 | 427 | KJ Pool |
+| 89 | 427 | Chilly Crasher |
 | 90 | 427 | Jolly Dashfit |
 | 91 | 416 | YoMomma |
 | 92 | 412 | Jenna Ingersoll |
@@ -188,8 +188,8 @@
 | 180 | 209 | Angela Srubar-Norman |
 | 181 | 207 | Chirpy Basepiece |
 | 182 | 205 | Kathy Brookins |
-| 183 | 204 | Carlos Ramirez |
-| 184 | 204 | Jen Caldwell |
+| 183 | 204 | Jen Caldwell |
+| 184 | 204 | Carlos Ramirez |
 | 185 | 203 | Katherine Crane |
 | 186 | 202 | TRCuse |
 | 187 | 201 | Chance Strickland |
@@ -219,8 +219,8 @@
 | 211 | 185 | Nikki Rae Gordon |
 | 212 | 184 | Ak Jones |
 | 213 | 181 | Carter Jones |
-| 214 | 180 | Googenheim |
-| 215 | 180 | Orchislactea |
+| 214 | 180 | Orchislactea |
+| 215 | 180 | Googenheim |
 | 216 | 180 | Dihcheese444 |
 | 217 | 179 | TinyLegoRose |
 | 218 | 175 | Lorena Guerrero-Barron |

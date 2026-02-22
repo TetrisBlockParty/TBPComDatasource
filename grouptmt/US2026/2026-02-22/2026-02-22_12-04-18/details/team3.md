@@ -63,8 +63,8 @@
 | 55 | 909 | Jennifer |
 | 56 | 908 | Alanna Rogers |
 | 57 | 903 | Sarah Fehring |
-| 58 | 895 | Amanda L Baker |
-| 59 | 895 | Shonna Roberts |
+| 58 | 895 | Shonna Roberts |
+| 59 | 895 | Amanda L Baker |
 | 60 | 886 | Khristen AC |
 | 61 | 882 | Susan Valentino |
 | 62 | 874 | Jessica Pineda-Lopez |
@@ -103,8 +103,8 @@
 | 95 | 595 | Patricia White |
 | 96 | 591 | Jesse Olive |
 | 97 | 588 | yoyo |
-| 98 | 582 | Jay Horn |
-| 99 | 582 | Natasha Jones |
+| 98 | 582 | Natasha Jones |
+| 99 | 582 | Jay Horn |
 | 100 | 581 | Danielle Mogg |
 | 101 | 579 | Jd Morris |
 | 102 | 566 | Dolores Falco |
@@ -196,8 +196,8 @@
 | 188 | 343 | Ashley Raines |
 | 189 | 343 | Tamara Deherrera |
 | 190 | 341 | Samantha Lynn |
-| 191 | 338 | Leah Barnett |
-| 192 | 338 | Gumbo |
+| 191 | 338 | Gumbo |
+| 192 | 338 | Leah Barnett |
 | 193 | 332 | Rich LeBlanc |
 | 194 | 332 | Noyb Adam |
 | 195 | 330 | Rebecca Funderburk Kirby |
@@ -240,10 +240,10 @@
 | 232 | 275 | Cassandra Bryant |
 | 233 | 274 | Tye Stovall |
 | 234 | 272 | Dee Franklin |
-| 235 | 271 | Ashley Muncey |
-| 236 | 271 | Cass Mendoza |
-| 237 | 269 | Eon Harris |
-| 238 | 269 | Trisha Balmer |
+| 235 | 271 | Cass Mendoza |
+| 236 | 271 | Ashley Muncey |
+| 237 | 269 | Trisha Balmer |
+| 238 | 269 | Eon Harris |
 | 239 | 268 | Carrie Huskey |
 | 240 | 267 | Terry Jo Jones |
 | 241 | 265 | Sarah Moyer |
@@ -270,8 +270,8 @@
 | 262 | 239 | Nikki Pags |
 | 263 | 238 | LaTanya GeminiondaRise Johnson |
 | 264 | 236 | Jess Bissett |
-| 265 | 235 | Brenda Schmid Wood |
-| 266 | 235 | Cozy Snaplink |
+| 265 | 235 | Cozy Snaplink |
+| 266 | 235 | Brenda Schmid Wood |
 | 267 | 234 | Connie Mohler-Fair |
 | 268 | 233 | Josh Borquez |
 | 269 | 233 | Ray Lader |
@@ -312,8 +312,8 @@
 | 304 | 205 | Kirhonda Autmon |
 | 305 | 204 | Aerian Preston |
 | 306 | 203 | Angie Harper |
-| 307 | 202 | Tipsy Zonebuilder |
-| 308 | 202 | Staci George Fitzsimmons |
+| 307 | 202 | Staci George Fitzsimmons |
+| 308 | 202 | Tipsy Zonebuilder |
 | 309 | 201 | Hyper Matchzone |
 | 310 | 201 | Alexmac |
 | 311 | 200 | glichmod |
@@ -367,8 +367,8 @@
 | 359 | 167 | Irene Arreguin |
 | 360 | 166 | Snarky McFace |
 | 361 | 165 | Kali Kelz Williams |
-| 362 | 165 | Rainbow77375 |
-| 363 | 165 | Ashley Lynn Marchese |
+| 362 | 165 | Ashley Lynn Marchese |
+| 363 | 165 | Rainbow77375 |
 | 364 | 164 | Ashley Rufus Bythcez |
 | 365 | 164 | momo |
 | 366 | 163 | Diana Ibarra |
@@ -599,8 +599,8 @@
 | 591 | 102 | Rima Mackelburger |
 | 592 | 102 | Me,Him,Yu |
 | 593 | 102 | Brittany Smith Brown |
-| 594 | 102 | Cheeky Twisterfit |
-| 595 | 102 | Kaitie Oliver |
+| 594 | 102 | Giggly Hitter |
+| 595 | 102 | Cheeky Twisterfit |
 | 596 | 102 | Paul Larsen |
 | 597 | 102 | Kaitie Oliver |
 | 598 | 102 | Snazzy Brickzone |

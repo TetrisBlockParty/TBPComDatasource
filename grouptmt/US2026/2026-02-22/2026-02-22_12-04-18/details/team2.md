@@ -136,8 +136,8 @@
 | 128 | 1273 | Cool Rollpiece |
 | 129 | 1257 | Eileen Hale |
 | 130 | 1252 | Katrina Williams Balmir |
-| 131 | 1248 | Howard Forest |
-| 132 | 1248 | Isabela Shaw |
+| 131 | 1248 | Isabela Shaw |
+| 132 | 1248 | Howard Forest |
 | 133 | 1242 | Altamirano Michael |
 | 134 | 1232 | Groovy Puzzle |
 | 135 | 1226 | Vo'Landa Reels |
@@ -212,8 +212,8 @@
 | 204 | 919 | Isaac Trappiel IV |
 | 205 | 916 | Butta |
 | 206 | 915 | Kelly Trent |
-| 207 | 910 | Crystal Hoffman |
-| 208 | 910 | Shuany Arias |
+| 207 | 910 | Shuany Arias |
+| 208 | 910 | Crystal Hoffman |
 | 209 | 907 | Gene Mills |
 | 210 | 901 | Jennifer Peachey |
 | 211 | 894 | Auntie B |
@@ -331,8 +331,8 @@
 | 323 | 650 | Shiny Rollzone |
 | 324 | 645 | tejas25 |
 | 325 | 643 | Hoppy Brickmatch |
-| 326 | 641 | Joce Lynn |
-| 327 | 641 | Angie Bolton Workman |
+| 326 | 641 | Angie Bolton Workman |
+| 327 | 641 | Joce Lynn |
 | 328 | 640 | BYM4L |
 | 329 | 639 | Crystie Hicks |
 | 330 | 639 | Rebecca Miller |
@@ -342,8 +342,8 @@
 | 334 | 627 | Victoria Moore-Smith |
 | 335 | 620 | Brandon Armstrong |
 | 336 | 617 | Leslie Ann Carter |
-| 337 | 613 | Breezy Filler |
-| 338 | 613 | Caitlyn Blackwell |
+| 337 | 613 | Caitlyn Blackwell |
+| 338 | 613 | Breezy Filler |
 | 339 | 613 | Ellie Jonas |
 | 340 | 611 | Em Chen |
 | 341 | 611 | Carl Bradshaw |
@@ -497,8 +497,8 @@
 | 489 | 458 | Casper The Chonk |
 | 490 | 456 | Melissa Rebbe-Lehman |
 | 491 | 454 | Casey Schumacher |
-| 492 | 453 | Rhonda Petro |
-| 493 | 453 | Joshua Sommerville |
+| 492 | 453 | Joshua Sommerville |
+| 493 | 453 | Rhonda Petro |
 | 494 | 453 | Mia Muse Best |
 | 495 | 452 | Sarah Berger |
 | 496 | 451 | Dennis McLaurin |
@@ -658,8 +658,8 @@
 | 650 | 357 | Shannon Byrd |
 | 651 | 357 | Tristan Szolek |
 | 652 | 355 | Amanda Perez |
-| 653 | 354 | Rachel Kaminski |
-| 654 | 354 | Rickey Johnson |
+| 653 | 354 | Rickey Johnson |
+| 654 | 354 | Rachel Kaminski |
 | 655 | 352 | Rose Fx |
 | 656 | 352 | Jean FU Jagielski |
 | 657 | 352 | ruth |
@@ -689,28 +689,28 @@
 | 681 | 337 | Savannah Alexander |
 | 682 | 337 | Tum |
 | 683 | 336 | Swanky Columnbuilder |
-| 684 | 336 | bru |
-| 685 | 336 | Austin Wilson |
+| 684 | 336 | Austin Wilson |
+| 685 | 336 | bru |
 | 686 | 335 | Brooke Leigh Strube |
 | 687 | 335 | Maria Louise |
 | 688 | 334 | Melissa James |
 | 689 | 333 | Twisty Tetriblast |
-| 690 | 333 | Adrian Benitez |
-| 691 | 333 | Woodys Glass |
+| 690 | 333 | Woodys Glass |
+| 691 | 333 | Adrian Benitez |
 | 692 | 332 | Lathasa Newkirk |
 | 693 | 330 | Toni Roberson |
 | 694 | 330 | Jennifer Monroe Kelly |
 | 695 | 329 | Chummy Blockbuilder |
 | 696 | 329 | Jane Crew |
 | 697 | 329 | Snappy Shatterfit |
-| 698 | 328 | Jamie Carter Bierce |
-| 699 | 328 | BabyBird |
+| 698 | 328 | BabyBird |
+| 699 | 328 | Jamie Carter Bierce |
 | 700 | 326 | Ann Knutson Anderson |
 | 701 | 326 | Angela Murgia-Owen |
 | 702 | 325 | Justin Hines |
 | 703 | 325 | Mike73 |
-| 704 | 324 | Tasia Stinson |
-| 705 | 324 | Dale Haanpaa |
+| 704 | 324 | Dale Haanpaa |
+| 705 | 324 | Tasia Stinson |
 | 706 | 323 | Briana Alexander |
 | 707 | 322 | Lea Stewart |
 | 708 | 322 | Michelle Pike |
@@ -1096,8 +1096,8 @@
 | 1088 | 211 | Neko Preston |
 | 1089 | 210 | Joshua Switzer |
 | 1090 | 210 | Nicolle Danielle |
-| 1091 | 210 | Nicolee Hackney |
-| 1092 | 210 | Janet Marie Vega |
+| 1091 | 210 | Janet Marie Vega |
+| 1092 | 210 | Nicolee Hackney |
 | 1093 | 210 | Cappin You |
 | 1094 | 209 | Tina Blessed Cage |
 | 1095 | 209 | Amy McManus |
@@ -1189,8 +1189,8 @@
 | 1181 | 194 | Snappy Slamdrop |
 | 1182 | 194 | ToastersBath |
 | 1183 | 193 | Kelly Ann McCormick |
-| 1184 | 193 | Dottie Turbeville Creel |
-| 1185 | 193 | Miranda Morris |
+| 1184 | 193 | Miranda Morris |
+| 1185 | 193 | Dottie Turbeville Creel |
 | 1186 | 193 | Spunky Dash |
 | 1187 | 193 | Ronnie Nelson |
 | 1188 | 193 | Lynn Johnson |
@@ -1810,8 +1810,8 @@
 | 1802 | 130 | Mikey |
 | 1803 | 130 | Stanislav Petkov |
 | 1804 | 130 | Cranky Zonebuilder |
-| 1805 | 130 | Richelle Chapin |
-| 1806 | 130 | April Bennett |
+| 1805 | 130 | April Bennett |
+| 1806 | 130 | Richelle Chapin |
 | 1807 | 130 | ChocMilkNinja |
 | 1808 | 129 | Flashy Patternzone |
 | 1809 | 129 | Nina Woodill |
@@ -2271,8 +2271,8 @@
 | 2263 | 102 | Steve DePolo |
 | 2264 | 102 | Willoh |
 | 2265 | 102 | Beautiful |
-| 2266 | 101 | Donna Davis Minney |
-| 2267 | 101 | Lola Bratt |
+| 2266 | 101 | Lola Bratt |
+| 2267 | 101 | Donna Davis Minney |
 | 2268 | 101 | Abi Anderson |
 | 2269 | 101 | Chipper Risebuilder |
 | 2270 | 101 | Chris Mcadams |
