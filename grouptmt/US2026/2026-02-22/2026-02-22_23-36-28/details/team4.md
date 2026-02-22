@@ -208,8 +208,8 @@
 | 200 | 272 | Dennis Bradley |
 | 201 | 272 | Alan George LaRage |
 | 202 | 271 | Sarah Brown |
-| 203 | 270 | Juls |
-| 204 | 270 | Melissa Adams |
+| 203 | 270 | Melissa Adams |
+| 204 | 270 | Juls |
 | 205 | 269 | Nikki Rae Gordon |
 | 206 | 268 | Mimi |
 | 207 | 268 | Sam Bishop |
@@ -217,17 +217,17 @@
 | 209 | 267 | Holly |
 | 210 | 267 | Kathy Brookins |
 | 211 | 264 | Holly Jolly |
-| 212 | 261 | Dihcheese444 |
-| 213 | 261 | scott |
+| 212 | 261 | scott |
+| 213 | 261 | Dihcheese444 |
 | 214 | 258 | Jen Caldwell |
-| 215 | 257 | PeaceOs |
-| 216 | 257 | Cheery Risebuilder |
+| 215 | 257 | Cheery Risebuilder |
+| 216 | 257 | PeaceOs |
 | 217 | 256 | Mylo Lipscomb |
 | 218 | 251 | Carol Ricks Raymond |
 | 219 | 250 | Matt Gooder |
 | 220 | 249 | Ak Jones |
-| 221 | 248 | Chirpy Basepiece |
-| 222 | 248 | Jose Dejesus |
+| 221 | 248 | Jose Dejesus |
+| 222 | 248 | Chirpy Basepiece |
 | 223 | 247 | April Rondinone |
 | 224 | 246 | Zethra Prenisha Rahming |
 | 225 | 246 | Carlos Ramirez |
@@ -235,9 +235,9 @@
 | 227 | 245 | Adam Stephanie Parker |
 | 228 | 245 | Autum Leigh |
 | 229 | 243 | Mr. Party |
-| 230 | 241 | Chris Hartig |
-| 231 | 241 | Allen Lloyd |
-| 232 | 241 | JPW |
+| 230 | 241 | JPW |
+| 231 | 241 | Chris Hartig |
+| 232 | 241 | Allen Lloyd |
 | 233 | 240 | Kim Hunt |
 | 234 | 238 | Chaz |
 | 235 | 238 | Zesty Twistbuilder |
@@ -284,8 +284,8 @@
 | 276 | 201 | Silly SeaWeed |
 | 277 | 200 | Googenheim |
 | 278 | 199 | Carter Jones |
-| 279 | 198 | Calvin Dennis |
-| 280 | 198 | Shainne Brewer |
+| 279 | 198 | Shainne Brewer |
+| 280 | 198 | Calvin Dennis |
 | 281 | 197 | Gilles Lanctot |
 | 282 | 195 | 中山成巳 |
 | 283 | 194 | Chantilly Laace |
@@ -315,8 +315,8 @@
 | 307 | 179 | AyeKay |
 | 308 | 178 | Zippy Tilt |
 | 309 | 177 | Ernest Maxwell |
-| 310 | 177 | Shanon Klair |
-| 311 | 177 | Michelle Morris |
+| 310 | 177 | Michelle Morris |
+| 311 | 177 | Shanon Klair |
 | 312 | 175 | Lorena Guerrero-Barron |
 | 313 | 175 | Megan Cutshaw |
 | 314 | 174 | Kathy Allen |

@@ -199,8 +199,8 @@
 | 191 | 431 | Wendy Dearden |
 | 192 | 431 | Loopy Fallmatch |
 | 193 | 430 | Terry Jo Jones |
-| 194 | 430 | Jeni Dow |
-| 195 | 430 | Joye Sims Binion |
+| 194 | 430 | Joye Sims Binion |
+| 195 | 430 | Jeni Dow |
 | 196 | 426 | Rochelle Hazelett |
 | 197 | 425 | Michael Johnson |
 | 198 | 422 | Fallorina Susana |
@@ -272,8 +272,8 @@
 | 264 | 324 | Sissy Lowery Davis |
 | 265 | 322 | Nena Somerville Kelly |
 | 266 | 321 | Charles Perrone |
-| 267 | 320 | Or Reznitsky |
-| 268 | 320 | Ashley Muncey |
+| 267 | 320 | Ashley Muncey |
+| 268 | 320 | Or Reznitsky |
 | 269 | 312 | LadyTorad |
 | 270 | 309 | Felicia Rocha |
 | 271 | 308 | Katrina Turner |
