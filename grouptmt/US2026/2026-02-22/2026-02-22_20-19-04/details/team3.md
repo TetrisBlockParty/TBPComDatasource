@@ -70,8 +70,8 @@
 | 62 | 1027 | Gracie |
 | 63 | 1019 | Joey Banks |
 | 64 | 954 | Nate Burnside |
-| 65 | 926 | Judi Dobson |
-| 66 | 926 | Angela M. Fletcher |
+| 65 | 926 | Angela M. Fletcher |
+| 66 | 926 | Judi Dobson |
 | 67 | 924 | Shonna Roberts |
 | 68 | 909 | Jennifer |
 | 69 | 903 | Sarah Fehring |
@@ -217,10 +217,10 @@
 | 209 | 370 | Santeria Trece Candles |
 | 210 | 369 | Sarah Moyer |
 | 211 | 368 | Stephanie Woods |
-| 212 | 367 | Loopy Fallmatch |
-| 213 | 367 | Marci Mize Fandrich |
-| 214 | 365 | Chummy Caster |
-| 215 | 365 | Tiffany Ford |
+| 212 | 367 | Marci Mize Fandrich |
+| 213 | 367 | Loopy Fallmatch |
+| 214 | 365 | Tiffany Ford |
+| 215 | 365 | Chummy Caster |
 | 216 | 362 | Brandon Givens |
 | 217 | 361 | RickyG |
 | 218 | 360 | Sheila M Frazier |

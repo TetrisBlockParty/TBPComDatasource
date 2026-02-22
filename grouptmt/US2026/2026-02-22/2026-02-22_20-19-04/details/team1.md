@@ -61,8 +61,8 @@
 | 53 | 734 | Michelle Nicole |
 | 54 | 733 | TSwag |
 | 55 | 703 | Angel Fowler |
-| 56 | 691 | Katie Daniels |
-| 57 | 691 | Seante Bullock |
+| 56 | 691 | Seante Bullock |
+| 57 | 691 | Katie Daniels |
 | 58 | 687 | comrade fish |
 | 59 | 686 | Marianne Louise West |
 | 60 | 674 | Drew Magnus |
@@ -136,8 +136,8 @@
 | 128 | 364 | Shauna Loe |
 | 129 | 360 | phrmblk24 |
 | 130 | 360 | Wisa |
-| 131 | 359 | And |
-| 132 | 359 | Chirpy Smasher |
+| 131 | 359 | Chirpy Smasher |
+| 132 | 359 | And |
 | 133 | 357 | Amanda Johnson Huffman |
 | 134 | 350 | Tipsy Strikerpiece |
 | 135 | 349 | Bhelle Sumile |
@@ -151,7 +151,7 @@
 | 143 | 333 | GATOR |
 | 144 | 332 | Lehrin Maria |
 | 145 | 332 | Kristen Gideon |
-| 146 | 332 | Lehrin Maria |
+| 146 | 332 | Fmp |
 | 147 | 325 | Jennifer Hardman |
 | 148 | 324 | Ananda Mendez |
 | 149 | 318 | Jessica Sheehan |
@@ -293,8 +293,8 @@
 | 285 | 191 | Herm Junior |
 | 286 | 191 | Renata Mabie |
 | 287 | 190 | Sweetts |
-| 288 | 189 | Tawnya Peltonen |
-| 289 | 189 | Katie Martin |
+| 288 | 189 | Katie Martin |
+| 289 | 189 | Tawnya Peltonen |
 | 290 | 189 | Bird Person |
 | 291 | 188 | Brave Wrecker |
 | 292 | 187 | GringaLinga |
