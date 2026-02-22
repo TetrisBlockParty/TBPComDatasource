@@ -118,8 +118,8 @@
 | 110 | 400 | Luciana Braganca Vieira |
 | 111 | 399 | Mcathen |
 | 112 | 396 | Shannon Matthew Byers |
-| 113 | 394 | joclisa |
-| 114 | 394 | Annie Déè |
+| 113 | 394 | Annie Déè |
+| 114 | 394 | joclisa |
 | 115 | 392 | Michelle |
 | 116 | 391 | Calista Jo Dickson |
 | 117 | 390 | Patti Skiles |
@@ -358,8 +358,8 @@
 | 350 | 125 | Andrew Thorson |
 | 351 | 125 | Lys |
 | 352 | 124 | Tipsy Puzzle |
-| 353 | 124 | Romeo |
-| 354 | 124 | gremicx |
+| 353 | 124 | gremicx |
+| 354 | 124 | Romeo |
 | 355 | 123 | Michael Latasha Gray |
 | 356 | 122 | Daring Builder |
 | 357 | 122 | Amber Groover Taylor |

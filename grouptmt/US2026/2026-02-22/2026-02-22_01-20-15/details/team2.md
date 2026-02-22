@@ -167,10 +167,10 @@
 | 159 | 826 | Cindy Sechler Taninecz |
 | 160 | 815 | Moni Foxe |
 | 161 | 815 | Chirpy Staggerpiece |
-| 162 | 811 | James Simms III |
-| 163 | 811 | Rebecca Doughman |
-| 164 | 808 | Missie Lawson Gebhardt |
-| 165 | 808 | John Bednarik |
+| 162 | 811 | Rebecca Doughman |
+| 163 | 811 | James Simms III |
+| 164 | 808 | John Bednarik |
+| 165 | 808 | Missie Lawson Gebhardt |
 | 166 | 807 | Khalil Lowe |
 | 167 | 805 | Robin Kerby |
 | 168 | 804 | Cozy Filler |
@@ -284,14 +284,14 @@
 | 276 | 543 | Teresa Gillmore |
 | 277 | 543 | Adira Brown |
 | 278 | 542 | Slip |
-| 279 | 535 | Paul Huber |
-| 280 | 535 | Jessie McDougald |
+| 279 | 535 | Jessie McDougald |
+| 280 | 535 | Paul Huber |
 | 281 | 531 | Chris Wanner |
-| 282 | 528 | Brownie Sheena |
-| 283 | 528 | Taylor Phillips |
-| 284 | 527 | Ryan Gunther |
-| 285 | 527 | Stacy Stickle |
-| 286 | 527 | Heather Causey |
+| 282 | 528 | Taylor Phillips |
+| 283 | 528 | Brownie Sheena |
+| 284 | 527 | Stacy Stickle |
+| 285 | 527 | Heather Causey |
+| 286 | 527 | Ryan Gunther |
 | 287 | 525 | Desiree Anderson |
 | 288 | 520 | Cheech Dta |
 | 289 | 519 | Rob Brown |
@@ -300,8 +300,8 @@
 | 292 | 514 | Dizzy Zone |
 | 293 | 513 | Angela Bonquiqui Dinish |
 | 294 | 511 | Laura Mclean |
-| 295 | 509 | Kelli Wells |
-| 296 | 509 | Jordan Kaiser |
+| 295 | 509 | Jordan Kaiser |
+| 296 | 509 | Kelli Wells |
 | 297 | 506 | Cherica Taylor |
 | 298 | 504 | Magic steve |
 | 299 | 503 | Matt Johnson |
@@ -323,8 +323,8 @@
 | 315 | 480 | Dar |
 | 316 | 478 | Ashley Collins |
 | 317 | 474 | Calandra Shaya Robinson |
-| 318 | 471 | Rae Rae |
-| 319 | 471 | Maya June |
+| 318 | 471 | Maya June |
+| 319 | 471 | Rae Rae |
 | 320 | 470 | Jerry Tempelmeyer |
 | 321 | 469 | Jai Jackson |
 | 322 | 469 | Amélie Cadieux |
@@ -341,10 +341,10 @@
 | 333 | 459 | Brainy Smurf |
 | 334 | 459 | Doowop40 |
 | 335 | 458 | Casper The Chonk |
-| 336 | 454 | Nashu |
-| 337 | 454 | Casey Schumacher |
-| 338 | 453 | Rhonda Petro |
-| 339 | 453 | Joshua Sommerville |
+| 336 | 454 | Casey Schumacher |
+| 337 | 454 | Nashu |
+| 338 | 453 | Joshua Sommerville |
+| 339 | 453 | Rhonda Petro |
 | 340 | 452 | Alezandra Smith |
 | 341 | 451 | Melissa Kay Gibson |
 | 342 | 451 | Daphne Jordan |
@@ -375,8 +375,8 @@
 | 367 | 427 | Kori Beth Babb |
 | 368 | 425 | Skyler Morgan |
 | 369 | 424 | Jodi Blake |
-| 370 | 423 | Shaun Church |
-| 371 | 423 | Sam |
+| 370 | 423 | Sam |
+| 371 | 423 | Shaun Church |
 | 372 | 422 | Mamachelle Eisweirth |
 | 373 | 421 | Vanessa Moreno |
 | 374 | 417 | Angie Bolton Workman |
