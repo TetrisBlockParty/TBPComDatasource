@@ -46,8 +46,8 @@
 | 38 | 908 | Misty Hollibaugh |
 | 39 | 886 | Dustin Robert |
 | 40 | 871 | Denny Shives |
-| 41 | 846 | Lucille Truesdale |
-| 42 | 846 | Christine Marie |
+| 41 | 846 | Christine Marie |
+| 42 | 846 | Lucille Truesdale |
 | 43 | 843 | Jae Job |
 | 44 | 843 | Shelly Chandler |
 | 45 | 836 | LisaJo Picken Buchanan |
@@ -75,8 +75,8 @@
 | 67 | 664 | loulou |
 | 68 | 664 | Valerie Roberts |
 | 69 | 659 | Jonathan Kimbrough |
-| 70 | 647 | KM8 |
-| 71 | 647 | Shauna Havard |
+| 70 | 647 | Shauna Havard |
+| 71 | 647 | KM8 |
 | 72 | 646 | Jacqueline Helm |
 | 73 | 641 | Carolyn Wallace |
 | 74 | 638 | Julian Garcia |
@@ -139,8 +139,8 @@
 | 131 | 344 | Jessica Lynn Cutlip |
 | 132 | 344 | Lush Linkfall |
 | 133 | 343 | Latisha Davis |
-| 134 | 338 | Lucas J Sutton |
-| 135 | 338 | ThaEviLJeNiuZ |
+| 134 | 338 | ThaEviLJeNiuZ |
+| 135 | 338 | Lucas J Sutton |
 | 136 | 336 | Jessica Bohlken |
 | 137 | 334 | Guy Incognito |
 | 138 | 332 | HastyGrabber |
@@ -166,9 +166,9 @@
 | 158 | 292 | Cursed Hag |
 | 159 | 292 | Rafael Valentin |
 | 160 | 291 | shark tato |
-| 161 | 290 | Keshia Lyons |
+| 161 | 290 | Damn Libra |
 | 162 | 290 | 🥔🥔 Spudz |
-| 163 | 290 | Damn Libra |
+| 163 | 290 | Keshia Lyons |
 | 164 | 290 | Chaz Duncan |
 | 165 | 288 | Leah Kutz Zirbel |
 | 166 | 286 | Brittney Orengo |

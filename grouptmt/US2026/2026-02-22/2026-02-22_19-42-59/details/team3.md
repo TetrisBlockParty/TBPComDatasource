@@ -453,8 +453,8 @@
 | 445 | 172 | Miranda Taylor |
 | 446 | 172 | Jl |
 | 447 | 171 | Jul |
-| 448 | 170 | Tegan Chapman |
-| 449 | 170 | Melissa Snyder |
+| 448 | 170 | Melissa Snyder |
+| 449 | 170 | Tegan Chapman |
 | 450 | 170 | Bouncy Blockbuilder |
 | 451 | 169 | luluraine |
 | 452 | 169 | Boldy Corner |

@@ -193,8 +193,8 @@
 | 185 | 1140 | Sarah Ridenour |
 | 186 | 1138 | Megan Ferguson Leone |
 | 187 | 1132 | Anna Edwards |
-| 188 | 1131 | Stacey Clement |
-| 189 | 1131 | Prado |
+| 188 | 1131 | Prado |
+| 189 | 1131 | Stacey Clement |
 | 190 | 1117 | Ricardo Burton |
 | 191 | 1105 | Nerdy Clearfit |
 | 192 | 1103 | William Meussner |
@@ -311,8 +311,8 @@
 | 303 | 787 | Laura McCarthey |
 | 304 | 783 | Lisa Ongtowasruk |
 | 305 | 781 | Hong Tang |
-| 306 | 777 | Jessicah Myers |
-| 307 | 777 | Tesha Oldaker |
+| 306 | 777 | Tesha Oldaker |
+| 307 | 777 | Jessicah Myers |
 | 308 | 777 | Samantha Jo |
 | 309 | 774 | Ginnell Browner |
 | 310 | 773 | Diana Fitzwater |
@@ -345,8 +345,8 @@
 | 337 | 729 | Aimee Campbell |
 | 338 | 727 | Mandi Douglas Hilt |
 | 339 | 727 | Tom Riefer |
-| 340 | 725 | Charvi' Carter |
-| 341 | 725 | Vonceial Boone |
+| 340 | 725 | Vonceial Boone |
+| 341 | 725 | Charvi' Carter |
 | 342 | 723 | Dylan Thomason |
 | 343 | 719 | Lola Contreras |
 | 344 | 718 | Heather Schelkopf |
@@ -500,8 +500,8 @@
 | 492 | 520 | Maddy Petersen |
 | 493 | 519 | Rob Brown |
 | 494 | 517 | Sarah Berger |
-| 495 | 517 | Porsche' Nicole |
-| 496 | 517 | Brenna Ann |
+| 495 | 517 | Brenna Ann |
+| 496 | 517 | Porsche' Nicole |
 | 497 | 516 | Diamond Scott |
 | 498 | 514 | Karen Posadas Centeno |
 | 499 | 512 | Leslie Jorgenson |
@@ -1178,8 +1178,8 @@
 | 1170 | 241 | Layla LS |
 | 1171 | 240 | lady |
 | 1172 | 240 | Christina Eckert |
-| 1173 | 240 | Sara |
-| 1174 | 240 | Kimberly Ann Malagon |
+| 1173 | 240 | Kimberly Ann Malagon |
+| 1174 | 240 | Sara |
 | 1175 | 240 | Myleaha Holley |
 | 1176 | 240 | Happy Tilebuilder |
 | 1177 | 239 | Theresa Ring |
