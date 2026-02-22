@@ -159,7 +159,7 @@
 | 151 | 264 | Girl |
 | 152 | 262 | Joeliecea Cobb |
 | 153 | 262 | Holly Jolly |
-| 154 | 262 | Joeliecea Cobb |
+| 154 | 262 | Alan George LaRage |
 | 155 | 261 | Twisty Clicky |
 | 156 | 258 | Bio Nelly |
 | 157 | 256 | Mylo Lipscomb |

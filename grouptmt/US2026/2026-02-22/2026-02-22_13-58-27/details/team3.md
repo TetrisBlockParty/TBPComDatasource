@@ -133,8 +133,8 @@
 | 125 | 492 | Daira Largen |
 | 126 | 491 | Chauntee Alfrey-Cardinale |
 | 127 | 480 | Stephanie Blkpep Davidson |
-| 128 | 479 | Poppy Splitter |
-| 129 | 479 | Patti Skiles |
+| 128 | 479 | Patti Skiles |
+| 129 | 479 | Poppy Splitter |
 | 130 | 478 | CeceGeGe |
 | 131 | 478 | Silly Twist |
 | 132 | 473 | mzcatzy |
@@ -149,8 +149,8 @@
 | 141 | 449 | Danielle Rhoades |
 | 142 | 448 | Karon Griffin |
 | 143 | 445 | Shannon Matthew Byers |
-| 144 | 445 | Kristie McFarland |
-| 145 | 445 | Jacqueline Rodriguez |
+| 144 | 445 | Jacqueline Rodriguez |
+| 145 | 445 | Kristie McFarland |
 | 146 | 435 | Michelle |
 | 147 | 435 | Daryn Elliott |
 | 148 | 432 | Jenny Hrndz |
@@ -205,8 +205,8 @@
 | 197 | 338 | Gumbo |
 | 198 | 332 | Rich LeBlanc |
 | 199 | 330 | Rebecca Funderburk Kirby |
-| 200 | 324 | Kristal C Lee |
-| 201 | 324 | Sissy Lowery Davis |
+| 200 | 324 | Sissy Lowery Davis |
+| 201 | 324 | Kristal C Lee |
 | 202 | 323 | Demetrious Shaw Sr. |
 | 203 | 320 | Or Reznitsky |
 | 204 | 320 | Keis |
@@ -461,8 +461,8 @@
 | 453 | 141 | Melissa Snyder |
 | 454 | 140 | Alison Baus |
 | 455 | 140 | Boldy Corner |
-| 456 | 140 | Christine Vosburgh |
-| 457 | 140 | Jumpy Curvebuilder |
+| 456 | 140 | Jumpy Curvebuilder |
+| 457 | 140 | Christine Vosburgh |
 | 458 | 139 | Paula Little |
 | 459 | 139 | Beppy |
 | 460 | 138 | Kellie Montgomery |

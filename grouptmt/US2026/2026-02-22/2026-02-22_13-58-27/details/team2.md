@@ -660,10 +660,10 @@
 | 652 | 363 | Stephanie Fortune |
 | 653 | 363 | Diallo Sparkman |
 | 654 | 363 | Veronica Stevenson |
-| 655 | 362 | Veronics |
-| 656 | 362 | Snappy Matchbuilder |
-| 657 | 361 | Michelle Shrum |
-| 658 | 361 | Lewis Sturgeon |
+| 655 | 362 | Snappy Matchbuilder |
+| 656 | 362 | Veronics |
+| 657 | 361 | Lewis Sturgeon |
+| 658 | 361 | Michelle Shrum |
 | 659 | 360 | Jroc |
 | 660 | 359 | Cheyenne Donovan |
 | 661 | 358 | Sydney Busse |
@@ -678,14 +678,14 @@
 | 670 | 352 | Jean FU Jagielski |
 | 671 | 352 | ruth |
 | 672 | 350 | Chris Harr |
-| 673 | 350 | Fi Ne |
-| 674 | 350 | Maria Hammett |
-| 675 | 350 | Kyla Louise |
-| 676 | 348 | Richard Horton |
-| 677 | 348 | Peppy Snapfall |
+| 673 | 350 | Maria Hammett |
+| 674 | 350 | Kyla Louise |
+| 675 | 350 | Fi Ne |
+| 676 | 348 | Peppy Snapfall |
+| 677 | 348 | Richard Horton |
 | 678 | 348 | Kelly Meredeith |
-| 679 | 347 | Zesty Pivot |
-| 680 | 347 | CC |
+| 679 | 347 | CC |
+| 680 | 347 | Zesty Pivot |
 | 681 | 346 | Danielle Ayoub |
 | 682 | 345 | Rhianna DiLorenzo |
 | 683 | 345 | Gina Caulder |
@@ -930,10 +930,10 @@
 | 922 | 258 | Tee Jaleesa |
 | 923 | 258 | DesertDreamer24 |
 | 924 | 258 | Kara Tolbert |
-| 925 | 258 | Scott |
-| 926 | 258 | Joy LaJeunesse |
-| 927 | 258 | Jo Nicole |
-| 928 | 258 | Mordoks Pyrography |
+| 925 | 258 | Joy LaJeunesse |
+| 926 | 258 | Scott |
+| 927 | 258 | Mordoks Pyrography |
+| 928 | 258 | Jo Nicole |
 | 929 | 257 | Ys Muhammed |
 | 930 | 257 | Jackie Jackie Lee |
 | 931 | 257 | Mama T |
