@@ -255,8 +255,8 @@
 | 247 | 875 | Jamie Otero |
 | 248 | 874 | Giggy Blocker |
 | 249 | 869 | Felicia Lynn |
-| 250 | 867 | Michele Gabriel |
-| 251 | 867 | Peppy Zone |
+| 250 | 867 | Peppy Zone |
+| 251 | 867 | Michele Gabriel |
 | 252 | 862 | Brittany Radaszewski |
 | 253 | 860 | William Hunt |
 | 254 | 860 | April Dawn Gussler |
@@ -332,8 +332,8 @@
 | 324 | 700 | Beverly Owens |
 | 325 | 700 | Rosemadder |
 | 326 | 699 | tejas25 |
-| 327 | 697 | Dreamy Blast |
-| 328 | 697 | Ashle Scranton |
+| 327 | 697 | Ashle Scranton |
+| 328 | 697 | Dreamy Blast |
 | 329 | 695 | Deborah Miller |
 | 330 | 695 | Lakeysha Dortch |
 | 331 | 692 | Dannette Goldberg-Richards |
@@ -374,8 +374,8 @@
 | 366 | 639 | Rebecca Miller |
 | 367 | 634 | Gary Stash |
 | 368 | 633 | Breezy Filler |
-| 369 | 631 | Marie Walker |
-| 370 | 631 | Dylan Thomason |
+| 369 | 631 | Dylan Thomason |
+| 370 | 631 | Marie Walker |
 | 371 | 629 | Heather Schelkopf |
 | 372 | 628 | Brownie Sheena |
 | 373 | 627 | Allan Wayne Lamia |

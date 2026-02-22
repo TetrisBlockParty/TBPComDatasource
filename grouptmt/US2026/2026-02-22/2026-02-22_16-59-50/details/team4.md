@@ -472,8 +472,8 @@
 | 464 | 102 | Bigeddie |
 | 465 | 102 | Christina O'Dell-Ishau |
 | 466 | 102 | Candice Carasiti |
-| 467 | 101 | Cindy Looper |
-| 468 | 101 | Saulc1991 |
+| 467 | 101 | Saulc1991 |
+| 468 | 101 | Cindy Looper |
 | 469 | 100 | Marcus TheeyoungWoe Gilmore |
 | 470 | 100 | Jen Mattei |
 | 471 | 100 | Groovy Gridlock |

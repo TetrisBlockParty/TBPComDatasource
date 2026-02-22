@@ -89,8 +89,8 @@
 | 81 | 471 | Jennifer ManWarren |
 | 82 | 456 | Arianna O'Brien |
 | 83 | 453 | Brandi Huntington |
-| 84 | 444 | Lexuriuos Lifestlye |
-| 85 | 444 | Hyper |
+| 84 | 444 | Hyper |
+| 85 | 444 | Lexuriuos Lifestlye |
 | 86 | 443 | Steve Schneider |
 | 87 | 436 | Tonya Beasley |
 | 88 | 434 | Loony Fitzone |
@@ -121,13 +121,13 @@
 | 113 | 355 | Hasbro Bros |
 | 114 | 354 | phrmblk24 |
 | 115 | 352 | Jason Jones |
-| 116 | 350 | Sweet Baker |
-| 117 | 350 | Tipsy Strikerpiece |
+| 116 | 350 | Tipsy Strikerpiece |
+| 117 | 350 | Sweet Baker |
 | 118 | 344 | Bhelle Sumile |
 | 119 | 343 | Death |
 | 120 | 342 | Brenda Stewart |
-| 121 | 341 | David Miller |
-| 122 | 341 | Nick R Montague |
+| 121 | 341 | Nick R Montague |
+| 122 | 341 | David Miller |
 | 123 | 334 | Jaimie Lynn |
 | 124 | 333 | Gracie |
 | 125 | 332 | Kristen Gideon |
@@ -139,14 +139,14 @@
 | 131 | 321 | Maria C. Hernandez |
 | 132 | 320 | Wisa |
 | 133 | 318 | Jessica Sheehan |
-| 134 | 316 | Dizzy Party |
-| 135 | 316 | GATOR |
+| 134 | 316 | GATOR |
+| 135 | 316 | Dizzy Party |
 | 136 | 313 | Virginia Gray Floyd |
 | 137 | 308 | Erin Hodges Plumb |
 | 138 | 308 | Sharon Reynolds |
 | 139 | 307 | Kimberly Garcia |
-| 140 | 306 | Happy Basegrid |
-| 141 | 306 | Bloknboy |
+| 140 | 306 | Bloknboy |
+| 141 | 306 | Happy Basegrid |
 | 142 | 304 | Nicole Roseberry Weber |
 | 143 | 303 | Chelsea Dahlquist |
 | 144 | 301 | Lehrin Maria |

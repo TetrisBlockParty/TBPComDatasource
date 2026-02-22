@@ -237,8 +237,8 @@
 | 229 | 311 | Peppy Shifter |
 | 230 | 308 | Rania Zaqout |
 | 231 | 307 | rnr junky |
-| 232 | 307 | Blocked |
-| 233 | 307 | Marci Mize Fandrich |
+| 232 | 307 | Marci Mize Fandrich |
+| 233 | 307 | Blocked |
 | 234 | 305 | Rebecca Bailey |
 | 235 | 301 | Betty Rosas |
 | 236 | 299 | Melissa Orth Hunter |
@@ -259,8 +259,8 @@
 | 251 | 282 | Angie Harper |
 | 252 | 281 | Carrie Huskey |
 | 253 | 280 | Terry Jo Jones |
-| 254 | 278 | Sabrina Hardrick |
-| 255 | 278 | Rufus Lincoln |
+| 254 | 278 | Rufus Lincoln |
+| 255 | 278 | Sabrina Hardrick |
 | 256 | 277 | Tracy Martin |
 | 257 | 276 | Crimson |
 | 258 | 276 | _melisa223_ |
@@ -299,8 +299,8 @@
 | 291 | 240 | Jimmie Clemons |
 | 292 | 238 | Niki Dalrymple |
 | 293 | 236 | Angela Scott |
-| 294 | 236 | Lys |
-| 295 | 236 | Jess Bissett |
+| 294 | 236 | Jess Bissett |
+| 295 | 236 | Lys |
 | 296 | 233 | Tony Waters |
 | 297 | 232 | Donna |
 | 298 | 231 | Kiki |
