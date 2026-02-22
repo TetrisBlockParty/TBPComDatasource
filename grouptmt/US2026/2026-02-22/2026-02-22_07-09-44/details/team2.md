@@ -217,8 +217,8 @@
 | 209 | 838 | Tralonda Weeks |
 | 210 | 837 | Ashley Rose Frederick |
 | 211 | 835 | Katrina Weston |
-| 212 | 834 | Nika Bee |
-| 213 | 834 | Rebecca Doughman |
+| 212 | 834 | Rebecca Doughman |
+| 213 | 834 | Nika Bee |
 | 214 | 828 | Cindy Sechler Taninecz |
 | 215 | 820 | Chirpy Staggerpiece |
 | 216 | 818 | Angela Bonquiqui Dinish |
@@ -362,12 +362,12 @@
 | 354 | 541 | g |
 | 355 | 538 | Eric Castaneda |
 | 356 | 537 | Cherica Taylor |
-| 357 | 535 | Jessie McDougald |
-| 358 | 535 | Paul Huber |
+| 357 | 535 | Paul Huber |
+| 358 | 535 | Jessie McDougald |
 | 359 | 531 | Dizzy Zone |
 | 360 | 527 | Ryan Gunther |
-| 361 | 527 | Heather Causey |
-| 362 | 527 | Julie Kresal |
+| 361 | 527 | Julie Kresal |
+| 362 | 527 | Heather Causey |
 | 363 | 526 | Sheronda Jackson |
 | 364 | 525 | Desiree Anderson |
 | 365 | 524 | Jojo Momma |
@@ -379,9 +379,9 @@
 | 371 | 520 | Angela Lynn |
 | 372 | 520 | AISlop |
 | 373 | 519 | Rob Brown |
-| 374 | 517 | Porsche' Nicole |
-| 375 | 517 | Poppy Snap |
-| 376 | 517 | Amber Brion |
+| 374 | 517 | Amber Brion |
+| 375 | 517 | Porsche' Nicole |
+| 376 | 517 | Poppy Snap |
 | 377 | 516 | Diamond Scott |
 | 378 | 515 | Laquetta Royston |
 | 379 | 515 | Lonne Emade |
@@ -745,8 +745,8 @@
 | 737 | 293 | Ann Marie Davis |
 | 738 | 292 | Deana |
 | 739 | 291 | Brave Gridpiece |
-| 740 | 289 | August Hale |
-| 741 | 289 | Bella Novia |
+| 740 | 289 | Bella Novia |
+| 741 | 289 | August Hale |
 | 742 | 288 | thranduil |
 | 743 | 288 | Samantha Angelo |
 | 744 | 288 | Jenna Nance |

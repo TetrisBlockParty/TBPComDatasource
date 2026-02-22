@@ -124,8 +124,8 @@
 | 116 | 290 | Death |
 | 117 | 288 | Seante Bullock |
 | 118 | 287 | Chelsea Dahlquist |
-| 119 | 286 | Ly Phethmany |
-| 120 | 286 | Arianna O'Brien |
+| 119 | 286 | Arianna O'Brien |
+| 120 | 286 | Ly Phethmany |
 | 121 | 285 | Ananda Mendez |
 | 122 | 284 | Rachael |
 | 123 | 284 | Emily Adelaide Wheatley |

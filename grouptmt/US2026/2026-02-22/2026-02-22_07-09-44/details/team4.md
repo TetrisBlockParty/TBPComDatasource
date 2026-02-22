@@ -91,8 +91,8 @@
 | 83 | 409 | Isabella Blanco |
 | 84 | 405 | Shane Kalamata Platoon |
 | 85 | 404 | Courtney Cicoria |
-| 86 | 396 | Alicia Bass |
-| 87 | 396 | Amy Suckarieh |
+| 86 | 396 | Amy Suckarieh |
+| 87 | 396 | Alicia Bass |
 | 88 | 392 | Ericca Eldridge |
 | 89 | 391 | Ramel Rhodes |
 | 90 | 390 | Carlton Unfiltered |
@@ -126,8 +126,8 @@
 | 118 | 290 | 🥔🥔 Spudz |
 | 119 | 288 | Leslie Nicole |
 | 120 | 287 | Shannon Ferrari |
-| 121 | 286 | shark tato |
-| 122 | 286 | Daria Rycewicz |
+| 121 | 286 | Daria Rycewicz |
+| 122 | 286 | shark tato |
 | 123 | 283 | Brittney Orengo |
 | 124 | 281 | Meagan Nicole |
 | 125 | 278 | Desi Desporte |
@@ -179,33 +179,33 @@
 | 171 | 204 | Jen Caldwell |
 | 172 | 203 | Katherine Crane |
 | 173 | 202 | TRCuse |
-| 174 | 201 | Chance Strickland |
-| 175 | 201 | Melvin Baird |
+| 174 | 201 | Melvin Baird |
+| 175 | 201 | Chance Strickland |
 | 176 | 198 | Jessica Lynn Cutlip |
-| 177 | 196 | Zethra Prenisha Rahming |
-| 178 | 196 | Oscar Alberto Perez |
-| 179 | 195 | 中山成巳 |
-| 180 | 195 | ZeeZee |
-| 181 | 195 | Malakai Darien Fox |
+| 177 | 196 | Oscar Alberto Perez |
+| 178 | 196 | Zethra Prenisha Rahming |
+| 179 | 195 | Malakai Darien Fox |
+| 180 | 195 | 中山成巳 |
+| 181 | 195 | ZeeZee |
 | 182 | 194 | Zany Twisterfit |
 | 183 | 192 | Shauna Havard |
 | 184 | 191 | Klo |
 | 185 | 190 | Cheery Risebuilder |
-| 186 | 189 | Calvin Dennis |
-| 187 | 189 | Stacey Stano |
+| 186 | 189 | Stacey Stano |
+| 187 | 189 | Calvin Dennis |
 | 188 | 188 | Andria Lynn |
 | 189 | 186 | Holly |
 | 190 | 185 | Lori |
 | 191 | 185 | Andy Cabral |
 | 192 | 184 | Ak Jones |
-| 193 | 181 | Carter Jones |
-| 194 | 181 | Alan George LaRage |
-| 195 | 180 | Rafael Valentin |
-| 196 | 180 | Orchislactea |
+| 193 | 181 | Alan George LaRage |
+| 194 | 181 | Carter Jones |
+| 195 | 180 | Orchislactea |
+| 196 | 180 | Rafael Valentin |
 | 197 | 179 | blockstar |
 | 198 | 175 | TinyLegoRose |
-| 199 | 174 | Dihcheese444 |
-| 200 | 174 | Rio Rocha |
+| 199 | 174 | Rio Rocha |
+| 200 | 174 | Dihcheese444 |
 | 201 | 172 | Gilles Lanctot |
 | 202 | 171 | Autumn Kumzi |
 | 203 | 167 | Cozy Balancer |

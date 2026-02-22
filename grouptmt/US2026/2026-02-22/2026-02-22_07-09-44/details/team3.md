@@ -61,8 +61,8 @@
 | 53 | 908 | Alanna Rogers |
 | 54 | 907 | Judi Dobson |
 | 55 | 903 | Sarah Fehring |
-| 56 | 895 | Amanda L Baker |
-| 57 | 895 | Shonna Roberts |
+| 56 | 895 | Shonna Roberts |
+| 57 | 895 | Amanda L Baker |
 | 58 | 886 | Khristen AC |
 | 59 | 874 | Jessica Pineda-Lopez |
 | 60 | 867 | Corie A. Brinson |
@@ -194,11 +194,11 @@
 | 186 | 319 | Rebecca Funderburk Kirby |
 | 187 | 317 | Ashley Tookes |
 | 188 | 315 | Kammy Hill |
-| 189 | 311 | Rochelle Hazelett |
-| 190 | 311 | Araceli Parra |
+| 189 | 311 | Araceli Parra |
+| 190 | 311 | Rochelle Hazelett |
 | 191 | 310 | Danielle Balcom |
-| 192 | 308 | Rania Zaqout |
-| 193 | 308 | Daryn Elliott |
+| 192 | 308 | Daryn Elliott |
+| 193 | 308 | Rania Zaqout |
 | 194 | 307 | rnr junky |
 | 195 | 307 | Blocked |
 | 196 | 302 | Rebecca Bailey |
@@ -269,8 +269,8 @@
 | 261 | 221 | Jaime Monhaut-Reed |
 | 262 | 221 | Vaners |
 | 263 | 220 | rosy |
-| 264 | 219 | Cozy Snaplink |
-| 265 | 219 | Sissy Lowery Davis |
+| 264 | 219 | Sissy Lowery Davis |
+| 265 | 219 | Cozy Snaplink |
 | 266 | 218 | Michael Lucado |
 | 267 | 216 | Cheryl Hinch Tenbrook |
 | 268 | 215 | IamJust Neyamijah Washington Sr. |
@@ -287,9 +287,9 @@
 | 279 | 208 | AlsoJess |
 | 280 | 207 | Jessica |
 | 281 | 207 | angieelyn |
-| 282 | 206 | Tammy Rosenberry |
+| 282 | 206 | Jone |
 | 283 | 206 | Tracy Martin |
-| 284 | 206 | Jone |
+| 284 | 206 | Tammy Rosenberry |
 | 285 | 204 | Aerian Preston |
 | 286 | 203 | Angie Harper |
 | 287 | 202 | Staci George Fitzsimmons |
@@ -383,8 +383,8 @@
 | 375 | 146 | Sara Dunn |
 | 376 | 146 | Wettnippz |
 | 377 | 146 | Sdot |
-| 378 | 144 | Blair Erin Waite |
-| 379 | 144 | Tenisha Semidey |
+| 378 | 144 | Tenisha Semidey |
+| 379 | 144 | Blair Erin Waite |
 | 380 | 142 | Gray Hicks |
 | 381 | 142 | Jl |
 | 382 | 142 | Erica Anderson |
