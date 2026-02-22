@@ -178,8 +178,8 @@
 | 170 | 1047 | Amy Sayers |
 | 171 | 1046 | Poppy Snap |
 | 172 | 1045 | Lourisha |
-| 173 | 1043 | Brave Dropmatch |
-| 174 | 1043 | Suki Kaur |
+| 173 | 1043 | Suki Kaur |
+| 174 | 1043 | Brave Dropmatch |
 | 175 | 1036 | Allison Lockyer |
 | 176 | 1035 | Sarah Freitas |
 | 177 | 1025 | Brandy Andre |
@@ -215,8 +215,8 @@
 | 207 | 919 | Isaac Trappiel IV |
 | 208 | 916 | Butta |
 | 209 | 915 | Kelly Trent |
-| 210 | 910 | Crystal Hoffman |
-| 211 | 910 | Shuany Arias |
+| 210 | 910 | Shuany Arias |
+| 211 | 910 | Crystal Hoffman |
 | 212 | 907 | Gene Mills |
 | 213 | 901 | Jennifer Peachey |
 | 214 | 894 | Auntie B |
@@ -298,8 +298,8 @@
 | 290 | 703 | Gold Rose |
 | 291 | 700 | Hong Tang |
 | 292 | 700 | Vincent Petrella |
-| 293 | 700 | Beverly Owens |
-| 294 | 700 | Rosemadder |
+| 293 | 700 | Rosemadder |
+| 294 | 700 | Beverly Owens |
 | 295 | 697 | Dreamy Blast |
 | 296 | 696 | Jánine Riggs |
 | 297 | 695 | Lakeysha Dortch |
@@ -561,12 +561,12 @@
 | 553 | 413 | Fancy Twister |
 | 554 | 413 | Lauren Fitzgerald Thomas |
 | 555 | 412 | Jason H Baker |
-| 556 | 411 | Kristen O'Neal |
-| 557 | 411 | Mighty Spinbuilder |
+| 556 | 411 | Mighty Spinbuilder |
+| 557 | 411 | Kristen O'Neal |
 | 558 | 410 | Nicole Cannon |
 | 559 | 409 | Angi Harrison |
-| 560 | 408 | Stefanie Zonzini-Gagliardi |
-| 561 | 408 | Abimbola Bimbo |
+| 560 | 408 | Abimbola Bimbo |
+| 561 | 408 | Stefanie Zonzini-Gagliardi |
 | 562 | 408 | Brandon Jones |
 | 563 | 407 | Tipsy Filler |
 | 564 | 407 | Goofy Catcher |
@@ -602,8 +602,8 @@
 | 594 | 389 | Kayla |
 | 595 | 389 | Alexis Richardson |
 | 596 | 388 | Christina Ashley |
-| 597 | 387 | Misti Markijohn |
-| 598 | 387 | Bold Brickster |
+| 597 | 387 | Bold Brickster |
+| 598 | 387 | Misti Markijohn |
 | 599 | 385 | Tansaria Couch-Butler |
 | 600 | 384 | Mary Marie |
 | 601 | 384 | Kelly |
@@ -696,8 +696,8 @@
 | 688 | 336 | Swanky Columnbuilder |
 | 689 | 336 | bru |
 | 690 | 336 | Austin Wilson |
-| 691 | 335 | Alexandrea |
-| 692 | 335 | Brooke Leigh Strube |
+| 691 | 335 | Brooke Leigh Strube |
+| 692 | 335 | Alexandrea |
 | 693 | 335 | Maria Louise |
 | 694 | 334 | Melissa James |
 | 695 | 333 | Woodys Glass |
@@ -956,8 +956,8 @@
 | 948 | 248 | CleverAngel |
 | 949 | 248 | Jaybee Nguyen |
 | 950 | 248 | Angelina Marie |
-| 951 | 247 | Wizz |
-| 952 | 247 | Karyn Yurcho Dooley |
+| 951 | 247 | Karyn Yurcho Dooley |
+| 952 | 247 | Wizz |
 | 953 | 247 | Linda Miltenburg |
 | 954 | 246 | Stacey Tranchida |
 | 955 | 246 | Laura McConnell |

@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Shelly Chandler |
-| 34 | 843 | Lucille Truesdale |
+| 33 | 843 | Lucille Truesdale |
+| 34 | 843 | Shelly Chandler |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -183,8 +183,8 @@
 | 175 | 217 | Chaz Duncan |
 | 176 | 217 | Angela Srubar-Norman |
 | 177 | 215 | Jessica Bohlken |
-| 178 | 213 | Sarah Neathery |
-| 179 | 213 | Jason Allen |
+| 178 | 213 | Jason Allen |
+| 179 | 213 | Sarah Neathery |
 | 180 | 212 | Mike Solo |
 | 181 | 211 | Jenna McGeorge |
 | 182 | 210 | Zethra Prenisha Rahming |
@@ -215,8 +215,8 @@
 | 207 | 193 | Rio Rocha |
 | 208 | 192 | Shauna Havard |
 | 209 | 192 | Dizzy Matchzone |
-| 210 | 191 | Klo |
-| 211 | 191 | Sam Bishop |
+| 210 | 191 | Sam Bishop |
+| 211 | 191 | Klo |
 | 212 | 190 | Cheery Risebuilder |
 | 213 | 189 | Calvin Dennis |
 | 214 | 189 | Stacey Stano |
