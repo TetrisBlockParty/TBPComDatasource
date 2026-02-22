@@ -591,8 +591,8 @@
 | 583 | 386 | Michael Artis |
 | 584 | 386 | Wuntayk |
 | 585 | 385 | Tansaria Couch-Butler |
-| 586 | 384 | Kelly |
-| 587 | 384 | Party d |
+| 586 | 384 | Party d |
+| 587 | 384 | Kelly |
 | 588 | 383 | Belle Mari |
 | 589 | 382 | David Holliday |
 | 590 | 382 | Amber Gray |
@@ -611,8 +611,8 @@
 | 603 | 375 | Cecilia A Jenkins |
 | 604 | 375 | Lively Edgepiece |
 | 605 | 373 | Ashley Marie |
-| 606 | 373 | Jessica Hughes |
-| 607 | 373 | Hunter Connors |
+| 606 | 373 | Hunter Connors |
+| 607 | 373 | Jessica Hughes |
 | 608 | 372 | Ebony Deloach Bryant |
 | 609 | 371 | AkaLefty |
 | 610 | 371 | Brenda Messer |
@@ -826,8 +826,8 @@
 | 818 | 274 | Jamie Stevey |
 | 819 | 274 | KT Macadocious |
 | 820 | 274 | Sabrena Yeisley |
-| 821 | 273 | Britt Stunkel |
-| 822 | 273 | Swanky Snap |
+| 821 | 273 | Swanky Snap |
+| 822 | 273 | Britt Stunkel |
 | 823 | 273 | Jennifer Aiken |
 | 824 | 272 | Gina Justbeingme Chillis |
 | 825 | 272 | Witty Piecebuilder |
@@ -885,8 +885,8 @@
 | 877 | 258 | DesertDreamer24 |
 | 878 | 258 | Tee Jaleesa |
 | 879 | 257 | Mama T |
-| 880 | 257 | Ys Muhammed |
-| 881 | 257 | Jackie Jackie Lee |
+| 880 | 257 | Jackie Jackie Lee |
+| 881 | 257 | Ys Muhammed |
 | 882 | 256 | Gursharan Sandhu |
 | 883 | 256 | Brenna Yearian |
 | 884 | 256 | Nikki Vaughn |

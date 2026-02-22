@@ -62,8 +62,8 @@
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Dustee Craddock-Harrison |
-| 58 | 636 | Kimyatta Cavin |
+| 57 | 636 | Kimyatta Cavin |
+| 58 | 636 | Dustee Craddock-Harrison |
 | 59 | 623 | Robin Getchel |
 | 60 | 599 | Brittney Griggs |
 | 61 | 593 | Lisa Davis |
@@ -82,8 +82,8 @@
 | 74 | 512 | Casey Jeffcoat |
 | 75 | 511 | Michelle Marie |
 | 76 | 500 | Rodney McMath Jr. |
-| 77 | 486 | Carmethia Clemons Haslerig |
-| 78 | 486 | Landon Keith Graffeo |
+| 77 | 486 | Landon Keith Graffeo |
+| 78 | 486 | Carmethia Clemons Haslerig |
 | 79 | 485 | TeeJ |
 | 80 | 447 | Samantha Peterson |
 | 81 | 447 | Erin Thomas |
@@ -147,7 +147,7 @@
 | 139 | 267 | Andy Cabral |
 | 140 | 264 | Dana Scott |
 | 141 | 264 | Epic Curvetile |
-| 142 | 264 | Dana Scott |
+| 142 | 264 | Girl |
 | 143 | 262 | Holly Jolly |
 | 144 | 258 | Bio Nelly |
 | 145 | 256 | Mylo Lipscomb |
@@ -160,8 +160,8 @@
 | 152 | 240 | Peachy Fall |
 | 153 | 237 | Chris Bernstein |
 | 154 | 232 | Crystal Nicolette Moore |
-| 155 | 230 | Cursed Hag |
-| 156 | 230 | Autum Leigh |
+| 155 | 230 | Autum Leigh |
+| 156 | 230 | Cursed Hag |
 | 157 | 228 | J-Rizzle |
 | 158 | 227 | Swanky Fitline |
 | 159 | 227 | Alyssa Papen |
@@ -177,14 +177,14 @@
 | 169 | 217 | Chaz Duncan |
 | 170 | 215 | Ren Mc |
 | 171 | 215 | Jessica Bohlken |
-| 172 | 213 | Jason Allen |
-| 173 | 213 | Sarah Neathery |
+| 172 | 213 | Sarah Neathery |
+| 173 | 213 | Jason Allen |
 | 174 | 212 | Mike Solo |
 | 175 | 211 | Jenna McGeorge |
 | 176 | 207 | Chirpy Basepiece |
 | 177 | 205 | Kathy Brookins |
-| 178 | 204 | Jen Caldwell |
-| 179 | 204 | Carlos Ramirez |
+| 178 | 204 | Carlos Ramirez |
+| 179 | 204 | Jen Caldwell |
 | 180 | 203 | Katherine Crane |
 | 181 | 202 | TRCuse |
 | 182 | 202 | Zethra Prenisha Rahming |
@@ -217,8 +217,8 @@
 | 209 | 179 | TinyLegoRose |
 | 210 | 179 | blockstar |
 | 211 | 175 | Lorena Guerrero-Barron |
-| 212 | 174 | JPW |
-| 213 | 174 | Rio Rocha |
+| 212 | 174 | Rio Rocha |
+| 213 | 174 | JPW |
 | 214 | 172 | Gilles Lanctot |
 | 215 | 171 | Autumn Kumzi |
 | 216 | 167 | Mr. Party |
@@ -317,8 +317,8 @@
 | 309 | 128 | Kristin MacDonald |
 | 310 | 128 | Madison Sweere |
 | 311 | 127 | Kim Hunt |
-| 312 | 126 | Cheryl Johnson |
-| 313 | 126 | icequeenx |
+| 312 | 126 | icequeenx |
+| 313 | 126 | Cheryl Johnson |
 | 314 | 126 | PAPatty |
 | 315 | 125 | Lush Linkfall |
 | 316 | 125 | Ann G. Carrillo |

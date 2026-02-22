@@ -125,8 +125,8 @@
 | 117 | 318 | Jessica Sheehan |
 | 118 | 316 | Ly Phethmany |
 | 119 | 313 | Tanya Carpenter-Reynolds |
-| 120 | 310 | Seth Wesson |
-| 121 | 310 | Jason Jones |
+| 120 | 310 | Jason Jones |
+| 121 | 310 | Seth Wesson |
 | 122 | 306 | Happy Basegrid |
 | 123 | 304 | Nicole Roseberry Weber |
 | 124 | 301 | Lehrin Maria |
@@ -165,8 +165,8 @@
 | 157 | 241 | John J. Cronin |
 | 158 | 239 | Jamie Jury |
 | 159 | 232 | Jessi Sauer |
-| 160 | 230 | Frothy Pattern |
-| 161 | 230 | Billie Dawn Sparks |
+| 160 | 230 | Billie Dawn Sparks |
+| 161 | 230 | Frothy Pattern |
 | 162 | 229 | David Lutcher |
 | 163 | 226 | Kandae |
 | 164 | 226 | Sleepysloath5745 |
@@ -180,8 +180,8 @@
 | 172 | 213 | Daring Fitclear |
 | 173 | 212 | Jaimie Lynn |
 | 174 | 211 | Marianita Garcia |
-| 175 | 210 | Letson Melissa |
-| 176 | 210 | Giggly Builderline |
+| 175 | 210 | Giggly Builderline |
+| 176 | 210 | Letson Melissa |
 | 177 | 209 | Debbie Davis |
 | 178 | 208 | Donna Addison Williams |
 | 179 | 208 | Bouncy Grid |
@@ -238,12 +238,12 @@
 | 230 | 176 | Mel Hogan |
 | 231 | 175 | John Barron |
 | 232 | 174 | Cheeky Pop |
-| 233 | 173 | Gabrielle Louise Malloch |
-| 234 | 173 | Rico Rico |
+| 233 | 173 | Rico Rico |
+| 234 | 173 | Gabrielle Louise Malloch |
 | 235 | 171 | David DeSantis |
 | 236 | 171 | Greg Premoe |
-| 237 | 170 | Standia Civil |
-| 238 | 170 | Cece Ibarra |
+| 237 | 170 | Cece Ibarra |
+| 238 | 170 | Standia Civil |
 | 239 | 169 | Abbey Crespo |
 | 240 | 168 | Amber Stoker |
 | 241 | 168 | Angela Fairbank |
