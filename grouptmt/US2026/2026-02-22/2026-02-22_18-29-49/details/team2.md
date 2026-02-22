@@ -121,8 +121,8 @@
 | 113 | 1519 | Mindy Leigh Head |
 | 114 | 1513 | blackq |
 | 115 | 1509 | Whitney Nicole Waterman |
-| 116 | 1507 | Linda Pierce |
-| 117 | 1507 | Stephanie Chapman |
+| 116 | 1507 | Stephanie Chapman |
+| 117 | 1507 | Linda Pierce |
 | 118 | 1495 | Tj Ball |
 | 119 | 1493 | Mari Ac |
 | 120 | 1487 | Kristopher Miller |
@@ -133,8 +133,8 @@
 | 125 | 1439 | Jumpy Gridpiece |
 | 126 | 1435 | Jessie McDougald |
 | 127 | 1418 | L3sli3 |
-| 128 | 1411 | Zappy Cascade |
-| 129 | 1411 | niecy |
+| 128 | 1411 | niecy |
+| 129 | 1411 | Zappy Cascade |
 | 130 | 1384 | Katrina Williams Balmir |
 | 131 | 1383 | Ladyrainbootz |
 | 132 | 1380 | Jose Mendoza |
@@ -216,8 +216,8 @@
 | 208 | 1002 | Foxxo |
 | 209 | 998 | Tralonda Weeks |
 | 210 | 991 | Moose Griffith |
-| 211 | 989 | Teddi Notyalc |
-| 212 | 989 | Desiree Harris Rosch |
+| 211 | 989 | Desiree Harris Rosch |
+| 212 | 989 | Teddi Notyalc |
 | 213 | 988 | Cherica Taylor |
 | 214 | 986 | RAEPR05 |
 | 215 | 979 | Mema |
@@ -508,8 +508,8 @@
 | 500 | 496 | Erika Densmore |
 | 501 | 495 | Bubbly Snapbuild |
 | 502 | 494 | Venita Ray |
-| 503 | 493 | Sue Leard |
-| 504 | 493 | Sarah DeHart |
+| 503 | 493 | Sarah DeHart |
+| 504 | 493 | Sue Leard |
 | 505 | 492 | Breezy Clusterer |
 | 506 | 492 | Maya June |
 | 507 | 492 | Armonie Smith |

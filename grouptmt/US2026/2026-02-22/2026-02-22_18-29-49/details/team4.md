@@ -134,8 +134,8 @@
 | 126 | 353 | Livvy |
 | 127 | 344 | Lush Linkfall |
 | 128 | 343 | Latisha Davis |
-| 129 | 338 | Lucas J Sutton |
-| 130 | 338 | ThaEviLJeNiuZ |
+| 129 | 338 | ThaEviLJeNiuZ |
+| 130 | 338 | Lucas J Sutton |
 | 131 | 336 | Austin Owens |
 | 132 | 332 | HastyGrabber |
 | 133 | 332 | Desi Desporte |
@@ -196,8 +196,8 @@
 | 188 | 250 | Matt Dell'Olio |
 | 189 | 248 | Chirpy Basepiece |
 | 190 | 247 | Sam Bishop |
-| 191 | 247 | Dennis Bradley |
-| 192 | 247 | jim |
+| 191 | 247 | jim |
+| 192 | 247 | Dennis Bradley |
 | 193 | 246 | Carlos Ramirez |
 | 194 | 245 | Andria Lynn |
 | 195 | 245 | 23 |
@@ -276,8 +276,8 @@
 | 268 | 180 | Cozy Balancer |
 | 269 | 179 | AyeKay |
 | 270 | 175 | Lorena Guerrero-Barron |
-| 271 | 174 | BigSammy420 |
-| 272 | 174 | Matt Gooder |
+| 271 | 174 | Matt Gooder |
+| 272 | 174 | BigSammy420 |
 | 273 | 171 | Autumn Kumzi |
 | 274 | 171 | June Hoffman |
 | 275 | 170 | Elie Pean |
@@ -792,7 +792,7 @@
 | 784 | 56 | Wacky Wendy |
 | 785 | 56 | Joan Du |
 | 786 | 55 | RiahRose |
-| 787 | 55 | Krystol Fantabulously Gorgeously Dennis |
+| 787 | 55 | David Phifer |
 | 788 | 55 | Jenjen |
 | 789 | 55 | Krystol Fantabulously Gorgeously Dennis |
 | 790 | 55 | Fritzi Phillips |

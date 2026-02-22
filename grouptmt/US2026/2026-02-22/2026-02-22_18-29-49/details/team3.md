@@ -138,8 +138,8 @@
 | 130 | 526 | Cynthia Castros-Hampton |
 | 131 | 525 | Justin Ritter |
 | 132 | 521 | Leah Barnett |
-| 133 | 521 | Michael Nowogorski |
-| 134 | 521 | Michelle Becker |
+| 133 | 521 | Michelle Becker |
+| 134 | 521 | Michael Nowogorski |
 | 135 | 518 | opf |
 | 136 | 506 | Sashay Tapae Simpson |
 | 137 | 504 | Jennifer Lynn Fahrenholtz-Summers |
@@ -232,8 +232,8 @@
 | 224 | 337 | Philip Rock |
 | 225 | 332 | Rich LeBlanc |
 | 226 | 330 | Rebecca Funderburk Kirby |
-| 227 | 324 | Kristal C Lee |
-| 228 | 324 | Sissy Lowery Davis |
+| 227 | 324 | Sissy Lowery Davis |
+| 228 | 324 | Kristal C Lee |
 | 229 | 323 | Demetrious Shaw Sr. |
 | 230 | 323 | Melissa Orth Hunter |
 | 231 | 321 | Rebecca Bailey |

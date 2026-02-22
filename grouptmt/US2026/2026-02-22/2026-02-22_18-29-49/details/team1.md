@@ -164,8 +164,8 @@
 | 156 | 293 | Sarah Roberts |
 | 157 | 292 | David Lutcher |
 | 158 | 285 | ALFD |
-| 159 | 284 | Emily Adelaide Wheatley |
-| 160 | 284 | Rachael |
+| 159 | 284 | Rachael |
+| 160 | 284 | Emily Adelaide Wheatley |
 | 161 | 283 | Franswa |
 | 162 | 282 | Snippy Wipebuilder |
 | 163 | 282 | Timothy Dew |
@@ -205,8 +205,8 @@
 | 197 | 242 | John Kim |
 | 198 | 241 | John J. Cronin |
 | 199 | 240 | DaRascal |
-| 200 | 239 | Lacy Wolfe |
-| 201 | 239 | Sam Williams |
+| 200 | 239 | Sam Williams |
+| 201 | 239 | Lacy Wolfe |
 | 202 | 238 | Tiffany Smith |
 | 203 | 237 | Veronica Eve |
 | 204 | 236 | femmefatale |
