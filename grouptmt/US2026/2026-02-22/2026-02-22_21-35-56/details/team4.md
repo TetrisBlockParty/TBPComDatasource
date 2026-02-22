@@ -61,8 +61,8 @@
 | 53 | 766 | Robin Watters |
 | 54 | 763 | Ashley Ingram |
 | 55 | 757 | Ancient Intuition |
-| 56 | 751 | Rachel Anne |
-| 57 | 751 | Jason Allen |
+| 56 | 751 | Jason Allen |
+| 57 | 751 | Rachel Anne |
 | 58 | 745 | Robin Getchel |
 | 59 | 736 | Goatimus Lombardi |
 | 60 | 735 | Avy Absol |
@@ -73,13 +73,13 @@
 | 65 | 704 | Crystal Carroll |
 | 66 | 679 | D3TROITB0RN74 |
 | 67 | 671 | Kimyatta Cavin |
-| 68 | 664 | Valerie Roberts |
-| 69 | 664 | loulou |
+| 68 | 664 | loulou |
+| 69 | 664 | Valerie Roberts |
 | 70 | 659 | Jonathan Kimbrough |
 | 71 | 655 | Carolyn Wallace |
 | 72 | 654 | Julian Garcia |
-| 73 | 647 | KM8 |
-| 74 | 647 | Shauna Havard |
+| 73 | 647 | Shauna Havard |
+| 74 | 647 | KM8 |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 626 | Brittney Griggs |
 | 77 | 617 | Savannah Overdorf |
@@ -100,7 +100,7 @@
 | 92 | 539 | Chris Baggett |
 | 93 | 533 | Samantha Peterson |
 | 94 | 519 | Nugget |
-| 95 | 513 | Judy Cox |
+| 95 | 513 | Erin Thomas |
 | 96 | 513 | YoMomma |
 | 97 | 513 | Judy Cox |
 | 98 | 512 | Casey Jeffcoat |
@@ -133,7 +133,7 @@
 | 125 | 405 | Courtney Cicoria |
 | 126 | 400 | Ericca Eldridge |
 | 127 | 393 | Carlton Unfiltered |
-| 128 | 391 | Lush Linkfall |
+| 128 | 391 | Austin Owens |
 | 129 | 391 | Ramel Rhodes |
 | 130 | 391 | Lush Linkfall |
 | 131 | 388 | Trista Leah |
@@ -203,8 +203,8 @@
 | 195 | 267 | Chris Bernstein |
 | 196 | 266 | Laura |
 | 197 | 264 | Epic Curvetile |
-| 198 | 262 | Joeliecea Cobb |
-| 199 | 262 | Holly Jolly |
+| 198 | 262 | Holly Jolly |
+| 199 | 262 | Joeliecea Cobb |
 | 200 | 261 | scott |
 | 201 | 259 | Swanky Fitline |
 | 202 | 259 | Sam Bishop |
@@ -237,26 +237,26 @@
 | 229 | 230 | blockstar |
 | 230 | 230 | Jade Rian |
 | 231 | 228 | Antony Dwayne Beasley |
-| 232 | 225 | Perky Patternblock |
-| 233 | 225 | Jenna McGeorge |
+| 232 | 225 | Jenna McGeorge |
+| 233 | 225 | Perky Patternblock |
 | 234 | 222 | Brandi Durig |
-| 235 | 221 | Rheanda Weaskus |
-| 236 | 221 | PurpleMoonMa |
+| 235 | 221 | PurpleMoonMa |
+| 236 | 221 | Rheanda Weaskus |
 | 237 | 220 | Joanna |
 | 238 | 220 | Chair |
 | 239 | 219 | Dizzy Matchzone |
 | 240 | 219 | Malakai Darien Fox |
 | 241 | 219 | BigSammy420 |
 | 242 | 218 | Lori |
-| 243 | 216 | ZeeZee |
+| 243 | 216 | Cristy Duerksen |
 | 244 | 216 | Chance Strickland |
 | 245 | 216 | ZeeZee |
 | 246 | 215 | John Brunetti |
 | 247 | 215 | Ziggy |
 | 248 | 214 | Stacey Stano |
 | 249 | 213 | Sarah Neathery |
-| 250 | 213 | Angela Geist Jusinski |
-| 251 | 213 | Rio Rocha |
+| 250 | 213 | Rio Rocha |
+| 251 | 213 | Angela Geist Jusinski |
 | 252 | 212 | Mike Solo |
 | 253 | 209 | Chaz |
 | 254 | 208 | Rebecca Morris |

@@ -231,16 +231,16 @@
 | 223 | 360 | Sheila M Frazier |
 | 224 | 357 | Stephanie Burtin |
 | 225 | 355 | Keis |
-| 226 | 351 | Rebecca Funderburk Kirby |
-| 227 | 351 | Eon Harris |
+| 226 | 351 | Eon Harris |
+| 227 | 351 | Rebecca Funderburk Kirby |
 | 228 | 350 | Kammy Hill |
 | 229 | 349 | Amanda J. Mcneil-Anderson |
 | 230 | 348 | Kristal C Lee |
 | 231 | 347 | Philip Rock |
 | 232 | 347 | Trisha Balmer |
 | 233 | 346 | Tamara Deherrera |
-| 234 | 344 | Rania Zaqout |
-| 235 | 344 | Roary Danner |
+| 234 | 344 | Roary Danner |
+| 235 | 344 | Rania Zaqout |
 | 236 | 343 | Ashley Raines |
 | 237 | 341 | Noyb Adam |
 | 238 | 341 | Ashley Tookes |

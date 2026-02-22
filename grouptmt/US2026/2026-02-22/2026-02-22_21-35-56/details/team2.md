@@ -219,8 +219,8 @@
 | 211 | 1067 | Samantha Roberts |
 | 212 | 1062 | Crystal Slaughter |
 | 213 | 1058 | Jennifer Kistner |
-| 214 | 1057 | RAEPR05 |
-| 215 | 1057 | Desiree Harris Rosch |
+| 214 | 1057 | Desiree Harris Rosch |
+| 215 | 1057 | RAEPR05 |
 | 216 | 1056 | Amy Sayers |
 | 217 | 1045 | Lourisha |
 | 218 | 1043 | Brave Dropmatch |
@@ -228,8 +228,8 @@
 | 220 | 1039 | Moose Griffith |
 | 221 | 1036 | Allison Lockyer |
 | 222 | 1034 | Amber Shoemaker |
-| 223 | 1024 | Desiree Anderson |
-| 224 | 1024 | Taylor Phillips |
+| 223 | 1024 | Taylor Phillips |
+| 224 | 1024 | Desiree Anderson |
 | 225 | 1022 | Shannon Joslin |
 | 226 | 1020 | Eric Carlson |
 | 227 | 1016 | Jodi Blake |
@@ -414,9 +414,9 @@
 | 406 | 649 | Johnny Yeates |
 | 407 | 648 | AgileDragon |
 | 408 | 643 | Hoppy Brickmatch |
-| 409 | 642 | Gary Stash |
-| 410 | 642 | Cassie Maynard |
-| 411 | 642 | Arkei Luster |
+| 409 | 642 | Cassie Maynard |
+| 410 | 642 | Arkei Luster |
+| 411 | 642 | Gary Stash |
 | 412 | 640 | BYM4L |
 | 413 | 639 | Rebecca Miller |
 | 414 | 639 | Steven Marshaun |
@@ -485,8 +485,8 @@
 | 477 | 562 | AISlop |
 | 478 | 559 | Slip |
 | 479 | 558 | Libby Hicks |
-| 480 | 558 | Frisky Clearpiece |
-| 481 | 558 | Cheery Matchzone |
+| 480 | 558 | Cheery Matchzone |
+| 481 | 558 | Frisky Clearpiece |
 | 482 | 557 | Denise Rickman |
 | 483 | 555 | Kitybox |
 | 484 | 554 | Laquetta Royston |
@@ -511,10 +511,10 @@
 | 503 | 531 | Aishah Brice |
 | 504 | 529 | Victoria Regina Girolami |
 | 505 | 528 | Sarah Berger |
-| 506 | 528 | Arlene Joy Belicina |
-| 507 | 528 | Anita Rose Green |
-| 508 | 527 | Ryan Gunther |
-| 509 | 527 | Heather M Purcell |
+| 506 | 528 | Anita Rose Green |
+| 507 | 528 | Arlene Joy Belicina |
+| 508 | 527 | Heather M Purcell |
+| 509 | 527 | Ryan Gunther |
 | 510 | 525 | Anthony Huebel |
 | 511 | 523 | Matt Johnson |
 | 512 | 522 | Leah |
@@ -528,8 +528,8 @@
 | 520 | 514 | Karen Posadas Centeno |
 | 521 | 513 | MrsCandyfine As Wine Truss |
 | 522 | 512 | Leslie Jorgenson |
-| 523 | 511 | Adam Simmons |
-| 524 | 511 | Laura Mclean |
+| 523 | 511 | Laura Mclean |
+| 524 | 511 | Adam Simmons |
 | 525 | 509 | Kelli Wells |
 | 526 | 509 | Jordan Kaiser |
 | 527 | 507 | Daniell Martinez |
