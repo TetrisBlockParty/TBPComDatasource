@@ -68,8 +68,8 @@
 | 60 | 621 | Ebony West-Cundiff |
 | 61 | 621 | Cherry Parker |
 | 62 | 620 | Elaine Webb Graves |
-| 63 | 618 | Brandon Green |
-| 64 | 618 | MissTaylor |
+| 63 | 618 | MissTaylor |
+| 64 | 618 | Brandon Green |
 | 65 | 613 | Amber Hughes |
 | 66 | 604 | Danielle Becker |
 | 67 | 591 | Suzieq |
@@ -240,8 +240,8 @@
 | 232 | 179 | Tipsy Zonebuilder |
 | 233 | 179 | DanceLuvLaugh |
 | 234 | 179 | Daira Largen |
-| 235 | 178 | Ryan Williams |
-| 236 | 178 | Sarajane Lokan |
+| 235 | 178 | Sarajane Lokan |
+| 236 | 178 | Ryan Williams |
 | 237 | 177 | Saucy Buildout |
 | 238 | 176 | Nora Rogers |
 | 239 | 176 | rosy |
@@ -378,9 +378,9 @@
 | 370 | 115 | FATTY |
 | 371 | 114 | Elizabeth Renee |
 | 372 | 114 | Amanda Neal |
-| 373 | 114 | Elizabeth Renee |
-| 374 | 113 | Boldy Blocker |
-| 375 | 113 | Gideon Walker |
+| 373 | 114 | Demetrious Shaw Sr. |
+| 374 | 113 | Gideon Walker |
+| 375 | 113 | Boldy Blocker |
 | 376 | 112 | Tia Moore |
 | 377 | 111 | Stephanie Zahm |
 | 378 | 111 | Amber Groover Taylor |

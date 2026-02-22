@@ -52,8 +52,8 @@
 | 44 | 526 | Goatimus Lombardi |
 | 45 | 519 | Anthony Bryan Riva |
 | 46 | 504 | Ash |
-| 47 | 500 | Rodney McMath Jr. |
-| 48 | 500 | Savannah Overdorf |
+| 47 | 500 | Savannah Overdorf |
+| 48 | 500 | Rodney McMath Jr. |
 | 49 | 496 | Carolyn Wallace |
 | 50 | 491 | Casey Jeffcoat |
 | 51 | 486 | Landon Keith Graffeo |
@@ -75,8 +75,8 @@
 | 67 | 391 | Ramel Rhodes |
 | 68 | 390 | Carlton Unfiltered |
 | 69 | 388 | YoMomma |
-| 70 | 376 | Marie-Pier Desjardins |
-| 71 | 376 | quicksand420 |
+| 70 | 376 | quicksand420 |
+| 71 | 376 | Marie-Pier Desjardins |
 | 72 | 373 | Joseph Guthrie |
 | 73 | 370 | Leslie Thomas |
 | 74 | 369 | Nope Young |
@@ -264,9 +264,9 @@
 | 256 | 106 | Brandi Durig |
 | 257 | 106 | Zappy Snaplink |
 | 258 | 105 | Kim Hunt |
-| 259 | 104 | mike |
-| 260 | 104 | Maureen Flanigan |
-| 261 | 104 | Cheery Risebuilder |
+| 259 | 104 | Maureen Flanigan |
+| 260 | 104 | Cheery Risebuilder |
+| 261 | 104 | mike |
 | 262 | 103 | Richard-April Kice |
 | 263 | 102 | Faja |
 | 264 | 102 | Christina O'Dell-Ishau |
@@ -278,8 +278,8 @@
 | 270 | 101 | Spicy Cascadezone |
 | 271 | 101 | Zesty Linkgrid |
 | 272 | 100 | Blessedmama |
-| 273 | 100 | Jennifer Perkins |
-| 274 | 100 | Jacob Richard |
+| 273 | 100 | Jacob Richard |
+| 274 | 100 | Bradley Reeves |
 | 275 | 100 | Porkobello |
 | 276 | 100 | Jennifer Perkins |
 | 277 | 99 | Chance Strickland |
@@ -348,7 +348,7 @@
 | 340 | 80 | Brittany Little |
 | 341 | 80 | GBR |
 | 342 | 80 | Ahleek Mitchell |
-| 343 | 79 | Undeniable Williams |
+| 343 | 79 | Sharyn Lemire |
 | 344 | 79 | Krs |
 | 345 | 79 | Undeniable Williams |
 | 346 | 78 | Smiley Shifter |

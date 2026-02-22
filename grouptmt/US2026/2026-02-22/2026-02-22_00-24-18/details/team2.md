@@ -237,8 +237,8 @@
 | 229 | 618 | Brenda Utphall |
 | 230 | 618 | Gabby Jenner |
 | 231 | 612 | Brandon Armstrong |
-| 232 | 608 | Sommer Shope |
-| 233 | 608 | goofinoff |
+| 232 | 608 | goofinoff |
+| 233 | 608 | Sommer Shope |
 | 234 | 606 | Ellie Jonas |
 | 235 | 605 | Jelly |
 | 236 | 603 | Cassie Maynard |
@@ -252,8 +252,8 @@
 | 244 | 583 | Steve Grotto |
 | 245 | 582 | Gary Stash |
 | 246 | 580 | Leslie Ann Carter |
-| 247 | 579 | Juliana Marques Do Nascimento Gordy |
-| 248 | 579 | Roy Salyer |
+| 247 | 579 | Roy Salyer |
+| 248 | 579 | Juliana Marques Do Nascimento Gordy |
 | 249 | 578 | Sally Dennis |
 | 250 | 576 | Ginger |
 | 251 | 572 | tejas25 |
@@ -318,8 +318,8 @@
 | 310 | 469 | Ashley Lopez |
 | 311 | 469 | Amélie Cadieux |
 | 312 | 468 | Drwatson187 |
-| 313 | 467 | Scott Treadway |
-| 314 | 467 | Dedra Steward |
+| 313 | 467 | Dedra Steward |
+| 314 | 467 | Scott Treadway |
 | 315 | 466 | Speedy Spinblock |
 | 316 | 463 | Sue Leard |
 | 317 | 460 | Barbra Miller |
@@ -484,8 +484,8 @@
 | 476 | 329 | Chummy Blockbuilder |
 | 477 | 329 | Autumn Schaeffer |
 | 478 | 328 | Lewis Sturgeon |
-| 479 | 328 | Jane Crew |
-| 480 | 328 | bru |
+| 479 | 328 | bru |
+| 480 | 328 | Jane Crew |
 | 481 | 327 | Danielle Simmons |
 | 482 | 327 | Kiana Boschh |
 | 483 | 326 | Denise Rickman |
@@ -551,8 +551,8 @@
 | 543 | 294 | Frisky Riserbuilder |
 | 544 | 294 | Frilly Fallzone |
 | 545 | 293 | Ann Marie Davis |
-| 546 | 293 | Giggy Grabber |
-| 547 | 293 | Carl Bradshaw |
+| 546 | 293 | Carl Bradshaw |
+| 547 | 293 | Giggy Grabber |
 | 548 | 292 | BeQuo |
 | 549 | 292 | Deana |
 | 550 | 288 | Snippy Block |

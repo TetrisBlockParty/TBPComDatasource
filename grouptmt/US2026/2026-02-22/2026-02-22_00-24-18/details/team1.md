@@ -164,10 +164,10 @@
 | 156 | 177 | ParisandCory Champagne |
 | 157 | 175 | John Barron |
 | 158 | 171 | David DeSantis |
-| 159 | 171 | femmefatale |
-| 160 | 171 | Greg Premoe |
-| 161 | 170 | Cartier |
-| 162 | 170 | Veronica Eve |
+| 159 | 171 | Greg Premoe |
+| 160 | 171 | femmefatale |
+| 161 | 170 | Veronica Eve |
+| 162 | 170 | Cartier |
 | 163 | 169 | Abbey Crespo |
 | 164 | 168 | Standia Civil |
 | 165 | 167 | Nery Martinez |
@@ -178,10 +178,10 @@
 | 170 | 162 | Cece Ibarra |
 | 171 | 161 | SavageBooty98 |
 | 172 | 161 | Jessie Lynn |
-| 173 | 159 | David Miller |
-| 174 | 159 | Bindi |
-| 175 | 158 | Sarah Marie |
-| 176 | 158 | Arianna O'Brien |
+| 173 | 159 | Bindi |
+| 174 | 159 | David Miller |
+| 175 | 158 | Arianna O'Brien |
+| 176 | 158 | Sarah Marie |
 | 177 | 157 | Angela Fairbank |
 | 178 | 156 | Shanae Grant |
 | 179 | 154 | Christy Jones |
@@ -288,8 +288,8 @@
 | 280 | 100 | Debbie Davis |
 | 281 | 100 | Jessica Weed |
 | 282 | 98 | Virginia Gray Floyd |
-| 283 | 98 | DoodleBug |
-| 284 | 98 | Jeanna Dunn |
+| 283 | 98 | Jeanna Dunn |
+| 284 | 98 | DoodleBug |
 | 285 | 97 | Josh Smith |
 | 286 | 97 | Jessica Rabon |
 | 287 | 97 | Eddie Dillon |
