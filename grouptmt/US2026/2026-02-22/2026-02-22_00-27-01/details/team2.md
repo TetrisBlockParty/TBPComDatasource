@@ -237,8 +237,8 @@
 | 229 | 619 | Jamie Otero |
 | 230 | 618 | Brenda Utphall |
 | 231 | 612 | Brandon Armstrong |
-| 232 | 608 | goofinoff |
-| 233 | 608 | Sommer Shope |
+| 232 | 608 | Sommer Shope |
+| 233 | 608 | goofinoff |
 | 234 | 606 | Ellie Jonas |
 | 235 | 605 | Jelly |
 | 236 | 603 | Cassie Maynard |
@@ -469,8 +469,8 @@
 | 461 | 341 | Daniel Amos |
 | 462 | 341 | Traci Johnson |
 | 463 | 339 | Cool Rollpiece |
-| 464 | 338 | Peppy Snapfall |
-| 465 | 338 | Shorty |
+| 464 | 338 | Shorty |
+| 465 | 338 | Peppy Snapfall |
 | 466 | 337 | Sassy Pattern |
 | 467 | 336 | Hong Tang |
 | 468 | 335 | Brooke Leigh Strube |
@@ -543,8 +543,8 @@
 | 535 | 297 | Maxwell Escalera |
 | 536 | 297 | Peachy Blockbuilder |
 | 537 | 296 | Jennifer Darby |
-| 538 | 296 | Amber Gray |
-| 539 | 296 | Sassy Linkbuilder |
+| 538 | 296 | Sassy Linkbuilder |
+| 539 | 296 | Amber Gray |
 | 540 | 295 | Noel Tarmy |
 | 541 | 294 | Venita Ray |
 | 542 | 294 | Amanda Edwards |
@@ -884,12 +884,12 @@
 | 876 | 179 | Andrew Bratton-Tomes |
 | 877 | 178 | BTA |
 | 878 | 178 | William Hunt |
-| 879 | 178 | Wungun Shun |
-| 880 | 178 | Kim McGrath |
+| 879 | 178 | Kim McGrath |
+| 880 | 178 | Wungun Shun |
 | 881 | 177 | RaeVan Worthington |
 | 882 | 177 | Leslie Porter |
-| 883 | 176 | Nuke Morris |
-| 884 | 176 | Dandy Drop |
+| 883 | 176 | Cini |
+| 884 | 176 | Nuke Morris |
 | 885 | 176 | Tristan Lamothe |
 | 886 | 176 | Dandy Drop |
 | 887 | 176 | Crystal Heller Gonzalez |

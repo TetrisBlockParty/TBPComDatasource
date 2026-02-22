@@ -65,8 +65,8 @@
 | 57 | 696 | Judi Dobson |
 | 58 | 632 | Jamie Furr |
 | 59 | 628 | Tiff Vs Tiffany |
-| 60 | 621 | Ebony West-Cundiff |
-| 61 | 621 | Cherry Parker |
+| 60 | 621 | Cherry Parker |
+| 61 | 621 | Ebony West-Cundiff |
 | 62 | 620 | Elaine Webb Graves |
 | 63 | 619 | Jennifer |
 | 64 | 618 | Brandon Green |
@@ -126,8 +126,8 @@
 | 118 | 389 | Jessica Bechler |
 | 119 | 386 | Katie Knaus |
 | 120 | 383 | Jesse Olive |
-| 121 | 378 | Tasha Schriewer |
-| 122 | 378 | Makelini Mausia |
+| 121 | 378 | Makelini Mausia |
+| 122 | 378 | Tasha Schriewer |
 | 123 | 374 | Loopy Clusterer |
 | 124 | 368 | Stephanie Blkpep Davidson |
 | 125 | 368 | Stephanie Woods |
