@@ -174,8 +174,8 @@
 | 166 | 479 | Annie Marie |
 | 167 | 479 | Poppy Splitter |
 | 168 | 475 | Tessina Dewey-Mancino |
-| 169 | 471 | Mendoza Lee Christy |
-| 170 | 471 | Rachel |
+| 169 | 471 | Rachel |
+| 170 | 471 | Mendoza Lee Christy |
 | 171 | 470 | Logan Naccarato |
 | 172 | 469 | Melissa Orth Hunter |
 | 173 | 468 | Betty Ivy |

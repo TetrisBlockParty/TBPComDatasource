@@ -59,8 +59,8 @@
 | 51 | 810 | BertMofo |
 | 52 | 793 | Rebecca Moulton Pinciaro |
 | 53 | 767 | Shannon Ferrari |
-| 54 | 766 | Robin Watters |
-| 55 | 766 | Ashley Ingram |
+| 54 | 766 | Ashley Ingram |
+| 55 | 766 | Robin Watters |
 | 56 | 757 | Ancient Intuition |
 | 57 | 755 | Edward White |
 | 58 | 751 | Rachel Anne |
@@ -74,12 +74,12 @@
 | 66 | 704 | Crystal Carroll |
 | 67 | 701 | D3TROITB0RN74 |
 | 68 | 671 | Kimyatta Cavin |
-| 69 | 664 | Valerie Roberts |
-| 70 | 664 | Julian Garcia |
+| 69 | 664 | Julian Garcia |
+| 70 | 664 | Valerie Roberts |
 | 71 | 659 | Jonathan Kimbrough |
 | 72 | 655 | Carolyn Wallace |
-| 73 | 647 | Shauna Havard |
-| 74 | 647 | KM8 |
+| 73 | 647 | KM8 |
+| 74 | 647 | Shauna Havard |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 636 | Isabella Blanco |
 | 77 | 633 | Lisa Davis |
@@ -109,11 +109,11 @@
 | 101 | 512 | Diana Houts |
 | 102 | 510 | Scott Jameson |
 | 103 | 500 | Rodney McMath Jr. |
-| 104 | 499 | Trista Leah |
-| 105 | 499 | Christina LR |
+| 104 | 499 | Christina LR |
+| 105 | 499 | Trista Leah |
 | 106 | 488 | Jen Allison |
-| 107 | 487 | Alyssa Papen |
-| 108 | 487 | shar |
+| 107 | 487 | shar |
+| 108 | 487 | Alyssa Papen |
 | 109 | 481 | Serena Goodridge |
 | 110 | 476 | Matt Summer |
 | 111 | 474 | Jenna Ingersoll |
@@ -200,8 +200,8 @@
 | 192 | 276 | Joeliecea Cobb |
 | 193 | 276 | Matt Dell'Olio |
 | 194 | 273 | Casey Grabner |
-| 195 | 272 | Alan George LaRage |
-| 196 | 272 | Dennis Bradley |
+| 195 | 272 | Dennis Bradley |
+| 196 | 272 | Alan George LaRage |
 | 197 | 271 | Sarah Brown |
 | 198 | 270 | Melissa Adams |
 | 199 | 270 | Juls |
@@ -268,7 +268,7 @@
 | 260 | 213 | Sarah Neathery |
 | 261 | 212 | Orchislactea |
 | 262 | 212 | TinyLegoRose |
-| 263 | 212 | Christine Therrien |
+| 263 | 212 | Mike Solo |
 | 264 | 211 | Christina Black |
 | 265 | 211 | JIGsaw ~(•¿°)~ |
 | 266 | 209 | Chaz |

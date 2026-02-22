@@ -86,8 +86,8 @@
 | 78 | 535 | Denice Dee |
 | 79 | 534 | Cynthia Bradley |
 | 80 | 522 | Robert Benito |
-| 81 | 519 | Ryan Lunnin |
-| 82 | 519 | Greg Hart |
+| 81 | 519 | Greg Hart |
+| 82 | 519 | Ryan Lunnin |
 | 83 | 510 | Colena Davenport |
 | 84 | 501 | Nancy Green |
 | 85 | 496 | Sarah Lombardo |
@@ -154,8 +154,8 @@
 | 146 | 343 | Tanya Carpenter-Reynolds |
 | 147 | 341 | Nick R Montague |
 | 148 | 336 | Elaine Elaine |
-| 149 | 334 | Fmp |
-| 150 | 334 | Jaimie Lynn |
+| 149 | 334 | Jaimie Lynn |
+| 150 | 334 | Fmp |
 | 151 | 333 | GATOR |
 | 152 | 333 | Gracie |
 | 153 | 332 | Lehrin Maria |

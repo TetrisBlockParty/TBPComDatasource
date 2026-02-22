@@ -180,8 +180,8 @@
 | 172 | 1260 | Joshua Sommerville |
 | 173 | 1257 | Michele Gabriel |
 | 174 | 1242 | Mischelle Clay |
-| 175 | 1232 | Groovy Puzzle |
-| 176 | 1232 | Ambyre Patterson |
+| 175 | 1232 | Ambyre Patterson |
+| 176 | 1232 | Groovy Puzzle |
 | 177 | 1230 | Megan Garrick |
 | 178 | 1224 | Liberty |
 | 179 | 1211 | Lucky Ladybug |
