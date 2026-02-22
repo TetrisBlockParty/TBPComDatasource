@@ -153,8 +153,8 @@
 | 145 | 239 | GATOR |
 | 146 | 236 | Mandyy Rae |
 | 147 | 232 | Jessi Sauer |
-| 148 | 230 | Billie Dawn Sparks |
-| 149 | 230 | Frothy Pattern |
+| 148 | 230 | Frothy Pattern |
+| 149 | 230 | Billie Dawn Sparks |
 | 150 | 229 | David Lutcher |
 | 151 | 226 | Kandae |
 | 152 | 226 | Sleepysloath5745 |

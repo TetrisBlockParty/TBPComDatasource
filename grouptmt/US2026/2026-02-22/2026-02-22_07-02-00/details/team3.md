@@ -49,8 +49,8 @@
 | 41 | 1036 | Ant Ant |
 | 42 | 1015 | Amber Jones |
 | 43 | 998 | Liv Whetson |
-| 44 | 989 | Kay |
-| 45 | 989 | Joey Banks |
+| 44 | 989 | Joey Banks |
+| 45 | 989 | Kay |
 | 46 | 985 | Stephanie Rice |
 | 47 | 983 | Brandon Green |
 | 48 | 956 | Gracie |
@@ -151,8 +151,8 @@
 | 143 | 401 | Katie Knaus |
 | 144 | 400 | Luciana Braganca Vieira |
 | 145 | 400 | Aaron Pitkin |
-| 146 | 399 | Jacqueline Rodriguez |
-| 147 | 399 | Mcathen |
+| 146 | 399 | Mcathen |
+| 147 | 399 | Jacqueline Rodriguez |
 | 148 | 399 | Marcie Bressler |
 | 149 | 397 | Annie Déè |
 | 150 | 393 | Fallorina Susana |
@@ -184,8 +184,8 @@
 | 176 | 347 | Nicole Flippo |
 | 177 | 343 | Ashley Raines |
 | 178 | 341 | Samantha Lynn |
-| 179 | 338 | Gumbo |
-| 180 | 338 | Leah Barnett |
+| 179 | 338 | Leah Barnett |
+| 180 | 338 | Gumbo |
 | 181 | 332 | Rich LeBlanc |
 | 182 | 328 | Giddy Twistbuilder |
 | 183 | 323 | Demetrious Shaw Sr. |
@@ -367,8 +367,8 @@
 | 359 | 153 | Lys |
 | 360 | 153 | Tony Waters |
 | 361 | 152 | Goofy Fall |
-| 362 | 152 | Shiny Zonebuilder |
-| 363 | 152 | Eric Caccavale |
+| 362 | 152 | Eric Caccavale |
+| 363 | 152 | Shiny Zonebuilder |
 | 364 | 151 | Sarah Cowan Burgos |
 | 365 | 149 | Alexis Taylor |
 | 366 | 148 | Pam Holt Powell |
@@ -379,12 +379,12 @@
 | 371 | 147 | Funky Jumper |
 | 372 | 147 | Kiki |
 | 373 | 147 | sofaking |
-| 374 | 146 | Sara Dunn |
-| 375 | 146 | ROODBOY |
-| 376 | 146 | Sdot |
-| 377 | 146 | Wettnippz |
-| 378 | 144 | Blair Erin Waite |
-| 379 | 144 | Tenisha Semidey |
+| 374 | 146 | ROODBOY |
+| 375 | 146 | Sara Dunn |
+| 376 | 146 | Wettnippz |
+| 377 | 146 | Sdot |
+| 378 | 144 | Tenisha Semidey |
+| 379 | 144 | Blair Erin Waite |
 | 380 | 142 | Gray Hicks |
 | 381 | 142 | Joy Petroski |
 | 382 | 142 | Erica Anderson |

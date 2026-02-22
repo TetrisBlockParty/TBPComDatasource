@@ -120,8 +120,8 @@
 | 112 | 298 | Tyler Terrific |
 | 113 | 296 | Justin Hannigan |
 | 114 | 296 | HastyGrabber |
-| 115 | 295 | Chastity Mitchell |
-| 116 | 295 | Latisha Davis |
+| 115 | 295 | Latisha Davis |
+| 116 | 295 | Chastity Mitchell |
 | 117 | 294 | Kesha Brady |
 | 118 | 290 | 🥔🥔 Spudz |
 | 119 | 288 | Leslie Nicole |
@@ -136,9 +136,9 @@
 | 128 | 277 | Scott Jameson |
 | 129 | 275 | Dizzy Tiley |
 | 130 | 271 | Sarah Brown |
-| 131 | 264 | Girl |
+| 131 | 264 | Epic Curvetile |
 | 132 | 264 | Dana Scott |
-| 133 | 264 | Epic Curvetile |
+| 133 | 264 | Girl |
 | 134 | 262 | Holly Jolly |
 | 135 | 256 | Mylo Lipscomb |
 | 136 | 255 | Lindsay Ball |
@@ -148,8 +148,8 @@
 | 140 | 240 | Peachy Fall |
 | 141 | 240 | Jolly Dashfit |
 | 142 | 232 | Crystal Nicolette Moore |
-| 143 | 230 | Cursed Hag |
-| 144 | 230 | Autum Leigh |
+| 143 | 230 | Autum Leigh |
+| 144 | 230 | Cursed Hag |
 | 145 | 228 | J-Rizzle |
 | 146 | 227 | Chris Bernstein |
 | 147 | 227 | Swanky Fitline |
@@ -234,12 +234,12 @@
 | 226 | 153 | Empress Oasis |
 | 227 | 152 | Austin Owens |
 | 228 | 152 | Faja |
-| 229 | 149 | Shainne Brewer |
-| 230 | 149 | Tanner Lund |
-| 231 | 149 | Megan Cutshaw |
+| 229 | 149 | Tanner Lund |
+| 230 | 149 | Megan Cutshaw |
+| 231 | 149 | Shainne Brewer |
 | 232 | 148 | Janita Parrish |
-| 233 | 147 | B Renee Desjardin |
-| 234 | 147 | Jay28 |
+| 233 | 147 | Jay28 |
+| 234 | 147 | B Renee Desjardin |
 | 235 | 147 | Jared Gutwein |
 | 236 | 146 | Ultramarine |
 | 237 | 145 | Mimi |
@@ -264,10 +264,10 @@
 | 256 | 138 | Ashlee Carnes |
 | 257 | 138 | Sarah Hoffman |
 | 258 | 138 | Brandon Link |
-| 259 | 137 | Brianna Walker |
-| 260 | 137 | PeaceOs |
-| 261 | 136 | Maureen Flanigan |
-| 262 | 136 | Michelle Morris |
+| 259 | 137 | PeaceOs |
+| 260 | 137 | Brianna Walker |
+| 261 | 136 | Michelle Morris |
+| 262 | 136 | Maureen Flanigan |
 | 263 | 135 | Joshua Guess |
 | 264 | 134 | Angelito |
 | 265 | 134 | Duck |

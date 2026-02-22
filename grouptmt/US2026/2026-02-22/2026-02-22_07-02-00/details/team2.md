@@ -206,8 +206,8 @@
 | 198 | 867 | Michele Gabriel |
 | 199 | 865 | Dedra Steward |
 | 200 | 863 | Auntie B |
-| 201 | 862 | Brittany Radaszewski |
-| 202 | 862 | Robin Kerby |
+| 201 | 862 | Robin Kerby |
+| 202 | 862 | Brittany Radaszewski |
 | 203 | 860 | April Dawn Gussler |
 | 204 | 857 | Della Hole |
 | 205 | 850 | Missie Lawson Gebhardt |
@@ -217,8 +217,8 @@
 | 209 | 838 | Tralonda Weeks |
 | 210 | 837 | Ashley Rose Frederick |
 | 211 | 835 | Katrina Weston |
-| 212 | 834 | Nika Bee |
-| 213 | 834 | Rebecca Doughman |
+| 212 | 834 | Rebecca Doughman |
+| 213 | 834 | Nika Bee |
 | 214 | 828 | Cindy Sechler Taninecz |
 | 215 | 820 | Chirpy Staggerpiece |
 | 216 | 818 | Angela Bonquiqui Dinish |
@@ -420,8 +420,8 @@
 | 412 | 483 | Victor Obiakarije |
 | 413 | 482 | Ben Barkley |
 | 414 | 482 | Amélie Cadieux |
-| 415 | 482 | Drwatson187 |
-| 416 | 482 | Eckoman518 |
+| 415 | 482 | Eckoman518 |
+| 416 | 482 | Drwatson187 |
 | 417 | 481 | Klee |
 | 418 | 480 | Dar |
 | 419 | 478 | Ashley Collins |
@@ -447,8 +447,8 @@
 | 439 | 459 | Melissa Kay Gibson |
 | 440 | 458 | Casper The Chonk |
 | 441 | 454 | Casey Schumacher |
-| 442 | 453 | Rhonda Petro |
-| 443 | 453 | Joshua Sommerville |
+| 442 | 453 | Joshua Sommerville |
+| 443 | 453 | Rhonda Petro |
 | 444 | 451 | Funky Caster |
 | 445 | 451 | Cody Nishimura |
 | 446 | 451 | Dylan Thomason |
@@ -460,8 +460,8 @@
 | 452 | 444 | Ryan Meilleur |
 | 453 | 442 | Leah |
 | 454 | 441 | Christina Wsn |
-| 455 | 440 | Sarah Berger |
-| 456 | 440 | Liberty |
+| 455 | 440 | Liberty |
+| 456 | 440 | Sarah Berger |
 | 457 | 440 | Snippy Rumbler |
 | 458 | 438 | Johnny Yeates |
 | 459 | 437 | Bubbly Snapfit |
