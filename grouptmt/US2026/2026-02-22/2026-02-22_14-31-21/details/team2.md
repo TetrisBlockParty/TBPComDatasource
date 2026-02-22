@@ -142,8 +142,8 @@
 | 134 | 1273 | Cool Rollpiece |
 | 135 | 1265 | Katrina Williams Balmir |
 | 136 | 1257 | Eileen Hale |
-| 137 | 1248 | Isabela Shaw |
-| 138 | 1248 | Howard Forest |
+| 137 | 1248 | Howard Forest |
+| 138 | 1248 | Isabela Shaw |
 | 139 | 1242 | Altamirano Michael |
 | 140 | 1232 | Groovy Puzzle |
 | 141 | 1230 | Megan Garrick |
@@ -516,14 +516,14 @@
 | 508 | 462 | Jarboe |
 | 509 | 460 | Tara Lynn Janes |
 | 510 | 459 | Melissa Kay Gibson |
-| 511 | 458 | SwampRebel |
-| 512 | 458 | Casper The Chonk |
+| 511 | 458 | Casper The Chonk |
+| 512 | 458 | SwampRebel |
 | 513 | 456 | Skyler Morgan |
 | 514 | 454 | Casey Schumacher |
 | 515 | 453 | Rhonda Petro |
 | 516 | 452 | Juanita Lyons |
-| 517 | 451 | Anthony Huebel |
-| 518 | 451 | Funky Caster |
+| 517 | 451 | Funky Caster |
+| 518 | 451 | Anthony Huebel |
 | 519 | 450 | Cheery Matchzone |
 | 520 | 448 | Lee Harper |
 | 521 | 448 | Tina Marie |
@@ -532,8 +532,8 @@
 | 524 | 447 | Besma Ao |
 | 525 | 447 | Jessica S Flecha |
 | 526 | 445 | Sharon Mills |
-| 527 | 445 | Mar Q Thomas |
-| 528 | 445 | Elisheva Mizrachi |
+| 527 | 445 | Elisheva Mizrachi |
+| 528 | 445 | Mar Q Thomas |
 | 529 | 444 | Ryan Meilleur |
 | 530 | 444 | Chab |
 | 531 | 442 | Leah |
@@ -923,11 +923,11 @@
 | 915 | 263 | Amy Humphreys |
 | 916 | 263 | Sunshine711 |
 | 917 | 263 | Sara Pennington |
-| 918 | 262 | Squirrel |
-| 919 | 262 | Taren Cowan |
-| 920 | 261 | Dany Murillo |
+| 918 | 262 | Taren Cowan |
+| 919 | 262 | Squirrel |
+| 920 | 261 | Gina Gina |
 | 921 | 261 | Chirpy Tilt |
-| 922 | 261 | Gina Gina |
+| 922 | 261 | Dany Murillo |
 | 923 | 261 | MrsClaudette Will'sIam Matthews |
 | 924 | 261 | Mellissa Evans |
 | 925 | 260 | Michelle Fleming Luna |
