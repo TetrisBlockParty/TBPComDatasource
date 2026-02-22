@@ -106,8 +106,8 @@
 | 98 | 1640 | Sam Smith |
 | 99 | 1603 | Gabby Jenner |
 | 100 | 1601 | Ray Ray Prado |
-| 101 | 1599 | Janel Turley-Garner |
-| 102 | 1599 | Rob Riggin |
+| 101 | 1599 | Rob Riggin |
+| 102 | 1599 | Janel Turley-Garner |
 | 103 | 1567 | Sally Dennis |
 | 104 | 1564 | Charie Holland |
 | 105 | 1562 | Loopy Clusterbuilder |
@@ -135,8 +135,8 @@
 | 127 | 1380 | Jose Mendoza |
 | 128 | 1371 | Zappy Cascade |
 | 129 | 1347 | Alisa Lamb |
-| 130 | 1342 | Eboni Banks |
-| 131 | 1342 | Christi Hulet |
+| 130 | 1342 | Christi Hulet |
+| 131 | 1342 | Eboni Banks |
 | 132 | 1342 | Bob |
 | 133 | 1338 | Dawn Geist-Weasner |
 | 134 | 1330 | Erica Williams |

@@ -43,8 +43,8 @@
 | 35 | 873 | Elizabeth Sallas |
 | 36 | 871 | Denny Shives |
 | 37 | 846 | Christine Marie |
-| 38 | 843 | Shelly Chandler |
-| 39 | 843 | Lucille Truesdale |
+| 38 | 843 | Lucille Truesdale |
+| 39 | 843 | Shelly Chandler |
 | 40 | 834 | quicksand420 |
 | 41 | 829 | LisaJo Picken Buchanan |
 | 42 | 823 | Jae Job |
@@ -76,8 +76,8 @@
 | 68 | 646 | Jacqueline Helm |
 | 69 | 638 | Julian Garcia |
 | 70 | 614 | TheNeesh50 |
-| 71 | 608 | Savannah Overdorf |
-| 72 | 608 | Avy Absol |
+| 71 | 608 | Avy Absol |
+| 72 | 608 | Savannah Overdorf |
 | 73 | 600 | Michelle Marie |
 | 74 | 599 | Brittney Griggs |
 | 75 | 593 | Lisa Davis |
@@ -221,8 +221,8 @@
 | 213 | 209 | Sam Bishop |
 | 214 | 208 | Stacey Stano |
 | 215 | 208 | scott |
-| 216 | 208 | Oscar Alberto Perez |
-| 217 | 208 | Dizzy Matchzone |
+| 216 | 208 | Dizzy Matchzone |
+| 217 | 208 | Oscar Alberto Perez |
 | 218 | 207 | Chirpy Basepiece |
 | 219 | 206 | Kim Klutz Olson |
 | 220 | 204 | Carlos Ramirez |
@@ -279,8 +279,8 @@
 | 271 | 162 | conceptCollector |
 | 272 | 162 | Gwendolyn Pitcairn |
 | 273 | 162 | John Brunetti |
-| 274 | 161 | Twisty Risebuilder |
-| 275 | 161 | Tanner Lund |
+| 274 | 161 | Tanner Lund |
+| 275 | 161 | Twisty Risebuilder |
 | 276 | 159 | DonMega |
 | 277 | 159 | Marcus Todd |
 | 278 | 158 | Adam Stephanie Parker |
@@ -355,8 +355,8 @@
 | 347 | 132 | Meg |
 | 348 | 132 | Jessica Cagle |
 | 349 | 132 | Vamp |
-| 350 | 131 | Peppy Drop |
-| 351 | 131 | Smiley Tiltbuilder |
+| 350 | 131 | Smiley Tiltbuilder |
+| 351 | 131 | Peppy Drop |
 | 352 | 130 | Shukee Lo |
 | 353 | 130 | Zach Kerbs |
 | 354 | 130 | Linda Alexander Downing |

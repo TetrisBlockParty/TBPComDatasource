@@ -130,8 +130,8 @@
 | 122 | 526 | Cynthia Castros-Hampton |
 | 123 | 525 | Justin Ritter |
 | 124 | 521 | Michael Nowogorski |
-| 125 | 521 | Michelle Becker |
-| 126 | 521 | Daryn Elliott |
+| 125 | 521 | Daryn Elliott |
+| 126 | 521 | Michelle Becker |
 | 127 | 518 | opf |
 | 128 | 506 | Sashay Tapae Simpson |
 | 129 | 504 | Jennifer Lynn Fahrenholtz-Summers |
@@ -371,8 +371,8 @@
 | 363 | 193 | Clever Shiftsnap |
 | 364 | 193 | Loopy Fallzone |
 | 365 | 192 | Melanie Sherwood |
-| 366 | 192 | Kelly Ann Child |
-| 367 | 192 | Katrina E Jelks |
+| 366 | 192 | Katrina E Jelks |
+| 367 | 192 | Kelly Ann Child |
 | 368 | 191 | Becca Engle |
 | 369 | 190 | Willow |
 | 370 | 189 | Erykah |

@@ -86,8 +86,8 @@
 | 78 | 472 | April Carroll |
 | 79 | 471 | Jennifer ManWarren |
 | 80 | 456 | Arianna O'Brien |
-| 81 | 444 | Hyper |
-| 82 | 444 | Lexuriuos Lifestlye |
+| 81 | 444 | Lexuriuos Lifestlye |
+| 82 | 444 | Hyper |
 | 83 | 443 | Steve Schneider |
 | 84 | 436 | Tonya Beasley |
 | 85 | 433 | Trina Gee |
@@ -235,8 +235,8 @@
 | 227 | 204 | Lacy Wolfe |
 | 228 | 202 | Amanda Holibaugh |
 | 229 | 201 | Colleen Wise |
-| 230 | 200 | Breanna Luna |
-| 231 | 200 | Flashy Rotator |
+| 230 | 200 | Flashy Rotator |
+| 231 | 200 | Breanna Luna |
 | 232 | 200 | Diane Byrd |
 | 233 | 199 | Alenoush Karimian |
 | 234 | 199 | Cheeky Pop |
