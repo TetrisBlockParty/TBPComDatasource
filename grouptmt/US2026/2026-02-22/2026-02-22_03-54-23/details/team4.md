@@ -175,15 +175,15 @@
 | 167 | 185 | Lori |
 | 168 | 185 | Andy Cabral |
 | 169 | 184 | Ak Jones |
-| 170 | 181 | Carter Jones |
-| 171 | 181 | Klo |
+| 170 | 181 | Klo |
+| 171 | 181 | Carter Jones |
 | 172 | 179 | blockstar |
-| 173 | 176 | Diana Houts |
-| 174 | 176 | Zethra Prenisha Rahming |
+| 173 | 176 | Zethra Prenisha Rahming |
+| 174 | 176 | Diana Houts |
 | 175 | 174 | Dihcheese444 |
 | 176 | 173 | ThaEviLJeNiuZ |
-| 177 | 166 | Cozy Balancer |
-| 178 | 166 | SammieJo Guy |
+| 177 | 166 | SammieJo Guy |
+| 178 | 166 | Cozy Balancer |
 | 179 | 164 | 030Synner |
 | 180 | 162 | Joanna |
 | 181 | 160 | James Hurley Jr. |
@@ -194,8 +194,8 @@
 | 186 | 158 | Avy Absol |
 | 187 | 158 | Chair |
 | 188 | 155 | AyeKay |
-| 189 | 154 | Laura Hosford |
-| 190 | 154 | scott |
+| 189 | 154 | scott |
+| 190 | 154 | Laura Hosford |
 | 191 | 153 | Empress Oasis |
 | 192 | 152 | Austin Owens |
 | 193 | 152 | John Brunetti |
@@ -263,8 +263,8 @@
 | 255 | 125 | Steph Marie |
 | 256 | 125 | Daresha Fair |
 | 257 | 124 | Sam Middleton |
-| 258 | 123 | Sandra Safford |
-| 259 | 123 | Joseph Edmonson |
+| 258 | 123 | Joseph Edmonson |
+| 259 | 123 | Sandra Safford |
 | 260 | 121 | Joseph Pace |
 | 261 | 120 | KayM |
 | 262 | 120 | Maureen Flanigan |

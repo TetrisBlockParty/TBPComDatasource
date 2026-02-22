@@ -141,8 +141,8 @@
 | 133 | 1051 | Shandrica Lowe |
 | 134 | 1048 | PsychKIRAtrist |
 | 135 | 1047 | Amy Sayers |
-| 136 | 1043 | Suki Kaur |
-| 137 | 1043 | Brave Dropmatch |
+| 136 | 1043 | Brave Dropmatch |
+| 137 | 1043 | Suki Kaur |
 | 138 | 1032 | Sarah Freitas |
 | 139 | 1023 | Brainy Smurf |
 | 140 | 1020 | Heather Westrum |
@@ -1171,8 +1171,8 @@
 | 1163 | 163 | Gina Bahn |
 | 1164 | 162 | Wacky Edgefit |
 | 1165 | 162 | Dreamy Fitclear |
-| 1166 | 162 | LC Hamilton |
-| 1167 | 162 | Alice Samm |
+| 1166 | 162 | Alice Samm |
+| 1167 | 162 | LC Hamilton |
 | 1168 | 161 | Paula TexasMomma |
 | 1169 | 161 | Zippy Stackzone |
 | 1170 | 161 | Adeeb Ahmed |

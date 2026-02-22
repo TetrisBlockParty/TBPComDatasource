@@ -191,8 +191,8 @@
 | 183 | 284 | Duane Bright |
 | 184 | 284 | Edwin Calvillo Jr. |
 | 185 | 283 | Joye Sims Binion |
-| 186 | 278 | Rufus Lincoln |
-| 187 | 278 | Araceli Parra |
+| 186 | 278 | Araceli Parra |
+| 187 | 278 | Rufus Lincoln |
 | 188 | 277 | Keis |
 | 189 | 276 | _melisa223_ |
 | 190 | 276 | Crimson |
@@ -272,8 +272,8 @@
 | 264 | 188 | Loopy Fallmatch |
 | 265 | 184 | Troy |
 | 266 | 184 | France Vézina |
-| 267 | 182 | Carrie Huskey |
-| 268 | 182 | Melanie Sherwood |
+| 267 | 182 | Melanie Sherwood |
+| 268 | 182 | Carrie Huskey |
 | 269 | 181 | Nicholas Roddy |
 | 270 | 180 | Ryan Williams |
 | 271 | 180 | Criss |
@@ -331,7 +331,7 @@
 | 323 | 153 | Lys |
 | 324 | 152 | LaTanya GeminiondaRise Johnson |
 | 325 | 152 | Shiny Zonebuilder |
-| 326 | 152 | LaTanya GeminiondaRise Johnson |
+| 326 | 152 | Ashley Lynn Marchese |
 | 327 | 152 | Goofy Fall |
 | 328 | 151 | Rainbow77375 |
 | 329 | 151 | Nichole Greene |

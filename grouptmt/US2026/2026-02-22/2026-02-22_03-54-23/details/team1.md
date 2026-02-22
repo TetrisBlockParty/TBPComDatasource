@@ -89,8 +89,8 @@
 | 81 | 362 | Plucky Ziggy |
 | 82 | 361 | Trina Gee |
 | 83 | 359 | Nerdy Linkblock |
-| 84 | 347 | june october |
-| 85 | 347 | pjbeta |
+| 84 | 347 | pjbeta |
+| 85 | 347 | june october |
 | 86 | 345 | Dee Perry |
 | 87 | 338 | Tipsy Strikerpiece |
 | 88 | 337 | Hyper |
