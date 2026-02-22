@@ -266,8 +266,8 @@
 | 258 | 875 | Jamie Otero |
 | 259 | 874 | Giggy Blocker |
 | 260 | 872 | Felicia Lynn |
-| 261 | 867 | Peppy Zone |
-| 262 | 867 | Michele Gabriel |
+| 261 | 867 | Michele Gabriel |
+| 262 | 867 | Peppy Zone |
 | 263 | 865 | Kristin Gower |
 | 264 | 862 | Brittany Radaszewski |
 | 265 | 860 | Sheniya Spurgeon |
@@ -309,8 +309,8 @@
 | 301 | 787 | Dee |
 | 302 | 783 | Lisa Ongtowasruk |
 | 303 | 781 | Hong Tang |
-| 304 | 777 | Tesha Oldaker |
-| 305 | 777 | Jessicah Myers |
+| 304 | 777 | Jessicah Myers |
+| 305 | 777 | Tesha Oldaker |
 | 306 | 777 | Samantha Jo |
 | 307 | 773 | Diana Fitzwater |
 | 308 | 768 | Michele Morgan |
@@ -698,8 +698,8 @@
 | 690 | 382 | Alice Ball |
 | 691 | 382 | Sarah block |
 | 692 | 382 | Amber Gray |
-| 693 | 382 | James Zaragoza |
-| 694 | 382 | Austin Wilson |
+| 693 | 382 | Austin Wilson |
+| 694 | 382 | James Zaragoza |
 | 695 | 382 | David Holliday |
 | 696 | 382 | Lively Edgepiece |
 | 697 | 381 | Nicky Jackson |

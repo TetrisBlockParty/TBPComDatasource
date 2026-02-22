@@ -212,8 +212,8 @@
 | 204 | 238 | Tiffany Smith |
 | 205 | 237 | Veronica Eve |
 | 206 | 236 | femmefatale |
-| 207 | 235 | MRdot Rooski |
-| 208 | 235 | Desiree Deschaine Havee |
+| 207 | 235 | Desiree Deschaine Havee |
+| 208 | 235 | MRdot Rooski |
 | 209 | 234 | Paula Martin |
 | 210 | 233 | LC |
 | 211 | 230 | BigWeenie69 |
@@ -229,8 +229,8 @@
 | 221 | 223 | Basment Living |
 | 222 | 223 | Erez Yosef |
 | 223 | 222 | Debbie Davis |
-| 224 | 221 | Daring Fitclear |
-| 225 | 221 | Amy Hess |
+| 224 | 221 | Amy Hess |
+| 225 | 221 | Daring Fitclear |
 | 226 | 220 | Giddy Cascade |
 | 227 | 219 | Chuck Gannon |
 | 228 | 217 | Jason Savage |

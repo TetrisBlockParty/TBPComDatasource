@@ -70,8 +70,8 @@
 | 62 | 698 | Anthony Bryan Riva |
 | 63 | 675 | D3TROITB0RN74 |
 | 64 | 671 | Kimyatta Cavin |
-| 65 | 664 | loulou |
-| 66 | 664 | Valerie Roberts |
+| 65 | 664 | Valerie Roberts |
+| 66 | 664 | loulou |
 | 67 | 659 | Jonathan Kimbrough |
 | 68 | 654 | Chilly Line |
 | 69 | 647 | KM8 |
@@ -135,12 +135,12 @@
 | 127 | 353 | Tyler Terrific |
 | 128 | 344 | Lush Linkfall |
 | 129 | 343 | Latisha Davis |
-| 130 | 338 | ThaEviLJeNiuZ |
-| 131 | 338 | Lucas J Sutton |
+| 130 | 338 | Lucas J Sutton |
+| 131 | 338 | ThaEviLJeNiuZ |
 | 132 | 336 | Austin Owens |
 | 133 | 336 | Jessica Bohlken |
-| 134 | 332 | HastyGrabber |
-| 135 | 332 | Desi Desporte |
+| 134 | 332 | Desi Desporte |
+| 135 | 332 | HastyGrabber |
 | 136 | 330 | David Lay |
 | 137 | 328 | Kris Bartlett |
 | 138 | 328 | Leslie Nicole |
@@ -181,8 +181,8 @@
 | 173 | 269 | Nikki Rae Gordon |
 | 174 | 268 | Mimi |
 | 175 | 267 | Casey Grabner |
-| 176 | 267 | Kathy Brookins |
-| 177 | 267 | Holly |
+| 176 | 267 | Holly |
+| 177 | 267 | Kathy Brookins |
 | 178 | 266 | Laura |
 | 179 | 265 | Chris Bernstein |
 | 180 | 264 | Girl |
@@ -199,11 +199,11 @@
 | 191 | 247 | jim |
 | 192 | 247 | Dennis Bradley |
 | 193 | 246 | Carlos Ramirez |
-| 194 | 245 | 23 |
-| 195 | 245 | Autum Leigh |
+| 194 | 245 | Autum Leigh |
+| 195 | 245 | 23 |
 | 196 | 245 | Andria Lynn |
-| 197 | 244 | Twisty Cascadezone |
-| 198 | 244 | Lindsey Gonzalez |
+| 197 | 244 | Lindsey Gonzalez |
+| 198 | 244 | Twisty Cascadezone |
 | 199 | 243 | Jose Dejesus |
 | 200 | 243 | Mr. Party |
 | 201 | 241 | Allen Lloyd |
@@ -557,9 +557,9 @@
 | 549 | 90 | Walid Elsabee |
 | 550 | 89 | Shiny Fit |
 | 551 | 89 | Jonathan Mahfood |
-| 552 | 89 | Shiny Fit |
-| 553 | 88 | Eric Wren |
-| 554 | 88 | Chao Ma |
+| 552 | 89 | Kayley Kara Gaudin |
+| 553 | 88 | Chao Ma |
+| 554 | 88 | Eric Wren |
 | 555 | 88 | Nicole Silvers |
 | 556 | 88 | Joe Lonnemann |
 | 557 | 87 | Martha Lucinda Bishop |
