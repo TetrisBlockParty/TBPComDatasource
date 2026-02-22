@@ -85,8 +85,8 @@
 | 77 | 400 | Cynthia Bradley |
 | 78 | 390 | Candy Jones |
 | 79 | 389 | Trina Gee |
-| 80 | 388 | cc |
-| 81 | 388 | Jennifer ManWarren |
+| 80 | 388 | Jennifer ManWarren |
+| 81 | 388 | cc |
 | 82 | 382 | Jacqueline Williams |
 | 83 | 379 | Austin James |
 | 84 | 375 | Kimmie Kimms |
@@ -124,11 +124,11 @@
 | 116 | 290 | Death |
 | 117 | 288 | Seante Bullock |
 | 118 | 287 | Chelsea Dahlquist |
-| 119 | 286 | Arianna O'Brien |
-| 120 | 286 | Ly Phethmany |
+| 119 | 286 | Ly Phethmany |
+| 120 | 286 | Arianna O'Brien |
 | 121 | 285 | Ananda Mendez |
-| 122 | 284 | Rachael |
-| 123 | 284 | Emily Adelaide Wheatley |
+| 122 | 284 | Emily Adelaide Wheatley |
+| 123 | 284 | Rachael |
 | 124 | 283 | Franswa |
 | 125 | 282 | Cool Shiftsnap |
 | 126 | 282 | Timothy Dew |
@@ -149,8 +149,8 @@
 | 141 | 243 | Trippy Redd |
 | 142 | 241 | John J. Cronin |
 | 143 | 240 | ALFD |
-| 144 | 239 | Jamie Jury |
-| 145 | 239 | GATOR |
+| 144 | 239 | GATOR |
+| 145 | 239 | Jamie Jury |
 | 146 | 236 | Mandyy Rae |
 | 147 | 232 | Jessi Sauer |
 | 148 | 230 | Frothy Pattern |

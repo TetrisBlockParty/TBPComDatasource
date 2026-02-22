@@ -184,8 +184,8 @@
 | 176 | 347 | Nicole Flippo |
 | 177 | 343 | Ashley Raines |
 | 178 | 341 | Samantha Lynn |
-| 179 | 338 | Leah Barnett |
-| 180 | 338 | Gumbo |
+| 179 | 338 | Gumbo |
+| 180 | 338 | Leah Barnett |
 | 181 | 332 | Rich LeBlanc |
 | 182 | 328 | Giddy Twistbuilder |
 | 183 | 323 | Demetrious Shaw Sr. |
@@ -381,10 +381,10 @@
 | 373 | 147 | sofaking |
 | 374 | 146 | Sara Dunn |
 | 375 | 146 | ROODBOY |
-| 376 | 146 | Wettnippz |
-| 377 | 146 | Sdot |
-| 378 | 144 | Tenisha Semidey |
-| 379 | 144 | Blair Erin Waite |
+| 376 | 146 | Sdot |
+| 377 | 146 | Wettnippz |
+| 378 | 144 | Blair Erin Waite |
+| 379 | 144 | Tenisha Semidey |
 | 380 | 142 | Gray Hicks |
 | 381 | 142 | Erica Anderson |
 | 382 | 142 | Jl |
@@ -396,8 +396,8 @@
 | 388 | 140 | Linda Draper |
 | 389 | 140 | Boldy Corner |
 | 390 | 139 | Betty Bóò |
-| 391 | 139 | Beppy |
-| 392 | 139 | MizzMonick Smith |
+| 391 | 139 | MizzMonick Smith |
+| 392 | 139 | Beppy |
 | 393 | 139 | Paula Little |
 | 394 | 138 | Skinny Baldez |
 | 395 | 138 | Bleu Sun Beams |
@@ -413,15 +413,15 @@
 | 405 | 132 | Andrew Thorson |
 | 406 | 132 | Hanna Kim |
 | 407 | 131 | Cheeky Setter |
-| 408 | 130 | Sarah Whalen |
-| 409 | 130 | Maia |
-| 410 | 130 | TotoCherue |
-| 411 | 130 | Karen Picaboo |
-| 412 | 129 | luluraine |
-| 413 | 129 | Juliana Dottore |
+| 408 | 130 | Maia |
+| 409 | 130 | Sarah Whalen |
+| 410 | 130 | Karen Picaboo |
+| 411 | 130 | TotoCherue |
+| 412 | 129 | Juliana Dottore |
+| 413 | 129 | luluraine |
 | 414 | 129 | Stella |
-| 415 | 129 | TLM |
-| 416 | 129 | Amanda Neal |
+| 415 | 129 | Amanda Neal |
+| 416 | 129 | TLM |
 | 417 | 128 | David Kozen |
 | 418 | 127 | Jumpy Wrecker |
 | 419 | 126 | Crystal Martin |

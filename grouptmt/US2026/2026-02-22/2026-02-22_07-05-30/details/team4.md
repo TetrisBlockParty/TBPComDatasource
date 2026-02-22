@@ -191,12 +191,12 @@
 | 183 | 192 | Shauna Havard |
 | 184 | 191 | Klo |
 | 185 | 190 | Cheery Risebuilder |
-| 186 | 189 | Stacey Stano |
-| 187 | 189 | Calvin Dennis |
+| 186 | 189 | Calvin Dennis |
+| 187 | 189 | Stacey Stano |
 | 188 | 188 | Andria Lynn |
 | 189 | 186 | Holly |
-| 190 | 185 | Andy Cabral |
-| 191 | 185 | Lori |
+| 190 | 185 | Lori |
+| 191 | 185 | Andy Cabral |
 | 192 | 184 | Ak Jones |
 | 193 | 181 | Alan George LaRage |
 | 194 | 181 | Carter Jones |
@@ -204,8 +204,8 @@
 | 196 | 180 | Rafael Valentin |
 | 197 | 179 | blockstar |
 | 198 | 175 | TinyLegoRose |
-| 199 | 174 | Rio Rocha |
-| 200 | 174 | Dihcheese444 |
+| 199 | 174 | Dihcheese444 |
+| 200 | 174 | Rio Rocha |
 | 201 | 172 | Gilles Lanctot |
 | 202 | 171 | Autumn Kumzi |
 | 203 | 167 | Cozy Balancer |
@@ -287,7 +287,7 @@
 | 279 | 129 | Lindsey Gonzalez |
 | 280 | 129 | Sherri |
 | 281 | 128 | Silly Zonebuilder |
-| 282 | 128 | Jeremy Steines |
+| 282 | 128 | Kristin MacDonald |
 | 283 | 128 | April Rondinone |
 | 284 | 128 | Allen Lloyd |
 | 285 | 128 | Jeremy Steines |
@@ -312,9 +312,9 @@
 | 304 | 119 | Gwendolyn Pitcairn |
 | 305 | 119 | River Shady Sr. |
 | 306 | 118 | Christina Black |
-| 307 | 117 | BigSammy420 |
-| 308 | 117 | Gracie Ann Taylor |
-| 309 | 117 | PennyCandee |
+| 307 | 117 | Gracie Ann Taylor |
+| 308 | 117 | PennyCandee |
+| 309 | 117 | BigSammy420 |
 | 310 | 116 | Kate |
 | 311 | 116 | Smiley Shifter |
 | 312 | 116 | Adam Stephanie Parker |

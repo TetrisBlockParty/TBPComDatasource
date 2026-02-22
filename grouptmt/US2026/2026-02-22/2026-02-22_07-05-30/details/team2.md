@@ -217,8 +217,8 @@
 | 209 | 838 | Tralonda Weeks |
 | 210 | 837 | Ashley Rose Frederick |
 | 211 | 835 | Katrina Weston |
-| 212 | 834 | Rebecca Doughman |
-| 213 | 834 | Nika Bee |
+| 212 | 834 | Nika Bee |
+| 213 | 834 | Rebecca Doughman |
 | 214 | 828 | Cindy Sechler Taninecz |
 | 215 | 820 | Chirpy Staggerpiece |
 | 216 | 818 | Angela Bonquiqui Dinish |
@@ -298,8 +298,8 @@
 | 290 | 670 | Kassandra Hunt |
 | 291 | 669 | Charvi' Carter |
 | 292 | 666 | Speedy Spinblock |
-| 293 | 663 | Ashle Scranton |
-| 294 | 663 | Mandi Douglas Hilt |
+| 293 | 663 | Mandi Douglas Hilt |
+| 294 | 663 | Ashle Scranton |
 | 295 | 659 | Roseanna Peloso |
 | 296 | 658 | Erica Williams |
 | 297 | 653 | goofinoff |
@@ -339,8 +339,8 @@
 | 331 | 586 | Brittney Jean |
 | 332 | 582 | Gary Stash |
 | 333 | 581 | Jerry Tempelmeyer |
-| 334 | 579 | Juliana Marques Do Nascimento Gordy |
-| 335 | 579 | Roy Salyer |
+| 334 | 579 | Roy Salyer |
+| 335 | 579 | Juliana Marques Do Nascimento Gordy |
 | 336 | 576 | Leslie Johnson Guinto |
 | 337 | 573 | Carl Bradshaw |
 | 338 | 572 | Chris Wanner |
@@ -441,8 +441,8 @@
 | 433 | 463 | Sue Leard |
 | 434 | 463 | Jaye EL Hunter |
 | 435 | 462 | Daphne Jordan |
-| 436 | 462 | Amanda Ferrell |
-| 437 | 462 | Tonya Lee |
+| 436 | 462 | Tonya Lee |
+| 437 | 462 | Amanda Ferrell |
 | 438 | 462 | Jarboe |
 | 439 | 459 | Melissa Kay Gibson |
 | 440 | 458 | Casper The Chonk |
@@ -453,15 +453,15 @@
 | 445 | 451 | Cody Nishimura |
 | 446 | 451 | Dylan Thomason |
 | 447 | 450 | Cheery Matchzone |
-| 448 | 447 | Jessica S Flecha |
-| 449 | 447 | Brandy Andre |
+| 448 | 447 | Brandy Andre |
+| 449 | 447 | Jessica S Flecha |
 | 450 | 447 | Heather Schelkopf |
 | 451 | 445 | Mar Q Thomas |
 | 452 | 444 | Ryan Meilleur |
 | 453 | 442 | Leah |
 | 454 | 441 | Christina Wsn |
-| 455 | 440 | Liberty |
-| 456 | 440 | Sarah Berger |
+| 455 | 440 | Sarah Berger |
+| 456 | 440 | Liberty |
 | 457 | 440 | Snippy Rumbler |
 | 458 | 438 | Johnny Yeates |
 | 459 | 437 | Arwa Fatimah |
@@ -471,14 +471,14 @@
 | 463 | 432 | Lucy Marshall |
 | 464 | 430 | Jackie Lucas |
 | 465 | 430 | Gloria Ininahazwe |
-| 466 | 429 | Rhonda Milstead |
-| 467 | 429 | Christy Krissie |
+| 466 | 429 | Christy Krissie |
+| 467 | 429 | Rhonda Milstead |
 | 468 | 428 | Arkei Luster |
 | 469 | 428 | Shyenn Gadsby |
 | 470 | 428 | AgileDragon |
 | 471 | 427 | Kori Beth Babb |
-| 472 | 427 | Destiny Cozier |
-| 473 | 427 | Quinn |
+| 472 | 427 | Quinn |
+| 473 | 427 | Destiny Cozier |
 | 474 | 426 | Niceday |
 | 475 | 426 | Ashley Dow |
 | 476 | 425 | Skyler Morgan |
@@ -528,8 +528,8 @@
 | 520 | 396 | Boogie SoAnimated Johnson |
 | 521 | 394 | Taryece Gause |
 | 522 | 393 | Alexandra Weir |
-| 523 | 393 | Jamie West |
-| 524 | 393 | bbv |
+| 523 | 393 | bbv |
+| 524 | 393 | Jamie West |
 | 525 | 391 | Qiana Sanders |
 | 526 | 391 | Tipsy Filler |
 | 527 | 391 | Chilly Bridgepiece |
@@ -745,8 +745,8 @@
 | 737 | 293 | Ann Marie Davis |
 | 738 | 292 | Deana |
 | 739 | 291 | Brave Gridpiece |
-| 740 | 289 | Bella Novia |
-| 741 | 289 | August Hale |
+| 740 | 289 | August Hale |
+| 741 | 289 | Bella Novia |
 | 742 | 288 | thranduil |
 | 743 | 288 | Jenna Nance |
 | 744 | 288 | Samantha Angelo |
@@ -773,8 +773,8 @@
 | 765 | 276 | Josh Webster |
 | 766 | 276 | Ryan Lauer |
 | 767 | 275 | Alishac Marie |
-| 768 | 275 | LeVeL27 |
-| 769 | 275 | Tammy Mitchell |
+| 768 | 275 | Tammy Mitchell |
+| 769 | 275 | LeVeL27 |
 | 770 | 275 | Alyssia Tancredi |
 | 771 | 275 | Crystal Elam |
 | 772 | 274 | Jamie Stevey |
