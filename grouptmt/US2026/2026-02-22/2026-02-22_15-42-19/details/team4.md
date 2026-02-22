@@ -50,8 +50,8 @@
 | 42 | 823 | Jae Job |
 | 43 | 818 | Marvin Lou Martin |
 | 44 | 798 | BertMofo |
-| 45 | 775 | Rebecca Moulton Pinciaro |
-| 46 | 775 | Dee Kay |
+| 45 | 775 | Dee Kay |
+| 46 | 775 | Rebecca Moulton Pinciaro |
 | 47 | 766 | Robin Watters |
 | 48 | 757 | Ancient Intuition |
 | 49 | 740 | Robin Getchel |
@@ -62,8 +62,8 @@
 | 54 | 704 | Crystal Carroll |
 | 55 | 698 | Anthony Bryan Riva |
 | 56 | 697 | Edward White |
-| 57 | 664 | Valerie Roberts |
-| 58 | 664 | D3TROITB0RN74 |
+| 57 | 664 | D3TROITB0RN74 |
+| 58 | 664 | Valerie Roberts |
 | 59 | 659 | Jonathan Kimbrough |
 | 60 | 658 | loulou |
 | 61 | 654 | Chilly Line |
@@ -117,8 +117,8 @@
 | 109 | 393 | Carlton Unfiltered |
 | 110 | 392 | Ericca Eldridge |
 | 111 | 392 | Scott Jameson |
-| 112 | 391 | Monica Daley |
-| 113 | 391 | Ramel Rhodes |
+| 112 | 391 | Ramel Rhodes |
+| 113 | 391 | Monica Daley |
 | 114 | 388 | Tina Martinez |
 | 115 | 387 | Denise Carlson |
 | 116 | 373 | Joseph Guthrie |
@@ -247,11 +247,11 @@
 | 239 | 186 | Cristy Duerksen |
 | 240 | 186 | Holly |
 | 241 | 185 | Laura Hosford |
-| 242 | 184 | Ak Jones |
-| 243 | 184 | Lauren Lamb |
+| 242 | 184 | Lauren Lamb |
+| 243 | 184 | Ak Jones |
 | 244 | 183 | JPW |
-| 245 | 181 | Carter Jones |
-| 246 | 181 | Jackie Marie |
+| 245 | 181 | Jackie Marie |
+| 246 | 181 | Carter Jones |
 | 247 | 180 | Orchislactea |
 | 248 | 179 | Christina Black |
 | 249 | 179 | Stephme310 |

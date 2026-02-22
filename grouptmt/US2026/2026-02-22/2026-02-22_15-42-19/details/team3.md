@@ -184,8 +184,8 @@
 | 176 | 384 | Dapper Snap |
 | 177 | 382 | Scott Carleton |
 | 178 | 380 | Tasha Schriewer |
-| 179 | 378 | Chris Bell |
-| 180 | 378 | Nicole Flippo |
+| 179 | 378 | Nicole Flippo |
+| 180 | 378 | Chris Bell |
 | 181 | 376 | Loopy Clusterer |
 | 182 | 374 | Sherry Ogden |
 | 183 | 373 | Chasity |
@@ -2227,8 +2227,8 @@
 | 2219 | 15 | Stella Mariz |
 | 2220 | 15 | Jeremy Anthony Kelch |
 | 2221 | 15 | Kelli Johnston |
-| 2222 | 14 | Sandra Parker |
-| 2223 | 14 | Becky Brannen-DeGuido |
+| 2222 | 14 | Becky Brannen-DeGuido |
+| 2223 | 14 | Sandra Parker |
 | 2224 | 14 | Sara Alvarado |
 | 2225 | 14 | Beck Nicole |
 | 2226 | 14 | Cynthia K. Garcia |
