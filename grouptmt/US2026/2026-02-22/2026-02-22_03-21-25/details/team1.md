@@ -95,9 +95,9 @@
 | 87 | 326 | Monica Donato |
 | 88 | 323 | Sweet Baker |
 | 89 | 321 | Maria C. Hernandez |
-| 90 | 319 | Shauna Loe |
+| 90 | 319 | Deanna L Hermanson |
 | 91 | 319 | Patrick Luckenbill |
-| 92 | 319 | Deanna L Hermanson |
+| 92 | 319 | Shauna Loe |
 | 93 | 315 | Cynthia Bradley |
 | 94 | 313 | Tanya Carpenter-Reynolds |
 | 95 | 310 | Seth Wesson |

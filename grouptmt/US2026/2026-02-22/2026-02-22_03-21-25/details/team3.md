@@ -47,8 +47,8 @@
 | 39 | 1015 | Amber Jones |
 | 40 | 998 | Liv Whetson |
 | 41 | 996 | Danielle Cutler |
-| 42 | 989 | Joey Banks |
-| 43 | 989 | Kay |
+| 42 | 989 | Kay |
+| 43 | 989 | Joey Banks |
 | 44 | 954 | Stephanie Rice |
 | 45 | 935 | Snappy Fitzone |
 | 46 | 931 | Fancy Slam |
@@ -121,8 +121,8 @@
 | 113 | 428 | Betty Ivy |
 | 114 | 416 | Mary Pellegrino |
 | 115 | 411 | FuzzyNavel |
-| 116 | 410 | Stephanie Simpson |
-| 117 | 410 | Stephanie Blkpep Davidson |
+| 116 | 410 | Stephanie Blkpep Davidson |
+| 117 | 410 | Stephanie Simpson |
 | 118 | 405 | Michelle |
 | 119 | 403 | Christine Filson |
 | 120 | 403 | Scott Lindsay |
@@ -251,8 +251,8 @@
 | 243 | 203 | Angie Harper |
 | 244 | 200 | glichmod |
 | 245 | 200 | Sharisse Baltimore |
-| 246 | 199 | Hyper Matchzone |
-| 247 | 199 | Staci George Fitzsimmons |
+| 246 | 199 | Staci George Fitzsimmons |
+| 247 | 199 | Hyper Matchzone |
 | 248 | 195 | Cheryl Hinch Tenbrook |
 | 249 | 195 | Nicha Hooker |
 | 250 | 195 | AlsoJess |
@@ -339,7 +339,7 @@
 | 331 | 145 | Funky Jumper |
 | 332 | 144 | Tenisha Semidey |
 | 333 | 143 | Alice |
-| 334 | 142 | Erykah |
+| 334 | 142 | Joy Petroski |
 | 335 | 142 | Michael Leblanc |
 | 336 | 142 | Erykah |
 | 337 | 142 | Erica Anderson |
@@ -467,7 +467,7 @@
 | 459 | 102 | Christian Luna |
 | 460 | 101 | Alexsandran Valdivia |
 | 461 | 101 | Hyper Bridger |
-| 462 | 101 | Alexsandran Valdivia |
+| 462 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 463 | 101 | Quirky Dropzone |
 | 464 | 100 | Brooke Bauer |
 | 465 | 100 | TEDDY |

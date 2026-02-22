@@ -126,8 +126,8 @@
 | 118 | 240 | Leah Kutz Zirbel |
 | 119 | 239 | Kristin Manee |
 | 120 | 237 | Peachy Fall |
-| 121 | 235 | Lucas J Sutton |
-| 122 | 235 | Scott Jameson |
+| 121 | 235 | Scott Jameson |
+| 122 | 235 | Lucas J Sutton |
 | 123 | 232 | Crystal Nicolette Moore |
 | 124 | 231 | Chastity Mitchell |
 | 125 | 230 | Autum Leigh |
@@ -185,8 +185,8 @@
 | 177 | 166 | SammieJo Guy |
 | 178 | 164 | 030Synner |
 | 179 | 162 | Joanna |
-| 180 | 160 | ZeeZee |
-| 181 | 160 | James Hurley Jr. |
+| 180 | 160 | James Hurley Jr. |
+| 181 | 160 | ZeeZee |
 | 182 | 160 | Carlos Ramirez |
 | 183 | 159 | Marcus Todd |
 | 184 | 158 | Avy Absol |

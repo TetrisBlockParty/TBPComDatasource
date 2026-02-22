@@ -74,8 +74,8 @@
 | 66 | 1681 | Shameika Trail |
 | 67 | 1641 | Andea Beck |
 | 68 | 1620 | Sam Smith |
-| 69 | 1603 | Gabby Jenner |
-| 70 | 1603 | RdRydnHd |
+| 69 | 1603 | RdRydnHd |
+| 70 | 1603 | Gabby Jenner |
 | 71 | 1596 | Ray Ray Prado |
 | 72 | 1587 | Rob Riggin |
 | 73 | 1553 | Charie Holland |
@@ -288,8 +288,8 @@
 | 280 | 587 | Hyper Cluster |
 | 281 | 583 | Jessicah Myers |
 | 282 | 582 | Gary Stash |
-| 283 | 579 | Juliana Marques Do Nascimento Gordy |
-| 284 | 579 | Roy Salyer |
+| 283 | 579 | Roy Salyer |
+| 284 | 579 | Juliana Marques Do Nascimento Gordy |
 | 285 | 578 | Sally Dennis |
 | 286 | 576 | Ginger |
 | 287 | 572 | tejas25 |
@@ -347,8 +347,8 @@
 | 339 | 492 | Armonie Smith |
 | 340 | 491 | Michael Buckner |
 | 341 | 489 | Osun Anuket Esu |
-| 342 | 488 | Venita Ray |
-| 343 | 488 | Andrew Willis |
+| 342 | 488 | Andrew Willis |
+| 343 | 488 | Venita Ray |
 | 344 | 487 | MrsCandyfine As Wine Truss |
 | 345 | 483 | Alezandra Smith |
 | 346 | 483 | Victor Obiakarije |
@@ -633,8 +633,8 @@
 | 625 | 295 | Noel Tarmy |
 | 626 | 294 | Amanda Edwards |
 | 627 | 294 | Frisky Riserbuilder |
-| 628 | 293 | Ann Marie Davis |
-| 629 | 293 | Kiorah Blaze |
+| 628 | 293 | Kiorah Blaze |
+| 629 | 293 | Ann Marie Davis |
 | 630 | 293 | Carl Bradshaw |
 | 631 | 292 | Epic Fitzone |
 | 632 | 292 | Deana |
