@@ -306,8 +306,8 @@
 | 298 | 127 | Danielle Mae |
 | 299 | 127 | Lynn Adams |
 | 300 | 126 | Zany Tiler |
-| 301 | 125 | Melissa Bires Hussar |
-| 302 | 125 | Matt Iaccheo |
+| 301 | 125 | Matt Iaccheo |
+| 302 | 125 | Melissa Bires Hussar |
 | 303 | 125 | Angela Spann |
 | 304 | 124 | Mario Cab |
 | 305 | 124 | Madison Wicks |
@@ -326,9 +326,9 @@
 | 318 | 118 | Kerry Lee Powell |
 | 319 | 117 | Beazel75 |
 | 320 | 117 | .running. |
-| 321 | 117 | Beazel75 |
-| 322 | 116 | Brad MG |
-| 323 | 116 | Fresno Beotoni |
+| 321 | 117 | Bob |
+| 322 | 116 | Fresno Beotoni |
+| 323 | 116 | Brad MG |
 | 324 | 115 | Brave Slice |
 | 325 | 114 | Carrie Smith |
 | 326 | 114 | Angela Rena Brooks |
@@ -337,10 +337,10 @@
 | 329 | 114 | Plucky Stacky |
 | 330 | 113 | Itspaigebro |
 | 331 | 112 | Chris65 |
-| 332 | 112 | Negan Mallory Knoxx Spence |
-| 333 | 112 | Glitzy Curvebuilder |
-| 334 | 112 | Crystal Joslin |
-| 335 | 112 | Lush Zoney |
+| 332 | 112 | Lush Zoney |
+| 333 | 112 | Crystal Joslin |
+| 334 | 112 | Negan Mallory Knoxx Spence |
+| 335 | 112 | Glitzy Curvebuilder |
 | 336 | 111 | Damon J. Martin |
 | 337 | 110 | Dandy Towerbuilder |
 | 338 | 110 | Jennifer Corrado |
@@ -364,9 +364,9 @@
 | 356 | 105 | Eddie Dillon |
 | 357 | 104 | Charla Pross-Fugleberg |
 | 358 | 104 | Serina Marie |
-| 359 | 104 | Charla Pross-Fugleberg |
-| 360 | 103 | Alex Gauthier |
-| 361 | 103 | Mariah Cornell |
+| 359 | 104 | Jamie Catlett |
+| 360 | 103 | Mariah Cornell |
+| 361 | 103 | Alex Gauthier |
 | 362 | 103 | Tiger Lily |
 | 363 | 102 | osodabear |
 | 364 | 102 | Sarah Henniker |

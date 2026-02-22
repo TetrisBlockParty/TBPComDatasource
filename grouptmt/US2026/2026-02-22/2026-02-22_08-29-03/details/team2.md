@@ -203,8 +203,8 @@
 | 195 | 919 | Isaac Trappiel IV |
 | 196 | 916 | Butta |
 | 197 | 915 | Kelly Trent |
-| 198 | 910 | Crystal Hoffman |
-| 199 | 910 | Shuany Arias |
+| 198 | 910 | Shuany Arias |
+| 199 | 910 | Crystal Hoffman |
 | 200 | 907 | Gene Mills |
 | 201 | 901 | Jennifer Peachey |
 | 202 | 892 | Auntie B |
@@ -240,9 +240,9 @@
 | 232 | 801 | Ashlen Dorrell |
 | 233 | 800 | Danielle Johnson-Chandler |
 | 234 | 787 | Laura McCarthey |
-| 235 | 777 | Jessicah Myers |
+| 235 | 777 | Tesha Oldaker |
 | 236 | 777 | Barbra Miller |
-| 237 | 777 | Tesha Oldaker |
+| 237 | 777 | Jessicah Myers |
 | 238 | 777 | Eric Carlson |
 | 239 | 772 | Sam Joe |
 | 240 | 772 | Stephen Stephen |
@@ -386,8 +386,8 @@
 | 378 | 524 | Jojo Momma |
 | 379 | 524 | Shaun Church |
 | 380 | 523 | Matt Johnson |
-| 381 | 522 | Lylymom |
-| 382 | 522 | Joseph Musick |
+| 381 | 522 | Joseph Musick |
+| 382 | 522 | Lylymom |
 | 383 | 521 | Tj Ball |
 | 384 | 520 | Angela Lynn |
 | 385 | 520 | Maddy Petersen |
@@ -626,8 +626,8 @@
 | 618 | 361 | Lewis Sturgeon |
 | 619 | 360 | Jroc |
 | 620 | 359 | Cheyenne Donovan |
-| 621 | 358 | Sydney Busse |
-| 622 | 358 | Alyssaaelena |
+| 621 | 358 | Alyssaaelena |
+| 622 | 358 | Sydney Busse |
 | 623 | 358 | Veronics |
 | 624 | 357 | Shannon Byrd |
 | 625 | 357 | Tristan Szolek |
@@ -696,8 +696,8 @@
 | 688 | 320 | Mary Boss |
 | 689 | 319 | RetroLemur |
 | 690 | 318 | Jennifer Mahon |
-| 691 | 317 | Ashlyn Berner |
-| 692 | 317 | Zombi3 |
+| 691 | 317 | Zombi3 |
+| 692 | 317 | Ashlyn Berner |
 | 693 | 317 | Aireka Roman |
 | 694 | 316 | Jenn Marie |
 | 695 | 316 | Epic Spinfit |
@@ -769,8 +769,8 @@
 | 761 | 287 | Toni Roberson |
 | 762 | 286 | Kelsey Sullivan |
 | 763 | 285 | Kimberly Mitchell |
-| 764 | 285 | Epic Stackbuilder |
-| 765 | 285 | Court |
+| 764 | 285 | Court |
+| 765 | 285 | Epic Stackbuilder |
 | 766 | 284 | Hillary Franklin |
 | 767 | 282 | Nutty Slice |
 | 768 | 281 | Anthony |
@@ -838,8 +838,8 @@
 | 830 | 261 | Dany Murillo |
 | 831 | 261 | Gina Gina |
 | 832 | 261 | MrsClaudette Will'sIam Matthews |
-| 833 | 260 | Giggly Snap |
-| 834 | 260 | Lianne Giandalone LaBounty |
+| 833 | 260 | Lianne Giandalone LaBounty |
+| 834 | 260 | Giggly Snap |
 | 835 | 260 | Lynda Toland |
 | 836 | 260 | Michael David Hollis |
 | 837 | 259 | Andrea Devery Beck |
@@ -854,8 +854,8 @@
 | 846 | 258 | Shylee Tilman |
 | 847 | 258 | Tee Jaleesa |
 | 848 | 257 | Mama T |
-| 849 | 257 | Jackie Jackie Lee |
-| 850 | 257 | Ys Muhammed |
+| 849 | 257 | Ys Muhammed |
+| 850 | 257 | Jackie Jackie Lee |
 | 851 | 256 | Mary Ahne |
 | 852 | 256 | Monarca26 |
 | 853 | 256 | Brenna Yearian |

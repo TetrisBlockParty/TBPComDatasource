@@ -93,12 +93,12 @@
 | 85 | 416 | YoMomma |
 | 86 | 415 | Shane Kalamata Platoon |
 | 87 | 412 | Jenna Ingersoll |
-| 88 | 409 | Jolly Dashfit |
-| 89 | 409 | Isabella Blanco |
+| 88 | 409 | Isabella Blanco |
+| 89 | 409 | Jolly Dashfit |
 | 90 | 407 | Leslie Thomas |
 | 91 | 404 | Courtney Cicoria |
-| 92 | 396 | Alicia Bass |
-| 93 | 396 | Amy Suckarieh |
+| 92 | 396 | Amy Suckarieh |
+| 93 | 396 | Alicia Bass |
 | 94 | 392 | Ericca Eldridge |
 | 95 | 391 | Ramel Rhodes |
 | 96 | 390 | Carlton Unfiltered |
@@ -182,8 +182,8 @@
 | 174 | 204 | Jen Caldwell |
 | 175 | 203 | Katherine Crane |
 | 176 | 202 | TRCuse |
-| 177 | 201 | Chance Strickland |
-| 178 | 201 | Melvin Baird |
+| 177 | 201 | Melvin Baird |
+| 178 | 201 | Chance Strickland |
 | 179 | 199 | Zethra Prenisha Rahming |
 | 180 | 198 | Jessica Lynn Cutlip |
 | 181 | 197 | Ashley Ingram |
@@ -219,8 +219,8 @@
 | 211 | 165 | Jackie Marie |
 | 212 | 164 | 030Synner |
 | 213 | 163 | Kristina Black |
-| 214 | 162 | Joanna |
-| 215 | 162 | John Brunetti |
+| 214 | 162 | John Brunetti |
+| 215 | 162 | Joanna |
 | 216 | 161 | Jenny Wells-Oakley |
 | 217 | 160 | Laura Hosford |
 | 218 | 160 | Brittany Marsh |

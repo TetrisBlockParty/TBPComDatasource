@@ -127,8 +127,8 @@
 | 119 | 491 | Chauntee Alfrey-Cardinale |
 | 120 | 487 | Alaina Lee |
 | 121 | 482 | Jennifer Lynn Fahrenholtz-Summers |
-| 122 | 480 | Christine Filson |
-| 123 | 480 | Stephanie Blkpep Davidson |
+| 122 | 480 | Stephanie Blkpep Davidson |
+| 123 | 480 | Christine Filson |
 | 124 | 479 | Patti Skiles |
 | 125 | 479 | Poppy Splitter |
 | 126 | 478 | CeceGeGe |
@@ -216,8 +216,8 @@
 | 208 | 295 | Marci Mize Fandrich |
 | 209 | 291 | Kristal C Lee |
 | 210 | 289 | DidIdothat |
-| 211 | 289 | Duane Bright |
-| 212 | 289 | Hoppy Buildout |
+| 211 | 289 | Hoppy Buildout |
+| 212 | 289 | Duane Bright |
 | 213 | 286 | Cynthia Herrmann Egland |
 | 214 | 284 | Denise Nardoni |
 | 215 | 283 | Cheeky Snapper |
