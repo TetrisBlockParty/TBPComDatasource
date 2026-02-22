@@ -63,8 +63,8 @@
 | 55 | 908 | Alanna Rogers |
 | 56 | 903 | Sarah Fehring |
 | 57 | 896 | Elaine Webb Graves |
-| 58 | 895 | Shonna Roberts |
-| 59 | 895 | Amanda L Baker |
+| 58 | 895 | Amanda L Baker |
+| 59 | 895 | Shonna Roberts |
 | 60 | 886 | Khristen AC |
 | 61 | 874 | Jessica Pineda-Lopez |
 | 62 | 867 | Corie A. Brinson |
@@ -187,8 +187,8 @@
 | 179 | 353 | Shunta Jacobs |
 | 180 | 353 | Nora Rogers |
 | 181 | 348 | Chasity |
-| 182 | 347 | Nicole Flippo |
-| 183 | 347 | Jone |
+| 182 | 347 | Jone |
+| 183 | 347 | Nicole Flippo |
 | 184 | 343 | Ashley Raines |
 | 185 | 341 | Samantha Lynn |
 | 186 | 340 | Chummy Caster |
@@ -222,8 +222,8 @@
 | 214 | 295 | Marci Mize Fandrich |
 | 215 | 291 | Kristal C Lee |
 | 216 | 289 | DidIdothat |
-| 217 | 289 | Hoppy Buildout |
-| 218 | 289 | Duane Bright |
+| 217 | 289 | Duane Bright |
+| 218 | 289 | Hoppy Buildout |
 | 219 | 286 | Cynthia Herrmann Egland |
 | 220 | 284 | Denise Nardoni |
 | 221 | 283 | Charles Perrone |
@@ -267,16 +267,16 @@
 | 259 | 240 | Jimmie Clemons |
 | 260 | 238 | LaTanya GeminiondaRise Johnson |
 | 261 | 236 | Jess Bissett |
-| 262 | 234 | Nikki Pags |
-| 263 | 234 | Connie Mohler-Fair |
+| 262 | 234 | Connie Mohler-Fair |
+| 263 | 234 | Nikki Pags |
 | 264 | 233 | Josh Borquez |
 | 265 | 233 | Ray Lader |
 | 266 | 232 | Brenda Schmid Wood |
 | 267 | 232 | Donna |
 | 268 | 227 | Krystal Gerstberger |
 | 269 | 227 | Meowsa |
-| 270 | 225 | Cozy Snaplink |
-| 271 | 225 | Dirtgirl27 |
+| 270 | 225 | Dirtgirl27 |
+| 271 | 225 | Cozy Snaplink |
 | 272 | 224 | Quirky Dropzone |
 | 273 | 221 | Vaners |
 | 274 | 221 | Jaime Monhaut-Reed |
@@ -285,8 +285,8 @@
 | 277 | 220 | Tosha Griffey |
 | 278 | 219 | Sissy Lowery Davis |
 | 279 | 218 | Michael Lucado |
-| 280 | 216 | Twisty Brick LT |
-| 281 | 216 | Cheryl Hinch Tenbrook |
+| 280 | 216 | Cheryl Hinch Tenbrook |
+| 281 | 216 | Twisty Brick LT |
 | 282 | 215 | IamJust Neyamijah Washington Sr. |
 | 283 | 214 | Rebel124 |
 | 284 | 214 | Angela Scott |
@@ -346,8 +346,8 @@
 | 338 | 173 | Naur |
 | 339 | 169 | Peachy Rollfit |
 | 340 | 169 | Kristian Thurman |
-| 341 | 168 | April Matthew Kibble |
-| 342 | 168 | Trice Thomas |
+| 341 | 168 | Trice Thomas |
+| 342 | 168 | April Matthew Kibble |
 | 343 | 167 | Shicken Nuggit |
 | 344 | 167 | Romeo |
 | 345 | 167 | Irene Arreguin |
@@ -359,8 +359,8 @@
 | 351 | 165 | Rainbow77375 |
 | 352 | 164 | Ashley Rufus Bythcez |
 | 353 | 163 | Ava Petito |
-| 354 | 163 | Christine Trester |
-| 355 | 163 | Diana Ibarra |
+| 354 | 163 | Diana Ibarra |
+| 355 | 163 | Christine Trester |
 | 356 | 163 | Colleen Phelps |
 | 357 | 162 | Nicole Summers-Nelson |
 | 358 | 162 | Beaudie Stroebel |
@@ -371,8 +371,8 @@
 | 363 | 161 | Bouncy Blockbuilder |
 | 364 | 161 | Julia Nicole |
 | 365 | 160 | Sunny Lift |
-| 366 | 159 | Joshua David Huie |
-| 367 | 159 | Salena Whitlock |
+| 366 | 159 | Salena Whitlock |
+| 367 | 159 | Joshua David Huie |
 | 368 | 158 | Willow |
 | 369 | 157 | Katrina E Jelks |
 | 370 | 157 | Steffi Chris Dacones |

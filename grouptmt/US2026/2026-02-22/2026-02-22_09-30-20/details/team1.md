@@ -168,8 +168,8 @@
 | 160 | 230 | Frothy Pattern |
 | 161 | 230 | Billie Dawn Sparks |
 | 162 | 229 | David Lutcher |
-| 163 | 226 | Kandae |
-| 164 | 226 | Sleepysloath5745 |
+| 163 | 226 | Sleepysloath5745 |
+| 164 | 226 | Kandae |
 | 165 | 224 | Dizzy Party |
 | 166 | 218 | LC |
 | 167 | 217 | ParisandCory Champagne |
@@ -192,8 +192,8 @@
 | 184 | 205 | Snappy Matcher |
 | 185 | 205 | Tater |
 | 186 | 204 | Lacy Wolfe |
-| 187 | 203 | LaFontaine Leslie |
-| 188 | 203 | Paula Martin |
+| 187 | 203 | Paula Martin |
+| 188 | 203 | LaFontaine Leslie |
 | 189 | 201 | Colleen Wise |
 | 190 | 200 | DaRascal |
 | 191 | 200 | Breanna Luna |
