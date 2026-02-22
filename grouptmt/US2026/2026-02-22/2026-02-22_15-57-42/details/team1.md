@@ -121,11 +121,11 @@
 | 113 | 344 | Bhelle Sumile |
 | 114 | 343 | Death |
 | 115 | 342 | Brenda Stewart |
-| 116 | 341 | Nick R Montague |
-| 117 | 341 | David Miller |
+| 116 | 341 | David Miller |
+| 117 | 341 | Nick R Montague |
 | 118 | 334 | Jaimie Lynn |
-| 119 | 333 | Gracie |
-| 120 | 333 | Brandi Huntington |
+| 119 | 333 | Brandi Huntington |
+| 120 | 333 | Gracie |
 | 121 | 332 | Kristen Gideon |
 | 122 | 330 | Sweet Baker |
 | 123 | 326 | Monica Donato |
@@ -165,9 +165,9 @@
 | 157 | 270 | Mandyy Rae |
 | 158 | 268 | Jessi Sauer |
 | 159 | 268 | Amanda Jarnagin |
-| 160 | 265 | Shiny Snapfit |
-| 161 | 265 | Nutty Spinblock |
-| 162 | 265 | SkipTheSadSauce |
+| 160 | 265 | SkipTheSadSauce |
+| 161 | 265 | Shiny Snapfit |
+| 162 | 265 | Nutty Spinblock |
 | 163 | 264 | Jenny Gingrich Fuentes |
 | 164 | 264 | Brian Richardsson |
 | 165 | 263 | Ty Brown |
@@ -206,9 +206,9 @@
 | 198 | 223 | Basment Living |
 | 199 | 222 | Debbie Davis |
 | 200 | 221 | Daring Fitclear |
-| 201 | 220 | Giddy Cascade |
-| 202 | 220 | Madison Wicks |
-| 203 | 220 | Jessie Lynn |
+| 201 | 220 | Jessie Lynn |
+| 202 | 220 | Giddy Cascade |
+| 203 | 220 | Madison Wicks |
 | 204 | 219 | Chuck Gannon |
 | 205 | 218 | LC |
 | 206 | 216 | Shauntina Burke |
@@ -292,8 +292,8 @@
 | 284 | 169 | Allena Craft |
 | 285 | 169 | Abbey Crespo |
 | 286 | 168 | Angela Fairbank |
-| 287 | 166 | Gary Gobin |
-| 288 | 166 | Carrie Smith |
+| 287 | 166 | Carrie Smith |
+| 288 | 166 | Gary Gobin |
 | 289 | 166 | LD1 |
 | 290 | 165 | Silly Align |
 | 291 | 165 | Nadine Velardo |
@@ -337,8 +337,8 @@
 | 329 | 145 | Tipsy Riseclear |
 | 330 | 145 | Rachel Nichole Henry |
 | 331 | 145 | Robert |
-| 332 | 144 | Toph |
-| 333 | 144 | Miguel Teixeira |
+| 332 | 144 | Miguel Teixeira |
+| 333 | 144 | Toph |
 | 334 | 143 | Guest |
 | 335 | 142 | Nathan Sealander |
 | 336 | 142 | Mario Cab |
@@ -355,8 +355,8 @@
 | 347 | 137 | Gina Bettikofer |
 | 348 | 136 | Jennifer Chilton-Metlock |
 | 349 | 136 | Amanda Stevens |
-| 350 | 135 | Mrs.Patrica |
-| 351 | 135 | Christina Backer |
+| 350 | 135 | Christina Backer |
+| 351 | 135 | Mrs.Patrica |
 | 352 | 134 | Rachel Copas |
 | 353 | 133 | Teri Oehlke |
 | 354 | 133 | Jasmine Riley |

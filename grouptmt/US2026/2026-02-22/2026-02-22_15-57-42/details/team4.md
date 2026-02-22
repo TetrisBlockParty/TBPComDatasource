@@ -43,8 +43,8 @@
 | 35 | 873 | Elizabeth Sallas |
 | 36 | 871 | Denny Shives |
 | 37 | 846 | Christine Marie |
-| 38 | 843 | Lucille Truesdale |
-| 39 | 843 | Shelly Chandler |
+| 38 | 843 | Shelly Chandler |
+| 39 | 843 | Lucille Truesdale |
 | 40 | 834 | quicksand420 |
 | 41 | 829 | LisaJo Picken Buchanan |
 | 42 | 823 | Jae Job |
@@ -75,8 +75,8 @@
 | 67 | 638 | Julian Garcia |
 | 68 | 620 | Landon Keith Graffeo |
 | 69 | 614 | TheNeesh50 |
-| 70 | 608 | Avy Absol |
-| 71 | 608 | Savannah Overdorf |
+| 70 | 608 | Savannah Overdorf |
+| 71 | 608 | Avy Absol |
 | 72 | 600 | Michelle Marie |
 | 73 | 599 | Brittney Griggs |
 | 74 | 593 | Lisa Davis |
@@ -117,8 +117,8 @@
 | 109 | 395 | Marie-Pier Desjardins |
 | 110 | 393 | Carlton Unfiltered |
 | 111 | 392 | Ericca Eldridge |
-| 112 | 391 | Monica Daley |
-| 113 | 391 | Ramel Rhodes |
+| 112 | 391 | Ramel Rhodes |
+| 113 | 391 | Monica Daley |
 | 114 | 388 | Tina Martinez |
 | 115 | 387 | Denise Carlson |
 | 116 | 373 | Joseph Guthrie |

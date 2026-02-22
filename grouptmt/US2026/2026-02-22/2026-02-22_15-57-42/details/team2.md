@@ -113,8 +113,8 @@
 | 105 | 1555 | blarg |
 | 106 | 1535 | Donnie Hunt |
 | 107 | 1534 | Loopy Clusterbuilder |
-| 108 | 1516 | Stephen Stephen |
-| 109 | 1516 | Mindy Leigh Head |
+| 108 | 1516 | Mindy Leigh Head |
+| 109 | 1516 | Stephen Stephen |
 | 110 | 1513 | blackq |
 | 111 | 1507 | Stephanie Chapman |
 | 112 | 1507 | Linda Pierce |
@@ -357,8 +357,8 @@
 | 349 | 661 | goofinoff |
 | 350 | 659 | Draizen Montrell Thomas |
 | 351 | 651 | Unica Rector |
-| 352 | 650 | Shiny Rollzone |
-| 353 | 650 | tejas25 |
+| 352 | 650 | tejas25 |
+| 353 | 650 | Shiny Rollzone |
 | 354 | 644 | Desiree Anderson |
 | 355 | 643 | Hoppy Brickmatch |
 | 356 | 640 | Kara Gillen |
@@ -385,8 +385,8 @@
 | 377 | 606 | Brittney Jean |
 | 378 | 603 | Cassie Maynard |
 | 379 | 602 | KhaosLord |
-| 380 | 602 | Biggest thing |
-| 381 | 602 | Christine Bollig |
+| 380 | 602 | Christine Bollig |
+| 381 | 602 | Biggest thing |
 | 382 | 601 | Vonceial Boone |
 | 383 | 601 | Steven Marshaun |
 | 384 | 595 | Nicole Cannon |
@@ -776,8 +776,8 @@
 | 768 | 320 | Tash Bell |
 | 769 | 320 | Mary Boss |
 | 770 | 319 | Cassie Newton |
-| 771 | 319 | RetroLemur |
-| 772 | 319 | Cheery Puzzler |
+| 771 | 319 | Cheery Puzzler |
+| 772 | 319 | RetroLemur |
 | 773 | 318 | Jennifer Mahon |
 | 774 | 317 | Ashlyn Berner |
 | 775 | 317 | Zombi3 |
@@ -791,8 +791,8 @@
 | 783 | 313 | Snippy Block |
 | 784 | 313 | Jeffrey Barrows |
 | 785 | 313 | Donald Nowland |
-| 786 | 313 | Marina Linda |
-| 787 | 313 | Natasha Edmonds |
+| 786 | 313 | Natasha Edmonds |
+| 787 | 313 | Marina Linda |
 | 788 | 312 | Heather Renee Jeffers |
 | 789 | 312 | Kiorah Blaze |
 | 790 | 311 | Audra Williams |
@@ -815,8 +815,8 @@
 | 807 | 305 | Zany Clusterbuilder |
 | 808 | 304 | Melissa McCall |
 | 809 | 304 | NFLPITMOM |
-| 810 | 303 | Devin |
-| 811 | 303 | Amanda Schaffer |
+| 810 | 303 | Amanda Schaffer |
+| 811 | 303 | Devin |
 | 812 | 303 | Alyssia Tancredi |
 | 813 | 302 | Kena T. Tanner |
 | 814 | 302 | Epic Stackbuilder |
@@ -1825,7 +1825,7 @@
 | 1817 | 144 | Cynthia Carpenter |
 | 1818 | 144 | Paula Marcus Delsigne |
 | 1819 | 144 | Sandy Aragon |
-| 1820 | 144 | Paula Marcus Delsigne |
+| 1820 | 144 | Tee Davis |
 | 1821 | 144 | Paul Combs |
 | 1822 | 144 | KOO |
 | 1823 | 144 | candy |

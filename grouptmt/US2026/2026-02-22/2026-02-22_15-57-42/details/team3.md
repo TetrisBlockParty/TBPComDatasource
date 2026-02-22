@@ -67,8 +67,8 @@
 | 59 | 909 | Jennifer |
 | 60 | 908 | Alanna Rogers |
 | 61 | 903 | Sarah Fehring |
-| 62 | 895 | Amanda L Baker |
-| 63 | 895 | Shonna Roberts |
+| 62 | 895 | Shonna Roberts |
+| 63 | 895 | Amanda L Baker |
 | 64 | 893 | Khristen AC |
 | 65 | 892 | Corie A. Brinson |
 | 66 | 888 | Nate Burnside |
@@ -207,8 +207,8 @@
 | 199 | 349 | Amanda J. Mcneil-Anderson |
 | 200 | 346 | Tamara Deherrera |
 | 201 | 343 | Ashley Raines |
-| 202 | 341 | Samantha Lynn |
-| 203 | 341 | Noyb Adam |
+| 202 | 341 | Noyb Adam |
+| 203 | 341 | Samantha Lynn |
 | 204 | 340 | Ammmmmmy |
 | 205 | 339 | JerseyJess |
 | 206 | 338 | Gumbo |
@@ -254,8 +254,8 @@
 | 246 | 282 | Marquita Sheard |
 | 247 | 281 | Carrie Huskey |
 | 248 | 279 | Terry Jo Jones |
-| 249 | 278 | Rufus Lincoln |
-| 250 | 278 | Sabrina Hardrick |
+| 249 | 278 | Sabrina Hardrick |
+| 250 | 278 | Rufus Lincoln |
 | 251 | 276 | _melisa223_ |
 | 252 | 276 | Crimson |
 | 253 | 275 | Cassandra Bryant |
@@ -266,8 +266,8 @@
 | 258 | 271 | Grego Daniel |
 | 259 | 267 | Tiffany Davie |
 | 260 | 266 | Quirky Dropzone |
-| 261 | 262 | Joe-Maggie Mathews |
-| 262 | 262 | Ray Lader |
+| 261 | 262 | Ray Lader |
+| 262 | 262 | Joe-Maggie Mathews |
 | 263 | 261 | Tiffany Ford |
 | 264 | 260 | Nikki Pags |
 | 265 | 260 | Grams |
