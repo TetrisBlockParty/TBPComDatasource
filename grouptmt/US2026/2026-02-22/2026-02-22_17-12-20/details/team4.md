@@ -169,8 +169,8 @@
 | 161 | 271 | Sarah Brown |
 | 162 | 269 | Nikki Rae Gordon |
 | 163 | 268 | Mimi |
-| 164 | 268 | Trista Leah |
-| 165 | 268 | Cursed Hag |
+| 164 | 268 | Cursed Hag |
+| 165 | 268 | Trista Leah |
 | 166 | 267 | Kathy Brookins |
 | 167 | 267 | Casey Grabner |
 | 168 | 267 | Damn Libra |
@@ -186,8 +186,8 @@
 | 178 | 260 | Porkobello |
 | 179 | 256 | J-Rizzle |
 | 180 | 256 | Mylo Lipscomb |
-| 181 | 255 | Diana Houts |
-| 182 | 255 | Chaz Duncan |
+| 181 | 255 | Chaz Duncan |
+| 182 | 255 | Diana Houts |
 | 183 | 251 | Klo |
 | 184 | 251 | Matt Summer |
 | 185 | 250 | Matt Dell'Olio |
@@ -421,8 +421,8 @@
 | 413 | 116 | Smiley Shifter |
 | 414 | 116 | Kate |
 | 415 | 116 | Funky Risepiece |
-| 416 | 115 | Susan Williams |
-| 417 | 115 | Alexandra Karavias |
+| 416 | 115 | Alexandra Karavias |
+| 417 | 115 | Susan Williams |
 | 418 | 115 | Kevin Bush |
 | 419 | 115 | Jayk |
 | 420 | 115 | Kujuanna Hammon |

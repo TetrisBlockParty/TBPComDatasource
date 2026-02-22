@@ -363,8 +363,8 @@
 | 355 | 661 | BeQuo |
 | 356 | 659 | Draizen Montrell Thomas |
 | 357 | 651 | Unica Rector |
-| 358 | 650 | Amber Brion |
-| 359 | 650 | Shiny Rollzone |
+| 358 | 650 | Shiny Rollzone |
+| 359 | 650 | Amber Brion |
 | 360 | 644 | AgileDragon |
 | 361 | 643 | Hoppy Brickmatch |
 | 362 | 642 | Cassie Maynard |
@@ -434,8 +434,8 @@
 | 426 | 559 | Blacc Blac |
 | 427 | 558 | Libby Hicks |
 | 428 | 556 | Slip |
-| 429 | 554 | Santana Miyagi |
-| 430 | 554 | Rachael Senard |
+| 429 | 554 | Rachael Senard |
+| 430 | 554 | Santana Miyagi |
 | 431 | 554 | Tra Barnum |
 | 432 | 551 | Julay |
 | 433 | 550 | AISlop |
@@ -459,8 +459,8 @@
 | 451 | 526 | Sheronda Jackson |
 | 452 | 525 | Belle Mari |
 | 453 | 525 | Joseph Musick |
-| 454 | 524 | Lonne Emade |
-| 455 | 524 | Doowop40 |
+| 454 | 524 | Doowop40 |
+| 455 | 524 | Lonne Emade |
 | 456 | 523 | Matt Johnson |
 | 457 | 522 | Leah |
 | 458 | 520 | Maddy Petersen |

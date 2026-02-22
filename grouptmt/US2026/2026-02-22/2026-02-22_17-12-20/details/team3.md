@@ -267,7 +267,7 @@
 | 259 | 276 | _melisa223_ |
 | 260 | 275 | Cassandra Bryant |
 | 261 | 272 | Tasha Wesson-Torrence |
-| 262 | 271 | Cass Mendoza |
+| 262 | 271 | Grego Daniel |
 | 263 | 271 | Connie Mohler-Fair |
 | 264 | 271 | Alexmac |
 | 265 | 271 | Cass Mendoza |
@@ -389,10 +389,10 @@
 | 381 | 189 | Erykah |
 | 382 | 188 | Crystal Hine |
 | 383 | 186 | Bryan Byrd |
-| 384 | 186 | Noettín Kan Zasnemoore |
-| 385 | 186 | Sameerah Smith |
-| 386 | 185 | Frilly Stackzone |
-| 387 | 185 | Angella Lyons |
+| 384 | 186 | Sameerah Smith |
+| 385 | 186 | Noettín Kan Zasnemoore |
+| 386 | 185 | Angella Lyons |
+| 387 | 185 | Frilly Stackzone |
 | 388 | 184 | Shanon R Jackson |
 | 389 | 184 | Salena Whitlock |
 | 390 | 183 | Smiley Zone |
@@ -427,8 +427,8 @@
 | 419 | 167 | Shicken Nuggit |
 | 420 | 167 | Arden White Kirsch |
 | 421 | 167 | Irene Arreguin |
-| 422 | 166 | Rashad Green |
-| 423 | 166 | Joshua David Huie |
+| 422 | 166 | Joshua David Huie |
+| 423 | 166 | Rashad Green |
 | 424 | 165 | Kali Kelz Williams |
 | 425 | 165 | Silver Marchán |
 | 426 | 164 | Ashley Rufus Bythcez |
