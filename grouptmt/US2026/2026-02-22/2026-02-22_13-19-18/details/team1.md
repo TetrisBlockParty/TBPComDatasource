@@ -135,8 +135,8 @@
 | 127 | 306 | Happy Basegrid |
 | 128 | 304 | Nicole Roseberry Weber |
 | 129 | 301 | Lehrin Maria |
-| 130 | 300 | Elaine Elaine |
-| 131 | 300 | Chelsea Dahlquist |
+| 130 | 300 | Chelsea Dahlquist |
+| 131 | 300 | Elaine Elaine |
 | 132 | 298 | Erin Hodges Plumb |
 | 133 | 290 | Death |
 | 134 | 290 | Sarah Roberts |
@@ -249,10 +249,10 @@
 | 241 | 179 | Danielle Little-Daugherty |
 | 242 | 179 | Erin Rosberg |
 | 243 | 178 | Chad Atchley |
-| 244 | 177 | Sarah Marie |
-| 245 | 177 | Irual Hctrab |
-| 246 | 177 | Jacqueline Unique |
-| 247 | 177 | Herm Junior |
+| 244 | 177 | Irual Hctrab |
+| 245 | 177 | Jacqueline Unique |
+| 246 | 177 | Herm Junior |
+| 247 | 177 | Sarah Marie |
 | 248 | 176 | Mel Hogan |
 | 249 | 176 | Tiger Lily |
 | 250 | 175 | Kellie Tunstall |

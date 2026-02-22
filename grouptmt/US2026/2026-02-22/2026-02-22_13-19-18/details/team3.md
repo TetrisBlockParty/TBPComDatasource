@@ -65,7 +65,7 @@
 | 57 | 908 | Alanna Rogers |
 | 58 | 903 | Sarah Fehring |
 | 59 | 895 | Amanda L Baker |
-| 60 | 895 | Jamie Furr |
+| 60 | 895 | Shonna Roberts |
 | 61 | 886 | Khristen AC |
 | 62 | 882 | Susan Valentino |
 | 63 | 874 | Nate Burnside |
@@ -104,8 +104,8 @@
 | 96 | 595 | Patricia White |
 | 97 | 591 | Jesse Olive |
 | 98 | 588 | yoyo |
-| 99 | 582 | Jay Horn |
-| 100 | 582 | Natasha Jones |
+| 99 | 582 | Natasha Jones |
+| 100 | 582 | Jay Horn |
 | 101 | 581 | Danielle Mogg |
 | 102 | 579 | Jd Morris |
 | 103 | 577 | Giddy Drop |
@@ -133,8 +133,8 @@
 | 125 | 491 | Chauntee Alfrey-Cardinale |
 | 126 | 480 | Stephanie Blkpep Davidson |
 | 127 | 480 | Christine Filson |
-| 128 | 479 | Patti Skiles |
-| 129 | 479 | Poppy Splitter |
+| 128 | 479 | Poppy Splitter |
+| 129 | 479 | Patti Skiles |
 | 130 | 478 | CeceGeGe |
 | 131 | 473 | mzcatzy |
 | 132 | 471 | Mendoza Lee Christy |
@@ -275,8 +275,8 @@
 | 267 | 238 | LaTanya GeminiondaRise Johnson |
 | 268 | 236 | Jess Bissett |
 | 269 | 235 | Cozy Snaplink |
-| 270 | 233 | Josh Borquez |
-| 271 | 233 | Ray Lader |
+| 270 | 233 | Ray Lader |
+| 271 | 233 | Josh Borquez |
 | 272 | 232 | Donna |
 | 273 | 227 | Krystal Gerstberger |
 | 274 | 227 | Meowsa |
@@ -326,8 +326,8 @@
 | 318 | 200 | Colleen Phelps |
 | 319 | 200 | Sharisse Baltimore |
 | 320 | 200 | Saucy Buildout |
-| 321 | 199 | Mariah Williams |
-| 322 | 199 | Christian Werndl |
+| 321 | 199 | Christian Werndl |
+| 322 | 199 | Mariah Williams |
 | 323 | 199 | Kristian Thurman |
 | 324 | 198 | Goofy Fall |
 | 325 | 196 | Lys |
@@ -391,8 +391,8 @@
 | 383 | 162 | Eric Caccavale |
 | 384 | 162 | Stephanie Whitefield |
 | 385 | 161 | Betty Bóò |
-| 386 | 161 | Bouncy Blockbuilder |
-| 387 | 161 | Julia Nicole |
+| 386 | 161 | Julia Nicole |
+| 387 | 161 | Bouncy Blockbuilder |
 | 388 | 160 | Michell Hendershott Jackson |
 | 389 | 160 | Sunny Lift |
 | 390 | 159 | Joshua David Huie |
@@ -403,8 +403,8 @@
 | 395 | 157 | Angel Mendez |
 | 396 | 157 | Kevin Fountain |
 | 397 | 156 | Nichole Greene |
-| 398 | 156 | Courtney Conboy |
-| 399 | 156 | Niki Dalrymple |
+| 398 | 156 | Niki Dalrymple |
+| 399 | 156 | Courtney Conboy |
 | 400 | 155 | Michael Leblanc |
 | 401 | 154 | Everret Maxine |
 | 402 | 153 | Sheila M Frazier |
@@ -537,8 +537,8 @@
 | 529 | 117 | James Lykes |
 | 530 | 117 | Rayzer |
 | 531 | 116 | Dapper Towerfit |
-| 532 | 116 | Shelby Crawford |
-| 533 | 116 | Mel Murr |
+| 532 | 116 | Mel Murr |
+| 533 | 116 | Shelby Crawford |
 | 534 | 115 | Will Miller |
 | 535 | 115 | Whitney Manuel |
 | 536 | 115 | Beejangles |

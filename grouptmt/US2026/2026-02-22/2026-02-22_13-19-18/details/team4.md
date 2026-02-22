@@ -40,8 +40,8 @@
 | 32 | 871 | Denny Shives |
 | 33 | 870 | Toots |
 | 34 | 846 | Christine Marie |
-| 35 | 843 | Lucille Truesdale |
-| 36 | 843 | Shelly Chandler |
+| 35 | 843 | Shelly Chandler |
+| 36 | 843 | Lucille Truesdale |
 | 37 | 834 | quicksand420 |
 | 38 | 818 | Marvin Lou Martin |
 | 39 | 811 | Jae Job |
@@ -143,8 +143,8 @@
 | 135 | 286 | shark tato |
 | 136 | 283 | Brittney Orengo |
 | 137 | 281 | Meagan Nicole |
-| 138 | 278 | Desi Desporte |
-| 139 | 278 | Carrie Brian |
+| 138 | 278 | Carrie Brian |
+| 139 | 278 | Desi Desporte |
 | 140 | 277 | Mary Ann Pabukis |
 | 141 | 275 | Dizzy Tiley |
 | 142 | 274 | Calvin Cannon |
@@ -340,8 +340,8 @@
 | 332 | 128 | Jeremy Steines |
 | 333 | 128 | Madison Sweere |
 | 334 | 127 | Robert Rodriguez |
-| 335 | 126 | icequeenx |
-| 336 | 126 | Cheryl Johnson |
+| 335 | 126 | Cheryl Johnson |
+| 336 | 126 | icequeenx |
 | 337 | 126 | PAPatty |
 | 338 | 125 | Ann G. Carrillo |
 | 339 | 125 | Steph Marie |

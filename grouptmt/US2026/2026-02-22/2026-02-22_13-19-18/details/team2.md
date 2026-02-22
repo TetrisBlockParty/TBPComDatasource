@@ -385,8 +385,8 @@
 | 377 | 561 | Irene Jones |
 | 378 | 561 | Traci Johnson |
 | 379 | 560 | Phil J. Grombliniak |
-| 380 | 558 | Mikayala Szaz |
-| 381 | 558 | Libby Hicks |
+| 380 | 558 | Libby Hicks |
+| 381 | 558 | Mikayala Szaz |
 | 382 | 556 | Slip |
 | 383 | 554 | Santana Miyagi |
 | 384 | 554 | Rachael Senard |
@@ -506,8 +506,8 @@
 | 498 | 459 | Melissa Kay Gibson |
 | 499 | 458 | Casper The Chonk |
 | 500 | 454 | Casey Schumacher |
-| 501 | 453 | Rhonda Petro |
-| 502 | 453 | Joshua Sommerville |
+| 501 | 453 | Joshua Sommerville |
+| 502 | 453 | Rhonda Petro |
 | 503 | 452 | Sarah Berger |
 | 504 | 452 | Juanita Lyons |
 | 505 | 451 | Funky Caster |
@@ -562,8 +562,8 @@
 | 554 | 413 | Fancy Twister |
 | 555 | 413 | Lauren Fitzgerald Thomas |
 | 556 | 412 | Jason H Baker |
-| 557 | 411 | Mighty Spinbuilder |
-| 558 | 411 | Kristen O'Neal |
+| 557 | 411 | Kristen O'Neal |
+| 558 | 411 | Mighty Spinbuilder |
 | 559 | 410 | Nicole Cannon |
 | 560 | 408 | Brandon Jones |
 | 561 | 408 | Stefanie Zonzini-Gagliardi |
