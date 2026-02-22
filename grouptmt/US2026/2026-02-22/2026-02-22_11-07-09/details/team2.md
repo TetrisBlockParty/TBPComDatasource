@@ -245,8 +245,8 @@
 | 237 | 805 | Meghan M |
 | 238 | 804 | Maria Escobar |
 | 239 | 804 | Alyssa Hileman |
-| 240 | 801 | Ashlen Dorrell |
-| 241 | 801 | Debra Williams |
+| 240 | 801 | Debra Williams |
+| 241 | 801 | Ashlen Dorrell |
 | 242 | 800 | Danielle Johnson-Chandler |
 | 243 | 787 | Laura McCarthey |
 | 244 | 778 | Lisa Ongtowasruk |
@@ -254,9 +254,9 @@
 | 246 | 777 | Tesha Oldaker |
 | 247 | 777 | Barbra Miller |
 | 248 | 777 | Eric Carlson |
-| 249 | 772 | Cherica Taylor |
-| 250 | 772 | William Hunt |
-| 251 | 772 | Sam Joe |
+| 249 | 772 | William Hunt |
+| 250 | 772 | Sam Joe |
+| 251 | 772 | Cherica Taylor |
 | 252 | 771 | Terri McKelvey McKinley |
 | 253 | 767 | Jessica Wayne Cornwall |
 | 254 | 765 | Jodi Blake |
@@ -406,8 +406,8 @@
 | 398 | 522 | Lylymom |
 | 399 | 522 | Joseph Musick |
 | 400 | 521 | Tj Ball |
-| 401 | 520 | Angela Lynn |
-| 402 | 520 | Maddy Petersen |
+| 401 | 520 | Maddy Petersen |
+| 402 | 520 | Angela Lynn |
 | 403 | 519 | Rob Brown |
 | 404 | 517 | Alex Dungo Hoang |
 | 405 | 517 | Porsche' Nicole |
@@ -431,8 +431,8 @@
 | 423 | 500 | Blacc Blac |
 | 424 | 499 | Sarah Massey |
 | 425 | 498 | Rhonda Milstead |
-| 426 | 497 | Doowop40 |
-| 427 | 497 | June E Hanson |
+| 426 | 497 | June E Hanson |
+| 427 | 497 | Doowop40 |
 | 428 | 497 | Kimberly Randesi |
 | 429 | 494 | Venita Ray |
 | 430 | 493 | Kara Gillen |
@@ -532,8 +532,8 @@
 | 524 | 424 | Mia Muse Best |
 | 525 | 423 | Sam |
 | 526 | 422 | coleksquad |
-| 527 | 421 | Vonceial Boone |
-| 528 | 421 | SwampRebel |
+| 527 | 421 | SwampRebel |
+| 528 | 421 | Vonceial Boone |
 | 529 | 420 | LaWanda Powell |
 | 530 | 419 | Pocho Zavala |
 | 531 | 419 | Josh Dill |
@@ -732,8 +732,8 @@
 | 724 | 311 | Megan Phillips |
 | 725 | 310 | Wendy Ducheney |
 | 726 | 310 | Cheeky Brickmatch |
-| 727 | 310 | Beth Decker |
-| 728 | 310 | Audra Williams |
+| 727 | 310 | Audra Williams |
+| 728 | 310 | Beth Decker |
 | 729 | 309 | Byung Bae Park |
 | 730 | 308 | Prado |
 | 731 | 308 | Hyper Riseclear |
@@ -759,8 +759,8 @@
 | 751 | 300 | Kacee Conrad Bock |
 | 752 | 299 | Cassie Newton |
 | 753 | 298 | Frilly Fallzone |
-| 754 | 298 | Ryan Stadel |
-| 755 | 298 | Lazy Riseclear |
+| 754 | 298 | Lazy Riseclear |
+| 755 | 298 | Ryan Stadel |
 | 756 | 297 | Toni Lynn |
 | 757 | 297 | Frisky Patternline |
 | 758 | 297 | Britney M. |
@@ -772,8 +772,8 @@
 | 764 | 295 | Noel Tarmy |
 | 765 | 294 | Amanda Edwards |
 | 766 | 293 | Ann Marie Davis |
-| 767 | 292 | Christina Walker |
-| 768 | 292 | Bryan Werleman |
+| 767 | 292 | Bryan Werleman |
+| 768 | 292 | Christina Walker |
 | 769 | 292 | Deana |
 | 770 | 291 | Jennie Lee Huntley |
 | 771 | 291 | Bella Novia |
@@ -785,8 +785,8 @@
 | 777 | 289 | Ryan Chan |
 | 778 | 288 | thranduil |
 | 779 | 288 | Ashley Criner |
-| 780 | 288 | Jenna Nance |
-| 781 | 288 | Samantha Angelo |
+| 780 | 288 | Samantha Angelo |
+| 781 | 288 | Jenna Nance |
 | 782 | 287 | Toni Roberson |
 | 783 | 287 | N00D3S |
 | 784 | 287 | Epic Stackzone |
@@ -894,8 +894,8 @@
 | 886 | 258 | DesertDreamer24 |
 | 887 | 258 | Tee Jaleesa |
 | 888 | 257 | Mama T |
-| 889 | 257 | Jackie Jackie Lee |
-| 890 | 257 | Ys Muhammed |
+| 889 | 257 | Ys Muhammed |
+| 890 | 257 | Jackie Jackie Lee |
 | 891 | 257 | Queen |
 | 892 | 256 | Slinky Racker |
 | 893 | 256 | Gursharan Sandhu |
@@ -971,10 +971,10 @@
 | 963 | 237 | Jay Levy |
 | 964 | 237 | Jodi Mitnick |
 | 965 | 236 | Meli |
-| 966 | 235 | Angelica |
-| 967 | 235 | B-rad B-rad |
-| 968 | 235 | Prince Ajesh |
-| 969 | 235 | Shantel Kelley |
+| 966 | 235 | B-rad B-rad |
+| 967 | 235 | Angelica |
+| 968 | 235 | Shantel Kelley |
+| 969 | 235 | Prince Ajesh |
 | 970 | 235 | Loopy Shatterfit |
 | 971 | 234 | Trina Harrison |
 | 972 | 234 | Joanna L. Abad |
@@ -989,8 +989,8 @@
 | 981 | 233 | Andrew Engman |
 | 982 | 232 | Chirpy Snapper |
 | 983 | 232 | P. D. Paige |
-| 984 | 231 | Vung Nguyen |
-| 985 | 231 | Michelle Fleming Luna |
+| 984 | 231 | Michelle Fleming Luna |
+| 985 | 231 | Vung Nguyen |
 | 986 | 231 | Stanley Vanekelenburg |
 | 987 | 230 | lady |
 | 988 | 230 | Anna Mayo |
@@ -1338,8 +1338,8 @@
 | 1330 | 172 | Patty |
 | 1331 | 172 | Fredonia Lewis |
 | 1332 | 172 | Ashley M. Davis |
-| 1333 | 171 | Tash |
-| 1334 | 171 | Abby Jensen |
+| 1333 | 171 | Abby Jensen |
+| 1334 | 171 | Tash |
 | 1335 | 171 | Alicia Moreno |
 | 1336 | 171 | Kimberly Bickling |
 | 1337 | 171 | Chris Emanuel |
@@ -1387,8 +1387,8 @@
 | 1379 | 166 | suuny |
 | 1380 | 166 | Nikki Nikki |
 | 1381 | 166 | Michelle Loar |
-| 1382 | 166 | King Shamell Young |
-| 1383 | 166 | Gemini Washington |
+| 1382 | 166 | Gemini Washington |
+| 1383 | 166 | King Shamell Young |
 | 1384 | 166 | Carson Goldminc |
 | 1385 | 166 | Leslie Clark |
 | 1386 | 166 | Funky Holder |

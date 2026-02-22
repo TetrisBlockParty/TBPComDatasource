@@ -63,8 +63,8 @@
 | 55 | 909 | Jennifer |
 | 56 | 908 | Alanna Rogers |
 | 57 | 903 | Sarah Fehring |
-| 58 | 895 | Amanda L Baker |
-| 59 | 895 | Shonna Roberts |
+| 58 | 895 | Shonna Roberts |
+| 59 | 895 | Amanda L Baker |
 | 60 | 886 | Khristen AC |
 | 61 | 882 | Susan Valentino |
 | 62 | 874 | Jessica Pineda-Lopez |
@@ -270,8 +270,8 @@
 | 262 | 238 | LaTanya GeminiondaRise Johnson |
 | 263 | 236 | Jess Bissett |
 | 264 | 235 | Cozy Snaplink |
-| 265 | 234 | Connie Mohler-Fair |
-| 266 | 234 | Nikki Pags |
+| 265 | 234 | Nikki Pags |
+| 266 | 234 | Connie Mohler-Fair |
 | 267 | 233 | Josh Borquez |
 | 268 | 233 | Ray Lader |
 | 269 | 232 | Brenda Schmid Wood |
@@ -282,16 +282,16 @@
 | 274 | 225 | Steffi Chris Dacones |
 | 275 | 224 | Quirky Dropzone |
 | 276 | 221 | Vaners |
-| 277 | 221 | Alice |
-| 278 | 221 | Jaime Monhaut-Reed |
+| 277 | 221 | Jaime Monhaut-Reed |
+| 278 | 221 | Alice |
 | 279 | 220 | Tosha Griffey |
 | 280 | 220 | rosy |
 | 281 | 218 | Michael Lucado |
-| 282 | 216 | Twisty Brick LT |
-| 283 | 216 | Cheryl Hinch Tenbrook |
+| 282 | 216 | Cheryl Hinch Tenbrook |
+| 283 | 216 | Twisty Brick LT |
 | 284 | 215 | IamJust Neyamijah Washington Sr. |
-| 285 | 214 | Amy Fuller Heaton |
-| 286 | 214 | Angela Scott |
+| 285 | 214 | Angela Scott |
+| 286 | 214 | Amy Fuller Heaton |
 | 287 | 214 | Rebel124 |
 | 288 | 213 | Nicholas Roddy |
 | 289 | 212 | Sunny Rotater |
@@ -364,12 +364,12 @@
 | 356 | 166 | Angella Lyons |
 | 357 | 166 | Snarky McFace |
 | 358 | 165 | Kali Kelz Williams |
-| 359 | 165 | Ashley Lynn Marchese |
-| 360 | 165 | Rainbow77375 |
+| 359 | 165 | Rainbow77375 |
+| 360 | 165 | Ashley Lynn Marchese |
 | 361 | 164 | Ashley Rufus Bythcez |
 | 362 | 164 | momo |
-| 363 | 163 | Christine Trester |
-| 364 | 163 | Diana Ibarra |
+| 363 | 163 | Diana Ibarra |
+| 364 | 163 | Christine Trester |
 | 365 | 163 | Ava Petito |
 | 366 | 162 | Loopy Fallzone |
 | 367 | 162 | Kristin Delibac Corrigan |
@@ -432,17 +432,17 @@
 | 424 | 141 | Weerae |
 | 425 | 141 | Reina Roth |
 | 426 | 140 | Jumpy Curvebuilder |
-| 427 | 140 | Linda Draper |
-| 428 | 140 | Boldy Corner |
-| 429 | 140 | Alison Baus |
+| 427 | 140 | Boldy Corner |
+| 428 | 140 | Alison Baus |
+| 429 | 140 | Linda Draper |
 | 430 | 139 | Beppy |
 | 431 | 139 | Paula Little |
-| 432 | 138 | Bleu Sun Beams |
-| 433 | 138 | Skinny Baldez |
+| 432 | 138 | Skinny Baldez |
+| 433 | 138 | Bleu Sun Beams |
 | 434 | 137 | Giggly Brickroll |
 | 435 | 136 | Karen Picaboo |
-| 436 | 136 | Sabrina Mansfield |
-| 437 | 136 | Stephanie Zahm |
+| 436 | 136 | Stephanie Zahm |
+| 437 | 136 | Sabrina Mansfield |
 | 438 | 135 | Morgan Cudo |
 | 439 | 134 | Sarah Morris |
 | 440 | 134 | Glenn Loving |
@@ -467,7 +467,7 @@
 | 459 | 129 | TLM |
 | 460 | 128 | David Kozen |
 | 461 | 127 | Jumpy Wrecker |
-| 462 | 126 | Tipsy Puzzle |
+| 462 | 126 | Lush Balance |
 | 463 | 126 | demon14 |
 | 464 | 126 | Tipsy Puzzle |
 | 465 | 126 | Crystal Martin |
@@ -518,9 +518,9 @@
 | 510 | 116 | Niki Dalrymple |
 | 511 | 115 | JustGiGi |
 | 512 | 115 | Beezwax |
-| 513 | 115 | JustGiGi |
-| 514 | 115 | Whitney Manuel |
-| 515 | 115 | Carrie Resler |
+| 513 | 115 | Allie Kershner |
+| 514 | 115 | Carrie Resler |
+| 515 | 115 | Whitney Manuel |
 | 516 | 114 | Elizabeth Renee |
 | 517 | 114 | Joseph Vargas |
 | 518 | 114 | Hyper Shuffler |
@@ -578,10 +578,10 @@
 | 570 | 105 | Zac Hudak |
 | 571 | 105 | Emi |
 | 572 | 105 | Amy Wheeler |
-| 573 | 104 | bean |
-| 574 | 104 | Jessica Rose-Morgan |
-| 575 | 104 | Johnathan Dowe |
-| 576 | 104 | Jana Fagg |
+| 573 | 104 | Jessica Rose-Morgan |
+| 574 | 104 | bean |
+| 575 | 104 | Jana Fagg |
+| 576 | 104 | Johnathan Dowe |
 | 577 | 103 | Snappy Balancer |
 | 578 | 103 | Melissa Parlow-Callaway |
 | 579 | 103 | Breanna Marsden |
@@ -696,9 +696,9 @@
 | 688 | 87 | Pizzi |
 | 689 | 87 | Marketa McClaster |
 | 690 | 87 | Richard Rowell |
-| 691 | 87 | Nerdy Snapbuild |
-| 692 | 87 | gravelgrinder |
-| 693 | 87 | Payden Dover |
+| 691 | 87 | Payden Dover |
+| 692 | 87 | Nerdy Snapbuild |
+| 693 | 87 | gravelgrinder |
 | 694 | 86 | Anna Fuerstenau |
 | 695 | 86 | Viola Vanquet |
 | 696 | 86 | Bernadette Dawson Benoit |

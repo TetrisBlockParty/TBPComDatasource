@@ -112,16 +112,16 @@
 | 104 | 344 | Bhelle Sumile |
 | 105 | 342 | Brenda Stewart |
 | 106 | 341 | Nick R Montague |
-| 107 | 333 | Brandi Huntington |
+| 107 | 333 | Gracie |
 | 108 | 333 | phrmblk24 |
-| 109 | 333 | Gracie |
+| 109 | 333 | Brandi Huntington |
 | 110 | 332 | Luciano Moreira |
 | 111 | 332 | Kristen Gideon |
 | 112 | 330 | Sweet Baker |
 | 113 | 326 | Monica Donato |
 | 114 | 321 | Maria C. Hernandez |
-| 115 | 319 | Patrick Luckenbill |
-| 116 | 319 | Deanna L Hermanson |
+| 115 | 319 | Deanna L Hermanson |
+| 116 | 319 | Patrick Luckenbill |
 | 117 | 318 | Jessica Sheehan |
 | 118 | 316 | Ly Phethmany |
 | 119 | 316 | Jennifer Hardman |

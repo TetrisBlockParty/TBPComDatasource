@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Lucille Truesdale |
-| 34 | 843 | Shelly Chandler |
+| 33 | 843 | Shelly Chandler |
+| 34 | 843 | Lucille Truesdale |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -49,8 +49,8 @@
 | 41 | 757 | Ancient Intuition |
 | 42 | 747 | BertMofo |
 | 43 | 736 | Goatimus Lombardi |
-| 44 | 707 | Rachel Anne |
-| 45 | 707 | Clarence Patawaran |
+| 44 | 707 | Clarence Patawaran |
+| 45 | 707 | Rachel Anne |
 | 46 | 704 | Crystal Carroll |
 | 47 | 698 | Anthony Bryan Riva |
 | 48 | 697 | Edward White |
@@ -83,8 +83,8 @@
 | 75 | 512 | Casey Jeffcoat |
 | 76 | 511 | Michelle Marie |
 | 77 | 500 | Rodney McMath Jr. |
-| 78 | 486 | Landon Keith Graffeo |
-| 79 | 486 | Carmethia Clemons Haslerig |
+| 78 | 486 | Carmethia Clemons Haslerig |
+| 79 | 486 | Landon Keith Graffeo |
 | 80 | 485 | TeeJ |
 | 81 | 468 | Shane Kalamata Platoon |
 | 82 | 447 | Samantha Peterson |
@@ -127,8 +127,8 @@
 | 119 | 303 | Lauren Scott |
 | 120 | 300 | Jason Hart |
 | 121 | 298 | Lucas J Sutton |
-| 122 | 296 | HastyGrabber |
-| 123 | 296 | Justin Hannigan |
+| 122 | 296 | Justin Hannigan |
+| 123 | 296 | HastyGrabber |
 | 124 | 294 | Kesha Brady |
 | 125 | 293 | Andy Cabral |
 | 126 | 290 | 🥔🥔 Spudz |
@@ -146,8 +146,8 @@
 | 138 | 272 | Keshia Lyons |
 | 139 | 271 | Sarah Brown |
 | 140 | 264 | Dana Scott |
-| 141 | 264 | Girl |
-| 142 | 264 | Epic Curvetile |
+| 141 | 264 | Epic Curvetile |
+| 142 | 264 | Girl |
 | 143 | 262 | Holly Jolly |
 | 144 | 258 | Bio Nelly |
 | 145 | 256 | Mylo Lipscomb |
@@ -184,12 +184,12 @@
 | 176 | 210 | Zethra Prenisha Rahming |
 | 177 | 207 | Chirpy Basepiece |
 | 178 | 205 | Kathy Brookins |
-| 179 | 204 | Jen Caldwell |
-| 180 | 204 | Carlos Ramirez |
+| 179 | 204 | Carlos Ramirez |
+| 180 | 204 | Jen Caldwell |
 | 181 | 203 | Katherine Crane |
 | 182 | 202 | TRCuse |
-| 183 | 201 | Melvin Baird |
-| 184 | 201 | Chance Strickland |
+| 183 | 201 | Chance Strickland |
+| 184 | 201 | Melvin Baird |
 | 185 | 200 | Laura |
 | 186 | 198 | Ruben Wheeler |
 | 187 | 198 | Keith Kelley |
