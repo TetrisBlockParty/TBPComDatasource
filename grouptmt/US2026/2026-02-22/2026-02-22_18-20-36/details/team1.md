@@ -164,8 +164,8 @@
 | 156 | 292 | David Lutcher |
 | 157 | 285 | Ananda Mendez |
 | 158 | 285 | ALFD |
-| 159 | 284 | Rachael |
-| 160 | 284 | Emily Adelaide Wheatley |
+| 159 | 284 | Emily Adelaide Wheatley |
+| 160 | 284 | Rachael |
 | 161 | 283 | Franswa |
 | 162 | 282 | Snippy Wipebuilder |
 | 163 | 282 | Tyler Werts |

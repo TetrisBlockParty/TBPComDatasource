@@ -87,8 +87,8 @@
 | 79 | 830 | Stephanie Allmon |
 | 80 | 828 | Jessica Ann |
 | 81 | 826 | Shane Wilson Jr. |
-| 82 | 811 | Sarajane Lokan |
-| 83 | 811 | Jay Horn |
+| 82 | 811 | Jay Horn |
+| 83 | 811 | Sarajane Lokan |
 | 84 | 807 | Snappy Glidepiece |
 | 85 | 800 | Lauren Girouard |
 | 86 | 799 | Shari Garber |
@@ -266,8 +266,8 @@
 | 258 | 282 | Marquita Sheard |
 | 259 | 282 | Terry Jo Jones |
 | 260 | 281 | Carrie Huskey |
-| 261 | 278 | Rufus Lincoln |
-| 262 | 278 | Sabrina Hardrick |
+| 261 | 278 | Sabrina Hardrick |
+| 262 | 278 | Rufus Lincoln |
 | 263 | 277 | Tracy Martin |
 | 264 | 276 | Crimson |
 | 265 | 276 | Connie Mohler-Fair |
@@ -282,10 +282,10 @@
 | 274 | 271 | LaShey Thompson |
 | 275 | 269 | Micayah Stevens |
 | 276 | 268 | Krystal Gerstberger |
-| 277 | 267 | April Matthew Kibble |
-| 278 | 267 | Tiffany Davie |
-| 279 | 266 | Quirky Dropzone |
-| 280 | 266 | Snappy Balancer |
+| 277 | 267 | Tiffany Davie |
+| 278 | 267 | April Matthew Kibble |
+| 279 | 266 | Snappy Balancer |
+| 280 | 266 | Quirky Dropzone |
 | 281 | 265 | Nikki Pags |
 | 282 | 263 | Brenda Schmid Wood |
 | 283 | 262 | Ray Lader |
@@ -357,11 +357,11 @@
 | 349 | 210 | Ashley Lynn Marchese |
 | 350 | 210 | Saucy Buildout |
 | 351 | 209 | TotoCherue |
-| 352 | 209 | Daring Builder |
-| 353 | 209 | Kirhonda Autmon |
+| 352 | 209 | Kirhonda Autmon |
+| 353 | 209 | Daring Builder |
 | 354 | 208 | Karent524 |
-| 355 | 207 | Kristian Thurman |
-| 356 | 207 | angieelyn |
+| 355 | 207 | angieelyn |
+| 356 | 207 | Kristian Thurman |
 | 357 | 206 | Tammy Rosenberry |
 | 358 | 205 | Rachel Napper |
 | 359 | 204 | Cesar Barraza |
@@ -383,12 +383,12 @@
 | 375 | 196 | Denita Mungro |
 | 376 | 195 | Rainbow77375 |
 | 377 | 195 | Salena Whitlock |
-| 378 | 195 | Frilly Stackzone |
-| 379 | 195 | Nicha Hooker |
-| 380 | 194 | Willow |
-| 381 | 194 | Kevin Fountain |
-| 382 | 193 | BŘŰŤİÇŨŚ |
-| 383 | 193 | Clever Shiftsnap |
+| 378 | 195 | Nicha Hooker |
+| 379 | 195 | Frilly Stackzone |
+| 380 | 194 | Kevin Fountain |
+| 381 | 194 | Willow |
+| 382 | 193 | Clever Shiftsnap |
+| 383 | 193 | BŘŰŤİÇŨŚ |
 | 384 | 192 | Katrina E Jelks |
 | 385 | 192 | Kelly Ann Child |
 | 386 | 191 | Becca Engle |
@@ -523,8 +523,8 @@
 | 515 | 145 | Alison Baus |
 | 516 | 145 | Christine Vosburgh |
 | 517 | 144 | Amber Groover Taylor |
-| 518 | 144 | Janay Darkstallion Robinson |
-| 519 | 144 | Rachel Grant |
+| 518 | 144 | Rachel Grant |
+| 519 | 144 | Janay Darkstallion Robinson |
 | 520 | 143 | Paul Larsen |
 | 521 | 142 | Gray Hicks |
 | 522 | 142 | Megan Riggins |

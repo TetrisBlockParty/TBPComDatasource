@@ -225,8 +225,8 @@
 | 217 | 973 | Kim Dean |
 | 218 | 972 | Juliana Marques Do Nascimento Gordy |
 | 219 | 960 | Jennifer Kistner |
-| 220 | 957 | Block Master |
-| 221 | 957 | Keri Womack |
+| 220 | 957 | Keri Womack |
+| 221 | 957 | Block Master |
 | 222 | 957 | Crystal Hoffman |
 | 223 | 955 | Angela Bonquiqui Dinish |
 | 224 | 951 | Cynthia Ward |
