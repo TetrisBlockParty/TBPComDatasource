@@ -153,8 +153,8 @@
 | 145 | 517 | Denise Nardoni |
 | 146 | 516 | Elissa S-k |
 | 147 | 512 | Silly Twist |
-| 148 | 506 | Sashay Tapae Simpson |
-| 149 | 506 | Stephanie Blkpep Davidson |
+| 148 | 506 | Stephanie Blkpep Davidson |
+| 149 | 506 | Sashay Tapae Simpson |
 | 150 | 504 | Jennifer Lynn Fahrenholtz-Summers |
 | 151 | 501 | Patti Skiles |
 | 152 | 492 | Daira Largen |
@@ -219,8 +219,8 @@
 | 211 | 378 | Chris Bell |
 | 212 | 377 | Darlene McMillan |
 | 213 | 372 | Rich LeBlanc |
-| 214 | 369 | Sarah Moyer |
-| 215 | 369 | RickyG |
+| 214 | 369 | RickyG |
+| 215 | 369 | Sarah Moyer |
 | 216 | 368 | Stephanie Woods |
 | 217 | 367 | Marci Mize Fandrich |
 | 218 | 367 | Loopy Fallmatch |
@@ -249,23 +249,23 @@
 | 241 | 339 | Danielle Weikel |
 | 242 | 338 | Gumbo |
 | 243 | 332 | Bmo |
-| 244 | 330 | victory |
-| 245 | 330 | Peppy Shifter |
+| 244 | 330 | Peppy Shifter |
+| 245 | 330 | victory |
 | 246 | 329 | Brittany |
 | 247 | 326 | Dee Franklin |
 | 248 | 324 | Sissy Lowery Davis |
 | 249 | 321 | Rebecca Bailey |
-| 250 | 320 | Ashley Muncey |
-| 251 | 320 | Or Reznitsky |
+| 250 | 320 | Or Reznitsky |
+| 251 | 320 | Ashley Muncey |
 | 252 | 317 | Kelly |
 | 253 | 315 | Charles Perrone |
-| 254 | 312 | Christian Werndl |
-| 255 | 312 | LadyTorad |
+| 254 | 312 | LadyTorad |
+| 255 | 312 | Christian Werndl |
 | 256 | 309 | Felicia Rocha |
 | 257 | 308 | Katrina Turner |
 | 258 | 308 | Cynthia Herrmann Egland |
-| 259 | 307 | rnr junky |
-| 260 | 307 | Blocked |
+| 259 | 307 | Blocked |
+| 260 | 307 | rnr junky |
 | 261 | 304 | Marquita Sheard |
 | 262 | 303 | Alexmac |
 | 263 | 302 | Gray Hicks |
@@ -561,8 +561,8 @@
 | 553 | 152 | Shiny Zonebuilder |
 | 554 | 152 | Elisha L Allman |
 | 555 | 151 | Cheery Brickster |
-| 556 | 150 | Sassy Brickmatch |
-| 557 | 150 | Steph Arcari |
+| 556 | 150 | Steph Arcari |
+| 557 | 150 | Sassy Brickmatch |
 | 558 | 149 | Alexis Taylor |
 | 559 | 149 | xsiv |
 | 560 | 148 | neci |

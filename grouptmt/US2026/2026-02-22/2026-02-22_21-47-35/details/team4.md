@@ -48,9 +48,9 @@
 | 40 | 908 | Misty Hollibaugh |
 | 41 | 886 | Dustin Robert |
 | 42 | 855 | Marvin Lou Martin |
-| 43 | 846 | Christine Marie |
+| 43 | 846 | Jae Job |
 | 44 | 846 | Lucille Truesdale |
-| 45 | 846 | Jae Job |
+| 45 | 846 | Christine Marie |
 | 46 | 843 | Shelly Chandler |
 | 47 | 839 | LisaJo Picken Buchanan |
 | 48 | 835 | TeeJ |
@@ -73,8 +73,8 @@
 | 65 | 704 | Crystal Carroll |
 | 66 | 679 | D3TROITB0RN74 |
 | 67 | 671 | Kimyatta Cavin |
-| 68 | 664 | Valerie Roberts |
-| 69 | 664 | loulou |
+| 68 | 664 | loulou |
+| 69 | 664 | Valerie Roberts |
 | 70 | 659 | Jonathan Kimbrough |
 | 71 | 655 | Carolyn Wallace |
 | 72 | 654 | Julian Garcia |
@@ -101,8 +101,8 @@
 | 93 | 539 | Chris Baggett |
 | 94 | 533 | Samantha Peterson |
 | 95 | 519 | Nugget |
-| 96 | 513 | Erin Thomas |
-| 97 | 513 | YoMomma |
+| 96 | 513 | YoMomma |
+| 97 | 513 | Erin Thomas |
 | 98 | 512 | Casey Jeffcoat |
 | 99 | 511 | Zippy Gridlock |
 | 100 | 509 | Diana Houts |
