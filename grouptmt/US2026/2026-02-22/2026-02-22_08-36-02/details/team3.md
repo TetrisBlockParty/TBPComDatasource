@@ -127,8 +127,8 @@
 | 119 | 491 | Chauntee Alfrey-Cardinale |
 | 120 | 487 | Alaina Lee |
 | 121 | 482 | Jennifer Lynn Fahrenholtz-Summers |
-| 122 | 480 | Stephanie Blkpep Davidson |
-| 123 | 480 | Christine Filson |
+| 122 | 480 | Christine Filson |
+| 123 | 480 | Stephanie Blkpep Davidson |
 | 124 | 479 | Patti Skiles |
 | 125 | 479 | Poppy Splitter |
 | 126 | 478 | CeceGeGe |
@@ -240,9 +240,9 @@
 | 232 | 263 | Brittany |
 | 233 | 263 | Angeline Joseph |
 | 234 | 262 | Joe-Maggie Mathews |
-| 235 | 261 | Marquita Sheard |
-| 236 | 261 | Tasha Wesson-Torrence |
-| 237 | 261 | Tiffany Ford |
+| 235 | 261 | Tiffany Ford |
+| 236 | 261 | Marquita Sheard |
+| 237 | 261 | Tasha Wesson-Torrence |
 | 238 | 260 | Grams |
 | 239 | 259 | Danielle Weikel |
 | 240 | 258 | Tamara Deherrera |
