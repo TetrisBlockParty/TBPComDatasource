@@ -49,8 +49,8 @@
 | 41 | 766 | Robin Watters |
 | 42 | 757 | Ancient Intuition |
 | 43 | 736 | Goatimus Lombardi |
-| 44 | 707 | Clarence Patawaran |
-| 45 | 707 | Rachel Anne |
+| 44 | 707 | Rachel Anne |
+| 45 | 707 | Clarence Patawaran |
 | 46 | 704 | Crystal Carroll |
 | 47 | 698 | Anthony Bryan Riva |
 | 48 | 697 | Edward White |
@@ -236,14 +236,14 @@
 | 228 | 172 | Gilles Lanctot |
 | 229 | 171 | Autumn Kumzi |
 | 230 | 167 | Cozy Balancer |
-| 231 | 166 | Megan Cutshaw |
-| 232 | 166 | SammieJo Guy |
-| 233 | 166 | Angelito |
+| 231 | 166 | Angelito |
+| 232 | 166 | Megan Cutshaw |
+| 233 | 166 | SammieJo Guy |
 | 234 | 166 | Joanna |
 | 235 | 166 | Juls |
-| 236 | 165 | Zappy Buildgrid |
-| 237 | 165 | Jackie Marie |
-| 238 | 165 | James Hurley Jr. |
+| 236 | 165 | Jackie Marie |
+| 237 | 165 | James Hurley Jr. |
+| 238 | 165 | Zappy Buildgrid |
 | 239 | 164 | 030Synner |
 | 240 | 163 | Kristina Black |
 | 241 | 162 | John Brunetti |

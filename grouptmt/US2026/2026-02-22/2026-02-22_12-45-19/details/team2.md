@@ -214,8 +214,8 @@
 | 206 | 919 | Isaac Trappiel IV |
 | 207 | 916 | Butta |
 | 208 | 915 | Kelly Trent |
-| 209 | 910 | Crystal Hoffman |
-| 210 | 910 | Shuany Arias |
+| 209 | 910 | Shuany Arias |
+| 210 | 910 | Crystal Hoffman |
 | 211 | 907 | Gene Mills |
 | 212 | 901 | Jennifer Peachey |
 | 213 | 897 | Block Master |
@@ -473,8 +473,8 @@
 | 465 | 477 | Julay |
 | 466 | 476 | Kitybox |
 | 467 | 475 | Michelle Lee |
-| 468 | 474 | Steve Man |
-| 469 | 474 | Calandra Shaya Robinson |
+| 468 | 474 | Calandra Shaya Robinson |
+| 469 | 474 | Steve Man |
 | 470 | 473 | coleksquad |
 | 471 | 473 | Lyndi Robinson Wakefield |
 | 472 | 472 | Arwa Fatimah |
@@ -814,8 +814,8 @@
 | 806 | 281 | Anthony |
 | 807 | 281 | Amy McManus |
 | 808 | 280 | Sandra Link-Gable |
-| 809 | 280 | Reece Smith |
-| 810 | 280 | Danielle DeLozier Plesec |
+| 809 | 280 | Danielle DeLozier Plesec |
+| 810 | 280 | Reece Smith |
 | 811 | 280 | Luke Califf |
 | 812 | 279 | Laura Wyatt |
 | 813 | 279 | Jennifer Coe |

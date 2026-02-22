@@ -54,8 +54,8 @@
 | 46 | 671 | Lawrence Belanger |
 | 47 | 663 | Drew Magnus |
 | 48 | 646 | Susanna Guerry |
-| 49 | 635 | Angel Fowler |
-| 50 | 635 | Marianne Louise West |
+| 49 | 635 | Marianne Louise West |
+| 50 | 635 | Angel Fowler |
 | 51 | 631 | comrade fish |
 | 52 | 627 | Katie Daniels |
 | 53 | 614 | Snappy Swiper |
@@ -173,8 +173,8 @@
 | 165 | 239 | Jamie Jury |
 | 166 | 235 | MRdot Rooski |
 | 167 | 232 | Jessi Sauer |
-| 168 | 230 | Frothy Pattern |
-| 169 | 230 | Billie Dawn Sparks |
+| 168 | 230 | Billie Dawn Sparks |
+| 169 | 230 | Frothy Pattern |
 | 170 | 229 | Chris K |
 | 171 | 229 | David Lutcher |
 | 172 | 226 | Sleepysloath5745 |
@@ -184,8 +184,8 @@
 | 176 | 217 | ParisandCory Champagne |
 | 177 | 217 | Kimberly Garcia |
 | 178 | 216 | Shauntina Burke |
-| 179 | 215 | Sam Williams |
-| 180 | 215 | Shaykmia |
+| 179 | 215 | Shaykmia |
+| 180 | 215 | Sam Williams |
 | 181 | 213 | Daring Fitclear |
 | 182 | 212 | Jaimie Lynn |
 | 183 | 211 | Marianita Garcia |
