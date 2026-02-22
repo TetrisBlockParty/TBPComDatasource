@@ -188,9 +188,9 @@
 | 180 | 414 | Rochelle Hazelett |
 | 181 | 410 | Stephanie Simpson |
 | 182 | 407 | Jone |
-| 183 | 405 | JerseyJess |
-| 184 | 405 | Marcie Bressler |
-| 185 | 405 | Sherry Ogden |
+| 183 | 405 | Sherry Ogden |
+| 184 | 405 | JerseyJess |
+| 185 | 405 | Marcie Bressler |
 | 186 | 403 | Scott Lindsay |
 | 187 | 400 | Sherika C. McDaniels |
 | 188 | 399 | Mcathen |
@@ -262,8 +262,8 @@
 | 254 | 299 | Angie Harper |
 | 255 | 298 | MsBee |
 | 256 | 297 | Jojo M |
-| 257 | 296 | Katrina Turner |
-| 258 | 296 | Hoppy Buildout |
+| 257 | 296 | Hoppy Buildout |
+| 258 | 296 | Katrina Turner |
 | 259 | 291 | Carrie Huskey |
 | 260 | 289 | Duane Bright |
 | 261 | 289 | DidIdothat |
@@ -294,10 +294,10 @@
 | 286 | 267 | Aerian Preston |
 | 287 | 266 | Quirky Dropzone |
 | 288 | 263 | Brenda Schmid Wood |
-| 289 | 262 | Joe-Maggie Mathews |
-| 290 | 262 | Ray Lader |
-| 291 | 261 | ROODBOY |
-| 292 | 261 | Foltz Lee Kelli |
+| 289 | 262 | Ray Lader |
+| 290 | 262 | Joe-Maggie Mathews |
+| 291 | 261 | Foltz Lee Kelli |
+| 292 | 261 | ROODBOY |
 | 293 | 260 | Grams |
 | 294 | 259 | Hasty Gridpiece |
 | 295 | 258 | IamJust Neyamijah Washington Sr. |
@@ -315,9 +315,9 @@
 | 307 | 244 | LaNette Morgan |
 | 308 | 243 | Josh Borquez |
 | 309 | 241 | Angela Scott |
-| 310 | 240 | Eric Caccavale |
-| 311 | 240 | Jimmie Clemons |
-| 312 | 240 | Desiree Gold |
+| 310 | 240 | Jimmie Clemons |
+| 311 | 240 | Desiree Gold |
+| 312 | 240 | Eric Caccavale |
 | 313 | 238 | Niki Dalrymple |
 | 314 | 236 | Lys |
 | 315 | 236 | Jess Bissett |
@@ -441,8 +441,8 @@
 | 433 | 173 | Joshua David Huie |
 | 434 | 173 | Blair Erin Waite |
 | 435 | 173 | MizzMonick Smith |
-| 436 | 172 | Miranda Taylor |
-| 437 | 172 | Jl |
+| 436 | 172 | Jl |
+| 437 | 172 | Miranda Taylor |
 | 438 | 171 | Jul |
 | 439 | 170 | Bouncy Blockbuilder |
 | 440 | 170 | Tegan Chapman |

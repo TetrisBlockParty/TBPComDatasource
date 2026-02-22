@@ -54,8 +54,8 @@
 | 46 | 777 | Patrick Luckenbill |
 | 47 | 773 | Redlicious 1 |
 | 48 | 770 | Zappy Curvetile |
-| 49 | 760 | Lawrence Belanger |
-| 50 | 760 | Kristen Roles Robben |
+| 49 | 760 | Kristen Roles Robben |
+| 50 | 760 | Lawrence Belanger |
 | 51 | 749 | Jacqueline Williams |
 | 52 | 746 | Stef Hu |
 | 53 | 734 | Michelle Nicole |

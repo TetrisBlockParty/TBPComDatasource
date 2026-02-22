@@ -137,8 +137,8 @@
 | 129 | 1439 | Jumpy Gridpiece |
 | 130 | 1435 | Jessie McDougald |
 | 131 | 1418 | L3sli3 |
-| 132 | 1411 | niecy |
-| 133 | 1411 | Zappy Cascade |
+| 132 | 1411 | Zappy Cascade |
+| 133 | 1411 | niecy |
 | 134 | 1401 | Brandy Andre |
 | 135 | 1384 | Katrina Williams Balmir |
 | 136 | 1383 | Ladyrainbootz |
@@ -274,8 +274,8 @@
 | 266 | 867 | Peppy Zone |
 | 267 | 865 | Kristin Gower |
 | 268 | 862 | Brittany Radaszewski |
-| 269 | 860 | Sheniya Spurgeon |
-| 270 | 860 | April Dawn Gussler |
+| 269 | 860 | April Dawn Gussler |
+| 270 | 860 | Sheniya Spurgeon |
 | 271 | 860 | William Hunt |
 | 272 | 857 | Kara Gillen |
 | 273 | 855 | F-X |
@@ -307,8 +307,8 @@
 | 299 | 797 | Offonar Facey |
 | 300 | 797 | Osun Anuket Esu |
 | 301 | 796 | Angie Bolton Workman |
-| 302 | 787 | Dee |
-| 303 | 787 | Laura McCarthey |
+| 302 | 787 | Laura McCarthey |
+| 303 | 787 | Dee |
 | 304 | 783 | Lisa Ongtowasruk |
 | 305 | 781 | Hong Tang |
 | 306 | 777 | Jessicah Myers |
@@ -517,8 +517,8 @@
 | 509 | 496 | Erika Densmore |
 | 510 | 495 | Bubbly Snapbuild |
 | 511 | 494 | Venita Ray |
-| 512 | 493 | Sue Leard |
-| 513 | 493 | Sarah DeHart |
+| 512 | 493 | Sarah DeHart |
+| 513 | 493 | Sue Leard |
 | 514 | 492 | Breezy Clusterer |
 | 515 | 492 | Armonie Smith |
 | 516 | 492 | Maya June |

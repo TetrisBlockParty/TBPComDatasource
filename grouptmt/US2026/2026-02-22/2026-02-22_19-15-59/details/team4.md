@@ -45,8 +45,8 @@
 | 37 | 908 | Misty Hollibaugh |
 | 38 | 886 | Dustin Robert |
 | 39 | 871 | Denny Shives |
-| 40 | 846 | Christine Marie |
-| 41 | 846 | Lucille Truesdale |
+| 40 | 846 | Lucille Truesdale |
+| 41 | 846 | Christine Marie |
 | 42 | 843 | Jae Job |
 | 43 | 843 | Shelly Chandler |
 | 44 | 836 | LisaJo Picken Buchanan |
@@ -70,8 +70,8 @@
 | 62 | 703 | Anthony Bryan Riva |
 | 63 | 675 | D3TROITB0RN74 |
 | 64 | 671 | Kimyatta Cavin |
-| 65 | 664 | loulou |
-| 66 | 664 | Valerie Roberts |
+| 65 | 664 | Valerie Roberts |
+| 66 | 664 | loulou |
 | 67 | 660 | Michelle Marie |
 | 68 | 659 | Jonathan Kimbrough |
 | 69 | 654 | Chilly Line |
@@ -147,8 +147,8 @@
 | 139 | 328 | Kris Bartlett |
 | 140 | 328 | Leslie Nicole |
 | 141 | 323 | Daria Rycewicz |
-| 142 | 321 | Trista Leah |
-| 143 | 321 | Klo |
+| 142 | 321 | Klo |
+| 143 | 321 | Trista Leah |
 | 144 | 319 | Guy Incognito |
 | 145 | 318 | Lauren Scott |
 | 146 | 316 | Meagan Nicole |
@@ -239,8 +239,8 @@
 | 231 | 212 | scott |
 | 232 | 211 | Jenna McGeorge |
 | 233 | 210 | Adam Stephanie Parker |
-| 234 | 209 | Ak Jones |
-| 235 | 209 | Chris Hartig |
+| 234 | 209 | Chris Hartig |
+| 235 | 209 | Ak Jones |
 | 236 | 208 | Stacey Stano |
 | 237 | 208 | Oscar Alberto Perez |
 | 238 | 205 | James Hurley Jr. |
@@ -294,8 +294,8 @@
 | 286 | 166 | Jenny Wells-Oakley |
 | 287 | 166 | Megan Cutshaw |
 | 288 | 165 | Brittany Marsh |
-| 289 | 165 | Amanda Christine |
-| 290 | 165 | Zappy Buildgrid |
+| 289 | 165 | Zappy Buildgrid |
+| 290 | 165 | Amanda Christine |
 | 291 | 164 | Marvetta Williams |
 | 292 | 163 | Joseph Edmonson |
 | 293 | 163 | Ellen Durfee |
