@@ -127,8 +127,8 @@
 | 119 | 491 | Chauntee Alfrey-Cardinale |
 | 120 | 487 | Alaina Lee |
 | 121 | 482 | Jennifer Lynn Fahrenholtz-Summers |
-| 122 | 480 | Stephanie Blkpep Davidson |
-| 123 | 480 | Christine Filson |
+| 122 | 480 | Christine Filson |
+| 123 | 480 | Stephanie Blkpep Davidson |
 | 124 | 479 | Patti Skiles |
 | 125 | 479 | Poppy Splitter |
 | 126 | 473 | CeceGeGe |
@@ -186,8 +186,8 @@
 | 178 | 347 | Nicole Flippo |
 | 179 | 343 | Ashley Raines |
 | 180 | 341 | Samantha Lynn |
-| 181 | 338 | Leah Barnett |
-| 182 | 338 | Gumbo |
+| 181 | 338 | Gumbo |
+| 182 | 338 | Leah Barnett |
 | 183 | 332 | Rich LeBlanc |
 | 184 | 328 | Giddy Twistbuilder |
 | 185 | 323 | Demetrious Shaw Sr. |
@@ -208,8 +208,8 @@
 | 200 | 301 | Chelsea Hall |
 | 201 | 300 | Sherika C. McDaniels |
 | 202 | 298 | MsBee |
-| 203 | 296 | Ammmmmmy |
-| 204 | 296 | Katrina Turner |
+| 203 | 296 | Katrina Turner |
+| 204 | 296 | Ammmmmmy |
 | 205 | 296 | Brandon Givens |
 | 206 | 295 | Rachel |
 | 207 | 295 | Marci Mize Fandrich |
@@ -293,9 +293,9 @@
 | 285 | 208 | AlsoJess |
 | 286 | 207 | Jessica |
 | 287 | 207 | angieelyn |
-| 288 | 206 | Tracy Martin |
+| 288 | 206 | Jone |
 | 289 | 206 | Tammy Rosenberry |
-| 290 | 206 | Jone |
+| 290 | 206 | Tracy Martin |
 | 291 | 204 | Aerian Preston |
 | 292 | 203 | Angie Harper |
 | 293 | 203 | Kirhonda Autmon |
@@ -321,10 +321,10 @@
 | 313 | 182 | Melanie Sherwood |
 | 314 | 181 | Nicholas Roddy |
 | 315 | 181 | Denita Mungro |
-| 316 | 180 | Criss |
-| 317 | 180 | Beth Ingham |
-| 318 | 179 | DanceLuvLaugh |
-| 319 | 179 | Christian Werndl |
+| 316 | 180 | Beth Ingham |
+| 317 | 180 | Criss |
+| 318 | 179 | Christian Werndl |
+| 319 | 179 | DanceLuvLaugh |
 | 320 | 179 | Rachel Napper |
 | 321 | 179 | Tipsy Zonebuilder |
 | 322 | 178 | Jess Dearborn |

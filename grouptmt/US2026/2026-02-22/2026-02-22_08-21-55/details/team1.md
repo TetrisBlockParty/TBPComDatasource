@@ -86,8 +86,8 @@
 | 78 | 400 | Cynthia Bradley |
 | 79 | 390 | Candy Jones |
 | 80 | 389 | Trina Gee |
-| 81 | 388 | cc |
-| 82 | 388 | Jennifer ManWarren |
+| 81 | 388 | Jennifer ManWarren |
+| 82 | 388 | cc |
 | 83 | 383 | Loony Fitzone |
 | 84 | 382 | Jacqueline Williams |
 | 85 | 379 | Kimmie Kimms |
@@ -318,8 +318,8 @@
 | 310 | 122 | Nate Funk |
 | 311 | 122 | Tyler Hertzog |
 | 312 | 121 | John Ramirez |
-| 313 | 121 | Pauline Cortez |
-| 314 | 121 | Jacob Shaddock |
+| 313 | 121 | Jacob Shaddock |
+| 314 | 121 | Pauline Cortez |
 | 315 | 120 | Shiny Rotate |
 | 316 | 118 | Snappy Brickbuilder |
 | 317 | 118 | Garcia Bailey |

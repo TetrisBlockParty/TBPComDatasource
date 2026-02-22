@@ -128,8 +128,8 @@
 | 120 | 1273 | Cool Rollpiece |
 | 121 | 1257 | Eileen Hale |
 | 122 | 1252 | Katrina Williams Balmir |
-| 123 | 1248 | Isabela Shaw |
-| 124 | 1248 | Howard Forest |
+| 123 | 1248 | Howard Forest |
+| 124 | 1248 | Isabela Shaw |
 | 125 | 1242 | Altamirano Michael |
 | 126 | 1237 | L3sli3 |
 | 127 | 1232 | Groovy Puzzle |
@@ -168,8 +168,8 @@
 | 160 | 1048 | PsychKIRAtrist |
 | 161 | 1047 | Amy Sayers |
 | 162 | 1045 | Lourisha |
-| 163 | 1043 | Suki Kaur |
-| 164 | 1043 | Brave Dropmatch |
+| 163 | 1043 | Brave Dropmatch |
+| 164 | 1043 | Suki Kaur |
 | 165 | 1035 | Sarah Freitas |
 | 166 | 1032 | Nar |
 | 167 | 1026 | Heather Westrum |
@@ -358,8 +358,8 @@
 | 350 | 562 | Ashley Lopez |
 | 351 | 561 | Traci Johnson |
 | 352 | 557 | Block Master |
-| 353 | 554 | Santana Miyagi |
-| 354 | 554 | Rachael Senard |
+| 353 | 554 | Rachael Senard |
+| 354 | 554 | Santana Miyagi |
 | 355 | 552 | F-X |
 | 356 | 550 | Nashu |
 | 357 | 549 | Darcy Mae |

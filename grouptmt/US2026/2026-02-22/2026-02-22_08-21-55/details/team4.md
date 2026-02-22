@@ -48,8 +48,8 @@
 | 40 | 757 | Ancient Intuition |
 | 41 | 736 | Goatimus Lombardi |
 | 42 | 734 | BertMofo |
-| 43 | 707 | Clarence Patawaran |
-| 44 | 707 | Rachel Anne |
+| 43 | 707 | Rachel Anne |
+| 44 | 707 | Clarence Patawaran |
 | 45 | 704 | Crystal Carroll |
 | 46 | 697 | Edward White |
 | 47 | 695 | LisaJo Picken Buchanan |
@@ -61,8 +61,8 @@
 | 53 | 652 | Anthony Bryan Riva |
 | 54 | 647 | KM8 |
 | 55 | 646 | Jacqueline Helm |
-| 56 | 636 | Kimyatta Cavin |
-| 57 | 636 | Dustee Craddock-Harrison |
+| 56 | 636 | Dustee Craddock-Harrison |
+| 57 | 636 | Kimyatta Cavin |
 | 58 | 623 | Robin Getchel |
 | 59 | 599 | Brittney Griggs |
 | 60 | 593 | Lisa Davis |
@@ -97,8 +97,8 @@
 | 89 | 409 | Jolly Dashfit |
 | 90 | 407 | Leslie Thomas |
 | 91 | 404 | Courtney Cicoria |
-| 92 | 396 | Amy Suckarieh |
-| 93 | 396 | Alicia Bass |
+| 92 | 396 | Alicia Bass |
+| 93 | 396 | Amy Suckarieh |
 | 94 | 392 | Ericca Eldridge |
 | 95 | 391 | Ramel Rhodes |
 | 96 | 390 | Carlton Unfiltered |
@@ -133,8 +133,8 @@
 | 125 | 286 | shark tato |
 | 126 | 283 | Brittney Orengo |
 | 127 | 281 | Meagan Nicole |
-| 128 | 278 | Carrie Brian |
-| 129 | 278 | Desi Desporte |
+| 128 | 278 | Desi Desporte |
+| 129 | 278 | Carrie Brian |
 | 130 | 277 | Scott Jameson |
 | 131 | 277 | Mary Ann Pabukis |
 | 132 | 275 | Dizzy Tiley |
@@ -195,8 +195,8 @@
 | 187 | 191 | Klo |
 | 188 | 191 | Sam Bishop |
 | 189 | 190 | Cheery Risebuilder |
-| 190 | 189 | Stacey Stano |
-| 191 | 189 | Calvin Dennis |
+| 190 | 189 | Calvin Dennis |
+| 191 | 189 | Stacey Stano |
 | 192 | 188 | Andria Lynn |
 | 193 | 186 | Holly |
 | 194 | 185 | Lori |
@@ -268,8 +268,8 @@
 | 260 | 138 | Zappy Buildgrid |
 | 261 | 138 | Sarah Hoffman |
 | 262 | 138 | Nick Gray |
-| 263 | 137 | PeaceOs |
-| 264 | 137 | Brianna Walker |
+| 263 | 137 | Brianna Walker |
+| 264 | 137 | PeaceOs |
 | 265 | 136 | Maureen Flanigan |
 | 266 | 136 | Michelle Morris |
 | 267 | 135 | Joshua Guess |
