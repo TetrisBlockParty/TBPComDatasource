@@ -208,8 +208,8 @@
 | 200 | 705 | Roger Grabbit |
 | 201 | 704 | Lisa Ongtowasruk |
 | 202 | 700 | Vincent Petrella |
-| 203 | 700 | Rosemadder |
-| 204 | 700 | Beverly Owens |
+| 203 | 700 | Beverly Owens |
+| 204 | 700 | Rosemadder |
 | 205 | 699 | Vo'Landa Reels |
 | 206 | 692 | Jennifer Casey-Kay |
 | 207 | 692 | Chelle |
@@ -500,9 +500,9 @@
 | 492 | 335 | William Hunt |
 | 493 | 334 | Brittney Jean |
 | 494 | 333 | Tra Barnum |
-| 495 | 331 | Kimmy Newman |
-| 496 | 331 | Jroc |
-| 497 | 330 | NanDa Cruzan VI |
+| 495 | 331 | Jroc |
+| 496 | 331 | Kimmy Newman |
+| 497 | 330 | CC |
 | 498 | 330 | Lucy Marshall |
 | 499 | 330 | NanDa Cruzan VI |
 | 500 | 329 | Chummy Blockbuilder |
@@ -733,8 +733,8 @@
 | 725 | 233 | Jumpy Gridclear |
 | 726 | 232 | Jodi Mitnick |
 | 727 | 232 | Zappy Dropmatch |
-| 728 | 231 | BK Queen |
-| 729 | 231 | Nerdy Riserfit |
+| 728 | 231 | Nerdy Riserfit |
+| 729 | 231 | BK Queen |
 | 730 | 231 | Stanley Vanekelenburg |
 | 731 | 230 | Meganator42 |
 | 732 | 229 | Besma Ao |

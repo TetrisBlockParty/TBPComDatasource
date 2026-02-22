@@ -43,8 +43,8 @@
 | 35 | 1065 | Josiah Fam |
 | 36 | 1059 | Lori Barnaby |
 | 37 | 1036 | Mahman |
-| 38 | 1013 | Laura Melton |
-| 39 | 1013 | Amber Jones |
+| 38 | 1013 | Amber Jones |
+| 39 | 1013 | Laura Melton |
 | 40 | 998 | Liv Whetson |
 | 41 | 996 | Danielle Cutler |
 | 42 | 989 | Kay |
@@ -140,8 +140,8 @@
 | 132 | 367 | mjl574 |
 | 133 | 366 | Adrian Marcel Pate |
 | 134 | 365 | Logan Naccarato |
-| 135 | 355 | Tessina Dewey-Mancino |
-| 136 | 355 | Sherry Ogden |
+| 135 | 355 | Sherry Ogden |
+| 136 | 355 | Tessina Dewey-Mancino |
 | 137 | 348 | CeceGeGe |
 | 138 | 347 | Nicole Flippo |
 | 139 | 347 | Darlene McMillan |
@@ -158,15 +158,15 @@
 | 150 | 316 | Rich LeBlanc |
 | 151 | 311 | Raya |
 | 152 | 310 | Santeria Trece Candles |
-| 153 | 307 | Blocked |
-| 154 | 307 | rnr junky |
+| 153 | 307 | rnr junky |
+| 154 | 307 | Blocked |
 | 155 | 300 | Sherika C. McDaniels |
 | 156 | 293 | Poppy Splitter |
 | 157 | 289 | Daryn Elliott |
 | 158 | 289 | Hoppy Buildout |
 | 159 | 288 | Marci Mize Fandrich |
-| 160 | 286 | Jacqueline Rodriguez |
-| 161 | 286 | Cynthia Herrmann Egland |
+| 160 | 286 | Cynthia Herrmann Egland |
+| 161 | 286 | Jacqueline Rodriguez |
 | 162 | 283 | Joye Sims Binion |
 | 163 | 278 | Rufus Lincoln |
 | 164 | 276 | _melisa223_ |
@@ -191,10 +191,10 @@
 | 183 | 249 | Terry Jo Jones |
 | 184 | 245 | Latoya Mayne |
 | 185 | 245 | Annie Marie |
-| 186 | 243 | Rochelle Hazelett |
-| 187 | 243 | Rebecca Funderburk Kirby |
-| 188 | 240 | Brandon Givens |
-| 189 | 240 | Jimmie Clemons |
+| 186 | 243 | Rebecca Funderburk Kirby |
+| 187 | 243 | Rochelle Hazelett |
+| 188 | 240 | Jimmie Clemons |
+| 189 | 240 | Brandon Givens |
 | 190 | 239 | Fallorina Susana |
 | 191 | 236 | Jess Bissett |
 | 192 | 234 | Nikki Pags |
@@ -394,8 +394,8 @@
 | 386 | 113 | Gideon Walker |
 | 387 | 112 | Tia Moore |
 | 388 | 112 | Shanon R Jackson |
-| 389 | 111 | Stephanie Zahm |
-| 390 | 111 | Leticia Lynn Lowe |
+| 389 | 111 | Leticia Lynn Lowe |
+| 390 | 111 | Stephanie Zahm |
 | 391 | 110 | Tracey Cox |
 | 392 | 109 | Christopher Woost |
 | 393 | 109 | Ashley Rufus Bythcez |
