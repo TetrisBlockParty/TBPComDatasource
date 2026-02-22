@@ -44,8 +44,8 @@
 | 36 | 873 | Elizabeth Sallas |
 | 37 | 871 | Denny Shives |
 | 38 | 846 | Christine Marie |
-| 39 | 843 | Shelly Chandler |
-| 40 | 843 | Lucille Truesdale |
+| 39 | 843 | Lucille Truesdale |
+| 40 | 843 | Shelly Chandler |
 | 41 | 836 | LisaJo Picken Buchanan |
 | 42 | 834 | quicksand420 |
 | 43 | 831 | Jae Job |
@@ -192,8 +192,8 @@
 | 184 | 250 | Matt Dell'Olio |
 | 185 | 247 | Sam Bishop |
 | 186 | 247 | Austin Owens |
-| 187 | 245 | Andria Lynn |
-| 188 | 245 | Peachy Fall |
+| 187 | 245 | Peachy Fall |
+| 188 | 245 | Andria Lynn |
 | 189 | 245 | Autum Leigh |
 | 190 | 244 | Twisty Cascadezone |
 | 191 | 243 | Mr. Party |
@@ -215,8 +215,8 @@
 | 207 | 221 | Rheanda Weaskus |
 | 208 | 219 | Malakai Darien Fox |
 | 209 | 217 | Kim Hunt |
-| 210 | 216 | ZeeZee |
-| 211 | 216 | Cristy Duerksen |
+| 210 | 216 | Cristy Duerksen |
+| 211 | 216 | ZeeZee |
 | 212 | 216 | Chance Strickland |
 | 213 | 215 | Ziggy |
 | 214 | 213 | Sarah Neathery |
@@ -278,8 +278,8 @@
 | 270 | 165 | Zappy Buildgrid |
 | 271 | 164 | KimoKoala |
 | 272 | 163 | Ellen Durfee |
-| 273 | 162 | Gwendolyn Pitcairn |
-| 274 | 162 | John Brunetti |
+| 273 | 162 | John Brunetti |
+| 274 | 162 | Gwendolyn Pitcairn |
 | 275 | 162 | conceptCollector |
 | 276 | 161 | Twisty Risebuilder |
 | 277 | 161 | Tanner Lund |

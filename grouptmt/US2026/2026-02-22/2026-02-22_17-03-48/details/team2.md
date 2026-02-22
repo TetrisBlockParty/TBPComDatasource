@@ -107,8 +107,8 @@
 | 99 | 1623 | Mr. Street Stack |
 | 100 | 1603 | Gabby Jenner |
 | 101 | 1601 | Ray Ray Prado |
-| 102 | 1599 | Janel Turley-Garner |
-| 103 | 1599 | Rob Riggin |
+| 102 | 1599 | Rob Riggin |
+| 103 | 1599 | Janel Turley-Garner |
 | 104 | 1567 | Sally Dennis |
 | 105 | 1564 | Charie Holland |
 | 106 | 1562 | Loopy Clusterbuilder |
@@ -210,8 +210,8 @@
 | 202 | 998 | Tralonda Weeks |
 | 203 | 993 | Eric Carlson |
 | 204 | 991 | Moose Griffith |
-| 205 | 989 | Teddi Notyalc |
-| 206 | 989 | Desiree Harris Rosch |
+| 205 | 989 | Desiree Harris Rosch |
+| 206 | 989 | Teddi Notyalc |
 | 207 | 988 | Cherica Taylor |
 | 208 | 986 | RAEPR05 |
 | 209 | 979 | Hillary Crawford |
@@ -235,8 +235,8 @@
 | 227 | 919 | Joshua Mandel |
 | 228 | 919 | Isaac Trappiel IV |
 | 229 | 916 | Butta |
-| 230 | 915 | Angela Bonquiqui Dinish |
-| 231 | 915 | Robin Kerby |
+| 230 | 915 | Robin Kerby |
+| 231 | 915 | Angela Bonquiqui Dinish |
 | 232 | 915 | Kelly Trent |
 | 233 | 910 | Shuany Arias |
 | 234 | 907 | Gene Mills |
@@ -368,8 +368,8 @@
 | 360 | 644 | AgileDragon |
 | 361 | 643 | Hoppy Brickmatch |
 | 362 | 641 | Vonceial Boone |
-| 363 | 640 | BYM4L |
-| 364 | 640 | Kara Gillen |
+| 363 | 640 | Kara Gillen |
+| 364 | 640 | BYM4L |
 | 365 | 639 | Crystie Hicks |
 | 366 | 639 | Rebecca Miller |
 | 367 | 634 | Gary Stash |
@@ -451,8 +451,8 @@
 | 443 | 540 | Dizzy Zone |
 | 444 | 536 | Caitlin Schmid |
 | 445 | 533 | Gauri Shrotriya |
-| 446 | 531 | Aishah Brice |
-| 447 | 531 | Briana Alexander |
+| 446 | 531 | Briana Alexander |
+| 447 | 531 | Aishah Brice |
 | 448 | 529 | Ben Barkley |
 | 449 | 528 | Anita Rose Green |
 | 450 | 527 | Ryan Gunther |
@@ -543,7 +543,7 @@
 | 535 | 463 | Jaye EL Hunter |
 | 536 | 463 | Mia Muse Best |
 | 537 | 462 | Jennifer Scott |
-| 538 | 462 | Jarboe |
+| 538 | 462 | Daphne Jordan |
 | 539 | 462 | Amanda Ferrell |
 | 540 | 462 | Jarboe |
 | 541 | 460 | Slinky Racker |
@@ -694,8 +694,8 @@
 | 686 | 366 | Loony Basepiece |
 | 687 | 366 | Courtney Burcham |
 | 688 | 365 | Christina Lewis-Vickers |
-| 689 | 364 | Shinette Dobson |
-| 690 | 364 | Jessica Galick |
+| 689 | 364 | Jessica Galick |
+| 690 | 364 | Shinette Dobson |
 | 691 | 363 | Michelle Sager |
 | 692 | 363 | Jes Norris |
 | 693 | 363 | Kia Humphery |

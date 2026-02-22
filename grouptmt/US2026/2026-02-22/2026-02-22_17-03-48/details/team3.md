@@ -237,8 +237,8 @@
 | 229 | 311 | Peppy Shifter |
 | 230 | 308 | Rania Zaqout |
 | 231 | 307 | rnr junky |
-| 232 | 307 | Marci Mize Fandrich |
-| 233 | 307 | Blocked |
+| 232 | 307 | Blocked |
+| 233 | 307 | Marci Mize Fandrich |
 | 234 | 305 | Rebecca Bailey |
 | 235 | 301 | Betty Rosas |
 | 236 | 299 | Melissa Orth Hunter |
