@@ -73,8 +73,8 @@
 | 65 | 428 | Stephanie Zahn |
 | 66 | 428 | Kellie |
 | 67 | 413 | Steve Schneider |
-| 68 | 412 | Anaid Sanchez |
-| 69 | 412 | Jazzy Framezone |
+| 68 | 412 | Jazzy Framezone |
+| 69 | 412 | Anaid Sanchez |
 | 70 | 391 | Robert Benito |
 | 71 | 390 | Cynthia Bradley |
 | 72 | 390 | Candy Jones |
@@ -144,15 +144,15 @@
 | 136 | 226 | Kandae |
 | 137 | 217 | Dizzy Party |
 | 138 | 217 | ParisandCory Champagne |
-| 139 | 216 | Shauntina Burke |
-| 140 | 216 | MRdot Rooski |
+| 139 | 216 | MRdot Rooski |
+| 140 | 216 | Shauntina Burke |
 | 141 | 214 | GATOR |
 | 142 | 212 | Lori Bales |
 | 143 | 212 | Jaimie Lynn |
 | 144 | 211 | Marianita Garcia |
 | 145 | 210 | Giggly Builderline |
-| 146 | 208 | Bouncy Grid |
-| 147 | 208 | lil mickey |
+| 146 | 208 | lil mickey |
+| 147 | 208 | Bouncy Grid |
 | 148 | 207 | Leslie Bush Yarbrough |
 | 149 | 206 | Kimberly Garcia |
 | 150 | 204 | Lacy Wolfe |
@@ -160,8 +160,8 @@
 | 152 | 201 | Sleepysloath5745 |
 | 153 | 200 | Ash Galvan |
 | 154 | 199 | Basment Living |
-| 155 | 198 | Happy Snapbuild |
-| 156 | 198 | Shiny Gridmatch |
+| 155 | 198 | Shiny Gridmatch |
+| 156 | 198 | Happy Snapbuild |
 | 157 | 195 | Daring Fitclear |
 | 158 | 194 | Tyler Werts |
 | 159 | 193 | Lachelle Dillon |
@@ -171,8 +171,8 @@
 | 163 | 191 | Diane Byrd |
 | 164 | 190 | Thorne Shumate |
 | 165 | 190 | Sweetts |
-| 166 | 189 | Jeanna Dunn |
-| 167 | 189 | Michael |
+| 166 | 189 | Michael |
+| 167 | 189 | Jeanna Dunn |
 | 168 | 188 | Sam Williams |
 | 169 | 187 | Jennifer Olewnik Soborowski |
 | 170 | 187 | Snippy Wipebuilder |
@@ -525,7 +525,7 @@
 | 517 | 63 | Johnnette Kruse |
 | 518 | 62 | Kristen Rhoads |
 | 519 | 62 | Michael Butler |
-| 520 | 62 | Kristen Rhoads |
+| 520 | 62 | Angela Martin Hardy |
 | 521 | 62 | Christi Ames |
 | 522 | 62 | Phu ckalldems |
 | 523 | 62 | BlazinGames |

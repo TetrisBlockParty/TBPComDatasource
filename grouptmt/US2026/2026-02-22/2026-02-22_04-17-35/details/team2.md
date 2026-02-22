@@ -364,8 +364,8 @@
 | 356 | 491 | Michael Buckner |
 | 357 | 489 | BeQuo |
 | 358 | 489 | Osun Anuket Esu |
-| 359 | 488 | Andrew Willis |
-| 360 | 488 | Venita Ray |
+| 359 | 488 | Venita Ray |
+| 360 | 488 | Andrew Willis |
 | 361 | 487 | MrsCandyfine As Wine Truss |
 | 362 | 485 | Mamachelle Eisweirth |
 | 363 | 483 | Alezandra Smith |
@@ -402,10 +402,10 @@
 | 394 | 459 | Cassie Mercer |
 | 395 | 458 | Casper The Chonk |
 | 396 | 454 | Casey Schumacher |
-| 397 | 453 | Rhonda Petro |
-| 398 | 453 | Joshua Sommerville |
-| 399 | 451 | Melissa Kay Gibson |
-| 400 | 451 | Funky Caster |
+| 397 | 453 | Joshua Sommerville |
+| 398 | 453 | Rhonda Petro |
+| 399 | 451 | Funky Caster |
+| 400 | 451 | Melissa Kay Gibson |
 | 401 | 451 | Cody Nishimura |
 | 402 | 451 | Dylan Thomason |
 | 403 | 449 | Davetta Sanford |
@@ -677,8 +677,8 @@
 | 669 | 285 | June E Hanson |
 | 670 | 285 | Court |
 | 671 | 284 | Tabs Reichert |
-| 672 | 284 | Hillary Franklin |
-| 673 | 284 | Dapper Dasher |
+| 672 | 284 | Dapper Dasher |
+| 673 | 284 | Hillary Franklin |
 | 674 | 283 | Tash Bell |
 | 675 | 282 | Nutty Slice |
 | 676 | 280 | Danielle DeLozier Plesec |
@@ -780,7 +780,7 @@
 | 772 | 244 | Jumpy Gridclear |
 | 773 | 244 | Nakiiya Dreamcatcher Gore |
 | 774 | 244 | Elena Vap |
-| 775 | 243 | Layna Lyons |
+| 775 | 243 | Cool Grabber |
 | 776 | 243 | Albert McKnight |
 | 777 | 243 | Layna Lyons |
 | 778 | 243 | AndrewandShela Gornik |

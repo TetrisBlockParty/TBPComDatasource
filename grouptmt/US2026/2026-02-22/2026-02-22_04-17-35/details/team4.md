@@ -247,7 +247,7 @@
 | 239 | 130 | J-Rizzle |
 | 240 | 130 | Angelito |
 | 241 | 130 | Shukee Lo |
-| 242 | 130 | J-Rizzle |
+| 242 | 130 | Rheanda Weaskus |
 | 243 | 130 | Ultramarine |
 | 244 | 129 | Sherri |
 | 245 | 129 | Jasmine S Caldwell |
@@ -281,7 +281,7 @@
 | 273 | 119 | River Shady Sr. |
 | 274 | 119 | Circuit8 |
 | 275 | 119 | rebel4lyfe |
-| 276 | 119 | River Shady Sr. |
+| 276 | 119 | Gwendolyn Pitcairn |
 | 277 | 117 | PennyCandee |
 | 278 | 117 | BigSammy420 |
 | 279 | 116 | Kate |
