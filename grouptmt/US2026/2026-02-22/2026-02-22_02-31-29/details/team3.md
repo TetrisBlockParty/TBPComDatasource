@@ -79,9 +79,9 @@
 | 71 | 613 | Amber Hughes |
 | 72 | 604 | Danielle Becker |
 | 73 | 588 | yoyo |
-| 74 | 582 | Natasha Jones |
-| 75 | 582 | Katrina Schroeder |
-| 76 | 582 | Jay Horn |
+| 74 | 582 | Katrina Schroeder |
+| 75 | 582 | Jay Horn |
+| 76 | 582 | Natasha Jones |
 | 77 | 581 | Danielle Mogg |
 | 78 | 580 | Amanda L Baker |
 | 79 | 577 | Speedy Bridger |
@@ -90,8 +90,8 @@
 | 82 | 561 | Rachael McClain Owens |
 | 83 | 559 | Morgan Martinez |
 | 84 | 548 | Dave Herzog |
-| 85 | 541 | Nate Burnside |
-| 86 | 541 | Patty Allen |
+| 85 | 541 | Patty Allen |
+| 86 | 541 | Nate Burnside |
 | 87 | 536 | Giddy Drop |
 | 88 | 526 | Cynthia Castros-Hampton |
 | 89 | 519 | Shari Garber |
@@ -134,8 +134,8 @@
 | 126 | 391 | Calista Jo Dickson |
 | 127 | 390 | Hasty Cascadefit |
 | 128 | 386 | Katie Knaus |
-| 129 | 378 | Makelini Mausia |
-| 130 | 378 | Tasha Schriewer |
+| 129 | 378 | Tasha Schriewer |
+| 130 | 378 | Makelini Mausia |
 | 131 | 376 | Loopy Clusterer |
 | 132 | 371 | mjl574 |
 | 133 | 370 | Santeria Trece Candles |

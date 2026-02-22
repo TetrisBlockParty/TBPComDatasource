@@ -69,8 +69,8 @@
 | 61 | 412 | Anaid Sanchez |
 | 62 | 409 | Jazzy Framezone |
 | 63 | 391 | Robert Benito |
-| 64 | 388 | Yvonne Marie |
-| 65 | 388 | Jennifer ManWarren |
+| 64 | 388 | Jennifer ManWarren |
+| 65 | 388 | Yvonne Marie |
 | 66 | 382 | Lori Sanders- Davis |
 | 67 | 379 | Austin James |
 | 68 | 374 | Tinah Montanna |
@@ -192,8 +192,8 @@
 | 184 | 167 | Erin Hodges Plumb |
 | 185 | 167 | Nery Martinez |
 | 186 | 166 | Rico Rico |
-| 187 | 165 | Arianna O'Brien |
-| 188 | 165 | Nadine Velardo |
+| 187 | 165 | Nadine Velardo |
+| 188 | 165 | Arianna O'Brien |
 | 189 | 164 | Shanae Grant |
 | 190 | 163 | Tyler Whitley |
 | 191 | 163 | Andrew Boone |

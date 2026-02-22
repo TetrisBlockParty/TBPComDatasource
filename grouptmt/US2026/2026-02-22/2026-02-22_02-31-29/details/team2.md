@@ -198,8 +198,8 @@
 | 190 | 771 | Terri McKelvey McKinley |
 | 191 | 765 | Jodi Blake |
 | 192 | 763 | Dineisha Carpenter |
-| 193 | 763 | Samantha Jo |
-| 194 | 763 | Foxxo |
+| 193 | 763 | Foxxo |
+| 194 | 763 | Samantha Jo |
 | 195 | 759 | Lisa Ongtowasruk |
 | 196 | 756 | Stephanie Neuburger |
 | 197 | 755 | Ashley House |
@@ -626,8 +626,8 @@
 | 618 | 289 | Bella Novia |
 | 619 | 289 | Britney M. |
 | 620 | 288 | August Hale |
-| 621 | 288 | Jenna Nance |
-| 622 | 288 | Kristi Biddinger |
+| 621 | 288 | Kristi Biddinger |
+| 622 | 288 | Jenna Nance |
 | 623 | 288 | Ashley Criner |
 | 624 | 287 | Dolores Russworn |
 | 625 | 287 | Toni Roberson |
