@@ -101,8 +101,8 @@
 | 93 | 326 | Monica Donato |
 | 94 | 325 | Katie Daniels |
 | 95 | 323 | Sweet Baker |
-| 96 | 321 | Maria C. Hernandez |
-| 97 | 321 | Shauna Loe |
+| 96 | 321 | Shauna Loe |
+| 97 | 321 | Maria C. Hernandez |
 | 98 | 319 | Patrick Luckenbill |
 | 99 | 319 | Deanna L Hermanson |
 | 100 | 313 | Tanya Carpenter-Reynolds |

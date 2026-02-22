@@ -43,8 +43,8 @@
 | 35 | 766 | Robin Watters |
 | 36 | 717 | BertMofo |
 | 37 | 704 | Crystal Carroll |
-| 38 | 697 | Edward White |
-| 39 | 697 | Rachel Anne |
+| 38 | 697 | Rachel Anne |
+| 39 | 697 | Edward White |
 | 40 | 659 | Rebecca Moulton Pinciaro |
 | 41 | 658 | loulou |
 | 42 | 646 | Jacqueline Helm |

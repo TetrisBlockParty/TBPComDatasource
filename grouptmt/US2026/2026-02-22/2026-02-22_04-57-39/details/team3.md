@@ -132,13 +132,13 @@
 | 124 | 416 | Mary Pellegrino |
 | 125 | 415 | ren |
 | 126 | 411 | FuzzyNavel |
-| 127 | 410 | Stephanie Simpson |
-| 128 | 410 | Stephanie Blkpep Davidson |
+| 127 | 410 | Stephanie Blkpep Davidson |
+| 128 | 410 | Stephanie Simpson |
 | 129 | 409 | Karon Griffin |
 | 130 | 407 | Joye Sims Binion |
 | 131 | 405 | Michelle |
-| 132 | 403 | Scott Lindsay |
-| 133 | 403 | Christine Filson |
+| 132 | 403 | Christine Filson |
+| 133 | 403 | Scott Lindsay |
 | 134 | 402 | Shannon Matthew Byers |
 | 135 | 400 | Louise Stacy Sisson |
 | 136 | 400 | Luciana Braganca Vieira |
@@ -383,8 +383,8 @@
 | 375 | 134 | Tammy |
 | 376 | 133 | Crystal Hine |
 | 377 | 133 | Jen Lewis |
-| 378 | 132 | Andrew Thorson |
-| 379 | 132 | Hanna Kim |
+| 378 | 132 | Hanna Kim |
+| 379 | 132 | Andrew Thorson |
 | 380 | 131 | Cheeky Setter |
 | 381 | 131 | Cheeky Snapper |
 | 382 | 130 | TotoCherue |

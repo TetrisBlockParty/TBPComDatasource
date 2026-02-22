@@ -202,8 +202,8 @@
 | 194 | 845 | April Dawn Gussler |
 | 195 | 838 | Tralonda Weeks |
 | 196 | 837 | Ashley Rose Frederick |
-| 197 | 834 | Rebecca Doughman |
-| 198 | 834 | Nika Bee |
+| 197 | 834 | Nika Bee |
+| 198 | 834 | Rebecca Doughman |
 | 199 | 828 | Cindy Sechler Taninecz |
 | 200 | 826 | Moose Griffith |
 | 201 | 820 | Chirpy Staggerpiece |
@@ -245,13 +245,13 @@
 | 237 | 704 | Shelley Thornburgh Wright |
 | 238 | 703 | Gold Rose |
 | 239 | 700 | Vincent Petrella |
-| 240 | 700 | Beverly Owens |
-| 241 | 700 | Rosemadder |
+| 240 | 700 | Rosemadder |
+| 241 | 700 | Beverly Owens |
 | 242 | 698 | Mighty Shatterfit |
 | 243 | 697 | Dreamy Blast |
 | 244 | 692 | Chelle |
-| 245 | 692 | Jennifer Casey-Kay |
-| 246 | 692 | Dannette Goldberg-Richards |
+| 245 | 692 | Dannette Goldberg-Richards |
+| 246 | 692 | Jennifer Casey-Kay |
 | 247 | 690 | Deborah Miller |
 | 248 | 688 | Tiara Elizabeth Baker |
 | 249 | 688 | ShinyRose |
@@ -583,8 +583,8 @@
 | 575 | 345 | Frisky Clearpiece |
 | 576 | 345 | Rhianna DiLorenzo |
 | 577 | 345 | Gina Caulder |
-| 578 | 344 | Glenn Cobbins |
-| 579 | 344 | Tra Barnum |
+| 578 | 344 | Tra Barnum |
+| 579 | 344 | Glenn Cobbins |
 | 580 | 342 | Angi Harrison |
 | 581 | 341 | Daniel Amos |
 | 582 | 340 | Mikayala Szaz |
