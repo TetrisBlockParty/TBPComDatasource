@@ -351,8 +351,8 @@
 | 343 | 703 | Gold Rose |
 | 344 | 702 | Leslie Ann Carter |
 | 345 | 700 | Vincent Petrella |
-| 346 | 700 | Beverly Owens |
-| 347 | 700 | Rosemadder |
+| 346 | 700 | Rosemadder |
+| 347 | 700 | Beverly Owens |
 | 348 | 699 | tejas25 |
 | 349 | 697 | Dreamy Blast |
 | 350 | 697 | Ashle Scranton |
@@ -417,8 +417,8 @@
 | 409 | 613 | Caitlyn Blackwell |
 | 410 | 605 | Biggest thing |
 | 411 | 605 | g |
-| 412 | 602 | KhaosLord |
-| 413 | 602 | Shaun Church |
+| 412 | 602 | Shaun Church |
+| 413 | 602 | KhaosLord |
 | 414 | 601 | Moua Ying |
 | 415 | 600 | Arkei Luster |
 | 416 | 599 | Nashu |
@@ -549,10 +549,10 @@
 | 541 | 473 | Wuntayk |
 | 542 | 473 | Tracy Wise |
 | 543 | 473 | Ashlee Cruz |
-| 544 | 472 | KayLynn Ogden McClelland |
-| 545 | 472 | Arwa Fatimah |
-| 546 | 472 | Véronique Lévesque Sabourin |
-| 547 | 472 | Mary Marie |
+| 544 | 472 | Mary Marie |
+| 545 | 472 | Véronique Lévesque Sabourin |
+| 546 | 472 | Arwa Fatimah |
+| 547 | 472 | KayLynn Ogden McClelland |
 | 548 | 472 | Kyle LeRoy Harris |
 | 549 | 471 | Rae Rae |
 | 550 | 470 | Arlene Joy Belicina |
@@ -765,8 +765,8 @@
 | 757 | 350 | Kelly Templeton |
 | 758 | 350 | Kyla Louise |
 | 759 | 350 | Maria Hammett |
-| 760 | 350 | Epic Fitzone |
-| 761 | 350 | Chris Harr |
+| 760 | 350 | Chris Harr |
+| 761 | 350 | Epic Fitzone |
 | 762 | 349 | Jenn Marie |
 | 763 | 348 | Richard Horton |
 | 764 | 348 | Christy Green |

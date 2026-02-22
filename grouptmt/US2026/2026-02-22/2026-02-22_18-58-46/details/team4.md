@@ -95,8 +95,8 @@
 | 87 | 539 | Chris Baggett |
 | 88 | 531 | Amelpss |
 | 89 | 531 | Dawn Alexander |
-| 90 | 513 | Erin Thomas |
-| 91 | 513 | YoMomma |
+| 90 | 513 | YoMomma |
+| 91 | 513 | Erin Thomas |
 | 92 | 512 | Casey Jeffcoat |
 | 93 | 501 | Denise Carlson |
 | 94 | 500 | Rodney McMath Jr. |
@@ -131,8 +131,8 @@
 | 123 | 373 | Joseph Guthrie |
 | 124 | 369 | Nope Young |
 | 125 | 356 | Serena Goodridge |
-| 126 | 353 | Tyler Terrific |
-| 127 | 353 | Livvy |
+| 126 | 353 | Livvy |
+| 127 | 353 | Tyler Terrific |
 | 128 | 344 | Lush Linkfall |
 | 129 | 343 | Latisha Davis |
 | 130 | 338 | Lucas J Sutton |
@@ -142,8 +142,8 @@
 | 134 | 332 | Desi Desporte |
 | 135 | 332 | HastyGrabber |
 | 136 | 330 | David Lay |
-| 137 | 328 | Leslie Nicole |
-| 138 | 328 | Kris Bartlett |
+| 137 | 328 | Kris Bartlett |
+| 138 | 328 | Leslie Nicole |
 | 139 | 325 | Dizzy Tiley |
 | 140 | 324 | Jessica Lynn Cutlip |
 | 141 | 323 | Daria Rycewicz |
@@ -181,8 +181,8 @@
 | 173 | 269 | Nikki Rae Gordon |
 | 174 | 268 | Mimi |
 | 175 | 267 | Casey Grabner |
-| 176 | 267 | Holly |
-| 177 | 267 | Kathy Brookins |
+| 176 | 267 | Kathy Brookins |
+| 177 | 267 | Holly |
 | 178 | 266 | Laura |
 | 179 | 265 | Chris Bernstein |
 | 180 | 264 | Girl |
@@ -199,11 +199,11 @@
 | 191 | 247 | Dennis Bradley |
 | 192 | 247 | jim |
 | 193 | 246 | Carlos Ramirez |
-| 194 | 245 | Autum Leigh |
-| 195 | 245 | 23 |
+| 194 | 245 | 23 |
+| 195 | 245 | Autum Leigh |
 | 196 | 245 | Andria Lynn |
-| 197 | 244 | Lindsey Gonzalez |
-| 198 | 244 | Twisty Cascadezone |
+| 197 | 244 | Twisty Cascadezone |
+| 198 | 244 | Lindsey Gonzalez |
 | 199 | 243 | Jose Dejesus |
 | 200 | 243 | Mr. Party |
 | 201 | 242 | Michele Plunkett |
@@ -220,14 +220,14 @@
 | 212 | 227 | Kim Hunt |
 | 213 | 226 | Zesty Twistbuilder |
 | 214 | 225 | Perky Patternblock |
-| 215 | 221 | Rheanda Weaskus |
-| 216 | 221 | PurpleMoonMa |
+| 215 | 221 | PurpleMoonMa |
+| 216 | 221 | Rheanda Weaskus |
 | 217 | 221 | Kim Klutz Olson |
 | 218 | 220 | Joanna |
 | 219 | 219 | Malakai Darien Fox |
 | 220 | 219 | Dizzy Matchzone |
-| 221 | 216 | Chance Strickland |
-| 222 | 216 | ZeeZee |
+| 221 | 216 | ZeeZee |
+| 222 | 216 | Chance Strickland |
 | 223 | 216 | Cristy Duerksen |
 | 224 | 215 | Ziggy |
 | 225 | 215 | John Brunetti |
@@ -250,8 +250,8 @@
 | 242 | 202 | Patron Anderson |
 | 243 | 202 | Rebecca Morris |
 | 244 | 201 | Melvin Baird |
-| 245 | 200 | Chair |
-| 246 | 200 | Googenheim |
+| 245 | 200 | Googenheim |
+| 246 | 200 | Chair |
 | 247 | 200 | Lori |
 | 248 | 199 | Orchislactea |
 | 249 | 198 | Silly SeaWeed |
@@ -269,8 +269,8 @@
 | 261 | 189 | Dihcheese444 |
 | 262 | 189 | 030Synner |
 | 263 | 188 | A5! |
-| 264 | 185 | Morti |
-| 265 | 185 | Laura Hosford |
+| 264 | 185 | Laura Hosford |
+| 265 | 185 | Morti |
 | 266 | 184 | Lauren Lamb |
 | 267 | 183 | Nubian1 |
 | 268 | 183 | Twisty Risebuilder |

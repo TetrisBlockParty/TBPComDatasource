@@ -94,8 +94,8 @@
 | 86 | 456 | Arianna O'Brien |
 | 87 | 453 | Brandi Huntington |
 | 88 | 448 | Loony Fitzone |
-| 89 | 444 | Lexuriuos Lifestlye |
-| 90 | 444 | Hyper |
+| 89 | 444 | Hyper |
+| 90 | 444 | Lexuriuos Lifestlye |
 | 91 | 443 | Steve Schneider |
 | 92 | 439 | Trina Gee |
 | 93 | 436 | Tonya Beasley |
@@ -127,8 +127,8 @@
 | 119 | 366 | David Miller |
 | 120 | 364 | Shauna Loe |
 | 121 | 362 | Plucky Ziggy |
-| 122 | 360 | phrmblk24 |
-| 123 | 360 | Wisa |
+| 122 | 360 | Wisa |
+| 123 | 360 | phrmblk24 |
 | 124 | 359 | Chirpy Smasher |
 | 125 | 358 | Sweet Baker |
 | 126 | 357 | Amanda Johnson Huffman |
@@ -221,8 +221,8 @@
 | 213 | 228 | Cheeky Pop |
 | 214 | 227 | Cody Gates |
 | 215 | 226 | Michael |
-| 216 | 225 | Jessie Lynn |
-| 217 | 225 | Bindi |
+| 216 | 225 | Bindi |
+| 217 | 225 | Jessie Lynn |
 | 218 | 224 | ParisandCory Champagne |
 | 219 | 223 | Christina Backer |
 | 220 | 223 | Basment Living |
@@ -272,8 +272,8 @@
 | 264 | 196 | Perky Shiftsnap |
 | 265 | 195 | Jennifer Olewnik Soborowski |
 | 266 | 194 | Poppy Riserpiece |
-| 267 | 193 | Lachelle Dillon |
-| 268 | 193 | Phu ckalldems |
+| 267 | 193 | Phu ckalldems |
+| 268 | 193 | Lachelle Dillon |
 | 269 | 192 | Tiger Lily |
 | 270 | 191 | Renata Mabie |
 | 271 | 191 | J.F. Fields |
