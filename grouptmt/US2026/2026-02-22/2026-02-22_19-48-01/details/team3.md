@@ -70,8 +70,8 @@
 | 62 | 1027 | Gracie |
 | 63 | 1019 | Joey Banks |
 | 64 | 954 | Nate Burnside |
-| 65 | 926 | Judi Dobson |
-| 66 | 926 | Angela M. Fletcher |
+| 65 | 926 | Angela M. Fletcher |
+| 66 | 926 | Judi Dobson |
 | 67 | 924 | Shonna Roberts |
 | 68 | 909 | Jennifer |
 | 69 | 903 | Sarah Fehring |
@@ -132,8 +132,8 @@
 | 124 | 574 | Morgan Martinez |
 | 125 | 568 | Rachael McClain Owens |
 | 126 | 565 | Daryn Elliott |
-| 127 | 562 | Louise Stacy Sisson |
-| 128 | 562 | Dave Herzog |
+| 127 | 562 | Dave Herzog |
+| 128 | 562 | Louise Stacy Sisson |
 | 129 | 557 | Domo Washington |
 | 130 | 555 | Nicole Myers |
 | 131 | 551 | Alaina Lee |
@@ -263,11 +263,11 @@
 | 255 | 304 | Marquita Sheard |
 | 256 | 301 | Betty Rosas |
 | 257 | 299 | Angie Harper |
-| 258 | 298 | Grams |
-| 259 | 298 | MsBee |
+| 258 | 298 | MsBee |
+| 259 | 298 | Grams |
 | 260 | 297 | Jojo M |
-| 261 | 296 | Hoppy Buildout |
-| 262 | 296 | Katrina Turner |
+| 261 | 296 | Katrina Turner |
+| 262 | 296 | Hoppy Buildout |
 | 263 | 291 | Carrie Huskey |
 | 264 | 289 | Danielle Weikel |
 | 265 | 289 | Duane Bright |

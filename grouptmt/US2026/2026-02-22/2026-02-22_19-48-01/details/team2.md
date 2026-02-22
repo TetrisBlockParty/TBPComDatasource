@@ -238,9 +238,9 @@
 | 230 | 972 | Juliana Marques Do Nascimento Gordy |
 | 231 | 972 | Della Hole |
 | 232 | 965 | Maria Escobar |
-| 233 | 957 | Keri Womack |
+| 233 | 957 | Crystal Hoffman |
 | 234 | 957 | Block Master |
-| 235 | 957 | Crystal Hoffman |
+| 235 | 957 | Keri Womack |
 | 236 | 955 | Angela Bonquiqui Dinish |
 | 237 | 951 | Cynthia Ward |
 | 238 | 944 | Kimberly Hauck-Rausch |
@@ -318,8 +318,8 @@
 | 310 | 773 | Diana Fitzwater |
 | 311 | 770 | Danielle Simmons |
 | 312 | 768 | Michele Morgan |
-| 313 | 767 | Ashley Lopez |
-| 314 | 767 | Fancy Twister |
+| 313 | 767 | Fancy Twister |
+| 314 | 767 | Ashley Lopez |
 | 315 | 763 | Heather Causey |
 | 316 | 763 | Beth |
 | 317 | 762 | Melissa McCall |
