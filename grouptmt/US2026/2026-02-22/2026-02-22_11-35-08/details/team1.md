@@ -54,8 +54,8 @@
 | 46 | 671 | Lawrence Belanger |
 | 47 | 663 | Drew Magnus |
 | 48 | 646 | Susanna Guerry |
-| 49 | 635 | Marianne Louise West |
-| 50 | 635 | Angel Fowler |
+| 49 | 635 | Angel Fowler |
+| 50 | 635 | Marianne Louise West |
 | 51 | 631 | comrade fish |
 | 52 | 627 | Katie Daniels |
 | 53 | 614 | Snappy Swiper |
@@ -120,8 +120,8 @@
 | 112 | 330 | Sweet Baker |
 | 113 | 326 | Monica Donato |
 | 114 | 321 | Maria C. Hernandez |
-| 115 | 319 | Patrick Luckenbill |
-| 116 | 319 | Deanna L Hermanson |
+| 115 | 319 | Deanna L Hermanson |
+| 116 | 319 | Patrick Luckenbill |
 | 117 | 318 | Jessica Sheehan |
 | 118 | 316 | Jennifer Hardman |
 | 119 | 316 | Ly Phethmany |
@@ -235,9 +235,9 @@
 | 227 | 180 | BigWeenie69 |
 | 228 | 180 | Beau Galvan |
 | 229 | 180 | Jessie Lynn |
-| 230 | 179 | Danielle Little-Daugherty |
-| 231 | 179 | femmefatale |
-| 232 | 179 | Erin Rosberg |
+| 230 | 179 | Erin Rosberg |
+| 231 | 179 | Danielle Little-Daugherty |
+| 232 | 179 | femmefatale |
 | 233 | 178 | Chad Atchley |
 | 234 | 177 | Perky Shiftsnap |
 | 235 | 177 | Sarah Marie |
@@ -252,8 +252,8 @@
 | 244 | 173 | Gabrielle Louise Malloch |
 | 245 | 171 | Greg Premoe |
 | 246 | 171 | David DeSantis |
-| 247 | 170 | Cece Ibarra |
-| 248 | 170 | Standia Civil |
+| 247 | 170 | Standia Civil |
+| 248 | 170 | Cece Ibarra |
 | 249 | 169 | Abbey Crespo |
 | 250 | 168 | Angela Fairbank |
 | 251 | 168 | Amber Stoker |

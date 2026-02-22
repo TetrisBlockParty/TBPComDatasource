@@ -290,8 +290,8 @@
 | 282 | 703 | Gold Rose |
 | 283 | 700 | Vincent Petrella |
 | 284 | 700 | Hong Tang |
-| 285 | 700 | Beverly Owens |
-| 286 | 700 | Rosemadder |
+| 285 | 700 | Rosemadder |
+| 286 | 700 | Beverly Owens |
 | 287 | 698 | Mighty Shatterfit |
 | 288 | 697 | Dreamy Blast |
 | 289 | 696 | Kathryn Townsley |
@@ -340,12 +340,12 @@
 | 332 | 627 | Victoria Moore-Smith |
 | 333 | 620 | Brandon Armstrong |
 | 334 | 617 | Leslie Ann Carter |
-| 335 | 613 | Breezy Filler |
-| 336 | 613 | Caitlyn Blackwell |
+| 335 | 613 | Caitlyn Blackwell |
+| 336 | 613 | Breezy Filler |
 | 337 | 613 | Ellie Jonas |
 | 338 | 611 | Em Chen |
-| 339 | 611 | Julio A Laracuente |
-| 340 | 611 | Carl Bradshaw |
+| 339 | 611 | Carl Bradshaw |
+| 340 | 611 | Julio A Laracuente |
 | 341 | 605 | Jelly |
 | 342 | 604 | Jessie McDougald |
 | 343 | 603 | Cassie Maynard |
@@ -389,8 +389,8 @@
 | 381 | 544 | Deidre Shaffer |
 | 382 | 544 | Leah Keesling |
 | 383 | 543 | Irene Jones |
-| 384 | 543 | Julie Kresal |
-| 385 | 543 | Vanessa Moreno |
+| 384 | 543 | Vanessa Moreno |
+| 385 | 543 | Julie Kresal |
 | 386 | 541 | g |
 | 387 | 540 | Dizzy Zone |
 | 388 | 538 | AISlop |
@@ -481,12 +481,12 @@
 | 473 | 465 | Davetta Sanford |
 | 474 | 464 | snkylnk |
 | 475 | 464 | Kiana Boschh |
-| 476 | 463 | Jaye EL Hunter |
-| 477 | 463 | Cody Nishimura |
+| 476 | 463 | Cody Nishimura |
+| 477 | 463 | Jaye EL Hunter |
 | 478 | 463 | Sue Leard |
 | 479 | 462 | Jarboe |
-| 480 | 462 | Daphne Jordan |
-| 481 | 462 | Amanda Ferrell |
+| 480 | 462 | Amanda Ferrell |
+| 481 | 462 | Daphne Jordan |
 | 482 | 460 | Tara Lynn Janes |
 | 483 | 459 | Melissa Kay Gibson |
 | 484 | 458 | Casper The Chonk |
@@ -991,8 +991,8 @@
 | 983 | 233 | Andrew Engman |
 | 984 | 232 | Chirpy Snapper |
 | 985 | 232 | P. D. Paige |
-| 986 | 231 | Vung Nguyen |
-| 987 | 231 | Michelle Fleming Luna |
+| 986 | 231 | Michelle Fleming Luna |
+| 987 | 231 | Vung Nguyen |
 | 988 | 231 | Stanley Vanekelenburg |
 | 989 | 231 | Emily Valentine |
 | 990 | 230 | lady |
@@ -1062,8 +1062,8 @@
 | 1054 | 217 | Trisha Gallagher |
 | 1055 | 217 | Wedance Fong |
 | 1056 | 217 | Christine Lockwood |
-| 1057 | 216 | Monica Wilson |
-| 1058 | 216 | Anthony McAlister |
+| 1057 | 216 | Anthony McAlister |
+| 1058 | 216 | Monica Wilson |
 | 1059 | 215 | Stacy Harper |
 | 1060 | 215 | Facuetoo |
 | 1061 | 214 | Cass Shirley |
