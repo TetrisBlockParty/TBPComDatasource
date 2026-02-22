@@ -216,8 +216,8 @@
 | 208 | 300 | Sherika C. McDaniels |
 | 209 | 298 | MsBee |
 | 210 | 297 | Jojo M |
-| 211 | 296 | Katrina Turner |
-| 212 | 296 | Ammmmmmy |
+| 211 | 296 | Ammmmmmy |
+| 212 | 296 | Katrina Turner |
 | 213 | 296 | Brandon Givens |
 | 214 | 295 | Marci Mize Fandrich |
 | 215 | 291 | Kristal C Lee |
@@ -269,16 +269,16 @@
 | 261 | 240 | Jimmie Clemons |
 | 262 | 238 | LaTanya GeminiondaRise Johnson |
 | 263 | 236 | Jess Bissett |
-| 264 | 234 | Nikki Pags |
-| 265 | 234 | Connie Mohler-Fair |
+| 264 | 234 | Connie Mohler-Fair |
+| 265 | 234 | Nikki Pags |
 | 266 | 233 | Josh Borquez |
 | 267 | 233 | Ray Lader |
 | 268 | 232 | Brenda Schmid Wood |
 | 269 | 232 | Donna |
 | 270 | 227 | Krystal Gerstberger |
 | 271 | 227 | Meowsa |
-| 272 | 225 | Dirtgirl27 |
-| 273 | 225 | Cozy Snaplink |
+| 272 | 225 | Cozy Snaplink |
+| 273 | 225 | Dirtgirl27 |
 | 274 | 224 | Quirky Dropzone |
 | 275 | 221 | Vaners |
 | 276 | 221 | Alice |

@@ -100,8 +100,8 @@
 | 92 | 404 | Courtney Cicoria |
 | 93 | 403 | shar |
 | 94 | 401 | Zippy Gridlock |
-| 95 | 396 | Alicia Bass |
-| 96 | 396 | Amy Suckarieh |
+| 95 | 396 | Amy Suckarieh |
+| 96 | 396 | Alicia Bass |
 | 97 | 392 | Ericca Eldridge |
 | 98 | 391 | Ramel Rhodes |
 | 99 | 390 | Carlton Unfiltered |
@@ -131,8 +131,8 @@
 | 123 | 294 | Kesha Brady |
 | 124 | 290 | 🥔🥔 Spudz |
 | 125 | 287 | Shannon Ferrari |
-| 126 | 286 | shark tato |
-| 127 | 286 | Daria Rycewicz |
+| 126 | 286 | Daria Rycewicz |
+| 127 | 286 | shark tato |
 | 128 | 283 | Brittney Orengo |
 | 129 | 281 | Meagan Nicole |
 | 130 | 278 | Desi Desporte |
@@ -246,8 +246,8 @@
 | 238 | 156 | Ultramarine |
 | 239 | 155 | AyeKay |
 | 240 | 154 | Zany Shatterer |
-| 241 | 153 | Empress Oasis |
-| 242 | 153 | Mr. Party |
+| 241 | 153 | Mr. Party |
+| 242 | 153 | Empress Oasis |
 | 243 | 152 | Austin Owens |
 | 244 | 152 | Faja |
 | 245 | 149 | Shainne Brewer |

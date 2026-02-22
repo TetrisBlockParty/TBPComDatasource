@@ -861,8 +861,8 @@
 | 853 | 263 | Amy Humphreys |
 | 854 | 263 | Sara Pennington |
 | 855 | 262 | Taren Cowan |
-| 856 | 261 | Dany Murillo |
-| 857 | 261 | Gina Gina |
+| 856 | 261 | Gina Gina |
+| 857 | 261 | Dany Murillo |
 | 858 | 261 | MrsClaudette Will'sIam Matthews |
 | 859 | 260 | Lynda Toland |
 | 860 | 260 | Michael David Hollis |
@@ -1411,8 +1411,8 @@
 | 1403 | 162 | Michelle Spires |
 | 1404 | 162 | Alice Samm |
 | 1405 | 162 | Sherilyn Huie |
-| 1406 | 162 | Delfina Marie Villasenor |
-| 1407 | 162 | LC Hamilton |
+| 1406 | 162 | LC Hamilton |
+| 1407 | 162 | Delfina Marie Villasenor |
 | 1408 | 161 | whitmama3220 |
 | 1409 | 161 | Dee Blokk |
 | 1410 | 161 | Hasty Riseclear |
@@ -1549,8 +1549,8 @@
 | 1541 | 146 | LML |
 | 1542 | 146 | Layla LS |
 | 1543 | 146 | Samuel Macon |
-| 1544 | 146 | Nutty Splitter |
-| 1545 | 146 | Kimmae Kimbrough |
+| 1544 | 146 | Kimmae Kimbrough |
+| 1545 | 146 | Nutty Splitter |
 | 1546 | 146 | Sherry Aguinaga |
 | 1547 | 146 | Brandy Sutton |
 | 1548 | 146 | Britt Woolston |
