@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Lucille Truesdale |
-| 34 | 843 | Shelly Chandler |
+| 33 | 843 | Shelly Chandler |
+| 34 | 843 | Lucille Truesdale |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -67,8 +67,8 @@
 | 59 | 636 | Dustee Craddock-Harrison |
 | 60 | 636 | Kimyatta Cavin |
 | 61 | 623 | Robin Getchel |
-| 62 | 614 | TheNeesh50 |
-| 63 | 614 | Justin Hannigan |
+| 62 | 614 | Justin Hannigan |
+| 63 | 614 | TheNeesh50 |
 | 64 | 599 | Brittney Griggs |
 | 65 | 593 | Lisa Davis |
 | 66 | 593 | Sammy Noguera |
@@ -215,8 +215,8 @@
 | 207 | 193 | Rio Rocha |
 | 208 | 192 | Shauna Havard |
 | 209 | 192 | Dizzy Matchzone |
-| 210 | 191 | Sam Bishop |
-| 211 | 191 | Klo |
+| 210 | 191 | Klo |
+| 211 | 191 | Sam Bishop |
 | 212 | 190 | Cheery Risebuilder |
 | 213 | 189 | Calvin Dennis |
 | 214 | 189 | Stacey Stano |
@@ -252,8 +252,8 @@
 | 244 | 161 | Jenny Wells-Oakley |
 | 245 | 160 | Ellen Durfee |
 | 246 | 160 | Brittany Marsh |
-| 247 | 159 | DonMega |
-| 248 | 159 | Marcus Todd |
+| 247 | 159 | Marcus Todd |
+| 248 | 159 | DonMega |
 | 249 | 158 | Chair |
 | 250 | 157 | KayM |
 | 251 | 157 | scott |
@@ -339,8 +339,8 @@
 | 331 | 128 | Jeremy Steines |
 | 332 | 128 | Silly Zonebuilder |
 | 333 | 127 | Robert Rodriguez |
-| 334 | 126 | Cheryl Johnson |
-| 335 | 126 | PAPatty |
+| 334 | 126 | PAPatty |
+| 335 | 126 | Cheryl Johnson |
 | 336 | 126 | icequeenx |
 | 337 | 125 | Steph Marie |
 | 338 | 125 | Ann G. Carrillo |

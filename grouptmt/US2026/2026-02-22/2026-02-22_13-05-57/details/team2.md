@@ -383,8 +383,8 @@
 | 375 | 561 | Irene Jones |
 | 376 | 561 | Traci Johnson |
 | 377 | 560 | Phil J. Grombliniak |
-| 378 | 558 | Mikayala Szaz |
-| 379 | 558 | Libby Hicks |
+| 378 | 558 | Libby Hicks |
+| 379 | 558 | Mikayala Szaz |
 | 380 | 556 | Slip |
 | 381 | 554 | Santana Miyagi |
 | 382 | 554 | Rachael Senard |
@@ -663,8 +663,8 @@
 | 655 | 357 | Shannon Byrd |
 | 656 | 357 | Tristan Szolek |
 | 657 | 355 | Amanda Perez |
-| 658 | 354 | Rachel Kaminski |
-| 659 | 354 | Rickey Johnson |
+| 658 | 354 | Rickey Johnson |
+| 659 | 354 | Rachel Kaminski |
 | 660 | 352 | Rose Fx |
 | 661 | 352 | Jean FU Jagielski |
 | 662 | 352 | ruth |
@@ -969,8 +969,8 @@
 | 961 | 244 | David Rehse |
 | 962 | 244 | Jumpy Gridclear |
 | 963 | 244 | Nakiiya Dreamcatcher Gore |
-| 964 | 244 | David M. Platz |
-| 965 | 244 | Erika Deer Kauffman |
+| 964 | 244 | Erika Deer Kauffman |
+| 965 | 244 | David M. Platz |
 | 966 | 244 | Brooklynn Huckaby |
 | 967 | 243 | Albert McKnight |
 | 968 | 242 | Beautae |
@@ -1071,8 +1071,8 @@
 | 1063 | 222 | Daring Lift |
 | 1064 | 221 | Snazzy Basepiece |
 | 1065 | 221 | Chummy Caster |
-| 1066 | 220 | Perk Diggler |
-| 1067 | 220 | Natalie M Wells |
+| 1066 | 220 | Natalie M Wells |
+| 1067 | 220 | Perk Diggler |
 | 1068 | 220 | Amy Reynolds |
 | 1069 | 220 | HarleyJane |
 | 1070 | 220 | Marcie McLain Dodd |
@@ -1093,9 +1093,9 @@
 | 1085 | 215 | Stacy Harper |
 | 1086 | 215 | Alphia Price |
 | 1087 | 214 | Michele Phelps |
-| 1088 | 214 | Dane Reing |
-| 1089 | 214 | FloJo |
-| 1090 | 214 | Cass Shirley |
+| 1088 | 214 | Cass Shirley |
+| 1089 | 214 | Dane Reing |
+| 1090 | 214 | FloJo |
 | 1091 | 214 | Brandon McDonald |
 | 1092 | 213 | Hannah Leigh Pelofsky |
 | 1093 | 213 | Frank Castle |

@@ -180,8 +180,8 @@
 | 172 | 375 | Shunta Jacobs |
 | 173 | 374 | Sherry Ogden |
 | 174 | 371 | Michael Nowogorski |
-| 175 | 370 | Santeria Trece Candles |
-| 176 | 370 | Danielle Allison |
+| 175 | 370 | Danielle Allison |
+| 176 | 370 | Santeria Trece Candles |
 | 177 | 368 | Stephanie Woods |
 | 178 | 366 | Adrian Marcel Pate |
 | 179 | 362 | Darlene McMillan |
@@ -189,8 +189,8 @@
 | 181 | 359 | Dapper Snap |
 | 182 | 358 | RickyG |
 | 183 | 358 | Chummy Caster |
-| 184 | 357 | Tom Nault |
-| 185 | 357 | Stephanie Burtin |
+| 184 | 357 | Stephanie Burtin |
+| 185 | 357 | Tom Nault |
 | 186 | 355 | Tessina Dewey-Mancino |
 | 187 | 353 | Nora Rogers |
 | 188 | 348 | Chasity |
@@ -251,8 +251,8 @@
 | 243 | 267 | Terry Jo Jones |
 | 244 | 263 | Brittany |
 | 245 | 262 | Joe-Maggie Mathews |
-| 246 | 261 | Tiffany Ford |
-| 247 | 261 | Tasha Wesson-Torrence |
+| 246 | 261 | Tasha Wesson-Torrence |
+| 247 | 261 | Tiffany Ford |
 | 248 | 261 | Marquita Sheard |
 | 249 | 260 | Grams |
 | 250 | 259 | Nikki Pags |
@@ -292,14 +292,14 @@
 | 284 | 220 | rosy |
 | 285 | 218 | Michael Lucado |
 | 286 | 217 | Angela Scott |
-| 287 | 216 | Twisty Brick LT |
-| 288 | 216 | Cheryl Hinch Tenbrook |
+| 287 | 216 | Cheryl Hinch Tenbrook |
+| 288 | 216 | Twisty Brick LT |
 | 289 | 215 | IamJust Neyamijah Washington Sr. |
 | 290 | 214 | Amy Fuller Heaton |
 | 291 | 214 | Rebel124 |
 | 292 | 213 | Nicholas Roddy |
-| 293 | 212 | Desiree Gold |
-| 294 | 212 | Sunny Rotater |
+| 293 | 212 | Sunny Rotater |
+| 294 | 212 | Desiree Gold |
 | 295 | 212 | Jana Polk |
 | 296 | 211 | Khaleada McGill Banks |
 | 297 | 211 | Velma Mull |
@@ -333,8 +333,8 @@
 | 325 | 193 | Lys |
 | 326 | 193 | Clever Shiftsnap |
 | 327 | 192 | Ryan Williams |
-| 328 | 192 | Melanie Sherwood |
-| 329 | 192 | Kelly Ann Child |
+| 328 | 192 | Kelly Ann Child |
+| 329 | 192 | Melanie Sherwood |
 | 330 | 191 | Becca Engle |
 | 331 | 191 | Philip Rock |
 | 332 | 189 | Katie Leigh Blankenship |

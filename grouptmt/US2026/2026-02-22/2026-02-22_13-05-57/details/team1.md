@@ -94,8 +94,8 @@
 | 86 | 399 | Nerdy Linkblock |
 | 87 | 397 | Tdub |
 | 88 | 390 | Goose egg |
-| 89 | 390 | Lori Bales |
-| 90 | 390 | Candy Jones |
+| 89 | 390 | Candy Jones |
+| 90 | 390 | Lori Bales |
 | 91 | 389 | Trina Gee |
 | 92 | 383 | Loony Fitzone |
 | 93 | 382 | Jacqueline Williams |
@@ -166,8 +166,8 @@
 | 158 | 253 | Witty Builderfit |
 | 159 | 252 | Dena Kayy |
 | 160 | 247 | Tana |
-| 161 | 246 | Mike Ames |
-| 162 | 246 | Lakeisha Chapman |
+| 161 | 246 | Lakeisha Chapman |
+| 162 | 246 | Mike Ames |
 | 163 | 244 | Marianita Garcia |
 | 164 | 243 | Trippy Redd |
 | 165 | 242 | ALFD |
@@ -177,10 +177,10 @@
 | 169 | 232 | Kimberly Garcia |
 | 170 | 230 | Billie Dawn Sparks |
 | 171 | 230 | Frothy Pattern |
-| 172 | 229 | Chris K |
-| 173 | 229 | David Lutcher |
-| 174 | 226 | Kandae |
-| 175 | 226 | Sleepysloath5745 |
+| 172 | 229 | David Lutcher |
+| 173 | 229 | Chris K |
+| 174 | 226 | Sleepysloath5745 |
+| 175 | 226 | Kandae |
 | 176 | 223 | Erez Yosef |
 | 177 | 222 | Constance Risner |
 | 178 | 219 | Chuck Gannon |
@@ -195,8 +195,8 @@
 | 187 | 210 | Giggly Builderline |
 | 188 | 209 | Debbie Davis |
 | 189 | 209 | Cece Ibarra |
-| 190 | 208 | Bouncy Grid |
-| 191 | 208 | Donna Addison Williams |
+| 190 | 208 | Donna Addison Williams |
+| 191 | 208 | Bouncy Grid |
 | 192 | 207 | Brenda Alexander |
 | 193 | 207 | Leslie Bush Yarbrough |
 | 194 | 206 | BadG52 |
@@ -233,8 +233,8 @@
 | 225 | 187 | Cool Towerzone |
 | 226 | 187 | Jessica Weed |
 | 227 | 186 | Margo Wagner |
-| 228 | 184 | Desiree Deschaine Havee |
-| 229 | 184 | Chris Sigurdson |
+| 228 | 184 | Chris Sigurdson |
+| 229 | 184 | Desiree Deschaine Havee |
 | 230 | 183 | Amy Hess |
 | 231 | 183 | Andrew Boone |
 | 232 | 182 | Bird Person |
@@ -311,9 +311,9 @@
 | 303 | 143 | Guest |
 | 304 | 142 | Plucky Stacky |
 | 305 | 142 | Jerry Danowski |
-| 306 | 141 | Kayla Marie Stevenson |
-| 307 | 141 | Наталья Солоид |
-| 308 | 139 | Larry Tilton |
+| 306 | 141 | Наталья Солоид |
+| 307 | 141 | Kayla Marie Stevenson |
+| 308 | 139 | LD1 |
 | 309 | 139 | Aimee Horton |
 | 310 | 139 | Larry Tilton |
 | 311 | 138 | Ruthie Mahoney Saunders-Browne |
