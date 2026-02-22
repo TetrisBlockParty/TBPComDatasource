@@ -94,9 +94,9 @@
 | 86 | 608 | Danielle Becker |
 | 87 | 591 | Jesse Olive |
 | 88 | 588 | yoyo |
-| 89 | 582 | Jay Horn |
-| 90 | 582 | Natasha Jones |
-| 91 | 582 | Speedy Bridger |
+| 89 | 582 | Natasha Jones |
+| 90 | 582 | Speedy Bridger |
+| 91 | 582 | Jay Horn |
 | 92 | 581 | Danielle Mogg |
 | 93 | 579 | Jd Morris |
 | 94 | 566 | Dolores Falco |
@@ -142,14 +142,14 @@
 | 134 | 409 | Karon Griffin |
 | 135 | 407 | Joye Sims Binion |
 | 136 | 405 | Michelle |
-| 137 | 403 | Scott Lindsay |
-| 138 | 403 | Christine Filson |
+| 137 | 403 | Christine Filson |
+| 138 | 403 | Scott Lindsay |
 | 139 | 402 | Shannon Matthew Byers |
 | 140 | 401 | Katie Knaus |
 | 141 | 400 | Luciana Braganca Vieira |
 | 142 | 400 | Aaron Pitkin |
-| 143 | 399 | Marcie Bressler |
-| 144 | 399 | Mcathen |
+| 143 | 399 | Mcathen |
+| 144 | 399 | Marcie Bressler |
 | 145 | 397 | Annie Déè |
 | 146 | 392 | Tasha Gillespie |
 | 147 | 391 | Calista Jo Dickson |
@@ -243,9 +243,9 @@
 | 235 | 256 | Tiffany Davie |
 | 236 | 251 | Sabrina Hardrick |
 | 237 | 250 | fraulila |
-| 238 | 249 | Annie Marie |
-| 239 | 249 | Danielle Balcom |
-| 240 | 249 | JerseyJess |
+| 238 | 249 | JerseyJess |
+| 239 | 249 | Annie Marie |
+| 240 | 249 | Danielle Balcom |
 | 241 | 246 | Eon Harris |
 | 242 | 246 | Peppy Shifter |
 | 243 | 245 | Latoya Mayne |
@@ -317,8 +317,8 @@
 | 309 | 178 | Jess Dearborn |
 | 310 | 178 | Jennifer Alvey |
 | 311 | 177 | Cozy Snaplink |
-| 312 | 176 | Emma |
-| 313 | 176 | Melissa Orth Hunter |
+| 312 | 176 | Melissa Orth Hunter |
+| 313 | 176 | Emma |
 | 314 | 175 | Eileen Brady Thurber |
 | 315 | 174 | Betty Rosas |
 | 316 | 174 | Lesley Perez |
@@ -345,14 +345,14 @@
 | 337 | 161 | Michael Johnson |
 | 338 | 161 | Bouncy Blockbuilder |
 | 339 | 160 | Rachel |
-| 340 | 159 | Joshua David Huie |
-| 341 | 159 | Ashley Rufus Bythcez |
-| 342 | 159 | Salena Whitlock |
+| 340 | 159 | Salena Whitlock |
+| 341 | 159 | Joshua David Huie |
+| 342 | 159 | Ashley Rufus Bythcez |
 | 343 | 158 | Willow |
-| 344 | 157 | Katrina E Jelks |
-| 345 | 157 | Angel Mendez |
-| 346 | 156 | Ava Petito |
-| 347 | 156 | kacihall |
+| 344 | 157 | Angel Mendez |
+| 345 | 157 | Katrina E Jelks |
+| 346 | 156 | kacihall |
+| 347 | 156 | Ava Petito |
 | 348 | 156 | Nichole Greene |
 | 349 | 155 | Chummy Caster |
 | 350 | 155 | Michael Leblanc |

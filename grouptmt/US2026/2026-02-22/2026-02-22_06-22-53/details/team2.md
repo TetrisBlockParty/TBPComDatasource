@@ -281,8 +281,8 @@
 | 273 | 679 | Dee |
 | 274 | 678 | Scott Treadway |
 | 275 | 677 | Mema |
-| 276 | 675 | Tommy Tha Boss Gunz |
-| 277 | 675 | Brenda Utphall |
+| 276 | 675 | Brenda Utphall |
+| 277 | 675 | Tommy Tha Boss Gunz |
 | 278 | 674 | Kathryn Townsley |
 | 279 | 673 | Claire Noland |
 | 280 | 672 | Danielle Simmons |

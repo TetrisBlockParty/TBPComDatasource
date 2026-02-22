@@ -78,8 +78,8 @@
 | 70 | 417 | Lori Sanders- Davis |
 | 71 | 415 | Spunky Piecebuilder |
 | 72 | 413 | Steve Schneider |
-| 73 | 412 | Jazzy Framezone |
-| 74 | 412 | Anaid Sanchez |
+| 73 | 412 | Anaid Sanchez |
+| 74 | 412 | Jazzy Framezone |
 | 75 | 406 | Yvonne Marie |
 | 76 | 390 | Candy Jones |
 | 77 | 390 | Cynthia Bradley |
@@ -135,8 +135,8 @@
 | 127 | 278 | Rachael |
 | 128 | 276 | Dandy Basegrid |
 | 129 | 265 | SkipTheSadSauce |
-| 130 | 264 | Lexuriuos Lifestlye |
-| 131 | 264 | Jenny Gingrich Fuentes |
+| 130 | 264 | Jenny Gingrich Fuentes |
+| 131 | 264 | Lexuriuos Lifestlye |
 | 132 | 263 | Sharon Reynolds |
 | 133 | 257 | Amanda Jarnagin |
 | 134 | 256 | David Miller |
@@ -207,13 +207,13 @@
 | 199 | 179 | Danielle Little-Daugherty |
 | 200 | 179 | femmefatale |
 | 201 | 178 | Chad Atchley |
-| 202 | 177 | Jacqueline Unique |
-| 203 | 177 | Irual Hctrab |
+| 202 | 177 | Irual Hctrab |
+| 203 | 177 | Jacqueline Unique |
 | 204 | 176 | Mel Hogan |
 | 205 | 175 | John Barron |
 | 206 | 174 | Cheeky Pop |
-| 207 | 173 | Rico Rico |
-| 208 | 173 | Gabrielle Louise Malloch |
+| 207 | 173 | Gabrielle Louise Malloch |
+| 208 | 173 | Rico Rico |
 | 209 | 171 | Greg Premoe |
 | 210 | 171 | David DeSantis |
 | 211 | 170 | Cece Ibarra |
@@ -248,14 +248,14 @@
 | 240 | 147 | Davery Spencer Adair |
 | 241 | 147 | J.F. Fields |
 | 242 | 145 | Tipsy Riseclear |
-| 243 | 144 | Gary Gobin |
-| 244 | 144 | Miguel Teixeira |
-| 245 | 144 | Toph |
-| 246 | 144 | Fmp |
-| 247 | 143 | Guest |
-| 248 | 143 | Herm Junior |
-| 249 | 142 | Jerry Danowski |
-| 250 | 142 | Colleen Wise |
+| 243 | 144 | Miguel Teixeira |
+| 244 | 144 | Gary Gobin |
+| 245 | 144 | Fmp |
+| 246 | 144 | Toph |
+| 247 | 143 | Herm Junior |
+| 248 | 143 | Guest |
+| 249 | 142 | Colleen Wise |
+| 250 | 142 | Jerry Danowski |
 | 251 | 140 | Jessica Russell |
 | 252 | 139 | Aimee Horton |
 | 253 | 139 | Flashy Rotator |
@@ -265,10 +265,10 @@
 | 257 | 138 | Mark Smith |
 | 258 | 138 | Giddy Cascade |
 | 259 | 137 | Marci Sanders |
-| 260 | 137 | Jo Kerley |
-| 261 | 137 | Cody Gates |
-| 262 | 136 | Breanna Luna |
-| 263 | 136 | Jessie |
+| 260 | 137 | Cody Gates |
+| 261 | 137 | Jo Kerley |
+| 262 | 136 | Jessie |
+| 263 | 136 | Breanna Luna |
 | 264 | 135 | Chantelle Ceno |
 | 265 | 133 | Nerdy Curvebuilder |
 | 266 | 132 | Layzietyme |
