@@ -237,16 +237,16 @@
 | 229 | 619 | Jamie Otero |
 | 230 | 618 | Brenda Utphall |
 | 231 | 612 | Brandon Armstrong |
-| 232 | 608 | goofinoff |
-| 233 | 608 | Sommer Shope |
+| 232 | 608 | Sommer Shope |
+| 233 | 608 | goofinoff |
 | 234 | 606 | Ellie Jonas |
 | 235 | 605 | Jelly |
 | 236 | 603 | Cassie Maynard |
 | 237 | 596 | Maegan Beaule |
 | 238 | 589 | Thomas Hedrick |
 | 239 | 587 | Hyper Cluster |
-| 240 | 586 | Hoppy Brickmatch |
-| 241 | 586 | Stephen Stephen |
+| 240 | 586 | Stephen Stephen |
+| 241 | 586 | Hoppy Brickmatch |
 | 242 | 585 | Jánine Riggs |
 | 243 | 583 | Jessicah Myers |
 | 244 | 583 | Steve Grotto |
@@ -469,8 +469,8 @@
 | 461 | 341 | Daniel Amos |
 | 462 | 341 | Traci Johnson |
 | 463 | 339 | Cool Rollpiece |
-| 464 | 338 | Peppy Snapfall |
-| 465 | 338 | Shorty |
+| 464 | 338 | Shorty |
+| 465 | 338 | Peppy Snapfall |
 | 466 | 337 | Sassy Pattern |
 | 467 | 336 | Hong Tang |
 | 468 | 335 | Brooke Leigh Strube |
@@ -504,21 +504,21 @@
 | 496 | 317 | Zombi3 |
 | 497 | 316 | Mikayala Szaz |
 | 498 | 314 | James Zaragoza |
-| 499 | 314 | Party d |
-| 500 | 314 | Amanda West |
+| 499 | 314 | Amanda West |
+| 500 | 314 | Party d |
 | 501 | 313 | Natasha Edmonds |
 | 502 | 312 | Michelle Pike |
-| 503 | 312 | Andrea Maher |
-| 504 | 312 | Justin Hines |
+| 503 | 312 | Justin Hines |
+| 504 | 312 | Andrea Maher |
 | 505 | 311 | Kitybox |
 | 506 | 311 | Mary Marie |
-| 507 | 310 | Lonne Emade |
-| 508 | 310 | Cheeky Brickmatch |
+| 507 | 310 | Cheeky Brickmatch |
+| 508 | 310 | Lonne Emade |
 | 509 | 310 | Sharon Mills |
 | 510 | 310 | Audra Williams |
-| 511 | 308 | Christina Jarvis-Swarbrick |
-| 512 | 308 | Ann Knutson Anderson |
-| 513 | 308 | Claire |
+| 511 | 308 | Ann Knutson Anderson |
+| 512 | 308 | Claire |
+| 513 | 308 | Christina Jarvis-Swarbrick |
 | 514 | 307 | Diallo Sparkman |
 | 515 | 305 | Zany Clusterbuilder |
 | 516 | 305 | Samantha Scibelli |
@@ -634,8 +634,8 @@
 | 626 | 255 | Hillary Crawford |
 | 627 | 255 | ElizabethAnn Dickinson |
 | 628 | 254 | Elizabeth Diraffaele |
-| 629 | 253 | Tansaria Couch-Butler |
-| 630 | 253 | Christine Bollig |
+| 629 | 253 | Christine Bollig |
+| 630 | 253 | Tansaria Couch-Butler |
 | 631 | 252 | Sheniya Spurgeon |
 | 632 | 252 | Aleasha M Brown |
 | 633 | 251 | Gina Caulder |
@@ -879,8 +879,8 @@
 | 871 | 180 | Kelli Hackett |
 | 872 | 180 | Zany Dashpiece |
 | 873 | 180 | Peter Palestino |
-| 874 | 179 | Cat |
-| 875 | 179 | Albert McKnight |
+| 874 | 179 | Albert McKnight |
+| 875 | 179 | Cat |
 | 876 | 179 | Andrew Bratton-Tomes |
 | 877 | 178 | BTA |
 | 878 | 178 | William Hunt |

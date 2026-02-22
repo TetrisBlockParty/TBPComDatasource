@@ -115,19 +115,19 @@
 | 107 | 255 | Lindsay Ball |
 | 108 | 230 | Daria Rycewicz |
 | 109 | 230 | Autum Leigh |
-| 110 | 230 | Daria Rycewicz |
+| 110 | 230 | Lucas J Sutton |
 | 111 | 222 | Joeliecea Cobb |
 | 112 | 221 | Alyssa Papen |
-| 113 | 218 | Antony Dwayne Beasley |
-| 114 | 218 | Casey Grabner |
+| 113 | 218 | Casey Grabner |
+| 114 | 218 | Antony Dwayne Beasley |
 | 115 | 216 | Chaz Duncan |
 | 116 | 213 | loulou |
 | 117 | 212 | Calvin Cannon |
 | 118 | 212 | Mike Solo |
 | 119 | 211 | Dizzy Tiley |
 | 120 | 210 | Damn Libra |
-| 121 | 208 | Twisty Cascadezone |
-| 122 | 208 | Chastity Mitchell |
+| 121 | 208 | Chastity Mitchell |
+| 122 | 208 | Twisty Cascadezone |
 | 123 | 206 | Mylo Lipscomb |
 | 124 | 205 | Sarah Neathery |
 | 125 | 204 | Dana Scott |

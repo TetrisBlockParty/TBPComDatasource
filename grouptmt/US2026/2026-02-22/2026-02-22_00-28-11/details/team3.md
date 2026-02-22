@@ -126,8 +126,8 @@
 | 118 | 389 | FuzzyNavel |
 | 119 | 386 | Katie Knaus |
 | 120 | 383 | Jesse Olive |
-| 121 | 378 | Tasha Schriewer |
-| 122 | 378 | Makelini Mausia |
+| 121 | 378 | Makelini Mausia |
+| 122 | 378 | Tasha Schriewer |
 | 123 | 374 | Loopy Clusterer |
 | 124 | 368 | Stephanie Blkpep Davidson |
 | 125 | 368 | Stephanie Woods |
@@ -295,7 +295,7 @@
 | 287 | 146 | Tony Waters |
 | 288 | 146 | Ava Petito |
 | 289 | 145 | Bryan Byrd |
-| 290 | 144 | Tenisha Semidey |
+| 290 | 144 | Funky Jumper |
 | 291 | 144 | fraulila |
 | 292 | 144 | Tenisha Semidey |
 | 293 | 143 | Alice |
