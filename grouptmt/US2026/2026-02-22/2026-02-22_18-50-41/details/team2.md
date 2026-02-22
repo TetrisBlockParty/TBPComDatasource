@@ -190,8 +190,8 @@
 | 182 | 1141 | Adam Erikson |
 | 183 | 1138 | Megan Ferguson Leone |
 | 184 | 1132 | Anna Edwards |
-| 185 | 1131 | Stacey Clement |
-| 186 | 1131 | Prado |
+| 185 | 1131 | Prado |
+| 186 | 1131 | Stacey Clement |
 | 187 | 1117 | Ricardo Burton |
 | 188 | 1105 | Nerdy Clearfit |
 | 189 | 1103 | William Meussner |
@@ -266,8 +266,8 @@
 | 258 | 875 | Jamie Otero |
 | 259 | 874 | Giggy Blocker |
 | 260 | 872 | Felicia Lynn |
-| 261 | 867 | Peppy Zone |
-| 262 | 867 | Michele Gabriel |
+| 261 | 867 | Michele Gabriel |
+| 262 | 867 | Peppy Zone |
 | 263 | 865 | Kristin Gower |
 | 264 | 862 | Brittany Radaszewski |
 | 265 | 860 | Sheniya Spurgeon |
@@ -444,8 +444,8 @@
 | 436 | 567 | Michelle Fields |
 | 437 | 566 | Leah Keesling |
 | 438 | 565 | Steve Man |
-| 439 | 565 | Irene Jones |
-| 440 | 565 | Jaycee |
+| 439 | 565 | Jaycee |
+| 440 | 565 | Irene Jones |
 | 441 | 563 | snkylnk |
 | 442 | 561 | AISlop |
 | 443 | 560 | Johnny Yeates |
@@ -609,15 +609,15 @@
 | 601 | 434 | bbv |
 | 602 | 432 | Abimbola Bimbo |
 | 603 | 432 | Lucy Marshall |
-| 604 | 431 | Quinn |
-| 605 | 431 | Hunter Connors |
+| 604 | 431 | Hunter Connors |
+| 605 | 431 | Quinn |
 | 606 | 429 | Goofy Catcher |
 | 607 | 429 | Tabs Reichert |
 | 608 | 429 | Angel Hunnewell |
 | 609 | 428 | Shyenn Gadsby |
 | 610 | 428 | Lynda Toland |
-| 611 | 427 | Destiny Cozier |
-| 612 | 427 | Sabrina Burton |
+| 611 | 427 | Sabrina Burton |
+| 612 | 427 | Destiny Cozier |
 | 613 | 426 | De Hawkins |
 | 614 | 426 | Ashley Dow |
 | 615 | 426 | Joel Rosado |

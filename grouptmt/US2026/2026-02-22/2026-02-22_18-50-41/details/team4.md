@@ -70,8 +70,8 @@
 | 62 | 698 | Anthony Bryan Riva |
 | 63 | 675 | D3TROITB0RN74 |
 | 64 | 671 | Kimyatta Cavin |
-| 65 | 664 | loulou |
-| 66 | 664 | Valerie Roberts |
+| 65 | 664 | Valerie Roberts |
+| 66 | 664 | loulou |
 | 67 | 659 | Jonathan Kimbrough |
 | 68 | 654 | Chilly Line |
 | 69 | 647 | KM8 |
@@ -139,8 +139,8 @@
 | 131 | 338 | Lucas J Sutton |
 | 132 | 336 | Austin Owens |
 | 133 | 336 | Jessica Bohlken |
-| 134 | 332 | HastyGrabber |
-| 135 | 332 | Desi Desporte |
+| 134 | 332 | Desi Desporte |
+| 135 | 332 | HastyGrabber |
 | 136 | 330 | David Lay |
 | 137 | 328 | Leslie Nicole |
 | 138 | 328 | Kris Bartlett |
@@ -292,8 +292,8 @@
 | 284 | 166 | KimoKoala |
 | 285 | 166 | Megan Cutshaw |
 | 286 | 165 | Brittany Marsh |
-| 287 | 165 | Zappy Buildgrid |
-| 288 | 165 | Amanda Christine |
+| 287 | 165 | Amanda Christine |
+| 288 | 165 | Zappy Buildgrid |
 | 289 | 164 | Marvetta Williams |
 | 290 | 163 | Ellen Durfee |
 | 291 | 163 | Joseph Edmonson |

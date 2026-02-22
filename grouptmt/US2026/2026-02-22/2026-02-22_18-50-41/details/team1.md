@@ -94,8 +94,8 @@
 | 86 | 456 | Arianna O'Brien |
 | 87 | 453 | Brandi Huntington |
 | 88 | 448 | Loony Fitzone |
-| 89 | 444 | Hyper |
-| 90 | 444 | Lexuriuos Lifestlye |
+| 89 | 444 | Lexuriuos Lifestlye |
+| 90 | 444 | Hyper |
 | 91 | 443 | Steve Schneider |
 | 92 | 439 | Trina Gee |
 | 93 | 436 | Tonya Beasley |
@@ -140,8 +140,8 @@
 | 132 | 340 | Tanya Carpenter-Reynolds |
 | 133 | 336 | Elaine Elaine |
 | 134 | 334 | Jaimie Lynn |
-| 135 | 333 | GATOR |
-| 136 | 333 | Gracie |
+| 135 | 333 | Gracie |
+| 136 | 333 | GATOR |
 | 137 | 332 | Lehrin Maria |
 | 138 | 332 | Kristen Gideon |
 | 139 | 328 | Fmp |
@@ -236,8 +236,8 @@
 | 228 | 217 | Jason Savage |
 | 229 | 216 | Chad Atchley |
 | 230 | 216 | Shauntina Burke |
-| 231 | 215 | Standia Civil |
-| 232 | 215 | Shaykmia |
+| 231 | 215 | Shaykmia |
+| 232 | 215 | Standia Civil |
 | 233 | 215 | Panda Thagreat |
 | 234 | 213 | Shanae Grant |
 | 235 | 213 | Speedy Liney |
@@ -335,7 +335,7 @@
 | 327 | 162 | Strig |
 | 328 | 162 | Jo Kerley |
 | 329 | 161 | SavageBooty98 |
-| 330 | 160 | Debbie Kane |
+| 330 | 160 | Plucky Stacky |
 | 331 | 160 | Sunny Catcher |
 | 332 | 160 | Mitchel White |
 | 333 | 160 | Tedashi |
