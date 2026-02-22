@@ -180,8 +180,8 @@
 | 172 | 1260 | Joshua Sommerville |
 | 173 | 1257 | Michele Gabriel |
 | 174 | 1242 | Mischelle Clay |
-| 175 | 1232 | Groovy Puzzle |
-| 176 | 1232 | Ambyre Patterson |
+| 175 | 1232 | Ambyre Patterson |
+| 176 | 1232 | Groovy Puzzle |
 | 177 | 1230 | Megan Garrick |
 | 178 | 1224 | Liberty |
 | 179 | 1211 | Lucky Ladybug |
@@ -225,8 +225,8 @@
 | 217 | 1067 | Jodi Blake |
 | 218 | 1062 | Crystal Slaughter |
 | 219 | 1058 | Jennifer Kistner |
-| 220 | 1057 | RAEPR05 |
-| 221 | 1057 | Desiree Harris Rosch |
+| 220 | 1057 | Desiree Harris Rosch |
+| 221 | 1057 | RAEPR05 |
 | 222 | 1056 | Dolores Russworn |
 | 223 | 1048 | Desiree Anderson |
 | 224 | 1045 | Lourisha |
@@ -328,8 +328,8 @@
 | 320 | 800 | Danielle Johnson-Chandler |
 | 321 | 799 | Joy LaJeunesse |
 | 322 | 797 | Offonar Facey |
-| 323 | 793 | Lisa Ongtowasruk |
-| 324 | 793 | Heather Schelkopf |
+| 323 | 793 | Heather Schelkopf |
+| 324 | 793 | Lisa Ongtowasruk |
 | 325 | 790 | Brenda Pierpoint |
 | 326 | 790 | Jackie Lucas |
 | 327 | 788 | Erika Densmore |
@@ -337,8 +337,8 @@
 | 329 | 782 | Beth |
 | 330 | 781 | Cassie Mercer |
 | 331 | 777 | Samantha Jo |
-| 332 | 777 | Jessicah Myers |
-| 333 | 777 | Tesha Oldaker |
+| 332 | 777 | Tesha Oldaker |
+| 333 | 777 | Jessicah Myers |
 | 334 | 774 | Ginnell Browner |
 | 335 | 774 | Ashley Dow |
 | 336 | 773 | Diana Fitzwater |
@@ -389,12 +389,12 @@
 | 381 | 700 | Beverly Owens |
 | 382 | 700 | Vincent Petrella |
 | 383 | 699 | Dannette Goldberg-Richards |
-| 384 | 698 | Breezy Filler |
-| 385 | 698 | Joce Lynn |
+| 384 | 698 | Joce Lynn |
+| 385 | 698 | Breezy Filler |
 | 386 | 698 | Spunkysmom |
 | 387 | 697 | Ashle Scranton |
-| 388 | 695 | Lakeysha Dortch |
-| 389 | 695 | Arkei Luster |
+| 388 | 695 | Arkei Luster |
+| 389 | 695 | Lakeysha Dortch |
 | 390 | 688 | Poldo Ilano |
 | 391 | 687 | Amber Brion |
 | 392 | 686 | Ashley Guernsey-Martin |
@@ -449,8 +449,8 @@
 | 441 | 616 | Jackie Avila |
 | 442 | 615 | Julio A Laracuente |
 | 443 | 614 | Emilee Burke |
-| 444 | 613 | Tonya Lee |
-| 445 | 613 | Lylymom |
+| 444 | 613 | Lylymom |
+| 445 | 613 | Tonya Lee |
 | 446 | 613 | Ann Matzkanin |
 | 447 | 611 | Biggest thing |
 | 448 | 605 | Santana Miyagi |

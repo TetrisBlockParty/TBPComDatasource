@@ -95,8 +95,8 @@
 | 87 | 849 | Danielle Becker |
 | 88 | 848 | Patricia Gadsden |
 | 89 | 847 | Rosalie Call Kehlenbeck |
-| 90 | 838 | MissTaylor |
-| 91 | 838 | Sarajane Lokan |
+| 90 | 838 | Sarajane Lokan |
+| 91 | 838 | MissTaylor |
 | 92 | 835 | Snappy Glidepiece |
 | 93 | 831 | Angeline Joseph |
 | 94 | 830 | Stephanie Allmon |
@@ -183,8 +183,8 @@
 | 175 | 464 | Michelle |
 | 176 | 464 | Makelini Mausia |
 | 177 | 461 | Shunta Jacobs |
-| 178 | 460 | Danielle Allison |
-| 179 | 460 | Araceli Parra |
+| 178 | 460 | Araceli Parra |
+| 179 | 460 | Danielle Allison |
 | 180 | 458 | Danielle Rhoades |
 | 181 | 457 | Shannon Matthew Byers |
 | 182 | 457 | Jim Mathews |

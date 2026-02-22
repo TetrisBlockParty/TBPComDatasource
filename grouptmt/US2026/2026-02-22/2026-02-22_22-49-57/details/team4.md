@@ -74,8 +74,8 @@
 | 66 | 704 | Crystal Carroll |
 | 67 | 701 | D3TROITB0RN74 |
 | 68 | 671 | Kimyatta Cavin |
-| 69 | 664 | Valerie Roberts |
-| 70 | 664 | Julian Garcia |
+| 69 | 664 | Julian Garcia |
+| 70 | 664 | Valerie Roberts |
 | 71 | 659 | Jonathan Kimbrough |
 | 72 | 655 | Carolyn Wallace |
 | 73 | 647 | Shauna Havard |
@@ -112,8 +112,8 @@
 | 104 | 499 | Trista Leah |
 | 105 | 499 | Christina LR |
 | 106 | 488 | Jen Allison |
-| 107 | 487 | Alyssa Papen |
-| 108 | 487 | shar |
+| 107 | 487 | shar |
+| 108 | 487 | Alyssa Papen |
 | 109 | 481 | Serena Goodridge |
 | 110 | 476 | Matt Summer |
 | 111 | 474 | Jenna Ingersoll |
@@ -123,8 +123,8 @@
 | 115 | 458 | Twisty Clicky |
 | 116 | 448 | Kristin Manee |
 | 117 | 435 | Leslie Thomas |
-| 118 | 431 | Jolly Dashfit |
-| 119 | 431 | Courtney Cicoria |
+| 118 | 431 | Courtney Cicoria |
+| 119 | 431 | Jolly Dashfit |
 | 120 | 429 | Ren Mc |
 | 121 | 427 | KJ Pool |
 | 122 | 418 | Dizzy Tiley |
@@ -147,8 +147,8 @@
 | 139 | 376 | Kesha Brady |
 | 140 | 373 | Joseph Guthrie |
 | 141 | 355 | Kristina Black |
-| 142 | 353 | Livvy |
-| 143 | 353 | Tyler Terrific |
+| 142 | 353 | Tyler Terrific |
+| 143 | 353 | Livvy |
 | 144 | 350 | Angela Srubar-Norman |
 | 145 | 348 | Silly Zonebuilder |
 | 146 | 347 | Daria Rycewicz |
