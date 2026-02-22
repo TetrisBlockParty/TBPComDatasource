@@ -122,8 +122,8 @@
 | 114 | 394 | Annie Déè |
 | 115 | 392 | Michelle |
 | 116 | 391 | Calista Jo Dickson |
-| 117 | 390 | Hasty Cascadefit |
-| 118 | 390 | Patti Skiles |
+| 117 | 390 | Patti Skiles |
+| 118 | 390 | Hasty Cascadefit |
 | 119 | 389 | FuzzyNavel |
 | 120 | 386 | Katie Knaus |
 | 121 | 383 | Jesse Olive |
@@ -303,8 +303,8 @@
 | 295 | 147 | David Bardo |
 | 296 | 146 | Tony Waters |
 | 297 | 146 | Ava Petito |
-| 298 | 145 | Bryan Byrd |
-| 299 | 145 | Funky Jumper |
+| 298 | 145 | Funky Jumper |
+| 299 | 145 | Bryan Byrd |
 | 300 | 144 | Tenisha Semidey |
 | 301 | 143 | Alice |
 | 302 | 143 | Melissa Orth Hunter |

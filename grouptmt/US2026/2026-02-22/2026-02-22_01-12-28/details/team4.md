@@ -148,16 +148,16 @@
 | 140 | 189 | Calvin Dennis |
 | 141 | 187 | TheNeesh50 |
 | 142 | 186 | Holly |
-| 143 | 185 | Lori |
-| 144 | 185 | Malakai Darien Fox |
-| 145 | 185 | Andy Cabral |
+| 143 | 185 | Andy Cabral |
+| 144 | 185 | Lori |
+| 145 | 185 | Malakai Darien Fox |
 | 146 | 184 | Justin Hannigan |
 | 147 | 181 | Carter Jones |
 | 148 | 181 | Klo |
 | 149 | 181 | Andria Lynn |
 | 150 | 180 | Leah Kutz Zirbel |
-| 151 | 179 | Ak Jones |
-| 152 | 179 | Scott Jameson |
+| 151 | 179 | Scott Jameson |
+| 152 | 179 | Ak Jones |
 | 153 | 176 | Zethra Prenisha Rahming |
 | 154 | 175 | Jessica Bohlken |
 | 155 | 175 | Ren Mc |
@@ -166,10 +166,10 @@
 | 158 | 173 | Jessica Lynn Cutlip |
 | 159 | 171 | Diana Houts |
 | 160 | 166 | SammieJo Guy |
-| 161 | 164 | 030Synner |
-| 162 | 164 | ThaEviLJeNiuZ |
-| 163 | 160 | ZeeZee |
-| 164 | 160 | Carlos Ramirez |
+| 161 | 164 | ThaEviLJeNiuZ |
+| 162 | 164 | 030Synner |
+| 163 | 160 | Carlos Ramirez |
+| 164 | 160 | ZeeZee |
 | 165 | 155 | AyeKay |
 | 166 | 154 | scott |
 | 167 | 153 | Avy Absol |

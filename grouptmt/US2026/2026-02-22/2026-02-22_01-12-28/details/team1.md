@@ -107,8 +107,8 @@
 | 99 | 279 | Theo Pinnow |
 | 100 | 277 | Ly Phethmany |
 | 101 | 275 | Cynthia Bradley |
-| 102 | 273 | Bhelle Sumile |
-| 103 | 273 | Happy Basegrid |
+| 102 | 273 | Happy Basegrid |
+| 103 | 273 | Bhelle Sumile |
 | 104 | 270 | Spunky Piecebuilder |
 | 105 | 269 | Seante Bullock |
 | 106 | 269 | Rachael |
@@ -139,8 +139,8 @@
 | 131 | 203 | GATOR |
 | 132 | 203 | Paula Martin |
 | 133 | 199 | Jennifer Hardman |
-| 134 | 198 | Happy Snapbuild |
-| 135 | 198 | Shiny Gridmatch |
+| 134 | 198 | Shiny Gridmatch |
+| 135 | 198 | Happy Snapbuild |
 | 136 | 195 | Daring Fitclear |
 | 137 | 194 | Tyler Werts |
 | 138 | 194 | Ash Galvan |
@@ -158,8 +158,8 @@
 | 150 | 186 | Jennifer Olewnik Soborowski |
 | 151 | 185 | Basment Living |
 | 152 | 182 | Monica Donato |
-| 153 | 180 | BigWeenie69 |
-| 154 | 180 | Erez Yosef |
+| 153 | 180 | Erez Yosef |
+| 154 | 180 | BigWeenie69 |
 | 155 | 179 | Danielle Little-Daugherty |
 | 156 | 178 | Chad Atchley |
 | 157 | 177 | Irual Hctrab |
@@ -190,8 +190,8 @@
 | 182 | 158 | Arianna O'Brien |
 | 183 | 158 | Sarah Marie |
 | 184 | 157 | Angela Fairbank |
-| 185 | 154 | Christy Jones |
-| 186 | 154 | Melissa Lemmon |
+| 185 | 154 | Melissa Lemmon |
+| 186 | 154 | Christy Jones |
 | 187 | 153 | Barry Mac'Ockner |
 | 188 | 153 | ALFD |
 | 189 | 152 | Speedy Snapfall |
