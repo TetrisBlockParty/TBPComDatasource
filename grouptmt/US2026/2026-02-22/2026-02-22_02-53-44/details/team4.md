@@ -170,8 +170,8 @@
 | 162 | 184 | Ak Jones |
 | 163 | 184 | Jason Allen |
 | 164 | 182 | Matt Summer |
-| 165 | 181 | Carter Jones |
-| 166 | 181 | Klo |
+| 165 | 181 | Klo |
+| 166 | 181 | Carter Jones |
 | 167 | 179 | blockstar |
 | 168 | 176 | Zethra Prenisha Rahming |
 | 169 | 175 | Kathy Brookins |
@@ -180,8 +180,8 @@
 | 172 | 171 | Diana Houts |
 | 173 | 169 | Kesha Brady |
 | 174 | 168 | 🥔🥔 Spudz |
-| 175 | 166 | SammieJo Guy |
-| 176 | 166 | Cozy Balancer |
+| 175 | 166 | Cozy Balancer |
+| 176 | 166 | SammieJo Guy |
 | 177 | 164 | 030Synner |
 | 178 | 163 | Chris Bernstein |
 | 179 | 160 | Carlos Ramirez |
@@ -281,8 +281,8 @@
 | 273 | 113 | Metsfan |
 | 274 | 112 | Jeremy Steines |
 | 275 | 111 | Lazy Blocker |
-| 276 | 110 | No Strings Attached Ra |
-| 277 | 110 | Zach Kerbs |
+| 276 | 110 | Zach Kerbs |
+| 277 | 110 | No Strings Attached Ra |
 | 278 | 109 | Chris Alexinas |
 | 279 | 109 | Stephanie Mico |
 | 280 | 109 | Lori Goudy |
@@ -291,7 +291,7 @@
 | 283 | 109 | Frank Cook |
 | 284 | 108 | Kate |
 | 285 | 108 | Ali Ian |
-| 286 | 108 | Kate |
+| 286 | 108 | Walter Beltran |
 | 287 | 107 | Brandi Durig |
 | 288 | 106 | Zappy Snaplink |
 | 289 | 106 | Jacob Richard |

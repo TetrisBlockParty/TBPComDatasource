@@ -161,8 +161,8 @@
 | 153 | 316 | Rich LeBlanc |
 | 154 | 311 | Raya |
 | 155 | 309 | Leah Barnett |
-| 156 | 307 | Blocked |
-| 157 | 307 | rnr junky |
+| 156 | 307 | rnr junky |
+| 157 | 307 | Blocked |
 | 158 | 303 | Rania Zaqout |
 | 159 | 300 | Sherika C. McDaniels |
 | 160 | 298 | MsBee |
@@ -223,8 +223,8 @@
 | 215 | 227 | Krystal Gerstberger |
 | 216 | 223 | Jeana Gilbert |
 | 217 | 221 | Jaime Monhaut-Reed |
-| 218 | 219 | Shunta Jacobs |
-| 219 | 219 | Sissy Lowery Davis |
+| 218 | 219 | Sissy Lowery Davis |
+| 219 | 219 | Shunta Jacobs |
 | 220 | 218 | Michael Lucado |
 | 221 | 216 | Tasha Wesson-Torrence |
 | 222 | 215 | IamJust Neyamijah Washington Sr. |
