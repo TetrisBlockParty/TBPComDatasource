@@ -222,8 +222,8 @@
 | 214 | 867 | Peppy Zone |
 | 215 | 865 | Dedra Steward |
 | 216 | 863 | nikki |
-| 217 | 862 | Brittany Radaszewski |
-| 218 | 862 | Robin Kerby |
+| 217 | 862 | Robin Kerby |
+| 218 | 862 | Brittany Radaszewski |
 | 219 | 860 | April Dawn Gussler |
 | 220 | 857 | Della Hole |
 | 221 | 855 | F-X |
@@ -335,8 +335,8 @@
 | 327 | 639 | Rebecca Miller |
 | 328 | 635 | Diana Fitzwater |
 | 329 | 631 | Marie Walker |
-| 330 | 627 | Victoria Moore-Smith |
-| 331 | 627 | Allan Wayne Lamia |
+| 330 | 627 | Allan Wayne Lamia |
+| 331 | 627 | Victoria Moore-Smith |
 | 332 | 620 | Brandon Armstrong |
 | 333 | 617 | Leslie Ann Carter |
 | 334 | 613 | Breezy Filler |
@@ -376,8 +376,8 @@
 | 368 | 557 | Block Master |
 | 369 | 557 | Brandy Andre |
 | 370 | 556 | Slip |
-| 371 | 554 | Santana Miyagi |
-| 372 | 554 | Rachael Senard |
+| 371 | 554 | Rachael Senard |
+| 372 | 554 | Santana Miyagi |
 | 373 | 554 | Autumn Schaeffer |
 | 374 | 550 | Nashu |
 | 375 | 549 | Darcy Mae |
@@ -518,8 +518,8 @@
 | 510 | 429 | Tabs Reichert |
 | 511 | 428 | Arkei Luster |
 | 512 | 428 | Shyenn Gadsby |
-| 513 | 427 | Quinn |
-| 514 | 427 | Destiny Cozier |
+| 513 | 427 | Destiny Cozier |
+| 514 | 427 | Quinn |
 | 515 | 427 | Kori Beth Babb |
 | 516 | 427 | Aimee Campbell |
 | 517 | 426 | Ashley Dow |
@@ -592,8 +592,8 @@
 | 584 | 386 | Michael Artis |
 | 585 | 386 | Wuntayk |
 | 586 | 385 | Tansaria Couch-Butler |
-| 587 | 384 | Party d |
-| 588 | 384 | Kelly |
+| 587 | 384 | Kelly |
+| 588 | 384 | Party d |
 | 589 | 383 | Belle Mari |
 | 590 | 382 | David Holliday |
 | 591 | 382 | Amber Gray |
@@ -615,8 +615,8 @@
 | 607 | 373 | Jessica Hughes |
 | 608 | 373 | Hunter Connors |
 | 609 | 372 | Ebony Deloach Bryant |
-| 610 | 371 | Brenda Messer |
-| 611 | 371 | AkaLefty |
+| 610 | 371 | AkaLefty |
+| 611 | 371 | Brenda Messer |
 | 612 | 371 | Saucy Fitzone |
 | 613 | 370 | Heather Sawtelle-Mckenzie |
 | 614 | 369 | Tony Lea |
@@ -684,15 +684,15 @@
 | 676 | 337 | Diallo Sparkman |
 | 677 | 337 | Tum |
 | 678 | 337 | Savannah Alexander |
-| 679 | 336 | Austin Wilson |
-| 680 | 336 | bru |
+| 679 | 336 | bru |
+| 680 | 336 | Austin Wilson |
 | 681 | 336 | Swanky Columnbuilder |
 | 682 | 335 | Brooke Leigh Strube |
 | 683 | 335 | Maria Louise |
 | 684 | 334 | Melissa James |
 | 685 | 333 | Veronica Stevenson |
-| 686 | 333 | Adrian Benitez |
-| 687 | 333 | Woodys Glass |
+| 686 | 333 | Woodys Glass |
+| 687 | 333 | Adrian Benitez |
 | 688 | 332 | Lathasa Newkirk |
 | 689 | 330 | Jennifer Monroe Kelly |
 | 690 | 329 | Chummy Blockbuilder |
@@ -732,20 +732,20 @@
 | 724 | 311 | Megan Phillips |
 | 725 | 310 | Cheeky Brickmatch |
 | 726 | 310 | Wendy Ducheney |
-| 727 | 310 | Beth Decker |
-| 728 | 310 | Audra Williams |
+| 727 | 310 | Audra Williams |
+| 728 | 310 | Beth Decker |
 | 729 | 309 | Byung Bae Park |
 | 730 | 308 | Prado |
 | 731 | 308 | Sarah block |
 | 732 | 308 | Hyper Riseclear |
 | 733 | 308 | Claire |
 | 734 | 308 | Katie Joy McCombs |
-| 735 | 307 | stacey |
-| 736 | 307 | Peachy Blockbuilder |
+| 735 | 307 | Peachy Blockbuilder |
+| 736 | 307 | stacey |
 | 737 | 306 | Kiorah Blaze |
 | 738 | 305 | Zany Clusterbuilder |
-| 739 | 305 | MamaBear11 |
-| 740 | 305 | Narutofreak13 |
+| 739 | 305 | Narutofreak13 |
+| 740 | 305 | MamaBear11 |
 | 741 | 304 | NFLPITMOM |
 | 742 | 304 | Melissa McCall |
 | 743 | 304 | James Smith |
@@ -784,15 +784,15 @@
 | 776 | 289 | Ryan Chan |
 | 777 | 288 | thranduil |
 | 778 | 288 | Ashley Criner |
-| 779 | 288 | Samantha Angelo |
-| 780 | 288 | Jenna Nance |
+| 779 | 288 | Jenna Nance |
+| 780 | 288 | Samantha Angelo |
 | 781 | 287 | Toni Roberson |
 | 782 | 287 | N00D3S |
 | 783 | 287 | Epic Stackzone |
 | 784 | 286 | Kelsey Sullivan |
 | 785 | 285 | Kimberly Mitchell |
-| 786 | 285 | Court |
-| 787 | 285 | Epic Stackbuilder |
+| 786 | 285 | Epic Stackbuilder |
+| 787 | 285 | Court |
 | 788 | 284 | Hillary Franklin |
 | 789 | 282 | Nutty Slice |
 | 790 | 281 | Anthony |
@@ -828,8 +828,8 @@
 | 820 | 274 | KT Macadocious |
 | 821 | 274 | Jamie Stevey |
 | 822 | 274 | Sabrena Yeisley |
-| 823 | 273 | Swanky Snap |
-| 824 | 273 | Britt Stunkel |
+| 823 | 273 | Britt Stunkel |
+| 824 | 273 | Swanky Snap |
 | 825 | 273 | Jennifer Aiken |
 | 826 | 272 | Gina Justbeingme Chillis |
 | 827 | 272 | Witty Piecebuilder |
@@ -1116,8 +1116,8 @@
 | 1108 | 206 | Snazzy Basepiece |
 | 1109 | 205 | SafetyEyes16 |
 | 1110 | 205 | Desiree Hargrove Moore |
-| 1111 | 205 | Ashley McCarthy-Arnone |
-| 1112 | 205 | Shay Moore |
+| 1111 | 205 | Shay Moore |
+| 1112 | 205 | Ashley McCarthy-Arnone |
 | 1113 | 205 | Tiffney Wroten |
 | 1114 | 204 | Andre Love |
 | 1115 | 204 | Lakeela Wise |

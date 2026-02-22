@@ -56,8 +56,8 @@
 | 48 | 697 | Edward White |
 | 49 | 695 | LisaJo Picken Buchanan |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Rebecca Moulton Pinciaro |
-| 52 | 659 | Jonathan Kimbrough |
+| 51 | 659 | Jonathan Kimbrough |
+| 52 | 659 | Rebecca Moulton Pinciaro |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
@@ -163,8 +163,8 @@
 | 155 | 230 | Autum Leigh |
 | 156 | 230 | Cursed Hag |
 | 157 | 228 | J-Rizzle |
-| 158 | 227 | Swanky Fitline |
-| 159 | 227 | Alyssa Papen |
+| 158 | 227 | Alyssa Papen |
+| 159 | 227 | Swanky Fitline |
 | 160 | 225 | Damn Libra |
 | 161 | 224 | Matt Summer |
 | 162 | 223 | Antony Dwayne Beasley |
@@ -175,10 +175,10 @@
 | 167 | 220 | Matt Dell'Olio |
 | 168 | 218 | Casey Grabner |
 | 169 | 217 | Chaz Duncan |
-| 170 | 215 | Jessica Bohlken |
-| 171 | 215 | Ren Mc |
-| 172 | 213 | Sarah Neathery |
-| 173 | 213 | Jason Allen |
+| 170 | 215 | Ren Mc |
+| 171 | 215 | Jessica Bohlken |
+| 172 | 213 | Jason Allen |
+| 173 | 213 | Sarah Neathery |
 | 174 | 212 | Mike Solo |
 | 175 | 211 | Jenna McGeorge |
 | 176 | 210 | Zethra Prenisha Rahming |
@@ -188,8 +188,8 @@
 | 180 | 204 | Carlos Ramirez |
 | 181 | 203 | Katherine Crane |
 | 182 | 202 | TRCuse |
-| 183 | 201 | Melvin Baird |
-| 184 | 201 | Chance Strickland |
+| 183 | 201 | Chance Strickland |
+| 184 | 201 | Melvin Baird |
 | 185 | 200 | Laura |
 | 186 | 198 | Keith Kelley |
 | 187 | 198 | Ruben Wheeler |
@@ -201,8 +201,8 @@
 | 193 | 195 | ZeeZee |
 | 194 | 194 | Zany Twisterfit |
 | 195 | 192 | Shauna Havard |
-| 196 | 191 | Sam Bishop |
-| 197 | 191 | Klo |
+| 196 | 191 | Klo |
+| 197 | 191 | Sam Bishop |
 | 198 | 190 | Cheery Risebuilder |
 | 199 | 190 | Alan George LaRage |
 | 200 | 189 | Calvin Dennis |
@@ -218,8 +218,8 @@
 | 210 | 179 | blockstar |
 | 211 | 179 | TinyLegoRose |
 | 212 | 175 | Lorena Guerrero-Barron |
-| 213 | 174 | JPW |
-| 214 | 174 | Rio Rocha |
+| 213 | 174 | Rio Rocha |
+| 214 | 174 | JPW |
 | 215 | 172 | Gilles Lanctot |
 | 216 | 171 | Autumn Kumzi |
 | 217 | 168 | Lindsey Gonzalez |
@@ -232,8 +232,8 @@
 | 224 | 165 | Zappy Buildgrid |
 | 225 | 164 | 030Synner |
 | 226 | 163 | Kristina Black |
-| 227 | 162 | Joanna |
-| 228 | 162 | John Brunetti |
+| 227 | 162 | John Brunetti |
+| 228 | 162 | Joanna |
 | 229 | 161 | Jenny Wells-Oakley |
 | 230 | 160 | Laura Hosford |
 | 231 | 160 | Brittany Marsh |

@@ -125,8 +125,8 @@
 | 117 | 318 | Jessica Sheehan |
 | 118 | 316 | Ly Phethmany |
 | 119 | 313 | Tanya Carpenter-Reynolds |
-| 120 | 310 | Jason Jones |
-| 121 | 310 | Seth Wesson |
+| 120 | 310 | Seth Wesson |
+| 121 | 310 | Jason Jones |
 | 122 | 306 | Happy Basegrid |
 | 123 | 304 | Nicole Roseberry Weber |
 | 124 | 303 | Jennifer Hardman |
@@ -134,8 +134,8 @@
 | 126 | 298 | Chelsea Dahlquist |
 | 127 | 290 | Death |
 | 128 | 285 | Ananda Mendez |
-| 129 | 284 | Emily Adelaide Wheatley |
-| 130 | 284 | Rachael |
+| 129 | 284 | Rachael |
+| 130 | 284 | Emily Adelaide Wheatley |
 | 131 | 283 | Franswa |
 | 132 | 282 | Cool Shiftsnap |
 | 133 | 282 | Timothy Dew |
@@ -194,8 +194,8 @@
 | 186 | 205 | Tater |
 | 187 | 205 | Snappy Matcher |
 | 188 | 204 | Lacy Wolfe |
-| 189 | 203 | LaFontaine Leslie |
-| 190 | 203 | Paula Martin |
+| 189 | 203 | Paula Martin |
+| 190 | 203 | LaFontaine Leslie |
 | 191 | 201 | Colleen Wise |
 | 192 | 200 | DaRascal |
 | 193 | 200 | Breanna Luna |

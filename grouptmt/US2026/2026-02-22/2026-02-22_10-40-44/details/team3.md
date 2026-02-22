@@ -63,8 +63,8 @@
 | 55 | 909 | Jennifer |
 | 56 | 908 | Alanna Rogers |
 | 57 | 903 | Sarah Fehring |
-| 58 | 895 | Amanda L Baker |
-| 59 | 895 | Shonna Roberts |
+| 58 | 895 | Shonna Roberts |
+| 59 | 895 | Amanda L Baker |
 | 60 | 886 | Khristen AC |
 | 61 | 874 | Jessica Pineda-Lopez |
 | 62 | 867 | Corie A. Brinson |
@@ -189,8 +189,8 @@
 | 181 | 353 | Shunta Jacobs |
 | 182 | 353 | Nora Rogers |
 | 183 | 348 | Chasity |
-| 184 | 347 | Jone |
-| 185 | 347 | Nicole Flippo |
+| 184 | 347 | Nicole Flippo |
+| 185 | 347 | Jone |
 | 186 | 346 | RickyG |
 | 187 | 343 | Ashley Raines |
 | 188 | 341 | Samantha Lynn |
@@ -238,8 +238,8 @@
 | 230 | 275 | Cassandra Bryant |
 | 231 | 274 | Tye Stovall |
 | 232 | 272 | Dee Franklin |
-| 233 | 271 | Cass Mendoza |
-| 234 | 271 | Ashley Muncey |
+| 233 | 271 | Ashley Muncey |
+| 234 | 271 | Cass Mendoza |
 | 235 | 269 | Trisha Balmer |
 | 236 | 267 | Terry Jo Jones |
 | 237 | 265 | Sarah Moyer |
@@ -305,8 +305,8 @@
 | 297 | 208 | AlsoJess |
 | 298 | 207 | Jessica |
 | 299 | 207 | angieelyn |
-| 300 | 206 | Stephanie Hill |
-| 301 | 206 | Tammy Rosenberry |
+| 300 | 206 | Tammy Rosenberry |
+| 301 | 206 | Stephanie Hill |
 | 302 | 206 | Tracy Martin |
 | 303 | 205 | Kirhonda Autmon |
 | 304 | 204 | Aerian Preston |
@@ -317,8 +317,8 @@
 | 309 | 201 | Daring Builder |
 | 310 | 201 | Hyper Matchzone |
 | 311 | 200 | Saucy Buildout |
-| 312 | 200 | Sharisse Baltimore |
-| 313 | 200 | glichmod |
+| 312 | 200 | glichmod |
+| 313 | 200 | Sharisse Baltimore |
 | 314 | 199 | Mariah Williams |
 | 315 | 198 | kacihall |
 | 316 | 195 | Nicha Hooker |
@@ -338,8 +338,8 @@
 | 330 | 181 | Denita Mungro |
 | 331 | 180 | Beth Ingham |
 | 332 | 179 | Christian Werndl |
-| 333 | 179 | DanceLuvLaugh |
-| 334 | 179 | Rachel Napper |
+| 333 | 179 | Rachel Napper |
+| 334 | 179 | DanceLuvLaugh |
 | 335 | 178 | Jess Dearborn |
 | 336 | 178 | Jennifer Alvey |
 | 337 | 176 | Emma |
@@ -359,8 +359,8 @@
 | 351 | 167 | Salena Whitlock |
 | 352 | 167 | Irene Arreguin |
 | 353 | 166 | Noettín Kan Zasnemoore |
-| 354 | 166 | Angella Lyons |
-| 355 | 166 | Snarky McFace |
+| 354 | 166 | Snarky McFace |
+| 355 | 166 | Angella Lyons |
 | 356 | 165 | Kali Kelz Williams |
 | 357 | 165 | Rainbow77375 |
 | 358 | 165 | Ashley Lynn Marchese |
@@ -384,9 +384,9 @@
 | 376 | 159 | Joshua David Huie |
 | 377 | 158 | Willow |
 | 378 | 157 | Katrina E Jelks |
-| 379 | 157 | Miranda Taylor |
-| 380 | 157 | Angel Mendez |
-| 381 | 157 | Wetwet |
+| 379 | 157 | Angel Mendez |
+| 380 | 157 | Wetwet |
+| 381 | 157 | Miranda Taylor |
 | 382 | 156 | Nichole Greene |
 | 383 | 155 | Michell Hendershott Jackson |
 | 384 | 155 | Michael Leblanc |
@@ -440,8 +440,8 @@
 | 432 | 138 | Skinny Baldez |
 | 433 | 137 | Giggly Brickroll |
 | 434 | 136 | Karen Picaboo |
-| 435 | 136 | Stephanie Zahm |
-| 436 | 136 | Sabrina Mansfield |
+| 435 | 136 | Sabrina Mansfield |
+| 436 | 136 | Stephanie Zahm |
 | 437 | 135 | Morgan Cudo |
 | 438 | 134 | Cheery Brickster |
 | 439 | 134 | Tammy |
