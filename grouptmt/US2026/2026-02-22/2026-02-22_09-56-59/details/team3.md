@@ -192,8 +192,8 @@
 | 184 | 346 | Chummy Caster |
 | 185 | 343 | Ashley Raines |
 | 186 | 341 | Samantha Lynn |
-| 187 | 338 | Leah Barnett |
-| 188 | 338 | Gumbo |
+| 187 | 338 | Gumbo |
+| 188 | 338 | Leah Barnett |
 | 189 | 332 | Rich LeBlanc |
 | 190 | 332 | Noyb Adam |
 | 191 | 330 | Rebecca Funderburk Kirby |
@@ -236,8 +236,8 @@
 | 228 | 275 | Cassandra Bryant |
 | 229 | 274 | Tye Stovall |
 | 230 | 272 | Dee Franklin |
-| 231 | 271 | Cass Mendoza |
-| 232 | 271 | Ashley Muncey |
+| 231 | 271 | Ashley Muncey |
+| 232 | 271 | Cass Mendoza |
 | 233 | 269 | Trisha Balmer |
 | 234 | 267 | Terry Jo Jones |
 | 235 | 265 | Sarah Moyer |
@@ -256,8 +256,8 @@
 | 248 | 256 | KayB |
 | 249 | 251 | Sabrina Hardrick |
 | 250 | 250 | fraulila |
-| 251 | 249 | JerseyJess |
-| 252 | 249 | Annie Marie |
+| 251 | 249 | Annie Marie |
+| 252 | 249 | JerseyJess |
 | 253 | 247 | Carrie Huskey |
 | 254 | 246 | Eon Harris |
 | 255 | 246 | Peppy Shifter |
@@ -312,8 +312,8 @@
 | 304 | 202 | Staci George Fitzsimmons |
 | 305 | 201 | Hyper Matchzone |
 | 306 | 201 | Alexmac |
-| 307 | 200 | glichmod |
-| 308 | 200 | Sharisse Baltimore |
+| 307 | 200 | Sharisse Baltimore |
+| 308 | 200 | glichmod |
 | 309 | 200 | Saucy Buildout |
 | 310 | 198 | kacihall |
 | 311 | 195 | Nicha Hooker |
@@ -349,8 +349,8 @@
 | 341 | 170 | Tina Smith Roy |
 | 342 | 169 | Kristian Thurman |
 | 343 | 169 | Peachy Rollfit |
-| 344 | 168 | Trice Thomas |
-| 345 | 168 | April Matthew Kibble |
+| 344 | 168 | April Matthew Kibble |
+| 345 | 168 | Trice Thomas |
 | 346 | 167 | Shicken Nuggit |
 | 347 | 167 | Irene Arreguin |
 | 348 | 167 | Romeo |
@@ -461,8 +461,8 @@
 | 453 | 128 | David Kozen |
 | 454 | 127 | Jumpy Wrecker |
 | 455 | 127 | Elisha L Allman |
-| 456 | 126 | Crystal Martin |
-| 457 | 126 | Spicy Caster |
+| 456 | 126 | Spicy Caster |
+| 457 | 126 | Crystal Martin |
 | 458 | 126 | demon14 |
 | 459 | 126 | Tipsy Puzzle |
 | 460 | 125 | Felicia Doxey |

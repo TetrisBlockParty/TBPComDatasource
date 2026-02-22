@@ -76,8 +76,8 @@
 | 68 | 473 | Kellie |
 | 69 | 461 | April Carroll |
 | 70 | 447 | Evie Khalil |
-| 71 | 434 | MomMom |
-| 72 | 434 | Hyper |
+| 71 | 434 | Hyper |
+| 72 | 434 | MomMom |
 | 73 | 430 | Nancy Green |
 | 74 | 428 | Stephanie Zahn |
 | 75 | 418 | Jazzy Framezone |
@@ -189,8 +189,8 @@
 | 181 | 207 | Brenda Alexander |
 | 182 | 207 | Leslie Bush Yarbrough |
 | 183 | 206 | BadG52 |
-| 184 | 205 | Tater |
-| 185 | 205 | Snappy Matcher |
+| 184 | 205 | Snappy Matcher |
+| 185 | 205 | Tater |
 | 186 | 204 | Lacy Wolfe |
 | 187 | 203 | Paula Martin |
 | 188 | 203 | LaFontaine Leslie |
@@ -204,10 +204,10 @@
 | 196 | 195 | Shaykmia |
 | 197 | 195 | Jennifer Olewnik Soborowski |
 | 198 | 194 | Christy Jones |
-| 199 | 193 | Michael |
-| 200 | 193 | Lachelle Dillon |
-| 201 | 191 | Diane Byrd |
-| 202 | 191 | Shanae Grant |
+| 199 | 193 | Lachelle Dillon |
+| 200 | 193 | Michael |
+| 201 | 191 | Shanae Grant |
+| 202 | 191 | Diane Byrd |
 | 203 | 190 | Sweetts |
 | 204 | 190 | Thorne Shumate |
 | 205 | 189 | Jeanna Dunn |

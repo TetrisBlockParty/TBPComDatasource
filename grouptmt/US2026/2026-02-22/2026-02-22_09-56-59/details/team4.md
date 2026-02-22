@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Shelly Chandler |
-| 34 | 843 | Lucille Truesdale |
+| 33 | 843 | Lucille Truesdale |
+| 34 | 843 | Shelly Chandler |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -49,15 +49,15 @@
 | 41 | 757 | Ancient Intuition |
 | 42 | 736 | Goatimus Lombardi |
 | 43 | 734 | BertMofo |
-| 44 | 707 | Clarence Patawaran |
-| 45 | 707 | Rachel Anne |
+| 44 | 707 | Rachel Anne |
+| 45 | 707 | Clarence Patawaran |
 | 46 | 704 | Crystal Carroll |
 | 47 | 697 | Edward White |
 | 48 | 695 | LisaJo Picken Buchanan |
 | 49 | 677 | Anthony Bryan Riva |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Jonathan Kimbrough |
-| 52 | 659 | Rebecca Moulton Pinciaro |
+| 51 | 659 | Rebecca Moulton Pinciaro |
+| 52 | 659 | Jonathan Kimbrough |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
@@ -135,8 +135,8 @@
 | 127 | 286 | shark tato |
 | 128 | 283 | Brittney Orengo |
 | 129 | 281 | Meagan Nicole |
-| 130 | 278 | Desi Desporte |
-| 131 | 278 | Carrie Brian |
+| 130 | 278 | Carrie Brian |
+| 131 | 278 | Desi Desporte |
 | 132 | 277 | Scott Jameson |
 | 133 | 277 | Mary Ann Pabukis |
 | 134 | 275 | Dizzy Tiley |
@@ -186,8 +186,8 @@
 | 178 | 204 | Jen Caldwell |
 | 179 | 203 | Katherine Crane |
 | 180 | 202 | TRCuse |
-| 181 | 201 | Melvin Baird |
-| 182 | 201 | Chance Strickland |
+| 181 | 201 | Chance Strickland |
+| 182 | 201 | Melvin Baird |
 | 183 | 200 | Laura |
 | 184 | 199 | Zethra Prenisha Rahming |
 | 185 | 198 | Keith Kelley |
