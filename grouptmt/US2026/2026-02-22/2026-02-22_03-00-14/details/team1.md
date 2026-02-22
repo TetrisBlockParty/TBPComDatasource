@@ -81,8 +81,8 @@
 | 73 | 363 | Kellie |
 | 74 | 363 | Adam Byrd |
 | 75 | 362 | Plucky Ziggy |
-| 76 | 359 | Carrie Beck Geartz |
-| 77 | 359 | Nerdy Linkblock |
+| 76 | 359 | Nerdy Linkblock |
+| 77 | 359 | Carrie Beck Geartz |
 | 78 | 353 | Trina Gee |
 | 79 | 347 | pjbeta |
 | 80 | 345 | Dee Perry |
@@ -142,8 +142,8 @@
 | 134 | 216 | Shauntina Burke |
 | 135 | 216 | MRdot Rooski |
 | 136 | 214 | GATOR |
-| 137 | 212 | Jaimie Lynn |
-| 138 | 212 | Lori Bales |
+| 137 | 212 | Lori Bales |
+| 138 | 212 | Jaimie Lynn |
 | 139 | 211 | Marianita Garcia |
 | 140 | 208 | Giggly Builderline |
 | 141 | 207 | Leslie Bush Yarbrough |

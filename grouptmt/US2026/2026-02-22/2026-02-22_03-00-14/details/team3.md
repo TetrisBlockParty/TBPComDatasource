@@ -261,8 +261,8 @@
 | 253 | 189 | Katie Leigh Blankenship |
 | 254 | 189 | AlsoJess |
 | 255 | 188 | Loopy Fallmatch |
-| 256 | 184 | Troy |
-| 257 | 184 | France Vézina |
+| 256 | 184 | France Vézina |
+| 257 | 184 | Troy |
 | 258 | 182 | Melanie Sherwood |
 | 259 | 182 | Carrie Huskey |
 | 260 | 181 | Nicholas Roddy |
@@ -460,9 +460,9 @@
 | 452 | 102 | Christian Luna |
 | 453 | 102 | TLM |
 | 454 | 101 | Kristin Delibac Corrigan |
-| 455 | 101 | Sabrina Ruth Archuletta-Gauna |
+| 455 | 101 | Hyper Bridger |
 | 456 | 101 | Alexsandran Valdivia |
-| 457 | 101 | Hyper Bridger |
+| 457 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 458 | 101 | Quirky Dropzone |
 | 459 | 100 | Jul |
 | 460 | 100 | Nicole Summers-Nelson |

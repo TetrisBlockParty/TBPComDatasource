@@ -179,8 +179,8 @@
 | 171 | 864 | Jamie Otero |
 | 172 | 861 | Jennifer Peachey |
 | 173 | 857 | Della Hole |
-| 174 | 850 | Stephanie Chapman |
-| 175 | 850 | Missie Lawson Gebhardt |
+| 174 | 850 | Missie Lawson Gebhardt |
+| 175 | 850 | Stephanie Chapman |
 | 176 | 849 | Jennifer Kistner |
 | 177 | 845 | April Dawn Gussler |
 | 178 | 838 | Tralonda Weeks |
@@ -542,8 +542,8 @@
 | 534 | 340 | Brittney Jean |
 | 535 | 340 | Mikayala Szaz |
 | 536 | 338 | Christina Wsn |
-| 537 | 338 | Shorty |
-| 538 | 338 | Peppy Snapfall |
+| 537 | 338 | Peppy Snapfall |
+| 538 | 338 | Shorty |
 | 539 | 337 | Autumn Schaeffer |
 | 540 | 337 | Sassy Pattern |
 | 541 | 335 | Brooke Leigh Strube |

@@ -43,8 +43,8 @@
 | 35 | 704 | Crystal Carroll |
 | 36 | 697 | Edward White |
 | 37 | 659 | Rebecca Moulton Pinciaro |
-| 38 | 646 | Jacqueline Helm |
-| 39 | 646 | Rachel Anne |
+| 38 | 646 | Rachel Anne |
+| 39 | 646 | Jacqueline Helm |
 | 40 | 634 | Anthony Bryan Riva |
 | 41 | 632 | Kimyatta Cavin |
 | 42 | 630 | Dustee Craddock-Harrison |
@@ -128,8 +128,8 @@
 | 120 | 235 | Lucas J Sutton |
 | 121 | 232 | Crystal Nicolette Moore |
 | 122 | 231 | Chastity Mitchell |
-| 123 | 230 | Autum Leigh |
-| 124 | 230 | Daria Rycewicz |
+| 123 | 230 | Daria Rycewicz |
+| 124 | 230 | Autum Leigh |
 | 125 | 225 | Damn Libra |
 | 126 | 223 | Scott Jameson |
 | 127 | 222 | Joeliecea Cobb |
@@ -184,8 +184,8 @@
 | 176 | 166 | SammieJo Guy |
 | 177 | 164 | 030Synner |
 | 178 | 163 | Chris Bernstein |
-| 179 | 160 | ZeeZee |
-| 180 | 160 | Carlos Ramirez |
+| 179 | 160 | Carlos Ramirez |
+| 180 | 160 | ZeeZee |
 | 181 | 160 | James Hurley Jr. |
 | 182 | 159 | Marcus Todd |
 | 183 | 158 | Avy Absol |
@@ -263,11 +263,11 @@
 | 255 | 120 | Rafael Valentin |
 | 256 | 120 | Joshua Guess |
 | 257 | 119 | Gwendolyn Pitcairn |
-| 258 | 119 | Circuit8 |
-| 259 | 119 | rebel4lyfe |
+| 258 | 119 | rebel4lyfe |
+| 259 | 119 | Circuit8 |
 | 260 | 118 | Porkobello |
-| 261 | 117 | BigSammy420 |
-| 262 | 117 | LS |
+| 261 | 117 | LS |
+| 262 | 117 | BigSammy420 |
 | 263 | 116 | Maureen Flanigan |
 | 264 | 116 | Adam Stephanie Parker |
 | 265 | 115 | Alexandra Karavias |
