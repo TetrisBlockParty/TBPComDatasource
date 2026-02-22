@@ -135,8 +135,8 @@
 | 127 | 284 | Emily Adelaide Wheatley |
 | 128 | 284 | Rachael |
 | 129 | 283 | Franswa |
-| 130 | 282 | Timothy Dew |
-| 131 | 282 | Cool Shiftsnap |
+| 130 | 282 | Cool Shiftsnap |
+| 131 | 282 | Timothy Dew |
 | 132 | 280 | Jennifer Hardman |
 | 133 | 280 | Sarah Roberts |
 | 134 | 278 | Snippy Wipebuilder |
@@ -172,8 +172,8 @@
 | 164 | 224 | Dizzy Party |
 | 165 | 218 | LC |
 | 166 | 217 | ParisandCory Champagne |
-| 167 | 216 | Shauntina Burke |
-| 168 | 216 | MRdot Rooski |
+| 167 | 216 | MRdot Rooski |
+| 168 | 216 | Shauntina Burke |
 | 169 | 215 | Sam Williams |
 | 170 | 214 | Chirpy Smasher |
 | 171 | 213 | Daring Fitclear |
@@ -389,8 +389,8 @@
 | 381 | 99 | Unelanuhi Belladonna Mystikal Bomar |
 | 382 | 98 | Kirk Torrey |
 | 383 | 98 | Alfredo Vasquez |
-| 384 | 97 | Steve Bomkamp |
-| 385 | 97 | Edgar Algiere |
+| 384 | 97 | Edgar Algiere |
+| 385 | 97 | Steve Bomkamp |
 | 386 | 96 | Lisa Marie |
 | 387 | 95 | Quirky Pusher |
 | 388 | 95 | Jay Tressler |

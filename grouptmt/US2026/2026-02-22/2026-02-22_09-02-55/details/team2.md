@@ -204,8 +204,8 @@
 | 196 | 919 | Isaac Trappiel IV |
 | 197 | 916 | Butta |
 | 198 | 915 | Kelly Trent |
-| 199 | 910 | Shuany Arias |
-| 200 | 910 | Crystal Hoffman |
+| 199 | 910 | Crystal Hoffman |
+| 200 | 910 | Shuany Arias |
 | 201 | 907 | Gene Mills |
 | 202 | 901 | Jennifer Peachey |
 | 203 | 892 | Auntie B |
@@ -279,10 +279,10 @@
 | 271 | 713 | Chelle |
 | 272 | 704 | Shelley Thornburgh Wright |
 | 273 | 703 | Gold Rose |
-| 274 | 700 | Vincent Petrella |
-| 275 | 700 | Hong Tang |
-| 276 | 700 | Beverly Owens |
-| 277 | 700 | Rosemadder |
+| 274 | 700 | Hong Tang |
+| 275 | 700 | Vincent Petrella |
+| 276 | 700 | Rosemadder |
+| 277 | 700 | Beverly Owens |
 | 278 | 698 | Mighty Shatterfit |
 | 279 | 697 | Dreamy Blast |
 | 280 | 692 | Dannette Goldberg-Richards |
@@ -404,11 +404,11 @@
 | 396 | 515 | Laquetta Royston |
 | 397 | 514 | Karen Posadas Centeno |
 | 398 | 511 | Laura Mclean |
-| 399 | 509 | Kelli Wells |
-| 400 | 509 | Jordan Kaiser |
-| 401 | 507 | Irene Jones |
-| 402 | 507 | Joshua Mandel |
-| 403 | 507 | Magic steve |
+| 399 | 509 | Jordan Kaiser |
+| 400 | 509 | Kelli Wells |
+| 401 | 507 | Joshua Mandel |
+| 402 | 507 | Magic steve |
+| 403 | 507 | Irene Jones |
 | 404 | 504 | Kimmy Newman |
 | 405 | 502 | Sparkles |
 | 406 | 500 | Sarah Ridenour |
@@ -427,8 +427,8 @@
 | 419 | 489 | Cassie Mercer |
 | 420 | 489 | Osun Anuket Esu |
 | 421 | 488 | Venita Ray |
-| 422 | 487 | Maya June |
-| 423 | 487 | MrsCandyfine As Wine Truss |
+| 422 | 487 | MrsCandyfine As Wine Truss |
+| 423 | 487 | Maya June |
 | 424 | 487 | Prette Qui |
 | 425 | 486 | Caitlin Schmid |
 | 426 | 485 | Dapper Dasher |
@@ -439,8 +439,8 @@
 | 431 | 483 | Victor Obiakarije |
 | 432 | 483 | Alezandra Smith |
 | 433 | 482 | Amélie Cadieux |
-| 434 | 482 | Eckoman518 |
-| 435 | 482 | Drwatson187 |
+| 434 | 482 | Drwatson187 |
+| 435 | 482 | Eckoman518 |
 | 436 | 482 | Ben Barkley |
 | 437 | 481 | Klee |
 | 438 | 480 | Ashley Collins |

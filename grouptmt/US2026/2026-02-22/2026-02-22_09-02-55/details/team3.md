@@ -105,8 +105,8 @@
 | 97 | 581 | Danielle Mogg |
 | 98 | 579 | Jd Morris |
 | 99 | 566 | Dolores Falco |
-| 100 | 565 | Rachael McClain Owens |
-| 101 | 565 | Patty Allen |
+| 100 | 565 | Patty Allen |
+| 101 | 565 | Rachael McClain Owens |
 | 102 | 562 | Louise Stacy Sisson |
 | 103 | 562 | Dave Herzog |
 | 104 | 559 | Morgan Martinez |
@@ -349,8 +349,8 @@
 | 341 | 168 | April Matthew Kibble |
 | 342 | 168 | Trice Thomas |
 | 343 | 167 | Shicken Nuggit |
-| 344 | 167 | Irene Arreguin |
-| 345 | 167 | Romeo |
+| 344 | 167 | Romeo |
+| 345 | 167 | Irene Arreguin |
 | 346 | 166 | Noettín Kan Zasnemoore |
 | 347 | 166 | Angella Lyons |
 | 348 | 166 | Snarky McFace |
@@ -380,12 +380,12 @@
 | 372 | 156 | Nichole Greene |
 | 373 | 155 | Michell Hendershott Jackson |
 | 374 | 155 | Michael Leblanc |
-| 375 | 153 | Lys |
-| 376 | 153 | Sheila M Frazier |
+| 375 | 153 | Sheila M Frazier |
+| 376 | 153 | Lys |
 | 377 | 153 | Tony Waters |
 | 378 | 152 | Goofy Fall |
-| 379 | 152 | Eric Caccavale |
-| 380 | 152 | Shiny Zonebuilder |
+| 379 | 152 | Shiny Zonebuilder |
+| 380 | 152 | Eric Caccavale |
 | 381 | 151 | Sarah Cowan Burgos |
 | 382 | 150 | Sassy Brickmatch |
 | 383 | 149 | Wacky Crasher |
@@ -436,8 +436,8 @@
 | 428 | 134 | Tammy |
 | 429 | 134 | gremicx |
 | 430 | 133 | Jen Lewis |
-| 431 | 132 | Hanna Kim |
-| 432 | 132 | Andrew Thorson |
+| 431 | 132 | Andrew Thorson |
+| 432 | 132 | Hanna Kim |
 | 433 | 131 | Cheeky Setter |
 | 434 | 130 | Sarah Whalen |
 | 435 | 130 | Brian Battjes |
@@ -610,8 +610,8 @@
 | 602 | 98 | Christine Vosburgh |
 | 603 | 98 | Tanesha BigBabby Darling |
 | 604 | 97 | Daisy Rocha |
-| 605 | 97 | Rebecca Lynn |
-| 606 | 97 | Tina Baurdau |
+| 605 | 97 | Tina Baurdau |
+| 606 | 97 | Rebecca Lynn |
 | 607 | 96 | D3NO |
 | 608 | 96 | Swanky Snapclear |
 | 609 | 96 | Jason |
