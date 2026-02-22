@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Lucille Truesdale |
-| 34 | 843 | Shelly Chandler |
+| 33 | 843 | Shelly Chandler |
+| 34 | 843 | Lucille Truesdale |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -49,8 +49,8 @@
 | 41 | 757 | Ancient Intuition |
 | 42 | 736 | Goatimus Lombardi |
 | 43 | 734 | BertMofo |
-| 44 | 707 | Clarence Patawaran |
-| 45 | 707 | Rachel Anne |
+| 44 | 707 | Rachel Anne |
+| 45 | 707 | Clarence Patawaran |
 | 46 | 704 | Crystal Carroll |
 | 47 | 697 | Edward White |
 | 48 | 695 | LisaJo Picken Buchanan |
@@ -125,8 +125,8 @@
 | 117 | 303 | Lauren Scott |
 | 118 | 300 | Jason Hart |
 | 119 | 298 | Lucas J Sutton |
-| 120 | 296 | Justin Hannigan |
-| 121 | 296 | HastyGrabber |
+| 120 | 296 | HastyGrabber |
+| 121 | 296 | Justin Hannigan |
 | 122 | 294 | Kesha Brady |
 | 123 | 293 | Ashley Ingram |
 | 124 | 290 | 🥔🥔 Spudz |
@@ -135,10 +135,10 @@
 | 127 | 286 | shark tato |
 | 128 | 283 | Brittney Orengo |
 | 129 | 281 | Meagan Nicole |
-| 130 | 278 | Desi Desporte |
-| 131 | 278 | Carrie Brian |
-| 132 | 277 | Scott Jameson |
-| 133 | 277 | Mary Ann Pabukis |
+| 130 | 278 | Carrie Brian |
+| 131 | 278 | Desi Desporte |
+| 132 | 277 | Mary Ann Pabukis |
+| 133 | 277 | Scott Jameson |
 | 134 | 275 | Dizzy Tiley |
 | 135 | 274 | Calvin Cannon |
 | 136 | 272 | Keshia Lyons |
@@ -161,8 +161,8 @@
 | 153 | 230 | Autum Leigh |
 | 154 | 230 | Cursed Hag |
 | 155 | 228 | J-Rizzle |
-| 156 | 227 | Swanky Fitline |
-| 157 | 227 | Alyssa Papen |
+| 156 | 227 | Alyssa Papen |
+| 157 | 227 | Swanky Fitline |
 | 158 | 225 | Damn Libra |
 | 159 | 224 | Matt Summer |
 | 160 | 223 | Antony Dwayne Beasley |
@@ -185,12 +185,12 @@
 | 177 | 204 | Jen Caldwell |
 | 178 | 203 | Katherine Crane |
 | 179 | 202 | TRCuse |
-| 180 | 201 | Chance Strickland |
-| 181 | 201 | Melvin Baird |
+| 180 | 201 | Melvin Baird |
+| 181 | 201 | Chance Strickland |
 | 182 | 200 | Laura |
 | 183 | 199 | Zethra Prenisha Rahming |
-| 184 | 198 | Jessica Lynn Cutlip |
-| 185 | 198 | Keith Kelley |
+| 184 | 198 | Keith Kelley |
+| 185 | 198 | Jessica Lynn Cutlip |
 | 186 | 196 | Oscar Alberto Perez |
 | 187 | 195 | 中山成巳 |
 | 188 | 195 | Malakai Darien Fox |
@@ -227,8 +227,8 @@
 | 219 | 165 | Jackie Marie |
 | 220 | 164 | 030Synner |
 | 221 | 163 | Kristina Black |
-| 222 | 162 | Joanna |
-| 223 | 162 | John Brunetti |
+| 222 | 162 | John Brunetti |
+| 223 | 162 | Joanna |
 | 224 | 161 | Jenny Wells-Oakley |
 | 225 | 160 | Laura Hosford |
 | 226 | 160 | Ruben Wheeler |
@@ -314,8 +314,8 @@
 | 306 | 128 | Jeremy Steines |
 | 307 | 128 | Madison Sweere |
 | 308 | 127 | Kim Hunt |
-| 309 | 126 | Cheryl Johnson |
-| 310 | 126 | icequeenx |
+| 309 | 126 | icequeenx |
+| 310 | 126 | Cheryl Johnson |
 | 311 | 126 | PAPatty |
 | 312 | 125 | Red |
 | 313 | 125 | Daresha Fair |

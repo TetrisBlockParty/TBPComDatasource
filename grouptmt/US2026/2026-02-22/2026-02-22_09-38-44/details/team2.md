@@ -121,8 +121,8 @@
 | 113 | 1383 | Ladyrainbootz |
 | 114 | 1380 | Jose Mendoza |
 | 115 | 1342 | Eboni Banks |
-| 116 | 1342 | Christi Hulet |
-| 117 | 1342 | Bob |
+| 116 | 1342 | Bob |
+| 117 | 1342 | Christi Hulet |
 | 118 | 1333 | Mr. Street Stack |
 | 119 | 1312 | Dawn Geist-Weasner |
 | 120 | 1301 | Rosa Franklin |
@@ -198,16 +198,16 @@
 | 190 | 950 | Teresa Gillmore |
 | 191 | 944 | Nika Bee |
 | 192 | 942 | Keri Womack |
-| 193 | 941 | Cool Clearer |
-| 194 | 941 | Marie Boyd Faulk |
+| 193 | 941 | Marie Boyd Faulk |
+| 194 | 941 | Cool Clearer |
 | 195 | 932 | Catina Hutchison |
 | 196 | 925 | Moose Griffith |
 | 197 | 921 | Morgue Chick |
 | 198 | 919 | Isaac Trappiel IV |
 | 199 | 916 | Butta |
 | 200 | 915 | Kelly Trent |
-| 201 | 910 | Crystal Hoffman |
-| 202 | 910 | Shuany Arias |
+| 201 | 910 | Shuany Arias |
+| 202 | 910 | Crystal Hoffman |
 | 203 | 907 | Gene Mills |
 | 204 | 901 | Jennifer Peachey |
 | 205 | 894 | Auntie B |
@@ -493,9 +493,9 @@
 | 485 | 444 | Chab |
 | 486 | 442 | Leah |
 | 487 | 441 | Christina Wsn |
-| 488 | 440 | Victoria Regina Girolami |
-| 489 | 440 | Sarah Berger |
-| 490 | 440 | Liberty |
+| 488 | 440 | Sarah Berger |
+| 489 | 440 | Liberty |
+| 490 | 440 | Victoria Regina Girolami |
 | 491 | 438 | Johnny Yeates |
 | 492 | 437 | Bubbly Snapfit |
 | 493 | 436 | Niceday |
@@ -511,8 +511,8 @@
 | 503 | 429 | Christy Krissie |
 | 504 | 428 | Arkei Luster |
 | 505 | 428 | Shyenn Gadsby |
-| 506 | 427 | Quinn |
-| 507 | 427 | Destiny Cozier |
+| 506 | 427 | Destiny Cozier |
+| 507 | 427 | Quinn |
 | 508 | 427 | Kori Beth Babb |
 | 509 | 426 | Ashley Dow |
 | 510 | 425 | Skyler Morgan |
@@ -613,8 +613,8 @@
 | 605 | 371 | Brenda Messer |
 | 606 | 371 | Giggy Grabber |
 | 607 | 371 | Saucy Fitzone |
-| 608 | 369 | Tony Lea |
-| 609 | 369 | RaeVan Worthington |
+| 608 | 369 | RaeVan Worthington |
+| 609 | 369 | Tony Lea |
 | 610 | 369 | Juan Castillo |
 | 611 | 368 | Angi Harrison |
 | 612 | 367 | Jessica Lamb |
@@ -799,17 +799,17 @@
 | 791 | 279 | Laura Wyatt |
 | 792 | 278 | AndrewandShela Gornik |
 | 793 | 278 | Katherin Camacho |
-| 794 | 277 | Brianna Cerney |
-| 795 | 277 | Anthony Mignacca |
+| 794 | 277 | Anthony Mignacca |
+| 795 | 277 | Brianna Cerney |
 | 796 | 277 | Amanda Chamberlain |
 | 797 | 277 | Min |
 | 798 | 276 | Dandy Combo |
 | 799 | 276 | Patrick Bartlett |
 | 800 | 276 | Lindsey Leigh |
-| 801 | 276 | Jamie Dayton |
-| 802 | 276 | Jennifer Leigh |
-| 803 | 276 | Josh Webster |
-| 804 | 276 | Ryan Lauer |
+| 801 | 276 | Josh Webster |
+| 802 | 276 | Ryan Lauer |
+| 803 | 276 | Jamie Dayton |
+| 804 | 276 | Jennifer Leigh |
 | 805 | 275 | Alishac Marie |
 | 806 | 275 | Crystal Elam |
 | 807 | 275 | Neaomi Favro |
@@ -875,8 +875,8 @@
 | 867 | 258 | Warren Marleau |
 | 868 | 258 | Jo Nicole |
 | 869 | 258 | Joy LaJeunesse |
-| 870 | 258 | Shylee Tilman |
-| 871 | 258 | Mordoks Pyrography |
+| 870 | 258 | Mordoks Pyrography |
+| 871 | 258 | Shylee Tilman |
 | 872 | 258 | Tee Jaleesa |
 | 873 | 257 | Mama T |
 | 874 | 257 | Jackie Jackie Lee |
@@ -1112,8 +1112,8 @@
 | 1104 | 202 | Joshua Yonker |
 | 1105 | 202 | BIG BABY |
 | 1106 | 202 | Chirpy Snapper |
-| 1107 | 201 | LintFunk |
-| 1108 | 201 | Jennifer Rajek |
+| 1107 | 201 | Jennifer Rajek |
+| 1108 | 201 | LintFunk |
 | 1109 | 201 | Betty Ruth Hale |
 | 1110 | 200 | Rich Sullivan |
 | 1111 | 200 | Sara Silvernail-Kay |
@@ -1259,8 +1259,8 @@
 | 1251 | 178 | SpaceCase085 |
 | 1252 | 178 | Mandy Kachenmeister |
 | 1253 | 178 | Leslie Porter |
-| 1254 | 178 | Maurice Bundy |
-| 1255 | 178 | Cosmo |
+| 1254 | 178 | Cosmo |
+| 1255 | 178 | Maurice Bundy |
 | 1256 | 178 | BTA |
 | 1257 | 178 | Keila Adames |
 | 1258 | 178 | Jacques Frenette |
