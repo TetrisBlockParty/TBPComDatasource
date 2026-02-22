@@ -103,8 +103,8 @@
 | 95 | 594 | Queen Kam |
 | 96 | 591 | Jesse Olive |
 | 97 | 588 | yoyo |
-| 98 | 582 | Jay Horn |
-| 99 | 582 | Natasha Jones |
+| 98 | 582 | Natasha Jones |
+| 99 | 582 | Jay Horn |
 | 100 | 581 | Danielle Mogg |
 | 101 | 579 | Jd Morris |
 | 102 | 566 | Dolores Falco |
@@ -183,14 +183,14 @@
 | 175 | 361 | Jamie Lang |
 | 176 | 359 | Dapper Snap |
 | 177 | 358 | Chummy Caster |
-| 178 | 357 | Tom Nault |
-| 179 | 357 | Stephanie Burtin |
+| 178 | 357 | Stephanie Burtin |
+| 179 | 357 | Tom Nault |
 | 180 | 355 | Tessina Dewey-Mancino |
 | 181 | 353 | Shunta Jacobs |
 | 182 | 353 | Nora Rogers |
 | 183 | 348 | Chasity |
-| 184 | 347 | Jone |
-| 185 | 347 | Nicole Flippo |
+| 184 | 347 | Nicole Flippo |
+| 185 | 347 | Jone |
 | 186 | 346 | RickyG |
 | 187 | 343 | Ashley Raines |
 | 188 | 341 | Samantha Lynn |
@@ -207,8 +207,8 @@
 | 199 | 311 | Rochelle Hazelett |
 | 200 | 311 | Araceli Parra |
 | 201 | 310 | Danielle Balcom |
-| 202 | 308 | Rania Zaqout |
-| 203 | 308 | Daryn Elliott |
+| 202 | 308 | Daryn Elliott |
+| 203 | 308 | Rania Zaqout |
 | 204 | 307 | rnr junky |
 | 205 | 307 | Blocked |
 | 206 | 304 | Sissy Lowery Davis |
@@ -217,8 +217,8 @@
 | 209 | 300 | Sherika C. McDaniels |
 | 210 | 298 | MsBee |
 | 211 | 297 | Jojo M |
-| 212 | 296 | Ammmmmmy |
-| 213 | 296 | Katrina Turner |
+| 212 | 296 | Katrina Turner |
+| 213 | 296 | Ammmmmmy |
 | 214 | 296 | Brandon Givens |
 | 215 | 295 | Marci Mize Fandrich |
 | 216 | 291 | Kristal C Lee |
@@ -238,8 +238,8 @@
 | 230 | 275 | Cassandra Bryant |
 | 231 | 274 | Tye Stovall |
 | 232 | 272 | Dee Franklin |
-| 233 | 271 | Cass Mendoza |
-| 234 | 271 | Ashley Muncey |
+| 233 | 271 | Ashley Muncey |
+| 234 | 271 | Cass Mendoza |
 | 235 | 269 | Trisha Balmer |
 | 236 | 267 | Terry Jo Jones |
 | 237 | 265 | Sarah Moyer |
@@ -254,12 +254,12 @@
 | 246 | 258 | Tamara Deherrera |
 | 247 | 257 | Ashley Jones |
 | 248 | 256 | Brenda Lee Vander Molen |
-| 249 | 256 | KayB |
-| 250 | 256 | Tiffany Davie |
+| 249 | 256 | Tiffany Davie |
+| 250 | 256 | KayB |
 | 251 | 251 | Sabrina Hardrick |
 | 252 | 250 | fraulila |
-| 253 | 249 | JerseyJess |
-| 254 | 249 | Annie Marie |
+| 253 | 249 | Annie Marie |
+| 254 | 249 | JerseyJess |
 | 255 | 247 | Carrie Huskey |
 | 256 | 246 | Eon Harris |
 | 257 | 246 | Peppy Shifter |
@@ -281,10 +281,10 @@
 | 273 | 225 | Dirtgirl27 |
 | 274 | 224 | Quirky Dropzone |
 | 275 | 221 | Vaners |
-| 276 | 221 | Jaime Monhaut-Reed |
-| 277 | 221 | Alice |
-| 278 | 220 | rosy |
-| 279 | 220 | Tosha Griffey |
+| 276 | 221 | Alice |
+| 277 | 221 | Jaime Monhaut-Reed |
+| 278 | 220 | Tosha Griffey |
+| 279 | 220 | rosy |
 | 280 | 218 | Michael Lucado |
 | 281 | 217 | Steffi Chris Dacones |
 | 282 | 216 | Twisty Brick LT |
@@ -311,8 +311,8 @@
 | 303 | 205 | Kirhonda Autmon |
 | 304 | 204 | Aerian Preston |
 | 305 | 203 | Angie Harper |
-| 306 | 202 | Staci George Fitzsimmons |
-| 307 | 202 | Tipsy Zonebuilder |
+| 306 | 202 | Tipsy Zonebuilder |
+| 307 | 202 | Staci George Fitzsimmons |
 | 308 | 201 | Alexmac |
 | 309 | 201 | Hyper Matchzone |
 | 310 | 201 | Daring Builder |
@@ -383,8 +383,8 @@
 | 375 | 159 | Salena Whitlock |
 | 376 | 158 | Willow |
 | 377 | 157 | Katrina E Jelks |
-| 378 | 157 | Angel Mendez |
-| 379 | 157 | Wetwet |
+| 378 | 157 | Wetwet |
+| 379 | 157 | Angel Mendez |
 | 380 | 156 | Nichole Greene |
 | 381 | 155 | Michell Hendershott Jackson |
 | 382 | 155 | Michael Leblanc |
@@ -430,9 +430,9 @@
 | 422 | 141 | Reina Roth |
 | 423 | 141 | Weerae |
 | 424 | 140 | Jumpy Curvebuilder |
-| 425 | 140 | Boldy Corner |
-| 426 | 140 | Alison Baus |
-| 427 | 140 | Linda Draper |
+| 425 | 140 | Alison Baus |
+| 426 | 140 | Linda Draper |
+| 427 | 140 | Boldy Corner |
 | 428 | 139 | Beppy |
 | 429 | 139 | Paula Little |
 | 430 | 138 | Bleu Sun Beams |
@@ -648,8 +648,8 @@
 | 640 | 94 | Tommy Proctor |
 | 641 | 94 | Jennifer Kahler |
 | 642 | 94 | Jalissa Monique |
-| 643 | 93 | Tucker Allen |
-| 644 | 93 | Samantha Long |
+| 643 | 93 | Samantha Long |
+| 644 | 93 | Tucker Allen |
 | 645 | 93 | Katheline Lazo Luizaga |
 | 646 | 93 | Spunky Racker |
 | 647 | 93 | paranoid |

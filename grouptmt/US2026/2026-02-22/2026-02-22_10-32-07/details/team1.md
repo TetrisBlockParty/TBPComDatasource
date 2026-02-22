@@ -155,8 +155,8 @@
 | 147 | 256 | David Miller |
 | 148 | 255 | Elaine Elaine |
 | 149 | 254 | Al Smith Jr |
-| 150 | 253 | Witty Builderfit |
-| 151 | 253 | Plucky Fallzone |
+| 150 | 253 | Plucky Fallzone |
+| 151 | 253 | Witty Builderfit |
 | 152 | 252 | Dena Kayy |
 | 153 | 247 | Tana |
 | 154 | 244 | Tyler Werts |
@@ -165,8 +165,8 @@
 | 157 | 241 | John J. Cronin |
 | 158 | 239 | Jamie Jury |
 | 159 | 232 | Jessi Sauer |
-| 160 | 230 | Billie Dawn Sparks |
-| 161 | 230 | Frothy Pattern |
+| 160 | 230 | Frothy Pattern |
+| 161 | 230 | Billie Dawn Sparks |
 | 162 | 229 | David Lutcher |
 | 163 | 226 | Sleepysloath5745 |
 | 164 | 226 | Kandae |

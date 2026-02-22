@@ -187,8 +187,8 @@
 | 179 | 990 | Amber Shoemaker |
 | 180 | 989 | Teddi Notyalc |
 | 181 | 988 | Maegan Beaule |
-| 182 | 986 | RAEPR05 |
-| 183 | 986 | Poppy Snap |
+| 182 | 986 | Poppy Snap |
+| 183 | 986 | RAEPR05 |
 | 184 | 985 | Taylor Phillips |
 | 185 | 974 | Dolores Russworn |
 | 186 | 973 | Kim Dean |
@@ -259,8 +259,8 @@
 | 251 | 767 | Jessica Wayne Cornwall |
 | 252 | 765 | Jodi Blake |
 | 253 | 764 | Pacynthia Williams |
-| 254 | 763 | Mischelle Clay |
-| 255 | 763 | Samantha Jo |
+| 254 | 763 | Samantha Jo |
+| 255 | 763 | Mischelle Clay |
 | 256 | 763 | Beth |
 | 257 | 761 | Hyper Cluster |
 | 258 | 760 | Danielle Simmons |
@@ -426,8 +426,8 @@
 | 418 | 500 | Sarah Ridenour |
 | 419 | 499 | Sarah Massey |
 | 420 | 498 | Rhonda Milstead |
-| 421 | 497 | Doowop40 |
-| 422 | 497 | June E Hanson |
+| 421 | 497 | June E Hanson |
+| 422 | 497 | Doowop40 |
 | 423 | 497 | Kimberly Randesi |
 | 424 | 496 | Blacc Blac |
 | 425 | 493 | Kara Gillen |
@@ -443,8 +443,8 @@
 | 435 | 487 | MrsCandyfine As Wine Truss |
 | 436 | 486 | Caitlin Schmid |
 | 437 | 485 | Mamachelle Eisweirth |
-| 438 | 485 | Ann Matzkanin |
-| 439 | 485 | Michelle Fields |
+| 438 | 485 | Michelle Fields |
+| 439 | 485 | Ann Matzkanin |
 | 440 | 485 | Dapper Dasher |
 | 441 | 484 | Brenna Ann |
 | 442 | 483 | Victor Obiakarije |
@@ -472,8 +472,8 @@
 | 464 | 466 | Koa N Sharon Chen |
 | 465 | 465 | Davetta Sanford |
 | 466 | 464 | snkylnk |
-| 467 | 463 | Cody Nishimura |
-| 468 | 463 | Jaye EL Hunter |
+| 467 | 463 | Jaye EL Hunter |
+| 468 | 463 | Cody Nishimura |
 | 469 | 463 | Sue Leard |
 | 470 | 462 | Jarboe |
 | 471 | 462 | Daphne Jordan |
@@ -573,8 +573,8 @@
 | 565 | 394 | Taryece Gause |
 | 566 | 393 | Alexandra Weir |
 | 567 | 393 | Deyawn Smith |
-| 568 | 393 | bbv |
-| 569 | 393 | Jamie West |
+| 568 | 393 | Jamie West |
+| 569 | 393 | bbv |
 | 570 | 391 | Qiana Sanders |
 | 571 | 391 | Adam Simmons |
 | 572 | 391 | Chilly Bridgepiece |
@@ -607,8 +607,8 @@
 | 599 | 378 | Tina Marie |
 | 600 | 378 | Jasmine Kenney |
 | 601 | 377 | Jason H Baker |
-| 602 | 376 | Darlene Bowman |
-| 603 | 376 | James Zaragoza |
+| 602 | 376 | James Zaragoza |
+| 603 | 376 | Darlene Bowman |
 | 604 | 375 | Cecilia A Jenkins |
 | 605 | 375 | Lively Edgepiece |
 | 606 | 373 | Ashley Marie |
@@ -682,8 +682,8 @@
 | 674 | 337 | Tum |
 | 675 | 337 | Diallo Sparkman |
 | 676 | 337 | Savannah Alexander |
-| 677 | 336 | Austin Wilson |
-| 678 | 336 | bru |
+| 677 | 336 | bru |
+| 678 | 336 | Austin Wilson |
 | 679 | 336 | Swanky Columnbuilder |
 | 680 | 335 | Danielle Ayoub |
 | 681 | 335 | Brooke Leigh Strube |
@@ -759,8 +759,8 @@
 | 751 | 300 | Kacee Conrad Bock |
 | 752 | 299 | Cassie Newton |
 | 753 | 298 | Frilly Fallzone |
-| 754 | 298 | Ryan Stadel |
-| 755 | 298 | Lazy Riseclear |
+| 754 | 298 | Lazy Riseclear |
+| 755 | 298 | Ryan Stadel |
 | 756 | 297 | Toni Lynn |
 | 757 | 297 | Frisky Patternline |
 | 758 | 297 | Britney M. |
@@ -790,10 +790,10 @@
 | 782 | 287 | Epic Stackzone |
 | 783 | 286 | Kelsey Sullivan |
 | 784 | 285 | Kimberly Mitchell |
-| 785 | 285 | Court |
-| 786 | 285 | Epic Stackbuilder |
-| 787 | 284 | Hillary Franklin |
-| 788 | 284 | Christina Walker |
+| 785 | 285 | Epic Stackbuilder |
+| 786 | 285 | Court |
+| 787 | 284 | Christina Walker |
+| 788 | 284 | Hillary Franklin |
 | 789 | 282 | Nutty Slice |
 | 790 | 281 | Anthony |
 | 791 | 280 | Reece Smith |
@@ -851,8 +851,8 @@
 | 843 | 265 | trabuco |
 | 844 | 265 | Theresa Sterrett |
 | 845 | 265 | Cool Grabber |
-| 846 | 265 | Chummy Breaker |
-| 847 | 265 | Kray Kray Katelynn |
+| 846 | 265 | Kray Kray Katelynn |
+| 847 | 265 | Chummy Breaker |
 | 848 | 264 | Ocean-Brianna McGregor |
 | 849 | 264 | Rachel Switala |
 | 850 | 264 | Nicki Stephens |
@@ -913,8 +913,8 @@
 | 905 | 251 | Sveta Lana |
 | 906 | 251 | Regina Unruh |
 | 907 | 251 | Emoniee Sa'niaya |
-| 908 | 251 | Chipper Dashpiece |
-| 909 | 251 | Kimmie Zimmerman-Rocha |
+| 908 | 251 | Kimmie Zimmerman-Rocha |
+| 909 | 251 | Chipper Dashpiece |
 | 910 | 250 | Kay Stevenson |
 | 911 | 250 | Drew Berkelbach |
 | 912 | 249 | J.L. Roberts |
@@ -1128,8 +1128,8 @@
 | 1120 | 201 | Jennifer Rajek |
 | 1121 | 201 | LintFunk |
 | 1122 | 201 | Betty Ruth Hale |
-| 1123 | 200 | Rich Sullivan |
-| 1124 | 200 | Sara Silvernail-Kay |
+| 1123 | 200 | Sara Silvernail-Kay |
+| 1124 | 200 | Rich Sullivan |
 | 1125 | 200 | Shyne Sun |
 | 1126 | 199 | Tiffany Michelle Arnold |
 | 1127 | 199 | Boldy Block |
@@ -1325,8 +1325,8 @@
 | 1317 | 173 | Robin |
 | 1318 | 173 | Majed Tawk |
 | 1319 | 172 | Fredonia Lewis |
-| 1320 | 172 | Fancy Glidezone |
-| 1321 | 172 | Patty |
+| 1320 | 172 | Patty |
+| 1321 | 172 | Fancy Glidezone |
 | 1322 | 172 | Ashley M. Davis |
 | 1323 | 171 | Abby Jensen |
 | 1324 | 171 | Tash |
@@ -1655,8 +1655,8 @@
 | 1647 | 139 | Poppy Matcher |
 | 1648 | 139 | Fluffy |
 | 1649 | 139 | Dee Moore |
-| 1650 | 139 | Jimmy Xim |
-| 1651 | 139 | Sarah Starr Fitzenrider |
+| 1650 | 139 | Sarah Starr Fitzenrider |
+| 1651 | 139 | Jimmy Xim |
 | 1652 | 139 | Andrew Fisher |
 | 1653 | 139 | Melissa Moat |
 | 1654 | 139 | Christine Coughlin |
