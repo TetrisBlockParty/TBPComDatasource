@@ -262,9 +262,9 @@
 | 254 | 286 | Tye Stovall |
 | 255 | 284 | Denise Nardoni |
 | 256 | 283 | Cheeky Snapper |
-| 257 | 282 | Marquita Sheard |
-| 258 | 282 | Angie Harper |
-| 259 | 282 | Terry Jo Jones |
+| 257 | 282 | Angie Harper |
+| 258 | 282 | Terry Jo Jones |
+| 259 | 282 | Marquita Sheard |
 | 260 | 281 | Carrie Huskey |
 | 261 | 278 | Sabrina Hardrick |
 | 262 | 278 | Rufus Lincoln |

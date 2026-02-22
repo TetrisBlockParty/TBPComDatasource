@@ -116,8 +116,8 @@
 | 108 | 426 | Ren Mc |
 | 109 | 419 | shar |
 | 110 | 415 | Monica Daley |
-| 111 | 412 | Scott Jameson |
-| 112 | 412 | Jenna Ingersoll |
+| 111 | 412 | Jenna Ingersoll |
+| 112 | 412 | Scott Jameson |
 | 113 | 409 | Isabella Blanco |
 | 114 | 407 | Marie-Pier Desjardins |
 | 115 | 404 | Courtney Cicoria |
@@ -149,8 +149,8 @@
 | 141 | 319 | Guy Incognito |
 | 142 | 318 | Lauren Scott |
 | 143 | 314 | Andy Cabral |
-| 144 | 307 | Bio Nelly |
-| 145 | 307 | Angela Srubar-Norman |
+| 144 | 307 | Angela Srubar-Norman |
+| 145 | 307 | Bio Nelly |
 | 146 | 300 | Dana Scott |
 | 147 | 300 | Jason Hart |
 | 148 | 299 | TRCuse |
@@ -163,8 +163,8 @@
 | 155 | 290 | 🥔🥔 Spudz |
 | 156 | 290 | Chaz Duncan |
 | 157 | 288 | Leah Kutz Zirbel |
-| 158 | 286 | shark tato |
-| 159 | 286 | Brittney Orengo |
+| 158 | 286 | Brittney Orengo |
+| 159 | 286 | shark tato |
 | 160 | 282 | Rafael Valentin |
 | 161 | 281 | Lindsay Ball |
 | 162 | 277 | Mary Ann Pabukis |
@@ -254,8 +254,8 @@
 | 246 | 198 | Calvin Dennis |
 | 247 | 198 | Silly SeaWeed |
 | 248 | 197 | Gilles Lanctot |
-| 249 | 195 | 中山成巳 |
-| 250 | 195 | Snippy Puzzle |
+| 249 | 195 | Snippy Puzzle |
+| 250 | 195 | 中山成巳 |
 | 251 | 194 | Zany Twisterfit |
 | 252 | 193 | Rio Rocha |
 | 253 | 192 | Andrew Dang |
@@ -483,8 +483,8 @@
 | 475 | 105 | Undeniable Williams |
 | 476 | 105 | meowmew |
 | 477 | 104 | Jeff Roberts |
-| 478 | 104 | Melissa VanBourgondien |
-| 479 | 104 | Jessica Johnston |
+| 478 | 104 | Jessica Johnston |
+| 479 | 104 | Melissa VanBourgondien |
 | 480 | 104 | Amy Jean |
 | 481 | 103 | Lilya Troutman |
 | 482 | 102 | Stella |

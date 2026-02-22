@@ -84,8 +84,8 @@
 | 76 | 486 | Tater |
 | 77 | 485 | Cartier |
 | 78 | 483 | Evie Khalil |
-| 79 | 483 | MomMom |
-| 80 | 483 | Ryan Lunnin |
+| 79 | 483 | Ryan Lunnin |
+| 80 | 483 | MomMom |
 | 81 | 480 | Nancy Green |
 | 82 | 472 | April Carroll |
 | 83 | 471 | Jennifer ManWarren |

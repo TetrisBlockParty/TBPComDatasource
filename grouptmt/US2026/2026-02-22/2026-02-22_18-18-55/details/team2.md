@@ -156,8 +156,8 @@
 | 148 | 1290 | Bussyiano Page |
 | 149 | 1286 | Eileen Hale |
 | 150 | 1286 | Altamirano Michael |
-| 151 | 1282 | Tanya Parsons |
-| 152 | 1282 | Ashley Rose Frederick |
+| 151 | 1282 | Ashley Rose Frederick |
+| 152 | 1282 | Tanya Parsons |
 | 153 | 1273 | Cool Rollpiece |
 | 154 | 1271 | Shandrica Lowe |
 | 155 | 1248 | Isabela Shaw |
@@ -165,8 +165,8 @@
 | 157 | 1236 | Nika Bee |
 | 158 | 1232 | Groovy Puzzle |
 | 159 | 1230 | Megan Garrick |
-| 160 | 1226 | Vo'Landa Reels |
-| 161 | 1226 | Brandy Andre |
+| 160 | 1226 | Brandy Andre |
+| 161 | 1226 | Vo'Landa Reels |
 | 162 | 1211 | Lucky Ladybug |
 | 163 | 1203 | Suki Kaur |
 | 164 | 1201 | Murrae Lynn Rebarchek |
@@ -658,8 +658,8 @@
 | 650 | 398 | Ebony Deloach Bryant |
 | 651 | 398 | Frisky Riserbuilder |
 | 652 | 398 | Lathasa Newkirk |
-| 653 | 396 | AkaLefty |
-| 654 | 396 | Candy Pitts |
+| 653 | 396 | Candy Pitts |
+| 654 | 396 | AkaLefty |
 | 655 | 396 | Boogie SoAnimated Johnson |
 | 656 | 395 | Vung Nguyen |
 | 657 | 393 | Deyawn Smith |
