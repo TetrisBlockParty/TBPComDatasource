@@ -96,7 +96,7 @@
 | 88 | 400 | Cynthia Bradley |
 | 89 | 399 | Nerdy Linkblock |
 | 90 | 397 | Tdub |
-| 91 | 390 | Goose egg |
+| 91 | 390 | Lori Bales |
 | 92 | 390 | Candy Jones |
 | 93 | 390 | Goose egg |
 | 94 | 389 | Trina Gee |
@@ -105,8 +105,8 @@
 | 97 | 383 | Loony Fitzone |
 | 98 | 383 | pjbeta |
 | 99 | 381 | Luciano Moreira |
-| 100 | 379 | Austin James |
-| 101 | 379 | Kimmie Kimms |
+| 100 | 379 | Kimmie Kimms |
+| 101 | 379 | Austin James |
 | 102 | 376 | lil mickey |
 | 103 | 374 | Tinah Montanna |
 | 104 | 364 | Shauna Loe |
@@ -126,8 +126,8 @@
 | 118 | 332 | Kristen Gideon |
 | 119 | 330 | Sweet Baker |
 | 120 | 326 | Monica Donato |
-| 121 | 321 | Tanya Carpenter-Reynolds |
-| 122 | 321 | Maria C. Hernandez |
+| 121 | 321 | Maria C. Hernandez |
+| 122 | 321 | Tanya Carpenter-Reynolds |
 | 123 | 318 | Jessica Sheehan |
 | 124 | 316 | Ly Phethmany |
 | 125 | 316 | Dizzy Party |
@@ -148,8 +148,8 @@
 | 140 | 290 | Death |
 | 141 | 288 | GATOR |
 | 142 | 285 | Ananda Mendez |
-| 143 | 284 | Emily Adelaide Wheatley |
-| 144 | 284 | Rachael |
+| 143 | 284 | Rachael |
+| 144 | 284 | Emily Adelaide Wheatley |
 | 145 | 283 | Franswa |
 | 146 | 282 | Tyler Werts |
 | 147 | 282 | Snippy Wipebuilder |
@@ -280,9 +280,9 @@
 | 272 | 173 | Cranky Pattern |
 | 273 | 173 | Rico Rico |
 | 274 | 171 | Greg Premoe |
-| 275 | 170 | Spunky Builderpiece |
-| 276 | 170 | Jason Savage |
-| 277 | 170 | Tina Englert |
+| 275 | 170 | Tina Englert |
+| 276 | 170 | Spunky Builderpiece |
+| 277 | 170 | Jason Savage |
 | 278 | 169 | Abbey Crespo |
 | 279 | 168 | Angela Fairbank |
 | 280 | 167 | Shannon Marie Pitts |

@@ -116,8 +116,8 @@
 | 108 | 393 | Carlton Unfiltered |
 | 109 | 392 | Ericca Eldridge |
 | 110 | 392 | Scott Jameson |
-| 111 | 391 | Ramel Rhodes |
-| 112 | 391 | Monica Daley |
+| 111 | 391 | Monica Daley |
+| 112 | 391 | Ramel Rhodes |
 | 113 | 388 | Tina Martinez |
 | 114 | 387 | Denise Carlson |
 | 115 | 382 | Lori Walker |
@@ -128,8 +128,8 @@
 | 120 | 351 | Serena Goodridge |
 | 121 | 344 | Livvy |
 | 122 | 343 | Latisha Davis |
-| 123 | 332 | HastyGrabber |
-| 124 | 332 | Desi Desporte |
+| 123 | 332 | Desi Desporte |
+| 124 | 332 | HastyGrabber |
 | 125 | 331 | ThaEviLJeNiuZ |
 | 126 | 330 | David Lay |
 | 127 | 330 | Twisty Clicky |
@@ -141,8 +141,8 @@
 | 133 | 318 | Carrie Brian |
 | 134 | 314 | Andy Cabral |
 | 135 | 303 | Lauren Scott |
-| 136 | 300 | Jason Hart |
-| 137 | 300 | Dana Scott |
+| 136 | 300 | Dana Scott |
+| 137 | 300 | Jason Hart |
 | 138 | 299 | TRCuse |
 | 139 | 298 | Lucas J Sutton |
 | 140 | 295 | Bio Nelly |
@@ -158,8 +158,8 @@
 | 150 | 275 | Dizzy Tiley |
 | 151 | 274 | Calvin Cannon |
 | 152 | 273 | Crystal Nicolette Moore |
-| 153 | 272 | Alan George LaRage |
-| 154 | 272 | Keshia Lyons |
+| 153 | 272 | Keshia Lyons |
+| 154 | 272 | Alan George LaRage |
 | 155 | 271 | Sarah Brown |
 | 156 | 267 | Damn Libra |
 | 157 | 265 | Jeff Brian Gates |
@@ -172,11 +172,11 @@
 | 164 | 256 | Mylo Lipscomb |
 | 165 | 253 | Casey Grabner |
 | 166 | 250 | Matt Dell'Olio |
-| 167 | 245 | Peachy Fall |
-| 168 | 245 | Diana Houts |
-| 169 | 244 | Twisty Cascadezone |
-| 170 | 244 | J-Rizzle |
-| 171 | 244 | Mimi |
+| 167 | 245 | Diana Houts |
+| 168 | 245 | Peachy Fall |
+| 169 | 244 | Mimi |
+| 170 | 244 | Twisty Cascadezone |
+| 171 | 244 | J-Rizzle |
 | 172 | 241 | Allen Lloyd |
 | 173 | 239 | Zethra Prenisha Rahming |
 | 174 | 239 | Jose Dejesus |
@@ -193,8 +193,8 @@
 | 185 | 222 | blockstar |
 | 186 | 221 | Rheanda Weaskus |
 | 187 | 221 | PurpleMoonMa |
-| 188 | 217 | Kim Hunt |
-| 189 | 217 | Chaz Duncan |
+| 188 | 217 | Chaz Duncan |
+| 189 | 217 | Kim Hunt |
 | 190 | 216 | ZeeZee |
 | 191 | 216 | Chance Strickland |
 | 192 | 213 | Juls |
@@ -284,15 +284,15 @@
 | 276 | 156 | Terrance Fung |
 | 277 | 154 | Zany Shatterer |
 | 278 | 153 | KimoKoala |
-| 279 | 153 | Lush Linkfall |
-| 280 | 153 | Empress Oasis |
-| 281 | 152 | Angela Geist Jusinski |
-| 282 | 152 | Faja |
-| 283 | 151 | Shanon Klair |
-| 284 | 151 | Joseph Pace |
+| 279 | 153 | Empress Oasis |
+| 280 | 153 | Lush Linkfall |
+| 281 | 152 | Faja |
+| 282 | 152 | Angela Geist Jusinski |
+| 283 | 151 | Joseph Pace |
+| 284 | 151 | Shanon Klair |
 | 285 | 150 | GBR |
-| 286 | 150 | Brandon Link |
-| 287 | 150 | Jared Gutwein |
+| 286 | 150 | Jared Gutwein |
+| 287 | 150 | Brandon Link |
 | 288 | 149 | Shainne Brewer |
 | 289 | 148 | Cranky Rollpiece |
 | 290 | 148 | Nubian1 |
@@ -427,7 +427,7 @@
 | 419 | 106 | Verna Neal |
 | 420 | 106 | Nick Horn |
 | 421 | 106 | Jessica Wells |
-| 422 | 106 | Moonsterix |
+| 422 | 106 | Lynn Marie |
 | 423 | 106 | Zappy Snaplink |
 | 424 | 106 | Moonsterix |
 | 425 | 105 | Zesty Linkgrid |

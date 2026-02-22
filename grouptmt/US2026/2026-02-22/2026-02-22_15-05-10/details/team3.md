@@ -64,8 +64,8 @@
 | 56 | 909 | Jennifer |
 | 57 | 908 | Alanna Rogers |
 | 58 | 903 | Sarah Fehring |
-| 59 | 895 | Amanda L Baker |
-| 60 | 895 | Shonna Roberts |
+| 59 | 895 | Shonna Roberts |
+| 60 | 895 | Amanda L Baker |
 | 61 | 893 | Khristen AC |
 | 62 | 882 | Susan Valentino |
 | 63 | 881 | Nate Burnside |
@@ -174,8 +174,8 @@
 | 166 | 399 | Mcathen |
 | 167 | 397 | Annie Déè |
 | 168 | 393 | Fallorina Susana |
-| 169 | 391 | Calista Jo Dickson |
-| 170 | 391 | Sarah Cowan Burgos |
+| 169 | 391 | Sarah Cowan Burgos |
+| 170 | 391 | Calista Jo Dickson |
 | 171 | 390 | Hasty Cascadefit |
 | 172 | 389 | Jeni Dow |
 | 173 | 385 | Shunta Jacobs |
@@ -289,8 +289,8 @@
 | 281 | 236 | Lys |
 | 282 | 236 | Jess Bissett |
 | 283 | 235 | Cozy Snaplink |
-| 284 | 233 | Josh Borquez |
-| 285 | 233 | Ray Lader |
+| 284 | 233 | Ray Lader |
+| 285 | 233 | Josh Borquez |
 | 286 | 232 | Donna |
 | 287 | 227 | Krystal Gerstberger |
 | 288 | 227 | ROODBOY |
@@ -343,8 +343,8 @@
 | 335 | 200 | Colleen Phelps |
 | 336 | 200 | glichmod |
 | 337 | 200 | Saucy Buildout |
-| 338 | 199 | Kristian Thurman |
-| 339 | 199 | Mariah Williams |
+| 338 | 199 | Mariah Williams |
+| 339 | 199 | Kristian Thurman |
 | 340 | 198 | Goofy Fall |
 | 341 | 196 | Ashley Lynn Marchese |
 | 342 | 195 | Nicha Hooker |
@@ -441,7 +441,7 @@
 | 433 | 153 | Sheila M Frazier |
 | 434 | 152 | Silver Marchán |
 | 435 | 152 | Shiny Zonebuilder |
-| 436 | 152 | Silver Marchán |
+| 436 | 152 | Beppy |
 | 437 | 150 | Sassy Brickmatch |
 | 438 | 149 | Arden White Kirsch |
 | 439 | 149 | Alexis Taylor |
@@ -466,8 +466,8 @@
 | 458 | 143 | Deseree Ewing |
 | 459 | 143 | Tracey Cox |
 | 460 | 142 | Erica Anderson |
-| 461 | 142 | Cheery Brickster |
-| 462 | 142 | Gray Hicks |
+| 461 | 142 | Gray Hicks |
+| 462 | 142 | Cheery Brickster |
 | 463 | 142 | Jl |
 | 464 | 141 | Jen Lewis |
 | 465 | 141 | Bhreagh Gentile |
@@ -915,8 +915,8 @@
 | 907 | 75 | juju |
 | 908 | 75 | Agata Sawicka |
 | 909 | 75 | Jeffery Brown |
-| 910 | 75 | Rickeia Lanae Wright |
-| 911 | 75 | Kendra Benton |
+| 910 | 75 | Kendra Benton |
+| 911 | 75 | Rickeia Lanae Wright |
 | 912 | 74 | Smiley Zone |
 | 913 | 74 | Autumn Lenhart |
 | 914 | 74 | AL Cab |
@@ -942,8 +942,8 @@
 | 934 | 73 | Alan Falconer |
 | 935 | 73 | Speedy Builder |
 | 936 | 73 | Rhiannon Nikkie Thomas Ashbeck |
-| 937 | 73 | Snippy Brickster |
-| 938 | 73 | Carrie Wheetley |
+| 937 | 73 | Carrie Wheetley |
+| 938 | 73 | Snippy Brickster |
 | 939 | 72 | Johnny Hill |
 | 940 | 72 | Bouncy Line |
 | 941 | 72 | Rachael Hamelers |
