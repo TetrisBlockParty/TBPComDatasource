@@ -114,8 +114,8 @@
 | 106 | 438 | Bea Miles |
 | 107 | 432 | Jenny Hrndz |
 | 108 | 430 | Patricia White |
-| 109 | 428 | Betty Ivy |
-| 110 | 428 | Elissa S-k |
+| 109 | 428 | Elissa S-k |
+| 110 | 428 | Betty Ivy |
 | 111 | 416 | Mary Pellegrino |
 | 112 | 410 | Stephanie Blkpep Davidson |
 | 113 | 410 | Stephanie Simpson |
@@ -134,8 +134,8 @@
 | 126 | 391 | Calista Jo Dickson |
 | 127 | 390 | Hasty Cascadefit |
 | 128 | 386 | Katie Knaus |
-| 129 | 378 | Makelini Mausia |
-| 130 | 378 | Tasha Schriewer |
+| 129 | 378 | Tasha Schriewer |
+| 130 | 378 | Makelini Mausia |
 | 131 | 376 | Loopy Clusterer |
 | 132 | 371 | mjl574 |
 | 133 | 370 | Santeria Trece Candles |

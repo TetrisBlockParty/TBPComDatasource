@@ -206,8 +206,8 @@
 | 198 | 158 | Sarah Marie |
 | 199 | 154 | Melissa Lemmon |
 | 200 | 153 | Barry Mac'Ockner |
-| 201 | 152 | Speedy Snapfall |
-| 202 | 152 | Brave Wrecker |
+| 201 | 152 | Brave Wrecker |
+| 202 | 152 | Speedy Snapfall |
 | 203 | 150 | Adele Rahman |
 | 204 | 150 | Agustin Duarte Orozco |
 | 205 | 147 | Davery Spencer Adair |

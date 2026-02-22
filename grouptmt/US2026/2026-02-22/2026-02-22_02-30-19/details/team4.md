@@ -76,8 +76,8 @@
 | 68 | 409 | Isabella Blanco |
 | 69 | 402 | Courtney Cicoria |
 | 70 | 399 | Jenna Ingersoll |
-| 71 | 396 | Alicia Bass |
-| 72 | 396 | Amy Suckarieh |
+| 71 | 396 | Amy Suckarieh |
+| 72 | 396 | Alicia Bass |
 | 73 | 391 | Ramel Rhodes |
 | 74 | 390 | Carlton Unfiltered |
 | 75 | 388 | YoMomma |
@@ -124,8 +124,8 @@
 | 116 | 235 | Lucas J Sutton |
 | 117 | 232 | Peachy Fall |
 | 118 | 231 | Chastity Mitchell |
-| 119 | 230 | Daria Rycewicz |
-| 120 | 230 | Autum Leigh |
+| 119 | 230 | Autum Leigh |
+| 120 | 230 | Daria Rycewicz |
 | 121 | 226 | Dana Scott |
 | 122 | 225 | Damn Libra |
 | 123 | 222 | Joeliecea Cobb |
@@ -143,20 +143,20 @@
 | 135 | 212 | Calvin Cannon |
 | 136 | 211 | Twisty Cascadezone |
 | 137 | 210 | Swanky Fitline |
-| 138 | 205 | Sarah Neathery |
-| 139 | 205 | Tyler Terrific |
+| 138 | 205 | Tyler Terrific |
+| 139 | 205 | Sarah Neathery |
 | 140 | 204 | Jen Caldwell |
 | 141 | 203 | Katherine Crane |
 | 142 | 201 | Melvin Baird |
 | 143 | 198 | Jessica Lynn Cutlip |
-| 144 | 196 | Jenna McGeorge |
-| 145 | 196 | Jeff Brian Gates |
+| 144 | 196 | Jeff Brian Gates |
+| 145 | 196 | Jenna McGeorge |
 | 146 | 195 | Malakai Darien Fox |
 | 147 | 194 | Zany Twisterfit |
 | 148 | 192 | Shauna Havard |
 | 149 | 190 | Justin Hannigan |
-| 150 | 189 | Chilly Crasher |
-| 151 | 189 | Calvin Dennis |
+| 150 | 189 | Calvin Dennis |
+| 151 | 189 | Chilly Crasher |
 | 152 | 189 | Stacey Stano |
 | 153 | 188 | Andria Lynn |
 | 154 | 187 | TheNeesh50 |

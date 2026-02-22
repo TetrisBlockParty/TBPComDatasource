@@ -198,8 +198,8 @@
 | 190 | 771 | Terri McKelvey McKinley |
 | 191 | 765 | Jodi Blake |
 | 192 | 763 | Dineisha Carpenter |
-| 193 | 763 | Samantha Jo |
-| 194 | 763 | Foxxo |
+| 193 | 763 | Foxxo |
+| 194 | 763 | Samantha Jo |
 | 195 | 759 | Lisa Ongtowasruk |
 | 196 | 756 | Stephanie Neuburger |
 | 197 | 755 | Ashley House |
