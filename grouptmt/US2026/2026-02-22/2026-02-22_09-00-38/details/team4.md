@@ -56,14 +56,14 @@
 | 48 | 695 | LisaJo Picken Buchanan |
 | 49 | 667 | Anthony Bryan Riva |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Rebecca Moulton Pinciaro |
-| 52 | 659 | Jonathan Kimbrough |
+| 51 | 659 | Jonathan Kimbrough |
+| 52 | 659 | Rebecca Moulton Pinciaro |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Dustee Craddock-Harrison |
-| 58 | 636 | Kimyatta Cavin |
+| 57 | 636 | Kimyatta Cavin |
+| 58 | 636 | Dustee Craddock-Harrison |
 | 59 | 623 | Robin Getchel |
 | 60 | 599 | Brittney Griggs |
 | 61 | 593 | Lisa Davis |
@@ -94,13 +94,13 @@
 | 86 | 418 | Chastity Mitchell |
 | 87 | 416 | YoMomma |
 | 88 | 412 | Jenna Ingersoll |
-| 89 | 409 | Isabella Blanco |
-| 90 | 409 | Jolly Dashfit |
+| 89 | 409 | Jolly Dashfit |
+| 90 | 409 | Isabella Blanco |
 | 91 | 407 | Leslie Thomas |
 | 92 | 404 | Courtney Cicoria |
 | 93 | 401 | Zippy Gridlock |
-| 94 | 396 | Amy Suckarieh |
-| 95 | 396 | Alicia Bass |
+| 94 | 396 | Alicia Bass |
+| 95 | 396 | Amy Suckarieh |
 | 96 | 392 | Ericca Eldridge |
 | 97 | 391 | Ramel Rhodes |
 | 98 | 390 | Carlton Unfiltered |
@@ -184,8 +184,8 @@
 | 176 | 204 | Jen Caldwell |
 | 177 | 203 | Katherine Crane |
 | 178 | 202 | TRCuse |
-| 179 | 201 | Melvin Baird |
-| 180 | 201 | Chance Strickland |
+| 179 | 201 | Chance Strickland |
+| 180 | 201 | Melvin Baird |
 | 181 | 200 | Laura |
 | 182 | 199 | Zethra Prenisha Rahming |
 | 183 | 198 | Keith Kelley |
@@ -234,9 +234,9 @@
 | 226 | 158 | Avy Absol |
 | 227 | 158 | Chair |
 | 228 | 157 | KayM |
-| 229 | 157 | scott |
-| 230 | 157 | Paige Kittles |
-| 231 | 157 | Bethany Ison |
+| 229 | 157 | Paige Kittles |
+| 230 | 157 | Bethany Ison |
+| 231 | 157 | scott |
 | 232 | 155 | AyeKay |
 | 233 | 154 | Zany Shatterer |
 | 234 | 153 | Empress Oasis |

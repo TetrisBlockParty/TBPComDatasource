@@ -52,8 +52,8 @@
 | 44 | 1006 | Dan Rob |
 | 45 | 998 | Liv Whetson |
 | 46 | 996 | Stephanie Rice |
-| 47 | 989 | Joey Banks |
-| 48 | 989 | Kay |
+| 47 | 989 | Kay |
+| 48 | 989 | Joey Banks |
 | 49 | 983 | Brandon Green |
 | 50 | 956 | Gracie |
 | 51 | 953 | mjl574 |
@@ -200,12 +200,12 @@
 | 192 | 319 | Rebecca Funderburk Kirby |
 | 193 | 317 | Ashley Tookes |
 | 194 | 315 | Kammy Hill |
-| 195 | 311 | Araceli Parra |
-| 196 | 311 | Rochelle Hazelett |
-| 197 | 311 | Stephanie Burtin |
+| 195 | 311 | Stephanie Burtin |
+| 196 | 311 | Araceli Parra |
+| 197 | 311 | Rochelle Hazelett |
 | 198 | 310 | Danielle Balcom |
-| 199 | 308 | Daryn Elliott |
-| 200 | 308 | Rania Zaqout |
+| 199 | 308 | Rania Zaqout |
+| 200 | 308 | Daryn Elliott |
 | 201 | 307 | rnr junky |
 | 202 | 307 | Blocked |
 | 203 | 302 | Rebecca Bailey |
@@ -265,8 +265,8 @@
 | 257 | 240 | Jimmie Clemons |
 | 258 | 238 | LaTanya GeminiondaRise Johnson |
 | 259 | 236 | Jess Bissett |
-| 260 | 234 | Nikki Pags |
-| 261 | 234 | Connie Mohler-Fair |
+| 260 | 234 | Connie Mohler-Fair |
+| 261 | 234 | Nikki Pags |
 | 262 | 233 | Josh Borquez |
 | 263 | 233 | Ray Lader |
 | 264 | 232 | Brenda Schmid Wood |
@@ -494,8 +494,8 @@
 | 486 | 116 | Niki Dalrymple |
 | 487 | 116 | TazB |
 | 488 | 116 | Dapper Towerfit |
-| 489 | 115 | FATTY |
-| 490 | 115 | Allie Kershner |
+| 489 | 115 | Allie Kershner |
+| 490 | 115 | FATTY |
 | 491 | 115 | Brave Brickster |
 | 492 | 115 | Whitney Manuel |
 | 493 | 115 | Carrie Resler |

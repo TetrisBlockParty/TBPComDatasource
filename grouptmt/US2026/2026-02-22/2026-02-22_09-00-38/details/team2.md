@@ -63,8 +63,8 @@
 | 55 | 2344 | Melinda Brown |
 | 56 | 2333 | Crystalin Heath Lewis |
 | 57 | 2298 | Brent Bittenbender |
-| 58 | 2280 | Robert Diddle |
-| 59 | 2280 | Ramone Armstrong |
+| 58 | 2280 | Ramone Armstrong |
+| 59 | 2280 | Robert Diddle |
 | 60 | 2151 | Kelly Crook |
 | 61 | 2137 | KellyDyan |
 | 62 | 2131 | RdRydnHd |
@@ -119,8 +119,8 @@
 | 111 | 1391 | blarg |
 | 112 | 1383 | Ladyrainbootz |
 | 113 | 1380 | Jose Mendoza |
-| 114 | 1342 | Christi Hulet |
-| 115 | 1342 | Eboni Banks |
+| 114 | 1342 | Eboni Banks |
+| 115 | 1342 | Christi Hulet |
 | 116 | 1333 | Mr. Street Stack |
 | 117 | 1312 | Dawn Geist-Weasner |
 | 118 | 1309 | Bob |
@@ -215,8 +215,8 @@
 | 207 | 867 | Michele Gabriel |
 | 208 | 867 | Peppy Zone |
 | 209 | 865 | Dedra Steward |
-| 210 | 862 | Robin Kerby |
-| 211 | 862 | Brittany Radaszewski |
+| 210 | 862 | Brittany Radaszewski |
+| 211 | 862 | Robin Kerby |
 | 212 | 860 | April Dawn Gussler |
 | 213 | 857 | Della Hole |
 | 214 | 853 | Felicia Lynn |
@@ -415,8 +415,8 @@
 | 407 | 499 | Sarah Massey |
 | 408 | 498 | Rhonda Milstead |
 | 409 | 497 | BeQuo |
-| 410 | 497 | Doowop40 |
-| 411 | 497 | June E Hanson |
+| 410 | 497 | June E Hanson |
+| 411 | 497 | Doowop40 |
 | 412 | 497 | Kimberly Randesi |
 | 413 | 496 | Blacc Blac |
 | 414 | 493 | Kara Gillen |
