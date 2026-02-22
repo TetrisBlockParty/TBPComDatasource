@@ -131,14 +131,14 @@
 | 123 | 294 | Kesha Brady |
 | 124 | 290 | 🥔🥔 Spudz |
 | 125 | 287 | Shannon Ferrari |
-| 126 | 286 | Daria Rycewicz |
-| 127 | 286 | shark tato |
+| 126 | 286 | shark tato |
+| 127 | 286 | Daria Rycewicz |
 | 128 | 283 | Brittney Orengo |
 | 129 | 281 | Meagan Nicole |
 | 130 | 278 | Desi Desporte |
 | 131 | 278 | Carrie Brian |
-| 132 | 277 | Mary Ann Pabukis |
-| 133 | 277 | Scott Jameson |
+| 132 | 277 | Scott Jameson |
+| 133 | 277 | Mary Ann Pabukis |
 | 134 | 275 | Dizzy Tiley |
 | 135 | 274 | Calvin Cannon |
 | 136 | 272 | Keshia Lyons |
@@ -186,8 +186,8 @@
 | 178 | 204 | Jen Caldwell |
 | 179 | 203 | Katherine Crane |
 | 180 | 202 | TRCuse |
-| 181 | 201 | Chance Strickland |
-| 182 | 201 | Melvin Baird |
+| 181 | 201 | Melvin Baird |
+| 182 | 201 | Chance Strickland |
 | 183 | 200 | Laura |
 | 184 | 199 | Zethra Prenisha Rahming |
 | 185 | 198 | Keith Kelley |
@@ -234,7 +234,7 @@
 | 226 | 162 | John Brunetti |
 | 227 | 161 | Jenny Wells-Oakley |
 | 228 | 160 | Brittany Marsh |
-| 229 | 160 | Angelito |
+| 229 | 160 | Laura Hosford |
 | 230 | 159 | Marcus Todd |
 | 231 | 158 | Avy Absol |
 | 232 | 158 | Chair |
@@ -317,7 +317,7 @@
 | 309 | 128 | Madison Sweere |
 | 310 | 128 | Allen Lloyd |
 | 311 | 127 | Kim Hunt |
-| 312 | 126 | Cheryl Johnson |
+| 312 | 126 | PAPatty |
 | 313 | 126 | icequeenx |
 | 314 | 126 | Cheryl Johnson |
 | 315 | 125 | Ann G. Carrillo |

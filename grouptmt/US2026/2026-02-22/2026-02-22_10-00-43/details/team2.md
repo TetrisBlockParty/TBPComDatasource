@@ -291,8 +291,8 @@
 | 283 | 697 | Dreamy Blast |
 | 284 | 695 | Lakeysha Dortch |
 | 285 | 694 | Ginger |
-| 286 | 692 | Jennifer Casey-Kay |
-| 287 | 692 | Dannette Goldberg-Richards |
+| 286 | 692 | Dannette Goldberg-Richards |
+| 287 | 692 | Jennifer Casey-Kay |
 | 288 | 690 | Deborah Miller |
 | 289 | 689 | Giggy Blocker |
 | 290 | 688 | Tiara Elizabeth Baker |
@@ -481,8 +481,8 @@
 | 473 | 456 | Melissa Rebbe-Lehman |
 | 474 | 455 | Kiana Boschh |
 | 475 | 454 | Casey Schumacher |
-| 476 | 453 | Rhonda Petro |
-| 477 | 453 | Joshua Sommerville |
+| 476 | 453 | Joshua Sommerville |
+| 477 | 453 | Rhonda Petro |
 | 478 | 451 | Funky Caster |
 | 479 | 451 | Cody Nishimura |
 | 480 | 451 | Dylan Thomason |
@@ -512,8 +512,8 @@
 | 504 | 429 | Tabs Reichert |
 | 505 | 428 | Arkei Luster |
 | 506 | 428 | Shyenn Gadsby |
-| 507 | 427 | Quinn |
-| 508 | 427 | Destiny Cozier |
+| 507 | 427 | Destiny Cozier |
+| 508 | 427 | Quinn |
 | 509 | 427 | Aimee Campbell |
 | 510 | 427 | Kori Beth Babb |
 | 511 | 426 | Ashley Dow |
@@ -861,8 +861,8 @@
 | 853 | 263 | Elizabeth Leinen |
 | 854 | 263 | Sara Pennington |
 | 855 | 262 | Taren Cowan |
-| 856 | 261 | Gina Gina |
-| 857 | 261 | Dany Murillo |
+| 856 | 261 | Dany Murillo |
+| 857 | 261 | Gina Gina |
 | 858 | 261 | MrsClaudette Will'sIam Matthews |
 | 859 | 260 | Giggly Snap |
 | 860 | 260 | Lianne Giandalone LaBounty |
@@ -907,8 +907,8 @@
 | 899 | 252 | Amanda Segura |
 | 900 | 252 | Layna Lyons |
 | 901 | 251 | Bold Clusterfit |
-| 902 | 251 | Sveta Lana |
-| 903 | 251 | Regina Unruh |
+| 902 | 251 | Regina Unruh |
+| 903 | 251 | Sveta Lana |
 | 904 | 251 | Emoniee Sa'niaya |
 | 905 | 251 | Kimmie Zimmerman-Rocha |
 | 906 | 251 | Chipper Dashpiece |
