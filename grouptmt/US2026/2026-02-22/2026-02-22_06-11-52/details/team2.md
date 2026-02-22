@@ -234,8 +234,8 @@
 | 226 | 771 | Terri McKelvey McKinley |
 | 227 | 769 | Adira Brown |
 | 228 | 767 | Jessica Wayne Cornwall |
-| 229 | 765 | Jodi Blake |
-| 230 | 765 | Stephen Stephen |
+| 229 | 765 | Stephen Stephen |
+| 230 | 765 | Jodi Blake |
 | 231 | 763 | Lisa Ongtowasruk |
 | 232 | 763 | Samantha Jo |
 | 233 | 756 | Stephanie Neuburger |
@@ -494,15 +494,15 @@
 | 486 | 408 | Abimbola Bimbo |
 | 487 | 408 | Brandon Jones |
 | 488 | 406 | Kimberly Ann |
-| 489 | 406 | Erin StFrancis |
-| 490 | 406 | Kiana Boschh |
+| 489 | 406 | Kiana Boschh |
+| 490 | 406 | Erin StFrancis |
 | 491 | 404 | Snappy snappers |
 | 492 | 404 | Dawn L Washington-Feuquay |
 | 493 | 403 | Goofy Dasher |
 | 494 | 402 | Juanita Lyons |
 | 495 | 402 | SwampRebel |
-| 496 | 401 | De Hawkins |
-| 497 | 401 | Taylor Flowers |
+| 496 | 401 | Taylor Flowers |
+| 497 | 401 | De Hawkins |
 | 498 | 401 | Moua Ying |
 | 499 | 401 | Lee Harper |
 | 500 | 400 | Tammy Allen |

@@ -142,8 +142,8 @@
 | 134 | 240 | Peachy Fall |
 | 135 | 240 | Jolly Dashfit |
 | 136 | 236 | Chastity Mitchell |
-| 137 | 232 | Chilly Crasher |
-| 138 | 232 | Crystal Nicolette Moore |
+| 137 | 232 | Crystal Nicolette Moore |
+| 138 | 232 | Chilly Crasher |
 | 139 | 230 | Autum Leigh |
 | 140 | 228 | J-Rizzle |
 | 141 | 227 | Swanky Fitline |
@@ -297,9 +297,9 @@
 | 289 | 120 | Joshua Guess |
 | 290 | 120 | Bryan Hodgins |
 | 291 | 119 | Circuit8 |
-| 292 | 119 | River Shady Sr. |
+| 292 | 119 | Gwendolyn Pitcairn |
 | 293 | 119 | rebel4lyfe |
-| 294 | 119 | Gwendolyn Pitcairn |
+| 294 | 119 | River Shady Sr. |
 | 295 | 118 | Christina Black |
 | 296 | 117 | PennyCandee |
 | 297 | 117 | BigSammy420 |
