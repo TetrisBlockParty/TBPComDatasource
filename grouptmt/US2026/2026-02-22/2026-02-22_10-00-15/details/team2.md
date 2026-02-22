@@ -301,8 +301,8 @@
 | 293 | 685 | Binyah-Binyah |
 | 294 | 681 | Melissa Holsinger |
 | 295 | 679 | Offonar Facey |
-| 296 | 679 | Brenda Utphall |
-| 297 | 679 | Dee |
+| 296 | 679 | Dee |
+| 297 | 679 | Brenda Utphall |
 | 298 | 679 | Kassandra Hunt |
 | 299 | 678 | Scott Treadway |
 | 300 | 677 | Mema |
@@ -907,8 +907,8 @@
 | 899 | 252 | Amanda Segura |
 | 900 | 252 | Layna Lyons |
 | 901 | 251 | Bold Clusterfit |
-| 902 | 251 | Sveta Lana |
-| 903 | 251 | Regina Unruh |
+| 902 | 251 | Regina Unruh |
+| 903 | 251 | Sveta Lana |
 | 904 | 251 | Emoniee Sa'niaya |
 | 905 | 251 | Kimmie Zimmerman-Rocha |
 | 906 | 251 | Chipper Dashpiece |

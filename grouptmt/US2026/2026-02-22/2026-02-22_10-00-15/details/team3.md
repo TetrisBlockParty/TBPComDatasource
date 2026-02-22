@@ -207,8 +207,8 @@
 | 199 | 311 | Araceli Parra |
 | 200 | 311 | Stephanie Burtin |
 | 201 | 310 | Danielle Balcom |
-| 202 | 308 | Daryn Elliott |
-| 203 | 308 | Rania Zaqout |
+| 202 | 308 | Rania Zaqout |
+| 203 | 308 | Daryn Elliott |
 | 204 | 307 | rnr junky |
 | 205 | 307 | Blocked |
 | 206 | 302 | Rebecca Bailey |
@@ -244,16 +244,16 @@
 | 236 | 264 | Grego Daniel |
 | 237 | 263 | Brittany |
 | 238 | 262 | Joe-Maggie Mathews |
-| 239 | 261 | Tiffany Ford |
-| 240 | 261 | Tasha Wesson-Torrence |
+| 239 | 261 | Tasha Wesson-Torrence |
+| 240 | 261 | Tiffany Ford |
 | 241 | 261 | Marquita Sheard |
 | 242 | 260 | Grams |
 | 243 | 259 | Danielle Weikel |
 | 244 | 258 | Tamara Deherrera |
 | 245 | 257 | Ashley Jones |
 | 246 | 256 | Brenda Lee Vander Molen |
-| 247 | 256 | Tiffany Davie |
-| 248 | 256 | KayB |
+| 247 | 256 | KayB |
+| 248 | 256 | Tiffany Davie |
 | 249 | 251 | Sabrina Hardrick |
 | 250 | 250 | fraulila |
 | 251 | 249 | Annie Marie |
@@ -413,8 +413,8 @@
 | 405 | 146 | Sara Dunn |
 | 406 | 146 | Wettnippz |
 | 407 | 146 | Sdot |
-| 408 | 144 | Tenisha Semidey |
-| 409 | 144 | Blair Erin Waite |
+| 408 | 144 | Blair Erin Waite |
+| 409 | 144 | Tenisha Semidey |
 | 410 | 143 | Deseree Ewing |
 | 411 | 142 | Erica Anderson |
 | 412 | 142 | Frothy Snapper |
@@ -432,8 +432,8 @@
 | 424 | 139 | Paula Little |
 | 425 | 138 | Skinny Baldez |
 | 426 | 138 | Bleu Sun Beams |
-| 427 | 137 | Reina Roth |
-| 428 | 137 | Giggly Brickroll |
+| 427 | 137 | Giggly Brickroll |
+| 428 | 137 | Reina Roth |
 | 429 | 136 | Crystal Hine |
 | 430 | 136 | Sabrina Mansfield |
 | 431 | 136 | Stephanie Zahm |

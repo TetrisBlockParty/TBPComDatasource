@@ -154,8 +154,8 @@
 | 146 | 256 | David Miller |
 | 147 | 255 | Elaine Elaine |
 | 148 | 254 | Al Smith Jr |
-| 149 | 253 | Witty Builderfit |
-| 150 | 253 | Plucky Fallzone |
+| 149 | 253 | Plucky Fallzone |
+| 150 | 253 | Witty Builderfit |
 | 151 | 252 | Dena Kayy |
 | 152 | 247 | Tana |
 | 153 | 246 | Mandyy Rae |
@@ -328,8 +328,8 @@
 | 320 | 124 | Mario Cab |
 | 321 | 123 | Tonya Beasley |
 | 322 | 122 | Nate Funk |
-| 323 | 121 | .running. |
-| 324 | 121 | Pauline Cortez |
+| 323 | 121 | Pauline Cortez |
+| 324 | 121 | John Ramirez |
 | 325 | 121 | Jacob Shaddock |
 | 326 | 121 | .running. |
 | 327 | 120 | Shiny Rotate |
@@ -377,7 +377,7 @@
 | 369 | 104 | Charla Pross-Fugleberg |
 | 370 | 104 | Jamie Catlett |
 | 371 | 104 | Tiger Lily |
-| 372 | 104 | Charla Pross-Fugleberg |
+| 372 | 104 | Serina Marie |
 | 373 | 103 | Alex Gauthier |
 | 374 | 103 | Mariah Cornell |
 | 375 | 102 | Sarah Henniker |

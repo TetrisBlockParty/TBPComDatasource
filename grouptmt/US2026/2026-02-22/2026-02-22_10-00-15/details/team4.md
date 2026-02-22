@@ -131,8 +131,8 @@
 | 123 | 294 | Kesha Brady |
 | 124 | 290 | 🥔🥔 Spudz |
 | 125 | 287 | Shannon Ferrari |
-| 126 | 286 | Daria Rycewicz |
-| 127 | 286 | shark tato |
+| 126 | 286 | shark tato |
+| 127 | 286 | Daria Rycewicz |
 | 128 | 283 | Brittney Orengo |
 | 129 | 281 | Meagan Nicole |
 | 130 | 278 | Desi Desporte |
@@ -186,8 +186,8 @@
 | 178 | 204 | Jen Caldwell |
 | 179 | 203 | Katherine Crane |
 | 180 | 202 | TRCuse |
-| 181 | 201 | Chance Strickland |
-| 182 | 201 | Melvin Baird |
+| 181 | 201 | Melvin Baird |
+| 182 | 201 | Chance Strickland |
 | 183 | 200 | Laura |
 | 184 | 199 | Zethra Prenisha Rahming |
 | 185 | 198 | Keith Kelley |
@@ -406,9 +406,9 @@
 | 398 | 98 | Hyper Builder |
 | 399 | 98 | Groovy Gridlock |
 | 400 | 98 | Dizzy Matchzone |
-| 401 | 97 | Rosemary Foster |
-| 402 | 97 | Brandon Crabbs |
-| 403 | 97 | Serena Butter |
+| 401 | 97 | Serena Butter |
+| 402 | 97 | Rosemary Foster |
+| 403 | 97 | Brandon Crabbs |
 | 404 | 96 | Sammy Noguera |
 | 405 | 96 | Rebecca Blake |
 | 406 | 95 | Jobadia Steelerton |
