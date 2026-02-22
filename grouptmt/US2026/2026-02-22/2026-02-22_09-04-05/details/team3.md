@@ -251,8 +251,8 @@
 | 243 | 258 | Tamara Deherrera |
 | 244 | 257 | Ashley Jones |
 | 245 | 256 | Brenda Lee Vander Molen |
-| 246 | 256 | KayB |
-| 247 | 256 | Tiffany Davie |
+| 246 | 256 | Tiffany Davie |
+| 247 | 256 | KayB |
 | 248 | 251 | Sabrina Hardrick |
 | 249 | 250 | fraulila |
 | 250 | 249 | Annie Marie |
@@ -323,8 +323,8 @@
 | 315 | 189 | Katie Leigh Blankenship |
 | 316 | 188 | Loopy Fallmatch |
 | 317 | 186 | Sameerah Smith |
-| 318 | 184 | Troy |
-| 319 | 184 | France Vézina |
+| 318 | 184 | France Vézina |
+| 319 | 184 | Troy |
 | 320 | 183 | Cesar Barraza |
 | 321 | 182 | Melanie Sherwood |
 | 322 | 181 | Nicholas Roddy |
@@ -337,8 +337,8 @@
 | 329 | 179 | Tipsy Zonebuilder |
 | 330 | 178 | Jess Dearborn |
 | 331 | 178 | Jennifer Alvey |
-| 332 | 176 | Emma |
-| 333 | 176 | Melissa Orth Hunter |
+| 332 | 176 | Melissa Orth Hunter |
+| 333 | 176 | Emma |
 | 334 | 175 | Eileen Brady Thurber |
 | 335 | 175 | Becca Engle |
 | 336 | 174 | Lesley Perez |
@@ -349,8 +349,8 @@
 | 341 | 168 | April Matthew Kibble |
 | 342 | 168 | Trice Thomas |
 | 343 | 167 | Shicken Nuggit |
-| 344 | 167 | Irene Arreguin |
-| 345 | 167 | Romeo |
+| 344 | 167 | Romeo |
+| 345 | 167 | Irene Arreguin |
 | 346 | 166 | Noettín Kan Zasnemoore |
 | 347 | 166 | Angella Lyons |
 | 348 | 166 | Snarky McFace |
@@ -373,9 +373,9 @@
 | 365 | 159 | Salena Whitlock |
 | 366 | 159 | Joshua David Huie |
 | 367 | 158 | Willow |
-| 368 | 157 | Steffi Chris Dacones |
-| 369 | 157 | Angel Mendez |
-| 370 | 157 | Katrina E Jelks |
+| 368 | 157 | Angel Mendez |
+| 369 | 157 | Katrina E Jelks |
+| 370 | 157 | Steffi Chris Dacones |
 | 371 | 157 | Wetwet |
 | 372 | 156 | Nichole Greene |
 | 373 | 155 | Michell Hendershott Jackson |
@@ -610,8 +610,8 @@
 | 602 | 98 | Katie Morton |
 | 603 | 98 | Tanesha BigBabby Darling |
 | 604 | 97 | Daisy Rocha |
-| 605 | 97 | Rebecca Lynn |
-| 606 | 97 | Tina Baurdau |
+| 605 | 97 | Tina Baurdau |
+| 606 | 97 | Rebecca Lynn |
 | 607 | 96 | D3NO |
 | 608 | 96 | Kelly |
 | 609 | 96 | Jason |

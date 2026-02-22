@@ -160,8 +160,8 @@
 | 152 | 230 | Autum Leigh |
 | 153 | 229 | Chris Bernstein |
 | 154 | 228 | J-Rizzle |
-| 155 | 227 | Swanky Fitline |
-| 156 | 227 | Alyssa Papen |
+| 155 | 227 | Alyssa Papen |
+| 156 | 227 | Swanky Fitline |
 | 157 | 225 | Damn Libra |
 | 158 | 224 | Matt Summer |
 | 159 | 223 | Antony Dwayne Beasley |
@@ -173,8 +173,8 @@
 | 165 | 220 | Matt Dell'Olio |
 | 166 | 218 | Casey Grabner |
 | 167 | 217 | Chaz Duncan |
-| 168 | 215 | Ren Mc |
-| 169 | 215 | Jessica Bohlken |
+| 168 | 215 | Jessica Bohlken |
+| 169 | 215 | Ren Mc |
 | 170 | 213 | Jason Allen |
 | 171 | 213 | Sarah Neathery |
 | 172 | 212 | Mike Solo |
@@ -188,18 +188,18 @@
 | 180 | 201 | Melvin Baird |
 | 181 | 200 | Laura |
 | 182 | 199 | Zethra Prenisha Rahming |
-| 183 | 198 | Keith Kelley |
-| 184 | 198 | Jessica Lynn Cutlip |
+| 183 | 198 | Jessica Lynn Cutlip |
+| 184 | 198 | Keith Kelley |
 | 185 | 196 | Oscar Alberto Perez |
 | 186 | 195 | Malakai Darien Fox |
-| 187 | 195 | ZeeZee |
-| 188 | 195 | 中山成巳 |
+| 187 | 195 | 中山成巳 |
+| 188 | 195 | ZeeZee |
 | 189 | 194 | Zany Twisterfit |
 | 190 | 192 | Shauna Havard |
 | 191 | 191 | Klo |
 | 192 | 191 | Sam Bishop |
-| 193 | 190 | Cheery Risebuilder |
-| 194 | 190 | Alan George LaRage |
+| 193 | 190 | Alan George LaRage |
+| 194 | 190 | Cheery Risebuilder |
 | 195 | 189 | Calvin Dennis |
 | 196 | 189 | Lori |
 | 197 | 189 | Stacey Stano |

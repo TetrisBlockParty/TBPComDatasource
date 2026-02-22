@@ -204,8 +204,8 @@
 | 196 | 919 | Isaac Trappiel IV |
 | 197 | 916 | Butta |
 | 198 | 915 | Kelly Trent |
-| 199 | 910 | Shuany Arias |
-| 200 | 910 | Crystal Hoffman |
+| 199 | 910 | Crystal Hoffman |
+| 200 | 910 | Shuany Arias |
 | 201 | 907 | Gene Mills |
 | 202 | 901 | Jennifer Peachey |
 | 203 | 892 | Auntie B |
@@ -1314,8 +1314,8 @@
 | 1306 | 170 | Chummy Shiftsnap |
 | 1307 | 170 | Tigro Ace |
 | 1308 | 169 | Corey Ross |
-| 1309 | 169 | Dapper Blockroll |
-| 1310 | 169 | Ubu |
+| 1309 | 169 | Ubu |
+| 1310 | 169 | Dapper Blockroll |
 | 1311 | 169 | Christy Green |
 | 1312 | 169 | Micky |
 | 1313 | 169 | Jamie Frank Karolyi |
@@ -1330,8 +1330,8 @@
 | 1322 | 168 | Hasan Nabil Jadallah |
 | 1323 | 168 | Leslie |
 | 1324 | 167 | Mary Lopez Sr. |
-| 1325 | 167 | Dreamy Fitclear |
-| 1326 | 167 | Tamara Slaten |
+| 1325 | 167 | Tamara Slaten |
+| 1326 | 167 | Dreamy Fitclear |
 | 1327 | 167 | Sabrina Smith |
 | 1328 | 167 | Tiffany Hassanshahi |
 | 1329 | 167 | Koko Charlotte Rudo |
