@@ -119,8 +119,8 @@
 | 111 | 300 | Jason Hart |
 | 112 | 300 | Tyler Terrific |
 | 113 | 298 | Lucas J Sutton |
-| 114 | 296 | HastyGrabber |
-| 115 | 296 | Justin Hannigan |
+| 114 | 296 | Justin Hannigan |
+| 115 | 296 | HastyGrabber |
 | 116 | 295 | Latisha Davis |
 | 117 | 294 | Kesha Brady |
 | 118 | 290 | 🥔🥔 Spudz |
@@ -191,8 +191,8 @@
 | 183 | 192 | Shauna Havard |
 | 184 | 191 | Klo |
 | 185 | 190 | Cheery Risebuilder |
-| 186 | 189 | Stacey Stano |
-| 187 | 189 | Calvin Dennis |
+| 186 | 189 | Calvin Dennis |
+| 187 | 189 | Stacey Stano |
 | 188 | 188 | Andria Lynn |
 | 189 | 186 | Holly |
 | 190 | 185 | Andy Cabral |
@@ -217,9 +217,9 @@
 | 209 | 163 | Kristina Black |
 | 210 | 162 | Joanna |
 | 211 | 161 | Jenny Wells-Oakley |
-| 212 | 160 | Brittany Marsh |
-| 213 | 160 | Laura Hosford |
-| 214 | 160 | Carlos Ramirez |
+| 212 | 160 | Laura Hosford |
+| 213 | 160 | Carlos Ramirez |
+| 214 | 160 | Brittany Marsh |
 | 215 | 159 | Marcus Todd |
 | 216 | 158 | Avy Absol |
 | 217 | 158 | Chair |

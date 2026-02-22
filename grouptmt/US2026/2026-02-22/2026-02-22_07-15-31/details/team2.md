@@ -277,10 +277,10 @@
 | 269 | 692 | Jennifer Casey-Kay |
 | 270 | 690 | Deborah Miller |
 | 271 | 689 | Giggy Blocker |
-| 272 | 688 | ShinyRose |
-| 273 | 688 | Tiara Elizabeth Baker |
-| 274 | 687 | Stephanie Lumanlan |
-| 275 | 687 | Jai Jackson |
+| 272 | 688 | Tiara Elizabeth Baker |
+| 273 | 688 | ShinyRose |
+| 274 | 687 | Jai Jackson |
+| 275 | 687 | Stephanie Lumanlan |
 | 276 | 686 | Ashley Guernsey-Martin |
 | 277 | 685 | Binyah-Binyah |
 | 278 | 683 | Wakanda Forever |
@@ -312,15 +312,15 @@
 | 304 | 640 | BYM4L |
 | 305 | 639 | Crystie Hicks |
 | 306 | 639 | Rebecca Miller |
-| 307 | 635 | William Hunt |
-| 308 | 635 | Diana Fitzwater |
+| 307 | 635 | Diana Fitzwater |
+| 308 | 635 | William Hunt |
 | 309 | 631 | Marie Walker |
 | 310 | 629 | Sleepypanda67 |
 | 311 | 627 | Victoria Moore-Smith |
 | 312 | 627 | Allan Wayne Lamia |
 | 313 | 619 | Jánine Riggs |
-| 314 | 617 | Leslie Ann Carter |
-| 315 | 617 | tejas25 |
+| 314 | 617 | tejas25 |
+| 315 | 617 | Leslie Ann Carter |
 | 316 | 615 | Brandon Armstrong |
 | 317 | 613 | Ellie Jonas |
 | 318 | 611 | Em Chen |
@@ -412,8 +412,8 @@
 | 404 | 489 | Cassie Mercer |
 | 405 | 489 | Osun Anuket Esu |
 | 406 | 488 | Venita Ray |
-| 407 | 487 | Maya June |
-| 408 | 487 | MrsCandyfine As Wine Truss |
+| 407 | 487 | MrsCandyfine As Wine Truss |
+| 408 | 487 | Maya June |
 | 409 | 486 | Caitlin Schmid |
 | 410 | 485 | Dapper Dasher |
 | 411 | 485 | Ann Matzkanin |
@@ -882,13 +882,13 @@
 | 874 | 243 | Cool Grabber |
 | 875 | 243 | Albert McKnight |
 | 876 | 243 | Jaybee Nguyen |
-| 877 | 242 | Aimee Campbell |
-| 878 | 242 | Groovy Tilefall |
+| 877 | 242 | Groovy Tilefall |
+| 878 | 242 | Aimee Campbell |
 | 879 | 242 | Meganator42 |
 | 880 | 242 | Greenshades00 |
 | 881 | 242 | Donna Chandler |
-| 882 | 241 | Emoney Sanchez |
-| 883 | 241 | Ronda Cary |
+| 882 | 241 | Ronda Cary |
+| 883 | 241 | Emoney Sanchez |
 | 884 | 241 | Travis Tinsley |
 | 885 | 240 | Kimmie Zimmerman-Rocha |
 | 886 | 240 | Alison Emmons |
@@ -927,8 +927,8 @@
 | 919 | 231 | Stanley Vanekelenburg |
 | 920 | 230 | lady |
 | 921 | 230 | Andrew Engman |
-| 922 | 229 | Heather Anspaugh |
-| 923 | 229 | Deidre Jenkins |
+| 922 | 229 | Deidre Jenkins |
+| 923 | 229 | Heather Anspaugh |
 | 924 | 229 | BbqGuru |
 | 925 | 229 | Chyrisse Norton |
 | 926 | 229 | David M. Platz |

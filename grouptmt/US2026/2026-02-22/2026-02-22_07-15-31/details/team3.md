@@ -61,8 +61,8 @@
 | 53 | 908 | Alanna Rogers |
 | 54 | 907 | Judi Dobson |
 | 55 | 903 | Sarah Fehring |
-| 56 | 895 | Shonna Roberts |
-| 57 | 895 | Amanda L Baker |
+| 56 | 895 | Amanda L Baker |
+| 57 | 895 | Shonna Roberts |
 | 58 | 886 | Khristen AC |
 | 59 | 874 | Jessica Pineda-Lopez |
 | 60 | 867 | Corie A. Brinson |
@@ -194,8 +194,8 @@
 | 186 | 319 | Rebecca Funderburk Kirby |
 | 187 | 317 | Ashley Tookes |
 | 188 | 315 | Kammy Hill |
-| 189 | 311 | Araceli Parra |
-| 190 | 311 | Rochelle Hazelett |
+| 189 | 311 | Rochelle Hazelett |
+| 190 | 311 | Araceli Parra |
 | 191 | 310 | Danielle Balcom |
 | 192 | 308 | Daryn Elliott |
 | 193 | 308 | Rania Zaqout |
@@ -292,8 +292,8 @@
 | 284 | 206 | Tracy Martin |
 | 285 | 204 | Aerian Preston |
 | 286 | 203 | Angie Harper |
-| 287 | 202 | Rachel |
-| 288 | 202 | Staci George Fitzsimmons |
+| 287 | 202 | Staci George Fitzsimmons |
+| 288 | 202 | Rachel |
 | 289 | 201 | Hyper Matchzone |
 | 290 | 200 | Sharisse Baltimore |
 | 291 | 200 | glichmod |
@@ -351,8 +351,8 @@
 | 343 | 162 | Stephanie Whitefield |
 | 344 | 161 | Michael Johnson |
 | 345 | 161 | Bouncy Blockbuilder |
-| 346 | 159 | Salena Whitlock |
-| 347 | 159 | Joshua David Huie |
+| 346 | 159 | Joshua David Huie |
+| 347 | 159 | Salena Whitlock |
 | 348 | 159 | Ashley Rufus Bythcez |
 | 349 | 158 | Willow |
 | 350 | 157 | Steffi Chris Dacones |
@@ -361,10 +361,10 @@
 | 353 | 157 | Wetwet |
 | 354 | 157 | Chummy Caster |
 | 355 | 156 | Nichole Greene |
-| 356 | 155 | Michael Leblanc |
-| 357 | 155 | Michell Hendershott Jackson |
-| 358 | 153 | Sheila M Frazier |
-| 359 | 153 | Lys |
+| 356 | 155 | Michell Hendershott Jackson |
+| 357 | 155 | Michael Leblanc |
+| 358 | 153 | Lys |
+| 359 | 153 | Sheila M Frazier |
 | 360 | 153 | Tony Waters |
 | 361 | 152 | Goofy Fall |
 | 362 | 152 | Shiny Zonebuilder |
@@ -383,8 +383,8 @@
 | 375 | 146 | Sara Dunn |
 | 376 | 146 | Sdot |
 | 377 | 146 | Wettnippz |
-| 378 | 144 | Tenisha Semidey |
-| 379 | 144 | Blair Erin Waite |
+| 378 | 144 | Blair Erin Waite |
+| 379 | 144 | Tenisha Semidey |
 | 380 | 142 | Gray Hicks |
 | 381 | 142 | Erica Anderson |
 | 382 | 142 | Joy Petroski |
@@ -461,11 +461,11 @@
 | 453 | 118 | Fancy Curver |
 | 454 | 118 | Damian Reid |
 | 455 | 117 | James Lykes |
-| 456 | 117 | Dee Pratt |
-| 457 | 117 | Anabela Ruiz |
-| 458 | 117 | Rayzer |
-| 459 | 116 | Shelby Crawford |
-| 460 | 116 | Niki Dalrymple |
+| 456 | 117 | Anabela Ruiz |
+| 457 | 117 | Rayzer |
+| 458 | 117 | Dee Pratt |
+| 459 | 116 | Niki Dalrymple |
+| 460 | 116 | Shelby Crawford |
 | 461 | 116 | TazB |
 | 462 | 116 | Elisha L Allman |
 | 463 | 116 | Dapper Towerfit |

@@ -85,11 +85,11 @@
 | 77 | 400 | Cynthia Bradley |
 | 78 | 390 | Candy Jones |
 | 79 | 389 | Trina Gee |
-| 80 | 388 | cc |
-| 81 | 388 | Jennifer ManWarren |
+| 80 | 388 | Jennifer ManWarren |
+| 81 | 388 | cc |
 | 82 | 382 | Jacqueline Williams |
-| 83 | 379 | Kimmie Kimms |
-| 84 | 379 | Austin James |
+| 83 | 379 | Austin James |
+| 84 | 379 | Kimmie Kimms |
 | 85 | 374 | Tinah Montanna |
 | 86 | 371 | Hyper |
 | 87 | 368 | Tdub |
@@ -124,8 +124,8 @@
 | 116 | 290 | Death |
 | 117 | 288 | Seante Bullock |
 | 118 | 287 | Chelsea Dahlquist |
-| 119 | 286 | Arianna O'Brien |
-| 120 | 286 | Ly Phethmany |
+| 119 | 286 | Ly Phethmany |
+| 120 | 286 | Arianna O'Brien |
 | 121 | 285 | Ananda Mendez |
 | 122 | 284 | Emily Adelaide Wheatley |
 | 123 | 284 | Rachael |
@@ -136,8 +136,8 @@
 | 128 | 280 | Jennifer Hardman |
 | 129 | 276 | Dandy Basegrid |
 | 130 | 265 | SkipTheSadSauce |
-| 131 | 264 | Lexuriuos Lifestlye |
-| 132 | 264 | Jenny Gingrich Fuentes |
+| 131 | 264 | Jenny Gingrich Fuentes |
+| 132 | 264 | Lexuriuos Lifestlye |
 | 133 | 263 | Sharon Reynolds |
 | 134 | 258 | Virginia Gray Floyd |
 | 135 | 257 | Amanda Jarnagin |
