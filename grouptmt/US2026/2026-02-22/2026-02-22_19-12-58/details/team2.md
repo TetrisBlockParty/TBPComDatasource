@@ -137,8 +137,8 @@
 | 129 | 1439 | Jumpy Gridpiece |
 | 130 | 1435 | Jessie McDougald |
 | 131 | 1418 | L3sli3 |
-| 132 | 1411 | niecy |
-| 133 | 1411 | Zappy Cascade |
+| 132 | 1411 | Zappy Cascade |
+| 133 | 1411 | niecy |
 | 134 | 1401 | Brandy Andre |
 | 135 | 1384 | Katrina Williams Balmir |
 | 136 | 1383 | Ladyrainbootz |
@@ -159,8 +159,8 @@
 | 151 | 1296 | Kristin Ruest |
 | 152 | 1290 | Bussyiano Page |
 | 153 | 1286 | Altamirano Michael |
-| 154 | 1282 | Ashley Rose Frederick |
-| 155 | 1282 | Tanya Parsons |
+| 154 | 1282 | Tanya Parsons |
+| 155 | 1282 | Ashley Rose Frederick |
 | 156 | 1273 | Cool Rollpiece |
 | 157 | 1271 | Shandrica Lowe |
 | 158 | 1248 | Isabela Shaw |
@@ -495,8 +495,8 @@
 | 487 | 520 | Maddy Petersen |
 | 488 | 519 | Rob Brown |
 | 489 | 517 | Sarah Berger |
-| 490 | 517 | Brenna Ann |
-| 491 | 517 | Porsche' Nicole |
+| 490 | 517 | Porsche' Nicole |
+| 491 | 517 | Brenna Ann |
 | 492 | 516 | Diamond Scott |
 | 493 | 514 | Karen Posadas Centeno |
 | 494 | 512 | Leslie Jorgenson |
@@ -588,8 +588,8 @@
 | 580 | 450 | Mike Aprilliano |
 | 581 | 450 | Rich Sullivan |
 | 582 | 449 | Kristi Biddinger |
-| 583 | 448 | Lina Sanders |
-| 584 | 448 | Darlene Bowman |
+| 583 | 448 | Darlene Bowman |
+| 584 | 448 | Lina Sanders |
 | 585 | 447 | Boozi |
 | 586 | 447 | Besma Ao |
 | 587 | 446 | NanDa Cruzan VI |
@@ -663,8 +663,8 @@
 | 655 | 406 | Jess Morrison |
 | 656 | 406 | Tyler C. Jung |
 | 657 | 405 | Moist_B-hole |
-| 658 | 403 | Goofy Dasher |
-| 659 | 403 | Nate Skidmore |
+| 658 | 403 | Nate Skidmore |
+| 659 | 403 | Goofy Dasher |
 | 660 | 403 | Kelly Meredeith |
 | 661 | 402 | B |
 | 662 | 401 | Beth Decker |

@@ -253,8 +253,8 @@
 | 245 | 314 | Peppy Shifter |
 | 246 | 312 | Charles Perrone |
 | 247 | 308 | Cynthia Herrmann Egland |
-| 248 | 307 | Blocked |
-| 249 | 307 | Snappy Balancer |
+| 248 | 307 | Snappy Balancer |
+| 249 | 307 | Blocked |
 | 250 | 307 | rnr junky |
 | 251 | 306 | Felicia Rocha |
 | 252 | 302 | Dee Franklin |
@@ -418,10 +418,10 @@
 | 410 | 183 | Smiley Zone |
 | 411 | 182 | gremicx |
 | 412 | 182 | Joy Petroski |
-| 413 | 181 | Fancy Curver |
-| 414 | 181 | Funky Jumper |
-| 415 | 180 | Beth Ingham |
-| 416 | 180 | Sarah Whalen |
+| 413 | 181 | Funky Jumper |
+| 414 | 181 | Fancy Curver |
+| 415 | 180 | Sarah Whalen |
+| 416 | 180 | Beth Ingham |
 | 417 | 180 | Ava Petito |
 | 418 | 179 | Betty Bóò |
 | 419 | 179 | Skinny Baldez |

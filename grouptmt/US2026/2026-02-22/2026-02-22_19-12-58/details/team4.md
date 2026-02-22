@@ -197,8 +197,8 @@
 | 189 | 251 | Matt Summer |
 | 190 | 250 | Matt Dell'Olio |
 | 191 | 248 | Chirpy Basepiece |
-| 192 | 247 | Dennis Bradley |
-| 193 | 247 | jim |
+| 192 | 247 | jim |
+| 193 | 247 | Dennis Bradley |
 | 194 | 246 | Carlos Ramirez |
 | 195 | 245 | 23 |
 | 196 | 245 | Autum Leigh |
@@ -212,8 +212,8 @@
 | 204 | 238 | JPW |
 | 205 | 237 | Jen Caldwell |
 | 206 | 236 | Swanky Fitline |
-| 207 | 233 | April Rondinone |
-| 208 | 233 | Ruben Wheeler |
+| 207 | 233 | Ruben Wheeler |
+| 208 | 233 | April Rondinone |
 | 209 | 230 | Kristina Black |
 | 210 | 230 | blockstar |
 | 211 | 229 | Cheery Risebuilder |
@@ -300,8 +300,8 @@
 | 292 | 163 | Joseph Edmonson |
 | 293 | 163 | Ellen Durfee |
 | 294 | 162 | Gwendolyn Pitcairn |
-| 295 | 162 | conceptCollector |
-| 296 | 162 | Victoria Faniel |
+| 295 | 162 | Victoria Faniel |
+| 296 | 162 | conceptCollector |
 | 297 | 161 | Tanner Lund |
 | 298 | 160 | wombat |
 | 299 | 160 | Lora |
@@ -396,13 +396,13 @@
 | 388 | 132 | No Strings Attached Ra |
 | 389 | 132 | Jessica Cagle |
 | 390 | 132 | Adam Randall |
-| 391 | 131 | Smiley Tiltbuilder |
+| 391 | 131 | Peppy Drop |
 | 392 | 131 | Ryry |
-| 393 | 131 | Peppy Drop |
+| 393 | 131 | Smiley Tiltbuilder |
 | 394 | 130 | Shukee Lo |
 | 395 | 130 | icequeenx |
-| 396 | 129 | Sherri |
-| 397 | 129 | Dreamy Snapgrid |
+| 396 | 129 | Dreamy Snapgrid |
+| 397 | 129 | Sherri |
 | 398 | 129 | Amy Sanford |
 | 399 | 128 | Denise B |
 | 400 | 128 | Madison Sweere |
