@@ -217,8 +217,8 @@
 | 209 | 838 | Tralonda Weeks |
 | 210 | 837 | Ashley Rose Frederick |
 | 211 | 835 | Katrina Weston |
-| 212 | 834 | Rebecca Doughman |
-| 213 | 834 | Nika Bee |
+| 212 | 834 | Nika Bee |
+| 213 | 834 | Rebecca Doughman |
 | 214 | 828 | Cindy Sechler Taninecz |
 | 215 | 820 | Chirpy Staggerpiece |
 | 216 | 818 | Angela Bonquiqui Dinish |
@@ -447,8 +447,8 @@
 | 439 | 459 | Melissa Kay Gibson |
 | 440 | 458 | Casper The Chonk |
 | 441 | 454 | Casey Schumacher |
-| 442 | 453 | Joshua Sommerville |
-| 443 | 453 | Rhonda Petro |
+| 442 | 453 | Rhonda Petro |
+| 443 | 453 | Joshua Sommerville |
 | 444 | 451 | Funky Caster |
 | 445 | 451 | Cody Nishimura |
 | 446 | 451 | Dylan Thomason |

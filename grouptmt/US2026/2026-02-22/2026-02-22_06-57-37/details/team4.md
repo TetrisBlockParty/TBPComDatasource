@@ -33,8 +33,8 @@
 | 25 | 886 | Dustin Robert |
 | 26 | 880 | Koshin Abdirahman |
 | 27 | 879 | Heather Tushner |
-| 28 | 873 | Elizabeth Sallas |
-| 29 | 873 | Michelle Pearman |
+| 28 | 873 | Michelle Pearman |
+| 29 | 873 | Elizabeth Sallas |
 | 30 | 871 | Denny Shives |
 | 31 | 846 | Christine Marie |
 | 32 | 843 | Lucille Truesdale |
@@ -77,8 +77,8 @@
 | 69 | 501 | H.R. Block |
 | 70 | 500 | Rodney McMath Jr. |
 | 71 | 486 | Landon Keith Graffeo |
-| 72 | 483 | Carmethia Clemons Haslerig |
-| 73 | 483 | TeeJ |
+| 72 | 483 | TeeJ |
+| 73 | 483 | Carmethia Clemons Haslerig |
 | 74 | 467 | Dawn Alexander |
 | 75 | 462 | Julian Garcia |
 | 76 | 447 | Samantha Peterson |
@@ -102,8 +102,8 @@
 | 94 | 369 | Nope Young |
 | 95 | 359 | Chilly Crasher |
 | 96 | 358 | Nugget |
-| 97 | 352 | Zippy Gridlock |
-| 98 | 352 | Monica Daley |
+| 97 | 352 | Monica Daley |
+| 98 | 352 | Zippy Gridlock |
 | 99 | 344 | Livvy |
 | 100 | 341 | Erin Thomas |
 | 101 | 337 | Lori Walker |
@@ -151,9 +151,9 @@
 | 143 | 230 | Autum Leigh |
 | 144 | 230 | Cursed Hag |
 | 145 | 228 | J-Rizzle |
-| 146 | 227 | Alyssa Papen |
-| 147 | 227 | Chris Bernstein |
-| 148 | 227 | Swanky Fitline |
+| 146 | 227 | Swanky Fitline |
+| 147 | 227 | Alyssa Papen |
+| 148 | 227 | Chris Bernstein |
 | 149 | 225 | Damn Libra |
 | 150 | 224 | Matt Summer |
 | 151 | 224 | Amelpss |
@@ -208,8 +208,8 @@
 | 200 | 172 | Gilles Lanctot |
 | 201 | 171 | Autumn Kumzi |
 | 202 | 167 | Cozy Balancer |
-| 203 | 166 | Marvin Lou Martin |
-| 204 | 166 | SammieJo Guy |
+| 203 | 166 | SammieJo Guy |
+| 204 | 166 | Marvin Lou Martin |
 | 205 | 165 | James Hurley Jr. |
 | 206 | 165 | Jackie Marie |
 | 207 | 164 | 030Synner |
@@ -374,7 +374,7 @@
 | 366 | 99 | Lora |
 | 367 | 98 | Groovy Gridlock |
 | 368 | 98 | Brenda Bird |
-| 369 | 98 | Perky Piecegrid |
+| 369 | 98 | Squeezy Pearsall |
 | 370 | 98 | Dizzy Matchzone |
 | 371 | 98 | Hyper Builder |
 | 372 | 98 | Elie Pean |

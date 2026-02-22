@@ -124,8 +124,8 @@
 | 116 | 290 | Death |
 | 117 | 288 | Seante Bullock |
 | 118 | 287 | Chelsea Dahlquist |
-| 119 | 286 | Ly Phethmany |
-| 120 | 286 | Arianna O'Brien |
+| 119 | 286 | Arianna O'Brien |
+| 120 | 286 | Ly Phethmany |
 | 121 | 285 | Ananda Mendez |
 | 122 | 284 | Emily Adelaide Wheatley |
 | 123 | 284 | Rachael |
@@ -136,8 +136,8 @@
 | 128 | 280 | Jennifer Hardman |
 | 129 | 276 | Dandy Basegrid |
 | 130 | 265 | SkipTheSadSauce |
-| 131 | 264 | Jenny Gingrich Fuentes |
-| 132 | 264 | Lexuriuos Lifestlye |
+| 131 | 264 | Lexuriuos Lifestlye |
+| 132 | 264 | Jenny Gingrich Fuentes |
 | 133 | 263 | Sharon Reynolds |
 | 134 | 257 | Amanda Jarnagin |
 | 135 | 256 | David Miller |
@@ -153,8 +153,8 @@
 | 145 | 239 | Jamie Jury |
 | 146 | 236 | Mandyy Rae |
 | 147 | 232 | Jessi Sauer |
-| 148 | 230 | Frothy Pattern |
-| 149 | 230 | Billie Dawn Sparks |
+| 148 | 230 | Billie Dawn Sparks |
+| 149 | 230 | Frothy Pattern |
 | 150 | 229 | David Lutcher |
 | 151 | 226 | Kandae |
 | 152 | 226 | Sleepysloath5745 |
@@ -178,8 +178,8 @@
 | 170 | 206 | BadG52 |
 | 171 | 205 | Tater |
 | 172 | 204 | Lacy Wolfe |
-| 173 | 203 | LaFontaine Leslie |
-| 174 | 203 | Paula Martin |
+| 173 | 203 | Paula Martin |
+| 174 | 203 | LaFontaine Leslie |
 | 175 | 201 | Sam Williams |
 | 176 | 199 | Basment Living |
 | 177 | 199 | Donna Addison Williams |

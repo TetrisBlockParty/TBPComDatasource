@@ -61,8 +61,8 @@
 | 53 | 908 | Alanna Rogers |
 | 54 | 907 | Judi Dobson |
 | 55 | 903 | Sarah Fehring |
-| 56 | 895 | Shonna Roberts |
-| 57 | 895 | Amanda L Baker |
+| 56 | 895 | Amanda L Baker |
+| 57 | 895 | Shonna Roberts |
 | 58 | 886 | Khristen AC |
 | 59 | 874 | Jessica Pineda-Lopez |
 | 60 | 867 | Corie A. Brinson |
@@ -116,8 +116,8 @@
 | 108 | 506 | Sashay Tapae Simpson |
 | 109 | 502 | Justin Ritter |
 | 110 | 502 | Elissa S-k |
-| 111 | 500 | Domo Washington |
-| 112 | 500 | Kristie |
+| 111 | 500 | Kristie |
+| 112 | 500 | Domo Washington |
 | 113 | 497 | Mykal Burton |
 | 114 | 496 | opf |
 | 115 | 492 | Daira Largen |
@@ -241,13 +241,13 @@
 | 233 | 258 | Tamara Deherrera |
 | 234 | 257 | Ashley Jones |
 | 235 | 256 | Brenda Lee Vander Molen |
-| 236 | 256 | KayB |
-| 237 | 256 | Tiffany Davie |
+| 236 | 256 | Tiffany Davie |
+| 237 | 256 | KayB |
 | 238 | 251 | Sabrina Hardrick |
 | 239 | 250 | fraulila |
-| 240 | 249 | Raven Dudley |
+| 240 | 249 | JerseyJess |
 | 241 | 249 | Annie Marie |
-| 242 | 249 | JerseyJess |
+| 242 | 249 | Raven Dudley |
 | 243 | 246 | Eon Harris |
 | 244 | 246 | Peppy Shifter |
 | 245 | 245 | Latoya Mayne |
@@ -266,8 +266,8 @@
 | 258 | 223 | Connie Mohler-Fair |
 | 259 | 222 | Charles Perrone |
 | 260 | 221 | Vaners |
-| 261 | 221 | Jaime Monhaut-Reed |
-| 262 | 221 | Alice |
+| 261 | 221 | Alice |
+| 262 | 221 | Jaime Monhaut-Reed |
 | 263 | 219 | Cozy Snaplink |
 | 264 | 219 | Sissy Lowery Davis |
 | 265 | 218 | Michael Lucado |
@@ -322,8 +322,8 @@
 | 314 | 178 | Jess Dearborn |
 | 315 | 178 | Jennifer Alvey |
 | 316 | 177 | Rachel |
-| 317 | 176 | Melissa Orth Hunter |
-| 318 | 176 | Emma |
+| 317 | 176 | Emma |
+| 318 | 176 | Melissa Orth Hunter |
 | 319 | 175 | Eileen Brady Thurber |
 | 320 | 174 | Betty Rosas |
 | 321 | 174 | Lesley Perez |
@@ -339,9 +339,9 @@
 | 331 | 167 | Romeo |
 | 332 | 166 | Noettín Kan Zasnemoore |
 | 333 | 166 | Snarky McFace |
-| 334 | 165 | Rainbow77375 |
+| 334 | 165 | Ashley Lynn Marchese |
 | 335 | 165 | Kali Kelz Williams |
-| 336 | 165 | Ashley Lynn Marchese |
+| 336 | 165 | Rainbow77375 |
 | 337 | 163 | Diana Ibarra |
 | 338 | 163 | Christine Trester |
 | 339 | 162 | Nicole Summers-Nelson |
@@ -355,8 +355,8 @@
 | 347 | 159 | Salena Whitlock |
 | 348 | 159 | Joshua David Huie |
 | 349 | 158 | Willow |
-| 350 | 157 | Angel Mendez |
-| 351 | 157 | Katrina E Jelks |
+| 350 | 157 | Katrina E Jelks |
+| 351 | 157 | Angel Mendez |
 | 352 | 157 | Steffi Chris Dacones |
 | 353 | 157 | Wetwet |
 | 354 | 156 | Nichole Greene |
@@ -367,8 +367,8 @@
 | 359 | 153 | Lys |
 | 360 | 153 | Tony Waters |
 | 361 | 152 | Goofy Fall |
-| 362 | 152 | Eric Caccavale |
-| 363 | 152 | Shiny Zonebuilder |
+| 362 | 152 | Shiny Zonebuilder |
+| 363 | 152 | Eric Caccavale |
 | 364 | 151 | Sarah Cowan Burgos |
 | 365 | 149 | Alexis Taylor |
 | 366 | 148 | Pam Holt Powell |
