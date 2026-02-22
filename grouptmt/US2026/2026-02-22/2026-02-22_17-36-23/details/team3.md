@@ -127,8 +127,8 @@
 | 119 | 574 | Morgan Martinez |
 | 120 | 568 | Rachael McClain Owens |
 | 121 | 566 | Dolores Falco |
-| 122 | 562 | Dave Herzog |
-| 123 | 562 | Louise Stacy Sisson |
+| 122 | 562 | Louise Stacy Sisson |
+| 123 | 562 | Dave Herzog |
 | 124 | 550 | Nicole Myers |
 | 125 | 546 | Domo Washington |
 | 126 | 533 | Alaina Lee |
@@ -218,8 +218,8 @@
 | 210 | 344 | Roary Danner |
 | 211 | 344 | Trisha Balmer |
 | 212 | 343 | Ashley Raines |
-| 213 | 341 | Noyb Adam |
-| 214 | 341 | Samantha Lynn |
+| 213 | 341 | Samantha Lynn |
+| 214 | 341 | Noyb Adam |
 | 215 | 340 | Ammmmmmy |
 | 216 | 339 | Rania Zaqout |
 | 217 | 338 | Gumbo |
@@ -262,12 +262,12 @@
 | 254 | 282 | Angie Harper |
 | 255 | 281 | Carrie Huskey |
 | 256 | 280 | Terry Jo Jones |
-| 257 | 278 | Rufus Lincoln |
-| 258 | 278 | Sabrina Hardrick |
+| 257 | 278 | Sabrina Hardrick |
+| 258 | 278 | Rufus Lincoln |
 | 259 | 277 | Tracy Martin |
 | 260 | 276 | Crimson |
-| 261 | 276 | _melisa223_ |
-| 262 | 276 | Connie Mohler-Fair |
+| 261 | 276 | Connie Mohler-Fair |
+| 262 | 276 | _melisa223_ |
 | 263 | 275 | Cassandra Bryant |
 | 264 | 272 | fraulila |
 | 265 | 272 | Tasha Wesson-Torrence |
@@ -284,8 +284,8 @@
 | 276 | 263 | Brenda Schmid Wood |
 | 277 | 262 | Ray Lader |
 | 278 | 262 | Joe-Maggie Mathews |
-| 279 | 261 | Foltz Lee Kelli |
-| 280 | 261 | Tiffany Ford |
+| 279 | 261 | Tiffany Ford |
+| 280 | 261 | Foltz Lee Kelli |
 | 281 | 260 | Grams |
 | 282 | 259 | Michael Johnson |
 | 283 | 258 | IamJust Neyamijah Washington Sr. |
@@ -304,8 +304,8 @@
 | 296 | 240 | Eric Caccavale |
 | 297 | 240 | Jimmie Clemons |
 | 298 | 238 | Niki Dalrymple |
-| 299 | 236 | Angela Scott |
-| 300 | 236 | Lys |
+| 299 | 236 | Lys |
+| 300 | 236 | Angela Scott |
 | 301 | 236 | Jess Bissett |
 | 302 | 233 | Tony Waters |
 | 303 | 232 | Donna |
@@ -349,13 +349,13 @@
 | 341 | 211 | Velma Mull |
 | 342 | 211 | Wettnippz |
 | 343 | 211 | El Chapa |
-| 344 | 211 | Velma Mull |
+| 344 | 211 | Khaleada McGill Banks |
 | 345 | 210 | Criss |
 | 346 | 210 | Ashley Lynn Marchese |
 | 347 | 210 | Eileen Brady Thurber |
 | 348 | 210 | Saucy Buildout |
-| 349 | 209 | TotoCherue |
-| 350 | 209 | Kirhonda Autmon |
+| 349 | 209 | Kirhonda Autmon |
+| 350 | 209 | TotoCherue |
 | 351 | 209 | Daring Builder |
 | 352 | 208 | Karent524 |
 | 353 | 207 | Kristian Thurman |
@@ -364,11 +364,11 @@
 | 356 | 205 | Rachel Napper |
 | 357 | 204 | Cesar Barraza |
 | 358 | 203 | DanceLuvLaugh |
-| 359 | 202 | Tipsy Zonebuilder |
-| 360 | 202 | Melanie Sherwood |
+| 359 | 202 | Melanie Sherwood |
+| 360 | 202 | Tipsy Zonebuilder |
 | 361 | 201 | Hyper Matchzone |
-| 362 | 200 | Sharisse Baltimore |
-| 363 | 200 | glichmod |
+| 362 | 200 | glichmod |
+| 363 | 200 | Sharisse Baltimore |
 | 364 | 200 | Colleen Phelps |
 | 365 | 199 | Mariah Williams |
 | 366 | 199 | Loopy Fallzone |

@@ -201,8 +201,8 @@
 | 193 | 1045 | Lourisha |
 | 194 | 1043 | Brave Dropmatch |
 | 195 | 1036 | Allison Lockyer |
-| 196 | 1024 | Desiree Anderson |
-| 197 | 1024 | Bri Lynn |
+| 196 | 1024 | Bri Lynn |
+| 197 | 1024 | Desiree Anderson |
 | 198 | 1023 | Brainy Smurf |
 | 199 | 1020 | Eric Carlson |
 | 200 | 1019 | Taylor Phillips |
@@ -300,8 +300,8 @@
 | 292 | 777 | Samantha Jo |
 | 293 | 772 | Kristin Gower |
 | 294 | 768 | Michele Morgan |
-| 295 | 767 | Ashley Lopez |
-| 296 | 767 | Dee |
+| 295 | 767 | Dee |
+| 296 | 767 | Ashley Lopez |
 | 297 | 763 | Beth |
 | 298 | 763 | Heather Causey |
 | 299 | 761 | Hyper Cluster |
@@ -330,13 +330,13 @@
 | 322 | 711 | Melissa Holsinger |
 | 323 | 704 | Shelley Thornburgh Wright |
 | 324 | 703 | Gold Rose |
-| 325 | 700 | Vincent Petrella |
-| 326 | 700 | Hong Tang |
+| 325 | 700 | Hong Tang |
+| 326 | 700 | Vincent Petrella |
 | 327 | 700 | Beverly Owens |
 | 328 | 700 | Rosemadder |
 | 329 | 699 | tejas25 |
-| 330 | 697 | Dreamy Blast |
-| 331 | 697 | Ashle Scranton |
+| 330 | 697 | Ashle Scranton |
+| 331 | 697 | Dreamy Blast |
 | 332 | 695 | Deborah Miller |
 | 333 | 695 | Lakeysha Dortch |
 | 334 | 692 | Dannette Goldberg-Richards |
@@ -447,8 +447,8 @@
 | 439 | 545 | Lyndi Robinson Wakefield |
 | 440 | 545 | Sparkles |
 | 441 | 544 | Deidre Shaffer |
-| 442 | 543 | Julie Kresal |
-| 443 | 543 | Vanessa Moreno |
+| 442 | 543 | Vanessa Moreno |
+| 443 | 543 | Julie Kresal |
 | 444 | 540 | Dizzy Zone |
 | 445 | 540 | Melissa Kay Gibson |
 | 446 | 538 | Lonne Emade |
@@ -496,8 +496,8 @@
 | 488 | 496 | Erika Densmore |
 | 489 | 495 | Bubbly Snapbuild |
 | 490 | 494 | Venita Ray |
-| 491 | 493 | Sarah DeHart |
-| 492 | 493 | Sue Leard |
+| 491 | 493 | Sue Leard |
+| 492 | 493 | Sarah DeHart |
 | 493 | 492 | Breezy Clusterer |
 | 494 | 492 | Armonie Smith |
 | 495 | 492 | Maya June |
@@ -514,8 +514,8 @@
 | 506 | 482 | Amélie Cadieux |
 | 507 | 482 | Drwatson187 |
 | 508 | 481 | Klee |
-| 509 | 481 | Quirky Twistline |
-| 510 | 481 | Anthony Huebel |
+| 509 | 481 | Anthony Huebel |
+| 510 | 481 | Quirky Twistline |
 | 511 | 480 | Ashley Collins |
 | 512 | 480 | JAG$*V¡LL£•FL•DuuuVaL |
 | 513 | 480 | Dar |
@@ -526,11 +526,11 @@
 | 518 | 473 | Sam |
 | 519 | 473 | Wuntayk |
 | 520 | 473 | coleksquad |
-| 521 | 473 | Tracy Wise |
-| 522 | 473 | Ashlee Cruz |
-| 523 | 472 | KayLynn Ogden McClelland |
-| 524 | 472 | Rhonda Petro |
-| 525 | 472 | Arwa Fatimah |
+| 521 | 473 | Ashlee Cruz |
+| 522 | 473 | Tracy Wise |
+| 523 | 472 | Rhonda Petro |
+| 524 | 472 | Arwa Fatimah |
+| 525 | 472 | KayLynn Ogden McClelland |
 | 526 | 472 | Kyle LeRoy Harris |
 | 527 | 471 | Rae Rae |
 | 528 | 470 | Arlene Joy Belicina |

@@ -194,8 +194,8 @@
 | 186 | 246 | Mike Ames |
 | 187 | 246 | Madison Wicks |
 | 188 | 244 | Serina Marie |
-| 189 | 244 | Eddie Dillon |
-| 190 | 244 | Marianita Garcia |
+| 189 | 244 | Marianita Garcia |
+| 190 | 244 | Eddie Dillon |
 | 191 | 243 | Trippy Redd |
 | 192 | 242 | John Kim |
 | 193 | 241 | John J. Cronin |
@@ -231,7 +231,7 @@
 | 223 | 215 | Panda Thagreat |
 | 224 | 213 | Angela Fairbank |
 | 225 | 213 | Speedy Liney |
-| 226 | 213 | Angela Fairbank |
+| 226 | 213 | Shanae Grant |
 | 227 | 211 | Erin Rosberg |
 | 228 | 210 | Jessie Welch |
 | 229 | 210 | Jason Savage |

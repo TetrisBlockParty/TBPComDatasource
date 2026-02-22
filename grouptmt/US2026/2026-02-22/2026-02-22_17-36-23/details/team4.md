@@ -69,8 +69,8 @@
 | 61 | 688 | Avy Absol |
 | 62 | 671 | Kimyatta Cavin |
 | 63 | 671 | D3TROITB0RN74 |
-| 64 | 664 | Valerie Roberts |
-| 65 | 664 | loulou |
+| 64 | 664 | loulou |
+| 65 | 664 | Valerie Roberts |
 | 66 | 659 | Jonathan Kimbrough |
 | 67 | 654 | Chilly Line |
 | 68 | 647 | KM8 |
@@ -159,8 +159,8 @@
 | 151 | 290 | 🥔🥔 Spudz |
 | 152 | 289 | Jessica Lynn Cutlip |
 | 153 | 288 | Leah Kutz Zirbel |
-| 154 | 286 | shark tato |
-| 155 | 286 | Brittney Orengo |
+| 154 | 286 | Brittney Orengo |
+| 155 | 286 | shark tato |
 | 156 | 282 | Rafael Valentin |
 | 157 | 281 | Klo |
 | 158 | 281 | Lindsay Ball |
@@ -183,8 +183,8 @@
 | 175 | 265 | Jeff Brian Gates |
 | 176 | 264 | Girl |
 | 177 | 264 | Epic Curvetile |
-| 178 | 262 | Holly Jolly |
-| 179 | 262 | Joeliecea Cobb |
+| 178 | 262 | Joeliecea Cobb |
+| 179 | 262 | Holly Jolly |
 | 180 | 262 | Juls |
 | 181 | 260 | Porkobello |
 | 182 | 256 | J-Rizzle |
@@ -229,9 +229,9 @@
 | 221 | 210 | Adam Stephanie Parker |
 | 222 | 209 | Chris Hartig |
 | 223 | 208 | scott |
-| 224 | 208 | Dizzy Matchzone |
-| 225 | 208 | Oscar Alberto Perez |
-| 226 | 208 | Stacey Stano |
+| 224 | 208 | Oscar Alberto Perez |
+| 225 | 208 | Stacey Stano |
+| 226 | 208 | Dizzy Matchzone |
 | 227 | 207 | Chirpy Basepiece |
 | 228 | 204 | Carlos Ramirez |
 | 229 | 203 | Katherine Crane |
@@ -282,8 +282,8 @@
 | 274 | 165 | Zappy Buildgrid |
 | 275 | 164 | Marvetta Williams |
 | 276 | 163 | Ellen Durfee |
-| 277 | 162 | John Brunetti |
-| 278 | 162 | Gwendolyn Pitcairn |
+| 277 | 162 | Gwendolyn Pitcairn |
+| 278 | 162 | John Brunetti |
 | 279 | 162 | conceptCollector |
 | 280 | 161 | Tanner Lund |
 | 281 | 161 | Matt Gooder |
@@ -403,8 +403,8 @@
 | 395 | 122 | Spicy Cascadezone |
 | 396 | 122 | PennyCandee |
 | 397 | 122 | Kate |
-| 398 | 121 | Riverdale |
-| 399 | 121 | Cool Gridzone |
+| 398 | 121 | Cool Gridzone |
+| 399 | 121 | Riverdale |
 | 400 | 120 | wombat |
 | 401 | 120 | Bryan Hodgins |
 | 402 | 120 | Jay You |
