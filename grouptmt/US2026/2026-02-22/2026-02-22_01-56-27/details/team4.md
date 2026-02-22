@@ -152,8 +152,8 @@
 | 144 | 194 | Zany Twisterfit |
 | 145 | 192 | Shauna Havard |
 | 146 | 190 | Justin Hannigan |
-| 147 | 189 | Calvin Dennis |
-| 148 | 189 | Stacey Stano |
+| 147 | 189 | Stacey Stano |
+| 148 | 189 | Calvin Dennis |
 | 149 | 187 | TheNeesh50 |
 | 150 | 186 | Holly |
 | 151 | 185 | Lori |

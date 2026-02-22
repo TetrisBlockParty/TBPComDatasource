@@ -90,15 +90,15 @@
 | 82 | 323 | Sweet Baker |
 | 83 | 323 | Candy Jones |
 | 84 | 321 | Maria C. Hernandez |
-| 85 | 319 | Deanna L Hermanson |
-| 86 | 319 | Shauna Loe |
+| 85 | 319 | Shauna Loe |
+| 86 | 319 | Deanna L Hermanson |
 | 87 | 311 | Tanya Carpenter-Reynolds |
 | 88 | 310 | Seth Wesson |
 | 89 | 305 | Patrick Luckenbill |
 | 90 | 304 | Nicole Roseberry Weber |
 | 91 | 303 | cc |
-| 92 | 301 | Hyper |
-| 93 | 301 | Lehrin Maria |
+| 92 | 301 | Lehrin Maria |
+| 93 | 301 | Hyper |
 | 94 | 298 | Carrie Beck Geartz |
 | 95 | 295 | Spunky Piecebuilder |
 | 96 | 293 | Adam Byrd |
@@ -112,8 +112,8 @@
 | 104 | 280 | Sarah Roberts |
 | 105 | 277 | Ly Phethmany |
 | 106 | 275 | Cynthia Bradley |
-| 107 | 273 | Bhelle Sumile |
-| 108 | 273 | Happy Basegrid |
+| 107 | 273 | Happy Basegrid |
+| 108 | 273 | Bhelle Sumile |
 | 109 | 272 | Rachael |
 | 110 | 263 | Sharon Reynolds |
 | 111 | 262 | Dandy Basegrid |

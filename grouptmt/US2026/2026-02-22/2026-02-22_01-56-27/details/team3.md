@@ -142,8 +142,8 @@
 | 134 | 368 | Stephanie Woods |
 | 135 | 366 | Adrian Marcel Pate |
 | 136 | 365 | Logan Naccarato |
-| 137 | 355 | Tessina Dewey-Mancino |
-| 138 | 355 | Sherry Ogden |
+| 137 | 355 | Sherry Ogden |
+| 138 | 355 | Tessina Dewey-Mancino |
 | 139 | 348 | CeceGeGe |
 | 140 | 347 | Nicole Flippo |
 | 141 | 347 | Darlene McMillan |
@@ -171,8 +171,8 @@
 | 163 | 286 | Cynthia Herrmann Egland |
 | 164 | 283 | Joye Sims Binion |
 | 165 | 278 | Rufus Lincoln |
-| 166 | 276 | _melisa223_ |
-| 167 | 276 | Crimson |
+| 166 | 276 | Crimson |
+| 167 | 276 | _melisa223_ |
 | 168 | 274 | Tye Stovall |
 | 169 | 273 | RickyG |
 | 170 | 272 | Rebecca Bailey |
@@ -346,9 +346,9 @@
 | 338 | 132 | Angela Scott |
 | 339 | 131 | Cheeky Snapper |
 | 340 | 131 | Beppy |
-| 341 | 130 | TotoCherue |
-| 342 | 130 | El Chapa |
-| 343 | 130 | Karen Picaboo |
+| 341 | 130 | El Chapa |
+| 342 | 130 | Karen Picaboo |
+| 343 | 130 | TotoCherue |
 | 344 | 130 | Chummy Caster |
 | 345 | 129 | Danielle Weikel |
 | 346 | 129 | Juliana Dottore |
@@ -415,8 +415,8 @@
 | 407 | 108 | Jack Bo |
 | 408 | 108 | Sierra Spencer |
 | 409 | 107 | Megan Stanley |
-| 410 | 106 | Cheeky Setter |
-| 411 | 106 | Joseph Vargas |
+| 410 | 106 | Joseph Vargas |
+| 411 | 106 | Cheeky Setter |
 | 412 | 106 | Megan Riggins |
 | 413 | 105 | Snarky McFace |
 | 414 | 105 | Zac Hudak |

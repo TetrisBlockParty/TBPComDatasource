@@ -174,8 +174,8 @@
 | 166 | 811 | James Simms III |
 | 167 | 811 | Rebecca Doughman |
 | 168 | 808 | John Bednarik |
-| 169 | 807 | Khalil Lowe |
-| 170 | 807 | Kristopher Miller |
+| 169 | 807 | Kristopher Miller |
+| 170 | 807 | Khalil Lowe |
 | 171 | 805 | Robin Kerby |
 | 172 | 800 | Danielle Johnson-Chandler |
 | 173 | 795 | YiFei |
@@ -212,8 +212,8 @@
 | 204 | 705 | Lola Contreras |
 | 205 | 705 | Roger Grabbit |
 | 206 | 703 | Ricardo Burton |
-| 207 | 700 | Rosemadder |
-| 208 | 700 | Beverly Owens |
+| 207 | 700 | Beverly Owens |
+| 208 | 700 | Rosemadder |
 | 209 | 700 | Vincent Petrella |
 | 210 | 699 | Vo'Landa Reels |
 | 211 | 695 | Dineisha Carpenter |
