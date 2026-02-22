@@ -555,8 +555,8 @@
 | 547 | 364 | Shinette Dobson |
 | 548 | 364 | Jasmine Kenney |
 | 549 | 363 | Lawanda Forbes |
-| 550 | 363 | Michelle Sager |
-| 551 | 363 | Kia Humphery |
+| 550 | 363 | Kia Humphery |
+| 551 | 363 | Michelle Sager |
 | 552 | 363 | Happy Caster |
 | 553 | 362 | Tracy Wise |
 | 554 | 362 | Jennifer Scott |
@@ -705,8 +705,8 @@
 | 697 | 284 | Hillary Franklin |
 | 698 | 283 | Tash Bell |
 | 699 | 282 | Nutty Slice |
-| 700 | 280 | Reece Smith |
-| 701 | 280 | Danielle DeLozier Plesec |
+| 700 | 280 | Danielle DeLozier Plesec |
+| 701 | 280 | Reece Smith |
 | 702 | 280 | Belle |
 | 703 | 279 | Loony Basepiece |
 | 704 | 278 | AndrewandShela Gornik |

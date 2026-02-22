@@ -65,8 +65,8 @@
 | 57 | 495 | Sevens4L |
 | 58 | 491 | Sarah Lombardo |
 | 59 | 483 | Ryan Lunnin |
-| 60 | 458 | Kellie |
-| 61 | 458 | April Carroll |
+| 60 | 458 | April Carroll |
+| 61 | 458 | Kellie |
 | 62 | 449 | Lola Adkhambekovna |
 | 63 | 444 | Evie Khalil |
 | 64 | 441 | Robert Benito |
@@ -129,8 +129,8 @@
 | 121 | 276 | Dandy Basegrid |
 | 122 | 266 | Jason Jones |
 | 123 | 265 | SkipTheSadSauce |
-| 124 | 264 | Jenny Gingrich Fuentes |
-| 125 | 264 | Lexuriuos Lifestlye |
+| 124 | 264 | Lexuriuos Lifestlye |
+| 125 | 264 | Jenny Gingrich Fuentes |
 | 126 | 263 | Sharon Reynolds |
 | 127 | 256 | David Miller |
 | 128 | 252 | Dena Kayy |
@@ -348,8 +348,8 @@
 | 340 | 98 | Alfredo Vasquez |
 | 341 | 98 | Kirk Torrey |
 | 342 | 97 | Steve Bomkamp |
-| 343 | 96 | Nutty Spinblock |
-| 344 | 96 | Lisa Marie |
+| 343 | 96 | Lisa Marie |
+| 344 | 96 | Nutty Spinblock |
 | 345 | 95 | Jay Tressler |
 | 346 | 95 | Matt Iaccheo |
 | 347 | 95 | Angela Spann |
