@@ -69,8 +69,8 @@
 | 61 | 412 | Anaid Sanchez |
 | 62 | 409 | Jazzy Framezone |
 | 63 | 391 | Robert Benito |
-| 64 | 388 | Yvonne Marie |
-| 65 | 388 | Jennifer ManWarren |
+| 64 | 388 | Jennifer ManWarren |
+| 65 | 388 | Yvonne Marie |
 | 66 | 382 | Lori Sanders- Davis |
 | 67 | 379 | Austin James |
 | 68 | 374 | Tinah Montanna |
@@ -112,8 +112,8 @@
 | 104 | 279 | Seante Bullock |
 | 105 | 277 | Ly Phethmany |
 | 106 | 275 | Cynthia Bradley |
-| 107 | 273 | Bhelle Sumile |
-| 108 | 273 | Happy Basegrid |
+| 107 | 273 | Happy Basegrid |
+| 108 | 273 | Bhelle Sumile |
 | 109 | 272 | Rachael |
 | 110 | 263 | Sharon Reynolds |
 | 111 | 262 | Dandy Basegrid |
@@ -122,8 +122,8 @@
 | 114 | 251 | Jason Jones |
 | 115 | 249 | Elaine Elaine |
 | 116 | 244 | Franswa |
-| 117 | 243 | Trippy Redd |
-| 118 | 243 | Chelsea Dahlquist |
+| 117 | 243 | Chelsea Dahlquist |
+| 118 | 243 | Trippy Redd |
 | 119 | 241 | John J. Cronin |
 | 120 | 240 | Tana |
 | 121 | 236 | Mandyy Rae |

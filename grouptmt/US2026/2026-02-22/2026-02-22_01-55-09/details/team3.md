@@ -214,8 +214,8 @@
 | 206 | 221 | Jaime Monhaut-Reed |
 | 207 | 219 | Shunta Jacobs |
 | 208 | 219 | Keis |
-| 209 | 218 | LaNette Morgan |
-| 210 | 218 | Michael Lucado |
+| 209 | 218 | Michael Lucado |
+| 210 | 218 | LaNette Morgan |
 | 211 | 216 | Tasha Wesson-Torrence |
 | 212 | 215 | IamJust Neyamijah Washington Sr. |
 | 213 | 214 | Sissy Lowery Davis |
@@ -250,8 +250,8 @@
 | 242 | 189 | Katie Leigh Blankenship |
 | 243 | 188 | JerseyJess |
 | 244 | 185 | AlsoJess |
-| 245 | 184 | France Vézina |
-| 246 | 184 | Troy |
+| 245 | 184 | Troy |
+| 246 | 184 | France Vézina |
 | 247 | 181 | Nicholas Roddy |
 | 248 | 180 | Ryan Williams |
 | 249 | 180 | Loopy Fallmatch |
