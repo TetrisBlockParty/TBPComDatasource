@@ -117,8 +117,8 @@
 | 109 | 416 | Mary Pellegrino |
 | 110 | 412 | Khristen AC |
 | 111 | 410 | Stephanie Simpson |
-| 112 | 403 | FuzzyNavel |
-| 113 | 403 | Christine Filson |
+| 112 | 403 | Christine Filson |
+| 113 | 403 | FuzzyNavel |
 | 114 | 400 | Luciana Braganca Vieira |
 | 115 | 399 | Patti Skiles |
 | 116 | 399 | ren |
@@ -163,9 +163,9 @@
 | 155 | 300 | Sherika C. McDaniels |
 | 156 | 295 | Jim Mathews |
 | 157 | 293 | Poppy Splitter |
-| 158 | 289 | Daryn Elliott |
+| 158 | 289 | DidIdothat |
 | 159 | 289 | Hoppy Buildout |
-| 160 | 289 | DidIdothat |
+| 160 | 289 | Daryn Elliott |
 | 161 | 288 | Marci Mize Fandrich |
 | 162 | 286 | Cynthia Herrmann Egland |
 | 163 | 286 | Jacqueline Rodriguez |
@@ -181,8 +181,8 @@
 | 173 | 267 | Denise Nardoni |
 | 174 | 263 | Angeline Joseph |
 | 175 | 262 | Joe-Maggie Mathews |
-| 176 | 261 | Tiffany Ford |
-| 177 | 261 | Tom Nault |
+| 176 | 261 | Tom Nault |
+| 177 | 261 | Tiffany Ford |
 | 178 | 260 | Grams |
 | 179 | 258 | Tamara Deherrera |
 | 180 | 257 | Ashley Jones |
