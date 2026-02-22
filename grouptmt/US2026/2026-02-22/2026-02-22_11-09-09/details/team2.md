@@ -135,8 +135,8 @@
 | 127 | 1273 | Cool Rollpiece |
 | 128 | 1257 | Eileen Hale |
 | 129 | 1252 | Katrina Williams Balmir |
-| 130 | 1248 | Isabela Shaw |
-| 131 | 1248 | Howard Forest |
+| 130 | 1248 | Howard Forest |
+| 131 | 1248 | Isabela Shaw |
 | 132 | 1242 | Altamirano Michael |
 | 133 | 1232 | Groovy Puzzle |
 | 134 | 1226 | Vo'Landa Reels |
@@ -305,8 +305,8 @@
 | 297 | 685 | Binyah-Binyah |
 | 298 | 681 | Melissa Holsinger |
 | 299 | 679 | Offonar Facey |
-| 300 | 679 | Dee |
-| 301 | 679 | Brenda Utphall |
+| 300 | 679 | Brenda Utphall |
+| 301 | 679 | Dee |
 | 302 | 679 | Kassandra Hunt |
 | 303 | 678 | Scott Treadway |
 | 304 | 677 | Mema |
@@ -376,8 +376,8 @@
 | 368 | 557 | Block Master |
 | 369 | 557 | Brandy Andre |
 | 370 | 556 | Slip |
-| 371 | 554 | Santana Miyagi |
-| 372 | 554 | Rachael Senard |
+| 371 | 554 | Rachael Senard |
+| 372 | 554 | Santana Miyagi |
 | 373 | 554 | Autumn Schaeffer |
 | 374 | 552 | Michelle Fields |
 | 375 | 550 | Nashu |
@@ -558,8 +558,8 @@
 | 550 | 406 | Erin StFrancis |
 | 551 | 406 | Kimberly Ann |
 | 552 | 405 | Lee Harper |
-| 553 | 404 | Goofy Catcher |
-| 554 | 404 | Dawn L Washington-Feuquay |
+| 553 | 404 | Dawn L Washington-Feuquay |
+| 554 | 404 | Goofy Catcher |
 | 555 | 403 | Goofy Dasher |
 | 556 | 401 | Moua Ying |
 | 557 | 401 | De Hawkins |
@@ -704,8 +704,8 @@
 | 696 | 326 | Angela Murgia-Owen |
 | 697 | 325 | Justin Hines |
 | 698 | 325 | Mike73 |
-| 699 | 324 | Dale Haanpaa |
-| 700 | 324 | Tasia Stinson |
+| 699 | 324 | Tasia Stinson |
+| 700 | 324 | Dale Haanpaa |
 | 701 | 323 | Kyla Louise |
 | 702 | 323 | Briana Alexander |
 | 703 | 322 | Christina Jarvis-Swarbrick |
@@ -724,8 +724,8 @@
 | 716 | 316 | Johanna Massaro |
 | 717 | 314 | Amanda West |
 | 718 | 314 | Twisty Tetriblast |
-| 719 | 313 | Natasha Edmonds |
-| 720 | 313 | Marina Linda |
+| 719 | 313 | Marina Linda |
+| 720 | 313 | Natasha Edmonds |
 | 721 | 313 | Snippy Block |
 | 722 | 312 | Sassy Linkbuilder |
 | 723 | 312 | Heather Renee Jeffers |
@@ -744,8 +744,8 @@
 | 736 | 307 | stacey |
 | 737 | 306 | Kiorah Blaze |
 | 738 | 305 | Zany Clusterbuilder |
-| 739 | 305 | Narutofreak13 |
-| 740 | 305 | MamaBear11 |
+| 739 | 305 | MamaBear11 |
+| 740 | 305 | Narutofreak13 |
 | 741 | 304 | NFLPITMOM |
 | 742 | 304 | Melissa McCall |
 | 743 | 304 | James Smith |
@@ -894,8 +894,8 @@
 | 886 | 258 | DesertDreamer24 |
 | 887 | 258 | Tee Jaleesa |
 | 888 | 257 | Mama T |
-| 889 | 257 | Jackie Jackie Lee |
-| 890 | 257 | Ys Muhammed |
+| 889 | 257 | Ys Muhammed |
+| 890 | 257 | Jackie Jackie Lee |
 | 891 | 257 | Queen |
 | 892 | 256 | Slinky Racker |
 | 893 | 256 | Gursharan Sandhu |
@@ -973,8 +973,8 @@
 | 965 | 236 | Meli |
 | 966 | 235 | Angelica |
 | 967 | 235 | B-rad B-rad |
-| 968 | 235 | Prince Ajesh |
-| 969 | 235 | Shantel Kelley |
+| 968 | 235 | Shantel Kelley |
+| 969 | 235 | Prince Ajesh |
 | 970 | 235 | Loopy Shatterfit |
 | 971 | 234 | Nikki Arlene |
 | 972 | 234 | Joanna L. Abad |
@@ -1186,12 +1186,12 @@
 | 1178 | 192 | Dawn Woosley Bowes |
 | 1179 | 192 | Joy Marie |
 | 1180 | 192 | Donna M Carter |
-| 1181 | 192 | Leroy Jenkins |
-| 1182 | 192 | Nicole Sanqui |
+| 1181 | 192 | Nicole Sanqui |
+| 1182 | 192 | Leroy Jenkins |
 | 1183 | 191 | Samuel Labruno |
 | 1184 | 191 | Netty |
-| 1185 | 191 | Cherry |
-| 1186 | 191 | Val Pal |
+| 1185 | 191 | Val Pal |
+| 1186 | 191 | Cherry |
 | 1187 | 190 | Lola |
 | 1188 | 190 | Jessica Kaye DeAguero |
 | 1189 | 190 | Lucero Ramirez |
@@ -1404,9 +1404,9 @@
 | 1396 | 165 | Breezy Strikerpiece |
 | 1397 | 165 | Chummy Crasher |
 | 1398 | 165 | Emmmz |
-| 1399 | 164 | Jennifer Foster |
-| 1400 | 164 | Quiltygirl |
-| 1401 | 164 | Tiara Gaither |
+| 1399 | 164 | Tiara Gaither |
+| 1400 | 164 | Jennifer Foster |
+| 1401 | 164 | Quiltygirl |
 | 1402 | 164 | Ty Quarles |
 | 1403 | 164 | Jennifer Rose |
 | 1404 | 164 | Amy McManus |
