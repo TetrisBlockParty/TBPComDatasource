@@ -90,8 +90,8 @@
 | 82 | 319 | Deanna L Hermanson |
 | 83 | 318 | Dee Perry |
 | 84 | 310 | Seth Wesson |
-| 85 | 305 | Patrick Luckenbill |
-| 86 | 305 | Plucky Ziggy |
+| 85 | 305 | Plucky Ziggy |
+| 86 | 305 | Patrick Luckenbill |
 | 87 | 304 | Nicole Roseberry Weber |
 | 88 | 303 | Tanya Carpenter-Reynolds |
 | 89 | 301 | Hyper |
@@ -108,8 +108,8 @@
 | 100 | 277 | Ly Phethmany |
 | 101 | 273 | Happy Basegrid |
 | 102 | 271 | Bhelle Sumile |
-| 103 | 269 | Rachael |
-| 104 | 269 | Seante Bullock |
+| 103 | 269 | Seante Bullock |
+| 104 | 269 | Rachael |
 | 105 | 263 | Sharon Reynolds |
 | 106 | 262 | Dandy Basegrid |
 | 107 | 257 | june october |
@@ -147,8 +147,8 @@
 | 139 | 192 | Jessica Sheehan |
 | 140 | 192 | Shaykmia |
 | 141 | 191 | Diane Byrd |
-| 142 | 190 | Sweetts |
-| 143 | 190 | Thorne Shumate |
+| 142 | 190 | Thorne Shumate |
+| 143 | 190 | Sweetts |
 | 144 | 188 | Sam Williams |
 | 145 | 187 | Snippy Wipebuilder |
 | 146 | 186 | Margo Wagner |
@@ -161,8 +161,8 @@
 | 153 | 180 | BigWeenie69 |
 | 154 | 179 | Danielle Little-Daugherty |
 | 155 | 178 | Chad Atchley |
-| 156 | 177 | Irual Hctrab |
-| 157 | 177 | ParisandCory Champagne |
+| 156 | 177 | ParisandCory Champagne |
+| 157 | 177 | Irual Hctrab |
 | 158 | 175 | John Barron |
 | 159 | 173 | Gabrielle Louise Malloch |
 | 160 | 171 | David DeSantis |
@@ -226,8 +226,8 @@
 | 218 | 129 | Larry Tilton |
 | 219 | 128 | Brenda Alexander |
 | 220 | 128 | lil mickey |
-| 221 | 127 | Cheeky Pop |
-| 222 | 127 | Lori Bales |
+| 221 | 127 | Lori Bales |
+| 222 | 127 | Cheeky Pop |
 | 223 | 126 | Tami Luce Martin |
 | 224 | 124 | Alenoush Karimian |
 | 225 | 122 | Sleepysloath5745 |

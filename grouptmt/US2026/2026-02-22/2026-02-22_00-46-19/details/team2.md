@@ -272,8 +272,8 @@
 | 264 | 547 | Giggy Blocker |
 | 265 | 547 | Mema |
 | 266 | 544 | Leah Keesling |
-| 267 | 543 | Teresa Gillmore |
-| 268 | 543 | Adira Brown |
+| 267 | 543 | Adira Brown |
+| 268 | 543 | Teresa Gillmore |
 | 269 | 542 | Slip |
 | 270 | 535 | Jessie McDougald |
 | 271 | 535 | Paul Huber |
@@ -402,8 +402,8 @@
 | 394 | 391 | Chilly Bridgepiece |
 | 395 | 391 | Qiana Sanders |
 | 396 | 389 | Alexis Richardson |
-| 397 | 387 | Ann Matzkanin |
-| 398 | 387 | Johnny Yeates |
+| 397 | 387 | Johnny Yeates |
+| 398 | 387 | Ann Matzkanin |
 | 399 | 387 | Jennifer Malloy - Cardy |
 | 400 | 386 | Irene Jones |
 | 401 | 384 | Mike Aprilliano |

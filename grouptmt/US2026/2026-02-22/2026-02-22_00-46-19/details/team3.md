@@ -69,14 +69,14 @@
 | 61 | 621 | Ebony West-Cundiff |
 | 62 | 621 | Cherry Parker |
 | 63 | 619 | Jennifer |
-| 64 | 618 | Brandon Green |
-| 65 | 618 | MissTaylor |
+| 64 | 618 | MissTaylor |
+| 65 | 618 | Brandon Green |
 | 66 | 613 | Amber Hughes |
 | 67 | 604 | Danielle Becker |
 | 68 | 591 | Suzieq |
 | 69 | 588 | yoyo |
-| 70 | 582 | Natasha Jones |
-| 71 | 582 | Katrina Schroeder |
+| 70 | 582 | Katrina Schroeder |
+| 71 | 582 | Natasha Jones |
 | 72 | 581 | Danielle Mogg |
 | 73 | 580 | Amanda L Baker |
 | 74 | 576 | Dan Rob |
@@ -117,8 +117,8 @@
 | 109 | 400 | Luciana Braganca Vieira |
 | 110 | 399 | Mcathen |
 | 111 | 396 | Shannon Matthew Byers |
-| 112 | 394 | joclisa |
-| 113 | 394 | Annie Déè |
+| 112 | 394 | Annie Déè |
+| 113 | 394 | joclisa |
 | 114 | 392 | Michelle |
 | 115 | 391 | Calista Jo Dickson |
 | 116 | 390 | Hasty Cascadefit |
@@ -127,11 +127,11 @@
 | 119 | 389 | Jessica Bechler |
 | 120 | 386 | Katie Knaus |
 | 121 | 383 | Jesse Olive |
-| 122 | 378 | Tasha Schriewer |
-| 123 | 378 | Makelini Mausia |
+| 122 | 378 | Makelini Mausia |
+| 123 | 378 | Tasha Schriewer |
 | 124 | 374 | Loopy Clusterer |
-| 125 | 368 | Stephanie Woods |
-| 126 | 368 | Stephanie Blkpep Davidson |
+| 125 | 368 | Stephanie Blkpep Davidson |
+| 126 | 368 | Stephanie Woods |
 | 127 | 367 | mjl574 |
 | 128 | 366 | Tasha Gillespie |
 | 129 | 366 | Adrian Marcel Pate |
@@ -142,9 +142,9 @@
 | 134 | 347 | Nicole Flippo |
 | 135 | 347 | Darlene McMillan |
 | 136 | 343 | Chasity |
-| 137 | 328 | Dapper Snap |
+| 137 | 328 | Jeni Dow |
 | 138 | 328 | Aaron Pitkin |
-| 139 | 328 | Jeni Dow |
+| 139 | 328 | Dapper Snap |
 | 140 | 326 | Fancy Cascader |
 | 141 | 323 | Ashley Raines |
 | 142 | 320 | Or Reznitsky |
@@ -254,9 +254,9 @@
 | 246 | 170 | Denita Mungro |
 | 247 | 170 | Lesley Perez |
 | 248 | 169 | Emma |
-| 249 | 169 | BŘŰŤİÇŨŚ |
-| 250 | 169 | Eileen Brady Thurber |
-| 251 | 169 | Daryn Elliott |
+| 249 | 169 | Eileen Brady Thurber |
+| 250 | 169 | Daryn Elliott |
+| 251 | 169 | BŘŰŤİÇŨŚ |
 | 252 | 168 | MsBee |
 | 253 | 168 | Jennifer Alvey |
 | 254 | 166 | Cheryl Hinch Tenbrook |
@@ -318,8 +318,8 @@
 | 310 | 138 | Weerae |
 | 311 | 138 | Pam Holt Powell |
 | 312 | 137 | sofaking |
-| 313 | 136 | Sabrina Mansfield |
-| 314 | 136 | Blair Erin Waite |
+| 313 | 136 | Blair Erin Waite |
+| 314 | 136 | Sabrina Mansfield |
 | 315 | 136 | Christian Werndl |
 | 316 | 134 | Bleu Sun Beams |
 | 317 | 134 | Tammy |
