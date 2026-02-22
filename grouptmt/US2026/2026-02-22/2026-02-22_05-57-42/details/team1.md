@@ -121,8 +121,8 @@
 | 113 | 292 | Kristen Gideon |
 | 114 | 290 | Death |
 | 115 | 288 | Seante Bullock |
-| 116 | 286 | Arianna O'Brien |
-| 117 | 286 | Ly Phethmany |
+| 116 | 286 | Ly Phethmany |
+| 117 | 286 | Arianna O'Brien |
 | 118 | 285 | Ananda Mendez |
 | 119 | 284 | Emily Adelaide Wheatley |
 | 120 | 284 | lil mickey |
@@ -155,8 +155,8 @@
 | 147 | 226 | Kandae |
 | 148 | 224 | Tyler Werts |
 | 149 | 223 | Sleepysloath5745 |
-| 150 | 217 | Dizzy Party |
-| 151 | 217 | ParisandCory Champagne |
+| 150 | 217 | ParisandCory Champagne |
+| 151 | 217 | Dizzy Party |
 | 152 | 216 | MRdot Rooski |
 | 153 | 216 | Shauntina Burke |
 | 154 | 214 | GATOR |

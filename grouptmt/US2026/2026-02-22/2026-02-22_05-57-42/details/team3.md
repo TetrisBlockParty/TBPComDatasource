@@ -98,8 +98,8 @@
 | 90 | 581 | Danielle Mogg |
 | 91 | 579 | Jd Morris |
 | 92 | 566 | Dolores Falco |
-| 93 | 565 | Patty Allen |
-| 94 | 565 | Rachael McClain Owens |
+| 93 | 565 | Rachael McClain Owens |
+| 94 | 565 | Patty Allen |
 | 95 | 559 | Morgan Martinez |
 | 96 | 558 | Sarajane Lokan |
 | 97 | 549 | Nicole Myers |
@@ -467,8 +467,8 @@
 | 459 | 113 | Gideon Walker |
 | 460 | 113 | Kristy Brown |
 | 461 | 112 | Michael Kimbro |
-| 462 | 112 | Shanon R Jackson |
-| 463 | 112 | Sarah Morris |
+| 462 | 112 | Sarah Morris |
+| 463 | 112 | Shanon R Jackson |
 | 464 | 112 | TLM |
 | 465 | 111 | Jennifer Neiman Gaal |
 | 466 | 111 | Victoria Wangler Lewis |

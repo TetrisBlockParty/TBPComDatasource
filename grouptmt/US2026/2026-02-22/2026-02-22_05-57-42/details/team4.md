@@ -44,8 +44,8 @@
 | 36 | 775 | Dee Kay |
 | 37 | 766 | Robin Watters |
 | 38 | 734 | BertMofo |
-| 39 | 707 | Ancient Intuition |
-| 40 | 707 | Rachel Anne |
+| 39 | 707 | Rachel Anne |
+| 40 | 707 | Ancient Intuition |
 | 41 | 704 | Crystal Carroll |
 | 42 | 697 | Edward White |
 | 43 | 659 | Rebecca Moulton Pinciaro |
@@ -113,8 +113,8 @@
 | 105 | 303 | Lauren Scott |
 | 106 | 300 | Jason Hart |
 | 107 | 298 | Lucas J Sutton |
-| 108 | 296 | HastyGrabber |
-| 109 | 296 | Justin Hannigan |
+| 108 | 296 | Justin Hannigan |
+| 109 | 296 | HastyGrabber |
 | 110 | 295 | Latisha Davis |
 | 111 | 294 | Kesha Brady |
 | 112 | 290 | 🥔🥔 Spudz |

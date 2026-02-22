@@ -226,9 +226,9 @@
 | 218 | 800 | Danielle Johnson-Chandler |
 | 219 | 787 | Laura McCarthey |
 | 220 | 783 | Auntie B |
-| 221 | 777 | Jessicah Myers |
-| 222 | 777 | Tesha Oldaker |
-| 223 | 777 | Barbra Miller |
+| 221 | 777 | Barbra Miller |
+| 222 | 777 | Jessicah Myers |
+| 223 | 777 | Tesha Oldaker |
 | 224 | 777 | Eric Carlson |
 | 225 | 771 | Terri McKelvey McKinley |
 | 226 | 769 | Adira Brown |
@@ -253,9 +253,9 @@
 | 245 | 705 | Lola Contreras |
 | 246 | 704 | Shelley Thornburgh Wright |
 | 247 | 703 | Gold Rose |
-| 248 | 700 | Rosemadder |
-| 249 | 700 | Beverly Owens |
-| 250 | 700 | Vincent Petrella |
+| 248 | 700 | Vincent Petrella |
+| 249 | 700 | Rosemadder |
+| 250 | 700 | Beverly Owens |
 | 251 | 698 | Mighty Shatterfit |
 | 252 | 697 | Dreamy Blast |
 | 253 | 692 | Chelle |
