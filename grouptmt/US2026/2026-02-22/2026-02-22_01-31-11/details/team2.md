@@ -285,8 +285,8 @@
 | 277 | 543 | Teresa Gillmore |
 | 278 | 543 | Adira Brown |
 | 279 | 542 | Slip |
-| 280 | 535 | Jessie McDougald |
-| 281 | 535 | Paul Huber |
+| 280 | 535 | Paul Huber |
+| 281 | 535 | Jessie McDougald |
 | 282 | 531 | Chris Wanner |
 | 283 | 528 | Brownie Sheena |
 | 284 | 528 | Taylor Phillips |
@@ -310,8 +310,8 @@
 | 302 | 502 | Poppy Snap |
 | 303 | 500 | Glitzy Stackzone |
 | 304 | 500 | Sarah Ridenour |
-| 305 | 499 | Sarah Massey |
-| 306 | 499 | Alisa Lamb |
+| 305 | 499 | Alisa Lamb |
+| 306 | 499 | Sarah Massey |
 | 307 | 498 | Lylymom |
 | 308 | 497 | Jeremy Parodi |
 | 309 | 492 | Armonie Smith |
@@ -339,8 +339,8 @@
 | 331 | 465 | Blacc Blac |
 | 332 | 463 | Sue Leard |
 | 333 | 460 | Cody Smith-Candelaria |
-| 334 | 459 | Brainy Smurf |
-| 335 | 459 | Doowop40 |
+| 334 | 459 | Doowop40 |
+| 335 | 459 | Brainy Smurf |
 | 336 | 458 | Casper The Chonk |
 | 337 | 457 | Victoria Moore-Smith |
 | 338 | 454 | Nashu |
@@ -443,8 +443,8 @@
 | 435 | 368 | Elisheva Mizrachi |
 | 436 | 367 | Deyawn Smith |
 | 437 | 366 | Darcy Mae |
-| 438 | 366 | Courtney Burcham |
-| 439 | 366 | Smashanator |
+| 438 | 366 | Smashanator |
+| 439 | 366 | Courtney Burcham |
 | 440 | 365 | Christina Lewis-Vickers |
 | 441 | 365 | Audrey Jones |
 | 442 | 365 | Susan Arnburg |
@@ -453,8 +453,8 @@
 | 445 | 364 | Shinette Dobson |
 | 446 | 363 | Happy Caster |
 | 447 | 362 | Adam Simmons |
-| 448 | 362 | KayLynn Ogden McClelland |
-| 449 | 362 | Tracy Wise |
+| 448 | 362 | Tracy Wise |
+| 449 | 362 | KayLynn Ogden McClelland |
 | 450 | 359 | Offonar Facey |
 | 451 | 358 | Michelle Sager |
 | 452 | 358 | Alyssaaelena |
@@ -465,8 +465,8 @@
 | 457 | 354 | F-X |
 | 458 | 354 | Lawanda Forbes |
 | 459 | 353 | Cheery Matchzone |
-| 460 | 352 | Andrea Maher |
-| 461 | 352 | Jean FU Jagielski |
+| 460 | 352 | Jean FU Jagielski |
+| 461 | 352 | Andrea Maher |
 | 462 | 352 | ruth |
 | 463 | 350 | Chris Harr |
 | 464 | 350 | Traci Johnson |
@@ -509,8 +509,8 @@
 | 501 | 328 | bru |
 | 502 | 327 | Danielle Simmons |
 | 503 | 327 | Kiana Boschh |
-| 504 | 326 | Denise Rickman |
-| 505 | 326 | NanDa Cruzan VI |
+| 504 | 326 | NanDa Cruzan VI |
+| 505 | 326 | Denise Rickman |
 | 506 | 324 | Mike73 |
 | 507 | 323 | Snappy Shatterfit |
 | 508 | 323 | Tum |
@@ -542,8 +542,8 @@
 | 534 | 307 | Johanna Massaro |
 | 535 | 306 | Gina Caulder |
 | 536 | 305 | Libby Hicks |
-| 537 | 305 | Samantha Scibelli |
-| 538 | 305 | Arlene Joy Belicina |
+| 537 | 305 | Arlene Joy Belicina |
+| 538 | 305 | Samantha Scibelli |
 | 539 | 305 | Zany Clusterbuilder |
 | 540 | 304 | Melissa McCall |
 | 541 | 304 | NFLPITMOM |

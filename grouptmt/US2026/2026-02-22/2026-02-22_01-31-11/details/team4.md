@@ -123,8 +123,8 @@
 | 115 | 225 | Damn Libra |
 | 116 | 222 | Joeliecea Cobb |
 | 117 | 221 | Alyssa Papen |
-| 118 | 218 | Antony Dwayne Beasley |
-| 119 | 218 | Casey Grabner |
+| 118 | 218 | Casey Grabner |
+| 119 | 218 | Antony Dwayne Beasley |
 | 120 | 217 | Chaz Duncan |
 | 121 | 217 | loulou |
 | 122 | 214 | Monica Daley |
@@ -178,8 +178,8 @@
 | 170 | 153 | Avy Absol |
 | 171 | 153 | Empress Oasis |
 | 172 | 151 | Bethany Ison |
-| 173 | 149 | Megan Cutshaw |
-| 174 | 149 | Shainne Brewer |
+| 173 | 149 | Shainne Brewer |
+| 174 | 149 | Megan Cutshaw |
 | 175 | 148 | Mr. Party |
 | 176 | 148 | Janita Parrish |
 | 177 | 148 | Brittany Marsh |

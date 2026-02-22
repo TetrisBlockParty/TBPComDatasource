@@ -140,11 +140,11 @@
 | 132 | 367 | mjl574 |
 | 133 | 366 | Adrian Marcel Pate |
 | 134 | 365 | Logan Naccarato |
-| 135 | 355 | Sherry Ogden |
-| 136 | 355 | Tessina Dewey-Mancino |
+| 135 | 355 | Tessina Dewey-Mancino |
+| 136 | 355 | Sherry Ogden |
 | 137 | 348 | CeceGeGe |
-| 138 | 347 | Darlene McMillan |
-| 139 | 347 | Nicole Flippo |
+| 138 | 347 | Nicole Flippo |
+| 139 | 347 | Darlene McMillan |
 | 140 | 343 | Chasity |
 | 141 | 338 | Louise Stacy Sisson |
 | 142 | 328 | Jeni Dow |

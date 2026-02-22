@@ -47,8 +47,8 @@
 | 39 | 550 | Kristen Roles Robben |
 | 40 | 543 | Aaron Garnett |
 | 41 | 541 | Drew Magnus |
-| 42 | 539 | Karin Gillen |
-| 43 | 539 | Hyp James NObettadanluvarat |
+| 42 | 539 | Hyp James NObettadanluvarat |
+| 43 | 539 | Karin Gillen |
 | 44 | 528 | comrade fish |
 | 45 | 517 | Jen Sartain |
 | 46 | 510 | Colena Davenport |
@@ -89,8 +89,8 @@
 | 81 | 323 | Sweet Baker |
 | 82 | 323 | Candy Jones |
 | 83 | 321 | Maria C. Hernandez |
-| 84 | 319 | Deanna L Hermanson |
-| 85 | 319 | Shauna Loe |
+| 84 | 319 | Shauna Loe |
+| 85 | 319 | Deanna L Hermanson |
 | 86 | 311 | Tanya Carpenter-Reynolds |
 | 87 | 310 | Seth Wesson |
 | 88 | 305 | Patrick Luckenbill |
@@ -101,8 +101,8 @@
 | 93 | 298 | Carrie Beck Geartz |
 | 94 | 293 | Adam Byrd |
 | 95 | 292 | Kristen Gideon |
-| 96 | 290 | Death |
-| 97 | 290 | Spunky Piecebuilder |
+| 96 | 290 | Spunky Piecebuilder |
+| 97 | 290 | Death |
 | 98 | 284 | Theo Pinnow |
 | 99 | 282 | Timothy Dew |
 | 100 | 280 | Sarah Roberts |
@@ -129,8 +129,8 @@
 | 121 | 228 | Jenny Gingrich Fuentes |
 | 122 | 226 | Kandae |
 | 123 | 219 | Lexuriuos Lifestlye |
-| 124 | 216 | Shauntina Burke |
-| 125 | 216 | MRdot Rooski |
+| 124 | 216 | MRdot Rooski |
+| 125 | 216 | Shauntina Burke |
 | 126 | 214 | Billie Dawn Sparks |
 | 127 | 212 | Jaimie Lynn |
 | 128 | 211 | Marianita Garcia |
