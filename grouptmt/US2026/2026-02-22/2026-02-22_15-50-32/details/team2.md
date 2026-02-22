@@ -213,8 +213,8 @@
 | 205 | 973 | Kim Dean |
 | 206 | 972 | Juliana Marques Do Nascimento Gordy |
 | 207 | 960 | Jennifer Kistner |
-| 208 | 957 | Block Master |
-| 209 | 957 | Keri Womack |
+| 208 | 957 | Keri Womack |
+| 209 | 957 | Block Master |
 | 210 | 957 | Crystal Hoffman |
 | 211 | 954 | Shannon Joslin |
 | 212 | 951 | Cynthia Ward |
@@ -348,8 +348,8 @@
 | 340 | 668 | Roseanna Peloso |
 | 341 | 666 | Speedy Spinblock |
 | 342 | 665 | Taryece Gause |
-| 343 | 665 | Prette Qui |
-| 344 | 665 | Phil J. Grombliniak |
+| 343 | 665 | Phil J. Grombliniak |
+| 344 | 665 | Prette Qui |
 | 345 | 664 | Sleepypanda67 |
 | 346 | 663 | Mandi Douglas Hilt |
 | 347 | 662 | Melissa Rebbe-Lehman |
@@ -412,8 +412,8 @@
 | 404 | 563 | Irene Jones |
 | 405 | 563 | snkylnk |
 | 406 | 561 | Traci Johnson |
-| 407 | 558 | Libby Hicks |
-| 408 | 558 | Mikayala Szaz |
+| 407 | 558 | Mikayala Szaz |
+| 408 | 558 | Libby Hicks |
 | 409 | 556 | Slip |
 | 410 | 554 | Santana Miyagi |
 | 411 | 554 | Rachael Senard |
@@ -635,8 +635,8 @@
 | 627 | 390 | Frisky Riserbuilder |
 | 628 | 390 | Moist_B-hole |
 | 629 | 389 | Julie Hamilton |
-| 630 | 389 | Swanky Columnbuilder |
-| 631 | 389 | Alexis Richardson |
+| 630 | 389 | Alexis Richardson |
+| 631 | 389 | Swanky Columnbuilder |
 | 632 | 389 | Kayla |
 | 633 | 388 | Connie Jimenez |
 | 634 | 388 | ruth |
@@ -646,7 +646,7 @@
 | 638 | 387 | Bold Brickster |
 | 639 | 385 | Tansaria Couch-Butler |
 | 640 | 384 | Mary Marie |
-| 641 | 384 | Party d |
+| 641 | 384 | Kelly |
 | 642 | 384 | Heather Johnson |
 | 643 | 384 | Party d |
 | 644 | 382 | David Holliday |
@@ -805,8 +805,8 @@
 | 797 | 309 | Byung Bae Park |
 | 798 | 309 | Daniell Martinez |
 | 799 | 308 | Hyper Riseclear |
-| 800 | 308 | Kristina Marie Hanna |
-| 801 | 308 | Claire |
+| 800 | 308 | Claire |
+| 801 | 308 | Kristina Marie Hanna |
 | 802 | 308 | Katie Joy McCombs |
 | 803 | 307 | Brave Gridpiece |
 | 804 | 305 | Narutofreak13 |

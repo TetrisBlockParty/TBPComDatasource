@@ -50,8 +50,8 @@
 | 42 | 823 | Jae Job |
 | 43 | 818 | Marvin Lou Martin |
 | 44 | 798 | BertMofo |
-| 45 | 775 | Rebecca Moulton Pinciaro |
-| 46 | 775 | Dee Kay |
+| 45 | 775 | Dee Kay |
+| 46 | 775 | Rebecca Moulton Pinciaro |
 | 47 | 766 | Robin Watters |
 | 48 | 757 | Ancient Intuition |
 | 49 | 753 | TeeJ |
@@ -143,8 +143,8 @@
 | 135 | 314 | Andy Cabral |
 | 136 | 304 | Guy Incognito |
 | 137 | 303 | Lauren Scott |
-| 138 | 300 | Dana Scott |
-| 139 | 300 | Jason Hart |
+| 138 | 300 | Jason Hart |
+| 139 | 300 | Dana Scott |
 | 140 | 299 | TRCuse |
 | 141 | 298 | Lucas J Sutton |
 | 142 | 295 | Bio Nelly |
@@ -162,8 +162,8 @@
 | 154 | 275 | Dizzy Tiley |
 | 155 | 274 | Calvin Cannon |
 | 156 | 273 | Crystal Nicolette Moore |
-| 157 | 272 | Alan George LaRage |
-| 158 | 272 | Keshia Lyons |
+| 157 | 272 | Keshia Lyons |
+| 158 | 272 | Alan George LaRage |
 | 159 | 271 | Sarah Brown |
 | 160 | 269 | Nikki Rae Gordon |
 | 161 | 268 | Cursed Hag |
@@ -247,11 +247,11 @@
 | 239 | 189 | 030Synner |
 | 240 | 186 | Holly |
 | 241 | 185 | Laura Hosford |
-| 242 | 184 | Lauren Lamb |
-| 243 | 184 | Ak Jones |
+| 242 | 184 | Ak Jones |
+| 243 | 184 | Lauren Lamb |
 | 244 | 183 | JPW |
-| 245 | 181 | Carter Jones |
-| 246 | 181 | Jackie Marie |
+| 245 | 181 | Jackie Marie |
+| 246 | 181 | Carter Jones |
 | 247 | 180 | Orchislactea |
 | 248 | 179 | Stephme310 |
 | 249 | 179 | TinyLegoRose |

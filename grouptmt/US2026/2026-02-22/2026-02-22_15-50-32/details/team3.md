@@ -117,15 +117,15 @@
 | 109 | 568 | Rachael McClain Owens |
 | 110 | 566 | Dolores Falco |
 | 111 | 565 | Patty Allen |
-| 112 | 562 | Louise Stacy Sisson |
-| 113 | 562 | Dave Herzog |
+| 112 | 562 | Dave Herzog |
+| 113 | 562 | Louise Stacy Sisson |
 | 114 | 551 | Kristie |
 | 115 | 549 | Nicole Myers |
 | 116 | 533 | Alaina Lee |
 | 117 | 531 | Mykal Burton |
 | 118 | 526 | Cynthia Castros-Hampton |
-| 119 | 521 | Daryn Elliott |
-| 120 | 521 | Michelle Becker |
+| 119 | 521 | Michelle Becker |
+| 120 | 521 | Daryn Elliott |
 | 121 | 518 | opf |
 | 122 | 514 | joclisa |
 | 123 | 506 | Sashay Tapae Simpson |
@@ -248,8 +248,8 @@
 | 240 | 286 | Cynthia Herrmann Egland |
 | 241 | 284 | Denise Nardoni |
 | 242 | 283 | Cheeky Snapper |
-| 243 | 283 | Eon Harris |
-| 244 | 283 | Sarah Moyer |
+| 243 | 283 | Sarah Moyer |
+| 244 | 283 | Eon Harris |
 | 245 | 282 | Marquita Sheard |
 | 246 | 281 | Carrie Huskey |
 | 247 | 279 | Terry Jo Jones |
@@ -373,10 +373,10 @@
 | 365 | 186 | Sameerah Smith |
 | 366 | 186 | Noettín Kan Zasnemoore |
 | 367 | 186 | Bryan Byrd |
-| 368 | 185 | Frilly Stackzone |
-| 369 | 185 | Angella Lyons |
-| 370 | 184 | Shanon R Jackson |
-| 371 | 184 | Troy |
+| 368 | 185 | Angella Lyons |
+| 369 | 185 | Frilly Stackzone |
+| 370 | 184 | Troy |
+| 371 | 184 | Shanon R Jackson |
 | 372 | 184 | Salena Whitlock |
 | 373 | 183 | Naur |
 | 374 | 182 | Kevin Russell |

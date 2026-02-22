@@ -124,8 +124,8 @@
 | 116 | 341 | David Miller |
 | 117 | 341 | Nick R Montague |
 | 118 | 334 | Jaimie Lynn |
-| 119 | 333 | Brandi Huntington |
-| 120 | 333 | Gracie |
+| 119 | 333 | Gracie |
+| 120 | 333 | Brandi Huntington |
 | 121 | 332 | Kristen Gideon |
 | 122 | 330 | Sweet Baker |
 | 123 | 326 | Monica Donato |
@@ -150,8 +150,8 @@
 | 142 | 292 | David Lutcher |
 | 143 | 288 | GATOR |
 | 144 | 285 | Ananda Mendez |
-| 145 | 284 | Emily Adelaide Wheatley |
-| 146 | 284 | Rachael |
+| 145 | 284 | Rachael |
+| 146 | 284 | Emily Adelaide Wheatley |
 | 147 | 283 | Franswa |
 | 148 | 282 | Tyler Werts |
 | 149 | 282 | Cool Shiftsnap |
@@ -175,8 +175,8 @@
 | 167 | 257 | Shannon Marie Pitts |
 | 168 | 254 | Letson Melissa |
 | 169 | 254 | Al Smith Jr |
-| 170 | 253 | Jamie Jury |
-| 171 | 253 | Witty Builderfit |
+| 170 | 253 | Witty Builderfit |
+| 171 | 253 | Jamie Jury |
 | 172 | 252 | Dena Kayy |
 | 173 | 251 | Giggly Builderline |
 | 174 | 249 | Lakeisha Chapman |
