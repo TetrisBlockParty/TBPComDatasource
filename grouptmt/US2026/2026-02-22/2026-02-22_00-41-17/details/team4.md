@@ -82,8 +82,8 @@
 | 74 | 369 | Nope Young |
 | 75 | 366 | shar |
 | 76 | 359 | Jamie Mann-Deichmann |
-| 77 | 358 | Shane Kalamata Platoon |
-| 78 | 358 | Nugget |
+| 77 | 358 | Nugget |
+| 78 | 358 | Shane Kalamata Platoon |
 | 79 | 345 | Ancient Intuition |
 | 80 | 323 | Robin Getchel |
 | 81 | 318 | Amy Suckarieh |
@@ -145,8 +145,8 @@
 | 137 | 189 | Stacey Stano |
 | 138 | 189 | Calvin Dennis |
 | 139 | 187 | TheNeesh50 |
-| 140 | 185 | Andy Cabral |
-| 141 | 185 | Malakai Darien Fox |
+| 140 | 185 | Malakai Darien Fox |
+| 141 | 185 | Andy Cabral |
 | 142 | 184 | Justin Hannigan |
 | 143 | 181 | Carter Jones |
 | 144 | 181 | Klo |
@@ -199,8 +199,8 @@
 | 191 | 134 | Kristina Black |
 | 192 | 134 | Kim Klutz Olson |
 | 193 | 134 | Jason Allen |
-| 194 | 133 | TinyLegoRose |
-| 195 | 133 | Sam Bishop |
+| 194 | 133 | Sam Bishop |
+| 195 | 133 | TinyLegoRose |
 | 196 | 133 | Angela Geist Jusinski |
 | 197 | 132 | Lauren Lamb |
 | 198 | 132 | Jessica Cagle |
@@ -266,8 +266,8 @@
 | 258 | 106 | Zappy Snaplink |
 | 259 | 106 | Brandi Durig |
 | 260 | 105 | Kim Hunt |
-| 261 | 104 | Cheery Risebuilder |
-| 262 | 104 | mike |
+| 261 | 104 | mike |
+| 262 | 104 | Cheery Risebuilder |
 | 263 | 103 | Richard-April Kice |
 | 264 | 103 | Jasmine S Caldwell |
 | 265 | 102 | Brandon Link |

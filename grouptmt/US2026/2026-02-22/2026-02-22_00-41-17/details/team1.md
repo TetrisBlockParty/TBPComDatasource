@@ -151,9 +151,9 @@
 | 143 | 190 | Sweetts |
 | 144 | 188 | Sam Williams |
 | 145 | 187 | Snippy Wipebuilder |
-| 146 | 186 | Jennifer Olewnik Soborowski |
-| 147 | 186 | Margo Wagner |
-| 148 | 186 | Katie Daniels |
+| 146 | 186 | Margo Wagner |
+| 147 | 186 | Katie Daniels |
+| 148 | 186 | Jennifer Olewnik Soborowski |
 | 149 | 185 | Basment Living |
 | 150 | 183 | Michael |
 | 151 | 180 | Erez Yosef |
@@ -340,8 +340,8 @@
 | 332 | 84 | Christina Torres |
 | 333 | 84 | Carrie Smith |
 | 334 | 84 | Unelanuhi Belladonna Mystikal Bomar |
-| 335 | 83 | Brave Slice |
-| 336 | 83 | Ric Hard Hernandez |
+| 335 | 83 | Ric Hard Hernandez |
+| 336 | 83 | Brave Slice |
 | 337 | 83 | FableGray |
 | 338 | 82 | Tina Englert |
 | 339 | 82 | Frisky Base |

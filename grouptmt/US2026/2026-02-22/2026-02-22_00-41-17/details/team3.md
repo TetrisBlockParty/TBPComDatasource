@@ -75,8 +75,8 @@
 | 67 | 604 | Danielle Becker |
 | 68 | 591 | Suzieq |
 | 69 | 588 | yoyo |
-| 70 | 582 | Katrina Schroeder |
-| 71 | 582 | Natasha Jones |
+| 70 | 582 | Natasha Jones |
+| 71 | 582 | Katrina Schroeder |
 | 72 | 581 | Danielle Mogg |
 | 73 | 580 | Amanda L Baker |
 | 74 | 576 | Dan Rob |
@@ -121,10 +121,10 @@
 | 113 | 394 | joclisa |
 | 114 | 392 | Michelle |
 | 115 | 391 | Calista Jo Dickson |
-| 116 | 390 | Hasty Cascadefit |
-| 117 | 390 | Patti Skiles |
-| 118 | 389 | Jessica Bechler |
-| 119 | 389 | FuzzyNavel |
+| 116 | 390 | Patti Skiles |
+| 117 | 390 | Hasty Cascadefit |
+| 118 | 389 | FuzzyNavel |
+| 119 | 389 | Jessica Bechler |
 | 120 | 386 | Katie Knaus |
 | 121 | 383 | Jesse Olive |
 | 122 | 378 | Tasha Schriewer |
