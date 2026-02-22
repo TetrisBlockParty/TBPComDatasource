@@ -51,8 +51,8 @@
 | 43 | 1015 | Amber Jones |
 | 44 | 998 | Liv Whetson |
 | 45 | 996 | Stephanie Rice |
-| 46 | 989 | Joey Banks |
-| 47 | 989 | Kay |
+| 46 | 989 | Kay |
+| 47 | 989 | Joey Banks |
 | 48 | 983 | Brandon Green |
 | 49 | 956 | Gracie |
 | 50 | 953 | mjl574 |
@@ -127,8 +127,8 @@
 | 119 | 491 | Chauntee Alfrey-Cardinale |
 | 120 | 487 | Alaina Lee |
 | 121 | 482 | Jennifer Lynn Fahrenholtz-Summers |
-| 122 | 480 | Stephanie Blkpep Davidson |
-| 123 | 480 | Christine Filson |
+| 122 | 480 | Christine Filson |
+| 123 | 480 | Stephanie Blkpep Davidson |
 | 124 | 479 | Patti Skiles |
 | 125 | 479 | Poppy Splitter |
 | 126 | 473 | mzcatzy |
@@ -156,8 +156,8 @@
 | 148 | 401 | Katie Knaus |
 | 149 | 400 | Luciana Braganca Vieira |
 | 150 | 399 | Marcie Bressler |
-| 151 | 399 | Jacqueline Rodriguez |
-| 152 | 399 | Mcathen |
+| 151 | 399 | Mcathen |
+| 152 | 399 | Jacqueline Rodriguez |
 | 153 | 397 | Annie Déè |
 | 154 | 393 | Fallorina Susana |
 | 155 | 392 | Tasha Gillespie |
@@ -199,8 +199,8 @@
 | 191 | 311 | Araceli Parra |
 | 192 | 311 | Stephanie Burtin |
 | 193 | 310 | Danielle Balcom |
-| 194 | 308 | Rania Zaqout |
-| 195 | 308 | Daryn Elliott |
+| 194 | 308 | Daryn Elliott |
+| 195 | 308 | Rania Zaqout |
 | 196 | 307 | rnr junky |
 | 197 | 307 | Blocked |
 | 198 | 306 | Noyb Adam |
@@ -209,8 +209,8 @@
 | 201 | 300 | Sherika C. McDaniels |
 | 202 | 298 | MsBee |
 | 203 | 296 | Katrina Turner |
-| 204 | 296 | Brandon Givens |
-| 205 | 296 | Ammmmmmy |
+| 204 | 296 | Ammmmmmy |
+| 205 | 296 | Brandon Givens |
 | 206 | 295 | RickyG |
 | 207 | 295 | Marci Mize Fandrich |
 | 208 | 291 | Kristal C Lee |
@@ -280,13 +280,13 @@
 | 272 | 216 | Cheryl Hinch Tenbrook |
 | 273 | 216 | Twisty Brick LT |
 | 274 | 215 | IamJust Neyamijah Washington Sr. |
-| 275 | 214 | Angela Scott |
-| 276 | 214 | Rebel124 |
-| 277 | 214 | Amy Fuller Heaton |
+| 275 | 214 | Amy Fuller Heaton |
+| 276 | 214 | Angela Scott |
+| 277 | 214 | Rebel124 |
 | 278 | 212 | Desiree Gold |
 | 279 | 212 | Sunny Rotater |
-| 280 | 211 | Velma Mull |
-| 281 | 211 | El Chapa |
+| 280 | 211 | El Chapa |
+| 281 | 211 | Velma Mull |
 | 282 | 211 | Khaleada McGill Banks |
 | 283 | 210 | Lizabeth Fox |
 | 284 | 209 | Micayah Stevens |
@@ -301,8 +301,8 @@
 | 293 | 202 | Staci George Fitzsimmons |
 | 294 | 201 | Hyper Matchzone |
 | 295 | 201 | Alexmac |
-| 296 | 200 | glichmod |
-| 297 | 200 | Sharisse Baltimore |
+| 296 | 200 | Sharisse Baltimore |
+| 297 | 200 | glichmod |
 | 298 | 200 | Saucy Buildout |
 | 299 | 198 | kacihall |
 | 300 | 195 | Nicha Hooker |
@@ -313,8 +313,8 @@
 | 305 | 189 | Katie Leigh Blankenship |
 | 306 | 188 | Loopy Fallmatch |
 | 307 | 186 | Carrie Huskey |
-| 308 | 184 | Troy |
-| 309 | 184 | France Vézina |
+| 308 | 184 | France Vézina |
+| 309 | 184 | Troy |
 | 310 | 184 | Stephanie Hill |
 | 311 | 183 | Cesar Barraza |
 | 312 | 182 | Melanie Sherwood |
@@ -340,8 +340,8 @@
 | 332 | 168 | Trice Thomas |
 | 333 | 168 | April Matthew Kibble |
 | 334 | 167 | Shicken Nuggit |
-| 335 | 167 | Romeo |
-| 336 | 167 | Irene Arreguin |
+| 335 | 167 | Irene Arreguin |
+| 336 | 167 | Romeo |
 | 337 | 166 | Noettín Kan Zasnemoore |
 | 338 | 166 | Snarky McFace |
 | 339 | 165 | Rainbow77375 |
@@ -409,13 +409,13 @@
 | 401 | 139 | MizzMonick Smith |
 | 402 | 139 | Paula Little |
 | 403 | 138 | Becca Engle |
-| 404 | 138 | Skinny Baldez |
-| 405 | 138 | Bleu Sun Beams |
+| 404 | 138 | Bleu Sun Beams |
+| 405 | 138 | Skinny Baldez |
 | 406 | 137 | Giggly Brickroll |
 | 407 | 137 | Reina Roth |
 | 408 | 137 | Arden White Kirsch |
-| 409 | 136 | Sabrina Mansfield |
-| 410 | 136 | Crystal Hine |
+| 409 | 136 | Crystal Hine |
+| 410 | 136 | Sabrina Mansfield |
 | 411 | 135 | Morgan Cudo |
 | 412 | 134 | Maia |
 | 413 | 134 | gremicx |
@@ -441,8 +441,8 @@
 | 433 | 126 | Crystal Martin |
 | 434 | 126 | Spicy Caster |
 | 435 | 126 | Tipsy Puzzle |
-| 436 | 125 | Felicia Doxey |
-| 437 | 125 | BugMansMom |
+| 436 | 125 | BugMansMom |
+| 437 | 125 | Felicia Doxey |
 | 438 | 125 | Shimika Enay Wallace |
 | 439 | 124 | victory |
 | 440 | 124 | xsiv |

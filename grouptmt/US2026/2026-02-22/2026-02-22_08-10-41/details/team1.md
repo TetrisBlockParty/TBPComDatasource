@@ -86,8 +86,8 @@
 | 78 | 400 | Cynthia Bradley |
 | 79 | 390 | Candy Jones |
 | 80 | 389 | Trina Gee |
-| 81 | 388 | cc |
-| 82 | 388 | Jennifer ManWarren |
+| 81 | 388 | Jennifer ManWarren |
+| 82 | 388 | cc |
 | 83 | 383 | Loony Fitzone |
 | 84 | 382 | Jacqueline Williams |
 | 85 | 379 | Austin James |
@@ -113,8 +113,8 @@
 | 105 | 326 | Monica Donato |
 | 106 | 323 | Shauna Loe |
 | 107 | 321 | Maria C. Hernandez |
-| 108 | 319 | Patrick Luckenbill |
-| 109 | 319 | Deanna L Hermanson |
+| 108 | 319 | Deanna L Hermanson |
+| 109 | 319 | Patrick Luckenbill |
 | 110 | 313 | Tanya Carpenter-Reynolds |
 | 111 | 311 | Lori Bales |
 | 112 | 310 | phrmblk24 |
@@ -160,8 +160,8 @@
 | 152 | 239 | Jamie Jury |
 | 153 | 236 | Mandyy Rae |
 | 154 | 232 | Jessi Sauer |
-| 155 | 230 | Billie Dawn Sparks |
-| 156 | 230 | Frothy Pattern |
+| 155 | 230 | Frothy Pattern |
+| 156 | 230 | Billie Dawn Sparks |
 | 157 | 229 | David Lutcher |
 | 158 | 226 | Kandae |
 | 159 | 226 | Sleepysloath5745 |

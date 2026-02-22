@@ -48,8 +48,8 @@
 | 40 | 757 | Ancient Intuition |
 | 41 | 736 | Goatimus Lombardi |
 | 42 | 734 | BertMofo |
-| 43 | 707 | Clarence Patawaran |
-| 44 | 707 | Rachel Anne |
+| 43 | 707 | Rachel Anne |
+| 44 | 707 | Clarence Patawaran |
 | 45 | 704 | Crystal Carroll |
 | 46 | 697 | Edward White |
 | 47 | 695 | LisaJo Picken Buchanan |
@@ -133,8 +133,8 @@
 | 125 | 286 | Daria Rycewicz |
 | 126 | 283 | Brittney Orengo |
 | 127 | 281 | Meagan Nicole |
-| 128 | 278 | Carrie Brian |
-| 129 | 278 | Desi Desporte |
+| 128 | 278 | Desi Desporte |
+| 129 | 278 | Carrie Brian |
 | 130 | 277 | Scott Jameson |
 | 131 | 277 | Mary Ann Pabukis |
 | 132 | 275 | Dizzy Tiley |

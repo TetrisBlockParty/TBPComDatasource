@@ -200,8 +200,8 @@
 | 192 | 921 | Morgue Chick |
 | 193 | 916 | Butta |
 | 194 | 915 | Kelly Trent |
-| 195 | 910 | Crystal Hoffman |
-| 196 | 910 | Shuany Arias |
+| 195 | 910 | Shuany Arias |
+| 196 | 910 | Crystal Hoffman |
 | 197 | 907 | Gene Mills |
 | 198 | 901 | Jennifer Peachey |
 | 199 | 899 | Isaac Trappiel IV |
@@ -371,13 +371,13 @@
 | 363 | 541 | g |
 | 364 | 538 | Eric Castaneda |
 | 365 | 537 | Cherica Taylor |
-| 366 | 535 | Jessie McDougald |
-| 367 | 535 | Paul Huber |
+| 366 | 535 | Paul Huber |
+| 367 | 535 | Jessie McDougald |
 | 368 | 533 | Gauri Shrotriya |
 | 369 | 531 | Dizzy Zone |
 | 370 | 527 | Ryan Gunther |
-| 371 | 527 | Heather Causey |
-| 372 | 527 | Julie Kresal |
+| 371 | 527 | Julie Kresal |
+| 372 | 527 | Heather Causey |
 | 373 | 526 | Emily Lyric Converse |
 | 374 | 526 | Sheronda Jackson |
 | 375 | 525 | AISlop |
@@ -385,8 +385,8 @@
 | 377 | 524 | Jojo Momma |
 | 378 | 524 | Shaun Church |
 | 379 | 523 | Matt Johnson |
-| 380 | 522 | Joseph Musick |
-| 381 | 522 | Lylymom |
+| 380 | 522 | Lylymom |
+| 381 | 522 | Joseph Musick |
 | 382 | 521 | Tj Ball |
 | 383 | 520 | Angela Lynn |
 | 384 | 520 | Maddy Petersen |
@@ -547,8 +547,8 @@
 | 539 | 394 | Taryece Gause |
 | 540 | 393 | Alexandra Weir |
 | 541 | 393 | Arlene Joy Belicina |
-| 542 | 393 | bbv |
-| 543 | 393 | Jamie West |
+| 542 | 393 | Jamie West |
+| 543 | 393 | bbv |
 | 544 | 393 | Deyawn Smith |
 | 545 | 391 | Chilly Bridgepiece |
 | 546 | 391 | Adam Simmons |
@@ -693,8 +693,8 @@
 | 685 | 320 | Mary Boss |
 | 686 | 319 | RetroLemur |
 | 687 | 318 | Jennifer Mahon |
-| 688 | 317 | Ashlyn Berner |
-| 689 | 317 | Zombi3 |
+| 688 | 317 | Zombi3 |
+| 689 | 317 | Ashlyn Berner |
 | 690 | 317 | Aireka Roman |
 | 691 | 316 | Jenn Marie |
 | 692 | 316 | Epic Spinfit |
@@ -741,13 +741,13 @@
 | 733 | 298 | Frilly Fallzone |
 | 734 | 298 | Ryan Stadel |
 | 735 | 298 | Lazy Riseclear |
-| 736 | 297 | Toni Lynn |
-| 737 | 297 | Frisky Patternline |
+| 736 | 297 | Frisky Patternline |
+| 737 | 297 | Toni Lynn |
 | 738 | 297 | Ashley Robbins |
 | 739 | 297 | Britney M. |
 | 740 | 296 | Frisky Riserbuilder |
-| 741 | 296 | Epic Fitzone |
-| 742 | 296 | Zappy Dropmatch |
+| 741 | 296 | Zappy Dropmatch |
+| 742 | 296 | Epic Fitzone |
 | 743 | 296 | Jennifer Darby |
 | 744 | 295 | Noel Tarmy |
 | 745 | 294 | Amanda Edwards |
