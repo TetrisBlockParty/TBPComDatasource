@@ -128,8 +128,8 @@
 | 120 | 366 | David Miller |
 | 121 | 364 | Shauna Loe |
 | 122 | 362 | Plucky Ziggy |
-| 123 | 360 | Wisa |
-| 124 | 360 | phrmblk24 |
+| 123 | 360 | phrmblk24 |
+| 124 | 360 | Wisa |
 | 125 | 359 | Chirpy Smasher |
 | 126 | 358 | Sweet Baker |
 | 127 | 357 | Amanda Johnson Huffman |
@@ -209,8 +209,8 @@
 | 201 | 240 | DaRascal |
 | 202 | 239 | Lacy Wolfe |
 | 203 | 239 | Sam Williams |
-| 204 | 238 | Tiffany Smith |
-| 205 | 238 | Jerry Danowski |
+| 204 | 238 | Jerry Danowski |
+| 205 | 238 | Tiffany Smith |
 | 206 | 237 | Veronica Eve |
 | 207 | 236 | femmefatale |
 | 208 | 235 | MRdot Rooski |
@@ -218,12 +218,12 @@
 | 210 | 234 | Paula Martin |
 | 211 | 233 | LC |
 | 212 | 230 | BigWeenie69 |
-| 213 | 228 | Cheeky Pop |
-| 214 | 228 | Giddy Cascade |
+| 213 | 228 | Giddy Cascade |
+| 214 | 228 | Cheeky Pop |
 | 215 | 227 | Cody Gates |
 | 216 | 226 | Michael |
-| 217 | 225 | Bindi |
-| 218 | 225 | Jessie Lynn |
+| 217 | 225 | Jessie Lynn |
+| 218 | 225 | Bindi |
 | 219 | 224 | ParisandCory Champagne |
 | 220 | 223 | Shiny Gridmatch |
 | 221 | 223 | Basment Living |
@@ -247,11 +247,11 @@
 | 239 | 211 | Erin Rosberg |
 | 240 | 211 | Sarah Somers Gray |
 | 241 | 210 | Jessie Welch |
-| 242 | 209 | Jeanna Dunn |
-| 243 | 209 | Cece Ibarra |
-| 244 | 208 | Snappy Matcher |
-| 245 | 208 | Bouncy Grid |
-| 246 | 208 | Donna Addison Williams |
+| 242 | 209 | Cece Ibarra |
+| 243 | 209 | Jeanna Dunn |
+| 244 | 208 | Bouncy Grid |
+| 245 | 208 | Donna Addison Williams |
+| 246 | 208 | Snappy Matcher |
 | 247 | 208 | Michelle Beres |
 | 248 | 207 | Brenda Alexander |
 | 249 | 207 | Leslie Bush Yarbrough |

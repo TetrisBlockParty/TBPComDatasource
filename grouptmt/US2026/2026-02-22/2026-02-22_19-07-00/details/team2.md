@@ -306,8 +306,8 @@
 | 298 | 797 | Offonar Facey |
 | 299 | 797 | Osun Anuket Esu |
 | 300 | 796 | Angie Bolton Workman |
-| 301 | 787 | Laura McCarthey |
-| 302 | 787 | Dee |
+| 301 | 787 | Dee |
+| 302 | 787 | Laura McCarthey |
 | 303 | 783 | Lisa Ongtowasruk |
 | 304 | 781 | Hong Tang |
 | 305 | 777 | Jessicah Myers |
@@ -392,8 +392,8 @@
 | 384 | 643 | Hoppy Brickmatch |
 | 385 | 642 | Cassie Maynard |
 | 386 | 641 | Vonceial Boone |
-| 387 | 640 | BYM4L |
-| 388 | 640 | Crystie Hicks |
+| 387 | 640 | Crystie Hicks |
+| 388 | 640 | BYM4L |
 | 389 | 640 | Gary Stash |
 | 390 | 639 | Rebecca Miller |
 | 391 | 638 | Allan Wayne Lamia |

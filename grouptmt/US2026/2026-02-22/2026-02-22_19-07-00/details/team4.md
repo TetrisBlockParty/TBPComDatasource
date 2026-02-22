@@ -159,8 +159,8 @@
 | 151 | 300 | Dana Scott |
 | 152 | 300 | Jason Hart |
 | 153 | 299 | TRCuse |
-| 154 | 294 | Calvin Cannon |
-| 155 | 294 | Kesha Brady |
+| 154 | 294 | Kesha Brady |
+| 155 | 294 | Calvin Cannon |
 | 156 | 292 | Cursed Hag |
 | 157 | 292 | Rafael Valentin |
 | 158 | 291 | shark tato |
@@ -269,8 +269,8 @@
 | 261 | 189 | Shainne Brewer |
 | 262 | 189 | 030Synner |
 | 263 | 188 | A5! |
-| 264 | 185 | Laura Hosford |
-| 265 | 185 | Morti |
+| 264 | 185 | Morti |
+| 265 | 185 | Laura Hosford |
 | 266 | 184 | Lauren Lamb |
 | 267 | 183 | Nubian1 |
 | 268 | 183 | Twisty Risebuilder |
@@ -293,13 +293,13 @@
 | 285 | 166 | KimoKoala |
 | 286 | 166 | Megan Cutshaw |
 | 287 | 165 | Brittany Marsh |
-| 288 | 165 | Zappy Buildgrid |
-| 289 | 165 | Amanda Christine |
+| 288 | 165 | Amanda Christine |
+| 289 | 165 | Zappy Buildgrid |
 | 290 | 164 | Marvetta Williams |
 | 291 | 163 | Joseph Edmonson |
 | 292 | 163 | Ellen Durfee |
-| 293 | 162 | Gwendolyn Pitcairn |
-| 294 | 162 | Victoria Faniel |
+| 293 | 162 | Victoria Faniel |
+| 294 | 162 | Gwendolyn Pitcairn |
 | 295 | 162 | conceptCollector |
 | 296 | 161 | Tanner Lund |
 | 297 | 160 | wombat |
@@ -320,8 +320,8 @@
 | 312 | 154 | Circuit8 |
 | 313 | 154 | Chummy Towerzone |
 | 314 | 153 | Empress Oasis |
-| 315 | 152 | Jared Gutwein |
-| 316 | 152 | Vanessa Smart |
+| 315 | 152 | Vanessa Smart |
+| 316 | 152 | Jared Gutwein |
 | 317 | 152 | Faja |
 | 318 | 151 | Joseph Pace |
 | 319 | 151 | Nick Gray |
@@ -508,11 +508,11 @@
 | 500 | 100 | April Spoelma |
 | 501 | 100 | Tianna Frey |
 | 502 | 100 | Marcus TheeyoungWoe Gilmore |
-| 503 | 99 | Heather Layne Smith |
+| 503 | 99 | Jacob Campbell |
 | 504 | 99 | Dapper Frame |
-| 505 | 99 | Jacob Campbell |
-| 506 | 99 | Caitlyn Brown |
-| 507 | 99 | Dapper Caster |
+| 505 | 99 | Heather Layne Smith |
+| 506 | 99 | Dapper Caster |
+| 507 | 99 | Caitlyn Brown |
 | 508 | 98 | Carla Harris |
 | 509 | 98 | Brenda Bird |
 | 510 | 97 | Serena Butter |
@@ -528,7 +528,7 @@
 | 520 | 96 | Nicole McMurray |
 | 521 | 95 | RedBoots82 |
 | 522 | 95 | Chirpy Slammer |
-| 523 | 95 | RedBoots82 |
+| 523 | 95 | Tina Lopez |
 | 524 | 95 | Tamika Starkey |
 | 525 | 94 | Adawna Swires |
 | 526 | 94 | Norman Klick |
