@@ -62,8 +62,8 @@
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Dustee Craddock-Harrison |
-| 58 | 636 | Kimyatta Cavin |
+| 57 | 636 | Kimyatta Cavin |
+| 58 | 636 | Dustee Craddock-Harrison |
 | 59 | 623 | Robin Getchel |
 | 60 | 599 | Brittney Griggs |
 | 61 | 593 | Lisa Davis |
@@ -80,8 +80,8 @@
 | 72 | 512 | Casey Jeffcoat |
 | 73 | 511 | Michelle Marie |
 | 74 | 500 | Rodney McMath Jr. |
-| 75 | 486 | Landon Keith Graffeo |
-| 76 | 486 | Carmethia Clemons Haslerig |
+| 75 | 486 | Carmethia Clemons Haslerig |
+| 76 | 486 | Landon Keith Graffeo |
 | 77 | 483 | TeeJ |
 | 78 | 467 | Dawn Alexander |
 | 79 | 452 | Chris Baggett |
@@ -130,8 +130,8 @@
 | 122 | 294 | Kesha Brady |
 | 123 | 290 | 🥔🥔 Spudz |
 | 124 | 287 | Shannon Ferrari |
-| 125 | 286 | Daria Rycewicz |
-| 126 | 286 | shark tato |
+| 125 | 286 | shark tato |
+| 126 | 286 | Daria Rycewicz |
 | 127 | 283 | Brittney Orengo |
 | 128 | 281 | Meagan Nicole |
 | 129 | 278 | Carrie Brian |
@@ -431,9 +431,9 @@
 | 423 | 89 | Susan Williams |
 | 424 | 88 | Jesus Garcia |
 | 425 | 88 | Andrew Dang |
-| 426 | 88 | Renee Marshall |
-| 427 | 88 | Michelle Parker |
-| 428 | 88 | Chris Hartig |
+| 426 | 88 | Chris Hartig |
+| 427 | 88 | Renee Marshall |
+| 428 | 88 | Michelle Parker |
 | 429 | 87 | Martha Lucinda Bishop |
 | 430 | 86 | Darrin Rubalcava |
 | 431 | 86 | amy |

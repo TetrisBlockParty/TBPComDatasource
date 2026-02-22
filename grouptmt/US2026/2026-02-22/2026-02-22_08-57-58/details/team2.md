@@ -63,8 +63,8 @@
 | 55 | 2344 | Melinda Brown |
 | 56 | 2333 | Crystalin Heath Lewis |
 | 57 | 2298 | Brent Bittenbender |
-| 58 | 2280 | Robert Diddle |
-| 59 | 2280 | Ramone Armstrong |
+| 58 | 2280 | Ramone Armstrong |
+| 59 | 2280 | Robert Diddle |
 | 60 | 2151 | Kelly Crook |
 | 61 | 2137 | KellyDyan |
 | 62 | 2131 | RdRydnHd |
@@ -657,8 +657,8 @@
 | 649 | 345 | Gina Caulder |
 | 650 | 345 | Frisky Clearpiece |
 | 651 | 345 | Rhianna DiLorenzo |
-| 652 | 344 | Glenn Cobbins |
-| 653 | 344 | Tra Barnum |
+| 652 | 344 | Tra Barnum |
+| 653 | 344 | Glenn Cobbins |
 | 654 | 343 | Cris cris |
 | 655 | 341 | Daniel Amos |
 | 656 | 341 | Shorty |
@@ -896,14 +896,14 @@
 | 888 | 251 | Bold Clusterfit |
 | 889 | 250 | Kay Stevenson |
 | 890 | 250 | Drew Berkelbach |
-| 891 | 249 | Kamilya Rembert |
-| 892 | 249 | Timothy Jesuwole |
-| 893 | 249 | Joshua Mullings |
+| 891 | 249 | Joshua Mullings |
+| 892 | 249 | Kamilya Rembert |
+| 893 | 249 | Timothy Jesuwole |
 | 894 | 249 | J.L. Roberts |
 | 895 | 249 | Angela Yantz |
 | 896 | 248 | Jaybee Nguyen |
-| 897 | 248 | Loopy Brickmatch |
-| 898 | 248 | CleverAngel |
+| 897 | 248 | CleverAngel |
+| 898 | 248 | Loopy Brickmatch |
 | 899 | 248 | Angelina Marie |
 | 900 | 247 | Karyn Yurcho Dooley |
 | 901 | 247 | Wizz |

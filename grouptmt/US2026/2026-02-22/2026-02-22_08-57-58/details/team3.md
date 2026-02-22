@@ -234,8 +234,8 @@
 | 226 | 275 | Cassandra Bryant |
 | 227 | 274 | Tye Stovall |
 | 228 | 272 | Dee Franklin |
-| 229 | 271 | Cass Mendoza |
-| 230 | 271 | Ashley Muncey |
+| 229 | 271 | Ashley Muncey |
+| 230 | 271 | Cass Mendoza |
 | 231 | 269 | Trisha Balmer |
 | 232 | 267 | Terry Jo Jones |
 | 233 | 265 | Sarah Moyer |
@@ -243,9 +243,9 @@
 | 235 | 263 | Brittany |
 | 236 | 263 | Angeline Joseph |
 | 237 | 262 | Joe-Maggie Mathews |
-| 238 | 261 | Tiffany Ford |
+| 238 | 261 | Tasha Wesson-Torrence |
 | 239 | 261 | Marquita Sheard |
-| 240 | 261 | Tasha Wesson-Torrence |
+| 240 | 261 | Tiffany Ford |
 | 241 | 260 | Grams |
 | 242 | 259 | Danielle Weikel |
 | 243 | 258 | Tamara Deherrera |
@@ -370,8 +370,8 @@
 | 362 | 161 | Michael Johnson |
 | 363 | 161 | Julia Nicole |
 | 364 | 161 | Bouncy Blockbuilder |
-| 365 | 159 | Salena Whitlock |
-| 366 | 159 | Joshua David Huie |
+| 365 | 159 | Joshua David Huie |
+| 366 | 159 | Salena Whitlock |
 | 367 | 158 | Willow |
 | 368 | 157 | Katrina E Jelks |
 | 369 | 157 | Angel Mendez |
@@ -384,8 +384,8 @@
 | 376 | 153 | Lys |
 | 377 | 153 | Tony Waters |
 | 378 | 152 | Goofy Fall |
-| 379 | 152 | Shiny Zonebuilder |
-| 380 | 152 | Eric Caccavale |
+| 379 | 152 | Eric Caccavale |
+| 380 | 152 | Shiny Zonebuilder |
 | 381 | 151 | Sarah Cowan Burgos |
 | 382 | 150 | Sassy Brickmatch |
 | 383 | 149 | Wacky Crasher |
@@ -400,13 +400,13 @@
 | 392 | 147 | Funky Jumper |
 | 393 | 147 | Erika Thornton |
 | 394 | 147 | sofaking |
-| 395 | 146 | ROODBOY |
+| 395 | 146 | Sara Dunn |
 | 396 | 146 | Wettnippz |
-| 397 | 146 | Sara Dunn |
+| 397 | 146 | ROODBOY |
 | 398 | 146 | Sdot |
 | 399 | 146 | MizzMonick Smith |
-| 400 | 144 | Tenisha Semidey |
-| 401 | 144 | Blair Erin Waite |
+| 400 | 144 | Blair Erin Waite |
+| 401 | 144 | Tenisha Semidey |
 | 402 | 142 | Gray Hicks |
 | 403 | 142 | Erica Anderson |
 | 404 | 142 | Joy Petroski |
@@ -425,8 +425,8 @@
 | 417 | 137 | Reina Roth |
 | 418 | 137 | Giggly Brickroll |
 | 419 | 137 | Arden White Kirsch |
-| 420 | 136 | Crystal Hine |
-| 421 | 136 | Sabrina Mansfield |
+| 420 | 136 | Sabrina Mansfield |
+| 421 | 136 | Crystal Hine |
 | 422 | 135 | Morgan Cudo |
 | 423 | 134 | Sharon Dudley Lawson |
 | 424 | 134 | Maia |

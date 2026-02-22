@@ -172,16 +172,16 @@
 | 164 | 224 | Dizzy Party |
 | 165 | 218 | LC |
 | 166 | 217 | ParisandCory Champagne |
-| 167 | 216 | MRdot Rooski |
-| 168 | 216 | Shauntina Burke |
+| 167 | 216 | Shauntina Burke |
+| 168 | 216 | MRdot Rooski |
 | 169 | 215 | Sam Williams |
 | 170 | 214 | Chirpy Smasher |
 | 171 | 213 | Daring Fitclear |
 | 172 | 212 | Jaimie Lynn |
-| 173 | 211 | Kimberly Garcia |
-| 174 | 211 | Marianita Garcia |
-| 175 | 210 | Letson Melissa |
-| 176 | 210 | Giggly Builderline |
+| 173 | 211 | Marianita Garcia |
+| 174 | 211 | Kimberly Garcia |
+| 175 | 210 | Giggly Builderline |
+| 176 | 210 | Letson Melissa |
 | 177 | 209 | Debbie Davis |
 | 178 | 208 | Donna Addison Williams |
 | 179 | 208 | Bouncy Grid |
@@ -192,8 +192,8 @@
 | 184 | 205 | Tater |
 | 185 | 205 | Snappy Matcher |
 | 186 | 204 | Lacy Wolfe |
-| 187 | 203 | Paula Martin |
-| 188 | 203 | LaFontaine Leslie |
+| 187 | 203 | LaFontaine Leslie |
+| 188 | 203 | Paula Martin |
 | 189 | 201 | Colleen Wise |
 | 190 | 200 | DaRascal |
 | 191 | 200 | Breanna Luna |
