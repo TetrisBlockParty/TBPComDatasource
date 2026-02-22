@@ -184,8 +184,8 @@
 | 176 | 217 | ParisandCory Champagne |
 | 177 | 217 | Kimberly Garcia |
 | 178 | 216 | Shauntina Burke |
-| 179 | 215 | Sam Williams |
-| 180 | 215 | Shaykmia |
+| 179 | 215 | Shaykmia |
+| 180 | 215 | Sam Williams |
 | 181 | 213 | Daring Fitclear |
 | 182 | 212 | Jaimie Lynn |
 | 183 | 211 | Marianita Garcia |
@@ -231,7 +231,7 @@
 | 223 | 187 | Jessica Weed |
 | 224 | 186 | Margo Wagner |
 | 225 | 184 | Chris Sigurdson |
-| 226 | 183 | Cece Ibarra |
+| 226 | 183 | Amy Hess |
 | 227 | 183 | Andrew Boone |
 | 228 | 183 | Cece Ibarra |
 | 229 | 182 | Phu ckalldems |
@@ -243,9 +243,9 @@
 | 235 | 179 | Erin Rosberg |
 | 236 | 178 | Chad Atchley |
 | 237 | 177 | Herm Junior |
-| 238 | 177 | Perky Shiftsnap |
+| 238 | 177 | Irual Hctrab |
 | 239 | 177 | Sarah Marie |
-| 240 | 177 | Irual Hctrab |
+| 240 | 177 | Perky Shiftsnap |
 | 241 | 177 | Jacqueline Unique |
 | 242 | 176 | Mel Hogan |
 | 243 | 176 | Tiger Lily |

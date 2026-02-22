@@ -214,8 +214,8 @@
 | 206 | 919 | Isaac Trappiel IV |
 | 207 | 916 | Butta |
 | 208 | 915 | Kelly Trent |
-| 209 | 910 | Crystal Hoffman |
-| 210 | 910 | Shuany Arias |
+| 209 | 910 | Shuany Arias |
+| 210 | 910 | Crystal Hoffman |
 | 211 | 907 | Gene Mills |
 | 212 | 901 | Jennifer Peachey |
 | 213 | 894 | Auntie B |
@@ -502,8 +502,8 @@
 | 494 | 454 | Casey Schumacher |
 | 495 | 453 | Joshua Sommerville |
 | 496 | 453 | Rhonda Petro |
-| 497 | 452 | Sarah Berger |
-| 498 | 452 | Aimee Campbell |
+| 497 | 452 | Aimee Campbell |
+| 498 | 452 | Sarah Berger |
 | 499 | 451 | Funky Caster |
 | 500 | 450 | Cheery Matchzone |
 | 501 | 449 | Andrea Maher |
@@ -712,15 +712,15 @@
 | 704 | 325 | James Smith |
 | 705 | 325 | Justin Hines |
 | 706 | 325 | Mike73 |
-| 707 | 324 | Tasia Stinson |
-| 708 | 324 | Dale Haanpaa |
+| 707 | 324 | Dale Haanpaa |
+| 708 | 324 | Tasia Stinson |
 | 709 | 323 | Briana Alexander |
 | 710 | 322 | Lea Stewart |
 | 711 | 322 | Michelle Pike |
 | 712 | 322 | Christina Jarvis-Swarbrick |
 | 713 | 321 | Samantha Scibelli |
-| 714 | 321 | Tamara Bailey |
-| 715 | 321 | Ashley Criner |
+| 714 | 321 | Ashley Criner |
+| 715 | 321 | Tamara Bailey |
 | 716 | 320 | Tash Bell |
 | 717 | 320 | Mary Boss |
 | 718 | 319 | Prado |
@@ -781,8 +781,8 @@
 | 773 | 296 | Zappy Dropmatch |
 | 774 | 296 | Frisky Riserbuilder |
 | 775 | 295 | Noel Tarmy |
-| 776 | 294 | Amanda Edwards |
-| 777 | 294 | Sveta Lana |
+| 776 | 294 | Sveta Lana |
+| 777 | 294 | Amanda Edwards |
 | 778 | 293 | Ann Marie Davis |
 | 779 | 292 | Bryan Werleman |
 | 780 | 292 | Deana |
@@ -791,8 +791,8 @@
 | 783 | 291 | Bella Novia |
 | 784 | 291 | Jennie Lee Huntley |
 | 785 | 291 | Brave Gridpiece |
-| 786 | 289 | Min |
-| 787 | 289 | August Hale |
+| 786 | 289 | August Hale |
+| 787 | 289 | Min |
 | 788 | 289 | Ryan Chan |
 | 789 | 288 | thranduil |
 | 790 | 288 | Samantha Angelo |
@@ -1107,8 +1107,8 @@
 | 1099 | 210 | Cappin You |
 | 1100 | 210 | Janet Marie Vega |
 | 1101 | 210 | Nicolee Hackney |
-| 1102 | 209 | Tina Wright-Quigley |
-| 1103 | 209 | John Quiring |
+| 1102 | 209 | John Quiring |
+| 1103 | 209 | Tina Wright-Quigley |
 | 1104 | 209 | Tina Blessed Cage |
 | 1105 | 209 | D5wag2014 |
 | 1106 | 208 | Alyssa Dean |

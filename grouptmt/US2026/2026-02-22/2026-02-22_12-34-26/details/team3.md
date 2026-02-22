@@ -103,8 +103,8 @@
 | 95 | 595 | Patricia White |
 | 96 | 591 | Jesse Olive |
 | 97 | 588 | yoyo |
-| 98 | 582 | Jay Horn |
-| 99 | 582 | Natasha Jones |
+| 98 | 582 | Natasha Jones |
+| 99 | 582 | Jay Horn |
 | 100 | 581 | Danielle Mogg |
 | 101 | 579 | Jd Morris |
 | 102 | 577 | Giddy Drop |
@@ -257,8 +257,8 @@
 | 249 | 260 | Grams |
 | 250 | 259 | Danielle Weikel |
 | 251 | 257 | Ashley Jones |
-| 252 | 256 | Tiffany Davie |
-| 253 | 256 | KayB |
+| 252 | 256 | KayB |
+| 253 | 256 | Tiffany Davie |
 | 254 | 252 | Roary Danner |
 | 255 | 251 | Nikki Pags |
 | 256 | 250 | fraulila |
@@ -271,16 +271,16 @@
 | 263 | 240 | Jimmie Clemons |
 | 264 | 238 | LaTanya GeminiondaRise Johnson |
 | 265 | 236 | Jess Bissett |
-| 266 | 235 | Brenda Schmid Wood |
-| 267 | 235 | Cozy Snaplink |
+| 266 | 235 | Cozy Snaplink |
+| 267 | 235 | Brenda Schmid Wood |
 | 268 | 234 | Connie Mohler-Fair |
-| 269 | 233 | Ray Lader |
-| 270 | 233 | Josh Borquez |
+| 269 | 233 | Josh Borquez |
+| 270 | 233 | Ray Lader |
 | 271 | 232 | Donna |
 | 272 | 227 | Krystal Gerstberger |
 | 273 | 227 | Meowsa |
-| 274 | 225 | Stephanie Hill |
-| 275 | 225 | Dirtgirl27 |
+| 274 | 225 | Dirtgirl27 |
+| 275 | 225 | Stephanie Hill |
 | 276 | 225 | Steffi Chris Dacones |
 | 277 | 224 | Quirky Dropzone |
 | 278 | 221 | Vaners |
@@ -292,8 +292,8 @@
 | 284 | 216 | Twisty Brick LT |
 | 285 | 216 | Cheryl Hinch Tenbrook |
 | 286 | 215 | IamJust Neyamijah Washington Sr. |
-| 287 | 214 | Amy Fuller Heaton |
-| 288 | 214 | Angela Scott |
+| 287 | 214 | Angela Scott |
+| 288 | 214 | Amy Fuller Heaton |
 | 289 | 214 | Rebel124 |
 | 290 | 213 | Nicholas Roddy |
 | 291 | 212 | Sunny Rotater |
@@ -426,8 +426,8 @@
 | 418 | 147 | Megan Rathmanner |
 | 419 | 147 | Funky Jumper |
 | 420 | 146 | Sdot |
-| 421 | 146 | Wettnippz |
-| 422 | 146 | Sara Dunn |
+| 421 | 146 | Sara Dunn |
+| 422 | 146 | Wettnippz |
 | 423 | 144 | Tenisha Semidey |
 | 424 | 144 | Blair Erin Waite |
 | 425 | 144 | Crystal Hine |
