@@ -180,8 +180,8 @@
 | 172 | 317 | Ashley Tookes |
 | 173 | 311 | Raya |
 | 174 | 308 | Rania Zaqout |
-| 175 | 307 | rnr junky |
-| 176 | 307 | Blocked |
+| 175 | 307 | Blocked |
+| 176 | 307 | rnr junky |
 | 177 | 300 | Sherika C. McDaniels |
 | 178 | 298 | MsBee |
 | 179 | 296 | Araceli Parra |
