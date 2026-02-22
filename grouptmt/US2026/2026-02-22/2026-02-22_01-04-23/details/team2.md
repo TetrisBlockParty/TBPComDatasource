@@ -744,11 +744,11 @@
 | 736 | 223 | Laura Wyatt |
 | 737 | 223 | Michele Moren |
 | 738 | 220 | Wacky Cascade |
-| 739 | 219 | Abby Klaski |
-| 740 | 219 | Eileen Hale |
-| 741 | 219 | Trista Carter |
-| 742 | 219 | Cathy Bitters |
-| 743 | 219 | Chummy Breaker |
+| 739 | 219 | Eileen Hale |
+| 740 | 219 | Abby Klaski |
+| 741 | 219 | Cathy Bitters |
+| 742 | 219 | Chummy Breaker |
+| 743 | 219 | Trista Carter |
 | 744 | 219 | Beverly Hodge |
 | 745 | 218 | Shylee Tilman |
 | 746 | 218 | Greenshades00 |

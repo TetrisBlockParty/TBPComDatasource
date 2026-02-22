@@ -121,8 +121,8 @@
 | 113 | 225 | Damn Libra |
 | 114 | 222 | Joeliecea Cobb |
 | 115 | 221 | Alyssa Papen |
-| 116 | 218 | Antony Dwayne Beasley |
-| 117 | 218 | Casey Grabner |
+| 116 | 218 | Casey Grabner |
+| 117 | 218 | Antony Dwayne Beasley |
 | 118 | 217 | Chaz Duncan |
 | 119 | 213 | loulou |
 | 120 | 212 | Mike Solo |
@@ -173,8 +173,8 @@
 | 165 | 155 | AyeKay |
 | 166 | 154 | scott |
 | 167 | 153 | Chair |
-| 168 | 153 | Empress Oasis |
-| 169 | 153 | Avy Absol |
+| 168 | 153 | Avy Absol |
+| 169 | 153 | Empress Oasis |
 | 170 | 151 | Bethany Ison |
 | 171 | 149 | Megan Cutshaw |
 | 172 | 149 | Shainne Brewer |

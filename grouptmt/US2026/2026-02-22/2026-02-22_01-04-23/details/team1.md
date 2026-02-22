@@ -219,8 +219,8 @@
 | 211 | 135 | Giddy Cascade |
 | 212 | 135 | Aimee Horton |
 | 213 | 134 | LD1 |
-| 214 | 133 | Kimberly Garcia |
-| 215 | 133 | Fmp |
+| 214 | 133 | Fmp |
+| 215 | 133 | Kimberly Garcia |
 | 216 | 132 | Layzietyme |
 | 217 | 131 | Jessie |
 | 218 | 131 | Uhog SF |
