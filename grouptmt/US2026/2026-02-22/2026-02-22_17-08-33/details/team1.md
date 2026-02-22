@@ -142,15 +142,15 @@
 | 134 | 318 | Jessica Sheehan |
 | 135 | 316 | Dizzy Party |
 | 136 | 313 | Virginia Gray Floyd |
-| 137 | 308 | Sharon Reynolds |
-| 138 | 308 | Erin Hodges Plumb |
+| 137 | 308 | Erin Hodges Plumb |
+| 138 | 308 | Sharon Reynolds |
 | 139 | 307 | Kimberly Garcia |
 | 140 | 306 | Bloknboy |
 | 141 | 306 | Happy Basegrid |
 | 142 | 304 | Nicole Roseberry Weber |
 | 143 | 303 | Chelsea Dahlquist |
-| 144 | 301 | Lehrin Maria |
-| 145 | 301 | Dandy Basegrid |
+| 144 | 301 | Dandy Basegrid |
+| 145 | 301 | Lehrin Maria |
 | 146 | 297 | Constance Risner |
 | 147 | 293 | Sarah Roberts |
 | 148 | 292 | David Lutcher |
@@ -212,8 +212,8 @@
 | 204 | 226 | Veronica Eve |
 | 205 | 225 | Bindi |
 | 206 | 224 | ParisandCory Champagne |
-| 207 | 223 | Basment Living |
-| 208 | 223 | Erez Yosef |
+| 207 | 223 | Erez Yosef |
+| 208 | 223 | Basment Living |
 | 209 | 222 | Debbie Davis |
 | 210 | 221 | Daring Fitclear |
 | 211 | 220 | Giddy Cascade |
@@ -315,8 +315,8 @@
 | 307 | 163 | .running. |
 | 308 | 163 | Blaire Bruckoff |
 | 309 | 162 | Test |
-| 310 | 162 | Pauline Cortez |
-| 311 | 162 | Strig |
+| 310 | 162 | Strig |
+| 311 | 162 | Pauline Cortez |
 | 312 | 161 | SavageBooty98 |
 | 313 | 160 | Tedashi |
 | 314 | 160 | Plucky Stacky |
@@ -360,8 +360,8 @@
 | 352 | 141 | Kayla Marie Stevenson |
 | 353 | 141 | Ashley Adams |
 | 354 | 140 | Nathan William |
-| 355 | 139 | Aimee Horton |
-| 356 | 139 | Cozy Shatterer |
+| 355 | 139 | Cozy Shatterer |
+| 356 | 139 | Aimee Horton |
 | 357 | 138 | Lynn Adams |
 | 358 | 138 | Hector Cruz |
 | 359 | 137 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |

@@ -200,10 +200,10 @@
 | 192 | 377 | rosy |
 | 193 | 376 | Loopy Clusterer |
 | 194 | 374 | Darlene McMillan |
-| 195 | 372 | Giddy Twistbuilder |
-| 196 | 372 | Tom Nault |
-| 197 | 370 | Santeria Trece Candles |
-| 198 | 370 | Danielle Allison |
+| 195 | 372 | Tom Nault |
+| 196 | 372 | Giddy Twistbuilder |
+| 197 | 370 | Danielle Allison |
+| 198 | 370 | Santeria Trece Candles |
 | 199 | 368 | Stephanie Woods |
 | 200 | 362 | Rochelle Hazelett |
 | 201 | 362 | Brandon Givens |
@@ -215,16 +215,16 @@
 | 207 | 346 | Tamara Deherrera |
 | 208 | 344 | Trisha Balmer |
 | 209 | 343 | Ashley Raines |
-| 210 | 341 | Noyb Adam |
-| 211 | 341 | Samantha Lynn |
+| 210 | 341 | Samantha Lynn |
+| 211 | 341 | Noyb Adam |
 | 212 | 340 | Ammmmmmy |
 | 213 | 338 | Gumbo |
 | 214 | 332 | Ashley Tookes |
 | 215 | 332 | Rich LeBlanc |
-| 216 | 330 | Danielle Balcom |
-| 217 | 330 | Rebecca Funderburk Kirby |
-| 218 | 324 | Kristal C Lee |
-| 219 | 324 | Sissy Lowery Davis |
+| 216 | 330 | Rebecca Funderburk Kirby |
+| 217 | 330 | Danielle Balcom |
+| 218 | 324 | Sissy Lowery Davis |
+| 219 | 324 | Kristal C Lee |
 | 220 | 323 | Demetrious Shaw Sr. |
 | 221 | 320 | Or Reznitsky |
 | 222 | 320 | Ashley Muncey |

@@ -701,8 +701,8 @@
 | 693 | 363 | Kia Humphery |
 | 694 | 363 | Stephanie Fortune |
 | 695 | 363 | Veronica Stevenson |
-| 696 | 362 | Janai Vrabel |
-| 697 | 362 | Snappy Matchbuilder |
+| 696 | 362 | Snappy Matchbuilder |
+| 697 | 362 | Janai Vrabel |
 | 698 | 361 | Michelle Shrum |
 | 699 | 360 | Kacee Conrad Bock |
 | 700 | 360 | Jroc |
@@ -902,12 +902,12 @@
 | 894 | 284 | Candice Mack |
 | 895 | 283 | Iris Angelica Perez Cantos |
 | 896 | 282 | Poppy |
-| 897 | 282 | Witty Piecebuilder |
-| 898 | 282 | Albert McKnight |
+| 897 | 282 | Albert McKnight |
+| 898 | 282 | Witty Piecebuilder |
 | 899 | 282 | Bec |
 | 900 | 281 | Emilee Burke |
-| 901 | 281 | Zak Dunn |
-| 902 | 281 | Amy McManus |
+| 901 | 281 | Amy McManus |
+| 902 | 281 | Zak Dunn |
 | 903 | 281 | Jennifer Aiken |
 | 904 | 281 | Michelle Ettrick |
 | 905 | 280 | Elena Vap |
@@ -916,14 +916,14 @@
 | 908 | 279 | Katherin Camacho |
 | 909 | 279 | Synn |
 | 910 | 279 | FloJo |
-| 911 | 278 | Squirrel |
-| 912 | 278 | Amanda Segura |
+| 911 | 278 | Amanda Segura |
+| 912 | 278 | Squirrel |
 | 913 | 278 | AndrewandShela Gornik |
-| 914 | 277 | Brianna Cerney |
-| 915 | 277 | Anthony Mignacca |
+| 914 | 277 | Anthony Mignacca |
+| 915 | 277 | Brianna Cerney |
 | 916 | 277 | Abby Klaski |
-| 917 | 277 | Patti Rone |
-| 918 | 277 | Beverly Hodge |
+| 917 | 277 | Beverly Hodge |
+| 918 | 277 | Patti Rone |
 | 919 | 276 | Patrick Bartlett |
 | 920 | 276 | Jamie Dayton |
 | 921 | 276 | Ryan Lauer |

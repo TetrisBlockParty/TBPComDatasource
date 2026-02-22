@@ -17,8 +17,8 @@
 | 9 | 1835 | East Mamba |
 | 10 | 1775 | Ash |
 | 11 | 1676 | Ayanna Soto |
-| 12 | 1447 | GreenJeepGirl |
-| 13 | 1447 | Juggalo |
+| 12 | 1447 | Juggalo |
+| 13 | 1447 | GreenJeepGirl |
 | 14 | 1318 | Cassie Michaux |
 | 15 | 1292 | Roger Coulter |
 | 16 | 1147 | Kimberly Love |
@@ -215,8 +215,8 @@
 | 207 | 221 | Rheanda Weaskus |
 | 208 | 219 | Malakai Darien Fox |
 | 209 | 217 | Kim Hunt |
-| 210 | 216 | Cristy Duerksen |
-| 211 | 216 | ZeeZee |
+| 210 | 216 | ZeeZee |
+| 211 | 216 | Cristy Duerksen |
 | 212 | 216 | Chance Strickland |
 | 213 | 215 | Ziggy |
 | 214 | 214 | Holly |
@@ -253,8 +253,8 @@
 | 245 | 189 | Dihcheese444 |
 | 246 | 188 | Stephme310 |
 | 247 | 185 | Laura Hosford |
-| 248 | 184 | Ak Jones |
-| 249 | 184 | Lauren Lamb |
+| 248 | 184 | Lauren Lamb |
+| 249 | 184 | Ak Jones |
 | 250 | 183 | JPW |
 | 251 | 181 | Jackie Marie |
 | 252 | 181 | Carter Jones |
@@ -397,8 +397,8 @@
 | 389 | 124 | Atia Scott |
 | 390 | 123 | Joseph Edmonson |
 | 391 | 123 | Jennifer Perkins |
-| 392 | 122 | Spicy Cascadezone |
-| 393 | 122 | PennyCandee |
+| 392 | 122 | PennyCandee |
+| 393 | 122 | Spicy Cascadezone |
 | 394 | 121 | Cool Gridzone |
 | 395 | 121 | Riverdale |
 | 396 | 120 | wombat |
@@ -842,7 +842,7 @@
 | 834 | 49 | Amber bamber |
 | 835 | 49 | Kenna Gunderland |
 | 836 | 49 | Richard |
-| 837 | 49 | Amber bamber |
+| 837 | 49 | Clinton Jacob |
 | 838 | 49 | Laurmarcar |
 | 839 | 49 | Jessica Graham |
 | 840 | 49 | Angela Gould |
