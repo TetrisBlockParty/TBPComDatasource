@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Lucille Truesdale |
-| 34 | 843 | Shelly Chandler |
+| 33 | 843 | Shelly Chandler |
+| 34 | 843 | Lucille Truesdale |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -56,8 +56,8 @@
 | 48 | 697 | Edward White |
 | 49 | 695 | LisaJo Picken Buchanan |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Rebecca Moulton Pinciaro |
-| 52 | 659 | Jonathan Kimbrough |
+| 51 | 659 | Jonathan Kimbrough |
+| 52 | 659 | Rebecca Moulton Pinciaro |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
@@ -76,14 +76,14 @@
 | 68 | 530 | Yoset Mejia |
 | 69 | 524 | Amelpss |
 | 70 | 521 | Dawn Alexander |
-| 71 | 518 | Eric Mcgaughy |
-| 72 | 518 | Carolyn Wallace |
+| 71 | 518 | Carolyn Wallace |
+| 72 | 518 | Eric Mcgaughy |
 | 73 | 517 | H.R. Block |
 | 74 | 512 | Casey Jeffcoat |
 | 75 | 511 | Michelle Marie |
 | 76 | 500 | Rodney McMath Jr. |
-| 77 | 486 | Carmethia Clemons Haslerig |
-| 78 | 486 | Landon Keith Graffeo |
+| 77 | 486 | Landon Keith Graffeo |
+| 78 | 486 | Carmethia Clemons Haslerig |
 | 79 | 485 | TeeJ |
 | 80 | 456 | TheNeesh50 |
 | 81 | 447 | Samantha Peterson |
@@ -101,8 +101,8 @@
 | 93 | 404 | Courtney Cicoria |
 | 94 | 403 | shar |
 | 95 | 401 | Zippy Gridlock |
-| 96 | 396 | Amy Suckarieh |
-| 97 | 396 | Alicia Bass |
+| 96 | 396 | Alicia Bass |
+| 97 | 396 | Amy Suckarieh |
 | 98 | 392 | Ericca Eldridge |
 | 99 | 391 | Ramel Rhodes |
 | 100 | 390 | Carlton Unfiltered |
@@ -160,8 +160,8 @@
 | 152 | 240 | Peachy Fall |
 | 153 | 237 | Chris Bernstein |
 | 154 | 232 | Crystal Nicolette Moore |
-| 155 | 230 | Autum Leigh |
-| 156 | 230 | Cursed Hag |
+| 155 | 230 | Cursed Hag |
+| 156 | 230 | Autum Leigh |
 | 157 | 228 | J-Rizzle |
 | 158 | 227 | Swanky Fitline |
 | 159 | 227 | Alyssa Papen |
@@ -175,10 +175,10 @@
 | 167 | 220 | Matt Dell'Olio |
 | 168 | 218 | Casey Grabner |
 | 169 | 217 | Chaz Duncan |
-| 170 | 215 | Jessica Bohlken |
-| 171 | 215 | Ren Mc |
-| 172 | 213 | Jason Allen |
-| 173 | 213 | Sarah Neathery |
+| 170 | 215 | Ren Mc |
+| 171 | 215 | Jessica Bohlken |
+| 172 | 213 | Sarah Neathery |
+| 173 | 213 | Jason Allen |
 | 174 | 212 | Mike Solo |
 | 175 | 211 | Jenna McGeorge |
 | 176 | 210 | Zethra Prenisha Rahming |
@@ -188,8 +188,8 @@
 | 180 | 204 | Carlos Ramirez |
 | 181 | 203 | Katherine Crane |
 | 182 | 202 | TRCuse |
-| 183 | 201 | Melvin Baird |
-| 184 | 201 | Chance Strickland |
+| 183 | 201 | Chance Strickland |
+| 184 | 201 | Melvin Baird |
 | 185 | 200 | Laura |
 | 186 | 198 | Keith Kelley |
 | 187 | 198 | Ruben Wheeler |
@@ -218,8 +218,8 @@
 | 210 | 179 | blockstar |
 | 211 | 179 | TinyLegoRose |
 | 212 | 175 | Lorena Guerrero-Barron |
-| 213 | 174 | JPW |
-| 214 | 174 | Rio Rocha |
+| 213 | 174 | Rio Rocha |
+| 214 | 174 | JPW |
 | 215 | 172 | Gilles Lanctot |
 | 216 | 171 | Autumn Kumzi |
 | 217 | 167 | Cozy Balancer |
