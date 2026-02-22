@@ -264,7 +264,7 @@
 | 256 | 208 | AlsoJess |
 | 257 | 207 | Jessica |
 | 258 | 204 | Aerian Preston |
-| 259 | 204 | Chelsea Hall |
+| 259 | 204 | Danielle Allison |
 | 260 | 203 | Angie Harper |
 | 261 | 202 | Staci George Fitzsimmons |
 | 262 | 200 | glichmod |
@@ -440,13 +440,13 @@
 | 432 | 116 | Jason-Ashley Ludlow |
 | 433 | 115 | FATTY |
 | 434 | 115 | Brave Brickster |
-| 435 | 115 | FATTY |
+| 435 | 115 | Whitney Manuel |
 | 436 | 114 | Elizabeth Renee |
 | 437 | 114 | Dapper Towerfit |
 | 438 | 113 | Gideon Walker |
 | 439 | 113 | Kristy Brown |
-| 440 | 113 | Leticia Lynn Lowe |
-| 441 | 113 | Tia Moore |
+| 440 | 113 | Tia Moore |
+| 441 | 113 | Leticia Lynn Lowe |
 | 442 | 112 | TLM |
 | 443 | 112 | Shanon R Jackson |
 | 444 | 112 | Michael Kimbro |

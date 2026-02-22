@@ -119,8 +119,8 @@
 | 111 | 1248 | Howard Forest |
 | 112 | 1242 | Altamirano Michael |
 | 113 | 1241 | Eileen Hale |
-| 114 | 1232 | Groovy Puzzle |
-| 115 | 1232 | Isabela Shaw |
+| 114 | 1232 | Isabela Shaw |
+| 115 | 1232 | Groovy Puzzle |
 | 116 | 1226 | Vo'Landa Reels |
 | 117 | 1216 | Kristin Ruest |
 | 118 | 1215 | Megan Garrick |
@@ -149,8 +149,8 @@
 | 141 | 1051 | Shandrica Lowe |
 | 142 | 1048 | PsychKIRAtrist |
 | 143 | 1047 | Amy Sayers |
-| 144 | 1043 | Suki Kaur |
-| 145 | 1043 | Brave Dropmatch |
+| 144 | 1043 | Brave Dropmatch |
+| 145 | 1043 | Suki Kaur |
 | 146 | 1032 | Sarah Freitas |
 | 147 | 1026 | Heather Westrum |
 | 148 | 1023 | Brainy Smurf |
@@ -188,8 +188,8 @@
 | 180 | 878 | L3sli3 |
 | 181 | 871 | Jamie Otero |
 | 182 | 867 | Michele Gabriel |
-| 183 | 867 | YiFei |
-| 184 | 867 | Rosa Franklin |
+| 183 | 867 | Rosa Franklin |
+| 184 | 867 | YiFei |
 | 185 | 865 | Dedra Steward |
 | 186 | 862 | Robin Kerby |
 | 187 | 861 | Jennifer Peachey |
@@ -291,8 +291,8 @@
 | 283 | 631 | Marie Walker |
 | 284 | 626 | Allan Wayne Lamia |
 | 285 | 619 | Jánine Riggs |
-| 286 | 617 | tejas25 |
-| 287 | 617 | Leslie Ann Carter |
+| 286 | 617 | Leslie Ann Carter |
+| 287 | 617 | tejas25 |
 | 288 | 615 | Brandon Armstrong |
 | 289 | 613 | Ellie Jonas |
 | 290 | 611 | Julio A Laracuente |

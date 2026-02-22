@@ -144,10 +144,10 @@
 | 136 | 228 | ALFD |
 | 137 | 226 | Kandae |
 | 138 | 218 | lil mickey |
-| 139 | 217 | Dizzy Party |
-| 140 | 217 | ParisandCory Champagne |
-| 141 | 216 | MRdot Rooski |
-| 142 | 216 | Shauntina Burke |
+| 139 | 217 | ParisandCory Champagne |
+| 140 | 217 | Dizzy Party |
+| 141 | 216 | Shauntina Burke |
+| 142 | 216 | MRdot Rooski |
 | 143 | 214 | GATOR |
 | 144 | 212 | Lori Bales |
 | 145 | 212 | Jaimie Lynn |
