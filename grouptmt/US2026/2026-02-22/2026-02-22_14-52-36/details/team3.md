@@ -234,8 +234,8 @@
 | 226 | 297 | Jojo M |
 | 227 | 296 | Katrina Turner |
 | 228 | 296 | Brandon Givens |
-| 229 | 289 | Duane Bright |
-| 230 | 289 | Hoppy Buildout |
+| 229 | 289 | Hoppy Buildout |
+| 230 | 289 | Duane Bright |
 | 231 | 289 | DidIdothat |
 | 232 | 288 | Melissa Orth Hunter |
 | 233 | 286 | Cynthia Herrmann Egland |
@@ -369,8 +369,8 @@
 | 361 | 180 | Ava Petito |
 | 362 | 180 | Loopy Fallzone |
 | 363 | 180 | Beth Ingham |
-| 364 | 179 | Rachel Napper |
-| 365 | 179 | DanceLuvLaugh |
+| 364 | 179 | DanceLuvLaugh |
+| 365 | 179 | Rachel Napper |
 | 366 | 178 | Jess Dearborn |
 | 367 | 177 | Kristin Delibac Corrigan |
 | 368 | 176 | Emma |

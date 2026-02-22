@@ -272,8 +272,8 @@
 | 264 | 778 | Desire Rice |
 | 265 | 778 | Mischelle Clay |
 | 266 | 777 | Samantha Jo |
-| 267 | 777 | Tesha Oldaker |
-| 268 | 777 | Jessicah Myers |
+| 267 | 777 | Jessicah Myers |
+| 268 | 777 | Tesha Oldaker |
 | 269 | 772 | William Hunt |
 | 270 | 772 | Sam Joe |
 | 271 | 771 | Terri McKelvey McKinley |
@@ -341,15 +341,15 @@
 | 333 | 665 | Leslie Ann Carter |
 | 334 | 665 | Prette Qui |
 | 335 | 664 | Sleepypanda67 |
-| 336 | 663 | Ashle Scranton |
-| 337 | 663 | Mandi Douglas Hilt |
+| 336 | 663 | Mandi Douglas Hilt |
+| 337 | 663 | Ashle Scranton |
 | 338 | 662 | Melissa Rebbe-Lehman |
 | 339 | 661 | BeQuo |
 | 340 | 661 | goofinoff |
 | 341 | 659 | Draizen Montrell Thomas |
 | 342 | 651 | Unica Rector |
-| 343 | 650 | tejas25 |
-| 344 | 650 | Shiny Rollzone |
+| 343 | 650 | Shiny Rollzone |
+| 344 | 650 | tejas25 |
 | 345 | 643 | Hoppy Brickmatch |
 | 346 | 640 | Kara Gillen |
 | 347 | 640 | BYM4L |
@@ -360,8 +360,8 @@
 | 352 | 631 | Dylan Thomason |
 | 353 | 631 | Marie Walker |
 | 354 | 628 | Brownie Sheena |
-| 355 | 627 | Victoria Moore-Smith |
-| 356 | 627 | Allan Wayne Lamia |
+| 355 | 627 | Allan Wayne Lamia |
+| 356 | 627 | Victoria Moore-Smith |
 | 357 | 620 | Brandon Armstrong |
 | 358 | 620 | Demeka Dangerous-kisses Johnson |
 | 359 | 618 | Gary Stash |
@@ -378,12 +378,12 @@
 | 370 | 602 | Biggest thing |
 | 371 | 597 | Steven Marshaun |
 | 372 | 591 | AgileDragon |
-| 373 | 589 | Thomas Hedrick |
-| 374 | 589 | Shavonna Haynes |
+| 373 | 589 | Shavonna Haynes |
+| 374 | 589 | Thomas Hedrick |
 | 375 | 586 | Heather Schelkopf |
 | 376 | 585 | Taryece Gause |
-| 377 | 584 | Kimberly Randesi |
-| 378 | 584 | Eckoman518 |
+| 377 | 584 | Eckoman518 |
+| 378 | 584 | Kimberly Randesi |
 | 379 | 584 | Ginnell Browner |
 | 380 | 583 | Jackie Avila |
 | 381 | 581 | Jerry Tempelmeyer |
@@ -678,8 +678,8 @@
 | 670 | 361 | Michelle Shrum |
 | 671 | 360 | Jroc |
 | 672 | 359 | Cheyenne Donovan |
-| 673 | 358 | Alyssaaelena |
-| 674 | 358 | Sydney Busse |
+| 673 | 358 | Sydney Busse |
+| 674 | 358 | Alyssaaelena |
 | 675 | 358 | Frilly Fallzone |
 | 676 | 357 | Tristan Szolek |
 | 677 | 357 | Shannon Byrd |
@@ -688,15 +688,15 @@
 | 680 | 354 | Rickey Johnson |
 | 681 | 352 | Rose Fx |
 | 682 | 352 | Jean FU Jagielski |
-| 683 | 352 | ruth |
-| 684 | 352 | Savannah Alexander |
+| 683 | 352 | Savannah Alexander |
+| 684 | 352 | ruth |
 | 685 | 350 | Chris Harr |
 | 686 | 350 | Maria Hammett |
 | 687 | 350 | Kyla Louise |
-| 688 | 348 | Mike73 |
-| 689 | 348 | Kelly Meredeith |
-| 690 | 348 | Peppy Snapfall |
-| 691 | 348 | Richard Horton |
+| 688 | 348 | Kelly Meredeith |
+| 689 | 348 | Mike73 |
+| 690 | 348 | Richard Horton |
+| 691 | 348 | Peppy Snapfall |
 | 692 | 347 | CC |
 | 693 | 347 | Zesty Pivot |
 | 694 | 346 | Danielle Ayoub |
@@ -734,8 +734,8 @@
 | 726 | 329 | Snappy Shatterfit |
 | 727 | 329 | Loony Basepiece |
 | 728 | 328 | Sarah block |
-| 729 | 328 | Jamie Carter Bierce |
-| 730 | 328 | BabyBird |
+| 729 | 328 | BabyBird |
+| 730 | 328 | Jamie Carter Bierce |
 | 731 | 327 | Polly Pritchard Chesler |
 | 732 | 326 | Ann Knutson Anderson |
 | 733 | 325 | Justin Hines |

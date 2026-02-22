@@ -184,15 +184,15 @@
 | 176 | 234 | Cursed Hag |
 | 177 | 232 | Crystal Nicolette Moore |
 | 178 | 230 | Autum Leigh |
-| 179 | 227 | Alyssa Papen |
-| 180 | 227 | Andria Lynn |
+| 179 | 227 | Andria Lynn |
+| 180 | 227 | Alyssa Papen |
 | 181 | 224 | Matt Summer |
 | 182 | 223 | Antony Dwayne Beasley |
 | 183 | 222 | blockstar |
 | 184 | 221 | Rheanda Weaskus |
 | 185 | 221 | PurpleMoonMa |
-| 186 | 217 | Chaz Duncan |
-| 187 | 217 | Kim Hunt |
+| 186 | 217 | Kim Hunt |
+| 187 | 217 | Chaz Duncan |
 | 188 | 217 | Angela Srubar-Norman |
 | 189 | 216 | ZeeZee |
 | 190 | 216 | Chance Strickland |
@@ -332,7 +332,7 @@
 | 324 | 137 | Jason Bosco |
 | 325 | 137 | Brianna Walker |
 | 326 | 137 | Red |
-| 327 | 137 | Jason Bosco |
+| 327 | 137 | PeaceOs |
 | 328 | 136 | Michelle Morris |
 | 329 | 135 | Vanessa Smart |
 | 330 | 135 | Joshua Guess |
@@ -354,7 +354,7 @@
 | 346 | 128 | Madison Sweere |
 | 347 | 128 | Gracie Ann Taylor |
 | 348 | 128 | Silly Zonebuilder |
-| 349 | 128 | Madison Sweere |
+| 349 | 128 | Elie Pean |
 | 350 | 127 | Robert Rodriguez |
 | 351 | 126 | icequeenx |
 | 352 | 126 | Paito |
