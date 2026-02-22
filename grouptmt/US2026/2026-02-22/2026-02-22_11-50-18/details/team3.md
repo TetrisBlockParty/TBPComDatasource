@@ -142,8 +142,8 @@
 | 134 | 457 | Jim Mathews |
 | 135 | 454 | Makelini Mausia |
 | 136 | 449 | Danielle Rhoades |
-| 137 | 445 | Jacqueline Rodriguez |
-| 138 | 445 | Kristie McFarland |
+| 137 | 445 | Kristie McFarland |
+| 138 | 445 | Jacqueline Rodriguez |
 | 139 | 435 | Michelle |
 | 140 | 432 | Jenny Hrndz |
 | 141 | 428 | Betty Ivy |
@@ -229,8 +229,8 @@
 | 221 | 289 | Hoppy Buildout |
 | 222 | 286 | Cynthia Herrmann Egland |
 | 223 | 284 | Denise Nardoni |
-| 224 | 283 | Cheeky Snapper |
-| 225 | 283 | Charles Perrone |
+| 224 | 283 | Charles Perrone |
+| 225 | 283 | Cheeky Snapper |
 | 226 | 281 | Betty Rosas |
 | 227 | 281 | Valerie Gendron |
 | 228 | 278 | Sabrina Hardrick |
@@ -257,8 +257,8 @@
 | 249 | 259 | Danielle Weikel |
 | 250 | 257 | Ashley Jones |
 | 251 | 256 | Brenda Lee Vander Molen |
-| 252 | 256 | KayB |
-| 253 | 256 | Tiffany Davie |
+| 252 | 256 | Tiffany Davie |
+| 253 | 256 | KayB |
 | 254 | 250 | fraulila |
 | 255 | 249 | JerseyJess |
 | 256 | 249 | Annie Marie |
@@ -282,16 +282,16 @@
 | 274 | 225 | Steffi Chris Dacones |
 | 275 | 224 | Quirky Dropzone |
 | 276 | 221 | Vaners |
-| 277 | 221 | Alice |
-| 278 | 221 | Jaime Monhaut-Reed |
+| 277 | 221 | Jaime Monhaut-Reed |
+| 278 | 221 | Alice |
 | 279 | 220 | Tosha Griffey |
 | 280 | 220 | rosy |
 | 281 | 218 | Michael Lucado |
 | 282 | 216 | Twisty Brick LT |
 | 283 | 216 | Cheryl Hinch Tenbrook |
 | 284 | 215 | IamJust Neyamijah Washington Sr. |
-| 285 | 214 | Amy Fuller Heaton |
-| 286 | 214 | Angela Scott |
+| 285 | 214 | Angela Scott |
+| 286 | 214 | Amy Fuller Heaton |
 | 287 | 214 | Rebel124 |
 | 288 | 213 | Nicholas Roddy |
 | 289 | 212 | Sunny Rotater |
@@ -312,8 +312,8 @@
 | 304 | 205 | Kirhonda Autmon |
 | 305 | 204 | Aerian Preston |
 | 306 | 203 | Angie Harper |
-| 307 | 202 | Tipsy Zonebuilder |
-| 308 | 202 | Staci George Fitzsimmons |
+| 307 | 202 | Staci George Fitzsimmons |
+| 308 | 202 | Tipsy Zonebuilder |
 | 309 | 201 | Alexmac |
 | 310 | 201 | Hyper Matchzone |
 | 311 | 200 | Sharisse Baltimore |
@@ -347,8 +347,8 @@
 | 339 | 178 | Jess Dearborn |
 | 340 | 178 | Jennifer Alvey |
 | 341 | 177 | Kristin Delibac Corrigan |
-| 342 | 176 | Melissa Orth Hunter |
-| 343 | 176 | Emma |
+| 342 | 176 | Emma |
+| 343 | 176 | Melissa Orth Hunter |
 | 344 | 175 | Eileen Brady Thurber |
 | 345 | 174 | Lesley Perez |
 | 346 | 173 | MizzMonick Smith |
@@ -357,24 +357,24 @@
 | 349 | 170 | Colleen Phelps |
 | 350 | 170 | Tina Smith Roy |
 | 351 | 169 | Peachy Rollfit |
-| 352 | 168 | April Matthew Kibble |
-| 353 | 168 | Trice Thomas |
+| 352 | 168 | Trice Thomas |
+| 353 | 168 | April Matthew Kibble |
 | 354 | 167 | Shicken Nuggit |
 | 355 | 167 | Irene Arreguin |
 | 356 | 166 | Noettín Kan Zasnemoore |
-| 357 | 166 | Snarky McFace |
-| 358 | 166 | Angella Lyons |
+| 357 | 166 | Angella Lyons |
+| 358 | 166 | Snarky McFace |
 | 359 | 165 | Kali Kelz Williams |
-| 360 | 165 | Ashley Lynn Marchese |
-| 361 | 165 | Rainbow77375 |
+| 360 | 165 | Rainbow77375 |
+| 361 | 165 | Ashley Lynn Marchese |
 | 362 | 164 | Ashley Rufus Bythcez |
 | 363 | 164 | momo |
 | 364 | 163 | Diana Ibarra |
 | 365 | 163 | Christine Trester |
 | 366 | 163 | Ava Petito |
-| 367 | 162 | Loopy Fallzone |
-| 368 | 162 | Stephanie Whitefield |
-| 369 | 162 | Eric Caccavale |
+| 367 | 162 | Stephanie Whitefield |
+| 368 | 162 | Eric Caccavale |
+| 369 | 162 | Loopy Fallzone |
 | 370 | 162 | Nicole Summers-Nelson |
 | 371 | 162 | Beaudie Stroebel |
 | 372 | 161 | Julia Nicole |

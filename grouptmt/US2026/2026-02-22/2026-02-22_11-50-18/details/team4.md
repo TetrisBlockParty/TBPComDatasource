@@ -83,8 +83,8 @@
 | 75 | 512 | Casey Jeffcoat |
 | 76 | 511 | Michelle Marie |
 | 77 | 500 | Rodney McMath Jr. |
-| 78 | 486 | Carmethia Clemons Haslerig |
-| 79 | 486 | Landon Keith Graffeo |
+| 78 | 486 | Landon Keith Graffeo |
+| 79 | 486 | Carmethia Clemons Haslerig |
 | 80 | 485 | TeeJ |
 | 81 | 468 | Shane Kalamata Platoon |
 | 82 | 459 | Ashley Ingram |
@@ -207,8 +207,8 @@
 | 199 | 191 | Klo |
 | 200 | 191 | Sam Bishop |
 | 201 | 190 | Cheery Risebuilder |
-| 202 | 189 | Calvin Dennis |
-| 203 | 189 | Stacey Stano |
+| 202 | 189 | Stacey Stano |
+| 203 | 189 | Calvin Dennis |
 | 204 | 188 | Andria Lynn |
 | 205 | 187 | blockstar |
 | 206 | 186 | Holly |
@@ -705,8 +705,8 @@
 | 697 | 54 | Timothy Allen |
 | 698 | 54 | Timarie Vasquez |
 | 699 | 54 | Miguel Rodriguez |
-| 700 | 54 | Speedy Clearer |
-| 701 | 54 | Mcg |
+| 700 | 54 | Mcg |
+| 701 | 54 | Speedy Clearer |
 | 702 | 53 | Leah Landry |
 | 703 | 53 | Snappy Combofall |
 | 704 | 53 | Stormy Tomplait |

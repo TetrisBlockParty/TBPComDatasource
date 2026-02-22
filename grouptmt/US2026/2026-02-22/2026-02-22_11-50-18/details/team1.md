@@ -120,8 +120,8 @@
 | 112 | 330 | Sweet Baker |
 | 113 | 326 | Monica Donato |
 | 114 | 321 | Maria C. Hernandez |
-| 115 | 319 | Patrick Luckenbill |
-| 116 | 319 | Deanna L Hermanson |
+| 115 | 319 | Deanna L Hermanson |
+| 116 | 319 | Patrick Luckenbill |
 | 117 | 318 | Jessica Sheehan |
 | 118 | 316 | Jennifer Hardman |
 | 119 | 316 | Ly Phethmany |
@@ -153,8 +153,8 @@
 | 145 | 264 | Brian Richardsson |
 | 146 | 264 | Jenny Gingrich Fuentes |
 | 147 | 264 | Lexuriuos Lifestlye |
-| 148 | 263 | Sharon Reynolds |
-| 149 | 263 | Angela Renea Lester |
+| 148 | 263 | Angela Renea Lester |
+| 149 | 263 | Sharon Reynolds |
 | 150 | 258 | Virginia Gray Floyd |
 | 151 | 257 | Amanda Jarnagin |
 | 152 | 256 | David Miller |
@@ -182,15 +182,15 @@
 | 174 | 218 | LC |
 | 175 | 217 | ParisandCory Champagne |
 | 176 | 217 | Kimberly Garcia |
-| 177 | 216 | Shauntina Burke |
-| 178 | 216 | MRdot Rooski |
-| 179 | 215 | Shaykmia |
-| 180 | 215 | Sam Williams |
+| 177 | 216 | MRdot Rooski |
+| 178 | 216 | Shauntina Burke |
+| 179 | 215 | Sam Williams |
+| 180 | 215 | Shaykmia |
 | 181 | 213 | Daring Fitclear |
 | 182 | 212 | Jaimie Lynn |
 | 183 | 211 | Marianita Garcia |
-| 184 | 210 | Letson Melissa |
-| 185 | 210 | Giggly Builderline |
+| 184 | 210 | Giggly Builderline |
+| 185 | 210 | Letson Melissa |
 | 186 | 209 | Debbie Davis |
 | 187 | 208 | Donna Addison Williams |
 | 188 | 208 | Bouncy Grid |
@@ -239,13 +239,13 @@
 | 231 | 179 | Erin Rosberg |
 | 232 | 179 | femmefatale |
 | 233 | 178 | Chad Atchley |
-| 234 | 177 | Jacqueline Unique |
+| 234 | 177 | Irual Hctrab |
 | 235 | 177 | Sarah Marie |
 | 236 | 177 | Perky Shiftsnap |
 | 237 | 177 | Jacqueline Unique |
 | 238 | 176 | Mel Hogan |
-| 239 | 175 | Kellie Tunstall |
-| 240 | 175 | John Barron |
+| 239 | 175 | John Barron |
+| 240 | 175 | Kellie Tunstall |
 | 241 | 174 | Cheeky Pop |
 | 242 | 173 | Gabrielle Louise Malloch |
 | 243 | 173 | Tiger Lily |
@@ -257,8 +257,8 @@
 | 249 | 169 | Abbey Crespo |
 | 250 | 168 | Angela Fairbank |
 | 251 | 168 | Amber Stoker |
-| 252 | 167 | Nery Martinez |
-| 253 | 167 | Cranky Pattern |
+| 252 | 167 | Cranky Pattern |
+| 253 | 167 | Nery Martinez |
 | 254 | 166 | Carrie Smith |
 | 255 | 165 | Silly Align |
 | 256 | 165 | Nadine Velardo |

@@ -190,8 +190,8 @@
 | 182 | 990 | Amber Shoemaker |
 | 183 | 989 | Teddi Notyalc |
 | 184 | 988 | Maegan Beaule |
-| 185 | 986 | Poppy Snap |
-| 186 | 986 | RAEPR05 |
+| 185 | 986 | RAEPR05 |
+| 186 | 986 | Poppy Snap |
 | 187 | 985 | Taylor Phillips |
 | 188 | 984 | Nika Bee |
 | 189 | 982 | Desiree Harris Rosch |
@@ -211,8 +211,8 @@
 | 203 | 919 | Isaac Trappiel IV |
 | 204 | 916 | Butta |
 | 205 | 915 | Kelly Trent |
-| 206 | 910 | Shuany Arias |
-| 207 | 910 | Crystal Hoffman |
+| 206 | 910 | Crystal Hoffman |
+| 207 | 910 | Shuany Arias |
 | 208 | 907 | Gene Mills |
 | 209 | 901 | Jennifer Peachey |
 | 210 | 894 | Auntie B |
@@ -330,15 +330,15 @@
 | 322 | 650 | Shiny Rollzone |
 | 323 | 645 | tejas25 |
 | 324 | 643 | Hoppy Brickmatch |
-| 325 | 641 | Angie Bolton Workman |
-| 326 | 641 | Joce Lynn |
+| 325 | 641 | Joce Lynn |
+| 326 | 641 | Angie Bolton Workman |
 | 327 | 640 | BYM4L |
 | 328 | 639 | Crystie Hicks |
 | 329 | 639 | Rebecca Miller |
 | 330 | 635 | Diana Fitzwater |
 | 331 | 631 | Marie Walker |
-| 332 | 627 | Allan Wayne Lamia |
-| 333 | 627 | Victoria Moore-Smith |
+| 332 | 627 | Victoria Moore-Smith |
+| 333 | 627 | Allan Wayne Lamia |
 | 334 | 620 | Brandon Armstrong |
 | 335 | 617 | Leslie Ann Carter |
 | 336 | 613 | Breezy Filler |
@@ -682,8 +682,8 @@
 | 674 | 341 | Daniel Amos |
 | 675 | 341 | Shorty |
 | 676 | 340 | Quirky Twistline |
-| 677 | 339 | Cynthia Louann Rose |
-| 678 | 339 | Denise Rickman |
+| 677 | 339 | Denise Rickman |
+| 678 | 339 | Cynthia Louann Rose |
 | 679 | 338 | Janitta Alvarez |
 | 680 | 337 | Sassy Pattern |
 | 681 | 337 | Tum |
@@ -695,8 +695,8 @@
 | 687 | 335 | Maria Louise |
 | 688 | 334 | Melissa James |
 | 689 | 333 | Twisty Tetriblast |
-| 690 | 333 | Adrian Benitez |
-| 691 | 333 | Woodys Glass |
+| 690 | 333 | Woodys Glass |
+| 691 | 333 | Adrian Benitez |
 | 692 | 332 | Lathasa Newkirk |
 | 693 | 330 | Toni Roberson |
 | 694 | 330 | Jennifer Monroe Kelly |
@@ -723,8 +723,8 @@
 | 715 | 319 | Prado |
 | 716 | 319 | RetroLemur |
 | 717 | 318 | Jennifer Mahon |
-| 718 | 317 | Ashlyn Berner |
-| 719 | 317 | Zombi3 |
+| 718 | 317 | Zombi3 |
+| 719 | 317 | Ashlyn Berner |
 | 720 | 317 | Aireka Roman |
 | 721 | 316 | Jenn Marie |
 | 722 | 316 | Epic Spinfit |
@@ -743,8 +743,8 @@
 | 735 | 310 | Cheeky Brickmatch |
 | 736 | 309 | Byung Bae Park |
 | 737 | 308 | Sarah block |
-| 738 | 308 | Claire |
-| 739 | 308 | Hyper Riseclear |
+| 738 | 308 | Hyper Riseclear |
+| 739 | 308 | Claire |
 | 740 | 308 | Katie Joy McCombs |
 | 741 | 307 | stacey |
 | 742 | 307 | Peachy Blockbuilder |
@@ -795,8 +795,8 @@
 | 787 | 287 | N00D3S |
 | 788 | 286 | Kelsey Sullivan |
 | 789 | 286 | Sveta Lana |
-| 790 | 285 | Epic Stackbuilder |
-| 791 | 285 | Court |
+| 790 | 285 | Court |
+| 791 | 285 | Epic Stackbuilder |
 | 792 | 285 | Kimberly Mitchell |
 | 793 | 284 | Hillary Franklin |
 | 794 | 283 | Tom Steffen |
@@ -1287,18 +1287,18 @@
 | 1279 | 180 | Lively Brickfit |
 | 1280 | 180 | Peter Palestino |
 | 1281 | 180 | Bethany Blanchette |
-| 1282 | 179 | Cat |
+| 1282 | 179 | William Hughes |
 | 1283 | 179 | Ruth VanPetten |
-| 1284 | 179 | Samuka |
-| 1285 | 179 | William Hughes |
-| 1286 | 179 | mshir |
-| 1287 | 179 | Rain |
-| 1288 | 178 | Leslie Porter |
-| 1289 | 178 | Mandy Kachenmeister |
+| 1284 | 179 | Cat |
+| 1285 | 179 | Samuka |
+| 1286 | 179 | Rain |
+| 1287 | 179 | mshir |
+| 1288 | 178 | Mandy Kachenmeister |
+| 1289 | 178 | Leslie Porter |
 | 1290 | 178 | Shawna Graham |
 | 1291 | 178 | SpaceCase085 |
-| 1292 | 178 | Cosmo |
-| 1293 | 178 | Maurice Bundy |
+| 1292 | 178 | Maurice Bundy |
+| 1293 | 178 | Cosmo |
 | 1294 | 178 | Keila Adames |
 | 1295 | 178 | BTA |
 | 1296 | 178 | Jacques Frenette |
@@ -1354,7 +1354,7 @@
 | 1346 | 172 | Patty |
 | 1347 | 172 | Ashley M. Davis |
 | 1348 | 172 | Fredonia Lewis |
-| 1349 | 171 | Ashley Cooper Tharin |
+| 1349 | 171 | Lydia Greenman |
 | 1350 | 171 | Catherine Varea |
 | 1351 | 171 | Ashley Cooper Tharin |
 | 1352 | 171 | Kimberly Bickling |
@@ -1391,11 +1391,11 @@
 | 1383 | 168 | JessieP123 |
 | 1384 | 168 | Jay Dreamer-x Shelly |
 | 1385 | 168 | Mishka Upchurch |
-| 1386 | 168 | Gaby |
-| 1387 | 168 | Hasan Nabil Jadallah |
-| 1388 | 167 | Dreamy Fitclear |
+| 1386 | 168 | Hasan Nabil Jadallah |
+| 1387 | 168 | Gaby |
+| 1388 | 167 | Mary Lopez Sr. |
 | 1389 | 167 | Tamara Slaten |
-| 1390 | 167 | Mary Lopez Sr. |
+| 1390 | 167 | Dreamy Fitclear |
 | 1391 | 167 | Stephanie Garber |
 | 1392 | 167 | Koko Charlotte Rudo |
 | 1393 | 167 | Tiffany Hassanshahi |
