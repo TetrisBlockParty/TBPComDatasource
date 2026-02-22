@@ -73,8 +73,8 @@
 | 65 | 428 | Stephanie Zahn |
 | 66 | 423 | Kellie |
 | 67 | 413 | Steve Schneider |
-| 68 | 412 | Jazzy Framezone |
-| 69 | 412 | Anaid Sanchez |
+| 68 | 412 | Anaid Sanchez |
+| 69 | 412 | Jazzy Framezone |
 | 70 | 391 | Robert Benito |
 | 71 | 390 | Cynthia Bradley |
 | 72 | 390 | Candy Jones |
@@ -90,8 +90,8 @@
 | 82 | 361 | Trina Gee |
 | 83 | 359 | Nerdy Linkblock |
 | 84 | 353 | Hyper |
-| 85 | 347 | june october |
-| 86 | 347 | pjbeta |
+| 85 | 347 | pjbeta |
+| 86 | 347 | june october |
 | 87 | 345 | Dee Perry |
 | 88 | 338 | Tipsy Strikerpiece |
 | 89 | 333 | Brandi Huntington |
@@ -127,12 +127,12 @@
 | 119 | 263 | Sharon Reynolds |
 | 120 | 263 | Jason Jones |
 | 121 | 256 | David Miller |
-| 122 | 252 | Elaine Elaine |
-| 123 | 252 | Dena Kayy |
+| 122 | 252 | Dena Kayy |
+| 123 | 252 | Elaine Elaine |
 | 124 | 247 | Tana |
 | 125 | 246 | Jenny Gingrich Fuentes |
-| 126 | 243 | Chelsea Dahlquist |
-| 127 | 243 | Trippy Redd |
+| 126 | 243 | Trippy Redd |
+| 127 | 243 | Chelsea Dahlquist |
 | 128 | 241 | John J. Cronin |
 | 129 | 240 | Jennifer Hardman |
 | 130 | 236 | Mandyy Rae |
@@ -165,9 +165,9 @@
 | 157 | 195 | Daring Fitclear |
 | 158 | 194 | Tyler Werts |
 | 159 | 193 | Lachelle Dillon |
-| 160 | 192 | Jessica Sheehan |
-| 161 | 192 | Shaykmia |
-| 162 | 192 | Christy Jones |
+| 160 | 192 | Christy Jones |
+| 161 | 192 | Jessica Sheehan |
+| 162 | 192 | Shaykmia |
 | 163 | 191 | Diane Byrd |
 | 164 | 190 | Sweetts |
 | 165 | 190 | Thorne Shumate |

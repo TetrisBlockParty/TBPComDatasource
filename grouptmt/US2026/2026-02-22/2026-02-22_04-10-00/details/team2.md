@@ -318,8 +318,8 @@
 | 310 | 543 | Adira Brown |
 | 311 | 538 | Eric Castaneda |
 | 312 | 537 | Cherica Taylor |
-| 313 | 535 | Jessie McDougald |
-| 314 | 535 | Paul Huber |
+| 313 | 535 | Paul Huber |
+| 314 | 535 | Jessie McDougald |
 | 315 | 531 | Chris Wanner |
 | 316 | 529 | Em Chen |
 | 317 | 527 | Julie Kresal |
@@ -642,8 +642,8 @@
 | 634 | 302 | Kena T. Tanner |
 | 635 | 302 | Maxwell Escalera |
 | 636 | 300 | Kacee Conrad Bock |
-| 637 | 299 | Cassie Newton |
-| 638 | 299 | Beth Decker |
+| 637 | 299 | Beth Decker |
+| 638 | 299 | Cassie Newton |
 | 639 | 298 | Frilly Fallzone |
 | 640 | 298 | RetroLemur |
 | 641 | 298 | Ryan Stadel |

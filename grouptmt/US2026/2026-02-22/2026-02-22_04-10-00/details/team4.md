@@ -52,8 +52,8 @@
 | 44 | 630 | Dustee Craddock-Harrison |
 | 45 | 627 | Jonathan Kimbrough |
 | 46 | 620 | Cassie Michaux |
-| 47 | 614 | KM8 |
-| 48 | 614 | Robin Getchel |
+| 47 | 614 | Robin Getchel |
+| 48 | 614 | KM8 |
 | 49 | 608 | Denny Shives |
 | 50 | 603 | LisaJo Picken Buchanan |
 | 51 | 599 | Brittney Griggs |
@@ -74,13 +74,13 @@
 | 66 | 486 | Landon Keith Graffeo |
 | 67 | 483 | Carmethia Clemons Haslerig |
 | 68 | 466 | Dawn Alexander |
-| 69 | 447 | Samantha Peterson |
-| 70 | 447 | TeeJ |
+| 69 | 447 | TeeJ |
+| 70 | 447 | Samantha Peterson |
 | 71 | 409 | Isabella Blanco |
 | 72 | 404 | Courtney Cicoria |
 | 73 | 399 | Jenna Ingersoll |
-| 74 | 396 | Alicia Bass |
-| 75 | 396 | Amy Suckarieh |
+| 74 | 396 | Amy Suckarieh |
+| 75 | 396 | Alicia Bass |
 | 76 | 392 | YoMomma |
 | 77 | 391 | Ramel Rhodes |
 | 78 | 390 | Carlton Unfiltered |
@@ -167,9 +167,9 @@
 | 159 | 195 | Malakai Darien Fox |
 | 160 | 194 | Zany Twisterfit |
 | 161 | 192 | Shauna Havard |
-| 162 | 189 | Stacey Stano |
-| 163 | 189 | Calvin Dennis |
-| 164 | 189 | Chilly Crasher |
+| 162 | 189 | Chilly Crasher |
+| 163 | 189 | Stacey Stano |
+| 164 | 189 | Calvin Dennis |
 | 165 | 188 | Andria Lynn |
 | 166 | 186 | Holly |
 | 167 | 185 | Lori |
@@ -183,8 +183,8 @@
 | 175 | 176 | Zethra Prenisha Rahming |
 | 176 | 174 | Dihcheese444 |
 | 177 | 173 | ThaEviLJeNiuZ |
-| 178 | 166 | Cozy Balancer |
-| 179 | 166 | SammieJo Guy |
+| 178 | 166 | SammieJo Guy |
+| 179 | 166 | Cozy Balancer |
 | 180 | 164 | 030Synner |
 | 181 | 162 | Joanna |
 | 182 | 160 | James Hurley Jr. |
@@ -211,8 +211,8 @@
 | 203 | 148 | Zany Shatterer |
 | 204 | 148 | Janita Parrish |
 | 205 | 147 | Jay28 |
-| 206 | 147 | Jared Gutwein |
-| 207 | 147 | B Renee Desjardin |
+| 206 | 147 | B Renee Desjardin |
+| 207 | 147 | Jared Gutwein |
 | 208 | 145 | Mimi |
 | 209 | 144 | Tanner Lund |
 | 210 | 143 | Sam Bishop |

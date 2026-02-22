@@ -85,8 +85,8 @@
 | 77 | 590 | Katrina Schroeder |
 | 78 | 588 | yoyo |
 | 79 | 582 | Jay Horn |
-| 80 | 582 | Speedy Bridger |
-| 81 | 582 | Natasha Jones |
+| 80 | 582 | Natasha Jones |
+| 81 | 582 | Speedy Bridger |
 | 82 | 581 | Danielle Mogg |
 | 83 | 576 | Dan Rob |
 | 84 | 570 | Jesse Olive |
@@ -130,8 +130,8 @@
 | 122 | 410 | Stephanie Simpson |
 | 123 | 409 | Karon Griffin |
 | 124 | 405 | Michelle |
-| 125 | 403 | Scott Lindsay |
-| 126 | 403 | Christine Filson |
+| 125 | 403 | Christine Filson |
+| 126 | 403 | Scott Lindsay |
 | 127 | 402 | Shannon Matthew Byers |
 | 128 | 400 | Luciana Braganca Vieira |
 | 129 | 399 | Mcathen |
@@ -165,8 +165,8 @@
 | 157 | 347 | Nicole Flippo |
 | 158 | 343 | Ashley Raines |
 | 159 | 338 | Leah Barnett |
-| 160 | 332 | Rich LeBlanc |
-| 161 | 332 | Fallorina Susana |
+| 160 | 332 | Fallorina Susana |
+| 161 | 332 | Rich LeBlanc |
 | 162 | 328 | Aaron Pitkin |
 | 163 | 323 | Demetrious Shaw Sr. |
 | 164 | 320 | Tom Nault |
