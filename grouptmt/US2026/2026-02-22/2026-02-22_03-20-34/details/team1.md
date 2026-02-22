@@ -155,8 +155,8 @@
 | 147 | 200 | Lacy Wolfe |
 | 148 | 200 | Ash Galvan |
 | 149 | 199 | Basment Living |
-| 150 | 198 | Happy Snapbuild |
-| 151 | 198 | Shiny Gridmatch |
+| 150 | 198 | Shiny Gridmatch |
+| 151 | 198 | Happy Snapbuild |
 | 152 | 195 | Daring Fitclear |
 | 153 | 194 | Tyler Werts |
 | 154 | 193 | Lachelle Dillon |

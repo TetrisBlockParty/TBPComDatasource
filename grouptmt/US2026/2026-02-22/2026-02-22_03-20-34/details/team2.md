@@ -74,8 +74,8 @@
 | 66 | 1681 | Shameika Trail |
 | 67 | 1641 | Andea Beck |
 | 68 | 1620 | Sam Smith |
-| 69 | 1603 | Gabby Jenner |
-| 70 | 1603 | RdRydnHd |
+| 69 | 1603 | RdRydnHd |
+| 70 | 1603 | Gabby Jenner |
 | 71 | 1596 | Ray Ray Prado |
 | 72 | 1587 | Rob Riggin |
 | 73 | 1553 | Charie Holland |
@@ -288,8 +288,8 @@
 | 280 | 587 | Hyper Cluster |
 | 281 | 583 | Jessicah Myers |
 | 282 | 582 | Gary Stash |
-| 283 | 579 | Juliana Marques Do Nascimento Gordy |
-| 284 | 579 | Roy Salyer |
+| 283 | 579 | Roy Salyer |
+| 284 | 579 | Juliana Marques Do Nascimento Gordy |
 | 285 | 578 | Sally Dennis |
 | 286 | 576 | Ginger |
 | 287 | 572 | tejas25 |
@@ -393,8 +393,8 @@
 | 385 | 449 | Davetta Sanford |
 | 386 | 448 | Kimberly Randesi |
 | 387 | 448 | Jojo Momma |
-| 388 | 447 | Brandy Andre |
-| 389 | 447 | Ann Matzkanin |
+| 388 | 447 | Ann Matzkanin |
+| 389 | 447 | Brandy Andre |
 | 390 | 447 | Heather Schelkopf |
 | 391 | 447 | Lourisha |
 | 392 | 445 | Mar Q Thomas |

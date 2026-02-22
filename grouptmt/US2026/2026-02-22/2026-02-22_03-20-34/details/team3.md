@@ -104,8 +104,8 @@
 | 96 | 506 | Sashay Tapae Simpson |
 | 97 | 503 | Susan Valentino |
 | 98 | 502 | Justin Ritter |
-| 99 | 500 | Domo Washington |
-| 100 | 500 | Kristie |
+| 99 | 500 | Kristie |
+| 100 | 500 | Domo Washington |
 | 101 | 497 | Mykal Burton |
 | 102 | 491 | Chauntee Alfrey-Cardinale |
 | 103 | 482 | Jennifer Lynn Fahrenholtz-Summers |
@@ -227,8 +227,8 @@
 | 219 | 231 | Grego Daniel |
 | 220 | 227 | Krystal Gerstberger |
 | 221 | 223 | Jeana Gilbert |
-| 222 | 221 | Vaners |
-| 223 | 221 | Jaime Monhaut-Reed |
+| 222 | 221 | Jaime Monhaut-Reed |
+| 223 | 221 | Vaners |
 | 224 | 219 | Sissy Lowery Davis |
 | 225 | 218 | Michael Lucado |
 | 226 | 217 | Chris Bell |
@@ -467,7 +467,7 @@
 | 459 | 102 | Christian Luna |
 | 460 | 101 | Alexsandran Valdivia |
 | 461 | 101 | Hyper Bridger |
-| 462 | 101 | Alexsandran Valdivia |
+| 462 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 463 | 101 | Quirky Dropzone |
 | 464 | 100 | TEDDY |
 | 465 | 100 | Nicole Summers-Nelson |
