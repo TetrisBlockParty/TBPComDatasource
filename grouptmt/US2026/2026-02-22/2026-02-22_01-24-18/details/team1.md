@@ -119,8 +119,8 @@
 | 111 | 249 | Elaine Elaine |
 | 112 | 248 | Jason Jones |
 | 113 | 244 | Franswa |
-| 114 | 243 | Chelsea Dahlquist |
-| 115 | 243 | Trippy Redd |
+| 114 | 243 | Trippy Redd |
+| 115 | 243 | Chelsea Dahlquist |
 | 116 | 241 | John J. Cronin |
 | 117 | 240 | Tana |
 | 118 | 236 | Mandyy Rae |
@@ -136,8 +136,8 @@
 | 128 | 211 | Marianita Garcia |
 | 129 | 208 | Giggly Builderline |
 | 130 | 207 | Leslie Bush Yarbrough |
-| 131 | 203 | Paula Martin |
-| 132 | 203 | GATOR |
+| 131 | 203 | GATOR |
+| 132 | 203 | Paula Martin |
 | 133 | 199 | Jennifer Hardman |
 | 134 | 198 | Shiny Gridmatch |
 | 135 | 198 | Happy Snapbuild |
@@ -148,8 +148,8 @@
 | 140 | 192 | Jessica Sheehan |
 | 141 | 192 | Shaykmia |
 | 142 | 191 | Diane Byrd |
-| 143 | 190 | Thorne Shumate |
-| 144 | 190 | Sweetts |
+| 143 | 190 | Sweetts |
+| 144 | 190 | Thorne Shumate |
 | 145 | 188 | Sam Williams |
 | 146 | 187 | Jennifer Olewnik Soborowski |
 | 147 | 187 | Snippy Wipebuilder |
@@ -270,9 +270,9 @@
 | 262 | 109 | Funky Piecebuilder |
 | 263 | 108 | Teddy Alexander |
 | 264 | 108 | Nathan Sealander |
-| 265 | 108 | Dizzy Party |
-| 266 | 108 | Owicked1 |
-| 267 | 107 | Meechie |
+| 265 | 108 | Owicked1 |
+| 266 | 108 | Dizzy Party |
+| 267 | 107 | Nate Funk |
 | 268 | 107 | MIKOZ |
 | 269 | 107 | Meechie |
 | 270 | 106 | Bloknboy |
@@ -384,7 +384,7 @@
 | 376 | 78 | Margie Olivas |
 | 377 | 78 | Becky Coker |
 | 378 | 78 | Angela Ellyson |
-| 379 | 77 | Jo Kerley |
+| 379 | 77 | Monica Rivas |
 | 380 | 77 | Jason Cox |
 | 381 | 77 | Jo Kerley |
 | 382 | 76 | Bird Person |

@@ -93,8 +93,8 @@
 | 85 | 512 | Christine Niles |
 | 86 | 507 | Jennifer Petrie |
 | 87 | 506 | Sashay Tapae Simpson |
-| 88 | 503 | Susan Valentino |
-| 89 | 503 | Nate Burnside |
+| 88 | 503 | Nate Burnside |
+| 89 | 503 | Susan Valentino |
 | 90 | 502 | Justin Ritter |
 | 91 | 501 | Jessica Bechler |
 | 92 | 498 | Speedy Bridger |
@@ -180,8 +180,8 @@
 | 172 | 265 | DidIdothat |
 | 173 | 263 | Angeline Joseph |
 | 174 | 262 | Joe-Maggie Mathews |
-| 175 | 261 | Tom Nault |
-| 176 | 261 | Tiffany Ford |
+| 175 | 261 | Tiffany Ford |
+| 176 | 261 | Tom Nault |
 | 177 | 258 | Tamara Deherrera |
 | 178 | 257 | Ashley Jones |
 | 179 | 256 | KayB |
@@ -305,10 +305,10 @@
 | 297 | 149 | Angel Mendez |
 | 298 | 148 | Carrie Huskey |
 | 299 | 147 | David Bardo |
-| 300 | 146 | Ava Petito |
-| 301 | 146 | Tony Waters |
-| 302 | 145 | Funky Jumper |
-| 303 | 145 | Bryan Byrd |
+| 300 | 146 | Tony Waters |
+| 301 | 146 | Ava Petito |
+| 302 | 145 | Bryan Byrd |
+| 303 | 145 | Funky Jumper |
 | 304 | 144 | Tenisha Semidey |
 | 305 | 143 | Alice |
 | 306 | 143 | Melissa Orth Hunter |
