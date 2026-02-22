@@ -168,8 +168,8 @@
 | 160 | 895 | Jumpy Gridpiece |
 | 161 | 881 | Tanya Parsons |
 | 162 | 880 | Kristopher Miller |
-| 163 | 867 | Rosa Franklin |
-| 164 | 867 | Michele Gabriel |
+| 163 | 867 | Michele Gabriel |
+| 164 | 867 | Rosa Franklin |
 | 165 | 865 | Dedra Steward |
 | 166 | 864 | Nickole Andrews |
 | 167 | 861 | L3sli3 |
@@ -285,8 +285,8 @@
 | 277 | 576 | Ginger |
 | 278 | 572 | tejas25 |
 | 279 | 571 | Angela Bonquiqui Dinish |
-| 280 | 569 | Marie Walker |
-| 281 | 569 | Vaniel Glover |
+| 280 | 569 | Vaniel Glover |
+| 281 | 569 | Marie Walker |
 | 282 | 557 | Scott Treadway |
 | 283 | 556 | Trista Dumais |
 | 284 | 555 | Catina Hutchison |
@@ -299,8 +299,8 @@
 | 291 | 543 | Teresa Gillmore |
 | 292 | 543 | Adira Brown |
 | 293 | 537 | Cherica Taylor |
-| 294 | 535 | Paul Huber |
-| 295 | 535 | Jessie McDougald |
+| 294 | 535 | Jessie McDougald |
+| 295 | 535 | Paul Huber |
 | 296 | 531 | Chris Wanner |
 | 297 | 528 | Brownie Sheena |
 | 298 | 527 | Ryan Gunther |
@@ -334,8 +334,8 @@
 | 326 | 492 | Armonie Smith |
 | 327 | 491 | Michael Buckner |
 | 328 | 489 | Osun Anuket Esu |
-| 329 | 488 | Venita Ray |
-| 330 | 488 | Andrew Willis |
+| 329 | 488 | Andrew Willis |
+| 330 | 488 | Venita Ray |
 | 331 | 487 | MrsCandyfine As Wine Truss |
 | 332 | 483 | Alezandra Smith |
 | 333 | 482 | Eckoman518 |

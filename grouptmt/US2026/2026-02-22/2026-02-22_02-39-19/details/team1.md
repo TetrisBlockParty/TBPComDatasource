@@ -141,8 +141,8 @@
 | 133 | 216 | Shauntina Burke |
 | 134 | 216 | MRdot Rooski |
 | 135 | 214 | GATOR |
-| 136 | 212 | Jaimie Lynn |
-| 137 | 212 | Lori Bales |
+| 136 | 212 | Lori Bales |
+| 137 | 212 | Jaimie Lynn |
 | 138 | 211 | Marianita Garcia |
 | 139 | 208 | Giggly Builderline |
 | 140 | 207 | Leslie Bush Yarbrough |
@@ -200,8 +200,8 @@
 | 192 | 163 | Tyler Whitley |
 | 193 | 162 | Cece Ibarra |
 | 194 | 161 | SavageBooty98 |
-| 195 | 160 | Tedashi |
-| 196 | 160 | David Miller |
+| 195 | 160 | David Miller |
+| 196 | 160 | Tedashi |
 | 197 | 159 | Bindi |
 | 198 | 158 | Sarah Marie |
 | 199 | 154 | Melissa Lemmon |
@@ -292,7 +292,7 @@
 | 284 | 108 | Teddy Alexander |
 | 285 | 107 | Meechie |
 | 286 | 107 | Bob |
-| 287 | 107 | Meechie |
+| 287 | 107 | MIKOZ |
 | 288 | 106 | Bloknboy |
 | 289 | 105 | Eddie Dillon |
 | 290 | 105 | J.F. Fields |

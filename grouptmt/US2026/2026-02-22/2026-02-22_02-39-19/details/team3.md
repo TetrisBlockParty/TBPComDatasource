@@ -324,8 +324,8 @@
 | 316 | 149 | Alexis Taylor |
 | 317 | 147 | David Bardo |
 | 318 | 146 | Ava Petito |
-| 319 | 145 | Bryan Byrd |
-| 320 | 145 | Funky Jumper |
+| 319 | 145 | Funky Jumper |
+| 320 | 145 | Bryan Byrd |
 | 321 | 144 | Tenisha Semidey |
 | 322 | 143 | Alice |
 | 323 | 142 | Criss |
