@@ -124,8 +124,8 @@
 | 116 | 1248 | Howard Forest |
 | 117 | 1242 | Altamirano Michael |
 | 118 | 1237 | Roger Grabbit |
-| 119 | 1232 | Groovy Puzzle |
-| 120 | 1232 | Isabela Shaw |
+| 119 | 1232 | Isabela Shaw |
+| 120 | 1232 | Groovy Puzzle |
 | 121 | 1226 | Vo'Landa Reels |
 | 122 | 1216 | Kristin Ruest |
 | 123 | 1215 | Megan Garrick |
@@ -153,8 +153,8 @@
 | 145 | 1051 | Shandrica Lowe |
 | 146 | 1048 | PsychKIRAtrist |
 | 147 | 1047 | Amy Sayers |
-| 148 | 1043 | Brave Dropmatch |
-| 149 | 1043 | Suki Kaur |
+| 148 | 1043 | Suki Kaur |
+| 149 | 1043 | Brave Dropmatch |
 | 150 | 1035 | Sarah Freitas |
 | 151 | 1026 | Heather Westrum |
 | 152 | 1023 | Brainy Smurf |
@@ -426,8 +426,8 @@
 | 418 | 463 | Sue Leard |
 | 419 | 463 | Jaye EL Hunter |
 | 420 | 462 | Daphne Jordan |
-| 421 | 462 | Amanda Ferrell |
-| 422 | 462 | Tonya Lee |
+| 421 | 462 | Tonya Lee |
+| 422 | 462 | Amanda Ferrell |
 | 423 | 461 | Hong Tang |
 | 424 | 459 | Melissa Kay Gibson |
 | 425 | 458 | Casper The Chonk |
@@ -435,11 +435,11 @@
 | 427 | 453 | Joshua Sommerville |
 | 428 | 453 | Rhonda Petro |
 | 429 | 451 | Funky Caster |
-| 430 | 451 | Dylan Thomason |
-| 431 | 451 | Cody Nishimura |
-| 432 | 447 | Lourisha |
+| 430 | 451 | Cody Nishimura |
+| 431 | 451 | Dylan Thomason |
+| 432 | 447 | Brandy Andre |
 | 433 | 447 | Heather Schelkopf |
-| 434 | 447 | Brandy Andre |
+| 434 | 447 | Lourisha |
 | 435 | 445 | Mar Q Thomas |
 | 436 | 444 | Ryan Meilleur |
 | 437 | 442 | Leah |
@@ -631,8 +631,8 @@
 | 623 | 329 | Snappy Shatterfit |
 | 624 | 328 | BabyBird |
 | 625 | 328 | Jamie Carter Bierce |
-| 626 | 326 | Ann Knutson Anderson |
-| 627 | 326 | Angela Murgia-Owen |
+| 626 | 326 | Angela Murgia-Owen |
+| 627 | 326 | Ann Knutson Anderson |
 | 628 | 325 | Justin Hines |
 | 629 | 324 | Mike73 |
 | 630 | 323 | Briana Alexander |

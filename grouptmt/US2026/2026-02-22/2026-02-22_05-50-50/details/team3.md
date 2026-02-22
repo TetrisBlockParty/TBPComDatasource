@@ -114,8 +114,8 @@
 | 106 | 503 | Susan Valentino |
 | 107 | 502 | Justin Ritter |
 | 108 | 502 | Elissa S-k |
-| 109 | 500 | Domo Washington |
-| 110 | 500 | Kristie |
+| 109 | 500 | Kristie |
+| 110 | 500 | Domo Washington |
 | 111 | 497 | Mykal Burton |
 | 112 | 492 | Daira Largen |
 | 113 | 491 | Chauntee Alfrey-Cardinale |
@@ -137,21 +137,21 @@
 | 129 | 416 | Mary Pellegrino |
 | 130 | 415 | ren |
 | 131 | 411 | FuzzyNavel |
-| 132 | 410 | Stephanie Simpson |
-| 133 | 410 | Stephanie Blkpep Davidson |
+| 132 | 410 | Stephanie Blkpep Davidson |
+| 133 | 410 | Stephanie Simpson |
 | 134 | 409 | Karon Griffin |
 | 135 | 407 | Joye Sims Binion |
 | 136 | 405 | Michelle |
-| 137 | 403 | Scott Lindsay |
-| 138 | 403 | Christine Filson |
+| 137 | 403 | Christine Filson |
+| 138 | 403 | Scott Lindsay |
 | 139 | 402 | Shannon Matthew Byers |
 | 140 | 400 | Luciana Braganca Vieira |
 | 141 | 399 | Marcie Bressler |
 | 142 | 399 | Mcathen |
 | 143 | 397 | Annie Déè |
 | 144 | 396 | Aaron Pitkin |
-| 145 | 392 | Katie Knaus |
-| 146 | 392 | Tasha Gillespie |
+| 145 | 392 | Tasha Gillespie |
+| 146 | 392 | Katie Knaus |
 | 147 | 391 | Calista Jo Dickson |
 | 148 | 390 | Hasty Cascadefit |
 | 149 | 389 | Jeni Dow |
@@ -168,8 +168,8 @@
 | 160 | 362 | Darlene McMillan |
 | 161 | 359 | Dapper Snap |
 | 162 | 355 | Tessina Dewey-Mancino |
-| 163 | 353 | Shunta Jacobs |
-| 164 | 353 | CeceGeGe |
+| 163 | 353 | CeceGeGe |
+| 164 | 353 | Shunta Jacobs |
 | 165 | 352 | Chris Bell |
 | 166 | 351 | Tom Nault |
 | 167 | 348 | Chasity |
@@ -216,8 +216,8 @@
 | 208 | 276 | Crimson |
 | 209 | 275 | Cassandra Bryant |
 | 210 | 274 | Tye Stovall |
-| 211 | 272 | opf |
-| 212 | 272 | Dee Franklin |
+| 211 | 272 | Dee Franklin |
+| 212 | 272 | opf |
 | 213 | 271 | Ashley Muncey |
 | 214 | 267 | Denise Nardoni |
 | 215 | 267 | Terry Jo Jones |
@@ -752,7 +752,7 @@
 | 744 | 72 | Barbara Bennett |
 | 745 | 72 | Tony Tran |
 | 746 | 72 | Erin Marie Smith |
-| 747 | 71 | Groovy Blockclear |
+| 747 | 71 | Julia Nicole |
 | 748 | 71 | Karent524 |
 | 749 | 71 | Groovy Blockclear |
 | 750 | 71 | Introuble69 |

@@ -113,8 +113,8 @@
 | 105 | 303 | Lauren Scott |
 | 106 | 300 | Jason Hart |
 | 107 | 298 | Lucas J Sutton |
-| 108 | 296 | HastyGrabber |
-| 109 | 296 | Justin Hannigan |
+| 108 | 296 | Justin Hannigan |
+| 109 | 296 | HastyGrabber |
 | 110 | 295 | Latisha Davis |
 | 111 | 294 | Kesha Brady |
 | 112 | 290 | 🥔🥔 Spudz |
@@ -145,8 +145,8 @@
 | 137 | 230 | Autum Leigh |
 | 138 | 229 | Jolly Dashfit |
 | 139 | 228 | J-Rizzle |
-| 140 | 227 | Alyssa Papen |
-| 141 | 227 | Swanky Fitline |
+| 140 | 227 | Swanky Fitline |
+| 141 | 227 | Alyssa Papen |
 | 142 | 225 | Damn Libra |
 | 143 | 224 | Matt Summer |
 | 144 | 223 | Antony Dwayne Beasley |
@@ -170,10 +170,10 @@
 | 162 | 205 | Cursed Hag |
 | 163 | 204 | Jen Caldwell |
 | 164 | 203 | Katherine Crane |
-| 165 | 202 | TRCuse |
-| 166 | 202 | Chilly Crasher |
-| 167 | 201 | Chance Strickland |
-| 168 | 201 | Melvin Baird |
+| 165 | 202 | Chilly Crasher |
+| 166 | 202 | TRCuse |
+| 167 | 201 | Melvin Baird |
+| 168 | 201 | Chance Strickland |
 | 169 | 200 | Jeff Brian Gates |
 | 170 | 198 | Jessica Lynn Cutlip |
 | 171 | 196 | Oscar Alberto Perez |
@@ -216,9 +216,9 @@
 | 208 | 158 | Chair |
 | 209 | 158 | Avy Absol |
 | 210 | 158 | Sam Bishop |
-| 211 | 157 | scott |
-| 212 | 157 | KayM |
-| 213 | 157 | Bethany Ison |
+| 211 | 157 | Bethany Ison |
+| 212 | 157 | scott |
+| 213 | 157 | KayM |
 | 214 | 155 | AyeKay |
 | 215 | 154 | John Brunetti |
 | 216 | 153 | Empress Oasis |
@@ -335,7 +335,7 @@
 | 327 | 107 | Silly SeaWeed |
 | 328 | 106 | Jacob Richard |
 | 329 | 106 | Zappy Snaplink |
-| 330 | 105 | meowmew |
+| 330 | 105 | Zesty Linkgrid |
 | 331 | 105 | GBR |
 | 332 | 105 | meowmew |
 | 333 | 105 | Jim Hart |
