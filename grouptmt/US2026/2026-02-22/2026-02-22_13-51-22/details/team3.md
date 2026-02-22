@@ -106,15 +106,15 @@
 | 98 | 591 | Jesse Olive |
 | 99 | 588 | yoyo |
 | 100 | 585 | Giddy Drop |
-| 101 | 582 | Natasha Jones |
-| 102 | 582 | Jay Horn |
+| 101 | 582 | Jay Horn |
+| 102 | 582 | Natasha Jones |
 | 103 | 581 | Danielle Mogg |
 | 104 | 579 | Jd Morris |
 | 105 | 568 | Rachael McClain Owens |
 | 106 | 566 | Dolores Falco |
 | 107 | 565 | Patty Allen |
-| 108 | 562 | Dave Herzog |
-| 109 | 562 | Louise Stacy Sisson |
+| 108 | 562 | Louise Stacy Sisson |
+| 109 | 562 | Dave Herzog |
 | 110 | 559 | Morgan Martinez |
 | 111 | 549 | Nicole Myers |
 | 112 | 533 | Alaina Lee |
@@ -205,8 +205,8 @@
 | 197 | 338 | Gumbo |
 | 198 | 332 | Rich LeBlanc |
 | 199 | 330 | Rebecca Funderburk Kirby |
-| 200 | 324 | Sissy Lowery Davis |
-| 201 | 324 | Kristal C Lee |
+| 200 | 324 | Kristal C Lee |
+| 201 | 324 | Sissy Lowery Davis |
 | 202 | 323 | Demetrious Shaw Sr. |
 | 203 | 320 | Or Reznitsky |
 | 204 | 320 | Keis |
@@ -253,8 +253,8 @@
 | 245 | 267 | Tiffany Davie |
 | 246 | 267 | Terry Jo Jones |
 | 247 | 262 | Joe-Maggie Mathews |
-| 248 | 261 | Tiffany Ford |
-| 249 | 261 | Tasha Wesson-Torrence |
+| 248 | 261 | Tasha Wesson-Torrence |
+| 249 | 261 | Tiffany Ford |
 | 250 | 261 | Marquita Sheard |
 | 251 | 260 | Nikki Pags |
 | 252 | 260 | Grams |
@@ -349,13 +349,13 @@
 | 341 | 186 | Bryan Byrd |
 | 342 | 186 | Sameerah Smith |
 | 343 | 185 | Angella Lyons |
-| 344 | 184 | Shanon R Jackson |
-| 345 | 184 | Troy |
+| 344 | 184 | Troy |
+| 345 | 184 | Shanon R Jackson |
 | 346 | 183 | Salena Whitlock |
 | 347 | 183 | Cesar Barraza |
 | 348 | 182 | gremicx |
-| 349 | 181 | Denita Mungro |
-| 350 | 181 | Michael Johnson |
+| 349 | 181 | Michael Johnson |
+| 350 | 181 | Denita Mungro |
 | 351 | 180 | Beth Ingham |
 | 352 | 179 | DanceLuvLaugh |
 | 353 | 179 | Rachel Napper |

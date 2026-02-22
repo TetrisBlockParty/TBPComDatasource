@@ -254,8 +254,8 @@
 | 246 | 808 | Wakanda Forever |
 | 247 | 807 | Khalil Lowe |
 | 248 | 803 | Barbra Miller |
-| 249 | 801 | Debra Williams |
-| 250 | 801 | Ashlen Dorrell |
+| 249 | 801 | Ashlen Dorrell |
+| 250 | 801 | Debra Williams |
 | 251 | 800 | Danielle Johnson-Chandler |
 | 252 | 792 | Andrea Maher |
 | 253 | 787 | Laura McCarthey |

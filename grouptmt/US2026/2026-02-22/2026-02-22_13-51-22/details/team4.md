@@ -242,8 +242,8 @@
 | 234 | 174 | JPW |
 | 235 | 173 | Rebecca Morris |
 | 236 | 172 | Gilles Lanctot |
-| 237 | 171 | June Hoffman |
-| 238 | 171 | Autumn Kumzi |
+| 237 | 171 | Autumn Kumzi |
+| 238 | 171 | June Hoffman |
 | 239 | 169 | April Rondinone |
 | 240 | 169 | AyeKay |
 | 241 | 169 | Snippy Puzzle |
@@ -371,8 +371,8 @@
 | 363 | 117 | Gracie Ann Taylor |
 | 364 | 117 | PennyCandee |
 | 365 | 117 | BigSammy420 |
-| 366 | 116 | Smiley Shifter |
-| 367 | 116 | Kate |
+| 366 | 116 | Kate |
+| 367 | 116 | Smiley Shifter |
 | 368 | 116 | Bradley Reeves |
 | 369 | 115 | Tony Pavelka |
 | 370 | 115 | Jayk |
