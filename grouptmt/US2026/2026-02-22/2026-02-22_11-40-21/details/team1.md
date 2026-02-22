@@ -138,14 +138,14 @@
 | 130 | 284 | Rachael |
 | 131 | 284 | Emily Adelaide Wheatley |
 | 132 | 283 | Franswa |
-| 133 | 282 | Timothy Dew |
-| 134 | 282 | Cool Shiftsnap |
-| 135 | 282 | Snippy Wipebuilder |
+| 133 | 282 | Snippy Wipebuilder |
+| 134 | 282 | Timothy Dew |
+| 135 | 282 | Cool Shiftsnap |
 | 136 | 280 | Sarah Roberts |
 | 137 | 276 | Dandy Basegrid |
 | 138 | 274 | Tyler Werts |
-| 139 | 270 | Mandyy Rae |
-| 140 | 270 | Ash Galvan |
+| 139 | 270 | Ash Galvan |
+| 140 | 270 | Mandyy Rae |
 | 141 | 268 | GATOR |
 | 142 | 266 | Dizzy Party |
 | 143 | 265 | Nutty Spinblock |
@@ -200,8 +200,8 @@
 | 192 | 205 | Snappy Matcher |
 | 193 | 205 | Tater |
 | 194 | 204 | Lacy Wolfe |
-| 195 | 203 | Paula Martin |
-| 196 | 203 | LaFontaine Leslie |
+| 195 | 203 | LaFontaine Leslie |
+| 196 | 203 | Paula Martin |
 | 197 | 202 | Amanda Holibaugh |
 | 198 | 201 | Colleen Wise |
 | 199 | 200 | Breanna Luna |
@@ -236,8 +236,8 @@
 | 228 | 180 | Jessie Lynn |
 | 229 | 180 | Beau Galvan |
 | 230 | 179 | Danielle Little-Daugherty |
-| 231 | 179 | Erin Rosberg |
-| 232 | 179 | femmefatale |
+| 231 | 179 | femmefatale |
+| 232 | 179 | Erin Rosberg |
 | 233 | 178 | Chad Atchley |
 | 234 | 177 | Jacqueline Unique |
 | 235 | 177 | Sarah Marie |
@@ -257,8 +257,8 @@
 | 249 | 169 | Abbey Crespo |
 | 250 | 168 | Angela Fairbank |
 | 251 | 168 | Amber Stoker |
-| 252 | 167 | Nery Martinez |
-| 253 | 167 | Cranky Pattern |
+| 252 | 167 | Cranky Pattern |
+| 253 | 167 | Nery Martinez |
 | 254 | 166 | Carrie Smith |
 | 255 | 165 | Nadine Velardo |
 | 256 | 165 | Silly Align |
@@ -270,8 +270,8 @@
 | 262 | 160 | Tedashi |
 | 263 | 159 | Uhog SF |
 | 264 | 159 | Amber Dee |
-| 265 | 156 | Mark Smith |
-| 266 | 156 | Spunky Builderpiece |
+| 265 | 156 | Spunky Builderpiece |
+| 266 | 156 | Mark Smith |
 | 267 | 155 | Barry Mac'Ockner |
 | 268 | 154 | Melissa Lemmon |
 | 269 | 154 | Gary Gobin |
@@ -283,8 +283,8 @@
 | 275 | 152 | Tavia |
 | 276 | 151 | Bruce Cruz |
 | 277 | 151 | Gilbert Ortiz Jr. |
-| 278 | 150 | Agustin Duarte Orozco |
-| 279 | 150 | Adele Rahman |
+| 278 | 150 | Adele Rahman |
+| 279 | 150 | Agustin Duarte Orozco |
 | 280 | 149 | Jessica Russell |
 | 281 | 148 | Howdi Duty |
 | 282 | 147 | J.F. Fields |
@@ -325,8 +325,8 @@
 | 317 | 130 | Carl Claunch |
 | 318 | 129 | Madison Wicks |
 | 319 | 129 | Sherri E Woods Hess |
-| 320 | 128 | Alyssa Ingram |
-| 321 | 128 | George Dalton |
+| 320 | 128 | George Dalton |
+| 321 | 128 | Alyssa Ingram |
 | 322 | 127 | Danielle Mae |
 | 323 | 126 | Zany Tiler |
 | 324 | 126 | Tyler Hertzog |

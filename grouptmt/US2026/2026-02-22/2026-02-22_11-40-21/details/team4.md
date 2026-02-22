@@ -128,8 +128,8 @@
 | 120 | 303 | Lauren Scott |
 | 121 | 300 | Jason Hart |
 | 122 | 298 | Lucas J Sutton |
-| 123 | 296 | Justin Hannigan |
-| 124 | 296 | HastyGrabber |
+| 123 | 296 | HastyGrabber |
+| 124 | 296 | Justin Hannigan |
 | 125 | 294 | Kesha Brady |
 | 126 | 290 | 🥔🥔 Spudz |
 | 127 | 289 | Jessica Lynn Cutlip |
@@ -146,9 +146,9 @@
 | 138 | 274 | Calvin Cannon |
 | 139 | 272 | Keshia Lyons |
 | 140 | 271 | Sarah Brown |
-| 141 | 264 | Epic Curvetile |
-| 142 | 264 | Dana Scott |
-| 143 | 264 | Girl |
+| 141 | 264 | Dana Scott |
+| 142 | 264 | Girl |
+| 143 | 264 | Epic Curvetile |
 | 144 | 262 | Holly Jolly |
 | 145 | 258 | Bio Nelly |
 | 146 | 256 | Mylo Lipscomb |
@@ -165,8 +165,8 @@
 | 157 | 230 | Autum Leigh |
 | 158 | 230 | Cursed Hag |
 | 159 | 228 | J-Rizzle |
-| 160 | 227 | Alyssa Papen |
-| 161 | 227 | Swanky Fitline |
+| 160 | 227 | Swanky Fitline |
+| 161 | 227 | Alyssa Papen |
 | 162 | 225 | Damn Libra |
 | 163 | 224 | Matt Summer |
 | 164 | 223 | Kris Bartlett |
@@ -269,8 +269,8 @@
 | 261 | 145 | Sandra Safford |
 | 262 | 145 | Mimi |
 | 263 | 144 | Sticherella |
-| 264 | 143 | Zesty Twistbuilder |
-| 265 | 143 | Dennis Bradley |
+| 264 | 143 | Dennis Bradley |
+| 265 | 143 | Lauren Lamb |
 | 266 | 143 | Asher |
 | 267 | 143 | Zesty Twistbuilder |
 | 268 | 143 | Daresha Fair |
@@ -396,9 +396,9 @@
 | 388 | 106 | Jacob Richard |
 | 389 | 106 | Nick Horn |
 | 390 | 105 | meowmew |
-| 391 | 105 | Linda Alexander Downing |
+| 391 | 105 | Zesty Linkgrid |
 | 392 | 105 | GBR |
-| 393 | 105 | Zesty Linkgrid |
+| 393 | 105 | Linda Alexander Downing |
 | 394 | 105 | Michelle Parker |
 | 395 | 104 | Cranky Rollpiece |
 | 396 | 104 | Jessica Johnston |

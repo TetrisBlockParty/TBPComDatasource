@@ -142,8 +142,8 @@
 | 134 | 457 | Jim Mathews |
 | 135 | 454 | Makelini Mausia |
 | 136 | 449 | Danielle Rhoades |
-| 137 | 445 | Kristie McFarland |
-| 138 | 445 | Jacqueline Rodriguez |
+| 137 | 445 | Jacqueline Rodriguez |
+| 138 | 445 | Kristie McFarland |
 | 139 | 435 | Michelle |
 | 140 | 432 | Jenny Hrndz |
 | 141 | 428 | Betty Ivy |
@@ -185,8 +185,8 @@
 | 177 | 359 | Dapper Snap |
 | 178 | 358 | RickyG |
 | 179 | 358 | Chummy Caster |
-| 180 | 357 | Stephanie Burtin |
-| 181 | 357 | Tom Nault |
+| 180 | 357 | Tom Nault |
+| 181 | 357 | Stephanie Burtin |
 | 182 | 355 | Tessina Dewey-Mancino |
 | 183 | 353 | Shunta Jacobs |
 | 184 | 353 | Nora Rogers |
@@ -217,10 +217,10 @@
 | 209 | 301 | Chelsea Hall |
 | 210 | 300 | Sherika C. McDaniels |
 | 211 | 298 | MsBee |
-| 212 | 297 | Jojo M |
-| 213 | 297 | Keis |
-| 214 | 296 | Ammmmmmy |
-| 215 | 296 | Katrina Turner |
+| 212 | 297 | Keis |
+| 213 | 297 | Jojo M |
+| 214 | 296 | Katrina Turner |
+| 215 | 296 | Ammmmmmy |
 | 216 | 296 | Brandon Givens |
 | 217 | 295 | Marci Mize Fandrich |
 | 218 | 291 | Kristal C Lee |
@@ -229,8 +229,8 @@
 | 221 | 289 | Hoppy Buildout |
 | 222 | 286 | Cynthia Herrmann Egland |
 | 223 | 284 | Denise Nardoni |
-| 224 | 283 | Charles Perrone |
-| 225 | 283 | Cheeky Snapper |
+| 224 | 283 | Cheeky Snapper |
+| 225 | 283 | Charles Perrone |
 | 226 | 281 | Betty Rosas |
 | 227 | 281 | Valerie Gendron |
 | 228 | 278 | Sabrina Hardrick |
@@ -251,8 +251,8 @@
 | 243 | 262 | Joe-Maggie Mathews |
 | 244 | 261 | Tasha Wesson-Torrence |
 | 245 | 261 | Tiffany Ford |
-| 246 | 261 | Marquita Sheard |
-| 247 | 261 | Carrie Huskey |
+| 246 | 261 | Carrie Huskey |
+| 247 | 261 | Marquita Sheard |
 | 248 | 260 | Grams |
 | 249 | 259 | Danielle Weikel |
 | 250 | 257 | Ashley Jones |
@@ -282,13 +282,13 @@
 | 274 | 225 | Steffi Chris Dacones |
 | 275 | 224 | Quirky Dropzone |
 | 276 | 221 | Vaners |
-| 277 | 221 | Alice |
-| 278 | 221 | Jaime Monhaut-Reed |
-| 279 | 220 | Tosha Griffey |
-| 280 | 220 | rosy |
+| 277 | 221 | Jaime Monhaut-Reed |
+| 278 | 221 | Alice |
+| 279 | 220 | rosy |
+| 280 | 220 | Tosha Griffey |
 | 281 | 218 | Michael Lucado |
-| 282 | 216 | Cheryl Hinch Tenbrook |
-| 283 | 216 | Twisty Brick LT |
+| 282 | 216 | Twisty Brick LT |
+| 283 | 216 | Cheryl Hinch Tenbrook |
 | 284 | 215 | IamJust Neyamijah Washington Sr. |
 | 285 | 214 | Angela Scott |
 | 286 | 214 | Amy Fuller Heaton |
@@ -336,14 +336,14 @@
 | 328 | 186 | Bryan Byrd |
 | 329 | 186 | Sameerah Smith |
 | 330 | 184 | Troy |
-| 331 | 183 | Cesar Barraza |
-| 332 | 183 | Salena Whitlock |
+| 331 | 183 | Salena Whitlock |
+| 332 | 183 | Cesar Barraza |
 | 333 | 182 | Melanie Sherwood |
 | 334 | 181 | Denita Mungro |
 | 335 | 180 | Beth Ingham |
 | 336 | 179 | Christian Werndl |
-| 337 | 179 | DanceLuvLaugh |
-| 338 | 179 | Rachel Napper |
+| 337 | 179 | Rachel Napper |
+| 338 | 179 | DanceLuvLaugh |
 | 339 | 178 | Jess Dearborn |
 | 340 | 178 | Jennifer Alvey |
 | 341 | 177 | Kristin Delibac Corrigan |
@@ -357,8 +357,8 @@
 | 349 | 170 | Tina Smith Roy |
 | 350 | 170 | Colleen Phelps |
 | 351 | 169 | Peachy Rollfit |
-| 352 | 168 | April Matthew Kibble |
-| 353 | 168 | Trice Thomas |
+| 352 | 168 | Trice Thomas |
+| 353 | 168 | April Matthew Kibble |
 | 354 | 167 | Shicken Nuggit |
 | 355 | 167 | Irene Arreguin |
 | 356 | 166 | Noettín Kan Zasnemoore |
@@ -369,8 +369,8 @@
 | 361 | 165 | Rainbow77375 |
 | 362 | 164 | Ashley Rufus Bythcez |
 | 363 | 164 | momo |
-| 364 | 163 | Christine Trester |
-| 365 | 163 | Diana Ibarra |
+| 364 | 163 | Diana Ibarra |
+| 365 | 163 | Christine Trester |
 | 366 | 163 | Ava Petito |
 | 367 | 162 | Eric Caccavale |
 | 368 | 162 | Loopy Fallzone |
@@ -386,7 +386,7 @@
 | 378 | 158 | Willow |
 | 379 | 158 | FATTY |
 | 380 | 157 | Miranda Taylor |
-| 381 | 157 | Kevin Fountain |
+| 381 | 157 | Angel Mendez |
 | 382 | 157 | Wetwet |
 | 383 | 157 | Kevin Fountain |
 | 384 | 157 | Katrina E Jelks |
@@ -888,7 +888,7 @@
 | 880 | 70 | Nyla |
 | 881 | 70 | Tammi-Jo DeMars |
 | 882 | 70 | Ruggergamer1 |
-| 883 | 70 | Lazy Matchfit |
+| 883 | 70 | Noel Hill Hoose |
 | 884 | 70 | Amanda Brooke |
 | 885 | 70 | Lazy Matchfit |
 | 886 | 69 | Stitchmom |
