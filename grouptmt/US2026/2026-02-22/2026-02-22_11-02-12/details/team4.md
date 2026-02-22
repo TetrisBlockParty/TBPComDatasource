@@ -49,8 +49,8 @@
 | 41 | 757 | Ancient Intuition |
 | 42 | 747 | BertMofo |
 | 43 | 736 | Goatimus Lombardi |
-| 44 | 707 | Clarence Patawaran |
-| 45 | 707 | Rachel Anne |
+| 44 | 707 | Rachel Anne |
+| 45 | 707 | Clarence Patawaran |
 | 46 | 704 | Crystal Carroll |
 | 47 | 698 | Anthony Bryan Riva |
 | 48 | 697 | Edward White |
@@ -62,8 +62,8 @@
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Dustee Craddock-Harrison |
-| 58 | 636 | Kimyatta Cavin |
+| 57 | 636 | Kimyatta Cavin |
+| 58 | 636 | Dustee Craddock-Harrison |
 | 59 | 623 | Robin Getchel |
 | 60 | 599 | Brittney Griggs |
 | 61 | 593 | Lisa Davis |
@@ -83,8 +83,8 @@
 | 75 | 512 | Casey Jeffcoat |
 | 76 | 511 | Michelle Marie |
 | 77 | 500 | Rodney McMath Jr. |
-| 78 | 486 | Carmethia Clemons Haslerig |
-| 79 | 486 | Landon Keith Graffeo |
+| 78 | 486 | Landon Keith Graffeo |
+| 79 | 486 | Carmethia Clemons Haslerig |
 | 80 | 485 | TeeJ |
 | 81 | 468 | Shane Kalamata Platoon |
 | 82 | 447 | Samantha Peterson |
@@ -127,14 +127,14 @@
 | 119 | 303 | Lauren Scott |
 | 120 | 300 | Jason Hart |
 | 121 | 298 | Lucas J Sutton |
-| 122 | 296 | Justin Hannigan |
-| 123 | 296 | HastyGrabber |
+| 122 | 296 | HastyGrabber |
+| 123 | 296 | Justin Hannigan |
 | 124 | 294 | Kesha Brady |
 | 125 | 291 | Andy Cabral |
 | 126 | 290 | 🥔🥔 Spudz |
 | 127 | 287 | Shannon Ferrari |
-| 128 | 286 | Daria Rycewicz |
-| 129 | 286 | shark tato |
+| 128 | 286 | shark tato |
+| 129 | 286 | Daria Rycewicz |
 | 130 | 283 | Brittney Orengo |
 | 131 | 281 | Meagan Nicole |
 | 132 | 278 | Carrie Brian |
@@ -145,8 +145,8 @@
 | 137 | 274 | Calvin Cannon |
 | 138 | 272 | Keshia Lyons |
 | 139 | 271 | Sarah Brown |
-| 140 | 264 | Dana Scott |
-| 141 | 264 | Epic Curvetile |
+| 140 | 264 | Epic Curvetile |
+| 141 | 264 | Dana Scott |
 | 142 | 264 | Girl |
 | 143 | 262 | Holly Jolly |
 | 144 | 258 | Bio Nelly |
@@ -163,8 +163,8 @@
 | 155 | 230 | Autum Leigh |
 | 156 | 230 | Cursed Hag |
 | 157 | 228 | J-Rizzle |
-| 158 | 227 | Alyssa Papen |
-| 159 | 227 | Swanky Fitline |
+| 158 | 227 | Swanky Fitline |
+| 159 | 227 | Alyssa Papen |
 | 160 | 225 | Damn Libra |
 | 161 | 224 | Matt Summer |
 | 162 | 223 | Kris Bartlett |
@@ -218,8 +218,8 @@
 | 210 | 179 | TinyLegoRose |
 | 211 | 179 | blockstar |
 | 212 | 175 | Lorena Guerrero-Barron |
-| 213 | 174 | Rio Rocha |
-| 214 | 174 | JPW |
+| 213 | 174 | JPW |
+| 214 | 174 | Rio Rocha |
 | 215 | 172 | Gilles Lanctot |
 | 216 | 171 | Autumn Kumzi |
 | 217 | 168 | Lindsey Gonzalez |
@@ -870,7 +870,7 @@
 | 862 | 38 | Norman Klick |
 | 863 | 38 | Mrsjcraw18 |
 | 864 | 38 | Milly Johnson |
-| 865 | 38 | Norman Klick |
+| 865 | 38 | Bold Buildsnap |
 | 866 | 37 | Tipsy Zonepiece |
 | 867 | 37 | Francis Fleurant |
 | 868 | 37 | Becky Irby |

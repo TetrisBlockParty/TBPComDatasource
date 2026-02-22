@@ -287,16 +287,16 @@
 | 279 | 713 | Chelle |
 | 280 | 704 | Shelley Thornburgh Wright |
 | 281 | 703 | Gold Rose |
-| 282 | 700 | Vincent Petrella |
-| 283 | 700 | Hong Tang |
-| 284 | 700 | Beverly Owens |
-| 285 | 700 | Rosemadder |
+| 282 | 700 | Hong Tang |
+| 283 | 700 | Vincent Petrella |
+| 284 | 700 | Rosemadder |
+| 285 | 700 | Beverly Owens |
 | 286 | 698 | Mighty Shatterfit |
 | 287 | 697 | Dreamy Blast |
 | 288 | 696 | Kathryn Townsley |
 | 289 | 695 | Lakeysha Dortch |
-| 290 | 692 | Jennifer Casey-Kay |
-| 291 | 692 | Dannette Goldberg-Richards |
+| 290 | 692 | Dannette Goldberg-Richards |
+| 291 | 692 | Jennifer Casey-Kay |
 | 292 | 690 | Deborah Miller |
 | 293 | 689 | Giggy Blocker |
 | 294 | 688 | ShinyRose |
@@ -328,8 +328,8 @@
 | 320 | 650 | Shiny Rollzone |
 | 321 | 645 | tejas25 |
 | 322 | 643 | Hoppy Brickmatch |
-| 323 | 641 | Angie Bolton Workman |
-| 324 | 641 | Joce Lynn |
+| 323 | 641 | Joce Lynn |
+| 324 | 641 | Angie Bolton Workman |
 | 325 | 640 | BYM4L |
 | 326 | 639 | Crystie Hicks |
 | 327 | 639 | Rebecca Miller |
@@ -362,8 +362,8 @@
 | 354 | 584 | Ginnell Browner |
 | 355 | 582 | Gary Stash |
 | 356 | 581 | Jerry Tempelmeyer |
-| 357 | 579 | Jackie Avila |
-| 358 | 579 | AgileDragon |
+| 357 | 579 | AgileDragon |
+| 358 | 579 | Jackie Avila |
 | 359 | 579 | Roy Salyer |
 | 360 | 576 | Leslie Johnson Guinto |
 | 361 | 572 | Chris Wanner |
@@ -588,15 +588,15 @@
 | 580 | 390 | Joice Hansen |
 | 581 | 389 | Alexis Richardson |
 | 582 | 389 | Kayla |
-| 583 | 389 | Alexis Richardson |
+| 583 | 389 | Julie Hamilton |
 | 584 | 388 | Christina Ashley |
 | 585 | 387 | Misti Markijohn |
 | 586 | 387 | Bold Brickster |
 | 587 | 386 | Michael Artis |
 | 588 | 386 | Wuntayk |
 | 589 | 385 | Tansaria Couch-Butler |
-| 590 | 384 | Kelly |
-| 591 | 384 | Party d |
+| 590 | 384 | Party d |
+| 591 | 384 | Kelly |
 | 592 | 383 | Belle Mari |
 | 593 | 382 | David Holliday |
 | 594 | 382 | Amber Gray |
@@ -613,8 +613,8 @@
 | 605 | 376 | Darlene Bowman |
 | 606 | 375 | Cecilia A Jenkins |
 | 607 | 375 | Lively Edgepiece |
-| 608 | 373 | Jessica Hughes |
-| 609 | 373 | Hunter Connors |
+| 608 | 373 | Hunter Connors |
+| 609 | 373 | Jessica Hughes |
 | 610 | 373 | Ashley Marie |
 | 611 | 372 | Ebony Deloach Bryant |
 | 612 | 371 | Brenda Messer |
@@ -684,8 +684,8 @@
 | 676 | 337 | Tum |
 | 677 | 337 | Diallo Sparkman |
 | 678 | 337 | Savannah Alexander |
-| 679 | 336 | Austin Wilson |
-| 680 | 336 | bru |
+| 679 | 336 | bru |
+| 680 | 336 | Austin Wilson |
 | 681 | 336 | Swanky Columnbuilder |
 | 682 | 335 | Brooke Leigh Strube |
 | 683 | 335 | Maria Louise |
@@ -732,8 +732,8 @@
 | 724 | 311 | Megan Phillips |
 | 725 | 310 | Wendy Ducheney |
 | 726 | 310 | Cheeky Brickmatch |
-| 727 | 310 | Audra Williams |
-| 728 | 310 | Beth Decker |
+| 727 | 310 | Beth Decker |
+| 728 | 310 | Audra Williams |
 | 729 | 309 | Byung Bae Park |
 | 730 | 308 | Prado |
 | 731 | 308 | Hyper Riseclear |
@@ -750,8 +750,8 @@
 | 742 | 304 | Melissa McCall |
 | 743 | 304 | James Smith |
 | 744 | 303 | Angie Marie |
-| 745 | 303 | Devin |
-| 746 | 303 | Amanda Schaffer |
+| 745 | 303 | Amanda Schaffer |
+| 746 | 303 | Devin |
 | 747 | 302 | Kena T. Tanner |
 | 748 | 302 | Maxwell Escalera |
 | 749 | 300 | Alice Ball |
@@ -977,8 +977,8 @@
 | 969 | 235 | Prince Ajesh |
 | 970 | 235 | Loopy Shatterfit |
 | 971 | 234 | Nikki Arlene |
-| 972 | 234 | Trina Harrison |
-| 973 | 234 | Joanna L. Abad |
+| 972 | 234 | Joanna L. Abad |
+| 973 | 234 | Trina Harrison |
 | 974 | 234 | Synn |
 | 975 | 234 | Lonnie Brown |
 | 976 | 234 | Jannan Haimour |
@@ -989,8 +989,8 @@
 | 981 | 233 | Andrew Engman |
 | 982 | 232 | Chirpy Snapper |
 | 983 | 232 | P. D. Paige |
-| 984 | 231 | Michelle Fleming Luna |
-| 985 | 231 | Vung Nguyen |
+| 984 | 231 | Vung Nguyen |
+| 985 | 231 | Michelle Fleming Luna |
 | 986 | 231 | Stanley Vanekelenburg |
 | 987 | 230 | lady |
 | 988 | 230 | Laura Mcfee |
@@ -1016,11 +1016,11 @@
 | 1008 | 226 | Anthony D Gritz Jr |
 | 1009 | 226 | Kourtney Bradley |
 | 1010 | 225 | Theresa Ring |
-| 1011 | 225 | Caitlin Johnson |
+| 1011 | 225 | Tyler C. Jung |
 | 1012 | 225 | Samantha Morgan |
 | 1013 | 225 | Caitlin Johnson |
-| 1014 | 225 | Anastacio Hernandez |
-| 1015 | 225 | Quiksilver |
+| 1014 | 225 | Quiksilver |
+| 1015 | 225 | Anastacio Hernandez |
 | 1016 | 224 | Wil Allen |
 | 1017 | 224 | Joann |
 | 1018 | 224 | Emily Valentine |
@@ -1039,8 +1039,8 @@
 | 1031 | 223 | Erin Garlanger |
 | 1032 | 222 | Angel Moorhead |
 | 1033 | 222 | Lovely |
-| 1034 | 222 | Crystal Herndon |
-| 1035 | 222 | Wacky Edgefit |
+| 1034 | 222 | Wacky Edgefit |
+| 1035 | 222 | Crystal Herndon |
 | 1036 | 222 | Daring Lift |
 | 1037 | 220 | Amy Reynolds |
 | 1038 | 220 | Sandra McNab |
@@ -1050,8 +1050,8 @@
 | 1042 | 219 | Jenn Morin |
 | 1043 | 219 | Kimberly Ashley-Stevens |
 | 1044 | 219 | Cathy Bitters |
-| 1045 | 218 | Shea Edison |
-| 1046 | 218 | Clever Dashgrid |
+| 1045 | 218 | Clever Dashgrid |
+| 1046 | 218 | Shea Edison |
 | 1047 | 217 | Wedance Fong |
 | 1048 | 217 | Kyane Johnson |
 | 1049 | 217 | Erika Meaux |
@@ -1360,8 +1360,8 @@
 | 1352 | 170 | Tigro Ace |
 | 1353 | 170 | Wayne Hayward |
 | 1354 | 169 | Jamie Frank Karolyi |
-| 1355 | 169 | Jaci Marie |
-| 1356 | 169 | Micky |
+| 1355 | 169 | Micky |
+| 1356 | 169 | Jaci Marie |
 | 1357 | 169 | Christy Green |
 | 1358 | 169 | Zappy Stackbuilder |
 | 1359 | 169 | Ubu |

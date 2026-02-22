@@ -126,8 +126,8 @@
 | 118 | 316 | Ly Phethmany |
 | 119 | 316 | Jennifer Hardman |
 | 120 | 313 | Tanya Carpenter-Reynolds |
-| 121 | 310 | Jason Jones |
-| 122 | 310 | Seth Wesson |
+| 121 | 310 | Seth Wesson |
+| 122 | 310 | Jason Jones |
 | 123 | 306 | Happy Basegrid |
 | 124 | 304 | Nicole Roseberry Weber |
 | 125 | 301 | Lehrin Maria |
@@ -138,8 +138,8 @@
 | 130 | 284 | Rachael |
 | 131 | 283 | Franswa |
 | 132 | 282 | Timothy Dew |
-| 133 | 282 | Snippy Wipebuilder |
-| 134 | 282 | Cool Shiftsnap |
+| 133 | 282 | Cool Shiftsnap |
+| 134 | 282 | Snippy Wipebuilder |
 | 135 | 280 | Sarah Roberts |
 | 136 | 276 | Dandy Basegrid |
 | 137 | 274 | Tyler Werts |
@@ -186,14 +186,14 @@
 | 178 | 210 | Giggly Builderline |
 | 179 | 210 | Letson Melissa |
 | 180 | 209 | Debbie Davis |
-| 181 | 208 | Bouncy Grid |
-| 182 | 208 | Donna Addison Williams |
+| 181 | 208 | Donna Addison Williams |
+| 182 | 208 | Bouncy Grid |
 | 183 | 207 | Leslie Bush Yarbrough |
 | 184 | 207 | Brenda Alexander |
 | 185 | 206 | BadG52 |
-| 186 | 205 | Mike Ames |
+| 186 | 205 | Snappy Matcher |
 | 187 | 205 | Tater |
-| 188 | 205 | Snappy Matcher |
+| 188 | 205 | Mike Ames |
 | 189 | 204 | Lacy Wolfe |
 | 190 | 203 | LaFontaine Leslie |
 | 191 | 203 | Paula Martin |
@@ -236,9 +236,9 @@
 | 228 | 179 | femmefatale |
 | 229 | 179 | Erin Rosberg |
 | 230 | 178 | Chad Atchley |
-| 231 | 177 | Irual Hctrab |
-| 232 | 177 | Perky Shiftsnap |
-| 233 | 177 | Jacqueline Unique |
+| 231 | 177 | Perky Shiftsnap |
+| 232 | 177 | Jacqueline Unique |
+| 233 | 177 | Irual Hctrab |
 | 234 | 176 | Mel Hogan |
 | 235 | 176 | Lakeisha Chapman |
 | 236 | 175 | John Barron |
@@ -406,8 +406,8 @@
 | 398 | 99 | Brandy Ann |
 | 399 | 98 | Alfredo Vasquez |
 | 400 | 98 | Kirk Torrey |
-| 401 | 97 | Edgar Algiere |
-| 402 | 97 | Steve Bomkamp |
+| 401 | 97 | Steve Bomkamp |
+| 402 | 97 | Edgar Algiere |
 | 403 | 96 | Teri Oehlke |
 | 404 | 96 | Lisa Marie |
 | 405 | 95 | Quirky Pusher |
