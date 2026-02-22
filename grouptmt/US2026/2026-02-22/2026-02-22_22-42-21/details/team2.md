@@ -361,8 +361,8 @@
 | 353 | 743 | Tiara Elizabeth Baker |
 | 354 | 741 | Mandi Douglas Hilt |
 | 355 | 740 | Jerry Tempelmeyer |
-| 356 | 739 | Jánine Riggs |
-| 357 | 739 | Brenda Utphall |
+| 356 | 739 | Brenda Utphall |
+| 357 | 739 | Jánine Riggs |
 | 358 | 738 | Aimee Campbell |
 | 359 | 737 | Jeremy Parodi |
 | 360 | 737 | Ginger |
@@ -370,8 +370,8 @@
 | 362 | 732 | Stephanie Lumanlan |
 | 363 | 728 | Dylan Thomason |
 | 364 | 728 | Tom Riefer |
-| 365 | 725 | Vonceial Boone |
-| 366 | 725 | Charvi' Carter |
+| 365 | 725 | Charvi' Carter |
+| 366 | 725 | Vonceial Boone |
 | 367 | 724 | Melissa Holsinger |
 | 368 | 724 | Dreamy Blast |
 | 369 | 724 | Allan Wayne Lamia |
@@ -548,8 +548,8 @@
 | 540 | 509 | Jordan Kaiser |
 | 541 | 509 | Kelli Wells |
 | 542 | 507 | Daniell Martinez |
-| 543 | 506 | Venita Ray |
-| 544 | 506 | James Louie |
+| 543 | 506 | James Louie |
+| 544 | 506 | Venita Ray |
 | 545 | 505 | Casey Schumacher |
 | 546 | 500 | Tash Bell |
 | 547 | 497 | June E Hanson |
@@ -570,10 +570,10 @@
 | 562 | 488 | Funky Caster |
 | 563 | 488 | Skyler Morgan |
 | 564 | 488 | Christina Wsn |
-| 565 | 487 | Morgan Easter |
-| 566 | 487 | Daphne Jordan |
-| 567 | 486 | Amanda Ferrell |
-| 568 | 486 | Rhonda Petro |
+| 565 | 487 | Daphne Jordan |
+| 566 | 487 | Morgan Easter |
+| 567 | 486 | Rhonda Petro |
+| 568 | 486 | Amanda Ferrell |
 | 569 | 485 | Mamachelle Eisweirth |
 | 570 | 485 | Klee |
 | 571 | 484 | Wendy Unsain |
@@ -582,8 +582,8 @@
 | 574 | 483 | Kyle LeRoy Harris |
 | 575 | 482 | Drwatson187 |
 | 576 | 482 | Kathleen Driskell |
-| 577 | 482 | Lina Sanders |
-| 578 | 482 | Amélie Cadieux |
+| 577 | 482 | Amélie Cadieux |
+| 578 | 482 | Lina Sanders |
 | 579 | 480 | Ryan Meilleur |
 | 580 | 480 | Brandon Jones |
 | 581 | 480 | Dar |
@@ -642,8 +642,8 @@
 | 634 | 447 | Boozi |
 | 635 | 446 | NanDa Cruzan VI |
 | 636 | 445 | Sharon Mills |
-| 637 | 445 | Mar Q Thomas |
-| 638 | 445 | Michelle Sager |
+| 637 | 445 | Michelle Sager |
+| 638 | 445 | Mar Q Thomas |
 | 639 | 444 | Chab |
 | 640 | 444 | Fi Ne |
 | 641 | 444 | Angela Murgia-Owen |

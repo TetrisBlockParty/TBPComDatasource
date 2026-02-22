@@ -109,8 +109,8 @@
 | 101 | 512 | Diana Houts |
 | 102 | 510 | Scott Jameson |
 | 103 | 500 | Rodney McMath Jr. |
-| 104 | 499 | Trista Leah |
-| 105 | 499 | Christina LR |
+| 104 | 499 | Christina LR |
+| 105 | 499 | Trista Leah |
 | 106 | 488 | Jen Allison |
 | 107 | 487 | Alyssa Papen |
 | 108 | 483 | shar |
@@ -133,8 +133,8 @@
 | 125 | 409 | Marie-Pier Desjardins |
 | 126 | 408 | Amanda Pauldo-Ivy |
 | 127 | 400 | Ericca Eldridge |
-| 128 | 393 | Carlton Unfiltered |
-| 129 | 393 | Trish |
+| 128 | 393 | Trish |
+| 129 | 393 | Carlton Unfiltered |
 | 130 | 392 | Cristy Duerksen |
 | 131 | 391 | Ramel Rhodes |
 | 132 | 391 | Lush Linkfall |
@@ -194,8 +194,8 @@
 | 186 | 286 | Brittney Orengo |
 | 187 | 282 | Sue Joyce Staats |
 | 188 | 281 | Laura |
-| 189 | 277 | Mary Ann Pabukis |
-| 190 | 277 | Kim Klutz Olson |
+| 189 | 277 | Kim Klutz Olson |
+| 190 | 277 | Mary Ann Pabukis |
 | 191 | 276 | Joeliecea Cobb |
 | 192 | 273 | Jamie Gustafson |
 | 193 | 272 | Dennis Bradley |
