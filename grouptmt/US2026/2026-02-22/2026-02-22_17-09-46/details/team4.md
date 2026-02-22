@@ -17,8 +17,8 @@
 | 9 | 1835 | East Mamba |
 | 10 | 1775 | Ash |
 | 11 | 1676 | Ayanna Soto |
-| 12 | 1447 | GreenJeepGirl |
-| 13 | 1447 | Juggalo |
+| 12 | 1447 | Juggalo |
+| 13 | 1447 | GreenJeepGirl |
 | 14 | 1318 | Cassie Michaux |
 | 15 | 1292 | Roger Coulter |
 | 16 | 1147 | Kimberly Love |
@@ -44,8 +44,8 @@
 | 36 | 873 | Elizabeth Sallas |
 | 37 | 871 | Denny Shives |
 | 38 | 846 | Christine Marie |
-| 39 | 843 | Lucille Truesdale |
-| 40 | 843 | Shelly Chandler |
+| 39 | 843 | Shelly Chandler |
+| 40 | 843 | Lucille Truesdale |
 | 41 | 836 | LisaJo Picken Buchanan |
 | 42 | 834 | quicksand420 |
 | 43 | 831 | Jae Job |
@@ -127,8 +127,8 @@
 | 119 | 369 | Nope Young |
 | 120 | 362 | Carrie Brian |
 | 121 | 354 | Serena Goodridge |
-| 122 | 353 | Tyler Terrific |
-| 123 | 353 | Livvy |
+| 122 | 353 | Livvy |
+| 123 | 353 | Tyler Terrific |
 | 124 | 344 | Lush Linkfall |
 | 125 | 343 | Latisha Davis |
 | 126 | 338 | ThaEviLJeNiuZ |
@@ -215,8 +215,8 @@
 | 207 | 221 | Rheanda Weaskus |
 | 208 | 219 | Malakai Darien Fox |
 | 209 | 217 | Kim Hunt |
-| 210 | 216 | Cristy Duerksen |
-| 211 | 216 | ZeeZee |
+| 210 | 216 | ZeeZee |
+| 211 | 216 | Cristy Duerksen |
 | 212 | 216 | Chance Strickland |
 | 213 | 215 | Ziggy |
 | 214 | 214 | Holly |

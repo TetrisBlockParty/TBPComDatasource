@@ -215,8 +215,8 @@
 | 207 | 346 | Tamara Deherrera |
 | 208 | 344 | Trisha Balmer |
 | 209 | 343 | Ashley Raines |
-| 210 | 341 | Noyb Adam |
-| 211 | 341 | Samantha Lynn |
+| 210 | 341 | Samantha Lynn |
+| 211 | 341 | Noyb Adam |
 | 212 | 340 | Ammmmmmy |
 | 213 | 338 | Gumbo |
 | 214 | 332 | Ashley Tookes |
