@@ -390,8 +390,8 @@
 | 382 | 533 | Gauri Shrotriya |
 | 383 | 531 | Dizzy Zone |
 | 384 | 527 | Ryan Gunther |
-| 385 | 527 | Heather Causey |
-| 386 | 527 | Julie Kresal |
+| 385 | 527 | Julie Kresal |
+| 386 | 527 | Heather Causey |
 | 387 | 526 | Sheronda Jackson |
 | 388 | 525 | Desiree Anderson |
 | 389 | 523 | Matt Johnson |
@@ -588,8 +588,8 @@
 | 580 | 386 | Wuntayk |
 | 581 | 385 | Tansaria Couch-Butler |
 | 582 | 384 | Christina Ashley |
-| 583 | 384 | Party d |
-| 584 | 384 | Kelly |
+| 583 | 384 | Kelly |
+| 584 | 384 | Party d |
 | 585 | 383 | Belle Mari |
 | 586 | 382 | David Holliday |
 | 587 | 382 | Amber Gray |
@@ -745,8 +745,8 @@
 | 737 | 304 | Melissa McCall |
 | 738 | 304 | James Smith |
 | 739 | 303 | Angie Marie |
-| 740 | 303 | Amanda Schaffer |
-| 741 | 303 | Devin |
+| 740 | 303 | Devin |
+| 741 | 303 | Amanda Schaffer |
 | 742 | 302 | Kena T. Tanner |
 | 743 | 302 | Maxwell Escalera |
 | 744 | 300 | Alice Ball |
@@ -828,8 +828,8 @@
 | 820 | 272 | Witty Piecebuilder |
 | 821 | 272 | Alexandrea |
 | 822 | 271 | Pam Doughty |
-| 823 | 271 | Beverly Hodge |
-| 824 | 271 | Shalisa Hill |
+| 823 | 271 | Shalisa Hill |
+| 824 | 271 | Beverly Hodge |
 | 825 | 270 | BK Queen |
 | 826 | 270 | Lazy Builderfit |
 | 827 | 270 | Nat |

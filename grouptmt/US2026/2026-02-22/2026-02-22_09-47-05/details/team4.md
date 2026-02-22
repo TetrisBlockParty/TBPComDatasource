@@ -62,8 +62,8 @@
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Dustee Craddock-Harrison |
-| 58 | 636 | Kimyatta Cavin |
+| 57 | 636 | Kimyatta Cavin |
+| 58 | 636 | Dustee Craddock-Harrison |
 | 59 | 623 | Robin Getchel |
 | 60 | 599 | Brittney Griggs |
 | 61 | 593 | Lisa Davis |
@@ -131,8 +131,8 @@
 | 123 | 294 | Kesha Brady |
 | 124 | 290 | 🥔🥔 Spudz |
 | 125 | 287 | Shannon Ferrari |
-| 126 | 286 | Daria Rycewicz |
-| 127 | 286 | shark tato |
+| 126 | 286 | shark tato |
+| 127 | 286 | Daria Rycewicz |
 | 128 | 283 | Brittney Orengo |
 | 129 | 281 | Meagan Nicole |
 | 130 | 278 | Desi Desporte |
@@ -161,8 +161,8 @@
 | 153 | 230 | Autum Leigh |
 | 154 | 230 | Cursed Hag |
 | 155 | 228 | J-Rizzle |
-| 156 | 227 | Swanky Fitline |
-| 157 | 227 | Alyssa Papen |
+| 156 | 227 | Alyssa Papen |
+| 157 | 227 | Swanky Fitline |
 | 158 | 225 | Damn Libra |
 | 159 | 224 | Matt Summer |
 | 160 | 223 | Antony Dwayne Beasley |
@@ -228,8 +228,8 @@
 | 220 | 165 | James Hurley Jr. |
 | 221 | 164 | 030Synner |
 | 222 | 163 | Kristina Black |
-| 223 | 162 | Joanna |
-| 224 | 162 | John Brunetti |
+| 223 | 162 | John Brunetti |
+| 224 | 162 | Joanna |
 | 225 | 161 | Jenny Wells-Oakley |
 | 226 | 160 | Brittany Marsh |
 | 227 | 160 | Carlos Ramirez |
@@ -245,10 +245,10 @@
 | 237 | 156 | Juls |
 | 238 | 155 | AyeKay |
 | 239 | 154 | Zany Shatterer |
-| 240 | 153 | Empress Oasis |
-| 241 | 153 | Mr. Party |
-| 242 | 152 | Faja |
-| 243 | 152 | Austin Owens |
+| 240 | 153 | Mr. Party |
+| 241 | 153 | Empress Oasis |
+| 242 | 152 | Austin Owens |
+| 243 | 152 | Faja |
 | 244 | 151 | Angelito |
 | 245 | 149 | Shainne Brewer |
 | 246 | 149 | Tanner Lund |

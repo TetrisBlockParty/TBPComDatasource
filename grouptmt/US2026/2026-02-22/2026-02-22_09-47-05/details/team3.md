@@ -103,8 +103,8 @@
 | 95 | 593 | Raven Dudley |
 | 96 | 591 | Jesse Olive |
 | 97 | 588 | yoyo |
-| 98 | 582 | Jay Horn |
-| 99 | 582 | Natasha Jones |
+| 98 | 582 | Natasha Jones |
+| 99 | 582 | Jay Horn |
 | 100 | 581 | Danielle Mogg |
 | 101 | 579 | Jd Morris |
 | 102 | 566 | Dolores Falco |
@@ -207,8 +207,8 @@
 | 199 | 311 | Stephanie Burtin |
 | 200 | 311 | Araceli Parra |
 | 201 | 310 | Danielle Balcom |
-| 202 | 308 | Daryn Elliott |
-| 203 | 308 | Rania Zaqout |
+| 202 | 308 | Rania Zaqout |
+| 203 | 308 | Daryn Elliott |
 | 204 | 307 | rnr junky |
 | 205 | 307 | Blocked |
 | 206 | 302 | Rebecca Bailey |
@@ -216,8 +216,8 @@
 | 208 | 300 | Sherika C. McDaniels |
 | 209 | 298 | MsBee |
 | 210 | 297 | Jojo M |
-| 211 | 296 | Ammmmmmy |
-| 212 | 296 | Katrina Turner |
+| 211 | 296 | Katrina Turner |
+| 212 | 296 | Ammmmmmy |
 | 213 | 296 | Brandon Givens |
 | 214 | 295 | Marci Mize Fandrich |
 | 215 | 291 | Kristal C Lee |
@@ -280,18 +280,18 @@
 | 272 | 225 | Cozy Snaplink |
 | 273 | 224 | Quirky Dropzone |
 | 274 | 221 | Vaners |
-| 275 | 221 | Alice |
-| 276 | 221 | Jaime Monhaut-Reed |
-| 277 | 220 | Tosha Griffey |
-| 278 | 220 | rosy |
+| 275 | 221 | Jaime Monhaut-Reed |
+| 276 | 221 | Alice |
+| 277 | 220 | rosy |
+| 278 | 220 | Tosha Griffey |
 | 279 | 219 | Sissy Lowery Davis |
 | 280 | 218 | Michael Lucado |
 | 281 | 216 | Twisty Brick LT |
 | 282 | 216 | Cheryl Hinch Tenbrook |
 | 283 | 215 | IamJust Neyamijah Washington Sr. |
 | 284 | 214 | Angela Scott |
-| 285 | 214 | Rebel124 |
-| 286 | 214 | Amy Fuller Heaton |
+| 285 | 214 | Amy Fuller Heaton |
+| 286 | 214 | Rebel124 |
 | 287 | 213 | Nicholas Roddy |
 | 288 | 212 | Desiree Gold |
 | 289 | 212 | Sunny Rotater |
@@ -331,8 +331,8 @@
 | 323 | 183 | Cesar Barraza |
 | 324 | 182 | Melanie Sherwood |
 | 325 | 181 | Denita Mungro |
-| 326 | 180 | Beth Ingham |
-| 327 | 180 | Criss |
+| 326 | 180 | Criss |
+| 327 | 180 | Beth Ingham |
 | 328 | 179 | Christian Werndl |
 | 329 | 179 | Rachel Napper |
 | 330 | 179 | DanceLuvLaugh |
@@ -342,8 +342,8 @@
 | 334 | 176 | Emma |
 | 335 | 175 | Eileen Brady Thurber |
 | 336 | 174 | Lesley Perez |
-| 337 | 173 | Naur |
-| 338 | 173 | BŘŰŤİÇŨŚ |
+| 337 | 173 | BŘŰŤİÇŨŚ |
+| 338 | 173 | Naur |
 | 339 | 170 | Tina Smith Roy |
 | 340 | 169 | Kristian Thurman |
 | 341 | 169 | Peachy Rollfit |
@@ -389,9 +389,9 @@
 | 381 | 153 | Lys |
 | 382 | 153 | Tony Waters |
 | 383 | 152 | Goofy Fall |
-| 384 | 152 | Bryan Byrd |
-| 385 | 152 | Shiny Zonebuilder |
-| 386 | 152 | Eric Caccavale |
+| 384 | 152 | Shiny Zonebuilder |
+| 385 | 152 | Eric Caccavale |
+| 386 | 152 | Bryan Byrd |
 | 387 | 151 | Sarah Cowan Burgos |
 | 388 | 150 | Sassy Brickmatch |
 | 389 | 149 | Alexis Taylor |
@@ -488,7 +488,7 @@
 | 480 | 121 | Brave Brickster |
 | 481 | 120 | Giggy Glidepiece |
 | 482 | 120 | Carol Cain Thurman |
-| 483 | 119 | Tracey Cox |
+| 483 | 119 | Boldy Blocker |
 | 484 | 119 | Geoffrey Nash |
 | 485 | 119 | Tracey Cox |
 | 486 | 119 | Brian Quigley |
@@ -563,7 +563,7 @@
 | 555 | 106 | Megan Riggins |
 | 556 | 105 | Emi |
 | 557 | 105 | Zac Hudak |
-| 558 | 105 | Emi |
+| 558 | 105 | Kristi Taylor |
 | 559 | 105 | Amy Wheeler |
 | 560 | 104 | bean |
 | 561 | 104 | Jessica Rose-Morgan |

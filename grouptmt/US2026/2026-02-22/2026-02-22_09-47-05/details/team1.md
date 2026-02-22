@@ -243,8 +243,8 @@
 | 235 | 170 | Standia Civil |
 | 236 | 170 | Cece Ibarra |
 | 237 | 169 | Abbey Crespo |
-| 238 | 168 | Amber Stoker |
-| 239 | 168 | Angela Fairbank |
+| 238 | 168 | Angela Fairbank |
+| 239 | 168 | Amber Stoker |
 | 240 | 167 | Nery Martinez |
 | 241 | 167 | Cranky Pattern |
 | 242 | 165 | Nadine Velardo |
