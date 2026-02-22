@@ -104,16 +104,16 @@
 | 96 | 328 | Gracie |
 | 97 | 326 | Monica Donato |
 | 98 | 323 | Sweet Baker |
-| 99 | 321 | Maria C. Hernandez |
-| 100 | 321 | Shauna Loe |
-| 101 | 319 | Patrick Luckenbill |
-| 102 | 319 | Deanna L Hermanson |
+| 99 | 321 | Shauna Loe |
+| 100 | 321 | Maria C. Hernandez |
+| 101 | 319 | Deanna L Hermanson |
+| 102 | 319 | Patrick Luckenbill |
 | 103 | 313 | Tanya Carpenter-Reynolds |
 | 104 | 310 | Seth Wesson |
 | 105 | 310 | Jason Jones |
 | 106 | 306 | Happy Basegrid |
-| 107 | 304 | phrmblk24 |
-| 108 | 304 | Nicole Roseberry Weber |
+| 107 | 304 | Nicole Roseberry Weber |
+| 108 | 304 | phrmblk24 |
 | 109 | 301 | Lehrin Maria |
 | 110 | 296 | Theo Pinnow |
 | 111 | 292 | Kristen Gideon |
@@ -193,7 +193,7 @@
 | 185 | 186 | Erin Hodges Plumb |
 | 186 | 183 | Andrew Boone |
 | 187 | 182 | Cool Towerzone |
-| 188 | 180 | Jessie Lynn |
+| 188 | 180 | Veronica Eve |
 | 189 | 180 | BigWeenie69 |
 | 190 | 180 | Erez Yosef |
 | 191 | 180 | Jessie Lynn |
@@ -260,8 +260,8 @@
 | 252 | 138 | Rachel Nichole Henry |
 | 253 | 138 | Giddy Cascade |
 | 254 | 137 | Jo Kerley |
-| 255 | 137 | Cody Gates |
-| 256 | 137 | Marci Sanders |
+| 255 | 137 | Marci Sanders |
+| 256 | 137 | Cody Gates |
 | 257 | 136 | Breanna Luna |
 | 258 | 136 | Jessie |
 | 259 | 133 | Jamie Jury |

@@ -271,8 +271,8 @@
 | 263 | 679 | Dee |
 | 264 | 678 | Scott Treadway |
 | 265 | 677 | Mema |
-| 266 | 675 | Brenda Utphall |
-| 267 | 675 | Tommy Tha Boss Gunz |
+| 266 | 675 | Tommy Tha Boss Gunz |
+| 267 | 675 | Brenda Utphall |
 | 268 | 673 | Claire Noland |
 | 269 | 672 | Danielle Simmons |
 | 270 | 671 | Poldo Ilano |
@@ -299,11 +299,11 @@
 | 291 | 632 | Beth |
 | 292 | 631 | Marie Walker |
 | 293 | 629 | Sleepypanda67 |
-| 294 | 627 | Allan Wayne Lamia |
-| 295 | 627 | Victoria Moore-Smith |
+| 294 | 627 | Victoria Moore-Smith |
+| 295 | 627 | Allan Wayne Lamia |
 | 296 | 619 | Jánine Riggs |
-| 297 | 617 | tejas25 |
-| 298 | 617 | Leslie Ann Carter |
+| 297 | 617 | Leslie Ann Carter |
+| 298 | 617 | tejas25 |
 | 299 | 615 | Brandon Armstrong |
 | 300 | 613 | Ellie Jonas |
 | 301 | 611 | Julio A Laracuente |
@@ -404,8 +404,8 @@
 | 396 | 481 | Klee |
 | 397 | 480 | Dar |
 | 398 | 478 | Ashley Collins |
-| 399 | 477 | Brenna Ann |
-| 400 | 477 | Michelle Fields |
+| 399 | 477 | Michelle Fields |
+| 400 | 477 | Brenna Ann |
 | 401 | 477 | Julay |
 | 402 | 476 | Kitybox |
 | 403 | 476 | Maya June |
