@@ -547,8 +547,8 @@
 | 539 | 369 | Juan Castillo |
 | 540 | 367 | Deyawn Smith |
 | 541 | 367 | Jessica Lamb |
-| 542 | 366 | Smashanator |
-| 543 | 366 | Courtney Burcham |
+| 542 | 366 | Courtney Burcham |
+| 543 | 366 | Smashanator |
 | 544 | 365 | Christina Lewis-Vickers |
 | 545 | 365 | Audrey Jones |
 | 546 | 365 | Susan Arnburg |
@@ -736,8 +736,8 @@
 | 728 | 273 | MamaBear11 |
 | 729 | 272 | Witty Piecebuilder |
 | 730 | 271 | Shalisa Hill |
-| 731 | 270 | Tim Dyer |
-| 732 | 270 | BK Queen |
+| 731 | 270 | BK Queen |
+| 732 | 270 | Tim Dyer |
 | 733 | 269 | Dandy Combo |
 | 734 | 267 | Josh Webster |
 | 735 | 267 | Luke Califf |

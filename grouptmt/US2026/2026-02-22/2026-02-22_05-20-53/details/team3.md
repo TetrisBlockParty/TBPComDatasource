@@ -85,14 +85,14 @@
 | 77 | 628 | Tiff Vs Tiffany |
 | 78 | 626 | mjl574 |
 | 79 | 621 | Cherry Parker |
-| 80 | 618 | Katrina Schroeder |
-| 81 | 618 | Brandon Green |
+| 80 | 618 | Brandon Green |
+| 81 | 618 | Katrina Schroeder |
 | 82 | 613 | Amber Hughes |
 | 83 | 608 | Danielle Becker |
 | 84 | 591 | Jesse Olive |
 | 85 | 588 | yoyo |
-| 86 | 582 | Natasha Jones |
-| 87 | 582 | Jay Horn |
+| 86 | 582 | Jay Horn |
+| 87 | 582 | Natasha Jones |
 | 88 | 582 | Speedy Bridger |
 | 89 | 581 | Danielle Mogg |
 | 90 | 576 | Dan Rob |
@@ -213,8 +213,8 @@
 | 205 | 272 | Dee Franklin |
 | 206 | 272 | opf |
 | 207 | 271 | Ashley Muncey |
-| 208 | 267 | Terry Jo Jones |
-| 209 | 267 | Denise Nardoni |
+| 208 | 267 | Denise Nardoni |
+| 209 | 267 | Terry Jo Jones |
 | 210 | 265 | Sarah Moyer |
 | 211 | 265 | Scott Carleton |
 | 212 | 264 | Grego Daniel |

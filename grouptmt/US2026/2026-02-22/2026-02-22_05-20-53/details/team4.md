@@ -85,8 +85,8 @@
 | 77 | 409 | Isabella Blanco |
 | 78 | 404 | Courtney Cicoria |
 | 79 | 402 | Julian Garcia |
-| 80 | 396 | Alicia Bass |
-| 81 | 396 | Amy Suckarieh |
+| 80 | 396 | Amy Suckarieh |
+| 81 | 396 | Alicia Bass |
 | 82 | 391 | Ramel Rhodes |
 | 83 | 390 | Carlton Unfiltered |
 | 84 | 382 | Marie-Pier Desjardins |
@@ -203,9 +203,9 @@
 | 195 | 164 | 030Synner |
 | 196 | 162 | Joanna |
 | 197 | 161 | Jenny Wells-Oakley |
-| 198 | 160 | Carlos Ramirez |
+| 198 | 160 | Laura Hosford |
 | 199 | 160 | ZeeZee |
-| 200 | 160 | Laura Hosford |
+| 200 | 160 | Carlos Ramirez |
 | 201 | 159 | Marcus Todd |
 | 202 | 158 | Sam Bishop |
 | 203 | 158 | Chair |

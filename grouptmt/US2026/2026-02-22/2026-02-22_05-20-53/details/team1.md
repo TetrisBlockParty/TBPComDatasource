@@ -130,8 +130,8 @@
 | 122 | 276 | Dandy Basegrid |
 | 123 | 266 | Jason Jones |
 | 124 | 265 | SkipTheSadSauce |
-| 125 | 264 | Jenny Gingrich Fuentes |
-| 126 | 264 | Lexuriuos Lifestlye |
+| 125 | 264 | Lexuriuos Lifestlye |
+| 126 | 264 | Jenny Gingrich Fuentes |
 | 127 | 263 | Sharon Reynolds |
 | 128 | 256 | David Miller |
 | 129 | 253 | Arianna O'Brien |
@@ -177,8 +177,8 @@
 | 169 | 198 | Shiny Gridmatch |
 | 170 | 197 | Amanda Jarnagin |
 | 171 | 195 | Shaykmia |
-| 172 | 194 | Tyler Werts |
-| 173 | 194 | Christy Jones |
+| 172 | 194 | Christy Jones |
+| 173 | 194 | Tyler Werts |
 | 174 | 193 | Lachelle Dillon |
 | 175 | 192 | Jessica Sheehan |
 | 176 | 191 | Diane Byrd |
@@ -199,8 +199,8 @@
 | 191 | 179 | femmefatale |
 | 192 | 179 | Danielle Little-Daugherty |
 | 193 | 178 | Chad Atchley |
-| 194 | 177 | Irual Hctrab |
-| 195 | 177 | Jacqueline Unique |
+| 194 | 177 | Jacqueline Unique |
+| 195 | 177 | Irual Hctrab |
 | 196 | 176 | Mel Hogan |
 | 197 | 175 | John Barron |
 | 198 | 174 | Cheeky Pop |
@@ -213,8 +213,8 @@
 | 205 | 170 | Cece Ibarra |
 | 206 | 169 | Abbey Crespo |
 | 207 | 168 | Jessie Lynn |
-| 208 | 167 | Nery Martinez |
-| 209 | 167 | Bindi |
+| 208 | 167 | Bindi |
+| 209 | 167 | Nery Martinez |
 | 210 | 165 | Nadine Velardo |
 | 211 | 165 | Silly Align |
 | 212 | 164 | Shanae Grant |
@@ -250,7 +250,7 @@
 | 242 | 142 | Jerry Danowski |
 | 243 | 142 | Colleen Wise |
 | 244 | 141 | Dino |
-| 245 | 139 | Flashy Rotator |
+| 245 | 139 | Aimee Horton |
 | 246 | 139 | LD1 |
 | 247 | 139 | Flashy Rotator |
 | 248 | 138 | Mark Smith |
