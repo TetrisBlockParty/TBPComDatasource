@@ -152,8 +152,8 @@
 | 144 | 449 | Danielle Rhoades |
 | 145 | 448 | Karon Griffin |
 | 146 | 445 | Shannon Matthew Byers |
-| 147 | 445 | Kristie McFarland |
-| 148 | 445 | Jacqueline Rodriguez |
+| 147 | 445 | Jacqueline Rodriguez |
+| 148 | 445 | Kristie McFarland |
 | 149 | 439 | Michelle |
 | 150 | 438 | Valerie Gendron |
 | 151 | 434 | Logan Naccarato |
@@ -183,8 +183,8 @@
 | 175 | 384 | Dapper Snap |
 | 176 | 382 | Scott Carleton |
 | 177 | 380 | Tasha Schriewer |
-| 178 | 378 | Nicole Flippo |
-| 179 | 378 | Chris Bell |
+| 178 | 378 | Chris Bell |
+| 179 | 378 | Nicole Flippo |
 | 180 | 376 | Loopy Clusterer |
 | 181 | 374 | Sherry Ogden |
 | 182 | 372 | Giddy Twistbuilder |
@@ -203,8 +203,8 @@
 | 195 | 353 | Nora Rogers |
 | 196 | 349 | Amanda J. Mcneil-Anderson |
 | 197 | 348 | Chasity |
-| 198 | 343 | Tamara Deherrera |
-| 199 | 343 | Ashley Raines |
+| 198 | 343 | Ashley Raines |
+| 199 | 343 | Tamara Deherrera |
 | 200 | 341 | Samantha Lynn |
 | 201 | 341 | Noyb Adam |
 | 202 | 340 | Ammmmmmy |
@@ -293,9 +293,9 @@
 | 285 | 235 | Cozy Snaplink |
 | 286 | 233 | Josh Borquez |
 | 287 | 232 | Donna |
-| 288 | 227 | Krystal Gerstberger |
-| 289 | 227 | Meowsa |
-| 290 | 227 | ROODBOY |
+| 288 | 227 | ROODBOY |
+| 289 | 227 | Krystal Gerstberger |
+| 290 | 227 | Meowsa |
 | 291 | 225 | Stephanie Hill |
 | 292 | 225 | Dirtgirl27 |
 | 293 | 225 | Steffi Chris Dacones |
@@ -309,12 +309,12 @@
 | 301 | 220 | Tosha Griffey |
 | 302 | 217 | Twisty Brick LT |
 | 303 | 216 | Cheryl Hinch Tenbrook |
-| 304 | 216 | Frothy Snapper |
-| 305 | 216 | Tina Smith Roy |
+| 304 | 216 | Tina Smith Roy |
+| 305 | 216 | Frothy Snapper |
 | 306 | 215 | IamJust Neyamijah Washington Sr. |
 | 307 | 214 | Amy Fuller Heaton |
-| 308 | 214 | Jennifer Alvey |
-| 309 | 214 | Lizabeth Fox |
+| 308 | 214 | Lizabeth Fox |
+| 309 | 214 | Jennifer Alvey |
 | 310 | 213 | Nicholas Roddy |
 | 311 | 212 | Sunny Rotater |
 | 312 | 212 | Jana Polk |
@@ -324,8 +324,8 @@
 | 316 | 210 | April Matthew Kibble |
 | 317 | 210 | Criss |
 | 318 | 209 | Micayah Stevens |
-| 319 | 208 | AlsoJess |
-| 320 | 208 | Niki Dalrymple |
+| 319 | 208 | Niki Dalrymple |
+| 320 | 208 | AlsoJess |
 | 321 | 207 | angieelyn |
 | 322 | 207 | Jessica |
 | 323 | 207 | Daring Builder |

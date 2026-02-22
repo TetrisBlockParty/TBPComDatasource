@@ -93,14 +93,14 @@
 | 85 | 417 | Lori Sanders- Davis |
 | 86 | 412 | Anaid Sanchez |
 | 87 | 406 | Yvonne Marie |
-| 88 | 401 | Trina Gee |
-| 89 | 401 | cc |
+| 88 | 401 | cc |
+| 89 | 401 | Trina Gee |
 | 90 | 400 | Cynthia Bradley |
 | 91 | 399 | Nerdy Linkblock |
 | 92 | 397 | Tdub |
-| 93 | 390 | Goose egg |
-| 94 | 390 | Candy Jones |
-| 95 | 390 | Lori Bales |
+| 93 | 390 | Candy Jones |
+| 94 | 390 | Lori Bales |
+| 95 | 390 | Goose egg |
 | 96 | 389 | Nery Martinez |
 | 97 | 387 | Luciano Moreira |
 | 98 | 384 | Lexuriuos Lifestlye |
@@ -149,8 +149,8 @@
 | 141 | 290 | Death |
 | 142 | 288 | GATOR |
 | 143 | 285 | Ananda Mendez |
-| 144 | 284 | Rachael |
-| 145 | 284 | Emily Adelaide Wheatley |
+| 144 | 284 | Emily Adelaide Wheatley |
+| 145 | 284 | Rachael |
 | 146 | 283 | Franswa |
 | 147 | 282 | Snippy Wipebuilder |
 | 148 | 282 | Tyler Werts |

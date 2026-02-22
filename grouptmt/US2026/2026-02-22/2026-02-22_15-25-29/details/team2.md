@@ -759,8 +759,8 @@
 | 751 | 322 | Michelle Pike |
 | 752 | 321 | Ashley Criner |
 | 753 | 321 | Tamara Bailey |
-| 754 | 320 | Peachy Blockbuilder |
-| 755 | 320 | Tash Bell |
+| 754 | 320 | Tash Bell |
+| 755 | 320 | Peachy Blockbuilder |
 | 756 | 320 | Mary Boss |
 | 757 | 319 | Cassie Newton |
 | 758 | 319 | RetroLemur |

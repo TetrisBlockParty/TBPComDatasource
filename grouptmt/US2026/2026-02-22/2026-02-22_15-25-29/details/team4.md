@@ -273,8 +273,8 @@
 | 265 | 162 | John Brunetti |
 | 266 | 162 | Gwendolyn Pitcairn |
 | 267 | 161 | Tanner Lund |
-| 268 | 159 | DonMega |
-| 269 | 159 | Marcus Todd |
+| 268 | 159 | Marcus Todd |
+| 269 | 159 | DonMega |
 | 270 | 158 | Chair |
 | 271 | 157 | KayM |
 | 272 | 157 | Bethany Ison |
@@ -292,8 +292,8 @@
 | 284 | 151 | Shanon Klair |
 | 285 | 151 | Shainne Brewer |
 | 286 | 151 | Amanda Christine |
-| 287 | 150 | Jared Gutwein |
-| 288 | 150 | Brandon Link |
+| 287 | 150 | Brandon Link |
+| 288 | 150 | Jared Gutwein |
 | 289 | 150 | GBR |
 | 290 | 149 | Twisty Risebuilder |
 | 291 | 148 | Nubian1 |
