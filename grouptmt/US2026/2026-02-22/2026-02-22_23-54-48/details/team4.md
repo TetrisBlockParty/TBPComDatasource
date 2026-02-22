@@ -144,9 +144,9 @@
 | 136 | 391 | Ramel Rhodes |
 | 137 | 380 | Swanky Fitline |
 | 138 | 378 | Lucas J Sutton |
-| 139 | 377 | Jessica Bohlken |
-| 140 | 377 | Carrie Brian |
-| 141 | 377 | Kristina Black |
+| 139 | 377 | Kristina Black |
+| 140 | 377 | Jessica Bohlken |
+| 141 | 377 | Carrie Brian |
 | 142 | 376 | Kesha Brady |
 | 143 | 374 | Guy Incognito |
 | 144 | 373 | Joseph Guthrie |
@@ -156,8 +156,8 @@
 | 148 | 353 | Livvy |
 | 149 | 353 | Tyler Terrific |
 | 150 | 349 | Desi Desporte |
-| 151 | 348 | 🥔🥔 Spudz |
-| 152 | 348 | Silly Zonebuilder |
+| 151 | 348 | Silly Zonebuilder |
+| 152 | 348 | 🥔🥔 Spudz |
 | 153 | 347 | Daria Rycewicz |
 | 154 | 343 | Latisha Davis |
 | 155 | 342 | Klo |
@@ -207,8 +207,8 @@
 | 199 | 276 | Matt Dell'Olio |
 | 200 | 276 | Joeliecea Cobb |
 | 201 | 273 | Casey Grabner |
-| 202 | 272 | Alan George LaRage |
-| 203 | 272 | Dennis Bradley |
+| 202 | 272 | Dennis Bradley |
+| 203 | 272 | Alan George LaRage |
 | 204 | 271 | Sarah Brown |
 | 205 | 270 | Juls |
 | 206 | 269 | Nikki Rae Gordon |

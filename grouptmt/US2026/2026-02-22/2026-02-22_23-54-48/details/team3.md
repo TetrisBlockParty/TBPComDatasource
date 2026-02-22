@@ -97,8 +97,8 @@
 | 89 | 860 | Sunny Rotater |
 | 90 | 849 | Danielle Becker |
 | 91 | 848 | Patricia Gadsden |
-| 92 | 838 | Sarajane Lokan |
-| 93 | 838 | MissTaylor |
+| 92 | 838 | MissTaylor |
+| 93 | 838 | Sarajane Lokan |
 | 94 | 831 | Angeline Joseph |
 | 95 | 830 | Stephanie Allmon |
 | 96 | 826 | Shane Wilson Jr. |
@@ -117,8 +117,8 @@
 | 109 | 730 | Speedy Bridger |
 | 110 | 723 | Mandy Smith Oldham |
 | 111 | 720 | Raya |
-| 112 | 716 | Kristie |
-| 113 | 716 | Calista Jo Dickson |
+| 112 | 716 | Calista Jo Dickson |
+| 113 | 716 | Kristie |
 | 114 | 715 | Keith J Oshman Jr. |
 | 115 | 712 | Katrina Schroeder |
 | 116 | 704 | Suzieq |
@@ -186,8 +186,8 @@
 | 178 | 465 | Tasha Schriewer |
 | 179 | 464 | Makelini Mausia |
 | 180 | 461 | Shunta Jacobs |
-| 181 | 460 | Araceli Parra |
-| 182 | 460 | Danielle Allison |
+| 181 | 460 | Danielle Allison |
+| 182 | 460 | Araceli Parra |
 | 183 | 458 | Danielle Rhoades |
 | 184 | 457 | Jim Mathews |
 | 185 | 455 | Bmo |
@@ -196,8 +196,8 @@
 | 188 | 451 | Sarah Cowan Burgos |
 | 189 | 442 | Loopy Fallmatch |
 | 190 | 432 | Christine Trester |
-| 191 | 432 | Luciana Braganca Vieira |
-| 192 | 432 | Jenny Hrndz |
+| 191 | 432 | Jenny Hrndz |
+| 192 | 432 | Luciana Braganca Vieira |
 | 193 | 431 | Wendy Dearden |
 | 194 | 430 | Jeni Dow |
 | 195 | 430 | Terry Jo Jones |
@@ -575,7 +575,7 @@
 | 567 | 158 | Eboni Starr |
 | 568 | 157 | Michelle Ramirez |
 | 569 | 157 | Emberblaze |
-| 570 | 157 | Michelle Ramirez |
+| 570 | 157 | DeeDee13 |
 | 571 | 157 | Angel Mendez |
 | 572 | 156 | Courtney Conboy |
 | 573 | 156 | Brittany K Ward |
