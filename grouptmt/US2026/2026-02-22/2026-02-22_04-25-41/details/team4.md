@@ -74,13 +74,13 @@
 | 66 | 486 | Landon Keith Graffeo |
 | 67 | 483 | Carmethia Clemons Haslerig |
 | 68 | 466 | Dawn Alexander |
-| 69 | 447 | TeeJ |
-| 70 | 447 | Samantha Peterson |
+| 69 | 447 | Samantha Peterson |
+| 70 | 447 | TeeJ |
 | 71 | 409 | Isabella Blanco |
 | 72 | 404 | Courtney Cicoria |
 | 73 | 399 | Jenna Ingersoll |
-| 74 | 396 | Amy Suckarieh |
-| 75 | 396 | Alicia Bass |
+| 74 | 396 | Alicia Bass |
+| 75 | 396 | Amy Suckarieh |
 | 76 | 392 | YoMomma |
 | 77 | 391 | Ramel Rhodes |
 | 78 | 390 | Carlton Unfiltered |
@@ -91,8 +91,8 @@
 | 83 | 373 | Joseph Guthrie |
 | 84 | 370 | Leslie Thomas |
 | 85 | 369 | Nope Young |
-| 86 | 358 | Nugget |
-| 87 | 358 | Shane Kalamata Platoon |
+| 86 | 358 | Shane Kalamata Platoon |
+| 87 | 358 | Nugget |
 | 88 | 352 | Monica Daley |
 | 89 | 347 | Julian Garcia |
 | 90 | 337 | Lori Walker |
@@ -157,8 +157,8 @@
 | 149 | 205 | Kathy Brookins |
 | 150 | 205 | Sarah Neathery |
 | 151 | 204 | Jen Caldwell |
-| 152 | 203 | Katherine Crane |
-| 153 | 203 | Chris Bernstein |
+| 152 | 203 | Chris Bernstein |
+| 153 | 203 | Katherine Crane |
 | 154 | 202 | 🥔🥔 Spudz |
 | 155 | 201 | Melvin Baird |
 | 156 | 199 | TheNeesh50 |

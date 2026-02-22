@@ -132,12 +132,12 @@
 | 124 | 410 | Stephanie Blkpep Davidson |
 | 125 | 409 | Karon Griffin |
 | 126 | 405 | Michelle |
-| 127 | 403 | Scott Lindsay |
-| 128 | 403 | Christine Filson |
+| 127 | 403 | Christine Filson |
+| 128 | 403 | Scott Lindsay |
 | 129 | 402 | Shannon Matthew Byers |
 | 130 | 400 | Luciana Braganca Vieira |
-| 131 | 399 | Patti Skiles |
-| 132 | 399 | Mcathen |
+| 131 | 399 | Mcathen |
+| 132 | 399 | Patti Skiles |
 | 133 | 397 | Annie Déè |
 | 134 | 392 | Katie Knaus |
 | 135 | 392 | Tasha Gillespie |
@@ -211,8 +211,8 @@
 | 203 | 263 | Angeline Joseph |
 | 204 | 262 | Joe-Maggie Mathews |
 | 205 | 261 | Brittany |
-| 206 | 261 | Tiffany Ford |
-| 207 | 261 | Marquita Sheard |
+| 206 | 261 | Marquita Sheard |
+| 207 | 261 | Tiffany Ford |
 | 208 | 260 | Grams |
 | 209 | 258 | Tamara Deherrera |
 | 210 | 257 | Ashley Jones |

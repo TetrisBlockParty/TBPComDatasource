@@ -161,8 +161,8 @@
 | 153 | 203 | Paula Martin |
 | 154 | 201 | Sleepysloath5745 |
 | 155 | 199 | Basment Living |
-| 156 | 198 | Shiny Gridmatch |
-| 157 | 198 | Happy Snapbuild |
+| 156 | 198 | Happy Snapbuild |
+| 157 | 198 | Shiny Gridmatch |
 | 158 | 195 | Daring Fitclear |
 | 159 | 194 | Tyler Werts |
 | 160 | 193 | Lachelle Dillon |
