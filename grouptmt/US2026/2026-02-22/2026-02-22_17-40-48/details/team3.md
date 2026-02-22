@@ -127,8 +127,8 @@
 | 119 | 574 | Morgan Martinez |
 | 120 | 568 | Rachael McClain Owens |
 | 121 | 566 | Dolores Falco |
-| 122 | 562 | Louise Stacy Sisson |
-| 123 | 562 | Dave Herzog |
+| 122 | 562 | Dave Herzog |
+| 123 | 562 | Louise Stacy Sisson |
 | 124 | 550 | Nicole Myers |
 | 125 | 546 | Domo Washington |
 | 126 | 533 | Alaina Lee |
@@ -148,8 +148,8 @@
 | 140 | 492 | Daira Largen |
 | 141 | 491 | Chauntee Alfrey-Cardinale |
 | 142 | 488 | CeceGeGe |
-| 143 | 479 | Patti Skiles |
-| 144 | 479 | Annie Marie |
+| 143 | 479 | Annie Marie |
+| 144 | 479 | Patti Skiles |
 | 145 | 479 | Poppy Splitter |
 | 146 | 473 | mzcatzy |
 | 147 | 471 | Mendoza Lee Christy |
@@ -178,8 +178,8 @@
 | 170 | 415 | ren |
 | 171 | 410 | Stephanie Simpson |
 | 172 | 407 | Jone |
-| 173 | 405 | JerseyJess |
-| 174 | 405 | Marcie Bressler |
+| 173 | 405 | Marcie Bressler |
+| 174 | 405 | JerseyJess |
 | 175 | 403 | Scott Lindsay |
 | 176 | 401 | Katie Knaus |
 | 177 | 400 | Sherika C. McDaniels |

@@ -69,8 +69,8 @@
 | 61 | 688 | Avy Absol |
 | 62 | 671 | Kimyatta Cavin |
 | 63 | 671 | D3TROITB0RN74 |
-| 64 | 664 | loulou |
-| 65 | 664 | Valerie Roberts |
+| 64 | 664 | Valerie Roberts |
+| 65 | 664 | loulou |
 | 66 | 659 | Jonathan Kimbrough |
 | 67 | 654 | Chilly Line |
 | 68 | 647 | KM8 |
@@ -176,8 +176,8 @@
 | 168 | 268 | Mimi |
 | 169 | 268 | Trista Leah |
 | 170 | 267 | Kathy Brookins |
-| 171 | 267 | Damn Libra |
-| 172 | 267 | Casey Grabner |
+| 171 | 267 | Casey Grabner |
+| 172 | 267 | Damn Libra |
 | 173 | 266 | Laura |
 | 174 | 265 | Jeff Brian Gates |
 | 175 | 265 | Chris Bernstein |
@@ -282,11 +282,11 @@
 | 274 | 165 | Zappy Buildgrid |
 | 275 | 164 | Marvetta Williams |
 | 276 | 163 | Ellen Durfee |
-| 277 | 162 | Gwendolyn Pitcairn |
-| 278 | 162 | John Brunetti |
+| 277 | 162 | John Brunetti |
+| 278 | 162 | Gwendolyn Pitcairn |
 | 279 | 162 | conceptCollector |
-| 280 | 161 | Tanner Lund |
-| 281 | 161 | Matt Gooder |
+| 280 | 161 | Matt Gooder |
+| 281 | 161 | Tanner Lund |
 | 282 | 161 | Twisty Risebuilder |
 | 283 | 160 | Victoria Faniel |
 | 284 | 159 | DonMega |

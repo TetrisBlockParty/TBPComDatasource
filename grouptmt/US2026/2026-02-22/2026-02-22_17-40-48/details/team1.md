@@ -113,8 +113,8 @@
 | 105 | 385 | Brenda Stewart |
 | 106 | 383 | pjbeta |
 | 107 | 380 | Dee Perry |
-| 108 | 379 | Kimmie Kimms |
-| 109 | 379 | Austin James |
+| 108 | 379 | Austin James |
+| 109 | 379 | Kimmie Kimms |
 | 110 | 376 | lil mickey |
 | 111 | 366 | David Miller |
 | 112 | 364 | Shauna Loe |

@@ -222,9 +222,9 @@
 | 214 | 973 | Kim Dean |
 | 215 | 972 | Juliana Marques Do Nascimento Gordy |
 | 216 | 960 | Jennifer Kistner |
-| 217 | 957 | Crystal Hoffman |
-| 218 | 957 | Keri Womack |
-| 219 | 957 | Block Master |
+| 217 | 957 | Keri Womack |
+| 218 | 957 | Block Master |
+| 219 | 957 | Crystal Hoffman |
 | 220 | 954 | Shannon Joslin |
 | 221 | 951 | Cynthia Ward |
 | 222 | 950 | Teresa Gillmore |
@@ -238,8 +238,8 @@
 | 230 | 919 | Joshua Mandel |
 | 231 | 919 | Isaac Trappiel IV |
 | 232 | 916 | Butta |
-| 233 | 915 | Angela Bonquiqui Dinish |
-| 234 | 915 | Robin Kerby |
+| 233 | 915 | Robin Kerby |
+| 234 | 915 | Angela Bonquiqui Dinish |
 | 235 | 915 | Kelly Trent |
 | 236 | 912 | Dedra Steward |
 | 237 | 910 | Shuany Arias |
@@ -266,8 +266,8 @@
 | 258 | 860 | William Hunt |
 | 259 | 857 | Della Hole |
 | 260 | 855 | F-X |
-| 261 | 853 | Maria Escobar |
-| 262 | 853 | Meghan M |
+| 261 | 853 | Meghan M |
+| 262 | 853 | Maria Escobar |
 | 263 | 850 | Glitzy Stackzone |
 | 264 | 845 | Sheniya Spurgeon |
 | 265 | 844 | Terri McKelvey McKinley |
@@ -295,8 +295,8 @@
 | 287 | 787 | Laura McCarthey |
 | 288 | 783 | Lisa Ongtowasruk |
 | 289 | 781 | Angie Bolton Workman |
-| 290 | 777 | Tesha Oldaker |
-| 291 | 777 | Jessicah Myers |
+| 290 | 777 | Jessicah Myers |
+| 291 | 777 | Tesha Oldaker |
 | 292 | 777 | Samantha Jo |
 | 293 | 772 | Kristin Gower |
 | 294 | 768 | Michele Morgan |
