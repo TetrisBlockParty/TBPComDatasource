@@ -141,8 +141,8 @@
 | 133 | 1330 | Erica Williams |
 | 134 | 1316 | Rosa Franklin |
 | 135 | 1312 | Katrina Williams Balmir |
-| 136 | 1306 | Becca Widmer |
-| 137 | 1306 | Howard Forest |
+| 136 | 1306 | Howard Forest |
+| 137 | 1306 | Becca Widmer |
 | 138 | 1300 | Tacara Cummings |
 | 139 | 1298 | Scott Treadway |
 | 140 | 1290 | Bussyiano Page |
@@ -248,8 +248,8 @@
 | 240 | 867 | Michele Gabriel |
 | 241 | 867 | Peppy Zone |
 | 242 | 862 | Brittany Radaszewski |
-| 243 | 860 | April Dawn Gussler |
-| 244 | 860 | John Bednarik |
+| 243 | 860 | John Bednarik |
+| 244 | 860 | April Dawn Gussler |
 | 245 | 857 | Della Hole |
 | 246 | 855 | Sam Joe |
 | 247 | 855 | F-X |
@@ -733,11 +733,11 @@
 | 725 | 337 | Sassy Pattern |
 | 726 | 337 | Tum |
 | 727 | 336 | Crystal Cornelius |
-| 728 | 336 | bru |
-| 729 | 336 | stacey |
-| 730 | 335 | Brooke Leigh Strube |
+| 728 | 336 | stacey |
+| 729 | 336 | bru |
+| 730 | 335 | Maria Louise |
 | 731 | 335 | Alexandrea |
-| 732 | 335 | Maria Louise |
+| 732 | 335 | Brooke Leigh Strube |
 | 733 | 334 | Melissa James |
 | 734 | 333 | Adrian Benitez |
 | 735 | 333 | Woodys Glass |
@@ -745,16 +745,16 @@
 | 737 | 332 | Sabrena Yeisley |
 | 738 | 332 | Tosa Puvapiromquan |
 | 739 | 331 | Johanna Massaro |
-| 740 | 330 | Jennifer Monroe Kelly |
-| 741 | 330 | Toni Roberson |
+| 740 | 330 | Toni Roberson |
+| 741 | 330 | Jennifer Monroe Kelly |
 | 742 | 329 | Snappy Shatterfit |
 | 743 | 329 | Nikki Nikki |
-| 744 | 328 | Jamie Carter Bierce |
-| 745 | 328 | BabyBird |
+| 744 | 328 | BabyBird |
+| 745 | 328 | Jamie Carter Bierce |
 | 746 | 328 | Sarah block |
-| 747 | 327 | Polly Pritchard Chesler |
+| 747 | 327 | Amanda Chamberlain |
 | 748 | 327 | Luke Califf |
-| 749 | 327 | Amanda Chamberlain |
+| 749 | 327 | Polly Pritchard Chesler |
 | 750 | 326 | Ann Knutson Anderson |
 | 751 | 325 | NickyBrooks |
 | 752 | 325 | Justin Hines |
@@ -769,7 +769,7 @@
 | 761 | 322 | Lea Stewart |
 | 762 | 322 | Christina Jarvis-Swarbrick |
 | 763 | 322 | Michelle Pike |
-| 764 | 322 | Lea Stewart |
+| 764 | 322 | Robin L. Vial |
 | 765 | 321 | Tamara Bailey |
 | 766 | 321 | Ashley Criner |
 | 767 | 320 | Tash Bell |
@@ -795,12 +795,12 @@
 | 787 | 313 | Marina Linda |
 | 788 | 312 | Heather Renee Jeffers |
 | 789 | 312 | Kiorah Blaze |
-| 790 | 311 | SwifftFox |
-| 791 | 311 | Audra Williams |
+| 790 | 311 | Audra Williams |
+| 791 | 311 | SwifftFox |
 | 792 | 311 | Megan Phillips |
 | 793 | 310 | Wendy Ducheney |
-| 794 | 310 | Cozy Drop |
-| 795 | 310 | Cheeky Brickmatch |
+| 794 | 310 | Cheeky Brickmatch |
+| 795 | 310 | Cozy Drop |
 | 796 | 310 | Beth Decker |
 | 797 | 309 | Daniell Martinez |
 | 798 | 309 | Byung Bae Park |
@@ -818,8 +818,8 @@
 | 810 | 303 | Amanda Schaffer |
 | 811 | 303 | Devin |
 | 812 | 303 | Alyssia Tancredi |
-| 813 | 302 | Epic Stackbuilder |
-| 814 | 302 | Kena T. Tanner |
+| 813 | 302 | Kena T. Tanner |
+| 814 | 302 | Epic Stackbuilder |
 | 815 | 301 | Tom Steffen |
 | 816 | 300 | Jay Levy |
 | 817 | 300 | Warren Marleau |
@@ -1001,8 +1001,8 @@
 | 993 | 255 | Charles E Mccardell |
 | 994 | 255 | Marget Kay |
 | 995 | 254 | Elizabeth Diraffaele |
-| 996 | 254 | Wungun Shun |
-| 997 | 254 | Matthew Turner |
+| 996 | 254 | Matthew Turner |
+| 997 | 254 | Wungun Shun |
 | 998 | 254 | Paula Martinez |
 | 999 | 253 | Chipper Dashpiece |
 | 1000 | 253 | Lynzekwi |
@@ -1022,8 +1022,8 @@
 | 1014 | 250 | Bee |
 | 1015 | 250 | Drew Berkelbach |
 | 1016 | 249 | Joshua Mullings |
-| 1017 | 249 | Angela Yantz |
-| 1018 | 249 | Andrew Engman |
+| 1017 | 249 | Andrew Engman |
+| 1018 | 249 | Angela Yantz |
 | 1019 | 249 | J.L. Roberts |
 | 1020 | 248 | Angelina Marie |
 | 1021 | 248 | CleverAngel |

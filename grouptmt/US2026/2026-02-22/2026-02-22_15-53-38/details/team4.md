@@ -131,8 +131,8 @@
 | 123 | 344 | Lush Linkfall |
 | 124 | 343 | Latisha Davis |
 | 125 | 338 | ThaEviLJeNiuZ |
-| 126 | 332 | Desi Desporte |
-| 127 | 332 | HastyGrabber |
+| 126 | 332 | HastyGrabber |
+| 127 | 332 | Desi Desporte |
 | 128 | 330 | David Lay |
 | 129 | 330 | Twisty Clicky |
 | 130 | 329 | Amanda Pauldo-Ivy |
@@ -143,8 +143,8 @@
 | 135 | 319 | Guy Incognito |
 | 136 | 314 | Andy Cabral |
 | 137 | 303 | Lauren Scott |
-| 138 | 300 | Jason Hart |
-| 139 | 300 | Dana Scott |
+| 138 | 300 | Dana Scott |
+| 139 | 300 | Jason Hart |
 | 140 | 299 | TRCuse |
 | 141 | 298 | Lucas J Sutton |
 | 142 | 295 | Bio Nelly |
@@ -162,14 +162,14 @@
 | 154 | 275 | Dizzy Tiley |
 | 155 | 274 | Calvin Cannon |
 | 156 | 273 | Crystal Nicolette Moore |
-| 157 | 272 | Alan George LaRage |
-| 158 | 272 | Keshia Lyons |
+| 157 | 272 | Keshia Lyons |
+| 158 | 272 | Alan George LaRage |
 | 159 | 271 | Sarah Brown |
 | 160 | 269 | Nikki Rae Gordon |
 | 161 | 268 | Cursed Hag |
 | 162 | 267 | Damn Libra |
-| 163 | 265 | Chris Bernstein |
-| 164 | 265 | Jeff Brian Gates |
+| 163 | 265 | Jeff Brian Gates |
+| 164 | 265 | Chris Bernstein |
 | 165 | 264 | Girl |
 | 166 | 264 | Epic Curvetile |
 | 167 | 262 | Holly Jolly |
@@ -258,8 +258,8 @@
 | 250 | 179 | Christina Black |
 | 251 | 179 | AyeKay |
 | 252 | 175 | Lorena Guerrero-Barron |
-| 253 | 171 | June Hoffman |
-| 254 | 171 | Autumn Kumzi |
+| 253 | 171 | Autumn Kumzi |
+| 254 | 171 | June Hoffman |
 | 255 | 170 | Elie Pean |
 | 256 | 168 | 23 |
 | 257 | 167 | Cozy Balancer |
@@ -352,8 +352,8 @@
 | 344 | 132 | Vamp |
 | 345 | 131 | Smiley Tiltbuilder |
 | 346 | 131 | Peppy Drop |
-| 347 | 130 | Zach Kerbs |
-| 348 | 130 | Shukee Lo |
+| 347 | 130 | Shukee Lo |
+| 348 | 130 | Zach Kerbs |
 | 349 | 130 | icequeenx |
 | 350 | 129 | Sherri |
 | 351 | 129 | Chris Alexinas |

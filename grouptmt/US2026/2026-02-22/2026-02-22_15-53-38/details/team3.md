@@ -117,8 +117,8 @@
 | 109 | 568 | Rachael McClain Owens |
 | 110 | 566 | Dolores Falco |
 | 111 | 565 | Patty Allen |
-| 112 | 562 | Louise Stacy Sisson |
-| 113 | 562 | Dave Herzog |
+| 112 | 562 | Dave Herzog |
+| 113 | 562 | Louise Stacy Sisson |
 | 114 | 551 | Kristie |
 | 115 | 549 | Nicole Myers |
 | 116 | 533 | Alaina Lee |
@@ -354,10 +354,10 @@
 | 346 | 200 | Everret Maxine |
 | 347 | 200 | Saucy Buildout |
 | 348 | 199 | Samantha Worley |
-| 349 | 199 | Mariah Williams |
-| 350 | 199 | Kristian Thurman |
-| 351 | 198 | Zac Hudak |
-| 352 | 198 | Goofy Fall |
+| 349 | 199 | Kristian Thurman |
+| 350 | 199 | Mariah Williams |
+| 351 | 198 | Goofy Fall |
+| 352 | 198 | Zac Hudak |
 | 353 | 196 | Ashley Lynn Marchese |
 | 354 | 195 | Nicha Hooker |
 | 355 | 193 | Clever Shiftsnap |

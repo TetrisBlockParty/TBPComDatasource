@@ -80,8 +80,8 @@
 | 72 | 483 | Ryan Lunnin |
 | 73 | 483 | MomMom |
 | 74 | 483 | Evie Khalil |
-| 75 | 480 | Spunky Piecebuilder |
-| 76 | 480 | Nancy Green |
+| 75 | 480 | Nancy Green |
+| 76 | 480 | Spunky Piecebuilder |
 | 77 | 472 | April Carroll |
 | 78 | 471 | Jennifer ManWarren |
 | 79 | 456 | Arianna O'Brien |
@@ -121,8 +121,8 @@
 | 113 | 344 | Bhelle Sumile |
 | 114 | 343 | Death |
 | 115 | 342 | Brenda Stewart |
-| 116 | 341 | David Miller |
-| 117 | 341 | Nick R Montague |
+| 116 | 341 | Nick R Montague |
+| 117 | 341 | David Miller |
 | 118 | 334 | Jaimie Lynn |
 | 119 | 333 | Brandi Huntington |
 | 120 | 333 | Gracie |
@@ -183,8 +183,8 @@
 | 175 | 249 | Lakeisha Chapman |
 | 176 | 246 | Billie Dawn Sparks |
 | 177 | 246 | Mike Ames |
-| 178 | 244 | Marianita Garcia |
-| 179 | 244 | Eddie Dillon |
+| 178 | 244 | Eddie Dillon |
+| 179 | 244 | Marianita Garcia |
 | 180 | 243 | Trippy Redd |
 | 181 | 241 | John J. Cronin |
 | 182 | 240 | DaRascal |
@@ -287,8 +287,8 @@
 | 279 | 173 | Rico Rico |
 | 280 | 171 | Greg Premoe |
 | 281 | 171 | Chris65 |
-| 282 | 170 | Spunky Builderpiece |
-| 283 | 170 | Tina Englert |
+| 282 | 170 | Tina Englert |
+| 283 | 170 | Spunky Builderpiece |
 | 284 | 169 | Allena Craft |
 | 285 | 169 | Abbey Crespo |
 | 286 | 168 | Angela Fairbank |
@@ -316,9 +316,9 @@
 | 308 | 155 | Barry Mac'Ockner |
 | 309 | 155 | Strig |
 | 310 | 154 | Larry Tilton |
-| 311 | 153 | John Kim |
-| 312 | 153 | Dino |
-| 313 | 153 | Tami Luce Martin |
+| 311 | 153 | Tami Luce Martin |
+| 312 | 153 | John Kim |
+| 313 | 153 | Dino |
 | 314 | 152 | Speedy Snapfall |
 | 315 | 151 | Gilbert Ortiz Jr. |
 | 316 | 151 | Evan Richmond |
