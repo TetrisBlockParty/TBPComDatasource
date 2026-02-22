@@ -169,8 +169,8 @@
 | 161 | 845 | April Dawn Gussler |
 | 162 | 838 | Tralonda Weeks |
 | 163 | 826 | Cindy Sechler Taninecz |
-| 164 | 815 | Moni Foxe |
-| 165 | 815 | Chirpy Staggerpiece |
+| 164 | 815 | Chirpy Staggerpiece |
+| 165 | 815 | Moni Foxe |
 | 166 | 811 | James Simms III |
 | 167 | 811 | Rebecca Doughman |
 | 168 | 808 | John Bednarik |
@@ -288,13 +288,13 @@
 | 280 | 543 | Teresa Gillmore |
 | 281 | 543 | Adira Brown |
 | 282 | 542 | Slip |
-| 283 | 535 | Paul Huber |
-| 284 | 535 | Jessie McDougald |
+| 283 | 535 | Jessie McDougald |
+| 284 | 535 | Paul Huber |
 | 285 | 531 | Chris Wanner |
-| 286 | 528 | Brownie Sheena |
-| 287 | 528 | Taylor Phillips |
-| 288 | 527 | Ryan Gunther |
-| 289 | 527 | Heather Causey |
+| 286 | 528 | Taylor Phillips |
+| 287 | 528 | Brownie Sheena |
+| 288 | 527 | Heather Causey |
+| 289 | 527 | Ryan Gunther |
 | 290 | 525 | Desiree Anderson |
 | 291 | 520 | Cheech Dta |
 | 292 | 519 | Rob Brown |

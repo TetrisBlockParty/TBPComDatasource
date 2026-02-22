@@ -76,9 +76,9 @@
 | 68 | 604 | Danielle Becker |
 | 69 | 596 | Jessica Bechler |
 | 70 | 588 | yoyo |
-| 71 | 582 | Jay Horn |
+| 71 | 582 | Natasha Jones |
 | 72 | 582 | Katrina Schroeder |
-| 73 | 582 | Natasha Jones |
+| 73 | 582 | Jay Horn |
 | 74 | 581 | Danielle Mogg |
 | 75 | 580 | Amanda L Baker |
 | 76 | 576 | Dan Rob |
@@ -117,8 +117,8 @@
 | 109 | 416 | Mary Pellegrino |
 | 110 | 412 | Khristen AC |
 | 111 | 410 | Stephanie Simpson |
-| 112 | 403 | FuzzyNavel |
-| 113 | 403 | Christine Filson |
+| 112 | 403 | Christine Filson |
+| 113 | 403 | FuzzyNavel |
 | 114 | 400 | Luciana Braganca Vieira |
 | 115 | 399 | Patti Skiles |
 | 116 | 399 | ren |
@@ -181,8 +181,8 @@
 | 173 | 267 | Denise Nardoni |
 | 174 | 263 | Angeline Joseph |
 | 175 | 262 | Joe-Maggie Mathews |
-| 176 | 261 | Tiffany Ford |
-| 177 | 261 | Tom Nault |
+| 176 | 261 | Tom Nault |
+| 177 | 261 | Tiffany Ford |
 | 178 | 260 | Grams |
 | 179 | 258 | Tamara Deherrera |
 | 180 | 257 | Ashley Jones |

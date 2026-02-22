@@ -45,8 +45,8 @@
 | 37 | 632 | Kimyatta Cavin |
 | 38 | 630 | Dustee Craddock-Harrison |
 | 39 | 608 | Denny Shives |
-| 40 | 603 | Chilly Line |
-| 41 | 603 | LisaJo Picken Buchanan |
+| 40 | 603 | LisaJo Picken Buchanan |
+| 41 | 603 | Chilly Line |
 | 42 | 594 | Ancient Intuition |
 | 43 | 590 | Valerie Roberts |
 | 44 | 555 | Clarence Patawaran |
@@ -111,8 +111,8 @@
 | 103 | 273 | Carrie Brian |
 | 104 | 271 | Sarah Brown |
 | 105 | 268 | Meagan Nicole |
-| 106 | 264 | Epic Curvetile |
-| 107 | 264 | Girl |
+| 106 | 264 | Girl |
+| 107 | 264 | Epic Curvetile |
 | 108 | 258 | Brittney Orengo |
 | 109 | 257 | Holly Jolly |
 | 110 | 256 | Mylo Lipscomb |
@@ -155,14 +155,14 @@
 | 147 | 189 | Stacey Stano |
 | 148 | 187 | TheNeesh50 |
 | 149 | 186 | Holly |
-| 150 | 185 | Lori |
-| 151 | 185 | Andy Cabral |
+| 150 | 185 | Andy Cabral |
+| 151 | 185 | Lori |
 | 152 | 184 | Ak Jones |
 | 153 | 181 | Carter Jones |
 | 154 | 181 | Andria Lynn |
 | 155 | 181 | Klo |
-| 156 | 180 | Ren Mc |
-| 157 | 180 | Leah Kutz Zirbel |
+| 156 | 180 | Leah Kutz Zirbel |
+| 157 | 180 | Ren Mc |
 | 158 | 176 | Zethra Prenisha Rahming |
 | 159 | 175 | blockstar |
 | 160 | 174 | Dihcheese444 |

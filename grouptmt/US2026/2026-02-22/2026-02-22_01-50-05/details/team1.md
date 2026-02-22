@@ -81,8 +81,8 @@
 | 73 | 353 | Trina Gee |
 | 74 | 347 | pjbeta |
 | 75 | 345 | Dee Perry |
-| 76 | 338 | Stephanie Zahn |
-| 77 | 338 | Tipsy Strikerpiece |
+| 76 | 338 | Tipsy Strikerpiece |
+| 77 | 338 | Stephanie Zahn |
 | 78 | 333 | Brandi Huntington |
 | 79 | 329 | Luciano Moreira |
 | 80 | 328 | Kellie |
@@ -105,15 +105,15 @@
 | 97 | 292 | Kristen Gideon |
 | 98 | 290 | Death |
 | 99 | 285 | Ananda Mendez |
-| 100 | 284 | Theo Pinnow |
-| 101 | 284 | Emily Adelaide Wheatley |
+| 100 | 284 | Emily Adelaide Wheatley |
+| 101 | 284 | Theo Pinnow |
 | 102 | 282 | Timothy Dew |
 | 103 | 280 | Sarah Roberts |
 | 104 | 279 | Seante Bullock |
 | 105 | 277 | Ly Phethmany |
 | 106 | 275 | Cynthia Bradley |
-| 107 | 273 | Happy Basegrid |
-| 108 | 273 | Bhelle Sumile |
+| 107 | 273 | Bhelle Sumile |
+| 108 | 273 | Happy Basegrid |
 | 109 | 272 | Rachael |
 | 110 | 263 | Sharon Reynolds |
 | 111 | 262 | Dandy Basegrid |
@@ -153,8 +153,8 @@
 | 145 | 192 | Shaykmia |
 | 146 | 192 | Jessica Sheehan |
 | 147 | 191 | Diane Byrd |
-| 148 | 190 | Sweetts |
-| 149 | 190 | Thorne Shumate |
+| 148 | 190 | Thorne Shumate |
+| 149 | 190 | Sweetts |
 | 150 | 188 | Sam Williams |
 | 151 | 187 | Jennifer Olewnik Soborowski |
 | 152 | 187 | Snippy Wipebuilder |
