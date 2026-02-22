@@ -139,13 +139,13 @@
 | 131 | 369 | Nope Young |
 | 132 | 368 | Lucas J Sutton |
 | 133 | 357 | Trista Leah |
-| 134 | 354 | Kesha Brady |
-| 135 | 354 | Jessica Lynn Cutlip |
+| 134 | 354 | Jessica Lynn Cutlip |
+| 135 | 354 | Kesha Brady |
 | 136 | 353 | Livvy |
 | 137 | 353 | Tyler Terrific |
 | 138 | 344 | Lush Linkfall |
-| 139 | 343 | Latisha Davis |
-| 140 | 343 | ThaEviLJeNiuZ |
+| 139 | 343 | ThaEviLJeNiuZ |
+| 140 | 343 | Latisha Davis |
 | 141 | 339 | David Lay |
 | 142 | 336 | Jessica Bohlken |
 | 143 | 334 | Guy Incognito |
@@ -264,8 +264,8 @@
 | 256 | 202 | Patron Anderson |
 | 257 | 202 | Orchislactea |
 | 258 | 201 | Chaz |
-| 259 | 200 | Googenheim |
-| 260 | 200 | Lori |
+| 259 | 200 | Lori |
+| 260 | 200 | Googenheim |
 | 261 | 198 | Calvin Dennis |
 | 262 | 198 | Silly SeaWeed |
 | 263 | 198 | Angelito |

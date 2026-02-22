@@ -53,8 +53,8 @@
 | 45 | 783 | Redlicious 1 |
 | 46 | 779 | Andrea Dañielle Ortiz |
 | 47 | 777 | Patrick Luckenbill |
-| 48 | 770 | Lawrence Belanger |
-| 49 | 770 | Zappy Curvetile |
+| 48 | 770 | Zappy Curvetile |
+| 49 | 770 | Lawrence Belanger |
 | 50 | 760 | Kristen Roles Robben |
 | 51 | 749 | Jacqueline Williams |
 | 52 | 746 | Stef Hu |
@@ -135,8 +135,8 @@
 | 127 | 370 | Ly Phethmany |
 | 128 | 366 | And |
 | 129 | 364 | Shauna Loe |
-| 130 | 360 | Wisa |
-| 131 | 360 | phrmblk24 |
+| 130 | 360 | phrmblk24 |
+| 131 | 360 | Wisa |
 | 132 | 359 | Chirpy Smasher |
 | 133 | 357 | Amanda Johnson Huffman |
 | 134 | 350 | Death |
@@ -205,8 +205,8 @@
 | 197 | 261 | Witty Builderfit |
 | 198 | 260 | Cheeky Pop |
 | 199 | 256 | Chris65 |
-| 200 | 254 | Al Smith Jr |
-| 201 | 254 | Giggly Builderline |
+| 200 | 254 | Giggly Builderline |
+| 201 | 254 | Al Smith Jr |
 | 202 | 253 | Jamie Jury |
 | 203 | 252 | Dena Kayy |
 | 204 | 249 | Lakeisha Chapman |
@@ -301,17 +301,17 @@
 | 293 | 189 | Bird Person |
 | 294 | 189 | Tawnya Peltonen |
 | 295 | 188 | Brave Wrecker |
-| 296 | 187 | GringaLinga |
+| 296 | 187 | Cool Towerzone |
 | 297 | 187 | Jessica Weed |
-| 298 | 187 | Cool Towerzone |
+| 298 | 187 | GringaLinga |
 | 299 | 185 | Hasty Columnbuilder |
 | 300 | 184 | Cranky Pattern |
 | 301 | 184 | Chris Sigurdson |
 | 302 | 183 | Tina Englert |
 | 303 | 183 | Dino |
 | 304 | 181 | David DeSantis |
-| 305 | 179 | Speedy Snapfall |
-| 306 | 179 | Ryan White |
+| 305 | 179 | Ryan White |
+| 306 | 179 | Speedy Snapfall |
 | 307 | 178 | Gabrielle Louise Malloch |
 | 308 | 177 | Irual Hctrab |
 | 309 | 177 | Jacqueline Unique |

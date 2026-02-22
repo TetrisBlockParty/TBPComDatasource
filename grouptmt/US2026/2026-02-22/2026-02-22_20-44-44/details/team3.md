@@ -70,16 +70,16 @@
 | 62 | 1027 | Gracie |
 | 63 | 1019 | Joey Banks |
 | 64 | 954 | Nate Burnside |
-| 65 | 926 | Judi Dobson |
-| 66 | 926 | Angela M. Fletcher |
+| 65 | 926 | Angela M. Fletcher |
+| 66 | 926 | Judi Dobson |
 | 67 | 924 | Shonna Roberts |
 | 68 | 909 | Jennifer |
 | 69 | 903 | Sarah Fehring |
 | 70 | 892 | Corie A. Brinson |
 | 71 | 882 | Tiff Vs Tiffany |
 | 72 | 878 | Katie Knaus |
-| 73 | 874 | Shari Garber |
-| 74 | 874 | Jessica Pineda-Lopez |
+| 73 | 874 | Jessica Pineda-Lopez |
+| 74 | 874 | Shari Garber |
 | 75 | 870 | Nerdy Riseclear |
 | 76 | 866 | Ebony West-Cundiff |
 | 77 | 864 | Mary Pellegrino |
@@ -163,8 +163,8 @@
 | 155 | 479 | Poppy Splitter |
 | 156 | 474 | Danielle Balcom |
 | 157 | 473 | Calista Jo Dickson |
-| 158 | 471 | Nora Rogers |
-| 159 | 471 | Mendoza Lee Christy |
+| 158 | 471 | Mendoza Lee Christy |
+| 159 | 471 | Nora Rogers |
 | 160 | 470 | Logan Naccarato |
 | 161 | 469 | Adrian Marcel Pate |
 | 162 | 469 | Melissa Orth Hunter |
@@ -183,9 +183,9 @@
 | 175 | 447 | Shunta Jacobs |
 | 176 | 445 | Jacqueline Rodriguez |
 | 177 | 441 | Tasha Schriewer |
-| 178 | 432 | Jenny Hrndz |
+| 178 | 432 | Luciana Braganca Vieira |
 | 179 | 432 | Christine Trester |
-| 180 | 432 | Luciana Braganca Vieira |
+| 180 | 432 | Jenny Hrndz |
 | 181 | 431 | Sarah Cowan Burgos |
 | 182 | 430 | Jeni Dow |
 | 183 | 430 | Joye Sims Binion |
@@ -198,8 +198,8 @@
 | 190 | 416 | Staci George Fitzsimmons |
 | 191 | 415 | ren |
 | 192 | 410 | Stephanie Simpson |
-| 193 | 405 | Marcie Bressler |
-| 194 | 405 | Sherry Ogden |
+| 193 | 405 | Sherry Ogden |
+| 194 | 405 | Marcie Bressler |
 | 195 | 405 | Tom Nault |
 | 196 | 404 | Chasity |
 | 197 | 403 | Scott Lindsay |
@@ -226,16 +226,16 @@
 | 218 | 360 | Sheila M Frazier |
 | 219 | 357 | Stephanie Burtin |
 | 220 | 355 | Keis |
-| 221 | 351 | Rebecca Funderburk Kirby |
-| 222 | 351 | Eon Harris |
+| 221 | 351 | Eon Harris |
+| 222 | 351 | Rebecca Funderburk Kirby |
 | 223 | 350 | Kammy Hill |
 | 224 | 349 | Amanda J. Mcneil-Anderson |
 | 225 | 348 | Kristal C Lee |
 | 226 | 347 | Trisha Balmer |
 | 227 | 347 | Philip Rock |
 | 228 | 346 | Tamara Deherrera |
-| 229 | 344 | Rania Zaqout |
-| 230 | 344 | Roary Danner |
+| 229 | 344 | Roary Danner |
+| 230 | 344 | Rania Zaqout |
 | 231 | 343 | Ashley Raines |
 | 232 | 341 | Ashley Tookes |
 | 233 | 341 | Noyb Adam |
@@ -257,9 +257,9 @@
 | 249 | 317 | Kelly |
 | 250 | 312 | Charles Perrone |
 | 251 | 308 | Cynthia Herrmann Egland |
-| 252 | 307 | Blocked |
-| 253 | 307 | Snappy Balancer |
-| 254 | 307 | rnr junky |
+| 252 | 307 | Snappy Balancer |
+| 253 | 307 | rnr junky |
+| 254 | 307 | Blocked |
 | 255 | 306 | Felicia Rocha |
 | 256 | 304 | Marquita Sheard |
 | 257 | 302 | Gray Hicks |
@@ -269,8 +269,8 @@
 | 261 | 298 | Grams |
 | 262 | 298 | MsBee |
 | 263 | 297 | Jojo M |
-| 264 | 296 | Hoppy Buildout |
-| 265 | 296 | Katrina Turner |
+| 264 | 296 | Katrina Turner |
+| 265 | 296 | Hoppy Buildout |
 | 266 | 295 | Tiffany Davie |
 | 267 | 293 | Tye Stovall |
 | 268 | 292 | Cheeky Snapper |

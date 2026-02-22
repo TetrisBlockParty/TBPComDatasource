@@ -513,10 +513,10 @@
 | 505 | 515 | Armonie Smith |
 | 506 | 514 | Karen Posadas Centeno |
 | 507 | 512 | Leslie Jorgenson |
-| 508 | 511 | Laura Mclean |
-| 509 | 511 | Adam Simmons |
-| 510 | 509 | Kelli Wells |
-| 511 | 509 | Jordan Kaiser |
+| 508 | 511 | Adam Simmons |
+| 509 | 511 | Laura Mclean |
+| 510 | 509 | Jordan Kaiser |
+| 511 | 509 | Kelli Wells |
 | 512 | 508 | Erika Densmore |
 | 513 | 507 | Kitybox |
 | 514 | 507 | Daniell Martinez |
@@ -963,13 +963,13 @@
 | 955 | 292 | Atara James |
 | 956 | 292 | calcap |
 | 957 | 292 | Dapper Setter |
-| 958 | 291 | Joy LaJeunesse |
-| 959 | 291 | Hfcbgc |
-| 960 | 291 | Denisse Avilez |
+| 958 | 291 | Denisse Avilez |
+| 959 | 291 | Joy LaJeunesse |
+| 960 | 291 | Hfcbgc |
 | 961 | 291 | Candace Noel |
 | 962 | 290 | Erika Deer Kauffman |
-| 963 | 290 | Dottie Turbeville Creel |
-| 964 | 290 | Janis Resendiz |
+| 963 | 290 | Janis Resendiz |
+| 964 | 290 | Dottie Turbeville Creel |
 | 965 | 289 | Cathy Bitters |
 | 966 | 289 | Alison Emmons |
 | 967 | 289 | Ryan Chan |
