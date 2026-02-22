@@ -165,8 +165,8 @@
 | 157 | 347 | Nicole Flippo |
 | 158 | 343 | Ashley Raines |
 | 159 | 338 | Leah Barnett |
-| 160 | 332 | Rich LeBlanc |
-| 161 | 332 | Fallorina Susana |
+| 160 | 332 | Fallorina Susana |
+| 161 | 332 | Rich LeBlanc |
 | 162 | 328 | Aaron Pitkin |
 | 163 | 323 | Demetrious Shaw Sr. |
 | 164 | 320 | Or Reznitsky |

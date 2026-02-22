@@ -237,9 +237,9 @@
 | 229 | 705 | Roger Grabbit |
 | 230 | 704 | Shelley Thornburgh Wright |
 | 231 | 703 | Gold Rose |
-| 232 | 700 | Beverly Owens |
-| 233 | 700 | Rosemadder |
-| 234 | 700 | Vincent Petrella |
+| 232 | 700 | Vincent Petrella |
+| 233 | 700 | Beverly Owens |
+| 234 | 700 | Rosemadder |
 | 235 | 698 | Mighty Shatterfit |
 | 236 | 697 | Dreamy Blast |
 | 237 | 693 | Hillary Crawford |
@@ -352,10 +352,10 @@
 | 344 | 502 | Poppy Snap |
 | 345 | 500 | Sarah Ridenour |
 | 346 | 499 | Sarah Massey |
-| 347 | 497 | Kimberly Randesi |
-| 348 | 497 | Jeremy Parodi |
-| 349 | 496 | Nashu |
-| 350 | 496 | Blacc Blac |
+| 347 | 497 | Jeremy Parodi |
+| 348 | 497 | Kimberly Randesi |
+| 349 | 496 | Blacc Blac |
+| 350 | 496 | Nashu |
 | 351 | 495 | William Hunt |
 | 352 | 494 | Doowop40 |
 | 353 | 493 | Kara Gillen |
@@ -364,8 +364,8 @@
 | 356 | 491 | Michael Buckner |
 | 357 | 489 | BeQuo |
 | 358 | 489 | Osun Anuket Esu |
-| 359 | 488 | Venita Ray |
-| 360 | 488 | Andrew Willis |
+| 359 | 488 | Andrew Willis |
+| 360 | 488 | Venita Ray |
 | 361 | 487 | MrsCandyfine As Wine Truss |
 | 362 | 485 | Mamachelle Eisweirth |
 | 363 | 483 | Alezandra Smith |
@@ -534,8 +534,8 @@
 | 526 | 361 | Lewis Sturgeon |
 | 527 | 360 | Jroc |
 | 528 | 359 | Cheyenne Donovan |
-| 529 | 358 | Alyssaaelena |
-| 530 | 358 | Sydney Busse |
+| 529 | 358 | Sydney Busse |
+| 530 | 358 | Alyssaaelena |
 | 531 | 358 | Veronics |
 | 532 | 358 | Jessica Lamb |
 | 533 | 357 | Quinn |

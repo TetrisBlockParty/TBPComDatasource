@@ -90,8 +90,8 @@
 | 82 | 373 | Joseph Guthrie |
 | 83 | 370 | Leslie Thomas |
 | 84 | 369 | Nope Young |
-| 85 | 358 | Nugget |
-| 86 | 358 | Shane Kalamata Platoon |
+| 85 | 358 | Shane Kalamata Platoon |
+| 86 | 358 | Nugget |
 | 87 | 352 | Monica Daley |
 | 88 | 337 | Julian Garcia |
 | 89 | 337 | Lori Walker |
