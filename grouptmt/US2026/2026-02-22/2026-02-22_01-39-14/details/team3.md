@@ -97,8 +97,8 @@
 | 89 | 507 | Jennifer Petrie |
 | 90 | 506 | Sashay Tapae Simpson |
 | 91 | 503 | Susan Valentino |
-| 92 | 502 | Patricia Gadsden |
-| 93 | 502 | Justin Ritter |
+| 92 | 502 | Justin Ritter |
+| 93 | 502 | Patricia Gadsden |
 | 94 | 493 | Mandy Smith Oldham |
 | 95 | 491 | Chauntee Alfrey-Cardinale |
 | 96 | 475 | Domo Washington |
@@ -112,8 +112,8 @@
 | 104 | 438 | Bea Miles |
 | 105 | 432 | Jenny Hrndz |
 | 106 | 430 | Patricia White |
-| 107 | 428 | Betty Ivy |
-| 108 | 428 | Elissa S-k |
+| 107 | 428 | Elissa S-k |
+| 108 | 428 | Betty Ivy |
 | 109 | 416 | Mary Pellegrino |
 | 110 | 410 | Stephanie Simpson |
 | 111 | 403 | FuzzyNavel |
@@ -181,8 +181,8 @@
 | 173 | 267 | Denise Nardoni |
 | 174 | 263 | Angeline Joseph |
 | 175 | 262 | Joe-Maggie Mathews |
-| 176 | 261 | Tom Nault |
-| 177 | 261 | Tiffany Ford |
+| 176 | 261 | Tiffany Ford |
+| 177 | 261 | Tom Nault |
 | 178 | 258 | Tamara Deherrera |
 | 179 | 257 | Ashley Jones |
 | 180 | 256 | KayB |
@@ -260,8 +260,8 @@
 | 252 | 177 | Saucy Buildout |
 | 253 | 176 | rosy |
 | 254 | 174 | Marquita Sheard |
-| 255 | 173 | Denita Mungro |
-| 256 | 173 | BŘŰŤİÇŨŚ |
+| 255 | 173 | BŘŰŤİÇŨŚ |
+| 256 | 173 | Denita Mungro |
 | 257 | 171 | Emma |
 | 258 | 170 | Lesley Perez |
 | 259 | 169 | Eileen Brady Thurber |

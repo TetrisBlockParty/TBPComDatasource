@@ -119,9 +119,9 @@
 | 111 | 246 | Dizzy Tiley |
 | 112 | 232 | Peachy Fall |
 | 113 | 231 | Chastity Mitchell |
-| 114 | 230 | Autum Leigh |
-| 115 | 230 | Lucas J Sutton |
-| 116 | 230 | Daria Rycewicz |
+| 114 | 230 | Lucas J Sutton |
+| 115 | 230 | Daria Rycewicz |
+| 116 | 230 | Autum Leigh |
 | 117 | 225 | Damn Libra |
 | 118 | 222 | Joeliecea Cobb |
 | 119 | 221 | PurpleMoonMa |

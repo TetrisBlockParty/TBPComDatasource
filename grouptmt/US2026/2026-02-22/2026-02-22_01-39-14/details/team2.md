@@ -379,8 +379,8 @@
 | 371 | 429 | Crystie Hicks |
 | 372 | 429 | Christy Krissie |
 | 373 | 428 | Rhonda Milstead |
-| 374 | 427 | Destiny Cozier |
-| 375 | 427 | Amanda Ferrell |
+| 374 | 427 | Amanda Ferrell |
+| 375 | 427 | Destiny Cozier |
 | 376 | 427 | Kori Beth Babb |
 | 377 | 425 | Skyler Morgan |
 | 378 | 423 | Sam |
@@ -463,9 +463,9 @@
 | 455 | 355 | Jessica Lamb |
 | 456 | 354 | Connie Lepore-Mann |
 | 457 | 354 | Lawanda Forbes |
-| 458 | 354 | Rickey Johnson |
+| 458 | 354 | F-X |
 | 459 | 354 | Jennifer Scott |
-| 460 | 354 | F-X |
+| 460 | 354 | Rickey Johnson |
 | 461 | 353 | Cheery Matchzone |
 | 462 | 352 | Andrea Maher |
 | 463 | 352 | Jean FU Jagielski |
