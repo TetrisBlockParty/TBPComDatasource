@@ -47,8 +47,8 @@
 | 39 | 646 | Jacqueline Helm |
 | 40 | 634 | Anthony Bryan Riva |
 | 41 | 632 | Kimyatta Cavin |
-| 42 | 630 | Chilly Line |
-| 43 | 630 | Dustee Craddock-Harrison |
+| 42 | 630 | Dustee Craddock-Harrison |
+| 43 | 630 | Chilly Line |
 | 44 | 627 | Jonathan Kimbrough |
 | 45 | 620 | Cassie Michaux |
 | 46 | 614 | KM8 |
@@ -171,11 +171,11 @@
 | 163 | 189 | Stacey Stano |
 | 164 | 188 | Andria Lynn |
 | 165 | 186 | Holly |
-| 166 | 185 | Andy Cabral |
-| 167 | 185 | Lori |
+| 166 | 185 | Lori |
+| 167 | 185 | Andy Cabral |
 | 168 | 184 | Ak Jones |
-| 169 | 181 | Klo |
-| 170 | 181 | Carter Jones |
+| 169 | 181 | Carter Jones |
+| 170 | 181 | Klo |
 | 171 | 179 | blockstar |
 | 172 | 176 | Zethra Prenisha Rahming |
 | 173 | 174 | Dihcheese444 |
@@ -194,8 +194,8 @@
 | 186 | 158 | Avy Absol |
 | 187 | 158 | Chair |
 | 188 | 155 | AyeKay |
-| 189 | 154 | scott |
-| 190 | 154 | Laura Hosford |
+| 189 | 154 | Laura Hosford |
+| 190 | 154 | scott |
 | 191 | 153 | Empress Oasis |
 | 192 | 152 | John Brunetti |
 | 193 | 152 | Austin Owens |

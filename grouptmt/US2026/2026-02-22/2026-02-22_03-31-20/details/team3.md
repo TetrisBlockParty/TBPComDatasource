@@ -71,8 +71,8 @@
 | 63 | 704 | Suzieq |
 | 64 | 703 | Jessica Bechler |
 | 65 | 682 | Patricia Gadsden |
-| 66 | 656 | Ebony West-Cundiff |
-| 67 | 656 | Elaine Webb Graves |
+| 66 | 656 | Elaine Webb Graves |
+| 67 | 656 | Ebony West-Cundiff |
 | 68 | 649 | MissTaylor |
 | 69 | 628 | Tiff Vs Tiffany |
 | 70 | 621 | Cherry Parker |
@@ -83,8 +83,8 @@
 | 75 | 590 | Katrina Schroeder |
 | 76 | 588 | yoyo |
 | 77 | 582 | Jay Horn |
-| 78 | 582 | Natasha Jones |
-| 79 | 582 | Speedy Bridger |
+| 78 | 582 | Speedy Bridger |
+| 79 | 582 | Natasha Jones |
 | 80 | 581 | Danielle Mogg |
 | 81 | 576 | Dan Rob |
 | 82 | 566 | Dolores Falco |
@@ -152,8 +152,8 @@
 | 144 | 366 | Adrian Marcel Pate |
 | 145 | 365 | Logan Naccarato |
 | 146 | 359 | Dapper Snap |
-| 147 | 355 | Sherry Ogden |
-| 148 | 355 | Tessina Dewey-Mancino |
+| 147 | 355 | Tessina Dewey-Mancino |
+| 148 | 355 | Sherry Ogden |
 | 149 | 353 | CeceGeGe |
 | 150 | 350 | Darlene McMillan |
 | 151 | 347 | Nicole Flippo |

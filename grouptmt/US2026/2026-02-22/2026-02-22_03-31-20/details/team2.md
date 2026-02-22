@@ -155,8 +155,8 @@
 | 147 | 983 | Teddi Notyalc |
 | 148 | 977 | Ricardo Burton |
 | 149 | 974 | Dolores Russworn |
-| 150 | 973 | Janel Turley-Garner |
-| 151 | 973 | Kim Dean |
+| 150 | 973 | Kim Dean |
+| 151 | 973 | Janel Turley-Garner |
 | 152 | 970 | Mr. Street Stack |
 | 153 | 953 | Ladyrainbootz |
 | 154 | 951 | Cynthia Ward |
@@ -236,8 +236,8 @@
 | 228 | 699 | Vo'Landa Reels |
 | 229 | 698 | Mighty Shatterfit |
 | 230 | 697 | Dreamy Blast |
-| 231 | 692 | Dannette Goldberg-Richards |
-| 232 | 692 | Jennifer Casey-Kay |
+| 231 | 692 | Jennifer Casey-Kay |
+| 232 | 692 | Dannette Goldberg-Richards |
 | 233 | 692 | Chelle |
 | 234 | 690 | Deborah Miller |
 | 235 | 688 | ShinyRose |
