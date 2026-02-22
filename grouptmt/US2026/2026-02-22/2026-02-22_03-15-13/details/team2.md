@@ -181,8 +181,8 @@
 | 173 | 865 | Dedra Steward |
 | 174 | 861 | Jennifer Peachey |
 | 175 | 857 | Della Hole |
-| 176 | 850 | Missie Lawson Gebhardt |
-| 177 | 850 | Stephanie Chapman |
+| 176 | 850 | Stephanie Chapman |
+| 177 | 850 | Missie Lawson Gebhardt |
 | 178 | 849 | Jennifer Kistner |
 | 179 | 845 | April Dawn Gussler |
 | 180 | 838 | Tralonda Weeks |
@@ -304,12 +304,12 @@
 | 296 | 543 | Adira Brown |
 | 297 | 540 | Offonar Facey |
 | 298 | 537 | Cherica Taylor |
-| 299 | 535 | Jessie McDougald |
-| 300 | 535 | Paul Huber |
+| 299 | 535 | Paul Huber |
+| 300 | 535 | Jessie McDougald |
 | 301 | 531 | Chris Wanner |
 | 302 | 528 | Brownie Sheena |
-| 303 | 527 | Heather Causey |
-| 304 | 527 | Ryan Gunther |
+| 303 | 527 | Ryan Gunther |
+| 304 | 527 | Heather Causey |
 | 305 | 526 | Sheronda Jackson |
 | 306 | 525 | Desiree Anderson |
 | 307 | 521 | Tj Ball |
@@ -427,8 +427,8 @@
 | 419 | 413 | Lauren Fitzgerald Thomas |
 | 420 | 412 | Véronique Lévesque Sabourin |
 | 421 | 412 | F-X |
-| 422 | 411 | Ricky Fortune |
-| 423 | 411 | Kristen O'Neal |
+| 422 | 411 | Kristen O'Neal |
+| 423 | 411 | Ricky Fortune |
 | 424 | 408 | Brandon Jones |
 | 425 | 406 | Hong Tang |
 | 426 | 406 | Julie Kresal |

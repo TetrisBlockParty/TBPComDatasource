@@ -223,8 +223,8 @@
 | 215 | 144 | Miguel Teixeira |
 | 216 | 143 | Guest |
 | 217 | 142 | Colleen Wise |
-| 218 | 141 | Blaire Bruckoff |
-| 219 | 141 | Dino |
+| 218 | 141 | Dino |
+| 219 | 141 | Blaire Bruckoff |
 | 220 | 139 | Flashy Rotator |
 | 221 | 138 | Hector Cruz |
 | 222 | 138 | Mark Smith |

@@ -203,9 +203,9 @@
 | 195 | 260 | Grams |
 | 196 | 258 | Tamara Deherrera |
 | 197 | 257 | Ashley Jones |
-| 198 | 256 | Brenda Lee Vander Molen |
+| 198 | 256 | KayB |
 | 199 | 256 | Tiffany Davie |
-| 200 | 256 | KayB |
+| 200 | 256 | Brenda Lee Vander Molen |
 | 201 | 254 | Duane Bright |
 | 202 | 253 | Karon Griffin |
 | 203 | 253 | Nora Rogers |

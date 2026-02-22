@@ -43,8 +43,8 @@
 | 35 | 704 | Crystal Carroll |
 | 36 | 697 | Edward White |
 | 37 | 659 | Rebecca Moulton Pinciaro |
-| 38 | 646 | Rachel Anne |
-| 39 | 646 | Jacqueline Helm |
+| 38 | 646 | Jacqueline Helm |
+| 39 | 646 | Rachel Anne |
 | 40 | 634 | Anthony Bryan Riva |
 | 41 | 632 | Kimyatta Cavin |
 | 42 | 630 | Dustee Craddock-Harrison |
@@ -77,8 +77,8 @@
 | 69 | 409 | Isabella Blanco |
 | 70 | 402 | Courtney Cicoria |
 | 71 | 399 | Jenna Ingersoll |
-| 72 | 396 | Alicia Bass |
-| 73 | 396 | Amy Suckarieh |
+| 72 | 396 | Amy Suckarieh |
+| 73 | 396 | Alicia Bass |
 | 74 | 391 | Ramel Rhodes |
 | 75 | 390 | Carlton Unfiltered |
 | 76 | 388 | YoMomma |
@@ -133,8 +133,8 @@
 | 125 | 230 | Autum Leigh |
 | 126 | 225 | Damn Libra |
 | 127 | 222 | Joeliecea Cobb |
-| 128 | 221 | PurpleMoonMa |
-| 129 | 221 | Alyssa Papen |
+| 128 | 221 | Alyssa Papen |
+| 129 | 221 | PurpleMoonMa |
 | 130 | 220 | Mary Ann Pabukis |
 | 131 | 220 | Matt Dell'Olio |
 | 132 | 218 | Casey Grabner |
@@ -181,8 +181,8 @@
 | 173 | 171 | Diana Houts |
 | 174 | 169 | Kesha Brady |
 | 175 | 168 | 🥔🥔 Spudz |
-| 176 | 166 | Cozy Balancer |
-| 177 | 166 | SammieJo Guy |
+| 176 | 166 | SammieJo Guy |
+| 177 | 166 | Cozy Balancer |
 | 178 | 164 | 030Synner |
 | 179 | 162 | Joanna |
 | 180 | 160 | James Hurley Jr. |
