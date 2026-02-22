@@ -70,8 +70,8 @@
 | 62 | 412 | Anaid Sanchez |
 | 63 | 412 | Jazzy Framezone |
 | 64 | 391 | Robert Benito |
-| 65 | 388 | Yvonne Marie |
-| 66 | 388 | Jennifer ManWarren |
+| 65 | 388 | Jennifer ManWarren |
+| 66 | 388 | Yvonne Marie |
 | 67 | 386 | Candy Jones |
 | 68 | 382 | Lori Sanders- Davis |
 | 69 | 379 | Austin James |
@@ -100,8 +100,8 @@
 | 92 | 313 | Tanya Carpenter-Reynolds |
 | 93 | 310 | Seth Wesson |
 | 94 | 307 | Hyper |
-| 95 | 305 | Patrick Luckenbill |
-| 96 | 305 | Spunky Piecebuilder |
+| 95 | 305 | Spunky Piecebuilder |
+| 96 | 305 | Patrick Luckenbill |
 | 97 | 304 | Nicole Roseberry Weber |
 | 98 | 303 | cc |
 | 99 | 301 | Lehrin Maria |
@@ -117,8 +117,8 @@
 | 109 | 277 | Ly Phethmany |
 | 110 | 276 | Rachael |
 | 111 | 275 | Bhelle Sumile |
-| 112 | 273 | Katie Daniels |
-| 113 | 273 | Happy Basegrid |
+| 112 | 273 | Happy Basegrid |
+| 113 | 273 | Katie Daniels |
 | 114 | 265 | Dandy Basegrid |
 | 115 | 263 | Sharon Reynolds |
 | 116 | 263 | Jason Jones |
@@ -133,14 +133,14 @@
 | 125 | 237 | Greg Hart |
 | 126 | 236 | Mandyy Rae |
 | 127 | 232 | Jessi Sauer |
-| 128 | 230 | Billie Dawn Sparks |
-| 129 | 230 | Frothy Pattern |
+| 128 | 230 | Frothy Pattern |
+| 129 | 230 | Billie Dawn Sparks |
 | 130 | 229 | Jennifer Hardman |
 | 131 | 228 | Jenny Gingrich Fuentes |
-| 132 | 226 | ALFD |
-| 133 | 226 | Kandae |
-| 134 | 216 | Shauntina Burke |
-| 135 | 216 | MRdot Rooski |
+| 132 | 226 | Kandae |
+| 133 | 226 | ALFD |
+| 134 | 216 | MRdot Rooski |
+| 135 | 216 | Shauntina Burke |
 | 136 | 214 | GATOR |
 | 137 | 212 | Jaimie Lynn |
 | 138 | 212 | Lori Bales |
@@ -192,18 +192,18 @@
 | 184 | 169 | Andrew Boone |
 | 185 | 168 | Jessie Lynn |
 | 186 | 168 | Standia Civil |
-| 187 | 167 | Erin Hodges Plumb |
-| 188 | 167 | Nery Martinez |
+| 187 | 167 | Nery Martinez |
+| 188 | 167 | Erin Hodges Plumb |
 | 189 | 166 | Rico Rico |
-| 190 | 165 | Nadine Velardo |
-| 191 | 165 | Silly Align |
+| 190 | 165 | Silly Align |
+| 191 | 165 | Nadine Velardo |
 | 192 | 164 | Shanae Grant |
 | 193 | 163 | Tyler Whitley |
 | 194 | 163 | Angela Fairbank |
 | 195 | 162 | Cece Ibarra |
 | 196 | 161 | SavageBooty98 |
-| 197 | 160 | Tedashi |
-| 198 | 160 | David Miller |
+| 197 | 160 | David Miller |
+| 198 | 160 | Tedashi |
 | 199 | 159 | Bindi |
 | 200 | 158 | Sarah Marie |
 | 201 | 154 | Melissa Lemmon |

@@ -135,8 +135,8 @@
 | 127 | 392 | Katie Knaus |
 | 128 | 391 | Calista Jo Dickson |
 | 129 | 390 | Hasty Cascadefit |
-| 130 | 378 | Tasha Schriewer |
-| 131 | 378 | Makelini Mausia |
+| 130 | 378 | Makelini Mausia |
+| 131 | 378 | Tasha Schriewer |
 | 132 | 376 | Loopy Clusterer |
 | 133 | 373 | Jeni Dow |
 | 134 | 371 | mjl574 |
@@ -223,8 +223,8 @@
 | 215 | 227 | Krystal Gerstberger |
 | 216 | 223 | Jeana Gilbert |
 | 217 | 221 | Jaime Monhaut-Reed |
-| 218 | 219 | Sissy Lowery Davis |
-| 219 | 219 | Shunta Jacobs |
+| 218 | 219 | Shunta Jacobs |
+| 219 | 219 | Sissy Lowery Davis |
 | 220 | 218 | Michael Lucado |
 | 221 | 216 | Tasha Wesson-Torrence |
 | 222 | 215 | IamJust Neyamijah Washington Sr. |
@@ -248,8 +248,8 @@
 | 240 | 203 | Angie Harper |
 | 241 | 200 | glichmod |
 | 242 | 200 | Sharisse Baltimore |
-| 243 | 199 | Staci George Fitzsimmons |
-| 244 | 199 | Rebel124 |
+| 243 | 199 | Rebel124 |
+| 244 | 199 | Staci George Fitzsimmons |
 | 245 | 195 | Nicha Hooker |
 | 246 | 195 | Cheryl Hinch Tenbrook |
 | 247 | 194 | Raven Dudley |

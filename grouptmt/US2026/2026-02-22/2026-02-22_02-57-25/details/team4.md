@@ -43,8 +43,8 @@
 | 35 | 704 | Crystal Carroll |
 | 36 | 697 | Edward White |
 | 37 | 659 | Rebecca Moulton Pinciaro |
-| 38 | 646 | Rachel Anne |
-| 39 | 646 | Jacqueline Helm |
+| 38 | 646 | Jacqueline Helm |
+| 39 | 646 | Rachel Anne |
 | 40 | 634 | Anthony Bryan Riva |
 | 41 | 632 | Kimyatta Cavin |
 | 42 | 630 | Dustee Craddock-Harrison |
@@ -144,8 +144,8 @@
 | 136 | 215 | Jessica Bohlken |
 | 137 | 212 | Mike Solo |
 | 138 | 212 | Calvin Cannon |
-| 139 | 211 | Jenna McGeorge |
-| 140 | 211 | Twisty Cascadezone |
+| 139 | 211 | Twisty Cascadezone |
+| 140 | 211 | Jenna McGeorge |
 | 141 | 210 | Swanky Fitline |
 | 142 | 205 | Tyler Terrific |
 | 143 | 205 | Sarah Neathery |
@@ -188,8 +188,8 @@
 | 180 | 160 | ZeeZee |
 | 181 | 160 | Carlos Ramirez |
 | 182 | 159 | Marcus Todd |
-| 183 | 158 | Chair |
-| 184 | 158 | Avy Absol |
+| 183 | 158 | Avy Absol |
+| 184 | 158 | Chair |
 | 185 | 155 | AyeKay |
 | 186 | 154 | scott |
 | 187 | 153 | Empress Oasis |

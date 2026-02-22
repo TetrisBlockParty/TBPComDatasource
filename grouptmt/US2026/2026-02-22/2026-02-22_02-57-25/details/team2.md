@@ -281,8 +281,8 @@
 | 273 | 587 | Hyper Cluster |
 | 274 | 583 | Jessicah Myers |
 | 275 | 582 | Gary Stash |
-| 276 | 579 | Roy Salyer |
-| 277 | 579 | Juliana Marques Do Nascimento Gordy |
+| 276 | 579 | Juliana Marques Do Nascimento Gordy |
+| 277 | 579 | Roy Salyer |
 | 278 | 578 | Sally Dennis |
 | 279 | 576 | Ginger |
 | 280 | 572 | tejas25 |
@@ -301,13 +301,13 @@
 | 293 | 543 | Adira Brown |
 | 294 | 543 | Teresa Gillmore |
 | 295 | 537 | Cherica Taylor |
-| 296 | 535 | Jessie McDougald |
-| 297 | 535 | Paul Huber |
+| 296 | 535 | Paul Huber |
+| 297 | 535 | Jessie McDougald |
 | 298 | 531 | Chris Wanner |
 | 299 | 528 | Brownie Sheena |
 | 300 | 527 | Offonar Facey |
-| 301 | 527 | Ryan Gunther |
-| 302 | 527 | Heather Causey |
+| 301 | 527 | Heather Causey |
+| 302 | 527 | Ryan Gunther |
 | 303 | 526 | Sheronda Jackson |
 | 304 | 525 | Desiree Anderson |
 | 305 | 521 | Tj Ball |
