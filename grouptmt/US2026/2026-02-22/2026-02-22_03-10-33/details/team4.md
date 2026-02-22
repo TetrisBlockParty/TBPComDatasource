@@ -77,8 +77,8 @@
 | 69 | 409 | Isabella Blanco |
 | 70 | 402 | Courtney Cicoria |
 | 71 | 399 | Jenna Ingersoll |
-| 72 | 396 | Amy Suckarieh |
-| 73 | 396 | Alicia Bass |
+| 72 | 396 | Alicia Bass |
+| 73 | 396 | Amy Suckarieh |
 | 74 | 391 | Ramel Rhodes |
 | 75 | 390 | Carlton Unfiltered |
 | 76 | 388 | YoMomma |
@@ -142,10 +142,10 @@
 | 134 | 217 | loulou |
 | 135 | 217 | Chaz Duncan |
 | 136 | 215 | Jessica Bohlken |
-| 137 | 212 | Mike Solo |
-| 138 | 212 | Calvin Cannon |
-| 139 | 211 | Twisty Cascadezone |
-| 140 | 211 | Jenna McGeorge |
+| 137 | 212 | Calvin Cannon |
+| 138 | 212 | Mike Solo |
+| 139 | 211 | Jenna McGeorge |
+| 140 | 211 | Twisty Cascadezone |
 | 141 | 210 | Swanky Fitline |
 | 142 | 205 | Tyler Terrific |
 | 143 | 205 | Kathy Brookins |
@@ -181,8 +181,8 @@
 | 173 | 171 | Diana Houts |
 | 174 | 169 | Kesha Brady |
 | 175 | 168 | 🥔🥔 Spudz |
-| 176 | 166 | SammieJo Guy |
-| 177 | 166 | Cozy Balancer |
+| 176 | 166 | Cozy Balancer |
+| 177 | 166 | SammieJo Guy |
 | 178 | 164 | 030Synner |
 | 179 | 160 | James Hurley Jr. |
 | 180 | 160 | ZeeZee |

@@ -94,9 +94,9 @@
 | 86 | 326 | Monica Donato |
 | 87 | 323 | Sweet Baker |
 | 88 | 321 | Maria C. Hernandez |
-| 89 | 319 | Deanna L Hermanson |
+| 89 | 319 | Shauna Loe |
 | 90 | 319 | Patrick Luckenbill |
-| 91 | 319 | Shauna Loe |
+| 91 | 319 | Deanna L Hermanson |
 | 92 | 315 | Cynthia Bradley |
 | 93 | 313 | Tanya Carpenter-Reynolds |
 | 94 | 310 | Seth Wesson |
@@ -137,8 +137,8 @@
 | 129 | 230 | Billie Dawn Sparks |
 | 130 | 229 | Jennifer Hardman |
 | 131 | 228 | Jenny Gingrich Fuentes |
-| 132 | 226 | Kandae |
-| 133 | 226 | ALFD |
+| 132 | 226 | ALFD |
+| 133 | 226 | Kandae |
 | 134 | 216 | Shauntina Burke |
 | 135 | 216 | MRdot Rooski |
 | 136 | 214 | GATOR |
@@ -174,8 +174,8 @@
 | 166 | 183 | Sleepysloath5745 |
 | 167 | 180 | BigWeenie69 |
 | 168 | 180 | Erez Yosef |
-| 169 | 179 | Danielle Little-Daugherty |
-| 170 | 179 | femmefatale |
+| 169 | 179 | femmefatale |
+| 170 | 179 | Danielle Little-Daugherty |
 | 171 | 178 | Chad Atchley |
 | 172 | 177 | Irual Hctrab |
 | 173 | 177 | Jacqueline Unique |
@@ -199,8 +199,8 @@
 | 191 | 165 | Silly Align |
 | 192 | 165 | Nadine Velardo |
 | 193 | 164 | Shanae Grant |
-| 194 | 163 | Tyler Whitley |
-| 195 | 163 | Angela Fairbank |
+| 194 | 163 | Angela Fairbank |
+| 195 | 163 | Tyler Whitley |
 | 196 | 162 | Cece Ibarra |
 | 197 | 161 | SavageBooty98 |
 | 198 | 160 | David Miller |
@@ -214,8 +214,8 @@
 | 206 | 150 | Agustin Duarte Orozco |
 | 207 | 150 | Adele Rahman |
 | 208 | 149 | Snappy Swiper |
-| 209 | 147 | Davery Spencer Adair |
-| 210 | 147 | DaRascal |
+| 209 | 147 | DaRascal |
+| 210 | 147 | Davery Spencer Adair |
 | 211 | 146 | Witty Builderfit |
 | 212 | 144 | Gary Gobin |
 | 213 | 144 | Toph |
