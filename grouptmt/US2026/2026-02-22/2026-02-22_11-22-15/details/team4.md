@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Lucille Truesdale |
-| 34 | 843 | Shelly Chandler |
+| 33 | 843 | Shelly Chandler |
+| 34 | 843 | Lucille Truesdale |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -77,8 +77,8 @@
 | 69 | 530 | Yoset Mejia |
 | 70 | 524 | Amelpss |
 | 71 | 521 | Dawn Alexander |
-| 72 | 518 | Carolyn Wallace |
-| 73 | 518 | Eric Mcgaughy |
+| 72 | 518 | Eric Mcgaughy |
+| 73 | 518 | Carolyn Wallace |
 | 74 | 517 | H.R. Block |
 | 75 | 512 | Casey Jeffcoat |
 | 76 | 511 | Michelle Marie |
@@ -128,8 +128,8 @@
 | 120 | 303 | Lauren Scott |
 | 121 | 300 | Jason Hart |
 | 122 | 298 | Lucas J Sutton |
-| 123 | 296 | Justin Hannigan |
-| 124 | 296 | HastyGrabber |
+| 123 | 296 | HastyGrabber |
+| 124 | 296 | Justin Hannigan |
 | 125 | 294 | Kesha Brady |
 | 126 | 290 | 🥔🥔 Spudz |
 | 127 | 287 | Shannon Ferrari |
@@ -724,8 +724,8 @@
 | 716 | 51 | Mike Nelson |
 | 717 | 51 | Dot Flanagan |
 | 718 | 51 | Lane Wasson |
-| 719 | 51 | Allen Johnson |
-| 720 | 51 | Travis Poe |
+| 719 | 51 | Travis Poe |
+| 720 | 51 | Allen Johnson |
 | 721 | 50 | Ashley Lynn Shannon |
 | 722 | 50 | Aroura |
 | 723 | 50 | Will Chamberlain |

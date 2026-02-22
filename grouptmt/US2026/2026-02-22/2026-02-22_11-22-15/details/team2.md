@@ -211,8 +211,8 @@
 | 203 | 919 | Isaac Trappiel IV |
 | 204 | 916 | Butta |
 | 205 | 915 | Kelly Trent |
-| 206 | 910 | Crystal Hoffman |
-| 207 | 910 | Shuany Arias |
+| 206 | 910 | Shuany Arias |
+| 207 | 910 | Crystal Hoffman |
 | 208 | 907 | Gene Mills |
 | 209 | 901 | Jennifer Peachey |
 | 210 | 894 | Auntie B |
@@ -287,8 +287,8 @@
 | 279 | 713 | Chelle |
 | 280 | 704 | Shelley Thornburgh Wright |
 | 281 | 703 | Gold Rose |
-| 282 | 700 | Hong Tang |
-| 283 | 700 | Vincent Petrella |
+| 282 | 700 | Vincent Petrella |
+| 283 | 700 | Hong Tang |
 | 284 | 700 | Rosemadder |
 | 285 | 700 | Beverly Owens |
 | 286 | 698 | Mighty Shatterfit |
@@ -598,12 +598,12 @@
 | 590 | 387 | Misti Markijohn |
 | 591 | 386 | Wuntayk |
 | 592 | 385 | Tansaria Couch-Butler |
-| 593 | 384 | Party d |
-| 594 | 384 | Kelly |
+| 593 | 384 | Kelly |
+| 594 | 384 | Party d |
 | 595 | 383 | Jessica Conaway |
 | 596 | 383 | Belle Mari |
-| 597 | 382 | Amber Gray |
-| 598 | 382 | David Holliday |
+| 597 | 382 | David Holliday |
+| 598 | 382 | Amber Gray |
 | 599 | 381 | Nicky Jackson |
 | 600 | 381 | Happy Caster |
 | 601 | 380 | Giggy Grabber |
@@ -654,8 +654,8 @@
 | 646 | 357 | Shannon Byrd |
 | 647 | 357 | Tristan Szolek |
 | 648 | 355 | Amanda Perez |
-| 649 | 354 | Rickey Johnson |
-| 650 | 354 | Rachel Kaminski |
+| 649 | 354 | Rachel Kaminski |
+| 650 | 354 | Rickey Johnson |
 | 651 | 352 | Rose Fx |
 | 652 | 352 | Jean FU Jagielski |
 | 653 | 352 | ruth |
@@ -664,8 +664,8 @@
 | 656 | 350 | Chris Harr |
 | 657 | 350 | Maria Hammett |
 | 658 | 348 | Kelly Meredeith |
-| 659 | 348 | Peppy Snapfall |
-| 660 | 348 | NanDa Cruzan VI |
+| 659 | 348 | NanDa Cruzan VI |
+| 660 | 348 | Peppy Snapfall |
 | 661 | 348 | Richard Horton |
 | 662 | 347 | CC |
 | 663 | 347 | Zesty Pivot |
@@ -682,8 +682,8 @@
 | 674 | 339 | Denise Rickman |
 | 675 | 338 | Janitta Alvarez |
 | 676 | 337 | Sassy Pattern |
-| 677 | 337 | Diallo Sparkman |
-| 678 | 337 | Tum |
+| 677 | 337 | Tum |
+| 678 | 337 | Diallo Sparkman |
 | 679 | 337 | Savannah Alexander |
 | 680 | 336 | bru |
 | 681 | 336 | Austin Wilson |
@@ -748,8 +748,8 @@
 | 740 | 305 | MamaBear11 |
 | 741 | 305 | Narutofreak13 |
 | 742 | 304 | NFLPITMOM |
-| 743 | 304 | James Smith |
-| 744 | 304 | Melissa McCall |
+| 743 | 304 | Melissa McCall |
+| 744 | 304 | James Smith |
 | 745 | 303 | Angie Marie |
 | 746 | 303 | Devin |
 | 747 | 303 | Amanda Schaffer |

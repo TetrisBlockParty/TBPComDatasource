@@ -90,8 +90,8 @@
 | 82 | 401 | cc |
 | 83 | 400 | Cynthia Bradley |
 | 84 | 390 | Lori Bales |
-| 85 | 390 | Goose egg |
-| 86 | 390 | Candy Jones |
+| 85 | 390 | Candy Jones |
+| 86 | 390 | Goose egg |
 | 87 | 389 | Trina Gee |
 | 88 | 388 | Jennifer ManWarren |
 | 89 | 383 | Loony Fitzone |
@@ -137,9 +137,9 @@
 | 129 | 284 | Rachael |
 | 130 | 284 | Emily Adelaide Wheatley |
 | 131 | 283 | Franswa |
-| 132 | 282 | Timothy Dew |
-| 133 | 282 | Cool Shiftsnap |
-| 134 | 282 | Snippy Wipebuilder |
+| 132 | 282 | Snippy Wipebuilder |
+| 133 | 282 | Timothy Dew |
+| 134 | 282 | Cool Shiftsnap |
 | 135 | 280 | Sarah Roberts |
 | 136 | 276 | Dandy Basegrid |
 | 137 | 274 | Tyler Werts |
@@ -259,8 +259,8 @@
 | 251 | 167 | Nery Martinez |
 | 252 | 167 | Cranky Pattern |
 | 253 | 166 | Carrie Smith |
-| 254 | 165 | Nadine Velardo |
-| 255 | 165 | Silly Align |
+| 254 | 165 | Silly Align |
+| 255 | 165 | Nadine Velardo |
 | 256 | 164 | Desiree Deschaine Havee |
 | 257 | 163 | Davery Spencer Adair |
 | 258 | 163 | Tyler Whitley |
@@ -337,10 +337,10 @@
 | 329 | 124 | Mario Cab |
 | 330 | 123 | Tonya Beasley |
 | 331 | 122 | Nate Funk |
-| 332 | 121 | Jacob Shaddock |
-| 333 | 121 | .running. |
-| 334 | 121 | Pauline Cortez |
-| 335 | 121 | John Ramirez |
+| 332 | 121 | .running. |
+| 333 | 121 | Jacob Shaddock |
+| 334 | 121 | John Ramirez |
+| 335 | 121 | Pauline Cortez |
 | 336 | 120 | Shiny Rotate |
 | 337 | 119 | Joe Coon |
 | 338 | 118 | Snappy Brickbuilder |

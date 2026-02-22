@@ -63,8 +63,8 @@
 | 55 | 909 | Jennifer |
 | 56 | 908 | Alanna Rogers |
 | 57 | 903 | Sarah Fehring |
-| 58 | 895 | Shonna Roberts |
-| 59 | 895 | Amanda L Baker |
+| 58 | 895 | Amanda L Baker |
+| 59 | 895 | Shonna Roberts |
 | 60 | 886 | Khristen AC |
 | 61 | 882 | Susan Valentino |
 | 62 | 874 | Jessica Pineda-Lopez |
@@ -175,17 +175,17 @@
 | 167 | 376 | Loopy Clusterer |
 | 168 | 374 | Sherry Ogden |
 | 169 | 371 | Michael Nowogorski |
-| 170 | 370 | Santeria Trece Candles |
+| 170 | 370 | Danielle Allison |
 | 171 | 370 | Logan Naccarato |
-| 172 | 370 | Danielle Allison |
+| 172 | 370 | Santeria Trece Candles |
 | 173 | 368 | Stephanie Woods |
 | 174 | 366 | Adrian Marcel Pate |
 | 175 | 362 | Darlene McMillan |
 | 176 | 361 | Jamie Lang |
 | 177 | 359 | Dapper Snap |
 | 178 | 358 | Chummy Caster |
-| 179 | 357 | Tom Nault |
-| 180 | 357 | Stephanie Burtin |
+| 179 | 357 | Stephanie Burtin |
+| 180 | 357 | Tom Nault |
 | 181 | 355 | Tessina Dewey-Mancino |
 | 182 | 353 | Shunta Jacobs |
 | 183 | 353 | RickyG |
@@ -249,15 +249,15 @@
 | 241 | 264 | Grego Daniel |
 | 242 | 263 | Brittany |
 | 243 | 262 | Joe-Maggie Mathews |
-| 244 | 261 | Tiffany Ford |
-| 245 | 261 | Tasha Wesson-Torrence |
+| 244 | 261 | Tasha Wesson-Torrence |
+| 245 | 261 | Tiffany Ford |
 | 246 | 261 | Marquita Sheard |
 | 247 | 260 | Grams |
 | 248 | 259 | Danielle Weikel |
 | 249 | 257 | Ashley Jones |
 | 250 | 256 | Brenda Lee Vander Molen |
-| 251 | 256 | KayB |
-| 252 | 256 | Tiffany Davie |
+| 251 | 256 | Tiffany Davie |
+| 252 | 256 | KayB |
 | 253 | 250 | fraulila |
 | 254 | 249 | Annie Marie |
 | 255 | 249 | JerseyJess |
@@ -290,8 +290,8 @@
 | 282 | 216 | Twisty Brick LT |
 | 283 | 216 | Cheryl Hinch Tenbrook |
 | 284 | 215 | IamJust Neyamijah Washington Sr. |
-| 285 | 214 | Amy Fuller Heaton |
-| 286 | 214 | Angela Scott |
+| 285 | 214 | Angela Scott |
+| 286 | 214 | Amy Fuller Heaton |
 | 287 | 214 | Rebel124 |
 | 288 | 213 | Nicholas Roddy |
 | 289 | 212 | Sunny Rotater |
@@ -312,17 +312,17 @@
 | 304 | 205 | Kirhonda Autmon |
 | 305 | 204 | Aerian Preston |
 | 306 | 203 | Angie Harper |
-| 307 | 202 | Tipsy Zonebuilder |
-| 308 | 202 | Staci George Fitzsimmons |
+| 307 | 202 | Staci George Fitzsimmons |
+| 308 | 202 | Tipsy Zonebuilder |
 | 309 | 201 | Alexmac |
 | 310 | 201 | Hyper Matchzone |
 | 311 | 200 | Saucy Buildout |
-| 312 | 200 | Sharisse Baltimore |
-| 313 | 200 | glichmod |
+| 312 | 200 | glichmod |
+| 313 | 200 | Sharisse Baltimore |
 | 314 | 199 | Mariah Williams |
 | 315 | 198 | kacihall |
-| 316 | 195 | Kristian Thurman |
-| 317 | 195 | Nicha Hooker |
+| 316 | 195 | Nicha Hooker |
+| 317 | 195 | Kristian Thurman |
 | 318 | 194 | Goofy Fall |
 | 319 | 193 | Clever Shiftsnap |
 | 320 | 192 | Ryan Williams |
@@ -365,8 +365,8 @@
 | 357 | 166 | Angella Lyons |
 | 358 | 166 | Snarky McFace |
 | 359 | 165 | Kali Kelz Williams |
-| 360 | 165 | Ashley Lynn Marchese |
-| 361 | 165 | Rainbow77375 |
+| 360 | 165 | Rainbow77375 |
+| 361 | 165 | Ashley Lynn Marchese |
 | 362 | 164 | Ashley Rufus Bythcez |
 | 363 | 164 | momo |
 | 364 | 163 | Christine Trester |
@@ -388,10 +388,10 @@
 | 380 | 157 | Angel Mendez |
 | 381 | 157 | Miranda Taylor |
 | 382 | 157 | Katrina E Jelks |
-| 383 | 156 | Courtney Conboy |
-| 384 | 156 | Nichole Greene |
-| 385 | 155 | Michell Hendershott Jackson |
-| 386 | 155 | Michael Leblanc |
+| 383 | 156 | Nichole Greene |
+| 384 | 156 | Courtney Conboy |
+| 385 | 155 | Michael Leblanc |
+| 386 | 155 | Michell Hendershott Jackson |
 | 387 | 155 | Betty Bóò |
 | 388 | 154 | Shanon R Jackson |
 | 389 | 153 | Stefanie LaPointe |
@@ -1243,7 +1243,7 @@
 | 1235 | 49 | Chilly Shifter |
 | 1236 | 49 | Cassius Quinn |
 | 1237 | 48 | Cedes Y Horton |
-| 1238 | 48 | Lisa Lagerbom |
+| 1238 | 48 | Amanda Jean Stafford |
 | 1239 | 48 | Dreamy Balanceblock |
 | 1240 | 48 | Lisa Lagerbom |
 | 1241 | 48 | Josie Lynn |
