@@ -25,8 +25,8 @@
 | 17 | 2697 | River |
 | 18 | 2503 | Clever Roll |
 | 19 | 2302 | Laura Melton |
-| 20 | 2287 | Brandon Green |
-| 21 | 2287 | Tetris Master |
+| 20 | 2287 | Tetris Master |
+| 21 | 2287 | Brandon Green |
 | 22 | 2203 | Ashley Jones |
 | 23 | 2177 | Susan Valentino |
 | 24 | 2144 | Zippy Strikesnap |
@@ -90,8 +90,8 @@
 | 82 | 945 | Shonna Roberts |
 | 83 | 938 | Mandy Smith Oldham |
 | 84 | 935 | Snappy Glidepiece |
-| 85 | 926 | Judi Dobson |
-| 86 | 926 | Angela M. Fletcher |
+| 85 | 926 | Angela M. Fletcher |
+| 86 | 926 | Judi Dobson |
 | 87 | 923 | Christine Filson |
 | 88 | 921 | Michelle |
 | 89 | 909 | Shari Garber |
@@ -111,8 +111,8 @@
 | 103 | 831 | Angeline Joseph |
 | 104 | 830 | Stephanie Allmon |
 | 105 | 826 | Shane Wilson Jr. |
-| 106 | 816 | Brenda Lee Vander Molen |
-| 107 | 816 | Araceli Parra |
+| 106 | 816 | Araceli Parra |
+| 107 | 816 | Brenda Lee Vander Molen |
 | 108 | 800 | Lauren Girouard |
 | 109 | 799 | Dolores Falco |
 | 110 | 794 | Suzieq |
@@ -161,8 +161,8 @@
 | 153 | 572 | CeceGeGe |
 | 154 | 571 | Nicole Myers |
 | 155 | 568 | Rachael McClain Owens |
-| 156 | 562 | Louise Stacy Sisson |
-| 157 | 562 | Dave Herzog |
+| 156 | 562 | Dave Herzog |
+| 157 | 562 | Louise Stacy Sisson |
 | 158 | 558 | Peppy Shifter |
 | 159 | 553 | LaTanya GeminiondaRise Johnson |
 | 160 | 546 | Mykal Burton |
@@ -248,8 +248,8 @@
 | 240 | 369 | Marquita Sheard |
 | 241 | 369 | Keis |
 | 242 | 368 | Stephanie Woods |
-| 243 | 365 | Chummy Caster |
-| 244 | 365 | Noyb Adam |
+| 243 | 365 | Noyb Adam |
+| 244 | 365 | Chummy Caster |
 | 245 | 364 | Steffi Chris Dacones |
 | 246 | 362 | Brandon Givens |
 | 247 | 361 | Shawn Miller |
@@ -543,8 +543,8 @@
 | 535 | 177 | Chad |
 | 536 | 177 | Megan Rathmanner |
 | 537 | 177 | Anna Moeller |
-| 538 | 176 | Boldy Corner |
-| 539 | 176 | Kellie Montgomery |
+| 538 | 176 | Kellie Montgomery |
+| 539 | 176 | Boldy Corner |
 | 540 | 175 | Stella |
 | 541 | 175 | sofaking |
 | 542 | 175 | Peachy Tower |

@@ -78,8 +78,8 @@
 | 70 | 736 | Goatimus Lombardi |
 | 71 | 736 | Carolyn Wallace |
 | 72 | 725 | Denise Carlson |
-| 73 | 704 | D3TROITB0RN74 |
-| 74 | 704 | Crystal Carroll |
+| 73 | 704 | Crystal Carroll |
+| 74 | 704 | D3TROITB0RN74 |
 | 75 | 697 | Alyssa Papen |
 | 76 | 684 | Jonathan Kimbrough |
 | 77 | 677 | TheNeesh50 |
@@ -141,8 +141,8 @@
 | 133 | 418 | Marie-Pier Desjardins |
 | 134 | 418 | Lush Linkfall |
 | 135 | 414 | Nope Young |
-| 136 | 413 | Kristina Black |
-| 137 | 413 | Chaz Duncan |
+| 136 | 413 | Chaz Duncan |
+| 137 | 413 | Kristina Black |
 | 138 | 412 | Jessica Bohlken |
 | 139 | 408 | Amanda Pauldo-Ivy |
 | 140 | 402 | Ericca Eldridge |
@@ -154,8 +154,8 @@
 | 146 | 393 | Trish |
 | 147 | 391 | Ramel Rhodes |
 | 148 | 389 | Joseph Guthrie |
-| 149 | 387 | Lucas J Sutton |
-| 150 | 387 | 🥔🥔 Spudz |
+| 149 | 387 | 🥔🥔 Spudz |
+| 150 | 387 | Lucas J Sutton |
 | 151 | 382 | Livvy |
 | 152 | 380 | Swanky Fitline |
 | 153 | 377 | Carrie Brian |

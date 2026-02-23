@@ -59,8 +59,8 @@
 | 51 | 829 | Sevens4L |
 | 52 | 812 | Patrick Luckenbill |
 | 53 | 797 | Lawrence Belanger |
-| 54 | 783 | TSwag |
-| 55 | 783 | Redlicious 1 |
+| 54 | 783 | Redlicious 1 |
+| 55 | 783 | TSwag |
 | 56 | 779 | Andrea Dañielle Ortiz |
 | 57 | 772 | Tinah Montanna |
 | 58 | 770 | Zappy Curvetile |
@@ -174,8 +174,8 @@
 | 166 | 328 | Jamise Brown |
 | 167 | 326 | BadG52 |
 | 168 | 325 | Dizzy Party |
-| 169 | 324 | Ananda Mendez |
-| 170 | 324 | Rat666 |
+| 169 | 324 | Rat666 |
+| 170 | 324 | Ananda Mendez |
 | 171 | 323 | Carrie Smith |
 | 172 | 323 | Madison Wicks |
 | 173 | 318 | Jessica Sheehan |
@@ -184,17 +184,17 @@
 | 176 | 315 | Danielle Little-Daugherty |
 | 177 | 315 | Tyler Werts |
 | 178 | 313 | Jerry Danowski |
-| 179 | 312 | Jessi Sauer |
+| 179 | 312 | Kimberly Garcia |
 | 180 | 312 | Mike Ames |
-| 181 | 312 | Kimberly Garcia |
+| 181 | 312 | Jessi Sauer |
 | 182 | 307 | femmefatale |
 | 183 | 306 | Bloknboy |
 | 184 | 306 | J.F. Fields |
 | 185 | 306 | Happy Basegrid |
 | 186 | 306 | Angela Renea Lester |
 | 187 | 304 | David Lutcher |
-| 188 | 303 | ALFD |
-| 189 | 303 | Letson Melissa |
+| 188 | 303 | Letson Melissa |
+| 189 | 303 | ALFD |
 | 190 | 302 | Erin Rosberg |
 | 191 | 301 | Damon J. Martin |
 | 192 | 296 | Cody Gates |
@@ -239,8 +239,8 @@
 | 231 | 256 | Snappy Matcher |
 | 232 | 255 | Giggly Builderline |
 | 233 | 254 | Al Smith Jr |
-| 234 | 253 | Jamie Jury |
-| 235 | 253 | Lacy Wolfe |
+| 234 | 253 | Lacy Wolfe |
+| 235 | 253 | Jamie Jury |
 | 236 | 252 | Dena Kayy |
 | 237 | 251 | MRdot Rooski |
 | 238 | 247 | Brenda Alexander |
@@ -249,8 +249,8 @@
 | 241 | 244 | Eddie Dillon |
 | 242 | 242 | ParisandCory Champagne |
 | 243 | 241 | Tyler Hertzog |
-| 244 | 240 | DaRascal |
-| 245 | 240 | Daring Fitclear |
+| 244 | 240 | Daring Fitclear |
+| 245 | 240 | DaRascal |
 | 246 | 238 | Tiffany Smith |
 | 247 | 238 | Sarah Somers Gray |
 | 248 | 234 | Paula Martin |
