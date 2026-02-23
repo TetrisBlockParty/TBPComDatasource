@@ -53,8 +53,8 @@
 | 45 | 1116 | Koshin Abdirahman |
 | 46 | 1093 | Ashley Ingram |
 | 47 | 1085 | Kimyatta Cavin |
-| 48 | 1082 | Dawn Alexander |
-| 49 | 1082 | Dion Crommarty |
+| 48 | 1082 | Dion Crommarty |
+| 49 | 1082 | Dawn Alexander |
 | 50 | 1071 | Cherrish Duren |
 | 51 | 1049 | Heather Tushner |
 | 52 | 1046 | Johnathan Martinez |
@@ -358,8 +358,8 @@
 | 350 | 242 | Chaz |
 | 351 | 242 | PurpleMoonMa |
 | 352 | 240 | Zany Shatterer |
-| 353 | 240 | Deanna Deckard |
-| 354 | 240 | Perky Patternblock |
+| 353 | 240 | Perky Patternblock |
+| 354 | 240 | Deanna Deckard |
 | 355 | 239 | Laura Hosford |
 | 356 | 239 | AyeKay |
 | 357 | 239 | Denise B |
@@ -370,8 +370,8 @@
 | 362 | 237 | Christine Therrien |
 | 363 | 235 | LaDonna LovinmesomeMe Lambert |
 | 364 | 235 | Shainne Brewer |
-| 365 | 234 | Shanon Klair |
-| 366 | 234 | Richard-April Kice |
+| 365 | 234 | Richard-April Kice |
+| 366 | 234 | Shanon Klair |
 | 367 | 234 | Diosa Ebalobo Magsael |
 | 368 | 233 | Joseph Edmonson |
 | 369 | 232 | Bradley Reeves |

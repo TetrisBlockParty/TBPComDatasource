@@ -328,8 +328,8 @@
 | 320 | 1045 | Lourisha |
 | 321 | 1043 | Brave Dropmatch |
 | 322 | 1043 | nikki |
-| 323 | 1042 | Mcintosh Brian Shalonda |
-| 324 | 1042 | Michele Morgan |
+| 323 | 1042 | Michele Morgan |
+| 324 | 1042 | Mcintosh Brian Shalonda |
 | 325 | 1040 | Taylor Phillips |
 | 326 | 1036 | Allison Lockyer |
 | 327 | 1036 | Amber Shoemaker |

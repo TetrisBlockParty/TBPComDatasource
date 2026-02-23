@@ -85,8 +85,8 @@
 | 77 | 1244 | Lori Barnaby |
 | 78 | 1229 | Araceli Parra |
 | 79 | 1221 | Betty Ivy |
-| 80 | 1213 | Snappy Glidepiece |
-| 81 | 1213 | Nerdy Riseclear |
+| 80 | 1213 | Nerdy Riseclear |
+| 81 | 1213 | Snappy Glidepiece |
 | 82 | 1212 | Amanda Adkins |
 | 83 | 1186 | Christian A. Pollard |
 | 84 | 1179 | Christine Filson |

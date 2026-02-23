@@ -86,8 +86,8 @@
 | 78 | 750 | Cartier |
 | 79 | 742 | Susanna Guerry |
 | 80 | 740 | Lori Sanders- Davis |
-| 81 | 713 | Robert Benito |
-| 82 | 713 | Snappy Swiper |
+| 81 | 713 | Snappy Swiper |
+| 82 | 713 | Robert Benito |
 | 83 | 710 | Jennifer ManWarren |
 | 84 | 706 | Plucky Fallzone |
 | 85 | 706 | Denice Dee |
@@ -128,8 +128,8 @@
 | 120 | 533 | Sharon Reynolds |
 | 121 | 522 | Sarah Lombardo |
 | 122 | 515 | Death |
-| 123 | 513 | April Carroll |
-| 124 | 513 | Colena Davenport |
+| 123 | 513 | Colena Davenport |
+| 124 | 513 | April Carroll |
 | 125 | 509 | Rachael |
 | 126 | 502 | Anaid Sanchez |
 | 127 | 497 | Arianna O'Brien |
@@ -164,8 +164,8 @@
 | 156 | 448 | Sweet Baker |
 | 157 | 446 | SkipTheSadSauce |
 | 158 | 443 | femmefatale |
-| 159 | 440 | Timothy Danaher |
-| 160 | 440 | Kimmie Kimms |
+| 159 | 440 | Kimmie Kimms |
+| 160 | 440 | Timothy Danaher |
 | 161 | 435 | Dandy Basegrid |
 | 162 | 434 | Yvonne Marie |
 | 163 | 426 | Maria C. Hernandez |
@@ -386,8 +386,8 @@
 | 378 | 232 | Itspaigebro |
 | 379 | 230 | Jessica Russell |
 | 380 | 230 | Panda Thagreat |
-| 381 | 229 | Ed Franz Jr |
-| 382 | 229 | Bob |
+| 381 | 229 | Bob |
+| 382 | 229 | Ed Franz Jr |
 | 383 | 227 | Happy Snapbuild |
 | 384 | 226 | Snappy Brickbuilder |
 | 385 | 226 | Alex Nicol |
