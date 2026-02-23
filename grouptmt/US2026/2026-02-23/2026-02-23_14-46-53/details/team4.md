@@ -48,10 +48,10 @@
 | 40 | 1140 | Isabella Blanco |
 | 41 | 1134 | Isabel Aguilar |
 | 42 | 1124 | Jae Job |
-| 43 | 1085 | Ashley Ingram |
-| 44 | 1085 | Kimyatta Cavin |
-| 45 | 1082 | Dion Crommarty |
-| 46 | 1082 | Dawn Alexander |
+| 43 | 1085 | Kimyatta Cavin |
+| 44 | 1085 | Ashley Ingram |
+| 45 | 1082 | Dawn Alexander |
+| 46 | 1082 | Dion Crommarty |
 | 47 | 1071 | Cherrish Duren |
 | 48 | 1065 | Koshin Abdirahman |
 | 49 | 1049 | Heather Tushner |
@@ -243,8 +243,8 @@
 | 235 | 313 | Milan Markeisha |
 | 236 | 312 | Dihcheese444 |
 | 237 | 312 | Jen Caldwell |
-| 238 | 311 | Nikki Rae Gordon |
-| 239 | 311 | Mary Ann Pabukis |
+| 238 | 311 | Mary Ann Pabukis |
+| 239 | 311 | Nikki Rae Gordon |
 | 240 | 311 | Jason Gibbs |
 | 241 | 310 | Stacey Stano |
 | 242 | 308 | Leah Kutz Zirbel |
@@ -369,19 +369,19 @@
 | 361 | 220 | Jumpy Zonepiece |
 | 362 | 220 | Ziggy |
 | 363 | 220 | Dustin York |
-| 364 | 219 | Shane Vick |
-| 365 | 219 | Orchislactea |
+| 364 | 219 | Orchislactea |
+| 365 | 219 | Shane Vick |
 | 366 | 218 | ĥuf |
 | 367 | 218 | Janita Parrish |
 | 368 | 217 | Cheery Fitline |
 | 369 | 217 | Paito |
 | 370 | 217 | Alexandra Karavias |
 | 371 | 216 | Funky Risepiece |
-| 372 | 215 | Squeezy Pearsall |
-| 373 | 215 | 07VHVW |
+| 372 | 215 | 07VHVW |
+| 373 | 215 | Squeezy Pearsall |
 | 374 | 215 | Tanya Abernathy Jackson |
-| 375 | 214 | B Renee Desjardin |
-| 376 | 214 | Susan R. Wilson |
+| 375 | 214 | Susan R. Wilson |
+| 376 | 214 | B Renee Desjardin |
 | 377 | 214 | Patron Anderson |
 | 378 | 212 | Zany Shatterer |
 | 379 | 212 | Mike Solo |

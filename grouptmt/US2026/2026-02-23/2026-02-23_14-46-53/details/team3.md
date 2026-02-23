@@ -136,8 +136,8 @@
 | 128 | 774 | Keith J Oshman Jr. |
 | 129 | 773 | Daira Largen |
 | 130 | 770 | Daryn Elliott |
-| 131 | 764 | Hasty Cascadefit |
-| 132 | 764 | Groovy Catcher |
+| 131 | 764 | Groovy Catcher |
+| 132 | 764 | Hasty Cascadefit |
 | 133 | 762 | Speedy Bridger |
 | 134 | 757 | Fancy Cascader |
 | 135 | 756 | Patty Allen |

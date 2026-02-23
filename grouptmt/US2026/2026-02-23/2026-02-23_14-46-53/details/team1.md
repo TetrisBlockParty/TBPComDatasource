@@ -46,8 +46,8 @@
 | 38 | 1128 | june october |
 | 39 | 1126 | Tater |
 | 40 | 1122 | Amanda Summey Schoemer |
-| 41 | 1114 | Jayme Sellers |
-| 42 | 1114 | Marianne Louise West |
+| 41 | 1114 | Marianne Louise West |
+| 42 | 1114 | Jayme Sellers |
 | 43 | 1112 | Chipper Gridlock |
 | 44 | 1100 | Derek MF Blakey |
 | 45 | 1069 | Patrick Luckenbill |
@@ -249,11 +249,11 @@
 | 241 | 316 | Sassy Builderline |
 | 242 | 315 | Mandyy Rae |
 | 243 | 314 | Daring Fitclear |
-| 244 | 313 | Cody Gates |
-| 245 | 313 | Sylvia Vasquez |
+| 244 | 313 | Sylvia Vasquez |
+| 245 | 313 | Cody Gates |
 | 246 | 312 | Mitchel White |
-| 247 | 310 | Bloknboy |
-| 248 | 310 | Chantelle Ceno |
+| 247 | 310 | Chantelle Ceno |
+| 248 | 310 | Bloknboy |
 | 249 | 308 | Speedy Liney |
 | 250 | 305 | Plucky Stacky |
 | 251 | 303 | Νεφ Όνυξ |
