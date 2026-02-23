@@ -265,16 +265,16 @@
 | 257 | 298 | Billie Ann Eason |
 | 258 | 298 | Kimberly Davis |
 | 259 | 297 | Diane Byrd |
-| 260 | 290 | Tavia |
-| 261 | 290 | Hellsin |
+| 260 | 290 | Hellsin |
+| 261 | 290 | Tavia |
 | 262 | 289 | Alenoush Karimian |
 | 263 | 288 | Bird Person |
 | 264 | 287 | Sir-Franchise Drake |
 | 265 | 286 | Sarahdactyl |
 | 266 | 285 | Shanae Grant |
 | 267 | 284 | Sam Williams |
-| 268 | 283 | Larry Tilton |
-| 269 | 283 | Franswa |
+| 268 | 283 | Franswa |
+| 269 | 283 | Larry Tilton |
 | 270 | 282 | Timothy Dew |
 | 271 | 281 | Clever Cascadepiece |
 | 272 | 280 | Billie Dawn Sparks |
