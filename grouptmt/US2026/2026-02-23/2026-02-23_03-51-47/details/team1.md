@@ -278,8 +278,8 @@
 | 270 | 229 | Dino |
 | 271 | 228 | Adele Rahman |
 | 272 | 227 | Happy Snapbuild |
-| 273 | 226 | Snappy Brickbuilder |
-| 274 | 226 | Glitzy Buildsnap |
+| 273 | 226 | Glitzy Buildsnap |
+| 274 | 226 | Snappy Brickbuilder |
 | 275 | 224 | Jumpy Rotate |
 | 276 | 223 | Erez Yosef |
 | 277 | 223 | Christina Backer |
@@ -322,7 +322,7 @@
 | 314 | 207 | Fresno Beotoni |
 | 315 | 207 | Jennifer Olewnik Soborowski |
 | 316 | 205 | Agustin Duarte Orozco |
-| 317 | 204 | LD1 |
+| 317 | 204 | .running. |
 | 318 | 204 | Chris Sigurdson |
 | 319 | 204 | LD1 |
 | 320 | 201 | Colleen Wise |

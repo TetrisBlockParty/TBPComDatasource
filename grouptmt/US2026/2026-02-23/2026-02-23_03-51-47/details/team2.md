@@ -262,8 +262,8 @@
 | 254 | 1073 | Jodi Blake |
 | 255 | 1071 | Kim Dean |
 | 256 | 1064 | BK Queen |
-| 257 | 1058 | Offonar Facey |
-| 258 | 1058 | Rickey Johnson |
+| 257 | 1058 | Rickey Johnson |
+| 258 | 1058 | Offonar Facey |
 | 259 | 1055 | Robin Kerby |
 | 260 | 1048 | Desiree Anderson |
 | 261 | 1047 | Dany Murillo |
@@ -281,8 +281,8 @@
 | 273 | 1014 | Michele Morgan |
 | 274 | 1011 | Teresa Gillmore |
 | 275 | 1003 | Andrea Maher |
-| 276 | 998 | Shelley Thornburgh Wright |
-| 277 | 998 | Keri Womack |
+| 276 | 998 | Keri Womack |
+| 277 | 998 | Shelley Thornburgh Wright |
 | 278 | 996 | Ashie Ann |
 | 279 | 987 | Osun Anuket Esu |
 | 280 | 987 | Julie Kresal |
@@ -823,8 +823,8 @@
 | 815 | 405 | Carrie Mitchell |
 | 816 | 405 | Marget Kay |
 | 817 | 404 | Shylee Tilman |
-| 818 | 403 | Goofy Dasher |
-| 819 | 403 | Nate Skidmore |
+| 818 | 403 | Nate Skidmore |
+| 819 | 403 | Goofy Dasher |
 | 820 | 403 | Swanky Columnbuilder |
 | 821 | 403 | Susan Arnburg |
 | 822 | 402 | B |
@@ -868,8 +868,8 @@
 | 860 | 390 | MauroPRM |
 | 861 | 389 | Loony Basepiece |
 | 862 | 388 | Tamara Bailey |
-| 863 | 388 | Danielle Ayoub |
-| 864 | 388 | Alice Ball |
+| 863 | 388 | Alice Ball |
+| 864 | 388 | Danielle Ayoub |
 | 865 | 387 | Bryan Werleman |
 | 866 | 386 | Donald Nowland |
 | 867 | 386 | Tasia Stinson |

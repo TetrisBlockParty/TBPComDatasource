@@ -57,8 +57,8 @@
 | 49 | 863 | Pee |
 | 50 | 855 | Marvin Lou Martin |
 | 51 | 853 | TeeJ |
-| 52 | 846 | Christine Marie |
-| 53 | 846 | Lucille Truesdale |
+| 52 | 846 | Lucille Truesdale |
+| 53 | 846 | Christine Marie |
 | 54 | 845 | LisaJo Picken Buchanan |
 | 55 | 843 | Shelly Chandler |
 | 56 | 841 | Anthony Bryan Riva |
@@ -138,8 +138,8 @@
 | 130 | 431 | Courtney Cicoria |
 | 131 | 425 | Monica Daley |
 | 132 | 423 | Austin Owens |
-| 133 | 421 | JIGsaw ~(•¿°)~ |
-| 134 | 421 | Kesha Brady |
+| 133 | 421 | Kesha Brady |
+| 134 | 421 | JIGsaw ~(•¿°)~ |
 | 135 | 419 | Klo |
 | 136 | 418 | Lush Linkfall |
 | 137 | 418 | Marie-Pier Desjardins |
@@ -156,13 +156,13 @@
 | 148 | 393 | Carlton Unfiltered |
 | 149 | 391 | Ramel Rhodes |
 | 150 | 389 | Joseph Guthrie |
-| 151 | 387 | 🥔🥔 Spudz |
-| 152 | 387 | Lucas J Sutton |
+| 151 | 387 | Lucas J Sutton |
+| 152 | 387 | 🥔🥔 Spudz |
 | 153 | 377 | Carrie Brian |
 | 154 | 375 | ThaEviLJeNiuZ |
 | 155 | 375 | Desi Desporte |
-| 156 | 374 | Guy Incognito |
-| 157 | 374 | Leslie Nicole |
+| 156 | 374 | Leslie Nicole |
+| 157 | 374 | Guy Incognito |
 | 158 | 373 | Tyler Terrific |
 | 159 | 370 | Oscar Alberto Perez |
 | 160 | 368 | Raegan Lane-Ross |
@@ -175,10 +175,10 @@
 | 167 | 358 | A5! |
 | 168 | 356 | George Nutt |
 | 169 | 352 | Sue Joyce Staats |
-| 170 | 349 | Twisty Cascadezone |
-| 171 | 349 | Rafael Valentin |
-| 172 | 348 | April Rondinone |
-| 173 | 348 | TRCuse |
+| 170 | 349 | Rafael Valentin |
+| 171 | 349 | Twisty Cascadezone |
+| 172 | 348 | TRCuse |
+| 173 | 348 | April Rondinone |
 | 174 | 347 | Daria Rycewicz |
 | 175 | 339 | David Lay |
 | 176 | 333 | shark tato |

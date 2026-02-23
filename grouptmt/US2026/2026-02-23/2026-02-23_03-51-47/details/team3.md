@@ -126,8 +126,8 @@
 | 118 | 752 | Raya |
 | 119 | 748 | Adrian Marcel Pate |
 | 120 | 745 | JerseyJess |
-| 121 | 744 | Fancy Cascader |
-| 122 | 744 | Leah Barnett |
+| 121 | 744 | Leah Barnett |
+| 122 | 744 | Fancy Cascader |
 | 123 | 742 | Groovy Catcher |
 | 124 | 736 | Katrina Schroeder |
 | 125 | 733 | mzcatzy |
@@ -208,8 +208,8 @@
 | 200 | 465 | Annie Déè |
 | 201 | 461 | Shunta Jacobs |
 | 202 | 458 | Danielle Rhoades |
-| 203 | 457 | Jim Mathews |
-| 204 | 457 | Edwin Calvillo Jr. |
+| 203 | 457 | Edwin Calvillo Jr. |
+| 204 | 457 | Jim Mathews |
 | 205 | 453 | Staci George Fitzsimmons |
 | 206 | 452 | Connie Mohler-Fair |
 | 207 | 452 | Tom Nault |
@@ -238,8 +238,8 @@
 | 230 | 403 | Scott Lindsay |
 | 231 | 393 | Rebecca Funderburk Kirby |
 | 232 | 391 | Nicole Flippo |
-| 233 | 391 | Scott Carleton |
-| 234 | 391 | Trisha Balmer |
+| 233 | 391 | Trisha Balmer |
+| 234 | 391 | Scott Carleton |
 | 235 | 390 | rosy |
 | 236 | 389 | RickyG |
 | 237 | 387 | Gideon Walker |
@@ -435,8 +435,8 @@
 | 427 | 230 | Kirhonda Autmon |
 | 428 | 230 | DanceLuvLaugh |
 | 429 | 229 | Everret Maxine |
-| 430 | 228 | Stephanie Hill |
-| 431 | 228 | Jess Dearborn |
+| 430 | 228 | Jess Dearborn |
+| 431 | 228 | Stephanie Hill |
 | 432 | 228 | Tia |
 | 433 | 227 | Meowsa |
 | 434 | 227 | Rebel124 |
@@ -519,10 +519,10 @@
 | 511 | 192 | Laura Booth Wosko |
 | 512 | 191 | Sarah Tschee |
 | 513 | 191 | Irene Arreguin |
-| 514 | 191 | Becca Engle |
-| 515 | 191 | lady lua |
-| 516 | 191 | Peachy Tower |
-| 517 | 191 | Polopypy |
+| 514 | 191 | lady lua |
+| 515 | 191 | Becca Engle |
+| 516 | 191 | Polopypy |
+| 517 | 191 | Peachy Tower |
 | 518 | 190 | Smiley Zone |
 | 519 | 189 | Wacky Crasher |
 | 520 | 189 | Sameerah Smith |
