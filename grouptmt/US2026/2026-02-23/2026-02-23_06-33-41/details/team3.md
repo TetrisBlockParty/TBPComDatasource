@@ -128,8 +128,8 @@
 | 120 | 769 | Kristie |
 | 121 | 764 | Groovy Catcher |
 | 122 | 762 | Speedy Bridger |
-| 123 | 752 | Raya |
-| 124 | 752 | Logan Naccarato |
+| 123 | 752 | Logan Naccarato |
+| 124 | 752 | Raya |
 | 125 | 748 | Adrian Marcel Pate |
 | 126 | 745 | JerseyJess |
 | 127 | 744 | Leah Barnett |
@@ -173,8 +173,8 @@
 | 165 | 591 | Michael Nowogorski |
 | 166 | 588 | Justin Ritter |
 | 167 | 587 | Louise Stacy Sisson |
-| 168 | 585 | Happy Tetriblast |
-| 169 | 585 | Annie Marie |
+| 168 | 585 | Annie Marie |
+| 169 | 585 | Happy Tetriblast |
 | 170 | 583 | Tasha Gillespie |
 | 171 | 582 | Natasha Jones |
 | 172 | 577 | Domo Washington |
@@ -192,8 +192,8 @@
 | 184 | 546 | Mykal Burton |
 | 185 | 546 | Cynthia Castros-Hampton |
 | 186 | 540 | Shawn Miller |
-| 187 | 531 | Sarah Cowan Burgos |
-| 188 | 531 | Chauntee Alfrey-Cardinale |
+| 187 | 531 | Chauntee Alfrey-Cardinale |
+| 188 | 531 | Sarah Cowan Burgos |
 | 189 | 528 | Silly Twist |
 | 190 | 525 | Stephanie Blkpep Davidson |
 | 191 | 524 | Bmo |
@@ -219,8 +219,8 @@
 | 211 | 471 | Mendoza Lee Christy |
 | 212 | 467 | Sherry Ogden |
 | 213 | 465 | Annie Déè |
-| 214 | 464 | Shunta Jacobs |
-| 215 | 464 | Danielle Weikel |
+| 214 | 464 | Danielle Weikel |
+| 215 | 464 | Shunta Jacobs |
 | 216 | 461 | Tom Nault |
 | 217 | 458 | Danielle Rhoades |
 | 218 | 457 | Edwin Calvillo Jr. |
@@ -236,8 +236,8 @@
 | 228 | 430 | Jeni Dow |
 | 229 | 418 | Rebecca Funderburk Kirby |
 | 230 | 414 | Fran Lin |
-| 231 | 410 | Stephanie Simpson |
-| 232 | 410 | Duane Bright |
+| 231 | 410 | Duane Bright |
+| 232 | 410 | Stephanie Simpson |
 | 233 | 408 | Tiffany Ford |
 | 234 | 406 | Kristal C Lee |
 | 235 | 404 | Chasity |
@@ -253,8 +253,8 @@
 | 245 | 382 | Giddy Twistbuilder |
 | 246 | 381 | Snazzy Filler |
 | 247 | 380 | Rebecca Bailey |
-| 248 | 378 | Chris Bell |
-| 249 | 378 | MsBee |
+| 248 | 378 | MsBee |
+| 249 | 378 | Chris Bell |
 | 250 | 377 | Charles Perrone |
 | 251 | 374 | Rania Zaqout |
 | 252 | 373 | Chummy Caster |
@@ -398,8 +398,8 @@
 | 390 | 260 | Alice |
 | 391 | 260 | Tracey Cox |
 | 392 | 260 | TotoCherue |
-| 393 | 259 | Shania Vaine |
-| 394 | 259 | Dana Winters |
+| 393 | 259 | Dana Winters |
+| 394 | 259 | Shania Vaine |
 | 395 | 258 | IamJust Neyamijah Washington Sr. |
 | 396 | 257 | Rachel Grant |
 | 397 | 257 | Saucy Buildout |
@@ -471,8 +471,8 @@
 | 463 | 225 | sofaking |
 | 464 | 225 | Sassy Tiler |
 | 465 | 225 | Goofy Fall |
-| 466 | 224 | Sarah Morris |
-| 467 | 224 | Cranky Corner |
+| 466 | 224 | Cranky Corner |
+| 467 | 224 | Sarah Morris |
 | 468 | 224 | Christina Rotz Shows |
 | 469 | 223 | Breanna Marsden |
 | 470 | 223 | Megan Rathmanner |

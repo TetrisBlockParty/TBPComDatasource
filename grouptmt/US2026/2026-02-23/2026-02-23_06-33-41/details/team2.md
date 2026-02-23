@@ -293,8 +293,8 @@
 | 285 | 1010 | Brittany Radaszewski |
 | 286 | 1007 | Missie Lawson Gebhardt |
 | 287 | 1003 | Andrea Maher |
-| 288 | 998 | Shelley Thornburgh Wright |
-| 289 | 998 | Keri Womack |
+| 288 | 998 | Keri Womack |
+| 289 | 998 | Shelley Thornburgh Wright |
 | 290 | 996 | Ashie Ann |
 | 291 | 988 | Juliana Marques Do Nascimento Gordy |
 | 292 | 987 | Osun Anuket Esu |
@@ -306,15 +306,15 @@
 | 298 | 976 | Sam Joe |
 | 299 | 976 | Della Hole |
 | 300 | 975 | Hyper Cluster |
-| 301 | 972 | Binyah-Binyah |
-| 302 | 972 | Barbra Miller |
+| 301 | 972 | Barbra Miller |
+| 302 | 972 | Binyah-Binyah |
 | 303 | 971 | Jojo Momma |
 | 304 | 969 | Em Chen |
 | 305 | 969 | Boldy Cascadepiece |
 | 306 | 965 | F-X |
 | 307 | 961 | Angela Lynn |
-| 308 | 958 | Brenda Messer |
-| 309 | 958 | Doowop40 |
+| 308 | 958 | Doowop40 |
+| 309 | 958 | Brenda Messer |
 | 310 | 957 | Block Master |
 | 311 | 956 | Phil J. Grombliniak |
 | 312 | 955 | Angela Bonquiqui Dinish |
@@ -339,8 +339,8 @@
 | 331 | 903 | Giggy Blocker |
 | 332 | 902 | William Hunt |
 | 333 | 901 | Kevin Sees |
-| 334 | 899 | Chevy |
-| 335 | 899 | Patrick Bartlett |
+| 334 | 899 | Patrick Bartlett |
+| 335 | 899 | Chevy |
 | 336 | 898 | Jamie Otero |
 | 337 | 895 | Donna Colby |
 | 338 | 890 | Steve Man |
@@ -389,8 +389,8 @@
 | 381 | 804 | Becca Coronado |
 | 382 | 801 | Diana Fitzwater |
 | 383 | 801 | Gold Rose |
-| 384 | 799 | Joy LaJeunesse |
-| 385 | 799 | Kenny Alvarado |
+| 384 | 799 | Kenny Alvarado |
+| 385 | 799 | Joy LaJeunesse |
 | 386 | 796 | AndrewandShela Gornik |
 | 387 | 796 | Amber Gray |
 | 388 | 793 | Heather Schelkopf |
@@ -478,8 +478,8 @@
 | 470 | 689 | Gauri Shrotriya |
 | 471 | 686 | Christine Coughlin |
 | 472 | 684 | Sarah DeHart |
-| 473 | 684 | Ann Knutson Anderson |
-| 474 | 684 | Ellie Jonas |
+| 473 | 684 | Ellie Jonas |
+| 474 | 684 | Ann Knutson Anderson |
 | 475 | 683 | Eric Castaneda |
 | 476 | 681 | AgileDragon |
 | 477 | 680 | blume |
@@ -719,8 +719,8 @@
 | 711 | 485 | Regina Young |
 | 712 | 484 | Joice Hansen |
 | 713 | 484 | Street Sweeper |
-| 714 | 483 | Tabs Reichert |
-| 715 | 483 | Austin Wilson |
+| 714 | 483 | Austin Wilson |
+| 715 | 483 | Tabs Reichert |
 | 716 | 482 | Amélie Cadieux |
 | 717 | 482 | Drwatson187 |
 | 718 | 482 | Nate |
@@ -821,8 +821,8 @@
 | 813 | 435 | Snappy snappers |
 | 814 | 435 | John |
 | 815 | 434 | Twisty Tetriblast |
-| 816 | 433 | Melissa Koria |
-| 817 | 433 | Jessica Hughes |
+| 816 | 433 | Jessica Hughes |
+| 817 | 433 | Melissa Koria |
 | 818 | 431 | Quinn |
 | 819 | 431 | Lewis Sturgeon |
 | 820 | 430 | Alexis Richardson |

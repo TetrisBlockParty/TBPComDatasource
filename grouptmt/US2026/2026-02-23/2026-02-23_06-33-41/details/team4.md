@@ -257,8 +257,8 @@
 | 249 | 264 | ZeeZee |
 | 250 | 264 | Stella |
 | 251 | 263 | rebel4lyfe |
-| 252 | 262 | BigSammy420 |
-| 253 | 262 | Selena Shaw |
+| 252 | 262 | Selena Shaw |
+| 253 | 262 | BigSammy420 |
 | 254 | 261 | Zethra Prenisha Rahming |
 | 255 | 260 | Lori |
 | 256 | 260 | Carter Jones |
@@ -287,9 +287,9 @@
 | 279 | 238 | 中山成巳 |
 | 280 | 237 | Christine Therrien |
 | 281 | 236 | Degenerate |
-| 282 | 235 | Shainne Brewer |
+| 282 | 235 | Chair |
 | 283 | 235 | LaDonna LovinmesomeMe Lambert |
-| 284 | 235 | Chair |
+| 284 | 235 | Shainne Brewer |
 | 285 | 234 | Richard-April Kice |
 | 286 | 233 | Ruben Wheeler |
 | 287 | 230 | Angelito |
