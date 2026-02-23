@@ -175,7 +175,7 @@
 | 167 | 491 | Carrie Brian |
 | 168 | 486 | Swanky Fitline |
 | 169 | 485 | Rico |
-| 170 | 482 | Adam Stephanie Parker |
+| 170 | 480 | Adam Stephanie Parker |
 | 171 | 480 | Brandon Crabbs |
 | 172 | 479 | Christina Black |
 | 173 | 477 | Casey Grabner |
@@ -217,8 +217,8 @@
 | 209 | 413 | Circuit8 |
 | 210 | 413 | John Brunetti |
 | 211 | 412 | Chris Bernstein |
-| 212 | 411 | Mimi |
-| 213 | 411 | Silly Zonebuilder |
+| 212 | 411 | Silly Zonebuilder |
+| 213 | 411 | Mimi |
 | 214 | 411 | Autumn Kumzi |
 | 215 | 408 | Melvin Baird |
 | 216 | 400 | Antony Dwayne Beasley |
@@ -316,8 +316,8 @@
 | 308 | 291 | Dizzy Matchzone |
 | 309 | 291 | Brittney Orengo |
 | 310 | 290 | Heather Bruce |
-| 311 | 290 | Jared Gutwein |
-| 312 | 290 | Neirrah B Olailjeel |
+| 311 | 290 | Neirrah B Olailjeel |
+| 312 | 290 | Jared Gutwein |
 | 313 | 289 | Juls |
 | 314 | 289 | Deb Rubeck |
 | 315 | 288 | Amy Jean |

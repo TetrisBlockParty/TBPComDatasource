@@ -52,8 +52,8 @@
 | 44 | 1175 | Derek MF Blakey |
 | 45 | 1166 | Felicia Lewis |
 | 46 | 1137 | Jen Sartain |
-| 47 | 1126 | Tipsy Column |
-| 48 | 1126 | Tater |
+| 47 | 1126 | Tater |
+| 48 | 1126 | Tipsy Column |
 | 49 | 1122 | Kristen Gideon |
 | 50 | 1114 | Andrea Dañielle Ortiz |
 | 51 | 1114 | Jayme Sellers |
@@ -71,7 +71,7 @@
 | 63 | 974 | TSwag |
 | 64 | 974 | Veronica Eve |
 | 65 | 966 | Shalene Frederick Autrey |
-| 66 | 963 | Francesca Gee |
+| 66 | 962 | Francesca Gee |
 | 67 | 951 | Zippy Align |
 | 68 | 936 | Redlicious 1 |
 | 69 | 930 | Jacqueline Williams |
