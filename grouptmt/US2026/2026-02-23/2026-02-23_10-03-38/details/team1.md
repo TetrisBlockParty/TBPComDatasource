@@ -83,8 +83,8 @@
 | 75 | 703 | Angel Fowler |
 | 76 | 689 | Susanna Guerry |
 | 77 | 679 | Hasbro Bros |
-| 78 | 657 | Tee Sheree |
-| 79 | 657 | Cynthia Bradley |
+| 78 | 657 | Cynthia Bradley |
+| 79 | 657 | Tee Sheree |
 | 80 | 655 | Brenda Stewart |
 | 81 | 648 | Evie Khalil |
 | 82 | 647 | Jason Jones |
@@ -103,8 +103,8 @@
 | 95 | 529 | Ryan Lunnin |
 | 96 | 522 | Sarah Lombardo |
 | 97 | 511 | Mario Cab |
-| 98 | 510 | Chirpy Smasher |
-| 99 | 510 | Colena Davenport |
+| 98 | 510 | Colena Davenport |
+| 99 | 510 | Chirpy Smasher |
 | 100 | 509 | Rachael |
 | 101 | 502 | Anaid Sanchez |
 | 102 | 497 | Arianna O'Brien |
@@ -141,8 +141,8 @@
 | 133 | 429 | Kristi Johnson |
 | 134 | 428 | Ly Phethmany |
 | 135 | 426 | Maria C. Hernandez |
-| 136 | 425 | Dandy Basegrid |
-| 137 | 425 | Tyler Werts |
+| 136 | 425 | Tyler Werts |
+| 137 | 425 | Dandy Basegrid |
 | 138 | 423 | ALFD |
 | 139 | 417 | Phu ckalldems |
 | 140 | 411 | BadG52 |
@@ -166,12 +166,12 @@
 | 158 | 379 | Austin James |
 | 159 | 379 | Kimmie Kimms |
 | 160 | 378 | Jessica Sheehan |
-| 161 | 376 | Brian Richardsson |
-| 162 | 376 | Death |
+| 161 | 376 | Death |
+| 162 | 376 | Brian Richardsson |
 | 163 | 375 | Tanya Carpenter-Reynolds |
 | 164 | 375 | Connie |
-| 165 | 371 | Jason Savage |
-| 166 | 371 | Basment Living |
+| 165 | 371 | Basment Living |
+| 166 | 371 | Jason Savage |
 | 167 | 369 | Christy Jones |
 | 168 | 368 | Amanda Johnson Huffman |
 | 169 | 367 | Sharon Reynolds |
@@ -200,10 +200,10 @@
 | 192 | 342 | Dino |
 | 193 | 341 | Nick R Montague |
 | 194 | 339 | Nicole Roseberry Weber |
-| 195 | 337 | Jamise Brown |
-| 196 | 337 | Constance Risner |
-| 197 | 333 | Virginia Gray Floyd |
-| 198 | 333 | Gracie |
+| 195 | 337 | Constance Risner |
+| 196 | 337 | Jamise Brown |
+| 197 | 333 | Gracie |
+| 198 | 333 | Virginia Gray Floyd |
 | 199 | 332 | Happy Basegrid |
 | 200 | 328 | Snappy Matcher |
 | 201 | 327 | Jen Nystrom |

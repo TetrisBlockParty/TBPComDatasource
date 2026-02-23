@@ -44,8 +44,8 @@
 | 36 | 4199 | Claire Noland |
 | 37 | 4128 | Angela Pruitt |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Corrine Hawks Soriano |
-| 40 | 4120 | Kristen Sceurman |
+| 39 | 4120 | Kristen Sceurman |
+| 40 | 4120 | Corrine Hawks Soriano |
 | 41 | 3947 | Melinda Brown |
 | 42 | 3845 | jayjay |
 | 43 | 3813 | Devin Lee |
@@ -218,8 +218,8 @@
 | 210 | 1286 | Altamirano Michael |
 | 211 | 1282 | Tanya Parsons |
 | 212 | 1259 | Foxxo |
-| 213 | 1258 | Snappy Matchbuilder |
-| 214 | 1258 | Joyce Johnson Vaughn |
+| 213 | 1258 | Joyce Johnson Vaughn |
+| 214 | 1258 | Snappy Matchbuilder |
 | 215 | 1252 | Angel |
 | 216 | 1245 | Missie Lawson Gebhardt |
 | 217 | 1245 | Cody Nishimura |
@@ -270,8 +270,8 @@
 | 262 | 1093 | Real Ri |
 | 263 | 1088 | Brainy Smurf |
 | 264 | 1080 | Tyler C. Jung |
-| 265 | 1079 | Kimberly Hauck-Rausch |
-| 266 | 1079 | Jennifer Kistner |
+| 265 | 1079 | Jennifer Kistner |
+| 266 | 1079 | Kimberly Hauck-Rausch |
 | 267 | 1076 | Alezandra Smith |
 | 268 | 1073 | Jodi Blake |
 | 269 | 1071 | Kim Dean |
@@ -287,8 +287,8 @@
 | 279 | 1045 | Bri Lynn |
 | 280 | 1045 | Lourisha |
 | 281 | 1044 | Jennifer Aiken |
-| 282 | 1043 | nikki |
-| 283 | 1043 | Brave Dropmatch |
+| 282 | 1043 | Brave Dropmatch |
+| 283 | 1043 | nikki |
 | 284 | 1040 | Rebecca Garland |
 | 285 | 1036 | Amber Shoemaker |
 | 286 | 1036 | Allison Lockyer |
@@ -496,8 +496,8 @@
 | 488 | 689 | Gauri Shrotriya |
 | 489 | 686 | Christine Coughlin |
 | 490 | 684 | Sarah DeHart |
-| 491 | 684 | Ann Knutson Anderson |
-| 492 | 684 | Ellie Jonas |
+| 491 | 684 | Ellie Jonas |
+| 492 | 684 | Ann Knutson Anderson |
 | 493 | 682 | Vanessa Moreno |
 | 494 | 682 | Antionette Sewell |
 | 495 | 681 | Gloria Liu |
@@ -540,8 +540,8 @@
 | 532 | 642 | Michelle Fields |
 | 533 | 642 | Cassie Maynard |
 | 534 | 640 | Belle |
-| 535 | 639 | Alexandra Weir |
-| 536 | 639 | Rebecca Miller |
+| 535 | 639 | Rebecca Miller |
+| 536 | 639 | Alexandra Weir |
 | 537 | 639 | Toni Roberson |
 | 538 | 638 | Leah Keesling |
 | 539 | 637 | Shinette Dobson |
@@ -779,8 +779,8 @@
 | 771 | 471 | Charming Leech |
 | 772 | 470 | Katie Marie |
 | 773 | 470 | AkaLefty |
-| 774 | 470 | Amanda Chamberlain |
-| 775 | 470 | ToShi |
+| 774 | 470 | ToShi |
+| 775 | 470 | Amanda Chamberlain |
 | 776 | 469 | Moist_B-hole |
 | 777 | 468 | Niceday |
 | 778 | 468 | Brenda Annabel Smith |

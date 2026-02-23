@@ -197,8 +197,8 @@
 | 189 | 546 | Cynthia Castros-Hampton |
 | 190 | 546 | Tasha Schriewer |
 | 191 | 540 | Shawn Miller |
-| 192 | 531 | Chauntee Alfrey-Cardinale |
-| 193 | 531 | Sarah Cowan Burgos |
+| 192 | 531 | Sarah Cowan Burgos |
+| 193 | 531 | Chauntee Alfrey-Cardinale |
 | 194 | 528 | Silly Twist |
 | 195 | 525 | Stephanie Blkpep Davidson |
 | 196 | 524 | Bmo |
@@ -285,8 +285,8 @@
 | 277 | 369 | Philip Rock |
 | 278 | 369 | Keis |
 | 279 | 369 | Amber Glover |
-| 280 | 368 | Sheila M Frazier |
-| 281 | 368 | Stephanie Woods |
+| 280 | 368 | Stephanie Woods |
+| 281 | 368 | Sheila M Frazier |
 | 282 | 366 | Gumbo |
 | 283 | 362 | Brandon Givens |
 | 284 | 360 | Cesar Barraza |
@@ -311,8 +311,8 @@
 | 303 | 342 | Cynthia Herrmann Egland |
 | 304 | 341 | Rick Poppen |
 | 305 | 341 | Lys |
-| 306 | 340 | Erika Thornton |
-| 307 | 340 | KayB |
+| 306 | 340 | KayB |
+| 307 | 340 | Erika Thornton |
 | 308 | 338 | fraulila |
 | 309 | 336 | Foltz Lee Kelli |
 | 310 | 335 | victory |
@@ -333,8 +333,8 @@
 | 325 | 319 | Michael Leblanc |
 | 326 | 316 | Twisty Brick LT |
 | 327 | 314 | Geoffrey Nash |
-| 328 | 313 | Kaycee Kay |
-| 329 | 313 | Hoppy Buildout |
+| 328 | 313 | Hoppy Buildout |
+| 329 | 313 | Kaycee Kay |
 | 330 | 312 | Eric Caccavale |
 | 331 | 312 | LadyTorad |
 | 332 | 311 | Troy |
@@ -353,11 +353,11 @@
 | 345 | 299 | TotoCherue |
 | 346 | 299 | Angie Harper |
 | 347 | 299 | Hasty Gridpiece |
-| 348 | 298 | Grams |
-| 349 | 298 | Dannie Litchard |
+| 348 | 298 | Dannie Litchard |
+| 349 | 298 | Grams |
 | 350 | 297 | kacihall |
-| 351 | 296 | Donna |
-| 352 | 296 | Tracy Martin |
+| 351 | 296 | Tracy Martin |
+| 352 | 296 | Donna |
 | 353 | 296 | Antonia Russell |
 | 354 | 295 | Nikki Pags |
 | 355 | 292 | Kirhonda Autmon |
@@ -413,8 +413,8 @@
 | 405 | 264 | Danielle Beaunoyer Jean |
 | 406 | 263 | Jimmie Clemons |
 | 407 | 261 | Swanky Snapclear |
-| 408 | 260 | Tracey Cox |
-| 409 | 260 | Alice |
+| 408 | 260 | Alice |
+| 409 | 260 | Tracey Cox |
 | 410 | 259 | Tegan Chapman |
 | 411 | 259 | Dana Winters |
 | 412 | 259 | Shania Vaine |
@@ -937,7 +937,7 @@
 | 929 | 121 | Happy Strikesnap |
 | 930 | 121 | SaSa Mac |
 | 931 | 120 | Funky Matchzone |
-| 932 | 120 | Dreamy Riserfit |
+| 932 | 120 | Chilly Wipegrid |
 | 933 | 120 | Tyler Shoff |
 | 934 | 120 | Dreamy Riserfit |
 | 935 | 120 | Amanda Brooke |
