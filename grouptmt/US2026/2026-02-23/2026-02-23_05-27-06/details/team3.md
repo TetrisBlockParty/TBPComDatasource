@@ -111,8 +111,8 @@
 | 103 | 868 | Sarajane Lokan |
 | 104 | 866 | Ebony West-Cundiff |
 | 105 | 860 | Sunny Rotater |
-| 106 | 851 | Danielle Becker |
-| 107 | 851 | Jd Morris |
+| 106 | 851 | Jd Morris |
+| 107 | 851 | Danielle Becker |
 | 108 | 850 | Danielle Mogg |
 | 109 | 848 | Patricia Gadsden |
 | 110 | 831 | Angeline Joseph |
@@ -233,8 +233,8 @@
 | 225 | 415 | ren |
 | 226 | 415 | Mcathen |
 | 227 | 414 | Fran Lin |
-| 228 | 410 | Duane Bright |
-| 229 | 410 | Stephanie Simpson |
+| 228 | 410 | Stephanie Simpson |
+| 229 | 410 | Duane Bright |
 | 230 | 408 | Tiffany Ford |
 | 231 | 406 | Kristal C Lee |
 | 232 | 404 | Chasity |
@@ -255,8 +255,8 @@
 | 247 | 377 | Charles Perrone |
 | 248 | 374 | Rania Zaqout |
 | 249 | 373 | Chummy Caster |
-| 250 | 372 | Sarah Moyer |
-| 251 | 372 | Rich LeBlanc |
+| 250 | 372 | Rich LeBlanc |
+| 251 | 372 | Sarah Moyer |
 | 252 | 371 | Marquita Sheard |
 | 253 | 371 | block chick |
 | 254 | 369 | Keis |
@@ -369,8 +369,8 @@
 | 361 | 275 | Cassandra Bryant |
 | 362 | 275 | Michael Lucado |
 | 363 | 274 | Mary Giorgenti |
-| 364 | 273 | Brenda Schmid Wood |
-| 365 | 273 | France Vézina |
+| 364 | 273 | France Vézina |
+| 365 | 273 | Brenda Schmid Wood |
 | 366 | 272 | Romeo |
 | 367 | 272 | Todd Hall |
 | 368 | 272 | Tay |
@@ -572,7 +572,7 @@
 | 564 | 184 | Christian Luna |
 | 565 | 184 | Flashy Rumbler |
 | 566 | 183 | Jana Fagg |
-| 567 | 183 | Scott Doss |
+| 567 | 183 | Mel Murr |
 | 568 | 183 | AC Yeater |
 | 569 | 183 | Scott Doss |
 | 570 | 183 | Snarky McFace |

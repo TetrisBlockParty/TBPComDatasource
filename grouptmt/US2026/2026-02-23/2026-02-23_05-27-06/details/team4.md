@@ -58,8 +58,8 @@
 | 50 | 863 | Pee |
 | 51 | 855 | Marvin Lou Martin |
 | 52 | 853 | TeeJ |
-| 53 | 846 | Christine Marie |
-| 54 | 846 | Lucille Truesdale |
+| 53 | 846 | Lucille Truesdale |
+| 54 | 846 | Christine Marie |
 | 55 | 845 | LisaJo Picken Buchanan |
 | 56 | 843 | Shelly Chandler |
 | 57 | 834 | quicksand420 |
@@ -79,8 +79,8 @@
 | 71 | 749 | Dustee Craddock-Harrison |
 | 72 | 742 | Carolyn Wallace |
 | 73 | 740 | Avy Absol |
-| 74 | 736 | Crystal Carroll |
-| 75 | 736 | Goatimus Lombardi |
+| 74 | 736 | Goatimus Lombardi |
+| 75 | 736 | Crystal Carroll |
 | 76 | 721 | TheNeesh50 |
 | 77 | 717 | D3TROITB0RN74 |
 | 78 | 706 | Lisa Davis |
@@ -156,8 +156,8 @@
 | 148 | 399 | Swanky Fitline |
 | 149 | 398 | Tyler Terrific |
 | 150 | 397 | Livvy |
-| 151 | 393 | Girl |
-| 152 | 393 | Carlton Unfiltered |
+| 151 | 393 | Carlton Unfiltered |
+| 152 | 393 | Girl |
 | 153 | 391 | Ramel Rhodes |
 | 154 | 389 | Joseph Guthrie |
 | 155 | 387 | Lucas J Sutton |
@@ -301,8 +301,8 @@
 | 293 | 221 | TinyLegoRose |
 | 294 | 221 | PurpleMoonMa |
 | 295 | 220 | Tina Lopez |
-| 296 | 220 | Ziggy |
-| 297 | 220 | Jumpy Zonepiece |
+| 296 | 220 | Jumpy Zonepiece |
+| 297 | 220 | Ziggy |
 | 298 | 219 | Shane Vick |
 | 299 | 219 | Malakai Darien Fox |
 | 300 | 219 | Orchislactea |
@@ -333,9 +333,9 @@
 | 325 | 206 | Maureen Flanigan |
 | 326 | 205 | KayM |
 | 327 | 204 | Russ Attitude |
-| 328 | 203 | Gilles Lanctot |
-| 329 | 203 | Andrew Dang |
-| 330 | 203 | Katherine Crane |
+| 328 | 203 | Andrew Dang |
+| 329 | 203 | Katherine Crane |
+| 330 | 203 | Gilles Lanctot |
 | 331 | 200 | Googenheim |
 | 332 | 198 | Calvin Dennis |
 | 333 | 196 | Blessedmama |
@@ -393,9 +393,9 @@
 | 385 | 174 | Mona Sharma |
 | 386 | 174 | Jim Hart |
 | 387 | 173 | Tanner Lund |
-| 388 | 172 | Madison Sweere |
-| 389 | 172 | Undeniable Williams |
-| 390 | 172 | Janis Brown |
+| 388 | 172 | Undeniable Williams |
+| 389 | 172 | Janis Brown |
+| 390 | 172 | Madison Sweere |
 | 391 | 171 | Milan Markeisha |
 | 392 | 171 | Terrance Fung |
 | 393 | 171 | Brittany Little |
@@ -407,7 +407,7 @@
 | 399 | 170 | Sarah Hoffman |
 | 400 | 169 | Dante Korleon |
 | 401 | 169 | Jessica Atkinson |
-| 402 | 169 | Dante Korleon |
+| 402 | 169 | Duck |
 | 403 | 168 | Ruby Khalisadar |
 | 404 | 167 | Carla Harris |
 | 405 | 167 | Snippy Clearer |
