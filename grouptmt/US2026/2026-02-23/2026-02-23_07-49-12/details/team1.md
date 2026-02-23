@@ -150,14 +150,14 @@
 | 142 | 392 | And |
 | 143 | 389 | David Miller |
 | 144 | 388 | Fmp |
-| 145 | 387 | Ananda Mendez |
-| 146 | 387 | Monica Donato |
-| 147 | 387 | Emily Adelaide Wheatley |
+| 145 | 387 | Emily Adelaide Wheatley |
+| 146 | 387 | Ananda Mendez |
+| 147 | 387 | Monica Donato |
 | 148 | 383 | pjbeta |
 | 149 | 383 | Margo Wagner |
 | 150 | 380 | phrmblk24 |
-| 151 | 379 | Kimmie Kimms |
-| 152 | 379 | Austin James |
+| 151 | 379 | Austin James |
+| 152 | 379 | Kimmie Kimms |
 | 153 | 378 | Carrie Smith |
 | 154 | 378 | Jessica Sheehan |
 | 155 | 376 | Death |
@@ -170,8 +170,8 @@
 | 162 | 368 | Amanda Johnson Huffman |
 | 163 | 367 | Sharon Reynolds |
 | 164 | 366 | J.F. Fields |
-| 165 | 364 | Shauna Loe |
-| 166 | 364 | Serina Marie |
+| 165 | 364 | Serina Marie |
+| 166 | 364 | Shauna Loe |
 | 167 | 360 | Wisa |
 | 168 | 359 | Witty Builderfit |
 | 169 | 359 | Oscar Zamora |
@@ -300,10 +300,10 @@
 | 292 | 230 | Layzietyme |
 | 293 | 229 | Dino |
 | 294 | 228 | .running. |
-| 295 | 227 | Happy Snapbuild |
-| 296 | 227 | John Ramirez |
-| 297 | 226 | Glitzy Buildsnap |
-| 298 | 226 | Snappy Brickbuilder |
+| 295 | 227 | John Ramirez |
+| 296 | 227 | Happy Snapbuild |
+| 297 | 226 | Snappy Brickbuilder |
+| 298 | 226 | Glitzy Buildsnap |
 | 299 | 225 | Angela Spann |
 | 300 | 224 | Jumpy Rotate |
 | 301 | 224 | Danielle Mae |
@@ -553,9 +553,9 @@
 | 545 | 133 | Jason Cox |
 | 546 | 132 | Angela Ellyson |
 | 547 | 132 | Mary Love |
-| 548 | 131 | Wacky Strikesnap |
-| 549 | 131 | Jason Landon Sexton |
-| 550 | 131 | Matt Cinelli |
+| 548 | 131 | Jason Landon Sexton |
+| 549 | 131 | Matt Cinelli |
+| 550 | 131 | Garrett Burket |
 | 551 | 131 | Spencer Lent |
 | 552 | 131 | Wacky Strikesnap |
 | 553 | 130 | Rebecca Tanner |

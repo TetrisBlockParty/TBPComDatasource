@@ -44,8 +44,8 @@
 | 36 | 4199 | Claire Noland |
 | 37 | 4128 | Angela Pruitt |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Corrine Hawks Soriano |
-| 40 | 4120 | Kristen Sceurman |
+| 39 | 4120 | Kristen Sceurman |
+| 40 | 4120 | Corrine Hawks Soriano |
 | 41 | 3845 | jayjay |
 | 42 | 3813 | Devin Lee |
 | 43 | 3778 | Brittany Alicia |
@@ -165,8 +165,8 @@
 | 157 | 1580 | Sally Dennis |
 | 158 | 1574 | Stephen Stephen |
 | 159 | 1571 | Alisa Lamb |
-| 160 | 1558 | Crystal Slaughter |
-| 161 | 1558 | Tim Dyer |
+| 160 | 1558 | Tim Dyer |
+| 161 | 1558 | Crystal Slaughter |
 | 162 | 1555 | blarg |
 | 163 | 1543 | Amy Sayers |
 | 164 | 1541 | Cherica Taylor |
@@ -215,14 +215,14 @@
 | 207 | 1282 | Tanya Parsons |
 | 208 | 1281 | Kelly A Green-Leach |
 | 209 | 1259 | Foxxo |
-| 210 | 1258 | Snappy Matchbuilder |
-| 211 | 1258 | Joyce Johnson Vaughn |
+| 210 | 1258 | Joyce Johnson Vaughn |
+| 211 | 1258 | Snappy Matchbuilder |
 | 212 | 1252 | Angel |
 | 213 | 1245 | Cody Nishimura |
 | 214 | 1240 | Brandon Armstrong |
 | 215 | 1237 | Megan Ferguson Leone |
-| 216 | 1232 | Ambyre Patterson |
-| 217 | 1232 | Groovy Puzzle |
+| 216 | 1232 | Groovy Puzzle |
+| 217 | 1232 | Ambyre Patterson |
 | 218 | 1230 | Megan Garrick |
 | 219 | 1221 | Jane Fong |
 | 220 | 1217 | Brooks Brooks |
@@ -414,8 +414,8 @@
 | 406 | 771 | Stephanie Lumanlan |
 | 407 | 769 | Melissa Cole |
 | 408 | 769 | Kimberly Hope Howell |
-| 409 | 768 | Eric Castaneda |
-| 410 | 768 | Joshua Self |
+| 409 | 768 | Joshua Self |
+| 410 | 768 | Eric Castaneda |
 | 411 | 767 | Ashley Lopez |
 | 412 | 766 | Aimee Campbell |
 | 413 | 764 | Victoria Regina Girolami |
@@ -548,8 +548,8 @@
 | 540 | 617 | Kacee Conrad Bock |
 | 541 | 617 | Darcy Mae |
 | 542 | 615 | Nerdy Pattern |
-| 543 | 615 | Lyndi Robinson Wakefield |
-| 544 | 615 | Julio A Laracuente |
+| 543 | 615 | Julio A Laracuente |
+| 544 | 615 | Lyndi Robinson Wakefield |
 | 545 | 614 | Emilee Burke |
 | 546 | 614 | Jessica S Flecha |
 | 547 | 613 | Biggest thing |
@@ -702,8 +702,8 @@
 | 694 | 499 | Besma Ao |
 | 695 | 498 | Chummy Blockbuilder |
 | 696 | 497 | Ha Ab |
-| 697 | 497 | June E Hanson |
-| 698 | 497 | Sam |
+| 697 | 497 | Sam |
+| 698 | 497 | June E Hanson |
 | 699 | 496 | Tracy Cowley |
 | 700 | 496 | Shyne Sun |
 | 701 | 496 | Anthony Mignacca |
@@ -1090,8 +1090,8 @@
 | 1082 | 343 | Kat |
 | 1083 | 343 | Scott |
 | 1084 | 343 | Alexandrea |
-| 1085 | 342 | SwifftFox |
-| 1086 | 342 | Theresa Sterrett |
+| 1085 | 342 | Theresa Sterrett |
+| 1086 | 342 | SwifftFox |
 | 1087 | 342 | Patrick Fleming |
 | 1088 | 342 | Emoniee Sa'niaya |
 | 1089 | 342 | Jas |

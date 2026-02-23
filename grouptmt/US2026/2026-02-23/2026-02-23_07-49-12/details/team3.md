@@ -120,8 +120,8 @@
 | 112 | 831 | Angeline Joseph |
 | 113 | 830 | Stephanie Allmon |
 | 114 | 826 | Shane Wilson Jr. |
-| 115 | 816 | Brenda Lee Vander Molen |
-| 116 | 816 | Jesse Olive |
+| 115 | 816 | Jesse Olive |
+| 116 | 816 | Brenda Lee Vander Molen |
 | 117 | 802 | Bobbi Moore |
 | 118 | 800 | Lauren Girouard |
 | 119 | 799 | Dolores Falco |
@@ -161,8 +161,8 @@
 | 153 | 634 | Amber Hughes |
 | 154 | 630 | yoyo |
 | 155 | 629 | Patricia White |
-| 156 | 621 | Sashay Tapae Simpson |
-| 157 | 621 | Cherry Parker |
+| 156 | 621 | Cherry Parker |
+| 157 | 621 | Sashay Tapae Simpson |
 | 158 | 616 | Kammy Hill |
 | 159 | 611 | Rochelle Hazelett |
 | 160 | 607 | Grego Daniel |
@@ -213,8 +213,8 @@
 | 205 | 485 | Dapper Snap |
 | 206 | 484 | Fallorina Susana |
 | 207 | 483 | Tye Stovall |
-| 208 | 480 | Danielle Allison |
-| 209 | 480 | Michael Johnson |
+| 208 | 480 | Michael Johnson |
+| 209 | 480 | Danielle Allison |
 | 210 | 477 | Edwin Calvillo Jr. |
 | 211 | 475 | Tessina Dewey-Mancino |
 | 212 | 473 | Connie Mohler-Fair |
@@ -409,8 +409,8 @@
 | 401 | 259 | Shania Vaine |
 | 402 | 259 | Dana Winters |
 | 403 | 258 | IamJust Neyamijah Washington Sr. |
-| 404 | 257 | Rachel Grant |
-| 405 | 257 | Chris Wallace |
+| 404 | 257 | Chris Wallace |
+| 405 | 257 | Rachel Grant |
 | 406 | 257 | Saucy Buildout |
 | 407 | 255 | Erykah |
 | 408 | 255 | Mariah Williams |
@@ -434,8 +434,8 @@
 | 426 | 244 | Lys |
 | 427 | 244 | Beezwax |
 | 428 | 244 | Quackers |
-| 429 | 243 | Nicholas Roddy |
-| 430 | 243 | Christy Quick |
+| 429 | 243 | Christy Quick |
+| 430 | 243 | Nicholas Roddy |
 | 431 | 243 | Paula Little |
 | 432 | 242 | Katheline Lazo Luizaga |
 | 433 | 242 | Joy Petroski |
@@ -455,13 +455,13 @@
 | 447 | 237 | Rainbow77375 |
 | 448 | 237 | Angella Lyons |
 | 449 | 236 | Alexis Ford |
-| 450 | 236 | Loopy Fallzone |
-| 451 | 236 | lashanda |
+| 450 | 236 | lashanda |
+| 451 | 236 | Loopy Fallzone |
 | 452 | 234 | Cheeky Twisterfit |
 | 453 | 233 | Criss |
 | 454 | 233 | Tony Waters |
-| 455 | 232 | Melanie Sherwood |
-| 456 | 232 | Stephanie Hill |
+| 455 | 232 | Stephanie Hill |
+| 456 | 232 | Melanie Sherwood |
 | 457 | 232 | Sunny Tiltgrid |
 | 458 | 231 | Frothy Snapper |
 | 459 | 231 | Giggly Brickroll |
@@ -495,8 +495,8 @@
 | 487 | 218 | Sabrina Mansfield |
 | 488 | 218 | Tina Smith Roy |
 | 489 | 218 | Dapper Chiseler |
-| 490 | 217 | Heather Bateman |
-| 491 | 217 | Katie Leigh Blankenship |
+| 490 | 217 | Katie Leigh Blankenship |
+| 491 | 217 | Heather Bateman |
 | 492 | 217 | Tia Moore |
 | 493 | 214 | Crystal Hine |
 | 494 | 214 | Amy Fuller Heaton |
@@ -513,12 +513,12 @@
 | 505 | 210 | Maia |
 | 506 | 210 | Kristian Thurman |
 | 507 | 210 | Megan Riggins |
-| 508 | 209 | Jumpy Wrecker |
-| 509 | 209 | TazB |
+| 508 | 209 | TazB |
+| 509 | 209 | Jumpy Wrecker |
 | 510 | 208 | Jessica Christian |
 | 511 | 208 | Luccy Luxe |
-| 512 | 207 | Nichol Graham |
-| 513 | 207 | Misstery |
+| 512 | 207 | Misstery |
+| 513 | 207 | Nichol Graham |
 | 514 | 206 | Tammy Rosenberry |
 | 515 | 206 | Dakota Graham |
 | 516 | 205 | Emberblaze |

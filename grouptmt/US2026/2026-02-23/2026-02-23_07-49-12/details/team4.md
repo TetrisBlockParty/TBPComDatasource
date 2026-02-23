@@ -155,8 +155,8 @@
 | 147 | 418 | Lush Linkfall |
 | 148 | 418 | Marie-Pier Desjardins |
 | 149 | 416 | Chaz Duncan |
-| 150 | 414 | Nope Young |
-| 151 | 414 | Swanky Fitline |
+| 150 | 414 | Swanky Fitline |
+| 151 | 414 | Nope Young |
 | 152 | 413 | Circuit8 |
 | 153 | 412 | Jessica Bohlken |
 | 154 | 408 | Amanda Pauldo-Ivy |
@@ -291,8 +291,8 @@
 | 283 | 238 | 中山成巳 |
 | 284 | 237 | Christine Therrien |
 | 285 | 235 | LaDonna LovinmesomeMe Lambert |
-| 286 | 235 | Chair |
-| 287 | 235 | Shainne Brewer |
+| 286 | 235 | Shainne Brewer |
+| 287 | 235 | Chair |
 | 288 | 234 | Richard-April Kice |
 | 289 | 233 | Ruben Wheeler |
 | 290 | 233 | Joseph Edmonson |
@@ -459,11 +459,11 @@
 | 451 | 159 | Groovy Brickmatch |
 | 452 | 158 | Dapper Frame |
 | 453 | 158 | Jasmine S Caldwell |
-| 454 | 157 | Ryry |
-| 455 | 157 | LunaMoon |
+| 454 | 157 | LunaMoon |
+| 455 | 157 | Ryry |
 | 456 | 157 | David Boggs |
-| 457 | 156 | Mighty Edgepiece |
-| 458 | 156 | Funky Risepiece |
+| 457 | 156 | Funky Risepiece |
+| 458 | 156 | Mighty Edgepiece |
 | 459 | 155 | Sticherella |
 | 460 | 155 | Shirl |
 | 461 | 155 | Faja |
@@ -521,8 +521,8 @@
 | 513 | 139 | tipsy tiger |
 | 514 | 139 | Deb Rubeck |
 | 515 | 138 | Hasty Fitzone |
-| 516 | 138 | Lynn Marie |
-| 517 | 138 | Shiny Pivoty |
+| 516 | 138 | Shiny Pivoty |
+| 517 | 138 | Lynn Marie |
 | 518 | 137 | April Spoelma |
 | 519 | 137 | Brianna Walker |
 | 520 | 136 | Zocko Ellet |
