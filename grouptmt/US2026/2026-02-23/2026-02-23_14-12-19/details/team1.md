@@ -90,8 +90,8 @@
 | 82 | 689 | Susanna Guerry |
 | 83 | 679 | Hasbro Bros |
 | 84 | 672 | Ash Galvan |
-| 85 | 657 | Cynthia Bradley |
-| 86 | 657 | Tee Sheree |
+| 85 | 657 | Tee Sheree |
+| 86 | 657 | Cynthia Bradley |
 | 87 | 655 | Brenda Stewart |
 | 88 | 649 | Amanda Johnson Huffman |
 | 89 | 648 | Evie Khalil |
@@ -121,8 +121,8 @@
 | 113 | 510 | Chirpy Smasher |
 | 114 | 509 | Rachael |
 | 115 | 502 | Anaid Sanchez |
-| 116 | 497 | Arianna O'Brien |
-| 117 | 497 | Jennifer ManWarren |
+| 116 | 497 | Jennifer ManWarren |
+| 117 | 497 | Arianna O'Brien |
 | 118 | 493 | MomMom |
 | 119 | 491 | cc |
 | 120 | 489 | Deanna L Hermanson |
@@ -156,8 +156,8 @@
 | 148 | 425 | Dandy Basegrid |
 | 149 | 425 | Tyler Werts |
 | 150 | 423 | ALFD |
-| 151 | 417 | Phu ckalldems |
-| 152 | 417 | Jessie Lynn |
+| 151 | 417 | Jessie Lynn |
+| 152 | 417 | Phu ckalldems |
 | 153 | 416 | Jessica Sheehan |
 | 154 | 415 | Jennifer Hardman |
 | 155 | 406 | David Miller |

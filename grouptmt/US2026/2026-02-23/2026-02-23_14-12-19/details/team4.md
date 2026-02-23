@@ -105,8 +105,8 @@
 | 97 | 667 | Amy Suckarieh |
 | 98 | 659 | Jamie Gustafson |
 | 99 | 650 | KJ Pool |
-| 100 | 647 | Shauna Havard |
-| 101 | 647 | KM8 |
+| 100 | 647 | KM8 |
+| 101 | 647 | Shauna Havard |
 | 102 | 637 | Lori Walker |
 | 103 | 635 | Adawna Swires |
 | 104 | 631 | H.R. Block |
@@ -177,8 +177,8 @@
 | 169 | 421 | Kesha Brady |
 | 170 | 418 | Marie-Pier Desjardins |
 | 171 | 418 | Lush Linkfall |
-| 172 | 417 | Steph Marie |
-| 173 | 417 | Amanda Pauldo-Ivy |
+| 172 | 417 | Amanda Pauldo-Ivy |
+| 173 | 417 | Steph Marie |
 | 174 | 413 | Circuit8 |
 | 175 | 412 | Jessica Bohlken |
 | 176 | 412 | Casey Grabner |
@@ -202,8 +202,8 @@
 | 194 | 368 | Silly Zonebuilder |
 | 195 | 368 | Holly Jolly |
 | 196 | 365 | Jeff Brian Gates |
-| 197 | 364 | Adam Stephanie Parker |
-| 198 | 363 | Cindy Looper |
+| 197 | 363 | Cindy Looper |
+| 198 | 361 | Danielle Kollias |
 | 199 | 361 | Rafael Valentin |
 | 200 | 358 | A5! |
 | 201 | 358 | Twisty Cascadezone |
@@ -240,8 +240,8 @@
 | 232 | 314 | Lindsay Ball |
 | 233 | 313 | Milan Markeisha |
 | 234 | 312 | Dihcheese444 |
-| 235 | 311 | Nikki Rae Gordon |
-| 236 | 311 | Mary Ann Pabukis |
+| 235 | 311 | Mary Ann Pabukis |
+| 236 | 311 | Nikki Rae Gordon |
 | 237 | 311 | Jason Gibbs |
 | 238 | 310 | Stacey Stano |
 | 239 | 308 | Leah Kutz Zirbel |

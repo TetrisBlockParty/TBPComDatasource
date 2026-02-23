@@ -184,8 +184,8 @@
 | 176 | 1574 | Stephen Stephen |
 | 177 | 1567 | Juliana Marques Do Nascimento Gordy |
 | 178 | 1564 | Amy Sayers |
-| 179 | 1558 | Tim Dyer |
-| 180 | 1558 | Crystal Slaughter |
+| 179 | 1558 | Crystal Slaughter |
+| 180 | 1558 | Tim Dyer |
 | 181 | 1555 | blarg |
 | 182 | 1542 | Mo Shine On |
 | 183 | 1537 | Desiree Harris Rosch |
@@ -369,8 +369,8 @@
 | 361 | 917 | Nashu |
 | 362 | 916 | Butta |
 | 363 | 915 | Kelly Trent |
-| 364 | 914 | William Hunt |
-| 365 | 914 | Shuany Arias |
+| 364 | 914 | Shuany Arias |
+| 365 | 914 | William Hunt |
 | 366 | 913 | blume |
 | 367 | 910 | Ashley Dow |
 | 368 | 907 | Gene Mills |
@@ -380,8 +380,8 @@
 | 372 | 902 | Diallo Sparkman |
 | 373 | 901 | Kevin Sees |
 | 374 | 899 | Felicia Lynn |
-| 375 | 899 | Chevy |
-| 376 | 899 | Patrick Bartlett |
+| 375 | 899 | Patrick Bartlett |
+| 376 | 899 | Chevy |
 | 377 | 898 | Donna M Carter |
 | 378 | 895 | Donna Colby |
 | 379 | 895 | Lisa Ongtowasruk |
@@ -391,12 +391,12 @@
 | 383 | 880 | Arlene Joy Belicina |
 | 384 | 876 | Brenda Utphall |
 | 385 | 872 | Ashle Scranton |
-| 386 | 869 | BYM4L |
-| 387 | 869 | Venita Ray |
+| 386 | 869 | Venita Ray |
+| 387 | 869 | BYM4L |
 | 388 | 862 | Sarah Massey |
 | 389 | 858 | Lauren Fitzgerald Thomas |
-| 390 | 856 | Mighty Shatterfit |
-| 391 | 856 | Jelly |
+| 390 | 856 | Jelly |
+| 391 | 856 | Mighty Shatterfit |
 | 392 | 854 | Mandi Douglas Hilt |
 | 393 | 853 | Meghan M |
 | 394 | 851 | Johnny Yeates |
@@ -775,8 +775,8 @@
 | 767 | 498 | Chummy Blockbuilder |
 | 768 | 497 | Juanita Lyons |
 | 769 | 497 | June E Hanson |
-| 770 | 496 | Tracy Cowley |
-| 771 | 496 | Angelina Marie |
+| 770 | 496 | Angelina Marie |
+| 771 | 496 | Tracy Cowley |
 | 772 | 496 | Shyne Sun |
 | 773 | 495 | Brandon Jones |
 | 774 | 495 | Bob Vu |
