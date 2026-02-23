@@ -230,8 +230,8 @@
 | 222 | 549 | Sarah Cowan Burgos |
 | 223 | 548 | Danielle Balcom |
 | 224 | 547 | Staci George Fitzsimmons |
-| 225 | 546 | Cynthia Castros-Hampton |
-| 226 | 546 | Mykal Burton |
+| 225 | 546 | Mykal Burton |
+| 226 | 546 | Cynthia Castros-Hampton |
 | 227 | 541 | Fran Lin |
 | 228 | 539 | Betty Bóò |
 | 229 | 537 | Tessina Dewey-Mancino |
