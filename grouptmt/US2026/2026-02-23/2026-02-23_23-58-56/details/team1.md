@@ -286,8 +286,8 @@
 | 278 | 340 | Danielle Little-Daugherty |
 | 279 | 340 | Robert |
 | 280 | 338 | Layzietyme |
-| 281 | 337 | Larissa Marie Nelson |
-| 282 | 337 | Happy Basegrid |
+| 281 | 337 | Happy Basegrid |
+| 282 | 337 | Larissa Marie Nelson |
 | 283 | 336 | Sarah Roberts |
 | 284 | 336 | Adele Rahman |
 | 285 | 334 | Colleen Pinette |
@@ -299,8 +299,8 @@
 | 291 | 330 | Jeremy Maubert |
 | 292 | 329 | Marianita Garcia |
 | 293 | 328 | Buttons Stemm |
-| 294 | 325 | GringaLinga |
-| 295 | 325 | Snappy Brickbuilder |
+| 294 | 325 | Snappy Brickbuilder |
+| 295 | 325 | GringaLinga |
 | 296 | 325 | Mitchel White |
 | 297 | 324 | Sylvia Vasquez |
 | 298 | 324 | Mandyy Rae |
