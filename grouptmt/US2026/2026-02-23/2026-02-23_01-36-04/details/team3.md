@@ -24,8 +24,8 @@
 | 16 | 2728 | Lauren d |
 | 17 | 2697 | River |
 | 18 | 2503 | Clever Roll |
-| 19 | 2287 | Tetris Master |
-| 20 | 2287 | Brandon Green |
+| 19 | 2287 | Brandon Green |
+| 20 | 2287 | Tetris Master |
 | 21 | 2203 | Ashley Jones |
 | 22 | 2144 | Zippy Strikesnap |
 | 23 | 2041 | Laura Melton |
@@ -61,8 +61,8 @@
 | 53 | 1276 | Aaron Pitkin |
 | 54 | 1269 | Amber Jones |
 | 55 | 1258 | Jennifer Petrie |
-| 56 | 1256 | Mahman |
-| 57 | 1256 | Jessica Bechler |
+| 56 | 1256 | Jessica Bechler |
+| 57 | 1256 | Mahman |
 | 58 | 1191 | Nate Burnside |
 | 59 | 1167 | Elaine Webb Graves |
 | 60 | 1141 | Queen Kam |
@@ -117,8 +117,8 @@
 | 109 | 784 | Valerie Gendron |
 | 110 | 762 | Speedy Bridger |
 | 111 | 748 | Adrian Marcel Pate |
-| 112 | 744 | Leah Barnett |
-| 113 | 744 | Fancy Cascader |
+| 112 | 744 | Fancy Cascader |
+| 113 | 744 | Leah Barnett |
 | 114 | 742 | Groovy Catcher |
 | 115 | 733 | mzcatzy |
 | 116 | 724 | Kristie |
@@ -233,8 +233,8 @@
 | 225 | 384 | Marci Mize Fandrich |
 | 226 | 383 | Darlene McMillan |
 | 227 | 383 | Heather Green |
-| 228 | 382 | Scott Carleton |
-| 229 | 382 | Giddy Twistbuilder |
+| 228 | 382 | Giddy Twistbuilder |
+| 229 | 382 | Scott Carleton |
 | 230 | 380 | Rebecca Bailey |
 | 231 | 378 | Chris Bell |
 | 232 | 375 | Duane Bright |
@@ -264,15 +264,15 @@
 | 256 | 345 | Kelly |
 | 257 | 344 | Roary Danner |
 | 258 | 343 | Ashley Rufus Bythcez |
-| 259 | 343 | rnr junky |
-| 260 | 343 | Ashley Raines |
+| 259 | 343 | Ashley Raines |
+| 260 | 343 | rnr junky |
 | 261 | 341 | Ashley Tookes |
 | 262 | 341 | MsBee |
 | 263 | 339 | Cynthia Herrmann Egland |
 | 264 | 338 | Gumbo |
 | 265 | 336 | Jojo M |
-| 266 | 332 | Velma Mull |
-| 267 | 332 | Brittany |
+| 266 | 332 | Brittany |
+| 267 | 332 | Velma Mull |
 | 268 | 330 | victory |
 | 269 | 329 | Tye Stovall |
 | 270 | 329 | block chick |
@@ -343,8 +343,8 @@
 | 335 | 272 | Aerian Preston |
 | 336 | 272 | Todd Hall |
 | 337 | 271 | Grego Daniel |
-| 338 | 269 | Juliana Dottore |
-| 339 | 269 | Samantha Worley |
+| 338 | 269 | Samantha Worley |
+| 339 | 269 | Juliana Dottore |
 | 340 | 269 | Micayah Stevens |
 | 341 | 268 | Michael Lucado |
 | 342 | 268 | Dirtgirl27 |

@@ -55,8 +55,8 @@
 | 47 | 860 | Jae Job |
 | 48 | 855 | Marvin Lou Martin |
 | 49 | 853 | TeeJ |
-| 50 | 846 | Christine Marie |
-| 51 | 846 | Lucille Truesdale |
+| 50 | 846 | Lucille Truesdale |
+| 51 | 846 | Christine Marie |
 | 52 | 845 | LisaJo Picken Buchanan |
 | 53 | 843 | Shelly Chandler |
 | 54 | 841 | Anthony Bryan Riva |
@@ -184,11 +184,11 @@
 | 176 | 320 | TRCuse |
 | 177 | 320 | Lauren Scott |
 | 178 | 316 | Meagan Nicole |
-| 179 | 314 | Andy Cabral |
-| 180 | 314 | shark tato |
+| 179 | 314 | shark tato |
+| 180 | 314 | Andy Cabral |
 | 181 | 309 | Crystal Nicolette Moore |
-| 182 | 307 | Bio Nelly |
-| 183 | 307 | Holly Jolly |
+| 182 | 307 | Holly Jolly |
+| 183 | 307 | Bio Nelly |
 | 184 | 306 | blockstar |
 | 185 | 304 | Lindsay Ball |
 | 186 | 302 | Mary Ann Pabukis |
@@ -200,8 +200,8 @@
 | 192 | 297 | Melvin Baird |
 | 193 | 294 | Calvin Cannon |
 | 194 | 293 | Kathy Brookins |
-| 195 | 292 | Sue Joyce Staats |
-| 196 | 292 | Epic Curvetile |
+| 195 | 292 | Epic Curvetile |
+| 196 | 292 | Sue Joyce Staats |
 | 197 | 290 | Keshia Lyons |
 | 198 | 288 | Leah Kutz Zirbel |
 | 199 | 287 | Plucky Patternblock |
@@ -228,18 +228,18 @@
 | 220 | 267 | Holly |
 | 221 | 266 | Mr. Party |
 | 222 | 265 | Sarah Neathery |
-| 223 | 264 | scott |
-| 224 | 264 | Carlos Ramirez |
+| 223 | 264 | Carlos Ramirez |
+| 224 | 264 | scott |
 | 225 | 261 | Dihcheese444 |
-| 226 | 259 | Cheery Risebuilder |
-| 227 | 259 | Montiette Mcglown |
+| 226 | 259 | Montiette Mcglown |
+| 227 | 259 | Cheery Risebuilder |
 | 228 | 257 | PeaceOs |
 | 229 | 256 | Mylo Lipscomb |
 | 230 | 252 | Selena Shaw |
 | 231 | 251 | Carol Ricks Raymond |
 | 232 | 249 | Ak Jones |
-| 233 | 248 | Jose Dejesus |
-| 234 | 248 | Chirpy Basepiece |
+| 233 | 248 | Chirpy Basepiece |
+| 234 | 248 | Jose Dejesus |
 | 235 | 247 | JPW |
 | 236 | 246 | Zethra Prenisha Rahming |
 | 237 | 245 | Autum Leigh |
@@ -333,8 +333,8 @@
 | 325 | 182 | Ellen Durfee |
 | 326 | 181 | Nikki Wilson |
 | 327 | 179 | AyeKay |
-| 328 | 178 | SammieJo Guy |
-| 329 | 178 | Zippy Tilt |
+| 328 | 178 | Zippy Tilt |
+| 329 | 178 | SammieJo Guy |
 | 330 | 177 | Ernest Maxwell |
 | 331 | 175 | Megan Cutshaw |
 | 332 | 175 | Lorena Guerrero-Barron |

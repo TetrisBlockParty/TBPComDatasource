@@ -162,8 +162,8 @@
 | 154 | 341 | Nick R Montague |
 | 155 | 341 | Shiny Snapfit |
 | 156 | 338 | Jennifer Hardman |
-| 157 | 337 | Nicole Roseberry Weber |
-| 158 | 337 | Constance Risner |
+| 157 | 337 | Constance Risner |
+| 158 | 337 | Nicole Roseberry Weber |
 | 159 | 336 | Fmp |
 | 160 | 334 | Jaimie Lynn |
 | 161 | 333 | Gracie |
@@ -274,7 +274,7 @@
 | 266 | 222 | Snappy Bridgepiece |
 | 267 | 221 | Spunky Builderpiece |
 | 268 | 221 | Amy Hess |
-| 269 | 220 | Cece Ibarra |
+| 269 | 220 | Sarah Marie |
 | 270 | 220 | Bouncy Grid |
 | 271 | 220 | Cece Ibarra |
 | 272 | 219 | Mel Hogan |
