@@ -55,8 +55,8 @@
 | 47 | 893 | Jae Job |
 | 48 | 855 | Marvin Lou Martin |
 | 49 | 853 | TeeJ |
-| 50 | 846 | Christine Marie |
-| 51 | 846 | Lucille Truesdale |
+| 50 | 846 | Lucille Truesdale |
+| 51 | 846 | Christine Marie |
 | 52 | 845 | LisaJo Picken Buchanan |
 | 53 | 843 | Shelly Chandler |
 | 54 | 841 | Anthony Bryan Riva |
@@ -191,8 +191,8 @@
 | 183 | 313 | Zippy Block |
 | 184 | 309 | Crystal Nicolette Moore |
 | 185 | 309 | Chris Bernstein |
-| 186 | 307 | Holly Jolly |
-| 187 | 307 | Bio Nelly |
+| 186 | 307 | Bio Nelly |
+| 187 | 307 | Holly Jolly |
 | 188 | 306 | blockstar |
 | 189 | 304 | Lindsay Ball |
 | 190 | 304 | Mary Ann Pabukis |

@@ -98,8 +98,8 @@
 | 90 | 2237 | Jen Tramack |
 | 91 | 2216 | Alicia Parrish |
 | 92 | 2165 | Tj Ball |
-| 93 | 2148 | Roger Grabbit |
-| 94 | 2148 | ShinyRose |
+| 93 | 2148 | ShinyRose |
+| 94 | 2148 | Roger Grabbit |
 | 95 | 2146 | KellyDyan |
 | 96 | 2106 | Cool Rollpiece |
 | 97 | 2103 | Alisha Peoples |
@@ -127,8 +127,8 @@
 | 119 | 1742 | Katrina Williams Balmir |
 | 120 | 1732 | Mindy Leigh Head |
 | 121 | 1699 | Jamie Main |
-| 122 | 1681 | Nett |
-| 123 | 1681 | Shandrica Lowe |
+| 122 | 1681 | Shandrica Lowe |
+| 123 | 1681 | Nett |
 | 124 | 1658 | Liberty |
 | 125 | 1656 | Auntie B |
 | 126 | 1656 | Kristopher Miller |
@@ -246,8 +246,8 @@
 | 238 | 1079 | Jennifer Kistner |
 | 239 | 1079 | Kimberly Hauck-Rausch |
 | 240 | 1078 | Moose Griffith |
-| 241 | 1073 | Jodi Blake |
-| 242 | 1073 | Eric Carlson |
+| 241 | 1073 | Eric Carlson |
+| 242 | 1073 | Jodi Blake |
 | 243 | 1071 | Kim Dean |
 | 244 | 1067 | Peppy Zone |
 | 245 | 1064 | BK Queen |
@@ -344,8 +344,8 @@
 | 336 | 823 | Alezandra Smith |
 | 337 | 821 | Angie Bolton Workman |
 | 338 | 821 | Cassie Mercer |
-| 339 | 818 | Lola Contreras |
-| 340 | 818 | Jessica Wayne Cornwall |
+| 339 | 818 | Jessica Wayne Cornwall |
+| 340 | 818 | Lola Contreras |
 | 341 | 816 | James Simms III |
 | 342 | 812 | Samantha Jo |
 | 343 | 812 | Jackie Lucas |
@@ -398,8 +398,8 @@
 | 390 | 740 | Jerry Tempelmeyer |
 | 391 | 740 | Traci Johnson |
 | 392 | 738 | Aimee Campbell |
-| 393 | 737 | Jeremy Parodi |
-| 394 | 737 | Chelle |
+| 393 | 737 | Chelle |
+| 394 | 737 | Jeremy Parodi |
 | 395 | 737 | Ginger |
 | 396 | 732 | Victoria Moore-Smith |
 | 397 | 731 | Allan Wayne Lamia |

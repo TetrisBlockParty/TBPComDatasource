@@ -111,8 +111,8 @@
 | 103 | 831 | Angeline Joseph |
 | 104 | 830 | Stephanie Allmon |
 | 105 | 826 | Shane Wilson Jr. |
-| 106 | 816 | Brenda Lee Vander Molen |
-| 107 | 816 | Araceli Parra |
+| 106 | 816 | Araceli Parra |
+| 107 | 816 | Brenda Lee Vander Molen |
 | 108 | 800 | Lauren Girouard |
 | 109 | 799 | Dolores Falco |
 | 110 | 795 | Jesse Olive |
@@ -157,12 +157,12 @@
 | 149 | 582 | Natasha Jones |
 | 150 | 579 | Tasha Gillespie |
 | 151 | 574 | Morgan Martinez |
-| 152 | 572 | Domo Washington |
-| 153 | 572 | CeceGeGe |
+| 152 | 572 | CeceGeGe |
+| 153 | 572 | Domo Washington |
 | 154 | 571 | Nicole Myers |
 | 155 | 568 | Rachael McClain Owens |
-| 156 | 562 | Louise Stacy Sisson |
-| 157 | 562 | Dave Herzog |
+| 156 | 562 | Dave Herzog |
+| 157 | 562 | Louise Stacy Sisson |
 | 158 | 558 | Peppy Shifter |
 | 159 | 553 | LaTanya GeminiondaRise Johnson |
 | 160 | 546 | Mykal Burton |
@@ -207,9 +207,9 @@
 | 199 | 451 | Sarah Cowan Burgos |
 | 200 | 446 | Tom Nault |
 | 201 | 436 | Danielle Weikel |
-| 202 | 432 | Christine Trester |
-| 203 | 432 | Luciana Braganca Vieira |
-| 204 | 432 | Fallorina Susana |
+| 202 | 432 | Luciana Braganca Vieira |
+| 203 | 432 | Fallorina Susana |
+| 204 | 432 | Christine Trester |
 | 205 | 432 | Jenny Hrndz |
 | 206 | 431 | Wendy Dearden |
 | 207 | 430 | Jeni Dow |

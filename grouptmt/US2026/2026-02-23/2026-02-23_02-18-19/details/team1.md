@@ -85,8 +85,8 @@
 | 77 | 583 | Kellie |
 | 78 | 582 | Plucky Fallzone |
 | 79 | 570 | Cody Slav |
-| 80 | 569 | Greg Hart |
-| 81 | 569 | Theo Pinnow |
+| 80 | 569 | Theo Pinnow |
+| 81 | 569 | Greg Hart |
 | 82 | 566 | Cynthia Bradley |
 | 83 | 552 | Aaron Garnett |
 | 84 | 535 | Denice Dee |
@@ -244,8 +244,8 @@
 | 236 | 252 | Dena Kayy |
 | 237 | 251 | MRdot Rooski |
 | 238 | 247 | Brenda Alexander |
-| 239 | 245 | LaFontaine Leslie |
-| 240 | 245 | Matt Iaccheo |
+| 239 | 245 | Matt Iaccheo |
+| 240 | 245 | LaFontaine Leslie |
 | 241 | 244 | Eddie Dillon |
 | 242 | 242 | ParisandCory Champagne |
 | 243 | 241 | Billie Ann Eason |
@@ -459,7 +459,7 @@
 | 451 | 143 | Jacob Shaddock |
 | 452 | 142 | Sunny Shift |
 | 453 | 142 | Amanda Stevens |
-| 454 | 141 | Funky Piecebuilder |
+| 454 | 141 | Richard Corrado |
 | 455 | 141 | Brandie Gallegos |
 | 456 | 141 | Funky Piecebuilder |
 | 457 | 141 | Krista Young |
