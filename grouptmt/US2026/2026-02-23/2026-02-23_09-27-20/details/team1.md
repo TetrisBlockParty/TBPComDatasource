@@ -83,15 +83,15 @@
 | 75 | 703 | Angel Fowler |
 | 76 | 689 | Susanna Guerry |
 | 77 | 679 | Hasbro Bros |
-| 78 | 657 | Tee Sheree |
-| 79 | 657 | Cynthia Bradley |
+| 78 | 657 | Cynthia Bradley |
+| 79 | 657 | Tee Sheree |
 | 80 | 655 | Brenda Stewart |
 | 81 | 648 | Evie Khalil |
 | 82 | 647 | Jason Jones |
 | 83 | 645 | Robert Benito |
 | 84 | 600 | Greg Hart |
-| 85 | 598 | Erin Hodges Plumb |
-| 86 | 598 | Kellie |
+| 85 | 598 | Kellie |
+| 86 | 598 | Erin Hodges Plumb |
 | 87 | 584 | Jen Sartain |
 | 88 | 583 | Theo Pinnow |
 | 89 | 582 | Plucky Fallzone |
@@ -114,8 +114,8 @@
 | 106 | 491 | cc |
 | 107 | 489 | April Carroll |
 | 108 | 489 | Deanna L Hermanson |
-| 109 | 483 | Tdub |
-| 110 | 483 | Trina Gee |
+| 109 | 483 | Trina Gee |
+| 110 | 483 | Tdub |
 | 111 | 480 | Ty Brown |
 | 112 | 478 | Stephanie Zahn |
 | 113 | 477 | Tonya Beasley |
@@ -128,8 +128,8 @@
 | 120 | 452 | Hyper |
 | 121 | 451 | Plucky Ziggy |
 | 122 | 450 | lil mickey |
-| 123 | 448 | Sweet Baker |
-| 124 | 448 | Jazzy Framezone |
+| 123 | 448 | Jazzy Framezone |
+| 124 | 448 | Sweet Baker |
 | 125 | 446 | SkipTheSadSauce |
 | 126 | 443 | Steve Schneider |
 | 127 | 440 | And |
@@ -208,8 +208,8 @@
 | 200 | 324 | Rat666 |
 | 201 | 323 | Madison Wicks |
 | 202 | 322 | Letson Melissa |
-| 203 | 317 | Sarah Roberts |
-| 204 | 317 | Kimberly Garcia |
+| 203 | 317 | Kimberly Garcia |
+| 204 | 317 | Sarah Roberts |
 | 205 | 316 | Reesey Enyart |
 | 206 | 315 | Danielle Little-Daugherty |
 | 207 | 314 | Tana |
@@ -228,8 +228,8 @@
 | 220 | 294 | Chuck Gannon |
 | 221 | 294 | Bindi |
 | 222 | 293 | John Kim |
-| 223 | 291 | Giddy Cascade |
-| 224 | 291 | Brave Wrecker |
+| 223 | 291 | Brave Wrecker |
+| 224 | 291 | Giddy Cascade |
 | 225 | 290 | Tavia |
 | 226 | 290 | Hellsin |
 | 227 | 287 | Sassy Builderline |
@@ -301,7 +301,7 @@
 | 293 | 233 | Shiny Gridmatch |
 | 294 | 233 | Tipsy Riseclear |
 | 295 | 232 | Thorne Shumate |
-| 296 | 230 | Jessica Russell |
+| 296 | 230 | Layzietyme |
 | 297 | 230 | BigWeenie69 |
 | 298 | 230 | Diane Byrd |
 | 299 | 230 | Panda Thagreat |
@@ -560,8 +560,8 @@
 | 552 | 135 | Giggly Rollfit |
 | 553 | 135 | Amanda Marie Sutton |
 | 554 | 134 | Angela Rena Brooks |
-| 555 | 133 | MayMay Echevarria |
-| 556 | 133 | Jason Cox |
+| 555 | 133 | Jason Cox |
+| 556 | 133 | MayMay Echevarria |
 | 557 | 132 | Angela Ellyson |
 | 558 | 132 | Mary Love |
 | 559 | 131 | Garrett Burket |

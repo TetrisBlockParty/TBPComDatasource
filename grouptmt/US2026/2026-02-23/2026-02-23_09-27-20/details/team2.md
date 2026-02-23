@@ -44,8 +44,8 @@
 | 36 | 4199 | Claire Noland |
 | 37 | 4128 | Angela Pruitt |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Corrine Hawks Soriano |
-| 40 | 4120 | Kristen Sceurman |
+| 39 | 4120 | Kristen Sceurman |
+| 40 | 4120 | Corrine Hawks Soriano |
 | 41 | 3947 | Melinda Brown |
 | 42 | 3845 | jayjay |
 | 43 | 3813 | Devin Lee |
@@ -323,8 +323,8 @@
 | 315 | 957 | Block Master |
 | 316 | 955 | Angela Bonquiqui Dinish |
 | 317 | 954 | Melissa McCall |
-| 318 | 951 | Cynthia Ward |
-| 319 | 951 | Wakanda Forever |
+| 318 | 951 | Wakanda Forever |
+| 319 | 951 | Cynthia Ward |
 | 320 | 949 | Steve Man |
 | 321 | 947 | Dedra Steward |
 | 322 | 942 | Cindy Sechler Taninecz |
@@ -347,8 +347,8 @@
 | 339 | 903 | Giggy Blocker |
 | 340 | 903 | Eric Castaneda |
 | 341 | 901 | Kevin Sees |
-| 342 | 899 | Patrick Bartlett |
-| 343 | 899 | Chevy |
+| 342 | 899 | Chevy |
+| 343 | 899 | Patrick Bartlett |
 | 344 | 898 | Jamie Otero |
 | 345 | 895 | Donna Colby |
 | 346 | 894 | Adira Brown |
@@ -382,8 +382,8 @@
 | 374 | 829 | Angie Bolton Workman |
 | 375 | 828 | Kimmy Newman |
 | 376 | 825 | Jeremy Parodi |
-| 377 | 824 | Danielle Johnson-Chandler |
-| 378 | 824 | Khalil Lowe |
+| 377 | 824 | Khalil Lowe |
+| 378 | 824 | Danielle Johnson-Chandler |
 | 379 | 824 | Mandi Douglas Hilt |
 | 380 | 822 | Lola Contreras |
 | 381 | 821 | Cassie Mercer |
@@ -403,8 +403,8 @@
 | 395 | 799 | Ronnie Nelson |
 | 396 | 796 | Amber Gray |
 | 397 | 796 | AndrewandShela Gornik |
-| 398 | 793 | Heather Schelkopf |
-| 399 | 793 | Jaycee |
+| 398 | 793 | Jaycee |
+| 399 | 793 | Heather Schelkopf |
 | 400 | 790 | Brenda Pierpoint |
 | 401 | 788 | Erika Densmore |
 | 402 | 787 | Tiara Elizabeth Baker |
@@ -439,8 +439,8 @@
 | 431 | 751 | Breezy Filler |
 | 432 | 750 | Draizen Montrell Thomas |
 | 433 | 748 | Spunkysmom |
-| 434 | 748 | Ann Matzkanin |
-| 435 | 748 | Brenda Utphall |
+| 434 | 748 | Brenda Utphall |
+| 435 | 748 | Ann Matzkanin |
 | 436 | 746 | Leslie Ann Carter |
 | 437 | 742 | tejas25 |
 | 438 | 741 | Jánine Riggs |
@@ -456,10 +456,10 @@
 | 448 | 728 | Dylan Thomason |
 | 449 | 728 | Tom Riefer |
 | 450 | 726 | Crystal Greene |
-| 451 | 725 | Jennie Lee Huntley |
-| 452 | 725 | Ashle Scranton |
-| 453 | 725 | Vonceial Boone |
-| 454 | 725 | Karen Snyder Schrage |
+| 451 | 725 | Ashle Scranton |
+| 452 | 725 | Jennie Lee Huntley |
+| 453 | 725 | Karen Snyder Schrage |
+| 454 | 725 | Vonceial Boone |
 | 455 | 724 | Melissa Holsinger |
 | 456 | 720 | BeQuo |
 | 457 | 720 | Giggy Mover |
@@ -771,8 +771,8 @@
 | 763 | 472 | Connie Lepore-Mann |
 | 764 | 471 | Charming Leech |
 | 765 | 470 | Katie Marie |
-| 766 | 470 | ToShi |
-| 767 | 470 | Amanda Chamberlain |
+| 766 | 470 | Amanda Chamberlain |
+| 767 | 470 | ToShi |
 | 768 | 470 | Shannon Jackson |
 | 769 | 469 | Moist_B-hole |
 | 770 | 468 | Niceday |
@@ -781,8 +781,8 @@
 | 773 | 467 | ruth |
 | 774 | 466 | Miracle |
 | 775 | 466 | Shea Edison |
-| 776 | 464 | Natasha Edmonds |
-| 777 | 464 | Lively Edgepiece |
+| 776 | 464 | Lively Edgepiece |
+| 777 | 464 | Natasha Edmonds |
 | 778 | 464 | Saucy Fitzone |
 | 779 | 463 | Murray Marie |
 | 780 | 463 | Jaye EL Hunter |

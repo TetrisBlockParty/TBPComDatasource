@@ -143,8 +143,8 @@
 | 135 | 451 | Peachy Fall |
 | 136 | 448 | Kristin Manee |
 | 137 | 442 | ThaEviLJeNiuZ |
-| 138 | 435 | Monica Daley |
-| 139 | 435 | Kristina Black |
+| 138 | 435 | Kristina Black |
+| 139 | 435 | Monica Daley |
 | 140 | 432 | Zippy Block |
 | 141 | 431 | Courtney Cicoria |
 | 142 | 429 | Klo |
@@ -208,8 +208,8 @@
 | 200 | 330 | blockstar |
 | 201 | 328 | scott |
 | 202 | 327 | J-Rizzle |
-| 203 | 324 | jim |
-| 204 | 324 | TinyLegoRose |
+| 203 | 324 | TinyLegoRose |
+| 204 | 324 | jim |
 | 205 | 321 | Meagan Nicole |
 | 206 | 320 | Lauren Scott |
 | 207 | 318 | Chris Hartig |
@@ -378,8 +378,8 @@
 | 370 | 189 | Cool Towerbuilder |
 | 371 | 188 | Sharyn Lemire |
 | 372 | 187 | Jenny Wells-Oakley |
-| 373 | 186 | Dandy Cascadefit |
-| 374 | 186 | Shanon Klair |
+| 373 | 186 | Shanon Klair |
+| 374 | 186 | Dandy Cascadefit |
 | 375 | 186 | Eri Kka |
 | 376 | 185 | Rebecca Blake |
 | 377 | 185 | Morti |
@@ -828,12 +828,12 @@
 | 820 | 83 | Dottie Falco |
 | 821 | 83 | Pampam |
 | 822 | 82 | Jorge Hamoui |
-| 823 | 82 | Ashley Kerr |
+| 823 | 82 | Steve |
 | 824 | 82 | Somnium Era |
-| 825 | 82 | Tara |
-| 826 | 82 | Steve |
-| 827 | 81 | Jamie Hirtle |
-| 828 | 81 | Penny Dean |
+| 825 | 82 | Ashley Kerr |
+| 826 | 82 | Tara |
+| 827 | 81 | Penny Dean |
+| 828 | 81 | Jamie Hirtle |
 | 829 | 81 | Tiffany Root |
 | 830 | 81 | Molly Ananda Rickerson |
 | 831 | 81 | Zippy Stack |
@@ -999,7 +999,7 @@
 | 991 | 62 | Adam Hughes |
 | 992 | 62 | Nee |
 | 993 | 62 | Bouncy Rotator |
-| 994 | 62 | Nee |
+| 994 | 62 | Willa Anne Nold Kay |
 | 995 | 62 | Kemal Topko |
 | 996 | 61 | Mrsjcraw18 |
 | 997 | 61 | Ayanna James |

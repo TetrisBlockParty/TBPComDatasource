@@ -197,8 +197,8 @@
 | 189 | 546 | Mykal Burton |
 | 190 | 546 | Tasha Schriewer |
 | 191 | 540 | Shawn Miller |
-| 192 | 531 | Chauntee Alfrey-Cardinale |
-| 193 | 531 | Sarah Cowan Burgos |
+| 192 | 531 | Sarah Cowan Burgos |
+| 193 | 531 | Chauntee Alfrey-Cardinale |
 | 194 | 528 | Silly Twist |
 | 195 | 525 | Stephanie Blkpep Davidson |
 | 196 | 524 | Bmo |
@@ -359,8 +359,8 @@
 | 351 | 295 | Nikki Pags |
 | 352 | 292 | Khaleada McGill Banks |
 | 353 | 292 | Kirhonda Autmon |
-| 354 | 289 | Salena Whitlock |
-| 355 | 289 | Cheryl Hinch Tenbrook |
+| 354 | 289 | Cheryl Hinch Tenbrook |
+| 355 | 289 | Salena Whitlock |
 | 356 | 289 | DidIdothat |
 | 357 | 288 | Stephanie Bradley |
 | 358 | 288 | Arden White Kirsch |
@@ -373,8 +373,8 @@
 | 365 | 280 | Aerian Preston |
 | 366 | 280 | ROODBOY |
 | 367 | 280 | Dirtgirl27 |
-| 368 | 279 | Tosha Griffey |
-| 369 | 279 | Naur |
+| 368 | 279 | Naur |
+| 369 | 279 | Tosha Griffey |
 | 370 | 278 | Rufus Lincoln |
 | 371 | 277 | Krystal Gerstberger |
 | 372 | 277 | France Vézina |
@@ -391,8 +391,8 @@
 | 383 | 273 | Quackers |
 | 384 | 273 | Kevin Fountain |
 | 385 | 272 | Romeo |
-| 386 | 272 | Todd Hall |
-| 387 | 272 | Tay |
+| 386 | 272 | Tay |
+| 387 | 272 | Todd Hall |
 | 388 | 269 | Goofy Fall |
 | 389 | 269 | Samantha Worley |
 | 390 | 269 | Juliana Dottore |
@@ -493,8 +493,8 @@
 | 485 | 221 | Glitzy Rotate |
 | 486 | 221 | Vaners |
 | 487 | 220 | Bhreagh Gentile |
-| 488 | 219 | Trice Thomas |
-| 489 | 219 | TLM |
+| 488 | 219 | TLM |
+| 489 | 219 | Trice Thomas |
 | 490 | 218 | Sabrina Mansfield |
 | 491 | 218 | Dapper Chiseler |
 | 492 | 218 | Tina Smith Roy |
@@ -560,11 +560,11 @@
 | 552 | 197 | Fredd Thomas |
 | 553 | 197 | Giggy Glidepiece |
 | 554 | 196 | Eboni Starr |
-| 555 | 196 | Joshua David Huie |
-| 556 | 196 | Weerae |
-| 557 | 195 | Nicha Hooker |
+| 555 | 196 | Weerae |
+| 556 | 196 | Joshua David Huie |
+| 557 | 195 | Carrie Resler |
 | 558 | 195 | toony |
-| 559 | 195 | Carrie Resler |
+| 559 | 195 | Nicha Hooker |
 | 560 | 194 | Shicken Nuggit |
 | 561 | 193 | Bryan Byrd |
 | 562 | 193 | Clever Shiftsnap |
@@ -1271,7 +1271,7 @@
 | 1263 | 86 | Sydney Weller |
 | 1264 | 86 | Bridget Brinkman |
 | 1265 | 86 | Terrie Miranda |
-| 1266 | 86 | Vicky Callahan |
+| 1266 | 86 | Slick Sally |
 | 1267 | 86 | Void |
 | 1268 | 86 | Vicky Callahan |
 | 1269 | 85 | Milly Rivera |
