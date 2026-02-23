@@ -135,8 +135,8 @@
 | 127 | 458 | Twisty Clicky |
 | 128 | 451 | Peachy Fall |
 | 129 | 448 | Kristin Manee |
-| 130 | 435 | Leslie Thomas |
-| 131 | 435 | Kristina Black |
+| 130 | 435 | Kristina Black |
+| 131 | 435 | Leslie Thomas |
 | 132 | 431 | Courtney Cicoria |
 | 133 | 425 | Monica Daley |
 | 134 | 421 | JIGsaw ~(•¿°)~ |
@@ -182,8 +182,8 @@
 | 174 | 349 | Rafael Valentin |
 | 175 | 349 | Twisty Cascadezone |
 | 176 | 348 | April Rondinone |
-| 177 | 347 | Crystal Nicolette Moore |
-| 178 | 347 | Daria Rycewicz |
+| 177 | 347 | Daria Rycewicz |
+| 178 | 347 | Crystal Nicolette Moore |
 | 179 | 339 | David Lay |
 | 180 | 334 | Kris Bartlett |
 | 181 | 333 | shark tato |
@@ -212,8 +212,8 @@
 | 204 | 300 | Zakia Monae |
 | 205 | 300 | Dihcheese444 |
 | 206 | 295 | Keshia Lyons |
-| 207 | 294 | Porkobello |
-| 208 | 294 | Calvin Cannon |
+| 207 | 294 | Calvin Cannon |
+| 208 | 294 | Porkobello |
 | 209 | 292 | Epic Curvetile |
 | 210 | 290 | Jared Gutwein |
 | 211 | 290 | Plucky Patternblock |
@@ -237,15 +237,15 @@
 | 229 | 272 | Carlos Ramirez |
 | 230 | 272 | Dennis Bradley |
 | 231 | 271 | Holly |
-| 232 | 270 | Juls |
-| 233 | 270 | Jen Caldwell |
+| 232 | 270 | Jen Caldwell |
+| 233 | 270 | Juls |
 | 234 | 267 | JPW |
 | 235 | 266 | Mr. Party |
 | 236 | 265 | Sarah Neathery |
 | 237 | 265 | Silly SeaWeed |
 | 238 | 264 | Stella |
-| 239 | 262 | BigSammy420 |
-| 240 | 262 | Selena Shaw |
+| 239 | 262 | Selena Shaw |
+| 240 | 262 | BigSammy420 |
 | 241 | 260 | Carter Jones |
 | 242 | 260 | Rio Rocha |
 | 243 | 259 | Allen Lloyd |

@@ -336,9 +336,9 @@
 | 328 | 204 | Chris Sigurdson |
 | 329 | 201 | Tedashi |
 | 330 | 201 | Colleen Wise |
-| 331 | 201 | Tedashi |
-| 332 | 200 | Cranky Pattern |
-| 333 | 200 | Silly Align |
+| 331 | 201 | Rico Rico |
+| 332 | 200 | Silly Align |
+| 333 | 200 | Cranky Pattern |
 | 334 | 199 | Tina Englert |
 | 335 | 198 | Marci Sanders |
 | 336 | 197 | Cool Towerzone |
