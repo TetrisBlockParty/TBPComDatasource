@@ -151,8 +151,8 @@
 | 143 | 520 | Zippy Block |
 | 144 | 518 | Carly Alexis |
 | 145 | 516 | Trish |
-| 146 | 514 | Scott Jameson |
-| 147 | 514 | Lucas J Sutton |
+| 146 | 514 | Lucas J Sutton |
+| 147 | 514 | Scott Jameson |
 | 148 | 513 | Erin Thomas |
 | 149 | 512 | ThaEviLJeNiuZ |
 | 150 | 512 | Casey Jeffcoat |
@@ -339,8 +339,8 @@
 | 331 | 265 | Christine Therrien |
 | 332 | 265 | Degenerate |
 | 333 | 264 | ZeeZee |
-| 334 | 264 | AyeKay |
-| 335 | 264 | Zethra Prenisha Rahming |
+| 334 | 264 | Zethra Prenisha Rahming |
+| 335 | 264 | AyeKay |
 | 336 | 262 | BigSammy420 |
 | 337 | 262 | Selena Shaw |
 | 338 | 262 | Ruben Wheeler |
@@ -353,8 +353,8 @@
 | 345 | 256 | Mackenzie Forrester |
 | 346 | 256 | Paige Kittles |
 | 347 | 254 | Ari Droff |
-| 348 | 253 | Cool Buildout |
-| 349 | 253 | Autum Leigh |
+| 348 | 253 | Autum Leigh |
+| 349 | 253 | Cool Buildout |
 | 350 | 253 | Chair |
 | 351 | 252 | Maureen Flanigan |
 | 352 | 252 | Gracie Ann Taylor |
@@ -395,8 +395,8 @@
 | 387 | 232 | Jenny Wells-Oakley |
 | 388 | 230 | Chantilly Laace |
 | 389 | 228 | Bethany Ison |
-| 390 | 227 | Asher |
-| 391 | 227 | Maria Hammie |
+| 390 | 227 | Maria Hammie |
+| 391 | 227 | Asher |
 | 392 | 225 | Jennifer Renee |
 | 393 | 224 | Ultramarine |
 | 394 | 223 | Brave Spinbuilder |
@@ -425,8 +425,8 @@
 | 417 | 215 | Tanya Abernathy Jackson |
 | 418 | 215 | Squeezy Pearsall |
 | 419 | 214 | Victoria Faniel |
-| 420 | 214 | Susan R. Wilson |
-| 421 | 214 | B Renee Desjardin |
+| 420 | 214 | B Renee Desjardin |
+| 421 | 214 | Susan R. Wilson |
 | 422 | 213 | Derick |
 | 423 | 212 | Mike Solo |
 | 424 | 211 | Shiny Pivoty |

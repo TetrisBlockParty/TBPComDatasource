@@ -171,8 +171,8 @@
 | 163 | 449 | Snappy Matcher |
 | 164 | 446 | SkipTheSadSauce |
 | 165 | 444 | Dandy Basegrid |
-| 166 | 440 | Timothy Danaher |
-| 167 | 440 | Kimmie Kimms |
+| 166 | 440 | Kimmie Kimms |
+| 167 | 440 | Timothy Danaher |
 | 168 | 434 | Yvonne Marie |
 | 169 | 432 | Lori Bales |
 | 170 | 428 | Amanda Jarnagin |
@@ -201,8 +201,8 @@
 | 193 | 392 | Kathy Langham |
 | 194 | 391 | Monica Donato |
 | 195 | 390 | Elaine Elaine |
-| 196 | 387 | Carrie Smith |
-| 197 | 387 | Witty Builderfit |
+| 196 | 387 | Witty Builderfit |
+| 197 | 387 | Carrie Smith |
 | 198 | 387 | Ananda Mendez |
 | 199 | 386 | Brian Spotts |
 | 200 | 385 | Debbie Kane |
@@ -242,8 +242,8 @@
 | 234 | 353 | Jaimie Lynn |
 | 235 | 353 | Reesey Enyart |
 | 236 | 351 | Tyler Hertzog |
-| 237 | 350 | Dizzy Slider |
-| 238 | 350 | Tipsy Strikerpiece |
+| 237 | 350 | Tipsy Strikerpiece |
+| 238 | 350 | Dizzy Slider |
 | 239 | 349 | Cool Shiftsnap |
 | 240 | 348 | John Kim |
 | 241 | 346 | GATOR |
@@ -280,8 +280,8 @@
 | 272 | 313 | Cody Gates |
 | 273 | 312 | Danielle S Kester |
 | 274 | 311 | Nathan Sealander |
-| 275 | 310 | Matt Iaccheo |
-| 276 | 310 | Christina Norman |
+| 275 | 310 | Christina Norman |
+| 276 | 310 | Matt Iaccheo |
 | 277 | 308 | Speedy Liney |
 | 278 | 306 | Cece Ibarra |
 | 279 | 305 | Larry Tilton |

@@ -235,8 +235,8 @@
 | 227 | 1383 | Ladyrainbootz |
 | 228 | 1381 | Stacy Stickle |
 | 229 | 1370 | Lemonaide |
-| 230 | 1351 | Denisha Dawkins |
-| 231 | 1351 | Marie Boyd Faulk |
+| 230 | 1351 | Marie Boyd Faulk |
+| 231 | 1351 | Denisha Dawkins |
 | 232 | 1344 | Rebecca Garland |
 | 233 | 1342 | Kelly A Green-Leach |
 | 234 | 1340 | LordZophar |
@@ -670,8 +670,8 @@
 | 662 | 621 | Taren Cowan |
 | 663 | 620 | Ronald Higgins |
 | 664 | 618 | Marella Petilo |
-| 665 | 617 | Kacee Conrad Bock |
-| 666 | 617 | Jason H Baker |
+| 665 | 617 | Jason H Baker |
+| 666 | 617 | Kacee Conrad Bock |
 | 667 | 617 | Biggest thing |
 | 668 | 616 | Polly Pritchard Chesler |
 | 669 | 615 | Julio A Laracuente |
@@ -686,8 +686,8 @@
 | 678 | 605 | Mandi Marie Smith |
 | 679 | 605 | Jermaine Harris |
 | 680 | 604 | Rae Rae |
-| 681 | 603 | Dizzy Zone |
-| 682 | 603 | Michael Artis |
+| 681 | 603 | Michael Artis |
+| 682 | 603 | Dizzy Zone |
 | 683 | 602 | Jedi |
 | 684 | 601 | Daniel Amos |
 | 685 | 601 | Jessica Lamb |
@@ -746,8 +746,8 @@
 | 738 | 558 | NanDa Cruzan VI |
 | 739 | 556 | Rhonda Petro |
 | 740 | 556 | Joice Hansen |
-| 741 | 555 | Noel Tarmy |
-| 742 | 555 | Misty Mitchell |
+| 741 | 555 | Misty Mitchell |
+| 742 | 555 | Noel Tarmy |
 | 743 | 554 | Fi Ne |
 | 744 | 554 | Party d |
 | 745 | 553 | De Hawkins |
