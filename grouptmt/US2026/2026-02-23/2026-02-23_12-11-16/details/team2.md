@@ -145,8 +145,8 @@
 | 137 | 1818 | Shandrica Lowe |
 | 138 | 1812 | Shameika Trail |
 | 139 | 1774 | Crystal Elam |
-| 140 | 1769 | Chirpy Staggerpiece |
-| 141 | 1769 | Katrina Williams Balmir |
+| 140 | 1769 | Katrina Williams Balmir |
+| 141 | 1769 | Chirpy Staggerpiece |
 | 142 | 1767 | niecy |
 | 143 | 1755 | Loopy Clusterbuilder |
 | 144 | 1755 | Rebecca Doughman |
@@ -856,8 +856,8 @@
 | 848 | 446 | Colin Morgan |
 | 849 | 445 | Mar Q Thomas |
 | 850 | 445 | Beatboxxer |
-| 851 | 444 | Shanae Dillahunty |
-| 852 | 444 | Lynda Toland |
+| 851 | 444 | Lynda Toland |
+| 852 | 444 | Shanae Dillahunty |
 | 853 | 444 | Angela Murgia-Owen |
 | 854 | 443 | N00D3S |
 | 855 | 443 | Giggy Grabber |

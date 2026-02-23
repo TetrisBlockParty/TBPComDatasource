@@ -129,8 +129,8 @@
 | 121 | 467 | Candy Jones |
 | 122 | 463 | Lexuriuos Lifestlye |
 | 123 | 462 | Luciano Moreira |
-| 124 | 458 | Goose egg |
-| 125 | 458 | Evan Richmond |
+| 124 | 458 | Evan Richmond |
+| 125 | 458 | Goose egg |
 | 126 | 454 | Desiree Deschaine Havee |
 | 127 | 453 | Brandi Huntington |
 | 128 | 452 | Hyper |
@@ -201,15 +201,15 @@
 | 193 | 357 | David Lutcher |
 | 194 | 353 | Dizzy Party |
 | 195 | 353 | Jaimie Lynn |
-| 196 | 353 | Dizzy Party |
+| 196 | 353 | Josh Riemer |
 | 197 | 351 | Sean Stallings |
 | 198 | 350 | Tipsy Strikerpiece |
 | 199 | 349 | Cool Shiftsnap |
 | 200 | 347 | Elaine Elaine |
 | 201 | 346 | GATOR |
 | 202 | 345 | Jerry Danowski |
-| 203 | 342 | Dino |
-| 204 | 342 | Snippy Wipebuilder |
+| 203 | 342 | Snippy Wipebuilder |
+| 204 | 342 | Dino |
 | 205 | 341 | Nick R Montague |
 | 206 | 339 | Nicole Roseberry Weber |
 | 207 | 337 | Kimberly Garcia |
@@ -481,8 +481,8 @@
 | 473 | 169 | Ashley Adams |
 | 474 | 168 | Mrs.Patrica |
 | 475 | 166 | Gilbert Ortiz Jr. |
-| 476 | 165 | Stephanie Leday |
-| 477 | 165 | Rodney Schmerfeld |
+| 476 | 165 | Rodney Schmerfeld |
+| 477 | 165 | Stephanie Leday |
 | 478 | 164 | Brenda L. Bunce |
 | 479 | 163 | dhardy |
 | 480 | 163 | Barry Mac'Ockner |

@@ -66,8 +66,8 @@
 | 58 | 864 | Shelly Chandler |
 | 59 | 863 | Pee |
 | 60 | 859 | TeeJ |
-| 61 | 846 | Lucille Truesdale |
-| 62 | 846 | Christine Marie |
+| 61 | 846 | Christine Marie |
+| 62 | 846 | Lucille Truesdale |
 | 63 | 834 | quicksand420 |
 | 64 | 807 | Rachel Anne |
 | 65 | 807 | Amelpss |
@@ -227,8 +227,8 @@
 | 219 | 313 | Milan Markeisha |
 | 220 | 312 | Casey Grabner |
 | 221 | 312 | Dihcheese444 |
-| 222 | 311 | Mary Ann Pabukis |
-| 223 | 311 | Nikki Rae Gordon |
+| 222 | 311 | Nikki Rae Gordon |
+| 223 | 311 | Mary Ann Pabukis |
 | 224 | 310 | Holly Jolly |
 | 225 | 308 | Leah Kutz Zirbel |
 | 226 | 307 | Cheery Risebuilder |
@@ -285,8 +285,8 @@
 | 277 | 261 | Stacey Stano |
 | 278 | 261 | Zethra Prenisha Rahming |
 | 279 | 260 | Carter Jones |
-| 280 | 259 | Montiette Mcglown |
-| 281 | 259 | Allen Lloyd |
+| 280 | 259 | Allen Lloyd |
+| 281 | 259 | Montiette Mcglown |
 | 282 | 259 | John Brunetti |
 | 283 | 258 | June Hoffman |
 | 284 | 257 | PeaceOs |
@@ -308,8 +308,8 @@
 | 300 | 244 | Perky Piecegrid |
 | 301 | 244 | Christina Black |
 | 302 | 243 | Chair |
-| 303 | 242 | PurpleMoonMa |
-| 304 | 242 | Chaz |
+| 303 | 242 | Chaz |
+| 304 | 242 | PurpleMoonMa |
 | 305 | 240 | Perky Patternblock |
 | 306 | 239 | AyeKay |
 | 307 | 239 | Denise B |
@@ -636,8 +636,8 @@
 | 628 | 114 | Ashley Danielle |
 | 629 | 113 | Abigail Murphy |
 | 630 | 113 | Serena Butter |
-| 631 | 113 | Hog Crankin |
-| 632 | 113 | Lilya Troutman |
+| 631 | 113 | Lilya Troutman |
+| 632 | 113 | Hog Crankin |
 | 633 | 112 | Ninaforever |
 | 634 | 112 | Jazzy Slamdrop |
 | 635 | 112 | RogueRebel |
