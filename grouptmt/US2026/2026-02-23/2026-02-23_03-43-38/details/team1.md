@@ -146,8 +146,8 @@
 | 138 | 383 | pjbeta |
 | 139 | 381 | Fmp |
 | 140 | 380 | phrmblk24 |
-| 141 | 379 | Kimmie Kimms |
-| 142 | 379 | Austin James |
+| 141 | 379 | Austin James |
+| 142 | 379 | Kimmie Kimms |
 | 143 | 376 | Brian Richardsson |
 | 144 | 376 | Death |
 | 145 | 375 | Tanya Carpenter-Reynolds |
@@ -160,8 +160,8 @@
 | 152 | 364 | Shauna Loe |
 | 153 | 360 | Wisa |
 | 154 | 355 | Carrie Smith |
-| 155 | 353 | Josh Riemer |
-| 156 | 353 | Jaimie Lynn |
+| 155 | 353 | Jaimie Lynn |
+| 156 | 353 | Josh Riemer |
 | 157 | 350 | Tipsy Strikerpiece |
 | 158 | 346 | GATOR |
 | 159 | 345 | Jerry Danowski |
@@ -330,7 +330,7 @@
 | 322 | 201 | Tedashi |
 | 323 | 200 | Silly Align |
 | 324 | 199 | Tina Englert |
-| 325 | 197 | Oscar Zamora |
+| 325 | 197 | build master |
 | 326 | 197 | Larry Tilton |
 | 327 | 197 | Cool Towerzone |
 | 328 | 197 | Oscar Zamora |
@@ -385,11 +385,11 @@
 | 377 | 176 | Jasmine Riley |
 | 378 | 176 | Jamie Catlett |
 | 379 | 175 | Frisky Base |
-| 380 | 175 | Madbull |
-| 381 | 175 | Nadine Velardo |
-| 382 | 175 | Kellie Tunstall |
-| 383 | 174 | Tavia |
-| 384 | 174 | Alex Gauthier |
+| 380 | 175 | Kellie Tunstall |
+| 381 | 175 | Madbull |
+| 382 | 175 | Nadine Velardo |
+| 383 | 174 | Alex Gauthier |
+| 384 | 174 | Tavia |
 | 385 | 174 | Chantelle Ceno |
 | 386 | 172 | Sylvia Vasquez |
 | 387 | 172 | Wayne Saunders |

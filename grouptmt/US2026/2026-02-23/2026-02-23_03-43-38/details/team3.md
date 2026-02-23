@@ -218,9 +218,9 @@
 | 210 | 437 | Loopy Clusterer |
 | 211 | 436 | Danielle Weikel |
 | 212 | 435 | Fallorina Susana |
-| 213 | 432 | Luciana Braganca Vieira |
-| 214 | 432 | Christine Trester |
-| 215 | 432 | Jenny Hrndz |
+| 213 | 432 | Christine Trester |
+| 214 | 432 | Jenny Hrndz |
+| 215 | 432 | Luciana Braganca Vieira |
 | 216 | 431 | Wendy Dearden |
 | 217 | 430 | Joye Sims Binion |
 | 218 | 430 | Jeni Dow |
@@ -278,8 +278,8 @@
 | 270 | 346 | Tamara Deherrera |
 | 271 | 345 | MsBee |
 | 272 | 344 | Roary Danner |
-| 273 | 343 | Ashley Raines |
-| 274 | 343 | Ashley Rufus Bythcez |
+| 273 | 343 | Ashley Rufus Bythcez |
+| 274 | 343 | Ashley Raines |
 | 275 | 341 | Ashley Tookes |
 | 276 | 339 | Cynthia Herrmann Egland |
 | 277 | 338 | Gumbo |
@@ -477,11 +477,11 @@
 | 469 | 209 | MizzMonick Smith |
 | 470 | 209 | Tipsy Zonebuilder |
 | 471 | 208 | Luccy Luxe |
-| 472 | 207 | Angel Miller |
-| 473 | 207 | Misstery |
-| 474 | 207 | Nichol Graham |
-| 475 | 206 | Tammy Rosenberry |
-| 476 | 206 | Boldy Blocker |
+| 472 | 207 | Nichol Graham |
+| 473 | 207 | Angel Miller |
+| 474 | 207 | Misstery |
+| 475 | 206 | Boldy Blocker |
+| 476 | 206 | Tammy Rosenberry |
 | 477 | 206 | Dakota Graham |
 | 478 | 205 | Bouncy Blockbuilder |
 | 479 | 205 | Giggly Brickroll |
@@ -695,8 +695,8 @@
 | 687 | 144 | Janay Darkstallion Robinson |
 | 688 | 144 | Tiffany's TwinsRus Thrifty |
 | 689 | 144 | Clever Edgepiece |
-| 690 | 143 | Sarah Muradyan |
-| 691 | 143 | Russell Hankinson |
+| 690 | 143 | Russell Hankinson |
+| 691 | 143 | Sarah Muradyan |
 | 692 | 143 | Lisa Lisa |
 | 693 | 142 | Jennifer Neiman Gaal |
 | 694 | 142 | Jason-Ashley Ludlow |

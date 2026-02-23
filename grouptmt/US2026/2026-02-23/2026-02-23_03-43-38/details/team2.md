@@ -40,8 +40,8 @@
 | 32 | 4274 | Vistabrat |
 | 33 | 4199 | Claire Noland |
 | 34 | 4128 | Angela Pruitt |
-| 35 | 4120 | Kristen Sceurman |
-| 36 | 4120 | Corrine Hawks Soriano |
+| 35 | 4120 | Corrine Hawks Soriano |
+| 36 | 4120 | Kristen Sceurman |
 | 37 | 4093 | Jill Stroehlein |
 | 38 | 3895 | Nickie Baby |
 | 39 | 3778 | Brittany Alicia |
@@ -270,8 +270,8 @@
 | 262 | 1043 | Brave Dropmatch |
 | 263 | 1043 | nikki |
 | 264 | 1041 | Bri Lynn |
-| 265 | 1036 | Allison Lockyer |
-| 266 | 1036 | Amber Shoemaker |
+| 265 | 1036 | Amber Shoemaker |
+| 266 | 1036 | Allison Lockyer |
 | 267 | 1026 | Kristin Gower |
 | 268 | 1024 | Susan Perraut Jones |
 | 269 | 1024 | Taylor Phillips |
@@ -285,8 +285,8 @@
 | 277 | 987 | Osun Anuket Esu |
 | 278 | 987 | Julie Kresal |
 | 279 | 984 | Crystal Hoffman |
-| 280 | 979 | Melissa Penelope Ann Dodge |
-| 281 | 979 | Hillary Crawford |
+| 280 | 979 | Hillary Crawford |
+| 281 | 979 | Melissa Penelope Ann Dodge |
 | 282 | 976 | Sam Joe |
 | 283 | 972 | Della Hole |
 | 284 | 972 | Juliana Marques Do Nascimento Gordy |
@@ -734,8 +734,8 @@
 | 726 | 452 | Ashley Taylor |
 | 727 | 452 | Cleo Sims |
 | 728 | 450 | sup |
-| 729 | 449 | Julie Hamilton |
-| 730 | 449 | Heather Sawtelle-Mckenzie |
+| 729 | 449 | Heather Sawtelle-Mckenzie |
+| 730 | 449 | Julie Hamilton |
 | 731 | 449 | Kristi Biddinger |
 | 732 | 448 | Anastacio Hernandez |
 | 733 | 448 | Ha Ab |
@@ -1073,8 +1073,8 @@
 | 1065 | 321 | Crystal Herndon |
 | 1066 | 321 | Claire |
 | 1067 | 321 | Jennifer Monteleone |
-| 1068 | 321 | Swanky Snap |
-| 1069 | 321 | Yasmin Guzman |
+| 1068 | 321 | Yasmin Guzman |
+| 1069 | 321 | Swanky Snap |
 | 1070 | 320 | Peachy Blockbuilder |
 | 1071 | 320 | Kamilya Rembert |
 | 1072 | 320 | Dandy Combo |

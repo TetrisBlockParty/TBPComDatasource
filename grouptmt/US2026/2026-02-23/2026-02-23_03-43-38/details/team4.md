@@ -57,8 +57,8 @@
 | 49 | 863 | Pee |
 | 50 | 855 | Marvin Lou Martin |
 | 51 | 853 | TeeJ |
-| 52 | 846 | Lucille Truesdale |
-| 53 | 846 | Christine Marie |
+| 52 | 846 | Christine Marie |
+| 53 | 846 | Lucille Truesdale |
 | 54 | 845 | LisaJo Picken Buchanan |
 | 55 | 843 | Shelly Chandler |
 | 56 | 841 | Anthony Bryan Riva |
@@ -133,8 +133,8 @@
 | 125 | 452 | Jolly Dashfit |
 | 126 | 451 | Peachy Fall |
 | 127 | 448 | Kristin Manee |
-| 128 | 435 | Leslie Thomas |
-| 129 | 435 | Kristina Black |
+| 128 | 435 | Kristina Black |
+| 129 | 435 | Leslie Thomas |
 | 130 | 431 | Courtney Cicoria |
 | 131 | 425 | Monica Daley |
 | 132 | 423 | Austin Owens |
@@ -156,8 +156,8 @@
 | 148 | 393 | Carlton Unfiltered |
 | 149 | 391 | Ramel Rhodes |
 | 150 | 389 | Joseph Guthrie |
-| 151 | 387 | Lucas J Sutton |
-| 152 | 387 | 🥔🥔 Spudz |
+| 151 | 387 | 🥔🥔 Spudz |
+| 152 | 387 | Lucas J Sutton |
 | 153 | 377 | Carrie Brian |
 | 154 | 375 | ThaEviLJeNiuZ |
 | 155 | 375 | Desi Desporte |
@@ -204,12 +204,12 @@
 | 196 | 304 | Lindsay Ball |
 | 197 | 302 | Cursed Hag |
 | 198 | 301 | Andria Lynn |
-| 199 | 300 | Dihcheese444 |
-| 200 | 300 | Zakia Monae |
-| 201 | 300 | Dana Scott |
+| 199 | 300 | Zakia Monae |
+| 200 | 300 | Dana Scott |
+| 201 | 300 | Dihcheese444 |
 | 202 | 299 | Chris Hartig |
-| 203 | 294 | Calvin Cannon |
-| 204 | 294 | Porkobello |
+| 203 | 294 | Porkobello |
+| 204 | 294 | Calvin Cannon |
 | 205 | 292 | Epic Curvetile |
 | 206 | 290 | Jared Gutwein |
 | 207 | 290 | Keshia Lyons |
@@ -312,9 +312,9 @@
 | 304 | 212 | Orchislactea |
 | 305 | 212 | Brave Spinbuilder |
 | 306 | 211 | Chris Alexinas |
-| 307 | 210 | Ultramarine |
+| 307 | 210 | Ari Droff |
 | 308 | 210 | Rebecca Morris |
-| 309 | 210 | Ari Droff |
+| 309 | 210 | Ultramarine |
 | 310 | 209 | Snippy Puzzle |
 | 311 | 208 | Shukee Lo |
 | 312 | 208 | Heather Bruce |
@@ -461,9 +461,9 @@
 | 453 | 148 | Dapper Frame |
 | 454 | 148 | Meg |
 | 455 | 147 | Jay28 |
-| 456 | 146 | Groovy Gridlock |
-| 457 | 146 | Oleg Zakharskiy |
-| 458 | 146 | Angel Raya |
+| 456 | 146 | Oleg Zakharskiy |
+| 457 | 146 | Angel Raya |
+| 458 | 146 | Groovy Gridlock |
 | 459 | 146 | Marcela Johnson |
 | 460 | 146 | Jen Hallin |
 | 461 | 145 | Joseph Gray |
@@ -531,7 +531,7 @@
 | 523 | 126 | PAPatty |
 | 524 | 126 | Cheryl Johnson |
 | 525 | 126 | Spicy Cascadezone |
-| 526 | 125 | Frilly Blocky |
+| 526 | 125 | Cool Gridzone |
 | 527 | 125 | Kelly Adams Carnahan |
 | 528 | 125 | Frilly Blocky |
 | 529 | 124 | Laurel Coppess |
