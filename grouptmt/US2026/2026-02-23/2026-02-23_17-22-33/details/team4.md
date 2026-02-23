@@ -112,8 +112,8 @@
 | 104 | 667 | Amy Suckarieh |
 | 105 | 664 | Nugget |
 | 106 | 659 | Jamie Gustafson |
-| 107 | 658 | Zippy Gridlock |
-| 108 | 658 | Girl |
+| 107 | 658 | Girl |
+| 108 | 658 | Zippy Gridlock |
 | 109 | 657 | Lori Walker |
 | 110 | 652 | Leslie Nicole |
 | 111 | 647 | KM8 |
@@ -243,8 +243,8 @@
 | 235 | 342 | blasterB |
 | 236 | 341 | scott |
 | 237 | 340 | Cranky Rollpiece |
-| 238 | 339 | Jade Rian |
-| 239 | 339 | Melvin Baird |
+| 238 | 339 | Melvin Baird |
+| 239 | 339 | Jade Rian |
 | 240 | 337 | Sam Bishop |
 | 241 | 334 | June Hoffman |
 | 242 | 331 | Alan George LaRage |

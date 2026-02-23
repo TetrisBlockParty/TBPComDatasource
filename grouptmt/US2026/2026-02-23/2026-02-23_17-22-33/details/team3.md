@@ -161,12 +161,12 @@
 | 153 | 742 | Peppy Shifter |
 | 154 | 738 | Naur |
 | 155 | 722 | Rachel |
-| 156 | 722 | Tina Kay |
-| 157 | 717 | Alaina Lee |
-| 158 | 716 | Annie Marie |
-| 159 | 715 | Karon Griffin |
-| 160 | 714 | Jone |
-| 161 | 714 | Jenny Hrndz |
+| 156 | 717 | Alaina Lee |
+| 157 | 716 | Annie Marie |
+| 158 | 715 | Karon Griffin |
+| 159 | 714 | Jone |
+| 160 | 714 | Jenny Hrndz |
+| 161 | 710 | Tina Kay |
 | 162 | 710 | Santeria Trece Candles |
 | 163 | 706 | Kiki |
 | 164 | 696 | Christine Niles |
@@ -185,8 +185,8 @@
 | 177 | 633 | Joye Sims Binion |
 | 178 | 632 | Morgan Martinez |
 | 179 | 629 | rnr junky |
-| 180 | 621 | Cherry Parker |
-| 181 | 621 | Sashay Tapae Simpson |
+| 180 | 621 | Sashay Tapae Simpson |
+| 181 | 621 | Cherry Parker |
 | 182 | 620 | Rania Zaqout |
 | 183 | 616 | Kammy Hill |
 | 184 | 606 | Tasha Gillespie |
@@ -438,8 +438,8 @@
 | 430 | 293 | Loopy Fallzone |
 | 431 | 292 | Khaleada McGill Banks |
 | 432 | 292 | Arden White Kirsch |
-| 433 | 291 | Niki Dalrymple |
-| 434 | 291 | Bryan Byrd |
+| 433 | 291 | Bryan Byrd |
+| 434 | 291 | Niki Dalrymple |
 | 435 | 290 | Kellie Montgomery |
 | 436 | 290 | Tegan Chapman |
 | 437 | 290 | Breezy Roll |
