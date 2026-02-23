@@ -103,8 +103,8 @@
 | 95 | 742 | Susanna Guerry |
 | 96 | 740 | Lori Sanders- Davis |
 | 97 | 722 | Kellie |
-| 98 | 706 | Plucky Fallzone |
-| 99 | 706 | Denice Dee |
+| 98 | 706 | Denice Dee |
+| 99 | 706 | Plucky Fallzone |
 | 100 | 704 | Karin Gillen |
 | 101 | 703 | Angel Fowler |
 | 102 | 691 | Rachael |
@@ -203,8 +203,8 @@
 | 195 | 417 | Debbie Kane |
 | 196 | 416 | Jessica Sheehan |
 | 197 | 415 | Jennifer Hardman |
-| 198 | 414 | Jumpy Dropper |
-| 199 | 414 | John J. Cronin |
+| 198 | 414 | John J. Cronin |
+| 199 | 414 | Jumpy Dropper |
 | 200 | 412 | Connie |
 | 201 | 408 | Lindsay Glover |
 | 202 | 404 | Tawnya Peltonen |

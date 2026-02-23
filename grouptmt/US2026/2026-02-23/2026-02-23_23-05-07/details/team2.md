@@ -376,8 +376,8 @@
 | 368 | 1045 | Lourisha |
 | 369 | 1045 | Jessica Wayne Cornwall |
 | 370 | 1043 | Brave Dropmatch |
-| 371 | 1042 | Mcintosh Brian Shalonda |
-| 372 | 1042 | Spunkysmom |
+| 371 | 1042 | Spunkysmom |
+| 372 | 1042 | Mcintosh Brian Shalonda |
 | 373 | 1039 | Crystal Hoffman |
 | 374 | 1038 | Sheronda Jackson |
 | 375 | 1036 | Amber Shoemaker |

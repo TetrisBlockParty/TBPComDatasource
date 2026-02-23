@@ -167,8 +167,8 @@
 | 159 | 516 | Twisty Clicky |
 | 160 | 514 | Scott Jameson |
 | 161 | 513 | Erin Thomas |
-| 162 | 512 | ThaEviLJeNiuZ |
-| 163 | 512 | Angela Srubar-Norman |
+| 162 | 512 | Angela Srubar-Norman |
+| 163 | 512 | ThaEviLJeNiuZ |
 | 164 | 512 | Ellen Durfee |
 | 165 | 512 | Casey Jeffcoat |
 | 166 | 511 | Jewell Urban |
@@ -200,8 +200,8 @@
 | 192 | 457 | June Hoffman |
 | 193 | 455 | Michele Plunkett |
 | 194 | 450 | Amanda Pauldo-Ivy |
-| 195 | 449 | Courtney Cicoria |
-| 196 | 449 | Rebecca Morris |
+| 195 | 449 | Rebecca Morris |
+| 196 | 449 | Courtney Cicoria |
 | 197 | 448 | Kesha Brady |
 | 198 | 447 | Crystal Nicolette Moore |
 | 199 | 444 | J-Rizzle |
@@ -265,11 +265,11 @@
 | 257 | 365 | Hyper Builder |
 | 258 | 363 | KimoKoala |
 | 259 | 361 | Danielle Kollias |
-| 260 | 360 | Ari Droff |
-| 261 | 360 | James Hurley Jr. |
+| 260 | 360 | James Hurley Jr. |
+| 261 | 360 | Ari Droff |
 | 262 | 358 | Twisty Cascadezone |
-| 263 | 356 | Joeliecea Cobb |
-| 264 | 356 | mike |
+| 263 | 356 | mike |
+| 264 | 356 | Joeliecea Cobb |
 | 265 | 355 | David Lay |
 | 266 | 353 | Chaz |
 | 267 | 352 | scott |
@@ -277,8 +277,8 @@
 | 269 | 350 | Jen Caldwell |
 | 270 | 349 | jim |
 | 271 | 348 | blasterB |
-| 272 | 347 | Daria Rycewicz |
-| 273 | 347 | Gdiguy |
+| 272 | 347 | Gdiguy |
+| 273 | 347 | Daria Rycewicz |
 | 274 | 343 | HastyGrabber |
 | 275 | 340 | Lauren Lamb |
 | 276 | 340 | Cranky Rollpiece |
@@ -435,16 +435,16 @@
 | 427 | 234 | Speedy Cascadeclear |
 | 428 | 234 | Diosa Ebalobo Magsael |
 | 429 | 233 | Joseph Edmonson |
-| 430 | 232 | Jenny Wells-Oakley |
-| 431 | 232 | Becky Shimko |
-| 432 | 230 | Chantilly Laace |
-| 433 | 230 | Martha Lucinda Bishop |
+| 430 | 232 | Becky Shimko |
+| 431 | 232 | Jenny Wells-Oakley |
+| 432 | 230 | Martha Lucinda Bishop |
+| 433 | 230 | Chantilly Laace |
 | 434 | 229 | Sticherella |
-| 435 | 228 | Paito |
-| 436 | 228 | Jessica Petersen |
+| 435 | 228 | Jessica Petersen |
+| 436 | 228 | Paito |
 | 437 | 228 | Bethany Ison |
-| 438 | 227 | Maria Hammie |
-| 439 | 227 | Asher |
+| 438 | 227 | Asher |
+| 439 | 227 | Maria Hammie |
 | 440 | 225 | Jennifer Renee |
 | 441 | 225 | Hyper Matchclear |
 | 442 | 224 | Vanessa Smart |
@@ -566,8 +566,8 @@
 | 558 | 176 | Jlmendillo |
 | 559 | 175 | Veronica Garza |
 | 560 | 174 | Christina Hyde |
-| 561 | 173 | Groovy Brickmatch |
-| 562 | 173 | Chariss Newsom |
+| 561 | 173 | Chariss Newsom |
+| 562 | 173 | Groovy Brickmatch |
 | 563 | 173 | Joshua Cuellar |
 | 564 | 172 | Janis Brown |
 | 565 | 172 | Mary Miller |

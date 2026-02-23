@@ -360,8 +360,8 @@
 | 352 | 383 | Kirhonda Autmon |
 | 353 | 383 | Nikki White |
 | 354 | 382 | Amanda J. Mcneil-Anderson |
-| 355 | 381 | Christina Spa |
-| 356 | 381 | Tiffany Davie |
+| 355 | 381 | Tiffany Davie |
+| 356 | 381 | Christina Spa |
 | 357 | 381 | gremicx |
 | 358 | 379 | Kelly |
 | 359 | 379 | Kaitie Oliver |
@@ -602,8 +602,8 @@
 | 594 | 257 | Shiny Snapfit |
 | 595 | 256 | Christina Rotz Shows |
 | 596 | 255 | Mariah Williams |
-| 597 | 254 | Landycandii |
-| 598 | 254 | Katheline Lazo Luizaga |
+| 597 | 254 | Katheline Lazo Luizaga |
+| 598 | 254 | Landycandii |
 | 599 | 254 | Erica Burk |
 | 600 | 253 | Kristy Manley |
 | 601 | 253 | Muk |
