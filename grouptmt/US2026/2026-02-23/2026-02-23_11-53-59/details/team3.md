@@ -138,8 +138,8 @@
 | 130 | 755 | Katrina Schroeder |
 | 131 | 752 | Logan Naccarato |
 | 132 | 748 | Adrian Marcel Pate |
-| 133 | 745 | JerseyJess |
-| 134 | 745 | ren |
+| 133 | 745 | ren |
+| 134 | 745 | JerseyJess |
 | 135 | 744 | Leah Barnett |
 | 136 | 744 | Fancy Cascader |
 | 137 | 736 | mzcatzy |
@@ -196,9 +196,9 @@
 | 188 | 553 | Kaycee Kay |
 | 189 | 548 | Danielle Balcom |
 | 190 | 547 | Staci George Fitzsimmons |
-| 191 | 546 | Mykal Burton |
-| 192 | 546 | Cynthia Castros-Hampton |
-| 193 | 546 | Tasha Schriewer |
+| 191 | 546 | Cynthia Castros-Hampton |
+| 192 | 546 | Tasha Schriewer |
+| 193 | 546 | Mykal Burton |
 | 194 | 540 | Shawn Miller |
 | 195 | 531 | Chauntee Alfrey-Cardinale |
 | 196 | 531 | Makelini Mausia |
@@ -249,10 +249,10 @@
 | 241 | 429 | Carrie Huskey |
 | 242 | 428 | Sleepy |
 | 243 | 421 | Chummy Caster |
-| 244 | 419 | Kristin Delibac Corrigan |
-| 245 | 419 | Marci Mize Fandrich |
-| 246 | 417 | Giddy Twistbuilder |
-| 247 | 417 | Nicole Flippo |
+| 244 | 419 | Marci Mize Fandrich |
+| 245 | 419 | Kristin Delibac Corrigan |
+| 246 | 417 | Nicole Flippo |
+| 247 | 417 | Giddy Twistbuilder |
 | 248 | 414 | Fran Lin |
 | 249 | 413 | Micayah Stevens |
 | 250 | 413 | Randy Clevenger |
@@ -266,8 +266,8 @@
 | 258 | 406 | Kristal C Lee |
 | 259 | 405 | Steffi Chris Dacones |
 | 260 | 404 | Chasity |
-| 261 | 403 | Denita Mungro |
-| 262 | 403 | Scott Lindsay |
+| 261 | 403 | Scott Lindsay |
+| 262 | 403 | Denita Mungro |
 | 263 | 401 | Ashley Tookes |
 | 264 | 400 | Quackers |
 | 265 | 395 | rosy |
@@ -481,8 +481,8 @@
 | 473 | 233 | Criss |
 | 474 | 233 | Anna Moeller |
 | 475 | 232 | Sunny Tiltgrid |
-| 476 | 232 | Stephanie Hill |
-| 477 | 232 | Melanie Sherwood |
+| 476 | 232 | Melanie Sherwood |
+| 477 | 232 | Stephanie Hill |
 | 478 | 231 | Giggly Brickroll |
 | 479 | 230 | DanceLuvLaugh |
 | 480 | 230 | BigE |
@@ -504,8 +504,8 @@
 | 496 | 221 | Christen Cannon Layhew |
 | 497 | 221 | Bleu Sun Beams |
 | 498 | 221 | BŘŰŤİÇŨŚ |
-| 499 | 221 | Glitzy Rotate |
-| 500 | 221 | Vaners |
+| 499 | 221 | Vaners |
+| 500 | 221 | Glitzy Rotate |
 | 501 | 220 | Bhreagh Gentile |
 | 502 | 219 | TLM |
 | 503 | 219 | Trice Thomas |

@@ -101,8 +101,8 @@
 | 93 | 659 | Jamie Gustafson |
 | 94 | 653 | Rica Mitchell |
 | 95 | 650 | KJ Pool |
-| 96 | 647 | Shauna Havard |
-| 97 | 647 | KM8 |
+| 96 | 647 | KM8 |
+| 97 | 647 | Shauna Havard |
 | 98 | 646 | Eric Mcgaughy |
 | 99 | 626 | Brittney Griggs |
 | 100 | 618 | Zippy Gridlock |
@@ -130,8 +130,8 @@
 | 122 | 514 | Scott Jameson |
 | 123 | 514 | Serena Goodridge |
 | 124 | 513 | Erin Thomas |
-| 125 | 512 | Casey Jeffcoat |
-| 126 | 512 | Cristy Duerksen |
+| 125 | 512 | Cristy Duerksen |
+| 126 | 512 | Casey Jeffcoat |
 | 127 | 509 | Leslie Nicole |
 | 128 | 493 | Carly Alexis |
 | 129 | 485 | Melissa Adams |
@@ -231,16 +231,16 @@
 | 223 | 307 | Michele Plunkett |
 | 224 | 306 | mike |
 | 225 | 305 | Melvin Baird |
-| 226 | 304 | Gdiguy |
-| 227 | 304 | Lindsay Ball |
+| 226 | 304 | Lindsay Ball |
+| 227 | 304 | Gdiguy |
 | 228 | 301 | Andria Lynn |
 | 229 | 300 | Dana Scott |
 | 230 | 295 | Keshia Lyons |
 | 231 | 294 | Calvin Cannon |
 | 232 | 292 | Epic Curvetile |
 | 233 | 291 | Mimi |
-| 234 | 290 | Plucky Patternblock |
-| 235 | 290 | Rebecca Morris |
+| 234 | 290 | Rebecca Morris |
+| 235 | 290 | Plucky Patternblock |
 | 236 | 290 | Jared Gutwein |
 | 237 | 289 | Juls |
 | 238 | 288 | Adam Stephanie Parker |
@@ -255,10 +255,10 @@
 | 247 | 281 | Laura |
 | 248 | 280 | Rio Rocha |
 | 249 | 279 | Malakai Darien Fox |
-| 250 | 278 | Angela Geist Jusinski |
-| 251 | 278 | Sarah Brown |
-| 252 | 276 | Joeliecea Cobb |
-| 253 | 276 | Cynthia Boudreau |
+| 250 | 278 | Sarah Brown |
+| 251 | 278 | Angela Geist Jusinski |
+| 252 | 276 | Cynthia Boudreau |
+| 253 | 276 | Joeliecea Cobb |
 | 254 | 275 | Kimberlee Jan Beckstead |
 | 255 | 274 | Angel Raya |
 | 256 | 273 | Cranky Rollpiece |
@@ -374,10 +374,10 @@
 | 366 | 203 | Sticherella |
 | 367 | 203 | Katherine Crane |
 | 368 | 201 | O block |
-| 369 | 198 | Calvin Dennis |
-| 370 | 198 | Mona Sharma |
+| 369 | 198 | Mona Sharma |
+| 370 | 198 | Calvin Dennis |
 | 371 | 197 | Cozy Balancer |
-| 372 | 196 | Megan Cutshaw |
+| 372 | 196 | Maria Hammie |
 | 373 | 196 | Blessedmama |
 | 374 | 196 | Megan Cutshaw |
 | 375 | 194 | Zany Twisterfit |

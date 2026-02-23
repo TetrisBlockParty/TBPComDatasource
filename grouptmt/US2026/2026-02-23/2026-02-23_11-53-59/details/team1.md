@@ -287,8 +287,8 @@
 | 279 | 255 | Giggly Builderline |
 | 280 | 255 | Beazel75 |
 | 281 | 254 | Al Smith Jr |
-| 282 | 253 | Jamie Jury |
-| 283 | 253 | Cece Ibarra |
+| 282 | 253 | Cece Ibarra |
+| 283 | 253 | Jamie Jury |
 | 284 | 252 | Dena Kayy |
 | 285 | 251 | Angela Fairbank |
 | 286 | 251 | MRdot Rooski |

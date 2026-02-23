@@ -639,8 +639,8 @@
 | 631 | 573 | Giggly Snap |
 | 632 | 573 | Vaniel Glover |
 | 633 | 573 | Mike Aprilliano |
-| 634 | 572 | Rachael Senard |
-| 635 | 572 | Joseph Musick |
+| 634 | 572 | Joseph Musick |
+| 635 | 572 | Rachael Senard |
 | 636 | 572 | Alexandra Lynn |
 | 637 | 570 | Boldy Wiper |
 | 638 | 569 | Sparkles |
