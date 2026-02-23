@@ -171,12 +171,12 @@
 | 163 | 501 | Ericca Eldridge |
 | 164 | 498 | Melissa Adams |
 | 165 | 496 | Cindy Looper |
-| 166 | 491 | Carrie Brian |
-| 167 | 491 | Jade Rian |
+| 166 | 491 | Jade Rian |
+| 167 | 491 | Carrie Brian |
 | 168 | 486 | Swanky Fitline |
 | 169 | 485 | Rico |
-| 170 | 480 | Brandon Crabbs |
-| 171 | 480 | Adam Stephanie Parker |
+| 170 | 480 | Adam Stephanie Parker |
+| 171 | 480 | Brandon Crabbs |
 | 172 | 479 | Christina Black |
 | 173 | 477 | Casey Grabner |
 | 174 | 476 | Matt Summer |
@@ -262,8 +262,8 @@
 | 254 | 358 | TinyLegoRose |
 | 255 | 356 | Joeliecea Cobb |
 | 256 | 356 | mike |
-| 257 | 355 | Andrew Dang |
-| 258 | 355 | David Lay |
+| 257 | 355 | David Lay |
+| 258 | 355 | Andrew Dang |
 | 259 | 352 | scott |
 | 260 | 350 | Jen Caldwell |
 | 261 | 349 | jim |
@@ -299,8 +299,8 @@
 | 291 | 305 | Sassy Pattern |
 | 292 | 304 | Shiny Fit |
 | 293 | 301 | Erin Sabol |
-| 294 | 300 | Kate |
-| 295 | 300 | Dana Scott |
+| 294 | 300 | Dana Scott |
+| 295 | 300 | Kate |
 | 296 | 298 | Chance Strickland |
 | 297 | 297 | Kim Klutz Olson |
 | 298 | 297 | Kenna Gunderland |
@@ -309,9 +309,9 @@
 | 301 | 295 | Cool Gridzone |
 | 302 | 295 | Blessedmama |
 | 303 | 293 | DonMega |
-| 304 | 292 | Tracey Lehmann |
-| 305 | 292 | Epic Curvetile |
-| 306 | 292 | Angel Raya |
+| 304 | 292 | Angel Raya |
+| 305 | 292 | Tracey Lehmann |
+| 306 | 292 | Epic Curvetile |
 | 307 | 291 | ZeeZee |
 | 308 | 291 | Dizzy Matchzone |
 | 309 | 291 | Brittney Orengo |
@@ -367,9 +367,9 @@
 | 359 | 259 | Allen Lloyd |
 | 360 | 259 | Montiette Mcglown |
 | 361 | 258 | Lilya Troutman |
-| 362 | 257 | Michael Snow |
-| 363 | 257 | Alexandra Karavias |
-| 364 | 257 | Marcus TheeyoungWoe Gilmore |
+| 362 | 257 | Alexandra Karavias |
+| 363 | 257 | Marcus TheeyoungWoe Gilmore |
+| 364 | 257 | Michael Snow |
 | 365 | 257 | ĥuf |
 | 366 | 256 | Jason Bosco |
 | 367 | 256 | Paige Kittles |
@@ -536,8 +536,8 @@
 | 528 | 179 | JoAnna Zalkovsky |
 | 529 | 179 | Elle Joe |
 | 530 | 178 | Sunny Filler |
-| 531 | 178 | Nerdy Linebuilder |
-| 532 | 178 | Laurel Coppess |
+| 531 | 178 | Laurel Coppess |
+| 532 | 178 | Nerdy Linebuilder |
 | 533 | 177 | Snippy Clearer |
 | 534 | 177 | Stephanie Mico |
 | 535 | 176 | Walid Elsabee |

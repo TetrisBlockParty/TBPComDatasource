@@ -52,8 +52,8 @@
 | 44 | 1166 | Felicia Lewis |
 | 45 | 1158 | june october |
 | 46 | 1137 | Jen Sartain |
-| 47 | 1126 | Tipsy Column |
-| 48 | 1126 | Tater |
+| 47 | 1126 | Tater |
+| 48 | 1126 | Tipsy Column |
 | 49 | 1122 | Kristen Gideon |
 | 50 | 1114 | Andrea Dañielle Ortiz |
 | 51 | 1114 | Jayme Sellers |
@@ -243,8 +243,8 @@
 | 235 | 359 | Oscar Zamora |
 | 236 | 359 | Jo Kerley |
 | 237 | 357 | Shiny Snapfit |
-| 238 | 357 | Paula Martin |
-| 239 | 357 | Teri Oehlke |
+| 238 | 357 | Teri Oehlke |
+| 239 | 357 | Paula Martin |
 | 240 | 354 | Dino |
 | 241 | 354 | Tipsy Strikerpiece |
 | 242 | 353 | Reesey Enyart |
@@ -255,8 +255,8 @@
 | 247 | 348 | John Kim |
 | 248 | 347 | Chantelle Ceno |
 | 249 | 346 | GATOR |
-| 250 | 345 | Jamie Jury |
-| 251 | 345 | Keith Mathis |
+| 250 | 345 | Keith Mathis |
+| 251 | 345 | Jamie Jury |
 | 252 | 344 | dhardy |
 | 253 | 341 | Nick R Montague |
 | 254 | 341 | DoodleBug |
@@ -283,11 +283,11 @@
 | 275 | 329 | Marianita Garcia |
 | 276 | 328 | Jeremy Maubert |
 | 277 | 325 | GringaLinga |
-| 278 | 324 | Sylvia Vasquez |
-| 279 | 324 | Mandyy Rae |
+| 278 | 324 | Mandyy Rae |
+| 279 | 324 | Sylvia Vasquez |
 | 280 | 323 | Irv |
-| 281 | 322 | Christina Norman |
-| 282 | 322 | Sarah Roberts |
+| 281 | 322 | Sarah Roberts |
+| 282 | 322 | Christina Norman |
 | 283 | 318 | Mitchel White |
 | 284 | 317 | Zany Tiler |
 | 285 | 317 | Sam Williams |
@@ -297,9 +297,9 @@
 | 289 | 313 | Cody Gates |
 | 290 | 312 | Danielle S Kester |
 | 291 | 311 | Nathan Sealander |
-| 292 | 310 | Matt Iaccheo |
+| 292 | 310 | Billie Ann Eason |
 | 293 | 310 | Mrs.Patrica |
-| 294 | 310 | Billie Ann Eason |
+| 294 | 310 | Matt Iaccheo |
 | 295 | 308 | Speedy Liney |
 | 296 | 307 | Jessica Russell |
 | 297 | 306 | Cece Ibarra |
@@ -311,8 +311,8 @@
 | 303 | 301 | Brave Wrecker |
 | 304 | 300 | Giggly Builderline |
 | 305 | 299 | LD1 |
-| 306 | 298 | Sweetts |
-| 307 | 298 | Kimberly Davis |
+| 306 | 298 | Kimberly Davis |
+| 307 | 298 | Sweetts |
 | 308 | 297 | Diane Byrd |
 | 309 | 297 | Amh |
 | 310 | 294 | Chummy Rollblock |
