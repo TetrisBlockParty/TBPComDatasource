@@ -113,9 +113,9 @@
 | 105 | 527 | Dizzy Tiley |
 | 106 | 519 | Nugget |
 | 107 | 514 | Serena Goodridge |
-| 108 | 513 | YoMomma |
-| 109 | 513 | shar |
-| 110 | 513 | Erin Thomas |
+| 108 | 513 | Erin Thomas |
+| 109 | 513 | YoMomma |
+| 110 | 513 | shar |
 | 111 | 512 | Cristy Duerksen |
 | 112 | 512 | Casey Jeffcoat |
 | 113 | 511 | Lori Walker |
@@ -173,8 +173,8 @@
 | 165 | 358 | A5! |
 | 166 | 356 | George Nutt |
 | 167 | 352 | Sue Joyce Staats |
-| 168 | 349 | Rafael Valentin |
-| 169 | 349 | Twisty Cascadezone |
+| 168 | 349 | Twisty Cascadezone |
+| 169 | 349 | Rafael Valentin |
 | 170 | 348 | TRCuse |
 | 171 | 347 | Daria Rycewicz |
 | 172 | 339 | David Lay |

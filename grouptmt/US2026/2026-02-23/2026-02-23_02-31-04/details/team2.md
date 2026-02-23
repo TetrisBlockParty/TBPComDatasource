@@ -216,8 +216,8 @@
 | 208 | 1188 | Tralonda Weeks |
 | 209 | 1183 | Poppy Snap |
 | 210 | 1174 | Jennifer Casey-Kay |
-| 211 | 1169 | Steven Marshaun |
-| 212 | 1169 | Pacynthia Williams |
+| 211 | 1169 | Pacynthia Williams |
+| 212 | 1169 | Steven Marshaun |
 | 213 | 1159 | Carrie Trigg |
 | 214 | 1158 | Brittany Clark |
 | 215 | 1158 | Amy Sayers |
@@ -226,8 +226,8 @@
 | 218 | 1140 | Sarah Ridenour |
 | 219 | 1135 | Samantha Roberts |
 | 220 | 1131 | Prado |
-| 221 | 1127 | Dee |
-| 222 | 1127 | Catina Hutchison |
+| 221 | 1127 | Catina Hutchison |
+| 222 | 1127 | Dee |
 | 223 | 1126 | Dolores Russworn |
 | 224 | 1121 | Tommy Tha Boss Gunz |
 | 225 | 1120 | Sarah Freitas |

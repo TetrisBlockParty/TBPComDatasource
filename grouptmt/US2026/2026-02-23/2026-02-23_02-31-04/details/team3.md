@@ -120,8 +120,8 @@
 | 112 | 762 | Speedy Bridger |
 | 113 | 748 | Adrian Marcel Pate |
 | 114 | 746 | Raya |
-| 115 | 744 | Leah Barnett |
-| 116 | 744 | Fancy Cascader |
+| 115 | 744 | Fancy Cascader |
+| 116 | 744 | Leah Barnett |
 | 117 | 742 | Groovy Catcher |
 | 118 | 733 | mzcatzy |
 | 119 | 726 | Kristie |
@@ -162,8 +162,8 @@
 | 154 | 572 | CeceGeGe |
 | 155 | 571 | Nicole Myers |
 | 156 | 568 | Rachael McClain Owens |
-| 157 | 562 | Louise Stacy Sisson |
-| 158 | 562 | Dave Herzog |
+| 157 | 562 | Dave Herzog |
+| 158 | 562 | Louise Stacy Sisson |
 | 159 | 558 | Peppy Shifter |
 | 160 | 553 | LaTanya GeminiondaRise Johnson |
 | 161 | 551 | Kammy Hill |
@@ -318,8 +318,8 @@
 | 310 | 293 | LaShey Thompson |
 | 311 | 291 | Geoffrey Nash |
 | 312 | 289 | DidIdothat |
-| 313 | 287 | Sabrina Hardrick |
-| 314 | 287 | Carol Cain Thurman |
+| 313 | 287 | Carol Cain Thurman |
+| 314 | 287 | Sabrina Hardrick |
 | 315 | 287 | Hoppy Patternline |
 | 316 | 286 | Salena Whitlock |
 | 317 | 286 | Lizabeth Fox |

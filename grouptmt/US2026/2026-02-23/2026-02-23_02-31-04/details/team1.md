@@ -153,8 +153,8 @@
 | 145 | 364 | Serina Marie |
 | 146 | 361 | Tanya Carpenter-Reynolds |
 | 147 | 361 | Amanda Johnson Huffman |
-| 148 | 360 | phrmblk24 |
-| 149 | 360 | Wisa |
+| 148 | 360 | Wisa |
+| 149 | 360 | phrmblk24 |
 | 150 | 359 | Chirpy Smasher |
 | 151 | 353 | Josh Riemer |
 | 152 | 351 | Basment Living |
