@@ -65,8 +65,8 @@
 | 57 | 863 | Pee |
 | 58 | 859 | TeeJ |
 | 59 | 859 | Christina LR |
-| 60 | 846 | Christine Marie |
-| 61 | 846 | Lucille Truesdale |
+| 60 | 846 | Lucille Truesdale |
+| 61 | 846 | Christine Marie |
 | 62 | 834 | quicksand420 |
 | 63 | 822 | Kimyatta Cavin |
 | 64 | 807 | Amelpss |
@@ -172,8 +172,8 @@
 | 164 | 402 | Lucas J Sutton |
 | 165 | 398 | Tyler Terrific |
 | 166 | 397 | Nick Gray |
-| 167 | 393 | Carlton Unfiltered |
-| 168 | 393 | Girl |
+| 167 | 393 | Girl |
+| 168 | 393 | Carlton Unfiltered |
 | 169 | 391 | Ramel Rhodes |
 | 170 | 389 | Joseph Guthrie |
 | 171 | 383 | Chris Bernstein |
@@ -249,8 +249,8 @@
 | 241 | 288 | Brittney Orengo |
 | 242 | 285 | 030Synner |
 | 243 | 284 | Matt Dell'Olio |
-| 244 | 282 | Kim Klutz Olson |
-| 245 | 282 | Matt Gooder |
+| 244 | 282 | Matt Gooder |
+| 245 | 282 | Kim Klutz Olson |
 | 246 | 281 | Laura |
 | 247 | 280 | Rio Rocha |
 | 248 | 279 | Malakai Darien Fox |
@@ -657,7 +657,7 @@
 | 649 | 110 | Witty Link |
 | 650 | 109 | Nikisha Reed |
 | 651 | 109 | Bigmamatetrisqueen |
-| 652 | 109 | Crystal Lynn |
+| 652 | 109 | Jessica Miller |
 | 653 | 109 | Jessica Johnston |
 | 654 | 109 | Amy Jean |
 | 655 | 109 | Crystal Lynn |

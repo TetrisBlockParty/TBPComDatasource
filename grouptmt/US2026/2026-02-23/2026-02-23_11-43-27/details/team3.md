@@ -138,10 +138,10 @@
 | 130 | 755 | Raya |
 | 131 | 752 | Logan Naccarato |
 | 132 | 748 | Adrian Marcel Pate |
-| 133 | 745 | ren |
-| 134 | 745 | JerseyJess |
-| 135 | 744 | Leah Barnett |
-| 136 | 744 | Fancy Cascader |
+| 133 | 745 | JerseyJess |
+| 134 | 745 | ren |
+| 135 | 744 | Fancy Cascader |
+| 136 | 744 | Leah Barnett |
 | 137 | 736 | mzcatzy |
 | 138 | 734 | Calista Jo Dickson |
 | 139 | 728 | Peppy Shifter |
@@ -187,8 +187,8 @@
 | 179 | 572 | CeceGeGe |
 | 180 | 568 | Rachael McClain Owens |
 | 181 | 566 | LaTanya GeminiondaRise Johnson |
-| 182 | 564 | Christine Trester |
-| 183 | 564 | Poppy Splitter |
+| 182 | 564 | Poppy Splitter |
+| 183 | 564 | Christine Trester |
 | 184 | 563 | Jim Mathews |
 | 185 | 562 | Dave Herzog |
 | 186 | 559 | Patti Skiles |
@@ -207,8 +207,8 @@
 | 199 | 525 | Stephanie Blkpep Davidson |
 | 200 | 524 | Bmo |
 | 201 | 521 | Shannon Matthew Byers |
-| 202 | 519 | Terry Jo Jones |
-| 203 | 519 | rnr junky |
+| 202 | 519 | rnr junky |
+| 203 | 519 | Terry Jo Jones |
 | 204 | 515 | Cozy Snaplink |
 | 205 | 513 | Lizabeth Fox |
 | 206 | 503 | Tye Stovall |

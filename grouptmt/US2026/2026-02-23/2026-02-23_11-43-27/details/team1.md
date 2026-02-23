@@ -85,14 +85,14 @@
 | 77 | 703 | Angel Fowler |
 | 78 | 689 | Susanna Guerry |
 | 79 | 679 | Hasbro Bros |
-| 80 | 657 | Tee Sheree |
-| 81 | 657 | Cynthia Bradley |
+| 80 | 657 | Cynthia Bradley |
+| 81 | 657 | Tee Sheree |
 | 82 | 655 | Brenda Stewart |
 | 83 | 648 | Evie Khalil |
 | 84 | 647 | Jason Jones |
 | 85 | 600 | Greg Hart |
-| 86 | 598 | Erin Hodges Plumb |
-| 87 | 598 | Kellie |
+| 86 | 598 | Kellie |
+| 87 | 598 | Erin Hodges Plumb |
 | 88 | 588 | Lori Sanders- Davis |
 | 89 | 584 | Jen Sartain |
 | 90 | 583 | Theo Pinnow |
@@ -103,8 +103,8 @@
 | 95 | 562 | Denice Dee |
 | 96 | 553 | And |
 | 97 | 535 | Susan Ward |
-| 98 | 534 | Veronica Eve |
-| 99 | 534 | Loony Fitzone |
+| 98 | 534 | Loony Fitzone |
+| 99 | 534 | Veronica Eve |
 | 100 | 529 | Ryan Lunnin |
 | 101 | 522 | Sarah Lombardo |
 | 102 | 513 | Colena Davenport |
@@ -112,8 +112,8 @@
 | 104 | 510 | Chirpy Smasher |
 | 105 | 509 | Rachael |
 | 106 | 502 | Anaid Sanchez |
-| 107 | 497 | Jennifer ManWarren |
-| 108 | 497 | Arianna O'Brien |
+| 107 | 497 | Arianna O'Brien |
+| 108 | 497 | Jennifer ManWarren |
 | 109 | 493 | MomMom |
 | 110 | 492 | Ash Galvan |
 | 111 | 491 | cc |
@@ -157,8 +157,8 @@
 | 149 | 402 | Chris K |
 | 150 | 400 | Chelsea Dahlquist |
 | 151 | 399 | Nery Martinez |
-| 152 | 394 | Lori Bales |
-| 153 | 394 | Jennifer Hardman |
+| 152 | 394 | Jennifer Hardman |
+| 153 | 394 | Lori Bales |
 | 154 | 393 | Kimmie Kimms |
 | 155 | 389 | David Miller |
 | 156 | 388 | Fmp |
@@ -349,9 +349,9 @@
 | 341 | 220 | Teri Oehlke |
 | 342 | 220 | Allena Craft |
 | 343 | 220 | Gary Gobin |
-| 344 | 219 | Jeanna Dunn |
-| 345 | 219 | Negan Mallory Knoxx Spence |
-| 346 | 219 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
+| 344 | 219 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
+| 345 | 219 | Jeanna Dunn |
+| 346 | 219 | Negan Mallory Knoxx Spence |
 | 347 | 218 | Jason Benitez |
 | 348 | 217 | Cheeky Crusher |
 | 349 | 217 | Betsy |
@@ -618,8 +618,8 @@
 | 610 | 125 | Phredda Compton |
 | 611 | 124 | Brandi Egbert |
 | 612 | 124 | Margie Olivas |
-| 613 | 123 | Chirpy Liner |
-| 614 | 123 | Lisa Marie |
+| 613 | 123 | Lisa Marie |
+| 614 | 123 | Chirpy Liner |
 | 615 | 123 | Jill King Oldham |
 | 616 | 122 | Amanda Wharton |
 | 617 | 122 | Purple |
