@@ -231,8 +231,8 @@
 | 223 | 1232 | Ambyre Patterson |
 | 224 | 1230 | Megan Garrick |
 | 225 | 1221 | Jane Fong |
-| 226 | 1217 | Lucky Ladybug |
-| 227 | 1217 | Brooks Brooks |
+| 226 | 1217 | Brooks Brooks |
+| 227 | 1217 | Lucky Ladybug |
 | 228 | 1216 | Pacynthia Williams |
 | 229 | 1214 | David Cudicio-Hayden |
 | 230 | 1211 | Ricardo Burton |
@@ -379,8 +379,8 @@
 | 371 | 846 | Kayla |
 | 372 | 844 | Terri McKelvey McKinley |
 | 373 | 840 | Traci Johnson |
-| 374 | 838 | Nicole Cannon |
-| 375 | 838 | Misti Markijohn |
+| 374 | 838 | Misti Markijohn |
+| 375 | 838 | Nicole Cannon |
 | 376 | 836 | KhaosLord |
 | 377 | 833 | Arkei Luster |
 | 378 | 833 | Moni Foxe |
@@ -402,8 +402,8 @@
 | 394 | 808 | Desire Rice |
 | 395 | 808 | Connie Jimenez |
 | 396 | 804 | Becca Coronado |
-| 397 | 801 | Gold Rose |
-| 398 | 801 | Diana Fitzwater |
+| 397 | 801 | Diana Fitzwater |
+| 398 | 801 | Gold Rose |
 | 399 | 800 | Arlene Joy Belicina |
 | 400 | 799 | Kenny Alvarado |
 | 401 | 799 | Joy LaJeunesse |
@@ -638,8 +638,8 @@
 | 630 | 566 | SwampRebel |
 | 631 | 566 | Lindsey Leigh |
 | 632 | 564 | Stacey Tranchida |
-| 633 | 563 | Frisky Clearpiece |
-| 634 | 563 | Nat |
+| 633 | 563 | Nat |
+| 634 | 563 | Frisky Clearpiece |
 | 635 | 562 | Sabrena Yeisley |
 | 636 | 559 | Alexx Anaya |
 | 637 | 559 | Anthony Huebel |
@@ -659,8 +659,8 @@
 | 651 | 550 | Frilly Fallzone |
 | 652 | 550 | Shorty |
 | 653 | 550 | Michelle Sager |
-| 654 | 549 | Melissa Kay Gibson |
-| 655 | 549 | Kaylee McCafferty |
+| 654 | 549 | Kaylee McCafferty |
+| 655 | 549 | Melissa Kay Gibson |
 | 656 | 549 | Crystal Hodge Love |
 | 657 | 548 | Shindee |
 | 658 | 547 | Hunter Connors |
@@ -715,8 +715,8 @@
 | 707 | 509 | Shelva Richard |
 | 708 | 509 | Perky Rollfit |
 | 709 | 508 | Daphne Jordan |
-| 710 | 507 | Crystal Heller Gonzalez |
-| 711 | 507 | Funky Caster |
+| 710 | 507 | Funky Caster |
+| 711 | 507 | Crystal Heller Gonzalez |
 | 712 | 506 | Cblock |
 | 713 | 505 | Casey Schumacher |
 | 714 | 502 | Enha |
@@ -859,8 +859,8 @@
 | 851 | 436 | Regina Knight |
 | 852 | 436 | Christina Loftus |
 | 853 | 435 | Taylor Flowers |
-| 854 | 435 | John |
-| 855 | 435 | Snappy snappers |
+| 854 | 435 | Snappy snappers |
+| 855 | 435 | John |
 | 856 | 433 | Melissa Koria |
 | 857 | 433 | Marisa Madge |
 | 858 | 432 | Michelle Shrum |
@@ -879,8 +879,8 @@
 | 871 | 427 | Gina Caulder |
 | 872 | 426 | Rose Fx |
 | 873 | 425 | Stephanie Fortune |
-| 874 | 424 | Christine Egidio Morocco |
-| 875 | 424 | ToxicTrash |
+| 874 | 424 | ToxicTrash |
+| 875 | 424 | Christine Egidio Morocco |
 | 876 | 423 | Lawanda Forbes |
 | 877 | 422 | Kimberly Ann |
 | 878 | 422 | Ys Muhammed |
