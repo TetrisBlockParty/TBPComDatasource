@@ -121,23 +121,23 @@
 | 113 | 839 | Angeline Joseph |
 | 114 | 830 | Stephanie Allmon |
 | 115 | 826 | Shane Wilson Jr. |
-| 116 | 816 | Jesse Olive |
-| 117 | 816 | Brenda Lee Vander Molen |
+| 116 | 816 | Brenda Lee Vander Molen |
+| 117 | 816 | Jesse Olive |
 | 118 | 802 | Bobbi Moore |
 | 119 | 800 | Lauren Girouard |
 | 120 | 799 | Dolores Falco |
 | 121 | 773 | Daira Largen |
 | 122 | 769 | Kristie |
-| 123 | 764 | Groovy Catcher |
-| 124 | 764 | Hasty Cascadefit |
+| 123 | 764 | Hasty Cascadefit |
+| 124 | 764 | Groovy Catcher |
 | 125 | 762 | Speedy Bridger |
 | 126 | 755 | Katrina Schroeder |
 | 127 | 755 | Raya |
 | 128 | 752 | Logan Naccarato |
 | 129 | 748 | Adrian Marcel Pate |
 | 130 | 745 | JerseyJess |
-| 131 | 744 | Fancy Cascader |
-| 132 | 744 | Leah Barnett |
+| 131 | 744 | Leah Barnett |
+| 132 | 744 | Fancy Cascader |
 | 133 | 736 | mzcatzy |
 | 134 | 734 | Calista Jo Dickson |
 | 135 | 728 | Peppy Shifter |
@@ -197,8 +197,8 @@
 | 189 | 546 | Tasha Schriewer |
 | 190 | 546 | Mykal Burton |
 | 191 | 540 | Shawn Miller |
-| 192 | 531 | Sarah Cowan Burgos |
-| 193 | 531 | Chauntee Alfrey-Cardinale |
+| 192 | 531 | Chauntee Alfrey-Cardinale |
+| 193 | 531 | Sarah Cowan Burgos |
 | 194 | 528 | Silly Twist |
 | 195 | 525 | Stephanie Blkpep Davidson |
 | 196 | 524 | Bmo |
@@ -337,8 +337,8 @@
 | 329 | 311 | Troy |
 | 330 | 309 | Desiree Gold |
 | 331 | 309 | Cheeky Snapper |
-| 332 | 308 | Katrina Turner |
-| 333 | 308 | Tia |
+| 332 | 308 | Tia |
+| 333 | 308 | Katrina Turner |
 | 334 | 305 | Hyper Matchzone |
 | 335 | 304 | _melisa223_ |
 | 336 | 303 | Alexmac |
@@ -353,8 +353,8 @@
 | 345 | 298 | Dannie Litchard |
 | 346 | 298 | Grams |
 | 347 | 297 | kacihall |
-| 348 | 296 | Donna |
-| 349 | 296 | Tracy Martin |
+| 348 | 296 | Tracy Martin |
+| 349 | 296 | Donna |
 | 350 | 296 | Antonia Russell |
 | 351 | 295 | Nikki Pags |
 | 352 | 292 | Kirhonda Autmon |
@@ -391,8 +391,8 @@
 | 383 | 273 | Brenda Schmid Wood |
 | 384 | 273 | Kevin Fountain |
 | 385 | 272 | Romeo |
-| 386 | 272 | Tay |
-| 387 | 272 | Todd Hall |
+| 386 | 272 | Todd Hall |
+| 387 | 272 | Tay |
 | 388 | 269 | Goofy Fall |
 | 389 | 269 | Juliana Dottore |
 | 390 | 269 | Samantha Worley |
@@ -434,10 +434,10 @@
 | 426 | 250 | Dana Fox |
 | 427 | 249 | Willow |
 | 428 | 248 | Brian Battjes |
-| 429 | 247 | Kevin Russell |
-| 430 | 247 | Jessica |
-| 431 | 245 | Latoya Mayne |
-| 432 | 245 | LaNette Morgan |
+| 429 | 247 | Jessica |
+| 430 | 247 | Kevin Russell |
+| 431 | 245 | LaNette Morgan |
+| 432 | 245 | Latoya Mayne |
 | 433 | 244 | Beezwax |
 | 434 | 243 | Christy Quick |
 | 435 | 243 | Nicholas Roddy |
@@ -516,8 +516,8 @@
 | 508 | 212 | Frilly Stackzone |
 | 509 | 211 | El Chapa |
 | 510 | 211 | Michael Pleasant |
-| 511 | 210 | Kristian Thurman |
-| 512 | 210 | Megan Riggins |
+| 511 | 210 | Megan Riggins |
+| 512 | 210 | Kristian Thurman |
 | 513 | 210 | Maia |
 | 514 | 209 | Jonathn Poindexter |
 | 515 | 209 | Jumpy Wrecker |

@@ -314,8 +314,8 @@
 | 306 | 972 | Binyah-Binyah |
 | 307 | 972 | Barbra Miller |
 | 308 | 971 | Jojo Momma |
-| 309 | 969 | Em Chen |
-| 310 | 969 | Boldy Cascadepiece |
+| 309 | 969 | Boldy Cascadepiece |
+| 310 | 969 | Em Chen |
 | 311 | 961 | Angela Lynn |
 | 312 | 959 | Phil J. Grombliniak |
 | 313 | 958 | Brenda Messer |
@@ -323,8 +323,8 @@
 | 315 | 957 | Block Master |
 | 316 | 955 | Angela Bonquiqui Dinish |
 | 317 | 954 | Melissa McCall |
-| 318 | 951 | Wakanda Forever |
-| 319 | 951 | Cynthia Ward |
+| 318 | 951 | Cynthia Ward |
+| 319 | 951 | Wakanda Forever |
 | 320 | 949 | Steve Man |
 | 321 | 947 | Dedra Steward |
 | 322 | 942 | Cindy Sechler Taninecz |
@@ -403,8 +403,8 @@
 | 395 | 799 | Ronnie Nelson |
 | 396 | 796 | Amber Gray |
 | 397 | 796 | AndrewandShela Gornik |
-| 398 | 793 | Jaycee |
-| 399 | 793 | Heather Schelkopf |
+| 398 | 793 | Heather Schelkopf |
+| 399 | 793 | Jaycee |
 | 400 | 790 | Brenda Pierpoint |
 | 401 | 788 | Erika Densmore |
 | 402 | 787 | Tiara Elizabeth Baker |
@@ -643,13 +643,13 @@
 | 635 | 554 | Laquetta Royston |
 | 636 | 554 | Party d |
 | 637 | 553 | Kelli Wells |
-| 638 | 551 | Matt Johnson |
-| 639 | 551 | Cynthia Louann Rose |
-| 640 | 550 | Shorty |
-| 641 | 550 | Frilly Fallzone |
-| 642 | 550 | Michelle Sager |
-| 643 | 549 | Kaylee McCafferty |
-| 644 | 549 | Melissa Kay Gibson |
+| 638 | 551 | Cynthia Louann Rose |
+| 639 | 551 | Matt Johnson |
+| 640 | 550 | Michelle Sager |
+| 641 | 550 | Shorty |
+| 642 | 550 | Frilly Fallzone |
+| 643 | 549 | Melissa Kay Gibson |
+| 644 | 549 | Kaylee McCafferty |
 | 645 | 549 | Crystal Hodge Love |
 | 646 | 548 | Shindee |
 | 647 | 547 | Hunter Connors |

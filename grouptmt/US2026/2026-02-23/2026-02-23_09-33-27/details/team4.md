@@ -26,8 +26,8 @@
 | 18 | 1636 | Cassie Michaux |
 | 19 | 1565 | GreenJeepGirl |
 | 20 | 1558 | Leah Gorsuch |
-| 21 | 1536 | Misty Hollibaugh |
-| 22 | 1536 | Roger Coulter |
+| 21 | 1536 | Roger Coulter |
+| 22 | 1536 | Misty Hollibaugh |
 | 23 | 1485 | Juggalo |
 | 24 | 1390 | Sammy Noguera |
 | 25 | 1382 | Tammi Crnza |
@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Jonathan Kimbrough |
-| 84 | 684 | Kimyatta Cavin |
+| 83 | 684 | Kimyatta Cavin |
+| 84 | 684 | Jonathan Kimbrough |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | Shauna Havard |
-| 93 | 647 | KM8 |
+| 92 | 647 | KM8 |
+| 93 | 647 | Shauna Havard |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -204,8 +204,8 @@
 | 196 | 336 | Bio Nelly |
 | 197 | 334 | Kris Bartlett |
 | 198 | 332 | HastyGrabber |
-| 199 | 330 | Kathy Brookins |
-| 200 | 330 | blockstar |
+| 199 | 330 | blockstar |
+| 200 | 330 | Kathy Brookins |
 | 201 | 328 | scott |
 | 202 | 327 | J-Rizzle |
 | 203 | 324 | jim |
@@ -267,8 +267,8 @@
 | 259 | 264 | ZeeZee |
 | 260 | 264 | Stella |
 | 261 | 263 | rebel4lyfe |
-| 262 | 262 | BigSammy420 |
-| 263 | 262 | Selena Shaw |
+| 262 | 262 | Selena Shaw |
+| 263 | 262 | BigSammy420 |
 | 264 | 261 | Zethra Prenisha Rahming |
 | 265 | 260 | Lori |
 | 266 | 260 | Carter Jones |
@@ -562,8 +562,8 @@
 | 554 | 129 | Dreamy Snapgrid |
 | 555 | 129 | Jessica Wells |
 | 556 | 128 | Zesty Linkgrid |
-| 557 | 128 | Raymond Roberts |
-| 558 | 128 | Lazy Glidepiece |
+| 557 | 128 | Lazy Glidepiece |
+| 558 | 128 | Raymond Roberts |
 | 559 | 127 | Jay You |
 | 560 | 126 | PAPatty |
 | 561 | 126 | Spicy Cascadezone |
@@ -795,9 +795,9 @@
 | 787 | 88 | Danielle Love |
 | 788 | 87 | Jason Punch |
 | 789 | 87 | b |
-| 790 | 87 | GTxIrishman |
-| 791 | 87 | Kat |
-| 792 | 87 | Derek Pendarvis |
+| 790 | 87 | Derek Pendarvis |
+| 791 | 87 | GTxIrishman |
+| 792 | 87 | Kat |
 | 793 | 86 | Bigg Guy |
 | 794 | 85 | Tiffany Tran |
 | 795 | 85 | Koral Hanke |
@@ -833,8 +833,8 @@
 | 825 | 82 | Somnium Era |
 | 826 | 82 | Tara |
 | 827 | 81 | Jamie Hirtle |
-| 828 | 81 | Tiffany Root |
-| 829 | 81 | Penny Dean |
+| 828 | 81 | Penny Dean |
+| 829 | 81 | Tiffany Root |
 | 830 | 81 | Molly Ananda Rickerson |
 | 831 | 81 | Zippy Stack |
 | 832 | 80 | juggernaut |
