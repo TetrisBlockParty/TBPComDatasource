@@ -63,8 +63,8 @@
 | 55 | 870 | BertMofo |
 | 56 | 864 | Shelly Chandler |
 | 57 | 863 | Pee |
-| 58 | 859 | TeeJ |
-| 59 | 859 | Christina LR |
+| 58 | 859 | Christina LR |
+| 59 | 859 | TeeJ |
 | 60 | 846 | Christine Marie |
 | 61 | 846 | Lucille Truesdale |
 | 62 | 834 | quicksand420 |
@@ -127,8 +127,8 @@
 | 119 | 527 | Dizzy Tiley |
 | 120 | 521 | Andy Cabral |
 | 121 | 517 | shar |
-| 122 | 514 | Serena Goodridge |
-| 123 | 514 | Scott Jameson |
+| 122 | 514 | Scott Jameson |
+| 123 | 514 | Serena Goodridge |
 | 124 | 513 | Erin Thomas |
 | 125 | 512 | Cristy Duerksen |
 | 126 | 512 | Casey Jeffcoat |
@@ -163,8 +163,8 @@
 | 155 | 417 | Steph Marie |
 | 156 | 417 | Amanda Pauldo-Ivy |
 | 157 | 416 | Chaz Duncan |
-| 158 | 414 | Swanky Fitline |
-| 159 | 414 | Nope Young |
+| 158 | 414 | Nope Young |
+| 159 | 414 | Swanky Fitline |
 | 160 | 413 | Circuit8 |
 | 161 | 412 | Jessica Bohlken |
 | 162 | 406 | Livvy |
@@ -172,8 +172,8 @@
 | 164 | 402 | Lucas J Sutton |
 | 165 | 398 | Tyler Terrific |
 | 166 | 397 | Nick Gray |
-| 167 | 393 | Carlton Unfiltered |
-| 168 | 393 | Girl |
+| 167 | 393 | Girl |
+| 168 | 393 | Carlton Unfiltered |
 | 169 | 391 | Ramel Rhodes |
 | 170 | 389 | Joseph Guthrie |
 | 171 | 383 | Chris Bernstein |
@@ -183,9 +183,9 @@
 | 175 | 372 | George Nutt |
 | 176 | 370 | Oscar Alberto Perez |
 | 177 | 369 | Lindsey Gonzalez |
-| 178 | 368 | Brandon Crabbs |
-| 179 | 368 | Silly Zonebuilder |
-| 180 | 368 | Raegan Lane-Ross |
+| 178 | 368 | Raegan Lane-Ross |
+| 179 | 368 | Brandon Crabbs |
+| 180 | 368 | Silly Zonebuilder |
 | 181 | 365 | Jeff Brian Gates |
 | 182 | 361 | Danielle Kollias |
 | 183 | 361 | Carlos Ramirez |
@@ -231,8 +231,8 @@
 | 223 | 307 | Michele Plunkett |
 | 224 | 306 | mike |
 | 225 | 305 | Melvin Baird |
-| 226 | 304 | Lindsay Ball |
-| 227 | 304 | Gdiguy |
+| 226 | 304 | Gdiguy |
+| 227 | 304 | Lindsay Ball |
 | 228 | 301 | Andria Lynn |
 | 229 | 300 | Dana Scott |
 | 230 | 295 | Keshia Lyons |
@@ -549,7 +549,7 @@
 | 541 | 137 | Lee Silpe |
 | 542 | 136 | Badatvs |
 | 543 | 136 | Zocko Ellet |
-| 544 | 136 | Badatvs |
+| 544 | 136 | Jennifer Perkins |
 | 545 | 136 | Tabitha Calvin |
 | 546 | 135 | Groovy Shiftspin |
 | 547 | 134 | Tabitha Henson |
@@ -708,8 +708,8 @@
 | 700 | 102 | Saucy Stackbuilder |
 | 701 | 102 | Bryan Johnson |
 | 702 | 102 | Blaze Butler |
-| 703 | 101 | Kris Johnson |
-| 704 | 101 | Saulc1991 |
+| 703 | 101 | Saulc1991 |
+| 704 | 101 | Kris Johnson |
 | 705 | 101 | Jacob Campbell |
 | 706 | 100 | Joyce Fees |
 | 707 | 100 | James Philpot Ross |
@@ -748,8 +748,8 @@
 | 740 | 94 | moneybagz |
 | 741 | 94 | Susan Purnell |
 | 742 | 94 | Myra LaTrice |
-| 743 | 93 | Sweet Pea |
-| 744 | 93 | Alo |
+| 743 | 93 | Alo |
+| 744 | 93 | Sweet Pea |
 | 745 | 93 | Lorinda Wixom |
 | 746 | 93 | Mousey406 |
 | 747 | 93 | JD |

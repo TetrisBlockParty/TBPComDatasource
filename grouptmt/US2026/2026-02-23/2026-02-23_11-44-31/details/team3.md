@@ -77,8 +77,8 @@
 | 69 | 1264 | Amanda L Baker |
 | 70 | 1258 | Danielle Cutler |
 | 71 | 1256 | Jessica Bechler |
-| 72 | 1213 | Nerdy Riseclear |
-| 73 | 1213 | Snappy Glidepiece |
+| 72 | 1213 | Snappy Glidepiece |
+| 73 | 1213 | Nerdy Riseclear |
 | 74 | 1209 | Amanda Adkins |
 | 75 | 1186 | Christian A. Pollard |
 | 76 | 1162 | Gracie |
@@ -179,8 +179,8 @@
 | 171 | 597 | Diana Ibarra |
 | 172 | 591 | Michael Nowogorski |
 | 173 | 587 | Louise Stacy Sisson |
-| 174 | 585 | Domo Washington |
-| 175 | 585 | Happy Tetriblast |
+| 174 | 585 | Happy Tetriblast |
+| 175 | 585 | Domo Washington |
 | 176 | 583 | Tasha Gillespie |
 | 177 | 582 | Natasha Jones |
 | 178 | 574 | Morgan Martinez |
@@ -207,8 +207,8 @@
 | 199 | 525 | Stephanie Blkpep Davidson |
 | 200 | 524 | Bmo |
 | 201 | 521 | Shannon Matthew Byers |
-| 202 | 519 | Terry Jo Jones |
-| 203 | 519 | rnr junky |
+| 202 | 519 | rnr junky |
+| 203 | 519 | Terry Jo Jones |
 | 204 | 515 | Cozy Snaplink |
 | 205 | 513 | Lizabeth Fox |
 | 206 | 503 | Tye Stovall |
@@ -281,8 +281,8 @@
 | 273 | 378 | Chris Bell |
 | 274 | 378 | MsBee |
 | 275 | 375 | Stephanie Burtin |
-| 276 | 372 | Sarah Moyer |
-| 277 | 372 | Rich LeBlanc |
+| 276 | 372 | Rich LeBlanc |
+| 277 | 372 | Sarah Moyer |
 | 278 | 371 | Marquita Sheard |
 | 279 | 371 | Salena Whitlock |
 | 280 | 371 | block chick |
@@ -300,8 +300,8 @@
 | 292 | 358 | Roary Danner |
 | 293 | 357 | Brenda Schmid Wood |
 | 294 | 354 | Kelly |
-| 295 | 354 | Andrew Thorson |
-| 296 | 354 | Eileen Brady Thurber |
+| 295 | 354 | Eileen Brady Thurber |
+| 296 | 354 | Andrew Thorson |
 | 297 | 353 | Dee Franklin |
 | 298 | 353 | Cyd061769 |
 | 299 | 352 | Christian Werndl |
@@ -460,8 +460,8 @@
 | 452 | 243 | Nicholas Roddy |
 | 453 | 242 | Heather Bateman |
 | 454 | 242 | Michael Latasha Gray |
-| 455 | 242 | Joy Petroski |
-| 456 | 242 | Fancy Curver |
+| 455 | 242 | Fancy Curver |
+| 456 | 242 | Joy Petroski |
 | 457 | 241 | Skinny Baldez |
 | 458 | 240 | Beppy |
 | 459 | 240 | Trey Ward |
