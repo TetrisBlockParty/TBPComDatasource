@@ -232,8 +232,8 @@
 | 224 | 339 | Tyler Hertzog |
 | 225 | 337 | Jamise Brown |
 | 226 | 335 | Keith Mathis |
-| 227 | 333 | Jennifer Noe Chandler |
-| 228 | 333 | Virginia Gray Floyd |
+| 227 | 333 | Virginia Gray Floyd |
+| 228 | 333 | Jennifer Noe Chandler |
 | 229 | 332 | Happy Basegrid |
 | 230 | 328 | Snappy Matcher |
 | 231 | 327 | Jen Nystrom |
@@ -273,8 +273,8 @@
 | 265 | 286 | Sarahdactyl |
 | 266 | 285 | Shanae Grant |
 | 267 | 284 | Sam Williams |
-| 268 | 283 | Larry Tilton |
-| 269 | 283 | Franswa |
+| 268 | 283 | Franswa |
+| 269 | 283 | Larry Tilton |
 | 270 | 282 | Timothy Dew |
 | 271 | 281 | Clever Cascadepiece |
 | 272 | 280 | Billie Dawn Sparks |

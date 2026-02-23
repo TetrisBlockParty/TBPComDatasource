@@ -81,8 +81,8 @@
 | 73 | 1256 | Jessica Bechler |
 | 74 | 1244 | Lori Barnaby |
 | 75 | 1221 | Betty Ivy |
-| 76 | 1213 | Snappy Glidepiece |
-| 77 | 1213 | Nerdy Riseclear |
+| 76 | 1213 | Nerdy Riseclear |
+| 77 | 1213 | Snappy Glidepiece |
 | 78 | 1209 | Amanda Adkins |
 | 79 | 1190 | Jay Horn |
 | 80 | 1186 | Christian A. Pollard |
@@ -135,8 +135,8 @@
 | 127 | 774 | Keith J Oshman Jr. |
 | 128 | 773 | Daira Largen |
 | 129 | 770 | Daryn Elliott |
-| 130 | 764 | Hasty Cascadefit |
-| 131 | 764 | Groovy Catcher |
+| 130 | 764 | Groovy Catcher |
+| 131 | 764 | Hasty Cascadefit |
 | 132 | 762 | Speedy Bridger |
 | 133 | 757 | Fancy Cascader |
 | 134 | 755 | Katrina Schroeder |
@@ -334,8 +334,8 @@
 | 326 | 348 | Ashley Raines |
 | 327 | 346 | Chummy Rumbler |
 | 328 | 345 | gremicx |
-| 329 | 344 | Beaudie Stroebel |
-| 330 | 344 | Ashley Lynn Marchese |
+| 329 | 344 | Ashley Lynn Marchese |
+| 330 | 344 | Beaudie Stroebel |
 | 331 | 344 | Isabel Ocasio |
 | 332 | 343 | Ashley Rufus Bythcez |
 | 333 | 342 | ROODBOY |
@@ -432,8 +432,8 @@
 | 424 | 276 | Crimson |
 | 425 | 275 | Cassandra Bryant |
 | 426 | 273 | BigE |
-| 427 | 273 | Kevin Fountain |
-| 428 | 273 | Beppy |
+| 427 | 273 | Beppy |
+| 428 | 273 | Kevin Fountain |
 | 429 | 273 | Michael Latasha Gray |
 | 430 | 272 | Loopy Fallzone |
 | 431 | 272 | AC Yeater |

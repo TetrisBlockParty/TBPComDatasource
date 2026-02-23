@@ -555,8 +555,8 @@
 | 547 | 667 | Rhonda Milstead |
 | 548 | 666 | Aishah Brice |
 | 549 | 664 | Sleepypanda67 |
-| 550 | 663 | Lyndi Robinson Wakefield |
-| 551 | 663 | Martina Gabrielle LaPolla |
+| 550 | 663 | Martina Gabrielle LaPolla |
+| 551 | 663 | Lyndi Robinson Wakefield |
 | 552 | 662 | Samie Dayle |
 | 553 | 662 | Jennifer Monroe Kelly |
 | 554 | 660 | Nadia Batista Garcia |

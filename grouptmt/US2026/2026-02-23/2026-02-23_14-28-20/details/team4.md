@@ -50,8 +50,8 @@
 | 42 | 1124 | Jae Job |
 | 43 | 1085 | Ashley Ingram |
 | 44 | 1085 | Kimyatta Cavin |
-| 45 | 1082 | Dion Crommarty |
-| 46 | 1082 | Dawn Alexander |
+| 45 | 1082 | Dawn Alexander |
+| 46 | 1082 | Dion Crommarty |
 | 47 | 1071 | Cherrish Duren |
 | 48 | 1065 | Koshin Abdirahman |
 | 49 | 1049 | Heather Tushner |
@@ -204,10 +204,10 @@
 | 196 | 368 | Silly Zonebuilder |
 | 197 | 365 | Jeff Brian Gates |
 | 198 | 363 | Cindy Looper |
-| 199 | 361 | Danielle Kollias |
-| 200 | 361 | Rafael Valentin |
-| 201 | 358 | Twisty Cascadezone |
-| 202 | 358 | A5! |
+| 199 | 361 | Rafael Valentin |
+| 200 | 361 | Danielle Kollias |
+| 201 | 358 | A5! |
+| 202 | 358 | Twisty Cascadezone |
 | 203 | 355 | James Hurley Jr. |
 | 204 | 354 | TRCuse |
 | 205 | 354 | Kris Bartlett |
@@ -215,8 +215,8 @@
 | 207 | 350 | April Rondinone |
 | 208 | 348 | David Lay |
 | 209 | 347 | Crystal Nicolette Moore |
-| 210 | 347 | Bio Nelly |
-| 211 | 347 | Daria Rycewicz |
+| 210 | 347 | Daria Rycewicz |
+| 211 | 347 | Bio Nelly |
 | 212 | 346 | shark tato |
 | 213 | 343 | HastyGrabber |
 | 214 | 341 | scott |
@@ -261,8 +261,8 @@
 | 253 | 292 | Angel Raya |
 | 254 | 291 | Mimi |
 | 255 | 291 | Dizzy Matchzone |
-| 256 | 290 | Plucky Patternblock |
-| 257 | 290 | Rebecca Morris |
+| 256 | 290 | Rebecca Morris |
+| 257 | 290 | Plucky Patternblock |
 | 258 | 290 | Jared Gutwein |
 | 259 | 289 | Brickh4us |
 | 260 | 289 | Juls |
