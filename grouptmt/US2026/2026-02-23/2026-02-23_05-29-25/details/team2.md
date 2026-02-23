@@ -252,8 +252,8 @@
 | 244 | 1121 | Tommy Tha Boss Gunz |
 | 245 | 1121 | Sarah Freitas |
 | 246 | 1114 | Maria Escobar |
-| 247 | 1114 | Ginnell Browner |
-| 248 | 1114 | Kevin Walp |
+| 247 | 1114 | Kevin Walp |
+| 248 | 1114 | Ginnell Browner |
 | 249 | 1111 | Julay |
 | 250 | 1110 | Robin Kerby |
 | 251 | 1105 | Nerdy Clearfit |
@@ -372,8 +372,8 @@
 | 364 | 823 | Alezandra Smith |
 | 365 | 822 | Lola Contreras |
 | 366 | 821 | Angie Bolton Workman |
-| 367 | 821 | Arkei Luster |
-| 368 | 821 | Cassie Mercer |
+| 367 | 821 | Cassie Mercer |
+| 368 | 821 | Arkei Luster |
 | 369 | 816 | Beth |
 | 370 | 816 | James Simms III |
 | 371 | 813 | Lisa Ongtowasruk |
@@ -396,8 +396,8 @@
 | 388 | 788 | Erika Densmore |
 | 389 | 787 | Tiara Elizabeth Baker |
 | 390 | 779 | Kayla |
-| 391 | 777 | Jessicah Myers |
-| 392 | 777 | Tesha Oldaker |
+| 391 | 777 | Tesha Oldaker |
+| 392 | 777 | Jessicah Myers |
 | 393 | 776 | Fancy Twister |
 | 394 | 772 | Danielle Simmons |
 | 395 | 769 | Melissa Cole |
@@ -747,14 +747,14 @@
 | 739 | 464 | Saucy Fitzone |
 | 740 | 463 | Jaye EL Hunter |
 | 741 | 462 | Darla Silva |
-| 742 | 462 | Kia Humphery |
-| 743 | 462 | Samantha Scibelli |
+| 742 | 462 | Samantha Scibelli |
+| 743 | 462 | Kia Humphery |
 | 744 | 461 | Julie Hamilton |
 | 745 | 461 | Kristen O'Neal |
 | 746 | 461 | Amanda West |
 | 747 | 460 | LaWanda Powell |
-| 748 | 459 | Shyenn Gadsby |
-| 749 | 459 | Pocho Zavala |
+| 748 | 459 | Pocho Zavala |
+| 749 | 459 | Shyenn Gadsby |
 | 750 | 457 | Kelly Meredeith |
 | 751 | 456 | Sabrina Burton |
 | 752 | 456 | ItsJennifer Neriss |

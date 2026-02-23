@@ -125,8 +125,8 @@
 | 117 | 769 | Kristie |
 | 118 | 764 | Groovy Catcher |
 | 119 | 762 | Speedy Bridger |
-| 120 | 752 | Raya |
-| 121 | 752 | Logan Naccarato |
+| 120 | 752 | Logan Naccarato |
+| 121 | 752 | Raya |
 | 122 | 748 | Adrian Marcel Pate |
 | 123 | 745 | JerseyJess |
 | 124 | 744 | Fancy Cascader |
@@ -167,8 +167,8 @@
 | 159 | 591 | Michael Nowogorski |
 | 160 | 588 | Justin Ritter |
 | 161 | 587 | Louise Stacy Sisson |
-| 162 | 585 | Happy Tetriblast |
-| 163 | 585 | Annie Marie |
+| 162 | 585 | Annie Marie |
+| 163 | 585 | Happy Tetriblast |
 | 164 | 582 | Natasha Jones |
 | 165 | 579 | Tasha Gillespie |
 | 166 | 577 | Domo Washington |
@@ -227,8 +227,8 @@
 | 219 | 437 | Loopy Clusterer |
 | 220 | 436 | Fallorina Susana |
 | 221 | 432 | Luciana Braganca Vieira |
-| 222 | 431 | Ammmmmmy |
-| 223 | 431 | Wendy Dearden |
+| 222 | 431 | Wendy Dearden |
+| 223 | 431 | Ammmmmmy |
 | 224 | 430 | Jeni Dow |
 | 225 | 416 | Mcathen |
 | 226 | 415 | ren |
@@ -255,8 +255,8 @@
 | 247 | 377 | Charles Perrone |
 | 248 | 374 | Rania Zaqout |
 | 249 | 373 | Chummy Caster |
-| 250 | 372 | Sarah Moyer |
-| 251 | 372 | Rich LeBlanc |
+| 250 | 372 | Rich LeBlanc |
+| 251 | 372 | Sarah Moyer |
 | 252 | 371 | Marquita Sheard |
 | 253 | 371 | block chick |
 | 254 | 370 | Samantha Lynn |
@@ -374,8 +374,8 @@
 | 366 | 272 | Romeo |
 | 367 | 272 | Todd Hall |
 | 368 | 272 | Tay |
-| 369 | 269 | Juliana Dottore |
-| 370 | 269 | Jess Bissett |
+| 369 | 269 | Jess Bissett |
+| 370 | 269 | Juliana Dottore |
 | 371 | 269 | Samantha Worley |
 | 372 | 268 | Jessica Lynn French |
 | 373 | 267 | April Matthew Kibble |
@@ -409,8 +409,8 @@
 | 401 | 250 | Tegan Chapman |
 | 402 | 249 | Willow |
 | 403 | 248 | Brian Battjes |
-| 404 | 247 | Kevin Russell |
-| 405 | 247 | Jessica |
+| 404 | 247 | Jessica |
+| 405 | 247 | Kevin Russell |
 | 406 | 247 | Reina Roth |
 | 407 | 246 | gremicx |
 | 408 | 245 | Latoya Mayne |
@@ -506,8 +506,8 @@
 | 498 | 205 | Bouncy Blockbuilder |
 | 499 | 205 | Rachel Napper |
 | 500 | 205 | Emberblaze |
-| 501 | 204 | Lesley Perez |
-| 502 | 204 | Sassy Brickmatch |
+| 501 | 204 | Sassy Brickmatch |
+| 502 | 204 | Lesley Perez |
 | 503 | 204 | Daisy Rocha |
 | 504 | 204 | Dapper Chiseler |
 | 505 | 203 | TLM |

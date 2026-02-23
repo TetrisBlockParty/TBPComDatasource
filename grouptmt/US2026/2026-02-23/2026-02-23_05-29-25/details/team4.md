@@ -73,8 +73,8 @@
 | 65 | 767 | Shannon Ferrari |
 | 66 | 766 | Edward White |
 | 67 | 766 | Robin Watters |
-| 68 | 765 | Denise Carlson |
-| 69 | 765 | Robin Getchel |
+| 68 | 765 | Robin Getchel |
+| 69 | 765 | Denise Carlson |
 | 70 | 752 | loulou |
 | 71 | 749 | Dustee Craddock-Harrison |
 | 72 | 742 | Carolyn Wallace |
@@ -123,8 +123,8 @@
 | 115 | 514 | Scott Jameson |
 | 116 | 514 | Serena Goodridge |
 | 117 | 513 | Erin Thomas |
-| 118 | 512 | Cristy Duerksen |
-| 119 | 512 | Casey Jeffcoat |
+| 118 | 512 | Casey Jeffcoat |
+| 119 | 512 | Cristy Duerksen |
 | 120 | 511 | Lori Walker |
 | 121 | 503 | Rica Mitchell |
 | 122 | 482 | Ren Mc |
@@ -274,11 +274,11 @@
 | 266 | 244 | Elizabeth Tinoco |
 | 267 | 244 | Christina Black |
 | 268 | 242 | Chaz |
-| 269 | 240 | Lori |
-| 270 | 240 | Perky Patternblock |
-| 271 | 240 | Kim Hunt |
-| 272 | 239 | Denise B |
-| 273 | 239 | Joanna |
+| 269 | 240 | Kim Hunt |
+| 270 | 240 | Lori |
+| 271 | 240 | Perky Patternblock |
+| 272 | 239 | Joanna |
+| 273 | 239 | Denise B |
 | 274 | 238 | 中山成巳 |
 | 275 | 237 | Christine Therrien |
 | 276 | 236 | Degenerate |
@@ -346,7 +346,7 @@
 | 338 | 192 | Twisty Risebuilder |
 | 339 | 191 | Earnest Thompson |
 | 340 | 191 | Norman Klick |
-| 341 | 191 | Earnest Thompson |
+| 341 | 191 | Michelle Morris |
 | 342 | 190 | wombat |
 | 343 | 189 | Lauren Lamb |
 | 344 | 189 | Berklie Apedaile |
