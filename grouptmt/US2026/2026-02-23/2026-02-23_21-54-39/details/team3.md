@@ -386,8 +386,8 @@
 | 378 | 356 | Tony Waters |
 | 379 | 352 | LadyTorad |
 | 380 | 352 | xsiv |
-| 381 | 351 | Romeo |
-| 382 | 351 | Eon Harris |
+| 381 | 351 | Eon Harris |
+| 382 | 351 | Romeo |
 | 383 | 351 | TLM |
 | 384 | 350 | angieelyn |
 | 385 | 349 | Donna |
@@ -396,8 +396,8 @@
 | 388 | 345 | Misha Sanders |
 | 389 | 345 | victory |
 | 390 | 344 | Beaudie Stroebel |
-| 391 | 342 | Cynthia Herrmann Egland |
-| 392 | 342 | Christina Marie Swisher |
+| 391 | 342 | Christina Marie Swisher |
+| 392 | 342 | Cynthia Herrmann Egland |
 | 393 | 341 | Lys |
 | 394 | 340 | Erika Thornton |
 | 395 | 340 | Kerry Nowickshere |
@@ -430,8 +430,8 @@
 | 422 | 323 | Sharisse Baltimore |
 | 423 | 323 | Troy |
 | 424 | 323 | Jess Bissett |
-| 425 | 322 | Beth Smith |
-| 426 | 322 | Nena Somerville Kelly |
+| 425 | 322 | Nena Somerville Kelly |
+| 426 | 322 | Beth Smith |
 | 427 | 321 | Jl |
 | 428 | 320 | Kevin Russell |
 | 429 | 320 | Or Reznitsky |
@@ -672,8 +672,8 @@
 | 664 | 227 | Meowsa |
 | 665 | 227 | Tanesha BigBabby Darling |
 | 666 | 225 | Sassy Tiler |
-| 667 | 224 | Cranky Corner |
-| 668 | 224 | Eboni G. |
+| 667 | 224 | Eboni G. |
+| 668 | 224 | Cranky Corner |
 | 669 | 223 | Amy Cunningham Mitchell |
 | 670 | 222 | fred |
 | 671 | 222 | Janay Darkstallion Robinson |

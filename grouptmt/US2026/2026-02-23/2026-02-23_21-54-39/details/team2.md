@@ -173,8 +173,8 @@
 | 165 | 1804 | Chirpy Staggerpiece |
 | 166 | 1790 | Kara Gillen |
 | 167 | 1778 | bonsai |
-| 168 | 1771 | Eboni Banks |
-| 169 | 1771 | Heather Westrum |
+| 168 | 1771 | Heather Westrum |
+| 169 | 1771 | Eboni Banks |
 | 170 | 1767 | niecy |
 | 171 | 1763 | Juliana Marques Do Nascimento Gordy |
 | 172 | 1759 | Nerdy Pattern |
@@ -326,8 +326,8 @@
 | 318 | 1156 | Alezandra Smith |
 | 319 | 1155 | F-X |
 | 320 | 1145 | Deborah Miller |
-| 321 | 1142 | April Dawn Gussler |
-| 322 | 1142 | Sheniya Spurgeon |
+| 321 | 1142 | Sheniya Spurgeon |
+| 322 | 1142 | April Dawn Gussler |
 | 323 | 1140 | Kimberly Hauck-Rausch |
 | 324 | 1139 | Carl Bradshaw |
 | 325 | 1134 | Kelsey Kyle Rhodes |

@@ -60,8 +60,8 @@
 | 52 | 1155 | Jae Job |
 | 53 | 1150 | Kimyatta Cavin |
 | 54 | 1105 | Ashley Ingram |
-| 55 | 1082 | Avy Absol |
-| 56 | 1082 | Dion Crommarty |
+| 55 | 1082 | Dion Crommarty |
+| 56 | 1082 | Avy Absol |
 | 57 | 1065 | Dustee Craddock-Harrison |
 | 58 | 1049 | Heather Tushner |
 | 59 | 1046 | Johnathan Martinez |
@@ -259,8 +259,8 @@
 | 251 | 366 | Andrew Dang |
 | 252 | 366 | Cheery Risebuilder |
 | 253 | 365 | Hyper Builder |
-| 254 | 363 | KimoKoala |
-| 255 | 363 | TRCuse |
+| 254 | 363 | TRCuse |
+| 255 | 363 | KimoKoala |
 | 256 | 361 | Danielle Kollias |
 | 257 | 360 | Ari Droff |
 | 258 | 360 | James Hurley Jr. |
@@ -285,7 +285,7 @@
 | 277 | 329 | Joanna |
 | 278 | 324 | Nubian1 |
 | 279 | 322 | Manny1 |
-| 280 | 321 | Montiette Mcglown |
+| 280 | 321 | Chance Strickland |
 | 281 | 321 | Meagan Nicole |
 | 282 | 321 | Montiette Mcglown |
 | 283 | 321 | Stacey Stano |
@@ -350,11 +350,11 @@
 | 342 | 276 | Silly SeaWeed |
 | 343 | 275 | meowmew |
 | 344 | 274 | Jenna McGeorge |
-| 345 | 272 | Tony Pavelka |
-| 346 | 272 | Dennis Bradley |
+| 345 | 272 | Dennis Bradley |
+| 346 | 272 | Tony Pavelka |
 | 347 | 271 | Holly |
-| 348 | 270 | 23 |
-| 349 | 270 | 07VHVW |
+| 348 | 270 | 07VHVW |
+| 349 | 270 | 23 |
 | 350 | 270 | Brittany Little |
 | 351 | 269 | Chummy Towerzone |
 | 352 | 268 | Jumpy Zonepiece |
