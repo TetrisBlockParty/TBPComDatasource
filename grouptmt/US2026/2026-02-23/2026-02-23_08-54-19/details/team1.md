@@ -98,8 +98,8 @@
 | 90 | 575 | Nancy Green |
 | 91 | 570 | Cody Slav |
 | 92 | 562 | Denice Dee |
-| 93 | 534 | Loony Fitzone |
-| 94 | 534 | Veronica Eve |
+| 93 | 534 | Veronica Eve |
+| 94 | 534 | Loony Fitzone |
 | 95 | 529 | Ryan Lunnin |
 | 96 | 522 | Sarah Lombardo |
 | 97 | 511 | Mario Cab |
@@ -183,8 +183,8 @@
 | 175 | 357 | Shiny Snapfit |
 | 176 | 355 | Erin Rosberg |
 | 177 | 355 | Amanda Jarnagin |
-| 178 | 353 | Josh Riemer |
-| 179 | 353 | Jaimie Lynn |
+| 178 | 353 | Jaimie Lynn |
+| 179 | 353 | Josh Riemer |
 | 180 | 350 | Tipsy Strikerpiece |
 | 181 | 349 | Cool Shiftsnap |
 | 182 | 348 | Chelsea Dahlquist |
@@ -211,10 +211,10 @@
 | 203 | 317 | Kimberly Garcia |
 | 204 | 316 | Reesey Enyart |
 | 205 | 315 | Danielle Little-Daugherty |
-| 206 | 314 | Snippy Wipebuilder |
-| 207 | 314 | Tana |
-| 208 | 312 | Tiger Lily |
-| 209 | 312 | Jessi Sauer |
+| 206 | 314 | Tana |
+| 207 | 314 | Snippy Wipebuilder |
+| 208 | 312 | Jessi Sauer |
+| 209 | 312 | Tiger Lily |
 | 210 | 310 | Bloknboy |
 | 211 | 308 | Speedy Liney |
 | 212 | 306 | Angela Renea Lester |
@@ -225,8 +225,8 @@
 | 217 | 298 | Billie Ann Eason |
 | 218 | 298 | Sweetts |
 | 219 | 295 | Lakeisha Chapman |
-| 220 | 294 | Bindi |
-| 221 | 294 | Chuck Gannon |
+| 220 | 294 | Chuck Gannon |
+| 221 | 294 | Bindi |
 | 222 | 293 | John Kim |
 | 223 | 291 | Brave Wrecker |
 | 224 | 291 | Giddy Cascade |
@@ -240,8 +240,8 @@
 | 232 | 282 | Mandyy Rae |
 | 233 | 282 | Timothy Dew |
 | 234 | 281 | Clever Cascadepiece |
-| 235 | 280 | Eric DeSimone |
-| 236 | 280 | Billie Dawn Sparks |
+| 235 | 280 | Billie Dawn Sparks |
+| 236 | 280 | Eric DeSimone |
 | 237 | 277 | Glitzy Curvebuilder |
 | 238 | 277 | Nutty Spinblock |
 | 239 | 277 | Melissa Lemmon |
@@ -252,8 +252,8 @@
 | 244 | 272 | Barrbaric |
 | 245 | 272 | Tawnya Peltonen |
 | 246 | 271 | Frothy Pattern |
-| 247 | 270 | Brenda Alexander |
-| 248 | 270 | Debbie Kane |
+| 247 | 270 | Debbie Kane |
+| 248 | 270 | Brenda Alexander |
 | 249 | 268 | Standia Civil |
 | 250 | 267 | Daring Fitclear |
 | 251 | 265 | Kandae |
@@ -449,7 +449,7 @@
 | 441 | 169 | Randy Broadwater |
 | 442 | 169 | Davery Spencer Adair |
 | 443 | 169 | Allena Craft |
-| 444 | 169 | Tyler Whitley |
+| 444 | 169 | Abbey Crespo |
 | 445 | 168 | Mrs.Patrica |
 | 446 | 166 | Gilbert Ortiz Jr. |
 | 447 | 166 | Ashley Adams |

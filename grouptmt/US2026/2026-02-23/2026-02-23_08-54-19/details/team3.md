@@ -130,8 +130,8 @@
 | 122 | 769 | Kristie |
 | 123 | 764 | Groovy Catcher |
 | 124 | 762 | Speedy Bridger |
-| 125 | 755 | Raya |
-| 126 | 755 | Katrina Schroeder |
+| 125 | 755 | Katrina Schroeder |
+| 126 | 755 | Raya |
 | 127 | 752 | Logan Naccarato |
 | 128 | 748 | Adrian Marcel Pate |
 | 129 | 745 | JerseyJess |
@@ -177,8 +177,8 @@
 | 169 | 591 | Michael Nowogorski |
 | 170 | 588 | Justin Ritter |
 | 171 | 587 | Louise Stacy Sisson |
-| 172 | 585 | Annie Marie |
-| 173 | 585 | Happy Tetriblast |
+| 172 | 585 | Happy Tetriblast |
+| 173 | 585 | Annie Marie |
 | 174 | 583 | Tasha Gillespie |
 | 175 | 582 | Natasha Jones |
 | 176 | 577 | Domo Washington |
@@ -196,13 +196,13 @@
 | 188 | 546 | Tasha Schriewer |
 | 189 | 546 | Cynthia Castros-Hampton |
 | 190 | 540 | Shawn Miller |
-| 191 | 531 | Sarah Cowan Burgos |
-| 192 | 531 | Chauntee Alfrey-Cardinale |
+| 191 | 531 | Chauntee Alfrey-Cardinale |
+| 192 | 531 | Sarah Cowan Burgos |
 | 193 | 528 | Silly Twist |
 | 194 | 525 | Stephanie Blkpep Davidson |
 | 195 | 524 | Bmo |
-| 196 | 519 | rnr junky |
-| 197 | 519 | Terry Jo Jones |
+| 196 | 519 | Terry Jo Jones |
+| 197 | 519 | rnr junky |
 | 198 | 515 | Cozy Snaplink |
 | 199 | 510 | Makelini Mausia |
 | 200 | 503 | Tye Stovall |
@@ -214,12 +214,12 @@
 | 206 | 488 | Melissa Orth Hunter |
 | 207 | 485 | Dapper Snap |
 | 208 | 484 | Fallorina Susana |
-| 209 | 480 | Michael Johnson |
-| 210 | 480 | Danielle Allison |
+| 209 | 480 | Danielle Allison |
+| 210 | 480 | Michael Johnson |
 | 211 | 477 | Edwin Calvillo Jr. |
 | 212 | 475 | Tessina Dewey-Mancino |
-| 213 | 473 | Rachel |
-| 214 | 473 | Connie Mohler-Fair |
+| 213 | 473 | Connie Mohler-Fair |
+| 214 | 473 | Rachel |
 | 215 | 471 | Mendoza Lee Christy |
 | 216 | 467 | Sherry Ogden |
 | 217 | 467 | Trisha Balmer |
@@ -279,8 +279,8 @@
 | 271 | 368 | Stephanie Woods |
 | 272 | 367 | Kristin Delibac Corrigan |
 | 273 | 366 | Gumbo |
-| 274 | 364 | Carrie Huskey |
-| 275 | 364 | Steffi Chris Dacones |
+| 274 | 364 | Steffi Chris Dacones |
+| 275 | 364 | Carrie Huskey |
 | 276 | 362 | Brandon Givens |
 | 277 | 360 | Cesar Barraza |
 | 278 | 359 | Sleepy |
@@ -310,8 +310,8 @@
 | 302 | 336 | Foltz Lee Kelli |
 | 303 | 336 | Jojo M |
 | 304 | 335 | victory |
-| 305 | 332 | Brittany |
-| 306 | 332 | Velma Mull |
+| 305 | 332 | Velma Mull |
+| 306 | 332 | Brittany |
 | 307 | 331 | Gray Hicks |
 | 308 | 329 | Angela Scott |
 | 309 | 328 | Desiree Soto |
@@ -344,8 +344,8 @@
 | 336 | 301 | Dee Pratt |
 | 337 | 301 | Betty Rosas |
 | 338 | 300 | Kaycee Kay |
-| 339 | 299 | TotoCherue |
-| 340 | 299 | Angie Harper |
+| 339 | 299 | Angie Harper |
+| 340 | 299 | TotoCherue |
 | 341 | 299 | Hasty Gridpiece |
 | 342 | 298 | Grams |
 | 343 | 298 | Dannie Litchard |
@@ -367,8 +367,8 @@
 | 359 | 280 | ROODBOY |
 | 360 | 280 | Aerian Preston |
 | 361 | 280 | Dirtgirl27 |
-| 362 | 279 | Tosha Griffey |
-| 363 | 279 | Naur |
+| 362 | 279 | Naur |
+| 363 | 279 | Tosha Griffey |
 | 364 | 278 | Rufus Lincoln |
 | 365 | 277 | Krystal Gerstberger |
 | 366 | 277 | France Vézina |
@@ -386,8 +386,8 @@
 | 378 | 273 | Brenda Schmid Wood |
 | 379 | 273 | Kevin Fountain |
 | 380 | 272 | Romeo |
-| 381 | 272 | Tay |
-| 382 | 272 | Todd Hall |
+| 381 | 272 | Todd Hall |
+| 382 | 272 | Tay |
 | 383 | 269 | Goofy Fall |
 | 384 | 269 | Jess Bissett |
 | 385 | 269 | Samantha Worley |
@@ -676,8 +676,8 @@
 | 668 | 165 | Autumn Phillimore |
 | 669 | 165 | Erica Anderson |
 | 670 | 164 | Jolly Brick |
-| 671 | 164 | Mindy Phelps |
-| 672 | 164 | Megan Stanley |
+| 671 | 164 | Megan Stanley |
+| 672 | 164 | Mindy Phelps |
 | 673 | 164 | Tenisha Semidey |
 | 674 | 164 | Lesa Bartlett |
 | 675 | 163 | Julian Murphy |

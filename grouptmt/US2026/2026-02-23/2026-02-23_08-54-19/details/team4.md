@@ -75,8 +75,8 @@
 | 67 | 787 | Edward White |
 | 68 | 767 | Shannon Ferrari |
 | 69 | 766 | Robin Watters |
-| 70 | 765 | Denise Carlson |
-| 71 | 765 | Robin Getchel |
+| 70 | 765 | Robin Getchel |
+| 71 | 765 | Denise Carlson |
 | 72 | 752 | Shane Kalamata Platoon |
 | 73 | 749 | Dustee Craddock-Harrison |
 | 74 | 747 | TheNeesh50 |
@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Kimyatta Cavin |
-| 84 | 684 | Jonathan Kimbrough |
+| 83 | 684 | Jonathan Kimbrough |
+| 84 | 684 | Kimyatta Cavin |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | KM8 |
-| 93 | 647 | Shauna Havard |
+| 92 | 647 | Shauna Havard |
+| 93 | 647 | KM8 |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -125,8 +125,8 @@
 | 117 | 514 | Scott Jameson |
 | 118 | 514 | Serena Goodridge |
 | 119 | 513 | Erin Thomas |
-| 120 | 512 | Cristy Duerksen |
-| 121 | 512 | Casey Jeffcoat |
+| 120 | 512 | Casey Jeffcoat |
+| 121 | 512 | Cristy Duerksen |
 | 122 | 511 | Lori Walker |
 | 123 | 509 | Leslie Nicole |
 | 124 | 487 | Ren Mc |
@@ -250,10 +250,10 @@
 | 242 | 276 | Matt Dell'Olio |
 | 243 | 276 | Joeliecea Cobb |
 | 244 | 275 | Kimberlee Jan Beckstead |
-| 245 | 273 | Cynthia Boudreau |
-| 246 | 273 | Cranky Rollpiece |
-| 247 | 272 | Alan George LaRage |
-| 248 | 272 | Dennis Bradley |
+| 245 | 273 | Cranky Rollpiece |
+| 246 | 273 | Cynthia Boudreau |
+| 247 | 272 | Dennis Bradley |
+| 248 | 272 | Alan George LaRage |
 | 249 | 271 | Holly |
 | 250 | 270 | Jen Caldwell |
 | 251 | 266 | Mr. Party |
@@ -281,13 +281,13 @@
 | 273 | 253 | Autum Leigh |
 | 274 | 251 | Carol Ricks Raymond |
 | 275 | 249 | Ak Jones |
-| 276 | 248 | Angelito |
-| 277 | 248 | Chirpy Basepiece |
+| 276 | 248 | Chirpy Basepiece |
+| 277 | 248 | Angelito |
 | 278 | 248 | Jose Dejesus |
 | 279 | 245 | 23 |
 | 280 | 244 | Christina Black |
-| 281 | 244 | Perky Piecegrid |
-| 282 | 244 | Elizabeth Tinoco |
+| 281 | 244 | Elizabeth Tinoco |
+| 282 | 244 | Perky Piecegrid |
 | 283 | 243 | Chair |
 | 284 | 242 | Chaz |
 | 285 | 242 | PurpleMoonMa |
@@ -337,8 +337,8 @@
 | 329 | 210 | Ari Droff |
 | 330 | 209 | Marcus Todd |
 | 331 | 209 | Snippy Puzzle |
-| 332 | 208 | Shukee Lo |
-| 333 | 208 | Heather Bruce |
+| 332 | 208 | Heather Bruce |
+| 333 | 208 | Shukee Lo |
 | 334 | 207 | Squeezy Pearsall |
 | 335 | 206 | June Hoffman |
 | 336 | 206 | Laura Hosford |
@@ -559,8 +559,8 @@
 | 551 | 129 | Tamika Starkey |
 | 552 | 129 | Jessica Wells |
 | 553 | 128 | Zesty Linkgrid |
-| 554 | 128 | Raymond Roberts |
-| 555 | 128 | Lazy Glidepiece |
+| 554 | 128 | Lazy Glidepiece |
+| 555 | 128 | Raymond Roberts |
 | 556 | 127 | Jay You |
 | 557 | 126 | PAPatty |
 | 558 | 126 | Spicy Cascadezone |
@@ -583,8 +583,8 @@
 | 575 | 122 | Mike Burlingame |
 | 576 | 122 | Mary Therese Benden Cole |
 | 577 | 122 | Ahleek Mitchell |
-| 578 | 122 | bloat princess |
-| 579 | 122 | Mike Burlingame |
+| 578 | 122 | meowmew |
+| 579 | 122 | bloat princess |
 | 580 | 121 | Jeff Roberts |
 | 581 | 120 | Marcus TheeyoungWoe Gilmore |
 | 582 | 120 | Zołza 😈 |

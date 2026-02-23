@@ -273,8 +273,8 @@
 | 265 | 1076 | Alezandra Smith |
 | 266 | 1073 | Jodi Blake |
 | 267 | 1071 | Kim Dean |
-| 268 | 1069 | Offonar Facey |
-| 269 | 1069 | Carl Bradshaw |
+| 268 | 1069 | Carl Bradshaw |
+| 269 | 1069 | Offonar Facey |
 | 270 | 1064 | BK Queen |
 | 271 | 1063 | Caitlin Schmid |
 | 272 | 1058 | Rickey Johnson |
@@ -438,8 +438,8 @@
 | 430 | 751 | Caitlyn Blackwell |
 | 431 | 750 | Draizen Montrell Thomas |
 | 432 | 748 | Spunkysmom |
-| 433 | 748 | Brenda Utphall |
-| 434 | 748 | Ann Matzkanin |
+| 433 | 748 | Ann Matzkanin |
+| 434 | 748 | Brenda Utphall |
 | 435 | 746 | Leslie Ann Carter |
 | 436 | 742 | tejas25 |
 | 437 | 741 | Jánine Riggs |
@@ -500,8 +500,8 @@
 | 492 | 677 | Paul Combs |
 | 493 | 677 | Kayleigh Wisse |
 | 494 | 677 | Amanda Woodruff |
-| 495 | 676 | Nicky Jackson |
-| 496 | 676 | Roseanna Peloso |
+| 495 | 676 | Roseanna Peloso |
+| 496 | 676 | Nicky Jackson |
 | 497 | 675 | Lonne Emade |
 | 498 | 675 | Katelynn Hollen |
 | 499 | 674 | Ashley Munn |
@@ -562,8 +562,8 @@
 | 554 | 614 | Emilee Burke |
 | 555 | 614 | Jessica S Flecha |
 | 556 | 613 | Audrey Jones |
-| 557 | 612 | Slinky Racker |
-| 558 | 612 | Briana Alexander |
+| 557 | 612 | Briana Alexander |
+| 558 | 612 | Slinky Racker |
 | 559 | 610 | Michael Buckner |
 | 560 | 609 | Cecilia A Jenkins |
 | 561 | 609 | Smashanator |
@@ -689,8 +689,8 @@
 | 681 | 517 | Daring Caster |
 | 682 | 516 | Diamond Scott |
 | 683 | 515 | Gina Bahn |
-| 684 | 515 | Klee |
-| 685 | 515 | Adam Simmons |
+| 684 | 515 | Adam Simmons |
+| 685 | 515 | Klee |
 | 686 | 514 | DefaultUser |
 | 687 | 513 | MrsCandyfine As Wine Truss |
 | 688 | 512 | Leslie Jorgenson |
@@ -922,7 +922,7 @@
 | 914 | 401 | Karen Schweyer |
 | 915 | 400 | Deana |
 | 916 | 400 | Tammy Allen |
-| 917 | 400 | Deana |
+| 917 | 400 | Lola C Davis |
 | 918 | 399 | Trista Carter |
 | 919 | 399 | Heather Johnson |
 | 920 | 398 | Juan Killyoselfifudontlikeme Ronaldo |
@@ -937,9 +937,9 @@
 | 929 | 396 | Cassie Newton |
 | 930 | 395 | Treshell Boyd |
 | 931 | 395 | Donald Nowland |
-| 932 | 394 | Kristina Marie Hanna |
-| 933 | 394 | Nerdy Blockpiece |
-| 934 | 394 | Snappy Shatterfit |
+| 932 | 394 | Snappy Shatterfit |
+| 933 | 394 | Kristina Marie Hanna |
+| 934 | 394 | Nerdy Blockpiece |
 | 935 | 393 | Jamie West |
 | 936 | 393 | CC |
 | 937 | 393 | Bing |
@@ -1059,8 +1059,8 @@
 | 1051 | 357 | Shannon Byrd |
 | 1052 | 356 | ToxicTrash |
 | 1053 | 356 | Neko Preston |
-| 1054 | 355 | Himothy |
-| 1055 | 355 | Jaime E. Rodriguez |
+| 1054 | 355 | Jaime E. Rodriguez |
+| 1055 | 355 | Himothy |
 | 1056 | 355 | Layla LS |
 | 1057 | 355 | Rolie Garcia |
 | 1058 | 354 | Sherri Morgan |
@@ -1188,8 +1188,8 @@
 | 1180 | 318 | Delfina Marie Villasenor |
 | 1181 | 318 | Arlet Alba |
 | 1182 | 318 | Natasha Marie |
-| 1183 | 318 | Layna Lyons |
-| 1184 | 318 | Perk Diggler |
+| 1183 | 318 | Perk Diggler |
+| 1184 | 318 | Layna Lyons |
 | 1185 | 318 | Steve Zortman |
 | 1186 | 318 | bosswoman |
 | 1187 | 317 | Jamie Frank Karolyi |
