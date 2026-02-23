@@ -291,8 +291,8 @@
 | 283 | 1045 | Bri Lynn |
 | 284 | 1045 | Lourisha |
 | 285 | 1044 | Jennifer Aiken |
-| 286 | 1043 | nikki |
-| 287 | 1043 | Brave Dropmatch |
+| 286 | 1043 | Brave Dropmatch |
+| 287 | 1043 | nikki |
 | 288 | 1042 | Mcintosh Brian Shalonda |
 | 289 | 1040 | Rebecca Garland |
 | 290 | 1036 | Amber Shoemaker |
@@ -465,8 +465,8 @@
 | 457 | 730 | Hoppy Brickmatch |
 | 458 | 729 | goofinoff |
 | 459 | 728 | Mikayala Szaz |
-| 460 | 728 | Tom Riefer |
-| 461 | 728 | Dylan Thomason |
+| 460 | 728 | Dylan Thomason |
+| 461 | 728 | Tom Riefer |
 | 462 | 726 | Joce Lynn |
 | 463 | 726 | Crystal Greene |
 | 464 | 725 | Ashle Scranton |
@@ -878,7 +878,7 @@
 | 870 | 429 | Dandy Combo |
 | 871 | 429 | Ricky Fortune |
 | 872 | 429 | Angel Hunnewell |
-| 873 | 428 | Jenn Morin |
+| 873 | 428 | Anthony D Gritz Jr |
 | 874 | 428 | Lisa Falcon |
 | 875 | 428 | Jenn Morin |
 | 876 | 427 | Jo Nicole |
@@ -915,9 +915,9 @@
 | 907 | 413 | Kat Mfm Kaul |
 | 908 | 413 | Abby Klaski |
 | 909 | 411 | Peppy Snapfall |
-| 910 | 411 | BabyBird |
-| 911 | 411 | Candy Pitts |
-| 912 | 411 | Valerie Vigil |
+| 910 | 411 | Candy Pitts |
+| 911 | 411 | Valerie Vigil |
+| 912 | 411 | BabyBird |
 | 913 | 410 | Michelle Grant-Moncrieft |
 | 914 | 409 | Lush Snapzone |
 | 915 | 408 | cornball |
@@ -961,12 +961,12 @@
 | 953 | 398 | Kendall Fullerton |
 | 954 | 398 | Witty Piecebuilder |
 | 955 | 398 | Juan Killyoselfifudontlikeme Ronaldo |
-| 956 | 397 | Dawn Woosley Bowes |
-| 957 | 397 | Muhammad |
-| 958 | 397 | Jessica Conaway |
-| 959 | 396 | Debbie Gerlib-Molinari Leigh |
-| 960 | 396 | Monique Foster |
-| 961 | 396 | Cassie Newton |
+| 956 | 397 | Jessica Conaway |
+| 957 | 397 | Dawn Woosley Bowes |
+| 958 | 397 | Muhammad |
+| 959 | 396 | Monique Foster |
+| 960 | 396 | Cassie Newton |
+| 961 | 396 | Debbie Gerlib-Molinari Leigh |
 | 962 | 395 | Rolie Garcia |
 | 963 | 395 | Treshell Boyd |
 | 964 | 395 | Donald Nowland |

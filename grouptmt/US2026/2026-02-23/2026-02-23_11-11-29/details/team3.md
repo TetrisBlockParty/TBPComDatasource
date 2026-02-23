@@ -187,16 +187,16 @@
 | 179 | 572 | CeceGeGe |
 | 180 | 568 | Rachael McClain Owens |
 | 181 | 566 | LaTanya GeminiondaRise Johnson |
-| 182 | 564 | Christine Trester |
-| 183 | 564 | Poppy Splitter |
+| 182 | 564 | Poppy Splitter |
+| 183 | 564 | Christine Trester |
 | 184 | 563 | Jim Mathews |
 | 185 | 562 | Dave Herzog |
 | 186 | 559 | Patti Skiles |
 | 187 | 556 | Elissa S-k |
 | 188 | 548 | Danielle Balcom |
 | 189 | 546 | Tasha Schriewer |
-| 190 | 546 | Cynthia Castros-Hampton |
-| 191 | 546 | Mykal Burton |
+| 190 | 546 | Mykal Burton |
+| 191 | 546 | Cynthia Castros-Hampton |
 | 192 | 540 | Shawn Miller |
 | 193 | 531 | Chauntee Alfrey-Cardinale |
 | 194 | 531 | Sarah Cowan Burgos |
@@ -276,12 +276,12 @@
 | 268 | 381 | Snazzy Filler |
 | 269 | 380 | Rebecca Bailey |
 | 270 | 379 | JessDrown |
-| 271 | 378 | Chris Bell |
-| 272 | 378 | MsBee |
+| 271 | 378 | MsBee |
+| 272 | 378 | Chris Bell |
 | 273 | 375 | Stephanie Burtin |
 | 274 | 374 | Rania Zaqout |
-| 275 | 372 | Sarah Moyer |
-| 276 | 372 | Rich LeBlanc |
+| 275 | 372 | Rich LeBlanc |
+| 276 | 372 | Sarah Moyer |
 | 277 | 371 | Marquita Sheard |
 | 278 | 371 | block chick |
 | 279 | 370 | Samantha Lynn |
@@ -363,8 +363,8 @@
 | 355 | 298 | Dannie Litchard |
 | 356 | 298 | Grams |
 | 357 | 297 | kacihall |
-| 358 | 296 | Tracy Martin |
-| 359 | 296 | Donna |
+| 358 | 296 | Donna |
+| 359 | 296 | Tracy Martin |
 | 360 | 296 | Amy Montz |
 | 361 | 292 | Dakota Graham |
 | 362 | 292 | Kirhonda Autmon |
@@ -481,8 +481,8 @@
 | 473 | 233 | Anna Moeller |
 | 474 | 233 | Criss |
 | 475 | 232 | Sunny Tiltgrid |
-| 476 | 232 | Stephanie Hill |
-| 477 | 232 | Melanie Sherwood |
+| 476 | 232 | Melanie Sherwood |
+| 477 | 232 | Stephanie Hill |
 | 478 | 231 | Giggly Brickroll |
 | 479 | 230 | DanceLuvLaugh |
 | 480 | 230 | BigE |
@@ -494,9 +494,9 @@
 | 486 | 226 | Ryan Williams |
 | 487 | 225 | Sassy Tiler |
 | 488 | 225 | sofaking |
-| 489 | 224 | Sarah Morris |
+| 489 | 224 | Cranky Corner |
 | 490 | 224 | Christina Rotz Shows |
-| 491 | 224 | Cranky Corner |
+| 491 | 224 | Sarah Morris |
 | 492 | 222 | Angel Miller |
 | 493 | 221 | Bleu Sun Beams |
 | 494 | 221 | Spicy Cascadepiece |
