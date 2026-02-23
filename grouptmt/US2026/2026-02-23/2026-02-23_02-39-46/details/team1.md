@@ -252,8 +252,8 @@
 | 244 | 244 | Eddie Dillon |
 | 245 | 242 | ParisandCory Champagne |
 | 246 | 241 | Tyler Hertzog |
-| 247 | 240 | DaRascal |
-| 248 | 240 | Daring Fitclear |
+| 247 | 240 | Daring Fitclear |
+| 248 | 240 | DaRascal |
 | 249 | 238 | Tiffany Smith |
 | 250 | 234 | Paula Martin |
 | 251 | 233 | Shiny Gridmatch |

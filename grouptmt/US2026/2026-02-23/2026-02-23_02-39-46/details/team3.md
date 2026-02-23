@@ -61,8 +61,8 @@
 | 53 | 1276 | Aaron Pitkin |
 | 54 | 1269 | Amber Jones |
 | 55 | 1258 | Jennifer Petrie |
-| 56 | 1256 | Mahman |
-| 57 | 1256 | Jessica Bechler |
+| 56 | 1256 | Jessica Bechler |
+| 57 | 1256 | Mahman |
 | 58 | 1211 | Nate Burnside |
 | 59 | 1183 | Nora Rogers |
 | 60 | 1181 | Elaine Webb Graves |
@@ -263,13 +263,13 @@
 | 255 | 357 | Ammmmmmy |
 | 256 | 357 | Stephanie Burtin |
 | 257 | 354 | Kelly |
-| 258 | 352 | Samantha Lynn |
-| 259 | 352 | Christian Werndl |
+| 258 | 352 | Christian Werndl |
+| 259 | 352 | Samantha Lynn |
 | 260 | 351 | Eon Harris |
 | 261 | 349 | Amanda J. Mcneil-Anderson |
 | 262 | 348 | Cyd061769 |
-| 263 | 347 | Philip Rock |
-| 264 | 347 | Rania Zaqout |
+| 263 | 347 | Rania Zaqout |
+| 264 | 347 | Philip Rock |
 | 265 | 346 | Tamara Deherrera |
 | 266 | 344 | Roary Danner |
 | 267 | 343 | Ashley Raines |

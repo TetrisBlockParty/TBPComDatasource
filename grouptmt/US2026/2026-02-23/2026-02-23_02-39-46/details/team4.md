@@ -55,8 +55,8 @@
 | 47 | 911 | Jeremy Steines |
 | 48 | 855 | Marvin Lou Martin |
 | 49 | 853 | TeeJ |
-| 50 | 846 | Lucille Truesdale |
-| 51 | 846 | Christine Marie |
+| 50 | 846 | Christine Marie |
+| 51 | 846 | Lucille Truesdale |
 | 52 | 845 | LisaJo Picken Buchanan |
 | 53 | 843 | Shelly Chandler |
 | 54 | 841 | Anthony Bryan Riva |
@@ -113,11 +113,11 @@
 | 105 | 527 | Dizzy Tiley |
 | 106 | 519 | Nugget |
 | 107 | 514 | Serena Goodridge |
-| 108 | 513 | YoMomma |
-| 109 | 513 | Erin Thomas |
-| 110 | 513 | shar |
-| 111 | 512 | Casey Jeffcoat |
-| 112 | 512 | Cristy Duerksen |
+| 108 | 513 | Erin Thomas |
+| 109 | 513 | shar |
+| 110 | 513 | YoMomma |
+| 111 | 512 | Cristy Duerksen |
+| 112 | 512 | Casey Jeffcoat |
 | 113 | 511 | Lori Walker |
 | 114 | 510 | Scott Jameson |
 | 115 | 499 | Christina LR |
@@ -150,7 +150,7 @@
 | 142 | 399 | Swanky Fitline |
 | 143 | 394 | Austin Owens |
 | 144 | 394 | Damn Libra |
-| 145 | 393 | Carlton Unfiltered |
+| 145 | 393 | Trish |
 | 146 | 393 | Girl |
 | 147 | 393 | Carlton Unfiltered |
 | 148 | 391 | Livvy |
@@ -238,8 +238,8 @@
 | 230 | 264 | Carlos Ramirez |
 | 231 | 261 | JPW |
 | 232 | 260 | Selena Shaw |
-| 233 | 259 | Cheery Risebuilder |
-| 234 | 259 | Montiette Mcglown |
+| 233 | 259 | Montiette Mcglown |
+| 234 | 259 | Cheery Risebuilder |
 | 235 | 258 | Stella |
 | 236 | 257 | PeaceOs |
 | 237 | 256 | Mylo Lipscomb |
@@ -284,8 +284,8 @@
 | 276 | 221 | PurpleMoonMa |
 | 277 | 221 | Chair |
 | 278 | 220 | TinyLegoRose |
-| 279 | 219 | Shane Vick |
-| 280 | 219 | Malakai Darien Fox |
+| 279 | 219 | Malakai Darien Fox |
+| 280 | 219 | Shane Vick |
 | 281 | 218 | Steph Marie |
 | 282 | 217 | Paito |
 | 283 | 217 | Cheery Fitline |
