@@ -127,8 +127,8 @@
 | 119 | 1939 | Auntie B |
 | 120 | 1932 | Gary Schaffner Jr. |
 | 121 | 1917 | Angi Harrison |
-| 122 | 1899 | Jamie Main |
-| 123 | 1899 | Jumpy Gridpiece |
+| 122 | 1899 | Jumpy Gridpiece |
+| 123 | 1899 | Jamie Main |
 | 124 | 1890 | Aimee Byrom |
 | 125 | 1887 | Tonya Brooks-Johnson |
 | 126 | 1872 | Karen Martini-Stapleton |
@@ -218,8 +218,8 @@
 | 210 | 1245 | Cody Nishimura |
 | 211 | 1240 | Brandon Armstrong |
 | 212 | 1237 | Megan Ferguson Leone |
-| 213 | 1232 | Groovy Puzzle |
-| 214 | 1232 | Ambyre Patterson |
+| 213 | 1232 | Ambyre Patterson |
+| 214 | 1232 | Groovy Puzzle |
 | 215 | 1230 | Megan Garrick |
 | 216 | 1221 | Jane Fong |
 | 217 | 1217 | Brooks Brooks |
@@ -255,8 +255,8 @@
 | 247 | 1126 | Dolores Russworn |
 | 248 | 1121 | Tommy Tha Boss Gunz |
 | 249 | 1121 | Sarah Freitas |
-| 250 | 1114 | Ginnell Browner |
-| 251 | 1114 | Kevin Walp |
+| 250 | 1114 | Kevin Walp |
+| 251 | 1114 | Ginnell Browner |
 | 252 | 1111 | Julay |
 | 253 | 1110 | Robin Kerby |
 | 254 | 1105 | Nerdy Clearfit |
@@ -300,8 +300,8 @@
 | 292 | 996 | Juliana Marques Do Nascimento Gordy |
 | 293 | 987 | Osun Anuket Esu |
 | 294 | 984 | Crystal Hoffman |
-| 295 | 979 | Hillary Crawford |
-| 296 | 979 | Melissa Penelope Ann Dodge |
+| 295 | 979 | Melissa Penelope Ann Dodge |
+| 296 | 979 | Hillary Crawford |
 | 297 | 978 | April Dawn Gussler |
 | 298 | 976 | Sam Joe |
 | 299 | 976 | Della Hole |
@@ -554,8 +554,8 @@
 | 546 | 612 | Briana Alexander |
 | 547 | 612 | Slinky Racker |
 | 548 | 610 | Michael Buckner |
-| 549 | 609 | Smashanator |
-| 550 | 609 | Autumn Schaeffer |
+| 549 | 609 | Autumn Schaeffer |
+| 550 | 609 | Smashanator |
 | 551 | 609 | Cecilia A Jenkins |
 | 552 | 607 | Mo Shine On |
 | 553 | 606 | Lea Stewart |
@@ -774,8 +774,8 @@
 | 766 | 462 | Samantha Scibelli |
 | 767 | 461 | Julie Hamilton |
 | 768 | 461 | Amanda Segura |
-| 769 | 461 | Amanda West |
-| 770 | 461 | Kristen O'Neal |
+| 769 | 461 | Kristen O'Neal |
+| 770 | 461 | Amanda West |
 | 771 | 460 | LaWanda Powell |
 | 772 | 459 | Pocho Zavala |
 | 773 | 458 | Danielle Ayoub |
@@ -790,8 +790,8 @@
 | 782 | 452 | Cleo Sims |
 | 783 | 452 | Tipsy Filler |
 | 784 | 451 | Sharon Mills |
-| 785 | 451 | Stefanie Zonzini-Gagliardi |
-| 786 | 451 | Giggly Snap |
+| 785 | 451 | Giggly Snap |
+| 786 | 451 | Stefanie Zonzini-Gagliardi |
 | 787 | 450 | sup |
 | 788 | 449 | Heather Sawtelle-Mckenzie |
 | 789 | 449 | Kristi Biddinger |
@@ -864,8 +864,8 @@
 | 856 | 416 | Christine Lockwood |
 | 857 | 415 | Bonita Kee |
 | 858 | 415 | Cranky Tower |
-| 859 | 415 | Noel Tarmy |
-| 860 | 415 | Allyson Marra |
+| 859 | 415 | Allyson Marra |
+| 860 | 415 | Noel Tarmy |
 | 861 | 414 | Cini |
 | 862 | 414 | Maria Louise |
 | 863 | 414 | Court |
@@ -885,8 +885,8 @@
 | 877 | 406 | Johanna Massaro |
 | 878 | 406 | Lazy Builderfit |
 | 879 | 406 | Susan Arnburg |
-| 880 | 405 | Marget Kay |
-| 881 | 405 | Dane Reing |
+| 880 | 405 | Dane Reing |
+| 881 | 405 | Marget Kay |
 | 882 | 405 | Swanky Columnbuilder |
 | 883 | 405 | Carrie Mitchell |
 | 884 | 404 | Shylee Tilman |
@@ -962,11 +962,11 @@
 | 954 | 381 | Cheyenne Donovan |
 | 955 | 381 | Happy Caster |
 | 956 | 380 | Kelsey Sullivan |
-| 957 | 380 | Ashlyn Berner |
-| 958 | 380 | Zesty Pivot |
-| 959 | 380 | bru |
-| 960 | 380 | Lily |
-| 961 | 380 | Monica Wilson |
+| 957 | 380 | Zesty Pivot |
+| 958 | 380 | bru |
+| 959 | 380 | Ashlyn Berner |
+| 960 | 380 | Monica Wilson |
+| 961 | 380 | Lily |
 | 962 | 378 | Elizabeth Leinen |
 | 963 | 378 | Ubu |
 | 964 | 378 | Kelly Walters |
@@ -977,9 +977,9 @@
 | 969 | 376 | Kristen Casale Berry |
 | 970 | 375 | Ashley Marie |
 | 971 | 374 | Amanda Perez |
-| 972 | 374 | SpaceCase085 |
-| 973 | 374 | Lively Catcher |
-| 974 | 374 | Sassy Linkbuilder |
+| 972 | 374 | Lively Catcher |
+| 973 | 374 | Sassy Linkbuilder |
+| 974 | 374 | SpaceCase085 |
 | 975 | 373 | DA Wight |
 | 976 | 373 | Melissa James |
 | 977 | 372 | calcap |

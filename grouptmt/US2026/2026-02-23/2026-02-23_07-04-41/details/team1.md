@@ -238,8 +238,8 @@
 | 230 | 280 | Billie Dawn Sparks |
 | 231 | 277 | Melissa Lemmon |
 | 232 | 277 | Nutty Spinblock |
-| 233 | 275 | Cheeky Pop |
-| 234 | 275 | Chris65 |
+| 233 | 275 | Chris65 |
+| 234 | 275 | Cheeky Pop |
 | 235 | 274 | Lakeisha Chapman |
 | 236 | 273 | Shannon Marie Pitts |
 | 237 | 272 | Tawnya Peltonen |
@@ -340,8 +340,8 @@
 | 332 | 210 | Timothy Danaher |
 | 333 | 210 | Chris Dawson |
 | 334 | 209 | Pauline Cortez |
-| 335 | 209 | Breanna Luna |
-| 336 | 209 | Beau Galvan |
+| 335 | 209 | Beau Galvan |
+| 336 | 209 | Breanna Luna |
 | 337 | 208 | Andrew Boone |
 | 338 | 208 | Donna Addison Williams |
 | 339 | 207 | Katie Martin |
