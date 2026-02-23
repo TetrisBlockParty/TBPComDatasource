@@ -198,8 +198,8 @@
 | 190 | 1567 | Juliana Marques Do Nascimento Gordy |
 | 191 | 1565 | Nancy Reid |
 | 192 | 1562 | Tony Lea |
-| 193 | 1558 | Tim Dyer |
-| 194 | 1558 | Crystal Slaughter |
+| 193 | 1558 | Crystal Slaughter |
+| 194 | 1558 | Tim Dyer |
 | 195 | 1556 | Mo Shine On |
 | 196 | 1552 | Cheeky Balancepiece |
 | 197 | 1534 | Rosa Franklin |
@@ -287,8 +287,8 @@
 | 279 | 1172 | Stacey Clement |
 | 280 | 1172 | Lakeysha Dortch |
 | 281 | 1171 | Loretta Brewer-Gage |
-| 282 | 1165 | Christina Wsn |
-| 283 | 1165 | Michelle Lee |
+| 282 | 1165 | Michelle Lee |
+| 283 | 1165 | Christina Wsn |
 | 284 | 1163 | Erika Densmore |
 | 285 | 1158 | Sarah Freitas |
 | 286 | 1158 | Brittany Clark |
@@ -321,8 +321,8 @@
 | 313 | 1073 | Jodi Blake |
 | 314 | 1072 | Kristin Gower |
 | 315 | 1072 | BK Queen |
-| 316 | 1071 | Kim Dean |
-| 317 | 1071 | Nashu |
+| 316 | 1071 | Nashu |
+| 317 | 1071 | Kim Dean |
 | 318 | 1067 | Caitlin Schmid |
 | 319 | 1065 | Dany Murillo |
 | 320 | 1059 | Bri Lynn |
@@ -467,14 +467,14 @@
 | 459 | 806 | Sarah block |
 | 460 | 805 | Vanessa Moreno |
 | 461 | 804 | Sarah DeHart |
-| 462 | 804 | Becca Coronado |
-| 463 | 804 | Barry Britt |
+| 462 | 804 | Barry Britt |
+| 463 | 804 | Becca Coronado |
 | 464 | 801 | Diana Fitzwater |
 | 465 | 801 | Dreamy Blast |
 | 466 | 799 | Kenny Alvarado |
 | 467 | 798 | Melissa Cole |
-| 468 | 797 | Alex Dungo Hoang |
-| 469 | 797 | Mighty Spinbuilder |
+| 468 | 797 | Mighty Spinbuilder |
+| 469 | 797 | Alex Dungo Hoang |
 | 470 | 796 | AndrewandShela Gornik |
 | 471 | 796 | Amber Gray |
 | 472 | 794 | Lindsey Leigh |
@@ -496,8 +496,8 @@
 | 488 | 772 | Danielle Simmons |
 | 489 | 771 | Stephanie Lumanlan |
 | 490 | 770 | Allan Wayne Lamia |
-| 491 | 768 | Casper The Chonk |
-| 492 | 768 | Joshua Self |
+| 491 | 768 | Joshua Self |
+| 492 | 768 | Casper The Chonk |
 | 493 | 767 | Ashley Lopez |
 | 494 | 766 | Jennie Lee Huntley |
 | 495 | 764 | Belle |
@@ -716,8 +716,8 @@
 | 708 | 579 | Roy Salyer |
 | 709 | 576 | Leslie Johnson Guinto |
 | 710 | 573 | Vaniel Glover |
-| 711 | 572 | Rachael Senard |
-| 712 | 572 | SwampRebel |
+| 711 | 572 | SwampRebel |
+| 712 | 572 | Rachael Senard |
 | 713 | 572 | Alexandra Lynn |
 | 714 | 571 | Niceday |
 | 715 | 570 | Sonya Back |

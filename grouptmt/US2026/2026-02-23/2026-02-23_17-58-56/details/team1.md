@@ -92,8 +92,8 @@
 | 84 | 735 | Cynthia Bradley |
 | 85 | 713 | Robert Benito |
 | 86 | 710 | Jennifer ManWarren |
-| 87 | 706 | Plucky Fallzone |
-| 88 | 706 | Denice Dee |
+| 87 | 706 | Denice Dee |
+| 88 | 706 | Plucky Fallzone |
 | 89 | 704 | Jason Jones |
 | 90 | 704 | Karin Gillen |
 | 91 | 703 | Kellie |

@@ -132,8 +132,8 @@
 | 124 | 839 | Angeline Joseph |
 | 125 | 837 | mzcatzy |
 | 126 | 836 | Logan Naccarato |
-| 127 | 833 | Grego Daniel |
-| 128 | 833 | Crystal Frey |
+| 127 | 833 | Crystal Frey |
+| 128 | 833 | Grego Daniel |
 | 129 | 820 | Brenda Lee Vander Molen |
 | 130 | 815 | Dolores Falco |
 | 131 | 812 | Speedy Bridger |
@@ -338,8 +338,8 @@
 | 330 | 367 | Swanky Snapclear |
 | 331 | 366 | KayB |
 | 332 | 366 | Jul |
-| 333 | 365 | Breanna Marsden |
-| 334 | 365 | LaShey Thompson |
+| 333 | 365 | LaShey Thompson |
+| 334 | 365 | Breanna Marsden |
 | 335 | 365 | Andrew Thorson |
 | 336 | 362 | Chummy Rumbler |
 | 337 | 362 | Brandon Givens |
@@ -471,8 +471,8 @@
 | 463 | 278 | Rufus Lincoln |
 | 464 | 278 | IamJust Neyamijah Washington Sr. |
 | 465 | 277 | Joe-Maggie Mathews |
-| 466 | 277 | Christine Foley |
-| 467 | 277 | Mindy Phelps |
+| 466 | 277 | Mindy Phelps |
+| 467 | 277 | Christine Foley |
 | 468 | 276 | Mikki Torres |
 | 469 | 276 | Crimson |
 | 470 | 276 | Karent524 |
@@ -514,8 +514,8 @@
 | 506 | 260 | Tracey Cox |
 | 507 | 260 | Alice |
 | 508 | 259 | Shania Vaine |
-| 509 | 258 | Paul Daniel Quertermous |
-| 510 | 258 | Jolly Brick |
+| 509 | 258 | Jolly Brick |
+| 510 | 258 | Paul Daniel Quertermous |
 | 511 | 258 | Jl |
 | 512 | 257 | Saucy Buildout |
 | 513 | 257 | Jana Polk |
@@ -539,9 +539,9 @@
 | 531 | 253 | Scouty |
 | 532 | 252 | Jason |
 | 533 | 252 | Josh Borquez |
-| 534 | 251 | Jennifer Neiman Gaal |
+| 534 | 251 | Colleen Phelps |
 | 535 | 251 | Valerie Tarkington |
-| 536 | 251 | Colleen Phelps |
+| 536 | 251 | Jennifer Neiman Gaal |
 | 537 | 250 | Marcus Payton |
 | 538 | 250 | Bekah Dietrich |
 | 539 | 250 | Joshua David Huie |
@@ -777,7 +777,7 @@
 | 769 | 180 | Jen Lewis |
 | 770 | 180 | Giggy Balanceblock |
 | 771 | 180 | Mike Spritzer |
-| 772 | 180 | Carri |
+| 772 | 180 | MDJM |
 | 773 | 180 | Timea Popladek |
 | 774 | 180 | Carri |
 | 775 | 179 | G |
@@ -820,11 +820,11 @@
 | 812 | 171 | Tommy Proctor |
 | 813 | 171 | Jae Grisham |
 | 814 | 170 | Pizzi |
-| 815 | 170 | MomOnBreak |
-| 816 | 170 | David Bardo |
-| 817 | 170 | Karen Picaboo |
-| 818 | 169 | Paul Hudak |
-| 819 | 169 | Peachy Rollfit |
+| 815 | 170 | Karen Picaboo |
+| 816 | 170 | MomOnBreak |
+| 817 | 170 | David Bardo |
+| 818 | 169 | Peachy Rollfit |
+| 819 | 169 | Paul Hudak |
 | 820 | 169 | Jason-Ashley Ludlow |
 | 821 | 169 | Raylene McClain |
 | 822 | 168 | thekey |
