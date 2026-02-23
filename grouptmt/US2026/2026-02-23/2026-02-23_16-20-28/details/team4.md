@@ -52,8 +52,8 @@
 | 44 | 1116 | Koshin Abdirahman |
 | 45 | 1093 | Ashley Ingram |
 | 46 | 1085 | Kimyatta Cavin |
-| 47 | 1082 | Dion Crommarty |
-| 48 | 1082 | Dawn Alexander |
+| 47 | 1082 | Dawn Alexander |
+| 48 | 1082 | Dion Crommarty |
 | 49 | 1071 | Cherrish Duren |
 | 50 | 1049 | Heather Tushner |
 | 51 | 1046 | Johnathan Martinez |
@@ -265,13 +265,13 @@
 | 257 | 307 | Tina Lopez |
 | 258 | 306 | mike |
 | 259 | 305 | Brickh4us |
-| 260 | 304 | Joanna |
-| 261 | 304 | Shiny Fit |
+| 260 | 304 | Shiny Fit |
+| 261 | 304 | Joanna |
 | 262 | 304 | Gdiguy |
 | 263 | 303 | blasterB |
 | 264 | 300 | Dana Scott |
-| 265 | 295 | Keshia Lyons |
-| 266 | 295 | Lora |
+| 265 | 295 | Lora |
+| 266 | 295 | Keshia Lyons |
 | 267 | 294 | Calvin Cannon |
 | 268 | 293 | Joeliecea Cobb |
 | 269 | 292 | Angel Raya |
@@ -589,8 +589,8 @@
 | 581 | 140 | moneybagz |
 | 582 | 140 | Thomas Hettenhaus |
 | 583 | 139 | Groovy Shiftspin |
-| 584 | 139 | Ann G. Carrillo |
-| 585 | 139 | Lynn Marie |
+| 584 | 139 | Lynn Marie |
+| 585 | 139 | Ann G. Carrillo |
 | 586 | 138 | Tammy Lewis |
 | 587 | 137 | Heather Mamabear Pezze |
 | 588 | 137 | April Spoelma |

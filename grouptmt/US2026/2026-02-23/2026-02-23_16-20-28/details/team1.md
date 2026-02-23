@@ -319,8 +319,8 @@
 | 311 | 265 | Flashy Rotator |
 | 312 | 265 | Yahowah |
 | 313 | 264 | Jenny Gingrich Fuentes |
-| 314 | 263 | Nadine Velardo |
-| 315 | 263 | Sunny Shift |
+| 314 | 263 | Sunny Shift |
+| 315 | 263 | Nadine Velardo |
 | 316 | 262 | Mary Love |
 | 317 | 261 | Brooke Elizabeth Antill |
 | 318 | 261 | Angela Fairbank |
@@ -472,7 +472,7 @@
 | 464 | 187 | Jessica Weed |
 | 465 | 187 | Matthew Foley |
 | 466 | 186 | Nikki Fridley |
-| 467 | 184 | Sonia Marquis |
+| 467 | 184 | Carl Claunch |
 | 468 | 184 | Theeranart Mahawan |
 | 469 | 184 | Sonia Marquis |
 | 470 | 183 | MommaKFC |
