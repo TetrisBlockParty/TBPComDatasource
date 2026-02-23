@@ -106,8 +106,8 @@
 | 98 | 510 | Chirpy Smasher |
 | 99 | 509 | Rachael |
 | 100 | 497 | Arianna O'Brien |
-| 101 | 493 | MomMom |
-| 102 | 493 | Jennifer ManWarren |
+| 101 | 493 | Jennifer ManWarren |
+| 102 | 493 | MomMom |
 | 103 | 492 | Ash Galvan |
 | 104 | 491 | cc |
 | 105 | 489 | April Carroll |

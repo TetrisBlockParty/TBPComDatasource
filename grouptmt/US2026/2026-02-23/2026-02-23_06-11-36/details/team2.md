@@ -44,8 +44,8 @@
 | 36 | 4199 | Claire Noland |
 | 37 | 4128 | Angela Pruitt |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Kristen Sceurman |
-| 40 | 4120 | Corrine Hawks Soriano |
+| 39 | 4120 | Corrine Hawks Soriano |
+| 40 | 4120 | Kristen Sceurman |
 | 41 | 3845 | jayjay |
 | 42 | 3813 | Devin Lee |
 | 43 | 3778 | Brittany Alicia |
@@ -93,8 +93,8 @@
 | 85 | 2515 | Crystalin Heath Lewis |
 | 86 | 2500 | Rosemadder |
 | 87 | 2438 | Rob Surace |
-| 88 | 2428 | Deanna Morton |
-| 89 | 2428 | Thomas Hughes |
+| 88 | 2428 | Thomas Hughes |
+| 89 | 2428 | Deanna Morton |
 | 90 | 2410 | RdRydnHd |
 | 91 | 2400 | Rich Sullivan |
 | 92 | 2375 | Gabby Jenner |
@@ -151,8 +151,8 @@
 | 143 | 1639 | Jessie McDougald |
 | 144 | 1638 | Speedy Spinblock |
 | 145 | 1629 | Mari Ac |
-| 146 | 1623 | Rebecca Doughman |
-| 147 | 1623 | Janel Turley-Garner |
+| 146 | 1623 | Janel Turley-Garner |
+| 147 | 1623 | Rebecca Doughman |
 | 148 | 1605 | Christi Hulet |
 | 149 | 1602 | blackq |
 | 150 | 1601 | Ray Ray Prado |
@@ -472,8 +472,8 @@
 | 464 | 693 | Ryan Stadel |
 | 465 | 692 | Shaun Church |
 | 466 | 691 | Poldo Ilano |
-| 467 | 691 | Samuel Macon |
-| 468 | 691 | Arwa Fatimah |
+| 467 | 691 | Arwa Fatimah |
+| 468 | 691 | Samuel Macon |
 | 469 | 689 | Gauri Shrotriya |
 | 470 | 686 | Christine Coughlin |
 | 471 | 684 | Sarah DeHart |
