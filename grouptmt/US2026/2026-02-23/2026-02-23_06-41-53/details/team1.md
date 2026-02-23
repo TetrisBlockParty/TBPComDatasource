@@ -188,8 +188,8 @@
 | 180 | 341 | Nick R Montague |
 | 181 | 339 | Nicole Roseberry Weber |
 | 182 | 338 | Jennifer Hardman |
-| 183 | 337 | Constance Risner |
-| 184 | 337 | Jamise Brown |
+| 183 | 337 | Jamise Brown |
+| 184 | 337 | Constance Risner |
 | 185 | 336 | Dizzy Party |
 | 186 | 333 | Virginia Gray Floyd |
 | 187 | 333 | Gracie |
@@ -225,8 +225,8 @@
 | 217 | 290 | Speedy Liney |
 | 218 | 290 | Hellsin |
 | 219 | 287 | Sassy Builderline |
-| 220 | 285 | Shanae Grant |
-| 221 | 285 | Bird Person |
+| 220 | 285 | Bird Person |
+| 221 | 285 | Shanae Grant |
 | 222 | 284 | Sarah Somers Gray |
 | 223 | 283 | Franswa |
 | 224 | 283 | Amanda Holibaugh |
@@ -329,8 +329,8 @@
 | 321 | 216 | Chad Atchley |
 | 322 | 216 | Shauntina Burke |
 | 323 | 216 | Tiger Lily |
-| 324 | 215 | Alenoush Karimian |
-| 325 | 215 | Christina Norman |
+| 324 | 215 | Christina Norman |
+| 325 | 215 | Alenoush Karimian |
 | 326 | 214 | Kayla Marie Stevenson |
 | 327 | 213 | John Barron |
 | 328 | 213 | Poppy Riserpiece |

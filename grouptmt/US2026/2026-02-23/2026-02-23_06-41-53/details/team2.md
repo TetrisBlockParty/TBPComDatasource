@@ -44,8 +44,8 @@
 | 36 | 4199 | Claire Noland |
 | 37 | 4128 | Angela Pruitt |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Kristen Sceurman |
-| 40 | 4120 | Corrine Hawks Soriano |
+| 39 | 4120 | Corrine Hawks Soriano |
+| 40 | 4120 | Kristen Sceurman |
 | 41 | 3845 | jayjay |
 | 42 | 3813 | Devin Lee |
 | 43 | 3778 | Brittany Alicia |
@@ -212,8 +212,8 @@
 | 204 | 1286 | Altamirano Michael |
 | 205 | 1282 | Tanya Parsons |
 | 206 | 1259 | Foxxo |
-| 207 | 1258 | Snappy Matchbuilder |
-| 208 | 1258 | Joyce Johnson Vaughn |
+| 207 | 1258 | Joyce Johnson Vaughn |
+| 208 | 1258 | Snappy Matchbuilder |
 | 209 | 1252 | Angel |
 | 210 | 1245 | Cody Nishimura |
 | 211 | 1240 | Brandon Armstrong |
@@ -255,8 +255,8 @@
 | 247 | 1126 | Dolores Russworn |
 | 248 | 1121 | Tommy Tha Boss Gunz |
 | 249 | 1121 | Sarah Freitas |
-| 250 | 1114 | Kevin Walp |
-| 251 | 1114 | Ginnell Browner |
+| 250 | 1114 | Ginnell Browner |
+| 251 | 1114 | Kevin Walp |
 | 252 | 1111 | Julay |
 | 253 | 1110 | Robin Kerby |
 | 254 | 1105 | Nerdy Clearfit |
@@ -313,8 +313,8 @@
 | 305 | 969 | Boldy Cascadepiece |
 | 306 | 965 | F-X |
 | 307 | 961 | Angela Lynn |
-| 308 | 958 | Doowop40 |
-| 309 | 958 | Brenda Messer |
+| 308 | 958 | Brenda Messer |
+| 309 | 958 | Doowop40 |
 | 310 | 957 | Block Master |
 | 311 | 956 | Phil J. Grombliniak |
 | 312 | 955 | Angela Bonquiqui Dinish |
@@ -323,8 +323,8 @@
 | 315 | 947 | Dedra Steward |
 | 316 | 945 | Wakanda Forever |
 | 317 | 941 | Cool Clearer |
-| 318 | 939 | Cindy Sechler Taninecz |
-| 319 | 939 | SaraMarie Eveland |
+| 318 | 939 | SaraMarie Eveland |
+| 319 | 939 | Cindy Sechler Taninecz |
 | 320 | 929 | Joshua Mandel |
 | 321 | 926 | Deborah Miller |
 | 322 | 919 | Isaac Trappiel IV |
@@ -377,8 +377,8 @@
 | 369 | 824 | Khalil Lowe |
 | 370 | 822 | Lola Contreras |
 | 371 | 821 | Angie Bolton Workman |
-| 372 | 821 | Cassie Mercer |
-| 373 | 821 | Arkei Luster |
+| 372 | 821 | Arkei Luster |
+| 373 | 821 | Cassie Mercer |
 | 374 | 818 | Lisa Ongtowasruk |
 | 375 | 816 | James Simms III |
 | 376 | 816 | Beth |
@@ -402,8 +402,8 @@
 | 394 | 787 | Tiara Elizabeth Baker |
 | 395 | 783 | John Rodriguez |
 | 396 | 779 | Kayla |
-| 397 | 777 | Jessicah Myers |
-| 398 | 777 | Tesha Oldaker |
+| 397 | 777 | Tesha Oldaker |
+| 398 | 777 | Jessicah Myers |
 | 399 | 776 | Fancy Twister |
 | 400 | 776 | Mighty Spinbuilder |
 | 401 | 775 | Crystie Hicks |

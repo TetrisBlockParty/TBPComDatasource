@@ -128,8 +128,8 @@
 | 120 | 769 | Kristie |
 | 121 | 764 | Groovy Catcher |
 | 122 | 762 | Speedy Bridger |
-| 123 | 752 | Logan Naccarato |
-| 124 | 752 | Raya |
+| 123 | 752 | Raya |
+| 124 | 752 | Logan Naccarato |
 | 125 | 748 | Adrian Marcel Pate |
 | 126 | 745 | JerseyJess |
 | 127 | 744 | Leah Barnett |
@@ -160,8 +160,8 @@
 | 152 | 631 | Daira Largen |
 | 153 | 630 | yoyo |
 | 154 | 629 | Patricia White |
-| 155 | 621 | Cherry Parker |
-| 156 | 621 | Sashay Tapae Simpson |
+| 155 | 621 | Sashay Tapae Simpson |
+| 156 | 621 | Cherry Parker |
 | 157 | 616 | Kammy Hill |
 | 158 | 611 | Rochelle Hazelett |
 | 159 | 607 | Grego Daniel |
@@ -173,8 +173,8 @@
 | 165 | 591 | Michael Nowogorski |
 | 166 | 588 | Justin Ritter |
 | 167 | 587 | Louise Stacy Sisson |
-| 168 | 585 | Annie Marie |
-| 169 | 585 | Happy Tetriblast |
+| 168 | 585 | Happy Tetriblast |
+| 169 | 585 | Annie Marie |
 | 170 | 583 | Tasha Gillespie |
 | 171 | 582 | Natasha Jones |
 | 172 | 577 | Domo Washington |
@@ -205,8 +205,8 @@
 | 197 | 502 | Snappy Balancer |
 | 198 | 496 | Loopy Fallmatch |
 | 199 | 494 | FuzzyNavel |
-| 200 | 489 | Poppy Splitter |
-| 201 | 489 | Shannon Matthew Byers |
+| 200 | 489 | Shannon Matthew Byers |
+| 201 | 489 | Poppy Splitter |
 | 202 | 488 | Melissa Orth Hunter |
 | 203 | 487 | Jacqueline Rodriguez |
 | 204 | 485 | Dapper Snap |
@@ -231,8 +231,8 @@
 | 223 | 448 | Scott Carleton |
 | 224 | 437 | Loopy Clusterer |
 | 225 | 432 | Luciana Braganca Vieira |
-| 226 | 431 | Ammmmmmy |
-| 227 | 431 | Wendy Dearden |
+| 226 | 431 | Wendy Dearden |
+| 227 | 431 | Ammmmmmy |
 | 228 | 430 | Jeni Dow |
 | 229 | 418 | Rebecca Funderburk Kirby |
 | 230 | 414 | Fran Lin |
@@ -265,8 +265,8 @@
 | 257 | 370 | Samantha Lynn |
 | 258 | 369 | Philip Rock |
 | 259 | 369 | Keis |
-| 260 | 368 | Sheila M Frazier |
-| 261 | 368 | Stephanie Woods |
+| 260 | 368 | Stephanie Woods |
+| 261 | 368 | Sheila M Frazier |
 | 262 | 367 | Kristin Delibac Corrigan |
 | 263 | 366 | Randy Clevenger |
 | 264 | 366 | Gumbo |
@@ -531,8 +531,8 @@
 | 523 | 200 | Christina Marie Swisher |
 | 524 | 199 | PrncssPJ |
 | 525 | 199 | Cheeky Setter |
-| 526 | 198 | Jodi Kaczynski-O'Dowd |
-| 527 | 198 | Zac Hudak |
+| 526 | 198 | Zac Hudak |
+| 527 | 198 | Jodi Kaczynski-O'Dowd |
 | 528 | 198 | joz |
 | 529 | 197 | Giggy Glidepiece |
 | 530 | 197 | Fredd Thomas |
