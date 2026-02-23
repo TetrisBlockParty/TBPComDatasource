@@ -82,8 +82,8 @@
 | 74 | 1258 | Danielle Cutler |
 | 75 | 1244 | Lori Barnaby |
 | 76 | 1221 | Betty Ivy |
-| 77 | 1213 | Nerdy Riseclear |
-| 78 | 1213 | Snappy Glidepiece |
+| 77 | 1213 | Snappy Glidepiece |
+| 78 | 1213 | Nerdy Riseclear |
 | 79 | 1209 | Amanda Adkins |
 | 80 | 1186 | Christian A. Pollard |
 | 81 | 1169 | Araceli Parra |
@@ -189,8 +189,8 @@
 | 181 | 591 | Kaycee Kay |
 | 182 | 589 | Tasha Gillespie |
 | 183 | 587 | Louise Stacy Sisson |
-| 184 | 585 | Domo Washington |
-| 185 | 585 | Happy Tetriblast |
+| 184 | 585 | Happy Tetriblast |
+| 185 | 585 | Domo Washington |
 | 186 | 582 | Natasha Jones |
 | 187 | 576 | Keis |
 | 188 | 568 | Tasha Schriewer |
@@ -247,8 +247,8 @@
 | 239 | 465 | Annie Déè |
 | 240 | 464 | Danielle Weikel |
 | 241 | 462 | Ashley Tookes |
-| 242 | 461 | Tom Nault |
-| 243 | 461 | Marci Mize Fandrich |
+| 242 | 461 | Marci Mize Fandrich |
+| 243 | 461 | Tom Nault |
 | 244 | 458 | Danielle Rhoades |
 | 245 | 455 | Rebecca Funderburk Kirby |
 | 246 | 454 | Joye Sims Binion |
@@ -282,8 +282,8 @@
 | 274 | 412 | Jojo M |
 | 275 | 411 | Megan Rathmanner |
 | 276 | 410 | Duane Bright |
-| 277 | 408 | Tiffany Ford |
-| 278 | 408 | Marquita Sheard |
+| 277 | 408 | Marquita Sheard |
+| 278 | 408 | Tiffany Ford |
 | 279 | 406 | Kristal C Lee |
 | 280 | 405 | Steffi Chris Dacones |
 | 281 | 404 | Chasity |

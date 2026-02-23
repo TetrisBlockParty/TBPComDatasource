@@ -376,15 +376,15 @@
 | 368 | 919 | Isaac Trappiel IV |
 | 369 | 916 | Butta |
 | 370 | 915 | Kelly Trent |
-| 371 | 914 | William Hunt |
-| 372 | 914 | Shuany Arias |
+| 371 | 914 | Shuany Arias |
+| 372 | 914 | William Hunt |
 | 373 | 913 | blume |
 | 374 | 909 | Valerie Brooke Lusk Armstrong |
 | 375 | 907 | Gene Mills |
 | 376 | 907 | Kayla |
 | 377 | 904 | John Bednarik |
-| 378 | 903 | Giggy Blocker |
-| 379 | 903 | Eric Castaneda |
+| 378 | 903 | Eric Castaneda |
+| 379 | 903 | Giggy Blocker |
 | 380 | 902 | Diallo Sparkman |
 | 381 | 899 | Felicia Lynn |
 | 382 | 899 | Patrick Bartlett |
@@ -423,8 +423,8 @@
 | 415 | 832 | Nicole L Morelli |
 | 416 | 831 | Christina Lewis-Vickers |
 | 417 | 830 | Smashanator |
-| 418 | 829 | Angie Bolton Workman |
-| 419 | 829 | ToShi |
+| 418 | 829 | ToShi |
+| 419 | 829 | Angie Bolton Workman |
 | 420 | 828 | Kimmy Newman |
 | 421 | 825 | Jeremy Parodi |
 | 422 | 824 | Khalil Lowe |
@@ -652,8 +652,8 @@
 | 644 | 591 | Jessica Lamb |
 | 645 | 590 | Maddy Petersen |
 | 646 | 589 | Thomas Hedrick |
-| 647 | 589 | Shavonna Haynes |
-| 648 | 589 | Ben Barkley |
+| 647 | 589 | Ben Barkley |
+| 648 | 589 | Shavonna Haynes |
 | 649 | 589 | Kelly Templeton |
 | 650 | 588 | Kitybox |
 | 651 | 587 | Kelli Wells |
