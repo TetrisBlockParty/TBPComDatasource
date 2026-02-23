@@ -165,21 +165,21 @@
 | 157 | 414 | Swanky Fitline |
 | 158 | 413 | Circuit8 |
 | 159 | 412 | Jessica Bohlken |
-| 160 | 406 | Damn Libra |
-| 161 | 406 | Livvy |
+| 160 | 406 | Livvy |
+| 161 | 406 | Damn Libra |
 | 162 | 403 | Keith Kelley |
 | 163 | 402 | Lucas J Sutton |
 | 164 | 398 | Tyler Terrific |
 | 165 | 397 | Nick Gray |
-| 166 | 393 | Carlton Unfiltered |
-| 167 | 393 | Girl |
+| 166 | 393 | Girl |
+| 167 | 393 | Carlton Unfiltered |
 | 168 | 391 | Ramel Rhodes |
 | 169 | 389 | Joseph Guthrie |
 | 170 | 383 | Chris Bernstein |
 | 171 | 377 | Guy Incognito |
 | 172 | 375 | Desi Desporte |
-| 173 | 372 | Antony Dwayne Beasley |
-| 174 | 372 | George Nutt |
+| 173 | 372 | George Nutt |
+| 174 | 372 | Antony Dwayne Beasley |
 | 175 | 370 | Oscar Alberto Perez |
 | 176 | 370 | Denia Deni |
 | 177 | 369 | Lindsey Gonzalez |
@@ -248,13 +248,13 @@
 | 240 | 288 | Brittney Orengo |
 | 241 | 285 | 030Synner |
 | 242 | 284 | Matt Dell'Olio |
-| 243 | 282 | Kim Klutz Olson |
-| 244 | 282 | Matt Gooder |
+| 243 | 282 | Matt Gooder |
+| 244 | 282 | Kim Klutz Olson |
 | 245 | 281 | Laura |
 | 246 | 280 | Rio Rocha |
 | 247 | 279 | Malakai Darien Fox |
-| 248 | 278 | Sarah Brown |
-| 249 | 278 | Angela Geist Jusinski |
+| 248 | 278 | Angela Geist Jusinski |
+| 249 | 278 | Sarah Brown |
 | 250 | 276 | Joeliecea Cobb |
 | 251 | 276 | Cynthia Boudreau |
 | 252 | 275 | Kimberlee Jan Beckstead |
@@ -328,9 +328,9 @@
 | 320 | 223 | Chance Strickland |
 | 321 | 222 | Brandi Durig |
 | 322 | 221 | Rheanda Weaskus |
-| 323 | 220 | Jumpy Zonepiece |
-| 324 | 220 | Ziggy |
-| 325 | 220 | Nita Wells |
+| 323 | 220 | Ziggy |
+| 324 | 220 | Nita Wells |
+| 325 | 220 | Jumpy Zonepiece |
 | 326 | 220 | Tina Lopez |
 | 327 | 219 | Ari Droff |
 | 328 | 219 | Orchislactea |
@@ -379,7 +379,7 @@
 | 371 | 196 | Blessedmama |
 | 372 | 194 | SammieJo Guy |
 | 373 | 194 | Michelle Morris |
-| 374 | 194 | SammieJo Guy |
+| 374 | 194 | Zany Twisterfit |
 | 375 | 194 | Eri Kka |
 | 376 | 192 | Meg |
 | 377 | 192 | Ellen Durfee |
@@ -478,8 +478,8 @@
 | 470 | 158 | Jasmine S Caldwell |
 | 471 | 158 | Grann8 |
 | 472 | 157 | David Boggs |
-| 473 | 157 | Ryry |
-| 474 | 157 | LunaMoon |
+| 473 | 157 | LunaMoon |
+| 474 | 157 | Ryry |
 | 475 | 156 | Mighty Edgepiece |
 | 476 | 155 | Shirl |
 | 477 | 155 | tipsy tiger |
@@ -518,8 +518,8 @@
 | 510 | 146 | @ |
 | 511 | 145 | Austin Trent Weaver |
 | 512 | 145 | Glitzy Crasher |
-| 513 | 145 | Rico |
-| 514 | 145 | Jackie Clark |
+| 513 | 145 | Jackie Clark |
+| 514 | 145 | Rico |
 | 515 | 144 | Zach Kerbs |
 | 516 | 143 | Kristin MacDonald |
 | 517 | 143 | Sherri |
