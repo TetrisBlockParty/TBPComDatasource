@@ -244,8 +244,8 @@
 | 236 | 1466 | Julay |
 | 237 | 1463 | Yvonne Wharton |
 | 238 | 1452 | Cody Smith-Candelaria |
-| 239 | 1451 | Anna Edwards |
-| 240 | 1451 | Catina Hutchison |
+| 239 | 1451 | Catina Hutchison |
+| 240 | 1451 | Anna Edwards |
 | 241 | 1450 | Shiny Rollzone |
 | 242 | 1422 | Rebecca Garland |
 | 243 | 1418 | L3sli3 |

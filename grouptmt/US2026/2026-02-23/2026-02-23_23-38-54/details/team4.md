@@ -390,10 +390,10 @@
 | 382 | 259 | Allen Lloyd |
 | 383 | 258 | Lilya Troutman |
 | 384 | 258 | Stephme310 |
-| 385 | 257 | ĥuf |
-| 386 | 257 | Dustin York |
-| 387 | 257 | Michael Snow |
-| 388 | 257 | Alexandra Karavias |
+| 385 | 257 | Dustin York |
+| 386 | 257 | Alexandra Karavias |
+| 387 | 257 | ĥuf |
+| 388 | 257 | Michael Snow |
 | 389 | 256 | Mackenzie Forrester |
 | 390 | 256 | Gracie Ann Taylor |
 | 391 | 255 | PennyCandee |
@@ -495,7 +495,7 @@
 | 487 | 207 | Sam Middleton |
 | 488 | 207 | Jessica Wells |
 | 489 | 207 | SammieJo Guy |
-| 490 | 206 | Grann8 |
+| 490 | 206 | Globofish |
 | 491 | 206 | James Philpot Ross |
 | 492 | 206 | Grann8 |
 | 493 | 205 | ChasingZen |
@@ -508,7 +508,7 @@
 | 500 | 203 | Sho Nuff |
 | 501 | 203 | Courtney Halleck |
 | 502 | 202 | Jennifer Brown |
-| 503 | 201 | Carla Harris |
+| 503 | 201 | Ashlee Carnes |
 | 504 | 201 | Jake Roberts |
 | 505 | 201 | Carla Harris |
 | 506 | 201 | Mary Miller |

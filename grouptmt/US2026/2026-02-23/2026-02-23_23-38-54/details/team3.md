@@ -233,13 +233,13 @@
 | 225 | 585 | Jim Mathews |
 | 226 | 582 | Natasha Jones |
 | 227 | 580 | FuzzyNavel |
-| 228 | 569 | Michael Johnson |
-| 229 | 569 | Juliana Dottore |
+| 228 | 569 | Juliana Dottore |
+| 229 | 569 | Michael Johnson |
 | 230 | 568 | Rachael McClain Owens |
 | 231 | 567 | Trisha Balmer |
 | 232 | 566 | LaTanya GeminiondaRise Johnson |
-| 233 | 564 | Poppy Splitter |
-| 234 | 564 | Christine Trester |
+| 233 | 564 | Christine Trester |
+| 234 | 564 | Poppy Splitter |
 | 235 | 563 | Fallorina Susana |
 | 236 | 562 | Dave Herzog |
 | 237 | 561 | Silly Twist |

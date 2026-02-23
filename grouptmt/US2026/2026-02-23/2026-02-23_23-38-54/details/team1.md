@@ -226,8 +226,8 @@
 | 218 | 384 | Tami Luce Martin |
 | 219 | 383 | Margo Wagner |
 | 220 | 383 | pjbeta |
-| 221 | 382 | Angela Renea Lester |
-| 222 | 382 | David Lutcher |
+| 221 | 382 | David Lutcher |
+| 222 | 382 | Angela Renea Lester |
 | 223 | 381 | Alenoush Karimian |
 | 224 | 380 | Jen Nystrom |
 | 225 | 380 | Bindi |
