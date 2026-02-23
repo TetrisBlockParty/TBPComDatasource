@@ -311,8 +311,8 @@
 | 303 | 370 | Samantha Lynn |
 | 304 | 369 | Amber Glover |
 | 305 | 369 | Jennifer Alvey |
-| 306 | 368 | Sheila M Frazier |
-| 307 | 368 | Stephanie Woods |
+| 306 | 368 | Stephanie Woods |
+| 307 | 368 | Sheila M Frazier |
 | 308 | 365 | LaShey Thompson |
 | 309 | 362 | Foltz Lee Kelli |
 | 310 | 362 | Brandon Givens |

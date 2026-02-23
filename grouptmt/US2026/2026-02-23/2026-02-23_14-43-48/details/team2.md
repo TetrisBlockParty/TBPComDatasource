@@ -168,11 +168,11 @@
 | 160 | 1658 | Liberty |
 | 161 | 1653 | Michele Gabriel |
 | 162 | 1647 | Jessie McDougald |
-| 163 | 1644 | Speedy Spinblock |
-| 164 | 1644 | Luna |
+| 163 | 1644 | Luna |
+| 164 | 1644 | Speedy Spinblock |
 | 165 | 1640 | Scott Treadway |
-| 166 | 1629 | Rickey Johnson |
-| 167 | 1629 | Mari Ac |
+| 166 | 1629 | Mari Ac |
+| 167 | 1629 | Rickey Johnson |
 | 168 | 1625 | Cambrie Schultz |
 | 169 | 1613 | blackq |
 | 170 | 1605 | Christi Hulet |
@@ -580,8 +580,8 @@
 | 572 | 642 | Samantha Scibelli |
 | 573 | 642 | snkylnk |
 | 574 | 642 | Michelle Fields |
-| 575 | 639 | James Smith |
-| 576 | 639 | Belle Mari |
+| 575 | 639 | Belle Mari |
+| 576 | 639 | James Smith |
 | 577 | 639 | Andre Love |
 | 578 | 639 | Libby Hicks |
 | 579 | 639 | Toni Roberson |
@@ -620,8 +620,8 @@
 | 612 | 608 | Frilly Fallzone |
 | 613 | 608 | Tash Bell |
 | 614 | 607 | Slip |
-| 615 | 606 | Mike Aprilliano |
-| 616 | 606 | Lea Stewart |
+| 615 | 606 | Lea Stewart |
+| 616 | 606 | Mike Aprilliano |
 | 617 | 605 | Mandi Marie Smith |
 | 618 | 605 | Jermaine Harris |
 | 619 | 604 | Rae Rae |
@@ -881,12 +881,12 @@
 | 873 | 459 | Pocho Zavala |
 | 874 | 458 | Ys Muhammed |
 | 875 | 457 | Kelly Meredeith |
-| 876 | 457 | Jennifer Coe |
-| 877 | 457 | Kray Kray Katelynn |
+| 876 | 457 | Kray Kray Katelynn |
+| 877 | 457 | Jennifer Coe |
 | 878 | 457 | Antonio Mckoy Sr. |
 | 879 | 457 | Ryan Chan |
-| 880 | 456 | Sabrina Burton |
-| 881 | 456 | Candy Pitts |
+| 880 | 456 | Candy Pitts |
+| 881 | 456 | Sabrina Burton |
 | 882 | 455 | Darlene Bowman |
 | 883 | 453 | Epic Stackzone |
 | 884 | 452 | Mike73 |
@@ -905,8 +905,8 @@
 | 897 | 448 | Leah LaShomb |
 | 898 | 446 | Courtney Burcham |
 | 899 | 446 | Colin Morgan |
-| 900 | 445 | Mar Q Thomas |
-| 901 | 445 | Beatboxxer |
+| 900 | 445 | Beatboxxer |
+| 901 | 445 | Mar Q Thomas |
 | 902 | 444 | Taylor Flowers |
 | 903 | 444 | Cozy Drop |
 | 904 | 444 | Lynda Toland |

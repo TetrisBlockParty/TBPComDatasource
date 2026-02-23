@@ -11,7 +11,7 @@
 | 3 | 4533 | Kristy Wintermantel |
 | 4 | 3552 | Devinlee Brown |
 | 5 | 3491 | East Mamba |
-| 6 | 3423 | Kat |
+| 6 | 3388 | Kat |
 | 7 | 3128 | Alyssa Cox |
 | 8 | 2939 | Roger Coulter |
 | 9 | 2890 | Anthony Magaraci |
@@ -544,9 +544,9 @@
 | 536 | 149 | Boldy Linkpiece |
 | 537 | 148 | Bigeddie |
 | 538 | 148 | Backoff Recupe |
-| 539 | 147 | Laurmarcar |
-| 540 | 147 | Jay28 |
-| 541 | 147 | Hasty Fitzone |
+| 539 | 147 | Jay28 |
+| 540 | 147 | Hasty Fitzone |
+| 541 | 147 | Laurmarcar |
 | 542 | 146 | Oleg Zakharskiy |
 | 543 | 146 | Groovy Gridlock |
 | 544 | 146 | giantslover514 |
