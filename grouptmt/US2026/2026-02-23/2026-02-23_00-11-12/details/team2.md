@@ -381,8 +381,8 @@
 | 373 | 737 | Jeremy Parodi |
 | 374 | 737 | Ginger |
 | 375 | 734 | Deborah Miller |
-| 376 | 728 | Dylan Thomason |
-| 377 | 728 | Allan Wayne Lamia |
+| 376 | 728 | Allan Wayne Lamia |
+| 377 | 728 | Dylan Thomason |
 | 378 | 728 | Charvi' Carter |
 | 379 | 728 | Tom Riefer |
 | 380 | 725 | Vonceial Boone |
@@ -786,8 +786,8 @@
 | 778 | 385 | Cranky Tower |
 | 779 | 384 | Party d |
 | 780 | 384 | Lawanda Forbes |
-| 781 | 383 | Jane Crew |
-| 782 | 383 | Savannah Alexander |
+| 781 | 383 | Savannah Alexander |
+| 782 | 383 | Jane Crew |
 | 783 | 382 | Amber Gray |
 | 784 | 382 | Lively Edgepiece |
 | 785 | 382 | David Holliday |
@@ -933,7 +933,7 @@
 | 925 | 330 | AndrewandShela Gornik |
 | 926 | 330 | John Rodriguez |
 | 927 | 330 | Samuel Labruno |
-| 928 | 329 | Lea Stewart |
+| 928 | 329 | Epic Stackbuilder |
 | 929 | 329 | Joanna L. Abad |
 | 930 | 329 | Lea Stewart |
 | 931 | 328 | Dee Blokk |

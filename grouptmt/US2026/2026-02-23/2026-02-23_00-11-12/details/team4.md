@@ -157,8 +157,8 @@
 | 149 | 356 | Livvy |
 | 150 | 353 | Tyler Terrific |
 | 151 | 349 | Desi Desporte |
-| 152 | 348 | 🥔🥔 Spudz |
-| 153 | 348 | Silly Zonebuilder |
+| 152 | 348 | Silly Zonebuilder |
+| 153 | 348 | 🥔🥔 Spudz |
 | 154 | 347 | Daria Rycewicz |
 | 155 | 343 | Latisha Davis |
 | 156 | 342 | Klo |
@@ -248,8 +248,8 @@
 | 240 | 235 | LaDonna LovinmesomeMe Lambert |
 | 241 | 233 | Ruben Wheeler |
 | 242 | 232 | Rio Rocha |
-| 243 | 230 | Jade Rian |
-| 244 | 230 | blockstar |
+| 243 | 230 | blockstar |
+| 244 | 230 | Jade Rian |
 | 245 | 228 | Antony Dwayne Beasley |
 | 246 | 227 | BigSammy420 |
 | 247 | 226 | Dizzy Matchzone |
@@ -277,8 +277,8 @@
 | 269 | 212 | Orchislactea |
 | 270 | 211 | Christina Black |
 | 271 | 209 | Zany Shatterer |
-| 272 | 208 | Rebecca Morris |
-| 273 | 208 | Chantilly Laace |
+| 272 | 208 | Chantilly Laace |
+| 273 | 208 | Rebecca Morris |
 | 274 | 207 | Snippy Puzzle |
 | 275 | 205 | KayM |
 | 276 | 205 | James Hurley Jr. |

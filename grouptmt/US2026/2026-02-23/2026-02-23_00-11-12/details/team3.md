@@ -80,8 +80,8 @@
 | 72 | 970 | Rosalie Call Kehlenbeck |
 | 73 | 964 | Jennifer |
 | 74 | 945 | Christian A. Pollard |
-| 75 | 926 | Angela M. Fletcher |
-| 76 | 926 | Judi Dobson |
+| 75 | 926 | Judi Dobson |
+| 76 | 926 | Angela M. Fletcher |
 | 77 | 924 | Shonna Roberts |
 | 78 | 923 | Christine Filson |
 | 79 | 910 | Jay Horn |
@@ -166,8 +166,8 @@
 | 158 | 519 | Jone |
 | 159 | 517 | Denise Nardoni |
 | 160 | 512 | Silly Twist |
-| 161 | 506 | Stephanie Blkpep Davidson |
-| 162 | 506 | Sashay Tapae Simpson |
+| 161 | 506 | Sashay Tapae Simpson |
+| 162 | 506 | Stephanie Blkpep Davidson |
 | 163 | 505 | Danielle Balcom |
 | 164 | 504 | Jennifer Lynn Fahrenholtz-Summers |
 | 165 | 502 | Snappy Balancer |
@@ -269,8 +269,8 @@
 | 261 | 339 | Danielle Weikel |
 | 262 | 338 | Gumbo |
 | 263 | 336 | Steffi Chris Dacones |
-| 264 | 330 | Brittany |
-| 265 | 330 | victory |
+| 264 | 330 | victory |
+| 265 | 330 | Brittany |
 | 266 | 329 | Tye Stovall |
 | 267 | 329 | block chick |
 | 268 | 326 | Dee Franklin |
