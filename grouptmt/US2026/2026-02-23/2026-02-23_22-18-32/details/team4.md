@@ -149,8 +149,8 @@
 | 141 | 554 | Carlos Ramirez |
 | 142 | 551 | Ren Mc |
 | 143 | 546 | Dizzy Tiley |
-| 144 | 545 | Livvy |
-| 145 | 545 | Desi Desporte |
+| 144 | 545 | Desi Desporte |
+| 145 | 545 | Livvy |
 | 146 | 542 | Austin Owens |
 | 147 | 540 | Rodney McMath Jr. |
 | 148 | 536 | Kimberlee Jan Beckstead |
@@ -195,8 +195,8 @@
 | 187 | 465 | Jolly Dashfit |
 | 188 | 464 | Sharyn Lemire |
 | 189 | 462 | Leslie Thomas |
-| 190 | 457 | June Hoffman |
-| 191 | 457 | Kristin Manee |
+| 190 | 457 | Kristin Manee |
+| 191 | 457 | June Hoffman |
 | 192 | 455 | Michele Plunkett |
 | 193 | 450 | Amanda Pauldo-Ivy |
 | 194 | 449 | Rebecca Morris |
@@ -222,16 +222,16 @@
 | 214 | 422 | Zakia Monae |
 | 215 | 421 | JIGsaw ~(•¿°)~ |
 | 216 | 419 | Chris Bernstein |
-| 217 | 418 | Lush Linkfall |
-| 218 | 418 | Marie-Pier Desjardins |
+| 217 | 418 | Marie-Pier Desjardins |
+| 218 | 418 | Lush Linkfall |
 | 219 | 413 | John Brunetti |
 | 220 | 411 | Mimi |
-| 221 | 411 | Silly Zonebuilder |
-| 222 | 411 | Autumn Kumzi |
+| 221 | 411 | Autumn Kumzi |
+| 222 | 411 | Silly Zonebuilder |
 | 223 | 409 | Antony Dwayne Beasley |
 | 224 | 400 | TinyLegoRose |
-| 225 | 399 | Lindsay Ball |
-| 226 | 399 | Jeff Brian Gates |
+| 225 | 399 | Jeff Brian Gates |
+| 226 | 399 | Lindsay Ball |
 | 227 | 398 | Tyler Terrific |
 | 228 | 394 | Nita Wells |
 | 229 | 390 | Kathy Brookins |
@@ -256,14 +256,14 @@
 | 248 | 369 | Rafael Valentin |
 | 249 | 368 | Kris Bartlett |
 | 250 | 367 | Meg |
-| 251 | 366 | Andrew Dang |
-| 252 | 366 | Cheery Risebuilder |
+| 251 | 366 | Cheery Risebuilder |
+| 252 | 366 | Andrew Dang |
 | 253 | 365 | Hyper Builder |
 | 254 | 363 | KimoKoala |
 | 255 | 363 | TRCuse |
 | 256 | 361 | Danielle Kollias |
-| 257 | 360 | James Hurley Jr. |
-| 258 | 360 | Ari Droff |
+| 257 | 360 | Ari Droff |
+| 258 | 360 | James Hurley Jr. |
 | 259 | 358 | Twisty Cascadezone |
 | 260 | 356 | Joeliecea Cobb |
 | 261 | 356 | mike |
@@ -371,8 +371,8 @@
 | 363 | 265 | Lorena Guerrero-Barron |
 | 364 | 265 | Degenerate |
 | 365 | 264 | AyeKay |
-| 366 | 262 | Selena Shaw |
-| 367 | 262 | Ruben Wheeler |
+| 366 | 262 | Ruben Wheeler |
+| 367 | 262 | Selena Shaw |
 | 368 | 261 | Jason Frehner |
 | 369 | 260 | Carter Jones |
 | 370 | 259 | Allen Lloyd |
@@ -530,9 +530,9 @@
 | 522 | 186 | Dandy Cascadefit |
 | 523 | 185 | Rebecca Blake |
 | 524 | 185 | Joshua Guess |
-| 525 | 185 | Rebecca Blake |
-| 526 | 183 | Will Chamberlain |
-| 527 | 183 | Krash |
+| 525 | 185 | Eric Wren |
+| 526 | 183 | Krash |
+| 527 | 183 | Will Chamberlain |
 | 528 | 183 | Darrin Rubalcava |
 | 529 | 182 | Cheery Towerzone |
 | 530 | 182 | Neil Ingham |

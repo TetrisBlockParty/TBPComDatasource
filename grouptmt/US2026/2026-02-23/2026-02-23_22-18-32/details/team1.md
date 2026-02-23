@@ -70,8 +70,8 @@
 | 62 | 985 | Jason Jones |
 | 63 | 981 | Kristen Roles Robben |
 | 64 | 978 | Amber Stoker |
-| 65 | 974 | TSwag |
-| 66 | 974 | Veronica Eve |
+| 65 | 974 | Veronica Eve |
+| 66 | 974 | TSwag |
 | 67 | 966 | Shalene Frederick Autrey |
 | 68 | 963 | Francesca Gee |
 | 69 | 951 | Zippy Align |
@@ -102,8 +102,8 @@
 | 94 | 740 | Lori Sanders- Davis |
 | 95 | 722 | Kellie |
 | 96 | 717 | Madison Wicks |
-| 97 | 706 | Plucky Fallzone |
-| 98 | 706 | Denice Dee |
+| 97 | 706 | Denice Dee |
+| 98 | 706 | Plucky Fallzone |
 | 99 | 704 | Karin Gillen |
 | 100 | 703 | Angel Fowler |
 | 101 | 679 | Melissa Lemmon |
@@ -310,11 +310,11 @@
 | 302 | 311 | Nathan Sealander |
 | 303 | 310 | Mrs.Patrica |
 | 304 | 309 | Larry Tilton |
-| 305 | 308 | Bob |
-| 306 | 308 | Glitzy Curvebuilder |
+| 305 | 308 | Glitzy Curvebuilder |
+| 306 | 308 | Bob |
 | 307 | 306 | Cece Ibarra |
-| 308 | 305 | Amh |
-| 309 | 305 | Chase Collinsworth |
+| 308 | 305 | Chase Collinsworth |
+| 309 | 305 | Amh |
 | 310 | 303 | DaRascal |
 | 311 | 302 | Bird Person |
 | 312 | 302 | LaFontaine Leslie |
@@ -416,8 +416,8 @@
 | 408 | 246 | ken |
 | 409 | 245 | Rico Rico |
 | 410 | 244 | Scott Betson |
-| 411 | 243 | Bouncy Grid |
-| 412 | 243 | Charlie Walker |
+| 411 | 243 | Charlie Walker |
+| 412 | 243 | Bouncy Grid |
 | 413 | 242 | Strig |
 | 414 | 242 | Tamara Brown |
 | 415 | 242 | Bay Marie |

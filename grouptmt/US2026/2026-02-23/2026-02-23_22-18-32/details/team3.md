@@ -228,8 +228,8 @@
 | 220 | 582 | Natasha Jones |
 | 221 | 581 | Dee Pratt |
 | 222 | 572 | FuzzyNavel |
-| 223 | 569 | Juliana Dottore |
-| 224 | 569 | Michael Johnson |
+| 223 | 569 | Michael Johnson |
+| 224 | 569 | Juliana Dottore |
 | 225 | 568 | Rachael McClain Owens |
 | 226 | 566 | LaTanya GeminiondaRise Johnson |
 | 227 | 564 | Poppy Splitter |
@@ -304,8 +304,8 @@
 | 296 | 453 | Sarah Moyer |
 | 297 | 451 | Charles Perrone |
 | 298 | 450 | Antonia Russell |
-| 299 | 449 | Mcathen |
-| 300 | 449 | Stefanie LaPointe |
+| 299 | 449 | Stefanie LaPointe |
+| 300 | 449 | Mcathen |
 | 301 | 448 | Scott Carleton |
 | 302 | 443 | Randy Clevenger |
 | 303 | 437 | Loopy Clusterer |

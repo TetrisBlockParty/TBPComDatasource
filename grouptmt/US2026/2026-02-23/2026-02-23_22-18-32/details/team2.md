@@ -318,13 +318,13 @@
 | 310 | 1179 | Georgia Triblett |
 | 311 | 1172 | Kristin Gower |
 | 312 | 1172 | Lakeysha Dortch |
-| 313 | 1171 | Sarah block |
-| 314 | 1171 | Loretta Brewer-Gage |
+| 313 | 1171 | Loretta Brewer-Gage |
+| 314 | 1171 | Sarah block |
 | 315 | 1164 | Hillary Crawford |
 | 316 | 1163 | Erika Densmore |
 | 317 | 1158 | Brittany Clark |
-| 318 | 1156 | Alezandra Smith |
-| 319 | 1156 | Arkei Luster |
+| 318 | 1156 | Arkei Luster |
+| 319 | 1156 | Alezandra Smith |
 | 320 | 1155 | F-X |
 | 321 | 1145 | Deborah Miller |
 | 322 | 1142 | April Dawn Gussler |
@@ -450,8 +450,8 @@
 | 442 | 899 | Chevy |
 | 443 | 898 | Dylan Thomason |
 | 444 | 897 | Jamie Schmitt |
-| 445 | 895 | Donna Colby |
-| 446 | 895 | Lisa Ongtowasruk |
+| 445 | 895 | Lisa Ongtowasruk |
+| 446 | 895 | Donna Colby |
 | 447 | 894 | Adira Brown |
 | 448 | 892 | Samantha Scibelli |
 | 449 | 890 | Alex Stone LaRue |
@@ -531,8 +531,8 @@
 | 523 | 790 | Mama T |
 | 524 | 789 | Leslie Jorgenson |
 | 525 | 788 | Samuel Macon |
-| 526 | 786 | Charvi' Carter |
-| 527 | 786 | Kimberly Randesi |
+| 526 | 786 | Kimberly Randesi |
+| 527 | 786 | Charvi' Carter |
 | 528 | 785 | Miranda Morris |
 | 529 | 781 | Sarah Berger |
 | 530 | 779 | Trinity Oak |
@@ -571,8 +571,8 @@
 | 563 | 749 | Frothy Rumbler |
 | 564 | 747 | Frisky Clearpiece |
 | 565 | 744 | Mikayala Szaz |
-| 566 | 742 | Frisky Riserbuilder |
-| 567 | 742 | Cassie Maynard |
+| 566 | 742 | Cassie Maynard |
+| 567 | 742 | Frisky Riserbuilder |
 | 568 | 741 | Davetta Sanford |
 | 569 | 741 | Giggy Mover |
 | 570 | 740 | Jerry Tempelmeyer |
