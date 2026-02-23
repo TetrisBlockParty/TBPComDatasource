@@ -202,8 +202,8 @@
 | 194 | 347 | Elaine Elaine |
 | 195 | 346 | GATOR |
 | 196 | 345 | Jerry Danowski |
-| 197 | 342 | Snippy Wipebuilder |
-| 198 | 342 | Dino |
+| 197 | 342 | Dino |
+| 198 | 342 | Snippy Wipebuilder |
 | 199 | 341 | Nick R Montague |
 | 200 | 339 | Nicole Roseberry Weber |
 | 201 | 337 | Jamise Brown |
@@ -233,8 +233,8 @@
 | 225 | 304 | Sarah Somers Gray |
 | 226 | 301 | Damon J. Martin |
 | 227 | 300 | Sleepysloath5745 |
-| 228 | 298 | Sweetts |
-| 229 | 298 | Billie Ann Eason |
+| 228 | 298 | Billie Ann Eason |
+| 229 | 298 | Sweetts |
 | 230 | 295 | Lakeisha Chapman |
 | 231 | 294 | Chuck Gannon |
 | 232 | 293 | John Kim |
@@ -245,8 +245,8 @@
 | 237 | 287 | Sassy Builderline |
 | 238 | 285 | Shanae Grant |
 | 239 | 285 | Bird Person |
-| 240 | 284 | Sam Williams |
-| 241 | 284 | Sir-Franchise Drake |
+| 240 | 284 | Sir-Franchise Drake |
+| 241 | 284 | Sam Williams |
 | 242 | 283 | Franswa |
 | 243 | 282 | Timothy Dew |
 | 244 | 281 | Clever Cascadepiece |
@@ -381,11 +381,11 @@
 | 373 | 202 | Krie |
 | 374 | 202 | Andrew Backes |
 | 375 | 201 | Colleen Wise |
-| 376 | 201 | Tedashi |
-| 377 | 201 | Rico Rico |
+| 376 | 201 | Rico Rico |
+| 377 | 201 | Tedashi |
 | 378 | 200 | Zesty Brickzone |
-| 379 | 199 | Larissa Marie Nelson |
-| 380 | 199 | Tina Englert |
+| 379 | 199 | Tina Englert |
+| 380 | 199 | Larissa Marie Nelson |
 | 381 | 198 | Marci Sanders |
 | 382 | 197 | Cool Towerzone |
 | 383 | 196 | Steph |

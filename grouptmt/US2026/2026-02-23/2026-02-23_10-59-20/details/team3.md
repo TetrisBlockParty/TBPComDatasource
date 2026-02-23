@@ -121,8 +121,8 @@
 | 113 | 839 | Angeline Joseph |
 | 114 | 830 | Stephanie Allmon |
 | 115 | 826 | Shane Wilson Jr. |
-| 116 | 816 | Brenda Lee Vander Molen |
-| 117 | 816 | Jesse Olive |
+| 116 | 816 | Jesse Olive |
+| 117 | 816 | Brenda Lee Vander Molen |
 | 118 | 802 | Bobbi Moore |
 | 119 | 800 | Lauren Girouard |
 | 120 | 799 | Dolores Falco |
@@ -187,8 +187,8 @@
 | 179 | 572 | CeceGeGe |
 | 180 | 568 | Rachael McClain Owens |
 | 181 | 566 | LaTanya GeminiondaRise Johnson |
-| 182 | 564 | Poppy Splitter |
-| 183 | 564 | Christine Trester |
+| 182 | 564 | Christine Trester |
+| 183 | 564 | Poppy Splitter |
 | 184 | 563 | Jim Mathews |
 | 185 | 562 | Dave Herzog |
 | 186 | 559 | Patti Skiles |
@@ -289,8 +289,8 @@
 | 281 | 369 | Philip Rock |
 | 282 | 369 | Amber Glover |
 | 283 | 369 | Keis |
-| 284 | 368 | Stephanie Woods |
-| 285 | 368 | Sheila M Frazier |
+| 284 | 368 | Sheila M Frazier |
+| 285 | 368 | Stephanie Woods |
 | 286 | 366 | Gumbo |
 | 287 | 362 | Brandon Givens |
 | 288 | 360 | Cesar Barraza |
@@ -345,8 +345,8 @@
 | 337 | 311 | Troy |
 | 338 | 309 | Desiree Gold |
 | 339 | 309 | Cheeky Snapper |
-| 340 | 308 | Katrina Turner |
-| 341 | 308 | Tia |
+| 340 | 308 | Tia |
+| 341 | 308 | Katrina Turner |
 | 342 | 305 | Hyper Matchzone |
 | 343 | 304 | _melisa223_ |
 | 344 | 303 | Alexmac |
@@ -400,8 +400,8 @@
 | 392 | 273 | Quackers |
 | 393 | 273 | Kevin Fountain |
 | 394 | 272 | Romeo |
-| 395 | 272 | Tay |
-| 396 | 272 | Todd Hall |
+| 395 | 272 | Todd Hall |
+| 396 | 272 | Tay |
 | 397 | 269 | Goofy Fall |
 | 398 | 269 | Jess Bissett |
 | 399 | 269 | Samantha Worley |
@@ -949,8 +949,8 @@
 | 941 | 121 | Happy Strikesnap |
 | 942 | 121 | Zakia Foster |
 | 943 | 120 | Dreamy Riserfit |
-| 944 | 120 | Funky Matchzone |
-| 945 | 120 | Tyler Shoff |
+| 944 | 120 | Tyler Shoff |
+| 945 | 120 | Funky Matchzone |
 | 946 | 120 | Amanda Brooke |
 | 947 | 119 | Mari |
 | 948 | 119 | Brian Quigley |

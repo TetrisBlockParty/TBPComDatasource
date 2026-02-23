@@ -44,8 +44,8 @@
 | 36 | 4280 | Robert Diddle |
 | 37 | 4199 | Claire Noland |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Corrine Hawks Soriano |
-| 40 | 4120 | Kristen Sceurman |
+| 39 | 4120 | Kristen Sceurman |
+| 40 | 4120 | Corrine Hawks Soriano |
 | 41 | 3947 | Melinda Brown |
 | 42 | 3845 | jayjay |
 | 43 | 3827 | Karen Kman Van Heirseele |
@@ -172,8 +172,8 @@
 | 164 | 1581 | Brandy Andre |
 | 165 | 1580 | Sally Dennis |
 | 166 | 1574 | Stephen Stephen |
-| 167 | 1558 | Crystal Slaughter |
-| 168 | 1558 | Tim Dyer |
+| 167 | 1558 | Tim Dyer |
+| 168 | 1558 | Crystal Slaughter |
 | 169 | 1555 | blarg |
 | 170 | 1543 | Amy Sayers |
 | 171 | 1541 | Cherica Taylor |
@@ -307,8 +307,8 @@
 | 299 | 1014 | Michele Morgan |
 | 300 | 1011 | Teresa Gillmore |
 | 301 | 1003 | Andrea Maher |
-| 302 | 998 | Keri Womack |
-| 303 | 998 | Shelley Thornburgh Wright |
+| 302 | 998 | Shelley Thornburgh Wright |
+| 303 | 998 | Keri Womack |
 | 304 | 996 | Ashie Ann |
 | 305 | 987 | Osun Anuket Esu |
 | 306 | 979 | Melissa Penelope Ann Dodge |
@@ -491,8 +491,8 @@
 | 483 | 700 | Beverly Owens |
 | 484 | 699 | Dannette Goldberg-Richards |
 | 485 | 697 | Gary Stash |
-| 486 | 697 | Poldo Ilano |
-| 487 | 697 | Darla Silva |
+| 486 | 697 | Darla Silva |
+| 487 | 697 | Poldo Ilano |
 | 488 | 695 | Lakeysha Dortch |
 | 489 | 693 | Ryan Stadel |
 | 490 | 692 | Shaun Church |
@@ -501,8 +501,8 @@
 | 493 | 689 | Gauri Shrotriya |
 | 494 | 686 | Christine Coughlin |
 | 495 | 684 | Sarah DeHart |
-| 496 | 684 | Ellie Jonas |
-| 497 | 684 | Ann Knutson Anderson |
+| 496 | 684 | Ann Knutson Anderson |
+| 497 | 684 | Ellie Jonas |
 | 498 | 682 | Vanessa Moreno |
 | 499 | 682 | Antionette Sewell |
 | 500 | 681 | Gloria Liu |
@@ -510,12 +510,12 @@
 | 502 | 680 | blume |
 | 503 | 679 | Kassandra Hunt |
 | 504 | 679 | Prette Qui |
-| 505 | 677 | Jackie Burnett |
-| 506 | 677 | Paul Combs |
+| 505 | 677 | Paul Combs |
+| 506 | 677 | Jackie Burnett |
 | 507 | 677 | Kayleigh Wisse |
 | 508 | 677 | Amanda Woodruff |
-| 509 | 676 | Nicky Jackson |
-| 510 | 676 | Roseanna Peloso |
+| 509 | 676 | Roseanna Peloso |
+| 510 | 676 | Nicky Jackson |
 | 511 | 675 | Lonne Emade |
 | 512 | 675 | Katelynn Hollen |
 | 513 | 674 | Ashley Munn |
@@ -578,11 +578,11 @@
 | 570 | 614 | Emilee Burke |
 | 571 | 614 | Jessica S Flecha |
 | 572 | 613 | Audrey Jones |
-| 573 | 612 | Briana Alexander |
-| 574 | 612 | Slinky Racker |
+| 573 | 612 | Slinky Racker |
+| 574 | 612 | Briana Alexander |
 | 575 | 610 | Michael Buckner |
-| 576 | 609 | Cecilia A Jenkins |
-| 577 | 609 | Autumn Schaeffer |
+| 576 | 609 | Autumn Schaeffer |
+| 577 | 609 | Cecilia A Jenkins |
 | 578 | 607 | James Smith |
 | 579 | 607 | Miranda Morris |
 | 580 | 606 | Lea Stewart |
@@ -634,12 +634,12 @@
 | 626 | 569 | Slip |
 | 627 | 569 | Sparkles |
 | 628 | 566 | Lindsey Leigh |
-| 629 | 566 | Tina Marie |
+| 629 | 566 | SwampRebel |
 | 630 | 566 | Isabelle Bonneau |
-| 631 | 566 | SwampRebel |
+| 631 | 566 | Tina Marie |
 | 632 | 564 | Stacey Tranchida |
-| 633 | 563 | Nat |
-| 634 | 563 | Frisky Clearpiece |
+| 633 | 563 | Frisky Clearpiece |
+| 634 | 563 | Nat |
 | 635 | 562 | Sabrena Yeisley |
 | 636 | 559 | Alexx Anaya |
 | 637 | 559 | Anthony Huebel |
@@ -726,8 +726,8 @@
 | 718 | 500 | Ryan Meilleur |
 | 719 | 500 | Amy Reynolds |
 | 720 | 499 | Demitri Smith |
-| 721 | 499 | Martina Gabrielle LaPolla |
-| 722 | 499 | Besma Ao |
+| 721 | 499 | Besma Ao |
+| 722 | 499 | Martina Gabrielle LaPolla |
 | 723 | 498 | Abimbola Bimbo |
 | 724 | 498 | Chummy Blockbuilder |
 | 725 | 497 | June E Hanson |
@@ -806,8 +806,8 @@
 | 798 | 464 | Lively Edgepiece |
 | 799 | 463 | Jaye EL Hunter |
 | 800 | 463 | Murray Marie |
-| 801 | 462 | Cleo Sims |
-| 802 | 462 | Samantha Scibelli |
+| 801 | 462 | Samantha Scibelli |
+| 802 | 462 | Cleo Sims |
 | 803 | 462 | Kia Humphery |
 | 804 | 461 | Julie Hamilton |
 | 805 | 461 | Amanda Segura |
@@ -819,8 +819,8 @@
 | 811 | 458 | Ys Muhammed |
 | 812 | 457 | Kelly Meredeith |
 | 813 | 457 | Ryan Chan |
-| 814 | 457 | Kray Kray Katelynn |
-| 815 | 457 | Jennifer Coe |
+| 814 | 457 | Jennifer Coe |
+| 815 | 457 | Kray Kray Katelynn |
 | 816 | 456 | Sabrina Burton |
 | 817 | 456 | ItsJennifer Neriss |
 | 818 | 455 | Darlene Bowman |
@@ -832,8 +832,8 @@
 | 824 | 451 | Stefanie Zonzini-Gagliardi |
 | 825 | 451 | Sharon Mills |
 | 826 | 450 | sup |
-| 827 | 449 | Jas |
-| 828 | 449 | Heather Sawtelle-Mckenzie |
+| 827 | 449 | Heather Sawtelle-Mckenzie |
+| 828 | 449 | Jas |
 | 829 | 449 | Kristi Biddinger |
 | 830 | 448 | Anastacio Hernandez |
 | 831 | 448 | Leah LaShomb |

@@ -62,10 +62,10 @@
 | 54 | 870 | BertMofo |
 | 55 | 864 | Shelly Chandler |
 | 56 | 863 | Pee |
-| 57 | 859 | Christina LR |
-| 58 | 859 | TeeJ |
-| 59 | 846 | Lucille Truesdale |
-| 60 | 846 | Christine Marie |
+| 57 | 859 | TeeJ |
+| 58 | 859 | Christina LR |
+| 59 | 846 | Christine Marie |
+| 60 | 846 | Lucille Truesdale |
 | 61 | 845 | LisaJo Picken Buchanan |
 | 62 | 834 | quicksand420 |
 | 63 | 807 | Rachel Anne |
@@ -129,8 +129,8 @@
 | 121 | 514 | Serena Goodridge |
 | 122 | 514 | Scott Jameson |
 | 123 | 513 | Erin Thomas |
-| 124 | 512 | Cristy Duerksen |
-| 125 | 512 | Casey Jeffcoat |
+| 124 | 512 | Casey Jeffcoat |
+| 125 | 512 | Cristy Duerksen |
 | 126 | 509 | Leslie Nicole |
 | 127 | 485 | Melissa Adams |
 | 128 | 483 | Angela Srubar-Norman |
@@ -177,8 +177,8 @@
 | 169 | 383 | Chris Bernstein |
 | 170 | 377 | Guy Incognito |
 | 171 | 375 | Desi Desporte |
-| 172 | 372 | George Nutt |
-| 173 | 372 | Antony Dwayne Beasley |
+| 172 | 372 | Antony Dwayne Beasley |
+| 173 | 372 | George Nutt |
 | 174 | 370 | Oscar Alberto Perez |
 | 175 | 369 | Lindsey Gonzalez |
 | 176 | 368 | Silly Zonebuilder |
@@ -247,8 +247,8 @@
 | 239 | 285 | 030Synner |
 | 240 | 284 | Matt Dell'Olio |
 | 241 | 284 | Mimi |
-| 242 | 282 | Kim Klutz Olson |
-| 243 | 282 | Matt Gooder |
+| 242 | 282 | Matt Gooder |
+| 243 | 282 | Kim Klutz Olson |
 | 244 | 281 | Laura |
 | 245 | 280 | Rio Rocha |
 | 246 | 279 | Malakai Darien Fox |
@@ -270,8 +270,8 @@
 | 262 | 264 | ZeeZee |
 | 263 | 264 | Stella |
 | 264 | 263 | rebel4lyfe |
-| 265 | 262 | Selena Shaw |
-| 266 | 262 | BigSammy420 |
+| 265 | 262 | BigSammy420 |
+| 266 | 262 | Selena Shaw |
 | 267 | 261 | Zethra Prenisha Rahming |
 | 268 | 260 | Carter Jones |
 | 269 | 259 | Allen Lloyd |
@@ -287,8 +287,8 @@
 | 279 | 253 | Shiny Fit |
 | 280 | 251 | Carol Ricks Raymond |
 | 281 | 249 | Ak Jones |
-| 282 | 248 | Angelito |
-| 283 | 248 | Chirpy Basepiece |
+| 282 | 248 | Chirpy Basepiece |
+| 283 | 248 | Angelito |
 | 284 | 248 | Jose Dejesus |
 | 285 | 245 | 23 |
 | 286 | 244 | Elizabeth Tinoco |
@@ -326,8 +326,8 @@
 | 318 | 223 | Adawna Swires |
 | 319 | 222 | Brandi Durig |
 | 320 | 221 | Rheanda Weaskus |
-| 321 | 220 | Nita Wells |
-| 322 | 220 | Ziggy |
+| 321 | 220 | Ziggy |
+| 322 | 220 | Nita Wells |
 | 323 | 220 | Jumpy Zonepiece |
 | 324 | 220 | Tina Lopez |
 | 325 | 219 | Orchislactea |
@@ -338,9 +338,9 @@
 | 330 | 217 | Paito |
 | 331 | 217 | Cheery Fitline |
 | 332 | 215 | 07VHVW |
-| 333 | 214 | B Renee Desjardin |
-| 334 | 214 | Stacey Stano |
-| 335 | 214 | Patron Anderson |
+| 333 | 214 | Patron Anderson |
+| 334 | 214 | B Renee Desjardin |
+| 335 | 214 | Stacey Stano |
 | 336 | 213 | Jackie Marie |
 | 337 | 213 | Deb Rubeck |
 | 338 | 212 | Brave Spinbuilder |
@@ -424,8 +424,8 @@
 | 416 | 175 | Jim Hart |
 | 417 | 175 | Neirrah B Olailjeel |
 | 418 | 175 | Lorena Guerrero-Barron |
-| 419 | 174 | Jason Frehner |
-| 420 | 174 | Chummy Towerzone |
+| 419 | 174 | Chummy Towerzone |
+| 420 | 174 | Jason Frehner |
 | 421 | 173 | Tanner Lund |
 | 422 | 172 | Janis Brown |
 | 423 | 172 | Undeniable Williams |
@@ -569,11 +569,11 @@
 | 561 | 128 | Lazy Glidepiece |
 | 562 | 128 | Raymond Roberts |
 | 563 | 127 | Jay You |
-| 564 | 126 | Spicy Cascadezone |
-| 565 | 126 | Jennifer Renee |
-| 566 | 126 | PAPatty |
-| 567 | 125 | ImJustMe |
-| 568 | 125 | Kelly Adams Carnahan |
+| 564 | 126 | PAPatty |
+| 565 | 126 | Spicy Cascadezone |
+| 566 | 126 | Jennifer Renee |
+| 567 | 125 | Kelly Adams Carnahan |
+| 568 | 125 | ImJustMe |
 | 569 | 125 | Christina Nabrizny |
 | 570 | 124 | Raeann Gibson |
 | 571 | 124 | Atia Scott |
