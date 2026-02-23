@@ -152,8 +152,8 @@
 | 144 | 717 | Alaina Lee |
 | 145 | 716 | Annie Marie |
 | 146 | 714 | Jenny Hrndz |
-| 147 | 710 | Santeria Trece Candles |
-| 148 | 710 | Grego Daniel |
+| 147 | 710 | Grego Daniel |
+| 148 | 710 | Santeria Trece Candles |
 | 149 | 706 | Kiki |
 | 150 | 702 | Patty Allen |
 | 151 | 696 | Christine Niles |
@@ -198,8 +198,8 @@
 | 190 | 562 | Dave Herzog |
 | 191 | 561 | Elissa S-k |
 | 192 | 559 | Patti Skiles |
-| 193 | 549 | Tasha Schriewer |
-| 194 | 549 | Sarah Cowan Burgos |
+| 193 | 549 | Sarah Cowan Burgos |
+| 194 | 549 | Tasha Schriewer |
 | 195 | 548 | Danielle Balcom |
 | 196 | 547 | Staci George Fitzsimmons |
 | 197 | 546 | Cynthia Castros-Hampton |
@@ -286,8 +286,8 @@
 | 278 | 403 | lashanda |
 | 279 | 400 | Dana Winters |
 | 280 | 395 | rosy |
-| 281 | 393 | kacihall |
-| 282 | 393 | Juliana Dottore |
+| 281 | 393 | Juliana Dottore |
+| 282 | 393 | kacihall |
 | 283 | 390 | Charles Perrone |
 | 284 | 387 | Gideon Walker |
 | 285 | 386 | Darlene McMillan |
@@ -444,10 +444,10 @@
 | 436 | 269 | Goofy Fall |
 | 437 | 268 | Julia Nicole |
 | 438 | 268 | Jessica Lynn French |
-| 439 | 267 | April Matthew Kibble |
-| 440 | 267 | Michael Kimbro |
-| 441 | 266 | Sarah Muradyan |
-| 442 | 266 | Quirky Dropzone |
+| 439 | 267 | Michael Kimbro |
+| 440 | 267 | April Matthew Kibble |
+| 441 | 266 | Quirky Dropzone |
+| 442 | 266 | Sarah Muradyan |
 | 443 | 265 | Jack Bo |
 | 444 | 265 | AlsoJess |
 | 445 | 264 | Sdot |

@@ -345,8 +345,8 @@
 | 337 | 958 | Kathryn Townsley |
 | 338 | 958 | Brenda Messer |
 | 339 | 958 | Doowop40 |
-| 340 | 957 | Block Master |
-| 341 | 957 | Matthew Joseph Acevedo |
+| 340 | 957 | Matthew Joseph Acevedo |
+| 341 | 957 | Block Master |
 | 342 | 955 | Angela Bonquiqui Dinish |
 | 343 | 954 | Melissa McCall |
 | 344 | 952 | Arkei Luster |

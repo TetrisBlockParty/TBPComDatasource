@@ -132,8 +132,8 @@
 | 124 | 475 | Giddy Cascade |
 | 125 | 475 | Sarah Somers Gray |
 | 126 | 471 | Hyper |
-| 127 | 467 | Candy Jones |
-| 128 | 467 | Constance Risner |
+| 127 | 467 | Constance Risner |
+| 128 | 467 | Candy Jones |
 | 129 | 466 | Adrian Esteban |
 | 130 | 463 | Lexuriuos Lifestlye |
 | 131 | 462 | Luciano Moreira |
@@ -273,8 +273,8 @@
 | 265 | 286 | Sarahdactyl |
 | 266 | 285 | Shanae Grant |
 | 267 | 284 | Sam Williams |
-| 268 | 283 | Franswa |
-| 269 | 283 | Larry Tilton |
+| 268 | 283 | Larry Tilton |
+| 269 | 283 | Franswa |
 | 270 | 282 | Timothy Dew |
 | 271 | 281 | Clever Cascadepiece |
 | 272 | 280 | Billie Dawn Sparks |

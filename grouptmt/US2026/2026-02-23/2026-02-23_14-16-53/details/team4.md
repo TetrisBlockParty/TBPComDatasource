@@ -50,8 +50,8 @@
 | 42 | 1124 | Jae Job |
 | 43 | 1085 | Ashley Ingram |
 | 44 | 1085 | Kimyatta Cavin |
-| 45 | 1082 | Dawn Alexander |
-| 46 | 1082 | Dion Crommarty |
+| 45 | 1082 | Dion Crommarty |
+| 46 | 1082 | Dawn Alexander |
 | 47 | 1071 | Cherrish Duren |
 | 48 | 1065 | Koshin Abdirahman |
 | 49 | 1049 | Heather Tushner |
@@ -72,8 +72,8 @@
 | 64 | 846 | Christine Marie |
 | 65 | 846 | Lucille Truesdale |
 | 66 | 834 | quicksand420 |
-| 67 | 807 | Amelpss |
-| 68 | 807 | Rachel Anne |
+| 67 | 807 | Rachel Anne |
+| 68 | 807 | Amelpss |
 | 69 | 802 | Crystal Carroll |
 | 70 | 794 | Julian Garcia |
 | 71 | 788 | Chilly Line |
@@ -126,8 +126,8 @@
 | 118 | 552 | Chilly Crasher |
 | 119 | 551 | Ren Mc |
 | 120 | 545 | Desi Desporte |
-| 121 | 542 | Austin Owens |
-| 122 | 542 | Chris Hartig |
+| 121 | 542 | Chris Hartig |
+| 122 | 542 | Austin Owens |
 | 123 | 540 | Rodney McMath Jr. |
 | 124 | 538 | shar |
 | 125 | 537 | Dizzy Tiley |
@@ -212,8 +212,8 @@
 | 204 | 354 | TRCuse |
 | 205 | 354 | Kris Bartlett |
 | 206 | 352 | Sue Joyce Staats |
-| 207 | 348 | April Rondinone |
-| 208 | 348 | David Lay |
+| 207 | 348 | David Lay |
+| 208 | 348 | April Rondinone |
 | 209 | 347 | Crystal Nicolette Moore |
 | 210 | 347 | Bio Nelly |
 | 211 | 347 | Daria Rycewicz |
@@ -231,8 +231,8 @@
 | 223 | 330 | J-Rizzle |
 | 224 | 330 | Kathy Brookins |
 | 225 | 324 | jim |
-| 226 | 324 | Lauren Lamb |
-| 227 | 324 | TinyLegoRose |
+| 226 | 324 | TinyLegoRose |
+| 227 | 324 | Lauren Lamb |
 | 228 | 321 | Meagan Nicole |
 | 229 | 319 | Googenheim |
 | 230 | 317 | Madison Sweere |
@@ -569,7 +569,7 @@
 | 561 | 139 | Ann G. Carrillo |
 | 562 | 139 | Groovy Shiftspin |
 | 563 | 138 | Lynn Marie |
-| 564 | 137 | Brianna Walker |
+| 564 | 137 | April Spoelma |
 | 565 | 137 | Heather Mamabear Pezze |
 | 566 | 137 | Brianna Walker |
 | 567 | 136 | Badatvs |
@@ -580,8 +580,8 @@
 | 572 | 134 | LunarCat |
 | 573 | 133 | Amy C Brown |
 | 574 | 133 | Josh Chapell |
-| 575 | 133 | Holly Tracey-Grimes |
-| 576 | 133 | ThriftySpice |
+| 575 | 133 | ThriftySpice |
+| 576 | 133 | Holly Tracey-Grimes |
 | 577 | 132 | Matt Rawls |
 | 578 | 132 | Robert Rodriguez |
 | 579 | 132 | Jessica Cagle |
@@ -1045,7 +1045,7 @@
 | 1037 | 63 | Colleen Keller |
 | 1038 | 63 | 2slo |
 | 1039 | 63 | Kenny Hutchens |
-| 1040 | 63 | Danelle Sulentic |
+| 1040 | 63 | Zesty Snapmatch |
 | 1041 | 63 | Jelly |
 | 1042 | 63 | Danelle Sulentic |
 | 1043 | 62 | Jaycool |
