@@ -416,8 +416,8 @@
 | 408 | 278 | Rufus Lincoln |
 | 409 | 277 | Krystal Gerstberger |
 | 410 | 277 | Christine Foley |
-| 411 | 277 | Tipsy Zonebuilder |
-| 412 | 277 | Joe-Maggie Mathews |
+| 411 | 277 | Joe-Maggie Mathews |
+| 412 | 277 | Tipsy Zonebuilder |
 | 413 | 276 | Karent524 |
 | 414 | 276 | Crimson |
 | 415 | 276 | Mikki Torres |
