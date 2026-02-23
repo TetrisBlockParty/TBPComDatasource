@@ -140,8 +140,8 @@
 | 132 | 755 | Katrina Schroeder |
 | 133 | 748 | Adrian Marcel Pate |
 | 134 | 746 | Giddy Drop |
-| 135 | 745 | ren |
-| 136 | 745 | JerseyJess |
+| 135 | 745 | JerseyJess |
+| 136 | 745 | ren |
 | 137 | 744 | Fancy Cascader |
 | 138 | 736 | mzcatzy |
 | 139 | 734 | Calista Jo Dickson |
@@ -287,23 +287,23 @@
 | 279 | 378 | Chris Bell |
 | 280 | 378 | MsBee |
 | 281 | 375 | Stephanie Burtin |
-| 282 | 372 | Rich LeBlanc |
-| 283 | 372 | Sarah Moyer |
-| 284 | 371 | Marquita Sheard |
-| 285 | 371 | Salena Whitlock |
+| 282 | 372 | Sarah Moyer |
+| 283 | 372 | Rich LeBlanc |
+| 284 | 371 | Salena Whitlock |
+| 285 | 371 | Marquita Sheard |
 | 286 | 371 | block chick |
 | 287 | 370 | Samantha Lynn |
 | 288 | 369 | Amber Glover |
-| 289 | 369 | Philip Rock |
-| 290 | 369 | Jennifer Alvey |
+| 289 | 369 | Jennifer Alvey |
+| 290 | 369 | Philip Rock |
 | 291 | 368 | Stephanie Woods |
 | 292 | 368 | Sheila M Frazier |
 | 293 | 366 | Betty Bóò |
 | 294 | 366 | Gumbo |
 | 295 | 362 | Brandon Givens |
 | 296 | 361 | Breanna Marsden |
-| 297 | 360 | Dee Pratt |
-| 298 | 360 | Cesar Barraza |
+| 297 | 360 | Cesar Barraza |
+| 298 | 360 | Dee Pratt |
 | 299 | 358 | Roary Danner |
 | 300 | 358 | Heather Davis |
 | 301 | 356 | Cyd061769 |

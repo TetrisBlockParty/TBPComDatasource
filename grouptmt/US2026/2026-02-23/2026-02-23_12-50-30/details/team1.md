@@ -66,8 +66,8 @@
 | 58 | 892 | Seth Wesson |
 | 59 | 874 | Kristen Roles Robben |
 | 60 | 858 | Michelle Nicole |
-| 61 | 850 | comrade fish |
-| 62 | 850 | Andrea Dañielle Ortiz |
+| 61 | 850 | Andrea Dañielle Ortiz |
+| 62 | 850 | comrade fish |
 | 63 | 845 | Drew Magnus |
 | 64 | 829 | Sevens4L |
 | 65 | 818 | Patrick Luckenbill |
@@ -87,8 +87,8 @@
 | 79 | 679 | Hasbro Bros |
 | 80 | 668 | Lori Sanders- Davis |
 | 81 | 665 | Jason Jones |
-| 82 | 657 | Tee Sheree |
-| 83 | 657 | Cynthia Bradley |
+| 82 | 657 | Cynthia Bradley |
+| 83 | 657 | Tee Sheree |
 | 84 | 655 | Brenda Stewart |
 | 85 | 648 | Evie Khalil |
 | 86 | 633 | Kellie |
@@ -149,8 +149,8 @@
 | 141 | 429 | Kristi Johnson |
 | 142 | 428 | Ly Phethmany |
 | 143 | 426 | Maria C. Hernandez |
-| 144 | 425 | Tyler Werts |
-| 145 | 425 | Dandy Basegrid |
+| 144 | 425 | Dandy Basegrid |
+| 145 | 425 | Tyler Werts |
 | 146 | 423 | ALFD |
 | 147 | 417 | Phu ckalldems |
 | 148 | 416 | Jessica Sheehan |
