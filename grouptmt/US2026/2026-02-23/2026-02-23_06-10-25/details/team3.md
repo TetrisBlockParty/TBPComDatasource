@@ -289,8 +289,8 @@
 | 281 | 347 | Tye Stovall |
 | 282 | 346 | Tamara Deherrera |
 | 283 | 345 | gremicx |
-| 284 | 343 | Ashley Rufus Bythcez |
-| 285 | 343 | Ashley Raines |
+| 284 | 343 | Ashley Raines |
+| 285 | 343 | Ashley Rufus Bythcez |
 | 286 | 341 | Ashley Tookes |
 | 287 | 340 | KayB |
 | 288 | 339 | Cynthia Herrmann Egland |
@@ -304,8 +304,8 @@
 | 296 | 328 | Desiree Soto |
 | 297 | 326 | Kerry Nowickshere |
 | 298 | 325 | Angela Scott |
-| 299 | 325 | Tasha Wesson-Torrence |
-| 300 | 325 | Eileen Brady Thurber |
+| 299 | 325 | Eileen Brady Thurber |
+| 300 | 325 | Tasha Wesson-Torrence |
 | 301 | 324 | Sissy Lowery Davis |
 | 302 | 322 | Nena Somerville Kelly |
 | 303 | 321 | Wettnippz |
@@ -360,8 +360,8 @@
 | 352 | 280 | ROODBOY |
 | 353 | 280 | Dirtgirl27 |
 | 354 | 280 | Ivan Del Toro |
-| 355 | 279 | Tosha Griffey |
-| 356 | 279 | Naur |
+| 355 | 279 | Naur |
+| 356 | 279 | Tosha Griffey |
 | 357 | 278 | Rufus Lincoln |
 | 358 | 277 | Krystal Gerstberger |
 | 359 | 277 | Joe-Maggie Mathews |
@@ -381,8 +381,8 @@
 | 373 | 272 | Romeo |
 | 374 | 272 | Tay |
 | 375 | 269 | Jess Bissett |
-| 376 | 269 | Juliana Dottore |
-| 377 | 269 | Samantha Worley |
+| 376 | 269 | Samantha Worley |
+| 377 | 269 | Juliana Dottore |
 | 378 | 268 | Jessica Lynn French |
 | 379 | 267 | April Matthew Kibble |
 | 380 | 267 | Jul |
@@ -403,8 +403,8 @@
 | 395 | 257 | Saucy Buildout |
 | 396 | 257 | Rachel Grant |
 | 397 | 255 | Sharisse Baltimore |
-| 398 | 255 | Erykah |
-| 399 | 255 | Mariah Williams |
+| 398 | 255 | Mariah Williams |
+| 399 | 255 | Erykah |
 | 400 | 254 | Blair Erin Waite |
 | 401 | 253 | Block Baddie |
 | 402 | 253 | Jennifer Alvey |
@@ -417,9 +417,9 @@
 | 409 | 250 | Eric Caccavale |
 | 410 | 249 | Willow |
 | 411 | 248 | Brian Battjes |
-| 412 | 247 | Jessica |
-| 413 | 247 | Reina Roth |
-| 414 | 247 | Kevin Russell |
+| 412 | 247 | Kevin Russell |
+| 413 | 247 | Jessica |
+| 414 | 247 | Reina Roth |
 | 415 | 245 | LaNette Morgan |
 | 416 | 245 | Latoya Mayne |
 | 417 | 244 | Beezwax |

@@ -106,8 +106,8 @@
 | 98 | 510 | Chirpy Smasher |
 | 99 | 509 | Rachael |
 | 100 | 497 | Arianna O'Brien |
-| 101 | 493 | MomMom |
-| 102 | 493 | Jennifer ManWarren |
+| 101 | 493 | Jennifer ManWarren |
+| 102 | 493 | MomMom |
 | 103 | 492 | Ash Galvan |
 | 104 | 491 | cc |
 | 105 | 489 | April Carroll |
@@ -173,7 +173,7 @@
 | 165 | 357 | David Lutcher |
 | 166 | 355 | Amanda Jarnagin |
 | 167 | 353 | Josh Riemer |
-| 168 | 353 | Connie |
+| 168 | 353 | Jaimie Lynn |
 | 169 | 350 | Tipsy Strikerpiece |
 | 170 | 349 | Cool Shiftsnap |
 | 171 | 349 | Oscar Zamora |
@@ -295,8 +295,8 @@
 | 287 | 228 | .running. |
 | 288 | 227 | Happy Snapbuild |
 | 289 | 227 | John Ramirez |
-| 290 | 226 | Glitzy Buildsnap |
-| 291 | 226 | Snappy Brickbuilder |
+| 290 | 226 | Snappy Brickbuilder |
+| 291 | 226 | Glitzy Buildsnap |
 | 292 | 225 | Angela Spann |
 | 293 | 224 | Jumpy Rotate |
 | 294 | 224 | Danielle Mae |
@@ -342,10 +342,10 @@
 | 334 | 207 | Fresno Beotoni |
 | 335 | 207 | Leslie Bush Yarbrough |
 | 336 | 207 | Katie Martin |
-| 337 | 205 | Agustin Duarte Orozco |
-| 338 | 205 | build master |
-| 339 | 204 | Beau Galvan |
-| 340 | 204 | LD1 |
+| 337 | 205 | build master |
+| 338 | 205 | Agustin Duarte Orozco |
+| 339 | 204 | LD1 |
+| 340 | 204 | Beau Galvan |
 | 341 | 202 | Amber Dee |
 | 342 | 202 | Gary Gobin |
 | 343 | 201 | Rico Rico |

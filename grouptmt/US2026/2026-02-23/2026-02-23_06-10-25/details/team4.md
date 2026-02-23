@@ -79,8 +79,8 @@
 | 71 | 749 | Dustee Craddock-Harrison |
 | 72 | 742 | Carolyn Wallace |
 | 73 | 740 | Avy Absol |
-| 74 | 736 | Crystal Carroll |
-| 75 | 736 | Goatimus Lombardi |
+| 74 | 736 | Goatimus Lombardi |
+| 75 | 736 | Crystal Carroll |
 | 76 | 728 | D3TROITB0RN74 |
 | 77 | 721 | TheNeesh50 |
 | 78 | 706 | Lisa Davis |
@@ -164,8 +164,8 @@
 | 156 | 391 | Ramel Rhodes |
 | 157 | 389 | Joseph Guthrie |
 | 158 | 387 | Lucas J Sutton |
-| 159 | 375 | ThaEviLJeNiuZ |
-| 160 | 375 | Desi Desporte |
+| 159 | 375 | Desi Desporte |
+| 160 | 375 | ThaEviLJeNiuZ |
 | 161 | 374 | Guy Incognito |
 | 162 | 370 | Oscar Alberto Perez |
 | 163 | 369 | Lindsey Gonzalez |
@@ -185,8 +185,8 @@
 | 177 | 349 | Twisty Cascadezone |
 | 178 | 349 | Rafael Valentin |
 | 179 | 348 | April Rondinone |
-| 180 | 347 | Daria Rycewicz |
-| 181 | 347 | Crystal Nicolette Moore |
+| 180 | 347 | Crystal Nicolette Moore |
+| 181 | 347 | Daria Rycewicz |
 | 182 | 339 | David Lay |
 | 183 | 336 | Bio Nelly |
 | 184 | 335 | James Hurley Jr. |
@@ -257,10 +257,10 @@
 | 249 | 262 | BigSammy420 |
 | 250 | 261 | Zethra Prenisha Rahming |
 | 251 | 260 | Carter Jones |
-| 252 | 259 | Cynthia Boudreau |
-| 253 | 259 | Allen Lloyd |
-| 254 | 259 | John Brunetti |
-| 255 | 259 | Montiette Mcglown |
+| 252 | 259 | Montiette Mcglown |
+| 253 | 259 | John Brunetti |
+| 254 | 259 | Allen Lloyd |
+| 255 | 259 | Cynthia Boudreau |
 | 256 | 257 | PeaceOs |
 | 257 | 256 | Mylo Lipscomb |
 | 258 | 256 | Jade Rian |
@@ -383,8 +383,8 @@
 | 375 | 179 | Gwendolyn Pitcairn |
 | 376 | 179 | AyeKay |
 | 377 | 179 | GBR |
-| 378 | 178 | Zippy Tilt |
-| 379 | 178 | Daring Pivot |
+| 378 | 178 | Daring Pivot |
+| 379 | 178 | Zippy Tilt |
 | 380 | 177 | Lora |
 | 381 | 176 | Cindy Looper |
 | 382 | 176 | Brickh4us |

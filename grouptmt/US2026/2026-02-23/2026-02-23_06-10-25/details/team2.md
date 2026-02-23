@@ -472,8 +472,8 @@
 | 464 | 693 | Ryan Stadel |
 | 465 | 692 | Shaun Church |
 | 466 | 691 | Poldo Ilano |
-| 467 | 691 | Samuel Macon |
-| 468 | 691 | Arwa Fatimah |
+| 467 | 691 | Arwa Fatimah |
+| 468 | 691 | Samuel Macon |
 | 469 | 689 | Gauri Shrotriya |
 | 470 | 686 | Christine Coughlin |
 | 471 | 684 | Sarah DeHart |
@@ -678,8 +678,8 @@
 | 670 | 504 | Alyssa Nadine Medelez |
 | 671 | 502 | Enha |
 | 672 | 500 | Ryan Meilleur |
-| 673 | 500 | Amy Reynolds |
-| 674 | 500 | Jasmine Kenney |
+| 673 | 500 | Jasmine Kenney |
+| 674 | 500 | Amy Reynolds |
 | 675 | 499 | Besma Ao |
 | 676 | 498 | Chummy Blockbuilder |
 | 677 | 497 | Sam |
@@ -721,8 +721,8 @@
 | 713 | 480 | Jennifer Leigh |
 | 714 | 479 | bbv |
 | 715 | 479 | Emilie Desma |
-| 716 | 479 | Jason Garnatz |
-| 717 | 479 | Ashlee Cruz |
+| 716 | 479 | Ashlee Cruz |
+| 717 | 479 | Jason Garnatz |
 | 718 | 478 | Dawn L Washington-Feuquay |
 | 719 | 478 | Kelly |
 | 720 | 477 | Catherine Marsh Gruda |
