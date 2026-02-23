@@ -231,9 +231,9 @@
 | 223 | 290 | Hellsin |
 | 224 | 290 | Tavia |
 | 225 | 287 | Sassy Builderline |
-| 226 | 285 | Bird Person |
-| 227 | 285 | Jessie Lynn |
-| 228 | 285 | Shanae Grant |
+| 226 | 285 | Shanae Grant |
+| 227 | 285 | Bird Person |
+| 228 | 285 | Jessie Lynn |
 | 229 | 284 | Sarah Somers Gray |
 | 230 | 283 | Amanda Holibaugh |
 | 231 | 283 | Franswa |
@@ -251,8 +251,8 @@
 | 243 | 272 | Tawnya Peltonen |
 | 244 | 272 | Barrbaric |
 | 245 | 271 | Frothy Pattern |
-| 246 | 270 | Debbie Kane |
-| 247 | 270 | Brenda Alexander |
+| 246 | 270 | Brenda Alexander |
+| 247 | 270 | Debbie Kane |
 | 248 | 268 | Standia Civil |
 | 249 | 267 | Daring Fitclear |
 | 250 | 265 | Kandae |

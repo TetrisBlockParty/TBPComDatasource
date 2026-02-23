@@ -121,8 +121,8 @@
 | 113 | 831 | Angeline Joseph |
 | 114 | 830 | Stephanie Allmon |
 | 115 | 826 | Shane Wilson Jr. |
-| 116 | 816 | Brenda Lee Vander Molen |
-| 117 | 816 | Jesse Olive |
+| 116 | 816 | Jesse Olive |
+| 117 | 816 | Brenda Lee Vander Molen |
 | 118 | 802 | Bobbi Moore |
 | 119 | 800 | Lauren Girouard |
 | 120 | 799 | Dolores Falco |
@@ -135,8 +135,8 @@
 | 127 | 752 | Logan Naccarato |
 | 128 | 748 | Adrian Marcel Pate |
 | 129 | 745 | JerseyJess |
-| 130 | 744 | Leah Barnett |
-| 131 | 744 | Fancy Cascader |
+| 130 | 744 | Fancy Cascader |
+| 131 | 744 | Leah Barnett |
 | 132 | 736 | mzcatzy |
 | 133 | 734 | Calista Jo Dickson |
 | 134 | 728 | Peppy Shifter |
@@ -162,8 +162,8 @@
 | 154 | 634 | Amber Hughes |
 | 155 | 630 | yoyo |
 | 156 | 629 | Patricia White |
-| 157 | 621 | Cherry Parker |
-| 158 | 621 | Sashay Tapae Simpson |
+| 157 | 621 | Sashay Tapae Simpson |
+| 158 | 621 | Cherry Parker |
 | 159 | 616 | Kammy Hill |
 | 160 | 611 | Rochelle Hazelett |
 | 161 | 607 | Grego Daniel |
@@ -176,8 +176,8 @@
 | 168 | 591 | Michael Nowogorski |
 | 169 | 588 | Justin Ritter |
 | 170 | 587 | Louise Stacy Sisson |
-| 171 | 585 | Happy Tetriblast |
-| 172 | 585 | Annie Marie |
+| 171 | 585 | Annie Marie |
+| 172 | 585 | Happy Tetriblast |
 | 173 | 583 | Tasha Gillespie |
 | 174 | 582 | Natasha Jones |
 | 175 | 577 | Domo Washington |
@@ -192,17 +192,17 @@
 | 184 | 556 | Elissa S-k |
 | 185 | 553 | LaTanya GeminiondaRise Johnson |
 | 186 | 548 | Danielle Balcom |
-| 187 | 546 | Mykal Burton |
-| 188 | 546 | Cynthia Castros-Hampton |
-| 189 | 546 | Tasha Schriewer |
+| 187 | 546 | Cynthia Castros-Hampton |
+| 188 | 546 | Tasha Schriewer |
+| 189 | 546 | Mykal Burton |
 | 190 | 540 | Shawn Miller |
 | 191 | 531 | Chauntee Alfrey-Cardinale |
 | 192 | 531 | Sarah Cowan Burgos |
 | 193 | 528 | Silly Twist |
 | 194 | 525 | Stephanie Blkpep Davidson |
 | 195 | 524 | Bmo |
-| 196 | 519 | Terry Jo Jones |
-| 197 | 519 | rnr junky |
+| 196 | 519 | rnr junky |
+| 197 | 519 | Terry Jo Jones |
 | 198 | 515 | Cozy Snaplink |
 | 199 | 508 | Makelini Mausia |
 | 200 | 503 | Tye Stovall |
@@ -214,8 +214,8 @@
 | 206 | 488 | Melissa Orth Hunter |
 | 207 | 485 | Dapper Snap |
 | 208 | 484 | Fallorina Susana |
-| 209 | 480 | Michael Johnson |
-| 210 | 480 | Danielle Allison |
+| 209 | 480 | Danielle Allison |
+| 210 | 480 | Michael Johnson |
 | 211 | 477 | Edwin Calvillo Jr. |
 | 212 | 475 | Tessina Dewey-Mancino |
 | 213 | 473 | Rachel |
@@ -223,8 +223,8 @@
 | 215 | 471 | Mendoza Lee Christy |
 | 216 | 467 | Sherry Ogden |
 | 217 | 465 | Annie Déè |
-| 218 | 464 | Danielle Weikel |
-| 219 | 464 | Shunta Jacobs |
+| 218 | 464 | Shunta Jacobs |
+| 219 | 464 | Danielle Weikel |
 | 220 | 461 | Tom Nault |
 | 221 | 458 | Danielle Rhoades |
 | 222 | 454 | Joye Sims Binion |
@@ -271,8 +271,8 @@
 | 263 | 370 | Samantha Lynn |
 | 264 | 369 | Philip Rock |
 | 265 | 369 | Keis |
-| 266 | 368 | Sheila M Frazier |
-| 267 | 368 | Stephanie Woods |
+| 266 | 368 | Stephanie Woods |
+| 267 | 368 | Sheila M Frazier |
 | 268 | 367 | Kristin Delibac Corrigan |
 | 269 | 366 | Gumbo |
 | 270 | 365 | Noyb Adam |
@@ -285,8 +285,8 @@
 | 277 | 354 | Andrew Thorson |
 | 278 | 354 | Roary Danner |
 | 279 | 354 | Kelly |
-| 280 | 353 | Dee Franklin |
-| 281 | 353 | Cyd061769 |
+| 280 | 353 | Cyd061769 |
+| 281 | 353 | Dee Franklin |
 | 282 | 352 | Christian Werndl |
 | 283 | 351 | Blocked |
 | 284 | 351 | Eon Harris |
@@ -308,8 +308,8 @@
 | 300 | 336 | Foltz Lee Kelli |
 | 301 | 336 | Jojo M |
 | 302 | 335 | victory |
-| 303 | 332 | Velma Mull |
-| 304 | 332 | Brittany |
+| 303 | 332 | Brittany |
+| 304 | 332 | Velma Mull |
 | 305 | 331 | Gray Hicks |
 | 306 | 329 | Angela Scott |
 | 307 | 328 | Desiree Soto |

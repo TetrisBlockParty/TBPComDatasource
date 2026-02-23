@@ -26,8 +26,8 @@
 | 18 | 1636 | Cassie Michaux |
 | 19 | 1565 | GreenJeepGirl |
 | 20 | 1558 | Leah Gorsuch |
-| 21 | 1536 | Misty Hollibaugh |
-| 22 | 1536 | Roger Coulter |
+| 21 | 1536 | Roger Coulter |
+| 22 | 1536 | Misty Hollibaugh |
 | 23 | 1485 | Juggalo |
 | 24 | 1390 | Sammy Noguera |
 | 25 | 1382 | Tammi Crnza |
@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Jonathan Kimbrough |
-| 84 | 684 | Kimyatta Cavin |
+| 83 | 684 | Kimyatta Cavin |
+| 84 | 684 | Jonathan Kimbrough |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | KM8 |
-| 93 | 647 | Shauna Havard |
+| 92 | 647 | Shauna Havard |
+| 93 | 647 | KM8 |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -125,8 +125,8 @@
 | 117 | 514 | Serena Goodridge |
 | 118 | 514 | Scott Jameson |
 | 119 | 513 | Erin Thomas |
-| 120 | 512 | Cristy Duerksen |
-| 121 | 512 | Casey Jeffcoat |
+| 120 | 512 | Casey Jeffcoat |
+| 121 | 512 | Cristy Duerksen |
 | 122 | 511 | Lori Walker |
 | 123 | 509 | Leslie Nicole |
 | 124 | 487 | Ren Mc |
@@ -211,8 +211,8 @@
 | 203 | 320 | Lauren Scott |
 | 204 | 318 | Chris Hartig |
 | 205 | 316 | Autumn Kumzi |
-| 206 | 312 | Casey Grabner |
-| 207 | 312 | Dihcheese444 |
+| 206 | 312 | Dihcheese444 |
+| 207 | 312 | Casey Grabner |
 | 208 | 311 | Mary Ann Pabukis |
 | 209 | 310 | Holly Jolly |
 | 210 | 307 | Cheery Risebuilder |
@@ -248,8 +248,8 @@
 | 240 | 276 | Matt Dell'Olio |
 | 241 | 276 | Joeliecea Cobb |
 | 242 | 273 | Cranky Rollpiece |
-| 243 | 272 | Alan George LaRage |
-| 244 | 272 | Dennis Bradley |
+| 243 | 272 | Dennis Bradley |
+| 244 | 272 | Alan George LaRage |
 | 245 | 271 | Holly |
 | 246 | 270 | Jen Caldwell |
 | 247 | 266 | Tracey Lehmann |
@@ -262,8 +262,8 @@
 | 254 | 264 | ZeeZee |
 | 255 | 264 | Stella |
 | 256 | 263 | rebel4lyfe |
-| 257 | 262 | Selena Shaw |
-| 258 | 262 | BigSammy420 |
+| 257 | 262 | BigSammy420 |
+| 258 | 262 | Selena Shaw |
 | 259 | 261 | Zethra Prenisha Rahming |
 | 260 | 260 | Lori |
 | 261 | 260 | Carter Jones |
@@ -329,8 +329,8 @@
 | 321 | 214 | Stacey Stano |
 | 322 | 214 | Patron Anderson |
 | 323 | 213 | Jackie Marie |
-| 324 | 212 | Mike Solo |
-| 325 | 212 | Zany Shatterer |
+| 324 | 212 | Zany Shatterer |
+| 325 | 212 | Mike Solo |
 | 326 | 212 | Brave Spinbuilder |
 | 327 | 211 | Chris Alexinas |
 | 328 | 210 | Ari Droff |
@@ -376,9 +376,9 @@
 | 368 | 186 | Dandy Cascadefit |
 | 369 | 186 | Shanon Klair |
 | 370 | 186 | Eri Kka |
-| 371 | 185 | Moonsterix |
+| 371 | 185 | Val Erie |
 | 372 | 185 | Morti |
-| 373 | 185 | Val Erie |
+| 373 | 185 | Moonsterix |
 | 374 | 185 | Rebecca Blake |
 | 375 | 183 | Darrin Rubalcava |
 | 376 | 183 | Sarah Hoffman |

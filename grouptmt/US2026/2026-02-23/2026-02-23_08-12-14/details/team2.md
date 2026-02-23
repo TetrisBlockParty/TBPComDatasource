@@ -221,12 +221,12 @@
 | 213 | 1245 | Cody Nishimura |
 | 214 | 1240 | Brandon Armstrong |
 | 215 | 1237 | Megan Ferguson Leone |
-| 216 | 1232 | Groovy Puzzle |
-| 217 | 1232 | Ambyre Patterson |
+| 216 | 1232 | Ambyre Patterson |
+| 217 | 1232 | Groovy Puzzle |
 | 218 | 1230 | Megan Garrick |
 | 219 | 1221 | Jane Fong |
-| 220 | 1217 | Brooks Brooks |
-| 221 | 1217 | Lucky Ladybug |
+| 220 | 1217 | Lucky Ladybug |
+| 221 | 1217 | Brooks Brooks |
 | 222 | 1214 | David Cudicio-Hayden |
 | 223 | 1213 | Pacynthia Williams |
 | 224 | 1211 | Ricardo Burton |
@@ -377,8 +377,8 @@
 | 369 | 829 | Jessica Wayne Cornwall |
 | 370 | 828 | Kimmy Newman |
 | 371 | 825 | Jeremy Parodi |
-| 372 | 824 | Danielle Johnson-Chandler |
-| 373 | 824 | Khalil Lowe |
+| 372 | 824 | Khalil Lowe |
+| 373 | 824 | Danielle Johnson-Chandler |
 | 374 | 822 | KhaosLord |
 | 375 | 822 | Lola Contreras |
 | 376 | 821 | Angie Bolton Workman |
@@ -386,9 +386,9 @@
 | 378 | 816 | Beth |
 | 379 | 816 | James Simms III |
 | 380 | 812 | Samantha Jo |
-| 381 | 808 | Laura McCarthey |
+| 381 | 808 | Connie Jimenez |
 | 382 | 808 | Desire Rice |
-| 383 | 808 | Connie Jimenez |
+| 383 | 808 | Laura McCarthey |
 | 384 | 804 | Becca Coronado |
 | 385 | 801 | Diana Fitzwater |
 | 386 | 801 | Gold Rose |
@@ -396,11 +396,11 @@
 | 388 | 799 | Kenny Alvarado |
 | 389 | 799 | Ronnie Nelson |
 | 390 | 798 | Kathryn Townsley |
-| 391 | 796 | Amber Gray |
-| 392 | 796 | AndrewandShela Gornik |
-| 393 | 793 | Arlene Joy Belicina |
-| 394 | 793 | Jaycee |
-| 395 | 793 | Heather Schelkopf |
+| 391 | 796 | AndrewandShela Gornik |
+| 392 | 796 | Amber Gray |
+| 393 | 793 | Jaycee |
+| 394 | 793 | Heather Schelkopf |
+| 395 | 793 | Arlene Joy Belicina |
 | 396 | 790 | Brenda Pierpoint |
 | 397 | 788 | Erika Densmore |
 | 398 | 787 | Tiara Elizabeth Baker |
@@ -425,16 +425,16 @@
 | 417 | 763 | Dreamy Blast |
 | 418 | 761 | Jerilyn Andrina |
 | 419 | 760 | Ashley Guernsey-Martin |
-| 420 | 760 | Allan Wayne Lamia |
-| 421 | 760 | Cheech Dta |
+| 420 | 760 | Cheech Dta |
+| 421 | 760 | Allan Wayne Lamia |
 | 422 | 760 | Andrew Willis |
 | 423 | 758 | Stephanie Neuburger |
 | 424 | 758 | Quirky Twistline |
 | 425 | 755 | Taryece Gause |
 | 426 | 751 | Loony Snapper |
 | 427 | 751 | Breezy Filler |
-| 428 | 748 | Ann Matzkanin |
-| 429 | 748 | Brenda Utphall |
+| 428 | 748 | Brenda Utphall |
+| 429 | 748 | Ann Matzkanin |
 | 430 | 748 | Spunkysmom |
 | 431 | 746 | Leslie Ann Carter |
 | 432 | 742 | tejas25 |
@@ -597,8 +597,8 @@
 | 589 | 582 | Ebony Deloach Bryant |
 | 590 | 581 | Angie Marie |
 | 591 | 580 | Cheery Matchzone |
-| 592 | 579 | Barry Britt |
-| 593 | 579 | Roy Salyer |
+| 592 | 579 | Roy Salyer |
+| 593 | 579 | Barry Britt |
 | 594 | 577 | Victor Obiakarije |
 | 595 | 576 | Leslie Johnson Guinto |
 | 596 | 575 | Michael Artis |
@@ -2578,7 +2578,7 @@
 | 2570 | 162 | Jazzy Linkmatch |
 | 2571 | 162 | Hopi |
 | 2572 | 162 | kayosgurl |
-| 2573 | 162 | Funky Blocky |
+| 2573 | 162 | Jennifer Mitchell |
 | 2574 | 162 | Cat |
 | 2575 | 162 | Funky Blocky |
 | 2576 | 162 | Marsha Sosa Kiech |
@@ -2680,9 +2680,9 @@
 | 2672 | 156 | Shay Brown |
 | 2673 | 156 | Meredith Elaine |
 | 2674 | 156 | JianXiang Jimmy Lee |
-| 2675 | 156 | K. |
-| 2676 | 156 | Olfatas |
-| 2677 | 156 | Brett Campbell |
+| 2675 | 156 | Olfatas |
+| 2676 | 156 | Brett Campbell |
+| 2677 | 156 | K. |
 | 2678 | 156 | Lyndsey Crowe |
 | 2679 | 155 | Katie Lee |
 | 2680 | 155 | Flashy Patternzone |
