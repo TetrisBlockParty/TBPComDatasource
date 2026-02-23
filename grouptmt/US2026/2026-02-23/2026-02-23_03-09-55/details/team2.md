@@ -135,8 +135,8 @@
 | 127 | 1681 | Nett |
 | 128 | 1681 | Shandrica Lowe |
 | 129 | 1658 | Liberty |
-| 130 | 1656 | Kristopher Miller |
-| 131 | 1656 | Auntie B |
+| 130 | 1656 | Auntie B |
+| 131 | 1656 | Kristopher Miller |
 | 132 | 1644 | Luna |
 | 133 | 1639 | Jessie McDougald |
 | 134 | 1631 | Speedy Spinblock |
@@ -206,8 +206,8 @@
 | 198 | 1244 | Teddi Notyalc |
 | 199 | 1243 | Anna Edwards |
 | 200 | 1237 | Megan Ferguson Leone |
-| 201 | 1232 | Ambyre Patterson |
-| 202 | 1232 | Groovy Puzzle |
+| 201 | 1232 | Groovy Puzzle |
+| 202 | 1232 | Ambyre Patterson |
 | 203 | 1230 | Megan Garrick |
 | 204 | 1217 | Lucky Ladybug |
 | 205 | 1207 | David Cudicio-Hayden |
@@ -273,8 +273,8 @@
 | 265 | 1022 | Shannon Joslin |
 | 266 | 1014 | Michele Morgan |
 | 267 | 1011 | Teresa Gillmore |
-| 268 | 1003 | nikki |
-| 269 | 1003 | Andrea Maher |
+| 268 | 1003 | Andrea Maher |
+| 269 | 1003 | nikki |
 | 270 | 998 | Shelley Thornburgh Wright |
 | 271 | 996 | Ashie Ann |
 | 272 | 987 | Julie Kresal |

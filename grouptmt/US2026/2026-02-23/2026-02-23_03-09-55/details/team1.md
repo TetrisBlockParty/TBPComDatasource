@@ -97,10 +97,10 @@
 | 89 | 510 | Colena Davenport |
 | 90 | 501 | Nancy Green |
 | 91 | 500 | Evie Khalil |
-| 92 | 496 | Sarah Lombardo |
-| 93 | 496 | Arianna O'Brien |
-| 94 | 493 | Jennifer ManWarren |
-| 95 | 493 | MomMom |
+| 92 | 496 | Arianna O'Brien |
+| 93 | 496 | Sarah Lombardo |
+| 94 | 493 | MomMom |
+| 95 | 493 | Jennifer ManWarren |
 | 96 | 492 | Ash Galvan |
 | 97 | 489 | Deanna L Hermanson |
 | 98 | 486 | Tater |
@@ -127,8 +127,8 @@
 | 119 | 428 | Ly Phethmany |
 | 120 | 425 | Dandy Basegrid |
 | 121 | 417 | Lori Sanders- Davis |
-| 122 | 409 | Yvonne Marie |
-| 123 | 409 | Goose egg |
+| 122 | 409 | Goose egg |
+| 123 | 409 | Yvonne Marie |
 | 124 | 406 | Desiree Deschaine Havee |
 | 125 | 406 | Candy Jones |
 | 126 | 402 | Chris K |
@@ -252,8 +252,8 @@
 | 244 | 244 | Sarah Somers Gray |
 | 245 | 242 | ParisandCory Champagne |
 | 246 | 241 | Tyler Hertzog |
-| 247 | 240 | DaRascal |
-| 248 | 240 | Daring Fitclear |
+| 247 | 240 | Daring Fitclear |
+| 248 | 240 | DaRascal |
 | 249 | 238 | Tiffany Smith |
 | 250 | 234 | Paula Martin |
 | 251 | 233 | Angela Fairbank |
