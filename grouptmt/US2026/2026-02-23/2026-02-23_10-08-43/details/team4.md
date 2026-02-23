@@ -128,8 +128,8 @@
 | 120 | 514 | Scott Jameson |
 | 121 | 514 | Serena Goodridge |
 | 122 | 513 | Erin Thomas |
-| 123 | 512 | Cristy Duerksen |
-| 124 | 512 | Casey Jeffcoat |
+| 123 | 512 | Casey Jeffcoat |
+| 124 | 512 | Cristy Duerksen |
 | 125 | 509 | Leslie Nicole |
 | 126 | 483 | Angela Srubar-Norman |
 | 127 | 481 | Jessica Lynn Cutlip |
@@ -162,8 +162,8 @@
 | 154 | 413 | Circuit8 |
 | 155 | 412 | Jessica Bohlken |
 | 156 | 408 | Amanda Pauldo-Ivy |
-| 157 | 406 | Damn Libra |
-| 158 | 406 | Livvy |
+| 157 | 406 | Livvy |
+| 158 | 406 | Damn Libra |
 | 159 | 403 | Keith Kelley |
 | 160 | 402 | Lucas J Sutton |
 | 161 | 398 | Tyler Terrific |
@@ -196,8 +196,8 @@
 | 188 | 349 | Rafael Valentin |
 | 189 | 348 | April Rondinone |
 | 190 | 348 | David Lay |
-| 191 | 347 | Crystal Nicolette Moore |
-| 192 | 347 | Daria Rycewicz |
+| 191 | 347 | Daria Rycewicz |
+| 192 | 347 | Crystal Nicolette Moore |
 | 193 | 346 | shark tato |
 | 194 | 337 | Sam Bishop |
 | 195 | 336 | JPW |
@@ -208,8 +208,8 @@
 | 200 | 330 | Kathy Brookins |
 | 201 | 328 | scott |
 | 202 | 327 | J-Rizzle |
-| 203 | 324 | jim |
-| 204 | 324 | TinyLegoRose |
+| 203 | 324 | TinyLegoRose |
+| 204 | 324 | jim |
 | 205 | 321 | Meagan Nicole |
 | 206 | 320 | Lauren Scott |
 | 207 | 319 | Googenheim |
@@ -217,8 +217,8 @@
 | 209 | 317 | Madison Sweere |
 | 210 | 316 | Autumn Kumzi |
 | 211 | 313 | Milan Markeisha |
-| 212 | 312 | Dihcheese444 |
-| 213 | 312 | Casey Grabner |
+| 212 | 312 | Casey Grabner |
+| 213 | 312 | Dihcheese444 |
 | 214 | 311 | Mary Ann Pabukis |
 | 215 | 310 | Holly Jolly |
 | 216 | 307 | Cheery Risebuilder |
@@ -337,9 +337,9 @@
 | 329 | 214 | Patron Anderson |
 | 330 | 214 | Stacey Stano |
 | 331 | 213 | Jackie Marie |
-| 332 | 212 | Brave Spinbuilder |
+| 332 | 212 | Zany Shatterer |
 | 333 | 212 | Mike Solo |
-| 334 | 212 | Zany Shatterer |
+| 334 | 212 | Brave Spinbuilder |
 | 335 | 211 | Chris Alexinas |
 | 336 | 210 | Gdiguy |
 | 337 | 210 | Ari Droff |
@@ -559,16 +559,16 @@
 | 551 | 130 | Holly Tracey-Grimes |
 | 552 | 130 | Gigglelymomof2 |
 | 553 | 130 | KoolMom9907 |
-| 554 | 129 | Tamika Starkey |
+| 554 | 129 | Dreamy Snapgrid |
 | 555 | 129 | Jessica Wells |
-| 556 | 129 | Dreamy Snapgrid |
+| 556 | 129 | Tamika Starkey |
 | 557 | 128 | Zesty Linkgrid |
-| 558 | 128 | Raymond Roberts |
-| 559 | 128 | Lazy Glidepiece |
+| 558 | 128 | Lazy Glidepiece |
+| 559 | 128 | Raymond Roberts |
 | 560 | 127 | Jay You |
-| 561 | 126 | PAPatty |
-| 562 | 126 | Spicy Cascadezone |
-| 563 | 126 | Jennifer Renee |
+| 561 | 126 | Spicy Cascadezone |
+| 562 | 126 | Jennifer Renee |
+| 563 | 126 | PAPatty |
 | 564 | 125 | ImJustMe |
 | 565 | 125 | Kelly Adams Carnahan |
 | 566 | 125 | Christina Nabrizny |
@@ -857,10 +857,10 @@
 | 849 | 79 | Tabita Gonzalez |
 | 850 | 79 | Dot Flanagan |
 | 851 | 79 | Jason M Cadreau |
-| 852 | 78 | Bromine |
-| 853 | 78 | Roy Simmons |
+| 852 | 78 | Roy Simmons |
+| 853 | 78 | Leah Landry |
 | 854 | 78 | Allen Johnson |
-| 855 | 78 | Leah Landry |
+| 855 | 78 | Bromine |
 | 856 | 78 | Allison Rose |
 | 857 | 78 | Jaime Ore Norcross |
 | 858 | 78 | Timothy Allen |
@@ -1118,7 +1118,7 @@
 | 1110 | 51 | Alicia Atwater |
 | 1111 | 51 | Jean Camacho |
 | 1112 | 51 | Laura Chase-Amara |
-| 1113 | 51 | Beth Ann |
+| 1113 | 51 | Laura Davis |
 | 1114 | 51 | Stacey M Hawkins |
 | 1115 | 51 | Beth Ann |
 | 1116 | 50 | Eric Quan |

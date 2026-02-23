@@ -137,8 +137,8 @@
 | 129 | 752 | Logan Naccarato |
 | 130 | 748 | Adrian Marcel Pate |
 | 131 | 745 | JerseyJess |
-| 132 | 744 | Fancy Cascader |
-| 133 | 744 | Leah Barnett |
+| 132 | 744 | Leah Barnett |
+| 133 | 744 | Fancy Cascader |
 | 134 | 736 | mzcatzy |
 | 135 | 734 | Calista Jo Dickson |
 | 136 | 728 | Peppy Shifter |
@@ -164,8 +164,8 @@
 | 156 | 646 | Bea Miles |
 | 157 | 634 | Amber Hughes |
 | 158 | 630 | yoyo |
-| 159 | 621 | Sashay Tapae Simpson |
-| 160 | 621 | Cherry Parker |
+| 159 | 621 | Cherry Parker |
+| 160 | 621 | Sashay Tapae Simpson |
 | 161 | 616 | Kammy Hill |
 | 162 | 611 | Rochelle Hazelett |
 | 163 | 607 | Grego Daniel |
@@ -177,8 +177,8 @@
 | 169 | 595 | Nicole Myers |
 | 170 | 591 | Michael Nowogorski |
 | 171 | 587 | Louise Stacy Sisson |
-| 172 | 585 | Annie Marie |
-| 173 | 585 | Happy Tetriblast |
+| 172 | 585 | Happy Tetriblast |
+| 173 | 585 | Annie Marie |
 | 174 | 583 | Tasha Gillespie |
 | 175 | 582 | Natasha Jones |
 | 176 | 577 | Domo Washington |
@@ -285,8 +285,8 @@
 | 277 | 369 | Philip Rock |
 | 278 | 369 | Keis |
 | 279 | 369 | Amber Glover |
-| 280 | 368 | Stephanie Woods |
-| 281 | 368 | Sheila M Frazier |
+| 280 | 368 | Sheila M Frazier |
+| 281 | 368 | Stephanie Woods |
 | 282 | 366 | Gumbo |
 | 283 | 362 | Brandon Givens |
 | 284 | 360 | Cesar Barraza |
@@ -297,7 +297,7 @@
 | 289 | 354 | Andrew Thorson |
 | 290 | 353 | Dee Franklin |
 | 291 | 353 | Cyd061769 |
-| 292 | 353 | Dee Franklin |
+| 292 | 353 | Ashley Tookes |
 | 293 | 352 | Christian Werndl |
 | 294 | 351 | Blocked |
 | 295 | 351 | Eon Harris |
@@ -333,8 +333,8 @@
 | 325 | 319 | Michael Leblanc |
 | 326 | 316 | Twisty Brick LT |
 | 327 | 314 | Geoffrey Nash |
-| 328 | 313 | Hoppy Buildout |
-| 329 | 313 | Kaycee Kay |
+| 328 | 313 | Kaycee Kay |
+| 329 | 313 | Hoppy Buildout |
 | 330 | 312 | Eric Caccavale |
 | 331 | 312 | LadyTorad |
 | 332 | 311 | Troy |
