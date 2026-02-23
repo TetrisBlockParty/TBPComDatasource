@@ -44,8 +44,8 @@
 | 36 | 4301 | Mighty Patternzone |
 | 37 | 4199 | Claire Noland |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Corrine Hawks Soriano |
-| 40 | 4120 | Kristen Sceurman |
+| 39 | 4120 | Kristen Sceurman |
+| 40 | 4120 | Corrine Hawks Soriano |
 | 41 | 4086 | PandaMama |
 | 42 | 4006 | CoolKat |
 | 43 | 3960 | Brittany Alicia |
@@ -282,13 +282,13 @@
 | 274 | 1103 | RAEPR05 |
 | 275 | 1093 | Real Ri |
 | 276 | 1088 | Brainy Smurf |
-| 277 | 1080 | Tyler C. Jung |
-| 278 | 1080 | Cassie Mercer |
+| 277 | 1080 | Cassie Mercer |
+| 278 | 1080 | Tyler C. Jung |
 | 279 | 1079 | Jennifer Kistner |
 | 280 | 1073 | Jodi Blake |
 | 281 | 1071 | Kim Dean |
-| 282 | 1069 | Carl Bradshaw |
-| 283 | 1069 | Offonar Facey |
+| 282 | 1069 | Offonar Facey |
+| 283 | 1069 | Carl Bradshaw |
 | 284 | 1064 | BK Queen |
 | 285 | 1063 | Caitlin Schmid |
 | 286 | 1053 | Michelle Lee |
@@ -297,19 +297,19 @@
 | 289 | 1047 | Dany Murillo |
 | 290 | 1046 | Lola C Davis |
 | 291 | 1046 | Cindy Sechler Taninecz |
-| 292 | 1045 | Bri Lynn |
-| 293 | 1045 | Lourisha |
+| 292 | 1045 | Lourisha |
+| 293 | 1045 | Bri Lynn |
 | 294 | 1044 | Jennifer Aiken |
-| 295 | 1043 | Brave Dropmatch |
-| 296 | 1043 | nikki |
+| 295 | 1043 | nikki |
+| 296 | 1043 | Brave Dropmatch |
 | 297 | 1042 | Mcintosh Brian Shalonda |
 | 298 | 1040 | Rebecca Garland |
 | 299 | 1036 | Allison Lockyer |
 | 300 | 1036 | Amber Shoemaker |
 | 301 | 1032 | Kristin Gower |
 | 302 | 1029 | Crystal Hoffman |
-| 303 | 1024 | Susan Perraut Jones |
-| 304 | 1024 | Taylor Phillips |
+| 303 | 1024 | Taylor Phillips |
+| 304 | 1024 | Susan Perraut Jones |
 | 305 | 1022 | Shannon Joslin |
 | 306 | 1019 | Julie Kresal |
 | 307 | 1015 | Brittany Radaszewski |
@@ -696,8 +696,8 @@
 | 688 | 542 | Jarboe |
 | 689 | 540 | Alexis Richardson |
 | 690 | 538 | Jess Morrison |
-| 691 | 538 | Mamachelle Eisweirth |
-| 692 | 538 | Demitri Smith |
+| 691 | 538 | Demitri Smith |
+| 692 | 538 | Mamachelle Eisweirth |
 | 693 | 537 | Kori Beth Babb |
 | 694 | 536 | Rhonda Petro |
 | 695 | 535 | Cheeky Balancepiece |

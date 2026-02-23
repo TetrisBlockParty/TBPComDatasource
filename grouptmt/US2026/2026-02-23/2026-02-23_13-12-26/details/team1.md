@@ -409,8 +409,8 @@
 | 401 | 199 | Larissa Marie Nelson |
 | 402 | 198 | Marci Sanders |
 | 403 | 197 | Cool Towerzone |
-| 404 | 196 | Steph |
-| 405 | 196 | Rachel Copas |
+| 404 | 196 | Rachel Copas |
+| 405 | 196 | Steph |
 | 406 | 196 | Amie Fields |
 | 407 | 195 | Norma Paredez |
 | 408 | 195 | Teresa |
@@ -502,7 +502,7 @@
 | 494 | 163 | SavageBooty98 |
 | 495 | 163 | Barry Mac'Ockner |
 | 496 | 162 | Charla Pross-Fugleberg |
-| 497 | 162 | Nerdy Curvebuilder |
+| 497 | 162 | Jennifer Corrado |
 | 498 | 162 | Hector Cruz |
 | 499 | 162 | Nerdy Curvebuilder |
 | 500 | 161 | Rachel Nilles |
