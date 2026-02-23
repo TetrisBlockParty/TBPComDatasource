@@ -291,8 +291,8 @@
 | 283 | 1264 | Missie Lawson Gebhardt |
 | 284 | 1260 | Roman Lavochnik |
 | 285 | 1259 | Foxxo |
-| 286 | 1257 | Megan Ferguson Leone |
-| 287 | 1257 | Megan Garrick |
+| 286 | 1257 | Megan Garrick |
+| 287 | 1257 | Megan Ferguson Leone |
 | 288 | 1247 | Ericka Marie Smith |
 | 289 | 1241 | Jennifer Casey-Kay |
 | 290 | 1241 | Jackie Lucas |
@@ -308,11 +308,11 @@
 | 300 | 1221 | Diallo Sparkman |
 | 301 | 1217 | Christina Lewis-Vickers |
 | 302 | 1217 | Brooks Brooks |
-| 303 | 1216 | Ashie Ann |
-| 304 | 1216 | Pacynthia Williams |
+| 303 | 1216 | Pacynthia Williams |
+| 304 | 1216 | Ashie Ann |
 | 305 | 1214 | David Cudicio-Hayden |
-| 306 | 1211 | Ricardo Burton |
-| 307 | 1211 | Cynthia Ward |
+| 306 | 1211 | Cynthia Ward |
+| 307 | 1211 | Ricardo Burton |
 | 308 | 1210 | Amber Gray |
 | 309 | 1188 | Amber Brion |
 | 310 | 1184 | Jamie Otero |
@@ -774,8 +774,8 @@
 | 766 | 590 | Maddy Petersen |
 | 767 | 590 | Anthony |
 | 768 | 589 | Kelly Templeton |
-| 769 | 589 | Snippy Rumbler |
-| 770 | 589 | Thomas Hedrick |
+| 769 | 589 | Thomas Hedrick |
+| 770 | 589 | Snippy Rumbler |
 | 771 | 588 | Mrs. New |
 | 772 | 588 | Kat Mfm Kaul |
 | 773 | 587 | Alicia Moreno |

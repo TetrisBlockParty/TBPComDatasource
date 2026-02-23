@@ -162,8 +162,8 @@
 | 154 | 520 | Zippy Block |
 | 155 | 519 | Lucas J Sutton |
 | 156 | 518 | Carly Alexis |
-| 157 | 516 | Twisty Clicky |
-| 158 | 516 | Trish |
+| 157 | 516 | Trish |
+| 158 | 516 | Twisty Clicky |
 | 159 | 514 | Scott Jameson |
 | 160 | 513 | Erin Thomas |
 | 161 | 513 | Jessica Lynn Cutlip |
@@ -262,14 +262,14 @@
 | 254 | 366 | Cheery Risebuilder |
 | 255 | 366 | Andrew Dang |
 | 256 | 365 | Hyper Builder |
-| 257 | 363 | TRCuse |
-| 258 | 363 | KimoKoala |
+| 257 | 363 | KimoKoala |
+| 258 | 363 | TRCuse |
 | 259 | 361 | Danielle Kollias |
 | 260 | 360 | Ari Droff |
 | 261 | 360 | James Hurley Jr. |
 | 262 | 358 | Twisty Cascadezone |
-| 263 | 356 | Joeliecea Cobb |
-| 264 | 356 | mike |
+| 263 | 356 | mike |
+| 264 | 356 | Joeliecea Cobb |
 | 265 | 355 | David Lay |
 | 266 | 353 | Chaz |
 | 267 | 352 | scott |
@@ -277,8 +277,8 @@
 | 269 | 350 | Jen Caldwell |
 | 270 | 349 | jim |
 | 271 | 348 | blasterB |
-| 272 | 347 | Daria Rycewicz |
-| 273 | 347 | Gdiguy |
+| 272 | 347 | Gdiguy |
+| 273 | 347 | Daria Rycewicz |
 | 274 | 343 | HastyGrabber |
 | 275 | 340 | Cranky Rollpiece |
 | 276 | 340 | Lauren Lamb |
@@ -293,8 +293,8 @@
 | 285 | 321 | Chance Strickland |
 | 286 | 317 | Madison Sweere |
 | 287 | 316 | Stella |
-| 288 | 315 | Heather Bruce |
-| 289 | 315 | Vic |
+| 288 | 315 | Vic |
+| 289 | 315 | Heather Bruce |
 | 290 | 314 | Lora |
 | 291 | 313 | Milan Markeisha |
 | 292 | 313 | Jason Gibbs |
@@ -336,8 +336,8 @@
 | 328 | 284 | rebel4lyfe |
 | 329 | 284 | Malakai Darien Fox |
 | 330 | 283 | Jackie Clark |
-| 331 | 282 | Shiny Pivoty |
-| 332 | 282 | DQ Martin |
+| 331 | 282 | DQ Martin |
+| 332 | 282 | Shiny Pivoty |
 | 333 | 282 | Bradley Reeves |
 | 334 | 281 | Amy Sanford |
 | 335 | 281 | Ak Jones |

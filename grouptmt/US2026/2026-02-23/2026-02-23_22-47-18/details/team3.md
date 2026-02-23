@@ -177,8 +177,8 @@
 | 169 | 761 | Peppy Shifter |
 | 170 | 757 | Fancy Cascader |
 | 171 | 756 | Patty Allen |
-| 172 | 755 | Tye Stovall |
-| 173 | 755 | Raya |
+| 172 | 755 | Raya |
+| 173 | 755 | Tye Stovall |
 | 174 | 742 | Jennifer Lynn Fahrenholtz-Summers |
 | 175 | 740 | Kiki |
 | 176 | 738 | Naur |
@@ -264,8 +264,8 @@
 | 256 | 520 | Cozy Snaplink |
 | 257 | 519 | Nichol Graham |
 | 258 | 516 | Daring Brickzone |
-| 259 | 513 | PrncssPJ |
-| 260 | 513 | Giggy Glidepiece |
+| 259 | 513 | Giggy Glidepiece |
+| 260 | 513 | PrncssPJ |
 | 261 | 513 | Lizabeth Fox |
 | 262 | 510 | Marquita Sheard |
 | 263 | 508 | joz |
@@ -294,8 +294,8 @@
 | 286 | 471 | Mendoza Lee Christy |
 | 287 | 470 | thekey |
 | 288 | 468 | Sarah Moyer |
-| 289 | 464 | Danielle Weikel |
-| 290 | 464 | Noyb Adam |
+| 289 | 464 | Noyb Adam |
+| 290 | 464 | Danielle Weikel |
 | 291 | 462 | Sleepy |
 | 292 | 461 | Tom Nault |
 | 293 | 461 | LaShey Thompson |
@@ -571,9 +571,9 @@
 | 563 | 268 | Sabrina Mansfield |
 | 564 | 268 | Julia Nicole |
 | 565 | 267 | April Matthew Kibble |
-| 566 | 266 | Frothy Snapper |
-| 567 | 266 | Reina Roth |
-| 568 | 266 | Quirky Dropzone |
+| 566 | 266 | Quirky Dropzone |
+| 567 | 266 | Frothy Snapper |
+| 568 | 266 | Reina Roth |
 | 569 | 265 | Danielle Dani |
 | 570 | 264 | Danielle Beaunoyer Jean |
 | 571 | 264 | Morgan Cudo |
