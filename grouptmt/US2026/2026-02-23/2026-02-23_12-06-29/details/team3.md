@@ -77,8 +77,8 @@
 | 69 | 1264 | Amanda L Baker |
 | 70 | 1258 | Danielle Cutler |
 | 71 | 1256 | Jessica Bechler |
-| 72 | 1213 | Nerdy Riseclear |
-| 73 | 1213 | Snappy Glidepiece |
+| 72 | 1213 | Snappy Glidepiece |
+| 73 | 1213 | Nerdy Riseclear |
 | 74 | 1209 | Amanda Adkins |
 | 75 | 1186 | Christian A. Pollard |
 | 76 | 1162 | Gracie |
@@ -169,8 +169,8 @@
 | 161 | 634 | Amber Hughes |
 | 162 | 631 | Grego Daniel |
 | 163 | 630 | yoyo |
-| 164 | 621 | Cherry Parker |
-| 165 | 621 | Sashay Tapae Simpson |
+| 164 | 621 | Sashay Tapae Simpson |
+| 165 | 621 | Cherry Parker |
 | 166 | 616 | Kammy Hill |
 | 167 | 611 | Rochelle Hazelett |
 | 168 | 603 | Jone |
@@ -518,15 +518,15 @@
 | 510 | 217 | Katie Leigh Blankenship |
 | 511 | 217 | Tia Moore |
 | 512 | 217 | Jazzy Spinfit |
-| 513 | 216 | Stephanie Whitefield |
-| 514 | 216 | Amanda Declue |
-| 515 | 214 | Crystal Hine |
+| 513 | 216 | Amanda Declue |
+| 514 | 216 | Stephanie Whitefield |
+| 515 | 214 | Amy Fuller Heaton |
 | 516 | 214 | Jumpy Curvebuilder |
 | 517 | 214 | Crystal Hine |
 | 518 | 213 | AC Yeater |
 | 519 | 213 | Linda Draper |
 | 520 | 213 | Flashy Rumbler |
-| 521 | 213 | AC Yeater |
+| 521 | 213 | Jack Bo |
 | 522 | 213 | Ktfreeee |
 | 523 | 212 | Boldy Blocker |
 | 524 | 212 | Beth Ingham |

@@ -875,8 +875,8 @@
 | 867 | 436 | Christina Loftus |
 | 868 | 436 | Regina Knight |
 | 869 | 435 | Snappy snappers |
-| 870 | 435 | Janai Vrabel |
-| 871 | 435 | Taylor Flowers |
+| 870 | 435 | Taylor Flowers |
+| 871 | 435 | Janai Vrabel |
 | 872 | 435 | John |
 | 873 | 434 | Veronics |
 | 874 | 433 | Melissa Koria |
