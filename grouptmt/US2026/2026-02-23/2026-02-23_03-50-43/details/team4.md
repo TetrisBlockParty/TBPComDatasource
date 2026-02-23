@@ -443,7 +443,7 @@
 | 435 | 153 | O block |
 | 436 | 152 | Vanessa Smart |
 | 437 | 152 | Faja |
-| 438 | 152 | Vanessa Smart |
+| 438 | 152 | Michael Orris |
 | 439 | 152 | Sticherella |
 | 440 | 152 | Sho Nuff |
 | 441 | 151 | Tony Pavelka |
@@ -645,7 +645,7 @@
 | 637 | 101 | RIFATSIKDER |
 | 638 | 100 | Hediyuda |
 | 639 | 100 | Christine Simmons |
-| 640 | 100 | Hediyuda |
+| 640 | 100 | Joyce Fees |
 | 641 | 100 | James Philpot Ross |
 | 642 | 99 | Kenna Gunderland |
 | 643 | 99 | Kelly Williams |

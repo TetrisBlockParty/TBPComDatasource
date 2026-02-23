@@ -320,8 +320,8 @@
 | 312 | 915 | Kelly Trent |
 | 313 | 914 | Shuany Arias |
 | 314 | 909 | Tyler C. Jung |
-| 315 | 907 | Gene Mills |
-| 316 | 907 | Michelle Lee |
+| 315 | 907 | Michelle Lee |
+| 316 | 907 | Gene Mills |
 | 317 | 905 | F-X |
 | 318 | 904 | Jennifer Aiken |
 | 319 | 904 | John Bednarik |
@@ -467,8 +467,8 @@
 | 459 | 680 | blume |
 | 460 | 679 | Kassandra Hunt |
 | 461 | 678 | AgileDragon |
-| 462 | 677 | Ellie Jonas |
-| 463 | 677 | Amanda Woodruff |
+| 462 | 677 | Amanda Woodruff |
+| 463 | 677 | Ellie Jonas |
 | 464 | 677 | Kayleigh Wisse |
 | 465 | 676 | Roseanna Peloso |
 | 466 | 676 | Brandon Armstrong |

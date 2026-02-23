@@ -189,8 +189,8 @@
 | 181 | 317 | Sarah Roberts |
 | 182 | 316 | Reesey Enyart |
 | 183 | 315 | Danielle Little-Daugherty |
-| 184 | 312 | Kimberly Garcia |
-| 185 | 312 | Jessi Sauer |
+| 184 | 312 | Jessi Sauer |
+| 185 | 312 | Kimberly Garcia |
 | 186 | 312 | Mike Ames |
 | 187 | 312 | Margo Wagner |
 | 188 | 311 | Letson Melissa |
@@ -278,12 +278,12 @@
 | 270 | 229 | Dino |
 | 271 | 228 | Adele Rahman |
 | 272 | 227 | Happy Snapbuild |
-| 273 | 226 | Snappy Brickbuilder |
-| 274 | 226 | Glitzy Buildsnap |
+| 273 | 226 | Glitzy Buildsnap |
+| 274 | 226 | Snappy Brickbuilder |
 | 275 | 224 | Jumpy Rotate |
-| 276 | 223 | Erez Yosef |
-| 277 | 223 | Christina Backer |
-| 278 | 223 | Layzietyme |
+| 276 | 223 | Christina Backer |
+| 277 | 223 | Layzietyme |
+| 278 | 223 | Erez Yosef |
 | 279 | 222 | Debbie Davis |
 | 280 | 222 | Jessie Welch |
 | 281 | 222 | Snappy Bridgepiece |
