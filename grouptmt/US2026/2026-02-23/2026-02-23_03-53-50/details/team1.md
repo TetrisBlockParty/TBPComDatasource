@@ -160,8 +160,8 @@
 | 152 | 364 | Serina Marie |
 | 153 | 360 | Wisa |
 | 154 | 355 | Carrie Smith |
-| 155 | 353 | Jaimie Lynn |
-| 156 | 353 | Josh Riemer |
+| 155 | 353 | Josh Riemer |
+| 156 | 353 | Jaimie Lynn |
 | 157 | 350 | Tipsy Strikerpiece |
 | 158 | 346 | GATOR |
 | 159 | 345 | Jerry Danowski |

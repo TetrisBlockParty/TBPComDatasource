@@ -262,8 +262,8 @@
 | 254 | 1073 | Jodi Blake |
 | 255 | 1071 | Kim Dean |
 | 256 | 1064 | BK Queen |
-| 257 | 1058 | Offonar Facey |
-| 258 | 1058 | Rickey Johnson |
+| 257 | 1058 | Rickey Johnson |
+| 258 | 1058 | Offonar Facey |
 | 259 | 1055 | Robin Kerby |
 | 260 | 1048 | Desiree Anderson |
 | 261 | 1047 | Dany Murillo |
@@ -287,8 +287,8 @@
 | 279 | 987 | Osun Anuket Esu |
 | 280 | 987 | Julie Kresal |
 | 281 | 984 | Crystal Hoffman |
-| 282 | 979 | Melissa Penelope Ann Dodge |
-| 283 | 979 | Hillary Crawford |
+| 282 | 979 | Hillary Crawford |
+| 283 | 979 | Melissa Penelope Ann Dodge |
 | 284 | 976 | Sam Joe |
 | 285 | 972 | Della Hole |
 | 286 | 972 | Binyah-Binyah |
@@ -377,8 +377,8 @@
 | 369 | 799 | Joy LaJeunesse |
 | 370 | 796 | Amber Gray |
 | 371 | 793 | Heather Schelkopf |
-| 372 | 793 | Ashley Dow |
-| 373 | 793 | Arlene Joy Belicina |
+| 372 | 793 | Arlene Joy Belicina |
+| 373 | 793 | Ashley Dow |
 | 374 | 790 | Brenda Pierpoint |
 | 375 | 789 | Patrick Bartlett |
 | 376 | 788 | Erika Densmore |
@@ -467,8 +467,8 @@
 | 459 | 680 | blume |
 | 460 | 679 | Kassandra Hunt |
 | 461 | 678 | AgileDragon |
-| 462 | 677 | Amanda Woodruff |
-| 463 | 677 | Ellie Jonas |
+| 462 | 677 | Ellie Jonas |
+| 463 | 677 | Amanda Woodruff |
 | 464 | 677 | Kayleigh Wisse |
 | 465 | 676 | Roseanna Peloso |
 | 466 | 676 | Brandon Armstrong |

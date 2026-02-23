@@ -199,8 +199,8 @@
 | 191 | 488 | Melissa Orth Hunter |
 | 192 | 485 | Terry Jo Jones |
 | 193 | 485 | Dapper Snap |
-| 194 | 480 | Danielle Allison |
-| 195 | 480 | Michael Johnson |
+| 194 | 480 | Michael Johnson |
+| 195 | 480 | Danielle Allison |
 | 196 | 475 | Tessina Dewey-Mancino |
 | 197 | 473 | Rachel |
 | 198 | 472 | Jenny Hrndz |
@@ -316,7 +316,7 @@
 | 308 | 299 | Angie Harper |
 | 309 | 298 | Grams |
 | 310 | 297 | kacihall |
-| 311 | 296 | Tracy Martin |
+| 311 | 296 | Hasty Gridpiece |
 | 312 | 296 | Donna |
 | 313 | 296 | Tracy Martin |
 | 314 | 295 | Geoffrey Nash |
