@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Kimyatta Cavin |
-| 84 | 684 | Jonathan Kimbrough |
+| 83 | 684 | Jonathan Kimbrough |
+| 84 | 684 | Kimyatta Cavin |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -125,8 +125,8 @@
 | 117 | 514 | Serena Goodridge |
 | 118 | 514 | Scott Jameson |
 | 119 | 513 | Erin Thomas |
-| 120 | 512 | Casey Jeffcoat |
-| 121 | 512 | Cristy Duerksen |
+| 120 | 512 | Cristy Duerksen |
+| 121 | 512 | Casey Jeffcoat |
 | 122 | 511 | Lori Walker |
 | 123 | 509 | Leslie Nicole |
 | 124 | 487 | Ren Mc |
@@ -293,8 +293,8 @@
 | 285 | 238 | 中山成巳 |
 | 286 | 237 | Christine Therrien |
 | 287 | 235 | LaDonna LovinmesomeMe Lambert |
-| 288 | 235 | Shainne Brewer |
-| 289 | 235 | Chair |
+| 288 | 235 | Chair |
+| 289 | 235 | Shainne Brewer |
 | 290 | 234 | Richard-April Kice |
 | 291 | 233 | Ruben Wheeler |
 | 292 | 233 | Joseph Edmonson |
@@ -339,9 +339,9 @@
 | 331 | 208 | Heather Bruce |
 | 332 | 208 | Shukee Lo |
 | 333 | 207 | Squeezy Pearsall |
-| 334 | 206 | Laura Hosford |
-| 335 | 206 | Maureen Flanigan |
-| 336 | 206 | June Hoffman |
+| 334 | 206 | Maureen Flanigan |
+| 335 | 206 | June Hoffman |
+| 336 | 206 | Laura Hosford |
 | 337 | 205 | KayM |
 | 338 | 204 | Ruby Khalisadar |
 | 339 | 204 | Russ Attitude |
@@ -371,10 +371,10 @@
 | 363 | 189 | Berklie Apedaile |
 | 364 | 189 | Lauren Lamb |
 | 365 | 188 | Sharyn Lemire |
-| 366 | 187 | Cozy Balancer |
-| 367 | 187 | Jenny Wells-Oakley |
-| 368 | 186 | Dandy Cascadefit |
-| 369 | 186 | Shanon Klair |
+| 366 | 187 | Jenny Wells-Oakley |
+| 367 | 187 | Cozy Balancer |
+| 368 | 186 | Shanon Klair |
+| 369 | 186 | Dandy Cascadefit |
 | 370 | 186 | Eri Kka |
 | 371 | 185 | Moonsterix |
 | 372 | 185 | Val Erie |

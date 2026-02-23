@@ -311,8 +311,8 @@
 | 303 | 976 | Sam Joe |
 | 304 | 976 | Della Hole |
 | 305 | 975 | Hyper Cluster |
-| 306 | 972 | Barbra Miller |
-| 307 | 972 | Binyah-Binyah |
+| 306 | 972 | Binyah-Binyah |
+| 307 | 972 | Barbra Miller |
 | 308 | 971 | Jojo Momma |
 | 309 | 969 | Boldy Cascadepiece |
 | 310 | 969 | Em Chen |
@@ -377,8 +377,8 @@
 | 369 | 829 | Jessica Wayne Cornwall |
 | 370 | 828 | Kimmy Newman |
 | 371 | 825 | Jeremy Parodi |
-| 372 | 824 | Khalil Lowe |
-| 373 | 824 | Danielle Johnson-Chandler |
+| 372 | 824 | Danielle Johnson-Chandler |
+| 373 | 824 | Khalil Lowe |
 | 374 | 822 | KhaosLord |
 | 375 | 822 | Lola Contreras |
 | 376 | 821 | Angie Bolton Workman |
@@ -405,8 +405,8 @@
 | 397 | 788 | Erika Densmore |
 | 398 | 787 | Tiara Elizabeth Baker |
 | 399 | 783 | John Rodriguez |
-| 400 | 777 | Jessicah Myers |
-| 401 | 777 | Tesha Oldaker |
+| 400 | 777 | Tesha Oldaker |
+| 401 | 777 | Jessicah Myers |
 | 402 | 776 | Fancy Twister |
 | 403 | 776 | Mighty Spinbuilder |
 | 404 | 775 | Crystie Hicks |
@@ -415,8 +415,8 @@
 | 407 | 771 | Stephanie Lumanlan |
 | 408 | 769 | Melissa Cole |
 | 409 | 769 | Kimberly Hope Howell |
-| 410 | 768 | Eric Castaneda |
-| 411 | 768 | Joshua Self |
+| 410 | 768 | Joshua Self |
+| 411 | 768 | Eric Castaneda |
 | 412 | 767 | Ashley Lopez |
 | 413 | 766 | Aimee Campbell |
 | 414 | 764 | Victoria Regina Girolami |
@@ -433,8 +433,8 @@
 | 425 | 755 | Taryece Gause |
 | 426 | 751 | Loony Snapper |
 | 427 | 751 | Breezy Filler |
-| 428 | 748 | Brenda Utphall |
-| 429 | 748 | Ann Matzkanin |
+| 428 | 748 | Ann Matzkanin |
+| 429 | 748 | Brenda Utphall |
 | 430 | 748 | Spunkysmom |
 | 431 | 746 | Leslie Ann Carter |
 | 432 | 742 | tejas25 |
@@ -497,8 +497,8 @@
 | 489 | 677 | Paul Combs |
 | 490 | 677 | Kayleigh Wisse |
 | 491 | 677 | Amanda Woodruff |
-| 492 | 676 | Nicky Jackson |
-| 493 | 676 | Roseanna Peloso |
+| 492 | 676 | Roseanna Peloso |
+| 493 | 676 | Nicky Jackson |
 | 494 | 675 | Lonne Emade |
 | 495 | 675 | Katelynn Hollen |
 | 496 | 674 | Ashley Munn |
@@ -590,8 +590,8 @@
 | 582 | 589 | Kelly Templeton |
 | 583 | 588 | Kitybox |
 | 584 | 587 | Ben Barkley |
-| 585 | 585 | Sarah Berger |
-| 586 | 585 | Jessica Lamb |
+| 585 | 585 | Jessica Lamb |
+| 586 | 585 | Sarah Berger |
 | 587 | 585 | Wuntayk |
 | 588 | 583 | AISlop |
 | 589 | 582 | Ebony Deloach Bryant |

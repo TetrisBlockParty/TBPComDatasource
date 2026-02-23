@@ -162,8 +162,8 @@
 | 154 | 634 | Amber Hughes |
 | 155 | 630 | yoyo |
 | 156 | 629 | Patricia White |
-| 157 | 621 | Cherry Parker |
-| 158 | 621 | Sashay Tapae Simpson |
+| 157 | 621 | Sashay Tapae Simpson |
+| 158 | 621 | Cherry Parker |
 | 159 | 616 | Kammy Hill |
 | 160 | 611 | Rochelle Hazelett |
 | 161 | 607 | Grego Daniel |
@@ -218,13 +218,13 @@
 | 210 | 480 | Michael Johnson |
 | 211 | 477 | Edwin Calvillo Jr. |
 | 212 | 475 | Tessina Dewey-Mancino |
-| 213 | 473 | Connie Mohler-Fair |
-| 214 | 473 | Rachel |
+| 213 | 473 | Rachel |
+| 214 | 473 | Connie Mohler-Fair |
 | 215 | 471 | Mendoza Lee Christy |
 | 216 | 467 | Sherry Ogden |
 | 217 | 465 | Annie Déè |
-| 218 | 464 | Shunta Jacobs |
-| 219 | 464 | Danielle Weikel |
+| 218 | 464 | Danielle Weikel |
+| 219 | 464 | Shunta Jacobs |
 | 220 | 461 | Tom Nault |
 | 221 | 458 | Danielle Rhoades |
 | 222 | 454 | Joye Sims Binion |
@@ -240,18 +240,18 @@
 | 232 | 430 | Jeni Dow |
 | 233 | 418 | Rebecca Funderburk Kirby |
 | 234 | 414 | Fran Lin |
-| 235 | 410 | Stephanie Simpson |
-| 236 | 410 | Duane Bright |
+| 235 | 410 | Duane Bright |
+| 236 | 410 | Stephanie Simpson |
 | 237 | 408 | Tiffany Ford |
 | 238 | 406 | Kristal C Lee |
 | 239 | 404 | Chasity |
-| 240 | 403 | Scott Lindsay |
-| 241 | 403 | Denita Mungro |
+| 240 | 403 | Denita Mungro |
+| 241 | 403 | Scott Lindsay |
 | 242 | 398 | Marci Mize Fandrich |
 | 243 | 396 | Randy Clevenger |
 | 244 | 395 | rosy |
-| 245 | 391 | Nicole Flippo |
-| 246 | 391 | RickyG |
+| 245 | 391 | RickyG |
+| 246 | 391 | Nicole Flippo |
 | 247 | 387 | Gideon Walker |
 | 248 | 383 | Darlene McMillan |
 | 249 | 382 | Giddy Twistbuilder |
@@ -271,8 +271,8 @@
 | 263 | 370 | Samantha Lynn |
 | 264 | 369 | Philip Rock |
 | 265 | 369 | Keis |
-| 266 | 368 | Sheila M Frazier |
-| 267 | 368 | Stephanie Woods |
+| 266 | 368 | Stephanie Woods |
+| 267 | 368 | Sheila M Frazier |
 | 268 | 367 | Kristin Delibac Corrigan |
 | 269 | 366 | Gumbo |
 | 270 | 365 | Noyb Adam |
@@ -364,8 +364,8 @@
 | 356 | 287 | Hoppy Patternline |
 | 357 | 284 | Hanna Kim |
 | 358 | 283 | Kaycee Kay |
-| 359 | 280 | ROODBOY |
-| 360 | 280 | Aerian Preston |
+| 359 | 280 | Aerian Preston |
+| 360 | 280 | ROODBOY |
 | 361 | 280 | Dirtgirl27 |
 | 362 | 279 | Naur |
 | 363 | 279 | Tosha Griffey |
@@ -389,12 +389,12 @@
 | 381 | 272 | Tay |
 | 382 | 272 | Romeo |
 | 383 | 269 | Juliana Dottore |
-| 384 | 269 | Jess Bissett |
-| 385 | 269 | Samantha Worley |
+| 384 | 269 | Samantha Worley |
+| 385 | 269 | Jess Bissett |
 | 386 | 269 | Goofy Fall |
 | 387 | 268 | Jessica Lynn French |
-| 388 | 267 | April Matthew Kibble |
-| 389 | 267 | Jul |
+| 388 | 267 | Jul |
+| 389 | 267 | April Matthew Kibble |
 | 390 | 267 | Michael Kimbro |
 | 391 | 266 | Quirky Dropzone |
 | 392 | 265 | Heather Davis |
@@ -428,10 +428,10 @@
 | 420 | 250 | Eric Caccavale |
 | 421 | 249 | Willow |
 | 422 | 248 | Brian Battjes |
-| 423 | 247 | Kevin Russell |
-| 424 | 247 | Jessica |
-| 425 | 245 | LaNette Morgan |
-| 426 | 245 | Latoya Mayne |
+| 423 | 247 | Jessica |
+| 424 | 247 | Kevin Russell |
+| 425 | 245 | Latoya Mayne |
+| 426 | 245 | LaNette Morgan |
 | 427 | 244 | Lys |
 | 428 | 244 | Beezwax |
 | 429 | 244 | Quackers |
@@ -470,8 +470,8 @@
 | 462 | 230 | BigE |
 | 463 | 229 | MizzMonick Smith |
 | 464 | 229 | Everret Maxine |
-| 465 | 228 | Tipsy Zonebuilder |
-| 466 | 228 | Dapper Liney |
+| 465 | 228 | Dapper Liney |
+| 466 | 228 | Tipsy Zonebuilder |
 | 467 | 227 | Meowsa |
 | 468 | 226 | paranoid |
 | 469 | 226 | Ryan Williams |
@@ -637,9 +637,9 @@
 | 629 | 173 | Beejangles |
 | 630 | 172 | Nichole Greene |
 | 631 | 172 | Big T |
-| 632 | 172 | Miranda Taylor |
+| 632 | 172 | Nicole Summers-Nelson |
 | 633 | 172 | Lexi |
-| 634 | 172 | Nicole Summers-Nelson |
+| 634 | 172 | Miranda Taylor |
 | 635 | 171 | Tommy Proctor |
 | 636 | 171 | Norma JulieMay |
 | 637 | 171 | Tammy |
@@ -655,8 +655,8 @@
 | 647 | 168 | Groovy Blockclear |
 | 648 | 168 | Glenn Loving |
 | 649 | 168 | Kristi Taylor |
-| 650 | 167 | Alison Baus |
-| 651 | 167 | Frothy Glider |
+| 650 | 167 | Frothy Glider |
+| 651 | 167 | Alison Baus |
 | 652 | 167 | Pam Holt Powell |
 | 653 | 167 | Jonathn Poindexter |
 | 654 | 167 | Funky Brickster |
@@ -693,8 +693,8 @@
 | 685 | 160 | Tipsy Puzzle |
 | 686 | 159 | Gina Marie |
 | 687 | 159 | Cameron Lovell |
-| 688 | 159 | Wetwet |
-| 689 | 159 | Angela VanOstrand |
+| 688 | 159 | Angela VanOstrand |
+| 689 | 159 | Wetwet |
 | 690 | 158 | Cameo Tweed |
 | 691 | 157 | Angel Mendez |
 | 692 | 157 | DeeDee13 |

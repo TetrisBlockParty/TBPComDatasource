@@ -48,8 +48,8 @@
 | 40 | 1094 | Hyp James NObettadanluvarat |
 | 41 | 1081 | Bhelle Sumile |
 | 42 | 1058 | Jorge Andrade |
-| 43 | 1032 | Cheeky Twistslam |
-| 44 | 1032 | Kathi Snustad |
+| 43 | 1032 | Kathi Snustad |
+| 44 | 1032 | Cheeky Twistslam |
 | 45 | 1027 | Robert Beck |
 | 46 | 1012 | Kristen Gideon |
 | 47 | 966 | Shalene Frederick Autrey |
@@ -83,8 +83,8 @@
 | 75 | 703 | Angel Fowler |
 | 76 | 689 | Susanna Guerry |
 | 77 | 679 | Hasbro Bros |
-| 78 | 657 | Tee Sheree |
-| 79 | 657 | Cynthia Bradley |
+| 78 | 657 | Cynthia Bradley |
+| 79 | 657 | Tee Sheree |
 | 80 | 655 | Brenda Stewart |
 | 81 | 647 | Jason Jones |
 | 82 | 645 | Robert Benito |
@@ -98,8 +98,8 @@
 | 90 | 575 | Nancy Green |
 | 91 | 570 | Cody Slav |
 | 92 | 562 | Denice Dee |
-| 93 | 534 | Loony Fitzone |
-| 94 | 534 | Veronica Eve |
+| 93 | 534 | Veronica Eve |
+| 94 | 534 | Loony Fitzone |
 | 95 | 529 | Ryan Lunnin |
 | 96 | 522 | Sarah Lombardo |
 | 97 | 511 | Mario Cab |
@@ -112,8 +112,8 @@
 | 104 | 493 | Jennifer ManWarren |
 | 105 | 492 | Ash Galvan |
 | 106 | 491 | cc |
-| 107 | 489 | April Carroll |
-| 108 | 489 | Deanna L Hermanson |
+| 107 | 489 | Deanna L Hermanson |
+| 108 | 489 | April Carroll |
 | 109 | 483 | Tdub |
 | 110 | 483 | Trina Gee |
 | 111 | 480 | Ty Brown |
@@ -164,10 +164,10 @@
 | 156 | 378 | Jessica Sheehan |
 | 157 | 376 | Brian Richardsson |
 | 158 | 376 | Death |
-| 159 | 375 | Connie |
-| 160 | 375 | Tanya Carpenter-Reynolds |
-| 161 | 371 | Jason Savage |
-| 162 | 371 | Basment Living |
+| 159 | 375 | Tanya Carpenter-Reynolds |
+| 160 | 375 | Connie |
+| 161 | 371 | Basment Living |
+| 162 | 371 | Jason Savage |
 | 163 | 369 | Christy Jones |
 | 164 | 368 | Amanda Johnson Huffman |
 | 165 | 367 | Sharon Reynolds |
@@ -209,8 +209,8 @@
 | 201 | 317 | Kimberly Garcia |
 | 202 | 316 | Reesey Enyart |
 | 203 | 315 | Danielle Little-Daugherty |
-| 204 | 314 | Tana |
-| 205 | 314 | Snippy Wipebuilder |
+| 204 | 314 | Snippy Wipebuilder |
+| 205 | 314 | Tana |
 | 206 | 312 | Jessi Sauer |
 | 207 | 310 | Bloknboy |
 | 208 | 308 | Speedy Liney |
@@ -245,11 +245,11 @@
 | 237 | 277 | Nutty Spinblock |
 | 238 | 277 | Melissa Lemmon |
 | 239 | 276 | Sam Williams |
-| 240 | 275 | Cheeky Pop |
-| 241 | 275 | Chris65 |
+| 240 | 275 | Chris65 |
+| 241 | 275 | Cheeky Pop |
 | 242 | 273 | Shannon Marie Pitts |
-| 243 | 272 | Barrbaric |
-| 244 | 272 | Tawnya Peltonen |
+| 243 | 272 | Tawnya Peltonen |
+| 244 | 272 | Barrbaric |
 | 245 | 271 | Frothy Pattern |
 | 246 | 270 | Brenda Alexander |
 | 247 | 270 | Debbie Kane |
@@ -303,8 +303,8 @@
 | 295 | 229 | Dino |
 | 296 | 228 | .running. |
 | 297 | 227 | Happy Snapbuild |
-| 298 | 226 | Glitzy Buildsnap |
-| 299 | 226 | Snappy Brickbuilder |
+| 298 | 226 | Snappy Brickbuilder |
+| 299 | 226 | Glitzy Buildsnap |
 | 300 | 225 | Angela Spann |
 | 301 | 224 | Sunny Shift |
 | 302 | 224 | Danielle Mae |
@@ -327,15 +327,15 @@
 | 319 | 220 | Gary Gobin |
 | 320 | 219 | Jeanna Dunn |
 | 321 | 219 | Negan Mallory Knoxx Spence |
-| 322 | 219 | Jeanna Dunn |
+| 322 | 219 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 323 | 218 | Jason Benitez |
 | 324 | 217 | Cheeky Crusher |
 | 325 | 217 | Betsy |
 | 326 | 217 | Speedy Snapfall |
 | 327 | 216 | Chad Atchley |
 | 328 | 216 | Shauntina Burke |
-| 329 | 215 | Alenoush Karimian |
-| 330 | 215 | Christina Norman |
+| 329 | 215 | Christina Norman |
+| 330 | 215 | Alenoush Karimian |
 | 331 | 214 | Kayla Marie Stevenson |
 | 332 | 213 | Ed Franz Jr |
 | 333 | 213 | John Barron |
@@ -352,11 +352,11 @@
 | 344 | 207 | Leslie Bush Yarbrough |
 | 345 | 207 | Fresno Beotoni |
 | 346 | 207 | Ric Hard Hernandez |
-| 347 | 207 | Fresno Beotoni |
+| 347 | 207 | Katie Martin |
 | 348 | 205 | build master |
 | 349 | 205 | Agustin Duarte Orozco |
-| 350 | 204 | Cranky Pattern |
-| 351 | 204 | LD1 |
+| 350 | 204 | LD1 |
+| 351 | 204 | Cranky Pattern |
 | 352 | 203 | Rebekah LeiAnn Bonsell |
 | 353 | 202 | Krie |
 | 354 | 202 | Amber Dee |
