@@ -62,10 +62,10 @@
 | 54 | 870 | BertMofo |
 | 55 | 864 | Shelly Chandler |
 | 56 | 863 | Pee |
-| 57 | 859 | Christina LR |
-| 58 | 859 | TeeJ |
-| 59 | 846 | Christine Marie |
-| 60 | 846 | Lucille Truesdale |
+| 57 | 859 | TeeJ |
+| 58 | 859 | Christina LR |
+| 59 | 846 | Lucille Truesdale |
+| 60 | 846 | Christine Marie |
 | 61 | 845 | LisaJo Picken Buchanan |
 | 62 | 834 | quicksand420 |
 | 63 | 807 | Amelpss |
@@ -129,8 +129,8 @@
 | 121 | 514 | Scott Jameson |
 | 122 | 514 | Serena Goodridge |
 | 123 | 513 | Erin Thomas |
-| 124 | 512 | Cristy Duerksen |
-| 125 | 512 | Casey Jeffcoat |
+| 124 | 512 | Casey Jeffcoat |
+| 125 | 512 | Cristy Duerksen |
 | 126 | 509 | Leslie Nicole |
 | 127 | 485 | Melissa Adams |
 | 128 | 483 | Angela Srubar-Norman |
@@ -157,8 +157,8 @@
 | 149 | 421 | Kesha Brady |
 | 150 | 418 | Marie-Pier Desjardins |
 | 151 | 418 | Lush Linkfall |
-| 152 | 417 | Amanda Pauldo-Ivy |
-| 153 | 417 | Steph Marie |
+| 152 | 417 | Steph Marie |
+| 153 | 417 | Amanda Pauldo-Ivy |
 | 154 | 416 | Chaz Duncan |
 | 155 | 414 | Nope Young |
 | 156 | 414 | Swanky Fitline |
@@ -205,18 +205,18 @@
 | 197 | 336 | JPW |
 | 198 | 332 | HastyGrabber |
 | 199 | 331 | Alan George LaRage |
-| 200 | 330 | blockstar |
-| 201 | 330 | Kathy Brookins |
+| 200 | 330 | Kathy Brookins |
+| 201 | 330 | blockstar |
 | 202 | 328 | scott |
 | 203 | 327 | J-Rizzle |
-| 204 | 324 | jim |
-| 205 | 324 | TinyLegoRose |
+| 204 | 324 | TinyLegoRose |
+| 205 | 324 | jim |
 | 206 | 321 | Meagan Nicole |
 | 207 | 320 | Lauren Scott |
 | 208 | 319 | Googenheim |
 | 209 | 318 | Chris Hartig |
-| 210 | 317 | Lori |
-| 211 | 317 | Madison Sweere |
+| 210 | 317 | Madison Sweere |
+| 211 | 317 | Lori |
 | 212 | 316 | Autumn Kumzi |
 | 213 | 313 | Milan Markeisha |
 | 214 | 312 | Dihcheese444 |
@@ -228,16 +228,16 @@
 | 220 | 307 | Michele Plunkett |
 | 221 | 306 | mike |
 | 222 | 305 | Melvin Baird |
-| 223 | 304 | Lindsay Ball |
-| 224 | 304 | Gdiguy |
+| 223 | 304 | Gdiguy |
+| 224 | 304 | Lindsay Ball |
 | 225 | 301 | Andria Lynn |
 | 226 | 300 | Dana Scott |
 | 227 | 295 | Keshia Lyons |
 | 228 | 294 | Porkobello |
 | 229 | 294 | Calvin Cannon |
 | 230 | 292 | Epic Curvetile |
-| 231 | 290 | Plucky Patternblock |
-| 232 | 290 | Rebecca Morris |
+| 231 | 290 | Rebecca Morris |
+| 232 | 290 | Plucky Patternblock |
 | 233 | 290 | Jared Gutwein |
 | 234 | 289 | Juls |
 | 235 | 288 | Brittney Orengo |
@@ -252,10 +252,10 @@
 | 244 | 281 | Laura |
 | 245 | 280 | Rio Rocha |
 | 246 | 279 | Malakai Darien Fox |
-| 247 | 278 | Angela Geist Jusinski |
-| 248 | 278 | Sarah Brown |
-| 249 | 276 | Cynthia Boudreau |
-| 250 | 276 | Joeliecea Cobb |
+| 247 | 278 | Sarah Brown |
+| 248 | 278 | Angela Geist Jusinski |
+| 249 | 276 | Joeliecea Cobb |
+| 250 | 276 | Cynthia Boudreau |
 | 251 | 275 | Kimberlee Jan Beckstead |
 | 252 | 273 | Cranky Rollpiece |
 | 253 | 272 | Dennis Bradley |
@@ -306,8 +306,8 @@
 | 298 | 237 | Christine Therrien |
 | 299 | 235 | LaDonna LovinmesomeMe Lambert |
 | 300 | 235 | Shainne Brewer |
-| 301 | 234 | Shanon Klair |
-| 302 | 234 | Richard-April Kice |
+| 301 | 234 | Richard-April Kice |
+| 302 | 234 | Shanon Klair |
 | 303 | 234 | Diosa Ebalobo Magsael |
 | 304 | 233 | Joseph Edmonson |
 | 305 | 231 | Brickh4us |

@@ -198,8 +198,8 @@
 | 190 | 546 | Mykal Burton |
 | 191 | 546 | Cynthia Castros-Hampton |
 | 192 | 540 | Shawn Miller |
-| 193 | 531 | Sarah Cowan Burgos |
-| 194 | 531 | Chauntee Alfrey-Cardinale |
+| 193 | 531 | Chauntee Alfrey-Cardinale |
+| 194 | 531 | Sarah Cowan Burgos |
 | 195 | 528 | Silly Twist |
 | 196 | 525 | Stephanie Blkpep Davidson |
 | 197 | 524 | Bmo |
@@ -363,11 +363,11 @@
 | 355 | 298 | Dannie Litchard |
 | 356 | 298 | Grams |
 | 357 | 297 | kacihall |
-| 358 | 296 | Tracy Martin |
-| 359 | 296 | Donna |
+| 358 | 296 | Donna |
+| 359 | 296 | Tracy Martin |
 | 360 | 296 | Amy Montz |
-| 361 | 292 | Kirhonda Autmon |
-| 362 | 292 | Khaleada McGill Banks |
+| 361 | 292 | Khaleada McGill Banks |
+| 362 | 292 | Kirhonda Autmon |
 | 363 | 289 | Cheryl Hinch Tenbrook |
 | 364 | 289 | Salena Whitlock |
 | 365 | 289 | DidIdothat |

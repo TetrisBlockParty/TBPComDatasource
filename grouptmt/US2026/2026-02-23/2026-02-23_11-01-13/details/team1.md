@@ -84,8 +84,8 @@
 | 76 | 703 | Angel Fowler |
 | 77 | 689 | Susanna Guerry |
 | 78 | 679 | Hasbro Bros |
-| 79 | 657 | Tee Sheree |
-| 80 | 657 | Cynthia Bradley |
+| 79 | 657 | Cynthia Bradley |
+| 80 | 657 | Tee Sheree |
 | 81 | 655 | Brenda Stewart |
 | 82 | 648 | Evie Khalil |
 | 83 | 647 | Jason Jones |
@@ -144,8 +144,8 @@
 | 136 | 429 | Kristi Johnson |
 | 137 | 428 | Ly Phethmany |
 | 138 | 426 | Maria C. Hernandez |
-| 139 | 425 | Tyler Werts |
-| 140 | 425 | Dandy Basegrid |
+| 139 | 425 | Dandy Basegrid |
+| 140 | 425 | Tyler Werts |
 | 141 | 423 | ALFD |
 | 142 | 417 | Phu ckalldems |
 | 143 | 406 | Candy Jones |
@@ -195,8 +195,8 @@
 | 187 | 357 | Shiny Snapfit |
 | 188 | 355 | Amanda Jarnagin |
 | 189 | 353 | Josh Riemer |
-| 190 | 353 | Jaimie Lynn |
-| 191 | 353 | Dizzy Party |
+| 190 | 353 | Dizzy Party |
+| 191 | 353 | Jaimie Lynn |
 | 192 | 350 | Tipsy Strikerpiece |
 | 193 | 349 | Cool Shiftsnap |
 | 194 | 347 | Elaine Elaine |
@@ -215,8 +215,8 @@
 | 207 | 327 | Jen Nystrom |
 | 208 | 325 | GringaLinga |
 | 209 | 324 | Rat666 |
-| 210 | 323 | Eric DeSimone |
-| 211 | 323 | Madison Wicks |
+| 210 | 323 | Madison Wicks |
+| 211 | 323 | Eric DeSimone |
 | 212 | 322 | Letson Melissa |
 | 213 | 317 | Sarah Roberts |
 | 214 | 317 | Kimberly Garcia |
@@ -245,8 +245,8 @@
 | 237 | 287 | Sassy Builderline |
 | 238 | 285 | Shanae Grant |
 | 239 | 285 | Bird Person |
-| 240 | 284 | Sam Williams |
-| 241 | 284 | Sir-Franchise Drake |
+| 240 | 284 | Sir-Franchise Drake |
+| 241 | 284 | Sam Williams |
 | 242 | 283 | Franswa |
 | 243 | 282 | Timothy Dew |
 | 244 | 281 | Clever Cascadepiece |
@@ -384,8 +384,8 @@
 | 376 | 201 | Colleen Wise |
 | 377 | 201 | Rico Rico |
 | 378 | 200 | Zesty Brickzone |
-| 379 | 199 | Larissa Marie Nelson |
-| 380 | 199 | Tina Englert |
+| 379 | 199 | Tina Englert |
+| 380 | 199 | Larissa Marie Nelson |
 | 381 | 198 | Marci Sanders |
 | 382 | 197 | Cool Towerzone |
 | 383 | 196 | Marc Abney |
@@ -503,7 +503,7 @@
 | 495 | 155 | Shiny Rotate |
 | 496 | 154 | Tazz |
 | 497 | 154 | Brian Spotts |
-| 498 | 154 | Chyna Mae |
+| 498 | 154 | TristansDad |
 | 499 | 154 | Lush Zoney |
 | 500 | 154 | Chyna Mae |
 | 501 | 153 | Toph |

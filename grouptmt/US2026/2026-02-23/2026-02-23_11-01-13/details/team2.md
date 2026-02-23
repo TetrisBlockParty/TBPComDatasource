@@ -44,8 +44,8 @@
 | 36 | 4280 | Robert Diddle |
 | 37 | 4199 | Claire Noland |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Corrine Hawks Soriano |
-| 40 | 4120 | Kristen Sceurman |
+| 39 | 4120 | Kristen Sceurman |
+| 40 | 4120 | Corrine Hawks Soriano |
 | 41 | 3947 | Melinda Brown |
 | 42 | 3845 | jayjay |
 | 43 | 3827 | Karen Kman Van Heirseele |
@@ -172,8 +172,8 @@
 | 164 | 1581 | Brandy Andre |
 | 165 | 1580 | Sally Dennis |
 | 166 | 1574 | Stephen Stephen |
-| 167 | 1558 | Crystal Slaughter |
-| 168 | 1558 | Tim Dyer |
+| 167 | 1558 | Tim Dyer |
+| 168 | 1558 | Crystal Slaughter |
 | 169 | 1555 | blarg |
 | 170 | 1543 | Amy Sayers |
 | 171 | 1541 | Cherica Taylor |
@@ -307,8 +307,8 @@
 | 299 | 1014 | Michele Morgan |
 | 300 | 1011 | Teresa Gillmore |
 | 301 | 1003 | Andrea Maher |
-| 302 | 998 | Keri Womack |
-| 303 | 998 | Shelley Thornburgh Wright |
+| 302 | 998 | Shelley Thornburgh Wright |
+| 303 | 998 | Keri Womack |
 | 304 | 996 | Ashie Ann |
 | 305 | 987 | Osun Anuket Esu |
 | 306 | 979 | Melissa Penelope Ann Dodge |
@@ -514,8 +514,8 @@
 | 506 | 677 | Jackie Burnett |
 | 507 | 677 | Kayleigh Wisse |
 | 508 | 677 | Amanda Woodruff |
-| 509 | 676 | Nicky Jackson |
-| 510 | 676 | Roseanna Peloso |
+| 509 | 676 | Roseanna Peloso |
+| 510 | 676 | Nicky Jackson |
 | 511 | 675 | Lonne Emade |
 | 512 | 675 | Katelynn Hollen |
 | 513 | 674 | Ashley Munn |
@@ -578,8 +578,8 @@
 | 570 | 614 | Emilee Burke |
 | 571 | 614 | Jessica S Flecha |
 | 572 | 613 | Audrey Jones |
-| 573 | 612 | Briana Alexander |
-| 574 | 612 | Slinky Racker |
+| 573 | 612 | Slinky Racker |
+| 574 | 612 | Briana Alexander |
 | 575 | 610 | Michael Buckner |
 | 576 | 609 | Autumn Schaeffer |
 | 577 | 609 | Cecilia A Jenkins |
@@ -634,9 +634,9 @@
 | 626 | 571 | Slip |
 | 627 | 569 | Sparkles |
 | 628 | 566 | Lindsey Leigh |
-| 629 | 566 | Tina Marie |
-| 630 | 566 | Isabelle Bonneau |
-| 631 | 566 | SwampRebel |
+| 629 | 566 | SwampRebel |
+| 630 | 566 | Tina Marie |
+| 631 | 566 | Isabelle Bonneau |
 | 632 | 564 | Stacey Tranchida |
 | 633 | 563 | Frisky Clearpiece |
 | 634 | 563 | Nat |
@@ -721,8 +721,8 @@
 | 713 | 507 | Lina Sanders |
 | 714 | 506 | Cblock |
 | 715 | 505 | Casey Schumacher |
-| 716 | 502 | Jasmine Kenney |
-| 717 | 502 | Enha |
+| 716 | 502 | Enha |
+| 717 | 502 | Jasmine Kenney |
 | 718 | 500 | Ryan Meilleur |
 | 719 | 500 | Amy Reynolds |
 | 720 | 499 | Demitri Smith |
@@ -735,14 +735,14 @@
 | 727 | 496 | Angelina Marie |
 | 728 | 496 | Tracy Cowley |
 | 729 | 496 | Eunique Griffin |
-| 730 | 496 | Anthony Mignacca |
-| 731 | 496 | Shyne Sun |
-| 732 | 495 | Brandon Jones |
-| 733 | 495 | Bubbly Snapbuild |
-| 734 | 494 | Cat Thompson |
-| 735 | 494 | Melanie Csikortos |
-| 736 | 494 | Quinn |
-| 737 | 494 | Min |
+| 730 | 496 | Shyne Sun |
+| 731 | 496 | Anthony Mignacca |
+| 732 | 495 | Bubbly Snapbuild |
+| 733 | 495 | Brandon Jones |
+| 734 | 494 | Melanie Csikortos |
+| 735 | 494 | Cat Thompson |
+| 736 | 494 | Min |
+| 737 | 494 | Quinn |
 | 738 | 493 | Sue Leard |
 | 739 | 493 | Skyler Morgan |
 | 740 | 492 | Jason Kelly |
@@ -826,8 +826,8 @@
 | 818 | 455 | Darlene Bowman |
 | 819 | 453 | Polly Pritchard Chesler |
 | 820 | 453 | Epic Stackzone |
-| 821 | 452 | Ashley Taylor |
-| 822 | 452 | Cranky Tower |
+| 821 | 452 | Cranky Tower |
+| 822 | 452 | Ashley Taylor |
 | 823 | 452 | Tipsy Filler |
 | 824 | 451 | Stefanie Zonzini-Gagliardi |
 | 825 | 451 | Sharon Mills |
@@ -840,8 +840,8 @@
 | 832 | 446 | Courtney Burcham |
 | 833 | 446 | Colin Morgan |
 | 834 | 445 | Tim Galle |
-| 835 | 445 | Beatboxxer |
-| 836 | 445 | Mar Q Thomas |
+| 835 | 445 | Mar Q Thomas |
+| 836 | 445 | Beatboxxer |
 | 837 | 444 | Angela Murgia-Owen |
 | 838 | 444 | Lynda Toland |
 | 839 | 443 | N00D3S |
