@@ -235,8 +235,8 @@
 | 227 | 409 | Antony Dwayne Beasley |
 | 228 | 403 | TinyLegoRose |
 | 229 | 400 | Brickh4us |
-| 230 | 399 | Jeff Brian Gates |
-| 231 | 399 | Lindsay Ball |
+| 230 | 399 | Lindsay Ball |
+| 231 | 399 | Jeff Brian Gates |
 | 232 | 398 | Tyler Terrific |
 | 233 | 395 | 030Synner |
 | 234 | 394 | Nita Wells |
@@ -268,8 +268,8 @@
 | 260 | 365 | Hyper Builder |
 | 261 | 363 | KimoKoala |
 | 262 | 361 | Danielle Kollias |
-| 263 | 360 | Ari Droff |
-| 264 | 360 | James Hurley Jr. |
+| 263 | 360 | James Hurley Jr. |
+| 264 | 360 | Ari Droff |
 | 265 | 358 | Twisty Cascadezone |
 | 266 | 356 | mike |
 | 267 | 356 | Joeliecea Cobb |
@@ -492,8 +492,8 @@
 | 484 | 208 | Stacy |
 | 485 | 208 | Moonsterix |
 | 486 | 208 | Wacky Blockclear |
-| 487 | 207 | Sam Middleton |
-| 488 | 207 | Jessica Wells |
+| 487 | 207 | Jessica Wells |
+| 488 | 207 | Sam Middleton |
 | 489 | 207 | SammieJo Guy |
 | 490 | 206 | Globofish |
 | 491 | 206 | James Philpot Ross |

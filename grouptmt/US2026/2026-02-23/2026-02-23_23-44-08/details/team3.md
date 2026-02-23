@@ -178,8 +178,8 @@
 | 170 | 762 | Santeria Trece Candles |
 | 171 | 761 | Peppy Shifter |
 | 172 | 757 | Fancy Cascader |
-| 173 | 755 | Laura Booth Wosko |
-| 174 | 755 | Tye Stovall |
+| 173 | 755 | Tye Stovall |
+| 174 | 755 | Laura Booth Wosko |
 | 175 | 742 | Jennifer Lynn Fahrenholtz-Summers |
 | 176 | 740 | Kiki |
 | 177 | 738 | Naur |
@@ -189,8 +189,8 @@
 | 181 | 728 | Edwin Calvillo Jr. |
 | 182 | 726 | Michael Nowogorski |
 | 183 | 725 | Alaina Lee |
-| 184 | 716 | Morgan Martinez |
-| 185 | 716 | Annie Marie |
+| 184 | 716 | Annie Marie |
+| 185 | 716 | Morgan Martinez |
 | 186 | 715 | Karon Griffin |
 | 187 | 714 | Jone |
 | 188 | 714 | Jenny Hrndz |
@@ -272,8 +272,8 @@
 | 264 | 513 | PrncssPJ |
 | 265 | 513 | Lizabeth Fox |
 | 266 | 510 | Marquita Sheard |
-| 267 | 508 | joz |
-| 268 | 508 | rosy |
+| 267 | 508 | rosy |
+| 268 | 508 | joz |
 | 269 | 507 | Snappy Balancer |
 | 270 | 506 | Ammmmmmy |
 | 271 | 505 | Stephanie Simpson |
@@ -297,8 +297,8 @@
 | 289 | 476 | Shunta Jacobs |
 | 290 | 475 | Tasha Wesson-Torrence |
 | 291 | 474 | Tiffanie Alley |
-| 292 | 471 | Mendoza Lee Christy |
-| 293 | 471 | Alexmac |
+| 292 | 471 | Alexmac |
+| 293 | 471 | Mendoza Lee Christy |
 | 294 | 470 | thekey |
 | 295 | 468 | Betty Rosas |
 | 296 | 468 | Sarah Moyer |
@@ -412,7 +412,7 @@
 | 404 | 347 | Brittany |
 | 405 | 346 | AlsoJess |
 | 406 | 345 | victory |
-| 407 | 345 | Brittany |
+| 407 | 345 | Misha Sanders |
 | 408 | 344 | Beaudie Stroebel |
 | 409 | 343 | Christina Marie Swisher |
 | 410 | 342 | Cynthia Herrmann Egland |

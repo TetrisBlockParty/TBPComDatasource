@@ -76,8 +76,8 @@
 | 68 | 978 | Amber Stoker |
 | 69 | 975 | TSwag |
 | 70 | 974 | Veronica Eve |
-| 71 | 966 | Shalene Frederick Autrey |
-| 72 | 966 | Francesca Gee |
+| 71 | 966 | Francesca Gee |
+| 72 | 966 | Shalene Frederick Autrey |
 | 73 | 951 | Zippy Align |
 | 74 | 948 | Jacqueline Williams |
 | 75 | 929 | Erin Hodges Plumb |
@@ -199,15 +199,15 @@
 | 191 | 423 | Elaine Elaine |
 | 192 | 423 | Kimberly Garcia |
 | 193 | 422 | Chelsea Dahlquist |
-| 194 | 419 | Jennifer Noe Chandler |
+| 194 | 419 | Daring Fitclear |
 | 195 | 419 | John J. Cronin |
 | 196 | 419 | Jennifer Noe Chandler |
 | 197 | 418 | Mike Ames |
 | 198 | 417 | Jamise Brown |
 | 199 | 417 | Jessie Lynn |
 | 200 | 416 | Jessica Sheehan |
-| 201 | 412 | Connie |
-| 202 | 412 | Witty Builderfit |
+| 201 | 412 | Witty Builderfit |
+| 202 | 412 | Connie |
 | 203 | 408 | Lindsay Glover |
 | 204 | 407 | Ananda Mendez |
 | 205 | 404 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
@@ -508,8 +508,8 @@
 | 500 | 208 | Andrew Boone |
 | 501 | 207 | Leslie Bush Yarbrough |
 | 502 | 205 | Elizabeth Kubli |
-| 503 | 204 | Jason Cox |
-| 504 | 204 | Jill King Oldham |
+| 503 | 204 | Jill King Oldham |
+| 504 | 204 | Jason Cox |
 | 505 | 203 | Ashley Rodriguez |
 | 506 | 202 | grizzly |
 | 507 | 202 | Barry Mac'Ockner |
