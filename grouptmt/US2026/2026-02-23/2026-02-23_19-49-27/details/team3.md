@@ -274,8 +274,8 @@
 | 266 | 471 | Angella Lyons |
 | 267 | 471 | Gray Hicks |
 | 268 | 470 | Marci Mize Fandrich |
-| 269 | 464 | Danielle Weikel |
-| 270 | 464 | Noyb Adam |
+| 269 | 464 | Noyb Adam |
+| 270 | 464 | Danielle Weikel |
 | 271 | 461 | Tom Nault |
 | 272 | 459 | Stephanie Bradley |
 | 273 | 458 | Danielle Rhoades |
@@ -310,8 +310,8 @@
 | 302 | 411 | Megan Rathmanner |
 | 303 | 410 | Duane Bright |
 | 304 | 410 | Brian Battjes |
-| 305 | 409 | Hyper Matchzone |
-| 306 | 409 | Desiree Gold |
+| 305 | 409 | Desiree Gold |
+| 306 | 409 | Hyper Matchzone |
 | 307 | 408 | Ashley Muncey |
 | 308 | 408 | Tiffany Ford |
 | 309 | 405 | Steffi Chris Dacones |
