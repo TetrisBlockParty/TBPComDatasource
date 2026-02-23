@@ -168,11 +168,11 @@
 | 160 | 1658 | Liberty |
 | 161 | 1653 | Michele Gabriel |
 | 162 | 1647 | Jessie McDougald |
-| 163 | 1644 | Speedy Spinblock |
-| 164 | 1644 | Luna |
+| 163 | 1644 | Luna |
+| 164 | 1644 | Speedy Spinblock |
 | 165 | 1640 | Scott Treadway |
-| 166 | 1629 | Rickey Johnson |
-| 167 | 1629 | Mari Ac |
+| 166 | 1629 | Mari Ac |
+| 167 | 1629 | Rickey Johnson |
 | 168 | 1625 | Cambrie Schultz |
 | 169 | 1613 | blackq |
 | 170 | 1605 | Christi Hulet |
@@ -375,8 +375,8 @@
 | 367 | 917 | Nashu |
 | 368 | 916 | Butta |
 | 369 | 915 | Kelly Trent |
-| 370 | 914 | William Hunt |
-| 371 | 914 | Shuany Arias |
+| 370 | 914 | Shuany Arias |
+| 371 | 914 | William Hunt |
 | 372 | 913 | blume |
 | 373 | 907 | Gene Mills |
 | 374 | 904 | John Bednarik |
@@ -463,8 +463,8 @@
 | 455 | 772 | Danielle Simmons |
 | 456 | 771 | Stephanie Lumanlan |
 | 457 | 769 | Kimberly Hope Howell |
-| 458 | 768 | Charvi' Carter |
-| 459 | 768 | Joshua Self |
+| 458 | 768 | Joshua Self |
+| 459 | 768 | Charvi' Carter |
 | 460 | 767 | Ashley Lopez |
 | 461 | 766 | Jennie Lee Huntley |
 | 462 | 765 | Dylan Thomason |
@@ -555,11 +555,11 @@
 | 547 | 668 | Jazzy Clusterline |
 | 548 | 667 | Rhonda Milstead |
 | 549 | 666 | Stephanie Sul |
-| 550 | 666 | Rebecca Miller |
-| 551 | 666 | Aishah Brice |
+| 550 | 666 | Aishah Brice |
+| 551 | 666 | Rebecca Miller |
 | 552 | 664 | Sleepypanda67 |
-| 553 | 663 | Lyndi Robinson Wakefield |
-| 554 | 663 | Martina Gabrielle LaPolla |
+| 553 | 663 | Martina Gabrielle LaPolla |
+| 554 | 663 | Lyndi Robinson Wakefield |
 | 555 | 662 | Samie Dayle |
 | 556 | 662 | Jennifer Monroe Kelly |
 | 557 | 660 | Tracy Wise |
@@ -613,8 +613,8 @@
 | 605 | 614 | Emilee Burke |
 | 606 | 614 | Jessica S Flecha |
 | 607 | 613 | Audrey Jones |
-| 608 | 612 | Jenn Marie |
-| 609 | 612 | Briana Alexander |
+| 608 | 612 | Briana Alexander |
+| 609 | 612 | Jenn Marie |
 | 610 | 611 | Autumn Schaeffer |
 | 611 | 610 | Adam Simmons |
 | 612 | 609 | Cecilia A Jenkins |

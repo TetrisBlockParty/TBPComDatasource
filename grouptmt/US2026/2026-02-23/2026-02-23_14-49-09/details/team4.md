@@ -50,8 +50,8 @@
 | 42 | 1124 | Jae Job |
 | 43 | 1085 | Ashley Ingram |
 | 44 | 1085 | Kimyatta Cavin |
-| 45 | 1082 | Dion Crommarty |
-| 46 | 1082 | Dawn Alexander |
+| 45 | 1082 | Dawn Alexander |
+| 46 | 1082 | Dion Crommarty |
 | 47 | 1071 | Cherrish Duren |
 | 48 | 1065 | Koshin Abdirahman |
 | 49 | 1049 | Heather Tushner |
@@ -168,9 +168,9 @@
 | 160 | 444 | Mylo Lipscomb |
 | 161 | 435 | Kristina Black |
 | 162 | 433 | Nick Gray |
-| 163 | 432 | Zippy Block |
-| 164 | 432 | Chris Alexinas |
-| 165 | 432 | Livvy |
+| 163 | 432 | Livvy |
+| 164 | 432 | Zippy Block |
+| 165 | 432 | Chris Alexinas |
 | 166 | 431 | Courtney Cicoria |
 | 167 | 428 | Carlos Ramirez |
 | 168 | 426 | 🥔🥔 Spudz |
@@ -308,9 +308,9 @@
 | 300 | 262 | BigSammy420 |
 | 301 | 261 | Zethra Prenisha Rahming |
 | 302 | 260 | Carter Jones |
-| 303 | 259 | John Brunetti |
+| 303 | 259 | Allen Lloyd |
 | 304 | 259 | Montiette Mcglown |
-| 305 | 259 | Allen Lloyd |
+| 305 | 259 | John Brunetti |
 | 306 | 258 | DQ Martin |
 | 307 | 257 | PeaceOs |
 | 308 | 256 | Paige Kittles |
@@ -380,8 +380,8 @@
 | 372 | 215 | Squeezy Pearsall |
 | 373 | 215 | 07VHVW |
 | 374 | 215 | Tanya Abernathy Jackson |
-| 375 | 214 | B Renee Desjardin |
-| 376 | 214 | Susan R. Wilson |
+| 375 | 214 | Susan R. Wilson |
+| 376 | 214 | B Renee Desjardin |
 | 377 | 214 | Patron Anderson |
 | 378 | 212 | Zany Shatterer |
 | 379 | 212 | Mike Solo |
@@ -917,7 +917,7 @@
 | 909 | 79 | MistyBayou |
 | 910 | 79 | Tabita Gonzalez |
 | 911 | 79 | Jason M Cadreau |
-| 912 | 78 | Leah Landry |
+| 912 | 78 | Bromine |
 | 913 | 78 | Allen Johnson |
 | 914 | 78 | Leah Landry |
 | 915 | 78 | Bold Matcher |

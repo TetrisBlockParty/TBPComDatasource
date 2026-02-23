@@ -523,9 +523,9 @@
 | 515 | 163 | Cozy Shatterer |
 | 516 | 163 | SavageBooty98 |
 | 517 | 162 | Charla Pross-Fugleberg |
-| 518 | 162 | Hector Cruz |
-| 519 | 162 | Jennifer Corrado |
-| 520 | 162 | Nerdy Curvebuilder |
+| 518 | 162 | Nerdy Curvebuilder |
+| 519 | 162 | Hector Cruz |
+| 520 | 162 | Jennifer Corrado |
 | 521 | 161 | Rachel Nilles |
 | 522 | 160 | Sarah Henniker |
 | 523 | 160 | Jeremy Maubert |
