@@ -156,8 +156,8 @@
 | 148 | 595 | Patricia White |
 | 149 | 590 | Santeria Trece Candles |
 | 150 | 588 | Justin Ritter |
-| 151 | 585 | Happy Tetriblast |
-| 152 | 585 | Annie Marie |
+| 151 | 585 | Annie Marie |
+| 152 | 585 | Happy Tetriblast |
 | 153 | 582 | Natasha Jones |
 | 154 | 579 | Tasha Gillespie |
 | 155 | 577 | Domo Washington |
@@ -235,8 +235,8 @@
 | 227 | 401 | Heather Green |
 | 228 | 400 | Denita Mungro |
 | 229 | 393 | Rebecca Funderburk Kirby |
-| 230 | 391 | Nicole Flippo |
-| 231 | 391 | Trisha Balmer |
+| 230 | 391 | Trisha Balmer |
+| 231 | 391 | Nicole Flippo |
 | 232 | 390 | rosy |
 | 233 | 387 | Gideon Walker |
 | 234 | 385 | Kristal C Lee |
@@ -374,15 +374,15 @@
 | 366 | 256 | KayB |
 | 367 | 255 | Sharisse Baltimore |
 | 368 | 254 | Desiree Gold |
-| 369 | 253 | Block Baddie |
-| 370 | 253 | Hyper Bridger |
+| 369 | 253 | Hyper Bridger |
+| 370 | 253 | Block Baddie |
 | 371 | 252 | Blair Erin Waite |
 | 372 | 251 | Jennifer Alvey |
 | 373 | 250 | Eric Caccavale |
 | 374 | 249 | Willow |
 | 375 | 248 | Jul |
-| 376 | 247 | Jessica |
-| 377 | 247 | Daring Builder |
+| 376 | 247 | Daring Builder |
+| 377 | 247 | Jessica |
 | 378 | 246 | gremicx |
 | 379 | 245 | AlsoJess |
 | 380 | 245 | Latoya Mayne |

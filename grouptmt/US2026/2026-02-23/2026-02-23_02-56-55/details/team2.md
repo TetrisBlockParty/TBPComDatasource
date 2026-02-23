@@ -140,8 +140,8 @@
 | 132 | 1644 | Luna |
 | 133 | 1639 | Jessie McDougald |
 | 134 | 1631 | Speedy Spinblock |
-| 135 | 1623 | Mr. Street Stack |
-| 136 | 1623 | Rebecca Doughman |
+| 135 | 1623 | Rebecca Doughman |
+| 136 | 1623 | Mr. Street Stack |
 | 137 | 1622 | Mari Ac |
 | 138 | 1614 | Janel Turley-Garner |
 | 139 | 1605 | Christi Hulet |
@@ -174,8 +174,8 @@
 | 166 | 1450 | Shiny Rollzone |
 | 167 | 1428 | Eboni Banks |
 | 168 | 1418 | L3sli3 |
-| 169 | 1416 | Kiok |
-| 170 | 1416 | Nancy Reid |
+| 169 | 1416 | Nancy Reid |
+| 170 | 1416 | Kiok |
 | 171 | 1411 | niecy |
 | 172 | 1403 | Bussyiano Page |
 | 173 | 1390 | Erica Williams |
