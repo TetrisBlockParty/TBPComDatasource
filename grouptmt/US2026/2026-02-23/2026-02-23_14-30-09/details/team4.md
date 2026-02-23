@@ -50,8 +50,8 @@
 | 42 | 1124 | Jae Job |
 | 43 | 1085 | Ashley Ingram |
 | 44 | 1085 | Kimyatta Cavin |
-| 45 | 1082 | Dion Crommarty |
-| 46 | 1082 | Dawn Alexander |
+| 45 | 1082 | Dawn Alexander |
+| 46 | 1082 | Dion Crommarty |
 | 47 | 1071 | Cherrish Duren |
 | 48 | 1065 | Koshin Abdirahman |
 | 49 | 1049 | Heather Tushner |
@@ -204,10 +204,10 @@
 | 196 | 368 | Holly Jolly |
 | 197 | 365 | Jeff Brian Gates |
 | 198 | 363 | Cindy Looper |
-| 199 | 361 | Danielle Kollias |
-| 200 | 361 | Rafael Valentin |
-| 201 | 358 | Twisty Cascadezone |
-| 202 | 358 | A5! |
+| 199 | 361 | Rafael Valentin |
+| 200 | 361 | Danielle Kollias |
+| 201 | 358 | A5! |
+| 202 | 358 | Twisty Cascadezone |
 | 203 | 355 | James Hurley Jr. |
 | 204 | 354 | TRCuse |
 | 205 | 354 | Kris Bartlett |
@@ -363,9 +363,9 @@
 | 355 | 223 | Amanda Christine |
 | 356 | 222 | Brandi Durig |
 | 357 | 221 | Rheanda Weaskus |
-| 358 | 220 | Nita Wells |
-| 359 | 220 | Jumpy Zonepiece |
-| 360 | 220 | Ziggy |
+| 358 | 220 | Jumpy Zonepiece |
+| 359 | 220 | Ziggy |
+| 360 | 220 | Nita Wells |
 | 361 | 220 | Dustin York |
 | 362 | 219 | Shane Vick |
 | 363 | 219 | Orchislactea |
@@ -600,8 +600,8 @@
 | 592 | 130 | Gigglelymomof2 |
 | 593 | 129 | Tamika Starkey |
 | 594 | 129 | Dreamy Snapgrid |
-| 595 | 129 | RIFATSIKDER |
-| 596 | 129 | Alan Zukowski |
+| 595 | 129 | Alan Zukowski |
+| 596 | 129 | RIFATSIKDER |
 | 597 | 128 | Raymond Roberts |
 | 598 | 128 | Lazy Glidepiece |
 | 599 | 128 | Zesty Linkgrid |

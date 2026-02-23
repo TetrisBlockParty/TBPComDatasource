@@ -252,8 +252,8 @@
 | 244 | 1232 | Ambyre Patterson |
 | 245 | 1230 | Megan Garrick |
 | 246 | 1221 | Jane Fong |
-| 247 | 1217 | Brooks Brooks |
-| 248 | 1217 | Lucky Ladybug |
+| 247 | 1217 | Lucky Ladybug |
+| 248 | 1217 | Brooks Brooks |
 | 249 | 1216 | Pacynthia Williams |
 | 250 | 1214 | David Cudicio-Hayden |
 | 251 | 1211 | Ricardo Burton |
@@ -555,8 +555,8 @@
 | 547 | 667 | Rhonda Milstead |
 | 548 | 666 | Aishah Brice |
 | 549 | 664 | Sleepypanda67 |
-| 550 | 663 | Lyndi Robinson Wakefield |
-| 551 | 663 | Martina Gabrielle LaPolla |
+| 550 | 663 | Martina Gabrielle LaPolla |
+| 551 | 663 | Lyndi Robinson Wakefield |
 | 552 | 662 | Samie Dayle |
 | 553 | 662 | Jennifer Monroe Kelly |
 | 554 | 660 | Nadia Batista Garcia |

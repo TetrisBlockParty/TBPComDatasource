@@ -81,8 +81,8 @@
 | 73 | 1256 | Jessica Bechler |
 | 74 | 1244 | Lori Barnaby |
 | 75 | 1221 | Betty Ivy |
-| 76 | 1213 | Snappy Glidepiece |
-| 77 | 1213 | Nerdy Riseclear |
+| 76 | 1213 | Nerdy Riseclear |
+| 77 | 1213 | Snappy Glidepiece |
 | 78 | 1209 | Amanda Adkins |
 | 79 | 1190 | Jay Horn |
 | 80 | 1186 | Christian A. Pollard |
