@@ -271,8 +271,8 @@
 | 263 | 979 | Hillary Crawford |
 | 264 | 976 | Maria Escobar |
 | 265 | 972 | Della Hole |
-| 266 | 972 | Juliana Marques Do Nascimento Gordy |
-| 267 | 972 | Barbra Miller |
+| 266 | 972 | Barbra Miller |
+| 267 | 972 | Juliana Marques Do Nascimento Gordy |
 | 268 | 962 | Crystal Hoffman |
 | 269 | 958 | Brenda Messer |
 | 270 | 957 | Block Master |
@@ -377,8 +377,8 @@
 | 369 | 758 | Stephanie Neuburger |
 | 370 | 758 | Quirky Twistline |
 | 371 | 751 | Loony Snapper |
-| 372 | 748 | Brenda Utphall |
-| 373 | 748 | Stephanie Lumanlan |
+| 372 | 748 | Stephanie Lumanlan |
+| 373 | 748 | Brenda Utphall |
 | 374 | 747 | Kiely Tomaskovich |
 | 375 | 746 | Jerilyn Andrina |
 | 376 | 746 | Leslie Ann Carter |
