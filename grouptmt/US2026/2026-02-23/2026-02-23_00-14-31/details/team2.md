@@ -126,8 +126,8 @@
 | 118 | 1676 | Nett |
 | 119 | 1652 | Kristopher Miller |
 | 120 | 1644 | Luna |
-| 121 | 1639 | Jessie McDougald |
-| 122 | 1639 | Karen Martini-Stapleton |
+| 121 | 1639 | Karen Martini-Stapleton |
+| 122 | 1639 | Jessie McDougald |
 | 123 | 1623 | Mr. Street Stack |
 | 124 | 1606 | Janel Turley-Garner |
 | 125 | 1603 | Gabby Jenner |
@@ -267,8 +267,8 @@
 | 259 | 972 | Della Hole |
 | 260 | 972 | Juliana Marques Do Nascimento Gordy |
 | 261 | 958 | Brenda Messer |
-| 262 | 957 | Keri Womack |
-| 263 | 957 | Block Master |
+| 262 | 957 | Block Master |
+| 263 | 957 | Keri Womack |
 | 264 | 957 | Crystal Hoffman |
 | 265 | 955 | Angela Bonquiqui Dinish |
 | 266 | 951 | Cynthia Ward |
@@ -470,8 +470,8 @@
 | 462 | 607 | Michelle Lee |
 | 463 | 605 | Santana Miyagi |
 | 464 | 603 | Casper The Chonk |
-| 465 | 602 | Shaun Church |
-| 466 | 602 | KhaosLord |
+| 465 | 602 | KhaosLord |
+| 466 | 602 | Shaun Church |
 | 467 | 601 | Moua Ying |
 | 468 | 597 | Jamie Schmitt |
 | 469 | 595 | Bee |

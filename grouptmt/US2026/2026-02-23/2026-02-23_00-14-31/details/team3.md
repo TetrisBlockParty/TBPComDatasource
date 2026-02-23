@@ -97,8 +97,8 @@
 | 89 | 860 | Sunny Rotater |
 | 90 | 849 | Danielle Becker |
 | 91 | 848 | Patricia Gadsden |
-| 92 | 838 | Sarajane Lokan |
-| 93 | 838 | MissTaylor |
+| 92 | 838 | MissTaylor |
+| 93 | 838 | Sarajane Lokan |
 | 94 | 831 | Angeline Joseph |
 | 95 | 830 | Stephanie Allmon |
 | 96 | 829 | Chelsea Hall |
@@ -117,8 +117,8 @@
 | 109 | 733 | mzcatzy |
 | 110 | 723 | Mandy Smith Oldham |
 | 111 | 720 | Raya |
-| 112 | 716 | Kristie |
-| 113 | 716 | Calista Jo Dickson |
+| 112 | 716 | Calista Jo Dickson |
+| 113 | 716 | Kristie |
 | 114 | 715 | Keith J Oshman Jr. |
 | 115 | 712 | Katrina Schroeder |
 | 116 | 710 | Alaina Lee |
@@ -229,8 +229,8 @@
 | 221 | 383 | Nicole Flippo |
 | 222 | 383 | Darlene McMillan |
 | 223 | 383 | Heather Green |
-| 224 | 382 | Giddy Twistbuilder |
-| 225 | 382 | Scott Carleton |
+| 224 | 382 | Scott Carleton |
+| 225 | 382 | Giddy Twistbuilder |
 | 226 | 378 | Chris Bell |
 | 227 | 375 | Duane Bright |
 | 228 | 375 | Kristal C Lee |
@@ -287,8 +287,8 @@
 | 279 | 308 | Katrina Turner |
 | 280 | 307 | Blocked |
 | 281 | 304 | _melisa223_ |
-| 282 | 303 | Beaudie Stroebel |
-| 283 | 303 | Alexmac |
+| 282 | 303 | Alexmac |
+| 283 | 303 | Beaudie Stroebel |
 | 284 | 303 | Hoppy Buildout |
 | 285 | 302 | Gray Hicks |
 | 286 | 301 | Betty Rosas |
@@ -310,8 +310,8 @@
 | 302 | 285 | LaShey Thompson |
 | 303 | 282 | Hanna Kim |
 | 304 | 280 | Kaycee Kay |
-| 305 | 279 | Foltz Lee Kelli |
-| 306 | 279 | ROODBOY |
+| 305 | 279 | ROODBOY |
+| 306 | 279 | Foltz Lee Kelli |
 | 307 | 278 | Rufus Lincoln |
 | 308 | 277 | Geoffrey Nash |
 | 309 | 277 | Snazzy Filler |
@@ -358,8 +358,8 @@
 | 350 | 250 | Juliana Dottore |
 | 351 | 250 | Eric Caccavale |
 | 352 | 249 | Willow |
-| 353 | 247 | Jessica |
-| 354 | 247 | Daring Builder |
+| 353 | 247 | Daring Builder |
+| 354 | 247 | Jessica |
 | 355 | 245 | Latoya Mayne |
 | 356 | 244 | LaNette Morgan |
 | 357 | 244 | Tegan Chapman |
@@ -424,8 +424,8 @@
 | 416 | 213 | Cheeky Twisterfit |
 | 417 | 212 | BŘŰŤİÇŨŚ |
 | 418 | 211 | El Chapa |
-| 419 | 210 | Kristian Thurman |
-| 420 | 210 | Ava Petito |
+| 419 | 210 | Ava Petito |
+| 420 | 210 | Kristian Thurman |
 | 421 | 209 | MizzMonick Smith |
 | 422 | 208 | Stephanie Bradley |
 | 423 | 208 | Karent524 |

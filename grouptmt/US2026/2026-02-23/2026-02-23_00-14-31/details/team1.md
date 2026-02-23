@@ -50,8 +50,8 @@
 | 42 | 864 | Adam Byrd |
 | 43 | 863 | Tipsy Column |
 | 44 | 862 | Christina Costantino |
-| 45 | 844 | Katie Daniels |
-| 46 | 844 | Amanda Summey Schoemer |
+| 45 | 844 | Amanda Summey Schoemer |
+| 46 | 844 | Katie Daniels |
 | 47 | 827 | Drew Magnus |
 | 48 | 805 | Sevens4L |
 | 49 | 797 | Lawrence Belanger |
@@ -103,8 +103,8 @@
 | 95 | 483 | Jennifer ManWarren |
 | 96 | 480 | cc |
 | 97 | 474 | Tdub |
-| 98 | 472 | Kristen Gideon |
-| 99 | 472 | April Carroll |
+| 98 | 472 | April Carroll |
+| 99 | 472 | Kristen Gideon |
 | 100 | 469 | Tinah Montanna |
 | 101 | 466 | Hasbro Bros |
 | 102 | 462 | Luciano Moreira |
@@ -147,8 +147,8 @@
 | 139 | 364 | Serina Marie |
 | 140 | 364 | Shauna Loe |
 | 141 | 361 | Tanya Carpenter-Reynolds |
-| 142 | 360 | phrmblk24 |
-| 143 | 360 | Wisa |
+| 142 | 360 | Wisa |
+| 143 | 360 | phrmblk24 |
 | 144 | 359 | Chirpy Smasher |
 | 145 | 357 | Jason Savage |
 | 146 | 357 | Amanda Johnson Huffman |
@@ -159,9 +159,9 @@
 | 151 | 341 | Nick R Montague |
 | 152 | 336 | Fmp |
 | 153 | 334 | Jaimie Lynn |
-| 154 | 333 | GATOR |
-| 155 | 333 | Gracie |
-| 156 | 333 | Jennifer Hardman |
+| 154 | 333 | Gracie |
+| 155 | 333 | Jennifer Hardman |
+| 156 | 333 | GATOR |
 | 157 | 332 | Lehrin Maria |
 | 158 | 325 | Dizzy Party |
 | 159 | 325 | Chelsea Dahlquist |
@@ -296,8 +296,8 @@
 | 288 | 203 | Spunky Builderpiece |
 | 289 | 203 | Andrew Boone |
 | 290 | 202 | Amanda Holibaugh |
-| 291 | 201 | Colleen Wise |
-| 292 | 201 | Beau Galvan |
+| 291 | 201 | Beau Galvan |
+| 292 | 201 | Colleen Wise |
 | 293 | 200 | Silly Align |
 | 294 | 199 | Christina Norman |
 | 295 | 198 | Colleen Pinette |
@@ -517,7 +517,7 @@
 | 509 | 118 | Lisa Marie |
 | 510 | 118 | Kerry Lee Powell |
 | 511 | 117 | Gremb |
-| 512 | 116 | Tamara Brown |
+| 512 | 116 | Peppy Columnbuilder |
 | 513 | 116 | Traci Schmeer |
 | 514 | 116 | Travis Taylor |
 | 515 | 116 | Tamara Brown |
