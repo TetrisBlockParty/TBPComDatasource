@@ -112,8 +112,8 @@
 | 104 | 491 | cc |
 | 105 | 489 | April Carroll |
 | 106 | 489 | Deanna L Hermanson |
-| 107 | 483 | Tdub |
-| 108 | 483 | Trina Gee |
+| 107 | 483 | Trina Gee |
+| 108 | 483 | Tdub |
 | 109 | 480 | Ty Brown |
 | 110 | 478 | Stephanie Zahn |
 | 111 | 463 | Lexuriuos Lifestlye |
@@ -141,8 +141,8 @@
 | 133 | 406 | Candy Jones |
 | 134 | 406 | Desiree Deschaine Havee |
 | 135 | 402 | Chris K |
-| 136 | 399 | Nery Martinez |
-| 137 | 399 | ALFD |
+| 136 | 399 | ALFD |
+| 137 | 399 | Nery Martinez |
 | 138 | 394 | Lori Bales |
 | 139 | 392 | And |
 | 140 | 389 | David Miller |
@@ -406,8 +406,8 @@
 | 398 | 175 | Madbull |
 | 399 | 175 | Frisky Base |
 | 400 | 174 | Alex Gauthier |
-| 401 | 172 | Ruthie Mahoney Saunders-Browne |
-| 402 | 172 | Wayne Saunders |
+| 401 | 172 | Wayne Saunders |
+| 402 | 172 | Ruthie Mahoney Saunders-Browne |
 | 403 | 172 | Sylvia Vasquez |
 | 404 | 171 | Plucky Stacky |
 | 405 | 171 | Rebekah LeiAnn Bonsell |

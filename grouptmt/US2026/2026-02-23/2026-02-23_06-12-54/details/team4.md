@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | Shauna Havard |
-| 93 | 647 | KM8 |
+| 92 | 647 | KM8 |
+| 93 | 647 | Shauna Havard |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -124,8 +124,8 @@
 | 116 | 514 | Scott Jameson |
 | 117 | 514 | Serena Goodridge |
 | 118 | 513 | Erin Thomas |
-| 119 | 512 | Casey Jeffcoat |
-| 120 | 512 | Cristy Duerksen |
+| 119 | 512 | Cristy Duerksen |
+| 120 | 512 | Casey Jeffcoat |
 | 121 | 511 | Lori Walker |
 | 122 | 482 | Ren Mc |
 | 123 | 481 | Jessica Lynn Cutlip |
@@ -151,21 +151,21 @@
 | 143 | 418 | Marie-Pier Desjardins |
 | 144 | 418 | Lush Linkfall |
 | 145 | 416 | Chaz Duncan |
-| 146 | 414 | Nope Young |
-| 147 | 414 | Swanky Fitline |
+| 146 | 414 | Swanky Fitline |
+| 147 | 414 | Nope Young |
 | 148 | 412 | Jessica Bohlken |
 | 149 | 408 | Amanda Pauldo-Ivy |
 | 150 | 406 | Damn Libra |
 | 151 | 402 | Ericca Eldridge |
 | 152 | 398 | Tyler Terrific |
 | 153 | 397 | Livvy |
-| 154 | 393 | Girl |
-| 155 | 393 | Carlton Unfiltered |
+| 154 | 393 | Carlton Unfiltered |
+| 155 | 393 | Girl |
 | 156 | 391 | Ramel Rhodes |
 | 157 | 389 | Joseph Guthrie |
 | 158 | 387 | Lucas J Sutton |
-| 159 | 375 | Desi Desporte |
-| 160 | 375 | ThaEviLJeNiuZ |
+| 159 | 375 | ThaEviLJeNiuZ |
+| 160 | 375 | Desi Desporte |
 | 161 | 374 | Guy Incognito |
 | 162 | 370 | Oscar Alberto Perez |
 | 163 | 369 | Lindsey Gonzalez |
@@ -182,8 +182,8 @@
 | 174 | 356 | George Nutt |
 | 175 | 354 | TRCuse |
 | 176 | 352 | Sue Joyce Staats |
-| 177 | 349 | Rafael Valentin |
-| 178 | 349 | Twisty Cascadezone |
+| 177 | 349 | Twisty Cascadezone |
+| 178 | 349 | Rafael Valentin |
 | 179 | 348 | April Rondinone |
 | 180 | 347 | Crystal Nicolette Moore |
 | 181 | 347 | Daria Rycewicz |
@@ -216,8 +216,8 @@
 | 208 | 300 | Dana Scott |
 | 209 | 300 | Zakia Monae |
 | 210 | 295 | Keshia Lyons |
-| 211 | 294 | Calvin Cannon |
-| 212 | 294 | Porkobello |
+| 211 | 294 | Porkobello |
+| 212 | 294 | Calvin Cannon |
 | 213 | 292 | Epic Curvetile |
 | 214 | 290 | Rebecca Morris |
 | 215 | 290 | Jared Gutwein |
@@ -1058,8 +1058,8 @@
 | 1050 | 54 | Lisha Billups |
 | 1051 | 54 | Chilly Matcher |
 | 1052 | 53 | Gerald Anderson |
-| 1053 | 53 | Minot4444 |
-| 1054 | 53 | Dizzy Rollbuilder |
+| 1053 | 53 | Marcus Cooper |
+| 1054 | 53 | Minot4444 |
 | 1055 | 53 | DingusBingus17 |
 | 1056 | 53 | Dizzy Rollbuilder |
 | 1057 | 53 | Oba Yozo |
