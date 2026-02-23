@@ -368,8 +368,8 @@
 | 360 | 1028 | Ericka Marie Smith |
 | 361 | 1026 | Joshua Mandel |
 | 362 | 1024 | Susan Perraut Jones |
-| 363 | 1020 | Tinishia Amie |
-| 364 | 1020 | Andrea Maher |
+| 363 | 1020 | Andrea Maher |
+| 364 | 1020 | Tinishia Amie |
 | 365 | 1015 | Dapper Dasher |
 | 366 | 1014 | Keri Womack |
 | 367 | 1011 | Teresa Gillmore |
@@ -629,11 +629,11 @@
 | 621 | 666 | Wes Acton |
 | 622 | 665 | Zak Dunn |
 | 623 | 663 | Snazzy Basepiece |
-| 624 | 662 | Samie Dayle |
-| 625 | 662 | Andre Love |
-| 626 | 662 | Jennifer Monroe Kelly |
-| 627 | 660 | Nadia Batista Garcia |
-| 628 | 660 | Santana Miyagi |
+| 624 | 662 | Jennifer Monroe Kelly |
+| 625 | 662 | Samie Dayle |
+| 626 | 662 | Andre Love |
+| 627 | 660 | Santana Miyagi |
+| 628 | 660 | Nadia Batista Garcia |
 | 629 | 659 | Anthony Huebel |
 | 630 | 658 | Demeka Dangerous-kisses Johnson |
 | 631 | 657 | Kia Humphery |
@@ -735,8 +735,8 @@
 | 727 | 588 | Dandy Combo |
 | 728 | 588 | Mrs. New |
 | 729 | 586 | Tra Barnum |
-| 730 | 585 | Taylor Flowers |
-| 731 | 585 | Nerdy Blockpiece |
+| 730 | 585 | Nerdy Blockpiece |
+| 731 | 585 | Taylor Flowers |
 | 732 | 585 | Shelva Richard |
 | 733 | 585 | Laquetta Royston |
 | 734 | 583 | Shylee Tilman |
@@ -787,8 +787,8 @@
 | 779 | 553 | ruth |
 | 780 | 553 | Wayne Fields |
 | 781 | 552 | Epic Fitzone |
-| 782 | 552 | Jenelle Case |
-| 783 | 552 | Veronics |
+| 782 | 552 | Veronics |
+| 783 | 552 | Jenelle Case |
 | 784 | 551 | Yoan Boulanger |
 | 785 | 551 | B |
 | 786 | 551 | Matt Johnson |

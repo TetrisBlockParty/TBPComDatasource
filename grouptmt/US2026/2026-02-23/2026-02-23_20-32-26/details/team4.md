@@ -82,8 +82,8 @@
 | 74 | 862 | Carolyn Wallace |
 | 75 | 855 | Peachy Fall |
 | 76 | 850 | Lucille Truesdale |
-| 77 | 846 | Amelpss |
-| 78 | 846 | Christine Marie |
+| 77 | 846 | Christine Marie |
+| 78 | 846 | Amelpss |
 | 79 | 841 | Shauna Havard |
 | 80 | 837 | Lisa Davis |
 | 81 | 834 | quicksand420 |
@@ -221,8 +221,8 @@
 | 213 | 411 | Silly Zonebuilder |
 | 214 | 411 | Autumn Kumzi |
 | 215 | 400 | Antony Dwayne Beasley |
-| 216 | 399 | Lindsay Ball |
-| 217 | 399 | Jeff Brian Gates |
+| 216 | 399 | Jeff Brian Gates |
+| 217 | 399 | Lindsay Ball |
 | 218 | 398 | Tyler Terrific |
 | 219 | 394 | Nita Wells |
 | 220 | 390 | Kathy Brookins |
@@ -366,9 +366,9 @@
 | 358 | 259 | Montiette Mcglown |
 | 359 | 259 | Allen Lloyd |
 | 360 | 258 | Lilya Troutman |
-| 361 | 257 | Michael Snow |
+| 361 | 257 | Marcus TheeyoungWoe Gilmore |
 | 362 | 257 | Alexandra Karavias |
-| 363 | 257 | Marcus TheeyoungWoe Gilmore |
+| 363 | 257 | Michael Snow |
 | 364 | 257 | ĥuf |
 | 365 | 256 | Jason Bosco |
 | 366 | 256 | Paige Kittles |

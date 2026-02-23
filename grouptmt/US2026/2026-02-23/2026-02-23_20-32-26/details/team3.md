@@ -108,8 +108,8 @@
 | 100 | 1101 | Stephanie Rice |
 | 101 | 1094 | JerseyJess |
 | 102 | 1093 | Angela M. Fletcher |
-| 103 | 1056 | joclisa |
-| 104 | 1056 | Ebony West-Cundiff |
+| 103 | 1056 | Ebony West-Cundiff |
+| 104 | 1056 | joclisa |
 | 105 | 1050 | Sherika C. McDaniels |
 | 106 | 1041 | Patricia Gadsden |
 | 107 | 1038 | Mandy Smith Oldham |
