@@ -174,8 +174,8 @@
 | 166 | 491 | Carrie Brian |
 | 167 | 486 | Swanky Fitline |
 | 168 | 485 | Rico |
-| 169 | 480 | Adam Stephanie Parker |
-| 170 | 480 | Brandon Crabbs |
+| 169 | 480 | Brandon Crabbs |
+| 170 | 480 | Adam Stephanie Parker |
 | 171 | 479 | Christina Black |
 | 172 | 477 | Casey Grabner |
 | 173 | 476 | Matt Summer |
@@ -242,8 +242,8 @@
 | 234 | 373 | JPW |
 | 235 | 372 | Holly Jolly |
 | 236 | 369 | Matt Dell'Olio |
-| 237 | 368 | Deanna Deckard |
-| 238 | 368 | Kris Bartlett |
+| 237 | 368 | Kris Bartlett |
+| 238 | 368 | Deanna Deckard |
 | 239 | 367 | Sue Joyce Staats |
 | 240 | 367 | Meg |
 | 241 | 365 | Hyper Builder |
@@ -256,8 +256,8 @@
 | 248 | 360 | Ari Droff |
 | 249 | 360 | James Hurley Jr. |
 | 250 | 358 | TinyLegoRose |
-| 251 | 358 | A5! |
-| 252 | 358 | Twisty Cascadezone |
+| 251 | 358 | Twisty Cascadezone |
+| 252 | 358 | A5! |
 | 253 | 356 | mike |
 | 254 | 356 | Joeliecea Cobb |
 | 255 | 355 | Andrew Dang |
@@ -329,8 +329,8 @@
 | 321 | 281 | Morti |
 | 322 | 279 | Brittany Marsh |
 | 323 | 278 | Angela Geist Jusinski |
-| 324 | 278 | Sarah Brown |
-| 325 | 278 | Zethra Prenisha Rahming |
+| 324 | 278 | Zethra Prenisha Rahming |
+| 325 | 278 | Sarah Brown |
 | 326 | 276 | Cynthia Boudreau |
 | 327 | 276 | Silly SeaWeed |
 | 328 | 276 | Susan Williams |
@@ -390,11 +390,11 @@
 | 382 | 244 | Perky Piecegrid |
 | 383 | 243 | Val Erie |
 | 384 | 242 | PurpleMoonMa |
-| 385 | 240 | Jackie Marie |
-| 386 | 240 | Zany Shatterer |
-| 387 | 240 | Perky Patternblock |
-| 388 | 239 | Kevin Bush |
-| 389 | 239 | Laura Hosford |
+| 385 | 240 | Perky Patternblock |
+| 386 | 240 | Jackie Marie |
+| 387 | 240 | Zany Shatterer |
+| 388 | 239 | Laura Hosford |
+| 389 | 239 | Kevin Bush |
 | 390 | 239 | Denise B |
 | 391 | 238 | 中山成巳 |
 | 392 | 236 | The Murphy |
@@ -413,8 +413,8 @@
 | 405 | 230 | KayM |
 | 406 | 229 | Sticherella |
 | 407 | 228 | Jessica Petersen |
-| 408 | 228 | Bethany Ison |
-| 409 | 228 | Shiny Pivoty |
+| 408 | 228 | Shiny Pivoty |
+| 409 | 228 | Bethany Ison |
 | 410 | 227 | Martha Lucinda Bishop |
 | 411 | 227 | Maria Hammie |
 | 412 | 227 | Asher |

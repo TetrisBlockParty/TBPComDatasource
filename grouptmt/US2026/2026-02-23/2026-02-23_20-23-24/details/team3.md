@@ -159,8 +159,8 @@
 | 151 | 779 | Justin Ritter |
 | 152 | 773 | Daryn Elliott |
 | 153 | 773 | Daira Largen |
-| 154 | 764 | Groovy Catcher |
-| 155 | 764 | Hasty Cascadefit |
+| 154 | 764 | Hasty Cascadefit |
+| 155 | 764 | Groovy Catcher |
 | 156 | 762 | Santeria Trece Candles |
 | 157 | 761 | Denita Mungro |
 | 158 | 761 | Peppy Shifter |
@@ -338,8 +338,8 @@
 | 330 | 385 | Samantha Lynn |
 | 331 | 382 | Amanda J. Mcneil-Anderson |
 | 332 | 381 | Noettín Kan Zasnemoore |
-| 333 | 379 | Kaitie Oliver |
-| 334 | 379 | Kelly |
+| 333 | 379 | Kelly |
+| 334 | 379 | Kaitie Oliver |
 | 335 | 378 | MsBee |
 | 336 | 377 | Hoppy Patternline |
 | 337 | 375 | Joy Petroski |
@@ -370,8 +370,8 @@
 | 362 | 359 | Steven Fulater |
 | 363 | 358 | Heather Davis |
 | 364 | 358 | Ashley Rufus Bythcez |
-| 365 | 356 | Alexmac |
-| 366 | 356 | Tony Waters |
+| 365 | 356 | Tony Waters |
+| 366 | 356 | Alexmac |
 | 367 | 353 | Dee Franklin |
 | 368 | 352 | Tiffany Davie |
 | 369 | 352 | LadyTorad |
@@ -411,15 +411,15 @@
 | 403 | 326 | Kerry Nowickshere |
 | 404 | 324 | Sissy Lowery Davis |
 | 405 | 324 | Blair Erin Waite |
-| 406 | 323 | Wettnippz |
+| 406 | 323 | Mary Giorgenti |
 | 407 | 323 | Troy |
 | 408 | 323 | Erykah |
 | 409 | 323 | Wettnippz |
 | 410 | 323 | Spencer Nikki |
 | 411 | 323 | Sharisse Baltimore |
 | 412 | 323 | Jess Bissett |
-| 413 | 322 | Nena Somerville Kelly |
-| 414 | 322 | Beth Smith |
+| 413 | 322 | Beth Smith |
+| 414 | 322 | Nena Somerville Kelly |
 | 415 | 321 | Jl |
 | 416 | 320 | Or Reznitsky |
 | 417 | 320 | Taylor Hood |
@@ -429,8 +429,8 @@
 | 421 | 318 | Beppy |
 | 422 | 318 | Ava Petito |
 | 423 | 316 | Travis W |
-| 424 | 315 | Julie Fratrik |
-| 425 | 315 | Colton |
+| 424 | 315 | Colton |
+| 425 | 315 | Julie Fratrik |
 | 426 | 314 | Tipsy Zonebuilder |
 | 427 | 313 | Hoppy Buildout |
 | 428 | 312 | Eric Caccavale |
@@ -454,11 +454,11 @@
 | 446 | 305 | Jack Bo |
 | 447 | 304 | _melisa223_ |
 | 448 | 304 | Stella |
-| 449 | 302 | Willow |
-| 450 | 302 | Jessica |
+| 449 | 302 | Jessica |
+| 450 | 302 | Willow |
 | 451 | 301 | Betty Rosas |
 | 452 | 299 | Hasty Gridpiece |
-| 453 | 299 | Irene Arreguin |
+| 453 | 299 | Angie Harper |
 | 454 | 299 | Samantha Worley |
 | 455 | 299 | Irene Arreguin |
 | 456 | 298 | Grams |

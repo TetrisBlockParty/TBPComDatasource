@@ -258,8 +258,8 @@
 | 250 | 344 | dhardy |
 | 251 | 341 | Nick R Montague |
 | 252 | 341 | DoodleBug |
-| 253 | 340 | Robert |
-| 254 | 340 | Danielle Little-Daugherty |
+| 253 | 340 | Danielle Little-Daugherty |
+| 254 | 340 | Robert |
 | 255 | 339 | Keith Mathis |
 | 256 | 338 | Layzietyme |
 | 257 | 337 | Jamise Brown |
@@ -280,8 +280,8 @@
 | 272 | 329 | Frothy Pattern |
 | 273 | 329 | Marianita Garcia |
 | 274 | 325 | GringaLinga |
-| 275 | 324 | Sylvia Vasquez |
-| 276 | 324 | Mandyy Rae |
+| 275 | 324 | Mandyy Rae |
+| 276 | 324 | Sylvia Vasquez |
 | 277 | 323 | Irv |
 | 278 | 322 | Christina Norman |
 | 279 | 322 | Sarah Roberts |
@@ -433,8 +433,8 @@
 | 425 | 221 | Amy Hess |
 | 426 | 221 | Spunky Builderpiece |
 | 427 | 220 | Bay Marie |
-| 428 | 219 | Breanna Luna |
-| 429 | 219 | Negan Mallory Knoxx Spence |
+| 428 | 219 | Negan Mallory Knoxx Spence |
+| 429 | 219 | Breanna Luna |
 | 430 | 219 | Jeanna Dunn |
 | 431 | 218 | Jason Benitez |
 | 432 | 217 | Brave Slice |
