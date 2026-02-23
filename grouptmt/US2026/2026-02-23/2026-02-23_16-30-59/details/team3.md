@@ -84,8 +84,8 @@
 | 76 | 1244 | Lori Barnaby |
 | 77 | 1229 | Araceli Parra |
 | 78 | 1221 | Betty Ivy |
-| 79 | 1213 | Nerdy Riseclear |
-| 80 | 1213 | Snappy Glidepiece |
+| 79 | 1213 | Snappy Glidepiece |
+| 80 | 1213 | Nerdy Riseclear |
 | 81 | 1212 | Amanda Adkins |
 | 82 | 1186 | Christian A. Pollard |
 | 83 | 1158 | Danielle Mogg |
@@ -123,8 +123,8 @@
 | 115 | 896 | Jesse Olive |
 | 116 | 878 | Shane Wilson Jr. |
 | 117 | 874 | Jessica Pineda-Lopez |
-| 118 | 868 | Felicia Rocha |
-| 119 | 868 | Sarajane Lokan |
+| 118 | 868 | Sarajane Lokan |
+| 119 | 868 | Felicia Rocha |
 | 120 | 864 | Sunny Rotater |
 | 121 | 848 | Patricia Gadsden |
 | 122 | 846 | Kristie |
@@ -414,10 +414,10 @@
 | 406 | 302 | Willow |
 | 407 | 301 | Betty Rosas |
 | 408 | 301 | Michael Lucado |
-| 409 | 299 | Hasty Gridpiece |
-| 410 | 299 | Antonia Russell |
-| 411 | 299 | Angie Harper |
-| 412 | 299 | TotoCherue |
+| 409 | 299 | Antonia Russell |
+| 410 | 299 | Hasty Gridpiece |
+| 411 | 299 | TotoCherue |
+| 412 | 299 | Angie Harper |
 | 413 | 298 | Dannie Litchard |
 | 414 | 298 | Grams |
 | 415 | 298 | Tay |
