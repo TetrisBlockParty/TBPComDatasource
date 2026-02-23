@@ -59,8 +59,8 @@
 | 51 | 870 | BertMofo |
 | 52 | 863 | Pee |
 | 53 | 853 | TeeJ |
-| 54 | 846 | Christine Marie |
-| 55 | 846 | Lucille Truesdale |
+| 54 | 846 | Lucille Truesdale |
+| 55 | 846 | Christine Marie |
 | 56 | 845 | LisaJo Picken Buchanan |
 | 57 | 843 | Shelly Chandler |
 | 58 | 834 | quicksand420 |
@@ -174,8 +174,8 @@
 | 166 | 368 | Chris Bernstein |
 | 167 | 368 | Silly Zonebuilder |
 | 168 | 365 | Jeff Brian Gates |
-| 169 | 361 | Melissa Adams |
-| 170 | 361 | Danielle Kollias |
+| 169 | 361 | Danielle Kollias |
+| 170 | 361 | Melissa Adams |
 | 171 | 359 | Keith Kelley |
 | 172 | 358 | A5! |
 | 173 | 356 | George Nutt |
@@ -201,8 +201,8 @@
 | 193 | 321 | Meagan Nicole |
 | 194 | 320 | Lauren Scott |
 | 195 | 318 | Chris Hartig |
-| 196 | 316 | Autumn Kumzi |
-| 197 | 316 | Cursed Hag |
+| 196 | 316 | Cursed Hag |
+| 197 | 316 | Autumn Kumzi |
 | 198 | 311 | Mary Ann Pabukis |
 | 199 | 310 | Holly Jolly |
 | 200 | 307 | Cheery Risebuilder |
@@ -215,8 +215,8 @@
 | 207 | 300 | Zakia Monae |
 | 208 | 300 | Dana Scott |
 | 209 | 295 | Keshia Lyons |
-| 210 | 294 | Calvin Cannon |
-| 211 | 294 | Porkobello |
+| 210 | 294 | Porkobello |
+| 211 | 294 | Calvin Cannon |
 | 212 | 292 | Epic Curvetile |
 | 213 | 290 | Plucky Patternblock |
 | 214 | 290 | Jared Gutwein |
@@ -238,9 +238,9 @@
 | 230 | 276 | Matt Dell'Olio |
 | 231 | 274 | JPW |
 | 232 | 273 | Casey Grabner |
-| 233 | 272 | Dennis Bradley |
-| 234 | 272 | Alan George LaRage |
-| 235 | 272 | Carlos Ramirez |
+| 233 | 272 | Carlos Ramirez |
+| 234 | 272 | Dennis Bradley |
+| 235 | 272 | Alan George LaRage |
 | 236 | 271 | Holly |
 | 237 | 270 | Juls |
 | 238 | 270 | Jen Caldwell |
@@ -446,9 +446,9 @@
 | 438 | 157 | B Renee Desjardin |
 | 439 | 157 | Ryry |
 | 440 | 157 | David Boggs |
-| 441 | 156 | Nig |
-| 442 | 156 | Mighty Edgepiece |
-| 443 | 156 | Funky Risepiece |
+| 441 | 156 | Funky Risepiece |
+| 442 | 156 | Nig |
+| 443 | 156 | Mighty Edgepiece |
 | 444 | 155 | Sticherella |
 | 445 | 155 | Shirl |
 | 446 | 155 | Faja |

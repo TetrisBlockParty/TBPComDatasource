@@ -206,8 +206,8 @@
 | 198 | 489 | Shannon Matthew Byers |
 | 199 | 488 | Melissa Orth Hunter |
 | 200 | 485 | Dapper Snap |
-| 201 | 480 | Michael Johnson |
-| 202 | 480 | Danielle Allison |
+| 201 | 480 | Danielle Allison |
+| 202 | 480 | Michael Johnson |
 | 203 | 475 | Tessina Dewey-Mancino |
 | 204 | 473 | Connie Mohler-Fair |
 | 205 | 473 | Rachel |
@@ -485,8 +485,8 @@
 | 477 | 217 | Heather Bateman |
 | 478 | 216 | Jl |
 | 479 | 214 | Amy Fuller Heaton |
-| 480 | 213 | Linda Draper |
-| 481 | 213 | Angel Miller |
+| 480 | 213 | Angel Miller |
+| 481 | 213 | Linda Draper |
 | 482 | 213 | Ktfreeee |
 | 483 | 212 | neci |
 | 484 | 212 | Frilly Stackzone |

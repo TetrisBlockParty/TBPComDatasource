@@ -102,8 +102,8 @@
 | 94 | 529 | Ryan Lunnin |
 | 95 | 522 | Sarah Lombardo |
 | 96 | 511 | Mario Cab |
-| 97 | 510 | Chirpy Smasher |
-| 98 | 510 | Colena Davenport |
+| 97 | 510 | Colena Davenport |
+| 98 | 510 | Chirpy Smasher |
 | 99 | 509 | Rachael |
 | 100 | 497 | Arianna O'Brien |
 | 101 | 493 | Jennifer ManWarren |
@@ -210,8 +210,8 @@
 | 202 | 307 | Snappy Matcher |
 | 203 | 307 | femmefatale |
 | 204 | 306 | Angela Renea Lester |
-| 205 | 301 | Cody Gates |
-| 206 | 301 | Damon J. Martin |
+| 205 | 301 | Damon J. Martin |
+| 206 | 301 | Cody Gates |
 | 207 | 300 | Sleepysloath5745 |
 | 208 | 298 | Billie Ann Eason |
 | 209 | 294 | Bindi |

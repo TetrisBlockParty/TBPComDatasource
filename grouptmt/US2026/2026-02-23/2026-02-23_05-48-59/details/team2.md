@@ -151,8 +151,8 @@
 | 143 | 1639 | Jessie McDougald |
 | 144 | 1638 | Speedy Spinblock |
 | 145 | 1629 | Mari Ac |
-| 146 | 1623 | Rebecca Doughman |
-| 147 | 1623 | Janel Turley-Garner |
+| 146 | 1623 | Janel Turley-Garner |
+| 147 | 1623 | Rebecca Doughman |
 | 148 | 1605 | Christi Hulet |
 | 149 | 1602 | blackq |
 | 150 | 1601 | Ray Ray Prado |
@@ -211,8 +211,8 @@
 | 203 | 1282 | Ashley Rose Frederick |
 | 204 | 1282 | Tanya Parsons |
 | 205 | 1259 | Foxxo |
-| 206 | 1258 | Joyce Johnson Vaughn |
-| 207 | 1258 | Snappy Matchbuilder |
+| 206 | 1258 | Snappy Matchbuilder |
+| 207 | 1258 | Joyce Johnson Vaughn |
 | 208 | 1252 | Angel |
 | 209 | 1245 | Cody Nishimura |
 | 210 | 1237 | Megan Ferguson Leone |
@@ -299,8 +299,8 @@
 | 291 | 987 | Osun Anuket Esu |
 | 292 | 984 | Crystal Hoffman |
 | 293 | 981 | Ashlen Dorrell |
-| 294 | 979 | Melissa Penelope Ann Dodge |
-| 295 | 979 | Hillary Crawford |
+| 294 | 979 | Hillary Crawford |
+| 295 | 979 | Melissa Penelope Ann Dodge |
 | 296 | 978 | April Dawn Gussler |
 | 297 | 976 | Sam Joe |
 | 298 | 976 | Della Hole |
@@ -311,8 +311,8 @@
 | 303 | 969 | Boldy Cascadepiece |
 | 304 | 965 | F-X |
 | 305 | 961 | Angela Lynn |
-| 306 | 958 | Doowop40 |
-| 307 | 958 | Brenda Messer |
+| 306 | 958 | Brenda Messer |
+| 307 | 958 | Doowop40 |
 | 308 | 957 | Block Master |
 | 309 | 956 | Phil J. Grombliniak |
 | 310 | 955 | Hyper Cluster |
@@ -330,14 +330,14 @@
 | 322 | 915 | Kelly Trent |
 | 323 | 914 | Shuany Arias |
 | 324 | 907 | Gene Mills |
-| 325 | 904 | John Bednarik |
-| 326 | 904 | Jennifer Aiken |
+| 325 | 904 | Jennifer Aiken |
+| 326 | 904 | John Bednarik |
 | 327 | 904 | Bee |
 | 328 | 903 | Giggy Blocker |
 | 329 | 902 | William Hunt |
 | 330 | 901 | Kevin Sees |
-| 331 | 899 | Chevy |
-| 332 | 899 | Patrick Bartlett |
+| 331 | 899 | Patrick Bartlett |
+| 332 | 899 | Chevy |
 | 333 | 898 | Jamie Otero |
 | 334 | 895 | Donna Colby |
 | 335 | 890 | Steve Man |
@@ -552,8 +552,8 @@
 | 544 | 604 | Rae Rae |
 | 545 | 603 | Casper The Chonk |
 | 546 | 602 | KhaosLord |
-| 547 | 601 | Moua Ying |
-| 548 | 601 | Daniel Amos |
+| 547 | 601 | Daniel Amos |
+| 548 | 601 | Moua Ying |
 | 549 | 598 | Victoria Regina Girolami |
 | 550 | 598 | Leah Keesling |
 | 551 | 597 | Jamie Schmitt |
@@ -948,8 +948,8 @@
 | 940 | 380 | Kelsey Sullivan |
 | 941 | 380 | Zesty Pivot |
 | 942 | 379 | stacey |
-| 943 | 378 | Ubu |
-| 944 | 378 | Elizabeth Leinen |
+| 943 | 378 | Elizabeth Leinen |
+| 944 | 378 | Ubu |
 | 945 | 378 | Kelly Walters |
 | 946 | 377 | NickyBrooks |
 | 947 | 377 | Frank Castle |
@@ -1140,8 +1140,8 @@
 | 1132 | 316 | Rebecca Edmund |
 | 1133 | 316 | Cheeky Brickmatch |
 | 1134 | 316 | Cozy Drop |
-| 1135 | 315 | Lupita Flores |
-| 1136 | 315 | Krys |
+| 1135 | 315 | Krys |
+| 1136 | 315 | Lupita Flores |
 | 1137 | 314 | Nicolee Hackney |
 | 1138 | 314 | Tiffany Branham |
 | 1139 | 314 | Ownlane Rico |
