@@ -127,10 +127,10 @@
 | 119 | 428 | Ly Phethmany |
 | 120 | 425 | Dandy Basegrid |
 | 121 | 417 | Lori Sanders- Davis |
-| 122 | 409 | Goose egg |
-| 123 | 409 | Yvonne Marie |
-| 124 | 406 | Desiree Deschaine Havee |
-| 125 | 406 | Candy Jones |
+| 122 | 409 | Yvonne Marie |
+| 123 | 409 | Goose egg |
+| 124 | 406 | Candy Jones |
+| 125 | 406 | Desiree Deschaine Havee |
 | 126 | 402 | Chris K |
 | 127 | 400 | Maria C. Hernandez |
 | 128 | 399 | Nery Martinez |
@@ -226,8 +226,8 @@
 | 218 | 275 | Chris65 |
 | 219 | 275 | Cheeky Pop |
 | 220 | 273 | Shannon Marie Pitts |
-| 221 | 271 | Sam Williams |
-| 222 | 271 | Frothy Pattern |
+| 221 | 271 | Frothy Pattern |
+| 222 | 271 | Sam Williams |
 | 223 | 270 | Debbie Kane |
 | 224 | 268 | Reesey Enyart |
 | 225 | 265 | Kandae |
@@ -235,8 +235,8 @@
 | 227 | 264 | Standia Civil |
 | 228 | 263 | Jessie Lynn |
 | 229 | 261 | John J. Cronin |
-| 230 | 260 | Lacy Wolfe |
-| 231 | 260 | Marianita Garcia |
+| 230 | 260 | Marianita Garcia |
+| 231 | 260 | Lacy Wolfe |
 | 232 | 258 | Perky Shiftsnap |
 | 233 | 257 | Lakeisha Chapman |
 | 234 | 256 | Snappy Matcher |
@@ -248,12 +248,12 @@
 | 240 | 247 | Brenda Alexander |
 | 241 | 245 | LaFontaine Leslie |
 | 242 | 245 | Matt Iaccheo |
-| 243 | 244 | Sarah Somers Gray |
-| 244 | 244 | Eddie Dillon |
+| 243 | 244 | Eddie Dillon |
+| 244 | 244 | Sarah Somers Gray |
 | 245 | 242 | ParisandCory Champagne |
 | 246 | 241 | Tyler Hertzog |
-| 247 | 240 | Daring Fitclear |
-| 248 | 240 | DaRascal |
+| 247 | 240 | DaRascal |
+| 248 | 240 | Daring Fitclear |
 | 249 | 238 | Tiffany Smith |
 | 250 | 234 | Paula Martin |
 | 251 | 233 | Shiny Gridmatch |

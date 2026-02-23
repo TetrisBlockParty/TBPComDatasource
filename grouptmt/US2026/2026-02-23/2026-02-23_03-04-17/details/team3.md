@@ -27,8 +27,8 @@
 | 19 | 2494 | Ashley Jones |
 | 20 | 2387 | Susan Valentino |
 | 21 | 2302 | Laura Melton |
-| 22 | 2287 | Tetris Master |
-| 23 | 2287 | Brandon Green |
+| 22 | 2287 | Brandon Green |
+| 23 | 2287 | Tetris Master |
 | 24 | 2144 | Zippy Strikesnap |
 | 25 | 2016 | Chummy Shatterer |
 | 26 | 1979 | mjl574 |
@@ -209,8 +209,8 @@
 | 201 | 461 | Shunta Jacobs |
 | 202 | 458 | Danielle Rhoades |
 | 203 | 457 | Jim Mathews |
-| 204 | 452 | Tom Nault |
-| 205 | 452 | Jacqueline Rodriguez |
+| 204 | 452 | Jacqueline Rodriguez |
+| 205 | 452 | Tom Nault |
 | 206 | 451 | Sarah Cowan Burgos |
 | 207 | 436 | Danielle Weikel |
 | 208 | 432 | Jenny Hrndz |
@@ -397,9 +397,9 @@
 | 389 | 243 | Nicholas Roddy |
 | 390 | 242 | Michael Latasha Gray |
 | 391 | 241 | Skinny Baldez |
-| 392 | 240 | Ashley Lynn Marchese |
-| 393 | 240 | Beppy |
-| 394 | 240 | Brian Battjes |
+| 392 | 240 | Brian Battjes |
+| 393 | 240 | Ashley Lynn Marchese |
+| 394 | 240 | Beppy |
 | 395 | 239 | Joy Petroski |
 | 396 | 239 | Ava Petito |
 | 397 | 238 | 4girls |

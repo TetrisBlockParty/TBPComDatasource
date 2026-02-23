@@ -150,9 +150,9 @@
 | 142 | 399 | Swanky Fitline |
 | 143 | 394 | Damn Libra |
 | 144 | 394 | Austin Owens |
-| 145 | 393 | Carlton Unfiltered |
-| 146 | 393 | Girl |
-| 147 | 393 | Trish |
+| 145 | 393 | Trish |
+| 146 | 393 | Carlton Unfiltered |
+| 147 | 393 | Girl |
 | 148 | 391 | Ramel Rhodes |
 | 149 | 391 | Livvy |
 | 150 | 389 | Joseph Guthrie |
