@@ -85,8 +85,8 @@
 | 77 | 646 | Susanna Guerry |
 | 78 | 612 | Hasbro Bros |
 | 79 | 599 | Cynthia Bradley |
-| 80 | 598 | Kellie |
-| 81 | 598 | Erin Hodges Plumb |
+| 80 | 598 | Erin Hodges Plumb |
+| 81 | 598 | Kellie |
 | 82 | 597 | Evie Khalil |
 | 83 | 588 | Greg Hart |
 | 84 | 584 | Jen Sartain |
@@ -179,8 +179,8 @@
 | 171 | 341 | Erin Rosberg |
 | 172 | 339 | Nicole Roseberry Weber |
 | 173 | 338 | Jennifer Hardman |
-| 174 | 337 | Jamise Brown |
-| 175 | 337 | Constance Risner |
+| 174 | 337 | Constance Risner |
+| 175 | 337 | Jamise Brown |
 | 176 | 336 | Dizzy Party |
 | 177 | 333 | Gracie |
 | 178 | 332 | Lehrin Maria |

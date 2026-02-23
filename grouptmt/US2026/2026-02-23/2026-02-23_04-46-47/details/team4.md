@@ -57,8 +57,8 @@
 | 49 | 863 | Pee |
 | 50 | 855 | Marvin Lou Martin |
 | 51 | 853 | TeeJ |
-| 52 | 846 | Christine Marie |
-| 53 | 846 | Lucille Truesdale |
+| 52 | 846 | Lucille Truesdale |
+| 53 | 846 | Christine Marie |
 | 54 | 845 | LisaJo Picken Buchanan |
 | 55 | 843 | Shelly Chandler |
 | 56 | 841 | Anthony Bryan Riva |
@@ -73,8 +73,8 @@
 | 65 | 767 | Shannon Ferrari |
 | 66 | 766 | Edward White |
 | 67 | 766 | Robin Watters |
-| 68 | 765 | Denise Carlson |
-| 69 | 765 | Robin Getchel |
+| 68 | 765 | Robin Getchel |
+| 69 | 765 | Denise Carlson |
 | 70 | 752 | loulou |
 | 71 | 749 | Dustee Craddock-Harrison |
 | 72 | 742 | Carolyn Wallace |
@@ -95,9 +95,9 @@
 | 87 | 664 | Valerie Roberts |
 | 88 | 659 | Jamie Gustafson |
 | 89 | 650 | KJ Pool |
-| 90 | 647 | Shauna Havard |
+| 90 | 647 | KM8 |
 | 91 | 647 | Diana Houts |
-| 92 | 647 | KM8 |
+| 92 | 647 | Shauna Havard |
 | 93 | 646 | Eric Mcgaughy |
 | 94 | 626 | Brittney Griggs |
 | 95 | 624 | Judy Cox |
@@ -208,8 +208,8 @@
 | 200 | 304 | Lindsay Ball |
 | 201 | 304 | Mary Ann Pabukis |
 | 202 | 301 | Andria Lynn |
-| 203 | 300 | Dihcheese444 |
-| 204 | 300 | Dana Scott |
+| 203 | 300 | Dana Scott |
+| 204 | 300 | Dihcheese444 |
 | 205 | 300 | Zakia Monae |
 | 206 | 295 | Keshia Lyons |
 | 207 | 294 | Porkobello |
@@ -233,12 +233,12 @@
 | 225 | 276 | Joeliecea Cobb |
 | 226 | 276 | Matt Dell'Olio |
 | 227 | 273 | Casey Grabner |
-| 228 | 272 | Alan George LaRage |
-| 229 | 272 | Dennis Bradley |
+| 228 | 272 | Dennis Bradley |
+| 229 | 272 | Alan George LaRage |
 | 230 | 272 | Carlos Ramirez |
 | 231 | 271 | Holly |
-| 232 | 270 | Juls |
-| 233 | 270 | Jen Caldwell |
+| 232 | 270 | Jen Caldwell |
+| 233 | 270 | Juls |
 | 234 | 267 | JPW |
 | 235 | 266 | Mr. Party |
 | 236 | 265 | Silly SeaWeed |
@@ -332,8 +332,8 @@
 | 324 | 203 | Katherine Crane |
 | 325 | 200 | Googenheim |
 | 326 | 198 | Calvin Dennis |
-| 327 | 196 | Megan Cutshaw |
-| 328 | 196 | Blessedmama |
+| 327 | 196 | Blessedmama |
+| 328 | 196 | Megan Cutshaw |
 | 329 | 194 | Zany Twisterfit |
 | 330 | 194 | SammieJo Guy |
 | 331 | 192 | Twisty Risebuilder |

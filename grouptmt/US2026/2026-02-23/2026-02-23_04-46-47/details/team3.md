@@ -166,8 +166,8 @@
 | 158 | 591 | Michael Nowogorski |
 | 159 | 588 | Justin Ritter |
 | 160 | 587 | Louise Stacy Sisson |
-| 161 | 585 | Happy Tetriblast |
-| 162 | 585 | Annie Marie |
+| 161 | 585 | Annie Marie |
+| 162 | 585 | Happy Tetriblast |
 | 163 | 582 | Natasha Jones |
 | 164 | 579 | Tasha Gillespie |
 | 165 | 577 | Domo Washington |
@@ -228,9 +228,9 @@
 | 220 | 430 | Jeni Dow |
 | 221 | 415 | ren |
 | 222 | 414 | Fran Lin |
-| 223 | 410 | Stephanie Simpson |
+| 223 | 410 | Duane Bright |
 | 224 | 410 | Mcathen |
-| 225 | 410 | Duane Bright |
+| 225 | 410 | Stephanie Simpson |
 | 226 | 408 | Tiffany Ford |
 | 227 | 407 | Scott Carleton |
 | 228 | 406 | Kristal C Lee |

@@ -145,8 +145,8 @@
 | 137 | 1639 | Jessie McDougald |
 | 138 | 1631 | Speedy Spinblock |
 | 139 | 1629 | Mari Ac |
-| 140 | 1623 | Rebecca Doughman |
-| 141 | 1623 | Janel Turley-Garner |
+| 140 | 1623 | Janel Turley-Garner |
+| 141 | 1623 | Rebecca Doughman |
 | 142 | 1605 | Christi Hulet |
 | 143 | 1602 | blackq |
 | 144 | 1601 | Ray Ray Prado |
@@ -213,8 +213,8 @@
 | 205 | 1252 | Angel |
 | 206 | 1245 | Cody Nishimura |
 | 207 | 1237 | Megan Ferguson Leone |
-| 208 | 1232 | Groovy Puzzle |
-| 209 | 1232 | Ambyre Patterson |
+| 208 | 1232 | Ambyre Patterson |
+| 209 | 1232 | Groovy Puzzle |
 | 210 | 1230 | Megan Garrick |
 | 211 | 1223 | Foxxo |
 | 212 | 1217 | Lucky Ladybug |
@@ -312,8 +312,8 @@
 | 304 | 955 | Angela Bonquiqui Dinish |
 | 305 | 954 | Melissa McCall |
 | 306 | 951 | Cynthia Ward |
-| 307 | 947 | Brittany Radaszewski |
-| 308 | 947 | Dedra Steward |
+| 307 | 947 | Dedra Steward |
+| 308 | 947 | Brittany Radaszewski |
 | 309 | 941 | Cool Clearer |
 | 310 | 939 | Cindy Sechler Taninecz |
 | 311 | 939 | SaraMarie Eveland |
@@ -421,9 +421,9 @@
 | 413 | 746 | Jerilyn Andrina |
 | 414 | 741 | Jánine Riggs |
 | 415 | 740 | Jerry Tempelmeyer |
-| 416 | 737 | Ginger |
+| 416 | 737 | Jeremy Parodi |
 | 417 | 737 | Chelle |
-| 418 | 737 | Jeremy Parodi |
+| 418 | 737 | Ginger |
 | 419 | 734 | Allan Wayne Lamia |
 | 420 | 734 | Ashley Guernsey-Martin |
 | 421 | 732 | Victoria Moore-Smith |
@@ -459,8 +459,8 @@
 | 451 | 699 | Dannette Goldberg-Richards |
 | 452 | 698 | Joce Lynn |
 | 453 | 697 | Ashle Scranton |
-| 454 | 695 | Irene Jones |
-| 455 | 695 | Lakeysha Dortch |
+| 454 | 695 | Lakeysha Dortch |
+| 455 | 695 | Irene Jones |
 | 456 | 693 | Ryan Stadel |
 | 457 | 692 | Shaun Church |
 | 458 | 691 | Poldo Ilano |
@@ -474,12 +474,12 @@
 | 466 | 679 | Kassandra Hunt |
 | 467 | 677 | Kayleigh Wisse |
 | 468 | 677 | Amanda Woodruff |
-| 469 | 676 | Brandon Armstrong |
-| 470 | 676 | Roseanna Peloso |
+| 469 | 676 | Roseanna Peloso |
+| 470 | 676 | Brandon Armstrong |
 | 471 | 675 | Lonne Emade |
 | 472 | 675 | Katelynn Hollen |
-| 473 | 674 | Mikayala Szaz |
-| 474 | 674 | Ashley Munn |
+| 473 | 674 | Ashley Munn |
+| 474 | 674 | Mikayala Szaz |
 | 475 | 673 | trabuco |
 | 476 | 670 | Christine Bollig |
 | 477 | 668 | Gloria Ininahazwe |
@@ -732,11 +732,11 @@
 | 724 | 462 | Kia Humphery |
 | 725 | 462 | Samantha Scibelli |
 | 726 | 461 | Julie Hamilton |
-| 727 | 461 | Kristen O'Neal |
-| 728 | 461 | Amanda West |
+| 727 | 461 | Amanda West |
+| 728 | 461 | Kristen O'Neal |
 | 729 | 460 | LaWanda Powell |
-| 730 | 459 | Pocho Zavala |
-| 731 | 459 | Jessica Lamb |
+| 730 | 459 | Jessica Lamb |
+| 731 | 459 | Pocho Zavala |
 | 732 | 459 | Shyenn Gadsby |
 | 733 | 458 | Nate |
 | 734 | 458 | Shea Edison |
@@ -993,11 +993,11 @@
 | 985 | 352 | apokolypse |
 | 986 | 352 | Jean FU Jagielski |
 | 987 | 352 | MrsClaudette Will'sIam Matthews |
-| 988 | 351 | Heather Renee Jeffers |
-| 989 | 351 | Sara Pennington |
+| 988 | 351 | Sara Pennington |
+| 989 | 351 | Heather Renee Jeffers |
 | 990 | 351 | Queen |
-| 991 | 350 | Macy Jarrett |
-| 992 | 350 | Tum |
+| 991 | 350 | Tum |
+| 992 | 350 | Macy Jarrett |
 | 993 | 350 | Chris Harr |
 | 994 | 350 | PlazTTV |
 | 995 | 349 | Manny Trindade |
