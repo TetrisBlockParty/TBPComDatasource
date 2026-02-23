@@ -198,8 +198,8 @@
 | 190 | 549 | Sarah Cowan Burgos |
 | 191 | 548 | Danielle Balcom |
 | 192 | 547 | Staci George Fitzsimmons |
-| 193 | 546 | Cynthia Castros-Hampton |
-| 194 | 546 | Tasha Schriewer |
+| 193 | 546 | Tasha Schriewer |
+| 194 | 546 | Cynthia Castros-Hampton |
 | 195 | 546 | Mykal Burton |
 | 196 | 540 | Shawn Miller |
 | 197 | 536 | Makelini Mausia |
@@ -298,8 +298,8 @@
 | 290 | 369 | Amber Glover |
 | 291 | 368 | Sheila M Frazier |
 | 292 | 368 | Stephanie Woods |
-| 293 | 366 | Gumbo |
-| 294 | 366 | Betty Bóò |
+| 293 | 366 | Betty Bóò |
+| 294 | 366 | Gumbo |
 | 295 | 362 | Brandon Givens |
 | 296 | 361 | Breanna Marsden |
 | 297 | 360 | Cesar Barraza |
@@ -417,8 +417,8 @@
 | 409 | 269 | Jess Bissett |
 | 410 | 268 | Jessica Lynn French |
 | 411 | 268 | Julia Nicole |
-| 412 | 267 | April Matthew Kibble |
-| 413 | 267 | Michael Kimbro |
+| 412 | 267 | Michael Kimbro |
+| 413 | 267 | April Matthew Kibble |
 | 414 | 267 | Jul |
 | 415 | 266 | Daring Builder |
 | 416 | 266 | Quirky Dropzone |

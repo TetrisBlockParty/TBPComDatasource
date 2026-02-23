@@ -146,8 +146,8 @@
 | 138 | 1818 | Shandrica Lowe |
 | 139 | 1812 | Shameika Trail |
 | 140 | 1774 | Crystal Elam |
-| 141 | 1769 | Katrina Williams Balmir |
-| 142 | 1769 | Chirpy Staggerpiece |
+| 141 | 1769 | Chirpy Staggerpiece |
+| 142 | 1769 | Katrina Williams Balmir |
 | 143 | 1767 | niecy |
 | 144 | 1755 | Loopy Clusterbuilder |
 | 145 | 1751 | Bob |
@@ -569,8 +569,8 @@
 | 561 | 634 | James Louie |
 | 562 | 634 | Quiksilver |
 | 563 | 629 | Breezy Clusterer |
-| 564 | 629 | Maya June |
-| 565 | 629 | snkylnk |
+| 564 | 629 | snkylnk |
+| 565 | 629 | Maya June |
 | 566 | 628 | g |
 | 567 | 628 | Brownie Sheena |
 | 568 | 626 | Chab |
@@ -1270,7 +1270,7 @@
 | 1262 | 316 | Rebecca Edmund |
 | 1263 | 315 | Lupita Flores |
 | 1264 | 315 | Jessica Szymecki |
-| 1265 | 315 | Lupita Flores |
+| 1265 | 315 | Andrew Nicholas Wall |
 | 1266 | 315 | Dan Sickels |
 | 1267 | 315 | Drew Berkelbach |
 | 1268 | 314 | Ownlane Rico |

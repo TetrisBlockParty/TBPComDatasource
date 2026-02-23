@@ -69,8 +69,8 @@
 | 61 | 846 | Lucille Truesdale |
 | 62 | 846 | Christine Marie |
 | 63 | 834 | quicksand420 |
-| 64 | 807 | Amelpss |
-| 65 | 807 | Rachel Anne |
+| 64 | 807 | Rachel Anne |
+| 65 | 807 | Amelpss |
 | 66 | 788 | Chilly Line |
 | 67 | 788 | Julian Garcia |
 | 68 | 787 | Edward White |
@@ -102,8 +102,8 @@
 | 94 | 659 | Jamie Gustafson |
 | 95 | 653 | Rica Mitchell |
 | 96 | 650 | KJ Pool |
-| 97 | 647 | Shauna Havard |
-| 98 | 647 | KM8 |
+| 97 | 647 | KM8 |
+| 98 | 647 | Shauna Havard |
 | 99 | 646 | Eric Mcgaughy |
 | 100 | 635 | Adawna Swires |
 | 101 | 626 | Brittney Griggs |
@@ -236,8 +236,8 @@
 | 228 | 307 | Michele Plunkett |
 | 229 | 306 | mike |
 | 230 | 305 | Melvin Baird |
-| 231 | 304 | Gdiguy |
-| 232 | 304 | Lindsay Ball |
+| 231 | 304 | Lindsay Ball |
+| 232 | 304 | Gdiguy |
 | 233 | 300 | Dana Scott |
 | 234 | 295 | Keshia Lyons |
 | 235 | 294 | Calvin Cannon |
@@ -262,8 +262,8 @@
 | 254 | 279 | Malakai Darien Fox |
 | 255 | 278 | Angela Geist Jusinski |
 | 256 | 278 | Sarah Brown |
-| 257 | 276 | Cynthia Boudreau |
-| 258 | 276 | Joeliecea Cobb |
+| 257 | 276 | Joeliecea Cobb |
+| 258 | 276 | Cynthia Boudreau |
 | 259 | 275 | Kimberlee Jan Beckstead |
 | 260 | 273 | Cranky Rollpiece |
 | 261 | 272 | Dennis Bradley |
@@ -320,8 +320,8 @@
 | 312 | 237 | Christine Therrien |
 | 313 | 235 | LaDonna LovinmesomeMe Lambert |
 | 314 | 235 | Shainne Brewer |
-| 315 | 234 | Shanon Klair |
-| 316 | 234 | Richard-April Kice |
+| 315 | 234 | Richard-April Kice |
+| 316 | 234 | Shanon Klair |
 | 317 | 234 | Diosa Ebalobo Magsael |
 | 318 | 233 | Joseph Edmonson |
 | 319 | 230 | Chantilly Laace |
