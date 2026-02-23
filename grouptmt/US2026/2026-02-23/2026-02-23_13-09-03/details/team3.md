@@ -118,8 +118,8 @@
 | 110 | 869 | Araceli Parra |
 | 111 | 868 | Sarajane Lokan |
 | 112 | 860 | Sunny Rotater |
-| 113 | 851 | Danielle Becker |
-| 114 | 851 | Jd Morris |
+| 113 | 851 | Jd Morris |
+| 114 | 851 | Danielle Becker |
 | 115 | 850 | Danielle Mogg |
 | 116 | 848 | Patricia Gadsden |
 | 117 | 839 | Angeline Joseph |
@@ -140,8 +140,8 @@
 | 132 | 755 | Raya |
 | 133 | 748 | Adrian Marcel Pate |
 | 134 | 746 | Giddy Drop |
-| 135 | 745 | ren |
-| 136 | 745 | JerseyJess |
+| 135 | 745 | JerseyJess |
+| 136 | 745 | ren |
 | 137 | 744 | Fancy Cascader |
 | 138 | 739 | Daryn Elliott |
 | 139 | 736 | mzcatzy |
@@ -357,7 +357,7 @@
 | 349 | 314 | Geoffrey Nash |
 | 350 | 313 | Hoppy Buildout |
 | 351 | 312 | Eric Caccavale |
-| 352 | 311 | Tiffany Davie |
+| 352 | 311 | Noettín Kan Zasnemoore |
 | 353 | 311 | Troy |
 | 354 | 311 | Tiffany Davie |
 | 355 | 309 | ROODBOY |
@@ -476,8 +476,8 @@
 | 468 | 242 | Fancy Curver |
 | 469 | 242 | Joy Petroski |
 | 470 | 241 | Skinny Baldez |
-| 471 | 240 | Trey Ward |
-| 472 | 240 | Rebel124 |
+| 471 | 240 | Rebel124 |
+| 472 | 240 | Trey Ward |
 | 473 | 240 | Bambi Jones |
 | 474 | 239 | Martin Bernier |
 | 475 | 238 | Niki Dalrymple |
@@ -491,8 +491,8 @@
 | 483 | 233 | Anna Moeller |
 | 484 | 233 | Criss |
 | 485 | 232 | Sunny Tiltgrid |
-| 486 | 232 | Stephanie Hill |
-| 487 | 232 | Melanie Sherwood |
+| 486 | 232 | Melanie Sherwood |
+| 487 | 232 | Stephanie Hill |
 | 488 | 231 | Giggly Brickroll |
 | 489 | 230 | DanceLuvLaugh |
 | 490 | 230 | BigE |

@@ -49,8 +49,8 @@
 | 41 | 1121 | Isabel Aguilar |
 | 42 | 1100 | Landon Keith Graffeo |
 | 43 | 1085 | Kimyatta Cavin |
-| 44 | 1082 | Dion Crommarty |
-| 45 | 1082 | Dawn Alexander |
+| 44 | 1082 | Dawn Alexander |
+| 45 | 1082 | Dion Crommarty |
 | 46 | 1071 | Cherrish Duren |
 | 47 | 1065 | Koshin Abdirahman |
 | 48 | 1046 | Johnathan Martinez |
@@ -102,8 +102,8 @@
 | 94 | 659 | Jamie Gustafson |
 | 95 | 653 | Rica Mitchell |
 | 96 | 650 | KJ Pool |
-| 97 | 647 | KM8 |
-| 98 | 647 | Shauna Havard |
+| 97 | 647 | Shauna Havard |
+| 98 | 647 | KM8 |
 | 99 | 646 | Eric Mcgaughy |
 | 100 | 635 | Adawna Swires |
 | 101 | 631 | Raegan Lane-Ross |
@@ -169,10 +169,10 @@
 | 161 | 421 | Kesha Brady |
 | 162 | 418 | Marie-Pier Desjardins |
 | 163 | 418 | Lush Linkfall |
-| 164 | 417 | Amanda Pauldo-Ivy |
-| 165 | 417 | Steph Marie |
-| 166 | 414 | Nope Young |
-| 167 | 414 | Swanky Fitline |
+| 164 | 417 | Steph Marie |
+| 165 | 417 | Amanda Pauldo-Ivy |
+| 166 | 414 | Swanky Fitline |
+| 167 | 414 | Nope Young |
 | 168 | 413 | Circuit8 |
 | 169 | 412 | Jessica Bohlken |
 | 170 | 407 | Berklie Apedaile |

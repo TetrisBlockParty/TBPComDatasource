@@ -44,8 +44,8 @@
 | 36 | 4301 | Mighty Patternzone |
 | 37 | 4199 | Claire Noland |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Corrine Hawks Soriano |
-| 40 | 4120 | Kristen Sceurman |
+| 39 | 4120 | Kristen Sceurman |
+| 40 | 4120 | Corrine Hawks Soriano |
 | 41 | 4086 | PandaMama |
 | 42 | 4006 | CoolKat |
 | 43 | 3960 | Brittany Alicia |
@@ -304,8 +304,8 @@
 | 296 | 1043 | nikki |
 | 297 | 1042 | Mcintosh Brian Shalonda |
 | 298 | 1040 | Rebecca Garland |
-| 299 | 1036 | Allison Lockyer |
-| 300 | 1036 | Amber Shoemaker |
+| 299 | 1036 | Amber Shoemaker |
+| 300 | 1036 | Allison Lockyer |
 | 301 | 1032 | Kristin Gower |
 | 302 | 1029 | Crystal Hoffman |
 | 303 | 1024 | Taylor Phillips |
@@ -718,8 +718,8 @@
 | 710 | 523 | AsnPryBoy83 |
 | 711 | 522 | Sassy Linkroll |
 | 712 | 522 | Leah |
-| 713 | 522 | Snippy Rumbler |
-| 714 | 522 | Synn |
+| 713 | 522 | Synn |
+| 714 | 522 | Snippy Rumbler |
 | 715 | 522 | Kathleen Driskell |
 | 716 | 521 | Mia Muse Best |
 | 717 | 519 | Saucy Fitzone |
@@ -1265,8 +1265,8 @@
 | 1257 | 321 | Claire |
 | 1258 | 321 | Frilly Tilemaker |
 | 1259 | 321 | Brittani Jones |
-| 1260 | 321 | Crystal Herndon |
-| 1261 | 321 | Jennifer Monteleone |
+| 1260 | 321 | Jennifer Monteleone |
+| 1261 | 321 | Crystal Herndon |
 | 1262 | 320 | Reece Smith |
 | 1263 | 320 | Peachy Blockbuilder |
 | 1264 | 320 | Amy Humphreys |
