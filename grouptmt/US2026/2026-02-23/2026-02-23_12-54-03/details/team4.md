@@ -49,8 +49,8 @@
 | 41 | 1121 | Isabel Aguilar |
 | 42 | 1100 | Landon Keith Graffeo |
 | 43 | 1085 | Kimyatta Cavin |
-| 44 | 1082 | Dion Crommarty |
-| 45 | 1082 | Dawn Alexander |
+| 44 | 1082 | Dawn Alexander |
+| 45 | 1082 | Dion Crommarty |
 | 46 | 1071 | Cherrish Duren |
 | 47 | 1065 | Koshin Abdirahman |
 | 48 | 1046 | Johnathan Martinez |
@@ -66,8 +66,8 @@
 | 58 | 871 | Pee |
 | 59 | 870 | BertMofo |
 | 60 | 864 | Shelly Chandler |
-| 61 | 846 | Christine Marie |
-| 62 | 846 | Lucille Truesdale |
+| 61 | 846 | Lucille Truesdale |
+| 62 | 846 | Christine Marie |
 | 63 | 834 | quicksand420 |
 | 64 | 827 | Avy Absol |
 | 65 | 807 | Amelpss |
@@ -202,10 +202,10 @@
 | 194 | 355 | James Hurley Jr. |
 | 195 | 354 | TRCuse |
 | 196 | 352 | Sue Joyce Staats |
-| 197 | 348 | April Rondinone |
-| 198 | 348 | David Lay |
-| 199 | 347 | Daria Rycewicz |
-| 200 | 347 | Crystal Nicolette Moore |
+| 197 | 348 | David Lay |
+| 198 | 348 | April Rondinone |
+| 199 | 347 | Crystal Nicolette Moore |
+| 200 | 347 | Daria Rycewicz |
 | 201 | 347 | Bio Nelly |
 | 202 | 346 | shark tato |
 | 203 | 345 | 030Synner |
@@ -285,11 +285,11 @@
 | 277 | 264 | ZeeZee |
 | 278 | 264 | Stella |
 | 279 | 263 | rebel4lyfe |
-| 280 | 262 | BigSammy420 |
+| 280 | 262 | Ruben Wheeler |
 | 281 | 262 | Selena Shaw |
-| 282 | 262 | Ruben Wheeler |
-| 283 | 261 | Zethra Prenisha Rahming |
-| 284 | 261 | Stacey Stano |
+| 282 | 262 | BigSammy420 |
+| 283 | 261 | Stacey Stano |
+| 284 | 261 | Zethra Prenisha Rahming |
 | 285 | 260 | Carter Jones |
 | 286 | 259 | Allen Lloyd |
 | 287 | 259 | John Brunetti |
@@ -496,8 +496,8 @@
 | 488 | 158 | Jasmine S Caldwell |
 | 489 | 158 | Jackie Clark |
 | 490 | 157 | LunaMoon |
-| 491 | 157 | Ryry |
-| 492 | 157 | David Boggs |
+| 491 | 157 | David Boggs |
+| 492 | 157 | Ryry |
 | 493 | 156 | Mighty Edgepiece |
 | 494 | 155 | Faja |
 | 495 | 155 | tipsy tiger |
@@ -575,9 +575,9 @@
 | 567 | 131 | Cheryl Johnson |
 | 568 | 131 | Cool Clusterfit |
 | 569 | 131 | Tianna Frey |
-| 570 | 131 | Roseanna Anderson |
-| 571 | 131 | David V. Bowers |
-| 572 | 131 | Chilly Matcher |
+| 570 | 131 | Chilly Matcher |
+| 571 | 131 | Roseanna Anderson |
+| 572 | 131 | David V. Bowers |
 | 573 | 130 | Gigglelymomof2 |
 | 574 | 130 | KoolMom9907 |
 | 575 | 130 | Jason Gibbs |

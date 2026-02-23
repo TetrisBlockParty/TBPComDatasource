@@ -287,8 +287,8 @@
 | 279 | 1079 | Jennifer Kistner |
 | 280 | 1073 | Jodi Blake |
 | 281 | 1071 | Kim Dean |
-| 282 | 1069 | Carl Bradshaw |
-| 283 | 1069 | Offonar Facey |
+| 282 | 1069 | Offonar Facey |
+| 283 | 1069 | Carl Bradshaw |
 | 284 | 1064 | BK Queen |
 | 285 | 1063 | Caitlin Schmid |
 | 286 | 1053 | Michelle Lee |
@@ -297,27 +297,27 @@
 | 289 | 1047 | Dany Murillo |
 | 290 | 1046 | Lola C Davis |
 | 291 | 1046 | Cindy Sechler Taninecz |
-| 292 | 1045 | Bri Lynn |
-| 293 | 1045 | Lourisha |
+| 292 | 1045 | Lourisha |
+| 293 | 1045 | Bri Lynn |
 | 294 | 1044 | Jennifer Aiken |
-| 295 | 1043 | Brave Dropmatch |
-| 296 | 1043 | nikki |
+| 295 | 1043 | nikki |
+| 296 | 1043 | Brave Dropmatch |
 | 297 | 1042 | Mcintosh Brian Shalonda |
 | 298 | 1040 | Rebecca Garland |
-| 299 | 1036 | Allison Lockyer |
-| 300 | 1036 | Amber Shoemaker |
+| 299 | 1036 | Amber Shoemaker |
+| 300 | 1036 | Allison Lockyer |
 | 301 | 1032 | Kristin Gower |
 | 302 | 1029 | Crystal Hoffman |
-| 303 | 1024 | Susan Perraut Jones |
-| 304 | 1024 | Taylor Phillips |
+| 303 | 1024 | Taylor Phillips |
+| 304 | 1024 | Susan Perraut Jones |
 | 305 | 1022 | Shannon Joslin |
 | 306 | 1019 | Julie Kresal |
 | 307 | 1015 | Brittany Radaszewski |
 | 308 | 1014 | Michele Morgan |
 | 309 | 1011 | Teresa Gillmore |
 | 310 | 1003 | Andrea Maher |
-| 311 | 998 | Shelley Thornburgh Wright |
-| 312 | 998 | Keri Womack |
+| 311 | 998 | Keri Womack |
+| 312 | 998 | Shelley Thornburgh Wright |
 | 313 | 996 | Ashie Ann |
 | 314 | 987 | Osun Anuket Esu |
 | 315 | 980 | Jackie Lucas |
