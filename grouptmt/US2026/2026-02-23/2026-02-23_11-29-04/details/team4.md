@@ -359,8 +359,8 @@
 | 351 | 208 | Shukee Lo |
 | 352 | 208 | Heather Bruce |
 | 353 | 207 | Squeezy Pearsall |
-| 354 | 206 | Maureen Flanigan |
-| 355 | 206 | June Hoffman |
+| 354 | 206 | June Hoffman |
+| 355 | 206 | Maureen Flanigan |
 | 356 | 205 | KayM |
 | 357 | 204 | Ruby Khalisadar |
 | 358 | 204 | Russ Attitude |
@@ -474,8 +474,8 @@
 | 466 | 160 | Heather Layne Smith |
 | 467 | 160 | icequeenx |
 | 468 | 159 | Groovy Brickmatch |
-| 469 | 158 | Jasmine S Caldwell |
-| 470 | 158 | Jen Mattei |
+| 469 | 158 | Jen Mattei |
+| 470 | 158 | Jasmine S Caldwell |
 | 471 | 158 | Grann8 |
 | 472 | 157 | David Boggs |
 | 473 | 157 | LunaMoon |
@@ -796,8 +796,8 @@
 | 788 | 88 | Mitchell Everhart |
 | 789 | 88 | Joe Lonnemann |
 | 790 | 88 | Eminem |
-| 791 | 88 | Nicole Silvers |
-| 792 | 88 | Mitchell Everhart |
+| 791 | 88 | Krista Buffaloe |
+| 792 | 88 | Frisky Column |
 | 793 | 88 | Danielle Love |
 | 794 | 88 | Beezie |
 | 795 | 88 | Buttlicker |

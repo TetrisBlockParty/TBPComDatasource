@@ -292,8 +292,8 @@
 | 284 | 1045 | Bri Lynn |
 | 285 | 1045 | Lourisha |
 | 286 | 1044 | Jennifer Aiken |
-| 287 | 1043 | nikki |
-| 288 | 1043 | Brave Dropmatch |
+| 287 | 1043 | Brave Dropmatch |
+| 288 | 1043 | nikki |
 | 289 | 1042 | Mcintosh Brian Shalonda |
 | 290 | 1040 | Rebecca Garland |
 | 291 | 1036 | Amber Shoemaker |
@@ -354,8 +354,8 @@
 | 346 | 907 | Gene Mills |
 | 347 | 904 | John Bednarik |
 | 348 | 904 | Bee |
-| 349 | 903 | Giggy Blocker |
-| 350 | 903 | Eric Castaneda |
+| 349 | 903 | Eric Castaneda |
+| 350 | 903 | Giggy Blocker |
 | 351 | 902 | Diallo Sparkman |
 | 352 | 901 | Kevin Sees |
 | 353 | 899 | Patrick Bartlett |
@@ -731,8 +731,8 @@
 | 723 | 500 | Ryan Meilleur |
 | 724 | 500 | Amy Reynolds |
 | 725 | 499 | Demitri Smith |
-| 726 | 499 | Martina Gabrielle LaPolla |
-| 727 | 499 | Besma Ao |
+| 726 | 499 | Besma Ao |
+| 727 | 499 | Martina Gabrielle LaPolla |
 | 728 | 498 | Abimbola Bimbo |
 | 729 | 498 | Chummy Blockbuilder |
 | 730 | 497 | Sam |

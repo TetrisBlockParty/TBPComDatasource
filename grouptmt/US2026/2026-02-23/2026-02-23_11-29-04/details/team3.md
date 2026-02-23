@@ -205,8 +205,8 @@
 | 197 | 525 | Stephanie Blkpep Davidson |
 | 198 | 524 | Bmo |
 | 199 | 521 | Shannon Matthew Byers |
-| 200 | 519 | Terry Jo Jones |
-| 201 | 519 | rnr junky |
+| 200 | 519 | rnr junky |
+| 201 | 519 | Terry Jo Jones |
 | 202 | 515 | Cozy Snaplink |
 | 203 | 513 | Lizabeth Fox |
 | 204 | 510 | Makelini Mausia |
@@ -640,8 +640,8 @@
 | 632 | 180 | Jen Lewis |
 | 633 | 179 | Boldy Corner |
 | 634 | 179 | Alexi Pryor |
-| 635 | 179 | Num1hater |
-| 636 | 179 | Ruchi Smit |
+| 635 | 179 | Ruchi Smit |
+| 636 | 179 | Num1hater |
 | 637 | 178 | Jillian Ann |
 | 638 | 178 | Melissa Snyder |
 | 639 | 178 | Draone Grayson |
