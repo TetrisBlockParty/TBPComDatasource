@@ -140,8 +140,8 @@
 | 132 | 774 | Keith J Oshman Jr. |
 | 133 | 773 | Daira Largen |
 | 134 | 770 | Daryn Elliott |
-| 135 | 764 | Hasty Cascadefit |
-| 136 | 764 | Groovy Catcher |
+| 135 | 764 | Groovy Catcher |
+| 136 | 764 | Hasty Cascadefit |
 | 137 | 762 | Speedy Bridger |
 | 138 | 759 | yoyo |
 | 139 | 757 | Fancy Cascader |
@@ -173,8 +173,8 @@
 | 165 | 660 | Cranky Gridder |
 | 166 | 649 | Shavette |
 | 167 | 647 | Jennifer Lynn Fahrenholtz-Summers |
-| 168 | 634 | Denita Mungro |
-| 169 | 634 | Amber Hughes |
+| 168 | 634 | Amber Hughes |
+| 169 | 634 | Denita Mungro |
 | 170 | 633 | Joye Sims Binion |
 | 171 | 632 | Morgan Martinez |
 | 172 | 629 | rnr junky |
@@ -192,8 +192,8 @@
 | 184 | 594 | Kristin Delibac Corrigan |
 | 185 | 591 | Michael Nowogorski |
 | 186 | 587 | Louise Stacy Sisson |
-| 187 | 585 | Happy Tetriblast |
-| 188 | 585 | Domo Washington |
+| 187 | 585 | Domo Washington |
+| 188 | 585 | Happy Tetriblast |
 | 189 | 582 | Natasha Jones |
 | 190 | 576 | Keis |
 | 191 | 568 | Rachael McClain Owens |
@@ -292,8 +292,8 @@
 | 284 | 410 | Duane Bright |
 | 285 | 408 | Tiffany Ford |
 | 286 | 406 | Kristal C Lee |
-| 287 | 405 | Desiree Gold |
-| 288 | 405 | Steffi Chris Dacones |
+| 287 | 405 | Steffi Chris Dacones |
+| 288 | 405 | Desiree Gold |
 | 289 | 403 | lashanda |
 | 290 | 403 | Scott Lindsay |
 | 291 | 401 | Cyd061769 |
@@ -882,13 +882,13 @@
 | 874 | 154 | CuteSharkz |
 | 875 | 153 | Courtney Donovan |
 | 876 | 153 | Santana Lantana |
-| 877 | 153 | Erica Burk |
-| 878 | 153 | Shiny Cluster |
-| 879 | 153 | Sassy Align |
+| 877 | 153 | Cranky Fitzone |
+| 878 | 153 | Sassy Align |
+| 879 | 153 | Shiny Cluster |
 | 880 | 152 | Lisa Ann |
 | 881 | 152 | Epic Wrecker |
-| 882 | 152 | Kate Farok |
-| 883 | 152 | Louise Parker |
+| 882 | 152 | Louise Parker |
+| 883 | 152 | Kate Farok |
 | 884 | 151 | Marie Vanbrocklin |
 | 885 | 151 | Spicy Caster |
 | 886 | 151 | Brad Dimitroff |

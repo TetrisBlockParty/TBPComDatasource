@@ -283,8 +283,8 @@
 | 275 | 289 | Alenoush Karimian |
 | 276 | 288 | Bird Person |
 | 277 | 287 | Sir-Franchise Drake |
-| 278 | 286 | Adele Rahman |
-| 279 | 286 | Sarahdactyl |
+| 278 | 286 | Sarahdactyl |
+| 279 | 286 | Adele Rahman |
 | 280 | 285 | Shanae Grant |
 | 281 | 284 | Michael |
 | 282 | 284 | Colleen Pinette |
@@ -296,8 +296,8 @@
 | 288 | 280 | Наталья Солоид |
 | 289 | 280 | Billie Dawn Sparks |
 | 290 | 279 | Chris Dawson |
-| 291 | 277 | Agustin Duarte Orozco |
-| 292 | 277 | Nutty Spinblock |
+| 291 | 277 | Nutty Spinblock |
+| 292 | 277 | Agustin Duarte Orozco |
 | 293 | 276 | Mrs.Patrica |
 | 294 | 275 | Garrett Burket |
 | 295 | 275 | Cheeky Pop |
@@ -309,8 +309,8 @@
 | 301 | 272 | Barrbaric |
 | 302 | 272 | Michelle Beres |
 | 303 | 271 | Robert |
-| 304 | 270 | Brenda Alexander |
-| 305 | 270 | Debbie Kane |
+| 304 | 270 | Debbie Kane |
+| 305 | 270 | Brenda Alexander |
 | 306 | 269 | LD1 |
 | 307 | 268 | Wayne Saunders |
 | 308 | 268 | Standia Civil |
@@ -440,8 +440,8 @@
 | 432 | 201 | Tedashi |
 | 433 | 201 | Rico Rico |
 | 434 | 200 | Alphonza Keyes Jr. |
-| 435 | 199 | Tina Englert |
-| 436 | 199 | Nathan William |
+| 435 | 199 | Nathan William |
+| 436 | 199 | Tina Englert |
 | 437 | 198 | Marci Sanders |
 | 438 | 198 | Jason Cox |
 | 439 | 197 | Lindsay Glover |
@@ -472,7 +472,7 @@
 | 464 | 187 | Jessica Weed |
 | 465 | 187 | Matthew Foley |
 | 466 | 186 | Nikki Fridley |
-| 467 | 184 | Sonia Marquis |
+| 467 | 184 | Carl Claunch |
 | 468 | 184 | Theeranart Mahawan |
 | 469 | 184 | Sonia Marquis |
 | 470 | 183 | MommaKFC |
@@ -591,7 +591,7 @@
 | 583 | 147 | Jodee Woods |
 | 584 | 146 | Kristen Rhoads |
 | 585 | 146 | Buttons Stemm |
-| 586 | 146 | Kristen Rhoads |
+| 586 | 146 | Robert Young |
 | 587 | 145 | Sunny Pivotfall |
 | 588 | 145 | Aimee Horton |
 | 589 | 144 | Alfredo Vasquez |
