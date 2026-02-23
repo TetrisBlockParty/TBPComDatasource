@@ -55,8 +55,8 @@
 | 47 | 938 | Denny Shives |
 | 48 | 936 | Rebecca Moulton Pinciaro |
 | 49 | 932 | Marvin Lou Martin |
-| 50 | 911 | Anthony Bryan Riva |
-| 51 | 911 | Jeremy Steines |
+| 50 | 911 | Jeremy Steines |
+| 51 | 911 | Anthony Bryan Riva |
 | 52 | 870 | BertMofo |
 | 53 | 864 | Shelly Chandler |
 | 54 | 863 | Pee |
@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Jonathan Kimbrough |
-| 84 | 684 | Kimyatta Cavin |
+| 83 | 684 | Kimyatta Cavin |
+| 84 | 684 | Jonathan Kimbrough |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -125,8 +125,8 @@
 | 117 | 514 | Scott Jameson |
 | 118 | 514 | Serena Goodridge |
 | 119 | 513 | Erin Thomas |
-| 120 | 512 | Cristy Duerksen |
-| 121 | 512 | Casey Jeffcoat |
+| 120 | 512 | Casey Jeffcoat |
+| 121 | 512 | Cristy Duerksen |
 | 122 | 511 | Lori Walker |
 | 123 | 509 | Leslie Nicole |
 | 124 | 482 | Ren Mc |
@@ -165,8 +165,8 @@
 | 157 | 404 | Andy Cabral |
 | 158 | 403 | Keith Kelley |
 | 159 | 398 | Tyler Terrific |
-| 160 | 393 | Girl |
-| 161 | 393 | Carlton Unfiltered |
+| 160 | 393 | Carlton Unfiltered |
+| 161 | 393 | Girl |
 | 162 | 391 | Ramel Rhodes |
 | 163 | 389 | Joseph Guthrie |
 | 164 | 387 | Lucas J Sutton |
@@ -300,8 +300,8 @@
 | 292 | 228 | Bethany Ison |
 | 293 | 227 | Jason Bosco |
 | 294 | 226 | Dizzy Matchzone |
-| 295 | 225 | Jenna McGeorge |
-| 296 | 225 | Ernest Maxwell |
+| 295 | 225 | Ernest Maxwell |
+| 296 | 225 | Jenna McGeorge |
 | 297 | 224 | Ultramarine |
 | 298 | 223 | Adawna Swires |
 | 299 | 223 | Chance Strickland |
@@ -457,10 +457,10 @@
 | 449 | 160 | Sho Nuff |
 | 450 | 159 | Groovy Brickmatch |
 | 451 | 159 | Stacy |
-| 452 | 158 | Dapper Frame |
-| 453 | 158 | Jasmine S Caldwell |
-| 454 | 157 | LunaMoon |
-| 455 | 157 | Ryry |
+| 452 | 158 | Jasmine S Caldwell |
+| 453 | 158 | Dapper Frame |
+| 454 | 157 | Ryry |
+| 455 | 157 | LunaMoon |
 | 456 | 157 | David Boggs |
 | 457 | 156 | Funky Risepiece |
 | 458 | 156 | Mighty Edgepiece |
@@ -610,7 +610,7 @@
 | 602 | 115 | Amanda Maciel Clarke |
 | 603 | 115 | Nicole McMurray |
 | 604 | 115 | Mona Touchine |
-| 605 | 114 | Ashley Danielle |
+| 605 | 114 | Rosemary Foster |
 | 606 | 114 | Brad Campbell |
 | 607 | 114 | Ashley Danielle |
 | 608 | 113 | Hog Crankin |

@@ -129,8 +129,8 @@
 | 121 | 769 | Kristie |
 | 122 | 764 | Groovy Catcher |
 | 123 | 762 | Speedy Bridger |
-| 124 | 752 | Raya |
-| 125 | 752 | Logan Naccarato |
+| 124 | 752 | Logan Naccarato |
+| 125 | 752 | Raya |
 | 126 | 748 | Adrian Marcel Pate |
 | 127 | 745 | JerseyJess |
 | 128 | 744 | Leah Barnett |
@@ -175,8 +175,8 @@
 | 167 | 591 | Michael Nowogorski |
 | 168 | 588 | Justin Ritter |
 | 169 | 587 | Louise Stacy Sisson |
-| 170 | 585 | Happy Tetriblast |
-| 171 | 585 | Annie Marie |
+| 170 | 585 | Annie Marie |
+| 171 | 585 | Happy Tetriblast |
 | 172 | 583 | Tasha Gillespie |
 | 173 | 582 | Natasha Jones |
 | 174 | 577 | Domo Washington |
@@ -191,8 +191,8 @@
 | 183 | 556 | Elissa S-k |
 | 184 | 553 | LaTanya GeminiondaRise Johnson |
 | 185 | 548 | Danielle Balcom |
-| 186 | 546 | Cynthia Castros-Hampton |
-| 187 | 546 | Tasha Schriewer |
+| 186 | 546 | Tasha Schriewer |
+| 187 | 546 | Cynthia Castros-Hampton |
 | 188 | 546 | Mykal Burton |
 | 189 | 540 | Shawn Miller |
 | 190 | 531 | Chauntee Alfrey-Cardinale |
@@ -273,8 +273,8 @@
 | 265 | 367 | Kristin Delibac Corrigan |
 | 266 | 366 | Gumbo |
 | 267 | 365 | Noyb Adam |
-| 268 | 364 | Steffi Chris Dacones |
-| 269 | 364 | Carrie Huskey |
+| 268 | 364 | Carrie Huskey |
+| 269 | 364 | Steffi Chris Dacones |
 | 270 | 362 | Brandon Givens |
 | 271 | 360 | Cesar Barraza |
 | 272 | 359 | Sleepy |
@@ -283,8 +283,8 @@
 | 275 | 354 | Roary Danner |
 | 276 | 354 | Andrew Thorson |
 | 277 | 354 | Kelly |
-| 278 | 353 | Dee Franklin |
-| 279 | 353 | Cyd061769 |
+| 278 | 353 | Cyd061769 |
+| 279 | 353 | Dee Franklin |
 | 280 | 352 | Christian Werndl |
 | 281 | 351 | Eon Harris |
 | 282 | 351 | Blocked |
@@ -306,8 +306,8 @@
 | 298 | 336 | Isabel Ocasio |
 | 299 | 336 | Jojo M |
 | 300 | 335 | victory |
-| 301 | 332 | Brittany |
-| 302 | 332 | Velma Mull |
+| 301 | 332 | Velma Mull |
+| 302 | 332 | Brittany |
 | 303 | 331 | Gray Hicks |
 | 304 | 329 | Angela Scott |
 | 305 | 328 | Desiree Soto |
@@ -345,8 +345,8 @@
 | 337 | 298 | Grams |
 | 338 | 298 | Dannie Litchard |
 | 339 | 297 | kacihall |
-| 340 | 296 | Tracy Martin |
-| 341 | 296 | Donna |
+| 340 | 296 | Donna |
+| 341 | 296 | Tracy Martin |
 | 342 | 295 | Nikki Pags |
 | 343 | 294 | Antonia Russell |
 | 344 | 292 | Khaleada McGill Banks |
@@ -364,8 +364,8 @@
 | 356 | 280 | ROODBOY |
 | 357 | 280 | Aerian Preston |
 | 358 | 280 | Dirtgirl27 |
-| 359 | 279 | Tosha Griffey |
-| 360 | 279 | Naur |
+| 359 | 279 | Naur |
+| 360 | 279 | Tosha Griffey |
 | 361 | 278 | Rufus Lincoln |
 | 362 | 277 | Krystal Gerstberger |
 | 363 | 277 | Joe-Maggie Mathews |
@@ -682,10 +682,10 @@
 | 674 | 162 | Steven Fulater |
 | 675 | 161 | James Lykes |
 | 676 | 161 | Paul Larsen |
-| 677 | 161 | James Lykes |
+| 677 | 161 | Patty White |
 | 678 | 161 | bean |
 | 679 | 161 | Jessica Rose-Morgan |
-| 680 | 160 | Bastian Campbell |
+| 680 | 160 | Tipsy Puzzle |
 | 681 | 160 | Cheery Brickster |
 | 682 | 160 | Bastian Campbell |
 | 683 | 160 | Tiffany Marler |
