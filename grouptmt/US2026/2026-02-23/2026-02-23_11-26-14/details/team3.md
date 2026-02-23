@@ -130,8 +130,8 @@
 | 122 | 775 | Kristie |
 | 123 | 774 | Keith J Oshman Jr. |
 | 124 | 773 | Daira Largen |
-| 125 | 764 | Groovy Catcher |
-| 126 | 764 | Hasty Cascadefit |
+| 125 | 764 | Hasty Cascadefit |
+| 126 | 764 | Groovy Catcher |
 | 127 | 762 | Speedy Bridger |
 | 128 | 761 | Betty Ivy |
 | 129 | 755 | Katrina Schroeder |
@@ -205,8 +205,8 @@
 | 197 | 525 | Stephanie Blkpep Davidson |
 | 198 | 524 | Bmo |
 | 199 | 521 | Shannon Matthew Byers |
-| 200 | 519 | Terry Jo Jones |
-| 201 | 519 | rnr junky |
+| 200 | 519 | rnr junky |
+| 201 | 519 | Terry Jo Jones |
 | 202 | 515 | Cozy Snaplink |
 | 203 | 513 | Lizabeth Fox |
 | 204 | 510 | Makelini Mausia |
@@ -316,8 +316,8 @@
 | 308 | 342 | Cynthia Herrmann Egland |
 | 309 | 341 | Rick Poppen |
 | 310 | 341 | Lys |
-| 311 | 340 | KayB |
-| 312 | 340 | Erika Thornton |
+| 311 | 340 | Erika Thornton |
+| 312 | 340 | KayB |
 | 313 | 338 | fraulila |
 | 314 | 336 | Foltz Lee Kelli |
 | 315 | 335 | victory |
@@ -490,8 +490,8 @@
 | 482 | 229 | MizzMonick Smith |
 | 483 | 228 | Dapper Liney |
 | 484 | 227 | Meowsa |
-| 485 | 226 | paranoid |
-| 486 | 226 | Ryan Williams |
+| 485 | 226 | Ryan Williams |
+| 486 | 226 | paranoid |
 | 487 | 225 | Sassy Tiler |
 | 488 | 225 | sofaking |
 | 489 | 224 | Sarah Morris |
@@ -715,9 +715,9 @@
 | 707 | 164 | Lesa Bartlett |
 | 708 | 163 | Julian Murphy |
 | 709 | 162 | gravelgrinder |
-| 710 | 162 | Steven Fulater |
-| 711 | 162 | Cathy Leger |
-| 712 | 162 | Tony Tran |
+| 710 | 162 | Tony Tran |
+| 711 | 162 | Steven Fulater |
+| 712 | 162 | Cathy Leger |
 | 713 | 161 | Patty White |
 | 714 | 161 | Paul Larsen |
 | 715 | 161 | bean |

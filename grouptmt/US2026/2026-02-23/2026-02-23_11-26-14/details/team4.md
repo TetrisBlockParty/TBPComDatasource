@@ -196,10 +196,10 @@
 | 188 | 352 | Lori |
 | 189 | 352 | Sue Joyce Staats |
 | 190 | 349 | Rafael Valentin |
-| 191 | 348 | April Rondinone |
-| 192 | 348 | David Lay |
-| 193 | 347 | Crystal Nicolette Moore |
-| 194 | 347 | Daria Rycewicz |
+| 191 | 348 | David Lay |
+| 192 | 348 | April Rondinone |
+| 193 | 347 | Daria Rycewicz |
+| 194 | 347 | Crystal Nicolette Moore |
 | 195 | 347 | Bio Nelly |
 | 196 | 346 | shark tato |
 | 197 | 340 | Kris Bartlett |
@@ -211,8 +211,8 @@
 | 203 | 330 | Kathy Brookins |
 | 204 | 328 | scott |
 | 205 | 327 | J-Rizzle |
-| 206 | 324 | jim |
-| 207 | 324 | TinyLegoRose |
+| 206 | 324 | TinyLegoRose |
+| 207 | 324 | jim |
 | 208 | 321 | Meagan Nicole |
 | 209 | 320 | Lauren Scott |
 | 210 | 319 | Googenheim |
@@ -326,8 +326,8 @@
 | 318 | 225 | Kathy Allen |
 | 319 | 224 | Ultramarine |
 | 320 | 224 | AyeKay |
-| 321 | 223 | Amanda Christine |
-| 322 | 223 | Chance Strickland |
+| 321 | 223 | Chance Strickland |
+| 322 | 223 | Amanda Christine |
 | 323 | 222 | Brandi Durig |
 | 324 | 221 | Rheanda Weaskus |
 | 325 | 220 | Jumpy Zonepiece |
@@ -348,7 +348,7 @@
 | 340 | 214 | B Renee Desjardin |
 | 341 | 214 | Patron Anderson |
 | 342 | 213 | Jackie Marie |
-| 343 | 212 | Zany Shatterer |
+| 343 | 212 | Mike Solo |
 | 344 | 212 | Brave Spinbuilder |
 | 345 | 212 | Zany Shatterer |
 | 346 | 211 | Chris Alexinas |
@@ -359,8 +359,8 @@
 | 351 | 208 | Heather Bruce |
 | 352 | 208 | Shukee Lo |
 | 353 | 207 | Squeezy Pearsall |
-| 354 | 206 | Maureen Flanigan |
-| 355 | 206 | June Hoffman |
+| 354 | 206 | June Hoffman |
+| 355 | 206 | Maureen Flanigan |
 | 356 | 205 | KayM |
 | 357 | 204 | Ruby Khalisadar |
 | 358 | 204 | Russ Attitude |
@@ -389,11 +389,11 @@
 | 381 | 191 | Earnest Thompson |
 | 382 | 191 | Norman Klick |
 | 383 | 190 | wombat |
-| 384 | 189 | Lauren Lamb |
-| 385 | 189 | Berklie Apedaile |
+| 384 | 189 | Berklie Apedaile |
+| 385 | 189 | Lauren Lamb |
 | 386 | 189 | Cool Towerbuilder |
-| 387 | 188 | Sharyn Lemire |
-| 388 | 188 | Frilly Blocky |
+| 387 | 188 | Frilly Blocky |
+| 388 | 188 | Sharyn Lemire |
 | 389 | 187 | Jenny Wells-Oakley |
 | 390 | 186 | Dandy Cascadefit |
 | 391 | 185 | Eric Wren |
@@ -439,7 +439,7 @@
 | 431 | 170 | Joshua W. Benton |
 | 432 | 170 | Peppy Drop |
 | 433 | 170 | ChasingZen |
-| 434 | 170 | Peppy Drop |
+| 434 | 170 | Elie Pean |
 | 435 | 170 | Vamp |
 | 436 | 169 | Jessica Atkinson |
 | 437 | 169 | Joseph Pace |
@@ -478,8 +478,8 @@
 | 470 | 158 | Jen Mattei |
 | 471 | 158 | Grann8 |
 | 472 | 157 | David Boggs |
-| 473 | 157 | LunaMoon |
-| 474 | 157 | Ryry |
+| 473 | 157 | Ryry |
+| 474 | 157 | LunaMoon |
 | 475 | 156 | Mighty Edgepiece |
 | 476 | 155 | Faja |
 | 477 | 155 | Shirl |
