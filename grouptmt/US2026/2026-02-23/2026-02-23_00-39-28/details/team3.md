@@ -264,10 +264,10 @@
 | 256 | 343 | Ashley Rufus Bythcez |
 | 257 | 343 | rnr junky |
 | 258 | 341 | MsBee |
-| 259 | 341 | Ashley Tookes |
-| 260 | 341 | Noyb Adam |
-| 261 | 339 | Cynthia Herrmann Egland |
-| 262 | 339 | Danielle Weikel |
+| 259 | 341 | Noyb Adam |
+| 260 | 341 | Ashley Tookes |
+| 261 | 339 | Danielle Weikel |
+| 262 | 339 | Cynthia Herrmann Egland |
 | 263 | 338 | Gumbo |
 | 264 | 332 | Velma Mull |
 | 265 | 330 | victory |
@@ -356,8 +356,8 @@
 | 348 | 253 | Alice |
 | 349 | 252 | Blair Erin Waite |
 | 350 | 250 | Tosha Griffey |
-| 351 | 250 | Juliana Dottore |
-| 352 | 250 | Eric Caccavale |
+| 351 | 250 | Eric Caccavale |
+| 352 | 250 | Juliana Dottore |
 | 353 | 249 | Willow |
 | 354 | 248 | Wettnippz |
 | 355 | 247 | Jessica |
@@ -733,8 +733,8 @@
 | 725 | 125 | Shimika Enay Wallace |
 | 726 | 125 | Briana Wellman |
 | 727 | 124 | Amber Reeves-Buchanan |
-| 728 | 124 | Hasty Pop |
-| 729 | 124 | Ashley Kennedy |
+| 728 | 124 | Jess Meyers |
+| 729 | 124 | Hasty Pop |
 | 730 | 124 | Tony Tran |
 | 731 | 124 | Ashley Kennedy |
 | 732 | 123 | Rebecca Lynn |

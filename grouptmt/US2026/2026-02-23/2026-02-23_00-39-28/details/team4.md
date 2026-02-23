@@ -76,8 +76,8 @@
 | 68 | 736 | Goatimus Lombardi |
 | 69 | 734 | Carolyn Wallace |
 | 70 | 728 | Julian Garcia |
-| 71 | 704 | Crystal Carroll |
-| 72 | 704 | D3TROITB0RN74 |
+| 71 | 704 | D3TROITB0RN74 |
+| 72 | 704 | Crystal Carroll |
 | 73 | 677 | TheNeesh50 |
 | 74 | 673 | Jacqueline Helm |
 | 75 | 671 | Kimyatta Cavin |
@@ -185,8 +185,8 @@
 | 177 | 309 | Crystal Nicolette Moore |
 | 178 | 307 | Bio Nelly |
 | 179 | 302 | Cursed Hag |
-| 180 | 301 | Damn Libra |
-| 181 | 301 | Andria Lynn |
+| 180 | 301 | Andria Lynn |
+| 181 | 301 | Damn Libra |
 | 182 | 300 | Zakia Monae |
 | 183 | 300 | Dana Scott |
 | 184 | 298 | Mary Ann Pabukis |
@@ -213,8 +213,8 @@
 | 205 | 272 | Alan George LaRage |
 | 206 | 272 | Dennis Bradley |
 | 207 | 271 | Sarah Brown |
-| 208 | 270 | Jen Caldwell |
-| 209 | 270 | Juls |
+| 208 | 270 | Juls |
+| 209 | 270 | Jen Caldwell |
 | 210 | 269 | Nikki Rae Gordon |
 | 211 | 268 | Mimi |
 | 212 | 268 | Porkobello |
