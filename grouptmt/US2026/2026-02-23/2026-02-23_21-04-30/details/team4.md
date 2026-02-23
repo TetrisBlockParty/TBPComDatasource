@@ -162,8 +162,8 @@
 | 154 | 514 | Scott Jameson |
 | 155 | 513 | Jessica Lynn Cutlip |
 | 156 | 513 | Erin Thomas |
-| 157 | 512 | Angela Srubar-Norman |
-| 158 | 512 | ThaEviLJeNiuZ |
+| 157 | 512 | ThaEviLJeNiuZ |
+| 158 | 512 | Angela Srubar-Norman |
 | 159 | 512 | Casey Jeffcoat |
 | 160 | 508 | Twisty Clicky |
 | 161 | 507 | Nick Gray |
@@ -235,8 +235,8 @@
 | 227 | 385 | 030Synner |
 | 228 | 383 | blockstar |
 | 229 | 381 | Plucky Patternblock |
-| 230 | 380 | Rio Rocha |
-| 231 | 380 | Zesty Twistbuilder |
+| 230 | 380 | Zesty Twistbuilder |
+| 231 | 380 | Rio Rocha |
 | 232 | 379 | Backoff Recupe |
 | 233 | 378 | shark tato |
 | 234 | 378 | Lauren Scott |
@@ -299,8 +299,8 @@
 | 291 | 305 | Sassy Pattern |
 | 292 | 304 | Shiny Fit |
 | 293 | 301 | Erin Sabol |
-| 294 | 300 | Dana Scott |
-| 295 | 300 | Kate |
+| 294 | 300 | Kate |
+| 295 | 300 | Dana Scott |
 | 296 | 298 | Chance Strickland |
 | 297 | 297 | Kim Klutz Olson |
 | 298 | 297 | Kenna Gunderland |
@@ -309,15 +309,15 @@
 | 301 | 295 | Cool Gridzone |
 | 302 | 295 | Blessedmama |
 | 303 | 293 | DonMega |
-| 304 | 292 | Epic Curvetile |
-| 305 | 292 | Tracey Lehmann |
+| 304 | 292 | Tracey Lehmann |
+| 305 | 292 | Epic Curvetile |
 | 306 | 292 | Angel Raya |
 | 307 | 291 | ZeeZee |
 | 308 | 291 | Dizzy Matchzone |
 | 309 | 291 | Brittney Orengo |
 | 310 | 290 | Heather Bruce |
-| 311 | 290 | Neirrah B Olailjeel |
-| 312 | 290 | Jared Gutwein |
+| 311 | 290 | Jared Gutwein |
+| 312 | 290 | Neirrah B Olailjeel |
 | 313 | 289 | Juls |
 | 314 | 289 | Deb Rubeck |
 | 315 | 288 | Amy Jean |
@@ -406,8 +406,8 @@
 | 398 | 238 | 中山成巳 |
 | 399 | 236 | The Murphy |
 | 400 | 235 | LaDonna LovinmesomeMe Lambert |
-| 401 | 235 | Shainne Brewer |
-| 402 | 235 | Stacy Jones |
+| 401 | 235 | Stacy Jones |
+| 402 | 235 | Shainne Brewer |
 | 403 | 234 | Richard-April Kice |
 | 404 | 234 | Shanon Klair |
 | 405 | 234 | BootsMcGee |

@@ -267,8 +267,8 @@
 | 259 | 1316 | Teddi Notyalc |
 | 260 | 1315 | Lucky Ladybug |
 | 261 | 1304 | Sarah Ridenour |
-| 262 | 1303 | Ronnie Nelson |
-| 263 | 1303 | Peppy Zone |
+| 262 | 1303 | Peppy Zone |
+| 263 | 1303 | Ronnie Nelson |
 | 264 | 1302 | Maria Escobar |
 | 265 | 1300 | Tacara Cummings |
 | 266 | 1294 | Eric Carlson |
@@ -358,13 +358,13 @@
 | 350 | 1049 | Ashlen Dorrell |
 | 351 | 1045 | Lourisha |
 | 352 | 1043 | Brave Dropmatch |
-| 353 | 1042 | Spunkysmom |
-| 354 | 1042 | Mcintosh Brian Shalonda |
+| 353 | 1042 | Mcintosh Brian Shalonda |
+| 354 | 1042 | Spunkysmom |
 | 355 | 1040 | Taylor Phillips |
 | 356 | 1038 | Sheronda Jackson |
 | 357 | 1037 | Jessica Wayne Cornwall |
-| 358 | 1036 | Amber Shoemaker |
-| 359 | 1036 | Allison Lockyer |
+| 358 | 1036 | Allison Lockyer |
+| 359 | 1036 | Amber Shoemaker |
 | 360 | 1029 | Crystal Hoffman |
 | 361 | 1026 | Joshua Mandel |
 | 362 | 1024 | Susan Perraut Jones |
