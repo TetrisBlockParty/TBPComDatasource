@@ -353,10 +353,10 @@
 | 345 | 971 | Jojo Momma |
 | 346 | 969 | Cheech Dta |
 | 347 | 958 | Kathryn Townsley |
-| 348 | 958 | Brenda Messer |
-| 349 | 958 | Doowop40 |
-| 350 | 957 | Matthew Joseph Acevedo |
-| 351 | 957 | Block Master |
+| 348 | 958 | Doowop40 |
+| 349 | 958 | Brenda Messer |
+| 350 | 957 | Block Master |
+| 351 | 957 | Matthew Joseph Acevedo |
 | 352 | 954 | Melissa McCall |
 | 353 | 951 | Cynthia Ward |
 | 354 | 950 | Desire Rice |
@@ -376,15 +376,15 @@
 | 368 | 919 | Isaac Trappiel IV |
 | 369 | 916 | Butta |
 | 370 | 915 | Kelly Trent |
-| 371 | 914 | Shuany Arias |
-| 372 | 914 | William Hunt |
+| 371 | 914 | William Hunt |
+| 372 | 914 | Shuany Arias |
 | 373 | 913 | blume |
 | 374 | 909 | Valerie Brooke Lusk Armstrong |
 | 375 | 907 | Gene Mills |
 | 376 | 907 | Kayla |
 | 377 | 904 | John Bednarik |
-| 378 | 903 | Eric Castaneda |
-| 379 | 903 | Giggy Blocker |
+| 378 | 903 | Giggy Blocker |
+| 379 | 903 | Eric Castaneda |
 | 380 | 902 | Diallo Sparkman |
 | 381 | 899 | Felicia Lynn |
 | 382 | 899 | Patrick Bartlett |
@@ -420,8 +420,8 @@
 | 412 | 837 | Maricia Layolla Cason |
 | 413 | 836 | KhaosLord |
 | 414 | 833 | Dennis McLaurin |
-| 415 | 833 | Christie |
-| 416 | 833 | Moni Foxe |
+| 415 | 833 | Moni Foxe |
+| 416 | 833 | Christie |
 | 417 | 832 | Nicole L Morelli |
 | 418 | 831 | Christina Lewis-Vickers |
 | 419 | 830 | Smashanator |
@@ -541,8 +541,8 @@
 | 533 | 689 | AISlop |
 | 534 | 688 | Tracy Wise |
 | 535 | 686 | Christine Coughlin |
-| 536 | 684 | Amanda Woodruff |
-| 537 | 684 | Ann Knutson Anderson |
+| 536 | 684 | Ann Knutson Anderson |
+| 537 | 684 | Amanda Woodruff |
 | 538 | 682 | Vanessa Moreno |
 | 539 | 681 | Gloria Liu |
 | 540 | 679 | Prette Qui |
@@ -582,14 +582,14 @@
 | 574 | 653 | Brittney Jean |
 | 575 | 651 | Unica Rector |
 | 576 | 649 | Hunter Connors |
-| 577 | 647 | CC |
-| 578 | 647 | Jackie Avila |
+| 577 | 647 | Jackie Avila |
+| 578 | 647 | CC |
 | 579 | 647 | Jenn Marie |
 | 580 | 645 | Andre Love |
 | 581 | 645 | James Smith |
 | 582 | 643 | Michelle Pike |
-| 583 | 642 | Samantha Scibelli |
-| 584 | 642 | snkylnk |
+| 583 | 642 | snkylnk |
+| 584 | 642 | Samantha Scibelli |
 | 585 | 642 | Michelle Fields |
 | 586 | 641 | Snazzy Basepiece |
 | 587 | 641 | Stephanie Fortune |

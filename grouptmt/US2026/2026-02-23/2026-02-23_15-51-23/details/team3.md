@@ -172,8 +172,8 @@
 | 164 | 660 | Cranky Gridder |
 | 165 | 649 | Shavette |
 | 166 | 647 | Jennifer Lynn Fahrenholtz-Summers |
-| 167 | 634 | Denita Mungro |
-| 168 | 634 | Amber Hughes |
+| 167 | 634 | Amber Hughes |
+| 168 | 634 | Denita Mungro |
 | 169 | 633 | Joye Sims Binion |
 | 170 | 632 | Morgan Martinez |
 | 171 | 629 | rnr junky |
@@ -198,8 +198,8 @@
 | 190 | 576 | Keis |
 | 191 | 568 | Rachael McClain Owens |
 | 192 | 566 | LaTanya GeminiondaRise Johnson |
-| 193 | 564 | Poppy Splitter |
-| 194 | 564 | Christine Trester |
+| 193 | 564 | Christine Trester |
+| 194 | 564 | Poppy Splitter |
 | 195 | 563 | Jim Mathews |
 | 196 | 562 | Dave Herzog |
 | 197 | 561 | Elissa S-k |
@@ -489,8 +489,8 @@
 | 481 | 256 | Brysten Green |
 | 482 | 255 | Jolly Dashpiece |
 | 483 | 255 | Mariah Williams |
-| 484 | 254 | Katheline Lazo Luizaga |
-| 485 | 254 | Blair Erin Waite |
+| 484 | 254 | Blair Erin Waite |
+| 485 | 254 | Katheline Lazo Luizaga |
 | 486 | 253 | crystal |
 | 487 | 253 | Hyper Bridger |
 | 488 | 253 | Bryan Byrd |

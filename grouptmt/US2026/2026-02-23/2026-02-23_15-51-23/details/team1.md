@@ -250,8 +250,8 @@
 | 242 | 323 | Eric DeSimone |
 | 243 | 322 | Letson Melissa |
 | 244 | 319 | Frothy Pattern |
-| 245 | 317 | Sam Williams |
-| 246 | 317 | Sarah Roberts |
+| 245 | 317 | Sarah Roberts |
+| 246 | 317 | Sam Williams |
 | 247 | 316 | Sassy Builderline |
 | 248 | 315 | Mandyy Rae |
 | 249 | 314 | Daring Fitclear |
@@ -260,8 +260,8 @@
 | 252 | 312 | Zany Tiler |
 | 253 | 312 | Mitchel White |
 | 254 | 311 | Nathan Sealander |
-| 255 | 310 | Bloknboy |
-| 256 | 310 | Christina Norman |
+| 255 | 310 | Christina Norman |
+| 256 | 310 | Bloknboy |
 | 257 | 308 | Speedy Liney |
 | 258 | 307 | Νεφ Όνυξ |
 | 259 | 305 | Plucky Stacky |

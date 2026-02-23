@@ -310,8 +310,8 @@
 | 302 | 264 | ZeeZee |
 | 303 | 263 | rebel4lyfe |
 | 304 | 262 | Selena Shaw |
-| 305 | 262 | BigSammy420 |
-| 306 | 262 | Ruben Wheeler |
+| 305 | 262 | Ruben Wheeler |
+| 306 | 262 | BigSammy420 |
 | 307 | 261 | Zethra Prenisha Rahming |
 | 308 | 260 | Carter Jones |
 | 309 | 259 | Allen Lloyd |
@@ -329,8 +329,8 @@
 | 321 | 251 | Kathy Allen |
 | 322 | 251 | Carol Ricks Raymond |
 | 323 | 249 | Ak Jones |
-| 324 | 248 | Chirpy Basepiece |
-| 325 | 248 | Angelito |
+| 324 | 248 | Angelito |
+| 325 | 248 | Chirpy Basepiece |
 | 326 | 248 | Jose Dejesus |
 | 327 | 247 | Vic |
 | 328 | 247 | Stephme310 |
@@ -1476,7 +1476,7 @@
 | 1468 | 28 | Shiny Brickline |
 | 1469 | 28 | Ashley Cooke |
 | 1470 | 28 | Cheery Gridroll |
-| 1471 | 28 | Slinky Matcher |
+| 1471 | 28 | Rita Loucks |
 | 1472 | 28 | Bryson Peebles |
 | 1473 | 28 | Slinky Matcher |
 | 1474 | 27 | ocean |
