@@ -164,8 +164,8 @@
 | 156 | 383 | Margo Wagner |
 | 157 | 383 | pjbeta |
 | 158 | 380 | phrmblk24 |
-| 159 | 379 | Austin James |
-| 160 | 379 | Kimmie Kimms |
+| 159 | 379 | Kimmie Kimms |
+| 160 | 379 | Austin James |
 | 161 | 378 | Jessica Sheehan |
 | 162 | 376 | Death |
 | 163 | 376 | Brian Richardsson |
@@ -234,8 +234,8 @@
 | 226 | 295 | Lakeisha Chapman |
 | 227 | 294 | Chuck Gannon |
 | 228 | 293 | John Kim |
-| 229 | 291 | Giddy Cascade |
-| 230 | 291 | Brave Wrecker |
+| 229 | 291 | Brave Wrecker |
+| 230 | 291 | Giddy Cascade |
 | 231 | 290 | Tavia |
 | 232 | 290 | Hellsin |
 | 233 | 287 | Sassy Builderline |

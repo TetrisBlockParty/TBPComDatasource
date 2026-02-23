@@ -496,8 +496,8 @@
 | 488 | 689 | Gauri Shrotriya |
 | 489 | 686 | Christine Coughlin |
 | 490 | 684 | Sarah DeHart |
-| 491 | 684 | Ann Knutson Anderson |
-| 492 | 684 | Ellie Jonas |
+| 491 | 684 | Ellie Jonas |
+| 492 | 684 | Ann Knutson Anderson |
 | 493 | 682 | Vanessa Moreno |
 | 494 | 682 | Antionette Sewell |
 | 495 | 681 | Gloria Liu |
@@ -709,9 +709,9 @@
 | 701 | 512 | Sassy Linkroll |
 | 702 | 511 | Kristie Wilcox |
 | 703 | 509 | Jordan Kaiser |
-| 704 | 509 | Shelva Richard |
+| 704 | 509 | Toni Whipple |
 | 705 | 509 | Perky Rollfit |
-| 706 | 509 | Toni Whipple |
+| 706 | 509 | Shelva Richard |
 | 707 | 508 | Daphne Jordan |
 | 708 | 507 | Crystal Heller Gonzalez |
 | 709 | 507 | Funky Caster |
@@ -721,8 +721,8 @@
 | 713 | 502 | Jasmine Kenney |
 | 714 | 500 | Ryan Meilleur |
 | 715 | 500 | Amy Reynolds |
-| 716 | 499 | Martina Gabrielle LaPolla |
-| 717 | 499 | Besma Ao |
+| 716 | 499 | Besma Ao |
+| 717 | 499 | Martina Gabrielle LaPolla |
 | 718 | 498 | Abimbola Bimbo |
 | 719 | 498 | Chummy Blockbuilder |
 | 720 | 497 | June E Hanson |
