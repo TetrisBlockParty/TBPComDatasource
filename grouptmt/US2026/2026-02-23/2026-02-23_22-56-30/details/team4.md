@@ -180,8 +180,8 @@
 | 172 | 497 | Brandon Crabbs |
 | 173 | 496 | Cindy Looper |
 | 174 | 492 | Rico |
-| 175 | 491 | Carrie Brian |
-| 176 | 491 | Jade Rian |
+| 175 | 491 | Jade Rian |
+| 176 | 491 | Carrie Brian |
 | 177 | 489 | Swanky Fitline |
 | 178 | 487 | April Rondinone |
 | 179 | 487 | Christina Black |
@@ -259,17 +259,17 @@
 | 251 | 369 | Matt Dell'Olio |
 | 252 | 368 | Kris Bartlett |
 | 253 | 367 | Meg |
-| 254 | 366 | Andrew Dang |
-| 255 | 366 | Cheery Risebuilder |
+| 254 | 366 | Cheery Risebuilder |
+| 255 | 366 | Andrew Dang |
 | 256 | 365 | Hyper Builder |
 | 257 | 363 | KimoKoala |
 | 258 | 363 | TRCuse |
 | 259 | 361 | Danielle Kollias |
-| 260 | 360 | James Hurley Jr. |
-| 261 | 360 | Ari Droff |
+| 260 | 360 | Ari Droff |
+| 261 | 360 | James Hurley Jr. |
 | 262 | 358 | Twisty Cascadezone |
-| 263 | 356 | mike |
-| 264 | 356 | Joeliecea Cobb |
+| 263 | 356 | Joeliecea Cobb |
+| 264 | 356 | mike |
 | 265 | 355 | David Lay |
 | 266 | 353 | Chaz |
 | 267 | 352 | scott |

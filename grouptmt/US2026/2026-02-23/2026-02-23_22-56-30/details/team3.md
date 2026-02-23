@@ -214,8 +214,8 @@
 | 206 | 621 | Sashay Tapae Simpson |
 | 207 | 617 | Annie Déè |
 | 208 | 616 | Kammy Hill |
-| 209 | 605 | CeceGeGe |
-| 210 | 605 | Sarah Cowan Burgos |
+| 209 | 605 | Sarah Cowan Burgos |
+| 210 | 605 | CeceGeGe |
 | 211 | 600 | Keis |
 | 212 | 598 | Bmo |
 | 213 | 597 | Kaycee Kay |
@@ -360,11 +360,11 @@
 | 352 | 383 | Kirhonda Autmon |
 | 353 | 383 | Nikki White |
 | 354 | 382 | Amanda J. Mcneil-Anderson |
-| 355 | 381 | Tiffany Davie |
-| 356 | 381 | Christina Spa |
+| 355 | 381 | Christina Spa |
+| 356 | 381 | Tiffany Davie |
 | 357 | 381 | gremicx |
-| 358 | 379 | Kaitie Oliver |
-| 359 | 379 | Kelly |
+| 358 | 379 | Kelly |
+| 359 | 379 | Kaitie Oliver |
 | 360 | 378 | MsBee |
 | 361 | 377 | Hoppy Patternline |
 | 362 | 377 | Dee Franklin |
@@ -402,16 +402,16 @@
 | 394 | 349 | Donna |
 | 395 | 348 | Ashley Raines |
 | 396 | 346 | AlsoJess |
-| 397 | 345 | victory |
-| 398 | 345 | Misha Sanders |
+| 397 | 345 | Misha Sanders |
+| 398 | 345 | victory |
 | 399 | 344 | Beaudie Stroebel |
 | 400 | 343 | Brittany |
 | 401 | 342 | Cynthia Herrmann Egland |
 | 402 | 342 | Christina Marie Swisher |
 | 403 | 341 | Eboni Starr |
 | 404 | 341 | Lys |
-| 405 | 340 | Kerry Nowickshere |
-| 406 | 340 | Erika Thornton |
+| 405 | 340 | Erika Thornton |
+| 406 | 340 | Kerry Nowickshere |
 | 407 | 339 | Michael Lucado |
 | 408 | 338 | Michael Leblanc |
 | 409 | 338 | Troy |
@@ -505,8 +505,8 @@
 | 497 | 294 | Emma |
 | 498 | 293 | Omega |
 | 499 | 293 | Arden White Kirsch |
-| 500 | 292 | Scouty |
-| 501 | 292 | Khaleada McGill Banks |
+| 500 | 292 | Khaleada McGill Banks |
+| 501 | 292 | Scouty |
 | 502 | 290 | Justin Parker |
 | 503 | 290 | Carrie Resler |
 | 504 | 289 | Fredd Thomas |
