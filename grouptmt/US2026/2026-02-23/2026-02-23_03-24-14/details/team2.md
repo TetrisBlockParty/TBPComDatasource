@@ -423,8 +423,8 @@
 | 415 | 731 | Charvi' Carter |
 | 416 | 730 | Hoppy Brickmatch |
 | 417 | 729 | goofinoff |
-| 418 | 728 | Tom Riefer |
-| 419 | 728 | Dylan Thomason |
+| 418 | 728 | Dylan Thomason |
+| 419 | 728 | Tom Riefer |
 | 420 | 725 | Vonceial Boone |
 | 421 | 724 | Melissa Holsinger |
 | 422 | 722 | tejas25 |
