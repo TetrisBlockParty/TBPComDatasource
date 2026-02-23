@@ -709,9 +709,9 @@
 | 701 | 512 | Sassy Linkroll |
 | 702 | 511 | Kristie Wilcox |
 | 703 | 509 | Jordan Kaiser |
-| 704 | 509 | Shelva Richard |
+| 704 | 509 | Toni Whipple |
 | 705 | 509 | Perky Rollfit |
-| 706 | 509 | Toni Whipple |
+| 706 | 509 | Shelva Richard |
 | 707 | 508 | Daphne Jordan |
 | 708 | 507 | Crystal Heller Gonzalez |
 | 709 | 507 | Funky Caster |

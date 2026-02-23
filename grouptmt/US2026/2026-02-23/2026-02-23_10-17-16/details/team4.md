@@ -180,9 +180,9 @@
 | 172 | 372 | Antony Dwayne Beasley |
 | 173 | 370 | Oscar Alberto Perez |
 | 174 | 369 | Lindsey Gonzalez |
-| 175 | 368 | Raegan Lane-Ross |
+| 175 | 368 | Silly Zonebuilder |
 | 176 | 368 | Brandon Crabbs |
-| 177 | 368 | Silly Zonebuilder |
+| 177 | 368 | Raegan Lane-Ross |
 | 178 | 365 | Jeff Brian Gates |
 | 179 | 361 | Melissa Adams |
 | 180 | 361 | Danielle Kollias |
@@ -360,8 +360,8 @@
 | 352 | 203 | Courtney Halleck |
 | 353 | 203 | Kevin Bush |
 | 354 | 201 | O block |
-| 355 | 198 | Mona Sharma |
-| 356 | 198 | Calvin Dennis |
+| 355 | 198 | Calvin Dennis |
+| 356 | 198 | Mona Sharma |
 | 357 | 197 | Cozy Balancer |
 | 358 | 196 | Blessedmama |
 | 359 | 196 | Megan Cutshaw |
@@ -377,8 +377,8 @@
 | 369 | 194 | Eri Kka |
 | 370 | 192 | Meg |
 | 371 | 192 | Twisty Risebuilder |
-| 372 | 191 | Earnest Thompson |
-| 373 | 191 | Riverdale |
+| 372 | 191 | Riverdale |
+| 373 | 191 | Earnest Thompson |
 | 374 | 191 | Norman Klick |
 | 375 | 190 | wombat |
 | 376 | 189 | Berklie Apedaile |

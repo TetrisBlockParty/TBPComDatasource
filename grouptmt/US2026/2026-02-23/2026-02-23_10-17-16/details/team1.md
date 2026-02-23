@@ -164,15 +164,15 @@
 | 156 | 383 | Margo Wagner |
 | 157 | 383 | pjbeta |
 | 158 | 380 | phrmblk24 |
-| 159 | 379 | Austin James |
-| 160 | 379 | Kimmie Kimms |
+| 159 | 379 | Kimmie Kimms |
+| 160 | 379 | Austin James |
 | 161 | 378 | Jessica Sheehan |
 | 162 | 376 | Brian Richardsson |
 | 163 | 376 | Death |
-| 164 | 375 | Tanya Carpenter-Reynolds |
-| 165 | 375 | Connie |
-| 166 | 371 | Basment Living |
-| 167 | 371 | Jason Savage |
+| 164 | 375 | Connie |
+| 165 | 375 | Tanya Carpenter-Reynolds |
+| 166 | 371 | Jason Savage |
+| 167 | 371 | Basment Living |
 | 168 | 369 | Christy Jones |
 | 169 | 368 | Amanda Johnson Huffman |
 | 170 | 367 | Sharon Reynolds |
@@ -234,8 +234,8 @@
 | 226 | 295 | Lakeisha Chapman |
 | 227 | 294 | Chuck Gannon |
 | 228 | 293 | John Kim |
-| 229 | 291 | Giddy Cascade |
-| 230 | 291 | Brave Wrecker |
+| 229 | 291 | Brave Wrecker |
+| 230 | 291 | Giddy Cascade |
 | 231 | 290 | Tavia |
 | 232 | 290 | Hellsin |
 | 233 | 287 | Sassy Builderline |
