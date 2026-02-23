@@ -309,8 +309,8 @@
 | 301 | 405 | Desiree Gold |
 | 302 | 405 | Steffi Chris Dacones |
 | 303 | 403 | lashanda |
-| 304 | 403 | Stephanie Burtin |
-| 305 | 403 | Scott Lindsay |
+| 304 | 403 | Scott Lindsay |
+| 305 | 403 | Stephanie Burtin |
 | 306 | 400 | Dana Winters |
 | 307 | 398 | fraulila |
 | 308 | 397 | Heather De Vries Cobb |
@@ -499,8 +499,8 @@
 | 491 | 268 | Sdot |
 | 492 | 267 | Omega |
 | 493 | 267 | April Matthew Kibble |
-| 494 | 266 | Quirky Dropzone |
-| 495 | 266 | Sarah Mayson |
+| 494 | 266 | Sarah Mayson |
+| 495 | 266 | Quirky Dropzone |
 | 496 | 266 | Reina Roth |
 | 497 | 265 | Danielle Dani |
 | 498 | 264 | Dana Fox |
@@ -529,8 +529,8 @@
 | 521 | 255 | LaNette Morgan |
 | 522 | 255 | Mariah Williams |
 | 523 | 255 | Jolly Dashpiece |
-| 524 | 254 | Landycandii |
-| 525 | 254 | Katheline Lazo Luizaga |
+| 524 | 254 | Katheline Lazo Luizaga |
+| 525 | 254 | Landycandii |
 | 526 | 254 | atomictrin |
 | 527 | 253 | Kristen McAlpine |
 | 528 | 253 | Boldy Blocker |
@@ -556,10 +556,10 @@
 | 548 | 243 | Nicholas Roddy |
 | 549 | 243 | Kristy Manley |
 | 550 | 242 | Misstery |
-| 551 | 242 | Heather Bateman |
-| 552 | 242 | BŘŰŤİÇŨŚ |
-| 553 | 241 | paranoid |
-| 554 | 241 | Zesty Rotater |
+| 551 | 242 | BŘŰŤİÇŨŚ |
+| 552 | 242 | Heather Bateman |
+| 553 | 241 | Zesty Rotater |
+| 554 | 241 | paranoid |
 | 555 | 241 | Jill Stickney |
 | 556 | 240 | Bambi Jones |
 | 557 | 240 | Trey Ward |
@@ -641,10 +641,10 @@
 | 633 | 213 | Gina Marie |
 | 634 | 213 | Heather Ferrara |
 | 635 | 213 | Laaken Draper |
-| 636 | 212 | Frisky Stacker |
-| 637 | 212 | Danette Marie |
-| 638 | 212 | Beth Ingham |
-| 639 | 212 | Kita A Jackson |
+| 636 | 212 | Danette Marie |
+| 637 | 212 | Frisky Stacker |
+| 638 | 212 | Kita A Jackson |
+| 639 | 212 | Beth Ingham |
 | 640 | 211 | David Kozen |
 | 641 | 211 | Michael Pleasant |
 | 642 | 211 | Brittany Lawson Tolson |

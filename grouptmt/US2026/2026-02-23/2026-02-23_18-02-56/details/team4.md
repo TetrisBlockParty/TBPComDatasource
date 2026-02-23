@@ -142,8 +142,8 @@
 | 134 | 545 | Desi Desporte |
 | 135 | 542 | Austin Owens |
 | 136 | 540 | Rodney McMath Jr. |
-| 137 | 538 | shar |
-| 138 | 538 | Carlos Ramirez |
+| 137 | 538 | Carlos Ramirez |
+| 138 | 538 | shar |
 | 139 | 531 | Serena Goodridge |
 | 140 | 528 | Kimberlee Jan Beckstead |
 | 141 | 521 | Andy Cabral |
@@ -277,8 +277,8 @@
 | 269 | 310 | Stacey Stano |
 | 270 | 308 | Leah Kutz Zirbel |
 | 271 | 307 | Cheery Risebuilder |
-| 272 | 307 | Michele Plunkett |
-| 273 | 307 | Angie Schmidt |
+| 272 | 307 | Angie Schmidt |
+| 273 | 307 | Michele Plunkett |
 | 274 | 307 | Tina Lopez |
 | 275 | 306 | PeaceOs |
 | 276 | 306 | Lora |
@@ -296,8 +296,8 @@
 | 288 | 291 | Hyper Builder |
 | 289 | 291 | Dizzy Matchzone |
 | 290 | 290 | Jared Gutwein |
-| 291 | 290 | Heather Bruce |
-| 292 | 290 | Neirrah B Olailjeel |
+| 291 | 290 | Neirrah B Olailjeel |
+| 292 | 290 | Heather Bruce |
 | 293 | 289 | Juls |
 | 294 | 288 | Brittney Orengo |
 | 295 | 287 | Kim Klutz Olson |
@@ -455,19 +455,19 @@
 | 447 | 200 | Jarred Falls |
 | 448 | 200 | Mighty Edgepiece |
 | 449 | 199 | Michelle Morris |
-| 450 | 199 | Grann8 |
-| 451 | 199 | Riverdale |
+| 450 | 199 | Riverdale |
+| 451 | 199 | Grann8 |
 | 452 | 199 | Jennifer Renee |
-| 453 | 198 | Calvin Dennis |
-| 454 | 198 | Helen Chao |
+| 453 | 198 | Helen Chao |
+| 454 | 198 | Calvin Dennis |
 | 455 | 197 | Zippy Tilt |
 | 456 | 197 | Cozy Balancer |
 | 457 | 196 | Megan Cutshaw |
 | 458 | 195 | Frisky Matchgrid |
-| 459 | 194 | SammieJo Guy |
-| 460 | 194 | Eri Kka |
-| 461 | 194 | ChasingZen |
-| 462 | 194 | Zany Twisterfit |
+| 459 | 194 | Eri Kka |
+| 460 | 194 | SammieJo Guy |
+| 461 | 194 | Zany Twisterfit |
+| 462 | 194 | ChasingZen |
 | 463 | 194 | Carlos Hernandez |
 | 464 | 193 | Jennifer Brown |
 | 465 | 192 | Rebecca A Rit |
@@ -485,8 +485,8 @@
 | 477 | 188 | Frilly Blocky |
 | 478 | 188 | Stacy |
 | 479 | 187 | Jason Punch |
-| 480 | 186 | Jesse Saville |
-| 481 | 186 | Dandy Cascadefit |
+| 480 | 186 | Dandy Cascadefit |
+| 481 | 186 | Jesse Saville |
 | 482 | 185 | Joshua Guess |
 | 483 | 185 | Rebecca Blake |
 | 484 | 185 | Moonsterix |
@@ -599,8 +599,8 @@
 | 591 | 144 | Bumpy Morris |
 | 592 | 144 | KyngKliff |
 | 593 | 143 | Sherri |
-| 594 | 142 | GTxIrishman |
-| 595 | 142 | Hyper Matchclear |
+| 594 | 142 | Hyper Matchclear |
+| 595 | 142 | GTxIrishman |
 | 596 | 142 | Frank Cook |
 | 597 | 142 | Peace |
 | 598 | 142 | Katie Linneman-Rowland |

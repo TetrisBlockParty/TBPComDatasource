@@ -251,8 +251,8 @@
 | 243 | 1295 | Tralonda Weeks |
 | 244 | 1285 | Karen Snyder Schrage |
 | 245 | 1282 | Tanya Parsons |
-| 246 | 1278 | Eric Carlson |
-| 247 | 1278 | Moose Griffith |
+| 246 | 1278 | Moose Griffith |
+| 247 | 1278 | Eric Carlson |
 | 248 | 1277 | Snappy Matchbuilder |
 | 249 | 1259 | Foxxo |
 | 250 | 1258 | Brandon Armstrong |
@@ -284,16 +284,16 @@
 | 276 | 1178 | Kevin Sees |
 | 277 | 1178 | Dimitra Zazara |
 | 278 | 1173 | Shannon Joslin |
-| 279 | 1172 | Lakeysha Dortch |
-| 280 | 1172 | Stacey Clement |
+| 279 | 1172 | Stacey Clement |
+| 280 | 1172 | Lakeysha Dortch |
 | 281 | 1171 | Loretta Brewer-Gage |
-| 282 | 1165 | Christina Wsn |
-| 283 | 1165 | Michelle Lee |
+| 282 | 1165 | Michelle Lee |
+| 283 | 1165 | Christina Wsn |
 | 284 | 1163 | Erika Densmore |
 | 285 | 1158 | Sarah Freitas |
 | 286 | 1158 | Brittany Clark |
-| 287 | 1156 | Alezandra Smith |
-| 288 | 1156 | Arkei Luster |
+| 287 | 1156 | Arkei Luster |
+| 288 | 1156 | Alezandra Smith |
 | 289 | 1149 | Prado |
 | 290 | 1146 | Cassie Mercer |
 | 291 | 1142 | Sheniya Spurgeon |
@@ -314,13 +314,13 @@
 | 306 | 1089 | Tyler C. Jung |
 | 307 | 1089 | Wakanda Forever |
 | 308 | 1086 | Deborah Miller |
-| 309 | 1079 | Jennifer Kistner |
-| 310 | 1079 | Angela Bonquiqui Dinish |
-| 311 | 1076 | Cindy Sechler Taninecz |
-| 312 | 1076 | Christine Egidio Morocco |
+| 309 | 1079 | Angela Bonquiqui Dinish |
+| 310 | 1079 | Jennifer Kistner |
+| 311 | 1076 | Christine Egidio Morocco |
+| 312 | 1076 | Cindy Sechler Taninecz |
 | 313 | 1073 | Jodi Blake |
-| 314 | 1072 | BK Queen |
-| 315 | 1072 | Kristin Gower |
+| 314 | 1072 | Kristin Gower |
+| 315 | 1072 | BK Queen |
 | 316 | 1071 | Kim Dean |
 | 317 | 1071 | Nashu |
 | 318 | 1067 | Caitlin Schmid |
@@ -467,8 +467,8 @@
 | 459 | 806 | Sarah block |
 | 460 | 805 | Vanessa Moreno |
 | 461 | 804 | Sarah DeHart |
-| 462 | 804 | Becca Coronado |
-| 463 | 804 | Barry Britt |
+| 462 | 804 | Barry Britt |
+| 463 | 804 | Becca Coronado |
 | 464 | 801 | Diana Fitzwater |
 | 465 | 801 | Dreamy Blast |
 | 466 | 799 | Kenny Alvarado |

@@ -146,8 +146,8 @@
 | 138 | 491 | cc |
 | 139 | 489 | Deanna L Hermanson |
 | 140 | 488 | Hyper |
-| 141 | 487 | Kandae |
-| 142 | 487 | Rebekah LeiAnn Bonsell |
+| 141 | 487 | Rebekah LeiAnn Bonsell |
+| 142 | 487 | Kandae |
 | 143 | 486 | Dee Perry |
 | 144 | 483 | Trina Gee |
 | 145 | 477 | Tonya Beasley |
@@ -274,8 +274,8 @@
 | 266 | 316 | DoodleBug |
 | 267 | 315 | Hellsin |
 | 268 | 313 | Cody Gates |
-| 269 | 312 | Mitchel White |
-| 270 | 312 | Danielle S Kester |
+| 269 | 312 | Danielle S Kester |
+| 270 | 312 | Mitchel White |
 | 271 | 311 | Nathan Sealander |
 | 272 | 310 | Christina Norman |
 | 273 | 310 | Matt Iaccheo |
@@ -374,8 +374,8 @@
 | 366 | 243 | Michael Espinosa Ulibarri Jr. |
 | 367 | 242 | Tamara Brown |
 | 368 | 242 | John Ramirez |
-| 369 | 241 | Zesty Brickzone |
-| 370 | 241 | Christina Backer |
+| 369 | 241 | Christina Backer |
+| 370 | 241 | Zesty Brickzone |
 | 371 | 240 | Nathan William |
 | 372 | 240 | canbrick |
 | 373 | 239 | Colleen Wise |
@@ -757,8 +757,8 @@
 | 749 | 116 | Mizzledagod |
 | 750 | 116 | Shanna Outen |
 | 751 | 115 | Missy Broz McNees |
-| 752 | 115 | Slinky Tile |
-| 753 | 115 | Johnnette Kruse |
+| 752 | 115 | Johnnette Kruse |
+| 753 | 115 | Slinky Tile |
 | 754 | 114 | Chadocho |
 | 755 | 114 | Misty Hall Zaranti |
 | 756 | 114 | Hdhshsn |
