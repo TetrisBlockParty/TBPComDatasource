@@ -339,8 +339,8 @@
 | 331 | 292 | Fresno Beotoni |
 | 332 | 292 | Clever Cascadepiece |
 | 333 | 291 | Michael Espinosa Ulibarri Jr. |
-| 334 | 291 | Toph |
-| 335 | 291 | Sir-Franchise Drake |
+| 334 | 291 | Sir-Franchise Drake |
+| 335 | 291 | Toph |
 | 336 | 290 | Tavia |
 | 337 | 289 | Michael |
 | 338 | 289 | Nate Price |
@@ -647,8 +647,8 @@
 | 639 | 165 | Tina Kocher Zimmerman |
 | 640 | 165 | Riley Lee |
 | 641 | 164 | Paul Osborne |
-| 642 | 164 | Jordan Brooks |
-| 643 | 164 | Rivkah |
+| 642 | 164 | Rivkah |
+| 643 | 164 | Jordan Brooks |
 | 644 | 163 | Joyce Harrell-chavis |
 | 645 | 163 | Oliver Hollins |
 | 646 | 163 | Cozy Shatterer |
@@ -657,10 +657,10 @@
 | 649 | 162 | Charla Pross-Fugleberg |
 | 650 | 162 | Dawn Michelle Scheible |
 | 651 | 161 | Mavria Comeaux Hinton |
-| 652 | 160 | Crystal Cheresnowsky |
-| 653 | 160 | Sunny Catcher |
-| 654 | 160 | Ruf Lowman |
-| 655 | 160 | Dustin Johnston |
+| 652 | 160 | Ruf Lowman |
+| 653 | 160 | Dustin Johnston |
+| 654 | 160 | Crystal Cheresnowsky |
+| 655 | 160 | Sunny Catcher |
 | 656 | 159 | Sarah Cassese |
 | 657 | 159 | Jai Pahpasay |
 | 658 | 158 | GentleKitten7 |

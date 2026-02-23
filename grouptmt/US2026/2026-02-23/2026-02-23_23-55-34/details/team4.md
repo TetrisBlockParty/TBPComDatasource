@@ -235,8 +235,8 @@
 | 227 | 409 | Antony Dwayne Beasley |
 | 228 | 403 | TinyLegoRose |
 | 229 | 400 | Brickh4us |
-| 230 | 399 | Lindsay Ball |
-| 231 | 399 | Jeff Brian Gates |
+| 230 | 399 | Jeff Brian Gates |
+| 231 | 399 | Lindsay Ball |
 | 232 | 398 | Tyler Terrific |
 | 233 | 395 | 030Synner |
 | 234 | 394 | Nita Wells |
@@ -247,8 +247,8 @@
 | 239 | 383 | Lauren Scott |
 | 240 | 383 | blockstar |
 | 241 | 382 | Sue Joyce Staats |
-| 242 | 381 | Shiny Fit |
-| 243 | 381 | Plucky Patternblock |
+| 242 | 381 | Plucky Patternblock |
+| 243 | 381 | Shiny Fit |
 | 244 | 381 | JPW |
 | 245 | 380 | Rio Rocha |
 | 246 | 379 | Backoff Recupe |

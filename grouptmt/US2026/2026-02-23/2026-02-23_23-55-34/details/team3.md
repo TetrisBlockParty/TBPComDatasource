@@ -323,8 +323,8 @@
 | 315 | 436 | Heather De Vries Cobb |
 | 316 | 434 | Daring Builder |
 | 317 | 432 | Luciana Braganca Vieira |
-| 318 | 431 | Tia |
-| 319 | 431 | Wendy Dearden |
+| 318 | 431 | Wendy Dearden |
+| 319 | 431 | Tia |
 | 320 | 430 | Quackers |
 | 321 | 429 | Carrie Huskey |
 | 322 | 428 | Samantha Lynn |
@@ -411,8 +411,8 @@
 | 403 | 348 | Jimmie Clemons |
 | 404 | 348 | Ashley Raines |
 | 405 | 346 | AlsoJess |
-| 406 | 345 | victory |
-| 407 | 345 | Misha Sanders |
+| 406 | 345 | Misha Sanders |
+| 407 | 345 | victory |
 | 408 | 344 | Beaudie Stroebel |
 | 409 | 343 | Christina Marie Swisher |
 | 410 | 342 | Cynthia Herrmann Egland |

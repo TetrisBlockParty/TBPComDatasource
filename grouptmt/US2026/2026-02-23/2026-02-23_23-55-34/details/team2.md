@@ -501,8 +501,8 @@
 | 493 | 840 | Traci Johnson |
 | 494 | 840 | Kiana Boschh |
 | 495 | 839 | Gary Stash |
-| 496 | 835 | William David Swallow |
-| 497 | 835 | Connie Jimenez |
+| 496 | 835 | Connie Jimenez |
+| 497 | 835 | William David Swallow |
 | 498 | 835 | Giggy Mover |
 | 499 | 834 | Montez Mancil |
 | 500 | 831 | Victoria Moore-Smith |
@@ -1211,8 +1211,8 @@
 | 1203 | 426 | Mandi |
 | 1204 | 426 | Juan Killyoselfifudontlikeme Ronaldo |
 | 1205 | 425 | Shay Moore |
-| 1206 | 425 | Christina Jarvis-Swarbrick |
-| 1207 | 425 | Anthony McAlister |
+| 1206 | 425 | Anthony McAlister |
+| 1207 | 425 | Christina Jarvis-Swarbrick |
 | 1208 | 424 | ToxicTrash |
 | 1209 | 424 | STLBatman |
 | 1210 | 422 | Ian Anderson |
