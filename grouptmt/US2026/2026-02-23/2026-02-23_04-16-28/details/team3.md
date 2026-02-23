@@ -117,8 +117,8 @@
 | 109 | 831 | Angeline Joseph |
 | 110 | 830 | Stephanie Allmon |
 | 111 | 826 | Shane Wilson Jr. |
-| 112 | 816 | Brenda Lee Vander Molen |
-| 113 | 816 | Jesse Olive |
+| 112 | 816 | Jesse Olive |
+| 113 | 816 | Brenda Lee Vander Molen |
 | 114 | 800 | Lauren Girouard |
 | 115 | 799 | Dolores Falco |
 | 116 | 769 | Kristie |
@@ -220,8 +220,8 @@
 | 212 | 450 | Danielle Weikel |
 | 213 | 437 | Loopy Clusterer |
 | 214 | 435 | Fallorina Susana |
-| 215 | 432 | Christine Trester |
-| 216 | 432 | Luciana Braganca Vieira |
+| 215 | 432 | Luciana Braganca Vieira |
+| 216 | 432 | Christine Trester |
 | 217 | 431 | Wendy Dearden |
 | 218 | 430 | Joye Sims Binion |
 | 219 | 430 | Jeni Dow |
@@ -230,7 +230,7 @@
 | 222 | 414 | Fran Lin |
 | 223 | 410 | Stephanie Simpson |
 | 224 | 410 | Mcathen |
-| 225 | 410 | Stephanie Simpson |
+| 225 | 410 | Duane Bright |
 | 226 | 408 | Tiffany Ford |
 | 227 | 404 | Chasity |
 | 228 | 404 | Kristal C Lee |
@@ -250,8 +250,8 @@
 | 242 | 378 | Chris Bell |
 | 243 | 377 | Charles Perrone |
 | 244 | 374 | Rania Zaqout |
-| 245 | 372 | Rich LeBlanc |
-| 246 | 372 | Sarah Moyer |
+| 245 | 372 | Sarah Moyer |
+| 246 | 372 | Rich LeBlanc |
 | 247 | 371 | Marquita Sheard |
 | 248 | 371 | block chick |
 | 249 | 370 | Chummy Caster |
@@ -270,8 +270,8 @@
 | 262 | 357 | Stephanie Burtin |
 | 263 | 354 | Kelly |
 | 264 | 353 | Dee Franklin |
-| 265 | 352 | Christian Werndl |
-| 266 | 352 | Samantha Lynn |
+| 265 | 352 | Samantha Lynn |
+| 266 | 352 | Christian Werndl |
 | 267 | 351 | Eon Harris |
 | 268 | 349 | Amanda J. Mcneil-Anderson |
 | 269 | 348 | Cyd061769 |
@@ -316,9 +316,9 @@
 | 308 | 299 | Angie Harper |
 | 309 | 298 | Grams |
 | 310 | 297 | kacihall |
-| 311 | 296 | Tracy Martin |
+| 311 | 296 | Donna |
 | 312 | 296 | Hasty Gridpiece |
-| 313 | 296 | Donna |
+| 313 | 296 | Tracy Martin |
 | 314 | 295 | Geoffrey Nash |
 | 315 | 294 | fraulila |
 | 316 | 292 | Lizabeth Fox |
@@ -422,8 +422,8 @@
 | 414 | 238 | 4girls |
 | 415 | 237 | Jolly Dashpiece |
 | 416 | 236 | Mariah Williams |
-| 417 | 236 | lashanda |
-| 418 | 236 | Loopy Fallzone |
+| 417 | 236 | Loopy Fallzone |
+| 418 | 236 | lashanda |
 | 419 | 235 | Kevin Russell |
 | 420 | 234 | Cheeky Twisterfit |
 | 421 | 233 | Criss |
