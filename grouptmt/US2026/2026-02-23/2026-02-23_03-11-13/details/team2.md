@@ -150,8 +150,8 @@
 | 142 | 1589 | blackq |
 | 143 | 1581 | Brandy Andre |
 | 144 | 1580 | Heather Westrum |
-| 145 | 1578 | Sally Dennis |
-| 146 | 1578 | Loopy Clusterbuilder |
+| 145 | 1578 | Loopy Clusterbuilder |
+| 146 | 1578 | Sally Dennis |
 | 147 | 1566 | Alisa Lamb |
 | 148 | 1558 | Tim Dyer |
 | 149 | 1555 | blarg |
@@ -264,8 +264,8 @@
 | 256 | 1045 | Lourisha |
 | 257 | 1043 | Brave Dropmatch |
 | 258 | 1041 | Bri Lynn |
-| 259 | 1036 | Amber Shoemaker |
-| 260 | 1036 | Allison Lockyer |
+| 259 | 1036 | Allison Lockyer |
+| 260 | 1036 | Amber Shoemaker |
 | 261 | 1031 | Glitzy Stackzone |
 | 262 | 1026 | Kristin Gower |
 | 263 | 1024 | Susan Perraut Jones |
@@ -315,8 +315,8 @@
 | 307 | 907 | Michelle Lee |
 | 308 | 906 | Deborah Miller |
 | 309 | 905 | F-X |
-| 310 | 904 | Jennifer Aiken |
-| 311 | 904 | John Bednarik |
+| 310 | 904 | John Bednarik |
+| 311 | 904 | Jennifer Aiken |
 | 312 | 902 | William Hunt |
 | 313 | 901 | Kevin Sees |
 | 314 | 899 | Boldy Cascadepiece |

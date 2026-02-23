@@ -125,8 +125,8 @@
 | 117 | 747 | Kristie |
 | 118 | 746 | Raya |
 | 119 | 745 | JerseyJess |
-| 120 | 744 | Fancy Cascader |
-| 121 | 744 | Leah Barnett |
+| 120 | 744 | Leah Barnett |
+| 121 | 744 | Fancy Cascader |
 | 122 | 742 | Groovy Catcher |
 | 123 | 733 | mzcatzy |
 | 124 | 728 | Peppy Shifter |
@@ -248,8 +248,8 @@
 | 240 | 380 | Rebecca Bailey |
 | 241 | 378 | Chris Bell |
 | 242 | 377 | Charles Perrone |
-| 243 | 372 | Rich LeBlanc |
-| 244 | 372 | Sarah Moyer |
+| 243 | 372 | Sarah Moyer |
+| 244 | 372 | Rich LeBlanc |
 | 245 | 371 | block chick |
 | 246 | 370 | Chummy Caster |
 | 247 | 369 | Keis |
@@ -363,8 +363,8 @@
 | 355 | 267 | April Matthew Kibble |
 | 356 | 267 | Michael Kimbro |
 | 357 | 266 | Quirky Dropzone |
-| 358 | 263 | Jimmie Clemons |
-| 359 | 263 | Erika Thornton |
+| 358 | 263 | Erika Thornton |
+| 359 | 263 | Jimmie Clemons |
 | 360 | 260 | Tracey Cox |
 | 361 | 259 | Alice |
 | 362 | 259 | Jessica Lynn French |

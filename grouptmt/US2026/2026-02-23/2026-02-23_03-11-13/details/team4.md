@@ -91,9 +91,9 @@
 | 83 | 675 | Kimyatta Cavin |
 | 84 | 673 | Jacqueline Helm |
 | 85 | 664 | Valerie Roberts |
-| 86 | 647 | Shauna Havard |
-| 87 | 647 | KM8 |
-| 88 | 647 | Diana Houts |
+| 86 | 647 | KM8 |
+| 87 | 647 | Diana Houts |
+| 88 | 647 | Shauna Havard |
 | 89 | 646 | Eric Mcgaughy |
 | 90 | 633 | Jamie Gustafson |
 | 91 | 626 | Brittney Griggs |
@@ -130,8 +130,8 @@
 | 122 | 471 | Chastity Mitchell |
 | 123 | 458 | Twisty Clicky |
 | 124 | 452 | Jolly Dashfit |
-| 125 | 451 | Peachy Fall |
-| 126 | 451 | Angela Srubar-Norman |
+| 125 | 451 | Angela Srubar-Norman |
+| 126 | 451 | Peachy Fall |
 | 127 | 448 | Kristin Manee |
 | 128 | 435 | Leslie Thomas |
 | 129 | 435 | Kristina Black |
