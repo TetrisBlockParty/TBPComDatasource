@@ -178,8 +178,8 @@
 | 170 | 507 | Nick Gray |
 | 171 | 504 | Deanna Deckard |
 | 172 | 501 | Ericca Eldridge |
-| 173 | 499 | Andria Lynn |
-| 174 | 499 | Berklie Apedaile |
+| 173 | 499 | Berklie Apedaile |
+| 174 | 499 | Andria Lynn |
 | 175 | 497 | Brandon Crabbs |
 | 176 | 496 | Cindy Looper |
 | 177 | 495 | Carrie Brian |
@@ -199,8 +199,8 @@
 | 191 | 464 | Sharyn Lemire |
 | 192 | 463 | SAP |
 | 193 | 462 | Leslie Thomas |
-| 194 | 457 | June Hoffman |
-| 195 | 457 | Kristin Manee |
+| 194 | 457 | Kristin Manee |
+| 195 | 457 | June Hoffman |
 | 196 | 455 | Michele Plunkett |
 | 197 | 450 | Amanda Pauldo-Ivy |
 | 198 | 449 | Courtney Cicoria |
@@ -235,8 +235,8 @@
 | 227 | 409 | Antony Dwayne Beasley |
 | 228 | 403 | TinyLegoRose |
 | 229 | 400 | Brickh4us |
-| 230 | 399 | Lindsay Ball |
-| 231 | 399 | Jeff Brian Gates |
+| 230 | 399 | Jeff Brian Gates |
+| 231 | 399 | Lindsay Ball |
 | 232 | 398 | Tyler Terrific |
 | 233 | 395 | 030Synner |
 | 234 | 394 | Nita Wells |
@@ -271,8 +271,8 @@
 | 263 | 361 | Danielle Kollias |
 | 264 | 360 | James Hurley Jr. |
 | 265 | 358 | Twisty Cascadezone |
-| 266 | 356 | mike |
-| 267 | 356 | Joeliecea Cobb |
+| 266 | 356 | Joeliecea Cobb |
+| 267 | 356 | mike |
 | 268 | 355 | David Lay |
 | 269 | 353 | Chaz |
 | 270 | 352 | scott |
@@ -334,8 +334,8 @@
 | 326 | 292 | Angel Raya |
 | 327 | 291 | Brittney Orengo |
 | 328 | 291 | Hyper Matchclear |
-| 329 | 290 | Jared Gutwein |
-| 330 | 290 | Neirrah B Olailjeel |
+| 329 | 290 | Neirrah B Olailjeel |
+| 330 | 290 | Jared Gutwein |
 | 331 | 289 | Lazy Glidepiece |
 | 332 | 289 | Juls |
 | 333 | 289 | Deb Rubeck |
@@ -548,8 +548,8 @@
 | 540 | 185 | Eric Wren |
 | 541 | 185 | Jonathan Mahfood |
 | 542 | 184 | Deanna Mc |
-| 543 | 183 | Krash |
-| 544 | 183 | Will Chamberlain |
+| 543 | 183 | Will Chamberlain |
+| 544 | 183 | Krash |
 | 545 | 183 | Darrin Rubalcava |
 | 546 | 182 | Tamika Starkey |
 | 547 | 182 | RIFATSIKDER |

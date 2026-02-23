@@ -308,8 +308,8 @@
 | 300 | 1241 | Jackie Lucas |
 | 301 | 1239 | Christina Walker |
 | 302 | 1237 | Christine Coughlin |
-| 303 | 1237 | Jane Fong |
-| 304 | 1237 | Cheech Dta |
+| 303 | 1237 | Cheech Dta |
+| 304 | 1237 | Jane Fong |
 | 305 | 1233 | Shannon Joslin |
 | 306 | 1232 | Ambyre Patterson |
 | 307 | 1227 | Rebecca Miller |
@@ -516,13 +516,13 @@
 | 508 | 819 | Nicky Jackson |
 | 509 | 819 | Lonne Emade |
 | 510 | 819 | Sabrena Yeisley |
-| 511 | 816 | James Simms III |
-| 512 | 816 | Beth |
-| 513 | 813 | Ganieda |
-| 514 | 813 | Angelina Marie |
+| 511 | 816 | Beth |
+| 512 | 816 | James Simms III |
+| 513 | 813 | Angelina Marie |
+| 514 | 813 | Ganieda |
 | 515 | 812 | Samantha Jo |
-| 516 | 811 | Brenda Pierpoint |
-| 517 | 811 | Dreamy Blast |
+| 516 | 811 | Dreamy Blast |
+| 517 | 811 | Brenda Pierpoint |
 | 518 | 810 | Tracy Cowley |
 | 519 | 808 | Justin Edwards |
 | 520 | 807 | Shaun Church |

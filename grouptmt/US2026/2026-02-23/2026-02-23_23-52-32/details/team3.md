@@ -137,8 +137,8 @@
 | 129 | 945 | Shonna Roberts |
 | 130 | 940 | Stephanie Allmon |
 | 131 | 939 | Jamie Lang |
-| 132 | 936 | Giddy Drop |
-| 133 | 936 | Dolores Falco |
+| 132 | 936 | Dolores Falco |
+| 133 | 936 | Giddy Drop |
 | 134 | 932 | Katrina Schroeder |
 | 135 | 931 | Michelle |
 | 136 | 930 | Bea Miles |
@@ -256,8 +256,8 @@
 | 248 | 541 | Sherry Ogden |
 | 249 | 540 | France Vézina |
 | 250 | 540 | Danielle Allison |
-| 251 | 539 | Aerian Preston |
-| 252 | 539 | Betty Bóò |
+| 251 | 539 | Betty Bóò |
+| 252 | 539 | Aerian Preston |
 | 253 | 537 | Tamara Deherrera |
 | 254 | 536 | Shannon Matthew Byers |
 | 255 | 535 | kacihall |
@@ -272,8 +272,8 @@
 | 264 | 513 | PrncssPJ |
 | 265 | 513 | Lizabeth Fox |
 | 266 | 510 | Marquita Sheard |
-| 267 | 508 | rosy |
-| 268 | 508 | joz |
+| 267 | 508 | joz |
+| 268 | 508 | rosy |
 | 269 | 507 | Snappy Balancer |
 | 270 | 506 | Ammmmmmy |
 | 271 | 506 | Eileen Brady Thurber |
@@ -323,8 +323,8 @@
 | 315 | 434 | Daring Builder |
 | 316 | 433 | Skippy |
 | 317 | 432 | Luciana Braganca Vieira |
-| 318 | 431 | Tia |
-| 319 | 431 | Wendy Dearden |
+| 318 | 431 | Wendy Dearden |
+| 319 | 431 | Tia |
 | 320 | 430 | Quackers |
 | 321 | 429 | Carrie Huskey |
 | 322 | 428 | Samantha Lynn |
@@ -342,8 +342,8 @@
 | 334 | 413 | Ava Petito |
 | 335 | 412 | Jojo M |
 | 336 | 411 | Steffi Chris Dacones |
-| 337 | 408 | Ashley Muncey |
-| 338 | 408 | Tiffany Ford |
+| 337 | 408 | Tiffany Ford |
+| 338 | 408 | Ashley Muncey |
 | 339 | 405 | Andrew Thorson |
 | 340 | 405 | Chris Bell |
 | 341 | 404 | Cheryl Hinch Tenbrook |
@@ -368,8 +368,8 @@
 | 360 | 382 | Tiffany Davie |
 | 361 | 381 | Christina Spa |
 | 362 | 381 | gremicx |
-| 363 | 379 | Kaitie Oliver |
-| 364 | 379 | Kelly |
+| 363 | 379 | Kelly |
+| 364 | 379 | Kaitie Oliver |
 | 365 | 378 | MsBee |
 | 366 | 377 | Hoppy Patternline |
 | 367 | 377 | Dee Franklin |
@@ -579,7 +579,7 @@
 | 571 | 269 | Tomoe |
 | 572 | 269 | Rynne Ellis |
 | 573 | 268 | Sarah Mayson |
-| 574 | 268 | Julia Nicole |
+| 574 | 268 | Sabrina Mansfield |
 | 575 | 268 | Jolly Dashpiece |
 | 576 | 268 | Julia Nicole |
 | 577 | 268 | Wacky Crasher |
