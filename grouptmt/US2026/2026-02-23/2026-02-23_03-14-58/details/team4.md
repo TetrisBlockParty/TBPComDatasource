@@ -81,8 +81,8 @@
 | 73 | 736 | Goatimus Lombardi |
 | 74 | 725 | Denise Carlson |
 | 75 | 716 | TheNeesh50 |
-| 76 | 704 | D3TROITB0RN74 |
-| 77 | 704 | Crystal Carroll |
+| 76 | 704 | Crystal Carroll |
+| 77 | 704 | D3TROITB0RN74 |
 | 78 | 697 | Alyssa Papen |
 | 79 | 691 | Savannah Overdorf |
 | 80 | 691 | Lisa Davis |
@@ -159,8 +159,8 @@
 | 151 | 387 | Lucas J Sutton |
 | 152 | 387 | 🥔🥔 Spudz |
 | 153 | 377 | Carrie Brian |
-| 154 | 375 | Desi Desporte |
-| 155 | 375 | ThaEviLJeNiuZ |
+| 154 | 375 | ThaEviLJeNiuZ |
+| 155 | 375 | Desi Desporte |
 | 156 | 374 | Guy Incognito |
 | 157 | 373 | Tyler Terrific |
 | 158 | 370 | Oscar Alberto Perez |
@@ -216,8 +216,8 @@
 | 208 | 288 | Brittney Orengo |
 | 209 | 288 | Adam Stephanie Parker |
 | 210 | 287 | Plucky Patternblock |
-| 211 | 286 | Zesty Twistbuilder |
-| 212 | 286 | Sam Bishop |
+| 211 | 286 | Sam Bishop |
+| 212 | 286 | Zesty Twistbuilder |
 | 213 | 284 | Mimi |
 | 214 | 282 | Kim Klutz Olson |
 | 215 | 282 | Matt Gooder |
@@ -242,8 +242,8 @@
 | 234 | 262 | Selena Shaw |
 | 235 | 261 | JPW |
 | 236 | 260 | Carter Jones |
-| 237 | 259 | Montiette Mcglown |
-| 238 | 259 | Cheery Risebuilder |
+| 237 | 259 | Cheery Risebuilder |
+| 238 | 259 | Montiette Mcglown |
 | 239 | 257 | PeaceOs |
 | 240 | 256 | Mylo Lipscomb |
 | 241 | 253 | Autum Leigh |
@@ -278,8 +278,8 @@
 | 270 | 232 | Joanna |
 | 271 | 232 | Rio Rocha |
 | 272 | 228 | Bethany Ison |
-| 273 | 226 | Dizzy Matchzone |
-| 274 | 226 | Cranky Rollpiece |
+| 273 | 226 | Cranky Rollpiece |
+| 274 | 226 | Dizzy Matchzone |
 | 275 | 225 | Jenna McGeorge |
 | 276 | 224 | Chair |
 | 277 | 223 | Adawna Swires |

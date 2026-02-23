@@ -40,8 +40,8 @@
 | 32 | 4274 | Vistabrat |
 | 33 | 4199 | Claire Noland |
 | 34 | 4128 | Angela Pruitt |
-| 35 | 4120 | Kristen Sceurman |
-| 36 | 4120 | Corrine Hawks Soriano |
+| 35 | 4120 | Corrine Hawks Soriano |
+| 36 | 4120 | Kristen Sceurman |
 | 37 | 4093 | Jill Stroehlein |
 | 38 | 3895 | Nickie Baby |
 | 39 | 3770 | Brittany Alicia |
@@ -206,8 +206,8 @@
 | 198 | 1244 | Teddi Notyalc |
 | 199 | 1243 | Anna Edwards |
 | 200 | 1237 | Megan Ferguson Leone |
-| 201 | 1232 | Groovy Puzzle |
-| 202 | 1232 | Ambyre Patterson |
+| 201 | 1232 | Ambyre Patterson |
+| 202 | 1232 | Groovy Puzzle |
 | 203 | 1230 | Megan Garrick |
 | 204 | 1217 | Lucky Ladybug |
 | 205 | 1217 | Brooks Brooks |
@@ -1152,13 +1152,13 @@
 | 1144 | 297 | Kimberly Mitchell |
 | 1145 | 297 | Leslie |
 | 1146 | 296 | Chilly Linkfall |
-| 1147 | 296 | Jennifer Darby |
-| 1148 | 296 | Crafty Blockmatch |
-| 1149 | 295 | Fae-Bulous |
-| 1150 | 295 | Dapper Setter |
-| 1151 | 295 | Devlin Ogg |
-| 1152 | 294 | Tammy Coppoletta |
-| 1153 | 294 | Shannon Jackson |
+| 1147 | 296 | Crafty Blockmatch |
+| 1148 | 296 | Jennifer Darby |
+| 1149 | 295 | Dapper Setter |
+| 1150 | 295 | Devlin Ogg |
+| 1151 | 295 | Fae-Bulous |
+| 1152 | 294 | Shannon Jackson |
+| 1153 | 294 | Tammy Coppoletta |
 | 1154 | 293 | Lisa Skaggs |
 | 1155 | 293 | Chipper Basepiece |
 | 1156 | 293 | Anthony McAlister |

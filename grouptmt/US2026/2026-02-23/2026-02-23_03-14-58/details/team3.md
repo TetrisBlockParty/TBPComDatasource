@@ -27,8 +27,8 @@
 | 19 | 2494 | Ashley Jones |
 | 20 | 2387 | Susan Valentino |
 | 21 | 2302 | Laura Melton |
-| 22 | 2287 | Brandon Green |
-| 23 | 2287 | Tetris Master |
+| 22 | 2287 | Tetris Master |
+| 23 | 2287 | Brandon Green |
 | 24 | 2144 | Zippy Strikesnap |
 | 25 | 2059 | mjl574 |
 | 26 | 2055 | Chummy Shatterer |
@@ -169,8 +169,8 @@
 | 161 | 573 | Demetrious Shaw Sr. |
 | 162 | 572 | CeceGeGe |
 | 163 | 568 | Rachael McClain Owens |
-| 164 | 562 | Louise Stacy Sisson |
-| 165 | 562 | Dave Herzog |
+| 164 | 562 | Dave Herzog |
+| 165 | 562 | Louise Stacy Sisson |
 | 166 | 557 | Michael Nowogorski |
 | 167 | 553 | LaTanya GeminiondaRise Johnson |
 | 168 | 546 | Cynthia Castros-Hampton |
@@ -193,8 +193,8 @@
 | 185 | 496 | Loopy Fallmatch |
 | 186 | 496 | Makelini Mausia |
 | 187 | 490 | Tasha Schriewer |
-| 188 | 489 | Poppy Splitter |
-| 189 | 489 | Shannon Matthew Byers |
+| 188 | 489 | Shannon Matthew Byers |
+| 189 | 489 | Poppy Splitter |
 | 190 | 488 | Melissa Orth Hunter |
 | 191 | 485 | Terry Jo Jones |
 | 192 | 485 | FuzzyNavel |
@@ -248,8 +248,8 @@
 | 240 | 380 | Rebecca Bailey |
 | 241 | 378 | Chris Bell |
 | 242 | 377 | Charles Perrone |
-| 243 | 372 | Rich LeBlanc |
-| 244 | 372 | Sarah Moyer |
+| 243 | 372 | Sarah Moyer |
+| 244 | 372 | Rich LeBlanc |
 | 245 | 371 | block chick |
 | 246 | 370 | Chummy Caster |
 | 247 | 369 | Keis |
@@ -428,8 +428,8 @@
 | 420 | 230 | Angella Lyons |
 | 421 | 230 | DanceLuvLaugh |
 | 422 | 229 | Everret Maxine |
-| 423 | 228 | Stephanie Hill |
-| 424 | 228 | Loopy Fallzone |
+| 423 | 228 | Loopy Fallzone |
+| 424 | 228 | Stephanie Hill |
 | 425 | 228 | Jess Dearborn |
 | 426 | 227 | Rebel124 |
 | 427 | 227 | Meowsa |
@@ -444,11 +444,11 @@
 | 436 | 221 | Bleu Sun Beams |
 | 437 | 221 | Ryan Williams |
 | 438 | 221 | Glitzy Rotate |
-| 439 | 219 | Michael Leblanc |
+| 439 | 219 | Breanna Marsden |
 | 440 | 219 | Trice Thomas |
-| 441 | 219 | Breanna Marsden |
-| 442 | 218 | Andrew Thorson |
-| 443 | 218 | Khaleada McGill Banks |
+| 441 | 219 | Michael Leblanc |
+| 442 | 218 | Khaleada McGill Banks |
+| 443 | 218 | Andrew Thorson |
 | 444 | 218 | Tina Smith Roy |
 | 445 | 217 | Katie Leigh Blankenship |
 | 446 | 217 | Goofy Fall |
@@ -489,8 +489,8 @@
 | 481 | 200 | Megan Riggins |
 | 482 | 200 | Christina Marie Swisher |
 | 483 | 199 | Dakota Graham |
-| 484 | 199 | Katheline Lazo Luizaga |
-| 485 | 199 | Cheeky Setter |
+| 484 | 199 | Cheeky Setter |
+| 485 | 199 | Katheline Lazo Luizaga |
 | 486 | 198 | Zac Hudak |
 | 487 | 198 | joz |
 | 488 | 197 | momo |
