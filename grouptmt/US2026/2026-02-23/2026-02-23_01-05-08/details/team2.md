@@ -130,8 +130,8 @@
 | 122 | 1679 | Jumpy Gridpiece |
 | 123 | 1652 | Kristopher Miller |
 | 124 | 1644 | Luna |
-| 125 | 1639 | Karen Martini-Stapleton |
-| 126 | 1639 | Jessie McDougald |
+| 125 | 1639 | Jessie McDougald |
+| 126 | 1639 | Karen Martini-Stapleton |
 | 127 | 1632 | Qiana Sanders |
 | 128 | 1631 | Speedy Spinblock |
 | 129 | 1623 | Mr. Street Stack |
@@ -190,8 +190,8 @@
 | 182 | 1294 | Ashley House |
 | 183 | 1292 | Mischelle Clay |
 | 184 | 1286 | Altamirano Michael |
-| 185 | 1282 | Ashley Rose Frederick |
-| 186 | 1282 | Tanya Parsons |
+| 185 | 1282 | Tanya Parsons |
+| 186 | 1282 | Ashley Rose Frederick |
 | 187 | 1277 | Desiree Harris Rosch |
 | 188 | 1257 | Michele Gabriel |
 | 189 | 1243 | Anna Edwards |
