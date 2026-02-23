@@ -59,8 +59,8 @@
 | 51 | 870 | BertMofo |
 | 52 | 863 | Pee |
 | 53 | 853 | TeeJ |
-| 54 | 846 | Christine Marie |
-| 55 | 846 | Lucille Truesdale |
+| 54 | 846 | Lucille Truesdale |
+| 55 | 846 | Christine Marie |
 | 56 | 845 | LisaJo Picken Buchanan |
 | 57 | 843 | Shelly Chandler |
 | 58 | 834 | quicksand420 |
@@ -68,8 +68,8 @@
 | 60 | 807 | Rachel Anne |
 | 61 | 803 | Amelpss |
 | 62 | 788 | Julian Garcia |
-| 63 | 781 | Ashley Ingram |
-| 64 | 781 | Chilly Line |
+| 63 | 781 | Chilly Line |
+| 64 | 781 | Ashley Ingram |
 | 65 | 767 | Shannon Ferrari |
 | 66 | 766 | Edward White |
 | 67 | 766 | Robin Watters |
@@ -124,8 +124,8 @@
 | 116 | 514 | Scott Jameson |
 | 117 | 514 | Serena Goodridge |
 | 118 | 513 | Erin Thomas |
-| 119 | 512 | Cristy Duerksen |
-| 120 | 512 | Casey Jeffcoat |
+| 119 | 512 | Casey Jeffcoat |
+| 120 | 512 | Cristy Duerksen |
 | 121 | 511 | Lori Walker |
 | 122 | 482 | Ren Mc |
 | 123 | 481 | Jessica Lynn Cutlip |
@@ -159,13 +159,13 @@
 | 151 | 402 | Ericca Eldridge |
 | 152 | 398 | Tyler Terrific |
 | 153 | 397 | Livvy |
-| 154 | 393 | Carlton Unfiltered |
-| 155 | 393 | Girl |
+| 154 | 393 | Girl |
+| 155 | 393 | Carlton Unfiltered |
 | 156 | 391 | Ramel Rhodes |
 | 157 | 389 | Joseph Guthrie |
 | 158 | 387 | Lucas J Sutton |
-| 159 | 375 | ThaEviLJeNiuZ |
-| 160 | 375 | Desi Desporte |
+| 159 | 375 | Desi Desporte |
+| 160 | 375 | ThaEviLJeNiuZ |
 | 161 | 374 | Guy Incognito |
 | 162 | 370 | Oscar Alberto Perez |
 | 163 | 369 | Lindsey Gonzalez |
@@ -182,8 +182,8 @@
 | 174 | 356 | George Nutt |
 | 175 | 354 | TRCuse |
 | 176 | 352 | Sue Joyce Staats |
-| 177 | 349 | Twisty Cascadezone |
-| 178 | 349 | Rafael Valentin |
+| 177 | 349 | Rafael Valentin |
+| 178 | 349 | Twisty Cascadezone |
 | 179 | 348 | April Rondinone |
 | 180 | 347 | Daria Rycewicz |
 | 181 | 347 | Crystal Nicolette Moore |
@@ -208,8 +208,8 @@
 | 200 | 307 | Cheery Risebuilder |
 | 201 | 307 | Michele Plunkett |
 | 202 | 306 | blockstar |
-| 203 | 305 | Sam Bishop |
-| 204 | 305 | Melvin Baird |
+| 203 | 305 | Melvin Baird |
+| 204 | 305 | Sam Bishop |
 | 205 | 304 | Lindsay Ball |
 | 206 | 303 | Dihcheese444 |
 | 207 | 301 | Andria Lynn |
@@ -230,8 +230,8 @@
 | 222 | 284 | Mimi |
 | 223 | 282 | Matt Gooder |
 | 224 | 282 | Kim Klutz Olson |
-| 225 | 281 | Laura |
-| 226 | 281 | Nikki Rae Gordon |
+| 225 | 281 | Nikki Rae Gordon |
+| 226 | 281 | Laura |
 | 227 | 280 | Rio Rocha |
 | 228 | 278 | Sarah Brown |
 | 229 | 278 | Angela Geist Jusinski |
@@ -316,8 +316,8 @@
 | 308 | 216 | mike |
 | 309 | 216 | Chantilly Laace |
 | 310 | 215 | Stephme310 |
-| 311 | 214 | Patron Anderson |
-| 312 | 214 | Stacey Stano |
+| 311 | 214 | Stacey Stano |
+| 312 | 214 | Patron Anderson |
 | 313 | 213 | Jackie Marie |
 | 314 | 212 | Brave Spinbuilder |
 | 315 | 212 | Joseph Edmonson |
@@ -342,10 +342,10 @@
 | 334 | 200 | Googenheim |
 | 335 | 198 | Calvin Dennis |
 | 336 | 197 | Nubian1 |
-| 337 | 196 | Blessedmama |
-| 338 | 196 | Megan Cutshaw |
-| 339 | 194 | SammieJo Guy |
-| 340 | 194 | Zany Twisterfit |
+| 337 | 196 | Megan Cutshaw |
+| 338 | 196 | Blessedmama |
+| 339 | 194 | Zany Twisterfit |
+| 340 | 194 | SammieJo Guy |
 | 341 | 192 | Twisty Risebuilder |
 | 342 | 192 | Meg |
 | 343 | 191 | Earnest Thompson |

@@ -93,8 +93,8 @@
 | 85 | 2515 | Crystalin Heath Lewis |
 | 86 | 2500 | Rosemadder |
 | 87 | 2438 | Rob Surace |
-| 88 | 2428 | Thomas Hughes |
-| 89 | 2428 | Deanna Morton |
+| 88 | 2428 | Deanna Morton |
+| 89 | 2428 | Thomas Hughes |
 | 90 | 2410 | RdRydnHd |
 | 91 | 2400 | Rich Sullivan |
 | 92 | 2375 | Megan Peckham |
@@ -211,13 +211,13 @@
 | 203 | 1286 | Altamirano Michael |
 | 204 | 1282 | Tanya Parsons |
 | 205 | 1259 | Foxxo |
-| 206 | 1258 | Snappy Matchbuilder |
-| 207 | 1258 | Joyce Johnson Vaughn |
+| 206 | 1258 | Joyce Johnson Vaughn |
+| 207 | 1258 | Snappy Matchbuilder |
 | 208 | 1252 | Angel |
 | 209 | 1245 | Cody Nishimura |
 | 210 | 1237 | Megan Ferguson Leone |
-| 211 | 1232 | Groovy Puzzle |
-| 212 | 1232 | Ambyre Patterson |
+| 211 | 1232 | Ambyre Patterson |
+| 212 | 1232 | Groovy Puzzle |
 | 213 | 1232 | Brandon Armstrong |
 | 214 | 1230 | Megan Garrick |
 | 215 | 1221 | Jane Fong |
@@ -376,8 +376,8 @@
 | 368 | 824 | Khalil Lowe |
 | 369 | 822 | Lola Contreras |
 | 370 | 821 | Angie Bolton Workman |
-| 371 | 821 | Cassie Mercer |
-| 372 | 821 | Arkei Luster |
+| 371 | 821 | Arkei Luster |
+| 372 | 821 | Cassie Mercer |
 | 373 | 818 | Lisa Ongtowasruk |
 | 374 | 816 | James Simms III |
 | 375 | 816 | Beth |
@@ -386,23 +386,23 @@
 | 378 | 808 | Connie Jimenez |
 | 379 | 808 | Desire Rice |
 | 380 | 804 | Becca Coronado |
-| 381 | 801 | Gold Rose |
-| 382 | 801 | Diana Fitzwater |
+| 381 | 801 | Diana Fitzwater |
+| 382 | 801 | Gold Rose |
 | 383 | 799 | Kenny Alvarado |
 | 384 | 799 | Joy LaJeunesse |
 | 385 | 796 | AndrewandShela Gornik |
 | 386 | 796 | Amber Gray |
 | 387 | 793 | Heather Schelkopf |
-| 388 | 793 | Arlene Joy Belicina |
-| 389 | 793 | Jaycee |
-| 390 | 793 | Ashley Dow |
+| 388 | 793 | Ashley Dow |
+| 389 | 793 | Arlene Joy Belicina |
+| 390 | 793 | Jaycee |
 | 391 | 790 | Kathryn Townsley |
 | 392 | 790 | Brenda Pierpoint |
 | 393 | 788 | Erika Densmore |
 | 394 | 787 | Tiara Elizabeth Baker |
 | 395 | 779 | Kayla |
-| 396 | 777 | Jessicah Myers |
-| 397 | 777 | Tesha Oldaker |
+| 396 | 777 | Tesha Oldaker |
+| 397 | 777 | Jessicah Myers |
 | 398 | 776 | Fancy Twister |
 | 399 | 776 | Mighty Spinbuilder |
 | 400 | 772 | Danielle Simmons |
@@ -411,11 +411,11 @@
 | 403 | 768 | Joshua Self |
 | 404 | 767 | Ashley Lopez |
 | 405 | 766 | Stephanie Lumanlan |
-| 406 | 763 | Dreamy Blast |
-| 407 | 763 | Heather Causey |
-| 408 | 760 | Ashley Guernsey-Martin |
-| 409 | 760 | Andrew Willis |
-| 410 | 760 | Cheech Dta |
+| 406 | 763 | Heather Causey |
+| 407 | 763 | Dreamy Blast |
+| 408 | 760 | Cheech Dta |
+| 409 | 760 | Ashley Guernsey-Martin |
+| 410 | 760 | Andrew Willis |
 | 411 | 759 | Crystie Hicks |
 | 412 | 758 | Quirky Twistline |
 | 413 | 758 | Stephanie Neuburger |
@@ -517,8 +517,8 @@
 | 509 | 642 | Cassie Maynard |
 | 510 | 642 | Michelle Fields |
 | 511 | 640 | Belle |
-| 512 | 639 | Rebecca Miller |
-| 513 | 639 | Alexandra Weir |
+| 512 | 639 | Alexandra Weir |
+| 513 | 639 | Rebecca Miller |
 | 514 | 639 | Jackie Avila |
 | 515 | 639 | Toni Roberson |
 | 516 | 637 | Shinette Dobson |
@@ -705,8 +705,8 @@
 | 697 | 489 | Christy Krissie |
 | 698 | 488 | Funky Caster |
 | 699 | 488 | Eunique Griffin |
-| 700 | 487 | Morgan Easter |
-| 701 | 487 | Lina Sanders |
+| 700 | 487 | Lina Sanders |
+| 701 | 487 | Morgan Easter |
 | 702 | 486 | Ashley Collins |
 | 703 | 486 | Britney M. |
 | 704 | 485 | Regina Young |

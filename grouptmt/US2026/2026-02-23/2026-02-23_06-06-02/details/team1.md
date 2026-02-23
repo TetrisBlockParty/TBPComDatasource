@@ -106,8 +106,8 @@
 | 98 | 510 | Chirpy Smasher |
 | 99 | 509 | Rachael |
 | 100 | 497 | Arianna O'Brien |
-| 101 | 493 | Jennifer ManWarren |
-| 102 | 493 | MomMom |
+| 101 | 493 | MomMom |
+| 102 | 493 | Jennifer ManWarren |
 | 103 | 492 | Ash Galvan |
 | 104 | 491 | cc |
 | 105 | 489 | April Carroll |
@@ -219,7 +219,7 @@
 | 211 | 293 | John Kim |
 | 212 | 291 | Giddy Cascade |
 | 213 | 291 | Brave Wrecker |
-| 214 | 290 | Tavia |
+| 214 | 290 | Speedy Liney |
 | 215 | 290 | Hellsin |
 | 216 | 290 | Tavia |
 | 217 | 290 | Francesca Gee |
@@ -229,8 +229,8 @@
 | 221 | 284 | Sarah Somers Gray |
 | 222 | 283 | Amanda Holibaugh |
 | 223 | 283 | Franswa |
-| 224 | 282 | Timothy Dew |
-| 225 | 282 | Mandyy Rae |
+| 224 | 282 | Mandyy Rae |
+| 225 | 282 | Timothy Dew |
 | 226 | 281 | Clever Cascadepiece |
 | 227 | 280 | Billie Dawn Sparks |
 | 228 | 277 | Nutty Spinblock |
@@ -344,8 +344,8 @@
 | 336 | 207 | Fresno Beotoni |
 | 337 | 205 | Agustin Duarte Orozco |
 | 338 | 205 | build master |
-| 339 | 204 | LD1 |
-| 340 | 204 | Beau Galvan |
+| 339 | 204 | Beau Galvan |
+| 340 | 204 | LD1 |
 | 341 | 202 | Amber Dee |
 | 342 | 201 | Colleen Wise |
 | 343 | 201 | Tedashi |
