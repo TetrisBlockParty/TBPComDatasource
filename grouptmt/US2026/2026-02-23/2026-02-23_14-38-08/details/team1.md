@@ -273,8 +273,8 @@
 | 265 | 286 | Sarahdactyl |
 | 266 | 285 | Shanae Grant |
 | 267 | 284 | Sam Williams |
-| 268 | 283 | Franswa |
-| 269 | 283 | Larry Tilton |
+| 268 | 283 | Larry Tilton |
+| 269 | 283 | Franswa |
 | 270 | 282 | Timothy Dew |
 | 271 | 281 | Clever Cascadepiece |
 | 272 | 280 | Наталья Солоид |

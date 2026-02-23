@@ -204,10 +204,10 @@
 | 196 | 368 | Silly Zonebuilder |
 | 197 | 365 | Jeff Brian Gates |
 | 198 | 363 | Cindy Looper |
-| 199 | 361 | Rafael Valentin |
-| 200 | 361 | Danielle Kollias |
-| 201 | 358 | A5! |
-| 202 | 358 | Twisty Cascadezone |
+| 199 | 361 | Danielle Kollias |
+| 200 | 361 | Rafael Valentin |
+| 201 | 358 | Twisty Cascadezone |
+| 202 | 358 | A5! |
 | 203 | 355 | James Hurley Jr. |
 | 204 | 354 | TRCuse |
 | 205 | 354 | Kris Bartlett |
@@ -225,8 +225,8 @@
 | 217 | 337 | Sam Bishop |
 | 218 | 336 | JPW |
 | 219 | 334 | June Hoffman |
-| 220 | 331 | Alan George LaRage |
-| 221 | 331 | Lauren Scott |
+| 220 | 331 | Lauren Scott |
+| 221 | 331 | Alan George LaRage |
 | 222 | 330 | J-Rizzle |
 | 223 | 330 | blockstar |
 | 224 | 330 | Kathy Brookins |
@@ -460,8 +460,8 @@
 | 452 | 179 | GBR |
 | 453 | 179 | JoAnna Zalkovsky |
 | 454 | 178 | Helen Chao |
-| 455 | 178 | Jackson Karen |
-| 456 | 178 | Daring Pivot |
+| 455 | 178 | Daring Pivot |
+| 456 | 178 | Jackson Karen |
 | 457 | 177 | Chao Ma |
 | 458 | 176 | Sholom Fried |
 | 459 | 175 | Lorena Guerrero-Barron |

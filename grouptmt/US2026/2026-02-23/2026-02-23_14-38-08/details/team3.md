@@ -193,8 +193,8 @@
 | 185 | 582 | Natasha Jones |
 | 186 | 568 | Rachael McClain Owens |
 | 187 | 566 | LaTanya GeminiondaRise Johnson |
-| 188 | 564 | Christine Trester |
-| 189 | 564 | Poppy Splitter |
+| 188 | 564 | Poppy Splitter |
+| 189 | 564 | Christine Trester |
 | 190 | 563 | Jim Mathews |
 | 191 | 562 | Dave Herzog |
 | 192 | 561 | Elissa S-k |
@@ -298,8 +298,8 @@
 | 290 | 382 | Desiree Gold |
 | 291 | 382 | Salena Whitlock |
 | 292 | 380 | Rebecca Bailey |
-| 293 | 379 | JessDrown |
-| 294 | 379 | Philip Rock |
+| 293 | 379 | Philip Rock |
+| 294 | 379 | JessDrown |
 | 295 | 378 | Chris Bell |
 | 296 | 378 | MsBee |
 | 297 | 376 | Sarah Moyer |

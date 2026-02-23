@@ -694,10 +694,10 @@
 | 686 | 551 | Matt Johnson |
 | 687 | 551 | Cynthia Louann Rose |
 | 688 | 550 | Michelle Sager |
-| 689 | 550 | Shorty |
-| 690 | 550 | Bonita Kee |
-| 691 | 549 | Crystal Hodge Love |
-| 692 | 549 | Kaylee McCafferty |
+| 689 | 550 | Bonita Kee |
+| 690 | 550 | Shorty |
+| 691 | 549 | Kaylee McCafferty |
+| 692 | 549 | Crystal Hodge Love |
 | 693 | 548 | Sunshine711 |
 | 694 | 547 | Heather M Purcell |
 | 695 | 547 | Sonya Back |
