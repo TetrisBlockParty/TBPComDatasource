@@ -136,8 +136,8 @@
 | 128 | 466 | Adrian Esteban |
 | 129 | 463 | Lexuriuos Lifestlye |
 | 130 | 462 | Luciano Moreira |
-| 131 | 458 | Evan Richmond |
-| 132 | 458 | Goose egg |
+| 131 | 458 | Goose egg |
+| 132 | 458 | Evan Richmond |
 | 133 | 454 | Desiree Deschaine Havee |
 | 134 | 453 | Brandi Huntington |
 | 135 | 451 | Plucky Ziggy |
@@ -246,10 +246,10 @@
 | 238 | 316 | Sassy Builderline |
 | 239 | 315 | Mandyy Rae |
 | 240 | 314 | Daring Fitclear |
-| 241 | 313 | Cody Gates |
-| 242 | 313 | Sylvia Vasquez |
-| 243 | 312 | Mitchel White |
-| 244 | 312 | Jessi Sauer |
+| 241 | 313 | Sylvia Vasquez |
+| 242 | 313 | Cody Gates |
+| 243 | 312 | Jessi Sauer |
+| 244 | 312 | Mitchel White |
 | 245 | 310 | Bloknboy |
 | 246 | 308 | Speedy Liney |
 | 247 | 305 | Plucky Stacky |
@@ -294,11 +294,11 @@
 | 286 | 268 | Wayne Saunders |
 | 287 | 265 | Flashy Rotator |
 | 288 | 264 | Jenny Gingrich Fuentes |
-| 289 | 263 | Sunny Shift |
-| 290 | 263 | Nadine Velardo |
+| 289 | 263 | Nadine Velardo |
+| 290 | 263 | Sunny Shift |
 | 291 | 261 | Brooke Elizabeth Antill |
-| 292 | 260 | Lacy Wolfe |
-| 293 | 260 | Marianita Garcia |
+| 292 | 260 | Marianita Garcia |
+| 293 | 260 | Lacy Wolfe |
 | 294 | 258 | Danielle S Kester |
 | 295 | 256 | Joe Coon |
 | 296 | 256 | Richard Corrado |

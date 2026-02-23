@@ -119,8 +119,8 @@
 | 111 | 869 | Araceli Parra |
 | 112 | 868 | Sarajane Lokan |
 | 113 | 860 | Sunny Rotater |
-| 114 | 851 | Danielle Becker |
-| 115 | 851 | Jd Morris |
+| 114 | 851 | Jd Morris |
+| 115 | 851 | Danielle Becker |
 | 116 | 850 | Danielle Mogg |
 | 117 | 848 | Patricia Gadsden |
 | 118 | 839 | Angeline Joseph |
@@ -198,8 +198,8 @@
 | 190 | 562 | Dave Herzog |
 | 191 | 561 | Elissa S-k |
 | 192 | 559 | Patti Skiles |
-| 193 | 549 | Tasha Schriewer |
-| 194 | 549 | Sarah Cowan Burgos |
+| 193 | 549 | Sarah Cowan Burgos |
+| 194 | 549 | Tasha Schriewer |
 | 195 | 548 | Danielle Balcom |
 | 196 | 547 | Staci George Fitzsimmons |
 | 197 | 546 | Mykal Burton |
@@ -226,8 +226,8 @@
 | 218 | 491 | Michael Johnson |
 | 219 | 488 | joz |
 | 220 | 485 | Dapper Snap |
-| 221 | 484 | Fallorina Susana |
-| 222 | 484 | Kristin Delibac Corrigan |
+| 221 | 484 | Kristin Delibac Corrigan |
+| 222 | 484 | Fallorina Susana |
 | 223 | 480 | Danielle Allison |
 | 224 | 478 | Keis |
 | 225 | 477 | Edwin Calvillo Jr. |
@@ -264,8 +264,8 @@
 | 256 | 420 | Quackers |
 | 257 | 420 | Betty Bóò |
 | 258 | 420 | Sabrina Hardrick |
-| 259 | 419 | Aerian Preston |
-| 260 | 419 | Marci Mize Fandrich |
+| 259 | 419 | Marci Mize Fandrich |
+| 260 | 419 | Aerian Preston |
 | 261 | 417 | Giddy Twistbuilder |
 | 262 | 414 | RickyG |
 | 263 | 414 | Fran Lin |
@@ -273,8 +273,8 @@
 | 265 | 412 | Jojo M |
 | 266 | 411 | Megan Rathmanner |
 | 267 | 410 | Duane Bright |
-| 268 | 408 | Tiffany Ford |
-| 269 | 408 | Marquita Sheard |
+| 268 | 408 | Marquita Sheard |
+| 269 | 408 | Tiffany Ford |
 | 270 | 406 | Kristal C Lee |
 | 271 | 405 | Steffi Chris Dacones |
 | 272 | 404 | Chasity |
