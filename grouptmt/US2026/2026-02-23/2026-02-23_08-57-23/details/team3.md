@@ -465,15 +465,15 @@
 | 457 | 233 | Tony Waters |
 | 458 | 233 | Criss |
 | 459 | 232 | Sunny Tiltgrid |
-| 460 | 232 | Melanie Sherwood |
-| 461 | 232 | Stephanie Hill |
+| 460 | 232 | Stephanie Hill |
+| 461 | 232 | Melanie Sherwood |
 | 462 | 231 | Giggly Brickroll |
 | 463 | 230 | DanceLuvLaugh |
 | 464 | 230 | BigE |
 | 465 | 229 | MizzMonick Smith |
 | 466 | 229 | Everret Maxine |
-| 467 | 228 | Tipsy Zonebuilder |
-| 468 | 228 | Dapper Liney |
+| 467 | 228 | Dapper Liney |
+| 468 | 228 | Tipsy Zonebuilder |
 | 469 | 227 | Meowsa |
 | 470 | 226 | paranoid |
 | 471 | 226 | Ryan Williams |
@@ -492,8 +492,8 @@
 | 484 | 221 | Glitzy Rotate |
 | 485 | 221 | Vaners |
 | 486 | 220 | Bhreagh Gentile |
-| 487 | 219 | TLM |
-| 488 | 219 | Trice Thomas |
+| 487 | 219 | Trice Thomas |
+| 488 | 219 | TLM |
 | 489 | 218 | Sabrina Mansfield |
 | 490 | 218 | Tina Smith Roy |
 | 491 | 218 | Dapper Chiseler |
@@ -617,8 +617,8 @@
 | 609 | 180 | Stella |
 | 610 | 179 | Boldy Corner |
 | 611 | 179 | Alexi Pryor |
-| 612 | 179 | Num1hater |
-| 613 | 179 | Ruchi Smit |
+| 612 | 179 | Ruchi Smit |
+| 613 | 179 | Num1hater |
 | 614 | 178 | Jillian Ann |
 | 615 | 178 | Draone Grayson |
 | 616 | 178 | Melissa Snyder |

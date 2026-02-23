@@ -62,8 +62,8 @@
 | 54 | 864 | Shelly Chandler |
 | 55 | 863 | Pee |
 | 56 | 859 | TeeJ |
-| 57 | 846 | Christine Marie |
-| 58 | 846 | Lucille Truesdale |
+| 57 | 846 | Lucille Truesdale |
+| 58 | 846 | Christine Marie |
 | 59 | 845 | LisaJo Picken Buchanan |
 | 60 | 834 | quicksand420 |
 | 61 | 807 | Amelpss |
@@ -75,8 +75,8 @@
 | 67 | 787 | Edward White |
 | 68 | 767 | Shannon Ferrari |
 | 69 | 766 | Robin Watters |
-| 70 | 765 | Denise Carlson |
-| 71 | 765 | Robin Getchel |
+| 70 | 765 | Robin Getchel |
+| 71 | 765 | Denise Carlson |
 | 72 | 752 | Shane Kalamata Platoon |
 | 73 | 749 | Dustee Craddock-Harrison |
 | 74 | 747 | TheNeesh50 |
@@ -156,13 +156,13 @@
 | 148 | 418 | Lush Linkfall |
 | 149 | 418 | Marie-Pier Desjardins |
 | 150 | 416 | Chaz Duncan |
-| 151 | 414 | Swanky Fitline |
-| 152 | 414 | Nope Young |
+| 151 | 414 | Nope Young |
+| 152 | 414 | Swanky Fitline |
 | 153 | 413 | Circuit8 |
 | 154 | 412 | Jessica Bohlken |
 | 155 | 408 | Amanda Pauldo-Ivy |
-| 156 | 406 | Livvy |
-| 157 | 406 | Damn Libra |
+| 156 | 406 | Damn Libra |
+| 157 | 406 | Livvy |
 | 158 | 403 | Keith Kelley |
 | 159 | 402 | Lucas J Sutton |
 | 160 | 398 | Tyler Terrific |
@@ -175,8 +175,8 @@
 | 167 | 377 | Guy Incognito |
 | 168 | 375 | Desi Desporte |
 | 169 | 374 | Mylo Lipscomb |
-| 170 | 372 | Antony Dwayne Beasley |
-| 171 | 372 | George Nutt |
+| 170 | 372 | George Nutt |
+| 171 | 372 | Antony Dwayne Beasley |
 | 172 | 370 | Oscar Alberto Perez |
 | 173 | 369 | Lindsey Gonzalez |
 | 174 | 368 | Silly Zonebuilder |
@@ -192,8 +192,8 @@
 | 184 | 352 | Sue Joyce Staats |
 | 185 | 350 | Carly Alexis |
 | 186 | 349 | Rafael Valentin |
-| 187 | 348 | David Lay |
-| 188 | 348 | April Rondinone |
+| 187 | 348 | April Rondinone |
+| 188 | 348 | David Lay |
 | 189 | 347 | Crystal Nicolette Moore |
 | 190 | 347 | Daria Rycewicz |
 | 191 | 346 | shark tato |
@@ -268,10 +268,10 @@
 | 260 | 262 | Selena Shaw |
 | 261 | 262 | BigSammy420 |
 | 262 | 261 | Zethra Prenisha Rahming |
-| 263 | 260 | Carter Jones |
-| 264 | 260 | Lori |
-| 265 | 259 | Allen Lloyd |
-| 266 | 259 | Montiette Mcglown |
+| 263 | 260 | Lori |
+| 264 | 260 | Carter Jones |
+| 265 | 259 | Montiette Mcglown |
+| 266 | 259 | Allen Lloyd |
 | 267 | 259 | John Brunetti |
 | 268 | 257 | PeaceOs |
 | 269 | 256 | Paige Kittles |
@@ -281,8 +281,8 @@
 | 273 | 253 | Autum Leigh |
 | 274 | 251 | Carol Ricks Raymond |
 | 275 | 249 | Ak Jones |
-| 276 | 248 | Angelito |
-| 277 | 248 | Chirpy Basepiece |
+| 276 | 248 | Chirpy Basepiece |
+| 277 | 248 | Angelito |
 | 278 | 248 | Jose Dejesus |
 | 279 | 245 | 23 |
 | 280 | 244 | Elizabeth Tinoco |
@@ -744,7 +744,7 @@
 | 736 | 92 | Cooldamalley |
 | 737 | 92 | mitch |
 | 738 | 92 | Brandy Gray |
-| 739 | 92 | Cooldamalley |
+| 739 | 92 | Jasmine Castro |
 | 740 | 92 | Robert Sch |
 | 741 | 92 | Girldadtpa |
 | 742 | 92 | Sassy Gridzone |
