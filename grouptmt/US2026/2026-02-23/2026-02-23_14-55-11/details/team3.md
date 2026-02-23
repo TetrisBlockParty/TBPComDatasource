@@ -188,8 +188,8 @@
 | 180 | 591 | Kaycee Kay |
 | 181 | 591 | Michael Nowogorski |
 | 182 | 587 | Louise Stacy Sisson |
-| 183 | 585 | Domo Washington |
-| 184 | 585 | Happy Tetriblast |
+| 183 | 585 | Happy Tetriblast |
+| 184 | 585 | Domo Washington |
 | 185 | 583 | Tasha Gillespie |
 | 186 | 582 | Natasha Jones |
 | 187 | 568 | Rachael McClain Owens |
@@ -200,8 +200,8 @@
 | 192 | 562 | Dave Herzog |
 | 193 | 561 | Elissa S-k |
 | 194 | 559 | Patti Skiles |
-| 195 | 549 | Sarah Cowan Burgos |
-| 196 | 549 | Tasha Schriewer |
+| 195 | 549 | Tasha Schriewer |
+| 196 | 549 | Sarah Cowan Burgos |
 | 197 | 548 | Danielle Balcom |
 | 198 | 547 | Staci George Fitzsimmons |
 | 199 | 546 | Cynthia Castros-Hampton |
@@ -315,12 +315,12 @@
 | 307 | 368 | Stephanie Woods |
 | 308 | 368 | Sheila M Frazier |
 | 309 | 365 | LaShey Thompson |
-| 310 | 362 | Foltz Lee Kelli |
-| 311 | 362 | Brandon Givens |
+| 310 | 362 | Brandon Givens |
+| 311 | 362 | Foltz Lee Kelli |
 | 312 | 361 | Breanna Marsden |
 | 313 | 360 | Dee Pratt |
-| 314 | 359 | Steven Fulater |
-| 315 | 359 | Kelly |
+| 314 | 359 | Kelly |
+| 315 | 359 | Steven Fulater |
 | 316 | 358 | Heather Davis |
 | 317 | 358 | Roary Danner |
 | 318 | 358 | KayB |
@@ -330,21 +330,21 @@
 | 322 | 352 | LadyTorad |
 | 323 | 351 | Blocked |
 | 324 | 351 | Eon Harris |
-| 325 | 349 | Num1hater |
-| 326 | 349 | Amanda J. Mcneil-Anderson |
+| 325 | 349 | Amanda J. Mcneil-Anderson |
+| 326 | 349 | Num1hater |
 | 327 | 348 | Ashley Raines |
 | 328 | 346 | Chummy Rumbler |
 | 329 | 345 | gremicx |
 | 330 | 344 | Ashley Lynn Marchese |
-| 331 | 344 | Isabel Ocasio |
-| 332 | 344 | Beaudie Stroebel |
+| 331 | 344 | Beaudie Stroebel |
+| 332 | 344 | Isabel Ocasio |
 | 333 | 343 | Ashley Rufus Bythcez |
 | 334 | 342 | Cynthia Herrmann Egland |
 | 335 | 342 | ROODBOY |
 | 336 | 341 | Rick Poppen |
 | 337 | 341 | Lys |
-| 338 | 340 | Erika Thornton |
-| 339 | 340 | Nikki Pags |
+| 338 | 340 | Nikki Pags |
+| 339 | 340 | Erika Thornton |
 | 340 | 338 | fraulila |
 | 341 | 335 | victory |
 | 342 | 333 | Nikki White |
@@ -512,17 +512,17 @@
 | 504 | 239 | Martin Bernier |
 | 505 | 239 | Big T |
 | 506 | 238 | Niki Dalrymple |
-| 507 | 238 | Jess Dearborn |
-| 508 | 238 | TLM |
+| 507 | 238 | TLM |
+| 508 | 238 | Jess Dearborn |
 | 509 | 237 | BŘŰŤİÇŨŚ |
 | 510 | 236 | Zac Hudak |
 | 511 | 236 | Alexis Ford |
 | 512 | 236 | Frothy Snapper |
 | 513 | 234 | Cheeky Twisterfit |
 | 514 | 233 | Tony Waters |
-| 515 | 233 | Anna Moeller |
+| 515 | 233 | Criss |
 | 516 | 233 | Joshua David Huie |
-| 517 | 233 | Criss |
+| 517 | 233 | Anna Moeller |
 | 518 | 232 | Sunny Tiltgrid |
 | 519 | 232 | Stephanie Hill |
 | 520 | 232 | Sarah Morris |
@@ -565,13 +565,13 @@
 | 557 | 218 | Dapper Chiseler |
 | 558 | 218 | Ginger Gray |
 | 559 | 218 | Sabrina Mansfield |
-| 560 | 217 | Alexi Pryor |
-| 561 | 217 | Tia Moore |
-| 562 | 217 | Jazzy Spinfit |
-| 563 | 217 | momo |
-| 564 | 216 | Skippy |
+| 560 | 217 | Tia Moore |
+| 561 | 217 | Alexi Pryor |
+| 562 | 217 | momo |
+| 563 | 217 | Jazzy Spinfit |
+| 564 | 216 | Amanda Declue |
 | 565 | 216 | Stephanie Whitefield |
-| 566 | 216 | Amanda Declue |
+| 566 | 216 | Skippy |
 | 567 | 215 | Michell Hendershott Jackson |
 | 568 | 214 | Amy Fuller Heaton |
 | 569 | 214 | Shiny Snapfit |

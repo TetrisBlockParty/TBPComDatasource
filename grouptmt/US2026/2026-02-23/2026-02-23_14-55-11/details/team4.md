@@ -200,8 +200,8 @@
 | 192 | 376 | Zesty Twistbuilder |
 | 193 | 372 | George Nutt |
 | 194 | 372 | Antony Dwayne Beasley |
-| 195 | 368 | Silly Zonebuilder |
-| 196 | 368 | Holly Jolly |
+| 195 | 368 | Holly Jolly |
+| 196 | 368 | Silly Zonebuilder |
 | 197 | 365 | Jeff Brian Gates |
 | 198 | 363 | Cindy Looper |
 | 199 | 361 | Danielle Kollias |

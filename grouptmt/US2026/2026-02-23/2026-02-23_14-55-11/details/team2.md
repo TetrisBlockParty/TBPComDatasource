@@ -168,8 +168,8 @@
 | 160 | 1658 | Liberty |
 | 161 | 1653 | Michele Gabriel |
 | 162 | 1647 | Jessie McDougald |
-| 163 | 1644 | Luna |
-| 164 | 1644 | Speedy Spinblock |
+| 163 | 1644 | Speedy Spinblock |
+| 164 | 1644 | Luna |
 | 165 | 1640 | Scott Treadway |
 | 166 | 1639 | Mari Ac |
 | 167 | 1629 | Rickey Johnson |
@@ -254,8 +254,8 @@
 | 246 | 1233 | Maria Escobar |
 | 247 | 1232 | Ambyre Patterson |
 | 248 | 1221 | Jane Fong |
-| 249 | 1217 | Lucky Ladybug |
-| 250 | 1217 | Brooks Brooks |
+| 249 | 1217 | Brooks Brooks |
+| 250 | 1217 | Lucky Ladybug |
 | 251 | 1216 | Pacynthia Williams |
 | 252 | 1214 | David Cudicio-Hayden |
 | 253 | 1211 | Ricardo Burton |
@@ -375,8 +375,8 @@
 | 367 | 917 | Nashu |
 | 368 | 916 | Butta |
 | 369 | 915 | Kelly Trent |
-| 370 | 914 | Shuany Arias |
-| 371 | 914 | William Hunt |
+| 370 | 914 | William Hunt |
+| 371 | 914 | Shuany Arias |
 | 372 | 913 | blume |
 | 373 | 907 | Gene Mills |
 | 374 | 904 | John Bednarik |
@@ -481,14 +481,14 @@
 | 473 | 755 | Taryece Gause |
 | 474 | 754 | tejas25 |
 | 475 | 753 | Alex Dungo Hoang |
-| 476 | 751 | Breezy Filler |
-| 477 | 751 | Caitlyn Blackwell |
+| 476 | 751 | Caitlyn Blackwell |
+| 477 | 751 | Breezy Filler |
 | 478 | 751 | Loony Snapper |
 | 479 | 750 | Michael Buckner |
 | 480 | 750 | Draizen Montrell Thomas |
 | 481 | 748 | Ann Matzkanin |
-| 482 | 746 | Ryan Stadel |
-| 483 | 746 | Hoppy Brickmatch |
+| 482 | 746 | Hoppy Brickmatch |
+| 483 | 746 | Ryan Stadel |
 | 484 | 746 | Samuel Macon |
 | 485 | 742 | Ganieda |
 | 486 | 742 | Cassie Maynard |
@@ -740,13 +740,13 @@
 | 732 | 522 | Sassy Linkroll |
 | 733 | 522 | Leah |
 | 734 | 522 | Kathleen Driskell |
-| 735 | 522 | Snippy Rumbler |
-| 736 | 522 | Synn |
+| 735 | 522 | Synn |
+| 736 | 522 | Snippy Rumbler |
 | 737 | 521 | Juanita Lyons |
 | 738 | 521 | Jason Kelly |
 | 739 | 519 | Luke Califf |
-| 740 | 519 | Rob Brown |
-| 741 | 519 | Saucy Fitzone |
+| 740 | 519 | Saucy Fitzone |
+| 741 | 519 | Rob Brown |
 | 742 | 519 | CupCake |
 | 743 | 518 | Ashley Collins |
 | 744 | 517 | Daring Caster |
@@ -898,8 +898,8 @@
 | 890 | 451 | Stefanie Zonzini-Gagliardi |
 | 891 | 450 | Elizabeth Pearson |
 | 892 | 450 | sup |
-| 893 | 449 | Jas |
-| 894 | 449 | Heather Sawtelle-Mckenzie |
+| 893 | 449 | Heather Sawtelle-Mckenzie |
+| 894 | 449 | Jas |
 | 895 | 449 | Kristi Biddinger |
 | 896 | 448 | Anastacio Hernandez |
 | 897 | 448 | Nutty Slice |
