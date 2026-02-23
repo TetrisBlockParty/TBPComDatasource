@@ -377,8 +377,8 @@
 | 369 | 758 | Stephanie Neuburger |
 | 370 | 758 | Quirky Twistline |
 | 371 | 751 | Loony Snapper |
-| 372 | 748 | Brenda Utphall |
-| 373 | 748 | Stephanie Lumanlan |
+| 372 | 748 | Stephanie Lumanlan |
+| 373 | 748 | Brenda Utphall |
 | 374 | 747 | Kiely Tomaskovich |
 | 375 | 746 | Jerilyn Andrina |
 | 376 | 746 | Leslie Ann Carter |
@@ -470,8 +470,8 @@
 | 462 | 626 | Chab |
 | 463 | 623 | Kimberly Hope Howell |
 | 464 | 621 | Alezandra Smith |
-| 465 | 618 | Vanessa Moreno |
-| 466 | 618 | Caitlyn Blackwell |
+| 465 | 618 | Caitlyn Blackwell |
+| 466 | 618 | Vanessa Moreno |
 | 467 | 617 | Darcy Mae |
 | 468 | 615 | Julio A Laracuente |
 | 469 | 614 | Emilee Burke |
@@ -968,8 +968,8 @@
 | 960 | 328 | Brianna Cerney |
 | 961 | 328 | BabyBird |
 | 962 | 328 | Dee Blokk |
-| 963 | 327 | Persipnei Cuesta |
-| 964 | 327 | Sarah Dean |
+| 963 | 327 | Sarah Dean |
+| 964 | 327 | Persipnei Cuesta |
 | 965 | 327 | Jumpy Gridclear |
 | 966 | 327 | Muhammad |
 | 967 | 326 | Kimmy McKay |

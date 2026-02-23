@@ -79,8 +79,8 @@
 | 71 | 1019 | Sarah Fehring |
 | 72 | 980 | Jennifer |
 | 73 | 970 | Rosalie Call Kehlenbeck |
-| 74 | 945 | Shonna Roberts |
-| 75 | 945 | Christian A. Pollard |
+| 74 | 945 | Christian A. Pollard |
+| 75 | 945 | Shonna Roberts |
 | 76 | 938 | Mandy Smith Oldham |
 | 77 | 928 | Denise Nardoni |
 | 78 | 926 | Angela M. Fletcher |
@@ -171,8 +171,8 @@
 | 163 | 529 | Michael Nowogorski |
 | 164 | 528 | Silly Twist |
 | 165 | 516 | Danielle Balcom |
-| 166 | 506 | Stephanie Blkpep Davidson |
-| 167 | 506 | Sashay Tapae Simpson |
+| 166 | 506 | Sashay Tapae Simpson |
+| 167 | 506 | Stephanie Blkpep Davidson |
 | 168 | 504 | Jennifer Lynn Fahrenholtz-Summers |
 | 169 | 502 | Snappy Balancer |
 | 170 | 501 | Patti Skiles |
@@ -291,9 +291,9 @@
 | 283 | 308 | Katrina Turner |
 | 284 | 307 | Blocked |
 | 285 | 304 | _melisa223_ |
-| 286 | 303 | Hoppy Buildout |
-| 287 | 303 | Alexmac |
-| 288 | 303 | Beaudie Stroebel |
+| 286 | 303 | Alexmac |
+| 287 | 303 | Beaudie Stroebel |
+| 288 | 303 | Hoppy Buildout |
 | 289 | 302 | Gray Hicks |
 | 290 | 301 | Betty Rosas |
 | 291 | 301 | Tiffany Davie |
@@ -310,8 +310,8 @@
 | 302 | 291 | Carrie Huskey |
 | 303 | 289 | DidIdothat |
 | 304 | 287 | Sabrina Hardrick |
-| 305 | 286 | Geoffrey Nash |
-| 306 | 286 | Lizabeth Fox |
+| 305 | 286 | Lizabeth Fox |
+| 306 | 286 | Geoffrey Nash |
 | 307 | 286 | Hoppy Patternline |
 | 308 | 285 | LaShey Thompson |
 | 309 | 284 | Snazzy Filler |

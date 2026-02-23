@@ -157,8 +157,8 @@
 | 149 | 353 | Josh Riemer |
 | 150 | 351 | Basment Living |
 | 151 | 350 | Tipsy Strikerpiece |
-| 152 | 343 | Chelsea Dahlquist |
-| 153 | 343 | Elaine Elaine |
+| 152 | 343 | Elaine Elaine |
+| 153 | 343 | Chelsea Dahlquist |
 | 154 | 341 | Shiny Snapfit |
 | 155 | 341 | Nick R Montague |
 | 156 | 338 | Jennifer Hardman |
@@ -180,8 +180,8 @@
 | 172 | 315 | Danielle Little-Daugherty |
 | 173 | 315 | Tyler Werts |
 | 174 | 313 | Jerry Danowski |
-| 175 | 312 | Kimberly Garcia |
-| 176 | 312 | Jessi Sauer |
+| 175 | 312 | Jessi Sauer |
+| 176 | 312 | Kimberly Garcia |
 | 177 | 307 | femmefatale |
 | 178 | 307 | Mike Ames |
 | 179 | 306 | J.F. Fields |
@@ -281,8 +281,8 @@
 | 273 | 219 | Chuck Gannon |
 | 274 | 219 | Mel Hogan |
 | 275 | 217 | Colleen Pinette |
-| 276 | 216 | Chad Atchley |
-| 277 | 216 | Shauntina Burke |
+| 276 | 216 | Shauntina Burke |
+| 277 | 216 | Chad Atchley |
 | 278 | 215 | Shaykmia |
 | 279 | 215 | Panda Thagreat |
 | 280 | 214 | Tiger Lily |
@@ -390,8 +390,8 @@
 | 382 | 166 | Gilbert Ortiz Jr. |
 | 383 | 166 | Danielle Mae |
 | 384 | 165 | Nadine Velardo |
-| 385 | 165 | Rodney Schmerfeld |
-| 386 | 165 | Jason Benitez |
+| 385 | 165 | Jason Benitez |
+| 386 | 165 | Rodney Schmerfeld |
 | 387 | 164 | Dizzy Riseclear |
 | 388 | 164 | Tami Luce Martin |
 | 389 | 163 | SavageBooty98 |
