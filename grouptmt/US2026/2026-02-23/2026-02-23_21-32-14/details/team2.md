@@ -400,8 +400,8 @@
 | 392 | 969 | Steve Man |
 | 393 | 965 | Amanda Woodruff |
 | 394 | 962 | Antionette Sewell |
-| 395 | 960 | KhaosLord |
-| 396 | 960 | Alyssa Hileman |
+| 395 | 960 | Alyssa Hileman |
+| 396 | 960 | KhaosLord |
 | 397 | 958 | Nicole Cannon |
 | 398 | 958 | Doowop40 |
 | 399 | 958 | Brenda Messer |
@@ -688,8 +688,8 @@
 | 680 | 634 | Quiksilver |
 | 681 | 634 | Mia Muse Best |
 | 682 | 632 | Lea Stewart |
-| 683 | 632 | Joseph Musick |
-| 684 | 632 | Lonna Matthews |
+| 683 | 632 | Lonna Matthews |
+| 684 | 632 | Joseph Musick |
 | 685 | 630 | Cecilia A Jenkins |
 | 686 | 628 | Ronald Higgins |
 | 687 | 628 | Christina Ashley |
@@ -703,8 +703,8 @@
 | 695 | 623 | Victor Obiakarije |
 | 696 | 622 | Ben Barkley |
 | 697 | 621 | Moua Ying |
-| 698 | 621 | Taren Cowan |
-| 699 | 621 | Lewis Sturgeon |
+| 698 | 621 | Lewis Sturgeon |
+| 699 | 621 | Taren Cowan |
 | 700 | 620 | Macy Jarrett |
 | 701 | 618 | Marella Petilo |
 | 702 | 617 | Jason H Baker |

@@ -150,8 +150,8 @@
 | 142 | 837 | mzcatzy |
 | 143 | 834 | opf |
 | 144 | 820 | Brenda Lee Vander Molen |
-| 145 | 818 | Dolores Falco |
-| 146 | 818 | Tasha Schriewer |
+| 145 | 818 | Tasha Schriewer |
+| 146 | 818 | Dolores Falco |
 | 147 | 812 | Speedy Bridger |
 | 148 | 812 | Katrina Schroeder |
 | 149 | 810 | Keith J Oshman Jr. |
@@ -229,8 +229,8 @@
 | 221 | 568 | Rachael McClain Owens |
 | 222 | 567 | FuzzyNavel |
 | 223 | 566 | LaTanya GeminiondaRise Johnson |
-| 224 | 564 | Christine Trester |
-| 225 | 564 | Poppy Splitter |
+| 224 | 564 | Poppy Splitter |
+| 225 | 564 | Christine Trester |
 | 226 | 563 | Fallorina Susana |
 | 227 | 562 | Dave Herzog |
 | 228 | 561 | Silly Twist |
@@ -241,8 +241,8 @@
 | 233 | 546 | Cynthia Castros-Hampton |
 | 234 | 544 | Angella Lyons |
 | 235 | 542 | Gideon Walker |
-| 236 | 541 | Fran Lin |
-| 237 | 541 | Gray Hicks |
+| 236 | 541 | Gray Hicks |
+| 237 | 541 | Fran Lin |
 | 238 | 541 | Sherry Ogden |
 | 239 | 540 | Danielle Allison |
 | 240 | 539 | Micayah Stevens |
@@ -440,8 +440,8 @@
 | 432 | 318 | Christy Quick |
 | 433 | 317 | Jack Bo |
 | 434 | 316 | Travis W |
-| 435 | 315 | Julie Fratrik |
-| 436 | 315 | Colton |
+| 435 | 315 | Colton |
+| 436 | 315 | Julie Fratrik |
 | 437 | 314 | Tipsy Zonebuilder |
 | 438 | 313 | Hoppy Buildout |
 | 439 | 312 | Eric Caccavale |
@@ -458,8 +458,8 @@
 | 450 | 308 | Sassy Brickmatch |
 | 451 | 308 | Bryan Byrd |
 | 452 | 308 | Katrina Turner |
-| 453 | 307 | Kristina Gardner |
-| 454 | 307 | Kristian Thurman |
+| 453 | 307 | Kristian Thurman |
+| 454 | 307 | Kristina Gardner |
 | 455 | 306 | Funky Brickster |
 | 456 | 306 | Valerie Tarkington |
 | 457 | 306 | Jackie Miller |

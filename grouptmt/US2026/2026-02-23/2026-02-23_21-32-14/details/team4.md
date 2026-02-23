@@ -90,8 +90,8 @@
 | 82 | 826 | Rica Mitchell |
 | 83 | 802 | Crystal Carroll |
 | 84 | 794 | Chilly Line |
-| 85 | 783 | Guy Incognito |
-| 86 | 783 | Denise Carlson |
+| 85 | 783 | Denise Carlson |
+| 86 | 783 | Guy Incognito |
 | 87 | 775 | Klo |
 | 88 | 768 | Judy Cox |
 | 89 | 767 | Shannon Ferrari |
@@ -147,8 +147,8 @@
 | 139 | 551 | Ren Mc |
 | 140 | 549 | Carlos Ramirez |
 | 141 | 546 | Dizzy Tiley |
-| 142 | 545 | Desi Desporte |
-| 143 | 545 | Livvy |
+| 142 | 545 | Livvy |
+| 143 | 545 | Desi Desporte |
 | 144 | 542 | Austin Owens |
 | 145 | 540 | Rodney McMath Jr. |
 | 146 | 536 | Kimberlee Jan Beckstead |
@@ -507,9 +507,9 @@
 | 499 | 196 | KyngKliff |
 | 500 | 194 | Carlos Hernandez |
 | 501 | 194 | Zany Twisterfit |
-| 502 | 192 | Twisty Risebuilder |
-| 503 | 192 | Rebecca A Rit |
-| 504 | 192 | Jacob Campbell |
+| 502 | 192 | Jacob Campbell |
+| 503 | 192 | Twisty Risebuilder |
+| 504 | 192 | Rebecca A Rit |
 | 505 | 191 | Norman Klick |
 | 506 | 191 | Earnest Thompson |
 | 507 | 191 | Jobadia Steelerton |
@@ -517,8 +517,8 @@
 | 509 | 190 | Robert Rangel |
 | 510 | 189 | Brandon Link |
 | 511 | 188 | Tanner Lund |
-| 512 | 188 | Frilly Blocky |
-| 513 | 188 | Daring Pivot |
+| 512 | 188 | Daring Pivot |
+| 513 | 188 | Frilly Blocky |
 | 514 | 187 | Jason Punch |
 | 515 | 186 | Jesse Saville |
 | 516 | 186 | @ |
@@ -558,7 +558,7 @@
 | 550 | 173 | Joshua Cuellar |
 | 551 | 172 | Mary Miller |
 | 552 | 172 | Janis Brown |
-| 553 | 172 | Groovy Shiftspin |
+| 553 | 172 | Linda Alexander Downing |
 | 554 | 172 | Undeniable Williams |
 | 555 | 172 | Groovy Shiftspin |
 | 556 | 171 | Ali Ian |
@@ -661,15 +661,15 @@
 | 653 | 139 | Beenbreto |
 | 654 | 139 | Cooldamalley |
 | 655 | 138 | Larry Agan |
-| 656 | 138 | Karen Lambert |
-| 657 | 138 | Quirky Clearfit |
+| 656 | 138 | Quirky Clearfit |
+| 657 | 138 | Karen Lambert |
 | 658 | 138 | Tammy Lewis |
 | 659 | 137 | tossan |
 | 660 | 137 | Heather Mamabear Pezze |
 | 661 | 137 | bloat princess |
 | 662 | 137 | April Spoelma |
 | 663 | 136 | Zocko Ellet |
-| 664 | 136 | Niki Bush |
+| 664 | 136 | Cranky Glidebuilder |
 | 665 | 136 | Jessi Godsey |
 | 666 | 136 | Niki Bush |
 | 667 | 136 | Jay You |
@@ -1414,8 +1414,8 @@
 | 1406 | 38 | Dapper Wiper |
 | 1407 | 38 | Haley Jean |
 | 1408 | 38 | Alison Welsh |
-| 1409 | 37 | Sunny68 |
-| 1410 | 37 | Elaine Hall |
+| 1409 | 37 | Patrick Cossette |
+| 1410 | 37 | Sunny68 |
 | 1411 | 37 | Hasty Balancer |
 | 1412 | 37 | Elaine Hall |
 | 1413 | 37 | SloFut Mataryal BrownBwoy |
