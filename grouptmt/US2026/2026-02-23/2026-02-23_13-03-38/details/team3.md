@@ -133,8 +133,8 @@
 | 125 | 779 | Justin Ritter |
 | 126 | 774 | Keith J Oshman Jr. |
 | 127 | 773 | Daira Largen |
-| 128 | 764 | Hasty Cascadefit |
-| 129 | 764 | Groovy Catcher |
+| 128 | 764 | Groovy Catcher |
+| 129 | 764 | Hasty Cascadefit |
 | 130 | 762 | Speedy Bridger |
 | 131 | 755 | Katrina Schroeder |
 | 132 | 755 | Raya |
@@ -152,8 +152,8 @@
 | 144 | 716 | Annie Marie |
 | 145 | 714 | Jenny Hrndz |
 | 146 | 710 | Santeria Trece Candles |
-| 147 | 706 | Daryn Elliott |
-| 148 | 706 | Kiki |
+| 147 | 706 | Kiki |
+| 148 | 706 | Daryn Elliott |
 | 149 | 702 | Patty Allen |
 | 150 | 696 | Christine Niles |
 | 151 | 695 | Samantha Greco |
@@ -171,8 +171,8 @@
 | 163 | 631 | Grego Daniel |
 | 164 | 630 | yoyo |
 | 165 | 629 | rnr junky |
-| 166 | 621 | Sashay Tapae Simpson |
-| 167 | 621 | Cherry Parker |
+| 166 | 621 | Cherry Parker |
+| 167 | 621 | Sashay Tapae Simpson |
 | 168 | 616 | Kammy Hill |
 | 169 | 611 | Rochelle Hazelett |
 | 170 | 603 | Jone |

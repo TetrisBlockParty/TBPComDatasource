@@ -116,8 +116,8 @@
 | 108 | 510 | Chirpy Smasher |
 | 109 | 509 | Rachael |
 | 110 | 502 | Anaid Sanchez |
-| 111 | 497 | Jennifer ManWarren |
-| 112 | 497 | Arianna O'Brien |
+| 111 | 497 | Arianna O'Brien |
+| 112 | 497 | Jennifer ManWarren |
 | 113 | 493 | MomMom |
 | 114 | 492 | Ash Galvan |
 | 115 | 491 | cc |
