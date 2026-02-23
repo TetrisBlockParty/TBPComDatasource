@@ -288,8 +288,8 @@
 | 280 | 1260 | Roman Lavochnik |
 | 281 | 1259 | Foxxo |
 | 282 | 1258 | Dimitra Zazara |
-| 283 | 1257 | Megan Garrick |
-| 284 | 1257 | Megan Ferguson Leone |
+| 283 | 1257 | Megan Ferguson Leone |
+| 284 | 1257 | Megan Garrick |
 | 285 | 1247 | Ericka Marie Smith |
 | 286 | 1241 | Jennifer Casey-Kay |
 | 287 | 1238 | Groovy Puzzle |
@@ -440,15 +440,15 @@
 | 432 | 907 | Gene Mills |
 | 433 | 905 | Adam Simmons |
 | 434 | 903 | Ashle Scranton |
-| 435 | 903 | Eric Castaneda |
-| 436 | 903 | Sarah DeHart |
+| 435 | 903 | Sarah DeHart |
+| 436 | 903 | Eric Castaneda |
 | 437 | 902 | Brenda Utphall |
 | 438 | 899 | Chevy |
 | 439 | 899 | Patrick Bartlett |
 | 440 | 898 | Dylan Thomason |
 | 441 | 897 | Jamie Schmitt |
-| 442 | 895 | Donna Colby |
-| 443 | 895 | Lisa Ongtowasruk |
+| 442 | 895 | Lisa Ongtowasruk |
+| 443 | 895 | Donna Colby |
 | 444 | 894 | Adira Brown |
 | 445 | 890 | Alex Stone LaRue |
 | 446 | 888 | Leslie Ann Carter |
@@ -528,8 +528,8 @@
 | 520 | 790 | Mama T |
 | 521 | 789 | Leslie Jorgenson |
 | 522 | 788 | Samuel Macon |
-| 523 | 786 | Charvi' Carter |
-| 524 | 786 | Kimberly Randesi |
+| 523 | 786 | Kimberly Randesi |
+| 524 | 786 | Charvi' Carter |
 | 525 | 785 | Miranda Morris |
 | 526 | 781 | Sarah Berger |
 | 527 | 779 | Trinity Oak |

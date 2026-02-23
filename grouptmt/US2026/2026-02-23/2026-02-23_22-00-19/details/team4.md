@@ -60,8 +60,8 @@
 | 52 | 1155 | Jae Job |
 | 53 | 1150 | Kimyatta Cavin |
 | 54 | 1105 | Ashley Ingram |
-| 55 | 1082 | Avy Absol |
-| 56 | 1082 | Dion Crommarty |
+| 55 | 1082 | Dion Crommarty |
+| 56 | 1082 | Avy Absol |
 | 57 | 1065 | Dustee Craddock-Harrison |
 | 58 | 1049 | Heather Tushner |
 | 59 | 1046 | Johnathan Martinez |
@@ -259,11 +259,11 @@
 | 251 | 366 | Cheery Risebuilder |
 | 252 | 366 | Andrew Dang |
 | 253 | 365 | Hyper Builder |
-| 254 | 363 | TRCuse |
-| 255 | 363 | KimoKoala |
+| 254 | 363 | KimoKoala |
+| 255 | 363 | TRCuse |
 | 256 | 361 | Danielle Kollias |
-| 257 | 360 | James Hurley Jr. |
-| 258 | 360 | Ari Droff |
+| 257 | 360 | Ari Droff |
+| 258 | 360 | James Hurley Jr. |
 | 259 | 358 | Twisty Cascadezone |
 | 260 | 356 | Joeliecea Cobb |
 | 261 | 356 | mike |
@@ -430,8 +430,8 @@
 | 422 | 228 | Jessica Petersen |
 | 423 | 228 | Bethany Ison |
 | 424 | 227 | Martha Lucinda Bishop |
-| 425 | 227 | Asher |
-| 426 | 227 | Maria Hammie |
+| 425 | 227 | Maria Hammie |
+| 426 | 227 | Asher |
 | 427 | 225 | Jennifer Renee |
 | 428 | 224 | Vanessa Smart |
 | 429 | 224 | Ultramarine |
@@ -585,8 +585,8 @@
 | 577 | 166 | Tabitha Calvin |
 | 578 | 165 | Zappy Buildgrid |
 | 579 | 165 | Dapper Caster |
-| 580 | 164 | Smiley Shifter |
-| 581 | 164 | Marvetta Williams |
+| 580 | 164 | Marvetta Williams |
+| 581 | 164 | Smiley Shifter |
 | 582 | 164 | Bussy Bay |
 | 583 | 163 | Michael Orris |
 | 584 | 163 | Ashlee Carnes |
