@@ -112,10 +112,10 @@
 | 104 | 493 | MomMom |
 | 105 | 492 | Ash Galvan |
 | 106 | 491 | cc |
-| 107 | 489 | April Carroll |
-| 108 | 489 | Deanna L Hermanson |
-| 109 | 483 | Tdub |
-| 110 | 483 | Trina Gee |
+| 107 | 489 | Deanna L Hermanson |
+| 108 | 489 | April Carroll |
+| 109 | 483 | Trina Gee |
+| 110 | 483 | Tdub |
 | 111 | 480 | Ty Brown |
 | 112 | 478 | Stephanie Zahn |
 | 113 | 477 | Tonya Beasley |
@@ -159,8 +159,8 @@
 | 151 | 383 | Margo Wagner |
 | 152 | 383 | pjbeta |
 | 153 | 380 | phrmblk24 |
-| 154 | 379 | Kimmie Kimms |
-| 155 | 379 | Austin James |
+| 154 | 379 | Austin James |
+| 155 | 379 | Kimmie Kimms |
 | 156 | 378 | Jessica Sheehan |
 | 157 | 377 | femmefatale |
 | 158 | 376 | Brian Richardsson |
@@ -222,8 +222,8 @@
 | 214 | 301 | Damon J. Martin |
 | 215 | 301 | Cody Gates |
 | 216 | 300 | Sleepysloath5745 |
-| 217 | 298 | Billie Ann Eason |
-| 218 | 298 | Sweetts |
+| 217 | 298 | Sweetts |
+| 218 | 298 | Billie Ann Eason |
 | 219 | 295 | Lakeisha Chapman |
 | 220 | 294 | Chuck Gannon |
 | 221 | 294 | Bindi |
@@ -374,8 +374,8 @@
 | 366 | 199 | Larissa Marie Nelson |
 | 367 | 199 | Tina Englert |
 | 368 | 198 | Marci Sanders |
-| 369 | 197 | Cool Towerzone |
-| 370 | 197 | Larry Tilton |
+| 369 | 197 | Larry Tilton |
+| 370 | 197 | Cool Towerzone |
 | 371 | 196 | Steph |
 | 372 | 196 | Rachel Copas |
 | 373 | 195 | Renata Mabie |
