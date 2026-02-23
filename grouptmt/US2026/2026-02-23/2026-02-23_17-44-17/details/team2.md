@@ -256,8 +256,8 @@
 | 248 | 1259 | Foxxo |
 | 249 | 1258 | Brandon Armstrong |
 | 250 | 1258 | Eric Carlson |
-| 251 | 1257 | Megan Ferguson Leone |
-| 252 | 1257 | Megan Garrick |
+| 251 | 1257 | Megan Garrick |
+| 252 | 1257 | Megan Ferguson Leone |
 | 253 | 1256 | Missie Lawson Gebhardt |
 | 254 | 1253 | Roman Lavochnik |
 | 255 | 1241 | Jennifer Casey-Kay |
@@ -387,9 +387,9 @@
 | 379 | 933 | Min |
 | 380 | 929 | Ellie Jonas |
 | 381 | 928 | Elizabeth Wilbanks |
-| 382 | 921 | Ryan Stadel |
-| 383 | 919 | Isaac Trappiel IV |
-| 384 | 916 | Butta |
+| 382 | 919 | Isaac Trappiel IV |
+| 383 | 916 | Butta |
+| 384 | 915 | blume |
 | 385 | 915 | Kelly Trent |
 | 386 | 914 | William Hunt |
 | 387 | 914 | Shuany Arias |
@@ -402,8 +402,8 @@
 | 394 | 902 | Diallo Sparkman |
 | 395 | 901 | Ryan Stadel |
 | 396 | 899 | Felicia Lynn |
-| 397 | 899 | Patrick Bartlett |
-| 398 | 899 | Chevy |
+| 397 | 899 | Chevy |
+| 398 | 899 | Patrick Bartlett |
 | 399 | 898 | Donna M Carter |
 | 400 | 896 | Alyssa Hileman |
 | 401 | 895 | Donna Colby |
@@ -433,8 +433,8 @@
 | 425 | 844 | Terri McKelvey McKinley |
 | 426 | 843 | Quirky Twistline |
 | 427 | 841 | AgileDragon |
-| 428 | 840 | Traci Johnson |
-| 429 | 840 | Kiana Boschh |
+| 428 | 840 | Kiana Boschh |
+| 429 | 840 | Traci Johnson |
 | 430 | 836 | KhaosLord |
 | 431 | 835 | Moni Foxe |
 | 432 | 834 | Montez Mancil |
@@ -779,8 +779,8 @@
 | 771 | 530 | Samuel Labruno |
 | 772 | 529 | Marget Kay |
 | 773 | 528 | CupCake |
-| 774 | 528 | Melissa Schulz |
-| 775 | 528 | Kyle LeRoy Harris |
+| 774 | 528 | Kyle LeRoy Harris |
+| 775 | 527 | Melissa Koria |
 | 776 | 527 | Ryan Gunther |
 | 777 | 526 | KayLynn Ogden McClelland |
 | 778 | 526 | Lively Catcher |
