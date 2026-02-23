@@ -55,8 +55,8 @@
 | 47 | 860 | Jae Job |
 | 48 | 855 | Marvin Lou Martin |
 | 49 | 853 | TeeJ |
-| 50 | 846 | Christine Marie |
-| 51 | 846 | Lucille Truesdale |
+| 50 | 846 | Lucille Truesdale |
+| 51 | 846 | Christine Marie |
 | 52 | 845 | LisaJo Picken Buchanan |
 | 53 | 843 | Shelly Chandler |
 | 54 | 841 | Anthony Bryan Riva |
@@ -228,8 +228,8 @@
 | 220 | 267 | Holly |
 | 221 | 266 | Mr. Party |
 | 222 | 265 | Sarah Neathery |
-| 223 | 264 | scott |
-| 224 | 264 | Carlos Ramirez |
+| 223 | 264 | Carlos Ramirez |
+| 224 | 264 | scott |
 | 225 | 261 | Dihcheese444 |
 | 226 | 259 | Cheery Risebuilder |
 | 227 | 259 | Montiette Mcglown |
@@ -238,8 +238,8 @@
 | 230 | 252 | Selena Shaw |
 | 231 | 251 | Carol Ricks Raymond |
 | 232 | 249 | Ak Jones |
-| 233 | 248 | Jose Dejesus |
-| 234 | 248 | Chirpy Basepiece |
+| 233 | 248 | Chirpy Basepiece |
+| 234 | 248 | Jose Dejesus |
 | 235 | 247 | JPW |
 | 236 | 246 | Zethra Prenisha Rahming |
 | 237 | 245 | 23 |

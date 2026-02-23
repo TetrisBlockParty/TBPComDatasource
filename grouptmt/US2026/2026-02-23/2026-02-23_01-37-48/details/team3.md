@@ -61,8 +61,8 @@
 | 53 | 1276 | Aaron Pitkin |
 | 54 | 1269 | Amber Jones |
 | 55 | 1258 | Jennifer Petrie |
-| 56 | 1256 | Mahman |
-| 57 | 1256 | Jessica Bechler |
+| 56 | 1256 | Jessica Bechler |
+| 57 | 1256 | Mahman |
 | 58 | 1191 | Nate Burnside |
 | 59 | 1167 | Elaine Webb Graves |
 | 60 | 1141 | Queen Kam |
@@ -86,8 +86,8 @@
 | 78 | 951 | Christian A. Pollard |
 | 79 | 945 | Shonna Roberts |
 | 80 | 938 | Mandy Smith Oldham |
-| 81 | 926 | Angela M. Fletcher |
-| 82 | 926 | Judi Dobson |
+| 81 | 926 | Judi Dobson |
+| 82 | 926 | Angela M. Fletcher |
 | 83 | 923 | Christine Filson |
 | 84 | 921 | Michelle |
 | 85 | 910 | Jay Horn |
@@ -183,8 +183,8 @@
 | 175 | 491 | Chauntee Alfrey-Cardinale |
 | 176 | 490 | Loopy Fallmatch |
 | 177 | 489 | Shannon Matthew Byers |
-| 178 | 485 | Demetrious Shaw Sr. |
-| 179 | 485 | Dapper Snap |
+| 178 | 485 | Dapper Snap |
+| 179 | 485 | Demetrious Shaw Sr. |
 | 180 | 485 | Terry Jo Jones |
 | 181 | 481 | FuzzyNavel |
 | 182 | 479 | Poppy Splitter |
@@ -219,8 +219,8 @@
 | 211 | 415 | ren |
 | 212 | 414 | Fran Lin |
 | 213 | 413 | Loopy Clusterer |
-| 214 | 410 | Mcathen |
-| 215 | 410 | Stephanie Simpson |
+| 214 | 410 | Stephanie Simpson |
+| 215 | 410 | Mcathen |
 | 216 | 405 | Sherry Ogden |
 | 217 | 404 | Chasity |
 | 218 | 403 | Scott Lindsay |
@@ -246,9 +246,9 @@
 | 238 | 369 | Marquita Sheard |
 | 239 | 369 | Keis |
 | 240 | 368 | Stephanie Woods |
-| 241 | 365 | Chummy Caster |
-| 242 | 365 | Noyb Adam |
-| 243 | 365 | Tiffany Ford |
+| 241 | 365 | Noyb Adam |
+| 242 | 365 | Tiffany Ford |
+| 243 | 365 | Chummy Caster |
 | 244 | 364 | Steffi Chris Dacones |
 | 245 | 362 | Brandon Givens |
 | 246 | 360 | Sheila M Frazier |
@@ -271,8 +271,8 @@
 | 263 | 339 | Cynthia Herrmann Egland |
 | 264 | 338 | Gumbo |
 | 265 | 336 | Jojo M |
-| 266 | 332 | Velma Mull |
-| 267 | 332 | Brittany |
+| 266 | 332 | Brittany |
+| 267 | 332 | Velma Mull |
 | 268 | 330 | victory |
 | 269 | 329 | Tye Stovall |
 | 270 | 329 | block chick |
@@ -282,8 +282,8 @@
 | 274 | 324 | Sissy Lowery Davis |
 | 275 | 322 | Nena Somerville Kelly |
 | 276 | 321 | Charles Perrone |
-| 277 | 320 | Or Reznitsky |
-| 278 | 320 | Ashley Muncey |
+| 277 | 320 | Ashley Muncey |
+| 278 | 320 | Or Reznitsky |
 | 279 | 312 | Twisty Brick LT |
 | 280 | 312 | LadyTorad |
 | 281 | 311 | Shawn Miller |

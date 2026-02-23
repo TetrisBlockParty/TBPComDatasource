@@ -159,8 +159,8 @@
 | 151 | 350 | Tipsy Strikerpiece |
 | 152 | 343 | Chelsea Dahlquist |
 | 153 | 343 | Elaine Elaine |
-| 154 | 341 | Nick R Montague |
-| 155 | 341 | Shiny Snapfit |
+| 154 | 341 | Shiny Snapfit |
+| 155 | 341 | Nick R Montague |
 | 156 | 338 | Jennifer Hardman |
 | 157 | 337 | Nicole Roseberry Weber |
 | 158 | 337 | Constance Risner |
@@ -178,8 +178,8 @@
 | 170 | 318 | Virginia Gray Floyd |
 | 171 | 318 | Jessica Sheehan |
 | 172 | 317 | Sarah Roberts |
-| 173 | 315 | Tyler Werts |
-| 174 | 315 | Danielle Little-Daugherty |
+| 173 | 315 | Danielle Little-Daugherty |
+| 174 | 315 | Tyler Werts |
 | 175 | 313 | Jerry Danowski |
 | 176 | 312 | Jessi Sauer |
 | 177 | 312 | Kimberly Garcia |
@@ -190,8 +190,8 @@
 | 182 | 306 | Angela Renea Lester |
 | 183 | 306 | J.F. Fields |
 | 184 | 304 | David Lutcher |
-| 185 | 303 | Letson Melissa |
-| 186 | 303 | ALFD |
+| 185 | 303 | ALFD |
+| 186 | 303 | Letson Melissa |
 | 187 | 302 | Erin Rosberg |
 | 188 | 301 | Damon J. Martin |
 | 189 | 296 | Cody Gates |
@@ -199,7 +199,7 @@
 | 191 | 294 | Bindi |
 | 192 | 293 | Carrie Smith |
 | 193 | 293 | Witty Builderfit |
-| 194 | 293 | Carrie Smith |
+| 194 | 293 | John Kim |
 | 195 | 292 | Cool Shiftsnap |
 | 196 | 290 | Speedy Liney |
 | 197 | 283 | Franswa |
