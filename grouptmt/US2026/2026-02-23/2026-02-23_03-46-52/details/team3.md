@@ -161,8 +161,8 @@
 | 153 | 595 | Rochelle Hazelett |
 | 154 | 588 | Justin Ritter |
 | 155 | 587 | Louise Stacy Sisson |
-| 156 | 585 | Annie Marie |
-| 157 | 585 | Happy Tetriblast |
+| 156 | 585 | Happy Tetriblast |
+| 157 | 585 | Annie Marie |
 | 158 | 582 | Natasha Jones |
 | 159 | 579 | Tasha Gillespie |
 | 160 | 577 | Domo Washington |
@@ -173,8 +173,8 @@
 | 165 | 562 | Dave Herzog |
 | 166 | 557 | Michael Nowogorski |
 | 167 | 553 | LaTanya GeminiondaRise Johnson |
-| 168 | 546 | Cynthia Castros-Hampton |
-| 169 | 546 | Mykal Burton |
+| 168 | 546 | Mykal Burton |
+| 169 | 546 | Cynthia Castros-Hampton |
 | 170 | 540 | Elissa S-k |
 | 171 | 540 | Shawn Miller |
 | 172 | 539 | Patti Skiles |
@@ -226,9 +226,9 @@
 | 218 | 430 | Jeni Dow |
 | 219 | 415 | ren |
 | 220 | 414 | Fran Lin |
-| 221 | 410 | Mcathen |
-| 222 | 410 | Duane Bright |
-| 223 | 410 | Stephanie Simpson |
+| 221 | 410 | Stephanie Simpson |
+| 222 | 410 | Mcathen |
+| 223 | 410 | Duane Bright |
 | 224 | 408 | Tiffany Ford |
 | 225 | 407 | Felicia Rocha |
 | 226 | 406 | Heather Green |

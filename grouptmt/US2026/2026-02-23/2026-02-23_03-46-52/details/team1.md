@@ -46,8 +46,8 @@
 | 38 | 995 | Amanda Summey Schoemer |
 | 39 | 966 | Shalene Frederick Autrey |
 | 40 | 964 | Carrie Beck Geartz |
-| 41 | 953 | Derek MF Blakey |
-| 42 | 953 | Hyp James NObettadanluvarat |
+| 41 | 953 | Hyp James NObettadanluvarat |
+| 42 | 953 | Derek MF Blakey |
 | 43 | 945 | Amber Stoker |
 | 44 | 931 | Christina Costantino |
 | 45 | 919 | Chipper Gridlock |
@@ -156,21 +156,21 @@
 | 148 | 371 | Jason Savage |
 | 149 | 368 | Amanda Johnson Huffman |
 | 150 | 367 | Sharon Reynolds |
-| 151 | 364 | Serina Marie |
-| 152 | 364 | Shauna Loe |
+| 151 | 364 | Shauna Loe |
+| 152 | 364 | Serina Marie |
 | 153 | 360 | Wisa |
 | 154 | 355 | Carrie Smith |
-| 155 | 353 | Josh Riemer |
-| 156 | 353 | Jaimie Lynn |
+| 155 | 353 | Jaimie Lynn |
+| 156 | 353 | Josh Riemer |
 | 157 | 350 | Tipsy Strikerpiece |
 | 158 | 346 | GATOR |
 | 159 | 345 | Jerry Danowski |
 | 160 | 344 | Cool Shiftsnap |
 | 161 | 344 | Rachael |
-| 162 | 343 | Chelsea Dahlquist |
-| 163 | 343 | Elaine Elaine |
-| 164 | 341 | Nick R Montague |
-| 165 | 341 | Shiny Snapfit |
+| 162 | 343 | Elaine Elaine |
+| 163 | 343 | Chelsea Dahlquist |
+| 164 | 341 | Shiny Snapfit |
+| 165 | 341 | Nick R Montague |
 | 166 | 339 | Nicole Roseberry Weber |
 | 167 | 338 | Jennifer Hardman |
 | 168 | 337 | Constance Risner |
@@ -344,13 +344,13 @@
 | 336 | 195 | Beazel75 |
 | 337 | 193 | Lachelle Dillon |
 | 338 | 192 | Tipsy Tiltpiece |
-| 339 | 191 | Garcia Bailey |
+| 339 | 191 | Νεφ Όνυξ |
 | 340 | 191 | Slinky Rotater |
 | 341 | 191 | John Garza |
-| 342 | 191 | Νεφ Όνυξ |
+| 342 | 191 | Garcia Bailey |
 | 343 | 190 | Brooke Elizabeth Antill |
-| 344 | 190 | Sweetts |
-| 345 | 190 | Pauline Cortez |
+| 344 | 190 | Pauline Cortez |
+| 345 | 190 | Sweetts |
 | 346 | 189 | Speedy Snapfall |
 | 347 | 189 | Tawnya Peltonen |
 | 348 | 188 | Brian Taylor |

@@ -40,8 +40,8 @@
 | 32 | 4274 | Vistabrat |
 | 33 | 4199 | Claire Noland |
 | 34 | 4128 | Angela Pruitt |
-| 35 | 4120 | Kristen Sceurman |
-| 36 | 4120 | Corrine Hawks Soriano |
+| 35 | 4120 | Corrine Hawks Soriano |
+| 36 | 4120 | Kristen Sceurman |
 | 37 | 4093 | Jill Stroehlein |
 | 38 | 4084 | Alexandra Reese |
 | 39 | 3895 | Nickie Baby |
@@ -103,8 +103,8 @@
 | 95 | 2170 | Steve Grotto |
 | 96 | 2165 | Tj Ball |
 | 97 | 2155 | Qiana Sanders |
-| 98 | 2148 | ShinyRose |
-| 99 | 2148 | Roger Grabbit |
+| 98 | 2148 | Roger Grabbit |
+| 99 | 2148 | ShinyRose |
 | 100 | 2146 | KellyDyan |
 | 101 | 2106 | Cool Rollpiece |
 | 102 | 2103 | Alisha Peoples |
@@ -212,8 +212,8 @@
 | 204 | 1232 | Ambyre Patterson |
 | 205 | 1232 | Groovy Puzzle |
 | 206 | 1230 | Megan Garrick |
-| 207 | 1217 | Brooks Brooks |
-| 208 | 1217 | Lucky Ladybug |
+| 207 | 1217 | Lucky Ladybug |
+| 208 | 1217 | Brooks Brooks |
 | 209 | 1214 | David Cudicio-Hayden |
 | 210 | 1206 | Amy Sayers |
 | 211 | 1205 | Tony Lea |
@@ -605,10 +605,10 @@
 | 597 | 531 | Matthew Joseph Acevedo |
 | 598 | 531 | Beth Decker |
 | 599 | 529 | James Louie |
-| 600 | 528 | Mamachelle Eisweirth |
-| 601 | 528 | Kyle LeRoy Harris |
-| 602 | 527 | Heather M Purcell |
-| 603 | 527 | Ryan Gunther |
+| 600 | 528 | Kyle LeRoy Harris |
+| 601 | 528 | Mamachelle Eisweirth |
+| 602 | 527 | Ryan Gunther |
+| 603 | 527 | Heather M Purcell |
 | 604 | 525 | Kara Jennifer |
 | 605 | 524 | Wuntayk |
 | 606 | 523 | Audrey Jones |
@@ -729,8 +729,8 @@
 | 721 | 456 | Sabrina Burton |
 | 722 | 454 | ItsJennifer Neriss |
 | 723 | 453 | Polly Pritchard Chesler |
-| 724 | 453 | Epic Stackzone |
-| 725 | 453 | Ryan Chan |
+| 724 | 453 | Ryan Chan |
+| 725 | 453 | Epic Stackzone |
 | 726 | 452 | Ashley Taylor |
 | 727 | 452 | Cleo Sims |
 | 728 | 450 | sup |
@@ -761,10 +761,10 @@
 | 753 | 438 | Deyawn Smith |
 | 754 | 438 | Lynda Toland |
 | 755 | 437 | Jason H Baker |
-| 756 | 437 | Shalisa Hill |
-| 757 | 437 | Oscar Bernie |
-| 758 | 436 | Stefanie Zonzini-Gagliardi |
-| 759 | 436 | Regina Knight |
+| 756 | 437 | Oscar Bernie |
+| 757 | 437 | Shalisa Hill |
+| 758 | 436 | Regina Knight |
+| 759 | 436 | Stefanie Zonzini-Gagliardi |
 | 760 | 435 | Taylor Flowers |
 | 761 | 435 | CupCake |
 | 762 | 435 | John |

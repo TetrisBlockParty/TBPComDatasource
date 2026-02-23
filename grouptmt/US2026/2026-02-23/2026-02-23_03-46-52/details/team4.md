@@ -57,8 +57,8 @@
 | 49 | 863 | Pee |
 | 50 | 855 | Marvin Lou Martin |
 | 51 | 853 | TeeJ |
-| 52 | 846 | Lucille Truesdale |
-| 53 | 846 | Christine Marie |
+| 52 | 846 | Christine Marie |
+| 53 | 846 | Lucille Truesdale |
 | 54 | 845 | LisaJo Picken Buchanan |
 | 55 | 843 | Shelly Chandler |
 | 56 | 841 | Anthony Bryan Riva |
@@ -92,9 +92,9 @@
 | 84 | 673 | Jacqueline Helm |
 | 85 | 664 | Valerie Roberts |
 | 86 | 659 | Jamie Gustafson |
-| 87 | 647 | Shauna Havard |
-| 88 | 647 | KM8 |
-| 89 | 647 | Diana Houts |
+| 87 | 647 | Diana Houts |
+| 88 | 647 | Shauna Havard |
+| 89 | 647 | KM8 |
 | 90 | 646 | Eric Mcgaughy |
 | 91 | 626 | Brittney Griggs |
 | 92 | 620 | Judy Cox |
@@ -133,8 +133,8 @@
 | 125 | 452 | Jolly Dashfit |
 | 126 | 451 | Peachy Fall |
 | 127 | 448 | Kristin Manee |
-| 128 | 435 | Kristina Black |
-| 129 | 435 | Leslie Thomas |
+| 128 | 435 | Leslie Thomas |
+| 129 | 435 | Kristina Black |
 | 130 | 431 | Courtney Cicoria |
 | 131 | 425 | Monica Daley |
 | 132 | 423 | Austin Owens |
@@ -177,8 +177,8 @@
 | 169 | 352 | Sue Joyce Staats |
 | 170 | 349 | Rafael Valentin |
 | 171 | 349 | Twisty Cascadezone |
-| 172 | 348 | TRCuse |
-| 173 | 348 | April Rondinone |
+| 172 | 348 | April Rondinone |
+| 173 | 348 | TRCuse |
 | 174 | 347 | Daria Rycewicz |
 | 175 | 339 | David Lay |
 | 176 | 333 | shark tato |
