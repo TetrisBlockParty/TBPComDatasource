@@ -78,8 +78,8 @@
 | 70 | 807 | Amelpss |
 | 71 | 802 | Crystal Carroll |
 | 72 | 788 | Chilly Line |
-| 73 | 787 | Edward White |
-| 74 | 787 | loulou |
+| 73 | 787 | loulou |
+| 74 | 787 | Edward White |
 | 75 | 769 | Alyssa Papen |
 | 76 | 768 | Judy Cox |
 | 77 | 767 | Shannon Ferrari |
@@ -132,8 +132,8 @@
 | 124 | 545 | Desi Desporte |
 | 125 | 542 | Austin Owens |
 | 126 | 540 | Rodney McMath Jr. |
-| 127 | 538 | shar |
-| 128 | 538 | Carlos Ramirez |
+| 127 | 538 | Carlos Ramirez |
+| 128 | 538 | shar |
 | 129 | 537 | Dizzy Tiley |
 | 130 | 533 | Samantha Peterson |
 | 131 | 531 | Serena Goodridge |

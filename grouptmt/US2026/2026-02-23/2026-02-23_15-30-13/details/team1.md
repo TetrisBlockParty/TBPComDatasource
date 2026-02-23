@@ -46,8 +46,8 @@
 | 38 | 1128 | june october |
 | 39 | 1126 | Tater |
 | 40 | 1122 | Amanda Summey Schoemer |
-| 41 | 1114 | Jayme Sellers |
-| 42 | 1114 | Marianne Louise West |
+| 41 | 1114 | Marianne Louise West |
+| 42 | 1114 | Jayme Sellers |
 | 43 | 1112 | Chipper Gridlock |
 | 44 | 1100 | Derek MF Blakey |
 | 45 | 1092 | Tipsy Column |
@@ -96,8 +96,8 @@
 | 88 | 689 | Susanna Guerry |
 | 89 | 683 | Nancy Green |
 | 90 | 679 | Hasbro Bros |
-| 91 | 657 | Tee Sheree |
-| 92 | 657 | Cynthia Bradley |
+| 91 | 657 | Cynthia Bradley |
+| 92 | 657 | Tee Sheree |
 | 93 | 655 | Brenda Stewart |
 | 94 | 650 | Kristi Johnson |
 | 95 | 648 | Evie Khalil |
