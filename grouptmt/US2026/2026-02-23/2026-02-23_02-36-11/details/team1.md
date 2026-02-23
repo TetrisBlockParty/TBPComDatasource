@@ -59,8 +59,8 @@
 | 51 | 829 | Sevens4L |
 | 52 | 812 | Patrick Luckenbill |
 | 53 | 797 | Lawrence Belanger |
-| 54 | 783 | TSwag |
-| 55 | 783 | Redlicious 1 |
+| 54 | 783 | Redlicious 1 |
+| 55 | 783 | TSwag |
 | 56 | 779 | Andrea Dañielle Ortiz |
 | 57 | 772 | Tinah Montanna |
 | 58 | 770 | Zappy Curvetile |
@@ -142,8 +142,8 @@
 | 134 | 386 | Ty Brown |
 | 135 | 383 | pjbeta |
 | 136 | 381 | Fmp |
-| 137 | 379 | Austin James |
-| 138 | 379 | Kimmie Kimms |
+| 137 | 379 | Kimmie Kimms |
+| 138 | 379 | Austin James |
 | 139 | 376 | Brian Richardsson |
 | 140 | 375 | Tanya Carpenter-Reynolds |
 | 141 | 375 | Monica Donato |

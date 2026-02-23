@@ -153,8 +153,8 @@
 | 145 | 590 | Santeria Trece Candles |
 | 146 | 589 | Logan Naccarato |
 | 147 | 588 | Justin Ritter |
-| 148 | 585 | Happy Tetriblast |
-| 149 | 585 | Annie Marie |
+| 148 | 585 | Annie Marie |
+| 149 | 585 | Happy Tetriblast |
 | 150 | 582 | Natasha Jones |
 | 151 | 579 | Tasha Gillespie |
 | 152 | 574 | Domo Washington |

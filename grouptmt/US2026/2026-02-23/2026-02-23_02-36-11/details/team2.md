@@ -40,8 +40,8 @@
 | 32 | 4199 | Claire Noland |
 | 33 | 4180 | Robert Diddle |
 | 34 | 4128 | Angela Pruitt |
-| 35 | 4120 | Corrine Hawks Soriano |
-| 36 | 4120 | Kristen Sceurman |
+| 35 | 4120 | Kristen Sceurman |
+| 36 | 4120 | Corrine Hawks Soriano |
 | 37 | 4093 | Jill Stroehlein |
 | 38 | 3895 | Nickie Baby |
 | 39 | 3770 | Brittany Alicia |
@@ -98,8 +98,8 @@
 | 90 | 2237 | Jen Tramack |
 | 91 | 2216 | Alicia Parrish |
 | 92 | 2165 | Tj Ball |
-| 93 | 2148 | Roger Grabbit |
-| 94 | 2148 | ShinyRose |
+| 93 | 2148 | ShinyRose |
+| 94 | 2148 | Roger Grabbit |
 | 95 | 2146 | KellyDyan |
 | 96 | 2106 | Cool Rollpiece |
 | 97 | 2103 | Alisha Peoples |
@@ -205,8 +205,8 @@
 | 197 | 1244 | Teddi Notyalc |
 | 198 | 1243 | Anna Edwards |
 | 199 | 1237 | Megan Ferguson Leone |
-| 200 | 1232 | Groovy Puzzle |
-| 201 | 1232 | Ambyre Patterson |
+| 200 | 1232 | Ambyre Patterson |
+| 201 | 1232 | Groovy Puzzle |
 | 202 | 1230 | Megan Garrick |
 | 203 | 1217 | Lucky Ladybug |
 | 204 | 1207 | David Cudicio-Hayden |
@@ -216,8 +216,8 @@
 | 208 | 1188 | Tralonda Weeks |
 | 209 | 1183 | Poppy Snap |
 | 210 | 1174 | Jennifer Casey-Kay |
-| 211 | 1169 | Steven Marshaun |
-| 212 | 1169 | Pacynthia Williams |
+| 211 | 1169 | Pacynthia Williams |
+| 212 | 1169 | Steven Marshaun |
 | 213 | 1159 | Carrie Trigg |
 | 214 | 1158 | Brittany Clark |
 | 215 | 1158 | Amy Sayers |
@@ -226,8 +226,8 @@
 | 218 | 1140 | Sarah Ridenour |
 | 219 | 1135 | Samantha Roberts |
 | 220 | 1131 | Prado |
-| 221 | 1127 | Dee |
-| 222 | 1127 | Catina Hutchison |
+| 221 | 1127 | Catina Hutchison |
+| 222 | 1127 | Dee |
 | 223 | 1126 | Dolores Russworn |
 | 224 | 1121 | Tommy Tha Boss Gunz |
 | 225 | 1120 | Sarah Freitas |
@@ -278,8 +278,8 @@
 | 270 | 985 | Keri Womack |
 | 271 | 984 | Crystal Hoffman |
 | 272 | 982 | Porsche' Nicole |
-| 273 | 979 | Melissa Penelope Ann Dodge |
-| 274 | 979 | Hillary Crawford |
+| 273 | 979 | Hillary Crawford |
+| 274 | 979 | Melissa Penelope Ann Dodge |
 | 275 | 977 | Osun Anuket Esu |
 | 276 | 976 | Sam Joe |
 | 277 | 972 | Della Hole |

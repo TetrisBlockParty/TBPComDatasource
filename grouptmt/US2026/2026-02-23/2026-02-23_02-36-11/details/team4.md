@@ -55,8 +55,8 @@
 | 47 | 911 | Jeremy Steines |
 | 48 | 855 | Marvin Lou Martin |
 | 49 | 853 | TeeJ |
-| 50 | 846 | Christine Marie |
-| 51 | 846 | Lucille Truesdale |
+| 50 | 846 | Lucille Truesdale |
+| 51 | 846 | Christine Marie |
 | 52 | 845 | LisaJo Picken Buchanan |
 | 53 | 843 | Shelly Chandler |
 | 54 | 841 | Anthony Bryan Riva |
@@ -130,8 +130,8 @@
 | 122 | 471 | Chastity Mitchell |
 | 123 | 458 | Twisty Clicky |
 | 124 | 452 | Jolly Dashfit |
-| 125 | 451 | Peachy Fall |
-| 126 | 451 | Angela Srubar-Norman |
+| 125 | 451 | Angela Srubar-Norman |
+| 126 | 451 | Peachy Fall |
 | 127 | 448 | Kristin Manee |
 | 128 | 435 | Leslie Thomas |
 | 129 | 431 | Courtney Cicoria |
@@ -156,11 +156,11 @@
 | 148 | 391 | Livvy |
 | 149 | 391 | Ramel Rhodes |
 | 150 | 389 | Joseph Guthrie |
-| 151 | 387 | Lucas J Sutton |
-| 152 | 387 | 🥔🥔 Spudz |
+| 151 | 387 | 🥔🥔 Spudz |
+| 152 | 387 | Lucas J Sutton |
 | 153 | 377 | Carrie Brian |
-| 154 | 375 | Desi Desporte |
-| 155 | 375 | ThaEviLJeNiuZ |
+| 154 | 375 | ThaEviLJeNiuZ |
+| 155 | 375 | Desi Desporte |
 | 156 | 374 | Guy Incognito |
 | 157 | 373 | Tyler Terrific |
 | 158 | 370 | Oscar Alberto Perez |
@@ -223,8 +223,8 @@
 | 215 | 281 | Kim Klutz Olson |
 | 216 | 279 | Adam Stephanie Parker |
 | 217 | 277 | Zesty Twistbuilder |
-| 218 | 276 | Matt Dell'Olio |
-| 219 | 276 | Joeliecea Cobb |
+| 218 | 276 | Joeliecea Cobb |
+| 219 | 276 | Matt Dell'Olio |
 | 220 | 273 | Casey Grabner |
 | 221 | 272 | Alan George LaRage |
 | 222 | 272 | Dennis Bradley |
@@ -256,10 +256,10 @@
 | 248 | 241 | Antony Dwayne Beasley |
 | 249 | 241 | Allen Lloyd |
 | 250 | 240 | Lori |
-| 251 | 240 | Kim Hunt |
-| 252 | 240 | Perky Patternblock |
-| 253 | 238 | Chaz |
-| 254 | 238 | 中山成巳 |
+| 251 | 240 | Perky Patternblock |
+| 252 | 240 | Kim Hunt |
+| 253 | 238 | 中山成巳 |
+| 254 | 238 | Chaz |
 | 255 | 237 | Christine Therrien |
 | 256 | 237 | 030Synner |
 | 257 | 236 | Degenerate |
