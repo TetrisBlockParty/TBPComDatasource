@@ -26,8 +26,8 @@
 | 18 | 1636 | Cassie Michaux |
 | 19 | 1565 | GreenJeepGirl |
 | 20 | 1558 | Leah Gorsuch |
-| 21 | 1536 | Misty Hollibaugh |
-| 22 | 1536 | Roger Coulter |
+| 21 | 1536 | Roger Coulter |
+| 22 | 1536 | Misty Hollibaugh |
 | 23 | 1485 | Juggalo |
 | 24 | 1390 | Sammy Noguera |
 | 25 | 1382 | Tammi Crnza |
@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Kimyatta Cavin |
-| 84 | 684 | Jonathan Kimbrough |
+| 83 | 684 | Jonathan Kimbrough |
+| 84 | 684 | Kimyatta Cavin |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | Shauna Havard |
-| 93 | 647 | KM8 |
+| 92 | 647 | KM8 |
+| 93 | 647 | Shauna Havard |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -157,8 +157,8 @@
 | 149 | 418 | Lush Linkfall |
 | 150 | 417 | Steph Marie |
 | 151 | 416 | Chaz Duncan |
-| 152 | 414 | Nope Young |
-| 153 | 414 | Swanky Fitline |
+| 152 | 414 | Swanky Fitline |
+| 153 | 414 | Nope Young |
 | 154 | 413 | Circuit8 |
 | 155 | 412 | Jessica Bohlken |
 | 156 | 408 | Amanda Pauldo-Ivy |
@@ -167,8 +167,8 @@
 | 159 | 403 | Keith Kelley |
 | 160 | 402 | Lucas J Sutton |
 | 161 | 398 | Tyler Terrific |
-| 162 | 393 | Girl |
-| 163 | 393 | Carlton Unfiltered |
+| 162 | 393 | Carlton Unfiltered |
+| 163 | 393 | Girl |
 | 164 | 392 | Nick Gray |
 | 165 | 391 | Ramel Rhodes |
 | 166 | 389 | Joseph Guthrie |
@@ -196,8 +196,8 @@
 | 188 | 349 | Rafael Valentin |
 | 189 | 348 | April Rondinone |
 | 190 | 348 | David Lay |
-| 191 | 347 | Crystal Nicolette Moore |
-| 192 | 347 | Daria Rycewicz |
+| 191 | 347 | Daria Rycewicz |
+| 192 | 347 | Crystal Nicolette Moore |
 | 193 | 346 | shark tato |
 | 194 | 337 | Sam Bishop |
 | 195 | 336 | JPW |
@@ -208,8 +208,8 @@
 | 200 | 330 | blockstar |
 | 201 | 328 | scott |
 | 202 | 327 | J-Rizzle |
-| 203 | 324 | jim |
-| 204 | 324 | TinyLegoRose |
+| 203 | 324 | TinyLegoRose |
+| 204 | 324 | jim |
 | 205 | 321 | Meagan Nicole |
 | 206 | 320 | Lauren Scott |
 | 207 | 319 | Googenheim |
@@ -232,8 +232,8 @@
 | 224 | 294 | Porkobello |
 | 225 | 292 | Epic Curvetile |
 | 226 | 291 | Nikki Rae Gordon |
-| 227 | 290 | Rebecca Morris |
-| 228 | 290 | Plucky Patternblock |
+| 227 | 290 | Plucky Patternblock |
+| 228 | 290 | Rebecca Morris |
 | 229 | 290 | Jared Gutwein |
 | 230 | 289 | Juls |
 | 231 | 288 | Adam Stephanie Parker |
@@ -267,8 +267,8 @@
 | 259 | 264 | ZeeZee |
 | 260 | 264 | Stella |
 | 261 | 263 | rebel4lyfe |
-| 262 | 262 | Selena Shaw |
-| 263 | 262 | BigSammy420 |
+| 262 | 262 | BigSammy420 |
+| 263 | 262 | Selena Shaw |
 | 264 | 261 | Zethra Prenisha Rahming |
 | 265 | 260 | Lori |
 | 266 | 260 | Carter Jones |
@@ -563,8 +563,8 @@
 | 555 | 129 | Jessica Wells |
 | 556 | 129 | Dreamy Snapgrid |
 | 557 | 128 | Zesty Linkgrid |
-| 558 | 128 | Raymond Roberts |
-| 559 | 128 | Lazy Glidepiece |
+| 558 | 128 | Lazy Glidepiece |
+| 559 | 128 | Raymond Roberts |
 | 560 | 127 | Jay You |
 | 561 | 126 | Spicy Cascadezone |
 | 562 | 126 | PAPatty |

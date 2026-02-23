@@ -308,18 +308,18 @@
 | 300 | 979 | Hillary Crawford |
 | 301 | 979 | Melissa Penelope Ann Dodge |
 | 302 | 978 | April Dawn Gussler |
-| 303 | 976 | Della Hole |
-| 304 | 976 | Sam Joe |
+| 303 | 976 | Sam Joe |
+| 304 | 976 | Della Hole |
 | 305 | 975 | Hyper Cluster |
 | 306 | 972 | Barbra Miller |
 | 307 | 972 | Binyah-Binyah |
 | 308 | 971 | Jojo Momma |
-| 309 | 969 | Em Chen |
-| 310 | 969 | Boldy Cascadepiece |
+| 309 | 969 | Boldy Cascadepiece |
+| 310 | 969 | Em Chen |
 | 311 | 961 | Angela Lynn |
 | 312 | 959 | Phil J. Grombliniak |
-| 313 | 958 | Doowop40 |
-| 314 | 958 | Brenda Messer |
+| 313 | 958 | Brenda Messer |
+| 314 | 958 | Doowop40 |
 | 315 | 957 | Block Master |
 | 316 | 955 | Angela Bonquiqui Dinish |
 | 317 | 954 | Melissa McCall |
@@ -616,8 +616,8 @@
 | 608 | 574 | Valerie Brooke Lusk Armstrong |
 | 609 | 573 | Vaniel Glover |
 | 610 | 573 | Mike Aprilliano |
-| 611 | 572 | Rachael Senard |
-| 612 | 572 | Joseph Musick |
+| 611 | 572 | Joseph Musick |
+| 612 | 572 | Rachael Senard |
 | 613 | 572 | Jason H Baker |
 | 614 | 572 | Alexandra Lynn |
 | 615 | 571 | Emily Lyric Converse |
