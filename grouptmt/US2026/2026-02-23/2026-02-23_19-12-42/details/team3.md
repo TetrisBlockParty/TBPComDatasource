@@ -301,8 +301,8 @@
 | 293 | 426 | Gumbo |
 | 294 | 425 | Jennifer Alvey |
 | 295 | 421 | Snazzy Filler |
-| 296 | 420 | Sabrina Hardrick |
-| 297 | 420 | Sarah Moyer |
+| 296 | 420 | Sarah Moyer |
+| 297 | 420 | Sabrina Hardrick |
 | 298 | 417 | Giddy Twistbuilder |
 | 299 | 414 | RickyG |
 | 300 | 412 | Jojo M |
@@ -377,8 +377,8 @@
 | 369 | 345 | victory |
 | 370 | 345 | gremicx |
 | 371 | 344 | Beaudie Stroebel |
-| 372 | 343 | Ashley Rufus Bythcez |
-| 373 | 343 | Donna |
+| 372 | 343 | Donna |
+| 373 | 343 | Ashley Rufus Bythcez |
 | 374 | 342 | 4girls |
 | 375 | 342 | Cynthia Herrmann Egland |
 | 376 | 341 | Rick Poppen |
@@ -645,8 +645,8 @@
 | 637 | 219 | Viking |
 | 638 | 218 | Brian Quigley |
 | 639 | 218 | Dapper Chiseler |
-| 640 | 217 | Jazzy Spinfit |
-| 641 | 217 | Alexi Pryor |
+| 640 | 217 | Alexi Pryor |
+| 641 | 217 | Jazzy Spinfit |
 | 642 | 217 | Maria Ramos |
 | 643 | 217 | Jumpy Wrecker |
 | 644 | 216 | Michael Pleasant |

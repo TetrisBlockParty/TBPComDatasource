@@ -84,8 +84,8 @@
 | 76 | 3166 | Izabel Herrera |
 | 77 | 3099 | Charie Holland |
 | 78 | 2901 | RdRydnHd |
-| 79 | 2880 | Kimberly Schall |
-| 80 | 2880 | Aimee Byrom |
+| 79 | 2880 | Aimee Byrom |
+| 80 | 2880 | Kimberly Schall |
 | 81 | 2870 | Eckoman518 |
 | 82 | 2859 | Jose Vega |
 | 83 | 2846 | Veronica Porter |
@@ -208,8 +208,8 @@
 | 200 | 1534 | Rosa Franklin |
 | 201 | 1529 | Howard Forest |
 | 202 | 1511 | Melissa Penelope Ann Dodge |
-| 203 | 1509 | Glitzy Stackzone |
-| 204 | 1509 | Whitney Nicole Waterman |
+| 203 | 1509 | Whitney Nicole Waterman |
+| 204 | 1509 | Glitzy Stackzone |
 | 205 | 1507 | Kiok |
 | 206 | 1504 | Hannah Erskine |
 | 207 | 1488 | Sommer Shope |

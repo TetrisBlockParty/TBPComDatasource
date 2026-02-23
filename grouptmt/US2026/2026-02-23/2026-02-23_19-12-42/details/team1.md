@@ -376,7 +376,7 @@
 | 368 | 251 | ParisandCory Champagne |
 | 369 | 251 | MRdot Rooski |
 | 370 | 251 | Norma Paredez |
-| 371 | 251 | MRdot Rooski |
+| 371 | 251 | Randy Broadwater |
 | 372 | 250 | BigWeenie69 |
 | 373 | 249 | Jeremy Maubert |
 | 374 | 248 | Christina Backer |
