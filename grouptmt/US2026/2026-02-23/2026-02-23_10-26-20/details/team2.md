@@ -223,8 +223,8 @@
 | 215 | 1259 | Foxxo |
 | 216 | 1258 | Snappy Matchbuilder |
 | 217 | 1252 | Angel |
-| 218 | 1245 | Cody Nishimura |
-| 219 | 1245 | Missie Lawson Gebhardt |
+| 218 | 1245 | Missie Lawson Gebhardt |
+| 219 | 1245 | Cody Nishimura |
 | 220 | 1240 | Brandon Armstrong |
 | 221 | 1237 | Megan Ferguson Leone |
 | 222 | 1232 | Groovy Puzzle |
@@ -273,12 +273,12 @@
 | 265 | 1093 | Real Ri |
 | 266 | 1088 | Brainy Smurf |
 | 267 | 1080 | Tyler C. Jung |
-| 268 | 1079 | Jennifer Kistner |
-| 269 | 1079 | Kimberly Hauck-Rausch |
+| 268 | 1079 | Kimberly Hauck-Rausch |
+| 269 | 1079 | Jennifer Kistner |
 | 270 | 1073 | Jodi Blake |
 | 271 | 1071 | Kim Dean |
-| 272 | 1069 | Carl Bradshaw |
-| 273 | 1069 | Offonar Facey |
+| 272 | 1069 | Offonar Facey |
+| 273 | 1069 | Carl Bradshaw |
 | 274 | 1064 | BK Queen |
 | 275 | 1063 | Caitlin Schmid |
 | 276 | 1058 | Rickey Johnson |
@@ -410,14 +410,14 @@
 | 402 | 799 | Ronnie Nelson |
 | 403 | 796 | AndrewandShela Gornik |
 | 404 | 796 | Amber Gray |
-| 405 | 793 | Heather Schelkopf |
-| 406 | 793 | Jaycee |
+| 405 | 793 | Jaycee |
+| 406 | 793 | Heather Schelkopf |
 | 407 | 790 | Brenda Pierpoint |
 | 408 | 788 | Erika Densmore |
 | 409 | 787 | Tiara Elizabeth Baker |
 | 410 | 783 | John Rodriguez |
-| 411 | 777 | Tesha Oldaker |
-| 412 | 777 | Jessicah Myers |
+| 411 | 777 | Jessicah Myers |
+| 412 | 777 | Tesha Oldaker |
 | 413 | 776 | Fancy Twister |
 | 414 | 776 | Mighty Spinbuilder |
 | 415 | 775 | Crystie Hicks |
@@ -448,8 +448,8 @@
 | 440 | 751 | Caitlyn Blackwell |
 | 441 | 750 | Draizen Montrell Thomas |
 | 442 | 748 | Spunkysmom |
-| 443 | 748 | Brenda Utphall |
-| 444 | 748 | Ann Matzkanin |
+| 443 | 748 | Ann Matzkanin |
+| 444 | 748 | Brenda Utphall |
 | 445 | 746 | Leslie Ann Carter |
 | 446 | 742 | tejas25 |
 | 447 | 741 | Jánine Riggs |
@@ -457,8 +457,8 @@
 | 449 | 737 | Ginger |
 | 450 | 737 | Chelle |
 | 451 | 732 | Victoria Moore-Smith |
-| 452 | 731 | Matthew Joseph Acevedo |
-| 453 | 731 | Charvi' Carter |
+| 452 | 731 | Charvi' Carter |
+| 453 | 731 | Matthew Joseph Acevedo |
 | 454 | 730 | Hoppy Brickmatch |
 | 455 | 729 | goofinoff |
 | 456 | 728 | Mikayala Szaz |
@@ -466,8 +466,8 @@
 | 458 | 728 | Tom Riefer |
 | 459 | 726 | Crystal Greene |
 | 460 | 725 | Ashle Scranton |
-| 461 | 725 | Vonceial Boone |
-| 462 | 725 | Karen Snyder Schrage |
+| 461 | 725 | Karen Snyder Schrage |
+| 462 | 725 | Vonceial Boone |
 | 463 | 724 | Melissa Holsinger |
 | 464 | 720 | BeQuo |
 | 465 | 720 | Giggy Mover |
@@ -624,8 +624,8 @@
 | 616 | 574 | Valerie Brooke Lusk Armstrong |
 | 617 | 573 | Vaniel Glover |
 | 618 | 573 | Mike Aprilliano |
-| 619 | 572 | Joseph Musick |
-| 620 | 572 | Rachael Senard |
+| 619 | 572 | Rachael Senard |
+| 620 | 572 | Joseph Musick |
 | 621 | 572 | Jason H Baker |
 | 622 | 572 | Alexandra Lynn |
 | 623 | 571 | Emily Lyric Converse |
@@ -805,8 +805,8 @@
 | 797 | 461 | Amanda Segura |
 | 798 | 461 | Julie Hamilton |
 | 799 | 461 | Alexis Richardson |
-| 800 | 461 | Kristen O'Neal |
-| 801 | 461 | Amanda West |
+| 800 | 461 | Amanda West |
+| 801 | 461 | Kristen O'Neal |
 | 802 | 460 | LaWanda Powell |
 | 803 | 459 | Boozi |
 | 804 | 459 | Linda Miltenburg |
@@ -820,15 +820,15 @@
 | 812 | 455 | Darlene Bowman |
 | 813 | 453 | Polly Pritchard Chesler |
 | 814 | 453 | Epic Stackzone |
-| 815 | 452 | Ashley Taylor |
-| 816 | 452 | Cranky Tower |
+| 815 | 452 | Cranky Tower |
+| 816 | 452 | Ashley Taylor |
 | 817 | 452 | Tipsy Filler |
 | 818 | 451 | Sharon Mills |
-| 819 | 451 | Giggly Snap |
-| 820 | 451 | Stefanie Zonzini-Gagliardi |
+| 819 | 451 | Stefanie Zonzini-Gagliardi |
+| 820 | 451 | Giggly Snap |
 | 821 | 450 | sup |
-| 822 | 449 | Heather Sawtelle-Mckenzie |
-| 823 | 449 | Jas |
+| 822 | 449 | Jas |
+| 823 | 449 | Heather Sawtelle-Mckenzie |
 | 824 | 449 | Kristi Biddinger |
 | 825 | 448 | Anastacio Hernandez |
 | 826 | 448 | Leah LaShomb |
