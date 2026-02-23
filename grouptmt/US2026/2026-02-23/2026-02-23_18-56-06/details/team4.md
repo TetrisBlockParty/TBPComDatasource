@@ -200,10 +200,10 @@
 | 192 | 423 | Crystal Nicolette Moore |
 | 193 | 422 | Zakia Monae |
 | 194 | 421 | JIGsaw ~(•¿°)~ |
-| 195 | 421 | Sam Bishop |
-| 196 | 421 | Kesha Brady |
-| 197 | 418 | Lush Linkfall |
-| 198 | 418 | Marie-Pier Desjardins |
+| 195 | 421 | Kesha Brady |
+| 196 | 421 | Sam Bishop |
+| 197 | 418 | Marie-Pier Desjardins |
+| 198 | 418 | Lush Linkfall |
 | 199 | 415 | Berklie Apedaile |
 | 200 | 413 | John Brunetti |
 | 201 | 413 | Circuit8 |
@@ -213,8 +213,8 @@
 | 205 | 408 | April Rondinone |
 | 206 | 404 | Lori |
 | 207 | 400 | Antony Dwayne Beasley |
-| 208 | 399 | Lindsay Ball |
-| 209 | 399 | Jeff Brian Gates |
+| 208 | 399 | Jeff Brian Gates |
+| 209 | 399 | Lindsay Ball |
 | 210 | 398 | Tyler Terrific |
 | 211 | 394 | Nita Wells |
 | 212 | 392 | Chris Bernstein |
@@ -252,8 +252,8 @@
 | 244 | 354 | TRCuse |
 | 245 | 348 | David Lay |
 | 246 | 347 | Gdiguy |
-| 247 | 347 | Daria Rycewicz |
-| 248 | 347 | Bio Nelly |
+| 247 | 347 | Bio Nelly |
+| 248 | 347 | Daria Rycewicz |
 | 249 | 347 | scott |
 | 250 | 345 | Cheery Risebuilder |
 | 251 | 343 | HastyGrabber |
@@ -366,9 +366,9 @@
 | 358 | 249 | Ak Jones |
 | 359 | 248 | Chirpy Basepiece |
 | 360 | 248 | Jose Dejesus |
-| 361 | 246 | Duck |
-| 362 | 246 | Jason Bosco |
-| 363 | 246 | giantslover514 |
+| 361 | 246 | giantslover514 |
+| 362 | 246 | Duck |
+| 363 | 246 | Jason Bosco |
 | 364 | 245 | Jen Mattei |
 | 365 | 244 | Elizabeth Tinoco |
 | 366 | 244 | Perky Piecegrid |

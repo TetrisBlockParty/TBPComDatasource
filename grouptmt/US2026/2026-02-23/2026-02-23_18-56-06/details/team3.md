@@ -228,8 +228,8 @@
 | 220 | 549 | Sarah Cowan Burgos |
 | 221 | 548 | Danielle Balcom |
 | 222 | 547 | Staci George Fitzsimmons |
-| 223 | 546 | Mykal Burton |
-| 224 | 546 | Cynthia Castros-Hampton |
+| 223 | 546 | Cynthia Castros-Hampton |
+| 224 | 546 | Mykal Burton |
 | 225 | 545 | Trisha Balmer |
 | 226 | 541 | Fran Lin |
 | 227 | 539 | Betty Bóò |
@@ -280,8 +280,8 @@
 | 272 | 449 | Cyd061769 |
 | 273 | 449 | Mcathen |
 | 274 | 448 | Scott Carleton |
-| 275 | 443 | Fancy Curver |
-| 276 | 443 | Stefanie LaPointe |
+| 275 | 443 | Stefanie LaPointe |
+| 276 | 443 | Fancy Curver |
 | 277 | 443 | Randy Clevenger |
 | 278 | 437 | Loopy Clusterer |
 | 279 | 437 | Charles Perrone |
@@ -357,25 +357,25 @@
 | 349 | 362 | Chummy Rumbler |
 | 350 | 362 | Brandon Givens |
 | 351 | 361 | neci |
-| 352 | 359 | Steven Fulater |
-| 353 | 359 | Kristen Weese |
+| 352 | 359 | Kristen Weese |
+| 353 | 359 | Steven Fulater |
 | 354 | 358 | Heather Davis |
 | 355 | 356 | Tony Waters |
 | 356 | 356 | Ashley Lynn Marchese |
 | 357 | 355 | Dana Fox |
 | 358 | 354 | TotoCherue |
 | 359 | 353 | Dee Franklin |
-| 360 | 352 | Nikki Pags |
-| 361 | 352 | Tiffany Davie |
+| 360 | 352 | Tiffany Davie |
+| 361 | 352 | Nikki Pags |
 | 362 | 352 | LadyTorad |
 | 363 | 351 | Blocked |
 | 364 | 351 | Eon Harris |
 | 365 | 349 | Num1hater |
-| 366 | 348 | Kelly Wolf |
-| 367 | 348 | Ashley Raines |
+| 366 | 348 | Ashley Raines |
+| 367 | 348 | Kelly Wolf |
 | 368 | 346 | AlsoJess |
-| 369 | 345 | victory |
-| 370 | 345 | gremicx |
+| 369 | 345 | gremicx |
+| 370 | 345 | victory |
 | 371 | 344 | Beaudie Stroebel |
 | 372 | 343 | Ashley Rufus Bythcez |
 | 373 | 343 | Donna |
@@ -428,10 +428,10 @@
 | 420 | 309 | Block Baddie |
 | 421 | 309 | Cheeky Snapper |
 | 422 | 308 | Katrina Turner |
-| 423 | 308 | Rainbow77375 |
-| 424 | 308 | Beejangles |
-| 425 | 307 | Kristian Thurman |
-| 426 | 307 | Kristina Gardner |
+| 423 | 308 | Beejangles |
+| 424 | 308 | Rainbow77375 |
+| 425 | 307 | Kristina Gardner |
+| 426 | 307 | Kristian Thurman |
 | 427 | 306 | Jackie Miller |
 | 428 | 305 | Jack Bo |
 | 429 | 304 | _melisa223_ |

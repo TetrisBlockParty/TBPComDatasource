@@ -201,8 +201,8 @@
 | 193 | 1567 | Juliana Marques Do Nascimento Gordy |
 | 194 | 1565 | Nancy Reid |
 | 195 | 1562 | Tony Lea |
-| 196 | 1558 | Tim Dyer |
-| 197 | 1558 | Crystal Slaughter |
+| 196 | 1558 | Crystal Slaughter |
+| 197 | 1558 | Tim Dyer |
 | 198 | 1552 | Cheeky Balancepiece |
 | 199 | 1534 | Rosa Franklin |
 | 200 | 1514 | Howard Forest |
@@ -349,8 +349,8 @@
 | 341 | 1041 | Binyah-Binyah |
 | 342 | 1040 | Taylor Phillips |
 | 343 | 1037 | Jessica Wayne Cornwall |
-| 344 | 1036 | Allison Lockyer |
-| 345 | 1036 | Amber Shoemaker |
+| 344 | 1036 | Amber Shoemaker |
+| 345 | 1036 | Allison Lockyer |
 | 346 | 1031 | Barbra Miller |
 | 347 | 1029 | Crystal Hoffman |
 | 348 | 1024 | Susan Perraut Jones |
@@ -373,15 +373,15 @@
 | 365 | 976 | Sam Joe |
 | 366 | 975 | Hyper Cluster |
 | 367 | 975 | Mandi Douglas Hilt |
-| 368 | 974 | Crystie Hicks |
-| 369 | 974 | Boldy Cascadepiece |
+| 368 | 974 | Boldy Cascadepiece |
+| 369 | 974 | Crystie Hicks |
 | 370 | 971 | Jojo Momma |
 | 371 | 971 | Tiara Elizabeth Baker |
 | 372 | 969 | Cheech Dta |
 | 373 | 963 | Kathryn Townsley |
 | 374 | 962 | Antionette Sewell |
-| 375 | 958 | Doowop40 |
-| 376 | 958 | Brenda Messer |
+| 375 | 958 | Brenda Messer |
+| 376 | 958 | Doowop40 |
 | 377 | 957 | Block Master |
 | 378 | 955 | Amanda Woodruff |
 | 379 | 951 | Cynthia Ward |
@@ -565,13 +565,13 @@
 | 557 | 706 | Aleksandr Gershman |
 | 558 | 705 | Lonne Emade |
 | 559 | 704 | Tansaria Couch-Butler |
-| 560 | 703 | Funky Drop |
-| 561 | 703 | Dannette Goldberg-Richards |
+| 560 | 703 | Dannette Goldberg-Richards |
+| 561 | 703 | Funky Drop |
 | 562 | 701 | Aishah Brice |
 | 563 | 700 | Vincent Petrella |
 | 564 | 700 | Beverly Owens |
-| 565 | 699 | Frothy Rumbler |
-| 566 | 699 | Brenna Ann |
+| 565 | 699 | Brenna Ann |
+| 566 | 699 | Frothy Rumbler |
 | 567 | 698 | Shannon Jackson |
 | 568 | 692 | Bubbly Snapbuild |
 | 569 | 691 | Arwa Fatimah |
