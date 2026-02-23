@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | KM8 |
-| 93 | 647 | Shauna Havard |
+| 92 | 647 | Shauna Havard |
+| 93 | 647 | KM8 |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -153,8 +153,8 @@
 | 145 | 422 | Zakia Monae |
 | 146 | 421 | JIGsaw ~(•¿°)~ |
 | 147 | 421 | Kesha Brady |
-| 148 | 418 | Lush Linkfall |
-| 149 | 418 | Marie-Pier Desjardins |
+| 148 | 418 | Marie-Pier Desjardins |
+| 149 | 418 | Lush Linkfall |
 | 150 | 416 | Chaz Duncan |
 | 151 | 414 | Nope Young |
 | 152 | 414 | Swanky Fitline |
@@ -363,8 +363,8 @@
 | 355 | 194 | SammieJo Guy |
 | 356 | 192 | Twisty Risebuilder |
 | 357 | 192 | Meg |
-| 358 | 191 | Riverdale |
-| 359 | 191 | Earnest Thompson |
+| 358 | 191 | Earnest Thompson |
+| 359 | 191 | Riverdale |
 | 360 | 191 | Norman Klick |
 | 361 | 190 | Hyper Builder |
 | 362 | 190 | wombat |
@@ -556,8 +556,8 @@
 | 548 | 129 | Dreamy Snapgrid |
 | 549 | 129 | The Murphy |
 | 550 | 128 | Zesty Linkgrid |
-| 551 | 128 | Lazy Glidepiece |
-| 552 | 128 | Raymond Roberts |
+| 551 | 128 | Raymond Roberts |
+| 552 | 128 | Lazy Glidepiece |
 | 553 | 127 | Jay You |
 | 554 | 126 | Spicy Cascadezone |
 | 555 | 126 | PAPatty |

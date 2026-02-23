@@ -744,8 +744,8 @@
 | 736 | 482 | Amélie Cadieux |
 | 737 | 481 | Lucy Marshall |
 | 738 | 481 | Brittany Chapman |
-| 739 | 480 | Jennifer Leigh |
-| 740 | 480 | Dar |
+| 739 | 480 | Dar |
+| 740 | 480 | Jennifer Leigh |
 | 741 | 479 | bbv |
 | 742 | 479 | Ashlee Cruz |
 | 743 | 479 | Emilie Desma |
@@ -766,8 +766,8 @@
 | 758 | 472 | Connie Lepore-Mann |
 | 759 | 471 | Charming Leech |
 | 760 | 470 | Katie Marie |
-| 761 | 470 | Amanda Chamberlain |
-| 762 | 470 | ToShi |
+| 761 | 470 | ToShi |
+| 762 | 470 | Amanda Chamberlain |
 | 763 | 469 | Christy Long |
 | 764 | 468 | Niceday |
 | 765 | 468 | Brenda Annabel Smith |
@@ -784,8 +784,8 @@
 | 776 | 462 | Samantha Scibelli |
 | 777 | 461 | Julie Hamilton |
 | 778 | 461 | Amanda Segura |
-| 779 | 461 | Amanda West |
-| 780 | 461 | Kristen O'Neal |
+| 779 | 461 | Kristen O'Neal |
+| 780 | 461 | Amanda West |
 | 781 | 461 | Alexis Richardson |
 | 782 | 460 | LaWanda Powell |
 | 783 | 459 | Sonya Back |
@@ -805,8 +805,8 @@
 | 797 | 451 | Stefanie Zonzini-Gagliardi |
 | 798 | 451 | Giggly Snap |
 | 799 | 450 | sup |
-| 800 | 449 | Heather Sawtelle-Mckenzie |
-| 801 | 449 | Jas |
+| 800 | 449 | Jas |
+| 801 | 449 | Heather Sawtelle-Mckenzie |
 | 802 | 449 | Kristi Biddinger |
 | 803 | 448 | Anastacio Hernandez |
 | 804 | 448 | Darlene Bowman |
@@ -814,8 +814,8 @@
 | 806 | 447 | Boozi |
 | 807 | 446 | Colin Morgan |
 | 808 | 446 | Courtney Burcham |
-| 809 | 445 | Mar Q Thomas |
-| 810 | 445 | Beatboxxer |
+| 809 | 445 | Beatboxxer |
+| 810 | 445 | Mar Q Thomas |
 | 811 | 444 | Angela Murgia-Owen |
 | 812 | 443 | Giggy Grabber |
 | 813 | 443 | N00D3S |
