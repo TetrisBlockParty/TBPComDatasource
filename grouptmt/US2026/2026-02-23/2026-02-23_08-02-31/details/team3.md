@@ -196,8 +196,8 @@
 | 188 | 546 | Tasha Schriewer |
 | 189 | 546 | Mykal Burton |
 | 190 | 540 | Shawn Miller |
-| 191 | 531 | Sarah Cowan Burgos |
-| 192 | 531 | Chauntee Alfrey-Cardinale |
+| 191 | 531 | Chauntee Alfrey-Cardinale |
+| 192 | 531 | Sarah Cowan Burgos |
 | 193 | 528 | Silly Twist |
 | 194 | 525 | Stephanie Blkpep Davidson |
 | 195 | 524 | Bmo |
@@ -214,8 +214,8 @@
 | 206 | 488 | Melissa Orth Hunter |
 | 207 | 485 | Dapper Snap |
 | 208 | 484 | Fallorina Susana |
-| 209 | 480 | Danielle Allison |
-| 210 | 480 | Michael Johnson |
+| 209 | 480 | Michael Johnson |
+| 210 | 480 | Danielle Allison |
 | 211 | 477 | Edwin Calvillo Jr. |
 | 212 | 475 | Tessina Dewey-Mancino |
 | 213 | 473 | Connie Mohler-Fair |
@@ -288,8 +288,8 @@
 | 280 | 353 | Cyd061769 |
 | 281 | 353 | Dee Franklin |
 | 282 | 352 | Christian Werndl |
-| 283 | 351 | Eon Harris |
-| 284 | 351 | Blocked |
+| 283 | 351 | Blocked |
+| 284 | 351 | Eon Harris |
 | 285 | 350 | LaShey Thompson |
 | 286 | 349 | Amanda J. Mcneil-Anderson |
 | 287 | 348 | Ashley Raines |
@@ -367,8 +367,8 @@
 | 359 | 280 | ROODBOY |
 | 360 | 280 | Aerian Preston |
 | 361 | 280 | Dirtgirl27 |
-| 362 | 279 | Tosha Griffey |
-| 363 | 279 | Naur |
+| 362 | 279 | Naur |
+| 363 | 279 | Tosha Griffey |
 | 364 | 278 | Rufus Lincoln |
 | 365 | 277 | Krystal Gerstberger |
 | 366 | 277 | Joe-Maggie Mathews |
@@ -489,9 +489,9 @@
 | 481 | 221 | Vaners |
 | 482 | 221 | Glitzy Rotate |
 | 483 | 220 | Bhreagh Gentile |
-| 484 | 219 | TLM |
-| 485 | 219 | Angel Miller |
-| 486 | 219 | Trice Thomas |
+| 484 | 219 | Angel Miller |
+| 485 | 219 | Trice Thomas |
+| 486 | 219 | TLM |
 | 487 | 218 | Sabrina Mansfield |
 | 488 | 218 | Dapper Chiseler |
 | 489 | 218 | Tina Smith Roy |
@@ -504,7 +504,7 @@
 | 496 | 213 | Flashy Rumbler |
 | 497 | 213 | Linda Draper |
 | 498 | 213 | Ktfreeee |
-| 499 | 212 | Frilly Stackzone |
+| 499 | 212 | Boldy Blocker |
 | 500 | 212 | neci |
 | 501 | 212 | Frilly Stackzone |
 | 502 | 212 | Beth Ingham |
@@ -517,15 +517,15 @@
 | 509 | 209 | Jumpy Wrecker |
 | 510 | 208 | Jessica Christian |
 | 511 | 208 | Luccy Luxe |
-| 512 | 207 | Nichol Graham |
-| 513 | 207 | Misstery |
+| 512 | 207 | Misstery |
+| 513 | 207 | Nichol Graham |
 | 514 | 206 | Tammy Rosenberry |
 | 515 | 206 | Dakota Graham |
-| 516 | 205 | Rachel Napper |
-| 517 | 205 | Emberblaze |
+| 516 | 205 | Emberblaze |
+| 517 | 205 | Rachel Napper |
 | 518 | 205 | Bouncy Blockbuilder |
-| 519 | 204 | Daisy Rocha |
-| 520 | 204 | Sassy Brickmatch |
+| 519 | 204 | Sassy Brickmatch |
+| 520 | 204 | Daisy Rocha |
 | 521 | 204 | Lesley Perez |
 | 522 | 203 | Sdot |
 | 523 | 203 | Irene Arreguin |

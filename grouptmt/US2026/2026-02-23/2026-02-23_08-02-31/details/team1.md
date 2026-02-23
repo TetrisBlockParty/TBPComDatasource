@@ -125,8 +125,8 @@
 | 117 | 452 | Hyper |
 | 118 | 451 | Plucky Ziggy |
 | 119 | 450 | lil mickey |
-| 120 | 448 | Jazzy Framezone |
-| 121 | 448 | Sweet Baker |
+| 120 | 448 | Sweet Baker |
+| 121 | 448 | Jazzy Framezone |
 | 122 | 446 | SkipTheSadSauce |
 | 123 | 443 | Steve Schneider |
 | 124 | 439 | Dee Perry |
@@ -209,8 +209,8 @@
 | 201 | 317 | Kimberly Garcia |
 | 202 | 316 | Reesey Enyart |
 | 203 | 315 | Danielle Little-Daugherty |
-| 204 | 314 | Tana |
-| 205 | 314 | Snippy Wipebuilder |
+| 204 | 314 | Snippy Wipebuilder |
+| 205 | 314 | Tana |
 | 206 | 312 | Jessi Sauer |
 | 207 | 310 | Bloknboy |
 | 208 | 308 | Speedy Liney |

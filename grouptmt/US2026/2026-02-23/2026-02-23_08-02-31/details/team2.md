@@ -215,14 +215,14 @@
 | 207 | 1286 | Altamirano Michael |
 | 208 | 1282 | Tanya Parsons |
 | 209 | 1259 | Foxxo |
-| 210 | 1258 | Joyce Johnson Vaughn |
-| 211 | 1258 | Snappy Matchbuilder |
+| 210 | 1258 | Snappy Matchbuilder |
+| 211 | 1258 | Joyce Johnson Vaughn |
 | 212 | 1252 | Angel |
 | 213 | 1245 | Cody Nishimura |
 | 214 | 1240 | Brandon Armstrong |
 | 215 | 1237 | Megan Ferguson Leone |
-| 216 | 1232 | Ambyre Patterson |
-| 217 | 1232 | Groovy Puzzle |
+| 216 | 1232 | Groovy Puzzle |
+| 217 | 1232 | Ambyre Patterson |
 | 218 | 1230 | Megan Garrick |
 | 219 | 1221 | Jane Fong |
 | 220 | 1217 | Lucky Ladybug |
@@ -257,8 +257,8 @@
 | 249 | 1126 | Dolores Russworn |
 | 250 | 1121 | Tommy Tha Boss Gunz |
 | 251 | 1121 | Sarah Freitas |
-| 252 | 1114 | Ginnell Browner |
-| 253 | 1114 | Kevin Walp |
+| 252 | 1114 | Kevin Walp |
+| 253 | 1114 | Ginnell Browner |
 | 254 | 1111 | Julay |
 | 255 | 1110 | Robin Kerby |
 | 256 | 1106 | Ibiza Carolina LaRose |
@@ -405,8 +405,8 @@
 | 397 | 788 | Erika Densmore |
 | 398 | 787 | Tiara Elizabeth Baker |
 | 399 | 783 | John Rodriguez |
-| 400 | 777 | Tesha Oldaker |
-| 401 | 777 | Jessicah Myers |
+| 400 | 777 | Jessicah Myers |
+| 401 | 777 | Tesha Oldaker |
 | 402 | 776 | Fancy Twister |
 | 403 | 776 | Mighty Spinbuilder |
 | 404 | 775 | Crystie Hicks |
@@ -459,8 +459,8 @@
 | 451 | 720 | BeQuo |
 | 452 | 720 | Giggy Mover |
 | 453 | 714 | Caitlyn Blackwell |
-| 454 | 713 | Christie |
-| 455 | 713 | Draizen Montrell Thomas |
+| 454 | 713 | Draizen Montrell Thomas |
+| 455 | 713 | Christie |
 | 456 | 712 | Amanda Ferrell |
 | 457 | 711 | Narutofreak13 |
 | 458 | 710 | Mama T |
@@ -833,8 +833,8 @@
 | 825 | 435 | John |
 | 826 | 435 | Taylor Flowers |
 | 827 | 434 | Twisty Tetriblast |
-| 828 | 433 | Melissa Koria |
-| 829 | 433 | Jessica Hughes |
+| 828 | 433 | Jessica Hughes |
+| 829 | 433 | Melissa Koria |
 | 830 | 433 | Marisa Madge |
 | 831 | 432 | Michelle Shrum |
 | 832 | 431 | Quinn |
@@ -867,8 +867,8 @@
 | 859 | 417 | Rebecca Garland |
 | 860 | 417 | Janai Vrabel |
 | 861 | 417 | Mandy Kachenmeister |
-| 862 | 416 | Veronics |
-| 863 | 416 | Alicia Moreno |
+| 862 | 416 | Alicia Moreno |
+| 863 | 416 | Veronics |
 | 864 | 416 | Christine Lockwood |
 | 865 | 415 | Bonita Kee |
 | 866 | 415 | Allyson Marra |
