@@ -26,8 +26,8 @@
 | 18 | 1408 | Mara Hilker |
 | 19 | 1234 | Jennifer Cates |
 | 20 | 1215 | LaQuetta Faith Hines |
-| 21 | 1191 | Roger Aschbrenner |
-| 22 | 1191 | Nerdy Linkblock |
+| 21 | 1191 | Nerdy Linkblock |
+| 22 | 1191 | Roger Aschbrenner |
 | 23 | 1177 | Carolyn Smith |
 | 24 | 1145 | Tyler Alcock |
 | 25 | 1136 | Rahna Underwood |
@@ -181,8 +181,8 @@
 | 173 | 307 | femmefatale |
 | 174 | 306 | Happy Basegrid |
 | 175 | 306 | Bloknboy |
-| 176 | 304 | David Lutcher |
-| 177 | 304 | Nicole Roseberry Weber |
+| 176 | 304 | Nicole Roseberry Weber |
+| 177 | 304 | David Lutcher |
 | 178 | 303 | Letson Melissa |
 | 179 | 302 | Mike Ames |
 | 180 | 301 | Damon J. Martin |
@@ -214,8 +214,8 @@
 | 206 | 267 | Debbie Kane |
 | 207 | 267 | Cody Gates |
 | 208 | 265 | Kandae |
-| 209 | 264 | Jen Nystrom |
-| 210 | 264 | Jenny Gingrich Fuentes |
+| 209 | 264 | Jenny Gingrich Fuentes |
+| 210 | 264 | Jen Nystrom |
 | 211 | 263 | Jessie Lynn |
 | 212 | 260 | Cheeky Pop |
 | 213 | 256 | Standia Civil |
@@ -243,8 +243,8 @@
 | 235 | 238 | Tiffany Smith |
 | 236 | 238 | Sarah Somers Gray |
 | 237 | 235 | Bindi |
-| 238 | 234 | Shanae Grant |
-| 239 | 234 | Paula Martin |
+| 238 | 234 | Paula Martin |
+| 239 | 234 | Shanae Grant |
 | 240 | 233 | LC |
 | 241 | 232 | Erin Rosberg |
 | 242 | 230 | Diane Byrd |
@@ -260,8 +260,8 @@
 | 252 | 223 | Christina Backer |
 | 253 | 223 | Erez Yosef |
 | 254 | 222 | Snappy Bridgepiece |
-| 255 | 222 | Debbie Davis |
-| 256 | 222 | Jessie Welch |
+| 255 | 222 | Jessie Welch |
+| 256 | 222 | Debbie Davis |
 | 257 | 221 | Amy Hess |
 | 258 | 220 | Sarah Marie |
 | 259 | 220 | Cece Ibarra |
@@ -293,8 +293,8 @@
 | 285 | 205 | Tyler L Hunt |
 | 286 | 205 | Jennifer Olewnik Soborowski |
 | 287 | 204 | Chris Sigurdson |
-| 288 | 203 | Andrew Boone |
-| 289 | 203 | Spunky Builderpiece |
+| 288 | 203 | Spunky Builderpiece |
+| 289 | 203 | Andrew Boone |
 | 290 | 202 | Amanda Holibaugh |
 | 291 | 201 | Beau Galvan |
 | 292 | 201 | Colleen Wise |

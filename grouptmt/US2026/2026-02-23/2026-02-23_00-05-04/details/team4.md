@@ -82,8 +82,8 @@
 | 74 | 671 | Kimyatta Cavin |
 | 75 | 664 | Valerie Roberts |
 | 76 | 659 | Jonathan Kimbrough |
-| 77 | 647 | Shauna Havard |
-| 78 | 647 | KM8 |
+| 77 | 647 | KM8 |
+| 78 | 647 | Shauna Havard |
 | 79 | 646 | Jacqueline Helm |
 | 80 | 640 | Lisa Davis |
 | 81 | 626 | Brittney Griggs |
@@ -177,8 +177,8 @@
 | 169 | 316 | Meagan Nicole |
 | 170 | 314 | Andy Cabral |
 | 171 | 311 | A5! |
-| 172 | 307 | Girl |
-| 173 | 307 | Bio Nelly |
+| 172 | 307 | Bio Nelly |
+| 173 | 307 | Girl |
 | 174 | 306 | Lindsey Gonzalez |
 | 175 | 304 | Chaz Duncan |
 | 176 | 303 | shark tato |
@@ -248,8 +248,8 @@
 | 240 | 235 | LaDonna LovinmesomeMe Lambert |
 | 241 | 233 | Ruben Wheeler |
 | 242 | 232 | Rio Rocha |
-| 243 | 230 | blockstar |
-| 244 | 230 | Jade Rian |
+| 243 | 230 | Jade Rian |
+| 244 | 230 | blockstar |
 | 245 | 228 | Antony Dwayne Beasley |
 | 246 | 227 | BigSammy420 |
 | 247 | 226 | Dizzy Matchzone |
@@ -473,8 +473,8 @@
 | 465 | 130 | KoolMom9907 |
 | 466 | 129 | Dreamy Snapgrid |
 | 467 | 129 | Sherri |
-| 468 | 128 | Zesty Linkgrid |
-| 469 | 128 | Lazy Glidepiece |
+| 468 | 128 | Lazy Glidepiece |
+| 469 | 128 | Zesty Linkgrid |
 | 470 | 128 | Raymond Roberts |
 | 471 | 127 | Robert Rodriguez |
 | 472 | 127 | Gdiguy |

@@ -381,8 +381,8 @@
 | 373 | 737 | Jeremy Parodi |
 | 374 | 737 | Ginger |
 | 375 | 734 | Deborah Miller |
-| 376 | 728 | Allan Wayne Lamia |
-| 377 | 728 | Dylan Thomason |
+| 376 | 728 | Dylan Thomason |
+| 377 | 728 | Allan Wayne Lamia |
 | 378 | 728 | Charvi' Carter |
 | 379 | 728 | Tom Riefer |
 | 380 | 725 | Vonceial Boone |
@@ -466,8 +466,8 @@
 | 458 | 613 | Ann Matzkanin |
 | 459 | 612 | Slinky Racker |
 | 460 | 611 | Biggest thing |
-| 461 | 607 | Véronique Lévesque Sabourin |
-| 462 | 607 | Michelle Lee |
+| 461 | 607 | Michelle Lee |
+| 462 | 607 | Véronique Lévesque Sabourin |
 | 463 | 605 | Santana Miyagi |
 | 464 | 603 | Casper The Chonk |
 | 465 | 602 | KhaosLord |
@@ -513,8 +513,8 @@
 | 505 | 558 | Libby Hicks |
 | 506 | 557 | Victor Obiakarije |
 | 507 | 554 | Dizzy Zone |
-| 508 | 554 | Laquetta Royston |
-| 509 | 554 | Tra Barnum |
+| 508 | 554 | Tra Barnum |
+| 509 | 554 | Laquetta Royston |
 | 510 | 553 | Kelli Wells |
 | 511 | 551 | Cynthia Louann Rose |
 | 512 | 550 | Frilly Fallzone |
@@ -529,8 +529,8 @@
 | 521 | 543 | Misti Markijohn |
 | 522 | 542 | Jarboe |
 | 523 | 542 | Alexandra Weir |
-| 524 | 537 | Sarah Berger |
-| 525 | 537 | Kori Beth Babb |
+| 524 | 537 | Kori Beth Babb |
+| 525 | 537 | Sarah Berger |
 | 526 | 535 | Belle Mari |
 | 527 | 535 | Anthony Huebel |
 | 528 | 535 | Maddy Petersen |
