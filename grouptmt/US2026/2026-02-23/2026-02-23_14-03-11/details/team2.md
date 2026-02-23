@@ -311,8 +311,8 @@
 | 303 | 1043 | nikki |
 | 304 | 1042 | Mcintosh Brian Shalonda |
 | 305 | 1038 | Hillary Crawford |
-| 306 | 1036 | Allison Lockyer |
-| 307 | 1036 | Amber Shoemaker |
+| 306 | 1036 | Amber Shoemaker |
+| 307 | 1036 | Allison Lockyer |
 | 308 | 1032 | Kristin Gower |
 | 309 | 1029 | Crystal Hoffman |
 | 310 | 1027 | Michele Morgan |
@@ -526,10 +526,10 @@
 | 518 | 691 | Samuel Macon |
 | 519 | 689 | Gauri Shrotriya |
 | 520 | 689 | AISlop |
-| 521 | 686 | Christine Coughlin |
-| 522 | 686 | Kiana Boschh |
-| 523 | 684 | Ann Knutson Anderson |
-| 524 | 684 | Amanda Woodruff |
+| 521 | 686 | Kiana Boschh |
+| 522 | 686 | Christine Coughlin |
+| 523 | 684 | Amanda Woodruff |
+| 524 | 684 | Ann Knutson Anderson |
 | 525 | 682 | Vanessa Moreno |
 | 526 | 681 | Gloria Liu |
 | 527 | 679 | Kassandra Hunt |
@@ -539,16 +539,16 @@
 | 531 | 676 | Roseanna Peloso |
 | 532 | 676 | Nicky Jackson |
 | 533 | 675 | Lonne Emade |
-| 534 | 675 | Jennifer Leigh |
-| 535 | 675 | Katelynn Hollen |
+| 534 | 675 | Katelynn Hollen |
+| 535 | 675 | Jennifer Leigh |
 | 536 | 674 | Ashley Munn |
 | 537 | 673 | Anthony Mignacca |
 | 538 | 673 | Lylymom |
 | 539 | 673 | trabuco |
 | 540 | 670 | Blacc Blac |
 | 541 | 670 | Christine Bollig |
-| 542 | 668 | Jazzy Clusterline |
-| 543 | 668 | Gloria Ininahazwe |
+| 542 | 668 | Gloria Ininahazwe |
+| 543 | 668 | Jazzy Clusterline |
 | 544 | 667 | Rhonda Milstead |
 | 545 | 666 | Aishah Brice |
 | 546 | 664 | Sleepypanda67 |
@@ -557,8 +557,8 @@
 | 549 | 662 | Samie Dayle |
 | 550 | 662 | Jennifer Monroe Kelly |
 | 551 | 660 | Nadia Batista Garcia |
-| 552 | 659 | Trinity Oak |
-| 553 | 659 | Anthony Huebel |
+| 552 | 659 | Anthony Huebel |
+| 553 | 659 | Trinity Oak |
 | 554 | 658 | Demeka Dangerous-kisses Johnson |
 | 555 | 656 | bonsai |
 | 556 | 656 | Tonya Lee |

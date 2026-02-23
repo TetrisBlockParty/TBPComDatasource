@@ -125,8 +125,8 @@
 | 117 | 497 | Arianna O'Brien |
 | 118 | 493 | MomMom |
 | 119 | 491 | cc |
-| 120 | 489 | April Carroll |
-| 121 | 489 | Deanna L Hermanson |
+| 120 | 489 | Deanna L Hermanson |
+| 121 | 489 | April Carroll |
 | 122 | 483 | Trina Gee |
 | 123 | 477 | Tonya Beasley |
 | 124 | 475 | Sarah Somers Gray |
@@ -136,8 +136,8 @@
 | 128 | 466 | Adrian Esteban |
 | 129 | 463 | Lexuriuos Lifestlye |
 | 130 | 462 | Luciano Moreira |
-| 131 | 458 | Evan Richmond |
-| 132 | 458 | Goose egg |
+| 131 | 458 | Goose egg |
+| 132 | 458 | Evan Richmond |
 | 133 | 454 | Desiree Deschaine Havee |
 | 134 | 453 | Brandi Huntington |
 | 135 | 451 | Plucky Ziggy |
@@ -169,8 +169,8 @@
 | 161 | 399 | Nery Martinez |
 | 162 | 397 | Erin Rosberg |
 | 163 | 394 | Lori Bales |
-| 164 | 393 | Lehrin Maria |
-| 165 | 393 | Kimmie Kimms |
+| 164 | 393 | Kimmie Kimms |
+| 165 | 393 | Lehrin Maria |
 | 166 | 391 | Basment Living |
 | 167 | 387 | Ananda Mendez |
 | 168 | 387 | Kimberly Garcia |
@@ -294,8 +294,8 @@
 | 286 | 268 | Wayne Saunders |
 | 287 | 265 | Flashy Rotator |
 | 288 | 264 | Jenny Gingrich Fuentes |
-| 289 | 263 | Nadine Velardo |
-| 290 | 263 | Sunny Shift |
+| 289 | 263 | Sunny Shift |
+| 290 | 263 | Nadine Velardo |
 | 291 | 261 | Brooke Elizabeth Antill |
 | 292 | 260 | Lacy Wolfe |
 | 293 | 260 | Marianita Garcia |

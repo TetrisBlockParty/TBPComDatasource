@@ -81,8 +81,8 @@
 | 73 | 1252 | Gracie |
 | 74 | 1244 | Lori Barnaby |
 | 75 | 1221 | Betty Ivy |
-| 76 | 1213 | Nerdy Riseclear |
-| 77 | 1213 | Snappy Glidepiece |
+| 76 | 1213 | Snappy Glidepiece |
+| 77 | 1213 | Nerdy Riseclear |
 | 78 | 1209 | Amanda Adkins |
 | 79 | 1186 | Christian A. Pollard |
 | 80 | 1154 | Carrie Jarvis Mohler |
@@ -185,8 +185,8 @@
 | 177 | 591 | Kaycee Kay |
 | 178 | 591 | Michael Nowogorski |
 | 179 | 587 | Louise Stacy Sisson |
-| 180 | 585 | Domo Washington |
-| 181 | 585 | Happy Tetriblast |
+| 180 | 585 | Happy Tetriblast |
+| 181 | 585 | Domo Washington |
 | 182 | 583 | Tasha Gillespie |
 | 183 | 582 | Natasha Jones |
 | 184 | 574 | Morgan Martinez |
@@ -221,13 +221,13 @@
 | 213 | 502 | Snappy Balancer |
 | 214 | 498 | Melissa Orth Hunter |
 | 215 | 496 | Loopy Fallmatch |
-| 216 | 494 | Connie Mohler-Fair |
-| 217 | 494 | FuzzyNavel |
+| 216 | 494 | FuzzyNavel |
+| 217 | 494 | Connie Mohler-Fair |
 | 218 | 491 | Michael Johnson |
 | 219 | 488 | joz |
 | 220 | 485 | Dapper Snap |
-| 221 | 484 | Fallorina Susana |
-| 222 | 484 | Kristin Delibac Corrigan |
+| 221 | 484 | Kristin Delibac Corrigan |
+| 222 | 484 | Fallorina Susana |
 | 223 | 480 | Danielle Allison |
 | 224 | 478 | Keis |
 | 225 | 477 | Edwin Calvillo Jr. |
@@ -360,8 +360,8 @@
 | 352 | 322 | Nena Somerville Kelly |
 | 353 | 321 | Wettnippz |
 | 354 | 320 | Or Reznitsky |
-| 355 | 320 | Taylor Hood |
-| 356 | 320 | Ashley Muncey |
+| 355 | 320 | Ashley Muncey |
+| 356 | 320 | Taylor Hood |
 | 357 | 318 | Christy Quick |
 | 358 | 317 | Steven Fulater |
 | 359 | 316 | Travis W |
