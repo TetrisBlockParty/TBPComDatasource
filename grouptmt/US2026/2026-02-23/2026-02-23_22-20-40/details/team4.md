@@ -209,8 +209,8 @@
 | 201 | 440 | Mr. Party |
 | 202 | 438 | Melvin Baird |
 | 203 | 438 | Jen Mattei |
-| 204 | 434 | Ramel Rhodes |
-| 205 | 434 | 🥔🥔 Spudz |
+| 204 | 434 | 🥔🥔 Spudz |
+| 205 | 434 | Ramel Rhodes |
 | 206 | 433 | Circuit8 |
 | 207 | 431 | Courtney Cicoria |
 | 208 | 428 | Crystal Nicolette Moore |
@@ -222,8 +222,8 @@
 | 214 | 422 | Zakia Monae |
 | 215 | 421 | JIGsaw ~(•¿°)~ |
 | 216 | 419 | Chris Bernstein |
-| 217 | 418 | Lush Linkfall |
-| 218 | 418 | Marie-Pier Desjardins |
+| 217 | 418 | Marie-Pier Desjardins |
+| 218 | 418 | Lush Linkfall |
 | 219 | 413 | John Brunetti |
 | 220 | 411 | Mimi |
 | 221 | 411 | Autumn Kumzi |
@@ -235,16 +235,16 @@
 | 227 | 398 | Tyler Terrific |
 | 228 | 394 | Nita Wells |
 | 229 | 390 | Kathy Brookins |
-| 230 | 389 | Brickh4us |
-| 231 | 389 | Joseph Guthrie |
+| 230 | 389 | Joseph Guthrie |
+| 231 | 389 | Brickh4us |
 | 232 | 388 | Calvin Cannon |
 | 233 | 385 | 030Synner |
 | 234 | 384 | Bio Nelly |
 | 235 | 383 | blockstar |
 | 236 | 382 | Sue Joyce Staats |
 | 237 | 381 | Plucky Patternblock |
-| 238 | 380 | Rio Rocha |
-| 239 | 380 | Zesty Twistbuilder |
+| 238 | 380 | Zesty Twistbuilder |
+| 239 | 380 | Rio Rocha |
 | 240 | 379 | Backoff Recupe |
 | 241 | 378 | shark tato |
 | 242 | 378 | Holly Jolly |
@@ -371,8 +371,8 @@
 | 363 | 265 | Sarah Neathery |
 | 364 | 265 | Christine Therrien |
 | 365 | 264 | AyeKay |
-| 366 | 262 | Selena Shaw |
-| 367 | 262 | Ruben Wheeler |
+| 366 | 262 | Ruben Wheeler |
+| 367 | 262 | Selena Shaw |
 | 368 | 261 | Jason Frehner |
 | 369 | 260 | Carter Jones |
 | 370 | 259 | Allen Lloyd |

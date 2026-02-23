@@ -102,8 +102,8 @@
 | 94 | 740 | Lori Sanders- Davis |
 | 95 | 722 | Kellie |
 | 96 | 717 | Madison Wicks |
-| 97 | 706 | Plucky Fallzone |
-| 98 | 706 | Denice Dee |
+| 97 | 706 | Denice Dee |
+| 98 | 706 | Plucky Fallzone |
 | 99 | 704 | Karin Gillen |
 | 100 | 703 | Angel Fowler |
 | 101 | 679 | Melissa Lemmon |
@@ -143,8 +143,8 @@
 | 135 | 534 | Loony Fitzone |
 | 136 | 531 | Christy Jones |
 | 137 | 527 | Tonya Beasley |
-| 138 | 524 | ALFD |
-| 139 | 524 | Tipsy Riseclear |
+| 138 | 524 | Tipsy Riseclear |
+| 139 | 524 | ALFD |
 | 140 | 523 | BadG52 |
 | 141 | 522 | Tanya Carpenter-Reynolds |
 | 142 | 521 | Nery Martinez |
@@ -313,8 +313,8 @@
 | 305 | 309 | Larry Tilton |
 | 306 | 308 | Glitzy Curvebuilder |
 | 307 | 306 | Cece Ibarra |
-| 308 | 305 | Amh |
-| 309 | 305 | Chase Collinsworth |
+| 308 | 305 | Chase Collinsworth |
+| 309 | 305 | Amh |
 | 310 | 303 | DaRascal |
 | 311 | 302 | LaFontaine Leslie |
 | 312 | 302 | Bird Person |
@@ -394,7 +394,7 @@
 | 386 | 257 | Andrew Backes |
 | 387 | 256 | Mary Sheets |
 | 388 | 256 | Joe Coon |
-| 389 | 256 | Mary Sheets |
+| 389 | 256 | Chris Sigurdson |
 | 390 | 255 | Beazel75 |
 | 391 | 254 | Al Smith Jr |
 | 392 | 253 | Charlie Walker |

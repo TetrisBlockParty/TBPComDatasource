@@ -323,8 +323,8 @@
 | 315 | 1164 | Hillary Crawford |
 | 316 | 1163 | Erika Densmore |
 | 317 | 1158 | Brittany Clark |
-| 318 | 1156 | Alezandra Smith |
-| 319 | 1156 | Arkei Luster |
+| 318 | 1156 | Arkei Luster |
+| 319 | 1156 | Alezandra Smith |
 | 320 | 1155 | F-X |
 | 321 | 1145 | Deborah Miller |
 | 322 | 1142 | April Dawn Gussler |
@@ -443,8 +443,8 @@
 | 435 | 907 | Gene Mills |
 | 436 | 905 | Adam Simmons |
 | 437 | 903 | Ashle Scranton |
-| 438 | 903 | Sarah DeHart |
-| 439 | 903 | Eric Castaneda |
+| 438 | 903 | Eric Castaneda |
+| 439 | 903 | Sarah DeHart |
 | 440 | 902 | Brenda Utphall |
 | 441 | 899 | Patrick Bartlett |
 | 442 | 899 | Chevy |
@@ -531,8 +531,8 @@
 | 523 | 790 | Mama T |
 | 524 | 789 | Leslie Jorgenson |
 | 525 | 788 | Samuel Macon |
-| 526 | 786 | Charvi' Carter |
-| 527 | 786 | Kimberly Randesi |
+| 526 | 786 | Kimberly Randesi |
+| 527 | 786 | Charvi' Carter |
 | 528 | 785 | Miranda Morris |
 | 529 | 781 | Sarah Berger |
 | 530 | 779 | Trinity Oak |
