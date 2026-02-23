@@ -114,15 +114,15 @@
 | 106 | 869 | Araceli Parra |
 | 107 | 868 | Sarajane Lokan |
 | 108 | 860 | Sunny Rotater |
-| 109 | 851 | Jd Morris |
-| 110 | 851 | Danielle Becker |
+| 109 | 851 | Danielle Becker |
+| 110 | 851 | Jd Morris |
 | 111 | 850 | Danielle Mogg |
 | 112 | 848 | Patricia Gadsden |
 | 113 | 839 | Angeline Joseph |
 | 114 | 830 | Stephanie Allmon |
 | 115 | 826 | Shane Wilson Jr. |
-| 116 | 816 | Brenda Lee Vander Molen |
-| 117 | 816 | Jesse Olive |
+| 116 | 816 | Jesse Olive |
+| 117 | 816 | Brenda Lee Vander Molen |
 | 118 | 802 | Bobbi Moore |
 | 119 | 800 | Lauren Girouard |
 | 120 | 799 | Dolores Falco |
@@ -187,8 +187,8 @@
 | 179 | 572 | CeceGeGe |
 | 180 | 568 | Rachael McClain Owens |
 | 181 | 566 | LaTanya GeminiondaRise Johnson |
-| 182 | 564 | Poppy Splitter |
-| 183 | 564 | Christine Trester |
+| 182 | 564 | Christine Trester |
+| 183 | 564 | Poppy Splitter |
 | 184 | 563 | Jim Mathews |
 | 185 | 562 | Dave Herzog |
 | 186 | 559 | Patti Skiles |
@@ -204,8 +204,8 @@
 | 196 | 525 | Stephanie Blkpep Davidson |
 | 197 | 524 | Bmo |
 | 198 | 521 | Shannon Matthew Byers |
-| 199 | 519 | rnr junky |
-| 200 | 519 | Terry Jo Jones |
+| 199 | 519 | Terry Jo Jones |
+| 200 | 519 | rnr junky |
 | 201 | 515 | Cozy Snaplink |
 | 202 | 513 | Lizabeth Fox |
 | 203 | 510 | Makelini Mausia |
@@ -314,8 +314,8 @@
 | 306 | 342 | Cynthia Herrmann Egland |
 | 307 | 341 | Rick Poppen |
 | 308 | 341 | Lys |
-| 309 | 340 | KayB |
-| 310 | 340 | Erika Thornton |
+| 309 | 340 | Erika Thornton |
+| 310 | 340 | KayB |
 | 311 | 338 | fraulila |
 | 312 | 336 | Breanna Marsden |
 | 313 | 336 | Foltz Lee Kelli |
