@@ -299,8 +299,8 @@
 | 291 | 321 | Montiette Mcglown |
 | 292 | 319 | Jason Gibbs |
 | 293 | 318 | Duck |
-| 294 | 317 | O block |
-| 295 | 317 | Madison Sweere |
+| 294 | 317 | Madison Sweere |
+| 295 | 317 | O block |
 | 296 | 316 | Stella |
 | 297 | 315 | Heather Bruce |
 | 298 | 315 | Vic |
@@ -337,8 +337,8 @@
 | 329 | 289 | Lazy Glidepiece |
 | 330 | 289 | Juls |
 | 331 | 289 | Deb Rubeck |
-| 332 | 288 | Jumpy Zonepiece |
-| 333 | 288 | Amy Jean |
+| 332 | 288 | Amy Jean |
+| 333 | 288 | Jumpy Zonepiece |
 | 334 | 286 | Bradley Reeves |
 | 335 | 284 | Chair |
 | 336 | 284 | Johnny R |
@@ -429,7 +429,7 @@
 | 421 | 239 | Denise B |
 | 422 | 239 | Kevin Bush |
 | 423 | 238 | GBR |
-| 424 | 238 | Amanda Christine |
+| 424 | 238 | 中山成巳 |
 | 425 | 237 | Alan Zukowski |
 | 426 | 236 | Michelle Morris |
 | 427 | 236 | The Murphy |
