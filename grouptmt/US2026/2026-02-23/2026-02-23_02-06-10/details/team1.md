@@ -28,8 +28,8 @@
 | 20 | 1304 | Jennifer Cates |
 | 21 | 1276 | Izzie Ramirez-Ford |
 | 22 | 1236 | LaQuetta Faith Hines |
-| 23 | 1191 | Roger Aschbrenner |
-| 24 | 1191 | Nerdy Linkblock |
+| 23 | 1191 | Nerdy Linkblock |
+| 24 | 1191 | Roger Aschbrenner |
 | 25 | 1171 | Tyler Alcock |
 | 26 | 1136 | Rahna Underwood |
 | 27 | 1129 | Christina Graham |
@@ -116,8 +116,8 @@
 | 108 | 448 | Jazzy Framezone |
 | 109 | 447 | Lexuriuos Lifestlye |
 | 110 | 444 | Hyper |
-| 111 | 443 | Steve Schneider |
-| 112 | 443 | lil mickey |
+| 111 | 443 | lil mickey |
+| 112 | 443 | Steve Schneider |
 | 113 | 442 | Veronica Eve |
 | 114 | 440 | Stephanie Zahn |
 | 115 | 439 | Dee Perry |
@@ -173,8 +173,8 @@
 | 165 | 329 | Rachael |
 | 166 | 326 | BadG52 |
 | 167 | 325 | Dizzy Party |
-| 168 | 324 | Ananda Mendez |
-| 169 | 324 | Rat666 |
+| 168 | 324 | Rat666 |
+| 169 | 324 | Ananda Mendez |
 | 170 | 323 | Carrie Smith |
 | 171 | 323 | Madison Wicks |
 | 172 | 318 | Jessica Sheehan |
@@ -244,8 +244,8 @@
 | 236 | 252 | Dena Kayy |
 | 237 | 251 | MRdot Rooski |
 | 238 | 247 | Brenda Alexander |
-| 239 | 245 | Matt Iaccheo |
-| 240 | 245 | LaFontaine Leslie |
+| 239 | 245 | LaFontaine Leslie |
+| 240 | 245 | Matt Iaccheo |
 | 241 | 244 | Eddie Dillon |
 | 242 | 242 | ParisandCory Champagne |
 | 243 | 241 | Tyler Hertzog |

@@ -40,8 +40,8 @@
 | 32 | 4199 | Claire Noland |
 | 33 | 4130 | Robert Diddle |
 | 34 | 4128 | Angela Pruitt |
-| 35 | 4120 | Corrine Hawks Soriano |
-| 36 | 4120 | Kristen Sceurman |
+| 35 | 4120 | Kristen Sceurman |
+| 36 | 4120 | Corrine Hawks Soriano |
 | 37 | 4033 | Jill Stroehlein |
 | 38 | 3895 | Nickie Baby |
 | 39 | 3770 | Brittany Alicia |
@@ -130,11 +130,11 @@
 | 122 | 1681 | Shandrica Lowe |
 | 123 | 1681 | Nett |
 | 124 | 1658 | Liberty |
-| 125 | 1656 | Kristopher Miller |
-| 126 | 1656 | Auntie B |
+| 125 | 1656 | Auntie B |
+| 126 | 1656 | Kristopher Miller |
 | 127 | 1644 | Luna |
-| 128 | 1639 | Karen Martini-Stapleton |
-| 129 | 1639 | Jessie McDougald |
+| 128 | 1639 | Jessie McDougald |
+| 129 | 1639 | Karen Martini-Stapleton |
 | 130 | 1632 | Qiana Sanders |
 | 131 | 1631 | Speedy Spinblock |
 | 132 | 1623 | Rebecca Doughman |

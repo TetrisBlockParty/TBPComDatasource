@@ -61,8 +61,8 @@
 | 53 | 1276 | Aaron Pitkin |
 | 54 | 1269 | Amber Jones |
 | 55 | 1258 | Jennifer Petrie |
-| 56 | 1256 | Mahman |
-| 57 | 1256 | Jessica Bechler |
+| 56 | 1256 | Jessica Bechler |
+| 57 | 1256 | Mahman |
 | 58 | 1191 | Nate Burnside |
 | 59 | 1167 | Elaine Webb Graves |
 | 60 | 1141 | Queen Kam |
@@ -152,8 +152,8 @@
 | 144 | 590 | Santeria Trece Candles |
 | 145 | 589 | Logan Naccarato |
 | 146 | 588 | Justin Ritter |
-| 147 | 585 | Happy Tetriblast |
-| 148 | 585 | Annie Marie |
+| 147 | 585 | Annie Marie |
+| 148 | 585 | Happy Tetriblast |
 | 149 | 582 | Natasha Jones |
 | 150 | 579 | Tasha Gillespie |
 | 151 | 574 | Morgan Martinez |
@@ -260,8 +260,8 @@
 | 252 | 352 | Christian Werndl |
 | 253 | 351 | Eon Harris |
 | 254 | 349 | Amanda J. Mcneil-Anderson |
-| 255 | 347 | Rania Zaqout |
-| 256 | 347 | Philip Rock |
+| 255 | 347 | Philip Rock |
+| 256 | 347 | Rania Zaqout |
 | 257 | 346 | Tamara Deherrera |
 | 258 | 345 | Kelly |
 | 259 | 344 | Roary Danner |
@@ -364,8 +364,8 @@
 | 356 | 256 | KayB |
 | 357 | 255 | Sharisse Baltimore |
 | 358 | 254 | Desiree Gold |
-| 359 | 253 | Alice |
-| 360 | 253 | Hyper Bridger |
+| 359 | 253 | Hyper Bridger |
+| 360 | 253 | Alice |
 | 361 | 252 | Blair Erin Waite |
 | 362 | 251 | Jennifer Alvey |
 | 363 | 251 | Dana Winters |

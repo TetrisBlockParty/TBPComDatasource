@@ -75,11 +75,11 @@
 | 67 | 749 | Dustee Craddock-Harrison |
 | 68 | 748 | loulou |
 | 69 | 739 | Avy Absol |
-| 70 | 736 | Goatimus Lombardi |
-| 71 | 736 | Carolyn Wallace |
+| 70 | 736 | Carolyn Wallace |
+| 71 | 736 | Goatimus Lombardi |
 | 72 | 725 | Denise Carlson |
-| 73 | 704 | Crystal Carroll |
-| 74 | 704 | D3TROITB0RN74 |
+| 73 | 704 | D3TROITB0RN74 |
+| 74 | 704 | Crystal Carroll |
 | 75 | 697 | Alyssa Papen |
 | 76 | 684 | Jonathan Kimbrough |
 | 77 | 677 | TheNeesh50 |
@@ -162,10 +162,10 @@
 | 154 | 375 | Desi Desporte |
 | 155 | 374 | Guy Incognito |
 | 156 | 373 | Tyler Terrific |
-| 157 | 370 | Oscar Alberto Perez |
-| 158 | 370 | ThaEviLJeNiuZ |
-| 159 | 368 | Brandon Crabbs |
-| 160 | 368 | Silly Zonebuilder |
+| 157 | 370 | ThaEviLJeNiuZ |
+| 158 | 370 | Oscar Alberto Perez |
+| 159 | 368 | Silly Zonebuilder |
+| 160 | 368 | Brandon Crabbs |
 | 161 | 365 | Leslie Nicole |
 | 162 | 361 | Danielle Kollias |
 | 163 | 358 | A5! |
@@ -186,8 +186,8 @@
 | 178 | 322 | J-Rizzle |
 | 179 | 320 | Lauren Scott |
 | 180 | 316 | Meagan Nicole |
-| 181 | 314 | shark tato |
-| 182 | 314 | Andy Cabral |
+| 181 | 314 | Andy Cabral |
+| 182 | 314 | shark tato |
 | 183 | 309 | Crystal Nicolette Moore |
 | 184 | 309 | Chris Bernstein |
 | 185 | 307 | Bio Nelly |
