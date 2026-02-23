@@ -157,8 +157,8 @@
 | 149 | 1767 | niecy |
 | 150 | 1759 | Nerdy Pattern |
 | 151 | 1755 | Loopy Clusterbuilder |
-| 152 | 1751 | Bob |
-| 153 | 1751 | Woodys Glass |
+| 152 | 1751 | Woodys Glass |
+| 153 | 1751 | Bob |
 | 154 | 1720 | Morgue Chick |
 | 155 | 1709 | Dustin Rains |
 | 156 | 1706 | Janel Turley-Garner |
@@ -168,8 +168,8 @@
 | 160 | 1658 | Liberty |
 | 161 | 1653 | Michele Gabriel |
 | 162 | 1647 | Jessie McDougald |
-| 163 | 1644 | Speedy Spinblock |
-| 164 | 1644 | Luna |
+| 163 | 1644 | Luna |
+| 164 | 1644 | Speedy Spinblock |
 | 165 | 1640 | Scott Treadway |
 | 166 | 1639 | Mari Ac |
 | 167 | 1629 | Rickey Johnson |
@@ -375,8 +375,8 @@
 | 367 | 917 | Nashu |
 | 368 | 916 | Butta |
 | 369 | 915 | Kelly Trent |
-| 370 | 914 | William Hunt |
-| 371 | 914 | Shuany Arias |
+| 370 | 914 | Shuany Arias |
+| 371 | 914 | William Hunt |
 | 372 | 913 | blume |
 | 373 | 909 | Valerie Brooke Lusk Armstrong |
 | 374 | 907 | Gene Mills |
@@ -385,8 +385,8 @@
 | 377 | 903 | Eric Castaneda |
 | 378 | 902 | Diallo Sparkman |
 | 379 | 899 | Felicia Lynn |
-| 380 | 899 | Patrick Bartlett |
-| 381 | 899 | Chevy |
+| 380 | 899 | Chevy |
+| 381 | 899 | Patrick Bartlett |
 | 382 | 898 | Donna M Carter |
 | 383 | 895 | Donna Colby |
 | 384 | 895 | Lisa Ongtowasruk |

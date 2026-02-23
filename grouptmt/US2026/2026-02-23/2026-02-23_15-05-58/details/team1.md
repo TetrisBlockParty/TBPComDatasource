@@ -95,8 +95,8 @@
 | 87 | 689 | Susanna Guerry |
 | 88 | 683 | Nancy Green |
 | 89 | 679 | Hasbro Bros |
-| 90 | 657 | Cynthia Bradley |
-| 91 | 657 | Tee Sheree |
+| 90 | 657 | Tee Sheree |
+| 91 | 657 | Cynthia Bradley |
 | 92 | 655 | Brenda Stewart |
 | 93 | 650 | Kristi Johnson |
 | 94 | 648 | Evie Khalil |
@@ -393,9 +393,9 @@
 | 385 | 219 | Amh |
 | 386 | 218 | Jason Benitez |
 | 387 | 217 | Betsy |
-| 388 | 216 | Terri Rodela |
-| 389 | 216 | Scott Betson |
-| 390 | 216 | Chad Atchley |
+| 388 | 216 | Chad Atchley |
+| 389 | 216 | Terri Rodela |
+| 390 | 216 | Scott Betson |
 | 391 | 216 | Shauntina Burke |
 | 392 | 215 | Quirky Pusher |
 | 393 | 214 | Kayla Marie Stevenson |

@@ -82,8 +82,8 @@
 | 74 | 1256 | Jessica Bechler |
 | 75 | 1244 | Lori Barnaby |
 | 76 | 1221 | Betty Ivy |
-| 77 | 1213 | Nerdy Riseclear |
-| 78 | 1213 | Snappy Glidepiece |
+| 77 | 1213 | Snappy Glidepiece |
+| 78 | 1213 | Nerdy Riseclear |
 | 79 | 1209 | Amanda Adkins |
 | 80 | 1186 | Christian A. Pollard |
 | 81 | 1169 | Araceli Parra |
@@ -136,8 +136,8 @@
 | 128 | 774 | Keith J Oshman Jr. |
 | 129 | 773 | Daira Largen |
 | 130 | 770 | Daryn Elliott |
-| 131 | 764 | Hasty Cascadefit |
-| 132 | 764 | Groovy Catcher |
+| 131 | 764 | Groovy Catcher |
+| 132 | 764 | Hasty Cascadefit |
 | 133 | 762 | Speedy Bridger |
 | 134 | 758 | Felicia Rocha |
 | 135 | 757 | Fancy Cascader |
@@ -175,8 +175,8 @@
 | 167 | 632 | Morgan Martinez |
 | 168 | 630 | yoyo |
 | 169 | 629 | rnr junky |
-| 170 | 621 | Cherry Parker |
-| 171 | 621 | Sashay Tapae Simpson |
+| 170 | 621 | Sashay Tapae Simpson |
+| 171 | 621 | Cherry Parker |
 | 172 | 616 | Kammy Hill |
 | 173 | 611 | Rochelle Hazelett |
 | 174 | 603 | Jone |
@@ -194,8 +194,8 @@
 | 186 | 582 | Natasha Jones |
 | 187 | 568 | Rachael McClain Owens |
 | 188 | 566 | LaTanya GeminiondaRise Johnson |
-| 189 | 564 | Christine Trester |
-| 190 | 564 | Poppy Splitter |
+| 189 | 564 | Poppy Splitter |
+| 190 | 564 | Christine Trester |
 | 191 | 563 | Jim Mathews |
 | 192 | 562 | Dave Herzog |
 | 193 | 561 | Elissa S-k |
@@ -301,8 +301,8 @@
 | 293 | 382 | Salena Whitlock |
 | 294 | 382 | Desiree Gold |
 | 295 | 380 | Rebecca Bailey |
-| 296 | 379 | JessDrown |
-| 297 | 379 | Philip Rock |
+| 296 | 379 | Philip Rock |
+| 297 | 379 | JessDrown |
 | 298 | 378 | Chris Bell |
 | 299 | 378 | MsBee |
 | 300 | 376 | Sarah Moyer |
@@ -330,8 +330,8 @@
 | 322 | 352 | LadyTorad |
 | 323 | 351 | Blocked |
 | 324 | 351 | Eon Harris |
-| 325 | 349 | Num1hater |
-| 326 | 349 | Amanda J. Mcneil-Anderson |
+| 325 | 349 | Amanda J. Mcneil-Anderson |
+| 326 | 349 | Num1hater |
 | 327 | 348 | Ashley Raines |
 | 328 | 346 | Chummy Rumbler |
 | 329 | 345 | gremicx |
