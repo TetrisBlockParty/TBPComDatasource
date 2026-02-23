@@ -136,8 +136,8 @@
 | 128 | 774 | Keith J Oshman Jr. |
 | 129 | 773 | Daira Largen |
 | 130 | 770 | Daryn Elliott |
-| 131 | 764 | Groovy Catcher |
-| 132 | 764 | Hasty Cascadefit |
+| 131 | 764 | Hasty Cascadefit |
+| 132 | 764 | Groovy Catcher |
 | 133 | 762 | Speedy Bridger |
 | 134 | 757 | Fancy Cascader |
 | 135 | 756 | Patty Allen |
@@ -330,14 +330,14 @@
 | 322 | 352 | LadyTorad |
 | 323 | 351 | Blocked |
 | 324 | 351 | Eon Harris |
-| 325 | 349 | Amanda J. Mcneil-Anderson |
-| 326 | 349 | Num1hater |
+| 325 | 349 | Num1hater |
+| 326 | 349 | Amanda J. Mcneil-Anderson |
 | 327 | 348 | Ashley Raines |
 | 328 | 346 | Chummy Rumbler |
 | 329 | 345 | gremicx |
 | 330 | 344 | Ashley Lynn Marchese |
-| 331 | 344 | Beaudie Stroebel |
-| 332 | 344 | Isabel Ocasio |
+| 331 | 344 | Isabel Ocasio |
+| 332 | 344 | Beaudie Stroebel |
 | 333 | 343 | Ashley Rufus Bythcez |
 | 334 | 342 | Cynthia Herrmann Egland |
 | 335 | 342 | ROODBOY |
@@ -368,8 +368,8 @@
 | 360 | 322 | Nena Somerville Kelly |
 | 361 | 321 | Wettnippz |
 | 362 | 320 | Or Reznitsky |
-| 363 | 320 | Ashley Muncey |
-| 364 | 320 | Taylor Hood |
+| 363 | 320 | Taylor Hood |
+| 364 | 320 | Ashley Muncey |
 | 365 | 318 | Christy Quick |
 | 366 | 316 | Travis W |
 | 367 | 314 | Tipsy Zonebuilder |

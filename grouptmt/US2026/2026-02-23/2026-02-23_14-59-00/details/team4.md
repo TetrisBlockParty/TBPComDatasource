@@ -254,8 +254,8 @@
 | 246 | 307 | Michele Plunkett |
 | 247 | 306 | mike |
 | 248 | 305 | Melvin Baird |
-| 249 | 304 | Shiny Fit |
-| 250 | 304 | Gdiguy |
+| 249 | 304 | Gdiguy |
+| 250 | 304 | Shiny Fit |
 | 251 | 304 | Joanna |
 | 252 | 303 | blasterB |
 | 253 | 300 | Dana Scott |
@@ -551,7 +551,7 @@
 | 543 | 147 | Hasty Fitzone |
 | 544 | 146 | @ |
 | 545 | 146 | Oleg Zakharskiy |
-| 546 | 146 | @ |
+| 546 | 146 | giantslover514 |
 | 547 | 146 | Groovy Gridlock |
 | 548 | 146 | Jen Hallin |
 | 549 | 145 | No Strings Attached Ra |
@@ -637,7 +637,7 @@
 | 629 | 122 | Mary Therese Benden Cole |
 | 630 | 122 | meowmew |
 | 631 | 122 | Rosemary Foster |
-| 632 | 122 | Richard |
+| 632 | 122 | Manuel Groleau |
 | 633 | 122 | Mike Burlingame |
 | 634 | 122 | Richard |
 | 635 | 121 | Brittany Price |
@@ -1615,11 +1615,11 @@
 | 1607 | 17 | Wacky Brickmatch |
 | 1608 | 17 | MsEMoney |
 | 1609 | 17 | Spicy T-spin |
-| 1610 | 17 | Conni Brown |
-| 1611 | 17 | Nutty Grid |
+| 1610 | 17 | Nutty Grid |
+| 1611 | 17 | Conni Brown |
 | 1612 | 17 | Dandre |
-| 1613 | 16 | Becca |
-| 1614 | 16 | Nicolette Mercado |
+| 1613 | 16 | Nicolette Mercado |
+| 1614 | 16 | Becca |
 | 1615 | 16 | Julio León |
 | 1616 | 16 | Amy La Violette |
 | 1617 | 16 | Silly Clearfit |
