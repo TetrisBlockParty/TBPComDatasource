@@ -124,8 +124,8 @@
 | 116 | 896 | Jesse Olive |
 | 117 | 878 | Shane Wilson Jr. |
 | 118 | 874 | Jessica Pineda-Lopez |
-| 119 | 868 | Felicia Rocha |
-| 120 | 868 | Sarajane Lokan |
+| 119 | 868 | Sarajane Lokan |
+| 120 | 868 | Felicia Rocha |
 | 121 | 864 | Sunny Rotater |
 | 122 | 856 | Kristie |
 | 123 | 848 | Patricia Gadsden |
@@ -276,8 +276,8 @@
 | 268 | 434 | Daring Builder |
 | 269 | 432 | rosy |
 | 270 | 432 | Luciana Braganca Vieira |
-| 271 | 431 | Ammmmmmy |
-| 272 | 431 | Wendy Dearden |
+| 271 | 431 | Wendy Dearden |
+| 272 | 431 | Ammmmmmy |
 | 273 | 430 | Jeni Dow |
 | 274 | 429 | Carrie Huskey |
 | 275 | 428 | Sleepy |
@@ -293,8 +293,8 @@
 | 285 | 414 | RickyG |
 | 286 | 412 | Jojo M |
 | 287 | 411 | Megan Rathmanner |
-| 288 | 410 | Brian Battjes |
-| 289 | 410 | Duane Bright |
+| 288 | 410 | Duane Bright |
+| 289 | 410 | Brian Battjes |
 | 290 | 408 | Tiffany Ford |
 | 291 | 408 | Cyd061769 |
 | 292 | 408 | Ashley Muncey |

@@ -242,8 +242,8 @@
 | 234 | 342 | blasterB |
 | 235 | 341 | scott |
 | 236 | 340 | Cranky Rollpiece |
-| 237 | 339 | Jade Rian |
-| 238 | 339 | Melvin Baird |
+| 237 | 339 | Melvin Baird |
+| 238 | 339 | Jade Rian |
 | 239 | 337 | Sam Bishop |
 | 240 | 334 | June Hoffman |
 | 241 | 331 | Alan George LaRage |

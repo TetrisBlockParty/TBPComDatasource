@@ -214,8 +214,8 @@
 | 206 | 1461 | Tonya Morgan |
 | 207 | 1453 | Wendy Unsain |
 | 208 | 1452 | Cody Smith-Candelaria |
-| 209 | 1450 | Shiny Rollzone |
-| 210 | 1450 | Mischelle Clay |
+| 209 | 1450 | Mischelle Clay |
+| 210 | 1450 | Shiny Rollzone |
 | 211 | 1442 | Glitzy Stackzone |
 | 212 | 1438 | Ashley Dow |
 | 213 | 1418 | L3sli3 |
@@ -268,8 +268,8 @@
 | 260 | 1221 | Jane Fong |
 | 261 | 1220 | Sarah Ridenour |
 | 262 | 1217 | Brooks Brooks |
-| 263 | 1216 | Brittany Radaszewski |
-| 264 | 1216 | Pacynthia Williams |
+| 263 | 1216 | Pacynthia Williams |
+| 264 | 1216 | Brittany Radaszewski |
 | 265 | 1214 | David Cudicio-Hayden |
 | 266 | 1211 | Ricardo Burton |
 | 267 | 1210 | John Rodriguez |
@@ -282,8 +282,8 @@
 | 274 | 1172 | Stacey Clement |
 | 275 | 1172 | Lakeysha Dortch |
 | 276 | 1171 | Loretta Brewer-Gage |
-| 277 | 1165 | Christina Wsn |
-| 278 | 1165 | Michelle Lee |
+| 277 | 1165 | Michelle Lee |
+| 278 | 1165 | Christina Wsn |
 | 279 | 1163 | Erika Densmore |
 | 280 | 1158 | Brittany Clark |
 | 281 | 1156 | Sarah Freitas |
@@ -309,20 +309,20 @@
 | 301 | 1089 | Tyler C. Jung |
 | 302 | 1089 | Wakanda Forever |
 | 303 | 1086 | Deborah Miller |
-| 304 | 1079 | Jennifer Kistner |
-| 305 | 1079 | Angela Bonquiqui Dinish |
+| 304 | 1079 | Angela Bonquiqui Dinish |
+| 305 | 1079 | Jennifer Kistner |
 | 306 | 1076 | Cindy Sechler Taninecz |
 | 307 | 1073 | Jodi Blake |
 | 308 | 1072 | BK Queen |
 | 309 | 1072 | Kristin Gower |
-| 310 | 1071 | Nashu |
-| 311 | 1071 | Kim Dean |
+| 310 | 1071 | Kim Dean |
+| 311 | 1071 | Nashu |
 | 312 | 1067 | Caitlin Schmid |
 | 313 | 1065 | Dany Murillo |
 | 314 | 1059 | Bri Lynn |
 | 315 | 1052 | Desiree Anderson |
-| 316 | 1050 | Amber Brion |
-| 317 | 1050 | Jennifer Aiken |
+| 316 | 1050 | Jennifer Aiken |
+| 317 | 1050 | Amber Brion |
 | 318 | 1049 | Ashlen Dorrell |
 | 319 | 1047 | Tiffany Branham |
 | 320 | 1045 | Lourisha |
@@ -331,8 +331,8 @@
 | 323 | 1042 | Michele Morgan |
 | 324 | 1042 | Mcintosh Brian Shalonda |
 | 325 | 1040 | Taylor Phillips |
-| 326 | 1036 | Amber Shoemaker |
-| 327 | 1036 | Allison Lockyer |
+| 326 | 1036 | Allison Lockyer |
+| 327 | 1036 | Amber Shoemaker |
 | 328 | 1032 | Binyah-Binyah |
 | 329 | 1031 | Barbra Miller |
 | 330 | 1030 | Em Chen |
@@ -570,7 +570,7 @@
 | 562 | 676 | Nicky Jackson |
 | 563 | 675 | Lyndi Robinson Wakefield |
 | 564 | 675 | Katelynn Hollen |
-| 565 | 675 | Lyndi Robinson Wakefield |
+| 565 | 675 | Jennifer Leigh |
 | 566 | 673 | Anthony Mignacca |
 | 567 | 673 | trabuco |
 | 568 | 670 | Blacc Blac |
