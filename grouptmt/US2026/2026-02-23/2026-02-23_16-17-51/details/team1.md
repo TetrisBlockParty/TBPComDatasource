@@ -283,8 +283,8 @@
 | 275 | 289 | Alenoush Karimian |
 | 276 | 288 | Bird Person |
 | 277 | 287 | Sir-Franchise Drake |
-| 278 | 286 | Adele Rahman |
-| 279 | 286 | Sarahdactyl |
+| 278 | 286 | Sarahdactyl |
+| 279 | 286 | Adele Rahman |
 | 280 | 285 | Shanae Grant |
 | 281 | 284 | Colleen Pinette |
 | 282 | 284 | Michael |
@@ -437,8 +437,8 @@
 | 429 | 203 | Amie Fields |
 | 430 | 202 | Krie |
 | 431 | 202 | Andrew Backes |
-| 432 | 201 | Tedashi |
-| 433 | 201 | Rico Rico |
+| 432 | 201 | Rico Rico |
+| 433 | 201 | Tedashi |
 | 434 | 200 | Alphonza Keyes Jr. |
 | 435 | 199 | Tina Englert |
 | 436 | 199 | Nathan William |
@@ -472,7 +472,7 @@
 | 464 | 187 | Jessica Weed |
 | 465 | 187 | Matthew Foley |
 | 466 | 186 | Nikki Fridley |
-| 467 | 184 | Sonia Marquis |
+| 467 | 184 | Carl Claunch |
 | 468 | 184 | Theeranart Mahawan |
 | 469 | 184 | Sonia Marquis |
 | 470 | 183 | MommaKFC |

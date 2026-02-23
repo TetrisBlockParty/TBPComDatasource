@@ -554,8 +554,8 @@
 | 546 | 150 | Kujuanna Hammon |
 | 547 | 150 | Ron |
 | 548 | 149 | Sunny Filler |
-| 549 | 149 | Boldy Linkpiece |
-| 550 | 149 | Smiley Shifter |
+| 549 | 149 | Smiley Shifter |
+| 550 | 149 | Boldy Linkpiece |
 | 551 | 148 | Bigeddie |
 | 552 | 148 | Will Chamberlain |
 | 553 | 147 | Laurmarcar |
@@ -623,8 +623,8 @@
 | 615 | 129 | Dreamy Snapgrid |
 | 616 | 129 | Tamika Starkey |
 | 617 | 129 | RIFATSIKDER |
-| 618 | 128 | Lazy Glidepiece |
-| 619 | 128 | Raymond Roberts |
+| 618 | 128 | Raymond Roberts |
+| 619 | 128 | Lazy Glidepiece |
 | 620 | 128 | Zesty Linkgrid |
 | 621 | 127 | Jay You |
 | 622 | 127 | Joe Lonnemann |
@@ -1252,7 +1252,7 @@
 | 1244 | 45 | Derek Bartley |
 | 1245 | 45 | niksteve70 |
 | 1246 | 45 | Peachy Pusher |
-| 1247 | 45 | James Antill |
+| 1247 | 45 | Aj Brantley Lpn |
 | 1248 | 45 | Valerie J. Potero |
 | 1249 | 44 | Twisty Towerpiece |
 | 1250 | 44 | Heather Hilferty |

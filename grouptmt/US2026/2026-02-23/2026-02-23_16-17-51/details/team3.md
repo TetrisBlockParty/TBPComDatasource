@@ -178,8 +178,8 @@
 | 170 | 633 | Joye Sims Binion |
 | 171 | 632 | Morgan Martinez |
 | 172 | 629 | rnr junky |
-| 173 | 621 | Cherry Parker |
-| 174 | 621 | Sashay Tapae Simpson |
+| 173 | 621 | Sashay Tapae Simpson |
+| 174 | 621 | Cherry Parker |
 | 175 | 616 | Kammy Hill |
 | 176 | 611 | Rochelle Hazelett |
 | 177 | 610 | Loopy Fallmatch |
