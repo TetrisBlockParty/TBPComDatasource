@@ -140,8 +140,8 @@
 | 132 | 387 | Emily Adelaide Wheatley |
 | 133 | 386 | Ty Brown |
 | 134 | 383 | pjbeta |
-| 135 | 379 | Kimmie Kimms |
-| 136 | 379 | Austin James |
+| 135 | 379 | Austin James |
+| 136 | 379 | Kimmie Kimms |
 | 137 | 376 | Brian Richardsson |
 | 138 | 371 | Jason Savage |
 | 139 | 368 | Death |
@@ -175,8 +175,8 @@
 | 167 | 324 | Rat666 |
 | 168 | 324 | Ananda Mendez |
 | 169 | 320 | Madison Wicks |
-| 170 | 318 | Jessica Sheehan |
-| 171 | 318 | Virginia Gray Floyd |
+| 170 | 318 | Virginia Gray Floyd |
+| 171 | 318 | Jessica Sheehan |
 | 172 | 317 | Sarah Roberts |
 | 173 | 315 | Tyler Werts |
 | 174 | 315 | Danielle Little-Daugherty |
@@ -263,8 +263,8 @@
 | 255 | 230 | Thorne Shumate |
 | 256 | 230 | BigWeenie69 |
 | 257 | 229 | Tipsy Riseclear |
-| 258 | 228 | Adele Rahman |
-| 259 | 228 | Giddy Cascade |
+| 258 | 228 | Giddy Cascade |
+| 259 | 228 | Adele Rahman |
 | 260 | 226 | Glitzy Buildsnap |
 | 261 | 223 | Erez Yosef |
 | 262 | 223 | Layzietyme |
@@ -316,12 +316,12 @@
 | 308 | 199 | Christina Norman |
 | 309 | 199 | Tina Englert |
 | 310 | 197 | build master |
-| 311 | 196 | .running. |
-| 312 | 196 | Marci Sanders |
+| 311 | 196 | Marci Sanders |
+| 312 | 196 | .running. |
 | 313 | 195 | Herm Junior |
 | 314 | 195 | Beazel75 |
-| 315 | 193 | Steph |
-| 316 | 193 | Lachelle Dillon |
+| 315 | 193 | Lachelle Dillon |
+| 316 | 193 | Steph |
 | 317 | 192 | Jessica Russell |
 | 318 | 191 | John Garza |
 | 319 | 191 | Oscar Zamora |
@@ -390,8 +390,8 @@
 | 382 | 168 | Amber Dee |
 | 383 | 166 | Danielle Mae |
 | 384 | 166 | Gilbert Ortiz Jr. |
-| 385 | 165 | Rodney Schmerfeld |
-| 386 | 165 | Jason Benitez |
+| 385 | 165 | Jason Benitez |
+| 386 | 165 | Rodney Schmerfeld |
 | 387 | 165 | Nadine Velardo |
 | 388 | 164 | Tami Luce Martin |
 | 389 | 164 | Dizzy Riseclear |
@@ -436,8 +436,8 @@
 | 428 | 149 | Glitzy Grid |
 | 429 | 149 | Kimberly Davis |
 | 430 | 149 | MIKOZ |
-| 431 | 148 | Cozy Shatterer |
-| 432 | 148 | Dizzy Rackham |
+| 431 | 148 | Dizzy Rackham |
+| 432 | 148 | Cozy Shatterer |
 | 433 | 148 | Sir-Franchise Drake |
 | 434 | 147 | Jodee Woods |
 | 435 | 147 | Isaiah |
