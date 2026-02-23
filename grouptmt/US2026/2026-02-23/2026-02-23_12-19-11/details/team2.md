@@ -301,8 +301,8 @@
 | 293 | 1043 | nikki |
 | 294 | 1042 | Mcintosh Brian Shalonda |
 | 295 | 1040 | Rebecca Garland |
-| 296 | 1036 | Amber Shoemaker |
-| 297 | 1036 | Allison Lockyer |
+| 296 | 1036 | Allison Lockyer |
+| 297 | 1036 | Amber Shoemaker |
 | 298 | 1032 | Kristin Gower |
 | 299 | 1029 | Crystal Hoffman |
 | 300 | 1026 | Cindy Sechler Taninecz |
@@ -609,8 +609,8 @@
 | 601 | 601 | Moua Ying |
 | 602 | 601 | Daniel Amos |
 | 603 | 600 | Nicole Cox |
-| 604 | 597 | Jamie Schmitt |
-| 605 | 597 | TJ Nash |
+| 604 | 597 | TJ Nash |
+| 605 | 597 | Jamie Schmitt |
 | 606 | 597 | Magic steve |
 | 607 | 596 | Davetta Sanford |
 | 608 | 595 | Dapper Dasher |
@@ -629,8 +629,8 @@
 | 621 | 585 | Shelva Richard |
 | 622 | 584 | Melissa Kay Gibson |
 | 623 | 583 | Catherine Marsh Gruda |
-| 624 | 582 | Dawn L Washington-Feuquay |
-| 625 | 582 | Joseph Musick |
+| 624 | 582 | Joseph Musick |
+| 625 | 582 | Dawn L Washington-Feuquay |
 | 626 | 582 | Ebony Deloach Bryant |
 | 627 | 581 | Angie Marie |
 | 628 | 580 | Cheery Matchzone |

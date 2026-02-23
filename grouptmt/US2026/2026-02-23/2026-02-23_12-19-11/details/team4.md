@@ -66,8 +66,8 @@
 | 58 | 864 | Shelly Chandler |
 | 59 | 863 | Pee |
 | 60 | 859 | TeeJ |
-| 61 | 846 | Christine Marie |
-| 62 | 846 | Lucille Truesdale |
+| 61 | 846 | Lucille Truesdale |
+| 62 | 846 | Christine Marie |
 | 63 | 834 | quicksand420 |
 | 64 | 807 | Rachel Anne |
 | 65 | 807 | Amelpss |
@@ -78,8 +78,8 @@
 | 70 | 768 | Judy Cox |
 | 71 | 767 | Shannon Ferrari |
 | 72 | 766 | Robin Watters |
-| 73 | 765 | Denise Carlson |
-| 74 | 765 | Robin Getchel |
+| 73 | 765 | Robin Getchel |
+| 74 | 765 | Denise Carlson |
 | 75 | 758 | Avy Absol |
 | 76 | 753 | TheNeesh50 |
 | 77 | 752 | Shane Kalamata Platoon |
@@ -175,9 +175,9 @@
 | 167 | 402 | Lucas J Sutton |
 | 168 | 398 | Tyler Terrific |
 | 169 | 397 | Nick Gray |
-| 170 | 393 | Girl |
-| 171 | 393 | Brandon Crabbs |
-| 172 | 393 | Carlton Unfiltered |
+| 170 | 393 | Carlton Unfiltered |
+| 171 | 393 | Girl |
+| 172 | 393 | Brandon Crabbs |
 | 173 | 391 | Ramel Rhodes |
 | 174 | 389 | Joseph Guthrie |
 | 175 | 383 | Chris Bernstein |
@@ -216,8 +216,8 @@
 | 208 | 330 | blockstar |
 | 209 | 330 | J-Rizzle |
 | 210 | 328 | scott |
-| 211 | 324 | jim |
-| 212 | 324 | TinyLegoRose |
+| 211 | 324 | TinyLegoRose |
+| 212 | 324 | jim |
 | 213 | 321 | Meagan Nicole |
 | 214 | 320 | Lauren Scott |
 | 215 | 319 | Googenheim |
@@ -225,8 +225,8 @@
 | 217 | 317 | Madison Sweere |
 | 218 | 316 | Autumn Kumzi |
 | 219 | 313 | Milan Markeisha |
-| 220 | 312 | Dihcheese444 |
-| 221 | 312 | Casey Grabner |
+| 220 | 312 | Casey Grabner |
+| 221 | 312 | Dihcheese444 |
 | 222 | 311 | Mary Ann Pabukis |
 | 223 | 311 | Nikki Rae Gordon |
 | 224 | 310 | Holly Jolly |
@@ -387,8 +387,8 @@
 | 379 | 194 | Michelle Morris |
 | 380 | 194 | Zany Twisterfit |
 | 381 | 194 | Eri Kka |
-| 382 | 192 | Meg |
-| 383 | 192 | Twisty Risebuilder |
+| 382 | 192 | Twisty Risebuilder |
+| 383 | 192 | Meg |
 | 384 | 191 | Earnest Thompson |
 | 385 | 191 | Riverdale |
 | 386 | 191 | Norman Klick |
@@ -573,8 +573,8 @@
 | 565 | 130 | Gigglelymomof2 |
 | 566 | 130 | KoolMom9907 |
 | 567 | 129 | Alan Zukowski |
-| 568 | 129 | Dreamy Snapgrid |
-| 569 | 129 | Tamika Starkey |
+| 568 | 129 | Tamika Starkey |
+| 569 | 129 | Dreamy Snapgrid |
 | 570 | 129 | RIFATSIKDER |
 | 571 | 128 | Zesty Linkgrid |
 | 572 | 128 | Raymond Roberts |

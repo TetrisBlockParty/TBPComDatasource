@@ -78,8 +78,8 @@
 | 70 | 1264 | Amanda L Baker |
 | 71 | 1258 | Danielle Cutler |
 | 72 | 1256 | Jessica Bechler |
-| 73 | 1213 | Snappy Glidepiece |
-| 74 | 1213 | Nerdy Riseclear |
+| 73 | 1213 | Nerdy Riseclear |
+| 74 | 1213 | Snappy Glidepiece |
 | 75 | 1209 | Amanda Adkins |
 | 76 | 1186 | Christian A. Pollard |
 | 77 | 1162 | Gracie |
@@ -394,21 +394,21 @@
 | 386 | 279 | Tosha Griffey |
 | 387 | 279 | Naur |
 | 388 | 278 | Rufus Lincoln |
-| 389 | 277 | France Vézina |
-| 390 | 277 | Krystal Gerstberger |
-| 391 | 277 | Tipsy Zonebuilder |
-| 392 | 277 | Joe-Maggie Mathews |
+| 389 | 277 | Krystal Gerstberger |
+| 390 | 277 | France Vézina |
+| 391 | 277 | Joe-Maggie Mathews |
+| 392 | 277 | Tipsy Zonebuilder |
 | 393 | 276 | Karent524 |
-| 394 | 276 | BugMansMom |
-| 395 | 276 | Crimson |
-| 396 | 276 | Mikki Torres |
-| 397 | 276 | Noettín Kan Zasnemoore |
+| 394 | 276 | Noettín Kan Zasnemoore |
+| 395 | 276 | BugMansMom |
+| 396 | 276 | Crimson |
+| 397 | 276 | Mikki Torres |
 | 398 | 275 | Cassandra Bryant |
 | 399 | 274 | Mary Giorgenti |
 | 400 | 273 | Kevin Fountain |
 | 401 | 272 | Romeo |
-| 402 | 272 | Todd Hall |
-| 403 | 272 | Eboni Starr |
+| 402 | 272 | Eboni Starr |
+| 403 | 272 | Todd Hall |
 | 404 | 272 | Tay |
 | 405 | 269 | Goofy Fall |
 | 406 | 269 | Michael Latasha Gray |
