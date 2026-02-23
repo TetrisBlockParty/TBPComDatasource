@@ -46,8 +46,8 @@
 | 38 | 1128 | june october |
 | 39 | 1126 | Tater |
 | 40 | 1122 | Amanda Summey Schoemer |
-| 41 | 1114 | Marianne Louise West |
-| 42 | 1114 | Jayme Sellers |
+| 41 | 1114 | Jayme Sellers |
+| 42 | 1114 | Marianne Louise West |
 | 43 | 1112 | Chipper Gridlock |
 | 44 | 1100 | Derek MF Blakey |
 | 45 | 1092 | Tipsy Column |
@@ -138,8 +138,8 @@
 | 130 | 477 | Tonya Beasley |
 | 131 | 475 | Sarah Somers Gray |
 | 132 | 471 | Hyper |
-| 133 | 467 | Constance Risner |
-| 134 | 467 | Candy Jones |
+| 133 | 467 | Candy Jones |
+| 134 | 467 | Constance Risner |
 | 135 | 466 | Adrian Esteban |
 | 136 | 464 | Virginia Gray Floyd |
 | 137 | 463 | Melissa Lemmon |

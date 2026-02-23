@@ -144,8 +144,8 @@
 | 136 | 1932 | Gary Schaffner Jr. |
 | 137 | 1918 | Rebecca Doughman |
 | 138 | 1902 | Goofy Snapfit |
-| 139 | 1899 | Robin Kerby |
-| 140 | 1899 | Jamie Main |
+| 139 | 1899 | Jamie Main |
+| 140 | 1899 | Robin Kerby |
 | 141 | 1899 | Jumpy Gridpiece |
 | 142 | 1887 | Tonya Brooks-Johnson |
 | 143 | 1839 | Mari Ac |
@@ -195,8 +195,8 @@
 | 187 | 1532 | Dee |
 | 188 | 1511 | Rosa Franklin |
 | 189 | 1511 | Melissa Penelope Ann Dodge |
-| 190 | 1509 | Whitney Nicole Waterman |
-| 191 | 1509 | Howard Forest |
+| 190 | 1509 | Howard Forest |
+| 191 | 1509 | Whitney Nicole Waterman |
 | 192 | 1507 | Kiok |
 | 193 | 1504 | Hannah Erskine |
 | 194 | 1504 | Tony Lea |
@@ -271,8 +271,8 @@
 | 263 | 1183 | Poppy Snap |
 | 264 | 1179 | Georgia Triblett |
 | 265 | 1171 | Loretta Brewer-Gage |
-| 266 | 1165 | Christina Wsn |
-| 267 | 1165 | Michelle Lee |
+| 266 | 1165 | Michelle Lee |
+| 267 | 1165 | Christina Wsn |
 | 268 | 1163 | Erika Densmore |
 | 269 | 1160 | Sarah Ridenour |
 | 270 | 1158 | Brittany Clark |
@@ -367,8 +367,8 @@
 | 359 | 937 | Andrew Willis |
 | 360 | 937 | Jessica Wayne Cornwall |
 | 361 | 934 | Mighty Shatterfit |
-| 362 | 933 | Bee |
-| 363 | 933 | Nicole Cannon |
+| 362 | 933 | Nicole Cannon |
+| 363 | 933 | Bee |
 | 364 | 931 | Sinistah42o |
 | 365 | 929 | Ellie Jonas |
 | 366 | 928 | Elizabeth Wilbanks |
@@ -383,8 +383,8 @@
 | 375 | 907 | Gene Mills |
 | 376 | 907 | Kayla |
 | 377 | 904 | John Bednarik |
-| 378 | 903 | Giggy Blocker |
-| 379 | 903 | Eric Castaneda |
+| 378 | 903 | Eric Castaneda |
+| 379 | 903 | Giggy Blocker |
 | 380 | 902 | Diallo Sparkman |
 | 381 | 899 | Felicia Lynn |
 | 382 | 899 | Patrick Bartlett |
@@ -571,8 +571,8 @@
 | 563 | 659 | Anthony Huebel |
 | 564 | 659 | Trinity Oak |
 | 565 | 658 | Demeka Dangerous-kisses Johnson |
-| 566 | 656 | bonsai |
-| 567 | 656 | Tonya Lee |
+| 566 | 656 | Tonya Lee |
+| 567 | 656 | bonsai |
 | 568 | 655 | Véronique Lévesque Sabourin |
 | 569 | 655 | Silly Pivotfall |
 | 570 | 654 | g |
@@ -587,14 +587,14 @@
 | 579 | 645 | Andre Love |
 | 580 | 645 | James Smith |
 | 581 | 643 | Michelle Pike |
-| 582 | 642 | snkylnk |
-| 583 | 642 | Samantha Scibelli |
+| 582 | 642 | Samantha Scibelli |
+| 583 | 642 | snkylnk |
 | 584 | 642 | Michelle Fields |
 | 585 | 641 | Snazzy Basepiece |
 | 586 | 640 | Slinky Racker |
 | 587 | 639 | Belle Mari |
-| 588 | 639 | Toni Roberson |
-| 589 | 639 | Libby Hicks |
+| 588 | 639 | Libby Hicks |
+| 589 | 639 | Toni Roberson |
 | 590 | 638 | Maya June |
 | 591 | 638 | Leah Keesling |
 | 592 | 637 | Koa N Sharon Chen |

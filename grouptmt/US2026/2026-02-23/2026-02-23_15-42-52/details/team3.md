@@ -139,8 +139,8 @@
 | 131 | 774 | Keith J Oshman Jr. |
 | 132 | 773 | Daira Largen |
 | 133 | 770 | Daryn Elliott |
-| 134 | 764 | Groovy Catcher |
-| 135 | 764 | Hasty Cascadefit |
+| 134 | 764 | Hasty Cascadefit |
+| 135 | 764 | Groovy Catcher |
 | 136 | 762 | Speedy Bridger |
 | 137 | 757 | Fancy Cascader |
 | 138 | 756 | Patty Allen |
@@ -318,8 +318,8 @@
 | 310 | 368 | Sheila M Frazier |
 | 311 | 368 | Stephanie Woods |
 | 312 | 365 | LaShey Thompson |
-| 313 | 362 | Foltz Lee Kelli |
-| 314 | 362 | Brandon Givens |
+| 313 | 362 | Brandon Givens |
+| 314 | 362 | Foltz Lee Kelli |
 | 315 | 361 | Breanna Marsden |
 | 316 | 360 | Dee Pratt |
 | 317 | 359 | Kelly |
@@ -378,8 +378,8 @@
 | 370 | 318 | Christy Quick |
 | 371 | 316 | Travis W |
 | 372 | 314 | Tipsy Zonebuilder |
-| 373 | 313 | Erykah |
-| 374 | 313 | Hoppy Buildout |
+| 373 | 313 | Hoppy Buildout |
+| 374 | 313 | Erykah |
 | 375 | 312 | Eric Caccavale |
 | 376 | 311 | Troy |
 | 377 | 311 | Noettín Kan Zasnemoore |
@@ -576,8 +576,8 @@
 | 568 | 219 | Jill Stickney |
 | 569 | 219 | Trice Thomas |
 | 570 | 218 | Ginger Gray |
-| 571 | 218 | Tina Smith Roy |
-| 572 | 218 | Dapper Chiseler |
+| 571 | 218 | Dapper Chiseler |
+| 572 | 218 | Tina Smith Roy |
 | 573 | 218 | Sabrina Mansfield |
 | 574 | 217 | Alexi Pryor |
 | 575 | 217 | Tia Moore |
