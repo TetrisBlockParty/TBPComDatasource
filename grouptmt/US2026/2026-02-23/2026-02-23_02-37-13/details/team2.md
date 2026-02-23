@@ -40,8 +40,8 @@
 | 32 | 4199 | Claire Noland |
 | 33 | 4180 | Robert Diddle |
 | 34 | 4128 | Angela Pruitt |
-| 35 | 4120 | Corrine Hawks Soriano |
-| 36 | 4120 | Kristen Sceurman |
+| 35 | 4120 | Kristen Sceurman |
+| 36 | 4120 | Corrine Hawks Soriano |
 | 37 | 4093 | Jill Stroehlein |
 | 38 | 3895 | Nickie Baby |
 | 39 | 3770 | Brittany Alicia |
@@ -98,8 +98,8 @@
 | 90 | 2237 | Jen Tramack |
 | 91 | 2216 | Alicia Parrish |
 | 92 | 2165 | Tj Ball |
-| 93 | 2148 | Roger Grabbit |
-| 94 | 2148 | ShinyRose |
+| 93 | 2148 | ShinyRose |
+| 94 | 2148 | Roger Grabbit |
 | 95 | 2146 | KellyDyan |
 | 96 | 2106 | Cool Rollpiece |
 | 97 | 2103 | Alisha Peoples |
@@ -248,8 +248,8 @@
 | 240 | 1079 | Jennifer Kistner |
 | 241 | 1079 | Kimberly Hauck-Rausch |
 | 242 | 1078 | Moose Griffith |
-| 243 | 1073 | Eric Carlson |
-| 244 | 1073 | Jodi Blake |
+| 243 | 1073 | Jodi Blake |
+| 244 | 1073 | Eric Carlson |
 | 245 | 1071 | Kim Dean |
 | 246 | 1064 | BK Queen |
 | 247 | 1058 | Rickey Johnson |
@@ -269,8 +269,8 @@
 | 261 | 1021 | Glitzy Stackzone |
 | 262 | 1014 | Michele Morgan |
 | 263 | 1011 | Teresa Gillmore |
-| 264 | 1003 | Andrea Maher |
-| 265 | 1003 | nikki |
+| 264 | 1003 | nikki |
+| 265 | 1003 | Andrea Maher |
 | 266 | 998 | Shelley Thornburgh Wright |
 | 267 | 996 | Ashie Ann |
 | 268 | 987 | Julie Kresal |

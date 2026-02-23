@@ -59,8 +59,8 @@
 | 51 | 829 | Sevens4L |
 | 52 | 812 | Patrick Luckenbill |
 | 53 | 797 | Lawrence Belanger |
-| 54 | 783 | TSwag |
-| 55 | 783 | Redlicious 1 |
+| 54 | 783 | Redlicious 1 |
+| 55 | 783 | TSwag |
 | 56 | 779 | Andrea Dañielle Ortiz |
 | 57 | 772 | Tinah Montanna |
 | 58 | 770 | Zappy Curvetile |
@@ -127,10 +127,10 @@
 | 119 | 427 | Ly Phethmany |
 | 120 | 425 | Dandy Basegrid |
 | 121 | 417 | Lori Sanders- Davis |
-| 122 | 409 | Yvonne Marie |
-| 123 | 409 | Goose egg |
-| 124 | 406 | Candy Jones |
-| 125 | 406 | Desiree Deschaine Havee |
+| 122 | 409 | Goose egg |
+| 123 | 409 | Yvonne Marie |
+| 124 | 406 | Desiree Deschaine Havee |
+| 125 | 406 | Candy Jones |
 | 126 | 402 | Chris K |
 | 127 | 400 | Maria C. Hernandez |
 | 128 | 399 | Nery Martinez |
@@ -153,8 +153,8 @@
 | 145 | 364 | Shauna Loe |
 | 146 | 364 | Serina Marie |
 | 147 | 361 | Amanda Johnson Huffman |
-| 148 | 360 | Wisa |
-| 149 | 360 | phrmblk24 |
+| 148 | 360 | phrmblk24 |
+| 149 | 360 | Wisa |
 | 150 | 359 | Chirpy Smasher |
 | 151 | 353 | Josh Riemer |
 | 152 | 351 | Basment Living |
@@ -256,9 +256,9 @@
 | 248 | 240 | Daring Fitclear |
 | 249 | 238 | Tiffany Smith |
 | 250 | 234 | Paula Martin |
-| 251 | 233 | Shiny Gridmatch |
-| 252 | 233 | Angela Fairbank |
-| 253 | 233 | Melissa Bires Hussar |
+| 251 | 233 | Angela Fairbank |
+| 252 | 233 | Melissa Bires Hussar |
+| 253 | 233 | Shiny Gridmatch |
 | 254 | 233 | LC |
 | 255 | 231 | Tipsy Riseclear |
 | 256 | 231 | Giddy Cascade |

@@ -130,8 +130,8 @@
 | 122 | 471 | Chastity Mitchell |
 | 123 | 458 | Twisty Clicky |
 | 124 | 452 | Jolly Dashfit |
-| 125 | 451 | Peachy Fall |
-| 126 | 451 | Angela Srubar-Norman |
+| 125 | 451 | Angela Srubar-Norman |
+| 126 | 451 | Peachy Fall |
 | 127 | 448 | Kristin Manee |
 | 128 | 435 | Leslie Thomas |
 | 129 | 431 | Courtney Cicoria |
@@ -142,8 +142,8 @@
 | 134 | 418 | Marie-Pier Desjardins |
 | 135 | 415 | Klo |
 | 136 | 414 | Nope Young |
-| 137 | 413 | Chaz Duncan |
-| 138 | 413 | Kristina Black |
+| 137 | 413 | Kristina Black |
+| 138 | 413 | Chaz Duncan |
 | 139 | 412 | Jessica Bohlken |
 | 140 | 408 | Amanda Pauldo-Ivy |
 | 141 | 402 | Ericca Eldridge |
@@ -238,8 +238,8 @@
 | 230 | 264 | Carlos Ramirez |
 | 231 | 261 | JPW |
 | 232 | 260 | Selena Shaw |
-| 233 | 259 | Montiette Mcglown |
-| 234 | 259 | Cheery Risebuilder |
+| 233 | 259 | Cheery Risebuilder |
+| 234 | 259 | Montiette Mcglown |
 | 235 | 258 | Stella |
 | 236 | 257 | PeaceOs |
 | 237 | 256 | Mylo Lipscomb |
