@@ -287,8 +287,8 @@
 | 279 | 479 | Stephanie Bradley |
 | 280 | 479 | Hyper Matchzone |
 | 281 | 476 | Shunta Jacobs |
-| 282 | 475 | Tasha Wesson-Torrence |
-| 283 | 475 | Rebecca Bailey |
+| 282 | 475 | Rebecca Bailey |
+| 283 | 475 | Tasha Wesson-Torrence |
 | 284 | 474 | Tiffanie Alley |
 | 285 | 471 | Alexmac |
 | 286 | 471 | Mendoza Lee Christy |
@@ -372,13 +372,13 @@
 | 364 | 375 | neci |
 | 365 | 374 | Foltz Lee Kelli |
 | 366 | 373 | KayB |
-| 367 | 372 | Breanna Marsden |
-| 368 | 372 | Rich LeBlanc |
+| 367 | 372 | Rich LeBlanc |
+| 368 | 372 | Breanna Marsden |
 | 369 | 370 | Roary Danner |
 | 370 | 370 | Ashley Lynn Marchese |
 | 371 | 369 | Amber Glover |
-| 372 | 368 | Stephanie Woods |
-| 373 | 368 | Sheila M Frazier |
+| 372 | 368 | Sheila M Frazier |
+| 373 | 368 | Stephanie Woods |
 | 374 | 368 | Nikki Pags |
 | 375 | 367 | Swanky Snapclear |
 | 376 | 366 | Rick Poppen |
@@ -402,12 +402,12 @@
 | 394 | 349 | Donna |
 | 395 | 348 | Ashley Raines |
 | 396 | 346 | AlsoJess |
-| 397 | 345 | victory |
-| 398 | 345 | Misha Sanders |
+| 397 | 345 | Misha Sanders |
+| 398 | 345 | victory |
 | 399 | 344 | Beaudie Stroebel |
 | 400 | 343 | Brittany |
-| 401 | 342 | Cynthia Herrmann Egland |
-| 402 | 342 | Christina Marie Swisher |
+| 401 | 342 | Christina Marie Swisher |
+| 402 | 342 | Cynthia Herrmann Egland |
 | 403 | 341 | Eboni Starr |
 | 404 | 341 | Lys |
 | 405 | 340 | Kerry Nowickshere |

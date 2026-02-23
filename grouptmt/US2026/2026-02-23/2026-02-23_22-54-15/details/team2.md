@@ -178,8 +178,8 @@
 | 170 | 1804 | Chirpy Staggerpiece |
 | 171 | 1790 | Kara Gillen |
 | 172 | 1785 | bonsai |
-| 173 | 1771 | Heather Westrum |
-| 174 | 1771 | Eboni Banks |
+| 173 | 1771 | Eboni Banks |
+| 174 | 1771 | Heather Westrum |
 | 175 | 1767 | niecy |
 | 176 | 1763 | Juliana Marques Do Nascimento Gordy |
 | 177 | 1759 | Nerdy Pattern |
@@ -269,14 +269,14 @@
 | 261 | 1332 | Julie Kresal |
 | 262 | 1330 | Ann Knutson Anderson |
 | 263 | 1330 | Cassie Mercer |
-| 264 | 1324 | Lola C Davis |
-| 265 | 1324 | Tralonda Weeks |
+| 264 | 1324 | Tralonda Weeks |
+| 265 | 1324 | Lola C Davis |
 | 266 | 1321 | Ryan Stadel |
 | 267 | 1319 | Joshua Sommerville |
 | 268 | 1315 | Lucky Ladybug |
 | 269 | 1304 | Sarah Ridenour |
-| 270 | 1303 | Ronnie Nelson |
-| 271 | 1303 | Michele Morgan |
+| 270 | 1303 | Michele Morgan |
+| 271 | 1303 | Ronnie Nelson |
 | 272 | 1302 | Angie Marie |
 | 273 | 1300 | Tacara Cummings |
 | 274 | 1295 | Jess Morrison |
@@ -558,8 +558,8 @@
 | 550 | 765 | Michelle Pike |
 | 551 | 764 | Belle |
 | 552 | 764 | Shea Edison |
-| 553 | 763 | Heather Causey |
-| 554 | 763 | Megan Kitchner |
+| 553 | 763 | Megan Kitchner |
+| 554 | 763 | Heather Causey |
 | 555 | 761 | Jerilyn Andrina |
 | 556 | 760 | Shanae Dillahunty |
 | 557 | 758 | Stephanie Neuburger |

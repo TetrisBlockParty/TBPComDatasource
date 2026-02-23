@@ -62,8 +62,8 @@
 | 54 | 1156 | Goatimus Lombardi |
 | 55 | 1150 | Kimyatta Cavin |
 | 56 | 1106 | Ashley Ingram |
-| 57 | 1082 | Dion Crommarty |
-| 58 | 1082 | Avy Absol |
+| 57 | 1082 | Avy Absol |
+| 58 | 1082 | Dion Crommarty |
 | 59 | 1073 | Dustee Craddock-Harrison |
 | 60 | 1049 | Heather Tushner |
 | 61 | 1046 | Johnathan Martinez |
@@ -162,8 +162,8 @@
 | 154 | 520 | Zippy Block |
 | 155 | 519 | Lucas J Sutton |
 | 156 | 518 | Carly Alexis |
-| 157 | 516 | Twisty Clicky |
-| 158 | 516 | Trish |
+| 157 | 516 | Trish |
+| 158 | 516 | Twisty Clicky |
 | 159 | 514 | Scott Jameson |
 | 160 | 513 | Erin Thomas |
 | 161 | 513 | Jessica Lynn Cutlip |
@@ -262,11 +262,11 @@
 | 254 | 366 | Andrew Dang |
 | 255 | 366 | Cheery Risebuilder |
 | 256 | 365 | Hyper Builder |
-| 257 | 363 | KimoKoala |
-| 258 | 363 | TRCuse |
+| 257 | 363 | TRCuse |
+| 258 | 363 | KimoKoala |
 | 259 | 361 | Danielle Kollias |
-| 260 | 360 | James Hurley Jr. |
-| 261 | 360 | Ari Droff |
+| 260 | 360 | Ari Droff |
+| 261 | 360 | James Hurley Jr. |
 | 262 | 358 | Twisty Cascadezone |
 | 263 | 356 | mike |
 | 264 | 356 | Joeliecea Cobb |
@@ -277,11 +277,11 @@
 | 269 | 350 | Jen Caldwell |
 | 270 | 349 | jim |
 | 271 | 348 | blasterB |
-| 272 | 347 | Gdiguy |
-| 273 | 347 | Daria Rycewicz |
+| 272 | 347 | Daria Rycewicz |
+| 273 | 347 | Gdiguy |
 | 274 | 343 | HastyGrabber |
-| 275 | 340 | Lauren Lamb |
-| 276 | 340 | Cranky Rollpiece |
+| 275 | 340 | Cranky Rollpiece |
+| 276 | 340 | Lauren Lamb |
 | 277 | 340 | Amanda Maciel Clarke |
 | 278 | 330 | Sandra Safford |
 | 279 | 329 | Joanna |
