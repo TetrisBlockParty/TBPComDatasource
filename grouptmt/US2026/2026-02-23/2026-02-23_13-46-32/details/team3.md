@@ -172,8 +172,8 @@
 | 164 | 630 | yoyo |
 | 165 | 629 | rnr junky |
 | 166 | 622 | Denita Mungro |
-| 167 | 621 | Sashay Tapae Simpson |
-| 168 | 621 | Cherry Parker |
+| 167 | 621 | Cherry Parker |
+| 168 | 621 | Sashay Tapae Simpson |
 | 169 | 616 | Kammy Hill |
 | 170 | 611 | Rochelle Hazelett |
 | 171 | 603 | Jone |
@@ -432,8 +432,8 @@
 | 424 | 272 | Todd Hall |
 | 425 | 272 | Eboni Starr |
 | 426 | 271 | Scott Doss |
-| 427 | 269 | Jess Bissett |
-| 428 | 269 | Samantha Worley |
+| 427 | 269 | Samantha Worley |
+| 428 | 269 | Jess Bissett |
 | 429 | 269 | Goofy Fall |
 | 430 | 268 | Julia Nicole |
 | 431 | 268 | Jessica Lynn French |

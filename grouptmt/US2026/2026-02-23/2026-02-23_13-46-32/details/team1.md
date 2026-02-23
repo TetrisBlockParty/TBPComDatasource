@@ -120,8 +120,8 @@
 | 112 | 510 | Chirpy Smasher |
 | 113 | 509 | Rachael |
 | 114 | 502 | Anaid Sanchez |
-| 115 | 497 | Jennifer ManWarren |
-| 116 | 497 | Arianna O'Brien |
+| 115 | 497 | Arianna O'Brien |
+| 116 | 497 | Jennifer ManWarren |
 | 117 | 493 | MomMom |
 | 118 | 491 | cc |
 | 119 | 489 | Deanna L Hermanson |
@@ -189,8 +189,8 @@
 | 181 | 375 | Connie |
 | 182 | 374 | Howdi Duty |
 | 183 | 372 | Dizzy Party |
-| 184 | 371 | Damon J. Martin |
-| 185 | 371 | Jason Savage |
+| 184 | 371 | Jason Savage |
+| 185 | 371 | Damon J. Martin |
 | 186 | 370 | Timothy Danaher |
 | 187 | 369 | Christy Jones |
 | 188 | 367 | Sharon Reynolds |

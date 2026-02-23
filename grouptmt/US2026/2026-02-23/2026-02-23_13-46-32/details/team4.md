@@ -243,8 +243,8 @@
 | 235 | 310 | Stacey Stano |
 | 236 | 308 | Leah Kutz Zirbel |
 | 237 | 307 | Cheery Risebuilder |
-| 238 | 307 | Michele Plunkett |
-| 239 | 307 | Angie Schmidt |
+| 238 | 307 | Angie Schmidt |
+| 239 | 307 | Michele Plunkett |
 | 240 | 306 | mike |
 | 241 | 305 | Melvin Baird |
 | 242 | 304 | Gdiguy |

@@ -619,8 +619,8 @@
 | 611 | 602 | Jedi |
 | 612 | 602 | Jason H Baker |
 | 613 | 602 | Stephanie Sul |
-| 614 | 601 | Moua Ying |
-| 615 | 601 | Daniel Amos |
+| 614 | 601 | Daniel Amos |
+| 615 | 601 | Moua Ying |
 | 616 | 600 | Nicole Cox |
 | 617 | 600 | Adam Simmons |
 | 618 | 597 | Magic steve |
