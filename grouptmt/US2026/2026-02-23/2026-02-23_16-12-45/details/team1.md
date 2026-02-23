@@ -306,8 +306,8 @@
 | 298 | 274 | Eddie Dillon |
 | 299 | 274 | Allena Craft |
 | 300 | 273 | Test |
-| 301 | 272 | Michelle Beres |
-| 302 | 272 | Barrbaric |
+| 301 | 272 | Barrbaric |
+| 302 | 272 | Michelle Beres |
 | 303 | 271 | Robert |
 | 304 | 270 | Brenda Alexander |
 | 305 | 270 | Debbie Kane |

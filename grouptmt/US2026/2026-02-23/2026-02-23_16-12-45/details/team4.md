@@ -52,8 +52,8 @@
 | 44 | 1116 | Koshin Abdirahman |
 | 45 | 1093 | Ashley Ingram |
 | 46 | 1085 | Kimyatta Cavin |
-| 47 | 1082 | Dawn Alexander |
-| 48 | 1082 | Dion Crommarty |
+| 47 | 1082 | Dion Crommarty |
+| 48 | 1082 | Dawn Alexander |
 | 49 | 1071 | Cherrish Duren |
 | 50 | 1049 | Heather Tushner |
 | 51 | 1046 | Johnathan Martinez |
@@ -109,8 +109,8 @@
 | 101 | 659 | Jamie Gustafson |
 | 102 | 652 | Leslie Nicole |
 | 103 | 650 | KJ Pool |
-| 104 | 647 | KM8 |
-| 105 | 647 | Shauna Havard |
+| 104 | 647 | Shauna Havard |
+| 105 | 647 | KM8 |
 | 106 | 644 | Chris Hartig |
 | 107 | 637 | Lori Walker |
 | 108 | 635 | Adawna Swires |
@@ -343,7 +343,7 @@
 | 335 | 244 | Christina Black |
 | 336 | 244 | Perky Piecegrid |
 | 337 | 243 | Chair |
-| 338 | 242 | Maureen Flanigan |
+| 338 | 242 | Chaz |
 | 339 | 242 | PurpleMoonMa |
 | 340 | 242 | Maureen Flanigan |
 | 341 | 240 | Zany Shatterer |
@@ -607,19 +607,19 @@
 | 599 | 133 | Jazzy Slamdrop |
 | 600 | 133 | Holly Tracey-Grimes |
 | 601 | 132 | Matt Rawls |
-| 602 | 132 | Melissa Priest Sellers |
-| 603 | 132 | Jessica Cagle |
-| 604 | 132 | Adam Randall |
-| 605 | 132 | bloat princess |
-| 606 | 131 | David V. Bowers |
-| 607 | 131 | Chilly Matcher |
+| 602 | 132 | Jessica Cagle |
+| 603 | 132 | bloat princess |
+| 604 | 132 | Melissa Priest Sellers |
+| 605 | 132 | Adam Randall |
+| 606 | 131 | Chilly Matcher |
+| 607 | 131 | David V. Bowers |
 | 608 | 131 | Roseanna Anderson |
-| 609 | 131 | Tianna Frey |
-| 610 | 131 | Cool Clusterfit |
-| 611 | 131 | Cheryl Johnson |
+| 609 | 131 | Cheryl Johnson |
+| 610 | 131 | Tianna Frey |
+| 611 | 131 | Cool Clusterfit |
 | 612 | 130 | KoolMom9907 |
-| 613 | 130 | Gigglelymomof2 |
-| 614 | 130 | Robert Rangel |
+| 613 | 130 | Robert Rangel |
+| 614 | 130 | Gigglelymomof2 |
 | 615 | 129 | Tamika Starkey |
 | 616 | 129 | Dreamy Snapgrid |
 | 617 | 129 | RIFATSIKDER |

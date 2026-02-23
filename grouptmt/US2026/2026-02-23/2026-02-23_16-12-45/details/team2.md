@@ -377,8 +377,8 @@
 | 369 | 919 | Isaac Trappiel IV |
 | 370 | 916 | Butta |
 | 371 | 915 | Kelly Trent |
-| 372 | 914 | Shuany Arias |
-| 373 | 914 | William Hunt |
+| 372 | 914 | William Hunt |
+| 373 | 914 | Shuany Arias |
 | 374 | 913 | blume |
 | 375 | 909 | Valerie Brooke Lusk Armstrong |
 | 376 | 907 | Gene Mills |
@@ -405,8 +405,8 @@
 | 397 | 876 | Jessicah Myers |
 | 398 | 872 | Ashle Scranton |
 | 399 | 870 | Joy LaJeunesse |
-| 400 | 869 | BYM4L |
-| 401 | 869 | Venita Ray |
+| 400 | 869 | Venita Ray |
+| 401 | 869 | BYM4L |
 | 402 | 866 | Johnny Yeates |
 | 403 | 862 | Sarah Massey |
 | 404 | 858 | Lauren Fitzgerald Thomas |

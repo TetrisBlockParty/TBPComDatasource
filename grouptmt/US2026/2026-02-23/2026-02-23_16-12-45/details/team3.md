@@ -123,8 +123,8 @@
 | 115 | 891 | Jesse Olive |
 | 116 | 878 | Shane Wilson Jr. |
 | 117 | 874 | Jessica Pineda-Lopez |
-| 118 | 868 | Felicia Rocha |
-| 119 | 868 | Sarajane Lokan |
+| 118 | 868 | Sarajane Lokan |
+| 119 | 868 | Felicia Rocha |
 | 120 | 864 | Sunny Rotater |
 | 121 | 848 | Patricia Gadsden |
 | 122 | 846 | Kristie |
@@ -140,8 +140,8 @@
 | 132 | 774 | Keith J Oshman Jr. |
 | 133 | 773 | Daira Largen |
 | 134 | 770 | Daryn Elliott |
-| 135 | 764 | Groovy Catcher |
-| 136 | 764 | Hasty Cascadefit |
+| 135 | 764 | Hasty Cascadefit |
+| 136 | 764 | Groovy Catcher |
 | 137 | 762 | Speedy Bridger |
 | 138 | 759 | yoyo |
 | 139 | 757 | Fancy Cascader |
@@ -307,8 +307,8 @@
 | 299 | 385 | Velma Mull |
 | 300 | 384 | Noyb Adam |
 | 301 | 384 | France Vézina |
-| 302 | 379 | JessDrown |
-| 303 | 379 | Philip Rock |
+| 302 | 379 | Philip Rock |
+| 303 | 379 | JessDrown |
 | 304 | 378 | Chris Bell |
 | 305 | 378 | MsBee |
 | 306 | 375 | Stephanie Burtin |
