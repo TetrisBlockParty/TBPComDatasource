@@ -162,8 +162,8 @@
 | 154 | 514 | Lucas J Sutton |
 | 155 | 513 | Erin Thomas |
 | 156 | 513 | Jessica Lynn Cutlip |
-| 157 | 512 | ThaEviLJeNiuZ |
-| 158 | 512 | Angela Srubar-Norman |
+| 157 | 512 | Angela Srubar-Norman |
+| 158 | 512 | ThaEviLJeNiuZ |
 | 159 | 512 | Casey Jeffcoat |
 | 160 | 508 | Twisty Clicky |
 | 161 | 507 | Nick Gray |

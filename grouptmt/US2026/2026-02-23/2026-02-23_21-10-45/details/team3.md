@@ -150,8 +150,8 @@
 | 142 | 837 | mzcatzy |
 | 143 | 834 | opf |
 | 144 | 820 | Brenda Lee Vander Molen |
-| 145 | 818 | Dolores Falco |
-| 146 | 818 | Tasha Schriewer |
+| 145 | 818 | Tasha Schriewer |
+| 146 | 818 | Dolores Falco |
 | 147 | 812 | Speedy Bridger |
 | 148 | 812 | Katrina Schroeder |
 | 149 | 810 | Keith J Oshman Jr. |
@@ -255,8 +255,8 @@
 | 247 | 530 | Shannon Matthew Byers |
 | 248 | 529 | Terry Jo Jones |
 | 249 | 519 | Nichol Graham |
-| 250 | 516 | Cyd061769 |
-| 251 | 516 | Daring Brickzone |
+| 250 | 516 | Daring Brickzone |
+| 251 | 516 | Cyd061769 |
 | 252 | 515 | Cozy Snaplink |
 | 253 | 513 | Giggy Glidepiece |
 | 254 | 513 | Lizabeth Fox |
@@ -450,8 +450,8 @@
 | 442 | 310 | Trice Sodames |
 | 443 | 310 | Mindy Phelps |
 | 444 | 309 | Carol Cain Thurman |
-| 445 | 309 | Cheeky Snapper |
-| 446 | 309 | Block Baddie |
+| 445 | 309 | Block Baddie |
+| 446 | 309 | Cheeky Snapper |
 | 447 | 308 | Katrina Turner |
 | 448 | 308 | Beejangles |
 | 449 | 308 | Bryan Byrd |

@@ -316,8 +316,8 @@
 | 308 | 1163 | Erika Densmore |
 | 309 | 1160 | Sarah block |
 | 310 | 1158 | Brittany Clark |
-| 311 | 1156 | Alezandra Smith |
-| 312 | 1156 | Arkei Luster |
+| 311 | 1156 | Arkei Luster |
+| 312 | 1156 | Alezandra Smith |
 | 313 | 1145 | Deborah Miller |
 | 314 | 1142 | April Dawn Gussler |
 | 315 | 1142 | Sheniya Spurgeon |
@@ -555,8 +555,8 @@
 | 547 | 748 | Melissa Schulz |
 | 548 | 746 | Hoppy Brickmatch |
 | 549 | 743 | Frisky Clearpiece |
-| 550 | 742 | Ganieda |
-| 551 | 742 | Cassie Maynard |
+| 550 | 742 | Cassie Maynard |
+| 551 | 742 | Ganieda |
 | 552 | 741 | Giggy Mover |
 | 553 | 740 | Jerry Tempelmeyer |
 | 554 | 739 | Nicky Jackson |
