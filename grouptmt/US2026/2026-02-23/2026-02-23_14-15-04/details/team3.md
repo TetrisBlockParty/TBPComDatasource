@@ -81,8 +81,8 @@
 | 73 | 1252 | Gracie |
 | 74 | 1244 | Lori Barnaby |
 | 75 | 1221 | Betty Ivy |
-| 76 | 1213 | Snappy Glidepiece |
-| 77 | 1213 | Nerdy Riseclear |
+| 76 | 1213 | Nerdy Riseclear |
+| 77 | 1213 | Snappy Glidepiece |
 | 78 | 1209 | Amanda Adkins |
 | 79 | 1186 | Christian A. Pollard |
 | 80 | 1154 | Carrie Jarvis Mohler |
@@ -198,8 +198,8 @@
 | 190 | 562 | Dave Herzog |
 | 191 | 561 | Elissa S-k |
 | 192 | 559 | Patti Skiles |
-| 193 | 549 | Tasha Schriewer |
-| 194 | 549 | Sarah Cowan Burgos |
+| 193 | 549 | Sarah Cowan Burgos |
+| 194 | 549 | Tasha Schriewer |
 | 195 | 548 | Danielle Balcom |
 | 196 | 547 | Staci George Fitzsimmons |
 | 197 | 546 | Mykal Burton |

@@ -345,8 +345,8 @@
 | 337 | 958 | Kathryn Townsley |
 | 338 | 958 | Brenda Messer |
 | 339 | 958 | Doowop40 |
-| 340 | 957 | Block Master |
-| 341 | 957 | Matthew Joseph Acevedo |
+| 340 | 957 | Matthew Joseph Acevedo |
+| 341 | 957 | Block Master |
 | 342 | 955 | Angela Bonquiqui Dinish |
 | 343 | 954 | Melissa McCall |
 | 344 | 952 | Arkei Luster |
@@ -391,8 +391,8 @@
 | 383 | 880 | Arlene Joy Belicina |
 | 384 | 876 | Brenda Utphall |
 | 385 | 872 | Ashle Scranton |
-| 386 | 869 | BYM4L |
-| 387 | 869 | Venita Ray |
+| 386 | 869 | Venita Ray |
+| 387 | 869 | BYM4L |
 | 388 | 862 | Sarah Massey |
 | 389 | 858 | Lauren Fitzgerald Thomas |
 | 390 | 856 | Jelly |
@@ -762,8 +762,8 @@
 | 754 | 507 | Lina Sanders |
 | 755 | 506 | Epic Fitzone |
 | 756 | 506 | Cblock |
-| 757 | 505 | Paul Hinkle |
-| 758 | 505 | Casey Schumacher |
+| 757 | 505 | Casey Schumacher |
+| 758 | 505 | Paul Hinkle |
 | 759 | 505 | Sam |
 | 760 | 504 | Abimbola Bimbo |
 | 761 | 503 | Macy Jarrett |
@@ -775,8 +775,8 @@
 | 767 | 498 | Drwatson187 |
 | 768 | 497 | Juanita Lyons |
 | 769 | 497 | June E Hanson |
-| 770 | 496 | Tracy Cowley |
-| 771 | 496 | Angelina Marie |
+| 770 | 496 | Angelina Marie |
+| 771 | 496 | Tracy Cowley |
 | 772 | 496 | Shyne Sun |
 | 773 | 495 | Brandon Jones |
 | 774 | 495 | Kamilya Rembert |

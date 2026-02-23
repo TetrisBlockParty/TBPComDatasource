@@ -250,8 +250,8 @@
 | 242 | 307 | Angie Schmidt |
 | 243 | 306 | mike |
 | 244 | 305 | Melvin Baird |
-| 245 | 304 | Gdiguy |
-| 246 | 304 | Shiny Fit |
+| 245 | 304 | Shiny Fit |
+| 246 | 304 | Gdiguy |
 | 247 | 304 | Joanna |
 | 248 | 300 | Dana Scott |
 | 249 | 295 | Keshia Lyons |
@@ -361,9 +361,9 @@
 | 353 | 223 | Amanda Christine |
 | 354 | 222 | Brandi Durig |
 | 355 | 221 | Rheanda Weaskus |
-| 356 | 220 | Ziggy |
-| 357 | 220 | Jumpy Zonepiece |
-| 358 | 220 | Nita Wells |
+| 356 | 220 | Jumpy Zonepiece |
+| 357 | 220 | Nita Wells |
+| 358 | 220 | Ziggy |
 | 359 | 220 | Dustin York |
 | 360 | 219 | Orchislactea |
 | 361 | 219 | Shane Vick |
@@ -785,9 +785,9 @@
 | 777 | 96 | Nicole Serio |
 | 778 | 95 | Harper |
 | 779 | 95 | RedBoots82 |
-| 780 | 95 | Chirpy Slammer |
-| 781 | 95 | Wacky Blockclear |
-| 782 | 95 | Alicia Falk |
+| 780 | 95 | Wacky Blockclear |
+| 781 | 95 | Alicia Falk |
+| 782 | 95 | Chirpy Slammer |
 | 783 | 94 | Susan Purnell |
 | 784 | 94 | Myra LaTrice |
 | 785 | 93 | Sweet Pea |
