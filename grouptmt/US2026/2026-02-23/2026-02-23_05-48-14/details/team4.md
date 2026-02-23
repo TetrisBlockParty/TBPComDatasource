@@ -79,8 +79,8 @@
 | 71 | 749 | Dustee Craddock-Harrison |
 | 72 | 742 | Carolyn Wallace |
 | 73 | 740 | Avy Absol |
-| 74 | 736 | Crystal Carroll |
-| 75 | 736 | Goatimus Lombardi |
+| 74 | 736 | Goatimus Lombardi |
+| 75 | 736 | Crystal Carroll |
 | 76 | 721 | TheNeesh50 |
 | 77 | 717 | D3TROITB0RN74 |
 | 78 | 706 | Lisa Davis |
@@ -174,8 +174,8 @@
 | 166 | 368 | Raegan Lane-Ross |
 | 167 | 368 | Brandon Crabbs |
 | 168 | 365 | Jeff Brian Gates |
-| 169 | 361 | Melissa Adams |
-| 170 | 361 | Danielle Kollias |
+| 169 | 361 | Danielle Kollias |
+| 170 | 361 | Melissa Adams |
 | 171 | 359 | Keith Kelley |
 | 172 | 358 | A5! |
 | 173 | 356 | George Nutt |
@@ -185,8 +185,8 @@
 | 177 | 349 | Rafael Valentin |
 | 178 | 349 | Twisty Cascadezone |
 | 179 | 348 | April Rondinone |
-| 180 | 347 | Crystal Nicolette Moore |
-| 181 | 347 | Daria Rycewicz |
+| 180 | 347 | Daria Rycewicz |
+| 181 | 347 | Crystal Nicolette Moore |
 | 182 | 339 | David Lay |
 | 183 | 336 | Bio Nelly |
 | 184 | 335 | James Hurley Jr. |
@@ -205,8 +205,8 @@
 | 197 | 316 | Cursed Hag |
 | 198 | 311 | Mary Ann Pabukis |
 | 199 | 310 | Holly Jolly |
-| 200 | 307 | Cheery Risebuilder |
-| 201 | 307 | Michele Plunkett |
+| 200 | 307 | Michele Plunkett |
+| 201 | 307 | Cheery Risebuilder |
 | 202 | 306 | blockstar |
 | 203 | 305 | Melvin Baird |
 | 204 | 304 | Lindsay Ball |
@@ -215,8 +215,8 @@
 | 207 | 300 | Zakia Monae |
 | 208 | 300 | Dana Scott |
 | 209 | 295 | Keshia Lyons |
-| 210 | 294 | Calvin Cannon |
-| 211 | 294 | Porkobello |
+| 210 | 294 | Porkobello |
+| 211 | 294 | Calvin Cannon |
 | 212 | 292 | Epic Curvetile |
 | 213 | 290 | Plucky Patternblock |
 | 214 | 290 | Jared Gutwein |
@@ -238,12 +238,12 @@
 | 230 | 276 | Joeliecea Cobb |
 | 231 | 274 | JPW |
 | 232 | 273 | Casey Grabner |
-| 233 | 272 | Dennis Bradley |
-| 234 | 272 | Alan George LaRage |
-| 235 | 272 | Carlos Ramirez |
+| 233 | 272 | Carlos Ramirez |
+| 234 | 272 | Dennis Bradley |
+| 235 | 272 | Alan George LaRage |
 | 236 | 271 | Holly |
-| 237 | 270 | Jen Caldwell |
-| 238 | 270 | Juls |
+| 237 | 270 | Juls |
+| 238 | 270 | Jen Caldwell |
 | 239 | 266 | Mr. Party |
 | 240 | 265 | Silly SeaWeed |
 | 241 | 265 | Sarah Neathery |

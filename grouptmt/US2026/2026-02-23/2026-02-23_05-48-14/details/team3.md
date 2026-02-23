@@ -125,8 +125,8 @@
 | 117 | 769 | Kristie |
 | 118 | 764 | Groovy Catcher |
 | 119 | 762 | Speedy Bridger |
-| 120 | 752 | Raya |
-| 121 | 752 | Logan Naccarato |
+| 120 | 752 | Logan Naccarato |
+| 121 | 752 | Raya |
 | 122 | 748 | Adrian Marcel Pate |
 | 123 | 745 | JerseyJess |
 | 124 | 744 | Leah Barnett |
@@ -168,8 +168,8 @@
 | 160 | 591 | Michael Nowogorski |
 | 161 | 588 | Justin Ritter |
 | 162 | 587 | Louise Stacy Sisson |
-| 163 | 585 | Annie Marie |
-| 164 | 585 | Happy Tetriblast |
+| 163 | 585 | Happy Tetriblast |
+| 164 | 585 | Annie Marie |
 | 165 | 582 | Natasha Jones |
 | 166 | 579 | Tasha Gillespie |
 | 167 | 577 | Domo Washington |
@@ -187,8 +187,8 @@
 | 179 | 545 | Tasha Schriewer |
 | 180 | 540 | Shawn Miller |
 | 181 | 535 | Jone |
-| 182 | 531 | Chauntee Alfrey-Cardinale |
-| 183 | 531 | Sarah Cowan Burgos |
+| 182 | 531 | Sarah Cowan Burgos |
+| 183 | 531 | Chauntee Alfrey-Cardinale |
 | 184 | 528 | Silly Twist |
 | 185 | 524 | Bmo |
 | 186 | 519 | rnr junky |
@@ -206,8 +206,8 @@
 | 198 | 489 | Shannon Matthew Byers |
 | 199 | 488 | Melissa Orth Hunter |
 | 200 | 485 | Dapper Snap |
-| 201 | 480 | Michael Johnson |
-| 202 | 480 | Danielle Allison |
+| 201 | 480 | Danielle Allison |
+| 202 | 480 | Michael Johnson |
 | 203 | 475 | Tessina Dewey-Mancino |
 | 204 | 473 | Connie Mohler-Fair |
 | 205 | 473 | Rachel |
@@ -460,8 +460,8 @@
 | 452 | 229 | Everret Maxine |
 | 453 | 228 | Stephanie Hill |
 | 454 | 227 | Meowsa |
-| 455 | 226 | Jana Polk |
-| 456 | 226 | Ryan Williams |
+| 455 | 226 | Ryan Williams |
+| 456 | 226 | Jana Polk |
 | 457 | 226 | paranoid |
 | 458 | 225 | Sassy Tiler |
 | 459 | 225 | Goofy Fall |
@@ -598,7 +598,7 @@
 | 590 | 178 | Melissa Snyder |
 | 591 | 178 | Jennifer Neiman Gaal |
 | 592 | 177 | Sdot |
-| 593 | 177 | Matty Ray |
+| 593 | 177 | Elizabeth Renee |
 | 594 | 177 | Anna Moeller |
 | 595 | 177 | Matty Ray |
 | 596 | 177 | Chad |

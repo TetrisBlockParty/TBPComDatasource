@@ -210,8 +210,8 @@
 | 202 | 307 | Snappy Matcher |
 | 203 | 307 | femmefatale |
 | 204 | 306 | Angela Renea Lester |
-| 205 | 301 | Cody Gates |
-| 206 | 301 | Damon J. Martin |
+| 205 | 301 | Damon J. Martin |
+| 206 | 301 | Cody Gates |
 | 207 | 300 | Sleepysloath5745 |
 | 208 | 298 | Billie Ann Eason |
 | 209 | 294 | Bindi |
