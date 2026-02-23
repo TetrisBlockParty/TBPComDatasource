@@ -102,8 +102,8 @@
 | 94 | 529 | Ryan Lunnin |
 | 95 | 522 | Sarah Lombardo |
 | 96 | 511 | Mario Cab |
-| 97 | 510 | Colena Davenport |
-| 98 | 510 | Chirpy Smasher |
+| 97 | 510 | Chirpy Smasher |
+| 98 | 510 | Colena Davenport |
 | 99 | 509 | Rachael |
 | 100 | 497 | Arianna O'Brien |
 | 101 | 493 | Jennifer ManWarren |
@@ -112,8 +112,8 @@
 | 104 | 491 | cc |
 | 105 | 489 | April Carroll |
 | 106 | 489 | Deanna L Hermanson |
-| 107 | 483 | Tdub |
-| 108 | 483 | Trina Gee |
+| 107 | 483 | Trina Gee |
+| 108 | 483 | Tdub |
 | 109 | 480 | Ty Brown |
 | 110 | 478 | Stephanie Zahn |
 | 111 | 463 | Lexuriuos Lifestlye |
@@ -124,8 +124,8 @@
 | 116 | 451 | Plucky Ziggy |
 | 117 | 450 | lil mickey |
 | 118 | 449 | Anaid Sanchez |
-| 119 | 448 | Jazzy Framezone |
-| 120 | 448 | Sweet Baker |
+| 119 | 448 | Sweet Baker |
+| 120 | 448 | Jazzy Framezone |
 | 121 | 446 | SkipTheSadSauce |
 | 122 | 443 | Steve Schneider |
 | 123 | 439 | Dee Perry |
@@ -178,18 +178,18 @@
 | 170 | 353 | Josh Riemer |
 | 171 | 353 | Jaimie Lynn |
 | 172 | 350 | Tipsy Strikerpiece |
-| 173 | 349 | Oscar Zamora |
-| 174 | 349 | Cool Shiftsnap |
+| 173 | 349 | Cool Shiftsnap |
+| 174 | 349 | Oscar Zamora |
 | 175 | 346 | GATOR |
 | 176 | 346 | Erin Rosberg |
 | 177 | 345 | Jerry Danowski |
-| 178 | 343 | Chelsea Dahlquist |
-| 179 | 343 | Elaine Elaine |
+| 178 | 343 | Elaine Elaine |
+| 179 | 343 | Chelsea Dahlquist |
 | 180 | 341 | Nick R Montague |
 | 181 | 339 | Nicole Roseberry Weber |
 | 182 | 338 | Jennifer Hardman |
-| 183 | 337 | Jamise Brown |
-| 184 | 337 | Constance Risner |
+| 183 | 337 | Constance Risner |
+| 184 | 337 | Jamise Brown |
 | 185 | 336 | Dizzy Party |
 | 186 | 333 | Virginia Gray Floyd |
 | 187 | 333 | Gracie |
@@ -225,8 +225,8 @@
 | 217 | 290 | Hellsin |
 | 218 | 290 | Speedy Liney |
 | 219 | 287 | Sassy Builderline |
-| 220 | 285 | Bird Person |
-| 221 | 285 | Shanae Grant |
+| 220 | 285 | Shanae Grant |
+| 221 | 285 | Bird Person |
 | 222 | 284 | Sarah Somers Gray |
 | 223 | 284 | Sweetts |
 | 224 | 283 | Franswa |
@@ -296,10 +296,10 @@
 | 288 | 229 | Tamara Brown |
 | 289 | 229 | Dino |
 | 290 | 228 | .running. |
-| 291 | 227 | John Ramirez |
-| 292 | 227 | Happy Snapbuild |
-| 293 | 226 | Glitzy Buildsnap |
-| 294 | 226 | Snappy Brickbuilder |
+| 291 | 227 | Happy Snapbuild |
+| 292 | 227 | John Ramirez |
+| 293 | 226 | Snappy Brickbuilder |
+| 294 | 226 | Glitzy Buildsnap |
 | 295 | 225 | Angela Spann |
 | 296 | 224 | Danielle Mae |
 | 297 | 224 | Jumpy Rotate |

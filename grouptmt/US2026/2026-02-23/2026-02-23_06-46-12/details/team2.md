@@ -151,8 +151,8 @@
 | 143 | 1644 | Speedy Spinblock |
 | 144 | 1639 | Jessie McDougald |
 | 145 | 1629 | Mari Ac |
-| 146 | 1623 | Rebecca Doughman |
-| 147 | 1623 | Janel Turley-Garner |
+| 146 | 1623 | Janel Turley-Garner |
+| 147 | 1623 | Rebecca Doughman |
 | 148 | 1605 | Christi Hulet |
 | 149 | 1602 | blackq |
 | 150 | 1601 | Ray Ray Prado |
@@ -212,8 +212,8 @@
 | 204 | 1286 | Altamirano Michael |
 | 205 | 1282 | Tanya Parsons |
 | 206 | 1259 | Foxxo |
-| 207 | 1258 | Joyce Johnson Vaughn |
-| 208 | 1258 | Snappy Matchbuilder |
+| 207 | 1258 | Snappy Matchbuilder |
+| 208 | 1258 | Joyce Johnson Vaughn |
 | 209 | 1252 | Angel |
 | 210 | 1245 | Cody Nishimura |
 | 211 | 1240 | Brandon Armstrong |
@@ -222,8 +222,8 @@
 | 214 | 1232 | Ambyre Patterson |
 | 215 | 1230 | Megan Garrick |
 | 216 | 1221 | Jane Fong |
-| 217 | 1217 | Brooks Brooks |
-| 218 | 1217 | Lucky Ladybug |
+| 217 | 1217 | Lucky Ladybug |
+| 218 | 1217 | Brooks Brooks |
 | 219 | 1214 | David Cudicio-Hayden |
 | 220 | 1213 | Pacynthia Williams |
 | 221 | 1211 | Ricardo Burton |
@@ -313,8 +313,8 @@
 | 305 | 969 | Boldy Cascadepiece |
 | 306 | 965 | F-X |
 | 307 | 961 | Angela Lynn |
-| 308 | 958 | Doowop40 |
-| 309 | 958 | Brenda Messer |
+| 308 | 958 | Brenda Messer |
+| 309 | 958 | Doowop40 |
 | 310 | 957 | Block Master |
 | 311 | 956 | Phil J. Grombliniak |
 | 312 | 955 | Angela Bonquiqui Dinish |
@@ -333,14 +333,14 @@
 | 325 | 915 | Kelly Trent |
 | 326 | 914 | Shuany Arias |
 | 327 | 907 | Gene Mills |
-| 328 | 904 | John Bednarik |
-| 329 | 904 | Jennifer Aiken |
+| 328 | 904 | Jennifer Aiken |
+| 329 | 904 | John Bednarik |
 | 330 | 904 | Bee |
 | 331 | 903 | Giggy Blocker |
 | 332 | 902 | William Hunt |
 | 333 | 901 | Kevin Sees |
-| 334 | 899 | Patrick Bartlett |
-| 335 | 899 | Chevy |
+| 334 | 899 | Chevy |
+| 335 | 899 | Patrick Bartlett |
 | 336 | 898 | Jamie Otero |
 | 337 | 895 | Donna Colby |
 | 338 | 890 | Steve Man |
@@ -402,8 +402,8 @@
 | 394 | 787 | Tiara Elizabeth Baker |
 | 395 | 783 | John Rodriguez |
 | 396 | 779 | Kayla |
-| 397 | 777 | Tesha Oldaker |
-| 398 | 777 | Jessicah Myers |
+| 397 | 777 | Jessicah Myers |
+| 398 | 777 | Tesha Oldaker |
 | 399 | 776 | Fancy Twister |
 | 400 | 776 | Mighty Spinbuilder |
 | 401 | 775 | Crystie Hicks |
@@ -1007,7 +1007,7 @@
 | 999 | 364 | Jessica Galick |
 | 1000 | 364 | Marina Linda |
 | 1001 | 364 | Epic Spinfit |
-| 1002 | 364 | Marina Linda |
+| 1002 | 364 | Miranda Morris |
 | 1003 | 363 | Tammy Mitchell |
 | 1004 | 362 | Dione |
 | 1005 | 362 | Megan Phillips |
