@@ -282,8 +282,8 @@
 | 274 | 1172 | Stacey Clement |
 | 275 | 1172 | Lakeysha Dortch |
 | 276 | 1171 | Loretta Brewer-Gage |
-| 277 | 1165 | Michelle Lee |
-| 278 | 1165 | Christina Wsn |
+| 277 | 1165 | Christina Wsn |
+| 278 | 1165 | Michelle Lee |
 | 279 | 1163 | Erika Densmore |
 | 280 | 1158 | Brittany Clark |
 | 281 | 1156 | Alezandra Smith |
@@ -309,8 +309,8 @@
 | 301 | 1089 | Tyler C. Jung |
 | 302 | 1089 | Wakanda Forever |
 | 303 | 1086 | Deborah Miller |
-| 304 | 1079 | Angela Bonquiqui Dinish |
-| 305 | 1079 | Jennifer Kistner |
+| 304 | 1079 | Jennifer Kistner |
+| 305 | 1079 | Angela Bonquiqui Dinish |
 | 306 | 1076 | Cindy Sechler Taninecz |
 | 307 | 1073 | Jodi Blake |
 | 308 | 1072 | BK Queen |

@@ -86,8 +86,8 @@
 | 78 | 1244 | Lori Barnaby |
 | 79 | 1229 | Araceli Parra |
 | 80 | 1221 | Betty Ivy |
-| 81 | 1213 | Nerdy Riseclear |
-| 82 | 1213 | Snappy Glidepiece |
+| 81 | 1213 | Snappy Glidepiece |
+| 82 | 1213 | Nerdy Riseclear |
 | 83 | 1212 | Amanda Adkins |
 | 84 | 1186 | Christian A. Pollard |
 | 85 | 1168 | Shari Garber |
@@ -124,8 +124,8 @@
 | 116 | 896 | Jesse Olive |
 | 117 | 878 | Shane Wilson Jr. |
 | 118 | 874 | Jessica Pineda-Lopez |
-| 119 | 868 | Sarajane Lokan |
-| 120 | 868 | Felicia Rocha |
+| 119 | 868 | Felicia Rocha |
+| 120 | 868 | Sarajane Lokan |
 | 121 | 864 | Sunny Rotater |
 | 122 | 856 | Kristie |
 | 123 | 848 | Patricia Gadsden |
@@ -144,8 +144,8 @@
 | 136 | 773 | Tasha Schriewer |
 | 137 | 773 | Daira Largen |
 | 138 | 770 | Daryn Elliott |
-| 139 | 764 | Hasty Cascadefit |
-| 140 | 764 | Groovy Catcher |
+| 139 | 764 | Groovy Catcher |
+| 140 | 764 | Hasty Cascadefit |
 | 141 | 762 | Speedy Bridger |
 | 142 | 759 | yoyo |
 | 143 | 757 | Fancy Cascader |
@@ -191,8 +191,8 @@
 | 183 | 616 | Kammy Hill |
 | 184 | 606 | Tasha Gillespie |
 | 185 | 602 | Jacqueline Rodriguez |
-| 186 | 600 | Makelini Mausia |
-| 187 | 600 | Domo Washington |
+| 186 | 600 | Domo Washington |
+| 187 | 600 | Makelini Mausia |
 | 188 | 599 | opf |
 | 189 | 597 | CeceGeGe |
 | 190 | 597 | Diana Ibarra |
@@ -453,8 +453,8 @@
 | 445 | 284 | Hanna Kim |
 | 446 | 281 | Ava Petito |
 | 447 | 281 | Ktfreeee |
-| 448 | 280 | Amanda Declue |
-| 449 | 280 | Dirtgirl27 |
+| 448 | 280 | Dirtgirl27 |
+| 449 | 280 | Amanda Declue |
 | 450 | 280 | Nelma |
 | 451 | 279 | Tosha Griffey |
 | 452 | 278 | Rufus Lincoln |
