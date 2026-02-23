@@ -125,8 +125,8 @@
 | 117 | 537 | Stephanie Zahn |
 | 118 | 535 | Susan Ward |
 | 119 | 534 | Loony Fitzone |
-| 120 | 533 | Sarah Lombardo |
-| 121 | 533 | Sharon Reynolds |
+| 120 | 533 | Sharon Reynolds |
+| 121 | 533 | Sarah Lombardo |
 | 122 | 518 | Rachael |
 | 123 | 515 | Death |
 | 124 | 513 | April Carroll |
@@ -146,8 +146,8 @@
 | 138 | 486 | Dee Perry |
 | 139 | 483 | Trina Gee |
 | 140 | 477 | Tonya Beasley |
-| 141 | 475 | Plucky Ziggy |
-| 142 | 475 | Sarah Somers Gray |
+| 141 | 475 | Sarah Somers Gray |
+| 142 | 475 | Plucky Ziggy |
 | 143 | 470 | Candy Jones |
 | 144 | 467 | Constance Risner |
 | 145 | 466 | Adrian Esteban |
@@ -390,8 +390,8 @@
 | 382 | 229 | Ed Franz Jr |
 | 383 | 229 | Bob |
 | 384 | 227 | Happy Snapbuild |
-| 385 | 226 | Snappy Brickbuilder |
-| 386 | 226 | Alex Nicol |
+| 385 | 226 | Alex Nicol |
+| 386 | 226 | Snappy Brickbuilder |
 | 387 | 225 | Angela Spann |
 | 388 | 225 | Mel Hogan |
 | 389 | 224 | Nate Price |
@@ -490,8 +490,8 @@
 | 482 | 182 | Lyn Sibayan |
 | 483 | 182 | Isaiah |
 | 484 | 181 | David DeSantis |
-| 485 | 181 | Almïghty Stoner |
-| 486 | 181 | Corrie Grant Smithson |
+| 485 | 181 | Corrie Grant Smithson |
+| 486 | 181 | Almïghty Stoner |
 | 487 | 180 | Discovery Point |
 | 488 | 180 | Ashley Rodriguez |
 | 489 | 179 | Ward Leandrea |

@@ -86,8 +86,8 @@
 | 78 | 1244 | Lori Barnaby |
 | 79 | 1229 | Araceli Parra |
 | 80 | 1221 | Betty Ivy |
-| 81 | 1213 | Snappy Glidepiece |
-| 82 | 1213 | Nerdy Riseclear |
+| 81 | 1213 | Nerdy Riseclear |
+| 82 | 1213 | Snappy Glidepiece |
 | 83 | 1212 | Amanda Adkins |
 | 84 | 1186 | Christian A. Pollard |
 | 85 | 1158 | Danielle Mogg |
@@ -191,8 +191,8 @@
 | 183 | 616 | Kammy Hill |
 | 184 | 606 | Tasha Gillespie |
 | 185 | 602 | Jacqueline Rodriguez |
-| 186 | 600 | Domo Washington |
-| 187 | 600 | Makelini Mausia |
+| 186 | 600 | Makelini Mausia |
+| 187 | 600 | Domo Washington |
 | 188 | 599 | opf |
 | 189 | 597 | CeceGeGe |
 | 190 | 597 | Diana Ibarra |
@@ -205,8 +205,8 @@
 | 197 | 576 | Keis |
 | 198 | 568 | Rachael McClain Owens |
 | 199 | 566 | LaTanya GeminiondaRise Johnson |
-| 200 | 564 | Christine Trester |
-| 201 | 564 | Poppy Splitter |
+| 200 | 564 | Poppy Splitter |
+| 201 | 564 | Christine Trester |
 | 202 | 563 | Jim Mathews |
 | 203 | 563 | Connie Mohler-Fair |
 | 204 | 562 | Dave Herzog |
@@ -253,8 +253,8 @@
 | 245 | 477 | Edwin Calvillo Jr. |
 | 246 | 471 | Rebecca Bailey |
 | 247 | 471 | Mendoza Lee Christy |
-| 248 | 470 | Rebecca Funderburk Kirby |
-| 249 | 470 | Marci Mize Fandrich |
+| 248 | 470 | Marci Mize Fandrich |
+| 249 | 470 | Rebecca Funderburk Kirby |
 | 250 | 468 | Shunta Jacobs |
 | 251 | 467 | Sherry Ogden |
 | 252 | 466 | Eileen Brady Thurber |

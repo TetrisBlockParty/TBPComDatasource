@@ -268,8 +268,8 @@
 | 260 | 1221 | Jane Fong |
 | 261 | 1220 | Sarah Ridenour |
 | 262 | 1217 | Brooks Brooks |
-| 263 | 1216 | Pacynthia Williams |
-| 264 | 1216 | Brittany Radaszewski |
+| 263 | 1216 | Brittany Radaszewski |
+| 264 | 1216 | Pacynthia Williams |
 | 265 | 1214 | David Cudicio-Hayden |
 | 266 | 1211 | Ricardo Burton |
 | 267 | 1210 | John Rodriguez |
@@ -309,8 +309,8 @@
 | 301 | 1089 | Tyler C. Jung |
 | 302 | 1089 | Wakanda Forever |
 | 303 | 1086 | Deborah Miller |
-| 304 | 1079 | Jennifer Kistner |
-| 305 | 1079 | Angela Bonquiqui Dinish |
+| 304 | 1079 | Angela Bonquiqui Dinish |
+| 305 | 1079 | Jennifer Kistner |
 | 306 | 1076 | Cindy Sechler Taninecz |
 | 307 | 1073 | Jodi Blake |
 | 308 | 1072 | BK Queen |
