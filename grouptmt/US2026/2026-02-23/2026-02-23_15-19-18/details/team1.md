@@ -84,8 +84,8 @@
 | 76 | 758 | Ash Galvan |
 | 77 | 750 | Cartier |
 | 78 | 740 | Lori Sanders- Davis |
-| 79 | 713 | Robert Benito |
-| 80 | 713 | Snappy Swiper |
+| 79 | 713 | Snappy Swiper |
+| 80 | 713 | Robert Benito |
 | 81 | 710 | Jennifer ManWarren |
 | 82 | 704 | Karin Gillen |
 | 83 | 703 | Angel Fowler |
@@ -149,8 +149,8 @@
 | 141 | 456 | Dee Perry |
 | 142 | 454 | Desiree Deschaine Havee |
 | 143 | 453 | Brandi Huntington |
-| 144 | 451 | ALFD |
-| 145 | 451 | Plucky Ziggy |
+| 144 | 451 | Plucky Ziggy |
+| 145 | 451 | ALFD |
 | 146 | 450 | lil mickey |
 | 147 | 448 | Sweet Baker |
 | 148 | 448 | Jazzy Framezone |
@@ -179,9 +179,9 @@
 | 171 | 399 | phrmblk24 |
 | 172 | 397 | Erin Rosberg |
 | 173 | 394 | Lori Bales |
-| 174 | 393 | Wisa |
-| 175 | 393 | Lehrin Maria |
-| 176 | 393 | Kimmie Kimms |
+| 174 | 393 | Kimmie Kimms |
+| 175 | 393 | Wisa |
+| 176 | 393 | Lehrin Maria |
 | 177 | 391 | Basment Living |
 | 178 | 387 | Carrie Smith |
 | 179 | 387 | Monica Donato |
@@ -294,11 +294,11 @@
 | 286 | 275 | Garrett Burket |
 | 287 | 274 | Allena Craft |
 | 288 | 273 | Test |
-| 289 | 272 | Michelle Beres |
-| 290 | 272 | Barrbaric |
+| 289 | 272 | Barrbaric |
+| 290 | 272 | Michelle Beres |
 | 291 | 271 | Robert |
-| 292 | 270 | Debbie Kane |
-| 293 | 270 | Brenda Alexander |
+| 292 | 270 | Brenda Alexander |
+| 293 | 270 | Debbie Kane |
 | 294 | 269 | Colleen Pinette |
 | 295 | 268 | Standia Civil |
 | 296 | 268 | Wayne Saunders |

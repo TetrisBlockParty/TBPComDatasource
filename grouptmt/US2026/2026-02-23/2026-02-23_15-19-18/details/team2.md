@@ -383,8 +383,8 @@
 | 375 | 907 | Gene Mills |
 | 376 | 907 | Kayla |
 | 377 | 904 | John Bednarik |
-| 378 | 903 | Giggy Blocker |
-| 379 | 903 | Eric Castaneda |
+| 378 | 903 | Eric Castaneda |
+| 379 | 903 | Giggy Blocker |
 | 380 | 902 | Diallo Sparkman |
 | 381 | 899 | Felicia Lynn |
 | 382 | 899 | Chevy |
@@ -440,8 +440,8 @@
 | 432 | 808 | Connie Jimenez |
 | 433 | 808 | Jánine Riggs |
 | 434 | 804 | Sarah DeHart |
-| 435 | 804 | Barry Britt |
-| 436 | 804 | Becca Coronado |
+| 435 | 804 | Becca Coronado |
+| 436 | 804 | Barry Britt |
 | 437 | 803 | Tiara Elizabeth Baker |
 | 438 | 802 | Jessicah Myers |
 | 439 | 801 | Diana Fitzwater |

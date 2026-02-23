@@ -108,8 +108,8 @@
 | 100 | 664 | Nugget |
 | 101 | 659 | Jamie Gustafson |
 | 102 | 650 | KJ Pool |
-| 103 | 647 | KM8 |
-| 104 | 647 | Shauna Havard |
+| 103 | 647 | Shauna Havard |
+| 104 | 647 | KM8 |
 | 105 | 639 | Chris Hartig |
 | 106 | 637 | Lori Walker |
 | 107 | 635 | Adawna Swires |
@@ -372,8 +372,8 @@
 | 364 | 220 | Ziggy |
 | 365 | 220 | Kenna Gunderland |
 | 366 | 220 | Dustin York |
-| 367 | 219 | Orchislactea |
-| 368 | 219 | Shane Vick |
+| 367 | 219 | Shane Vick |
+| 368 | 219 | Orchislactea |
 | 369 | 218 | ĥuf |
 | 370 | 218 | Janita Parrish |
 | 371 | 217 | Cheery Fitline |

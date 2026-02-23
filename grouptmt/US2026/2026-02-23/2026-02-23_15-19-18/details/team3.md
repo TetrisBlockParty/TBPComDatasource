@@ -206,8 +206,8 @@
 | 198 | 549 | Sarah Cowan Burgos |
 | 199 | 548 | Danielle Balcom |
 | 200 | 547 | Staci George Fitzsimmons |
-| 201 | 546 | Cynthia Castros-Hampton |
-| 202 | 546 | Mykal Burton |
+| 201 | 546 | Mykal Burton |
+| 202 | 546 | Cynthia Castros-Hampton |
 | 203 | 543 | Silly Twist |
 | 204 | 540 | Shawn Miller |
 | 205 | 539 | Betty Bóò |
@@ -321,8 +321,8 @@
 | 313 | 360 | Dee Pratt |
 | 314 | 359 | Kelly |
 | 315 | 359 | Steven Fulater |
-| 316 | 358 | Roary Danner |
-| 317 | 358 | Heather Davis |
+| 316 | 358 | Heather Davis |
+| 317 | 358 | Roary Danner |
 | 318 | 358 | KayB |
 | 319 | 356 | Christian Werndl |
 | 320 | 354 | Andrew Thorson |
@@ -698,8 +698,8 @@
 | 690 | 185 | Breezy Roll |
 | 691 | 184 | Giddy Basepiece |
 | 692 | 184 | Shanon R Jackson |
-| 693 | 184 | Christian Luna |
-| 694 | 184 | Barb Wensink Johnson |
+| 693 | 184 | Barb Wensink Johnson |
+| 694 | 184 | Christian Luna |
 | 695 | 183 | Erin Ervin |
 | 696 | 183 | Silly Curvetile |
 | 697 | 183 | Lively Caster |
