@@ -60,8 +60,8 @@
 | 52 | 1155 | Jae Job |
 | 53 | 1150 | Kimyatta Cavin |
 | 54 | 1105 | Ashley Ingram |
-| 55 | 1082 | Avy Absol |
-| 56 | 1082 | Dion Crommarty |
+| 55 | 1082 | Dion Crommarty |
+| 56 | 1082 | Avy Absol |
 | 57 | 1065 | Dustee Craddock-Harrison |
 | 58 | 1049 | Heather Tushner |
 | 59 | 1046 | Johnathan Martinez |
@@ -259,11 +259,11 @@
 | 251 | 366 | Andrew Dang |
 | 252 | 366 | Cheery Risebuilder |
 | 253 | 365 | Hyper Builder |
-| 254 | 363 | TRCuse |
-| 255 | 363 | KimoKoala |
+| 254 | 363 | KimoKoala |
+| 255 | 363 | TRCuse |
 | 256 | 361 | Danielle Kollias |
-| 257 | 360 | James Hurley Jr. |
-| 258 | 360 | Ari Droff |
+| 257 | 360 | Ari Droff |
+| 258 | 360 | James Hurley Jr. |
 | 259 | 358 | Twisty Cascadezone |
 | 260 | 356 | mike |
 | 261 | 356 | Joeliecea Cobb |
@@ -316,12 +316,12 @@
 | 308 | 295 | Cool Gridzone |
 | 309 | 294 | BootsMcGee |
 | 310 | 293 | BigSammy420 |
-| 311 | 292 | Angel Raya |
+| 311 | 292 | Tracey Lehmann |
 | 312 | 292 | Epic Curvetile |
-| 313 | 292 | Aden Moss |
-| 314 | 292 | Angel Raya |
-| 315 | 291 | Dizzy Matchzone |
-| 316 | 291 | ZeeZee |
+| 313 | 292 | Angel Raya |
+| 314 | 292 | Aden Moss |
+| 315 | 291 | ZeeZee |
+| 316 | 291 | Dizzy Matchzone |
 | 317 | 291 | Brittney Orengo |
 | 318 | 290 | Neirrah B Olailjeel |
 | 319 | 290 | Jared Gutwein |
@@ -384,8 +384,8 @@
 | 376 | 257 | Marcus TheeyoungWoe Gilmore |
 | 377 | 256 | Mackenzie Forrester |
 | 378 | 256 | Jason Bosco |
-| 379 | 255 | Sallie Sanborn |
-| 380 | 255 | PennyCandee |
+| 379 | 255 | PennyCandee |
+| 380 | 255 | Sallie Sanborn |
 | 381 | 253 | Chair |
 | 382 | 253 | Autum Leigh |
 | 383 | 252 | Dan Wold |
@@ -430,8 +430,8 @@
 | 422 | 228 | Jessica Petersen |
 | 423 | 228 | Bethany Ison |
 | 424 | 227 | Martha Lucinda Bishop |
-| 425 | 227 | Asher |
-| 426 | 227 | Maria Hammie |
+| 425 | 227 | Maria Hammie |
+| 426 | 227 | Asher |
 | 427 | 225 | Jennifer Renee |
 | 428 | 224 | Vanessa Smart |
 | 429 | 224 | Ultramarine |

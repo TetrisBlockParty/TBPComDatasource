@@ -288,8 +288,8 @@
 | 280 | 1260 | Roman Lavochnik |
 | 281 | 1259 | Foxxo |
 | 282 | 1258 | Dimitra Zazara |
-| 283 | 1257 | Megan Garrick |
-| 284 | 1257 | Megan Ferguson Leone |
+| 283 | 1257 | Megan Ferguson Leone |
+| 284 | 1257 | Megan Garrick |
 | 285 | 1247 | Ericka Marie Smith |
 | 286 | 1241 | Jennifer Casey-Kay |
 | 287 | 1238 | Groovy Puzzle |
@@ -521,15 +521,15 @@
 | 513 | 797 | Alex Dungo Hoang |
 | 514 | 797 | Mighty Spinbuilder |
 | 515 | 796 | AndrewandShela Gornik |
-| 516 | 793 | Eunique Griffin |
-| 517 | 793 | Alexandra Weir |
+| 516 | 793 | Alexandra Weir |
+| 517 | 793 | Eunique Griffin |
 | 518 | 793 | Heather Schelkopf |
 | 519 | 790 | Dawn L Washington-Feuquay |
 | 520 | 790 | Mama T |
 | 521 | 789 | Leslie Jorgenson |
 | 522 | 788 | Samuel Macon |
-| 523 | 786 | Charvi' Carter |
-| 524 | 786 | Kimberly Randesi |
+| 523 | 786 | Kimberly Randesi |
+| 524 | 786 | Charvi' Carter |
 | 525 | 785 | Miranda Morris |
 | 526 | 781 | Sarah Berger |
 | 527 | 779 | Trinity Oak |
@@ -538,8 +538,8 @@
 | 530 | 777 | Tesha Oldaker |
 | 531 | 776 | Fancy Twister |
 | 532 | 774 | Cherrica Newman |
-| 533 | 771 | Darla Silva |
-| 534 | 771 | Stephanie Lumanlan |
+| 533 | 771 | Stephanie Lumanlan |
+| 534 | 771 | Darla Silva |
 | 535 | 769 | Amanda Ferrell |
 | 536 | 768 | Casper The Chonk |
 | 537 | 768 | Joshua Self |

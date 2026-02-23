@@ -283,8 +283,8 @@
 | 275 | 479 | Stephanie Bradley |
 | 276 | 477 | Hyper Matchzone |
 | 277 | 476 | Shunta Jacobs |
-| 278 | 475 | Tasha Wesson-Torrence |
-| 279 | 475 | Rebecca Bailey |
+| 278 | 475 | Rebecca Bailey |
+| 279 | 475 | Tasha Wesson-Torrence |
 | 280 | 474 | Tiffanie Alley |
 | 281 | 473 | Rebecca Funderburk Kirby |
 | 282 | 472 | Chummy Rumbler |
@@ -379,22 +379,22 @@
 | 371 | 364 | TotoCherue |
 | 372 | 362 | Brandon Givens |
 | 373 | 360 | Goofy Fall |
-| 374 | 359 | Steven Fulater |
-| 375 | 359 | Ann Hammac |
+| 374 | 359 | Ann Hammac |
+| 375 | 359 | Steven Fulater |
 | 376 | 359 | 4girls |
 | 377 | 358 | Ashley Rufus Bythcez |
 | 378 | 356 | Tony Waters |
 | 379 | 352 | LadyTorad |
 | 380 | 352 | xsiv |
-| 381 | 351 | Romeo |
-| 382 | 351 | Eon Harris |
+| 381 | 351 | Eon Harris |
+| 382 | 351 | Romeo |
 | 383 | 351 | TLM |
 | 384 | 350 | angieelyn |
 | 385 | 349 | Donna |
 | 386 | 348 | Ashley Raines |
 | 387 | 346 | AlsoJess |
-| 388 | 345 | Misha Sanders |
-| 389 | 345 | victory |
+| 388 | 345 | victory |
+| 389 | 345 | Misha Sanders |
 | 390 | 344 | Beaudie Stroebel |
 | 391 | 343 | Nikki White |
 | 392 | 342 | Cynthia Herrmann Egland |
