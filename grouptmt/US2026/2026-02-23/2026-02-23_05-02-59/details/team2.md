@@ -364,8 +364,8 @@
 | 356 | 831 | Christina Lewis-Vickers |
 | 357 | 830 | Diallo Sparkman |
 | 358 | 829 | Jessica Wayne Cornwall |
-| 359 | 824 | Danielle Johnson-Chandler |
-| 360 | 824 | Khalil Lowe |
+| 359 | 824 | Khalil Lowe |
+| 360 | 824 | Danielle Johnson-Chandler |
 | 361 | 823 | Alezandra Smith |
 | 362 | 822 | Lola Contreras |
 | 363 | 821 | Angie Bolton Workman |
@@ -500,8 +500,8 @@
 | 492 | 650 | Gary Stash |
 | 493 | 648 | Brittney Jean |
 | 494 | 646 | Jazzy Clusterline |
-| 495 | 644 | Véronique Lévesque Sabourin |
-| 496 | 644 | Demeka Dangerous-kisses Johnson |
+| 495 | 644 | Demeka Dangerous-kisses Johnson |
+| 496 | 644 | Véronique Lévesque Sabourin |
 | 497 | 643 | Michelle Pike |
 | 498 | 642 | Cassie Maynard |
 | 499 | 642 | Michelle Fields |

@@ -96,8 +96,8 @@
 | 88 | 570 | Cody Slav |
 | 89 | 562 | Denice Dee |
 | 90 | 537 | Tee Sheree |
-| 91 | 534 | Veronica Eve |
-| 92 | 534 | Loony Fitzone |
+| 91 | 534 | Loony Fitzone |
+| 92 | 534 | Veronica Eve |
 | 93 | 532 | Robert Benito |
 | 94 | 529 | Ryan Lunnin |
 | 95 | 522 | Sarah Lombardo |
@@ -109,8 +109,8 @@
 | 101 | 492 | Ash Galvan |
 | 102 | 489 | Deanna L Hermanson |
 | 103 | 488 | cc |
-| 104 | 483 | Trina Gee |
-| 105 | 483 | Tdub |
+| 104 | 483 | Tdub |
+| 105 | 483 | Trina Gee |
 | 106 | 478 | Stephanie Zahn |
 | 107 | 477 | April Carroll |
 | 108 | 462 | Luciano Moreira |
@@ -134,8 +134,8 @@
 | 126 | 425 | Dandy Basegrid |
 | 127 | 425 | Lori Sanders- Davis |
 | 128 | 411 | BadG52 |
-| 129 | 409 | Goose egg |
-| 130 | 409 | Sweet Baker |
+| 129 | 409 | Sweet Baker |
+| 130 | 409 | Goose egg |
 | 131 | 406 | Desiree Deschaine Havee |
 | 132 | 406 | Candy Jones |
 | 133 | 403 | Rachael |
@@ -156,8 +156,8 @@
 | 148 | 376 | Brian Richardsson |
 | 149 | 376 | Death |
 | 150 | 375 | Tanya Carpenter-Reynolds |
-| 151 | 371 | Jason Savage |
-| 152 | 371 | Basment Living |
+| 151 | 371 | Basment Living |
+| 152 | 371 | Jason Savage |
 | 153 | 368 | Amanda Johnson Huffman |
 | 154 | 367 | Sharon Reynolds |
 | 155 | 366 | J.F. Fields |

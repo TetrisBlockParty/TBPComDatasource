@@ -117,13 +117,13 @@
 | 109 | 528 | Rodney McMath Jr. |
 | 110 | 527 | Dizzy Tiley |
 | 111 | 519 | Nugget |
-| 112 | 517 | shar |
-| 113 | 517 | Christina LR |
-| 114 | 514 | Serena Goodridge |
-| 115 | 514 | Scott Jameson |
+| 112 | 517 | Christina LR |
+| 113 | 517 | shar |
+| 114 | 514 | Scott Jameson |
+| 115 | 514 | Serena Goodridge |
 | 116 | 513 | Erin Thomas |
-| 117 | 512 | Cristy Duerksen |
-| 118 | 512 | Casey Jeffcoat |
+| 117 | 512 | Casey Jeffcoat |
+| 118 | 512 | Cristy Duerksen |
 | 119 | 511 | Lori Walker |
 | 120 | 509 | Chilly Crasher |
 | 121 | 482 | Ren Mc |
@@ -161,10 +161,10 @@
 | 153 | 389 | Joseph Guthrie |
 | 154 | 387 | Lucas J Sutton |
 | 155 | 377 | Carrie Brian |
-| 156 | 375 | ThaEviLJeNiuZ |
-| 157 | 375 | Desi Desporte |
-| 158 | 374 | Guy Incognito |
-| 159 | 374 | Leslie Nicole |
+| 156 | 375 | Desi Desporte |
+| 157 | 375 | ThaEviLJeNiuZ |
+| 158 | 374 | Leslie Nicole |
+| 159 | 374 | Guy Incognito |
 | 160 | 370 | Oscar Alberto Perez |
 | 161 | 369 | Lindsey Gonzalez |
 | 162 | 368 | Raegan Lane-Ross |
@@ -172,15 +172,15 @@
 | 164 | 368 | Silly Zonebuilder |
 | 165 | 368 | Brandon Crabbs |
 | 166 | 365 | Jeff Brian Gates |
-| 167 | 361 | Melissa Adams |
-| 168 | 361 | Danielle Kollias |
+| 167 | 361 | Danielle Kollias |
+| 168 | 361 | Melissa Adams |
 | 169 | 359 | Keith Kelley |
 | 170 | 358 | A5! |
 | 171 | 356 | George Nutt |
 | 172 | 352 | Sue Joyce Staats |
 | 173 | 350 | TRCuse |
-| 174 | 349 | Rafael Valentin |
-| 175 | 349 | Twisty Cascadezone |
+| 174 | 349 | Twisty Cascadezone |
+| 175 | 349 | Rafael Valentin |
 | 176 | 348 | April Rondinone |
 | 177 | 347 | Daria Rycewicz |
 | 178 | 347 | Crystal Nicolette Moore |
@@ -246,8 +246,8 @@
 | 238 | 264 | Stella |
 | 239 | 262 | BigSammy420 |
 | 240 | 262 | Selena Shaw |
-| 241 | 260 | Carter Jones |
-| 242 | 260 | Rio Rocha |
+| 241 | 260 | Rio Rocha |
+| 242 | 260 | Carter Jones |
 | 243 | 259 | Montiette Mcglown |
 | 244 | 259 | Allen Lloyd |
 | 245 | 259 | John Brunetti |
@@ -266,8 +266,8 @@
 | 258 | 248 | Chirpy Basepiece |
 | 259 | 245 | rebel4lyfe |
 | 260 | 245 | 23 |
-| 261 | 244 | Christina Black |
-| 262 | 244 | Elizabeth Tinoco |
+| 261 | 244 | Elizabeth Tinoco |
+| 262 | 244 | Christina Black |
 | 263 | 242 | Chaz |
 | 264 | 240 | Kim Hunt |
 | 265 | 240 | Perky Patternblock |

@@ -166,8 +166,8 @@
 | 158 | 591 | Michael Nowogorski |
 | 159 | 588 | Justin Ritter |
 | 160 | 587 | Louise Stacy Sisson |
-| 161 | 585 | Happy Tetriblast |
-| 162 | 585 | Annie Marie |
+| 161 | 585 | Annie Marie |
+| 162 | 585 | Happy Tetriblast |
 | 163 | 582 | Natasha Jones |
 | 164 | 579 | Tasha Gillespie |
 | 165 | 577 | Domo Washington |
@@ -330,10 +330,10 @@
 | 322 | 296 | Tracy Martin |
 | 323 | 296 | Donna |
 | 324 | 294 | Isabel Ocasio |
-| 325 | 292 | Lizabeth Fox |
-| 326 | 292 | Khaleada McGill Banks |
-| 327 | 289 | Salena Whitlock |
-| 328 | 289 | DidIdothat |
+| 325 | 292 | Khaleada McGill Banks |
+| 326 | 292 | Lizabeth Fox |
+| 327 | 289 | DidIdothat |
+| 328 | 289 | Salena Whitlock |
 | 329 | 288 | Stephanie Bradley |
 | 330 | 288 | Desiree Soto |
 | 331 | 287 | Hoppy Patternline |
@@ -380,8 +380,8 @@
 | 372 | 266 | Quirky Dropzone |
 | 373 | 265 | Heather Davis |
 | 374 | 264 | Danielle Beaunoyer Jean |
-| 375 | 263 | Erika Thornton |
-| 376 | 263 | Jimmie Clemons |
+| 375 | 263 | Jimmie Clemons |
+| 376 | 263 | Erika Thornton |
 | 377 | 261 | Jul |
 | 378 | 260 | Alice |
 | 379 | 260 | Tracey Cox |
