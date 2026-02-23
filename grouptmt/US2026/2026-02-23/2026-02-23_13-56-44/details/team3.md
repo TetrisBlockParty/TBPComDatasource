@@ -29,8 +29,8 @@
 | 21 | 2697 | River |
 | 22 | 2499 | mjl574 |
 | 23 | 2387 | Susan Valentino |
-| 24 | 2353 | Tetris Master |
-| 25 | 2353 | Laura Melton |
+| 24 | 2353 | Laura Melton |
+| 25 | 2353 | Tetris Master |
 | 26 | 2311 | Brandon Green |
 | 27 | 2271 | Jeana Gilbert |
 | 28 | 2235 | Ant Ant |
@@ -81,8 +81,8 @@
 | 73 | 1252 | Gracie |
 | 74 | 1244 | Lori Barnaby |
 | 75 | 1221 | Betty Ivy |
-| 76 | 1213 | Snappy Glidepiece |
-| 77 | 1213 | Nerdy Riseclear |
+| 76 | 1213 | Nerdy Riseclear |
+| 77 | 1213 | Snappy Glidepiece |
 | 78 | 1209 | Amanda Adkins |
 | 79 | 1186 | Christian A. Pollard |
 | 80 | 1134 | Denise Nardoni |
@@ -172,8 +172,8 @@
 | 164 | 630 | yoyo |
 | 165 | 629 | rnr junky |
 | 166 | 622 | Denita Mungro |
-| 167 | 621 | Cherry Parker |
-| 168 | 621 | Sashay Tapae Simpson |
+| 167 | 621 | Sashay Tapae Simpson |
+| 168 | 621 | Cherry Parker |
 | 169 | 616 | Kammy Hill |
 | 170 | 611 | Rochelle Hazelett |
 | 171 | 603 | Jone |

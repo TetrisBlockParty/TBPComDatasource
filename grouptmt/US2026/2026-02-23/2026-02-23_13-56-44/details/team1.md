@@ -142,8 +142,8 @@
 | 134 | 453 | Brandi Huntington |
 | 135 | 451 | Plucky Ziggy |
 | 136 | 450 | lil mickey |
-| 137 | 448 | Jazzy Framezone |
-| 138 | 448 | Sweet Baker |
+| 137 | 448 | Sweet Baker |
+| 138 | 448 | Jazzy Framezone |
 | 139 | 446 | SkipTheSadSauce |
 | 140 | 443 | Steve Schneider |
 | 141 | 440 | femmefatale |
@@ -189,8 +189,8 @@
 | 181 | 375 | Connie |
 | 182 | 374 | Howdi Duty |
 | 183 | 372 | Dizzy Party |
-| 184 | 371 | Jason Savage |
-| 185 | 371 | Damon J. Martin |
+| 184 | 371 | Damon J. Martin |
+| 185 | 371 | Jason Savage |
 | 186 | 370 | Timothy Danaher |
 | 187 | 369 | Christy Jones |
 | 188 | 367 | Sharon Reynolds |
@@ -294,11 +294,11 @@
 | 286 | 268 | Standia Civil |
 | 287 | 265 | Flashy Rotator |
 | 288 | 264 | Jenny Gingrich Fuentes |
-| 289 | 263 | Sunny Shift |
-| 290 | 263 | Nadine Velardo |
+| 289 | 263 | Nadine Velardo |
+| 290 | 263 | Sunny Shift |
 | 291 | 261 | Brooke Elizabeth Antill |
-| 292 | 260 | Lacy Wolfe |
-| 293 | 260 | Marianita Garcia |
+| 292 | 260 | Marianita Garcia |
+| 293 | 260 | Lacy Wolfe |
 | 294 | 258 | Danielle S Kester |
 | 295 | 256 | Richard Corrado |
 | 296 | 256 | Chris Sigurdson |

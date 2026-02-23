@@ -209,8 +209,8 @@
 | 201 | 354 | TRCuse |
 | 202 | 354 | Kris Bartlett |
 | 203 | 352 | Sue Joyce Staats |
-| 204 | 348 | April Rondinone |
-| 205 | 348 | David Lay |
+| 204 | 348 | David Lay |
+| 205 | 348 | April Rondinone |
 | 206 | 347 | Crystal Nicolette Moore |
 | 207 | 347 | Daria Rycewicz |
 | 208 | 347 | Bio Nelly |
