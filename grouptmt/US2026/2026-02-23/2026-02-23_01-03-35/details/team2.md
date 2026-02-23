@@ -195,8 +195,8 @@
 | 187 | 1277 | Desiree Harris Rosch |
 | 188 | 1257 | Michele Gabriel |
 | 189 | 1243 | Anna Edwards |
-| 190 | 1232 | Ambyre Patterson |
-| 191 | 1232 | Groovy Puzzle |
+| 190 | 1232 | Groovy Puzzle |
+| 191 | 1232 | Ambyre Patterson |
 | 192 | 1230 | Megan Garrick |
 | 193 | 1230 | Teddi Notyalc |
 | 194 | 1225 | Marie Boyd Faulk |
@@ -273,8 +273,8 @@
 | 265 | 972 | Barbra Miller |
 | 266 | 958 | Brenda Messer |
 | 267 | 957 | Block Master |
-| 268 | 957 | Crystal Hoffman |
-| 269 | 957 | Offonar Facey |
+| 268 | 957 | Offonar Facey |
+| 269 | 957 | Crystal Hoffman |
 | 270 | 955 | Angela Bonquiqui Dinish |
 | 271 | 953 | Phil J. Grombliniak |
 | 272 | 951 | Cynthia Ward |
@@ -781,8 +781,8 @@
 | 773 | 393 | Cini |
 | 774 | 393 | Jamie West |
 | 775 | 392 | Christy Green |
-| 776 | 391 | Chilly Bridgepiece |
-| 777 | 391 | Megan Kitchner |
+| 776 | 391 | Megan Kitchner |
+| 777 | 391 | Chilly Bridgepiece |
 | 778 | 390 | MauroPRM |
 | 779 | 390 | Aireka Roman |
 | 780 | 388 | James Zaragoza |
@@ -832,8 +832,8 @@
 | 824 | 373 | Janitta Alvarez |
 | 825 | 373 | Natasha Edmonds |
 | 826 | 372 | Stephanie Fortune |
-| 827 | 372 | Adrian Benitez |
-| 828 | 372 | Gina Caulder |
+| 827 | 372 | Gina Caulder |
+| 828 | 372 | Adrian Benitez |
 | 829 | 372 | Dimitra Zazara |
 | 830 | 371 | NickyBrooks |
 | 831 | 371 | Mandi Marie Smith |
@@ -847,8 +847,8 @@
 | 839 | 365 | Janai Vrabel |
 | 840 | 365 | Rain |
 | 841 | 364 | Allyson Marra |
-| 842 | 364 | Shinette Dobson |
-| 843 | 364 | Jessica Galick |
+| 842 | 364 | Jessica Galick |
+| 843 | 364 | Shinette Dobson |
 | 844 | 364 | Marina Linda |
 | 845 | 363 | Jes Norris |
 | 846 | 363 | Tasia Stinson |

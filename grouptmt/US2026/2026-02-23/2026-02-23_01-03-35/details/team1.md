@@ -432,9 +432,9 @@
 | 424 | 149 | Logan McFarland |
 | 425 | 148 | Sir-Franchise Drake |
 | 426 | 148 | Dizzy Rackham |
-| 427 | 147 | Jodee Woods |
-| 428 | 147 | Brian Spotts |
-| 429 | 147 | Isaiah |
+| 427 | 147 | Isaiah |
+| 428 | 147 | Jodee Woods |
+| 429 | 147 | Brian Spotts |
 | 430 | 146 | Tazz |
 | 431 | 146 | Glitzy Grid |
 | 432 | 146 | Cozy Shatterer |

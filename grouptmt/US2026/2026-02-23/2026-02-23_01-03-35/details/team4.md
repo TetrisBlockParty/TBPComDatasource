@@ -194,8 +194,8 @@
 | 186 | 300 | Dana Scott |
 | 187 | 300 | Zakia Monae |
 | 188 | 297 | Melvin Baird |
-| 189 | 294 | Lindsay Ball |
-| 190 | 294 | Calvin Cannon |
+| 189 | 294 | Calvin Cannon |
+| 190 | 294 | Lindsay Ball |
 | 191 | 293 | Michele Plunkett |
 | 192 | 293 | Kathy Brookins |
 | 193 | 292 | Epic Curvetile |
@@ -237,8 +237,8 @@
 | 229 | 252 | Mr. Party |
 | 230 | 251 | Carol Ricks Raymond |
 | 231 | 249 | Ak Jones |
-| 232 | 248 | Chirpy Basepiece |
-| 233 | 248 | Jose Dejesus |
+| 232 | 248 | Jose Dejesus |
+| 233 | 248 | Chirpy Basepiece |
 | 234 | 247 | JPW |
 | 235 | 246 | Zethra Prenisha Rahming |
 | 236 | 245 | Adam Stephanie Parker |
@@ -248,8 +248,8 @@
 | 240 | 240 | Kim Hunt |
 | 241 | 240 | Perky Patternblock |
 | 242 | 238 | Chaz |
-| 243 | 237 | 030Synner |
-| 244 | 237 | Christine Therrien |
+| 243 | 237 | Christine Therrien |
+| 244 | 237 | 030Synner |
 | 245 | 235 | LaDonna LovinmesomeMe Lambert |
 | 246 | 235 | Shainne Brewer |
 | 247 | 233 | Ruben Wheeler |
