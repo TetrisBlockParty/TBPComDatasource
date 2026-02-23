@@ -135,8 +135,8 @@
 | 127 | 514 | Scott Jameson |
 | 128 | 513 | Erin Thomas |
 | 129 | 513 | Chaz Duncan |
-| 130 | 512 | Cristy Duerksen |
-| 131 | 512 | Casey Jeffcoat |
+| 130 | 512 | Casey Jeffcoat |
+| 131 | 512 | Cristy Duerksen |
 | 132 | 508 | Twisty Clicky |
 | 133 | 502 | Ellen Durfee |
 | 134 | 498 | Melissa Adams |
@@ -181,9 +181,9 @@
 | 173 | 404 | Lori |
 | 174 | 402 | Lucas J Sutton |
 | 175 | 398 | Tyler Terrific |
-| 176 | 393 | Brandon Crabbs |
+| 176 | 393 | Carlton Unfiltered |
 | 177 | 393 | Girl |
-| 178 | 393 | Carlton Unfiltered |
+| 178 | 393 | Brandon Crabbs |
 | 179 | 391 | Ramel Rhodes |
 | 180 | 389 | Joseph Guthrie |
 | 181 | 385 | 030Synner |
@@ -204,10 +204,10 @@
 | 196 | 355 | James Hurley Jr. |
 | 197 | 354 | TRCuse |
 | 198 | 352 | Sue Joyce Staats |
-| 199 | 348 | April Rondinone |
-| 200 | 348 | David Lay |
-| 201 | 347 | Crystal Nicolette Moore |
-| 202 | 347 | Daria Rycewicz |
+| 199 | 348 | David Lay |
+| 200 | 348 | April Rondinone |
+| 201 | 347 | Daria Rycewicz |
+| 202 | 347 | Crystal Nicolette Moore |
 | 203 | 347 | Bio Nelly |
 | 204 | 346 | shark tato |
 | 205 | 341 | scott |

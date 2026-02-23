@@ -370,8 +370,8 @@
 | 362 | 220 | Allena Craft |
 | 363 | 220 | Teri Oehlke |
 | 364 | 219 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
-| 365 | 219 | Jeanna Dunn |
-| 366 | 219 | Negan Mallory Knoxx Spence |
+| 365 | 219 | Negan Mallory Knoxx Spence |
+| 366 | 219 | Jeanna Dunn |
 | 367 | 218 | Jason Benitez |
 | 368 | 217 | Betsy |
 | 369 | 217 | Cheeky Crusher |
