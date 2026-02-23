@@ -271,8 +271,8 @@
 | 263 | 1183 | Poppy Snap |
 | 264 | 1179 | Georgia Triblett |
 | 265 | 1171 | Loretta Brewer-Gage |
-| 266 | 1165 | Michelle Lee |
-| 267 | 1165 | Christina Wsn |
+| 266 | 1165 | Christina Wsn |
+| 267 | 1165 | Michelle Lee |
 | 268 | 1163 | Erika Densmore |
 | 269 | 1160 | Sarah Ridenour |
 | 270 | 1158 | Brittany Clark |
@@ -383,8 +383,8 @@
 | 375 | 907 | Gene Mills |
 | 376 | 907 | Kayla |
 | 377 | 904 | John Bednarik |
-| 378 | 903 | Giggy Blocker |
-| 379 | 903 | Eric Castaneda |
+| 378 | 903 | Eric Castaneda |
+| 379 | 903 | Giggy Blocker |
 | 380 | 902 | Diallo Sparkman |
 | 381 | 899 | Felicia Lynn |
 | 382 | 899 | Patrick Bartlett |

@@ -139,8 +139,8 @@
 | 131 | 774 | Keith J Oshman Jr. |
 | 132 | 773 | Daira Largen |
 | 133 | 770 | Daryn Elliott |
-| 134 | 764 | Groovy Catcher |
-| 135 | 764 | Hasty Cascadefit |
+| 134 | 764 | Hasty Cascadefit |
+| 135 | 764 | Groovy Catcher |
 | 136 | 762 | Speedy Bridger |
 | 137 | 757 | Fancy Cascader |
 | 138 | 756 | Patty Allen |
@@ -221,8 +221,8 @@
 | 213 | 531 | Chauntee Alfrey-Cardinale |
 | 214 | 530 | Stephanie Blkpep Davidson |
 | 215 | 527 | Tamara Deherrera |
-| 216 | 524 | Terry Jo Jones |
-| 217 | 524 | Shannon Matthew Byers |
+| 216 | 524 | Shannon Matthew Byers |
+| 217 | 524 | Terry Jo Jones |
 | 218 | 524 | Bmo |
 | 219 | 515 | Cozy Snaplink |
 | 220 | 513 | kacihall |
@@ -333,8 +333,8 @@
 | 325 | 352 | LadyTorad |
 | 326 | 351 | Blocked |
 | 327 | 351 | Eon Harris |
-| 328 | 349 | Amanda J. Mcneil-Anderson |
-| 329 | 349 | Num1hater |
+| 328 | 349 | Num1hater |
+| 329 | 349 | Amanda J. Mcneil-Anderson |
 | 330 | 348 | Kelly Wolf |
 | 331 | 348 | Ashley Raines |
 | 332 | 346 | Chummy Rumbler |
