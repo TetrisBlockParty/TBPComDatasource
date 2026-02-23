@@ -78,8 +78,8 @@
 | 70 | 1264 | Amanda L Baker |
 | 71 | 1258 | Danielle Cutler |
 | 72 | 1256 | Jessica Bechler |
-| 73 | 1213 | Nerdy Riseclear |
-| 74 | 1213 | Snappy Glidepiece |
+| 73 | 1213 | Snappy Glidepiece |
+| 74 | 1213 | Nerdy Riseclear |
 | 75 | 1209 | Amanda Adkins |
 | 76 | 1186 | Christian A. Pollard |
 | 77 | 1162 | Gracie |
@@ -128,8 +128,8 @@
 | 120 | 800 | Lauren Girouard |
 | 121 | 799 | Dolores Falco |
 | 122 | 779 | Justin Ritter |
-| 123 | 775 | Kristie |
-| 124 | 775 | Leah Barnett |
+| 123 | 775 | Leah Barnett |
+| 124 | 775 | Kristie |
 | 125 | 774 | Keith J Oshman Jr. |
 | 126 | 773 | Daira Largen |
 | 127 | 764 | Groovy Catcher |
@@ -169,8 +169,8 @@
 | 161 | 634 | Amber Hughes |
 | 162 | 631 | Grego Daniel |
 | 163 | 630 | yoyo |
-| 164 | 621 | Cherry Parker |
-| 165 | 621 | Sashay Tapae Simpson |
+| 164 | 621 | Sashay Tapae Simpson |
+| 165 | 621 | Cherry Parker |
 | 166 | 616 | Kammy Hill |
 | 167 | 611 | Rochelle Hazelett |
 | 168 | 603 | Jone |
@@ -372,8 +372,8 @@
 | 364 | 298 | Dannie Litchard |
 | 365 | 298 | Grams |
 | 366 | 297 | kacihall |
-| 367 | 296 | Tracy Martin |
-| 368 | 296 | Donna |
+| 367 | 296 | Donna |
+| 368 | 296 | Tracy Martin |
 | 369 | 296 | Amy Montz |
 | 370 | 292 | Arden White Kirsch |
 | 371 | 292 | Dakota Graham |
@@ -394,8 +394,8 @@
 | 386 | 279 | Tosha Griffey |
 | 387 | 279 | Naur |
 | 388 | 278 | Rufus Lincoln |
-| 389 | 277 | Krystal Gerstberger |
-| 390 | 277 | France Vézina |
+| 389 | 277 | France Vézina |
+| 390 | 277 | Krystal Gerstberger |
 | 391 | 277 | Tipsy Zonebuilder |
 | 392 | 277 | Joe-Maggie Mathews |
 | 393 | 276 | Karent524 |
