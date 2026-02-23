@@ -137,8 +137,8 @@
 | 129 | 467 | Constance Risner |
 | 130 | 467 | Candy Jones |
 | 131 | 466 | Adrian Esteban |
-| 132 | 463 | Lexuriuos Lifestlye |
-| 133 | 463 | Melissa Lemmon |
+| 132 | 463 | Melissa Lemmon |
+| 133 | 463 | Lexuriuos Lifestlye |
 | 134 | 462 | Luciano Moreira |
 | 135 | 461 | Ly Phethmany |
 | 136 | 458 | Goose egg |

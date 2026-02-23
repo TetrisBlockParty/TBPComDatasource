@@ -157,8 +157,8 @@
 | 149 | 1767 | niecy |
 | 150 | 1759 | Nerdy Pattern |
 | 151 | 1755 | Loopy Clusterbuilder |
-| 152 | 1751 | Bob |
-| 153 | 1751 | Woodys Glass |
+| 152 | 1751 | Woodys Glass |
+| 153 | 1751 | Bob |
 | 154 | 1720 | Morgue Chick |
 | 155 | 1709 | Dustin Rains |
 | 156 | 1706 | Janel Turley-Garner |
@@ -168,8 +168,8 @@
 | 160 | 1658 | Liberty |
 | 161 | 1653 | Michele Gabriel |
 | 162 | 1647 | Jessie McDougald |
-| 163 | 1644 | Speedy Spinblock |
-| 164 | 1644 | Luna |
+| 163 | 1644 | Luna |
+| 164 | 1644 | Speedy Spinblock |
 | 165 | 1640 | Scott Treadway |
 | 166 | 1639 | Mari Ac |
 | 167 | 1629 | Rickey Johnson |
@@ -340,8 +340,8 @@
 | 332 | 987 | Osun Anuket Esu |
 | 333 | 984 | Phil J. Grombliniak |
 | 334 | 980 | Jackie Lucas |
-| 335 | 978 | Binyah-Binyah |
-| 336 | 978 | April Dawn Gussler |
+| 335 | 978 | April Dawn Gussler |
+| 336 | 978 | Binyah-Binyah |
 | 337 | 976 | Della Hole |
 | 338 | 976 | Sam Joe |
 | 339 | 975 | Hyper Cluster |
@@ -349,10 +349,10 @@
 | 341 | 971 | Jojo Momma |
 | 342 | 969 | Cheech Dta |
 | 343 | 958 | Kathryn Townsley |
-| 344 | 958 | Brenda Messer |
-| 345 | 958 | Doowop40 |
-| 346 | 957 | Matthew Joseph Acevedo |
-| 347 | 957 | Block Master |
+| 344 | 958 | Doowop40 |
+| 345 | 958 | Brenda Messer |
+| 346 | 957 | Block Master |
+| 347 | 957 | Matthew Joseph Acevedo |
 | 348 | 955 | Angela Bonquiqui Dinish |
 | 349 | 954 | Melissa McCall |
 | 350 | 951 | Cynthia Ward |
@@ -366,8 +366,8 @@
 | 358 | 937 | Jessica Wayne Cornwall |
 | 359 | 937 | Andrew Willis |
 | 360 | 934 | Mighty Shatterfit |
-| 361 | 933 | Bee |
-| 362 | 933 | Nicole Cannon |
+| 361 | 933 | Nicole Cannon |
+| 362 | 933 | Bee |
 | 363 | 931 | Sinistah42o |
 | 364 | 929 | Ellie Jonas |
 | 365 | 928 | Elizabeth Wilbanks |
@@ -375,8 +375,8 @@
 | 367 | 917 | Nashu |
 | 368 | 916 | Butta |
 | 369 | 915 | Kelly Trent |
-| 370 | 914 | William Hunt |
-| 371 | 914 | Shuany Arias |
+| 370 | 914 | Shuany Arias |
+| 371 | 914 | William Hunt |
 | 372 | 913 | blume |
 | 373 | 909 | Valerie Brooke Lusk Armstrong |
 | 374 | 907 | Gene Mills |
@@ -487,8 +487,8 @@
 | 479 | 750 | Draizen Montrell Thomas |
 | 480 | 750 | Michael Buckner |
 | 481 | 748 | Ann Matzkanin |
-| 482 | 746 | Hoppy Brickmatch |
-| 483 | 746 | Ryan Stadel |
+| 482 | 746 | Ryan Stadel |
+| 483 | 746 | Hoppy Brickmatch |
 | 484 | 746 | Samuel Macon |
 | 485 | 742 | Ganieda |
 | 486 | 742 | Cassie Maynard |
@@ -518,8 +518,8 @@
 | 510 | 711 | Narutofreak13 |
 | 511 | 709 | Marie Walker |
 | 512 | 707 | Cc |
-| 513 | 706 | Irene Jones |
-| 514 | 706 | Poldo Ilano |
+| 513 | 706 | Poldo Ilano |
+| 514 | 706 | Irene Jones |
 | 515 | 704 | Montez Mancil |
 | 516 | 704 | Tansaria Couch-Butler |
 | 517 | 703 | Dannette Goldberg-Richards |
