@@ -61,8 +61,8 @@
 | 53 | 1276 | Aaron Pitkin |
 | 54 | 1269 | Amber Jones |
 | 55 | 1258 | Jennifer Petrie |
-| 56 | 1256 | Mahman |
-| 57 | 1256 | Jessica Bechler |
+| 56 | 1256 | Jessica Bechler |
+| 57 | 1256 | Mahman |
 | 58 | 1191 | Nate Burnside |
 | 59 | 1167 | Elaine Webb Graves |
 | 60 | 1141 | Queen Kam |
@@ -87,8 +87,8 @@
 | 79 | 950 | Nerdy Riseclear |
 | 80 | 945 | Shonna Roberts |
 | 81 | 938 | Mandy Smith Oldham |
-| 82 | 926 | Judi Dobson |
-| 83 | 926 | Angela M. Fletcher |
+| 82 | 926 | Angela M. Fletcher |
+| 83 | 926 | Judi Dobson |
 | 84 | 923 | Christine Filson |
 | 85 | 921 | Michelle |
 | 86 | 910 | Jay Horn |
@@ -157,12 +157,12 @@
 | 149 | 582 | Natasha Jones |
 | 150 | 579 | Tasha Gillespie |
 | 151 | 574 | Morgan Martinez |
-| 152 | 572 | CeceGeGe |
-| 153 | 572 | Domo Washington |
+| 152 | 572 | Domo Washington |
+| 153 | 572 | CeceGeGe |
 | 154 | 571 | Nicole Myers |
 | 155 | 568 | Rachael McClain Owens |
-| 156 | 562 | Louise Stacy Sisson |
-| 157 | 562 | Dave Herzog |
+| 156 | 562 | Dave Herzog |
+| 157 | 562 | Louise Stacy Sisson |
 | 158 | 553 | LaTanya GeminiondaRise Johnson |
 | 159 | 549 | Peppy Shifter |
 | 160 | 546 | Cynthia Castros-Hampton |
@@ -253,10 +253,10 @@
 | 245 | 364 | Steffi Chris Dacones |
 | 246 | 362 | Brandon Givens |
 | 247 | 360 | Sheila M Frazier |
-| 248 | 357 | Stephanie Burtin |
-| 249 | 357 | Ammmmmmy |
-| 250 | 352 | Christian Werndl |
-| 251 | 352 | Samantha Lynn |
+| 248 | 357 | Ammmmmmy |
+| 249 | 357 | Stephanie Burtin |
+| 250 | 352 | Samantha Lynn |
+| 251 | 352 | Christian Werndl |
 | 252 | 351 | Eon Harris |
 | 253 | 349 | Amanda J. Mcneil-Anderson |
 | 254 | 347 | Rania Zaqout |
@@ -355,8 +355,8 @@
 | 347 | 267 | Tosha Griffey |
 | 348 | 266 | Quirky Dropzone |
 | 349 | 265 | Michael Kimbro |
-| 350 | 263 | Erika Thornton |
-| 351 | 263 | Jimmie Clemons |
+| 350 | 263 | Jimmie Clemons |
+| 351 | 263 | Erika Thornton |
 | 352 | 262 | Kristin Delibac Corrigan |
 | 353 | 258 | IamJust Neyamijah Washington Sr. |
 | 354 | 257 | Naur |

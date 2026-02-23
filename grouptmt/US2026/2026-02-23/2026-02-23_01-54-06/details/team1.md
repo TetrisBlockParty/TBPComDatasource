@@ -84,8 +84,8 @@
 | 76 | 583 | Kellie |
 | 77 | 582 | Plucky Fallzone |
 | 78 | 570 | Cody Slav |
-| 79 | 569 | Greg Hart |
-| 80 | 569 | Theo Pinnow |
+| 79 | 569 | Theo Pinnow |
+| 80 | 569 | Greg Hart |
 | 81 | 566 | Cynthia Bradley |
 | 82 | 552 | Aaron Garnett |
 | 83 | 535 | Denice Dee |
@@ -166,8 +166,8 @@
 | 158 | 337 | Constance Risner |
 | 159 | 336 | Fmp |
 | 160 | 334 | Jaimie Lynn |
-| 161 | 333 | Gracie |
-| 162 | 333 | GATOR |
+| 161 | 333 | GATOR |
+| 162 | 333 | Gracie |
 | 163 | 332 | Lehrin Maria |
 | 164 | 329 | Rachael |
 | 165 | 326 | BadG52 |
@@ -224,12 +224,12 @@
 | 216 | 268 | Reesey Enyart |
 | 217 | 267 | Debbie Kane |
 | 218 | 265 | Kandae |
-| 219 | 264 | Jenny Gingrich Fuentes |
-| 220 | 264 | Standia Civil |
+| 219 | 264 | Standia Civil |
+| 220 | 264 | Jenny Gingrich Fuentes |
 | 221 | 263 | Jessie Lynn |
 | 222 | 261 | John J. Cronin |
-| 223 | 260 | Cheeky Pop |
-| 224 | 260 | Marianita Garcia |
+| 223 | 260 | Marianita Garcia |
+| 224 | 260 | Cheeky Pop |
 | 225 | 260 | Melissa Lemmon |
 | 226 | 259 | Brave Wrecker |
 | 227 | 259 | Shanae Grant |
@@ -506,7 +506,7 @@
 | 498 | 129 | MayMay Echevarria |
 | 499 | 129 | Chipper Piecefit |
 | 500 | 128 | poopypants |
-| 501 | 128 | George Dalton |
+| 501 | 128 | Dandy Towerbuilder |
 | 502 | 128 | Charlie Walker |
 | 503 | 128 | George Dalton |
 | 504 | 127 | Brave Slice |

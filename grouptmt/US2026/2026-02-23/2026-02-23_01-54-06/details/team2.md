@@ -40,8 +40,8 @@
 | 32 | 4199 | Claire Noland |
 | 33 | 4130 | Robert Diddle |
 | 34 | 4128 | Angela Pruitt |
-| 35 | 4120 | Corrine Hawks Soriano |
-| 36 | 4120 | Kristen Sceurman |
+| 35 | 4120 | Kristen Sceurman |
+| 36 | 4120 | Corrine Hawks Soriano |
 | 37 | 4033 | Jill Stroehlein |
 | 38 | 3895 | Nickie Baby |
 | 39 | 3770 | Brittany Alicia |
@@ -314,8 +314,8 @@
 | 306 | 890 | Caitlin Schmid |
 | 307 | 889 | Giggy Blocker |
 | 308 | 885 | Felicia Lynn |
-| 309 | 884 | Adira Brown |
-| 310 | 884 | Steve Man |
+| 309 | 884 | Steve Man |
+| 310 | 884 | Adira Brown |
 | 311 | 883 | Hong Tang |
 | 312 | 883 | nikki |
 | 313 | 882 | Nashu |
@@ -333,8 +333,8 @@
 | 325 | 846 | Alyssa Hileman |
 | 326 | 844 | Terri McKelvey McKinley |
 | 327 | 843 | Wakanda Forever |
-| 328 | 833 | Cody Nishimura |
-| 329 | 833 | Moni Foxe |
+| 328 | 833 | Moni Foxe |
+| 329 | 833 | Cody Nishimura |
 | 330 | 832 | Woodys Glass |
 | 331 | 831 | Johnny Yeates |
 | 332 | 826 | Diallo Sparkman |
@@ -549,8 +549,8 @@
 | 541 | 551 | Cynthia Louann Rose |
 | 542 | 550 | Frilly Fallzone |
 | 543 | 550 | Gloria Ininahazwe |
-| 544 | 549 | Melissa Kay Gibson |
-| 545 | 549 | Kaylee McCafferty |
+| 544 | 549 | Kaylee McCafferty |
+| 545 | 549 | Melissa Kay Gibson |
 | 546 | 548 | Elisheva Mizrachi |
 | 547 | 548 | Kayleigh Wisse |
 | 548 | 546 | Hannah Erskine |
