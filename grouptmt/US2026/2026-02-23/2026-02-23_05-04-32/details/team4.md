@@ -212,8 +212,8 @@
 | 204 | 300 | Dihcheese444 |
 | 205 | 300 | Zakia Monae |
 | 206 | 295 | Keshia Lyons |
-| 207 | 294 | Porkobello |
-| 208 | 294 | Calvin Cannon |
+| 207 | 294 | Calvin Cannon |
+| 208 | 294 | Porkobello |
 | 209 | 292 | Epic Curvetile |
 | 210 | 290 | Jared Gutwein |
 | 211 | 290 | Plucky Patternblock |
@@ -233,16 +233,16 @@
 | 225 | 276 | Matt Dell'Olio |
 | 226 | 276 | Joeliecea Cobb |
 | 227 | 273 | Casey Grabner |
-| 228 | 272 | Carlos Ramirez |
-| 229 | 272 | Alan George LaRage |
-| 230 | 272 | Dennis Bradley |
+| 228 | 272 | Alan George LaRage |
+| 229 | 272 | Dennis Bradley |
+| 230 | 272 | Carlos Ramirez |
 | 231 | 271 | Holly |
 | 232 | 270 | Juls |
 | 233 | 270 | Jen Caldwell |
 | 234 | 267 | JPW |
 | 235 | 266 | Mr. Party |
-| 236 | 265 | Sarah Neathery |
-| 237 | 265 | Silly SeaWeed |
+| 236 | 265 | Silly SeaWeed |
+| 237 | 265 | Sarah Neathery |
 | 238 | 264 | Stella |
 | 239 | 262 | Selena Shaw |
 | 240 | 262 | BigSammy420 |

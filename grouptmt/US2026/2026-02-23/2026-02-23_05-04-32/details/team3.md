@@ -273,8 +273,8 @@
 | 265 | 357 | Stephanie Burtin |
 | 266 | 354 | Kelly |
 | 267 | 353 | Dee Franklin |
-| 268 | 352 | Samantha Lynn |
-| 269 | 352 | Christian Werndl |
+| 268 | 352 | Christian Werndl |
+| 269 | 352 | Samantha Lynn |
 | 270 | 351 | Eon Harris |
 | 271 | 350 | LaShey Thompson |
 | 272 | 349 | Amanda J. Mcneil-Anderson |
@@ -284,8 +284,8 @@
 | 276 | 346 | Tamara Deherrera |
 | 277 | 345 | MsBee |
 | 278 | 344 | Roary Danner |
-| 279 | 343 | Ashley Raines |
-| 280 | 343 | Ashley Rufus Bythcez |
+| 279 | 343 | Ashley Rufus Bythcez |
+| 280 | 343 | Ashley Raines |
 | 281 | 341 | Ashley Tookes |
 | 282 | 339 | Cynthia Herrmann Egland |
 | 283 | 338 | fraulila |
@@ -383,9 +383,9 @@
 | 375 | 263 | Jimmie Clemons |
 | 376 | 263 | Erika Thornton |
 | 377 | 261 | Jul |
-| 378 | 260 | Alice |
+| 378 | 260 | TotoCherue |
 | 379 | 260 | Tracey Cox |
-| 380 | 260 | TotoCherue |
+| 380 | 260 | Alice |
 | 381 | 259 | Dana Winters |
 | 382 | 259 | Shania Vaine |
 | 383 | 258 | IamJust Neyamijah Washington Sr. |
@@ -723,10 +723,10 @@
 | 715 | 146 | Geronimo |
 | 716 | 146 | Dapper Chiseler |
 | 717 | 145 | Quirky Snapfit |
-| 718 | 145 | Karen Picaboo |
-| 719 | 145 | Vikkye Vizaniaris |
-| 720 | 144 | Janay Darkstallion Robinson |
-| 721 | 144 | Tiffany's TwinsRus Thrifty |
+| 718 | 145 | Vikkye Vizaniaris |
+| 719 | 145 | Karen Picaboo |
+| 720 | 144 | Tiffany's TwinsRus Thrifty |
+| 721 | 144 | Janay Darkstallion Robinson |
 | 722 | 144 | Clever Edgepiece |
 | 723 | 143 | Russell Hankinson |
 | 724 | 143 | Lisa Lisa |
