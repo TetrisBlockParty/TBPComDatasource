@@ -312,8 +312,8 @@
 | 304 | 1042 | Mcintosh Brian Shalonda |
 | 305 | 1042 | Michele Morgan |
 | 306 | 1038 | Hillary Crawford |
-| 307 | 1036 | Amber Shoemaker |
-| 308 | 1036 | Allison Lockyer |
+| 307 | 1036 | Allison Lockyer |
+| 308 | 1036 | Amber Shoemaker |
 | 309 | 1032 | Kristin Gower |
 | 310 | 1029 | Crystal Hoffman |
 | 311 | 1024 | Taylor Phillips |
@@ -436,13 +436,13 @@
 | 428 | 804 | Becca Coronado |
 | 429 | 804 | Sarah DeHart |
 | 430 | 803 | Tiara Elizabeth Baker |
-| 431 | 802 | Jessicah Myers |
-| 432 | 802 | Leslie Ann Carter |
+| 431 | 802 | Leslie Ann Carter |
+| 432 | 802 | Jessicah Myers |
 | 433 | 801 | Diana Fitzwater |
-| 434 | 799 | Joy LaJeunesse |
-| 435 | 799 | Kenny Alvarado |
-| 436 | 798 | Melissa Cole |
-| 437 | 798 | Christina Walker |
+| 434 | 799 | Kenny Alvarado |
+| 435 | 799 | Joy LaJeunesse |
+| 436 | 798 | Christina Walker |
+| 437 | 798 | Melissa Cole |
 | 438 | 797 | Gary Stash |
 | 439 | 796 | Amber Gray |
 | 440 | 796 | AndrewandShela Gornik |
@@ -466,8 +466,8 @@
 | 458 | 766 | Jennie Lee Huntley |
 | 459 | 765 | Dylan Thomason |
 | 460 | 764 | Kiely Tomaskovich |
-| 461 | 763 | Heather Causey |
-| 462 | 763 | Dreamy Blast |
+| 461 | 763 | Dreamy Blast |
+| 462 | 763 | Heather Causey |
 | 463 | 761 | Jerilyn Andrina |
 | 464 | 760 | Ashley Guernsey-Martin |
 | 465 | 760 | Allan Wayne Lamia |
@@ -571,8 +571,8 @@
 | 563 | 653 | Brittney Jean |
 | 564 | 651 | Belle |
 | 565 | 651 | Unica Rector |
-| 566 | 647 | CC |
-| 567 | 647 | Jackie Avila |
+| 566 | 647 | Jackie Avila |
+| 567 | 647 | CC |
 | 568 | 643 | Michelle Pike |
 | 569 | 642 | snkylnk |
 | 570 | 642 | Samantha Scibelli |
@@ -647,10 +647,10 @@
 | 639 | 588 | Kitybox |
 | 640 | 587 | Kelli Wells |
 | 641 | 587 | Ben Barkley |
-| 642 | 586 | Toni Whipple |
-| 643 | 586 | Michael Artis |
-| 644 | 585 | Wuntayk |
-| 645 | 585 | Shelva Richard |
+| 642 | 586 | Michael Artis |
+| 643 | 586 | Toni Whipple |
+| 644 | 585 | Shelva Richard |
+| 645 | 585 | Wuntayk |
 | 646 | 585 | Boldy Wiper |
 | 647 | 583 | Lee Harper |
 | 648 | 583 | Catherine Marsh Gruda |

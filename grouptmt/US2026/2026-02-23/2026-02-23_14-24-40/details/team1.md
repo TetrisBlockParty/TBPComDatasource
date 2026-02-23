@@ -265,16 +265,16 @@
 | 257 | 298 | Kimberly Davis |
 | 258 | 298 | Sweetts |
 | 259 | 297 | Diane Byrd |
-| 260 | 290 | Tavia |
-| 261 | 290 | Hellsin |
+| 260 | 290 | Hellsin |
+| 261 | 290 | Tavia |
 | 262 | 289 | Alenoush Karimian |
 | 263 | 288 | Bird Person |
 | 264 | 287 | Sir-Franchise Drake |
 | 265 | 286 | Sarahdactyl |
 | 266 | 285 | Shanae Grant |
 | 267 | 284 | Sam Williams |
-| 268 | 283 | Larry Tilton |
-| 269 | 283 | Franswa |
+| 268 | 283 | Franswa |
+| 269 | 283 | Larry Tilton |
 | 270 | 282 | Timothy Dew |
 | 271 | 281 | Clever Cascadepiece |
 | 272 | 280 | Billie Dawn Sparks |
@@ -292,16 +292,16 @@
 | 284 | 270 | Brenda Alexander |
 | 285 | 270 | Debbie Kane |
 | 286 | 269 | Colleen Pinette |
-| 287 | 268 | Standia Civil |
-| 288 | 268 | Wayne Saunders |
+| 287 | 268 | Wayne Saunders |
+| 288 | 268 | Standia Civil |
 | 289 | 265 | Flashy Rotator |
 | 290 | 265 | Hasty Cascader |
 | 291 | 264 | Jenny Gingrich Fuentes |
 | 292 | 263 | Sunny Shift |
 | 293 | 263 | Nadine Velardo |
 | 294 | 261 | Brooke Elizabeth Antill |
-| 295 | 260 | Lacy Wolfe |
-| 296 | 260 | Marianita Garcia |
+| 295 | 260 | Marianita Garcia |
+| 296 | 260 | Lacy Wolfe |
 | 297 | 258 | Danielle S Kester |
 | 298 | 256 | Richard Corrado |
 | 299 | 256 | Joe Coon |
@@ -311,7 +311,7 @@
 | 303 | 255 | Giggly Builderline |
 | 304 | 254 | Al Smith Jr |
 | 305 | 254 | Silly Align |
-| 306 | 253 | LD1 |
+| 306 | 253 | Cece Ibarra |
 | 307 | 253 | Jamie Jury |
 | 308 | 253 | LD1 |
 | 309 | 252 | Dena Kayy |

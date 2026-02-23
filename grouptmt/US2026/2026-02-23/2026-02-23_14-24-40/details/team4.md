@@ -77,8 +77,8 @@
 | 69 | 802 | Crystal Carroll |
 | 70 | 794 | Julian Garcia |
 | 71 | 788 | Chilly Line |
-| 72 | 787 | loulou |
-| 73 | 787 | Edward White |
+| 72 | 787 | Edward White |
+| 73 | 787 | loulou |
 | 74 | 769 | Alyssa Papen |
 | 75 | 768 | Judy Cox |
 | 76 | 767 | Shannon Ferrari |
@@ -200,8 +200,8 @@
 | 192 | 374 | Chris Alexinas |
 | 193 | 372 | George Nutt |
 | 194 | 372 | Antony Dwayne Beasley |
-| 195 | 368 | Holly Jolly |
-| 196 | 368 | Silly Zonebuilder |
+| 195 | 368 | Silly Zonebuilder |
+| 196 | 368 | Holly Jolly |
 | 197 | 365 | Jeff Brian Gates |
 | 198 | 363 | Cindy Looper |
 | 199 | 361 | Danielle Kollias |
@@ -578,8 +578,8 @@
 | 570 | 136 | Tabitha Calvin |
 | 571 | 134 | Tabitha Henson |
 | 572 | 134 | LunarCat |
-| 573 | 133 | Josh Chapell |
-| 574 | 133 | Amy C Brown |
+| 573 | 133 | Amy C Brown |
+| 574 | 133 | Josh Chapell |
 | 575 | 133 | Holly Tracey-Grimes |
 | 576 | 133 | ThriftySpice |
 | 577 | 132 | Matt Rawls |
@@ -611,8 +611,8 @@
 | 603 | 126 | PAPatty |
 | 604 | 125 | Kelly Adams Carnahan |
 | 605 | 125 | Christina Nabrizny |
-| 606 | 124 | Cheery Towerzone |
-| 607 | 124 | Raeann Gibson |
+| 606 | 124 | Raeann Gibson |
+| 607 | 124 | Cheery Towerzone |
 | 608 | 124 | Petty |
 | 609 | 124 | Atia Scott |
 | 610 | 124 | Cj Lewis-haut |

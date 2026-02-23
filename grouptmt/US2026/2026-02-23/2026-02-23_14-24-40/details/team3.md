@@ -120,8 +120,8 @@
 | 112 | 869 | Araceli Parra |
 | 113 | 868 | Sarajane Lokan |
 | 114 | 860 | Sunny Rotater |
-| 115 | 851 | Danielle Becker |
-| 116 | 851 | Jd Morris |
+| 115 | 851 | Jd Morris |
+| 116 | 851 | Danielle Becker |
 | 117 | 848 | Patricia Gadsden |
 | 118 | 839 | Angeline Joseph |
 | 119 | 820 | Brenda Lee Vander Molen |
@@ -172,8 +172,8 @@
 | 164 | 630 | yoyo |
 | 165 | 629 | rnr junky |
 | 166 | 622 | Denita Mungro |
-| 167 | 621 | Sashay Tapae Simpson |
-| 168 | 621 | Cherry Parker |
+| 167 | 621 | Cherry Parker |
+| 168 | 621 | Sashay Tapae Simpson |
 | 169 | 616 | Kammy Hill |
 | 170 | 611 | Rochelle Hazelett |
 | 171 | 603 | Jone |
@@ -185,8 +185,8 @@
 | 177 | 591 | Michael Nowogorski |
 | 178 | 591 | Kaycee Kay |
 | 179 | 587 | Louise Stacy Sisson |
-| 180 | 585 | Domo Washington |
-| 181 | 585 | Happy Tetriblast |
+| 180 | 585 | Happy Tetriblast |
+| 181 | 585 | Domo Washington |
 | 182 | 583 | Tasha Gillespie |
 | 183 | 582 | Natasha Jones |
 | 184 | 574 | Morgan Martinez |
@@ -198,8 +198,8 @@
 | 190 | 562 | Dave Herzog |
 | 191 | 561 | Elissa S-k |
 | 192 | 559 | Patti Skiles |
-| 193 | 549 | Sarah Cowan Burgos |
-| 194 | 549 | Tasha Schriewer |
+| 193 | 549 | Tasha Schriewer |
+| 194 | 549 | Sarah Cowan Burgos |
 | 195 | 548 | Danielle Balcom |
 | 196 | 547 | Staci George Fitzsimmons |
 | 197 | 546 | Cynthia Castros-Hampton |
@@ -210,8 +210,8 @@
 | 202 | 531 | Trisha Balmer |
 | 203 | 531 | Chauntee Alfrey-Cardinale |
 | 204 | 530 | Stephanie Blkpep Davidson |
-| 205 | 524 | Bmo |
-| 206 | 524 | Shannon Matthew Byers |
+| 205 | 524 | Shannon Matthew Byers |
+| 206 | 524 | Bmo |
 | 207 | 519 | Terry Jo Jones |
 | 208 | 517 | Connie Mohler-Fair |
 | 209 | 515 | Cozy Snaplink |
@@ -357,7 +357,7 @@
 | 349 | 325 | Tasha Wesson-Torrence |
 | 350 | 324 | neci |
 | 351 | 324 | Sissy Lowery Davis |
-| 352 | 323 | Spencer Nikki |
+| 352 | 323 | Sharisse Baltimore |
 | 353 | 323 | Rachel Grant |
 | 354 | 323 | Spencer Nikki |
 | 355 | 322 | Beth Smith |
@@ -374,8 +374,8 @@
 | 366 | 313 | Hoppy Buildout |
 | 367 | 313 | Jul |
 | 368 | 312 | Eric Caccavale |
-| 369 | 311 | Troy |
-| 370 | 311 | Noettín Kan Zasnemoore |
+| 369 | 311 | Noettín Kan Zasnemoore |
+| 370 | 311 | Troy |
 | 371 | 309 | Cheeky Snapper |
 | 372 | 309 | Block Baddie |
 | 373 | 308 | Katrina Turner |
@@ -386,8 +386,8 @@
 | 378 | 304 | _melisa223_ |
 | 379 | 303 | Alexmac |
 | 380 | 302 | Willow |
-| 381 | 301 | Betty Rosas |
-| 382 | 301 | Kaitie Oliver |
+| 381 | 301 | Kaitie Oliver |
+| 382 | 301 | Betty Rosas |
 | 383 | 301 | Daring Brickzone |
 | 384 | 301 | Michael Lucado |
 | 385 | 299 | Hasty Gridpiece |
@@ -456,8 +456,8 @@
 | 448 | 264 | Funky Jumper |
 | 449 | 264 | Danielle Beaunoyer Jean |
 | 450 | 262 | Rainbow77375 |
-| 451 | 260 | Tracey Cox |
-| 452 | 260 | Alice |
+| 451 | 260 | Alice |
+| 452 | 260 | Tracey Cox |
 | 453 | 260 | Brian Battjes |
 | 454 | 259 | Skinny Baldez |
 | 455 | 259 | Shania Vaine |
