@@ -50,8 +50,8 @@
 | 42 | 864 | Adam Byrd |
 | 43 | 863 | Tipsy Column |
 | 44 | 862 | Christina Costantino |
-| 45 | 844 | Amanda Summey Schoemer |
-| 46 | 844 | Katie Daniels |
+| 45 | 844 | Katie Daniels |
+| 46 | 844 | Amanda Summey Schoemer |
 | 47 | 827 | Drew Magnus |
 | 48 | 805 | Sevens4L |
 | 49 | 797 | Lawrence Belanger |
@@ -135,8 +135,8 @@
 | 127 | 391 | Lori Bales |
 | 128 | 390 | Goose egg |
 | 129 | 387 | Emily Adelaide Wheatley |
-| 130 | 386 | Ty Brown |
-| 131 | 386 | David Miller |
+| 130 | 386 | David Miller |
+| 131 | 386 | Ty Brown |
 | 132 | 383 | pjbeta |
 | 133 | 379 | Austin James |
 | 134 | 379 | Kimmie Kimms |
@@ -160,8 +160,8 @@
 | 152 | 336 | Fmp |
 | 153 | 334 | Jaimie Lynn |
 | 154 | 333 | GATOR |
-| 155 | 333 | Jennifer Hardman |
-| 156 | 333 | Gracie |
+| 155 | 333 | Gracie |
+| 156 | 333 | Jennifer Hardman |
 | 157 | 332 | Lehrin Maria |
 | 158 | 330 | Chelsea Dahlquist |
 | 159 | 325 | Dizzy Party |
@@ -327,14 +327,14 @@
 | 319 | 187 | Speedy Snapfall |
 | 320 | 187 | Cool Towerzone |
 | 321 | 186 | build master |
-| 322 | 186 | Nikki Fridley |
-| 323 | 186 | Larry Tilton |
-| 324 | 185 | Hasty Columnbuilder |
-| 325 | 185 | Oscar Zamora |
-| 326 | 184 | Itspaigebro |
-| 327 | 184 | Cranky Pattern |
-| 328 | 183 | Dino |
-| 329 | 183 | Chummy Rollblock |
+| 322 | 186 | Larry Tilton |
+| 323 | 186 | Nikki Fridley |
+| 324 | 185 | Oscar Zamora |
+| 325 | 185 | Hasty Columnbuilder |
+| 326 | 184 | Cranky Pattern |
+| 327 | 184 | Itspaigebro |
+| 328 | 183 | Chummy Rollblock |
+| 329 | 183 | Dino |
 | 330 | 182 | Nathan Sealander |
 | 331 | 181 | David DeSantis |
 | 332 | 180 | Discovery Point |

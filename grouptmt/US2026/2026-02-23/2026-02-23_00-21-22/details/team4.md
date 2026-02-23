@@ -103,7 +103,7 @@
 | 95 | 557 | Carmethia Clemons Haslerig |
 | 96 | 533 | Samantha Peterson |
 | 97 | 519 | Nugget |
-| 98 | 513 | Jamie Gustafson |
+| 98 | 513 | Erin Thomas |
 | 99 | 513 | YoMomma |
 | 100 | 513 | Jamie Gustafson |
 | 101 | 512 | Diana Houts |
@@ -130,16 +130,16 @@
 | 122 | 431 | Jolly Dashfit |
 | 123 | 429 | Ren Mc |
 | 124 | 427 | KJ Pool |
-| 125 | 418 | Marie-Pier Desjardins |
+| 125 | 418 | Lush Linkfall |
 | 126 | 418 | Monica Daley |
-| 127 | 418 | Lush Linkfall |
+| 127 | 418 | Marie-Pier Desjardins |
 | 128 | 414 | Nope Young |
 | 129 | 411 | JIGsaw ~(•¿°)~ |
 | 130 | 408 | Amanda Pauldo-Ivy |
 | 131 | 400 | Ericca Eldridge |
 | 132 | 394 | Austin Owens |
-| 133 | 393 | Trish |
-| 134 | 393 | Carlton Unfiltered |
+| 133 | 393 | Carlton Unfiltered |
+| 134 | 393 | Trish |
 | 135 | 392 | Cristy Duerksen |
 | 136 | 391 | Ramel Rhodes |
 | 137 | 384 | Lucas J Sutton |
@@ -167,13 +167,13 @@
 | 159 | 336 | Peachy Fall |
 | 160 | 336 | Melissa Adams |
 | 161 | 333 | Twisty Cascadezone |
-| 162 | 332 | HastyGrabber |
-| 163 | 332 | Leslie Nicole |
+| 162 | 332 | Leslie Nicole |
+| 163 | 332 | HastyGrabber |
 | 164 | 329 | Jeff Brian Gates |
 | 165 | 328 | Kris Bartlett |
 | 166 | 324 | jim |
-| 167 | 320 | TRCuse |
-| 168 | 320 | Lauren Scott |
+| 167 | 320 | Lauren Scott |
+| 168 | 320 | TRCuse |
 | 169 | 316 | Meagan Nicole |
 | 170 | 314 | Andy Cabral |
 | 171 | 314 | shark tato |
@@ -326,8 +326,8 @@
 | 318 | 177 | Shanon Klair |
 | 319 | 175 | Lorena Guerrero-Barron |
 | 320 | 175 | Megan Cutshaw |
-| 321 | 174 | Shane Vick |
-| 322 | 174 | Kathy Allen |
+| 321 | 174 | Kathy Allen |
+| 322 | 174 | Shane Vick |
 | 323 | 173 | Ultramarine |
 | 324 | 173 | SammieJo Guy |
 | 325 | 172 | KimoKoala |

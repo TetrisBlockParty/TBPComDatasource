@@ -267,8 +267,8 @@
 | 259 | 972 | Della Hole |
 | 260 | 972 | Juliana Marques Do Nascimento Gordy |
 | 261 | 958 | Brenda Messer |
-| 262 | 957 | Block Master |
-| 263 | 957 | Keri Womack |
+| 262 | 957 | Keri Womack |
+| 263 | 957 | Block Master |
 | 264 | 957 | Crystal Hoffman |
 | 265 | 957 | Offonar Facey |
 | 266 | 955 | Angela Bonquiqui Dinish |
@@ -343,8 +343,8 @@
 | 335 | 808 | Desire Rice |
 | 336 | 807 | Khalil Lowe |
 | 337 | 799 | Joy LaJeunesse |
-| 338 | 793 | Lisa Ongtowasruk |
-| 339 | 793 | Heather Schelkopf |
+| 338 | 793 | Heather Schelkopf |
+| 339 | 793 | Lisa Ongtowasruk |
 | 340 | 792 | Gold Rose |
 | 341 | 790 | Brenda Pierpoint |
 | 342 | 788 | Erika Densmore |
@@ -456,8 +456,8 @@
 | 448 | 626 | Demeka Dangerous-kisses Johnson |
 | 449 | 623 | Kimberly Hope Howell |
 | 450 | 620 | Traci Johnson |
-| 451 | 618 | Vanessa Moreno |
-| 452 | 618 | Caitlyn Blackwell |
+| 451 | 618 | Caitlyn Blackwell |
+| 452 | 618 | Vanessa Moreno |
 | 453 | 617 | Darcy Mae |
 | 454 | 617 | Nicole Cannon |
 | 455 | 615 | Julio A Laracuente |

@@ -226,8 +226,8 @@
 | 218 | 390 | rosy |
 | 219 | 384 | Trisha Balmer |
 | 220 | 384 | Marci Mize Fandrich |
-| 221 | 383 | Darlene McMillan |
-| 222 | 383 | Nicole Flippo |
+| 221 | 383 | Nicole Flippo |
+| 222 | 383 | Darlene McMillan |
 | 223 | 383 | Heather Green |
 | 224 | 382 | Scott Carleton |
 | 225 | 382 | Giddy Twistbuilder |
@@ -293,8 +293,8 @@
 | 285 | 302 | Gray Hicks |
 | 286 | 301 | Betty Rosas |
 | 287 | 300 | Tiffany Davie |
-| 288 | 299 | Ray Lader |
-| 289 | 299 | Angie Harper |
+| 288 | 299 | Angie Harper |
+| 289 | 299 | Ray Lader |
 | 290 | 298 | Grams |
 | 291 | 297 | Tasha Wesson-Torrence |
 | 292 | 297 | Jojo M |
