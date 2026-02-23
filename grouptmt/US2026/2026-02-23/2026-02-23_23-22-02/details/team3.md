@@ -285,10 +285,10 @@
 | 277 | 490 | Rebecca Funderburk Kirby |
 | 278 | 486 | Eileen Brady Thurber |
 | 279 | 482 | Chummy Rumbler |
-| 280 | 482 | Fancy Curver |
-| 281 | 482 | Isabel Ocasio |
-| 282 | 479 | Stephanie Bradley |
-| 283 | 479 | Hyper Matchzone |
+| 280 | 482 | Isabel Ocasio |
+| 281 | 482 | Fancy Curver |
+| 282 | 479 | Hyper Matchzone |
+| 283 | 479 | Stephanie Bradley |
 | 284 | 476 | Shunta Jacobs |
 | 285 | 475 | Tasha Wesson-Torrence |
 | 286 | 475 | Rebecca Bailey |
@@ -577,8 +577,8 @@
 | 569 | 268 | Sabrina Mansfield |
 | 570 | 268 | Sarah Mayson |
 | 571 | 267 | April Matthew Kibble |
-| 572 | 266 | Frothy Snapper |
-| 573 | 266 | Reina Roth |
+| 572 | 266 | Reina Roth |
+| 573 | 266 | Frothy Snapper |
 | 574 | 265 | Frisky Stacker |
 | 575 | 265 | Danielle Dani |
 | 576 | 264 | Morgan Cudo |
@@ -597,9 +597,9 @@
 | 589 | 260 | Nikkie Bucciano |
 | 590 | 259 | Moimyzean |
 | 591 | 259 | Shania Vaine |
-| 592 | 258 | Jolly Brick |
-| 593 | 258 | Paul Daniel Quertermous |
-| 594 | 257 | Jana Polk |
+| 592 | 258 | Paul Daniel Quertermous |
+| 593 | 258 | Jolly Brick |
+| 594 | 257 | Chris Wallace |
 | 595 | 257 | Shiny Snapfit |
 | 596 | 257 | Jana Polk |
 | 597 | 256 | Christina Rotz Shows |

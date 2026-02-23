@@ -243,8 +243,8 @@
 | 235 | 1466 | Julay |
 | 236 | 1463 | Yvonne Wharton |
 | 237 | 1452 | Cody Smith-Candelaria |
-| 238 | 1451 | Catina Hutchison |
-| 239 | 1451 | Anna Edwards |
+| 238 | 1451 | Anna Edwards |
+| 239 | 1451 | Catina Hutchison |
 | 240 | 1450 | Shiny Rollzone |
 | 241 | 1443 | Teddi Notyalc |
 | 242 | 1418 | L3sli3 |
@@ -303,8 +303,8 @@
 | 295 | 1239 | Christina Walker |
 | 296 | 1238 | Groovy Puzzle |
 | 297 | 1237 | Christine Coughlin |
-| 298 | 1237 | Jane Fong |
-| 299 | 1237 | Cheech Dta |
+| 298 | 1237 | Cheech Dta |
+| 299 | 1237 | Jane Fong |
 | 300 | 1233 | Shannon Joslin |
 | 301 | 1232 | Ambyre Patterson |
 | 302 | 1227 | Rebecca Miller |
@@ -608,7 +608,7 @@
 | 600 | 717 | Shinette Dobson |
 | 601 | 717 | Leticia Martinez Kelley |
 | 602 | 716 | Cc |
-| 603 | 715 | Julio A Laracuente |
+| 603 | 715 | Daniell Martinez |
 | 604 | 715 | Brenna Ann |
 | 605 | 715 | Julio A Laracuente |
 | 606 | 714 | Irene Jones |

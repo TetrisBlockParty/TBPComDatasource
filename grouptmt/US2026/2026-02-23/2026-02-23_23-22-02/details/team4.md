@@ -197,8 +197,8 @@
 | 189 | 465 | Jolly Dashfit |
 | 190 | 464 | Sharyn Lemire |
 | 191 | 462 | Leslie Thomas |
-| 192 | 457 | June Hoffman |
-| 193 | 457 | Kristin Manee |
+| 192 | 457 | Kristin Manee |
+| 193 | 457 | June Hoffman |
 | 194 | 455 | Michele Plunkett |
 | 195 | 450 | Amanda Pauldo-Ivy |
 | 196 | 449 | Courtney Cicoria |
@@ -225,8 +225,8 @@
 | 217 | 421 | JIGsaw ~(•¿°)~ |
 | 218 | 419 | Manny1 |
 | 219 | 419 | Chris Bernstein |
-| 220 | 418 | Lush Linkfall |
-| 221 | 418 | Marie-Pier Desjardins |
+| 220 | 418 | Marie-Pier Desjardins |
+| 221 | 418 | Lush Linkfall |
 | 222 | 414 | Silly Zonebuilder |
 | 223 | 413 | John Brunetti |
 | 224 | 411 | Autumn Kumzi |
@@ -269,8 +269,8 @@
 | 261 | 360 | Ari Droff |
 | 262 | 360 | James Hurley Jr. |
 | 263 | 358 | Twisty Cascadezone |
-| 264 | 356 | mike |
-| 265 | 356 | Joeliecea Cobb |
+| 264 | 356 | Joeliecea Cobb |
+| 265 | 356 | mike |
 | 266 | 355 | David Lay |
 | 267 | 353 | Chaz |
 | 268 | 352 | scott |
@@ -490,8 +490,8 @@
 | 482 | 208 | Moonsterix |
 | 483 | 208 | Stacy |
 | 484 | 208 | Wacky Blockclear |
-| 485 | 207 | Jessica Wells |
-| 486 | 207 | Sam Middleton |
+| 485 | 207 | Sam Middleton |
+| 486 | 207 | Jessica Wells |
 | 487 | 207 | SammieJo Guy |
 | 488 | 206 | Grann8 |
 | 489 | 206 | Red |
@@ -526,8 +526,8 @@
 | 518 | 192 | Jacob Campbell |
 | 519 | 192 | Twisty Risebuilder |
 | 520 | 191 | Norman Klick |
-| 521 | 191 | Jobadia Steelerton |
-| 522 | 191 | Earnest Thompson |
+| 521 | 191 | Earnest Thompson |
+| 522 | 191 | Jobadia Steelerton |
 | 523 | 190 | Robert Rangel |
 | 524 | 190 | wombat |
 | 525 | 189 | Brandon Link |
