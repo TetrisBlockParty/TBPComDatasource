@@ -71,16 +71,16 @@
 | 63 | 780 | Rachel Anne |
 | 64 | 779 | Ashley Ingram |
 | 65 | 767 | Shannon Ferrari |
-| 66 | 766 | Robin Watters |
-| 67 | 766 | Edward White |
-| 68 | 765 | Robin Getchel |
-| 69 | 765 | Denise Carlson |
+| 66 | 766 | Edward White |
+| 67 | 766 | Robin Watters |
+| 68 | 765 | Denise Carlson |
+| 69 | 765 | Robin Getchel |
 | 70 | 752 | loulou |
 | 71 | 749 | Dustee Craddock-Harrison |
 | 72 | 742 | Carolyn Wallace |
 | 73 | 740 | Avy Absol |
-| 74 | 736 | Goatimus Lombardi |
-| 75 | 736 | Crystal Carroll |
+| 74 | 736 | Crystal Carroll |
+| 75 | 736 | Goatimus Lombardi |
 | 76 | 721 | TheNeesh50 |
 | 77 | 717 | D3TROITB0RN74 |
 | 78 | 706 | Lisa Davis |
@@ -113,8 +113,8 @@
 | 105 | 561 | YoMomma |
 | 106 | 557 | Carmethia Clemons Haslerig |
 | 107 | 542 | Austin Owens |
-| 108 | 533 | Samantha Peterson |
-| 109 | 533 | Chilly Crasher |
+| 108 | 533 | Chilly Crasher |
+| 109 | 533 | Samantha Peterson |
 | 110 | 528 | Rodney McMath Jr. |
 | 111 | 527 | Dizzy Tiley |
 | 112 | 519 | Nugget |
@@ -163,8 +163,8 @@
 | 155 | 387 | Lucas J Sutton |
 | 156 | 375 | Desi Desporte |
 | 157 | 375 | ThaEviLJeNiuZ |
-| 158 | 374 | Guy Incognito |
-| 159 | 374 | Leslie Nicole |
+| 158 | 374 | Leslie Nicole |
+| 159 | 374 | Guy Incognito |
 | 160 | 370 | Oscar Alberto Perez |
 | 161 | 369 | Lindsey Gonzalez |
 | 162 | 368 | Raegan Lane-Ross |
@@ -592,10 +592,10 @@
 | 584 | 116 | JEan Price |
 | 585 | 115 | Nicole McMurray |
 | 586 | 115 | Jayk |
-| 587 | 114 | Rosemary Foster |
-| 588 | 114 | tipsy tiger |
-| 589 | 113 | Serena Butter |
-| 590 | 113 | Hog Crankin |
+| 587 | 114 | tipsy tiger |
+| 588 | 114 | Rosemary Foster |
+| 589 | 113 | Hog Crankin |
+| 590 | 113 | Serena Butter |
 | 591 | 113 | Lilya Troutman |
 | 592 | 113 | Abigail Murphy |
 | 593 | 112 | Brad Campbell |

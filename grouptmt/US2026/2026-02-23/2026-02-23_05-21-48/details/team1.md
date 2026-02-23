@@ -35,8 +35,8 @@
 | 27 | 1191 | Nerdy Linkblock |
 | 28 | 1171 | Tyler Alcock |
 | 29 | 1132 | Christina Graham |
-| 30 | 1126 | Felicia Lewis |
-| 31 | 1126 | Tater |
+| 30 | 1126 | Tater |
+| 31 | 1126 | Felicia Lewis |
 | 32 | 1119 | june october |
 | 33 | 1114 | Jayme Sellers |
 | 34 | 1069 | Bhelle Sumile |
@@ -128,8 +128,8 @@
 | 120 | 443 | Steve Schneider |
 | 121 | 439 | Dee Perry |
 | 122 | 436 | Tonya Beasley |
-| 123 | 434 | Yvonne Marie |
-| 124 | 434 | Ty Brown |
+| 123 | 434 | Ty Brown |
+| 124 | 434 | Yvonne Marie |
 | 125 | 428 | Ly Phethmany |
 | 126 | 426 | Maria C. Hernandez |
 | 127 | 425 | Dandy Basegrid |

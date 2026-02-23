@@ -788,11 +788,11 @@
 | 780 | 441 | Goofy Catcher |
 | 781 | 441 | Angelina Marie |
 | 782 | 439 | Sarah Sims |
-| 783 | 438 | Tom Steffen |
-| 784 | 438 | Joel Rosado |
+| 783 | 438 | Joel Rosado |
+| 784 | 438 | Tom Steffen |
 | 785 | 438 | Deyawn Smith |
-| 786 | 438 | Kelly Amos |
-| 787 | 438 | Lynda Toland |
+| 786 | 438 | Lynda Toland |
+| 787 | 438 | Kelly Amos |
 | 788 | 437 | Jason H Baker |
 | 789 | 437 | Anthony |
 | 790 | 437 | Shalisa Hill |
@@ -902,8 +902,8 @@
 | 894 | 391 | Poppy Gridder |
 | 895 | 390 | Smiley Strike |
 | 896 | 390 | MauroPRM |
-| 897 | 390 | Tasia Stinson |
-| 898 | 390 | Aireka Roman |
+| 897 | 390 | Aireka Roman |
+| 898 | 390 | Tasia Stinson |
 | 899 | 390 | Sonya Back |
 | 900 | 389 | Denisse Avilez |
 | 901 | 389 | Loony Basepiece |
@@ -948,13 +948,13 @@
 | 940 | 377 | Frank Castle |
 | 941 | 376 | Kristen Casale Berry |
 | 942 | 375 | Ashley Marie |
-| 943 | 374 | Lively Catcher |
-| 944 | 374 | Karmabunny |
-| 945 | 374 | SpaceCase085 |
-| 946 | 374 | Sassy Linkbuilder |
+| 943 | 374 | SpaceCase085 |
+| 944 | 374 | Sassy Linkbuilder |
+| 945 | 374 | Lively Catcher |
+| 946 | 374 | Karmabunny |
 | 947 | 374 | Amanda Perez |
-| 948 | 373 | Melissa James |
-| 949 | 373 | Michelle Shrum |
+| 948 | 373 | Michelle Shrum |
+| 949 | 373 | Melissa James |
 | 950 | 372 | Sarah Dean |
 | 951 | 372 | calcap |
 | 952 | 372 | Caryn McDaniel Broomby |
