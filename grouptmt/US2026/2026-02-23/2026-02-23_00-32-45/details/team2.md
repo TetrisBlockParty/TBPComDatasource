@@ -314,8 +314,8 @@
 | 306 | 861 | F-X |
 | 307 | 858 | Porsche' Nicole |
 | 308 | 857 | Kara Gillen |
-| 309 | 856 | Jojo Momma |
-| 310 | 856 | Mighty Shatterfit |
+| 309 | 856 | Mighty Shatterfit |
+| 310 | 856 | Jojo Momma |
 | 311 | 853 | Meghan M |
 | 312 | 848 | Elizabeth Wilbanks |
 | 313 | 846 | Alyssa Hileman |
@@ -676,8 +676,8 @@
 | 668 | 446 | Courtney Burcham |
 | 669 | 446 | NanDa Cruzan VI |
 | 670 | 445 | AsnPryBoy83 |
-| 671 | 445 | Michelle Sager |
-| 672 | 445 | Mar Q Thomas |
+| 671 | 445 | Mar Q Thomas |
+| 672 | 445 | Michelle Sager |
 | 673 | 445 | Sharon Mills |
 | 674 | 445 | Gina Bahn |
 | 675 | 444 | Crystal Heller Gonzalez |
@@ -753,8 +753,8 @@
 | 745 | 402 | AkaLefty |
 | 746 | 402 | Candy Pitts |
 | 747 | 401 | Swanky Columnbuilder |
-| 748 | 400 | Frisky Riserbuilder |
-| 749 | 400 | Deana |
+| 748 | 400 | Deana |
+| 749 | 400 | Frisky Riserbuilder |
 | 750 | 400 | Tammy Allen |
 | 751 | 399 | Court |
 | 752 | 399 | Heather Johnson |

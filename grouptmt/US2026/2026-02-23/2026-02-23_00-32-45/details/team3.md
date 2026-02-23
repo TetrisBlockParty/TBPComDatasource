@@ -199,12 +199,12 @@
 | 191 | 452 | Jacqueline Rodriguez |
 | 192 | 451 | Sarah Cowan Burgos |
 | 193 | 445 | Terry Jo Jones |
-| 194 | 432 | Jenny Hrndz |
-| 195 | 432 | Christine Trester |
+| 194 | 432 | Christine Trester |
+| 195 | 432 | Jenny Hrndz |
 | 196 | 432 | Luciana Braganca Vieira |
 | 197 | 431 | Wendy Dearden |
-| 198 | 430 | Jeni Dow |
-| 199 | 430 | Joye Sims Binion |
+| 198 | 430 | Joye Sims Binion |
+| 199 | 430 | Jeni Dow |
 | 200 | 426 | Rochelle Hazelett |
 | 201 | 423 | Tom Nault |
 | 202 | 422 | Fallorina Susana |

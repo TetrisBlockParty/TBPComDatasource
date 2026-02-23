@@ -76,8 +76,8 @@
 | 68 | 734 | Carolyn Wallace |
 | 69 | 730 | Dustee Craddock-Harrison |
 | 70 | 728 | Julian Garcia |
-| 71 | 704 | D3TROITB0RN74 |
-| 72 | 704 | Crystal Carroll |
+| 71 | 704 | Crystal Carroll |
+| 72 | 704 | D3TROITB0RN74 |
 | 73 | 677 | TheNeesh50 |
 | 74 | 673 | Jacqueline Helm |
 | 75 | 671 | Kimyatta Cavin |
@@ -187,8 +187,8 @@
 | 179 | 302 | Cursed Hag |
 | 180 | 301 | Andria Lynn |
 | 181 | 301 | Damn Libra |
-| 182 | 300 | Zakia Monae |
-| 183 | 300 | Dana Scott |
+| 182 | 300 | Dana Scott |
+| 183 | 300 | Zakia Monae |
 | 184 | 297 | Melvin Baird |
 | 185 | 294 | Calvin Cannon |
 | 186 | 293 | Kathy Brookins |
@@ -207,14 +207,14 @@
 | 199 | 281 | Laura |
 | 200 | 281 | Kim Klutz Olson |
 | 201 | 277 | Zesty Twistbuilder |
-| 202 | 276 | Matt Dell'Olio |
-| 203 | 276 | Joeliecea Cobb |
+| 202 | 276 | Joeliecea Cobb |
+| 203 | 276 | Matt Dell'Olio |
 | 204 | 273 | Casey Grabner |
 | 205 | 272 | Alan George LaRage |
 | 206 | 272 | Dennis Bradley |
 | 207 | 271 | Sarah Brown |
-| 208 | 270 | Juls |
-| 209 | 270 | Jen Caldwell |
+| 208 | 270 | Jen Caldwell |
+| 209 | 270 | Juls |
 | 210 | 269 | Nikki Rae Gordon |
 | 211 | 268 | Porkobello |
 | 212 | 268 | Mimi |
@@ -243,8 +243,8 @@
 | 235 | 245 | Autum Leigh |
 | 236 | 241 | Allen Lloyd |
 | 237 | 241 | Chris Hartig |
-| 238 | 240 | Perky Patternblock |
-| 239 | 240 | Kim Hunt |
+| 238 | 240 | Kim Hunt |
+| 239 | 240 | Perky Patternblock |
 | 240 | 238 | Chaz |
 | 241 | 235 | LaDonna LovinmesomeMe Lambert |
 | 242 | 234 | Christine Therrien |
@@ -298,8 +298,8 @@
 | 290 | 197 | Gilles Lanctot |
 | 291 | 196 | rebel4lyfe |
 | 292 | 195 | 中山成巳 |
-| 293 | 194 | Zany Twisterfit |
-| 294 | 194 | Brittany Marsh |
+| 293 | 194 | Brittany Marsh |
+| 294 | 194 | Zany Twisterfit |
 | 295 | 193 | Chris Alexinas |
 | 296 | 192 | Jackie Marie |
 | 297 | 192 | Andrew Dang |
@@ -308,8 +308,8 @@
 | 300 | 190 | Amanda Christine |
 | 301 | 190 | wombat |
 | 302 | 189 | Berklie Apedaile |
-| 303 | 187 | Cynthia Boudreau |
-| 304 | 187 | Nita Wells |
+| 303 | 187 | Nita Wells |
+| 304 | 187 | Cynthia Boudreau |
 | 305 | 186 | Lauren Lamb |
 | 306 | 185 | Nubian1 |
 | 307 | 185 | Laura Hosford |
@@ -330,10 +330,10 @@
 | 322 | 174 | Shane Vick |
 | 323 | 174 | Kathy Allen |
 | 324 | 173 | Ultramarine |
-| 325 | 172 | Madison Sweere |
-| 326 | 172 | KimoKoala |
-| 327 | 171 | Autumn Kumzi |
-| 328 | 171 | Dapper Balancer |
+| 325 | 172 | KimoKoala |
+| 326 | 172 | Madison Sweere |
+| 327 | 171 | Dapper Balancer |
+| 328 | 171 | Autumn Kumzi |
 | 329 | 171 | mike |
 | 330 | 170 | Joshua W. Benton |
 | 331 | 170 | Elie Pean |
@@ -544,7 +544,7 @@
 | 536 | 109 | Mary Miller |
 | 537 | 109 | Jessica Miller |
 | 538 | 109 | Angel Raya |
-| 539 | 109 | Amy Jean |
+| 539 | 109 | Dustin York |
 | 540 | 108 | Ali Ian |
 | 541 | 108 | Tyler Bechtel |
 | 542 | 107 | Cranky Glidebuilder |
