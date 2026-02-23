@@ -97,8 +97,8 @@
 | 89 | 594 | Jamie Mann-Deichmann |
 | 90 | 591 | Amelpss |
 | 91 | 568 | Chris Baggett |
-| 92 | 561 | Amy Suckarieh |
-| 93 | 561 | H.R. Block |
+| 92 | 561 | H.R. Block |
+| 93 | 561 | Amy Suckarieh |
 | 94 | 561 | Zippy Gridlock |
 | 95 | 557 | Carmethia Clemons Haslerig |
 | 96 | 533 | Samantha Peterson |
@@ -138,8 +138,8 @@
 | 130 | 408 | Amanda Pauldo-Ivy |
 | 131 | 400 | Ericca Eldridge |
 | 132 | 394 | Austin Owens |
-| 133 | 393 | Trish |
-| 134 | 393 | Carlton Unfiltered |
+| 133 | 393 | Carlton Unfiltered |
+| 134 | 393 | Trish |
 | 135 | 392 | Cristy Duerksen |
 | 136 | 391 | Ramel Rhodes |
 | 137 | 391 | Angela Srubar-Norman |
@@ -264,7 +264,7 @@
 | 256 | 220 | Joanna |
 | 257 | 219 | Malakai Darien Fox |
 | 258 | 218 | Chance Strickland |
-| 259 | 216 | Shainne Brewer |
+| 259 | 216 | Keith Kelley |
 | 260 | 216 | ZeeZee |
 | 261 | 216 | Shainne Brewer |
 | 262 | 215 | Ziggy |
@@ -285,8 +285,8 @@
 | 277 | 205 | Stella |
 | 278 | 205 | KayM |
 | 279 | 203 | Katherine Crane |
-| 280 | 202 | Angelito |
-| 281 | 202 | Shukee Lo |
+| 280 | 202 | Shukee Lo |
+| 281 | 202 | Angelito |
 | 282 | 202 | Stephme310 |
 | 283 | 201 | June Hoffman |
 | 284 | 201 | Silly SeaWeed |
@@ -305,8 +305,8 @@
 | 297 | 192 | Jackie Marie |
 | 298 | 191 | Norman Klick |
 | 299 | 191 | Earnest Thompson |
-| 300 | 190 | wombat |
-| 301 | 190 | Amanda Christine |
+| 300 | 190 | Amanda Christine |
+| 301 | 190 | wombat |
 | 302 | 189 | Berklie Apedaile |
 | 303 | 187 | Cynthia Boudreau |
 | 304 | 187 | Nita Wells |
@@ -338,7 +338,7 @@
 | 330 | 170 | Elie Pean |
 | 331 | 170 | Joshua W. Benton |
 | 332 | 169 | Daring Pivot |
-| 333 | 169 | Jessica Atkinson |
+| 333 | 169 | Dante Korleon |
 | 334 | 169 | Ellen Durfee |
 | 335 | 169 | Alexandra Karavias |
 | 336 | 169 | Jessica Atkinson |
@@ -386,10 +386,10 @@
 | 378 | 156 | Terrance Fung |
 | 379 | 156 | Nig |
 | 380 | 155 | Jared Gutwein |
-| 381 | 154 | Russ Attitude |
-| 382 | 154 | Happy Combo |
+| 381 | 154 | Happy Combo |
+| 382 | 154 | Russ Attitude |
 | 383 | 154 | Duck |
-| 384 | 153 | O block |
+| 384 | 153 | Blessedmama |
 | 385 | 153 | Heather Bruce |
 | 386 | 153 | O block |
 | 387 | 152 | Cheery Fitline |

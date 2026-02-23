@@ -160,8 +160,8 @@
 | 152 | 1475 | Dustin Rains |
 | 153 | 1461 | Brandy Andre |
 | 154 | 1459 | Debra Williams |
-| 155 | 1450 | Shiny Rollzone |
-| 156 | 1450 | Cody Smith-Candelaria |
+| 155 | 1450 | Cody Smith-Candelaria |
+| 156 | 1450 | Shiny Rollzone |
 | 157 | 1440 | Rebecca Doughman |
 | 158 | 1418 | L3sli3 |
 | 159 | 1416 | Nancy Reid |
@@ -269,8 +269,8 @@
 | 261 | 958 | Brenda Messer |
 | 262 | 957 | Keri Womack |
 | 263 | 957 | Block Master |
-| 264 | 957 | Crystal Hoffman |
-| 265 | 957 | Offonar Facey |
+| 264 | 957 | Offonar Facey |
+| 265 | 957 | Crystal Hoffman |
 | 266 | 955 | Angela Bonquiqui Dinish |
 | 267 | 951 | Cynthia Ward |
 | 268 | 947 | Dedra Steward |

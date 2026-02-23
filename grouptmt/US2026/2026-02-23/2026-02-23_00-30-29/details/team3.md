@@ -142,8 +142,8 @@
 | 134 | 621 | Cherry Parker |
 | 135 | 611 | Kiki |
 | 136 | 610 | Daryn Elliott |
-| 137 | 595 | Patricia White |
-| 138 | 595 | Giddy Drop |
+| 137 | 595 | Giddy Drop |
+| 138 | 595 | Patricia White |
 | 139 | 590 | Santeria Trece Candles |
 | 140 | 588 | Justin Ritter |
 | 141 | 585 | opf |
@@ -279,8 +279,8 @@
 | 271 | 324 | Sissy Lowery Davis |
 | 272 | 322 | Nena Somerville Kelly |
 | 273 | 321 | Charles Perrone |
-| 274 | 320 | Ashley Muncey |
-| 275 | 320 | Or Reznitsky |
+| 274 | 320 | Or Reznitsky |
+| 275 | 320 | Ashley Muncey |
 | 276 | 312 | Twisty Brick LT |
 | 277 | 312 | LadyTorad |
 | 278 | 309 | Felicia Rocha |

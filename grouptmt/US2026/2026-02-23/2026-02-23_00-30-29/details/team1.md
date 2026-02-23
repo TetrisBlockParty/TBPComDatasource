@@ -26,8 +26,8 @@
 | 18 | 1408 | Mara Hilker |
 | 19 | 1264 | Jennifer Cates |
 | 20 | 1215 | LaQuetta Faith Hines |
-| 21 | 1191 | Roger Aschbrenner |
-| 22 | 1191 | Nerdy Linkblock |
+| 21 | 1191 | Nerdy Linkblock |
+| 22 | 1191 | Roger Aschbrenner |
 | 23 | 1181 | Carolyn Smith |
 | 24 | 1145 | Tyler Alcock |
 | 25 | 1136 | Rahna Underwood |
@@ -104,8 +104,8 @@
 | 96 | 485 | Cartier |
 | 97 | 480 | cc |
 | 98 | 474 | Tdub |
-| 99 | 472 | April Carroll |
-| 100 | 472 | Kristen Gideon |
+| 99 | 472 | Kristen Gideon |
+| 100 | 472 | April Carroll |
 | 101 | 466 | Hasbro Bros |
 | 102 | 462 | Luciano Moreira |
 | 103 | 454 | Evan Richmond |
@@ -246,8 +246,8 @@
 | 238 | 238 | Tiffany Smith |
 | 239 | 238 | Sarah Somers Gray |
 | 240 | 235 | Bindi |
-| 241 | 234 | Shanae Grant |
-| 242 | 234 | Paula Martin |
+| 241 | 234 | Paula Martin |
+| 242 | 234 | Shanae Grant |
 | 243 | 233 | LC |
 | 244 | 230 | Diane Byrd |
 | 245 | 230 | Michael |
@@ -277,8 +277,8 @@
 | 269 | 219 | Chuck Gannon |
 | 270 | 216 | Shauntina Burke |
 | 271 | 216 | Chad Atchley |
-| 272 | 215 | Panda Thagreat |
-| 273 | 215 | Shaykmia |
+| 272 | 215 | Shaykmia |
+| 273 | 215 | Panda Thagreat |
 | 274 | 213 | John Barron |
 | 275 | 212 | Michelle Beres |
 | 276 | 211 | Jeanna Dunn |
@@ -492,8 +492,8 @@
 | 484 | 127 | Laurie Sanderson |
 | 485 | 127 | Brave Slice |
 | 486 | 127 | Frisky Risebuilder |
-| 487 | 126 | Francesca Gee |
-| 488 | 126 | Tina Kocher Zimmerman |
+| 487 | 126 | Tina Kocher Zimmerman |
+| 488 | 126 | Francesca Gee |
 | 489 | 126 | Connie |
 | 490 | 125 | Tiffany Daboss Seymour |
 | 491 | 125 | Quirky Pusher |
