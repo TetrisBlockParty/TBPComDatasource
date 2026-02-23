@@ -93,8 +93,8 @@
 | 85 | 2515 | Crystalin Heath Lewis |
 | 86 | 2500 | Rosemadder |
 | 87 | 2438 | Rob Surace |
-| 88 | 2428 | Deanna Morton |
-| 89 | 2428 | Thomas Hughes |
+| 88 | 2428 | Thomas Hughes |
+| 89 | 2428 | Deanna Morton |
 | 90 | 2410 | RdRydnHd |
 | 91 | 2400 | Rich Sullivan |
 | 92 | 2395 | Ashley House |
@@ -279,8 +279,8 @@
 | 271 | 1047 | Dany Murillo |
 | 272 | 1045 | Bri Lynn |
 | 273 | 1045 | Lourisha |
-| 274 | 1043 | Brave Dropmatch |
-| 275 | 1043 | nikki |
+| 274 | 1043 | nikki |
+| 275 | 1043 | Brave Dropmatch |
 | 276 | 1036 | Allison Lockyer |
 | 277 | 1036 | Amber Shoemaker |
 | 278 | 1026 | Kristin Gower |
@@ -293,8 +293,8 @@
 | 285 | 1010 | Brittany Radaszewski |
 | 286 | 1007 | Missie Lawson Gebhardt |
 | 287 | 1003 | Andrea Maher |
-| 288 | 998 | Keri Womack |
-| 289 | 998 | Shelley Thornburgh Wright |
+| 288 | 998 | Shelley Thornburgh Wright |
+| 289 | 998 | Keri Womack |
 | 290 | 996 | Ashie Ann |
 | 291 | 996 | Ashlen Dorrell |
 | 292 | 988 | Juliana Marques Do Nascimento Gordy |

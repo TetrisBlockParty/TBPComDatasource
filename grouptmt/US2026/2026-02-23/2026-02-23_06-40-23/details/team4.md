@@ -54,13 +54,13 @@
 | 46 | 938 | Denny Shives |
 | 47 | 936 | Rebecca Moulton Pinciaro |
 | 48 | 932 | Marvin Lou Martin |
-| 49 | 911 | Anthony Bryan Riva |
-| 50 | 911 | Jeremy Steines |
+| 49 | 911 | Jeremy Steines |
+| 50 | 911 | Anthony Bryan Riva |
 | 51 | 870 | BertMofo |
 | 52 | 863 | Pee |
 | 53 | 853 | TeeJ |
-| 54 | 846 | Christine Marie |
-| 55 | 846 | Lucille Truesdale |
+| 54 | 846 | Lucille Truesdale |
+| 55 | 846 | Christine Marie |
 | 56 | 845 | LisaJo Picken Buchanan |
 | 57 | 843 | Shelly Chandler |
 | 58 | 834 | quicksand420 |
@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Jonathan Kimbrough |
-| 84 | 684 | Kimyatta Cavin |
+| 83 | 684 | Kimyatta Cavin |
+| 84 | 684 | Jonathan Kimbrough |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | KM8 |
-| 93 | 647 | Shauna Havard |
+| 92 | 647 | Shauna Havard |
+| 93 | 647 | KM8 |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -160,8 +160,8 @@
 | 152 | 406 | Damn Libra |
 | 153 | 398 | Tyler Terrific |
 | 154 | 397 | Livvy |
-| 155 | 393 | Carlton Unfiltered |
-| 156 | 393 | Girl |
+| 155 | 393 | Girl |
+| 156 | 393 | Carlton Unfiltered |
 | 157 | 391 | Ramel Rhodes |
 | 158 | 389 | Joseph Guthrie |
 | 159 | 387 | Lucas J Sutton |
@@ -242,9 +242,9 @@
 | 234 | 276 | Matt Dell'Olio |
 | 235 | 274 | JPW |
 | 236 | 273 | Cranky Rollpiece |
-| 237 | 272 | Dennis Bradley |
-| 238 | 272 | Alan George LaRage |
-| 239 | 272 | Carlos Ramirez |
+| 237 | 272 | Carlos Ramirez |
+| 238 | 272 | Dennis Bradley |
+| 239 | 272 | Alan George LaRage |
 | 240 | 271 | Holly |
 | 241 | 270 | Juls |
 | 242 | 270 | Jen Caldwell |
@@ -511,7 +511,7 @@
 | 503 | 141 | Dustin York |
 | 504 | 140 | Thomas Hettenhaus |
 | 505 | 140 | Sunny Filler |
-| 506 | 140 | Thomas Hettenhaus |
+| 506 | 140 | Smiley Tiltbuilder |
 | 507 | 139 | Ann G. Carrillo |
 | 508 | 139 | Angie Schmidt |
 | 509 | 138 | Hasty Fitzone |

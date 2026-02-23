@@ -113,8 +113,8 @@
 | 105 | 868 | Sarajane Lokan |
 | 106 | 866 | Ebony West-Cundiff |
 | 107 | 860 | Sunny Rotater |
-| 108 | 851 | Danielle Becker |
-| 109 | 851 | Jd Morris |
+| 108 | 851 | Jd Morris |
+| 109 | 851 | Danielle Becker |
 | 110 | 850 | Danielle Mogg |
 | 111 | 848 | Patricia Gadsden |
 | 112 | 831 | Angeline Joseph |
@@ -128,8 +128,8 @@
 | 120 | 769 | Kristie |
 | 121 | 764 | Groovy Catcher |
 | 122 | 762 | Speedy Bridger |
-| 123 | 752 | Logan Naccarato |
-| 124 | 752 | Raya |
+| 123 | 752 | Raya |
+| 124 | 752 | Logan Naccarato |
 | 125 | 748 | Adrian Marcel Pate |
 | 126 | 745 | JerseyJess |
 | 127 | 744 | Leah Barnett |
@@ -231,8 +231,8 @@
 | 223 | 448 | Scott Carleton |
 | 224 | 437 | Loopy Clusterer |
 | 225 | 432 | Luciana Braganca Vieira |
-| 226 | 431 | Ammmmmmy |
-| 227 | 431 | Wendy Dearden |
+| 226 | 431 | Wendy Dearden |
+| 227 | 431 | Ammmmmmy |
 | 228 | 430 | Jeni Dow |
 | 229 | 418 | Rebecca Funderburk Kirby |
 | 230 | 414 | Fran Lin |
@@ -253,8 +253,8 @@
 | 245 | 382 | Giddy Twistbuilder |
 | 246 | 381 | Snazzy Filler |
 | 247 | 380 | Rebecca Bailey |
-| 248 | 378 | MsBee |
-| 249 | 378 | Chris Bell |
+| 248 | 378 | Chris Bell |
+| 249 | 378 | MsBee |
 | 250 | 377 | Charles Perrone |
 | 251 | 374 | Rania Zaqout |
 | 252 | 373 | Chummy Caster |
@@ -265,11 +265,11 @@
 | 257 | 370 | Samantha Lynn |
 | 258 | 369 | Philip Rock |
 | 259 | 369 | Keis |
-| 260 | 368 | Sheila M Frazier |
-| 261 | 368 | Stephanie Woods |
+| 260 | 368 | Stephanie Woods |
+| 261 | 368 | Sheila M Frazier |
 | 262 | 367 | Kristin Delibac Corrigan |
-| 263 | 366 | Randy Clevenger |
-| 264 | 366 | Gumbo |
+| 263 | 366 | Gumbo |
+| 264 | 366 | Randy Clevenger |
 | 265 | 365 | Noyb Adam |
 | 266 | 364 | Carrie Huskey |
 | 267 | 364 | Steffi Chris Dacones |
@@ -337,11 +337,11 @@
 | 329 | 301 | Betty Rosas |
 | 330 | 300 | Foltz Lee Kelli |
 | 331 | 299 | Angie Harper |
-| 332 | 298 | Grams |
-| 333 | 298 | Dannie Litchard |
+| 332 | 298 | Dannie Litchard |
+| 333 | 298 | Grams |
 | 334 | 297 | kacihall |
-| 335 | 296 | Hasty Gridpiece |
-| 336 | 296 | Donna |
+| 335 | 296 | Donna |
+| 336 | 296 | Hasty Gridpiece |
 | 337 | 296 | Tracy Martin |
 | 338 | 295 | Nikki Pags |
 | 339 | 295 | angieelyn |
@@ -561,8 +561,8 @@
 | 553 | 191 | Becca Engle |
 | 554 | 191 | lady lua |
 | 555 | 191 | Morgan Cudo |
-| 556 | 191 | Polopypy |
-| 557 | 191 | Peachy Tower |
+| 556 | 191 | Peachy Tower |
+| 557 | 191 | Polopypy |
 | 558 | 190 | Smiley Zone |
 | 559 | 189 | Jason |
 | 560 | 189 | Wacky Crasher |
