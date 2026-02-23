@@ -499,9 +499,9 @@
 | 491 | 157 | David Boggs |
 | 492 | 157 | Ryry |
 | 493 | 156 | Mighty Edgepiece |
-| 494 | 155 | tipsy tiger |
-| 495 | 155 | Faja |
-| 496 | 155 | Shirl |
+| 494 | 155 | Faja |
+| 495 | 155 | Shirl |
+| 496 | 155 | tipsy tiger |
 | 497 | 154 | Bryan Hodgins |
 | 498 | 154 | Happy Combo |
 | 499 | 153 | Ahleek Mitchell |

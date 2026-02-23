@@ -44,8 +44,8 @@
 | 36 | 4301 | Mighty Patternzone |
 | 37 | 4199 | Claire Noland |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Kristen Sceurman |
-| 40 | 4120 | Corrine Hawks Soriano |
+| 39 | 4120 | Corrine Hawks Soriano |
+| 40 | 4120 | Kristen Sceurman |
 | 41 | 4086 | PandaMama |
 | 42 | 4006 | CoolKat |
 | 43 | 3960 | Brittany Alicia |
@@ -300,8 +300,8 @@
 | 292 | 1045 | Bri Lynn |
 | 293 | 1045 | Lourisha |
 | 294 | 1044 | Jennifer Aiken |
-| 295 | 1043 | nikki |
-| 296 | 1043 | Brave Dropmatch |
+| 295 | 1043 | Brave Dropmatch |
+| 296 | 1043 | nikki |
 | 297 | 1042 | Mcintosh Brian Shalonda |
 | 298 | 1040 | Rebecca Garland |
 | 299 | 1036 | Amber Shoemaker |
@@ -316,8 +316,8 @@
 | 308 | 1014 | Michele Morgan |
 | 309 | 1011 | Teresa Gillmore |
 | 310 | 1003 | Andrea Maher |
-| 311 | 998 | Keri Womack |
-| 312 | 998 | Shelley Thornburgh Wright |
+| 311 | 998 | Shelley Thornburgh Wright |
+| 312 | 998 | Keri Womack |
 | 313 | 996 | Ashie Ann |
 | 314 | 991 | Spunkysmom |
 | 315 | 987 | Osun Anuket Esu |
@@ -337,8 +337,8 @@
 | 329 | 969 | Em Chen |
 | 330 | 967 | Ronnie Nelson |
 | 331 | 959 | Phil J. Grombliniak |
-| 332 | 958 | Doowop40 |
-| 333 | 958 | Brenda Messer |
+| 332 | 958 | Brenda Messer |
+| 333 | 958 | Doowop40 |
 | 334 | 957 | Block Master |
 | 335 | 957 | Matthew Joseph Acevedo |
 | 336 | 955 | Angela Bonquiqui Dinish |
@@ -366,8 +366,8 @@
 | 358 | 910 | Ashley Dow |
 | 359 | 907 | Gene Mills |
 | 360 | 904 | John Bednarik |
-| 361 | 903 | Eric Castaneda |
-| 362 | 903 | Giggy Blocker |
+| 361 | 903 | Giggy Blocker |
+| 362 | 903 | Eric Castaneda |
 | 363 | 902 | Diallo Sparkman |
 | 364 | 901 | Kevin Sees |
 | 365 | 899 | Patrick Bartlett |

@@ -399,8 +399,8 @@
 | 391 | 280 | Dirtgirl27 |
 | 392 | 279 | Dana Winters |
 | 393 | 279 | Romeo |
-| 394 | 279 | Naur |
-| 395 | 279 | Tosha Griffey |
+| 394 | 279 | Tosha Griffey |
+| 395 | 279 | Naur |
 | 396 | 278 | Rufus Lincoln |
 | 397 | 277 | France Vézina |
 | 398 | 277 | Krystal Gerstberger |

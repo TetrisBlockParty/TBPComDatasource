@@ -44,8 +44,8 @@
 | 36 | 1126 | Tater |
 | 37 | 1122 | Amanda Summey Schoemer |
 | 38 | 1119 | june october |
-| 39 | 1114 | Jayme Sellers |
-| 40 | 1114 | Marianne Louise West |
+| 39 | 1114 | Marianne Louise West |
+| 40 | 1114 | Jayme Sellers |
 | 41 | 1112 | Chipper Gridlock |
 | 42 | 1100 | Derek MF Blakey |
 | 43 | 1096 | Aaron Garnett |
@@ -87,8 +87,8 @@
 | 79 | 679 | Hasbro Bros |
 | 80 | 668 | Lori Sanders- Davis |
 | 81 | 665 | Jason Jones |
-| 82 | 657 | Cynthia Bradley |
-| 83 | 657 | Tee Sheree |
+| 82 | 657 | Tee Sheree |
+| 83 | 657 | Cynthia Bradley |
 | 84 | 655 | Brenda Stewart |
 | 85 | 653 | Kellie |
 | 86 | 648 | Evie Khalil |
@@ -121,8 +121,8 @@
 | 113 | 493 | MomMom |
 | 114 | 492 | Ash Galvan |
 | 115 | 491 | cc |
-| 116 | 489 | April Carroll |
-| 117 | 489 | Deanna L Hermanson |
+| 116 | 489 | Deanna L Hermanson |
+| 117 | 489 | April Carroll |
 | 118 | 483 | Trina Gee |
 | 119 | 477 | Tonya Beasley |
 | 120 | 475 | Sarah Somers Gray |
@@ -180,8 +180,8 @@
 | 172 | 380 | phrmblk24 |
 | 173 | 379 | Austin James |
 | 174 | 376 | Brian Richardsson |
-| 175 | 375 | Connie |
-| 176 | 375 | Tanya Carpenter-Reynolds |
+| 175 | 375 | Tanya Carpenter-Reynolds |
+| 176 | 375 | Connie |
 | 177 | 374 | Howdi Duty |
 | 178 | 372 | Dizzy Party |
 | 179 | 371 | Jason Savage |
