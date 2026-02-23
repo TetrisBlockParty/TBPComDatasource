@@ -66,8 +66,8 @@
 | 58 | 892 | Seth Wesson |
 | 59 | 874 | Kristen Roles Robben |
 | 60 | 858 | Michelle Nicole |
-| 61 | 850 | Andrea Dañielle Ortiz |
-| 62 | 850 | comrade fish |
+| 61 | 850 | comrade fish |
+| 62 | 850 | Andrea Dañielle Ortiz |
 | 63 | 845 | Drew Magnus |
 | 64 | 829 | Sevens4L |
 | 65 | 818 | Patrick Luckenbill |
@@ -79,8 +79,8 @@
 | 71 | 760 | Seante Bullock |
 | 72 | 759 | Jacqueline Williams |
 | 73 | 750 | Cartier |
-| 74 | 713 | Snappy Swiper |
-| 75 | 713 | Robert Benito |
+| 74 | 713 | Robert Benito |
+| 75 | 713 | Snappy Swiper |
 | 76 | 704 | Karin Gillen |
 | 77 | 703 | Angel Fowler |
 | 78 | 689 | Susanna Guerry |
@@ -147,8 +147,8 @@
 | 139 | 429 | Kristi Johnson |
 | 140 | 428 | Ly Phethmany |
 | 141 | 426 | Maria C. Hernandez |
-| 142 | 425 | Dandy Basegrid |
-| 143 | 425 | Tyler Werts |
+| 142 | 425 | Tyler Werts |
+| 143 | 425 | Dandy Basegrid |
 | 144 | 423 | ALFD |
 | 145 | 422 | Constance Risner |
 | 146 | 417 | Phu ckalldems |
@@ -237,13 +237,13 @@
 | 229 | 314 | Daring Fitclear |
 | 230 | 313 | Cody Gates |
 | 231 | 313 | Sylvia Vasquez |
-| 232 | 312 | Jessi Sauer |
-| 233 | 312 | Mitchel White |
+| 232 | 312 | Mitchel White |
+| 233 | 312 | Jessi Sauer |
 | 234 | 310 | Bloknboy |
 | 235 | 308 | Speedy Liney |
 | 236 | 303 | Νεφ Όνυξ |
-| 237 | 301 | John Kim |
-| 238 | 301 | Damon J. Martin |
+| 237 | 301 | Damon J. Martin |
+| 238 | 301 | John Kim |
 | 239 | 300 | Sleepysloath5745 |
 | 240 | 299 | Sassy Builderline |
 | 241 | 298 | Billie Ann Eason |
@@ -256,8 +256,8 @@
 | 248 | 289 | Alenoush Karimian |
 | 249 | 288 | Bird Person |
 | 250 | 285 | Shanae Grant |
-| 251 | 284 | Sir-Franchise Drake |
-| 252 | 284 | Sam Williams |
+| 251 | 284 | Sam Williams |
+| 252 | 284 | Sir-Franchise Drake |
 | 253 | 283 | Franswa |
 | 254 | 282 | Timothy Dew |
 | 255 | 281 | Clever Cascadepiece |
@@ -431,8 +431,8 @@
 | 423 | 186 | Nikki Fridley |
 | 424 | 186 | Chummy Rollblock |
 | 425 | 185 | Hasty Columnbuilder |
-| 426 | 184 | Sonia Marquis |
-| 427 | 184 | Theeranart Mahawan |
+| 426 | 184 | Theeranart Mahawan |
+| 427 | 184 | Sonia Marquis |
 | 428 | 183 | Wayne Saunders |
 | 429 | 182 | Mrsbigdawg |
 | 430 | 182 | Nathan Sealander |

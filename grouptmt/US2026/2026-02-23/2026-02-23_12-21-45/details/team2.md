@@ -44,8 +44,8 @@
 | 36 | 4280 | Robert Diddle |
 | 37 | 4199 | Claire Noland |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Corrine Hawks Soriano |
-| 40 | 4120 | Kristen Sceurman |
+| 39 | 4120 | Kristen Sceurman |
+| 40 | 4120 | Corrine Hawks Soriano |
 | 41 | 4086 | PandaMama |
 | 42 | 3947 | Melinda Brown |
 | 43 | 3845 | jayjay |
@@ -314,8 +314,8 @@
 | 306 | 1014 | Michele Morgan |
 | 307 | 1011 | Teresa Gillmore |
 | 308 | 1003 | Andrea Maher |
-| 309 | 998 | Shelley Thornburgh Wright |
-| 310 | 998 | Keri Womack |
+| 309 | 998 | Keri Womack |
+| 310 | 998 | Shelley Thornburgh Wright |
 | 311 | 996 | Ashie Ann |
 | 312 | 987 | Osun Anuket Esu |
 | 313 | 980 | Jackie Lucas |
@@ -326,8 +326,8 @@
 | 318 | 976 | Della Hole |
 | 319 | 975 | Hyper Cluster |
 | 320 | 974 | Boldy Cascadepiece |
-| 321 | 972 | Barbra Miller |
-| 322 | 972 | Binyah-Binyah |
+| 321 | 972 | Binyah-Binyah |
+| 322 | 972 | Barbra Miller |
 | 323 | 971 | Jojo Momma |
 | 324 | 969 | Em Chen |
 | 325 | 964 | Ronnie Nelson |
@@ -609,8 +609,8 @@
 | 601 | 601 | Moua Ying |
 | 602 | 601 | Daniel Amos |
 | 603 | 600 | Nicole Cox |
-| 604 | 597 | Jamie Schmitt |
-| 605 | 597 | TJ Nash |
+| 604 | 597 | TJ Nash |
+| 605 | 597 | Jamie Schmitt |
 | 606 | 597 | Magic steve |
 | 607 | 596 | Davetta Sanford |
 | 608 | 595 | Dapper Dasher |

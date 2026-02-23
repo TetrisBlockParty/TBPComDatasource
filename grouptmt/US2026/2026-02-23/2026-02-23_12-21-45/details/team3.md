@@ -117,8 +117,8 @@
 | 109 | 869 | Araceli Parra |
 | 110 | 868 | Sarajane Lokan |
 | 111 | 860 | Sunny Rotater |
-| 112 | 851 | Danielle Becker |
-| 113 | 851 | Jd Morris |
+| 112 | 851 | Jd Morris |
+| 113 | 851 | Danielle Becker |
 | 114 | 850 | Danielle Mogg |
 | 115 | 848 | Patricia Gadsden |
 | 116 | 839 | Angeline Joseph |
@@ -135,8 +135,8 @@
 | 127 | 764 | Groovy Catcher |
 | 128 | 764 | Hasty Cascadefit |
 | 129 | 762 | Speedy Bridger |
-| 130 | 755 | Katrina Schroeder |
-| 131 | 755 | Raya |
+| 130 | 755 | Raya |
+| 131 | 755 | Katrina Schroeder |
 | 132 | 752 | Logan Naccarato |
 | 133 | 748 | Adrian Marcel Pate |
 | 134 | 746 | Giddy Drop |
@@ -169,8 +169,8 @@
 | 161 | 634 | Amber Hughes |
 | 162 | 631 | Grego Daniel |
 | 163 | 630 | yoyo |
-| 164 | 621 | Cherry Parker |
-| 165 | 621 | Sashay Tapae Simpson |
+| 164 | 621 | Sashay Tapae Simpson |
+| 165 | 621 | Cherry Parker |
 | 166 | 616 | Kammy Hill |
 | 167 | 611 | Rochelle Hazelett |
 | 168 | 603 | Jone |
@@ -179,16 +179,16 @@
 | 171 | 597 | Diana Ibarra |
 | 172 | 591 | Michael Nowogorski |
 | 173 | 587 | Louise Stacy Sisson |
-| 174 | 585 | Happy Tetriblast |
-| 175 | 585 | Domo Washington |
+| 174 | 585 | Domo Washington |
+| 175 | 585 | Happy Tetriblast |
 | 176 | 583 | Tasha Gillespie |
 | 177 | 582 | Natasha Jones |
 | 178 | 574 | Morgan Martinez |
 | 179 | 572 | CeceGeGe |
 | 180 | 568 | Rachael McClain Owens |
 | 181 | 566 | LaTanya GeminiondaRise Johnson |
-| 182 | 564 | Poppy Splitter |
-| 183 | 564 | Christine Trester |
+| 182 | 564 | Christine Trester |
+| 183 | 564 | Poppy Splitter |
 | 184 | 563 | Jim Mathews |
 | 185 | 562 | Dave Herzog |
 | 186 | 559 | Patti Skiles |
@@ -354,8 +354,8 @@
 | 346 | 311 | Troy |
 | 347 | 309 | Desiree Gold |
 | 348 | 309 | Cheeky Snapper |
-| 349 | 308 | Tia |
-| 350 | 308 | Katrina Turner |
+| 349 | 308 | Katrina Turner |
+| 350 | 308 | Tia |
 | 351 | 305 | Hyper Matchzone |
 | 352 | 304 | _melisa223_ |
 | 353 | 303 | Alexmac |

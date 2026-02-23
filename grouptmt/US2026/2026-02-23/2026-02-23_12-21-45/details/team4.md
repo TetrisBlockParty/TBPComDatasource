@@ -78,8 +78,8 @@
 | 70 | 768 | Judy Cox |
 | 71 | 767 | Shannon Ferrari |
 | 72 | 766 | Robin Watters |
-| 73 | 765 | Denise Carlson |
-| 74 | 765 | Robin Getchel |
+| 73 | 765 | Robin Getchel |
+| 74 | 765 | Denise Carlson |
 | 75 | 758 | Avy Absol |
 | 76 | 753 | TheNeesh50 |
 | 77 | 752 | Shane Kalamata Platoon |
@@ -102,8 +102,8 @@
 | 94 | 659 | Jamie Gustafson |
 | 95 | 653 | Rica Mitchell |
 | 96 | 650 | KJ Pool |
-| 97 | 647 | KM8 |
-| 98 | 647 | Shauna Havard |
+| 97 | 647 | Shauna Havard |
+| 98 | 647 | KM8 |
 | 99 | 646 | Eric Mcgaughy |
 | 100 | 626 | Brittney Griggs |
 | 101 | 622 | Nugget |
@@ -132,8 +132,8 @@
 | 124 | 514 | Scott Jameson |
 | 125 | 514 | Serena Goodridge |
 | 126 | 513 | Erin Thomas |
-| 127 | 512 | Casey Jeffcoat |
-| 128 | 512 | Cristy Duerksen |
+| 127 | 512 | Cristy Duerksen |
+| 128 | 512 | Casey Jeffcoat |
 | 129 | 508 | Twisty Clicky |
 | 130 | 493 | Carly Alexis |
 | 131 | 486 | Ellen Durfee |
@@ -300,8 +300,8 @@
 | 292 | 252 | Deb Rubeck |
 | 293 | 251 | Carol Ricks Raymond |
 | 294 | 249 | Ak Jones |
-| 295 | 248 | Angelito |
-| 296 | 248 | Chirpy Basepiece |
+| 295 | 248 | Chirpy Basepiece |
+| 296 | 248 | Angelito |
 | 297 | 248 | Jose Dejesus |
 | 298 | 245 | 23 |
 | 299 | 244 | Elizabeth Tinoco |
@@ -332,9 +332,9 @@
 | 324 | 225 | Ernest Maxwell |
 | 325 | 225 | Jenna McGeorge |
 | 326 | 224 | Ultramarine |
-| 327 | 223 | Chance Strickland |
-| 328 | 223 | Gracie Ann Taylor |
-| 329 | 223 | Brave Spinbuilder |
+| 327 | 223 | Brave Spinbuilder |
+| 328 | 223 | Chance Strickland |
+| 329 | 223 | Gracie Ann Taylor |
 | 330 | 223 | Amanda Christine |
 | 331 | 222 | Brandi Durig |
 | 332 | 221 | Rheanda Weaskus |
@@ -343,9 +343,9 @@
 | 335 | 220 | Nita Wells |
 | 336 | 220 | Dustin York |
 | 337 | 220 | Tina Lopez |
-| 338 | 219 | Shane Vick |
-| 339 | 219 | Stephme310 |
-| 340 | 219 | Orchislactea |
+| 338 | 219 | Orchislactea |
+| 339 | 219 | Shane Vick |
+| 340 | 219 | Stephme310 |
 | 341 | 218 | Janita Parrish |
 | 342 | 217 | Cheery Fitline |
 | 343 | 217 | Paito |
@@ -357,15 +357,15 @@
 | 349 | 214 | Patron Anderson |
 | 350 | 214 | B Renee Desjardin |
 | 351 | 213 | Jackie Marie |
-| 352 | 212 | Mike Solo |
-| 353 | 212 | Zany Shatterer |
+| 352 | 212 | Zany Shatterer |
+| 353 | 212 | Mike Solo |
 | 354 | 211 | Neirrah B Olailjeel |
 | 355 | 209 | Marcus Todd |
 | 356 | 209 | Snippy Puzzle |
 | 357 | 209 | Sarah Hoffman |
 | 358 | 209 | Tyler Bechtel |
-| 359 | 208 | Heather Bruce |
-| 360 | 208 | Shukee Lo |
+| 359 | 208 | Shukee Lo |
+| 360 | 208 | Heather Bruce |
 | 361 | 206 | Maureen Flanigan |
 | 362 | 205 | KayM |
 | 363 | 204 | Ruby Khalisadar |
@@ -377,8 +377,8 @@
 | 369 | 203 | Kevin Bush |
 | 370 | 203 | Sticherella |
 | 371 | 201 | O block |
-| 372 | 198 | Mona Sharma |
-| 373 | 198 | Calvin Dennis |
+| 372 | 198 | Calvin Dennis |
+| 373 | 198 | Mona Sharma |
 | 374 | 197 | Cozy Balancer |
 | 375 | 196 | Blessedmama |
 | 376 | 196 | Maria Hammie |
@@ -577,8 +577,8 @@
 | 569 | 129 | Dreamy Snapgrid |
 | 570 | 129 | RIFATSIKDER |
 | 571 | 128 | Zesty Linkgrid |
-| 572 | 128 | Raymond Roberts |
-| 573 | 128 | Lazy Glidepiece |
+| 572 | 128 | Lazy Glidepiece |
+| 573 | 128 | Raymond Roberts |
 | 574 | 127 | Jay You |
 | 575 | 126 | PAPatty |
 | 576 | 126 | Spicy Cascadezone |
@@ -597,7 +597,7 @@
 | 589 | 123 | mini |
 | 590 | 122 | bloat princess |
 | 591 | 122 | Martha Lucinda Bishop |
-| 592 | 122 | bloat princess |
+| 592 | 122 | Mike Burlingame |
 | 593 | 122 | meowmew |
 | 594 | 122 | Mary Therese Benden Cole |
 | 595 | 121 | Flashy Jumper |
