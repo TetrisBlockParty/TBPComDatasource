@@ -256,8 +256,8 @@
 | 248 | 266 | Mr. Party |
 | 249 | 265 | Sarah Neathery |
 | 250 | 265 | Cynthia Boudreau |
-| 251 | 265 | Sarah Neathery |
-| 252 | 265 | Silly SeaWeed |
+| 251 | 265 | Silly SeaWeed |
+| 252 | 265 | Degenerate |
 | 253 | 264 | ZeeZee |
 | 254 | 264 | Stella |
 | 255 | 263 | Nubian1 |
@@ -334,8 +334,8 @@
 | 326 | 212 | Brave Spinbuilder |
 | 327 | 211 | Chris Alexinas |
 | 328 | 210 | Ari Droff |
-| 329 | 209 | Snippy Puzzle |
-| 330 | 209 | Marcus Todd |
+| 329 | 209 | Marcus Todd |
+| 330 | 209 | Snippy Puzzle |
 | 331 | 208 | Shukee Lo |
 | 332 | 208 | Heather Bruce |
 | 333 | 207 | Squeezy Pearsall |

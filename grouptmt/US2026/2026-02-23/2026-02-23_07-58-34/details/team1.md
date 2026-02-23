@@ -111,8 +111,8 @@
 | 103 | 493 | Jennifer ManWarren |
 | 104 | 492 | Ash Galvan |
 | 105 | 491 | cc |
-| 106 | 489 | April Carroll |
-| 107 | 489 | Deanna L Hermanson |
+| 106 | 489 | Deanna L Hermanson |
+| 107 | 489 | April Carroll |
 | 108 | 483 | Tdub |
 | 109 | 483 | Trina Gee |
 | 110 | 480 | Ty Brown |
@@ -125,8 +125,8 @@
 | 117 | 452 | Hyper |
 | 118 | 451 | Plucky Ziggy |
 | 119 | 450 | lil mickey |
-| 120 | 448 | Jazzy Framezone |
-| 121 | 448 | Sweet Baker |
+| 120 | 448 | Sweet Baker |
+| 121 | 448 | Jazzy Framezone |
 | 122 | 446 | SkipTheSadSauce |
 | 123 | 443 | Steve Schneider |
 | 124 | 439 | Dee Perry |
@@ -195,10 +195,10 @@
 | 187 | 337 | Constance Risner |
 | 188 | 337 | Jamise Brown |
 | 189 | 336 | Dizzy Party |
-| 190 | 333 | Gracie |
-| 191 | 333 | Virginia Gray Floyd |
-| 192 | 332 | Happy Basegrid |
-| 193 | 332 | Lehrin Maria |
+| 190 | 333 | Virginia Gray Floyd |
+| 191 | 333 | Gracie |
+| 192 | 332 | Lehrin Maria |
+| 193 | 332 | Happy Basegrid |
 | 194 | 328 | Snappy Matcher |
 | 195 | 325 | Jen Nystrom |
 | 196 | 325 | GringaLinga |
@@ -248,8 +248,8 @@
 | 240 | 275 | Cheeky Pop |
 | 241 | 275 | Chris65 |
 | 242 | 273 | Shannon Marie Pitts |
-| 243 | 272 | Barrbaric |
-| 244 | 272 | Tawnya Peltonen |
+| 243 | 272 | Tawnya Peltonen |
+| 244 | 272 | Barrbaric |
 | 245 | 271 | Frothy Pattern |
 | 246 | 270 | Brenda Alexander |
 | 247 | 270 | Debbie Kane |

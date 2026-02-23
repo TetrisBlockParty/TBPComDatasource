@@ -113,15 +113,15 @@
 | 105 | 869 | Araceli Parra |
 | 106 | 868 | Sarajane Lokan |
 | 107 | 860 | Sunny Rotater |
-| 108 | 851 | Danielle Becker |
-| 109 | 851 | Jd Morris |
+| 108 | 851 | Jd Morris |
+| 109 | 851 | Danielle Becker |
 | 110 | 850 | Danielle Mogg |
 | 111 | 848 | Patricia Gadsden |
 | 112 | 831 | Angeline Joseph |
 | 113 | 830 | Stephanie Allmon |
 | 114 | 826 | Shane Wilson Jr. |
-| 115 | 816 | Jesse Olive |
-| 116 | 816 | Brenda Lee Vander Molen |
+| 115 | 816 | Brenda Lee Vander Molen |
+| 116 | 816 | Jesse Olive |
 | 117 | 802 | Bobbi Moore |
 | 118 | 800 | Lauren Girouard |
 | 119 | 799 | Dolores Falco |
@@ -281,12 +281,12 @@
 | 273 | 362 | Brandon Givens |
 | 274 | 360 | Cesar Barraza |
 | 275 | 359 | Sleepy |
-| 276 | 354 | Eileen Brady Thurber |
-| 277 | 354 | Roary Danner |
-| 278 | 354 | Andrew Thorson |
+| 276 | 354 | Roary Danner |
+| 277 | 354 | Andrew Thorson |
+| 278 | 354 | Eileen Brady Thurber |
 | 279 | 354 | Kelly |
-| 280 | 353 | Cyd061769 |
-| 281 | 353 | Dee Franklin |
+| 280 | 353 | Dee Franklin |
+| 281 | 353 | Cyd061769 |
 | 282 | 352 | Christian Werndl |
 | 283 | 351 | Eon Harris |
 | 284 | 351 | Blocked |
@@ -465,8 +465,8 @@
 | 457 | 232 | Sunny Tiltgrid |
 | 458 | 231 | Frothy Snapper |
 | 459 | 231 | Giggly Brickroll |
-| 460 | 230 | BigE |
-| 461 | 230 | DanceLuvLaugh |
+| 460 | 230 | DanceLuvLaugh |
+| 461 | 230 | BigE |
 | 462 | 229 | MizzMonick Smith |
 | 463 | 229 | Everret Maxine |
 | 464 | 228 | Dapper Liney |
@@ -533,8 +533,8 @@
 | 525 | 201 | Denise Marie |
 | 526 | 200 | Sarah Whalen |
 | 527 | 200 | Michell Hendershott Jackson |
-| 528 | 200 | glichmod |
-| 529 | 200 | Christina Marie Swisher |
+| 528 | 200 | Christina Marie Swisher |
+| 529 | 200 | glichmod |
 | 530 | 199 | PrncssPJ |
 | 531 | 199 | Cheeky Setter |
 | 532 | 199 | Christine Foley |
@@ -956,7 +956,7 @@
 | 948 | 114 | Loony Slider |
 | 949 | 114 | monied |
 | 950 | 114 | Brandon Montez Sneed |
-| 951 | 114 | monied |
+| 951 | 114 | Moniecia Harrison |
 | 952 | 113 | Toni Savoie |
 | 953 | 113 | Sue Markel |
 | 954 | 113 | Erin Marie Smith |

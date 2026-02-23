@@ -215,8 +215,8 @@
 | 207 | 1286 | Altamirano Michael |
 | 208 | 1282 | Tanya Parsons |
 | 209 | 1259 | Foxxo |
-| 210 | 1258 | Joyce Johnson Vaughn |
-| 211 | 1258 | Snappy Matchbuilder |
+| 210 | 1258 | Snappy Matchbuilder |
+| 211 | 1258 | Joyce Johnson Vaughn |
 | 212 | 1252 | Angel |
 | 213 | 1245 | Cody Nishimura |
 | 214 | 1240 | Brandon Armstrong |
@@ -286,8 +286,8 @@
 | 278 | 1044 | Jennifer Aiken |
 | 279 | 1043 | nikki |
 | 280 | 1043 | Brave Dropmatch |
-| 281 | 1036 | Amber Shoemaker |
-| 282 | 1036 | Allison Lockyer |
+| 281 | 1036 | Allison Lockyer |
+| 282 | 1036 | Amber Shoemaker |
 | 283 | 1026 | Kristin Gower |
 | 284 | 1024 | Susan Perraut Jones |
 | 285 | 1024 | Taylor Phillips |
@@ -313,8 +313,8 @@
 | 305 | 972 | Binyah-Binyah |
 | 306 | 972 | Barbra Miller |
 | 307 | 971 | Jojo Momma |
-| 308 | 969 | Boldy Cascadepiece |
-| 309 | 969 | Em Chen |
+| 308 | 969 | Em Chen |
+| 309 | 969 | Boldy Cascadepiece |
 | 310 | 961 | Angela Lynn |
 | 311 | 958 | Doowop40 |
 | 312 | 958 | Brenda Messer |
@@ -774,8 +774,8 @@
 | 766 | 464 | Lively Edgepiece |
 | 767 | 464 | Saucy Fitzone |
 | 768 | 463 | Jaye EL Hunter |
-| 769 | 462 | Samantha Scibelli |
-| 770 | 462 | Kia Humphery |
+| 769 | 462 | Kia Humphery |
+| 770 | 462 | Samantha Scibelli |
 | 771 | 462 | Danielle Ayoub |
 | 772 | 461 | Alexis Richardson |
 | 773 | 461 | Amanda Segura |
