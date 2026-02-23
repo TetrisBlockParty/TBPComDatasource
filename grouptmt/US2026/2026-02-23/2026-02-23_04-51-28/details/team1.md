@@ -353,11 +353,11 @@
 | 345 | 193 | Lachelle Dillon |
 | 346 | 192 | Tipsy Tiltpiece |
 | 347 | 192 | Νεφ Όνυξ |
-| 348 | 191 | John Garza |
-| 349 | 191 | Slinky Rotater |
-| 350 | 191 | Garcia Bailey |
-| 351 | 190 | Sweetts |
-| 352 | 190 | Pauline Cortez |
+| 348 | 191 | Slinky Rotater |
+| 349 | 191 | Garcia Bailey |
+| 350 | 191 | John Garza |
+| 351 | 190 | Pauline Cortez |
+| 352 | 190 | Sweetts |
 | 353 | 189 | Tawnya Peltonen |
 | 354 | 188 | Brian Taylor |
 | 355 | 187 | Bob |
@@ -376,8 +376,8 @@
 | 368 | 181 | David DeSantis |
 | 369 | 181 | Jasmine Riley |
 | 370 | 180 | Discovery Point |
-| 371 | 179 | Ward Leandrea |
-| 372 | 179 | Ryan White |
+| 371 | 179 | Ryan White |
+| 372 | 179 | Ward Leandrea |
 | 373 | 178 | Vivienne Carter |
 | 374 | 178 | Gabrielle Louise Malloch |
 | 375 | 178 | san |

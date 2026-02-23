@@ -619,7 +619,7 @@
 | 611 | 168 | Glenn Loving |
 | 612 | 168 | PrncssPJ |
 | 613 | 168 | Eboni Starr |
-| 614 | 167 | Funky Brickster |
+| 614 | 167 | Jm |
 | 615 | 167 | Groovy Blockclear |
 | 616 | 167 | Funky Brickster |
 | 617 | 167 | Frisky Stacker |
@@ -636,8 +636,8 @@
 | 628 | 165 | Erica Anderson |
 | 629 | 164 | Jolly Brick |
 | 630 | 164 | Mindy Phelps |
-| 631 | 164 | Tenisha Semidey |
-| 632 | 164 | Lesa Bartlett |
+| 631 | 164 | Lesa Bartlett |
+| 632 | 164 | Tenisha Semidey |
 | 633 | 163 | Crystal Johnson |
 | 634 | 163 | Chummy Rumbler |
 | 635 | 163 | Julian Murphy |

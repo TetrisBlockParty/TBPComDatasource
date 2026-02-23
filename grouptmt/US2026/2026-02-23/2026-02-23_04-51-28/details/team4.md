@@ -79,8 +79,8 @@
 | 71 | 749 | Dustee Craddock-Harrison |
 | 72 | 742 | Carolyn Wallace |
 | 73 | 740 | Avy Absol |
-| 74 | 736 | Goatimus Lombardi |
-| 75 | 736 | Crystal Carroll |
+| 74 | 736 | Crystal Carroll |
+| 75 | 736 | Goatimus Lombardi |
 | 76 | 721 | TheNeesh50 |
 | 77 | 717 | D3TROITB0RN74 |
 | 78 | 706 | Lisa Davis |
@@ -161,10 +161,10 @@
 | 153 | 387 | Lucas J Sutton |
 | 154 | 386 | Tyler Terrific |
 | 155 | 377 | Carrie Brian |
-| 156 | 375 | Desi Desporte |
-| 157 | 375 | ThaEviLJeNiuZ |
-| 158 | 374 | Leslie Nicole |
-| 159 | 374 | Guy Incognito |
+| 156 | 375 | ThaEviLJeNiuZ |
+| 157 | 375 | Desi Desporte |
+| 158 | 374 | Guy Incognito |
+| 159 | 374 | Leslie Nicole |
 | 160 | 370 | Oscar Alberto Perez |
 | 161 | 369 | Lindsey Gonzalez |
 | 162 | 368 | Chris Bernstein |
@@ -182,8 +182,8 @@
 | 174 | 349 | Twisty Cascadezone |
 | 175 | 349 | Rafael Valentin |
 | 176 | 348 | April Rondinone |
-| 177 | 347 | Crystal Nicolette Moore |
-| 178 | 347 | Daria Rycewicz |
+| 177 | 347 | Daria Rycewicz |
+| 178 | 347 | Crystal Nicolette Moore |
 | 179 | 339 | David Lay |
 | 180 | 334 | Kris Bartlett |
 | 181 | 333 | shark tato |
@@ -234,15 +234,15 @@
 | 226 | 276 | Joeliecea Cobb |
 | 227 | 273 | Casey Grabner |
 | 228 | 272 | Alan George LaRage |
-| 229 | 272 | Carlos Ramirez |
-| 230 | 272 | Dennis Bradley |
+| 229 | 272 | Dennis Bradley |
+| 230 | 272 | Carlos Ramirez |
 | 231 | 271 | Holly |
 | 232 | 270 | Jen Caldwell |
 | 233 | 270 | Juls |
 | 234 | 267 | JPW |
 | 235 | 266 | Mr. Party |
-| 236 | 265 | Sarah Neathery |
-| 237 | 265 | Silly SeaWeed |
+| 236 | 265 | Silly SeaWeed |
+| 237 | 265 | Sarah Neathery |
 | 238 | 264 | Stella |
 | 239 | 262 | BigSammy420 |
 | 240 | 262 | Selena Shaw |
@@ -251,8 +251,8 @@
 | 243 | 259 | Allen Lloyd |
 | 244 | 259 | Montiette Mcglown |
 | 245 | 257 | PeaceOs |
-| 246 | 256 | Metsfan |
-| 247 | 256 | Mylo Lipscomb |
+| 246 | 256 | Mylo Lipscomb |
+| 247 | 256 | Metsfan |
 | 248 | 255 | Zethra Prenisha Rahming |
 | 249 | 253 | Autum Leigh |
 | 250 | 252 | John Brunetti |

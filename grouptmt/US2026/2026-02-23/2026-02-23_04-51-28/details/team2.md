@@ -393,8 +393,8 @@
 | 385 | 784 | Kathryn Townsley |
 | 386 | 781 | Tiara Elizabeth Baker |
 | 387 | 779 | Kayla |
-| 388 | 777 | Tesha Oldaker |
-| 389 | 777 | Jessicah Myers |
+| 388 | 777 | Jessicah Myers |
+| 389 | 777 | Tesha Oldaker |
 | 390 | 772 | Danielle Simmons |
 | 391 | 769 | Melissa Cole |
 | 392 | 769 | Kimberly Hope Howell |
@@ -534,8 +534,8 @@
 | 526 | 612 | Briana Alexander |
 | 527 | 612 | Slinky Racker |
 | 528 | 610 | Michael Buckner |
-| 529 | 609 | Autumn Schaeffer |
-| 530 | 609 | Cecilia A Jenkins |
+| 529 | 609 | Cecilia A Jenkins |
+| 530 | 609 | Autumn Schaeffer |
 | 531 | 607 | Mo Shine On |
 | 532 | 606 | Lea Stewart |
 | 533 | 603 | Casper The Chonk |
