@@ -128,8 +128,8 @@
 | 120 | 514 | Scott Jameson |
 | 121 | 514 | Serena Goodridge |
 | 122 | 513 | Erin Thomas |
-| 123 | 512 | Cristy Duerksen |
-| 124 | 512 | Casey Jeffcoat |
+| 123 | 512 | Casey Jeffcoat |
+| 124 | 512 | Cristy Duerksen |
 | 125 | 509 | Leslie Nicole |
 | 126 | 483 | Angela Srubar-Norman |
 | 127 | 481 | Jessica Lynn Cutlip |
@@ -157,8 +157,8 @@
 | 149 | 418 | Lush Linkfall |
 | 150 | 417 | Steph Marie |
 | 151 | 416 | Chaz Duncan |
-| 152 | 414 | Nope Young |
-| 153 | 414 | Swanky Fitline |
+| 152 | 414 | Swanky Fitline |
+| 153 | 414 | Nope Young |
 | 154 | 413 | Circuit8 |
 | 155 | 412 | Jessica Bohlken |
 | 156 | 408 | Amanda Pauldo-Ivy |
@@ -184,8 +184,8 @@
 | 176 | 368 | Brandon Crabbs |
 | 177 | 368 | Raegan Lane-Ross |
 | 178 | 365 | Jeff Brian Gates |
-| 179 | 361 | Melissa Adams |
-| 180 | 361 | Danielle Kollias |
+| 179 | 361 | Danielle Kollias |
+| 180 | 361 | Melissa Adams |
 | 181 | 361 | Carlos Ramirez |
 | 182 | 358 | Twisty Cascadezone |
 | 183 | 358 | A5! |
@@ -204,12 +204,12 @@
 | 196 | 336 | Bio Nelly |
 | 197 | 334 | Kris Bartlett |
 | 198 | 332 | HastyGrabber |
-| 199 | 330 | blockstar |
-| 200 | 330 | Kathy Brookins |
+| 199 | 330 | Kathy Brookins |
+| 200 | 330 | blockstar |
 | 201 | 328 | scott |
 | 202 | 327 | J-Rizzle |
-| 203 | 324 | jim |
-| 204 | 324 | TinyLegoRose |
+| 203 | 324 | TinyLegoRose |
+| 204 | 324 | jim |
 | 205 | 321 | Meagan Nicole |
 | 206 | 320 | Lauren Scott |
 | 207 | 319 | Googenheim |
@@ -217,8 +217,8 @@
 | 209 | 317 | Madison Sweere |
 | 210 | 316 | Autumn Kumzi |
 | 211 | 313 | Milan Markeisha |
-| 212 | 312 | Dihcheese444 |
-| 213 | 312 | Casey Grabner |
+| 212 | 312 | Casey Grabner |
+| 213 | 312 | Dihcheese444 |
 | 214 | 311 | Mary Ann Pabukis |
 | 215 | 310 | Holly Jolly |
 | 216 | 307 | Cheery Risebuilder |
@@ -259,11 +259,11 @@
 | 251 | 271 | Holly |
 | 252 | 270 | Jen Caldwell |
 | 253 | 266 | Tracey Lehmann |
-| 254 | 266 | Nubian1 |
-| 255 | 266 | Mr. Party |
+| 254 | 266 | Mr. Party |
+| 255 | 266 | Nubian1 |
 | 256 | 265 | Silly SeaWeed |
-| 257 | 265 | Degenerate |
-| 258 | 265 | Sarah Neathery |
+| 257 | 265 | Sarah Neathery |
+| 258 | 265 | Degenerate |
 | 259 | 264 | ZeeZee |
 | 260 | 264 | Stella |
 | 261 | 263 | rebel4lyfe |
@@ -337,9 +337,9 @@
 | 329 | 214 | Stacey Stano |
 | 330 | 214 | Patron Anderson |
 | 331 | 213 | Jackie Marie |
-| 332 | 212 | Brave Spinbuilder |
-| 333 | 212 | Mike Solo |
-| 334 | 212 | Zany Shatterer |
+| 332 | 212 | Zany Shatterer |
+| 333 | 212 | Brave Spinbuilder |
+| 334 | 212 | Mike Solo |
 | 335 | 211 | Chris Alexinas |
 | 336 | 210 | Gdiguy |
 | 337 | 210 | Ari Droff |

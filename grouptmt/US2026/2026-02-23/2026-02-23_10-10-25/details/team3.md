@@ -114,8 +114,8 @@
 | 106 | 869 | Araceli Parra |
 | 107 | 868 | Sarajane Lokan |
 | 108 | 860 | Sunny Rotater |
-| 109 | 851 | Danielle Becker |
-| 110 | 851 | Jd Morris |
+| 109 | 851 | Jd Morris |
+| 110 | 851 | Danielle Becker |
 | 111 | 850 | Danielle Mogg |
 | 112 | 848 | Patricia Gadsden |
 | 113 | 839 | Angeline Joseph |
@@ -129,16 +129,16 @@
 | 121 | 779 | Justin Ritter |
 | 122 | 773 | Daira Largen |
 | 123 | 769 | Kristie |
-| 124 | 764 | Groovy Catcher |
-| 125 | 764 | Hasty Cascadefit |
+| 124 | 764 | Hasty Cascadefit |
+| 125 | 764 | Groovy Catcher |
 | 126 | 762 | Speedy Bridger |
 | 127 | 755 | Raya |
 | 128 | 755 | Katrina Schroeder |
 | 129 | 752 | Logan Naccarato |
 | 130 | 748 | Adrian Marcel Pate |
 | 131 | 745 | JerseyJess |
-| 132 | 744 | Fancy Cascader |
-| 133 | 744 | Leah Barnett |
+| 132 | 744 | Leah Barnett |
+| 133 | 744 | Fancy Cascader |
 | 134 | 736 | mzcatzy |
 | 135 | 734 | Calista Jo Dickson |
 | 136 | 728 | Peppy Shifter |
@@ -177,8 +177,8 @@
 | 169 | 595 | Nicole Myers |
 | 170 | 591 | Michael Nowogorski |
 | 171 | 587 | Louise Stacy Sisson |
-| 172 | 585 | Annie Marie |
-| 173 | 585 | Happy Tetriblast |
+| 172 | 585 | Happy Tetriblast |
+| 173 | 585 | Annie Marie |
 | 174 | 583 | Tasha Gillespie |
 | 175 | 582 | Natasha Jones |
 | 176 | 577 | Domo Washington |
@@ -186,8 +186,8 @@
 | 178 | 572 | CeceGeGe |
 | 179 | 568 | Rachael McClain Owens |
 | 180 | 566 | LaTanya GeminiondaRise Johnson |
-| 181 | 564 | Poppy Splitter |
-| 182 | 564 | Christine Trester |
+| 181 | 564 | Christine Trester |
+| 182 | 564 | Poppy Splitter |
 | 183 | 563 | Jim Mathews |
 | 184 | 562 | Dave Herzog |
 | 185 | 559 | Patti Skiles |
@@ -218,8 +218,8 @@
 | 210 | 485 | Dapper Snap |
 | 211 | 484 | Fallorina Susana |
 | 212 | 481 | Connie Mohler-Fair |
-| 213 | 480 | Danielle Allison |
-| 214 | 480 | Michael Johnson |
+| 213 | 480 | Michael Johnson |
+| 214 | 480 | Danielle Allison |
 | 215 | 477 | Edwin Calvillo Jr. |
 | 216 | 475 | Tessina Dewey-Mancino |
 | 217 | 471 | Mendoza Lee Christy |
@@ -285,8 +285,8 @@
 | 277 | 369 | Philip Rock |
 | 278 | 369 | Keis |
 | 279 | 369 | Amber Glover |
-| 280 | 368 | Stephanie Woods |
-| 281 | 368 | Sheila M Frazier |
+| 280 | 368 | Sheila M Frazier |
+| 281 | 368 | Stephanie Woods |
 | 282 | 366 | Gumbo |
 | 283 | 362 | Brandon Givens |
 | 284 | 360 | Cesar Barraza |
@@ -333,15 +333,15 @@
 | 325 | 319 | Michael Leblanc |
 | 326 | 316 | Twisty Brick LT |
 | 327 | 314 | Geoffrey Nash |
-| 328 | 313 | Hoppy Buildout |
-| 329 | 313 | Kaycee Kay |
+| 328 | 313 | Kaycee Kay |
+| 329 | 313 | Hoppy Buildout |
 | 330 | 312 | Eric Caccavale |
 | 331 | 312 | LadyTorad |
 | 332 | 311 | Troy |
 | 333 | 309 | Desiree Gold |
 | 334 | 309 | Cheeky Snapper |
-| 335 | 308 | Katrina Turner |
-| 336 | 308 | Tia |
+| 335 | 308 | Tia |
+| 336 | 308 | Katrina Turner |
 | 337 | 305 | Hyper Matchzone |
 | 338 | 304 | _melisa223_ |
 | 339 | 303 | Alexmac |
@@ -391,8 +391,8 @@
 | 383 | 275 | Michael Lucado |
 | 384 | 275 | Cassandra Bryant |
 | 385 | 274 | Mary Giorgenti |
-| 386 | 273 | Brenda Schmid Wood |
-| 387 | 273 | Quackers |
+| 386 | 273 | Quackers |
+| 387 | 273 | Brenda Schmid Wood |
 | 388 | 273 | Kevin Fountain |
 | 389 | 272 | Romeo |
 | 390 | 272 | Todd Hall |
