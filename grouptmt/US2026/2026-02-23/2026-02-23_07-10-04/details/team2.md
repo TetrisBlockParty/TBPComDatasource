@@ -563,8 +563,8 @@
 | 555 | 604 | Rae Rae |
 | 556 | 603 | Casper The Chonk |
 | 557 | 602 | Stephanie Sul |
-| 558 | 601 | Moua Ying |
-| 559 | 601 | Daniel Amos |
+| 558 | 601 | Daniel Amos |
+| 559 | 601 | Moua Ying |
 | 560 | 599 | Marella Petilo |
 | 561 | 598 | Leah Keesling |
 | 562 | 597 | Jamie Schmitt |

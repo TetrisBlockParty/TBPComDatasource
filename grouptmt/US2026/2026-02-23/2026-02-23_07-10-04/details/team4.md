@@ -26,8 +26,8 @@
 | 18 | 1636 | Cassie Michaux |
 | 19 | 1565 | GreenJeepGirl |
 | 20 | 1558 | Leah Gorsuch |
-| 21 | 1536 | Misty Hollibaugh |
-| 22 | 1536 | Roger Coulter |
+| 21 | 1536 | Roger Coulter |
+| 22 | 1536 | Misty Hollibaugh |
 | 23 | 1485 | Juggalo |
 | 24 | 1390 | Sammy Noguera |
 | 25 | 1382 | Tammi Crnza |
@@ -55,8 +55,8 @@
 | 47 | 938 | Denny Shives |
 | 48 | 936 | Rebecca Moulton Pinciaro |
 | 49 | 932 | Marvin Lou Martin |
-| 50 | 911 | Anthony Bryan Riva |
-| 51 | 911 | Jeremy Steines |
+| 50 | 911 | Jeremy Steines |
+| 51 | 911 | Anthony Bryan Riva |
 | 52 | 870 | BertMofo |
 | 53 | 863 | Pee |
 | 54 | 854 | Shelly Chandler |
@@ -120,13 +120,13 @@
 | 112 | 528 | Rodney McMath Jr. |
 | 113 | 527 | Dizzy Tiley |
 | 114 | 519 | Nugget |
-| 115 | 517 | Christina LR |
-| 116 | 517 | shar |
-| 117 | 514 | Scott Jameson |
-| 118 | 514 | Serena Goodridge |
+| 115 | 517 | shar |
+| 116 | 517 | Christina LR |
+| 117 | 514 | Serena Goodridge |
+| 118 | 514 | Scott Jameson |
 | 119 | 513 | Erin Thomas |
-| 120 | 512 | Casey Jeffcoat |
-| 121 | 512 | Cristy Duerksen |
+| 120 | 512 | Cristy Duerksen |
+| 121 | 512 | Casey Jeffcoat |
 | 122 | 511 | Lori Walker |
 | 123 | 509 | Leslie Nicole |
 | 124 | 482 | Ren Mc |
@@ -153,15 +153,15 @@
 | 145 | 418 | Lush Linkfall |
 | 146 | 418 | Marie-Pier Desjardins |
 | 147 | 416 | Chaz Duncan |
-| 148 | 414 | Swanky Fitline |
-| 149 | 414 | Nope Young |
+| 148 | 414 | Nope Young |
+| 149 | 414 | Swanky Fitline |
 | 150 | 412 | Jessica Bohlken |
 | 151 | 408 | Amanda Pauldo-Ivy |
 | 152 | 406 | Damn Libra |
 | 153 | 406 | Livvy |
 | 154 | 398 | Tyler Terrific |
-| 155 | 393 | Girl |
-| 156 | 393 | Carlton Unfiltered |
+| 155 | 393 | Carlton Unfiltered |
+| 156 | 393 | Girl |
 | 157 | 391 | Ramel Rhodes |
 | 158 | 389 | Joseph Guthrie |
 | 159 | 387 | Lucas J Sutton |
@@ -176,8 +176,8 @@
 | 168 | 368 | Chris Bernstein |
 | 169 | 368 | Silly Zonebuilder |
 | 170 | 365 | Jeff Brian Gates |
-| 171 | 361 | Melissa Adams |
-| 172 | 361 | Danielle Kollias |
+| 171 | 361 | Danielle Kollias |
+| 172 | 361 | Melissa Adams |
 | 173 | 359 | Keith Kelley |
 | 174 | 358 | Twisty Cascadezone |
 | 175 | 358 | Circuit8 |
@@ -259,8 +259,8 @@
 | 251 | 264 | ZeeZee |
 | 252 | 264 | Stella |
 | 253 | 263 | rebel4lyfe |
-| 254 | 262 | Selena Shaw |
-| 255 | 262 | BigSammy420 |
+| 254 | 262 | BigSammy420 |
+| 255 | 262 | Selena Shaw |
 | 256 | 261 | Zethra Prenisha Rahming |
 | 257 | 260 | Carter Jones |
 | 258 | 260 | Carly Alexis |
@@ -303,9 +303,9 @@
 | 295 | 225 | Jenna McGeorge |
 | 296 | 225 | Ernest Maxwell |
 | 297 | 224 | Ultramarine |
-| 298 | 223 | Chance Strickland |
-| 299 | 223 | Adawna Swires |
-| 300 | 223 | Amanda Christine |
+| 298 | 223 | Amanda Christine |
+| 299 | 223 | Chance Strickland |
+| 300 | 223 | Adawna Swires |
 | 301 | 222 | Brandi Durig |
 | 302 | 221 | Joseph Edmonson |
 | 303 | 221 | Rheanda Weaskus |
@@ -615,8 +615,8 @@
 | 607 | 113 | Lilya Troutman |
 | 608 | 113 | Serena Butter |
 | 609 | 112 | Brad Campbell |
-| 610 | 112 | RogueRebel |
-| 611 | 112 | Jazzy Slamdrop |
+| 610 | 112 | Jazzy Slamdrop |
+| 611 | 112 | RogueRebel |
 | 612 | 112 | Ninaforever |
 | 613 | 111 | Tammy Lewis |
 | 614 | 111 | Michelle Parker |
