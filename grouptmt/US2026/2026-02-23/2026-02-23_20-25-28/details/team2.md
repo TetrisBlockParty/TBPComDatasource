@@ -293,8 +293,8 @@
 | 285 | 1221 | Jane Fong |
 | 286 | 1221 | Diallo Sparkman |
 | 287 | 1217 | Brooks Brooks |
-| 288 | 1216 | Catina Hutchison |
-| 289 | 1216 | Pacynthia Williams |
+| 288 | 1216 | Pacynthia Williams |
+| 289 | 1216 | Catina Hutchison |
 | 290 | 1214 | David Cudicio-Hayden |
 | 291 | 1211 | Ricardo Burton |
 | 292 | 1191 | Jess Morrison |
@@ -383,8 +383,8 @@
 | 375 | 982 | Crystie Hicks |
 | 376 | 978 | Barry Britt |
 | 377 | 976 | Sam Joe |
-| 378 | 975 | Mandi Douglas Hilt |
-| 379 | 975 | Hyper Cluster |
+| 378 | 975 | Hyper Cluster |
+| 379 | 975 | Mandi Douglas Hilt |
 | 380 | 974 | Boldy Cascadepiece |
 | 381 | 971 | Jojo Momma |
 | 382 | 971 | Tiara Elizabeth Baker |

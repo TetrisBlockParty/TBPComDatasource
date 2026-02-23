@@ -59,8 +59,8 @@
 | 51 | 1147 | Jae Job |
 | 52 | 1099 | Ashley Ingram |
 | 53 | 1085 | Kimyatta Cavin |
-| 54 | 1082 | Avy Absol |
-| 55 | 1082 | Dion Crommarty |
+| 54 | 1082 | Dion Crommarty |
+| 55 | 1082 | Avy Absol |
 | 56 | 1082 | Dawn Alexander |
 | 57 | 1049 | Heather Tushner |
 | 58 | 1046 | Johnathan Martinez |
@@ -174,8 +174,8 @@
 | 166 | 491 | Carrie Brian |
 | 167 | 486 | Swanky Fitline |
 | 168 | 485 | Rico |
-| 169 | 480 | Adam Stephanie Parker |
-| 170 | 480 | Brandon Crabbs |
+| 169 | 480 | Brandon Crabbs |
+| 170 | 480 | Adam Stephanie Parker |
 | 171 | 479 | Christina Black |
 | 172 | 477 | Casey Grabner |
 | 173 | 476 | Matt Summer |
@@ -233,8 +233,8 @@
 | 225 | 383 | Brickh4us |
 | 226 | 383 | blockstar |
 | 227 | 381 | Plucky Patternblock |
-| 228 | 380 | Zesty Twistbuilder |
-| 229 | 380 | Rio Rocha |
+| 228 | 380 | Rio Rocha |
+| 229 | 380 | Zesty Twistbuilder |
 | 230 | 379 | Backoff Recupe |
 | 231 | 378 | Lauren Scott |
 | 232 | 376 | shark tato |

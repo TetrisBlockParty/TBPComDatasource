@@ -94,8 +94,8 @@
 | 86 | 1244 | Lori Barnaby |
 | 87 | 1240 | Betty Ivy |
 | 88 | 1220 | Danielle Mogg |
-| 89 | 1213 | Nerdy Riseclear |
-| 90 | 1213 | Snappy Glidepiece |
+| 89 | 1213 | Snappy Glidepiece |
+| 90 | 1213 | Nerdy Riseclear |
 | 91 | 1212 | Amanda Adkins |
 | 92 | 1186 | Christian A. Pollard |
 | 93 | 1179 | Angeline Joseph |
@@ -144,8 +144,8 @@
 | 136 | 864 | Sunny Rotater |
 | 137 | 851 | Loopy Fallmatch |
 | 138 | 837 | mzcatzy |
-| 139 | 834 | Kristin Delibac Corrigan |
-| 140 | 834 | opf |
+| 139 | 834 | opf |
+| 140 | 834 | Kristin Delibac Corrigan |
 | 141 | 833 | Crystal Frey |
 | 142 | 820 | Brenda Lee Vander Molen |
 | 143 | 815 | Dolores Falco |
@@ -159,8 +159,8 @@
 | 151 | 779 | Justin Ritter |
 | 152 | 773 | Daryn Elliott |
 | 153 | 773 | Daira Largen |
-| 154 | 764 | Groovy Catcher |
-| 155 | 764 | Hasty Cascadefit |
+| 154 | 764 | Hasty Cascadefit |
+| 155 | 764 | Groovy Catcher |
 | 156 | 762 | Santeria Trece Candles |
 | 157 | 761 | Denita Mungro |
 | 158 | 761 | Peppy Shifter |
