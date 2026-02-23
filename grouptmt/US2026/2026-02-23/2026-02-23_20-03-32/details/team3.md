@@ -144,8 +144,8 @@
 | 136 | 864 | Sunny Rotater |
 | 137 | 841 | Loopy Fallmatch |
 | 138 | 837 | mzcatzy |
-| 139 | 834 | Kristin Delibac Corrigan |
-| 140 | 834 | opf |
+| 139 | 834 | opf |
+| 140 | 834 | Kristin Delibac Corrigan |
 | 141 | 833 | Crystal Frey |
 | 142 | 820 | Brenda Lee Vander Molen |
 | 143 | 815 | Dolores Falco |

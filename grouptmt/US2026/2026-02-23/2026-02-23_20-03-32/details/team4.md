@@ -159,8 +159,8 @@
 | 151 | 514 | Lucas J Sutton |
 | 152 | 514 | Scott Jameson |
 | 153 | 513 | Erin Thomas |
-| 154 | 512 | Angela Srubar-Norman |
-| 155 | 512 | ThaEviLJeNiuZ |
+| 154 | 512 | ThaEviLJeNiuZ |
+| 155 | 512 | Angela Srubar-Norman |
 | 156 | 512 | Casey Jeffcoat |
 | 157 | 508 | Twisty Clicky |
 | 158 | 502 | Ellen Durfee |
@@ -371,8 +371,8 @@
 | 363 | 253 | Autum Leigh |
 | 364 | 253 | Chair |
 | 365 | 252 | Maureen Flanigan |
-| 366 | 252 | Dan Wold |
-| 367 | 252 | Gracie Ann Taylor |
+| 366 | 252 | Gracie Ann Taylor |
+| 367 | 252 | Dan Wold |
 | 368 | 251 | Kathy Allen |
 | 369 | 251 | Carol Ricks Raymond |
 | 370 | 250 | Stephme310 |
@@ -522,9 +522,9 @@
 | 514 | 180 | Nig |
 | 515 | 180 | Ron |
 | 516 | 179 | Elle Joe |
-| 517 | 179 | JoAnna Zalkovsky |
-| 518 | 179 | Joseph Gray |
-| 519 | 179 | Vamp |
+| 517 | 179 | Vamp |
+| 518 | 179 | JoAnna Zalkovsky |
+| 519 | 179 | Joseph Gray |
 | 520 | 178 | Nerdy Linebuilder |
 | 521 | 178 | Brandon Link |
 | 522 | 178 | Laurel Coppess |

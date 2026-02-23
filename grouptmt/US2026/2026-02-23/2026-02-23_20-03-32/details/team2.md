@@ -170,8 +170,8 @@
 | 162 | 1769 | Chirpy Staggerpiece |
 | 163 | 1767 | niecy |
 | 164 | 1759 | Nerdy Pattern |
-| 165 | 1751 | Woodys Glass |
-| 166 | 1751 | Bob |
+| 165 | 1751 | Bob |
+| 166 | 1751 | Woodys Glass |
 | 167 | 1740 | blarg |
 | 168 | 1730 | Angel |
 | 169 | 1729 | Eboni Banks |
