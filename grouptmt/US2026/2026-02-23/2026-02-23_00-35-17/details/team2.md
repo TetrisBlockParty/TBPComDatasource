@@ -40,8 +40,8 @@
 | 32 | 4174 | Vistabrat |
 | 33 | 4130 | Robert Diddle |
 | 34 | 4128 | Angela Pruitt |
-| 35 | 4120 | Kristen Sceurman |
-| 36 | 4120 | Corrine Hawks Soriano |
+| 35 | 4120 | Corrine Hawks Soriano |
+| 36 | 4120 | Kristen Sceurman |
 | 37 | 3895 | Nickie Baby |
 | 38 | 3793 | Jill Stroehlein |
 | 39 | 3759 | Brittany Alicia |
@@ -189,12 +189,12 @@
 | 181 | 1294 | Ashley House |
 | 182 | 1292 | Mischelle Clay |
 | 183 | 1286 | Altamirano Michael |
-| 184 | 1282 | Tanya Parsons |
-| 185 | 1282 | Ashley Rose Frederick |
+| 184 | 1282 | Ashley Rose Frederick |
+| 185 | 1282 | Tanya Parsons |
 | 186 | 1257 | Michele Gabriel |
 | 187 | 1243 | Anna Edwards |
-| 188 | 1232 | Ambyre Patterson |
-| 189 | 1232 | Groovy Puzzle |
+| 188 | 1232 | Groovy Puzzle |
+| 189 | 1232 | Ambyre Patterson |
 | 190 | 1230 | Megan Garrick |
 | 191 | 1224 | Liberty |
 | 192 | 1211 | Lucky Ladybug |
@@ -338,14 +338,14 @@
 | 330 | 812 | Jackie Lucas |
 | 331 | 812 | Samantha Jo |
 | 332 | 808 | Melissa McCall |
-| 333 | 808 | Laura McCarthey |
-| 334 | 808 | Amber Brion |
-| 335 | 808 | Desire Rice |
+| 333 | 808 | Amber Brion |
+| 334 | 808 | Desire Rice |
+| 335 | 808 | Laura McCarthey |
 | 336 | 807 | Khalil Lowe |
 | 337 | 799 | Joy LaJeunesse |
-| 338 | 793 | Heather Schelkopf |
+| 338 | 793 | Arlene Joy Belicina |
 | 339 | 793 | Lisa Ongtowasruk |
-| 340 | 793 | Arlene Joy Belicina |
+| 340 | 793 | Heather Schelkopf |
 | 341 | 792 | Gold Rose |
 | 342 | 790 | Brenda Pierpoint |
 | 343 | 788 | Erika Densmore |
@@ -753,8 +753,8 @@
 | 745 | 402 | AkaLefty |
 | 746 | 402 | Candy Pitts |
 | 747 | 401 | Swanky Columnbuilder |
-| 748 | 400 | Frisky Riserbuilder |
-| 749 | 400 | Deana |
+| 748 | 400 | Deana |
+| 749 | 400 | Frisky Riserbuilder |
 | 750 | 400 | Tammy Allen |
 | 751 | 399 | Court |
 | 752 | 399 | Heather Johnson |
@@ -762,8 +762,8 @@
 | 754 | 398 | TF Dyer |
 | 755 | 398 | Heather Sawtelle-Mckenzie |
 | 756 | 397 | Dawn Woosley Bowes |
-| 757 | 397 | Cris cris |
-| 758 | 397 | Jessica Conaway |
+| 757 | 397 | Jessica Conaway |
+| 758 | 397 | Cris cris |
 | 759 | 397 | Toni Whipple |
 | 760 | 396 | Bold Brickster |
 | 761 | 396 | Cassie Newton |

@@ -81,8 +81,8 @@
 | 73 | 964 | Jennifer |
 | 74 | 945 | Christian A. Pollard |
 | 75 | 935 | Shonna Roberts |
-| 76 | 926 | Judi Dobson |
-| 77 | 926 | Angela M. Fletcher |
+| 76 | 926 | Angela M. Fletcher |
+| 77 | 926 | Judi Dobson |
 | 78 | 923 | Christine Filson |
 | 79 | 910 | Jay Horn |
 | 80 | 907 | Michelle Becker |
@@ -270,8 +270,8 @@
 | 262 | 339 | Danielle Weikel |
 | 263 | 338 | Gumbo |
 | 264 | 332 | Velma Mull |
-| 265 | 330 | Brittany |
-| 266 | 330 | victory |
+| 265 | 330 | victory |
+| 266 | 330 | Brittany |
 | 267 | 329 | Tye Stovall |
 | 268 | 329 | block chick |
 | 269 | 326 | Kerry Nowickshere |

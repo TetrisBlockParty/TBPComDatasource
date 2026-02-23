@@ -104,8 +104,8 @@
 | 96 | 485 | Cartier |
 | 97 | 480 | cc |
 | 98 | 474 | Tdub |
-| 99 | 472 | Kristen Gideon |
-| 100 | 472 | April Carroll |
+| 99 | 472 | April Carroll |
+| 100 | 472 | Kristen Gideon |
 | 101 | 466 | Hasbro Bros |
 | 102 | 462 | Luciano Moreira |
 | 103 | 454 | Evan Richmond |
@@ -140,8 +140,8 @@
 | 132 | 383 | pjbeta |
 | 133 | 379 | Austin James |
 | 134 | 379 | Kimmie Kimms |
-| 135 | 376 | Brian Richardsson |
-| 136 | 376 | lil mickey |
+| 135 | 376 | lil mickey |
+| 136 | 376 | Brian Richardsson |
 | 137 | 368 | Death |
 | 138 | 367 | Sharon Reynolds |
 | 139 | 364 | Serina Marie |
@@ -187,8 +187,8 @@
 | 179 | 304 | David Lutcher |
 | 180 | 303 | Letson Melissa |
 | 181 | 302 | Mike Ames |
-| 182 | 301 | Damon J. Martin |
-| 183 | 301 | ALFD |
+| 182 | 301 | ALFD |
+| 183 | 301 | Damon J. Martin |
 | 184 | 297 | Jerry Danowski |
 | 185 | 296 | Cody Gates |
 | 186 | 294 | Margo Wagner |
@@ -407,7 +407,7 @@
 | 399 | 159 | Howdi Duty |
 | 400 | 158 | Teddy Alexander |
 | 401 | 157 | MommaKFC |
-| 402 | 156 | Wayne Saunders |
+| 402 | 156 | Ashley Adams |
 | 403 | 156 | Liliana Pena |
 | 404 | 156 | Wayne Saunders |
 | 405 | 155 | Nate Price |

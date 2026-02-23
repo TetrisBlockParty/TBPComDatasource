@@ -130,8 +130,8 @@
 | 122 | 431 | Jolly Dashfit |
 | 123 | 429 | Ren Mc |
 | 124 | 427 | KJ Pool |
-| 125 | 418 | Lush Linkfall |
-| 126 | 418 | Monica Daley |
+| 125 | 418 | Monica Daley |
+| 126 | 418 | Lush Linkfall |
 | 127 | 418 | Marie-Pier Desjardins |
 | 128 | 414 | Nope Young |
 | 129 | 411 | JIGsaw ~(•¿°)~ |
@@ -153,8 +153,8 @@
 | 145 | 374 | Guy Incognito |
 | 146 | 373 | Joseph Guthrie |
 | 147 | 370 | Oscar Alberto Perez |
-| 148 | 368 | Brandon Crabbs |
-| 149 | 368 | Silly Zonebuilder |
+| 148 | 368 | Silly Zonebuilder |
+| 149 | 368 | Brandon Crabbs |
 | 150 | 363 | Livvy |
 | 151 | 358 | ThaEviLJeNiuZ |
 | 152 | 356 | Leslie Nicole |
@@ -166,8 +166,8 @@
 | 158 | 344 | Rafael Valentin |
 | 159 | 342 | Klo |
 | 160 | 339 | David Lay |
-| 161 | 336 | Peachy Fall |
-| 162 | 336 | Melissa Adams |
+| 161 | 336 | Melissa Adams |
+| 162 | 336 | Peachy Fall |
 | 163 | 333 | Twisty Cascadezone |
 | 164 | 332 | HastyGrabber |
 | 165 | 331 | Chaz Duncan |
@@ -207,17 +207,17 @@
 | 199 | 281 | Kim Klutz Olson |
 | 200 | 281 | Laura |
 | 201 | 277 | Zesty Twistbuilder |
-| 202 | 276 | Matt Dell'Olio |
-| 203 | 276 | Joeliecea Cobb |
+| 202 | 276 | Joeliecea Cobb |
+| 203 | 276 | Matt Dell'Olio |
 | 204 | 273 | Casey Grabner |
 | 205 | 272 | Dennis Bradley |
 | 206 | 272 | Alan George LaRage |
 | 207 | 271 | Sarah Brown |
-| 208 | 270 | Jen Caldwell |
-| 209 | 270 | Juls |
+| 208 | 270 | Juls |
+| 209 | 270 | Jen Caldwell |
 | 210 | 269 | Nikki Rae Gordon |
-| 211 | 268 | Porkobello |
-| 212 | 268 | Mimi |
+| 211 | 268 | Mimi |
+| 212 | 268 | Porkobello |
 | 213 | 267 | Holly |
 | 214 | 266 | blockstar |
 | 215 | 265 | Sarah Neathery |
