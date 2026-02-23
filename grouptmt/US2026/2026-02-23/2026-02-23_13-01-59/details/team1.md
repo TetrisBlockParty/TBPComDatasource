@@ -44,8 +44,8 @@
 | 36 | 1126 | Tater |
 | 37 | 1122 | Amanda Summey Schoemer |
 | 38 | 1119 | june october |
-| 39 | 1114 | Jayme Sellers |
-| 40 | 1114 | Marianne Louise West |
+| 39 | 1114 | Marianne Louise West |
+| 40 | 1114 | Jayme Sellers |
 | 41 | 1112 | Chipper Gridlock |
 | 42 | 1100 | Derek MF Blakey |
 | 43 | 1096 | Aaron Garnett |
@@ -79,8 +79,8 @@
 | 71 | 760 | Seante Bullock |
 | 72 | 759 | Jacqueline Williams |
 | 73 | 750 | Cartier |
-| 74 | 713 | Snappy Swiper |
-| 75 | 713 | Robert Benito |
+| 74 | 713 | Robert Benito |
+| 75 | 713 | Snappy Swiper |
 | 76 | 704 | Karin Gillen |
 | 77 | 703 | Angel Fowler |
 | 78 | 689 | Susanna Guerry |
@@ -116,8 +116,8 @@
 | 108 | 510 | Chirpy Smasher |
 | 109 | 509 | Rachael |
 | 110 | 502 | Anaid Sanchez |
-| 111 | 497 | Jennifer ManWarren |
-| 112 | 497 | Arianna O'Brien |
+| 111 | 497 | Arianna O'Brien |
+| 112 | 497 | Jennifer ManWarren |
 | 113 | 493 | MomMom |
 | 114 | 492 | Ash Galvan |
 | 115 | 491 | cc |
@@ -163,8 +163,8 @@
 | 155 | 400 | Chelsea Dahlquist |
 | 156 | 399 | Nery Martinez |
 | 157 | 394 | Lori Bales |
-| 158 | 393 | Kimmie Kimms |
-| 159 | 393 | Lehrin Maria |
+| 158 | 393 | Lehrin Maria |
+| 159 | 393 | Kimmie Kimms |
 | 160 | 391 | Basment Living |
 | 161 | 388 | Fmp |
 | 162 | 387 | Carrie Smith |

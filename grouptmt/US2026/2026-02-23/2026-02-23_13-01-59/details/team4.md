@@ -1101,7 +1101,7 @@
 | 1093 | 55 | Poppy Brickmatch |
 | 1094 | 55 | Christa Marie |
 | 1095 | 55 | No name |
-| 1096 | 54 | Joseph Bodon |
+| 1096 | 54 | Lisha Billups |
 | 1097 | 54 | Timarie Vasquez |
 | 1098 | 54 | Keri Hough |
 | 1099 | 54 | Joseph Bodon |
