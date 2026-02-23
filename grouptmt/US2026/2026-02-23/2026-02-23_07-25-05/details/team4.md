@@ -26,8 +26,8 @@
 | 18 | 1636 | Cassie Michaux |
 | 19 | 1565 | GreenJeepGirl |
 | 20 | 1558 | Leah Gorsuch |
-| 21 | 1536 | Misty Hollibaugh |
-| 22 | 1536 | Roger Coulter |
+| 21 | 1536 | Roger Coulter |
+| 22 | 1536 | Misty Hollibaugh |
 | 23 | 1485 | Juggalo |
 | 24 | 1390 | Sammy Noguera |
 | 25 | 1382 | Tammi Crnza |
@@ -55,8 +55,8 @@
 | 47 | 938 | Denny Shives |
 | 48 | 936 | Rebecca Moulton Pinciaro |
 | 49 | 932 | Marvin Lou Martin |
-| 50 | 911 | Anthony Bryan Riva |
-| 51 | 911 | Jeremy Steines |
+| 50 | 911 | Jeremy Steines |
+| 51 | 911 | Anthony Bryan Riva |
 | 52 | 870 | BertMofo |
 | 53 | 864 | Shelly Chandler |
 | 54 | 863 | Pee |
@@ -74,8 +74,8 @@
 | 66 | 781 | Chilly Line |
 | 67 | 767 | Shannon Ferrari |
 | 68 | 766 | Robin Watters |
-| 69 | 765 | Denise Carlson |
-| 70 | 765 | Robin Getchel |
+| 69 | 765 | Robin Getchel |
+| 70 | 765 | Denise Carlson |
 | 71 | 752 | loulou |
 | 72 | 752 | Shane Kalamata Platoon |
 | 73 | 749 | Dustee Craddock-Harrison |
@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Kimyatta Cavin |
-| 84 | 684 | Jonathan Kimbrough |
+| 83 | 684 | Jonathan Kimbrough |
+| 84 | 684 | Kimyatta Cavin |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -140,8 +140,8 @@
 | 132 | 454 | Ericca Eldridge |
 | 133 | 451 | Peachy Fall |
 | 134 | 448 | Kristin Manee |
-| 135 | 435 | Leslie Thomas |
-| 136 | 435 | Kristina Black |
+| 135 | 435 | Kristina Black |
+| 136 | 435 | Leslie Thomas |
 | 137 | 434 | Monica Daley |
 | 138 | 432 | Zippy Block |
 | 139 | 431 | Courtney Cicoria |
@@ -235,8 +235,8 @@
 | 227 | 286 | Steph Marie |
 | 228 | 285 | 030Synner |
 | 229 | 284 | Mimi |
-| 230 | 282 | Matt Gooder |
-| 231 | 282 | Kim Klutz Olson |
+| 230 | 282 | Kim Klutz Olson |
+| 231 | 282 | Matt Gooder |
 | 232 | 281 | Laura |
 | 233 | 280 | Rio Rocha |
 | 234 | 279 | Malakai Darien Fox |
@@ -269,9 +269,9 @@
 | 261 | 259 | Montiette Mcglown |
 | 262 | 259 | Allen Lloyd |
 | 263 | 257 | PeaceOs |
-| 264 | 256 | Jade Rian |
-| 265 | 256 | Metsfan |
-| 266 | 256 | Brittany Marsh |
+| 264 | 256 | Metsfan |
+| 265 | 256 | Brittany Marsh |
+| 266 | 256 | Jade Rian |
 | 267 | 253 | Autum Leigh |
 | 268 | 251 | Carol Ricks Raymond |
 | 269 | 249 | Ak Jones |
@@ -335,9 +335,9 @@
 | 327 | 208 | Heather Bruce |
 | 328 | 208 | Shukee Lo |
 | 329 | 207 | Squeezy Pearsall |
-| 330 | 206 | June Hoffman |
-| 331 | 206 | Maureen Flanigan |
-| 332 | 206 | Laura Hosford |
+| 330 | 206 | Laura Hosford |
+| 331 | 206 | June Hoffman |
+| 332 | 206 | Maureen Flanigan |
 | 333 | 205 | KayM |
 | 334 | 204 | Russ Attitude |
 | 335 | 203 | Gilles Lanctot |

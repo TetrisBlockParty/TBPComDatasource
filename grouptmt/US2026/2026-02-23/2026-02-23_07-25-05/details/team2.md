@@ -224,8 +224,8 @@
 | 216 | 1230 | Megan Garrick |
 | 217 | 1227 | Juliana Marques Do Nascimento Gordy |
 | 218 | 1221 | Jane Fong |
-| 219 | 1217 | Lucky Ladybug |
-| 220 | 1217 | Brooks Brooks |
+| 219 | 1217 | Brooks Brooks |
+| 220 | 1217 | Lucky Ladybug |
 | 221 | 1214 | David Cudicio-Hayden |
 | 222 | 1213 | Pacynthia Williams |
 | 223 | 1211 | Ricardo Burton |
@@ -268,8 +268,8 @@
 | 260 | 1093 | Real Ri |
 | 261 | 1088 | Brainy Smurf |
 | 262 | 1080 | Tyler C. Jung |
-| 263 | 1079 | Kimberly Hauck-Rausch |
-| 264 | 1079 | Jennifer Kistner |
+| 263 | 1079 | Jennifer Kistner |
+| 264 | 1079 | Kimberly Hauck-Rausch |
 | 265 | 1073 | Jodi Blake |
 | 266 | 1071 | Kim Dean |
 | 267 | 1069 | Offonar Facey |
@@ -376,8 +376,8 @@
 | 368 | 829 | Jessica Wayne Cornwall |
 | 369 | 828 | Kimmy Newman |
 | 370 | 825 | Jeremy Parodi |
-| 371 | 824 | Danielle Johnson-Chandler |
-| 372 | 824 | Khalil Lowe |
+| 371 | 824 | Khalil Lowe |
+| 372 | 824 | Danielle Johnson-Chandler |
 | 373 | 822 | Lola Contreras |
 | 374 | 821 | Angie Bolton Workman |
 | 375 | 821 | Cassie Mercer |
@@ -391,21 +391,21 @@
 | 383 | 804 | Becca Coronado |
 | 384 | 801 | Diana Fitzwater |
 | 385 | 801 | Gold Rose |
-| 386 | 799 | Kenny Alvarado |
-| 387 | 799 | Joy LaJeunesse |
+| 386 | 799 | Joy LaJeunesse |
+| 387 | 799 | Kenny Alvarado |
 | 388 | 798 | Kathryn Townsley |
-| 389 | 796 | Amber Gray |
-| 390 | 796 | AndrewandShela Gornik |
-| 391 | 793 | Jaycee |
+| 389 | 796 | AndrewandShela Gornik |
+| 390 | 796 | Amber Gray |
+| 391 | 793 | Heather Schelkopf |
 | 392 | 793 | Arlene Joy Belicina |
-| 393 | 793 | Heather Schelkopf |
+| 393 | 793 | Jaycee |
 | 394 | 792 | Ronnie Nelson |
 | 395 | 790 | Brenda Pierpoint |
 | 396 | 788 | Erika Densmore |
 | 397 | 787 | Tiara Elizabeth Baker |
 | 398 | 783 | John Rodriguez |
-| 399 | 777 | Tesha Oldaker |
-| 400 | 777 | Jessicah Myers |
+| 399 | 777 | Jessicah Myers |
+| 400 | 777 | Tesha Oldaker |
 | 401 | 776 | Fancy Twister |
 | 402 | 776 | Mighty Spinbuilder |
 | 403 | 775 | Crystie Hicks |
@@ -564,8 +564,8 @@
 | 556 | 604 | Rae Rae |
 | 557 | 603 | Casper The Chonk |
 | 558 | 602 | Stephanie Sul |
-| 559 | 601 | Moua Ying |
-| 560 | 601 | Daniel Amos |
+| 559 | 601 | Daniel Amos |
+| 560 | 601 | Moua Ying |
 | 561 | 599 | Marella Petilo |
 | 562 | 598 | Leah Keesling |
 | 563 | 597 | Magic steve |
@@ -858,16 +858,16 @@
 | 850 | 419 | Josh Dill |
 | 851 | 419 | Erin Reid |
 | 852 | 418 | Bold Brickster |
-| 853 | 417 | Tristan Szolek |
-| 854 | 417 | Rebecca Garland |
+| 853 | 417 | Rebecca Garland |
+| 854 | 417 | Tristan Szolek |
 | 855 | 417 | Janai Vrabel |
 | 856 | 417 | Mandy Kachenmeister |
 | 857 | 416 | Veronics |
 | 858 | 416 | Alicia Moreno |
 | 859 | 416 | Christine Lockwood |
 | 860 | 415 | Bonita Kee |
-| 861 | 415 | Noel Tarmy |
-| 862 | 415 | Allyson Marra |
+| 861 | 415 | Allyson Marra |
+| 862 | 415 | Noel Tarmy |
 | 863 | 415 | Cranky Tower |
 | 864 | 414 | Court |
 | 865 | 414 | Cini |
