@@ -161,8 +161,8 @@
 | 153 | 470 | Candy Jones |
 | 154 | 467 | Constance Risner |
 | 155 | 463 | Nicole Roseberry Weber |
-| 156 | 462 | Hasty Cascader |
-| 157 | 462 | Luciano Moreira |
+| 156 | 462 | Luciano Moreira |
+| 157 | 462 | Hasty Cascader |
 | 158 | 460 | Steve Schneider |
 | 159 | 458 | Goose egg |
 | 160 | 454 | ALFD |
@@ -207,8 +207,8 @@
 | 199 | 386 | Brian Spotts |
 | 200 | 385 | Debbie Kane |
 | 201 | 384 | Tami Luce Martin |
-| 202 | 383 | pjbeta |
-| 203 | 383 | Margo Wagner |
+| 202 | 383 | Margo Wagner |
+| 203 | 383 | pjbeta |
 | 204 | 380 | Bindi |
 | 205 | 379 | Austin James |
 | 206 | 378 | Sleepysloath5745 |

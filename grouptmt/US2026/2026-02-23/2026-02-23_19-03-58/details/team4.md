@@ -80,8 +80,8 @@
 | 72 | 862 | Carolyn Wallace |
 | 73 | 847 | Peachy Fall |
 | 74 | 846 | Lucille Truesdale |
-| 75 | 846 | Amelpss |
-| 76 | 846 | Christine Marie |
+| 75 | 846 | Christine Marie |
+| 76 | 846 | Amelpss |
 | 77 | 841 | Shauna Havard |
 | 78 | 834 | quicksand420 |
 | 79 | 832 | Lisa Davis |
@@ -270,8 +270,8 @@
 | 262 | 331 | Alan George LaRage |
 | 263 | 330 | Kathy Brookins |
 | 264 | 324 | jim |
-| 265 | 324 | Lauren Lamb |
-| 266 | 324 | Nubian1 |
+| 265 | 324 | Nubian1 |
+| 266 | 324 | Lauren Lamb |
 | 267 | 322 | Manny1 |
 | 268 | 321 | Meagan Nicole |
 | 269 | 317 | Madison Sweere |
@@ -292,8 +292,8 @@
 | 284 | 301 | Erin Sabol |
 | 285 | 300 | Dana Scott |
 | 286 | 297 | Kenna Gunderland |
-| 287 | 296 | Vic |
-| 288 | 296 | Sarah Hoffman |
+| 287 | 296 | Sarah Hoffman |
+| 288 | 296 | Vic |
 | 289 | 295 | Blessedmama |
 | 290 | 293 | DonMega |
 | 291 | 292 | Epic Curvetile |

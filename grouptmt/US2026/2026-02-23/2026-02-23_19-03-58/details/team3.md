@@ -102,8 +102,8 @@
 | 94 | 1102 | Michelle Becker |
 | 95 | 1101 | Stephanie Rice |
 | 96 | 1094 | JerseyJess |
-| 97 | 1056 | Ebony West-Cundiff |
-| 98 | 1056 | joclisa |
+| 97 | 1056 | joclisa |
+| 98 | 1056 | Ebony West-Cundiff |
 | 99 | 1050 | Sherika C. McDaniels |
 | 100 | 1044 | Leah Barnett |
 | 101 | 1038 | Mandy Smith Oldham |
@@ -244,9 +244,9 @@
 | 236 | 519 | Nichol Graham |
 | 237 | 516 | Daring Brickzone |
 | 238 | 515 | Cozy Snaplink |
-| 239 | 513 | Lizabeth Fox |
-| 240 | 513 | Twisty Brick LT |
-| 241 | 513 | kacihall |
+| 239 | 513 | kacihall |
+| 240 | 513 | Lizabeth Fox |
+| 241 | 513 | Twisty Brick LT |
 | 242 | 508 | Sherry Ogden |
 | 243 | 508 | joz |
 | 244 | 506 | Fallorina Susana |
@@ -374,8 +374,8 @@
 | 366 | 348 | Kelly Wolf |
 | 367 | 348 | Ashley Raines |
 | 368 | 346 | AlsoJess |
-| 369 | 345 | gremicx |
-| 370 | 345 | victory |
+| 369 | 345 | victory |
+| 370 | 345 | gremicx |
 | 371 | 344 | Beaudie Stroebel |
 | 372 | 343 | Donna |
 | 373 | 343 | Ashley Rufus Bythcez |
@@ -397,8 +397,8 @@
 | 389 | 330 | angieelyn |
 | 390 | 330 | Big T |
 | 391 | 328 | Krystal Gerstberger |
-| 392 | 328 | Desiree Soto |
-| 393 | 328 | Cesar Mendez |
+| 392 | 328 | Cesar Mendez |
+| 393 | 328 | Desiree Soto |
 | 394 | 327 | Tiffanie Alley |
 | 395 | 327 | Jimmie Clemons |
 | 396 | 326 | Nelma |
@@ -552,12 +552,12 @@
 | 544 | 252 | Josh Borquez |
 | 545 | 252 | Jason |
 | 546 | 251 | Valerie Tarkington |
-| 547 | 251 | Colleen Phelps |
-| 548 | 251 | Jennifer Neiman Gaal |
+| 547 | 251 | Jennifer Neiman Gaal |
+| 548 | 251 | Colleen Phelps |
 | 549 | 250 | Marcus Payton |
 | 550 | 250 | Bekah Dietrich |
-| 551 | 248 | Smiley Zone |
-| 552 | 248 | Trey Ward |
+| 551 | 248 | Trey Ward |
+| 552 | 248 | Smiley Zone |
 | 553 | 247 | Melanie Sherwood |
 | 554 | 245 | Latoya Mayne |
 | 555 | 245 | Peachy Tower |
@@ -565,8 +565,8 @@
 | 557 | 244 | Beezwax |
 | 558 | 244 | TLM |
 | 559 | 244 | Amanda Fulton |
-| 560 | 243 | Lazy Matchfit |
-| 561 | 243 | Nicholas Roddy |
+| 560 | 243 | Nicholas Roddy |
+| 561 | 243 | Lazy Matchfit |
 | 562 | 242 | Misstery |
 | 563 | 242 | BŘŰŤİÇŨŚ |
 | 564 | 242 | Heather Bateman |
