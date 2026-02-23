@@ -104,8 +104,8 @@
 | 96 | 2170 | Steve Grotto |
 | 97 | 2165 | Tj Ball |
 | 98 | 2155 | Qiana Sanders |
-| 99 | 2148 | ShinyRose |
-| 100 | 2148 | Roger Grabbit |
+| 99 | 2148 | Roger Grabbit |
+| 100 | 2148 | ShinyRose |
 | 101 | 2146 | KellyDyan |
 | 102 | 2106 | Cool Rollpiece |
 | 103 | 2103 | Alisha Peoples |
@@ -144,8 +144,8 @@
 | 136 | 1639 | Jessie McDougald |
 | 137 | 1631 | Speedy Spinblock |
 | 138 | 1629 | Mari Ac |
-| 139 | 1623 | Rebecca Doughman |
-| 140 | 1623 | Janel Turley-Garner |
+| 139 | 1623 | Janel Turley-Garner |
+| 140 | 1623 | Rebecca Doughman |
 | 141 | 1605 | Christi Hulet |
 | 142 | 1602 | blackq |
 | 143 | 1601 | Ray Ray Prado |
@@ -157,8 +157,8 @@
 | 149 | 1578 | Sally Dennis |
 | 150 | 1571 | Alisa Lamb |
 | 151 | 1560 | Donnie Hunt |
-| 152 | 1558 | Tim Dyer |
-| 153 | 1558 | Stephen Stephen |
+| 152 | 1558 | Stephen Stephen |
+| 153 | 1558 | Tim Dyer |
 | 154 | 1555 | blarg |
 | 155 | 1541 | Cherica Taylor |
 | 156 | 1537 | Desiree Harris Rosch |
@@ -211,8 +211,8 @@
 | 203 | 1252 | Angel |
 | 204 | 1243 | Anna Edwards |
 | 205 | 1237 | Megan Ferguson Leone |
-| 206 | 1232 | Ambyre Patterson |
-| 207 | 1232 | Groovy Puzzle |
+| 206 | 1232 | Groovy Puzzle |
+| 207 | 1232 | Ambyre Patterson |
 | 208 | 1230 | Megan Garrick |
 | 209 | 1217 | Brooks Brooks |
 | 210 | 1217 | Lucky Ladybug |
@@ -273,8 +273,8 @@
 | 265 | 1043 | Brave Dropmatch |
 | 266 | 1043 | nikki |
 | 267 | 1041 | Bri Lynn |
-| 268 | 1036 | Amber Shoemaker |
-| 269 | 1036 | Allison Lockyer |
+| 268 | 1036 | Allison Lockyer |
+| 269 | 1036 | Amber Shoemaker |
 | 270 | 1026 | Kristin Gower |
 | 271 | 1024 | Susan Perraut Jones |
 | 272 | 1024 | Taylor Phillips |
@@ -521,8 +521,8 @@
 | 513 | 617 | Darcy Mae |
 | 514 | 617 | Kacee Conrad Bock |
 | 515 | 616 | Lylymom |
-| 516 | 615 | Julio A Laracuente |
-| 517 | 615 | Lyndi Robinson Wakefield |
+| 516 | 615 | Lyndi Robinson Wakefield |
+| 517 | 615 | Julio A Laracuente |
 | 518 | 614 | Emilee Burke |
 | 519 | 613 | Biggest thing |
 | 520 | 612 | Briana Alexander |
@@ -937,8 +937,8 @@
 | 929 | 369 | Epic Fitzone |
 | 930 | 368 | Lively Piecebuilder |
 | 931 | 367 | Sarah Dean |
-| 932 | 366 | Ashley Criner |
-| 933 | 366 | Yasmin Guzman |
+| 932 | 366 | Yasmin Guzman |
+| 933 | 366 | Ashley Criner |
 | 934 | 366 | Christine Coughlin |
 | 935 | 365 | Dee Blokk |
 | 936 | 365 | Wes Acton |
@@ -1709,7 +1709,7 @@
 | 1701 | 217 | Leslie Porter |
 | 1702 | 217 | Giggly Stackzone |
 | 1703 | 217 | Samuka |
-| 1704 | 217 | Giggly Stackzone |
+| 1704 | 217 | Adeeb Ahmed |
 | 1705 | 216 | Tiffany Hines |
 | 1706 | 216 | Loopy Tiley |
 | 1707 | 216 | Quiltygirl |

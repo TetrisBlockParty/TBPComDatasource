@@ -102,8 +102,8 @@
 | 94 | 519 | Ryan Lunnin |
 | 95 | 510 | Colena Davenport |
 | 96 | 496 | Arianna O'Brien |
-| 97 | 493 | Jennifer ManWarren |
-| 98 | 493 | MomMom |
+| 97 | 493 | MomMom |
+| 98 | 493 | Jennifer ManWarren |
 | 99 | 492 | Ash Galvan |
 | 100 | 489 | Deanna L Hermanson |
 | 101 | 488 | cc |
@@ -151,15 +151,15 @@
 | 143 | 379 | Kimmie Kimms |
 | 144 | 376 | Brian Richardsson |
 | 145 | 376 | Death |
-| 146 | 375 | Monica Donato |
-| 147 | 375 | Tanya Carpenter-Reynolds |
+| 146 | 375 | Tanya Carpenter-Reynolds |
+| 147 | 375 | Monica Donato |
 | 148 | 371 | Jason Savage |
 | 149 | 371 | Basment Living |
 | 150 | 368 | Amanda Johnson Huffman |
 | 151 | 367 | Sharon Reynolds |
 | 152 | 365 | Carrie Smith |
-| 153 | 364 | Shauna Loe |
-| 154 | 364 | Serina Marie |
+| 153 | 364 | Serina Marie |
+| 154 | 364 | Shauna Loe |
 | 155 | 360 | Wisa |
 | 156 | 355 | Amanda Jarnagin |
 | 157 | 353 | Jaimie Lynn |
@@ -186,8 +186,8 @@
 | 178 | 325 | Tyler Werts |
 | 179 | 324 | Rat666 |
 | 180 | 323 | Madison Wicks |
-| 181 | 318 | Virginia Gray Floyd |
-| 182 | 318 | Jessica Sheehan |
+| 181 | 318 | Jessica Sheehan |
+| 182 | 318 | Virginia Gray Floyd |
 | 183 | 317 | Sarah Roberts |
 | 184 | 316 | Reesey Enyart |
 | 185 | 315 | Letson Melissa |
@@ -225,8 +225,8 @@
 | 217 | 281 | Clever Cascadepiece |
 | 218 | 280 | Billie Dawn Sparks |
 | 219 | 279 | Bird Person |
-| 220 | 277 | Nutty Spinblock |
-| 221 | 277 | Melissa Lemmon |
+| 220 | 277 | Melissa Lemmon |
+| 221 | 277 | Nutty Spinblock |
 | 222 | 275 | Chris65 |
 | 223 | 275 | Cheeky Pop |
 | 224 | 273 | Shannon Marie Pitts |
@@ -278,19 +278,19 @@
 | 270 | 229 | Dino |
 | 271 | 228 | Adele Rahman |
 | 272 | 227 | Happy Snapbuild |
-| 273 | 226 | Glitzy Buildsnap |
-| 274 | 226 | Snappy Brickbuilder |
+| 273 | 226 | Snappy Brickbuilder |
+| 274 | 226 | Glitzy Buildsnap |
 | 275 | 224 | Mario Cab |
 | 276 | 224 | Jumpy Rotate |
 | 277 | 223 | Erez Yosef |
 | 278 | 223 | Christina Backer |
 | 279 | 223 | Layzietyme |
-| 280 | 222 | Snappy Bridgepiece |
-| 281 | 222 | Jessie Welch |
+| 280 | 222 | Jessie Welch |
+| 281 | 222 | Snappy Bridgepiece |
 | 282 | 222 | Debbie Davis |
-| 283 | 221 | Spunky Builderpiece |
+| 283 | 221 | Cece Ibarra |
 | 284 | 221 | Amy Hess |
-| 285 | 221 | Cece Ibarra |
+| 285 | 221 | Spunky Builderpiece |
 | 286 | 220 | Sarah Marie |
 | 287 | 219 | Chuck Gannon |
 | 288 | 219 | Jeanna Dunn |
@@ -311,7 +311,7 @@
 | 303 | 215 | Christina Norman |
 | 304 | 213 | Poppy Riserpiece |
 | 305 | 213 | Itspaigebro |
-| 306 | 213 | Poppy Riserpiece |
+| 306 | 213 | John Barron |
 | 307 | 212 | Michelle Beres |
 | 308 | 211 | Oscar Zamora |
 | 309 | 211 | Teri Oehlke |
@@ -444,8 +444,8 @@
 | 436 | 154 | TristansDad |
 | 437 | 153 | Toph |
 | 438 | 153 | Chyna Mae |
-| 439 | 152 | Cree |
-| 440 | 152 | Doris Hall |
+| 439 | 152 | Doris Hall |
+| 440 | 152 | Cree |
 | 441 | 152 | Lush Zoney |
 | 442 | 151 | Cozy Shatterer |
 | 443 | 151 | Ma stoken |

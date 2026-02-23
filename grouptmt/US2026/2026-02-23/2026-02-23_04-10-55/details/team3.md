@@ -162,8 +162,8 @@
 | 154 | 595 | Nicole Myers |
 | 155 | 588 | Justin Ritter |
 | 156 | 587 | Louise Stacy Sisson |
-| 157 | 585 | Annie Marie |
-| 158 | 585 | Happy Tetriblast |
+| 157 | 585 | Happy Tetriblast |
+| 158 | 585 | Annie Marie |
 | 159 | 582 | Natasha Jones |
 | 160 | 579 | Tasha Gillespie |
 | 161 | 577 | Domo Washington |
@@ -270,8 +270,8 @@
 | 262 | 357 | Stephanie Burtin |
 | 263 | 354 | Kelly |
 | 264 | 353 | Dee Franklin |
-| 265 | 352 | Samantha Lynn |
-| 266 | 352 | Christian Werndl |
+| 265 | 352 | Christian Werndl |
+| 266 | 352 | Samantha Lynn |
 | 267 | 351 | Eon Harris |
 | 268 | 349 | Amanda J. Mcneil-Anderson |
 | 269 | 348 | Cyd061769 |
@@ -279,10 +279,10 @@
 | 271 | 347 | Tye Stovall |
 | 272 | 346 | Tamara Deherrera |
 | 273 | 345 | MsBee |
-| 274 | 344 | Gumbo |
-| 275 | 344 | Roary Danner |
-| 276 | 343 | Ashley Rufus Bythcez |
-| 277 | 343 | Ashley Raines |
+| 274 | 344 | Roary Danner |
+| 275 | 344 | Gumbo |
+| 276 | 343 | Ashley Raines |
+| 277 | 343 | Ashley Rufus Bythcez |
 | 278 | 341 | Ashley Tookes |
 | 279 | 339 | Cynthia Herrmann Egland |
 | 280 | 336 | Jojo M |
@@ -354,9 +354,9 @@
 | 346 | 275 | Nikki Pags |
 | 347 | 275 | Michael Lucado |
 | 348 | 274 | Mary Giorgenti |
-| 349 | 273 | Dannie Litchard |
-| 350 | 273 | France Vézina |
-| 351 | 273 | Brenda Schmid Wood |
+| 349 | 273 | France Vézina |
+| 350 | 273 | Brenda Schmid Wood |
+| 351 | 273 | Dannie Litchard |
 | 352 | 272 | Romeo |
 | 353 | 272 | Todd Hall |
 | 354 | 272 | Tay |
@@ -369,8 +369,8 @@
 | 361 | 267 | April Matthew Kibble |
 | 362 | 266 | Quirky Dropzone |
 | 363 | 264 | Danielle Beaunoyer Jean |
-| 364 | 263 | Erika Thornton |
-| 365 | 263 | Jimmie Clemons |
+| 364 | 263 | Jimmie Clemons |
+| 365 | 263 | Erika Thornton |
 | 366 | 261 | Naur |
 | 367 | 260 | Tracey Cox |
 | 368 | 260 | TotoCherue |
@@ -422,8 +422,8 @@
 | 414 | 238 | Trey Ward |
 | 415 | 237 | Jolly Dashpiece |
 | 416 | 236 | Mariah Williams |
-| 417 | 236 | Loopy Fallzone |
-| 418 | 236 | lashanda |
+| 417 | 236 | lashanda |
+| 418 | 236 | Loopy Fallzone |
 | 419 | 235 | Kevin Russell |
 | 420 | 234 | Cheeky Twisterfit |
 | 421 | 233 | Criss |

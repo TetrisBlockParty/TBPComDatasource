@@ -177,8 +177,8 @@
 | 169 | 358 | A5! |
 | 170 | 356 | George Nutt |
 | 171 | 352 | Sue Joyce Staats |
-| 172 | 349 | Twisty Cascadezone |
-| 173 | 349 | Rafael Valentin |
+| 172 | 349 | Rafael Valentin |
+| 173 | 349 | Twisty Cascadezone |
 | 174 | 348 | TRCuse |
 | 175 | 348 | April Rondinone |
 | 176 | 347 | Daria Rycewicz |
@@ -246,8 +246,8 @@
 | 238 | 262 | BigSammy420 |
 | 239 | 262 | Selena Shaw |
 | 240 | 260 | Carter Jones |
-| 241 | 259 | Montiette Mcglown |
-| 242 | 259 | Allen Lloyd |
+| 241 | 259 | Allen Lloyd |
+| 242 | 259 | Montiette Mcglown |
 | 243 | 257 | PeaceOs |
 | 244 | 256 | Metsfan |
 | 245 | 256 | Mylo Lipscomb |
