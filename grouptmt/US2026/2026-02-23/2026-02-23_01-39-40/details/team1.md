@@ -175,8 +175,8 @@
 | 167 | 324 | Rat666 |
 | 168 | 324 | Ananda Mendez |
 | 169 | 320 | Madison Wicks |
-| 170 | 318 | Virginia Gray Floyd |
-| 171 | 318 | Jessica Sheehan |
+| 170 | 318 | Jessica Sheehan |
+| 171 | 318 | Virginia Gray Floyd |
 | 172 | 317 | Sarah Roberts |
 | 173 | 315 | Tyler Werts |
 | 174 | 315 | Danielle Little-Daugherty |
@@ -190,16 +190,16 @@
 | 182 | 306 | J.F. Fields |
 | 183 | 306 | Angela Renea Lester |
 | 184 | 304 | David Lutcher |
-| 185 | 303 | Letson Melissa |
-| 186 | 303 | ALFD |
+| 185 | 303 | ALFD |
+| 186 | 303 | Letson Melissa |
 | 187 | 302 | Erin Rosberg |
 | 188 | 301 | Damon J. Martin |
 | 189 | 296 | Cody Gates |
-| 190 | 294 | Margo Wagner |
-| 191 | 294 | Bindi |
+| 190 | 294 | Bindi |
+| 191 | 294 | Margo Wagner |
 | 192 | 293 | Carrie Smith |
-| 193 | 293 | John Kim |
-| 194 | 293 | Witty Builderfit |
+| 193 | 293 | Witty Builderfit |
+| 194 | 293 | John Kim |
 | 195 | 292 | Cool Shiftsnap |
 | 196 | 290 | Speedy Liney |
 | 197 | 283 | Franswa |
@@ -266,11 +266,11 @@
 | 258 | 228 | Adele Rahman |
 | 259 | 228 | Giddy Cascade |
 | 260 | 226 | Glitzy Buildsnap |
-| 261 | 223 | Erez Yosef |
-| 262 | 223 | Christina Backer |
-| 263 | 223 | Layzietyme |
-| 264 | 222 | Debbie Davis |
-| 265 | 222 | Snappy Bridgepiece |
+| 261 | 223 | Layzietyme |
+| 262 | 223 | Erez Yosef |
+| 263 | 223 | Christina Backer |
+| 264 | 222 | Snappy Bridgepiece |
+| 265 | 222 | Debbie Davis |
 | 266 | 222 | Jessie Welch |
 | 267 | 221 | Spunky Builderpiece |
 | 268 | 221 | Amy Hess |

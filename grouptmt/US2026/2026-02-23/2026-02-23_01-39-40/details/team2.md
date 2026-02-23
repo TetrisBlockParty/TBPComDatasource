@@ -40,8 +40,8 @@
 | 32 | 4199 | Claire Noland |
 | 33 | 4130 | Robert Diddle |
 | 34 | 4128 | Angela Pruitt |
-| 35 | 4120 | Corrine Hawks Soriano |
-| 36 | 4120 | Kristen Sceurman |
+| 35 | 4120 | Kristen Sceurman |
+| 36 | 4120 | Corrine Hawks Soriano |
 | 37 | 4033 | Jill Stroehlein |
 | 38 | 3895 | Nickie Baby |
 | 39 | 3764 | Brittany Alicia |
@@ -140,8 +140,8 @@
 | 132 | 1611 | Mari Ac |
 | 133 | 1601 | Ray Ray Prado |
 | 134 | 1599 | Dustin Rains |
-| 135 | 1585 | Christi Hulet |
-| 136 | 1585 | Auntie B |
+| 135 | 1585 | Auntie B |
+| 136 | 1585 | Christi Hulet |
 | 137 | 1581 | Brandy Andre |
 | 138 | 1580 | Heather Westrum |
 | 139 | 1578 | Loopy Clusterbuilder |

@@ -61,8 +61,8 @@
 | 53 | 1276 | Aaron Pitkin |
 | 54 | 1269 | Amber Jones |
 | 55 | 1258 | Jennifer Petrie |
-| 56 | 1256 | Mahman |
-| 57 | 1256 | Jessica Bechler |
+| 56 | 1256 | Jessica Bechler |
+| 57 | 1256 | Mahman |
 | 58 | 1191 | Nate Burnside |
 | 59 | 1167 | Elaine Webb Graves |
 | 60 | 1141 | Queen Kam |
@@ -86,8 +86,8 @@
 | 78 | 951 | Katie Knaus |
 | 79 | 945 | Shonna Roberts |
 | 80 | 938 | Mandy Smith Oldham |
-| 81 | 926 | Angela M. Fletcher |
-| 82 | 926 | Judi Dobson |
+| 81 | 926 | Judi Dobson |
+| 82 | 926 | Angela M. Fletcher |
 | 83 | 923 | Christine Filson |
 | 84 | 921 | Michelle |
 | 85 | 910 | Jay Horn |
@@ -117,8 +117,8 @@
 | 109 | 784 | Valerie Gendron |
 | 110 | 762 | Speedy Bridger |
 | 111 | 748 | Adrian Marcel Pate |
-| 112 | 744 | Leah Barnett |
-| 113 | 744 | Fancy Cascader |
+| 112 | 744 | Fancy Cascader |
+| 113 | 744 | Leah Barnett |
 | 114 | 742 | Groovy Catcher |
 | 115 | 733 | mzcatzy |
 | 116 | 724 | Kristie |
@@ -172,8 +172,8 @@
 | 164 | 529 | Michael Nowogorski |
 | 165 | 528 | Silly Twist |
 | 166 | 516 | Danielle Balcom |
-| 167 | 506 | Sashay Tapae Simpson |
-| 168 | 506 | Stephanie Blkpep Davidson |
+| 167 | 506 | Stephanie Blkpep Davidson |
+| 168 | 506 | Sashay Tapae Simpson |
 | 169 | 504 | Jennifer Lynn Fahrenholtz-Summers |
 | 170 | 502 | Snappy Balancer |
 | 171 | 501 | Patti Skiles |
@@ -219,8 +219,8 @@
 | 211 | 415 | ren |
 | 212 | 414 | Fran Lin |
 | 213 | 413 | Loopy Clusterer |
-| 214 | 410 | Mcathen |
-| 215 | 410 | Stephanie Simpson |
+| 214 | 410 | Stephanie Simpson |
+| 215 | 410 | Mcathen |
 | 216 | 405 | Sherry Ogden |
 | 217 | 404 | Chasity |
 | 218 | 403 | Scott Lindsay |
@@ -263,11 +263,11 @@
 | 255 | 346 | Tamara Deherrera |
 | 256 | 345 | Kelly |
 | 257 | 344 | Roary Danner |
-| 258 | 343 | Ashley Raines |
-| 259 | 343 | Ashley Rufus Bythcez |
+| 258 | 343 | Ashley Rufus Bythcez |
+| 259 | 343 | Ashley Raines |
 | 260 | 343 | rnr junky |
-| 261 | 341 | MsBee |
-| 262 | 341 | Ashley Tookes |
+| 261 | 341 | Ashley Tookes |
+| 262 | 341 | MsBee |
 | 263 | 339 | Cynthia Herrmann Egland |
 | 264 | 338 | Gumbo |
 | 265 | 336 | Jojo M |
