@@ -44,8 +44,8 @@
 | 36 | 2104 | Cheeky Rumbler |
 | 37 | 2059 | Beelow Bently |
 | 38 | 1992 | Shandrea Crawford |
-| 39 | 1978 | Dan Rob |
-| 40 | 1978 | Ashley Kiara |
+| 39 | 1978 | Ashley Kiara |
+| 40 | 1978 | Dan Rob |
 | 41 | 1949 | Calista Jo Dickson |
 | 42 | 1941 | Delilah belle |
 | 43 | 1919 | Raven Dudley |
@@ -188,8 +188,8 @@
 | 180 | 725 | Alaina Lee |
 | 181 | 724 | Rachel |
 | 182 | 718 | Laura Booth Wosko |
-| 183 | 716 | Morgan Martinez |
-| 184 | 716 | Annie Marie |
+| 183 | 716 | Annie Marie |
+| 184 | 716 | Morgan Martinez |
 | 185 | 715 | Karon Griffin |
 | 186 | 714 | Jone |
 | 187 | 714 | Jenny Hrndz |

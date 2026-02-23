@@ -160,8 +160,8 @@
 | 152 | 510 | Timothy Danaher |
 | 153 | 510 | Rat666 |
 | 154 | 501 | Dee Perry |
-| 155 | 497 | MIKOZ |
-| 156 | 497 | Arianna O'Brien |
+| 155 | 497 | Arianna O'Brien |
+| 156 | 497 | MIKOZ |
 | 157 | 494 | Sean Stallings |
 | 158 | 492 | Rebekah LeiAnn Bonsell |
 | 159 | 491 | cc |
@@ -644,7 +644,7 @@
 | 636 | 164 | Paul Osborne |
 | 637 | 163 | Oliver Hollins |
 | 638 | 163 | Joyce Harrell-chavis |
-| 639 | 163 | Oliver Hollins |
+| 639 | 163 | Cozy Shatterer |
 | 640 | 162 | Jay Tressler |
 | 641 | 162 | Dawn Michelle Scheible |
 | 642 | 162 | Manley Smith |

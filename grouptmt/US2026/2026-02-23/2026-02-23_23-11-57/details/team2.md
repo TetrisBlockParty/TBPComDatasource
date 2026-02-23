@@ -380,8 +380,8 @@
 | 372 | 1042 | Spunkysmom |
 | 373 | 1039 | Crystal Hoffman |
 | 374 | 1038 | Sheronda Jackson |
-| 375 | 1036 | Allison Lockyer |
-| 376 | 1036 | Amber Shoemaker |
+| 375 | 1036 | Amber Shoemaker |
+| 376 | 1036 | Allison Lockyer |
 | 377 | 1026 | Joshua Mandel |
 | 378 | 1024 | Susan Perraut Jones |
 | 379 | 1021 | Dapper Dasher |
@@ -598,8 +598,8 @@
 | 590 | 729 | goofinoff |
 | 591 | 728 | Tom Riefer |
 | 592 | 727 | Lee Harper |
-| 593 | 726 | Gloria Ininahazwe |
-| 594 | 726 | Crystal Greene |
+| 593 | 726 | Crystal Greene |
+| 594 | 726 | Gloria Ininahazwe |
 | 595 | 725 | Vonceial Boone |
 | 596 | 721 | Kori Beth Babb |
 | 597 | 720 | William Bresee |

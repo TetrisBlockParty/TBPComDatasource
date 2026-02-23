@@ -62,8 +62,8 @@
 | 54 | 1156 | Goatimus Lombardi |
 | 55 | 1150 | Kimyatta Cavin |
 | 56 | 1106 | Ashley Ingram |
-| 57 | 1082 | Dion Crommarty |
-| 58 | 1082 | Avy Absol |
+| 57 | 1082 | Avy Absol |
+| 58 | 1082 | Dion Crommarty |
 | 59 | 1073 | Dustee Craddock-Harrison |
 | 60 | 1072 | Rachel Anne |
 | 61 | 1049 | Heather Tushner |
@@ -249,10 +249,10 @@
 | 241 | 381 | Plucky Patternblock |
 | 242 | 380 | Rio Rocha |
 | 243 | 379 | Backoff Recupe |
-| 244 | 378 | Mary Ann Pabukis |
-| 245 | 378 | Googenheim |
-| 246 | 378 | shark tato |
-| 247 | 378 | Holly Jolly |
+| 244 | 378 | Holly Jolly |
+| 245 | 378 | shark tato |
+| 246 | 378 | Mary Ann Pabukis |
+| 247 | 378 | Googenheim |
 | 248 | 378 | JPW |
 | 249 | 376 | Nig |
 | 250 | 369 | TRCuse |
