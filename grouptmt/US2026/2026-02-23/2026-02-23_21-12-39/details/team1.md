@@ -169,8 +169,8 @@
 | 161 | 476 | Ly Phethmany |
 | 162 | 470 | Candy Jones |
 | 163 | 468 | Steve Schneider |
-| 164 | 463 | Nicole Roseberry Weber |
-| 165 | 463 | Brandi Huntington |
+| 164 | 463 | Brandi Huntington |
+| 165 | 463 | Nicole Roseberry Weber |
 | 166 | 462 | Luciano Moreira |
 | 167 | 462 | Hasty Cascader |
 | 168 | 458 | Dizzy Slider |
@@ -391,10 +391,10 @@
 | 383 | 252 | Dena Kayy |
 | 384 | 252 | Katie Martin |
 | 385 | 252 | SavageBooty98 |
-| 386 | 251 | MRdot Rooski |
-| 387 | 251 | Debbie Davis |
-| 388 | 251 | ParisandCory Champagne |
-| 389 | 251 | Randy Broadwater |
+| 386 | 251 | ParisandCory Champagne |
+| 387 | 251 | MRdot Rooski |
+| 388 | 251 | Randy Broadwater |
+| 389 | 251 | Debbie Davis |
 | 390 | 248 | Teresa |
 | 391 | 247 | Colleen Wise |
 | 392 | 247 | .running. |

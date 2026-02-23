@@ -60,8 +60,8 @@
 | 52 | 1136 | Dawn Alexander |
 | 53 | 1105 | Ashley Ingram |
 | 54 | 1094 | Kimyatta Cavin |
-| 55 | 1082 | Dion Crommarty |
-| 56 | 1082 | Avy Absol |
+| 55 | 1082 | Avy Absol |
+| 56 | 1082 | Dion Crommarty |
 | 57 | 1065 | Dustee Craddock-Harrison |
 | 58 | 1049 | Heather Tushner |
 | 59 | 1046 | Johnathan Martinez |
@@ -90,8 +90,8 @@
 | 82 | 826 | Rica Mitchell |
 | 83 | 802 | Crystal Carroll |
 | 84 | 794 | Chilly Line |
-| 85 | 783 | Guy Incognito |
-| 86 | 783 | Denise Carlson |
+| 85 | 783 | Denise Carlson |
+| 86 | 783 | Guy Incognito |
 | 87 | 775 | Klo |
 | 88 | 768 | Judy Cox |
 | 89 | 767 | Shannon Ferrari |
@@ -147,8 +147,8 @@
 | 139 | 551 | Ren Mc |
 | 140 | 549 | Carlos Ramirez |
 | 141 | 546 | Dizzy Tiley |
-| 142 | 545 | Desi Desporte |
-| 143 | 545 | Livvy |
+| 142 | 545 | Livvy |
+| 143 | 545 | Desi Desporte |
 | 144 | 542 | Austin Owens |
 | 145 | 540 | Rodney McMath Jr. |
 | 146 | 536 | Kimberlee Jan Beckstead |

@@ -229,8 +229,8 @@
 | 221 | 568 | Rachael McClain Owens |
 | 222 | 567 | FuzzyNavel |
 | 223 | 566 | LaTanya GeminiondaRise Johnson |
-| 224 | 564 | Christine Trester |
-| 225 | 564 | Poppy Splitter |
+| 224 | 564 | Poppy Splitter |
+| 225 | 564 | Christine Trester |
 | 226 | 563 | Fallorina Susana |
 | 227 | 562 | Dave Herzog |
 | 228 | 561 | Silly Twist |
@@ -371,8 +371,8 @@
 | 363 | 366 | Rick Poppen |
 | 364 | 366 | Jul |
 | 365 | 364 | TotoCherue |
-| 366 | 362 | Brandon Givens |
-| 367 | 362 | Chummy Rumbler |
+| 366 | 362 | Chummy Rumbler |
+| 367 | 362 | Brandon Givens |
 | 368 | 360 | Goofy Fall |
 | 369 | 359 | Kristen Weese |
 | 370 | 359 | Ann Hammac |
@@ -383,8 +383,8 @@
 | 375 | 352 | Tiffany Davie |
 | 376 | 352 | LadyTorad |
 | 377 | 352 | xsiv |
-| 378 | 351 | Romeo |
-| 379 | 351 | Eon Harris |
+| 378 | 351 | Eon Harris |
+| 379 | 351 | Romeo |
 | 380 | 351 | TLM |
 | 381 | 350 | angieelyn |
 | 382 | 349 | Donna |
@@ -394,8 +394,8 @@
 | 386 | 345 | victory |
 | 387 | 345 | 4girls |
 | 388 | 344 | Beaudie Stroebel |
-| 389 | 342 | Cynthia Herrmann Egland |
-| 390 | 342 | Christina Marie Swisher |
+| 389 | 342 | Christina Marie Swisher |
+| 390 | 342 | Cynthia Herrmann Egland |
 | 391 | 341 | Lys |
 | 392 | 340 | Erika Thornton |
 | 393 | 340 | Kerry Nowickshere |
@@ -409,10 +409,10 @@
 | 401 | 332 | Brittany |
 | 402 | 331 | Eboni Starr |
 | 403 | 330 | Big T |
-| 404 | 328 | Krystal Gerstberger |
-| 405 | 328 | Norma JulieMay |
-| 406 | 328 | Desiree Soto |
-| 407 | 328 | Cesar Mendez |
+| 404 | 328 | Norma JulieMay |
+| 405 | 328 | Krystal Gerstberger |
+| 406 | 328 | Cesar Mendez |
+| 407 | 328 | Desiree Soto |
 | 408 | 327 | Jimmie Clemons |
 | 409 | 326 | Alice |
 | 410 | 326 | Nelma |
@@ -495,8 +495,8 @@
 | 487 | 289 | DidIdothat |
 | 488 | 287 | Jessica Lynn French |
 | 489 | 287 | Sunny Lift |
-| 490 | 284 | Linda Draper |
-| 491 | 284 | Hanna Kim |
+| 490 | 284 | Hanna Kim |
+| 491 | 284 | Linda Draper |
 | 492 | 284 | Victoria Lexis Dyer |
 | 493 | 284 | Sarah Muradyan |
 | 494 | 283 | Trey Ward |
