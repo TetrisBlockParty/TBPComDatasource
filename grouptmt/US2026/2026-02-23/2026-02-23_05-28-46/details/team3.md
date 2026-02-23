@@ -227,8 +227,8 @@
 | 219 | 437 | Loopy Clusterer |
 | 220 | 435 | Fallorina Susana |
 | 221 | 432 | Luciana Braganca Vieira |
-| 222 | 431 | Ammmmmmy |
-| 223 | 431 | Wendy Dearden |
+| 222 | 431 | Wendy Dearden |
+| 223 | 431 | Ammmmmmy |
 | 224 | 430 | Jeni Dow |
 | 225 | 416 | Mcathen |
 | 226 | 415 | ren |
@@ -585,8 +585,8 @@
 | 577 | 181 | Beth Smith |
 | 578 | 181 | Rashad Green |
 | 579 | 180 | Chipper Piecefit |
-| 580 | 180 | Rayzer |
-| 581 | 180 | Stella |
+| 580 | 180 | Stella |
+| 581 | 180 | Rayzer |
 | 582 | 179 | Alexi Pryor |
 | 583 | 179 | Boldy Corner |
 | 584 | 179 | Ruchi Smit |

@@ -79,8 +79,8 @@
 | 71 | 749 | Dustee Craddock-Harrison |
 | 72 | 742 | Carolyn Wallace |
 | 73 | 740 | Avy Absol |
-| 74 | 736 | Crystal Carroll |
-| 75 | 736 | Goatimus Lombardi |
+| 74 | 736 | Goatimus Lombardi |
+| 75 | 736 | Crystal Carroll |
 | 76 | 721 | TheNeesh50 |
 | 77 | 717 | D3TROITB0RN74 |
 | 78 | 706 | Lisa Davis |
@@ -118,13 +118,13 @@
 | 110 | 528 | Rodney McMath Jr. |
 | 111 | 527 | Dizzy Tiley |
 | 112 | 519 | Nugget |
-| 113 | 517 | Christina LR |
-| 114 | 517 | shar |
+| 113 | 517 | shar |
+| 114 | 517 | Christina LR |
 | 115 | 514 | Serena Goodridge |
 | 116 | 514 | Scott Jameson |
 | 117 | 513 | Erin Thomas |
-| 118 | 512 | Cristy Duerksen |
-| 119 | 512 | Casey Jeffcoat |
+| 118 | 512 | Casey Jeffcoat |
+| 119 | 512 | Cristy Duerksen |
 | 120 | 511 | Lori Walker |
 | 121 | 482 | Ren Mc |
 | 122 | 481 | Jessica Lynn Cutlip |
@@ -172,8 +172,8 @@
 | 164 | 368 | Silly Zonebuilder |
 | 165 | 368 | Chris Bernstein |
 | 166 | 365 | Jeff Brian Gates |
-| 167 | 361 | Melissa Adams |
-| 168 | 361 | Danielle Kollias |
+| 167 | 361 | Danielle Kollias |
+| 168 | 361 | Melissa Adams |
 | 169 | 359 | Keith Kelley |
 | 170 | 358 | A5! |
 | 171 | 356 | George Nutt |
@@ -271,8 +271,8 @@
 | 263 | 248 | Jose Dejesus |
 | 264 | 245 | rebel4lyfe |
 | 265 | 245 | 23 |
-| 266 | 244 | Christina Black |
-| 267 | 244 | Elizabeth Tinoco |
+| 266 | 244 | Elizabeth Tinoco |
+| 267 | 244 | Christina Black |
 | 268 | 242 | Chaz |
 | 269 | 240 | Lori |
 | 270 | 240 | Perky Patternblock |
@@ -490,9 +490,9 @@
 | 482 | 143 | Sherri |
 | 483 | 143 | Kristin MacDonald |
 | 484 | 142 | Frank Cook |
-| 485 | 142 | Chao Ma |
-| 486 | 142 | Bigeddie |
-| 487 | 142 | DQ Martin |
+| 485 | 142 | DQ Martin |
+| 486 | 142 | Chao Ma |
+| 487 | 142 | Bigeddie |
 | 488 | 142 | Peace |
 | 489 | 141 | Courtney Halleck |
 | 490 | 141 | Red |

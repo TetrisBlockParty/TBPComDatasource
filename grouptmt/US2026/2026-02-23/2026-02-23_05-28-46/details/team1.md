@@ -137,8 +137,8 @@
 | 129 | 425 | Lori Sanders- Davis |
 | 130 | 411 | BadG52 |
 | 131 | 409 | Goose egg |
-| 132 | 406 | Candy Jones |
-| 133 | 406 | Desiree Deschaine Havee |
+| 132 | 406 | Desiree Deschaine Havee |
+| 133 | 406 | Candy Jones |
 | 134 | 402 | Chris K |
 | 135 | 399 | Nery Martinez |
 | 136 | 394 | Lori Bales |
@@ -182,8 +182,8 @@
 | 174 | 341 | Shiny Snapfit |
 | 175 | 339 | Nicole Roseberry Weber |
 | 176 | 338 | Jennifer Hardman |
-| 177 | 337 | Constance Risner |
-| 178 | 337 | Jamise Brown |
+| 177 | 337 | Jamise Brown |
+| 178 | 337 | Constance Risner |
 | 179 | 336 | Dizzy Party |
 | 180 | 333 | Gracie |
 | 181 | 332 | Lehrin Maria |

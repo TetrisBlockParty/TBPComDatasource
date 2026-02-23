@@ -372,8 +372,8 @@
 | 364 | 823 | Alezandra Smith |
 | 365 | 822 | Lola Contreras |
 | 366 | 821 | Angie Bolton Workman |
-| 367 | 821 | Arkei Luster |
-| 368 | 821 | Cassie Mercer |
+| 367 | 821 | Cassie Mercer |
+| 368 | 821 | Arkei Luster |
 | 369 | 816 | Beth |
 | 370 | 816 | James Simms III |
 | 371 | 813 | Lisa Ongtowasruk |
@@ -1177,8 +1177,8 @@
 | 1169 | 305 | Candace Cece Joseph |
 | 1170 | 305 | Sandra Link-Gable |
 | 1171 | 305 | Diane P. Richardson |
-| 1172 | 305 | Edralin Custodio |
-| 1173 | 305 | Sierra Edwards Lachmanek |
+| 1172 | 305 | Sierra Edwards Lachmanek |
+| 1173 | 305 | Edralin Custodio |
 | 1174 | 304 | NFLPITMOM |
 | 1175 | 304 | Arlet Alba |
 | 1176 | 304 | Quels Whidbee |
