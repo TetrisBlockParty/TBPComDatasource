@@ -49,8 +49,8 @@
 | 41 | 1121 | Isabel Aguilar |
 | 42 | 1100 | Landon Keith Graffeo |
 | 43 | 1085 | Kimyatta Cavin |
-| 44 | 1082 | Dion Crommarty |
-| 45 | 1082 | Dawn Alexander |
+| 44 | 1082 | Dawn Alexander |
+| 45 | 1082 | Dion Crommarty |
 | 46 | 1071 | Cherrish Duren |
 | 47 | 1065 | Koshin Abdirahman |
 | 48 | 1049 | Heather Tushner |
@@ -67,8 +67,8 @@
 | 59 | 872 | Shelly Chandler |
 | 60 | 871 | Pee |
 | 61 | 870 | BertMofo |
-| 62 | 846 | Christine Marie |
-| 63 | 846 | Lucille Truesdale |
+| 62 | 846 | Lucille Truesdale |
+| 63 | 846 | Christine Marie |
 | 64 | 834 | quicksand420 |
 | 65 | 827 | Avy Absol |
 | 66 | 807 | Amelpss |
@@ -192,8 +192,8 @@
 | 184 | 383 | Chris Bernstein |
 | 185 | 382 | Chris Hartig |
 | 186 | 377 | Guy Incognito |
-| 187 | 372 | Antony Dwayne Beasley |
-| 188 | 372 | George Nutt |
+| 187 | 372 | George Nutt |
+| 188 | 372 | Antony Dwayne Beasley |
 | 189 | 370 | Oscar Alberto Perez |
 | 190 | 368 | Holly Jolly |
 | 191 | 368 | Silly Zonebuilder |
@@ -260,8 +260,8 @@
 | 252 | 290 | Rebecca Morris |
 | 253 | 290 | Jared Gutwein |
 | 254 | 289 | Juls |
-| 255 | 288 | Adam Stephanie Parker |
-| 256 | 288 | Brittney Orengo |
+| 255 | 288 | Brittney Orengo |
+| 256 | 288 | Adam Stephanie Parker |
 | 257 | 286 | KimoKoala |
 | 258 | 285 | Kim Klutz Olson |
 | 259 | 284 | Glitzy Corner |
@@ -293,8 +293,8 @@
 | 285 | 264 | ZeeZee |
 | 286 | 264 | Stella |
 | 287 | 263 | rebel4lyfe |
-| 288 | 262 | Selena Shaw |
-| 289 | 262 | Ruben Wheeler |
+| 288 | 262 | Ruben Wheeler |
+| 289 | 262 | Selena Shaw |
 | 290 | 262 | BigSammy420 |
 | 291 | 261 | Zethra Prenisha Rahming |
 | 292 | 260 | Carter Jones |
@@ -303,8 +303,8 @@
 | 295 | 259 | Montiette Mcglown |
 | 296 | 257 | PeaceOs |
 | 297 | 256 | Jade Rian |
-| 298 | 256 | Paige Kittles |
-| 299 | 256 | Brittany Marsh |
+| 298 | 256 | Brittany Marsh |
+| 299 | 256 | Paige Kittles |
 | 300 | 254 | Ari Droff |
 | 301 | 253 | Cool Buildout |
 | 302 | 253 | Autum Leigh |

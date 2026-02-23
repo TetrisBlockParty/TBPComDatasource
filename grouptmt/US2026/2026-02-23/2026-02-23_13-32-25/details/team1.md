@@ -129,8 +129,8 @@
 | 121 | 477 | Tonya Beasley |
 | 122 | 475 | Sarah Somers Gray |
 | 123 | 471 | Hyper |
-| 124 | 467 | Constance Risner |
-| 125 | 467 | Candy Jones |
+| 124 | 467 | Candy Jones |
+| 125 | 467 | Constance Risner |
 | 126 | 466 | Adrian Esteban |
 | 127 | 465 | Kristi Johnson |
 | 128 | 463 | Lexuriuos Lifestlye |
@@ -245,10 +245,10 @@
 | 237 | 316 | Sassy Builderline |
 | 238 | 315 | Mandyy Rae |
 | 239 | 314 | Daring Fitclear |
-| 240 | 313 | Cody Gates |
-| 241 | 313 | Sylvia Vasquez |
-| 242 | 312 | Mitchel White |
-| 243 | 312 | Jessi Sauer |
+| 240 | 313 | Sylvia Vasquez |
+| 241 | 313 | Cody Gates |
+| 242 | 312 | Jessi Sauer |
+| 243 | 312 | Mitchel White |
 | 244 | 310 | Bloknboy |
 | 245 | 308 | Speedy Liney |
 | 246 | 303 | Νεφ Όνυξ |

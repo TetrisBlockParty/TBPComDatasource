@@ -359,8 +359,8 @@
 | 351 | 926 | Deborah Miller |
 | 352 | 919 | Isaac Trappiel IV |
 | 353 | 918 | Amber Brion |
-| 354 | 917 | Nashu |
-| 355 | 917 | Jackie Burnett |
+| 354 | 917 | Jackie Burnett |
+| 355 | 917 | Nashu |
 | 356 | 916 | Butta |
 | 357 | 915 | Kelly Trent |
 | 358 | 914 | Shuany Arias |
@@ -392,8 +392,8 @@
 | 384 | 858 | Lauren Fitzgerald Thomas |
 | 385 | 856 | Jelly |
 | 386 | 856 | Mighty Shatterfit |
-| 387 | 853 | Mandi Douglas Hilt |
-| 388 | 853 | Meghan M |
+| 387 | 853 | Meghan M |
+| 388 | 853 | Mandi Douglas Hilt |
 | 389 | 851 | Johnny Yeates |
 | 390 | 848 | Misti Markijohn |
 | 391 | 846 | Kayla |
@@ -413,8 +413,8 @@
 | 405 | 828 | Desire Rice |
 | 406 | 828 | Kimmy Newman |
 | 407 | 825 | Jeremy Parodi |
-| 408 | 824 | Khalil Lowe |
-| 409 | 824 | Danielle Johnson-Chandler |
+| 408 | 824 | Danielle Johnson-Chandler |
+| 409 | 824 | Khalil Lowe |
 | 410 | 822 | Lola Contreras |
 | 411 | 819 | Victoria Regina Girolami |
 | 412 | 816 | Beth |
@@ -546,8 +546,8 @@
 | 538 | 667 | Rhonda Milstead |
 | 539 | 666 | Aishah Brice |
 | 540 | 664 | Sleepypanda67 |
-| 541 | 663 | Lyndi Robinson Wakefield |
-| 542 | 663 | Martina Gabrielle LaPolla |
+| 541 | 663 | Martina Gabrielle LaPolla |
+| 542 | 663 | Lyndi Robinson Wakefield |
 | 543 | 662 | Samie Dayle |
 | 544 | 662 | Jennifer Monroe Kelly |
 | 545 | 661 | Anthony Mignacca |
