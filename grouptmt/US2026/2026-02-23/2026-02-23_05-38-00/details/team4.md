@@ -59,8 +59,8 @@
 | 51 | 870 | BertMofo |
 | 52 | 863 | Pee |
 | 53 | 853 | TeeJ |
-| 54 | 846 | Lucille Truesdale |
-| 55 | 846 | Christine Marie |
+| 54 | 846 | Christine Marie |
+| 55 | 846 | Lucille Truesdale |
 | 56 | 845 | LisaJo Picken Buchanan |
 | 57 | 843 | Shelly Chandler |
 | 58 | 834 | quicksand420 |
@@ -68,8 +68,8 @@
 | 60 | 807 | Rachel Anne |
 | 61 | 803 | Amelpss |
 | 62 | 788 | Julian Garcia |
-| 63 | 781 | Ashley Ingram |
-| 64 | 781 | Chilly Line |
+| 63 | 781 | Chilly Line |
+| 64 | 781 | Ashley Ingram |
 | 65 | 767 | Shannon Ferrari |
 | 66 | 766 | Edward White |
 | 67 | 766 | Robin Watters |
@@ -96,8 +96,8 @@
 | 88 | 664 | Valerie Roberts |
 | 89 | 659 | Jamie Gustafson |
 | 90 | 650 | KJ Pool |
-| 91 | 647 | Shauna Havard |
-| 92 | 647 | KM8 |
+| 91 | 647 | KM8 |
+| 92 | 647 | Shauna Havard |
 | 93 | 646 | Eric Mcgaughy |
 | 94 | 626 | Brittney Griggs |
 | 95 | 624 | Judy Cox |
@@ -146,8 +146,8 @@
 | 138 | 421 | JIGsaw ~(•¿°)~ |
 | 139 | 421 | Kesha Brady |
 | 140 | 419 | Klo |
-| 141 | 418 | Marie-Pier Desjardins |
-| 142 | 418 | Lush Linkfall |
+| 141 | 418 | Lush Linkfall |
+| 142 | 418 | Marie-Pier Desjardins |
 | 143 | 416 | Chaz Duncan |
 | 144 | 414 | Nope Young |
 | 145 | 412 | Jessica Bohlken |
@@ -211,12 +211,12 @@
 | 203 | 305 | Melvin Baird |
 | 204 | 304 | Lindsay Ball |
 | 205 | 301 | Andria Lynn |
-| 206 | 300 | Zakia Monae |
-| 207 | 300 | Dana Scott |
+| 206 | 300 | Dana Scott |
+| 207 | 300 | Zakia Monae |
 | 208 | 300 | Dihcheese444 |
 | 209 | 295 | Keshia Lyons |
-| 210 | 294 | Porkobello |
-| 211 | 294 | Calvin Cannon |
+| 210 | 294 | Calvin Cannon |
+| 211 | 294 | Porkobello |
 | 212 | 292 | Epic Curvetile |
 | 213 | 290 | Jared Gutwein |
 | 214 | 290 | Rebecca Morris |
@@ -410,9 +410,9 @@
 | 402 | 169 | Dante Korleon |
 | 403 | 169 | Jessica Atkinson |
 | 404 | 168 | Ruby Khalisadar |
-| 405 | 167 | Carla Harris |
-| 406 | 167 | Snippy Clearer |
-| 407 | 167 | Tyler Bechtel |
+| 405 | 167 | Tyler Bechtel |
+| 406 | 167 | Carla Harris |
+| 407 | 167 | Snippy Clearer |
 | 408 | 166 | Gracie Ann Taylor |
 | 409 | 166 | Reds Bella |
 | 410 | 165 | Vic |

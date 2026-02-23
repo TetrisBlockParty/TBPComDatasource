@@ -129,8 +129,8 @@
 | 121 | 443 | Steve Schneider |
 | 122 | 439 | Dee Perry |
 | 123 | 436 | Tonya Beasley |
-| 124 | 434 | Ty Brown |
-| 125 | 434 | Yvonne Marie |
+| 124 | 434 | Yvonne Marie |
+| 125 | 434 | Ty Brown |
 | 126 | 428 | Ly Phethmany |
 | 127 | 426 | Maria C. Hernandez |
 | 128 | 425 | Dandy Basegrid |
@@ -157,8 +157,8 @@
 | 149 | 376 | Brian Richardsson |
 | 150 | 376 | Death |
 | 151 | 375 | Tanya Carpenter-Reynolds |
-| 152 | 371 | Jason Savage |
-| 153 | 371 | Basment Living |
+| 152 | 371 | Basment Living |
+| 153 | 371 | Jason Savage |
 | 154 | 369 | Christy Jones |
 | 155 | 368 | Amanda Johnson Huffman |
 | 156 | 367 | Sharon Reynolds |

@@ -182,8 +182,8 @@
 | 174 | 558 | Patti Skiles |
 | 175 | 556 | Elissa S-k |
 | 176 | 553 | LaTanya GeminiondaRise Johnson |
-| 177 | 546 | Cynthia Castros-Hampton |
-| 178 | 546 | Mykal Burton |
+| 177 | 546 | Mykal Burton |
+| 178 | 546 | Cynthia Castros-Hampton |
 | 179 | 541 | Tasha Schriewer |
 | 180 | 540 | Shawn Miller |
 | 181 | 535 | Jone |
@@ -217,8 +217,8 @@
 | 209 | 465 | Annie Déè |
 | 210 | 464 | Shunta Jacobs |
 | 211 | 464 | Danielle Weikel |
-| 212 | 458 | Tom Nault |
-| 213 | 458 | Danielle Rhoades |
+| 212 | 458 | Danielle Rhoades |
+| 213 | 458 | Tom Nault |
 | 214 | 457 | Edwin Calvillo Jr. |
 | 215 | 454 | Joye Sims Binion |
 | 216 | 453 | Staci George Fitzsimmons |
