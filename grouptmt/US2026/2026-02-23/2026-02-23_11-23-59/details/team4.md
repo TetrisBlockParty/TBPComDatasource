@@ -129,8 +129,8 @@
 | 121 | 514 | Serena Goodridge |
 | 122 | 514 | Scott Jameson |
 | 123 | 513 | Erin Thomas |
-| 124 | 512 | Cristy Duerksen |
-| 125 | 512 | Casey Jeffcoat |
+| 124 | 512 | Casey Jeffcoat |
+| 125 | 512 | Cristy Duerksen |
 | 126 | 509 | Leslie Nicole |
 | 127 | 493 | Carly Alexis |
 | 128 | 485 | Melissa Adams |
@@ -189,15 +189,15 @@
 | 181 | 365 | Jeff Brian Gates |
 | 182 | 361 | Danielle Kollias |
 | 183 | 361 | Carlos Ramirez |
-| 184 | 358 | A5! |
-| 185 | 358 | Twisty Cascadezone |
+| 184 | 358 | Twisty Cascadezone |
+| 185 | 358 | A5! |
 | 186 | 355 | James Hurley Jr. |
 | 187 | 354 | TRCuse |
 | 188 | 352 | Lori |
 | 189 | 352 | Sue Joyce Staats |
 | 190 | 349 | Rafael Valentin |
-| 191 | 348 | David Lay |
-| 192 | 348 | April Rondinone |
+| 191 | 348 | April Rondinone |
+| 192 | 348 | David Lay |
 | 193 | 347 | Daria Rycewicz |
 | 194 | 347 | Crystal Nicolette Moore |
 | 195 | 347 | Bio Nelly |
@@ -207,8 +207,8 @@
 | 199 | 336 | JPW |
 | 200 | 332 | HastyGrabber |
 | 201 | 331 | Alan George LaRage |
-| 202 | 330 | blockstar |
-| 203 | 330 | Kathy Brookins |
+| 202 | 330 | Kathy Brookins |
+| 203 | 330 | blockstar |
 | 204 | 328 | scott |
 | 205 | 327 | J-Rizzle |
 | 206 | 324 | TinyLegoRose |
@@ -392,8 +392,8 @@
 | 384 | 189 | Berklie Apedaile |
 | 385 | 189 | Lauren Lamb |
 | 386 | 189 | Cool Towerbuilder |
-| 387 | 188 | Sharyn Lemire |
-| 388 | 188 | Frilly Blocky |
+| 387 | 188 | Frilly Blocky |
+| 388 | 188 | Sharyn Lemire |
 | 389 | 187 | Jenny Wells-Oakley |
 | 390 | 186 | Dandy Cascadefit |
 | 391 | 185 | Val Erie |
@@ -478,8 +478,8 @@
 | 470 | 158 | Jasmine S Caldwell |
 | 471 | 158 | Grann8 |
 | 472 | 157 | David Boggs |
-| 473 | 157 | LunaMoon |
-| 474 | 157 | Ryry |
+| 473 | 157 | Ryry |
+| 474 | 157 | LunaMoon |
 | 475 | 156 | Mighty Edgepiece |
 | 476 | 155 | tipsy tiger |
 | 477 | 155 | Shirl |

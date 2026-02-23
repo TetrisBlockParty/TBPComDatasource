@@ -316,8 +316,8 @@
 | 308 | 342 | Cynthia Herrmann Egland |
 | 309 | 341 | Rick Poppen |
 | 310 | 341 | Lys |
-| 311 | 340 | KayB |
-| 312 | 340 | Erika Thornton |
+| 311 | 340 | Erika Thornton |
+| 312 | 340 | KayB |
 | 313 | 338 | fraulila |
 | 314 | 336 | Foltz Lee Kelli |
 | 315 | 335 | victory |
@@ -490,10 +490,10 @@
 | 482 | 229 | MizzMonick Smith |
 | 483 | 228 | Dapper Liney |
 | 484 | 227 | Meowsa |
-| 485 | 226 | paranoid |
-| 486 | 226 | Ryan Williams |
-| 487 | 225 | sofaking |
-| 488 | 225 | Sassy Tiler |
+| 485 | 226 | Ryan Williams |
+| 486 | 226 | paranoid |
+| 487 | 225 | Sassy Tiler |
+| 488 | 225 | sofaking |
 | 489 | 224 | Sarah Morris |
 | 490 | 224 | Christina Rotz Shows |
 | 491 | 224 | Cranky Corner |
@@ -513,8 +513,8 @@
 | 505 | 218 | Tina Smith Roy |
 | 506 | 218 | Dapper Chiseler |
 | 507 | 217 | Jazzy Spinfit |
-| 508 | 217 | Tia Moore |
-| 509 | 217 | Katie Leigh Blankenship |
+| 508 | 217 | Katie Leigh Blankenship |
+| 509 | 217 | Tia Moore |
 | 510 | 216 | Amanda Declue |
 | 511 | 214 | Crystal Hine |
 | 512 | 214 | Amy Fuller Heaton |
@@ -648,8 +648,8 @@
 | 640 | 178 | Melissa Snyder |
 | 641 | 177 | Matty Ray |
 | 642 | 177 | Elizabeth Renee |
-| 643 | 177 | Jm |
-| 644 | 177 | Chad |
+| 643 | 177 | Chad |
+| 644 | 177 | Jm |
 | 645 | 176 | Jackie-Lynne Goertzen |
 | 646 | 176 | Bekah Dietrich |
 | 647 | 175 | Giggy Balanceblock |

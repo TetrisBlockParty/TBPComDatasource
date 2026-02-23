@@ -229,8 +229,8 @@
 | 221 | 1245 | Missie Lawson Gebhardt |
 | 222 | 1240 | Brandon Armstrong |
 | 223 | 1237 | Megan Ferguson Leone |
-| 224 | 1232 | Groovy Puzzle |
-| 225 | 1232 | Ambyre Patterson |
+| 224 | 1232 | Ambyre Patterson |
+| 225 | 1232 | Groovy Puzzle |
 | 226 | 1230 | Megan Garrick |
 | 227 | 1221 | Jane Fong |
 | 228 | 1217 | Lucky Ladybug |
@@ -390,8 +390,8 @@
 | 382 | 832 | Nicole L Morelli |
 | 383 | 831 | Christina Lewis-Vickers |
 | 384 | 830 | Smashanator |
-| 385 | 829 | Angie Bolton Workman |
-| 386 | 829 | Jessica Wayne Cornwall |
+| 385 | 829 | Jessica Wayne Cornwall |
+| 386 | 829 | Angie Bolton Workman |
 | 387 | 828 | Kimmy Newman |
 | 388 | 825 | Jeremy Parodi |
 | 389 | 824 | Khalil Lowe |
@@ -776,8 +776,8 @@
 | 768 | 480 | Jennifer Leigh |
 | 769 | 480 | Cassi Owens |
 | 770 | 479 | bbv |
-| 771 | 479 | Ashlee Cruz |
-| 772 | 479 | Emilie Desma |
+| 771 | 479 | Emilie Desma |
+| 772 | 479 | Ashlee Cruz |
 | 773 | 479 | Jason Garnatz |
 | 774 | 478 | Mary Marie |
 | 775 | 477 | Catherine Marsh Gruda |

@@ -91,8 +91,8 @@
 | 83 | 648 | Evie Khalil |
 | 84 | 647 | Jason Jones |
 | 85 | 600 | Greg Hart |
-| 86 | 598 | Kellie |
-| 87 | 598 | Erin Hodges Plumb |
+| 86 | 598 | Erin Hodges Plumb |
+| 87 | 598 | Kellie |
 | 88 | 588 | Lori Sanders- Davis |
 | 89 | 584 | Jen Sartain |
 | 90 | 583 | Theo Pinnow |
