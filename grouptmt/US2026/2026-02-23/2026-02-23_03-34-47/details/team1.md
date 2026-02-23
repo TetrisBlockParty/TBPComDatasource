@@ -160,13 +160,13 @@
 | 152 | 364 | Serina Marie |
 | 153 | 360 | Wisa |
 | 154 | 355 | Carrie Smith |
-| 155 | 353 | Jaimie Lynn |
-| 156 | 353 | Josh Riemer |
+| 155 | 353 | Josh Riemer |
+| 156 | 353 | Jaimie Lynn |
 | 157 | 350 | Tipsy Strikerpiece |
 | 158 | 346 | GATOR |
 | 159 | 345 | Jerry Danowski |
-| 160 | 344 | Cool Shiftsnap |
-| 161 | 344 | Rachael |
+| 160 | 344 | Rachael |
+| 161 | 344 | Cool Shiftsnap |
 | 162 | 343 | Chelsea Dahlquist |
 | 163 | 343 | Elaine Elaine |
 | 164 | 341 | Nick R Montague |
@@ -183,8 +183,8 @@
 | 175 | 324 | Ananda Mendez |
 | 176 | 324 | Rat666 |
 | 177 | 323 | Madison Wicks |
-| 178 | 318 | Virginia Gray Floyd |
-| 179 | 318 | Jessica Sheehan |
+| 178 | 318 | Jessica Sheehan |
+| 179 | 318 | Virginia Gray Floyd |
 | 180 | 317 | Sarah Roberts |
 | 181 | 316 | Reesey Enyart |
 | 182 | 315 | Tyler Werts |
@@ -237,8 +237,8 @@
 | 229 | 263 | Jessie Lynn |
 | 230 | 263 | Perky Shiftsnap |
 | 231 | 261 | John J. Cronin |
-| 232 | 260 | Lacy Wolfe |
-| 233 | 260 | Marianita Garcia |
+| 232 | 260 | Marianita Garcia |
+| 233 | 260 | Lacy Wolfe |
 | 234 | 257 | Lakeisha Chapman |
 | 235 | 256 | Snappy Matcher |
 | 236 | 255 | Giggly Builderline |
@@ -370,11 +370,11 @@
 | 362 | 182 | Barrbaric |
 | 363 | 182 | Isaiah |
 | 364 | 181 | David DeSantis |
-| 365 | 180 | Discovery Point |
-| 366 | 180 | Rico Rico |
+| 365 | 180 | Rico Rico |
+| 366 | 180 | Discovery Point |
 | 367 | 179 | Ryan White |
-| 368 | 178 | Gabrielle Louise Malloch |
-| 369 | 178 | Vivienne Carter |
+| 368 | 178 | Vivienne Carter |
+| 369 | 178 | Gabrielle Louise Malloch |
 | 370 | 178 | san |
 | 371 | 177 | Jacqueline Unique |
 | 372 | 177 | ash |

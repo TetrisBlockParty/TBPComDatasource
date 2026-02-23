@@ -57,8 +57,8 @@
 | 49 | 863 | Pee |
 | 50 | 855 | Marvin Lou Martin |
 | 51 | 853 | TeeJ |
-| 52 | 846 | Christine Marie |
-| 53 | 846 | Lucille Truesdale |
+| 52 | 846 | Lucille Truesdale |
+| 53 | 846 | Christine Marie |
 | 54 | 845 | LisaJo Picken Buchanan |
 | 55 | 843 | Shelly Chandler |
 | 56 | 841 | Anthony Bryan Riva |
@@ -82,8 +82,8 @@
 | 74 | 735 | Denise Carlson |
 | 75 | 716 | TheNeesh50 |
 | 76 | 706 | Lisa Davis |
-| 77 | 704 | D3TROITB0RN74 |
-| 78 | 704 | Crystal Carroll |
+| 77 | 704 | Crystal Carroll |
+| 78 | 704 | D3TROITB0RN74 |
 | 79 | 703 | Savannah Overdorf |
 | 80 | 697 | Alyssa Papen |
 | 81 | 684 | Jonathan Kimbrough |
@@ -156,8 +156,8 @@
 | 148 | 393 | Girl |
 | 149 | 391 | Ramel Rhodes |
 | 150 | 389 | Joseph Guthrie |
-| 151 | 387 | Lucas J Sutton |
-| 152 | 387 | 🥔🥔 Spudz |
+| 151 | 387 | 🥔🥔 Spudz |
+| 152 | 387 | Lucas J Sutton |
 | 153 | 377 | Carrie Brian |
 | 154 | 375 | Desi Desporte |
 | 155 | 375 | ThaEviLJeNiuZ |
@@ -169,16 +169,16 @@
 | 161 | 368 | Silly Zonebuilder |
 | 162 | 368 | Raegan Lane-Ross |
 | 163 | 365 | Lindsey Gonzalez |
-| 164 | 361 | Melissa Adams |
-| 165 | 361 | Danielle Kollias |
+| 164 | 361 | Danielle Kollias |
+| 165 | 361 | Melissa Adams |
 | 166 | 359 | Keith Kelley |
 | 167 | 358 | A5! |
 | 168 | 356 | George Nutt |
 | 169 | 352 | Sue Joyce Staats |
-| 170 | 349 | Rafael Valentin |
-| 171 | 349 | Twisty Cascadezone |
-| 172 | 348 | TRCuse |
-| 173 | 348 | April Rondinone |
+| 170 | 349 | Twisty Cascadezone |
+| 171 | 349 | Rafael Valentin |
+| 172 | 348 | April Rondinone |
+| 173 | 348 | TRCuse |
 | 174 | 347 | Daria Rycewicz |
 | 175 | 339 | David Lay |
 | 176 | 333 | shark tato |
@@ -217,8 +217,8 @@
 | 209 | 288 | Adam Stephanie Parker |
 | 210 | 288 | Leah Kutz Zirbel |
 | 211 | 287 | Plucky Patternblock |
-| 212 | 286 | Sam Bishop |
-| 213 | 286 | Zesty Twistbuilder |
+| 212 | 286 | Zesty Twistbuilder |
+| 213 | 286 | Sam Bishop |
 | 214 | 284 | Mimi |
 | 215 | 282 | Matt Gooder |
 | 216 | 282 | Kim Klutz Olson |
@@ -279,8 +279,8 @@
 | 271 | 233 | Chair |
 | 272 | 232 | Rio Rocha |
 | 273 | 228 | Bethany Ison |
-| 274 | 226 | Cranky Rollpiece |
-| 275 | 226 | Dizzy Matchzone |
+| 274 | 226 | Dizzy Matchzone |
+| 275 | 226 | Cranky Rollpiece |
 | 276 | 225 | Jenna McGeorge |
 | 277 | 223 | Amanda Christine |
 | 278 | 223 | Adawna Swires |
