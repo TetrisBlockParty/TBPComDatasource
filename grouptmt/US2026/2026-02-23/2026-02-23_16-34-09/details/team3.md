@@ -123,8 +123,8 @@
 | 115 | 896 | Jesse Olive |
 | 116 | 878 | Shane Wilson Jr. |
 | 117 | 874 | Jessica Pineda-Lopez |
-| 118 | 868 | Felicia Rocha |
-| 119 | 868 | Sarajane Lokan |
+| 118 | 868 | Sarajane Lokan |
+| 119 | 868 | Felicia Rocha |
 | 120 | 864 | Sunny Rotater |
 | 121 | 848 | Patricia Gadsden |
 | 122 | 846 | Kristie |
@@ -478,8 +478,8 @@
 | 470 | 268 | Julia Nicole |
 | 471 | 267 | April Matthew Kibble |
 | 472 | 267 | Michael Kimbro |
-| 473 | 266 | Quirky Dropzone |
-| 474 | 266 | Sarah Muradyan |
+| 473 | 266 | Sarah Muradyan |
+| 474 | 266 | Quirky Dropzone |
 | 475 | 265 | Danielle Dani |
 | 476 | 264 | Reina Roth |
 | 477 | 264 | Jackie Miller |

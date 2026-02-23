@@ -72,8 +72,8 @@
 | 64 | 898 | Dawn Sheppard |
 | 65 | 892 | Seth Wesson |
 | 66 | 865 | Erin Hodges Plumb |
-| 67 | 864 | comrade fish |
-| 68 | 864 | Sevens4L |
+| 67 | 864 | Sevens4L |
+| 68 | 864 | comrade fish |
 | 69 | 853 | Lawrence Belanger |
 | 70 | 850 | Jacqueline Williams |
 | 71 | 848 | Drew Magnus |
@@ -761,7 +761,7 @@
 | 753 | 110 | Neely Janelle Stewart |
 | 754 | 110 | Sam Rosado |
 | 755 | 109 | Bustin’ Blocks |
-| 756 | 109 | Peachy Wipebuilder |
+| 756 | 109 | Brave Stacky |
 | 757 | 109 | Brian |
 | 758 | 109 | Chadocho |
 | 759 | 109 | Peachy Wipebuilder |
