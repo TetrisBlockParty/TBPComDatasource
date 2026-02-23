@@ -123,8 +123,8 @@
 | 115 | 464 | Lori Sanders- Davis |
 | 116 | 463 | Lexuriuos Lifestlye |
 | 117 | 462 | Luciano Moreira |
-| 118 | 458 | Evan Richmond |
-| 119 | 458 | Goose egg |
+| 118 | 458 | Goose egg |
+| 119 | 458 | Evan Richmond |
 | 120 | 453 | Brandi Huntington |
 | 121 | 452 | Hyper |
 | 122 | 451 | Plucky Ziggy |
@@ -141,8 +141,8 @@
 | 133 | 429 | Kristi Johnson |
 | 134 | 428 | Ly Phethmany |
 | 135 | 426 | Maria C. Hernandez |
-| 136 | 425 | Tyler Werts |
-| 137 | 425 | Dandy Basegrid |
+| 136 | 425 | Dandy Basegrid |
+| 137 | 425 | Tyler Werts |
 | 138 | 423 | ALFD |
 | 139 | 417 | Phu ckalldems |
 | 140 | 411 | BadG52 |
@@ -271,8 +271,8 @@
 | 263 | 260 | Marianita Garcia |
 | 264 | 260 | Lacy Wolfe |
 | 265 | 256 | Chris Sigurdson |
-| 266 | 255 | Beazel75 |
-| 267 | 255 | Giggly Builderline |
+| 266 | 255 | Giggly Builderline |
+| 267 | 255 | Beazel75 |
 | 268 | 254 | Al Smith Jr |
 | 269 | 254 | Tyler Hertzog |
 | 270 | 253 | Cece Ibarra |

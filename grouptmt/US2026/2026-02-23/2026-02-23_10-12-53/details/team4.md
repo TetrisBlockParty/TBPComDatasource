@@ -76,8 +76,8 @@
 | 68 | 787 | loulou |
 | 69 | 767 | Shannon Ferrari |
 | 70 | 766 | Robin Watters |
-| 71 | 765 | Robin Getchel |
-| 72 | 765 | Denise Carlson |
+| 71 | 765 | Denise Carlson |
+| 72 | 765 | Robin Getchel |
 | 73 | 753 | TheNeesh50 |
 | 74 | 752 | Shane Kalamata Platoon |
 | 75 | 749 | Dustee Craddock-Harrison |
@@ -563,8 +563,8 @@
 | 555 | 129 | Jessica Wells |
 | 556 | 129 | Dreamy Snapgrid |
 | 557 | 128 | Zesty Linkgrid |
-| 558 | 128 | Raymond Roberts |
-| 559 | 128 | Lazy Glidepiece |
+| 558 | 128 | Lazy Glidepiece |
+| 559 | 128 | Raymond Roberts |
 | 560 | 127 | Jay You |
 | 561 | 126 | Jennifer Renee |
 | 562 | 126 | PAPatty |

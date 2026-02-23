@@ -350,11 +350,11 @@
 | 342 | 907 | Gene Mills |
 | 343 | 904 | John Bednarik |
 | 344 | 904 | Bee |
-| 345 | 903 | Eric Castaneda |
-| 346 | 903 | Giggy Blocker |
+| 345 | 903 | Giggy Blocker |
+| 346 | 903 | Eric Castaneda |
 | 347 | 901 | Kevin Sees |
-| 348 | 899 | Chevy |
-| 349 | 899 | Patrick Bartlett |
+| 348 | 899 | Patrick Bartlett |
+| 349 | 899 | Chevy |
 | 350 | 898 | Jamie Otero |
 | 351 | 895 | Donna Colby |
 | 352 | 894 | Adira Brown |
@@ -496,8 +496,8 @@
 | 488 | 689 | Gauri Shrotriya |
 | 489 | 686 | Christine Coughlin |
 | 490 | 684 | Sarah DeHart |
-| 491 | 684 | Ellie Jonas |
-| 492 | 684 | Ann Knutson Anderson |
+| 491 | 684 | Ann Knutson Anderson |
+| 492 | 684 | Ellie Jonas |
 | 493 | 682 | Vanessa Moreno |
 | 494 | 682 | Antionette Sewell |
 | 495 | 681 | Gloria Liu |
@@ -1144,8 +1144,8 @@
 | 1136 | 338 | Goofy Blockfall |
 | 1137 | 337 | Jennifer Mahon |
 | 1138 | 337 | Spicy Riser |
-| 1139 | 337 | Sassy Pattern |
-| 1140 | 337 | Harrison Littrell |
+| 1139 | 337 | Harrison Littrell |
+| 1140 | 337 | Sassy Pattern |
 | 1141 | 337 | Stanley Vanekelenburg |
 | 1142 | 336 | Crystal Cornelius |
 | 1143 | 336 | Katrina Willmon |
