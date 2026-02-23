@@ -204,8 +204,8 @@
 | 196 | 1601 | Ray Ray Prado |
 | 197 | 1600 | Mo Shine On |
 | 198 | 1592 | Dolores Russworn |
-| 199 | 1590 | Amy Sayers |
-| 200 | 1590 | Jaycee |
+| 199 | 1590 | Jaycee |
+| 200 | 1590 | Amy Sayers |
 | 201 | 1585 | Glitzy Stackzone |
 | 202 | 1581 | Tommy Tha Boss Gunz |
 | 203 | 1580 | Sally Dennis |
@@ -391,8 +391,8 @@
 | 383 | 983 | Crystie Hicks |
 | 384 | 978 | Barry Britt |
 | 385 | 976 | Sam Joe |
-| 386 | 975 | Hyper Cluster |
-| 387 | 975 | Mandi Douglas Hilt |
+| 386 | 975 | Mandi Douglas Hilt |
+| 387 | 975 | Hyper Cluster |
 | 388 | 974 | Boldy Cascadepiece |
 | 389 | 974 | Jeremy Parodi |
 | 390 | 971 | Jojo Momma |
@@ -400,9 +400,9 @@
 | 392 | 969 | Steve Man |
 | 393 | 965 | Amanda Woodruff |
 | 394 | 962 | Antionette Sewell |
-| 395 | 960 | KhaosLord |
-| 396 | 960 | Alyssa Hileman |
-| 397 | 958 | Doowop40 |
+| 395 | 960 | Alyssa Hileman |
+| 396 | 960 | KhaosLord |
+| 397 | 958 | Nicole Cannon |
 | 398 | 958 | Brenda Messer |
 | 399 | 958 | Doowop40 |
 | 400 | 957 | Block Master |
@@ -808,8 +808,8 @@
 | 800 | 559 | Alexx Anaya |
 | 801 | 558 | NanDa Cruzan VI |
 | 802 | 558 | Alicia Moreno |
-| 803 | 557 | Samuel Labruno |
-| 804 | 557 | Sassy Linkroll |
+| 803 | 557 | Sassy Linkroll |
+| 804 | 557 | Samuel Labruno |
 | 805 | 557 | Anita Rose Green |
 | 806 | 556 | Kamilya Rembert |
 | 807 | 556 | Rhonda Petro |

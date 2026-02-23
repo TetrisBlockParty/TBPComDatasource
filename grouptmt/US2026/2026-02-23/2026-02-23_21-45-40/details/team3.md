@@ -500,8 +500,8 @@
 | 492 | 289 | DidIdothat |
 | 493 | 287 | Jessica Lynn French |
 | 494 | 287 | Sunny Lift |
-| 495 | 284 | Linda Draper |
-| 496 | 284 | Hanna Kim |
+| 495 | 284 | Hanna Kim |
+| 496 | 284 | Linda Draper |
 | 497 | 284 | Victoria Lexis Dyer |
 | 498 | 283 | luluraine |
 | 499 | 281 | Ktfreeee |

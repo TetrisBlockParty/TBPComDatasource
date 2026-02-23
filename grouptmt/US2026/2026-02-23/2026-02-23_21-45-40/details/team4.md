@@ -60,8 +60,8 @@
 | 52 | 1155 | Jae Job |
 | 53 | 1150 | Kimyatta Cavin |
 | 54 | 1105 | Ashley Ingram |
-| 55 | 1082 | Dion Crommarty |
-| 56 | 1082 | Avy Absol |
+| 55 | 1082 | Avy Absol |
+| 56 | 1082 | Dion Crommarty |
 | 57 | 1065 | Dustee Craddock-Harrison |
 | 58 | 1049 | Heather Tushner |
 | 59 | 1046 | Johnathan Martinez |
@@ -368,8 +368,8 @@
 | 360 | 265 | Christine Therrien |
 | 361 | 265 | Degenerate |
 | 362 | 264 | AyeKay |
-| 363 | 262 | Selena Shaw |
-| 364 | 262 | Ruben Wheeler |
+| 363 | 262 | Ruben Wheeler |
+| 364 | 262 | Selena Shaw |
 | 365 | 261 | Jason Frehner |
 | 366 | 260 | Carter Jones |
 | 367 | 259 | Allen Lloyd |
@@ -400,8 +400,8 @@
 | 392 | 246 | giantslover514 |
 | 393 | 244 | Elizabeth Tinoco |
 | 394 | 244 | Perky Piecegrid |
-| 395 | 243 | Val Erie |
-| 396 | 243 | tipsy tiger |
+| 395 | 243 | tipsy tiger |
+| 396 | 243 | Val Erie |
 | 397 | 242 | PurpleMoonMa |
 | 398 | 242 | PennyCandee |
 | 399 | 240 | Perky Patternblock |
@@ -461,17 +461,17 @@
 | 453 | 217 | Cheery Fitline |
 | 454 | 216 | Ryry |
 | 455 | 215 | Squeezy Pearsall |
-| 456 | 215 | Tanya Abernathy Jackson |
-| 457 | 215 | Dorian |
+| 456 | 215 | Dorian |
+| 457 | 215 | Tanya Abernathy Jackson |
 | 458 | 214 | B Renee Desjardin |
 | 459 | 214 | Susan R. Wilson |
-| 460 | 213 | Candice Carasiti |
-| 461 | 213 | Derick |
+| 460 | 213 | Derick |
+| 461 | 213 | Candice Carasiti |
 | 462 | 212 | Mike Solo |
 | 463 | 211 | Becky Shimko |
-| 464 | 209 | Calvin Dennis |
-| 465 | 209 | Snippy Puzzle |
-| 466 | 209 | Matthew Pate |
+| 464 | 209 | Matthew Pate |
+| 465 | 209 | Calvin Dennis |
+| 466 | 209 | Snippy Puzzle |
 | 467 | 209 | Marcus Todd |
 | 468 | 208 | Moonsterix |
 | 469 | 208 | Wacky Blockclear |
@@ -493,9 +493,9 @@
 | 485 | 203 | Laurmarcar |
 | 486 | 203 | Gilles Lanctot |
 | 487 | 202 | Jennifer Brown |
-| 488 | 201 | Jake Roberts |
-| 489 | 201 | O block |
-| 490 | 201 | Walter Beltran |
+| 488 | 201 | O block |
+| 489 | 201 | Walter Beltran |
+| 490 | 201 | Jake Roberts |
 | 491 | 199 | Eri Kka |
 | 492 | 199 | Michelle Morris |
 | 493 | 198 | Helen Chao |
@@ -511,8 +511,8 @@
 | 503 | 192 | Rebecca A Rit |
 | 504 | 192 | Jacob Campbell |
 | 505 | 191 | Norman Klick |
-| 506 | 191 | Earnest Thompson |
-| 507 | 191 | Jobadia Steelerton |
+| 506 | 191 | Jobadia Steelerton |
+| 507 | 191 | Earnest Thompson |
 | 508 | 190 | wombat |
 | 509 | 190 | Robert Rangel |
 | 510 | 189 | Brandon Link |
@@ -553,9 +553,9 @@
 | 545 | 176 | Jlmendillo |
 | 546 | 176 | Red |
 | 547 | 175 | Veronica Garza |
-| 548 | 173 | Chariss Newsom |
+| 548 | 173 | Groovy Brickmatch |
 | 549 | 173 | Christine Simmons |
-| 550 | 173 | Groovy Brickmatch |
+| 550 | 173 | Chariss Newsom |
 | 551 | 173 | Joshua Cuellar |
 | 552 | 172 | Mary Miller |
 | 553 | 172 | Janis Brown |
@@ -568,8 +568,8 @@
 | 560 | 170 | Peppy Drop |
 | 561 | 170 | Joshua W. Benton |
 | 562 | 170 | Elie Pean |
-| 563 | 169 | Dante Korleon |
-| 564 | 169 | Joseph Pace |
+| 563 | 169 | Joseph Pace |
+| 564 | 169 | Dante Korleon |
 | 565 | 168 | LunaMoon |
 | 566 | 168 | Melissa VanBourgondien |
 | 567 | 167 | Carla Harris |
@@ -861,8 +861,8 @@
 | 853 | 101 | Beth Helms |
 | 854 | 101 | Kris Johnson |
 | 855 | 100 | Aly Eggers |
-| 856 | 100 | Joyce Fees |
-| 857 | 100 | Skyler Patzer |
+| 856 | 100 | Skyler Patzer |
+| 857 | 100 | Joyce Fees |
 | 858 | 100 | Vanita M Hemphill |
 | 859 | 99 | Sassy Gridzone |
 | 860 | 99 | Lynette Manning |
@@ -1007,8 +1007,8 @@
 | 999 | 80 | Loopy Bouncer |
 | 1000 | 80 | Og Knockout |
 | 1001 | 80 | Jr McQue |
-| 1002 | 79 | Giggy Bridgepiece |
-| 1003 | 79 | Phyllis Mitchell |
+| 1002 | 79 | Phyllis Mitchell |
+| 1003 | 79 | Giggy Bridgepiece |
 | 1004 | 79 | Jason M Cadreau |
 | 1005 | 79 | Garrett G-luv Kyser |
 | 1006 | 79 | Joleeoleeooo |
