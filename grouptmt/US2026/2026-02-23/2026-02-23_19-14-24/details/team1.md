@@ -161,8 +161,8 @@
 | 153 | 470 | Candy Jones |
 | 154 | 467 | Constance Risner |
 | 155 | 463 | Nicole Roseberry Weber |
-| 156 | 462 | Luciano Moreira |
-| 157 | 462 | Hasty Cascader |
+| 156 | 462 | Hasty Cascader |
+| 157 | 462 | Luciano Moreira |
 | 158 | 460 | Steve Schneider |
 | 159 | 458 | Goose egg |
 | 160 | 457 | phrmblk24 |
@@ -261,9 +261,9 @@
 | 253 | 335 | Eric DeSimone |
 | 254 | 334 | Tipsy Builder |
 | 255 | 333 | Wayne Saunders |
-| 256 | 332 | Plucky Stacky |
-| 257 | 332 | Happy Basegrid |
-| 258 | 332 | Eddie Dillon |
+| 256 | 332 | Eddie Dillon |
+| 257 | 332 | Plucky Stacky |
+| 258 | 332 | Happy Basegrid |
 | 259 | 331 | Larissa Marie Nelson |
 | 260 | 329 | Frothy Pattern |
 | 261 | 328 | Daring Fitclear |
@@ -455,8 +455,8 @@
 | 447 | 209 | Pauline Cortez |
 | 448 | 209 | Dizzy Riseclear |
 | 449 | 209 | Beau Galvan |
-| 450 | 208 | Donna Addison Williams |
-| 451 | 208 | Andrew Boone |
+| 450 | 208 | Andrew Boone |
+| 451 | 208 | Donna Addison Williams |
 | 452 | 207 | Leslie Bush Yarbrough |
 | 453 | 207 | Fresno Beotoni |
 | 454 | 205 | build master |
@@ -465,9 +465,9 @@
 | 457 | 203 | Amie Fields |
 | 458 | 202 | Buttons Stemm |
 | 459 | 201 | Tedashi |
-| 460 | 200 | Alphonza Keyes Jr. |
+| 460 | 200 | Jason Cox |
 | 461 | 200 | Renata Mabie |
-| 462 | 200 | Jason Cox |
+| 462 | 200 | Alphonza Keyes Jr. |
 | 463 | 199 | Tina Englert |
 | 464 | 198 | Larry Oaks |
 | 465 | 197 | Tiffany Daboss Seymour |

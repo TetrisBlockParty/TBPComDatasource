@@ -208,8 +208,8 @@
 | 200 | 1534 | Rosa Franklin |
 | 201 | 1529 | Howard Forest |
 | 202 | 1511 | Melissa Penelope Ann Dodge |
-| 203 | 1509 | Glitzy Stackzone |
-| 204 | 1509 | Whitney Nicole Waterman |
+| 203 | 1509 | Whitney Nicole Waterman |
+| 204 | 1509 | Glitzy Stackzone |
 | 205 | 1507 | Kiok |
 | 206 | 1504 | Hannah Erskine |
 | 207 | 1488 | Sommer Shope |

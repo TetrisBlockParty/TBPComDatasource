@@ -57,9 +57,9 @@
 | 49 | 1147 | Jae Job |
 | 50 | 1099 | Ashley Ingram |
 | 51 | 1085 | Kimyatta Cavin |
-| 52 | 1082 | Dawn Alexander |
-| 53 | 1082 | Avy Absol |
-| 54 | 1082 | Dion Crommarty |
+| 52 | 1082 | Avy Absol |
+| 53 | 1082 | Dion Crommarty |
+| 54 | 1082 | Dawn Alexander |
 | 55 | 1049 | Heather Tushner |
 | 56 | 1046 | Johnathan Martinez |
 | 57 | 1030 | Dustee Craddock-Harrison |
@@ -202,11 +202,11 @@
 | 194 | 423 | Crystal Nicolette Moore |
 | 195 | 422 | Zakia Monae |
 | 196 | 421 | JIGsaw ~(•¿°)~ |
-| 197 | 421 | Kesha Brady |
-| 198 | 421 | Sam Bishop |
+| 197 | 421 | Sam Bishop |
+| 198 | 421 | Kesha Brady |
 | 199 | 419 | Michele Plunkett |
-| 200 | 418 | Marie-Pier Desjardins |
-| 201 | 418 | Lush Linkfall |
+| 200 | 418 | Lush Linkfall |
+| 201 | 418 | Marie-Pier Desjardins |
 | 202 | 415 | Berklie Apedaile |
 | 203 | 413 | John Brunetti |
 | 204 | 413 | Circuit8 |
@@ -391,8 +391,8 @@
 | 383 | 235 | LaDonna LovinmesomeMe Lambert |
 | 384 | 234 | Diosa Ebalobo Magsael |
 | 385 | 234 | Amanda Christine |
-| 386 | 234 | Shanon Klair |
-| 387 | 234 | Richard-April Kice |
+| 386 | 234 | Richard-April Kice |
+| 387 | 234 | Shanon Klair |
 | 388 | 233 | Joseph Edmonson |
 | 389 | 232 | Jenny Wells-Oakley |
 | 390 | 230 | Chantilly Laace |
@@ -470,8 +470,8 @@
 | 462 | 200 | Sandra Safford |
 | 463 | 199 | Grann8 |
 | 464 | 199 | Michelle Morris |
-| 465 | 198 | Helen Chao |
-| 466 | 198 | Calvin Dennis |
+| 465 | 198 | Calvin Dennis |
+| 466 | 198 | Helen Chao |
 | 467 | 197 | ChasingZen |
 | 468 | 197 | Zippy Tilt |
 | 469 | 197 | Cozy Balancer |
@@ -482,9 +482,9 @@
 | 474 | 194 | Carlos Hernandez |
 | 475 | 194 | Zany Twisterfit |
 | 476 | 193 | tipsy tiger |
-| 477 | 192 | Jeff Roberts |
+| 477 | 192 | Rebecca A Rit |
 | 478 | 192 | Jacob Campbell |
-| 479 | 192 | Rebecca A Rit |
+| 479 | 192 | Jeff Roberts |
 | 480 | 192 | Twisty Risebuilder |
 | 481 | 191 | Koral Hanke |
 | 482 | 191 | Jobadia Steelerton |
@@ -1322,8 +1322,8 @@
 | 1314 | 42 | Simiara Robotham |
 | 1315 | 42 | Dreamy Rollpiece |
 | 1316 | 42 | Angela Catalanotto Ericksen |
-| 1317 | 41 | Nikki Ann |
-| 1318 | 41 | Kaung San |
+| 1317 | 41 | Kaung San |
+| 1318 | 41 | Nikki Ann |
 | 1319 | 41 | Juicee |
 | 1320 | 41 | Paul Brown |
 | 1321 | 41 | Deion |
