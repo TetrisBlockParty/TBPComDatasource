@@ -326,9 +326,9 @@
 | 318 | 284 | Glitzy Corner |
 | 319 | 283 | Jackie Clark |
 | 320 | 282 | DQ Martin |
-| 321 | 281 | rebel4lyfe |
+| 321 | 281 | Morti |
 | 322 | 281 | Laura |
-| 323 | 281 | Morti |
+| 323 | 281 | rebel4lyfe |
 | 324 | 280 | Amy Sanford |
 | 325 | 279 | Brittany Marsh |
 | 326 | 279 | Jim Hart |
@@ -344,8 +344,8 @@
 | 336 | 272 | Tony Pavelka |
 | 337 | 272 | Dennis Bradley |
 | 338 | 271 | Holly |
-| 339 | 270 | 23 |
-| 340 | 270 | 07VHVW |
+| 339 | 270 | 07VHVW |
+| 340 | 270 | 23 |
 | 341 | 270 | Brittany Little |
 | 342 | 269 | Chummy Towerzone |
 | 343 | 268 | Shukee Lo |
@@ -367,9 +367,9 @@
 | 359 | 259 | Allen Lloyd |
 | 360 | 259 | Montiette Mcglown |
 | 361 | 258 | Lilya Troutman |
-| 362 | 257 | Michael Snow |
-| 363 | 257 | Alexandra Karavias |
-| 364 | 257 | Marcus TheeyoungWoe Gilmore |
+| 362 | 257 | Alexandra Karavias |
+| 363 | 257 | Marcus TheeyoungWoe Gilmore |
+| 364 | 257 | Michael Snow |
 | 365 | 257 | ĥuf |
 | 366 | 256 | Jason Bosco |
 | 367 | 256 | Paige Kittles |
@@ -378,8 +378,8 @@
 | 370 | 253 | Jarred Falls |
 | 371 | 253 | Chair |
 | 372 | 252 | Maureen Flanigan |
-| 373 | 252 | Dan Wold |
-| 374 | 252 | Gracie Ann Taylor |
+| 373 | 252 | Gracie Ann Taylor |
+| 374 | 252 | Dan Wold |
 | 375 | 251 | Kathy Allen |
 | 376 | 251 | Carol Ricks Raymond |
 | 377 | 250 | Stephme310 |

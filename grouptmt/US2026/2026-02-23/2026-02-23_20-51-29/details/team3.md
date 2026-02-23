@@ -108,8 +108,8 @@
 | 100 | 1101 | Stephanie Rice |
 | 101 | 1097 | JerseyJess |
 | 102 | 1093 | Angela M. Fletcher |
-| 103 | 1056 | joclisa |
-| 104 | 1056 | Ebony West-Cundiff |
+| 103 | 1056 | Ebony West-Cundiff |
+| 104 | 1056 | joclisa |
 | 105 | 1050 | Sherika C. McDaniels |
 | 106 | 1041 | Patricia Gadsden |
 | 107 | 1038 | Mandy Smith Oldham |
@@ -208,8 +208,8 @@
 | 200 | 616 | Kammy Hill |
 | 201 | 609 | Domo Washington |
 | 202 | 601 | CeceGeGe |
-| 203 | 600 | Keis |
-| 204 | 600 | Makelini Mausia |
+| 203 | 600 | Makelini Mausia |
+| 204 | 600 | Keis |
 | 205 | 598 | Bmo |
 | 206 | 597 | Kaycee Kay |
 | 207 | 594 | Elissa S-k |

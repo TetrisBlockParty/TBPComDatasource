@@ -52,8 +52,8 @@
 | 44 | 1166 | Felicia Lewis |
 | 45 | 1158 | june october |
 | 46 | 1137 | Jen Sartain |
-| 47 | 1126 | Tipsy Column |
-| 48 | 1126 | Tater |
+| 47 | 1126 | Tater |
+| 48 | 1126 | Tipsy Column |
 | 49 | 1122 | Kristen Gideon |
 | 50 | 1114 | Andrea Dañielle Ortiz |
 | 51 | 1114 | Jayme Sellers |
@@ -99,8 +99,8 @@
 | 91 | 740 | Lori Sanders- Davis |
 | 92 | 722 | Kellie |
 | 93 | 707 | Jason Jones |
-| 94 | 706 | Denice Dee |
-| 95 | 706 | Plucky Fallzone |
+| 94 | 706 | Plucky Fallzone |
+| 95 | 706 | Denice Dee |
 | 96 | 704 | Karin Gillen |
 | 97 | 703 | Angel Fowler |
 | 98 | 671 | Chirpy Smasher |
@@ -193,9 +193,9 @@
 | 185 | 423 | Elaine Elaine |
 | 186 | 422 | canbrick |
 | 187 | 418 | David Miller |
-| 188 | 417 | Kimberly Garcia |
+| 188 | 417 | Debbie Kane |
 | 189 | 417 | Jessie Lynn |
-| 190 | 417 | Debbie Kane |
+| 190 | 417 | Kimberly Garcia |
 | 191 | 416 | Jessica Sheehan |
 | 192 | 415 | Jennifer Hardman |
 | 193 | 414 | Chelsea Dahlquist |
@@ -306,9 +306,9 @@
 | 298 | 305 | Larry Tilton |
 | 299 | 303 | DaRascal |
 | 300 | 302 | LaFontaine Leslie |
-| 301 | 301 | Brave Wrecker |
-| 302 | 301 | Chad Atchley |
-| 303 | 301 | Glitzy Curvebuilder |
+| 301 | 301 | Glitzy Curvebuilder |
+| 302 | 301 | Brave Wrecker |
+| 303 | 301 | Chad Atchley |
 | 304 | 300 | Giggly Builderline |
 | 305 | 299 | LD1 |
 | 306 | 298 | Kimberly Davis |
@@ -347,7 +347,7 @@
 | 339 | 276 | Llewej Rekab |
 | 340 | 276 | Blake Mckay |
 | 341 | 275 | Shiny Snapline |
-| 342 | 274 | Danielle Mae |
+| 342 | 274 | Allena Craft |
 | 343 | 274 | Michelle |
 | 344 | 274 | Danielle Mae |
 | 345 | 272 | Barrbaric |

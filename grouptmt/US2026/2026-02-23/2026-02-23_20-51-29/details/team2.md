@@ -202,8 +202,8 @@
 | 194 | 1601 | Ray Ray Prado |
 | 195 | 1600 | Mo Shine On |
 | 196 | 1592 | Dolores Russworn |
-| 197 | 1590 | Amy Sayers |
-| 198 | 1590 | Jaycee |
+| 197 | 1590 | Jaycee |
+| 198 | 1590 | Amy Sayers |
 | 199 | 1585 | Glitzy Stackzone |
 | 200 | 1580 | Sally Dennis |
 | 201 | 1571 | Tommy Tha Boss Gunz |
@@ -363,8 +363,8 @@
 | 355 | 1040 | Taylor Phillips |
 | 356 | 1038 | Sheronda Jackson |
 | 357 | 1037 | Jessica Wayne Cornwall |
-| 358 | 1036 | Allison Lockyer |
-| 359 | 1036 | Amber Shoemaker |
+| 358 | 1036 | Amber Shoemaker |
+| 359 | 1036 | Allison Lockyer |
 | 360 | 1029 | Crystal Hoffman |
 | 361 | 1026 | Joshua Mandel |
 | 362 | 1024 | Susan Perraut Jones |
@@ -416,8 +416,8 @@
 | 408 | 929 | Ellie Jonas |
 | 409 | 928 | Elizabeth Wilbanks |
 | 410 | 923 | blume |
-| 411 | 919 | John Bednarik |
-| 412 | 919 | Isaac Trappiel IV |
+| 411 | 919 | Isaac Trappiel IV |
+| 412 | 919 | John Bednarik |
 | 413 | 918 | William Hunt |
 | 414 | 917 | Bubbly Snapfit |
 | 415 | 917 | Amber Gray |
