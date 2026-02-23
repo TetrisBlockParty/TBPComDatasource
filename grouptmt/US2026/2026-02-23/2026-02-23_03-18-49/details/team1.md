@@ -227,8 +227,8 @@
 | 219 | 275 | Cheeky Pop |
 | 220 | 275 | Chris65 |
 | 221 | 273 | Shannon Marie Pitts |
-| 222 | 271 | Frothy Pattern |
-| 223 | 271 | Sam Williams |
+| 222 | 271 | Sam Williams |
+| 223 | 271 | Frothy Pattern |
 | 224 | 270 | Debbie Kane |
 | 225 | 265 | Kandae |
 | 226 | 264 | Jenny Gingrich Fuentes |
@@ -368,8 +368,8 @@
 | 360 | 182 | Nathan Sealander |
 | 361 | 182 | Glitzy Curvebuilder |
 | 362 | 181 | David DeSantis |
-| 363 | 180 | Rico Rico |
-| 364 | 180 | Discovery Point |
+| 363 | 180 | Discovery Point |
+| 364 | 180 | Rico Rico |
 | 365 | 179 | Ryan White |
 | 366 | 178 | Vivienne Carter |
 | 367 | 178 | san |
@@ -382,7 +382,7 @@
 | 374 | 176 | Наталья Солоид |
 | 375 | 176 | Jamie Catlett |
 | 376 | 176 | Damian Salem |
-| 377 | 175 | Frisky Base |
+| 377 | 175 | Madbull |
 | 378 | 175 | Nadine Velardo |
 | 379 | 175 | Kellie Tunstall |
 | 380 | 175 | Frisky Base |

@@ -133,8 +133,8 @@
 | 125 | 451 | Peachy Fall |
 | 126 | 451 | Angela Srubar-Norman |
 | 127 | 448 | Kristin Manee |
-| 128 | 435 | Kristina Black |
-| 129 | 435 | Leslie Thomas |
+| 128 | 435 | Leslie Thomas |
+| 129 | 435 | Kristina Black |
 | 130 | 431 | Courtney Cicoria |
 | 131 | 421 | Kesha Brady |
 | 132 | 421 | Monica Daley |
@@ -290,8 +290,8 @@
 | 282 | 221 | PurpleMoonMa |
 | 283 | 221 | Rheanda Weaskus |
 | 284 | 220 | TinyLegoRose |
-| 285 | 219 | Malakai Darien Fox |
-| 286 | 219 | Shane Vick |
+| 285 | 219 | Shane Vick |
+| 286 | 219 | Malakai Darien Fox |
 | 287 | 218 | Steph Marie |
 | 288 | 218 | Janita Parrish |
 | 289 | 217 | Cheery Fitline |

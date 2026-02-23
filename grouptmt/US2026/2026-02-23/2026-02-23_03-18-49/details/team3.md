@@ -348,7 +348,7 @@
 | 340 | 275 | Antonia Russell |
 | 341 | 274 | Mary Giorgenti |
 | 342 | 274 | Angela Scott |
-| 343 | 273 | Cheryl Hinch Tenbrook |
+| 343 | 273 | France Vézina |
 | 344 | 273 | Brenda Schmid Wood |
 | 345 | 273 | Cheryl Hinch Tenbrook |
 | 346 | 273 | Dannie Litchard |
@@ -428,8 +428,8 @@
 | 420 | 230 | BigE |
 | 421 | 230 | DanceLuvLaugh |
 | 422 | 229 | Everret Maxine |
-| 423 | 228 | Jess Dearborn |
-| 424 | 228 | Stephanie Hill |
+| 423 | 228 | Stephanie Hill |
+| 424 | 228 | Jess Dearborn |
 | 425 | 228 | Loopy Fallzone |
 | 426 | 227 | Rebel124 |
 | 427 | 227 | Meowsa |
@@ -693,8 +693,8 @@
 | 685 | 144 | Janay Darkstallion Robinson |
 | 686 | 144 | Vikkye Vizaniaris |
 | 687 | 144 | Clever Edgepiece |
-| 688 | 143 | Sarah Muradyan |
-| 689 | 143 | Russell Hankinson |
+| 688 | 143 | Russell Hankinson |
+| 689 | 143 | Sarah Muradyan |
 | 690 | 143 | Lisa Lisa |
 | 691 | 142 | Jason-Ashley Ludlow |
 | 692 | 142 | Jennifer Neiman Gaal |

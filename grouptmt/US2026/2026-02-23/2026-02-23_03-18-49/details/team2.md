@@ -40,8 +40,8 @@
 | 32 | 4274 | Vistabrat |
 | 33 | 4199 | Claire Noland |
 | 34 | 4128 | Angela Pruitt |
-| 35 | 4120 | Kristen Sceurman |
-| 36 | 4120 | Corrine Hawks Soriano |
+| 35 | 4120 | Corrine Hawks Soriano |
+| 36 | 4120 | Kristen Sceurman |
 | 37 | 4093 | Jill Stroehlein |
 | 38 | 3895 | Nickie Baby |
 | 39 | 3778 | Brittany Alicia |
@@ -413,8 +413,8 @@
 | 405 | 742 | Crystie Hicks |
 | 406 | 741 | Jánine Riggs |
 | 407 | 740 | Jerry Tempelmeyer |
-| 408 | 737 | Chelle |
-| 409 | 737 | Jeremy Parodi |
+| 408 | 737 | Jeremy Parodi |
+| 409 | 737 | Chelle |
 | 410 | 737 | Ginger |
 | 411 | 734 | Allan Wayne Lamia |
 | 412 | 734 | Ashley Guernsey-Martin |
