@@ -125,8 +125,8 @@
 | 117 | 769 | Kristie |
 | 118 | 764 | Groovy Catcher |
 | 119 | 762 | Speedy Bridger |
-| 120 | 752 | Raya |
-| 121 | 752 | Logan Naccarato |
+| 120 | 752 | Logan Naccarato |
+| 121 | 752 | Raya |
 | 122 | 748 | Adrian Marcel Pate |
 | 123 | 745 | JerseyJess |
 | 124 | 744 | Leah Barnett |
@@ -181,8 +181,8 @@
 | 173 | 558 | Patti Skiles |
 | 174 | 556 | Elissa S-k |
 | 175 | 553 | LaTanya GeminiondaRise Johnson |
-| 176 | 546 | Cynthia Castros-Hampton |
-| 177 | 546 | Mykal Burton |
+| 176 | 546 | Mykal Burton |
+| 177 | 546 | Cynthia Castros-Hampton |
 | 178 | 541 | Tasha Schriewer |
 | 179 | 540 | Shawn Miller |
 | 180 | 535 | Jone |
@@ -212,8 +212,8 @@
 | 204 | 471 | Mendoza Lee Christy |
 | 205 | 467 | Sherry Ogden |
 | 206 | 465 | Annie Déè |
-| 207 | 464 | Shunta Jacobs |
-| 208 | 464 | Danielle Weikel |
+| 207 | 464 | Danielle Weikel |
+| 208 | 464 | Shunta Jacobs |
 | 209 | 462 | Connie Mohler-Fair |
 | 210 | 458 | Danielle Rhoades |
 | 211 | 458 | Tom Nault |
@@ -254,8 +254,8 @@
 | 246 | 377 | Charles Perrone |
 | 247 | 374 | Rania Zaqout |
 | 248 | 373 | Chummy Caster |
-| 249 | 372 | Rich LeBlanc |
-| 250 | 372 | Sarah Moyer |
+| 249 | 372 | Sarah Moyer |
+| 250 | 372 | Rich LeBlanc |
 | 251 | 371 | Marquita Sheard |
 | 252 | 371 | block chick |
 | 253 | 369 | Keis |
@@ -273,8 +273,8 @@
 | 265 | 357 | Stephanie Burtin |
 | 266 | 354 | Kelly |
 | 267 | 353 | Dee Franklin |
-| 268 | 352 | Christian Werndl |
-| 269 | 352 | Samantha Lynn |
+| 268 | 352 | Samantha Lynn |
+| 269 | 352 | Christian Werndl |
 | 270 | 351 | Eon Harris |
 | 271 | 350 | LaShey Thompson |
 | 272 | 349 | Amanda J. Mcneil-Anderson |
@@ -284,8 +284,8 @@
 | 276 | 346 | Tamara Deherrera |
 | 277 | 345 | MsBee |
 | 278 | 344 | Roary Danner |
-| 279 | 343 | Ashley Rufus Bythcez |
-| 280 | 343 | Ashley Raines |
+| 279 | 343 | Ashley Raines |
+| 280 | 343 | Ashley Rufus Bythcez |
 | 281 | 341 | Ashley Tookes |
 | 282 | 340 | KayB |
 | 283 | 339 | Cynthia Herrmann Egland |
@@ -363,8 +363,8 @@
 | 355 | 276 | Karent524 |
 | 356 | 276 | Ivan Del Toro |
 | 357 | 275 | Cassandra Bryant |
-| 358 | 275 | Nikki Pags |
-| 359 | 275 | Michael Lucado |
+| 358 | 275 | Michael Lucado |
+| 359 | 275 | Nikki Pags |
 | 360 | 274 | Mary Giorgenti |
 | 361 | 273 | Brenda Schmid Wood |
 | 362 | 273 | France Vézina |
@@ -718,8 +718,8 @@
 | 710 | 147 | Snippy Brickster |
 | 711 | 147 | Brave Brickster |
 | 712 | 147 | Erin Ervin |
-| 713 | 146 | Spicy Caster |
-| 714 | 146 | Sara Dunn |
+| 713 | 146 | Sara Dunn |
+| 714 | 146 | Spicy Caster |
 | 715 | 146 | Geronimo |
 | 716 | 146 | Dapper Chiseler |
 | 717 | 145 | Quirky Snapfit |

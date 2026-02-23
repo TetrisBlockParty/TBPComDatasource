@@ -71,16 +71,16 @@
 | 63 | 780 | Rachel Anne |
 | 64 | 775 | Ashley Ingram |
 | 65 | 767 | Shannon Ferrari |
-| 66 | 766 | Robin Watters |
-| 67 | 766 | Edward White |
+| 66 | 766 | Edward White |
+| 67 | 766 | Robin Watters |
 | 68 | 765 | Denise Carlson |
 | 69 | 765 | Robin Getchel |
 | 70 | 752 | loulou |
 | 71 | 749 | Dustee Craddock-Harrison |
 | 72 | 742 | Carolyn Wallace |
 | 73 | 740 | Avy Absol |
-| 74 | 736 | Crystal Carroll |
-| 75 | 736 | Goatimus Lombardi |
+| 74 | 736 | Goatimus Lombardi |
+| 75 | 736 | Crystal Carroll |
 | 76 | 721 | TheNeesh50 |
 | 77 | 717 | D3TROITB0RN74 |
 | 78 | 706 | Lisa Davis |
@@ -117,8 +117,8 @@
 | 109 | 528 | Rodney McMath Jr. |
 | 110 | 527 | Dizzy Tiley |
 | 111 | 519 | Nugget |
-| 112 | 517 | Christina LR |
-| 113 | 517 | shar |
+| 112 | 517 | shar |
+| 113 | 517 | Christina LR |
 | 114 | 514 | Scott Jameson |
 | 115 | 514 | Serena Goodridge |
 | 116 | 513 | Erin Thomas |
@@ -136,8 +136,8 @@
 | 128 | 458 | Twisty Clicky |
 | 129 | 451 | Peachy Fall |
 | 130 | 448 | Kristin Manee |
-| 131 | 435 | Kristina Black |
-| 132 | 435 | Leslie Thomas |
+| 131 | 435 | Leslie Thomas |
+| 132 | 435 | Kristina Black |
 | 133 | 431 | Courtney Cicoria |
 | 134 | 425 | Monica Daley |
 | 135 | 421 | JIGsaw ~(•¿°)~ |
@@ -179,11 +179,11 @@
 | 171 | 356 | George Nutt |
 | 172 | 352 | Sue Joyce Staats |
 | 173 | 350 | TRCuse |
-| 174 | 349 | Twisty Cascadezone |
-| 175 | 349 | Rafael Valentin |
+| 174 | 349 | Rafael Valentin |
+| 175 | 349 | Twisty Cascadezone |
 | 176 | 348 | April Rondinone |
-| 177 | 347 | Crystal Nicolette Moore |
-| 178 | 347 | Daria Rycewicz |
+| 177 | 347 | Daria Rycewicz |
+| 178 | 347 | Crystal Nicolette Moore |
 | 179 | 339 | David Lay |
 | 180 | 334 | Kris Bartlett |
 | 181 | 333 | Andy Cabral |
@@ -202,8 +202,8 @@
 | 194 | 313 | Zippy Block |
 | 195 | 311 | Mary Ann Pabukis |
 | 196 | 310 | Holly Jolly |
-| 197 | 307 | Cheery Risebuilder |
-| 198 | 307 | Michele Plunkett |
+| 197 | 307 | Michele Plunkett |
+| 198 | 307 | Cheery Risebuilder |
 | 199 | 306 | blockstar |
 | 200 | 305 | Melvin Baird |
 | 201 | 304 | Lindsay Ball |
@@ -237,8 +237,8 @@
 | 229 | 272 | Carlos Ramirez |
 | 230 | 272 | Alan George LaRage |
 | 231 | 271 | Holly |
-| 232 | 270 | Jen Caldwell |
-| 233 | 270 | Juls |
+| 232 | 270 | Juls |
+| 233 | 270 | Jen Caldwell |
 | 234 | 267 | JPW |
 | 235 | 266 | Mr. Party |
 | 236 | 265 | Sarah Neathery |
@@ -544,7 +544,7 @@
 | 536 | 126 | Spicy Cascadezone |
 | 537 | 125 | Christina Nabrizny |
 | 538 | 125 | Cool Gridzone |
-| 539 | 125 | Kelly Adams Carnahan |
+| 539 | 125 | ImJustMe |
 | 540 | 125 | Frilly Blocky |
 | 541 | 125 | Kelly Adams Carnahan |
 | 542 | 124 | Atia Scott |
