@@ -273,8 +273,8 @@
 | 265 | 1076 | Alezandra Smith |
 | 266 | 1073 | Jodi Blake |
 | 267 | 1071 | Kim Dean |
-| 268 | 1069 | Carl Bradshaw |
-| 269 | 1069 | Offonar Facey |
+| 268 | 1069 | Offonar Facey |
+| 269 | 1069 | Carl Bradshaw |
 | 270 | 1064 | BK Queen |
 | 271 | 1063 | Caitlin Schmid |
 | 272 | 1058 | Rickey Johnson |
@@ -311,8 +311,8 @@
 | 303 | 976 | Sam Joe |
 | 304 | 976 | Della Hole |
 | 305 | 975 | Hyper Cluster |
-| 306 | 972 | Binyah-Binyah |
-| 307 | 972 | Barbra Miller |
+| 306 | 972 | Barbra Miller |
+| 307 | 972 | Binyah-Binyah |
 | 308 | 971 | Jojo Momma |
 | 309 | 969 | Em Chen |
 | 310 | 969 | Boldy Cascadepiece |
@@ -669,8 +669,8 @@
 | 661 | 532 | Snappy Faller |
 | 662 | 531 | Maricia Layolla Cason |
 | 663 | 531 | Beth Decker |
-| 664 | 529 | Ganieda |
-| 665 | 529 | Snazzy Basepiece |
+| 664 | 529 | Snazzy Basepiece |
+| 665 | 529 | Ganieda |
 | 666 | 528 | Kyle LeRoy Harris |
 | 667 | 528 | Ha Ab |
 | 668 | 527 | Heather M Purcell |
@@ -700,8 +700,8 @@
 | 692 | 509 | Toni Whipple |
 | 693 | 509 | Perky Rollfit |
 | 694 | 508 | Daphne Jordan |
-| 695 | 507 | Crystal Heller Gonzalez |
-| 696 | 507 | Funky Caster |
+| 695 | 507 | Funky Caster |
+| 696 | 507 | Crystal Heller Gonzalez |
 | 697 | 506 | Cblock |
 | 698 | 505 | Casey Schumacher |
 | 699 | 502 | Kelly |
@@ -902,8 +902,8 @@
 | 894 | 406 | Erin StFrancis |
 | 895 | 406 | Susan Arnburg |
 | 896 | 405 | Carrie Mitchell |
-| 897 | 405 | Marget Kay |
-| 898 | 405 | Dane Reing |
+| 897 | 405 | Dane Reing |
+| 898 | 405 | Marget Kay |
 | 899 | 405 | Swanky Columnbuilder |
 | 900 | 404 | Jannan Haimour |
 | 901 | 404 | Christy Green |
@@ -946,12 +946,12 @@
 | 938 | 392 | Jroc |
 | 939 | 391 | Poppy Gridder |
 | 940 | 391 | Chilly Bridgepiece |
-| 941 | 390 | MauroPRM |
-| 942 | 390 | Karmabunny |
-| 943 | 390 | Monique Foster |
+| 941 | 390 | Monique Foster |
+| 942 | 390 | MauroPRM |
+| 943 | 390 | Karmabunny |
 | 944 | 390 | Smiley Strike |
-| 945 | 390 | Tasia Stinson |
-| 946 | 390 | Kyla Louise |
+| 945 | 390 | Kyla Louise |
+| 946 | 390 | Tasia Stinson |
 | 947 | 389 | Loony Basepiece |
 | 948 | 388 | Alice Ball |
 | 949 | 388 | Tamara Bailey |
@@ -1059,8 +1059,8 @@
 | 1051 | 357 | Shannon Byrd |
 | 1052 | 356 | ToxicTrash |
 | 1053 | 356 | Neko Preston |
-| 1054 | 355 | Jaime E. Rodriguez |
-| 1055 | 355 | Himothy |
+| 1054 | 355 | Himothy |
+| 1055 | 355 | Jaime E. Rodriguez |
 | 1056 | 355 | Layla LS |
 | 1057 | 355 | Rolie Garcia |
 | 1058 | 354 | Sherri Morgan |
@@ -1129,8 +1129,8 @@
 | 1121 | 336 | Jumpy Gridclear |
 | 1122 | 336 | Spunky Match |
 | 1123 | 336 | Colton Saupe |
-| 1124 | 335 | FloJo |
-| 1125 | 335 | Greenshades00 |
+| 1124 | 335 | Greenshades00 |
+| 1125 | 335 | FloJo |
 | 1126 | 335 | Nancy Pohlman |
 | 1127 | 335 | Jennifer Grant-Watson |
 | 1128 | 335 | Sveta Lana |
@@ -1332,8 +1332,8 @@
 | 1324 | 289 | Ian Anderson |
 | 1325 | 288 | Samantha Angelo |
 | 1326 | 288 | thranduil |
-| 1327 | 288 | Samantha Angelo |
-| 1328 | 287 | Tristan Snowden |
+| 1327 | 288 | Aleasha M Brown |
+| 1328 | 287 | Joseph Greenlee |
 | 1329 | 287 | KT Macadocious |
 | 1330 | 287 | Tristan Snowden |
 | 1331 | 287 | Linda Miltenburg |
