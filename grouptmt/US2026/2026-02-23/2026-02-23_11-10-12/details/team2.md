@@ -278,8 +278,8 @@
 | 270 | 1079 | Kimberly Hauck-Rausch |
 | 271 | 1073 | Jodi Blake |
 | 272 | 1071 | Kim Dean |
-| 273 | 1069 | Offonar Facey |
-| 274 | 1069 | Carl Bradshaw |
+| 273 | 1069 | Carl Bradshaw |
+| 274 | 1069 | Offonar Facey |
 | 275 | 1064 | BK Queen |
 | 276 | 1063 | Caitlin Schmid |
 | 277 | 1058 | Rickey Johnson |
@@ -291,8 +291,8 @@
 | 283 | 1045 | Bri Lynn |
 | 284 | 1045 | Lourisha |
 | 285 | 1044 | Jennifer Aiken |
-| 286 | 1043 | nikki |
-| 287 | 1043 | Brave Dropmatch |
+| 286 | 1043 | Brave Dropmatch |
+| 287 | 1043 | nikki |
 | 288 | 1042 | Mcintosh Brian Shalonda |
 | 289 | 1040 | Rebecca Garland |
 | 290 | 1036 | Amber Shoemaker |
@@ -465,8 +465,8 @@
 | 457 | 730 | Hoppy Brickmatch |
 | 458 | 729 | goofinoff |
 | 459 | 728 | Mikayala Szaz |
-| 460 | 728 | Tom Riefer |
-| 461 | 728 | Dylan Thomason |
+| 460 | 728 | Dylan Thomason |
+| 461 | 728 | Tom Riefer |
 | 462 | 726 | Joce Lynn |
 | 463 | 726 | Crystal Greene |
 | 464 | 725 | Ashle Scranton |
@@ -496,8 +496,8 @@
 | 488 | 695 | Lakeysha Dortch |
 | 489 | 693 | Ryan Stadel |
 | 490 | 692 | Shaun Church |
-| 491 | 691 | Samuel Macon |
-| 492 | 691 | Arwa Fatimah |
+| 491 | 691 | Arwa Fatimah |
+| 492 | 691 | Samuel Macon |
 | 493 | 689 | Gauri Shrotriya |
 | 494 | 686 | Christine Coughlin |
 | 495 | 684 | Sarah DeHart |
