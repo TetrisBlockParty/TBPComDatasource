@@ -61,8 +61,8 @@
 | 53 | 1276 | Aaron Pitkin |
 | 54 | 1269 | Amber Jones |
 | 55 | 1258 | Jennifer Petrie |
-| 56 | 1256 | Jessica Bechler |
-| 57 | 1256 | Mahman |
+| 56 | 1256 | Mahman |
+| 57 | 1256 | Jessica Bechler |
 | 58 | 1191 | Nate Burnside |
 | 59 | 1167 | Elaine Webb Graves |
 | 60 | 1141 | Queen Kam |
@@ -117,8 +117,8 @@
 | 109 | 799 | Dolores Falco |
 | 110 | 762 | Speedy Bridger |
 | 111 | 748 | Adrian Marcel Pate |
-| 112 | 744 | Fancy Cascader |
-| 113 | 744 | Leah Barnett |
+| 112 | 744 | Leah Barnett |
+| 113 | 744 | Fancy Cascader |
 | 114 | 742 | Groovy Catcher |
 | 115 | 733 | mzcatzy |
 | 116 | 724 | Kristie |
@@ -184,8 +184,8 @@
 | 176 | 490 | Loopy Fallmatch |
 | 177 | 489 | Shannon Matthew Byers |
 | 178 | 488 | Melissa Orth Hunter |
-| 179 | 485 | Dapper Snap |
-| 180 | 485 | Demetrious Shaw Sr. |
+| 179 | 485 | Demetrious Shaw Sr. |
+| 180 | 485 | Dapper Snap |
 | 181 | 485 | Terry Jo Jones |
 | 182 | 481 | FuzzyNavel |
 | 183 | 481 | Kammy Hill |
@@ -209,8 +209,8 @@
 | 201 | 432 | Luciana Braganca Vieira |
 | 202 | 432 | Jenny Hrndz |
 | 203 | 431 | Wendy Dearden |
-| 204 | 430 | Joye Sims Binion |
-| 205 | 430 | Jeni Dow |
+| 204 | 430 | Jeni Dow |
+| 205 | 430 | Joye Sims Binion |
 | 206 | 429 | Fallorina Susana |
 | 207 | 426 | Rochelle Hazelett |
 | 208 | 419 | Danielle Weikel |

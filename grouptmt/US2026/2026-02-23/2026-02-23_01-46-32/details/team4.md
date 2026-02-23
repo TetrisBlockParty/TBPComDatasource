@@ -222,8 +222,8 @@
 | 214 | 272 | Porkobello |
 | 215 | 271 | Chris Hartig |
 | 216 | 271 | Sarah Brown |
-| 217 | 270 | Juls |
-| 218 | 270 | Jen Caldwell |
+| 217 | 270 | Jen Caldwell |
+| 218 | 270 | Juls |
 | 219 | 268 | Mimi |
 | 220 | 267 | Holly |
 | 221 | 266 | Mr. Party |
@@ -275,7 +275,7 @@
 | 267 | 222 | Chance Strickland |
 | 268 | 221 | Rheanda Weaskus |
 | 269 | 221 | PurpleMoonMa |
-| 270 | 221 | Rheanda Weaskus |
+| 270 | 221 | Chair |
 | 271 | 220 | TinyLegoRose |
 | 272 | 219 | Shane Vick |
 | 273 | 219 | Malakai Darien Fox |

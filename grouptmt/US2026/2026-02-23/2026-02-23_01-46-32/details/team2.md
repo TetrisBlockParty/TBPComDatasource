@@ -40,8 +40,8 @@
 | 32 | 4199 | Claire Noland |
 | 33 | 4130 | Robert Diddle |
 | 34 | 4128 | Angela Pruitt |
-| 35 | 4120 | Kristen Sceurman |
-| 36 | 4120 | Corrine Hawks Soriano |
+| 35 | 4120 | Corrine Hawks Soriano |
+| 36 | 4120 | Kristen Sceurman |
 | 37 | 4033 | Jill Stroehlein |
 | 38 | 3895 | Nickie Baby |
 | 39 | 3770 | Brittany Alicia |
@@ -314,8 +314,8 @@
 | 306 | 890 | Caitlin Schmid |
 | 307 | 889 | Giggy Blocker |
 | 308 | 885 | Felicia Lynn |
-| 309 | 884 | Steve Man |
-| 310 | 884 | Adira Brown |
+| 309 | 884 | Adira Brown |
+| 310 | 884 | Steve Man |
 | 311 | 883 | Hong Tang |
 | 312 | 883 | nikki |
 | 313 | 882 | Nashu |
@@ -333,8 +333,8 @@
 | 325 | 846 | Alyssa Hileman |
 | 326 | 844 | Terri McKelvey McKinley |
 | 327 | 843 | Wakanda Forever |
-| 328 | 833 | Moni Foxe |
-| 329 | 833 | Cody Nishimura |
+| 328 | 833 | Cody Nishimura |
+| 329 | 833 | Moni Foxe |
 | 330 | 832 | Woodys Glass |
 | 331 | 826 | Diallo Sparkman |
 | 332 | 824 | Khalil Lowe |
@@ -394,8 +394,8 @@
 | 386 | 741 | Jánine Riggs |
 | 387 | 740 | Jerry Tempelmeyer |
 | 388 | 738 | Aimee Campbell |
-| 389 | 737 | Jeremy Parodi |
-| 390 | 737 | Chelle |
+| 389 | 737 | Chelle |
+| 390 | 737 | Jeremy Parodi |
 | 391 | 737 | Ginger |
 | 392 | 735 | Taryece Gause |
 | 393 | 732 | Victoria Moore-Smith |

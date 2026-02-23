@@ -166,8 +166,8 @@
 | 158 | 337 | Nicole Roseberry Weber |
 | 159 | 336 | Fmp |
 | 160 | 334 | Jaimie Lynn |
-| 161 | 333 | GATOR |
-| 162 | 333 | Gracie |
+| 161 | 333 | Gracie |
+| 162 | 333 | GATOR |
 | 163 | 332 | Lehrin Maria |
 | 164 | 329 | Rachael |
 | 165 | 326 | BadG52 |
