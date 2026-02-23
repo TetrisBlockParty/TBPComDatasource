@@ -113,8 +113,8 @@
 | 105 | 673 | Jacqueline Helm |
 | 106 | 667 | Amy Suckarieh |
 | 107 | 659 | Jamie Gustafson |
-| 108 | 658 | Girl |
-| 109 | 658 | Zippy Gridlock |
+| 108 | 658 | Zippy Gridlock |
+| 109 | 658 | Girl |
 | 110 | 657 | Lori Walker |
 | 111 | 652 | Leslie Nicole |
 | 112 | 647 | KM8 |
@@ -142,8 +142,8 @@
 | 134 | 545 | Desi Desporte |
 | 135 | 542 | Austin Owens |
 | 136 | 540 | Rodney McMath Jr. |
-| 137 | 538 | shar |
-| 138 | 538 | Carlos Ramirez |
+| 137 | 538 | Carlos Ramirez |
+| 138 | 538 | shar |
 | 139 | 531 | Serena Goodridge |
 | 140 | 529 | Cool Towerbuilder |
 | 141 | 528 | Kimberlee Jan Beckstead |
@@ -186,9 +186,9 @@
 | 178 | 435 | Kristina Black |
 | 179 | 431 | Courtney Cicoria |
 | 180 | 427 | Steph Marie |
-| 181 | 426 | Sharyn Lemire |
-| 182 | 426 | 🥔🥔 Spudz |
-| 183 | 426 | Rebecca Morris |
+| 181 | 426 | 🥔🥔 Spudz |
+| 182 | 426 | Rebecca Morris |
+| 183 | 426 | Sharyn Lemire |
 | 184 | 425 | Damn Libra |
 | 185 | 424 | Keshia Lyons |
 | 186 | 423 | Crystal Nicolette Moore |
@@ -308,8 +308,8 @@
 | 300 | 281 | Morti |
 | 301 | 281 | Laura |
 | 302 | 280 | Nerdy Twisterfit |
-| 303 | 278 | Sarah Brown |
-| 304 | 278 | Angela Geist Jusinski |
+| 303 | 278 | Angela Geist Jusinski |
+| 304 | 278 | Sarah Brown |
 | 305 | 277 | Brittany Marsh |
 | 306 | 276 | Silly SeaWeed |
 | 307 | 276 | Susan Williams |
@@ -391,10 +391,10 @@
 | 383 | 231 | SAP |
 | 384 | 230 | Chantilly Laace |
 | 385 | 228 | Bethany Ison |
-| 386 | 227 | Asher |
-| 387 | 227 | Maria Hammie |
-| 388 | 224 | Ultramarine |
-| 389 | 224 | Sarah Hoffman |
+| 386 | 227 | Maria Hammie |
+| 387 | 227 | Asher |
+| 388 | 224 | Sarah Hoffman |
+| 389 | 224 | Ultramarine |
 | 390 | 223 | Brave Spinbuilder |
 | 391 | 222 | Paito |
 | 392 | 222 | Alan Zukowski |
@@ -1065,8 +1065,8 @@
 | 1057 | 66 | Linda Wilbur Scott |
 | 1058 | 66 | Anne-Marie Reyes |
 | 1059 | 66 | Chilly Matchpiece |
-| 1060 | 66 | Erin Kushner |
-| 1061 | 66 | Joan Du |
+| 1060 | 66 | Joan Du |
+| 1061 | 66 | Erin Kushner |
 | 1062 | 66 | Coflowers |
 | 1063 | 65 | Kris Zulch |
 | 1064 | 65 | Tina Williams |
@@ -1163,7 +1163,7 @@
 | 1155 | 55 | Michelle McCutcheon |
 | 1156 | 55 | David Phifer |
 | 1157 | 55 | ChuckBuck Copeland |
-| 1158 | 55 | David Phifer |
+| 1158 | 55 | RiahRose |
 | 1159 | 55 | Krystol Fantabulously Gorgeously Dennis |
 | 1160 | 54 | Joseph Bodon |
 | 1161 | 54 | Lisha Billups |
@@ -1738,7 +1738,7 @@
 | 1730 | 11 | Rashel |
 | 1731 | 11 | Jumpy Blockline |
 | 1732 | 11 | Dominic Dixon |
-| 1733 | 11 | Rashel |
+| 1733 | 11 | Jud Retzlaff |
 | 1734 | 10 | p3ttyboop |
 | 1735 | 10 | Vicky Vallejo |
 | 1736 | 10 | Tamela Harvey |

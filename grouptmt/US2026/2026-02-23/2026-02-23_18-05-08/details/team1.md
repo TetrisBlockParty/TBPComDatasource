@@ -274,8 +274,8 @@
 | 266 | 316 | DoodleBug |
 | 267 | 315 | Hellsin |
 | 268 | 313 | Cody Gates |
-| 269 | 312 | Mitchel White |
-| 270 | 312 | Danielle S Kester |
+| 269 | 312 | Danielle S Kester |
+| 270 | 312 | Mitchel White |
 | 271 | 311 | Nathan Sealander |
 | 272 | 310 | Christina Norman |
 | 273 | 310 | Matt Iaccheo |

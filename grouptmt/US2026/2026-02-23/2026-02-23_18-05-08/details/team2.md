@@ -251,8 +251,8 @@
 | 243 | 1295 | Tralonda Weeks |
 | 244 | 1285 | Karen Snyder Schrage |
 | 245 | 1282 | Tanya Parsons |
-| 246 | 1278 | Eric Carlson |
-| 247 | 1278 | Moose Griffith |
+| 246 | 1278 | Moose Griffith |
+| 247 | 1278 | Eric Carlson |
 | 248 | 1277 | Snappy Matchbuilder |
 | 249 | 1259 | Foxxo |
 | 250 | 1258 | Brandon Armstrong |
@@ -284,16 +284,16 @@
 | 276 | 1178 | Kevin Sees |
 | 277 | 1178 | Dimitra Zazara |
 | 278 | 1173 | Shannon Joslin |
-| 279 | 1172 | Lakeysha Dortch |
-| 280 | 1172 | Stacey Clement |
+| 279 | 1172 | Stacey Clement |
+| 280 | 1172 | Lakeysha Dortch |
 | 281 | 1171 | Loretta Brewer-Gage |
 | 282 | 1165 | Michelle Lee |
 | 283 | 1165 | Christina Wsn |
 | 284 | 1163 | Erika Densmore |
 | 285 | 1158 | Sarah Freitas |
 | 286 | 1158 | Brittany Clark |
-| 287 | 1156 | Alezandra Smith |
-| 288 | 1156 | Arkei Luster |
+| 287 | 1156 | Arkei Luster |
+| 288 | 1156 | Alezandra Smith |
 | 289 | 1149 | Prado |
 | 290 | 1146 | Cassie Mercer |
 | 291 | 1142 | Sheniya Spurgeon |
@@ -448,11 +448,11 @@
 | 440 | 830 | Sabrina Burton |
 | 441 | 829 | ToShi |
 | 442 | 828 | Kimmy Newman |
-| 443 | 825 | Angela Yantz |
-| 444 | 825 | Jeremy Parodi |
-| 445 | 824 | Danielle Johnson-Chandler |
-| 446 | 824 | Khalil Lowe |
-| 447 | 824 | Victoria Regina Girolami |
+| 443 | 825 | Jeremy Parodi |
+| 444 | 825 | Angela Yantz |
+| 445 | 824 | Khalil Lowe |
+| 446 | 824 | Victoria Regina Girolami |
+| 447 | 824 | Danielle Johnson-Chandler |
 | 448 | 823 | Gary Stash |
 | 449 | 822 | Lola Contreras |
 | 450 | 821 | Connie Jimenez |

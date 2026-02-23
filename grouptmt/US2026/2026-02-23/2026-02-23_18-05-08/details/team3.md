@@ -88,8 +88,8 @@
 | 80 | 1258 | Shari Garber |
 | 81 | 1244 | Lori Barnaby |
 | 82 | 1221 | Betty Ivy |
-| 83 | 1213 | Snappy Glidepiece |
-| 84 | 1213 | Nerdy Riseclear |
+| 83 | 1213 | Nerdy Riseclear |
+| 84 | 1213 | Snappy Glidepiece |
 | 85 | 1212 | Amanda Adkins |
 | 86 | 1186 | Christian A. Pollard |
 | 87 | 1158 | Danielle Mogg |
@@ -100,8 +100,8 @@
 | 92 | 1102 | Michelle Becker |
 | 93 | 1101 | Stephanie Rice |
 | 94 | 1094 | JerseyJess |
-| 95 | 1056 | Ebony West-Cundiff |
-| 96 | 1056 | joclisa |
+| 95 | 1056 | joclisa |
+| 96 | 1056 | Ebony West-Cundiff |
 | 97 | 1050 | Sherika C. McDaniels |
 | 98 | 1044 | Leah Barnett |
 | 99 | 1038 | Mandy Smith Oldham |
@@ -125,8 +125,8 @@
 | 117 | 896 | Jesse Olive |
 | 118 | 878 | Shane Wilson Jr. |
 | 119 | 874 | Jessica Pineda-Lopez |
-| 120 | 868 | Sarajane Lokan |
-| 121 | 868 | Felicia Rocha |
+| 120 | 868 | Felicia Rocha |
+| 121 | 868 | Sarajane Lokan |
 | 122 | 864 | Sunny Rotater |
 | 123 | 861 | Bobbi Moore |
 | 124 | 860 | Kristie |
@@ -529,8 +529,8 @@
 | 521 | 255 | Mariah Williams |
 | 522 | 255 | LaNette Morgan |
 | 523 | 255 | Jolly Dashpiece |
-| 524 | 254 | Landycandii |
-| 525 | 254 | Katheline Lazo Luizaga |
+| 524 | 254 | Katheline Lazo Luizaga |
+| 525 | 254 | Landycandii |
 | 526 | 254 | atomictrin |
 | 527 | 253 | Boldy Blocker |
 | 528 | 253 | Kristen McAlpine |
@@ -539,9 +539,9 @@
 | 531 | 253 | Scouty |
 | 532 | 252 | Jason |
 | 533 | 252 | Josh Borquez |
-| 534 | 251 | Colleen Phelps |
-| 535 | 251 | Valerie Tarkington |
-| 536 | 251 | Jennifer Neiman Gaal |
+| 534 | 251 | Jennifer Neiman Gaal |
+| 535 | 251 | Colleen Phelps |
+| 536 | 251 | Valerie Tarkington |
 | 537 | 250 | Marcus Payton |
 | 538 | 250 | Bekah Dietrich |
 | 539 | 250 | Joshua David Huie |
