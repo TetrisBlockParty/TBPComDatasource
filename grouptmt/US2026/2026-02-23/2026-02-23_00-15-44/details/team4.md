@@ -51,8 +51,8 @@
 | 43 | 908 | Misty Hollibaugh |
 | 44 | 855 | Marvin Lou Martin |
 | 45 | 851 | Jae Job |
-| 46 | 846 | Lucille Truesdale |
-| 47 | 846 | Christine Marie |
+| 46 | 846 | Christine Marie |
+| 47 | 846 | Lucille Truesdale |
 | 48 | 845 | LisaJo Picken Buchanan |
 | 49 | 843 | Shelly Chandler |
 | 50 | 840 | TeeJ |
@@ -109,8 +109,8 @@
 | 101 | 512 | Diana Houts |
 | 102 | 510 | Scott Jameson |
 | 103 | 500 | Rodney McMath Jr. |
-| 104 | 499 | Christina LR |
-| 105 | 499 | Trista Leah |
+| 104 | 499 | Trista Leah |
+| 105 | 499 | Christina LR |
 | 106 | 488 | Jen Allison |
 | 107 | 487 | Alyssa Papen |
 | 108 | 487 | shar |
@@ -126,8 +126,8 @@
 | 118 | 458 | Twisty Clicky |
 | 119 | 448 | Kristin Manee |
 | 120 | 435 | Leslie Thomas |
-| 121 | 431 | Jolly Dashfit |
-| 122 | 431 | Courtney Cicoria |
+| 121 | 431 | Courtney Cicoria |
+| 122 | 431 | Jolly Dashfit |
 | 123 | 429 | Ren Mc |
 | 124 | 427 | KJ Pool |
 | 125 | 418 | Marie-Pier Desjardins |
@@ -164,8 +164,8 @@
 | 156 | 343 | Latisha Davis |
 | 157 | 342 | Klo |
 | 158 | 339 | David Lay |
-| 159 | 336 | Melissa Adams |
-| 160 | 336 | Peachy Fall |
+| 159 | 336 | Peachy Fall |
+| 160 | 336 | Melissa Adams |
 | 161 | 333 | Twisty Cascadezone |
 | 162 | 332 | Leslie Nicole |
 | 163 | 332 | HastyGrabber |
@@ -267,7 +267,7 @@
 | 259 | 216 | Chance Strickland |
 | 260 | 215 | John Brunetti |
 | 261 | 215 | Ziggy |
-| 262 | 214 | TinyLegoRose |
+| 262 | 214 | Patron Anderson |
 | 263 | 214 | Stacey Stano |
 | 264 | 214 | TinyLegoRose |
 | 265 | 213 | Angela Geist Jusinski |
@@ -284,7 +284,7 @@
 | 276 | 205 | Stella |
 | 277 | 205 | James Hurley Jr. |
 | 278 | 203 | Katherine Crane |
-| 279 | 202 | Stephme310 |
+| 279 | 202 | Shainne Brewer |
 | 280 | 202 | Angelito |
 | 281 | 202 | Stephme310 |
 | 282 | 201 | Silly SeaWeed |
@@ -321,11 +321,11 @@
 | 313 | 179 | AyeKay |
 | 314 | 179 | Denise B |
 | 315 | 178 | Zippy Tilt |
-| 316 | 177 | Shanon Klair |
+| 316 | 177 | Michelle Morris |
 | 317 | 177 | Ernest Maxwell |
-| 318 | 177 | Michelle Morris |
-| 319 | 175 | Lorena Guerrero-Barron |
-| 320 | 175 | Megan Cutshaw |
+| 318 | 177 | Shanon Klair |
+| 319 | 175 | Megan Cutshaw |
+| 320 | 175 | Lorena Guerrero-Barron |
 | 321 | 174 | Kathy Allen |
 | 322 | 174 | Shane Vick |
 | 323 | 173 | Ultramarine |
@@ -412,7 +412,7 @@
 | 404 | 148 | Mighty Edgepiece |
 | 405 | 147 | Jay28 |
 | 406 | 147 | Maureen Flanigan |
-| 407 | 147 | Jay28 |
+| 407 | 147 | Ashlee Carnes |
 | 408 | 146 | Brave Spinbuilder |
 | 409 | 145 | Glitzy Crasher |
 | 410 | 145 | Austin Trent Weaver |

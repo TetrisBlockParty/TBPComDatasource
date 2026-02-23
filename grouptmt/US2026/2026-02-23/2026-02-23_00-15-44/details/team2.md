@@ -719,8 +719,8 @@
 | 711 | 419 | Josh Dill |
 | 712 | 419 | Pocho Zavala |
 | 713 | 417 | Alexx Anaya |
-| 714 | 417 | Lathasa Newkirk |
-| 715 | 417 | Giggy Grabber |
+| 714 | 417 | Giggy Grabber |
+| 715 | 417 | Lathasa Newkirk |
 | 716 | 417 | N00D3S |
 | 717 | 415 | Mandy Kachenmeister |
 | 718 | 414 | John |
@@ -761,7 +761,7 @@
 | 753 | 396 | Heather Johnson |
 | 754 | 396 | Cassie Newton |
 | 755 | 395 | Vung Nguyen |
-| 756 | 395 | Heather Johnson |
+| 756 | 395 | Susan Arnburg |
 | 757 | 394 | Christina Jarvis-Swarbrick |
 | 758 | 393 | Jamie West |
 | 759 | 392 | Kevin Sees |

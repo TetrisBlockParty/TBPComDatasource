@@ -362,8 +362,8 @@
 | 354 | 247 | Daring Builder |
 | 355 | 245 | Latoya Mayne |
 | 356 | 244 | LaNette Morgan |
-| 357 | 244 | Tegan Chapman |
-| 358 | 244 | Quackers |
+| 357 | 244 | Quackers |
+| 358 | 244 | Tegan Chapman |
 | 359 | 243 | Josh Borquez |
 | 360 | 242 | Randy Clevenger |
 | 361 | 240 | Brian Battjes |
@@ -382,8 +382,8 @@
 | 374 | 232 | Nicholas Roddy |
 | 375 | 232 | Sunny Tiltgrid |
 | 376 | 231 | Frothy Snapper |
-| 377 | 231 | Kevin Russell |
-| 378 | 231 | 4girls |
+| 377 | 231 | 4girls |
+| 378 | 231 | Kevin Russell |
 | 379 | 230 | BigE |
 | 380 | 230 | Jessica Lynn French |
 | 381 | 229 | Everret Maxine |
@@ -486,8 +486,8 @@
 | 478 | 188 | Sassy Brickmatch |
 | 479 | 187 | Sabrina Mansfield |
 | 480 | 185 | Funky Jumper |
-| 481 | 184 | Cheeky Setter |
-| 482 | 184 | Shanon R Jackson |
+| 481 | 184 | Shanon R Jackson |
+| 482 | 184 | Cheeky Setter |
 | 483 | 183 | AC Yeater |
 | 484 | 182 | Alicia |
 | 485 | 182 | Johnathan Dowe |

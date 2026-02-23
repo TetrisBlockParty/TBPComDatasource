@@ -103,8 +103,8 @@
 | 95 | 483 | Jennifer ManWarren |
 | 96 | 480 | cc |
 | 97 | 474 | Tdub |
-| 98 | 472 | Kristen Gideon |
-| 99 | 472 | April Carroll |
+| 98 | 472 | April Carroll |
+| 99 | 472 | Kristen Gideon |
 | 100 | 469 | Tinah Montanna |
 | 101 | 466 | Hasbro Bros |
 | 102 | 462 | Luciano Moreira |
@@ -147,8 +147,8 @@
 | 139 | 364 | Serina Marie |
 | 140 | 364 | Shauna Loe |
 | 141 | 361 | Tanya Carpenter-Reynolds |
-| 142 | 360 | phrmblk24 |
-| 143 | 360 | Wisa |
+| 142 | 360 | Wisa |
+| 143 | 360 | phrmblk24 |
 | 144 | 359 | Chirpy Smasher |
 | 145 | 357 | Jason Savage |
 | 146 | 357 | Amanda Johnson Huffman |
@@ -333,8 +333,8 @@
 | 325 | 185 | Oscar Zamora |
 | 326 | 184 | Cranky Pattern |
 | 327 | 184 | Itspaigebro |
-| 328 | 183 | Chummy Rollblock |
-| 329 | 183 | Dino |
+| 328 | 183 | Dino |
+| 329 | 183 | Chummy Rollblock |
 | 330 | 182 | Nathan Sealander |
 | 331 | 181 | David DeSantis |
 | 332 | 179 | Ryan White |
