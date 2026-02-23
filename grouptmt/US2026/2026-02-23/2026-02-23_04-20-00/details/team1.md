@@ -158,8 +158,8 @@
 | 150 | 368 | Amanda Johnson Huffman |
 | 151 | 367 | Sharon Reynolds |
 | 152 | 365 | Carrie Smith |
-| 153 | 364 | Serina Marie |
-| 154 | 364 | Shauna Loe |
+| 153 | 364 | Shauna Loe |
+| 154 | 364 | Serina Marie |
 | 155 | 360 | Wisa |
 | 156 | 357 | David Lutcher |
 | 157 | 355 | Amanda Jarnagin |
@@ -348,10 +348,10 @@
 | 340 | 195 | Gary Gobin |
 | 341 | 195 | Renata Mabie |
 | 342 | 193 | Lachelle Dillon |
-| 343 | 192 | Νεφ Όνυξ |
-| 344 | 192 | Tipsy Tiltpiece |
-| 345 | 191 | John Garza |
-| 346 | 191 | Slinky Rotater |
+| 343 | 192 | Tipsy Tiltpiece |
+| 344 | 192 | Νεφ Όνυξ |
+| 345 | 191 | Slinky Rotater |
+| 346 | 191 | John Garza |
 | 347 | 191 | Garcia Bailey |
 | 348 | 190 | Pauline Cortez |
 | 349 | 190 | Sweetts |

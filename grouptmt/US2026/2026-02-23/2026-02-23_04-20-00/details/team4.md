@@ -86,8 +86,8 @@
 | 78 | 704 | Crystal Carroll |
 | 79 | 703 | Savannah Overdorf |
 | 80 | 697 | Alyssa Papen |
-| 81 | 684 | Jonathan Kimbrough |
-| 82 | 684 | Kimyatta Cavin |
+| 81 | 684 | Kimyatta Cavin |
+| 82 | 684 | Jonathan Kimbrough |
 | 83 | 677 | Trista Leah |
 | 84 | 673 | Jacqueline Helm |
 | 85 | 672 | Shane Kalamata Platoon |
@@ -135,15 +135,15 @@
 | 127 | 458 | Twisty Clicky |
 | 128 | 451 | Peachy Fall |
 | 129 | 448 | Kristin Manee |
-| 130 | 435 | Leslie Thomas |
-| 131 | 435 | Kristina Black |
+| 130 | 435 | Kristina Black |
+| 131 | 435 | Leslie Thomas |
 | 132 | 431 | Courtney Cicoria |
 | 133 | 425 | Monica Daley |
 | 134 | 421 | JIGsaw ~(•¿°)~ |
 | 135 | 421 | Kesha Brady |
 | 136 | 419 | Klo |
-| 137 | 418 | Lush Linkfall |
-| 138 | 418 | Marie-Pier Desjardins |
+| 137 | 418 | Marie-Pier Desjardins |
+| 138 | 418 | Lush Linkfall |
 | 139 | 416 | Chaz Duncan |
 | 140 | 414 | Nope Young |
 | 141 | 412 | Jessica Bohlken |
@@ -157,8 +157,8 @@
 | 149 | 393 | Carlton Unfiltered |
 | 150 | 391 | Ramel Rhodes |
 | 151 | 389 | Joseph Guthrie |
-| 152 | 387 | 🥔🥔 Spudz |
-| 153 | 387 | Lucas J Sutton |
+| 152 | 387 | Lucas J Sutton |
+| 153 | 387 | 🥔🥔 Spudz |
 | 154 | 377 | Carrie Brian |
 | 155 | 375 | Desi Desporte |
 | 156 | 375 | ThaEviLJeNiuZ |
@@ -166,8 +166,8 @@
 | 158 | 374 | Guy Incognito |
 | 159 | 373 | Tyler Terrific |
 | 160 | 370 | Oscar Alberto Perez |
-| 161 | 368 | Raegan Lane-Ross |
-| 162 | 368 | Brandon Crabbs |
+| 161 | 368 | Brandon Crabbs |
+| 162 | 368 | Raegan Lane-Ross |
 | 163 | 368 | Silly Zonebuilder |
 | 164 | 365 | Jeff Brian Gates |
 | 165 | 365 | Lindsey Gonzalez |
@@ -184,8 +184,8 @@
 | 176 | 347 | Daria Rycewicz |
 | 177 | 339 | David Lay |
 | 178 | 333 | shark tato |
-| 179 | 332 | Crystal Nicolette Moore |
-| 180 | 332 | HastyGrabber |
+| 179 | 332 | HastyGrabber |
+| 180 | 332 | Crystal Nicolette Moore |
 | 181 | 331 | Kris Bartlett |
 | 182 | 330 | Kathy Brookins |
 | 183 | 328 | scott |
@@ -236,8 +236,8 @@
 | 228 | 272 | Dennis Bradley |
 | 229 | 272 | Alan George LaRage |
 | 230 | 271 | Holly |
-| 231 | 270 | Juls |
-| 232 | 270 | Jen Caldwell |
+| 231 | 270 | Jen Caldwell |
+| 232 | 270 | Juls |
 | 233 | 266 | Mr. Party |
 | 234 | 265 | Sarah Neathery |
 | 235 | 265 | Silly SeaWeed |
@@ -249,8 +249,8 @@
 | 241 | 259 | Allen Lloyd |
 | 242 | 259 | Montiette Mcglown |
 | 243 | 257 | PeaceOs |
-| 244 | 256 | Mylo Lipscomb |
-| 245 | 256 | Metsfan |
+| 244 | 256 | Metsfan |
+| 245 | 256 | Mylo Lipscomb |
 | 246 | 255 | Zethra Prenisha Rahming |
 | 247 | 253 | Autum Leigh |
 | 248 | 252 | John Brunetti |
@@ -280,8 +280,8 @@
 | 272 | 233 | Ruben Wheeler |
 | 273 | 232 | Rio Rocha |
 | 274 | 228 | Bethany Ison |
-| 275 | 226 | Cranky Rollpiece |
-| 276 | 226 | Dizzy Matchzone |
+| 275 | 226 | Dizzy Matchzone |
+| 276 | 226 | Cranky Rollpiece |
 | 277 | 225 | Jenna McGeorge |
 | 278 | 223 | Amanda Christine |
 | 279 | 223 | Adawna Swires |
@@ -336,8 +336,8 @@
 | 328 | 194 | Zany Twisterfit |
 | 329 | 194 | SammieJo Guy |
 | 330 | 192 | Twisty Risebuilder |
-| 331 | 191 | Norman Klick |
-| 332 | 191 | Earnest Thompson |
+| 331 | 191 | Earnest Thompson |
+| 332 | 191 | Norman Klick |
 | 333 | 190 | wombat |
 | 334 | 189 | Berklie Apedaile |
 | 335 | 189 | Lauren Lamb |
@@ -356,7 +356,7 @@
 | 348 | 185 | Laura Hosford |
 | 349 | 183 | Darrin Rubalcava |
 | 350 | 183 | Russ Attitude |
-| 351 | 183 | Darrin Rubalcava |
+| 351 | 183 | Cozy Balancer |
 | 352 | 182 | Neil Ingham |
 | 353 | 182 | Ellen Durfee |
 | 354 | 181 | Nikki Wilson |

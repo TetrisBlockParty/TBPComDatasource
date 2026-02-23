@@ -144,8 +144,8 @@
 | 136 | 1639 | Jessie McDougald |
 | 137 | 1631 | Speedy Spinblock |
 | 138 | 1629 | Mari Ac |
-| 139 | 1623 | Janel Turley-Garner |
-| 140 | 1623 | Rebecca Doughman |
+| 139 | 1623 | Rebecca Doughman |
+| 140 | 1623 | Janel Turley-Garner |
 | 141 | 1605 | Christi Hulet |
 | 142 | 1602 | blackq |
 | 143 | 1601 | Ray Ray Prado |
@@ -157,8 +157,8 @@
 | 149 | 1578 | Loopy Clusterbuilder |
 | 150 | 1571 | Alisa Lamb |
 | 151 | 1560 | Donnie Hunt |
-| 152 | 1558 | Stephen Stephen |
-| 153 | 1558 | Tim Dyer |
+| 152 | 1558 | Tim Dyer |
+| 153 | 1558 | Stephen Stephen |
 | 154 | 1555 | blarg |
 | 155 | 1541 | Cherica Taylor |
 | 156 | 1537 | Desiree Harris Rosch |
@@ -220,8 +220,8 @@
 | 212 | 1214 | David Cudicio-Hayden |
 | 213 | 1213 | Foxxo |
 | 214 | 1210 | Jane Fong |
-| 215 | 1205 | Tony Lea |
-| 216 | 1205 | Tralonda Weeks |
+| 215 | 1205 | Tralonda Weeks |
+| 216 | 1205 | Tony Lea |
 | 217 | 1198 | Carrie Trigg |
 | 218 | 1197 | Ricardo Burton |
 | 219 | 1192 | Denisha Dawkins |
@@ -541,8 +541,8 @@
 | 533 | 598 | Victoria Regina Girolami |
 | 534 | 598 | Leah Keesling |
 | 535 | 597 | snkylnk |
-| 536 | 597 | Jamie Schmitt |
-| 537 | 597 | Magic steve |
+| 536 | 597 | Magic steve |
+| 537 | 597 | Jamie Schmitt |
 | 538 | 596 | Davetta Sanford |
 | 539 | 595 | Tracy Wise |
 | 540 | 593 | Dapper Dasher |
@@ -574,11 +574,11 @@
 | 566 | 566 | Isabelle Bonneau |
 | 567 | 566 | Tina Marie |
 | 568 | 563 | Frisky Clearpiece |
-| 569 | 562 | Sabrena Yeisley |
-| 570 | 562 | AISlop |
+| 569 | 562 | AISlop |
+| 570 | 562 | Sabrena Yeisley |
 | 571 | 560 | SwampRebel |
-| 572 | 559 | Slip |
-| 573 | 559 | Anthony Huebel |
+| 572 | 559 | Anthony Huebel |
+| 573 | 559 | Slip |
 | 574 | 558 | Libby Hicks |
 | 575 | 554 | Dizzy Zone |
 | 576 | 554 | Tra Barnum |
@@ -588,11 +588,11 @@
 | 580 | 551 | Matt Johnson |
 | 581 | 551 | Samuel Macon |
 | 582 | 551 | Cynthia Louann Rose |
-| 583 | 550 | Misty Mitchell |
-| 584 | 550 | Michelle Sager |
+| 583 | 550 | Michelle Sager |
+| 584 | 550 | Misty Mitchell |
 | 585 | 550 | Frilly Fallzone |
-| 586 | 549 | Kaylee McCafferty |
-| 587 | 549 | Melissa Kay Gibson |
+| 586 | 549 | Melissa Kay Gibson |
+| 587 | 549 | Kaylee McCafferty |
 | 588 | 547 | Hunter Connors |
 | 589 | 546 | Crystal Greene |
 | 590 | 545 | Venita Ray |
@@ -814,8 +814,8 @@
 | 806 | 416 | Gina Caulder |
 | 807 | 415 | Noel Tarmy |
 | 808 | 414 | Cini |
-| 809 | 414 | Court |
-| 810 | 414 | Rose Fx |
+| 809 | 414 | Rose Fx |
+| 810 | 414 | Court |
 | 811 | 413 | Ashley Robbins |
 | 812 | 413 | Moist_B-hole |
 | 813 | 413 | Abby Klaski |
@@ -1012,8 +1012,8 @@
 | 1004 | 342 | SwifftFox |
 | 1005 | 342 | Theresa Sterrett |
 | 1006 | 342 | Danielle DeLozier Plesec |
-| 1007 | 342 | Patrick Fleming |
-| 1008 | 342 | Emoniee Sa'niaya |
+| 1007 | 342 | Emoniee Sa'niaya |
+| 1008 | 342 | Patrick Fleming |
 | 1009 | 341 | Persipnei Cuesta |
 | 1010 | 341 | Robin L. Vial |
 | 1011 | 340 | RetroLemur |
@@ -1693,7 +1693,7 @@
 | 1685 | 219 | Christina Jones |
 | 1686 | 219 | Poppy Bricky |
 | 1687 | 219 | Tracie |
-| 1688 | 219 | Poppy Bricky |
+| 1688 | 219 | Hannah Leigh Pelofsky |
 | 1689 | 219 | Gaby |
 | 1690 | 218 | Dandy Drop |
 | 1691 | 218 | Karla Patricia Garcia |
