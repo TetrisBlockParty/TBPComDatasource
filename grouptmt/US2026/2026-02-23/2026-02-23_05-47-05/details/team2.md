@@ -151,8 +151,8 @@
 | 143 | 1639 | Jessie McDougald |
 | 144 | 1638 | Speedy Spinblock |
 | 145 | 1629 | Mari Ac |
-| 146 | 1623 | Rebecca Doughman |
-| 147 | 1623 | Janel Turley-Garner |
+| 146 | 1623 | Janel Turley-Garner |
+| 147 | 1623 | Rebecca Doughman |
 | 148 | 1605 | Christi Hulet |
 | 149 | 1602 | blackq |
 | 150 | 1601 | Ray Ray Prado |
@@ -299,8 +299,8 @@
 | 291 | 987 | Osun Anuket Esu |
 | 292 | 984 | Crystal Hoffman |
 | 293 | 981 | Ashlen Dorrell |
-| 294 | 979 | Melissa Penelope Ann Dodge |
-| 295 | 979 | Hillary Crawford |
+| 294 | 979 | Hillary Crawford |
+| 295 | 979 | Melissa Penelope Ann Dodge |
 | 296 | 978 | April Dawn Gussler |
 | 297 | 976 | Sam Joe |
 | 298 | 976 | Della Hole |
@@ -311,8 +311,8 @@
 | 303 | 969 | Boldy Cascadepiece |
 | 304 | 965 | F-X |
 | 305 | 961 | Angela Lynn |
-| 306 | 958 | Doowop40 |
-| 307 | 958 | Brenda Messer |
+| 306 | 958 | Brenda Messer |
+| 307 | 958 | Doowop40 |
 | 308 | 957 | Block Master |
 | 309 | 956 | Phil J. Grombliniak |
 | 310 | 955 | Hyper Cluster |
@@ -330,14 +330,14 @@
 | 322 | 915 | Kelly Trent |
 | 323 | 914 | Shuany Arias |
 | 324 | 907 | Gene Mills |
-| 325 | 904 | John Bednarik |
-| 326 | 904 | Jennifer Aiken |
+| 325 | 904 | Jennifer Aiken |
+| 326 | 904 | John Bednarik |
 | 327 | 904 | Bee |
 | 328 | 903 | Giggy Blocker |
 | 329 | 902 | William Hunt |
 | 330 | 901 | Kevin Sees |
-| 331 | 899 | Chevy |
-| 332 | 899 | Patrick Bartlett |
+| 331 | 899 | Patrick Bartlett |
+| 332 | 899 | Chevy |
 | 333 | 898 | Jamie Otero |
 | 334 | 895 | Donna Colby |
 | 335 | 890 | Steve Man |
@@ -532,11 +532,11 @@
 | 524 | 620 | Brenna Ann |
 | 525 | 619 | Lylymom |
 | 526 | 618 | Vanessa Moreno |
-| 527 | 617 | Kacee Conrad Bock |
-| 528 | 617 | Darcy Mae |
+| 527 | 617 | Darcy Mae |
+| 528 | 617 | Kacee Conrad Bock |
 | 529 | 615 | Nerdy Pattern |
-| 530 | 615 | Lyndi Robinson Wakefield |
-| 531 | 615 | Julio A Laracuente |
+| 530 | 615 | Julio A Laracuente |
+| 531 | 615 | Lyndi Robinson Wakefield |
 | 532 | 614 | Jessica S Flecha |
 | 533 | 614 | Emilee Burke |
 | 534 | 613 | Biggest thing |
@@ -585,8 +585,8 @@
 | 577 | 572 | Rachael Senard |
 | 578 | 572 | Alexandra Lynn |
 | 579 | 571 | Wendy Unsain |
-| 580 | 571 | Emily Lyric Converse |
-| 581 | 571 | Koa N Sharon Chen |
+| 580 | 571 | Koa N Sharon Chen |
+| 581 | 571 | Emily Lyric Converse |
 | 582 | 569 | Sparkles |
 | 583 | 568 | Slip |
 | 584 | 567 | Blacc Blac |

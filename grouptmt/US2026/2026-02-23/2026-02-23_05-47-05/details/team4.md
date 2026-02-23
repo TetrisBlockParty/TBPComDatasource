@@ -59,8 +59,8 @@
 | 51 | 870 | BertMofo |
 | 52 | 863 | Pee |
 | 53 | 853 | TeeJ |
-| 54 | 846 | Christine Marie |
-| 55 | 846 | Lucille Truesdale |
+| 54 | 846 | Lucille Truesdale |
+| 55 | 846 | Christine Marie |
 | 56 | 845 | LisaJo Picken Buchanan |
 | 57 | 843 | Shelly Chandler |
 | 58 | 834 | quicksand420 |
@@ -88,8 +88,8 @@
 | 80 | 697 | Alyssa Papen |
 | 81 | 696 | Shane Kalamata Platoon |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Kimyatta Cavin |
-| 84 | 684 | Jonathan Kimbrough |
+| 83 | 684 | Jonathan Kimbrough |
+| 84 | 684 | Kimyatta Cavin |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -164,8 +164,8 @@
 | 156 | 391 | Ramel Rhodes |
 | 157 | 389 | Joseph Guthrie |
 | 158 | 387 | Lucas J Sutton |
-| 159 | 375 | Desi Desporte |
-| 160 | 375 | ThaEviLJeNiuZ |
+| 159 | 375 | ThaEviLJeNiuZ |
+| 160 | 375 | Desi Desporte |
 | 161 | 374 | Guy Incognito |
 | 162 | 370 | Oscar Alberto Perez |
 | 163 | 369 | Lindsey Gonzalez |
@@ -174,8 +174,8 @@
 | 166 | 368 | Brandon Crabbs |
 | 167 | 368 | Chris Bernstein |
 | 168 | 365 | Jeff Brian Gates |
-| 169 | 361 | Melissa Adams |
-| 170 | 361 | Danielle Kollias |
+| 169 | 361 | Danielle Kollias |
+| 170 | 361 | Melissa Adams |
 | 171 | 359 | Keith Kelley |
 | 172 | 358 | A5! |
 | 173 | 356 | George Nutt |
@@ -201,12 +201,12 @@
 | 193 | 321 | Meagan Nicole |
 | 194 | 320 | Lauren Scott |
 | 195 | 318 | Chris Hartig |
-| 196 | 316 | Cursed Hag |
-| 197 | 316 | Autumn Kumzi |
+| 196 | 316 | Autumn Kumzi |
+| 197 | 316 | Cursed Hag |
 | 198 | 311 | Mary Ann Pabukis |
 | 199 | 310 | Holly Jolly |
-| 200 | 307 | Cheery Risebuilder |
-| 201 | 307 | Michele Plunkett |
+| 200 | 307 | Michele Plunkett |
+| 201 | 307 | Cheery Risebuilder |
 | 202 | 306 | blockstar |
 | 203 | 305 | Melvin Baird |
 | 204 | 304 | Lindsay Ball |
@@ -242,8 +242,8 @@
 | 234 | 272 | Alan George LaRage |
 | 235 | 272 | Carlos Ramirez |
 | 236 | 271 | Holly |
-| 237 | 270 | Jen Caldwell |
-| 238 | 270 | Juls |
+| 237 | 270 | Juls |
+| 238 | 270 | Jen Caldwell |
 | 239 | 266 | Mr. Party |
 | 240 | 265 | Silly SeaWeed |
 | 241 | 265 | Sarah Neathery |
@@ -303,7 +303,7 @@
 | 295 | 221 | Rheanda Weaskus |
 | 296 | 220 | Ziggy |
 | 297 | 220 | Jumpy Zonepiece |
-| 298 | 220 | Ziggy |
+| 298 | 220 | Tina Lopez |
 | 299 | 219 | Shane Vick |
 | 300 | 219 | Orchislactea |
 | 301 | 219 | Malakai Darien Fox |

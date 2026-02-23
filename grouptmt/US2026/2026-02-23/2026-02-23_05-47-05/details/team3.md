@@ -125,8 +125,8 @@
 | 117 | 769 | Kristie |
 | 118 | 764 | Groovy Catcher |
 | 119 | 762 | Speedy Bridger |
-| 120 | 752 | Raya |
-| 121 | 752 | Logan Naccarato |
+| 120 | 752 | Logan Naccarato |
+| 121 | 752 | Raya |
 | 122 | 748 | Adrian Marcel Pate |
 | 123 | 745 | JerseyJess |
 | 124 | 744 | Leah Barnett |
@@ -217,8 +217,8 @@
 | 209 | 465 | Annie Déè |
 | 210 | 464 | Shunta Jacobs |
 | 211 | 464 | Danielle Weikel |
-| 212 | 458 | Danielle Rhoades |
-| 213 | 458 | Tom Nault |
+| 212 | 458 | Tom Nault |
+| 213 | 458 | Danielle Rhoades |
 | 214 | 457 | Edwin Calvillo Jr. |
 | 215 | 454 | Joye Sims Binion |
 | 216 | 453 | Staci George Fitzsimmons |
@@ -228,8 +228,8 @@
 | 220 | 445 | Fallorina Susana |
 | 221 | 437 | Loopy Clusterer |
 | 222 | 432 | Luciana Braganca Vieira |
-| 223 | 431 | Wendy Dearden |
-| 224 | 431 | Ammmmmmy |
+| 223 | 431 | Ammmmmmy |
+| 224 | 431 | Wendy Dearden |
 | 225 | 430 | Jeni Dow |
 | 226 | 415 | ren |
 | 227 | 414 | Fran Lin |
@@ -539,9 +539,9 @@
 | 531 | 195 | Nicha Hooker |
 | 532 | 194 | Kevin Fountain |
 | 533 | 194 | Shicken Nuggit |
-| 534 | 193 | Clever Shiftsnap |
-| 535 | 193 | Bryan Byrd |
-| 536 | 193 | Spicy Cascadepiece |
+| 534 | 193 | Spicy Cascadepiece |
+| 535 | 193 | Clever Shiftsnap |
+| 536 | 193 | Bryan Byrd |
 | 537 | 193 | Ginger Gray |
 | 538 | 192 | Weerae |
 | 539 | 192 | Kelly Ann Child |
