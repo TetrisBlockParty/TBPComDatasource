@@ -315,8 +315,8 @@
 | 307 | 914 | Shuany Arias |
 | 308 | 911 | Ashlen Dorrell |
 | 309 | 911 | Boldy Cascadepiece |
-| 310 | 907 | Michelle Lee |
-| 311 | 907 | Gene Mills |
+| 310 | 907 | Gene Mills |
+| 311 | 907 | Michelle Lee |
 | 312 | 905 | F-X |
 | 313 | 904 | John Bednarik |
 | 314 | 904 | Jennifer Aiken |
@@ -359,16 +359,16 @@
 | 351 | 818 | Jessica Wayne Cornwall |
 | 352 | 818 | Sinistah42o |
 | 353 | 816 | James Simms III |
-| 354 | 812 | Samantha Jo |
-| 355 | 812 | Jackie Lucas |
-| 356 | 808 | Amber Brion |
-| 357 | 808 | Desire Rice |
-| 358 | 808 | Laura McCarthey |
+| 354 | 812 | Jackie Lucas |
+| 355 | 812 | Samantha Jo |
+| 356 | 808 | Desire Rice |
+| 357 | 808 | Laura McCarthey |
+| 358 | 808 | Amber Brion |
 | 359 | 804 | Becca Coronado |
 | 360 | 802 | Denise Rickman |
 | 361 | 801 | Gold Rose |
-| 362 | 801 | Lisa Ongtowasruk |
-| 363 | 801 | Diana Fitzwater |
+| 362 | 801 | Diana Fitzwater |
+| 363 | 801 | Lisa Ongtowasruk |
 | 364 | 799 | Joy LaJeunesse |
 | 365 | 796 | Amber Gray |
 | 366 | 795 | Lemonaide |
@@ -406,8 +406,8 @@
 | 398 | 748 | Brenda Utphall |
 | 399 | 748 | Spunkysmom |
 | 400 | 747 | Kiely Tomaskovich |
-| 401 | 746 | Leslie Ann Carter |
-| 402 | 746 | Jerilyn Andrina |
+| 401 | 746 | Jerilyn Andrina |
+| 402 | 746 | Leslie Ann Carter |
 | 403 | 746 | Aimee Campbell |
 | 404 | 744 | Mandi Douglas Hilt |
 | 405 | 743 | Tiara Elizabeth Baker |
@@ -463,8 +463,8 @@
 | 455 | 680 | blume |
 | 456 | 679 | Kassandra Hunt |
 | 457 | 678 | AgileDragon |
-| 458 | 677 | Amanda Woodruff |
-| 459 | 677 | Ellie Jonas |
+| 458 | 677 | Ellie Jonas |
+| 459 | 677 | Amanda Woodruff |
 | 460 | 677 | Kayleigh Wisse |
 | 461 | 676 | Roseanna Peloso |
 | 462 | 676 | Brandon Armstrong |
@@ -838,7 +838,7 @@
 | 830 | 398 | Witty Piecebuilder |
 | 831 | 398 | TF Dyer |
 | 832 | 398 | Juan Killyoselfifudontlikeme Ronaldo |
-| 833 | 397 | Cris cris |
+| 833 | 397 | Dawn Woosley Bowes |
 | 834 | 397 | Jessica Conaway |
 | 835 | 397 | Cris cris |
 | 836 | 396 | Cassie Newton |

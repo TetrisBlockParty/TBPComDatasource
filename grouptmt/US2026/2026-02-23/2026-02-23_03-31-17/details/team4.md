@@ -57,8 +57,8 @@
 | 49 | 863 | Pee |
 | 50 | 855 | Marvin Lou Martin |
 | 51 | 853 | TeeJ |
-| 52 | 846 | Lucille Truesdale |
-| 53 | 846 | Christine Marie |
+| 52 | 846 | Christine Marie |
+| 53 | 846 | Lucille Truesdale |
 | 54 | 845 | LisaJo Picken Buchanan |
 | 55 | 843 | Shelly Chandler |
 | 56 | 841 | Anthony Bryan Riva |
@@ -133,8 +133,8 @@
 | 125 | 452 | Jolly Dashfit |
 | 126 | 451 | Peachy Fall |
 | 127 | 448 | Kristin Manee |
-| 128 | 435 | Kristina Black |
-| 129 | 435 | Leslie Thomas |
+| 128 | 435 | Leslie Thomas |
+| 129 | 435 | Kristina Black |
 | 130 | 431 | Courtney Cicoria |
 | 131 | 423 | Austin Owens |
 | 132 | 421 | Kesha Brady |
@@ -156,8 +156,8 @@
 | 148 | 393 | Carlton Unfiltered |
 | 149 | 391 | Ramel Rhodes |
 | 150 | 389 | Joseph Guthrie |
-| 151 | 387 | Lucas J Sutton |
-| 152 | 387 | 🥔🥔 Spudz |
+| 151 | 387 | 🥔🥔 Spudz |
+| 152 | 387 | Lucas J Sutton |
 | 153 | 377 | Carrie Brian |
 | 154 | 375 | Desi Desporte |
 | 155 | 375 | ThaEviLJeNiuZ |
@@ -200,8 +200,8 @@
 | 192 | 307 | Michele Plunkett |
 | 193 | 306 | blockstar |
 | 194 | 305 | Melvin Baird |
-| 195 | 304 | Mary Ann Pabukis |
-| 196 | 304 | Lindsay Ball |
+| 195 | 304 | Lindsay Ball |
+| 196 | 304 | Mary Ann Pabukis |
 | 197 | 302 | Cursed Hag |
 | 198 | 301 | Andria Lynn |
 | 199 | 300 | Dana Scott |
@@ -217,8 +217,8 @@
 | 209 | 288 | Leah Kutz Zirbel |
 | 210 | 288 | Brittney Orengo |
 | 211 | 287 | Plucky Patternblock |
-| 212 | 286 | Sam Bishop |
-| 213 | 286 | Zesty Twistbuilder |
+| 212 | 286 | Zesty Twistbuilder |
+| 213 | 286 | Sam Bishop |
 | 214 | 284 | Mimi |
 | 215 | 282 | Matt Gooder |
 | 216 | 282 | Kim Klutz Olson |
@@ -279,8 +279,8 @@
 | 271 | 232 | Joanna |
 | 272 | 232 | Chair |
 | 273 | 228 | Bethany Ison |
-| 274 | 226 | Cranky Rollpiece |
-| 275 | 226 | Dizzy Matchzone |
+| 274 | 226 | Dizzy Matchzone |
+| 275 | 226 | Cranky Rollpiece |
 | 276 | 225 | Jenna McGeorge |
 | 277 | 223 | Adawna Swires |
 | 278 | 223 | Amanda Christine |
@@ -332,8 +332,8 @@
 | 324 | 194 | SammieJo Guy |
 | 325 | 194 | Zany Twisterfit |
 | 326 | 192 | Twisty Risebuilder |
-| 327 | 191 | Earnest Thompson |
-| 328 | 191 | Norman Klick |
+| 327 | 191 | Norman Klick |
+| 328 | 191 | Earnest Thompson |
 | 329 | 190 | wombat |
 | 330 | 189 | Berklie Apedaile |
 | 331 | 189 | Lauren Lamb |
@@ -520,11 +520,11 @@
 | 512 | 130 | Holly Tracey-Grimes |
 | 513 | 130 | Stacy |
 | 514 | 129 | Tamika Starkey |
-| 515 | 129 | The Murphy |
-| 516 | 129 | Dreamy Snapgrid |
+| 515 | 129 | Dreamy Snapgrid |
+| 516 | 129 | The Murphy |
 | 517 | 128 | Lazy Glidepiece |
-| 518 | 128 | Zesty Linkgrid |
-| 519 | 128 | Raymond Roberts |
+| 518 | 128 | Raymond Roberts |
+| 519 | 128 | Zesty Linkgrid |
 | 520 | 128 | Shirl |
 | 521 | 127 | Jay You |
 | 522 | 126 | Spicy Cascadezone |

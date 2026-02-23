@@ -104,8 +104,8 @@
 | 96 | 492 | Ash Galvan |
 | 97 | 489 | Deanna L Hermanson |
 | 98 | 486 | Tater |
-| 99 | 483 | cc |
-| 100 | 483 | Tdub |
+| 99 | 483 | Tdub |
+| 100 | 483 | cc |
 | 101 | 477 | April Carroll |
 | 102 | 472 | Hasbro Bros |
 | 103 | 462 | Luciano Moreira |
@@ -156,8 +156,8 @@
 | 148 | 368 | Death |
 | 149 | 368 | Amanda Johnson Huffman |
 | 150 | 367 | Sharon Reynolds |
-| 151 | 364 | Serina Marie |
-| 152 | 364 | Shauna Loe |
+| 151 | 364 | Shauna Loe |
+| 152 | 364 | Serina Marie |
 | 153 | 360 | Wisa |
 | 154 | 355 | Carrie Smith |
 | 155 | 353 | Josh Riemer |
@@ -201,8 +201,8 @@
 | 193 | 304 | ALFD |
 | 194 | 301 | Damon J. Martin |
 | 195 | 297 | Jen Nystrom |
-| 196 | 296 | Cody Gates |
-| 197 | 296 | Witty Builderfit |
+| 196 | 296 | Witty Builderfit |
+| 197 | 296 | Cody Gates |
 | 198 | 295 | Sleepysloath5745 |
 | 199 | 294 | Margo Wagner |
 | 200 | 294 | Bindi |
@@ -210,8 +210,8 @@
 | 202 | 291 | Brave Wrecker |
 | 203 | 290 | Speedy Liney |
 | 204 | 285 | Shanae Grant |
-| 205 | 283 | Billie Ann Eason |
-| 206 | 283 | Amanda Holibaugh |
+| 205 | 283 | Amanda Holibaugh |
+| 206 | 283 | Billie Ann Eason |
 | 207 | 283 | Franswa |
 | 208 | 283 | Christy Jones |
 | 209 | 282 | Snippy Wipebuilder |
@@ -237,8 +237,8 @@
 | 229 | 263 | Perky Shiftsnap |
 | 230 | 263 | Jessie Lynn |
 | 231 | 261 | John J. Cronin |
-| 232 | 260 | Marianita Garcia |
-| 233 | 260 | Lacy Wolfe |
+| 232 | 260 | Lacy Wolfe |
+| 233 | 260 | Marianita Garcia |
 | 234 | 257 | Lakeisha Chapman |
 | 235 | 256 | Snappy Matcher |
 | 236 | 255 | Giggly Builderline |

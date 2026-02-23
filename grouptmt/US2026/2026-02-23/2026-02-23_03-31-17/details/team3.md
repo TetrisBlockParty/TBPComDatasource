@@ -173,8 +173,8 @@
 | 165 | 562 | Dave Herzog |
 | 166 | 557 | Michael Nowogorski |
 | 167 | 553 | LaTanya GeminiondaRise Johnson |
-| 168 | 546 | Cynthia Castros-Hampton |
-| 169 | 546 | Mykal Burton |
+| 168 | 546 | Mykal Burton |
+| 169 | 546 | Cynthia Castros-Hampton |
 | 170 | 540 | Elissa S-k |
 | 171 | 540 | Shawn Miller |
 | 172 | 535 | Jone |
@@ -218,8 +218,8 @@
 | 210 | 435 | Loopy Clusterer |
 | 211 | 435 | Fallorina Susana |
 | 212 | 432 | Luciana Braganca Vieira |
-| 213 | 432 | Christine Trester |
-| 214 | 432 | Jenny Hrndz |
+| 213 | 432 | Jenny Hrndz |
+| 214 | 432 | Christine Trester |
 | 215 | 431 | Wendy Dearden |
 | 216 | 430 | Joye Sims Binion |
 | 217 | 430 | Jeni Dow |
@@ -236,9 +236,9 @@
 | 228 | 403 | Scott Lindsay |
 | 229 | 400 | Denita Mungro |
 | 230 | 393 | Rebecca Funderburk Kirby |
-| 231 | 391 | Trisha Balmer |
-| 232 | 391 | Scott Carleton |
-| 233 | 391 | Nicole Flippo |
+| 231 | 391 | Nicole Flippo |
+| 232 | 391 | Trisha Balmer |
+| 233 | 391 | Scott Carleton |
 | 234 | 390 | rosy |
 | 235 | 389 | RickyG |
 | 236 | 387 | Gideon Walker |
@@ -254,8 +254,8 @@
 | 246 | 371 | block chick |
 | 247 | 370 | Chummy Caster |
 | 248 | 369 | Keis |
-| 249 | 369 | Snazzy Filler |
-| 250 | 369 | Marquita Sheard |
+| 249 | 369 | Marquita Sheard |
+| 250 | 369 | Snazzy Filler |
 | 251 | 368 | Stephanie Woods |
 | 252 | 368 | Sheila M Frazier |
 | 253 | 367 | Kristin Delibac Corrigan |
@@ -268,8 +268,8 @@
 | 260 | 357 | Cesar Barraza |
 | 261 | 354 | Kelly |
 | 262 | 353 | Dee Franklin |
-| 263 | 352 | Christian Werndl |
-| 264 | 352 | Samantha Lynn |
+| 263 | 352 | Samantha Lynn |
+| 264 | 352 | Christian Werndl |
 | 265 | 351 | Eon Harris |
 | 266 | 349 | Amanda J. Mcneil-Anderson |
 | 267 | 348 | Cyd061769 |
@@ -278,8 +278,8 @@
 | 270 | 346 | Tamara Deherrera |
 | 271 | 345 | MsBee |
 | 272 | 344 | Roary Danner |
-| 273 | 343 | Ashley Raines |
-| 274 | 343 | Ashley Rufus Bythcez |
+| 273 | 343 | Ashley Rufus Bythcez |
+| 274 | 343 | Ashley Raines |
 | 275 | 341 | Ashley Tookes |
 | 276 | 339 | Cynthia Herrmann Egland |
 | 277 | 338 | Gumbo |
@@ -665,8 +665,8 @@
 | 657 | 154 | Lexi |
 | 658 | 153 | Jada Cox |
 | 659 | 153 | Jessie Chung |
-| 660 | 152 | Louise Parker |
-| 661 | 152 | Christine Vosburgh |
+| 660 | 152 | Christine Vosburgh |
+| 661 | 152 | Louise Parker |
 | 662 | 151 | Lisa Bard |
 | 663 | 150 | Sapphire87 |
 | 664 | 150 | Leticia Lynn Lowe |
