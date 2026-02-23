@@ -351,9 +351,9 @@
 | 343 | 219 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 344 | 219 | Jeanna Dunn |
 | 345 | 218 | Jason Benitez |
-| 346 | 217 | Betsy |
-| 347 | 217 | Speedy Snapfall |
-| 348 | 217 | Cheeky Crusher |
+| 346 | 217 | Speedy Snapfall |
+| 347 | 217 | Cheeky Crusher |
+| 348 | 217 | Betsy |
 | 349 | 216 | Chad Atchley |
 | 350 | 216 | Shauntina Burke |
 | 351 | 215 | Quirky Pusher |
