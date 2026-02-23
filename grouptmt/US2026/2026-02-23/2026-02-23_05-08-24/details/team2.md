@@ -93,8 +93,8 @@
 | 85 | 2515 | Crystalin Heath Lewis |
 | 86 | 2500 | Rosemadder |
 | 87 | 2438 | Rob Surace |
-| 88 | 2428 | Thomas Hughes |
-| 89 | 2428 | Deanna Morton |
+| 88 | 2428 | Deanna Morton |
+| 89 | 2428 | Thomas Hughes |
 | 90 | 2410 | RdRydnHd |
 | 91 | 2400 | Rich Sullivan |
 | 92 | 2375 | Megan Peckham |
@@ -434,8 +434,8 @@
 | 426 | 731 | Charvi' Carter |
 | 427 | 730 | Hoppy Brickmatch |
 | 428 | 729 | goofinoff |
-| 429 | 728 | Tom Riefer |
-| 430 | 728 | Dylan Thomason |
+| 429 | 728 | Dylan Thomason |
+| 430 | 728 | Tom Riefer |
 | 431 | 726 | Crystal Greene |
 | 432 | 725 | Ronnie Nelson |
 | 433 | 725 | Vonceial Boone |
@@ -1639,8 +1639,8 @@
 | 1631 | 230 | Hannah Johnson |
 | 1632 | 230 | Helena Kelly |
 | 1633 | 230 | Amanda Deitrick |
-| 1634 | 230 | Sara Silvernail-Kay |
-| 1635 | 230 | Carmelo Antonio Cruz |
+| 1634 | 230 | Carmelo Antonio Cruz |
+| 1635 | 230 | Sara Silvernail-Kay |
 | 1636 | 230 | KitTee |
 | 1637 | 230 | Ryan Carpenter |
 | 1638 | 230 | ebee89 |

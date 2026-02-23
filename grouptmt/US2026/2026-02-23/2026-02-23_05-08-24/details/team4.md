@@ -57,8 +57,8 @@
 | 49 | 863 | Pee |
 | 50 | 855 | Marvin Lou Martin |
 | 51 | 853 | TeeJ |
-| 52 | 846 | Lucille Truesdale |
-| 53 | 846 | Christine Marie |
+| 52 | 846 | Christine Marie |
+| 53 | 846 | Lucille Truesdale |
 | 54 | 845 | LisaJo Picken Buchanan |
 | 55 | 843 | Shelly Chandler |
 | 56 | 841 | Anthony Bryan Riva |
@@ -71,16 +71,16 @@
 | 63 | 776 | Rachel Anne |
 | 64 | 775 | Ashley Ingram |
 | 65 | 767 | Shannon Ferrari |
-| 66 | 766 | Edward White |
-| 67 | 766 | Robin Watters |
-| 68 | 765 | Robin Getchel |
-| 69 | 765 | Denise Carlson |
+| 66 | 766 | Robin Watters |
+| 67 | 766 | Edward White |
+| 68 | 765 | Denise Carlson |
+| 69 | 765 | Robin Getchel |
 | 70 | 752 | loulou |
 | 71 | 749 | Dustee Craddock-Harrison |
 | 72 | 742 | Carolyn Wallace |
 | 73 | 740 | Avy Absol |
-| 74 | 736 | Goatimus Lombardi |
-| 75 | 736 | Crystal Carroll |
+| 74 | 736 | Crystal Carroll |
+| 75 | 736 | Goatimus Lombardi |
 | 76 | 721 | TheNeesh50 |
 | 77 | 717 | D3TROITB0RN74 |
 | 78 | 706 | Lisa Davis |
@@ -179,8 +179,8 @@
 | 171 | 356 | George Nutt |
 | 172 | 352 | Sue Joyce Staats |
 | 173 | 350 | TRCuse |
-| 174 | 349 | Twisty Cascadezone |
-| 175 | 349 | Rafael Valentin |
+| 174 | 349 | Rafael Valentin |
+| 175 | 349 | Twisty Cascadezone |
 | 176 | 348 | April Rondinone |
 | 177 | 347 | Crystal Nicolette Moore |
 | 178 | 347 | Daria Rycewicz |
@@ -192,8 +192,8 @@
 | 184 | 330 | Kathy Brookins |
 | 185 | 328 | scott |
 | 186 | 327 | J-Rizzle |
-| 187 | 324 | Antony Dwayne Beasley |
-| 188 | 324 | jim |
+| 187 | 324 | jim |
+| 188 | 324 | Antony Dwayne Beasley |
 | 189 | 321 | Bio Nelly |
 | 190 | 321 | Meagan Nicole |
 | 191 | 320 | Lauren Scott |
@@ -212,8 +212,8 @@
 | 204 | 300 | Dana Scott |
 | 205 | 300 | Zakia Monae |
 | 206 | 295 | Keshia Lyons |
-| 207 | 294 | Porkobello |
-| 208 | 294 | Calvin Cannon |
+| 207 | 294 | Calvin Cannon |
+| 208 | 294 | Porkobello |
 | 209 | 292 | Epic Curvetile |
 | 210 | 290 | Jared Gutwein |
 | 211 | 290 | Plucky Patternblock |
@@ -233,9 +233,9 @@
 | 225 | 276 | Joeliecea Cobb |
 | 226 | 276 | Matt Dell'Olio |
 | 227 | 273 | Casey Grabner |
-| 228 | 272 | Carlos Ramirez |
-| 229 | 272 | Alan George LaRage |
-| 230 | 272 | Dennis Bradley |
+| 228 | 272 | Dennis Bradley |
+| 229 | 272 | Carlos Ramirez |
+| 230 | 272 | Alan George LaRage |
 | 231 | 271 | Holly |
 | 232 | 270 | Jen Caldwell |
 | 233 | 270 | Juls |

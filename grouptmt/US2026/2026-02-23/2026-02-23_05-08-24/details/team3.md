@@ -129,10 +129,10 @@
 | 121 | 752 | Raya |
 | 122 | 748 | Adrian Marcel Pate |
 | 123 | 745 | JerseyJess |
-| 124 | 744 | Fancy Cascader |
-| 125 | 744 | Leah Barnett |
-| 126 | 736 | Katrina Schroeder |
-| 127 | 736 | mzcatzy |
+| 124 | 744 | Leah Barnett |
+| 125 | 744 | Fancy Cascader |
+| 126 | 736 | mzcatzy |
+| 127 | 736 | Katrina Schroeder |
 | 128 | 728 | Peppy Shifter |
 | 129 | 727 | Hasty Cascadefit |
 | 130 | 722 | Marcie Bressler |
@@ -326,7 +326,7 @@
 | 318 | 298 | Grams |
 | 319 | 298 | Dannie Litchard |
 | 320 | 297 | kacihall |
-| 321 | 296 | Tracy Martin |
+| 321 | 296 | Hasty Gridpiece |
 | 322 | 296 | Donna |
 | 323 | 296 | Dee Pratt |
 | 324 | 296 | Tracy Martin |
@@ -380,8 +380,8 @@
 | 372 | 266 | Quirky Dropzone |
 | 373 | 265 | Heather Davis |
 | 374 | 264 | Danielle Beaunoyer Jean |
-| 375 | 263 | Jimmie Clemons |
-| 376 | 263 | Erika Thornton |
+| 375 | 263 | Erika Thornton |
+| 376 | 263 | Jimmie Clemons |
 | 377 | 261 | Jul |
 | 378 | 260 | Whitney Manuel |
 | 379 | 260 | TotoCherue |
@@ -579,7 +579,7 @@
 | 571 | 181 | Julia Nicole |
 | 572 | 180 | Stella |
 | 573 | 180 | Rayzer |
-| 574 | 180 | Stella |
+| 574 | 180 | Jumpy Curvebuilder |
 | 575 | 180 | Chipper Piecefit |
 | 576 | 179 | Ruchi Smit |
 | 577 | 179 | Alexi Pryor |

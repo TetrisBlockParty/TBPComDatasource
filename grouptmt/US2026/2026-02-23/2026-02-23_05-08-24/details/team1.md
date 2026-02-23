@@ -177,9 +177,9 @@
 | 169 | 343 | Elaine Elaine |
 | 170 | 343 | Erin Rosberg |
 | 171 | 343 | Chelsea Dahlquist |
-| 172 | 341 | Nick R Montague |
-| 173 | 341 | Shiny Snapfit |
-| 174 | 341 | Christy Jones |
+| 172 | 341 | Christy Jones |
+| 173 | 341 | Nick R Montague |
+| 174 | 341 | Shiny Snapfit |
 | 175 | 339 | Nicole Roseberry Weber |
 | 176 | 338 | Jennifer Hardman |
 | 177 | 337 | Constance Risner |
@@ -192,8 +192,8 @@
 | 184 | 324 | Rat666 |
 | 185 | 323 | Madison Wicks |
 | 186 | 322 | Letson Melissa |
-| 187 | 318 | Virginia Gray Floyd |
-| 188 | 318 | Jessica Sheehan |
+| 187 | 318 | Jessica Sheehan |
+| 188 | 318 | Virginia Gray Floyd |
 | 189 | 317 | Sarah Roberts |
 | 190 | 316 | Reesey Enyart |
 | 191 | 315 | Danielle Little-Daugherty |
@@ -317,8 +317,8 @@
 | 309 | 216 | Chad Atchley |
 | 310 | 215 | Christina Norman |
 | 311 | 215 | Alenoush Karimian |
-| 312 | 213 | Poppy Riserpiece |
-| 313 | 213 | John Barron |
+| 312 | 213 | John Barron |
+| 313 | 213 | Poppy Riserpiece |
 | 314 | 213 | Itspaigebro |
 | 315 | 212 | Michelle Beres |
 | 316 | 210 | Timothy Danaher |
@@ -415,9 +415,9 @@
 | 407 | 167 | Tamara Brown |
 | 408 | 166 | Howdi Duty |
 | 409 | 166 | Gilbert Ortiz Jr. |
-| 410 | 165 | Rodney Schmerfeld |
-| 411 | 165 | Jason Benitez |
-| 412 | 165 | Dizzy Riseclear |
+| 410 | 165 | Jason Benitez |
+| 411 | 165 | Dizzy Riseclear |
+| 412 | 165 | Rodney Schmerfeld |
 | 413 | 165 | Stephanie Leday |
 | 414 | 163 | Barry Mac'Ockner |
 | 415 | 163 | SavageBooty98 |
