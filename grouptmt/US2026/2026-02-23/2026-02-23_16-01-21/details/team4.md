@@ -199,8 +199,8 @@
 | 191 | 398 | Tyler Terrific |
 | 192 | 393 | Carlton Unfiltered |
 | 193 | 391 | Ramel Rhodes |
-| 194 | 389 | Cool Towerbuilder |
-| 195 | 389 | Joseph Guthrie |
+| 194 | 389 | Joseph Guthrie |
+| 195 | 389 | Cool Towerbuilder |
 | 196 | 385 | 030Synner |
 | 197 | 383 | Chris Bernstein |
 | 198 | 381 | Matt Gooder |
@@ -268,8 +268,8 @@
 | 260 | 304 | Gdiguy |
 | 261 | 303 | blasterB |
 | 262 | 300 | Dana Scott |
-| 263 | 295 | Lora |
-| 264 | 295 | Keshia Lyons |
+| 263 | 295 | Keshia Lyons |
+| 264 | 295 | Lora |
 | 265 | 294 | Calvin Cannon |
 | 266 | 293 | Joeliecea Cobb |
 | 267 | 292 | Angel Raya |

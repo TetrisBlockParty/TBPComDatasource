@@ -384,8 +384,8 @@
 | 376 | 907 | Gene Mills |
 | 377 | 907 | Kayla |
 | 378 | 904 | John Bednarik |
-| 379 | 903 | Giggy Blocker |
-| 380 | 903 | Eric Castaneda |
+| 379 | 903 | Eric Castaneda |
+| 380 | 903 | Giggy Blocker |
 | 381 | 902 | Diallo Sparkman |
 | 382 | 899 | Felicia Lynn |
 | 383 | 899 | Patrick Bartlett |
@@ -572,8 +572,8 @@
 | 564 | 659 | Anthony Huebel |
 | 565 | 659 | Trinity Oak |
 | 566 | 658 | Demeka Dangerous-kisses Johnson |
-| 567 | 656 | Tonya Lee |
-| 568 | 656 | bonsai |
+| 567 | 656 | bonsai |
+| 568 | 656 | Tonya Lee |
 | 569 | 655 | Véronique Lévesque Sabourin |
 | 570 | 655 | Silly Pivotfall |
 | 571 | 654 | g |
@@ -721,8 +721,8 @@
 | 713 | 544 | Armonie Smith |
 | 714 | 544 | Snappy snappers |
 | 715 | 543 | Demitri Smith |
-| 716 | 543 | Lathasa Newkirk |
-| 717 | 543 | coleksquad |
+| 716 | 543 | coleksquad |
+| 717 | 543 | Lathasa Newkirk |
 | 718 | 542 | Jasmine Kenney |
 | 719 | 542 | Jarboe |
 | 720 | 540 | Frank Castle |
@@ -939,8 +939,8 @@
 | 931 | 446 | Melissa Koria |
 | 932 | 446 | Marcus Ken Wilcox |
 | 933 | 446 | Courtney Burcham |
-| 934 | 445 | Mar Q Thomas |
-| 935 | 445 | Beatboxxer |
+| 934 | 445 | Beatboxxer |
+| 935 | 445 | Mar Q Thomas |
 | 936 | 444 | Taylor Flowers |
 | 937 | 444 | Angela Murgia-Owen |
 | 938 | 444 | David Scott |
