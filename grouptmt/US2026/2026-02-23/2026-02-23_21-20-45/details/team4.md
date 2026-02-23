@@ -90,8 +90,8 @@
 | 82 | 826 | Rica Mitchell |
 | 83 | 802 | Crystal Carroll |
 | 84 | 794 | Chilly Line |
-| 85 | 783 | Denise Carlson |
-| 86 | 783 | Guy Incognito |
+| 85 | 783 | Guy Incognito |
+| 86 | 783 | Denise Carlson |
 | 87 | 775 | Klo |
 | 88 | 768 | Judy Cox |
 | 89 | 767 | Shannon Ferrari |
@@ -147,8 +147,8 @@
 | 139 | 551 | Ren Mc |
 | 140 | 549 | Carlos Ramirez |
 | 141 | 546 | Dizzy Tiley |
-| 142 | 545 | Livvy |
-| 143 | 545 | Desi Desporte |
+| 142 | 545 | Desi Desporte |
+| 143 | 545 | Livvy |
 | 144 | 542 | Austin Owens |
 | 145 | 540 | Rodney McMath Jr. |
 | 146 | 536 | Kimberlee Jan Beckstead |
@@ -258,8 +258,8 @@
 | 250 | 363 | KimoKoala |
 | 251 | 361 | Danielle Kollias |
 | 252 | 361 | Rafael Valentin |
-| 253 | 360 | James Hurley Jr. |
-| 254 | 360 | Ari Droff |
+| 253 | 360 | Ari Droff |
+| 254 | 360 | James Hurley Jr. |
 | 255 | 358 | Twisty Cascadezone |
 | 256 | 356 | mike |
 | 257 | 356 | Joeliecea Cobb |
@@ -319,24 +319,24 @@
 | 311 | 291 | Dizzy Matchzone |
 | 312 | 291 | Brittney Orengo |
 | 313 | 290 | Heather Bruce |
-| 314 | 290 | Jared Gutwein |
-| 315 | 290 | Neirrah B Olailjeel |
+| 314 | 290 | Neirrah B Olailjeel |
+| 315 | 290 | Jared Gutwein |
 | 316 | 289 | Juls |
 | 317 | 289 | Deb Rubeck |
 | 318 | 288 | Amy Jean |
 | 319 | 287 | Duck |
-| 320 | 284 | Malakai Darien Fox |
-| 321 | 284 | Glitzy Corner |
+| 320 | 284 | Glitzy Corner |
+| 321 | 284 | Malakai Darien Fox |
 | 322 | 283 | Jackie Clark |
 | 323 | 282 | rebel4lyfe |
 | 324 | 282 | DQ Martin |
-| 325 | 281 | Morti |
-| 326 | 281 | Laura |
+| 325 | 281 | Laura |
+| 326 | 281 | Morti |
 | 327 | 280 | Amy Sanford |
 | 328 | 279 | Brittany Marsh |
 | 329 | 279 | Jim Hart |
-| 330 | 278 | Sarah Brown |
-| 331 | 278 | Zethra Prenisha Rahming |
+| 330 | 278 | Zethra Prenisha Rahming |
+| 331 | 278 | Sarah Brown |
 | 332 | 278 | Angela Geist Jusinski |
 | 333 | 276 | Bradley Reeves |
 | 334 | 276 | Susan Williams |

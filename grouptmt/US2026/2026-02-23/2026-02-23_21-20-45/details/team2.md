@@ -474,10 +474,10 @@
 | 466 | 845 | Gauri Shrotriya |
 | 467 | 844 | Terri McKelvey McKinley |
 | 468 | 843 | Quirky Twistline |
-| 469 | 840 | Traci Johnson |
-| 470 | 840 | Kiana Boschh |
-| 471 | 835 | William David Swallow |
-| 472 | 835 | Moni Foxe |
+| 469 | 840 | Kiana Boschh |
+| 470 | 840 | Traci Johnson |
+| 471 | 835 | Moni Foxe |
+| 472 | 835 | William David Swallow |
 | 473 | 834 | Montez Mancil |
 | 474 | 833 | Christie |
 | 475 | 832 | Catherine Marsh Gruda |
