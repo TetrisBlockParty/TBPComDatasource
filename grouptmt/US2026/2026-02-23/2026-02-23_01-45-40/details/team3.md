@@ -24,8 +24,8 @@
 | 16 | 2728 | Lauren d |
 | 17 | 2697 | River |
 | 18 | 2503 | Clever Roll |
-| 19 | 2287 | Brandon Green |
-| 20 | 2287 | Tetris Master |
+| 19 | 2287 | Tetris Master |
+| 20 | 2287 | Brandon Green |
 | 21 | 2203 | Ashley Jones |
 | 22 | 2180 | Laura Melton |
 | 23 | 2144 | Zippy Strikesnap |
@@ -117,8 +117,8 @@
 | 109 | 799 | Dolores Falco |
 | 110 | 762 | Speedy Bridger |
 | 111 | 748 | Adrian Marcel Pate |
-| 112 | 744 | Fancy Cascader |
-| 113 | 744 | Leah Barnett |
+| 112 | 744 | Leah Barnett |
+| 113 | 744 | Fancy Cascader |
 | 114 | 742 | Groovy Catcher |
 | 115 | 733 | mzcatzy |
 | 116 | 724 | Kristie |
@@ -206,8 +206,8 @@
 | 198 | 451 | Sarah Cowan Burgos |
 | 199 | 440 | Tom Nault |
 | 200 | 432 | Luciana Braganca Vieira |
-| 201 | 432 | Jenny Hrndz |
-| 202 | 432 | Christine Trester |
+| 201 | 432 | Christine Trester |
+| 202 | 432 | Jenny Hrndz |
 | 203 | 431 | Wendy Dearden |
 | 204 | 430 | Joye Sims Binion |
 | 205 | 430 | Jeni Dow |

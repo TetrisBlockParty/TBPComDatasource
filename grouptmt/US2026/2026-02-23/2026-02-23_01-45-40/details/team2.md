@@ -40,8 +40,8 @@
 | 32 | 4199 | Claire Noland |
 | 33 | 4130 | Robert Diddle |
 | 34 | 4128 | Angela Pruitt |
-| 35 | 4120 | Kristen Sceurman |
-| 36 | 4120 | Corrine Hawks Soriano |
+| 35 | 4120 | Corrine Hawks Soriano |
+| 36 | 4120 | Kristen Sceurman |
 | 37 | 4033 | Jill Stroehlein |
 | 38 | 3895 | Nickie Baby |
 | 39 | 3770 | Brittany Alicia |
@@ -1100,8 +1100,8 @@
 | 1092 | 296 | Chilly Linkfall |
 | 1093 | 296 | Crafty Blockmatch |
 | 1094 | 296 | Jennifer Darby |
-| 1095 | 295 | Dapper Setter |
-| 1096 | 295 | Devlin Ogg |
+| 1095 | 295 | Devlin Ogg |
+| 1096 | 295 | Dapper Setter |
 | 1097 | 295 | Ubu |
 | 1098 | 295 | Patti Rone |
 | 1099 | 295 | Fae-Bulous |

@@ -223,8 +223,8 @@
 | 215 | 267 | Debbie Kane |
 | 216 | 266 | Amanda Holibaugh |
 | 217 | 265 | Kandae |
-| 218 | 264 | Standia Civil |
-| 219 | 264 | Jenny Gingrich Fuentes |
+| 218 | 264 | Jenny Gingrich Fuentes |
+| 219 | 264 | Standia Civil |
 | 220 | 263 | Jessie Lynn |
 | 221 | 261 | John J. Cronin |
 | 222 | 260 | Marianita Garcia |
