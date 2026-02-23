@@ -226,8 +226,8 @@
 | 218 | 1232 | Ambyre Patterson |
 | 219 | 1230 | Megan Garrick |
 | 220 | 1221 | Jane Fong |
-| 221 | 1217 | Brooks Brooks |
-| 222 | 1217 | Lucky Ladybug |
+| 221 | 1217 | Lucky Ladybug |
+| 222 | 1217 | Brooks Brooks |
 | 223 | 1214 | David Cudicio-Hayden |
 | 224 | 1213 | Pacynthia Williams |
 | 225 | 1211 | Ricardo Burton |
@@ -273,8 +273,8 @@
 | 265 | 1076 | Alezandra Smith |
 | 266 | 1073 | Jodi Blake |
 | 267 | 1071 | Kim Dean |
-| 268 | 1069 | Offonar Facey |
-| 269 | 1069 | Carl Bradshaw |
+| 268 | 1069 | Carl Bradshaw |
+| 269 | 1069 | Offonar Facey |
 | 270 | 1064 | BK Queen |
 | 271 | 1063 | Caitlin Schmid |
 | 272 | 1058 | Rickey Johnson |
@@ -289,8 +289,8 @@
 | 281 | 1043 | nikki |
 | 282 | 1036 | Allison Lockyer |
 | 283 | 1036 | Amber Shoemaker |
-| 284 | 1026 | Kristin Gower |
-| 285 | 1026 | F-X |
+| 284 | 1026 | F-X |
+| 285 | 1026 | Kristin Gower |
 | 286 | 1024 | Susan Perraut Jones |
 | 287 | 1024 | Taylor Phillips |
 | 288 | 1022 | Shannon Joslin |
@@ -305,8 +305,8 @@
 | 297 | 996 | Ashie Ann |
 | 298 | 987 | Osun Anuket Esu |
 | 299 | 984 | Crystal Hoffman |
-| 300 | 979 | Melissa Penelope Ann Dodge |
-| 301 | 979 | Hillary Crawford |
+| 300 | 979 | Hillary Crawford |
+| 301 | 979 | Melissa Penelope Ann Dodge |
 | 302 | 978 | April Dawn Gussler |
 | 303 | 976 | Sam Joe |
 | 304 | 976 | Della Hole |
@@ -345,8 +345,8 @@
 | 337 | 904 | Bee |
 | 338 | 903 | Giggy Blocker |
 | 339 | 901 | Kevin Sees |
-| 340 | 899 | Chevy |
-| 341 | 899 | Patrick Bartlett |
+| 340 | 899 | Patrick Bartlett |
+| 341 | 899 | Chevy |
 | 342 | 898 | Jamie Otero |
 | 343 | 895 | Donna Colby |
 | 344 | 894 | Adira Brown |
@@ -1091,8 +1091,8 @@
 | 1083 | 347 | Zak Dunn |
 | 1084 | 347 | Persipnei Cuesta |
 | 1085 | 346 | Kelsey |
-| 1086 | 346 | Loopy Brickmatch |
-| 1087 | 346 | Zappy Dropmatch |
+| 1086 | 346 | Zappy Dropmatch |
+| 1087 | 346 | Loopy Brickmatch |
 | 1088 | 345 | Brandi Fuller Cason |
 | 1089 | 345 | David Duncan |
 | 1090 | 345 | Rhianna DiLorenzo |
@@ -1239,8 +1239,8 @@
 | 1231 | 307 | Chirpy Tilt |
 | 1232 | 307 | Carlos Javier Del Toro |
 | 1233 | 307 | Fancy Smasher |
-| 1234 | 306 | Chill Strike |
-| 1235 | 306 | Alison Emmons |
+| 1234 | 306 | Alison Emmons |
+| 1235 | 306 | Chill Strike |
 | 1236 | 306 | Sedo |
 | 1237 | 306 | Angela Nguyen |
 | 1238 | 305 | Tonya Goetze-Micheli |
@@ -1296,9 +1296,9 @@
 | 1288 | 296 | Jessica Redmond |
 | 1289 | 295 | Emmmz |
 | 1290 | 295 | David M. Platz |
-| 1291 | 294 | CleverAngel |
+| 1291 | 294 | Marcie McLain Dodd |
 | 1292 | 294 | Roman Lavochnik |
-| 1293 | 294 | Marcie McLain Dodd |
+| 1293 | 294 | CleverAngel |
 | 1294 | 294 | Tammy Coppoletta |
 | 1295 | 294 | Shannon Jackson |
 | 1296 | 293 | P. D. Paige |
@@ -1724,9 +1724,9 @@
 | 1716 | 234 | Jack Rippe |
 | 1717 | 234 | Nicole Mattingly |
 | 1718 | 234 | Ryan Kluck |
-| 1719 | 234 | Lonnie Brown |
-| 1720 | 234 | Leebo Slice |
-| 1721 | 234 | Tiara Smith |
+| 1719 | 234 | Leebo Slice |
+| 1720 | 234 | Tiara Smith |
+| 1721 | 234 | Lonnie Brown |
 | 1722 | 233 | Meghan Hughes |
 | 1723 | 233 | Kermit T Frog |
 | 1724 | 233 | Janet Marie Vega |

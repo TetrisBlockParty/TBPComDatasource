@@ -130,8 +130,8 @@
 | 122 | 769 | Kristie |
 | 123 | 764 | Groovy Catcher |
 | 124 | 762 | Speedy Bridger |
-| 125 | 755 | Raya |
-| 126 | 755 | Katrina Schroeder |
+| 125 | 755 | Katrina Schroeder |
+| 126 | 755 | Raya |
 | 127 | 752 | Logan Naccarato |
 | 128 | 748 | Adrian Marcel Pate |
 | 129 | 745 | JerseyJess |
@@ -196,8 +196,8 @@
 | 188 | 546 | Mykal Burton |
 | 189 | 546 | Cynthia Castros-Hampton |
 | 190 | 540 | Shawn Miller |
-| 191 | 531 | Sarah Cowan Burgos |
-| 192 | 531 | Chauntee Alfrey-Cardinale |
+| 191 | 531 | Chauntee Alfrey-Cardinale |
+| 192 | 531 | Sarah Cowan Burgos |
 | 193 | 528 | Silly Twist |
 | 194 | 525 | Stephanie Blkpep Davidson |
 | 195 | 524 | Bmo |
@@ -214,8 +214,8 @@
 | 206 | 488 | Melissa Orth Hunter |
 | 207 | 485 | Dapper Snap |
 | 208 | 484 | Fallorina Susana |
-| 209 | 480 | Michael Johnson |
-| 210 | 480 | Danielle Allison |
+| 209 | 480 | Danielle Allison |
+| 210 | 480 | Michael Johnson |
 | 211 | 477 | Edwin Calvillo Jr. |
 | 212 | 475 | Tessina Dewey-Mancino |
 | 213 | 473 | Connie Mohler-Fair |
@@ -367,8 +367,8 @@
 | 359 | 280 | ROODBOY |
 | 360 | 280 | Aerian Preston |
 | 361 | 280 | Dirtgirl27 |
-| 362 | 279 | Tosha Griffey |
-| 363 | 279 | Naur |
+| 362 | 279 | Naur |
+| 363 | 279 | Tosha Griffey |
 | 364 | 278 | Rufus Lincoln |
 | 365 | 277 | Ava Petito |
 | 366 | 277 | Krystal Gerstberger |
@@ -472,8 +472,8 @@
 | 464 | 230 | DanceLuvLaugh |
 | 465 | 229 | MizzMonick Smith |
 | 466 | 229 | Everret Maxine |
-| 467 | 228 | Dapper Liney |
-| 468 | 228 | Tipsy Zonebuilder |
+| 467 | 228 | Tipsy Zonebuilder |
+| 468 | 228 | Dapper Liney |
 | 469 | 227 | Meowsa |
 | 470 | 226 | Ryan Williams |
 | 471 | 226 | paranoid |
@@ -501,8 +501,8 @@
 | 493 | 217 | Tia Moore |
 | 494 | 217 | Heather Bateman |
 | 495 | 216 | Amanda Declue |
-| 496 | 214 | Crystal Hine |
-| 497 | 214 | Jumpy Curvebuilder |
+| 496 | 214 | Jumpy Curvebuilder |
+| 497 | 214 | Crystal Hine |
 | 498 | 214 | Amy Fuller Heaton |
 | 499 | 213 | Flashy Rumbler |
 | 500 | 213 | Linda Draper |
