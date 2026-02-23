@@ -151,8 +151,8 @@
 | 143 | 1639 | Jessie McDougald |
 | 144 | 1634 | Speedy Spinblock |
 | 145 | 1629 | Mari Ac |
-| 146 | 1623 | Rebecca Doughman |
-| 147 | 1623 | Janel Turley-Garner |
+| 146 | 1623 | Janel Turley-Garner |
+| 147 | 1623 | Rebecca Doughman |
 | 148 | 1605 | Christi Hulet |
 | 149 | 1602 | blackq |
 | 150 | 1601 | Ray Ray Prado |
@@ -367,13 +367,13 @@
 | 359 | 831 | Christina Lewis-Vickers |
 | 360 | 830 | Diallo Sparkman |
 | 361 | 829 | Jessica Wayne Cornwall |
-| 362 | 824 | Khalil Lowe |
-| 363 | 824 | Danielle Johnson-Chandler |
+| 362 | 824 | Danielle Johnson-Chandler |
+| 363 | 824 | Khalil Lowe |
 | 364 | 823 | Alezandra Smith |
 | 365 | 822 | Lola Contreras |
 | 366 | 821 | Angie Bolton Workman |
-| 367 | 821 | Arkei Luster |
-| 368 | 821 | Cassie Mercer |
+| 367 | 821 | Cassie Mercer |
+| 368 | 821 | Arkei Luster |
 | 369 | 816 | Beth |
 | 370 | 816 | James Simms III |
 | 371 | 813 | Lisa Ongtowasruk |
@@ -750,11 +750,11 @@
 | 742 | 462 | Kia Humphery |
 | 743 | 462 | Samantha Scibelli |
 | 744 | 461 | Julie Hamilton |
-| 745 | 461 | Kristen O'Neal |
-| 746 | 461 | Amanda West |
+| 745 | 461 | Amanda West |
+| 746 | 461 | Kristen O'Neal |
 | 747 | 460 | LaWanda Powell |
-| 748 | 459 | Shyenn Gadsby |
-| 749 | 459 | Pocho Zavala |
+| 748 | 459 | Pocho Zavala |
+| 749 | 459 | Shyenn Gadsby |
 | 750 | 457 | Kelly Meredeith |
 | 751 | 456 | Sabrina Burton |
 | 752 | 456 | ItsJennifer Neriss |

@@ -125,8 +125,8 @@
 | 117 | 769 | Kristie |
 | 118 | 764 | Groovy Catcher |
 | 119 | 762 | Speedy Bridger |
-| 120 | 752 | Raya |
-| 121 | 752 | Logan Naccarato |
+| 120 | 752 | Logan Naccarato |
+| 121 | 752 | Raya |
 | 122 | 748 | Adrian Marcel Pate |
 | 123 | 745 | JerseyJess |
 | 124 | 744 | Fancy Cascader |
@@ -206,8 +206,8 @@
 | 198 | 489 | Poppy Splitter |
 | 199 | 488 | Melissa Orth Hunter |
 | 200 | 485 | Dapper Snap |
-| 201 | 480 | Danielle Allison |
-| 202 | 480 | Michael Johnson |
+| 201 | 480 | Michael Johnson |
+| 202 | 480 | Danielle Allison |
 | 203 | 475 | Tessina Dewey-Mancino |
 | 204 | 473 | Rachel |
 | 205 | 473 | Connie Mohler-Fair |
@@ -238,8 +238,8 @@
 | 230 | 408 | Tiffany Ford |
 | 231 | 406 | Kristal C Lee |
 | 232 | 404 | Chasity |
-| 233 | 403 | Scott Lindsay |
-| 234 | 403 | Denita Mungro |
+| 233 | 403 | Denita Mungro |
+| 234 | 403 | Scott Lindsay |
 | 235 | 399 | Rebecca Funderburk Kirby |
 | 236 | 395 | rosy |
 | 237 | 391 | Marci Mize Fandrich |
@@ -591,7 +591,7 @@
 | 583 | 179 | Alexi Pryor |
 | 584 | 179 | Ruchi Smit |
 | 585 | 178 | Jillian Ann |
-| 586 | 178 | Melissa Snyder |
+| 586 | 178 | Jennifer Neiman Gaal |
 | 587 | 178 | Kellie Montgomery |
 | 588 | 178 | Melissa Snyder |
 | 589 | 177 | Anna Moeller |
@@ -642,8 +642,8 @@
 | 634 | 166 | Chenoa Urban Sophicated Redy |
 | 635 | 166 | krazibtch |
 | 636 | 165 | Erica Anderson |
-| 637 | 164 | Jolly Brick |
-| 638 | 164 | Mindy Phelps |
+| 637 | 164 | Mindy Phelps |
+| 638 | 164 | Jolly Brick |
 | 639 | 164 | Tenisha Semidey |
 | 640 | 164 | Lesa Bartlett |
 | 641 | 163 | Crystal Johnson |
