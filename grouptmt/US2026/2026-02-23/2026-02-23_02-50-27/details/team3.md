@@ -26,8 +26,8 @@
 | 18 | 2697 | River |
 | 19 | 2494 | Ashley Jones |
 | 20 | 2302 | Laura Melton |
-| 21 | 2287 | Brandon Green |
-| 22 | 2287 | Tetris Master |
+| 21 | 2287 | Tetris Master |
+| 22 | 2287 | Brandon Green |
 | 23 | 2237 | Susan Valentino |
 | 24 | 2144 | Zippy Strikesnap |
 | 25 | 2015 | Chummy Shatterer |
@@ -227,7 +227,7 @@
 | 219 | 412 | Connie Mohler-Fair |
 | 220 | 410 | Duane Bright |
 | 221 | 410 | Mcathen |
-| 222 | 410 | Duane Bright |
+| 222 | 410 | Stephanie Simpson |
 | 223 | 408 | Tiffany Ford |
 | 224 | 404 | Chasity |
 | 225 | 403 | Scott Lindsay |
@@ -303,11 +303,11 @@
 | 295 | 305 | Hyper Matchzone |
 | 296 | 304 | _melisa223_ |
 | 297 | 303 | Alexmac |
-| 298 | 303 | Hoppy Buildout |
-| 299 | 303 | Carrie Huskey |
-| 300 | 303 | Beaudie Stroebel |
-| 301 | 301 | Tiffany Davie |
-| 302 | 301 | Betty Rosas |
+| 298 | 303 | Beaudie Stroebel |
+| 299 | 303 | Hoppy Buildout |
+| 300 | 303 | Carrie Huskey |
+| 301 | 301 | Betty Rosas |
+| 302 | 301 | Tiffany Davie |
 | 303 | 299 | Angie Harper |
 | 304 | 298 | Grams |
 | 305 | 297 | Cheeky Snapper |
@@ -435,8 +435,8 @@
 | 427 | 224 | Sarah Morris |
 | 428 | 222 | Eileen Brady Thurber |
 | 429 | 221 | Ryan Williams |
-| 430 | 221 | Vaners |
-| 431 | 221 | Bleu Sun Beams |
+| 430 | 221 | Bleu Sun Beams |
+| 431 | 221 | Vaners |
 | 432 | 221 | Emma |
 | 433 | 221 | Glitzy Rotate |
 | 434 | 219 | Trice Thomas |

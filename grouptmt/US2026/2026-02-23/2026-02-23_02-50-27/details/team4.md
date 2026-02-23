@@ -55,8 +55,8 @@
 | 47 | 911 | Jeremy Steines |
 | 48 | 855 | Marvin Lou Martin |
 | 49 | 853 | TeeJ |
-| 50 | 846 | Christine Marie |
-| 51 | 846 | Lucille Truesdale |
+| 50 | 846 | Lucille Truesdale |
+| 51 | 846 | Christine Marie |
 | 52 | 845 | LisaJo Picken Buchanan |
 | 53 | 843 | Shelly Chandler |
 | 54 | 841 | Anthony Bryan Riva |
@@ -159,8 +159,8 @@
 | 151 | 387 | 🥔🥔 Spudz |
 | 152 | 387 | Lucas J Sutton |
 | 153 | 377 | Carrie Brian |
-| 154 | 375 | Desi Desporte |
-| 155 | 375 | ThaEviLJeNiuZ |
+| 154 | 375 | ThaEviLJeNiuZ |
+| 155 | 375 | Desi Desporte |
 | 156 | 374 | Guy Incognito |
 | 157 | 373 | Tyler Terrific |
 | 158 | 370 | Oscar Alberto Perez |
@@ -219,9 +219,9 @@
 | 211 | 286 | Sam Bishop |
 | 212 | 284 | Mimi |
 | 213 | 282 | Matt Gooder |
-| 214 | 281 | Nikki Rae Gordon |
+| 214 | 281 | Kim Klutz Olson |
 | 215 | 281 | Laura |
-| 216 | 281 | Kim Klutz Olson |
+| 216 | 281 | Nikki Rae Gordon |
 | 217 | 277 | Zesty Twistbuilder |
 | 218 | 276 | Matt Dell'Olio |
 | 219 | 276 | Joeliecea Cobb |

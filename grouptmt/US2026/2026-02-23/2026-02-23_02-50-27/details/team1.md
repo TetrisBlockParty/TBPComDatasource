@@ -104,8 +104,8 @@
 | 96 | 492 | Ash Galvan |
 | 97 | 489 | Deanna L Hermanson |
 | 98 | 486 | Tater |
-| 99 | 483 | Tdub |
-| 100 | 483 | cc |
+| 99 | 483 | cc |
+| 100 | 483 | Tdub |
 | 101 | 477 | April Carroll |
 | 102 | 472 | Hasbro Bros |
 | 103 | 462 | Luciano Moreira |
@@ -145,8 +145,8 @@
 | 137 | 379 | Austin James |
 | 138 | 379 | Kimmie Kimms |
 | 139 | 376 | Brian Richardsson |
-| 140 | 375 | Monica Donato |
-| 141 | 375 | Tanya Carpenter-Reynolds |
+| 140 | 375 | Tanya Carpenter-Reynolds |
+| 141 | 375 | Monica Donato |
 | 142 | 371 | Jason Savage |
 | 143 | 368 | Amanda Johnson Huffman |
 | 144 | 368 | Death |
@@ -235,8 +235,8 @@
 | 227 | 264 | Standia Civil |
 | 228 | 263 | Jessie Lynn |
 | 229 | 261 | John J. Cronin |
-| 230 | 260 | Marianita Garcia |
-| 231 | 260 | Lacy Wolfe |
+| 230 | 260 | Lacy Wolfe |
+| 231 | 260 | Marianita Garcia |
 | 232 | 258 | Perky Shiftsnap |
 | 233 | 257 | Lakeisha Chapman |
 | 234 | 256 | Snappy Matcher |
@@ -252,8 +252,8 @@
 | 244 | 244 | Sarah Somers Gray |
 | 245 | 242 | ParisandCory Champagne |
 | 246 | 241 | Tyler Hertzog |
-| 247 | 240 | DaRascal |
-| 248 | 240 | Daring Fitclear |
+| 247 | 240 | Daring Fitclear |
+| 248 | 240 | DaRascal |
 | 249 | 238 | Tiffany Smith |
 | 250 | 234 | Paula Martin |
 | 251 | 233 | LC |
@@ -272,8 +272,8 @@
 | 264 | 229 | Dino |
 | 265 | 228 | Adele Rahman |
 | 266 | 227 | Happy Snapbuild |
-| 267 | 226 | Snappy Brickbuilder |
-| 268 | 226 | Glitzy Buildsnap |
+| 267 | 226 | Glitzy Buildsnap |
+| 268 | 226 | Snappy Brickbuilder |
 | 269 | 223 | Christina Backer |
 | 270 | 223 | Layzietyme |
 | 271 | 223 | Erez Yosef |
