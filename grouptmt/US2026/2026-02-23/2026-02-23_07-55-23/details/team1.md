@@ -205,8 +205,8 @@
 | 197 | 324 | Rat666 |
 | 198 | 323 | Madison Wicks |
 | 199 | 322 | Letson Melissa |
-| 200 | 317 | Kimberly Garcia |
-| 201 | 317 | Sarah Roberts |
+| 200 | 317 | Sarah Roberts |
+| 201 | 317 | Kimberly Garcia |
 | 202 | 316 | Reesey Enyart |
 | 203 | 315 | Danielle Little-Daugherty |
 | 204 | 314 | Snippy Wipebuilder |

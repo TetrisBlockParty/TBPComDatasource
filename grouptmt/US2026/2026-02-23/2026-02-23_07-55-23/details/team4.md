@@ -175,10 +175,10 @@
 | 167 | 372 | Antony Dwayne Beasley |
 | 168 | 370 | Oscar Alberto Perez |
 | 169 | 369 | Lindsey Gonzalez |
-| 170 | 368 | Silly Zonebuilder |
-| 171 | 368 | Chris Bernstein |
-| 172 | 368 | Raegan Lane-Ross |
-| 173 | 368 | Brandon Crabbs |
+| 170 | 368 | Chris Bernstein |
+| 171 | 368 | Brandon Crabbs |
+| 172 | 368 | Silly Zonebuilder |
+| 173 | 368 | Raegan Lane-Ross |
 | 174 | 365 | Jeff Brian Gates |
 | 175 | 361 | Melissa Adams |
 | 176 | 361 | Danielle Kollias |
@@ -190,8 +190,8 @@
 | 182 | 350 | Carly Alexis |
 | 183 | 349 | Rafael Valentin |
 | 184 | 348 | April Rondinone |
-| 185 | 347 | Crystal Nicolette Moore |
-| 186 | 347 | Daria Rycewicz |
+| 185 | 347 | Daria Rycewicz |
+| 186 | 347 | Crystal Nicolette Moore |
 | 187 | 346 | Mylo Lipscomb |
 | 188 | 339 | David Lay |
 | 189 | 337 | Sam Bishop |
@@ -382,7 +382,7 @@
 | 374 | 183 | Sarah Hoffman |
 | 375 | 183 | Nerdy Twisterfit |
 | 376 | 183 | Cozy Balancer |
-| 377 | 183 | Nerdy Twisterfit |
+| 377 | 183 | Darrin Rubalcava |
 | 378 | 182 | Ellen Durfee |
 | 379 | 182 | Neil Ingham |
 | 380 | 181 | Kate |

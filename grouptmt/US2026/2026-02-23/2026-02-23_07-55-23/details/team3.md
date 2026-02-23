@@ -113,15 +113,15 @@
 | 105 | 869 | Araceli Parra |
 | 106 | 868 | Sarajane Lokan |
 | 107 | 860 | Sunny Rotater |
-| 108 | 851 | Jd Morris |
-| 109 | 851 | Danielle Becker |
+| 108 | 851 | Danielle Becker |
+| 109 | 851 | Jd Morris |
 | 110 | 850 | Danielle Mogg |
 | 111 | 848 | Patricia Gadsden |
 | 112 | 831 | Angeline Joseph |
 | 113 | 830 | Stephanie Allmon |
 | 114 | 826 | Shane Wilson Jr. |
-| 115 | 816 | Jesse Olive |
-| 116 | 816 | Brenda Lee Vander Molen |
+| 115 | 816 | Brenda Lee Vander Molen |
+| 116 | 816 | Jesse Olive |
 | 117 | 802 | Bobbi Moore |
 | 118 | 800 | Lauren Girouard |
 | 119 | 799 | Dolores Falco |
@@ -175,8 +175,8 @@
 | 167 | 591 | Michael Nowogorski |
 | 168 | 588 | Justin Ritter |
 | 169 | 587 | Louise Stacy Sisson |
-| 170 | 585 | Happy Tetriblast |
-| 171 | 585 | Annie Marie |
+| 170 | 585 | Annie Marie |
+| 171 | 585 | Happy Tetriblast |
 | 172 | 583 | Tasha Gillespie |
 | 173 | 582 | Natasha Jones |
 | 174 | 577 | Domo Washington |
@@ -384,8 +384,8 @@
 | 376 | 274 | Ava Petito |
 | 377 | 273 | France Vézina |
 | 378 | 273 | Brenda Schmid Wood |
-| 379 | 272 | Tay |
-| 380 | 272 | Todd Hall |
+| 379 | 272 | Todd Hall |
+| 380 | 272 | Tay |
 | 381 | 272 | Romeo |
 | 382 | 269 | Juliana Dottore |
 | 383 | 269 | Jess Bissett |
@@ -400,8 +400,8 @@
 | 392 | 265 | AlsoJess |
 | 393 | 264 | Reina Roth |
 | 394 | 264 | Danielle Beaunoyer Jean |
-| 395 | 263 | Erika Thornton |
-| 396 | 263 | Jimmie Clemons |
+| 395 | 263 | Jimmie Clemons |
+| 396 | 263 | Erika Thornton |
 | 397 | 261 | Swanky Snapclear |
 | 398 | 260 | Tracey Cox |
 | 399 | 260 | Alice |
@@ -409,11 +409,11 @@
 | 401 | 259 | Shania Vaine |
 | 402 | 259 | Dana Winters |
 | 403 | 258 | IamJust Neyamijah Washington Sr. |
-| 404 | 257 | Chris Wallace |
-| 405 | 257 | Rachel Grant |
+| 404 | 257 | Rachel Grant |
+| 405 | 257 | Chris Wallace |
 | 406 | 257 | Saucy Buildout |
-| 407 | 255 | Mariah Williams |
-| 408 | 255 | Erykah |
+| 407 | 255 | Erykah |
+| 408 | 255 | Mariah Williams |
 | 409 | 255 | Sharisse Baltimore |
 | 410 | 254 | Blair Erin Waite |
 | 411 | 253 | Hyper Bridger |
@@ -489,9 +489,9 @@
 | 481 | 221 | Vaners |
 | 482 | 221 | Glitzy Rotate |
 | 483 | 220 | Bhreagh Gentile |
-| 484 | 219 | Angel Miller |
+| 484 | 219 | TLM |
 | 485 | 219 | Trice Thomas |
-| 486 | 219 | TLM |
+| 486 | 219 | Angel Miller |
 | 487 | 218 | Sabrina Mansfield |
 | 488 | 218 | Dapper Chiseler |
 | 489 | 218 | Tina Smith Roy |
@@ -517,8 +517,8 @@
 | 509 | 209 | TazB |
 | 510 | 208 | Jessica Christian |
 | 511 | 208 | Luccy Luxe |
-| 512 | 207 | Misstery |
-| 513 | 207 | Nichol Graham |
+| 512 | 207 | Nichol Graham |
+| 513 | 207 | Misstery |
 | 514 | 206 | Tammy Rosenberry |
 | 515 | 206 | Dakota Graham |
 | 516 | 205 | Emberblaze |
@@ -692,14 +692,14 @@
 | 684 | 160 | Cheery Brickster |
 | 685 | 159 | Gina Marie |
 | 686 | 159 | Cameron Lovell |
-| 687 | 159 | Wetwet |
-| 688 | 159 | Angela VanOstrand |
+| 687 | 159 | Angela VanOstrand |
+| 688 | 159 | Wetwet |
 | 689 | 158 | Cameo Tweed |
-| 690 | 157 | DeeDee13 |
-| 691 | 157 | Angel Mendez |
-| 692 | 157 | Michelle Ramirez |
-| 693 | 157 | Benny Tyrrell |
-| 694 | 157 | Kimberly Walker |
+| 690 | 157 | Michelle Ramirez |
+| 691 | 157 | DeeDee13 |
+| 692 | 157 | Angel Mendez |
+| 693 | 157 | Kimberly Walker |
+| 694 | 157 | Benny Tyrrell |
 | 695 | 156 | Mandy Poynter-Wallace |
 | 696 | 156 | Courtney Conboy |
 | 697 | 156 | LIL BIT |
