@@ -117,8 +117,8 @@
 | 109 | 869 | Araceli Parra |
 | 110 | 868 | Sarajane Lokan |
 | 111 | 860 | Sunny Rotater |
-| 112 | 851 | Jd Morris |
-| 113 | 851 | Danielle Becker |
+| 112 | 851 | Danielle Becker |
+| 113 | 851 | Jd Morris |
 | 114 | 850 | Danielle Mogg |
 | 115 | 848 | Patricia Gadsden |
 | 116 | 839 | Angeline Joseph |
@@ -292,8 +292,8 @@
 | 284 | 371 | Salena Whitlock |
 | 285 | 371 | block chick |
 | 286 | 370 | Samantha Lynn |
-| 287 | 369 | Jennifer Alvey |
-| 288 | 369 | Philip Rock |
+| 287 | 369 | Philip Rock |
+| 288 | 369 | Jennifer Alvey |
 | 289 | 369 | Amber Glover |
 | 290 | 368 | Stephanie Woods |
 | 291 | 368 | Sheila M Frazier |
@@ -304,10 +304,10 @@
 | 296 | 360 | Cesar Barraza |
 | 297 | 358 | Roary Danner |
 | 298 | 354 | Kelly |
-| 299 | 354 | Eileen Brady Thurber |
-| 300 | 354 | Andrew Thorson |
-| 301 | 353 | Dee Franklin |
-| 302 | 353 | Cyd061769 |
+| 299 | 354 | Andrew Thorson |
+| 300 | 354 | Eileen Brady Thurber |
+| 301 | 353 | Cyd061769 |
+| 302 | 353 | Dee Franklin |
 | 303 | 352 | Christian Werndl |
 | 304 | 352 | LadyTorad |
 | 305 | 351 | Blocked |

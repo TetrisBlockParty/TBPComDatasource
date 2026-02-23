@@ -129,8 +129,8 @@
 | 121 | 467 | Candy Jones |
 | 122 | 463 | Lexuriuos Lifestlye |
 | 123 | 462 | Luciano Moreira |
-| 124 | 458 | Goose egg |
-| 125 | 458 | Evan Richmond |
+| 124 | 458 | Evan Richmond |
+| 125 | 458 | Goose egg |
 | 126 | 454 | Desiree Deschaine Havee |
 | 127 | 453 | Brandi Huntington |
 | 128 | 452 | Hyper |
@@ -481,8 +481,8 @@
 | 473 | 169 | Ashley Adams |
 | 474 | 168 | Mrs.Patrica |
 | 475 | 166 | Gilbert Ortiz Jr. |
-| 476 | 165 | Stephanie Leday |
-| 477 | 165 | Rodney Schmerfeld |
+| 476 | 165 | Rodney Schmerfeld |
+| 477 | 165 | Stephanie Leday |
 | 478 | 164 | Brenda L. Bunce |
 | 479 | 163 | dhardy |
 | 480 | 163 | Barry Mac'Ockner |

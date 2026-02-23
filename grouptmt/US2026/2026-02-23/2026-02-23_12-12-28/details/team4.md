@@ -66,13 +66,13 @@
 | 58 | 864 | Shelly Chandler |
 | 59 | 863 | Pee |
 | 60 | 859 | TeeJ |
-| 61 | 846 | Lucille Truesdale |
-| 62 | 846 | Christine Marie |
+| 61 | 846 | Christine Marie |
+| 62 | 846 | Lucille Truesdale |
 | 63 | 834 | quicksand420 |
-| 64 | 807 | Rachel Anne |
-| 65 | 807 | Amelpss |
-| 66 | 788 | Julian Garcia |
-| 67 | 788 | Chilly Line |
+| 64 | 807 | Amelpss |
+| 65 | 807 | Rachel Anne |
+| 66 | 788 | Chilly Line |
+| 67 | 788 | Julian Garcia |
 | 68 | 787 | loulou |
 | 69 | 787 | Edward White |
 | 70 | 768 | Judy Cox |
@@ -187,19 +187,19 @@
 | 179 | 372 | Antony Dwayne Beasley |
 | 180 | 370 | Oscar Alberto Perez |
 | 181 | 369 | Lindsey Gonzalez |
-| 182 | 368 | Silly Zonebuilder |
-| 183 | 368 | Raegan Lane-Ross |
+| 182 | 368 | Raegan Lane-Ross |
+| 183 | 368 | Silly Zonebuilder |
 | 184 | 365 | Jeff Brian Gates |
 | 185 | 361 | Rafael Valentin |
 | 186 | 361 | Danielle Kollias |
-| 187 | 358 | Twisty Cascadezone |
-| 188 | 358 | A5! |
+| 187 | 358 | A5! |
+| 188 | 358 | Twisty Cascadezone |
 | 189 | 355 | James Hurley Jr. |
 | 190 | 354 | TRCuse |
 | 191 | 352 | Lori |
 | 192 | 352 | Sue Joyce Staats |
-| 193 | 348 | David Lay |
-| 194 | 348 | April Rondinone |
+| 193 | 348 | April Rondinone |
+| 194 | 348 | David Lay |
 | 195 | 347 | Daria Rycewicz |
 | 196 | 347 | Crystal Nicolette Moore |
 | 197 | 347 | Bio Nelly |
@@ -227,8 +227,8 @@
 | 219 | 313 | Milan Markeisha |
 | 220 | 312 | Casey Grabner |
 | 221 | 312 | Dihcheese444 |
-| 222 | 311 | Mary Ann Pabukis |
-| 223 | 311 | Nikki Rae Gordon |
+| 222 | 311 | Nikki Rae Gordon |
+| 223 | 311 | Mary Ann Pabukis |
 | 224 | 310 | Holly Jolly |
 | 225 | 308 | Leah Kutz Zirbel |
 | 226 | 307 | Cheery Risebuilder |
@@ -308,8 +308,8 @@
 | 300 | 244 | Perky Piecegrid |
 | 301 | 244 | Christina Black |
 | 302 | 243 | Chair |
-| 303 | 242 | PurpleMoonMa |
-| 304 | 242 | Chaz |
+| 303 | 242 | Chaz |
+| 304 | 242 | PurpleMoonMa |
 | 305 | 240 | Perky Patternblock |
 | 306 | 239 | AyeKay |
 | 307 | 239 | Denise B |
@@ -636,8 +636,8 @@
 | 628 | 114 | Ashley Danielle |
 | 629 | 113 | Abigail Murphy |
 | 630 | 113 | Serena Butter |
-| 631 | 113 | Hog Crankin |
-| 632 | 113 | Lilya Troutman |
+| 631 | 113 | Lilya Troutman |
+| 632 | 113 | Hog Crankin |
 | 633 | 112 | Ninaforever |
 | 634 | 112 | Jazzy Slamdrop |
 | 635 | 112 | RogueRebel |

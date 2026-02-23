@@ -145,8 +145,8 @@
 | 137 | 1818 | Shandrica Lowe |
 | 138 | 1812 | Shameika Trail |
 | 139 | 1774 | Crystal Elam |
-| 140 | 1769 | Chirpy Staggerpiece |
-| 141 | 1769 | Katrina Williams Balmir |
+| 140 | 1769 | Katrina Williams Balmir |
+| 141 | 1769 | Chirpy Staggerpiece |
 | 142 | 1767 | niecy |
 | 143 | 1755 | Loopy Clusterbuilder |
 | 144 | 1755 | Rebecca Doughman |
@@ -352,8 +352,8 @@
 | 344 | 926 | Deborah Miller |
 | 345 | 919 | Isaac Trappiel IV |
 | 346 | 918 | Amber Brion |
-| 347 | 917 | Nashu |
-| 348 | 917 | Jackie Burnett |
+| 347 | 917 | Jackie Burnett |
+| 348 | 917 | Nashu |
 | 349 | 916 | Butta |
 | 350 | 915 | Kelly Trent |
 | 351 | 914 | Shuany Arias |
@@ -542,8 +542,8 @@
 | 534 | 659 | Trinity Oak |
 | 535 | 658 | Demeka Dangerous-kisses Johnson |
 | 536 | 656 | Kiana Boschh |
-| 537 | 656 | bonsai |
-| 538 | 656 | Tonya Lee |
+| 537 | 656 | Tonya Lee |
+| 538 | 656 | bonsai |
 | 539 | 655 | Silly Pivotfall |
 | 540 | 654 | Cc |
 | 541 | 651 | Unica Rector |
@@ -602,12 +602,12 @@
 | 594 | 604 | Rae Rae |
 | 595 | 603 | Casper The Chonk |
 | 596 | 603 | Dizzy Zone |
-| 597 | 602 | Tash Bell |
-| 598 | 602 | Jason H Baker |
-| 599 | 602 | Jedi |
+| 597 | 602 | Jason H Baker |
+| 598 | 602 | Jedi |
+| 599 | 602 | Tash Bell |
 | 600 | 602 | Stephanie Sul |
-| 601 | 601 | Daniel Amos |
-| 602 | 601 | Moua Ying |
+| 601 | 601 | Moua Ying |
+| 602 | 601 | Daniel Amos |
 | 603 | 600 | Nicole Cox |
 | 604 | 597 | TJ Nash |
 | 605 | 597 | Jamie Schmitt |
@@ -709,8 +709,8 @@
 | 701 | 522 | Snippy Rumbler |
 | 702 | 521 | Mia Muse Best |
 | 703 | 519 | CupCake |
-| 704 | 519 | Saucy Fitzone |
-| 705 | 519 | Rob Brown |
+| 704 | 519 | Rob Brown |
+| 705 | 519 | Saucy Fitzone |
 | 706 | 517 | Daring Caster |
 | 707 | 516 | Diamond Scott |
 | 708 | 516 | Nate Lee |
