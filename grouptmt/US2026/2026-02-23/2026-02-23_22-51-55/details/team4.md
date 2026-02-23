@@ -162,15 +162,15 @@
 | 154 | 520 | Zippy Block |
 | 155 | 519 | Lucas J Sutton |
 | 156 | 518 | Carly Alexis |
-| 157 | 516 | Twisty Clicky |
-| 158 | 516 | Trish |
+| 157 | 516 | Trish |
+| 158 | 516 | Twisty Clicky |
 | 159 | 514 | Scott Jameson |
 | 160 | 513 | Erin Thomas |
 | 161 | 513 | Jessica Lynn Cutlip |
 | 162 | 512 | ThaEviLJeNiuZ |
 | 163 | 512 | Angela Srubar-Norman |
-| 164 | 512 | Ellen Durfee |
-| 165 | 512 | Casey Jeffcoat |
+| 164 | 512 | Casey Jeffcoat |
+| 165 | 512 | Ellen Durfee |
 | 166 | 507 | Nick Gray |
 | 167 | 504 | Deanna Deckard |
 | 168 | 501 | Ericca Eldridge |

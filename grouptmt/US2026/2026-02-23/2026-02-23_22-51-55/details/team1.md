@@ -36,8 +36,8 @@
 | 28 | 1582 | Joe Smith |
 | 29 | 1580 | Jennifer Cates |
 | 30 | 1527 | Hyp James NObettadanluvarat |
-| 31 | 1520 | Lola Adkhambekovna |
-| 32 | 1520 | Ashley Elizabeth |
+| 31 | 1520 | Ashley Elizabeth |
+| 32 | 1520 | Lola Adkhambekovna |
 | 33 | 1515 | Felicia Lewis |
 | 34 | 1413 | Trippy Redd |
 | 35 | 1391 | Aaron Garnett |
@@ -125,8 +125,8 @@
 | 117 | 601 | Evan Richmond |
 | 118 | 598 | Jessi Sauer |
 | 119 | 594 | Basment Living |
-| 120 | 589 | Chris K |
-| 121 | 589 | Giddy Cascade |
+| 120 | 589 | Giddy Cascade |
+| 121 | 589 | Chris K |
 | 122 | 583 | Theo Pinnow |
 | 123 | 581 | Desiree Deschaine Havee |
 | 124 | 578 | Virginia Gray Floyd |
@@ -289,8 +289,8 @@
 | 281 | 333 | Rodney Schmerfeld |
 | 282 | 333 | Wayne Saunders |
 | 283 | 332 | Eddie Dillon |
-| 284 | 330 | Jeremy Maubert |
-| 285 | 330 | Rebecca Apley Mielke |
+| 284 | 330 | Rebecca Apley Mielke |
+| 285 | 330 | Jeremy Maubert |
 | 286 | 329 | Marianita Garcia |
 | 287 | 328 | Buttons Stemm |
 | 288 | 325 | Mitchel White |
@@ -383,10 +383,10 @@
 | 375 | 265 | Yahowah |
 | 376 | 264 | Carlos Floyd |
 | 377 | 264 | Jenny Gingrich Fuentes |
-| 378 | 264 | Carlos Floyd |
-| 379 | 263 | BigWeenie69 |
-| 380 | 263 | Ed Franz Jr |
-| 381 | 263 | Charlie Walker |
+| 378 | 264 | Frisky Base |
+| 379 | 263 | Charlie Walker |
+| 380 | 263 | BigWeenie69 |
+| 381 | 263 | Ed Franz Jr |
 | 382 | 262 | Ramona Shaver |
 | 383 | 261 | Angela Fairbank |
 | 384 | 260 | Lacy Wolfe |

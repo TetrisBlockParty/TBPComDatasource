@@ -214,8 +214,8 @@
 | 206 | 621 | Sashay Tapae Simpson |
 | 207 | 617 | Annie Déè |
 | 208 | 616 | Kammy Hill |
-| 209 | 605 | CeceGeGe |
-| 210 | 605 | Sarah Cowan Burgos |
+| 209 | 605 | Sarah Cowan Burgos |
+| 210 | 605 | CeceGeGe |
 | 211 | 600 | Keis |
 | 212 | 598 | Bmo |
 | 213 | 597 | Kaycee Kay |
@@ -287,8 +287,8 @@
 | 279 | 479 | Stephanie Bradley |
 | 280 | 479 | Hyper Matchzone |
 | 281 | 476 | Shunta Jacobs |
-| 282 | 475 | Tasha Wesson-Torrence |
-| 283 | 475 | Rebecca Bailey |
+| 282 | 475 | Rebecca Bailey |
+| 283 | 475 | Tasha Wesson-Torrence |
 | 284 | 474 | Tiffanie Alley |
 | 285 | 471 | Alexmac |
 | 286 | 471 | Mendoza Lee Christy |
@@ -372,13 +372,13 @@
 | 364 | 375 | neci |
 | 365 | 374 | Foltz Lee Kelli |
 | 366 | 373 | KayB |
-| 367 | 372 | Breanna Marsden |
-| 368 | 372 | Rich LeBlanc |
+| 367 | 372 | Rich LeBlanc |
+| 368 | 372 | Breanna Marsden |
 | 369 | 370 | Roary Danner |
 | 370 | 370 | Ashley Lynn Marchese |
 | 371 | 369 | Amber Glover |
-| 372 | 368 | Stephanie Woods |
-| 373 | 368 | Sheila M Frazier |
+| 372 | 368 | Sheila M Frazier |
+| 373 | 368 | Stephanie Woods |
 | 374 | 368 | Nikki Pags |
 | 375 | 367 | Swanky Snapclear |
 | 376 | 366 | Rick Poppen |
@@ -406,8 +406,8 @@
 | 398 | 345 | Misha Sanders |
 | 399 | 344 | Beaudie Stroebel |
 | 400 | 343 | Brittany |
-| 401 | 342 | Cynthia Herrmann Egland |
-| 402 | 342 | Christina Marie Swisher |
+| 401 | 342 | Christina Marie Swisher |
+| 402 | 342 | Cynthia Herrmann Egland |
 | 403 | 341 | Eboni Starr |
 | 404 | 341 | Lys |
 | 405 | 340 | Kerry Nowickshere |
@@ -448,8 +448,8 @@
 | 440 | 322 | Nena Somerville Kelly |
 | 441 | 322 | Beth Smith |
 | 442 | 321 | Jl |
-| 443 | 320 | Or Reznitsky |
-| 444 | 320 | Kevin Russell |
+| 443 | 320 | Kevin Russell |
+| 444 | 320 | Or Reznitsky |
 | 445 | 320 | Taylor Hood |
 | 446 | 319 | Boldy Corner |
 | 447 | 319 | Beejangles |
@@ -494,10 +494,10 @@
 | 486 | 299 | Hasty Pop |
 | 487 | 299 | Angie Harper |
 | 488 | 298 | Grams |
-| 489 | 297 | Quirky Snapfit |
-| 490 | 297 | Zac Hudak |
-| 491 | 296 | Amy Montz |
-| 492 | 296 | atomictrin |
+| 489 | 297 | Zac Hudak |
+| 490 | 297 | Quirky Snapfit |
+| 491 | 296 | atomictrin |
+| 492 | 296 | Amy Montz |
 | 493 | 296 | Tracy Martin |
 | 494 | 295 | Dakota Graham |
 | 495 | 294 | toony |

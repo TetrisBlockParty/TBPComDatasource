@@ -355,8 +355,8 @@
 | 347 | 1079 | Jennifer Kistner |
 | 348 | 1073 | Jodi Blake |
 | 349 | 1072 | BK Queen |
-| 350 | 1071 | Kim Dean |
-| 351 | 1071 | Nashu |
+| 350 | 1071 | Nashu |
+| 351 | 1071 | Kim Dean |
 | 352 | 1071 | Barbra Miller |
 | 353 | 1067 | Taylor Phillips |
 | 354 | 1067 | Bee |
@@ -464,8 +464,8 @@
 | 456 | 888 | Leslie Ann Carter |
 | 457 | 883 | Hong Tang |
 | 458 | 882 | Stephanie Sul |
-| 459 | 877 | Wes Acton |
-| 460 | 877 | Misti Markijohn |
+| 459 | 877 | Misti Markijohn |
+| 460 | 877 | Wes Acton |
 | 461 | 876 | Jessicah Myers |
 | 462 | 876 | Jelly |
 | 463 | 870 | Joy LaJeunesse |
@@ -511,8 +511,8 @@
 | 503 | 816 | James Simms III |
 | 504 | 816 | Beth |
 | 505 | 813 | Ganieda |
-| 506 | 813 | Angelina Marie |
-| 507 | 813 | Lonne Emade |
+| 506 | 813 | Lonne Emade |
+| 507 | 813 | Angelina Marie |
 | 508 | 812 | Samantha Jo |
 | 509 | 811 | Brenda Pierpoint |
 | 510 | 811 | Dreamy Blast |
