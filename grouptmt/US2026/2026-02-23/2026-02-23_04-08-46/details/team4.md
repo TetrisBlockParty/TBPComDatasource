@@ -86,8 +86,8 @@
 | 78 | 704 | Crystal Carroll |
 | 79 | 703 | Savannah Overdorf |
 | 80 | 697 | Alyssa Papen |
-| 81 | 684 | Jonathan Kimbrough |
-| 82 | 684 | Kimyatta Cavin |
+| 81 | 684 | Kimyatta Cavin |
+| 82 | 684 | Jonathan Kimbrough |
 | 83 | 677 | Trista Leah |
 | 84 | 673 | Jacqueline Helm |
 | 85 | 667 | Shane Kalamata Platoon |
@@ -139,11 +139,11 @@
 | 131 | 435 | Leslie Thomas |
 | 132 | 431 | Courtney Cicoria |
 | 133 | 425 | Monica Daley |
-| 134 | 421 | Kesha Brady |
-| 135 | 421 | JIGsaw ~(•¿°)~ |
+| 134 | 421 | JIGsaw ~(•¿°)~ |
+| 135 | 421 | Kesha Brady |
 | 136 | 419 | Klo |
-| 137 | 418 | Marie-Pier Desjardins |
-| 138 | 418 | Lush Linkfall |
+| 137 | 418 | Lush Linkfall |
+| 138 | 418 | Marie-Pier Desjardins |
 | 139 | 416 | Chaz Duncan |
 | 140 | 414 | Nope Young |
 | 141 | 412 | Jessica Bohlken |
@@ -157,8 +157,8 @@
 | 149 | 393 | Carlton Unfiltered |
 | 150 | 391 | Ramel Rhodes |
 | 151 | 389 | Joseph Guthrie |
-| 152 | 387 | Lucas J Sutton |
-| 153 | 387 | 🥔🥔 Spudz |
+| 152 | 387 | 🥔🥔 Spudz |
+| 153 | 387 | Lucas J Sutton |
 | 154 | 377 | Carrie Brian |
 | 155 | 375 | Desi Desporte |
 | 156 | 375 | ThaEviLJeNiuZ |
@@ -219,8 +219,8 @@
 | 211 | 290 | Plucky Patternblock |
 | 212 | 288 | Adam Stephanie Parker |
 | 213 | 288 | Brittney Orengo |
-| 214 | 288 | Adam Stephanie Parker |
-| 215 | 288 | Zesty Twistbuilder |
+| 214 | 288 | Zesty Twistbuilder |
+| 215 | 288 | Leah Kutz Zirbel |
 | 216 | 286 | Sam Bishop |
 | 217 | 284 | Mimi |
 | 218 | 282 | Kim Klutz Olson |
@@ -246,8 +246,8 @@
 | 238 | 262 | BigSammy420 |
 | 239 | 262 | Selena Shaw |
 | 240 | 260 | Carter Jones |
-| 241 | 259 | Montiette Mcglown |
-| 242 | 259 | Allen Lloyd |
+| 241 | 259 | Allen Lloyd |
+| 242 | 259 | Montiette Mcglown |
 | 243 | 257 | PeaceOs |
 | 244 | 256 | Mylo Lipscomb |
 | 245 | 256 | Metsfan |
@@ -423,8 +423,8 @@
 | 415 | 162 | Amy Sanford |
 | 416 | 162 | conceptCollector |
 | 417 | 161 | Ruby Khalisadar |
-| 418 | 160 | Heather Layne Smith |
-| 419 | 160 | Helen Chao |
+| 418 | 160 | Helen Chao |
+| 419 | 160 | Heather Layne Smith |
 | 420 | 159 | Groovy Brickmatch |
 | 421 | 158 | Jasmine S Caldwell |
 | 422 | 157 | Squeezy Pearsall |

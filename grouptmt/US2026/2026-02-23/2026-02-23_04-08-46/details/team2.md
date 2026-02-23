@@ -153,8 +153,8 @@
 | 145 | 1588 | Mema |
 | 146 | 1581 | Brandy Andre |
 | 147 | 1580 | Heather Westrum |
-| 148 | 1578 | Loopy Clusterbuilder |
-| 149 | 1578 | Sally Dennis |
+| 148 | 1578 | Sally Dennis |
+| 149 | 1578 | Loopy Clusterbuilder |
 | 150 | 1571 | Alisa Lamb |
 | 151 | 1560 | Donnie Hunt |
 | 152 | 1558 | Tim Dyer |
@@ -496,8 +496,8 @@
 | 488 | 650 | Gary Stash |
 | 489 | 648 | Brittney Jean |
 | 490 | 646 | Jazzy Clusterline |
-| 491 | 644 | Demeka Dangerous-kisses Johnson |
-| 492 | 644 | Véronique Lévesque Sabourin |
+| 491 | 644 | Véronique Lévesque Sabourin |
+| 492 | 644 | Demeka Dangerous-kisses Johnson |
 | 493 | 643 | Michelle Pike |
 | 494 | 642 | Michelle Fields |
 | 495 | 642 | Cassie Maynard |
@@ -571,8 +571,8 @@
 | 563 | 571 | Koa N Sharon Chen |
 | 564 | 569 | Sparkles |
 | 565 | 567 | Blacc Blac |
-| 566 | 566 | Tina Marie |
-| 567 | 566 | Isabelle Bonneau |
+| 566 | 566 | Isabelle Bonneau |
+| 567 | 566 | Tina Marie |
 | 568 | 563 | Frisky Clearpiece |
 | 569 | 562 | Sabrena Yeisley |
 | 570 | 562 | AISlop |
@@ -661,9 +661,9 @@
 | 653 | 494 | Cat Thompson |
 | 654 | 494 | Melanie Csikortos |
 | 655 | 494 | Mia Muse Best |
-| 656 | 494 | Cat Thompson |
-| 657 | 493 | Sue Leard |
-| 658 | 493 | Kristie Wilcox |
+| 656 | 494 | Snippy Rumbler |
+| 657 | 493 | Kristie Wilcox |
+| 658 | 493 | Sue Leard |
 | 659 | 493 | Skyler Morgan |
 | 660 | 492 | Breezy Clusterer |
 | 661 | 492 | Christina Wsn |
@@ -671,8 +671,8 @@
 | 663 | 489 | Christy Krissie |
 | 664 | 488 | Funky Caster |
 | 665 | 488 | Eunique Griffin |
-| 666 | 487 | Morgan Easter |
-| 667 | 487 | Lina Sanders |
+| 666 | 487 | Lina Sanders |
+| 667 | 487 | Morgan Easter |
 | 668 | 486 | Ashley Collins |
 | 669 | 486 | Cblock |
 | 670 | 485 | Regina Young |
@@ -937,8 +937,8 @@
 | 929 | 369 | Epic Fitzone |
 | 930 | 368 | Lively Piecebuilder |
 | 931 | 367 | Sarah Dean |
-| 932 | 366 | Ashley Criner |
-| 933 | 366 | Yasmin Guzman |
+| 932 | 366 | Yasmin Guzman |
+| 933 | 366 | Ashley Criner |
 | 934 | 366 | Christine Coughlin |
 | 935 | 365 | Dee Blokk |
 | 936 | 365 | Wes Acton |
@@ -1037,8 +1037,8 @@
 | 1029 | 335 | Brooke Leigh Strube |
 | 1030 | 334 | Tina Wright-Quigley |
 | 1031 | 334 | Toni Lynn |
-| 1032 | 333 | Erika Deer Kauffman |
-| 1033 | 333 | Dad |
+| 1032 | 333 | Dad |
+| 1033 | 333 | Erika Deer Kauffman |
 | 1034 | 333 | Paula Martinez |
 | 1035 | 333 | Snippy Block |
 | 1036 | 332 | Sunny Pusher |
