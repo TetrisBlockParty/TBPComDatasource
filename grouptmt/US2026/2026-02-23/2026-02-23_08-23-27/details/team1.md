@@ -112,8 +112,8 @@
 | 104 | 493 | MomMom |
 | 105 | 492 | Ash Galvan |
 | 106 | 491 | cc |
-| 107 | 489 | Deanna L Hermanson |
-| 108 | 489 | April Carroll |
+| 107 | 489 | April Carroll |
+| 108 | 489 | Deanna L Hermanson |
 | 109 | 483 | Tdub |
 | 110 | 483 | Trina Gee |
 | 111 | 480 | Ty Brown |
@@ -196,8 +196,8 @@
 | 188 | 337 | Constance Risner |
 | 189 | 337 | Jamise Brown |
 | 190 | 336 | Dizzy Party |
-| 191 | 333 | Virginia Gray Floyd |
-| 192 | 333 | Gracie |
+| 191 | 333 | Gracie |
+| 192 | 333 | Virginia Gray Floyd |
 | 193 | 332 | Happy Basegrid |
 | 194 | 328 | Snappy Matcher |
 | 195 | 326 | Jen Nystrom |
@@ -215,8 +215,8 @@
 | 207 | 310 | Bloknboy |
 | 208 | 308 | Speedy Liney |
 | 209 | 307 | femmefatale |
-| 210 | 306 | Tiger Lily |
-| 211 | 306 | Angela Renea Lester |
+| 210 | 306 | Angela Renea Lester |
+| 211 | 306 | Tiger Lily |
 | 212 | 304 | Sarah Somers Gray |
 | 213 | 301 | Damon J. Martin |
 | 214 | 301 | Cody Gates |
@@ -235,10 +235,10 @@
 | 227 | 287 | Sassy Builderline |
 | 228 | 285 | Bird Person |
 | 229 | 285 | Shanae Grant |
-| 230 | 283 | Amanda Holibaugh |
-| 231 | 283 | Franswa |
-| 232 | 282 | Timothy Dew |
-| 233 | 282 | Mandyy Rae |
+| 230 | 283 | Franswa |
+| 231 | 283 | Amanda Holibaugh |
+| 232 | 282 | Mandyy Rae |
+| 233 | 282 | Timothy Dew |
 | 234 | 281 | Clever Cascadepiece |
 | 235 | 280 | Billie Dawn Sparks |
 | 236 | 277 | Melissa Lemmon |
@@ -496,7 +496,7 @@
 | 488 | 151 | Plucky Wrecker |
 | 489 | 149 | MIKOZ |
 | 490 | 149 | Kimberly Davis |
-| 491 | 149 | MIKOZ |
+| 491 | 149 | Logan McFarland |
 | 492 | 148 | Sir-Franchise Drake |
 | 493 | 147 | Carl Claunch |
 | 494 | 147 | Jodee Woods |

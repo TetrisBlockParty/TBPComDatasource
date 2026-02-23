@@ -26,8 +26,8 @@
 | 18 | 1636 | Cassie Michaux |
 | 19 | 1565 | GreenJeepGirl |
 | 20 | 1558 | Leah Gorsuch |
-| 21 | 1536 | Misty Hollibaugh |
-| 22 | 1536 | Roger Coulter |
+| 21 | 1536 | Roger Coulter |
+| 22 | 1536 | Misty Hollibaugh |
 | 23 | 1485 | Juggalo |
 | 24 | 1390 | Sammy Noguera |
 | 25 | 1382 | Tammi Crnza |
@@ -54,20 +54,20 @@
 | 46 | 960 | Dustin Robert |
 | 47 | 956 | Jeremy Steines |
 | 48 | 938 | Denny Shives |
-| 49 | 936 | Rebecca Moulton Pinciaro |
-| 50 | 936 | Dawn Alexander |
+| 49 | 936 | Dawn Alexander |
+| 50 | 936 | Rebecca Moulton Pinciaro |
 | 51 | 932 | Marvin Lou Martin |
 | 52 | 911 | Anthony Bryan Riva |
 | 53 | 870 | BertMofo |
 | 54 | 864 | Shelly Chandler |
 | 55 | 863 | Pee |
 | 56 | 859 | TeeJ |
-| 57 | 846 | Lucille Truesdale |
-| 58 | 846 | Christine Marie |
+| 57 | 846 | Christine Marie |
+| 58 | 846 | Lucille Truesdale |
 | 59 | 845 | LisaJo Picken Buchanan |
 | 60 | 834 | quicksand420 |
-| 61 | 807 | Rachel Anne |
-| 62 | 807 | Amelpss |
+| 61 | 807 | Amelpss |
+| 62 | 807 | Rachel Anne |
 | 63 | 788 | Julian Garcia |
 | 64 | 787 | Edward White |
 | 65 | 783 | Ashley Ingram |
@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Jonathan Kimbrough |
-| 84 | 684 | Kimyatta Cavin |
+| 83 | 684 | Kimyatta Cavin |
+| 84 | 684 | Jonathan Kimbrough |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -125,8 +125,8 @@
 | 117 | 514 | Scott Jameson |
 | 118 | 514 | Serena Goodridge |
 | 119 | 513 | Erin Thomas |
-| 120 | 512 | Cristy Duerksen |
-| 121 | 512 | Casey Jeffcoat |
+| 120 | 512 | Casey Jeffcoat |
+| 121 | 512 | Cristy Duerksen |
 | 122 | 511 | Lori Walker |
 | 123 | 509 | Leslie Nicole |
 | 124 | 487 | Ren Mc |
@@ -156,8 +156,8 @@
 | 148 | 418 | Marie-Pier Desjardins |
 | 149 | 418 | Lush Linkfall |
 | 150 | 416 | Chaz Duncan |
-| 151 | 414 | Nope Young |
-| 152 | 414 | Swanky Fitline |
+| 151 | 414 | Swanky Fitline |
+| 152 | 414 | Nope Young |
 | 153 | 413 | Circuit8 |
 | 154 | 412 | Jessica Bohlken |
 | 155 | 408 | Amanda Pauldo-Ivy |
@@ -229,8 +229,8 @@
 | 221 | 292 | Epic Curvetile |
 | 222 | 291 | Nikki Rae Gordon |
 | 223 | 290 | Plucky Patternblock |
-| 224 | 290 | Rebecca Morris |
-| 225 | 290 | Jared Gutwein |
+| 224 | 290 | Jared Gutwein |
+| 225 | 290 | Rebecca Morris |
 | 226 | 289 | Juls |
 | 227 | 288 | Adam Stephanie Parker |
 | 228 | 288 | Leah Kutz Zirbel |
