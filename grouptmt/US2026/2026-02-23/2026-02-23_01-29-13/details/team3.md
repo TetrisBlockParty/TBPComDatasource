@@ -194,13 +194,13 @@
 | 186 | 471 | Mendoza Lee Christy |
 | 187 | 469 | Melissa Orth Hunter |
 | 188 | 464 | Makelini Mausia |
-| 189 | 461 | Shunta Jacobs |
-| 190 | 461 | Kammy Hill |
+| 189 | 461 | Kammy Hill |
+| 190 | 461 | Shunta Jacobs |
 | 191 | 460 | Danielle Allison |
 | 192 | 458 | Danielle Rhoades |
 | 193 | 457 | Jim Mathews |
-| 194 | 455 | Bmo |
-| 195 | 455 | Annie Déè |
+| 194 | 455 | Annie Déè |
+| 195 | 455 | Bmo |
 | 196 | 454 | Michael Johnson |
 | 197 | 452 | Jacqueline Rodriguez |
 | 198 | 451 | Sarah Cowan Burgos |
@@ -226,8 +226,8 @@
 | 218 | 403 | Scott Lindsay |
 | 219 | 400 | Denita Mungro |
 | 220 | 397 | Connie Mohler-Fair |
-| 221 | 390 | Trisha Balmer |
-| 222 | 390 | rosy |
+| 221 | 390 | rosy |
+| 222 | 390 | Trisha Balmer |
 | 223 | 388 | Nicole Flippo |
 | 224 | 387 | Gideon Walker |
 | 225 | 384 | Marci Mize Fandrich |
@@ -240,8 +240,8 @@
 | 232 | 375 | Duane Bright |
 | 233 | 375 | Kristal C Lee |
 | 234 | 373 | Rebecca Funderburk Kirby |
-| 235 | 372 | Sarah Moyer |
-| 236 | 372 | Rich LeBlanc |
+| 235 | 372 | Rich LeBlanc |
+| 236 | 372 | Sarah Moyer |
 | 237 | 370 | RickyG |
 | 238 | 369 | Marquita Sheard |
 | 239 | 369 | Keis |
@@ -254,8 +254,8 @@
 | 246 | 360 | Sheila M Frazier |
 | 247 | 357 | Stephanie Burtin |
 | 248 | 357 | Ammmmmmy |
-| 249 | 352 | Christian Werndl |
-| 250 | 352 | Samantha Lynn |
+| 249 | 352 | Samantha Lynn |
+| 250 | 352 | Christian Werndl |
 | 251 | 351 | Eon Harris |
 | 252 | 349 | Amanda J. Mcneil-Anderson |
 | 253 | 347 | Philip Rock |
@@ -323,7 +323,7 @@
 | 315 | 279 | ROODBOY |
 | 316 | 278 | Rufus Lincoln |
 | 317 | 278 | Carol Cain Thurman |
-| 318 | 277 | Wettnippz |
+| 318 | 277 | Krystal Gerstberger |
 | 319 | 277 | Joe-Maggie Mathews |
 | 320 | 277 | Wettnippz |
 | 321 | 276 | Hasty Gridpiece |
@@ -433,10 +433,10 @@
 | 425 | 216 | Trice Thomas |
 | 426 | 216 | Breanna Marsden |
 | 427 | 214 | Amy Fuller Heaton |
-| 428 | 213 | Cheeky Twisterfit |
-| 429 | 213 | Linda Draper |
-| 430 | 212 | BŘŰŤİÇŨŚ |
-| 431 | 212 | Beth Ingham |
+| 428 | 213 | Linda Draper |
+| 429 | 213 | Cheeky Twisterfit |
+| 430 | 212 | Beth Ingham |
+| 431 | 212 | BŘŰŤİÇŨŚ |
 | 432 | 211 | El Chapa |
 | 433 | 210 | Maia |
 | 434 | 210 | Kristian Thurman |

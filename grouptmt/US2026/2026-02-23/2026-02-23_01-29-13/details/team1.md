@@ -157,8 +157,8 @@
 | 149 | 353 | Josh Riemer |
 | 150 | 351 | Basment Living |
 | 151 | 350 | Tipsy Strikerpiece |
-| 152 | 343 | Elaine Elaine |
-| 153 | 343 | Chelsea Dahlquist |
+| 152 | 343 | Chelsea Dahlquist |
+| 153 | 343 | Elaine Elaine |
 | 154 | 341 | Shiny Snapfit |
 | 155 | 341 | Nick R Montague |
 | 156 | 338 | Jennifer Hardman |
@@ -166,8 +166,8 @@
 | 158 | 337 | Nicole Roseberry Weber |
 | 159 | 336 | Fmp |
 | 160 | 334 | Jaimie Lynn |
-| 161 | 333 | Gracie |
-| 162 | 333 | GATOR |
+| 161 | 333 | GATOR |
+| 162 | 333 | Gracie |
 | 163 | 332 | Lehrin Maria |
 | 164 | 329 | Rachael |
 | 165 | 325 | Dizzy Party |
@@ -208,11 +208,11 @@
 | 200 | 282 | Sassy Builderline |
 | 201 | 282 | Mandyy Rae |
 | 202 | 280 | Billie Dawn Sparks |
-| 203 | 279 | Tana |
-| 204 | 279 | Bird Person |
-| 205 | 277 | Christy Jones |
-| 206 | 277 | Nutty Spinblock |
-| 207 | 277 | Sleepysloath5745 |
+| 203 | 279 | Bird Person |
+| 204 | 279 | Tana |
+| 205 | 277 | Nutty Spinblock |
+| 206 | 277 | Sleepysloath5745 |
+| 207 | 277 | Christy Jones |
 | 208 | 275 | Chris65 |
 | 209 | 273 | Shannon Marie Pitts |
 | 210 | 271 | Frothy Pattern |
@@ -221,8 +221,8 @@
 | 213 | 268 | Reesey Enyart |
 | 214 | 267 | Debbie Kane |
 | 215 | 265 | Kandae |
-| 216 | 264 | Jenny Gingrich Fuentes |
-| 217 | 264 | Standia Civil |
+| 216 | 264 | Standia Civil |
+| 217 | 264 | Jenny Gingrich Fuentes |
 | 218 | 263 | Jessie Lynn |
 | 219 | 261 | John J. Cronin |
 | 220 | 260 | Cheeky Pop |

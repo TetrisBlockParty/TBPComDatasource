@@ -126,8 +126,8 @@
 | 118 | 1732 | Mindy Leigh Head |
 | 119 | 1700 | Jumpy Gridpiece |
 | 120 | 1699 | Jamie Main |
-| 121 | 1681 | Shandrica Lowe |
-| 122 | 1681 | Nett |
+| 121 | 1681 | Nett |
+| 122 | 1681 | Shandrica Lowe |
 | 123 | 1652 | Kristopher Miller |
 | 124 | 1644 | Luna |
 | 125 | 1639 | Jessie McDougald |
@@ -1033,8 +1033,8 @@
 | 1025 | 309 | Denisse Avilez |
 | 1026 | 309 | Byung Bae Park |
 | 1027 | 308 | Michael David Hollis |
-| 1028 | 308 | Justin Edwards |
-| 1029 | 308 | Ryan Chan |
+| 1028 | 308 | Ryan Chan |
+| 1029 | 308 | Justin Edwards |
 | 1030 | 308 | Katie Joy McCombs |
 | 1031 | 308 | Hyper Riseclear |
 | 1032 | 308 | Squirrel |
