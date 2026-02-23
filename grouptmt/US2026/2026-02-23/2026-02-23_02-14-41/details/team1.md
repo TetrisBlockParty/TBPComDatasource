@@ -141,8 +141,8 @@
 | 133 | 387 | Emily Adelaide Wheatley |
 | 134 | 386 | Ty Brown |
 | 135 | 383 | pjbeta |
-| 136 | 379 | Austin James |
-| 137 | 379 | Kimmie Kimms |
+| 136 | 379 | Kimmie Kimms |
+| 137 | 379 | Austin James |
 | 138 | 376 | Brian Richardsson |
 | 139 | 371 | Jason Savage |
 | 140 | 368 | Death |
@@ -174,12 +174,12 @@
 | 166 | 328 | Jamise Brown |
 | 167 | 326 | BadG52 |
 | 168 | 325 | Dizzy Party |
-| 169 | 324 | Ananda Mendez |
-| 170 | 324 | Rat666 |
+| 169 | 324 | Rat666 |
+| 170 | 324 | Ananda Mendez |
 | 171 | 323 | Carrie Smith |
 | 172 | 323 | Madison Wicks |
-| 173 | 318 | Jessica Sheehan |
-| 174 | 318 | Virginia Gray Floyd |
+| 173 | 318 | Virginia Gray Floyd |
+| 174 | 318 | Jessica Sheehan |
 | 175 | 317 | Sarah Roberts |
 | 176 | 315 | Danielle Little-Daugherty |
 | 177 | 315 | Tyler Werts |
@@ -249,8 +249,8 @@
 | 241 | 244 | Eddie Dillon |
 | 242 | 242 | ParisandCory Champagne |
 | 243 | 241 | Tyler Hertzog |
-| 244 | 240 | DaRascal |
-| 245 | 240 | Daring Fitclear |
+| 244 | 240 | Daring Fitclear |
+| 245 | 240 | DaRascal |
 | 246 | 238 | Tiffany Smith |
 | 247 | 238 | Sarah Somers Gray |
 | 248 | 234 | Paula Martin |

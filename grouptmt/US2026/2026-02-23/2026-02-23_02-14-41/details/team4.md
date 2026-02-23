@@ -141,21 +141,21 @@
 | 133 | 418 | Lush Linkfall |
 | 134 | 418 | Marie-Pier Desjardins |
 | 135 | 414 | Nope Young |
-| 136 | 413 | Kristina Black |
-| 137 | 413 | Chaz Duncan |
+| 136 | 413 | Chaz Duncan |
+| 137 | 413 | Kristina Black |
 | 138 | 412 | Jessica Bohlken |
 | 139 | 408 | Amanda Pauldo-Ivy |
 | 140 | 402 | Ericca Eldridge |
 | 141 | 395 | Klo |
-| 142 | 394 | Austin Owens |
-| 143 | 394 | Damn Libra |
-| 144 | 393 | Carlton Unfiltered |
-| 145 | 393 | Girl |
-| 146 | 393 | Trish |
+| 142 | 394 | Damn Libra |
+| 143 | 394 | Austin Owens |
+| 144 | 393 | Girl |
+| 145 | 393 | Trish |
+| 146 | 393 | Carlton Unfiltered |
 | 147 | 391 | Ramel Rhodes |
 | 148 | 389 | Joseph Guthrie |
-| 149 | 387 | Lucas J Sutton |
-| 150 | 387 | 🥔🥔 Spudz |
+| 149 | 387 | 🥔🥔 Spudz |
+| 150 | 387 | Lucas J Sutton |
 | 151 | 382 | Livvy |
 | 152 | 380 | Swanky Fitline |
 | 153 | 377 | Carrie Brian |
@@ -912,7 +912,7 @@
 | 904 | 60 | Priscilla Lewandowski |
 | 905 | 60 | Boldy Linkfall |
 | 906 | 59 | Mike Kremen |
-| 907 | 59 | Becky Shimko |
+| 907 | 59 | Justin Davis |
 | 908 | 59 | Amber bamber |
 | 909 | 59 | Riley Chelsie |
 | 910 | 59 | Becky Shimko |

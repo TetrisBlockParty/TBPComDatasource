@@ -40,8 +40,8 @@
 | 32 | 4199 | Claire Noland |
 | 33 | 4130 | Robert Diddle |
 | 34 | 4128 | Angela Pruitt |
-| 35 | 4120 | Kristen Sceurman |
-| 36 | 4120 | Corrine Hawks Soriano |
+| 35 | 4120 | Corrine Hawks Soriano |
+| 36 | 4120 | Kristen Sceurman |
 | 37 | 4033 | Jill Stroehlein |
 | 38 | 3895 | Nickie Baby |
 | 39 | 3770 | Brittany Alicia |
@@ -127,8 +127,8 @@
 | 119 | 1742 | Katrina Williams Balmir |
 | 120 | 1732 | Mindy Leigh Head |
 | 121 | 1699 | Jamie Main |
-| 122 | 1681 | Nett |
-| 123 | 1681 | Shandrica Lowe |
+| 122 | 1681 | Shandrica Lowe |
+| 123 | 1681 | Nett |
 | 124 | 1658 | Liberty |
 | 125 | 1656 | Auntie B |
 | 126 | 1656 | Kristopher Miller |
@@ -226,8 +226,8 @@
 | 218 | 1140 | Sarah Ridenour |
 | 219 | 1135 | Samantha Roberts |
 | 220 | 1131 | Prado |
-| 221 | 1127 | Catina Hutchison |
-| 222 | 1127 | Dee |
+| 221 | 1127 | Dee |
+| 222 | 1127 | Catina Hutchison |
 | 223 | 1126 | Dolores Russworn |
 | 224 | 1121 | Tommy Tha Boss Gunz |
 | 225 | 1117 | Sarah Freitas |
@@ -389,8 +389,8 @@
 | 381 | 748 | Stephanie Lumanlan |
 | 382 | 748 | Brenda Utphall |
 | 383 | 747 | Kiely Tomaskovich |
-| 384 | 746 | Leslie Ann Carter |
-| 385 | 746 | Jerilyn Andrina |
+| 384 | 746 | Jerilyn Andrina |
+| 385 | 746 | Leslie Ann Carter |
 | 386 | 744 | Mandi Douglas Hilt |
 | 387 | 743 | Tiara Elizabeth Baker |
 | 388 | 741 | Jánine Riggs |
@@ -462,8 +462,8 @@
 | 454 | 653 | trabuco |
 | 455 | 652 | Mighty Spinbuilder |
 | 456 | 651 | Unica Rector |
-| 457 | 650 | Gary Stash |
-| 458 | 650 | Mikayala Szaz |
+| 457 | 650 | Mikayala Szaz |
+| 458 | 650 | Gary Stash |
 | 459 | 648 | Brittney Jean |
 | 460 | 643 | Michelle Pike |
 | 461 | 642 | Shaun Church |

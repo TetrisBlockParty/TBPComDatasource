@@ -111,8 +111,8 @@
 | 103 | 831 | Angeline Joseph |
 | 104 | 830 | Stephanie Allmon |
 | 105 | 826 | Shane Wilson Jr. |
-| 106 | 816 | Brenda Lee Vander Molen |
-| 107 | 816 | Araceli Parra |
+| 106 | 816 | Araceli Parra |
+| 107 | 816 | Brenda Lee Vander Molen |
 | 108 | 800 | Lauren Girouard |
 | 109 | 799 | Dolores Falco |
 | 110 | 788 | Jesse Olive |
@@ -152,21 +152,21 @@
 | 144 | 590 | Santeria Trece Candles |
 | 145 | 589 | Logan Naccarato |
 | 146 | 588 | Justin Ritter |
-| 147 | 585 | Annie Marie |
-| 148 | 585 | Happy Tetriblast |
+| 147 | 585 | Happy Tetriblast |
+| 148 | 585 | Annie Marie |
 | 149 | 582 | Natasha Jones |
 | 150 | 579 | Tasha Gillespie |
 | 151 | 574 | Morgan Martinez |
-| 152 | 572 | Domo Washington |
-| 153 | 572 | CeceGeGe |
+| 152 | 572 | CeceGeGe |
+| 153 | 572 | Domo Washington |
 | 154 | 571 | Nicole Myers |
 | 155 | 568 | Rachael McClain Owens |
-| 156 | 562 | Louise Stacy Sisson |
-| 157 | 562 | Dave Herzog |
+| 156 | 562 | Dave Herzog |
+| 157 | 562 | Louise Stacy Sisson |
 | 158 | 558 | Peppy Shifter |
 | 159 | 553 | LaTanya GeminiondaRise Johnson |
-| 160 | 546 | Mykal Burton |
-| 161 | 546 | Cynthia Castros-Hampton |
+| 160 | 546 | Cynthia Castros-Hampton |
+| 161 | 546 | Mykal Burton |
 | 162 | 540 | Michael Nowogorski |
 | 163 | 540 | Elissa S-k |
 | 164 | 536 | Amanda Adkins |
@@ -207,7 +207,7 @@
 | 199 | 451 | Sarah Cowan Burgos |
 | 200 | 443 | Tom Nault |
 | 201 | 436 | Danielle Weikel |
-| 202 | 432 | Fallorina Susana |
+| 202 | 432 | Luciana Braganca Vieira |
 | 203 | 432 | Jenny Hrndz |
 | 204 | 432 | Fallorina Susana |
 | 205 | 432 | Christine Trester |
@@ -248,8 +248,8 @@
 | 240 | 369 | Marquita Sheard |
 | 241 | 369 | Keis |
 | 242 | 368 | Stephanie Woods |
-| 243 | 365 | Chummy Caster |
-| 244 | 365 | Noyb Adam |
+| 243 | 365 | Noyb Adam |
+| 244 | 365 | Chummy Caster |
 | 245 | 364 | Steffi Chris Dacones |
 | 246 | 362 | Brandon Givens |
 | 247 | 361 | Shawn Miller |
@@ -326,8 +326,8 @@
 | 318 | 280 | Stephanie Bradley |
 | 319 | 279 | Foltz Lee Kelli |
 | 320 | 279 | ROODBOY |
-| 321 | 278 | Carol Cain Thurman |
-| 322 | 278 | Rufus Lincoln |
+| 321 | 278 | Rufus Lincoln |
+| 322 | 278 | Carol Cain Thurman |
 | 323 | 277 | Joe-Maggie Mathews |
 | 324 | 277 | Krystal Gerstberger |
 | 325 | 276 | Crimson |
@@ -464,9 +464,9 @@
 | 456 | 205 | Bouncy Blockbuilder |
 | 457 | 205 | Rachel Napper |
 | 458 | 203 | TLM |
-| 459 | 201 | Bhreagh Gentile |
-| 460 | 201 | Hyper Matchzone |
-| 461 | 201 | Noettín Kan Zasnemoore |
+| 459 | 201 | Hyper Matchzone |
+| 460 | 201 | Noettín Kan Zasnemoore |
+| 461 | 201 | Bhreagh Gentile |
 | 462 | 200 | Colleen Phelps |
 | 463 | 200 | Sassy Brickmatch |
 | 464 | 200 | glichmod |
