@@ -531,11 +531,11 @@
 | 523 | 273 | Kevin Fountain |
 | 524 | 273 | Michael Latasha Gray |
 | 525 | 273 | Joshua David Huie |
-| 526 | 272 | Megan Riggins |
-| 527 | 272 | Peachy Tower |
-| 528 | 272 | Todd Hall |
-| 529 | 271 | Cibf Ecihm |
-| 530 | 271 | Hyper Twisterfit |
+| 526 | 272 | Peachy Tower |
+| 527 | 272 | Todd Hall |
+| 528 | 272 | Megan Riggins |
+| 529 | 271 | Hyper Twisterfit |
+| 530 | 271 | Cibf Ecihm |
 | 531 | 271 | Frilly Stackzone |
 | 532 | 270 | Silver Marchán |
 | 533 | 270 | p brewster |

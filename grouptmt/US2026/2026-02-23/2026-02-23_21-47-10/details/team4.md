@@ -60,8 +60,8 @@
 | 52 | 1155 | Jae Job |
 | 53 | 1150 | Kimyatta Cavin |
 | 54 | 1105 | Ashley Ingram |
-| 55 | 1082 | Dion Crommarty |
-| 56 | 1082 | Avy Absol |
+| 55 | 1082 | Avy Absol |
+| 56 | 1082 | Dion Crommarty |
 | 57 | 1065 | Dustee Craddock-Harrison |
 | 58 | 1049 | Heather Tushner |
 | 59 | 1046 | Johnathan Martinez |
@@ -158,12 +158,12 @@
 | 150 | 520 | Zippy Block |
 | 151 | 518 | Carly Alexis |
 | 152 | 516 | Trish |
-| 153 | 514 | Scott Jameson |
-| 154 | 514 | Lucas J Sutton |
+| 153 | 514 | Lucas J Sutton |
+| 154 | 514 | Scott Jameson |
 | 155 | 513 | Jessica Lynn Cutlip |
 | 156 | 513 | Erin Thomas |
-| 157 | 512 | ThaEviLJeNiuZ |
-| 158 | 512 | Angela Srubar-Norman |
+| 157 | 512 | Angela Srubar-Norman |
+| 158 | 512 | ThaEviLJeNiuZ |
 | 159 | 512 | Casey Jeffcoat |
 | 160 | 512 | Ellen Durfee |
 | 161 | 511 | Twisty Clicky |
@@ -400,8 +400,8 @@
 | 392 | 246 | giantslover514 |
 | 393 | 244 | Elizabeth Tinoco |
 | 394 | 244 | Perky Piecegrid |
-| 395 | 243 | Val Erie |
-| 396 | 243 | tipsy tiger |
+| 395 | 243 | tipsy tiger |
+| 396 | 243 | Val Erie |
 | 397 | 242 | PurpleMoonMa |
 | 398 | 242 | PennyCandee |
 | 399 | 240 | Zany Shatterer |
@@ -461,12 +461,12 @@
 | 453 | 217 | Perky Riser |
 | 454 | 216 | Ryry |
 | 455 | 215 | Squeezy Pearsall |
-| 456 | 215 | Tanya Abernathy Jackson |
-| 457 | 215 | Dorian |
+| 456 | 215 | Dorian |
+| 457 | 215 | Tanya Abernathy Jackson |
 | 458 | 214 | B Renee Desjardin |
 | 459 | 214 | Susan R. Wilson |
-| 460 | 213 | Candice Carasiti |
-| 461 | 213 | Derick |
+| 460 | 213 | Derick |
+| 461 | 213 | Candice Carasiti |
 | 462 | 212 | Mike Solo |
 | 463 | 211 | Becky Shimko |
 | 464 | 209 | Matthew Pate |
@@ -511,13 +511,13 @@
 | 503 | 192 | Jacob Campbell |
 | 504 | 192 | Rebecca A Rit |
 | 505 | 191 | Norman Klick |
-| 506 | 191 | Earnest Thompson |
-| 507 | 191 | Jobadia Steelerton |
+| 506 | 191 | Jobadia Steelerton |
+| 507 | 191 | Earnest Thompson |
 | 508 | 190 | wombat |
 | 509 | 190 | Robert Rangel |
 | 510 | 189 | Brandon Link |
-| 511 | 188 | Tanner Lund |
-| 512 | 188 | Daring Pivot |
+| 511 | 188 | Daring Pivot |
+| 512 | 188 | Tanner Lund |
 | 513 | 188 | Frilly Blocky |
 | 514 | 187 | Jason Punch |
 | 515 | 186 | Dandy Cascadefit |

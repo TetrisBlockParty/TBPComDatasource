@@ -350,8 +350,8 @@
 | 342 | 1079 | Jennifer Kistner |
 | 343 | 1073 | Jodi Blake |
 | 344 | 1072 | BK Queen |
-| 345 | 1071 | Kim Dean |
-| 346 | 1071 | Nashu |
+| 345 | 1071 | Nashu |
+| 346 | 1071 | Kim Dean |
 | 347 | 1071 | Barbra Miller |
 | 348 | 1067 | Caitlin Schmid |
 | 349 | 1065 | Dany Murillo |
@@ -391,8 +391,8 @@
 | 383 | 983 | Crystie Hicks |
 | 384 | 978 | Barry Britt |
 | 385 | 976 | Sam Joe |
-| 386 | 975 | Hyper Cluster |
-| 387 | 975 | Mandi Douglas Hilt |
+| 386 | 975 | Mandi Douglas Hilt |
+| 387 | 975 | Hyper Cluster |
 | 388 | 974 | Boldy Cascadepiece |
 | 389 | 974 | Jeremy Parodi |
 | 390 | 971 | Jojo Momma |
@@ -792,7 +792,7 @@
 | 784 | 567 | Lisa Moone |
 | 785 | 566 | Cathleena Giusto |
 | 786 | 566 | Megan Kitchner |
-| 787 | 566 | Cathleena Giusto |
+| 787 | 566 | Lively Piecebuilder |
 | 788 | 565 | Alice Ball |
 | 789 | 564 | Rackemwillie34 |
 | 790 | 564 | Ashley Taylor |
@@ -800,16 +800,16 @@
 | 792 | 562 | Joel Rosado |
 | 793 | 561 | Dane Reing |
 | 794 | 560 | Rose Fx |
-| 795 | 560 | Timothy Robert |
-| 796 | 560 | Jc Gilk |
-| 797 | 560 | Crystal Heller Gonzalez |
+| 795 | 560 | Crystal Heller Gonzalez |
+| 796 | 560 | Timothy Robert |
+| 797 | 560 | Jc Gilk |
 | 798 | 559 | Kaylee McCafferty |
-| 799 | 559 | Kevin Luu |
-| 800 | 559 | Alexx Anaya |
+| 799 | 559 | Alexx Anaya |
+| 800 | 559 | Kevin Luu |
 | 801 | 558 | NanDa Cruzan VI |
 | 802 | 558 | Alicia Moreno |
-| 803 | 557 | Samuel Labruno |
-| 804 | 557 | Sassy Linkroll |
+| 803 | 557 | Sassy Linkroll |
+| 804 | 557 | Samuel Labruno |
 | 805 | 557 | Anita Rose Green |
 | 806 | 556 | Kamilya Rembert |
 | 807 | 556 | Rhonda Petro |
@@ -1123,8 +1123,8 @@
 | 1115 | 434 | Denisha Williams |
 | 1116 | 433 | Marisa Madge |
 | 1117 | 433 | Alexandrea |
-| 1118 | 432 | Michelle Shrum |
-| 1119 | 432 | Melisa Marvin |
+| 1118 | 432 | Melisa Marvin |
+| 1119 | 432 | Michelle Shrum |
 | 1120 | 432 | Karen Schweyer |
 | 1121 | 432 | Tanisha Virgo |
 | 1122 | 432 | Loopy Brickmatch |
