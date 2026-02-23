@@ -58,8 +58,8 @@
 | 50 | 1099 | Ashley Ingram |
 | 51 | 1085 | Kimyatta Cavin |
 | 52 | 1082 | Avy Absol |
-| 53 | 1082 | Dawn Alexander |
-| 54 | 1082 | Dion Crommarty |
+| 53 | 1082 | Dion Crommarty |
+| 54 | 1082 | Dawn Alexander |
 | 55 | 1049 | Heather Tushner |
 | 56 | 1046 | Johnathan Martinez |
 | 57 | 1030 | Dustee Craddock-Harrison |
@@ -80,8 +80,8 @@
 | 72 | 862 | Carolyn Wallace |
 | 73 | 847 | Peachy Fall |
 | 74 | 846 | Lucille Truesdale |
-| 75 | 846 | Christine Marie |
-| 76 | 846 | Amelpss |
+| 75 | 846 | Amelpss |
+| 76 | 846 | Christine Marie |
 | 77 | 841 | Shauna Havard |
 | 78 | 834 | quicksand420 |
 | 79 | 832 | Lisa Davis |
@@ -166,8 +166,8 @@
 | 158 | 498 | Melissa Adams |
 | 159 | 498 | Nope Young |
 | 160 | 496 | Jessica Lynn Cutlip |
-| 161 | 491 | Carrie Brian |
-| 162 | 491 | Jade Rian |
+| 161 | 491 | Jade Rian |
+| 162 | 491 | Carrie Brian |
 | 163 | 486 | Swanky Fitline |
 | 164 | 485 | Rico |
 | 165 | 484 | Keith Kelley |
@@ -224,8 +224,8 @@
 | 216 | 388 | June Hoffman |
 | 217 | 385 | 030Synner |
 | 218 | 383 | blockstar |
-| 219 | 381 | Plucky Patternblock |
-| 220 | 381 | Mimi |
+| 219 | 381 | Mimi |
+| 220 | 381 | Plucky Patternblock |
 | 221 | 380 | Rio Rocha |
 | 222 | 379 | Backoff Recupe |
 | 223 | 378 | Lauren Scott |

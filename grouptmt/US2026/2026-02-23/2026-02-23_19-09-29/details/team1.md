@@ -161,8 +161,8 @@
 | 153 | 470 | Candy Jones |
 | 154 | 467 | Constance Risner |
 | 155 | 463 | Nicole Roseberry Weber |
-| 156 | 462 | Luciano Moreira |
-| 157 | 462 | Hasty Cascader |
+| 156 | 462 | Hasty Cascader |
+| 157 | 462 | Luciano Moreira |
 | 158 | 460 | Steve Schneider |
 | 159 | 458 | Goose egg |
 | 160 | 454 | ALFD |
@@ -255,9 +255,9 @@
 | 247 | 341 | Nick R Montague |
 | 248 | 340 | Danielle Little-Daugherty |
 | 249 | 338 | Layzietyme |
-| 250 | 337 | Jamise Brown |
-| 251 | 337 | Lindsay Glover |
-| 252 | 337 | Keith Mathis |
+| 250 | 337 | Keith Mathis |
+| 251 | 337 | Jamise Brown |
+| 252 | 337 | Lindsay Glover |
 | 253 | 335 | Eric DeSimone |
 | 254 | 334 | Tipsy Builder |
 | 255 | 333 | Wayne Saunders |

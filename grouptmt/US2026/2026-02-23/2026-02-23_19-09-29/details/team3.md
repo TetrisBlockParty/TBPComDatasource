@@ -102,8 +102,8 @@
 | 94 | 1102 | Michelle Becker |
 | 95 | 1101 | Stephanie Rice |
 | 96 | 1094 | JerseyJess |
-| 97 | 1056 | joclisa |
-| 98 | 1056 | Ebony West-Cundiff |
+| 97 | 1056 | Ebony West-Cundiff |
+| 98 | 1056 | joclisa |
 | 99 | 1050 | Sherika C. McDaniels |
 | 100 | 1044 | Leah Barnett |
 | 101 | 1038 | Mandy Smith Oldham |
@@ -309,8 +309,8 @@
 | 301 | 411 | Megan Rathmanner |
 | 302 | 410 | Brian Battjes |
 | 303 | 410 | Duane Bright |
-| 304 | 408 | Tiffany Ford |
-| 305 | 408 | Ashley Muncey |
+| 304 | 408 | Ashley Muncey |
+| 305 | 408 | Tiffany Ford |
 | 306 | 406 | Kristal C Lee |
 | 307 | 405 | Desiree Gold |
 | 308 | 405 | Steffi Chris Dacones |

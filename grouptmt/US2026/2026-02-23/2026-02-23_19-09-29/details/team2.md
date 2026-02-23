@@ -350,8 +350,8 @@
 | 342 | 1041 | Binyah-Binyah |
 | 343 | 1040 | Taylor Phillips |
 | 344 | 1037 | Jessica Wayne Cornwall |
-| 345 | 1036 | Amber Shoemaker |
-| 346 | 1036 | Allison Lockyer |
+| 345 | 1036 | Allison Lockyer |
+| 346 | 1036 | Amber Shoemaker |
 | 347 | 1031 | Barbra Miller |
 | 348 | 1029 | Crystal Hoffman |
 | 349 | 1024 | Susan Perraut Jones |
