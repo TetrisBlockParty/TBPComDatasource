@@ -178,8 +178,8 @@
 | 170 | 318 | Virginia Gray Floyd |
 | 171 | 318 | Jessica Sheehan |
 | 172 | 317 | Sarah Roberts |
-| 173 | 315 | Tyler Werts |
-| 174 | 315 | Danielle Little-Daugherty |
+| 173 | 315 | Danielle Little-Daugherty |
+| 174 | 315 | Tyler Werts |
 | 175 | 313 | Jerry Danowski |
 | 176 | 312 | Jessi Sauer |
 | 177 | 312 | Kimberly Garcia |
@@ -190,13 +190,13 @@
 | 182 | 306 | Bloknboy |
 | 183 | 306 | Angela Renea Lester |
 | 184 | 304 | David Lutcher |
-| 185 | 303 | Letson Melissa |
-| 186 | 303 | ALFD |
+| 185 | 303 | ALFD |
+| 186 | 303 | Letson Melissa |
 | 187 | 302 | Erin Rosberg |
 | 188 | 301 | Damon J. Martin |
 | 189 | 296 | Cody Gates |
-| 190 | 294 | Margo Wagner |
-| 191 | 294 | Bindi |
+| 190 | 294 | Bindi |
+| 191 | 294 | Margo Wagner |
 | 192 | 293 | Carrie Smith |
 | 193 | 293 | John Kim |
 | 194 | 293 | Witty Builderfit |
@@ -400,9 +400,9 @@
 | 392 | 162 | Mario Cab |
 | 393 | 162 | Nerdy Curvebuilder |
 | 394 | 162 | Jo Kerley |
-| 395 | 162 | Nerdy Curvebuilder |
+| 395 | 162 | Chantelle Ceno |
 | 396 | 162 | Hector Cruz |
-| 397 | 162 | Mario Cab |
+| 397 | 162 | Charla Pross-Fugleberg |
 | 398 | 161 | Kayla Marie Stevenson |
 | 399 | 160 | Tedashi |
 | 400 | 160 | Sunny Catcher |
@@ -473,11 +473,11 @@
 | 465 | 137 | Shiny Rotate |
 | 466 | 136 | Jennifer Chilton-Metlock |
 | 467 | 136 | Josh Smith |
-| 468 | 135 | Divaaa |
-| 469 | 135 | Giggly Rollfit |
-| 470 | 135 | Rayline M Bradshaw |
-| 471 | 134 | Nicole Meredith Flynn |
-| 472 | 134 | Rachel Copas |
+| 468 | 135 | Giggly Rollfit |
+| 469 | 135 | Rayline M Bradshaw |
+| 470 | 135 | Divaaa |
+| 471 | 134 | Rachel Copas |
+| 472 | 134 | Nicole Meredith Flynn |
 | 473 | 133 | Jasmine Riley |
 | 474 | 133 | William Blackwell |
 | 475 | 133 | Nicolette Ivory Chastain |

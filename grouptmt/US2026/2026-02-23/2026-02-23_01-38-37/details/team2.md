@@ -224,8 +224,8 @@
 | 216 | 1138 | Megan Ferguson Leone |
 | 217 | 1135 | Samantha Roberts |
 | 218 | 1131 | Prado |
-| 219 | 1127 | Catina Hutchison |
-| 220 | 1127 | Dee |
+| 219 | 1127 | Dee |
+| 220 | 1127 | Catina Hutchison |
 | 221 | 1126 | Dolores Russworn |
 | 222 | 1121 | Tommy Tha Boss Gunz |
 | 223 | 1117 | Sarah Freitas |
@@ -713,8 +713,8 @@
 | 705 | 435 | CupCake |
 | 706 | 435 | Taylor Flowers |
 | 707 | 434 | Twisty Tetriblast |
-| 708 | 433 | Tabs Reichert |
-| 709 | 433 | Snappy snappers |
+| 708 | 433 | Snappy snappers |
+| 709 | 433 | Tabs Reichert |
 | 710 | 433 | Shorty |
 | 711 | 431 | sup |
 | 712 | 431 | Dawn L Washington-Feuquay |

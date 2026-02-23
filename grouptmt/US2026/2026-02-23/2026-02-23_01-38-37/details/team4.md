@@ -55,8 +55,8 @@
 | 47 | 860 | Jae Job |
 | 48 | 855 | Marvin Lou Martin |
 | 49 | 853 | TeeJ |
-| 50 | 846 | Christine Marie |
-| 51 | 846 | Lucille Truesdale |
+| 50 | 846 | Lucille Truesdale |
+| 51 | 846 | Christine Marie |
 | 52 | 845 | LisaJo Picken Buchanan |
 | 53 | 843 | Shelly Chandler |
 | 54 | 841 | Anthony Bryan Riva |
@@ -161,8 +161,8 @@
 | 153 | 375 | Desi Desporte |
 | 154 | 374 | Guy Incognito |
 | 155 | 370 | Oscar Alberto Perez |
-| 156 | 368 | Brandon Crabbs |
-| 157 | 368 | Silly Zonebuilder |
+| 156 | 368 | Silly Zonebuilder |
+| 157 | 368 | Brandon Crabbs |
 | 158 | 365 | Leslie Nicole |
 | 159 | 361 | Tyler Terrific |
 | 160 | 361 | Danielle Kollias |
@@ -231,8 +231,8 @@
 | 223 | 264 | scott |
 | 224 | 264 | Carlos Ramirez |
 | 225 | 261 | Dihcheese444 |
-| 226 | 259 | Cheery Risebuilder |
-| 227 | 259 | Montiette Mcglown |
+| 226 | 259 | Montiette Mcglown |
+| 227 | 259 | Cheery Risebuilder |
 | 228 | 257 | PeaceOs |
 | 229 | 256 | Mylo Lipscomb |
 | 230 | 252 | Selena Shaw |
@@ -333,8 +333,8 @@
 | 325 | 182 | Ellen Durfee |
 | 326 | 181 | Nikki Wilson |
 | 327 | 179 | AyeKay |
-| 328 | 178 | SammieJo Guy |
-| 329 | 178 | Zippy Tilt |
+| 328 | 178 | Zippy Tilt |
+| 329 | 178 | SammieJo Guy |
 | 330 | 177 | Ernest Maxwell |
 | 331 | 175 | Lorena Guerrero-Barron |
 | 332 | 175 | Megan Cutshaw |

@@ -24,8 +24,8 @@
 | 16 | 2728 | Lauren d |
 | 17 | 2697 | River |
 | 18 | 2503 | Clever Roll |
-| 19 | 2287 | Tetris Master |
-| 20 | 2287 | Brandon Green |
+| 19 | 2287 | Brandon Green |
+| 20 | 2287 | Tetris Master |
 | 21 | 2203 | Ashley Jones |
 | 22 | 2144 | Zippy Strikesnap |
 | 23 | 2050 | Susan Valentino |
@@ -61,8 +61,8 @@
 | 53 | 1276 | Aaron Pitkin |
 | 54 | 1269 | Amber Jones |
 | 55 | 1258 | Jennifer Petrie |
-| 56 | 1256 | Mahman |
-| 57 | 1256 | Jessica Bechler |
+| 56 | 1256 | Jessica Bechler |
+| 57 | 1256 | Mahman |
 | 58 | 1191 | Nate Burnside |
 | 59 | 1167 | Elaine Webb Graves |
 | 60 | 1141 | Queen Kam |
@@ -86,8 +86,8 @@
 | 78 | 951 | Katie Knaus |
 | 79 | 945 | Shonna Roberts |
 | 80 | 938 | Mandy Smith Oldham |
-| 81 | 926 | Angela M. Fletcher |
-| 82 | 926 | Judi Dobson |
+| 81 | 926 | Judi Dobson |
+| 82 | 926 | Angela M. Fletcher |
 | 83 | 923 | Christine Filson |
 | 84 | 921 | Michelle |
 | 85 | 910 | Jay Horn |
@@ -172,8 +172,8 @@
 | 164 | 529 | Michael Nowogorski |
 | 165 | 528 | Silly Twist |
 | 166 | 516 | Danielle Balcom |
-| 167 | 506 | Sashay Tapae Simpson |
-| 168 | 506 | Stephanie Blkpep Davidson |
+| 167 | 506 | Stephanie Blkpep Davidson |
+| 168 | 506 | Sashay Tapae Simpson |
 | 169 | 504 | Jennifer Lynn Fahrenholtz-Summers |
 | 170 | 502 | Snappy Balancer |
 | 171 | 501 | Patti Skiles |
@@ -209,8 +209,8 @@
 | 201 | 432 | Luciana Braganca Vieira |
 | 202 | 432 | Christine Trester |
 | 203 | 431 | Wendy Dearden |
-| 204 | 430 | Jeni Dow |
-| 205 | 430 | Joye Sims Binion |
+| 204 | 430 | Joye Sims Binion |
+| 205 | 430 | Jeni Dow |
 | 206 | 429 | Fallorina Susana |
 | 207 | 426 | Rochelle Hazelett |
 | 208 | 419 | Danielle Weikel |
@@ -219,8 +219,8 @@
 | 211 | 415 | ren |
 | 212 | 414 | Fran Lin |
 | 213 | 413 | Loopy Clusterer |
-| 214 | 410 | Mcathen |
-| 215 | 410 | Stephanie Simpson |
+| 214 | 410 | Stephanie Simpson |
+| 215 | 410 | Mcathen |
 | 216 | 405 | Sherry Ogden |
 | 217 | 404 | Chasity |
 | 218 | 403 | Scott Lindsay |
@@ -258,8 +258,8 @@
 | 250 | 352 | Samantha Lynn |
 | 251 | 351 | Eon Harris |
 | 252 | 349 | Amanda J. Mcneil-Anderson |
-| 253 | 347 | Rania Zaqout |
-| 254 | 347 | Philip Rock |
+| 253 | 347 | Philip Rock |
+| 254 | 347 | Rania Zaqout |
 | 255 | 346 | Tamara Deherrera |
 | 256 | 345 | Kelly |
 | 257 | 344 | Roary Danner |
