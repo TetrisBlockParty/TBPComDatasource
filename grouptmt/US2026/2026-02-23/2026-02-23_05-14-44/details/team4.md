@@ -79,8 +79,8 @@
 | 71 | 749 | Dustee Craddock-Harrison |
 | 72 | 742 | Carolyn Wallace |
 | 73 | 740 | Avy Absol |
-| 74 | 736 | Crystal Carroll |
-| 75 | 736 | Goatimus Lombardi |
+| 74 | 736 | Goatimus Lombardi |
+| 75 | 736 | Crystal Carroll |
 | 76 | 721 | TheNeesh50 |
 | 77 | 717 | D3TROITB0RN74 |
 | 78 | 706 | Lisa Davis |
@@ -212,8 +212,8 @@
 | 204 | 300 | Zakia Monae |
 | 205 | 300 | Dana Scott |
 | 206 | 295 | Keshia Lyons |
-| 207 | 294 | Calvin Cannon |
-| 208 | 294 | Porkobello |
+| 207 | 294 | Porkobello |
+| 208 | 294 | Calvin Cannon |
 | 209 | 292 | Epic Curvetile |
 | 210 | 290 | Plucky Patternblock |
 | 211 | 290 | Jared Gutwein |

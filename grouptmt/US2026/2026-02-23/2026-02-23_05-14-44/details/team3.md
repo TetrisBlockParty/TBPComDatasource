@@ -186,8 +186,8 @@
 | 178 | 541 | Tasha Schriewer |
 | 179 | 540 | Shawn Miller |
 | 180 | 535 | Jone |
-| 181 | 531 | Chauntee Alfrey-Cardinale |
-| 182 | 531 | Sarah Cowan Burgos |
+| 181 | 531 | Sarah Cowan Burgos |
+| 182 | 531 | Chauntee Alfrey-Cardinale |
 | 183 | 528 | Silly Twist |
 | 184 | 524 | Bmo |
 | 185 | 519 | rnr junky |
@@ -215,8 +215,8 @@
 | 207 | 464 | Danielle Weikel |
 | 208 | 464 | Shunta Jacobs |
 | 209 | 462 | Connie Mohler-Fair |
-| 210 | 458 | Danielle Rhoades |
-| 211 | 458 | Tom Nault |
+| 210 | 458 | Tom Nault |
+| 211 | 458 | Danielle Rhoades |
 | 212 | 457 | Edwin Calvillo Jr. |
 | 213 | 454 | Joye Sims Binion |
 | 214 | 453 | Staci George Fitzsimmons |
@@ -254,8 +254,8 @@
 | 246 | 377 | Charles Perrone |
 | 247 | 374 | Rania Zaqout |
 | 248 | 373 | Chummy Caster |
-| 249 | 372 | Sarah Moyer |
-| 250 | 372 | Rich LeBlanc |
+| 249 | 372 | Rich LeBlanc |
+| 250 | 372 | Sarah Moyer |
 | 251 | 371 | Marquita Sheard |
 | 252 | 371 | block chick |
 | 253 | 369 | Keis |
@@ -366,10 +366,10 @@
 | 358 | 275 | Nikki Pags |
 | 359 | 275 | Michael Lucado |
 | 360 | 274 | Mary Giorgenti |
-| 361 | 273 | France Vézina |
-| 362 | 273 | Brenda Schmid Wood |
-| 363 | 272 | Todd Hall |
-| 364 | 272 | Romeo |
+| 361 | 273 | Brenda Schmid Wood |
+| 362 | 273 | France Vézina |
+| 363 | 272 | Romeo |
+| 364 | 272 | Todd Hall |
 | 365 | 272 | Tay |
 | 366 | 269 | Jess Bissett |
 | 367 | 269 | Samantha Worley |
@@ -691,8 +691,8 @@
 | 683 | 154 | Martin Bernier |
 | 684 | 154 | Lexi |
 | 685 | 153 | Jada Cox |
-| 686 | 153 | Jason-Ashley Ludlow |
-| 687 | 153 | Jessie Chung |
+| 686 | 153 | Jessie Chung |
+| 687 | 153 | Jason-Ashley Ludlow |
 | 688 | 152 | Louise Parker |
 | 689 | 152 | Lisa Ann |
 | 690 | 152 | Christine Vosburgh |
