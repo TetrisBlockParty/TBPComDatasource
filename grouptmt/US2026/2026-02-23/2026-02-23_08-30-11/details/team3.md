@@ -130,13 +130,13 @@
 | 122 | 769 | Kristie |
 | 123 | 764 | Groovy Catcher |
 | 124 | 762 | Speedy Bridger |
-| 125 | 755 | Katrina Schroeder |
-| 126 | 755 | Raya |
+| 125 | 755 | Raya |
+| 126 | 755 | Katrina Schroeder |
 | 127 | 752 | Logan Naccarato |
 | 128 | 748 | Adrian Marcel Pate |
 | 129 | 745 | JerseyJess |
-| 130 | 744 | Fancy Cascader |
-| 131 | 744 | Leah Barnett |
+| 130 | 744 | Leah Barnett |
+| 131 | 744 | Fancy Cascader |
 | 132 | 736 | mzcatzy |
 | 133 | 734 | Calista Jo Dickson |
 | 134 | 728 | Peppy Shifter |
@@ -309,8 +309,8 @@
 | 301 | 336 | Foltz Lee Kelli |
 | 302 | 336 | Jojo M |
 | 303 | 335 | victory |
-| 304 | 332 | Velma Mull |
-| 305 | 332 | Brittany |
+| 304 | 332 | Brittany |
+| 305 | 332 | Velma Mull |
 | 306 | 331 | Gray Hicks |
 | 307 | 329 | Angela Scott |
 | 308 | 328 | Desiree Soto |
@@ -370,8 +370,8 @@
 | 362 | 279 | Naur |
 | 363 | 279 | Tosha Griffey |
 | 364 | 278 | Rufus Lincoln |
-| 365 | 277 | France Vézina |
-| 366 | 277 | Krystal Gerstberger |
+| 365 | 277 | Krystal Gerstberger |
+| 366 | 277 | France Vézina |
 | 367 | 277 | Joe-Maggie Mathews |
 | 368 | 276 | Karent524 |
 | 369 | 276 | Heather De Vries Cobb |
@@ -428,8 +428,8 @@
 | 420 | 250 | Eric Caccavale |
 | 421 | 249 | Willow |
 | 422 | 248 | Brian Battjes |
-| 423 | 247 | Kevin Russell |
-| 424 | 247 | Jessica |
+| 423 | 247 | Jessica |
+| 424 | 247 | Kevin Russell |
 | 425 | 245 | LaNette Morgan |
 | 426 | 245 | Latoya Mayne |
 | 427 | 244 | Beezwax |
@@ -475,8 +475,8 @@
 | 467 | 228 | Tipsy Zonebuilder |
 | 468 | 228 | Dapper Liney |
 | 469 | 227 | Meowsa |
-| 470 | 226 | paranoid |
-| 471 | 226 | Ryan Williams |
+| 470 | 226 | Ryan Williams |
+| 471 | 226 | paranoid |
 | 472 | 225 | sofaking |
 | 473 | 225 | Sassy Tiler |
 | 474 | 224 | Cranky Corner |
@@ -514,8 +514,8 @@
 | 506 | 211 | Michael Pleasant |
 | 507 | 211 | El Chapa |
 | 508 | 210 | Maia |
-| 509 | 210 | Kristian Thurman |
-| 510 | 210 | Megan Riggins |
+| 509 | 210 | Megan Riggins |
+| 510 | 210 | Kristian Thurman |
 | 511 | 209 | Ginger Gray |
 | 512 | 209 | Jumpy Wrecker |
 | 513 | 209 | TazB |
@@ -561,11 +561,11 @@
 | 553 | 195 | Carrie Resler |
 | 554 | 195 | Nicha Hooker |
 | 555 | 194 | Shicken Nuggit |
-| 556 | 193 | Bryan Byrd |
-| 557 | 193 | Clever Shiftsnap |
+| 556 | 193 | Clever Shiftsnap |
+| 557 | 193 | Bryan Byrd |
 | 558 | 192 | Jennifer Neiman Gaal |
-| 559 | 192 | Laura Booth Wosko |
-| 560 | 192 | Kelly Ann Child |
+| 559 | 192 | Kelly Ann Child |
+| 560 | 192 | Laura Booth Wosko |
 | 561 | 191 | Becca Engle |
 | 562 | 191 | Peachy Tower |
 | 563 | 191 | Polopypy |
@@ -699,10 +699,10 @@
 | 691 | 159 | Wetwet |
 | 692 | 158 | Cameo Tweed |
 | 693 | 157 | Angel Mendez |
-| 694 | 157 | Michelle Ramirez |
-| 695 | 157 | DeeDee13 |
-| 696 | 157 | Benny Tyrrell |
-| 697 | 157 | Kimberly Walker |
+| 694 | 157 | DeeDee13 |
+| 695 | 157 | Michelle Ramirez |
+| 696 | 157 | Kimberly Walker |
+| 697 | 157 | Benny Tyrrell |
 | 698 | 156 | Mandy Poynter-Wallace |
 | 699 | 156 | LIL BIT |
 | 700 | 156 | Courtney Conboy |

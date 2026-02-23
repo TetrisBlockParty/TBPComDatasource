@@ -62,8 +62,8 @@
 | 54 | 864 | Shelly Chandler |
 | 55 | 863 | Pee |
 | 56 | 859 | TeeJ |
-| 57 | 846 | Christine Marie |
-| 58 | 846 | Lucille Truesdale |
+| 57 | 846 | Lucille Truesdale |
+| 58 | 846 | Christine Marie |
 | 59 | 845 | LisaJo Picken Buchanan |
 | 60 | 834 | quicksand420 |
 | 61 | 807 | Amelpss |
@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Kimyatta Cavin |
-| 84 | 684 | Jonathan Kimbrough |
+| 83 | 684 | Jonathan Kimbrough |
+| 84 | 684 | Kimyatta Cavin |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -120,10 +120,10 @@
 | 112 | 528 | Rodney McMath Jr. |
 | 113 | 527 | Dizzy Tiley |
 | 114 | 519 | Nugget |
-| 115 | 517 | Christina LR |
-| 116 | 517 | shar |
-| 117 | 514 | Serena Goodridge |
-| 118 | 514 | Scott Jameson |
+| 115 | 517 | shar |
+| 116 | 517 | Christina LR |
+| 117 | 514 | Scott Jameson |
+| 118 | 514 | Serena Goodridge |
 | 119 | 513 | Erin Thomas |
 | 120 | 512 | Casey Jeffcoat |
 | 121 | 512 | Cristy Duerksen |
@@ -161,13 +161,13 @@
 | 153 | 413 | Circuit8 |
 | 154 | 412 | Jessica Bohlken |
 | 155 | 408 | Amanda Pauldo-Ivy |
-| 156 | 406 | Damn Libra |
-| 157 | 406 | Livvy |
+| 156 | 406 | Livvy |
+| 157 | 406 | Damn Libra |
 | 158 | 403 | Keith Kelley |
 | 159 | 402 | Lucas J Sutton |
 | 160 | 398 | Tyler Terrific |
-| 161 | 393 | Girl |
-| 162 | 393 | Carlton Unfiltered |
+| 161 | 393 | Carlton Unfiltered |
+| 162 | 393 | Girl |
 | 163 | 392 | Nick Gray |
 | 164 | 391 | Ramel Rhodes |
 | 165 | 389 | Joseph Guthrie |
@@ -182,9 +182,9 @@
 | 174 | 368 | Brandon Crabbs |
 | 175 | 365 | Jeff Brian Gates |
 | 176 | 364 | George Nutt |
-| 177 | 361 | Melissa Adams |
+| 177 | 361 | Carlos Ramirez |
 | 178 | 361 | Danielle Kollias |
-| 179 | 361 | Carlos Ramirez |
+| 179 | 361 | Melissa Adams |
 | 180 | 358 | A5! |
 | 181 | 358 | Twisty Cascadezone |
 | 182 | 354 | TRCuse |
@@ -192,10 +192,10 @@
 | 184 | 350 | Carly Alexis |
 | 185 | 349 | Rafael Valentin |
 | 186 | 348 | April Rondinone |
-| 187 | 347 | Daria Rycewicz |
-| 188 | 347 | Crystal Nicolette Moore |
-| 189 | 346 | shark tato |
-| 190 | 346 | Mylo Lipscomb |
+| 187 | 347 | Crystal Nicolette Moore |
+| 188 | 347 | Daria Rycewicz |
+| 189 | 346 | Mylo Lipscomb |
+| 190 | 346 | shark tato |
 | 191 | 339 | David Lay |
 | 192 | 337 | Sam Bishop |
 | 193 | 336 | JPW |
@@ -224,12 +224,12 @@
 | 216 | 301 | Andria Lynn |
 | 217 | 300 | Dana Scott |
 | 218 | 295 | Keshia Lyons |
-| 219 | 294 | Calvin Cannon |
-| 220 | 294 | Porkobello |
+| 219 | 294 | Porkobello |
+| 220 | 294 | Calvin Cannon |
 | 221 | 292 | Epic Curvetile |
 | 222 | 291 | Nikki Rae Gordon |
-| 223 | 290 | Rebecca Morris |
-| 224 | 290 | Plucky Patternblock |
+| 223 | 290 | Plucky Patternblock |
+| 224 | 290 | Rebecca Morris |
 | 225 | 290 | Jared Gutwein |
 | 226 | 289 | Juls |
 | 227 | 288 | Brittney Orengo |
@@ -244,14 +244,14 @@
 | 236 | 281 | Laura |
 | 237 | 280 | Rio Rocha |
 | 238 | 279 | Malakai Darien Fox |
-| 239 | 278 | Angela Geist Jusinski |
-| 240 | 278 | Sarah Brown |
+| 239 | 278 | Sarah Brown |
+| 240 | 278 | Angela Geist Jusinski |
 | 241 | 276 | Joeliecea Cobb |
 | 242 | 276 | Matt Dell'Olio |
 | 243 | 275 | Kimberlee Jan Beckstead |
 | 244 | 273 | Cranky Rollpiece |
-| 245 | 272 | Dennis Bradley |
-| 246 | 272 | Alan George LaRage |
+| 245 | 272 | Alan George LaRage |
+| 246 | 272 | Dennis Bradley |
 | 247 | 271 | Holly |
 | 248 | 270 | Jen Caldwell |
 | 249 | 266 | Tracey Lehmann |
@@ -264,8 +264,8 @@
 | 256 | 264 | ZeeZee |
 | 257 | 264 | Stella |
 | 258 | 263 | rebel4lyfe |
-| 259 | 262 | BigSammy420 |
-| 260 | 262 | Selena Shaw |
+| 259 | 262 | Selena Shaw |
+| 260 | 262 | BigSammy420 |
 | 261 | 261 | Zethra Prenisha Rahming |
 | 262 | 260 | Carter Jones |
 | 263 | 260 | Lori |
@@ -355,8 +355,8 @@
 | 347 | 200 | Googenheim |
 | 348 | 198 | Calvin Dennis |
 | 349 | 197 | Shiny Fit |
-| 350 | 196 | Megan Cutshaw |
-| 351 | 196 | Blessedmama |
+| 350 | 196 | Blessedmama |
+| 351 | 196 | Megan Cutshaw |
 | 352 | 195 | Dustin York |
 | 353 | 194 | SammieJo Guy |
 | 354 | 194 | Zany Twisterfit |
@@ -370,7 +370,7 @@
 | 362 | 190 | Hyper Builder |
 | 363 | 189 | Berklie Apedaile |
 | 364 | 189 | Lauren Lamb |
-| 365 | 189 | Berklie Apedaile |
+| 365 | 189 | Cool Towerbuilder |
 | 366 | 188 | Sharyn Lemire |
 | 367 | 187 | Cozy Balancer |
 | 368 | 187 | Jenny Wells-Oakley |
@@ -505,8 +505,8 @@
 | 497 | 146 | Jen Hallin |
 | 498 | 145 | Glitzy Crasher |
 | 499 | 145 | Rico |
-| 500 | 145 | Glitzy Crasher |
-| 501 | 145 | Austin Trent Weaver |
+| 500 | 145 | Austin Trent Weaver |
+| 501 | 145 | Jackie Clark |
 | 502 | 144 | Zach Kerbs |
 | 503 | 143 | Sherri |
 | 504 | 143 | Kristin MacDonald |
@@ -559,9 +559,9 @@
 | 551 | 128 | Lazy Glidepiece |
 | 552 | 128 | Raymond Roberts |
 | 553 | 127 | Jay You |
-| 554 | 126 | Jennifer Renee |
+| 554 | 126 | PAPatty |
 | 555 | 126 | Spicy Cascadezone |
-| 556 | 126 | PAPatty |
+| 556 | 126 | Jennifer Renee |
 | 557 | 125 | Kelly Adams Carnahan |
 | 558 | 125 | Frilly Blocky |
 | 559 | 125 | ImJustMe |
@@ -639,7 +639,7 @@
 | 631 | 110 | Johnny R |
 | 632 | 110 | Chariss Newsom |
 | 633 | 109 | Bigmamatetrisqueen |
-| 634 | 109 | Jessica Johnston |
+| 634 | 109 | Amy Jean |
 | 635 | 109 | Jessica Miller |
 | 636 | 109 | Jessica Johnston |
 | 637 | 109 | Nikisha Reed |

@@ -573,8 +573,8 @@
 | 565 | 603 | Casper The Chonk |
 | 566 | 602 | Tash Bell |
 | 567 | 602 | Stephanie Sul |
-| 568 | 601 | Moua Ying |
-| 569 | 601 | Daniel Amos |
+| 568 | 601 | Daniel Amos |
+| 569 | 601 | Moua Ying |
 | 570 | 599 | Gloria Liu |
 | 571 | 598 | Leah Keesling |
 | 572 | 597 | Jamie Schmitt |
@@ -766,8 +766,8 @@
 | 758 | 472 | Connie Lepore-Mann |
 | 759 | 471 | Charming Leech |
 | 760 | 470 | Katie Marie |
-| 761 | 470 | Amanda Chamberlain |
-| 762 | 470 | ToShi |
+| 761 | 470 | ToShi |
+| 762 | 470 | Amanda Chamberlain |
 | 763 | 469 | Christy Long |
 | 764 | 468 | Niceday |
 | 765 | 468 | Brenda Annabel Smith |
@@ -814,8 +814,8 @@
 | 806 | 447 | Boozi |
 | 807 | 446 | Colin Morgan |
 | 808 | 446 | Courtney Burcham |
-| 809 | 445 | Beatboxxer |
-| 810 | 445 | Mar Q Thomas |
+| 809 | 445 | Mar Q Thomas |
+| 810 | 445 | Beatboxxer |
 | 811 | 444 | Angela Murgia-Owen |
 | 812 | 443 | Giggy Grabber |
 | 813 | 443 | Dimitra Zazara |
@@ -870,17 +870,17 @@
 | 862 | 418 | Bold Brickster |
 | 863 | 417 | Tristan Szolek |
 | 864 | 417 | Rebecca Garland |
-| 865 | 417 | Mandy Kachenmeister |
-| 866 | 417 | Janai Vrabel |
-| 867 | 416 | Christine Lockwood |
-| 868 | 416 | Alicia Moreno |
-| 869 | 416 | Veronics |
-| 870 | 415 | Noel Tarmy |
-| 871 | 415 | Allyson Marra |
-| 872 | 415 | Cranky Tower |
-| 873 | 414 | Court |
-| 874 | 414 | Cini |
-| 875 | 414 | Maria Louise |
+| 865 | 417 | Janai Vrabel |
+| 866 | 417 | Mandy Kachenmeister |
+| 867 | 416 | Alicia Moreno |
+| 868 | 416 | Veronics |
+| 869 | 416 | Christine Lockwood |
+| 870 | 415 | Cranky Tower |
+| 871 | 415 | Noel Tarmy |
+| 872 | 415 | Allyson Marra |
+| 873 | 414 | Cini |
+| 874 | 414 | Maria Louise |
+| 875 | 414 | Court |
 | 876 | 413 | Ashley Robbins |
 | 877 | 413 | Abby Klaski |
 | 878 | 411 | Peppy Snapfall |

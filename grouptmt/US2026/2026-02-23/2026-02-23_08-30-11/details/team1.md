@@ -498,7 +498,7 @@
 | 490 | 151 | Plucky Wrecker |
 | 491 | 149 | Logan McFarland |
 | 492 | 148 | Sir-Franchise Drake |
-| 493 | 147 | Donna Taliger Brigante |
+| 493 | 147 | Carl Claunch |
 | 494 | 147 | Jodee Woods |
 | 495 | 147 | Javyjavz |
 | 496 | 147 | Donna Taliger Brigante |
@@ -885,7 +885,7 @@
 | 877 | 77 | Wanda Rodriguez |
 | 878 | 76 | Rob Burns |
 | 879 | 76 | Jessie May |
-| 880 | 76 | Joyful Daze |
+| 880 | 76 | Adan Reyes |
 | 881 | 76 | fuse |
 | 882 | 76 | Joyful Daze |
 | 883 | 76 | Flashy Crawler |
