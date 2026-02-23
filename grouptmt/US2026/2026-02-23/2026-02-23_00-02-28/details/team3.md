@@ -97,8 +97,8 @@
 | 89 | 860 | Sunny Rotater |
 | 90 | 849 | Danielle Becker |
 | 91 | 848 | Patricia Gadsden |
-| 92 | 838 | MissTaylor |
-| 93 | 838 | Sarajane Lokan |
+| 92 | 838 | Sarajane Lokan |
+| 93 | 838 | MissTaylor |
 | 94 | 831 | Angeline Joseph |
 | 95 | 830 | Stephanie Allmon |
 | 96 | 826 | Shane Wilson Jr. |
@@ -128,8 +128,8 @@
 | 120 | 693 | Hasty Cascadefit |
 | 121 | 688 | Jesse Olive |
 | 122 | 683 | Samantha Greco |
-| 123 | 674 | Leah Barnett |
-| 124 | 674 | Patty Allen |
+| 123 | 674 | Patty Allen |
+| 124 | 674 | Leah Barnett |
 | 125 | 650 | Jd Morris |
 | 126 | 649 | Shavette |
 | 127 | 646 | Bea Miles |
@@ -186,8 +186,8 @@
 | 178 | 467 | Tasha Schriewer |
 | 179 | 464 | Makelini Mausia |
 | 180 | 461 | Shunta Jacobs |
-| 181 | 460 | Danielle Allison |
-| 182 | 460 | Araceli Parra |
+| 181 | 460 | Araceli Parra |
+| 182 | 460 | Danielle Allison |
 | 183 | 458 | Danielle Rhoades |
 | 184 | 457 | Jim Mathews |
 | 185 | 455 | Bmo |
@@ -222,8 +222,8 @@
 | 214 | 387 | rosy |
 | 215 | 384 | Trisha Balmer |
 | 216 | 384 | Marci Mize Fandrich |
-| 217 | 383 | Darlene McMillan |
-| 218 | 383 | Nicole Flippo |
+| 217 | 383 | Nicole Flippo |
+| 218 | 383 | Darlene McMillan |
 | 219 | 383 | Heather Green |
 | 220 | 382 | Giddy Twistbuilder |
 | 221 | 382 | Scott Carleton |
@@ -234,8 +234,8 @@
 | 226 | 372 | Sarah Moyer |
 | 227 | 370 | RickyG |
 | 228 | 369 | Keis |
-| 229 | 368 | Rebecca Funderburk Kirby |
-| 230 | 368 | Stephanie Woods |
+| 229 | 368 | Stephanie Woods |
+| 230 | 368 | Rebecca Funderburk Kirby |
 | 231 | 367 | Connie Mohler-Fair |
 | 232 | 366 | Marquita Sheard |
 | 233 | 365 | Chummy Caster |

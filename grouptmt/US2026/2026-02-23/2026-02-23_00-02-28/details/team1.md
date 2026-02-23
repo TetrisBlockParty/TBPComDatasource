@@ -26,8 +26,8 @@
 | 18 | 1408 | Mara Hilker |
 | 19 | 1234 | Jennifer Cates |
 | 20 | 1215 | LaQuetta Faith Hines |
-| 21 | 1191 | Nerdy Linkblock |
-| 22 | 1191 | Roger Aschbrenner |
+| 21 | 1191 | Roger Aschbrenner |
+| 22 | 1191 | Nerdy Linkblock |
 | 23 | 1177 | Carolyn Smith |
 | 24 | 1145 | Tyler Alcock |
 | 25 | 1136 | Rahna Underwood |
@@ -61,8 +61,8 @@
 | 53 | 770 | Zappy Curvetile |
 | 54 | 767 | Kristen Roles Robben |
 | 55 | 752 | Jacqueline Williams |
-| 56 | 746 | Stef Hu |
-| 57 | 746 | TSwag |
+| 56 | 746 | TSwag |
+| 57 | 746 | Stef Hu |
 | 58 | 738 | Michelle Nicole |
 | 59 | 735 | Spunky Piecebuilder |
 | 60 | 720 | Zippy Align |
@@ -103,8 +103,8 @@
 | 95 | 483 | Jennifer ManWarren |
 | 96 | 480 | cc |
 | 97 | 474 | Tdub |
-| 98 | 472 | Kristen Gideon |
-| 99 | 472 | April Carroll |
+| 98 | 472 | April Carroll |
+| 99 | 472 | Kristen Gideon |
 | 100 | 469 | Tinah Montanna |
 | 101 | 466 | Hasbro Bros |
 | 102 | 462 | Luciano Moreira |
@@ -134,8 +134,8 @@
 | 126 | 391 | Lori Bales |
 | 127 | 390 | Goose egg |
 | 128 | 387 | Emily Adelaide Wheatley |
-| 129 | 386 | David Miller |
-| 130 | 386 | Ty Brown |
+| 129 | 386 | Ty Brown |
+| 130 | 386 | David Miller |
 | 131 | 383 | pjbeta |
 | 132 | 382 | And |
 | 133 | 379 | Austin James |
@@ -211,15 +211,15 @@
 | 203 | 270 | Mandyy Rae |
 | 204 | 269 | Amanda Jarnagin |
 | 205 | 268 | Reesey Enyart |
-| 206 | 267 | Cody Gates |
-| 207 | 267 | Debbie Kane |
+| 206 | 267 | Debbie Kane |
+| 207 | 267 | Cody Gates |
 | 208 | 265 | Kandae |
 | 209 | 264 | Jen Nystrom |
 | 210 | 264 | Jenny Gingrich Fuentes |
 | 211 | 263 | Jessie Lynn |
 | 212 | 260 | Cheeky Pop |
-| 213 | 256 | Chris65 |
-| 214 | 256 | Standia Civil |
+| 213 | 256 | Standia Civil |
+| 214 | 256 | Chris65 |
 | 215 | 255 | Speedy Liney |
 | 216 | 254 | Giggly Builderline |
 | 217 | 254 | Al Smith Jr |
@@ -237,17 +237,17 @@
 | 229 | 244 | Marianita Garcia |
 | 230 | 242 | ParisandCory Champagne |
 | 231 | 241 | Tyler Hertzog |
-| 232 | 240 | Daring Fitclear |
-| 233 | 240 | DaRascal |
+| 232 | 240 | DaRascal |
+| 233 | 240 | Daring Fitclear |
 | 234 | 239 | Lacy Wolfe |
-| 235 | 238 | Sarah Somers Gray |
-| 236 | 238 | Tiffany Smith |
+| 235 | 238 | Tiffany Smith |
+| 236 | 238 | Sarah Somers Gray |
 | 237 | 235 | Bindi |
 | 238 | 234 | Paula Martin |
 | 239 | 234 | Shanae Grant |
 | 240 | 233 | LC |
 | 241 | 232 | Erin Rosberg |
-| 242 | 230 | Diane Byrd |
+| 242 | 230 | Thorne Shumate |
 | 243 | 230 | Michael |
 | 244 | 230 | Flashy Rotator |
 | 245 | 230 | Diane Byrd |
@@ -257,8 +257,8 @@
 | 249 | 228 | Giddy Cascade |
 | 250 | 227 | Tipsy Riseclear |
 | 251 | 226 | Glitzy Buildsnap |
-| 252 | 223 | Erez Yosef |
-| 253 | 223 | Christina Backer |
+| 252 | 223 | Christina Backer |
+| 253 | 223 | Erez Yosef |
 | 254 | 222 | Snappy Bridgepiece |
 | 255 | 222 | Jessie Welch |
 | 256 | 222 | Debbie Davis |
@@ -410,8 +410,8 @@
 | 402 | 153 | Toph |
 | 403 | 152 | Jordan Brooks |
 | 404 | 151 | Lush Zoney |
-| 405 | 150 | DoodleBug |
-| 406 | 150 | 윤이나 |
+| 405 | 150 | 윤이나 |
+| 406 | 150 | DoodleBug |
 | 407 | 150 | Jennifer Corrado |
 | 408 | 149 | Logan McFarland |
 | 409 | 149 | Kimberly Davis |

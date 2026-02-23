@@ -466,8 +466,8 @@
 | 458 | 613 | Ann Matzkanin |
 | 459 | 612 | Slinky Racker |
 | 460 | 611 | Biggest thing |
-| 461 | 607 | Véronique Lévesque Sabourin |
-| 462 | 607 | Michelle Lee |
+| 461 | 607 | Michelle Lee |
+| 462 | 607 | Véronique Lévesque Sabourin |
 | 463 | 605 | Santana Miyagi |
 | 464 | 603 | Casper The Chonk |
 | 465 | 602 | Shaun Church |
