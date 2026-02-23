@@ -393,8 +393,8 @@
 | 385 | 349 | Donna |
 | 386 | 348 | Ashley Raines |
 | 387 | 346 | AlsoJess |
-| 388 | 345 | victory |
-| 389 | 345 | Misha Sanders |
+| 388 | 345 | Misha Sanders |
+| 389 | 345 | victory |
 | 390 | 344 | Beaudie Stroebel |
 | 391 | 342 | Cynthia Herrmann Egland |
 | 392 | 342 | Christina Marie Swisher |
@@ -1173,7 +1173,7 @@
 | 1165 | 127 | Kristina Marie |
 | 1166 | 127 | Scidone Perez |
 | 1167 | 126 | Ma Dolores Estrada A |
-| 1168 | 126 | Octavia Parker Ford |
+| 1168 | 126 | Crystal Martin |
 | 1169 | 126 | Snazzy Shatterclear |
 | 1170 | 126 | Octavia Parker Ford |
 | 1171 | 125 | Zy Ross |

@@ -92,8 +92,8 @@
 | 84 | 772 | Tinah Montanna |
 | 85 | 770 | Zappy Curvetile |
 | 86 | 765 | Cynthia Bradley |
-| 87 | 760 | Amanda Johnson Huffman |
-| 88 | 760 | Kandae |
+| 87 | 760 | Kandae |
+| 88 | 760 | Amanda Johnson Huffman |
 | 89 | 758 | Ash Galvan |
 | 90 | 750 | Cartier |
 | 91 | 747 | Robert Benito |
@@ -102,8 +102,8 @@
 | 94 | 740 | Lori Sanders- Davis |
 | 95 | 722 | Kellie |
 | 96 | 717 | Madison Wicks |
-| 97 | 706 | Denice Dee |
-| 98 | 706 | Plucky Fallzone |
+| 97 | 706 | Plucky Fallzone |
+| 98 | 706 | Denice Dee |
 | 99 | 704 | Karin Gillen |
 | 100 | 703 | Angel Fowler |
 | 101 | 679 | Melissa Lemmon |
@@ -192,18 +192,18 @@
 | 184 | 424 | Emily Adelaide Wheatley |
 | 185 | 423 | Kimberly Garcia |
 | 186 | 423 | Elaine Elaine |
-| 187 | 422 | canbrick |
-| 188 | 422 | Chelsea Dahlquist |
+| 187 | 422 | Chelsea Dahlquist |
+| 188 | 422 | canbrick |
 | 189 | 418 | David Miller |
-| 190 | 417 | Jessie Lynn |
-| 191 | 417 | Debbie Kane |
+| 190 | 417 | Debbie Kane |
+| 191 | 417 | Jessie Lynn |
 | 192 | 416 | Jessica Sheehan |
 | 193 | 415 | Jennifer Hardman |
 | 194 | 414 | John J. Cronin |
 | 195 | 412 | Connie |
 | 196 | 410 | Mike Ames |
-| 197 | 404 | Tawnya Peltonen |
-| 198 | 404 | Sleepysloath5745 |
+| 197 | 404 | Sleepysloath5745 |
+| 198 | 404 | Tawnya Peltonen |
 | 199 | 402 | Jennifer Noe Chandler |
 | 200 | 398 | Tyler L Hunt |
 | 201 | 398 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |

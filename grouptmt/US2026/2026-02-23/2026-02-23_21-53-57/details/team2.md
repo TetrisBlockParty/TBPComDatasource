@@ -350,8 +350,8 @@
 | 342 | 1079 | Jennifer Kistner |
 | 343 | 1073 | Jodi Blake |
 | 344 | 1072 | BK Queen |
-| 345 | 1071 | Kim Dean |
-| 346 | 1071 | Nashu |
+| 345 | 1071 | Nashu |
+| 346 | 1071 | Kim Dean |
 | 347 | 1071 | Barbra Miller |
 | 348 | 1067 | Caitlin Schmid |
 | 349 | 1065 | Dany Murillo |
@@ -440,15 +440,15 @@
 | 432 | 907 | Gene Mills |
 | 433 | 905 | Adam Simmons |
 | 434 | 903 | Ashle Scranton |
-| 435 | 903 | Sarah DeHart |
-| 436 | 903 | Eric Castaneda |
+| 435 | 903 | Eric Castaneda |
+| 436 | 903 | Sarah DeHart |
 | 437 | 902 | Brenda Utphall |
 | 438 | 899 | Chevy |
 | 439 | 899 | Patrick Bartlett |
 | 440 | 898 | Dylan Thomason |
 | 441 | 897 | Jamie Schmitt |
-| 442 | 895 | Lisa Ongtowasruk |
-| 443 | 895 | Donna Colby |
+| 442 | 895 | Donna Colby |
+| 443 | 895 | Lisa Ongtowasruk |
 | 444 | 894 | Adira Brown |
 | 445 | 890 | Alex Stone LaRue |
 | 446 | 888 | Elisheva Mizrachi |
