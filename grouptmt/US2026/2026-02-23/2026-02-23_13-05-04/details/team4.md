@@ -496,8 +496,8 @@
 | 488 | 158 | Jasmine S Caldwell |
 | 489 | 158 | Jackie Clark |
 | 490 | 157 | LunaMoon |
-| 491 | 157 | David Boggs |
-| 492 | 157 | Ryry |
+| 491 | 157 | Ryry |
+| 492 | 157 | David Boggs |
 | 493 | 156 | Mighty Edgepiece |
 | 494 | 155 | tipsy tiger |
 | 495 | 155 | Faja |

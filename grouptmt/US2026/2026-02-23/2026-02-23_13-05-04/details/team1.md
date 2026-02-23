@@ -79,8 +79,8 @@
 | 71 | 760 | Seante Bullock |
 | 72 | 759 | Jacqueline Williams |
 | 73 | 750 | Cartier |
-| 74 | 713 | Robert Benito |
-| 75 | 713 | Snappy Swiper |
+| 74 | 713 | Snappy Swiper |
+| 75 | 713 | Robert Benito |
 | 76 | 704 | Karin Gillen |
 | 77 | 703 | Angel Fowler |
 | 78 | 689 | Susanna Guerry |
@@ -105,8 +105,8 @@
 | 97 | 553 | And |
 | 98 | 537 | Stephanie Zahn |
 | 99 | 535 | Susan Ward |
-| 100 | 534 | Loony Fitzone |
-| 101 | 534 | Veronica Eve |
+| 100 | 534 | Veronica Eve |
+| 101 | 534 | Loony Fitzone |
 | 102 | 529 | Ryan Lunnin |
 | 103 | 522 | Tdub |
 | 104 | 522 | Sarah Lombardo |
@@ -138,8 +138,8 @@
 | 130 | 453 | Brandi Huntington |
 | 131 | 451 | Plucky Ziggy |
 | 132 | 450 | lil mickey |
-| 133 | 448 | Sweet Baker |
-| 134 | 448 | Jazzy Framezone |
+| 133 | 448 | Jazzy Framezone |
+| 134 | 448 | Sweet Baker |
 | 135 | 446 | SkipTheSadSauce |
 | 136 | 443 | Steve Schneider |
 | 137 | 440 | femmefatale |
@@ -206,8 +206,8 @@
 | 198 | 359 | Witty Builderfit |
 | 199 | 357 | Shiny Snapfit |
 | 200 | 354 | Dino |
-| 201 | 353 | Josh Riemer |
-| 202 | 353 | Jaimie Lynn |
+| 201 | 353 | Jaimie Lynn |
+| 202 | 353 | Josh Riemer |
 | 203 | 351 | Sean Stallings |
 | 204 | 350 | Tipsy Strikerpiece |
 | 205 | 349 | Cool Shiftsnap |

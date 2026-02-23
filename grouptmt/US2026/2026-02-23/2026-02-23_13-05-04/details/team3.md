@@ -378,8 +378,8 @@
 | 370 | 298 | Grams |
 | 371 | 298 | Dannie Litchard |
 | 372 | 297 | kacihall |
-| 373 | 296 | Tracy Martin |
-| 374 | 296 | Donna |
+| 373 | 296 | Donna |
+| 374 | 296 | Tracy Martin |
 | 375 | 296 | Amy Montz |
 | 376 | 292 | Dakota Graham |
 | 377 | 292 | Arden White Kirsch |
