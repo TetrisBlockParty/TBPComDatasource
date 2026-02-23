@@ -606,14 +606,14 @@
 | 598 | 726 | Gloria Ininahazwe |
 | 599 | 725 | Vonceial Boone |
 | 600 | 720 | William Bresee |
-| 601 | 717 | Isabelle Bonneau |
+| 601 | 717 | Leticia Martinez Kelley |
 | 602 | 717 | Shinette Dobson |
 | 603 | 717 | Isabelle Bonneau |
 | 604 | 717 | Rhonda Milstead |
 | 605 | 716 | Cc |
-| 606 | 715 | Daniell Martinez |
+| 606 | 715 | Julio A Laracuente |
 | 607 | 715 | Brenna Ann |
-| 608 | 715 | Julio A Laracuente |
+| 608 | 715 | Daniell Martinez |
 | 609 | 714 | Irene Jones |
 | 610 | 714 | Jennifer Leigh |
 | 611 | 714 | Snazzy Basepiece |

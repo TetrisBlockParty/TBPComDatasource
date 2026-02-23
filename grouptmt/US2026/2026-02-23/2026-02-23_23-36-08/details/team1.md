@@ -104,8 +104,8 @@
 | 96 | 742 | Susanna Guerry |
 | 97 | 722 | Kellie |
 | 98 | 707 | Karin Gillen |
-| 99 | 706 | Plucky Fallzone |
-| 100 | 706 | Denice Dee |
+| 99 | 706 | Denice Dee |
+| 100 | 706 | Plucky Fallzone |
 | 101 | 703 | Angel Fowler |
 | 102 | 691 | Rachael |
 | 103 | 679 | Melissa Lemmon |
@@ -206,8 +206,8 @@
 | 198 | 417 | Jessie Lynn |
 | 199 | 417 | Jennifer Noe Chandler |
 | 200 | 416 | Jessica Sheehan |
-| 201 | 412 | Witty Builderfit |
-| 202 | 412 | Connie |
+| 201 | 412 | Connie |
+| 202 | 412 | Witty Builderfit |
 | 203 | 408 | Lindsay Glover |
 | 204 | 407 | Ananda Mendez |
 | 205 | 404 | Tawnya Peltonen |
@@ -305,10 +305,10 @@
 | 297 | 322 | Christina Norman |
 | 298 | 322 | Billie Ann Eason |
 | 299 | 321 | Cody Gates |
-| 300 | 317 | Zany Tiler |
-| 301 | 317 | Bloknboy |
-| 302 | 316 | Giggly Builderline |
-| 303 | 316 | Cheeky Pop |
+| 300 | 317 | Bloknboy |
+| 301 | 317 | Zany Tiler |
+| 302 | 316 | Cheeky Pop |
+| 303 | 316 | Giggly Builderline |
 | 304 | 312 | Melissa Bires Hussar |
 | 305 | 312 | Jessica Russell |
 | 306 | 311 | Nathan Sealander |

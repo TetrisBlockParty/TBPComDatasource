@@ -509,8 +509,8 @@
 | 501 | 203 | Courtney Halleck |
 | 502 | 202 | Jennifer Brown |
 | 503 | 201 | Ashlee Carnes |
-| 504 | 201 | Carla Harris |
-| 505 | 201 | Jake Roberts |
+| 504 | 201 | Jake Roberts |
+| 505 | 201 | Carla Harris |
 | 506 | 199 | Eri Kka |
 | 507 | 198 | Helen Chao |
 | 508 | 197 | Jeff Roberts |
