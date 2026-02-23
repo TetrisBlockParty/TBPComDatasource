@@ -198,8 +198,8 @@
 | 190 | 1534 | Rosa Franklin |
 | 191 | 1532 | Dee |
 | 192 | 1511 | Melissa Penelope Ann Dodge |
-| 193 | 1509 | Howard Forest |
-| 194 | 1509 | Whitney Nicole Waterman |
+| 193 | 1509 | Whitney Nicole Waterman |
+| 194 | 1509 | Howard Forest |
 | 195 | 1507 | Kiok |
 | 196 | 1504 | Hannah Erskine |
 | 197 | 1490 | Denise Rickman |

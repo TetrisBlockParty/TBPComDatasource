@@ -137,8 +137,8 @@
 | 129 | 491 | cc |
 | 130 | 489 | Deanna L Hermanson |
 | 131 | 488 | Hyper |
-| 132 | 487 | Kandae |
-| 133 | 487 | Damon J. Martin |
+| 132 | 487 | Damon J. Martin |
+| 133 | 487 | Kandae |
 | 134 | 483 | Trina Gee |
 | 135 | 477 | Tonya Beasley |
 | 136 | 477 | Dee Perry |
@@ -275,8 +275,8 @@
 | 267 | 303 | DaRascal |
 | 268 | 301 | Glitzy Curvebuilder |
 | 269 | 301 | Brave Wrecker |
-| 270 | 298 | Sweetts |
-| 271 | 298 | Kimberly Davis |
+| 270 | 298 | Kimberly Davis |
+| 271 | 298 | Sweetts |
 | 272 | 298 | Billie Ann Eason |
 | 273 | 297 | Diane Byrd |
 | 274 | 295 | Hellsin |
