@@ -264,8 +264,8 @@
 | 256 | 317 | Bloknboy |
 | 257 | 317 | Sam Williams |
 | 258 | 315 | Mandyy Rae |
-| 259 | 314 | Zany Tiler |
-| 260 | 314 | Daring Fitclear |
+| 259 | 314 | Daring Fitclear |
+| 260 | 314 | Zany Tiler |
 | 261 | 313 | Cody Gates |
 | 262 | 313 | Sylvia Vasquez |
 | 263 | 312 | Mitchel White |

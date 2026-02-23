@@ -364,8 +364,8 @@
 | 356 | 966 | Mandi Douglas Hilt |
 | 357 | 962 | Antionette Sewell |
 | 358 | 958 | Kathryn Townsley |
-| 359 | 958 | Brenda Messer |
-| 360 | 958 | Doowop40 |
+| 359 | 958 | Doowop40 |
+| 360 | 958 | Brenda Messer |
 | 361 | 957 | Block Master |
 | 362 | 954 | Melissa McCall |
 | 363 | 951 | Cynthia Ward |
@@ -390,8 +390,8 @@
 | 382 | 907 | Gene Mills |
 | 383 | 907 | Kayla |
 | 384 | 904 | John Bednarik |
-| 385 | 903 | Eric Castaneda |
-| 386 | 903 | Giggy Blocker |
+| 385 | 903 | Giggy Blocker |
+| 386 | 903 | Eric Castaneda |
 | 387 | 902 | Diallo Sparkman |
 | 388 | 899 | Felicia Lynn |
 | 389 | 899 | Chevy |
@@ -493,13 +493,13 @@
 | 485 | 761 | Jerilyn Andrina |
 | 486 | 760 | Ashley Guernsey-Martin |
 | 487 | 760 | Allan Wayne Lamia |
-| 488 | 758 | Eunique Griffin |
-| 489 | 758 | Kimberly Randesi |
+| 488 | 758 | Kimberly Randesi |
+| 489 | 758 | Eunique Griffin |
 | 490 | 758 | Stephanie Neuburger |
 | 491 | 755 | Taryece Gause |
 | 492 | 751 | Loony Snapper |
-| 493 | 751 | Breezy Filler |
-| 494 | 751 | Caitlyn Blackwell |
+| 493 | 751 | Caitlyn Blackwell |
+| 494 | 751 | Breezy Filler |
 | 495 | 750 | Draizen Montrell Thomas |
 | 496 | 750 | Michael Buckner |
 | 497 | 749 | Ann Knutson Anderson |
