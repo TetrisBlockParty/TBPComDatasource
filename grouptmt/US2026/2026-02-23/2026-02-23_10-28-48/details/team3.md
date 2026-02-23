@@ -76,8 +76,8 @@
 | 68 | 1264 | Amanda L Baker |
 | 69 | 1258 | Danielle Cutler |
 | 70 | 1256 | Jessica Bechler |
-| 71 | 1213 | Snappy Glidepiece |
-| 72 | 1213 | Nerdy Riseclear |
+| 71 | 1213 | Nerdy Riseclear |
+| 72 | 1213 | Snappy Glidepiece |
 | 73 | 1201 | Amanda Adkins |
 | 74 | 1186 | Christian A. Pollard |
 | 75 | 1162 | Gracie |
@@ -194,9 +194,9 @@
 | 186 | 559 | Patti Skiles |
 | 187 | 556 | Elissa S-k |
 | 188 | 548 | Danielle Balcom |
-| 189 | 546 | Cynthia Castros-Hampton |
-| 190 | 546 | Mykal Burton |
-| 191 | 546 | Tasha Schriewer |
+| 189 | 546 | Mykal Burton |
+| 190 | 546 | Tasha Schriewer |
+| 191 | 546 | Cynthia Castros-Hampton |
 | 192 | 540 | Shawn Miller |
 | 193 | 531 | Chauntee Alfrey-Cardinale |
 | 194 | 531 | Sarah Cowan Burgos |
@@ -757,9 +757,9 @@
 | 749 | 152 | Louise Parker |
 | 750 | 152 | Christine Vosburgh |
 | 751 | 152 | Lisa Ann |
-| 752 | 151 | Brad Dimitroff |
+| 752 | 151 | Allie Kershner |
 | 753 | 151 | Spicy Caster |
-| 754 | 151 | Allie Kershner |
+| 754 | 151 | Brad Dimitroff |
 | 755 | 151 | Lisa Bard |
 | 756 | 150 | Leticia Lynn Lowe |
 | 757 | 150 | Kiya Lynn |

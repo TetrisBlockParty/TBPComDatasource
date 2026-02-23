@@ -76,8 +76,8 @@
 | 68 | 787 | Edward White |
 | 69 | 767 | Shannon Ferrari |
 | 70 | 766 | Robin Watters |
-| 71 | 765 | Robin Getchel |
-| 72 | 765 | Denise Carlson |
+| 71 | 765 | Denise Carlson |
+| 72 | 765 | Robin Getchel |
 | 73 | 753 | TheNeesh50 |
 | 74 | 752 | Shane Kalamata Platoon |
 | 75 | 749 | Dustee Craddock-Harrison |
@@ -89,8 +89,8 @@
 | 81 | 703 | Savannah Overdorf |
 | 82 | 697 | Alyssa Papen |
 | 83 | 694 | Diana Houts |
-| 84 | 684 | Kimyatta Cavin |
-| 85 | 684 | Jonathan Kimbrough |
+| 84 | 684 | Jonathan Kimbrough |
+| 85 | 684 | Kimyatta Cavin |
 | 86 | 678 | Trista Leah |
 | 87 | 673 | Jacqueline Helm |
 | 88 | 670 | Destiney Carter |
@@ -169,8 +169,8 @@
 | 161 | 402 | Lucas J Sutton |
 | 162 | 398 | Tyler Terrific |
 | 163 | 397 | Nick Gray |
-| 164 | 393 | Carlton Unfiltered |
-| 165 | 393 | Girl |
+| 164 | 393 | Girl |
+| 165 | 393 | Carlton Unfiltered |
 | 166 | 391 | Ramel Rhodes |
 | 167 | 389 | Joseph Guthrie |
 | 168 | 383 | Chris Bernstein |
@@ -196,8 +196,8 @@
 | 188 | 349 | Rafael Valentin |
 | 189 | 348 | David Lay |
 | 190 | 348 | April Rondinone |
-| 191 | 347 | Daria Rycewicz |
-| 192 | 347 | Crystal Nicolette Moore |
+| 191 | 347 | Crystal Nicolette Moore |
+| 192 | 347 | Daria Rycewicz |
 | 193 | 346 | shark tato |
 | 194 | 339 | Bio Nelly |
 | 195 | 337 | Sam Bishop |
@@ -286,8 +286,8 @@
 | 278 | 253 | Autum Leigh |
 | 279 | 251 | Carol Ricks Raymond |
 | 280 | 249 | Ak Jones |
-| 281 | 248 | Chirpy Basepiece |
-| 282 | 248 | Angelito |
+| 281 | 248 | Angelito |
+| 282 | 248 | Chirpy Basepiece |
 | 283 | 248 | Jose Dejesus |
 | 284 | 245 | 23 |
 | 285 | 244 | Perky Piecegrid |
@@ -330,13 +330,13 @@
 | 322 | 220 | Tina Lopez |
 | 323 | 219 | Shane Vick |
 | 324 | 219 | Orchislactea |
-| 325 | 218 | Janita Parrish |
-| 326 | 218 | Stephme310 |
+| 325 | 218 | Stephme310 |
+| 326 | 218 | Janita Parrish |
 | 327 | 217 | Paito |
 | 328 | 217 | Alexandra Karavias |
 | 329 | 217 | Cheery Fitline |
-| 330 | 214 | Stacey Stano |
-| 331 | 214 | Patron Anderson |
+| 330 | 214 | Patron Anderson |
+| 331 | 214 | Stacey Stano |
 | 332 | 213 | Jackie Marie |
 | 333 | 212 | Mike Solo |
 | 334 | 212 | Zany Shatterer |
@@ -370,10 +370,10 @@
 | 362 | 196 | Dustin York |
 | 363 | 196 | Blessedmama |
 | 364 | 195 | KimoKoala |
-| 365 | 194 | Michelle Morris |
-| 366 | 194 | Sarah Hoffman |
+| 365 | 194 | SammieJo Guy |
+| 366 | 194 | Michelle Morris |
 | 367 | 194 | Zany Twisterfit |
-| 368 | 194 | SammieJo Guy |
+| 368 | 194 | Sarah Hoffman |
 | 369 | 194 | Eri Kka |
 | 370 | 192 | Twisty Risebuilder |
 | 371 | 192 | Meg |
@@ -752,7 +752,7 @@
 | 744 | 93 | Rampai |
 | 745 | 92 | Jasmine Castro |
 | 746 | 92 | QueenLis |
-| 747 | 92 | Jasmine Castro |
+| 747 | 92 | mitch |
 | 748 | 92 | Cooldamalley |
 | 749 | 92 | Brandy Gray |
 | 750 | 92 | Girldadtpa |
