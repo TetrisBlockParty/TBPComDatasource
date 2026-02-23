@@ -82,8 +82,8 @@
 | 74 | 862 | Carolyn Wallace |
 | 75 | 855 | Peachy Fall |
 | 76 | 850 | Lucille Truesdale |
-| 77 | 846 | Christine Marie |
-| 78 | 846 | Amelpss |
+| 77 | 846 | Amelpss |
+| 78 | 846 | Christine Marie |
 | 79 | 841 | Shauna Havard |
 | 80 | 837 | Lisa Davis |
 | 81 | 834 | quicksand420 |
@@ -118,8 +118,8 @@
 | 110 | 667 | Amy Suckarieh |
 | 111 | 663 | H.R. Block |
 | 112 | 659 | Jamie Gustafson |
-| 113 | 658 | Zippy Gridlock |
-| 114 | 658 | Girl |
+| 113 | 658 | Girl |
+| 114 | 658 | Zippy Gridlock |
 | 115 | 652 | Leslie Nicole |
 | 116 | 649 | Chris Alexinas |
 | 117 | 647 | KM8 |
@@ -174,8 +174,8 @@
 | 166 | 491 | Jade Rian |
 | 167 | 486 | Swanky Fitline |
 | 168 | 485 | Rico |
-| 169 | 480 | Adam Stephanie Parker |
-| 170 | 480 | Brandon Crabbs |
+| 169 | 480 | Brandon Crabbs |
+| 170 | 480 | Adam Stephanie Parker |
 | 171 | 479 | Christina Black |
 | 172 | 477 | Casey Grabner |
 | 173 | 476 | Matt Summer |
@@ -540,9 +540,9 @@
 | 532 | 176 | Walid Elsabee |
 | 533 | 176 | @ |
 | 534 | 175 | Veronica Garza |
-| 535 | 173 | Chariss Newsom |
+| 535 | 173 | Groovy Brickmatch |
 | 536 | 173 | Christine Simmons |
-| 537 | 173 | Groovy Brickmatch |
+| 537 | 173 | Chariss Newsom |
 | 538 | 173 | Joshua Cuellar |
 | 539 | 172 | Janis Brown |
 | 540 | 172 | Groovy Shiftspin |

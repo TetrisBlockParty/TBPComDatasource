@@ -355,8 +355,8 @@
 | 347 | 269 | Speedy Snapfall |
 | 348 | 269 | Ric Hard Hernandez |
 | 349 | 267 | Willy Michael |
-| 350 | 266 | Thorne Shumate |
-| 351 | 266 | Mary Love |
+| 350 | 266 | Mary Love |
+| 351 | 266 | Thorne Shumate |
 | 352 | 265 | Yahowah |
 | 353 | 265 | Llewej Rekab |
 | 354 | 264 | Carlos Floyd |
@@ -685,7 +685,7 @@
 | 677 | 140 | Shawn Thisismyoldaccount Gilmore |
 | 678 | 139 | Fat fred |
 | 679 | 139 | Lisa Reynolds Adair |
-| 680 | 139 | Lively Wipeout |
+| 680 | 139 | MayMay Echevarria |
 | 681 | 139 | Mighty Fallzone |
 | 682 | 139 | Goobette |
 | 683 | 139 | Lively Wipeout |

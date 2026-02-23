@@ -94,8 +94,8 @@
 | 86 | 1244 | Lori Barnaby |
 | 87 | 1240 | Betty Ivy |
 | 88 | 1220 | Danielle Mogg |
-| 89 | 1213 | Nerdy Riseclear |
-| 90 | 1213 | Snappy Glidepiece |
+| 89 | 1213 | Snappy Glidepiece |
+| 90 | 1213 | Nerdy Riseclear |
 | 91 | 1212 | Amanda Adkins |
 | 92 | 1186 | Christian A. Pollard |
 | 93 | 1179 | Angeline Joseph |

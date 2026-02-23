@@ -155,8 +155,8 @@
 | 147 | 1960 | Aimee Campbell |
 | 148 | 1958 | Robin Kerby |
 | 149 | 1936 | Angi Harrison |
-| 150 | 1932 | Angela Lynn |
-| 151 | 1932 | Gary Schaffner Jr. |
+| 150 | 1932 | Gary Schaffner Jr. |
+| 151 | 1932 | Angela Lynn |
 | 152 | 1912 | Tonya Brooks-Johnson |
 | 153 | 1904 | Goofy Snapfit |
 | 154 | 1899 | Jumpy Gridpiece |
@@ -275,8 +275,8 @@
 | 267 | 1269 | Michele Morgan |
 | 268 | 1264 | Missie Lawson Gebhardt |
 | 269 | 1259 | Foxxo |
-| 270 | 1258 | Brandon Armstrong |
-| 271 | 1258 | Cassie Mercer |
+| 270 | 1258 | Cassie Mercer |
+| 271 | 1258 | Brandon Armstrong |
 | 272 | 1257 | Megan Garrick |
 | 273 | 1257 | Megan Ferguson Leone |
 | 274 | 1253 | Roman Lavochnik |
@@ -1413,12 +1413,12 @@
 | 1405 | 350 | lady |
 | 1406 | 350 | Slinky Cascadebuilder |
 | 1407 | 349 | Riley Riley |
-| 1408 | 348 | Abi Anderson |
-| 1409 | 348 | Cody Wyatt |
+| 1408 | 348 | Cody Wyatt |
+| 1409 | 348 | Abi Anderson |
 | 1410 | 348 | Kristen Shields |
 | 1411 | 348 | Richard Horton |
-| 1412 | 347 | Roderick Allen |
-| 1413 | 347 | Tanyla Strickland |
+| 1412 | 347 | Tanyla Strickland |
+| 1413 | 347 | Roderick Allen |
 | 1414 | 347 | Ann Marie Davis |
 | 1415 | 347 | Amandacolle |
 | 1416 | 347 | Gursharan Sandhu |
@@ -1462,8 +1462,8 @@
 | 1454 | 341 | Virginia Satterwhite-Moore |
 | 1455 | 340 | Man of Steel |
 | 1456 | 340 | Renee Griffith |
-| 1457 | 340 | Ladii_Elmo |
-| 1458 | 340 | RetroLemur |
+| 1457 | 340 | RetroLemur |
+| 1458 | 340 | Ladii_Elmo |
 | 1459 | 340 | Tristan Lamothe |
 | 1460 | 340 | Doug Barratt Jr. |
 | 1461 | 339 | Cassie Yaffe |
