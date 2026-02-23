@@ -257,8 +257,8 @@
 | 249 | 244 | Eddie Dillon |
 | 250 | 243 | Bouncy Grid |
 | 251 | 243 | Tyler L Hunt |
-| 252 | 242 | Tyler Hertzog |
-| 253 | 242 | ParisandCory Champagne |
+| 252 | 242 | ParisandCory Champagne |
+| 253 | 242 | Tyler Hertzog |
 | 254 | 238 | Tiffany Smith |
 | 255 | 235 | Ariel Whittington |
 | 256 | 234 | Sean Stallings |
@@ -358,7 +358,7 @@
 | 350 | 189 | Speedy Snapfall |
 | 351 | 189 | Tawnya Peltonen |
 | 352 | 188 | Brian Taylor |
-| 353 | 187 | Bob |
+| 353 | 187 | Mark Smith |
 | 354 | 187 | Jessica Weed |
 | 355 | 187 | Bob |
 | 356 | 186 | Chummy Rollblock |

@@ -86,8 +86,8 @@
 | 78 | 704 | Crystal Carroll |
 | 79 | 703 | Savannah Overdorf |
 | 80 | 697 | Alyssa Papen |
-| 81 | 684 | Kimyatta Cavin |
-| 82 | 684 | Jonathan Kimbrough |
+| 81 | 684 | Jonathan Kimbrough |
+| 82 | 684 | Kimyatta Cavin |
 | 83 | 677 | Trista Leah |
 | 84 | 673 | Jacqueline Helm |
 | 85 | 672 | Shane Kalamata Platoon |
@@ -139,11 +139,11 @@
 | 131 | 435 | Leslie Thomas |
 | 132 | 431 | Courtney Cicoria |
 | 133 | 425 | Monica Daley |
-| 134 | 421 | Kesha Brady |
-| 135 | 421 | JIGsaw ~(•¿°)~ |
+| 134 | 421 | JIGsaw ~(•¿°)~ |
+| 135 | 421 | Kesha Brady |
 | 136 | 419 | Klo |
-| 137 | 418 | Marie-Pier Desjardins |
-| 138 | 418 | Lush Linkfall |
+| 137 | 418 | Lush Linkfall |
+| 138 | 418 | Marie-Pier Desjardins |
 | 139 | 416 | Chaz Duncan |
 | 140 | 414 | Nope Young |
 | 141 | 412 | Jessica Bohlken |
@@ -209,8 +209,8 @@
 | 201 | 304 | Lindsay Ball |
 | 202 | 301 | Andria Lynn |
 | 203 | 300 | Dihcheese444 |
-| 204 | 300 | Zakia Monae |
-| 205 | 300 | Dana Scott |
+| 204 | 300 | Dana Scott |
+| 205 | 300 | Zakia Monae |
 | 206 | 294 | Calvin Cannon |
 | 207 | 294 | Porkobello |
 | 208 | 292 | Epic Curvetile |
@@ -236,8 +236,8 @@
 | 228 | 272 | Alan George LaRage |
 | 229 | 272 | Dennis Bradley |
 | 230 | 271 | Holly |
-| 231 | 270 | Jen Caldwell |
-| 232 | 270 | Juls |
+| 231 | 270 | Juls |
+| 232 | 270 | Jen Caldwell |
 | 233 | 266 | Mr. Party |
 | 234 | 265 | Sarah Neathery |
 | 235 | 265 | Silly SeaWeed |
@@ -246,8 +246,8 @@
 | 238 | 262 | Selena Shaw |
 | 239 | 262 | BigSammy420 |
 | 240 | 260 | Carter Jones |
-| 241 | 259 | Montiette Mcglown |
-| 242 | 259 | Allen Lloyd |
+| 241 | 259 | Allen Lloyd |
+| 242 | 259 | Montiette Mcglown |
 | 243 | 257 | PeaceOs |
 | 244 | 256 | Metsfan |
 | 245 | 256 | Mylo Lipscomb |

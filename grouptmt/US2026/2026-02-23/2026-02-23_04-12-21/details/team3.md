@@ -162,8 +162,8 @@
 | 154 | 595 | Nicole Myers |
 | 155 | 588 | Justin Ritter |
 | 156 | 587 | Louise Stacy Sisson |
-| 157 | 585 | Annie Marie |
-| 158 | 585 | Happy Tetriblast |
+| 157 | 585 | Happy Tetriblast |
+| 158 | 585 | Annie Marie |
 | 159 | 582 | Natasha Jones |
 | 160 | 579 | Tasha Gillespie |
 | 161 | 577 | Domo Washington |
@@ -270,8 +270,8 @@
 | 262 | 357 | Stephanie Burtin |
 | 263 | 354 | Kelly |
 | 264 | 353 | Dee Franklin |
-| 265 | 352 | Samantha Lynn |
-| 266 | 352 | Christian Werndl |
+| 265 | 352 | Christian Werndl |
+| 266 | 352 | Samantha Lynn |
 | 267 | 351 | Eon Harris |
 | 268 | 349 | Amanda J. Mcneil-Anderson |
 | 269 | 348 | Cyd061769 |
@@ -332,8 +332,8 @@
 | 324 | 286 | Micayah Stevens |
 | 325 | 284 | Hanna Kim |
 | 326 | 281 | Kaycee Kay |
-| 327 | 280 | Aerian Preston |
-| 328 | 280 | ROODBOY |
+| 327 | 280 | ROODBOY |
+| 328 | 280 | Aerian Preston |
 | 329 | 279 | Tosha Griffey |
 | 330 | 279 | Foltz Lee Kelli |
 | 331 | 279 | Cheryl Hinch Tenbrook |
@@ -369,8 +369,8 @@
 | 361 | 267 | Michael Kimbro |
 | 362 | 266 | Quirky Dropzone |
 | 363 | 264 | Danielle Beaunoyer Jean |
-| 364 | 263 | Erika Thornton |
-| 365 | 263 | Jimmie Clemons |
+| 364 | 263 | Jimmie Clemons |
+| 365 | 263 | Erika Thornton |
 | 366 | 261 | Naur |
 | 367 | 260 | Alice |
 | 368 | 260 | Desiree Gold |

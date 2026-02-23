@@ -144,8 +144,8 @@
 | 136 | 1639 | Jessie McDougald |
 | 137 | 1631 | Speedy Spinblock |
 | 138 | 1629 | Mari Ac |
-| 139 | 1623 | Rebecca Doughman |
-| 140 | 1623 | Janel Turley-Garner |
+| 139 | 1623 | Janel Turley-Garner |
+| 140 | 1623 | Rebecca Doughman |
 | 141 | 1605 | Christi Hulet |
 | 142 | 1602 | blackq |
 | 143 | 1601 | Ray Ray Prado |
@@ -157,8 +157,8 @@
 | 149 | 1578 | Sally Dennis |
 | 150 | 1571 | Alisa Lamb |
 | 151 | 1560 | Donnie Hunt |
-| 152 | 1558 | Tim Dyer |
-| 153 | 1558 | Stephen Stephen |
+| 152 | 1558 | Stephen Stephen |
+| 153 | 1558 | Tim Dyer |
 | 154 | 1555 | blarg |
 | 155 | 1541 | Cherica Taylor |
 | 156 | 1537 | Desiree Harris Rosch |
@@ -270,11 +270,11 @@
 | 262 | 1048 | Desiree Anderson |
 | 263 | 1047 | Dany Murillo |
 | 264 | 1045 | Lourisha |
-| 265 | 1043 | Brave Dropmatch |
-| 266 | 1043 | nikki |
+| 265 | 1043 | nikki |
+| 266 | 1043 | Brave Dropmatch |
 | 267 | 1041 | Bri Lynn |
-| 268 | 1036 | Amber Shoemaker |
-| 269 | 1036 | Allison Lockyer |
+| 268 | 1036 | Allison Lockyer |
+| 269 | 1036 | Amber Shoemaker |
 | 270 | 1026 | Kristin Gower |
 | 271 | 1024 | Susan Perraut Jones |
 | 272 | 1024 | Taylor Phillips |
@@ -335,8 +335,8 @@
 | 327 | 888 | Donna M Carter |
 | 328 | 888 | Felicia Lynn |
 | 329 | 885 | Wakanda Forever |
-| 330 | 884 | Steve Man |
-| 331 | 884 | Adira Brown |
+| 330 | 884 | Adira Brown |
+| 331 | 884 | Steve Man |
 | 332 | 883 | Hong Tang |
 | 333 | 882 | Nashu |
 | 334 | 879 | Lemonaide |
@@ -420,9 +420,9 @@
 | 412 | 743 | Tiara Elizabeth Baker |
 | 413 | 741 | Jánine Riggs |
 | 414 | 740 | Jerry Tempelmeyer |
-| 415 | 737 | Jeremy Parodi |
-| 416 | 737 | Chelle |
-| 417 | 737 | Ginger |
+| 415 | 737 | Ginger |
+| 416 | 737 | Jeremy Parodi |
+| 417 | 737 | Chelle |
 | 418 | 734 | Allan Wayne Lamia |
 | 419 | 734 | Ashley Guernsey-Martin |
 | 420 | 732 | Victoria Moore-Smith |
@@ -481,10 +481,10 @@
 | 473 | 670 | Christine Bollig |
 | 474 | 668 | Gloria Ininahazwe |
 | 475 | 667 | Rhonda Milstead |
-| 476 | 666 | Alex Dungo Hoang |
-| 477 | 666 | Aishah Brice |
-| 478 | 665 | Ann Knutson Anderson |
-| 479 | 665 | Prette Qui |
+| 476 | 666 | Aishah Brice |
+| 477 | 666 | Alex Dungo Hoang |
+| 478 | 665 | Prette Qui |
+| 479 | 665 | Ann Knutson Anderson |
 | 480 | 664 | Sleepypanda67 |
 | 481 | 660 | Nadia Batista Garcia |
 | 482 | 659 | Nicky Jackson |
@@ -496,8 +496,8 @@
 | 488 | 650 | Gary Stash |
 | 489 | 648 | Brittney Jean |
 | 490 | 646 | Jazzy Clusterline |
-| 491 | 644 | Véronique Lévesque Sabourin |
-| 492 | 644 | Demeka Dangerous-kisses Johnson |
+| 491 | 644 | Demeka Dangerous-kisses Johnson |
+| 492 | 644 | Véronique Lévesque Sabourin |
 | 493 | 643 | Michelle Pike |
 | 494 | 642 | Cassie Maynard |
 | 495 | 642 | Michelle Fields |
@@ -521,8 +521,8 @@
 | 513 | 617 | Darcy Mae |
 | 514 | 617 | Kacee Conrad Bock |
 | 515 | 616 | Lylymom |
-| 516 | 615 | Julio A Laracuente |
-| 517 | 615 | Lyndi Robinson Wakefield |
+| 516 | 615 | Lyndi Robinson Wakefield |
+| 517 | 615 | Julio A Laracuente |
 | 518 | 614 | Emilee Burke |
 | 519 | 613 | Biggest thing |
 | 520 | 612 | Briana Alexander |
