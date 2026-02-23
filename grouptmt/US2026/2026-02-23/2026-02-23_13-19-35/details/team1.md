@@ -412,7 +412,7 @@
 | 404 | 196 | Rachel Copas |
 | 405 | 196 | Steph |
 | 406 | 196 | Amie Fields |
-| 407 | 195 | Blaire Bruckoff |
+| 407 | 195 | Norma Paredez |
 | 408 | 195 | Teresa |
 | 409 | 195 | Blaire Bruckoff |
 | 410 | 195 | Renata Mabie |
@@ -440,8 +440,8 @@
 | 432 | 186 | Chummy Rollblock |
 | 433 | 186 | Nikki Fridley |
 | 434 | 185 | Hasty Columnbuilder |
-| 435 | 184 | Theeranart Mahawan |
-| 436 | 184 | Sonia Marquis |
+| 435 | 184 | Sonia Marquis |
+| 436 | 184 | Theeranart Mahawan |
 | 437 | 183 | MommaKFC |
 | 438 | 182 | Mrsbigdawg |
 | 439 | 182 | Isaiah |

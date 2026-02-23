@@ -359,8 +359,8 @@
 | 351 | 926 | Deborah Miller |
 | 352 | 919 | Isaac Trappiel IV |
 | 353 | 918 | Amber Brion |
-| 354 | 917 | Jackie Burnett |
-| 355 | 917 | Nashu |
+| 354 | 917 | Nashu |
+| 355 | 917 | Jackie Burnett |
 | 356 | 916 | Butta |
 | 357 | 915 | Kelly Trent |
 | 358 | 914 | Shuany Arias |
@@ -651,8 +651,8 @@
 | 643 | 576 | Leslie Johnson Guinto |
 | 644 | 574 | Valerie Brooke Lusk Armstrong |
 | 645 | 574 | Boldy Wiper |
-| 646 | 573 | Giggly Snap |
-| 647 | 573 | Vaniel Glover |
+| 646 | 573 | Vaniel Glover |
+| 647 | 573 | Giggly Snap |
 | 648 | 572 | Rachael Senard |
 | 649 | 572 | Alexandra Lynn |
 | 650 | 570 | Leslie Jorgenson |
@@ -660,11 +660,11 @@
 | 652 | 570 | Adam Simmons |
 | 653 | 569 | Sparkles |
 | 654 | 566 | Lindsey Leigh |
-| 655 | 566 | SwampRebel |
-| 656 | 566 | Tina Marie |
+| 655 | 566 | Tina Marie |
+| 656 | 566 | SwampRebel |
 | 657 | 564 | Stacey Tranchida |
-| 658 | 563 | Nat |
-| 659 | 563 | Frisky Clearpiece |
+| 658 | 563 | Frisky Clearpiece |
+| 659 | 563 | Nat |
 | 660 | 559 | Kelli Wells |
 | 661 | 559 | Alexx Anaya |
 | 662 | 558 | Lee Harper |
@@ -920,8 +920,8 @@
 | 912 | 424 | ToxicTrash |
 | 913 | 424 | Christine Egidio Morocco |
 | 914 | 423 | FloJo |
-| 915 | 423 | Mandy Kachenmeister |
-| 916 | 423 | Lawanda Forbes |
+| 915 | 423 | Lawanda Forbes |
+| 916 | 423 | Mandy Kachenmeister |
 | 917 | 422 | Kimberly Ann |
 | 918 | 421 | Nina Nav |
 | 919 | 420 | Krys |
