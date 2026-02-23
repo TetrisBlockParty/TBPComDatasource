@@ -84,8 +84,8 @@
 | 76 | 3197 | Happy Blockroll |
 | 77 | 3099 | Charie Holland |
 | 78 | 2901 | RdRydnHd |
-| 79 | 2880 | Kimberly Schall |
-| 80 | 2880 | Aimee Byrom |
+| 79 | 2880 | Aimee Byrom |
+| 80 | 2880 | Kimberly Schall |
 | 81 | 2870 | Eckoman518 |
 | 82 | 2859 | Jose Vega |
 | 83 | 2846 | Veronica Porter |
@@ -563,8 +563,8 @@
 | 555 | 721 | Kori Beth Babb |
 | 556 | 716 | Cc |
 | 557 | 715 | Daniell Martinez |
-| 558 | 714 | Frilly Fallzone |
-| 559 | 714 | Nicky Jackson |
+| 558 | 714 | Nicky Jackson |
+| 559 | 714 | Frilly Fallzone |
 | 560 | 713 | Isabelle Bonneau |
 | 561 | 712 | Amanda Ferrell |
 | 562 | 712 | Cris cris |
@@ -690,8 +690,8 @@
 | 682 | 611 | Autumn Schaeffer |
 | 683 | 608 | Tash Bell |
 | 684 | 607 | Slip |
-| 685 | 606 | Mike Aprilliano |
-| 686 | 606 | Lea Stewart |
+| 685 | 606 | Lea Stewart |
+| 686 | 606 | Mike Aprilliano |
 | 687 | 605 | Mandi Marie Smith |
 | 688 | 605 | Jermaine Harris |
 | 689 | 604 | Rae Rae |
@@ -705,10 +705,10 @@
 | 697 | 598 | Giggly Snap |
 | 698 | 597 | Michelle Sager |
 | 699 | 597 | TJ Nash |
-| 700 | 596 | Davetta Sanford |
-| 701 | 596 | Ben Barkley |
-| 702 | 595 | Ha Ab |
-| 703 | 595 | Lewis Sturgeon |
+| 700 | 596 | Ben Barkley |
+| 701 | 596 | Davetta Sanford |
+| 702 | 595 | Lewis Sturgeon |
+| 703 | 595 | Ha Ab |
 | 704 | 594 | Frank Castle |
 | 705 | 592 | Melissa Kay Gibson |
 | 706 | 592 | Wuntayk |
@@ -718,8 +718,8 @@
 | 710 | 590 | Maddy Petersen |
 | 711 | 589 | Thomas Hedrick |
 | 712 | 589 | Kelly Templeton |
-| 713 | 588 | Kitybox |
-| 714 | 588 | Mrs. New |
+| 713 | 588 | Mrs. New |
+| 714 | 588 | Kitybox |
 | 715 | 586 | Tra Barnum |
 | 716 | 585 | Taylor Flowers |
 | 717 | 585 | Shelva Richard |
@@ -733,8 +733,8 @@
 | 725 | 576 | Leslie Johnson Guinto |
 | 726 | 573 | Vaniel Glover |
 | 727 | 573 | Niceday |
-| 728 | 572 | Rachael Senard |
-| 729 | 572 | SwampRebel |
+| 728 | 572 | SwampRebel |
+| 729 | 572 | Rachael Senard |
 | 730 | 572 | Alexandra Lynn |
 | 731 | 570 | Sonya Back |
 | 732 | 569 | Nat |

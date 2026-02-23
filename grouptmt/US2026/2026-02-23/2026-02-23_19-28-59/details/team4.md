@@ -167,8 +167,8 @@
 | 159 | 498 | Melissa Adams |
 | 160 | 498 | Nope Young |
 | 161 | 496 | Jessica Lynn Cutlip |
-| 162 | 491 | Jade Rian |
-| 163 | 491 | Carrie Brian |
+| 162 | 491 | Carrie Brian |
+| 163 | 491 | Jade Rian |
 | 164 | 486 | Swanky Fitline |
 | 165 | 485 | Rico |
 | 166 | 480 | Brandon Crabbs |
@@ -216,8 +216,8 @@
 | 208 | 410 | Oscar Alberto Perez |
 | 209 | 408 | April Rondinone |
 | 210 | 400 | Antony Dwayne Beasley |
-| 211 | 399 | Jeff Brian Gates |
-| 212 | 399 | Lindsay Ball |
+| 211 | 399 | Lindsay Ball |
+| 212 | 399 | Jeff Brian Gates |
 | 213 | 398 | Tyler Terrific |
 | 214 | 394 | Nita Wells |
 | 215 | 389 | Joseph Guthrie |
@@ -554,10 +554,10 @@
 | 546 | 166 | Tabitha Calvin |
 | 547 | 166 | Lynn Marie |
 | 548 | 166 | Reds Bella |
-| 549 | 166 | Frank Joseph Epson |
-| 550 | 166 | Jonathan Mahfood |
-| 551 | 165 | Dapper Caster |
-| 552 | 165 | Sassy Pattern |
+| 549 | 166 | Jonathan Mahfood |
+| 550 | 166 | Frank Joseph Epson |
+| 551 | 165 | Sassy Pattern |
+| 552 | 165 | Dapper Caster |
 | 553 | 165 | Zappy Buildgrid |
 | 554 | 164 | Smiley Shifter |
 | 555 | 164 | Marvetta Williams |
@@ -868,7 +868,7 @@
 | 860 | 94 | Riley Chelsie |
 | 861 | 94 | Brave Tilebuilder |
 | 862 | 94 | Too Low Lou |
-| 863 | 93 | Mousey406 |
+| 863 | 93 | Mitchell Everhart |
 | 864 | 93 | Sweet Pea |
 | 865 | 93 | Nutty Lifter |
 | 866 | 93 | Swanky Blockline |
@@ -890,9 +890,9 @@
 | 882 | 90 | Chassidy Martin |
 | 883 | 90 | Chummy Link |
 | 884 | 90 | Kelli Steinmetz |
-| 885 | 90 | Chassidy Martin |
-| 886 | 90 | Brad Caldwell |
-| 887 | 90 | Chummy Link |
+| 885 | 90 | Brad Caldwell |
+| 886 | 90 | Laurie McGregor |
+| 887 | 90 | Steve Sperino |
 | 888 | 90 | Harold M. |
 | 889 | 90 | Patrick Cookson |
 | 890 | 90 | Christian Torres |

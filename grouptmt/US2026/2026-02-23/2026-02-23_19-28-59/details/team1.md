@@ -203,8 +203,8 @@
 | 195 | 392 | Kathy Langham |
 | 196 | 391 | Monica Donato |
 | 197 | 390 | Elaine Elaine |
-| 198 | 387 | Carrie Smith |
-| 199 | 387 | Witty Builderfit |
+| 198 | 387 | Witty Builderfit |
+| 199 | 387 | Carrie Smith |
 | 200 | 387 | Ananda Mendez |
 | 201 | 386 | Michelle Beres |
 | 202 | 386 | Brian Spotts |
@@ -1085,8 +1085,8 @@
 | 1077 | 70 | Sarah Stanonik |
 | 1078 | 70 | SuzyQ |
 | 1079 | 69 | stormie |
-| 1080 | 69 | Jessica Venable |
-| 1081 | 69 | Charlie Ryno |
+| 1080 | 69 | Charlie Ryno |
+| 1081 | 69 | Jesse Meehan |
 | 1082 | 69 | Kayyjayy |
 | 1083 | 69 | Jessica Venable |
 | 1084 | 68 | Purp |

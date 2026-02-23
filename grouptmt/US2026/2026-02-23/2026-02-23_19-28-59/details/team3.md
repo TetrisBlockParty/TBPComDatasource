@@ -350,17 +350,17 @@
 | 342 | 368 | Sheila M Frazier |
 | 343 | 368 | Stephanie Woods |
 | 344 | 367 | Swanky Snapclear |
-| 345 | 366 | Jul |
-| 346 | 366 | KayB |
+| 345 | 366 | KayB |
+| 346 | 366 | Jul |
 | 347 | 365 | Breanna Marsden |
 | 348 | 365 | LaShey Thompson |
 | 349 | 364 | ROODBOY |
 | 350 | 362 | Foltz Lee Kelli |
-| 351 | 362 | Chummy Rumbler |
-| 352 | 362 | Brandon Givens |
+| 351 | 362 | Brandon Givens |
+| 352 | 362 | Chummy Rumbler |
 | 353 | 361 | neci |
-| 354 | 359 | Kristen Weese |
-| 355 | 359 | Steven Fulater |
+| 354 | 359 | Steven Fulater |
+| 355 | 359 | Kristen Weese |
 | 356 | 358 | Heather Davis |
 | 357 | 356 | Tony Waters |
 | 358 | 356 | Alexmac |
@@ -403,8 +403,8 @@
 | 395 | 328 | Cesar Mendez |
 | 396 | 327 | Tiffanie Alley |
 | 397 | 327 | Jimmie Clemons |
-| 398 | 326 | Norma JulieMay |
-| 399 | 326 | Nelma |
+| 398 | 326 | Nelma |
+| 399 | 326 | Norma JulieMay |
 | 400 | 326 | Kerry Nowickshere |
 | 401 | 324 | Blair Erin Waite |
 | 402 | 324 | Sissy Lowery Davis |
@@ -839,7 +839,7 @@
 | 831 | 174 | get et |
 | 832 | 173 | Ashley Shacklett |
 | 833 | 172 | Jazmin Santos |
-| 834 | 172 | Anastasia Williams |
+| 834 | 172 | Shiny Twisterfit |
 | 835 | 172 | Rebecca Lynn |
 | 836 | 172 | Anastasia Williams |
 | 837 | 172 | Nichole Greene |
