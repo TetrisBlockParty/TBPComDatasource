@@ -44,8 +44,8 @@
 | 36 | 4280 | Robert Diddle |
 | 37 | 4199 | Claire Noland |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Corrine Hawks Soriano |
-| 40 | 4120 | Kristen Sceurman |
+| 39 | 4120 | Kristen Sceurman |
+| 40 | 4120 | Corrine Hawks Soriano |
 | 41 | 4086 | PandaMama |
 | 42 | 3947 | Melinda Brown |
 | 43 | 3845 | jayjay |
@@ -303,8 +303,8 @@
 | 295 | 1036 | Amber Shoemaker |
 | 296 | 1032 | Kristin Gower |
 | 297 | 1029 | Crystal Hoffman |
-| 298 | 1024 | Taylor Phillips |
-| 299 | 1024 | Susan Perraut Jones |
+| 298 | 1024 | Susan Perraut Jones |
+| 299 | 1024 | Taylor Phillips |
 | 300 | 1022 | Shannon Joslin |
 | 301 | 1019 | Julie Kresal |
 | 302 | 1015 | Brittany Radaszewski |
@@ -425,8 +425,8 @@
 | 417 | 788 | Erika Densmore |
 | 418 | 787 | DefaultUser |
 | 419 | 783 | John Rodriguez |
-| 420 | 777 | Jessicah Myers |
-| 421 | 777 | Tesha Oldaker |
+| 420 | 777 | Tesha Oldaker |
+| 421 | 777 | Jessicah Myers |
 | 422 | 776 | Fancy Twister |
 | 423 | 776 | Mighty Spinbuilder |
 | 424 | 775 | Crystie Hicks |
@@ -498,8 +498,8 @@
 | 490 | 700 | Vincent Petrella |
 | 491 | 700 | Beverly Owens |
 | 492 | 699 | Dannette Goldberg-Richards |
-| 493 | 697 | Gary Stash |
-| 494 | 697 | Isabelle Bonneau |
+| 493 | 697 | Isabelle Bonneau |
+| 494 | 697 | Gary Stash |
 | 495 | 697 | Poldo Ilano |
 | 496 | 693 | Ryan Stadel |
 | 497 | 692 | Shaun Church |
@@ -540,8 +540,8 @@
 | 532 | 659 | Trinity Oak |
 | 533 | 658 | Demeka Dangerous-kisses Johnson |
 | 534 | 656 | Kiana Boschh |
-| 535 | 656 | bonsai |
-| 536 | 656 | Tonya Lee |
+| 535 | 656 | Tonya Lee |
+| 536 | 656 | bonsai |
 | 537 | 655 | Silly Pivotfall |
 | 538 | 654 | Cc |
 | 539 | 651 | Unica Rector |
@@ -906,12 +906,12 @@
 | 898 | 420 | Krys |
 | 899 | 420 | Lathasa Newkirk |
 | 900 | 420 | Boogie SoAnimated Johnson |
-| 901 | 419 | Josh Dill |
-| 902 | 419 | Erin Reid |
+| 901 | 419 | Erin Reid |
+| 902 | 419 | Josh Dill |
 | 903 | 418 | Bold Brickster |
 | 904 | 417 | Tristan Szolek |
-| 905 | 417 | Victoria Marie Bunch |
-| 906 | 417 | Mandy Kachenmeister |
+| 905 | 417 | Mandy Kachenmeister |
+| 906 | 417 | Victoria Marie Bunch |
 | 907 | 416 | Alicia Moreno |
 | 908 | 416 | Mike73 |
 | 909 | 416 | Christine Lockwood |

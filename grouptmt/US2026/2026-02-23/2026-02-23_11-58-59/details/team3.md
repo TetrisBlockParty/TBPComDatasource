@@ -179,8 +179,8 @@
 | 171 | 597 | Diana Ibarra |
 | 172 | 591 | Michael Nowogorski |
 | 173 | 587 | Louise Stacy Sisson |
-| 174 | 585 | Happy Tetriblast |
-| 175 | 585 | Domo Washington |
+| 174 | 585 | Domo Washington |
+| 175 | 585 | Happy Tetriblast |
 | 176 | 583 | Tasha Gillespie |
 | 177 | 582 | Natasha Jones |
 | 178 | 574 | Morgan Martinez |
@@ -266,8 +266,8 @@
 | 258 | 406 | Kristal C Lee |
 | 259 | 405 | Steffi Chris Dacones |
 | 260 | 404 | Chasity |
-| 261 | 403 | Denita Mungro |
-| 262 | 403 | Scott Lindsay |
+| 261 | 403 | Scott Lindsay |
+| 262 | 403 | Denita Mungro |
 | 263 | 401 | Ashley Tookes |
 | 264 | 400 | Quackers |
 | 265 | 398 | Stefanie LaPointe |
@@ -303,8 +303,8 @@
 | 295 | 360 | Cesar Barraza |
 | 296 | 358 | Roary Danner |
 | 297 | 354 | Kelly |
-| 298 | 354 | Eileen Brady Thurber |
-| 299 | 354 | Andrew Thorson |
+| 298 | 354 | Andrew Thorson |
+| 299 | 354 | Eileen Brady Thurber |
 | 300 | 353 | Dee Franklin |
 | 301 | 353 | Cyd061769 |
 | 302 | 352 | Christian Werndl |
@@ -459,7 +459,7 @@
 | 451 | 244 | Beezwax |
 | 452 | 243 | Paula Little |
 | 453 | 243 | Nicholas Roddy |
-| 454 | 242 | Heather Bateman |
+| 454 | 242 | Michael Latasha Gray |
 | 455 | 242 | Joy Petroski |
 | 456 | 242 | Fancy Curver |
 | 457 | 242 | Heather Bateman |
@@ -478,11 +478,11 @@
 | 470 | 236 | Frothy Snapper |
 | 471 | 234 | Cheeky Twisterfit |
 | 472 | 233 | Tony Waters |
-| 473 | 233 | Criss |
-| 474 | 233 | Anna Moeller |
+| 473 | 233 | Anna Moeller |
+| 474 | 233 | Criss |
 | 475 | 232 | Sunny Tiltgrid |
-| 476 | 232 | Melanie Sherwood |
-| 477 | 232 | Stephanie Hill |
+| 476 | 232 | Stephanie Hill |
+| 477 | 232 | Melanie Sherwood |
 | 478 | 231 | Giggly Brickroll |
 | 479 | 230 | DanceLuvLaugh |
 | 480 | 230 | BigE |

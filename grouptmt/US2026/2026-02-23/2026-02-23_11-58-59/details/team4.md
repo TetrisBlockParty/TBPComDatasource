@@ -130,8 +130,8 @@
 | 122 | 514 | Scott Jameson |
 | 123 | 514 | Serena Goodridge |
 | 124 | 513 | Erin Thomas |
-| 125 | 512 | Cristy Duerksen |
-| 126 | 512 | Casey Jeffcoat |
+| 125 | 512 | Casey Jeffcoat |
+| 126 | 512 | Cristy Duerksen |
 | 127 | 509 | Leslie Nicole |
 | 128 | 505 | Twisty Clicky |
 | 129 | 493 | Carly Alexis |
@@ -163,8 +163,8 @@
 | 155 | 417 | Steph Marie |
 | 156 | 417 | Amanda Pauldo-Ivy |
 | 157 | 416 | Chaz Duncan |
-| 158 | 414 | Swanky Fitline |
-| 159 | 414 | Nope Young |
+| 158 | 414 | Nope Young |
+| 159 | 414 | Swanky Fitline |
 | 160 | 413 | Circuit8 |
 | 161 | 412 | Jessica Bohlken |
 | 162 | 406 | Damn Libra |
@@ -575,8 +575,8 @@
 | 567 | 129 | Tamika Starkey |
 | 568 | 129 | RIFATSIKDER |
 | 569 | 128 | Zesty Linkgrid |
-| 570 | 128 | Raymond Roberts |
-| 571 | 128 | Lazy Glidepiece |
+| 570 | 128 | Lazy Glidepiece |
+| 571 | 128 | Raymond Roberts |
 | 572 | 127 | Jay You |
 | 573 | 126 | PAPatty |
 | 574 | 126 | Jennifer Renee |
@@ -601,7 +601,7 @@
 | 593 | 122 | Mary Therese Benden Cole |
 | 594 | 121 | Flashy Jumper |
 | 595 | 121 | Jeff Roberts |
-| 596 | 120 | Christina O'Dell-Ishau |
+| 596 | 120 | mistresscoundrl1 |
 | 597 | 120 | Joni Marie Flanary |
 | 598 | 120 | Christina O'Dell-Ishau |
 | 599 | 120 | Zołza 😈 |
