@@ -84,8 +84,8 @@
 | 76 | 1244 | Lori Barnaby |
 | 77 | 1229 | Araceli Parra |
 | 78 | 1221 | Betty Ivy |
-| 79 | 1213 | Nerdy Riseclear |
-| 80 | 1213 | Snappy Glidepiece |
+| 79 | 1213 | Snappy Glidepiece |
+| 80 | 1213 | Nerdy Riseclear |
 | 81 | 1212 | Amanda Adkins |
 | 82 | 1186 | Christian A. Pollard |
 | 83 | 1158 | Danielle Mogg |
@@ -426,8 +426,8 @@
 | 418 | 296 | Cheryl Hinch Tenbrook |
 | 419 | 295 | Dakota Graham |
 | 420 | 293 | Loopy Fallzone |
-| 421 | 292 | Kirhonda Autmon |
-| 422 | 292 | Khaleada McGill Banks |
+| 421 | 292 | Khaleada McGill Banks |
+| 422 | 292 | Kirhonda Autmon |
 | 423 | 292 | Arden White Kirsch |
 | 424 | 291 | Swanky Snapclear |
 | 425 | 291 | Bryan Byrd |
@@ -474,12 +474,12 @@
 | 466 | 268 | Sdot |
 | 467 | 268 | Rainbow77375 |
 | 468 | 268 | Jessica Lynn French |
-| 469 | 268 | Nelma |
+| 469 | 268 | Sabrina Mansfield |
 | 470 | 268 | Julia Nicole |
-| 471 | 267 | April Matthew Kibble |
-| 472 | 267 | Michael Kimbro |
-| 473 | 266 | Quirky Dropzone |
-| 474 | 266 | Sarah Muradyan |
+| 471 | 267 | Michael Kimbro |
+| 472 | 267 | April Matthew Kibble |
+| 473 | 266 | Sarah Muradyan |
+| 474 | 266 | Quirky Dropzone |
 | 475 | 265 | Danielle Dani |
 | 476 | 264 | Reina Roth |
 | 477 | 264 | Jackie Miller |
