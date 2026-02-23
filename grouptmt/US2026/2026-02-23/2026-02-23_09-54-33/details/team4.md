@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Jonathan Kimbrough |
-| 84 | 684 | Kimyatta Cavin |
+| 83 | 684 | Kimyatta Cavin |
+| 84 | 684 | Jonathan Kimbrough |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -167,8 +167,8 @@
 | 159 | 403 | Keith Kelley |
 | 160 | 402 | Lucas J Sutton |
 | 161 | 398 | Tyler Terrific |
-| 162 | 393 | Carlton Unfiltered |
-| 163 | 393 | Girl |
+| 162 | 393 | Girl |
+| 163 | 393 | Carlton Unfiltered |
 | 164 | 392 | Nick Gray |
 | 165 | 391 | Ramel Rhodes |
 | 166 | 389 | Joseph Guthrie |
@@ -208,8 +208,8 @@
 | 200 | 330 | Kathy Brookins |
 | 201 | 328 | scott |
 | 202 | 327 | J-Rizzle |
-| 203 | 324 | TinyLegoRose |
-| 204 | 324 | jim |
+| 203 | 324 | jim |
+| 204 | 324 | TinyLegoRose |
 | 205 | 321 | Meagan Nicole |
 | 206 | 320 | Lauren Scott |
 | 207 | 319 | Googenheim |
@@ -232,8 +232,8 @@
 | 224 | 294 | Calvin Cannon |
 | 225 | 292 | Epic Curvetile |
 | 226 | 291 | Nikki Rae Gordon |
-| 227 | 290 | Plucky Patternblock |
-| 228 | 290 | Rebecca Morris |
+| 227 | 290 | Rebecca Morris |
+| 228 | 290 | Plucky Patternblock |
 | 229 | 290 | Jared Gutwein |
 | 230 | 289 | Juls |
 | 231 | 288 | Leah Kutz Zirbel |
@@ -267,8 +267,8 @@
 | 259 | 264 | ZeeZee |
 | 260 | 264 | Stella |
 | 261 | 263 | rebel4lyfe |
-| 262 | 262 | BigSammy420 |
-| 263 | 262 | Selena Shaw |
+| 262 | 262 | Selena Shaw |
+| 263 | 262 | BigSammy420 |
 | 264 | 261 | Zethra Prenisha Rahming |
 | 265 | 260 | Lori |
 | 266 | 260 | Carter Jones |
@@ -283,8 +283,8 @@
 | 275 | 253 | Autum Leigh |
 | 276 | 251 | Carol Ricks Raymond |
 | 277 | 249 | Ak Jones |
-| 278 | 248 | Angelito |
-| 279 | 248 | Chirpy Basepiece |
+| 278 | 248 | Chirpy Basepiece |
+| 279 | 248 | Angelito |
 | 280 | 248 | Jose Dejesus |
 | 281 | 245 | 23 |
 | 282 | 244 | Elizabeth Tinoco |
@@ -560,8 +560,8 @@
 | 552 | 130 | Gigglelymomof2 |
 | 553 | 130 | KoolMom9907 |
 | 554 | 129 | Dreamy Snapgrid |
-| 555 | 129 | Jessica Wells |
-| 556 | 129 | Tamika Starkey |
+| 555 | 129 | Tamika Starkey |
+| 556 | 129 | Jessica Wells |
 | 557 | 128 | Zesty Linkgrid |
 | 558 | 128 | Raymond Roberts |
 | 559 | 128 | Lazy Glidepiece |

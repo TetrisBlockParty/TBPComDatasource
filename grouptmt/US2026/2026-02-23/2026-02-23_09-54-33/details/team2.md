@@ -128,8 +128,8 @@
 | 120 | 1937 | Adam Erikson |
 | 121 | 1932 | Gary Schaffner Jr. |
 | 122 | 1931 | Angi Harrison |
-| 123 | 1899 | Jumpy Gridpiece |
-| 124 | 1899 | Jamie Main |
+| 123 | 1899 | Jamie Main |
+| 124 | 1899 | Jumpy Gridpiece |
 | 125 | 1890 | Aimee Byrom |
 | 126 | 1887 | Tonya Brooks-Johnson |
 | 127 | 1872 | Karen Martini-Stapleton |
@@ -224,8 +224,8 @@
 | 216 | 1245 | Cody Nishimura |
 | 217 | 1240 | Brandon Armstrong |
 | 218 | 1237 | Megan Ferguson Leone |
-| 219 | 1232 | Groovy Puzzle |
-| 220 | 1232 | Ambyre Patterson |
+| 219 | 1232 | Ambyre Patterson |
+| 220 | 1232 | Groovy Puzzle |
 | 221 | 1230 | Megan Garrick |
 | 222 | 1221 | Jane Fong |
 | 223 | 1217 | Brooks Brooks |
