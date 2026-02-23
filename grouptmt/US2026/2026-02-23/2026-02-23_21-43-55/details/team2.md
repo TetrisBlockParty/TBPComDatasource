@@ -368,8 +368,8 @@
 | 360 | 1040 | Taylor Phillips |
 | 361 | 1038 | Sheronda Jackson |
 | 362 | 1037 | Jessica Wayne Cornwall |
-| 363 | 1036 | Amber Shoemaker |
-| 364 | 1036 | Allison Lockyer |
+| 363 | 1036 | Allison Lockyer |
+| 364 | 1036 | Amber Shoemaker |
 | 365 | 1029 | Crystal Hoffman |
 | 366 | 1026 | Joshua Mandel |
 | 367 | 1024 | Susan Perraut Jones |
@@ -568,8 +568,8 @@
 | 560 | 740 | Jerry Tempelmeyer |
 | 561 | 739 | Nicky Jackson |
 | 562 | 739 | Frisky Riserbuilder |
-| 563 | 737 | Breezy Clusterer |
-| 564 | 737 | Ginger |
+| 563 | 737 | Ginger |
+| 564 | 737 | Breezy Clusterer |
 | 565 | 736 | Ashley Munn |
 | 566 | 734 | Emily Lyric Converse |
 | 567 | 733 | Joce Lynn |
@@ -811,8 +811,8 @@
 | 803 | 557 | Samuel Labruno |
 | 804 | 557 | Sassy Linkroll |
 | 805 | 557 | Anita Rose Green |
-| 806 | 556 | Kamilya Rembert |
-| 807 | 556 | Rhonda Petro |
+| 806 | 556 | Rhonda Petro |
+| 807 | 556 | Kamilya Rembert |
 | 808 | 556 | Joice Hansen |
 | 809 | 555 | Misty Mitchell |
 | 810 | 555 | Noel Tarmy |

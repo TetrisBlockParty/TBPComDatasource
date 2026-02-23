@@ -164,8 +164,8 @@
 | 156 | 513 | Jessica Lynn Cutlip |
 | 157 | 512 | Angela Srubar-Norman |
 | 158 | 512 | ThaEviLJeNiuZ |
-| 159 | 512 | Casey Jeffcoat |
-| 160 | 512 | Ellen Durfee |
+| 159 | 512 | Ellen Durfee |
+| 160 | 512 | Casey Jeffcoat |
 | 161 | 508 | Twisty Clicky |
 | 162 | 507 | Nick Gray |
 | 163 | 504 | Deanna Deckard |
@@ -457,8 +457,8 @@
 | 449 | 218 | Cheaneen Livingston |
 | 450 | 218 | Thomas Hettenhaus |
 | 451 | 218 | Allison Rose |
-| 452 | 217 | Perky Riser |
-| 453 | 217 | Cheery Fitline |
+| 452 | 217 | Cheery Fitline |
+| 453 | 217 | Perky Riser |
 | 454 | 216 | Ryry |
 | 455 | 215 | Tanya Abernathy Jackson |
 | 456 | 215 | Dorian |
@@ -841,7 +841,7 @@
 | 833 | 106 | Robin Visintainer |
 | 834 | 105 | Lakesha Johnson |
 | 835 | 105 | Lorry Wofford Jr. |
-| 836 | 105 | Lakesha Johnson |
+| 836 | 105 | Jen May |
 | 837 | 105 | Quirky Puzzler |
 | 838 | 105 | MoP11 |
 | 839 | 104 | Joey Riley |

@@ -102,8 +102,8 @@
 | 94 | 740 | Lori Sanders- Davis |
 | 95 | 722 | Kellie |
 | 96 | 717 | Madison Wicks |
-| 97 | 706 | Plucky Fallzone |
-| 98 | 706 | Denice Dee |
+| 97 | 706 | Denice Dee |
+| 98 | 706 | Plucky Fallzone |
 | 99 | 704 | Karin Gillen |
 | 100 | 703 | Angel Fowler |
 | 101 | 679 | Melissa Lemmon |
@@ -129,8 +129,8 @@
 | 121 | 574 | Tiger Lily |
 | 122 | 572 | Deanna L Hermanson |
 | 123 | 570 | Cody Slav |
-| 124 | 568 | Rachael |
-| 125 | 568 | Jason Savage |
+| 124 | 568 | Jason Savage |
+| 125 | 568 | Rachael |
 | 126 | 558 | Jazzy Framezone |
 | 127 | 553 | And |
 | 128 | 552 | Hellsin |
@@ -195,8 +195,8 @@
 | 187 | 422 | Chelsea Dahlquist |
 | 188 | 422 | canbrick |
 | 189 | 418 | David Miller |
-| 190 | 417 | Debbie Kane |
-| 191 | 417 | Jessie Lynn |
+| 190 | 417 | Jessie Lynn |
+| 191 | 417 | Debbie Kane |
 | 192 | 416 | Jessica Sheehan |
 | 193 | 415 | Jennifer Hardman |
 | 194 | 414 | John J. Cronin |
@@ -213,8 +213,8 @@
 | 205 | 393 | Wisa |
 | 206 | 392 | Kathy Langham |
 | 207 | 387 | Ananda Mendez |
-| 208 | 387 | Carrie Smith |
-| 209 | 387 | Witty Builderfit |
+| 208 | 387 | Witty Builderfit |
+| 209 | 387 | Carrie Smith |
 | 210 | 386 | Brian Spotts |
 | 211 | 384 | Tami Luce Martin |
 | 212 | 383 | Margo Wagner |
