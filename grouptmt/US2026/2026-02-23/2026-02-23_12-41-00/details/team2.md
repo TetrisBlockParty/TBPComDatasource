@@ -392,8 +392,8 @@
 | 384 | 846 | Kayla |
 | 385 | 844 | Terri McKelvey McKinley |
 | 386 | 840 | Traci Johnson |
-| 387 | 838 | Nicole Cannon |
-| 388 | 838 | Misti Markijohn |
+| 387 | 838 | Misti Markijohn |
+| 388 | 838 | Nicole Cannon |
 | 389 | 836 | KhaosLord |
 | 390 | 833 | Dennis McLaurin |
 | 391 | 833 | Christie |
@@ -678,8 +678,8 @@
 | 670 | 550 | Shorty |
 | 671 | 549 | Kaylee McCafferty |
 | 672 | 549 | Crystal Hodge Love |
-| 673 | 548 | Shindee |
-| 674 | 548 | Sunshine711 |
+| 673 | 548 | Sunshine711 |
+| 674 | 548 | Shindee |
 | 675 | 547 | Hunter Connors |
 | 676 | 547 | Sonya Back |
 | 677 | 546 | NanDa Cruzan VI |
@@ -839,12 +839,12 @@
 | 831 | 459 | Pocho Zavala |
 | 832 | 458 | Ys Muhammed |
 | 833 | 457 | Kelly Meredeith |
-| 834 | 457 | Jennifer Coe |
-| 835 | 457 | Kray Kray Katelynn |
+| 834 | 457 | Kray Kray Katelynn |
+| 835 | 457 | Jennifer Coe |
 | 836 | 457 | Ryan Chan |
 | 837 | 456 | ItsJennifer Neriss |
-| 838 | 456 | Sabrina Burton |
-| 839 | 456 | Candy Pitts |
+| 838 | 456 | Candy Pitts |
+| 839 | 456 | Sabrina Burton |
 | 840 | 455 | Darlene Bowman |
 | 841 | 453 | Epic Stackzone |
 | 842 | 452 | Ashley Taylor |

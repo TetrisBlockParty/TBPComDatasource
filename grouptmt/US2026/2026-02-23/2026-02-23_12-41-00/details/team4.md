@@ -49,8 +49,8 @@
 | 41 | 1121 | Isabel Aguilar |
 | 42 | 1100 | Landon Keith Graffeo |
 | 43 | 1085 | Kimyatta Cavin |
-| 44 | 1082 | Dion Crommarty |
-| 45 | 1082 | Dawn Alexander |
+| 44 | 1082 | Dawn Alexander |
+| 45 | 1082 | Dion Crommarty |
 | 46 | 1071 | Cherrish Duren |
 | 47 | 1065 | Koshin Abdirahman |
 | 48 | 1046 | Johnathan Martinez |
@@ -66,11 +66,11 @@
 | 58 | 870 | BertMofo |
 | 59 | 864 | Shelly Chandler |
 | 60 | 859 | TeeJ |
-| 61 | 846 | Lucille Truesdale |
-| 62 | 846 | Christine Marie |
+| 61 | 846 | Christine Marie |
+| 62 | 846 | Lucille Truesdale |
 | 63 | 834 | quicksand420 |
-| 64 | 807 | Rachel Anne |
-| 65 | 807 | Amelpss |
+| 64 | 807 | Amelpss |
+| 65 | 807 | Rachel Anne |
 | 66 | 790 | Avy Absol |
 | 67 | 788 | Chilly Line |
 | 68 | 788 | Julian Garcia |
@@ -165,10 +165,10 @@
 | 157 | 421 | Kesha Brady |
 | 158 | 418 | Marie-Pier Desjardins |
 | 159 | 418 | Lush Linkfall |
-| 160 | 417 | Amanda Pauldo-Ivy |
-| 161 | 417 | Steph Marie |
-| 162 | 414 | Swanky Fitline |
-| 163 | 414 | Nope Young |
+| 160 | 417 | Steph Marie |
+| 161 | 417 | Amanda Pauldo-Ivy |
+| 162 | 414 | Nope Young |
+| 163 | 414 | Swanky Fitline |
 | 164 | 413 | Circuit8 |
 | 165 | 412 | Jessica Bohlken |
 | 166 | 406 | Damn Libra |
@@ -279,8 +279,8 @@
 | 271 | 266 | Tracey Lehmann |
 | 272 | 266 | Nubian1 |
 | 273 | 265 | Degenerate |
-| 274 | 265 | Silly SeaWeed |
-| 275 | 265 | Sarah Neathery |
+| 274 | 265 | Sarah Neathery |
+| 275 | 265 | Silly SeaWeed |
 | 276 | 264 | ZeeZee |
 | 277 | 264 | Stella |
 | 278 | 263 | rebel4lyfe |
@@ -303,8 +303,8 @@
 | 295 | 252 | Deb Rubeck |
 | 296 | 251 | Carol Ricks Raymond |
 | 297 | 249 | Ak Jones |
-| 298 | 248 | Angelito |
-| 299 | 248 | Chirpy Basepiece |
+| 298 | 248 | Chirpy Basepiece |
+| 299 | 248 | Angelito |
 | 300 | 248 | Jose Dejesus |
 | 301 | 245 | Joanna |
 | 302 | 245 | 23 |
@@ -715,10 +715,10 @@
 | 707 | 102 | Candice Carasiti |
 | 708 | 102 | Saucy Stackbuilder |
 | 709 | 102 | Dapper Caster |
-| 710 | 102 | blasterB |
+| 710 | 102 | Blaze Butler |
 | 711 | 102 | Bryan Johnson |
-| 712 | 102 | Blaze Butler |
-| 713 | 101 | Kris Johnson |
+| 712 | 102 | blasterB |
+| 713 | 101 | Saulc1991 |
 | 714 | 101 | Jacob Campbell |
 | 715 | 101 | Kris Johnson |
 | 716 | 100 | Joyce Fees |

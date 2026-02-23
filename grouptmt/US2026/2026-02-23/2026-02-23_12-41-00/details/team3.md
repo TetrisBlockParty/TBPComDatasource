@@ -140,8 +140,8 @@
 | 132 | 752 | Logan Naccarato |
 | 133 | 748 | Adrian Marcel Pate |
 | 134 | 746 | Giddy Drop |
-| 135 | 745 | JerseyJess |
-| 136 | 745 | ren |
+| 135 | 745 | ren |
+| 136 | 745 | JerseyJess |
 | 137 | 744 | Fancy Cascader |
 | 138 | 736 | mzcatzy |
 | 139 | 734 | Calista Jo Dickson |
@@ -298,8 +298,8 @@
 | 290 | 369 | Philip Rock |
 | 291 | 368 | Stephanie Woods |
 | 292 | 368 | Sheila M Frazier |
-| 293 | 366 | Betty Bóò |
-| 294 | 366 | Gumbo |
+| 293 | 366 | Gumbo |
+| 294 | 366 | Betty Bóò |
 | 295 | 362 | Brandon Givens |
 | 296 | 361 | Breanna Marsden |
 | 297 | 360 | Cesar Barraza |

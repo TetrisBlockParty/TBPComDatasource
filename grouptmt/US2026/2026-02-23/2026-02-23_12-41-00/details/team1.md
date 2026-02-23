@@ -179,8 +179,8 @@
 | 171 | 380 | phrmblk24 |
 | 172 | 379 | Austin James |
 | 173 | 376 | Brian Richardsson |
-| 174 | 375 | Tanya Carpenter-Reynolds |
-| 175 | 375 | Connie |
+| 174 | 375 | Connie |
+| 175 | 375 | Tanya Carpenter-Reynolds |
 | 176 | 374 | Howdi Duty |
 | 177 | 372 | Dizzy Party |
 | 178 | 371 | Jason Savage |
@@ -297,8 +297,8 @@
 | 289 | 253 | Jamie Jury |
 | 290 | 253 | Cece Ibarra |
 | 291 | 252 | Dena Kayy |
-| 292 | 251 | Angela Fairbank |
-| 293 | 251 | MRdot Rooski |
+| 292 | 251 | MRdot Rooski |
+| 293 | 251 | Angela Fairbank |
 | 294 | 250 | Silly Align |
 | 295 | 249 | Hasty Cascader |
 | 296 | 249 | Tiffany Smith |
@@ -436,8 +436,8 @@
 | 428 | 186 | Nikki Fridley |
 | 429 | 186 | Chummy Rollblock |
 | 430 | 185 | Hasty Columnbuilder |
-| 431 | 184 | Theeranart Mahawan |
-| 432 | 184 | Sonia Marquis |
+| 431 | 184 | Sonia Marquis |
+| 432 | 184 | Theeranart Mahawan |
 | 433 | 183 | MommaKFC |
 | 434 | 182 | Nathan Sealander |
 | 435 | 182 | Lyn Sibayan |
