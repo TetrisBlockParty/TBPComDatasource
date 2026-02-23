@@ -354,8 +354,8 @@
 | 346 | 1079 | Jennifer Kistner |
 | 347 | 1073 | Jodi Blake |
 | 348 | 1072 | BK Queen |
-| 349 | 1071 | Kim Dean |
-| 350 | 1071 | Nashu |
+| 349 | 1071 | Nashu |
+| 350 | 1071 | Kim Dean |
 | 351 | 1071 | Barbra Miller |
 | 352 | 1067 | Taylor Phillips |
 | 353 | 1067 | Bee |
@@ -374,8 +374,8 @@
 | 366 | 1042 | Spunkysmom |
 | 367 | 1039 | Crystal Hoffman |
 | 368 | 1038 | Sheronda Jackson |
-| 369 | 1036 | Allison Lockyer |
-| 370 | 1036 | Amber Shoemaker |
+| 369 | 1036 | Amber Shoemaker |
+| 370 | 1036 | Allison Lockyer |
 | 371 | 1031 | Min |
 | 372 | 1031 | Nicole L Morelli |
 | 373 | 1026 | Joshua Mandel |

@@ -229,8 +229,8 @@
 | 221 | 582 | Natasha Jones |
 | 222 | 581 | Dee Pratt |
 | 223 | 572 | FuzzyNavel |
-| 224 | 569 | Michael Johnson |
-| 225 | 569 | Juliana Dottore |
+| 224 | 569 | Juliana Dottore |
+| 225 | 569 | Michael Johnson |
 | 226 | 568 | Rachael McClain Owens |
 | 227 | 566 | LaTanya GeminiondaRise Johnson |
 | 228 | 564 | Poppy Splitter |
@@ -269,8 +269,8 @@
 | 261 | 513 | Lizabeth Fox |
 | 262 | 510 | Marquita Sheard |
 | 263 | 508 | joz |
-| 264 | 507 | rosy |
-| 265 | 507 | Snappy Balancer |
+| 264 | 507 | Snappy Balancer |
+| 265 | 507 | rosy |
 | 266 | 506 | Ammmmmmy |
 | 267 | 505 | Stephanie Simpson |
 | 268 | 500 | Ashley Tookes |
@@ -305,8 +305,8 @@
 | 297 | 455 | Megan Rathmanner |
 | 298 | 451 | Charles Perrone |
 | 299 | 450 | Antonia Russell |
-| 300 | 449 | Mcathen |
-| 301 | 449 | Stefanie LaPointe |
+| 300 | 449 | Stefanie LaPointe |
+| 301 | 449 | Mcathen |
 | 302 | 448 | Scott Carleton |
 | 303 | 443 | Randy Clevenger |
 | 304 | 438 | Betty Rosas |
@@ -575,8 +575,8 @@
 | 567 | 266 | Frothy Snapper |
 | 568 | 266 | Reina Roth |
 | 569 | 265 | Danielle Dani |
-| 570 | 264 | Morgan Cudo |
-| 571 | 264 | Danielle Beaunoyer Jean |
+| 570 | 264 | Danielle Beaunoyer Jean |
+| 571 | 264 | Morgan Cudo |
 | 572 | 264 | Crystal Hine |
 | 573 | 263 | Chilly Pop |
 | 574 | 263 | Paula Little |
@@ -595,8 +595,8 @@
 | 587 | 257 | Jana Polk |
 | 588 | 257 | Chris Wallace |
 | 589 | 257 | Shiny Snapfit |
-| 590 | 256 | Christina Rotz Shows |
-| 591 | 256 | Rynne Ellis |
+| 590 | 256 | Rynne Ellis |
+| 591 | 256 | Christina Rotz Shows |
 | 592 | 255 | Mariah Williams |
 | 593 | 254 | Landycandii |
 | 594 | 254 | Katheline Lazo Luizaga |

@@ -321,8 +321,8 @@
 | 313 | 292 | Epic Curvetile |
 | 314 | 292 | Tracey Lehmann |
 | 315 | 292 | Angel Raya |
-| 316 | 291 | Dizzy Matchzone |
-| 317 | 291 | ZeeZee |
+| 316 | 291 | ZeeZee |
+| 317 | 291 | Dizzy Matchzone |
 | 318 | 291 | Brittney Orengo |
 | 319 | 290 | Neirrah B Olailjeel |
 | 320 | 290 | Jared Gutwein |
@@ -353,8 +353,8 @@
 | 345 | 276 | Cynthia Boudreau |
 | 346 | 275 | meowmew |
 | 347 | 274 | Jenna McGeorge |
-| 348 | 272 | Dennis Bradley |
-| 349 | 272 | Tony Pavelka |
+| 348 | 272 | Tony Pavelka |
+| 349 | 272 | Dennis Bradley |
 | 350 | 271 | Holly |
 | 351 | 270 | 23 |
 | 352 | 270 | 07VHVW |

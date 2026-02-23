@@ -164,8 +164,8 @@
 | 156 | 495 | Adrian Esteban |
 | 157 | 494 | Sean Stallings |
 | 158 | 492 | Rebekah LeiAnn Bonsell |
-| 159 | 491 | Michelle Beres |
-| 160 | 491 | cc |
+| 159 | 491 | cc |
+| 160 | 491 | Michelle Beres |
 | 161 | 488 | Hyper |
 | 162 | 483 | Trina Gee |
 | 163 | 483 | Dandy Basegrid |
@@ -178,8 +178,8 @@
 | 170 | 463 | Brandi Huntington |
 | 171 | 463 | Nicole Roseberry Weber |
 | 172 | 462 | Hasty Cascader |
-| 173 | 458 | Dizzy Slider |
-| 174 | 458 | Goose egg |
+| 173 | 458 | Goose egg |
+| 174 | 458 | Dizzy Slider |
 | 175 | 451 | Amanda Jarnagin |
 | 176 | 450 | lil mickey |
 | 177 | 446 | SkipTheSadSauce |
