@@ -217,8 +217,8 @@
 | 209 | 1217 | Lucky Ladybug |
 | 210 | 1217 | Brooks Brooks |
 | 211 | 1214 | David Cudicio-Hayden |
-| 212 | 1205 | Tony Lea |
-| 213 | 1205 | Tralonda Weeks |
+| 212 | 1205 | Tralonda Weeks |
+| 213 | 1205 | Tony Lea |
 | 214 | 1198 | Carrie Trigg |
 | 215 | 1197 | Ricardo Burton |
 | 216 | 1192 | Denisha Dawkins |
@@ -332,8 +332,8 @@
 | 324 | 897 | Brittany Radaszewski |
 | 325 | 895 | Donna Colby |
 | 326 | 889 | Giggy Blocker |
-| 327 | 888 | Felicia Lynn |
-| 328 | 888 | Donna M Carter |
+| 327 | 888 | Donna M Carter |
+| 328 | 888 | Felicia Lynn |
 | 329 | 885 | Wakanda Forever |
 | 330 | 884 | Steve Man |
 | 331 | 884 | Adira Brown |
@@ -364,10 +364,10 @@
 | 356 | 821 | Cassie Mercer |
 | 357 | 818 | Jessica Wayne Cornwall |
 | 358 | 816 | James Simms III |
-| 359 | 812 | Jackie Lucas |
-| 360 | 812 | Samantha Jo |
-| 361 | 808 | Laura McCarthey |
-| 362 | 808 | Amber Brion |
+| 359 | 812 | Samantha Jo |
+| 360 | 812 | Jackie Lucas |
+| 361 | 808 | Amber Brion |
+| 362 | 808 | Laura McCarthey |
 | 363 | 808 | Desire Rice |
 | 364 | 804 | Becca Coronado |
 | 365 | 802 | Denise Rickman |
@@ -787,8 +787,8 @@
 | 779 | 427 | Destiny Cozier |
 | 780 | 426 | Kelly Meredeith |
 | 781 | 425 | N00D3S |
-| 782 | 424 | Christine Egidio Morocco |
-| 783 | 424 | ruth |
+| 782 | 424 | ruth |
+| 783 | 424 | Christine Egidio Morocco |
 | 784 | 423 | Smashanator |
 | 785 | 422 | Kimberly Ann |
 | 786 | 421 | Nina Nav |

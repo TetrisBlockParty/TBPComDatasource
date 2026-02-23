@@ -86,8 +86,8 @@
 | 78 | 704 | Crystal Carroll |
 | 79 | 703 | Savannah Overdorf |
 | 80 | 697 | Alyssa Papen |
-| 81 | 684 | Kimyatta Cavin |
-| 82 | 684 | Jonathan Kimbrough |
+| 81 | 684 | Jonathan Kimbrough |
+| 82 | 684 | Kimyatta Cavin |
 | 83 | 677 | Trista Leah |
 | 84 | 673 | Jacqueline Helm |
 | 85 | 667 | Shane Kalamata Platoon |
@@ -235,8 +235,8 @@
 | 227 | 272 | Alan George LaRage |
 | 228 | 272 | Dennis Bradley |
 | 229 | 271 | Holly |
-| 230 | 270 | Jen Caldwell |
-| 231 | 270 | Juls |
+| 230 | 270 | Juls |
+| 231 | 270 | Jen Caldwell |
 | 232 | 266 | Mr. Party |
 | 233 | 265 | Sarah Neathery |
 | 234 | 264 | Carlos Ramirez |
@@ -246,8 +246,8 @@
 | 238 | 262 | Selena Shaw |
 | 239 | 262 | BigSammy420 |
 | 240 | 260 | Carter Jones |
-| 241 | 259 | Allen Lloyd |
-| 242 | 259 | Montiette Mcglown |
+| 241 | 259 | Montiette Mcglown |
+| 242 | 259 | Allen Lloyd |
 | 243 | 257 | PeaceOs |
 | 244 | 256 | Mylo Lipscomb |
 | 245 | 256 | Metsfan |
