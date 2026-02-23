@@ -86,8 +86,8 @@
 | 78 | 646 | Susanna Guerry |
 | 79 | 637 | Evie Khalil |
 | 80 | 612 | Hasbro Bros |
-| 81 | 598 | Erin Hodges Plumb |
-| 82 | 598 | Kellie |
+| 81 | 598 | Kellie |
+| 82 | 598 | Erin Hodges Plumb |
 | 83 | 588 | Greg Hart |
 | 84 | 584 | Jen Sartain |
 | 85 | 583 | Theo Pinnow |
@@ -106,14 +106,14 @@
 | 98 | 510 | Chirpy Smasher |
 | 99 | 509 | Rachael |
 | 100 | 497 | Arianna O'Brien |
-| 101 | 493 | MomMom |
-| 102 | 493 | Jennifer ManWarren |
+| 101 | 493 | Jennifer ManWarren |
+| 102 | 493 | MomMom |
 | 103 | 492 | Ash Galvan |
 | 104 | 491 | cc |
 | 105 | 489 | April Carroll |
 | 106 | 489 | Deanna L Hermanson |
-| 107 | 483 | Tdub |
-| 108 | 483 | Trina Gee |
+| 107 | 483 | Trina Gee |
+| 108 | 483 | Tdub |
 | 109 | 478 | Stephanie Zahn |
 | 110 | 463 | Lexuriuos Lifestlye |
 | 111 | 462 | Luciano Moreira |
@@ -123,14 +123,14 @@
 | 115 | 451 | Plucky Ziggy |
 | 116 | 450 | lil mickey |
 | 117 | 449 | Anaid Sanchez |
-| 118 | 448 | Sweet Baker |
-| 119 | 448 | Jazzy Framezone |
+| 118 | 448 | Jazzy Framezone |
+| 119 | 448 | Sweet Baker |
 | 120 | 446 | SkipTheSadSauce |
 | 121 | 443 | Steve Schneider |
 | 122 | 439 | Dee Perry |
 | 123 | 436 | Tonya Beasley |
-| 124 | 434 | Ty Brown |
-| 125 | 434 | Yvonne Marie |
+| 124 | 434 | Yvonne Marie |
+| 125 | 434 | Ty Brown |
 | 126 | 429 | Kristi Johnson |
 | 127 | 428 | Ly Phethmany |
 | 128 | 426 | Maria C. Hernandez |
@@ -1024,7 +1024,7 @@
 | 1016 | 60 | Larry Oaks |
 | 1017 | 60 | Sherrick Edwards |
 | 1018 | 59 | Turtle Boser |
-| 1019 | 59 | David Hernandez |
+| 1019 | 59 | Piffy |
 | 1020 | 59 | Christian Schirmer |
 | 1021 | 59 | Kaitlyn Sheldon |
 | 1022 | 59 | Jonathan Vaval |

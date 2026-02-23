@@ -44,8 +44,8 @@
 | 36 | 4199 | Claire Noland |
 | 37 | 4128 | Angela Pruitt |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Kristen Sceurman |
-| 40 | 4120 | Corrine Hawks Soriano |
+| 39 | 4120 | Corrine Hawks Soriano |
+| 40 | 4120 | Kristen Sceurman |
 | 41 | 3845 | jayjay |
 | 42 | 3813 | Devin Lee |
 | 43 | 3778 | Brittany Alicia |
@@ -216,8 +216,8 @@
 | 208 | 1252 | Angel |
 | 209 | 1245 | Cody Nishimura |
 | 210 | 1237 | Megan Ferguson Leone |
-| 211 | 1232 | Ambyre Patterson |
-| 212 | 1232 | Groovy Puzzle |
+| 211 | 1232 | Groovy Puzzle |
+| 212 | 1232 | Ambyre Patterson |
 | 213 | 1232 | Brandon Armstrong |
 | 214 | 1230 | Megan Garrick |
 | 215 | 1217 | Lucky Ladybug |
@@ -292,8 +292,8 @@
 | 284 | 1010 | Brittany Radaszewski |
 | 285 | 1007 | Missie Lawson Gebhardt |
 | 286 | 1003 | Andrea Maher |
-| 287 | 998 | Keri Womack |
-| 288 | 998 | Shelley Thornburgh Wright |
+| 287 | 998 | Shelley Thornburgh Wright |
+| 288 | 998 | Keri Womack |
 | 289 | 996 | Ashie Ann |
 | 290 | 988 | Juliana Marques Do Nascimento Gordy |
 | 291 | 987 | Osun Anuket Esu |
@@ -330,8 +330,8 @@
 | 322 | 915 | Kelly Trent |
 | 323 | 914 | Shuany Arias |
 | 324 | 907 | Gene Mills |
-| 325 | 904 | John Bednarik |
-| 326 | 904 | Jennifer Aiken |
+| 325 | 904 | Jennifer Aiken |
+| 326 | 904 | John Bednarik |
 | 327 | 904 | Bee |
 | 328 | 903 | Giggy Blocker |
 | 329 | 902 | William Hunt |
@@ -717,8 +717,8 @@
 | 709 | 482 | Nate |
 | 710 | 482 | Drwatson187 |
 | 711 | 481 | Lucy Marshall |
-| 712 | 480 | Jennifer Leigh |
-| 713 | 480 | Dar |
+| 712 | 480 | Dar |
+| 713 | 480 | Jennifer Leigh |
 | 714 | 479 | bbv |
 | 715 | 479 | Jason Garnatz |
 | 716 | 479 | Ashlee Cruz |
@@ -871,15 +871,15 @@
 | 863 | 403 | Nate Skidmore |
 | 864 | 403 | mshir |
 | 865 | 403 | Susan Arnburg |
-| 866 | 402 | LuckyChopstix |
+| 866 | 402 | B |
 | 867 | 402 | AkaLefty |
-| 868 | 402 | B |
-| 869 | 402 | BlaqSupaMan |
-| 870 | 402 | Valerie Vigil |
-| 871 | 401 | Victoria Marie Bunch |
-| 872 | 401 | James Zaragoza |
-| 873 | 401 | Emoney Sanchez |
-| 874 | 400 | Lazy Builderfit |
+| 868 | 402 | BlaqSupaMan |
+| 869 | 402 | Valerie Vigil |
+| 870 | 402 | LuckyChopstix |
+| 871 | 401 | James Zaragoza |
+| 872 | 401 | Emoney Sanchez |
+| 873 | 401 | Victoria Marie Bunch |
+| 874 | 400 | Tammy Allen |
 | 875 | 400 | Deana |
 | 876 | 400 | Lazy Builderfit |
 | 877 | 399 | Heather Johnson |

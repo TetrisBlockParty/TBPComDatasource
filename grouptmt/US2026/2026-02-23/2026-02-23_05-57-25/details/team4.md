@@ -124,8 +124,8 @@
 | 116 | 514 | Serena Goodridge |
 | 117 | 514 | Scott Jameson |
 | 118 | 513 | Erin Thomas |
-| 119 | 512 | Casey Jeffcoat |
-| 120 | 512 | Cristy Duerksen |
+| 119 | 512 | Cristy Duerksen |
+| 120 | 512 | Casey Jeffcoat |
 | 121 | 511 | Lori Walker |
 | 122 | 482 | Ren Mc |
 | 123 | 481 | Jessica Lynn Cutlip |
@@ -261,14 +261,14 @@
 | 253 | 259 | Allen Lloyd |
 | 254 | 259 | Cynthia Boudreau |
 | 255 | 257 | PeaceOs |
-| 256 | 256 | Mylo Lipscomb |
-| 257 | 256 | Jade Rian |
+| 256 | 256 | Jade Rian |
+| 257 | 256 | Mylo Lipscomb |
 | 258 | 256 | Metsfan |
 | 259 | 255 | Lori |
 | 260 | 253 | Autum Leigh |
 | 261 | 251 | Carol Ricks Raymond |
-| 262 | 249 | Nick Gray |
-| 263 | 249 | Ak Jones |
+| 262 | 249 | Ak Jones |
+| 263 | 249 | Nick Gray |
 | 264 | 248 | Chirpy Basepiece |
 | 265 | 248 | Jose Dejesus |
 | 266 | 248 | Brittany Marsh |
