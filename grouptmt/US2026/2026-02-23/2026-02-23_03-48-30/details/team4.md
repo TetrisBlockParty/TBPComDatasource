@@ -57,8 +57,8 @@
 | 49 | 863 | Pee |
 | 50 | 855 | Marvin Lou Martin |
 | 51 | 853 | TeeJ |
-| 52 | 846 | Christine Marie |
-| 53 | 846 | Lucille Truesdale |
+| 52 | 846 | Lucille Truesdale |
+| 53 | 846 | Christine Marie |
 | 54 | 845 | LisaJo Picken Buchanan |
 | 55 | 843 | Shelly Chandler |
 | 56 | 841 | Anthony Bryan Riva |
@@ -141,8 +141,8 @@
 | 133 | 421 | JIGsaw ~(•¿°)~ |
 | 134 | 421 | Kesha Brady |
 | 135 | 419 | Klo |
-| 136 | 418 | Marie-Pier Desjardins |
-| 137 | 418 | Lush Linkfall |
+| 136 | 418 | Lush Linkfall |
+| 137 | 418 | Marie-Pier Desjardins |
 | 138 | 416 | Chaz Duncan |
 | 139 | 414 | Nope Young |
 | 140 | 412 | Jessica Bohlken |
@@ -159,18 +159,18 @@
 | 151 | 387 | Lucas J Sutton |
 | 152 | 387 | 🥔🥔 Spudz |
 | 153 | 377 | Carrie Brian |
-| 154 | 375 | Desi Desporte |
-| 155 | 375 | ThaEviLJeNiuZ |
-| 156 | 374 | Guy Incognito |
-| 157 | 374 | Leslie Nicole |
+| 154 | 375 | ThaEviLJeNiuZ |
+| 155 | 375 | Desi Desporte |
+| 156 | 374 | Leslie Nicole |
+| 157 | 374 | Guy Incognito |
 | 158 | 373 | Tyler Terrific |
 | 159 | 370 | Oscar Alberto Perez |
 | 160 | 368 | Raegan Lane-Ross |
 | 161 | 368 | Silly Zonebuilder |
 | 162 | 368 | Brandon Crabbs |
 | 163 | 365 | Lindsey Gonzalez |
-| 164 | 361 | Melissa Adams |
-| 165 | 361 | Danielle Kollias |
+| 164 | 361 | Danielle Kollias |
+| 165 | 361 | Melissa Adams |
 | 166 | 359 | Keith Kelley |
 | 167 | 358 | A5! |
 | 168 | 356 | George Nutt |

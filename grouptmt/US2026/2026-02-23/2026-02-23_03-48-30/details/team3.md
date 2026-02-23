@@ -113,8 +113,8 @@
 | 105 | 851 | Danielle Becker |
 | 106 | 850 | Danielle Mogg |
 | 107 | 848 | Patricia Gadsden |
-| 108 | 831 | Angeline Joseph |
-| 109 | 831 | Araceli Parra |
+| 108 | 831 | Araceli Parra |
+| 109 | 831 | Angeline Joseph |
 | 110 | 830 | Stephanie Allmon |
 | 111 | 826 | Shane Wilson Jr. |
 | 112 | 816 | Brenda Lee Vander Molen |
@@ -126,8 +126,8 @@
 | 118 | 752 | Kristie |
 | 119 | 748 | Adrian Marcel Pate |
 | 120 | 745 | JerseyJess |
-| 121 | 744 | Leah Barnett |
-| 122 | 744 | Fancy Cascader |
+| 121 | 744 | Fancy Cascader |
+| 122 | 744 | Leah Barnett |
 | 123 | 742 | Groovy Catcher |
 | 124 | 736 | Katrina Schroeder |
 | 125 | 733 | mzcatzy |
@@ -208,8 +208,8 @@
 | 200 | 465 | Annie Déè |
 | 201 | 461 | Shunta Jacobs |
 | 202 | 458 | Danielle Rhoades |
-| 203 | 457 | Jim Mathews |
-| 204 | 457 | Edwin Calvillo Jr. |
+| 203 | 457 | Edwin Calvillo Jr. |
+| 204 | 457 | Jim Mathews |
 | 205 | 453 | Staci George Fitzsimmons |
 | 206 | 452 | Connie Mohler-Fair |
 | 207 | 452 | Jacqueline Rodriguez |
@@ -531,10 +531,10 @@
 | 523 | 188 | Sunny Lift |
 | 524 | 188 | Michael Pleasant |
 | 525 | 187 | Sabrina Mansfield |
-| 526 | 186 | Jack Bo |
-| 527 | 186 | Funky Jumper |
-| 528 | 185 | Morgan Cudo |
-| 529 | 185 | Silver Marchán |
+| 526 | 186 | Funky Jumper |
+| 527 | 186 | Jack Bo |
+| 528 | 185 | Silver Marchán |
+| 529 | 185 | Morgan Cudo |
 | 530 | 185 | Breezy Roll |
 | 531 | 184 | Shanon R Jackson |
 | 532 | 184 | Christian Luna |
@@ -543,8 +543,8 @@
 | 535 | 183 | Scott Doss |
 | 536 | 183 | Jana Fagg |
 | 537 | 183 | Snarky McFace |
-| 538 | 182 | Alicia |
-| 539 | 182 | Johnathan Dowe |
+| 538 | 182 | Johnathan Dowe |
+| 539 | 182 | Alicia |
 | 540 | 182 | Kali Kelz Williams |
 | 541 | 181 | Shiny Zonebuilder |
 | 542 | 181 | Julia Nicole |
@@ -649,9 +649,9 @@
 | 641 | 157 | DeeDee13 |
 | 642 | 156 | Brittany K Ward |
 | 643 | 156 | Courtney Conboy |
-| 644 | 156 | Dapper Liney |
-| 645 | 156 | Mandy Poynter-Wallace |
-| 646 | 156 | Silly Curvetile |
+| 644 | 156 | Silly Curvetile |
+| 645 | 156 | Dapper Liney |
+| 646 | 156 | Mandy Poynter-Wallace |
 | 647 | 155 | James Lykes |
 | 648 | 155 | Amy Montz |
 | 649 | 155 | Katie Bolich |

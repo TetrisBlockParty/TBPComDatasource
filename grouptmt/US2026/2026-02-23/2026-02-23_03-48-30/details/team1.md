@@ -46,8 +46,8 @@
 | 38 | 998 | Jorge Andrade |
 | 39 | 966 | Shalene Frederick Autrey |
 | 40 | 964 | Carrie Beck Geartz |
-| 41 | 953 | Derek MF Blakey |
-| 42 | 953 | Hyp James NObettadanluvarat |
+| 41 | 953 | Hyp James NObettadanluvarat |
+| 42 | 953 | Derek MF Blakey |
 | 43 | 945 | Amber Stoker |
 | 44 | 931 | Christina Costantino |
 | 45 | 919 | Chipper Gridlock |
@@ -83,8 +83,8 @@
 | 75 | 646 | Susanna Guerry |
 | 76 | 641 | Cartier |
 | 77 | 599 | Cynthia Bradley |
-| 78 | 598 | Kellie |
-| 79 | 598 | Erin Hodges Plumb |
+| 78 | 598 | Erin Hodges Plumb |
+| 79 | 598 | Kellie |
 | 80 | 588 | Greg Hart |
 | 81 | 584 | Jen Sartain |
 | 82 | 583 | Theo Pinnow |
@@ -146,8 +146,8 @@
 | 138 | 383 | pjbeta |
 | 139 | 381 | Fmp |
 | 140 | 380 | phrmblk24 |
-| 141 | 379 | Austin James |
-| 142 | 379 | Kimmie Kimms |
+| 141 | 379 | Kimmie Kimms |
+| 142 | 379 | Austin James |
 | 143 | 376 | Brian Richardsson |
 | 144 | 376 | Death |
 | 145 | 375 | Monica Donato |
@@ -156,12 +156,12 @@
 | 148 | 371 | Jason Savage |
 | 149 | 368 | Amanda Johnson Huffman |
 | 150 | 367 | Sharon Reynolds |
-| 151 | 364 | Serina Marie |
-| 152 | 364 | Shauna Loe |
+| 151 | 364 | Shauna Loe |
+| 152 | 364 | Serina Marie |
 | 153 | 360 | Wisa |
 | 154 | 355 | Carrie Smith |
-| 155 | 353 | Jaimie Lynn |
-| 156 | 353 | Josh Riemer |
+| 155 | 353 | Josh Riemer |
+| 156 | 353 | Jaimie Lynn |
 | 157 | 350 | Tipsy Strikerpiece |
 | 158 | 346 | GATOR |
 | 159 | 345 | Jerry Danowski |
@@ -189,9 +189,9 @@
 | 181 | 317 | Sarah Roberts |
 | 182 | 316 | Reesey Enyart |
 | 183 | 315 | Danielle Little-Daugherty |
-| 184 | 312 | Kimberly Garcia |
+| 184 | 312 | Mike Ames |
 | 185 | 312 | Jessi Sauer |
-| 186 | 312 | Mike Ames |
+| 186 | 312 | Kimberly Garcia |
 | 187 | 311 | Letson Melissa |
 | 188 | 310 | Bloknboy |
 | 189 | 307 | femmefatale |

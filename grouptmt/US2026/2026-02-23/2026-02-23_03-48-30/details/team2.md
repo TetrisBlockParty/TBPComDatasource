@@ -385,8 +385,8 @@
 | 377 | 782 | Beth |
 | 378 | 781 | Kathryn Townsley |
 | 379 | 779 | Kayla |
-| 380 | 777 | Jessicah Myers |
-| 381 | 777 | Tesha Oldaker |
+| 380 | 777 | Tesha Oldaker |
+| 381 | 777 | Jessicah Myers |
 | 382 | 776 | Hyper Cluster |
 | 383 | 774 | Connie Jimenez |
 | 384 | 772 | Danielle Simmons |
@@ -467,8 +467,8 @@
 | 459 | 680 | blume |
 | 460 | 679 | Kassandra Hunt |
 | 461 | 678 | AgileDragon |
-| 462 | 677 | Ellie Jonas |
-| 463 | 677 | Amanda Woodruff |
+| 462 | 677 | Amanda Woodruff |
+| 463 | 677 | Ellie Jonas |
 | 464 | 677 | Kayleigh Wisse |
 | 465 | 676 | Roseanna Peloso |
 | 466 | 676 | Brandon Armstrong |
@@ -556,8 +556,8 @@
 | 548 | 575 | Rae Rae |
 | 549 | 575 | Michael Artis |
 | 550 | 573 | Vaniel Glover |
-| 551 | 572 | Joseph Musick |
-| 552 | 572 | Rachael Senard |
+| 551 | 572 | Rachael Senard |
+| 552 | 572 | Joseph Musick |
 | 553 | 572 | Nerdy Pattern |
 | 554 | 572 | Alexandra Lynn |
 | 555 | 571 | Koa N Sharon Chen |
@@ -573,8 +573,8 @@
 | 565 | 563 | Frisky Clearpiece |
 | 566 | 562 | AISlop |
 | 567 | 560 | SwampRebel |
-| 568 | 559 | Slip |
-| 569 | 559 | Anthony Huebel |
+| 568 | 559 | Anthony Huebel |
+| 569 | 559 | Slip |
 | 570 | 558 | Libby Hicks |
 | 571 | 556 | Kacee Conrad Bock |
 | 572 | 554 | Party d |
@@ -729,16 +729,16 @@
 | 721 | 456 | Sabrina Burton |
 | 722 | 454 | ItsJennifer Neriss |
 | 723 | 453 | Polly Pritchard Chesler |
-| 724 | 453 | Epic Stackzone |
-| 725 | 453 | Ryan Chan |
+| 724 | 453 | Ryan Chan |
+| 725 | 453 | Epic Stackzone |
 | 726 | 452 | Ashley Taylor |
 | 727 | 452 | Cleo Sims |
 | 728 | 450 | sup |
 | 729 | 449 | Heather Sawtelle-Mckenzie |
 | 730 | 449 | Julie Hamilton |
 | 731 | 449 | Kristi Biddinger |
-| 732 | 448 | Anastacio Hernandez |
-| 733 | 448 | Ha Ab |
+| 732 | 448 | Ha Ab |
+| 733 | 448 | Anastacio Hernandez |
 | 734 | 448 | Darlene Bowman |
 | 735 | 448 | Leah LaShomb |
 | 736 | 448 | Miracle |
@@ -748,8 +748,8 @@
 | 740 | 445 | Mar Q Thomas |
 | 741 | 445 | Michelle Sager |
 | 742 | 445 | Sharon Mills |
-| 743 | 444 | Fi Ne |
-| 744 | 444 | Angela Murgia-Owen |
+| 743 | 444 | Angela Murgia-Owen |
+| 744 | 444 | Fi Ne |
 | 745 | 443 | Tipsy Filler |
 | 746 | 443 | Dimitra Zazara |
 | 747 | 443 | Giggy Grabber |
@@ -1301,8 +1301,8 @@
 | 1293 | 274 | Sade Gedara |
 | 1294 | 273 | Amy Humphreys |
 | 1295 | 273 | Chris L Gustafson |
-| 1296 | 273 | Britt Stunkel |
-| 1297 | 273 | Michele Moren |
+| 1296 | 273 | Michele Moren |
+| 1297 | 273 | Britt Stunkel |
 | 1298 | 272 | David Standry |
 | 1299 | 272 | Tash |
 | 1300 | 272 | Sammy |
