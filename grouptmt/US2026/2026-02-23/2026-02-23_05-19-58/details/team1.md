@@ -156,8 +156,8 @@
 | 148 | 376 | Death |
 | 149 | 376 | Brian Richardsson |
 | 150 | 375 | Tanya Carpenter-Reynolds |
-| 151 | 371 | Jason Savage |
-| 152 | 371 | Basment Living |
+| 151 | 371 | Basment Living |
+| 152 | 371 | Jason Savage |
 | 153 | 368 | Amanda Johnson Huffman |
 | 154 | 367 | Sharon Reynolds |
 | 155 | 366 | J.F. Fields |
@@ -182,8 +182,8 @@
 | 174 | 341 | Nick R Montague |
 | 175 | 339 | Nicole Roseberry Weber |
 | 176 | 338 | Jennifer Hardman |
-| 177 | 337 | Jamise Brown |
-| 178 | 337 | Constance Risner |
+| 177 | 337 | Constance Risner |
+| 178 | 337 | Jamise Brown |
 | 179 | 336 | Dizzy Party |
 | 180 | 333 | Gracie |
 | 181 | 332 | Lehrin Maria |

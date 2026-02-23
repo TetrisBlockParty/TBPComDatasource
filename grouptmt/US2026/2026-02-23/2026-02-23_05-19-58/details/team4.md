@@ -58,8 +58,8 @@
 | 50 | 863 | Pee |
 | 51 | 855 | Marvin Lou Martin |
 | 52 | 853 | TeeJ |
-| 53 | 846 | Lucille Truesdale |
-| 54 | 846 | Christine Marie |
+| 53 | 846 | Christine Marie |
+| 54 | 846 | Lucille Truesdale |
 | 55 | 845 | LisaJo Picken Buchanan |
 | 56 | 843 | Shelly Chandler |
 | 57 | 834 | quicksand420 |
@@ -87,8 +87,8 @@
 | 79 | 703 | Savannah Overdorf |
 | 80 | 697 | Alyssa Papen |
 | 81 | 696 | Shane Kalamata Platoon |
-| 82 | 684 | Jonathan Kimbrough |
-| 83 | 684 | Kimyatta Cavin |
+| 82 | 684 | Kimyatta Cavin |
+| 83 | 684 | Jonathan Kimbrough |
 | 84 | 677 | Trista Leah |
 | 85 | 673 | Jacqueline Helm |
 | 86 | 670 | Destiney Carter |
@@ -172,8 +172,8 @@
 | 164 | 368 | Brandon Crabbs |
 | 165 | 368 | Raegan Lane-Ross |
 | 166 | 365 | Jeff Brian Gates |
-| 167 | 361 | Danielle Kollias |
-| 168 | 361 | Melissa Adams |
+| 167 | 361 | Melissa Adams |
+| 168 | 361 | Danielle Kollias |
 | 169 | 359 | Keith Kelley |
 | 170 | 358 | A5! |
 | 171 | 356 | George Nutt |
@@ -182,8 +182,8 @@
 | 174 | 349 | Twisty Cascadezone |
 | 175 | 349 | Rafael Valentin |
 | 176 | 348 | April Rondinone |
-| 177 | 347 | Daria Rycewicz |
-| 178 | 347 | Crystal Nicolette Moore |
+| 177 | 347 | Crystal Nicolette Moore |
+| 178 | 347 | Daria Rycewicz |
 | 179 | 339 | David Lay |
 | 180 | 337 | Andy Cabral |
 | 181 | 334 | Kris Bartlett |

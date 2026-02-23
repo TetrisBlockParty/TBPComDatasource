@@ -111,8 +111,8 @@
 | 103 | 868 | Sarajane Lokan |
 | 104 | 866 | Ebony West-Cundiff |
 | 105 | 860 | Sunny Rotater |
-| 106 | 851 | Jd Morris |
-| 107 | 851 | Danielle Becker |
+| 106 | 851 | Danielle Becker |
+| 107 | 851 | Jd Morris |
 | 108 | 850 | Danielle Mogg |
 | 109 | 848 | Patricia Gadsden |
 | 110 | 831 | Angeline Joseph |
@@ -167,8 +167,8 @@
 | 159 | 591 | Michael Nowogorski |
 | 160 | 588 | Justin Ritter |
 | 161 | 587 | Louise Stacy Sisson |
-| 162 | 585 | Happy Tetriblast |
-| 163 | 585 | Annie Marie |
+| 162 | 585 | Annie Marie |
+| 163 | 585 | Happy Tetriblast |
 | 164 | 582 | Natasha Jones |
 | 165 | 579 | Tasha Gillespie |
 | 166 | 577 | Domo Washington |
@@ -181,8 +181,8 @@
 | 173 | 558 | Patti Skiles |
 | 174 | 556 | Elissa S-k |
 | 175 | 553 | LaTanya GeminiondaRise Johnson |
-| 176 | 546 | Mykal Burton |
-| 177 | 546 | Cynthia Castros-Hampton |
+| 176 | 546 | Cynthia Castros-Hampton |
+| 177 | 546 | Mykal Burton |
 | 178 | 541 | Tasha Schriewer |
 | 179 | 540 | Shawn Miller |
 | 180 | 535 | Jone |
@@ -205,8 +205,8 @@
 | 197 | 489 | Shannon Matthew Byers |
 | 198 | 488 | Melissa Orth Hunter |
 | 199 | 485 | Dapper Snap |
-| 200 | 480 | Michael Johnson |
-| 201 | 480 | Danielle Allison |
+| 200 | 480 | Danielle Allison |
+| 201 | 480 | Michael Johnson |
 | 202 | 475 | Tessina Dewey-Mancino |
 | 203 | 473 | Rachel |
 | 204 | 471 | Connie Mohler-Fair |
