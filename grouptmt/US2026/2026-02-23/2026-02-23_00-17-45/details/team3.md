@@ -201,8 +201,8 @@
 | 193 | 432 | Jenny Hrndz |
 | 194 | 432 | Luciana Braganca Vieira |
 | 195 | 431 | Wendy Dearden |
-| 196 | 430 | Joye Sims Binion |
-| 197 | 430 | Jeni Dow |
+| 196 | 430 | Jeni Dow |
+| 197 | 430 | Joye Sims Binion |
 | 198 | 426 | Rochelle Hazelett |
 | 199 | 423 | Tom Nault |
 | 200 | 422 | Fallorina Susana |
@@ -1005,8 +1005,8 @@
 | 997 | 91 | Taylor Hood |
 | 998 | 91 | Frisky Linkbuilder |
 | 999 | 91 | Cozy Slice |
-| 1000 | 91 | Liendro |
-| 1001 | 91 | Ryze |
+| 1000 | 91 | Ryze |
+| 1001 | 91 | Liendro |
 | 1002 | 90 | Helen |
 | 1003 | 90 | Amanda Brooke |
 | 1004 | 90 | Gloria Holmes |

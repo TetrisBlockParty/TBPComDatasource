@@ -103,8 +103,8 @@
 | 95 | 483 | Jennifer ManWarren |
 | 96 | 480 | cc |
 | 97 | 474 | Tdub |
-| 98 | 472 | Kristen Gideon |
-| 99 | 472 | April Carroll |
+| 98 | 472 | April Carroll |
+| 99 | 472 | Kristen Gideon |
 | 100 | 469 | Tinah Montanna |
 | 101 | 466 | Hasbro Bros |
 | 102 | 462 | Luciano Moreira |
@@ -246,8 +246,8 @@
 | 238 | 238 | Tiffany Smith |
 | 239 | 238 | Sarah Somers Gray |
 | 240 | 235 | Bindi |
-| 241 | 234 | Shanae Grant |
-| 242 | 234 | Paula Martin |
+| 241 | 234 | Paula Martin |
+| 242 | 234 | Shanae Grant |
 | 243 | 233 | LC |
 | 244 | 230 | Michael |
 | 245 | 230 | Flashy Rotator |

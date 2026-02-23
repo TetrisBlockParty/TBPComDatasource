@@ -665,10 +665,10 @@
 | 657 | 453 | Mike Aprilliano |
 | 658 | 453 | Hunter Connors |
 | 659 | 451 | Michelle Pike |
-| 660 | 449 | Saucy Fitzone |
-| 661 | 449 | Kristi Biddinger |
-| 662 | 448 | Anastacio Hernandez |
-| 663 | 448 | Darlene Bowman |
+| 660 | 449 | Kristi Biddinger |
+| 661 | 449 | Saucy Fitzone |
+| 662 | 448 | Darlene Bowman |
+| 663 | 448 | Anastacio Hernandez |
 | 664 | 447 | Boozi |
 | 665 | 446 | Colin Morgan |
 | 666 | 446 | NanDa Cruzan VI |
@@ -761,7 +761,7 @@
 | 753 | 396 | Heather Johnson |
 | 754 | 396 | Cassie Newton |
 | 755 | 395 | Vung Nguyen |
-| 756 | 395 | Heather Johnson |
+| 756 | 395 | Susan Arnburg |
 | 757 | 394 | Christina Jarvis-Swarbrick |
 | 758 | 393 | Jamie West |
 | 759 | 392 | Kevin Sees |

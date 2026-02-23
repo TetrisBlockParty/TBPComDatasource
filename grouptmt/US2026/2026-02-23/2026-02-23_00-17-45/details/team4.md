@@ -82,8 +82,8 @@
 | 74 | 671 | Kimyatta Cavin |
 | 75 | 664 | Valerie Roberts |
 | 76 | 659 | Jonathan Kimbrough |
-| 77 | 647 | Shauna Havard |
-| 78 | 647 | KM8 |
+| 77 | 647 | KM8 |
+| 78 | 647 | Shauna Havard |
 | 79 | 646 | Jacqueline Helm |
 | 80 | 641 | Lisa Davis |
 | 81 | 626 | Brittney Griggs |
@@ -145,8 +145,8 @@
 | 137 | 384 | Lucas J Sutton |
 | 138 | 380 | Swanky Fitline |
 | 139 | 377 | Jessica Bohlken |
-| 140 | 377 | Kristina Black |
-| 141 | 377 | Carrie Brian |
+| 140 | 377 | Carrie Brian |
+| 141 | 377 | Kristina Black |
 | 142 | 376 | Kesha Brady |
 | 143 | 374 | Guy Incognito |
 | 144 | 373 | Joseph Guthrie |
@@ -172,8 +172,8 @@
 | 164 | 329 | Jeff Brian Gates |
 | 165 | 328 | Kris Bartlett |
 | 166 | 324 | jim |
-| 167 | 320 | Lauren Scott |
-| 168 | 320 | TRCuse |
+| 167 | 320 | TRCuse |
+| 168 | 320 | Lauren Scott |
 | 169 | 316 | Meagan Nicole |
 | 170 | 314 | shark tato |
 | 171 | 314 | Andy Cabral |
