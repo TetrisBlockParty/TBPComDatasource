@@ -111,8 +111,8 @@
 | 103 | 831 | Angeline Joseph |
 | 104 | 830 | Stephanie Allmon |
 | 105 | 826 | Shane Wilson Jr. |
-| 106 | 816 | Brenda Lee Vander Molen |
-| 107 | 816 | Araceli Parra |
+| 106 | 816 | Araceli Parra |
+| 107 | 816 | Brenda Lee Vander Molen |
 | 108 | 800 | Lauren Girouard |
 | 109 | 799 | Dolores Falco |
 | 110 | 762 | Speedy Bridger |
@@ -152,17 +152,17 @@
 | 144 | 590 | Santeria Trece Candles |
 | 145 | 589 | Logan Naccarato |
 | 146 | 588 | Justin Ritter |
-| 147 | 585 | Annie Marie |
-| 148 | 585 | Happy Tetriblast |
+| 147 | 585 | Happy Tetriblast |
+| 148 | 585 | Annie Marie |
 | 149 | 582 | Natasha Jones |
 | 150 | 579 | Tasha Gillespie |
 | 151 | 574 | Morgan Martinez |
-| 152 | 572 | Domo Washington |
-| 153 | 572 | CeceGeGe |
+| 152 | 572 | CeceGeGe |
+| 153 | 572 | Domo Washington |
 | 154 | 571 | Nicole Myers |
 | 155 | 568 | Rachael McClain Owens |
-| 156 | 562 | Dave Herzog |
-| 157 | 562 | Louise Stacy Sisson |
+| 156 | 562 | Louise Stacy Sisson |
+| 157 | 562 | Dave Herzog |
 | 158 | 553 | LaTanya GeminiondaRise Johnson |
 | 159 | 549 | Peppy Shifter |
 | 160 | 546 | Cynthia Castros-Hampton |

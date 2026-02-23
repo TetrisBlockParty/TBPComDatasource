@@ -40,8 +40,8 @@
 | 32 | 4199 | Claire Noland |
 | 33 | 4130 | Robert Diddle |
 | 34 | 4128 | Angela Pruitt |
-| 35 | 4120 | Kristen Sceurman |
-| 36 | 4120 | Corrine Hawks Soriano |
+| 35 | 4120 | Corrine Hawks Soriano |
+| 36 | 4120 | Kristen Sceurman |
 | 37 | 4033 | Jill Stroehlein |
 | 38 | 3895 | Nickie Baby |
 | 39 | 3770 | Brittany Alicia |
@@ -137,8 +137,8 @@
 | 129 | 1639 | Karen Martini-Stapleton |
 | 130 | 1632 | Qiana Sanders |
 | 131 | 1631 | Speedy Spinblock |
-| 132 | 1623 | Mr. Street Stack |
-| 133 | 1623 | Rebecca Doughman |
+| 132 | 1623 | Rebecca Doughman |
+| 133 | 1623 | Mr. Street Stack |
 | 134 | 1622 | Mari Ac |
 | 135 | 1614 | Janel Turley-Garner |
 | 136 | 1601 | Ray Ray Prado |
@@ -338,16 +338,16 @@
 | 330 | 832 | Woodys Glass |
 | 331 | 831 | Johnny Yeates |
 | 332 | 826 | Diallo Sparkman |
-| 333 | 824 | Khalil Lowe |
-| 334 | 824 | Danielle Johnson-Chandler |
+| 333 | 824 | Danielle Johnson-Chandler |
+| 334 | 824 | Khalil Lowe |
 | 335 | 823 | Alezandra Smith |
 | 336 | 821 | Angie Bolton Workman |
 | 337 | 821 | Cassie Mercer |
 | 338 | 818 | Lola Contreras |
 | 339 | 818 | Jessica Wayne Cornwall |
 | 340 | 816 | James Simms III |
-| 341 | 812 | Jackie Lucas |
-| 342 | 812 | Samantha Jo |
+| 341 | 812 | Samantha Jo |
+| 342 | 812 | Jackie Lucas |
 | 343 | 808 | Melissa McCall |
 | 344 | 808 | Desire Rice |
 | 345 | 808 | Amber Brion |
@@ -396,8 +396,8 @@
 | 388 | 741 | Jánine Riggs |
 | 389 | 740 | Jerry Tempelmeyer |
 | 390 | 738 | Aimee Campbell |
-| 391 | 737 | Chelle |
-| 392 | 737 | Jeremy Parodi |
+| 391 | 737 | Jeremy Parodi |
+| 392 | 737 | Chelle |
 | 393 | 737 | Ginger |
 | 394 | 732 | Victoria Moore-Smith |
 | 395 | 731 | Allan Wayne Lamia |
