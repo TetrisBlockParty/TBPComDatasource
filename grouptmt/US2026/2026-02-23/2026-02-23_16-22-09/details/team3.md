@@ -123,8 +123,8 @@
 | 115 | 896 | Jesse Olive |
 | 116 | 878 | Shane Wilson Jr. |
 | 117 | 874 | Jessica Pineda-Lopez |
-| 118 | 868 | Sarajane Lokan |
-| 119 | 868 | Felicia Rocha |
+| 118 | 868 | Felicia Rocha |
+| 119 | 868 | Sarajane Lokan |
 | 120 | 864 | Sunny Rotater |
 | 121 | 848 | Patricia Gadsden |
 | 122 | 846 | Kristie |

@@ -316,11 +316,11 @@
 | 308 | 268 | Standia Civil |
 | 309 | 267 | Patty Lavigne Craddock |
 | 310 | 266 | Michelle |
-| 311 | 265 | Flashy Rotator |
-| 312 | 265 | Yahowah |
+| 311 | 265 | Yahowah |
+| 312 | 265 | Flashy Rotator |
 | 313 | 264 | Jenny Gingrich Fuentes |
-| 314 | 263 | Nadine Velardo |
-| 315 | 263 | Sunny Shift |
+| 314 | 263 | Sunny Shift |
+| 315 | 263 | Nadine Velardo |
 | 316 | 262 | Mary Love |
 | 317 | 261 | Brooke Elizabeth Antill |
 | 318 | 261 | Angela Fairbank |

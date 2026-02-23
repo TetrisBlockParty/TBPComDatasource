@@ -265,8 +265,8 @@
 | 257 | 307 | Michele Plunkett |
 | 258 | 306 | mike |
 | 259 | 305 | Brickh4us |
-| 260 | 304 | Joanna |
-| 261 | 304 | Shiny Fit |
+| 260 | 304 | Shiny Fit |
+| 261 | 304 | Joanna |
 | 262 | 304 | Gdiguy |
 | 263 | 303 | blasterB |
 | 264 | 300 | Dana Scott |
@@ -274,12 +274,12 @@
 | 266 | 295 | Lora |
 | 267 | 294 | Calvin Cannon |
 | 268 | 293 | Joeliecea Cobb |
-| 269 | 292 | Angel Raya |
-| 270 | 292 | Epic Curvetile |
-| 271 | 291 | Nubian1 |
-| 272 | 291 | Dizzy Matchzone |
-| 273 | 290 | Plucky Patternblock |
-| 274 | 290 | Rebecca Morris |
+| 269 | 292 | Epic Curvetile |
+| 270 | 292 | Angel Raya |
+| 271 | 291 | Dizzy Matchzone |
+| 272 | 291 | Nubian1 |
+| 273 | 290 | Rebecca Morris |
+| 274 | 290 | Plucky Patternblock |
 | 275 | 290 | Jared Gutwein |
 | 276 | 289 | Juls |
 | 277 | 289 | John Brunetti |
@@ -296,8 +296,8 @@
 | 288 | 276 | Lee Silpe |
 | 289 | 276 | Cynthia Boudreau |
 | 290 | 275 | Kimberlee Jan Beckstead |
-| 291 | 272 | Dennis Bradley |
-| 292 | 272 | Tony Pavelka |
+| 291 | 272 | Tony Pavelka |
+| 292 | 272 | Dennis Bradley |
 | 293 | 271 | Holly |
 | 294 | 270 | 23 |
 | 295 | 269 | Silly SeaWeed |
@@ -589,8 +589,8 @@
 | 581 | 140 | moneybagz |
 | 582 | 140 | Thomas Hettenhaus |
 | 583 | 139 | Groovy Shiftspin |
-| 584 | 139 | Ann G. Carrillo |
-| 585 | 139 | Lynn Marie |
+| 584 | 139 | Lynn Marie |
+| 585 | 139 | Ann G. Carrillo |
 | 586 | 138 | Tammy Lewis |
 | 587 | 137 | April Spoelma |
 | 588 | 137 | Brianna Walker |
@@ -1281,7 +1281,7 @@
 | 1273 | 43 | Charlotte Garczynski |
 | 1274 | 43 | James Yulich |
 | 1275 | 43 | Phanie D |
-| 1276 | 43 | James Yulich |
+| 1276 | 43 | Jazzy Climber |
 | 1277 | 42 | Angela Catalanotto Ericksen |
 | 1278 | 42 | Aleasha Haukenfrers |
 | 1279 | 42 | Barbara Rietzke |
@@ -1499,7 +1499,7 @@
 | 1491 | 26 | Haley Jean |
 | 1492 | 26 | Frothy Twisterfit |
 | 1493 | 26 | evil wonton |
-| 1494 | 26 | Frothy Twisterfit |
+| 1494 | 26 | Nutty Grabber |
 | 1495 | 25 | Nutty Tile |
 | 1496 | 25 | Sarah Lee |
 | 1497 | 25 | LondynsDad Mal O KingKreole |
@@ -1687,8 +1687,8 @@
 | 1679 | 13 | Traiven LF Howard |
 | 1680 | 13 | Chauncy Ramone Martin |
 | 1681 | 13 | Crystal Rodriguez |
-| 1682 | 13 | Chauncy Ramone Martin |
-| 1683 | 12 | Lisa Kohuwsky |
+| 1682 | 13 | Krystal Kirkley Cox |
+| 1683 | 12 | Tiffany Leitzel |
 | 1684 | 12 | Mighty Twistfit |
 | 1685 | 12 | Lisa Kohuwsky |
 | 1686 | 12 | Dez |
