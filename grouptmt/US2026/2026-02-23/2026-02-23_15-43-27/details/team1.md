@@ -46,8 +46,8 @@
 | 38 | 1128 | june october |
 | 39 | 1126 | Tater |
 | 40 | 1122 | Amanda Summey Schoemer |
-| 41 | 1114 | Marianne Louise West |
-| 42 | 1114 | Jayme Sellers |
+| 41 | 1114 | Jayme Sellers |
+| 42 | 1114 | Marianne Louise West |
 | 43 | 1112 | Chipper Gridlock |
 | 44 | 1100 | Derek MF Blakey |
 | 45 | 1092 | Tipsy Column |
@@ -274,12 +274,12 @@
 | 266 | 298 | Sweetts |
 | 267 | 297 | Diane Byrd |
 | 268 | 292 | Clever Cascadepiece |
-| 269 | 290 | Hellsin |
-| 270 | 290 | Tavia |
+| 269 | 290 | Tavia |
+| 270 | 290 | Hellsin |
 | 271 | 289 | Alenoush Karimian |
 | 272 | 288 | Bird Person |
-| 273 | 287 | Larissa Marie Nelson |
-| 274 | 287 | Sir-Franchise Drake |
+| 273 | 287 | Sir-Franchise Drake |
+| 274 | 287 | Larissa Marie Nelson |
 | 275 | 286 | Sarahdactyl |
 | 276 | 286 | Adele Rahman |
 | 277 | 285 | Shanae Grant |
@@ -288,8 +288,8 @@
 | 280 | 283 | Irv |
 | 281 | 283 | Hasty Cascader |
 | 282 | 282 | Timothy Dew |
-| 283 | 280 | Billie Dawn Sparks |
-| 284 | 280 | Наталья Солоид |
+| 283 | 280 | Наталья Солоид |
+| 284 | 280 | Billie Dawn Sparks |
 | 285 | 279 | Chris Dawson |
 | 286 | 277 | Agustin Duarte Orozco |
 | 287 | 277 | Nutty Spinblock |

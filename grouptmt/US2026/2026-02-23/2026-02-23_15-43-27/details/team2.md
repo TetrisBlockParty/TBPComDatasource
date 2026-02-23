@@ -195,8 +195,8 @@
 | 187 | 1532 | Dee |
 | 188 | 1511 | Rosa Franklin |
 | 189 | 1511 | Melissa Penelope Ann Dodge |
-| 190 | 1509 | Whitney Nicole Waterman |
-| 191 | 1509 | Howard Forest |
+| 190 | 1509 | Howard Forest |
+| 191 | 1509 | Whitney Nicole Waterman |
 | 192 | 1507 | Kiok |
 | 193 | 1504 | Hannah Erskine |
 | 194 | 1504 | Tony Lea |
@@ -383,8 +383,8 @@
 | 375 | 907 | Gene Mills |
 | 376 | 907 | Kayla |
 | 377 | 904 | John Bednarik |
-| 378 | 903 | Giggy Blocker |
-| 379 | 903 | Eric Castaneda |
+| 378 | 903 | Eric Castaneda |
+| 379 | 903 | Giggy Blocker |
 | 380 | 902 | Diallo Sparkman |
 | 381 | 899 | Felicia Lynn |
 | 382 | 899 | Patrick Bartlett |

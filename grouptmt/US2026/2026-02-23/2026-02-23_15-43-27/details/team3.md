@@ -139,8 +139,8 @@
 | 131 | 774 | Keith J Oshman Jr. |
 | 132 | 773 | Daira Largen |
 | 133 | 770 | Daryn Elliott |
-| 134 | 764 | Groovy Catcher |
-| 135 | 764 | Hasty Cascadefit |
+| 134 | 764 | Hasty Cascadefit |
+| 135 | 764 | Groovy Catcher |
 | 136 | 762 | Speedy Bridger |
 | 137 | 757 | Fancy Cascader |
 | 138 | 756 | Patty Allen |
@@ -221,8 +221,8 @@
 | 213 | 531 | Chauntee Alfrey-Cardinale |
 | 214 | 530 | Stephanie Blkpep Davidson |
 | 215 | 527 | Tamara Deherrera |
-| 216 | 524 | Terry Jo Jones |
-| 217 | 524 | Shannon Matthew Byers |
+| 216 | 524 | Shannon Matthew Byers |
+| 217 | 524 | Terry Jo Jones |
 | 218 | 524 | Bmo |
 | 219 | 515 | Cozy Snaplink |
 | 220 | 513 | kacihall |
@@ -333,12 +333,12 @@
 | 325 | 352 | LadyTorad |
 | 326 | 351 | Blocked |
 | 327 | 351 | Eon Harris |
-| 328 | 349 | Amanda J. Mcneil-Anderson |
-| 329 | 349 | Num1hater |
+| 328 | 349 | Num1hater |
+| 329 | 349 | Amanda J. Mcneil-Anderson |
 | 330 | 348 | Kelly Wolf |
 | 331 | 348 | Ashley Raines |
-| 332 | 346 | Chummy Rumbler |
-| 333 | 346 | Tiffany Davie |
+| 332 | 346 | Tiffany Davie |
+| 333 | 346 | Chummy Rumbler |
 | 334 | 345 | gremicx |
 | 335 | 345 | victory |
 | 336 | 344 | Beaudie Stroebel |
@@ -406,9 +406,9 @@
 | 398 | 298 | Grams |
 | 399 | 298 | Tay |
 | 400 | 296 | Amy Montz |
-| 401 | 296 | Donna |
-| 402 | 296 | Cheryl Hinch Tenbrook |
-| 403 | 296 | Tracy Martin |
+| 401 | 296 | Cheryl Hinch Tenbrook |
+| 402 | 296 | Tracy Martin |
+| 403 | 296 | Donna |
 | 404 | 295 | Dakota Graham |
 | 405 | 294 | Fancy Curver |
 | 406 | 293 | Loopy Fallzone |
@@ -556,8 +556,8 @@
 | 548 | 225 | sofaking |
 | 549 | 224 | Cranky Corner |
 | 550 | 224 | Christopher Mastropietro |
-| 551 | 223 | Carrie Resler |
-| 552 | 223 | Katie Leigh Blankenship |
+| 551 | 223 | Katie Leigh Blankenship |
+| 552 | 223 | Carrie Resler |
 | 553 | 223 | Jumpy Curvebuilder |
 | 554 | 222 | Janay Darkstallion Robinson |
 | 555 | 222 | Aeh |
