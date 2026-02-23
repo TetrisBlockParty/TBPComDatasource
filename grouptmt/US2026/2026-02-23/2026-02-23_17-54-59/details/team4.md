@@ -353,8 +353,8 @@
 | 345 | 252 | 07VHVW |
 | 346 | 252 | Gracie Ann Taylor |
 | 347 | 251 | Kathy Allen |
-| 348 | 251 | Brittany Little |
-| 349 | 251 | Carol Ricks Raymond |
+| 348 | 251 | Carol Ricks Raymond |
+| 349 | 251 | Brittany Little |
 | 350 | 250 | Stephme310 |
 | 351 | 249 | Ak Jones |
 | 352 | 248 | Chirpy Basepiece |
@@ -420,8 +420,8 @@
 | 412 | 216 | Jen Hallin |
 | 413 | 215 | Tanya Abernathy Jackson |
 | 414 | 215 | Squeezy Pearsall |
-| 415 | 214 | B Renee Desjardin |
-| 416 | 214 | Susan R. Wilson |
+| 415 | 214 | Susan R. Wilson |
+| 416 | 214 | B Renee Desjardin |
 | 417 | 213 | Derick |
 | 418 | 212 | Mike Solo |
 | 419 | 211 | Shiny Pivoty |
@@ -434,8 +434,8 @@
 | 426 | 209 | PennyCandee |
 | 427 | 209 | Matthew Pate |
 | 428 | 208 | Wacky Blockclear |
-| 429 | 207 | Sam Middleton |
-| 430 | 207 | Jessica Wells |
+| 429 | 207 | Jessica Wells |
+| 430 | 207 | Sam Middleton |
 | 431 | 206 | The Murphy |
 | 432 | 206 | Sticherella |
 | 433 | 206 | Lilya Troutman |
@@ -647,14 +647,14 @@
 | 639 | 130 | Gigglelymomof2 |
 | 640 | 130 | KoolMom9907 |
 | 641 | 129 | RIFATSIKDER |
-| 642 | 129 | Tamika Starkey |
-| 643 | 129 | Dreamy Snapgrid |
+| 642 | 129 | Dreamy Snapgrid |
+| 643 | 129 | Tamika Starkey |
 | 644 | 128 | Courtney Angel |
 | 645 | 128 | Lazy Glidepiece |
 | 646 | 128 | Zesty Linkgrid |
 | 647 | 127 | Cranky Glidebuilder |
-| 648 | 127 | Jay You |
-| 649 | 127 | Joe Lonnemann |
+| 648 | 127 | Joe Lonnemann |
+| 649 | 127 | Jay You |
 | 650 | 126 | Spicy Cascadezone |
 | 651 | 126 | Matthew Rodriguez |
 | 652 | 126 | PAPatty |
@@ -1358,8 +1358,8 @@
 | 1350 | 38 | rabbit777 |
 | 1351 | 38 | Ashley Gilland |
 | 1352 | 38 | Alison Welsh |
-| 1353 | 37 | Cool Shatterclear |
-| 1354 | 37 | Sunny68 |
+| 1353 | 37 | Sunny68 |
+| 1354 | 37 | Elaine Hall |
 | 1355 | 37 | Patrick Cossette |
 | 1356 | 37 | Cool Shatterclear |
 | 1357 | 37 | ihunty |

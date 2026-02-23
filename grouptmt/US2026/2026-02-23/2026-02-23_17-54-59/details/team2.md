@@ -420,8 +420,8 @@
 | 412 | 877 | Misti Markijohn |
 | 413 | 876 | Jessicah Myers |
 | 414 | 870 | Joy LaJeunesse |
-| 415 | 869 | BYM4L |
-| 416 | 869 | Venita Ray |
+| 415 | 869 | Venita Ray |
+| 416 | 869 | BYM4L |
 | 417 | 866 | Christina Lewis-Vickers |
 | 418 | 862 | Sarah Massey |
 | 419 | 858 | Lauren Fitzgerald Thomas |
@@ -652,8 +652,8 @@
 | 644 | 623 | Victor Obiakarije |
 | 645 | 622 | Tim Galle |
 | 646 | 621 | Moua Ying |
-| 647 | 621 | Taren Cowan |
-| 648 | 621 | Jessica S Flecha |
+| 647 | 621 | Jessica S Flecha |
+| 648 | 621 | Taren Cowan |
 | 649 | 618 | Marella Petilo |
 | 650 | 617 | Kacee Conrad Bock |
 | 651 | 617 | Biggest thing |

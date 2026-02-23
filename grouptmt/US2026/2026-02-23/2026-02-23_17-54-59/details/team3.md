@@ -132,8 +132,8 @@
 | 124 | 839 | Angeline Joseph |
 | 125 | 837 | mzcatzy |
 | 126 | 836 | Logan Naccarato |
-| 127 | 833 | Crystal Frey |
-| 128 | 833 | Grego Daniel |
+| 127 | 833 | Grego Daniel |
+| 128 | 833 | Crystal Frey |
 | 129 | 820 | Brenda Lee Vander Molen |
 | 130 | 815 | Dolores Falco |
 | 131 | 812 | Speedy Bridger |
@@ -186,8 +186,8 @@
 | 178 | 633 | Joye Sims Binion |
 | 179 | 632 | Morgan Martinez |
 | 180 | 629 | rnr junky |
-| 181 | 621 | Cherry Parker |
-| 182 | 621 | Sashay Tapae Simpson |
+| 181 | 621 | Sashay Tapae Simpson |
+| 182 | 621 | Cherry Parker |
 | 183 | 620 | Rania Zaqout |
 | 184 | 620 | Jacqueline Rodriguez |
 | 185 | 616 | Kammy Hill |

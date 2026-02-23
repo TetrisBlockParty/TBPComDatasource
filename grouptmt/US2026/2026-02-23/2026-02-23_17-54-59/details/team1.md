@@ -215,11 +215,11 @@
 | 207 | 371 | David Lutcher |
 | 208 | 369 | Angela Renea Lester |
 | 209 | 366 | J.F. Fields |
-| 210 | 365 | Shannon Marie Pitts |
-| 211 | 365 | Amanda Holibaugh |
+| 210 | 365 | Amanda Holibaugh |
+| 211 | 365 | Shannon Marie Pitts |
 | 212 | 365 | Jen Nystrom |
-| 213 | 364 | Shauna Loe |
-| 214 | 364 | Serina Marie |
+| 213 | 364 | Serina Marie |
+| 214 | 364 | Shauna Loe |
 | 215 | 362 | Gracie |
 | 216 | 361 | Witty Builderfit |
 | 217 | 360 | Lakeisha Chapman |
@@ -399,9 +399,9 @@
 | 391 | 226 | Alex Nicol |
 | 392 | 225 | Mel Hogan |
 | 393 | 225 | Angela Spann |
-| 394 | 224 | Nate Price |
-| 395 | 224 | Danielle Mae |
-| 396 | 224 | Tipsy Tiltpiece |
+| 394 | 224 | Tipsy Tiltpiece |
+| 395 | 224 | Nate Price |
+| 396 | 224 | Danielle Mae |
 | 397 | 223 | Chase Collinsworth |
 | 398 | 223 | Erez Yosef |
 | 399 | 222 | Debbie Davis |
