@@ -506,8 +506,8 @@
 | 498 | 273 | Michael Latasha Gray |
 | 499 | 272 | Todd Hall |
 | 500 | 271 | Hyper Twisterfit |
-| 501 | 270 | LaNette Morgan |
-| 502 | 270 | Rachel Napper |
+| 501 | 270 | Rachel Napper |
+| 502 | 270 | LaNette Morgan |
 | 503 | 270 | Hyper Bridger |
 | 504 | 269 | Joshua David Huie |
 | 505 | 269 | Tomoe |

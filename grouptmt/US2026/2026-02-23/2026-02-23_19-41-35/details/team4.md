@@ -58,8 +58,8 @@
 | 50 | 1147 | Jae Job |
 | 51 | 1099 | Ashley Ingram |
 | 52 | 1085 | Kimyatta Cavin |
-| 53 | 1082 | Avy Absol |
-| 54 | 1082 | Dawn Alexander |
+| 53 | 1082 | Dawn Alexander |
+| 54 | 1082 | Avy Absol |
 | 55 | 1082 | Dion Crommarty |
 | 56 | 1049 | Heather Tushner |
 | 57 | 1046 | Johnathan Martinez |
@@ -116,8 +116,8 @@
 | 108 | 667 | Amy Suckarieh |
 | 109 | 663 | H.R. Block |
 | 110 | 659 | Jamie Gustafson |
-| 111 | 658 | Girl |
-| 112 | 658 | Zippy Gridlock |
+| 111 | 658 | Zippy Gridlock |
+| 112 | 658 | Girl |
 | 113 | 652 | Leslie Nicole |
 | 114 | 649 | Chris Alexinas |
 | 115 | 647 | KM8 |
@@ -155,11 +155,11 @@
 | 147 | 520 | Zippy Block |
 | 148 | 518 | Carly Alexis |
 | 149 | 516 | Trish |
-| 150 | 514 | Scott Jameson |
-| 151 | 514 | Lucas J Sutton |
+| 150 | 514 | Lucas J Sutton |
+| 151 | 514 | Scott Jameson |
 | 152 | 513 | Erin Thomas |
-| 153 | 512 | Angela Srubar-Norman |
-| 154 | 512 | ThaEviLJeNiuZ |
+| 153 | 512 | ThaEviLJeNiuZ |
+| 154 | 512 | Angela Srubar-Norman |
 | 155 | 512 | Casey Jeffcoat |
 | 156 | 508 | Twisty Clicky |
 | 157 | 502 | Ellen Durfee |
@@ -216,8 +216,8 @@
 | 208 | 411 | Autumn Kumzi |
 | 209 | 408 | April Rondinone |
 | 210 | 400 | Antony Dwayne Beasley |
-| 211 | 399 | Jeff Brian Gates |
-| 212 | 399 | Lindsay Ball |
+| 211 | 399 | Lindsay Ball |
+| 212 | 399 | Jeff Brian Gates |
 | 213 | 398 | Tyler Terrific |
 | 214 | 394 | Nita Wells |
 | 215 | 389 | Joseph Guthrie |
@@ -231,8 +231,8 @@
 | 223 | 379 | Backoff Recupe |
 | 224 | 378 | Silly Zonebuilder |
 | 225 | 378 | Lauren Scott |
-| 226 | 376 | Zesty Twistbuilder |
-| 227 | 376 | shark tato |
+| 226 | 376 | shark tato |
+| 227 | 376 | Zesty Twistbuilder |
 | 228 | 374 | Mr. Party |
 | 229 | 373 | JPW |
 | 230 | 372 | Holly Jolly |
@@ -292,17 +292,17 @@
 | 284 | 306 | PeaceOs |
 | 285 | 304 | Shiny Fit |
 | 286 | 301 | Erin Sabol |
-| 287 | 300 | Dana Scott |
-| 288 | 300 | Kate |
+| 287 | 300 | Kate |
+| 288 | 300 | Dana Scott |
 | 289 | 298 | Chance Strickland |
-| 290 | 297 | Kim Klutz Olson |
-| 291 | 297 | Kenna Gunderland |
+| 290 | 297 | Kenna Gunderland |
+| 291 | 297 | Kim Klutz Olson |
 | 292 | 296 | Vic |
 | 293 | 296 | Sarah Hoffman |
 | 294 | 295 | Blessedmama |
 | 295 | 293 | DonMega |
-| 296 | 292 | Epic Curvetile |
-| 297 | 292 | Angel Raya |
+| 296 | 292 | Angel Raya |
+| 297 | 292 | Epic Curvetile |
 | 298 | 292 | Tracey Lehmann |
 | 299 | 291 | Dizzy Matchzone |
 | 300 | 291 | ZeeZee |
@@ -587,8 +587,8 @@
 | 579 | 157 | David Boggs |
 | 580 | 157 | LunaMoon |
 | 581 | 156 | Nicole McMurray |
-| 582 | 155 | Stormy Tomplait |
-| 583 | 155 | Shirl |
+| 582 | 155 | Shirl |
+| 583 | 155 | Stormy Tomplait |
 | 584 | 155 | Faja |
 | 585 | 154 | Robert Rodriguez |
 | 586 | 154 | Ashley Danielle |
@@ -622,8 +622,8 @@
 | 614 | 144 | Zach Kerbs |
 | 615 | 143 | Sherri |
 | 616 | 142 | GTxIrishman |
-| 617 | 142 | Hyper Matchclear |
-| 618 | 142 | Frank Cook |
+| 617 | 142 | Frank Cook |
+| 618 | 142 | Hyper Matchclear |
 | 619 | 142 | Cheery Lift |
 | 620 | 142 | Peace |
 | 621 | 142 | Katie Linneman-Rowland |

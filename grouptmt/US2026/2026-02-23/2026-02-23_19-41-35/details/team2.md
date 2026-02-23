@@ -378,8 +378,8 @@
 | 370 | 978 | Barry Britt |
 | 371 | 977 | Christina Lewis-Vickers |
 | 372 | 976 | Sam Joe |
-| 373 | 975 | Hyper Cluster |
-| 374 | 975 | Mandi Douglas Hilt |
+| 373 | 975 | Mandi Douglas Hilt |
+| 374 | 975 | Hyper Cluster |
 | 375 | 974 | Boldy Cascadepiece |
 | 376 | 971 | Jojo Momma |
 | 377 | 971 | Tiara Elizabeth Baker |
@@ -421,8 +421,8 @@
 | 413 | 903 | Ashle Scranton |
 | 414 | 903 | Sarah DeHart |
 | 415 | 902 | Felicia Lynn |
-| 416 | 899 | Patrick Bartlett |
-| 417 | 899 | Chevy |
+| 416 | 899 | Chevy |
+| 417 | 899 | Patrick Bartlett |
 | 418 | 898 | Donna M Carter |
 | 419 | 897 | Jamie Schmitt |
 | 420 | 895 | Brenda Utphall |
@@ -3218,7 +3218,7 @@
 | 3210 | 170 | BigWayner |
 | 3211 | 170 | Dez Walker |
 | 3212 | 170 | Jessie Brackett |
-| 3213 | 170 | Holly Hinton |
+| 3213 | 170 | Leontine |
 | 3214 | 170 | Patty |
 | 3215 | 170 | Holly Hinton |
 | 3216 | 170 | James Nicholas |
