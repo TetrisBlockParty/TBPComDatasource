@@ -194,16 +194,16 @@
 | 186 | 300 | Dana Scott |
 | 187 | 300 | Zakia Monae |
 | 188 | 297 | Melvin Baird |
-| 189 | 294 | Lindsay Ball |
-| 190 | 294 | Calvin Cannon |
+| 189 | 294 | Calvin Cannon |
+| 190 | 294 | Lindsay Ball |
 | 191 | 293 | Michele Plunkett |
 | 192 | 293 | Kathy Brookins |
 | 193 | 292 | Epic Curvetile |
 | 194 | 290 | Keshia Lyons |
 | 195 | 288 | Leah Kutz Zirbel |
 | 196 | 287 | Plucky Patternblock |
-| 197 | 286 | Sam Bishop |
-| 198 | 286 | Brittney Orengo |
+| 197 | 286 | Brittney Orengo |
+| 198 | 286 | Sam Bishop |
 | 199 | 282 | Sue Joyce Staats |
 | 200 | 282 | Chris Bernstein |
 | 201 | 281 | Laura |
@@ -230,8 +230,8 @@
 | 222 | 261 | Dihcheese444 |
 | 223 | 259 | Montiette Mcglown |
 | 224 | 258 | April Rondinone |
-| 225 | 257 | Cheery Risebuilder |
-| 226 | 257 | PeaceOs |
+| 225 | 257 | PeaceOs |
+| 226 | 257 | Cheery Risebuilder |
 | 227 | 256 | Mylo Lipscomb |
 | 228 | 252 | Selena Shaw |
 | 229 | 252 | Mr. Party |
@@ -245,16 +245,16 @@
 | 237 | 245 | Autum Leigh |
 | 238 | 245 | Adam Stephanie Parker |
 | 239 | 241 | Allen Lloyd |
-| 240 | 240 | Perky Patternblock |
-| 241 | 240 | Kim Hunt |
+| 240 | 240 | Kim Hunt |
+| 241 | 240 | Perky Patternblock |
 | 242 | 238 | Chaz |
 | 243 | 237 | 030Synner |
 | 244 | 237 | Christine Therrien |
 | 245 | 235 | LaDonna LovinmesomeMe Lambert |
 | 246 | 235 | Shainne Brewer |
 | 247 | 233 | Ruben Wheeler |
-| 248 | 232 | Rio Rocha |
-| 249 | 232 | Joanna |
+| 248 | 232 | Joanna |
+| 249 | 232 | Rio Rocha |
 | 250 | 230 | Jade Rian |
 | 251 | 228 | Antony Dwayne Beasley |
 | 252 | 227 | BigSammy420 |
@@ -287,9 +287,9 @@
 | 279 | 210 | Rebecca Morris |
 | 280 | 209 | Snippy Puzzle |
 | 281 | 208 | Chris Alexinas |
-| 282 | 205 | Stella |
-| 283 | 205 | James Hurley Jr. |
-| 284 | 205 | KayM |
+| 282 | 205 | James Hurley Jr. |
+| 283 | 205 | KayM |
+| 284 | 205 | Stella |
 | 285 | 203 | Katherine Crane |
 | 286 | 202 | Angelito |
 | 287 | 202 | Stephme310 |
@@ -299,8 +299,8 @@
 | 291 | 200 | Googenheim |
 | 292 | 199 | Carter Jones |
 | 293 | 198 | Calvin Dennis |
-| 294 | 197 | Richard-April Kice |
-| 295 | 197 | Gilles Lanctot |
+| 294 | 197 | Gilles Lanctot |
+| 295 | 197 | Richard-April Kice |
 | 296 | 196 | rebel4lyfe |
 | 297 | 195 | 中山成巳 |
 | 298 | 194 | Zany Twisterfit |

@@ -171,8 +171,8 @@
 | 163 | 528 | Cass Mendoza |
 | 164 | 516 | Danielle Balcom |
 | 165 | 512 | Silly Twist |
-| 166 | 506 | Stephanie Blkpep Davidson |
-| 167 | 506 | Sashay Tapae Simpson |
+| 166 | 506 | Sashay Tapae Simpson |
+| 167 | 506 | Stephanie Blkpep Davidson |
 | 168 | 504 | Jennifer Lynn Fahrenholtz-Summers |
 | 169 | 502 | Snappy Balancer |
 | 170 | 501 | Patti Skiles |
@@ -266,8 +266,8 @@
 | 258 | 343 | Ashley Rufus Bythcez |
 | 259 | 341 | Ashley Tookes |
 | 260 | 341 | MsBee |
-| 261 | 339 | Cynthia Herrmann Egland |
-| 262 | 339 | Danielle Weikel |
+| 261 | 339 | Danielle Weikel |
+| 262 | 339 | Cynthia Herrmann Egland |
 | 263 | 338 | Gumbo |
 | 264 | 332 | Velma Mull |
 | 265 | 330 | Brittany |
@@ -302,8 +302,8 @@
 | 294 | 297 | Cheeky Snapper |
 | 295 | 297 | kacihall |
 | 296 | 296 | Donna |
-| 297 | 294 | Betty Bóò |
-| 298 | 294 | fraulila |
+| 297 | 294 | fraulila |
+| 298 | 294 | Betty Bóò |
 | 299 | 291 | Carrie Huskey |
 | 300 | 290 | Cyd061769 |
 | 301 | 289 | DidIdothat |

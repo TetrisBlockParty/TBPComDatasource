@@ -190,8 +190,8 @@
 | 182 | 1294 | Ashley House |
 | 183 | 1292 | Mischelle Clay |
 | 184 | 1286 | Altamirano Michael |
-| 185 | 1282 | Ashley Rose Frederick |
-| 186 | 1282 | Tanya Parsons |
+| 185 | 1282 | Tanya Parsons |
+| 186 | 1282 | Ashley Rose Frederick |
 | 187 | 1277 | Desiree Harris Rosch |
 | 188 | 1257 | Michele Gabriel |
 | 189 | 1243 | Anna Edwards |
@@ -739,8 +739,8 @@
 | 731 | 414 | John |
 | 732 | 414 | Rose Fx |
 | 733 | 413 | Ashley Robbins |
-| 734 | 413 | Catherine Marsh Gruda |
-| 735 | 413 | Kristen O'Neal |
+| 734 | 413 | Kristen O'Neal |
+| 735 | 413 | Catherine Marsh Gruda |
 | 736 | 413 | Moist_B-hole |
 | 737 | 412 | Boogie SoAnimated Johnson |
 | 738 | 412 | Lewis Sturgeon |
