@@ -26,8 +26,8 @@
 | 18 | 1636 | Cassie Michaux |
 | 19 | 1565 | GreenJeepGirl |
 | 20 | 1558 | Leah Gorsuch |
-| 21 | 1536 | Misty Hollibaugh |
-| 22 | 1536 | Roger Coulter |
+| 21 | 1536 | Roger Coulter |
+| 22 | 1536 | Misty Hollibaugh |
 | 23 | 1485 | Juggalo |
 | 24 | 1390 | Sammy Noguera |
 | 25 | 1382 | Tammi Crnza |
@@ -153,8 +153,8 @@
 | 145 | 422 | Zakia Monae |
 | 146 | 421 | JIGsaw ~(•¿°)~ |
 | 147 | 421 | Kesha Brady |
-| 148 | 418 | Marie-Pier Desjardins |
-| 149 | 418 | Lush Linkfall |
+| 148 | 418 | Lush Linkfall |
+| 149 | 418 | Marie-Pier Desjardins |
 | 150 | 416 | Chaz Duncan |
 | 151 | 414 | Swanky Fitline |
 | 152 | 414 | Nope Young |
@@ -224,8 +224,8 @@
 | 216 | 301 | Andria Lynn |
 | 217 | 300 | Dana Scott |
 | 218 | 295 | Keshia Lyons |
-| 219 | 294 | Porkobello |
-| 220 | 294 | Calvin Cannon |
+| 219 | 294 | Calvin Cannon |
+| 220 | 294 | Porkobello |
 | 221 | 292 | Epic Curvetile |
 | 222 | 291 | Nikki Rae Gordon |
 | 223 | 290 | Jared Gutwein |
@@ -239,8 +239,8 @@
 | 231 | 286 | Steph Marie |
 | 232 | 285 | 030Synner |
 | 233 | 284 | Mimi |
-| 234 | 282 | Kim Klutz Olson |
-| 235 | 282 | Matt Gooder |
+| 234 | 282 | Matt Gooder |
+| 235 | 282 | Kim Klutz Olson |
 | 236 | 281 | Laura |
 | 237 | 280 | Rio Rocha |
 | 238 | 279 | Malakai Darien Fox |
@@ -250,8 +250,8 @@
 | 242 | 276 | Matt Dell'Olio |
 | 243 | 275 | Kimberlee Jan Beckstead |
 | 244 | 273 | Cranky Rollpiece |
-| 245 | 272 | Alan George LaRage |
-| 246 | 272 | Dennis Bradley |
+| 245 | 272 | Dennis Bradley |
+| 246 | 272 | Alan George LaRage |
 | 247 | 271 | Holly |
 | 248 | 270 | Jen Caldwell |
 | 249 | 266 | Nubian1 |
@@ -355,8 +355,8 @@
 | 347 | 200 | Googenheim |
 | 348 | 198 | Calvin Dennis |
 | 349 | 197 | Shiny Fit |
-| 350 | 196 | Blessedmama |
-| 351 | 196 | Megan Cutshaw |
+| 350 | 196 | Megan Cutshaw |
+| 351 | 196 | Blessedmama |
 | 352 | 195 | Dustin York |
 | 353 | 194 | SammieJo Guy |
 | 354 | 194 | Zany Twisterfit |
@@ -370,7 +370,7 @@
 | 362 | 190 | Hyper Builder |
 | 363 | 189 | Berklie Apedaile |
 | 364 | 189 | Lauren Lamb |
-| 365 | 189 | Berklie Apedaile |
+| 365 | 189 | Cool Towerbuilder |
 | 366 | 188 | Sharyn Lemire |
 | 367 | 187 | Cozy Balancer |
 | 368 | 187 | Jenny Wells-Oakley |
@@ -431,10 +431,10 @@
 | 423 | 169 | Dante Korleon |
 | 424 | 169 | Duck |
 | 425 | 169 | Jessica Atkinson |
-| 426 | 167 | Snippy Clearer |
-| 427 | 167 | Tyler Bechtel |
-| 428 | 167 | Carla Harris |
-| 429 | 167 | Tipsy Cascader |
+| 426 | 167 | Carla Harris |
+| 427 | 167 | Snippy Clearer |
+| 428 | 167 | Tipsy Cascader |
+| 429 | 167 | Tyler Bechtel |
 | 430 | 166 | Gracie Ann Taylor |
 | 431 | 166 | Reds Bella |
 | 432 | 165 | Joshua Cuellar |

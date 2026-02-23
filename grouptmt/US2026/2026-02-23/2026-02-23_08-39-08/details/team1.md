@@ -114,8 +114,8 @@
 | 106 | 491 | cc |
 | 107 | 489 | April Carroll |
 | 108 | 489 | Deanna L Hermanson |
-| 109 | 483 | Tdub |
-| 110 | 483 | Trina Gee |
+| 109 | 483 | Trina Gee |
+| 110 | 483 | Tdub |
 | 111 | 480 | Ty Brown |
 | 112 | 478 | Stephanie Zahn |
 | 113 | 464 | Lori Sanders- Davis |
@@ -138,8 +138,8 @@
 | 130 | 429 | Kristi Johnson |
 | 131 | 428 | Ly Phethmany |
 | 132 | 426 | Maria C. Hernandez |
-| 133 | 425 | Dandy Basegrid |
-| 134 | 425 | Tyler Werts |
+| 133 | 425 | Tyler Werts |
+| 134 | 425 | Dandy Basegrid |
 | 135 | 423 | ALFD |
 | 136 | 417 | Phu ckalldems |
 | 137 | 411 | BadG52 |
@@ -193,8 +193,8 @@
 | 185 | 341 | Nick R Montague |
 | 186 | 339 | Nicole Roseberry Weber |
 | 187 | 338 | Jennifer Hardman |
-| 188 | 337 | Constance Risner |
-| 189 | 337 | Jamise Brown |
+| 188 | 337 | Jamise Brown |
+| 189 | 337 | Constance Risner |
 | 190 | 336 | Dizzy Party |
 | 191 | 333 | Gracie |
 | 192 | 333 | Virginia Gray Floyd |
@@ -210,8 +210,8 @@
 | 202 | 317 | Sarah Roberts |
 | 203 | 316 | Reesey Enyart |
 | 204 | 315 | Danielle Little-Daugherty |
-| 205 | 314 | Tana |
-| 206 | 314 | Snippy Wipebuilder |
+| 205 | 314 | Snippy Wipebuilder |
+| 206 | 314 | Tana |
 | 207 | 312 | Jessi Sauer |
 | 208 | 312 | Tiger Lily |
 | 209 | 310 | Bloknboy |
@@ -219,11 +219,11 @@
 | 211 | 307 | femmefatale |
 | 212 | 306 | Angela Renea Lester |
 | 213 | 304 | Sarah Somers Gray |
-| 214 | 301 | Damon J. Martin |
-| 215 | 301 | Cody Gates |
+| 214 | 301 | Cody Gates |
+| 215 | 301 | Damon J. Martin |
 | 216 | 300 | Sleepysloath5745 |
-| 217 | 298 | Billie Ann Eason |
-| 218 | 298 | Sweetts |
+| 217 | 298 | Sweetts |
+| 218 | 298 | Billie Ann Eason |
 | 219 | 295 | Lakeisha Chapman |
 | 220 | 294 | Chuck Gannon |
 | 221 | 294 | Bindi |
@@ -293,7 +293,7 @@
 | 285 | 234 | Paula Martin |
 | 286 | 233 | Shiny Gridmatch |
 | 287 | 233 | Tipsy Riseclear |
-| 288 | 233 | Shiny Gridmatch |
+| 288 | 233 | Melissa Bires Hussar |
 | 289 | 232 | Thorne Shumate |
 | 290 | 230 | Layzietyme |
 | 291 | 230 | Flashy Rotator |
