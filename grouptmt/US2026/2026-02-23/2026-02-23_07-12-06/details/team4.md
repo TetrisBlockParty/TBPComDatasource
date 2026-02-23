@@ -26,8 +26,8 @@
 | 18 | 1636 | Cassie Michaux |
 | 19 | 1565 | GreenJeepGirl |
 | 20 | 1558 | Leah Gorsuch |
-| 21 | 1536 | Misty Hollibaugh |
-| 22 | 1536 | Roger Coulter |
+| 21 | 1536 | Roger Coulter |
+| 22 | 1536 | Misty Hollibaugh |
 | 23 | 1485 | Juggalo |
 | 24 | 1390 | Sammy Noguera |
 | 25 | 1382 | Tammi Crnza |
@@ -74,10 +74,10 @@
 | 66 | 781 | Chilly Line |
 | 67 | 767 | Shannon Ferrari |
 | 68 | 766 | Robin Watters |
-| 69 | 765 | Robin Getchel |
-| 70 | 765 | Denise Carlson |
-| 71 | 752 | Shane Kalamata Platoon |
-| 72 | 752 | loulou |
+| 69 | 765 | Denise Carlson |
+| 70 | 765 | Robin Getchel |
+| 71 | 752 | loulou |
+| 72 | 752 | Shane Kalamata Platoon |
 | 73 | 749 | Dustee Craddock-Harrison |
 | 74 | 742 | Carolyn Wallace |
 | 75 | 740 | Avy Absol |
@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Jonathan Kimbrough |
-| 84 | 684 | Kimyatta Cavin |
+| 83 | 684 | Kimyatta Cavin |
+| 84 | 684 | Jonathan Kimbrough |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | Shauna Havard |
-| 93 | 647 | KM8 |
+| 92 | 647 | KM8 |
+| 93 | 647 | Shauna Havard |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -160,8 +160,8 @@
 | 152 | 406 | Livvy |
 | 153 | 406 | Damn Libra |
 | 154 | 398 | Tyler Terrific |
-| 155 | 393 | Girl |
-| 156 | 393 | Carlton Unfiltered |
+| 155 | 393 | Carlton Unfiltered |
+| 156 | 393 | Girl |
 | 157 | 391 | Ramel Rhodes |
 | 158 | 389 | Joseph Guthrie |
 | 159 | 388 | Andy Cabral |
@@ -219,8 +219,8 @@
 | 211 | 300 | Dana Scott |
 | 212 | 300 | Zakia Monae |
 | 213 | 295 | Keshia Lyons |
-| 214 | 294 | Calvin Cannon |
-| 215 | 294 | Porkobello |
+| 214 | 294 | Porkobello |
+| 215 | 294 | Calvin Cannon |
 | 216 | 292 | Epic Curvetile |
 | 217 | 291 | Nikki Rae Gordon |
 | 218 | 290 | Rebecca Morris |
@@ -228,8 +228,8 @@
 | 220 | 290 | Plucky Patternblock |
 | 221 | 288 | Adam Stephanie Parker |
 | 222 | 288 | Leah Kutz Zirbel |
-| 223 | 288 | Zesty Twistbuilder |
-| 224 | 288 | Brittney Orengo |
+| 223 | 288 | Brittney Orengo |
+| 224 | 288 | Zesty Twistbuilder |
 | 225 | 286 | Steph Marie |
 | 226 | 285 | 030Synner |
 | 227 | 284 | Mimi |

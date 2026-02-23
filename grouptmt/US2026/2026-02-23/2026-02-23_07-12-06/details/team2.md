@@ -218,8 +218,8 @@
 | 210 | 1245 | Cody Nishimura |
 | 211 | 1240 | Brandon Armstrong |
 | 212 | 1237 | Megan Ferguson Leone |
-| 213 | 1232 | Ambyre Patterson |
-| 214 | 1232 | Groovy Puzzle |
+| 213 | 1232 | Groovy Puzzle |
+| 214 | 1232 | Ambyre Patterson |
 | 215 | 1230 | Megan Garrick |
 | 216 | 1221 | Jane Fong |
 | 217 | 1217 | Brooks Brooks |
@@ -478,8 +478,8 @@
 | 470 | 693 | Ryan Stadel |
 | 471 | 692 | Shaun Church |
 | 472 | 691 | Poldo Ilano |
-| 473 | 691 | Samuel Macon |
-| 474 | 691 | Arwa Fatimah |
+| 473 | 691 | Arwa Fatimah |
+| 474 | 691 | Samuel Macon |
 | 475 | 689 | Gauri Shrotriya |
 | 476 | 686 | Christine Coughlin |
 | 477 | 684 | Sarah DeHart |
@@ -563,12 +563,12 @@
 | 555 | 604 | Rae Rae |
 | 556 | 603 | Casper The Chonk |
 | 557 | 602 | Stephanie Sul |
-| 558 | 601 | Moua Ying |
-| 559 | 601 | Daniel Amos |
+| 558 | 601 | Daniel Amos |
+| 559 | 601 | Moua Ying |
 | 560 | 599 | Marella Petilo |
 | 561 | 598 | Leah Keesling |
-| 562 | 597 | Jamie Schmitt |
-| 563 | 597 | Magic steve |
+| 562 | 597 | Magic steve |
+| 563 | 597 | Jamie Schmitt |
 | 564 | 596 | Davetta Sanford |
 | 565 | 595 | Tracy Wise |
 | 566 | 595 | Dapper Dasher |
@@ -580,8 +580,8 @@
 | 572 | 589 | Kelly Templeton |
 | 573 | 588 | Kitybox |
 | 574 | 587 | Ben Barkley |
-| 575 | 585 | Jessica Lamb |
-| 576 | 585 | Sarah Berger |
+| 575 | 585 | Sarah Berger |
+| 576 | 585 | Jessica Lamb |
 | 577 | 584 | Daniell Martinez |
 | 578 | 583 | AISlop |
 | 579 | 583 | Koa N Sharon Chen |
@@ -1246,8 +1246,8 @@
 | 1238 | 301 | Charles E Mccardell |
 | 1239 | 301 | Hopeanna |
 | 1240 | 300 | Mordoks Pyrography |
-| 1241 | 300 | Aprill Bolton |
-| 1242 | 300 | Christina Benson Thacker |
+| 1241 | 300 | Christina Benson Thacker |
+| 1242 | 300 | Aprill Bolton |
 | 1243 | 300 | Warren Marleau |
 | 1244 | 299 | Bold Clusterfit |
 | 1245 | 299 | Tanisha Virgo |
