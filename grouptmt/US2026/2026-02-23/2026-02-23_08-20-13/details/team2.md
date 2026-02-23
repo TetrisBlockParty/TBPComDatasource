@@ -576,8 +576,8 @@
 | 568 | 601 | Daniel Amos |
 | 569 | 601 | Moua Ying |
 | 570 | 598 | Leah Keesling |
-| 571 | 597 | Magic steve |
-| 572 | 597 | Jamie Schmitt |
+| 571 | 597 | Jamie Schmitt |
+| 572 | 597 | Magic steve |
 | 573 | 596 | Davetta Sanford |
 | 574 | 595 | Tracy Wise |
 | 575 | 595 | Dapper Dasher |

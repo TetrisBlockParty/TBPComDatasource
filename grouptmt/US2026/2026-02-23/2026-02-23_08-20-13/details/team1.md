@@ -251,8 +251,8 @@
 | 243 | 272 | Barrbaric |
 | 244 | 272 | Tawnya Peltonen |
 | 245 | 271 | Frothy Pattern |
-| 246 | 270 | Brenda Alexander |
-| 247 | 270 | Debbie Kane |
+| 246 | 270 | Debbie Kane |
+| 247 | 270 | Brenda Alexander |
 | 248 | 268 | Standia Civil |
 | 249 | 267 | Eric DeSimone |
 | 250 | 267 | Daring Fitclear |
@@ -557,8 +557,8 @@
 | 549 | 134 | Angela Rena Brooks |
 | 550 | 133 | MayMay Echevarria |
 | 551 | 133 | Jason Cox |
-| 552 | 132 | Angela Ellyson |
-| 553 | 132 | Mary Love |
+| 552 | 132 | Mary Love |
+| 553 | 132 | Angela Ellyson |
 | 554 | 131 | Garrett Burket |
 | 555 | 131 | Matt Cinelli |
 | 556 | 131 | Spencer Lent |

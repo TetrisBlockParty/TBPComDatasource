@@ -26,8 +26,8 @@
 | 18 | 1636 | Cassie Michaux |
 | 19 | 1565 | GreenJeepGirl |
 | 20 | 1558 | Leah Gorsuch |
-| 21 | 1536 | Roger Coulter |
-| 22 | 1536 | Misty Hollibaugh |
+| 21 | 1536 | Misty Hollibaugh |
+| 22 | 1536 | Roger Coulter |
 | 23 | 1485 | Juggalo |
 | 24 | 1390 | Sammy Noguera |
 | 25 | 1382 | Tammi Crnza |
@@ -66,8 +66,8 @@
 | 58 | 846 | Christine Marie |
 | 59 | 845 | LisaJo Picken Buchanan |
 | 60 | 834 | quicksand420 |
-| 61 | 807 | Rachel Anne |
-| 62 | 807 | Amelpss |
+| 61 | 807 | Amelpss |
+| 62 | 807 | Rachel Anne |
 | 63 | 788 | Julian Garcia |
 | 64 | 787 | Edward White |
 | 65 | 783 | Ashley Ingram |
@@ -460,8 +460,8 @@
 | 452 | 159 | Stacy |
 | 453 | 158 | Dapper Frame |
 | 454 | 158 | Jasmine S Caldwell |
-| 455 | 157 | LunaMoon |
-| 456 | 157 | Ryry |
+| 455 | 157 | Ryry |
+| 456 | 157 | LunaMoon |
 | 457 | 157 | David Boggs |
 | 458 | 156 | Mighty Edgepiece |
 | 459 | 156 | Funky Risepiece |

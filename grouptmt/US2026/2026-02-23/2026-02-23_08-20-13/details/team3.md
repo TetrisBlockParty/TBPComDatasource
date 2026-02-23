@@ -121,8 +121,8 @@
 | 113 | 831 | Angeline Joseph |
 | 114 | 830 | Stephanie Allmon |
 | 115 | 826 | Shane Wilson Jr. |
-| 116 | 816 | Jesse Olive |
-| 117 | 816 | Brenda Lee Vander Molen |
+| 116 | 816 | Brenda Lee Vander Molen |
+| 117 | 816 | Jesse Olive |
 | 118 | 802 | Bobbi Moore |
 | 119 | 800 | Lauren Girouard |
 | 120 | 799 | Dolores Falco |
@@ -130,8 +130,8 @@
 | 122 | 769 | Kristie |
 | 123 | 764 | Groovy Catcher |
 | 124 | 762 | Speedy Bridger |
-| 125 | 755 | Katrina Schroeder |
-| 126 | 755 | Raya |
+| 125 | 755 | Raya |
+| 126 | 755 | Katrina Schroeder |
 | 127 | 752 | Logan Naccarato |
 | 128 | 748 | Adrian Marcel Pate |
 | 129 | 745 | JerseyJess |
@@ -196,8 +196,8 @@
 | 188 | 546 | Cynthia Castros-Hampton |
 | 189 | 546 | Mykal Burton |
 | 190 | 540 | Shawn Miller |
-| 191 | 531 | Sarah Cowan Burgos |
-| 192 | 531 | Chauntee Alfrey-Cardinale |
+| 191 | 531 | Chauntee Alfrey-Cardinale |
+| 192 | 531 | Sarah Cowan Burgos |
 | 193 | 528 | Silly Twist |
 | 194 | 525 | Stephanie Blkpep Davidson |
 | 195 | 524 | Bmo |
@@ -218,13 +218,13 @@
 | 210 | 480 | Michael Johnson |
 | 211 | 477 | Edwin Calvillo Jr. |
 | 212 | 475 | Tessina Dewey-Mancino |
-| 213 | 473 | Connie Mohler-Fair |
-| 214 | 473 | Rachel |
+| 213 | 473 | Rachel |
+| 214 | 473 | Connie Mohler-Fair |
 | 215 | 471 | Mendoza Lee Christy |
 | 216 | 467 | Sherry Ogden |
 | 217 | 465 | Annie Déè |
-| 218 | 464 | Shunta Jacobs |
-| 219 | 464 | Danielle Weikel |
+| 218 | 464 | Danielle Weikel |
+| 219 | 464 | Shunta Jacobs |
 | 220 | 461 | Tom Nault |
 | 221 | 458 | Danielle Rhoades |
 | 222 | 454 | Joye Sims Binion |
@@ -346,8 +346,8 @@
 | 338 | 299 | TotoCherue |
 | 339 | 299 | Angie Harper |
 | 340 | 299 | Hasty Gridpiece |
-| 341 | 298 | Grams |
-| 342 | 298 | Dannie Litchard |
+| 341 | 298 | Dannie Litchard |
+| 342 | 298 | Grams |
 | 343 | 297 | kacihall |
 | 344 | 296 | Donna |
 | 345 | 296 | Tracy Martin |
@@ -364,8 +364,8 @@
 | 356 | 287 | Hoppy Patternline |
 | 357 | 284 | Hanna Kim |
 | 358 | 283 | Kaycee Kay |
-| 359 | 280 | ROODBOY |
-| 360 | 280 | Aerian Preston |
+| 359 | 280 | Aerian Preston |
+| 360 | 280 | ROODBOY |
 | 361 | 280 | Dirtgirl27 |
 | 362 | 279 | Tosha Griffey |
 | 363 | 279 | Naur |
@@ -428,8 +428,8 @@
 | 420 | 250 | Eric Caccavale |
 | 421 | 249 | Willow |
 | 422 | 248 | Brian Battjes |
-| 423 | 247 | Jessica |
-| 424 | 247 | Kevin Russell |
+| 423 | 247 | Kevin Russell |
+| 424 | 247 | Jessica |
 | 425 | 245 | LaNette Morgan |
 | 426 | 245 | Latoya Mayne |
 | 427 | 244 | Lys |
@@ -592,7 +592,7 @@
 | 584 | 184 | Shanon R Jackson |
 | 585 | 184 | Christian Luna |
 | 586 | 184 | Barb Wensink Johnson |
-| 587 | 183 | Scott Doss |
+| 587 | 183 | Mel Murr |
 | 588 | 183 | AC Yeater |
 | 589 | 183 | Scott Doss |
 | 590 | 183 | Snarky McFace |
