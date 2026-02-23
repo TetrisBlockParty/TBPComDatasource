@@ -117,8 +117,8 @@
 | 109 | 831 | Angeline Joseph |
 | 110 | 830 | Stephanie Allmon |
 | 111 | 826 | Shane Wilson Jr. |
-| 112 | 816 | Jesse Olive |
-| 113 | 816 | Brenda Lee Vander Molen |
+| 112 | 816 | Brenda Lee Vander Molen |
+| 113 | 816 | Jesse Olive |
 | 114 | 800 | Lauren Girouard |
 | 115 | 799 | Dolores Falco |
 | 116 | 769 | Kristie |
@@ -179,8 +179,8 @@
 | 171 | 558 | Patti Skiles |
 | 172 | 556 | Elissa S-k |
 | 173 | 553 | LaTanya GeminiondaRise Johnson |
-| 174 | 546 | Mykal Burton |
-| 175 | 546 | Cynthia Castros-Hampton |
+| 174 | 546 | Cynthia Castros-Hampton |
+| 175 | 546 | Mykal Burton |
 | 176 | 541 | Tasha Schriewer |
 | 177 | 540 | Shawn Miller |
 | 178 | 535 | Jone |
@@ -195,8 +195,8 @@
 | 187 | 507 | Jim Mathews |
 | 188 | 502 | Snappy Balancer |
 | 189 | 500 | Sherika C. McDaniels |
-| 190 | 496 | Makelini Mausia |
-| 191 | 496 | Loopy Fallmatch |
+| 190 | 496 | Loopy Fallmatch |
+| 191 | 496 | Makelini Mausia |
 | 192 | 494 | FuzzyNavel |
 | 193 | 489 | Shannon Matthew Byers |
 | 194 | 489 | Poppy Splitter |
@@ -235,8 +235,8 @@
 | 227 | 408 | Tiffany Ford |
 | 228 | 406 | Kristal C Lee |
 | 229 | 404 | Chasity |
-| 230 | 403 | Scott Lindsay |
-| 231 | 403 | Denita Mungro |
+| 230 | 403 | Denita Mungro |
+| 231 | 403 | Scott Lindsay |
 | 232 | 399 | Rebecca Funderburk Kirby |
 | 233 | 391 | Nicole Flippo |
 | 234 | 391 | RickyG |
@@ -466,7 +466,7 @@
 | 458 | 221 | Emma |
 | 459 | 221 | BŘŰŤİÇŨŚ |
 | 460 | 221 | Bleu Sun Beams |
-| 461 | 221 | Emma |
+| 461 | 221 | Vaners |
 | 462 | 221 | Glitzy Rotate |
 | 463 | 219 | Trice Thomas |
 | 464 | 218 | Andrew Thorson |
@@ -514,8 +514,8 @@
 | 506 | 200 | glichmod |
 | 507 | 200 | Christina Marie Swisher |
 | 508 | 199 | Cheeky Setter |
-| 509 | 198 | Zac Hudak |
-| 510 | 198 | Jodi Kaczynski-O'Dowd |
+| 509 | 198 | Jodi Kaczynski-O'Dowd |
+| 510 | 198 | Zac Hudak |
 | 511 | 198 | joz |
 | 512 | 197 | Shania Vaine |
 | 513 | 197 | BabyTonj Evans |

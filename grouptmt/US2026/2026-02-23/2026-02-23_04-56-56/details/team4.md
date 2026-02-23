@@ -79,16 +79,16 @@
 | 71 | 749 | Dustee Craddock-Harrison |
 | 72 | 742 | Carolyn Wallace |
 | 73 | 740 | Avy Absol |
-| 74 | 736 | Crystal Carroll |
-| 75 | 736 | Goatimus Lombardi |
+| 74 | 736 | Goatimus Lombardi |
+| 75 | 736 | Crystal Carroll |
 | 76 | 721 | TheNeesh50 |
 | 77 | 717 | D3TROITB0RN74 |
 | 78 | 706 | Lisa Davis |
 | 79 | 703 | Savannah Overdorf |
 | 80 | 697 | Alyssa Papen |
 | 81 | 696 | Shane Kalamata Platoon |
-| 82 | 684 | Kimyatta Cavin |
-| 83 | 684 | Jonathan Kimbrough |
+| 82 | 684 | Jonathan Kimbrough |
+| 83 | 684 | Kimyatta Cavin |
 | 84 | 677 | Trista Leah |
 | 85 | 673 | Jacqueline Helm |
 | 86 | 670 | Destiney Carter |
@@ -182,8 +182,8 @@
 | 174 | 349 | Twisty Cascadezone |
 | 175 | 349 | Rafael Valentin |
 | 176 | 348 | April Rondinone |
-| 177 | 347 | Daria Rycewicz |
-| 178 | 347 | Crystal Nicolette Moore |
+| 177 | 347 | Crystal Nicolette Moore |
+| 178 | 347 | Daria Rycewicz |
 | 179 | 339 | David Lay |
 | 180 | 334 | Kris Bartlett |
 | 181 | 333 | shark tato |
@@ -212,8 +212,8 @@
 | 204 | 300 | Dihcheese444 |
 | 205 | 300 | Zakia Monae |
 | 206 | 295 | Keshia Lyons |
-| 207 | 294 | Calvin Cannon |
-| 208 | 294 | Porkobello |
+| 207 | 294 | Porkobello |
+| 208 | 294 | Calvin Cannon |
 | 209 | 292 | Epic Curvetile |
 | 210 | 290 | Jared Gutwein |
 | 211 | 290 | Plucky Patternblock |
@@ -224,10 +224,10 @@
 | 216 | 286 | Sam Bishop |
 | 217 | 285 | 030Synner |
 | 218 | 284 | Mimi |
-| 219 | 282 | Matt Gooder |
-| 220 | 282 | Kim Klutz Olson |
-| 221 | 281 | Nikki Rae Gordon |
-| 222 | 281 | Laura |
+| 219 | 282 | Kim Klutz Olson |
+| 220 | 282 | Matt Gooder |
+| 221 | 281 | Laura |
+| 222 | 281 | Nikki Rae Gordon |
 | 223 | 278 | Angela Geist Jusinski |
 | 224 | 278 | Sarah Brown |
 | 225 | 276 | Joeliecea Cobb |
@@ -241,15 +241,15 @@
 | 233 | 270 | Juls |
 | 234 | 267 | JPW |
 | 235 | 266 | Mr. Party |
-| 236 | 265 | Silly SeaWeed |
-| 237 | 265 | Sarah Neathery |
+| 236 | 265 | Sarah Neathery |
+| 237 | 265 | Silly SeaWeed |
 | 238 | 264 | Stella |
 | 239 | 262 | BigSammy420 |
 | 240 | 262 | Selena Shaw |
 | 241 | 260 | Rio Rocha |
 | 242 | 260 | Carter Jones |
-| 243 | 259 | Montiette Mcglown |
-| 244 | 259 | Allen Lloyd |
+| 243 | 259 | Allen Lloyd |
+| 244 | 259 | Montiette Mcglown |
 | 245 | 257 | PeaceOs |
 | 246 | 256 | Mylo Lipscomb |
 | 247 | 256 | Metsfan |

@@ -44,8 +44,8 @@
 | 36 | 4199 | Claire Noland |
 | 37 | 4128 | Angela Pruitt |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Corrine Hawks Soriano |
-| 40 | 4120 | Kristen Sceurman |
+| 39 | 4120 | Kristen Sceurman |
+| 40 | 4120 | Corrine Hawks Soriano |
 | 41 | 3778 | Brittany Alicia |
 | 42 | 3736 | Alisha |
 | 43 | 3723 | Sam Smith |
@@ -273,8 +273,8 @@
 | 265 | 1047 | Dany Murillo |
 | 266 | 1045 | Bri Lynn |
 | 267 | 1045 | Lourisha |
-| 268 | 1043 | nikki |
-| 269 | 1043 | Brave Dropmatch |
+| 268 | 1043 | Brave Dropmatch |
+| 269 | 1043 | nikki |
 | 270 | 1036 | Amber Shoemaker |
 | 271 | 1036 | Allison Lockyer |
 | 272 | 1026 | Kristin Gower |
@@ -404,10 +404,10 @@
 | 396 | 767 | Fancy Twister |
 | 397 | 763 | Dreamy Blast |
 | 398 | 763 | Heather Causey |
-| 399 | 760 | Andrew Willis |
-| 400 | 760 | Cheech Dta |
-| 401 | 758 | Quirky Twistline |
-| 402 | 758 | Stephanie Neuburger |
+| 399 | 760 | Cheech Dta |
+| 400 | 760 | Andrew Willis |
+| 401 | 758 | Stephanie Neuburger |
+| 402 | 758 | Quirky Twistline |
 | 403 | 756 | Kiely Tomaskovich |
 | 404 | 755 | Taryece Gause |
 | 405 | 754 | Crystie Hicks |
@@ -486,8 +486,8 @@
 | 478 | 670 | Christine Bollig |
 | 479 | 668 | Gloria Ininahazwe |
 | 480 | 667 | Rhonda Milstead |
-| 481 | 666 | Alex Dungo Hoang |
-| 482 | 666 | Aishah Brice |
+| 481 | 666 | Aishah Brice |
+| 482 | 666 | Alex Dungo Hoang |
 | 483 | 665 | Prette Qui |
 | 484 | 664 | Sleepypanda67 |
 | 485 | 663 | Nicky Jackson |

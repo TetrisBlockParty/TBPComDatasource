@@ -85,8 +85,8 @@
 | 77 | 646 | Susanna Guerry |
 | 78 | 612 | Hasbro Bros |
 | 79 | 599 | Cynthia Bradley |
-| 80 | 598 | Erin Hodges Plumb |
-| 81 | 598 | Kellie |
+| 80 | 598 | Kellie |
+| 81 | 598 | Erin Hodges Plumb |
 | 82 | 597 | Evie Khalil |
 | 83 | 588 | Greg Hart |
 | 84 | 584 | Jen Sartain |
@@ -134,8 +134,8 @@
 | 126 | 425 | Dandy Basegrid |
 | 127 | 417 | Lori Sanders- Davis |
 | 128 | 411 | BadG52 |
-| 129 | 409 | Sweet Baker |
-| 130 | 409 | Goose egg |
+| 129 | 409 | Goose egg |
+| 130 | 409 | Sweet Baker |
 | 131 | 406 | Desiree Deschaine Havee |
 | 132 | 406 | Candy Jones |
 | 133 | 403 | Rachael |
@@ -145,8 +145,8 @@
 | 137 | 392 | And |
 | 138 | 389 | David Miller |
 | 139 | 388 | Fmp |
-| 140 | 387 | Ananda Mendez |
-| 141 | 387 | Monica Donato |
+| 140 | 387 | Monica Donato |
+| 141 | 387 | Ananda Mendez |
 | 142 | 387 | Emily Adelaide Wheatley |
 | 143 | 383 | Margo Wagner |
 | 144 | 383 | pjbeta |
