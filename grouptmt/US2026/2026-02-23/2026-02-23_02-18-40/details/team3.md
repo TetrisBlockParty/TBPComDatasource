@@ -161,8 +161,8 @@
 | 153 | 572 | Domo Washington |
 | 154 | 571 | Nicole Myers |
 | 155 | 568 | Rachael McClain Owens |
-| 156 | 562 | Louise Stacy Sisson |
-| 157 | 562 | Dave Herzog |
+| 156 | 562 | Dave Herzog |
+| 157 | 562 | Louise Stacy Sisson |
 | 158 | 558 | Peppy Shifter |
 | 159 | 553 | LaTanya GeminiondaRise Johnson |
 | 160 | 546 | Cynthia Castros-Hampton |

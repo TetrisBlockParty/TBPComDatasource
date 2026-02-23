@@ -78,8 +78,8 @@
 | 70 | 739 | Avy Absol |
 | 71 | 736 | Goatimus Lombardi |
 | 72 | 725 | Denise Carlson |
-| 73 | 704 | Crystal Carroll |
-| 74 | 704 | D3TROITB0RN74 |
+| 73 | 704 | D3TROITB0RN74 |
+| 74 | 704 | Crystal Carroll |
 | 75 | 697 | Alyssa Papen |
 | 76 | 684 | Jonathan Kimbrough |
 | 77 | 677 | TheNeesh50 |
@@ -159,8 +159,8 @@
 | 151 | 387 | 🥔🥔 Spudz |
 | 152 | 382 | Livvy |
 | 153 | 377 | Carrie Brian |
-| 154 | 375 | ThaEviLJeNiuZ |
-| 155 | 375 | Desi Desporte |
+| 154 | 375 | Desi Desporte |
+| 155 | 375 | ThaEviLJeNiuZ |
 | 156 | 374 | Guy Incognito |
 | 157 | 373 | Tyler Terrific |
 | 158 | 370 | Oscar Alberto Perez |
@@ -189,10 +189,10 @@
 | 181 | 316 | Meagan Nicole |
 | 182 | 314 | Andy Cabral |
 | 183 | 313 | Zippy Block |
-| 184 | 309 | Crystal Nicolette Moore |
-| 185 | 309 | Chris Bernstein |
-| 186 | 307 | Holly Jolly |
-| 187 | 307 | Bio Nelly |
+| 184 | 309 | Chris Bernstein |
+| 185 | 309 | Crystal Nicolette Moore |
+| 186 | 307 | Bio Nelly |
+| 187 | 307 | Holly Jolly |
 | 188 | 306 | blockstar |
 | 189 | 304 | Lindsay Ball |
 | 190 | 304 | Michele Plunkett |
@@ -322,9 +322,9 @@
 | 314 | 194 | Denise B |
 | 315 | 192 | Jackie Marie |
 | 316 | 192 | Twisty Risebuilder |
-| 317 | 192 | Jackie Marie |
-| 318 | 191 | Earnest Thompson |
-| 319 | 191 | Norman Klick |
+| 317 | 192 | Andrew Dang |
+| 318 | 191 | Norman Klick |
+| 319 | 191 | Earnest Thompson |
 | 320 | 190 | wombat |
 | 321 | 189 | Raegan Lane-Ross |
 | 322 | 189 | Berklie Apedaile |
@@ -479,7 +479,7 @@
 | 471 | 136 | Dandy Cascadefit |
 | 472 | 136 | Groovy Brickmatch |
 | 473 | 136 | Jen Hallin |
-| 474 | 136 | Groovy Brickmatch |
+| 474 | 136 | Badatvs |
 | 475 | 135 | Joshua Guess |
 | 476 | 134 | Kevin Bush |
 | 477 | 133 | Jesus Garcia |

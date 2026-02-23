@@ -98,8 +98,8 @@
 | 90 | 2237 | Jen Tramack |
 | 91 | 2216 | Alicia Parrish |
 | 92 | 2165 | Tj Ball |
-| 93 | 2148 | Roger Grabbit |
-| 94 | 2148 | ShinyRose |
+| 93 | 2148 | ShinyRose |
+| 94 | 2148 | Roger Grabbit |
 | 95 | 2146 | KellyDyan |
 | 96 | 2106 | Cool Rollpiece |
 | 97 | 2103 | Alisha Peoples |
@@ -203,8 +203,8 @@
 | 195 | 1252 | Angel |
 | 196 | 1244 | Teddi Notyalc |
 | 197 | 1243 | Anna Edwards |
-| 198 | 1232 | Groovy Puzzle |
-| 199 | 1232 | Ambyre Patterson |
+| 198 | 1232 | Ambyre Patterson |
+| 199 | 1232 | Groovy Puzzle |
 | 200 | 1230 | Megan Garrick |
 | 201 | 1222 | Kiok |
 | 202 | 1211 | Lucky Ladybug |
@@ -561,8 +561,8 @@
 | 553 | 549 | Kaylee McCafferty |
 | 554 | 549 | Melissa Kay Gibson |
 | 555 | 546 | Hannah Erskine |
-| 556 | 545 | Sarah Berger |
-| 557 | 545 | Venita Ray |
+| 556 | 545 | Venita Ray |
+| 557 | 545 | Sarah Berger |
 | 558 | 544 | Deidre Shaffer |
 | 559 | 542 | Jarboe |
 | 560 | 542 | Alexandra Weir |
@@ -579,8 +579,8 @@
 | 571 | 531 | Matthew Joseph Acevedo |
 | 572 | 531 | Briana Alexander |
 | 573 | 528 | Mamachelle Eisweirth |
-| 574 | 527 | Heather M Purcell |
-| 575 | 527 | Ryan Gunther |
+| 574 | 527 | Ryan Gunther |
+| 575 | 527 | Heather M Purcell |
 | 576 | 526 | James Louie |
 | 577 | 525 | Kara Jennifer |
 | 578 | 525 | Jessica S Flecha |
