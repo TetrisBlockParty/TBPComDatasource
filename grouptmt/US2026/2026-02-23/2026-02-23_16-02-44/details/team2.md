@@ -197,8 +197,8 @@
 | 189 | 1532 | Dee |
 | 190 | 1513 | Rosa Franklin |
 | 191 | 1511 | Melissa Penelope Ann Dodge |
-| 192 | 1509 | Whitney Nicole Waterman |
-| 193 | 1509 | Howard Forest |
+| 192 | 1509 | Howard Forest |
+| 193 | 1509 | Whitney Nicole Waterman |
 | 194 | 1507 | Kiok |
 | 195 | 1504 | Hannah Erskine |
 | 196 | 1488 | Sommer Shope |
@@ -311,8 +311,8 @@
 | 303 | 1067 | Caitlin Schmid |
 | 304 | 1064 | BK Queen |
 | 305 | 1052 | Desiree Anderson |
-| 306 | 1050 | Jennifer Aiken |
-| 307 | 1050 | Amber Brion |
+| 306 | 1050 | Amber Brion |
+| 307 | 1050 | Jennifer Aiken |
 | 308 | 1049 | Ashlen Dorrell |
 | 309 | 1047 | Dany Murillo |
 | 310 | 1047 | Tiffany Branham |
@@ -384,8 +384,8 @@
 | 376 | 907 | Gene Mills |
 | 377 | 907 | Kayla |
 | 378 | 904 | John Bednarik |
-| 379 | 903 | Giggy Blocker |
-| 380 | 903 | Eric Castaneda |
+| 379 | 903 | Eric Castaneda |
+| 380 | 903 | Giggy Blocker |
 | 381 | 902 | Diallo Sparkman |
 | 382 | 899 | Felicia Lynn |
 | 383 | 899 | Patrick Bartlett |
@@ -538,8 +538,8 @@
 | 530 | 692 | Bubbly Snapbuild |
 | 531 | 691 | Arwa Fatimah |
 | 532 | 691 | Lylymom |
-| 533 | 689 | AISlop |
-| 534 | 689 | Gauri Shrotriya |
+| 533 | 689 | Gauri Shrotriya |
+| 534 | 689 | AISlop |
 | 535 | 688 | Tracy Wise |
 | 536 | 686 | Christine Coughlin |
 | 537 | 684 | Amanda Woodruff |
@@ -713,13 +713,13 @@
 | 705 | 549 | Crystal Hodge Love |
 | 706 | 548 | Sunshine711 |
 | 707 | 547 | John Carlin |
-| 708 | 547 | Sonya Back |
-| 709 | 547 | Heather M Purcell |
+| 708 | 547 | Heather M Purcell |
+| 709 | 547 | Sonya Back |
 | 710 | 546 | NanDa Cruzan VI |
 | 711 | 545 | Maxwell Escalera |
 | 712 | 544 | Deidre Shaffer |
-| 713 | 544 | Armonie Smith |
-| 714 | 544 | Snappy snappers |
+| 713 | 544 | Snappy snappers |
+| 714 | 544 | Armonie Smith |
 | 715 | 543 | Demitri Smith |
 | 716 | 543 | Lathasa Newkirk |
 | 717 | 543 | coleksquad |
@@ -951,8 +951,8 @@
 | 943 | 443 | N00D3S |
 | 944 | 442 | Jane Crew |
 | 945 | 441 | Jennifer Mahon |
-| 946 | 441 | Voltz Dave |
-| 947 | 441 | Dee Blokk |
+| 946 | 441 | Dee Blokk |
+| 947 | 441 | Voltz Dave |
 | 948 | 440 | Anthony D Gritz Jr |
 | 949 | 440 | Jes Norris |
 | 950 | 440 | Jamie Bass |

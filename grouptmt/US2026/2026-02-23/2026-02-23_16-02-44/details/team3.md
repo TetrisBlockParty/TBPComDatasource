@@ -83,8 +83,8 @@
 | 75 | 1258 | Danielle Cutler |
 | 76 | 1244 | Lori Barnaby |
 | 77 | 1221 | Betty Ivy |
-| 78 | 1213 | Snappy Glidepiece |
-| 79 | 1213 | Nerdy Riseclear |
+| 78 | 1213 | Nerdy Riseclear |
+| 79 | 1213 | Snappy Glidepiece |
 | 80 | 1209 | Amanda Adkins |
 | 81 | 1209 | Araceli Parra |
 | 82 | 1186 | Christian A. Pollard |
@@ -198,8 +198,8 @@
 | 190 | 576 | Keis |
 | 191 | 568 | Rachael McClain Owens |
 | 192 | 566 | LaTanya GeminiondaRise Johnson |
-| 193 | 564 | Christine Trester |
-| 194 | 564 | Poppy Splitter |
+| 193 | 564 | Poppy Splitter |
+| 194 | 564 | Christine Trester |
 | 195 | 563 | Jim Mathews |
 | 196 | 562 | Dave Herzog |
 | 197 | 561 | Elissa S-k |
@@ -222,7 +222,7 @@
 | 214 | 531 | Chauntee Alfrey-Cardinale |
 | 215 | 530 | Stephanie Blkpep Davidson |
 | 216 | 527 | Tamara Deherrera |
-| 217 | 524 | Bmo |
+| 217 | 524 | Terry Jo Jones |
 | 218 | 524 | Shannon Matthew Byers |
 | 219 | 524 | Bmo |
 | 220 | 516 | Daring Brickzone |
@@ -490,8 +490,8 @@
 | 482 | 256 | Brysten Green |
 | 483 | 255 | Jolly Dashpiece |
 | 484 | 255 | Mariah Williams |
-| 485 | 254 | Blair Erin Waite |
-| 486 | 254 | Katheline Lazo Luizaga |
+| 485 | 254 | Katheline Lazo Luizaga |
+| 486 | 254 | Blair Erin Waite |
 | 487 | 253 | crystal |
 | 488 | 253 | Bryan Byrd |
 | 489 | 253 | Hyper Bridger |
