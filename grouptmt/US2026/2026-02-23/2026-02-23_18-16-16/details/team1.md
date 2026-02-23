@@ -209,8 +209,8 @@
 | 201 | 379 | Austin James |
 | 202 | 379 | Snappy Matcher |
 | 203 | 378 | Sleepysloath5745 |
-| 204 | 376 | Brian Richardsson |
-| 205 | 376 | Sassy Builderline |
+| 204 | 376 | Sassy Builderline |
+| 205 | 376 | Brian Richardsson |
 | 206 | 375 | Connie |
 | 207 | 374 | Howdi Duty |
 | 208 | 372 | Snippy Wipebuilder |

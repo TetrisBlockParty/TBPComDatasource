@@ -100,8 +100,8 @@
 | 92 | 1102 | Michelle Becker |
 | 93 | 1101 | Stephanie Rice |
 | 94 | 1094 | JerseyJess |
-| 95 | 1056 | joclisa |
-| 96 | 1056 | Ebony West-Cundiff |
+| 95 | 1056 | Ebony West-Cundiff |
+| 96 | 1056 | joclisa |
 | 97 | 1050 | Sherika C. McDaniels |
 | 98 | 1044 | Leah Barnett |
 | 99 | 1038 | Mandy Smith Oldham |
@@ -229,8 +229,8 @@
 | 221 | 545 | Trisha Balmer |
 | 222 | 539 | Betty Bóò |
 | 223 | 538 | Annie Déè |
-| 224 | 537 | Tessina Dewey-Mancino |
-| 225 | 537 | Aerian Preston |
+| 224 | 537 | Aerian Preston |
+| 225 | 537 | Tessina Dewey-Mancino |
 | 226 | 537 | Tamara Deherrera |
 | 227 | 531 | Chauntee Alfrey-Cardinale |
 | 228 | 530 | Stephanie Blkpep Davidson |

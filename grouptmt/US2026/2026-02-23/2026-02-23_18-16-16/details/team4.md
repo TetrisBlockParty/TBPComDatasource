@@ -57,8 +57,8 @@
 | 49 | 1099 | Ashley Ingram |
 | 50 | 1085 | Kimyatta Cavin |
 | 51 | 1082 | Avy Absol |
-| 52 | 1082 | Dawn Alexander |
-| 53 | 1082 | Dion Crommarty |
+| 52 | 1082 | Dion Crommarty |
+| 53 | 1082 | Dawn Alexander |
 | 54 | 1049 | Heather Tushner |
 | 55 | 1046 | Johnathan Martinez |
 | 56 | 1030 | Dustee Craddock-Harrison |
@@ -142,8 +142,8 @@
 | 134 | 545 | Desi Desporte |
 | 135 | 542 | Austin Owens |
 | 136 | 540 | Rodney McMath Jr. |
-| 137 | 538 | Carlos Ramirez |
-| 138 | 538 | shar |
+| 137 | 538 | shar |
+| 138 | 538 | Carlos Ramirez |
 | 139 | 531 | Serena Goodridge |
 | 140 | 529 | Cool Towerbuilder |
 | 141 | 528 | Kimberlee Jan Beckstead |
@@ -298,14 +298,14 @@
 | 290 | 291 | Hyper Builder |
 | 291 | 291 | Dizzy Matchzone |
 | 292 | 290 | Jared Gutwein |
-| 293 | 290 | Heather Bruce |
-| 294 | 290 | Neirrah B Olailjeel |
+| 293 | 290 | Neirrah B Olailjeel |
+| 294 | 290 | Heather Bruce |
 | 295 | 289 | Juls |
 | 296 | 288 | Brittney Orengo |
 | 297 | 287 | Kim Klutz Olson |
-| 298 | 284 | Matt Dell'Olio |
+| 298 | 284 | Glitzy Corner |
 | 299 | 284 | Malakai Darien Fox |
-| 300 | 284 | Glitzy Corner |
+| 300 | 284 | Matt Dell'Olio |
 | 301 | 281 | rebel4lyfe |
 | 302 | 281 | Morti |
 | 303 | 281 | Laura |
@@ -317,13 +317,13 @@
 | 309 | 276 | Silly SeaWeed |
 | 310 | 276 | Cynthia Boudreau |
 | 311 | 275 | Jim Hart |
-| 312 | 274 | Amy Sanford |
-| 313 | 274 | Jenna McGeorge |
-| 314 | 272 | Tony Pavelka |
-| 315 | 272 | Dennis Bradley |
+| 312 | 274 | Jenna McGeorge |
+| 313 | 274 | Amy Sanford |
+| 314 | 272 | Dennis Bradley |
+| 315 | 272 | Tony Pavelka |
 | 316 | 271 | Holly |
-| 317 | 270 | Brittany Little |
-| 318 | 270 | 23 |
+| 317 | 270 | 23 |
+| 318 | 270 | Brittany Little |
 | 319 | 269 | Bradley Reeves |
 | 320 | 268 | Shukee Lo |
 | 321 | 268 | Chance Strickland |
@@ -497,8 +497,8 @@
 | 489 | 182 | Neil Ingham |
 | 490 | 182 | Jesus Garcia |
 | 491 | 181 | Kate |
-| 492 | 181 | ImJustMe |
-| 493 | 181 | Nikki Wilson |
+| 492 | 181 | Nikki Wilson |
+| 493 | 181 | ImJustMe |
 | 494 | 180 | Nig |
 | 495 | 180 | Ron |
 | 496 | 180 | Sandra Safford |
@@ -720,8 +720,8 @@
 | 712 | 116 | Ben Nome |
 | 713 | 116 | JEan Price |
 | 714 | 115 | Mona Touchine |
-| 715 | 115 | Jayk |
-| 716 | 115 | Brenda Bird |
+| 715 | 115 | Brenda Bird |
+| 716 | 115 | Jayk |
 | 717 | 114 | Bigmamatetrisqueen |
 | 718 | 114 | Eminem |
 | 719 | 114 | Tiffany Tran |
@@ -754,7 +754,7 @@
 | 746 | 109 | Robert Bolden |
 | 747 | 109 | Tawna Curry |
 | 748 | 109 | Loyal |
-| 749 | 109 | Lisa Bush |
+| 749 | 109 | Crystal Lynn |
 | 750 | 109 | Nikisha Reed |
 | 751 | 109 | Lisa Bush |
 | 752 | 108 | Kevin Blevins |
@@ -1520,8 +1520,8 @@
 | 1512 | 26 | Frothy Twisterfit |
 | 1513 | 26 | Nutty Grabber |
 | 1514 | 26 | Swanky Jumper |
-| 1515 | 25 | Devin Crawford |
-| 1516 | 25 | Tammie Jewel DeSimon |
+| 1515 | 25 | Tammie Jewel DeSimon |
+| 1516 | 25 | Devin Crawford |
 | 1517 | 25 | Sarah Lee |
 | 1518 | 25 | Bryan James Marino |
 | 1519 | 25 | Nutty Tile |

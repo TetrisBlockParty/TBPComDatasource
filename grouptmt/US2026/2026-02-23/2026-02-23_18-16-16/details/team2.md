@@ -164,8 +164,8 @@
 | 156 | 1767 | niecy |
 | 157 | 1759 | Nerdy Pattern |
 | 158 | 1755 | Loopy Clusterbuilder |
-| 159 | 1751 | Bob |
-| 160 | 1751 | Woodys Glass |
+| 159 | 1751 | Woodys Glass |
+| 160 | 1751 | Bob |
 | 161 | 1747 | Cody Nishimura |
 | 162 | 1740 | blarg |
 | 163 | 1720 | Morgue Chick |
@@ -459,8 +459,8 @@
 | 451 | 821 | Connie Jimenez |
 | 452 | 820 | Laura McCarthey |
 | 453 | 819 | Sabrena Yeisley |
-| 454 | 816 | Beth |
-| 455 | 816 | James Simms III |
+| 454 | 816 | James Simms III |
+| 455 | 816 | Beth |
 | 456 | 815 | Gauri Shrotriya |
 | 457 | 812 | Samantha Jo |
 | 458 | 811 | Brenda Pierpoint |
@@ -717,8 +717,8 @@
 | 709 | 579 | Roy Salyer |
 | 710 | 576 | Leslie Johnson Guinto |
 | 711 | 573 | Vaniel Glover |
-| 712 | 572 | Rachael Senard |
-| 713 | 572 | SwampRebel |
+| 712 | 572 | SwampRebel |
+| 713 | 572 | Rachael Senard |
 | 714 | 572 | Alexandra Lynn |
 | 715 | 571 | Niceday |
 | 716 | 570 | Sonya Back |
