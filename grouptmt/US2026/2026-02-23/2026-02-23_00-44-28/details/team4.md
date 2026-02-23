@@ -58,8 +58,8 @@
 | 50 | 843 | Shelly Chandler |
 | 51 | 834 | quicksand420 |
 | 52 | 813 | BertMofo |
-| 53 | 797 | Rebecca Moulton Pinciaro |
-| 54 | 797 | Dawn Alexander |
+| 53 | 797 | Dawn Alexander |
+| 54 | 797 | Rebecca Moulton Pinciaro |
 | 55 | 783 | Isabella Blanco |
 | 56 | 781 | Chilly Line |
 | 57 | 768 | Ashley Ingram |
@@ -207,8 +207,8 @@
 | 199 | 281 | Laura |
 | 200 | 281 | Kim Klutz Olson |
 | 201 | 277 | Zesty Twistbuilder |
-| 202 | 276 | Joeliecea Cobb |
-| 203 | 276 | Matt Dell'Olio |
+| 202 | 276 | Matt Dell'Olio |
+| 203 | 276 | Joeliecea Cobb |
 | 204 | 273 | Casey Grabner |
 | 205 | 273 | Danielle Kollias |
 | 206 | 272 | Dennis Bradley |

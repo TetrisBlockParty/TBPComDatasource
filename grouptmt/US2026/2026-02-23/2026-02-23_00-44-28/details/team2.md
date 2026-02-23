@@ -193,8 +193,8 @@
 | 185 | 1282 | Tanya Parsons |
 | 186 | 1257 | Michele Gabriel |
 | 187 | 1243 | Anna Edwards |
-| 188 | 1232 | Groovy Puzzle |
-| 189 | 1232 | Ambyre Patterson |
+| 188 | 1232 | Ambyre Patterson |
+| 189 | 1232 | Groovy Puzzle |
 | 190 | 1230 | Megan Garrick |
 | 191 | 1227 | Tim Dyer |
 | 192 | 1224 | Liberty |
@@ -527,8 +527,8 @@
 | 519 | 553 | Kelli Wells |
 | 520 | 551 | Cynthia Louann Rose |
 | 521 | 550 | Frilly Fallzone |
-| 522 | 549 | Melissa Kay Gibson |
-| 523 | 549 | Kaylee McCafferty |
+| 522 | 549 | Kaylee McCafferty |
+| 523 | 549 | Melissa Kay Gibson |
 | 524 | 546 | Hannah Erskine |
 | 525 | 545 | Venita Ray |
 | 526 | 545 | Brenna Ann |

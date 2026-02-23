@@ -204,8 +204,8 @@
 | 196 | 432 | Luciana Braganca Vieira |
 | 197 | 432 | Christine Trester |
 | 198 | 431 | Wendy Dearden |
-| 199 | 430 | Jeni Dow |
-| 200 | 430 | Joye Sims Binion |
+| 199 | 430 | Joye Sims Binion |
+| 200 | 430 | Jeni Dow |
 | 201 | 426 | Rochelle Hazelett |
 | 202 | 423 | Tom Nault |
 | 203 | 422 | Fallorina Susana |
@@ -299,8 +299,8 @@
 | 291 | 299 | Ray Lader |
 | 292 | 299 | Angie Harper |
 | 293 | 298 | Grams |
-| 294 | 297 | kacihall |
-| 295 | 297 | Cheeky Snapper |
+| 294 | 297 | Cheeky Snapper |
+| 295 | 297 | kacihall |
 | 296 | 296 | Donna |
 | 297 | 294 | fraulila |
 | 298 | 294 | Betty Bóò |
@@ -343,8 +343,8 @@
 | 335 | 267 | April Matthew Kibble |
 | 336 | 266 | Quirky Dropzone |
 | 337 | 265 | Michael Kimbro |
-| 338 | 263 | Jimmie Clemons |
-| 339 | 263 | Erika Thornton |
+| 338 | 263 | Erika Thornton |
+| 339 | 263 | Jimmie Clemons |
 | 340 | 262 | Kristin Delibac Corrigan |
 | 341 | 262 | Shawn Miller |
 | 342 | 261 | Stephanie Bradley |

@@ -26,8 +26,8 @@
 | 18 | 1408 | Mara Hilker |
 | 19 | 1264 | Jennifer Cates |
 | 20 | 1215 | LaQuetta Faith Hines |
-| 21 | 1191 | Nerdy Linkblock |
-| 22 | 1191 | Roger Aschbrenner |
+| 21 | 1191 | Roger Aschbrenner |
+| 22 | 1191 | Nerdy Linkblock |
 | 23 | 1181 | Carolyn Smith |
 | 24 | 1171 | Tyler Alcock |
 | 25 | 1136 | Rahna Underwood |
@@ -50,8 +50,8 @@
 | 42 | 879 | Adam Byrd |
 | 43 | 863 | Tipsy Column |
 | 44 | 862 | Christina Costantino |
-| 45 | 844 | Katie Daniels |
-| 46 | 844 | Amanda Summey Schoemer |
+| 45 | 844 | Amanda Summey Schoemer |
+| 46 | 844 | Katie Daniels |
 | 47 | 828 | Drew Magnus |
 | 48 | 805 | Sevens4L |
 | 49 | 797 | Lawrence Belanger |
@@ -135,13 +135,13 @@
 | 127 | 391 | Lori Bales |
 | 128 | 390 | Goose egg |
 | 129 | 387 | Emily Adelaide Wheatley |
-| 130 | 386 | Ty Brown |
-| 131 | 386 | David Miller |
+| 130 | 386 | David Miller |
+| 131 | 386 | Ty Brown |
 | 132 | 383 | pjbeta |
 | 133 | 379 | Austin James |
 | 134 | 379 | Kimmie Kimms |
-| 135 | 376 | Brian Richardsson |
-| 136 | 376 | lil mickey |
+| 135 | 376 | lil mickey |
+| 136 | 376 | Brian Richardsson |
 | 137 | 368 | Death |
 | 138 | 367 | Sharon Reynolds |
 | 139 | 364 | Shauna Loe |
