@@ -196,8 +196,8 @@
 | 188 | 1590 | Jaycee |
 | 189 | 1581 | Angela Lynn |
 | 190 | 1580 | Sally Dennis |
-| 191 | 1570 | Mo Shine On |
-| 192 | 1570 | Amy Sayers |
+| 191 | 1570 | Amy Sayers |
+| 192 | 1570 | Mo Shine On |
 | 193 | 1567 | Juliana Marques Do Nascimento Gordy |
 | 194 | 1565 | Nancy Reid |
 | 195 | 1562 | Tony Lea |
@@ -296,8 +296,8 @@
 | 288 | 1163 | Erika Densmore |
 | 289 | 1161 | Sarah Freitas |
 | 290 | 1158 | Brittany Clark |
-| 291 | 1156 | Alezandra Smith |
-| 292 | 1156 | Arkei Luster |
+| 291 | 1156 | Arkei Luster |
+| 292 | 1156 | Alezandra Smith |
 | 293 | 1149 | Prado |
 | 294 | 1146 | Cassie Mercer |
 | 295 | 1142 | Sheniya Spurgeon |
@@ -781,8 +781,8 @@
 | 773 | 540 | Alexis Richardson |
 | 774 | 540 | Savannah Alexander |
 | 775 | 538 | Mamachelle Eisweirth |
-| 776 | 536 | Paul Hinkle |
-| 777 | 536 | Bob Vu |
+| 776 | 536 | Bob Vu |
+| 777 | 536 | Paul Hinkle |
 | 778 | 536 | Tanya Duran |
 | 779 | 534 | Anita Rose Green |
 | 780 | 534 | Tori Bowers |
@@ -870,8 +870,8 @@
 | 862 | 496 | Shyne Sun |
 | 863 | 496 | Shyenn Gadsby |
 | 864 | 495 | Brandon Jones |
-| 865 | 495 | Giggy Grabber |
-| 866 | 495 | Kamilya Rembert |
+| 865 | 495 | Kamilya Rembert |
+| 866 | 495 | Giggy Grabber |
 | 867 | 495 | cel505♡ |
 | 868 | 494 | Cat Thompson |
 | 869 | 494 | Mike73 |

@@ -218,8 +218,8 @@
 | 210 | 388 | Calvin Cannon |
 | 211 | 388 | June Hoffman |
 | 212 | 385 | 030Synner |
-| 213 | 383 | blockstar |
-| 214 | 383 | Chris Bernstein |
+| 213 | 383 | Chris Bernstein |
+| 214 | 383 | blockstar |
 | 215 | 381 | Plucky Patternblock |
 | 216 | 380 | Rio Rocha |
 | 217 | 379 | Sam Bishop |
@@ -438,13 +438,13 @@
 | 430 | 209 | PennyCandee |
 | 431 | 209 | Snippy Puzzle |
 | 432 | 209 | Matthew Pate |
-| 433 | 208 | Moonsterix |
-| 434 | 208 | Wacky Blockclear |
+| 433 | 208 | Wacky Blockclear |
+| 434 | 208 | Moonsterix |
 | 435 | 207 | Jessica Wells |
 | 436 | 207 | Sam Middleton |
-| 437 | 206 | Sticherella |
+| 437 | 206 | Lilya Troutman |
 | 438 | 206 | Dorian |
-| 439 | 206 | Lilya Troutman |
+| 439 | 206 | Sticherella |
 | 440 | 205 | KayM |
 | 441 | 205 | Sallie Sanborn |
 | 442 | 204 | Jason Frehner |
@@ -1678,8 +1678,8 @@
 | 1670 | 15 | Michelle LaRose |
 | 1671 | 15 | Becky |
 | 1672 | 15 | Lindsey Lawson |
-| 1673 | 15 | Sunny Roll |
-| 1674 | 15 | Hasty Matchline |
+| 1673 | 15 | Hasty Matchline |
+| 1674 | 15 | Sunny Roll |
 | 1675 | 14 | Breezy Linkfall |
 | 1676 | 14 | Tee Widmer |
 | 1677 | 14 | Ball Up CashOut |

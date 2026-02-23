@@ -539,8 +539,8 @@
 | 531 | 254 | Landycandii |
 | 532 | 254 | Katheline Lazo Luizaga |
 | 533 | 254 | atomictrin |
-| 534 | 253 | Kristen McAlpine |
-| 535 | 253 | Boldy Blocker |
+| 534 | 253 | Boldy Blocker |
+| 535 | 253 | Kristen McAlpine |
 | 536 | 253 | Scouty |
 | 537 | 253 | Dapper Liney |
 | 538 | 253 | crystal |
@@ -605,14 +605,14 @@
 | 597 | 229 | Frilly Stackzone |
 | 598 | 229 | Slick Sally |
 | 599 | 229 | MizzMonick Smith |
-| 600 | 229 | Flashy Rumbler |
-| 601 | 229 | Everret Maxine |
+| 600 | 229 | Everret Maxine |
+| 601 | 229 | Flashy Rumbler |
 | 602 | 228 | Daisy Rocha |
 | 603 | 227 | Meowsa |
 | 604 | 226 | Emberblaze |
 | 605 | 225 | Sassy Tiler |
-| 606 | 224 | Cranky Corner |
-| 607 | 224 | Eboni G. |
+| 606 | 224 | Eboni G. |
+| 607 | 224 | Cranky Corner |
 | 608 | 223 | Jumpy Curvebuilder |
 | 609 | 223 | Katie Leigh Blankenship |
 | 610 | 222 | Chilly Pop |
