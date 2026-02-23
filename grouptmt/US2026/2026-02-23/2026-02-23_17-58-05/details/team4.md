@@ -155,8 +155,8 @@
 | 147 | 508 | Twisty Clicky |
 | 148 | 507 | ThaEviLJeNiuZ |
 | 149 | 502 | Ellen Durfee |
-| 150 | 498 | Melissa Adams |
-| 151 | 498 | Nope Young |
+| 150 | 498 | Nope Young |
+| 151 | 498 | Melissa Adams |
 | 152 | 497 | Ericca Eldridge |
 | 153 | 496 | Jessica Lynn Cutlip |
 | 154 | 489 | Kim Hunt |
@@ -231,11 +231,11 @@
 | 223 | 363 | Cindy Looper |
 | 224 | 363 | Googenheim |
 | 225 | 362 | Meg |
-| 226 | 361 | Mimi |
-| 227 | 361 | Rafael Valentin |
+| 226 | 361 | Rafael Valentin |
+| 227 | 361 | Mimi |
 | 228 | 361 | Danielle Kollias |
-| 229 | 358 | Twisty Cascadezone |
-| 230 | 358 | A5! |
+| 229 | 358 | A5! |
+| 230 | 358 | Twisty Cascadezone |
 | 231 | 357 | KimoKoala |
 | 232 | 356 | Joeliecea Cobb |
 | 233 | 355 | James Hurley Jr. |
@@ -382,8 +382,8 @@
 | 374 | 237 | Jewell Urban |
 | 375 | 235 | LaDonna LovinmesomeMe Lambert |
 | 376 | 235 | Shainne Brewer |
-| 377 | 234 | Shanon Klair |
-| 378 | 234 | Richard-April Kice |
+| 377 | 234 | Richard-April Kice |
+| 378 | 234 | Shanon Klair |
 | 379 | 234 | Diosa Ebalobo Magsael |
 | 380 | 234 | Amanda Christine |
 | 381 | 233 | Joseph Edmonson |
@@ -398,8 +398,8 @@
 | 390 | 223 | Brave Spinbuilder |
 | 391 | 222 | Alan Zukowski |
 | 392 | 222 | Paito |
-| 393 | 222 | Badatvs |
-| 394 | 222 | Rhys Morgan |
+| 393 | 222 | Rhys Morgan |
+| 394 | 222 | Badatvs |
 | 395 | 222 | Brandi Durig |
 | 396 | 221 | Rheanda Weaskus |
 | 397 | 220 | Dustin York |
@@ -434,17 +434,17 @@
 | 426 | 209 | PennyCandee |
 | 427 | 209 | Matthew Pate |
 | 428 | 208 | Wacky Blockclear |
-| 429 | 207 | Sam Middleton |
-| 430 | 207 | Jessica Wells |
+| 429 | 207 | Jessica Wells |
+| 430 | 207 | Sam Middleton |
 | 431 | 206 | The Murphy |
-| 432 | 206 | Dorian |
-| 433 | 206 | Lilya Troutman |
-| 434 | 206 | Sticherella |
+| 432 | 206 | Lilya Troutman |
+| 433 | 206 | Sticherella |
+| 434 | 206 | Dorian |
 | 435 | 205 | KayM |
 | 436 | 205 | Sallie Sanborn |
 | 437 | 205 | Mackenzie Forrester |
-| 438 | 204 | Jason Frehner |
-| 439 | 204 | Gwendolyn Pitcairn |
+| 438 | 204 | Gwendolyn Pitcairn |
+| 439 | 204 | Jason Frehner |
 | 440 | 204 | Ruby Khalisadar |
 | 441 | 204 | Russ Attitude |
 | 442 | 203 | Katherine Crane |
@@ -524,8 +524,8 @@
 | 516 | 172 | Brandon Link |
 | 517 | 172 | Christine Simmons |
 | 518 | 171 | Terrance Fung |
-| 519 | 171 | Dapper Balancer |
-| 520 | 171 | Walter Beltran |
+| 519 | 171 | Walter Beltran |
+| 520 | 171 | Dapper Balancer |
 | 521 | 170 | Elie Pean |
 | 522 | 170 | Peppy Drop |
 | 523 | 170 | Bigeddie |
@@ -613,8 +613,8 @@
 | 605 | 140 | Cheery Lift |
 | 606 | 140 | Thomas Hettenhaus |
 | 607 | 139 | Groovy Shiftspin |
-| 608 | 139 | Bussy Bay |
-| 609 | 139 | Ann G. Carrillo |
+| 608 | 139 | Ann G. Carrillo |
+| 609 | 139 | Bussy Bay |
 | 610 | 138 | Tammy Lewis |
 | 611 | 137 | Brianna Walker |
 | 612 | 137 | Richard |

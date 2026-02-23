@@ -92,8 +92,8 @@
 | 84 | 735 | Cynthia Bradley |
 | 85 | 713 | Robert Benito |
 | 86 | 710 | Jennifer ManWarren |
-| 87 | 706 | Plucky Fallzone |
-| 88 | 706 | Denice Dee |
+| 87 | 706 | Denice Dee |
+| 88 | 706 | Plucky Fallzone |
 | 89 | 704 | Jason Jones |
 | 90 | 704 | Karin Gillen |
 | 91 | 703 | Kellie |
@@ -250,8 +250,8 @@
 | 242 | 339 | Tyler Hertzog |
 | 243 | 338 | Layzietyme |
 | 244 | 337 | Jamise Brown |
-| 245 | 335 | Eric DeSimone |
-| 246 | 335 | Keith Mathis |
+| 245 | 335 | Keith Mathis |
+| 246 | 335 | Eric DeSimone |
 | 247 | 334 | Tipsy Builder |
 | 248 | 333 | Jennifer Noe Chandler |
 | 249 | 332 | Plucky Stacky |
@@ -271,11 +271,11 @@
 | 263 | 317 | Sam Williams |
 | 264 | 317 | Zany Tiler |
 | 265 | 316 | DoodleBug |
-| 266 | 315 | Hellsin |
-| 267 | 315 | Mandyy Rae |
+| 266 | 315 | Mandyy Rae |
+| 267 | 315 | Hellsin |
 | 268 | 313 | Cody Gates |
-| 269 | 312 | Danielle S Kester |
-| 270 | 312 | Mitchel White |
+| 269 | 312 | Mitchel White |
+| 270 | 312 | Danielle S Kester |
 | 271 | 311 | Nathan Sealander |
 | 272 | 310 | Christina Norman |
 | 273 | 308 | Speedy Liney |
