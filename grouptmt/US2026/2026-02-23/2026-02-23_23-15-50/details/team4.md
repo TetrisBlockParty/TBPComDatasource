@@ -96,8 +96,8 @@
 | 88 | 802 | Crystal Carroll |
 | 89 | 783 | Guy Incognito |
 | 90 | 783 | Denise Carlson |
-| 91 | 775 | TheNeesh50 |
-| 92 | 775 | Klo |
+| 91 | 775 | Klo |
+| 92 | 775 | TheNeesh50 |
 | 93 | 768 | Trista Leah |
 | 94 | 768 | Judy Cox |
 | 95 | 768 | Lori Walker |
@@ -214,8 +214,8 @@
 | 206 | 438 | Melvin Baird |
 | 207 | 438 | Jen Mattei |
 | 208 | 434 | Ramel Rhodes |
-| 209 | 433 | Circuit8 |
-| 210 | 433 | Damn Libra |
+| 209 | 433 | Damn Libra |
+| 210 | 433 | Circuit8 |
 | 211 | 431 | Zesty Twistbuilder |
 | 212 | 427 | Steph Marie |
 | 213 | 427 | Chao Ma |
@@ -225,8 +225,8 @@
 | 217 | 421 | JIGsaw ~(•¿°)~ |
 | 218 | 419 | Manny1 |
 | 219 | 419 | Chris Bernstein |
-| 220 | 418 | Lush Linkfall |
-| 221 | 418 | Marie-Pier Desjardins |
+| 220 | 418 | Marie-Pier Desjardins |
+| 221 | 418 | Lush Linkfall |
 | 222 | 414 | Silly Zonebuilder |
 | 223 | 413 | John Brunetti |
 | 224 | 411 | Autumn Kumzi |
@@ -234,8 +234,8 @@
 | 226 | 409 | Antony Dwayne Beasley |
 | 227 | 403 | TinyLegoRose |
 | 228 | 400 | Brickh4us |
-| 229 | 399 | Jeff Brian Gates |
-| 230 | 399 | Lindsay Ball |
+| 229 | 399 | Lindsay Ball |
+| 230 | 399 | Jeff Brian Gates |
 | 231 | 398 | Tyler Terrific |
 | 232 | 394 | Nita Wells |
 | 233 | 390 | Kathy Brookins |
@@ -622,9 +622,9 @@
 | 614 | 157 | David Boggs |
 | 615 | 157 | Jazzy Slamdrop |
 | 616 | 156 | Nicole McMurray |
-| 617 | 155 | Marcus Cooper |
+| 617 | 155 | Stormy Tomplait |
 | 618 | 155 | Patrick Cookson |
-| 619 | 155 | Stormy Tomplait |
+| 619 | 155 | Marcus Cooper |
 | 620 | 155 | Faja |
 | 621 | 154 | Robert Rodriguez |
 | 622 | 154 | GTxIrishman |

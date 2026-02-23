@@ -166,8 +166,8 @@
 | 158 | 1949 | Angi Harrison |
 | 159 | 1932 | Gary Schaffner Jr. |
 | 160 | 1904 | Goofy Snapfit |
-| 161 | 1874 | Loopy Clusterbuilder |
-| 162 | 1874 | PsychKIRAtrist |
+| 161 | 1874 | PsychKIRAtrist |
+| 162 | 1874 | Loopy Clusterbuilder |
 | 163 | 1866 | Janel Turley-Garner |
 | 164 | 1845 | Jessie McDougald |
 | 165 | 1840 | blarg |
@@ -522,8 +522,8 @@
 | 514 | 811 | Dreamy Blast |
 | 515 | 810 | Tracy Cowley |
 | 516 | 807 | Shaun Church |
-| 517 | 805 | Vanessa Moreno |
-| 518 | 805 | Danielle Simmons |
+| 517 | 805 | Danielle Simmons |
+| 518 | 805 | Vanessa Moreno |
 | 519 | 805 | Kennedy Sandifer |
 | 520 | 804 | Becca Coronado |
 | 521 | 804 | DefaultUser |

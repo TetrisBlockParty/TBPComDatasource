@@ -167,8 +167,8 @@
 | 159 | 491 | cc |
 | 160 | 491 | Michelle Beres |
 | 161 | 488 | Hyper |
-| 162 | 483 | Trina Gee |
-| 163 | 483 | Dandy Basegrid |
+| 162 | 483 | Dandy Basegrid |
+| 163 | 483 | Trina Gee |
 | 164 | 482 | Sarah Somers Gray |
 | 165 | 479 | Ly Phethmany |
 | 166 | 479 | Snappy Matcher |
@@ -502,8 +502,8 @@
 | 494 | 208 | Andrew Boone |
 | 495 | 207 | Leslie Bush Yarbrough |
 | 496 | 205 | Elizabeth Kubli |
-| 497 | 204 | Jill King Oldham |
-| 498 | 204 | Jason Cox |
+| 497 | 204 | Jason Cox |
+| 498 | 204 | Jill King Oldham |
 | 499 | 203 | Ashley Rodriguez |
 | 500 | 202 | Barry Mac'Ockner |
 | 501 | 202 | grizzly |

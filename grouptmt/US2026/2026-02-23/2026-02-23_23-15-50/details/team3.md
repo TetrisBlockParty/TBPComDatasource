@@ -684,9 +684,9 @@
 | 676 | 230 | Melissa Sisk |
 | 677 | 230 | Rashad Green |
 | 678 | 230 | lydynred |
-| 679 | 229 | MizzMonick Smith |
-| 680 | 229 | Slick Sally |
-| 681 | 229 | Everret Maxine |
+| 679 | 229 | Slick Sally |
+| 680 | 229 | MizzMonick Smith |
+| 681 | 229 | Silly Curvetile |
 | 682 | 229 | Flashy Rumbler |
 | 683 | 229 | Everret Maxine |
 | 684 | 228 | Daisy Rocha |
