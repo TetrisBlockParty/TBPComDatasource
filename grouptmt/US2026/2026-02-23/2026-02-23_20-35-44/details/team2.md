@@ -156,8 +156,8 @@
 | 148 | 1960 | Aimee Campbell |
 | 149 | 1959 | Robin Kerby |
 | 150 | 1936 | Angi Harrison |
-| 151 | 1932 | Angela Lynn |
-| 152 | 1932 | Gary Schaffner Jr. |
+| 151 | 1932 | Gary Schaffner Jr. |
+| 152 | 1932 | Angela Lynn |
 | 153 | 1912 | Tonya Brooks-Johnson |
 | 154 | 1904 | Goofy Snapfit |
 | 155 | 1899 | Jumpy Gridpiece |
@@ -202,8 +202,8 @@
 | 194 | 1601 | Ray Ray Prado |
 | 195 | 1600 | Mo Shine On |
 | 196 | 1592 | Dolores Russworn |
-| 197 | 1590 | Amy Sayers |
-| 198 | 1590 | Jaycee |
+| 197 | 1590 | Jaycee |
+| 198 | 1590 | Amy Sayers |
 | 199 | 1585 | Glitzy Stackzone |
 | 200 | 1580 | Sally Dennis |
 | 201 | 1569 | Ashley Dow |
@@ -368,8 +368,8 @@
 | 360 | 1028 | Ericka Marie Smith |
 | 361 | 1026 | Joshua Mandel |
 | 362 | 1024 | Susan Perraut Jones |
-| 363 | 1020 | Tinishia Amie |
-| 364 | 1020 | Andrea Maher |
+| 363 | 1020 | Andrea Maher |
+| 364 | 1020 | Tinishia Amie |
 | 365 | 1015 | Dapper Dasher |
 | 366 | 1014 | Keri Womack |
 | 367 | 1011 | Teresa Gillmore |
@@ -383,8 +383,8 @@
 | 375 | 982 | Crystie Hicks |
 | 376 | 978 | Barry Britt |
 | 377 | 976 | Sam Joe |
-| 378 | 975 | Hyper Cluster |
-| 379 | 975 | Mandi Douglas Hilt |
+| 378 | 975 | Mandi Douglas Hilt |
+| 379 | 975 | Hyper Cluster |
 | 380 | 974 | Boldy Cascadepiece |
 | 381 | 971 | Jojo Momma |
 | 382 | 971 | Tiara Elizabeth Baker |
@@ -492,8 +492,8 @@
 | 484 | 821 | Anthony Mignacca |
 | 485 | 820 | Laura McCarthey |
 | 486 | 819 | Sabrena Yeisley |
-| 487 | 816 | Beth |
-| 488 | 816 | James Simms III |
+| 487 | 816 | James Simms III |
+| 488 | 816 | Beth |
 | 489 | 812 | Samantha Jo |
 | 490 | 811 | Brenda Pierpoint |
 | 491 | 811 | Dreamy Blast |
@@ -625,8 +625,8 @@
 | 617 | 669 | Martina Gabrielle LaPolla |
 | 618 | 668 | Gloria Ininahazwe |
 | 619 | 668 | Jazzy Clusterline |
-| 620 | 666 | Wes Acton |
-| 621 | 666 | Laura Mclean |
+| 620 | 666 | Laura Mclean |
+| 621 | 666 | Wes Acton |
 | 622 | 665 | Zak Dunn |
 | 623 | 663 | Snazzy Basepiece |
 | 624 | 662 | Jennifer Monroe Kelly |
@@ -639,14 +639,14 @@
 | 631 | 657 | Kia Humphery |
 | 632 | 657 | Angelina Marie |
 | 633 | 656 | Tonya Lee |
-| 634 | 655 | mshir |
-| 635 | 655 | Silly Pivotfall |
-| 636 | 654 | g |
-| 637 | 654 | Regina Young |
+| 634 | 655 | Silly Pivotfall |
+| 635 | 655 | mshir |
+| 636 | 654 | Regina Young |
+| 637 | 654 | g |
 | 638 | 653 | snkylnk |
 | 639 | 651 | Unica Rector |
 | 640 | 649 | Hunter Connors |
-| 641 | 648 | Emilee Burke |
+| 641 | 648 | Belle Mari |
 | 642 | 648 | Jessica Redmond |
 | 643 | 648 | Emilee Burke |
 | 644 | 647 | Jackie Avila |
@@ -689,8 +689,8 @@
 | 681 | 623 | Victor Obiakarije |
 | 682 | 621 | Moua Ying |
 | 683 | 621 | Lewis Sturgeon |
-| 684 | 621 | Abimbola Bimbo |
-| 685 | 621 | Taren Cowan |
+| 684 | 621 | Taren Cowan |
+| 685 | 621 | Abimbola Bimbo |
 | 686 | 620 | Macy Jarrett |
 | 687 | 618 | Marella Petilo |
 | 688 | 617 | Luke Califf |
@@ -709,13 +709,13 @@
 | 701 | 605 | Mandi Marie Smith |
 | 702 | 605 | Jermaine Harris |
 | 703 | 604 | Rae Rae |
-| 704 | 603 | Michael Artis |
-| 705 | 603 | Dizzy Zone |
+| 704 | 603 | Dizzy Zone |
+| 705 | 603 | Michael Artis |
 | 706 | 603 | Frank Castle |
 | 707 | 602 | Jedi |
 | 708 | 602 | AsnPryBoy83 |
-| 709 | 601 | Daniel Amos |
-| 710 | 601 | Jessica Lamb |
+| 709 | 601 | Jessica Lamb |
+| 710 | 601 | Daniel Amos |
 | 711 | 598 | Giggly Snap |
 | 712 | 597 | Michelle Sager |
 | 713 | 597 | TJ Nash |
@@ -756,8 +756,8 @@
 | 748 | 572 | Alexandra Lynn |
 | 749 | 570 | Peppy Snapfall |
 | 750 | 570 | Sonya Back |
-| 751 | 569 | Nat |
-| 752 | 569 | Sparkles |
+| 751 | 569 | Sparkles |
+| 752 | 569 | Nat |
 | 753 | 568 | Snippy Rumbler |
 | 754 | 568 | Stacey Tranchida |
 | 755 | 567 | Tracy Cowley |

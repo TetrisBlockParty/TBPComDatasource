@@ -82,8 +82,8 @@
 | 74 | 862 | Carolyn Wallace |
 | 75 | 855 | Peachy Fall |
 | 76 | 850 | Lucille Truesdale |
-| 77 | 846 | Christine Marie |
-| 78 | 846 | Amelpss |
+| 77 | 846 | Amelpss |
+| 78 | 846 | Christine Marie |
 | 79 | 841 | Shauna Havard |
 | 80 | 837 | Lisa Davis |
 | 81 | 834 | quicksand420 |
@@ -146,8 +146,8 @@
 | 138 | 551 | Ren Mc |
 | 139 | 549 | Carlos Ramirez |
 | 140 | 546 | Dizzy Tiley |
-| 141 | 545 | Desi Desporte |
-| 142 | 545 | Livvy |
+| 141 | 545 | Livvy |
+| 142 | 545 | Desi Desporte |
 | 143 | 542 | Austin Owens |
 | 144 | 540 | Rodney McMath Jr. |
 | 145 | 536 | Kimberlee Jan Beckstead |
@@ -157,8 +157,8 @@
 | 149 | 520 | Zippy Block |
 | 150 | 518 | Carly Alexis |
 | 151 | 516 | Trish |
-| 152 | 514 | Lucas J Sutton |
-| 153 | 514 | Scott Jameson |
+| 152 | 514 | Scott Jameson |
+| 153 | 514 | Lucas J Sutton |
 | 154 | 513 | Erin Thomas |
 | 155 | 512 | ThaEviLJeNiuZ |
 | 156 | 512 | Angela Srubar-Norman |

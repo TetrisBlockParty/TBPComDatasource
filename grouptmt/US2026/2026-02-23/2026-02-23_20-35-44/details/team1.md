@@ -237,8 +237,8 @@
 | 229 | 365 | Shannon Marie Pitts |
 | 230 | 365 | Amanda Holibaugh |
 | 231 | 365 | Lakeisha Chapman |
-| 232 | 364 | Shauna Loe |
-| 233 | 364 | Serina Marie |
+| 232 | 364 | Serina Marie |
+| 233 | 364 | Shauna Loe |
 | 234 | 363 | Jerry Danowski |
 | 235 | 359 | Oscar Zamora |
 | 236 | 359 | Jo Kerley |
@@ -263,8 +263,8 @@
 | 255 | 340 | Robert |
 | 256 | 340 | Danielle Little-Daugherty |
 | 257 | 338 | Layzietyme |
-| 258 | 337 | Jamise Brown |
-| 259 | 337 | Lindsay Glover |
+| 258 | 337 | Lindsay Glover |
+| 259 | 337 | Jamise Brown |
 | 260 | 336 | Adele Rahman |
 | 261 | 335 | Eric DeSimone |
 | 262 | 334 | Colleen Pinette |
@@ -321,8 +321,8 @@
 | 313 | 291 | Michael Espinosa Ulibarri Jr. |
 | 314 | 291 | Sir-Franchise Drake |
 | 315 | 290 | Tavia |
-| 316 | 289 | Alenoush Karimian |
-| 317 | 289 | Bob |
+| 316 | 289 | Bob |
+| 317 | 289 | Alenoush Karimian |
 | 318 | 288 | Bird Person |
 | 319 | 287 | Amh |
 | 320 | 287 | Chris65 |
