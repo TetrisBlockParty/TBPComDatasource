@@ -149,11 +149,11 @@
 | 141 | 392 | And |
 | 142 | 389 | David Miller |
 | 143 | 388 | Fmp |
-| 144 | 387 | Emily Adelaide Wheatley |
-| 145 | 387 | Ananda Mendez |
-| 146 | 387 | Monica Donato |
-| 147 | 383 | pjbeta |
-| 148 | 383 | Margo Wagner |
+| 144 | 387 | Ananda Mendez |
+| 145 | 387 | Monica Donato |
+| 146 | 387 | Emily Adelaide Wheatley |
+| 147 | 383 | Margo Wagner |
+| 148 | 383 | pjbeta |
 | 149 | 380 | phrmblk24 |
 | 150 | 379 | Austin James |
 | 151 | 379 | Kimmie Kimms |
@@ -208,8 +208,8 @@
 | 200 | 315 | Danielle Little-Daugherty |
 | 201 | 314 | Snippy Wipebuilder |
 | 202 | 314 | Tana |
-| 203 | 312 | Kimberly Garcia |
-| 204 | 312 | Jessi Sauer |
+| 203 | 312 | Jessi Sauer |
+| 204 | 312 | Kimberly Garcia |
 | 205 | 310 | Bloknboy |
 | 206 | 307 | femmefatale |
 | 207 | 306 | Angela Renea Lester |

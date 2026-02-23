@@ -93,8 +93,8 @@
 | 85 | 2515 | Crystalin Heath Lewis |
 | 86 | 2500 | Rosemadder |
 | 87 | 2438 | Rob Surace |
-| 88 | 2428 | Thomas Hughes |
-| 89 | 2428 | Deanna Morton |
+| 88 | 2428 | Deanna Morton |
+| 89 | 2428 | Thomas Hughes |
 | 90 | 2410 | RdRydnHd |
 | 91 | 2400 | Rich Sullivan |
 | 92 | 2395 | Ashley House |
@@ -293,8 +293,8 @@
 | 285 | 1010 | Brittany Radaszewski |
 | 286 | 1007 | Missie Lawson Gebhardt |
 | 287 | 1003 | Andrea Maher |
-| 288 | 998 | Shelley Thornburgh Wright |
-| 289 | 998 | Keri Womack |
+| 288 | 998 | Keri Womack |
+| 289 | 998 | Shelley Thornburgh Wright |
 | 290 | 996 | Ashie Ann |
 | 291 | 991 | Ashlen Dorrell |
 | 292 | 988 | Juliana Marques Do Nascimento Gordy |
@@ -306,8 +306,8 @@
 | 298 | 976 | Sam Joe |
 | 299 | 976 | Della Hole |
 | 300 | 975 | Hyper Cluster |
-| 301 | 972 | Binyah-Binyah |
-| 302 | 972 | Barbra Miller |
+| 301 | 972 | Barbra Miller |
+| 302 | 972 | Binyah-Binyah |
 | 303 | 971 | Jojo Momma |
 | 304 | 969 | Em Chen |
 | 305 | 969 | Boldy Cascadepiece |
@@ -387,8 +387,8 @@
 | 379 | 808 | Laura McCarthey |
 | 380 | 808 | Connie Jimenez |
 | 381 | 804 | Becca Coronado |
-| 382 | 801 | Gold Rose |
-| 383 | 801 | Diana Fitzwater |
+| 382 | 801 | Diana Fitzwater |
+| 383 | 801 | Gold Rose |
 | 384 | 799 | Kenny Alvarado |
 | 385 | 799 | Joy LaJeunesse |
 | 386 | 796 | AndrewandShela Gornik |
@@ -414,12 +414,12 @@
 | 406 | 768 | Joshua Self |
 | 407 | 767 | Ashley Lopez |
 | 408 | 766 | Aimee Campbell |
-| 409 | 763 | Dreamy Blast |
-| 410 | 763 | Heather Causey |
-| 411 | 760 | Ronnie Nelson |
+| 409 | 763 | Heather Causey |
+| 410 | 763 | Dreamy Blast |
+| 411 | 760 | Cheech Dta |
 | 412 | 760 | Andrew Willis |
 | 413 | 760 | Ashley Guernsey-Martin |
-| 414 | 760 | Cheech Dta |
+| 414 | 760 | Ronnie Nelson |
 | 415 | 758 | Stephanie Neuburger |
 | 416 | 758 | Quirky Twistline |
 | 417 | 757 | Allan Wayne Lamia |
@@ -428,8 +428,8 @@
 | 420 | 751 | Loony Snapper |
 | 421 | 751 | Breezy Filler |
 | 422 | 750 | Mandi Douglas Hilt |
-| 423 | 748 | Brenda Utphall |
-| 424 | 748 | Ann Matzkanin |
+| 423 | 748 | Ann Matzkanin |
+| 424 | 748 | Brenda Utphall |
 | 425 | 748 | Spunkysmom |
 | 426 | 746 | Jerilyn Andrina |
 | 427 | 746 | Leslie Ann Carter |
@@ -478,8 +478,8 @@
 | 470 | 689 | Gauri Shrotriya |
 | 471 | 686 | Christine Coughlin |
 | 472 | 684 | Sarah DeHart |
-| 473 | 684 | Ann Knutson Anderson |
-| 474 | 684 | Ellie Jonas |
+| 473 | 684 | Ellie Jonas |
+| 474 | 684 | Ann Knutson Anderson |
 | 475 | 683 | Eric Castaneda |
 | 476 | 681 | AgileDragon |
 | 477 | 680 | blume |
@@ -628,8 +628,8 @@
 | 620 | 551 | Cynthia Louann Rose |
 | 621 | 550 | Frilly Fallzone |
 | 622 | 550 | Michelle Sager |
-| 623 | 549 | Kaylee McCafferty |
-| 624 | 549 | Melissa Kay Gibson |
+| 623 | 549 | Melissa Kay Gibson |
+| 624 | 549 | Kaylee McCafferty |
 | 625 | 547 | Hunter Connors |
 | 626 | 544 | Deidre Shaffer |
 | 627 | 542 | Jarboe |

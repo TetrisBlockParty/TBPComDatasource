@@ -173,8 +173,8 @@
 | 165 | 591 | Michael Nowogorski |
 | 166 | 588 | Justin Ritter |
 | 167 | 587 | Louise Stacy Sisson |
-| 168 | 585 | Annie Marie |
-| 169 | 585 | Happy Tetriblast |
+| 168 | 585 | Happy Tetriblast |
+| 169 | 585 | Annie Marie |
 | 170 | 583 | Tasha Gillespie |
 | 171 | 582 | Natasha Jones |
 | 172 | 577 | Domo Washington |
@@ -205,8 +205,8 @@
 | 197 | 499 | Makelini Mausia |
 | 198 | 496 | Loopy Fallmatch |
 | 199 | 494 | FuzzyNavel |
-| 200 | 489 | Shannon Matthew Byers |
-| 201 | 489 | Poppy Splitter |
+| 200 | 489 | Poppy Splitter |
+| 201 | 489 | Shannon Matthew Byers |
 | 202 | 488 | Melissa Orth Hunter |
 | 203 | 485 | Jacqueline Rodriguez |
 | 204 | 485 | Dapper Snap |
@@ -236,8 +236,8 @@
 | 228 | 430 | Jeni Dow |
 | 229 | 418 | Rebecca Funderburk Kirby |
 | 230 | 414 | Fran Lin |
-| 231 | 410 | Stephanie Simpson |
-| 232 | 410 | Duane Bright |
+| 231 | 410 | Duane Bright |
+| 232 | 410 | Stephanie Simpson |
 | 233 | 408 | Tiffany Ford |
 | 234 | 406 | Kristal C Lee |
 | 235 | 404 | Chasity |
@@ -253,8 +253,8 @@
 | 245 | 382 | Giddy Twistbuilder |
 | 246 | 381 | Snazzy Filler |
 | 247 | 380 | Rebecca Bailey |
-| 248 | 378 | Chris Bell |
-| 249 | 378 | MsBee |
+| 248 | 378 | MsBee |
+| 249 | 378 | Chris Bell |
 | 250 | 377 | Charles Perrone |
 | 251 | 374 | Rania Zaqout |
 | 252 | 373 | Chummy Caster |
@@ -606,11 +606,11 @@
 | 598 | 179 | Alexi Pryor |
 | 599 | 179 | Ruchi Smit |
 | 600 | 178 | Jillian Ann |
-| 601 | 178 | Kathleen Taylor |
-| 602 | 178 | Melissa Snyder |
+| 601 | 178 | Melissa Snyder |
+| 602 | 178 | Kathleen Taylor |
 | 603 | 177 | Matty Ray |
-| 604 | 177 | Anna Moeller |
-| 605 | 177 | Elizabeth Renee |
+| 604 | 177 | Elizabeth Renee |
+| 605 | 177 | Anna Moeller |
 | 606 | 177 | Chad |
 | 607 | 176 | Bekah Dietrich |
 | 608 | 175 | Spunky Racker |

@@ -59,8 +59,8 @@
 | 51 | 870 | BertMofo |
 | 52 | 863 | Pee |
 | 53 | 853 | TeeJ |
-| 54 | 846 | Lucille Truesdale |
-| 55 | 846 | Christine Marie |
+| 54 | 846 | Christine Marie |
+| 55 | 846 | Lucille Truesdale |
 | 56 | 845 | LisaJo Picken Buchanan |
 | 57 | 843 | Shelly Chandler |
 | 58 | 834 | quicksand420 |
@@ -122,11 +122,11 @@
 | 114 | 519 | Nugget |
 | 115 | 517 | Christina LR |
 | 116 | 517 | shar |
-| 117 | 514 | Serena Goodridge |
-| 118 | 514 | Scott Jameson |
+| 117 | 514 | Scott Jameson |
+| 118 | 514 | Serena Goodridge |
 | 119 | 513 | Erin Thomas |
-| 120 | 512 | Cristy Duerksen |
-| 121 | 512 | Casey Jeffcoat |
+| 120 | 512 | Casey Jeffcoat |
+| 121 | 512 | Cristy Duerksen |
 | 122 | 511 | Lori Walker |
 | 123 | 509 | Leslie Nicole |
 | 124 | 482 | Ren Mc |
@@ -273,8 +273,8 @@
 | 265 | 251 | Carol Ricks Raymond |
 | 266 | 249 | Ak Jones |
 | 267 | 249 | Nick Gray |
-| 268 | 248 | Chirpy Basepiece |
-| 269 | 248 | Jose Dejesus |
+| 268 | 248 | Jose Dejesus |
+| 269 | 248 | Chirpy Basepiece |
 | 270 | 245 | 23 |
 | 271 | 244 | Elizabeth Tinoco |
 | 272 | 244 | Christina Black |
@@ -1001,7 +1001,7 @@
 | 993 | 60 | Speedy Swipe |
 | 994 | 59 | Wacky Patternbuilder |
 | 995 | 59 | Riley Chelsie |
-| 996 | 59 | Hyper Cascade |
+| 996 | 59 | Jamie Mclean |
 | 997 | 59 | Becky Shimko |
 | 998 | 59 | Kb Ludiweci |
 | 999 | 59 | Mike Kremen |
