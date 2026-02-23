@@ -174,8 +174,8 @@
 | 166 | 1804 | Chirpy Staggerpiece |
 | 167 | 1790 | Kara Gillen |
 | 168 | 1778 | bonsai |
-| 169 | 1771 | Eboni Banks |
-| 170 | 1771 | Heather Westrum |
+| 169 | 1771 | Heather Westrum |
+| 170 | 1771 | Eboni Banks |
 | 171 | 1767 | niecy |
 | 172 | 1763 | Juliana Marques Do Nascimento Gordy |
 | 173 | 1759 | Nerdy Pattern |
@@ -490,16 +490,16 @@
 | 482 | 833 | Christie |
 | 483 | 832 | Catherine Marsh Gruda |
 | 484 | 831 | Lexie Burke |
-| 485 | 831 | Victoria Moore-Smith |
-| 486 | 831 | Gary Stash |
-| 487 | 831 | Victoria Regina Girolami |
+| 485 | 831 | Victoria Regina Girolami |
+| 486 | 831 | Victoria Moore-Smith |
+| 487 | 831 | Gary Stash |
 | 488 | 830 | Sabrina Burton |
 | 489 | 830 | Connie Jimenez |
 | 490 | 828 | Shantel Kelley |
 | 491 | 826 | Lola Contreras |
 | 492 | 826 | Angela Yantz |
-| 493 | 824 | Danielle Johnson-Chandler |
-| 494 | 824 | Khalil Lowe |
+| 493 | 824 | Khalil Lowe |
+| 494 | 824 | Danielle Johnson-Chandler |
 | 495 | 824 | Melissa Schulz |
 | 496 | 821 | Anthony Mignacca |
 | 497 | 820 | Laura McCarthey |
@@ -536,8 +536,8 @@
 | 528 | 785 | Miranda Morris |
 | 529 | 781 | Sarah Berger |
 | 530 | 779 | Trinity Oak |
-| 531 | 778 | Breezy Filler |
-| 532 | 778 | tejas25 |
+| 531 | 778 | tejas25 |
+| 532 | 778 | Breezy Filler |
 | 533 | 777 | Tesha Oldaker |
 | 534 | 776 | Fancy Twister |
 | 535 | 774 | Cherrica Newman |

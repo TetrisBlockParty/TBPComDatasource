@@ -60,8 +60,8 @@
 | 52 | 1156 | Goatimus Lombardi |
 | 53 | 1150 | Kimyatta Cavin |
 | 54 | 1105 | Ashley Ingram |
-| 55 | 1082 | Avy Absol |
-| 56 | 1082 | Dion Crommarty |
+| 55 | 1082 | Dion Crommarty |
+| 56 | 1082 | Avy Absol |
 | 57 | 1073 | Dustee Craddock-Harrison |
 | 58 | 1049 | Heather Tushner |
 | 59 | 1046 | Johnathan Martinez |
@@ -195,8 +195,8 @@
 | 187 | 465 | Jolly Dashfit |
 | 188 | 464 | Sharyn Lemire |
 | 189 | 462 | Leslie Thomas |
-| 190 | 457 | June Hoffman |
-| 191 | 457 | Kristin Manee |
+| 190 | 457 | Kristin Manee |
+| 191 | 457 | June Hoffman |
 | 192 | 455 | Michele Plunkett |
 | 193 | 450 | Amanda Pauldo-Ivy |
 | 194 | 449 | Rebecca Morris |
@@ -222,16 +222,16 @@
 | 214 | 422 | Zakia Monae |
 | 215 | 421 | JIGsaw ~(•¿°)~ |
 | 216 | 419 | Chris Bernstein |
-| 217 | 418 | Marie-Pier Desjardins |
-| 218 | 418 | Lush Linkfall |
+| 217 | 418 | Lush Linkfall |
+| 218 | 418 | Marie-Pier Desjardins |
 | 219 | 413 | John Brunetti |
 | 220 | 411 | Mimi |
 | 221 | 411 | Silly Zonebuilder |
 | 222 | 411 | Autumn Kumzi |
 | 223 | 409 | Antony Dwayne Beasley |
 | 224 | 400 | TinyLegoRose |
-| 225 | 399 | Lindsay Ball |
-| 226 | 399 | Jeff Brian Gates |
+| 225 | 399 | Jeff Brian Gates |
+| 226 | 399 | Lindsay Ball |
 | 227 | 398 | Tyler Terrific |
 | 228 | 394 | Nita Wells |
 | 229 | 390 | Kathy Brookins |
@@ -243,8 +243,8 @@
 | 235 | 383 | blockstar |
 | 236 | 382 | Sue Joyce Staats |
 | 237 | 381 | Plucky Patternblock |
-| 238 | 380 | Zesty Twistbuilder |
-| 239 | 380 | Rio Rocha |
+| 238 | 380 | Rio Rocha |
+| 239 | 380 | Zesty Twistbuilder |
 | 240 | 379 | Backoff Recupe |
 | 241 | 378 | Holly Jolly |
 | 242 | 378 | Lauren Scott |
@@ -252,12 +252,12 @@
 | 244 | 378 | Googenheim |
 | 245 | 378 | JPW |
 | 246 | 376 | Nig |
-| 247 | 369 | Rafael Valentin |
-| 248 | 369 | Matt Dell'Olio |
+| 247 | 369 | Matt Dell'Olio |
+| 248 | 369 | Rafael Valentin |
 | 249 | 368 | Kris Bartlett |
 | 250 | 367 | Meg |
-| 251 | 366 | Andrew Dang |
-| 252 | 366 | Cheery Risebuilder |
+| 251 | 366 | Cheery Risebuilder |
+| 252 | 366 | Andrew Dang |
 | 253 | 365 | Hyper Builder |
 | 254 | 363 | KimoKoala |
 | 255 | 363 | TRCuse |
@@ -287,9 +287,9 @@
 | 279 | 324 | Nubian1 |
 | 280 | 322 | Manny1 |
 | 281 | 321 | Chance Strickland |
-| 282 | 321 | Stacey Stano |
-| 283 | 321 | Montiette Mcglown |
-| 284 | 321 | Meagan Nicole |
+| 282 | 321 | Meagan Nicole |
+| 283 | 321 | Stacey Stano |
+| 284 | 321 | Montiette Mcglown |
 | 285 | 321 | Blessedmama |
 | 286 | 317 | Madison Sweere |
 | 287 | 316 | Stella |
@@ -384,8 +384,8 @@
 | 376 | 257 | Alexandra Karavias |
 | 377 | 256 | Mackenzie Forrester |
 | 378 | 256 | Jason Bosco |
-| 379 | 255 | Sallie Sanborn |
-| 380 | 255 | PennyCandee |
+| 379 | 255 | PennyCandee |
+| 380 | 255 | Sallie Sanborn |
 | 381 | 253 | Chair |
 | 382 | 253 | Autum Leigh |
 | 383 | 252 | Gracie Ann Taylor |

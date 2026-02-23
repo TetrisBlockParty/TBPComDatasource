@@ -171,10 +171,10 @@
 | 163 | 476 | Snappy Matcher |
 | 164 | 476 | phrmblk24 |
 | 165 | 470 | Candy Jones |
-| 166 | 468 | Steve Schneider |
-| 167 | 468 | Dandy Basegrid |
-| 168 | 463 | Brandi Huntington |
-| 169 | 463 | Nicole Roseberry Weber |
+| 166 | 468 | Dandy Basegrid |
+| 167 | 468 | Steve Schneider |
+| 168 | 463 | Nicole Roseberry Weber |
+| 169 | 463 | Brandi Huntington |
 | 170 | 462 | Hasty Cascader |
 | 171 | 458 | Goose egg |
 | 172 | 458 | Dizzy Slider |
@@ -247,8 +247,8 @@
 | 239 | 363 | Jerry Danowski |
 | 240 | 361 | Chantelle Ceno |
 | 241 | 360 | Speedy Liney |
-| 242 | 359 | Jo Kerley |
-| 243 | 359 | Oscar Zamora |
+| 242 | 359 | Oscar Zamora |
+| 243 | 359 | Jo Kerley |
 | 244 | 358 | Tipsy Strikerpiece |
 | 245 | 357 | Shiny Snapfit |
 | 246 | 357 | Teri Oehlke |
@@ -664,12 +664,12 @@
 | 656 | 152 | Jake Mcnabb |
 | 657 | 152 | Swanky Patternfit |
 | 658 | 152 | Purple |
-| 659 | 152 | 윤이나 |
+| 659 | 152 | Ruby Sandberg |
 | 660 | 152 | Cree |
-| 661 | 151 | Alex Ipad |
-| 662 | 151 | Christina Torres |
-| 663 | 151 | Plucky Wrecker |
-| 664 | 151 | Chummy Risebuilder |
+| 661 | 151 | Plucky Wrecker |
+| 662 | 151 | Alex Ipad |
+| 663 | 151 | Chummy Risebuilder |
+| 664 | 151 | Christina Torres |
 | 665 | 150 | Prometheus |
 | 666 | 149 | Goobette |
 | 667 | 148 | MamaB24 |

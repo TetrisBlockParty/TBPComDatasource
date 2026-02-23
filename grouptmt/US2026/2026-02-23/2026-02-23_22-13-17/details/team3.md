@@ -840,7 +840,7 @@
 | 832 | 186 | Tommy Proctor |
 | 833 | 186 | Cranky Slam |
 | 834 | 185 | Glitzy Slide |
-| 835 | 184 | Shiny Zonebuilder |
+| 835 | 184 | Christian Luna |
 | 836 | 184 | Barb Wensink Johnson |
 | 837 | 184 | Shiny Zonebuilder |
 | 838 | 184 | Giddy Basepiece |
