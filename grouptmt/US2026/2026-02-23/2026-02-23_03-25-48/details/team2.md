@@ -40,8 +40,8 @@
 | 32 | 4274 | Vistabrat |
 | 33 | 4199 | Claire Noland |
 | 34 | 4128 | Angela Pruitt |
-| 35 | 4120 | Corrine Hawks Soriano |
-| 36 | 4120 | Kristen Sceurman |
+| 35 | 4120 | Kristen Sceurman |
+| 36 | 4120 | Corrine Hawks Soriano |
 | 37 | 4093 | Jill Stroehlein |
 | 38 | 3895 | Nickie Baby |
 | 39 | 3778 | Brittany Alicia |
@@ -199,8 +199,8 @@
 | 191 | 1300 | Tacara Cummings |
 | 192 | 1294 | Ashley House |
 | 193 | 1286 | Altamirano Michael |
-| 194 | 1282 | Tanya Parsons |
-| 195 | 1282 | Ashley Rose Frederick |
+| 194 | 1282 | Ashley Rose Frederick |
+| 195 | 1282 | Tanya Parsons |
 | 196 | 1258 | Joyce Johnson Vaughn |
 | 197 | 1257 | Michele Gabriel |
 | 198 | 1252 | Angel |
@@ -210,8 +210,8 @@
 | 202 | 1232 | Groovy Puzzle |
 | 203 | 1232 | Ambyre Patterson |
 | 204 | 1230 | Megan Garrick |
-| 205 | 1217 | Lucky Ladybug |
-| 206 | 1217 | Brooks Brooks |
+| 205 | 1217 | Brooks Brooks |
+| 206 | 1217 | Lucky Ladybug |
 | 207 | 1207 | David Cudicio-Hayden |
 | 208 | 1205 | Tony Lea |
 | 209 | 1198 | Carrie Trigg |
@@ -350,8 +350,8 @@
 | 342 | 833 | Cody Nishimura |
 | 343 | 831 | Christina Lewis-Vickers |
 | 344 | 830 | Diallo Sparkman |
-| 345 | 824 | Danielle Johnson-Chandler |
-| 346 | 824 | Khalil Lowe |
+| 345 | 824 | Khalil Lowe |
+| 346 | 824 | Danielle Johnson-Chandler |
 | 347 | 823 | Alezandra Smith |
 | 348 | 821 | Angie Bolton Workman |
 | 349 | 821 | Cassie Mercer |
@@ -423,8 +423,8 @@
 | 415 | 731 | Charvi' Carter |
 | 416 | 730 | Hoppy Brickmatch |
 | 417 | 729 | goofinoff |
-| 418 | 728 | Tom Riefer |
-| 419 | 728 | Dylan Thomason |
+| 418 | 728 | Dylan Thomason |
+| 419 | 728 | Tom Riefer |
 | 420 | 725 | Vonceial Boone |
 | 421 | 724 | Melissa Holsinger |
 | 422 | 722 | tejas25 |

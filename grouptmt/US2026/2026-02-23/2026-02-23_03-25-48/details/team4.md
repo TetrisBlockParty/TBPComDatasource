@@ -133,8 +133,8 @@
 | 125 | 452 | Jolly Dashfit |
 | 126 | 451 | Peachy Fall |
 | 127 | 448 | Kristin Manee |
-| 128 | 435 | Leslie Thomas |
-| 129 | 435 | Kristina Black |
+| 128 | 435 | Kristina Black |
+| 129 | 435 | Leslie Thomas |
 | 130 | 431 | Courtney Cicoria |
 | 131 | 421 | Monica Daley |
 | 132 | 421 | JIGsaw ~(•¿°)~ |
@@ -150,14 +150,14 @@
 | 142 | 406 | Damn Libra |
 | 143 | 402 | Ericca Eldridge |
 | 144 | 399 | Swanky Fitline |
-| 145 | 393 | Carlton Unfiltered |
-| 146 | 393 | Trish |
-| 147 | 393 | Girl |
-| 148 | 391 | Livvy |
-| 149 | 391 | Ramel Rhodes |
+| 145 | 393 | Trish |
+| 146 | 393 | Girl |
+| 147 | 393 | Carlton Unfiltered |
+| 148 | 391 | Ramel Rhodes |
+| 149 | 391 | Livvy |
 | 150 | 389 | Joseph Guthrie |
-| 151 | 387 | 🥔🥔 Spudz |
-| 152 | 387 | Lucas J Sutton |
+| 151 | 387 | Lucas J Sutton |
+| 152 | 387 | 🥔🥔 Spudz |
 | 153 | 377 | Carrie Brian |
 | 154 | 375 | Desi Desporte |
 | 155 | 375 | ThaEviLJeNiuZ |
@@ -169,8 +169,8 @@
 | 161 | 368 | Brandon Crabbs |
 | 162 | 368 | Raegan Lane-Ross |
 | 163 | 365 | Lindsey Gonzalez |
-| 164 | 361 | Melissa Adams |
-| 165 | 361 | Danielle Kollias |
+| 164 | 361 | Danielle Kollias |
+| 165 | 361 | Melissa Adams |
 | 166 | 358 | A5! |
 | 167 | 356 | George Nutt |
 | 168 | 352 | Sue Joyce Staats |

@@ -82,8 +82,8 @@
 | 74 | 646 | Susanna Guerry |
 | 75 | 641 | Cartier |
 | 76 | 634 | Snappy Swiper |
-| 77 | 598 | Kellie |
-| 78 | 598 | Erin Hodges Plumb |
+| 77 | 598 | Erin Hodges Plumb |
+| 78 | 598 | Kellie |
 | 79 | 584 | Jen Sartain |
 | 80 | 582 | Plucky Fallzone |
 | 81 | 575 | Greg Hart |
@@ -204,8 +204,8 @@
 | 196 | 296 | Witty Builderfit |
 | 197 | 296 | Cody Gates |
 | 198 | 295 | Sleepysloath5745 |
-| 199 | 294 | Bindi |
-| 200 | 294 | Margo Wagner |
+| 199 | 294 | Margo Wagner |
+| 200 | 294 | Bindi |
 | 201 | 293 | John Kim |
 | 202 | 291 | Brave Wrecker |
 | 203 | 290 | Speedy Liney |
@@ -219,16 +219,16 @@
 | 211 | 282 | Timothy Dew |
 | 212 | 282 | Snippy Wipebuilder |
 | 213 | 280 | Billie Dawn Sparks |
-| 214 | 279 | Tana |
-| 215 | 279 | Bird Person |
+| 214 | 279 | Bird Person |
+| 215 | 279 | Tana |
 | 216 | 278 | Amanda Jarnagin |
 | 217 | 277 | Nutty Spinblock |
 | 218 | 277 | Melissa Lemmon |
 | 219 | 275 | Cheeky Pop |
 | 220 | 275 | Chris65 |
 | 221 | 273 | Shannon Marie Pitts |
-| 222 | 271 | Sam Williams |
-| 223 | 271 | Frothy Pattern |
+| 222 | 271 | Frothy Pattern |
+| 223 | 271 | Sam Williams |
 | 224 | 270 | Debbie Kane |
 | 225 | 265 | Kandae |
 | 226 | 264 | Jenny Gingrich Fuentes |
@@ -306,9 +306,9 @@
 | 298 | 216 | Chad Atchley |
 | 299 | 215 | Christina Norman |
 | 300 | 214 | Tiger Lily |
-| 301 | 213 | John Barron |
-| 302 | 213 | Poppy Riserpiece |
-| 303 | 213 | Itspaigebro |
+| 301 | 213 | Itspaigebro |
+| 302 | 213 | John Barron |
+| 303 | 213 | Poppy Riserpiece |
 | 304 | 212 | Michelle Beres |
 | 305 | 210 | Timothy Danaher |
 | 306 | 209 | Breanna Luna |
