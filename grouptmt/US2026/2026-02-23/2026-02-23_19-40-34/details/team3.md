@@ -202,9 +202,9 @@
 | 194 | 616 | Kammy Hill |
 | 195 | 615 | Tasha Gillespie |
 | 196 | 601 | CeceGeGe |
-| 197 | 600 | Domo Washington |
-| 198 | 600 | Makelini Mausia |
-| 199 | 600 | Keis |
+| 197 | 600 | Makelini Mausia |
+| 198 | 600 | Keis |
+| 199 | 600 | Domo Washington |
 | 200 | 598 | Bmo |
 | 201 | 598 | Annie Déè |
 | 202 | 595 | Kaycee Kay |
@@ -430,8 +430,8 @@
 | 422 | 314 | Tipsy Zonebuilder |
 | 423 | 313 | Hoppy Buildout |
 | 424 | 312 | Eric Caccavale |
-| 425 | 309 | Block Baddie |
-| 426 | 309 | Cheeky Snapper |
+| 425 | 309 | Cheeky Snapper |
+| 426 | 309 | Block Baddie |
 | 427 | 308 | Katrina Turner |
 | 428 | 308 | Sassy Brickmatch |
 | 429 | 308 | Romeo |
@@ -454,8 +454,8 @@
 | 446 | 299 | Antonia Russell |
 | 447 | 299 | Angie Harper |
 | 448 | 299 | Samantha Worley |
-| 449 | 298 | Grams |
-| 450 | 298 | Dannie Litchard |
+| 449 | 298 | Dannie Litchard |
+| 450 | 298 | Grams |
 | 451 | 297 | Quirky Snapfit |
 | 452 | 296 | Amy Montz |
 | 453 | 296 | Tracy Martin |
@@ -658,16 +658,16 @@
 | 650 | 217 | Jazzy Spinfit |
 | 651 | 217 | Alexi Pryor |
 | 652 | 217 | Jumpy Wrecker |
-| 653 | 216 | Zaza Lewis |
-| 654 | 216 | Clever Edgepiece |
-| 655 | 216 | Michael Pleasant |
+| 653 | 216 | Clever Edgepiece |
+| 654 | 216 | Michael Pleasant |
+| 655 | 216 | Zaza Lewis |
 | 656 | 215 | Tammy |
 | 657 | 215 | Michell Hendershott Jackson |
 | 658 | 215 | Gina Marie |
 | 659 | 214 | Shiny Snapfit |
 | 660 | 214 | Amy Fuller Heaton |
-| 661 | 213 | Taylor |
-| 662 | 213 | Laaken Draper |
+| 661 | 213 | Laaken Draper |
+| 662 | 213 | Taylor |
 | 663 | 213 | Heather Ferrara |
 | 664 | 212 | Kita A Jackson |
 | 665 | 212 | Beth Ingham |

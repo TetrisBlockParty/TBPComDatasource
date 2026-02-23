@@ -164,11 +164,11 @@
 | 156 | 508 | Twisty Clicky |
 | 157 | 502 | Ellen Durfee |
 | 158 | 499 | Ericca Eldridge |
-| 159 | 498 | Nope Young |
-| 160 | 498 | Melissa Adams |
+| 159 | 498 | Melissa Adams |
+| 160 | 498 | Nope Young |
 | 161 | 496 | Jessica Lynn Cutlip |
-| 162 | 491 | Carrie Brian |
-| 163 | 491 | Jade Rian |
+| 162 | 491 | Jade Rian |
+| 163 | 491 | Carrie Brian |
 | 164 | 486 | Swanky Fitline |
 | 165 | 485 | Rico |
 | 166 | 480 | Brandon Crabbs |
