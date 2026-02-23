@@ -207,8 +207,8 @@
 | 199 | 341 | Nick R Montague |
 | 200 | 339 | Nicole Roseberry Weber |
 | 201 | 337 | Jamise Brown |
-| 202 | 333 | Tyler Hertzog |
-| 203 | 333 | Virginia Gray Floyd |
+| 202 | 333 | Virginia Gray Floyd |
+| 203 | 333 | Tyler Hertzog |
 | 204 | 333 | Gracie |
 | 205 | 332 | Happy Basegrid |
 | 206 | 328 | Snappy Matcher |
@@ -245,8 +245,8 @@
 | 237 | 287 | Sassy Builderline |
 | 238 | 285 | Shanae Grant |
 | 239 | 285 | Bird Person |
-| 240 | 284 | Sam Williams |
-| 241 | 284 | Sir-Franchise Drake |
+| 240 | 284 | Sir-Franchise Drake |
+| 241 | 284 | Sam Williams |
 | 242 | 283 | Franswa |
 | 243 | 282 | Timothy Dew |
 | 244 | 281 | Clever Cascadepiece |
@@ -263,8 +263,8 @@
 | 255 | 272 | Barrbaric |
 | 256 | 272 | Michelle Beres |
 | 257 | 271 | Frothy Pattern |
-| 258 | 270 | Debbie Kane |
-| 259 | 270 | Brenda Alexander |
+| 258 | 270 | Brenda Alexander |
+| 259 | 270 | Debbie Kane |
 | 260 | 268 | Standia Civil |
 | 261 | 267 | Daring Fitclear |
 | 262 | 265 | Kandae |
@@ -374,8 +374,8 @@
 | 366 | 205 | Agustin Duarte Orozco |
 | 367 | 205 | Elizabeth Kubli |
 | 368 | 205 | build master |
-| 369 | 204 | LD1 |
-| 370 | 204 | Cranky Pattern |
+| 369 | 204 | Cranky Pattern |
+| 370 | 204 | LD1 |
 | 371 | 203 | Rebekah LeiAnn Bonsell |
 | 372 | 202 | Amber Dee |
 | 373 | 202 | Andrew Backes |

@@ -310,8 +310,8 @@
 | 302 | 998 | Keri Womack |
 | 303 | 996 | Ashie Ann |
 | 304 | 987 | Osun Anuket Esu |
-| 305 | 979 | Hillary Crawford |
-| 306 | 979 | Melissa Penelope Ann Dodge |
+| 305 | 979 | Melissa Penelope Ann Dodge |
+| 306 | 979 | Hillary Crawford |
 | 307 | 978 | April Dawn Gussler |
 | 308 | 976 | Sam Joe |
 | 309 | 976 | Della Hole |
@@ -391,8 +391,8 @@
 | 383 | 829 | Angie Bolton Workman |
 | 384 | 828 | Kimmy Newman |
 | 385 | 825 | Jeremy Parodi |
-| 386 | 824 | Danielle Johnson-Chandler |
-| 387 | 824 | Khalil Lowe |
+| 386 | 824 | Khalil Lowe |
+| 387 | 824 | Danielle Johnson-Chandler |
 | 388 | 822 | Lola Contreras |
 | 389 | 821 | Cassie Mercer |
 | 390 | 816 | Beth |
@@ -638,8 +638,8 @@
 | 630 | 566 | SwampRebel |
 | 631 | 566 | Tina Marie |
 | 632 | 564 | Stacey Tranchida |
-| 633 | 563 | Nat |
-| 634 | 563 | Frisky Clearpiece |
+| 633 | 563 | Frisky Clearpiece |
+| 634 | 563 | Nat |
 | 635 | 562 | Sabrena Yeisley |
 | 636 | 559 | Alexx Anaya |
 | 637 | 559 | Anthony Huebel |
@@ -843,8 +843,8 @@
 | 835 | 445 | Beatboxxer |
 | 836 | 444 | Lynda Toland |
 | 837 | 444 | Angela Murgia-Owen |
-| 838 | 443 | N00D3S |
-| 839 | 443 | Giggy Grabber |
+| 838 | 443 | Giggy Grabber |
+| 839 | 443 | N00D3S |
 | 840 | 442 | Juan Castillo |
 | 841 | 442 | Rain |
 | 842 | 441 | Goofy Catcher |
@@ -913,8 +913,8 @@
 | 905 | 411 | BabyBird |
 | 906 | 410 | Michelle Grant-Moncrieft |
 | 907 | 409 | Lush Snapzone |
-| 908 | 408 | cornball |
-| 909 | 408 | Dad |
+| 908 | 408 | Dad |
+| 909 | 408 | cornball |
 | 910 | 408 | Janitta Alvarez |
 | 911 | 407 | Danielle DeLozier Plesec |
 | 912 | 407 | Christina Jarvis-Swarbrick |
@@ -1570,8 +1570,8 @@
 | 1562 | 259 | Tabitha Chism |
 | 1563 | 259 | Harley Williams |
 | 1564 | 259 | Huxley Ren |
-| 1565 | 259 | Denelle Wendt-Ramalho |
-| 1566 | 259 | Shinel Richardson |
+| 1565 | 259 | Shinel Richardson |
+| 1566 | 259 | Denelle Wendt-Ramalho |
 | 1567 | 259 | Groovy Slam |
 | 1568 | 258 | Sheila Conner |
 | 1569 | 258 | DesertDreamer24 |

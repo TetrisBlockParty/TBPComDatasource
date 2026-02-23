@@ -76,8 +76,8 @@
 | 68 | 787 | loulou |
 | 69 | 767 | Shannon Ferrari |
 | 70 | 766 | Robin Watters |
-| 71 | 765 | Robin Getchel |
-| 72 | 765 | Denise Carlson |
+| 71 | 765 | Denise Carlson |
+| 72 | 765 | Robin Getchel |
 | 73 | 753 | TheNeesh50 |
 | 74 | 752 | Shane Kalamata Platoon |
 | 75 | 749 | Dustee Craddock-Harrison |
@@ -89,8 +89,8 @@
 | 81 | 703 | Savannah Overdorf |
 | 82 | 697 | Alyssa Papen |
 | 83 | 694 | Diana Houts |
-| 84 | 684 | Kimyatta Cavin |
-| 85 | 684 | Jonathan Kimbrough |
+| 84 | 684 | Jonathan Kimbrough |
+| 85 | 684 | Kimyatta Cavin |
 | 86 | 678 | Trista Leah |
 | 87 | 673 | Jacqueline Helm |
 | 88 | 670 | Destiney Carter |
@@ -227,8 +227,8 @@
 | 219 | 307 | Michele Plunkett |
 | 220 | 306 | mike |
 | 221 | 305 | Melvin Baird |
-| 222 | 304 | Lindsay Ball |
-| 223 | 304 | Gdiguy |
+| 222 | 304 | Gdiguy |
+| 223 | 304 | Lindsay Ball |
 | 224 | 301 | Andria Lynn |
 | 225 | 300 | Dana Scott |
 | 226 | 297 | Lori |
@@ -245,17 +245,17 @@
 | 237 | 288 | Brittney Orengo |
 | 238 | 288 | Adam Stephanie Parker |
 | 239 | 285 | 030Synner |
-| 240 | 284 | Mimi |
-| 241 | 284 | Matt Dell'Olio |
+| 240 | 284 | Matt Dell'Olio |
+| 241 | 284 | Mimi |
 | 242 | 282 | Kim Klutz Olson |
 | 243 | 282 | Matt Gooder |
 | 244 | 281 | Laura |
 | 245 | 280 | Rio Rocha |
 | 246 | 279 | Malakai Darien Fox |
-| 247 | 278 | Angela Geist Jusinski |
-| 248 | 278 | Sarah Brown |
-| 249 | 276 | Cynthia Boudreau |
-| 250 | 276 | Joeliecea Cobb |
+| 247 | 278 | Sarah Brown |
+| 248 | 278 | Angela Geist Jusinski |
+| 249 | 276 | Joeliecea Cobb |
+| 250 | 276 | Cynthia Boudreau |
 | 251 | 275 | Kimberlee Jan Beckstead |
 | 252 | 273 | Cranky Rollpiece |
 | 253 | 272 | Dennis Bradley |
@@ -305,8 +305,8 @@
 | 297 | 237 | Christine Therrien |
 | 298 | 235 | LaDonna LovinmesomeMe Lambert |
 | 299 | 235 | Shainne Brewer |
-| 300 | 234 | Richard-April Kice |
-| 301 | 234 | Shanon Klair |
+| 300 | 234 | Shanon Klair |
+| 301 | 234 | Richard-April Kice |
 | 302 | 234 | Diosa Ebalobo Magsael |
 | 303 | 233 | Joseph Edmonson |
 | 304 | 230 | Chantilly Laace |
@@ -349,8 +349,8 @@
 | 341 | 210 | Ari Droff |
 | 342 | 209 | Marcus Todd |
 | 343 | 209 | Snippy Puzzle |
-| 344 | 208 | Heather Bruce |
-| 345 | 208 | Shukee Lo |
+| 344 | 208 | Shukee Lo |
+| 345 | 208 | Heather Bruce |
 | 346 | 207 | Squeezy Pearsall |
 | 347 | 206 | June Hoffman |
 | 348 | 206 | Maureen Flanigan |
@@ -492,7 +492,7 @@
 | 484 | 151 | Brad Campbell |
 | 485 | 150 | Grann8 |
 | 486 | 150 | Nerdy Linebuilder |
-| 487 | 150 | Jobadia Steelerton |
+| 487 | 150 | PennyCandee |
 | 488 | 150 | Ron |
 | 489 | 150 | Kujuanna Hammon |
 | 490 | 150 | Jobadia Steelerton |
@@ -566,8 +566,8 @@
 | 558 | 129 | GTxIrishman |
 | 559 | 129 | Tamika Starkey |
 | 560 | 128 | Zesty Linkgrid |
-| 561 | 128 | Raymond Roberts |
-| 562 | 128 | Lazy Glidepiece |
+| 561 | 128 | Lazy Glidepiece |
+| 562 | 128 | Raymond Roberts |
 | 563 | 127 | Jay You |
 | 564 | 126 | PAPatty |
 | 565 | 126 | Spicy Cascadezone |

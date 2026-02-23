@@ -114,8 +114,8 @@
 | 106 | 869 | Araceli Parra |
 | 107 | 868 | Sarajane Lokan |
 | 108 | 860 | Sunny Rotater |
-| 109 | 851 | Danielle Becker |
-| 110 | 851 | Jd Morris |
+| 109 | 851 | Jd Morris |
+| 110 | 851 | Danielle Becker |
 | 111 | 850 | Danielle Mogg |
 | 112 | 848 | Patricia Gadsden |
 | 113 | 839 | Angeline Joseph |
@@ -165,8 +165,8 @@
 | 157 | 646 | Bea Miles |
 | 158 | 634 | Amber Hughes |
 | 159 | 630 | yoyo |
-| 160 | 621 | Cherry Parker |
-| 161 | 621 | Sashay Tapae Simpson |
+| 160 | 621 | Sashay Tapae Simpson |
+| 161 | 621 | Cherry Parker |
 | 162 | 616 | Kammy Hill |
 | 163 | 611 | Rochelle Hazelett |
 | 164 | 607 | Grego Daniel |
@@ -194,12 +194,12 @@
 | 186 | 559 | Patti Skiles |
 | 187 | 556 | Elissa S-k |
 | 188 | 548 | Danielle Balcom |
-| 189 | 546 | Mykal Burton |
+| 189 | 546 | Tasha Schriewer |
 | 190 | 546 | Cynthia Castros-Hampton |
-| 191 | 546 | Tasha Schriewer |
+| 191 | 546 | Mykal Burton |
 | 192 | 540 | Shawn Miller |
-| 193 | 531 | Sarah Cowan Burgos |
-| 194 | 531 | Chauntee Alfrey-Cardinale |
+| 193 | 531 | Chauntee Alfrey-Cardinale |
+| 194 | 531 | Sarah Cowan Burgos |
 | 195 | 528 | Silly Twist |
 | 196 | 525 | Stephanie Blkpep Davidson |
 | 197 | 524 | Bmo |
@@ -218,8 +218,8 @@
 | 210 | 485 | Dapper Snap |
 | 211 | 484 | Fallorina Susana |
 | 212 | 481 | Connie Mohler-Fair |
-| 213 | 480 | Danielle Allison |
-| 214 | 480 | Michael Johnson |
+| 213 | 480 | Michael Johnson |
+| 214 | 480 | Danielle Allison |
 | 215 | 477 | Edwin Calvillo Jr. |
 | 216 | 475 | Tessina Dewey-Mancino |
 | 217 | 471 | Mendoza Lee Christy |
@@ -261,8 +261,8 @@
 | 253 | 406 | Kristal C Lee |
 | 254 | 405 | Steffi Chris Dacones |
 | 255 | 404 | Chasity |
-| 256 | 403 | Scott Lindsay |
-| 257 | 403 | Denita Mungro |
+| 256 | 403 | Denita Mungro |
+| 257 | 403 | Scott Lindsay |
 | 258 | 396 | Randy Clevenger |
 | 259 | 395 | Ashley Tookes |
 | 260 | 395 | rosy |
@@ -288,8 +288,8 @@
 | 280 | 369 | Jennifer Alvey |
 | 281 | 369 | Keis |
 | 282 | 369 | Amber Glover |
-| 283 | 368 | Sheila M Frazier |
-| 284 | 368 | Stephanie Woods |
+| 283 | 368 | Stephanie Woods |
+| 284 | 368 | Sheila M Frazier |
 | 285 | 366 | Gumbo |
 | 286 | 363 | Kaycee Kay |
 | 287 | 362 | Brandon Givens |
@@ -302,8 +302,8 @@
 | 294 | 353 | Cyd061769 |
 | 295 | 353 | Dee Franklin |
 | 296 | 352 | Christian Werndl |
-| 297 | 351 | Eon Harris |
-| 298 | 351 | Blocked |
+| 297 | 351 | Blocked |
+| 298 | 351 | Eon Harris |
 | 299 | 350 | LaShey Thompson |
 | 300 | 349 | Amanda J. Mcneil-Anderson |
 | 301 | 348 | Ashley Raines |
@@ -400,8 +400,8 @@
 | 392 | 273 | Quackers |
 | 393 | 273 | Kevin Fountain |
 | 394 | 272 | Romeo |
-| 395 | 272 | Todd Hall |
-| 396 | 272 | Tay |
+| 395 | 272 | Tay |
+| 396 | 272 | Todd Hall |
 | 397 | 269 | Goofy Fall |
 | 398 | 269 | Juliana Dottore |
 | 399 | 269 | Samantha Worley |
@@ -708,9 +708,9 @@
 | 700 | 164 | Megan Stanley |
 | 701 | 163 | Julian Murphy |
 | 702 | 162 | gravelgrinder |
-| 703 | 162 | Steven Fulater |
-| 704 | 162 | Tony Tran |
-| 705 | 162 | Cathy Leger |
+| 703 | 162 | Tony Tran |
+| 704 | 162 | Cathy Leger |
+| 705 | 162 | Steven Fulater |
 | 706 | 161 | Patty White |
 | 707 | 161 | Paul Larsen |
 | 708 | 161 | Jessica Rose-Morgan |
@@ -734,8 +734,8 @@
 | 726 | 156 | LIL BIT |
 | 727 | 156 | Brittany K Ward |
 | 728 | 156 | Courtney Conboy |
-| 729 | 155 | Katie Bolich |
-| 730 | 155 | Brave Brickster |
+| 729 | 155 | Brave Brickster |
+| 730 | 155 | Katie Bolich |
 | 731 | 155 | TEDDY |
 | 732 | 154 | Rima Mackelburger |
 | 733 | 154 | Jessie Chung |
