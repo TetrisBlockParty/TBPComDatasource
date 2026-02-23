@@ -123,8 +123,8 @@
 | 115 | 525 | Evan Richmond |
 | 116 | 522 | Sarah Lombardo |
 | 117 | 515 | Death |
-| 118 | 513 | Colena Davenport |
-| 119 | 513 | April Carroll |
+| 118 | 513 | April Carroll |
+| 119 | 513 | Colena Davenport |
 | 120 | 509 | Rachael |
 | 121 | 503 | Sharon Reynolds |
 | 122 | 502 | Anaid Sanchez |
@@ -179,8 +179,8 @@
 | 171 | 403 | Tana |
 | 172 | 402 | Chris K |
 | 173 | 400 | Chelsea Dahlquist |
-| 174 | 399 | phrmblk24 |
-| 175 | 399 | Nery Martinez |
+| 174 | 399 | Nery Martinez |
+| 175 | 399 | phrmblk24 |
 | 176 | 397 | Erin Rosberg |
 | 177 | 395 | Christy Jones |
 | 178 | 394 | Lori Bales |
@@ -224,7 +224,7 @@
 | 216 | 354 | Chuck Gannon |
 | 217 | 353 | Reesey Enyart |
 | 218 | 353 | Josh Riemer |
-| 219 | 353 | Reesey Enyart |
+| 219 | 353 | Jaimie Lynn |
 | 220 | 351 | Sean Stallings |
 | 221 | 350 | Tipsy Strikerpiece |
 | 222 | 349 | Cool Shiftsnap |
@@ -244,8 +244,8 @@
 | 236 | 332 | Happy Basegrid |
 | 237 | 330 | Jen Nystrom |
 | 238 | 328 | Snappy Matcher |
-| 239 | 325 | GringaLinga |
-| 240 | 325 | Chantelle Ceno |
+| 239 | 325 | Chantelle Ceno |
+| 240 | 325 | GringaLinga |
 | 241 | 324 | Rat666 |
 | 242 | 323 | Eric DeSimone |
 | 243 | 322 | Letson Melissa |

@@ -274,10 +274,10 @@
 | 266 | 293 | Joeliecea Cobb |
 | 267 | 292 | Epic Curvetile |
 | 268 | 292 | Angel Raya |
-| 269 | 291 | Nubian1 |
-| 270 | 291 | Dizzy Matchzone |
-| 271 | 290 | Rebecca Morris |
-| 272 | 290 | Plucky Patternblock |
+| 269 | 291 | Dizzy Matchzone |
+| 270 | 291 | Nubian1 |
+| 271 | 290 | Plucky Patternblock |
+| 272 | 290 | Rebecca Morris |
 | 273 | 290 | Jared Gutwein |
 | 274 | 289 | Juls |
 | 275 | 289 | John Brunetti |
@@ -324,8 +324,8 @@
 | 316 | 254 | Ari Droff |
 | 317 | 253 | Cool Buildout |
 | 318 | 253 | Autum Leigh |
-| 319 | 252 | Nita Wells |
-| 320 | 252 | Amy Sanford |
+| 319 | 252 | Amy Sanford |
+| 320 | 252 | Nita Wells |
 | 321 | 251 | Carol Ricks Raymond |
 | 322 | 251 | Kathy Allen |
 | 323 | 249 | Ak Jones |

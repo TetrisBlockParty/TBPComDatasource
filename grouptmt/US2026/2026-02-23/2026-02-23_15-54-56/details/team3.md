@@ -198,8 +198,8 @@
 | 190 | 576 | Keis |
 | 191 | 568 | Rachael McClain Owens |
 | 192 | 566 | LaTanya GeminiondaRise Johnson |
-| 193 | 564 | Poppy Splitter |
-| 194 | 564 | Christine Trester |
+| 193 | 564 | Christine Trester |
+| 194 | 564 | Poppy Splitter |
 | 195 | 563 | Jim Mathews |
 | 196 | 562 | Dave Herzog |
 | 197 | 561 | Elissa S-k |
@@ -278,8 +278,8 @@
 | 270 | 421 | Snazzy Filler |
 | 271 | 421 | Chummy Caster |
 | 272 | 420 | Quackers |
-| 273 | 420 | rosy |
-| 274 | 420 | Sabrina Hardrick |
+| 273 | 420 | Sabrina Hardrick |
+| 274 | 420 | rosy |
 | 275 | 417 | Giddy Twistbuilder |
 | 276 | 414 | RickyG |
 | 277 | 412 | Jojo M |
