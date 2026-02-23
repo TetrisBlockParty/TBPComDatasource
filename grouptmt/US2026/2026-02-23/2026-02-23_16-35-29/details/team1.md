@@ -47,8 +47,8 @@
 | 39 | 1128 | june october |
 | 40 | 1126 | Tater |
 | 41 | 1114 | Andrea Dañielle Ortiz |
-| 42 | 1114 | Marianne Louise West |
-| 43 | 1114 | Jayme Sellers |
+| 42 | 1114 | Jayme Sellers |
+| 43 | 1114 | Marianne Louise West |
 | 44 | 1112 | Chipper Gridlock |
 | 45 | 1100 | Derek MF Blakey |
 | 46 | 1092 | Tipsy Column |
@@ -64,8 +64,8 @@
 | 56 | 965 | Kristen Roles Robben |
 | 57 | 961 | Adam Byrd |
 | 58 | 955 | Spunky Piecebuilder |
-| 59 | 949 | TSwag |
-| 60 | 949 | Francesca Gee |
+| 59 | 949 | Francesca Gee |
+| 60 | 949 | TSwag |
 | 61 | 937 | Zippy Align |
 | 62 | 931 | Michelle Nicole |
 | 63 | 899 | Fmp |
@@ -381,8 +381,8 @@
 | 373 | 232 | Itspaigebro |
 | 374 | 232 | Thorne Shumate |
 | 375 | 232 | Jennifer Olewnik Soborowski |
-| 376 | 230 | Jessica Russell |
-| 377 | 230 | Panda Thagreat |
+| 376 | 230 | Panda Thagreat |
+| 377 | 230 | Jessica Russell |
 | 378 | 229 | Ed Franz Jr |
 | 379 | 227 | Nathan William |
 | 380 | 227 | Happy Snapbuild |
