@@ -44,8 +44,8 @@
 | 36 | 4199 | Claire Noland |
 | 37 | 4128 | Angela Pruitt |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Kristen Sceurman |
-| 40 | 4120 | Corrine Hawks Soriano |
+| 39 | 4120 | Corrine Hawks Soriano |
+| 40 | 4120 | Kristen Sceurman |
 | 41 | 3778 | Brittany Alicia |
 | 42 | 3736 | Alisha |
 | 43 | 3723 | Sam Smith |
@@ -145,8 +145,8 @@
 | 137 | 1639 | Jessie McDougald |
 | 138 | 1631 | Speedy Spinblock |
 | 139 | 1629 | Mari Ac |
-| 140 | 1623 | Rebecca Doughman |
-| 141 | 1623 | Janel Turley-Garner |
+| 140 | 1623 | Janel Turley-Garner |
+| 141 | 1623 | Rebecca Doughman |
 | 142 | 1605 | Christi Hulet |
 | 143 | 1602 | blackq |
 | 144 | 1601 | Ray Ray Prado |
@@ -221,8 +221,8 @@
 | 213 | 1217 | Brooks Brooks |
 | 214 | 1214 | David Cudicio-Hayden |
 | 215 | 1210 | Jane Fong |
-| 216 | 1205 | Tony Lea |
-| 217 | 1205 | Tralonda Weeks |
+| 216 | 1205 | Tralonda Weeks |
+| 217 | 1205 | Tony Lea |
 | 218 | 1198 | Carrie Trigg |
 | 219 | 1197 | Ricardo Burton |
 | 220 | 1192 | Denisha Dawkins |
@@ -421,9 +421,9 @@
 | 413 | 746 | Jerilyn Andrina |
 | 414 | 741 | Jánine Riggs |
 | 415 | 740 | Jerry Tempelmeyer |
-| 416 | 737 | Ginger |
+| 416 | 737 | Jeremy Parodi |
 | 417 | 737 | Chelle |
-| 418 | 737 | Jeremy Parodi |
+| 418 | 737 | Ginger |
 | 419 | 734 | Allan Wayne Lamia |
 | 420 | 734 | Ashley Guernsey-Martin |
 | 421 | 732 | Victoria Moore-Smith |
