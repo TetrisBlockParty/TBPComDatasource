@@ -55,8 +55,8 @@
 | 47 | 1126 | Tater |
 | 48 | 1126 | Tipsy Column |
 | 49 | 1122 | Kristen Gideon |
-| 50 | 1114 | Jayme Sellers |
-| 51 | 1114 | Andrea Dañielle Ortiz |
+| 50 | 1114 | Andrea Dañielle Ortiz |
+| 51 | 1114 | Jayme Sellers |
 | 52 | 1074 | Cheeky Twistslam |
 | 53 | 1061 | Carrie Beck Geartz |
 | 54 | 1056 | Lawrence Belanger |
@@ -226,17 +226,17 @@
 | 218 | 378 | Angela Renea Lester |
 | 219 | 377 | Νεφ Όνυξ |
 | 220 | 376 | Snippy Wipebuilder |
-| 221 | 376 | Brian Richardsson |
-| 222 | 376 | Sassy Builderline |
+| 221 | 376 | Sassy Builderline |
+| 222 | 376 | Brian Richardsson |
 | 223 | 375 | Jen Nystrom |
 | 224 | 374 | Jennifer Noe Chandler |
 | 225 | 372 | Dizzy Party |
 | 226 | 371 | Chuck Gannon |
 | 227 | 370 | Gracie |
 | 228 | 366 | J.F. Fields |
-| 229 | 365 | Lakeisha Chapman |
-| 230 | 365 | Shannon Marie Pitts |
-| 231 | 365 | Amanda Holibaugh |
+| 229 | 365 | Shannon Marie Pitts |
+| 230 | 365 | Amanda Holibaugh |
+| 231 | 365 | Lakeisha Chapman |
 | 232 | 364 | Shauna Loe |
 | 233 | 364 | Serina Marie |
 | 234 | 363 | Jerry Danowski |

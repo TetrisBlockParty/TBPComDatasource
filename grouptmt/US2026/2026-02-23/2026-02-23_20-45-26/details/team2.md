@@ -156,8 +156,8 @@
 | 148 | 1960 | Aimee Campbell |
 | 149 | 1959 | Robin Kerby |
 | 150 | 1936 | Angi Harrison |
-| 151 | 1932 | Gary Schaffner Jr. |
-| 152 | 1932 | Angela Lynn |
+| 151 | 1932 | Angela Lynn |
+| 152 | 1932 | Gary Schaffner Jr. |
 | 153 | 1912 | Tonya Brooks-Johnson |
 | 154 | 1904 | Goofy Snapfit |
 | 155 | 1899 | Jumpy Gridpiece |
@@ -176,8 +176,8 @@
 | 168 | 1767 | niecy |
 | 169 | 1763 | Juliana Marques Do Nascimento Gordy |
 | 170 | 1759 | Nerdy Pattern |
-| 171 | 1751 | Bob |
-| 172 | 1751 | Woodys Glass |
+| 171 | 1751 | Woodys Glass |
+| 172 | 1751 | Bob |
 | 173 | 1729 | Eboni Banks |
 | 174 | 1726 | Denise Rickman |
 | 175 | 1724 | Tony Lea |
@@ -202,14 +202,14 @@
 | 194 | 1601 | Ray Ray Prado |
 | 195 | 1600 | Mo Shine On |
 | 196 | 1592 | Dolores Russworn |
-| 197 | 1590 | Jaycee |
-| 198 | 1590 | Amy Sayers |
+| 197 | 1590 | Amy Sayers |
+| 198 | 1590 | Jaycee |
 | 199 | 1585 | Glitzy Stackzone |
 | 200 | 1580 | Sally Dennis |
 | 201 | 1569 | Ashley Dow |
 | 202 | 1565 | Nancy Reid |
-| 203 | 1558 | Crystal Slaughter |
-| 204 | 1558 | Tim Dyer |
+| 203 | 1558 | Tim Dyer |
+| 204 | 1558 | Crystal Slaughter |
 | 205 | 1556 | Tonya Morgan |
 | 206 | 1554 | Howard Forest |
 | 207 | 1553 | Wendy Unsain |
@@ -443,8 +443,8 @@
 | 435 | 894 | Adira Brown |
 | 436 | 888 | Leslie Ann Carter |
 | 437 | 883 | Hong Tang |
-| 438 | 881 | Johnny Yeates |
-| 439 | 881 | Aireka Roman |
+| 438 | 881 | Aireka Roman |
+| 439 | 881 | Johnny Yeates |
 | 440 | 877 | Misti Markijohn |
 | 441 | 876 | Jessicah Myers |
 | 442 | 876 | Jelly |
