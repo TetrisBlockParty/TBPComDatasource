@@ -415,8 +415,8 @@
 | 407 | 881 | Aireka Roman |
 | 408 | 880 | Arlene Joy Belicina |
 | 409 | 879 | Leslie Ann Carter |
-| 410 | 877 | Bubbly Snapfit |
-| 411 | 877 | Misti Markijohn |
+| 410 | 877 | Misti Markijohn |
+| 411 | 877 | Bubbly Snapfit |
 | 412 | 876 | Jessicah Myers |
 | 413 | 872 | Ashle Scranton |
 | 414 | 870 | Joy LaJeunesse |
@@ -433,8 +433,8 @@
 | 425 | 844 | Terri McKelvey McKinley |
 | 426 | 843 | Quirky Twistline |
 | 427 | 841 | AgileDragon |
-| 428 | 840 | Kiana Boschh |
-| 429 | 840 | Traci Johnson |
+| 428 | 840 | Traci Johnson |
+| 429 | 840 | Kiana Boschh |
 | 430 | 836 | KhaosLord |
 | 431 | 836 | Christina Walker |
 | 432 | 835 | Moni Foxe |

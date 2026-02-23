@@ -148,8 +148,8 @@
 | 140 | 776 | Tasha Schriewer |
 | 141 | 773 | Daira Largen |
 | 142 | 770 | Daryn Elliott |
-| 143 | 764 | Groovy Catcher |
-| 144 | 764 | Hasty Cascadefit |
+| 143 | 764 | Hasty Cascadefit |
+| 144 | 764 | Groovy Catcher |
 | 145 | 759 | yoyo |
 | 146 | 757 | Fancy Cascader |
 | 147 | 756 | Patty Allen |
@@ -186,8 +186,8 @@
 | 178 | 633 | Joye Sims Binion |
 | 179 | 632 | Morgan Martinez |
 | 180 | 629 | rnr junky |
-| 181 | 621 | Cherry Parker |
-| 182 | 621 | Sashay Tapae Simpson |
+| 181 | 621 | Sashay Tapae Simpson |
+| 182 | 621 | Cherry Parker |
 | 183 | 620 | Rania Zaqout |
 | 184 | 620 | Jacqueline Rodriguez |
 | 185 | 616 | Kammy Hill |
@@ -274,8 +274,8 @@
 | 266 | 451 | Micayah Stevens |
 | 267 | 449 | Mcathen |
 | 268 | 448 | Scott Carleton |
-| 269 | 443 | Stefanie LaPointe |
-| 270 | 443 | Fancy Curver |
+| 269 | 443 | Fancy Curver |
+| 270 | 443 | Stefanie LaPointe |
 | 271 | 443 | Randy Clevenger |
 | 272 | 442 | Marquita Sheard |
 | 273 | 437 | Loopy Clusterer |

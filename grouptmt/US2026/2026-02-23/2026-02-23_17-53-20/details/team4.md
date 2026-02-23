@@ -402,8 +402,8 @@
 | 394 | 222 | Brandi Durig |
 | 395 | 222 | Rhys Morgan |
 | 396 | 221 | Rheanda Weaskus |
-| 397 | 220 | Dustin York |
-| 398 | 220 | Jessica Petersen |
+| 397 | 220 | Jessica Petersen |
+| 398 | 220 | Dustin York |
 | 399 | 220 | Jumpy Zonepiece |
 | 400 | 220 | Ziggy |
 | 401 | 219 | Shane Vick |
@@ -437,9 +437,9 @@
 | 429 | 207 | Jessica Wells |
 | 430 | 207 | Sam Middleton |
 | 431 | 206 | The Murphy |
-| 432 | 206 | Lilya Troutman |
-| 433 | 206 | Dorian |
-| 434 | 206 | Sticherella |
+| 432 | 206 | Dorian |
+| 433 | 206 | Sticherella |
+| 434 | 206 | Lilya Troutman |
 | 435 | 205 | KayM |
 | 436 | 205 | Mackenzie Forrester |
 | 437 | 205 | Sallie Sanborn |
@@ -501,8 +501,8 @@
 | 493 | 180 | Speedy Cascadeclear |
 | 494 | 180 | Sandra Safford |
 | 495 | 180 | Nig |
-| 496 | 179 | JoAnna Zalkovsky |
-| 497 | 179 | Elle Joe |
+| 496 | 179 | Elle Joe |
+| 497 | 179 | JoAnna Zalkovsky |
 | 498 | 179 | Joseph Gray |
 | 499 | 178 | Nerdy Linebuilder |
 | 500 | 178 | Laurel Coppess |
