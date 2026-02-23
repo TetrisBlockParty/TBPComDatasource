@@ -113,8 +113,8 @@
 | 105 | 868 | Sarajane Lokan |
 | 106 | 866 | Ebony West-Cundiff |
 | 107 | 860 | Sunny Rotater |
-| 108 | 851 | Danielle Becker |
-| 109 | 851 | Jd Morris |
+| 108 | 851 | Jd Morris |
+| 109 | 851 | Danielle Becker |
 | 110 | 850 | Danielle Mogg |
 | 111 | 848 | Patricia Gadsden |
 | 112 | 831 | Angeline Joseph |
@@ -173,8 +173,8 @@
 | 165 | 591 | Michael Nowogorski |
 | 166 | 588 | Justin Ritter |
 | 167 | 587 | Louise Stacy Sisson |
-| 168 | 585 | Annie Marie |
-| 169 | 585 | Happy Tetriblast |
+| 168 | 585 | Happy Tetriblast |
+| 169 | 585 | Annie Marie |
 | 170 | 583 | Tasha Gillespie |
 | 171 | 582 | Natasha Jones |
 | 172 | 577 | Domo Washington |
@@ -192,8 +192,8 @@
 | 184 | 546 | Tasha Schriewer |
 | 185 | 546 | Cynthia Castros-Hampton |
 | 186 | 540 | Shawn Miller |
-| 187 | 531 | Chauntee Alfrey-Cardinale |
-| 188 | 531 | Sarah Cowan Burgos |
+| 187 | 531 | Sarah Cowan Burgos |
+| 188 | 531 | Chauntee Alfrey-Cardinale |
 | 189 | 528 | Silly Twist |
 | 190 | 525 | Stephanie Blkpep Davidson |
 | 191 | 524 | Bmo |
@@ -205,8 +205,8 @@
 | 197 | 499 | Makelini Mausia |
 | 198 | 496 | Loopy Fallmatch |
 | 199 | 494 | FuzzyNavel |
-| 200 | 489 | Shannon Matthew Byers |
-| 201 | 489 | Poppy Splitter |
+| 200 | 489 | Poppy Splitter |
+| 201 | 489 | Shannon Matthew Byers |
 | 202 | 488 | Melissa Orth Hunter |
 | 203 | 486 | Jacqueline Rodriguez |
 | 204 | 485 | Dapper Snap |
@@ -231,30 +231,30 @@
 | 223 | 448 | Scott Carleton |
 | 224 | 437 | Loopy Clusterer |
 | 225 | 432 | Luciana Braganca Vieira |
-| 226 | 431 | Ammmmmmy |
-| 227 | 431 | Wendy Dearden |
+| 226 | 431 | Wendy Dearden |
+| 227 | 431 | Ammmmmmy |
 | 228 | 430 | Jeni Dow |
 | 229 | 418 | Rebecca Funderburk Kirby |
 | 230 | 414 | Fran Lin |
-| 231 | 410 | Stephanie Simpson |
-| 232 | 410 | Duane Bright |
+| 231 | 410 | Duane Bright |
+| 232 | 410 | Stephanie Simpson |
 | 233 | 408 | Tiffany Ford |
 | 234 | 406 | Kristal C Lee |
 | 235 | 404 | Chasity |
 | 236 | 403 | Scott Lindsay |
 | 237 | 403 | Denita Mungro |
 | 238 | 395 | rosy |
-| 239 | 391 | Trisha Balmer |
-| 240 | 391 | Marci Mize Fandrich |
-| 241 | 391 | Nicole Flippo |
-| 242 | 391 | RickyG |
+| 239 | 391 | RickyG |
+| 240 | 391 | Nicole Flippo |
+| 241 | 391 | Trisha Balmer |
+| 242 | 391 | Marci Mize Fandrich |
 | 243 | 387 | Gideon Walker |
 | 244 | 383 | Darlene McMillan |
 | 245 | 382 | Giddy Twistbuilder |
 | 246 | 381 | Snazzy Filler |
 | 247 | 380 | Rebecca Bailey |
-| 248 | 378 | Chris Bell |
-| 249 | 378 | MsBee |
+| 248 | 378 | MsBee |
+| 249 | 378 | Chris Bell |
 | 250 | 377 | Charles Perrone |
 | 251 | 374 | Rania Zaqout |
 | 252 | 373 | Chummy Caster |
@@ -268,8 +268,8 @@
 | 260 | 368 | Sheila M Frazier |
 | 261 | 368 | Stephanie Woods |
 | 262 | 367 | Kristin Delibac Corrigan |
-| 263 | 366 | Randy Clevenger |
-| 264 | 366 | Gumbo |
+| 263 | 366 | Gumbo |
+| 264 | 366 | Randy Clevenger |
 | 265 | 365 | Noyb Adam |
 | 266 | 364 | Steffi Chris Dacones |
 | 267 | 364 | Carrie Huskey |

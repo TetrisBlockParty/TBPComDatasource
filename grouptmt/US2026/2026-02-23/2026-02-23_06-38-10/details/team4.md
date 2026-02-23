@@ -122,8 +122,8 @@
 | 114 | 519 | Nugget |
 | 115 | 517 | Christina LR |
 | 116 | 517 | shar |
-| 117 | 514 | Serena Goodridge |
-| 118 | 514 | Scott Jameson |
+| 117 | 514 | Scott Jameson |
+| 118 | 514 | Serena Goodridge |
 | 119 | 513 | Erin Thomas |
 | 120 | 512 | Casey Jeffcoat |
 | 121 | 512 | Cristy Duerksen |
@@ -213,8 +213,8 @@
 | 205 | 305 | Melvin Baird |
 | 206 | 304 | Lindsay Ball |
 | 207 | 301 | Andria Lynn |
-| 208 | 300 | Zakia Monae |
-| 209 | 300 | Dana Scott |
+| 208 | 300 | Dana Scott |
+| 209 | 300 | Zakia Monae |
 | 210 | 295 | Keshia Lyons |
 | 211 | 294 | Porkobello |
 | 212 | 294 | Calvin Cannon |
@@ -257,8 +257,8 @@
 | 249 | 264 | ZeeZee |
 | 250 | 264 | Stella |
 | 251 | 263 | rebel4lyfe |
-| 252 | 262 | BigSammy420 |
-| 253 | 262 | Selena Shaw |
+| 252 | 262 | Selena Shaw |
+| 253 | 262 | BigSammy420 |
 | 254 | 261 | Zethra Prenisha Rahming |
 | 255 | 260 | Carter Jones |
 | 256 | 260 | Lori |
@@ -391,8 +391,8 @@
 | 383 | 178 | Daring Pivot |
 | 384 | 178 | Zippy Tilt |
 | 385 | 177 | Lora |
-| 386 | 176 | B Renee Desjardin |
-| 387 | 176 | Cindy Looper |
+| 386 | 176 | Cindy Looper |
+| 387 | 176 | B Renee Desjardin |
 | 388 | 176 | Brickh4us |
 | 389 | 175 | Jim Hart |
 | 390 | 175 | Lorena Guerrero-Barron |
@@ -414,8 +414,8 @@
 | 406 | 170 | Elie Pean |
 | 407 | 170 | ChasingZen |
 | 408 | 169 | Duck |
-| 409 | 169 | Dante Korleon |
-| 410 | 169 | Jessica Atkinson |
+| 409 | 169 | Jessica Atkinson |
+| 410 | 169 | Dante Korleon |
 | 411 | 168 | Ruby Khalisadar |
 | 412 | 167 | Tyler Bechtel |
 | 413 | 167 | Helen Chao |

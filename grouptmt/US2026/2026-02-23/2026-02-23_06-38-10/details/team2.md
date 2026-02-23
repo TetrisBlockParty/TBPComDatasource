@@ -428,8 +428,8 @@
 | 420 | 751 | Loony Snapper |
 | 421 | 751 | Breezy Filler |
 | 422 | 750 | Mandi Douglas Hilt |
-| 423 | 748 | Brenda Utphall |
-| 424 | 748 | Ann Matzkanin |
+| 423 | 748 | Ann Matzkanin |
+| 424 | 748 | Brenda Utphall |
 | 425 | 748 | Spunkysmom |
 | 426 | 746 | Jerilyn Andrina |
 | 427 | 746 | Leslie Ann Carter |
