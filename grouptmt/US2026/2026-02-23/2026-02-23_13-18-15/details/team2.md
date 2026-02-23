@@ -592,9 +592,9 @@
 | 584 | 624 | Belle Mari |
 | 585 | 621 | Taren Cowan |
 | 586 | 618 | Marella Petilo |
-| 587 | 617 | Darcy Mae |
-| 588 | 617 | Kacee Conrad Bock |
-| 589 | 617 | Biggest thing |
+| 587 | 617 | Biggest thing |
+| 588 | 617 | Darcy Mae |
+| 589 | 617 | Kacee Conrad Bock |
 | 590 | 615 | Julio A Laracuente |
 | 591 | 614 | Emilee Burke |
 | 592 | 614 | Jessica S Flecha |
@@ -651,8 +651,8 @@
 | 643 | 576 | Leslie Johnson Guinto |
 | 644 | 574 | Valerie Brooke Lusk Armstrong |
 | 645 | 574 | Boldy Wiper |
-| 646 | 573 | Giggly Snap |
-| 647 | 573 | Vaniel Glover |
+| 646 | 573 | Vaniel Glover |
+| 647 | 573 | Giggly Snap |
 | 648 | 572 | Rachael Senard |
 | 649 | 572 | Alexandra Lynn |
 | 650 | 570 | Leslie Jorgenson |
@@ -660,11 +660,11 @@
 | 652 | 570 | Adam Simmons |
 | 653 | 569 | Sparkles |
 | 654 | 566 | Lindsey Leigh |
-| 655 | 566 | SwampRebel |
-| 656 | 566 | Tina Marie |
+| 655 | 566 | Tina Marie |
+| 656 | 566 | SwampRebel |
 | 657 | 564 | Stacey Tranchida |
-| 658 | 563 | Nat |
-| 659 | 563 | Frisky Clearpiece |
+| 658 | 563 | Frisky Clearpiece |
+| 659 | 563 | Nat |
 | 660 | 559 | Kelli Wells |
 | 661 | 559 | Alexx Anaya |
 | 662 | 558 | Lee Harper |
@@ -989,8 +989,8 @@
 | 981 | 401 | Emoney Sanchez |
 | 982 | 401 | Trina Harrison |
 | 983 | 401 | James Zaragoza |
-| 984 | 400 | Tammy Allen |
-| 985 | 400 | Deana |
+| 984 | 400 | Deana |
+| 985 | 400 | Tammy Allen |
 | 986 | 399 | Pam Doughty |
 | 987 | 399 | Heather Johnson |
 | 988 | 398 | Kendall Fullerton |

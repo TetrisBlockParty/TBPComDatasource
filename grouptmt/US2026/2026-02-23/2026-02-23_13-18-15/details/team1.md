@@ -139,8 +139,8 @@
 | 131 | 453 | Brandi Huntington |
 | 132 | 451 | Plucky Ziggy |
 | 133 | 450 | lil mickey |
-| 134 | 448 | Sweet Baker |
-| 135 | 448 | Jazzy Framezone |
+| 134 | 448 | Jazzy Framezone |
+| 135 | 448 | Sweet Baker |
 | 136 | 446 | SkipTheSadSauce |
 | 137 | 443 | Steve Schneider |
 | 138 | 440 | femmefatale |
@@ -471,8 +471,8 @@
 | 463 | 175 | Kellie Tunstall |
 | 464 | 175 | Madbull |
 | 465 | 175 | Rayline M Bradshaw |
-| 466 | 174 | Dawn Rannelli |
-| 467 | 174 | Alex Gauthier |
+| 466 | 174 | Alex Gauthier |
+| 467 | 174 | Dawn Rannelli |
 | 468 | 173 | Mary Crisp |
 | 469 | 172 | Ma stoken |
 | 470 | 172 | Ruthie Mahoney Saunders-Browne |
