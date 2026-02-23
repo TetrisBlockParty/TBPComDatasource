@@ -114,8 +114,8 @@
 | 106 | 869 | Araceli Parra |
 | 107 | 868 | Sarajane Lokan |
 | 108 | 860 | Sunny Rotater |
-| 109 | 851 | Jd Morris |
-| 110 | 851 | Danielle Becker |
+| 109 | 851 | Danielle Becker |
+| 110 | 851 | Jd Morris |
 | 111 | 850 | Danielle Mogg |
 | 112 | 848 | Patricia Gadsden |
 | 113 | 841 | Betty Ivy |
@@ -187,8 +187,8 @@
 | 179 | 572 | CeceGeGe |
 | 180 | 568 | Rachael McClain Owens |
 | 181 | 566 | LaTanya GeminiondaRise Johnson |
-| 182 | 564 | Poppy Splitter |
-| 183 | 564 | Christine Trester |
+| 182 | 564 | Christine Trester |
+| 183 | 564 | Poppy Splitter |
 | 184 | 563 | Jim Mathews |
 | 185 | 562 | Dave Herzog |
 | 186 | 559 | Patti Skiles |
@@ -408,9 +408,9 @@
 | 400 | 272 | Tay |
 | 401 | 272 | Eboni Starr |
 | 402 | 269 | Goofy Fall |
-| 403 | 269 | Juliana Dottore |
+| 403 | 269 | Jess Bissett |
 | 404 | 269 | Samantha Worley |
-| 405 | 269 | Jess Bissett |
+| 405 | 269 | Juliana Dottore |
 | 406 | 268 | Jessica Lynn French |
 | 407 | 268 | Julia Nicole |
 | 408 | 267 | Michael Kimbro |

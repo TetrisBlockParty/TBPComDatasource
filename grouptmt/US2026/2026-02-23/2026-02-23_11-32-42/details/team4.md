@@ -99,8 +99,8 @@
 | 91 | 659 | Jamie Gustafson |
 | 92 | 653 | Rica Mitchell |
 | 93 | 650 | KJ Pool |
-| 94 | 647 | Shauna Havard |
-| 95 | 647 | KM8 |
+| 94 | 647 | KM8 |
+| 95 | 647 | Shauna Havard |
 | 96 | 646 | Eric Mcgaughy |
 | 97 | 629 | Judy Cox |
 | 98 | 626 | Brittney Griggs |
@@ -221,10 +221,10 @@
 | 213 | 317 | Madison Sweere |
 | 214 | 316 | Autumn Kumzi |
 | 215 | 313 | Milan Markeisha |
-| 216 | 312 | Casey Grabner |
-| 217 | 312 | Dihcheese444 |
-| 218 | 311 | Mary Ann Pabukis |
-| 219 | 311 | Nikki Rae Gordon |
+| 216 | 312 | Dihcheese444 |
+| 217 | 312 | Casey Grabner |
+| 218 | 311 | Nikki Rae Gordon |
+| 219 | 311 | Mary Ann Pabukis |
 | 220 | 310 | Holly Jolly |
 | 221 | 307 | Cheery Risebuilder |
 | 222 | 307 | Michele Plunkett |
@@ -427,8 +427,8 @@
 | 419 | 176 | Cindy Looper |
 | 420 | 175 | Jim Hart |
 | 421 | 175 | Lorena Guerrero-Barron |
-| 422 | 174 | Jason Frehner |
-| 423 | 174 | Chummy Towerzone |
+| 422 | 174 | Chummy Towerzone |
+| 423 | 174 | Jason Frehner |
 | 424 | 173 | Tanner Lund |
 | 425 | 172 | Janis Brown |
 | 426 | 172 | Undeniable Williams |
@@ -460,8 +460,8 @@
 | 452 | 164 | Marvetta Williams |
 | 453 | 163 | Cool Gridzone |
 | 454 | 163 | Jarred Falls |
-| 455 | 163 | Linda Alexander Downing |
-| 456 | 163 | Ashlee Carnes |
+| 455 | 163 | Ashlee Carnes |
+| 456 | 163 | Linda Alexander Downing |
 | 457 | 163 | Cheaneen Livingston |
 | 458 | 162 | Brandon Link |
 | 459 | 162 | Empress Oasis |
@@ -729,14 +729,14 @@
 | 721 | 98 | Diamond Johnson |
 | 722 | 98 | Maurice Daniels |
 | 723 | 98 | Jessi Cinotto |
-| 724 | 97 | Rick SJ |
-| 725 | 97 | Shanon James |
+| 724 | 97 | Shanon James |
+| 725 | 97 | Rick SJ |
 | 726 | 97 | Frisky Matchgrid |
 | 727 | 96 | Krs |
 | 728 | 96 | RobinC |
 | 729 | 96 | Cozy Framezone |
 | 730 | 96 | KanVus |
-| 731 | 96 | Cozy Framezone |
+| 731 | 96 | Bubbly Twistpiece |
 | 732 | 96 | Christy |
 | 733 | 95 | RedBoots82 |
 | 734 | 95 | Bonnie Hurlbrink |
