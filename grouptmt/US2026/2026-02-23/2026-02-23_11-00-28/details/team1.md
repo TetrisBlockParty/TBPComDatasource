@@ -144,8 +144,8 @@
 | 136 | 429 | Kristi Johnson |
 | 137 | 428 | Ly Phethmany |
 | 138 | 426 | Maria C. Hernandez |
-| 139 | 425 | Tyler Werts |
-| 140 | 425 | Dandy Basegrid |
+| 139 | 425 | Dandy Basegrid |
+| 140 | 425 | Tyler Werts |
 | 141 | 423 | ALFD |
 | 142 | 417 | Phu ckalldems |
 | 143 | 406 | Candy Jones |
@@ -202,8 +202,8 @@
 | 194 | 347 | Elaine Elaine |
 | 195 | 346 | GATOR |
 | 196 | 345 | Jerry Danowski |
-| 197 | 342 | Snippy Wipebuilder |
-| 198 | 342 | Dino |
+| 197 | 342 | Dino |
+| 198 | 342 | Snippy Wipebuilder |
 | 199 | 341 | Nick R Montague |
 | 200 | 339 | Nicole Roseberry Weber |
 | 201 | 337 | Jamise Brown |
@@ -245,8 +245,8 @@
 | 237 | 287 | Sassy Builderline |
 | 238 | 285 | Shanae Grant |
 | 239 | 285 | Bird Person |
-| 240 | 284 | Sam Williams |
-| 241 | 284 | Sir-Franchise Drake |
+| 240 | 284 | Sir-Franchise Drake |
+| 241 | 284 | Sam Williams |
 | 242 | 283 | Franswa |
 | 243 | 282 | Timothy Dew |
 | 244 | 281 | Clever Cascadepiece |
@@ -363,8 +363,8 @@
 | 355 | 211 | Lynn Adams |
 | 356 | 210 | Timothy Danaher |
 | 357 | 209 | Pauline Cortez |
-| 358 | 209 | Beau Galvan |
-| 359 | 209 | Breanna Luna |
+| 358 | 209 | Breanna Luna |
+| 359 | 209 | Beau Galvan |
 | 360 | 208 | Donna Addison Williams |
 | 361 | 208 | Andrew Boone |
 | 362 | 207 | Ric Hard Hernandez |
@@ -381,11 +381,11 @@
 | 373 | 202 | Krie |
 | 374 | 202 | Amber Dee |
 | 375 | 201 | Colleen Wise |
-| 376 | 201 | Tedashi |
-| 377 | 201 | Rico Rico |
+| 376 | 201 | Rico Rico |
+| 377 | 201 | Tedashi |
 | 378 | 200 | Zesty Brickzone |
-| 379 | 199 | Larissa Marie Nelson |
-| 380 | 199 | Tina Englert |
+| 379 | 199 | Tina Englert |
+| 380 | 199 | Larissa Marie Nelson |
 | 381 | 198 | Marci Sanders |
 | 382 | 197 | Cool Towerzone |
 | 383 | 196 | Rachel Copas |
@@ -490,9 +490,9 @@
 | 482 | 160 | Jeremy Maubert |
 | 483 | 159 | Krista Young |
 | 484 | 159 | Uhog SF |
-| 485 | 158 | Teddy Alexander |
-| 486 | 158 | Jordan Brooks |
-| 487 | 158 | Doris Hall |
+| 485 | 158 | Doris Hall |
+| 486 | 158 | Teddy Alexander |
+| 487 | 158 | Jordan Brooks |
 | 488 | 156 | Rachel Rogers |
 | 489 | 155 | Irv |
 | 490 | 155 | poopypants |

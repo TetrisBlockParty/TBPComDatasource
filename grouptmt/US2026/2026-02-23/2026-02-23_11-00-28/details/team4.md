@@ -160,8 +160,8 @@
 | 152 | 417 | Amanda Pauldo-Ivy |
 | 153 | 417 | Steph Marie |
 | 154 | 416 | Chaz Duncan |
-| 155 | 414 | Nope Young |
-| 156 | 414 | Swanky Fitline |
+| 155 | 414 | Swanky Fitline |
+| 156 | 414 | Nope Young |
 | 157 | 413 | Circuit8 |
 | 158 | 412 | Jessica Bohlken |
 | 159 | 406 | Livvy |
@@ -209,14 +209,14 @@
 | 201 | 330 | Kathy Brookins |
 | 202 | 328 | scott |
 | 203 | 327 | J-Rizzle |
-| 204 | 324 | jim |
-| 205 | 324 | TinyLegoRose |
+| 204 | 324 | TinyLegoRose |
+| 205 | 324 | jim |
 | 206 | 321 | Meagan Nicole |
 | 207 | 320 | Lauren Scott |
 | 208 | 319 | Googenheim |
 | 209 | 318 | Chris Hartig |
-| 210 | 317 | Lori |
-| 211 | 317 | Madison Sweere |
+| 210 | 317 | Madison Sweere |
+| 211 | 317 | Lori |
 | 212 | 316 | Autumn Kumzi |
 | 213 | 313 | Milan Markeisha |
 | 214 | 312 | Casey Grabner |
@@ -247,8 +247,8 @@
 | 239 | 285 | 030Synner |
 | 240 | 284 | Matt Dell'Olio |
 | 241 | 284 | Mimi |
-| 242 | 282 | Kim Klutz Olson |
-| 243 | 282 | Matt Gooder |
+| 242 | 282 | Matt Gooder |
+| 243 | 282 | Kim Klutz Olson |
 | 244 | 281 | Laura |
 | 245 | 280 | Rio Rocha |
 | 246 | 279 | Malakai Darien Fox |
@@ -281,14 +281,14 @@
 | 273 | 257 | PeaceOs |
 | 274 | 256 | Paige Kittles |
 | 275 | 256 | Metsfan |
-| 276 | 256 | Jade Rian |
-| 277 | 256 | Paige Kittles |
-| 278 | 253 | Autum Leigh |
-| 279 | 253 | Shiny Fit |
+| 276 | 256 | Brittany Marsh |
+| 277 | 256 | Jade Rian |
+| 278 | 253 | Shiny Fit |
+| 279 | 253 | Autum Leigh |
 | 280 | 251 | Carol Ricks Raymond |
 | 281 | 249 | Ak Jones |
-| 282 | 248 | Angelito |
-| 283 | 248 | Chirpy Basepiece |
+| 282 | 248 | Chirpy Basepiece |
+| 283 | 248 | Angelito |
 | 284 | 248 | Jose Dejesus |
 | 285 | 245 | 23 |
 | 286 | 244 | Christina Black |
@@ -299,15 +299,15 @@
 | 291 | 242 | PurpleMoonMa |
 | 292 | 240 | Kim Hunt |
 | 293 | 240 | Perky Patternblock |
-| 294 | 239 | Denise B |
-| 295 | 239 | Laura Hosford |
+| 294 | 239 | Laura Hosford |
+| 295 | 239 | Denise B |
 | 296 | 239 | Joanna |
 | 297 | 238 | 中山成巳 |
 | 298 | 237 | Christine Therrien |
 | 299 | 235 | LaDonna LovinmesomeMe Lambert |
 | 300 | 235 | Shainne Brewer |
-| 301 | 234 | Shanon Klair |
-| 302 | 234 | Richard-April Kice |
+| 301 | 234 | Richard-April Kice |
+| 302 | 234 | Shanon Klair |
 | 303 | 234 | Diosa Ebalobo Magsael |
 | 304 | 233 | Joseph Edmonson |
 | 305 | 231 | Brickh4us |
