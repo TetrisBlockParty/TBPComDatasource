@@ -142,8 +142,8 @@
 | 134 | 421 | JIGsaw ~(•¿°)~ |
 | 135 | 421 | Kesha Brady |
 | 136 | 419 | Klo |
-| 137 | 418 | Lush Linkfall |
-| 138 | 418 | Marie-Pier Desjardins |
+| 137 | 418 | Marie-Pier Desjardins |
+| 138 | 418 | Lush Linkfall |
 | 139 | 416 | Chaz Duncan |
 | 140 | 414 | Nope Young |
 | 141 | 412 | Jessica Bohlken |
@@ -157,8 +157,8 @@
 | 149 | 393 | Carlton Unfiltered |
 | 150 | 391 | Ramel Rhodes |
 | 151 | 389 | Joseph Guthrie |
-| 152 | 387 | 🥔🥔 Spudz |
-| 153 | 387 | Lucas J Sutton |
+| 152 | 387 | Lucas J Sutton |
+| 153 | 387 | 🥔🥔 Spudz |
 | 154 | 377 | Carrie Brian |
 | 155 | 375 | Desi Desporte |
 | 156 | 375 | ThaEviLJeNiuZ |
@@ -243,8 +243,8 @@
 | 235 | 265 | Sarah Neathery |
 | 236 | 264 | Stella |
 | 237 | 263 | JPW |
-| 238 | 262 | Selena Shaw |
-| 239 | 262 | BigSammy420 |
+| 238 | 262 | BigSammy420 |
+| 239 | 262 | Selena Shaw |
 | 240 | 260 | Carter Jones |
 | 241 | 259 | Allen Lloyd |
 | 242 | 259 | Montiette Mcglown |
@@ -280,8 +280,8 @@
 | 272 | 233 | Ruben Wheeler |
 | 273 | 232 | Rio Rocha |
 | 274 | 228 | Bethany Ison |
-| 275 | 226 | Cranky Rollpiece |
-| 276 | 226 | Dizzy Matchzone |
+| 275 | 226 | Dizzy Matchzone |
+| 276 | 226 | Cranky Rollpiece |
 | 277 | 225 | Jenna McGeorge |
 | 278 | 223 | Amanda Christine |
 | 279 | 223 | Adawna Swires |
@@ -333,8 +333,8 @@
 | 325 | 198 | Calvin Dennis |
 | 326 | 196 | Blessedmama |
 | 327 | 196 | Megan Cutshaw |
-| 328 | 194 | Zany Twisterfit |
-| 329 | 194 | SammieJo Guy |
+| 328 | 194 | SammieJo Guy |
+| 329 | 194 | Zany Twisterfit |
 | 330 | 192 | Twisty Risebuilder |
 | 331 | 191 | Norman Klick |
 | 332 | 191 | Earnest Thompson |
@@ -581,7 +581,7 @@
 | 573 | 115 | Martha Lucinda Bishop |
 | 574 | 114 | Rosemary Foster |
 | 575 | 113 | Hog Crankin |
-| 576 | 113 | Abigail Murphy |
+| 576 | 113 | Serena Butter |
 | 577 | 113 | Lilya Troutman |
 | 578 | 113 | Abigail Murphy |
 | 579 | 112 | RogueRebel |

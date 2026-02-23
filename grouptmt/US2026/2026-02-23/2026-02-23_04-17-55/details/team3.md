@@ -143,8 +143,8 @@
 | 135 | 693 | Hasty Cascadefit |
 | 136 | 685 | Betty Ivy |
 | 137 | 675 | Daryn Elliott |
-| 138 | 674 | Patty Allen |
-| 139 | 674 | Jenny Hrndz |
+| 138 | 674 | Jenny Hrndz |
+| 139 | 674 | Patty Allen |
 | 140 | 672 | Karon Griffin |
 | 141 | 666 | Kiki |
 | 142 | 655 | Jd Morris |
@@ -202,8 +202,8 @@
 | 194 | 489 | Terry Jo Jones |
 | 195 | 488 | Melissa Orth Hunter |
 | 196 | 485 | Dapper Snap |
-| 197 | 480 | Michael Johnson |
-| 198 | 480 | Danielle Allison |
+| 197 | 480 | Danielle Allison |
+| 198 | 480 | Michael Johnson |
 | 199 | 475 | Tessina Dewey-Mancino |
 | 200 | 473 | Rachel |
 | 201 | 471 | Mendoza Lee Christy |
@@ -270,8 +270,8 @@
 | 262 | 357 | Ammmmmmy |
 | 263 | 354 | Kelly |
 | 264 | 353 | Dee Franklin |
-| 265 | 352 | Christian Werndl |
-| 266 | 352 | Samantha Lynn |
+| 265 | 352 | Samantha Lynn |
+| 266 | 352 | Christian Werndl |
 | 267 | 351 | Eon Harris |
 | 268 | 349 | Amanda J. Mcneil-Anderson |
 | 269 | 348 | Cyd061769 |
@@ -391,8 +391,8 @@
 | 383 | 253 | Jennifer Alvey |
 | 384 | 253 | Daring Builder |
 | 385 | 251 | Colleen Phelps |
-| 386 | 250 | Eric Caccavale |
-| 387 | 250 | angieelyn |
+| 386 | 250 | angieelyn |
+| 387 | 250 | Eric Caccavale |
 | 388 | 250 | Tegan Chapman |
 | 389 | 249 | Willow |
 | 390 | 248 | Brian Battjes |
@@ -422,8 +422,8 @@
 | 414 | 238 | 4girls |
 | 415 | 237 | Jolly Dashpiece |
 | 416 | 236 | Mariah Williams |
-| 417 | 236 | lashanda |
-| 418 | 236 | Loopy Fallzone |
+| 417 | 236 | Loopy Fallzone |
+| 418 | 236 | lashanda |
 | 419 | 235 | Kevin Russell |
 | 420 | 234 | Cheeky Twisterfit |
 | 421 | 233 | Criss |

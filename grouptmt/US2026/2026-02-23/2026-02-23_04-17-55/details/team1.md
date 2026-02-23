@@ -143,8 +143,8 @@
 | 135 | 392 | And |
 | 136 | 389 | David Miller |
 | 137 | 388 | Fmp |
-| 138 | 387 | Ananda Mendez |
-| 139 | 387 | Emily Adelaide Wheatley |
+| 138 | 387 | Emily Adelaide Wheatley |
+| 139 | 387 | Ananda Mendez |
 | 140 | 383 | pjbeta |
 | 141 | 380 | phrmblk24 |
 | 142 | 379 | Kimmie Kimms |
@@ -158,8 +158,8 @@
 | 150 | 368 | Amanda Johnson Huffman |
 | 151 | 367 | Sharon Reynolds |
 | 152 | 365 | Carrie Smith |
-| 153 | 364 | Serina Marie |
-| 154 | 364 | Shauna Loe |
+| 153 | 364 | Shauna Loe |
+| 154 | 364 | Serina Marie |
 | 155 | 360 | Wisa |
 | 156 | 357 | David Lutcher |
 | 157 | 355 | Amanda Jarnagin |
@@ -181,8 +181,8 @@
 | 173 | 337 | Constance Risner |
 | 174 | 336 | Dizzy Party |
 | 175 | 333 | Gracie |
-| 176 | 332 | Lehrin Maria |
-| 177 | 332 | Margo Wagner |
+| 176 | 332 | Margo Wagner |
+| 177 | 332 | Lehrin Maria |
 | 178 | 325 | Tyler Werts |
 | 179 | 324 | Rat666 |
 | 180 | 323 | Madison Wicks |
@@ -238,8 +238,8 @@
 | 230 | 267 | Daring Fitclear |
 | 231 | 265 | Kandae |
 | 232 | 264 | Jenny Gingrich Fuentes |
-| 233 | 263 | Perky Shiftsnap |
-| 234 | 263 | Jessie Lynn |
+| 233 | 263 | Jessie Lynn |
+| 234 | 263 | Perky Shiftsnap |
 | 235 | 261 | John J. Cronin |
 | 236 | 260 | Marianita Garcia |
 | 237 | 260 | Lacy Wolfe |
