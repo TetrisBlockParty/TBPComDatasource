@@ -161,8 +161,8 @@
 | 153 | 461 | Ly Phethmany |
 | 154 | 460 | Steve Schneider |
 | 155 | 458 | Goose egg |
-| 156 | 454 | ALFD |
-| 157 | 454 | Desiree Deschaine Havee |
+| 156 | 454 | Desiree Deschaine Havee |
+| 157 | 454 | ALFD |
 | 158 | 453 | Brandi Huntington |
 | 159 | 453 | Nery Martinez |
 | 160 | 450 | lil mickey |
@@ -185,8 +185,8 @@
 | 177 | 410 | Mike Ames |
 | 178 | 408 | John J. Cronin |
 | 179 | 407 | Tipsy Riseclear |
-| 180 | 404 | Basment Living |
-| 181 | 404 | Tawnya Peltonen |
+| 180 | 404 | Tawnya Peltonen |
+| 181 | 404 | Basment Living |
 | 182 | 403 | Tana |
 | 183 | 402 | Chris K |
 | 184 | 399 | phrmblk24 |
@@ -215,11 +215,11 @@
 | 207 | 371 | David Lutcher |
 | 208 | 369 | Angela Renea Lester |
 | 209 | 366 | J.F. Fields |
-| 210 | 365 | Shannon Marie Pitts |
-| 211 | 365 | Amanda Holibaugh |
+| 210 | 365 | Amanda Holibaugh |
+| 211 | 365 | Shannon Marie Pitts |
 | 212 | 365 | Jen Nystrom |
-| 213 | 364 | Shauna Loe |
-| 214 | 364 | Serina Marie |
+| 213 | 364 | Serina Marie |
+| 214 | 364 | Shauna Loe |
 | 215 | 362 | Gracie |
 | 216 | 361 | Witty Builderfit |
 | 217 | 360 | Lakeisha Chapman |
@@ -378,8 +378,8 @@
 | 370 | 241 | Zesty Brickzone |
 | 371 | 240 | Nathan William |
 | 372 | 239 | Colleen Wise |
-| 373 | 236 | Marie White |
-| 374 | 236 | Snappy Bridgepiece |
+| 373 | 236 | Snappy Bridgepiece |
+| 374 | 236 | Marie White |
 | 375 | 235 | Jumpy Rotate |
 | 376 | 235 | Ariel Whittington |
 | 377 | 234 | Brandie Gallegos |

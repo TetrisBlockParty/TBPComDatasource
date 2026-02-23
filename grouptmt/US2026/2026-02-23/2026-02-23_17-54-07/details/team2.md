@@ -420,8 +420,8 @@
 | 412 | 877 | Misti Markijohn |
 | 413 | 876 | Jessicah Myers |
 | 414 | 870 | Joy LaJeunesse |
-| 415 | 869 | BYM4L |
-| 416 | 869 | Venita Ray |
+| 415 | 869 | Venita Ray |
+| 416 | 869 | BYM4L |
 | 417 | 866 | Christina Lewis-Vickers |
 | 418 | 862 | Sarah Massey |
 | 419 | 858 | Lauren Fitzgerald Thomas |
@@ -517,8 +517,8 @@
 | 509 | 746 | Hoppy Brickmatch |
 | 510 | 742 | Cassie Maynard |
 | 511 | 742 | Ganieda |
-| 512 | 740 | Jerry Tempelmeyer |
-| 513 | 740 | Samantha Scibelli |
+| 512 | 740 | Samantha Scibelli |
+| 513 | 740 | Jerry Tempelmeyer |
 | 514 | 740 | Alexandra Weir |
 | 515 | 737 | Ginger |
 | 516 | 737 | Chelle |

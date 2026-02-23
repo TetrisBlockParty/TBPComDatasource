@@ -148,8 +148,8 @@
 | 140 | 776 | Tasha Schriewer |
 | 141 | 773 | Daira Largen |
 | 142 | 770 | Daryn Elliott |
-| 143 | 764 | Groovy Catcher |
-| 144 | 764 | Hasty Cascadefit |
+| 143 | 764 | Hasty Cascadefit |
+| 144 | 764 | Groovy Catcher |
 | 145 | 759 | yoyo |
 | 146 | 757 | Fancy Cascader |
 | 147 | 756 | Patty Allen |
@@ -186,8 +186,8 @@
 | 178 | 633 | Joye Sims Binion |
 | 179 | 632 | Morgan Martinez |
 | 180 | 629 | rnr junky |
-| 181 | 621 | Cherry Parker |
-| 182 | 621 | Sashay Tapae Simpson |
+| 181 | 621 | Sashay Tapae Simpson |
+| 182 | 621 | Cherry Parker |
 | 183 | 620 | Rania Zaqout |
 | 184 | 620 | Jacqueline Rodriguez |
 | 185 | 616 | Kammy Hill |
@@ -561,10 +561,10 @@
 | 553 | 241 | paranoid |
 | 554 | 241 | Jill Stickney |
 | 555 | 240 | Bambi Jones |
-| 556 | 240 | Rebel124 |
-| 557 | 240 | Trey Ward |
-| 558 | 239 | Ashley Parham |
-| 559 | 239 | Martin Bernier |
+| 556 | 240 | Trey Ward |
+| 557 | 240 | Rebel124 |
+| 558 | 239 | Martin Bernier |
+| 559 | 239 | Ashley Parham |
 | 560 | 238 | Fredd Thomas |
 | 561 | 238 | Jess Dearborn |
 | 562 | 237 | Lazy Matchfit |

@@ -113,8 +113,8 @@
 | 105 | 672 | Nugget |
 | 106 | 667 | Amy Suckarieh |
 | 107 | 659 | Jamie Gustafson |
-| 108 | 658 | Zippy Gridlock |
-| 109 | 658 | Girl |
+| 108 | 658 | Girl |
+| 109 | 658 | Zippy Gridlock |
 | 110 | 657 | Lori Walker |
 | 111 | 652 | Leslie Nicole |
 | 112 | 647 | KM8 |
@@ -155,8 +155,8 @@
 | 147 | 508 | Twisty Clicky |
 | 148 | 507 | ThaEviLJeNiuZ |
 | 149 | 502 | Ellen Durfee |
-| 150 | 498 | Nope Young |
-| 151 | 498 | Melissa Adams |
+| 150 | 498 | Melissa Adams |
+| 151 | 498 | Nope Young |
 | 152 | 497 | Ericca Eldridge |
 | 153 | 496 | Jessica Lynn Cutlip |
 | 154 | 489 | Kim Hunt |
@@ -402,26 +402,26 @@
 | 394 | 222 | Rhys Morgan |
 | 395 | 222 | Badatvs |
 | 396 | 221 | Rheanda Weaskus |
-| 397 | 220 | Dustin York |
-| 398 | 220 | Jessica Petersen |
-| 399 | 220 | Jumpy Zonepiece |
-| 400 | 220 | Ziggy |
-| 401 | 219 | Shane Vick |
-| 402 | 219 | Orchislactea |
-| 403 | 218 | Allison Rose |
-| 404 | 218 | ĥuf |
+| 397 | 220 | Jessica Petersen |
+| 398 | 220 | Dustin York |
+| 399 | 220 | Ziggy |
+| 400 | 220 | Jumpy Zonepiece |
+| 401 | 219 | Orchislactea |
+| 402 | 219 | Shane Vick |
+| 403 | 218 | ĥuf |
+| 404 | 218 | Allison Rose |
 | 405 | 218 | Cheaneen Livingston |
 | 406 | 218 | Janita Parrish |
-| 407 | 217 | Perky Riser |
-| 408 | 217 | Cheery Fitline |
+| 407 | 217 | Cheery Fitline |
+| 408 | 217 | Perky Riser |
 | 409 | 217 | GBR |
 | 410 | 216 | Funky Risepiece |
-| 411 | 216 | Jen Hallin |
-| 412 | 216 | Ryry |
+| 411 | 216 | Ryry |
+| 412 | 216 | Jen Hallin |
 | 413 | 215 | Tanya Abernathy Jackson |
 | 414 | 215 | Squeezy Pearsall |
-| 415 | 214 | B Renee Desjardin |
-| 416 | 214 | Susan R. Wilson |
+| 415 | 214 | Susan R. Wilson |
+| 416 | 214 | B Renee Desjardin |
 | 417 | 213 | Derick |
 | 418 | 212 | Mike Solo |
 | 419 | 211 | Shiny Pivoty |
@@ -1358,8 +1358,8 @@
 | 1350 | 38 | Suzie Boyd |
 | 1351 | 38 | Ginger Snappy |
 | 1352 | 38 | Alison Welsh |
-| 1353 | 37 | Cool Shatterclear |
-| 1354 | 37 | Sunny68 |
+| 1353 | 37 | Sunny68 |
+| 1354 | 37 | Elaine Hall |
 | 1355 | 37 | Patrick Cossette |
 | 1356 | 37 | Cool Shatterclear |
 | 1357 | 37 | Tipsy Zonepiece |
