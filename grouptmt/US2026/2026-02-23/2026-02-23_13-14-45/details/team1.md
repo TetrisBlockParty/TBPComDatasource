@@ -363,8 +363,8 @@
 | 355 | 222 | Shaykmia |
 | 356 | 222 | Jessie Welch |
 | 357 | 221 | Mel Hogan |
-| 358 | 221 | Spunky Builderpiece |
-| 359 | 221 | Amy Hess |
+| 358 | 221 | Amy Hess |
+| 359 | 221 | Spunky Builderpiece |
 | 360 | 220 | Allena Craft |
 | 361 | 220 | Gary Gobin |
 | 362 | 220 | Bay Marie |

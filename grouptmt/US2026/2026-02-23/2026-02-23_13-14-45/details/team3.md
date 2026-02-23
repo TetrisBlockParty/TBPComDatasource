@@ -118,8 +118,8 @@
 | 110 | 869 | Araceli Parra |
 | 111 | 868 | Sarajane Lokan |
 | 112 | 860 | Sunny Rotater |
-| 113 | 851 | Jd Morris |
-| 114 | 851 | Danielle Becker |
+| 113 | 851 | Danielle Becker |
+| 114 | 851 | Jd Morris |
 | 115 | 850 | Danielle Mogg |
 | 116 | 848 | Patricia Gadsden |
 | 117 | 839 | Angeline Joseph |
@@ -140,8 +140,8 @@
 | 132 | 755 | Raya |
 | 133 | 748 | Adrian Marcel Pate |
 | 134 | 746 | Giddy Drop |
-| 135 | 745 | JerseyJess |
-| 136 | 745 | ren |
+| 135 | 745 | ren |
+| 136 | 745 | JerseyJess |
 | 137 | 744 | Fancy Cascader |
 | 138 | 739 | Daryn Elliott |
 | 139 | 736 | mzcatzy |
@@ -171,8 +171,8 @@
 | 163 | 631 | Grego Daniel |
 | 164 | 630 | yoyo |
 | 165 | 629 | rnr junky |
-| 166 | 621 | Cherry Parker |
-| 167 | 621 | Sashay Tapae Simpson |
+| 166 | 621 | Sashay Tapae Simpson |
+| 167 | 621 | Cherry Parker |
 | 168 | 616 | Kammy Hill |
 | 169 | 611 | Rochelle Hazelett |
 | 170 | 603 | Jone |
