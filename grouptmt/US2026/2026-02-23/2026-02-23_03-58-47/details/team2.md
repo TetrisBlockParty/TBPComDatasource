@@ -332,8 +332,8 @@
 | 324 | 897 | Brittany Radaszewski |
 | 325 | 895 | Donna Colby |
 | 326 | 889 | Giggy Blocker |
-| 327 | 888 | Felicia Lynn |
-| 328 | 888 | Donna M Carter |
+| 327 | 888 | Donna M Carter |
+| 328 | 888 | Felicia Lynn |
 | 329 | 885 | Wakanda Forever |
 | 330 | 884 | Adira Brown |
 | 331 | 884 | Steve Man |
@@ -448,8 +448,8 @@
 | 440 | 707 | Mama T |
 | 441 | 706 | Kimberly Randesi |
 | 442 | 704 | Montez Mancil |
-| 443 | 703 | Funky Drop |
-| 444 | 703 | Ann Matzkanin |
+| 443 | 703 | Ann Matzkanin |
+| 444 | 703 | Funky Drop |
 | 445 | 700 | Vincent Petrella |
 | 446 | 700 | Beverly Owens |
 | 447 | 699 | John Rodriguez |
@@ -787,8 +787,8 @@
 | 779 | 427 | Destiny Cozier |
 | 780 | 426 | Kelly Meredeith |
 | 781 | 425 | N00D3S |
-| 782 | 424 | ruth |
-| 783 | 424 | Christine Egidio Morocco |
+| 782 | 424 | Christine Egidio Morocco |
+| 783 | 424 | ruth |
 | 784 | 423 | Smashanator |
 | 785 | 422 | Kimberly Ann |
 | 786 | 421 | Nina Nav |

@@ -86,8 +86,8 @@
 | 78 | 704 | Crystal Carroll |
 | 79 | 703 | Savannah Overdorf |
 | 80 | 697 | Alyssa Papen |
-| 81 | 684 | Kimyatta Cavin |
-| 82 | 684 | Jonathan Kimbrough |
+| 81 | 684 | Jonathan Kimbrough |
+| 82 | 684 | Kimyatta Cavin |
 | 83 | 677 | Trista Leah |
 | 84 | 673 | Jacqueline Helm |
 | 85 | 667 | Shane Kalamata Platoon |
@@ -243,8 +243,8 @@
 | 235 | 264 | Stella |
 | 236 | 264 | Silly SeaWeed |
 | 237 | 263 | JPW |
-| 238 | 262 | Selena Shaw |
-| 239 | 262 | BigSammy420 |
+| 238 | 262 | BigSammy420 |
+| 239 | 262 | Selena Shaw |
 | 240 | 260 | Carter Jones |
 | 241 | 259 | Allen Lloyd |
 | 242 | 259 | Montiette Mcglown |
@@ -280,8 +280,8 @@
 | 272 | 233 | Ruben Wheeler |
 | 273 | 232 | Rio Rocha |
 | 274 | 228 | Bethany Ison |
-| 275 | 226 | Dizzy Matchzone |
-| 276 | 226 | Cranky Rollpiece |
+| 275 | 226 | Cranky Rollpiece |
+| 276 | 226 | Dizzy Matchzone |
 | 277 | 225 | Jenna McGeorge |
 | 278 | 223 | Amanda Christine |
 | 279 | 223 | Adawna Swires |
