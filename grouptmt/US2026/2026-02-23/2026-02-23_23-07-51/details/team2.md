@@ -321,10 +321,10 @@
 | 313 | 1196 | Amber Brion |
 | 314 | 1184 | Jamie Otero |
 | 315 | 1179 | Georgia Triblett |
-| 316 | 1172 | Lakeysha Dortch |
-| 317 | 1172 | Kristin Gower |
-| 318 | 1171 | Loretta Brewer-Gage |
-| 319 | 1171 | Sarah block |
+| 316 | 1172 | Kristin Gower |
+| 317 | 1172 | Lakeysha Dortch |
+| 318 | 1171 | Sarah block |
+| 319 | 1171 | Loretta Brewer-Gage |
 | 320 | 1170 | Shelley Thornburgh Wright |
 | 321 | 1167 | Min |
 | 322 | 1162 | Brenda Messer |

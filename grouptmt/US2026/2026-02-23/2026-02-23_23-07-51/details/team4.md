@@ -234,8 +234,8 @@
 | 226 | 409 | Antony Dwayne Beasley |
 | 227 | 403 | TinyLegoRose |
 | 228 | 400 | Brickh4us |
-| 229 | 399 | Lindsay Ball |
-| 230 | 399 | Jeff Brian Gates |
+| 229 | 399 | Jeff Brian Gates |
+| 230 | 399 | Lindsay Ball |
 | 231 | 398 | Tyler Terrific |
 | 232 | 394 | Nita Wells |
 | 233 | 390 | Kathy Brookins |
@@ -260,16 +260,16 @@
 | 252 | 369 | TRCuse |
 | 253 | 368 | Kris Bartlett |
 | 254 | 367 | Meg |
-| 255 | 366 | Cheery Risebuilder |
-| 256 | 366 | Andrew Dang |
+| 255 | 366 | Andrew Dang |
+| 256 | 366 | Cheery Risebuilder |
 | 257 | 365 | Hyper Builder |
 | 258 | 363 | KimoKoala |
 | 259 | 361 | Danielle Kollias |
 | 260 | 360 | Ari Droff |
 | 261 | 360 | James Hurley Jr. |
 | 262 | 358 | Twisty Cascadezone |
-| 263 | 356 | Joeliecea Cobb |
-| 264 | 356 | mike |
+| 263 | 356 | mike |
+| 264 | 356 | Joeliecea Cobb |
 | 265 | 355 | David Lay |
 | 266 | 353 | Chaz |
 | 267 | 352 | scott |
@@ -397,8 +397,8 @@
 | 389 | 254 | Laurmarcar |
 | 390 | 253 | Autum Leigh |
 | 391 | 252 | Maureen Flanigan |
-| 392 | 251 | Kathy Allen |
-| 393 | 251 | Carol Ricks Raymond |
+| 392 | 251 | Carol Ricks Raymond |
+| 393 | 251 | Kathy Allen |
 | 394 | 249 | Dapper Frame |
 | 395 | 248 | Chirpy Basepiece |
 | 396 | 248 | tipsy tiger |

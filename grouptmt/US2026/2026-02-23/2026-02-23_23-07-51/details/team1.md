@@ -62,8 +62,8 @@
 | 54 | 1100 | Carrie Beck Geartz |
 | 55 | 1074 | Cheeky Twistslam |
 | 56 | 1065 | Spunky Piecebuilder |
-| 57 | 1041 | Adam Byrd |
-| 58 | 1041 | Michelle Nicole |
+| 57 | 1041 | Michelle Nicole |
+| 58 | 1041 | Adam Byrd |
 | 59 | 1032 | Kathi Snustad |
 | 60 | 1027 | Robert Beck |
 | 61 | 1025 | Jason Jones |
@@ -103,8 +103,8 @@
 | 95 | 742 | Susanna Guerry |
 | 96 | 740 | Lori Sanders- Davis |
 | 97 | 722 | Kellie |
-| 98 | 706 | Plucky Fallzone |
-| 99 | 706 | Denice Dee |
+| 98 | 706 | Denice Dee |
+| 99 | 706 | Plucky Fallzone |
 | 100 | 704 | Karin Gillen |
 | 101 | 703 | Angel Fowler |
 | 102 | 691 | Rachael |
@@ -121,8 +121,8 @@
 | 113 | 612 | femmefatale |
 | 114 | 604 | Ryan Lunnin |
 | 115 | 603 | Ty Brown |
-| 116 | 601 | Evan Richmond |
-| 117 | 601 | Phu ckalldems |
+| 116 | 601 | Phu ckalldems |
+| 117 | 601 | Evan Richmond |
 | 118 | 598 | Jessi Sauer |
 | 119 | 594 | Basment Living |
 | 120 | 589 | Giddy Cascade |
@@ -164,15 +164,15 @@
 | 156 | 497 | MIKOZ |
 | 157 | 494 | Sean Stallings |
 | 158 | 492 | Rebekah LeiAnn Bonsell |
-| 159 | 491 | Michelle Beres |
-| 160 | 491 | cc |
+| 159 | 491 | cc |
+| 160 | 491 | Michelle Beres |
 | 161 | 488 | Hyper |
 | 162 | 483 | Dandy Basegrid |
 | 163 | 483 | Trina Gee |
 | 164 | 482 | Sarah Somers Gray |
 | 165 | 479 | Ly Phethmany |
-| 166 | 476 | Snappy Matcher |
-| 167 | 476 | phrmblk24 |
+| 166 | 476 | phrmblk24 |
+| 167 | 476 | Snappy Matcher |
 | 168 | 470 | Candy Jones |
 | 169 | 468 | Steve Schneider |
 | 170 | 464 | canbrick |
@@ -190,11 +190,11 @@
 | 182 | 432 | Lori Bales |
 | 183 | 430 | David Miller |
 | 184 | 426 | Maria C. Hernandez |
-| 185 | 425 | Tyler Werts |
-| 186 | 425 | Tana |
+| 185 | 425 | Tana |
+| 186 | 425 | Tyler Werts |
 | 187 | 424 | Emily Adelaide Wheatley |
-| 188 | 423 | Kimberly Garcia |
-| 189 | 423 | Elaine Elaine |
+| 188 | 423 | Elaine Elaine |
+| 189 | 423 | Kimberly Garcia |
 | 190 | 422 | Chelsea Dahlquist |
 | 191 | 419 | Daring Fitclear |
 | 192 | 418 | Mike Ames |
@@ -203,14 +203,14 @@
 | 195 | 417 | Jennifer Noe Chandler |
 | 196 | 416 | Jessica Sheehan |
 | 197 | 415 | Jennifer Hardman |
-| 198 | 414 | Jumpy Dropper |
-| 199 | 414 | John J. Cronin |
+| 198 | 414 | John J. Cronin |
+| 199 | 414 | Jumpy Dropper |
 | 200 | 412 | Connie |
 | 201 | 408 | Lindsay Glover |
-| 202 | 404 | Tawnya Peltonen |
-| 203 | 404 | Sleepysloath5745 |
-| 204 | 398 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
-| 205 | 398 | Tyler L Hunt |
+| 202 | 404 | Sleepysloath5745 |
+| 203 | 404 | Tawnya Peltonen |
+| 204 | 398 | Tyler L Hunt |
+| 205 | 398 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 206 | 397 | Erin Rosberg |
 | 207 | 395 | Monica Donato |
 | 208 | 393 | Happy Snapbuild |
