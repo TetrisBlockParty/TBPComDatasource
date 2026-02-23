@@ -916,8 +916,8 @@
 | 908 | 153 | Courtney Donovan |
 | 909 | 152 | Louise Parker |
 | 910 | 152 | Kate Farok |
-| 911 | 152 | Epic Wrecker |
-| 912 | 152 | Lisa Ann |
+| 911 | 152 | Lisa Ann |
+| 912 | 152 | Epic Wrecker |
 | 913 | 151 | Bernice Smiley |
 | 914 | 151 | Brad Dimitroff |
 | 915 | 151 | Justplain Killacam Phillips |

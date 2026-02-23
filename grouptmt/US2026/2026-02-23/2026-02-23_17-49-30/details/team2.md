@@ -402,8 +402,8 @@
 | 394 | 903 | Eric Castaneda |
 | 395 | 902 | Diallo Sparkman |
 | 396 | 899 | Felicia Lynn |
-| 397 | 899 | Patrick Bartlett |
-| 398 | 899 | Chevy |
+| 397 | 899 | Chevy |
+| 398 | 899 | Patrick Bartlett |
 | 399 | 898 | Donna M Carter |
 | 400 | 896 | Alyssa Hileman |
 | 401 | 895 | Donna Colby |
@@ -551,8 +551,8 @@
 | 543 | 706 | Irene Jones |
 | 544 | 706 | Aleksandr Gershman |
 | 545 | 704 | Tansaria Couch-Butler |
-| 546 | 703 | Dannette Goldberg-Richards |
-| 547 | 703 | Funky Drop |
+| 546 | 703 | Funky Drop |
+| 547 | 703 | Dannette Goldberg-Richards |
 | 548 | 702 | Lonne Emade |
 | 549 | 701 | Aishah Brice |
 | 550 | 700 | Vincent Petrella |
@@ -714,8 +714,8 @@
 | 706 | 579 | Roy Salyer |
 | 707 | 576 | Leslie Johnson Guinto |
 | 708 | 573 | Vaniel Glover |
-| 709 | 572 | Rachael Senard |
-| 710 | 572 | SwampRebel |
+| 709 | 572 | SwampRebel |
+| 710 | 572 | Rachael Senard |
 | 711 | 572 | Alexandra Lynn |
 | 712 | 571 | David Duncan |
 | 713 | 569 | Sparkles |

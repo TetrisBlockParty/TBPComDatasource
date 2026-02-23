@@ -201,8 +201,8 @@
 | 193 | 387 | Monica Donato |
 | 194 | 386 | Brian Spotts |
 | 195 | 385 | Debbie Kane |
-| 196 | 383 | Margo Wagner |
-| 197 | 383 | pjbeta |
+| 196 | 383 | pjbeta |
+| 197 | 383 | Margo Wagner |
 | 198 | 380 | Bindi |
 | 199 | 379 | Austin James |
 | 200 | 379 | Snappy Matcher |
@@ -362,7 +362,7 @@
 | 354 | 251 | Chummy Rollblock |
 | 355 | 251 | MRdot Rooski |
 | 356 | 251 | ParisandCory Champagne |
-| 357 | 251 | MRdot Rooski |
+| 357 | 251 | Randy Broadwater |
 | 358 | 250 | BigWeenie69 |
 | 359 | 248 | Matt Iaccheo |
 | 360 | 246 | Norma Paredez |

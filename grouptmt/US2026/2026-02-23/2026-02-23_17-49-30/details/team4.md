@@ -504,15 +504,15 @@
 | 496 | 179 | Elle Joe |
 | 497 | 179 | JoAnna Zalkovsky |
 | 498 | 179 | Joseph Gray |
-| 499 | 178 | Nerdy Linebuilder |
-| 500 | 178 | Laurel Coppess |
+| 499 | 178 | Laurel Coppess |
+| 500 | 178 | Nerdy Linebuilder |
 | 501 | 178 | Jackson Karen |
 | 502 | 178 | Daring Pivot |
 | 503 | 177 | Stephanie Mico |
 | 504 | 177 | Vamp |
 | 505 | 177 | Chao Ma |
 | 506 | 176 | Jlmendillo |
-| 507 | 175 | Lorena Guerrero-Barron |
+| 507 | 175 | tipsy tiger |
 | 508 | 175 | Veronica Garza |
 | 509 | 175 | Lorena Guerrero-Barron |
 | 510 | 175 | Ron |
@@ -795,7 +795,7 @@
 | 787 | 102 | Bryan Johnson |
 | 788 | 102 | Blaze Butler |
 | 789 | 102 | Goofy Fitblock |
-| 790 | 102 | Bryan Johnson |
+| 790 | 102 | k |
 | 791 | 101 | Saulc1991 |
 | 792 | 101 | Kris Johnson |
 | 793 | 100 | Ryan Knives Vanderpool |
@@ -993,7 +993,7 @@
 | 985 | 74 | Kevin L Cafleux |
 | 986 | 74 | Shon Woodland |
 | 987 | 74 | Patrick Watkins |
-| 988 | 74 | Dania Cochrane |
+| 988 | 74 | David Emmanuel George |
 | 989 | 74 | Mark Morgan |
 | 990 | 73 | Rachel Nicole |
 | 991 | 73 | Seraphim |
