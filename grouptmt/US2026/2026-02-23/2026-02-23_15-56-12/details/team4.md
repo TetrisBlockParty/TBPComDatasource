@@ -268,8 +268,8 @@
 | 260 | 304 | Gdiguy |
 | 261 | 303 | blasterB |
 | 262 | 300 | Dana Scott |
-| 263 | 295 | Keshia Lyons |
-| 264 | 295 | Lora |
+| 263 | 295 | Lora |
+| 264 | 295 | Keshia Lyons |
 | 265 | 294 | Calvin Cannon |
 | 266 | 293 | Joeliecea Cobb |
 | 267 | 292 | Epic Curvetile |
@@ -290,8 +290,8 @@
 | 282 | 281 | Morti |
 | 283 | 278 | Angela Geist Jusinski |
 | 284 | 278 | Sarah Brown |
-| 285 | 276 | Lee Silpe |
-| 286 | 276 | Susan Williams |
+| 285 | 276 | Susan Williams |
+| 286 | 276 | Lee Silpe |
 | 287 | 276 | Cynthia Boudreau |
 | 288 | 275 | Kimberlee Jan Beckstead |
 | 289 | 274 | Mr. Party |

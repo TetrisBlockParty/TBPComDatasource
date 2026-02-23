@@ -123,8 +123,8 @@
 | 115 | 878 | Shane Wilson Jr. |
 | 116 | 874 | Jessica Pineda-Lopez |
 | 117 | 872 | Jd Morris |
-| 118 | 868 | Sarajane Lokan |
-| 119 | 868 | Felicia Rocha |
+| 118 | 868 | Felicia Rocha |
+| 119 | 868 | Sarajane Lokan |
 | 120 | 864 | Sunny Rotater |
 | 121 | 848 | Patricia Gadsden |
 | 122 | 846 | Kristie |
@@ -172,13 +172,13 @@
 | 164 | 660 | Cranky Gridder |
 | 165 | 649 | Shavette |
 | 166 | 647 | Jennifer Lynn Fahrenholtz-Summers |
-| 167 | 634 | Amber Hughes |
-| 168 | 634 | Denita Mungro |
+| 167 | 634 | Denita Mungro |
+| 168 | 634 | Amber Hughes |
 | 169 | 633 | Joye Sims Binion |
 | 170 | 632 | Morgan Martinez |
 | 171 | 629 | rnr junky |
-| 172 | 621 | Cherry Parker |
-| 173 | 621 | Sashay Tapae Simpson |
+| 172 | 621 | Sashay Tapae Simpson |
+| 173 | 621 | Cherry Parker |
 | 174 | 616 | Kammy Hill |
 | 175 | 611 | Rochelle Hazelett |
 | 176 | 603 | Jone |
@@ -208,8 +208,8 @@
 | 200 | 549 | Sarah Cowan Burgos |
 | 201 | 548 | Danielle Balcom |
 | 202 | 547 | Staci George Fitzsimmons |
-| 203 | 546 | Cynthia Castros-Hampton |
-| 204 | 546 | Mykal Burton |
+| 203 | 546 | Mykal Burton |
+| 204 | 546 | Cynthia Castros-Hampton |
 | 205 | 543 | Silly Twist |
 | 206 | 540 | Shawn Miller |
 | 207 | 539 | Betty Bóò |

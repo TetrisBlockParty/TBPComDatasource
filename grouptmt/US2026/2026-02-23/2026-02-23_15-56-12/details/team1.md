@@ -123,8 +123,8 @@
 | 115 | 525 | Evan Richmond |
 | 116 | 522 | Sarah Lombardo |
 | 117 | 515 | Death |
-| 118 | 513 | Colena Davenport |
-| 119 | 513 | April Carroll |
+| 118 | 513 | April Carroll |
+| 119 | 513 | Colena Davenport |
 | 120 | 509 | Rachael |
 | 121 | 503 | Sharon Reynolds |
 | 122 | 502 | Anaid Sanchez |
@@ -227,8 +227,8 @@
 | 219 | 353 | Josh Riemer |
 | 220 | 351 | Sean Stallings |
 | 221 | 350 | Tipsy Strikerpiece |
-| 222 | 349 | Cool Shiftsnap |
-| 223 | 349 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
+| 222 | 349 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
+| 223 | 349 | Cool Shiftsnap |
 | 224 | 347 | Elaine Elaine |
 | 225 | 346 | GATOR |
 | 226 | 345 | Jerry Danowski |
@@ -244,8 +244,8 @@
 | 236 | 332 | Happy Basegrid |
 | 237 | 330 | Jen Nystrom |
 | 238 | 328 | Snappy Matcher |
-| 239 | 325 | GringaLinga |
-| 240 | 325 | Chantelle Ceno |
+| 239 | 325 | Chantelle Ceno |
+| 240 | 325 | GringaLinga |
 | 241 | 324 | Rat666 |
 | 242 | 323 | Eric DeSimone |
 | 243 | 322 | Letson Melissa |
@@ -413,7 +413,7 @@
 | 405 | 213 | Divaaa |
 | 406 | 213 | John Barron |
 | 407 | 212 | Amber Dee |
-| 408 | 211 | Bucketsmasher |
+| 408 | 211 | Lynn Adams |
 | 409 | 211 | Natasha Hollowell Causey |
 | 410 | 211 | Bucketsmasher |
 | 411 | 209 | Breanna Luna |
@@ -438,8 +438,8 @@
 | 430 | 199 | Tina Englert |
 | 431 | 198 | Marci Sanders |
 | 432 | 197 | Cool Towerzone |
-| 433 | 196 | Rachel Copas |
-| 434 | 196 | Anita Jack |
+| 433 | 196 | Anita Jack |
+| 434 | 196 | Rachel Copas |
 | 435 | 196 | Steph |
 | 436 | 195 | Blaire Bruckoff |
 | 437 | 195 | Herm Junior |

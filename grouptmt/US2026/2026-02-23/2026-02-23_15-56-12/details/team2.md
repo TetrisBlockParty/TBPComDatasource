@@ -479,8 +479,8 @@
 | 471 | 761 | Jerilyn Andrina |
 | 472 | 760 | Ashley Guernsey-Martin |
 | 473 | 760 | Allan Wayne Lamia |
-| 474 | 758 | Eunique Griffin |
-| 475 | 758 | Kimberly Randesi |
+| 474 | 758 | Kimberly Randesi |
+| 475 | 758 | Eunique Griffin |
 | 476 | 758 | Quirky Twistline |
 | 477 | 758 | Stephanie Neuburger |
 | 478 | 755 | Taryece Gause |
@@ -505,8 +505,8 @@
 | 497 | 731 | Trisha J Schmidt |
 | 498 | 729 | goofinoff |
 | 499 | 728 | Mikayala Szaz |
-| 500 | 728 | Giggy Mover |
-| 501 | 728 | Tom Riefer |
+| 500 | 728 | Tom Riefer |
+| 501 | 728 | Giggy Mover |
 | 502 | 727 | BeQuo |
 | 503 | 726 | Joce Lynn |
 | 504 | 726 | Crystal Greene |
