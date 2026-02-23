@@ -121,8 +121,8 @@
 | 113 | 831 | Angeline Joseph |
 | 114 | 830 | Stephanie Allmon |
 | 115 | 826 | Shane Wilson Jr. |
-| 116 | 816 | Jesse Olive |
-| 117 | 816 | Brenda Lee Vander Molen |
+| 116 | 816 | Brenda Lee Vander Molen |
+| 117 | 816 | Jesse Olive |
 | 118 | 802 | Bobbi Moore |
 | 119 | 800 | Lauren Girouard |
 | 120 | 799 | Dolores Falco |
@@ -130,8 +130,8 @@
 | 122 | 769 | Kristie |
 | 123 | 764 | Groovy Catcher |
 | 124 | 762 | Speedy Bridger |
-| 125 | 755 | Katrina Schroeder |
-| 126 | 755 | Raya |
+| 125 | 755 | Raya |
+| 126 | 755 | Katrina Schroeder |
 | 127 | 752 | Logan Naccarato |
 | 128 | 748 | Adrian Marcel Pate |
 | 129 | 745 | JerseyJess |
@@ -346,8 +346,8 @@
 | 338 | 299 | TotoCherue |
 | 339 | 299 | Angie Harper |
 | 340 | 299 | Hasty Gridpiece |
-| 341 | 298 | Grams |
-| 342 | 298 | Dannie Litchard |
+| 341 | 298 | Dannie Litchard |
+| 342 | 298 | Grams |
 | 343 | 297 | kacihall |
 | 344 | 296 | Donna |
 | 345 | 296 | Tracy Martin |
@@ -385,8 +385,8 @@
 | 377 | 274 | Ava Petito |
 | 378 | 273 | Kevin Fountain |
 | 379 | 273 | Brenda Schmid Wood |
-| 380 | 272 | Tay |
-| 381 | 272 | Todd Hall |
+| 380 | 272 | Todd Hall |
+| 381 | 272 | Tay |
 | 382 | 272 | Romeo |
 | 383 | 269 | Juliana Dottore |
 | 384 | 269 | Samantha Worley |

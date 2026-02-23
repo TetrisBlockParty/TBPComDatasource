@@ -251,8 +251,8 @@
 | 243 | 272 | Barrbaric |
 | 244 | 272 | Tawnya Peltonen |
 | 245 | 271 | Frothy Pattern |
-| 246 | 270 | Brenda Alexander |
-| 247 | 270 | Debbie Kane |
+| 246 | 270 | Debbie Kane |
+| 247 | 270 | Brenda Alexander |
 | 248 | 268 | Standia Civil |
 | 249 | 267 | Eric DeSimone |
 | 250 | 267 | Daring Fitclear |
@@ -496,7 +496,7 @@
 | 488 | 151 | Plucky Wrecker |
 | 489 | 149 | Logan McFarland |
 | 490 | 149 | Kimberly Davis |
-| 491 | 149 | Logan McFarland |
+| 491 | 149 | MIKOZ |
 | 492 | 148 | Sir-Franchise Drake |
 | 493 | 147 | Jodee Woods |
 | 494 | 147 | Carl Claunch |

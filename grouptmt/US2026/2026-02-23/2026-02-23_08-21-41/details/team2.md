@@ -215,8 +215,8 @@
 | 207 | 1286 | Altamirano Michael |
 | 208 | 1282 | Tanya Parsons |
 | 209 | 1259 | Foxxo |
-| 210 | 1258 | Joyce Johnson Vaughn |
-| 211 | 1258 | Snappy Matchbuilder |
+| 210 | 1258 | Snappy Matchbuilder |
+| 211 | 1258 | Joyce Johnson Vaughn |
 | 212 | 1252 | Angel |
 | 213 | 1245 | Cody Nishimura |
 | 214 | 1240 | Brandon Armstrong |
@@ -1027,8 +1027,8 @@
 | 1019 | 364 | Epic Spinfit |
 | 1020 | 363 | Tammy Mitchell |
 | 1021 | 363 | Casaundra Little-Abeling |
-| 1022 | 362 | Del Davis |
-| 1023 | 362 | Megan Phillips |
+| 1022 | 362 | Megan Phillips |
+| 1023 | 362 | Del Davis |
 | 1024 | 362 | Dione |
 | 1025 | 362 | Epic Stackbuilder |
 | 1026 | 361 | Mike73 |

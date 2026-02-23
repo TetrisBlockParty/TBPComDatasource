@@ -66,8 +66,8 @@
 | 58 | 846 | Christine Marie |
 | 59 | 845 | LisaJo Picken Buchanan |
 | 60 | 834 | quicksand420 |
-| 61 | 807 | Rachel Anne |
-| 62 | 807 | Amelpss |
+| 61 | 807 | Amelpss |
+| 62 | 807 | Rachel Anne |
 | 63 | 788 | Julian Garcia |
 | 64 | 787 | Edward White |
 | 65 | 783 | Ashley Ingram |
@@ -224,8 +224,8 @@
 | 216 | 301 | Andria Lynn |
 | 217 | 300 | Dana Scott |
 | 218 | 295 | Keshia Lyons |
-| 219 | 294 | Porkobello |
-| 220 | 294 | Calvin Cannon |
+| 219 | 294 | Calvin Cannon |
+| 220 | 294 | Porkobello |
 | 221 | 292 | Epic Curvetile |
 | 222 | 291 | Nikki Rae Gordon |
 | 223 | 290 | Plucky Patternblock |
@@ -416,8 +416,8 @@
 | 408 | 174 | Jesse Saville |
 | 409 | 174 | Jason Frehner |
 | 410 | 173 | Tanner Lund |
-| 411 | 172 | Undeniable Williams |
-| 412 | 172 | Janis Brown |
+| 411 | 172 | Janis Brown |
+| 412 | 172 | Undeniable Williams |
 | 413 | 171 | Dapper Balancer |
 | 414 | 171 | Milan Markeisha |
 | 415 | 171 | Terrance Fung |
