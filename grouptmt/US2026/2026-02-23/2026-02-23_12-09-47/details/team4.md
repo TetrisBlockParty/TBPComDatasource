@@ -485,7 +485,7 @@
 | 477 | 157 | Ryry |
 | 478 | 157 | David Boggs |
 | 479 | 156 | Mighty Edgepiece |
-| 480 | 155 | Faja |
+| 480 | 155 | Shirl |
 | 481 | 155 | tipsy tiger |
 | 482 | 155 | Faja |
 | 483 | 154 | Christine Simmons |

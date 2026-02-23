@@ -129,8 +129,8 @@
 | 121 | 467 | Candy Jones |
 | 122 | 463 | Lexuriuos Lifestlye |
 | 123 | 462 | Luciano Moreira |
-| 124 | 458 | Goose egg |
-| 125 | 458 | Evan Richmond |
+| 124 | 458 | Evan Richmond |
+| 125 | 458 | Goose egg |
 | 126 | 454 | Desiree Deschaine Havee |
 | 127 | 453 | Brandi Huntington |
 | 128 | 452 | Hyper |

@@ -27,8 +27,8 @@
 | 19 | 2840 | Chummy Shatterer |
 | 20 | 2697 | River |
 | 21 | 2387 | Susan Valentino |
-| 22 | 2353 | Tetris Master |
-| 23 | 2353 | Laura Melton |
+| 22 | 2353 | Laura Melton |
+| 23 | 2353 | Tetris Master |
 | 24 | 2319 | mjl574 |
 | 25 | 2311 | Brandon Green |
 | 26 | 2271 | Jeana Gilbert |
@@ -197,8 +197,8 @@
 | 189 | 549 | Sarah Cowan Burgos |
 | 190 | 548 | Danielle Balcom |
 | 191 | 547 | Staci George Fitzsimmons |
-| 192 | 546 | Cynthia Castros-Hampton |
-| 193 | 546 | Tasha Schriewer |
+| 192 | 546 | Tasha Schriewer |
+| 193 | 546 | Cynthia Castros-Hampton |
 | 194 | 546 | Mykal Burton |
 | 195 | 540 | Shawn Miller |
 | 196 | 531 | Makelini Mausia |
@@ -435,12 +435,12 @@
 | 427 | 258 | IamJust Neyamijah Washington Sr. |
 | 428 | 257 | Rachel Grant |
 | 429 | 257 | Chris Wallace |
-| 430 | 257 | Jana Polk |
-| 431 | 257 | Saucy Buildout |
+| 430 | 257 | Saucy Buildout |
+| 431 | 257 | Jana Polk |
 | 432 | 255 | Erykah |
 | 433 | 255 | Mariah Williams |
-| 434 | 254 | Blair Erin Waite |
-| 435 | 254 | Katheline Lazo Luizaga |
+| 434 | 254 | Katheline Lazo Luizaga |
+| 435 | 254 | Blair Erin Waite |
 | 436 | 253 | Block Baddie |
 | 437 | 253 | crystal |
 | 438 | 253 | Bryan Byrd |
@@ -555,8 +555,8 @@
 | 547 | 205 | Rachel Napper |
 | 548 | 204 | Daisy Rocha |
 | 549 | 204 | Sassy Brickmatch |
-| 550 | 204 | Lesley Perez |
-| 551 | 204 | Macaulay Logel |
+| 550 | 204 | Macaulay Logel |
+| 551 | 204 | Lesley Perez |
 | 552 | 203 | Irene Arreguin |
 | 553 | 203 | Sdot |
 | 554 | 201 | Katrina E Jelks |
@@ -572,8 +572,8 @@
 | 564 | 199 | PrncssPJ |
 | 565 | 199 | Sunny Lift |
 | 566 | 198 | Jodi Kaczynski-O'Dowd |
-| 567 | 198 | Zac Hudak |
-| 568 | 198 | xsiv |
+| 567 | 198 | xsiv |
+| 568 | 198 | Zac Hudak |
 | 569 | 198 | momo |
 | 570 | 197 | Giggy Glidepiece |
 | 571 | 197 | BabyTonj Evans |

@@ -724,8 +724,8 @@
 | 716 | 512 | Sassy Linkroll |
 | 717 | 511 | Kristie Wilcox |
 | 718 | 509 | Jordan Kaiser |
-| 719 | 509 | Perky Rollfit |
-| 720 | 509 | Toni Whipple |
+| 719 | 509 | Toni Whipple |
+| 720 | 509 | Perky Rollfit |
 | 721 | 508 | Daphne Jordan |
 | 722 | 507 | Lina Sanders |
 | 723 | 507 | Funky Caster |
