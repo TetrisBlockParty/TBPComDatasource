@@ -63,8 +63,8 @@
 | 55 | 1049 | Heather Tushner |
 | 56 | 1046 | Johnathan Martinez |
 | 57 | 1030 | Dustee Craddock-Harrison |
-| 58 | 1024 | Shane Kalamata Platoon |
-| 59 | 1024 | LisaJo Picken Buchanan |
+| 58 | 1024 | LisaJo Picken Buchanan |
+| 59 | 1024 | Shane Kalamata Platoon |
 | 60 | 1003 | BertMofo |
 | 61 | 995 | Jeremy Steines |
 | 62 | 968 | Robin Getchel |
@@ -80,8 +80,8 @@
 | 72 | 862 | Carolyn Wallace |
 | 73 | 847 | Peachy Fall |
 | 74 | 846 | Lucille Truesdale |
-| 75 | 846 | Christine Marie |
-| 76 | 846 | Amelpss |
+| 75 | 846 | Amelpss |
+| 76 | 846 | Christine Marie |
 | 77 | 841 | Shauna Havard |
 | 78 | 834 | quicksand420 |
 | 79 | 832 | Lisa Davis |
@@ -228,10 +228,10 @@
 | 220 | 381 | Mimi |
 | 221 | 380 | Rio Rocha |
 | 222 | 379 | Backoff Recupe |
-| 223 | 378 | Silly Zonebuilder |
-| 224 | 378 | Lauren Scott |
-| 225 | 376 | shark tato |
-| 226 | 376 | Zesty Twistbuilder |
+| 223 | 378 | Lauren Scott |
+| 224 | 378 | Silly Zonebuilder |
+| 225 | 376 | Zesty Twistbuilder |
+| 226 | 376 | shark tato |
 | 227 | 374 | Mr. Party |
 | 228 | 373 | JPW |
 | 229 | 372 | Holly Jolly |
@@ -340,8 +340,8 @@
 | 332 | 266 | Deb Rubeck |
 | 333 | 266 | Happy Combo |
 | 334 | 265 | Sarah Neathery |
-| 335 | 265 | Christine Therrien |
-| 336 | 265 | Lorena Guerrero-Barron |
+| 335 | 265 | Lorena Guerrero-Barron |
+| 336 | 265 | Christine Therrien |
 | 337 | 265 | Degenerate |
 | 338 | 264 | AyeKay |
 | 339 | 264 | Zethra Prenisha Rahming |
@@ -466,15 +466,15 @@
 | 458 | 201 | O block |
 | 459 | 201 | Walter Beltran |
 | 460 | 200 | Mighty Edgepiece |
-| 461 | 200 | Jarred Falls |
-| 462 | 200 | Sandra Safford |
+| 461 | 200 | Sandra Safford |
+| 462 | 200 | Jarred Falls |
 | 463 | 199 | Grann8 |
 | 464 | 199 | Michelle Morris |
 | 465 | 198 | Helen Chao |
 | 466 | 198 | Calvin Dennis |
 | 467 | 197 | ChasingZen |
-| 468 | 197 | Cozy Balancer |
-| 469 | 197 | Zippy Tilt |
+| 468 | 197 | Zippy Tilt |
+| 469 | 197 | Cozy Balancer |
 | 470 | 196 | Megan Cutshaw |
 | 471 | 195 | Frisky Matchgrid |
 | 472 | 194 | Eri Kka |

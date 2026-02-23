@@ -376,7 +376,7 @@
 | 368 | 251 | ParisandCory Champagne |
 | 369 | 251 | MRdot Rooski |
 | 370 | 251 | Norma Paredez |
-| 371 | 251 | MRdot Rooski |
+| 371 | 251 | Randy Broadwater |
 | 372 | 250 | BigWeenie69 |
 | 373 | 249 | Jeremy Maubert |
 | 374 | 248 | Christina Backer |
@@ -524,7 +524,7 @@
 | 516 | 179 | Ryan White |
 | 517 | 179 | Ward Leandrea |
 | 518 | 178 | Gerald Richard Franke |
-| 519 | 178 | Mel Fab |
+| 519 | 178 | Liliana Pena |
 | 520 | 178 | Gabrielle Louise Malloch |
 | 521 | 178 | Mel Fab |
 | 522 | 177 | Jacqueline Unique |

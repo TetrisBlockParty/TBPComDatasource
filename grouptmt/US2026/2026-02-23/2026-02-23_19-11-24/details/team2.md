@@ -84,8 +84,8 @@
 | 76 | 3166 | Izabel Herrera |
 | 77 | 3099 | Charie Holland |
 | 78 | 2901 | RdRydnHd |
-| 79 | 2880 | Kimberly Schall |
-| 80 | 2880 | Aimee Byrom |
+| 79 | 2880 | Aimee Byrom |
+| 80 | 2880 | Kimberly Schall |
 | 81 | 2870 | Eckoman518 |
 | 82 | 2859 | Jose Vega |
 | 83 | 2846 | Veronica Porter |
@@ -208,8 +208,8 @@
 | 200 | 1534 | Rosa Franklin |
 | 201 | 1529 | Howard Forest |
 | 202 | 1511 | Melissa Penelope Ann Dodge |
-| 203 | 1509 | Glitzy Stackzone |
-| 204 | 1509 | Whitney Nicole Waterman |
+| 203 | 1509 | Whitney Nicole Waterman |
+| 204 | 1509 | Glitzy Stackzone |
 | 205 | 1507 | Kiok |
 | 206 | 1504 | Hannah Erskine |
 | 207 | 1488 | Sommer Shope |
@@ -343,10 +343,10 @@
 | 335 | 1049 | Ashlen Dorrell |
 | 336 | 1047 | Tiffany Branham |
 | 337 | 1045 | Lourisha |
-| 338 | 1043 | nikki |
-| 339 | 1043 | Brave Dropmatch |
-| 340 | 1042 | Mcintosh Brian Shalonda |
-| 341 | 1042 | Michele Morgan |
+| 338 | 1043 | Brave Dropmatch |
+| 339 | 1043 | nikki |
+| 340 | 1042 | Michele Morgan |
+| 341 | 1042 | Mcintosh Brian Shalonda |
 | 342 | 1041 | Binyah-Binyah |
 | 343 | 1040 | Taylor Phillips |
 | 344 | 1037 | Jessica Wayne Cornwall |
@@ -1158,8 +1158,8 @@
 | 1150 | 404 | dionia |
 | 1151 | 404 | Tara Merrill |
 | 1152 | 403 | Trina Harrison |
-| 1153 | 403 | Goofy Dasher |
-| 1154 | 403 | Nate Skidmore |
+| 1153 | 403 | Nate Skidmore |
+| 1154 | 403 | Goofy Dasher |
 | 1155 | 403 | NickyBrooks |
 | 1156 | 403 | Meli |
 | 1157 | 403 | Stanley Vanekelenburg |
