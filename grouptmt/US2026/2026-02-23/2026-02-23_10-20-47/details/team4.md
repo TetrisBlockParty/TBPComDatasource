@@ -76,8 +76,8 @@
 | 68 | 787 | Edward White |
 | 69 | 767 | Shannon Ferrari |
 | 70 | 766 | Robin Watters |
-| 71 | 765 | Denise Carlson |
-| 72 | 765 | Robin Getchel |
+| 71 | 765 | Robin Getchel |
+| 72 | 765 | Denise Carlson |
 | 73 | 753 | TheNeesh50 |
 | 74 | 752 | Shane Kalamata Platoon |
 | 75 | 749 | Dustee Craddock-Harrison |
@@ -209,8 +209,8 @@
 | 201 | 330 | blockstar |
 | 202 | 328 | scott |
 | 203 | 327 | J-Rizzle |
-| 204 | 324 | TinyLegoRose |
-| 205 | 324 | jim |
+| 204 | 324 | jim |
+| 205 | 324 | TinyLegoRose |
 | 206 | 321 | Meagan Nicole |
 | 207 | 320 | Lauren Scott |
 | 208 | 319 | Googenheim |
@@ -319,24 +319,24 @@
 | 311 | 225 | Hyper Builder |
 | 312 | 224 | AyeKay |
 | 313 | 224 | Ultramarine |
-| 314 | 223 | Amanda Christine |
+| 314 | 223 | Adawna Swires |
 | 315 | 223 | Chance Strickland |
-| 316 | 223 | Adawna Swires |
+| 316 | 223 | Amanda Christine |
 | 317 | 222 | Brandi Durig |
 | 318 | 221 | Rheanda Weaskus |
 | 319 | 220 | Jumpy Zonepiece |
 | 320 | 220 | Ziggy |
 | 321 | 220 | Nita Wells |
 | 322 | 220 | Tina Lopez |
-| 323 | 219 | Orchislactea |
-| 324 | 219 | Shane Vick |
+| 323 | 219 | Shane Vick |
+| 324 | 219 | Orchislactea |
 | 325 | 218 | Janita Parrish |
 | 326 | 217 | Paito |
 | 327 | 217 | Alexandra Karavias |
 | 328 | 217 | Cheery Fitline |
 | 329 | 215 | Stephme310 |
-| 330 | 214 | Stacey Stano |
-| 331 | 214 | Patron Anderson |
+| 330 | 214 | Patron Anderson |
+| 331 | 214 | Stacey Stano |
 | 332 | 213 | Jackie Marie |
 | 333 | 212 | Brave Spinbuilder |
 | 334 | 212 | Zany Shatterer |
@@ -463,8 +463,8 @@
 | 455 | 162 | Empress Oasis |
 | 456 | 162 | conceptCollector |
 | 457 | 160 | Sam Middleton |
-| 458 | 160 | Heather Layne Smith |
-| 459 | 160 | Sho Nuff |
+| 458 | 160 | Sho Nuff |
+| 459 | 160 | Heather Layne Smith |
 | 460 | 160 | icequeenx |
 | 461 | 159 | Groovy Brickmatch |
 | 462 | 158 | Jasmine S Caldwell |

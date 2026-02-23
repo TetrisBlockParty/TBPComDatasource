@@ -353,8 +353,8 @@
 | 345 | 903 | Giggy Blocker |
 | 346 | 903 | Eric Castaneda |
 | 347 | 901 | Kevin Sees |
-| 348 | 899 | Patrick Bartlett |
-| 349 | 899 | Chevy |
+| 348 | 899 | Chevy |
+| 349 | 899 | Patrick Bartlett |
 | 350 | 898 | Jamie Otero |
 | 351 | 895 | Donna Colby |
 | 352 | 894 | Adira Brown |
@@ -398,9 +398,9 @@
 | 390 | 816 | Beth |
 | 391 | 816 | James Simms III |
 | 392 | 812 | Samantha Jo |
-| 393 | 808 | Laura McCarthey |
-| 394 | 808 | Connie Jimenez |
-| 395 | 808 | Desire Rice |
+| 393 | 808 | Connie Jimenez |
+| 394 | 808 | Desire Rice |
+| 395 | 808 | Laura McCarthey |
 | 396 | 804 | Becca Coronado |
 | 397 | 801 | Diana Fitzwater |
 | 398 | 801 | Gold Rose |
@@ -416,8 +416,8 @@
 | 408 | 788 | Erika Densmore |
 | 409 | 787 | Tiara Elizabeth Baker |
 | 410 | 783 | John Rodriguez |
-| 411 | 777 | Tesha Oldaker |
-| 412 | 777 | Jessicah Myers |
+| 411 | 777 | Jessicah Myers |
+| 412 | 777 | Tesha Oldaker |
 | 413 | 776 | Fancy Twister |
 | 414 | 776 | Mighty Spinbuilder |
 | 415 | 775 | Crystie Hicks |
@@ -496,8 +496,8 @@
 | 488 | 689 | Gauri Shrotriya |
 | 489 | 686 | Christine Coughlin |
 | 490 | 684 | Sarah DeHart |
-| 491 | 684 | Ann Knutson Anderson |
-| 492 | 684 | Ellie Jonas |
+| 491 | 684 | Ellie Jonas |
+| 492 | 684 | Ann Knutson Anderson |
 | 493 | 682 | Vanessa Moreno |
 | 494 | 682 | Antionette Sewell |
 | 495 | 681 | Gloria Liu |
@@ -508,8 +508,8 @@
 | 500 | 677 | Paul Combs |
 | 501 | 677 | Kayleigh Wisse |
 | 502 | 677 | Amanda Woodruff |
-| 503 | 676 | Roseanna Peloso |
-| 504 | 676 | Nicky Jackson |
+| 503 | 676 | Nicky Jackson |
+| 504 | 676 | Roseanna Peloso |
 | 505 | 675 | Lonne Emade |
 | 506 | 675 | Katelynn Hollen |
 | 507 | 674 | Ashley Munn |

@@ -76,8 +76,8 @@
 | 68 | 1264 | Amanda L Baker |
 | 69 | 1258 | Danielle Cutler |
 | 70 | 1256 | Jessica Bechler |
-| 71 | 1213 | Nerdy Riseclear |
-| 72 | 1213 | Snappy Glidepiece |
+| 71 | 1213 | Snappy Glidepiece |
+| 72 | 1213 | Nerdy Riseclear |
 | 73 | 1201 | Amanda Adkins |
 | 74 | 1186 | Christian A. Pollard |
 | 75 | 1162 | Gracie |
@@ -129,16 +129,16 @@
 | 121 | 779 | Justin Ritter |
 | 122 | 773 | Daira Largen |
 | 123 | 769 | Kristie |
-| 124 | 764 | Hasty Cascadefit |
-| 125 | 764 | Groovy Catcher |
+| 124 | 764 | Groovy Catcher |
+| 125 | 764 | Hasty Cascadefit |
 | 126 | 762 | Speedy Bridger |
 | 127 | 755 | Katrina Schroeder |
 | 128 | 755 | Raya |
 | 129 | 752 | Logan Naccarato |
 | 130 | 748 | Adrian Marcel Pate |
 | 131 | 745 | JerseyJess |
-| 132 | 744 | Leah Barnett |
-| 133 | 744 | Fancy Cascader |
+| 132 | 744 | Fancy Cascader |
+| 133 | 744 | Leah Barnett |
 | 134 | 736 | mzcatzy |
 | 135 | 734 | Calista Jo Dickson |
 | 136 | 728 | Peppy Shifter |
@@ -354,8 +354,8 @@
 | 346 | 299 | TotoCherue |
 | 347 | 299 | Angie Harper |
 | 348 | 299 | Hasty Gridpiece |
-| 349 | 298 | Dannie Litchard |
-| 350 | 298 | Grams |
+| 349 | 298 | Grams |
+| 350 | 298 | Dannie Litchard |
 | 351 | 297 | kacihall |
 | 352 | 296 | Donna |
 | 353 | 296 | Tracy Martin |
@@ -405,10 +405,10 @@
 | 397 | 269 | Samantha Worley |
 | 398 | 268 | Jessica Lynn French |
 | 399 | 267 | Jul |
-| 400 | 267 | April Matthew Kibble |
-| 401 | 267 | Michael Kimbro |
-| 402 | 266 | Sarah Muradyan |
-| 403 | 266 | Quirky Dropzone |
+| 400 | 267 | Michael Kimbro |
+| 401 | 267 | April Matthew Kibble |
+| 402 | 266 | Quirky Dropzone |
+| 403 | 266 | Sarah Muradyan |
 | 404 | 265 | Heather Davis |
 | 405 | 265 | AlsoJess |
 | 406 | 264 | Reina Roth |
@@ -564,10 +564,10 @@
 | 556 | 197 | Giggy Glidepiece |
 | 557 | 197 | BabyTonj Evans |
 | 558 | 197 | Jalissa Monique |
-| 559 | 197 | Johnny Berlin |
-| 560 | 197 | Fredd Thomas |
-| 561 | 196 | Joshua David Huie |
-| 562 | 196 | Weerae |
+| 559 | 197 | Fredd Thomas |
+| 560 | 197 | Johnny Berlin |
+| 561 | 196 | Weerae |
+| 562 | 196 | Joshua David Huie |
 | 563 | 196 | Eboni Starr |
 | 564 | 195 | toony |
 | 565 | 195 | Nicha Hooker |
@@ -575,8 +575,8 @@
 | 567 | 194 | Shicken Nuggit |
 | 568 | 193 | Clever Shiftsnap |
 | 569 | 193 | Stephanie Zahm |
-| 570 | 192 | Laura Booth Wosko |
-| 571 | 192 | Kelly Ann Child |
+| 570 | 192 | Kelly Ann Child |
+| 571 | 192 | Laura Booth Wosko |
 | 572 | 192 | Jennifer Neiman Gaal |
 | 573 | 191 | lady lua |
 | 574 | 191 | Silver Marchán |
@@ -603,8 +603,8 @@
 | 595 | 184 | Shanon R Jackson |
 | 596 | 184 | Barb Wensink Johnson |
 | 597 | 184 | Christian Luna |
-| 598 | 183 | Mel Murr |
-| 599 | 183 | AC Yeater |
+| 598 | 183 | AC Yeater |
+| 599 | 183 | Mel Murr |
 | 600 | 183 | Jana Fagg |
 | 601 | 183 | Snarky McFace |
 | 602 | 183 | Silly Curvetile |
@@ -912,9 +912,9 @@
 | 904 | 125 | Felicia Doxey |
 | 905 | 125 | Oliver Neal II |
 | 906 | 125 | Monica Crespo |
-| 907 | 125 | Jennifer Palermo |
-| 908 | 125 | Lickity Split |
-| 909 | 125 | Dizzy Tiltgrid |
+| 907 | 125 | Shimika Enay Wallace |
+| 908 | 125 | Dizzy Tiltgrid |
+| 909 | 125 | Lickity Split |
 | 910 | 124 | FuzzyDunlop |
 | 911 | 124 | Matty Pope |
 | 912 | 124 | Shelby Hiilani Manaba |
