@@ -62,8 +62,8 @@
 | 54 | 864 | Shelly Chandler |
 | 55 | 863 | Pee |
 | 56 | 859 | TeeJ |
-| 57 | 846 | Christine Marie |
-| 58 | 846 | Lucille Truesdale |
+| 57 | 846 | Lucille Truesdale |
+| 58 | 846 | Christine Marie |
 | 59 | 845 | LisaJo Picken Buchanan |
 | 60 | 834 | quicksand420 |
 | 61 | 807 | Amelpss |
@@ -161,8 +161,8 @@
 | 153 | 413 | Circuit8 |
 | 154 | 412 | Jessica Bohlken |
 | 155 | 408 | Amanda Pauldo-Ivy |
-| 156 | 406 | Damn Libra |
-| 157 | 406 | Livvy |
+| 156 | 406 | Livvy |
+| 157 | 406 | Damn Libra |
 | 158 | 403 | Keith Kelley |
 | 159 | 398 | Tyler Terrific |
 | 160 | 393 | Girl |
@@ -326,8 +326,8 @@
 | 318 | 216 | mike |
 | 319 | 216 | Chantilly Laace |
 | 320 | 215 | Stephme310 |
-| 321 | 214 | Stacey Stano |
-| 322 | 214 | Patron Anderson |
+| 321 | 214 | Patron Anderson |
+| 322 | 214 | Stacey Stano |
 | 323 | 213 | Jackie Marie |
 | 324 | 212 | Mike Solo |
 | 325 | 212 | Brave Spinbuilder |
@@ -362,8 +362,8 @@
 | 354 | 194 | SammieJo Guy |
 | 355 | 192 | Twisty Risebuilder |
 | 356 | 192 | Meg |
-| 357 | 191 | Earnest Thompson |
-| 358 | 191 | Riverdale |
+| 357 | 191 | Riverdale |
+| 358 | 191 | Earnest Thompson |
 | 359 | 191 | Norman Klick |
 | 360 | 190 | Hyper Builder |
 | 361 | 190 | wombat |
@@ -373,8 +373,8 @@
 | 365 | 188 | Sharyn Lemire |
 | 366 | 187 | Jenny Wells-Oakley |
 | 367 | 187 | Cozy Balancer |
-| 368 | 186 | Shanon Klair |
-| 369 | 186 | Dandy Cascadefit |
+| 368 | 186 | Dandy Cascadefit |
+| 369 | 186 | Shanon Klair |
 | 370 | 186 | Eri Kka |
 | 371 | 185 | Moonsterix |
 | 372 | 185 | Morti |
@@ -459,8 +459,8 @@
 | 451 | 159 | Stacy |
 | 452 | 158 | Jasmine S Caldwell |
 | 453 | 158 | Dapper Frame |
-| 454 | 157 | LunaMoon |
-| 455 | 157 | Ryry |
+| 454 | 157 | Ryry |
+| 455 | 157 | LunaMoon |
 | 456 | 157 | David Boggs |
 | 457 | 156 | Funky Risepiece |
 | 458 | 156 | Mighty Edgepiece |

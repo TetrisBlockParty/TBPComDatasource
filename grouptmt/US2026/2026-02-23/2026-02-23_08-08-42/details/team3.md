@@ -114,8 +114,8 @@
 | 106 | 869 | Araceli Parra |
 | 107 | 868 | Sarajane Lokan |
 | 108 | 860 | Sunny Rotater |
-| 109 | 851 | Jd Morris |
-| 110 | 851 | Danielle Becker |
+| 109 | 851 | Danielle Becker |
+| 110 | 851 | Jd Morris |
 | 111 | 850 | Danielle Mogg |
 | 112 | 848 | Patricia Gadsden |
 | 113 | 831 | Angeline Joseph |
@@ -135,8 +135,8 @@
 | 127 | 752 | Logan Naccarato |
 | 128 | 748 | Adrian Marcel Pate |
 | 129 | 745 | JerseyJess |
-| 130 | 744 | Fancy Cascader |
-| 131 | 744 | Leah Barnett |
+| 130 | 744 | Leah Barnett |
+| 131 | 744 | Fancy Cascader |
 | 132 | 736 | mzcatzy |
 | 133 | 734 | Calista Jo Dickson |
 | 134 | 728 | Peppy Shifter |
@@ -201,8 +201,8 @@
 | 193 | 528 | Silly Twist |
 | 194 | 525 | Stephanie Blkpep Davidson |
 | 195 | 524 | Bmo |
-| 196 | 519 | rnr junky |
-| 197 | 519 | Terry Jo Jones |
+| 196 | 519 | Terry Jo Jones |
+| 197 | 519 | rnr junky |
 | 198 | 515 | Cozy Snaplink |
 | 199 | 508 | Makelini Mausia |
 | 200 | 503 | Tye Stovall |
@@ -240,8 +240,8 @@
 | 232 | 430 | Jeni Dow |
 | 233 | 418 | Rebecca Funderburk Kirby |
 | 234 | 414 | Fran Lin |
-| 235 | 410 | Duane Bright |
-| 236 | 410 | Stephanie Simpson |
+| 235 | 410 | Stephanie Simpson |
+| 236 | 410 | Duane Bright |
 | 237 | 408 | Tiffany Ford |
 | 238 | 406 | Kristal C Lee |
 | 239 | 404 | Chasity |
@@ -288,8 +288,8 @@
 | 280 | 353 | Dee Franklin |
 | 281 | 353 | Cyd061769 |
 | 282 | 352 | Christian Werndl |
-| 283 | 351 | Blocked |
-| 284 | 351 | Eon Harris |
+| 283 | 351 | Eon Harris |
+| 284 | 351 | Blocked |
 | 285 | 350 | LaShey Thompson |
 | 286 | 349 | Amanda J. Mcneil-Anderson |
 | 287 | 348 | Ashley Raines |

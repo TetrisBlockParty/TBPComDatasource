@@ -125,8 +125,8 @@
 | 117 | 452 | Hyper |
 | 118 | 451 | Plucky Ziggy |
 | 119 | 450 | lil mickey |
-| 120 | 448 | Sweet Baker |
-| 121 | 448 | Jazzy Framezone |
+| 120 | 448 | Jazzy Framezone |
+| 121 | 448 | Sweet Baker |
 | 122 | 446 | SkipTheSadSauce |
 | 123 | 443 | Steve Schneider |
 | 124 | 439 | Dee Perry |
@@ -209,8 +209,8 @@
 | 201 | 317 | Sarah Roberts |
 | 202 | 316 | Reesey Enyart |
 | 203 | 315 | Danielle Little-Daugherty |
-| 204 | 314 | Snippy Wipebuilder |
-| 205 | 314 | Tana |
+| 204 | 314 | Tana |
+| 205 | 314 | Snippy Wipebuilder |
 | 206 | 312 | Jessi Sauer |
 | 207 | 310 | Bloknboy |
 | 208 | 308 | Speedy Liney |
@@ -223,13 +223,13 @@
 | 215 | 298 | Billie Ann Eason |
 | 216 | 298 | Sweetts |
 | 217 | 295 | Lakeisha Chapman |
-| 218 | 294 | Chuck Gannon |
-| 219 | 294 | Bindi |
+| 218 | 294 | Bindi |
+| 219 | 294 | Chuck Gannon |
 | 220 | 293 | John Kim |
-| 221 | 291 | Giddy Cascade |
-| 222 | 291 | Brave Wrecker |
-| 223 | 290 | Hellsin |
-| 224 | 290 | Tavia |
+| 221 | 291 | Brave Wrecker |
+| 222 | 291 | Giddy Cascade |
+| 223 | 290 | Tavia |
+| 224 | 290 | Hellsin |
 | 225 | 287 | Sassy Builderline |
 | 226 | 285 | Bird Person |
 | 227 | 285 | Jessie Lynn |
@@ -251,8 +251,8 @@
 | 243 | 272 | Tawnya Peltonen |
 | 244 | 272 | Barrbaric |
 | 245 | 271 | Frothy Pattern |
-| 246 | 270 | Debbie Kane |
-| 247 | 270 | Brenda Alexander |
+| 246 | 270 | Brenda Alexander |
+| 247 | 270 | Debbie Kane |
 | 248 | 268 | Standia Civil |
 | 249 | 267 | Daring Fitclear |
 | 250 | 265 | Kandae |
@@ -270,10 +270,10 @@
 | 262 | 250 | Silly Align |
 | 263 | 247 | DaRascal |
 | 264 | 246 | Tyler Hertzog |
-| 265 | 245 | LaFontaine Leslie |
-| 266 | 245 | Matt Iaccheo |
-| 267 | 244 | Eddie Dillon |
-| 268 | 244 | Tami Luce Martin |
+| 265 | 245 | Matt Iaccheo |
+| 266 | 245 | LaFontaine Leslie |
+| 267 | 244 | Tami Luce Martin |
+| 268 | 244 | Eddie Dillon |
 | 269 | 244 | Sarah Marie |
 | 270 | 243 | Tyler L Hunt |
 | 271 | 243 | Bouncy Grid |
