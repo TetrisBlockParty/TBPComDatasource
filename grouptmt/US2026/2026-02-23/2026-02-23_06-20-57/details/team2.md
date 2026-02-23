@@ -93,8 +93,8 @@
 | 85 | 2515 | Crystalin Heath Lewis |
 | 86 | 2500 | Rosemadder |
 | 87 | 2438 | Rob Surace |
-| 88 | 2428 | Thomas Hughes |
-| 89 | 2428 | Deanna Morton |
+| 88 | 2428 | Deanna Morton |
+| 89 | 2428 | Thomas Hughes |
 | 90 | 2410 | RdRydnHd |
 | 91 | 2400 | Rich Sullivan |
 | 92 | 2375 | Gabby Jenner |
@@ -151,8 +151,8 @@
 | 143 | 1639 | Jessie McDougald |
 | 144 | 1638 | Speedy Spinblock |
 | 145 | 1629 | Mari Ac |
-| 146 | 1623 | Janel Turley-Garner |
-| 147 | 1623 | Rebecca Doughman |
+| 146 | 1623 | Rebecca Doughman |
+| 147 | 1623 | Janel Turley-Garner |
 | 148 | 1605 | Christi Hulet |
 | 149 | 1602 | blackq |
 | 150 | 1601 | Ray Ray Prado |
@@ -300,8 +300,8 @@
 | 292 | 987 | Osun Anuket Esu |
 | 293 | 984 | Crystal Hoffman |
 | 294 | 981 | Ashlen Dorrell |
-| 295 | 979 | Hillary Crawford |
-| 296 | 979 | Melissa Penelope Ann Dodge |
+| 295 | 979 | Melissa Penelope Ann Dodge |
+| 296 | 979 | Hillary Crawford |
 | 297 | 978 | April Dawn Gussler |
 | 298 | 976 | Sam Joe |
 | 299 | 976 | Della Hole |
@@ -373,8 +373,8 @@
 | 365 | 829 | Jessica Wayne Cornwall |
 | 366 | 828 | Kimmy Newman |
 | 367 | 825 | Jeremy Parodi |
-| 368 | 824 | Khalil Lowe |
-| 369 | 824 | Danielle Johnson-Chandler |
+| 368 | 824 | Danielle Johnson-Chandler |
+| 369 | 824 | Khalil Lowe |
 | 370 | 822 | Lola Contreras |
 | 371 | 821 | Angie Bolton Workman |
 | 372 | 821 | Arkei Luster |
@@ -389,8 +389,8 @@
 | 381 | 804 | Becca Coronado |
 | 382 | 801 | Diana Fitzwater |
 | 383 | 801 | Gold Rose |
-| 384 | 799 | Kenny Alvarado |
-| 385 | 799 | Joy LaJeunesse |
+| 384 | 799 | Joy LaJeunesse |
+| 385 | 799 | Kenny Alvarado |
 | 386 | 796 | AndrewandShela Gornik |
 | 387 | 796 | Amber Gray |
 | 388 | 793 | Heather Schelkopf |
@@ -1008,8 +1008,8 @@
 | 1000 | 363 | Tammy Mitchell |
 | 1001 | 362 | Dione |
 | 1002 | 362 | Megan Phillips |
-| 1003 | 361 | Mike73 |
-| 1004 | 361 | Tosa Puvapiromquan |
+| 1003 | 361 | Tosa Puvapiromquan |
+| 1004 | 361 | Mike73 |
 | 1005 | 359 | Toni Lynn |
 | 1006 | 359 | Mary Boss |
 | 1007 | 358 | Kiorah Blaze |
@@ -1037,8 +1037,8 @@
 | 1029 | 352 | Kimmie Zimmerman-Rocha |
 | 1030 | 352 | MrsClaudette Will'sIam Matthews |
 | 1031 | 351 | LeVeL27 |
-| 1032 | 351 | Sara Pennington |
-| 1033 | 351 | Heather Renee Jeffers |
+| 1032 | 351 | Heather Renee Jeffers |
+| 1033 | 351 | Sara Pennington |
 | 1034 | 351 | Queen |
 | 1035 | 350 | Chris Harr |
 | 1036 | 350 | Macy Jarrett |

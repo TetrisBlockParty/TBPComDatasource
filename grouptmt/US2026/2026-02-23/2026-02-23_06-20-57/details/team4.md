@@ -54,8 +54,8 @@
 | 46 | 938 | Denny Shives |
 | 47 | 936 | Rebecca Moulton Pinciaro |
 | 48 | 932 | Marvin Lou Martin |
-| 49 | 911 | Anthony Bryan Riva |
-| 50 | 911 | Jeremy Steines |
+| 49 | 911 | Jeremy Steines |
+| 50 | 911 | Anthony Bryan Riva |
 | 51 | 870 | BertMofo |
 | 52 | 863 | Pee |
 | 53 | 853 | TeeJ |
@@ -69,8 +69,8 @@
 | 61 | 803 | Amelpss |
 | 62 | 788 | Julian Garcia |
 | 63 | 787 | Edward White |
-| 64 | 781 | Ashley Ingram |
-| 65 | 781 | Chilly Line |
+| 64 | 781 | Chilly Line |
+| 65 | 781 | Ashley Ingram |
 | 66 | 767 | Shannon Ferrari |
 | 67 | 766 | Robin Watters |
 | 68 | 765 | Denise Carlson |
@@ -79,8 +79,8 @@
 | 71 | 749 | Dustee Craddock-Harrison |
 | 72 | 742 | Carolyn Wallace |
 | 73 | 740 | Avy Absol |
-| 74 | 736 | Crystal Carroll |
-| 75 | 736 | Goatimus Lombardi |
+| 74 | 736 | Goatimus Lombardi |
+| 75 | 736 | Crystal Carroll |
 | 76 | 728 | D3TROITB0RN74 |
 | 77 | 723 | TheNeesh50 |
 | 78 | 706 | Lisa Davis |
@@ -88,8 +88,8 @@
 | 80 | 697 | Alyssa Papen |
 | 81 | 696 | Shane Kalamata Platoon |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Jonathan Kimbrough |
-| 84 | 684 | Kimyatta Cavin |
+| 83 | 684 | Kimyatta Cavin |
+| 84 | 684 | Jonathan Kimbrough |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -138,8 +138,8 @@
 | 130 | 458 | Twisty Clicky |
 | 131 | 451 | Peachy Fall |
 | 132 | 448 | Kristin Manee |
-| 133 | 435 | Leslie Thomas |
-| 134 | 435 | Kristina Black |
+| 133 | 435 | Kristina Black |
+| 134 | 435 | Leslie Thomas |
 | 135 | 434 | Monica Daley |
 | 136 | 432 | Zippy Block |
 | 137 | 431 | Courtney Cicoria |
@@ -151,16 +151,16 @@
 | 143 | 418 | Lush Linkfall |
 | 144 | 418 | Marie-Pier Desjardins |
 | 145 | 416 | Chaz Duncan |
-| 146 | 414 | Swanky Fitline |
-| 147 | 414 | Nope Young |
+| 146 | 414 | Nope Young |
+| 147 | 414 | Swanky Fitline |
 | 148 | 412 | Jessica Bohlken |
 | 149 | 408 | Amanda Pauldo-Ivy |
 | 150 | 406 | Damn Libra |
 | 151 | 402 | Ericca Eldridge |
 | 152 | 398 | Tyler Terrific |
 | 153 | 397 | Livvy |
-| 154 | 393 | Carlton Unfiltered |
-| 155 | 393 | Girl |
+| 154 | 393 | Girl |
+| 155 | 393 | Carlton Unfiltered |
 | 156 | 391 | Ramel Rhodes |
 | 157 | 389 | Joseph Guthrie |
 | 158 | 387 | Lucas J Sutton |
@@ -194,8 +194,8 @@
 | 186 | 333 | shark tato |
 | 187 | 332 | HastyGrabber |
 | 188 | 330 | Kathy Brookins |
-| 189 | 329 | Antony Dwayne Beasley |
-| 190 | 329 | Sam Bishop |
+| 189 | 329 | Sam Bishop |
+| 190 | 329 | Antony Dwayne Beasley |
 | 191 | 328 | scott |
 | 192 | 327 | J-Rizzle |
 | 193 | 324 | jim |
@@ -213,11 +213,11 @@
 | 205 | 304 | Lindsay Ball |
 | 206 | 303 | Dihcheese444 |
 | 207 | 301 | Andria Lynn |
-| 208 | 300 | Zakia Monae |
-| 209 | 300 | Dana Scott |
+| 208 | 300 | Dana Scott |
+| 209 | 300 | Zakia Monae |
 | 210 | 295 | Keshia Lyons |
-| 211 | 294 | Porkobello |
-| 212 | 294 | Calvin Cannon |
+| 211 | 294 | Calvin Cannon |
+| 212 | 294 | Porkobello |
 | 213 | 292 | Epic Curvetile |
 | 214 | 290 | Jared Gutwein |
 | 215 | 290 | Rebecca Morris |
@@ -225,7 +225,7 @@
 | 217 | 288 | Adam Stephanie Parker |
 | 218 | 288 | Zesty Twistbuilder |
 | 219 | 288 | Leah Kutz Zirbel |
-| 220 | 288 | Zesty Twistbuilder |
+| 220 | 288 | Brittney Orengo |
 | 221 | 285 | 030Synner |
 | 222 | 284 | Mimi |
 | 223 | 282 | Matt Gooder |
@@ -330,8 +330,8 @@
 | 322 | 209 | Snippy Puzzle |
 | 323 | 208 | Shukee Lo |
 | 324 | 208 | Heather Bruce |
-| 325 | 206 | Maureen Flanigan |
-| 326 | 206 | June Hoffman |
+| 325 | 206 | June Hoffman |
+| 326 | 206 | Maureen Flanigan |
 | 327 | 205 | KayM |
 | 328 | 204 | Russ Attitude |
 | 329 | 203 | Courtney Halleck |

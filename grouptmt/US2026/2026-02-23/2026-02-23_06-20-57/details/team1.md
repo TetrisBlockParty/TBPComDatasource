@@ -35,8 +35,8 @@
 | 27 | 1212 | Christina Graham |
 | 28 | 1191 | Nerdy Linkblock |
 | 29 | 1171 | Tyler Alcock |
-| 30 | 1126 | Felicia Lewis |
-| 31 | 1126 | Tater |
+| 30 | 1126 | Tater |
+| 31 | 1126 | Felicia Lewis |
 | 32 | 1122 | Amanda Summey Schoemer |
 | 33 | 1119 | june october |
 | 34 | 1114 | Jayme Sellers |
@@ -106,8 +106,8 @@
 | 98 | 510 | Chirpy Smasher |
 | 99 | 509 | Rachael |
 | 100 | 497 | Arianna O'Brien |
-| 101 | 493 | Jennifer ManWarren |
-| 102 | 493 | MomMom |
+| 101 | 493 | MomMom |
+| 102 | 493 | Jennifer ManWarren |
 | 103 | 492 | Ash Galvan |
 | 104 | 491 | cc |
 | 105 | 489 | April Carroll |
@@ -138,11 +138,11 @@
 | 130 | 425 | Lori Sanders- Davis |
 | 131 | 411 | BadG52 |
 | 132 | 409 | Goose egg |
-| 133 | 406 | Desiree Deschaine Havee |
-| 134 | 406 | Candy Jones |
+| 133 | 406 | Candy Jones |
+| 134 | 406 | Desiree Deschaine Havee |
 | 135 | 402 | Chris K |
-| 136 | 399 | ALFD |
-| 137 | 399 | Nery Martinez |
+| 136 | 399 | Nery Martinez |
+| 137 | 399 | ALFD |
 | 138 | 394 | Lori Bales |
 | 139 | 392 | And |
 | 140 | 389 | David Miller |
@@ -213,8 +213,8 @@
 | 205 | 307 | Snappy Matcher |
 | 206 | 307 | femmefatale |
 | 207 | 306 | Angela Renea Lester |
-| 208 | 301 | Damon J. Martin |
-| 209 | 301 | Cody Gates |
+| 208 | 301 | Cody Gates |
+| 209 | 301 | Damon J. Martin |
 | 210 | 300 | Sleepysloath5745 |
 | 211 | 298 | Billie Ann Eason |
 | 212 | 294 | Bindi |
@@ -303,7 +303,7 @@
 | 295 | 224 | Danielle Mae |
 | 296 | 223 | Erez Yosef |
 | 297 | 223 | Christina Backer |
-| 298 | 222 | Zany Tiler |
+| 298 | 222 | Shaykmia |
 | 299 | 222 | Snappy Bridgepiece |
 | 300 | 222 | Jessie Welch |
 | 301 | 222 | Jennifer Olewnik Soborowski |
@@ -331,8 +331,8 @@
 | 323 | 215 | Christina Norman |
 | 324 | 214 | Kayla Marie Stevenson |
 | 325 | 213 | Itspaigebro |
-| 326 | 213 | John Barron |
-| 327 | 213 | Poppy Riserpiece |
+| 326 | 213 | Poppy Riserpiece |
+| 327 | 213 | John Barron |
 | 328 | 212 | Michelle Beres |
 | 329 | 210 | Timothy Danaher |
 | 330 | 209 | Pauline Cortez |
@@ -348,8 +348,8 @@
 | 340 | 204 | LD1 |
 | 341 | 204 | Beau Galvan |
 | 342 | 202 | Amber Dee |
-| 343 | 201 | Rico Rico |
-| 344 | 201 | Colleen Wise |
+| 343 | 201 | Colleen Wise |
+| 344 | 201 | Rico Rico |
 | 345 | 201 | Tedashi |
 | 346 | 200 | Cranky Pattern |
 | 347 | 199 | Tina Englert |
@@ -564,7 +564,7 @@
 | 556 | 127 | Laurie Sanderson |
 | 557 | 127 | Frisky Risebuilder |
 | 558 | 126 | Steven Schultheis |
-| 559 | 125 | Tiffany Daboss Seymour |
+| 559 | 125 | Nicole Bryant |
 | 560 | 125 | MomOf2Angels |
 | 561 | 125 | Tiffany Daboss Seymour |
 | 562 | 124 | Margie Olivas |

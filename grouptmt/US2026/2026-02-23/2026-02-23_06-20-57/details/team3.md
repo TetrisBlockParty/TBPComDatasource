@@ -192,8 +192,8 @@
 | 184 | 546 | Cynthia Castros-Hampton |
 | 185 | 546 | Mykal Burton |
 | 186 | 540 | Shawn Miller |
-| 187 | 531 | Chauntee Alfrey-Cardinale |
-| 188 | 531 | Sarah Cowan Burgos |
+| 187 | 531 | Sarah Cowan Burgos |
+| 188 | 531 | Chauntee Alfrey-Cardinale |
 | 189 | 528 | Silly Twist |
 | 190 | 525 | Stephanie Blkpep Davidson |
 | 191 | 524 | Bmo |
@@ -231,8 +231,8 @@
 | 223 | 448 | Scott Carleton |
 | 224 | 437 | Loopy Clusterer |
 | 225 | 432 | Luciana Braganca Vieira |
-| 226 | 431 | Ammmmmmy |
-| 227 | 431 | Wendy Dearden |
+| 226 | 431 | Wendy Dearden |
+| 227 | 431 | Ammmmmmy |
 | 228 | 430 | Jeni Dow |
 | 229 | 414 | Fran Lin |
 | 230 | 410 | Stephanie Simpson |
@@ -258,15 +258,15 @@
 | 250 | 377 | Charles Perrone |
 | 251 | 374 | Rania Zaqout |
 | 252 | 373 | Chummy Caster |
-| 253 | 372 | Sarah Moyer |
-| 254 | 372 | Rich LeBlanc |
+| 253 | 372 | Rich LeBlanc |
+| 254 | 372 | Sarah Moyer |
 | 255 | 371 | Marquita Sheard |
 | 256 | 371 | block chick |
 | 257 | 370 | Samantha Lynn |
 | 258 | 369 | Philip Rock |
 | 259 | 369 | Keis |
-| 260 | 368 | Stephanie Woods |
-| 261 | 368 | Sheila M Frazier |
+| 260 | 368 | Sheila M Frazier |
+| 261 | 368 | Stephanie Woods |
 | 262 | 367 | Kristin Delibac Corrigan |
 | 263 | 366 | Randy Clevenger |
 | 264 | 366 | Gumbo |
@@ -279,8 +279,8 @@
 | 271 | 354 | Roary Danner |
 | 272 | 354 | Andrew Thorson |
 | 273 | 354 | Kelly |
-| 274 | 353 | Dee Franklin |
-| 275 | 353 | Cyd061769 |
+| 274 | 353 | Cyd061769 |
+| 275 | 353 | Dee Franklin |
 | 276 | 352 | Christian Werndl |
 | 277 | 351 | Eon Harris |
 | 278 | 351 | Blocked |
@@ -375,14 +375,14 @@
 | 367 | 275 | Cassandra Bryant |
 | 368 | 274 | Mary Giorgenti |
 | 369 | 274 | Ava Petito |
-| 370 | 273 | France Vézina |
-| 371 | 273 | Brenda Schmid Wood |
+| 370 | 273 | Brenda Schmid Wood |
+| 371 | 273 | France Vézina |
 | 372 | 272 | Todd Hall |
 | 373 | 272 | Romeo |
 | 374 | 272 | Tay |
 | 375 | 269 | Juliana Dottore |
-| 376 | 269 | Jess Bissett |
-| 377 | 269 | Samantha Worley |
+| 376 | 269 | Samantha Worley |
+| 377 | 269 | Jess Bissett |
 | 378 | 268 | Jessica Lynn French |
 | 379 | 267 | April Matthew Kibble |
 | 380 | 267 | Jul |
@@ -739,16 +739,16 @@
 | 731 | 146 | Sara Dunn |
 | 732 | 146 | Vikkye Vizaniaris |
 | 733 | 146 | Geronimo |
-| 734 | 145 | Quirky Snapfit |
-| 735 | 145 | Rank Stranger |
+| 734 | 145 | Rank Stranger |
+| 735 | 145 | Quirky Snapfit |
 | 736 | 145 | Karen Picaboo |
 | 737 | 144 | Susan A Kinsey |
 | 738 | 144 | Janay Darkstallion Robinson |
 | 739 | 144 | Tiffany's TwinsRus Thrifty |
 | 740 | 144 | Clever Edgepiece |
 | 741 | 143 | Russell Hankinson |
-| 742 | 143 | Lisa Lisa |
-| 743 | 143 | Melissa Parlow-Callaway |
+| 742 | 143 | Melissa Parlow-Callaway |
+| 743 | 143 | Lisa Lisa |
 | 744 | 142 | Michelle Allers |
 | 745 | 142 | get et |
 | 746 | 142 | Giddy Basepiece |
