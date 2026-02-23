@@ -96,8 +96,8 @@
 | 88 | 742 | Susanna Guerry |
 | 89 | 740 | Lori Sanders- Davis |
 | 90 | 707 | Jason Jones |
-| 91 | 706 | Plucky Fallzone |
-| 92 | 706 | Denice Dee |
+| 91 | 706 | Denice Dee |
+| 92 | 706 | Plucky Fallzone |
 | 93 | 704 | Karin Gillen |
 | 94 | 703 | Angel Fowler |
 | 95 | 703 | Kellie |
@@ -120,8 +120,8 @@
 | 112 | 586 | Jessi Sauer |
 | 113 | 583 | Theo Pinnow |
 | 114 | 577 | Damon J. Martin |
-| 115 | 574 | femmefatale |
-| 116 | 574 | Tiger Lily |
+| 115 | 574 | Tiger Lily |
+| 116 | 574 | femmefatale |
 | 117 | 572 | Deanna L Hermanson |
 | 118 | 571 | Virginia Gray Floyd |
 | 119 | 570 | Cody Slav |
@@ -179,8 +179,8 @@
 | 171 | 434 | Yvonne Marie |
 | 172 | 432 | Lori Bales |
 | 173 | 426 | Maria C. Hernandez |
-| 174 | 425 | Tana |
-| 175 | 425 | Tyler Werts |
+| 174 | 425 | Tyler Werts |
+| 175 | 425 | Tana |
 | 176 | 424 | Emily Adelaide Wheatley |
 | 177 | 420 | Cheeky Crusher |
 | 178 | 417 | Debbie Kane |
@@ -264,8 +264,8 @@
 | 256 | 335 | Eric DeSimone |
 | 257 | 334 | Colleen Pinette |
 | 258 | 334 | Tipsy Builder |
-| 259 | 333 | Wayne Saunders |
-| 260 | 333 | Rodney Schmerfeld |
+| 259 | 333 | Rodney Schmerfeld |
+| 260 | 333 | Wayne Saunders |
 | 261 | 332 | Happy Basegrid |
 | 262 | 332 | Plucky Stacky |
 | 263 | 332 | Letson Melissa |
@@ -326,10 +326,10 @@
 | 318 | 286 | Sarahdactyl |
 | 319 | 286 | Marci Sanders |
 | 320 | 285 | Shanae Grant |
-| 321 | 284 | Michael |
-| 322 | 284 | Mark Smith |
-| 323 | 283 | Sunny Shift |
-| 324 | 283 | Franswa |
+| 321 | 284 | Mark Smith |
+| 322 | 284 | Michael |
+| 323 | 283 | Franswa |
+| 324 | 283 | Sunny Shift |
 | 325 | 282 | Timothy Dew |
 | 326 | 281 | Richard Corrado |
 | 327 | 280 | Billie Dawn Sparks |

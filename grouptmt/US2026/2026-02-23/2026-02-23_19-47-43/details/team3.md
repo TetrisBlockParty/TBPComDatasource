@@ -221,8 +221,8 @@
 | 213 | 568 | Rachael McClain Owens |
 | 214 | 568 | Juliana Dottore |
 | 215 | 566 | LaTanya GeminiondaRise Johnson |
-| 216 | 564 | Christine Trester |
-| 217 | 564 | Poppy Splitter |
+| 216 | 564 | Poppy Splitter |
+| 217 | 564 | Christine Trester |
 | 218 | 563 | FuzzyNavel |
 | 219 | 562 | Dave Herzog |
 | 220 | 561 | Silly Twist |
@@ -344,8 +344,8 @@
 | 336 | 374 | Dana Fox |
 | 337 | 372 | Rich LeBlanc |
 | 338 | 371 | block chick |
-| 339 | 370 | Roary Danner |
-| 340 | 370 | Tasha Wesson-Torrence |
+| 339 | 370 | Tasha Wesson-Torrence |
+| 340 | 370 | Roary Danner |
 | 341 | 370 | Kirhonda Autmon |
 | 342 | 369 | Amber Glover |
 | 343 | 368 | Sheila M Frazier |

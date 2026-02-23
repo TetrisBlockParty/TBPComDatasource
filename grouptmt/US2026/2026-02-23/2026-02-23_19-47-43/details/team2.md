@@ -534,8 +534,8 @@
 | 526 | 755 | Taryece Gause |
 | 527 | 751 | Breezy Filler |
 | 528 | 751 | Briana Alexander |
-| 529 | 750 | Darla Silva |
-| 530 | 750 | Draizen Montrell Thomas |
+| 529 | 750 | Draizen Montrell Thomas |
+| 530 | 750 | Darla Silva |
 | 531 | 750 | Michael Buckner |
 | 532 | 749 | Trisha J Schmidt |
 | 533 | 748 | Melissa Schulz |
