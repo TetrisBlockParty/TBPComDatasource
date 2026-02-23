@@ -167,8 +167,8 @@
 | 159 | 521 | Andy Cabral |
 | 160 | 520 | Zippy Block |
 | 161 | 519 | Lucas J Sutton |
-| 162 | 516 | Trish |
-| 163 | 516 | Twisty Clicky |
+| 162 | 516 | Twisty Clicky |
+| 163 | 516 | Trish |
 | 164 | 514 | Scott Jameson |
 | 165 | 513 | Erin Thomas |
 | 166 | 512 | Angela Srubar-Norman |
@@ -178,8 +178,8 @@
 | 170 | 507 | Nick Gray |
 | 171 | 504 | Deanna Deckard |
 | 172 | 501 | Ericca Eldridge |
-| 173 | 499 | Andria Lynn |
-| 174 | 499 | Berklie Apedaile |
+| 173 | 499 | Berklie Apedaile |
+| 174 | 499 | Andria Lynn |
 | 175 | 497 | Brandon Crabbs |
 | 176 | 496 | Cindy Looper |
 | 177 | 495 | Carrie Brian |
@@ -216,8 +216,8 @@
 | 208 | 439 | Jen Mattei |
 | 209 | 438 | Melvin Baird |
 | 210 | 434 | Ramel Rhodes |
-| 211 | 433 | Damn Libra |
-| 212 | 433 | Circuit8 |
+| 211 | 433 | Circuit8 |
+| 212 | 433 | Damn Libra |
 | 213 | 431 | Zesty Twistbuilder |
 | 214 | 427 | Steph Marie |
 | 215 | 427 | Chao Ma |
@@ -302,11 +302,11 @@
 | 294 | 321 | Dihcheese444 |
 | 295 | 321 | Blessedmama |
 | 296 | 318 | Duck |
-| 297 | 317 | O block |
-| 298 | 317 | Madison Sweere |
+| 297 | 317 | Madison Sweere |
+| 298 | 317 | O block |
 | 299 | 316 | Stella |
-| 300 | 315 | Vic |
-| 301 | 315 | Heather Bruce |
+| 300 | 315 | Heather Bruce |
+| 301 | 315 | Vic |
 | 302 | 314 | Lora |
 | 303 | 313 | Angie Schmidt |
 | 304 | 313 | DonMega |
@@ -339,8 +339,8 @@
 | 331 | 289 | Juls |
 | 332 | 289 | Lazy Glidepiece |
 | 333 | 289 | Deb Rubeck |
-| 334 | 288 | Jumpy Zonepiece |
-| 335 | 288 | Amy Jean |
+| 334 | 288 | Amy Jean |
+| 335 | 288 | Jumpy Zonepiece |
 | 336 | 286 | Bradley Reeves |
 | 337 | 284 | Chair |
 | 338 | 284 | Johnny R |
@@ -359,13 +359,13 @@
 | 351 | 281 | Morti |
 | 352 | 280 | Brittany Little |
 | 353 | 279 | Jim Hart |
-| 354 | 278 | Zethra Prenisha Rahming |
-| 355 | 278 | Sarah Brown |
+| 354 | 278 | Sarah Brown |
+| 355 | 278 | Zethra Prenisha Rahming |
 | 356 | 278 | Angela Geist Jusinski |
-| 357 | 276 | Silly SeaWeed |
+| 357 | 276 | Cynthia Boudreau |
 | 358 | 276 | Dennis Bradley |
 | 359 | 276 | Lee Silpe |
-| 360 | 276 | Cynthia Boudreau |
+| 360 | 276 | Silly SeaWeed |
 | 361 | 275 | Allison Rose |
 | 362 | 275 | Jarred Falls |
 | 363 | 275 | meowmew |

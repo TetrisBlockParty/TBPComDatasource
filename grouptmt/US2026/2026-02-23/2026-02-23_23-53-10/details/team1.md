@@ -339,8 +339,8 @@
 | 331 | 292 | Clever Cascadepiece |
 | 332 | 292 | Fresno Beotoni |
 | 333 | 291 | Michael Espinosa Ulibarri Jr. |
-| 334 | 291 | Toph |
-| 335 | 291 | Sir-Franchise Drake |
+| 334 | 291 | Sir-Franchise Drake |
+| 335 | 291 | Toph |
 | 336 | 290 | Tavia |
 | 337 | 289 | Nate Price |
 | 338 | 289 | Speedy Snapfall |

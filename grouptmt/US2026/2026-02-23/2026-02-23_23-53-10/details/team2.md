@@ -518,8 +518,8 @@
 | 510 | 819 | Sabrena Yeisley |
 | 511 | 816 | James Simms III |
 | 512 | 816 | Beth |
-| 513 | 813 | Ganieda |
-| 514 | 813 | Angelina Marie |
+| 513 | 813 | Angelina Marie |
+| 514 | 813 | Ganieda |
 | 515 | 812 | Samantha Jo |
 | 516 | 811 | Dreamy Blast |
 | 517 | 811 | Brenda Pierpoint |

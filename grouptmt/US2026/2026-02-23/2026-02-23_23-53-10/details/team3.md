@@ -323,8 +323,8 @@
 | 315 | 434 | Daring Builder |
 | 316 | 433 | Skippy |
 | 317 | 432 | Luciana Braganca Vieira |
-| 318 | 431 | Tia |
-| 319 | 431 | Wendy Dearden |
+| 318 | 431 | Wendy Dearden |
+| 319 | 431 | Tia |
 | 320 | 430 | Quackers |
 | 321 | 429 | Carrie Huskey |
 | 322 | 428 | Samantha Lynn |
@@ -419,7 +419,7 @@
 | 411 | 342 | Nelma |
 | 412 | 341 | Lys |
 | 413 | 341 | Eboni Starr |
-| 414 | 340 | Erika Thornton |
+| 414 | 340 | Becca Engle |
 | 415 | 340 | Kerry Nowickshere |
 | 416 | 340 | Erika Thornton |
 | 417 | 339 | Maggie |
