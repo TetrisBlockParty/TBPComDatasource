@@ -130,14 +130,14 @@
 | 122 | 471 | Chastity Mitchell |
 | 123 | 458 | Twisty Clicky |
 | 124 | 452 | Jolly Dashfit |
-| 125 | 451 | Angela Srubar-Norman |
-| 126 | 451 | Peachy Fall |
+| 125 | 451 | Peachy Fall |
+| 126 | 451 | Angela Srubar-Norman |
 | 127 | 448 | Kristin Manee |
-| 128 | 435 | Kristina Black |
-| 129 | 435 | Leslie Thomas |
+| 128 | 435 | Leslie Thomas |
+| 129 | 435 | Kristina Black |
 | 130 | 431 | Courtney Cicoria |
-| 131 | 421 | JIGsaw ~(•¿°)~ |
-| 132 | 421 | Monica Daley |
+| 131 | 421 | Monica Daley |
+| 132 | 421 | JIGsaw ~(•¿°)~ |
 | 133 | 421 | Kesha Brady |
 | 134 | 418 | Lush Linkfall |
 | 135 | 418 | Marie-Pier Desjardins |
@@ -156,8 +156,8 @@
 | 148 | 391 | Ramel Rhodes |
 | 149 | 391 | Livvy |
 | 150 | 389 | Joseph Guthrie |
-| 151 | 387 | Lucas J Sutton |
-| 152 | 387 | 🥔🥔 Spudz |
+| 151 | 387 | 🥔🥔 Spudz |
+| 152 | 387 | Lucas J Sutton |
 | 153 | 377 | Carrie Brian |
 | 154 | 375 | Desi Desporte |
 | 155 | 375 | ThaEviLJeNiuZ |
@@ -174,8 +174,8 @@
 | 166 | 358 | A5! |
 | 167 | 356 | George Nutt |
 | 168 | 352 | Sue Joyce Staats |
-| 169 | 349 | Rafael Valentin |
-| 170 | 349 | Twisty Cascadezone |
+| 169 | 349 | Twisty Cascadezone |
+| 170 | 349 | Rafael Valentin |
 | 171 | 348 | TRCuse |
 | 172 | 347 | Daria Rycewicz |
 | 173 | 344 | April Rondinone |
@@ -223,8 +223,8 @@
 | 215 | 281 | Kim Klutz Olson |
 | 216 | 281 | Nikki Rae Gordon |
 | 217 | 277 | Zesty Twistbuilder |
-| 218 | 276 | Joeliecea Cobb |
-| 219 | 276 | Matt Dell'Olio |
+| 218 | 276 | Matt Dell'Olio |
+| 219 | 276 | Joeliecea Cobb |
 | 220 | 273 | Casey Grabner |
 | 221 | 272 | Alan George LaRage |
 | 222 | 272 | Dennis Bradley |
@@ -267,9 +267,9 @@
 | 259 | 237 | Christine Therrien |
 | 260 | 237 | 030Synner |
 | 261 | 236 | Degenerate |
-| 262 | 235 | LaDonna LovinmesomeMe Lambert |
-| 263 | 235 | Jade Rian |
-| 264 | 235 | Shainne Brewer |
+| 262 | 235 | Jade Rian |
+| 263 | 235 | Shainne Brewer |
+| 264 | 235 | LaDonna LovinmesomeMe Lambert |
 | 265 | 234 | Richard-April Kice |
 | 266 | 233 | Ruben Wheeler |
 | 267 | 232 | Rio Rocha |
@@ -325,8 +325,8 @@
 | 317 | 200 | Googenheim |
 | 318 | 198 | Calvin Dennis |
 | 319 | 196 | Megan Cutshaw |
-| 320 | 194 | SammieJo Guy |
-| 321 | 194 | Denise B |
+| 320 | 194 | Denise B |
+| 321 | 194 | SammieJo Guy |
 | 322 | 194 | Zany Twisterfit |
 | 323 | 192 | Twisty Risebuilder |
 | 324 | 191 | Earnest Thompson |

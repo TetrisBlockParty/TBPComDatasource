@@ -323,8 +323,8 @@
 | 315 | 287 | Carol Cain Thurman |
 | 316 | 287 | Sabrina Hardrick |
 | 317 | 287 | Hoppy Patternline |
-| 318 | 286 | Micayah Stevens |
-| 319 | 286 | Salena Whitlock |
+| 318 | 286 | Salena Whitlock |
+| 319 | 286 | Micayah Stevens |
 | 320 | 286 | Lizabeth Fox |
 | 321 | 284 | Hanna Kim |
 | 322 | 281 | Kaycee Kay |
