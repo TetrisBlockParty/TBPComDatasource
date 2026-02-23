@@ -121,8 +121,8 @@
 | 113 | 839 | Angeline Joseph |
 | 114 | 830 | Stephanie Allmon |
 | 115 | 826 | Shane Wilson Jr. |
-| 116 | 816 | Jesse Olive |
-| 117 | 816 | Brenda Lee Vander Molen |
+| 116 | 816 | Brenda Lee Vander Molen |
+| 117 | 816 | Jesse Olive |
 | 118 | 802 | Bobbi Moore |
 | 119 | 800 | Lauren Girouard |
 | 120 | 799 | Dolores Falco |
@@ -177,8 +177,8 @@
 | 169 | 591 | Michael Nowogorski |
 | 170 | 588 | Justin Ritter |
 | 171 | 587 | Louise Stacy Sisson |
-| 172 | 585 | Happy Tetriblast |
-| 173 | 585 | Annie Marie |
+| 172 | 585 | Annie Marie |
+| 173 | 585 | Happy Tetriblast |
 | 174 | 583 | Tasha Gillespie |
 | 175 | 582 | Natasha Jones |
 | 176 | 577 | Domo Washington |
@@ -265,13 +265,13 @@
 | 257 | 381 | Snazzy Filler |
 | 258 | 380 | Rebecca Bailey |
 | 259 | 379 | JessDrown |
-| 260 | 378 | MsBee |
-| 261 | 378 | Chris Bell |
+| 260 | 378 | Chris Bell |
+| 261 | 378 | MsBee |
 | 262 | 377 | Charles Perrone |
 | 263 | 375 | Stephanie Burtin |
 | 264 | 374 | Rania Zaqout |
-| 265 | 372 | Rich LeBlanc |
-| 266 | 372 | Sarah Moyer |
+| 265 | 372 | Sarah Moyer |
+| 266 | 372 | Rich LeBlanc |
 | 267 | 371 | Marquita Sheard |
 | 268 | 371 | block chick |
 | 269 | 370 | Samantha Lynn |
@@ -410,11 +410,11 @@
 | 402 | 263 | Jimmie Clemons |
 | 403 | 263 | Erika Thornton |
 | 404 | 261 | Swanky Snapclear |
-| 405 | 260 | Alice |
-| 406 | 260 | Tracey Cox |
+| 405 | 260 | Tracey Cox |
+| 406 | 260 | Alice |
 | 407 | 259 | Shania Vaine |
-| 408 | 259 | Dana Winters |
-| 409 | 259 | Tegan Chapman |
+| 408 | 259 | Tegan Chapman |
+| 409 | 259 | Dana Winters |
 | 410 | 258 | IamJust Neyamijah Washington Sr. |
 | 411 | 257 | Chris Wallace |
 | 412 | 257 | Rachel Grant |
@@ -434,8 +434,8 @@
 | 426 | 250 | Dana Fox |
 | 427 | 249 | Willow |
 | 428 | 248 | Brian Battjes |
-| 429 | 247 | Jessica |
-| 430 | 247 | Kevin Russell |
+| 429 | 247 | Kevin Russell |
+| 430 | 247 | Jessica |
 | 431 | 245 | Latoya Mayne |
 | 432 | 245 | LaNette Morgan |
 | 433 | 244 | Beezwax |
@@ -594,8 +594,8 @@
 | 586 | 185 | Ashley Kennedy |
 | 587 | 185 | Breezy Roll |
 | 588 | 184 | Shanon R Jackson |
-| 589 | 184 | Christian Luna |
-| 590 | 184 | Barb Wensink Johnson |
+| 589 | 184 | Barb Wensink Johnson |
+| 590 | 184 | Christian Luna |
 | 591 | 183 | AC Yeater |
 | 592 | 183 | Mel Murr |
 | 593 | 183 | Jana Fagg |

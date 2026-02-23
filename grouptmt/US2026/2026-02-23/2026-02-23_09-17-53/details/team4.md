@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Jonathan Kimbrough |
-| 84 | 684 | Kimyatta Cavin |
+| 83 | 684 | Kimyatta Cavin |
+| 84 | 684 | Jonathan Kimbrough |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -156,8 +156,8 @@
 | 148 | 418 | Marie-Pier Desjardins |
 | 149 | 418 | Lush Linkfall |
 | 150 | 416 | Chaz Duncan |
-| 151 | 414 | Swanky Fitline |
-| 152 | 414 | Nope Young |
+| 151 | 414 | Nope Young |
+| 152 | 414 | Swanky Fitline |
 | 153 | 413 | Circuit8 |
 | 154 | 412 | Jessica Bohlken |
 | 155 | 408 | Amanda Pauldo-Ivy |
@@ -166,8 +166,8 @@
 | 158 | 403 | Keith Kelley |
 | 159 | 402 | Lucas J Sutton |
 | 160 | 398 | Tyler Terrific |
-| 161 | 393 | Carlton Unfiltered |
-| 162 | 393 | Girl |
+| 161 | 393 | Girl |
+| 162 | 393 | Carlton Unfiltered |
 | 163 | 392 | Nick Gray |
 | 164 | 391 | Ramel Rhodes |
 | 165 | 389 | Joseph Guthrie |
@@ -175,8 +175,8 @@
 | 167 | 377 | Guy Incognito |
 | 168 | 375 | Desi Desporte |
 | 169 | 374 | Mylo Lipscomb |
-| 170 | 372 | Antony Dwayne Beasley |
-| 171 | 372 | George Nutt |
+| 170 | 372 | George Nutt |
+| 171 | 372 | Antony Dwayne Beasley |
 | 172 | 370 | Oscar Alberto Perez |
 | 173 | 369 | Lindsey Gonzalez |
 | 174 | 368 | Brandon Crabbs |
@@ -248,13 +248,13 @@
 | 240 | 279 | Malakai Darien Fox |
 | 241 | 278 | Angela Geist Jusinski |
 | 242 | 278 | Sarah Brown |
-| 243 | 276 | Matt Dell'Olio |
+| 243 | 276 | Cynthia Boudreau |
 | 244 | 276 | Joeliecea Cobb |
-| 245 | 276 | Cynthia Boudreau |
+| 245 | 276 | Matt Dell'Olio |
 | 246 | 275 | Kimberlee Jan Beckstead |
 | 247 | 273 | Cranky Rollpiece |
-| 248 | 272 | Alan George LaRage |
-| 249 | 272 | Dennis Bradley |
+| 248 | 272 | Dennis Bradley |
+| 249 | 272 | Alan George LaRage |
 | 250 | 271 | Holly |
 | 251 | 270 | Jen Caldwell |
 | 252 | 266 | Nubian1 |
@@ -282,8 +282,8 @@
 | 274 | 253 | Autum Leigh |
 | 275 | 251 | Carol Ricks Raymond |
 | 276 | 249 | Ak Jones |
-| 277 | 248 | Angelito |
-| 278 | 248 | Chirpy Basepiece |
+| 277 | 248 | Chirpy Basepiece |
+| 278 | 248 | Angelito |
 | 279 | 248 | Jose Dejesus |
 | 280 | 245 | 23 |
 | 281 | 244 | Christina Black |

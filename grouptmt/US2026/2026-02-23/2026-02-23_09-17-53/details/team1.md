@@ -83,15 +83,15 @@
 | 75 | 703 | Angel Fowler |
 | 76 | 689 | Susanna Guerry |
 | 77 | 679 | Hasbro Bros |
-| 78 | 657 | Cynthia Bradley |
-| 79 | 657 | Tee Sheree |
+| 78 | 657 | Tee Sheree |
+| 79 | 657 | Cynthia Bradley |
 | 80 | 655 | Brenda Stewart |
 | 81 | 648 | Evie Khalil |
 | 82 | 647 | Jason Jones |
 | 83 | 645 | Robert Benito |
 | 84 | 600 | Greg Hart |
-| 85 | 598 | Kellie |
-| 86 | 598 | Erin Hodges Plumb |
+| 85 | 598 | Erin Hodges Plumb |
+| 86 | 598 | Kellie |
 | 87 | 584 | Jen Sartain |
 | 88 | 583 | Theo Pinnow |
 | 89 | 582 | Plucky Fallzone |
@@ -108,8 +108,8 @@
 | 100 | 509 | Rachael |
 | 101 | 502 | Anaid Sanchez |
 | 102 | 497 | Arianna O'Brien |
-| 103 | 493 | MomMom |
-| 104 | 493 | Jennifer ManWarren |
+| 103 | 493 | Jennifer ManWarren |
+| 104 | 493 | MomMom |
 | 105 | 492 | Ash Galvan |
 | 106 | 491 | cc |
 | 107 | 489 | April Carroll |
@@ -138,8 +138,8 @@
 | 130 | 429 | Kristi Johnson |
 | 131 | 428 | Ly Phethmany |
 | 132 | 426 | Maria C. Hernandez |
-| 133 | 425 | Dandy Basegrid |
-| 134 | 425 | Tyler Werts |
+| 133 | 425 | Tyler Werts |
+| 134 | 425 | Dandy Basegrid |
 | 135 | 423 | ALFD |
 | 136 | 421 | And |
 | 137 | 417 | Phu ckalldems |
@@ -152,10 +152,10 @@
 | 144 | 394 | Lori Bales |
 | 145 | 389 | David Miller |
 | 146 | 388 | Fmp |
-| 147 | 387 | Emily Adelaide Wheatley |
-| 148 | 387 | Carrie Smith |
-| 149 | 387 | Ananda Mendez |
-| 150 | 387 | Monica Donato |
+| 147 | 387 | Carrie Smith |
+| 148 | 387 | Ananda Mendez |
+| 149 | 387 | Monica Donato |
+| 150 | 387 | Emily Adelaide Wheatley |
 | 151 | 383 | Margo Wagner |
 | 152 | 383 | pjbeta |
 | 153 | 380 | phrmblk24 |
@@ -222,8 +222,8 @@
 | 214 | 301 | Damon J. Martin |
 | 215 | 301 | Cody Gates |
 | 216 | 300 | Sleepysloath5745 |
-| 217 | 298 | Sweetts |
-| 218 | 298 | Billie Ann Eason |
+| 217 | 298 | Billie Ann Eason |
+| 218 | 298 | Sweetts |
 | 219 | 295 | Lakeisha Chapman |
 | 220 | 294 | Bindi |
 | 221 | 294 | Chuck Gannon |
@@ -233,8 +233,8 @@
 | 225 | 290 | Tavia |
 | 226 | 290 | Hellsin |
 | 227 | 287 | Sassy Builderline |
-| 228 | 285 | Shanae Grant |
-| 229 | 285 | Bird Person |
+| 228 | 285 | Bird Person |
+| 229 | 285 | Shanae Grant |
 | 230 | 284 | Sam Williams |
 | 231 | 283 | Amanda Holibaugh |
 | 232 | 283 | Franswa |
@@ -246,15 +246,15 @@
 | 238 | 280 | Eric DeSimone |
 | 239 | 277 | Glitzy Curvebuilder |
 | 240 | 277 | Melissa Lemmon |
-| 241 | 277 | Glitzy Curvebuilder |
-| 242 | 275 | Cheeky Pop |
-| 243 | 275 | Chris65 |
+| 241 | 277 | Nutty Spinblock |
+| 242 | 275 | Chris65 |
+| 243 | 275 | Cheeky Pop |
 | 244 | 273 | Shannon Marie Pitts |
 | 245 | 272 | Barrbaric |
 | 246 | 272 | Tawnya Peltonen |
 | 247 | 271 | Frothy Pattern |
-| 248 | 270 | Debbie Kane |
-| 249 | 270 | Brenda Alexander |
+| 248 | 270 | Brenda Alexander |
+| 249 | 270 | Debbie Kane |
 | 250 | 268 | Standia Civil |
 | 251 | 267 | Daring Fitclear |
 | 252 | 266 | Alenoush Karimian |
