@@ -128,8 +128,8 @@
 | 120 | 514 | Scott Jameson |
 | 121 | 514 | Serena Goodridge |
 | 122 | 513 | Erin Thomas |
-| 123 | 512 | Casey Jeffcoat |
-| 124 | 512 | Cristy Duerksen |
+| 123 | 512 | Cristy Duerksen |
+| 124 | 512 | Casey Jeffcoat |
 | 125 | 509 | Leslie Nicole |
 | 126 | 483 | Angela Srubar-Norman |
 | 127 | 481 | Jessica Lynn Cutlip |
@@ -236,7 +236,7 @@
 | 228 | 290 | Plucky Patternblock |
 | 229 | 290 | Jared Gutwein |
 | 230 | 289 | Juls |
-| 231 | 288 | Zesty Twistbuilder |
+| 231 | 288 | Leah Kutz Zirbel |
 | 232 | 288 | Brittney Orengo |
 | 233 | 288 | Zesty Twistbuilder |
 | 234 | 288 | Adam Stephanie Parker |
@@ -258,8 +258,8 @@
 | 250 | 272 | Alan George LaRage |
 | 251 | 271 | Holly |
 | 252 | 270 | Jen Caldwell |
-| 253 | 266 | Tracey Lehmann |
-| 254 | 266 | Mr. Party |
+| 253 | 266 | Mr. Party |
+| 254 | 266 | Tracey Lehmann |
 | 255 | 266 | Nubian1 |
 | 256 | 265 | Silly SeaWeed |
 | 257 | 265 | Sarah Neathery |
@@ -322,16 +322,16 @@
 | 314 | 223 | Amanda Christine |
 | 315 | 222 | Brandi Durig |
 | 316 | 221 | Rheanda Weaskus |
-| 317 | 220 | Nita Wells |
+| 317 | 220 | Ziggy |
 | 318 | 220 | Jumpy Zonepiece |
-| 319 | 220 | Ziggy |
+| 319 | 220 | Nita Wells |
 | 320 | 220 | Tina Lopez |
 | 321 | 219 | Orchislactea |
 | 322 | 219 | Shane Vick |
 | 323 | 218 | Janita Parrish |
-| 324 | 217 | Paito |
+| 324 | 217 | Cheery Fitline |
 | 325 | 217 | Alexandra Karavias |
-| 326 | 217 | Cheery Fitline |
+| 326 | 217 | Paito |
 | 327 | 216 | mike |
 | 328 | 215 | Stephme310 |
 | 329 | 214 | Patron Anderson |
@@ -466,16 +466,16 @@
 | 458 | 159 | Groovy Brickmatch |
 | 459 | 158 | Dapper Frame |
 | 460 | 158 | Jasmine S Caldwell |
-| 461 | 157 | Ryry |
-| 462 | 157 | LunaMoon |
+| 461 | 157 | LunaMoon |
+| 462 | 157 | Ryry |
 | 463 | 157 | David Boggs |
 | 464 | 156 | Funky Risepiece |
 | 465 | 156 | Mighty Edgepiece |
 | 466 | 155 | tipsy tiger |
 | 467 | 155 | Faja |
 | 468 | 155 | Shirl |
-| 469 | 154 | Bryan Hodgins |
-| 470 | 154 | Happy Combo |
+| 469 | 154 | Happy Combo |
+| 470 | 154 | Bryan Hodgins |
 | 471 | 153 | icequeenx |
 | 472 | 152 | Frilly Blocky |
 | 473 | 152 | Vanessa Smart |
@@ -543,7 +543,7 @@
 | 535 | 135 | Groovy Shiftspin |
 | 536 | 134 | Tabitha Henson |
 | 537 | 133 | ThriftySpice |
-| 538 | 133 | Amy C Brown |
+| 538 | 133 | Wacky Blockclear |
 | 539 | 133 | Jesus Garcia |
 | 540 | 133 | Amy C Brown |
 | 541 | 132 | Adam Randall |

@@ -83,15 +83,15 @@
 | 75 | 703 | Angel Fowler |
 | 76 | 689 | Susanna Guerry |
 | 77 | 679 | Hasbro Bros |
-| 78 | 657 | Tee Sheree |
-| 79 | 657 | Cynthia Bradley |
+| 78 | 657 | Cynthia Bradley |
+| 79 | 657 | Tee Sheree |
 | 80 | 655 | Brenda Stewart |
 | 81 | 648 | Evie Khalil |
 | 82 | 647 | Jason Jones |
 | 83 | 645 | Robert Benito |
 | 84 | 600 | Greg Hart |
-| 85 | 598 | Kellie |
-| 86 | 598 | Erin Hodges Plumb |
+| 85 | 598 | Erin Hodges Plumb |
+| 86 | 598 | Kellie |
 | 87 | 584 | Jen Sartain |
 | 88 | 583 | Theo Pinnow |
 | 89 | 582 | Plucky Fallzone |
@@ -108,8 +108,8 @@
 | 100 | 509 | Rachael |
 | 101 | 502 | Anaid Sanchez |
 | 102 | 497 | Arianna O'Brien |
-| 103 | 493 | Jennifer ManWarren |
-| 104 | 493 | MomMom |
+| 103 | 493 | MomMom |
+| 104 | 493 | Jennifer ManWarren |
 | 105 | 492 | Ash Galvan |
 | 106 | 491 | cc |
 | 107 | 489 | Deanna L Hermanson |
@@ -141,8 +141,8 @@
 | 133 | 429 | Kristi Johnson |
 | 134 | 428 | Ly Phethmany |
 | 135 | 426 | Maria C. Hernandez |
-| 136 | 425 | Dandy Basegrid |
-| 137 | 425 | Tyler Werts |
+| 136 | 425 | Tyler Werts |
+| 137 | 425 | Dandy Basegrid |
 | 138 | 423 | ALFD |
 | 139 | 417 | Phu ckalldems |
 | 140 | 411 | BadG52 |
@@ -166,8 +166,8 @@
 | 158 | 379 | Austin James |
 | 159 | 379 | Kimmie Kimms |
 | 160 | 378 | Jessica Sheehan |
-| 161 | 376 | Brian Richardsson |
-| 162 | 376 | Death |
+| 161 | 376 | Death |
+| 162 | 376 | Brian Richardsson |
 | 163 | 375 | Tanya Carpenter-Reynolds |
 | 164 | 375 | Connie |
 | 165 | 371 | Jason Savage |

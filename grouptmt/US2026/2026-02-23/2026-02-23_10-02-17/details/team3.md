@@ -177,8 +177,8 @@
 | 169 | 595 | Nicole Myers |
 | 170 | 591 | Michael Nowogorski |
 | 171 | 587 | Louise Stacy Sisson |
-| 172 | 585 | Happy Tetriblast |
-| 173 | 585 | Annie Marie |
+| 172 | 585 | Annie Marie |
+| 173 | 585 | Happy Tetriblast |
 | 174 | 583 | Tasha Gillespie |
 | 175 | 582 | Natasha Jones |
 | 176 | 577 | Domo Washington |
@@ -226,8 +226,8 @@
 | 218 | 470 | Trisha Balmer |
 | 219 | 467 | Sherry Ogden |
 | 220 | 465 | Annie Déè |
-| 221 | 464 | Danielle Weikel |
-| 222 | 464 | Shunta Jacobs |
+| 221 | 464 | Shunta Jacobs |
+| 222 | 464 | Danielle Weikel |
 | 223 | 461 | Tom Nault |
 | 224 | 458 | Danielle Rhoades |
 | 225 | 455 | Rebecca Funderburk Kirby |
@@ -256,8 +256,8 @@
 | 248 | 406 | Kristal C Lee |
 | 249 | 405 | Steffi Chris Dacones |
 | 250 | 404 | Chasity |
-| 251 | 403 | Scott Lindsay |
-| 252 | 403 | Denita Mungro |
+| 251 | 403 | Denita Mungro |
+| 252 | 403 | Scott Lindsay |
 | 253 | 396 | Randy Clevenger |
 | 254 | 395 | rosy |
 | 255 | 394 | RickyG |
@@ -333,8 +333,8 @@
 | 325 | 319 | Michael Leblanc |
 | 326 | 316 | Twisty Brick LT |
 | 327 | 314 | Geoffrey Nash |
-| 328 | 313 | Kaycee Kay |
-| 329 | 313 | Hoppy Buildout |
+| 328 | 313 | Hoppy Buildout |
+| 329 | 313 | Kaycee Kay |
 | 330 | 312 | Eric Caccavale |
 | 331 | 312 | LadyTorad |
 | 332 | 311 | Troy |
@@ -356,8 +356,8 @@
 | 348 | 298 | Grams |
 | 349 | 298 | Dannie Litchard |
 | 350 | 297 | kacihall |
-| 351 | 296 | Donna |
-| 352 | 296 | Tracy Martin |
+| 351 | 296 | Tracy Martin |
+| 352 | 296 | Donna |
 | 353 | 296 | Antonia Russell |
 | 354 | 295 | Nikki Pags |
 | 355 | 292 | Khaleada McGill Banks |
@@ -756,7 +756,7 @@
 | 748 | 151 | Spicy Caster |
 | 749 | 151 | Allie Kershner |
 | 750 | 151 | Lisa Bard |
-| 751 | 150 | Anastasia Williams |
+| 751 | 150 | demon14 |
 | 752 | 150 | Sapphire87 |
 | 753 | 150 | Anastasia Williams |
 | 754 | 150 | Leticia Lynn Lowe |
@@ -937,7 +937,7 @@
 | 929 | 121 | Happy Strikesnap |
 | 930 | 121 | SaSa Mac |
 | 931 | 120 | Funky Matchzone |
-| 932 | 120 | Dreamy Riserfit |
+| 932 | 120 | Chilly Wipegrid |
 | 933 | 120 | Tyler Shoff |
 | 934 | 120 | Dreamy Riserfit |
 | 935 | 120 | Amanda Brooke |

@@ -44,8 +44,8 @@
 | 36 | 4199 | Claire Noland |
 | 37 | 4128 | Angela Pruitt |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Corrine Hawks Soriano |
-| 40 | 4120 | Kristen Sceurman |
+| 39 | 4120 | Kristen Sceurman |
+| 40 | 4120 | Corrine Hawks Soriano |
 | 41 | 3947 | Melinda Brown |
 | 42 | 3845 | jayjay |
 | 43 | 3813 | Devin Lee |
@@ -218,8 +218,8 @@
 | 210 | 1286 | Altamirano Michael |
 | 211 | 1282 | Tanya Parsons |
 | 212 | 1259 | Foxxo |
-| 213 | 1258 | Snappy Matchbuilder |
-| 214 | 1258 | Joyce Johnson Vaughn |
+| 213 | 1258 | Joyce Johnson Vaughn |
+| 214 | 1258 | Snappy Matchbuilder |
 | 215 | 1252 | Angel |
 | 216 | 1245 | Missie Lawson Gebhardt |
 | 217 | 1245 | Cody Nishimura |
@@ -270,8 +270,8 @@
 | 262 | 1093 | Real Ri |
 | 263 | 1088 | Brainy Smurf |
 | 264 | 1080 | Tyler C. Jung |
-| 265 | 1079 | Kimberly Hauck-Rausch |
-| 266 | 1079 | Jennifer Kistner |
+| 265 | 1079 | Jennifer Kistner |
+| 266 | 1079 | Kimberly Hauck-Rausch |
 | 267 | 1076 | Alezandra Smith |
 | 268 | 1073 | Jodi Blake |
 | 269 | 1071 | Kim Dean |
@@ -496,8 +496,8 @@
 | 488 | 689 | Gauri Shrotriya |
 | 489 | 686 | Christine Coughlin |
 | 490 | 684 | Sarah DeHart |
-| 491 | 684 | Ann Knutson Anderson |
-| 492 | 684 | Ellie Jonas |
+| 491 | 684 | Ellie Jonas |
+| 492 | 684 | Ann Knutson Anderson |
 | 493 | 682 | Vanessa Moreno |
 | 494 | 682 | Antionette Sewell |
 | 495 | 681 | Gloria Liu |
@@ -508,8 +508,8 @@
 | 500 | 677 | Paul Combs |
 | 501 | 677 | Kayleigh Wisse |
 | 502 | 677 | Amanda Woodruff |
-| 503 | 676 | Nicky Jackson |
-| 504 | 676 | Roseanna Peloso |
+| 503 | 676 | Roseanna Peloso |
+| 504 | 676 | Nicky Jackson |
 | 505 | 675 | Lonne Emade |
 | 506 | 675 | Katelynn Hollen |
 | 507 | 674 | Ashley Munn |
@@ -540,8 +540,8 @@
 | 532 | 642 | Michelle Fields |
 | 533 | 642 | Cassie Maynard |
 | 534 | 640 | Belle |
-| 535 | 639 | Alexandra Weir |
-| 536 | 639 | Rebecca Miller |
+| 535 | 639 | Rebecca Miller |
+| 536 | 639 | Alexandra Weir |
 | 537 | 639 | Toni Roberson |
 | 538 | 638 | Leah Keesling |
 | 539 | 637 | Shinette Dobson |
@@ -560,9 +560,9 @@
 | 552 | 620 | Brenna Ann |
 | 553 | 619 | Lylymom |
 | 554 | 618 | Marella Petilo |
-| 555 | 617 | Kacee Conrad Bock |
-| 556 | 617 | Biggest thing |
-| 557 | 617 | Darcy Mae |
+| 555 | 617 | Biggest thing |
+| 556 | 617 | Darcy Mae |
+| 557 | 617 | Kacee Conrad Bock |
 | 558 | 615 | Nerdy Pattern |
 | 559 | 615 | Lyndi Robinson Wakefield |
 | 560 | 615 | Julio A Laracuente |
@@ -677,9 +677,9 @@
 | 669 | 529 | Ganieda |
 | 670 | 529 | Snazzy Basepiece |
 | 671 | 528 | Kyle LeRoy Harris |
-| 672 | 528 | Darla Silva |
-| 673 | 528 | Ha Ab |
-| 674 | 528 | Angela Yantz |
+| 672 | 528 | Angela Yantz |
+| 673 | 528 | Darla Silva |
+| 674 | 528 | Ha Ab |
 | 675 | 527 | Heather M Purcell |
 | 676 | 527 | Ryan Gunther |
 | 677 | 526 | Dimitra Zazara |
