@@ -104,8 +104,8 @@
 | 96 | 2170 | Steve Grotto |
 | 97 | 2165 | Tj Ball |
 | 98 | 2155 | Qiana Sanders |
-| 99 | 2148 | Roger Grabbit |
-| 100 | 2148 | ShinyRose |
+| 99 | 2148 | ShinyRose |
+| 100 | 2148 | Roger Grabbit |
 | 101 | 2146 | KellyDyan |
 | 102 | 2106 | Cool Rollpiece |
 | 103 | 2103 | Alisha Peoples |
@@ -335,8 +335,8 @@
 | 327 | 888 | Donna M Carter |
 | 328 | 888 | Felicia Lynn |
 | 329 | 885 | Wakanda Forever |
-| 330 | 884 | Adira Brown |
-| 331 | 884 | Steve Man |
+| 330 | 884 | Steve Man |
+| 331 | 884 | Adira Brown |
 | 332 | 883 | Hong Tang |
 | 333 | 882 | Nashu |
 | 334 | 879 | Lemonaide |
@@ -429,8 +429,8 @@
 | 421 | 731 | Charvi' Carter |
 | 422 | 730 | Hoppy Brickmatch |
 | 423 | 729 | goofinoff |
-| 424 | 728 | Tom Riefer |
-| 425 | 728 | Dylan Thomason |
+| 424 | 728 | Dylan Thomason |
+| 425 | 728 | Tom Riefer |
 | 426 | 725 | Vonceial Boone |
 | 427 | 724 | Melissa Holsinger |
 | 428 | 722 | tejas25 |
@@ -441,9 +441,9 @@
 | 433 | 714 | Caitlyn Blackwell |
 | 434 | 713 | Christie |
 | 435 | 711 | Narutofreak13 |
-| 436 | 709 | Bee |
-| 437 | 709 | Draizen Montrell Thomas |
-| 438 | 709 | Marie Walker |
+| 436 | 709 | Marie Walker |
+| 437 | 709 | Bee |
+| 438 | 709 | Draizen Montrell Thomas |
 | 439 | 708 | Jelly |
 | 440 | 707 | Mama T |
 | 441 | 706 | Kimberly Randesi |
@@ -472,8 +472,8 @@
 | 464 | 677 | Amanda Woodruff |
 | 465 | 676 | Roseanna Peloso |
 | 466 | 676 | Brandon Armstrong |
-| 467 | 675 | Katelynn Hollen |
-| 468 | 675 | Lonne Emade |
+| 467 | 675 | Lonne Emade |
+| 468 | 675 | Katelynn Hollen |
 | 469 | 674 | Mikayala Szaz |
 | 470 | 674 | Ashley Munn |
 | 471 | 673 | trabuco |

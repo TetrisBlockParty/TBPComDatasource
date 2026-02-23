@@ -57,8 +57,8 @@
 | 49 | 863 | Pee |
 | 50 | 855 | Marvin Lou Martin |
 | 51 | 853 | TeeJ |
-| 52 | 846 | Christine Marie |
-| 53 | 846 | Lucille Truesdale |
+| 52 | 846 | Lucille Truesdale |
+| 53 | 846 | Christine Marie |
 | 54 | 845 | LisaJo Picken Buchanan |
 | 55 | 843 | Shelly Chandler |
 | 56 | 841 | Anthony Bryan Riva |
@@ -235,19 +235,19 @@
 | 227 | 272 | Alan George LaRage |
 | 228 | 272 | Dennis Bradley |
 | 229 | 271 | Holly |
-| 230 | 270 | Juls |
-| 231 | 270 | Jen Caldwell |
+| 230 | 270 | Jen Caldwell |
+| 231 | 270 | Juls |
 | 232 | 266 | Mr. Party |
 | 233 | 265 | Sarah Neathery |
 | 234 | 264 | Stella |
 | 235 | 264 | Silly SeaWeed |
 | 236 | 264 | Carlos Ramirez |
 | 237 | 263 | JPW |
-| 238 | 262 | BigSammy420 |
-| 239 | 262 | Selena Shaw |
+| 238 | 262 | Selena Shaw |
+| 239 | 262 | BigSammy420 |
 | 240 | 260 | Carter Jones |
-| 241 | 259 | Allen Lloyd |
-| 242 | 259 | Montiette Mcglown |
+| 241 | 259 | Montiette Mcglown |
+| 242 | 259 | Allen Lloyd |
 | 243 | 257 | PeaceOs |
 | 244 | 256 | Mylo Lipscomb |
 | 245 | 256 | Metsfan |
@@ -280,8 +280,8 @@
 | 272 | 233 | Ruben Wheeler |
 | 273 | 232 | Rio Rocha |
 | 274 | 228 | Bethany Ison |
-| 275 | 226 | Cranky Rollpiece |
-| 276 | 226 | Dizzy Matchzone |
+| 275 | 226 | Dizzy Matchzone |
+| 276 | 226 | Cranky Rollpiece |
 | 277 | 225 | Jenna McGeorge |
 | 278 | 223 | Amanda Christine |
 | 279 | 223 | Adawna Swires |
@@ -335,8 +335,8 @@
 | 327 | 194 | Zany Twisterfit |
 | 328 | 194 | SammieJo Guy |
 | 329 | 192 | Twisty Risebuilder |
-| 330 | 191 | Earnest Thompson |
-| 331 | 191 | Norman Klick |
+| 330 | 191 | Norman Klick |
+| 331 | 191 | Earnest Thompson |
 | 332 | 190 | wombat |
 | 333 | 189 | Berklie Apedaile |
 | 334 | 189 | Lauren Lamb |
@@ -423,8 +423,8 @@
 | 415 | 162 | Brandon Link |
 | 416 | 162 | Empress Oasis |
 | 417 | 161 | Ruby Khalisadar |
-| 418 | 160 | Helen Chao |
-| 419 | 160 | Heather Layne Smith |
+| 418 | 160 | Heather Layne Smith |
+| 419 | 160 | Helen Chao |
 | 420 | 159 | Groovy Brickmatch |
 | 421 | 158 | Jasmine S Caldwell |
 | 422 | 157 | Ryry |

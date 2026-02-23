@@ -117,8 +117,8 @@
 | 109 | 831 | Angeline Joseph |
 | 110 | 830 | Stephanie Allmon |
 | 111 | 826 | Shane Wilson Jr. |
-| 112 | 816 | Brenda Lee Vander Molen |
-| 113 | 816 | Jesse Olive |
+| 112 | 816 | Jesse Olive |
+| 113 | 816 | Brenda Lee Vander Molen |
 | 114 | 800 | Lauren Girouard |
 | 115 | 799 | Dolores Falco |
 | 116 | 769 | Kristie |
@@ -511,8 +511,8 @@
 | 503 | 196 | Joshua David Huie |
 | 504 | 196 | Daring Brickzone |
 | 505 | 195 | Nicha Hooker |
-| 506 | 195 | toony |
-| 507 | 195 | Swanky Snapclear |
+| 506 | 195 | Swanky Snapclear |
+| 507 | 195 | toony |
 | 508 | 194 | Kevin Fountain |
 | 509 | 193 | Bryan Byrd |
 | 510 | 193 | Clever Shiftsnap |
@@ -669,8 +669,8 @@
 | 661 | 154 | Lexi |
 | 662 | 153 | Jessie Chung |
 | 663 | 153 | Jada Cox |
-| 664 | 152 | Christine Vosburgh |
-| 665 | 152 | Louise Parker |
+| 664 | 152 | Louise Parker |
+| 665 | 152 | Christine Vosburgh |
 | 666 | 151 | Lisa Bard |
 | 667 | 151 | Brad Dimitroff |
 | 668 | 150 | Sapphire87 |
