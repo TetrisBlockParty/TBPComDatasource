@@ -24,8 +24,8 @@
 | 16 | 2728 | Lauren d |
 | 17 | 2697 | River |
 | 18 | 2503 | Clever Roll |
-| 19 | 2287 | Tetris Master |
-| 20 | 2287 | Brandon Green |
+| 19 | 2287 | Brandon Green |
+| 20 | 2287 | Tetris Master |
 | 21 | 2203 | Ashley Jones |
 | 22 | 2144 | Zippy Strikesnap |
 | 23 | 2015 | Chummy Shatterer |
@@ -171,8 +171,8 @@
 | 163 | 529 | Michael Nowogorski |
 | 164 | 528 | Silly Twist |
 | 165 | 516 | Danielle Balcom |
-| 166 | 506 | Sashay Tapae Simpson |
-| 167 | 506 | Stephanie Blkpep Davidson |
+| 166 | 506 | Stephanie Blkpep Davidson |
+| 167 | 506 | Sashay Tapae Simpson |
 | 168 | 504 | Jennifer Lynn Fahrenholtz-Summers |
 | 169 | 502 | Snappy Balancer |
 | 170 | 501 | Patti Skiles |
@@ -208,8 +208,8 @@
 | 200 | 432 | Jenny Hrndz |
 | 201 | 432 | Christine Trester |
 | 202 | 431 | Wendy Dearden |
-| 203 | 430 | Joye Sims Binion |
-| 204 | 430 | Jeni Dow |
+| 203 | 430 | Jeni Dow |
+| 204 | 430 | Joye Sims Binion |
 | 205 | 429 | Fallorina Susana |
 | 206 | 428 | Tom Nault |
 | 207 | 426 | Rochelle Hazelett |
@@ -282,8 +282,8 @@
 | 274 | 324 | Sissy Lowery Davis |
 | 275 | 322 | Nena Somerville Kelly |
 | 276 | 321 | Charles Perrone |
-| 277 | 320 | Ashley Muncey |
-| 278 | 320 | Or Reznitsky |
+| 277 | 320 | Or Reznitsky |
+| 278 | 320 | Ashley Muncey |
 | 279 | 312 | Twisty Brick LT |
 | 280 | 312 | LadyTorad |
 | 281 | 311 | Shawn Miller |
@@ -310,8 +310,8 @@
 | 302 | 291 | Carrie Huskey |
 | 303 | 289 | DidIdothat |
 | 304 | 287 | Sabrina Hardrick |
-| 305 | 286 | Geoffrey Nash |
-| 306 | 286 | Lizabeth Fox |
+| 305 | 286 | Lizabeth Fox |
+| 306 | 286 | Geoffrey Nash |
 | 307 | 286 | Hoppy Patternline |
 | 308 | 285 | LaShey Thompson |
 | 309 | 284 | Snazzy Filler |
@@ -678,7 +678,7 @@
 | 670 | 138 | Chenoa Urban Sophicated Redy |
 | 671 | 138 | Skippy |
 | 672 | 137 | Anabela Ruiz |
-| 673 | 137 | Rynne Ellis |
+| 673 | 137 | Giggly Brickroll |
 | 674 | 137 | Patty White |
 | 675 | 137 | Rynne Ellis |
 | 676 | 136 | Stephanie Zahm |

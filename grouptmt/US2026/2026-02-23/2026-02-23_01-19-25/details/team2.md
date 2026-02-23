@@ -130,8 +130,8 @@
 | 122 | 1681 | Nett |
 | 123 | 1652 | Kristopher Miller |
 | 124 | 1644 | Luna |
-| 125 | 1639 | Karen Martini-Stapleton |
-| 126 | 1639 | Jessie McDougald |
+| 125 | 1639 | Jessie McDougald |
+| 126 | 1639 | Karen Martini-Stapleton |
 | 127 | 1632 | Qiana Sanders |
 | 128 | 1631 | Speedy Spinblock |
 | 129 | 1623 | Rebecca Doughman |
@@ -222,8 +222,8 @@
 | 214 | 1138 | Megan Ferguson Leone |
 | 215 | 1135 | Samantha Roberts |
 | 216 | 1131 | Prado |
-| 217 | 1127 | Catina Hutchison |
-| 218 | 1127 | Dee |
+| 217 | 1127 | Dee |
+| 218 | 1127 | Catina Hutchison |
 | 219 | 1126 | Dolores Russworn |
 | 220 | 1121 | Tommy Tha Boss Gunz |
 | 221 | 1117 | Sarah Freitas |
@@ -388,8 +388,8 @@
 | 380 | 740 | Jerry Tempelmeyer |
 | 381 | 738 | Aimee Campbell |
 | 382 | 737 | Jeremy Parodi |
-| 383 | 737 | Denise Rickman |
-| 384 | 737 | Ginger |
+| 383 | 737 | Ginger |
+| 384 | 737 | Denise Rickman |
 | 385 | 732 | Nicole Cannon |
 | 386 | 729 | goofinoff |
 | 387 | 728 | Charvi' Carter |
@@ -1577,7 +1577,7 @@
 | 1569 | 217 | Samuka |
 | 1570 | 216 | Mary Lopez Sr. |
 | 1571 | 216 | Shana Ydln |
-| 1572 | 216 | Dusti Rose Bingham |
+| 1572 | 216 | Crystal Ament |
 | 1573 | 216 | Cheery Striker |
 | 1574 | 216 | Dusti Rose Bingham |
 | 1575 | 216 | Rachel Walka Farnam |

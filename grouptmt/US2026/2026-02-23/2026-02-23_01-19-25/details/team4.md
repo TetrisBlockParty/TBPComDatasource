@@ -54,8 +54,8 @@
 | 46 | 860 | Jae Job |
 | 47 | 855 | Marvin Lou Martin |
 | 48 | 850 | TeeJ |
-| 49 | 846 | Christine Marie |
-| 50 | 846 | Lucille Truesdale |
+| 49 | 846 | Lucille Truesdale |
+| 50 | 846 | Christine Marie |
 | 51 | 845 | LisaJo Picken Buchanan |
 | 52 | 843 | Shelly Chandler |
 | 53 | 841 | Anthony Bryan Riva |
@@ -86,8 +86,8 @@
 | 78 | 664 | Valerie Roberts |
 | 79 | 661 | Lisa Davis |
 | 80 | 659 | Jonathan Kimbrough |
-| 81 | 647 | KM8 |
-| 82 | 647 | Shauna Havard |
+| 81 | 647 | Shauna Havard |
+| 82 | 647 | KM8 |
 | 83 | 646 | Eric Mcgaughy |
 | 84 | 641 | Savannah Overdorf |
 | 85 | 626 | Brittney Griggs |
@@ -147,8 +147,8 @@
 | 139 | 394 | Austin Owens |
 | 140 | 393 | Trish |
 | 141 | 393 | Carlton Unfiltered |
-| 142 | 393 | Girl |
-| 143 | 393 | Kristina Black |
+| 142 | 393 | Kristina Black |
+| 143 | 393 | Girl |
 | 144 | 391 | Ramel Rhodes |
 | 145 | 389 | Joseph Guthrie |
 | 146 | 384 | Lucas J Sutton |

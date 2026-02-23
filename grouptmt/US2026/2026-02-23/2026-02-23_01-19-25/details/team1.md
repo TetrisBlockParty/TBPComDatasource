@@ -346,10 +346,10 @@
 | 338 | 183 | Chummy Rollblock |
 | 339 | 183 | Dino |
 | 340 | 182 | Nathan Sealander |
-| 341 | 181 | Mark Smith |
-| 342 | 181 | David DeSantis |
-| 343 | 180 | Rico Rico |
-| 344 | 180 | Discovery Point |
+| 341 | 181 | David DeSantis |
+| 342 | 181 | Mark Smith |
+| 343 | 180 | Discovery Point |
+| 344 | 180 | Rico Rico |
 | 345 | 179 | Ryan White |
 | 346 | 178 | Teri Oehlke |
 | 347 | 178 | Vivienne Carter |
