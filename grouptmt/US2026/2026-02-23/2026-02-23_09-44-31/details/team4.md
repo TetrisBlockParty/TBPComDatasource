@@ -62,8 +62,8 @@
 | 54 | 864 | Shelly Chandler |
 | 55 | 863 | Pee |
 | 56 | 859 | TeeJ |
-| 57 | 846 | Lucille Truesdale |
-| 58 | 846 | Christine Marie |
+| 57 | 846 | Christine Marie |
+| 58 | 846 | Lucille Truesdale |
 | 59 | 845 | LisaJo Picken Buchanan |
 | 60 | 834 | quicksand420 |
 | 61 | 822 | Ashley Ingram |
@@ -75,8 +75,8 @@
 | 67 | 787 | loulou |
 | 68 | 767 | Shannon Ferrari |
 | 69 | 766 | Robin Watters |
-| 70 | 765 | Robin Getchel |
-| 71 | 765 | Denise Carlson |
+| 70 | 765 | Denise Carlson |
+| 71 | 765 | Robin Getchel |
 | 72 | 753 | TheNeesh50 |
 | 73 | 752 | Shane Kalamata Platoon |
 | 74 | 749 | Dustee Craddock-Harrison |
@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | Shauna Havard |
-| 93 | 647 | KM8 |
+| 92 | 647 | KM8 |
+| 93 | 647 | Shauna Havard |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -162,8 +162,8 @@
 | 154 | 413 | Circuit8 |
 | 155 | 412 | Jessica Bohlken |
 | 156 | 408 | Amanda Pauldo-Ivy |
-| 157 | 406 | Damn Libra |
-| 158 | 406 | Livvy |
+| 157 | 406 | Livvy |
+| 158 | 406 | Damn Libra |
 | 159 | 403 | Keith Kelley |
 | 160 | 402 | Lucas J Sutton |
 | 161 | 398 | Tyler Terrific |
@@ -194,8 +194,8 @@
 | 186 | 352 | Sue Joyce Staats |
 | 187 | 350 | Carly Alexis |
 | 188 | 349 | Rafael Valentin |
-| 189 | 348 | April Rondinone |
-| 190 | 348 | David Lay |
+| 189 | 348 | David Lay |
+| 190 | 348 | April Rondinone |
 | 191 | 347 | Crystal Nicolette Moore |
 | 192 | 347 | Daria Rycewicz |
 | 193 | 346 | shark tato |
@@ -362,12 +362,12 @@
 | 354 | 198 | Mona Sharma |
 | 355 | 198 | Shiny Fit |
 | 356 | 197 | Cozy Balancer |
-| 357 | 196 | Dustin York |
-| 358 | 196 | Megan Cutshaw |
-| 359 | 196 | Blessedmama |
-| 360 | 194 | Sarah Hoffman |
-| 361 | 194 | Zany Twisterfit |
-| 362 | 194 | Michelle Morris |
+| 357 | 196 | Megan Cutshaw |
+| 358 | 196 | Blessedmama |
+| 359 | 196 | Dustin York |
+| 360 | 194 | Michelle Morris |
+| 361 | 194 | Sarah Hoffman |
+| 362 | 194 | Zany Twisterfit |
 | 363 | 194 | SammieJo Guy |
 | 364 | 194 | Eri Kka |
 | 365 | 192 | Twisty Risebuilder |
@@ -441,7 +441,7 @@
 | 433 | 166 | Gracie Ann Taylor |
 | 434 | 166 | Reds Bella |
 | 435 | 165 | Vic |
-| 436 | 165 | Stephanie Mico |
+| 436 | 165 | Zappy Buildgrid |
 | 437 | 165 | Joshua Cuellar |
 | 438 | 165 | Stephanie Mico |
 | 439 | 164 | Marvetta Williams |

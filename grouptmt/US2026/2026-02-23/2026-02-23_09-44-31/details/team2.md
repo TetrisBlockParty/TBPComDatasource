@@ -300,13 +300,13 @@
 | 292 | 1011 | Teresa Gillmore |
 | 293 | 1007 | Missie Lawson Gebhardt |
 | 294 | 1003 | Andrea Maher |
-| 295 | 998 | Shelley Thornburgh Wright |
-| 296 | 998 | Keri Womack |
+| 295 | 998 | Keri Womack |
+| 296 | 998 | Shelley Thornburgh Wright |
 | 297 | 996 | Ashie Ann |
 | 298 | 987 | Osun Anuket Esu |
 | 299 | 984 | Crystal Hoffman |
-| 300 | 979 | Melissa Penelope Ann Dodge |
-| 301 | 979 | Hillary Crawford |
+| 300 | 979 | Hillary Crawford |
+| 301 | 979 | Melissa Penelope Ann Dodge |
 | 302 | 978 | April Dawn Gussler |
 | 303 | 976 | Sam Joe |
 | 304 | 976 | Della Hole |
@@ -344,8 +344,8 @@
 | 336 | 907 | Gene Mills |
 | 337 | 904 | John Bednarik |
 | 338 | 904 | Bee |
-| 339 | 903 | Eric Castaneda |
-| 340 | 903 | Giggy Blocker |
+| 339 | 903 | Giggy Blocker |
+| 340 | 903 | Eric Castaneda |
 | 341 | 901 | Kevin Sees |
 | 342 | 899 | Patrick Bartlett |
 | 343 | 899 | Chevy |

@@ -186,8 +186,8 @@
 | 178 | 572 | CeceGeGe |
 | 179 | 568 | Rachael McClain Owens |
 | 180 | 566 | LaTanya GeminiondaRise Johnson |
-| 181 | 564 | Poppy Splitter |
-| 182 | 564 | Christine Trester |
+| 181 | 564 | Christine Trester |
+| 182 | 564 | Poppy Splitter |
 | 183 | 563 | Jim Mathews |
 | 184 | 562 | Dave Herzog |
 | 185 | 559 | Patti Skiles |
@@ -197,8 +197,8 @@
 | 189 | 546 | Cynthia Castros-Hampton |
 | 190 | 546 | Mykal Burton |
 | 191 | 540 | Shawn Miller |
-| 192 | 531 | Chauntee Alfrey-Cardinale |
-| 193 | 531 | Sarah Cowan Burgos |
+| 192 | 531 | Sarah Cowan Burgos |
+| 193 | 531 | Chauntee Alfrey-Cardinale |
 | 194 | 528 | Silly Twist |
 | 195 | 525 | Stephanie Blkpep Davidson |
 | 196 | 524 | Bmo |
