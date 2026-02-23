@@ -92,8 +92,8 @@
 | 84 | 1264 | Amanda L Baker |
 | 85 | 1244 | Lori Barnaby |
 | 86 | 1240 | Betty Ivy |
-| 87 | 1213 | Nerdy Riseclear |
-| 88 | 1213 | Snappy Glidepiece |
+| 87 | 1213 | Snappy Glidepiece |
+| 88 | 1213 | Nerdy Riseclear |
 | 89 | 1212 | Amanda Adkins |
 | 90 | 1187 | Danielle Mogg |
 | 91 | 1186 | Christian A. Pollard |
@@ -144,8 +144,8 @@
 | 136 | 864 | Sunny Rotater |
 | 137 | 841 | Loopy Fallmatch |
 | 138 | 837 | mzcatzy |
-| 139 | 834 | opf |
-| 140 | 834 | Kristin Delibac Corrigan |
+| 139 | 834 | Kristin Delibac Corrigan |
+| 140 | 834 | opf |
 | 141 | 833 | Crystal Frey |
 | 142 | 820 | Brenda Lee Vander Molen |
 | 143 | 815 | Dolores Falco |
@@ -394,10 +394,10 @@
 | 386 | 337 | Michelle Allers |
 | 387 | 333 | Geoffrey Nash |
 | 388 | 333 | Nikki White |
-| 389 | 332 | Michael Leblanc |
-| 390 | 332 | Brittany |
-| 391 | 331 | Maggie |
-| 392 | 331 | Eboni Starr |
+| 389 | 332 | Brittany |
+| 390 | 332 | Michael Leblanc |
+| 391 | 331 | Eboni Starr |
+| 392 | 331 | Maggie |
 | 393 | 330 | Big T |
 | 394 | 328 | Norma JulieMay |
 | 395 | 328 | Krystal Gerstberger |

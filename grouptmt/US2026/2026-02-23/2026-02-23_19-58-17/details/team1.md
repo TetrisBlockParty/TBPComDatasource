@@ -166,8 +166,8 @@
 | 158 | 467 | Constance Risner |
 | 159 | 463 | Brandi Huntington |
 | 160 | 463 | Nicole Roseberry Weber |
-| 161 | 462 | Luciano Moreira |
-| 162 | 462 | Hasty Cascader |
+| 161 | 462 | Hasty Cascader |
+| 162 | 462 | Luciano Moreira |
 | 163 | 458 | Goose egg |
 | 164 | 450 | lil mickey |
 | 165 | 449 | Snappy Matcher |
@@ -389,7 +389,7 @@
 | 381 | 246 | ken |
 | 382 | 246 | san |
 | 383 | 245 | Rico Rico |
-| 384 | 245 | LC |
+| 384 | 245 | Colleen Wise |
 | 385 | 245 | .running. |
 | 386 | 245 | LC |
 | 387 | 244 | Sarah Marie |

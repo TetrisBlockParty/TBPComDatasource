@@ -82,8 +82,8 @@
 | 74 | 862 | Carolyn Wallace |
 | 75 | 855 | Peachy Fall |
 | 76 | 850 | Lucille Truesdale |
-| 77 | 846 | Amelpss |
-| 78 | 846 | Christine Marie |
+| 77 | 846 | Christine Marie |
+| 78 | 846 | Amelpss |
 | 79 | 841 | Shauna Havard |
 | 80 | 837 | Lisa Davis |
 | 81 | 834 | quicksand420 |
@@ -117,8 +117,8 @@
 | 109 | 667 | Amy Suckarieh |
 | 110 | 663 | H.R. Block |
 | 111 | 659 | Jamie Gustafson |
-| 112 | 658 | Zippy Gridlock |
-| 113 | 658 | Girl |
+| 112 | 658 | Girl |
+| 113 | 658 | Zippy Gridlock |
 | 114 | 652 | Leslie Nicole |
 | 115 | 649 | Chris Alexinas |
 | 116 | 647 | KM8 |
@@ -144,8 +144,8 @@
 | 136 | 551 | Ren Mc |
 | 137 | 549 | Carlos Ramirez |
 | 138 | 546 | Dizzy Tiley |
-| 139 | 545 | Desi Desporte |
-| 140 | 545 | Livvy |
+| 139 | 545 | Livvy |
+| 140 | 545 | Desi Desporte |
 | 141 | 542 | Austin Owens |
 | 142 | 541 | shar |
 | 143 | 540 | Rodney McMath Jr. |
@@ -159,8 +159,8 @@
 | 151 | 514 | Scott Jameson |
 | 152 | 514 | Lucas J Sutton |
 | 153 | 513 | Erin Thomas |
-| 154 | 512 | Angela Srubar-Norman |
-| 155 | 512 | ThaEviLJeNiuZ |
+| 154 | 512 | ThaEviLJeNiuZ |
+| 155 | 512 | Angela Srubar-Norman |
 | 156 | 512 | Casey Jeffcoat |
 | 157 | 508 | Twisty Clicky |
 | 158 | 502 | Ellen Durfee |
@@ -172,8 +172,8 @@
 | 164 | 491 | Jade Rian |
 | 165 | 486 | Swanky Fitline |
 | 166 | 485 | Rico |
-| 167 | 480 | Adam Stephanie Parker |
-| 168 | 480 | Brandon Crabbs |
+| 167 | 480 | Brandon Crabbs |
+| 168 | 480 | Adam Stephanie Parker |
 | 169 | 479 | Christina Black |
 | 170 | 477 | Casey Grabner |
 | 171 | 476 | Matt Summer |
@@ -362,12 +362,12 @@
 | 354 | 259 | Montiette Mcglown |
 | 355 | 259 | Allen Lloyd |
 | 356 | 257 | Marcus TheeyoungWoe Gilmore |
-| 357 | 257 | Michael Snow |
-| 358 | 257 | Alexandra Karavias |
+| 357 | 257 | Alexandra Karavias |
+| 358 | 257 | Michael Snow |
 | 359 | 257 | ĥuf |
 | 360 | 256 | Jason Bosco |
-| 361 | 256 | Mackenzie Forrester |
-| 362 | 256 | Paige Kittles |
+| 361 | 256 | Paige Kittles |
+| 362 | 256 | Mackenzie Forrester |
 | 363 | 253 | Autum Leigh |
 | 364 | 253 | Chair |
 | 365 | 252 | Maureen Flanigan |
@@ -385,8 +385,8 @@
 | 377 | 244 | Perky Piecegrid |
 | 378 | 243 | Val Erie |
 | 379 | 242 | PurpleMoonMa |
-| 380 | 240 | Zany Shatterer |
-| 381 | 240 | Perky Patternblock |
+| 380 | 240 | Perky Patternblock |
+| 381 | 240 | Zany Shatterer |
 | 382 | 239 | Laura Hosford |
 | 383 | 239 | Kevin Bush |
 | 384 | 239 | Denise B |
@@ -494,9 +494,9 @@
 | 486 | 192 | Jacob Campbell |
 | 487 | 192 | Jeff Roberts |
 | 488 | 192 | Twisty Risebuilder |
-| 489 | 191 | Earnest Thompson |
+| 489 | 191 | Koral Hanke |
 | 490 | 191 | Jobadia Steelerton |
-| 491 | 191 | Koral Hanke |
+| 491 | 191 | Earnest Thompson |
 | 492 | 191 | Norman Klick |
 | 493 | 190 | Robert Rangel |
 | 494 | 190 | wombat |
@@ -515,10 +515,10 @@
 | 507 | 183 | Darrin Rubalcava |
 | 508 | 183 | Krash |
 | 509 | 182 | Neil Ingham |
-| 510 | 182 | Cheery Towerzone |
-| 511 | 182 | Jesus Garcia |
-| 512 | 181 | ImJustMe |
-| 513 | 181 | Nikki Wilson |
+| 510 | 182 | Jesus Garcia |
+| 511 | 182 | Cheery Towerzone |
+| 512 | 181 | Nikki Wilson |
+| 513 | 181 | ImJustMe |
 | 514 | 180 | Ron |
 | 515 | 180 | Nig |
 | 516 | 179 | Elle Joe |
