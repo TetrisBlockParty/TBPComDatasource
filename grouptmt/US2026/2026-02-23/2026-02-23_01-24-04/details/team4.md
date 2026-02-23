@@ -187,15 +187,15 @@
 | 179 | 314 | Andy Cabral |
 | 180 | 313 | Lindsey Gonzalez |
 | 181 | 309 | Crystal Nicolette Moore |
-| 182 | 307 | Bio Nelly |
-| 183 | 307 | Holly Jolly |
+| 182 | 307 | Holly Jolly |
+| 183 | 307 | Bio Nelly |
 | 184 | 306 | blockstar |
 | 185 | 304 | Lindsay Ball |
 | 186 | 302 | Cursed Hag |
 | 187 | 302 | Mary Ann Pabukis |
 | 188 | 301 | Andria Lynn |
-| 189 | 300 | Dana Scott |
-| 190 | 300 | Zakia Monae |
+| 189 | 300 | Zakia Monae |
+| 190 | 300 | Dana Scott |
 | 191 | 297 | Melvin Baird |
 | 192 | 297 | Michele Plunkett |
 | 193 | 294 | Calvin Cannon |
@@ -292,9 +292,9 @@
 | 284 | 209 | Snippy Puzzle |
 | 285 | 208 | Chris Alexinas |
 | 286 | 207 | Silly SeaWeed |
-| 287 | 205 | KayM |
-| 288 | 205 | James Hurley Jr. |
-| 289 | 205 | Stella |
+| 287 | 205 | Stella |
+| 288 | 205 | KayM |
+| 289 | 205 | James Hurley Jr. |
 | 290 | 203 | Katherine Crane |
 | 291 | 202 | Angelito |
 | 292 | 202 | Shukee Lo |

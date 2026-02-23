@@ -156,8 +156,8 @@
 | 148 | 579 | Tasha Gillespie |
 | 149 | 578 | Cass Mendoza |
 | 150 | 574 | Morgan Martinez |
-| 151 | 572 | CeceGeGe |
-| 152 | 572 | Domo Washington |
+| 151 | 572 | Domo Washington |
+| 152 | 572 | CeceGeGe |
 | 153 | 571 | Nicole Myers |
 | 154 | 568 | Rachael McClain Owens |
 | 155 | 562 | Dave Herzog |
@@ -171,8 +171,8 @@
 | 163 | 529 | Michael Nowogorski |
 | 164 | 528 | Silly Twist |
 | 165 | 516 | Danielle Balcom |
-| 166 | 506 | Stephanie Blkpep Davidson |
-| 167 | 506 | Sashay Tapae Simpson |
+| 166 | 506 | Sashay Tapae Simpson |
+| 167 | 506 | Stephanie Blkpep Davidson |
 | 168 | 504 | Jennifer Lynn Fahrenholtz-Summers |
 | 169 | 502 | Snappy Balancer |
 | 170 | 501 | Patti Skiles |
@@ -509,7 +509,7 @@
 | 501 | 182 | Kali Kelz Williams |
 | 502 | 182 | Sarah Whalen |
 | 503 | 181 | Beth Smith |
-| 504 | 181 | Sarah Morris |
+| 504 | 181 | Shiny Zonebuilder |
 | 505 | 180 | Jumpy Curvebuilder |
 | 506 | 180 | Scott Doss |
 | 507 | 179 | Alexi Pryor |

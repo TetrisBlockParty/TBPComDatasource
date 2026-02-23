@@ -162,8 +162,8 @@
 | 154 | 341 | Shiny Snapfit |
 | 155 | 341 | Nick R Montague |
 | 156 | 338 | Jennifer Hardman |
-| 157 | 337 | Nicole Roseberry Weber |
-| 158 | 337 | Constance Risner |
+| 157 | 337 | Constance Risner |
+| 158 | 337 | Nicole Roseberry Weber |
 | 159 | 336 | Fmp |
 | 160 | 334 | Jaimie Lynn |
 | 161 | 333 | GATOR |
@@ -187,11 +187,11 @@
 | 179 | 306 | Happy Basegrid |
 | 180 | 306 | Bloknboy |
 | 181 | 306 | Angela Renea Lester |
-| 182 | 306 | BadG52 |
-| 183 | 306 | Happy Basegrid |
+| 182 | 306 | J.F. Fields |
+| 183 | 306 | BadG52 |
 | 184 | 304 | David Lutcher |
-| 185 | 303 | Letson Melissa |
-| 186 | 303 | ALFD |
+| 185 | 303 | ALFD |
+| 186 | 303 | Letson Melissa |
 | 187 | 301 | Damon J. Martin |
 | 188 | 296 | Cody Gates |
 | 189 | 294 | Bindi |
@@ -333,10 +333,10 @@
 | 325 | 188 | Betsy |
 | 326 | 188 | Garcia Bailey |
 | 327 | 188 | Larry Tilton |
-| 328 | 187 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
-| 329 | 187 | Cool Towerzone |
-| 330 | 187 | GringaLinga |
-| 331 | 187 | Jessica Weed |
+| 328 | 187 | Cool Towerzone |
+| 329 | 187 | GringaLinga |
+| 330 | 187 | Jessica Weed |
+| 331 | 187 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 332 | 186 | Nikki Fridley |
 | 333 | 185 | Hasty Columnbuilder |
 | 334 | 184 | Cranky Pattern |
