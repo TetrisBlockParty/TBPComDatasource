@@ -712,8 +712,8 @@
 | 704 | 587 | Kelli Wells |
 | 705 | 586 | Tra Barnum |
 | 706 | 585 | Taylor Flowers |
-| 707 | 585 | Laquetta Royston |
-| 708 | 585 | Shelva Richard |
+| 707 | 585 | Shelva Richard |
+| 708 | 585 | Laquetta Royston |
 | 709 | 582 | Joseph Musick |
 | 710 | 582 | Kat Mfm Kaul |
 | 711 | 581 | AsnPryBoy83 |
@@ -808,17 +808,17 @@
 | 800 | 526 | KayLynn Ogden McClelland |
 | 801 | 526 | LuckyChopstix |
 | 802 | 523 | Epic Fitzone |
-| 803 | 522 | Ryan Parson |
+| 803 | 522 | Snippy Rumbler |
 | 804 | 522 | Synn |
 | 805 | 522 | Ryan Parson |
 | 806 | 522 | Kathleen Driskell |
 | 807 | 522 | Leah |
 | 808 | 521 | Jason Kelly |
 | 809 | 521 | Shea Edison |
-| 810 | 521 | Jason Kelly |
+| 810 | 521 | Juanita Lyons |
 | 811 | 520 | Antonio Mckoy Sr. |
-| 812 | 519 | Rob Brown |
-| 813 | 519 | Saucy Fitzone |
+| 812 | 519 | Saucy Fitzone |
+| 813 | 519 | Rob Brown |
 | 814 | 519 | Luke Califf |
 | 815 | 519 | Jason Garnatz |
 | 816 | 518 | Ashley Collins |

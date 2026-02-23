@@ -220,8 +220,8 @@
 | 212 | 564 | Christine Trester |
 | 213 | 562 | Dave Herzog |
 | 214 | 561 | Silly Twist |
-| 215 | 560 | Juliana Dottore |
-| 216 | 560 | FuzzyNavel |
+| 215 | 560 | FuzzyNavel |
+| 216 | 560 | Juliana Dottore |
 | 217 | 559 | Patti Skiles |
 | 218 | 557 | JessDrown |
 | 219 | 549 | Sarah Cowan Burgos |
@@ -298,8 +298,8 @@
 | 290 | 425 | Jennifer Alvey |
 | 291 | 421 | Snazzy Filler |
 | 292 | 421 | Chummy Caster |
-| 293 | 420 | Sabrina Hardrick |
-| 294 | 420 | Sarah Moyer |
+| 293 | 420 | Sarah Moyer |
+| 294 | 420 | Sabrina Hardrick |
 | 295 | 417 | Giddy Twistbuilder |
 | 296 | 414 | RickyG |
 | 297 | 412 | Jojo M |
@@ -373,8 +373,8 @@
 | 365 | 348 | Kelly Wolf |
 | 366 | 348 | Ashley Raines |
 | 367 | 346 | AlsoJess |
-| 368 | 345 | gremicx |
-| 369 | 345 | victory |
+| 368 | 345 | victory |
+| 369 | 345 | gremicx |
 | 370 | 344 | Beaudie Stroebel |
 | 371 | 343 | Donna |
 | 372 | 343 | Ashley Rufus Bythcez |
@@ -395,8 +395,8 @@
 | 387 | 330 | angieelyn |
 | 388 | 330 | Big T |
 | 389 | 328 | Krystal Gerstberger |
-| 390 | 328 | Desiree Soto |
-| 391 | 328 | Cesar Mendez |
+| 390 | 328 | Cesar Mendez |
+| 391 | 328 | Desiree Soto |
 | 392 | 327 | Tiffanie Alley |
 | 393 | 326 | Kerry Nowickshere |
 | 394 | 326 | Norma JulieMay |
@@ -506,8 +506,8 @@
 | 498 | 268 | Sarah Mayson |
 | 499 | 268 | Sabrina Mansfield |
 | 500 | 268 | Sdot |
-| 501 | 267 | Fredd Thomas |
-| 502 | 267 | Omega |
+| 501 | 267 | Omega |
+| 502 | 267 | Fredd Thomas |
 | 503 | 267 | April Matthew Kibble |
 | 504 | 266 | Reina Roth |
 | 505 | 266 | Quirky Dropzone |
@@ -536,14 +536,14 @@
 | 528 | 255 | LaNette Morgan |
 | 529 | 255 | Mariah Williams |
 | 530 | 255 | Jolly Dashpiece |
-| 531 | 254 | Landycandii |
-| 532 | 254 | Katheline Lazo Luizaga |
+| 531 | 254 | Katheline Lazo Luizaga |
+| 532 | 254 | Landycandii |
 | 533 | 254 | atomictrin |
-| 534 | 253 | Boldy Blocker |
-| 535 | 253 | Kristen McAlpine |
-| 536 | 253 | crystal |
-| 537 | 253 | Scouty |
-| 538 | 253 | Dapper Liney |
+| 534 | 253 | Kristen McAlpine |
+| 535 | 253 | Boldy Blocker |
+| 536 | 253 | Scouty |
+| 537 | 253 | Dapper Liney |
+| 538 | 253 | crystal |
 | 539 | 252 | Jason |
 | 540 | 252 | Josh Borquez |
 | 541 | 251 | Irene Arreguin |

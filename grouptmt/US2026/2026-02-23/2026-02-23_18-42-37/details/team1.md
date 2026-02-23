@@ -160,8 +160,8 @@
 | 152 | 467 | Constance Risner |
 | 153 | 464 | Desiree Deschaine Havee |
 | 154 | 463 | Nicole Roseberry Weber |
-| 155 | 462 | Luciano Moreira |
-| 156 | 462 | Hasty Cascader |
+| 155 | 462 | Hasty Cascader |
+| 156 | 462 | Luciano Moreira |
 | 157 | 461 | Ly Phethmany |
 | 158 | 460 | Steve Schneider |
 | 159 | 458 | Goose egg |
@@ -178,8 +178,8 @@
 | 170 | 426 | Maria C. Hernandez |
 | 171 | 425 | Tyler Werts |
 | 172 | 424 | Emily Adelaide Wheatley |
-| 173 | 417 | Jessie Lynn |
-| 174 | 417 | Kimberly Garcia |
+| 173 | 417 | Kimberly Garcia |
+| 174 | 417 | Jessie Lynn |
 | 175 | 416 | Jessica Sheehan |
 | 176 | 415 | Jennifer Hardman |
 | 177 | 414 | Chelsea Dahlquist |
@@ -206,8 +206,8 @@
 | 198 | 387 | Witty Builderfit |
 | 199 | 386 | Brian Spotts |
 | 200 | 385 | Debbie Kane |
-| 201 | 383 | Margo Wagner |
-| 202 | 383 | pjbeta |
+| 201 | 383 | pjbeta |
+| 202 | 383 | Margo Wagner |
 | 203 | 380 | Bindi |
 | 204 | 379 | Austin James |
 | 205 | 378 | Sleepysloath5745 |
@@ -257,8 +257,8 @@
 | 249 | 335 | Eric DeSimone |
 | 250 | 334 | Tipsy Builder |
 | 251 | 333 | Jennifer Noe Chandler |
-| 252 | 332 | Eddie Dillon |
-| 253 | 332 | Happy Basegrid |
+| 252 | 332 | Happy Basegrid |
+| 253 | 332 | Eddie Dillon |
 | 254 | 332 | Plucky Stacky |
 | 255 | 331 | Larissa Marie Nelson |
 | 256 | 329 | Frothy Pattern |
@@ -272,9 +272,9 @@
 | 264 | 322 | Sarah Roberts |
 | 265 | 319 | Wayne Saunders |
 | 266 | 318 | Mitchel White |
-| 267 | 317 | Bloknboy |
+| 267 | 317 | Sam Williams |
 | 268 | 317 | Zany Tiler |
-| 269 | 317 | Sam Williams |
+| 269 | 317 | Bloknboy |
 | 270 | 316 | DoodleBug |
 | 271 | 315 | Hellsin |
 | 272 | 313 | Cody Gates |
@@ -286,8 +286,8 @@
 | 278 | 306 | Cece Ibarra |
 | 279 | 305 | Larry Tilton |
 | 280 | 303 | DaRascal |
-| 281 | 301 | Glitzy Curvebuilder |
-| 282 | 301 | Brave Wrecker |
+| 281 | 301 | Brave Wrecker |
+| 282 | 301 | Glitzy Curvebuilder |
 | 283 | 301 | Chad Atchley |
 | 284 | 300 | LaFontaine Leslie |
 | 285 | 298 | Billie Ann Eason |
@@ -335,13 +335,13 @@
 | 327 | 270 | Brenda Alexander |
 | 328 | 270 | Blake Mckay |
 | 329 | 269 | Flashy Rotator |
-| 330 | 266 | Thorne Shumate |
-| 331 | 266 | Michelle |
-| 332 | 265 | Yahowah |
-| 333 | 265 | Llewej Rekab |
+| 330 | 266 | Michelle |
+| 331 | 266 | Thorne Shumate |
+| 332 | 265 | Llewej Rekab |
+| 333 | 265 | Yahowah |
 | 334 | 264 | Jenny Gingrich Fuentes |
-| 335 | 263 | Mighty Shatterfit |
-| 336 | 263 | Nadine Velardo |
+| 335 | 263 | Nadine Velardo |
+| 336 | 263 | Mighty Shatterfit |
 | 337 | 262 | Tyler L Hunt |
 | 338 | 262 | Mary Love |
 | 339 | 261 | Angela Fairbank |
@@ -355,9 +355,9 @@
 | 347 | 257 | Marc Abney |
 | 348 | 256 | Chris Sigurdson |
 | 349 | 256 | Joe Coon |
-| 350 | 255 | Glitzy Buildsnap |
-| 351 | 255 | Beazel75 |
-| 352 | 255 | Speedy Snapfall |
+| 350 | 255 | Speedy Snapfall |
+| 351 | 255 | Glitzy Buildsnap |
+| 352 | 255 | Beazel75 |
 | 353 | 254 | Al Smith Jr |
 | 354 | 254 | Marci Sanders |
 | 355 | 253 | Jamie Jury |
