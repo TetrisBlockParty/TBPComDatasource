@@ -230,8 +230,8 @@
 | 222 | 384 | Marci Mize Fandrich |
 | 223 | 383 | Darlene McMillan |
 | 224 | 383 | Heather Green |
-| 225 | 382 | Giddy Twistbuilder |
-| 226 | 382 | Scott Carleton |
+| 225 | 382 | Scott Carleton |
+| 226 | 382 | Giddy Twistbuilder |
 | 227 | 380 | Rebecca Bailey |
 | 228 | 378 | Chris Bell |
 | 229 | 376 | Connie Mohler-Fair |
@@ -264,14 +264,14 @@
 | 256 | 343 | Ashley Rufus Bythcez |
 | 257 | 343 | Ashley Raines |
 | 258 | 343 | rnr junky |
-| 259 | 341 | MsBee |
-| 260 | 341 | Ashley Tookes |
-| 261 | 339 | Cynthia Herrmann Egland |
-| 262 | 339 | Danielle Weikel |
+| 259 | 341 | Ashley Tookes |
+| 260 | 341 | MsBee |
+| 261 | 339 | Danielle Weikel |
+| 262 | 339 | Cynthia Herrmann Egland |
 | 263 | 338 | Gumbo |
 | 264 | 332 | Velma Mull |
-| 265 | 330 | Brittany |
-| 266 | 330 | victory |
+| 265 | 330 | victory |
+| 266 | 330 | Brittany |
 | 267 | 329 | Tye Stovall |
 | 268 | 329 | block chick |
 | 269 | 327 | Gideon Walker |
@@ -281,8 +281,8 @@
 | 273 | 324 | Sissy Lowery Davis |
 | 274 | 322 | Nena Somerville Kelly |
 | 275 | 321 | Charles Perrone |
-| 276 | 320 | Or Reznitsky |
-| 277 | 320 | Ashley Muncey |
+| 276 | 320 | Ashley Muncey |
+| 277 | 320 | Or Reznitsky |
 | 278 | 316 | Jojo M |
 | 279 | 312 | Twisty Brick LT |
 | 280 | 312 | LadyTorad |

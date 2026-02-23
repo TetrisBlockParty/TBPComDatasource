@@ -128,8 +128,8 @@
 | 120 | 448 | Kristin Manee |
 | 121 | 446 | Latisha Davis |
 | 122 | 435 | Leslie Thomas |
-| 123 | 431 | Courtney Cicoria |
-| 124 | 431 | Jolly Dashfit |
+| 123 | 431 | Jolly Dashfit |
+| 124 | 431 | Courtney Cicoria |
 | 125 | 429 | Ren Mc |
 | 126 | 427 | KJ Pool |
 | 127 | 426 | Angela Srubar-Norman |
@@ -233,25 +233,25 @@
 | 225 | 257 | PeaceOs |
 | 226 | 257 | Cheery Risebuilder |
 | 227 | 256 | Mylo Lipscomb |
-| 228 | 252 | Selena Shaw |
-| 229 | 252 | Mr. Party |
+| 228 | 252 | Mr. Party |
+| 229 | 252 | Selena Shaw |
 | 230 | 251 | Carol Ricks Raymond |
 | 231 | 249 | Ak Jones |
-| 232 | 248 | Chirpy Basepiece |
-| 233 | 248 | Jose Dejesus |
+| 232 | 248 | Jose Dejesus |
+| 233 | 248 | Chirpy Basepiece |
 | 234 | 247 | JPW |
 | 235 | 246 | Zethra Prenisha Rahming |
-| 236 | 245 | Adam Stephanie Parker |
-| 237 | 245 | 23 |
-| 238 | 245 | Autum Leigh |
+| 236 | 245 | Autum Leigh |
+| 237 | 245 | Adam Stephanie Parker |
+| 238 | 245 | 23 |
 | 239 | 241 | Allen Lloyd |
-| 240 | 240 | Kim Hunt |
-| 241 | 240 | Perky Patternblock |
+| 240 | 240 | Perky Patternblock |
+| 241 | 240 | Kim Hunt |
 | 242 | 238 | Chaz |
-| 243 | 237 | 030Synner |
-| 244 | 237 | Christine Therrien |
-| 245 | 235 | LaDonna LovinmesomeMe Lambert |
-| 246 | 235 | Shainne Brewer |
+| 243 | 237 | Christine Therrien |
+| 244 | 237 | 030Synner |
+| 245 | 235 | Shainne Brewer |
+| 246 | 235 | LaDonna LovinmesomeMe Lambert |
 | 247 | 233 | Ruben Wheeler |
 | 248 | 232 | Rio Rocha |
 | 249 | 232 | Joanna |
