@@ -97,8 +97,8 @@
 | 89 | 575 | Nancy Green |
 | 90 | 570 | Cody Slav |
 | 91 | 562 | Denice Dee |
-| 92 | 534 | Veronica Eve |
-| 93 | 534 | Loony Fitzone |
+| 92 | 534 | Loony Fitzone |
+| 93 | 534 | Veronica Eve |
 | 94 | 529 | Ryan Lunnin |
 | 95 | 522 | Sarah Lombardo |
 | 96 | 511 | Mario Cab |
@@ -124,8 +124,8 @@
 | 116 | 452 | Hyper |
 | 117 | 451 | Plucky Ziggy |
 | 118 | 450 | lil mickey |
-| 119 | 448 | Jazzy Framezone |
-| 120 | 448 | Sweet Baker |
+| 119 | 448 | Sweet Baker |
+| 120 | 448 | Jazzy Framezone |
 | 121 | 446 | SkipTheSadSauce |
 | 122 | 443 | Steve Schneider |
 | 123 | 439 | Dee Perry |
@@ -141,8 +141,8 @@
 | 133 | 411 | BadG52 |
 | 134 | 410 | ALFD |
 | 135 | 409 | Goose egg |
-| 136 | 406 | Candy Jones |
-| 137 | 406 | Desiree Deschaine Havee |
+| 136 | 406 | Desiree Deschaine Havee |
+| 137 | 406 | Candy Jones |
 | 138 | 402 | Chris K |
 | 139 | 399 | Nery Martinez |
 | 140 | 394 | Lori Bales |
@@ -224,8 +224,8 @@
 | 216 | 293 | John Kim |
 | 217 | 291 | Giddy Cascade |
 | 218 | 291 | Brave Wrecker |
-| 219 | 290 | Tavia |
-| 220 | 290 | Hellsin |
+| 219 | 290 | Hellsin |
+| 220 | 290 | Tavia |
 | 221 | 287 | Sassy Builderline |
 | 222 | 285 | Shanae Grant |
 | 223 | 285 | Bird Person |
@@ -360,8 +360,8 @@
 | 352 | 199 | Larissa Marie Nelson |
 | 353 | 199 | Tina Englert |
 | 354 | 198 | Marci Sanders |
-| 355 | 197 | Larry Tilton |
-| 356 | 197 | Ric Hard Hernandez |
+| 355 | 197 | Ric Hard Hernandez |
+| 356 | 197 | Larry Tilton |
 | 357 | 197 | Cool Towerzone |
 | 358 | 196 | Steph |
 | 359 | 196 | Rachel Copas |
@@ -548,8 +548,8 @@
 | 540 | 135 | Amanda Marie Sutton |
 | 541 | 135 | Divaaa |
 | 542 | 134 | Angela Rena Brooks |
-| 543 | 133 | MayMay Echevarria |
-| 544 | 133 | Jason Cox |
+| 543 | 133 | Jason Cox |
+| 544 | 133 | MayMay Echevarria |
 | 545 | 132 | Angela Ellyson |
 | 546 | 132 | Mary Love |
 | 547 | 131 | Jason Landon Sexton |

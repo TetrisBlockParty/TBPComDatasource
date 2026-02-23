@@ -61,8 +61,8 @@
 | 53 | 864 | Shelly Chandler |
 | 54 | 863 | Pee |
 | 55 | 853 | TeeJ |
-| 56 | 846 | Christine Marie |
-| 57 | 846 | Lucille Truesdale |
+| 56 | 846 | Lucille Truesdale |
+| 57 | 846 | Christine Marie |
 | 58 | 845 | LisaJo Picken Buchanan |
 | 59 | 834 | quicksand420 |
 | 60 | 815 | Dawn Alexander |
@@ -74,8 +74,8 @@
 | 66 | 781 | Chilly Line |
 | 67 | 767 | Shannon Ferrari |
 | 68 | 766 | Robin Watters |
-| 69 | 765 | Robin Getchel |
-| 70 | 765 | Denise Carlson |
+| 69 | 765 | Denise Carlson |
+| 70 | 765 | Robin Getchel |
 | 71 | 752 | loulou |
 | 72 | 752 | Shane Kalamata Platoon |
 | 73 | 749 | Dustee Craddock-Harrison |
@@ -150,8 +150,8 @@
 | 142 | 423 | Carrie Brian |
 | 143 | 421 | JIGsaw ~(•¿°)~ |
 | 144 | 421 | Kesha Brady |
-| 145 | 418 | Marie-Pier Desjardins |
-| 146 | 418 | Lush Linkfall |
+| 145 | 418 | Lush Linkfall |
+| 146 | 418 | Marie-Pier Desjardins |
 | 147 | 416 | Chaz Duncan |
 | 148 | 414 | Nope Young |
 | 149 | 414 | Swanky Fitline |
@@ -207,8 +207,8 @@
 | 199 | 320 | Lauren Scott |
 | 200 | 318 | Chris Hartig |
 | 201 | 316 | Autumn Kumzi |
-| 202 | 312 | Casey Grabner |
-| 203 | 312 | Dihcheese444 |
+| 202 | 312 | Dihcheese444 |
+| 203 | 312 | Casey Grabner |
 | 204 | 311 | Mary Ann Pabukis |
 | 205 | 310 | Holly Jolly |
 | 206 | 307 | Cheery Risebuilder |

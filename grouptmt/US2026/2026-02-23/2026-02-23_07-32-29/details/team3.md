@@ -113,8 +113,8 @@
 | 105 | 869 | Araceli Parra |
 | 106 | 868 | Sarajane Lokan |
 | 107 | 860 | Sunny Rotater |
-| 108 | 851 | Danielle Becker |
-| 109 | 851 | Jd Morris |
+| 108 | 851 | Jd Morris |
+| 109 | 851 | Danielle Becker |
 | 110 | 850 | Danielle Mogg |
 | 111 | 848 | Patricia Gadsden |
 | 112 | 831 | Angeline Joseph |
@@ -129,8 +129,8 @@
 | 121 | 769 | Kristie |
 | 122 | 764 | Groovy Catcher |
 | 123 | 762 | Speedy Bridger |
-| 124 | 752 | Logan Naccarato |
-| 125 | 752 | Raya |
+| 124 | 752 | Raya |
+| 125 | 752 | Logan Naccarato |
 | 126 | 748 | Adrian Marcel Pate |
 | 127 | 745 | JerseyJess |
 | 128 | 744 | Fancy Cascader |
@@ -160,8 +160,8 @@
 | 152 | 634 | Amber Hughes |
 | 153 | 630 | yoyo |
 | 154 | 629 | Patricia White |
-| 155 | 621 | Sashay Tapae Simpson |
-| 156 | 621 | Cherry Parker |
+| 155 | 621 | Cherry Parker |
+| 156 | 621 | Sashay Tapae Simpson |
 | 157 | 616 | Kammy Hill |
 | 158 | 611 | Rochelle Hazelett |
 | 159 | 607 | Grego Daniel |
@@ -195,8 +195,8 @@
 | 187 | 546 | Tasha Schriewer |
 | 188 | 546 | Mykal Burton |
 | 189 | 540 | Shawn Miller |
-| 190 | 531 | Chauntee Alfrey-Cardinale |
-| 191 | 531 | Sarah Cowan Burgos |
+| 190 | 531 | Sarah Cowan Burgos |
+| 191 | 531 | Chauntee Alfrey-Cardinale |
 | 192 | 528 | Silly Twist |
 | 193 | 525 | Stephanie Blkpep Davidson |
 | 194 | 524 | Bmo |
@@ -221,8 +221,8 @@
 | 213 | 467 | Sherry Ogden |
 | 214 | 467 | Edwin Calvillo Jr. |
 | 215 | 465 | Annie Déè |
-| 216 | 464 | Shunta Jacobs |
-| 217 | 464 | Danielle Weikel |
+| 216 | 464 | Danielle Weikel |
+| 217 | 464 | Shunta Jacobs |
 | 218 | 461 | Tom Nault |
 | 219 | 458 | Danielle Rhoades |
 | 220 | 454 | Joye Sims Binion |
@@ -249,8 +249,8 @@
 | 241 | 396 | Randy Clevenger |
 | 242 | 396 | Marci Mize Fandrich |
 | 243 | 395 | rosy |
-| 244 | 391 | Nicole Flippo |
-| 245 | 391 | RickyG |
+| 244 | 391 | RickyG |
+| 245 | 391 | Nicole Flippo |
 | 246 | 387 | Gideon Walker |
 | 247 | 383 | Darlene McMillan |
 | 248 | 382 | Giddy Twistbuilder |
@@ -268,13 +268,13 @@
 | 260 | 370 | Samantha Lynn |
 | 261 | 369 | Philip Rock |
 | 262 | 369 | Keis |
-| 263 | 368 | Sheila M Frazier |
-| 264 | 368 | Stephanie Woods |
+| 263 | 368 | Stephanie Woods |
+| 264 | 368 | Sheila M Frazier |
 | 265 | 367 | Kristin Delibac Corrigan |
 | 266 | 366 | Gumbo |
 | 267 | 365 | Noyb Adam |
-| 268 | 364 | Carrie Huskey |
-| 269 | 364 | Steffi Chris Dacones |
+| 268 | 364 | Steffi Chris Dacones |
+| 269 | 364 | Carrie Huskey |
 | 270 | 362 | Brandon Givens |
 | 271 | 360 | Cesar Barraza |
 | 272 | 359 | Sleepy |
@@ -286,8 +286,8 @@
 | 278 | 353 | Cyd061769 |
 | 279 | 353 | Dee Franklin |
 | 280 | 352 | Christian Werndl |
-| 281 | 351 | Eon Harris |
-| 282 | 351 | Blocked |
+| 281 | 351 | Blocked |
+| 282 | 351 | Eon Harris |
 | 283 | 350 | LaShey Thompson |
 | 284 | 349 | Amanda J. Mcneil-Anderson |
 | 285 | 348 | Ashley Raines |
@@ -381,8 +381,8 @@
 | 373 | 274 | Ava Petito |
 | 374 | 273 | France Vézina |
 | 375 | 273 | Brenda Schmid Wood |
-| 376 | 272 | Todd Hall |
-| 377 | 272 | Tay |
+| 376 | 272 | Tay |
+| 377 | 272 | Todd Hall |
 | 378 | 272 | Romeo |
 | 379 | 269 | Samantha Worley |
 | 380 | 269 | Juliana Dottore |
@@ -468,16 +468,16 @@
 | 460 | 230 | BigE |
 | 461 | 229 | MizzMonick Smith |
 | 462 | 229 | Everret Maxine |
-| 463 | 228 | Dapper Liney |
-| 464 | 228 | Tipsy Zonebuilder |
+| 463 | 228 | Tipsy Zonebuilder |
+| 464 | 228 | Dapper Liney |
 | 465 | 227 | Meowsa |
 | 466 | 226 | Jana Polk |
 | 467 | 226 | paranoid |
 | 468 | 226 | Ryan Williams |
 | 469 | 225 | Sassy Tiler |
 | 470 | 225 | sofaking |
-| 471 | 224 | Christina Rotz Shows |
-| 472 | 224 | Cranky Corner |
+| 471 | 224 | Cranky Corner |
+| 472 | 224 | Christina Rotz Shows |
 | 473 | 224 | Sarah Morris |
 | 474 | 223 | Megan Rathmanner |
 | 475 | 223 | Breanna Marsden |
@@ -576,8 +576,8 @@
 | 568 | 189 | Wacky Crasher |
 | 569 | 188 | Amber Groover Taylor |
 | 570 | 188 | Bree Sexton |
-| 571 | 187 | Kelly Koenig |
-| 572 | 187 | luluraine |
+| 571 | 187 | luluraine |
+| 572 | 187 | Kelly Koenig |
 | 573 | 187 | Crystal Johnson |
 | 574 | 186 | Jack Bo |
 | 575 | 186 | Funky Jumper |
@@ -603,7 +603,7 @@
 | 595 | 181 | Kellie Montgomery |
 | 596 | 181 | krazibtch |
 | 597 | 181 | Julia Nicole |
-| 598 | 181 | krazibtch |
+| 598 | 181 | Rashad Green |
 | 599 | 180 | Chipper Piecefit |
 | 600 | 180 | Stella |
 | 601 | 179 | Boldy Corner |
@@ -2231,7 +2231,7 @@
 | 2223 | 31 | Khaoz Bowman |
 | 2224 | 31 | jlamp21 |
 | 2225 | 31 | Sweetpea |
-| 2226 | 31 | Khaoz Bowman |
+| 2226 | 31 | Hyper Piecebuilder |
 | 2227 | 30 | Travis Knox |
 | 2228 | 30 | Beatrice Ervin |
 | 2229 | 30 | Theresa Barnes |

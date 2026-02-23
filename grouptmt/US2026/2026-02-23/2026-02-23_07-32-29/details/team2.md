@@ -302,8 +302,8 @@
 | 294 | 996 | Ashie Ann |
 | 295 | 987 | Osun Anuket Esu |
 | 296 | 984 | Crystal Hoffman |
-| 297 | 979 | Hillary Crawford |
-| 298 | 979 | Melissa Penelope Ann Dodge |
+| 297 | 979 | Melissa Penelope Ann Dodge |
+| 298 | 979 | Hillary Crawford |
 | 299 | 978 | April Dawn Gussler |
 | 300 | 976 | Della Hole |
 | 301 | 976 | Sam Joe |
@@ -376,8 +376,8 @@
 | 368 | 829 | Jessica Wayne Cornwall |
 | 369 | 828 | Kimmy Newman |
 | 370 | 825 | Jeremy Parodi |
-| 371 | 824 | Khalil Lowe |
-| 372 | 824 | Danielle Johnson-Chandler |
+| 371 | 824 | Danielle Johnson-Chandler |
+| 372 | 824 | Khalil Lowe |
 | 373 | 822 | Lola Contreras |
 | 374 | 821 | Angie Bolton Workman |
 | 375 | 821 | Cassie Mercer |
@@ -775,8 +775,8 @@
 | 767 | 462 | Darla Silva |
 | 768 | 462 | Samantha Scibelli |
 | 769 | 462 | Kia Humphery |
-| 770 | 461 | Amanda Segura |
-| 771 | 461 | Julie Hamilton |
+| 770 | 461 | Julie Hamilton |
+| 771 | 461 | Amanda Segura |
 | 772 | 461 | Kristen O'Neal |
 | 773 | 461 | Amanda West |
 | 774 | 460 | LaWanda Powell |
@@ -805,8 +805,8 @@
 | 797 | 447 | Boozi |
 | 798 | 446 | Colin Morgan |
 | 799 | 446 | Courtney Burcham |
-| 800 | 445 | Mar Q Thomas |
-| 801 | 445 | Beatboxxer |
+| 800 | 445 | Beatboxxer |
+| 801 | 445 | Mar Q Thomas |
 | 802 | 444 | Angela Murgia-Owen |
 | 803 | 443 | Giggy Grabber |
 | 804 | 443 | Dimitra Zazara |
@@ -932,8 +932,8 @@
 | 924 | 392 | Jroc |
 | 925 | 391 | Poppy Gridder |
 | 926 | 391 | Chilly Bridgepiece |
-| 927 | 390 | MauroPRM |
-| 928 | 390 | Karmabunny |
+| 927 | 390 | Karmabunny |
+| 928 | 390 | MauroPRM |
 | 929 | 390 | Smiley Strike |
 | 930 | 390 | Tasia Stinson |
 | 931 | 390 | Kyla Louise |
