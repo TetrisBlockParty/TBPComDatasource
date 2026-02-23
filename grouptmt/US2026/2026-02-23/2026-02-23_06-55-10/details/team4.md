@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Jonathan Kimbrough |
-| 84 | 684 | Kimyatta Cavin |
+| 83 | 684 | Kimyatta Cavin |
+| 84 | 684 | Jonathan Kimbrough |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -157,8 +157,8 @@
 | 149 | 414 | Nope Young |
 | 150 | 412 | Jessica Bohlken |
 | 151 | 408 | Amanda Pauldo-Ivy |
-| 152 | 406 | Damn Libra |
-| 153 | 406 | Livvy |
+| 152 | 406 | Livvy |
+| 153 | 406 | Damn Libra |
 | 154 | 398 | Tyler Terrific |
 | 155 | 393 | Girl |
 | 156 | 393 | Carlton Unfiltered |
@@ -174,10 +174,10 @@
 | 166 | 368 | Raegan Lane-Ross |
 | 167 | 368 | Chris Bernstein |
 | 168 | 368 | Silly Zonebuilder |
-| 169 | 368 | Raegan Lane-Ross |
+| 169 | 368 | Brandon Crabbs |
 | 170 | 365 | Jeff Brian Gates |
-| 171 | 361 | Melissa Adams |
-| 172 | 361 | Danielle Kollias |
+| 171 | 361 | Danielle Kollias |
+| 172 | 361 | Melissa Adams |
 | 173 | 359 | Keith Kelley |
 | 174 | 358 | A5! |
 | 175 | 356 | George Nutt |
@@ -334,8 +334,8 @@
 | 326 | 208 | Shukee Lo |
 | 327 | 208 | Heather Bruce |
 | 328 | 206 | Laura Hosford |
-| 329 | 206 | Maureen Flanigan |
-| 330 | 206 | June Hoffman |
+| 329 | 206 | June Hoffman |
+| 330 | 206 | Maureen Flanigan |
 | 331 | 205 | KayM |
 | 332 | 204 | Russ Attitude |
 | 333 | 203 | Andrew Dang |
@@ -350,8 +350,8 @@
 | 342 | 196 | Blessedmama |
 | 343 | 194 | SammieJo Guy |
 | 344 | 194 | Zany Twisterfit |
-| 345 | 192 | Meg |
-| 346 | 192 | Twisty Risebuilder |
+| 345 | 192 | Twisty Risebuilder |
+| 346 | 192 | Meg |
 | 347 | 191 | Norman Klick |
 | 348 | 191 | Earnest Thompson |
 | 349 | 191 | Michelle Morris |
