@@ -140,8 +140,8 @@
 | 132 | 783 | Julian Murphy |
 | 133 | 779 | Justin Ritter |
 | 134 | 774 | Keith J Oshman Jr. |
-| 135 | 773 | Tasha Schriewer |
-| 136 | 773 | Daira Largen |
+| 135 | 773 | Daira Largen |
+| 136 | 773 | Tasha Schriewer |
 | 137 | 770 | Daryn Elliott |
 | 138 | 767 | Loopy Fallmatch |
 | 139 | 764 | Hasty Cascadefit |
@@ -474,8 +474,8 @@
 | 466 | 271 | Hyper Twisterfit |
 | 467 | 271 | Scott Doss |
 | 468 | 270 | Tegan Chapman |
-| 469 | 269 | Aponk |
-| 470 | 269 | Goofy Fall |
+| 469 | 269 | Goofy Fall |
+| 470 | 269 | Aponk |
 | 471 | 269 | Samantha Worley |
 | 472 | 268 | Jessica Lynn French |
 | 473 | 268 | Rainbow77375 |
@@ -1303,7 +1303,7 @@
 | 1295 | 98 | Flippin Fly |
 | 1296 | 98 | Karen Butler-Moore |
 | 1297 | 97 | Queen |
-| 1298 | 97 | Morgan Cox |
+| 1298 | 97 | Courtney Roberge |
 | 1299 | 97 | Santana Symes |
 | 1300 | 97 | Morgan Cox |
 | 1301 | 97 | Emily Thai |

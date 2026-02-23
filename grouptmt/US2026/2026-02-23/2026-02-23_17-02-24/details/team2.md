@@ -202,8 +202,8 @@
 | 194 | 1532 | Dee |
 | 195 | 1513 | Offonar Facey |
 | 196 | 1511 | Melissa Penelope Ann Dodge |
-| 197 | 1509 | Whitney Nicole Waterman |
-| 198 | 1509 | Howard Forest |
+| 197 | 1509 | Howard Forest |
+| 198 | 1509 | Whitney Nicole Waterman |
 | 199 | 1507 | Kiok |
 | 200 | 1504 | Hannah Erskine |
 | 201 | 1488 | Sommer Shope |
@@ -282,8 +282,8 @@
 | 274 | 1172 | Stacey Clement |
 | 275 | 1172 | Lakeysha Dortch |
 | 276 | 1171 | Loretta Brewer-Gage |
-| 277 | 1165 | Michelle Lee |
-| 278 | 1165 | Christina Wsn |
+| 277 | 1165 | Christina Wsn |
+| 278 | 1165 | Michelle Lee |
 | 279 | 1163 | Erika Densmore |
 | 280 | 1158 | Brittany Clark |
 | 281 | 1156 | Alezandra Smith |
@@ -309,8 +309,8 @@
 | 301 | 1089 | Tyler C. Jung |
 | 302 | 1089 | Wakanda Forever |
 | 303 | 1086 | Deborah Miller |
-| 304 | 1079 | Angela Bonquiqui Dinish |
-| 305 | 1079 | Jennifer Kistner |
+| 304 | 1079 | Jennifer Kistner |
+| 305 | 1079 | Angela Bonquiqui Dinish |
 | 306 | 1076 | Cindy Sechler Taninecz |
 | 307 | 1073 | Jodi Blake |
 | 308 | 1072 | BK Queen |
@@ -376,8 +376,8 @@
 | 368 | 941 | Cool Clearer |
 | 369 | 939 | Mighty Shatterfit |
 | 370 | 937 | Andrew Willis |
-| 371 | 933 | Nicole Cannon |
-| 372 | 933 | Bee |
+| 371 | 933 | Bee |
+| 372 | 933 | Nicole Cannon |
 | 373 | 929 | Ellie Jonas |
 | 374 | 928 | Elizabeth Wilbanks |
 | 375 | 927 | Christine Egidio Morocco |
@@ -560,8 +560,8 @@
 | 552 | 685 | Jasmine Kenney |
 | 553 | 684 | Sleepypanda67 |
 | 554 | 681 | Gloria Liu |
-| 555 | 679 | Regina Knight |
-| 556 | 679 | Prette Qui |
+| 555 | 679 | Prette Qui |
+| 556 | 679 | Regina Knight |
 | 557 | 679 | Kassandra Hunt |
 | 558 | 677 | Kayleigh Wisse |
 | 559 | 677 | Cynthia Louann Rose |
@@ -605,8 +605,8 @@
 | 597 | 645 | Shiny Twistfit |
 | 598 | 645 | James Smith |
 | 599 | 645 | Andre Love |
-| 600 | 643 | Michelle Pike |
-| 601 | 643 | Stephanie Fortune |
+| 600 | 643 | Stephanie Fortune |
+| 601 | 643 | Michelle Pike |
 | 602 | 642 | snkylnk |
 | 603 | 642 | Michelle Fields |
 | 604 | 641 | Snazzy Basepiece |

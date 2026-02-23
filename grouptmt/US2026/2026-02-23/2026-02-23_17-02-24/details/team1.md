@@ -74,8 +74,8 @@
 | 66 | 892 | Seth Wesson |
 | 67 | 878 | Jacqueline Williams |
 | 68 | 865 | Erin Hodges Plumb |
-| 69 | 864 | comrade fish |
-| 70 | 864 | Sevens4L |
+| 69 | 864 | Sevens4L |
+| 70 | 864 | comrade fish |
 | 71 | 851 | Ashley Elizabeth |
 | 72 | 848 | Drew Magnus |
 | 73 | 783 | Redlicious 1 |
@@ -89,8 +89,8 @@
 | 81 | 713 | Snappy Swiper |
 | 82 | 713 | Robert Benito |
 | 83 | 710 | Jennifer ManWarren |
-| 84 | 706 | Plucky Fallzone |
-| 85 | 706 | Denice Dee |
+| 84 | 706 | Denice Dee |
+| 85 | 706 | Plucky Fallzone |
 | 86 | 704 | Karin Gillen |
 | 87 | 703 | Angel Fowler |
 | 88 | 702 | Kellie |
@@ -375,8 +375,8 @@
 | 367 | 239 | Colleen Wise |
 | 368 | 236 | Marie White |
 | 369 | 236 | Snappy Bridgepiece |
-| 370 | 235 | Ariel Whittington |
-| 371 | 235 | Jumpy Rotate |
+| 370 | 235 | Jumpy Rotate |
+| 371 | 235 | Ariel Whittington |
 | 372 | 234 | Brandie Gallegos |
 | 373 | 233 | Cheeky Crusher |
 | 374 | 233 | Melissa Bires Hussar |
