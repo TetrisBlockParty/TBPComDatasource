@@ -84,8 +84,8 @@
 | 76 | 3166 | Izabel Herrera |
 | 77 | 3099 | Charie Holland |
 | 78 | 2901 | RdRydnHd |
-| 79 | 2880 | Kimberly Schall |
-| 80 | 2880 | Aimee Byrom |
+| 79 | 2880 | Aimee Byrom |
+| 80 | 2880 | Kimberly Schall |
 | 81 | 2870 | Eckoman518 |
 | 82 | 2859 | Jose Vega |
 | 83 | 2846 | Veronica Porter |
@@ -208,8 +208,8 @@
 | 200 | 1534 | Rosa Franklin |
 | 201 | 1524 | Howard Forest |
 | 202 | 1511 | Melissa Penelope Ann Dodge |
-| 203 | 1509 | Glitzy Stackzone |
-| 204 | 1509 | Whitney Nicole Waterman |
+| 203 | 1509 | Whitney Nicole Waterman |
+| 204 | 1509 | Glitzy Stackzone |
 | 205 | 1507 | Kiok |
 | 206 | 1504 | Hannah Erskine |
 | 207 | 1488 | Sommer Shope |
@@ -300,8 +300,8 @@
 | 292 | 1163 | Erika Densmore |
 | 293 | 1161 | Sarah Freitas |
 | 294 | 1158 | Brittany Clark |
-| 295 | 1156 | Arkei Luster |
-| 296 | 1156 | Alezandra Smith |
+| 295 | 1156 | Alezandra Smith |
+| 296 | 1156 | Arkei Luster |
 | 297 | 1150 | Prado |
 | 298 | 1142 | Sheniya Spurgeon |
 | 299 | 1142 | April Dawn Gussler |
@@ -350,8 +350,8 @@
 | 342 | 1041 | Binyah-Binyah |
 | 343 | 1040 | Taylor Phillips |
 | 344 | 1037 | Jessica Wayne Cornwall |
-| 345 | 1036 | Amber Shoemaker |
-| 346 | 1036 | Allison Lockyer |
+| 345 | 1036 | Allison Lockyer |
+| 346 | 1036 | Amber Shoemaker |
 | 347 | 1031 | Barbra Miller |
 | 348 | 1029 | Crystal Hoffman |
 | 349 | 1024 | Susan Perraut Jones |

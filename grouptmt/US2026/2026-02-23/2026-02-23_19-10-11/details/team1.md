@@ -137,8 +137,8 @@
 | 129 | 519 | April Carroll |
 | 130 | 518 | Tanya Carpenter-Reynolds |
 | 131 | 518 | Rachael |
-| 132 | 513 | Colena Davenport |
-| 133 | 513 | Sweet Baker |
+| 132 | 513 | Sweet Baker |
+| 133 | 513 | Colena Davenport |
 | 134 | 512 | BadG52 |
 | 135 | 511 | MomMom |
 | 136 | 502 | Anaid Sanchez |
@@ -161,8 +161,8 @@
 | 153 | 470 | Candy Jones |
 | 154 | 467 | Constance Risner |
 | 155 | 463 | Nicole Roseberry Weber |
-| 156 | 462 | Luciano Moreira |
-| 157 | 462 | Hasty Cascader |
+| 156 | 462 | Hasty Cascader |
+| 157 | 462 | Luciano Moreira |
 | 158 | 460 | Steve Schneider |
 | 159 | 458 | Goose egg |
 | 160 | 454 | ALFD |

@@ -80,8 +80,8 @@
 | 72 | 862 | Carolyn Wallace |
 | 73 | 847 | Peachy Fall |
 | 74 | 846 | Lucille Truesdale |
-| 75 | 846 | Christine Marie |
-| 76 | 846 | Amelpss |
+| 75 | 846 | Amelpss |
+| 76 | 846 | Christine Marie |
 | 77 | 841 | Shauna Havard |
 | 78 | 834 | quicksand420 |
 | 79 | 832 | Lisa Davis |
@@ -116,8 +116,8 @@
 | 108 | 667 | Amy Suckarieh |
 | 109 | 663 | H.R. Block |
 | 110 | 659 | Jamie Gustafson |
-| 111 | 658 | Girl |
-| 112 | 658 | Zippy Gridlock |
+| 111 | 658 | Zippy Gridlock |
+| 112 | 658 | Girl |
 | 113 | 652 | Leslie Nicole |
 | 114 | 649 | Chris Alexinas |
 | 115 | 647 | KM8 |
@@ -224,8 +224,8 @@
 | 216 | 388 | June Hoffman |
 | 217 | 385 | 030Synner |
 | 218 | 383 | blockstar |
-| 219 | 381 | Plucky Patternblock |
-| 220 | 381 | Mimi |
+| 219 | 381 | Mimi |
+| 220 | 381 | Plucky Patternblock |
 | 221 | 380 | Rio Rocha |
 | 222 | 379 | Backoff Recupe |
 | 223 | 378 | Silly Zonebuilder |
@@ -389,16 +389,16 @@
 | 381 | 236 | The Murphy |
 | 382 | 235 | Shainne Brewer |
 | 383 | 235 | LaDonna LovinmesomeMe Lambert |
-| 384 | 234 | Amanda Christine |
-| 385 | 234 | Diosa Ebalobo Magsael |
-| 386 | 234 | Richard-April Kice |
-| 387 | 234 | Shanon Klair |
+| 384 | 234 | Diosa Ebalobo Magsael |
+| 385 | 234 | Amanda Christine |
+| 386 | 234 | Shanon Klair |
+| 387 | 234 | Richard-April Kice |
 | 388 | 233 | Joseph Edmonson |
 | 389 | 232 | Jenny Wells-Oakley |
 | 390 | 230 | Chantilly Laace |
 | 391 | 228 | Bethany Ison |
-| 392 | 227 | Asher |
-| 393 | 227 | Maria Hammie |
+| 392 | 227 | Maria Hammie |
+| 393 | 227 | Asher |
 | 394 | 225 | Jennifer Renee |
 | 395 | 224 | Ultramarine |
 | 396 | 223 | Brave Spinbuilder |
@@ -534,12 +534,12 @@
 | 526 | 172 | Undeniable Williams |
 | 527 | 171 | Terrance Fung |
 | 528 | 171 | Dapper Balancer |
-| 529 | 170 | Peppy Drop |
-| 530 | 170 | Elie Pean |
-| 531 | 170 | Joshua W. Benton |
-| 532 | 170 | Bigeddie |
-| 533 | 169 | Joseph Pace |
-| 534 | 169 | Frances Hui |
+| 529 | 170 | Elie Pean |
+| 530 | 170 | Peppy Drop |
+| 531 | 170 | Bigeddie |
+| 532 | 170 | Joshua W. Benton |
+| 533 | 169 | Frances Hui |
+| 534 | 169 | Joseph Pace |
 | 535 | 169 | Dante Korleon |
 | 536 | 168 | Melissa VanBourgondien |
 | 537 | 167 | Dapper Frame |

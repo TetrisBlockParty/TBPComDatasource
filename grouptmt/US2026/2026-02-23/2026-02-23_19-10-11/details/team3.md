@@ -89,8 +89,8 @@
 | 81 | 1264 | Amanda L Baker |
 | 82 | 1244 | Lori Barnaby |
 | 83 | 1240 | Betty Ivy |
-| 84 | 1213 | Nerdy Riseclear |
-| 85 | 1213 | Snappy Glidepiece |
+| 84 | 1213 | Snappy Glidepiece |
+| 85 | 1213 | Nerdy Riseclear |
 | 86 | 1212 | Amanda Adkins |
 | 87 | 1186 | Christian A. Pollard |
 | 88 | 1158 | Danielle Mogg |
@@ -374,11 +374,11 @@
 | 366 | 351 | Eon Harris |
 | 367 | 348 | Ashley Raines |
 | 368 | 346 | AlsoJess |
-| 369 | 345 | victory |
-| 370 | 345 | gremicx |
+| 369 | 345 | gremicx |
+| 370 | 345 | victory |
 | 371 | 344 | Beaudie Stroebel |
-| 372 | 343 | Ashley Rufus Bythcez |
-| 373 | 343 | Donna |
+| 372 | 343 | Donna |
+| 373 | 343 | Ashley Rufus Bythcez |
 | 374 | 342 | 4girls |
 | 375 | 342 | Cynthia Herrmann Egland |
 | 376 | 341 | Rick Poppen |
