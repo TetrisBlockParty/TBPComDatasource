@@ -127,10 +127,10 @@
 | 119 | 428 | Ly Phethmany |
 | 120 | 425 | Dandy Basegrid |
 | 121 | 417 | Lori Sanders- Davis |
-| 122 | 409 | Goose egg |
-| 123 | 409 | Yvonne Marie |
-| 124 | 406 | Desiree Deschaine Havee |
-| 125 | 406 | Candy Jones |
+| 122 | 409 | Yvonne Marie |
+| 123 | 409 | Goose egg |
+| 124 | 406 | Candy Jones |
+| 125 | 406 | Desiree Deschaine Havee |
 | 126 | 402 | Chris K |
 | 127 | 400 | Maria C. Hernandez |
 | 128 | 399 | Nery Martinez |
@@ -231,12 +231,12 @@
 | 223 | 271 | Sam Williams |
 | 224 | 270 | Debbie Kane |
 | 225 | 265 | Kandae |
-| 226 | 264 | Jenny Gingrich Fuentes |
-| 227 | 264 | Standia Civil |
+| 226 | 264 | Standia Civil |
+| 227 | 264 | Jenny Gingrich Fuentes |
 | 228 | 263 | Jessie Lynn |
 | 229 | 261 | John J. Cronin |
-| 230 | 260 | Lacy Wolfe |
-| 231 | 260 | Marianita Garcia |
+| 230 | 260 | Marianita Garcia |
+| 231 | 260 | Lacy Wolfe |
 | 232 | 258 | Perky Shiftsnap |
 | 233 | 257 | Lakeisha Chapman |
 | 234 | 256 | Snappy Matcher |
@@ -252,8 +252,8 @@
 | 244 | 244 | Eddie Dillon |
 | 245 | 242 | ParisandCory Champagne |
 | 246 | 241 | Tyler Hertzog |
-| 247 | 240 | Daring Fitclear |
-| 248 | 240 | DaRascal |
+| 247 | 240 | DaRascal |
+| 248 | 240 | Daring Fitclear |
 | 249 | 238 | Tiffany Smith |
 | 250 | 234 | Paula Martin |
 | 251 | 233 | Melissa Bires Hussar |

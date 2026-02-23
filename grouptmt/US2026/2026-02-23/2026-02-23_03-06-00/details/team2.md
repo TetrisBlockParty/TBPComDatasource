@@ -40,8 +40,8 @@
 | 32 | 4274 | Vistabrat |
 | 33 | 4199 | Claire Noland |
 | 34 | 4128 | Angela Pruitt |
-| 35 | 4120 | Corrine Hawks Soriano |
-| 36 | 4120 | Kristen Sceurman |
+| 35 | 4120 | Kristen Sceurman |
+| 36 | 4120 | Corrine Hawks Soriano |
 | 37 | 4093 | Jill Stroehlein |
 | 38 | 3895 | Nickie Baby |
 | 39 | 3770 | Brittany Alicia |
@@ -100,8 +100,8 @@
 | 92 | 2170 | Steve Grotto |
 | 93 | 2165 | Tj Ball |
 | 94 | 2155 | Qiana Sanders |
-| 95 | 2148 | Roger Grabbit |
-| 96 | 2148 | ShinyRose |
+| 95 | 2148 | ShinyRose |
+| 96 | 2148 | Roger Grabbit |
 | 97 | 2146 | KellyDyan |
 | 98 | 2127 | Murrae Lynn Rebarchek |
 | 99 | 2106 | Cool Rollpiece |
@@ -347,8 +347,8 @@
 | 339 | 831 | Christina Lewis-Vickers |
 | 340 | 830 | Diallo Sparkman |
 | 341 | 828 | Nicole Cannon |
-| 342 | 824 | Danielle Johnson-Chandler |
-| 343 | 824 | Khalil Lowe |
+| 342 | 824 | Khalil Lowe |
+| 343 | 824 | Danielle Johnson-Chandler |
 | 344 | 823 | Alezandra Smith |
 | 345 | 821 | Angie Bolton Workman |
 | 346 | 821 | Cassie Mercer |
@@ -378,8 +378,8 @@
 | 370 | 782 | Beth |
 | 371 | 781 | Kathryn Townsley |
 | 372 | 779 | Kayla |
-| 373 | 777 | Jessicah Myers |
-| 374 | 777 | Tesha Oldaker |
+| 373 | 777 | Tesha Oldaker |
+| 374 | 777 | Jessicah Myers |
 | 375 | 776 | Hyper Cluster |
 | 376 | 772 | Danielle Simmons |
 | 377 | 769 | Melissa Cole |

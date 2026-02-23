@@ -174,8 +174,8 @@
 | 166 | 358 | A5! |
 | 167 | 356 | George Nutt |
 | 168 | 352 | Sue Joyce Staats |
-| 169 | 349 | Twisty Cascadezone |
-| 170 | 349 | Rafael Valentin |
+| 169 | 349 | Rafael Valentin |
+| 170 | 349 | Twisty Cascadezone |
 | 171 | 348 | TRCuse |
 | 172 | 348 | April Rondinone |
 | 173 | 347 | Daria Rycewicz |
@@ -223,8 +223,8 @@
 | 215 | 281 | Nikki Rae Gordon |
 | 216 | 281 | Laura |
 | 217 | 277 | Zesty Twistbuilder |
-| 218 | 276 | Matt Dell'Olio |
-| 219 | 276 | Joeliecea Cobb |
+| 218 | 276 | Joeliecea Cobb |
+| 219 | 276 | Matt Dell'Olio |
 | 220 | 273 | Casey Grabner |
 | 221 | 272 | Dennis Bradley |
 | 222 | 272 | Alan George LaRage |
@@ -329,12 +329,12 @@
 | 321 | 194 | Zany Twisterfit |
 | 322 | 194 | SammieJo Guy |
 | 323 | 192 | Twisty Risebuilder |
-| 324 | 191 | Norman Klick |
-| 325 | 191 | Earnest Thompson |
+| 324 | 191 | Earnest Thompson |
+| 325 | 191 | Norman Klick |
 | 326 | 190 | wombat |
 | 327 | 189 | Lauren Lamb |
 | 328 | 189 | Berklie Apedaile |
-| 329 | 187 | Nita Wells |
+| 329 | 187 | Hyper Builder |
 | 330 | 187 | Cynthia Boudreau |
 | 331 | 187 | Nita Wells |
 | 332 | 186 | Shanon Klair |

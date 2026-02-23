@@ -266,8 +266,8 @@
 | 258 | 357 | Stephanie Burtin |
 | 259 | 354 | Kelly |
 | 260 | 353 | Dee Franklin |
-| 261 | 352 | Christian Werndl |
-| 262 | 352 | Samantha Lynn |
+| 261 | 352 | Samantha Lynn |
+| 262 | 352 | Christian Werndl |
 | 263 | 351 | Eon Harris |
 | 264 | 350 | Rania Zaqout |
 | 265 | 349 | Amanda J. Mcneil-Anderson |
@@ -382,8 +382,8 @@
 | 374 | 250 | Eric Caccavale |
 | 375 | 249 | Willow |
 | 376 | 248 | Jul |
-| 377 | 247 | Daring Builder |
-| 378 | 247 | Jessica |
+| 377 | 247 | Jessica |
+| 378 | 247 | Daring Builder |
 | 379 | 246 | gremicx |
 | 380 | 245 | Colleen Phelps |
 | 381 | 245 | Latoya Mayne |
@@ -435,8 +435,8 @@
 | 427 | 227 | Meowsa |
 | 428 | 226 | Danielle Beaunoyer Jean |
 | 429 | 226 | Jana Polk |
-| 430 | 225 | Beezwax |
-| 431 | 225 | Sassy Tiler |
+| 430 | 225 | Sassy Tiler |
+| 431 | 225 | Beezwax |
 | 432 | 224 | Sarah Morris |
 | 433 | 222 | Eileen Brady Thurber |
 | 434 | 221 | Vaners |
@@ -450,9 +450,9 @@
 | 442 | 218 | Khaleada McGill Banks |
 | 443 | 218 | Andrew Thorson |
 | 444 | 218 | Tina Smith Roy |
-| 445 | 217 | Goofy Fall |
-| 446 | 217 | Katie Leigh Blankenship |
-| 447 | 217 | Heather Bateman |
+| 445 | 217 | Heather Bateman |
+| 446 | 217 | Goofy Fall |
+| 447 | 217 | Katie Leigh Blankenship |
 | 448 | 214 | Amy Fuller Heaton |
 | 449 | 213 | Linda Draper |
 | 450 | 213 | Arden White Kirsch |
