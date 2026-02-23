@@ -132,8 +132,8 @@
 | 124 | 1935 | Erica Williams |
 | 125 | 1932 | Gary Schaffner Jr. |
 | 126 | 1931 | Angi Harrison |
-| 127 | 1899 | Jamie Main |
-| 128 | 1899 | Jumpy Gridpiece |
+| 127 | 1899 | Jumpy Gridpiece |
+| 128 | 1899 | Jamie Main |
 | 129 | 1890 | Aimee Byrom |
 | 130 | 1887 | Tonya Brooks-Johnson |
 | 131 | 1874 | Goofy Snapfit |
@@ -278,8 +278,8 @@
 | 270 | 1079 | Kimberly Hauck-Rausch |
 | 271 | 1073 | Jodi Blake |
 | 272 | 1071 | Kim Dean |
-| 273 | 1069 | Offonar Facey |
-| 274 | 1069 | Carl Bradshaw |
+| 273 | 1069 | Carl Bradshaw |
+| 274 | 1069 | Offonar Facey |
 | 275 | 1064 | BK Queen |
 | 276 | 1063 | Caitlin Schmid |
 | 277 | 1058 | Rickey Johnson |
@@ -419,8 +419,8 @@
 | 411 | 790 | Brenda Pierpoint |
 | 412 | 788 | Erika Densmore |
 | 413 | 783 | John Rodriguez |
-| 414 | 777 | Tesha Oldaker |
-| 415 | 777 | Jessicah Myers |
+| 414 | 777 | Jessicah Myers |
+| 415 | 777 | Tesha Oldaker |
 | 416 | 776 | Fancy Twister |
 | 417 | 776 | Mighty Spinbuilder |
 | 418 | 775 | Crystie Hicks |
@@ -460,8 +460,8 @@
 | 452 | 737 | Ginger |
 | 453 | 737 | Chelle |
 | 454 | 732 | Victoria Moore-Smith |
-| 455 | 731 | Charvi' Carter |
-| 456 | 731 | Matthew Joseph Acevedo |
+| 455 | 731 | Matthew Joseph Acevedo |
+| 456 | 731 | Charvi' Carter |
 | 457 | 730 | Hoppy Brickmatch |
 | 458 | 729 | goofinoff |
 | 459 | 728 | Mikayala Szaz |
@@ -510,12 +510,12 @@
 | 502 | 680 | blume |
 | 503 | 679 | Kassandra Hunt |
 | 504 | 679 | Prette Qui |
-| 505 | 677 | Paul Combs |
-| 506 | 677 | Jackie Burnett |
+| 505 | 677 | Jackie Burnett |
+| 506 | 677 | Paul Combs |
 | 507 | 677 | Kayleigh Wisse |
 | 508 | 677 | Amanda Woodruff |
-| 509 | 676 | Roseanna Peloso |
-| 510 | 676 | Nicky Jackson |
+| 509 | 676 | Nicky Jackson |
+| 510 | 676 | Roseanna Peloso |
 | 511 | 675 | Lonne Emade |
 | 512 | 675 | Katelynn Hollen |
 | 513 | 674 | Ashley Munn |
@@ -581,8 +581,8 @@
 | 573 | 612 | Briana Alexander |
 | 574 | 612 | Slinky Racker |
 | 575 | 610 | Michael Buckner |
-| 576 | 609 | Autumn Schaeffer |
-| 577 | 609 | Cecilia A Jenkins |
+| 576 | 609 | Cecilia A Jenkins |
+| 577 | 609 | Autumn Schaeffer |
 | 578 | 607 | James Smith |
 | 579 | 607 | Miranda Morris |
 | 580 | 606 | Lea Stewart |

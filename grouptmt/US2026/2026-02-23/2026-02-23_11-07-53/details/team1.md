@@ -108,8 +108,8 @@
 | 100 | 529 | Ryan Lunnin |
 | 101 | 522 | Sarah Lombardo |
 | 102 | 511 | Mario Cab |
-| 103 | 510 | Colena Davenport |
-| 104 | 510 | Chirpy Smasher |
+| 103 | 510 | Chirpy Smasher |
+| 104 | 510 | Colena Davenport |
 | 105 | 509 | Rachael |
 | 106 | 502 | Anaid Sanchez |
 | 107 | 497 | Arianna O'Brien |
@@ -133,8 +133,8 @@
 | 125 | 452 | Hyper |
 | 126 | 451 | Plucky Ziggy |
 | 127 | 450 | lil mickey |
-| 128 | 448 | Jazzy Framezone |
-| 129 | 448 | Sweet Baker |
+| 128 | 448 | Sweet Baker |
+| 129 | 448 | Jazzy Framezone |
 | 130 | 446 | SkipTheSadSauce |
 | 131 | 443 | Steve Schneider |
 | 132 | 440 | femmefatale |
@@ -466,7 +466,7 @@
 | 458 | 170 | ESC |
 | 459 | 170 | William Cry |
 | 460 | 169 | Josh Smith |
-| 461 | 169 | Ashley Adams |
+| 461 | 169 | Randy Broadwater |
 | 462 | 169 | Tyler Whitley |
 | 463 | 169 | Ashley Adams |
 | 464 | 169 | Abbey Crespo |
