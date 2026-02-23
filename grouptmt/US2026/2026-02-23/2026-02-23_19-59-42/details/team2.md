@@ -443,8 +443,8 @@
 | 435 | 877 | Misti Markijohn |
 | 436 | 876 | Jessicah Myers |
 | 437 | 870 | Joy LaJeunesse |
-| 438 | 869 | Venita Ray |
-| 439 | 869 | BYM4L |
+| 438 | 869 | BYM4L |
+| 439 | 869 | Venita Ray |
 | 440 | 868 | Jelly |
 | 441 | 865 | Kiely Tomaskovich |
 | 442 | 862 | Sarah Massey |

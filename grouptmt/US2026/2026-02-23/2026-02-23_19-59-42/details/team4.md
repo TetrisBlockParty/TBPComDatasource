@@ -82,8 +82,8 @@
 | 74 | 862 | Carolyn Wallace |
 | 75 | 855 | Peachy Fall |
 | 76 | 850 | Lucille Truesdale |
-| 77 | 846 | Amelpss |
-| 78 | 846 | Christine Marie |
+| 77 | 846 | Christine Marie |
+| 78 | 846 | Amelpss |
 | 79 | 841 | Shauna Havard |
 | 80 | 837 | Lisa Davis |
 | 81 | 834 | quicksand420 |
@@ -117,8 +117,8 @@
 | 109 | 667 | Amy Suckarieh |
 | 110 | 663 | H.R. Block |
 | 111 | 659 | Jamie Gustafson |
-| 112 | 658 | Zippy Gridlock |
-| 113 | 658 | Girl |
+| 112 | 658 | Girl |
+| 113 | 658 | Zippy Gridlock |
 | 114 | 652 | Leslie Nicole |
 | 115 | 649 | Chris Alexinas |
 | 116 | 647 | KM8 |
@@ -478,8 +478,8 @@
 | 470 | 199 | Eri Kka |
 | 471 | 199 | Grann8 |
 | 472 | 199 | Michelle Morris |
-| 473 | 198 | Calvin Dennis |
-| 474 | 198 | Helen Chao |
+| 473 | 198 | Helen Chao |
+| 474 | 198 | Calvin Dennis |
 | 475 | 197 | ChasingZen |
 | 476 | 197 | Cozy Balancer |
 | 477 | 197 | Sholom Fried |
@@ -522,8 +522,8 @@
 | 514 | 180 | Ron |
 | 515 | 180 | Nig |
 | 516 | 179 | Elle Joe |
-| 517 | 179 | JoAnna Zalkovsky |
-| 518 | 179 | Vamp |
+| 517 | 179 | Vamp |
+| 518 | 179 | JoAnna Zalkovsky |
 | 519 | 179 | Joseph Gray |
 | 520 | 178 | Laurel Coppess |
 | 521 | 178 | Nerdy Linebuilder |

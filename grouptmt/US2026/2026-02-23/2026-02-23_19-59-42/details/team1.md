@@ -166,8 +166,8 @@
 | 158 | 467 | Constance Risner |
 | 159 | 463 | Brandi Huntington |
 | 160 | 463 | Nicole Roseberry Weber |
-| 161 | 462 | Luciano Moreira |
-| 162 | 462 | Hasty Cascader |
+| 161 | 462 | Hasty Cascader |
+| 162 | 462 | Luciano Moreira |
 | 163 | 458 | Goose egg |
 | 164 | 450 | lil mickey |
 | 165 | 449 | Snappy Matcher |
@@ -433,8 +433,8 @@
 | 425 | 221 | Spunky Builderpiece |
 | 426 | 220 | Bay Marie |
 | 427 | 219 | Breanna Luna |
-| 428 | 219 | Negan Mallory Knoxx Spence |
-| 429 | 219 | Jeanna Dunn |
+| 428 | 219 | Jeanna Dunn |
+| 429 | 219 | Negan Mallory Knoxx Spence |
 | 430 | 218 | Jason Benitez |
 | 431 | 217 | Brave Slice |
 | 432 | 217 | Lyn Sibayan |

@@ -222,8 +222,8 @@
 | 214 | 569 | Michael Johnson |
 | 215 | 568 | Rachael McClain Owens |
 | 216 | 566 | LaTanya GeminiondaRise Johnson |
-| 217 | 564 | Christine Trester |
-| 218 | 564 | Poppy Splitter |
+| 217 | 564 | Poppy Splitter |
+| 218 | 564 | Christine Trester |
 | 219 | 563 | FuzzyNavel |
 | 220 | 562 | Dave Herzog |
 | 221 | 561 | Silly Twist |
@@ -297,8 +297,8 @@
 | 289 | 434 | Daring Builder |
 | 290 | 432 | Luciana Braganca Vieira |
 | 291 | 431 | Wendy Dearden |
-| 292 | 430 | Quackers |
-| 293 | 430 | Jeni Dow |
+| 292 | 430 | Jeni Dow |
+| 293 | 430 | Quackers |
 | 294 | 429 | Carrie Huskey |
 | 295 | 428 | Gumbo |
 | 296 | 425 | Jennifer Alvey |
@@ -336,8 +336,8 @@
 | 328 | 383 | Skippy |
 | 329 | 382 | Amanda J. Mcneil-Anderson |
 | 330 | 381 | Noettín Kan Zasnemoore |
-| 331 | 379 | Kaitie Oliver |
-| 332 | 379 | Kelly |
+| 331 | 379 | Kelly |
+| 332 | 379 | Kaitie Oliver |
 | 333 | 378 | MsBee |
 | 334 | 377 | Hoppy Patternline |
 | 335 | 375 | Joy Petroski |
