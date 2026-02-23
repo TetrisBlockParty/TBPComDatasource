@@ -219,8 +219,8 @@
 | 211 | 437 | Loopy Clusterer |
 | 212 | 436 | Danielle Weikel |
 | 213 | 435 | Fallorina Susana |
-| 214 | 432 | Luciana Braganca Vieira |
-| 215 | 432 | Christine Trester |
+| 214 | 432 | Christine Trester |
+| 215 | 432 | Luciana Braganca Vieira |
 | 216 | 431 | Wendy Dearden |
 | 217 | 431 | Felicia Rocha |
 | 218 | 430 | Jeni Dow |
@@ -265,8 +265,8 @@
 | 257 | 364 | Steffi Chris Dacones |
 | 258 | 362 | Brandon Givens |
 | 259 | 359 | Sleepy |
-| 260 | 357 | Stephanie Burtin |
-| 261 | 357 | Cesar Barraza |
+| 260 | 357 | Cesar Barraza |
+| 261 | 357 | Stephanie Burtin |
 | 262 | 357 | Ammmmmmy |
 | 263 | 354 | Kelly |
 | 264 | 353 | Dee Franklin |
@@ -464,8 +464,8 @@
 | 456 | 217 | Katie Leigh Blankenship |
 | 457 | 217 | Tia Moore |
 | 458 | 214 | Amy Fuller Heaton |
-| 459 | 213 | Arden White Kirsch |
-| 460 | 213 | Linda Draper |
+| 459 | 213 | Linda Draper |
+| 460 | 213 | Arden White Kirsch |
 | 461 | 213 | Ktfreeee |
 | 462 | 212 | Chris Wallace |
 | 463 | 212 | neci |

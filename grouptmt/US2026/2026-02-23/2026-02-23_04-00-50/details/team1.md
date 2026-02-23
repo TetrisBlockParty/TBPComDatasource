@@ -84,8 +84,8 @@
 | 76 | 646 | Susanna Guerry |
 | 77 | 641 | Cartier |
 | 78 | 599 | Cynthia Bradley |
-| 79 | 598 | Erin Hodges Plumb |
-| 80 | 598 | Kellie |
+| 79 | 598 | Kellie |
+| 80 | 598 | Erin Hodges Plumb |
 | 81 | 588 | Greg Hart |
 | 82 | 584 | Jen Sartain |
 | 83 | 583 | Theo Pinnow |
@@ -102,8 +102,8 @@
 | 94 | 519 | Ryan Lunnin |
 | 95 | 510 | Colena Davenport |
 | 96 | 496 | Arianna O'Brien |
-| 97 | 493 | MomMom |
-| 98 | 493 | Jennifer ManWarren |
+| 97 | 493 | Jennifer ManWarren |
+| 98 | 493 | MomMom |
 | 99 | 492 | Ash Galvan |
 | 100 | 489 | Deanna L Hermanson |
 | 101 | 488 | cc |

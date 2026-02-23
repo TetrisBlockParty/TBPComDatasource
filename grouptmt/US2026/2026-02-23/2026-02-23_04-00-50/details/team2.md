@@ -104,8 +104,8 @@
 | 96 | 2170 | Steve Grotto |
 | 97 | 2165 | Tj Ball |
 | 98 | 2155 | Qiana Sanders |
-| 99 | 2148 | Roger Grabbit |
-| 100 | 2148 | ShinyRose |
+| 99 | 2148 | ShinyRose |
+| 100 | 2148 | Roger Grabbit |
 | 101 | 2146 | KellyDyan |
 | 102 | 2106 | Cool Rollpiece |
 | 103 | 2103 | Alisha Peoples |
@@ -211,8 +211,8 @@
 | 203 | 1252 | Angel |
 | 204 | 1243 | Anna Edwards |
 | 205 | 1237 | Megan Ferguson Leone |
-| 206 | 1232 | Ambyre Patterson |
-| 207 | 1232 | Groovy Puzzle |
+| 206 | 1232 | Groovy Puzzle |
+| 207 | 1232 | Ambyre Patterson |
 | 208 | 1230 | Megan Garrick |
 | 209 | 1217 | Lucky Ladybug |
 | 210 | 1217 | Brooks Brooks |
@@ -397,8 +397,8 @@
 | 389 | 769 | Kimberly Hope Howell |
 | 390 | 768 | Arkei Luster |
 | 391 | 768 | Joshua Self |
-| 392 | 767 | Ashley Lopez |
-| 393 | 767 | Fancy Twister |
+| 392 | 767 | Fancy Twister |
+| 393 | 767 | Ashley Lopez |
 | 394 | 763 | Dreamy Blast |
 | 395 | 763 | Heather Causey |
 | 396 | 760 | Andrew Willis |
@@ -1035,8 +1035,8 @@
 | 1027 | 335 | FloJo |
 | 1028 | 335 | Nancy Pohlman |
 | 1029 | 335 | Brooke Leigh Strube |
-| 1030 | 334 | Tina Wright-Quigley |
-| 1031 | 334 | Toni Lynn |
+| 1030 | 334 | Toni Lynn |
+| 1031 | 334 | Tina Wright-Quigley |
 | 1032 | 333 | Dad |
 | 1033 | 333 | Erika Deer Kauffman |
 | 1034 | 333 | Paula Martinez |
