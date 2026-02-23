@@ -26,8 +26,8 @@
 | 18 | 1636 | Cassie Michaux |
 | 19 | 1565 | GreenJeepGirl |
 | 20 | 1558 | Leah Gorsuch |
-| 21 | 1536 | Misty Hollibaugh |
-| 22 | 1536 | Roger Coulter |
+| 21 | 1536 | Roger Coulter |
+| 22 | 1536 | Misty Hollibaugh |
 | 23 | 1485 | Juggalo |
 | 24 | 1390 | Sammy Noguera |
 | 25 | 1382 | Tammi Crnza |
@@ -75,8 +75,8 @@
 | 67 | 787 | loulou |
 | 68 | 767 | Shannon Ferrari |
 | 69 | 766 | Robin Watters |
-| 70 | 765 | Denise Carlson |
-| 71 | 765 | Robin Getchel |
+| 70 | 765 | Robin Getchel |
+| 71 | 765 | Denise Carlson |
 | 72 | 752 | Shane Kalamata Platoon |
 | 73 | 749 | Dustee Craddock-Harrison |
 | 74 | 747 | TheNeesh50 |
@@ -156,8 +156,8 @@
 | 148 | 418 | Lush Linkfall |
 | 149 | 418 | Marie-Pier Desjardins |
 | 150 | 416 | Chaz Duncan |
-| 151 | 414 | Swanky Fitline |
-| 152 | 414 | Nope Young |
+| 151 | 414 | Nope Young |
+| 152 | 414 | Swanky Fitline |
 | 153 | 413 | Circuit8 |
 | 154 | 412 | Jessica Bohlken |
 | 155 | 408 | Amanda Pauldo-Ivy |
@@ -257,8 +257,8 @@
 | 249 | 272 | Dennis Bradley |
 | 250 | 271 | Holly |
 | 251 | 270 | Jen Caldwell |
-| 252 | 266 | Tracey Lehmann |
-| 253 | 266 | Nubian1 |
+| 252 | 266 | Nubian1 |
+| 253 | 266 | Tracey Lehmann |
 | 254 | 266 | Mr. Party |
 | 255 | 265 | Degenerate |
 | 256 | 265 | Silly SeaWeed |
@@ -269,11 +269,11 @@
 | 261 | 262 | Selena Shaw |
 | 262 | 262 | BigSammy420 |
 | 263 | 261 | Zethra Prenisha Rahming |
-| 264 | 260 | Carter Jones |
-| 265 | 260 | Lori |
-| 266 | 259 | Allen Lloyd |
-| 267 | 259 | Montiette Mcglown |
-| 268 | 259 | John Brunetti |
+| 264 | 260 | Lori |
+| 265 | 260 | Carter Jones |
+| 266 | 259 | John Brunetti |
+| 267 | 259 | Allen Lloyd |
+| 268 | 259 | Montiette Mcglown |
 | 269 | 257 | PeaceOs |
 | 270 | 256 | Jade Rian |
 | 271 | 256 | Paige Kittles |

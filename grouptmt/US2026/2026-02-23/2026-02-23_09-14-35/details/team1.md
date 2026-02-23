@@ -98,8 +98,8 @@
 | 90 | 575 | Nancy Green |
 | 91 | 570 | Cody Slav |
 | 92 | 562 | Denice Dee |
-| 93 | 534 | Loony Fitzone |
-| 94 | 534 | Veronica Eve |
+| 93 | 534 | Veronica Eve |
+| 94 | 534 | Loony Fitzone |
 | 95 | 529 | Ryan Lunnin |
 | 96 | 522 | Sarah Lombardo |
 | 97 | 511 | Mario Cab |
@@ -112,10 +112,10 @@
 | 104 | 493 | Jennifer ManWarren |
 | 105 | 492 | Ash Galvan |
 | 106 | 491 | cc |
-| 107 | 489 | Deanna L Hermanson |
-| 108 | 489 | April Carroll |
-| 109 | 483 | Trina Gee |
-| 110 | 483 | Tdub |
+| 107 | 489 | April Carroll |
+| 108 | 489 | Deanna L Hermanson |
+| 109 | 483 | Tdub |
+| 110 | 483 | Trina Gee |
 | 111 | 480 | Ty Brown |
 | 112 | 478 | Stephanie Zahn |
 | 113 | 477 | Tonya Beasley |
@@ -138,14 +138,14 @@
 | 130 | 429 | Kristi Johnson |
 | 131 | 428 | Ly Phethmany |
 | 132 | 426 | Maria C. Hernandez |
-| 133 | 425 | Dandy Basegrid |
-| 134 | 425 | Tyler Werts |
+| 133 | 425 | Tyler Werts |
+| 134 | 425 | Dandy Basegrid |
 | 135 | 423 | ALFD |
 | 136 | 421 | And |
 | 137 | 417 | Phu ckalldems |
 | 138 | 411 | BadG52 |
-| 139 | 406 | Candy Jones |
-| 140 | 406 | Desiree Deschaine Havee |
+| 139 | 406 | Desiree Deschaine Havee |
+| 140 | 406 | Candy Jones |
 | 141 | 402 | Chris K |
 | 142 | 399 | Nery Martinez |
 | 143 | 397 | Mike Ames |
@@ -207,14 +207,14 @@
 | 199 | 324 | Rat666 |
 | 200 | 323 | Madison Wicks |
 | 201 | 322 | Letson Melissa |
-| 202 | 317 | Sarah Roberts |
-| 203 | 317 | Kimberly Garcia |
+| 202 | 317 | Kimberly Garcia |
+| 203 | 317 | Sarah Roberts |
 | 204 | 316 | Reesey Enyart |
 | 205 | 315 | Danielle Little-Daugherty |
-| 206 | 314 | Tana |
-| 207 | 314 | Snippy Wipebuilder |
-| 208 | 312 | Tiger Lily |
-| 209 | 312 | Jessi Sauer |
+| 206 | 314 | Snippy Wipebuilder |
+| 207 | 314 | Tana |
+| 208 | 312 | Jessi Sauer |
+| 209 | 312 | Tiger Lily |
 | 210 | 310 | Bloknboy |
 | 211 | 308 | Speedy Liney |
 | 212 | 306 | Angela Renea Lester |
@@ -222,11 +222,11 @@
 | 214 | 301 | Damon J. Martin |
 | 215 | 301 | Cody Gates |
 | 216 | 300 | Sleepysloath5745 |
-| 217 | 298 | Sweetts |
-| 218 | 298 | Billie Ann Eason |
+| 217 | 298 | Billie Ann Eason |
+| 218 | 298 | Sweetts |
 | 219 | 295 | Lakeisha Chapman |
-| 220 | 294 | Chuck Gannon |
-| 221 | 294 | Bindi |
+| 220 | 294 | Bindi |
+| 221 | 294 | Chuck Gannon |
 | 222 | 293 | John Kim |
 | 223 | 291 | Brave Wrecker |
 | 224 | 291 | Giddy Cascade |
@@ -253,8 +253,8 @@
 | 245 | 272 | Barrbaric |
 | 246 | 272 | Tawnya Peltonen |
 | 247 | 271 | Frothy Pattern |
-| 248 | 270 | Debbie Kane |
-| 249 | 270 | Brenda Alexander |
+| 248 | 270 | Brenda Alexander |
+| 249 | 270 | Debbie Kane |
 | 250 | 268 | Standia Civil |
 | 251 | 267 | Daring Fitclear |
 | 252 | 266 | Alenoush Karimian |
@@ -310,8 +310,8 @@
 | 302 | 229 | Dino |
 | 303 | 228 | .running. |
 | 304 | 227 | Happy Snapbuild |
-| 305 | 226 | Glitzy Buildsnap |
-| 306 | 226 | Snappy Brickbuilder |
+| 305 | 226 | Snappy Brickbuilder |
+| 306 | 226 | Glitzy Buildsnap |
 | 307 | 225 | Angela Spann |
 | 308 | 224 | Jumpy Rotate |
 | 309 | 224 | Sunny Shift |
@@ -439,8 +439,8 @@
 | 431 | 175 | Kellie Tunstall |
 | 432 | 174 | Alex Gauthier |
 | 433 | 173 | Mary Crisp |
-| 434 | 172 | Sylvia Vasquez |
-| 435 | 172 | Ruthie Mahoney Saunders-Browne |
+| 434 | 172 | Ruthie Mahoney Saunders-Browne |
+| 435 | 172 | Sylvia Vasquez |
 | 436 | 171 | Bruce Cruz |
 | 437 | 171 | Greg Premoe |
 | 438 | 170 | Jessie |
@@ -556,7 +556,7 @@
 | 548 | 136 | Jennifer Chilton-Metlock |
 | 549 | 135 | Giggly Rollfit |
 | 550 | 135 | Amanda Marie Sutton |
-| 551 | 135 | Giggly Rollfit |
+| 551 | 135 | Divaaa |
 | 552 | 134 | Angela Rena Brooks |
 | 553 | 133 | Jason Cox |
 | 554 | 133 | MayMay Echevarria |

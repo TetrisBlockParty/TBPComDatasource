@@ -163,8 +163,8 @@
 | 155 | 646 | Bea Miles |
 | 156 | 634 | Amber Hughes |
 | 157 | 630 | yoyo |
-| 158 | 621 | Sashay Tapae Simpson |
-| 159 | 621 | Cherry Parker |
+| 158 | 621 | Cherry Parker |
+| 159 | 621 | Sashay Tapae Simpson |
 | 160 | 616 | Kammy Hill |
 | 161 | 611 | Rochelle Hazelett |
 | 162 | 607 | Grego Daniel |
@@ -197,13 +197,13 @@
 | 189 | 546 | Cynthia Castros-Hampton |
 | 190 | 546 | Mykal Burton |
 | 191 | 540 | Shawn Miller |
-| 192 | 531 | Chauntee Alfrey-Cardinale |
-| 193 | 531 | Sarah Cowan Burgos |
+| 192 | 531 | Sarah Cowan Burgos |
+| 193 | 531 | Chauntee Alfrey-Cardinale |
 | 194 | 528 | Silly Twist |
 | 195 | 525 | Stephanie Blkpep Davidson |
 | 196 | 524 | Bmo |
-| 197 | 519 | Terry Jo Jones |
-| 198 | 519 | rnr junky |
+| 197 | 519 | rnr junky |
+| 198 | 519 | Terry Jo Jones |
 | 199 | 515 | Cozy Snaplink |
 | 200 | 510 | Makelini Mausia |
 | 201 | 503 | Tye Stovall |
@@ -286,8 +286,8 @@
 | 278 | 360 | Cesar Barraza |
 | 279 | 359 | Sleepy |
 | 280 | 358 | Roary Danner |
-| 281 | 354 | Eileen Brady Thurber |
-| 282 | 354 | Andrew Thorson |
+| 281 | 354 | Andrew Thorson |
+| 282 | 354 | Eileen Brady Thurber |
 | 283 | 354 | Kelly |
 | 284 | 353 | Dee Franklin |
 | 285 | 353 | Cyd061769 |
@@ -439,8 +439,8 @@
 | 431 | 245 | Latoya Mayne |
 | 432 | 245 | LaNette Morgan |
 | 433 | 244 | Beezwax |
-| 434 | 243 | Paula Little |
-| 435 | 243 | Christy Quick |
+| 434 | 243 | Christy Quick |
+| 435 | 243 | Paula Little |
 | 436 | 243 | Nicholas Roddy |
 | 437 | 242 | Fancy Curver |
 | 438 | 242 | Michael Latasha Gray |
@@ -498,8 +498,8 @@
 | 490 | 218 | Dapper Chiseler |
 | 491 | 218 | Tina Smith Roy |
 | 492 | 217 | Heather Bateman |
-| 493 | 217 | Tia Moore |
-| 494 | 217 | Katie Leigh Blankenship |
+| 493 | 217 | Katie Leigh Blankenship |
+| 494 | 217 | Tia Moore |
 | 495 | 216 | Amanda Declue |
 | 496 | 214 | Crystal Hine |
 | 497 | 214 | Amy Fuller Heaton |
@@ -584,13 +584,13 @@
 | 576 | 189 | Sameerah Smith |
 | 577 | 188 | Bree Sexton |
 | 578 | 188 | Amber Groover Taylor |
-| 579 | 187 | luluraine |
-| 580 | 187 | Stephanie Sanchez |
-| 581 | 187 | Tiffany Marler |
-| 582 | 187 | Kelly Koenig |
+| 579 | 187 | Stephanie Sanchez |
+| 580 | 187 | luluraine |
+| 581 | 187 | Kelly Koenig |
+| 582 | 187 | Tiffany Marler |
 | 583 | 187 | Crystal Johnson |
-| 584 | 186 | Funky Jumper |
-| 585 | 186 | Rayzer |
+| 584 | 186 | Rayzer |
+| 585 | 186 | Funky Jumper |
 | 586 | 185 | Ashley Kennedy |
 | 587 | 185 | Breezy Roll |
 | 588 | 184 | Shanon R Jackson |
@@ -621,11 +621,11 @@
 | 613 | 179 | Ruchi Smit |
 | 614 | 178 | Jillian Ann |
 | 615 | 178 | Melissa Snyder |
-| 616 | 178 | Draone Grayson |
-| 617 | 178 | Melissa Snyder |
+| 616 | 178 | Kathleen Taylor |
+| 617 | 178 | Draone Grayson |
 | 618 | 177 | Anna Moeller |
-| 619 | 177 | Elizabeth Renee |
-| 620 | 177 | Matty Ray |
+| 619 | 177 | Matty Ray |
+| 620 | 177 | Elizabeth Renee |
 | 621 | 177 | Spencer Nikki |
 | 622 | 177 | Chad |
 | 623 | 176 | Jackie-Lynne Goertzen |
