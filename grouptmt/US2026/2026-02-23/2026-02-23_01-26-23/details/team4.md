@@ -137,8 +137,8 @@
 | 129 | 427 | KJ Pool |
 | 130 | 421 | Kesha Brady |
 | 131 | 418 | Monica Daley |
-| 132 | 418 | Marie-Pier Desjardins |
-| 133 | 418 | Lush Linkfall |
+| 132 | 418 | Lush Linkfall |
+| 133 | 418 | Marie-Pier Desjardins |
 | 134 | 414 | Nope Young |
 | 135 | 411 | JIGsaw ~(•¿°)~ |
 | 136 | 408 | Amanda Pauldo-Ivy |
@@ -231,8 +231,8 @@
 | 223 | 264 | scott |
 | 224 | 264 | Carlos Ramirez |
 | 225 | 261 | Dihcheese444 |
-| 226 | 259 | Cheery Risebuilder |
-| 227 | 259 | Montiette Mcglown |
+| 226 | 259 | Montiette Mcglown |
+| 227 | 259 | Cheery Risebuilder |
 | 228 | 257 | PeaceOs |
 | 229 | 256 | Mylo Lipscomb |
 | 230 | 252 | Selena Shaw |

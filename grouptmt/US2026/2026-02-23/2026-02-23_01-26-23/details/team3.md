@@ -160,8 +160,8 @@
 | 152 | 572 | CeceGeGe |
 | 153 | 571 | Nicole Myers |
 | 154 | 568 | Rachael McClain Owens |
-| 155 | 562 | Dave Herzog |
-| 156 | 562 | Louise Stacy Sisson |
+| 155 | 562 | Louise Stacy Sisson |
+| 156 | 562 | Dave Herzog |
 | 157 | 553 | LaTanya GeminiondaRise Johnson |
 | 158 | 549 | Peppy Shifter |
 | 159 | 546 | Cynthia Castros-Hampton |
@@ -209,8 +209,8 @@
 | 201 | 432 | Christine Trester |
 | 202 | 432 | Luciana Braganca Vieira |
 | 203 | 431 | Wendy Dearden |
-| 204 | 430 | Joye Sims Binion |
-| 205 | 430 | Jeni Dow |
+| 204 | 430 | Jeni Dow |
+| 205 | 430 | Joye Sims Binion |
 | 206 | 429 | Fallorina Susana |
 | 207 | 426 | Rochelle Hazelett |
 | 208 | 417 | Edwin Calvillo Jr. |
@@ -310,8 +310,8 @@
 | 302 | 291 | Carrie Huskey |
 | 303 | 289 | DidIdothat |
 | 304 | 287 | Sabrina Hardrick |
-| 305 | 286 | Lizabeth Fox |
-| 306 | 286 | Geoffrey Nash |
+| 305 | 286 | Geoffrey Nash |
+| 306 | 286 | Lizabeth Fox |
 | 307 | 286 | Hoppy Patternline |
 | 308 | 285 | LaShey Thompson |
 | 309 | 284 | Snazzy Filler |
@@ -435,8 +435,8 @@
 | 427 | 214 | Amy Fuller Heaton |
 | 428 | 213 | Cheeky Twisterfit |
 | 429 | 213 | Linda Draper |
-| 430 | 212 | BŘŰŤİÇŨŚ |
-| 431 | 212 | Beth Ingham |
+| 430 | 212 | Beth Ingham |
+| 431 | 212 | BŘŰŤİÇŨŚ |
 | 432 | 211 | El Chapa |
 | 433 | 210 | Maia |
 | 434 | 210 | Kristian Thurman |

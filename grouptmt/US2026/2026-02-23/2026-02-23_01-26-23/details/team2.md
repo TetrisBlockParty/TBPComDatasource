@@ -126,8 +126,8 @@
 | 118 | 1725 | ShinyRose |
 | 119 | 1700 | Jumpy Gridpiece |
 | 120 | 1699 | Jamie Main |
-| 121 | 1681 | Shandrica Lowe |
-| 122 | 1681 | Nett |
+| 121 | 1681 | Nett |
+| 122 | 1681 | Shandrica Lowe |
 | 123 | 1652 | Kristopher Miller |
 | 124 | 1644 | Luna |
 | 125 | 1639 | Jessie McDougald |
