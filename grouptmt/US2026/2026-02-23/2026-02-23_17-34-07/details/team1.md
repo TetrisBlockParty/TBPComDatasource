@@ -61,8 +61,8 @@
 | 53 | 1005 | Perky Shiftsnap |
 | 54 | 990 | Spunky Piecebuilder |
 | 55 | 978 | Amber Stoker |
-| 56 | 969 | Lawrence Belanger |
-| 57 | 969 | TSwag |
+| 56 | 969 | TSwag |
+| 57 | 969 | Lawrence Belanger |
 | 58 | 966 | Shalene Frederick Autrey |
 | 59 | 965 | Kristen Roles Robben |
 | 60 | 961 | Adam Byrd |
@@ -199,16 +199,16 @@
 | 191 | 387 | Ananda Mendez |
 | 192 | 387 | Monica Donato |
 | 193 | 386 | Brian Spotts |
-| 194 | 385 | John J. Cronin |
-| 195 | 385 | Debbie Kane |
-| 196 | 383 | Margo Wagner |
-| 197 | 383 | pjbeta |
+| 194 | 385 | Debbie Kane |
+| 195 | 385 | John J. Cronin |
+| 196 | 383 | pjbeta |
+| 197 | 383 | Margo Wagner |
 | 198 | 380 | Bindi |
-| 199 | 379 | Snappy Matcher |
-| 200 | 379 | Austin James |
+| 199 | 379 | Austin James |
+| 200 | 379 | Snappy Matcher |
 | 201 | 378 | Sleepysloath5745 |
-| 202 | 376 | Sassy Builderline |
-| 203 | 376 | Brian Richardsson |
+| 202 | 376 | Brian Richardsson |
+| 203 | 376 | Sassy Builderline |
 | 204 | 375 | Connie |
 | 205 | 374 | Howdi Duty |
 | 206 | 372 | Dizzy Party |
@@ -308,9 +308,9 @@
 | 300 | 277 | Nutty Spinblock |
 | 301 | 277 | Agustin Duarte Orozco |
 | 302 | 276 | Mrs.Patrica |
-| 303 | 275 | Garrett Burket |
+| 303 | 275 | Chris65 |
 | 304 | 275 | Mark Smith |
-| 305 | 275 | Chris65 |
+| 305 | 275 | Garrett Burket |
 | 306 | 275 | Cheeky Pop |
 | 307 | 274 | Allena Craft |
 | 308 | 273 | Test |

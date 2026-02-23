@@ -338,7 +338,7 @@
 | 330 | 365 | LaShey Thompson |
 | 331 | 362 | Foltz Lee Kelli |
 | 332 | 362 | Chummy Rumbler |
-| 333 | 362 | Foltz Lee Kelli |
+| 333 | 362 | Brandon Givens |
 | 334 | 361 | Breanna Marsden |
 | 335 | 361 | neci |
 | 336 | 360 | Hyper Matchzone |
@@ -363,10 +363,10 @@
 | 355 | 345 | gremicx |
 | 356 | 345 | victory |
 | 357 | 344 | Beaudie Stroebel |
-| 358 | 343 | Donna |
-| 359 | 343 | Ashley Rufus Bythcez |
-| 360 | 342 | Cynthia Herrmann Egland |
-| 361 | 342 | ROODBOY |
+| 358 | 343 | Ashley Rufus Bythcez |
+| 359 | 343 | Donna |
+| 360 | 342 | ROODBOY |
+| 361 | 342 | Cynthia Herrmann Egland |
 | 362 | 341 | Rick Poppen |
 | 363 | 341 | Lys |
 | 364 | 340 | Kirhonda Autmon |
@@ -407,8 +407,8 @@
 | 399 | 313 | Hoppy Buildout |
 | 400 | 312 | Eric Caccavale |
 | 401 | 311 | Troy |
-| 402 | 309 | Cheeky Snapper |
-| 403 | 309 | Block Baddie |
+| 402 | 309 | Block Baddie |
+| 403 | 309 | Cheeky Snapper |
 | 404 | 308 | Katrina Turner |
 | 405 | 308 | Tia |
 | 406 | 308 | Beejangles |
@@ -426,13 +426,13 @@
 | 418 | 299 | Hasty Gridpiece |
 | 419 | 299 | Antonia Russell |
 | 420 | 299 | Angie Harper |
-| 421 | 298 | Dannie Litchard |
-| 422 | 298 | Grams |
+| 421 | 298 | Grams |
+| 422 | 298 | Dannie Litchard |
 | 423 | 298 | Tay |
 | 424 | 297 | Quirky Snapfit |
 | 425 | 296 | Amy Montz |
-| 426 | 296 | Tracy Martin |
-| 427 | 296 | Cheryl Hinch Tenbrook |
+| 426 | 296 | Cheryl Hinch Tenbrook |
+| 427 | 296 | Tracy Martin |
 | 428 | 295 | Dakota Graham |
 | 429 | 294 | toony |
 | 430 | 293 | Loopy Fallzone |
@@ -441,11 +441,11 @@
 | 433 | 291 | Bryan Byrd |
 | 434 | 291 | Niki Dalrymple |
 | 435 | 290 | Kellie Montgomery |
-| 436 | 290 | Breezy Roll |
-| 437 | 290 | Tegan Chapman |
+| 436 | 290 | Tegan Chapman |
+| 437 | 290 | Breezy Roll |
 | 438 | 289 | DidIdothat |
-| 439 | 289 | Sassy Brickmatch |
-| 440 | 289 | Romeo |
+| 439 | 289 | Romeo |
+| 440 | 289 | Sassy Brickmatch |
 | 441 | 288 | Kristi Taylor |
 | 442 | 287 | Carol Cain Thurman |
 | 443 | 286 | Skinny Baldez |

@@ -224,8 +224,8 @@
 | 216 | 1416 | Nancy Reid |
 | 217 | 1408 | Becca Widmer |
 | 218 | 1397 | Matthew Joseph Acevedo |
-| 219 | 1393 | Samantha Roberts |
-| 220 | 1393 | Julay |
+| 219 | 1393 | Julay |
+| 220 | 1393 | Samantha Roberts |
 | 221 | 1387 | Joyce Johnson Vaughn |
 | 222 | 1383 | Ladyrainbootz |
 | 223 | 1381 | Stacy Stickle |
@@ -268,8 +268,8 @@
 | 260 | 1221 | Jane Fong |
 | 261 | 1220 | Sarah Ridenour |
 | 262 | 1217 | Brooks Brooks |
-| 263 | 1216 | Pacynthia Williams |
-| 264 | 1216 | Brittany Radaszewski |
+| 263 | 1216 | Brittany Radaszewski |
+| 264 | 1216 | Pacynthia Williams |
 | 265 | 1214 | David Cudicio-Hayden |
 | 266 | 1211 | Ricardo Burton |
 | 267 | 1210 | John Rodriguez |
