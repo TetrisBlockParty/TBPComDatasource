@@ -249,11 +249,11 @@
 | 241 | 316 | Sassy Builderline |
 | 242 | 315 | Mandyy Rae |
 | 243 | 314 | Daring Fitclear |
-| 244 | 313 | Cody Gates |
-| 245 | 313 | Sylvia Vasquez |
+| 244 | 313 | Sylvia Vasquez |
+| 245 | 313 | Cody Gates |
 | 246 | 312 | Mitchel White |
-| 247 | 310 | Bloknboy |
-| 248 | 310 | Chantelle Ceno |
+| 247 | 310 | Chantelle Ceno |
+| 248 | 310 | Bloknboy |
 | 249 | 308 | Speedy Liney |
 | 250 | 305 | Plucky Stacky |
 | 251 | 303 | Νεφ Όνυξ |
