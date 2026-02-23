@@ -398,9 +398,9 @@
 | 390 | 816 | Beth |
 | 391 | 816 | James Simms III |
 | 392 | 812 | Samantha Jo |
-| 393 | 808 | Laura McCarthey |
-| 394 | 808 | Desire Rice |
-| 395 | 808 | Connie Jimenez |
+| 393 | 808 | Desire Rice |
+| 394 | 808 | Connie Jimenez |
+| 395 | 808 | Laura McCarthey |
 | 396 | 804 | Becca Coronado |
 | 397 | 803 | Tiara Elizabeth Baker |
 | 398 | 801 | Gold Rose |
@@ -557,10 +557,10 @@
 | 549 | 634 | James Louie |
 | 550 | 634 | Quiksilver |
 | 551 | 629 | Breezy Clusterer |
-| 552 | 629 | snkylnk |
-| 553 | 629 | Maya June |
-| 554 | 628 | Brownie Sheena |
-| 555 | 628 | g |
+| 552 | 629 | Maya June |
+| 553 | 629 | snkylnk |
+| 554 | 628 | g |
+| 555 | 628 | Brownie Sheena |
 | 556 | 626 | Chab |
 | 557 | 626 | Christina Ashley |
 | 558 | 625 | Tracy Wise |
@@ -578,11 +578,11 @@
 | 570 | 614 | Jessica S Flecha |
 | 571 | 614 | Emilee Burke |
 | 572 | 613 | Audrey Jones |
-| 573 | 612 | Slinky Racker |
-| 574 | 612 | Briana Alexander |
+| 573 | 612 | Briana Alexander |
+| 574 | 612 | Slinky Racker |
 | 575 | 610 | Michael Buckner |
-| 576 | 609 | Autumn Schaeffer |
-| 577 | 609 | Cecilia A Jenkins |
+| 576 | 609 | Cecilia A Jenkins |
+| 577 | 609 | Autumn Schaeffer |
 | 578 | 607 | James Smith |
 | 579 | 607 | Miranda Morris |
 | 580 | 606 | Lea Stewart |
@@ -638,8 +638,8 @@
 | 630 | 566 | Isabelle Bonneau |
 | 631 | 566 | Tina Marie |
 | 632 | 564 | Stacey Tranchida |
-| 633 | 563 | Frisky Clearpiece |
-| 634 | 563 | Nat |
+| 633 | 563 | Nat |
+| 634 | 563 | Frisky Clearpiece |
 | 635 | 562 | Sabrena Yeisley |
 | 636 | 559 | Alexx Anaya |
 | 637 | 559 | Anthony Huebel |
@@ -656,8 +656,8 @@
 | 648 | 553 | Kelli Wells |
 | 649 | 551 | Matt Johnson |
 | 650 | 551 | Cynthia Louann Rose |
-| 651 | 550 | Shorty |
-| 652 | 550 | Frilly Fallzone |
+| 651 | 550 | Frilly Fallzone |
+| 652 | 550 | Shorty |
 | 653 | 550 | Michelle Sager |
 | 654 | 549 | Kaylee McCafferty |
 | 655 | 549 | Melissa Kay Gibson |
@@ -877,8 +877,8 @@
 | 869 | 428 | David Scott |
 | 870 | 427 | Jo Nicole |
 | 871 | 427 | Vung Nguyen |
-| 872 | 427 | Destiny Cozier |
-| 873 | 427 | Gina Caulder |
+| 872 | 427 | Gina Caulder |
+| 873 | 427 | Destiny Cozier |
 | 874 | 426 | Trista Carter |
 | 875 | 426 | Rose Fx |
 | 876 | 424 | ToxicTrash |
@@ -1222,9 +1222,9 @@
 | 1214 | 320 | Renee Bowers |
 | 1215 | 319 | Lexa Craft Davidson |
 | 1216 | 319 | Jessica Sutter |
-| 1217 | 318 | Perk Diggler |
-| 1218 | 318 | Layna Lyons |
-| 1219 | 318 | Daring Matchfit |
+| 1217 | 318 | Daring Matchfit |
+| 1218 | 318 | Perk Diggler |
+| 1219 | 318 | Layna Lyons |
 | 1220 | 318 | Delfina Marie Villasenor |
 | 1221 | 318 | Natasha Marie |
 | 1222 | 318 | Steve Zortman |
@@ -1233,8 +1233,8 @@
 | 1225 | 317 | HarleyJane |
 | 1226 | 317 | Bigg Meezy |
 | 1227 | 317 | Zombi3 |
-| 1228 | 316 | Cheeky Brickmatch |
-| 1229 | 316 | Rebecca Edmund |
+| 1228 | 316 | Rebecca Edmund |
+| 1229 | 316 | Cheeky Brickmatch |
 | 1230 | 315 | Lupita Flores |
 | 1231 | 315 | Dan Sickels |
 | 1232 | 315 | Drew Berkelbach |
@@ -1245,8 +1245,8 @@
 | 1237 | 313 | Boldy Block |
 | 1238 | 313 | Suzy Moody |
 | 1239 | 312 | Jodi Mitnick |
-| 1240 | 312 | Squirrel |
-| 1241 | 312 | Gursharan Sandhu |
+| 1240 | 312 | Gursharan Sandhu |
+| 1241 | 312 | Squirrel |
 | 1242 | 311 | Chipper Basepiece |
 | 1243 | 311 | Chelsea Gutierrez |
 | 1244 | 311 | Audra Williams |
@@ -1273,8 +1273,8 @@
 | 1265 | 307 | Fancy Smasher |
 | 1266 | 306 | Chill Strike |
 | 1267 | 306 | Alison Emmons |
-| 1268 | 306 | Angela Nguyen |
-| 1269 | 306 | Sedo |
+| 1268 | 306 | Sedo |
+| 1269 | 306 | Angela Nguyen |
 | 1270 | 306 | Mellissa Evans |
 | 1271 | 305 | Edralin Custodio |
 | 1272 | 305 | Sierra Edwards Lachmanek |

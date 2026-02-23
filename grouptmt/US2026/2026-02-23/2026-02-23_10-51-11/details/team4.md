@@ -233,8 +233,8 @@
 | 225 | 301 | Andria Lynn |
 | 226 | 300 | Dana Scott |
 | 227 | 295 | Keshia Lyons |
-| 228 | 294 | Calvin Cannon |
-| 229 | 294 | Porkobello |
+| 228 | 294 | Porkobello |
+| 229 | 294 | Calvin Cannon |
 | 230 | 292 | Epic Curvetile |
 | 231 | 290 | Rebecca Morris |
 | 232 | 290 | Plucky Patternblock |
@@ -245,10 +245,10 @@
 | 237 | 288 | Zesty Twistbuilder |
 | 238 | 288 | Brittney Orengo |
 | 239 | 285 | 030Synner |
-| 240 | 284 | Matt Dell'Olio |
-| 241 | 284 | Mimi |
-| 242 | 282 | Matt Gooder |
-| 243 | 282 | Kim Klutz Olson |
+| 240 | 284 | Mimi |
+| 241 | 284 | Matt Dell'Olio |
+| 242 | 282 | Kim Klutz Olson |
+| 243 | 282 | Matt Gooder |
 | 244 | 281 | Laura |
 | 245 | 280 | Rio Rocha |
 | 246 | 279 | Malakai Darien Fox |
@@ -601,7 +601,7 @@
 | 593 | 120 | Verna Neal |
 | 594 | 119 | Flashy Jumper |
 | 595 | 119 | River Shady Sr. |
-| 596 | 119 | George Tzouganos |
+| 596 | 119 | Calen Torez |
 | 597 | 119 | Kourtney Barnes |
 | 598 | 119 | George Tzouganos |
 | 599 | 119 | Lee Silpe |
