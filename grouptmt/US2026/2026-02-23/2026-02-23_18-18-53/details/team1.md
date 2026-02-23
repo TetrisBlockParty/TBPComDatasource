@@ -254,7 +254,7 @@
 | 246 | 335 | Keith Mathis |
 | 247 | 334 | Tipsy Builder |
 | 248 | 333 | Jennifer Noe Chandler |
-| 249 | 332 | Plucky Stacky |
+| 249 | 332 | Eddie Dillon |
 | 250 | 332 | Happy Basegrid |
 | 251 | 332 | Plucky Stacky |
 | 252 | 329 | Frothy Pattern |

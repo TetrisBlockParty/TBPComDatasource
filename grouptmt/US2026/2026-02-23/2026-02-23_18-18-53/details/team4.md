@@ -56,9 +56,9 @@
 | 48 | 1147 | Jae Job |
 | 49 | 1099 | Ashley Ingram |
 | 50 | 1085 | Kimyatta Cavin |
-| 51 | 1082 | Avy Absol |
+| 51 | 1082 | Dion Crommarty |
 | 52 | 1082 | Dawn Alexander |
-| 53 | 1082 | Dion Crommarty |
+| 53 | 1082 | Avy Absol |
 | 54 | 1049 | Heather Tushner |
 | 55 | 1046 | Johnathan Martinez |
 | 56 | 1030 | Dustee Craddock-Harrison |
@@ -298,8 +298,8 @@
 | 290 | 291 | Hyper Builder |
 | 291 | 291 | Dizzy Matchzone |
 | 292 | 290 | Jared Gutwein |
-| 293 | 290 | Heather Bruce |
-| 294 | 290 | Neirrah B Olailjeel |
+| 293 | 290 | Neirrah B Olailjeel |
+| 294 | 290 | Heather Bruce |
 | 295 | 289 | Juls |
 | 296 | 288 | Brittney Orengo |
 | 297 | 287 | Kim Klutz Olson |
@@ -312,9 +312,9 @@
 | 304 | 278 | Angela Geist Jusinski |
 | 305 | 278 | Sarah Brown |
 | 306 | 277 | Brittany Marsh |
-| 307 | 276 | Lee Silpe |
-| 308 | 276 | Susan Williams |
-| 309 | 276 | Silly SeaWeed |
+| 307 | 276 | Susan Williams |
+| 308 | 276 | Silly SeaWeed |
+| 309 | 276 | Lee Silpe |
 | 310 | 276 | Cynthia Boudreau |
 | 311 | 275 | Jim Hart |
 | 312 | 274 | Amy Sanford |
@@ -515,7 +515,7 @@
 | 507 | 177 | Chao Ma |
 | 508 | 177 | Stephanie Mico |
 | 509 | 176 | Jlmendillo |
-| 510 | 175 | Lorena Guerrero-Barron |
+| 510 | 175 | Veronica Garza |
 | 511 | 175 | tipsy tiger |
 | 512 | 175 | Lorena Guerrero-Barron |
 | 513 | 173 | Joshua Cuellar |
@@ -541,9 +541,9 @@
 | 533 | 167 | Dapper Frame |
 | 534 | 167 | Snippy Clearer |
 | 535 | 167 | Brooke Kaune |
-| 536 | 166 | Tabitha Calvin |
-| 537 | 166 | Lynn Marie |
-| 538 | 166 | Reds Bella |
+| 536 | 166 | Reds Bella |
+| 537 | 166 | Tabitha Calvin |
+| 538 | 166 | Lynn Marie |
 | 539 | 166 | Frank Joseph Epson |
 | 540 | 165 | Dapper Caster |
 | 541 | 165 | Zappy Buildgrid |
