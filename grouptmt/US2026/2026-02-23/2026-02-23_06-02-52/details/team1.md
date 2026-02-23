@@ -112,8 +112,8 @@
 | 104 | 491 | cc |
 | 105 | 489 | April Carroll |
 | 106 | 489 | Deanna L Hermanson |
-| 107 | 483 | Trina Gee |
-| 108 | 483 | Tdub |
+| 107 | 483 | Tdub |
+| 108 | 483 | Trina Gee |
 | 109 | 478 | Stephanie Zahn |
 | 110 | 475 | Ty Brown |
 | 111 | 463 | Lexuriuos Lifestlye |
@@ -134,12 +134,12 @@
 | 126 | 429 | Kristi Johnson |
 | 127 | 428 | Ly Phethmany |
 | 128 | 426 | Maria C. Hernandez |
-| 129 | 425 | Lori Sanders- Davis |
-| 130 | 425 | Dandy Basegrid |
+| 129 | 425 | Dandy Basegrid |
+| 130 | 425 | Lori Sanders- Davis |
 | 131 | 411 | BadG52 |
 | 132 | 409 | Goose egg |
-| 133 | 406 | Desiree Deschaine Havee |
-| 134 | 406 | Candy Jones |
+| 133 | 406 | Candy Jones |
+| 134 | 406 | Desiree Deschaine Havee |
 | 135 | 402 | Chris K |
 | 136 | 399 | ALFD |
 | 137 | 399 | Nery Martinez |

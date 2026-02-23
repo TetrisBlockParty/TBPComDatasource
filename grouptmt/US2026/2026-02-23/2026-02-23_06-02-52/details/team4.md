@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | KM8 |
-| 93 | 647 | Shauna Havard |
+| 92 | 647 | Shauna Havard |
+| 93 | 647 | KM8 |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -119,10 +119,10 @@
 | 111 | 528 | Rodney McMath Jr. |
 | 112 | 527 | Dizzy Tiley |
 | 113 | 519 | Nugget |
-| 114 | 517 | shar |
-| 115 | 517 | Christina LR |
-| 116 | 514 | Serena Goodridge |
-| 117 | 514 | Scott Jameson |
+| 114 | 517 | Christina LR |
+| 115 | 517 | shar |
+| 116 | 514 | Scott Jameson |
+| 117 | 514 | Serena Goodridge |
 | 118 | 513 | Erin Thomas |
 | 119 | 512 | Cristy Duerksen |
 | 120 | 512 | Casey Jeffcoat |
@@ -145,22 +145,22 @@
 | 137 | 426 | 🥔🥔 Spudz |
 | 138 | 425 | Monica Daley |
 | 139 | 423 | Carrie Brian |
-| 140 | 421 | Kesha Brady |
-| 141 | 421 | JIGsaw ~(•¿°)~ |
+| 140 | 421 | JIGsaw ~(•¿°)~ |
+| 141 | 421 | Kesha Brady |
 | 142 | 419 | Klo |
 | 143 | 418 | Marie-Pier Desjardins |
 | 144 | 418 | Lush Linkfall |
 | 145 | 416 | Chaz Duncan |
-| 146 | 414 | Swanky Fitline |
-| 147 | 414 | Nope Young |
+| 146 | 414 | Nope Young |
+| 147 | 414 | Swanky Fitline |
 | 148 | 412 | Jessica Bohlken |
 | 149 | 408 | Amanda Pauldo-Ivy |
 | 150 | 406 | Damn Libra |
 | 151 | 402 | Ericca Eldridge |
 | 152 | 398 | Tyler Terrific |
 | 153 | 397 | Livvy |
-| 154 | 393 | Carlton Unfiltered |
-| 155 | 393 | Girl |
+| 154 | 393 | Girl |
+| 155 | 393 | Carlton Unfiltered |
 | 156 | 391 | Ramel Rhodes |
 | 157 | 389 | Joseph Guthrie |
 | 158 | 387 | Lucas J Sutton |
@@ -201,8 +201,8 @@
 | 193 | 321 | Meagan Nicole |
 | 194 | 320 | Lauren Scott |
 | 195 | 318 | Chris Hartig |
-| 196 | 316 | Autumn Kumzi |
-| 197 | 316 | Cursed Hag |
+| 196 | 316 | Cursed Hag |
+| 197 | 316 | Autumn Kumzi |
 | 198 | 311 | Mary Ann Pabukis |
 | 199 | 310 | Holly Jolly |
 | 200 | 307 | Cheery Risebuilder |

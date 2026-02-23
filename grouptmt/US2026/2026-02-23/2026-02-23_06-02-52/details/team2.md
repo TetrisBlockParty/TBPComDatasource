@@ -44,8 +44,8 @@
 | 36 | 4199 | Claire Noland |
 | 37 | 4128 | Angela Pruitt |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Corrine Hawks Soriano |
-| 40 | 4120 | Kristen Sceurman |
+| 39 | 4120 | Kristen Sceurman |
+| 40 | 4120 | Corrine Hawks Soriano |
 | 41 | 3845 | jayjay |
 | 42 | 3813 | Devin Lee |
 | 43 | 3778 | Brittany Alicia |
@@ -151,8 +151,8 @@
 | 143 | 1639 | Jessie McDougald |
 | 144 | 1638 | Speedy Spinblock |
 | 145 | 1629 | Mari Ac |
-| 146 | 1623 | Janel Turley-Garner |
-| 147 | 1623 | Rebecca Doughman |
+| 146 | 1623 | Rebecca Doughman |
+| 147 | 1623 | Janel Turley-Garner |
 | 148 | 1605 | Christi Hulet |
 | 149 | 1602 | blackq |
 | 150 | 1601 | Ray Ray Prado |
@@ -312,8 +312,8 @@
 | 304 | 969 | Boldy Cascadepiece |
 | 305 | 965 | F-X |
 | 306 | 961 | Angela Lynn |
-| 307 | 958 | Brenda Messer |
-| 308 | 958 | Doowop40 |
+| 307 | 958 | Doowop40 |
+| 308 | 958 | Brenda Messer |
 | 309 | 957 | Block Master |
 | 310 | 956 | Phil J. Grombliniak |
 | 311 | 955 | Angela Bonquiqui Dinish |
@@ -567,8 +567,8 @@
 | 559 | 592 | Sheronda Jackson |
 | 560 | 590 | Maddy Petersen |
 | 561 | 589 | Thomas Hedrick |
-| 562 | 589 | Kelly Templeton |
-| 563 | 589 | Shavonna Haynes |
+| 562 | 589 | Shavonna Haynes |
+| 563 | 589 | Kelly Templeton |
 | 564 | 588 | Kitybox |
 | 565 | 587 | Ben Barkley |
 | 566 | 586 | Christina Ashley |
@@ -733,7 +733,7 @@
 | 725 | 474 | Jennifer Scott |
 | 726 | 474 | Sarah block |
 | 727 | 474 | Joice Hansen |
-| 728 | 474 | Sarah block |
+| 728 | 474 | Calandra Shaya Robinson |
 | 729 | 473 | Tara Lynn Janes |
 | 730 | 473 | coleksquad |
 | 731 | 472 | Connie Lepore-Mann |
