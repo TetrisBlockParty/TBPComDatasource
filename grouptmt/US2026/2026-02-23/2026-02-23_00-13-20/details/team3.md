@@ -80,8 +80,8 @@
 | 72 | 970 | Rosalie Call Kehlenbeck |
 | 73 | 964 | Jennifer |
 | 74 | 945 | Christian A. Pollard |
-| 75 | 926 | Angela M. Fletcher |
-| 76 | 926 | Judi Dobson |
+| 75 | 926 | Judi Dobson |
+| 76 | 926 | Angela M. Fletcher |
 | 77 | 924 | Shonna Roberts |
 | 78 | 923 | Christine Filson |
 | 79 | 910 | Jay Horn |

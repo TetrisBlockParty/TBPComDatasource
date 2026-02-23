@@ -103,14 +103,14 @@
 | 95 | 557 | Carmethia Clemons Haslerig |
 | 96 | 533 | Samantha Peterson |
 | 97 | 519 | Nugget |
-| 98 | 513 | Erin Thomas |
-| 99 | 513 | YoMomma |
+| 98 | 513 | YoMomma |
+| 99 | 513 | Erin Thomas |
 | 100 | 512 | Casey Jeffcoat |
 | 101 | 512 | Diana Houts |
 | 102 | 510 | Scott Jameson |
 | 103 | 500 | Rodney McMath Jr. |
-| 104 | 499 | Christina LR |
-| 105 | 499 | Trista Leah |
+| 104 | 499 | Trista Leah |
+| 105 | 499 | Christina LR |
 | 106 | 488 | Jen Allison |
 | 107 | 487 | Alyssa Papen |
 | 108 | 487 | shar |
@@ -138,8 +138,8 @@
 | 130 | 408 | Amanda Pauldo-Ivy |
 | 131 | 400 | Ericca Eldridge |
 | 132 | 394 | Austin Owens |
-| 133 | 393 | Carlton Unfiltered |
-| 134 | 393 | Trish |
+| 133 | 393 | Trish |
+| 134 | 393 | Carlton Unfiltered |
 | 135 | 392 | Cristy Duerksen |
 | 136 | 391 | Ramel Rhodes |
 | 137 | 380 | Swanky Fitline |
@@ -407,12 +407,12 @@
 | 399 | 150 | Jobadia Steelerton |
 | 400 | 150 | mike |
 | 401 | 149 | Sallie Sanborn |
-| 402 | 148 | Mighty Edgepiece |
-| 403 | 148 | Janita Parrish |
-| 404 | 148 | Bryan Hodgins |
+| 402 | 148 | Janita Parrish |
+| 403 | 148 | Bryan Hodgins |
+| 404 | 148 | Mighty Edgepiece |
 | 405 | 147 | Ashlee Carnes |
-| 406 | 147 | Maureen Flanigan |
-| 407 | 147 | Jay28 |
+| 406 | 147 | Jay28 |
+| 407 | 147 | Maureen Flanigan |
 | 408 | 146 | Brave Spinbuilder |
 | 409 | 145 | Glitzy Crasher |
 | 410 | 145 | Austin Trent Weaver |
@@ -470,7 +470,7 @@
 | 462 | 131 | Smiley Tiltbuilder |
 | 463 | 130 | KoolMom9907 |
 | 464 | 130 | Shiny Pivoty |
-| 465 | 130 | KoolMom9907 |
+| 465 | 130 | Riverdale |
 | 466 | 129 | Sherri |
 | 467 | 129 | Dreamy Snapgrid |
 | 468 | 128 | Zesty Linkgrid |

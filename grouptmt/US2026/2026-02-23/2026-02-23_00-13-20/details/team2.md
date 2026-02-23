@@ -126,8 +126,8 @@
 | 118 | 1676 | Nett |
 | 119 | 1652 | Kristopher Miller |
 | 120 | 1644 | Luna |
-| 121 | 1639 | Jessie McDougald |
-| 122 | 1639 | Karen Martini-Stapleton |
+| 121 | 1639 | Karen Martini-Stapleton |
+| 122 | 1639 | Jessie McDougald |
 | 123 | 1623 | Mr. Street Stack |
 | 124 | 1606 | Janel Turley-Garner |
 | 125 | 1603 | Gabby Jenner |
@@ -349,8 +349,8 @@
 | 341 | 790 | Brenda Pierpoint |
 | 342 | 788 | Erika Densmore |
 | 343 | 782 | Beth |
-| 344 | 777 | Tesha Oldaker |
-| 345 | 777 | Jessicah Myers |
+| 344 | 777 | Jessicah Myers |
+| 345 | 777 | Tesha Oldaker |
 | 346 | 774 | Ashley Dow |
 | 347 | 773 | Diana Fitzwater |
 | 348 | 772 | Danielle Simmons |
@@ -381,8 +381,8 @@
 | 373 | 737 | Jeremy Parodi |
 | 374 | 737 | Ginger |
 | 375 | 734 | Deborah Miller |
-| 376 | 728 | Dylan Thomason |
-| 377 | 728 | Allan Wayne Lamia |
+| 376 | 728 | Allan Wayne Lamia |
+| 377 | 728 | Dylan Thomason |
 | 378 | 728 | Charvi' Carter |
 | 379 | 728 | Tom Riefer |
 | 380 | 725 | Vonceial Boone |
@@ -709,8 +709,8 @@
 | 701 | 423 | Taylor Flowers |
 | 702 | 423 | Smashanator |
 | 703 | 422 | Oscar Bernie |
-| 704 | 422 | Stefanie Zonzini-Gagliardi |
-| 705 | 422 | Kimberly Ann |
+| 704 | 422 | Kimberly Ann |
+| 705 | 422 | Stefanie Zonzini-Gagliardi |
 | 706 | 421 | Beth Decker |
 | 707 | 421 | Nina Nav |
 | 708 | 420 | Ricky Fortune |
