@@ -338,8 +338,8 @@
 | 330 | 812 | Jackie Lucas |
 | 331 | 812 | Samantha Jo |
 | 332 | 808 | Melissa McCall |
-| 333 | 808 | Laura McCarthey |
-| 334 | 808 | Amber Brion |
+| 333 | 808 | Amber Brion |
+| 334 | 808 | Laura McCarthey |
 | 335 | 808 | Desire Rice |
 | 336 | 807 | Khalil Lowe |
 | 337 | 799 | Joy LaJeunesse |
@@ -527,8 +527,8 @@
 | 519 | 551 | Cynthia Louann Rose |
 | 520 | 550 | Rich Sullivan |
 | 521 | 550 | Frilly Fallzone |
-| 522 | 549 | Melissa Kay Gibson |
-| 523 | 549 | Kaylee McCafferty |
+| 522 | 549 | Kaylee McCafferty |
+| 523 | 549 | Melissa Kay Gibson |
 | 524 | 546 | Hannah Erskine |
 | 525 | 545 | Venita Ray |
 | 526 | 545 | Brenna Ann |
@@ -537,8 +537,8 @@
 | 529 | 542 | Jarboe |
 | 530 | 542 | Alexandra Weir |
 | 531 | 541 | Alezandra Smith |
-| 532 | 537 | Kori Beth Babb |
-| 533 | 537 | Sarah Berger |
+| 532 | 537 | Sarah Berger |
+| 533 | 537 | Kori Beth Babb |
 | 534 | 535 | Maddy Petersen |
 | 535 | 535 | Anthony Huebel |
 | 536 | 535 | Belle Mari |
@@ -758,8 +758,8 @@
 | 750 | 400 | Tammy Allen |
 | 751 | 399 | Court |
 | 752 | 399 | Heather Johnson |
-| 753 | 398 | Witty Piecebuilder |
-| 754 | 398 | TF Dyer |
+| 753 | 398 | TF Dyer |
+| 754 | 398 | Witty Piecebuilder |
 | 755 | 398 | Heather Sawtelle-Mckenzie |
 | 756 | 397 | Dawn Woosley Bowes |
 | 757 | 397 | Cris cris |

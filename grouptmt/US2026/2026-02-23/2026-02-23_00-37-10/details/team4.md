@@ -116,8 +116,8 @@
 | 108 | 499 | Christina LR |
 | 109 | 495 | shar |
 | 110 | 483 | Chilly Crasher |
-| 111 | 481 | Serena Goodridge |
-| 112 | 481 | Jessica Lynn Cutlip |
+| 111 | 481 | Jessica Lynn Cutlip |
+| 112 | 481 | Serena Goodridge |
 | 113 | 476 | Matt Summer |
 | 114 | 474 | Jenna Ingersoll |
 | 115 | 470 | Lori Walker |
@@ -213,8 +213,8 @@
 | 205 | 272 | Dennis Bradley |
 | 206 | 272 | Alan George LaRage |
 | 207 | 271 | Sarah Brown |
-| 208 | 270 | Jen Caldwell |
-| 209 | 270 | Juls |
+| 208 | 270 | Juls |
+| 209 | 270 | Jen Caldwell |
 | 210 | 269 | Nikki Rae Gordon |
 | 211 | 268 | Mimi |
 | 212 | 268 | Porkobello |
