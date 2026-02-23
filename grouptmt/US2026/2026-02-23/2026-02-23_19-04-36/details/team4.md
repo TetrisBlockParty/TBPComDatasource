@@ -57,9 +57,9 @@
 | 49 | 1125 | Mona Sharma |
 | 50 | 1099 | Ashley Ingram |
 | 51 | 1085 | Kimyatta Cavin |
-| 52 | 1082 | Avy Absol |
-| 53 | 1082 | Dion Crommarty |
-| 54 | 1082 | Dawn Alexander |
+| 52 | 1082 | Dawn Alexander |
+| 53 | 1082 | Avy Absol |
+| 54 | 1082 | Dion Crommarty |
 | 55 | 1049 | Heather Tushner |
 | 56 | 1046 | Johnathan Martinez |
 | 57 | 1030 | Dustee Craddock-Harrison |
@@ -287,13 +287,13 @@
 | 279 | 306 | mike |
 | 280 | 306 | PeaceOs |
 | 281 | 306 | Lora |
-| 282 | 304 | Shiny Fit |
-| 283 | 304 | Joanna |
+| 282 | 304 | Joanna |
+| 283 | 304 | Shiny Fit |
 | 284 | 301 | Erin Sabol |
 | 285 | 300 | Dana Scott |
 | 286 | 297 | Kenna Gunderland |
-| 287 | 296 | Vic |
-| 288 | 296 | Sarah Hoffman |
+| 287 | 296 | Sarah Hoffman |
+| 288 | 296 | Vic |
 | 289 | 295 | Blessedmama |
 | 290 | 293 | DonMega |
 | 291 | 292 | Epic Curvetile |

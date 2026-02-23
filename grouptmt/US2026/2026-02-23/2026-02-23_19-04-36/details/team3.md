@@ -102,8 +102,8 @@
 | 94 | 1102 | Michelle Becker |
 | 95 | 1101 | Stephanie Rice |
 | 96 | 1094 | JerseyJess |
-| 97 | 1056 | Ebony West-Cundiff |
-| 98 | 1056 | joclisa |
+| 97 | 1056 | joclisa |
+| 98 | 1056 | Ebony West-Cundiff |
 | 99 | 1050 | Sherika C. McDaniels |
 | 100 | 1044 | Leah Barnett |
 | 101 | 1038 | Mandy Smith Oldham |
@@ -154,8 +154,8 @@
 | 146 | 777 | Tasha Schriewer |
 | 147 | 773 | Daryn Elliott |
 | 148 | 773 | Daira Largen |
-| 149 | 764 | Hasty Cascadefit |
-| 150 | 764 | Groovy Catcher |
+| 149 | 764 | Groovy Catcher |
+| 150 | 764 | Hasty Cascadefit |
 | 151 | 761 | Peppy Shifter |
 | 152 | 759 | yoyo |
 | 153 | 757 | Fancy Cascader |
@@ -374,11 +374,11 @@
 | 366 | 348 | Ashley Raines |
 | 367 | 348 | Kelly Wolf |
 | 368 | 346 | AlsoJess |
-| 369 | 345 | gremicx |
-| 370 | 345 | victory |
+| 369 | 345 | victory |
+| 370 | 345 | gremicx |
 | 371 | 344 | Beaudie Stroebel |
-| 372 | 343 | Donna |
-| 373 | 343 | Ashley Rufus Bythcez |
+| 372 | 343 | Ashley Rufus Bythcez |
+| 373 | 343 | Donna |
 | 374 | 342 | 4girls |
 | 375 | 342 | Cynthia Herrmann Egland |
 | 376 | 341 | Rick Poppen |
@@ -397,12 +397,12 @@
 | 389 | 330 | angieelyn |
 | 390 | 330 | Big T |
 | 391 | 328 | Krystal Gerstberger |
-| 392 | 328 | Desiree Soto |
-| 393 | 328 | Cesar Mendez |
+| 392 | 328 | Cesar Mendez |
+| 393 | 328 | Desiree Soto |
 | 394 | 327 | Tiffanie Alley |
 | 395 | 327 | Jimmie Clemons |
-| 396 | 326 | Nelma |
-| 397 | 326 | Norma JulieMay |
+| 396 | 326 | Norma JulieMay |
+| 397 | 326 | Nelma |
 | 398 | 326 | Kerry Nowickshere |
 | 399 | 324 | Sissy Lowery Davis |
 | 400 | 323 | Mary Giorgenti |
@@ -2861,8 +2861,8 @@
 | 2853 | 14 | Lisa Perry |
 | 2854 | 14 | IsaLynn Roberta Sequeira |
 | 2855 | 13 | Jody Hawbaker |
-| 2856 | 13 | Annahbellah Honkala |
-| 2857 | 13 | Elly Goedeke |
+| 2856 | 13 | Elly Goedeke |
+| 2857 | 13 | Annahbellah Honkala |
 | 2858 | 13 | Nerdy Splitter |
 | 2859 | 13 | Adam Barnes-Dieterle |
 | 2860 | 13 | Ladycateye |
