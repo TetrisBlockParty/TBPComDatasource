@@ -93,8 +93,8 @@
 | 85 | 2515 | Crystalin Heath Lewis |
 | 86 | 2500 | Rosemadder |
 | 87 | 2438 | Rob Surace |
-| 88 | 2428 | Thomas Hughes |
-| 89 | 2428 | Deanna Morton |
+| 88 | 2428 | Deanna Morton |
+| 89 | 2428 | Thomas Hughes |
 | 90 | 2410 | RdRydnHd |
 | 91 | 2400 | Rich Sullivan |
 | 92 | 2375 | Megan Peckham |
@@ -216,8 +216,8 @@
 | 208 | 1252 | Angel |
 | 209 | 1245 | Cody Nishimura |
 | 210 | 1237 | Megan Ferguson Leone |
-| 211 | 1232 | Groovy Puzzle |
-| 212 | 1232 | Ambyre Patterson |
+| 211 | 1232 | Ambyre Patterson |
+| 212 | 1232 | Groovy Puzzle |
 | 213 | 1232 | Brandon Armstrong |
 | 214 | 1230 | Megan Garrick |
 | 215 | 1217 | Lucky Ladybug |
@@ -376,8 +376,8 @@
 | 368 | 824 | Khalil Lowe |
 | 369 | 822 | Lola Contreras |
 | 370 | 821 | Angie Bolton Workman |
-| 371 | 821 | Cassie Mercer |
-| 372 | 821 | Arkei Luster |
+| 371 | 821 | Arkei Luster |
+| 372 | 821 | Cassie Mercer |
 | 373 | 818 | Lisa Ongtowasruk |
 | 374 | 816 | James Simms III |
 | 375 | 816 | Beth |
@@ -393,9 +393,9 @@
 | 385 | 796 | AndrewandShela Gornik |
 | 386 | 796 | Amber Gray |
 | 387 | 793 | Heather Schelkopf |
-| 388 | 793 | Arlene Joy Belicina |
-| 389 | 793 | Jaycee |
-| 390 | 793 | Ashley Dow |
+| 388 | 793 | Ashley Dow |
+| 389 | 793 | Arlene Joy Belicina |
+| 390 | 793 | Jaycee |
 | 391 | 790 | Kathryn Townsley |
 | 392 | 790 | Brenda Pierpoint |
 | 393 | 788 | Erika Densmore |
@@ -517,8 +517,8 @@
 | 509 | 642 | Cassie Maynard |
 | 510 | 642 | Michelle Fields |
 | 511 | 640 | Belle |
-| 512 | 639 | Rebecca Miller |
-| 513 | 639 | Alexandra Weir |
+| 512 | 639 | Alexandra Weir |
+| 513 | 639 | Rebecca Miller |
 | 514 | 639 | Jackie Avila |
 | 515 | 639 | Toni Roberson |
 | 516 | 637 | Shinette Dobson |
@@ -720,17 +720,17 @@
 | 712 | 480 | Jennifer Leigh |
 | 713 | 480 | Dar |
 | 714 | 479 | bbv |
-| 715 | 479 | Emilie Desma |
+| 715 | 479 | Jason Garnatz |
 | 716 | 479 | Ashlee Cruz |
-| 717 | 479 | Jason Garnatz |
+| 717 | 479 | Emilie Desma |
 | 718 | 478 | Dawn L Washington-Feuquay |
 | 719 | 478 | Kelly |
 | 720 | 477 | Catherine Marsh Gruda |
 | 721 | 476 | Mary Marie |
 | 722 | 476 | Shyenn Gadsby |
-| 723 | 474 | Jamie Carter Bierce |
-| 724 | 474 | Veronica Stevenson |
-| 725 | 474 | Jennifer Scott |
+| 723 | 474 | Veronica Stevenson |
+| 724 | 474 | Jennifer Scott |
+| 725 | 474 | Jamie Carter Bierce |
 | 726 | 474 | Sarah block |
 | 727 | 474 | Calandra Shaya Robinson |
 | 728 | 474 | Joice Hansen |

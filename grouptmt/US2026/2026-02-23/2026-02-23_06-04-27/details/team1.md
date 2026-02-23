@@ -106,8 +106,8 @@
 | 98 | 510 | Chirpy Smasher |
 | 99 | 509 | Rachael |
 | 100 | 497 | Arianna O'Brien |
-| 101 | 493 | Jennifer ManWarren |
-| 102 | 493 | MomMom |
+| 101 | 493 | MomMom |
+| 102 | 493 | Jennifer ManWarren |
 | 103 | 492 | Ash Galvan |
 | 104 | 491 | cc |
 | 105 | 489 | April Carroll |
@@ -227,10 +227,10 @@
 | 219 | 285 | Bird Person |
 | 220 | 285 | Shanae Grant |
 | 221 | 284 | Sarah Somers Gray |
-| 222 | 283 | Franswa |
-| 223 | 283 | Amanda Holibaugh |
-| 224 | 282 | Timothy Dew |
-| 225 | 282 | Mandyy Rae |
+| 222 | 283 | Amanda Holibaugh |
+| 223 | 283 | Franswa |
+| 224 | 282 | Mandyy Rae |
+| 225 | 282 | Timothy Dew |
 | 226 | 281 | Clever Cascadepiece |
 | 227 | 280 | Billie Dawn Sparks |
 | 228 | 277 | Nutty Spinblock |
@@ -250,8 +250,8 @@
 | 242 | 263 | Perky Shiftsnap |
 | 243 | 261 | Brooke Elizabeth Antill |
 | 244 | 261 | John J. Cronin |
-| 245 | 260 | Lacy Wolfe |
-| 246 | 260 | Marianita Garcia |
+| 245 | 260 | Marianita Garcia |
+| 246 | 260 | Lacy Wolfe |
 | 247 | 256 | Chris Sigurdson |
 | 248 | 255 | Giggly Builderline |
 | 249 | 254 | Al Smith Jr |

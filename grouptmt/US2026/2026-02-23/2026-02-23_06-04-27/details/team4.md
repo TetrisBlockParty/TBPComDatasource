@@ -54,13 +54,13 @@
 | 46 | 938 | Denny Shives |
 | 47 | 936 | Rebecca Moulton Pinciaro |
 | 48 | 932 | Marvin Lou Martin |
-| 49 | 911 | Anthony Bryan Riva |
-| 50 | 911 | Jeremy Steines |
+| 49 | 911 | Jeremy Steines |
+| 50 | 911 | Anthony Bryan Riva |
 | 51 | 870 | BertMofo |
 | 52 | 863 | Pee |
 | 53 | 853 | TeeJ |
-| 54 | 846 | Christine Marie |
-| 55 | 846 | Lucille Truesdale |
+| 54 | 846 | Lucille Truesdale |
+| 55 | 846 | Christine Marie |
 | 56 | 845 | LisaJo Picken Buchanan |
 | 57 | 843 | Shelly Chandler |
 | 58 | 834 | quicksand420 |
@@ -88,8 +88,8 @@
 | 80 | 697 | Alyssa Papen |
 | 81 | 696 | Shane Kalamata Platoon |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Kimyatta Cavin |
-| 84 | 684 | Jonathan Kimbrough |
+| 83 | 684 | Jonathan Kimbrough |
+| 84 | 684 | Kimyatta Cavin |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -124,8 +124,8 @@
 | 116 | 514 | Scott Jameson |
 | 117 | 514 | Serena Goodridge |
 | 118 | 513 | Erin Thomas |
-| 119 | 512 | Cristy Duerksen |
-| 120 | 512 | Casey Jeffcoat |
+| 119 | 512 | Casey Jeffcoat |
+| 120 | 512 | Cristy Duerksen |
 | 121 | 511 | Lori Walker |
 | 122 | 482 | Ren Mc |
 | 123 | 481 | Jessica Lynn Cutlip |
@@ -182,8 +182,8 @@
 | 174 | 356 | George Nutt |
 | 175 | 354 | TRCuse |
 | 176 | 352 | Sue Joyce Staats |
-| 177 | 349 | Twisty Cascadezone |
-| 178 | 349 | Rafael Valentin |
+| 177 | 349 | Rafael Valentin |
+| 178 | 349 | Twisty Cascadezone |
 | 179 | 348 | April Rondinone |
 | 180 | 347 | Daria Rycewicz |
 | 181 | 347 | Crystal Nicolette Moore |
@@ -201,8 +201,8 @@
 | 193 | 321 | Meagan Nicole |
 | 194 | 320 | Lauren Scott |
 | 195 | 318 | Chris Hartig |
-| 196 | 316 | Autumn Kumzi |
-| 197 | 316 | Cursed Hag |
+| 196 | 316 | Cursed Hag |
+| 197 | 316 | Autumn Kumzi |
 | 198 | 311 | Mary Ann Pabukis |
 | 199 | 310 | Holly Jolly |
 | 200 | 307 | Cheery Risebuilder |
@@ -235,8 +235,8 @@
 | 227 | 280 | Rio Rocha |
 | 228 | 278 | Sarah Brown |
 | 229 | 278 | Angela Geist Jusinski |
-| 230 | 276 | Matt Dell'Olio |
-| 231 | 276 | Joeliecea Cobb |
+| 230 | 276 | Joeliecea Cobb |
+| 231 | 276 | Matt Dell'Olio |
 | 232 | 274 | JPW |
 | 233 | 273 | Cranky Rollpiece |
 | 234 | 273 | Casey Grabner |
@@ -326,8 +326,8 @@
 | 318 | 212 | Joseph Edmonson |
 | 319 | 211 | Chris Alexinas |
 | 320 | 210 | Ari Droff |
-| 321 | 209 | Snippy Puzzle |
-| 322 | 209 | Marcus Todd |
+| 321 | 209 | Marcus Todd |
+| 322 | 209 | Snippy Puzzle |
 | 323 | 208 | Shukee Lo |
 | 324 | 208 | Heather Bruce |
 | 325 | 206 | Maureen Flanigan |
@@ -355,8 +355,8 @@
 | 347 | 189 | Berklie Apedaile |
 | 348 | 189 | Lauren Lamb |
 | 349 | 189 | Cool Towerbuilder |
-| 350 | 188 | Ernest Maxwell |
-| 351 | 188 | Sharyn Lemire |
+| 350 | 188 | Sharyn Lemire |
+| 351 | 188 | Ernest Maxwell |
 | 352 | 187 | Hyper Builder |
 | 353 | 187 | Jenny Wells-Oakley |
 | 354 | 186 | Riverdale |
@@ -417,8 +417,8 @@
 | 409 | 167 | Tyler Bechtel |
 | 410 | 166 | Gracie Ann Taylor |
 | 411 | 166 | Reds Bella |
-| 412 | 165 | Zappy Buildgrid |
-| 413 | 165 | Vic |
+| 412 | 165 | Vic |
+| 413 | 165 | Zappy Buildgrid |
 | 414 | 165 | Perky Piecegrid |
 | 415 | 164 | Marvetta Williams |
 | 416 | 164 | Vamp |
@@ -476,9 +476,9 @@
 | 468 | 149 | Melissa VanBourgondien |
 | 469 | 149 | Boldy Linkpiece |
 | 470 | 148 | Gdiguy |
-| 471 | 147 | Laurmarcar |
-| 472 | 147 | Jay28 |
-| 473 | 146 | Marcela Johnson |
+| 471 | 147 | Jay28 |
+| 472 | 147 | Laurmarcar |
+| 473 | 146 | Angel Raya |
 | 474 | 146 | Jen Hallin |
 | 475 | 146 | Oleg Zakharskiy |
 | 476 | 146 | Groovy Gridlock |
