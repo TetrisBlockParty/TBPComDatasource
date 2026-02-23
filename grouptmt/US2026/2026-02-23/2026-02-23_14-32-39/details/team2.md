@@ -163,13 +163,13 @@
 | 155 | 1706 | Janel Turley-Garner |
 | 156 | 1681 | Nett |
 | 157 | 1665 | Mema |
-| 158 | 1665 | Eboni Banks |
-| 159 | 1658 | Liberty |
-| 160 | 1653 | Michele Gabriel |
-| 161 | 1647 | Jessie McDougald |
+| 158 | 1658 | Liberty |
+| 159 | 1653 | Michele Gabriel |
+| 160 | 1647 | Jessie McDougald |
+| 161 | 1644 | Luna |
 | 162 | 1644 | Speedy Spinblock |
-| 163 | 1644 | Luna |
-| 164 | 1640 | Scott Treadway |
+| 163 | 1640 | Scott Treadway |
+| 164 | 1629 | Mari Ac |
 | 165 | 1629 | Rickey Johnson |
 | 166 | 1627 | Eboni Banks |
 | 167 | 1625 | Cambrie Schultz |
@@ -252,8 +252,8 @@
 | 244 | 1232 | Ambyre Patterson |
 | 245 | 1230 | Megan Garrick |
 | 246 | 1221 | Jane Fong |
-| 247 | 1217 | Brooks Brooks |
-| 248 | 1217 | Lucky Ladybug |
+| 247 | 1217 | Lucky Ladybug |
+| 248 | 1217 | Brooks Brooks |
 | 249 | 1216 | Pacynthia Williams |
 | 250 | 1214 | David Cudicio-Hayden |
 | 251 | 1211 | Ricardo Burton |
@@ -295,8 +295,8 @@
 | 287 | 1079 | Jennifer Kistner |
 | 288 | 1073 | Jodi Blake |
 | 289 | 1071 | Kim Dean |
-| 290 | 1069 | Carl Bradshaw |
-| 291 | 1069 | Offonar Facey |
+| 290 | 1069 | Offonar Facey |
+| 291 | 1069 | Carl Bradshaw |
 | 292 | 1068 | Cindy Sechler Taninecz |
 | 293 | 1064 | BK Queen |
 | 294 | 1063 | Caitlin Schmid |
@@ -312,8 +312,8 @@
 | 304 | 1042 | Mcintosh Brian Shalonda |
 | 305 | 1042 | Michele Morgan |
 | 306 | 1038 | Hillary Crawford |
-| 307 | 1036 | Allison Lockyer |
-| 308 | 1036 | Amber Shoemaker |
+| 307 | 1036 | Amber Shoemaker |
+| 308 | 1036 | Allison Lockyer |
 | 309 | 1032 | Kristin Gower |
 | 310 | 1029 | Crystal Hoffman |
 | 311 | 1024 | Taylor Phillips |

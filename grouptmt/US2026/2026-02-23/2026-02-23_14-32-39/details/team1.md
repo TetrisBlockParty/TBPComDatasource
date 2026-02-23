@@ -46,8 +46,8 @@
 | 38 | 1128 | june october |
 | 39 | 1126 | Tater |
 | 40 | 1122 | Amanda Summey Schoemer |
-| 41 | 1114 | Marianne Louise West |
-| 42 | 1114 | Jayme Sellers |
+| 41 | 1114 | Jayme Sellers |
+| 42 | 1114 | Marianne Louise West |
 | 43 | 1112 | Chipper Gridlock |
 | 44 | 1100 | Derek MF Blakey |
 | 45 | 1069 | Patrick Luckenbill |
@@ -241,8 +241,8 @@
 | 233 | 324 | Rat666 |
 | 234 | 323 | Eric DeSimone |
 | 235 | 323 | Madison Wicks |
-| 236 | 322 | Angela Renea Lester |
-| 237 | 322 | Letson Melissa |
+| 236 | 322 | Letson Melissa |
+| 237 | 322 | Angela Renea Lester |
 | 238 | 319 | Frothy Pattern |
 | 239 | 317 | Sarah Roberts |
 | 240 | 316 | Sassy Builderline |
@@ -273,8 +273,8 @@
 | 265 | 286 | Sarahdactyl |
 | 266 | 285 | Shanae Grant |
 | 267 | 284 | Sam Williams |
-| 268 | 283 | Franswa |
-| 269 | 283 | Larry Tilton |
+| 268 | 283 | Larry Tilton |
+| 269 | 283 | Franswa |
 | 270 | 282 | Timothy Dew |
 | 271 | 281 | Clever Cascadepiece |
 | 272 | 280 | Billie Dawn Sparks |

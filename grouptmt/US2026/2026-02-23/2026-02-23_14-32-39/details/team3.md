@@ -19,7 +19,7 @@
 | 11 | 4936 | Travis Copfer |
 | 12 | 4222 | Lauren d |
 | 13 | 3959 | Cheeky Match |
-| 14 | 3796 | Lush Buildout |
+| 14 | 3759 | Lush Buildout |
 | 15 | 3339 | Clever Roll |
 | 16 | 3207 | Ruby Thompson |
 | 17 | 2994 | Ashley Jones |
@@ -81,8 +81,8 @@
 | 73 | 1256 | Jessica Bechler |
 | 74 | 1244 | Lori Barnaby |
 | 75 | 1221 | Betty Ivy |
-| 76 | 1213 | Snappy Glidepiece |
-| 77 | 1213 | Nerdy Riseclear |
+| 76 | 1213 | Nerdy Riseclear |
+| 77 | 1213 | Snappy Glidepiece |
 | 78 | 1209 | Amanda Adkins |
 | 79 | 1190 | Jay Horn |
 | 80 | 1186 | Christian A. Pollard |
