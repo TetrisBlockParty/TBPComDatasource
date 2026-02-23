@@ -91,8 +91,8 @@
 | 83 | 647 | Jason Jones |
 | 84 | 645 | Robert Benito |
 | 85 | 600 | Greg Hart |
-| 86 | 598 | Erin Hodges Plumb |
-| 87 | 598 | Kellie |
+| 86 | 598 | Kellie |
+| 87 | 598 | Erin Hodges Plumb |
 | 88 | 584 | Jen Sartain |
 | 89 | 583 | Theo Pinnow |
 | 90 | 582 | Plucky Fallzone |
@@ -113,8 +113,8 @@
 | 105 | 509 | Rachael |
 | 106 | 502 | Anaid Sanchez |
 | 107 | 497 | Arianna O'Brien |
-| 108 | 493 | Jennifer ManWarren |
-| 109 | 493 | MomMom |
+| 108 | 493 | MomMom |
+| 109 | 493 | Jennifer ManWarren |
 | 110 | 492 | Ash Galvan |
 | 111 | 491 | cc |
 | 112 | 489 | April Carroll |
@@ -133,8 +133,8 @@
 | 125 | 452 | Hyper |
 | 126 | 451 | Plucky Ziggy |
 | 127 | 450 | lil mickey |
-| 128 | 448 | Jazzy Framezone |
-| 129 | 448 | Sweet Baker |
+| 128 | 448 | Sweet Baker |
+| 129 | 448 | Jazzy Framezone |
 | 130 | 446 | SkipTheSadSauce |
 | 131 | 443 | Steve Schneider |
 | 132 | 440 | femmefatale |

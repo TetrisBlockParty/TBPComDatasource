@@ -114,8 +114,8 @@
 | 106 | 869 | Araceli Parra |
 | 107 | 868 | Sarajane Lokan |
 | 108 | 860 | Sunny Rotater |
-| 109 | 851 | Danielle Becker |
-| 110 | 851 | Jd Morris |
+| 109 | 851 | Jd Morris |
+| 110 | 851 | Danielle Becker |
 | 111 | 850 | Danielle Mogg |
 | 112 | 848 | Patricia Gadsden |
 | 113 | 839 | Angeline Joseph |
@@ -133,8 +133,8 @@
 | 125 | 764 | Groovy Catcher |
 | 126 | 764 | Hasty Cascadefit |
 | 127 | 762 | Speedy Bridger |
-| 128 | 755 | Raya |
-| 129 | 755 | Katrina Schroeder |
+| 128 | 755 | Katrina Schroeder |
+| 129 | 755 | Raya |
 | 130 | 752 | Logan Naccarato |
 | 131 | 748 | Adrian Marcel Pate |
 | 132 | 745 | JerseyJess |
@@ -166,8 +166,8 @@
 | 158 | 646 | Bea Miles |
 | 159 | 634 | Amber Hughes |
 | 160 | 630 | yoyo |
-| 161 | 621 | Cherry Parker |
-| 162 | 621 | Sashay Tapae Simpson |
+| 161 | 621 | Sashay Tapae Simpson |
+| 162 | 621 | Cherry Parker |
 | 163 | 616 | Kammy Hill |
 | 164 | 611 | Rochelle Hazelett |
 | 165 | 607 | Nicole Myers |
@@ -198,14 +198,14 @@
 | 190 | 546 | Mykal Burton |
 | 191 | 546 | Tasha Schriewer |
 | 192 | 540 | Shawn Miller |
-| 193 | 531 | Sarah Cowan Burgos |
-| 194 | 531 | Chauntee Alfrey-Cardinale |
+| 193 | 531 | Chauntee Alfrey-Cardinale |
+| 194 | 531 | Sarah Cowan Burgos |
 | 195 | 528 | Silly Twist |
 | 196 | 525 | Stephanie Blkpep Davidson |
 | 197 | 524 | Bmo |
 | 198 | 521 | Shannon Matthew Byers |
-| 199 | 519 | Terry Jo Jones |
-| 200 | 519 | rnr junky |
+| 199 | 519 | rnr junky |
+| 200 | 519 | Terry Jo Jones |
 | 201 | 515 | Cozy Snaplink |
 | 202 | 513 | Lizabeth Fox |
 | 203 | 510 | Makelini Mausia |
@@ -345,8 +345,8 @@
 | 337 | 311 | Troy |
 | 338 | 309 | Desiree Gold |
 | 339 | 309 | Cheeky Snapper |
-| 340 | 308 | Tia |
-| 341 | 308 | Katrina Turner |
+| 340 | 308 | Katrina Turner |
+| 341 | 308 | Tia |
 | 342 | 305 | Hyper Matchzone |
 | 343 | 304 | _melisa223_ |
 | 344 | 303 | Alexmac |

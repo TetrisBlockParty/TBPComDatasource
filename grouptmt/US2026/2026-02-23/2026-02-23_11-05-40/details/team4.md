@@ -76,8 +76,8 @@
 | 68 | 787 | Edward White |
 | 69 | 767 | Shannon Ferrari |
 | 70 | 766 | Robin Watters |
-| 71 | 765 | Robin Getchel |
-| 72 | 765 | Denise Carlson |
+| 71 | 765 | Denise Carlson |
+| 72 | 765 | Robin Getchel |
 | 73 | 753 | TheNeesh50 |
 | 74 | 752 | Shane Kalamata Platoon |
 | 75 | 749 | Dustee Craddock-Harrison |
@@ -98,8 +98,8 @@
 | 90 | 659 | Jamie Gustafson |
 | 91 | 653 | Rica Mitchell |
 | 92 | 650 | KJ Pool |
-| 93 | 647 | Shauna Havard |
-| 94 | 647 | KM8 |
+| 93 | 647 | KM8 |
+| 94 | 647 | Shauna Havard |
 | 95 | 646 | Eric Mcgaughy |
 | 96 | 626 | Brittney Griggs |
 | 97 | 624 | Judy Cox |
@@ -129,8 +129,8 @@
 | 121 | 514 | Serena Goodridge |
 | 122 | 514 | Scott Jameson |
 | 123 | 513 | Erin Thomas |
-| 124 | 512 | Casey Jeffcoat |
-| 125 | 512 | Cristy Duerksen |
+| 124 | 512 | Cristy Duerksen |
+| 125 | 512 | Casey Jeffcoat |
 | 126 | 509 | Leslie Nicole |
 | 127 | 485 | Melissa Adams |
 | 128 | 483 | Angela Srubar-Norman |
@@ -164,8 +164,8 @@
 | 156 | 414 | Nope Young |
 | 157 | 413 | Circuit8 |
 | 158 | 412 | Jessica Bohlken |
-| 159 | 406 | Damn Libra |
-| 160 | 406 | Livvy |
+| 159 | 406 | Livvy |
+| 160 | 406 | Damn Libra |
 | 161 | 403 | Keith Kelley |
 | 162 | 402 | Lucas J Sutton |
 | 163 | 398 | Tyler Terrific |
@@ -194,8 +194,8 @@
 | 186 | 354 | TRCuse |
 | 187 | 352 | Sue Joyce Staats |
 | 188 | 349 | Rafael Valentin |
-| 189 | 348 | April Rondinone |
-| 190 | 348 | David Lay |
+| 189 | 348 | David Lay |
+| 190 | 348 | April Rondinone |
 | 191 | 347 | Daria Rycewicz |
 | 192 | 347 | Crystal Nicolette Moore |
 | 193 | 347 | Bio Nelly |
@@ -215,8 +215,8 @@
 | 207 | 320 | Lauren Scott |
 | 208 | 319 | Googenheim |
 | 209 | 318 | Chris Hartig |
-| 210 | 317 | Madison Sweere |
-| 211 | 317 | Lori |
+| 210 | 317 | Lori |
+| 211 | 317 | Madison Sweere |
 | 212 | 316 | Autumn Kumzi |
 | 213 | 313 | Milan Markeisha |
 | 214 | 312 | Dihcheese444 |
@@ -287,8 +287,8 @@
 | 279 | 253 | Shiny Fit |
 | 280 | 251 | Carol Ricks Raymond |
 | 281 | 249 | Ak Jones |
-| 282 | 248 | Chirpy Basepiece |
-| 283 | 248 | Angelito |
+| 282 | 248 | Angelito |
+| 283 | 248 | Chirpy Basepiece |
 | 284 | 248 | Jose Dejesus |
 | 285 | 245 | 23 |
 | 286 | 244 | Elizabeth Tinoco |
@@ -326,8 +326,8 @@
 | 318 | 223 | Chance Strickland |
 | 319 | 222 | Brandi Durig |
 | 320 | 221 | Rheanda Weaskus |
-| 321 | 220 | Ziggy |
-| 322 | 220 | Nita Wells |
+| 321 | 220 | Nita Wells |
+| 322 | 220 | Ziggy |
 | 323 | 220 | Jumpy Zonepiece |
 | 324 | 220 | Tina Lopez |
 | 325 | 219 | Shane Vick |
@@ -974,8 +974,8 @@
 | 966 | 67 | Gary Say |
 | 967 | 67 | Zappy Piecefit |
 | 968 | 67 | Mighty Blockzone |
-| 969 | 67 | Travis Poe |
-| 970 | 67 | Denye |
+| 969 | 67 | Denye |
+| 970 | 67 | Travis Poe |
 | 971 | 66 | Veronica Garza |
 | 972 | 66 | Erin Kushner |
 | 973 | 66 | Anne-Marie Reyes |
