@@ -78,8 +78,8 @@
 | 70 | 1264 | Amanda L Baker |
 | 71 | 1258 | Danielle Cutler |
 | 72 | 1256 | Jessica Bechler |
-| 73 | 1213 | Snappy Glidepiece |
-| 74 | 1213 | Nerdy Riseclear |
+| 73 | 1213 | Nerdy Riseclear |
+| 74 | 1213 | Snappy Glidepiece |
 | 75 | 1209 | Amanda Adkins |
 | 76 | 1186 | Christian A. Pollard |
 | 77 | 1162 | Gracie |
@@ -132,8 +132,8 @@
 | 124 | 775 | Leah Barnett |
 | 125 | 774 | Keith J Oshman Jr. |
 | 126 | 773 | Daira Largen |
-| 127 | 764 | Groovy Catcher |
-| 128 | 764 | Hasty Cascadefit |
+| 127 | 764 | Hasty Cascadefit |
+| 128 | 764 | Groovy Catcher |
 | 129 | 762 | Speedy Bridger |
 | 130 | 755 | Katrina Schroeder |
 | 131 | 755 | Raya |
@@ -179,16 +179,16 @@
 | 171 | 597 | Diana Ibarra |
 | 172 | 591 | Michael Nowogorski |
 | 173 | 587 | Louise Stacy Sisson |
-| 174 | 585 | Happy Tetriblast |
-| 175 | 585 | Domo Washington |
+| 174 | 585 | Domo Washington |
+| 175 | 585 | Happy Tetriblast |
 | 176 | 583 | Tasha Gillespie |
 | 177 | 582 | Natasha Jones |
 | 178 | 574 | Morgan Martinez |
 | 179 | 572 | CeceGeGe |
 | 180 | 568 | Rachael McClain Owens |
 | 181 | 566 | LaTanya GeminiondaRise Johnson |
-| 182 | 564 | Poppy Splitter |
-| 183 | 564 | Christine Trester |
+| 182 | 564 | Christine Trester |
+| 183 | 564 | Poppy Splitter |
 | 184 | 563 | Jim Mathews |
 | 185 | 562 | Dave Herzog |
 | 186 | 559 | Patti Skiles |
@@ -354,8 +354,8 @@
 | 346 | 311 | Troy |
 | 347 | 309 | Desiree Gold |
 | 348 | 309 | Cheeky Snapper |
-| 349 | 308 | Tia |
-| 350 | 308 | Katrina Turner |
+| 349 | 308 | Katrina Turner |
+| 350 | 308 | Tia |
 | 351 | 305 | Hyper Matchzone |
 | 352 | 304 | _melisa223_ |
 | 353 | 303 | Alexmac |
@@ -399,10 +399,10 @@
 | 391 | 277 | Tipsy Zonebuilder |
 | 392 | 277 | Joe-Maggie Mathews |
 | 393 | 276 | Karent524 |
-| 394 | 276 | BugMansMom |
-| 395 | 276 | Crimson |
-| 396 | 276 | Mikki Torres |
-| 397 | 276 | Noettín Kan Zasnemoore |
+| 394 | 276 | Noettín Kan Zasnemoore |
+| 395 | 276 | BugMansMom |
+| 396 | 276 | Crimson |
+| 397 | 276 | Mikki Torres |
 | 398 | 275 | Cassandra Bryant |
 | 399 | 274 | Mary Giorgenti |
 | 400 | 273 | Kevin Fountain |

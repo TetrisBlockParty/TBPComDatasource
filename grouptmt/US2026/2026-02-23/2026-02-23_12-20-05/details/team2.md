@@ -301,8 +301,8 @@
 | 293 | 1043 | nikki |
 | 294 | 1042 | Mcintosh Brian Shalonda |
 | 295 | 1040 | Rebecca Garland |
-| 296 | 1036 | Amber Shoemaker |
-| 297 | 1036 | Allison Lockyer |
+| 296 | 1036 | Allison Lockyer |
+| 297 | 1036 | Amber Shoemaker |
 | 298 | 1032 | Kristin Gower |
 | 299 | 1029 | Crystal Hoffman |
 | 300 | 1026 | Cindy Sechler Taninecz |
@@ -609,8 +609,8 @@
 | 601 | 601 | Moua Ying |
 | 602 | 601 | Daniel Amos |
 | 603 | 600 | Nicole Cox |
-| 604 | 597 | Jamie Schmitt |
-| 605 | 597 | TJ Nash |
+| 604 | 597 | TJ Nash |
+| 605 | 597 | Jamie Schmitt |
 | 606 | 597 | Magic steve |
 | 607 | 596 | Davetta Sanford |
 | 608 | 595 | Dapper Dasher |
@@ -667,11 +667,11 @@
 | 659 | 554 | Laquetta Royston |
 | 660 | 554 | Party d |
 | 661 | 553 | Kelli Wells |
-| 662 | 551 | Matt Johnson |
-| 663 | 551 | Cynthia Louann Rose |
-| 664 | 550 | Frilly Fallzone |
-| 665 | 550 | Shorty |
-| 666 | 550 | Michelle Sager |
+| 662 | 551 | Cynthia Louann Rose |
+| 663 | 551 | Matt Johnson |
+| 664 | 550 | Michelle Sager |
+| 665 | 550 | Frilly Fallzone |
+| 666 | 550 | Shorty |
 | 667 | 549 | Kaylee McCafferty |
 | 668 | 549 | Crystal Hodge Love |
 | 669 | 548 | Lee Harper |
