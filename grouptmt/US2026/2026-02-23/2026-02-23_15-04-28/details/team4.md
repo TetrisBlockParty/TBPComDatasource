@@ -78,8 +78,8 @@
 | 70 | 807 | Amelpss |
 | 71 | 802 | Crystal Carroll |
 | 72 | 788 | Chilly Line |
-| 73 | 787 | loulou |
-| 74 | 787 | Edward White |
+| 73 | 787 | Edward White |
+| 74 | 787 | loulou |
 | 75 | 769 | Alyssa Papen |
 | 76 | 768 | Judy Cox |
 | 77 | 767 | Shannon Ferrari |
@@ -130,8 +130,8 @@
 | 122 | 545 | Desi Desporte |
 | 123 | 542 | Austin Owens |
 | 124 | 540 | Rodney McMath Jr. |
-| 125 | 538 | Lindsey Gonzalez |
-| 126 | 538 | shar |
+| 125 | 538 | shar |
+| 126 | 538 | Lindsey Gonzalez |
 | 127 | 537 | Dizzy Tiley |
 | 128 | 533 | Samantha Peterson |
 | 129 | 531 | Serena Goodridge |
@@ -254,8 +254,8 @@
 | 246 | 307 | Michele Plunkett |
 | 247 | 306 | mike |
 | 248 | 305 | Melvin Baird |
-| 249 | 304 | Gdiguy |
-| 250 | 304 | Shiny Fit |
+| 249 | 304 | Shiny Fit |
+| 250 | 304 | Gdiguy |
 | 251 | 304 | Joanna |
 | 252 | 303 | blasterB |
 | 253 | 300 | Dana Scott |
@@ -384,17 +384,17 @@
 | 376 | 214 | Susan R. Wilson |
 | 377 | 214 | B Renee Desjardin |
 | 378 | 214 | Patron Anderson |
-| 379 | 212 | Zany Shatterer |
-| 380 | 212 | Mike Solo |
-| 381 | 211 | Brittany Little |
-| 382 | 211 | Neirrah B Olailjeel |
+| 379 | 212 | Mike Solo |
+| 380 | 212 | Zany Shatterer |
+| 381 | 211 | Neirrah B Olailjeel |
+| 382 | 211 | Brittany Little |
 | 383 | 210 | Vanessa Smart |
 | 384 | 209 | Snippy Puzzle |
 | 385 | 209 | Sarah Hoffman |
 | 386 | 209 | Marcus Todd |
 | 387 | 209 | Matthew Pate |
-| 388 | 208 | Wacky Blockclear |
-| 389 | 208 | Shukee Lo |
+| 388 | 208 | Shukee Lo |
+| 389 | 208 | Wacky Blockclear |
 | 390 | 207 | Jen Mattei |
 | 391 | 207 | Jessica Wells |
 | 392 | 206 | The Murphy |
@@ -425,14 +425,14 @@
 | 417 | 194 | Jim Hart |
 | 418 | 194 | Eri Kka |
 | 419 | 193 | Jennifer Brown |
-| 420 | 192 | Twisty Risebuilder |
-| 421 | 192 | Meg |
+| 420 | 192 | Meg |
+| 421 | 192 | Twisty Risebuilder |
 | 422 | 191 | Riverdale |
 | 423 | 191 | Earnest Thompson |
 | 424 | 191 | Norman Klick |
 | 425 | 190 | wombat |
-| 426 | 189 | Duck |
-| 427 | 189 | Marcus TheeyoungWoe Gilmore |
+| 426 | 189 | Marcus TheeyoungWoe Gilmore |
+| 427 | 189 | Duck |
 | 428 | 189 | Ryry |
 | 429 | 188 | Jarred Falls |
 | 430 | 188 | Frilly Blocky |

@@ -82,8 +82,8 @@
 | 74 | 1256 | Jessica Bechler |
 | 75 | 1244 | Lori Barnaby |
 | 76 | 1221 | Betty Ivy |
-| 77 | 1213 | Nerdy Riseclear |
-| 78 | 1213 | Snappy Glidepiece |
+| 77 | 1213 | Snappy Glidepiece |
+| 78 | 1213 | Nerdy Riseclear |
 | 79 | 1209 | Amanda Adkins |
 | 80 | 1186 | Christian A. Pollard |
 | 81 | 1169 | Araceli Parra |
@@ -170,8 +170,8 @@
 | 162 | 647 | Jennifer Lynn Fahrenholtz-Summers |
 | 163 | 646 | Bea Miles |
 | 164 | 646 | Tina Kay |
-| 165 | 634 | Denita Mungro |
-| 166 | 634 | Amber Hughes |
+| 165 | 634 | Amber Hughes |
+| 166 | 634 | Denita Mungro |
 | 167 | 632 | Morgan Martinez |
 | 168 | 630 | yoyo |
 | 169 | 629 | rnr junky |
@@ -265,8 +265,8 @@
 | 257 | 431 | Ammmmmmy |
 | 258 | 430 | Jeni Dow |
 | 259 | 429 | Carrie Huskey |
-| 260 | 428 | Sleepy |
-| 261 | 428 | Randy Clevenger |
+| 260 | 428 | Randy Clevenger |
+| 261 | 428 | Sleepy |
 | 262 | 425 | Nicole Flippo |
 | 263 | 424 | Cesar Barraza |
 | 264 | 424 | Gumbo |
@@ -298,11 +298,11 @@
 | 290 | 385 | Velma Mull |
 | 291 | 384 | Noyb Adam |
 | 292 | 384 | France Vézina |
-| 293 | 382 | Salena Whitlock |
-| 294 | 382 | Desiree Gold |
+| 293 | 382 | Desiree Gold |
+| 294 | 382 | Salena Whitlock |
 | 295 | 380 | Rebecca Bailey |
-| 296 | 379 | JessDrown |
-| 297 | 379 | Philip Rock |
+| 296 | 379 | Philip Rock |
+| 297 | 379 | JessDrown |
 | 298 | 378 | Chris Bell |
 | 299 | 378 | MsBee |
 | 300 | 376 | Sarah Moyer |
@@ -319,10 +319,10 @@
 | 311 | 362 | Foltz Lee Kelli |
 | 312 | 361 | Breanna Marsden |
 | 313 | 360 | Dee Pratt |
-| 314 | 359 | Kelly |
-| 315 | 359 | Steven Fulater |
-| 316 | 358 | Roary Danner |
-| 317 | 358 | Heather Davis |
+| 314 | 359 | Steven Fulater |
+| 315 | 359 | Kelly |
+| 316 | 358 | Heather Davis |
+| 317 | 358 | Roary Danner |
 | 318 | 358 | KayB |
 | 319 | 354 | Andrew Thorson |
 | 320 | 353 | Dee Franklin |
@@ -343,8 +343,8 @@
 | 335 | 342 | Cynthia Herrmann Egland |
 | 336 | 341 | Rick Poppen |
 | 337 | 341 | Lys |
-| 338 | 340 | Nikki Pags |
-| 339 | 340 | Erika Thornton |
+| 338 | 340 | Erika Thornton |
+| 339 | 340 | Nikki Pags |
 | 340 | 338 | fraulila |
 | 341 | 335 | victory |
 | 342 | 333 | Nikki White |
@@ -445,8 +445,8 @@
 | 437 | 272 | Eboni Starr |
 | 438 | 272 | AC Yeater |
 | 439 | 271 | Scott Doss |
-| 440 | 269 | Aponk |
-| 441 | 269 | Samantha Worley |
+| 440 | 269 | Samantha Worley |
+| 441 | 269 | Aponk |
 | 442 | 269 | Goofy Fall |
 | 443 | 268 | Julia Nicole |
 | 444 | 268 | Jessica Lynn French |
@@ -460,11 +460,11 @@
 | 452 | 265 | Jack Bo |
 | 453 | 264 | Reina Roth |
 | 454 | 264 | Funky Jumper |
-| 455 | 264 | Colton |
-| 456 | 264 | Danielle Beaunoyer Jean |
+| 455 | 264 | Danielle Beaunoyer Jean |
+| 456 | 264 | Colton |
 | 457 | 262 | Rainbow77375 |
-| 458 | 260 | Tracey Cox |
-| 459 | 260 | Alice |
+| 458 | 260 | Alice |
+| 459 | 260 | Tracey Cox |
 | 460 | 259 | Shania Vaine |
 | 461 | 259 | Tegan Chapman |
 | 462 | 258 | Dana Fox |
@@ -487,8 +487,8 @@
 | 479 | 252 | Josh Borquez |
 | 480 | 252 | Jl |
 | 481 | 252 | Kassie Dominique Rathbone |
-| 482 | 251 | Colleen Phelps |
-| 483 | 251 | Valerie Tarkington |
+| 482 | 251 | Valerie Tarkington |
+| 483 | 251 | Colleen Phelps |
 | 484 | 250 | Emma |
 | 485 | 248 | Smiley Zone |
 | 486 | 248 | 4girls |
