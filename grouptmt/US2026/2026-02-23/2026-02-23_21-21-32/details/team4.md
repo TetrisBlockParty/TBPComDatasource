@@ -90,8 +90,8 @@
 | 82 | 826 | Rica Mitchell |
 | 83 | 802 | Crystal Carroll |
 | 84 | 794 | Chilly Line |
-| 85 | 783 | Denise Carlson |
-| 86 | 783 | Guy Incognito |
+| 85 | 783 | Guy Incognito |
+| 86 | 783 | Denise Carlson |
 | 87 | 775 | Klo |
 | 88 | 768 | Judy Cox |
 | 89 | 767 | Shannon Ferrari |
@@ -147,8 +147,8 @@
 | 139 | 551 | Ren Mc |
 | 140 | 549 | Carlos Ramirez |
 | 141 | 546 | Dizzy Tiley |
-| 142 | 545 | Livvy |
-| 143 | 545 | Desi Desporte |
+| 142 | 545 | Desi Desporte |
+| 143 | 545 | Livvy |
 | 144 | 542 | Austin Owens |
 | 145 | 540 | Rodney McMath Jr. |
 | 146 | 536 | Kimberlee Jan Beckstead |
@@ -158,8 +158,8 @@
 | 150 | 520 | Zippy Block |
 | 151 | 518 | Carly Alexis |
 | 152 | 516 | Trish |
-| 153 | 514 | Lucas J Sutton |
-| 154 | 514 | Scott Jameson |
+| 153 | 514 | Scott Jameson |
+| 154 | 514 | Lucas J Sutton |
 | 155 | 513 | Erin Thomas |
 | 156 | 513 | Jessica Lynn Cutlip |
 | 157 | 512 | ThaEviLJeNiuZ |
@@ -196,8 +196,8 @@
 | 188 | 449 | Rebecca Morris |
 | 189 | 448 | Kesha Brady |
 | 190 | 444 | Mylo Lipscomb |
-| 191 | 444 | Berklie Apedaile |
-| 192 | 444 | J-Rizzle |
+| 191 | 444 | J-Rizzle |
+| 192 | 444 | Berklie Apedaile |
 | 193 | 443 | Kristina Black |
 | 194 | 442 | SAP |
 | 195 | 441 | George Nutt |
@@ -215,13 +215,13 @@
 | 207 | 423 | Lori |
 | 208 | 422 | Zakia Monae |
 | 209 | 421 | JIGsaw ~(•¿°)~ |
-| 210 | 418 | Marie-Pier Desjardins |
-| 211 | 418 | Lush Linkfall |
+| 210 | 418 | Lush Linkfall |
+| 211 | 418 | Marie-Pier Desjardins |
 | 212 | 413 | Circuit8 |
 | 213 | 413 | John Brunetti |
 | 214 | 412 | Chris Bernstein |
-| 215 | 411 | Mimi |
-| 216 | 411 | Silly Zonebuilder |
+| 215 | 411 | Silly Zonebuilder |
+| 216 | 411 | Mimi |
 | 217 | 411 | Autumn Kumzi |
 | 218 | 400 | Antony Dwayne Beasley |
 | 219 | 399 | Lindsay Ball |
@@ -315,12 +315,12 @@
 | 307 | 292 | Tracey Lehmann |
 | 308 | 292 | Epic Curvetile |
 | 309 | 292 | Angel Raya |
-| 310 | 291 | ZeeZee |
-| 311 | 291 | Dizzy Matchzone |
+| 310 | 291 | Dizzy Matchzone |
+| 311 | 291 | ZeeZee |
 | 312 | 291 | Brittney Orengo |
 | 313 | 290 | Heather Bruce |
-| 314 | 290 | Jared Gutwein |
-| 315 | 290 | Neirrah B Olailjeel |
+| 314 | 290 | Neirrah B Olailjeel |
+| 315 | 290 | Jared Gutwein |
 | 316 | 289 | Juls |
 | 317 | 289 | Deb Rubeck |
 | 318 | 288 | Amy Jean |
@@ -330,8 +330,8 @@
 | 322 | 283 | Jackie Clark |
 | 323 | 282 | rebel4lyfe |
 | 324 | 282 | DQ Martin |
-| 325 | 281 | Morti |
-| 326 | 281 | Laura |
+| 325 | 281 | Laura |
+| 326 | 281 | Morti |
 | 327 | 280 | Amy Sanford |
 | 328 | 279 | Brittany Marsh |
 | 329 | 279 | Jim Hart |
