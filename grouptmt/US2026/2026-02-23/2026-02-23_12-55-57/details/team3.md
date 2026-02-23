@@ -259,8 +259,8 @@
 | 251 | 420 | Quackers |
 | 252 | 420 | Sabrina Hardrick |
 | 253 | 419 | Marci Mize Fandrich |
-| 254 | 417 | Nicole Flippo |
-| 255 | 417 | Giddy Twistbuilder |
+| 254 | 417 | Giddy Twistbuilder |
+| 255 | 417 | Nicole Flippo |
 | 256 | 414 | RickyG |
 | 257 | 414 | Fran Lin |
 | 258 | 413 | Micayah Stevens |

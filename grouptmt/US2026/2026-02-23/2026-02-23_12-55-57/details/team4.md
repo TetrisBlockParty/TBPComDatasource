@@ -238,8 +238,8 @@
 | 230 | 311 | Nikki Rae Gordon |
 | 231 | 308 | Leah Kutz Zirbel |
 | 232 | 307 | Cheery Risebuilder |
-| 233 | 307 | Michele Plunkett |
-| 234 | 307 | Angie Schmidt |
+| 233 | 307 | Angie Schmidt |
+| 234 | 307 | Michele Plunkett |
 | 235 | 306 | mike |
 | 236 | 305 | Melvin Baird |
 | 237 | 304 | Gdiguy |
@@ -353,8 +353,8 @@
 | 345 | 219 | Shane Vick |
 | 346 | 219 | Orchislactea |
 | 347 | 218 | Janita Parrish |
-| 348 | 217 | Cheery Fitline |
-| 349 | 217 | Paito |
+| 348 | 217 | Paito |
+| 349 | 217 | Cheery Fitline |
 | 350 | 217 | Alexandra Karavias |
 | 351 | 216 | Funky Risepiece |
 | 352 | 215 | 07VHVW |
@@ -463,9 +463,9 @@
 | 455 | 169 | Dante Korleon |
 | 456 | 168 | Jennifer Renee |
 | 457 | 167 | Carla Harris |
-| 458 | 167 | Dapper Frame |
-| 459 | 167 | Snippy Clearer |
-| 460 | 167 | Tipsy Cascader |
+| 458 | 167 | Tipsy Cascader |
+| 459 | 167 | Dapper Frame |
+| 460 | 167 | Snippy Clearer |
 | 461 | 166 | Grann8 |
 | 462 | 166 | Reds Bella |
 | 463 | 165 | Vic |

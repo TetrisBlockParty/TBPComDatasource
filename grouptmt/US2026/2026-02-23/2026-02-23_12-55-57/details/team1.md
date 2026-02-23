@@ -105,8 +105,8 @@
 | 97 | 553 | And |
 | 98 | 537 | Stephanie Zahn |
 | 99 | 535 | Susan Ward |
-| 100 | 534 | Veronica Eve |
-| 101 | 534 | Loony Fitzone |
+| 100 | 534 | Loony Fitzone |
+| 101 | 534 | Veronica Eve |
 | 102 | 529 | Ryan Lunnin |
 | 103 | 522 | Sarah Lombardo |
 | 104 | 522 | Tdub |
@@ -138,8 +138,8 @@
 | 130 | 453 | Brandi Huntington |
 | 131 | 451 | Plucky Ziggy |
 | 132 | 450 | lil mickey |
-| 133 | 448 | Jazzy Framezone |
-| 134 | 448 | Sweet Baker |
+| 133 | 448 | Sweet Baker |
+| 134 | 448 | Jazzy Framezone |
 | 135 | 446 | SkipTheSadSauce |
 | 136 | 443 | Steve Schneider |
 | 137 | 440 | femmefatale |
@@ -226,10 +226,10 @@
 | 218 | 327 | Jen Nystrom |
 | 219 | 325 | GringaLinga |
 | 220 | 324 | Rat666 |
-| 221 | 323 | Eric DeSimone |
-| 222 | 323 | Madison Wicks |
-| 223 | 322 | Letson Melissa |
-| 224 | 322 | Angela Renea Lester |
+| 221 | 323 | Madison Wicks |
+| 222 | 323 | Eric DeSimone |
+| 223 | 322 | Angela Renea Lester |
+| 224 | 322 | Letson Melissa |
 | 225 | 320 | Danielle Little-Daugherty |
 | 226 | 319 | Frothy Pattern |
 | 227 | 317 | Sarah Roberts |
@@ -260,8 +260,8 @@
 | 252 | 289 | Alenoush Karimian |
 | 253 | 288 | Bird Person |
 | 254 | 285 | Shanae Grant |
-| 255 | 284 | Sir-Franchise Drake |
-| 256 | 284 | Sam Williams |
+| 255 | 284 | Sam Williams |
+| 256 | 284 | Sir-Franchise Drake |
 | 257 | 283 | Franswa |
 | 258 | 282 | Timothy Dew |
 | 259 | 281 | Clever Cascadepiece |
