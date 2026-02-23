@@ -90,8 +90,8 @@
 | 82 | 1244 | Lori Barnaby |
 | 83 | 1240 | Betty Ivy |
 | 84 | 1221 | Logan Naccarato |
-| 85 | 1213 | Nerdy Riseclear |
-| 86 | 1213 | Snappy Glidepiece |
+| 85 | 1213 | Snappy Glidepiece |
+| 86 | 1213 | Nerdy Riseclear |
 | 87 | 1212 | Amanda Adkins |
 | 88 | 1198 | Jd Morris |
 | 89 | 1187 | Danielle Mogg |
@@ -308,16 +308,16 @@
 | 300 | 414 | RickyG |
 | 301 | 412 | Jojo M |
 | 302 | 411 | Megan Rathmanner |
-| 303 | 410 | Duane Bright |
-| 304 | 410 | Brian Battjes |
+| 303 | 410 | Brian Battjes |
+| 304 | 410 | Duane Bright |
 | 305 | 409 | Desiree Gold |
 | 306 | 409 | Hyper Matchzone |
 | 307 | 408 | Tiffany Ford |
 | 308 | 408 | Ashley Muncey |
 | 309 | 405 | Steffi Chris Dacones |
 | 310 | 403 | lashanda |
-| 311 | 403 | Scott Lindsay |
-| 312 | 403 | Stephanie Burtin |
+| 311 | 403 | Stephanie Burtin |
+| 312 | 403 | Scott Lindsay |
 | 313 | 400 | Dana Winters |
 | 314 | 398 | fraulila |
 | 315 | 398 | France Vézina |
@@ -368,8 +368,8 @@
 | 360 | 355 | Dana Fox |
 | 361 | 354 | TotoCherue |
 | 362 | 353 | Dee Franklin |
-| 363 | 352 | Nikki Pags |
-| 364 | 352 | Tiffany Davie |
+| 363 | 352 | Tiffany Davie |
+| 364 | 352 | Nikki Pags |
 | 365 | 352 | LadyTorad |
 | 366 | 351 | Blocked |
 | 367 | 351 | Eon Harris |
@@ -469,8 +469,8 @@
 | 461 | 291 | Niki Dalrymple |
 | 462 | 291 | Bryan Byrd |
 | 463 | 290 | Carrie Resler |
-| 464 | 290 | Justin Parker |
-| 465 | 290 | Tegan Chapman |
+| 464 | 290 | Tegan Chapman |
+| 465 | 290 | Justin Parker |
 | 466 | 289 | DidIdothat |
 | 467 | 288 | Kristi Taylor |
 | 468 | 287 | Jessica Lynn French |

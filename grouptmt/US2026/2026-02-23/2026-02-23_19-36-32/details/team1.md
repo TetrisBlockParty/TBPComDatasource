@@ -90,17 +90,17 @@
 | 82 | 770 | Zappy Curvetile |
 | 83 | 760 | Amanda Johnson Huffman |
 | 84 | 758 | Ash Galvan |
-| 85 | 755 | Cynthia Bradley |
-| 86 | 750 | Cartier |
-| 87 | 747 | Robert Benito |
-| 88 | 742 | Susanna Guerry |
-| 89 | 740 | Lori Sanders- Davis |
+| 85 | 750 | Cartier |
+| 86 | 747 | Robert Benito |
+| 87 | 742 | Susanna Guerry |
+| 88 | 740 | Lori Sanders- Davis |
+| 89 | 735 | Cynthia Bradley |
 | 90 | 707 | Jason Jones |
 | 91 | 706 | Denice Dee |
 | 92 | 706 | Plucky Fallzone |
 | 93 | 704 | Karin Gillen |
-| 94 | 703 | Kellie |
-| 95 | 703 | Angel Fowler |
+| 94 | 703 | Angel Fowler |
+| 95 | 703 | Kellie |
 | 96 | 689 | Lexuriuos Lifestlye |
 | 97 | 671 | Chirpy Smasher |
 | 98 | 661 | Kristi Johnson |
@@ -156,8 +156,8 @@
 | 148 | 482 | Sarah Somers Gray |
 | 149 | 478 | Adrian Esteban |
 | 150 | 477 | Tonya Beasley |
-| 151 | 476 | phrmblk24 |
-| 152 | 476 | Ly Phethmany |
+| 151 | 476 | Ly Phethmany |
+| 152 | 476 | phrmblk24 |
 | 153 | 475 | Plucky Ziggy |
 | 154 | 470 | Candy Jones |
 | 155 | 468 | Steve Schneider |

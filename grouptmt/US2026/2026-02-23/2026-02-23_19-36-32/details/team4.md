@@ -116,8 +116,8 @@
 | 108 | 667 | Amy Suckarieh |
 | 109 | 663 | H.R. Block |
 | 110 | 659 | Jamie Gustafson |
-| 111 | 658 | Zippy Gridlock |
-| 112 | 658 | Girl |
+| 111 | 658 | Girl |
+| 112 | 658 | Zippy Gridlock |
 | 113 | 652 | Leslie Nicole |
 | 114 | 649 | Chris Alexinas |
 | 115 | 647 | KM8 |
@@ -155,11 +155,11 @@
 | 147 | 520 | Zippy Block |
 | 148 | 518 | Carly Alexis |
 | 149 | 516 | Trish |
-| 150 | 514 | Lucas J Sutton |
-| 151 | 514 | Scott Jameson |
+| 150 | 514 | Scott Jameson |
+| 151 | 514 | Lucas J Sutton |
 | 152 | 513 | Erin Thomas |
-| 153 | 512 | Angela Srubar-Norman |
-| 154 | 512 | ThaEviLJeNiuZ |
+| 153 | 512 | ThaEviLJeNiuZ |
+| 154 | 512 | Angela Srubar-Norman |
 | 155 | 512 | Casey Jeffcoat |
 | 156 | 508 | Twisty Clicky |
 | 157 | 502 | Ellen Durfee |
