@@ -87,8 +87,8 @@
 | 79 | 742 | Susanna Guerry |
 | 80 | 741 | Nancy Green |
 | 81 | 740 | Lori Sanders- Davis |
-| 82 | 713 | Snappy Swiper |
-| 83 | 713 | Robert Benito |
+| 82 | 713 | Robert Benito |
+| 83 | 713 | Snappy Swiper |
 | 84 | 710 | Jennifer ManWarren |
 | 85 | 706 | Plucky Fallzone |
 | 86 | 706 | Denice Dee |

@@ -124,8 +124,8 @@
 | 116 | 896 | Jesse Olive |
 | 117 | 878 | Shane Wilson Jr. |
 | 118 | 874 | Jessica Pineda-Lopez |
-| 119 | 868 | Felicia Rocha |
-| 120 | 868 | Sarajane Lokan |
+| 119 | 868 | Sarajane Lokan |
+| 120 | 868 | Felicia Rocha |
 | 121 | 864 | Sunny Rotater |
 | 122 | 856 | Kristie |
 | 123 | 848 | Patricia Gadsden |
@@ -161,12 +161,12 @@
 | 153 | 742 | Peppy Shifter |
 | 154 | 738 | Naur |
 | 155 | 722 | Rachel |
-| 156 | 722 | Tina Kay |
-| 157 | 717 | Alaina Lee |
-| 158 | 716 | Annie Marie |
-| 159 | 715 | Karon Griffin |
-| 160 | 714 | Jone |
-| 161 | 714 | Jenny Hrndz |
+| 156 | 717 | Alaina Lee |
+| 157 | 716 | Annie Marie |
+| 158 | 715 | Karon Griffin |
+| 159 | 714 | Jone |
+| 160 | 714 | Jenny Hrndz |
+| 161 | 710 | Tina Kay |
 | 162 | 710 | Santeria Trece Candles |
 | 163 | 706 | Kiki |
 | 164 | 696 | Christine Niles |
@@ -185,8 +185,8 @@
 | 177 | 633 | Joye Sims Binion |
 | 178 | 632 | Morgan Martinez |
 | 179 | 629 | rnr junky |
-| 180 | 621 | Cherry Parker |
-| 181 | 621 | Sashay Tapae Simpson |
+| 180 | 621 | Sashay Tapae Simpson |
+| 181 | 621 | Cherry Parker |
 | 182 | 620 | Rania Zaqout |
 | 183 | 616 | Kammy Hill |
 | 184 | 606 | Tasha Gillespie |
@@ -219,8 +219,8 @@
 | 211 | 549 | Sarah Cowan Burgos |
 | 212 | 548 | Danielle Balcom |
 | 213 | 547 | Staci George Fitzsimmons |
-| 214 | 546 | Mykal Burton |
-| 215 | 546 | Cynthia Castros-Hampton |
+| 214 | 546 | Cynthia Castros-Hampton |
+| 215 | 546 | Mykal Burton |
 | 216 | 544 | Trisha Balmer |
 | 217 | 540 | Shawn Miller |
 | 218 | 539 | Betty Bóò |
@@ -236,8 +236,8 @@
 | 228 | 515 | Cozy Snaplink |
 | 229 | 515 | Annie Déè |
 | 230 | 513 | Twisty Brick LT |
-| 231 | 513 | kacihall |
-| 232 | 513 | Lizabeth Fox |
+| 231 | 513 | Lizabeth Fox |
+| 232 | 513 | kacihall |
 | 233 | 508 | Fran Lin |
 | 234 | 508 | joz |
 | 235 | 505 | Stephanie Simpson |
@@ -369,8 +369,8 @@
 | 361 | 342 | ROODBOY |
 | 362 | 341 | Rick Poppen |
 | 363 | 341 | Lys |
-| 364 | 340 | Kirhonda Autmon |
-| 365 | 340 | Erika Thornton |
+| 364 | 340 | Erika Thornton |
+| 365 | 340 | Kirhonda Autmon |
 | 366 | 337 | Michelle Allers |
 | 367 | 333 | 4girls |
 | 368 | 333 | Geoffrey Nash |
@@ -674,7 +674,7 @@
 | 666 | 200 | Sarah Whalen |
 | 667 | 200 | glichmod |
 | 668 | 199 | Morgan Cudo |
-| 669 | 199 | Cheeky Setter |
+| 669 | 199 | Kimberly Walker |
 | 670 | 199 | PrncssPJ |
 | 671 | 199 | Cheeky Setter |
 | 672 | 198 | Jodi Kaczynski-O'Dowd |

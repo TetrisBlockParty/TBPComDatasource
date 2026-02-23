@@ -256,8 +256,8 @@
 | 248 | 1259 | Foxxo |
 | 249 | 1258 | Brandon Armstrong |
 | 250 | 1258 | Eric Carlson |
-| 251 | 1257 | Megan Ferguson Leone |
-| 252 | 1257 | Megan Garrick |
+| 251 | 1257 | Megan Garrick |
+| 252 | 1257 | Megan Ferguson Leone |
 | 253 | 1256 | Missie Lawson Gebhardt |
 | 254 | 1253 | Roman Lavochnik |
 | 255 | 1241 | Jennifer Casey-Kay |
@@ -315,15 +315,15 @@
 | 307 | 1073 | Jodi Blake |
 | 308 | 1072 | BK Queen |
 | 309 | 1072 | Kristin Gower |
-| 310 | 1071 | Nashu |
-| 311 | 1071 | Kim Dean |
+| 310 | 1071 | Kim Dean |
+| 311 | 1071 | Nashu |
 | 312 | 1067 | Caitlin Schmid |
 | 313 | 1065 | Dany Murillo |
 | 314 | 1059 | Bri Lynn |
 | 315 | 1058 | Osun Anuket Esu |
 | 316 | 1052 | Desiree Anderson |
-| 317 | 1050 | Amber Brion |
-| 318 | 1050 | Jennifer Aiken |
+| 317 | 1050 | Jennifer Aiken |
+| 318 | 1050 | Amber Brion |
 | 319 | 1049 | Ashlen Dorrell |
 | 320 | 1047 | Tiffany Branham |
 | 321 | 1047 | Dimitra Zazara |
