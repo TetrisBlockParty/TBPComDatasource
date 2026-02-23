@@ -394,8 +394,8 @@
 | 386 | 903 | Eric Castaneda |
 | 387 | 902 | Diallo Sparkman |
 | 388 | 899 | Felicia Lynn |
-| 389 | 899 | Chevy |
-| 390 | 899 | Patrick Bartlett |
+| 389 | 899 | Patrick Bartlett |
+| 390 | 899 | Chevy |
 | 391 | 898 | Donna M Carter |
 | 392 | 896 | Alyssa Hileman |
 | 393 | 895 | Donna Colby |
@@ -483,8 +483,8 @@
 | 475 | 772 | Danielle Simmons |
 | 476 | 771 | Stephanie Lumanlan |
 | 477 | 769 | Kimberly Hope Howell |
-| 478 | 768 | Casper The Chonk |
-| 479 | 768 | Joshua Self |
+| 478 | 768 | Joshua Self |
+| 479 | 768 | Casper The Chonk |
 | 480 | 767 | Ashley Lopez |
 | 481 | 766 | Jennie Lee Huntley |
 | 482 | 765 | Dylan Thomason |
@@ -493,13 +493,13 @@
 | 485 | 761 | Jerilyn Andrina |
 | 486 | 760 | Ashley Guernsey-Martin |
 | 487 | 760 | Allan Wayne Lamia |
-| 488 | 758 | Eunique Griffin |
-| 489 | 758 | Kimberly Randesi |
+| 488 | 758 | Kimberly Randesi |
+| 489 | 758 | Eunique Griffin |
 | 490 | 758 | Stephanie Neuburger |
 | 491 | 755 | Taryece Gause |
 | 492 | 751 | Loony Snapper |
-| 493 | 751 | Breezy Filler |
-| 494 | 751 | Caitlyn Blackwell |
+| 493 | 751 | Caitlyn Blackwell |
+| 494 | 751 | Breezy Filler |
 | 495 | 750 | Draizen Montrell Thomas |
 | 496 | 750 | Michael Buckner |
 | 497 | 749 | Ann Knutson Anderson |
@@ -508,8 +508,8 @@
 | 500 | 746 | Samuel Macon |
 | 501 | 742 | Ganieda |
 | 502 | 742 | Cassie Maynard |
-| 503 | 740 | Samantha Scibelli |
-| 504 | 740 | Jerry Tempelmeyer |
+| 503 | 740 | Jerry Tempelmeyer |
+| 504 | 740 | Samantha Scibelli |
 | 505 | 737 | Ginger |
 | 506 | 737 | Chelle |
 | 507 | 735 | Catherine Marsh Gruda |
@@ -806,8 +806,8 @@
 | 798 | 508 | Austin Wilson |
 | 799 | 508 | Daphne Jordan |
 | 800 | 507 | Crystal Heller Gonzalez |
-| 801 | 507 | Funky Caster |
-| 802 | 507 | Lina Sanders |
+| 801 | 507 | Lina Sanders |
+| 802 | 507 | Funky Caster |
 | 803 | 507 | Carrie Mitchell |
 | 804 | 506 | David Duncan |
 | 805 | 506 | Cblock |

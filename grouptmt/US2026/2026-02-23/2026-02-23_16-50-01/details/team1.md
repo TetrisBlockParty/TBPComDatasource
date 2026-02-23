@@ -171,8 +171,8 @@
 | 163 | 426 | Maria C. Hernandez |
 | 164 | 425 | Tyler Werts |
 | 165 | 419 | Christy Jones |
-| 166 | 417 | Jessie Lynn |
-| 167 | 417 | Phu ckalldems |
+| 166 | 417 | Phu ckalldems |
+| 167 | 417 | Jessie Lynn |
 | 168 | 416 | Jessica Sheehan |
 | 169 | 415 | Jennifer Hardman |
 | 170 | 415 | Kimberly Garcia |
@@ -249,8 +249,8 @@
 | 241 | 335 | Keith Mathis |
 | 242 | 334 | Tipsy Builder |
 | 243 | 333 | Jennifer Noe Chandler |
-| 244 | 332 | Eddie Dillon |
-| 245 | 332 | Happy Basegrid |
+| 244 | 332 | Happy Basegrid |
+| 245 | 332 | Eddie Dillon |
 | 246 | 329 | Larissa Marie Nelson |
 | 247 | 329 | Frothy Pattern |
 | 248 | 325 | GringaLinga |
