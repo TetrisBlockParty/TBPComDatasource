@@ -162,8 +162,8 @@
 | 154 | 413 | Circuit8 |
 | 155 | 412 | Jessica Bohlken |
 | 156 | 408 | Amanda Pauldo-Ivy |
-| 157 | 406 | Damn Libra |
-| 158 | 406 | Livvy |
+| 157 | 406 | Livvy |
+| 158 | 406 | Damn Libra |
 | 159 | 403 | Keith Kelley |
 | 160 | 402 | Lucas J Sutton |
 | 161 | 398 | Tyler Terrific |
@@ -258,8 +258,8 @@
 | 250 | 272 | Dennis Bradley |
 | 251 | 271 | Holly |
 | 252 | 270 | Jen Caldwell |
-| 253 | 266 | Mr. Party |
-| 254 | 266 | Tracey Lehmann |
+| 253 | 266 | Tracey Lehmann |
+| 254 | 266 | Mr. Party |
 | 255 | 266 | Nubian1 |
 | 256 | 265 | Degenerate |
 | 257 | 265 | Silly SeaWeed |
@@ -267,8 +267,8 @@
 | 259 | 264 | ZeeZee |
 | 260 | 264 | Stella |
 | 261 | 263 | rebel4lyfe |
-| 262 | 262 | Selena Shaw |
-| 263 | 262 | BigSammy420 |
+| 262 | 262 | BigSammy420 |
+| 263 | 262 | Selena Shaw |
 | 264 | 261 | Zethra Prenisha Rahming |
 | 265 | 260 | Carter Jones |
 | 266 | 260 | Lori |
@@ -563,8 +563,8 @@
 | 555 | 129 | Jessica Wells |
 | 556 | 129 | Dreamy Snapgrid |
 | 557 | 128 | Zesty Linkgrid |
-| 558 | 128 | Raymond Roberts |
-| 559 | 128 | Lazy Glidepiece |
+| 558 | 128 | Lazy Glidepiece |
+| 559 | 128 | Raymond Roberts |
 | 560 | 127 | Jay You |
 | 561 | 126 | PAPatty |
 | 562 | 126 | Spicy Cascadezone |

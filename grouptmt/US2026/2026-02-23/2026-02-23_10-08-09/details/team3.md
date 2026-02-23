@@ -114,15 +114,15 @@
 | 106 | 869 | Araceli Parra |
 | 107 | 868 | Sarajane Lokan |
 | 108 | 860 | Sunny Rotater |
-| 109 | 851 | Danielle Becker |
-| 110 | 851 | Jd Morris |
+| 109 | 851 | Jd Morris |
+| 110 | 851 | Danielle Becker |
 | 111 | 850 | Danielle Mogg |
 | 112 | 848 | Patricia Gadsden |
 | 113 | 839 | Angeline Joseph |
 | 114 | 830 | Stephanie Allmon |
 | 115 | 826 | Shane Wilson Jr. |
-| 116 | 816 | Brenda Lee Vander Molen |
-| 117 | 816 | Jesse Olive |
+| 116 | 816 | Jesse Olive |
+| 117 | 816 | Brenda Lee Vander Molen |
 | 118 | 802 | Bobbi Moore |
 | 119 | 800 | Lauren Girouard |
 | 120 | 799 | Dolores Falco |
@@ -186,8 +186,8 @@
 | 178 | 572 | CeceGeGe |
 | 179 | 568 | Rachael McClain Owens |
 | 180 | 566 | LaTanya GeminiondaRise Johnson |
-| 181 | 564 | Poppy Splitter |
-| 182 | 564 | Christine Trester |
+| 181 | 564 | Christine Trester |
+| 182 | 564 | Poppy Splitter |
 | 183 | 563 | Jim Mathews |
 | 184 | 562 | Dave Herzog |
 | 185 | 559 | Patti Skiles |
@@ -218,8 +218,8 @@
 | 210 | 485 | Dapper Snap |
 | 211 | 484 | Fallorina Susana |
 | 212 | 481 | Connie Mohler-Fair |
-| 213 | 480 | Danielle Allison |
-| 214 | 480 | Michael Johnson |
+| 213 | 480 | Michael Johnson |
+| 214 | 480 | Danielle Allison |
 | 215 | 477 | Edwin Calvillo Jr. |
 | 216 | 475 | Tessina Dewey-Mancino |
 | 217 | 471 | Mendoza Lee Christy |
@@ -299,8 +299,8 @@
 | 291 | 353 | Cyd061769 |
 | 292 | 353 | Dee Franklin |
 | 293 | 352 | Christian Werndl |
-| 294 | 351 | Blocked |
-| 295 | 351 | Eon Harris |
+| 294 | 351 | Eon Harris |
+| 295 | 351 | Blocked |
 | 296 | 350 | LaShey Thompson |
 | 297 | 349 | Amanda J. Mcneil-Anderson |
 | 298 | 348 | Ashley Raines |
@@ -311,8 +311,8 @@
 | 303 | 342 | Cynthia Herrmann Egland |
 | 304 | 341 | Rick Poppen |
 | 305 | 341 | Lys |
-| 306 | 340 | Erika Thornton |
-| 307 | 340 | KayB |
+| 306 | 340 | KayB |
+| 307 | 340 | Erika Thornton |
 | 308 | 338 | fraulila |
 | 309 | 336 | Foltz Lee Kelli |
 | 310 | 335 | victory |
@@ -333,15 +333,15 @@
 | 325 | 319 | Michael Leblanc |
 | 326 | 316 | Twisty Brick LT |
 | 327 | 314 | Geoffrey Nash |
-| 328 | 313 | Hoppy Buildout |
-| 329 | 313 | Kaycee Kay |
+| 328 | 313 | Kaycee Kay |
+| 329 | 313 | Hoppy Buildout |
 | 330 | 312 | Eric Caccavale |
 | 331 | 312 | LadyTorad |
 | 332 | 311 | Troy |
 | 333 | 309 | Desiree Gold |
 | 334 | 309 | Cheeky Snapper |
-| 335 | 308 | Katrina Turner |
-| 336 | 308 | Tia |
+| 335 | 308 | Tia |
+| 336 | 308 | Katrina Turner |
 | 337 | 305 | Hyper Matchzone |
 | 338 | 304 | _melisa223_ |
 | 339 | 303 | Alexmac |
@@ -395,8 +395,8 @@
 | 387 | 273 | Brenda Schmid Wood |
 | 388 | 273 | Kevin Fountain |
 | 389 | 272 | Romeo |
-| 390 | 272 | Tay |
-| 391 | 272 | Todd Hall |
+| 390 | 272 | Todd Hall |
+| 391 | 272 | Tay |
 | 392 | 269 | Goofy Fall |
 | 393 | 269 | Samantha Worley |
 | 394 | 269 | Jess Bissett |
@@ -725,8 +725,8 @@
 | 717 | 157 | Benny Tyrrell |
 | 718 | 157 | Kimberly Walker |
 | 719 | 156 | Mandy Poynter-Wallace |
-| 720 | 156 | Courtney Conboy |
-| 721 | 156 | Brittany K Ward |
+| 720 | 156 | Brittany K Ward |
+| 721 | 156 | Courtney Conboy |
 | 722 | 156 | LIL BIT |
 | 723 | 155 | Brave Brickster |
 | 724 | 155 | TEDDY |

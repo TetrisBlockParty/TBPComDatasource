@@ -83,15 +83,15 @@
 | 75 | 703 | Angel Fowler |
 | 76 | 689 | Susanna Guerry |
 | 77 | 679 | Hasbro Bros |
-| 78 | 657 | Cynthia Bradley |
-| 79 | 657 | Tee Sheree |
+| 78 | 657 | Tee Sheree |
+| 79 | 657 | Cynthia Bradley |
 | 80 | 655 | Brenda Stewart |
 | 81 | 648 | Evie Khalil |
 | 82 | 647 | Jason Jones |
 | 83 | 645 | Robert Benito |
 | 84 | 600 | Greg Hart |
-| 85 | 598 | Erin Hodges Plumb |
-| 86 | 598 | Kellie |
+| 85 | 598 | Kellie |
+| 86 | 598 | Erin Hodges Plumb |
 | 87 | 584 | Jen Sartain |
 | 88 | 583 | Theo Pinnow |
 | 89 | 582 | Plucky Fallzone |
@@ -123,14 +123,14 @@
 | 115 | 464 | Lori Sanders- Davis |
 | 116 | 463 | Lexuriuos Lifestlye |
 | 117 | 462 | Luciano Moreira |
-| 118 | 458 | Evan Richmond |
-| 119 | 458 | Goose egg |
+| 118 | 458 | Goose egg |
+| 119 | 458 | Evan Richmond |
 | 120 | 453 | Brandi Huntington |
 | 121 | 452 | Hyper |
 | 122 | 451 | Plucky Ziggy |
 | 123 | 450 | lil mickey |
-| 124 | 448 | Jazzy Framezone |
-| 125 | 448 | Sweet Baker |
+| 124 | 448 | Sweet Baker |
+| 125 | 448 | Jazzy Framezone |
 | 126 | 446 | SkipTheSadSauce |
 | 127 | 443 | Steve Schneider |
 | 128 | 442 | Francesca Gee |
@@ -256,8 +256,8 @@
 | 248 | 275 | Cheeky Pop |
 | 249 | 275 | Chris65 |
 | 250 | 273 | Наталья Солоид |
-| 251 | 272 | Barrbaric |
-| 252 | 272 | Tawnya Peltonen |
+| 251 | 272 | Tawnya Peltonen |
+| 252 | 272 | Barrbaric |
 | 253 | 271 | Frothy Pattern |
 | 254 | 270 | Brenda Alexander |
 | 255 | 270 | Debbie Kane |
@@ -271,8 +271,8 @@
 | 263 | 260 | Lacy Wolfe |
 | 264 | 260 | Marianita Garcia |
 | 265 | 256 | Chris Sigurdson |
-| 266 | 255 | Giggly Builderline |
-| 267 | 255 | Beazel75 |
+| 266 | 255 | Beazel75 |
+| 267 | 255 | Giggly Builderline |
 | 268 | 254 | Al Smith Jr |
 | 269 | 253 | Cece Ibarra |
 | 270 | 253 | Jamie Jury |
