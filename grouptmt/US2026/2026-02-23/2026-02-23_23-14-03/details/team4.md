@@ -186,8 +186,8 @@
 | 178 | 491 | Carrie Brian |
 | 179 | 489 | Swanky Fitline |
 | 180 | 487 | April Rondinone |
-| 181 | 487 | Sam Bishop |
-| 182 | 487 | Christina Black |
+| 181 | 487 | Christina Black |
+| 182 | 487 | Sam Bishop |
 | 183 | 482 | Adam Stephanie Parker |
 | 184 | 478 | Casey Grabner |
 | 185 | 477 | Rebecca Morris |
@@ -214,8 +214,8 @@
 | 206 | 438 | Melvin Baird |
 | 207 | 438 | Jen Mattei |
 | 208 | 434 | Ramel Rhodes |
-| 209 | 433 | Circuit8 |
-| 210 | 433 | Damn Libra |
+| 209 | 433 | Damn Libra |
+| 210 | 433 | Circuit8 |
 | 211 | 431 | Zesty Twistbuilder |
 | 212 | 427 | Steph Marie |
 | 213 | 427 | Chao Ma |
@@ -532,8 +532,8 @@
 | 524 | 190 | Robert Rangel |
 | 525 | 189 | Brandon Link |
 | 526 | 188 | Tanner Lund |
-| 527 | 188 | Frilly Blocky |
-| 528 | 188 | Daring Pivot |
+| 527 | 188 | Daring Pivot |
+| 528 | 188 | Frilly Blocky |
 | 529 | 187 | Jason Punch |
 | 530 | 186 | Jesse Saville |
 | 531 | 186 | Dandy Cascadefit |
