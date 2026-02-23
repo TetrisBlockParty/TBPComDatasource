@@ -201,8 +201,8 @@
 | 193 | 1567 | Juliana Marques Do Nascimento Gordy |
 | 194 | 1565 | Nancy Reid |
 | 195 | 1562 | Tony Lea |
-| 196 | 1558 | Crystal Slaughter |
-| 197 | 1558 | Tim Dyer |
+| 196 | 1558 | Tim Dyer |
+| 197 | 1558 | Crystal Slaughter |
 | 198 | 1552 | Cheeky Balancepiece |
 | 199 | 1534 | Rosa Franklin |
 | 200 | 1514 | Howard Forest |
@@ -681,8 +681,8 @@
 | 673 | 611 | Autumn Schaeffer |
 | 674 | 608 | Tash Bell |
 | 675 | 607 | Slip |
-| 676 | 606 | Mike Aprilliano |
-| 677 | 606 | Lea Stewart |
+| 676 | 606 | Lea Stewart |
+| 677 | 606 | Mike Aprilliano |
 | 678 | 605 | Mandi Marie Smith |
 | 679 | 605 | Jermaine Harris |
 | 680 | 604 | Rae Rae |

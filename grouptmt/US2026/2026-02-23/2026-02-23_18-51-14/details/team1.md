@@ -202,8 +202,8 @@
 | 194 | 391 | Monica Donato |
 | 195 | 390 | Elaine Elaine |
 | 196 | 387 | Carrie Smith |
-| 197 | 387 | Witty Builderfit |
-| 198 | 387 | Ananda Mendez |
+| 197 | 387 | Ananda Mendez |
+| 198 | 387 | Witty Builderfit |
 | 199 | 386 | Brian Spotts |
 | 200 | 385 | Debbie Kane |
 | 201 | 384 | Tami Luce Martin |

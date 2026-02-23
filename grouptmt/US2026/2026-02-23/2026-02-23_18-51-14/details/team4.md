@@ -142,8 +142,8 @@
 | 134 | 545 | Desi Desporte |
 | 135 | 542 | Austin Owens |
 | 136 | 540 | Rodney McMath Jr. |
-| 137 | 538 | shar |
-| 138 | 538 | Carlos Ramirez |
+| 137 | 538 | Carlos Ramirez |
+| 138 | 538 | shar |
 | 139 | 536 | Kimberlee Jan Beckstead |
 | 140 | 531 | Serena Goodridge |
 | 141 | 529 | Cool Towerbuilder |
@@ -151,8 +151,8 @@
 | 143 | 520 | Zippy Block |
 | 144 | 518 | Carly Alexis |
 | 145 | 516 | Trish |
-| 146 | 514 | Scott Jameson |
-| 147 | 514 | Lucas J Sutton |
+| 146 | 514 | Lucas J Sutton |
+| 147 | 514 | Scott Jameson |
 | 148 | 513 | Erin Thomas |
 | 149 | 512 | ThaEviLJeNiuZ |
 | 150 | 512 | Casey Jeffcoat |
@@ -258,8 +258,8 @@
 | 250 | 343 | HastyGrabber |
 | 251 | 342 | blasterB |
 | 252 | 341 | Mary Ann Pabukis |
-| 253 | 340 | Cranky Rollpiece |
-| 254 | 340 | Jen Caldwell |
+| 253 | 340 | Jen Caldwell |
+| 254 | 340 | Cranky Rollpiece |
 | 255 | 340 | Amanda Maciel Clarke |
 | 256 | 339 | Melvin Baird |
 | 257 | 338 | Nerdy Twisterfit |
@@ -300,8 +300,8 @@
 | 292 | 292 | Epic Curvetile |
 | 293 | 291 | Dizzy Matchzone |
 | 294 | 290 | Jared Gutwein |
-| 295 | 290 | Neirrah B Olailjeel |
-| 296 | 290 | Heather Bruce |
+| 295 | 290 | Heather Bruce |
+| 296 | 290 | Neirrah B Olailjeel |
 | 297 | 289 | Juls |
 | 298 | 288 | Brittney Orengo |
 | 299 | 287 | Kim Klutz Olson |
@@ -314,10 +314,10 @@
 | 306 | 278 | Sarah Brown |
 | 307 | 278 | Angela Geist Jusinski |
 | 308 | 277 | Brittany Marsh |
-| 309 | 276 | Lee Silpe |
+| 309 | 276 | Bradley Reeves |
 | 310 | 276 | Susan Williams |
 | 311 | 276 | Silly SeaWeed |
-| 312 | 276 | Bradley Reeves |
+| 312 | 276 | Lee Silpe |
 | 313 | 276 | Cynthia Boudreau |
 | 314 | 275 | Jim Hart |
 | 315 | 274 | Jenna McGeorge |

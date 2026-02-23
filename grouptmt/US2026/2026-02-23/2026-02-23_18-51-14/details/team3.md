@@ -89,8 +89,8 @@
 | 81 | 1258 | Shari Garber |
 | 82 | 1244 | Lori Barnaby |
 | 83 | 1240 | Betty Ivy |
-| 84 | 1213 | Snappy Glidepiece |
-| 85 | 1213 | Nerdy Riseclear |
+| 84 | 1213 | Nerdy Riseclear |
+| 85 | 1213 | Snappy Glidepiece |
 | 86 | 1212 | Amanda Adkins |
 | 87 | 1186 | Christian A. Pollard |
 | 88 | 1158 | Danielle Mogg |
@@ -102,8 +102,8 @@
 | 94 | 1102 | Michelle Becker |
 | 95 | 1101 | Stephanie Rice |
 | 96 | 1094 | JerseyJess |
-| 97 | 1056 | joclisa |
-| 98 | 1056 | Ebony West-Cundiff |
+| 97 | 1056 | Ebony West-Cundiff |
+| 98 | 1056 | joclisa |
 | 99 | 1050 | Sherika C. McDaniels |
 | 100 | 1044 | Leah Barnett |
 | 101 | 1038 | Mandy Smith Oldham |
@@ -264,8 +264,8 @@
 | 256 | 480 | Isabel Ocasio |
 | 257 | 476 | Shunta Jacobs |
 | 258 | 471 | Mendoza Lee Christy |
-| 259 | 471 | Gray Hicks |
-| 260 | 471 | Rebecca Bailey |
+| 259 | 471 | Rebecca Bailey |
+| 260 | 471 | Gray Hicks |
 | 261 | 470 | Marci Mize Fandrich |
 | 262 | 470 | Rebecca Funderburk Kirby |
 | 263 | 464 | Danielle Weikel |
@@ -357,8 +357,8 @@
 | 349 | 362 | Brandon Givens |
 | 350 | 362 | Chummy Rumbler |
 | 351 | 361 | neci |
-| 352 | 359 | Kristen Weese |
-| 353 | 359 | Steven Fulater |
+| 352 | 359 | Steven Fulater |
+| 353 | 359 | Kristen Weese |
 | 354 | 358 | Heather Davis |
 | 355 | 356 | Tony Waters |
 | 356 | 356 | Ashley Lynn Marchese |
