@@ -177,8 +177,8 @@
 | 169 | 595 | Nicole Myers |
 | 170 | 591 | Michael Nowogorski |
 | 171 | 587 | Louise Stacy Sisson |
-| 172 | 585 | Happy Tetriblast |
-| 173 | 585 | Annie Marie |
+| 172 | 585 | Annie Marie |
+| 173 | 585 | Happy Tetriblast |
 | 174 | 583 | Tasha Gillespie |
 | 175 | 582 | Natasha Jones |
 | 176 | 577 | Domo Washington |
@@ -375,8 +375,8 @@
 | 367 | 280 | ROODBOY |
 | 368 | 280 | Aerian Preston |
 | 369 | 280 | Dirtgirl27 |
-| 370 | 279 | Naur |
-| 371 | 279 | Tosha Griffey |
+| 370 | 279 | Tosha Griffey |
+| 371 | 279 | Naur |
 | 372 | 278 | Rufus Lincoln |
 | 373 | 277 | Krystal Gerstberger |
 | 374 | 277 | France Vézina |
@@ -449,10 +449,10 @@
 | 441 | 242 | Fancy Curver |
 | 442 | 242 | Katheline Lazo Luizaga |
 | 443 | 241 | Skinny Baldez |
-| 444 | 240 | Ashley Lynn Marchese |
-| 445 | 240 | Rebel124 |
-| 446 | 240 | Beppy |
-| 447 | 240 | Trey Ward |
+| 444 | 240 | Rebel124 |
+| 445 | 240 | Ashley Lynn Marchese |
+| 446 | 240 | Trey Ward |
+| 447 | 240 | Beppy |
 | 448 | 240 | Stefanie LaPointe |
 | 449 | 238 | Jess Dearborn |
 | 450 | 238 | Niki Dalrymple |

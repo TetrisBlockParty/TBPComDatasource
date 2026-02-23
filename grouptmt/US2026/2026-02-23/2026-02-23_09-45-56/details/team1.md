@@ -98,8 +98,8 @@
 | 90 | 575 | Nancy Green |
 | 91 | 570 | Cody Slav |
 | 92 | 562 | Denice Dee |
-| 93 | 534 | Loony Fitzone |
-| 94 | 534 | Veronica Eve |
+| 93 | 534 | Veronica Eve |
+| 94 | 534 | Loony Fitzone |
 | 95 | 529 | Ryan Lunnin |
 | 96 | 522 | Sarah Lombardo |
 | 97 | 511 | Mario Cab |
@@ -163,13 +163,13 @@
 | 155 | 383 | pjbeta |
 | 156 | 383 | Margo Wagner |
 | 157 | 380 | phrmblk24 |
-| 158 | 379 | Kimmie Kimms |
-| 159 | 379 | Austin James |
+| 158 | 379 | Austin James |
+| 159 | 379 | Kimmie Kimms |
 | 160 | 378 | Jessica Sheehan |
-| 161 | 376 | Brian Richardsson |
-| 162 | 376 | Death |
-| 163 | 375 | Connie |
-| 164 | 375 | Tanya Carpenter-Reynolds |
+| 161 | 376 | Death |
+| 162 | 376 | Brian Richardsson |
+| 163 | 375 | Tanya Carpenter-Reynolds |
+| 164 | 375 | Connie |
 | 165 | 371 | Basment Living |
 | 166 | 371 | Jason Savage |
 | 167 | 369 | Christy Jones |
@@ -386,8 +386,8 @@
 | 378 | 195 | Herm Junior |
 | 379 | 195 | Blaire Bruckoff |
 | 380 | 195 | Renata Mabie |
-| 381 | 194 | Tipsy Tiltpiece |
-| 382 | 194 | Nicole Meredith Flynn |
+| 381 | 194 | Nicole Meredith Flynn |
+| 382 | 194 | Tipsy Tiltpiece |
 | 383 | 193 | Lachelle Dillon |
 | 384 | 192 | Ramona Shaver |
 | 385 | 191 | Slinky Rotater |

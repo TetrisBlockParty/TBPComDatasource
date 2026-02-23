@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Kimyatta Cavin |
-| 84 | 684 | Jonathan Kimbrough |
+| 83 | 684 | Jonathan Kimbrough |
+| 84 | 684 | Kimyatta Cavin |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -157,8 +157,8 @@
 | 149 | 418 | Lush Linkfall |
 | 150 | 417 | Steph Marie |
 | 151 | 416 | Chaz Duncan |
-| 152 | 414 | Nope Young |
-| 153 | 414 | Swanky Fitline |
+| 152 | 414 | Swanky Fitline |
+| 153 | 414 | Nope Young |
 | 154 | 413 | Circuit8 |
 | 155 | 412 | Jessica Bohlken |
 | 156 | 408 | Amanda Pauldo-Ivy |
@@ -180,9 +180,9 @@
 | 172 | 372 | George Nutt |
 | 173 | 370 | Oscar Alberto Perez |
 | 174 | 369 | Lindsey Gonzalez |
-| 175 | 368 | Silly Zonebuilder |
-| 176 | 368 | Raegan Lane-Ross |
-| 177 | 368 | Brandon Crabbs |
+| 175 | 368 | Brandon Crabbs |
+| 176 | 368 | Silly Zonebuilder |
+| 177 | 368 | Raegan Lane-Ross |
 | 178 | 365 | Jeff Brian Gates |
 | 179 | 361 | Carlos Ramirez |
 | 180 | 361 | Danielle Kollias |
@@ -204,8 +204,8 @@
 | 196 | 336 | Bio Nelly |
 | 197 | 334 | Kris Bartlett |
 | 198 | 332 | HastyGrabber |
-| 199 | 330 | Kathy Brookins |
-| 200 | 330 | blockstar |
+| 199 | 330 | blockstar |
+| 200 | 330 | Kathy Brookins |
 | 201 | 328 | scott |
 | 202 | 327 | J-Rizzle |
 | 203 | 324 | jim |
@@ -242,8 +242,8 @@
 | 234 | 288 | Adam Stephanie Parker |
 | 235 | 285 | 030Synner |
 | 236 | 284 | Mimi |
-| 237 | 282 | Kim Klutz Olson |
-| 238 | 282 | Matt Gooder |
+| 237 | 282 | Matt Gooder |
+| 238 | 282 | Kim Klutz Olson |
 | 239 | 281 | Laura |
 | 240 | 280 | Rio Rocha |
 | 241 | 279 | Malakai Darien Fox |
@@ -277,8 +277,8 @@
 | 269 | 259 | Allen Lloyd |
 | 270 | 257 | PeaceOs |
 | 271 | 256 | Jade Rian |
-| 272 | 256 | Metsfan |
-| 273 | 256 | Brittany Marsh |
+| 272 | 256 | Brittany Marsh |
+| 273 | 256 | Metsfan |
 | 274 | 256 | Paige Kittles |
 | 275 | 253 | Autum Leigh |
 | 276 | 251 | Carol Ricks Raymond |
@@ -563,8 +563,8 @@
 | 555 | 129 | Tamika Starkey |
 | 556 | 129 | Jessica Wells |
 | 557 | 128 | Zesty Linkgrid |
-| 558 | 128 | Raymond Roberts |
-| 559 | 128 | Lazy Glidepiece |
+| 558 | 128 | Lazy Glidepiece |
+| 559 | 128 | Raymond Roberts |
 | 560 | 127 | Jay You |
 | 561 | 126 | PAPatty |
 | 562 | 126 | Spicy Cascadezone |
@@ -824,8 +824,8 @@
 | 816 | 83 | Dickie Rice |
 | 817 | 83 | Takeshia Knowles |
 | 818 | 83 | KyngKliff |
-| 819 | 83 | Dickie Rice |
-| 820 | 83 | Ens21417 |
+| 819 | 83 | Ens21417 |
+| 820 | 83 | Dottie Falco |
 | 821 | 83 | Pampam |
 | 822 | 82 | Jorge Hamoui |
 | 823 | 82 | Somnium Era |
@@ -1463,7 +1463,7 @@
 | 1455 | 25 | Nutty Tile |
 | 1456 | 25 | Gracey Lou |
 | 1457 | 25 | Garnet Glitz |
-| 1458 | 25 | LondynsDad Mal O KingKreole |
+| 1458 | 25 | Tammie Jewel DeSimon |
 | 1459 | 25 | Devin Crawford |
 | 1460 | 25 | LondynsDad Mal O KingKreole |
 | 1461 | 24 | Tzez |
