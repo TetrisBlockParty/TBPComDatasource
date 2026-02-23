@@ -96,8 +96,8 @@
 | 88 | 570 | Cody Slav |
 | 89 | 562 | Denice Dee |
 | 90 | 537 | Tee Sheree |
-| 91 | 534 | Loony Fitzone |
-| 92 | 534 | Veronica Eve |
+| 91 | 534 | Veronica Eve |
+| 92 | 534 | Loony Fitzone |
 | 93 | 532 | Robert Benito |
 | 94 | 529 | Ryan Lunnin |
 | 95 | 522 | Sarah Lombardo |
@@ -156,8 +156,8 @@
 | 148 | 376 | Brian Richardsson |
 | 149 | 376 | Death |
 | 150 | 375 | Tanya Carpenter-Reynolds |
-| 151 | 371 | Basment Living |
-| 152 | 371 | Jason Savage |
+| 151 | 371 | Jason Savage |
+| 152 | 371 | Basment Living |
 | 153 | 368 | Amanda Johnson Huffman |
 | 154 | 367 | Sharon Reynolds |
 | 155 | 366 | J.F. Fields |

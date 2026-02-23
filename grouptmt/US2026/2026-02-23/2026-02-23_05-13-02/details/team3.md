@@ -181,13 +181,13 @@
 | 173 | 558 | Patti Skiles |
 | 174 | 556 | Elissa S-k |
 | 175 | 553 | LaTanya GeminiondaRise Johnson |
-| 176 | 546 | Cynthia Castros-Hampton |
-| 177 | 546 | Mykal Burton |
+| 176 | 546 | Mykal Burton |
+| 177 | 546 | Cynthia Castros-Hampton |
 | 178 | 541 | Tasha Schriewer |
 | 179 | 540 | Shawn Miller |
 | 180 | 535 | Jone |
-| 181 | 531 | Chauntee Alfrey-Cardinale |
-| 182 | 531 | Sarah Cowan Burgos |
+| 181 | 531 | Sarah Cowan Burgos |
+| 182 | 531 | Chauntee Alfrey-Cardinale |
 | 183 | 528 | Silly Twist |
 | 184 | 524 | Bmo |
 | 185 | 519 | rnr junky |
@@ -226,8 +226,8 @@
 | 218 | 435 | Fallorina Susana |
 | 219 | 432 | Luciana Braganca Vieira |
 | 220 | 432 | Heather Green |
-| 221 | 431 | Ammmmmmy |
-| 222 | 431 | Wendy Dearden |
+| 221 | 431 | Wendy Dearden |
+| 222 | 431 | Ammmmmmy |
 | 223 | 430 | Jeni Dow |
 | 224 | 415 | ren |
 | 225 | 414 | Fran Lin |
@@ -273,19 +273,19 @@
 | 265 | 357 | Stephanie Burtin |
 | 266 | 354 | Kelly |
 | 267 | 353 | Dee Franklin |
-| 268 | 352 | Christian Werndl |
-| 269 | 352 | Samantha Lynn |
+| 268 | 352 | Samantha Lynn |
+| 269 | 352 | Christian Werndl |
 | 270 | 351 | Eon Harris |
 | 271 | 350 | LaShey Thompson |
 | 272 | 349 | Amanda J. Mcneil-Anderson |
 | 273 | 348 | Cyd061769 |
-| 274 | 347 | Tye Stovall |
-| 275 | 347 | Philip Rock |
+| 274 | 347 | Philip Rock |
+| 275 | 347 | Tye Stovall |
 | 276 | 346 | Tamara Deherrera |
 | 277 | 345 | MsBee |
 | 278 | 344 | Roary Danner |
-| 279 | 343 | Ashley Rufus Bythcez |
-| 280 | 343 | Ashley Raines |
+| 279 | 343 | Ashley Raines |
+| 280 | 343 | Ashley Rufus Bythcez |
 | 281 | 341 | Ashley Tookes |
 | 282 | 340 | KayB |
 | 283 | 339 | Cynthia Herrmann Egland |
@@ -371,9 +371,9 @@
 | 363 | 272 | Todd Hall |
 | 364 | 272 | Romeo |
 | 365 | 272 | Tay |
-| 366 | 269 | Juliana Dottore |
+| 366 | 269 | Samantha Worley |
 | 367 | 269 | Jess Bissett |
-| 368 | 269 | Samantha Worley |
+| 368 | 269 | Juliana Dottore |
 | 369 | 268 | Jessica Lynn French |
 | 370 | 267 | April Matthew Kibble |
 | 371 | 267 | Michael Kimbro |
