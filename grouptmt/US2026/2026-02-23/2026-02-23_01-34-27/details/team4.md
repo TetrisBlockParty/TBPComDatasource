@@ -86,8 +86,8 @@
 | 78 | 664 | Valerie Roberts |
 | 79 | 661 | Lisa Davis |
 | 80 | 659 | Jonathan Kimbrough |
-| 81 | 647 | KM8 |
-| 82 | 647 | Shauna Havard |
+| 81 | 647 | Shauna Havard |
+| 82 | 647 | KM8 |
 | 83 | 646 | Eric Mcgaughy |
 | 84 | 641 | Savannah Overdorf |
 | 85 | 637 | Diana Houts |
@@ -161,8 +161,8 @@
 | 153 | 375 | Desi Desporte |
 | 154 | 374 | Guy Incognito |
 | 155 | 370 | Oscar Alberto Perez |
-| 156 | 368 | Silly Zonebuilder |
-| 157 | 368 | Brandon Crabbs |
+| 156 | 368 | Brandon Crabbs |
+| 157 | 368 | Silly Zonebuilder |
 | 158 | 365 | Leslie Nicole |
 | 159 | 361 | Danielle Kollias |
 | 160 | 358 | A5! |
@@ -187,8 +187,8 @@
 | 179 | 314 | shark tato |
 | 180 | 314 | Andy Cabral |
 | 181 | 309 | Crystal Nicolette Moore |
-| 182 | 307 | Bio Nelly |
-| 183 | 307 | Holly Jolly |
+| 182 | 307 | Holly Jolly |
+| 183 | 307 | Bio Nelly |
 | 184 | 306 | blockstar |
 | 185 | 304 | Lindsay Ball |
 | 186 | 302 | Cursed Hag |
@@ -200,8 +200,8 @@
 | 192 | 297 | Melvin Baird |
 | 193 | 294 | Calvin Cannon |
 | 194 | 293 | Kathy Brookins |
-| 195 | 292 | Sue Joyce Staats |
-| 196 | 292 | Epic Curvetile |
+| 195 | 292 | Epic Curvetile |
+| 196 | 292 | Sue Joyce Staats |
 | 197 | 290 | Keshia Lyons |
 | 198 | 288 | Leah Kutz Zirbel |
 | 199 | 287 | Plucky Patternblock |
@@ -279,9 +279,9 @@
 | 271 | 216 | ZeeZee |
 | 272 | 216 | Keith Kelley |
 | 273 | 215 | Ziggy |
-| 274 | 214 | Chantilly Laace |
-| 275 | 214 | Patron Anderson |
-| 276 | 214 | Stacey Stano |
+| 274 | 214 | Patron Anderson |
+| 275 | 214 | Stacey Stano |
+| 276 | 214 | Chantilly Laace |
 | 277 | 213 | Angela Geist Jusinski |
 | 278 | 213 | Paito |
 | 279 | 212 | Zany Shatterer |

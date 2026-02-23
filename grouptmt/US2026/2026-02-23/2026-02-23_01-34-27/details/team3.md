@@ -199,8 +199,8 @@
 | 191 | 460 | Danielle Allison |
 | 192 | 458 | Danielle Rhoades |
 | 193 | 457 | Jim Mathews |
-| 194 | 455 | Annie Déè |
-| 195 | 455 | Bmo |
+| 194 | 455 | Bmo |
+| 195 | 455 | Annie Déè |
 | 196 | 454 | Michael Johnson |
 | 197 | 452 | Jacqueline Rodriguez |
 | 198 | 451 | Sarah Cowan Burgos |
@@ -271,8 +271,8 @@
 | 263 | 339 | Cynthia Herrmann Egland |
 | 264 | 338 | Gumbo |
 | 265 | 336 | Jojo M |
-| 266 | 332 | Velma Mull |
-| 267 | 332 | Brittany |
+| 266 | 332 | Brittany |
+| 267 | 332 | Velma Mull |
 | 268 | 330 | victory |
 | 269 | 329 | Tye Stovall |
 | 270 | 329 | block chick |
@@ -367,8 +367,8 @@
 | 359 | 251 | Jennifer Alvey |
 | 360 | 250 | Eric Caccavale |
 | 361 | 249 | Willow |
-| 362 | 247 | Daring Builder |
-| 363 | 247 | Jessica |
+| 362 | 247 | Jessica |
+| 363 | 247 | Daring Builder |
 | 364 | 246 | gremicx |
 | 365 | 245 | Latoya Mayne |
 | 366 | 244 | Lys |

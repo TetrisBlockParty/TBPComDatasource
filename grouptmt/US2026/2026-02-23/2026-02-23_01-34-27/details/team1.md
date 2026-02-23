@@ -140,8 +140,8 @@
 | 132 | 387 | Emily Adelaide Wheatley |
 | 133 | 386 | Ty Brown |
 | 134 | 383 | pjbeta |
-| 135 | 379 | Austin James |
-| 136 | 379 | Kimmie Kimms |
+| 135 | 379 | Kimmie Kimms |
+| 136 | 379 | Austin James |
 | 137 | 376 | Brian Richardsson |
 | 138 | 371 | Jason Savage |
 | 139 | 368 | Death |
@@ -151,8 +151,8 @@
 | 143 | 364 | Monica Donato |
 | 144 | 361 | Amanda Johnson Huffman |
 | 145 | 361 | Tanya Carpenter-Reynolds |
-| 146 | 360 | Wisa |
-| 147 | 360 | phrmblk24 |
+| 146 | 360 | phrmblk24 |
+| 147 | 360 | Wisa |
 | 148 | 359 | Chirpy Smasher |
 | 149 | 353 | Josh Riemer |
 | 150 | 351 | Basment Living |
@@ -162,8 +162,8 @@
 | 154 | 341 | Nick R Montague |
 | 155 | 341 | Shiny Snapfit |
 | 156 | 338 | Jennifer Hardman |
-| 157 | 337 | Nicole Roseberry Weber |
-| 158 | 337 | Constance Risner |
+| 157 | 337 | Constance Risner |
+| 158 | 337 | Nicole Roseberry Weber |
 | 159 | 336 | Fmp |
 | 160 | 334 | Jaimie Lynn |
 | 161 | 333 | Gracie |
@@ -197,9 +197,9 @@
 | 189 | 296 | Cody Gates |
 | 190 | 294 | Margo Wagner |
 | 191 | 294 | Bindi |
-| 192 | 293 | Witty Builderfit |
-| 193 | 293 | John Kim |
-| 194 | 293 | Carrie Smith |
+| 192 | 293 | John Kim |
+| 193 | 293 | Carrie Smith |
+| 194 | 293 | Witty Builderfit |
 | 195 | 292 | Cool Shiftsnap |
 | 196 | 290 | Speedy Liney |
 | 197 | 283 | Franswa |
@@ -245,8 +245,8 @@
 | 237 | 244 | Eddie Dillon |
 | 238 | 242 | ParisandCory Champagne |
 | 239 | 241 | Tyler Hertzog |
-| 240 | 240 | Daring Fitclear |
-| 241 | 240 | DaRascal |
+| 240 | 240 | DaRascal |
+| 241 | 240 | Daring Fitclear |
 | 242 | 238 | Tiffany Smith |
 | 243 | 238 | Sarah Somers Gray |
 | 244 | 234 | Paula Martin |

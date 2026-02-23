@@ -40,8 +40,8 @@
 | 32 | 4199 | Claire Noland |
 | 33 | 4130 | Robert Diddle |
 | 34 | 4128 | Angela Pruitt |
-| 35 | 4120 | Corrine Hawks Soriano |
-| 36 | 4120 | Kristen Sceurman |
+| 35 | 4120 | Kristen Sceurman |
+| 36 | 4120 | Corrine Hawks Soriano |
 | 37 | 4033 | Jill Stroehlein |
 | 38 | 3895 | Nickie Baby |
 | 39 | 3764 | Brittany Alicia |
@@ -130,8 +130,8 @@
 | 122 | 1681 | Nett |
 | 123 | 1655 | Kristopher Miller |
 | 124 | 1644 | Luna |
-| 125 | 1639 | Karen Martini-Stapleton |
-| 126 | 1639 | Jessie McDougald |
+| 125 | 1639 | Jessie McDougald |
+| 126 | 1639 | Karen Martini-Stapleton |
 | 127 | 1632 | Qiana Sanders |
 | 128 | 1631 | Speedy Spinblock |
 | 129 | 1623 | Rebecca Doughman |
@@ -224,8 +224,8 @@
 | 216 | 1138 | Megan Ferguson Leone |
 | 217 | 1135 | Samantha Roberts |
 | 218 | 1131 | Prado |
-| 219 | 1127 | Dee |
-| 220 | 1127 | Catina Hutchison |
+| 219 | 1127 | Catina Hutchison |
+| 220 | 1127 | Dee |
 | 221 | 1126 | Dolores Russworn |
 | 222 | 1121 | Tommy Tha Boss Gunz |
 | 223 | 1117 | Sarah Freitas |
@@ -573,8 +573,8 @@
 | 565 | 525 | Kara Jennifer |
 | 566 | 524 | Wuntayk |
 | 567 | 523 | Matt Johnson |
-| 568 | 522 | Bubbly Snapfit |
-| 569 | 522 | Nicky Jackson |
+| 568 | 522 | Nicky Jackson |
+| 569 | 522 | Bubbly Snapfit |
 | 570 | 522 | Leah |
 | 571 | 520 | Armonie Smith |
 | 572 | 519 | Rob Brown |
@@ -858,8 +858,8 @@
 | 850 | 371 | Jennie Lee Huntley |
 | 851 | 371 | Rebecca Garland |
 | 852 | 370 | Timothy Jesuwole |
-| 853 | 369 | Amanda Canterbury |
-| 854 | 369 | Epic Fitzone |
+| 853 | 369 | Epic Fitzone |
+| 854 | 369 | Amanda Canterbury |
 | 855 | 369 | AndrewandShela Gornik |
 | 856 | 369 | Johanna Massaro |
 | 857 | 367 | Cassi Owens |
