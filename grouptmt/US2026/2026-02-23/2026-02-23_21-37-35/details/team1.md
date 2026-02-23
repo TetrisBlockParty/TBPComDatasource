@@ -129,14 +129,14 @@
 | 121 | 574 | Tiger Lily |
 | 122 | 572 | Deanna L Hermanson |
 | 123 | 570 | Cody Slav |
-| 124 | 568 | Rachael |
-| 125 | 568 | Jason Savage |
+| 124 | 568 | Jason Savage |
+| 125 | 568 | Rachael |
 | 126 | 558 | Jazzy Framezone |
 | 127 | 553 | And |
 | 128 | 552 | Hellsin |
 | 129 | 547 | Sarah Lombardo |
-| 130 | 543 | Death |
-| 131 | 543 | Sharon Reynolds |
+| 130 | 543 | Sharon Reynolds |
+| 131 | 543 | Death |
 | 132 | 537 | Stephanie Zahn |
 | 133 | 535 | Susan Ward |
 | 134 | 534 | Loony Fitzone |
@@ -205,8 +205,8 @@
 | 197 | 404 | Tawnya Peltonen |
 | 198 | 404 | Sleepysloath5745 |
 | 199 | 402 | Jennifer Noe Chandler |
-| 200 | 398 | Tyler L Hunt |
-| 201 | 398 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
+| 200 | 398 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
+| 201 | 398 | Tyler L Hunt |
 | 202 | 397 | Erin Rosberg |
 | 203 | 395 | Monica Donato |
 | 204 | 393 | Wisa |

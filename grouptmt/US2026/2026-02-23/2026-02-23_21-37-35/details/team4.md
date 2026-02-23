@@ -140,15 +140,15 @@
 | 132 | 584 | Carlton Unfiltered |
 | 133 | 575 | Jenna Ingersoll |
 | 134 | 574 | Carmethia Clemons Haslerig |
-| 135 | 573 | shar |
-| 136 | 573 | Cursed Hag |
+| 135 | 573 | Cursed Hag |
+| 136 | 573 | shar |
 | 137 | 561 | YoMomma |
 | 138 | 560 | Chastity Mitchell |
 | 139 | 551 | Ren Mc |
 | 140 | 549 | Carlos Ramirez |
 | 141 | 546 | Dizzy Tiley |
-| 142 | 545 | Livvy |
-| 143 | 545 | Desi Desporte |
+| 142 | 545 | Desi Desporte |
+| 143 | 545 | Livvy |
 | 144 | 542 | Austin Owens |
 | 145 | 540 | Rodney McMath Jr. |
 | 146 | 536 | Kimberlee Jan Beckstead |
@@ -511,8 +511,8 @@
 | 503 | 192 | Jacob Campbell |
 | 504 | 192 | Twisty Risebuilder |
 | 505 | 191 | Norman Klick |
-| 506 | 191 | Jobadia Steelerton |
-| 507 | 191 | Earnest Thompson |
+| 506 | 191 | Earnest Thompson |
+| 507 | 191 | Jobadia Steelerton |
 | 508 | 190 | wombat |
 | 509 | 190 | Robert Rangel |
 | 510 | 189 | Brandon Link |

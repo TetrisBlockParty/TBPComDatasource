@@ -218,8 +218,8 @@
 | 210 | 590 | Shawn Miller |
 | 211 | 587 | Louise Stacy Sisson |
 | 212 | 585 | Happy Tetriblast |
-| 213 | 585 | Salena Whitlock |
-| 214 | 585 | Jim Mathews |
+| 213 | 585 | Jim Mathews |
+| 214 | 585 | Salena Whitlock |
 | 215 | 584 | Connie Mohler-Fair |
 | 216 | 582 | Natasha Jones |
 | 217 | 578 | Twisty Brick LT |
@@ -274,8 +274,8 @@
 | 266 | 497 | Dapper Snap |
 | 267 | 494 | MCV |
 | 268 | 491 | Ammmmmmy |
-| 269 | 490 | Marci Mize Fandrich |
-| 270 | 490 | PrncssPJ |
+| 269 | 490 | PrncssPJ |
+| 270 | 490 | Marci Mize Fandrich |
 | 271 | 486 | Eileen Brady Thurber |
 | 272 | 482 | Fancy Curver |
 | 273 | 480 | Isabel Ocasio |
@@ -313,8 +313,8 @@
 | 305 | 433 | Skippy |
 | 306 | 432 | Luciana Braganca Vieira |
 | 307 | 431 | Wendy Dearden |
-| 308 | 430 | Jeni Dow |
-| 309 | 430 | Quackers |
+| 308 | 430 | Quackers |
+| 309 | 430 | Jeni Dow |
 | 310 | 430 | Jennifer Alvey |
 | 311 | 429 | Carrie Huskey |
 | 312 | 428 | Samantha Lynn |
@@ -400,8 +400,8 @@
 | 392 | 341 | Lys |
 | 393 | 340 | Erika Thornton |
 | 394 | 340 | Kerry Nowickshere |
-| 395 | 339 | Eboni Starr |
-| 396 | 339 | Michael Lucado |
+| 395 | 339 | Michael Lucado |
+| 396 | 339 | Eboni Starr |
 | 397 | 339 | Heather Bateman |
 | 398 | 337 | AC Yeater |
 | 399 | 335 | Maggie |
