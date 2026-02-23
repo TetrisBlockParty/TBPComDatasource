@@ -358,8 +358,8 @@
 | 350 | 261 | Brooke Elizabeth Antill |
 | 351 | 260 | Marianita Garcia |
 | 352 | 260 | Lacy Wolfe |
-| 353 | 259 | Tiffany Smith |
-| 354 | 259 | Glitzy Buildsnap |
+| 353 | 259 | Glitzy Buildsnap |
+| 354 | 259 | Tiffany Smith |
 | 355 | 258 | Silly Align |
 | 356 | 257 | Andrew Backes |
 | 357 | 257 | Marc Abney |

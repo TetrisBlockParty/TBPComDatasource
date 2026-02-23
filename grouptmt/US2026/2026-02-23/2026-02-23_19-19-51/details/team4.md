@@ -314,8 +314,8 @@
 | 306 | 285 | Chaz |
 | 307 | 284 | Malakai Darien Fox |
 | 308 | 284 | Glitzy Corner |
-| 309 | 281 | Laura |
-| 310 | 281 | Morti |
+| 309 | 281 | Morti |
+| 310 | 281 | Laura |
 | 311 | 281 | rebel4lyfe |
 | 312 | 278 | Angela Geist Jusinski |
 | 313 | 278 | Sarah Brown |
@@ -354,8 +354,8 @@
 | 346 | 259 | Allen Lloyd |
 | 347 | 259 | Montiette Mcglown |
 | 348 | 258 | DQ Martin |
-| 349 | 257 | Alexandra Karavias |
-| 350 | 257 | Marcus TheeyoungWoe Gilmore |
+| 349 | 257 | Marcus TheeyoungWoe Gilmore |
+| 350 | 257 | Alexandra Karavias |
 | 351 | 256 | Paige Kittles |
 | 352 | 256 | Mackenzie Forrester |
 | 353 | 253 | Chair |
@@ -920,7 +920,7 @@
 | 912 | 87 | Frothy Curve |
 | 913 | 87 | Libby |
 | 914 | 87 | Tangelo |
-| 915 | 87 | Derek Pendarvis |
+| 915 | 87 | Kat |
 | 916 | 87 | Allen Johnson |
 | 917 | 87 | Derek Pendarvis |
 | 918 | 86 | Bigg Guy |

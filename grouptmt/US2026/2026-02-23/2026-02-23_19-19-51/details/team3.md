@@ -163,8 +163,8 @@
 | 155 | 756 | Patty Allen |
 | 156 | 755 | Raya |
 | 157 | 746 | Denita Mungro |
-| 158 | 745 | ren |
-| 159 | 745 | Marcie Bressler |
+| 158 | 745 | Marcie Bressler |
+| 159 | 745 | ren |
 | 160 | 738 | Naur |
 | 161 | 736 | Melissa Orth Hunter |
 | 162 | 735 | opf |
@@ -244,7 +244,7 @@
 | 236 | 519 | Nichol Graham |
 | 237 | 516 | Daring Brickzone |
 | 238 | 515 | Cozy Snaplink |
-| 239 | 513 | kacihall |
+| 239 | 513 | Twisty Brick LT |
 | 240 | 513 | Lizabeth Fox |
 | 241 | 513 | kacihall |
 | 242 | 512 | Fallorina Susana |
@@ -315,8 +315,8 @@
 | 307 | 406 | Desiree Gold |
 | 308 | 405 | Steffi Chris Dacones |
 | 309 | 403 | lashanda |
-| 310 | 403 | Scott Lindsay |
-| 311 | 403 | Stephanie Burtin |
+| 310 | 403 | Stephanie Burtin |
+| 311 | 403 | Scott Lindsay |
 | 312 | 401 | Hyper Matchzone |
 | 313 | 400 | Dana Winters |
 | 314 | 398 | fraulila |
@@ -343,8 +343,8 @@
 | 335 | 375 | Joy Petroski |
 | 336 | 372 | Rich LeBlanc |
 | 337 | 371 | block chick |
-| 338 | 370 | Roary Danner |
-| 339 | 370 | Tasha Wesson-Torrence |
+| 338 | 370 | Tasha Wesson-Torrence |
+| 339 | 370 | Roary Danner |
 | 340 | 370 | Kirhonda Autmon |
 | 341 | 369 | Amber Glover |
 | 342 | 368 | Sheila M Frazier |
@@ -359,8 +359,8 @@
 | 351 | 362 | Brandon Givens |
 | 352 | 362 | Chummy Rumbler |
 | 353 | 361 | neci |
-| 354 | 359 | Steven Fulater |
-| 355 | 359 | Kristen Weese |
+| 354 | 359 | Kristen Weese |
+| 355 | 359 | Steven Fulater |
 | 356 | 358 | Heather Davis |
 | 357 | 356 | Alexmac |
 | 358 | 356 | Tony Waters |
