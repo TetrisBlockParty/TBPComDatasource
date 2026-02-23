@@ -126,13 +126,13 @@
 | 118 | 458 | Twisty Clicky |
 | 119 | 448 | Kristin Manee |
 | 120 | 435 | Leslie Thomas |
-| 121 | 431 | Courtney Cicoria |
-| 122 | 431 | Jolly Dashfit |
+| 121 | 431 | Jolly Dashfit |
+| 122 | 431 | Courtney Cicoria |
 | 123 | 429 | Ren Mc |
 | 124 | 427 | KJ Pool |
-| 125 | 418 | Monica Daley |
-| 126 | 418 | Marie-Pier Desjardins |
-| 127 | 418 | Lush Linkfall |
+| 125 | 418 | Marie-Pier Desjardins |
+| 126 | 418 | Lush Linkfall |
+| 127 | 418 | Monica Daley |
 | 128 | 414 | Nope Young |
 | 129 | 411 | JIGsaw ~(•¿°)~ |
 | 130 | 408 | Amanda Pauldo-Ivy |
@@ -167,13 +167,13 @@
 | 159 | 336 | Peachy Fall |
 | 160 | 336 | Melissa Adams |
 | 161 | 333 | Twisty Cascadezone |
-| 162 | 332 | Leslie Nicole |
-| 163 | 332 | HastyGrabber |
+| 162 | 332 | HastyGrabber |
+| 163 | 332 | Leslie Nicole |
 | 164 | 329 | Jeff Brian Gates |
 | 165 | 328 | Kris Bartlett |
 | 166 | 324 | jim |
-| 167 | 320 | TRCuse |
-| 168 | 320 | Lauren Scott |
+| 167 | 320 | Lauren Scott |
+| 168 | 320 | TRCuse |
 | 169 | 316 | Meagan Nicole |
 | 170 | 314 | shark tato |
 | 171 | 314 | Andy Cabral |
@@ -210,14 +210,14 @@
 | 202 | 276 | Joeliecea Cobb |
 | 203 | 276 | Matt Dell'Olio |
 | 204 | 273 | Casey Grabner |
-| 205 | 272 | Alan George LaRage |
-| 206 | 272 | Dennis Bradley |
+| 205 | 272 | Dennis Bradley |
+| 206 | 272 | Alan George LaRage |
 | 207 | 271 | Sarah Brown |
-| 208 | 270 | Jen Caldwell |
-| 209 | 270 | Juls |
+| 208 | 270 | Juls |
+| 209 | 270 | Jen Caldwell |
 | 210 | 269 | Nikki Rae Gordon |
-| 211 | 268 | Mimi |
-| 212 | 268 | Porkobello |
+| 211 | 268 | Porkobello |
+| 212 | 268 | Mimi |
 | 213 | 267 | Holly |
 | 214 | 265 | Sarah Neathery |
 | 215 | 264 | Carlos Ramirez |
@@ -254,8 +254,8 @@
 | 246 | 227 | BigSammy420 |
 | 247 | 226 | Dizzy Matchzone |
 | 248 | 225 | Jenna McGeorge |
-| 249 | 222 | Lori |
-| 250 | 222 | Brandi Durig |
+| 249 | 222 | Brandi Durig |
+| 250 | 222 | Lori |
 | 251 | 221 | Rheanda Weaskus |
 | 252 | 221 | Chair |
 | 253 | 221 | PurpleMoonMa |
@@ -308,8 +308,8 @@
 | 300 | 190 | Amanda Christine |
 | 301 | 190 | wombat |
 | 302 | 189 | Berklie Apedaile |
-| 303 | 187 | Nita Wells |
-| 304 | 187 | Cynthia Boudreau |
+| 303 | 187 | Cynthia Boudreau |
+| 304 | 187 | Nita Wells |
 | 305 | 186 | Lauren Lamb |
 | 306 | 185 | Laura Hosford |
 | 307 | 185 | Morti |
@@ -318,8 +318,8 @@
 | 310 | 183 | Cozy Balancer |
 | 311 | 183 | Twisty Risebuilder |
 | 312 | 181 | Nikki Wilson |
-| 313 | 179 | AyeKay |
-| 314 | 179 | Denise B |
+| 313 | 179 | Denise B |
+| 314 | 179 | AyeKay |
 | 315 | 178 | Zippy Tilt |
 | 316 | 177 | Ernest Maxwell |
 | 317 | 177 | Michelle Morris |

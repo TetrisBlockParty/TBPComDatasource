@@ -129,8 +129,8 @@
 | 121 | 693 | Hasty Cascadefit |
 | 122 | 688 | Jesse Olive |
 | 123 | 683 | Samantha Greco |
-| 124 | 674 | Patty Allen |
-| 125 | 674 | Leah Barnett |
+| 124 | 674 | Leah Barnett |
+| 125 | 674 | Patty Allen |
 | 126 | 668 | Betty Ivy |
 | 127 | 659 | Jaime Monhaut-Reed |
 | 128 | 650 | Jd Morris |
@@ -234,8 +234,8 @@
 | 226 | 378 | Chris Bell |
 | 227 | 375 | Duane Bright |
 | 228 | 375 | Kristal C Lee |
-| 229 | 372 | Sarah Moyer |
-| 230 | 372 | Rich LeBlanc |
+| 229 | 372 | Rich LeBlanc |
+| 230 | 372 | Sarah Moyer |
 | 231 | 370 | RickyG |
 | 232 | 369 | Kammy Hill |
 | 233 | 369 | Keis |
@@ -358,8 +358,8 @@
 | 350 | 250 | Eric Caccavale |
 | 351 | 250 | Tosha Griffey |
 | 352 | 249 | Willow |
-| 353 | 247 | Jessica |
-| 354 | 247 | Daring Builder |
+| 353 | 247 | Daring Builder |
+| 354 | 247 | Jessica |
 | 355 | 245 | Latoya Mayne |
 | 356 | 244 | Quackers |
 | 357 | 244 | Tegan Chapman |
@@ -486,8 +486,8 @@
 | 478 | 188 | Sassy Brickmatch |
 | 479 | 187 | Sabrina Mansfield |
 | 480 | 185 | Funky Jumper |
-| 481 | 184 | Cheeky Setter |
-| 482 | 184 | Shanon R Jackson |
+| 481 | 184 | Shanon R Jackson |
+| 482 | 184 | Cheeky Setter |
 | 483 | 183 | AC Yeater |
 | 484 | 183 | Beth Ingham |
 | 485 | 182 | Kali Kelz Williams |

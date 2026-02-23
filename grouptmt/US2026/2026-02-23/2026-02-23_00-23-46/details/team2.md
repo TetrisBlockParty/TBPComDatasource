@@ -267,8 +267,8 @@
 | 259 | 972 | Della Hole |
 | 260 | 972 | Juliana Marques Do Nascimento Gordy |
 | 261 | 958 | Brenda Messer |
-| 262 | 957 | Keri Womack |
-| 263 | 957 | Block Master |
+| 262 | 957 | Block Master |
+| 263 | 957 | Keri Womack |
 | 264 | 957 | Offonar Facey |
 | 265 | 957 | Crystal Hoffman |
 | 266 | 955 | Angela Bonquiqui Dinish |
@@ -355,10 +355,10 @@
 | 347 | 773 | Diana Fitzwater |
 | 348 | 772 | Danielle Simmons |
 | 349 | 769 | Melissa Cole |
-| 350 | 768 | Joshua Self |
-| 351 | 768 | Arkei Luster |
-| 352 | 767 | Fancy Twister |
-| 353 | 767 | Ashley Lopez |
+| 350 | 768 | Arkei Luster |
+| 351 | 768 | Joshua Self |
+| 352 | 767 | Ashley Lopez |
+| 353 | 767 | Fancy Twister |
 | 354 | 765 | Kathryn Townsley |
 | 355 | 763 | Arlene Joy Belicina |
 | 356 | 763 | Dreamy Blast |
@@ -403,8 +403,8 @@
 | 395 | 704 | Montez Mancil |
 | 396 | 702 | Kimberly Randesi |
 | 397 | 701 | Mama T |
-| 398 | 700 | Vincent Petrella |
-| 399 | 700 | Beverly Owens |
+| 398 | 700 | Beverly Owens |
+| 399 | 700 | Vincent Petrella |
 | 400 | 699 | Dannette Goldberg-Richards |
 | 401 | 698 | Joce Lynn |
 | 402 | 698 | Spunkysmom |
@@ -415,15 +415,15 @@
 | 407 | 686 | Ashley Guernsey-Martin |
 | 408 | 682 | BeQuo |
 | 409 | 681 | Eric Castaneda |
-| 410 | 680 | blume |
-| 411 | 680 | Kenny Alvarado |
+| 410 | 680 | Kenny Alvarado |
+| 411 | 680 | blume |
 | 412 | 679 | Kassandra Hunt |
 | 413 | 677 | Crystie Hicks |
-| 414 | 677 | Ellie Jonas |
-| 415 | 677 | Amanda Woodruff |
+| 414 | 677 | Amanda Woodruff |
+| 415 | 677 | Ellie Jonas |
 | 416 | 676 | Roseanna Peloso |
-| 417 | 674 | Lonne Emade |
-| 418 | 674 | Connie Jimenez |
+| 417 | 674 | Connie Jimenez |
+| 418 | 674 | Lonne Emade |
 | 419 | 665 | Taryece Gause |
 | 420 | 665 | Prette Qui |
 | 421 | 664 | Sleepypanda67 |
@@ -466,8 +466,8 @@
 | 458 | 613 | Ann Matzkanin |
 | 459 | 612 | Slinky Racker |
 | 460 | 611 | Biggest thing |
-| 461 | 607 | Michelle Lee |
-| 462 | 607 | Véronique Lévesque Sabourin |
+| 461 | 607 | Véronique Lévesque Sabourin |
+| 462 | 607 | Michelle Lee |
 | 463 | 605 | Santana Miyagi |
 | 464 | 603 | Casper The Chonk |
 | 465 | 602 | KhaosLord |

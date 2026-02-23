@@ -216,8 +216,8 @@
 | 208 | 268 | Reesey Enyart |
 | 209 | 267 | Debbie Kane |
 | 210 | 265 | Kandae |
-| 211 | 264 | Jenny Gingrich Fuentes |
-| 212 | 264 | Jen Nystrom |
+| 211 | 264 | Jen Nystrom |
+| 212 | 264 | Jenny Gingrich Fuentes |
 | 213 | 263 | Jessie Lynn |
 | 214 | 260 | Cheeky Pop |
 | 215 | 256 | Chris65 |
@@ -246,8 +246,8 @@
 | 238 | 238 | Sarah Somers Gray |
 | 239 | 238 | Tiffany Smith |
 | 240 | 235 | Bindi |
-| 241 | 234 | Paula Martin |
-| 242 | 234 | Shanae Grant |
+| 241 | 234 | Shanae Grant |
+| 242 | 234 | Paula Martin |
 | 243 | 233 | LC |
 | 244 | 230 | Michael |
 | 245 | 230 | BigWeenie69 |
