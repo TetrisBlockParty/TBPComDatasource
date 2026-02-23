@@ -380,8 +380,8 @@
 | 372 | 824 | Khalil Lowe |
 | 373 | 822 | Lola Contreras |
 | 374 | 821 | Angie Bolton Workman |
-| 375 | 821 | Cassie Mercer |
-| 376 | 821 | Arkei Luster |
+| 375 | 821 | Arkei Luster |
+| 376 | 821 | Cassie Mercer |
 | 377 | 816 | Beth |
 | 378 | 816 | James Simms III |
 | 379 | 812 | Samantha Jo |
@@ -479,8 +479,8 @@
 | 471 | 693 | Ryan Stadel |
 | 472 | 692 | Shaun Church |
 | 473 | 691 | Poldo Ilano |
-| 474 | 691 | Arwa Fatimah |
-| 475 | 691 | Samuel Macon |
+| 474 | 691 | Samuel Macon |
+| 475 | 691 | Arwa Fatimah |
 | 476 | 689 | Gauri Shrotriya |
 | 477 | 686 | Christine Coughlin |
 | 478 | 684 | Tansaria Couch-Butler |
@@ -522,8 +522,8 @@
 | 514 | 646 | Jazzy Clusterline |
 | 515 | 644 | Véronique Lévesque Sabourin |
 | 516 | 643 | Michelle Pike |
-| 517 | 642 | Michelle Fields |
-| 518 | 642 | Cassie Maynard |
+| 517 | 642 | Cassie Maynard |
+| 518 | 642 | Michelle Fields |
 | 519 | 640 | Belle |
 | 520 | 639 | Alexandra Weir |
 | 521 | 639 | Rebecca Miller |
@@ -544,8 +544,8 @@
 | 536 | 620 | Brenna Ann |
 | 537 | 619 | Lylymom |
 | 538 | 618 | Vanessa Moreno |
-| 539 | 617 | Darcy Mae |
-| 540 | 617 | Kacee Conrad Bock |
+| 539 | 617 | Kacee Conrad Bock |
+| 540 | 617 | Darcy Mae |
 | 541 | 615 | Nerdy Pattern |
 | 542 | 615 | Lyndi Robinson Wakefield |
 | 543 | 615 | Julio A Laracuente |
@@ -555,17 +555,17 @@
 | 547 | 612 | Briana Alexander |
 | 548 | 612 | Slinky Racker |
 | 549 | 610 | Michael Buckner |
-| 550 | 609 | Cecilia A Jenkins |
-| 551 | 609 | Autumn Schaeffer |
-| 552 | 609 | Smashanator |
+| 550 | 609 | Autumn Schaeffer |
+| 551 | 609 | Smashanator |
+| 552 | 609 | Cecilia A Jenkins |
 | 553 | 607 | Mo Shine On |
 | 554 | 606 | Lea Stewart |
 | 555 | 605 | Jermaine Harris |
 | 556 | 604 | Rae Rae |
 | 557 | 603 | Casper The Chonk |
 | 558 | 602 | Stephanie Sul |
-| 559 | 601 | Moua Ying |
-| 560 | 601 | Daniel Amos |
+| 559 | 601 | Daniel Amos |
+| 560 | 601 | Moua Ying |
 | 561 | 599 | Marella Petilo |
 | 562 | 598 | Leah Keesling |
 | 563 | 597 | Magic steve |
@@ -637,8 +637,8 @@
 | 629 | 549 | Melissa Kay Gibson |
 | 630 | 549 | Kaylee McCafferty |
 | 631 | 549 | Crystal Hodge Love |
-| 632 | 547 | Quiksilver |
-| 633 | 547 | Hunter Connors |
+| 632 | 547 | Hunter Connors |
+| 633 | 547 | Quiksilver |
 | 634 | 544 | Deidre Shaffer |
 | 635 | 544 | TJ Nash |
 | 636 | 542 | Jarboe |
@@ -858,8 +858,8 @@
 | 850 | 419 | Josh Dill |
 | 851 | 419 | Erin Reid |
 | 852 | 418 | Bold Brickster |
-| 853 | 417 | Tristan Szolek |
-| 854 | 417 | Rebecca Garland |
+| 853 | 417 | Rebecca Garland |
+| 854 | 417 | Tristan Szolek |
 | 855 | 417 | Janai Vrabel |
 | 856 | 417 | Krys |
 | 857 | 417 | Mandy Kachenmeister |

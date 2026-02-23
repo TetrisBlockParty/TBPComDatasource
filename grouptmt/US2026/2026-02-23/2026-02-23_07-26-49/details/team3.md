@@ -113,15 +113,15 @@
 | 105 | 869 | Araceli Parra |
 | 106 | 868 | Sarajane Lokan |
 | 107 | 860 | Sunny Rotater |
-| 108 | 851 | Jd Morris |
-| 109 | 851 | Danielle Becker |
+| 108 | 851 | Danielle Becker |
+| 109 | 851 | Jd Morris |
 | 110 | 850 | Danielle Mogg |
 | 111 | 848 | Patricia Gadsden |
 | 112 | 831 | Angeline Joseph |
 | 113 | 830 | Stephanie Allmon |
 | 114 | 826 | Shane Wilson Jr. |
-| 115 | 816 | Brenda Lee Vander Molen |
-| 116 | 816 | Jesse Olive |
+| 115 | 816 | Jesse Olive |
+| 116 | 816 | Brenda Lee Vander Molen |
 | 117 | 802 | Bobbi Moore |
 | 118 | 800 | Lauren Girouard |
 | 119 | 799 | Dolores Falco |
@@ -160,8 +160,8 @@
 | 152 | 634 | Amber Hughes |
 | 153 | 630 | yoyo |
 | 154 | 629 | Patricia White |
-| 155 | 621 | Cherry Parker |
-| 156 | 621 | Sashay Tapae Simpson |
+| 155 | 621 | Sashay Tapae Simpson |
+| 156 | 621 | Cherry Parker |
 | 157 | 616 | Kammy Hill |
 | 158 | 611 | Rochelle Hazelett |
 | 159 | 607 | Grego Daniel |
@@ -256,13 +256,13 @@
 | 248 | 382 | Giddy Twistbuilder |
 | 249 | 381 | Snazzy Filler |
 | 250 | 380 | Rebecca Bailey |
-| 251 | 378 | MsBee |
-| 252 | 378 | Chris Bell |
+| 251 | 378 | Chris Bell |
+| 252 | 378 | MsBee |
 | 253 | 377 | Charles Perrone |
 | 254 | 374 | Rania Zaqout |
 | 255 | 373 | Chummy Caster |
-| 256 | 372 | Sarah Moyer |
-| 257 | 372 | Rich LeBlanc |
+| 256 | 372 | Rich LeBlanc |
+| 257 | 372 | Sarah Moyer |
 | 258 | 371 | Marquita Sheard |
 | 259 | 371 | block chick |
 | 260 | 370 | Samantha Lynn |
@@ -306,8 +306,8 @@
 | 298 | 336 | Isabel Ocasio |
 | 299 | 336 | Jojo M |
 | 300 | 335 | victory |
-| 301 | 332 | Brittany |
-| 302 | 332 | Velma Mull |
+| 301 | 332 | Velma Mull |
+| 302 | 332 | Brittany |
 | 303 | 331 | Gray Hicks |
 | 304 | 329 | Angela Scott |
 | 305 | 328 | Desiree Soto |
@@ -459,8 +459,8 @@
 | 451 | 234 | Cheeky Twisterfit |
 | 452 | 233 | Criss |
 | 453 | 233 | Tony Waters |
-| 454 | 232 | Stephanie Hill |
-| 455 | 232 | Melanie Sherwood |
+| 454 | 232 | Melanie Sherwood |
+| 455 | 232 | Stephanie Hill |
 | 456 | 232 | Sunny Tiltgrid |
 | 457 | 231 | Frothy Snapper |
 | 458 | 231 | Giggly Brickroll |
@@ -468,8 +468,8 @@
 | 460 | 230 | BigE |
 | 461 | 229 | MizzMonick Smith |
 | 462 | 229 | Everret Maxine |
-| 463 | 228 | Tipsy Zonebuilder |
-| 464 | 228 | Dapper Liney |
+| 463 | 228 | Dapper Liney |
+| 464 | 228 | Tipsy Zonebuilder |
 | 465 | 227 | Meowsa |
 | 466 | 226 | Jana Polk |
 | 467 | 226 | Ryan Williams |

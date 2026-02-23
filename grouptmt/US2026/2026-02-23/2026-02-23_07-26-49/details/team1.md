@@ -237,10 +237,10 @@
 | 229 | 282 | Mandyy Rae |
 | 230 | 281 | Clever Cascadepiece |
 | 231 | 280 | Billie Dawn Sparks |
-| 232 | 277 | Nutty Spinblock |
-| 233 | 277 | Melissa Lemmon |
-| 234 | 275 | Cheeky Pop |
-| 235 | 275 | Chris65 |
+| 232 | 277 | Melissa Lemmon |
+| 233 | 277 | Nutty Spinblock |
+| 234 | 275 | Chris65 |
+| 235 | 275 | Cheeky Pop |
 | 236 | 274 | Lakeisha Chapman |
 | 237 | 273 | Shannon Marie Pitts |
 | 238 | 272 | Barrbaric |

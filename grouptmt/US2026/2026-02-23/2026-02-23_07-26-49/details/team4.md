@@ -148,10 +148,10 @@
 | 140 | 429 | Klo |
 | 141 | 426 | 🥔🥔 Spudz |
 | 142 | 423 | Carrie Brian |
-| 143 | 421 | JIGsaw ~(•¿°)~ |
-| 144 | 421 | Kesha Brady |
-| 145 | 418 | Lush Linkfall |
-| 146 | 418 | Marie-Pier Desjardins |
+| 143 | 421 | Kesha Brady |
+| 144 | 421 | JIGsaw ~(•¿°)~ |
+| 145 | 418 | Marie-Pier Desjardins |
+| 146 | 418 | Lush Linkfall |
 | 147 | 416 | Chaz Duncan |
 | 148 | 414 | Nope Young |
 | 149 | 414 | Swanky Fitline |
@@ -260,8 +260,8 @@
 | 252 | 264 | ZeeZee |
 | 253 | 264 | Stella |
 | 254 | 263 | rebel4lyfe |
-| 255 | 262 | BigSammy420 |
-| 256 | 262 | Selena Shaw |
+| 255 | 262 | Selena Shaw |
+| 256 | 262 | BigSammy420 |
 | 257 | 261 | Zethra Prenisha Rahming |
 | 258 | 260 | Carter Jones |
 | 259 | 260 | Lori |
@@ -453,7 +453,7 @@
 | 445 | 162 | Amy Sanford |
 | 446 | 160 | Sho Nuff |
 | 447 | 160 | Heather Layne Smith |
-| 448 | 160 | Sho Nuff |
+| 448 | 160 | Sam Middleton |
 | 449 | 159 | Groovy Brickmatch |
 | 450 | 159 | Chao Ma |
 | 451 | 158 | Dapper Frame |
