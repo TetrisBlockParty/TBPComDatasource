@@ -77,8 +77,8 @@
 | 69 | 802 | Crystal Carroll |
 | 70 | 794 | Julian Garcia |
 | 71 | 788 | Chilly Line |
-| 72 | 787 | Edward White |
-| 73 | 787 | loulou |
+| 72 | 787 | loulou |
+| 73 | 787 | Edward White |
 | 74 | 769 | Alyssa Papen |
 | 75 | 768 | Judy Cox |
 | 76 | 767 | Shannon Ferrari |

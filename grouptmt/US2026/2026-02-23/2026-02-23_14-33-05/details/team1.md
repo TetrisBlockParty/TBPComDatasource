@@ -81,8 +81,8 @@
 | 73 | 760 | Seante Bullock |
 | 74 | 750 | Cartier |
 | 75 | 740 | Lori Sanders- Davis |
-| 76 | 713 | Snappy Swiper |
-| 77 | 713 | Robert Benito |
+| 76 | 713 | Robert Benito |
+| 77 | 713 | Snappy Swiper |
 | 78 | 704 | Karin Gillen |
 | 79 | 703 | Angel Fowler |
 | 80 | 700 | Fmp |
@@ -241,8 +241,8 @@
 | 233 | 324 | Rat666 |
 | 234 | 323 | Eric DeSimone |
 | 235 | 323 | Madison Wicks |
-| 236 | 322 | Angela Renea Lester |
-| 237 | 322 | Letson Melissa |
+| 236 | 322 | Letson Melissa |
+| 237 | 322 | Angela Renea Lester |
 | 238 | 319 | Frothy Pattern |
 | 239 | 317 | Sarah Roberts |
 | 240 | 316 | Sassy Builderline |
@@ -265,8 +265,8 @@
 | 257 | 298 | Kimberly Davis |
 | 258 | 298 | Billie Ann Eason |
 | 259 | 297 | Diane Byrd |
-| 260 | 290 | Hellsin |
-| 261 | 290 | Tavia |
+| 260 | 290 | Tavia |
+| 261 | 290 | Hellsin |
 | 262 | 289 | Alenoush Karimian |
 | 263 | 288 | Bird Person |
 | 264 | 287 | Sir-Franchise Drake |
@@ -1500,7 +1500,7 @@
 | 1492 | 31 | Ryan James Kelly |
 | 1493 | 31 | Kat Bowman |
 | 1494 | 31 | Olivia Witmer |
-| 1495 | 31 | Krista Roberts |
+| 1495 | 31 | Sunny Column |
 | 1496 | 31 | Cassandra Cooper |
 | 1497 | 31 | Krista Roberts |
 | 1498 | 31 | Shawne Smith |

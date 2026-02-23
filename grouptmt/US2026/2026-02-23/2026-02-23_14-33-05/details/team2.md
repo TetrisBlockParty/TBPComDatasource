@@ -252,8 +252,8 @@
 | 244 | 1232 | Ambyre Patterson |
 | 245 | 1230 | Megan Garrick |
 | 246 | 1221 | Jane Fong |
-| 247 | 1217 | Brooks Brooks |
-| 248 | 1217 | Lucky Ladybug |
+| 247 | 1217 | Lucky Ladybug |
+| 248 | 1217 | Brooks Brooks |
 | 249 | 1216 | Pacynthia Williams |
 | 250 | 1214 | David Cudicio-Hayden |
 | 251 | 1211 | Ricardo Burton |
