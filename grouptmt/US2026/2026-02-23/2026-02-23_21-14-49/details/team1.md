@@ -169,8 +169,8 @@
 | 161 | 476 | Ly Phethmany |
 | 162 | 470 | Candy Jones |
 | 163 | 468 | Steve Schneider |
-| 164 | 463 | Nicole Roseberry Weber |
-| 165 | 463 | Brandi Huntington |
+| 164 | 463 | Brandi Huntington |
+| 165 | 463 | Nicole Roseberry Weber |
 | 166 | 462 | Luciano Moreira |
 | 167 | 462 | Hasty Cascader |
 | 168 | 458 | Dizzy Slider |
@@ -288,8 +288,8 @@
 | 280 | 324 | Mandyy Rae |
 | 281 | 324 | Sylvia Vasquez |
 | 282 | 323 | Irv |
-| 283 | 322 | Sarah Roberts |
-| 284 | 322 | Christina Norman |
+| 283 | 322 | Christina Norman |
+| 284 | 322 | Sarah Roberts |
 | 285 | 318 | Mitchel White |
 | 286 | 317 | Bloknboy |
 | 287 | 317 | Zany Tiler |
@@ -627,8 +627,8 @@
 | 619 | 160 | Mindy Gloska |
 | 620 | 160 | Sunny Catcher |
 | 621 | 159 | Krista Young |
-| 622 | 158 | Jordan Brooks |
-| 623 | 158 | Nicolette Ivory Chastain |
+| 622 | 158 | Nicolette Ivory Chastain |
+| 623 | 158 | Jordan Brooks |
 | 624 | 157 | davis13 |
 | 625 | 157 | Donna Taliger Brigante |
 | 626 | 156 | Heather Martin |

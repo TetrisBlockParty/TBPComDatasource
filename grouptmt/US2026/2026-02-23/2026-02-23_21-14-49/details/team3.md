@@ -380,8 +380,8 @@
 | 372 | 358 | Heather Davis |
 | 373 | 358 | Ashley Rufus Bythcez |
 | 374 | 356 | Tony Waters |
-| 375 | 352 | Tiffany Davie |
-| 376 | 352 | LadyTorad |
+| 375 | 352 | LadyTorad |
+| 376 | 352 | Tiffany Davie |
 | 377 | 352 | xsiv |
 | 378 | 351 | Eon Harris |
 | 379 | 351 | Romeo |
@@ -450,8 +450,8 @@
 | 442 | 310 | Kristi Taylor |
 | 443 | 310 | Mindy Phelps |
 | 444 | 309 | Carol Cain Thurman |
-| 445 | 309 | Block Baddie |
-| 446 | 309 | Cheeky Snapper |
+| 445 | 309 | Cheeky Snapper |
+| 446 | 309 | Block Baddie |
 | 447 | 308 | Katrina Turner |
 | 448 | 308 | Rainbow77375 |
 | 449 | 308 | Sassy Brickmatch |
@@ -461,8 +461,8 @@
 | 453 | 307 | Kristian Thurman |
 | 454 | 306 | Valerie Tarkington |
 | 455 | 306 | Funky Brickster |
-| 456 | 306 | Jackie Miller |
-| 457 | 306 | Saucy Buildout |
+| 456 | 306 | Saucy Buildout |
+| 457 | 306 | Jackie Miller |
 | 458 | 305 | Breezy Roll |
 | 459 | 304 | _melisa223_ |
 | 460 | 304 | Stella |

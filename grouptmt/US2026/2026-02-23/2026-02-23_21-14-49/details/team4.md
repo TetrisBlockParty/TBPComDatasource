@@ -139,16 +139,16 @@
 | 131 | 584 | Carlton Unfiltered |
 | 132 | 575 | Jenna Ingersoll |
 | 133 | 574 | Carmethia Clemons Haslerig |
-| 134 | 573 | Cursed Hag |
-| 135 | 573 | shar |
+| 134 | 573 | shar |
+| 135 | 573 | Cursed Hag |
 | 136 | 561 | YoMomma |
 | 137 | 560 | Chastity Mitchell |
 | 138 | 557 | Chilly Crasher |
 | 139 | 551 | Ren Mc |
 | 140 | 549 | Carlos Ramirez |
 | 141 | 546 | Dizzy Tiley |
-| 142 | 545 | Desi Desporte |
-| 143 | 545 | Livvy |
+| 142 | 545 | Livvy |
+| 143 | 545 | Desi Desporte |
 | 144 | 542 | Austin Owens |
 | 145 | 540 | Rodney McMath Jr. |
 | 146 | 536 | Kimberlee Jan Beckstead |
@@ -268,9 +268,9 @@
 | 260 | 350 | Jen Caldwell |
 | 261 | 349 | jim |
 | 262 | 347 | Bio Nelly |
-| 263 | 347 | Nerdy Twisterfit |
-| 264 | 347 | Daria Rycewicz |
-| 265 | 347 | Gdiguy |
+| 263 | 347 | Gdiguy |
+| 264 | 347 | Nerdy Twisterfit |
+| 265 | 347 | Daria Rycewicz |
 | 266 | 345 | Chaz |
 | 267 | 343 | HastyGrabber |
 | 268 | 343 | blasterB |
