@@ -114,8 +114,8 @@
 | 106 | 869 | Araceli Parra |
 | 107 | 868 | Sarajane Lokan |
 | 108 | 860 | Sunny Rotater |
-| 109 | 851 | Danielle Becker |
-| 110 | 851 | Jd Morris |
+| 109 | 851 | Jd Morris |
+| 110 | 851 | Danielle Becker |
 | 111 | 850 | Danielle Mogg |
 | 112 | 848 | Patricia Gadsden |
 | 113 | 831 | Angeline Joseph |
@@ -130,8 +130,8 @@
 | 122 | 769 | Kristie |
 | 123 | 764 | Groovy Catcher |
 | 124 | 762 | Speedy Bridger |
-| 125 | 755 | Raya |
-| 126 | 755 | Katrina Schroeder |
+| 125 | 755 | Katrina Schroeder |
+| 126 | 755 | Raya |
 | 127 | 752 | Logan Naccarato |
 | 128 | 748 | Adrian Marcel Pate |
 | 129 | 745 | JerseyJess |
@@ -177,8 +177,8 @@
 | 169 | 591 | Michael Nowogorski |
 | 170 | 588 | Justin Ritter |
 | 171 | 587 | Louise Stacy Sisson |
-| 172 | 585 | Annie Marie |
-| 173 | 585 | Happy Tetriblast |
+| 172 | 585 | Happy Tetriblast |
+| 173 | 585 | Annie Marie |
 | 174 | 583 | Tasha Gillespie |
 | 175 | 582 | Natasha Jones |
 | 176 | 577 | Domo Washington |
@@ -201,8 +201,8 @@
 | 193 | 528 | Silly Twist |
 | 194 | 525 | Stephanie Blkpep Davidson |
 | 195 | 524 | Bmo |
-| 196 | 519 | rnr junky |
-| 197 | 519 | Terry Jo Jones |
+| 196 | 519 | Terry Jo Jones |
+| 197 | 519 | rnr junky |
 | 198 | 515 | Cozy Snaplink |
 | 199 | 508 | Makelini Mausia |
 | 200 | 503 | Tye Stovall |
@@ -241,13 +241,13 @@
 | 233 | 418 | Rebecca Funderburk Kirby |
 | 234 | 414 | Fran Lin |
 | 235 | 413 | Micayah Stevens |
-| 236 | 410 | Stephanie Simpson |
-| 237 | 410 | Duane Bright |
+| 236 | 410 | Duane Bright |
+| 237 | 410 | Stephanie Simpson |
 | 238 | 408 | Tiffany Ford |
 | 239 | 406 | Kristal C Lee |
 | 240 | 404 | Chasity |
-| 241 | 403 | Denita Mungro |
-| 242 | 403 | Scott Lindsay |
+| 241 | 403 | Scott Lindsay |
+| 242 | 403 | Denita Mungro |
 | 243 | 398 | Marci Mize Fandrich |
 | 244 | 396 | Randy Clevenger |
 | 245 | 395 | rosy |
@@ -333,8 +333,8 @@
 | 325 | 311 | Troy |
 | 326 | 309 | Desiree Gold |
 | 327 | 309 | Cheeky Snapper |
-| 328 | 308 | Tia |
-| 329 | 308 | Katrina Turner |
+| 328 | 308 | Katrina Turner |
+| 329 | 308 | Tia |
 | 330 | 305 | Hyper Matchzone |
 | 331 | 304 | _melisa223_ |
 | 332 | 303 | Alexmac |
@@ -367,8 +367,8 @@
 | 359 | 280 | ROODBOY |
 | 360 | 280 | Aerian Preston |
 | 361 | 280 | Dirtgirl27 |
-| 362 | 279 | Tosha Griffey |
-| 363 | 279 | Naur |
+| 362 | 279 | Naur |
+| 363 | 279 | Tosha Griffey |
 | 364 | 278 | Rufus Lincoln |
 | 365 | 277 | France Vézina |
 | 366 | 277 | Ava Petito |
@@ -386,8 +386,8 @@
 | 378 | 273 | Brenda Schmid Wood |
 | 379 | 273 | Kevin Fountain |
 | 380 | 272 | Romeo |
-| 381 | 272 | Tay |
-| 382 | 272 | Todd Hall |
+| 381 | 272 | Todd Hall |
+| 382 | 272 | Tay |
 | 383 | 269 | Goofy Fall |
 | 384 | 269 | Samantha Worley |
 | 385 | 269 | Jess Bissett |
@@ -401,8 +401,8 @@
 | 393 | 265 | AlsoJess |
 | 394 | 264 | Reina Roth |
 | 395 | 264 | Danielle Beaunoyer Jean |
-| 396 | 263 | Erika Thornton |
-| 397 | 263 | Jimmie Clemons |
+| 396 | 263 | Jimmie Clemons |
+| 397 | 263 | Erika Thornton |
 | 398 | 261 | Swanky Snapclear |
 | 399 | 260 | Tracey Cox |
 | 400 | 260 | Alice |
@@ -410,8 +410,8 @@
 | 402 | 259 | Tegan Chapman |
 | 403 | 259 | Shania Vaine |
 | 404 | 258 | IamJust Neyamijah Washington Sr. |
-| 405 | 257 | Rachel Grant |
-| 406 | 257 | Chris Wallace |
+| 405 | 257 | Chris Wallace |
+| 406 | 257 | Rachel Grant |
 | 407 | 257 | Saucy Buildout |
 | 408 | 257 | Jana Polk |
 | 409 | 255 | Erykah |
@@ -468,22 +468,22 @@
 | 460 | 232 | Melanie Sherwood |
 | 461 | 232 | Sunny Tiltgrid |
 | 462 | 231 | Giggly Brickroll |
-| 463 | 230 | DanceLuvLaugh |
-| 464 | 230 | BigE |
+| 463 | 230 | BigE |
+| 464 | 230 | DanceLuvLaugh |
 | 465 | 229 | MizzMonick Smith |
 | 466 | 229 | Everret Maxine |
-| 467 | 228 | Tipsy Zonebuilder |
-| 468 | 228 | Dapper Liney |
+| 467 | 228 | Dapper Liney |
+| 468 | 228 | Tipsy Zonebuilder |
 | 469 | 227 | Meowsa |
 | 470 | 226 | paranoid |
 | 471 | 226 | Ryan Williams |
 | 472 | 225 | sofaking |
 | 473 | 225 | Sassy Tiler |
 | 474 | 224 | Cranky Corner |
-| 475 | 224 | Sarah Morris |
-| 476 | 224 | Christina Rotz Shows |
-| 477 | 223 | Megan Rathmanner |
-| 478 | 223 | Breanna Marsden |
+| 475 | 224 | Christina Rotz Shows |
+| 476 | 224 | Sarah Morris |
+| 477 | 223 | Breanna Marsden |
+| 478 | 223 | Megan Rathmanner |
 | 479 | 222 | Angel Miller |
 | 480 | 221 | BŘŰŤİÇŨŚ |
 | 481 | 221 | Spicy Cascadepiece |
@@ -561,8 +561,8 @@
 | 553 | 195 | toony |
 | 554 | 195 | Nicha Hooker |
 | 555 | 194 | Shicken Nuggit |
-| 556 | 193 | Clever Shiftsnap |
-| 557 | 193 | Bryan Byrd |
+| 556 | 193 | Bryan Byrd |
+| 557 | 193 | Clever Shiftsnap |
 | 558 | 192 | Jennifer Neiman Gaal |
 | 559 | 192 | Laura Booth Wosko |
 | 560 | 192 | Kelly Ann Child |

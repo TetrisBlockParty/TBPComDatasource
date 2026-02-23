@@ -90,8 +90,8 @@
 | 82 | 645 | Robert Benito |
 | 83 | 643 | Evie Khalil |
 | 84 | 600 | Greg Hart |
-| 85 | 598 | Erin Hodges Plumb |
-| 86 | 598 | Kellie |
+| 85 | 598 | Kellie |
+| 86 | 598 | Erin Hodges Plumb |
 | 87 | 584 | Jen Sartain |
 | 88 | 583 | Theo Pinnow |
 | 89 | 582 | Plucky Fallzone |
@@ -138,13 +138,13 @@
 | 130 | 429 | Kristi Johnson |
 | 131 | 428 | Ly Phethmany |
 | 132 | 426 | Maria C. Hernandez |
-| 133 | 425 | Dandy Basegrid |
-| 134 | 425 | Tyler Werts |
+| 133 | 425 | Tyler Werts |
+| 134 | 425 | Dandy Basegrid |
 | 135 | 423 | ALFD |
 | 136 | 417 | Phu ckalldems |
 | 137 | 411 | BadG52 |
-| 138 | 406 | Desiree Deschaine Havee |
-| 139 | 406 | Candy Jones |
+| 138 | 406 | Candy Jones |
+| 139 | 406 | Desiree Deschaine Havee |
 | 140 | 405 | And |
 | 141 | 402 | Chris K |
 | 142 | 399 | Nery Martinez |
@@ -164,10 +164,10 @@
 | 156 | 378 | Jessica Sheehan |
 | 157 | 376 | Brian Richardsson |
 | 158 | 376 | Death |
-| 159 | 375 | Connie |
-| 160 | 375 | Tanya Carpenter-Reynolds |
-| 161 | 371 | Basment Living |
-| 162 | 371 | Jason Savage |
+| 159 | 375 | Tanya Carpenter-Reynolds |
+| 160 | 375 | Connie |
+| 161 | 371 | Jason Savage |
+| 162 | 371 | Basment Living |
 | 163 | 369 | Christy Jones |
 | 164 | 368 | Amanda Johnson Huffman |
 | 165 | 367 | Sharon Reynolds |
@@ -219,14 +219,14 @@
 | 211 | 307 | femmefatale |
 | 212 | 306 | Angela Renea Lester |
 | 213 | 304 | Sarah Somers Gray |
-| 214 | 301 | Damon J. Martin |
-| 215 | 301 | Cody Gates |
+| 214 | 301 | Cody Gates |
+| 215 | 301 | Damon J. Martin |
 | 216 | 300 | Sleepysloath5745 |
-| 217 | 298 | Billie Ann Eason |
-| 218 | 298 | Sweetts |
+| 217 | 298 | Sweetts |
+| 218 | 298 | Billie Ann Eason |
 | 219 | 295 | Lakeisha Chapman |
-| 220 | 294 | Chuck Gannon |
-| 221 | 294 | Bindi |
+| 220 | 294 | Bindi |
+| 221 | 294 | Chuck Gannon |
 | 222 | 293 | John Kim |
 | 223 | 291 | Giddy Cascade |
 | 224 | 291 | Brave Wrecker |
@@ -327,8 +327,8 @@
 | 319 | 220 | Teri Oehlke |
 | 320 | 220 | Gary Gobin |
 | 321 | 219 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
-| 322 | 219 | Negan Mallory Knoxx Spence |
-| 323 | 219 | Jeanna Dunn |
+| 322 | 219 | Jeanna Dunn |
+| 323 | 219 | Negan Mallory Knoxx Spence |
 | 324 | 218 | Jason Benitez |
 | 325 | 217 | Betsy |
 | 326 | 217 | Speedy Snapfall |

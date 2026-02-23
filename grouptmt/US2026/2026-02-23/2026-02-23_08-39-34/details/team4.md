@@ -26,8 +26,8 @@
 | 18 | 1636 | Cassie Michaux |
 | 19 | 1565 | GreenJeepGirl |
 | 20 | 1558 | Leah Gorsuch |
-| 21 | 1536 | Misty Hollibaugh |
-| 22 | 1536 | Roger Coulter |
+| 21 | 1536 | Roger Coulter |
+| 22 | 1536 | Misty Hollibaugh |
 | 23 | 1485 | Juggalo |
 | 24 | 1390 | Sammy Noguera |
 | 25 | 1382 | Tammi Crnza |
@@ -122,8 +122,8 @@
 | 114 | 519 | Nugget |
 | 115 | 517 | shar |
 | 116 | 517 | Christina LR |
-| 117 | 514 | Scott Jameson |
-| 118 | 514 | Serena Goodridge |
+| 117 | 514 | Serena Goodridge |
+| 118 | 514 | Scott Jameson |
 | 119 | 513 | Erin Thomas |
 | 120 | 512 | Cristy Duerksen |
 | 121 | 512 | Casey Jeffcoat |
@@ -166,8 +166,8 @@
 | 158 | 403 | Keith Kelley |
 | 159 | 402 | Lucas J Sutton |
 | 160 | 398 | Tyler Terrific |
-| 161 | 393 | Carlton Unfiltered |
-| 162 | 393 | Girl |
+| 161 | 393 | Girl |
+| 162 | 393 | Carlton Unfiltered |
 | 163 | 392 | Nick Gray |
 | 164 | 391 | Ramel Rhodes |
 | 165 | 389 | Joseph Guthrie |
@@ -246,8 +246,8 @@
 | 238 | 279 | Malakai Darien Fox |
 | 239 | 278 | Angela Geist Jusinski |
 | 240 | 278 | Sarah Brown |
-| 241 | 276 | Joeliecea Cobb |
-| 242 | 276 | Matt Dell'Olio |
+| 241 | 276 | Matt Dell'Olio |
+| 242 | 276 | Joeliecea Cobb |
 | 243 | 275 | Kimberlee Jan Beckstead |
 | 244 | 273 | Cranky Rollpiece |
 | 245 | 272 | Alan George LaRage |
@@ -264,8 +264,8 @@
 | 256 | 264 | ZeeZee |
 | 257 | 264 | Stella |
 | 258 | 263 | rebel4lyfe |
-| 259 | 262 | Selena Shaw |
-| 260 | 262 | BigSammy420 |
+| 259 | 262 | BigSammy420 |
+| 260 | 262 | Selena Shaw |
 | 261 | 261 | Zethra Prenisha Rahming |
 | 262 | 260 | Carter Jones |
 | 263 | 260 | Lori |
@@ -273,7 +273,7 @@
 | 265 | 259 | John Brunetti |
 | 266 | 259 | Allen Lloyd |
 | 267 | 257 | PeaceOs |
-| 268 | 256 | Jade Rian |
+| 268 | 256 | Paige Kittles |
 | 269 | 256 | Metsfan |
 | 270 | 256 | Jade Rian |
 | 271 | 256 | Brittany Marsh |
@@ -363,8 +363,8 @@
 | 355 | 194 | Zany Twisterfit |
 | 356 | 192 | Twisty Risebuilder |
 | 357 | 192 | Meg |
-| 358 | 191 | Earnest Thompson |
-| 359 | 191 | Riverdale |
+| 358 | 191 | Riverdale |
+| 359 | 191 | Earnest Thompson |
 | 360 | 191 | Norman Klick |
 | 361 | 190 | Hyper Builder |
 | 362 | 190 | wombat |
@@ -372,8 +372,8 @@
 | 364 | 189 | Lauren Lamb |
 | 365 | 189 | Cool Towerbuilder |
 | 366 | 188 | Sharyn Lemire |
-| 367 | 187 | Cozy Balancer |
-| 368 | 187 | Jenny Wells-Oakley |
+| 367 | 187 | Jenny Wells-Oakley |
+| 368 | 187 | Cozy Balancer |
 | 369 | 186 | Dandy Cascadefit |
 | 370 | 186 | Shanon Klair |
 | 371 | 186 | Eri Kka |
