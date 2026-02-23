@@ -79,8 +79,8 @@
 | 71 | 760 | Seante Bullock |
 | 72 | 759 | Jacqueline Williams |
 | 73 | 750 | Cartier |
-| 74 | 713 | Robert Benito |
-| 75 | 713 | Snappy Swiper |
+| 74 | 713 | Snappy Swiper |
+| 75 | 713 | Robert Benito |
 | 76 | 704 | Karin Gillen |
 | 77 | 703 | Angel Fowler |
 | 78 | 689 | Susanna Guerry |
@@ -108,8 +108,8 @@
 | 100 | 534 | Loony Fitzone |
 | 101 | 534 | Veronica Eve |
 | 102 | 529 | Ryan Lunnin |
-| 103 | 522 | Tdub |
-| 104 | 522 | Sarah Lombardo |
+| 103 | 522 | Sarah Lombardo |
+| 104 | 522 | Tdub |
 | 105 | 515 | Death |
 | 106 | 513 | Colena Davenport |
 | 107 | 511 | Mario Cab |
@@ -127,8 +127,8 @@
 | 119 | 477 | Tonya Beasley |
 | 120 | 475 | Sarah Somers Gray |
 | 121 | 471 | Hyper |
-| 122 | 467 | Candy Jones |
-| 123 | 467 | Constance Risner |
+| 122 | 467 | Constance Risner |
+| 123 | 467 | Candy Jones |
 | 124 | 466 | Adrian Esteban |
 | 125 | 463 | Lexuriuos Lifestlye |
 | 126 | 462 | Luciano Moreira |

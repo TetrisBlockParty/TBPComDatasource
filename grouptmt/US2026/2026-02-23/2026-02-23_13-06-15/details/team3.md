@@ -118,8 +118,8 @@
 | 110 | 869 | Araceli Parra |
 | 111 | 868 | Sarajane Lokan |
 | 112 | 860 | Sunny Rotater |
-| 113 | 851 | Danielle Becker |
-| 114 | 851 | Jd Morris |
+| 113 | 851 | Jd Morris |
+| 114 | 851 | Danielle Becker |
 | 115 | 850 | Danielle Mogg |
 | 116 | 848 | Patricia Gadsden |
 | 117 | 839 | Angeline Joseph |
@@ -171,15 +171,15 @@
 | 163 | 631 | Grego Daniel |
 | 164 | 630 | yoyo |
 | 165 | 629 | rnr junky |
-| 166 | 621 | Cherry Parker |
-| 167 | 621 | Sashay Tapae Simpson |
+| 166 | 621 | Sashay Tapae Simpson |
+| 167 | 621 | Cherry Parker |
 | 168 | 616 | Kammy Hill |
 | 169 | 611 | Rochelle Hazelett |
 | 170 | 603 | Jone |
 | 171 | 602 | Jacqueline Rodriguez |
 | 172 | 599 | opf |
-| 173 | 597 | Diana Ibarra |
-| 174 | 597 | CeceGeGe |
+| 173 | 597 | CeceGeGe |
+| 174 | 597 | Diana Ibarra |
 | 175 | 591 | Michael Nowogorski |
 | 176 | 591 | Makelini Mausia |
 | 177 | 589 | Kaycee Kay |
@@ -371,8 +371,8 @@
 | 363 | 301 | Daring Brickzone |
 | 364 | 301 | Betty Rosas |
 | 365 | 301 | Kaitie Oliver |
-| 366 | 299 | TotoCherue |
-| 367 | 299 | Angie Harper |
+| 366 | 299 | Angie Harper |
+| 367 | 299 | TotoCherue |
 | 368 | 299 | Antonia Russell |
 | 369 | 299 | Hasty Gridpiece |
 | 370 | 298 | Grams |

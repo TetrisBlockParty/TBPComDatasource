@@ -49,8 +49,8 @@
 | 41 | 1121 | Isabel Aguilar |
 | 42 | 1100 | Landon Keith Graffeo |
 | 43 | 1085 | Kimyatta Cavin |
-| 44 | 1082 | Dawn Alexander |
-| 45 | 1082 | Dion Crommarty |
+| 44 | 1082 | Dion Crommarty |
+| 45 | 1082 | Dawn Alexander |
 | 46 | 1071 | Cherrish Duren |
 | 47 | 1065 | Koshin Abdirahman |
 | 48 | 1046 | Johnathan Martinez |
@@ -135,8 +135,8 @@
 | 127 | 514 | Scott Jameson |
 | 128 | 513 | Erin Thomas |
 | 129 | 513 | Chaz Duncan |
-| 130 | 512 | Casey Jeffcoat |
-| 131 | 512 | Cristy Duerksen |
+| 130 | 512 | Cristy Duerksen |
+| 131 | 512 | Casey Jeffcoat |
 | 132 | 508 | Twisty Clicky |
 | 133 | 502 | Ellen Durfee |
 | 134 | 498 | Melissa Adams |
@@ -493,8 +493,8 @@
 | 485 | 160 | icequeenx |
 | 486 | 159 | Groovy Brickmatch |
 | 487 | 158 | Jen Mattei |
-| 488 | 158 | Jasmine S Caldwell |
-| 489 | 158 | Jackie Clark |
+| 488 | 158 | Jackie Clark |
+| 489 | 158 | Jasmine S Caldwell |
 | 490 | 157 | LunaMoon |
 | 491 | 157 | David Boggs |
 | 492 | 157 | Ryry |
@@ -589,8 +589,8 @@
 | 581 | 128 | Lazy Glidepiece |
 | 582 | 128 | Raymond Roberts |
 | 583 | 127 | Jay You |
-| 584 | 126 | PAPatty |
-| 585 | 126 | Spicy Cascadezone |
+| 584 | 126 | Spicy Cascadezone |
+| 585 | 126 | PAPatty |
 | 586 | 125 | Kelly Adams Carnahan |
 | 587 | 125 | Christina Nabrizny |
 | 588 | 124 | Cheery Towerzone |
