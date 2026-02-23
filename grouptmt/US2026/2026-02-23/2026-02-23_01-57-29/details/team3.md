@@ -111,8 +111,8 @@
 | 103 | 831 | Angeline Joseph |
 | 104 | 830 | Stephanie Allmon |
 | 105 | 826 | Shane Wilson Jr. |
-| 106 | 816 | Araceli Parra |
-| 107 | 816 | Brenda Lee Vander Molen |
+| 106 | 816 | Brenda Lee Vander Molen |
+| 107 | 816 | Araceli Parra |
 | 108 | 800 | Lauren Girouard |
 | 109 | 799 | Dolores Falco |
 | 110 | 762 | Speedy Bridger |
@@ -157,8 +157,8 @@
 | 149 | 582 | Natasha Jones |
 | 150 | 579 | Tasha Gillespie |
 | 151 | 574 | Morgan Martinez |
-| 152 | 572 | CeceGeGe |
-| 153 | 572 | Domo Washington |
+| 152 | 572 | Domo Washington |
+| 153 | 572 | CeceGeGe |
 | 154 | 571 | Nicole Myers |
 | 155 | 568 | Rachael McClain Owens |
 | 156 | 562 | Louise Stacy Sisson |
@@ -185,9 +185,9 @@
 | 177 | 490 | Loopy Fallmatch |
 | 178 | 489 | Shannon Matthew Byers |
 | 179 | 488 | Melissa Orth Hunter |
-| 180 | 485 | Demetrious Shaw Sr. |
-| 181 | 485 | Dapper Snap |
-| 182 | 485 | Terry Jo Jones |
+| 180 | 485 | Dapper Snap |
+| 181 | 485 | Terry Jo Jones |
+| 182 | 485 | Demetrious Shaw Sr. |
 | 183 | 481 | FuzzyNavel |
 | 184 | 480 | Danielle Allison |
 | 185 | 479 | Poppy Splitter |
@@ -293,9 +293,9 @@
 | 285 | 308 | Katrina Turner |
 | 286 | 307 | Blocked |
 | 287 | 304 | _melisa223_ |
-| 288 | 303 | Alexmac |
-| 289 | 303 | Beaudie Stroebel |
-| 290 | 303 | Hoppy Buildout |
+| 288 | 303 | Hoppy Buildout |
+| 289 | 303 | Alexmac |
+| 290 | 303 | Beaudie Stroebel |
 | 291 | 302 | Gray Hicks |
 | 292 | 301 | Tiffany Davie |
 | 293 | 301 | Betty Rosas |
@@ -461,7 +461,7 @@
 | 453 | 205 | Bouncy Blockbuilder |
 | 454 | 205 | Rachel Napper |
 | 455 | 203 | TLM |
-| 456 | 201 | Hyper Matchzone |
+| 456 | 201 | Noettín Kan Zasnemoore |
 | 457 | 201 | Bhreagh Gentile |
 | 458 | 201 | Mikki Torres |
 | 459 | 201 | Hyper Matchzone |
