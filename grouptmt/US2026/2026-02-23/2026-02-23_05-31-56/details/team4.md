@@ -215,8 +215,8 @@
 | 207 | 300 | Zakia Monae |
 | 208 | 300 | Dana Scott |
 | 209 | 295 | Keshia Lyons |
-| 210 | 294 | Calvin Cannon |
-| 211 | 294 | Porkobello |
+| 210 | 294 | Porkobello |
+| 211 | 294 | Calvin Cannon |
 | 212 | 292 | Epic Curvetile |
 | 213 | 290 | Jared Gutwein |
 | 214 | 290 | Rebecca Morris |
@@ -293,9 +293,9 @@
 | 285 | 226 | Dizzy Matchzone |
 | 286 | 225 | Jenna McGeorge |
 | 287 | 224 | Ultramarine |
-| 288 | 223 | Amanda Christine |
-| 289 | 223 | Adawna Swires |
-| 290 | 223 | Chance Strickland |
+| 288 | 223 | Adawna Swires |
+| 289 | 223 | Chance Strickland |
+| 290 | 223 | Amanda Christine |
 | 291 | 222 | Brandi Durig |
 | 292 | 221 | Rheanda Weaskus |
 | 293 | 221 | PurpleMoonMa |
@@ -333,9 +333,9 @@
 | 325 | 206 | June Hoffman |
 | 326 | 205 | KayM |
 | 327 | 204 | Russ Attitude |
-| 328 | 203 | Katherine Crane |
-| 329 | 203 | Gilles Lanctot |
-| 330 | 203 | Andrew Dang |
+| 328 | 203 | Gilles Lanctot |
+| 329 | 203 | Andrew Dang |
+| 330 | 203 | Katherine Crane |
 | 331 | 200 | Googenheim |
 | 332 | 198 | Calvin Dennis |
 | 333 | 196 | Megan Cutshaw |

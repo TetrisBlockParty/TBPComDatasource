@@ -111,8 +111,8 @@
 | 103 | 868 | Sarajane Lokan |
 | 104 | 866 | Ebony West-Cundiff |
 | 105 | 860 | Sunny Rotater |
-| 106 | 851 | Jd Morris |
-| 107 | 851 | Danielle Becker |
+| 106 | 851 | Danielle Becker |
+| 107 | 851 | Jd Morris |
 | 108 | 850 | Danielle Mogg |
 | 109 | 848 | Patricia Gadsden |
 | 110 | 831 | Angeline Joseph |
@@ -206,8 +206,8 @@
 | 198 | 489 | Poppy Splitter |
 | 199 | 488 | Melissa Orth Hunter |
 | 200 | 485 | Dapper Snap |
-| 201 | 480 | Danielle Allison |
-| 202 | 480 | Michael Johnson |
+| 201 | 480 | Michael Johnson |
+| 202 | 480 | Danielle Allison |
 | 203 | 475 | Tessina Dewey-Mancino |
 | 204 | 473 | Rachel |
 | 205 | 473 | Connie Mohler-Fair |
@@ -233,13 +233,13 @@
 | 225 | 428 | Mcathen |
 | 226 | 415 | ren |
 | 227 | 414 | Fran Lin |
-| 228 | 410 | Stephanie Simpson |
-| 229 | 410 | Duane Bright |
+| 228 | 410 | Duane Bright |
+| 229 | 410 | Stephanie Simpson |
 | 230 | 408 | Tiffany Ford |
 | 231 | 406 | Kristal C Lee |
 | 232 | 404 | Chasity |
-| 233 | 403 | Scott Lindsay |
-| 234 | 403 | Denita Mungro |
+| 233 | 403 | Denita Mungro |
+| 234 | 403 | Scott Lindsay |
 | 235 | 399 | Rebecca Funderburk Kirby |
 | 236 | 395 | rosy |
 | 237 | 391 | RickyG |
@@ -274,8 +274,8 @@
 | 266 | 357 | Stephanie Burtin |
 | 267 | 354 | Roary Danner |
 | 268 | 354 | Kelly |
-| 269 | 353 | Dee Franklin |
-| 270 | 353 | Cyd061769 |
+| 269 | 353 | Cyd061769 |
+| 270 | 353 | Dee Franklin |
 | 271 | 352 | Christian Werndl |
 | 272 | 351 | Eon Harris |
 | 273 | 350 | LaShey Thompson |
@@ -562,9 +562,9 @@
 | 554 | 187 | Kelly Koenig |
 | 555 | 187 | luluraine |
 | 556 | 186 | Funky Jumper |
-| 557 | 186 | Jumpy Curvebuilder |
+| 557 | 186 | Jack Bo |
 | 558 | 186 | Carrie Resler |
-| 559 | 186 | Jack Bo |
+| 559 | 186 | Jumpy Curvebuilder |
 | 560 | 185 | Ashley Kennedy |
 | 561 | 185 | Silver Marchán |
 | 562 | 185 | Breezy Roll |
@@ -605,8 +605,8 @@
 | 597 | 175 | Sarah Muradyan |
 | 598 | 175 | Hanul |
 | 599 | 174 | Sierra Spencer |
-| 600 | 173 | Samantha Lohmeyer |
-| 601 | 173 | Beejangles |
+| 600 | 173 | Beejangles |
+| 601 | 173 | Samantha Lohmeyer |
 | 602 | 172 | Nichole Greene |
 | 603 | 172 | Miranda Taylor |
 | 604 | 171 | Tommy Proctor |
@@ -636,7 +636,7 @@
 | 628 | 167 | Nicole Summers-Nelson |
 | 629 | 167 | Pam Holt Powell |
 | 630 | 167 | Alison Baus |
-| 631 | 166 | Armi |
+| 631 | 166 | Chenoa Urban Sophicated Redy |
 | 632 | 166 | FATTY |
 | 633 | 166 | Armi |
 | 634 | 166 | Moimyzean |
