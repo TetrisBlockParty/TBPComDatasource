@@ -74,8 +74,8 @@
 | 66 | 781 | Ashley Ingram |
 | 67 | 767 | Shannon Ferrari |
 | 68 | 766 | Robin Watters |
-| 69 | 765 | Denise Carlson |
-| 70 | 765 | Robin Getchel |
+| 69 | 765 | Robin Getchel |
+| 70 | 765 | Denise Carlson |
 | 71 | 752 | loulou |
 | 72 | 749 | Dustee Craddock-Harrison |
 | 73 | 742 | Carolyn Wallace |
@@ -125,8 +125,8 @@
 | 117 | 514 | Serena Goodridge |
 | 118 | 514 | Scott Jameson |
 | 119 | 513 | Erin Thomas |
-| 120 | 512 | Cristy Duerksen |
-| 121 | 512 | Casey Jeffcoat |
+| 120 | 512 | Casey Jeffcoat |
+| 121 | 512 | Cristy Duerksen |
 | 122 | 511 | Lori Walker |
 | 123 | 509 | Leslie Nicole |
 | 124 | 482 | Ren Mc |
@@ -186,8 +186,8 @@
 | 178 | 349 | Rafael Valentin |
 | 179 | 349 | Twisty Cascadezone |
 | 180 | 348 | April Rondinone |
-| 181 | 347 | Daria Rycewicz |
-| 182 | 347 | Crystal Nicolette Moore |
+| 181 | 347 | Crystal Nicolette Moore |
+| 182 | 347 | Daria Rycewicz |
 | 183 | 339 | David Lay |
 | 184 | 336 | Bio Nelly |
 | 185 | 335 | James Hurley Jr. |

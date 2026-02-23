@@ -218,12 +218,12 @@
 | 210 | 1245 | Cody Nishimura |
 | 211 | 1240 | Brandon Armstrong |
 | 212 | 1237 | Megan Ferguson Leone |
-| 213 | 1232 | Ambyre Patterson |
-| 214 | 1232 | Groovy Puzzle |
+| 213 | 1232 | Groovy Puzzle |
+| 214 | 1232 | Ambyre Patterson |
 | 215 | 1230 | Megan Garrick |
 | 216 | 1221 | Jane Fong |
-| 217 | 1217 | Lucky Ladybug |
-| 218 | 1217 | Brooks Brooks |
+| 217 | 1217 | Brooks Brooks |
+| 218 | 1217 | Lucky Ladybug |
 | 219 | 1214 | David Cudicio-Hayden |
 | 220 | 1213 | Pacynthia Williams |
 | 221 | 1211 | Ricardo Burton |
@@ -378,8 +378,8 @@
 | 370 | 824 | Lisa Ongtowasruk |
 | 371 | 822 | Lola Contreras |
 | 372 | 821 | Angie Bolton Workman |
-| 373 | 821 | Cassie Mercer |
-| 374 | 821 | Arkei Luster |
+| 373 | 821 | Arkei Luster |
+| 374 | 821 | Cassie Mercer |
 | 375 | 816 | Beth |
 | 376 | 816 | James Simms III |
 | 377 | 812 | Samantha Jo |
