@@ -187,8 +187,8 @@
 | 179 | 591 | Kaycee Kay |
 | 180 | 591 | Michael Nowogorski |
 | 181 | 587 | Louise Stacy Sisson |
-| 182 | 585 | Happy Tetriblast |
-| 183 | 585 | Domo Washington |
+| 182 | 585 | Domo Washington |
+| 183 | 585 | Happy Tetriblast |
 | 184 | 583 | Tasha Gillespie |
 | 185 | 582 | Natasha Jones |
 | 186 | 568 | Rachael McClain Owens |
@@ -311,8 +311,8 @@
 | 303 | 370 | Samantha Lynn |
 | 304 | 369 | Amber Glover |
 | 305 | 369 | Jennifer Alvey |
-| 306 | 368 | Sheila M Frazier |
-| 307 | 368 | Stephanie Woods |
+| 306 | 368 | Stephanie Woods |
+| 307 | 368 | Sheila M Frazier |
 | 308 | 365 | LaShey Thompson |
 | 309 | 362 | Brandon Givens |
 | 310 | 362 | Foltz Lee Kelli |
@@ -334,16 +334,16 @@
 | 326 | 348 | Ashley Raines |
 | 327 | 346 | Chummy Rumbler |
 | 328 | 345 | gremicx |
-| 329 | 344 | Beaudie Stroebel |
-| 330 | 344 | Ashley Lynn Marchese |
+| 329 | 344 | Ashley Lynn Marchese |
+| 330 | 344 | Beaudie Stroebel |
 | 331 | 344 | Isabel Ocasio |
 | 332 | 343 | Ashley Rufus Bythcez |
 | 333 | 342 | ROODBOY |
 | 334 | 342 | Cynthia Herrmann Egland |
 | 335 | 341 | Rick Poppen |
 | 336 | 341 | Lys |
-| 337 | 340 | Erika Thornton |
-| 338 | 340 | Nikki Pags |
+| 337 | 340 | Nikki Pags |
+| 338 | 340 | Erika Thornton |
 | 339 | 338 | fraulila |
 | 340 | 335 | victory |
 | 341 | 333 | Nikki White |

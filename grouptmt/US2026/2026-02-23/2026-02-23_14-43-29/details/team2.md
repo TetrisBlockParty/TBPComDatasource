@@ -574,8 +574,8 @@
 | 566 | 653 | Brittney Jean |
 | 567 | 651 | Belle |
 | 568 | 651 | Unica Rector |
-| 569 | 647 | Jackie Avila |
-| 570 | 647 | CC |
+| 569 | 647 | CC |
+| 570 | 647 | Jackie Avila |
 | 571 | 643 | Michelle Pike |
 | 572 | 642 | Samantha Scibelli |
 | 573 | 642 | snkylnk |
@@ -675,8 +675,8 @@
 | 667 | 569 | Sparkles |
 | 668 | 568 | Stacey Tranchida |
 | 669 | 566 | Lindsey Leigh |
-| 670 | 566 | SwampRebel |
-| 671 | 566 | Tina Marie |
+| 670 | 566 | Tina Marie |
+| 671 | 566 | SwampRebel |
 | 672 | 563 | Nat |
 | 673 | 563 | Frisky Clearpiece |
 | 674 | 559 | Shindee |
@@ -823,8 +823,8 @@
 | 815 | 483 | Austin Wilson |
 | 816 | 482 | Amélie Cadieux |
 | 817 | 482 | Shyenn Gadsby |
-| 818 | 481 | Brittany Chapman |
-| 819 | 481 | Lucy Marshall |
+| 818 | 481 | Lucy Marshall |
+| 819 | 481 | Brittany Chapman |
 | 820 | 480 | Brave Gridpiece |
 | 821 | 480 | Dar |
 | 822 | 480 | Cassi Owens |

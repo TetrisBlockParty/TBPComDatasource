@@ -242,8 +242,8 @@
 | 234 | 325 | GringaLinga |
 | 235 | 324 | Rat666 |
 | 236 | 323 | Eric DeSimone |
-| 237 | 322 | Angela Renea Lester |
-| 238 | 322 | Letson Melissa |
+| 237 | 322 | Letson Melissa |
+| 238 | 322 | Angela Renea Lester |
 | 239 | 319 | Frothy Pattern |
 | 240 | 317 | Sarah Roberts |
 | 241 | 316 | Sassy Builderline |
@@ -252,8 +252,8 @@
 | 244 | 313 | Cody Gates |
 | 245 | 313 | Sylvia Vasquez |
 | 246 | 312 | Mitchel White |
-| 247 | 310 | Bloknboy |
-| 248 | 310 | Chantelle Ceno |
+| 247 | 310 | Chantelle Ceno |
+| 248 | 310 | Bloknboy |
 | 249 | 308 | Speedy Liney |
 | 250 | 305 | Plucky Stacky |
 | 251 | 303 | Νεφ Όνυξ |

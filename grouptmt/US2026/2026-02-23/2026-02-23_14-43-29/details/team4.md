@@ -200,8 +200,8 @@
 | 192 | 376 | Zesty Twistbuilder |
 | 193 | 372 | George Nutt |
 | 194 | 372 | Antony Dwayne Beasley |
-| 195 | 368 | Holly Jolly |
-| 196 | 368 | Silly Zonebuilder |
+| 195 | 368 | Silly Zonebuilder |
+| 196 | 368 | Holly Jolly |
 | 197 | 365 | Jeff Brian Gates |
 | 198 | 363 | Cindy Looper |
 | 199 | 361 | Danielle Kollias |
@@ -228,8 +228,8 @@
 | 220 | 331 | Alan George LaRage |
 | 221 | 331 | Lauren Scott |
 | 222 | 330 | J-Rizzle |
-| 223 | 330 | Kathy Brookins |
-| 224 | 330 | blockstar |
+| 223 | 330 | blockstar |
+| 224 | 330 | Kathy Brookins |
 | 225 | 324 | TinyLegoRose |
 | 226 | 324 | Lauren Lamb |
 | 227 | 324 | jim |
@@ -373,8 +373,8 @@
 | 365 | 219 | Orchislactea |
 | 366 | 218 | ĥuf |
 | 367 | 218 | Janita Parrish |
-| 368 | 217 | Cheery Fitline |
-| 369 | 217 | Paito |
+| 368 | 217 | Paito |
+| 369 | 217 | Cheery Fitline |
 | 370 | 217 | Alexandra Karavias |
 | 371 | 216 | Funky Risepiece |
 | 372 | 215 | Squeezy Pearsall |
@@ -391,8 +391,8 @@
 | 383 | 209 | Marcus Todd |
 | 384 | 209 | Sarah Hoffman |
 | 385 | 209 | Matthew Pate |
-| 386 | 208 | Wacky Blockclear |
-| 387 | 208 | Shukee Lo |
+| 386 | 208 | Shukee Lo |
+| 387 | 208 | Wacky Blockclear |
 | 388 | 207 | Jessica Wells |
 | 389 | 207 | Jen Mattei |
 | 390 | 206 | The Murphy |
@@ -1047,8 +1047,8 @@
 | 1039 | 64 | Phyllis Wilson |
 | 1040 | 63 | Colleen Keller |
 | 1041 | 63 | 2slo |
-| 1042 | 63 | Jelly |
-| 1043 | 63 | Zesty Snapmatch |
+| 1042 | 63 | Kenny Hutchens |
+| 1043 | 63 | Jelly |
 | 1044 | 63 | Danelle Sulentic |
 | 1045 | 63 | Zesty Snapmatch |
 | 1046 | 62 | Lindsey Bergkvist |
