@@ -273,8 +273,8 @@
 | 265 | 1076 | Alezandra Smith |
 | 266 | 1073 | Jodi Blake |
 | 267 | 1071 | Kim Dean |
-| 268 | 1069 | Offonar Facey |
-| 269 | 1069 | Carl Bradshaw |
+| 268 | 1069 | Carl Bradshaw |
+| 269 | 1069 | Offonar Facey |
 | 270 | 1064 | BK Queen |
 | 271 | 1063 | Caitlin Schmid |
 | 272 | 1058 | Rickey Johnson |
@@ -289,8 +289,8 @@
 | 281 | 1043 | nikki |
 | 282 | 1036 | Allison Lockyer |
 | 283 | 1036 | Amber Shoemaker |
-| 284 | 1026 | Kristin Gower |
-| 285 | 1026 | F-X |
+| 284 | 1026 | F-X |
+| 285 | 1026 | Kristin Gower |
 | 286 | 1024 | Susan Perraut Jones |
 | 287 | 1024 | Taylor Phillips |
 | 288 | 1022 | Shannon Joslin |
@@ -434,8 +434,8 @@
 | 426 | 758 | Stephanie Neuburger |
 | 427 | 755 | Taryece Gause |
 | 428 | 751 | Loony Snapper |
-| 429 | 751 | Caitlyn Blackwell |
-| 430 | 751 | Breezy Filler |
+| 429 | 751 | Breezy Filler |
+| 430 | 751 | Caitlyn Blackwell |
 | 431 | 750 | Draizen Montrell Thomas |
 | 432 | 748 | Spunkysmom |
 | 433 | 748 | Brenda Utphall |
@@ -500,8 +500,8 @@
 | 492 | 677 | Paul Combs |
 | 493 | 677 | Kayleigh Wisse |
 | 494 | 677 | Amanda Woodruff |
-| 495 | 676 | Nicky Jackson |
-| 496 | 676 | Roseanna Peloso |
+| 495 | 676 | Roseanna Peloso |
+| 496 | 676 | Nicky Jackson |
 | 497 | 675 | Lonne Emade |
 | 498 | 675 | Katelynn Hollen |
 | 499 | 674 | Ashley Munn |
@@ -562,8 +562,8 @@
 | 554 | 614 | Emilee Burke |
 | 555 | 614 | Jessica S Flecha |
 | 556 | 613 | Audrey Jones |
-| 557 | 612 | Slinky Racker |
-| 558 | 612 | Briana Alexander |
+| 557 | 612 | Briana Alexander |
+| 558 | 612 | Slinky Racker |
 | 559 | 610 | Michael Buckner |
 | 560 | 609 | Cecilia A Jenkins |
 | 561 | 609 | Smashanator |
@@ -610,8 +610,8 @@
 | 602 | 574 | Valerie Brooke Lusk Armstrong |
 | 603 | 573 | Vaniel Glover |
 | 604 | 573 | Mike Aprilliano |
-| 605 | 572 | Joseph Musick |
-| 606 | 572 | Rachael Senard |
+| 605 | 572 | Rachael Senard |
+| 606 | 572 | Joseph Musick |
 | 607 | 572 | Jason H Baker |
 | 608 | 572 | Alexandra Lynn |
 | 609 | 571 | Emily Lyric Converse |
@@ -689,19 +689,19 @@
 | 681 | 517 | Daring Caster |
 | 682 | 516 | Diamond Scott |
 | 683 | 515 | Gina Bahn |
-| 684 | 515 | Klee |
-| 685 | 515 | Adam Simmons |
+| 684 | 515 | Adam Simmons |
+| 685 | 515 | Klee |
 | 686 | 514 | DefaultUser |
 | 687 | 513 | MrsCandyfine As Wine Truss |
 | 688 | 512 | Leslie Jorgenson |
 | 689 | 512 | Sassy Linkroll |
 | 690 | 511 | Kristie Wilcox |
 | 691 | 509 | Jordan Kaiser |
-| 692 | 509 | Perky Rollfit |
-| 693 | 509 | Toni Whipple |
+| 692 | 509 | Toni Whipple |
+| 693 | 509 | Perky Rollfit |
 | 694 | 508 | Daphne Jordan |
-| 695 | 507 | Funky Caster |
-| 696 | 507 | Crystal Heller Gonzalez |
+| 695 | 507 | Crystal Heller Gonzalez |
+| 696 | 507 | Funky Caster |
 | 697 | 506 | Cblock |
 | 698 | 505 | Casey Schumacher |
 | 699 | 502 | Jasmine Kenney |
@@ -922,7 +922,7 @@
 | 914 | 401 | Emoney Sanchez |
 | 915 | 400 | Lola C Davis |
 | 916 | 400 | Tammy Allen |
-| 917 | 400 | Lola C Davis |
+| 917 | 400 | Deana |
 | 918 | 399 | Trista Carter |
 | 919 | 399 | Heather Johnson |
 | 920 | 398 | Juan Killyoselfifudontlikeme Ronaldo |
@@ -959,8 +959,8 @@
 | 951 | 387 | Bryan Werleman |
 | 952 | 386 | Yasmin Guzman |
 | 953 | 385 | Jay Levy |
-| 954 | 385 | Kirsten Marie Lomupo |
-| 955 | 385 | Cheery Puzzler |
+| 954 | 385 | Cheery Puzzler |
+| 955 | 385 | Kirsten Marie Lomupo |
 | 956 | 385 | stacey |
 | 957 | 385 | Iris Angelica Perez Cantos |
 | 958 | 385 | Samuel Labruno |
@@ -1061,8 +1061,8 @@
 | 1053 | 356 | Neko Preston |
 | 1054 | 355 | Jaime E. Rodriguez |
 | 1055 | 355 | Himothy |
-| 1056 | 355 | Rolie Garcia |
-| 1057 | 355 | Layla LS |
+| 1056 | 355 | Layla LS |
+| 1057 | 355 | Rolie Garcia |
 | 1058 | 354 | Sherri Morgan |
 | 1059 | 354 | Katherin Camacho |
 | 1060 | 354 | Loopy Shatterfit |
@@ -1091,8 +1091,8 @@
 | 1083 | 347 | Zak Dunn |
 | 1084 | 347 | Persipnei Cuesta |
 | 1085 | 346 | Kelsey |
-| 1086 | 346 | Loopy Brickmatch |
-| 1087 | 346 | Zappy Dropmatch |
+| 1086 | 346 | Zappy Dropmatch |
+| 1087 | 346 | Loopy Brickmatch |
 | 1088 | 345 | Brandi Fuller Cason |
 | 1089 | 345 | David Duncan |
 | 1090 | 345 | Rhianna DiLorenzo |
@@ -1112,8 +1112,8 @@
 | 1104 | 341 | Bubbly Brickline |
 | 1105 | 340 | RetroLemur |
 | 1106 | 340 | Man of Steel |
-| 1107 | 339 | Meganator42 |
-| 1108 | 339 | Hoppy Glidebuilder |
+| 1107 | 339 | Hoppy Glidebuilder |
+| 1108 | 339 | Meganator42 |
 | 1109 | 339 | Nutty Cascade |
 | 1110 | 338 | Goofy Blockfall |
 | 1111 | 338 | Shelva Richard |

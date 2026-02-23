@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Kimyatta Cavin |
-| 84 | 684 | Jonathan Kimbrough |
+| 83 | 684 | Jonathan Kimbrough |
+| 84 | 684 | Kimyatta Cavin |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -120,10 +120,10 @@
 | 112 | 528 | Rodney McMath Jr. |
 | 113 | 527 | Dizzy Tiley |
 | 114 | 519 | Nugget |
-| 115 | 517 | Christina LR |
-| 116 | 517 | shar |
-| 117 | 514 | Serena Goodridge |
-| 118 | 514 | Scott Jameson |
+| 115 | 517 | shar |
+| 116 | 517 | Christina LR |
+| 117 | 514 | Scott Jameson |
+| 118 | 514 | Serena Goodridge |
 | 119 | 513 | Erin Thomas |
 | 120 | 512 | Casey Jeffcoat |
 | 121 | 512 | Cristy Duerksen |
@@ -156,13 +156,13 @@
 | 148 | 418 | Marie-Pier Desjardins |
 | 149 | 418 | Lush Linkfall |
 | 150 | 416 | Chaz Duncan |
-| 151 | 414 | Nope Young |
-| 152 | 414 | Swanky Fitline |
+| 151 | 414 | Swanky Fitline |
+| 152 | 414 | Nope Young |
 | 153 | 413 | Circuit8 |
 | 154 | 412 | Jessica Bohlken |
 | 155 | 408 | Amanda Pauldo-Ivy |
-| 156 | 406 | Damn Libra |
-| 157 | 406 | Livvy |
+| 156 | 406 | Livvy |
+| 157 | 406 | Damn Libra |
 | 158 | 403 | Keith Kelley |
 | 159 | 402 | Lucas J Sutton |
 | 160 | 398 | Tyler Terrific |
@@ -311,7 +311,7 @@
 | 303 | 224 | AyeKay |
 | 304 | 223 | Adawna Swires |
 | 305 | 223 | Amanda Christine |
-| 306 | 223 | Adawna Swires |
+| 306 | 223 | Chance Strickland |
 | 307 | 222 | Brandi Durig |
 | 308 | 221 | Rheanda Weaskus |
 | 309 | 220 | Tina Lopez |
@@ -330,9 +330,9 @@
 | 322 | 214 | Patron Anderson |
 | 323 | 214 | Stacey Stano |
 | 324 | 213 | Jackie Marie |
-| 325 | 212 | Brave Spinbuilder |
-| 326 | 212 | Mike Solo |
-| 327 | 212 | Zany Shatterer |
+| 325 | 212 | Zany Shatterer |
+| 326 | 212 | Brave Spinbuilder |
+| 327 | 212 | Mike Solo |
 | 328 | 211 | Chris Alexinas |
 | 329 | 210 | Ari Droff |
 | 330 | 209 | Marcus Todd |
@@ -462,11 +462,11 @@
 | 454 | 159 | Groovy Brickmatch |
 | 455 | 158 | Dapper Frame |
 | 456 | 158 | Jasmine S Caldwell |
-| 457 | 157 | LunaMoon |
-| 458 | 157 | Ryry |
+| 457 | 157 | Ryry |
+| 458 | 157 | LunaMoon |
 | 459 | 157 | David Boggs |
-| 460 | 156 | Funky Risepiece |
-| 461 | 156 | Mighty Edgepiece |
+| 460 | 156 | Mighty Edgepiece |
+| 461 | 156 | Funky Risepiece |
 | 462 | 155 | tipsy tiger |
 | 463 | 155 | Faja |
 | 464 | 155 | Shirl |
