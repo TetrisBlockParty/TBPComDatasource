@@ -215,8 +215,8 @@
 | 207 | 1232 | Groovy Puzzle |
 | 208 | 1232 | Ambyre Patterson |
 | 209 | 1230 | Megan Garrick |
-| 210 | 1217 | Brooks Brooks |
-| 211 | 1217 | Lucky Ladybug |
+| 210 | 1217 | Lucky Ladybug |
+| 211 | 1217 | Brooks Brooks |
 | 212 | 1214 | David Cudicio-Hayden |
 | 213 | 1213 | Foxxo |
 | 214 | 1212 | Porsche' Nicole |
@@ -248,10 +248,10 @@
 | 240 | 1121 | Sarah Freitas |
 | 241 | 1120 | Chirpy Staggerpiece |
 | 242 | 1114 | Ginnell Browner |
-| 243 | 1114 | Maria Escobar |
-| 244 | 1114 | Kevin Walp |
-| 245 | 1111 | Moose Griffith |
-| 246 | 1111 | Julay |
+| 243 | 1114 | Kevin Walp |
+| 244 | 1114 | Maria Escobar |
+| 245 | 1111 | Julay |
+| 246 | 1111 | Moose Griffith |
 | 247 | 1109 | Eric Carlson |
 | 248 | 1105 | Nerdy Clearfit |
 | 249 | 1103 | William Meussner |
@@ -685,8 +685,8 @@
 | 677 | 484 | Britney M. |
 | 678 | 483 | Austin Wilson |
 | 679 | 482 | Amélie Cadieux |
-| 680 | 482 | Drwatson187 |
-| 681 | 482 | RaeVan Worthington |
+| 680 | 482 | RaeVan Worthington |
+| 681 | 482 | Drwatson187 |
 | 682 | 481 | Jasmine Kenney |
 | 683 | 481 | Lucy Marshall |
 | 684 | 480 | Dar |

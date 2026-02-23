@@ -203,8 +203,8 @@
 | 195 | 489 | Shannon Matthew Byers |
 | 196 | 488 | Melissa Orth Hunter |
 | 197 | 485 | Dapper Snap |
-| 198 | 480 | Danielle Allison |
-| 199 | 480 | Michael Johnson |
+| 198 | 480 | Michael Johnson |
+| 199 | 480 | Danielle Allison |
 | 200 | 475 | Tessina Dewey-Mancino |
 | 201 | 473 | Rachel |
 | 202 | 471 | Mendoza Lee Christy |
@@ -220,17 +220,17 @@
 | 212 | 452 | Jacqueline Rodriguez |
 | 213 | 437 | Loopy Clusterer |
 | 214 | 435 | Fallorina Susana |
-| 215 | 432 | Christine Trester |
-| 216 | 432 | Luciana Braganca Vieira |
+| 215 | 432 | Luciana Braganca Vieira |
+| 216 | 432 | Christine Trester |
 | 217 | 432 | Heather Green |
 | 218 | 431 | Wendy Dearden |
 | 219 | 430 | Joye Sims Binion |
 | 220 | 430 | Jeni Dow |
 | 221 | 415 | ren |
 | 222 | 414 | Fran Lin |
-| 223 | 410 | Duane Bright |
-| 224 | 410 | Stephanie Simpson |
-| 225 | 410 | Mcathen |
+| 223 | 410 | Mcathen |
+| 224 | 410 | Duane Bright |
+| 225 | 410 | Stephanie Simpson |
 | 226 | 408 | Tiffany Ford |
 | 227 | 404 | Chasity |
 | 228 | 404 | Kristal C Lee |
@@ -282,8 +282,8 @@
 | 274 | 346 | Tamara Deherrera |
 | 275 | 345 | MsBee |
 | 276 | 344 | Roary Danner |
-| 277 | 343 | Ashley Rufus Bythcez |
-| 278 | 343 | Ashley Raines |
+| 277 | 343 | Ashley Raines |
+| 278 | 343 | Ashley Rufus Bythcez |
 | 279 | 341 | Ashley Tookes |
 | 280 | 339 | Cynthia Herrmann Egland |
 | 281 | 336 | Jojo M |
@@ -385,8 +385,8 @@
 | 377 | 257 | Chris Wallace |
 | 378 | 257 | Rachel Grant |
 | 379 | 256 | KayB |
-| 380 | 255 | Sharisse Baltimore |
-| 381 | 255 | Mariah Williams |
+| 380 | 255 | Mariah Williams |
+| 381 | 255 | Sharisse Baltimore |
 | 382 | 254 | Blair Erin Waite |
 | 383 | 253 | Hyper Bridger |
 | 384 | 253 | Block Baddie |

@@ -86,8 +86,8 @@
 | 78 | 706 | Lisa Davis |
 | 79 | 703 | Savannah Overdorf |
 | 80 | 697 | Alyssa Papen |
-| 81 | 684 | Jonathan Kimbrough |
-| 82 | 684 | Kimyatta Cavin |
+| 81 | 684 | Kimyatta Cavin |
+| 82 | 684 | Jonathan Kimbrough |
 | 83 | 677 | Trista Leah |
 | 84 | 673 | Jacqueline Helm |
 | 85 | 672 | Shane Kalamata Platoon |
@@ -95,9 +95,9 @@
 | 87 | 664 | Valerie Roberts |
 | 88 | 659 | Jamie Gustafson |
 | 89 | 650 | KJ Pool |
-| 90 | 647 | Shauna Havard |
-| 91 | 647 | KM8 |
-| 92 | 647 | Diana Houts |
+| 90 | 647 | KM8 |
+| 91 | 647 | Diana Houts |
+| 92 | 647 | Shauna Havard |
 | 93 | 646 | Eric Mcgaughy |
 | 94 | 626 | Brittney Griggs |
 | 95 | 620 | Judy Cox |
@@ -142,8 +142,8 @@
 | 134 | 421 | JIGsaw ~(•¿°)~ |
 | 135 | 421 | Kesha Brady |
 | 136 | 419 | Klo |
-| 137 | 418 | Lush Linkfall |
-| 138 | 418 | Marie-Pier Desjardins |
+| 137 | 418 | Marie-Pier Desjardins |
+| 138 | 418 | Lush Linkfall |
 | 139 | 416 | Chaz Duncan |
 | 140 | 414 | Nope Young |
 | 141 | 412 | Jessica Bohlken |
@@ -157,8 +157,8 @@
 | 149 | 393 | Carlton Unfiltered |
 | 150 | 391 | Ramel Rhodes |
 | 151 | 389 | Joseph Guthrie |
-| 152 | 387 | 🥔🥔 Spudz |
-| 153 | 387 | Lucas J Sutton |
+| 152 | 387 | Lucas J Sutton |
+| 153 | 387 | 🥔🥔 Spudz |
 | 154 | 377 | Carrie Brian |
 | 155 | 375 | Tyler Terrific |
 | 156 | 375 | ThaEviLJeNiuZ |
@@ -246,8 +246,8 @@
 | 238 | 262 | Selena Shaw |
 | 239 | 262 | BigSammy420 |
 | 240 | 260 | Carter Jones |
-| 241 | 259 | Allen Lloyd |
-| 242 | 259 | Montiette Mcglown |
+| 241 | 259 | Montiette Mcglown |
+| 242 | 259 | Allen Lloyd |
 | 243 | 257 | PeaceOs |
 | 244 | 256 | Metsfan |
 | 245 | 256 | Mylo Lipscomb |
