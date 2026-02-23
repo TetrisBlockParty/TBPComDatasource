@@ -72,8 +72,8 @@
 | 64 | 918 | Drew Magnus |
 | 65 | 916 | Jacqueline Williams |
 | 66 | 904 | Fmp |
-| 67 | 898 | Dawn Sheppard |
-| 68 | 898 | Ashley Elizabeth |
+| 67 | 898 | Ashley Elizabeth |
+| 68 | 898 | Dawn Sheppard |
 | 69 | 892 | Seth Wesson |
 | 70 | 885 | Veronica Eve |
 | 71 | 871 | Erin Hodges Plumb |
@@ -119,8 +119,8 @@
 | 111 | 586 | Jessi Sauer |
 | 112 | 583 | Theo Pinnow |
 | 113 | 577 | Damon J. Martin |
-| 114 | 574 | femmefatale |
-| 115 | 574 | Tiger Lily |
+| 114 | 574 | Tiger Lily |
+| 115 | 574 | femmefatale |
 | 116 | 571 | Virginia Gray Floyd |
 | 117 | 570 | Cody Slav |
 | 118 | 558 | Jazzy Framezone |
@@ -188,16 +188,16 @@
 | 180 | 410 | Mike Ames |
 | 181 | 408 | John J. Cronin |
 | 182 | 406 | canbrick |
-| 183 | 404 | Tawnya Peltonen |
-| 184 | 404 | Basment Living |
+| 183 | 404 | Basment Living |
+| 184 | 404 | Tawnya Peltonen |
 | 185 | 403 | Tana |
 | 186 | 402 | Jason Savage |
 | 187 | 402 | Chris K |
 | 188 | 399 | phrmblk24 |
 | 189 | 397 | Erin Rosberg |
 | 190 | 394 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
-| 191 | 393 | Lehrin Maria |
-| 192 | 393 | Wisa |
+| 191 | 393 | Wisa |
+| 192 | 393 | Lehrin Maria |
 | 193 | 392 | Kathy Langham |
 | 194 | 391 | Monica Donato |
 | 195 | 390 | Elaine Elaine |

@@ -201,8 +201,8 @@
 | 193 | 1567 | Juliana Marques Do Nascimento Gordy |
 | 194 | 1565 | Nancy Reid |
 | 195 | 1562 | Tony Lea |
-| 196 | 1558 | Tim Dyer |
-| 197 | 1558 | Crystal Slaughter |
+| 196 | 1558 | Crystal Slaughter |
+| 197 | 1558 | Tim Dyer |
 | 198 | 1552 | Cheeky Balancepiece |
 | 199 | 1534 | Rosa Franklin |
 | 200 | 1514 | Howard Forest |
@@ -412,8 +412,8 @@
 | 404 | 903 | Eric Castaneda |
 | 405 | 903 | Ashle Scranton |
 | 406 | 899 | Felicia Lynn |
-| 407 | 899 | Patrick Bartlett |
-| 408 | 899 | Chevy |
+| 407 | 899 | Chevy |
+| 408 | 899 | Patrick Bartlett |
 | 409 | 898 | Donna M Carter |
 | 410 | 896 | Alyssa Hileman |
 | 411 | 895 | Donna Colby |
