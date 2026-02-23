@@ -250,8 +250,8 @@
 | 242 | 323 | Eric DeSimone |
 | 243 | 322 | Letson Melissa |
 | 244 | 319 | Frothy Pattern |
-| 245 | 317 | Sam Williams |
-| 246 | 317 | Sarah Roberts |
+| 245 | 317 | Sarah Roberts |
+| 246 | 317 | Sam Williams |
 | 247 | 316 | Sassy Builderline |
 | 248 | 315 | Mandyy Rae |
 | 249 | 314 | Daring Fitclear |
@@ -278,8 +278,8 @@
 | 270 | 290 | Hellsin |
 | 271 | 289 | Alenoush Karimian |
 | 272 | 288 | Bird Person |
-| 273 | 287 | Sir-Franchise Drake |
-| 274 | 287 | Larissa Marie Nelson |
+| 273 | 287 | Larissa Marie Nelson |
+| 274 | 287 | Sir-Franchise Drake |
 | 275 | 286 | Sarahdactyl |
 | 276 | 286 | Adele Rahman |
 | 277 | 285 | Shanae Grant |

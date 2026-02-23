@@ -376,15 +376,15 @@
 | 368 | 919 | Isaac Trappiel IV |
 | 369 | 916 | Butta |
 | 370 | 915 | Kelly Trent |
-| 371 | 914 | Shuany Arias |
-| 372 | 914 | William Hunt |
+| 371 | 914 | William Hunt |
+| 372 | 914 | Shuany Arias |
 | 373 | 913 | blume |
 | 374 | 909 | Valerie Brooke Lusk Armstrong |
 | 375 | 907 | Gene Mills |
 | 376 | 907 | Kayla |
 | 377 | 904 | John Bednarik |
-| 378 | 903 | Eric Castaneda |
-| 379 | 903 | Giggy Blocker |
+| 378 | 903 | Giggy Blocker |
+| 379 | 903 | Eric Castaneda |
 | 380 | 902 | Diallo Sparkman |
 | 381 | 899 | Felicia Lynn |
 | 382 | 899 | Patrick Bartlett |
@@ -527,8 +527,8 @@
 | 519 | 706 | Irene Jones |
 | 520 | 704 | Montez Mancil |
 | 521 | 704 | Tansaria Couch-Butler |
-| 522 | 703 | Funky Drop |
-| 523 | 703 | Dannette Goldberg-Richards |
+| 522 | 703 | Dannette Goldberg-Richards |
+| 523 | 703 | Funky Drop |
 | 524 | 702 | Lonne Emade |
 | 525 | 701 | Aishah Brice |
 | 526 | 700 | Vincent Petrella |
