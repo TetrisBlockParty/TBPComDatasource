@@ -254,8 +254,8 @@
 | 246 | 307 | Angie Schmidt |
 | 247 | 306 | mike |
 | 248 | 305 | Melvin Baird |
-| 249 | 304 | Shiny Fit |
-| 250 | 304 | Gdiguy |
+| 249 | 304 | Gdiguy |
+| 250 | 304 | Shiny Fit |
 | 251 | 304 | Joanna |
 | 252 | 303 | blasterB |
 | 253 | 300 | Dana Scott |
@@ -275,8 +275,8 @@
 | 267 | 288 | Brittney Orengo |
 | 268 | 286 | KimoKoala |
 | 269 | 285 | Kim Klutz Olson |
-| 270 | 284 | Glitzy Corner |
-| 271 | 284 | Matt Dell'Olio |
+| 270 | 284 | Matt Dell'Olio |
+| 271 | 284 | Glitzy Corner |
 | 272 | 281 | Laura |
 | 273 | 281 | Morti |
 | 274 | 280 | Rio Rocha |
@@ -511,9 +511,9 @@
 | 503 | 161 | PennyCandee |
 | 504 | 161 | Christina Hyde |
 | 505 | 160 | Bryan Hodgins |
-| 506 | 160 | Sho Nuff |
+| 506 | 160 | Lisa Allen Frisk |
 | 507 | 160 | Heather Layne Smith |
-| 508 | 160 | Lisa Allen Frisk |
+| 508 | 160 | Sho Nuff |
 | 509 | 160 | icequeenx |
 | 510 | 159 | Groovy Brickmatch |
 | 511 | 158 | Jasmine S Caldwell |

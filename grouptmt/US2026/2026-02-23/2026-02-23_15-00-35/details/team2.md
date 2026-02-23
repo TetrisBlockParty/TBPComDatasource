@@ -463,8 +463,8 @@
 | 455 | 772 | Danielle Simmons |
 | 456 | 771 | Stephanie Lumanlan |
 | 457 | 769 | Kimberly Hope Howell |
-| 458 | 768 | Joshua Self |
-| 459 | 768 | Charvi' Carter |
+| 458 | 768 | Charvi' Carter |
+| 459 | 768 | Joshua Self |
 | 460 | 767 | Ashley Lopez |
 | 461 | 766 | Jennie Lee Huntley |
 | 462 | 765 | Dylan Thomason |
@@ -487,8 +487,8 @@
 | 479 | 750 | Michael Buckner |
 | 480 | 750 | Draizen Montrell Thomas |
 | 481 | 748 | Ann Matzkanin |
-| 482 | 746 | Hoppy Brickmatch |
-| 483 | 746 | Ryan Stadel |
+| 482 | 746 | Ryan Stadel |
+| 483 | 746 | Hoppy Brickmatch |
 | 484 | 746 | Samuel Macon |
 | 485 | 742 | Ganieda |
 | 486 | 742 | Cassie Maynard |
@@ -858,18 +858,18 @@
 | 850 | 468 | ItsJennifer Neriss |
 | 851 | 467 | Ahtavia Watkins |
 | 852 | 466 | Tim Galle |
-| 853 | 466 | KrisCynthia Lynette |
-| 854 | 466 | Miracle |
+| 853 | 466 | Miracle |
+| 854 | 466 | KrisCynthia Lynette |
 | 855 | 465 | Josh Dill |
-| 856 | 464 | Lively Edgepiece |
-| 857 | 464 | Natasha Edmonds |
+| 856 | 464 | Natasha Edmonds |
+| 857 | 464 | Lively Edgepiece |
 | 858 | 464 | Oscar Bernie |
 | 859 | 463 | Rackemwillie34 |
 | 860 | 463 | Murray Marie |
 | 861 | 463 | Jaye EL Hunter |
 | 862 | 462 | Kia Humphery |
-| 863 | 462 | Bryan Werleman |
-| 864 | 462 | Muhammad |
+| 863 | 462 | Muhammad |
+| 864 | 462 | Bryan Werleman |
 | 865 | 462 | Cleo Sims |
 | 866 | 461 | Amanda Segura |
 | 867 | 461 | Julie Hamilton |
@@ -883,8 +883,8 @@
 | 875 | 459 | Pocho Zavala |
 | 876 | 458 | Ys Muhammed |
 | 877 | 457 | Kelly Meredeith |
-| 878 | 457 | Jennifer Coe |
-| 879 | 457 | Kray Kray Katelynn |
+| 878 | 457 | Kray Kray Katelynn |
+| 879 | 457 | Jennifer Coe |
 | 880 | 457 | Ryan Chan |
 | 881 | 456 | Sabrina Burton |
 | 882 | 456 | Candy Pitts |

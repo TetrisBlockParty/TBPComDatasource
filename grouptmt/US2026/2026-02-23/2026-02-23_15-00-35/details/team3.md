@@ -136,8 +136,8 @@
 | 128 | 774 | Keith J Oshman Jr. |
 | 129 | 773 | Daira Largen |
 | 130 | 770 | Daryn Elliott |
-| 131 | 764 | Groovy Catcher |
-| 132 | 764 | Hasty Cascadefit |
+| 131 | 764 | Hasty Cascadefit |
+| 132 | 764 | Groovy Catcher |
 | 133 | 762 | Speedy Bridger |
 | 134 | 757 | Fancy Cascader |
 | 135 | 756 | Patty Allen |
@@ -188,8 +188,8 @@
 | 180 | 591 | Kaycee Kay |
 | 181 | 591 | Michael Nowogorski |
 | 182 | 587 | Louise Stacy Sisson |
-| 183 | 585 | Happy Tetriblast |
-| 184 | 585 | Domo Washington |
+| 183 | 585 | Domo Washington |
+| 184 | 585 | Happy Tetriblast |
 | 185 | 583 | Tasha Gillespie |
 | 186 | 582 | Natasha Jones |
 | 187 | 568 | Rachael McClain Owens |
@@ -204,8 +204,8 @@
 | 196 | 549 | Sarah Cowan Burgos |
 | 197 | 548 | Danielle Balcom |
 | 198 | 547 | Staci George Fitzsimmons |
-| 199 | 546 | Cynthia Castros-Hampton |
-| 200 | 546 | Mykal Burton |
+| 199 | 546 | Mykal Burton |
+| 200 | 546 | Cynthia Castros-Hampton |
 | 201 | 543 | Silly Twist |
 | 202 | 542 | Connie Mohler-Fair |
 | 203 | 540 | Shawn Miller |
@@ -214,8 +214,8 @@
 | 206 | 531 | Trisha Balmer |
 | 207 | 531 | Chauntee Alfrey-Cardinale |
 | 208 | 530 | Stephanie Blkpep Davidson |
-| 209 | 524 | Bmo |
-| 210 | 524 | Shannon Matthew Byers |
+| 209 | 524 | Shannon Matthew Byers |
+| 210 | 524 | Bmo |
 | 211 | 519 | Terry Jo Jones |
 | 212 | 515 | Cozy Snaplink |
 | 213 | 513 | Lizabeth Fox |
@@ -265,8 +265,8 @@
 | 257 | 431 | Wendy Dearden |
 | 258 | 430 | Jeni Dow |
 | 259 | 429 | Carrie Huskey |
-| 260 | 428 | Sleepy |
-| 261 | 428 | Randy Clevenger |
+| 260 | 428 | Randy Clevenger |
+| 261 | 428 | Sleepy |
 | 262 | 425 | Nicole Flippo |
 | 263 | 424 | Cesar Barraza |
 | 264 | 421 | Snazzy Filler |
@@ -315,8 +315,8 @@
 | 307 | 368 | Stephanie Woods |
 | 308 | 368 | Sheila M Frazier |
 | 309 | 365 | LaShey Thompson |
-| 310 | 362 | Brandon Givens |
-| 311 | 362 | Foltz Lee Kelli |
+| 310 | 362 | Foltz Lee Kelli |
+| 311 | 362 | Brandon Givens |
 | 312 | 361 | Breanna Marsden |
 | 313 | 360 | Dee Pratt |
 | 314 | 359 | Kelly |
@@ -402,9 +402,9 @@
 | 394 | 298 | Grams |
 | 395 | 298 | Tay |
 | 396 | 296 | Amy Montz |
-| 397 | 296 | Tracy Martin |
-| 398 | 296 | Donna |
-| 399 | 296 | Cheryl Hinch Tenbrook |
+| 397 | 296 | Cheryl Hinch Tenbrook |
+| 398 | 296 | Tracy Martin |
+| 399 | 296 | Donna |
 | 400 | 295 | Dakota Graham |
 | 401 | 293 | Kristen Weese |
 | 402 | 292 | Arden White Kirsch |
@@ -449,7 +449,7 @@
 | 441 | 269 | Samantha Worley |
 | 442 | 269 | Goofy Fall |
 | 443 | 268 | Julia Nicole |
-| 444 | 268 | Nelma |
+| 444 | 268 | Jessica Lynn French |
 | 445 | 268 | Sdot |
 | 446 | 268 | Nelma |
 | 447 | 267 | Michael Kimbro |
@@ -520,8 +520,8 @@
 | 512 | 236 | Frothy Snapper |
 | 513 | 234 | Cheeky Twisterfit |
 | 514 | 233 | Tony Waters |
-| 515 | 233 | Criss |
-| 516 | 233 | Joshua David Huie |
+| 515 | 233 | Joshua David Huie |
+| 516 | 233 | Criss |
 | 517 | 233 | Anna Moeller |
 | 518 | 232 | Sunny Tiltgrid |
 | 519 | 232 | Melanie Sherwood |
