@@ -40,8 +40,8 @@
 | 32 | 4274 | Vistabrat |
 | 33 | 4199 | Claire Noland |
 | 34 | 4128 | Angela Pruitt |
-| 35 | 4120 | Kristen Sceurman |
-| 36 | 4120 | Corrine Hawks Soriano |
+| 35 | 4120 | Corrine Hawks Soriano |
+| 36 | 4120 | Kristen Sceurman |
 | 37 | 4093 | Jill Stroehlein |
 | 38 | 3895 | Nickie Baby |
 | 39 | 3778 | Brittany Alicia |
@@ -207,8 +207,8 @@
 | 199 | 1244 | Teddi Notyalc |
 | 200 | 1243 | Anna Edwards |
 | 201 | 1237 | Megan Ferguson Leone |
-| 202 | 1232 | Groovy Puzzle |
-| 203 | 1232 | Ambyre Patterson |
+| 202 | 1232 | Ambyre Patterson |
+| 203 | 1232 | Groovy Puzzle |
 | 204 | 1230 | Megan Garrick |
 | 205 | 1217 | Brooks Brooks |
 | 206 | 1217 | Lucky Ladybug |
@@ -275,11 +275,11 @@
 | 267 | 1022 | Shannon Joslin |
 | 268 | 1014 | Michele Morgan |
 | 269 | 1011 | Teresa Gillmore |
-| 270 | 1003 | nikki |
-| 271 | 1003 | Andrea Maher |
+| 270 | 1003 | Andrea Maher |
+| 271 | 1003 | nikki |
 | 272 | 1001 | Offonar Facey |
-| 273 | 998 | Keri Womack |
-| 274 | 998 | Shelley Thornburgh Wright |
+| 273 | 998 | Shelley Thornburgh Wright |
+| 274 | 998 | Keri Womack |
 | 275 | 996 | Ashie Ann |
 | 276 | 987 | Osun Anuket Esu |
 | 277 | 987 | Julie Kresal |
@@ -350,8 +350,8 @@
 | 342 | 833 | Moni Foxe |
 | 343 | 831 | Christina Lewis-Vickers |
 | 344 | 830 | Diallo Sparkman |
-| 345 | 824 | Khalil Lowe |
-| 346 | 824 | Danielle Johnson-Chandler |
+| 345 | 824 | Danielle Johnson-Chandler |
+| 346 | 824 | Khalil Lowe |
 | 347 | 823 | Alezandra Smith |
 | 348 | 822 | Lola Contreras |
 | 349 | 821 | Angie Bolton Workman |
@@ -578,12 +578,12 @@
 | 570 | 554 | Tra Barnum |
 | 571 | 554 | Party d |
 | 572 | 553 | Kelli Wells |
-| 573 | 551 | Cynthia Louann Rose |
-| 574 | 551 | Matt Johnson |
-| 575 | 550 | Misty Mitchell |
-| 576 | 550 | Frilly Fallzone |
-| 577 | 549 | Kaylee McCafferty |
-| 578 | 549 | Melissa Kay Gibson |
+| 573 | 551 | Matt Johnson |
+| 574 | 551 | Cynthia Louann Rose |
+| 575 | 550 | Frilly Fallzone |
+| 576 | 550 | Misty Mitchell |
+| 577 | 549 | Melissa Kay Gibson |
+| 578 | 549 | Kaylee McCafferty |
 | 579 | 545 | Venita Ray |
 | 580 | 545 | Katelynn Hollen |
 | 581 | 544 | Deidre Shaffer |
@@ -838,9 +838,9 @@
 | 830 | 398 | TF Dyer |
 | 831 | 398 | Christina Jarvis-Swarbrick |
 | 832 | 398 | Juan Killyoselfifudontlikeme Ronaldo |
-| 833 | 397 | Cris cris |
-| 834 | 397 | Jessica Conaway |
-| 835 | 397 | Dawn Woosley Bowes |
+| 833 | 397 | Dawn Woosley Bowes |
+| 834 | 397 | Cris cris |
+| 835 | 397 | Jessica Conaway |
 | 836 | 396 | Lindsey Leigh |
 | 837 | 396 | Cassie Newton |
 | 838 | 395 | Jennie Lee Huntley |

@@ -145,8 +145,8 @@
 | 137 | 383 | pjbeta |
 | 138 | 381 | Fmp |
 | 139 | 380 | phrmblk24 |
-| 140 | 379 | Kimmie Kimms |
-| 141 | 379 | Austin James |
+| 140 | 379 | Austin James |
+| 141 | 379 | Kimmie Kimms |
 | 142 | 376 | Brian Richardsson |
 | 143 | 376 | BadG52 |
 | 144 | 375 | Tanya Carpenter-Reynolds |
@@ -183,8 +183,8 @@
 | 175 | 324 | Ananda Mendez |
 | 176 | 324 | Rat666 |
 | 177 | 323 | Madison Wicks |
-| 178 | 318 | Jessica Sheehan |
-| 179 | 318 | Virginia Gray Floyd |
+| 178 | 318 | Virginia Gray Floyd |
+| 179 | 318 | Jessica Sheehan |
 | 180 | 317 | Sarah Roberts |
 | 181 | 316 | Reesey Enyart |
 | 182 | 315 | Tyler Werts |
@@ -201,8 +201,8 @@
 | 193 | 304 | ALFD |
 | 194 | 301 | Damon J. Martin |
 | 195 | 297 | Jen Nystrom |
-| 196 | 296 | Cody Gates |
-| 197 | 296 | Witty Builderfit |
+| 196 | 296 | Witty Builderfit |
+| 197 | 296 | Cody Gates |
 | 198 | 295 | Sleepysloath5745 |
 | 199 | 294 | Bindi |
 | 200 | 294 | Margo Wagner |
