@@ -104,8 +104,8 @@
 | 96 | 492 | Ash Galvan |
 | 97 | 489 | Deanna L Hermanson |
 | 98 | 486 | Tater |
-| 99 | 483 | Tdub |
-| 100 | 483 | cc |
+| 99 | 483 | cc |
+| 100 | 483 | Tdub |
 | 101 | 477 | April Carroll |
 | 102 | 472 | Hasbro Bros |
 | 103 | 462 | Luciano Moreira |
@@ -201,8 +201,8 @@
 | 193 | 304 | ALFD |
 | 194 | 301 | Damon J. Martin |
 | 195 | 297 | Jen Nystrom |
-| 196 | 296 | Witty Builderfit |
-| 197 | 296 | Cody Gates |
+| 196 | 296 | Cody Gates |
+| 197 | 296 | Witty Builderfit |
 | 198 | 295 | Sleepysloath5745 |
 | 199 | 294 | Bindi |
 | 200 | 294 | Margo Wagner |

@@ -263,13 +263,13 @@
 | 255 | 365 | Noyb Adam |
 | 256 | 364 | Steffi Chris Dacones |
 | 257 | 362 | Brandon Givens |
-| 258 | 357 | Ammmmmmy |
-| 259 | 357 | Cesar Barraza |
-| 260 | 357 | Stephanie Burtin |
+| 258 | 357 | Stephanie Burtin |
+| 259 | 357 | Ammmmmmy |
+| 260 | 357 | Cesar Barraza |
 | 261 | 354 | Kelly |
 | 262 | 353 | Dee Franklin |
-| 263 | 352 | Samantha Lynn |
-| 264 | 352 | Christian Werndl |
+| 263 | 352 | Christian Werndl |
+| 264 | 352 | Samantha Lynn |
 | 265 | 351 | Eon Harris |
 | 266 | 349 | Amanda J. Mcneil-Anderson |
 | 267 | 348 | Cyd061769 |
@@ -285,8 +285,8 @@
 | 277 | 338 | Gumbo |
 | 278 | 336 | Jojo M |
 | 279 | 335 | victory |
-| 280 | 332 | Brittany |
-| 281 | 332 | Velma Mull |
+| 280 | 332 | Velma Mull |
+| 281 | 332 | Brittany |
 | 282 | 331 | Gray Hicks |
 | 283 | 326 | Kerry Nowickshere |
 | 284 | 325 | Tasha Wesson-Torrence |
@@ -369,8 +369,8 @@
 | 361 | 263 | Erika Thornton |
 | 362 | 262 | Isabel Ocasio |
 | 363 | 260 | Tracey Cox |
-| 364 | 259 | Alice |
-| 365 | 259 | Jessica Lynn French |
+| 364 | 259 | Jessica Lynn French |
+| 365 | 259 | Alice |
 | 366 | 259 | Dana Winters |
 | 367 | 258 | IamJust Neyamijah Washington Sr. |
 | 368 | 257 | Naur |
@@ -663,10 +663,10 @@
 | 655 | 154 | Mike Spritzer |
 | 656 | 154 | Steph Arcari |
 | 657 | 154 | Lexi |
-| 658 | 153 | Jessie Chung |
-| 659 | 153 | Jada Cox |
-| 660 | 152 | Christine Vosburgh |
-| 661 | 152 | Louise Parker |
+| 658 | 153 | Jada Cox |
+| 659 | 153 | Jessie Chung |
+| 660 | 152 | Louise Parker |
+| 661 | 152 | Christine Vosburgh |
 | 662 | 151 | Lisa Bard |
 | 663 | 150 | Kiya Lynn |
 | 664 | 150 | Sapphire87 |
@@ -698,9 +698,9 @@
 | 690 | 143 | Russell Hankinson |
 | 691 | 143 | Sarah Muradyan |
 | 692 | 143 | Lisa Lisa |
-| 693 | 142 | Jason-Ashley Ludlow |
+| 693 | 142 | get et |
 | 694 | 142 | Jennifer Neiman Gaal |
-| 695 | 142 | get et |
+| 695 | 142 | Jason-Ashley Ludlow |
 | 696 | 142 | Giddy Basepiece |
 | 697 | 141 | Melissa Parlow-Callaway |
 | 698 | 141 | Plucky Bridger |

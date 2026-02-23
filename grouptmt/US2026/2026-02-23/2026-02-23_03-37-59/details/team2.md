@@ -40,8 +40,8 @@
 | 32 | 4274 | Vistabrat |
 | 33 | 4199 | Claire Noland |
 | 34 | 4128 | Angela Pruitt |
-| 35 | 4120 | Corrine Hawks Soriano |
-| 36 | 4120 | Kristen Sceurman |
+| 35 | 4120 | Kristen Sceurman |
+| 36 | 4120 | Corrine Hawks Soriano |
 | 37 | 4093 | Jill Stroehlein |
 | 38 | 3895 | Nickie Baby |
 | 39 | 3778 | Brittany Alicia |
@@ -103,8 +103,8 @@
 | 95 | 2170 | Steve Grotto |
 | 96 | 2165 | Tj Ball |
 | 97 | 2155 | Qiana Sanders |
-| 98 | 2148 | Roger Grabbit |
-| 99 | 2148 | ShinyRose |
+| 98 | 2148 | ShinyRose |
+| 99 | 2148 | Roger Grabbit |
 | 100 | 2146 | KellyDyan |
 | 101 | 2106 | Cool Rollpiece |
 | 102 | 2103 | Alisha Peoples |
@@ -306,8 +306,8 @@
 | 298 | 939 | SaraMarie Eveland |
 | 299 | 939 | Cindy Sechler Taninecz |
 | 300 | 934 | April Dawn Gussler |
-| 301 | 929 | Joshua Mandel |
-| 302 | 929 | Caitlin Schmid |
+| 301 | 929 | Caitlin Schmid |
+| 302 | 929 | Joshua Mandel |
 | 303 | 926 | Deborah Miller |
 | 304 | 919 | Isaac Trappiel IV |
 | 305 | 916 | Butta |
@@ -315,8 +315,8 @@
 | 307 | 914 | Shuany Arias |
 | 308 | 913 | Ashlen Dorrell |
 | 309 | 911 | Boldy Cascadepiece |
-| 310 | 907 | Gene Mills |
-| 311 | 907 | Michelle Lee |
+| 310 | 907 | Michelle Lee |
+| 311 | 907 | Gene Mills |
 | 312 | 905 | F-X |
 | 313 | 904 | Jennifer Aiken |
 | 314 | 904 | John Bednarik |
