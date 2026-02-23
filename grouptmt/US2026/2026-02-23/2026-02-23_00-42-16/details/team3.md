@@ -81,8 +81,8 @@
 | 73 | 964 | Jennifer |
 | 74 | 945 | Christian A. Pollard |
 | 75 | 935 | Shonna Roberts |
-| 76 | 926 | Angela M. Fletcher |
-| 77 | 926 | Judi Dobson |
+| 76 | 926 | Judi Dobson |
+| 77 | 926 | Angela M. Fletcher |
 | 78 | 923 | Christine Filson |
 | 79 | 910 | Jay Horn |
 | 80 | 907 | Michelle Becker |
@@ -154,8 +154,8 @@
 | 146 | 575 | Tasha Gillespie |
 | 147 | 574 | Morgan Martinez |
 | 148 | 572 | CeceGeGe |
-| 149 | 571 | Nicole Myers |
-| 150 | 571 | Domo Washington |
+| 149 | 571 | Domo Washington |
+| 150 | 571 | Nicole Myers |
 | 151 | 568 | Rachael McClain Owens |
 | 152 | 562 | Louise Stacy Sisson |
 | 153 | 562 | Dave Herzog |
@@ -244,8 +244,8 @@
 | 236 | 369 | Keis |
 | 237 | 368 | Stephanie Woods |
 | 238 | 366 | Marquita Sheard |
-| 239 | 365 | Tiffany Ford |
-| 240 | 365 | Chummy Caster |
+| 239 | 365 | Chummy Caster |
+| 240 | 365 | Tiffany Ford |
 | 241 | 364 | Steffi Chris Dacones |
 | 242 | 362 | Brandon Givens |
 | 243 | 360 | Sheila M Frazier |
@@ -270,8 +270,8 @@
 | 262 | 339 | Danielle Weikel |
 | 263 | 338 | Gumbo |
 | 264 | 332 | Velma Mull |
-| 265 | 330 | victory |
-| 266 | 330 | Brittany |
+| 265 | 330 | Brittany |
+| 266 | 330 | victory |
 | 267 | 329 | Tye Stovall |
 | 268 | 329 | block chick |
 | 269 | 327 | Gideon Walker |

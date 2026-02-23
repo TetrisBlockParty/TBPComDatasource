@@ -40,8 +40,8 @@
 | 32 | 4174 | Vistabrat |
 | 33 | 4130 | Robert Diddle |
 | 34 | 4128 | Angela Pruitt |
-| 35 | 4120 | Corrine Hawks Soriano |
-| 36 | 4120 | Kristen Sceurman |
+| 35 | 4120 | Kristen Sceurman |
+| 36 | 4120 | Corrine Hawks Soriano |
 | 37 | 3895 | Nickie Baby |
 | 38 | 3793 | Jill Stroehlein |
 | 39 | 3759 | Brittany Alicia |
@@ -292,10 +292,10 @@
 | 284 | 914 | Shuany Arias |
 | 285 | 907 | Gene Mills |
 | 286 | 905 | Osun Anuket Esu |
-| 287 | 904 | John Bednarik |
-| 288 | 904 | Jennifer Aiken |
-| 289 | 904 | Missie Lawson Gebhardt |
-| 290 | 904 | Ashlen Dorrell |
+| 287 | 904 | Jennifer Aiken |
+| 288 | 904 | John Bednarik |
+| 289 | 904 | Ashlen Dorrell |
+| 290 | 904 | Missie Lawson Gebhardt |
 | 291 | 902 | William Hunt |
 | 292 | 901 | SaraMarie Eveland |
 | 293 | 895 | Donna Colby |

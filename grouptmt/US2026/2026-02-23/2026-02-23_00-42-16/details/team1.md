@@ -96,16 +96,16 @@
 | 88 | 500 | Evie Khalil |
 | 89 | 496 | Sarah Lombardo |
 | 90 | 494 | Arianna O'Brien |
-| 91 | 493 | Jennifer ManWarren |
-| 92 | 493 | MomMom |
+| 91 | 493 | MomMom |
+| 92 | 493 | Jennifer ManWarren |
 | 93 | 492 | Ash Galvan |
 | 94 | 489 | Deanna L Hermanson |
 | 95 | 486 | Tater |
 | 96 | 485 | Cartier |
 | 97 | 480 | cc |
 | 98 | 474 | Tdub |
-| 99 | 472 | April Carroll |
-| 100 | 472 | Kristen Gideon |
+| 99 | 472 | Kristen Gideon |
+| 100 | 472 | April Carroll |
 | 101 | 466 | Hasbro Bros |
 | 102 | 462 | Luciano Moreira |
 | 103 | 454 | Evan Richmond |
@@ -415,8 +415,8 @@
 | 407 | 155 | Mrs.Patrica |
 | 408 | 155 | Tamara Brown |
 | 409 | 154 | TristansDad |
-| 410 | 153 | Toph |
-| 411 | 153 | Layzietyme |
+| 410 | 153 | Layzietyme |
+| 411 | 153 | Toph |
 | 412 | 152 | Jordan Brooks |
 | 413 | 151 | Lush Zoney |
 | 414 | 150 | Jennifer Corrado |

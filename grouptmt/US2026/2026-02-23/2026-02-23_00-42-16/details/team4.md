@@ -126,13 +126,13 @@
 | 118 | 458 | Twisty Clicky |
 | 119 | 448 | Kristin Manee |
 | 120 | 435 | Leslie Thomas |
-| 121 | 431 | Jolly Dashfit |
-| 122 | 431 | Courtney Cicoria |
+| 121 | 431 | Courtney Cicoria |
+| 122 | 431 | Jolly Dashfit |
 | 123 | 429 | Ren Mc |
 | 124 | 427 | KJ Pool |
-| 125 | 418 | Monica Daley |
-| 126 | 418 | Marie-Pier Desjardins |
-| 127 | 418 | Lush Linkfall |
+| 125 | 418 | Lush Linkfall |
+| 126 | 418 | Monica Daley |
+| 127 | 418 | Marie-Pier Desjardins |
 | 128 | 414 | Nope Young |
 | 129 | 411 | JIGsaw ~(•¿°)~ |
 | 130 | 408 | Amanda Pauldo-Ivy |
@@ -175,8 +175,8 @@
 | 167 | 328 | Kris Bartlett |
 | 168 | 324 | jim |
 | 169 | 322 | J-Rizzle |
-| 170 | 320 | Lauren Scott |
-| 171 | 320 | TRCuse |
+| 170 | 320 | TRCuse |
+| 171 | 320 | Lauren Scott |
 | 172 | 316 | Meagan Nicole |
 | 173 | 314 | shark tato |
 | 174 | 314 | Andy Cabral |
@@ -199,16 +199,16 @@
 | 191 | 289 | Lindsay Ball |
 | 192 | 288 | Leah Kutz Zirbel |
 | 193 | 287 | Plucky Patternblock |
-| 194 | 286 | Holly Jolly |
-| 195 | 286 | Sam Bishop |
-| 196 | 286 | Brittney Orengo |
+| 194 | 286 | Sam Bishop |
+| 195 | 286 | Brittney Orengo |
+| 196 | 286 | Holly Jolly |
 | 197 | 282 | Sue Joyce Staats |
 | 198 | 282 | Chris Bernstein |
 | 199 | 281 | Laura |
 | 200 | 281 | Kim Klutz Olson |
 | 201 | 277 | Zesty Twistbuilder |
-| 202 | 276 | Joeliecea Cobb |
-| 203 | 276 | Matt Dell'Olio |
+| 202 | 276 | Matt Dell'Olio |
+| 203 | 276 | Joeliecea Cobb |
 | 204 | 273 | Casey Grabner |
 | 205 | 272 | Alan George LaRage |
 | 206 | 272 | Porkobello |
