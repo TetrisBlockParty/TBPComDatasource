@@ -294,8 +294,8 @@
 | 286 | 289 | Alenoush Karimian |
 | 287 | 288 | Bird Person |
 | 288 | 287 | Sir-Franchise Drake |
-| 289 | 286 | Sarahdactyl |
-| 290 | 286 | Adele Rahman |
+| 289 | 286 | Adele Rahman |
+| 290 | 286 | Sarahdactyl |
 | 291 | 285 | Shanae Grant |
 | 292 | 284 | Michael |
 | 293 | 284 | Colleen Pinette |
@@ -563,7 +563,7 @@
 | 555 | 162 | Melanie Kelley |
 | 556 | 162 | Hector Cruz |
 | 557 | 162 | Nerdy Curvebuilder |
-| 558 | 162 | Hector Cruz |
+| 558 | 162 | Charla Pross-Fugleberg |
 | 559 | 162 | Jennifer Corrado |
 | 560 | 161 | Rachel Nilles |
 | 561 | 161 | Terika Rodriguez |

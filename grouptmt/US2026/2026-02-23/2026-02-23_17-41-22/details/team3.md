@@ -215,8 +215,8 @@
 | 207 | 560 | FuzzyNavel |
 | 208 | 560 | Juliana Dottore |
 | 209 | 559 | Patti Skiles |
-| 210 | 558 | Bmo |
-| 211 | 558 | Chasity |
+| 210 | 558 | Chasity |
+| 211 | 558 | Bmo |
 | 212 | 549 | Sarah Cowan Burgos |
 | 213 | 548 | Danielle Balcom |
 | 214 | 547 | Staci George Fitzsimmons |
@@ -259,8 +259,8 @@
 | 251 | 471 | Mendoza Lee Christy |
 | 252 | 471 | Gray Hicks |
 | 253 | 471 | Rebecca Bailey |
-| 254 | 470 | Rebecca Funderburk Kirby |
-| 255 | 470 | Marci Mize Fandrich |
+| 254 | 470 | Marci Mize Fandrich |
+| 255 | 470 | Rebecca Funderburk Kirby |
 | 256 | 468 | Shunta Jacobs |
 | 257 | 467 | Sherry Ogden |
 | 258 | 464 | Danielle Weikel |

@@ -215,8 +215,8 @@
 | 207 | 379 | J-Rizzle |
 | 208 | 378 | Silly Zonebuilder |
 | 209 | 378 | Lauren Scott |
-| 210 | 376 | shark tato |
-| 211 | 376 | Zesty Twistbuilder |
+| 210 | 376 | Zesty Twistbuilder |
+| 211 | 376 | shark tato |
 | 212 | 374 | Mr. Party |
 | 213 | 373 | Christina Black |
 | 214 | 372 | JPW |
@@ -306,8 +306,8 @@
 | 298 | 281 | Morti |
 | 299 | 281 | Laura |
 | 300 | 280 | Nerdy Twisterfit |
-| 301 | 278 | Sarah Brown |
-| 302 | 278 | Angela Geist Jusinski |
+| 301 | 278 | Angela Geist Jusinski |
+| 302 | 278 | Sarah Brown |
 | 303 | 277 | Brittany Marsh |
 | 304 | 277 | rebel4lyfe |
 | 305 | 276 | Susan Williams |
@@ -337,8 +337,8 @@
 | 329 | 262 | BigSammy420 |
 | 330 | 262 | Selena Shaw |
 | 331 | 261 | Zethra Prenisha Rahming |
-| 332 | 260 | Carter Jones |
-| 333 | 260 | Angelito |
+| 332 | 260 | Angelito |
+| 333 | 260 | Carter Jones |
 | 334 | 259 | Allen Lloyd |
 | 335 | 259 | Montiette Mcglown |
 | 336 | 258 | DQ Martin |

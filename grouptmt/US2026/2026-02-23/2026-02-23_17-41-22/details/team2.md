@@ -517,8 +517,8 @@
 | 509 | 746 | Hoppy Brickmatch |
 | 510 | 742 | Ganieda |
 | 511 | 742 | Cassie Maynard |
-| 512 | 740 | Samantha Scibelli |
-| 513 | 740 | Jerry Tempelmeyer |
+| 512 | 740 | Jerry Tempelmeyer |
+| 513 | 740 | Samantha Scibelli |
 | 514 | 740 | Alexandra Weir |
 | 515 | 737 | Ginger |
 | 516 | 737 | Chelle |
