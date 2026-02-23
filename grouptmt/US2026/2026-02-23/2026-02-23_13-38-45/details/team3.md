@@ -81,8 +81,8 @@
 | 73 | 1252 | Gracie |
 | 74 | 1244 | Lori Barnaby |
 | 75 | 1221 | Betty Ivy |
-| 76 | 1213 | Nerdy Riseclear |
-| 77 | 1213 | Snappy Glidepiece |
+| 76 | 1213 | Snappy Glidepiece |
+| 77 | 1213 | Nerdy Riseclear |
 | 78 | 1209 | Amanda Adkins |
 | 79 | 1186 | Christian A. Pollard |
 | 80 | 1134 | Denise Nardoni |
@@ -119,8 +119,8 @@
 | 111 | 869 | Araceli Parra |
 | 112 | 868 | Sarajane Lokan |
 | 113 | 860 | Sunny Rotater |
-| 114 | 851 | Jd Morris |
-| 115 | 851 | Danielle Becker |
+| 114 | 851 | Danielle Becker |
+| 115 | 851 | Jd Morris |
 | 116 | 850 | Danielle Mogg |
 | 117 | 848 | Patricia Gadsden |
 | 118 | 839 | Angeline Joseph |
@@ -133,8 +133,8 @@
 | 125 | 779 | Justin Ritter |
 | 126 | 774 | Keith J Oshman Jr. |
 | 127 | 773 | Daira Largen |
-| 128 | 764 | Hasty Cascadefit |
-| 129 | 764 | Groovy Catcher |
+| 128 | 764 | Groovy Catcher |
+| 129 | 764 | Hasty Cascadefit |
 | 130 | 762 | Speedy Bridger |
 | 131 | 755 | Fancy Cascader |
 | 132 | 755 | Katrina Schroeder |
@@ -192,8 +192,8 @@
 | 184 | 574 | Morgan Martinez |
 | 185 | 568 | Rachael McClain Owens |
 | 186 | 566 | LaTanya GeminiondaRise Johnson |
-| 187 | 564 | Poppy Splitter |
-| 188 | 564 | Christine Trester |
+| 187 | 564 | Christine Trester |
+| 188 | 564 | Poppy Splitter |
 | 189 | 563 | Jim Mathews |
 | 190 | 562 | Dave Herzog |
 | 191 | 561 | Elissa S-k |
@@ -220,8 +220,8 @@
 | 212 | 502 | Snappy Balancer |
 | 213 | 498 | Melissa Orth Hunter |
 | 214 | 496 | Loopy Fallmatch |
-| 215 | 494 | Connie Mohler-Fair |
-| 216 | 494 | FuzzyNavel |
+| 215 | 494 | FuzzyNavel |
+| 216 | 494 | Connie Mohler-Fair |
 | 217 | 491 | Michael Johnson |
 | 218 | 488 | joz |
 | 219 | 485 | Dapper Snap |
@@ -350,8 +350,8 @@
 | 342 | 325 | Tasha Wesson-Torrence |
 | 343 | 324 | neci |
 | 344 | 324 | Sissy Lowery Davis |
-| 345 | 323 | Spencer Nikki |
-| 346 | 323 | Sharisse Baltimore |
+| 345 | 323 | Sharisse Baltimore |
+| 346 | 323 | Spencer Nikki |
 | 347 | 322 | Nena Somerville Kelly |
 | 348 | 321 | Wettnippz |
 | 349 | 321 | ROODBOY |

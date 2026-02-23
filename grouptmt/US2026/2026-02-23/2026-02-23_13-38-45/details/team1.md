@@ -135,8 +135,8 @@
 | 127 | 466 | Adrian Esteban |
 | 128 | 463 | Lexuriuos Lifestlye |
 | 129 | 462 | Luciano Moreira |
-| 130 | 458 | Evan Richmond |
-| 131 | 458 | Goose egg |
+| 130 | 458 | Goose egg |
+| 131 | 458 | Evan Richmond |
 | 132 | 454 | Desiree Deschaine Havee |
 | 133 | 453 | Brandi Huntington |
 | 134 | 451 | Plucky Ziggy |
@@ -207,7 +207,7 @@
 | 199 | 360 | MIKOZ |
 | 200 | 359 | Oscar Zamora |
 | 201 | 359 | Jo Kerley |
-| 202 | 359 | Oscar Zamora |
+| 202 | 359 | Witty Builderfit |
 | 203 | 358 | Nicole Roseberry Weber |
 | 204 | 357 | Shiny Snapfit |
 | 205 | 354 | Dino |

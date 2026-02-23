@@ -71,8 +71,8 @@
 | 63 | 846 | Christine Marie |
 | 64 | 834 | quicksand420 |
 | 65 | 827 | Avy Absol |
-| 66 | 807 | Amelpss |
-| 67 | 807 | Rachel Anne |
+| 66 | 807 | Rachel Anne |
+| 67 | 807 | Amelpss |
 | 68 | 788 | Julian Garcia |
 | 69 | 788 | Chilly Line |
 | 70 | 787 | Edward White |
@@ -154,8 +154,8 @@
 | 146 | 448 | Kristin Manee |
 | 147 | 442 | ThaEviLJeNiuZ |
 | 148 | 435 | Kristina Black |
-| 149 | 434 | Lindsey Gonzalez |
-| 150 | 434 | Mylo Lipscomb |
+| 149 | 434 | Mylo Lipscomb |
+| 150 | 434 | Lindsey Gonzalez |
 | 151 | 433 | Nick Gray |
 | 152 | 432 | Livvy |
 | 153 | 432 | Zippy Block |
@@ -218,8 +218,8 @@
 | 210 | 337 | Sam Bishop |
 | 211 | 336 | JPW |
 | 212 | 334 | June Hoffman |
-| 213 | 333 | Chris Alexinas |
-| 214 | 333 | Cranky Rollpiece |
+| 213 | 333 | Cranky Rollpiece |
+| 214 | 333 | Chris Alexinas |
 | 215 | 332 | HastyGrabber |
 | 216 | 331 | Lauren Scott |
 | 217 | 331 | Alan George LaRage |
@@ -260,8 +260,8 @@
 | 252 | 290 | Rebecca Morris |
 | 253 | 290 | Jared Gutwein |
 | 254 | 289 | Juls |
-| 255 | 288 | Brittney Orengo |
-| 256 | 288 | Adam Stephanie Parker |
+| 255 | 288 | Adam Stephanie Parker |
+| 256 | 288 | Brittney Orengo |
 | 257 | 286 | KimoKoala |
 | 258 | 285 | Kim Klutz Olson |
 | 259 | 285 | Shiny Fit |
@@ -466,8 +466,8 @@
 | 458 | 170 | Vamp |
 | 459 | 170 | Joshua W. Benton |
 | 460 | 169 | Jessica Atkinson |
-| 461 | 169 | Dante Korleon |
-| 462 | 169 | Joseph Pace |
+| 461 | 169 | Joseph Pace |
+| 462 | 169 | Dante Korleon |
 | 463 | 168 | Jarred Falls |
 | 464 | 167 | Snippy Clearer |
 | 465 | 167 | Dapper Frame |
