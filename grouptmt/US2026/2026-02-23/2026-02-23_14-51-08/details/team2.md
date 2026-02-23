@@ -384,8 +384,8 @@
 | 376 | 903 | Giggy Blocker |
 | 377 | 902 | Diallo Sparkman |
 | 378 | 899 | Felicia Lynn |
-| 379 | 899 | Patrick Bartlett |
-| 380 | 899 | Chevy |
+| 379 | 899 | Chevy |
+| 380 | 899 | Patrick Bartlett |
 | 381 | 898 | Donna M Carter |
 | 382 | 895 | Donna Colby |
 | 383 | 895 | Lisa Ongtowasruk |
@@ -463,8 +463,8 @@
 | 455 | 772 | Danielle Simmons |
 | 456 | 771 | Stephanie Lumanlan |
 | 457 | 769 | Kimberly Hope Howell |
-| 458 | 768 | Charvi' Carter |
-| 459 | 768 | Joshua Self |
+| 458 | 768 | Joshua Self |
+| 459 | 768 | Charvi' Carter |
 | 460 | 767 | Ashley Lopez |
 | 461 | 766 | Jennie Lee Huntley |
 | 462 | 765 | Dylan Thomason |
@@ -613,8 +613,8 @@
 | 605 | 614 | Emilee Burke |
 | 606 | 614 | Jessica S Flecha |
 | 607 | 613 | Audrey Jones |
-| 608 | 612 | Jenn Marie |
-| 609 | 612 | Briana Alexander |
+| 608 | 612 | Briana Alexander |
+| 609 | 612 | Jenn Marie |
 | 610 | 611 | Autumn Schaeffer |
 | 611 | 610 | Adam Simmons |
 | 612 | 609 | Cecilia A Jenkins |
@@ -783,8 +783,8 @@
 | 775 | 502 | Enha |
 | 776 | 500 | Amy Reynolds |
 | 777 | 499 | Besma Ao |
-| 778 | 498 | Chummy Blockbuilder |
-| 779 | 498 | Drwatson187 |
+| 778 | 498 | Drwatson187 |
+| 779 | 498 | Chummy Blockbuilder |
 | 780 | 497 | June E Hanson |
 | 781 | 496 | Angelina Marie |
 | 782 | 496 | Tracy Cowley |

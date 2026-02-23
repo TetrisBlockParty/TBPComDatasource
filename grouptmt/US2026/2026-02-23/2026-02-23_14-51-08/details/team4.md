@@ -163,8 +163,8 @@
 | 155 | 462 | Leslie Thomas |
 | 156 | 460 | Cursed Hag |
 | 157 | 457 | Keith Kelley |
-| 158 | 448 | Swanky Fitline |
-| 159 | 448 | Kristin Manee |
+| 158 | 448 | Kristin Manee |
+| 159 | 448 | Swanky Fitline |
 | 160 | 444 | Mylo Lipscomb |
 | 161 | 435 | Kristina Black |
 | 162 | 433 | Nick Gray |
@@ -200,8 +200,8 @@
 | 192 | 376 | Zesty Twistbuilder |
 | 193 | 372 | George Nutt |
 | 194 | 372 | Antony Dwayne Beasley |
-| 195 | 368 | Silly Zonebuilder |
-| 196 | 368 | Holly Jolly |
+| 195 | 368 | Holly Jolly |
+| 196 | 368 | Silly Zonebuilder |
 | 197 | 365 | Jeff Brian Gates |
 | 198 | 363 | Cindy Looper |
 | 199 | 361 | Danielle Kollias |
@@ -260,8 +260,8 @@
 | 252 | 300 | Dana Scott |
 | 253 | 295 | Keshia Lyons |
 | 254 | 294 | Calvin Cannon |
-| 255 | 292 | Epic Curvetile |
-| 256 | 292 | Angel Raya |
+| 255 | 292 | Angel Raya |
+| 256 | 292 | Epic Curvetile |
 | 257 | 291 | Mimi |
 | 258 | 291 | Dizzy Matchzone |
 | 259 | 290 | Rebecca Morris |
@@ -320,8 +320,8 @@
 | 312 | 253 | Autum Leigh |
 | 313 | 251 | Carol Ricks Raymond |
 | 314 | 249 | Ak Jones |
-| 315 | 248 | Chirpy Basepiece |
-| 316 | 248 | Angelito |
+| 315 | 248 | Angelito |
+| 316 | 248 | Chirpy Basepiece |
 | 317 | 248 | Jose Dejesus |
 | 318 | 247 | Vic |
 | 319 | 246 | Jenna McGeorge |
@@ -348,8 +348,8 @@
 | 340 | 235 | Shainne Brewer |
 | 341 | 235 | LaDonna LovinmesomeMe Lambert |
 | 342 | 234 | Diosa Ebalobo Magsael |
-| 343 | 234 | Richard-April Kice |
-| 344 | 234 | Shanon Klair |
+| 343 | 234 | Shanon Klair |
+| 344 | 234 | Richard-April Kice |
 | 345 | 233 | Joseph Edmonson |
 | 346 | 230 | Chantilly Laace |
 | 347 | 230 | Heather Bruce |

@@ -136,8 +136,8 @@
 | 128 | 774 | Keith J Oshman Jr. |
 | 129 | 773 | Daira Largen |
 | 130 | 770 | Daryn Elliott |
-| 131 | 764 | Hasty Cascadefit |
-| 132 | 764 | Groovy Catcher |
+| 131 | 764 | Groovy Catcher |
+| 132 | 764 | Hasty Cascadefit |
 | 133 | 762 | Speedy Bridger |
 | 134 | 757 | Fancy Cascader |
 | 135 | 756 | Patty Allen |
@@ -204,8 +204,8 @@
 | 196 | 549 | Tasha Schriewer |
 | 197 | 548 | Danielle Balcom |
 | 198 | 547 | Staci George Fitzsimmons |
-| 199 | 546 | Mykal Burton |
-| 200 | 546 | Cynthia Castros-Hampton |
+| 199 | 546 | Cynthia Castros-Hampton |
+| 200 | 546 | Mykal Burton |
 | 201 | 543 | Silly Twist |
 | 202 | 542 | Connie Mohler-Fair |
 | 203 | 540 | Shawn Miller |
@@ -392,19 +392,19 @@
 | 384 | 302 | Willow |
 | 385 | 301 | Betty Rosas |
 | 386 | 301 | Kaitie Oliver |
-| 387 | 301 | Michael Lucado |
-| 388 | 301 | Daring Brickzone |
+| 387 | 301 | Daring Brickzone |
+| 388 | 301 | Michael Lucado |
 | 389 | 299 | Hasty Gridpiece |
 | 390 | 299 | Antonia Russell |
-| 391 | 299 | TotoCherue |
-| 392 | 299 | Angie Harper |
+| 391 | 299 | Angie Harper |
+| 392 | 299 | TotoCherue |
 | 393 | 298 | Dannie Litchard |
 | 394 | 298 | Grams |
 | 395 | 298 | Tay |
 | 396 | 296 | Amy Montz |
-| 397 | 296 | Tracy Martin |
-| 398 | 296 | Donna |
-| 399 | 296 | Cheryl Hinch Tenbrook |
+| 397 | 296 | Cheryl Hinch Tenbrook |
+| 398 | 296 | Tracy Martin |
+| 399 | 296 | Donna |
 | 400 | 295 | Dakota Graham |
 | 401 | 293 | Kristen Weese |
 | 402 | 292 | Arden White Kirsch |
@@ -2136,7 +2136,7 @@
 | 2128 | 38 | Peter Lucoe |
 | 2129 | 38 | Debbie Schmitt-Jennings |
 | 2130 | 37 | Miss |
-| 2131 | 37 | Amanda Mooney |
+| 2131 | 37 | Mistro On da Mic |
 | 2132 | 37 | Emily Heying |
 | 2133 | 37 | Denyse Carruthers |
 | 2134 | 37 | Nyn Whyte |
