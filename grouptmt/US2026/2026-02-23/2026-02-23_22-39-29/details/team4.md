@@ -62,8 +62,8 @@
 | 54 | 1156 | Goatimus Lombardi |
 | 55 | 1150 | Kimyatta Cavin |
 | 56 | 1106 | Ashley Ingram |
-| 57 | 1082 | Avy Absol |
-| 58 | 1082 | Dion Crommarty |
+| 57 | 1082 | Dion Crommarty |
+| 58 | 1082 | Avy Absol |
 | 59 | 1073 | Dustee Craddock-Harrison |
 | 60 | 1049 | Heather Tushner |
 | 61 | 1046 | Johnathan Martinez |
@@ -195,8 +195,8 @@
 | 187 | 465 | Jolly Dashfit |
 | 188 | 464 | Sharyn Lemire |
 | 189 | 462 | Leslie Thomas |
-| 190 | 457 | June Hoffman |
-| 191 | 457 | Kristin Manee |
+| 190 | 457 | Kristin Manee |
+| 191 | 457 | June Hoffman |
 | 192 | 455 | Michele Plunkett |
 | 193 | 450 | Amanda Pauldo-Ivy |
 | 194 | 449 | Rebecca Morris |
@@ -287,10 +287,10 @@
 | 279 | 329 | Joanna |
 | 280 | 324 | Nubian1 |
 | 281 | 321 | Chance Strickland |
-| 282 | 321 | Meagan Nicole |
-| 283 | 321 | Montiette Mcglown |
+| 282 | 321 | Montiette Mcglown |
+| 283 | 321 | Stacey Stano |
 | 284 | 321 | Blessedmama |
-| 285 | 321 | Stacey Stano |
+| 285 | 321 | Meagan Nicole |
 | 286 | 317 | Madison Sweere |
 | 287 | 316 | Stella |
 | 288 | 315 | Vic |
@@ -353,8 +353,8 @@
 | 345 | 276 | Silly SeaWeed |
 | 346 | 275 | meowmew |
 | 347 | 274 | Jenna McGeorge |
-| 348 | 272 | Dennis Bradley |
-| 349 | 272 | Tony Pavelka |
+| 348 | 272 | Tony Pavelka |
+| 349 | 272 | Dennis Bradley |
 | 350 | 271 | Holly |
 | 351 | 270 | 23 |
 | 352 | 270 | 07VHVW |
@@ -368,7 +368,7 @@
 | 360 | 266 | Happy Combo |
 | 361 | 266 | Paige Kittles |
 | 362 | 265 | Lorena Guerrero-Barron |
-| 363 | 265 | Sarah Neathery |
+| 363 | 265 | Degenerate |
 | 364 | 265 | Christine Therrien |
 | 365 | 265 | Sarah Neathery |
 | 366 | 264 | AyeKay |
@@ -525,8 +525,8 @@
 | 517 | 190 | Robert Rangel |
 | 518 | 189 | Brandon Link |
 | 519 | 188 | Tanner Lund |
-| 520 | 188 | Daring Pivot |
-| 521 | 188 | Frilly Blocky |
+| 520 | 188 | Frilly Blocky |
+| 521 | 188 | Daring Pivot |
 | 522 | 187 | Jason Punch |
 | 523 | 186 | Dandy Cascadefit |
 | 524 | 186 | Jesse Saville |

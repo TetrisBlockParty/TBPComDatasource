@@ -233,8 +233,8 @@
 | 225 | 569 | Juliana Dottore |
 | 226 | 568 | Rachael McClain Owens |
 | 227 | 566 | LaTanya GeminiondaRise Johnson |
-| 228 | 564 | Christine Trester |
-| 229 | 564 | Poppy Splitter |
+| 228 | 564 | Poppy Splitter |
+| 229 | 564 | Christine Trester |
 | 230 | 563 | Fallorina Susana |
 | 231 | 562 | Dave Herzog |
 | 232 | 561 | Silly Twist |
@@ -269,8 +269,8 @@
 | 261 | 513 | Lizabeth Fox |
 | 262 | 510 | Marquita Sheard |
 | 263 | 508 | joz |
-| 264 | 507 | rosy |
-| 265 | 507 | Snappy Balancer |
+| 264 | 507 | Snappy Balancer |
+| 265 | 507 | rosy |
 | 266 | 506 | Ammmmmmy |
 | 267 | 505 | Stephanie Simpson |
 | 268 | 500 | Ashley Tookes |
@@ -305,8 +305,8 @@
 | 297 | 455 | Megan Rathmanner |
 | 298 | 451 | Charles Perrone |
 | 299 | 450 | Antonia Russell |
-| 300 | 449 | Mcathen |
-| 301 | 449 | Stefanie LaPointe |
+| 300 | 449 | Stefanie LaPointe |
+| 301 | 449 | Mcathen |
 | 302 | 448 | Scott Carleton |
 | 303 | 443 | Randy Clevenger |
 | 304 | 438 | Betty Rosas |
@@ -640,8 +640,8 @@
 | 632 | 239 | Martin Bernier |
 | 633 | 238 | Jess Dearborn |
 | 634 | 238 | Serena Jarrell |
-| 635 | 237 | Christopher Mastropietro |
-| 636 | 237 | Ryan Williams |
+| 635 | 237 | Ryan Williams |
+| 636 | 237 | Christopher Mastropietro |
 | 637 | 237 | Smiley Clearpiece |
 | 638 | 236 | Alexis Ford |
 | 639 | 236 | Epic Wrecker |

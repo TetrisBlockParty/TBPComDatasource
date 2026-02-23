@@ -354,8 +354,8 @@
 | 346 | 1079 | Jennifer Kistner |
 | 347 | 1073 | Jodi Blake |
 | 348 | 1072 | BK Queen |
-| 349 | 1071 | Nashu |
-| 350 | 1071 | Kim Dean |
+| 349 | 1071 | Kim Dean |
+| 350 | 1071 | Nashu |
 | 351 | 1071 | Barbra Miller |
 | 352 | 1067 | Taylor Phillips |
 | 353 | 1067 | Caitlin Schmid |
@@ -454,8 +454,8 @@
 | 446 | 899 | Chevy |
 | 447 | 898 | Dylan Thomason |
 | 448 | 897 | Jamie Schmitt |
-| 449 | 895 | Lisa Ongtowasruk |
-| 450 | 895 | Donna Colby |
+| 449 | 895 | Donna Colby |
+| 450 | 895 | Lisa Ongtowasruk |
 | 451 | 894 | Adira Brown |
 | 452 | 892 | Samantha Scibelli |
 | 453 | 890 | Moni Foxe |
