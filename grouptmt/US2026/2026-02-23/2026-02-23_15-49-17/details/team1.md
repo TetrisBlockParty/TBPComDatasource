@@ -96,8 +96,8 @@
 | 88 | 689 | Susanna Guerry |
 | 89 | 683 | Nancy Green |
 | 90 | 679 | Hasbro Bros |
-| 91 | 657 | Cynthia Bradley |
-| 92 | 657 | Tee Sheree |
+| 91 | 657 | Tee Sheree |
+| 92 | 657 | Cynthia Bradley |
 | 93 | 655 | Brenda Stewart |
 | 94 | 650 | Kristi Johnson |
 | 95 | 648 | Evie Khalil |
@@ -179,8 +179,8 @@
 | 171 | 403 | Tana |
 | 172 | 402 | Chris K |
 | 173 | 400 | Chelsea Dahlquist |
-| 174 | 399 | phrmblk24 |
-| 175 | 399 | Nery Martinez |
+| 174 | 399 | Nery Martinez |
+| 175 | 399 | phrmblk24 |
 | 176 | 397 | Erin Rosberg |
 | 177 | 394 | Lori Bales |
 | 178 | 393 | Wisa |
@@ -274,8 +274,8 @@
 | 266 | 298 | Sweetts |
 | 267 | 297 | Diane Byrd |
 | 268 | 292 | Clever Cascadepiece |
-| 269 | 290 | Tavia |
-| 270 | 290 | Hellsin |
+| 269 | 290 | Hellsin |
+| 270 | 290 | Tavia |
 | 271 | 289 | Alenoush Karimian |
 | 272 | 288 | Bird Person |
 | 273 | 287 | Sir-Franchise Drake |

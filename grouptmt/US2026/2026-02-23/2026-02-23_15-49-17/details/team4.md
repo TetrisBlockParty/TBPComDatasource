@@ -256,9 +256,9 @@
 | 248 | 309 | Cool Towerbuilder |
 | 249 | 308 | Leah Kutz Zirbel |
 | 250 | 307 | Cheery Risebuilder |
-| 251 | 307 | Angie Schmidt |
+| 251 | 307 | Tina Lopez |
 | 252 | 307 | Michele Plunkett |
-| 253 | 307 | Tina Lopez |
+| 253 | 307 | Angie Schmidt |
 | 254 | 306 | mike |
 | 255 | 305 | Melvin Baird |
 | 256 | 305 | Brickh4us |
@@ -310,8 +310,8 @@
 | 302 | 264 | ZeeZee |
 | 303 | 263 | rebel4lyfe |
 | 304 | 262 | Selena Shaw |
-| 305 | 262 | BigSammy420 |
-| 306 | 262 | Ruben Wheeler |
+| 305 | 262 | Ruben Wheeler |
+| 306 | 262 | BigSammy420 |
 | 307 | 261 | Zethra Prenisha Rahming |
 | 308 | 260 | Carter Jones |
 | 309 | 259 | Allen Lloyd |
@@ -329,8 +329,8 @@
 | 321 | 251 | Carol Ricks Raymond |
 | 322 | 251 | Kathy Allen |
 | 323 | 249 | Ak Jones |
-| 324 | 248 | Chirpy Basepiece |
-| 325 | 248 | Angelito |
+| 324 | 248 | Angelito |
+| 325 | 248 | Chirpy Basepiece |
 | 326 | 248 | Jose Dejesus |
 | 327 | 247 | Vic |
 | 328 | 247 | Stephme310 |
@@ -621,8 +621,8 @@
 | 613 | 129 | Dreamy Snapgrid |
 | 614 | 129 | Tamika Starkey |
 | 615 | 129 | RIFATSIKDER |
-| 616 | 128 | Lazy Glidepiece |
-| 617 | 128 | Raymond Roberts |
+| 616 | 128 | Raymond Roberts |
+| 617 | 128 | Lazy Glidepiece |
 | 618 | 128 | Zesty Linkgrid |
 | 619 | 127 | Jay You |
 | 620 | 127 | Joe Lonnemann |
@@ -645,8 +645,8 @@
 | 637 | 123 | Mike Nelson |
 | 638 | 123 | Cassandra Stewart |
 | 639 | 122 | Shelly Goad |
-| 640 | 122 | meowmew |
-| 641 | 122 | Mary Therese Benden Cole |
+| 640 | 122 | Mary Therese Benden Cole |
+| 641 | 122 | meowmew |
 | 642 | 122 | Mike Burlingame |
 | 643 | 122 | Rosemary Foster |
 | 644 | 121 | Brittany Price |

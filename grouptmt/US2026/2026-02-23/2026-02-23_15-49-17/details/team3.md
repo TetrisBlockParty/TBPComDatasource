@@ -177,8 +177,8 @@
 | 169 | 633 | Joye Sims Binion |
 | 170 | 632 | Morgan Martinez |
 | 171 | 629 | rnr junky |
-| 172 | 621 | Sashay Tapae Simpson |
-| 173 | 621 | Cherry Parker |
+| 172 | 621 | Cherry Parker |
+| 173 | 621 | Sashay Tapae Simpson |
 | 174 | 616 | Kammy Hill |
 | 175 | 611 | Rochelle Hazelett |
 | 176 | 603 | Jone |
@@ -204,7 +204,7 @@
 | 196 | 562 | Dave Herzog |
 | 197 | 561 | Elissa S-k |
 | 198 | 559 | Patti Skiles |
-| 199 | 557 | Connie Mohler-Fair |
+| 199 | 552 | Connie Mohler-Fair |
 | 200 | 549 | Sarah Cowan Burgos |
 | 201 | 548 | Danielle Balcom |
 | 202 | 547 | Staci George Fitzsimmons |
@@ -278,8 +278,8 @@
 | 270 | 421 | Snazzy Filler |
 | 271 | 421 | Chummy Caster |
 | 272 | 420 | Quackers |
-| 273 | 420 | rosy |
-| 274 | 420 | Sabrina Hardrick |
+| 273 | 420 | Sabrina Hardrick |
+| 274 | 420 | rosy |
 | 275 | 417 | Giddy Twistbuilder |
 | 276 | 414 | RickyG |
 | 277 | 412 | Jojo M |
@@ -369,7 +369,7 @@
 | 361 | 323 | Mary Giorgenti |
 | 362 | 323 | Jul |
 | 363 | 323 | Jess Bissett |
-| 364 | 323 | Jul |
+| 364 | 322 | Nena Somerville Kelly |
 | 365 | 322 | Beth Smith |
 | 366 | 321 | Wettnippz |
 | 367 | 321 | Fancy Curver |
