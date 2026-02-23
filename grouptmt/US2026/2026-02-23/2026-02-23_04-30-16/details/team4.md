@@ -71,8 +71,8 @@
 | 63 | 776 | Rachel Anne |
 | 64 | 772 | Ashley Ingram |
 | 65 | 767 | Shannon Ferrari |
-| 66 | 766 | Robin Watters |
-| 67 | 766 | Edward White |
+| 66 | 766 | Edward White |
+| 67 | 766 | Robin Watters |
 | 68 | 765 | Denise Carlson |
 | 69 | 765 | Robin Getchel |
 | 70 | 752 | loulou |
@@ -86,8 +86,8 @@
 | 78 | 706 | Lisa Davis |
 | 79 | 703 | Savannah Overdorf |
 | 80 | 697 | Alyssa Papen |
-| 81 | 684 | Kimyatta Cavin |
-| 82 | 684 | Jonathan Kimbrough |
+| 81 | 684 | Jonathan Kimbrough |
+| 82 | 684 | Kimyatta Cavin |
 | 83 | 677 | Trista Leah |
 | 84 | 673 | Jacqueline Helm |
 | 85 | 672 | Shane Kalamata Platoon |
@@ -203,8 +203,8 @@
 | 195 | 309 | Cursed Hag |
 | 196 | 307 | Michele Plunkett |
 | 197 | 306 | blockstar |
-| 198 | 305 | Melvin Baird |
-| 199 | 305 | Cheery Risebuilder |
+| 198 | 305 | Cheery Risebuilder |
+| 199 | 305 | Melvin Baird |
 | 200 | 304 | Mary Ann Pabukis |
 | 201 | 304 | Lindsay Ball |
 | 202 | 301 | Andria Lynn |
@@ -249,8 +249,8 @@
 | 241 | 259 | Allen Lloyd |
 | 242 | 259 | Montiette Mcglown |
 | 243 | 257 | PeaceOs |
-| 244 | 256 | Metsfan |
-| 245 | 256 | Mylo Lipscomb |
+| 244 | 256 | Mylo Lipscomb |
+| 245 | 256 | Metsfan |
 | 246 | 255 | Zethra Prenisha Rahming |
 | 247 | 253 | Autum Leigh |
 | 248 | 252 | John Brunetti |
@@ -334,8 +334,8 @@
 | 326 | 198 | Calvin Dennis |
 | 327 | 196 | Megan Cutshaw |
 | 328 | 196 | Blessedmama |
-| 329 | 194 | SammieJo Guy |
-| 330 | 194 | Zany Twisterfit |
+| 329 | 194 | Zany Twisterfit |
+| 330 | 194 | SammieJo Guy |
 | 331 | 192 | Twisty Risebuilder |
 | 332 | 192 | Meg |
 | 333 | 191 | Earnest Thompson |

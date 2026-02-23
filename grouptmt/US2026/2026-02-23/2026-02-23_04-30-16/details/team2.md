@@ -92,8 +92,8 @@
 | 84 | 2500 | Rosemadder |
 | 85 | 2443 | Melissa Rebbe-Lehman |
 | 86 | 2438 | Rob Surace |
-| 87 | 2428 | Thomas Hughes |
-| 88 | 2428 | Deanna Morton |
+| 87 | 2428 | Deanna Morton |
+| 88 | 2428 | Thomas Hughes |
 | 89 | 2410 | RdRydnHd |
 | 90 | 2400 | Rich Sullivan |
 | 91 | 2375 | Megan Peckham |
@@ -136,8 +136,8 @@
 | 128 | 1769 | Katrina Williams Balmir |
 | 129 | 1749 | Auntie B |
 | 130 | 1728 | Mr. Street Stack |
-| 131 | 1681 | Nett |
-| 132 | 1681 | Shandrica Lowe |
+| 131 | 1681 | Shandrica Lowe |
+| 132 | 1681 | Nett |
 | 133 | 1658 | Liberty |
 | 134 | 1656 | Kristopher Miller |
 | 135 | 1644 | Luna |
@@ -399,8 +399,8 @@
 | 391 | 769 | Kimberly Hope Howell |
 | 392 | 768 | Arkei Luster |
 | 393 | 768 | Joshua Self |
-| 394 | 767 | Fancy Twister |
-| 395 | 767 | Ashley Lopez |
+| 394 | 767 | Ashley Lopez |
+| 395 | 767 | Fancy Twister |
 | 396 | 763 | Dreamy Blast |
 | 397 | 763 | Heather Causey |
 | 398 | 762 | Bee |

@@ -85,8 +85,8 @@
 | 77 | 641 | Cartier |
 | 78 | 612 | Hasbro Bros |
 | 79 | 599 | Cynthia Bradley |
-| 80 | 598 | Kellie |
-| 81 | 598 | Erin Hodges Plumb |
+| 80 | 598 | Erin Hodges Plumb |
+| 81 | 598 | Kellie |
 | 82 | 597 | Evie Khalil |
 | 83 | 588 | Greg Hart |
 | 84 | 584 | Jen Sartain |
@@ -125,8 +125,8 @@
 | 117 | 440 | Stephanie Zahn |
 | 118 | 439 | Dee Perry |
 | 119 | 436 | Tonya Beasley |
-| 120 | 434 | Ty Brown |
-| 121 | 434 | Yvonne Marie |
+| 120 | 434 | Yvonne Marie |
+| 121 | 434 | Ty Brown |
 | 122 | 431 | Chirpy Smasher |
 | 123 | 428 | Ly Phethmany |
 | 124 | 426 | Maria C. Hernandez |
@@ -280,8 +280,8 @@
 | 272 | 229 | Dino |
 | 273 | 228 | Adele Rahman |
 | 274 | 227 | Happy Snapbuild |
-| 275 | 226 | Glitzy Buildsnap |
-| 276 | 226 | Snappy Brickbuilder |
+| 275 | 226 | Snappy Brickbuilder |
+| 276 | 226 | Glitzy Buildsnap |
 | 277 | 224 | Jumpy Rotate |
 | 278 | 223 | Erez Yosef |
 | 279 | 223 | Layzietyme |
@@ -434,8 +434,8 @@
 | 426 | 159 | Krista Young |
 | 427 | 159 | Uhog SF |
 | 428 | 158 | Teddy Alexander |
-| 429 | 158 | Jordan Brooks |
-| 430 | 158 | Marc Abney |
+| 429 | 158 | Marc Abney |
+| 430 | 158 | Jordan Brooks |
 | 431 | 157 | Mel Fab |
 | 432 | 156 | Liliana Pena |
 | 433 | 155 | Irv |

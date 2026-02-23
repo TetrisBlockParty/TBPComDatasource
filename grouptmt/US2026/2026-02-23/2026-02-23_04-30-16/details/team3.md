@@ -195,8 +195,8 @@
 | 187 | 507 | Jim Mathews |
 | 188 | 502 | Snappy Balancer |
 | 189 | 500 | Sherika C. McDaniels |
-| 190 | 496 | Makelini Mausia |
-| 191 | 496 | Loopy Fallmatch |
+| 190 | 496 | Loopy Fallmatch |
+| 191 | 496 | Makelini Mausia |
 | 192 | 494 | FuzzyNavel |
 | 193 | 489 | Poppy Splitter |
 | 194 | 489 | Shannon Matthew Byers |
@@ -234,8 +234,8 @@
 | 226 | 408 | Tiffany Ford |
 | 227 | 404 | Chasity |
 | 228 | 404 | Kristal C Lee |
-| 229 | 403 | Denita Mungro |
-| 230 | 403 | Scott Lindsay |
+| 229 | 403 | Scott Lindsay |
+| 230 | 403 | Denita Mungro |
 | 231 | 399 | Rebecca Funderburk Kirby |
 | 232 | 391 | RickyG |
 | 233 | 391 | Nicole Flippo |
@@ -271,14 +271,14 @@
 | 263 | 357 | Cesar Barraza |
 | 264 | 354 | Kelly |
 | 265 | 353 | Dee Franklin |
-| 266 | 352 | Samantha Lynn |
-| 267 | 352 | Christian Werndl |
+| 266 | 352 | Christian Werndl |
+| 267 | 352 | Samantha Lynn |
 | 268 | 351 | Eon Harris |
 | 269 | 350 | LaShey Thompson |
 | 270 | 349 | Amanda J. Mcneil-Anderson |
 | 271 | 348 | Cyd061769 |
-| 272 | 347 | Tye Stovall |
-| 273 | 347 | Philip Rock |
+| 272 | 347 | Philip Rock |
+| 273 | 347 | Tye Stovall |
 | 274 | 346 | Tamara Deherrera |
 | 275 | 345 | MsBee |
 | 276 | 344 | Roary Danner |
@@ -545,8 +545,8 @@
 | 537 | 187 | Sabrina Mansfield |
 | 538 | 186 | Jack Bo |
 | 539 | 186 | Funky Jumper |
-| 540 | 185 | Morgan Cudo |
-| 541 | 185 | Silver Marchán |
+| 540 | 185 | Silver Marchán |
+| 541 | 185 | Morgan Cudo |
 | 542 | 185 | Breezy Roll |
 | 543 | 184 | Shanon R Jackson |
 | 544 | 184 | Flashy Rumbler |
