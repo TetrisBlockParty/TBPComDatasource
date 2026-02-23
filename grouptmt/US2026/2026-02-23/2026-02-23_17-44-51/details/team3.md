@@ -215,8 +215,8 @@
 | 207 | 560 | FuzzyNavel |
 | 208 | 560 | Juliana Dottore |
 | 209 | 559 | Patti Skiles |
-| 210 | 558 | Bmo |
-| 211 | 558 | Chasity |
+| 210 | 558 | Chasity |
+| 211 | 558 | Bmo |
 | 212 | 549 | Sarah Cowan Burgos |
 | 213 | 548 | Danielle Balcom |
 | 214 | 547 | Staci George Fitzsimmons |
@@ -907,9 +907,9 @@
 | 899 | 155 | Melissa Ponder |
 | 900 | 155 | Katie Bolich |
 | 901 | 155 | TEDDY |
-| 902 | 154 | Tori McCandless |
-| 903 | 154 | Jennifer Evans |
-| 904 | 154 | TI Na |
+| 902 | 154 | Jennifer Evans |
+| 903 | 154 | TI Na |
+| 904 | 154 | Tori McCandless |
 | 905 | 153 | Sassy Align |
 | 906 | 153 | Santana Lantana |
 | 907 | 153 | Shiny Cluster |
@@ -974,7 +974,7 @@
 | 966 | 140 | Jennifer Caputo |
 | 967 | 140 | Lush Risebuilder |
 | 968 | 140 | Anna Fuerstenau |
-| 969 | 140 | Lush Risebuilder |
+| 969 | 140 | Pam Green |
 | 970 | 139 | Preston |
 | 971 | 139 | Schmoo Cat |
 | 972 | 139 | QueenBee |
