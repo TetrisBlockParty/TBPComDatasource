@@ -147,8 +147,8 @@
 | 139 | 472 | Trish |
 | 140 | 465 | Jolly Dashfit |
 | 141 | 462 | Leslie Thomas |
-| 142 | 460 | Cursed Hag |
-| 143 | 460 | Ericca Eldridge |
+| 142 | 460 | Ericca Eldridge |
+| 143 | 460 | Cursed Hag |
 | 144 | 457 | Keith Kelley |
 | 145 | 448 | Kristin Manee |
 | 146 | 442 | ThaEviLJeNiuZ |
@@ -263,8 +263,8 @@
 | 255 | 288 | Brittney Orengo |
 | 256 | 288 | Adam Stephanie Parker |
 | 257 | 286 | KimoKoala |
-| 258 | 284 | Matt Dell'Olio |
-| 259 | 284 | Glitzy Corner |
+| 258 | 284 | Glitzy Corner |
+| 259 | 284 | Matt Dell'Olio |
 | 260 | 282 | Kim Klutz Olson |
 | 261 | 282 | Matt Gooder |
 | 262 | 281 | Laura |
@@ -332,8 +332,8 @@
 | 324 | 237 | Christine Therrien |
 | 325 | 235 | LaDonna LovinmesomeMe Lambert |
 | 326 | 235 | Shainne Brewer |
-| 327 | 234 | Shanon Klair |
-| 328 | 234 | Richard-April Kice |
+| 327 | 234 | Richard-April Kice |
+| 328 | 234 | Shanon Klair |
 | 329 | 234 | Diosa Ebalobo Magsael |
 | 330 | 233 | Joseph Edmonson |
 | 331 | 230 | Chantilly Laace |

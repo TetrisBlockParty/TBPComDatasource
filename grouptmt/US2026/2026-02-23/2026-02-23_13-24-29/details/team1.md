@@ -224,8 +224,8 @@
 | 216 | 342 | Snippy Wipebuilder |
 | 217 | 341 | Nick R Montague |
 | 218 | 337 | Jamise Brown |
-| 219 | 333 | Tyler Hertzog |
-| 220 | 333 | Jennifer Noe Chandler |
+| 219 | 333 | Jennifer Noe Chandler |
+| 220 | 333 | Tyler Hertzog |
 | 221 | 333 | Virginia Gray Floyd |
 | 222 | 332 | Happy Basegrid |
 | 223 | 330 | Keith Mathis |

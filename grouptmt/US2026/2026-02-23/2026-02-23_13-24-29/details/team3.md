@@ -28,8 +28,8 @@
 | 20 | 2769 | Ray Lader |
 | 21 | 2697 | River |
 | 22 | 2387 | Susan Valentino |
-| 23 | 2353 | Tetris Master |
-| 24 | 2353 | Laura Melton |
+| 23 | 2353 | Laura Melton |
+| 24 | 2353 | Tetris Master |
 | 25 | 2319 | mjl574 |
 | 26 | 2311 | Brandon Green |
 | 27 | 2271 | Jeana Gilbert |
@@ -140,8 +140,8 @@
 | 132 | 755 | Raya |
 | 133 | 748 | Adrian Marcel Pate |
 | 134 | 746 | Giddy Drop |
-| 135 | 745 | ren |
-| 136 | 745 | JerseyJess |
+| 135 | 745 | JerseyJess |
+| 136 | 745 | ren |
 | 137 | 744 | Fancy Cascader |
 | 138 | 739 | Daryn Elliott |
 | 139 | 736 | mzcatzy |
@@ -412,8 +412,8 @@
 | 404 | 278 | Rufus Lincoln |
 | 405 | 277 | Krystal Gerstberger |
 | 406 | 277 | Christine Foley |
-| 407 | 277 | Joe-Maggie Mathews |
-| 408 | 277 | Tipsy Zonebuilder |
+| 407 | 277 | Tipsy Zonebuilder |
+| 408 | 277 | Joe-Maggie Mathews |
 | 409 | 276 | Karent524 |
 | 410 | 276 | Mikki Torres |
 | 411 | 276 | BugMansMom |
