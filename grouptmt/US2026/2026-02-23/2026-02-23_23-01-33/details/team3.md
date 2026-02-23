@@ -251,8 +251,8 @@
 | 243 | 541 | Sherry Ogden |
 | 244 | 540 | France Vézina |
 | 245 | 540 | Danielle Allison |
-| 246 | 539 | Betty Bóò |
-| 247 | 539 | Aerian Preston |
+| 246 | 539 | Aerian Preston |
+| 247 | 539 | Betty Bóò |
 | 248 | 537 | Tessina Dewey-Mancino |
 | 249 | 537 | Tamara Deherrera |
 | 250 | 536 | Shannon Matthew Byers |
@@ -360,8 +360,8 @@
 | 352 | 383 | Kirhonda Autmon |
 | 353 | 383 | Nikki White |
 | 354 | 382 | Amanda J. Mcneil-Anderson |
-| 355 | 381 | Christina Spa |
-| 356 | 381 | Tiffany Davie |
+| 355 | 381 | Tiffany Davie |
+| 356 | 381 | Christina Spa |
 | 357 | 381 | gremicx |
 | 358 | 379 | Kelly |
 | 359 | 379 | Kaitie Oliver |

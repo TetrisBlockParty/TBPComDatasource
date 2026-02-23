@@ -36,8 +36,8 @@
 | 28 | 1585 | Jennifer Cates |
 | 29 | 1582 | Joe Smith |
 | 30 | 1527 | Hyp James NObettadanluvarat |
-| 31 | 1520 | Ashley Elizabeth |
-| 32 | 1520 | Lola Adkhambekovna |
+| 31 | 1520 | Lola Adkhambekovna |
+| 32 | 1520 | Ashley Elizabeth |
 | 33 | 1515 | Felicia Lewis |
 | 34 | 1495 | Christina Graham |
 | 35 | 1413 | Trippy Redd |
@@ -267,8 +267,8 @@
 | 259 | 353 | Reesey Enyart |
 | 260 | 349 | Cool Shiftsnap |
 | 261 | 348 | DoodleBug |
-| 262 | 348 | Jamie Jury |
-| 263 | 348 | John Kim |
+| 262 | 348 | John Kim |
+| 263 | 348 | Jamie Jury |
 | 264 | 346 | GATOR |
 | 265 | 345 | Keith Mathis |
 | 266 | 344 | dhardy |
@@ -284,13 +284,13 @@
 | 276 | 336 | Adele Rahman |
 | 277 | 336 | Sarah Roberts |
 | 278 | 335 | Flashy Rotator |
-| 279 | 334 | Tipsy Builder |
-| 280 | 334 | Colleen Pinette |
-| 281 | 333 | Wayne Saunders |
-| 282 | 333 | Rodney Schmerfeld |
+| 279 | 334 | Colleen Pinette |
+| 280 | 334 | Tipsy Builder |
+| 281 | 333 | Rodney Schmerfeld |
+| 282 | 333 | Wayne Saunders |
 | 283 | 332 | Eddie Dillon |
-| 284 | 330 | Rebecca Apley Mielke |
-| 285 | 330 | Jeremy Maubert |
+| 284 | 330 | Jeremy Maubert |
+| 285 | 330 | Rebecca Apley Mielke |
 | 286 | 329 | Marianita Garcia |
 | 287 | 328 | Buttons Stemm |
 | 288 | 325 | Snappy Brickbuilder |

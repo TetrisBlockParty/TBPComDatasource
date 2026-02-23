@@ -62,8 +62,8 @@
 | 54 | 1156 | Goatimus Lombardi |
 | 55 | 1150 | Kimyatta Cavin |
 | 56 | 1106 | Ashley Ingram |
-| 57 | 1082 | Avy Absol |
-| 58 | 1082 | Dion Crommarty |
+| 57 | 1082 | Dion Crommarty |
+| 58 | 1082 | Avy Absol |
 | 59 | 1073 | Dustee Craddock-Harrison |
 | 60 | 1057 | Rachel Anne |
 | 61 | 1049 | Heather Tushner |
@@ -234,8 +234,8 @@
 | 226 | 409 | Antony Dwayne Beasley |
 | 227 | 403 | TinyLegoRose |
 | 228 | 400 | Brickh4us |
-| 229 | 399 | Lindsay Ball |
-| 230 | 399 | Jeff Brian Gates |
+| 229 | 399 | Jeff Brian Gates |
+| 230 | 399 | Lindsay Ball |
 | 231 | 398 | Tyler Terrific |
 | 232 | 394 | Nita Wells |
 | 233 | 390 | Kathy Brookins |
@@ -265,8 +265,8 @@
 | 257 | 365 | Hyper Builder |
 | 258 | 363 | KimoKoala |
 | 259 | 361 | Danielle Kollias |
-| 260 | 360 | Ari Droff |
-| 261 | 360 | James Hurley Jr. |
+| 260 | 360 | James Hurley Jr. |
+| 261 | 360 | Ari Droff |
 | 262 | 358 | Twisty Cascadezone |
 | 263 | 356 | Joeliecea Cobb |
 | 264 | 356 | mike |
@@ -298,9 +298,9 @@
 | 290 | 315 | Vic |
 | 291 | 315 | Heather Bruce |
 | 292 | 314 | Lora |
-| 293 | 313 | Milan Markeisha |
-| 294 | 313 | DonMega |
-| 295 | 313 | Angie Schmidt |
+| 293 | 313 | Angie Schmidt |
+| 294 | 313 | Milan Markeisha |
+| 295 | 313 | DonMega |
 | 296 | 312 | Dihcheese444 |
 | 297 | 311 | Nikki Rae Gordon |
 | 298 | 311 | Shiny Fit |
@@ -472,7 +472,7 @@
 | 464 | 216 | Ryry |
 | 465 | 215 | Tanya Abernathy Jackson |
 | 466 | 215 | Squeezy Pearsall |
-| 467 | 214 | Kelly Adams Carnahan |
+| 467 | 214 | B Renee Desjardin |
 | 468 | 214 | Susan R. Wilson |
 | 469 | 214 | Kelly Adams Carnahan |
 | 470 | 213 | Frank Joseph Epson |
@@ -487,8 +487,8 @@
 | 479 | 208 | Stacy |
 | 480 | 208 | Moonsterix |
 | 481 | 208 | Wacky Blockclear |
-| 482 | 207 | Sam Middleton |
-| 483 | 207 | Jessica Wells |
+| 482 | 207 | Jessica Wells |
+| 483 | 207 | Sam Middleton |
 | 484 | 207 | SammieJo Guy |
 | 485 | 206 | Globofish |
 | 486 | 206 | Grann8 |
@@ -500,8 +500,8 @@
 | 492 | 204 | ChasingZen |
 | 493 | 204 | Gwendolyn Pitcairn |
 | 494 | 203 | Courtney Halleck |
-| 495 | 203 | Sho Nuff |
-| 496 | 203 | Gilles Lanctot |
+| 495 | 203 | Gilles Lanctot |
+| 496 | 203 | Sho Nuff |
 | 497 | 202 | Jennifer Brown |
 | 498 | 201 | Walter Beltran |
 | 499 | 201 | Carla Harris |
