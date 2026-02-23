@@ -116,8 +116,8 @@
 | 108 | 667 | Amy Suckarieh |
 | 109 | 663 | H.R. Block |
 | 110 | 659 | Jamie Gustafson |
-| 111 | 658 | Girl |
-| 112 | 658 | Zippy Gridlock |
+| 111 | 658 | Zippy Gridlock |
+| 112 | 658 | Girl |
 | 113 | 652 | Leslie Nicole |
 | 114 | 649 | Chris Alexinas |
 | 115 | 647 | KM8 |
@@ -216,8 +216,8 @@
 | 208 | 411 | Autumn Kumzi |
 | 209 | 408 | April Rondinone |
 | 210 | 400 | Antony Dwayne Beasley |
-| 211 | 399 | Jeff Brian Gates |
-| 212 | 399 | Lindsay Ball |
+| 211 | 399 | Lindsay Ball |
+| 212 | 399 | Jeff Brian Gates |
 | 213 | 398 | Tyler Terrific |
 | 214 | 394 | Nita Wells |
 | 215 | 389 | Joseph Guthrie |
@@ -229,8 +229,8 @@
 | 221 | 381 | Plucky Patternblock |
 | 222 | 380 | Rio Rocha |
 | 223 | 379 | Backoff Recupe |
-| 224 | 378 | Silly Zonebuilder |
-| 225 | 378 | Lauren Scott |
+| 224 | 378 | Lauren Scott |
+| 225 | 378 | Silly Zonebuilder |
 | 226 | 376 | Zesty Twistbuilder |
 | 227 | 376 | shark tato |
 | 228 | 374 | Mr. Party |
@@ -532,8 +532,8 @@
 | 524 | 176 | Jlmendillo |
 | 525 | 176 | Walid Elsabee |
 | 526 | 176 | @ |
-| 527 | 175 | Lazy Glidepiece |
-| 528 | 175 | Veronica Garza |
+| 527 | 175 | Veronica Garza |
+| 528 | 175 | Lazy Glidepiece |
 | 529 | 173 | Groovy Brickmatch |
 | 530 | 173 | Stacy Jones |
 | 531 | 173 | Joshua Cuellar |

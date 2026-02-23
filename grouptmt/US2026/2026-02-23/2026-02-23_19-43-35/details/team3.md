@@ -161,8 +161,8 @@
 | 153 | 764 | Hasty Cascadefit |
 | 154 | 764 | Groovy Catcher |
 | 155 | 762 | Santeria Trece Candles |
-| 156 | 761 | Peppy Shifter |
-| 157 | 761 | Marcie Bressler |
+| 156 | 761 | Marcie Bressler |
+| 157 | 761 | Peppy Shifter |
 | 158 | 759 | yoyo |
 | 159 | 757 | Fancy Cascader |
 | 160 | 756 | Patty Allen |
@@ -185,8 +185,8 @@
 | 177 | 695 | Samantha Greco |
 | 178 | 690 | Patricia White |
 | 179 | 684 | Nicole Myers |
-| 180 | 675 | Edwin Calvillo Jr. |
-| 181 | 675 | Angela Scott |
+| 180 | 675 | Angela Scott |
+| 181 | 675 | Edwin Calvillo Jr. |
 | 182 | 657 | Chasity |
 | 183 | 655 | Rochelle Hazelett |
 | 184 | 647 | Jennifer Lynn Fahrenholtz-Summers |
@@ -488,8 +488,8 @@
 | 480 | 280 | Amanda Declue |
 | 481 | 280 | Sarah Muradyan |
 | 482 | 279 | Tosha Griffey |
-| 483 | 278 | Rufus Lincoln |
-| 484 | 278 | IamJust Neyamijah Washington Sr. |
+| 483 | 278 | IamJust Neyamijah Washington Sr. |
+| 484 | 278 | Rufus Lincoln |
 | 485 | 277 | Joe-Maggie Mathews |
 | 486 | 277 | Christine Foley |
 | 487 | 277 | Mindy Phelps |
@@ -513,9 +513,9 @@
 | 505 | 269 | Tomoe |
 | 506 | 269 | Aponk |
 | 507 | 268 | Julia Nicole |
-| 508 | 268 | Sabrina Mansfield |
+| 508 | 268 | Wacky Crasher |
 | 509 | 268 | Sarah Mayson |
-| 510 | 268 | Wacky Crasher |
+| 510 | 268 | Sabrina Mansfield |
 | 511 | 268 | Sdot |
 | 512 | 267 | Kellie Montgomery |
 | 513 | 267 | Fredd Thomas |
@@ -1090,7 +1090,7 @@
 | 1082 | 132 | Natalie Augustus |
 | 1083 | 131 | Sol Mik |
 | 1084 | 131 | Sonya Hollingsworth Fischer |
-| 1085 | 130 | Twisty Linebuilder |
+| 1085 | 130 | Ray Venzon Misa |
 | 1086 | 130 | Carla Hoffman |
 | 1087 | 130 | Twisty Linebuilder |
 | 1088 | 129 | Amanda Neal |

@@ -296,8 +296,8 @@
 | 288 | 1184 | Jamie Otero |
 | 289 | 1179 | Georgia Triblett |
 | 290 | 1178 | Dimitra Zazara |
-| 291 | 1172 | Stacey Clement |
-| 292 | 1172 | Lakeysha Dortch |
+| 291 | 1172 | Lakeysha Dortch |
+| 292 | 1172 | Stacey Clement |
 | 293 | 1171 | Loretta Brewer-Gage |
 | 294 | 1165 | Michelle Lee |
 | 295 | 1164 | Sarah Freitas |
@@ -354,8 +354,8 @@
 | 346 | 1041 | Binyah-Binyah |
 | 347 | 1040 | Taylor Phillips |
 | 348 | 1037 | Jessica Wayne Cornwall |
-| 349 | 1036 | Allison Lockyer |
-| 350 | 1036 | Amber Shoemaker |
+| 349 | 1036 | Amber Shoemaker |
+| 350 | 1036 | Allison Lockyer |
 | 351 | 1031 | Barbra Miller |
 | 352 | 1029 | Crystal Hoffman |
 | 353 | 1024 | Susan Perraut Jones |
@@ -378,8 +378,8 @@
 | 370 | 978 | Barry Britt |
 | 371 | 977 | Christina Lewis-Vickers |
 | 372 | 976 | Sam Joe |
-| 373 | 975 | Hyper Cluster |
-| 374 | 975 | Mandi Douglas Hilt |
+| 373 | 975 | Mandi Douglas Hilt |
+| 374 | 975 | Hyper Cluster |
 | 375 | 974 | Boldy Cascadepiece |
 | 376 | 971 | Jojo Momma |
 | 377 | 971 | Tiara Elizabeth Baker |
@@ -455,8 +455,8 @@
 | 447 | 849 | AgileDragon |
 | 448 | 844 | Terri McKelvey McKinley |
 | 449 | 843 | Quirky Twistline |
-| 450 | 840 | Traci Johnson |
-| 451 | 840 | Kiana Boschh |
+| 450 | 840 | Kiana Boschh |
+| 451 | 840 | Traci Johnson |
 | 452 | 838 | Sheronda Jackson |
 | 453 | 838 | Jenn Marie |
 | 454 | 837 | Christine Coughlin |
@@ -574,8 +574,8 @@
 | 566 | 708 | Irene Jones |
 | 567 | 706 | Poldo Ilano |
 | 568 | 704 | Tansaria Couch-Butler |
-| 569 | 703 | Dannette Goldberg-Richards |
-| 570 | 703 | Funky Drop |
+| 569 | 703 | Funky Drop |
+| 570 | 703 | Dannette Goldberg-Richards |
 | 571 | 701 | Aishah Brice |
 | 572 | 700 | Vincent Petrella |
 | 573 | 700 | Lylymom |
