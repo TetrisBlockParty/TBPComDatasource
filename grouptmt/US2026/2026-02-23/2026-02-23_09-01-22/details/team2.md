@@ -268,13 +268,13 @@
 | 260 | 1093 | Real Ri |
 | 261 | 1088 | Brainy Smurf |
 | 262 | 1080 | Tyler C. Jung |
-| 263 | 1079 | Jennifer Kistner |
-| 264 | 1079 | Kimberly Hauck-Rausch |
+| 263 | 1079 | Kimberly Hauck-Rausch |
+| 264 | 1079 | Jennifer Kistner |
 | 265 | 1076 | Alezandra Smith |
 | 266 | 1073 | Jodi Blake |
 | 267 | 1071 | Kim Dean |
-| 268 | 1069 | Carl Bradshaw |
-| 269 | 1069 | Offonar Facey |
+| 268 | 1069 | Offonar Facey |
+| 269 | 1069 | Carl Bradshaw |
 | 270 | 1064 | BK Queen |
 | 271 | 1063 | Caitlin Schmid |
 | 272 | 1058 | Rickey Johnson |
@@ -311,11 +311,11 @@
 | 303 | 976 | Sam Joe |
 | 304 | 976 | Della Hole |
 | 305 | 975 | Hyper Cluster |
-| 306 | 972 | Binyah-Binyah |
-| 307 | 972 | Barbra Miller |
+| 306 | 972 | Barbra Miller |
+| 307 | 972 | Binyah-Binyah |
 | 308 | 971 | Jojo Momma |
-| 309 | 969 | Em Chen |
-| 310 | 969 | Boldy Cascadepiece |
+| 309 | 969 | Boldy Cascadepiece |
+| 310 | 969 | Em Chen |
 | 311 | 961 | Angela Lynn |
 | 312 | 959 | Phil J. Grombliniak |
 | 313 | 958 | Brenda Messer |
@@ -323,8 +323,8 @@
 | 315 | 957 | Block Master |
 | 316 | 955 | Angela Bonquiqui Dinish |
 | 317 | 954 | Melissa McCall |
-| 318 | 951 | Wakanda Forever |
-| 319 | 951 | Cynthia Ward |
+| 318 | 951 | Cynthia Ward |
+| 319 | 951 | Wakanda Forever |
 | 320 | 949 | Steve Man |
 | 321 | 947 | Dedra Steward |
 | 322 | 942 | Cindy Sechler Taninecz |
@@ -669,8 +669,8 @@
 | 661 | 532 | Snappy Faller |
 | 662 | 531 | Maricia Layolla Cason |
 | 663 | 531 | Beth Decker |
-| 664 | 529 | Ganieda |
-| 665 | 529 | Snazzy Basepiece |
+| 664 | 529 | Snazzy Basepiece |
+| 665 | 529 | Ganieda |
 | 666 | 528 | Kyle LeRoy Harris |
 | 667 | 528 | Ha Ab |
 | 668 | 527 | Heather M Purcell |
@@ -937,9 +937,9 @@
 | 929 | 396 | Cassie Newton |
 | 930 | 395 | Treshell Boyd |
 | 931 | 395 | Donald Nowland |
-| 932 | 394 | Snappy Shatterfit |
-| 933 | 394 | Kristina Marie Hanna |
-| 934 | 394 | Nerdy Blockpiece |
+| 932 | 394 | Kristina Marie Hanna |
+| 933 | 394 | Nerdy Blockpiece |
+| 934 | 394 | Snappy Shatterfit |
 | 935 | 393 | Jamie West |
 | 936 | 393 | Bing |
 | 937 | 393 | CC |
@@ -950,8 +950,8 @@
 | 942 | 390 | Karmabunny |
 | 943 | 390 | Monique Foster |
 | 944 | 390 | Smiley Strike |
-| 945 | 390 | Tasia Stinson |
-| 946 | 390 | Kyla Louise |
+| 945 | 390 | Kyla Louise |
+| 946 | 390 | Tasia Stinson |
 | 947 | 389 | Loony Basepiece |
 | 948 | 388 | Alice Ball |
 | 949 | 388 | Tamara Bailey |
@@ -1034,8 +1034,8 @@
 | 1026 | 364 | Chelle Vintson |
 | 1027 | 363 | Tammy Mitchell |
 | 1028 | 363 | Casaundra Little-Abeling |
-| 1029 | 362 | Del Davis |
-| 1030 | 362 | Megan Phillips |
+| 1029 | 362 | Megan Phillips |
+| 1030 | 362 | Del Davis |
 | 1031 | 362 | Dione |
 | 1032 | 361 | Byung Bae Park |
 | 1033 | 361 | Mike73 |

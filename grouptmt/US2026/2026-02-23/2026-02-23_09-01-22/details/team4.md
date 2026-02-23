@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Jonathan Kimbrough |
-| 84 | 684 | Kimyatta Cavin |
+| 83 | 684 | Kimyatta Cavin |
+| 84 | 684 | Jonathan Kimbrough |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | Shauna Havard |
-| 93 | 647 | KM8 |
+| 92 | 647 | KM8 |
+| 93 | 647 | Shauna Havard |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -153,8 +153,8 @@
 | 145 | 422 | Zakia Monae |
 | 146 | 421 | JIGsaw ~(•¿°)~ |
 | 147 | 421 | Kesha Brady |
-| 148 | 418 | Lush Linkfall |
-| 149 | 418 | Marie-Pier Desjardins |
+| 148 | 418 | Marie-Pier Desjardins |
+| 149 | 418 | Lush Linkfall |
 | 150 | 416 | Chaz Duncan |
 | 151 | 414 | Swanky Fitline |
 | 152 | 414 | Nope Young |
@@ -240,8 +240,8 @@
 | 232 | 286 | Steph Marie |
 | 233 | 285 | 030Synner |
 | 234 | 284 | Mimi |
-| 235 | 282 | Matt Gooder |
-| 236 | 282 | Kim Klutz Olson |
+| 235 | 282 | Kim Klutz Olson |
+| 236 | 282 | Matt Gooder |
 | 237 | 281 | Laura |
 | 238 | 280 | Rio Rocha |
 | 239 | 279 | Malakai Darien Fox |
@@ -370,8 +370,8 @@
 | 362 | 190 | wombat |
 | 363 | 190 | Hyper Builder |
 | 364 | 189 | Cool Towerbuilder |
-| 365 | 189 | Lauren Lamb |
-| 366 | 189 | Berklie Apedaile |
+| 365 | 189 | Berklie Apedaile |
+| 366 | 189 | Lauren Lamb |
 | 367 | 188 | Sharyn Lemire |
 | 368 | 187 | Cozy Balancer |
 | 369 | 187 | Jenny Wells-Oakley |
@@ -448,8 +448,8 @@
 | 440 | 163 | Linda Alexander Downing |
 | 441 | 163 | Sticherella |
 | 442 | 163 | Jarred Falls |
-| 443 | 163 | Ashlee Carnes |
-| 444 | 163 | Linda Alexander Downing |
+| 443 | 163 | Cool Gridzone |
+| 444 | 163 | Ashlee Carnes |
 | 445 | 163 | Cheaneen Livingston |
 | 446 | 162 | conceptCollector |
 | 447 | 162 | Empress Oasis |
@@ -789,8 +789,8 @@
 | 781 | 88 | Dan Wold |
 | 782 | 87 | Jason Punch |
 | 783 | 87 | Kat |
-| 784 | 87 | Derek Pendarvis |
-| 785 | 87 | GTxIrishman |
+| 784 | 87 | GTxIrishman |
+| 785 | 87 | Derek Pendarvis |
 | 786 | 87 | b |
 | 787 | 86 | Bigg Guy |
 | 788 | 85 | Savannah Roughton Jones |

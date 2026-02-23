@@ -114,8 +114,8 @@
 | 106 | 869 | Araceli Parra |
 | 107 | 868 | Sarajane Lokan |
 | 108 | 860 | Sunny Rotater |
-| 109 | 851 | Jd Morris |
-| 110 | 851 | Danielle Becker |
+| 109 | 851 | Danielle Becker |
+| 110 | 851 | Jd Morris |
 | 111 | 850 | Danielle Mogg |
 | 112 | 848 | Patricia Gadsden |
 | 113 | 831 | Angeline Joseph |
@@ -130,8 +130,8 @@
 | 122 | 769 | Kristie |
 | 123 | 764 | Groovy Catcher |
 | 124 | 762 | Speedy Bridger |
-| 125 | 755 | Katrina Schroeder |
-| 126 | 755 | Raya |
+| 125 | 755 | Raya |
+| 126 | 755 | Katrina Schroeder |
 | 127 | 752 | Logan Naccarato |
 | 128 | 748 | Adrian Marcel Pate |
 | 129 | 745 | JerseyJess |
@@ -177,8 +177,8 @@
 | 169 | 591 | Michael Nowogorski |
 | 170 | 588 | Justin Ritter |
 | 171 | 587 | Louise Stacy Sisson |
-| 172 | 585 | Happy Tetriblast |
-| 173 | 585 | Annie Marie |
+| 172 | 585 | Annie Marie |
+| 173 | 585 | Happy Tetriblast |
 | 174 | 583 | Tasha Gillespie |
 | 175 | 582 | Natasha Jones |
 | 176 | 577 | Domo Washington |
@@ -218,8 +218,8 @@
 | 210 | 480 | Michael Johnson |
 | 211 | 477 | Edwin Calvillo Jr. |
 | 212 | 475 | Tessina Dewey-Mancino |
-| 213 | 473 | Connie Mohler-Fair |
-| 214 | 473 | Rachel |
+| 213 | 473 | Rachel |
+| 214 | 473 | Connie Mohler-Fair |
 | 215 | 471 | Mendoza Lee Christy |
 | 216 | 470 | Trisha Balmer |
 | 217 | 467 | Sherry Ogden |
@@ -244,8 +244,8 @@
 | 236 | 414 | Fran Lin |
 | 237 | 413 | Micayah Stevens |
 | 238 | 410 | Stephanie Simpson |
-| 239 | 410 | Duane Bright |
-| 240 | 410 | Sabrina Hardrick |
+| 239 | 410 | Sabrina Hardrick |
+| 240 | 410 | Duane Bright |
 | 241 | 408 | Tiffany Ford |
 | 242 | 406 | Kristal C Lee |
 | 243 | 404 | Chasity |
@@ -254,8 +254,8 @@
 | 246 | 399 | Marci Mize Fandrich |
 | 247 | 396 | Randy Clevenger |
 | 248 | 395 | rosy |
-| 249 | 391 | RickyG |
-| 250 | 391 | Nicole Flippo |
+| 249 | 391 | Nicole Flippo |
+| 250 | 391 | RickyG |
 | 251 | 387 | Gideon Walker |
 | 252 | 384 | Noyb Adam |
 | 253 | 383 | Darlene McMillan |
@@ -333,8 +333,8 @@
 | 325 | 311 | Troy |
 | 326 | 309 | Desiree Gold |
 | 327 | 309 | Cheeky Snapper |
-| 328 | 308 | Katrina Turner |
-| 329 | 308 | Tia |
+| 328 | 308 | Tia |
+| 329 | 308 | Katrina Turner |
 | 330 | 305 | Hyper Matchzone |
 | 331 | 304 | _melisa223_ |
 | 332 | 303 | Alexmac |
@@ -444,7 +444,7 @@
 | 436 | 243 | Nicholas Roddy |
 | 437 | 242 | Michael Latasha Gray |
 | 438 | 242 | Fancy Curver |
-| 439 | 242 | Michael Latasha Gray |
+| 439 | 242 | Joy Petroski |
 | 440 | 242 | Katheline Lazo Luizaga |
 | 441 | 241 | Skinny Baldez |
 | 442 | 240 | Ashley Lynn Marchese |
@@ -492,8 +492,8 @@
 | 484 | 221 | Glitzy Rotate |
 | 485 | 221 | Vaners |
 | 486 | 220 | Bhreagh Gentile |
-| 487 | 219 | TLM |
-| 488 | 219 | Trice Thomas |
+| 487 | 219 | Trice Thomas |
+| 488 | 219 | TLM |
 | 489 | 218 | Sabrina Mansfield |
 | 490 | 218 | Dapper Chiseler |
 | 491 | 218 | Tina Smith Roy |
@@ -558,11 +558,11 @@
 | 550 | 197 | Johnny Berlin |
 | 551 | 197 | Giggy Glidepiece |
 | 552 | 196 | Eboni Starr |
-| 553 | 196 | Joshua David Huie |
-| 554 | 196 | Weerae |
+| 553 | 196 | Weerae |
+| 554 | 196 | Joshua David Huie |
 | 555 | 195 | Carrie Resler |
-| 556 | 195 | Nicha Hooker |
-| 557 | 195 | toony |
+| 556 | 195 | toony |
+| 557 | 195 | Nicha Hooker |
 | 558 | 194 | Shicken Nuggit |
 | 559 | 193 | Clever Shiftsnap |
 | 560 | 193 | Bryan Byrd |
