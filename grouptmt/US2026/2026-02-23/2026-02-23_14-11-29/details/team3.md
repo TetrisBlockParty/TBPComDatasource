@@ -256,8 +256,8 @@
 | 248 | 431 | Wendy Dearden |
 | 249 | 430 | Jeni Dow |
 | 250 | 429 | Carrie Huskey |
-| 251 | 428 | Randy Clevenger |
-| 252 | 428 | Sleepy |
+| 251 | 428 | Sleepy |
+| 252 | 428 | Randy Clevenger |
 | 253 | 425 | Nicole Flippo |
 | 254 | 424 | Cesar Barraza |
 | 255 | 422 | BugMansMom |
@@ -537,8 +537,8 @@
 | 529 | 221 | Glitzy Rotate |
 | 530 | 221 | Vaners |
 | 531 | 221 | Christen Cannon Layhew |
-| 532 | 221 | Bleu Sun Beams |
-| 533 | 221 | Spicy Cascadepiece |
+| 532 | 221 | Spicy Cascadepiece |
+| 533 | 221 | Bleu Sun Beams |
 | 534 | 220 | Bhreagh Gentile |
 | 535 | 220 | Sarah Tschee |
 | 536 | 219 | Viking |
