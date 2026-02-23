@@ -139,8 +139,8 @@
 | 131 | 774 | Keith J Oshman Jr. |
 | 132 | 773 | Daira Largen |
 | 133 | 770 | Daryn Elliott |
-| 134 | 764 | Hasty Cascadefit |
-| 135 | 764 | Groovy Catcher |
+| 134 | 764 | Groovy Catcher |
+| 135 | 764 | Hasty Cascadefit |
 | 136 | 762 | Speedy Bridger |
 | 137 | 757 | Fancy Cascader |
 | 138 | 756 | Patty Allen |
@@ -501,7 +501,7 @@
 | 493 | 250 | Emma |
 | 494 | 249 | Maggie |
 | 495 | 248 | Smiley Zone |
-| 496 | 247 | Linda Draper |
+| 496 | 247 | Jessica |
 | 497 | 247 | Kevin Russell |
 | 498 | 247 | Linda Draper |
 | 499 | 246 | Crystal Hine |

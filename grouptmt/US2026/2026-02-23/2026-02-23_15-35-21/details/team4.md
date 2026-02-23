@@ -260,8 +260,8 @@
 | 252 | 306 | mike |
 | 253 | 305 | Melvin Baird |
 | 254 | 304 | Gdiguy |
-| 255 | 304 | Joanna |
-| 256 | 304 | Shiny Fit |
+| 255 | 304 | Shiny Fit |
+| 256 | 304 | Joanna |
 | 257 | 303 | blasterB |
 | 258 | 301 | Stella |
 | 259 | 300 | Dana Scott |
@@ -290,7 +290,7 @@
 | 282 | 278 | Sarah Brown |
 | 283 | 276 | Susan Williams |
 | 284 | 276 | Cynthia Boudreau |
-| 285 | 276 | Susan Williams |
+| 285 | 276 | Lee Silpe |
 | 286 | 275 | Kimberlee Jan Beckstead |
 | 287 | 274 | Patron Anderson |
 | 288 | 272 | Dennis Bradley |
@@ -492,8 +492,8 @@
 | 484 | 170 | Peppy Drop |
 | 485 | 170 | Elie Pean |
 | 486 | 170 | Joshua W. Benton |
-| 487 | 169 | Joseph Pace |
-| 488 | 169 | Dante Korleon |
+| 487 | 169 | Dante Korleon |
+| 488 | 169 | Joseph Pace |
 | 489 | 168 | Derick |
 | 490 | 167 | Carla Harris |
 | 491 | 167 | Snippy Clearer |

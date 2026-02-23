@@ -195,8 +195,8 @@
 | 187 | 1532 | Dee |
 | 188 | 1511 | Rosa Franklin |
 | 189 | 1511 | Melissa Penelope Ann Dodge |
-| 190 | 1509 | Howard Forest |
-| 191 | 1509 | Whitney Nicole Waterman |
+| 190 | 1509 | Whitney Nicole Waterman |
+| 191 | 1509 | Howard Forest |
 | 192 | 1507 | Kiok |
 | 193 | 1504 | Hannah Erskine |
 | 194 | 1504 | Tony Lea |
@@ -367,8 +367,8 @@
 | 359 | 937 | Andrew Willis |
 | 360 | 937 | Jessica Wayne Cornwall |
 | 361 | 934 | Mighty Shatterfit |
-| 362 | 933 | Nicole Cannon |
-| 363 | 933 | Bee |
+| 362 | 933 | Bee |
+| 363 | 933 | Nicole Cannon |
 | 364 | 931 | Sinistah42o |
 | 365 | 929 | Ellie Jonas |
 | 366 | 928 | Elizabeth Wilbanks |
@@ -387,8 +387,8 @@
 | 379 | 903 | Giggy Blocker |
 | 380 | 902 | Diallo Sparkman |
 | 381 | 899 | Felicia Lynn |
-| 382 | 899 | Chevy |
-| 383 | 899 | Patrick Bartlett |
+| 382 | 899 | Patrick Bartlett |
+| 383 | 899 | Chevy |
 | 384 | 898 | Donna M Carter |
 | 385 | 895 | Donna Colby |
 | 386 | 895 | Lisa Ongtowasruk |
@@ -641,17 +641,17 @@
 | 633 | 602 | Jason H Baker |
 | 634 | 601 | Daniel Amos |
 | 635 | 600 | Nicole Cox |
-| 636 | 597 | TJ Nash |
+| 636 | 597 | Harrison Littrell |
 | 637 | 597 | Jamie Schmitt |
-| 638 | 597 | Harrison Littrell |
+| 638 | 597 | TJ Nash |
 | 639 | 596 | Davetta Sanford |
 | 640 | 595 | Ha Ab |
 | 641 | 594 | Laura Mclean |
 | 642 | 593 | Shannon Jackson |
 | 643 | 592 | Sheronda Jackson |
 | 644 | 592 | Melissa Kay Gibson |
-| 645 | 591 | Ebony Deloach Bryant |
-| 646 | 591 | Jessica Lamb |
+| 645 | 591 | Jessica Lamb |
+| 646 | 591 | Ebony Deloach Bryant |
 | 647 | 590 | Maddy Petersen |
 | 648 | 589 | Thomas Hedrick |
 | 649 | 589 | Kelly Templeton |

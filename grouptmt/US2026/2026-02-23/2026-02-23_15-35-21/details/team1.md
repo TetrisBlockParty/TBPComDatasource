@@ -149,8 +149,8 @@
 | 141 | 456 | Dee Perry |
 | 142 | 454 | Desiree Deschaine Havee |
 | 143 | 453 | Brandi Huntington |
-| 144 | 451 | Plucky Ziggy |
-| 145 | 451 | ALFD |
+| 144 | 451 | ALFD |
+| 145 | 451 | Plucky Ziggy |
 | 146 | 450 | lil mickey |
 | 147 | 448 | Jazzy Framezone |
 | 148 | 448 | Sweet Baker |
@@ -254,8 +254,8 @@
 | 246 | 314 | Daring Fitclear |
 | 247 | 313 | Sylvia Vasquez |
 | 248 | 313 | Cody Gates |
-| 249 | 312 | Zany Tiler |
-| 250 | 312 | Mitchel White |
+| 249 | 312 | Mitchel White |
+| 250 | 312 | Zany Tiler |
 | 251 | 311 | Nathan Sealander |
 | 252 | 311 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 253 | 310 | Christina Norman |
@@ -363,17 +363,17 @@
 | 355 | 236 | Snappy Bridgepiece |
 | 356 | 235 | Ariel Whittington |
 | 357 | 234 | Brandie Gallegos |
-| 358 | 233 | Cheeky Crusher |
-| 359 | 233 | Melissa Bires Hussar |
+| 358 | 233 | Melissa Bires Hussar |
+| 359 | 233 | Shiny Gridmatch |
 | 360 | 233 | Tipsy Riseclear |
-| 361 | 233 | Shiny Gridmatch |
+| 361 | 233 | Cheeky Crusher |
 | 362 | 232 | Jennifer Olewnik Soborowski |
 | 363 | 232 | Thorne Shumate |
 | 364 | 231 | Norma Paredez |
 | 365 | 230 | Panda Thagreat |
 | 366 | 230 | Jessica Russell |
-| 367 | 229 | Jumpy Rotate |
-| 368 | 229 | Ed Franz Jr |
+| 367 | 229 | Ed Franz Jr |
+| 368 | 229 | Jumpy Rotate |
 | 369 | 227 | Happy Snapbuild |
 | 370 | 226 | Snappy Brickbuilder |
 | 371 | 225 | Mel Hogan |
