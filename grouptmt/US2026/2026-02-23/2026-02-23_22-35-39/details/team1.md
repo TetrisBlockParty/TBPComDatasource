@@ -103,8 +103,8 @@
 | 95 | 742 | Susanna Guerry |
 | 96 | 740 | Lori Sanders- Davis |
 | 97 | 722 | Kellie |
-| 98 | 706 | Denice Dee |
-| 99 | 706 | Plucky Fallzone |
+| 98 | 706 | Plucky Fallzone |
+| 99 | 706 | Denice Dee |
 | 100 | 704 | Karin Gillen |
 | 101 | 703 | Angel Fowler |
 | 102 | 679 | Melissa Lemmon |
@@ -164,8 +164,8 @@
 | 156 | 495 | Adrian Esteban |
 | 157 | 494 | Sean Stallings |
 | 158 | 492 | Rebekah LeiAnn Bonsell |
-| 159 | 491 | cc |
-| 160 | 491 | Michelle Beres |
+| 159 | 491 | Michelle Beres |
+| 160 | 491 | cc |
 | 161 | 488 | Hyper |
 | 162 | 483 | Trina Gee |
 | 163 | 483 | Dandy Basegrid |

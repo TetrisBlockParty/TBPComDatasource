@@ -210,8 +210,8 @@
 | 202 | 440 | Mr. Party |
 | 203 | 438 | Melvin Baird |
 | 204 | 438 | Jen Mattei |
-| 205 | 434 | 🥔🥔 Spudz |
-| 206 | 434 | Ramel Rhodes |
+| 205 | 434 | Ramel Rhodes |
+| 206 | 434 | 🥔🥔 Spudz |
 | 207 | 433 | Circuit8 |
 | 208 | 428 | Crystal Nicolette Moore |
 | 209 | 427 | Steph Marie |
@@ -324,8 +324,8 @@
 | 316 | 291 | Dizzy Matchzone |
 | 317 | 291 | ZeeZee |
 | 318 | 291 | Brittney Orengo |
-| 319 | 290 | Jared Gutwein |
-| 320 | 290 | Neirrah B Olailjeel |
+| 319 | 290 | Neirrah B Olailjeel |
+| 320 | 290 | Jared Gutwein |
 | 321 | 289 | Juls |
 | 322 | 289 | Lazy Glidepiece |
 | 323 | 289 | Deb Rubeck |
@@ -353,11 +353,11 @@
 | 345 | 276 | Lee Silpe |
 | 346 | 275 | meowmew |
 | 347 | 274 | Jenna McGeorge |
-| 348 | 272 | Dennis Bradley |
-| 349 | 272 | Tony Pavelka |
+| 348 | 272 | Tony Pavelka |
+| 349 | 272 | Dennis Bradley |
 | 350 | 271 | Holly |
-| 351 | 270 | 23 |
-| 352 | 270 | 07VHVW |
+| 351 | 270 | 07VHVW |
+| 352 | 270 | 23 |
 | 353 | 269 | Chummy Towerzone |
 | 354 | 268 | Riverdale |
 | 355 | 268 | Shukee Lo |

@@ -305,8 +305,8 @@
 | 297 | 455 | Megan Rathmanner |
 | 298 | 451 | Charles Perrone |
 | 299 | 450 | Antonia Russell |
-| 300 | 449 | Stefanie LaPointe |
-| 301 | 449 | Mcathen |
+| 300 | 449 | Mcathen |
+| 301 | 449 | Stefanie LaPointe |
 | 302 | 448 | Scott Carleton |
 | 303 | 443 | Randy Clevenger |
 | 304 | 437 | Loopy Clusterer |
@@ -315,8 +315,8 @@
 | 307 | 433 | Skippy |
 | 308 | 432 | Luciana Braganca Vieira |
 | 309 | 431 | Wendy Dearden |
-| 310 | 430 | Quackers |
-| 311 | 430 | Jeni Dow |
+| 310 | 430 | Jeni Dow |
+| 311 | 430 | Quackers |
 | 312 | 430 | Jennifer Alvey |
 | 313 | 429 | Carrie Huskey |
 | 314 | 428 | Samantha Lynn |
@@ -635,8 +635,8 @@
 | 627 | 241 | Jill Stickney |
 | 628 | 241 | David Bardo |
 | 629 | 240 | JustGiGi |
-| 630 | 240 | Alexi Pryor |
-| 631 | 240 | Bambi Jones |
+| 630 | 240 | Bambi Jones |
+| 631 | 240 | Alexi Pryor |
 | 632 | 239 | Martin Bernier |
 | 633 | 238 | Serena Jarrell |
 | 634 | 238 | Jess Dearborn |
