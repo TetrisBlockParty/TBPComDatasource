@@ -81,8 +81,8 @@
 | 73 | 1252 | Gracie |
 | 74 | 1244 | Lori Barnaby |
 | 75 | 1221 | Betty Ivy |
-| 76 | 1213 | Nerdy Riseclear |
-| 77 | 1213 | Snappy Glidepiece |
+| 76 | 1213 | Snappy Glidepiece |
+| 77 | 1213 | Nerdy Riseclear |
 | 78 | 1209 | Amanda Adkins |
 | 79 | 1186 | Christian A. Pollard |
 | 80 | 1134 | Denise Nardoni |
@@ -133,8 +133,8 @@
 | 125 | 779 | Justin Ritter |
 | 126 | 774 | Keith J Oshman Jr. |
 | 127 | 773 | Daira Largen |
-| 128 | 764 | Hasty Cascadefit |
-| 129 | 764 | Groovy Catcher |
+| 128 | 764 | Groovy Catcher |
+| 129 | 764 | Hasty Cascadefit |
 | 130 | 762 | Speedy Bridger |
 | 131 | 757 | Fancy Cascader |
 | 132 | 755 | Katrina Schroeder |
@@ -192,8 +192,8 @@
 | 184 | 574 | Morgan Martinez |
 | 185 | 568 | Rachael McClain Owens |
 | 186 | 566 | LaTanya GeminiondaRise Johnson |
-| 187 | 564 | Poppy Splitter |
-| 188 | 564 | Christine Trester |
+| 187 | 564 | Christine Trester |
+| 188 | 564 | Poppy Splitter |
 | 189 | 563 | Jim Mathews |
 | 190 | 562 | Dave Herzog |
 | 191 | 561 | Elissa S-k |
@@ -201,9 +201,9 @@
 | 193 | 549 | Sarah Cowan Burgos |
 | 194 | 548 | Danielle Balcom |
 | 195 | 547 | Staci George Fitzsimmons |
-| 196 | 546 | Cynthia Castros-Hampton |
+| 196 | 546 | Tasha Schriewer |
 | 197 | 546 | Mykal Burton |
-| 198 | 546 | Tasha Schriewer |
+| 198 | 546 | Cynthia Castros-Hampton |
 | 199 | 540 | Shawn Miller |
 | 200 | 533 | Rania Zaqout |
 | 201 | 531 | Chauntee Alfrey-Cardinale |
@@ -255,8 +255,8 @@
 | 247 | 431 | Wendy Dearden |
 | 248 | 430 | Jeni Dow |
 | 249 | 429 | Carrie Huskey |
-| 250 | 428 | Randy Clevenger |
-| 251 | 428 | Sleepy |
+| 250 | 428 | Sleepy |
+| 251 | 428 | Randy Clevenger |
 | 252 | 421 | Nicole Flippo |
 | 253 | 421 | Snazzy Filler |
 | 254 | 421 | Chummy Caster |

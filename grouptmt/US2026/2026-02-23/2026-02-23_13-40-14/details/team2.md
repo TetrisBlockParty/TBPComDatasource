@@ -386,12 +386,12 @@
 | 378 | 878 | Sinistah42o |
 | 379 | 876 | Brenda Utphall |
 | 380 | 872 | Ashle Scranton |
-| 381 | 869 | Venita Ray |
-| 382 | 869 | BYM4L |
+| 381 | 869 | BYM4L |
+| 382 | 869 | Venita Ray |
 | 383 | 862 | Sarah Massey |
 | 384 | 858 | Lauren Fitzgerald Thomas |
-| 385 | 856 | Mighty Shatterfit |
-| 386 | 856 | Jelly |
+| 385 | 856 | Jelly |
+| 386 | 856 | Mighty Shatterfit |
 | 387 | 853 | Mandi Douglas Hilt |
 | 388 | 853 | Meghan M |
 | 389 | 851 | Johnny Yeates |
@@ -413,8 +413,8 @@
 | 405 | 828 | Desire Rice |
 | 406 | 828 | Kimmy Newman |
 | 407 | 825 | Jeremy Parodi |
-| 408 | 824 | Danielle Johnson-Chandler |
-| 409 | 824 | Khalil Lowe |
+| 408 | 824 | Khalil Lowe |
+| 409 | 824 | Danielle Johnson-Chandler |
 | 410 | 822 | Lola Contreras |
 | 411 | 819 | Victoria Regina Girolami |
 | 412 | 816 | Beth |
@@ -664,8 +664,8 @@
 | 656 | 570 | Polly Pritchard Chesler |
 | 657 | 569 | Sparkles |
 | 658 | 566 | Lindsey Leigh |
-| 659 | 566 | SwampRebel |
-| 660 | 566 | Tina Marie |
+| 659 | 566 | Tina Marie |
+| 660 | 566 | SwampRebel |
 | 661 | 564 | Stacey Tranchida |
 | 662 | 563 | Frisky Clearpiece |
 | 663 | 563 | Nat |
@@ -686,15 +686,15 @@
 | 678 | 551 | Matt Johnson |
 | 679 | 550 | Michelle Sager |
 | 680 | 550 | Shorty |
-| 681 | 549 | Kaylee McCafferty |
-| 682 | 549 | Crystal Hodge Love |
+| 681 | 549 | Crystal Hodge Love |
+| 682 | 549 | Kaylee McCafferty |
 | 683 | 548 | Sunshine711 |
 | 684 | 547 | CC |
-| 685 | 547 | Sonya Back |
-| 686 | 547 | Hunter Connors |
+| 685 | 547 | Hunter Connors |
+| 686 | 547 | Sonya Back |
 | 687 | 546 | NanDa Cruzan VI |
-| 688 | 545 | Maxwell Escalera |
-| 689 | 545 | Angela Yantz |
+| 688 | 545 | Angela Yantz |
+| 689 | 545 | Maxwell Escalera |
 | 690 | 544 | Deidre Shaffer |
 | 691 | 544 | Armonie Smith |
 | 692 | 542 | Jarboe |

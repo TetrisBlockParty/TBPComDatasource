@@ -49,8 +49,8 @@
 | 41 | 1121 | Isabel Aguilar |
 | 42 | 1100 | Landon Keith Graffeo |
 | 43 | 1085 | Kimyatta Cavin |
-| 44 | 1082 | Dawn Alexander |
-| 45 | 1082 | Dion Crommarty |
+| 44 | 1082 | Dion Crommarty |
+| 45 | 1082 | Dawn Alexander |
 | 46 | 1071 | Cherrish Duren |
 | 47 | 1065 | Koshin Abdirahman |
 | 48 | 1051 | Ashley Ingram |
@@ -67,8 +67,8 @@
 | 59 | 872 | Shelly Chandler |
 | 60 | 871 | Pee |
 | 61 | 870 | BertMofo |
-| 62 | 846 | Lucille Truesdale |
-| 63 | 846 | Christine Marie |
+| 62 | 846 | Christine Marie |
+| 63 | 846 | Lucille Truesdale |
 | 64 | 834 | quicksand420 |
 | 65 | 827 | Avy Absol |
 | 66 | 807 | Amelpss |
@@ -218,8 +218,8 @@
 | 210 | 337 | Sam Bishop |
 | 211 | 336 | JPW |
 | 212 | 334 | June Hoffman |
-| 213 | 333 | Chris Alexinas |
-| 214 | 333 | Cranky Rollpiece |
+| 213 | 333 | Cranky Rollpiece |
+| 214 | 333 | Chris Alexinas |
 | 215 | 332 | HastyGrabber |
 | 216 | 331 | Lauren Scott |
 | 217 | 331 | Alan George LaRage |
@@ -260,8 +260,8 @@
 | 252 | 290 | Rebecca Morris |
 | 253 | 290 | Jared Gutwein |
 | 254 | 289 | Juls |
-| 255 | 288 | Brittney Orengo |
-| 256 | 288 | Adam Stephanie Parker |
+| 255 | 288 | Adam Stephanie Parker |
+| 256 | 288 | Brittney Orengo |
 | 257 | 286 | KimoKoala |
 | 258 | 285 | Kim Klutz Olson |
 | 259 | 285 | Shiny Fit |
@@ -302,9 +302,9 @@
 | 294 | 259 | Montiette Mcglown |
 | 295 | 259 | Allen Lloyd |
 | 296 | 257 | PeaceOs |
-| 297 | 256 | Brittany Marsh |
+| 297 | 256 | Jade Rian |
 | 298 | 256 | Paige Kittles |
-| 299 | 256 | Jade Rian |
+| 299 | 256 | Brittany Marsh |
 | 300 | 254 | Ari Droff |
 | 301 | 253 | Cool Buildout |
 | 302 | 253 | Autum Leigh |
@@ -408,8 +408,8 @@
 | 400 | 193 | Jennifer Brown |
 | 401 | 192 | Twisty Risebuilder |
 | 402 | 192 | Meg |
-| 403 | 191 | Riverdale |
-| 404 | 191 | Earnest Thompson |
+| 403 | 191 | Earnest Thompson |
+| 404 | 191 | Riverdale |
 | 405 | 191 | Norman Klick |
 | 406 | 190 | wombat |
 | 407 | 189 | Duck |
