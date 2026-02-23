@@ -232,9 +232,9 @@
 | 224 | 524 | Shannon Matthew Byers |
 | 225 | 516 | Daring Brickzone |
 | 226 | 515 | Cozy Snaplink |
-| 227 | 513 | Twisty Brick LT |
-| 228 | 513 | kacihall |
-| 229 | 513 | Lizabeth Fox |
+| 227 | 513 | Lizabeth Fox |
+| 228 | 513 | Twisty Brick LT |
+| 229 | 513 | kacihall |
 | 230 | 512 | FuzzyNavel |
 | 231 | 508 | joz |
 | 232 | 508 | Fran Lin |

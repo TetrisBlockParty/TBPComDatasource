@@ -53,8 +53,8 @@
 | 45 | 1116 | Koshin Abdirahman |
 | 46 | 1093 | Ashley Ingram |
 | 47 | 1085 | Kimyatta Cavin |
-| 48 | 1082 | Dawn Alexander |
-| 49 | 1082 | Dion Crommarty |
+| 48 | 1082 | Dion Crommarty |
+| 49 | 1082 | Dawn Alexander |
 | 50 | 1071 | Cherrish Duren |
 | 51 | 1049 | Heather Tushner |
 | 52 | 1046 | Johnathan Martinez |
@@ -267,8 +267,8 @@
 | 259 | 308 | Leah Kutz Zirbel |
 | 260 | 307 | Cheery Risebuilder |
 | 261 | 307 | Michele Plunkett |
-| 262 | 307 | Angie Schmidt |
-| 263 | 307 | Tina Lopez |
+| 262 | 307 | Tina Lopez |
+| 263 | 307 | Angie Schmidt |
 | 264 | 306 | mike |
 | 265 | 304 | Joanna |
 | 266 | 304 | Shiny Fit |
@@ -706,8 +706,8 @@
 | 698 | 114 | Bigmamatetrisqueen |
 | 699 | 114 | Tiffany Tran |
 | 700 | 114 | Eminem |
-| 701 | 113 | Abigail Murphy |
-| 702 | 113 | Michael Snow |
+| 701 | 113 | Michael Snow |
+| 702 | 113 | Abigail Murphy |
 | 703 | 113 | Hog Crankin |
 | 704 | 112 | Ninaforever |
 | 705 | 112 | RogueRebel |

@@ -46,9 +46,9 @@
 | 38 | 1147 | Amanda Summey Schoemer |
 | 39 | 1128 | june october |
 | 40 | 1126 | Tater |
-| 41 | 1114 | Andrea Dañielle Ortiz |
-| 42 | 1114 | Jayme Sellers |
-| 43 | 1114 | Marianne Louise West |
+| 41 | 1114 | Jayme Sellers |
+| 42 | 1114 | Marianne Louise West |
+| 43 | 1114 | Andrea Dañielle Ortiz |
 | 44 | 1112 | Chipper Gridlock |
 | 45 | 1100 | Derek MF Blakey |
 | 46 | 1092 | Tipsy Column |
@@ -171,11 +171,11 @@
 | 163 | 426 | Maria C. Hernandez |
 | 164 | 425 | Tyler Werts |
 | 165 | 419 | Christy Jones |
-| 166 | 417 | Phu ckalldems |
-| 167 | 417 | Jessie Lynn |
+| 166 | 417 | Jessie Lynn |
+| 167 | 417 | Phu ckalldems |
 | 168 | 416 | Jessica Sheehan |
-| 169 | 415 | Kimberly Garcia |
-| 170 | 415 | Jennifer Hardman |
+| 169 | 415 | Jennifer Hardman |
+| 170 | 415 | Kimberly Garcia |
 | 171 | 412 | Amanda Jarnagin |
 | 172 | 412 | David Miller |
 | 173 | 411 | Emily Adelaide Wheatley |
@@ -418,9 +418,9 @@
 | 410 | 216 | Terri Rodela |
 | 411 | 215 | Quirky Pusher |
 | 412 | 214 | Kayla Marie Stevenson |
-| 413 | 213 | John Barron |
-| 414 | 213 | Divaaa |
-| 415 | 213 | Poppy Riserpiece |
+| 413 | 213 | Poppy Riserpiece |
+| 414 | 213 | John Barron |
+| 415 | 213 | Divaaa |
 | 416 | 212 | Amber Dee |
 | 417 | 211 | Bucketsmasher |
 | 418 | 211 | Natasha Hollowell Causey |
@@ -570,7 +570,7 @@
 | 562 | 157 | davis13 |
 | 563 | 156 | Rachel Rogers |
 | 564 | 155 | poopypants |
-| 565 | 154 | Glitzy Grid |
+| 565 | 154 | Tazz |
 | 566 | 154 | TristansDad |
 | 567 | 154 | Chyna Mae |
 | 568 | 154 | Lush Zoney |
