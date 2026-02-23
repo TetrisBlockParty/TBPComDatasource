@@ -111,8 +111,8 @@
 | 103 | 868 | Sarajane Lokan |
 | 104 | 866 | Ebony West-Cundiff |
 | 105 | 860 | Sunny Rotater |
-| 106 | 851 | Jd Morris |
-| 107 | 851 | Danielle Becker |
+| 106 | 851 | Danielle Becker |
+| 107 | 851 | Jd Morris |
 | 108 | 850 | Danielle Mogg |
 | 109 | 848 | Patricia Gadsden |
 | 110 | 831 | Angeline Joseph |
@@ -413,11 +413,11 @@
 | 405 | 247 | Kevin Russell |
 | 406 | 247 | Reina Roth |
 | 407 | 246 | gremicx |
-| 408 | 245 | Latoya Mayne |
-| 409 | 245 | AlsoJess |
-| 410 | 244 | Beezwax |
-| 411 | 244 | Lys |
-| 412 | 244 | LaNette Morgan |
+| 408 | 245 | AlsoJess |
+| 409 | 245 | Latoya Mayne |
+| 410 | 244 | LaNette Morgan |
+| 411 | 244 | Beezwax |
+| 412 | 244 | Lys |
 | 413 | 244 | Quackers |
 | 414 | 243 | Nicholas Roddy |
 | 415 | 243 | Paula Little |
@@ -461,8 +461,8 @@
 | 453 | 225 | Sassy Tiler |
 | 454 | 225 | Goofy Fall |
 | 455 | 224 | Christina Rotz Shows |
-| 456 | 224 | Cranky Corner |
-| 457 | 224 | Sarah Morris |
+| 456 | 224 | Sarah Morris |
+| 457 | 224 | Cranky Corner |
 | 458 | 223 | Megan Rathmanner |
 | 459 | 223 | Breanna Marsden |
 | 460 | 221 | Vaners |

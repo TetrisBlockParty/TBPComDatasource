@@ -93,8 +93,8 @@
 | 85 | 2515 | Crystalin Heath Lewis |
 | 86 | 2500 | Rosemadder |
 | 87 | 2438 | Rob Surace |
-| 88 | 2428 | Thomas Hughes |
-| 89 | 2428 | Deanna Morton |
+| 88 | 2428 | Deanna Morton |
+| 89 | 2428 | Thomas Hughes |
 | 90 | 2410 | RdRydnHd |
 | 91 | 2400 | Rich Sullivan |
 | 92 | 2375 | Megan Peckham |
@@ -891,8 +891,8 @@
 | 883 | 395 | Treshell Boyd |
 | 884 | 394 | Snappy Shatterfit |
 | 885 | 393 | Jamie West |
-| 886 | 393 | CC |
-| 887 | 393 | Bing |
+| 886 | 393 | Bing |
+| 887 | 393 | CC |
 | 888 | 392 | Jannan Haimour |
 | 889 | 392 | Christy Green |
 | 890 | 391 | Chilly Bridgepiece |
@@ -948,13 +948,13 @@
 | 940 | 377 | Frank Castle |
 | 941 | 376 | Kristen Casale Berry |
 | 942 | 375 | Ashley Marie |
-| 943 | 374 | Lively Catcher |
-| 944 | 374 | Karmabunny |
-| 945 | 374 | SpaceCase085 |
-| 946 | 374 | Sassy Linkbuilder |
+| 943 | 374 | SpaceCase085 |
+| 944 | 374 | Sassy Linkbuilder |
+| 945 | 374 | Lively Catcher |
+| 946 | 374 | Karmabunny |
 | 947 | 374 | Amanda Perez |
-| 948 | 373 | Melissa James |
-| 949 | 373 | Michelle Shrum |
+| 948 | 373 | Michelle Shrum |
+| 949 | 373 | Melissa James |
 | 950 | 372 | Sarah Dean |
 | 951 | 372 | calcap |
 | 952 | 372 | Caryn McDaniel Broomby |

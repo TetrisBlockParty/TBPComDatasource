@@ -78,8 +78,8 @@
 | 70 | 706 | Seante Bullock |
 | 71 | 705 | comrade fish |
 | 72 | 704 | Karin Gillen |
-| 73 | 703 | Angel Fowler |
-| 74 | 703 | Snappy Swiper |
+| 73 | 703 | Snappy Swiper |
+| 74 | 703 | Angel Fowler |
 | 75 | 655 | Brenda Stewart |
 | 76 | 647 | Jason Jones |
 | 77 | 646 | Susanna Guerry |
@@ -96,8 +96,8 @@
 | 88 | 570 | Cody Slav |
 | 89 | 562 | Denice Dee |
 | 90 | 537 | Tee Sheree |
-| 91 | 534 | Loony Fitzone |
-| 92 | 534 | Veronica Eve |
+| 91 | 534 | Veronica Eve |
+| 92 | 534 | Loony Fitzone |
 | 93 | 532 | Robert Benito |
 | 94 | 529 | Ryan Lunnin |
 | 95 | 522 | Sarah Lombardo |
@@ -269,11 +269,11 @@
 | 261 | 236 | LC |
 | 262 | 235 | Angela Fairbank |
 | 263 | 235 | Ariel Whittington |
-| 264 | 234 | Sean Stallings |
-| 265 | 234 | Paula Martin |
+| 264 | 234 | Paula Martin |
+| 265 | 234 | Sean Stallings |
 | 266 | 233 | Tipsy Riseclear |
-| 267 | 233 | Melissa Bires Hussar |
-| 268 | 233 | Shiny Gridmatch |
+| 267 | 233 | Shiny Gridmatch |
+| 268 | 233 | Melissa Bires Hussar |
 | 269 | 232 | Michael |
 | 270 | 231 | Colleen Pinette |
 | 271 | 230 | BigWeenie69 |
@@ -318,9 +318,9 @@
 | 310 | 216 | Shauntina Burke |
 | 311 | 215 | Christina Norman |
 | 312 | 215 | Alenoush Karimian |
-| 313 | 213 | John Barron |
+| 313 | 213 | Poppy Riserpiece |
 | 314 | 213 | Itspaigebro |
-| 315 | 213 | Poppy Riserpiece |
+| 315 | 213 | John Barron |
 | 316 | 212 | Michelle Beres |
 | 317 | 210 | Timothy Danaher |
 | 318 | 209 | Breanna Luna |

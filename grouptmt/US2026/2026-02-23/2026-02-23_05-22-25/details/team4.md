@@ -156,8 +156,8 @@
 | 148 | 399 | Swanky Fitline |
 | 149 | 398 | Tyler Terrific |
 | 150 | 397 | Livvy |
-| 151 | 393 | Girl |
-| 152 | 393 | Carlton Unfiltered |
+| 151 | 393 | Carlton Unfiltered |
+| 152 | 393 | Girl |
 | 153 | 391 | Ramel Rhodes |
 | 154 | 389 | Joseph Guthrie |
 | 155 | 387 | Lucas J Sutton |
@@ -172,8 +172,8 @@
 | 164 | 368 | Raegan Lane-Ross |
 | 165 | 368 | Brandon Crabbs |
 | 166 | 365 | Jeff Brian Gates |
-| 167 | 361 | Danielle Kollias |
-| 168 | 361 | Melissa Adams |
+| 167 | 361 | Melissa Adams |
+| 168 | 361 | Danielle Kollias |
 | 169 | 359 | Keith Kelley |
 | 170 | 358 | A5! |
 | 171 | 356 | George Nutt |
@@ -309,13 +309,13 @@
 | 301 | 218 | Janita Parrish |
 | 302 | 218 | Steph Marie |
 | 303 | 217 | Alexandra Karavias |
-| 304 | 217 | Cheery Fitline |
-| 305 | 217 | Paito |
+| 304 | 217 | Paito |
+| 305 | 217 | Cheery Fitline |
 | 306 | 216 | mike |
 | 307 | 215 | Stephme310 |
-| 308 | 214 | Stacey Stano |
-| 309 | 214 | Patron Anderson |
-| 310 | 214 | Chantilly Laace |
+| 308 | 214 | Patron Anderson |
+| 309 | 214 | Chantilly Laace |
+| 310 | 214 | Stacey Stano |
 | 311 | 213 | Jackie Marie |
 | 312 | 212 | Brave Spinbuilder |
 | 313 | 212 | Mike Solo |
