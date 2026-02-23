@@ -97,9 +97,9 @@
 | 89 | 594 | Jamie Mann-Deichmann |
 | 90 | 591 | Amelpss |
 | 91 | 568 | Chris Baggett |
-| 92 | 561 | H.R. Block |
-| 93 | 561 | Amy Suckarieh |
-| 94 | 561 | Zippy Gridlock |
+| 92 | 561 | Amy Suckarieh |
+| 93 | 561 | Zippy Gridlock |
+| 94 | 561 | H.R. Block |
 | 95 | 557 | Carmethia Clemons Haslerig |
 | 96 | 533 | Samantha Peterson |
 | 97 | 519 | Nugget |
@@ -166,8 +166,8 @@
 | 158 | 344 | Rafael Valentin |
 | 159 | 342 | Klo |
 | 160 | 339 | David Lay |
-| 161 | 336 | Peachy Fall |
-| 162 | 336 | Melissa Adams |
+| 161 | 336 | Melissa Adams |
+| 162 | 336 | Peachy Fall |
 | 163 | 333 | Twisty Cascadezone |
 | 164 | 332 | HastyGrabber |
 | 165 | 329 | Jeff Brian Gates |

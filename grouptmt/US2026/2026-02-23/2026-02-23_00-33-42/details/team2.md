@@ -338,14 +338,14 @@
 | 330 | 812 | Jackie Lucas |
 | 331 | 812 | Samantha Jo |
 | 332 | 808 | Melissa McCall |
-| 333 | 808 | Laura McCarthey |
+| 333 | 808 | Amber Brion |
 | 334 | 808 | Desire Rice |
-| 335 | 808 | Amber Brion |
+| 335 | 808 | Laura McCarthey |
 | 336 | 807 | Khalil Lowe |
 | 337 | 799 | Joy LaJeunesse |
-| 338 | 793 | Heather Schelkopf |
+| 338 | 793 | Arlene Joy Belicina |
 | 339 | 793 | Lisa Ongtowasruk |
-| 340 | 793 | Arlene Joy Belicina |
+| 340 | 793 | Heather Schelkopf |
 | 341 | 792 | Gold Rose |
 | 342 | 790 | Brenda Pierpoint |
 | 343 | 788 | Erika Densmore |
@@ -753,17 +753,17 @@
 | 745 | 402 | AkaLefty |
 | 746 | 402 | Candy Pitts |
 | 747 | 401 | Swanky Columnbuilder |
-| 748 | 400 | Frisky Riserbuilder |
-| 749 | 400 | Deana |
+| 748 | 400 | Deana |
+| 749 | 400 | Frisky Riserbuilder |
 | 750 | 400 | Tammy Allen |
 | 751 | 399 | Court |
 | 752 | 399 | Heather Johnson |
-| 753 | 398 | TF Dyer |
+| 753 | 398 | Witty Piecebuilder |
 | 754 | 398 | Heather Sawtelle-Mckenzie |
-| 755 | 398 | Witty Piecebuilder |
+| 755 | 398 | TF Dyer |
 | 756 | 397 | Dawn Woosley Bowes |
-| 757 | 397 | Cris cris |
-| 758 | 397 | Jessica Conaway |
+| 757 | 397 | Jessica Conaway |
+| 758 | 397 | Cris cris |
 | 759 | 397 | Toni Whipple |
 | 760 | 396 | Bold Brickster |
 | 761 | 396 | Cassie Newton |
