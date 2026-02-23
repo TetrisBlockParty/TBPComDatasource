@@ -29,8 +29,8 @@
 | 21 | 2697 | River |
 | 22 | 2499 | mjl574 |
 | 23 | 2387 | Susan Valentino |
-| 24 | 2353 | Tetris Master |
-| 25 | 2353 | Laura Melton |
+| 24 | 2353 | Laura Melton |
+| 25 | 2353 | Tetris Master |
 | 26 | 2311 | Brandon Green |
 | 27 | 2271 | Jeana Gilbert |
 | 28 | 2235 | Ant Ant |
@@ -314,8 +314,8 @@
 | 306 | 361 | Breanna Marsden |
 | 307 | 360 | Dee Pratt |
 | 308 | 359 | Kelly |
-| 309 | 358 | Roary Danner |
-| 310 | 358 | Heather Davis |
+| 309 | 358 | Heather Davis |
+| 310 | 358 | Roary Danner |
 | 311 | 358 | KayB |
 | 312 | 357 | France Vézina |
 | 313 | 354 | Andrew Thorson |
@@ -651,9 +651,9 @@
 | 643 | 188 | Alison Baus |
 | 644 | 187 | Stephanie Sanchez |
 | 645 | 187 | Kelly Koenig |
-| 646 | 187 | Tiffany Marler |
-| 647 | 187 | luluraine |
-| 648 | 187 | Stephanie Sanchez |
+| 646 | 187 | luluraine |
+| 647 | 187 | Tiffany Marler |
+| 648 | 187 | Agata Sawicka |
 | 649 | 187 | Crystal Johnson |
 | 650 | 186 | Frisky Stacker |
 | 651 | 186 | Lazy Matchfit |
@@ -770,8 +770,8 @@
 | 762 | 165 | James Lykes |
 | 763 | 165 | Autumn Phillimore |
 | 764 | 165 | Erica Anderson |
-| 765 | 164 | Megan Stanley |
-| 766 | 164 | Tipsy Puzzle |
+| 765 | 164 | Tipsy Puzzle |
+| 766 | 164 | Megan Stanley |
 | 767 | 164 | Lesa Bartlett |
 | 768 | 164 | Tenisha Semidey |
 | 769 | 164 | Jolly Brick |

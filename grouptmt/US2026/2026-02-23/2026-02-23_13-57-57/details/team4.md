@@ -71,8 +71,8 @@
 | 63 | 846 | Lucille Truesdale |
 | 64 | 834 | quicksand420 |
 | 65 | 827 | Avy Absol |
-| 66 | 807 | Amelpss |
-| 67 | 807 | Rachel Anne |
+| 66 | 807 | Rachel Anne |
+| 67 | 807 | Amelpss |
 | 68 | 802 | Crystal Carroll |
 | 69 | 788 | Julian Garcia |
 | 70 | 788 | Chilly Line |
@@ -104,8 +104,8 @@
 | 96 | 667 | Amy Suckarieh |
 | 97 | 659 | Jamie Gustafson |
 | 98 | 650 | KJ Pool |
-| 99 | 647 | Shauna Havard |
-| 100 | 647 | KM8 |
+| 99 | 647 | KM8 |
+| 100 | 647 | Shauna Havard |
 | 101 | 637 | Lori Walker |
 | 102 | 635 | Adawna Swires |
 | 103 | 631 | H.R. Block |
@@ -212,8 +212,8 @@
 | 204 | 348 | April Rondinone |
 | 205 | 348 | David Lay |
 | 206 | 347 | Crystal Nicolette Moore |
-| 207 | 347 | Daria Rycewicz |
-| 208 | 347 | Bio Nelly |
+| 207 | 347 | Bio Nelly |
+| 208 | 347 | Daria Rycewicz |
 | 209 | 346 | shark tato |
 | 210 | 343 | HastyGrabber |
 | 211 | 342 | Casey Grabner |
@@ -536,16 +536,16 @@
 | 528 | 149 | Boldy Linkpiece |
 | 529 | 148 | Bigeddie |
 | 530 | 148 | Backoff Recupe |
-| 531 | 147 | Hasty Fitzone |
-| 532 | 147 | Laurmarcar |
+| 531 | 147 | Laurmarcar |
+| 532 | 147 | Hasty Fitzone |
 | 533 | 147 | Jay28 |
 | 534 | 146 | giantslover514 |
 | 535 | 146 | @ |
 | 536 | 146 | Oleg Zakharskiy |
 | 537 | 146 | Groovy Gridlock |
 | 538 | 146 | Jen Hallin |
-| 539 | 145 | Glitzy Crasher |
-| 540 | 145 | No Strings Attached Ra |
+| 539 | 145 | No Strings Attached Ra |
+| 540 | 145 | Glitzy Crasher |
 | 541 | 145 | Austin Trent Weaver |
 | 542 | 144 | Zach Kerbs |
 | 543 | 143 | Kristin MacDonald |

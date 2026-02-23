@@ -136,8 +136,8 @@
 | 128 | 466 | Adrian Esteban |
 | 129 | 463 | Lexuriuos Lifestlye |
 | 130 | 462 | Luciano Moreira |
-| 131 | 458 | Evan Richmond |
-| 132 | 458 | Goose egg |
+| 131 | 458 | Goose egg |
+| 132 | 458 | Evan Richmond |
 | 133 | 454 | Desiree Deschaine Havee |
 | 134 | 453 | Brandi Huntington |
 | 135 | 451 | Plucky Ziggy |
@@ -189,8 +189,8 @@
 | 181 | 375 | Connie |
 | 182 | 374 | Howdi Duty |
 | 183 | 372 | Dizzy Party |
-| 184 | 371 | Jason Savage |
-| 185 | 371 | Damon J. Martin |
+| 184 | 371 | Damon J. Martin |
+| 185 | 371 | Jason Savage |
 | 186 | 370 | Timothy Danaher |
 | 187 | 369 | Christy Jones |
 | 188 | 367 | Sharon Reynolds |
@@ -281,17 +281,17 @@
 | 273 | 275 | Garrett Burket |
 | 274 | 275 | Cheeky Pop |
 | 275 | 275 | Chris65 |
-| 276 | 275 | Garrett Burket |
+| 276 | 273 | Test |
 | 277 | 273 | Наталья Солоид |
-| 278 | 273 | Test |
-| 279 | 272 | Michelle Beres |
-| 280 | 272 | Barrbaric |
-| 281 | 271 | Robert |
-| 282 | 270 | Debbie Kane |
-| 283 | 270 | Brenda Alexander |
-| 284 | 269 | Colleen Pinette |
+| 278 | 272 | Michelle Beres |
+| 279 | 272 | Barrbaric |
+| 280 | 271 | Robert |
+| 281 | 270 | Debbie Kane |
+| 282 | 270 | Brenda Alexander |
+| 283 | 269 | Colleen Pinette |
+| 284 | 268 | Standia Civil |
 | 285 | 268 | Wayne Saunders |
-| 286 | 268 | Standia Civil |
+| 286 | 265 | Kandae |
 | 287 | 265 | Flashy Rotator |
 | 288 | 264 | Jenny Gingrich Fuentes |
 | 289 | 263 | Sunny Shift |

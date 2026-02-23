@@ -595,9 +595,9 @@
 | 587 | 624 | Santana Miyagi |
 | 588 | 621 | Taren Cowan |
 | 589 | 618 | Marella Petilo |
-| 590 | 617 | Kacee Conrad Bock |
-| 591 | 617 | Darcy Mae |
-| 592 | 617 | Biggest thing |
+| 590 | 617 | Biggest thing |
+| 591 | 617 | Kacee Conrad Bock |
+| 592 | 617 | Darcy Mae |
 | 593 | 615 | Julio A Laracuente |
 | 594 | 614 | Emilee Burke |
 | 595 | 614 | Jessica S Flecha |
@@ -614,8 +614,8 @@
 | 606 | 605 | Mandi Marie Smith |
 | 607 | 605 | Jermaine Harris |
 | 608 | 604 | Rae Rae |
-| 609 | 603 | Dizzy Zone |
-| 610 | 603 | Casper The Chonk |
+| 609 | 603 | Casper The Chonk |
+| 610 | 603 | Dizzy Zone |
 | 611 | 602 | Stephanie Sul |
 | 612 | 602 | Jenn Marie |
 | 613 | 602 | Jedi |
