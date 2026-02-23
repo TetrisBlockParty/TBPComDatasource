@@ -129,10 +129,10 @@
 | 121 | 752 | Raya |
 | 122 | 748 | Adrian Marcel Pate |
 | 123 | 745 | JerseyJess |
-| 124 | 744 | Leah Barnett |
-| 125 | 744 | Fancy Cascader |
-| 126 | 736 | Katrina Schroeder |
-| 127 | 736 | mzcatzy |
+| 124 | 744 | Fancy Cascader |
+| 125 | 744 | Leah Barnett |
+| 126 | 736 | mzcatzy |
+| 127 | 736 | Katrina Schroeder |
 | 128 | 728 | Peppy Shifter |
 | 129 | 727 | Hasty Cascadefit |
 | 130 | 722 | Marcie Bressler |
@@ -228,8 +228,8 @@
 | 220 | 441 | Mcathen |
 | 221 | 437 | Loopy Clusterer |
 | 222 | 432 | Luciana Braganca Vieira |
-| 223 | 431 | Ammmmmmy |
-| 224 | 431 | Wendy Dearden |
+| 223 | 431 | Wendy Dearden |
+| 224 | 431 | Ammmmmmy |
 | 225 | 430 | Jeni Dow |
 | 226 | 415 | ren |
 | 227 | 414 | Fran Lin |

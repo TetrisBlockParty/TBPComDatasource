@@ -151,8 +151,8 @@
 | 143 | 1639 | Jessie McDougald |
 | 144 | 1638 | Speedy Spinblock |
 | 145 | 1629 | Mari Ac |
-| 146 | 1623 | Janel Turley-Garner |
-| 147 | 1623 | Rebecca Doughman |
+| 146 | 1623 | Rebecca Doughman |
+| 147 | 1623 | Janel Turley-Garner |
 | 148 | 1605 | Christi Hulet |
 | 149 | 1602 | blackq |
 | 150 | 1601 | Ray Ray Prado |
@@ -299,8 +299,8 @@
 | 291 | 987 | Osun Anuket Esu |
 | 292 | 984 | Crystal Hoffman |
 | 293 | 981 | Ashlen Dorrell |
-| 294 | 979 | Hillary Crawford |
-| 295 | 979 | Melissa Penelope Ann Dodge |
+| 294 | 979 | Melissa Penelope Ann Dodge |
+| 295 | 979 | Hillary Crawford |
 | 296 | 978 | April Dawn Gussler |
 | 297 | 976 | Della Hole |
 | 298 | 976 | Sam Joe |
@@ -336,8 +336,8 @@
 | 328 | 903 | Giggy Blocker |
 | 329 | 902 | William Hunt |
 | 330 | 901 | Kevin Sees |
-| 331 | 899 | Patrick Bartlett |
-| 332 | 899 | Chevy |
+| 331 | 899 | Chevy |
+| 332 | 899 | Patrick Bartlett |
 | 333 | 898 | Jamie Otero |
 | 334 | 895 | Donna Colby |
 | 335 | 890 | Steve Man |
@@ -411,10 +411,10 @@
 | 403 | 763 | Heather Causey |
 | 404 | 763 | Dreamy Blast |
 | 405 | 760 | Cheech Dta |
-| 406 | 760 | Ashley Guernsey-Martin |
-| 407 | 760 | Andrew Willis |
-| 408 | 758 | Stephanie Neuburger |
-| 409 | 758 | Quirky Twistline |
+| 406 | 760 | Andrew Willis |
+| 407 | 760 | Ashley Guernsey-Martin |
+| 408 | 758 | Quirky Twistline |
+| 409 | 758 | Stephanie Neuburger |
 | 410 | 757 | Allan Wayne Lamia |
 | 411 | 756 | Kiely Tomaskovich |
 | 412 | 755 | Crystie Hicks |

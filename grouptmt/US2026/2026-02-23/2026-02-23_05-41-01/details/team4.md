@@ -53,8 +53,8 @@
 | 45 | 960 | Dustin Robert |
 | 46 | 938 | Denny Shives |
 | 47 | 936 | Rebecca Moulton Pinciaro |
-| 48 | 911 | Anthony Bryan Riva |
-| 49 | 911 | Jeremy Steines |
+| 48 | 911 | Jeremy Steines |
+| 49 | 911 | Anthony Bryan Riva |
 | 50 | 873 | Marvin Lou Martin |
 | 51 | 870 | BertMofo |
 | 52 | 863 | Pee |
@@ -68,8 +68,8 @@
 | 60 | 807 | Rachel Anne |
 | 61 | 803 | Amelpss |
 | 62 | 788 | Julian Garcia |
-| 63 | 781 | Chilly Line |
-| 64 | 781 | Ashley Ingram |
+| 63 | 781 | Ashley Ingram |
+| 64 | 781 | Chilly Line |
 | 65 | 767 | Shannon Ferrari |
 | 66 | 766 | Edward White |
 | 67 | 766 | Robin Watters |
@@ -79,8 +79,8 @@
 | 71 | 749 | Dustee Craddock-Harrison |
 | 72 | 742 | Carolyn Wallace |
 | 73 | 740 | Avy Absol |
-| 74 | 736 | Goatimus Lombardi |
-| 75 | 736 | Crystal Carroll |
+| 74 | 736 | Crystal Carroll |
+| 75 | 736 | Goatimus Lombardi |
 | 76 | 721 | TheNeesh50 |
 | 77 | 717 | D3TROITB0RN74 |
 | 78 | 706 | Lisa Davis |
@@ -96,8 +96,8 @@
 | 88 | 664 | Valerie Roberts |
 | 89 | 659 | Jamie Gustafson |
 | 90 | 650 | KJ Pool |
-| 91 | 647 | Shauna Havard |
-| 92 | 647 | KM8 |
+| 91 | 647 | KM8 |
+| 92 | 647 | Shauna Havard |
 | 93 | 646 | Eric Mcgaughy |
 | 94 | 626 | Brittney Griggs |
 | 95 | 624 | Judy Cox |
@@ -411,8 +411,8 @@
 | 403 | 169 | Jessica Atkinson |
 | 404 | 168 | Ruby Khalisadar |
 | 405 | 167 | Carla Harris |
-| 406 | 167 | Snippy Clearer |
-| 407 | 167 | Tyler Bechtel |
+| 406 | 167 | Tyler Bechtel |
+| 407 | 167 | Snippy Clearer |
 | 408 | 166 | Gracie Ann Taylor |
 | 409 | 166 | Reds Bella |
 | 410 | 165 | Joseph Gray |

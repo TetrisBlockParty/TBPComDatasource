@@ -123,8 +123,8 @@
 | 115 | 451 | Plucky Ziggy |
 | 116 | 450 | lil mickey |
 | 117 | 449 | Anaid Sanchez |
-| 118 | 448 | Sweet Baker |
-| 119 | 448 | Jazzy Framezone |
+| 118 | 448 | Jazzy Framezone |
+| 119 | 448 | Sweet Baker |
 | 120 | 446 | SkipTheSadSauce |
 | 121 | 443 | Steve Schneider |
 | 122 | 439 | Dee Perry |
@@ -157,15 +157,15 @@
 | 149 | 376 | Death |
 | 150 | 376 | Brian Richardsson |
 | 151 | 375 | Tanya Carpenter-Reynolds |
-| 152 | 371 | Basment Living |
-| 153 | 371 | Jason Savage |
+| 152 | 371 | Jason Savage |
+| 153 | 371 | Basment Living |
 | 154 | 369 | Christy Jones |
 | 155 | 368 | Amanda Johnson Huffman |
 | 156 | 367 | Sharon Reynolds |
 | 157 | 366 | J.F. Fields |
 | 158 | 365 | Carrie Smith |
-| 159 | 364 | Shauna Loe |
-| 160 | 364 | Serina Marie |
+| 159 | 364 | Serina Marie |
+| 160 | 364 | Shauna Loe |
 | 161 | 360 | Wisa |
 | 162 | 357 | David Lutcher |
 | 163 | 355 | Amanda Jarnagin |
@@ -221,12 +221,12 @@
 | 213 | 290 | Hellsin |
 | 214 | 290 | Speedy Liney |
 | 215 | 287 | Sassy Builderline |
-| 216 | 285 | Bird Person |
-| 217 | 285 | Shanae Grant |
+| 216 | 285 | Shanae Grant |
+| 217 | 285 | Bird Person |
 | 218 | 283 | Franswa |
 | 219 | 283 | Amanda Holibaugh |
-| 220 | 282 | Timothy Dew |
-| 221 | 282 | Mandyy Rae |
+| 220 | 282 | Mandyy Rae |
+| 221 | 282 | Timothy Dew |
 | 222 | 281 | Clever Cascadepiece |
 | 223 | 280 | Billie Dawn Sparks |
 | 224 | 277 | Nutty Spinblock |
