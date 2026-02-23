@@ -81,8 +81,8 @@
 | 73 | 863 | Snappy Swiper |
 | 74 | 801 | Nancy Green |
 | 75 | 783 | Redlicious 1 |
-| 76 | 776 | Seante Bullock |
-| 77 | 772 | Tinah Montanna |
+| 76 | 772 | Tinah Montanna |
+| 77 | 771 | Seante Bullock |
 | 78 | 770 | Zappy Curvetile |
 | 79 | 758 | Ash Galvan |
 | 80 | 750 | Cartier |
@@ -92,12 +92,12 @@
 | 84 | 735 | Cynthia Bradley |
 | 85 | 713 | Robert Benito |
 | 86 | 710 | Jennifer ManWarren |
-| 87 | 706 | Denice Dee |
-| 88 | 706 | Plucky Fallzone |
+| 87 | 706 | Plucky Fallzone |
+| 88 | 706 | Denice Dee |
 | 89 | 704 | Jason Jones |
 | 90 | 704 | Karin Gillen |
-| 91 | 703 | Kellie |
-| 92 | 703 | Angel Fowler |
+| 91 | 703 | Angel Fowler |
+| 92 | 703 | Kellie |
 | 93 | 689 | Lexuriuos Lifestlye |
 | 94 | 679 | Hasbro Bros |
 | 95 | 671 | Chirpy Smasher |
@@ -250,8 +250,8 @@
 | 242 | 340 | Danielle Little-Daugherty |
 | 243 | 338 | Layzietyme |
 | 244 | 337 | Jamise Brown |
-| 245 | 335 | Eric DeSimone |
-| 246 | 335 | Keith Mathis |
+| 245 | 335 | Keith Mathis |
+| 246 | 335 | Eric DeSimone |
 | 247 | 334 | Tipsy Builder |
 | 248 | 333 | Jennifer Noe Chandler |
 | 249 | 332 | Plucky Stacky |
@@ -492,8 +492,8 @@
 | 484 | 187 | Jessica Weed |
 | 485 | 186 | MommaKFC |
 | 486 | 185 | Amanda Wharton |
-| 487 | 184 | Carl Claunch |
-| 488 | 184 | Theeranart Mahawan |
+| 487 | 184 | Sonia Marquis |
+| 488 | 184 | Carl Claunch |
 | 489 | 184 | Davery Spencer Adair |
 | 490 | 184 | Theeranart Mahawan |
 | 491 | 183 | Abbey Crespo |

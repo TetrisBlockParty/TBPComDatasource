@@ -312,9 +312,9 @@
 | 304 | 278 | Angela Geist Jusinski |
 | 305 | 278 | Sarah Brown |
 | 306 | 277 | Brittany Marsh |
-| 307 | 276 | Lee Silpe |
-| 308 | 276 | Susan Williams |
-| 309 | 276 | Silly SeaWeed |
+| 307 | 276 | Susan Williams |
+| 308 | 276 | Silly SeaWeed |
+| 309 | 276 | Lee Silpe |
 | 310 | 276 | Cynthia Boudreau |
 | 311 | 275 | Jim Hart |
 | 312 | 274 | Amy Sanford |
@@ -494,8 +494,8 @@
 | 486 | 185 | Eric Wren |
 | 487 | 183 | Darrin Rubalcava |
 | 488 | 183 | Sholom Fried |
-| 489 | 182 | Neil Ingham |
-| 490 | 182 | Jesus Garcia |
+| 489 | 182 | Jesus Garcia |
+| 490 | 182 | Neil Ingham |
 | 491 | 181 | Kate |
 | 492 | 181 | Nikki Wilson |
 | 493 | 181 | ImJustMe |
@@ -515,7 +515,7 @@
 | 507 | 177 | Chao Ma |
 | 508 | 177 | Stephanie Mico |
 | 509 | 176 | Jlmendillo |
-| 510 | 175 | Lorena Guerrero-Barron |
+| 510 | 175 | Veronica Garza |
 | 511 | 175 | tipsy tiger |
 | 512 | 175 | Lorena Guerrero-Barron |
 | 513 | 173 | Tanner Lund |
@@ -536,9 +536,9 @@
 | 528 | 169 | Dante Korleon |
 | 529 | 169 | James Philpot Ross |
 | 530 | 168 | Melissa VanBourgondien |
-| 531 | 167 | Tipsy Cascader |
+| 531 | 167 | Dapper Frame |
 | 532 | 167 | Carla Harris |
-| 533 | 167 | Dapper Frame |
+| 533 | 167 | Tipsy Cascader |
 | 534 | 167 | Snippy Clearer |
 | 535 | 167 | Brooke Kaune |
 | 536 | 166 | Reds Bella |
@@ -679,9 +679,9 @@
 | 671 | 124 | Cheery Towerzone |
 | 672 | 123 | RobinC |
 | 673 | 123 | Cassandra Stewart |
-| 674 | 123 | RobinC |
-| 675 | 123 | MOCHA |
-| 676 | 123 | Mike Nelson |
+| 674 | 123 | Lazy Column |
+| 675 | 123 | Mike Nelson |
+| 676 | 123 | MOCHA |
 | 677 | 123 | Dottie Falco |
 | 678 | 123 | mini |
 | 679 | 122 | Rosemary Foster |
@@ -728,8 +728,8 @@
 | 720 | 113 | Hog Crankin |
 | 721 | 113 | Abigail Murphy |
 | 722 | 113 | DaRuler |
-| 723 | 112 | Ninaforever |
-| 724 | 112 | BlockBabe |
+| 723 | 112 | BlockBabe |
+| 724 | 112 | Ninaforever |
 | 725 | 112 | RogueRebel |
 | 726 | 111 | Flavoredsausage |
 | 727 | 111 | Globofish |

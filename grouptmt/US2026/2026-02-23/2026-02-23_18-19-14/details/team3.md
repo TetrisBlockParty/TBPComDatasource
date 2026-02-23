@@ -224,13 +224,13 @@
 | 216 | 549 | Sarah Cowan Burgos |
 | 217 | 548 | Danielle Balcom |
 | 218 | 547 | Staci George Fitzsimmons |
-| 219 | 546 | Cynthia Castros-Hampton |
-| 220 | 546 | Mykal Burton |
+| 219 | 546 | Mykal Burton |
+| 220 | 546 | Cynthia Castros-Hampton |
 | 221 | 545 | Trisha Balmer |
 | 222 | 539 | Betty Bóò |
 | 223 | 538 | Annie Déè |
-| 224 | 537 | Tessina Dewey-Mancino |
-| 225 | 537 | Aerian Preston |
+| 224 | 537 | Aerian Preston |
+| 225 | 537 | Tessina Dewey-Mancino |
 | 226 | 537 | Tamara Deherrera |
 | 227 | 531 | Chauntee Alfrey-Cardinale |
 | 228 | 530 | Stephanie Blkpep Davidson |
@@ -670,7 +670,7 @@
 | 662 | 207 | demon14 |
 | 663 | 206 | Beto Rodriguez |
 | 664 | 206 | Anabela Ruiz |
-| 665 | 206 | Beto Rodriguez |
+| 665 | 206 | Kimberly Walker |
 | 666 | 206 | Tammy Rosenberry |
 | 667 | 205 | Bouncy Blockbuilder |
 | 668 | 205 | Jess Meyers |

@@ -288,13 +288,13 @@
 | 280 | 1172 | Lakeysha Dortch |
 | 281 | 1172 | Stacey Clement |
 | 282 | 1171 | Loretta Brewer-Gage |
-| 283 | 1165 | Michelle Lee |
-| 284 | 1165 | Christina Wsn |
+| 283 | 1165 | Christina Wsn |
+| 284 | 1165 | Michelle Lee |
 | 285 | 1163 | Erika Densmore |
 | 286 | 1161 | Sarah Freitas |
 | 287 | 1158 | Brittany Clark |
-| 288 | 1156 | Arkei Luster |
-| 289 | 1156 | Alezandra Smith |
+| 288 | 1156 | Alezandra Smith |
+| 289 | 1156 | Arkei Luster |
 | 290 | 1149 | Prado |
 | 291 | 1146 | Cassie Mercer |
 | 292 | 1142 | Sheniya Spurgeon |
@@ -437,8 +437,8 @@
 | 429 | 844 | Terri McKelvey McKinley |
 | 430 | 843 | Quirky Twistline |
 | 431 | 841 | AgileDragon |
-| 432 | 840 | Kiana Boschh |
-| 433 | 840 | Traci Johnson |
+| 432 | 840 | Traci Johnson |
+| 433 | 840 | Kiana Boschh |
 | 434 | 836 | KhaosLord |
 | 435 | 835 | Moni Foxe |
 | 436 | 834 | Montez Mancil |
@@ -505,24 +505,24 @@
 | 497 | 767 | Ashley Lopez |
 | 498 | 766 | Jennie Lee Huntley |
 | 499 | 764 | Belle |
-| 500 | 763 | Heather Causey |
-| 501 | 763 | Megan Brianna |
+| 500 | 763 | Megan Brianna |
+| 501 | 763 | Heather Causey |
 | 502 | 761 | Jerilyn Andrina |
 | 503 | 758 | Kimberly Randesi |
 | 504 | 758 | Stephanie Neuburger |
 | 505 | 757 | Chelle |
 | 506 | 755 | Taryece Gause |
 | 507 | 751 | Loony Snapper |
-| 508 | 751 | Briana Alexander |
+| 508 | 751 | Breezy Filler |
 | 509 | 751 | Caitlyn Blackwell |
-| 510 | 751 | Breezy Filler |
+| 510 | 751 | Briana Alexander |
 | 511 | 750 | Draizen Montrell Thomas |
 | 512 | 750 | Michael Buckner |
 | 513 | 749 | Trisha J Schmidt |
 | 514 | 748 | Ann Matzkanin |
 | 515 | 746 | Hoppy Brickmatch |
-| 516 | 742 | Ganieda |
-| 517 | 742 | Cassie Maynard |
+| 516 | 742 | Cassie Maynard |
+| 517 | 742 | Ganieda |
 | 518 | 740 | Jerry Tempelmeyer |
 | 519 | 740 | Alexandra Weir |
 | 520 | 737 | Ginger |
@@ -675,8 +675,8 @@
 | 667 | 611 | Autumn Schaeffer |
 | 668 | 608 | Tash Bell |
 | 669 | 607 | Slip |
-| 670 | 606 | Lea Stewart |
-| 671 | 606 | Mike Aprilliano |
+| 670 | 606 | Mike Aprilliano |
+| 671 | 606 | Lea Stewart |
 | 672 | 605 | Mandi Marie Smith |
 | 673 | 605 | Jermaine Harris |
 | 674 | 604 | Rae Rae |
@@ -687,10 +687,10 @@
 | 679 | 600 | Nicole Cox |
 | 680 | 598 | Giggly Snap |
 | 681 | 598 | Layla LS |
-| 682 | 597 | TJ Nash |
-| 683 | 597 | Jamie Schmitt |
-| 684 | 596 | Davetta Sanford |
-| 685 | 596 | Ben Barkley |
+| 682 | 597 | Jamie Schmitt |
+| 683 | 597 | TJ Nash |
+| 684 | 596 | Ben Barkley |
+| 685 | 596 | Davetta Sanford |
 | 686 | 595 | Ha Ab |
 | 687 | 594 | Jessica Lamb |
 | 688 | 594 | Frank Castle |
