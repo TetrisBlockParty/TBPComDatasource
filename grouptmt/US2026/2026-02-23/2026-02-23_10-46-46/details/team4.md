@@ -245,8 +245,8 @@
 | 237 | 288 | Leah Kutz Zirbel |
 | 238 | 288 | Adam Stephanie Parker |
 | 239 | 285 | 030Synner |
-| 240 | 284 | Mimi |
-| 241 | 284 | Matt Dell'Olio |
+| 240 | 284 | Matt Dell'Olio |
+| 241 | 284 | Mimi |
 | 242 | 282 | Kim Klutz Olson |
 | 243 | 282 | Matt Gooder |
 | 244 | 281 | Laura |
@@ -261,8 +261,8 @@
 | 253 | 272 | Dennis Bradley |
 | 254 | 271 | Holly |
 | 255 | 270 | Jen Caldwell |
-| 256 | 266 | Tracey Lehmann |
-| 257 | 266 | Mr. Party |
+| 256 | 266 | Mr. Party |
+| 257 | 266 | Tracey Lehmann |
 | 258 | 266 | Nubian1 |
 | 259 | 265 | Sarah Neathery |
 | 260 | 265 | Degenerate |

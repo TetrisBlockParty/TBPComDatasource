@@ -76,8 +76,8 @@
 | 68 | 1264 | Amanda L Baker |
 | 69 | 1258 | Danielle Cutler |
 | 70 | 1256 | Jessica Bechler |
-| 71 | 1213 | Snappy Glidepiece |
-| 72 | 1213 | Nerdy Riseclear |
+| 71 | 1213 | Nerdy Riseclear |
+| 72 | 1213 | Snappy Glidepiece |
 | 73 | 1201 | Amanda Adkins |
 | 74 | 1186 | Christian A. Pollard |
 | 75 | 1162 | Gracie |
@@ -114,8 +114,8 @@
 | 106 | 869 | Araceli Parra |
 | 107 | 868 | Sarajane Lokan |
 | 108 | 860 | Sunny Rotater |
-| 109 | 851 | Danielle Becker |
-| 110 | 851 | Jd Morris |
+| 109 | 851 | Jd Morris |
+| 110 | 851 | Danielle Becker |
 | 111 | 850 | Danielle Mogg |
 | 112 | 848 | Patricia Gadsden |
 | 113 | 839 | Angeline Joseph |
@@ -137,8 +137,8 @@
 | 129 | 752 | Logan Naccarato |
 | 130 | 748 | Adrian Marcel Pate |
 | 131 | 745 | JerseyJess |
-| 132 | 744 | Leah Barnett |
-| 133 | 744 | Fancy Cascader |
+| 132 | 744 | Fancy Cascader |
+| 133 | 744 | Leah Barnett |
 | 134 | 736 | mzcatzy |
 | 135 | 734 | Calista Jo Dickson |
 | 136 | 728 | Peppy Shifter |
@@ -218,8 +218,8 @@
 | 210 | 485 | Dapper Snap |
 | 211 | 484 | Fallorina Susana |
 | 212 | 481 | Connie Mohler-Fair |
-| 213 | 480 | Danielle Allison |
-| 214 | 480 | Michael Johnson |
+| 213 | 480 | Michael Johnson |
+| 214 | 480 | Danielle Allison |
 | 215 | 477 | Edwin Calvillo Jr. |
 | 216 | 475 | Tessina Dewey-Mancino |
 | 217 | 471 | Mendoza Lee Christy |
@@ -261,8 +261,8 @@
 | 253 | 406 | Kristal C Lee |
 | 254 | 405 | Steffi Chris Dacones |
 | 255 | 404 | Chasity |
-| 256 | 403 | Scott Lindsay |
-| 257 | 403 | Denita Mungro |
+| 256 | 403 | Denita Mungro |
+| 257 | 403 | Scott Lindsay |
 | 258 | 396 | Randy Clevenger |
 | 259 | 395 | Ashley Tookes |
 | 260 | 395 | rosy |
@@ -435,7 +435,7 @@
 | 427 | 253 | Block Baddie |
 | 428 | 253 | Daring Builder |
 | 429 | 253 | Hyper Bridger |
-| 430 | 253 | Daring Builder |
+| 430 | 253 | Bryan Byrd |
 | 431 | 252 | Josh Borquez |
 | 432 | 252 | Jl |
 | 433 | 251 | Colleen Phelps |
@@ -535,8 +535,8 @@
 | 527 | 209 | Jumpy Wrecker |
 | 528 | 208 | Jessica Christian |
 | 529 | 208 | Luccy Luxe |
-| 530 | 207 | Nichol Graham |
-| 531 | 207 | Misstery |
+| 530 | 207 | Misstery |
+| 531 | 207 | Nichol Graham |
 | 532 | 206 | Tammy Rosenberry |
 | 533 | 206 | Dakota Graham |
 | 534 | 205 | Bouncy Blockbuilder |
@@ -579,8 +579,8 @@
 | 571 | 194 | Shicken Nuggit |
 | 572 | 193 | Clever Shiftsnap |
 | 573 | 193 | Stephanie Zahm |
-| 574 | 192 | Kelly Ann Child |
-| 575 | 192 | Laura Booth Wosko |
+| 574 | 192 | Laura Booth Wosko |
+| 575 | 192 | Kelly Ann Child |
 | 576 | 192 | Jennifer Neiman Gaal |
 | 577 | 191 | Sarah Tschee |
 | 578 | 191 | Silver Marchán |
@@ -600,11 +600,11 @@
 | 592 | 187 | Tiffany Marler |
 | 593 | 187 | Kelly Koenig |
 | 594 | 187 | Crystal Johnson |
-| 595 | 186 | Rayzer |
-| 596 | 186 | Funky Jumper |
+| 595 | 186 | Funky Jumper |
+| 596 | 186 | Rayzer |
 | 597 | 185 | Ashley Kennedy |
-| 598 | 185 | Breezy Roll |
-| 599 | 185 | Macaulay Logel |
+| 598 | 185 | Macaulay Logel |
+| 599 | 185 | Breezy Roll |
 | 600 | 184 | Shanon R Jackson |
 | 601 | 184 | Barb Wensink Johnson |
 | 602 | 184 | Christian Luna |
@@ -658,8 +658,8 @@
 | 650 | 173 | Beejangles |
 | 651 | 172 | Big T |
 | 652 | 172 | Nichole Greene |
-| 653 | 172 | Lexi |
-| 654 | 172 | Miranda Taylor |
+| 653 | 172 | Miranda Taylor |
+| 654 | 172 | Lexi |
 | 655 | 172 | Nicole Summers-Nelson |
 | 656 | 171 | Beck Nicole |
 | 657 | 171 | Elisha L Allman |
@@ -722,7 +722,7 @@
 | 714 | 159 | Giddy Basepiece |
 | 715 | 159 | Robin LaChe |
 | 716 | 159 | Wetwet |
-| 717 | 159 | Giddy Basepiece |
+| 717 | 159 | Angela VanOstrand |
 | 718 | 158 | Cameo Tweed |
 | 719 | 157 | Michelle Ramirez |
 | 720 | 157 | Noel Hill Hoose |
@@ -790,7 +790,7 @@
 | 782 | 145 | Quirky Snapfit |
 | 783 | 145 | Rank Stranger |
 | 784 | 145 | fred |
-| 785 | 144 | Susan A Kinsey |
+| 785 | 144 | Tiffany's TwinsRus Thrifty |
 | 786 | 144 | Cheeky Blockline |
 | 787 | 144 | Susan A Kinsey |
 | 788 | 144 | Janay Darkstallion Robinson |
@@ -1933,7 +1933,7 @@
 | 1925 | 46 | Misty Henry |
 | 1926 | 46 | Emily Alexander |
 | 1927 | 45 | Elisha Aglioti-Jordan |
-| 1928 | 45 | Carrie Fisher Stephens |
+| 1928 | 45 | Gayle Marie |
 | 1929 | 45 | Pam Haldeman Wolfe |
 | 1930 | 45 | Carrie Fisher Stephens |
 | 1931 | 45 | Leeann Couch |

@@ -207,8 +207,8 @@
 | 199 | 341 | Nick R Montague |
 | 200 | 339 | Nicole Roseberry Weber |
 | 201 | 337 | Jamise Brown |
-| 202 | 333 | Tyler Hertzog |
-| 203 | 333 | Virginia Gray Floyd |
+| 202 | 333 | Virginia Gray Floyd |
+| 203 | 333 | Tyler Hertzog |
 | 204 | 333 | Gracie |
 | 205 | 332 | Happy Basegrid |
 | 206 | 328 | Snappy Matcher |
@@ -263,8 +263,8 @@
 | 255 | 272 | Barrbaric |
 | 256 | 272 | Michelle Beres |
 | 257 | 271 | Frothy Pattern |
-| 258 | 270 | Debbie Kane |
-| 259 | 270 | Brenda Alexander |
+| 258 | 270 | Brenda Alexander |
+| 259 | 270 | Debbie Kane |
 | 260 | 268 | Standia Civil |
 | 261 | 267 | Daring Fitclear |
 | 262 | 265 | Kandae |
