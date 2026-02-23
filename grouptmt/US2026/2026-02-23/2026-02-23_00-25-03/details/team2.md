@@ -357,8 +357,8 @@
 | 349 | 769 | Melissa Cole |
 | 350 | 768 | Joshua Self |
 | 351 | 768 | Arkei Luster |
-| 352 | 767 | Fancy Twister |
-| 353 | 767 | Ashley Lopez |
+| 352 | 767 | Ashley Lopez |
+| 353 | 767 | Fancy Twister |
 | 354 | 765 | Kathryn Townsley |
 | 355 | 763 | Arlene Joy Belicina |
 | 356 | 763 | Dreamy Blast |
@@ -403,8 +403,8 @@
 | 395 | 704 | Montez Mancil |
 | 396 | 702 | Kimberly Randesi |
 | 397 | 701 | Mama T |
-| 398 | 700 | Vincent Petrella |
-| 399 | 700 | Beverly Owens |
+| 398 | 700 | Beverly Owens |
+| 399 | 700 | Vincent Petrella |
 | 400 | 699 | Dannette Goldberg-Richards |
 | 401 | 698 | Joce Lynn |
 | 402 | 698 | Spunkysmom |
@@ -415,12 +415,12 @@
 | 407 | 686 | Ashley Guernsey-Martin |
 | 408 | 682 | BeQuo |
 | 409 | 681 | Eric Castaneda |
-| 410 | 680 | blume |
-| 411 | 680 | Kenny Alvarado |
+| 410 | 680 | Kenny Alvarado |
+| 411 | 680 | blume |
 | 412 | 679 | Kassandra Hunt |
 | 413 | 677 | Crystie Hicks |
-| 414 | 677 | Ellie Jonas |
-| 415 | 677 | Amanda Woodruff |
+| 414 | 677 | Amanda Woodruff |
+| 415 | 677 | Ellie Jonas |
 | 416 | 676 | Roseanna Peloso |
 | 417 | 674 | Connie Jimenez |
 | 418 | 674 | Lonne Emade |
@@ -684,8 +684,8 @@
 | 676 | 444 | Crystal Heller Gonzalez |
 | 677 | 444 | Chab |
 | 678 | 443 | Jasmine Kenney |
-| 679 | 442 | Juan Castillo |
-| 680 | 442 | Niceday |
+| 679 | 442 | Niceday |
+| 680 | 442 | Juan Castillo |
 | 681 | 438 | Deyawn Smith |
 | 682 | 438 | Lynda Toland |
 | 683 | 436 | Tom Steffen |

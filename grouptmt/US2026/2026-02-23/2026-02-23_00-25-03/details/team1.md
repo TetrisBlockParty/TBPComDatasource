@@ -259,8 +259,8 @@
 | 251 | 228 | Adele Rahman |
 | 252 | 227 | Tipsy Riseclear |
 | 253 | 226 | Glitzy Buildsnap |
-| 254 | 223 | Erez Yosef |
-| 255 | 223 | Christina Backer |
+| 254 | 223 | Christina Backer |
+| 255 | 223 | Erez Yosef |
 | 256 | 222 | Debbie Davis |
 | 257 | 222 | Jessie Welch |
 | 258 | 222 | Snappy Bridgepiece |

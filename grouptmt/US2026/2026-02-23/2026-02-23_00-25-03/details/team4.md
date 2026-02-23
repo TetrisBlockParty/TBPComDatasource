@@ -51,8 +51,8 @@
 | 43 | 908 | Misty Hollibaugh |
 | 44 | 855 | Marvin Lou Martin |
 | 45 | 851 | Jae Job |
-| 46 | 846 | Christine Marie |
-| 47 | 846 | Lucille Truesdale |
+| 46 | 846 | Lucille Truesdale |
+| 47 | 846 | Christine Marie |
 | 48 | 845 | LisaJo Picken Buchanan |
 | 49 | 843 | Shelly Chandler |
 | 50 | 840 | TeeJ |
@@ -97,8 +97,8 @@
 | 89 | 594 | Jamie Mann-Deichmann |
 | 90 | 591 | Amelpss |
 | 91 | 568 | Chris Baggett |
-| 92 | 561 | H.R. Block |
-| 93 | 561 | Amy Suckarieh |
+| 92 | 561 | Amy Suckarieh |
+| 93 | 561 | H.R. Block |
 | 94 | 561 | Zippy Gridlock |
 | 95 | 557 | Carmethia Clemons Haslerig |
 | 96 | 533 | Samantha Peterson |
@@ -130,16 +130,16 @@
 | 122 | 431 | Courtney Cicoria |
 | 123 | 429 | Ren Mc |
 | 124 | 427 | KJ Pool |
-| 125 | 418 | Monica Daley |
-| 126 | 418 | Marie-Pier Desjardins |
-| 127 | 418 | Lush Linkfall |
+| 125 | 418 | Lush Linkfall |
+| 126 | 418 | Monica Daley |
+| 127 | 418 | Marie-Pier Desjardins |
 | 128 | 414 | Nope Young |
 | 129 | 411 | JIGsaw ~(•¿°)~ |
 | 130 | 408 | Amanda Pauldo-Ivy |
 | 131 | 400 | Ericca Eldridge |
 | 132 | 394 | Austin Owens |
-| 133 | 393 | Carlton Unfiltered |
-| 134 | 393 | Trish |
+| 133 | 393 | Trish |
+| 134 | 393 | Carlton Unfiltered |
 | 135 | 392 | Cristy Duerksen |
 | 136 | 391 | Ramel Rhodes |
 | 137 | 384 | Lucas J Sutton |
@@ -207,17 +207,17 @@
 | 199 | 281 | Kim Klutz Olson |
 | 200 | 280 | Mary Ann Pabukis |
 | 201 | 277 | Zesty Twistbuilder |
-| 202 | 276 | Joeliecea Cobb |
-| 203 | 276 | Matt Dell'Olio |
+| 202 | 276 | Matt Dell'Olio |
+| 203 | 276 | Joeliecea Cobb |
 | 204 | 273 | Casey Grabner |
 | 205 | 272 | Alan George LaRage |
 | 206 | 272 | Dennis Bradley |
 | 207 | 271 | Sarah Brown |
-| 208 | 270 | Jen Caldwell |
-| 209 | 270 | Juls |
+| 208 | 270 | Juls |
+| 209 | 270 | Jen Caldwell |
 | 210 | 269 | Nikki Rae Gordon |
-| 211 | 268 | Mimi |
-| 212 | 268 | Porkobello |
+| 211 | 268 | Porkobello |
+| 212 | 268 | Mimi |
 | 213 | 267 | Holly |
 | 214 | 265 | Sarah Neathery |
 | 215 | 264 | Carlos Ramirez |
@@ -308,8 +308,8 @@
 | 300 | 190 | wombat |
 | 301 | 190 | Amanda Christine |
 | 302 | 189 | Berklie Apedaile |
-| 303 | 187 | Nita Wells |
-| 304 | 187 | Cynthia Boudreau |
+| 303 | 187 | Cynthia Boudreau |
+| 304 | 187 | Nita Wells |
 | 305 | 186 | Lauren Lamb |
 | 306 | 185 | Laura Hosford |
 | 307 | 185 | Morti |
@@ -584,9 +584,9 @@
 | 576 | 101 | Flavoredsausage |
 | 577 | 101 | Saulc1991 |
 | 578 | 100 | Tianna Frey |
-| 579 | 99 | Kenna Gunderland |
-| 580 | 99 | Martha Lucinda Bishop |
-| 581 | 99 | Heather Layne Smith |
+| 579 | 99 | Heather Layne Smith |
+| 580 | 99 | Kenna Gunderland |
+| 581 | 99 | Martha Lucinda Bishop |
 | 582 | 99 | Kelly Williams |
 | 583 | 98 | Nicole McMurray |
 | 584 | 98 | Cranky Pivoty |

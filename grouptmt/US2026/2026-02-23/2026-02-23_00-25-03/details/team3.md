@@ -66,8 +66,8 @@
 | 58 | 1170 | Snappy Fitzone |
 | 59 | 1130 | Danielle Cutler |
 | 60 | 1129 | Carrie Jarvis Mohler |
-| 61 | 1118 | Elaine Webb Graves |
-| 62 | 1118 | Amanda L Baker |
+| 61 | 1118 | Amanda L Baker |
+| 62 | 1118 | Elaine Webb Graves |
 | 63 | 1093 | Queen Kam |
 | 64 | 1077 | Corie A. Brinson |
 | 65 | 1072 | Lori Barnaby |
@@ -142,8 +142,8 @@
 | 134 | 621 | Cherry Parker |
 | 135 | 611 | Kiki |
 | 136 | 610 | Daryn Elliott |
-| 137 | 595 | Giddy Drop |
-| 138 | 595 | Patricia White |
+| 137 | 595 | Patricia White |
+| 138 | 595 | Giddy Drop |
 | 139 | 590 | Santeria Trece Candles |
 | 140 | 588 | Justin Ritter |
 | 141 | 585 | opf |
@@ -354,12 +354,12 @@
 | 346 | 254 | Desiree Gold |
 | 347 | 253 | Alice |
 | 348 | 252 | Blair Erin Waite |
-| 349 | 250 | Juliana Dottore |
-| 350 | 250 | Eric Caccavale |
-| 351 | 250 | Tosha Griffey |
+| 349 | 250 | Tosha Griffey |
+| 350 | 250 | Juliana Dottore |
+| 351 | 250 | Eric Caccavale |
 | 352 | 249 | Willow |
-| 353 | 247 | Jessica |
-| 354 | 247 | Daring Builder |
+| 353 | 247 | Daring Builder |
+| 354 | 247 | Jessica |
 | 355 | 245 | Latoya Mayne |
 | 356 | 244 | LaNette Morgan |
 | 357 | 244 | Tegan Chapman |
@@ -454,8 +454,8 @@
 | 446 | 200 | Christina Marie Swisher |
 | 447 | 199 | Dakota Graham |
 | 448 | 199 | Katheline Lazo Luizaga |
-| 449 | 198 | Linda Draper |
-| 450 | 198 | Zac Hudak |
+| 449 | 198 | Zac Hudak |
+| 450 | 198 | Linda Draper |
 | 451 | 198 | joz |
 | 452 | 197 | Rainbow77375 |
 | 453 | 197 | TLM |
@@ -486,8 +486,8 @@
 | 478 | 188 | Sunny Lift |
 | 479 | 187 | Sabrina Mansfield |
 | 480 | 185 | Funky Jumper |
-| 481 | 184 | Cheeky Setter |
-| 482 | 184 | Shanon R Jackson |
+| 481 | 184 | Shanon R Jackson |
+| 482 | 184 | Cheeky Setter |
 | 483 | 183 | AC Yeater |
 | 484 | 183 | Beth Ingham |
 | 485 | 182 | Alicia |
