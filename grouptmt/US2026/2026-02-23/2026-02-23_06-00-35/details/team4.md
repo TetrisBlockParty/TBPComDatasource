@@ -68,8 +68,8 @@
 | 60 | 807 | Rachel Anne |
 | 61 | 803 | Amelpss |
 | 62 | 788 | Julian Garcia |
-| 63 | 781 | Chilly Line |
-| 64 | 781 | Ashley Ingram |
+| 63 | 781 | Ashley Ingram |
+| 64 | 781 | Chilly Line |
 | 65 | 767 | Shannon Ferrari |
 | 66 | 766 | Edward White |
 | 67 | 766 | Robin Watters |
@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | Shauna Havard |
-| 93 | 647 | KM8 |
+| 92 | 647 | KM8 |
+| 93 | 647 | Shauna Havard |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -201,8 +201,8 @@
 | 193 | 321 | Meagan Nicole |
 | 194 | 320 | Lauren Scott |
 | 195 | 318 | Chris Hartig |
-| 196 | 316 | Cursed Hag |
-| 197 | 316 | Autumn Kumzi |
+| 196 | 316 | Autumn Kumzi |
+| 197 | 316 | Cursed Hag |
 | 198 | 311 | Mary Ann Pabukis |
 | 199 | 310 | Holly Jolly |
 | 200 | 307 | Cheery Risebuilder |
@@ -334,9 +334,9 @@
 | 326 | 206 | Maureen Flanigan |
 | 327 | 205 | KayM |
 | 328 | 204 | Russ Attitude |
-| 329 | 203 | Gilles Lanctot |
-| 330 | 203 | Courtney Halleck |
-| 331 | 203 | Katherine Crane |
+| 329 | 203 | Courtney Halleck |
+| 330 | 203 | Katherine Crane |
+| 331 | 203 | Gilles Lanctot |
 | 332 | 203 | Andrew Dang |
 | 333 | 201 | O block |
 | 334 | 200 | Googenheim |

@@ -379,8 +379,8 @@
 | 371 | 185 | Amh |
 | 372 | 185 | Hasty Columnbuilder |
 | 373 | 184 | Sonia Marquis |
-| 374 | 182 | Isaiah |
-| 375 | 182 | Glitzy Curvebuilder |
+| 374 | 182 | Glitzy Curvebuilder |
+| 375 | 182 | Isaiah |
 | 376 | 182 | Nathan Sealander |
 | 377 | 182 | Test |
 | 378 | 181 | David DeSantis |
@@ -437,8 +437,8 @@
 | 429 | 162 | Hector Cruz |
 | 430 | 162 | Jennifer Corrado |
 | 431 | 161 | Danielle S Kester |
-| 432 | 160 | Jeremy Maubert |
-| 433 | 160 | Sunny Catcher |
+| 432 | 160 | Sunny Catcher |
+| 433 | 160 | Jeremy Maubert |
 | 434 | 160 | Ashley Adams |
 | 435 | 159 | Uhog SF |
 | 436 | 159 | Krista Young |

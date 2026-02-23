@@ -125,8 +125,8 @@
 | 117 | 769 | Kristie |
 | 118 | 764 | Groovy Catcher |
 | 119 | 762 | Speedy Bridger |
-| 120 | 752 | Raya |
-| 121 | 752 | Logan Naccarato |
+| 120 | 752 | Logan Naccarato |
+| 121 | 752 | Raya |
 | 122 | 748 | Adrian Marcel Pate |
 | 123 | 745 | JerseyJess |
 | 124 | 744 | Leah Barnett |
@@ -156,8 +156,8 @@
 | 148 | 631 | Daira Largen |
 | 149 | 630 | yoyo |
 | 150 | 629 | Patricia White |
-| 151 | 621 | Sashay Tapae Simpson |
-| 152 | 621 | Cherry Parker |
+| 151 | 621 | Cherry Parker |
+| 152 | 621 | Sashay Tapae Simpson |
 | 153 | 616 | Kammy Hill |
 | 154 | 611 | Rochelle Hazelett |
 | 155 | 607 | Grego Daniel |
@@ -240,8 +240,8 @@
 | 232 | 408 | Tiffany Ford |
 | 233 | 406 | Kristal C Lee |
 | 234 | 404 | Chasity |
-| 235 | 403 | Scott Lindsay |
-| 236 | 403 | Denita Mungro |
+| 235 | 403 | Denita Mungro |
+| 236 | 403 | Scott Lindsay |
 | 237 | 399 | Rebecca Funderburk Kirby |
 | 238 | 395 | rosy |
 | 239 | 391 | Marci Mize Fandrich |
@@ -304,8 +304,8 @@
 | 296 | 328 | Desiree Soto |
 | 297 | 326 | Kerry Nowickshere |
 | 298 | 325 | Tasha Wesson-Torrence |
-| 299 | 325 | Angela Scott |
-| 300 | 325 | Eileen Brady Thurber |
+| 299 | 325 | Eileen Brady Thurber |
+| 300 | 325 | Angela Scott |
 | 301 | 324 | Sissy Lowery Davis |
 | 302 | 322 | Nena Somerville Kelly |
 | 303 | 321 | Wettnippz |
@@ -333,8 +333,8 @@
 | 325 | 301 | Tiffany Davie |
 | 326 | 301 | Dee Pratt |
 | 327 | 300 | Foltz Lee Kelli |
-| 328 | 299 | Geoffrey Nash |
-| 329 | 299 | Angie Harper |
+| 328 | 299 | Angie Harper |
+| 329 | 299 | Geoffrey Nash |
 | 330 | 298 | Grams |
 | 331 | 298 | Dannie Litchard |
 | 332 | 297 | kacihall |
@@ -356,8 +356,8 @@
 | 348 | 286 | Micayah Stevens |
 | 349 | 284 | Hanna Kim |
 | 350 | 281 | Kaycee Kay |
-| 351 | 280 | Dirtgirl27 |
-| 352 | 280 | ROODBOY |
+| 351 | 280 | ROODBOY |
+| 352 | 280 | Dirtgirl27 |
 | 353 | 280 | Aerian Preston |
 | 354 | 280 | Ivan Del Toro |
 | 355 | 279 | Naur |
@@ -430,7 +430,7 @@
 | 422 | 242 | Joy Petroski |
 | 423 | 242 | Michael Latasha Gray |
 | 424 | 242 | Fancy Curver |
-| 425 | 242 | Michael Latasha Gray |
+| 425 | 242 | Dana Fox |
 | 426 | 241 | JessDrown |
 | 427 | 241 | Skinny Baldez |
 | 428 | 240 | Trey Ward |
@@ -439,8 +439,8 @@
 | 431 | 240 | Ashley Lynn Marchese |
 | 432 | 240 | Stefanie LaPointe |
 | 433 | 239 | Kirhonda Autmon |
-| 434 | 238 | Jess Dearborn |
-| 435 | 238 | Niki Dalrymple |
+| 434 | 238 | Niki Dalrymple |
+| 435 | 238 | Jess Dearborn |
 | 436 | 238 | 4girls |
 | 437 | 237 | Angella Lyons |
 | 438 | 237 | Jolly Dashpiece |

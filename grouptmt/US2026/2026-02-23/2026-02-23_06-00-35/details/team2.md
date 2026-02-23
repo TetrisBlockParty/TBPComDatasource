@@ -299,8 +299,8 @@
 | 291 | 987 | Osun Anuket Esu |
 | 292 | 984 | Crystal Hoffman |
 | 293 | 981 | Ashlen Dorrell |
-| 294 | 979 | Hillary Crawford |
-| 295 | 979 | Melissa Penelope Ann Dodge |
+| 294 | 979 | Melissa Penelope Ann Dodge |
+| 295 | 979 | Hillary Crawford |
 | 296 | 978 | April Dawn Gussler |
 | 297 | 976 | Sam Joe |
 | 298 | 976 | Della Hole |
@@ -553,8 +553,8 @@
 | 545 | 604 | Rae Rae |
 | 546 | 603 | Casper The Chonk |
 | 547 | 602 | KhaosLord |
-| 548 | 601 | Moua Ying |
-| 549 | 601 | Daniel Amos |
+| 548 | 601 | Daniel Amos |
+| 549 | 601 | Moua Ying |
 | 550 | 598 | Victoria Regina Girolami |
 | 551 | 598 | Leah Keesling |
 | 552 | 597 | Jamie Schmitt |
@@ -567,8 +567,8 @@
 | 559 | 592 | Sheronda Jackson |
 | 560 | 590 | Maddy Petersen |
 | 561 | 589 | Thomas Hedrick |
-| 562 | 589 | Kelly Templeton |
-| 563 | 589 | Shavonna Haynes |
+| 562 | 589 | Shavonna Haynes |
+| 563 | 589 | Kelly Templeton |
 | 564 | 588 | Kitybox |
 | 565 | 587 | Ben Barkley |
 | 566 | 586 | Christina Ashley |
@@ -668,8 +668,8 @@
 | 660 | 512 | Sassy Linkroll |
 | 661 | 509 | Jordan Kaiser |
 | 662 | 509 | Kiana Boschh |
-| 663 | 509 | Perky Rollfit |
-| 664 | 509 | Toni Whipple |
+| 663 | 509 | Toni Whipple |
+| 664 | 509 | Perky Rollfit |
 | 665 | 508 | Daphne Jordan |
 | 666 | 507 | Crystal Heller Gonzalez |
 | 667 | 506 | Cblock |
@@ -867,8 +867,8 @@
 | 859 | 405 | Swanky Columnbuilder |
 | 860 | 404 | Christy Green |
 | 861 | 404 | Shylee Tilman |
-| 862 | 403 | Goofy Dasher |
-| 863 | 403 | Nate Skidmore |
+| 862 | 403 | Nate Skidmore |
+| 863 | 403 | Goofy Dasher |
 | 864 | 403 | mshir |
 | 865 | 403 | Susan Arnburg |
 | 866 | 402 | B |
