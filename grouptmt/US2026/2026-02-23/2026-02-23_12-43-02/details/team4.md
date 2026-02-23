@@ -49,8 +49,8 @@
 | 41 | 1121 | Isabel Aguilar |
 | 42 | 1100 | Landon Keith Graffeo |
 | 43 | 1085 | Kimyatta Cavin |
-| 44 | 1082 | Dawn Alexander |
-| 45 | 1082 | Dion Crommarty |
+| 44 | 1082 | Dion Crommarty |
+| 45 | 1082 | Dawn Alexander |
 | 46 | 1071 | Cherrish Duren |
 | 47 | 1065 | Koshin Abdirahman |
 | 48 | 1046 | Johnathan Martinez |
@@ -69,8 +69,8 @@
 | 61 | 846 | Lucille Truesdale |
 | 62 | 846 | Christine Marie |
 | 63 | 834 | quicksand420 |
-| 64 | 807 | Amelpss |
-| 65 | 807 | Rachel Anne |
+| 64 | 807 | Rachel Anne |
+| 65 | 807 | Amelpss |
 | 66 | 790 | Avy Absol |
 | 67 | 788 | Julian Garcia |
 | 68 | 788 | Chilly Line |
@@ -290,16 +290,16 @@
 | 282 | 261 | Stacey Stano |
 | 283 | 261 | Zethra Prenisha Rahming |
 | 284 | 260 | Carter Jones |
-| 285 | 259 | Allen Lloyd |
-| 286 | 259 | John Brunetti |
-| 287 | 259 | Montiette Mcglown |
+| 285 | 259 | Montiette Mcglown |
+| 286 | 259 | Allen Lloyd |
+| 287 | 259 | John Brunetti |
 | 288 | 257 | PeaceOs |
 | 289 | 256 | Brittany Marsh |
 | 290 | 256 | Paige Kittles |
 | 291 | 256 | Jade Rian |
 | 292 | 254 | Ari Droff |
-| 293 | 253 | Autum Leigh |
-| 294 | 253 | Shiny Fit |
+| 293 | 253 | Shiny Fit |
+| 294 | 253 | Autum Leigh |
 | 295 | 252 | Deb Rubeck |
 | 296 | 251 | Carol Ricks Raymond |
 | 297 | 249 | Ak Jones |

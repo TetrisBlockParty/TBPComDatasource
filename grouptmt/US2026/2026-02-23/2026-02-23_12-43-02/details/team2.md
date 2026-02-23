@@ -316,8 +316,8 @@
 | 308 | 1014 | Michele Morgan |
 | 309 | 1011 | Teresa Gillmore |
 | 310 | 1003 | Andrea Maher |
-| 311 | 998 | Keri Womack |
-| 312 | 998 | Shelley Thornburgh Wright |
+| 311 | 998 | Shelley Thornburgh Wright |
+| 312 | 998 | Keri Womack |
 | 313 | 996 | Ashie Ann |
 | 314 | 987 | Osun Anuket Esu |
 | 315 | 980 | Jackie Lucas |
@@ -674,12 +674,12 @@
 | 666 | 551 | Cynthia Louann Rose |
 | 667 | 551 | Matt Johnson |
 | 668 | 550 | Michelle Sager |
-| 669 | 550 | Frilly Fallzone |
-| 670 | 550 | Shorty |
+| 669 | 550 | Shorty |
+| 670 | 550 | Frilly Fallzone |
 | 671 | 549 | Kaylee McCafferty |
 | 672 | 549 | Crystal Hodge Love |
-| 673 | 548 | Sunshine711 |
-| 674 | 548 | Shindee |
+| 673 | 548 | Shindee |
+| 674 | 548 | Sunshine711 |
 | 675 | 547 | Hunter Connors |
 | 676 | 547 | Sonya Back |
 | 677 | 546 | NanDa Cruzan VI |
@@ -780,7 +780,7 @@
 | 772 | 485 | coleksquad |
 | 773 | 485 | Sarah block |
 | 774 | 484 | Street Sweeper |
-| 775 | 483 | Tabs Reichert |
+| 775 | 483 | Austin Wilson |
 | 776 | 483 | Goofy Catcher |
 | 777 | 483 | Tabs Reichert |
 | 778 | 482 | Shyenn Gadsby |
@@ -798,13 +798,13 @@
 | 790 | 477 | Annette Ross Clay |
 | 791 | 477 | Danielle Ayoub |
 | 792 | 477 | Joel Rosado |
-| 793 | 474 | Veronica Stevenson |
+| 793 | 474 | Calandra Shaya Robinson |
 | 794 | 474 | Jennifer Scott |
-| 795 | 474 | Calandra Shaya Robinson |
-| 796 | 473 | Jenn Marie |
-| 797 | 473 | Tara Lynn Janes |
-| 798 | 472 | Connie Lepore-Mann |
-| 799 | 472 | Cathleena Giusto |
+| 795 | 474 | Veronica Stevenson |
+| 796 | 473 | Tara Lynn Janes |
+| 797 | 473 | Jenn Marie |
+| 798 | 472 | Cathleena Giusto |
+| 799 | 472 | Connie Lepore-Mann |
 | 800 | 471 | Charming Leech |
 | 801 | 470 | Katie Marie |
 | 802 | 470 | AkaLefty |
@@ -813,16 +813,16 @@
 | 805 | 469 | Moist_B-hole |
 | 806 | 468 | Niceday |
 | 807 | 468 | Bing |
-| 808 | 467 | Ahtavia Watkins |
-| 809 | 467 | Linda Miltenburg |
+| 808 | 467 | Linda Miltenburg |
+| 809 | 467 | Ahtavia Watkins |
 | 810 | 467 | ruth |
-| 811 | 466 | Miracle |
-| 812 | 466 | KrisCynthia Lynette |
+| 811 | 466 | KrisCynthia Lynette |
+| 812 | 466 | Miracle |
 | 813 | 466 | Shea Edison |
-| 814 | 464 | Natasha Edmonds |
-| 815 | 464 | Lively Edgepiece |
-| 816 | 464 | Sarah Sims |
-| 817 | 464 | Oscar Bernie |
+| 814 | 464 | Lively Edgepiece |
+| 815 | 464 | Natasha Edmonds |
+| 816 | 464 | Oscar Bernie |
+| 817 | 464 | Sarah Sims |
 | 818 | 463 | Jaye EL Hunter |
 | 819 | 463 | Murray Marie |
 | 820 | 462 | Samantha Scibelli |
@@ -839,8 +839,8 @@
 | 831 | 459 | Tim Galle |
 | 832 | 458 | Ys Muhammed |
 | 833 | 457 | Kelly Meredeith |
-| 834 | 457 | Kray Kray Katelynn |
-| 835 | 457 | Jennifer Coe |
+| 834 | 457 | Jennifer Coe |
+| 835 | 457 | Kray Kray Katelynn |
 | 836 | 457 | Ryan Chan |
 | 837 | 456 | ItsJennifer Neriss |
 | 838 | 456 | Candy Pitts |

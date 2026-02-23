@@ -254,8 +254,8 @@
 | 246 | 294 | Chuck Gannon |
 | 247 | 291 | Giddy Cascade |
 | 248 | 291 | Brave Wrecker |
-| 249 | 290 | Tavia |
-| 250 | 290 | Hellsin |
+| 249 | 290 | Hellsin |
+| 250 | 290 | Tavia |
 | 251 | 289 | Alenoush Karimian |
 | 252 | 288 | Bird Person |
 | 253 | 285 | Shanae Grant |
@@ -279,7 +279,7 @@
 | 271 | 272 | Michelle Beres |
 | 272 | 270 | Plucky Stacky |
 | 273 | 270 | Debbie Kane |
-| 274 | 270 | Plucky Stacky |
+| 274 | 270 | Brenda Alexander |
 | 275 | 268 | Standia Civil |
 | 276 | 265 | Kandae |
 | 277 | 264 | dhardy |
