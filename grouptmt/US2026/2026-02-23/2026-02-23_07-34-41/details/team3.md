@@ -113,8 +113,8 @@
 | 105 | 869 | Araceli Parra |
 | 106 | 868 | Sarajane Lokan |
 | 107 | 860 | Sunny Rotater |
-| 108 | 851 | Danielle Becker |
-| 109 | 851 | Jd Morris |
+| 108 | 851 | Jd Morris |
+| 109 | 851 | Danielle Becker |
 | 110 | 850 | Danielle Mogg |
 | 111 | 848 | Patricia Gadsden |
 | 112 | 831 | Angeline Joseph |
@@ -195,8 +195,8 @@
 | 187 | 546 | Cynthia Castros-Hampton |
 | 188 | 546 | Mykal Burton |
 | 189 | 540 | Shawn Miller |
-| 190 | 531 | Chauntee Alfrey-Cardinale |
-| 191 | 531 | Sarah Cowan Burgos |
+| 190 | 531 | Sarah Cowan Burgos |
+| 191 | 531 | Chauntee Alfrey-Cardinale |
 | 192 | 528 | Silly Twist |
 | 193 | 525 | Stephanie Blkpep Davidson |
 | 194 | 524 | Bmo |
@@ -221,8 +221,8 @@
 | 213 | 467 | Sherry Ogden |
 | 214 | 467 | Edwin Calvillo Jr. |
 | 215 | 465 | Annie Déè |
-| 216 | 464 | Shunta Jacobs |
-| 217 | 464 | Danielle Weikel |
+| 216 | 464 | Danielle Weikel |
+| 217 | 464 | Shunta Jacobs |
 | 218 | 461 | Tom Nault |
 | 219 | 458 | Danielle Rhoades |
 | 220 | 454 | Joye Sims Binion |
@@ -249,15 +249,15 @@
 | 241 | 396 | Marci Mize Fandrich |
 | 242 | 396 | Randy Clevenger |
 | 243 | 395 | rosy |
-| 244 | 391 | Nicole Flippo |
-| 245 | 391 | RickyG |
+| 244 | 391 | RickyG |
+| 245 | 391 | Nicole Flippo |
 | 246 | 387 | Gideon Walker |
 | 247 | 383 | Darlene McMillan |
 | 248 | 382 | Giddy Twistbuilder |
 | 249 | 381 | Snazzy Filler |
 | 250 | 380 | Rebecca Bailey |
-| 251 | 378 | Chris Bell |
-| 252 | 378 | MsBee |
+| 251 | 378 | MsBee |
+| 252 | 378 | Chris Bell |
 | 253 | 377 | Charles Perrone |
 | 254 | 374 | Rania Zaqout |
 | 255 | 373 | Chummy Caster |
@@ -345,8 +345,8 @@
 | 337 | 298 | Dannie Litchard |
 | 338 | 298 | Grams |
 | 339 | 297 | kacihall |
-| 340 | 296 | Donna |
-| 341 | 296 | Tracy Martin |
+| 340 | 296 | Tracy Martin |
+| 341 | 296 | Donna |
 | 342 | 295 | Nikki Pags |
 | 343 | 294 | Antonia Russell |
 | 344 | 292 | Khaleada McGill Banks |
@@ -364,8 +364,8 @@
 | 356 | 280 | Aerian Preston |
 | 357 | 280 | ROODBOY |
 | 358 | 280 | Dirtgirl27 |
-| 359 | 279 | Naur |
-| 360 | 279 | Tosha Griffey |
+| 359 | 279 | Tosha Griffey |
+| 360 | 279 | Naur |
 | 361 | 278 | Rufus Lincoln |
 | 362 | 277 | Krystal Gerstberger |
 | 363 | 277 | Joe-Maggie Mathews |
@@ -389,19 +389,19 @@
 | 381 | 269 | Jess Bissett |
 | 382 | 269 | Goofy Fall |
 | 383 | 268 | Jessica Lynn French |
-| 384 | 267 | April Matthew Kibble |
-| 385 | 267 | Jul |
+| 384 | 267 | Jul |
+| 385 | 267 | April Matthew Kibble |
 | 386 | 267 | Michael Kimbro |
 | 387 | 266 | Quirky Dropzone |
 | 388 | 265 | Heather Davis |
 | 389 | 265 | AlsoJess |
 | 390 | 264 | Reina Roth |
 | 391 | 264 | Danielle Beaunoyer Jean |
-| 392 | 263 | Erika Thornton |
-| 393 | 263 | Jimmie Clemons |
+| 392 | 263 | Jimmie Clemons |
+| 393 | 263 | Erika Thornton |
 | 394 | 261 | Swanky Snapclear |
-| 395 | 260 | Tracey Cox |
-| 396 | 260 | Alice |
+| 395 | 260 | Alice |
+| 396 | 260 | Tracey Cox |
 | 397 | 259 | JessDrown |
 | 398 | 259 | Tegan Chapman |
 | 399 | 259 | Shania Vaine |
@@ -433,7 +433,7 @@
 | 425 | 244 | Lys |
 | 426 | 244 | Beezwax |
 | 427 | 244 | Quackers |
-| 428 | 243 | Nicholas Roddy |
+| 428 | 243 | Christy Quick |
 | 429 | 243 | Paula Little |
 | 430 | 243 | Nicholas Roddy |
 | 431 | 242 | Fancy Curver |
@@ -459,8 +459,8 @@
 | 451 | 234 | Cheeky Twisterfit |
 | 452 | 233 | Criss |
 | 453 | 233 | Tony Waters |
-| 454 | 232 | Melanie Sherwood |
-| 455 | 232 | Stephanie Hill |
+| 454 | 232 | Stephanie Hill |
+| 455 | 232 | Melanie Sherwood |
 | 456 | 232 | Sunny Tiltgrid |
 | 457 | 231 | Giggly Brickroll |
 | 458 | 231 | Frothy Snapper |
@@ -471,9 +471,9 @@
 | 463 | 228 | Dapper Liney |
 | 464 | 228 | Tipsy Zonebuilder |
 | 465 | 227 | Meowsa |
-| 466 | 226 | paranoid |
-| 467 | 226 | Jana Polk |
-| 468 | 226 | Ryan Williams |
+| 466 | 226 | Jana Polk |
+| 467 | 226 | Ryan Williams |
+| 468 | 226 | paranoid |
 | 469 | 225 | Sassy Tiler |
 | 470 | 225 | sofaking |
 | 471 | 224 | Sarah Morris |

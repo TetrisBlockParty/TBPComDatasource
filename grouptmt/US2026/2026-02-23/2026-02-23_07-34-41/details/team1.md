@@ -89,8 +89,8 @@
 | 81 | 645 | Robert Benito |
 | 82 | 643 | Evie Khalil |
 | 83 | 600 | Greg Hart |
-| 84 | 598 | Erin Hodges Plumb |
-| 85 | 598 | Kellie |
+| 84 | 598 | Kellie |
+| 85 | 598 | Erin Hodges Plumb |
 | 86 | 584 | Jen Sartain |
 | 87 | 583 | Theo Pinnow |
 | 88 | 582 | Plucky Fallzone |
@@ -102,8 +102,8 @@
 | 94 | 529 | Ryan Lunnin |
 | 95 | 522 | Sarah Lombardo |
 | 96 | 511 | Mario Cab |
-| 97 | 510 | Chirpy Smasher |
-| 98 | 510 | Colena Davenport |
+| 97 | 510 | Colena Davenport |
+| 98 | 510 | Chirpy Smasher |
 | 99 | 509 | Rachael |
 | 100 | 497 | Arianna O'Brien |
 | 101 | 493 | MomMom |
@@ -124,8 +124,8 @@
 | 116 | 452 | Hyper |
 | 117 | 451 | Plucky Ziggy |
 | 118 | 450 | lil mickey |
-| 119 | 448 | Jazzy Framezone |
-| 120 | 448 | Sweet Baker |
+| 119 | 448 | Sweet Baker |
+| 120 | 448 | Jazzy Framezone |
 | 121 | 446 | SkipTheSadSauce |
 | 122 | 443 | Steve Schneider |
 | 123 | 439 | Dee Perry |
@@ -204,12 +204,12 @@
 | 196 | 324 | Rat666 |
 | 197 | 323 | Madison Wicks |
 | 198 | 322 | Letson Melissa |
-| 199 | 317 | Kimberly Garcia |
-| 200 | 317 | Sarah Roberts |
+| 199 | 317 | Sarah Roberts |
+| 200 | 317 | Kimberly Garcia |
 | 201 | 316 | Reesey Enyart |
 | 202 | 315 | Danielle Little-Daugherty |
-| 203 | 314 | Snippy Wipebuilder |
-| 204 | 314 | Tana |
+| 203 | 314 | Tana |
+| 204 | 314 | Snippy Wipebuilder |
 | 205 | 312 | Jessi Sauer |
 | 206 | 310 | Bloknboy |
 | 207 | 308 | Speedy Liney |
@@ -228,8 +228,8 @@
 | 220 | 290 | Tavia |
 | 221 | 287 | Sassy Builderline |
 | 222 | 285 | Shanae Grant |
-| 223 | 285 | Bird Person |
-| 224 | 285 | Jessie Lynn |
+| 223 | 285 | Jessie Lynn |
+| 224 | 285 | Bird Person |
 | 225 | 284 | Sarah Somers Gray |
 | 226 | 283 | Franswa |
 | 227 | 283 | Amanda Holibaugh |
@@ -271,7 +271,7 @@
 | 263 | 246 | Tyler Hertzog |
 | 264 | 245 | LaFontaine Leslie |
 | 265 | 245 | Matt Iaccheo |
-| 266 | 244 | Sarah Marie |
+| 266 | 244 | Tami Luce Martin |
 | 267 | 244 | Eddie Dillon |
 | 268 | 244 | Sarah Marie |
 | 269 | 243 | Tyler L Hunt |
