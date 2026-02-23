@@ -173,8 +173,8 @@
 | 165 | 591 | Michael Nowogorski |
 | 166 | 588 | Justin Ritter |
 | 167 | 587 | Louise Stacy Sisson |
-| 168 | 585 | Annie Marie |
-| 169 | 585 | Happy Tetriblast |
+| 168 | 585 | Happy Tetriblast |
+| 169 | 585 | Annie Marie |
 | 170 | 583 | Tasha Gillespie |
 | 171 | 582 | Natasha Jones |
 | 172 | 577 | Domo Washington |
@@ -209,8 +209,8 @@
 | 201 | 489 | Poppy Splitter |
 | 202 | 488 | Melissa Orth Hunter |
 | 203 | 485 | Dapper Snap |
-| 204 | 480 | Michael Johnson |
-| 205 | 480 | Danielle Allison |
+| 204 | 480 | Danielle Allison |
+| 205 | 480 | Michael Johnson |
 | 206 | 475 | Tessina Dewey-Mancino |
 | 207 | 473 | Rachel |
 | 208 | 473 | Connie Mohler-Fair |
@@ -253,8 +253,8 @@
 | 245 | 382 | Giddy Twistbuilder |
 | 246 | 381 | Snazzy Filler |
 | 247 | 380 | Rebecca Bailey |
-| 248 | 378 | MsBee |
-| 249 | 378 | Chris Bell |
+| 248 | 378 | Chris Bell |
+| 249 | 378 | MsBee |
 | 250 | 377 | Charles Perrone |
 | 251 | 374 | Rania Zaqout |
 | 252 | 373 | Chummy Caster |
@@ -265,11 +265,11 @@
 | 257 | 370 | Samantha Lynn |
 | 258 | 369 | Philip Rock |
 | 259 | 369 | Keis |
-| 260 | 368 | Sheila M Frazier |
-| 261 | 368 | Stephanie Woods |
+| 260 | 368 | Stephanie Woods |
+| 261 | 368 | Sheila M Frazier |
 | 262 | 367 | Kristin Delibac Corrigan |
-| 263 | 366 | Randy Clevenger |
-| 264 | 366 | Gumbo |
+| 263 | 366 | Gumbo |
+| 264 | 366 | Randy Clevenger |
 | 265 | 365 | Noyb Adam |
 | 266 | 364 | Steffi Chris Dacones |
 | 267 | 362 | Brandon Givens |
@@ -279,8 +279,8 @@
 | 271 | 354 | Roary Danner |
 | 272 | 354 | Andrew Thorson |
 | 273 | 354 | Kelly |
-| 274 | 353 | Cyd061769 |
-| 275 | 353 | Dee Franklin |
+| 274 | 353 | Dee Franklin |
+| 275 | 353 | Cyd061769 |
 | 276 | 352 | Christian Werndl |
 | 277 | 351 | Eon Harris |
 | 278 | 351 | Blocked |
@@ -360,8 +360,8 @@
 | 352 | 280 | Aerian Preston |
 | 353 | 280 | ROODBOY |
 | 354 | 280 | Dirtgirl27 |
-| 355 | 279 | Naur |
-| 356 | 279 | Tosha Griffey |
+| 355 | 279 | Tosha Griffey |
+| 356 | 279 | Naur |
 | 357 | 278 | Rufus Lincoln |
 | 358 | 277 | Krystal Gerstberger |
 | 359 | 277 | Joe-Maggie Mathews |
@@ -448,7 +448,7 @@
 | 440 | 237 | Jolly Dashpiece |
 | 441 | 236 | lashanda |
 | 442 | 236 | Loopy Fallzone |
-| 443 | 236 | lashanda |
+| 443 | 236 | Alexis Ford |
 | 444 | 234 | Cheeky Twisterfit |
 | 445 | 233 | Criss |
 | 446 | 233 | Tony Waters |
@@ -747,8 +747,8 @@
 | 739 | 144 | Susan A Kinsey |
 | 740 | 144 | Clever Edgepiece |
 | 741 | 143 | Russell Hankinson |
-| 742 | 143 | Lisa Lisa |
-| 743 | 143 | Melissa Parlow-Callaway |
+| 742 | 143 | Melissa Parlow-Callaway |
+| 743 | 143 | Lisa Lisa |
 | 744 | 142 | Michelle Allers |
 | 745 | 142 | Giggy Balanceblock |
 | 746 | 142 | Giddy Basepiece |
