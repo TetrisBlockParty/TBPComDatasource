@@ -127,10 +127,10 @@
 | 119 | 427 | Ly Phethmany |
 | 120 | 425 | Dandy Basegrid |
 | 121 | 417 | Lori Sanders- Davis |
-| 122 | 409 | Goose egg |
-| 123 | 409 | Yvonne Marie |
-| 124 | 406 | Desiree Deschaine Havee |
-| 125 | 406 | Candy Jones |
+| 122 | 409 | Yvonne Marie |
+| 123 | 409 | Goose egg |
+| 124 | 406 | Candy Jones |
+| 125 | 406 | Desiree Deschaine Havee |
 | 126 | 402 | Chris K |
 | 127 | 400 | Maria C. Hernandez |
 | 128 | 399 | Nery Martinez |
@@ -145,8 +145,8 @@
 | 137 | 379 | Kimmie Kimms |
 | 138 | 379 | Austin James |
 | 139 | 376 | Brian Richardsson |
-| 140 | 375 | Tanya Carpenter-Reynolds |
-| 141 | 375 | Monica Donato |
+| 140 | 375 | Monica Donato |
+| 141 | 375 | Tanya Carpenter-Reynolds |
 | 142 | 371 | Jason Savage |
 | 143 | 368 | Death |
 | 144 | 368 | Amanda Johnson Huffman |
@@ -230,8 +230,8 @@
 | 222 | 270 | Debbie Kane |
 | 223 | 268 | Reesey Enyart |
 | 224 | 265 | Kandae |
-| 225 | 264 | Standia Civil |
-| 226 | 264 | Jenny Gingrich Fuentes |
+| 225 | 264 | Jenny Gingrich Fuentes |
+| 226 | 264 | Standia Civil |
 | 227 | 263 | Jessie Lynn |
 | 228 | 262 | Melissa Lemmon |
 | 229 | 261 | John J. Cronin |
@@ -252,8 +252,8 @@
 | 244 | 244 | Eddie Dillon |
 | 245 | 242 | ParisandCory Champagne |
 | 246 | 241 | Tyler Hertzog |
-| 247 | 240 | Daring Fitclear |
-| 248 | 240 | DaRascal |
+| 247 | 240 | DaRascal |
+| 248 | 240 | Daring Fitclear |
 | 249 | 238 | Tiffany Smith |
 | 250 | 234 | Paula Martin |
 | 251 | 233 | LC |
