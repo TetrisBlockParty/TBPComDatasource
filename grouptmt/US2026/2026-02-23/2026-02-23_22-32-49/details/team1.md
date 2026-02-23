@@ -303,7 +303,7 @@
 | 295 | 317 | Bloknboy |
 | 296 | 317 | Sam Williams |
 | 297 | 316 | Cheeky Pop |
-| 298 | 316 | Billie Ann Eason |
+| 298 | 314 | Billie Ann Eason |
 | 299 | 313 | Cody Gates |
 | 300 | 312 | Melissa Bires Hussar |
 | 301 | 312 | Jessica Russell |

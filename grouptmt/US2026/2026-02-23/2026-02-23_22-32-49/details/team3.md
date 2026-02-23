@@ -285,8 +285,8 @@
 | 277 | 479 | Stephanie Bradley |
 | 278 | 479 | Hyper Matchzone |
 | 279 | 476 | Shunta Jacobs |
-| 280 | 475 | Tasha Wesson-Torrence |
-| 281 | 475 | Rebecca Bailey |
+| 280 | 475 | Rebecca Bailey |
+| 281 | 475 | Tasha Wesson-Torrence |
 | 282 | 474 | Tiffanie Alley |
 | 283 | 473 | Rebecca Funderburk Kirby |
 | 284 | 471 | Mendoza Lee Christy |

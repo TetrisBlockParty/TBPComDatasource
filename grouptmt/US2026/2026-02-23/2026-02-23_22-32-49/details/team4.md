@@ -235,8 +235,8 @@
 | 227 | 398 | Tyler Terrific |
 | 228 | 394 | Nita Wells |
 | 229 | 390 | Kathy Brookins |
-| 230 | 389 | Brickh4us |
-| 231 | 389 | Joseph Guthrie |
+| 230 | 389 | Joseph Guthrie |
+| 231 | 389 | Brickh4us |
 | 232 | 388 | Calvin Cannon |
 | 233 | 385 | 030Synner |
 | 234 | 384 | Bio Nelly |
@@ -356,8 +356,8 @@
 | 348 | 272 | Tony Pavelka |
 | 349 | 272 | Dennis Bradley |
 | 350 | 271 | Holly |
-| 351 | 270 | 23 |
-| 352 | 270 | 07VHVW |
+| 351 | 270 | 07VHVW |
+| 352 | 270 | 23 |
 | 353 | 269 | Chummy Towerzone |
 | 354 | 268 | Shukee Lo |
 | 355 | 268 | Riverdale |
@@ -367,9 +367,9 @@
 | 359 | 266 | Paige Kittles |
 | 360 | 266 | Happy Combo |
 | 361 | 265 | Sarah Neathery |
-| 362 | 265 | Lorena Guerrero-Barron |
+| 362 | 265 | Degenerate |
 | 363 | 265 | Christine Therrien |
-| 364 | 265 | Degenerate |
+| 364 | 265 | Lorena Guerrero-Barron |
 | 365 | 264 | AyeKay |
 | 366 | 263 | Ak Jones |
 | 367 | 262 | Ruben Wheeler |
