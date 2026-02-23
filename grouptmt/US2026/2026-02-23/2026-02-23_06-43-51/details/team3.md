@@ -128,8 +128,8 @@
 | 120 | 769 | Kristie |
 | 121 | 764 | Groovy Catcher |
 | 122 | 762 | Speedy Bridger |
-| 123 | 752 | Logan Naccarato |
-| 124 | 752 | Raya |
+| 123 | 752 | Raya |
+| 124 | 752 | Logan Naccarato |
 | 125 | 748 | Adrian Marcel Pate |
 | 126 | 745 | JerseyJess |
 | 127 | 744 | Leah Barnett |
@@ -160,8 +160,8 @@
 | 152 | 631 | Daira Largen |
 | 153 | 630 | yoyo |
 | 154 | 629 | Patricia White |
-| 155 | 621 | Cherry Parker |
-| 156 | 621 | Sashay Tapae Simpson |
+| 155 | 621 | Sashay Tapae Simpson |
+| 156 | 621 | Cherry Parker |
 | 157 | 616 | Kammy Hill |
 | 158 | 611 | Rochelle Hazelett |
 | 159 | 607 | Grego Daniel |
@@ -214,8 +214,8 @@
 | 206 | 480 | Michael Johnson |
 | 207 | 480 | Danielle Allison |
 | 208 | 475 | Tessina Dewey-Mancino |
-| 209 | 473 | Connie Mohler-Fair |
-| 210 | 473 | Rachel |
+| 209 | 473 | Rachel |
+| 210 | 473 | Connie Mohler-Fair |
 | 211 | 471 | Mendoza Lee Christy |
 | 212 | 467 | Sherry Ogden |
 | 213 | 465 | Annie Déè |
@@ -231,8 +231,8 @@
 | 223 | 448 | Scott Carleton |
 | 224 | 437 | Loopy Clusterer |
 | 225 | 432 | Luciana Braganca Vieira |
-| 226 | 431 | Wendy Dearden |
-| 227 | 431 | Ammmmmmy |
+| 226 | 431 | Ammmmmmy |
+| 227 | 431 | Wendy Dearden |
 | 228 | 430 | Jeni Dow |
 | 229 | 418 | Rebecca Funderburk Kirby |
 | 230 | 414 | Fran Lin |
@@ -241,8 +241,8 @@
 | 233 | 408 | Tiffany Ford |
 | 234 | 406 | Kristal C Lee |
 | 235 | 404 | Chasity |
-| 236 | 403 | Scott Lindsay |
-| 237 | 403 | Denita Mungro |
+| 236 | 403 | Denita Mungro |
+| 237 | 403 | Scott Lindsay |
 | 238 | 395 | rosy |
 | 239 | 391 | Marci Mize Fandrich |
 | 240 | 391 | RickyG |
@@ -265,8 +265,8 @@
 | 257 | 370 | Samantha Lynn |
 | 258 | 369 | Philip Rock |
 | 259 | 369 | Keis |
-| 260 | 368 | Sheila M Frazier |
-| 261 | 368 | Stephanie Woods |
+| 260 | 368 | Stephanie Woods |
+| 261 | 368 | Sheila M Frazier |
 | 262 | 367 | Kristin Delibac Corrigan |
 | 263 | 366 | Randy Clevenger |
 | 264 | 366 | Gumbo |
@@ -449,8 +449,8 @@
 | 441 | 237 | Angella Lyons |
 | 442 | 237 | Jolly Dashpiece |
 | 443 | 236 | lashanda |
-| 444 | 236 | Loopy Fallzone |
-| 445 | 236 | Alexis Ford |
+| 444 | 236 | Alexis Ford |
+| 445 | 236 | Loopy Fallzone |
 | 446 | 234 | Cheeky Twisterfit |
 | 447 | 233 | Criss |
 | 448 | 233 | Tony Waters |
@@ -526,8 +526,8 @@
 | 518 | 203 | Sdot |
 | 519 | 201 | Denise Marie |
 | 520 | 201 | Katrina E Jelks |
-| 521 | 200 | Sarah Whalen |
-| 522 | 200 | glichmod |
+| 521 | 200 | glichmod |
+| 522 | 200 | Sarah Whalen |
 | 523 | 200 | Christina Marie Swisher |
 | 524 | 199 | PrncssPJ |
 | 525 | 199 | Cheeky Setter |
