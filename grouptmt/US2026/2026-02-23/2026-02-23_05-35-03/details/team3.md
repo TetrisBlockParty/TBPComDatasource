@@ -125,8 +125,8 @@
 | 117 | 769 | Kristie |
 | 118 | 764 | Groovy Catcher |
 | 119 | 762 | Speedy Bridger |
-| 120 | 752 | Raya |
-| 121 | 752 | Logan Naccarato |
+| 120 | 752 | Logan Naccarato |
+| 121 | 752 | Raya |
 | 122 | 748 | Adrian Marcel Pate |
 | 123 | 745 | JerseyJess |
 | 124 | 744 | Leah Barnett |

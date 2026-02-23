@@ -44,8 +44,8 @@
 | 36 | 4199 | Claire Noland |
 | 37 | 4128 | Angela Pruitt |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Kristen Sceurman |
-| 40 | 4120 | Corrine Hawks Soriano |
+| 39 | 4120 | Corrine Hawks Soriano |
+| 40 | 4120 | Kristen Sceurman |
 | 41 | 3813 | Devin Lee |
 | 42 | 3778 | Brittany Alicia |
 | 43 | 3736 | Alisha |
@@ -151,8 +151,8 @@
 | 143 | 1639 | Jessie McDougald |
 | 144 | 1638 | Speedy Spinblock |
 | 145 | 1629 | Mari Ac |
-| 146 | 1623 | Rebecca Doughman |
-| 147 | 1623 | Janel Turley-Garner |
+| 146 | 1623 | Janel Turley-Garner |
+| 147 | 1623 | Rebecca Doughman |
 | 148 | 1605 | Christi Hulet |
 | 149 | 1602 | blackq |
 | 150 | 1601 | Ray Ray Prado |
@@ -218,8 +218,8 @@
 | 210 | 1232 | Groovy Puzzle |
 | 211 | 1232 | Ambyre Patterson |
 | 212 | 1230 | Megan Garrick |
-| 213 | 1217 | Lucky Ladybug |
-| 214 | 1217 | Brooks Brooks |
+| 213 | 1217 | Brooks Brooks |
+| 214 | 1217 | Lucky Ladybug |
 | 215 | 1214 | David Cudicio-Hayden |
 | 216 | 1213 | Pacynthia Williams |
 | 217 | 1210 | Jane Fong |
@@ -631,8 +631,8 @@
 | 623 | 534 | Kara Jennifer |
 | 624 | 532 | Shorty |
 | 625 | 531 | Beth Decker |
-| 626 | 531 | Matthew Joseph Acevedo |
-| 627 | 531 | Maricia Layolla Cason |
+| 626 | 531 | Maricia Layolla Cason |
+| 627 | 531 | Matthew Joseph Acevedo |
 | 628 | 530 | James Louie |
 | 629 | 529 | Maya June |
 | 630 | 528 | Kyle LeRoy Harris |
@@ -750,11 +750,11 @@
 | 742 | 462 | Samantha Scibelli |
 | 743 | 462 | Kia Humphery |
 | 744 | 461 | Julie Hamilton |
-| 745 | 461 | Kristen O'Neal |
-| 746 | 461 | Amanda West |
+| 745 | 461 | Amanda West |
+| 746 | 461 | Kristen O'Neal |
 | 747 | 460 | LaWanda Powell |
-| 748 | 459 | Shyenn Gadsby |
-| 749 | 459 | Pocho Zavala |
+| 748 | 459 | Pocho Zavala |
+| 749 | 459 | Shyenn Gadsby |
 | 750 | 457 | Kelly Meredeith |
 | 751 | 456 | Sabrina Burton |
 | 752 | 456 | ItsJennifer Neriss |

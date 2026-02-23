@@ -53,8 +53,8 @@
 | 45 | 960 | Dustin Robert |
 | 46 | 938 | Denny Shives |
 | 47 | 936 | Rebecca Moulton Pinciaro |
-| 48 | 911 | Jeremy Steines |
-| 49 | 911 | Anthony Bryan Riva |
+| 48 | 911 | Anthony Bryan Riva |
+| 49 | 911 | Jeremy Steines |
 | 50 | 873 | Marvin Lou Martin |
 | 51 | 863 | Pee |
 | 52 | 860 | BertMofo |
@@ -205,18 +205,18 @@
 | 197 | 316 | Autumn Kumzi |
 | 198 | 311 | Mary Ann Pabukis |
 | 199 | 310 | Holly Jolly |
-| 200 | 307 | Michele Plunkett |
-| 201 | 307 | Cheery Risebuilder |
+| 200 | 307 | Cheery Risebuilder |
+| 201 | 307 | Michele Plunkett |
 | 202 | 306 | blockstar |
 | 203 | 305 | Melvin Baird |
 | 204 | 304 | Lindsay Ball |
 | 205 | 301 | Andria Lynn |
-| 206 | 300 | Zakia Monae |
-| 207 | 300 | Dana Scott |
-| 208 | 300 | Dihcheese444 |
+| 206 | 300 | Dana Scott |
+| 207 | 300 | Dihcheese444 |
+| 208 | 300 | Zakia Monae |
 | 209 | 295 | Keshia Lyons |
-| 210 | 294 | Calvin Cannon |
-| 211 | 294 | Porkobello |
+| 210 | 294 | Porkobello |
+| 211 | 294 | Calvin Cannon |
 | 212 | 292 | Epic Curvetile |
 | 213 | 290 | Jared Gutwein |
 | 214 | 290 | Plucky Patternblock |
@@ -234,16 +234,16 @@
 | 226 | 281 | Nikki Rae Gordon |
 | 227 | 278 | Sarah Brown |
 | 228 | 278 | Angela Geist Jusinski |
-| 229 | 276 | Joeliecea Cobb |
-| 230 | 276 | Matt Dell'Olio |
+| 229 | 276 | Matt Dell'Olio |
+| 230 | 276 | Joeliecea Cobb |
 | 231 | 274 | JPW |
 | 232 | 273 | Casey Grabner |
 | 233 | 272 | Carlos Ramirez |
 | 234 | 272 | Alan George LaRage |
 | 235 | 272 | Dennis Bradley |
 | 236 | 271 | Holly |
-| 237 | 270 | Juls |
-| 238 | 270 | Jen Caldwell |
+| 237 | 270 | Jen Caldwell |
+| 238 | 270 | Juls |
 | 239 | 266 | Mr. Party |
 | 240 | 265 | Silly SeaWeed |
 | 241 | 265 | Sarah Neathery |
@@ -289,13 +289,13 @@
 | 281 | 233 | Ruben Wheeler |
 | 282 | 230 | Angelito |
 | 283 | 228 | Bethany Ison |
-| 284 | 226 | Cranky Rollpiece |
-| 285 | 226 | Dizzy Matchzone |
+| 284 | 226 | Dizzy Matchzone |
+| 285 | 226 | Cranky Rollpiece |
 | 286 | 225 | Jenna McGeorge |
 | 287 | 224 | Ultramarine |
 | 288 | 223 | Chance Strickland |
-| 289 | 223 | Adawna Swires |
-| 290 | 223 | Amanda Christine |
+| 289 | 223 | Amanda Christine |
+| 290 | 223 | Adawna Swires |
 | 291 | 222 | Brandi Durig |
 | 292 | 221 | TinyLegoRose |
 | 293 | 221 | PurpleMoonMa |
