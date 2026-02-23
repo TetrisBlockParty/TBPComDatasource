@@ -55,8 +55,8 @@
 | 47 | 860 | Jae Job |
 | 48 | 855 | Marvin Lou Martin |
 | 49 | 853 | TeeJ |
-| 50 | 846 | Lucille Truesdale |
-| 51 | 846 | Christine Marie |
+| 50 | 846 | Christine Marie |
+| 51 | 846 | Lucille Truesdale |
 | 52 | 845 | LisaJo Picken Buchanan |
 | 53 | 843 | Shelly Chandler |
 | 54 | 841 | Anthony Bryan Riva |
@@ -138,8 +138,8 @@
 | 130 | 421 | JIGsaw ~(•¿°)~ |
 | 131 | 421 | Kesha Brady |
 | 132 | 418 | Monica Daley |
-| 133 | 418 | Marie-Pier Desjardins |
-| 134 | 418 | Lush Linkfall |
+| 133 | 418 | Lush Linkfall |
+| 134 | 418 | Marie-Pier Desjardins |
 | 135 | 414 | Nope Young |
 | 136 | 413 | Kristina Black |
 | 137 | 408 | Amanda Pauldo-Ivy |
@@ -220,8 +220,8 @@
 | 212 | 272 | Alan George LaRage |
 | 213 | 272 | Dennis Bradley |
 | 214 | 272 | Porkobello |
-| 215 | 271 | Sarah Brown |
-| 216 | 271 | Chris Hartig |
+| 215 | 271 | Chris Hartig |
+| 216 | 271 | Sarah Brown |
 | 217 | 270 | Jen Caldwell |
 | 218 | 270 | Juls |
 | 219 | 268 | Mimi |
@@ -231,8 +231,8 @@
 | 223 | 264 | Carlos Ramirez |
 | 224 | 264 | scott |
 | 225 | 261 | Dihcheese444 |
-| 226 | 259 | Montiette Mcglown |
-| 227 | 259 | Cheery Risebuilder |
+| 226 | 259 | Cheery Risebuilder |
+| 227 | 259 | Montiette Mcglown |
 | 228 | 257 | PeaceOs |
 | 229 | 256 | Mylo Lipscomb |
 | 230 | 253 | JPW |
@@ -557,7 +557,7 @@
 | 549 | 110 | Mike |
 | 550 | 110 | Johnny R |
 | 551 | 109 | Jessica Miller |
-| 552 | 109 | Jessica Johnston |
+| 552 | 109 | Angel Raya |
 | 553 | 109 | Amy Jean |
 | 554 | 109 | Mary Miller |
 | 555 | 109 | Jessica Johnston |

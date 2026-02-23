@@ -224,8 +224,8 @@
 | 216 | 1138 | Megan Ferguson Leone |
 | 217 | 1135 | Samantha Roberts |
 | 218 | 1131 | Prado |
-| 219 | 1127 | Dee |
-| 220 | 1127 | Catina Hutchison |
+| 219 | 1127 | Catina Hutchison |
+| 220 | 1127 | Dee |
 | 221 | 1126 | Dolores Russworn |
 | 222 | 1121 | Tommy Tha Boss Gunz |
 | 223 | 1117 | Sarah Freitas |
@@ -474,8 +474,8 @@
 | 466 | 626 | Chab |
 | 467 | 626 | Demeka Dangerous-kisses Johnson |
 | 468 | 623 | Kimberly Hope Howell |
-| 469 | 618 | Caitlyn Blackwell |
-| 470 | 618 | Vanessa Moreno |
+| 469 | 618 | Vanessa Moreno |
+| 470 | 618 | Caitlyn Blackwell |
 | 471 | 617 | Darcy Mae |
 | 472 | 615 | Julio A Laracuente |
 | 473 | 614 | Emilee Burke |

@@ -24,8 +24,8 @@
 | 16 | 2728 | Lauren d |
 | 17 | 2697 | River |
 | 18 | 2503 | Clever Roll |
-| 19 | 2287 | Brandon Green |
-| 20 | 2287 | Tetris Master |
+| 19 | 2287 | Tetris Master |
+| 20 | 2287 | Brandon Green |
 | 21 | 2203 | Ashley Jones |
 | 22 | 2180 | Laura Melton |
 | 23 | 2144 | Zippy Strikesnap |
@@ -157,12 +157,12 @@
 | 149 | 582 | Natasha Jones |
 | 150 | 579 | Tasha Gillespie |
 | 151 | 574 | Morgan Martinez |
-| 152 | 572 | Domo Washington |
-| 153 | 572 | CeceGeGe |
+| 152 | 572 | CeceGeGe |
+| 153 | 572 | Domo Washington |
 | 154 | 571 | Nicole Myers |
 | 155 | 568 | Rachael McClain Owens |
-| 156 | 562 | Louise Stacy Sisson |
-| 157 | 562 | Dave Herzog |
+| 156 | 562 | Dave Herzog |
+| 157 | 562 | Louise Stacy Sisson |
 | 158 | 553 | LaTanya GeminiondaRise Johnson |
 | 159 | 549 | Peppy Shifter |
 | 160 | 546 | Cynthia Castros-Hampton |
@@ -258,8 +258,8 @@
 | 250 | 352 | Samantha Lynn |
 | 251 | 351 | Eon Harris |
 | 252 | 349 | Amanda J. Mcneil-Anderson |
-| 253 | 347 | Rania Zaqout |
-| 254 | 347 | Philip Rock |
+| 253 | 347 | Philip Rock |
+| 254 | 347 | Rania Zaqout |
 | 255 | 346 | Tamara Deherrera |
 | 256 | 345 | Kelly |
 | 257 | 344 | Roary Danner |
@@ -292,9 +292,9 @@
 | 284 | 308 | Katrina Turner |
 | 285 | 307 | Blocked |
 | 286 | 304 | _melisa223_ |
-| 287 | 303 | Beaudie Stroebel |
-| 288 | 303 | Hoppy Buildout |
-| 289 | 303 | Alexmac |
+| 287 | 303 | Alexmac |
+| 288 | 303 | Beaudie Stroebel |
+| 289 | 303 | Hoppy Buildout |
 | 290 | 302 | Gray Hicks |
 | 291 | 301 | Tiffany Davie |
 | 292 | 301 | Betty Rosas |
