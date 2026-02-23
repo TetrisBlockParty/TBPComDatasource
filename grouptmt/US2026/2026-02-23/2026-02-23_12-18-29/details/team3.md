@@ -78,8 +78,8 @@
 | 70 | 1264 | Amanda L Baker |
 | 71 | 1258 | Danielle Cutler |
 | 72 | 1256 | Jessica Bechler |
-| 73 | 1213 | Snappy Glidepiece |
-| 74 | 1213 | Nerdy Riseclear |
+| 73 | 1213 | Nerdy Riseclear |
+| 74 | 1213 | Snappy Glidepiece |
 | 75 | 1209 | Amanda Adkins |
 | 76 | 1186 | Christian A. Pollard |
 | 77 | 1162 | Gracie |
@@ -117,8 +117,8 @@
 | 109 | 869 | Araceli Parra |
 | 110 | 868 | Sarajane Lokan |
 | 111 | 860 | Sunny Rotater |
-| 112 | 851 | Danielle Becker |
-| 113 | 851 | Jd Morris |
+| 112 | 851 | Jd Morris |
+| 113 | 851 | Danielle Becker |
 | 114 | 850 | Danielle Mogg |
 | 115 | 848 | Patricia Gadsden |
 | 116 | 839 | Angeline Joseph |
@@ -132,15 +132,15 @@
 | 124 | 775 | Leah Barnett |
 | 125 | 774 | Keith J Oshman Jr. |
 | 126 | 773 | Daira Largen |
-| 127 | 764 | Groovy Catcher |
-| 128 | 764 | Hasty Cascadefit |
+| 127 | 764 | Hasty Cascadefit |
+| 128 | 764 | Groovy Catcher |
 | 129 | 762 | Speedy Bridger |
 | 130 | 755 | Raya |
 | 131 | 755 | Katrina Schroeder |
 | 132 | 752 | Logan Naccarato |
 | 133 | 748 | Adrian Marcel Pate |
-| 134 | 745 | ren |
-| 135 | 745 | JerseyJess |
+| 134 | 745 | JerseyJess |
+| 135 | 745 | ren |
 | 136 | 744 | Fancy Cascader |
 | 137 | 736 | mzcatzy |
 | 138 | 736 | Giddy Drop |
@@ -187,8 +187,8 @@
 | 179 | 572 | CeceGeGe |
 | 180 | 568 | Rachael McClain Owens |
 | 181 | 566 | LaTanya GeminiondaRise Johnson |
-| 182 | 564 | Christine Trester |
-| 183 | 564 | Poppy Splitter |
+| 182 | 564 | Poppy Splitter |
+| 183 | 564 | Christine Trester |
 | 184 | 563 | Jim Mathews |
 | 185 | 562 | Dave Herzog |
 | 186 | 559 | Patti Skiles |

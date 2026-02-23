@@ -66,8 +66,8 @@
 | 58 | 892 | Seth Wesson |
 | 59 | 874 | Kristen Roles Robben |
 | 60 | 858 | Michelle Nicole |
-| 61 | 850 | Andrea Dañielle Ortiz |
-| 62 | 850 | comrade fish |
+| 61 | 850 | comrade fish |
+| 62 | 850 | Andrea Dañielle Ortiz |
 | 63 | 845 | Drew Magnus |
 | 64 | 829 | Sevens4L |
 | 65 | 818 | Patrick Luckenbill |
@@ -85,8 +85,8 @@
 | 77 | 703 | Angel Fowler |
 | 78 | 689 | Susanna Guerry |
 | 79 | 679 | Hasbro Bros |
-| 80 | 657 | Tee Sheree |
-| 81 | 657 | Cynthia Bradley |
+| 80 | 657 | Cynthia Bradley |
+| 81 | 657 | Tee Sheree |
 | 82 | 655 | Brenda Stewart |
 | 83 | 648 | Evie Khalil |
 | 84 | 647 | Jason Jones |
@@ -115,8 +115,8 @@
 | 107 | 510 | Chirpy Smasher |
 | 108 | 509 | Rachael |
 | 109 | 502 | Anaid Sanchez |
-| 110 | 497 | Jennifer ManWarren |
-| 111 | 497 | Arianna O'Brien |
+| 110 | 497 | Arianna O'Brien |
+| 111 | 497 | Jennifer ManWarren |
 | 112 | 493 | MomMom |
 | 113 | 492 | Ash Galvan |
 | 114 | 491 | cc |
@@ -147,8 +147,8 @@
 | 139 | 429 | Kristi Johnson |
 | 140 | 428 | Ly Phethmany |
 | 141 | 426 | Maria C. Hernandez |
-| 142 | 425 | Dandy Basegrid |
-| 143 | 425 | Tyler Werts |
+| 142 | 425 | Tyler Werts |
+| 143 | 425 | Dandy Basegrid |
 | 144 | 423 | ALFD |
 | 145 | 422 | Constance Risner |
 | 146 | 417 | Phu ckalldems |
@@ -180,8 +180,8 @@
 | 172 | 375 | John J. Cronin |
 | 173 | 375 | Connie |
 | 174 | 374 | Howdi Duty |
-| 175 | 371 | Jason Savage |
-| 176 | 371 | Basment Living |
+| 175 | 371 | Basment Living |
+| 176 | 371 | Jason Savage |
 | 177 | 369 | Christy Jones |
 | 178 | 368 | Amanda Johnson Huffman |
 | 179 | 367 | Sharon Reynolds |

@@ -301,8 +301,8 @@
 | 293 | 1043 | nikki |
 | 294 | 1042 | Mcintosh Brian Shalonda |
 | 295 | 1040 | Rebecca Garland |
-| 296 | 1036 | Amber Shoemaker |
-| 297 | 1036 | Allison Lockyer |
+| 296 | 1036 | Allison Lockyer |
+| 297 | 1036 | Amber Shoemaker |
 | 298 | 1032 | Kristin Gower |
 | 299 | 1029 | Crystal Hoffman |
 | 300 | 1024 | Susan Perraut Jones |
@@ -339,8 +339,8 @@
 | 331 | 955 | Angela Bonquiqui Dinish |
 | 332 | 954 | Melissa McCall |
 | 333 | 952 | Arkei Luster |
-| 334 | 951 | Wakanda Forever |
-| 335 | 951 | Cynthia Ward |
+| 334 | 951 | Cynthia Ward |
+| 335 | 951 | Wakanda Forever |
 | 336 | 949 | Steve Man |
 | 337 | 947 | Dedra Steward |
 | 338 | 941 | Cool Clearer |
@@ -609,8 +609,8 @@
 | 601 | 601 | Moua Ying |
 | 602 | 601 | Daniel Amos |
 | 603 | 600 | Nicole Cox |
-| 604 | 597 | Jamie Schmitt |
-| 605 | 597 | TJ Nash |
+| 604 | 597 | TJ Nash |
+| 605 | 597 | Jamie Schmitt |
 | 606 | 597 | Magic steve |
 | 607 | 596 | Davetta Sanford |
 | 608 | 595 | Dapper Dasher |
@@ -742,10 +742,10 @@
 | 734 | 499 | Besma Ao |
 | 735 | 499 | Martina Gabrielle LaPolla |
 | 736 | 498 | Chummy Blockbuilder |
-| 737 | 497 | June E Hanson |
-| 738 | 497 | Sam |
-| 739 | 496 | Angelina Marie |
-| 740 | 496 | Tracy Cowley |
+| 737 | 497 | Sam |
+| 738 | 497 | June E Hanson |
+| 739 | 496 | Tracy Cowley |
+| 740 | 496 | Angelina Marie |
 | 741 | 496 | Shyne Sun |
 | 742 | 496 | Anthony Mignacca |
 | 743 | 495 | Brandon Jones |
