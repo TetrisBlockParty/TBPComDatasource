@@ -179,13 +179,13 @@
 | 171 | 558 | Patti Skiles |
 | 172 | 556 | Elissa S-k |
 | 173 | 553 | LaTanya GeminiondaRise Johnson |
-| 174 | 546 | Cynthia Castros-Hampton |
-| 175 | 546 | Mykal Burton |
+| 174 | 546 | Mykal Burton |
+| 175 | 546 | Cynthia Castros-Hampton |
 | 176 | 541 | Tasha Schriewer |
 | 177 | 540 | Shawn Miller |
 | 178 | 535 | Jone |
-| 179 | 531 | Chauntee Alfrey-Cardinale |
-| 180 | 531 | Sarah Cowan Burgos |
+| 179 | 531 | Sarah Cowan Burgos |
+| 180 | 531 | Chauntee Alfrey-Cardinale |
 | 181 | 528 | Silly Twist |
 | 182 | 524 | Bmo |
 | 183 | 519 | rnr junky |
@@ -273,8 +273,8 @@
 | 265 | 357 | Stephanie Burtin |
 | 266 | 354 | Kelly |
 | 267 | 353 | Dee Franklin |
-| 268 | 352 | Christian Werndl |
-| 269 | 352 | Samantha Lynn |
+| 268 | 352 | Samantha Lynn |
+| 269 | 352 | Christian Werndl |
 | 270 | 351 | Eon Harris |
 | 271 | 350 | LaShey Thompson |
 | 272 | 349 | Amanda J. Mcneil-Anderson |
@@ -326,9 +326,9 @@
 | 318 | 298 | Dannie Litchard |
 | 319 | 298 | Grams |
 | 320 | 297 | kacihall |
-| 321 | 296 | Hasty Gridpiece |
+| 321 | 296 | Tracy Martin |
 | 322 | 296 | Donna |
-| 323 | 296 | Tracy Martin |
+| 323 | 296 | Hasty Gridpiece |
 | 324 | 294 | Isabel Ocasio |
 | 325 | 292 | Lizabeth Fox |
 | 326 | 292 | Khaleada McGill Banks |
@@ -380,8 +380,8 @@
 | 372 | 266 | Quirky Dropzone |
 | 373 | 265 | Heather Davis |
 | 374 | 264 | Danielle Beaunoyer Jean |
-| 375 | 263 | Erika Thornton |
-| 376 | 263 | Jimmie Clemons |
+| 375 | 263 | Jimmie Clemons |
+| 376 | 263 | Erika Thornton |
 | 377 | 261 | Jul |
 | 378 | 260 | Alice |
 | 379 | 260 | Tracey Cox |

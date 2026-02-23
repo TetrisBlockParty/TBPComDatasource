@@ -337,8 +337,8 @@
 | 329 | 201 | Rico Rico |
 | 330 | 201 | Tedashi |
 | 331 | 201 | Colleen Wise |
-| 332 | 200 | Cranky Pattern |
-| 333 | 200 | Silly Align |
+| 332 | 200 | Silly Align |
+| 333 | 200 | Cranky Pattern |
 | 334 | 199 | Tina Englert |
 | 335 | 198 | Gary Gobin |
 | 336 | 198 | Marci Sanders |
