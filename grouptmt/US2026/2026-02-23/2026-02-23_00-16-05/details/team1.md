@@ -103,8 +103,8 @@
 | 95 | 483 | Jennifer ManWarren |
 | 96 | 480 | cc |
 | 97 | 474 | Tdub |
-| 98 | 472 | Kristen Gideon |
-| 99 | 472 | April Carroll |
+| 98 | 472 | April Carroll |
+| 99 | 472 | Kristen Gideon |
 | 100 | 469 | Tinah Montanna |
 | 101 | 466 | Hasbro Bros |
 | 102 | 462 | Luciano Moreira |
@@ -173,8 +173,8 @@
 | 165 | 317 | Rachael |
 | 166 | 315 | Danielle Little-Daugherty |
 | 167 | 315 | Tyler Werts |
-| 168 | 312 | Jessi Sauer |
-| 169 | 312 | Kimberly Garcia |
+| 168 | 312 | Kimberly Garcia |
+| 169 | 312 | Jessi Sauer |
 | 170 | 311 | Madison Wicks |
 | 171 | 310 | Basment Living |
 | 172 | 307 | femmefatale |
@@ -246,8 +246,8 @@
 | 238 | 238 | Sarah Somers Gray |
 | 239 | 238 | Tiffany Smith |
 | 240 | 235 | Bindi |
-| 241 | 234 | Shanae Grant |
-| 242 | 234 | Paula Martin |
+| 241 | 234 | Paula Martin |
+| 242 | 234 | Shanae Grant |
 | 243 | 233 | LC |
 | 244 | 230 | Thorne Shumate |
 | 245 | 230 | Diane Byrd |

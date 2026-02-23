@@ -82,8 +82,8 @@
 | 74 | 671 | Kimyatta Cavin |
 | 75 | 664 | Valerie Roberts |
 | 76 | 659 | Jonathan Kimbrough |
-| 77 | 647 | Shauna Havard |
-| 78 | 647 | KM8 |
+| 77 | 647 | KM8 |
+| 78 | 647 | Shauna Havard |
 | 79 | 646 | Jacqueline Helm |
 | 80 | 641 | Lisa Davis |
 | 81 | 626 | Brittney Griggs |
@@ -97,9 +97,9 @@
 | 89 | 594 | Jamie Mann-Deichmann |
 | 90 | 591 | Amelpss |
 | 91 | 568 | Chris Baggett |
-| 92 | 561 | Zippy Gridlock |
-| 93 | 561 | H.R. Block |
-| 94 | 561 | Amy Suckarieh |
+| 92 | 561 | H.R. Block |
+| 93 | 561 | Amy Suckarieh |
+| 94 | 561 | Zippy Gridlock |
 | 95 | 557 | Carmethia Clemons Haslerig |
 | 96 | 533 | Samantha Peterson |
 | 97 | 519 | Nugget |
@@ -109,14 +109,14 @@
 | 101 | 512 | Diana Houts |
 | 102 | 510 | Scott Jameson |
 | 103 | 500 | Rodney McMath Jr. |
-| 104 | 499 | Christina LR |
-| 105 | 499 | Trista Leah |
+| 104 | 499 | Trista Leah |
+| 105 | 499 | Christina LR |
 | 106 | 488 | Jen Allison |
 | 107 | 487 | Alyssa Papen |
 | 108 | 487 | shar |
 | 109 | 483 | Chilly Crasher |
-| 110 | 481 | Serena Goodridge |
-| 111 | 481 | Jessica Lynn Cutlip |
+| 110 | 481 | Jessica Lynn Cutlip |
+| 111 | 481 | Serena Goodridge |
 | 112 | 476 | Matt Summer |
 | 113 | 474 | Jenna Ingersoll |
 | 114 | 473 | Jamie Gustafson |
@@ -145,8 +145,8 @@
 | 137 | 380 | Swanky Fitline |
 | 138 | 378 | Lucas J Sutton |
 | 139 | 377 | Jessica Bohlken |
-| 140 | 377 | Kristina Black |
-| 141 | 377 | Carrie Brian |
+| 140 | 377 | Carrie Brian |
+| 141 | 377 | Kristina Black |
 | 142 | 376 | Kesha Brady |
 | 143 | 374 | Guy Incognito |
 | 144 | 373 | Joseph Guthrie |
@@ -172,8 +172,8 @@
 | 164 | 329 | Jeff Brian Gates |
 | 165 | 328 | Kris Bartlett |
 | 166 | 324 | jim |
-| 167 | 320 | Lauren Scott |
-| 168 | 320 | TRCuse |
+| 167 | 320 | TRCuse |
+| 168 | 320 | Lauren Scott |
 | 169 | 316 | Meagan Nicole |
 | 170 | 314 | Andy Cabral |
 | 171 | 311 | A5! |
@@ -242,14 +242,14 @@
 | 234 | 241 | JPW |
 | 235 | 241 | Allen Lloyd |
 | 236 | 241 | Chris Hartig |
-| 237 | 240 | Perky Patternblock |
-| 238 | 240 | Kim Hunt |
+| 237 | 240 | Kim Hunt |
+| 238 | 240 | Perky Patternblock |
 | 239 | 238 | Chaz |
 | 240 | 235 | LaDonna LovinmesomeMe Lambert |
 | 241 | 233 | Ruben Wheeler |
 | 242 | 232 | Rio Rocha |
-| 243 | 230 | blockstar |
-| 244 | 230 | Jade Rian |
+| 243 | 230 | Jade Rian |
+| 244 | 230 | blockstar |
 | 245 | 228 | Antony Dwayne Beasley |
 | 246 | 227 | BigSammy420 |
 | 247 | 226 | Dizzy Matchzone |
@@ -407,7 +407,7 @@
 | 399 | 150 | PennyCandee |
 | 400 | 150 | Sharyn Lemire |
 | 401 | 149 | Sallie Sanborn |
-| 402 | 148 | Janita Parrish |
+| 402 | 148 | Mighty Edgepiece |
 | 403 | 148 | Bryan Hodgins |
 | 404 | 148 | Janita Parrish |
 | 405 | 147 | Ashlee Carnes |
@@ -453,7 +453,7 @@
 | 445 | 136 | Badatvs |
 | 446 | 136 | Jen Hallin |
 | 447 | 136 | Dandy Cascadefit |
-| 448 | 136 | Badatvs |
+| 448 | 136 | Groovy Brickmatch |
 | 449 | 135 | Joshua Guess |
 | 450 | 134 | Kevin Bush |
 | 451 | 133 | Dapper Frame |

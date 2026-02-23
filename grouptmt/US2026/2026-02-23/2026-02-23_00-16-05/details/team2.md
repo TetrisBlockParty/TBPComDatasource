@@ -665,10 +665,10 @@
 | 657 | 453 | Mike Aprilliano |
 | 658 | 453 | Hunter Connors |
 | 659 | 451 | Michelle Pike |
-| 660 | 449 | Saucy Fitzone |
-| 661 | 449 | Kristi Biddinger |
-| 662 | 448 | Anastacio Hernandez |
-| 663 | 448 | Darlene Bowman |
+| 660 | 449 | Kristi Biddinger |
+| 661 | 449 | Saucy Fitzone |
+| 662 | 448 | Darlene Bowman |
+| 663 | 448 | Anastacio Hernandez |
 | 664 | 447 | Boozi |
 | 665 | 446 | Colin Morgan |
 | 666 | 446 | NanDa Cruzan VI |
@@ -692,8 +692,8 @@
 | 684 | 434 | bbv |
 | 685 | 433 | Snappy snappers |
 | 686 | 433 | Tabs Reichert |
-| 687 | 433 | Joel Rosado |
-| 688 | 433 | Shorty |
+| 687 | 433 | Shorty |
+| 688 | 433 | Joel Rosado |
 | 689 | 432 | Kelly |
 | 690 | 432 | Jason H Baker |
 | 691 | 431 | Goofy Catcher |
@@ -711,8 +711,8 @@
 | 703 | 422 | Oscar Bernie |
 | 704 | 422 | Kimberly Ann |
 | 705 | 422 | Stefanie Zonzini-Gagliardi |
-| 706 | 421 | Nina Nav |
-| 707 | 421 | Beth Decker |
+| 706 | 421 | Beth Decker |
+| 707 | 421 | Nina Nav |
 | 708 | 420 | Ricky Fortune |
 | 709 | 420 | Daniel Amos |
 | 710 | 420 | Jessica Hughes |
@@ -761,7 +761,7 @@
 | 753 | 396 | Heather Johnson |
 | 754 | 396 | Cassie Newton |
 | 755 | 395 | Vung Nguyen |
-| 756 | 395 | Heather Johnson |
+| 756 | 395 | Susan Arnburg |
 | 757 | 394 | Christina Jarvis-Swarbrick |
 | 758 | 393 | Jamie West |
 | 759 | 392 | Kevin Sees |

@@ -201,8 +201,8 @@
 | 193 | 432 | Jenny Hrndz |
 | 194 | 432 | Luciana Braganca Vieira |
 | 195 | 431 | Wendy Dearden |
-| 196 | 430 | Joye Sims Binion |
-| 197 | 430 | Jeni Dow |
+| 196 | 430 | Jeni Dow |
+| 197 | 430 | Joye Sims Binion |
 | 198 | 426 | Rochelle Hazelett |
 | 199 | 423 | Tom Nault |
 | 200 | 422 | Fallorina Susana |
@@ -229,8 +229,8 @@
 | 221 | 383 | Nicole Flippo |
 | 222 | 383 | Darlene McMillan |
 | 223 | 383 | Heather Green |
-| 224 | 382 | Giddy Twistbuilder |
-| 225 | 382 | Scott Carleton |
+| 224 | 382 | Scott Carleton |
+| 225 | 382 | Giddy Twistbuilder |
 | 226 | 378 | Chris Bell |
 | 227 | 375 | Duane Bright |
 | 228 | 375 | Kristal C Lee |
@@ -362,8 +362,8 @@
 | 354 | 247 | Jessica |
 | 355 | 245 | Latoya Mayne |
 | 356 | 244 | LaNette Morgan |
-| 357 | 244 | Tegan Chapman |
-| 358 | 244 | Quackers |
+| 357 | 244 | Quackers |
+| 358 | 244 | Tegan Chapman |
 | 359 | 243 | Josh Borquez |
 | 360 | 242 | Randy Clevenger |
 | 361 | 240 | Brian Battjes |
@@ -373,8 +373,8 @@
 | 365 | 238 | Lys |
 | 366 | 238 | Fancy Curver |
 | 367 | 237 | Carol Cain Thurman |
-| 368 | 237 | Ashley Lynn Marchese |
-| 369 | 237 | Jennifer Alvey |
+| 368 | 237 | Jennifer Alvey |
+| 369 | 237 | Ashley Lynn Marchese |
 | 370 | 236 | Jess Bissett |
 | 371 | 235 | Wettnippz |
 | 372 | 233 | Tony Waters |
