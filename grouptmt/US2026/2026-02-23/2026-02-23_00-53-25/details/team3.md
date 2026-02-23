@@ -251,8 +251,8 @@
 | 243 | 360 | Sheila M Frazier |
 | 244 | 357 | Ammmmmmy |
 | 245 | 357 | Stephanie Burtin |
-| 246 | 352 | Christian Werndl |
-| 247 | 352 | Samantha Lynn |
+| 246 | 352 | Samantha Lynn |
+| 247 | 352 | Christian Werndl |
 | 248 | 351 | Eon Harris |
 | 249 | 349 | Amanda J. Mcneil-Anderson |
 | 250 | 347 | Philip Rock |
@@ -302,8 +302,8 @@
 | 294 | 297 | Cheeky Snapper |
 | 295 | 297 | kacihall |
 | 296 | 296 | Donna |
-| 297 | 294 | fraulila |
-| 298 | 294 | Betty Bóò |
+| 297 | 294 | Betty Bóò |
+| 298 | 294 | fraulila |
 | 299 | 291 | Carrie Huskey |
 | 300 | 289 | DidIdothat |
 | 301 | 288 | Cyd061769 |

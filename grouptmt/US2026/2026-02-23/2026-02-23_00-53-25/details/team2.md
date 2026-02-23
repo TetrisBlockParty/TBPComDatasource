@@ -40,8 +40,8 @@
 | 32 | 4174 | Vistabrat |
 | 33 | 4130 | Robert Diddle |
 | 34 | 4128 | Angela Pruitt |
-| 35 | 4120 | Corrine Hawks Soriano |
-| 36 | 4120 | Kristen Sceurman |
+| 35 | 4120 | Kristen Sceurman |
+| 36 | 4120 | Corrine Hawks Soriano |
 | 37 | 3895 | Nickie Baby |
 | 38 | 3793 | Jill Stroehlein |
 | 39 | 3759 | Brittany Alicia |
@@ -384,8 +384,8 @@
 | 376 | 740 | Jerry Tempelmeyer |
 | 377 | 738 | Aimee Campbell |
 | 378 | 737 | Jeremy Parodi |
-| 379 | 737 | Denise Rickman |
-| 380 | 737 | Ginger |
+| 379 | 737 | Ginger |
+| 380 | 737 | Denise Rickman |
 | 381 | 729 | goofinoff |
 | 382 | 728 | Charvi' Carter |
 | 383 | 728 | Allan Wayne Lamia |

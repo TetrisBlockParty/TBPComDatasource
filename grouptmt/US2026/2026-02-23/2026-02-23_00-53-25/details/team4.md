@@ -111,8 +111,8 @@
 | 103 | 513 | YoMomma |
 | 104 | 513 | Jamie Gustafson |
 | 105 | 512 | Casey Jeffcoat |
-| 106 | 510 | Scott Jameson |
-| 107 | 510 | Trista Leah |
+| 106 | 510 | Trista Leah |
+| 107 | 510 | Scott Jameson |
 | 108 | 500 | shar |
 | 109 | 499 | Christina LR |
 | 110 | 486 | Lori Walker |
