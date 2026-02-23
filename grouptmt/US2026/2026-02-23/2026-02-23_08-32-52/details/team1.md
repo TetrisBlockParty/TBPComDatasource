@@ -98,8 +98,8 @@
 | 90 | 575 | Nancy Green |
 | 91 | 570 | Cody Slav |
 | 92 | 562 | Denice Dee |
-| 93 | 534 | Loony Fitzone |
-| 94 | 534 | Veronica Eve |
+| 93 | 534 | Veronica Eve |
+| 94 | 534 | Loony Fitzone |
 | 95 | 529 | Ryan Lunnin |
 | 96 | 522 | Sarah Lombardo |
 | 97 | 511 | Mario Cab |
@@ -126,8 +126,8 @@
 | 118 | 452 | Hyper |
 | 119 | 451 | Plucky Ziggy |
 | 120 | 450 | lil mickey |
-| 121 | 448 | Jazzy Framezone |
-| 122 | 448 | Sweet Baker |
+| 121 | 448 | Sweet Baker |
+| 122 | 448 | Jazzy Framezone |
 | 123 | 446 | SkipTheSadSauce |
 | 124 | 443 | Steve Schneider |
 | 125 | 439 | Dee Perry |
@@ -182,8 +182,8 @@
 | 174 | 357 | David Lutcher |
 | 175 | 355 | Erin Rosberg |
 | 176 | 355 | Amanda Jarnagin |
-| 177 | 353 | Josh Riemer |
-| 178 | 353 | Jaimie Lynn |
+| 177 | 353 | Jaimie Lynn |
+| 178 | 353 | Josh Riemer |
 | 179 | 350 | Tipsy Strikerpiece |
 | 180 | 349 | Cool Shiftsnap |
 | 181 | 348 | Chelsea Dahlquist |
@@ -193,8 +193,8 @@
 | 185 | 341 | Nick R Montague |
 | 186 | 339 | Nicole Roseberry Weber |
 | 187 | 338 | Jennifer Hardman |
-| 188 | 337 | Jamise Brown |
-| 189 | 337 | Constance Risner |
+| 188 | 337 | Constance Risner |
+| 189 | 337 | Jamise Brown |
 | 190 | 336 | Dizzy Party |
 | 191 | 333 | Gracie |
 | 192 | 333 | Virginia Gray Floyd |
@@ -245,8 +245,8 @@
 | 237 | 277 | Glitzy Curvebuilder |
 | 238 | 277 | Melissa Lemmon |
 | 239 | 276 | Sam Williams |
-| 240 | 275 | Cheeky Pop |
-| 241 | 275 | Chris65 |
+| 240 | 275 | Chris65 |
+| 241 | 275 | Cheeky Pop |
 | 242 | 273 | Shannon Marie Pitts |
 | 243 | 272 | Tawnya Peltonen |
 | 244 | 272 | Barrbaric |
@@ -254,8 +254,8 @@
 | 246 | 270 | Brenda Alexander |
 | 247 | 270 | Debbie Kane |
 | 248 | 268 | Standia Civil |
-| 249 | 267 | Daring Fitclear |
-| 250 | 267 | Eric DeSimone |
+| 249 | 267 | Eric DeSimone |
+| 250 | 267 | Daring Fitclear |
 | 251 | 265 | Kandae |
 | 252 | 264 | Jenny Gingrich Fuentes |
 | 253 | 261 | John J. Cronin |
@@ -327,8 +327,8 @@
 | 319 | 220 | Teri Oehlke |
 | 320 | 220 | Gary Gobin |
 | 321 | 219 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
-| 322 | 219 | Jeanna Dunn |
-| 323 | 219 | Negan Mallory Knoxx Spence |
+| 322 | 219 | Negan Mallory Knoxx Spence |
+| 323 | 219 | Jeanna Dunn |
 | 324 | 218 | Jason Benitez |
 | 325 | 217 | Speedy Snapfall |
 | 326 | 217 | Cheeky Crusher |
@@ -394,8 +394,8 @@
 | 386 | 187 | Bob |
 | 387 | 186 | Nikki Fridley |
 | 388 | 186 | Chummy Rollblock |
-| 389 | 185 | Bay Marie |
-| 390 | 185 | Hasty Columnbuilder |
+| 389 | 185 | Hasty Columnbuilder |
+| 390 | 185 | Bay Marie |
 | 391 | 184 | Sonia Marquis |
 | 392 | 183 | Wayne Saunders |
 | 393 | 182 | Teresa |
@@ -1157,7 +1157,7 @@
 | 1149 | 52 | Tiffany N Danny Martinez |
 | 1150 | 52 | Henry James Bechtold |
 | 1151 | 52 | John M. Bennett |
-| 1152 | 52 | Ra |
+| 1152 | 52 | Spunky Linkpiece |
 | 1153 | 52 | Dustin Whited |
 | 1154 | 52 | Ra |
 | 1155 | 52 | Beverly S. Robinson |
