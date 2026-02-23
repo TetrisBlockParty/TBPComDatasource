@@ -55,8 +55,8 @@
 | 47 | 938 | Denny Shives |
 | 48 | 936 | Rebecca Moulton Pinciaro |
 | 49 | 932 | Marvin Lou Martin |
-| 50 | 911 | Anthony Bryan Riva |
-| 51 | 911 | Jeremy Steines |
+| 50 | 911 | Jeremy Steines |
+| 51 | 911 | Anthony Bryan Riva |
 | 52 | 870 | BertMofo |
 | 53 | 864 | Shelly Chandler |
 | 54 | 863 | Pee |
@@ -74,8 +74,8 @@
 | 66 | 781 | Chilly Line |
 | 67 | 767 | Shannon Ferrari |
 | 68 | 766 | Robin Watters |
-| 69 | 765 | Denise Carlson |
-| 70 | 765 | Robin Getchel |
+| 69 | 765 | Robin Getchel |
+| 70 | 765 | Denise Carlson |
 | 71 | 752 | Shane Kalamata Platoon |
 | 72 | 752 | loulou |
 | 73 | 749 | Dustee Craddock-Harrison |
@@ -125,8 +125,8 @@
 | 117 | 514 | Serena Goodridge |
 | 118 | 514 | Scott Jameson |
 | 119 | 513 | Erin Thomas |
-| 120 | 512 | Cristy Duerksen |
-| 121 | 512 | Casey Jeffcoat |
+| 120 | 512 | Casey Jeffcoat |
+| 121 | 512 | Cristy Duerksen |
 | 122 | 511 | Lori Walker |
 | 123 | 509 | Leslie Nicole |
 | 124 | 482 | Ren Mc |
@@ -189,8 +189,8 @@
 | 181 | 352 | Sue Joyce Staats |
 | 182 | 349 | Rafael Valentin |
 | 183 | 348 | April Rondinone |
-| 184 | 347 | Crystal Nicolette Moore |
-| 185 | 347 | Daria Rycewicz |
+| 184 | 347 | Daria Rycewicz |
+| 185 | 347 | Crystal Nicolette Moore |
 | 186 | 346 | Mylo Lipscomb |
 | 187 | 339 | David Lay |
 | 188 | 337 | Sam Bishop |
@@ -207,8 +207,8 @@
 | 199 | 320 | Lauren Scott |
 | 200 | 318 | Chris Hartig |
 | 201 | 316 | Autumn Kumzi |
-| 202 | 312 | Casey Grabner |
-| 203 | 312 | Dihcheese444 |
+| 202 | 312 | Dihcheese444 |
+| 203 | 312 | Casey Grabner |
 | 204 | 311 | Mary Ann Pabukis |
 | 205 | 310 | Holly Jolly |
 | 206 | 308 | JPW |
@@ -462,11 +462,11 @@
 | 454 | 157 | LunaMoon |
 | 455 | 157 | Ryry |
 | 456 | 157 | David Boggs |
-| 457 | 156 | Funky Risepiece |
-| 458 | 156 | Mighty Edgepiece |
-| 459 | 155 | Sticherella |
+| 457 | 156 | Mighty Edgepiece |
+| 458 | 156 | Funky Risepiece |
+| 459 | 155 | Shirl |
 | 460 | 155 | Faja |
-| 461 | 155 | Shirl |
+| 461 | 155 | Sticherella |
 | 462 | 154 | Happy Combo |
 | 463 | 154 | Bryan Hodgins |
 | 464 | 153 | icequeenx |
@@ -592,10 +592,10 @@
 | 584 | 119 | River Shady Sr. |
 | 585 | 119 | Calen Torez |
 | 586 | 118 | Lou Ie |
-| 587 | 118 | Krash |
-| 588 | 118 | Kametsunoyaiba |
-| 589 | 118 | Jonathan Mahfood |
-| 590 | 118 | Sassy Pattern |
+| 587 | 118 | Kametsunoyaiba |
+| 588 | 118 | Krash |
+| 589 | 118 | Sassy Pattern |
+| 590 | 118 | Jonathan Mahfood |
 | 591 | 118 | Mackenzie Forrester |
 | 592 | 118 | Jennifer Dineen |
 | 593 | 117 | Lane Wasson |

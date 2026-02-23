@@ -650,8 +650,8 @@
 | 642 | 540 | Lee Harper |
 | 643 | 538 | Belle Mari |
 | 644 | 538 | Jess Morrison |
-| 645 | 538 | Kiana Boschh |
-| 646 | 538 | Mamachelle Eisweirth |
+| 645 | 538 | Mamachelle Eisweirth |
+| 646 | 538 | Kiana Boschh |
 | 647 | 537 | Kori Beth Babb |
 | 648 | 536 | Rhonda Petro |
 | 649 | 534 | Anita Rose Green |
@@ -723,8 +723,8 @@
 | 715 | 489 | Christy Krissie |
 | 716 | 488 | Eunique Griffin |
 | 717 | 487 | RaeVan Worthington |
-| 718 | 487 | Lina Sanders |
-| 719 | 487 | Morgan Easter |
+| 718 | 487 | Morgan Easter |
+| 719 | 487 | Lina Sanders |
 | 720 | 486 | Ashley Collins |
 | 721 | 485 | Regina Young |
 | 722 | 485 | Sarah block |
@@ -759,8 +759,8 @@
 | 751 | 472 | Connie Lepore-Mann |
 | 752 | 471 | Charming Leech |
 | 753 | 470 | Katie Marie |
-| 754 | 470 | ToShi |
-| 755 | 470 | Amanda Chamberlain |
+| 754 | 470 | Amanda Chamberlain |
+| 755 | 470 | ToShi |
 | 756 | 469 | Christy Long |
 | 757 | 468 | Niceday |
 | 758 | 468 | Brenda Annabel Smith |
@@ -782,8 +782,8 @@
 | 774 | 461 | Alexis Richardson |
 | 775 | 461 | Danielle Ayoub |
 | 776 | 460 | LaWanda Powell |
-| 777 | 459 | Pocho Zavala |
-| 778 | 459 | Sonya Back |
+| 777 | 459 | Sonya Back |
+| 778 | 459 | Pocho Zavala |
 | 779 | 457 | Kelly Meredeith |
 | 780 | 457 | Jennifer Coe |
 | 781 | 457 | Ryan Chan |
