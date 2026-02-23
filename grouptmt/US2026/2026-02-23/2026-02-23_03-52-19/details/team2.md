@@ -262,8 +262,8 @@
 | 254 | 1073 | Jodi Blake |
 | 255 | 1071 | Kim Dean |
 | 256 | 1064 | BK Queen |
-| 257 | 1058 | Offonar Facey |
-| 258 | 1058 | Rickey Johnson |
+| 257 | 1058 | Rickey Johnson |
+| 258 | 1058 | Offonar Facey |
 | 259 | 1055 | Robin Kerby |
 | 260 | 1048 | Desiree Anderson |
 | 261 | 1047 | Dany Murillo |
@@ -281,14 +281,14 @@
 | 273 | 1014 | Michele Morgan |
 | 274 | 1011 | Teresa Gillmore |
 | 275 | 1003 | Andrea Maher |
-| 276 | 998 | Shelley Thornburgh Wright |
-| 277 | 998 | Keri Womack |
+| 276 | 998 | Keri Womack |
+| 277 | 998 | Shelley Thornburgh Wright |
 | 278 | 996 | Ashie Ann |
 | 279 | 987 | Osun Anuket Esu |
 | 280 | 987 | Julie Kresal |
 | 281 | 984 | Crystal Hoffman |
-| 282 | 979 | Melissa Penelope Ann Dodge |
-| 283 | 979 | Hillary Crawford |
+| 282 | 979 | Hillary Crawford |
+| 283 | 979 | Melissa Penelope Ann Dodge |
 | 284 | 976 | Sam Joe |
 | 285 | 972 | Della Hole |
 | 286 | 972 | Binyah-Binyah |

@@ -126,8 +126,8 @@
 | 118 | 752 | Raya |
 | 119 | 748 | Adrian Marcel Pate |
 | 120 | 745 | JerseyJess |
-| 121 | 744 | Fancy Cascader |
-| 122 | 744 | Leah Barnett |
+| 121 | 744 | Leah Barnett |
+| 122 | 744 | Fancy Cascader |
 | 123 | 742 | Groovy Catcher |
 | 124 | 736 | Katrina Schroeder |
 | 125 | 733 | mzcatzy |
@@ -538,10 +538,10 @@
 | 530 | 185 | Breezy Roll |
 | 531 | 184 | Shanon R Jackson |
 | 532 | 184 | Christian Luna |
-| 533 | 183 | Jana Fagg |
-| 534 | 183 | Mel Murr |
-| 535 | 183 | AC Yeater |
-| 536 | 183 | Scott Doss |
+| 533 | 183 | Mel Murr |
+| 534 | 183 | AC Yeater |
+| 535 | 183 | Scott Doss |
+| 536 | 183 | Jana Fagg |
 | 537 | 183 | Snarky McFace |
 | 538 | 182 | Johnathan Dowe |
 | 539 | 182 | Alicia |
@@ -1107,7 +1107,7 @@
 | 1099 | 93 | Jumel Ruffin |
 | 1100 | 93 | Tucker Allen |
 | 1101 | 93 | Ryze |
-| 1102 | 93 | Jumel Ruffin |
+| 1102 | 93 | Twisty Linebuilder |
 | 1103 | 92 | Cheeky Dashy |
 | 1104 | 92 | Krystal Kampagnola |
 | 1105 | 92 | Jackie-Lynne Goertzen |

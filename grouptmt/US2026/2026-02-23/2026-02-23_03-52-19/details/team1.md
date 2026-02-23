@@ -148,20 +148,20 @@
 | 140 | 380 | phrmblk24 |
 | 141 | 379 | Austin James |
 | 142 | 379 | Kimmie Kimms |
-| 143 | 376 | Death |
-| 144 | 376 | Brian Richardsson |
+| 143 | 376 | Brian Richardsson |
+| 144 | 376 | Death |
 | 145 | 375 | Tanya Carpenter-Reynolds |
 | 146 | 375 | Monica Donato |
 | 147 | 371 | Basment Living |
 | 148 | 371 | Jason Savage |
 | 149 | 368 | Amanda Johnson Huffman |
 | 150 | 367 | Sharon Reynolds |
-| 151 | 364 | Shauna Loe |
-| 152 | 364 | Serina Marie |
+| 151 | 364 | Serina Marie |
+| 152 | 364 | Shauna Loe |
 | 153 | 360 | Wisa |
 | 154 | 355 | Carrie Smith |
-| 155 | 353 | Jaimie Lynn |
-| 156 | 353 | Josh Riemer |
+| 155 | 353 | Josh Riemer |
+| 156 | 353 | Jaimie Lynn |
 | 157 | 350 | Tipsy Strikerpiece |
 | 158 | 346 | GATOR |
 | 159 | 345 | Jerry Danowski |
@@ -278,8 +278,8 @@
 | 270 | 229 | Dino |
 | 271 | 228 | Adele Rahman |
 | 272 | 227 | Happy Snapbuild |
-| 273 | 226 | Snappy Brickbuilder |
-| 274 | 226 | Glitzy Buildsnap |
+| 273 | 226 | Glitzy Buildsnap |
+| 274 | 226 | Snappy Brickbuilder |
 | 275 | 224 | Jumpy Rotate |
 | 276 | 223 | Erez Yosef |
 | 277 | 223 | Layzietyme |

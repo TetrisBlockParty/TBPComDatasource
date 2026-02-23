@@ -71,8 +71,8 @@
 | 63 | 772 | Ashley Ingram |
 | 64 | 769 | Rachel Anne |
 | 65 | 767 | Shannon Ferrari |
-| 66 | 766 | Robin Watters |
-| 67 | 766 | Edward White |
+| 66 | 766 | Edward White |
+| 67 | 766 | Robin Watters |
 | 68 | 761 | Robin Getchel |
 | 69 | 752 | loulou |
 | 70 | 749 | Dustee Craddock-Harrison |
@@ -86,8 +86,8 @@
 | 78 | 704 | Crystal Carroll |
 | 79 | 703 | Savannah Overdorf |
 | 80 | 697 | Alyssa Papen |
-| 81 | 684 | Jonathan Kimbrough |
-| 82 | 684 | Kimyatta Cavin |
+| 81 | 684 | Kimyatta Cavin |
+| 82 | 684 | Jonathan Kimbrough |
 | 83 | 677 | Trista Leah |
 | 84 | 673 | Jacqueline Helm |
 | 85 | 664 | Valerie Roberts |
