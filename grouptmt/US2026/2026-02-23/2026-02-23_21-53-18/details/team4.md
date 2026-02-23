@@ -90,8 +90,8 @@
 | 82 | 826 | Rica Mitchell |
 | 83 | 802 | Crystal Carroll |
 | 84 | 794 | Chilly Line |
-| 85 | 783 | Guy Incognito |
-| 86 | 783 | Denise Carlson |
+| 85 | 783 | Denise Carlson |
+| 86 | 783 | Guy Incognito |
 | 87 | 775 | Klo |
 | 88 | 768 | Judy Cox |
 | 89 | 767 | Shannon Ferrari |
@@ -140,8 +140,8 @@
 | 132 | 584 | Carlton Unfiltered |
 | 133 | 575 | Jenna Ingersoll |
 | 134 | 574 | Carmethia Clemons Haslerig |
-| 135 | 573 | Cursed Hag |
-| 136 | 573 | shar |
+| 135 | 573 | shar |
+| 136 | 573 | Cursed Hag |
 | 137 | 561 | YoMomma |
 | 138 | 560 | Chastity Mitchell |
 | 139 | 551 | Ren Mc |
@@ -350,16 +350,16 @@
 | 342 | 276 | Silly SeaWeed |
 | 343 | 275 | meowmew |
 | 344 | 274 | Jenna McGeorge |
-| 345 | 272 | Tony Pavelka |
-| 346 | 272 | Dennis Bradley |
+| 345 | 272 | Dennis Bradley |
+| 346 | 272 | Tony Pavelka |
 | 347 | 271 | Holly |
 | 348 | 270 | 23 |
 | 349 | 270 | 07VHVW |
 | 350 | 270 | Brittany Little |
 | 351 | 269 | Chummy Towerzone |
 | 352 | 268 | Jumpy Zonepiece |
-| 353 | 268 | Shukee Lo |
-| 354 | 268 | Riverdale |
+| 353 | 268 | Riverdale |
+| 354 | 268 | Shukee Lo |
 | 355 | 267 | Metsfan |
 | 356 | 267 | Jarred Falls |
 | 357 | 266 | Happy Combo |

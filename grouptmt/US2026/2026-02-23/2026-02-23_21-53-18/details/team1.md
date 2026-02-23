@@ -195,8 +195,8 @@
 | 187 | 422 | canbrick |
 | 188 | 422 | Chelsea Dahlquist |
 | 189 | 418 | David Miller |
-| 190 | 417 | Jessie Lynn |
-| 191 | 417 | Debbie Kane |
+| 190 | 417 | Debbie Kane |
+| 191 | 417 | Jessie Lynn |
 | 192 | 416 | Jessica Sheehan |
 | 193 | 415 | Jennifer Hardman |
 | 194 | 414 | John J. Cronin |

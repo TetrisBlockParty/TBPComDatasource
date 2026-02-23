@@ -396,13 +396,13 @@
 | 388 | 345 | victory |
 | 389 | 345 | Misha Sanders |
 | 390 | 344 | Beaudie Stroebel |
-| 391 | 342 | Christina Marie Swisher |
-| 392 | 342 | Cynthia Herrmann Egland |
+| 391 | 342 | Cynthia Herrmann Egland |
+| 392 | 342 | Christina Marie Swisher |
 | 393 | 341 | Lys |
 | 394 | 340 | Erika Thornton |
 | 395 | 340 | Kerry Nowickshere |
-| 396 | 339 | Michael Lucado |
-| 397 | 339 | Eboni Starr |
+| 396 | 339 | Eboni Starr |
+| 397 | 339 | Michael Lucado |
 | 398 | 339 | Heather Bateman |
 | 399 | 337 | AC Yeater |
 | 400 | 335 | Maggie |
@@ -522,8 +522,8 @@
 | 514 | 276 | Michelle Clarno |
 | 515 | 276 | Justice 4 P |
 | 516 | 276 | Crimson |
-| 517 | 276 | Katie Leigh Blankenship |
-| 518 | 276 | Sdot |
+| 517 | 276 | Sdot |
+| 518 | 276 | Katie Leigh Blankenship |
 | 519 | 275 | Scott Doss |
 | 520 | 275 | Cassandra Bryant |
 | 521 | 275 | Dapper Chiseler |
