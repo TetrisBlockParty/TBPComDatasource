@@ -108,8 +108,8 @@
 | 100 | 1101 | Stephanie Rice |
 | 101 | 1094 | JerseyJess |
 | 102 | 1093 | Angela M. Fletcher |
-| 103 | 1056 | joclisa |
-| 104 | 1056 | Ebony West-Cundiff |
+| 103 | 1056 | Ebony West-Cundiff |
+| 104 | 1056 | joclisa |
 | 105 | 1050 | Sherika C. McDaniels |
 | 106 | 1041 | Patricia Gadsden |
 | 107 | 1038 | Mandy Smith Oldham |
@@ -159,8 +159,8 @@
 | 151 | 779 | Justin Ritter |
 | 152 | 773 | Daryn Elliott |
 | 153 | 773 | Daira Largen |
-| 154 | 764 | Hasty Cascadefit |
-| 155 | 764 | Groovy Catcher |
+| 154 | 764 | Groovy Catcher |
+| 155 | 764 | Hasty Cascadefit |
 | 156 | 762 | Santeria Trece Candles |
 | 157 | 761 | Denita Mungro |
 | 158 | 761 | Peppy Shifter |
@@ -418,8 +418,8 @@
 | 410 | 323 | Wettnippz |
 | 411 | 323 | Erykah |
 | 412 | 323 | Jess Bissett |
-| 413 | 322 | Beth Smith |
-| 414 | 322 | Nena Somerville Kelly |
+| 413 | 322 | Nena Somerville Kelly |
+| 414 | 322 | Beth Smith |
 | 415 | 321 | Jl |
 | 416 | 320 | Or Reznitsky |
 | 417 | 320 | Taylor Hood |

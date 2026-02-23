@@ -170,18 +170,18 @@
 | 162 | 501 | Jessica Lynn Cutlip |
 | 163 | 498 | Melissa Adams |
 | 164 | 496 | Cindy Looper |
-| 165 | 491 | Jade Rian |
-| 166 | 491 | Carrie Brian |
+| 165 | 491 | Carrie Brian |
+| 166 | 491 | Jade Rian |
 | 167 | 486 | Swanky Fitline |
 | 168 | 485 | Rico |
-| 169 | 480 | Brandon Crabbs |
-| 170 | 480 | Adam Stephanie Parker |
+| 169 | 480 | Adam Stephanie Parker |
+| 170 | 480 | Brandon Crabbs |
 | 171 | 479 | Christina Black |
 | 172 | 477 | Casey Grabner |
 | 173 | 476 | Matt Summer |
 | 174 | 475 | Andria Lynn |
-| 175 | 470 | Cursed Hag |
-| 176 | 470 | Oscar Alberto Perez |
+| 175 | 470 | Oscar Alberto Perez |
+| 176 | 470 | Cursed Hag |
 | 177 | 465 | Jolly Dashfit |
 | 178 | 464 | Sharyn Lemire |
 | 179 | 462 | Leslie Thomas |
@@ -260,8 +260,8 @@
 | 252 | 358 | Twisty Cascadezone |
 | 253 | 356 | mike |
 | 254 | 356 | Joeliecea Cobb |
-| 255 | 355 | Andrew Dang |
-| 256 | 355 | David Lay |
+| 255 | 355 | David Lay |
+| 256 | 355 | Andrew Dang |
 | 257 | 352 | scott |
 | 258 | 350 | Jen Caldwell |
 | 259 | 347 | Daria Rycewicz |
@@ -286,8 +286,8 @@
 | 278 | 317 | Madison Sweere |
 | 279 | 315 | Stella |
 | 280 | 314 | Lora |
-| 281 | 313 | Angie Schmidt |
-| 282 | 313 | Milan Markeisha |
+| 281 | 313 | Milan Markeisha |
+| 282 | 313 | Angie Schmidt |
 | 283 | 312 | Dihcheese444 |
 | 284 | 311 | Jason Gibbs |
 | 285 | 311 | Nikki Rae Gordon |
@@ -298,8 +298,8 @@
 | 290 | 305 | Sassy Pattern |
 | 291 | 304 | Shiny Fit |
 | 292 | 301 | Erin Sabol |
-| 293 | 300 | Dana Scott |
-| 294 | 300 | Kate |
+| 293 | 300 | Kate |
+| 294 | 300 | Dana Scott |
 | 295 | 298 | Chance Strickland |
 | 296 | 297 | Kim Klutz Olson |
 | 297 | 297 | Kenna Gunderland |
@@ -312,8 +312,8 @@
 | 304 | 292 | Tracey Lehmann |
 | 305 | 292 | Angel Raya |
 | 306 | 291 | Dizzy Matchzone |
-| 307 | 291 | Brittney Orengo |
-| 308 | 291 | ZeeZee |
+| 307 | 291 | ZeeZee |
+| 308 | 291 | Brittney Orengo |
 | 309 | 290 | Heather Bruce |
 | 310 | 290 | Neirrah B Olailjeel |
 | 311 | 290 | Jared Gutwein |
@@ -371,8 +371,8 @@
 | 363 | 257 | Marcus TheeyoungWoe Gilmore |
 | 364 | 257 | ĥuf |
 | 365 | 256 | Jason Bosco |
-| 366 | 256 | Paige Kittles |
-| 367 | 256 | Mackenzie Forrester |
+| 366 | 256 | Mackenzie Forrester |
+| 367 | 256 | Paige Kittles |
 | 368 | 253 | Autum Leigh |
 | 369 | 253 | Chair |
 | 370 | 252 | Maureen Flanigan |
@@ -390,7 +390,7 @@
 | 382 | 244 | Perky Piecegrid |
 | 383 | 243 | Val Erie |
 | 384 | 242 | PurpleMoonMa |
-| 385 | 240 | Perky Patternblock |
+| 385 | 240 | Jackie Marie |
 | 386 | 240 | Zany Shatterer |
 | 387 | 240 | Perky Patternblock |
 | 388 | 239 | Laura Hosford |
@@ -398,8 +398,8 @@
 | 390 | 239 | Denise B |
 | 391 | 238 | 中山成巳 |
 | 392 | 236 | The Murphy |
-| 393 | 235 | Shainne Brewer |
-| 394 | 235 | Stacy Jones |
+| 393 | 235 | Stacy Jones |
+| 394 | 235 | Shainne Brewer |
 | 395 | 235 | LaDonna LovinmesomeMe Lambert |
 | 396 | 234 | Diosa Ebalobo Magsael |
 | 397 | 234 | Speedy Cascadeclear |
@@ -501,7 +501,7 @@
 | 493 | 191 | Norman Klick |
 | 494 | 191 | Jobadia Steelerton |
 | 495 | 191 | Earnest Thompson |
-| 496 | 191 | Jobadia Steelerton |
+| 496 | 191 | Koral Hanke |
 | 497 | 190 | Robert Rangel |
 | 498 | 190 | wombat |
 | 499 | 189 | Lazy Glidepiece |

@@ -90,7 +90,7 @@
 | 82 | 2880 | Kimberly Schall |
 | 83 | 2880 | Aimee Byrom |
 | 84 | 2870 | Eckoman518 |
-| 85 | 2869 | Jose Vega |
+| 85 | 2859 | Jose Vega |
 | 86 | 2854 | Veronica Porter |
 | 87 | 2837 | Adam Erikson |
 | 88 | 2808 | Jazzy Brickclear |
@@ -293,8 +293,8 @@
 | 285 | 1221 | Diallo Sparkman |
 | 286 | 1221 | Jane Fong |
 | 287 | 1217 | Brooks Brooks |
-| 288 | 1216 | Catina Hutchison |
-| 289 | 1216 | Pacynthia Williams |
+| 288 | 1216 | Pacynthia Williams |
+| 289 | 1216 | Catina Hutchison |
 | 290 | 1214 | David Cudicio-Hayden |
 | 291 | 1211 | Ricardo Burton |
 | 292 | 1191 | Jess Morrison |
@@ -383,8 +383,8 @@
 | 375 | 982 | Crystie Hicks |
 | 376 | 978 | Barry Britt |
 | 377 | 976 | Sam Joe |
-| 378 | 975 | Mandi Douglas Hilt |
-| 379 | 975 | Hyper Cluster |
+| 378 | 975 | Hyper Cluster |
+| 379 | 975 | Mandi Douglas Hilt |
 | 380 | 974 | Boldy Cascadepiece |
 | 381 | 971 | Jojo Momma |
 | 382 | 971 | Tiara Elizabeth Baker |
@@ -450,8 +450,8 @@
 | 442 | 870 | Joy LaJeunesse |
 | 443 | 869 | BYM4L |
 | 444 | 869 | Venita Ray |
-| 445 | 868 | Dylan Thomason |
-| 446 | 868 | Jelly |
+| 445 | 868 | Jelly |
+| 446 | 868 | Dylan Thomason |
 | 447 | 865 | Kiely Tomaskovich |
 | 448 | 862 | Sarah Massey |
 | 449 | 858 | Lauren Fitzgerald Thomas |
@@ -549,8 +549,8 @@
 | 541 | 748 | Melissa Schulz |
 | 542 | 746 | Hoppy Brickmatch |
 | 543 | 743 | Frisky Clearpiece |
-| 544 | 742 | Cassie Maynard |
-| 545 | 742 | Ganieda |
+| 544 | 742 | Ganieda |
+| 545 | 742 | Cassie Maynard |
 | 546 | 741 | Giggy Mover |
 | 547 | 740 | Jerry Tempelmeyer |
 | 548 | 739 | Frisky Riserbuilder |
@@ -562,8 +562,8 @@
 | 554 | 729 | goofinoff |
 | 555 | 728 | Mikayala Szaz |
 | 556 | 728 | Tom Riefer |
-| 557 | 726 | Crystal Greene |
-| 558 | 726 | Joce Lynn |
+| 557 | 726 | Joce Lynn |
+| 558 | 726 | Crystal Greene |
 | 559 | 725 | Vonceial Boone |
 | 560 | 724 | Melissa Holsinger |
 | 561 | 721 | Kori Beth Babb |
@@ -737,8 +737,8 @@
 | 729 | 586 | Tra Barnum |
 | 730 | 585 | Taylor Flowers |
 | 731 | 585 | Nerdy Blockpiece |
-| 732 | 585 | Laquetta Royston |
-| 733 | 585 | Shelva Richard |
+| 732 | 585 | Shelva Richard |
+| 733 | 585 | Laquetta Royston |
 | 734 | 583 | Shylee Tilman |
 | 735 | 582 | Kat Mfm Kaul |
 | 736 | 581 | Sveta Lana |
