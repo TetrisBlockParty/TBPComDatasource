@@ -197,16 +197,16 @@
 | 189 | 1300 | Tacara Cummings |
 | 190 | 1294 | Ashley House |
 | 191 | 1286 | Altamirano Michael |
-| 192 | 1282 | Ashley Rose Frederick |
-| 193 | 1282 | Tanya Parsons |
+| 192 | 1282 | Tanya Parsons |
+| 193 | 1282 | Ashley Rose Frederick |
 | 194 | 1258 | Joyce Johnson Vaughn |
 | 195 | 1257 | Michele Gabriel |
 | 196 | 1252 | Angel |
 | 197 | 1244 | Teddi Notyalc |
 | 198 | 1243 | Anna Edwards |
 | 199 | 1237 | Megan Ferguson Leone |
-| 200 | 1232 | Groovy Puzzle |
-| 201 | 1232 | Ambyre Patterson |
+| 200 | 1232 | Ambyre Patterson |
+| 201 | 1232 | Groovy Puzzle |
 | 202 | 1230 | Megan Garrick |
 | 203 | 1217 | Lucky Ladybug |
 | 204 | 1207 | David Cudicio-Hayden |

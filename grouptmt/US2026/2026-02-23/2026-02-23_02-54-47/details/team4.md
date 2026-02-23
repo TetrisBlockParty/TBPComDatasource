@@ -133,8 +133,8 @@
 | 125 | 451 | Peachy Fall |
 | 126 | 451 | Angela Srubar-Norman |
 | 127 | 448 | Kristin Manee |
-| 128 | 435 | Leslie Thomas |
-| 129 | 435 | Kristina Black |
+| 128 | 435 | Kristina Black |
+| 129 | 435 | Leslie Thomas |
 | 130 | 431 | Courtney Cicoria |
 | 131 | 421 | Monica Daley |
 | 132 | 421 | Kesha Brady |
@@ -174,8 +174,8 @@
 | 166 | 358 | A5! |
 | 167 | 356 | George Nutt |
 | 168 | 352 | Sue Joyce Staats |
-| 169 | 349 | Twisty Cascadezone |
-| 170 | 349 | Rafael Valentin |
+| 169 | 349 | Rafael Valentin |
+| 170 | 349 | Twisty Cascadezone |
 | 171 | 348 | TRCuse |
 | 172 | 347 | Daria Rycewicz |
 | 173 | 341 | April Rondinone |
@@ -197,12 +197,12 @@
 | 189 | 309 | Crystal Nicolette Moore |
 | 190 | 307 | Michele Plunkett |
 | 191 | 306 | blockstar |
-| 192 | 304 | Lindsay Ball |
-| 193 | 304 | Mary Ann Pabukis |
+| 192 | 304 | Mary Ann Pabukis |
+| 193 | 304 | Lindsay Ball |
 | 194 | 302 | Cursed Hag |
 | 195 | 301 | Andria Lynn |
-| 196 | 300 | Dana Scott |
-| 197 | 300 | Zakia Monae |
+| 196 | 300 | Zakia Monae |
+| 197 | 300 | Dana Scott |
 | 198 | 300 | Dihcheese444 |
 | 199 | 297 | Melvin Baird |
 | 200 | 296 | scott |
@@ -223,8 +223,8 @@
 | 215 | 281 | Laura |
 | 216 | 281 | Nikki Rae Gordon |
 | 217 | 277 | Zesty Twistbuilder |
-| 218 | 276 | Matt Dell'Olio |
-| 219 | 276 | Joeliecea Cobb |
+| 218 | 276 | Joeliecea Cobb |
+| 219 | 276 | Matt Dell'Olio |
 | 220 | 273 | Casey Grabner |
 | 221 | 272 | Alan George LaRage |
 | 222 | 272 | Dennis Bradley |
@@ -239,8 +239,8 @@
 | 231 | 262 | BigSammy420 |
 | 232 | 262 | Selena Shaw |
 | 233 | 261 | JPW |
-| 234 | 259 | Montiette Mcglown |
-| 235 | 259 | Cheery Risebuilder |
+| 234 | 259 | Cheery Risebuilder |
+| 235 | 259 | Montiette Mcglown |
 | 236 | 258 | Stella |
 | 237 | 257 | PeaceOs |
 | 238 | 256 | Mylo Lipscomb |

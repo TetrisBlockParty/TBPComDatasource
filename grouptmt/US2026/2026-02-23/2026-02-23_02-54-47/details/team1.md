@@ -104,8 +104,8 @@
 | 96 | 492 | Ash Galvan |
 | 97 | 489 | Deanna L Hermanson |
 | 98 | 486 | Tater |
-| 99 | 483 | cc |
-| 100 | 483 | Tdub |
+| 99 | 483 | Tdub |
+| 100 | 483 | cc |
 | 101 | 477 | April Carroll |
 | 102 | 472 | Hasbro Bros |
 | 103 | 462 | Luciano Moreira |
@@ -248,12 +248,12 @@
 | 240 | 247 | Brenda Alexander |
 | 241 | 245 | LaFontaine Leslie |
 | 242 | 245 | Matt Iaccheo |
-| 243 | 244 | Eddie Dillon |
-| 244 | 244 | Sarah Somers Gray |
+| 243 | 244 | Sarah Somers Gray |
+| 244 | 244 | Eddie Dillon |
 | 245 | 242 | ParisandCory Champagne |
 | 246 | 241 | Tyler Hertzog |
-| 247 | 240 | DaRascal |
-| 248 | 240 | Daring Fitclear |
+| 247 | 240 | Daring Fitclear |
+| 248 | 240 | DaRascal |
 | 249 | 238 | Tiffany Smith |
 | 250 | 234 | Paula Martin |
 | 251 | 233 | LC |
