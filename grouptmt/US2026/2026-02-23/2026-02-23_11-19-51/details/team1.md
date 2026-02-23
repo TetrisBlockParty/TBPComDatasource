@@ -91,8 +91,8 @@
 | 83 | 648 | Evie Khalil |
 | 84 | 647 | Jason Jones |
 | 85 | 600 | Greg Hart |
-| 86 | 598 | Kellie |
-| 87 | 598 | Erin Hodges Plumb |
+| 86 | 598 | Erin Hodges Plumb |
+| 87 | 598 | Kellie |
 | 88 | 588 | Lori Sanders- Davis |
 | 89 | 584 | Jen Sartain |
 | 90 | 583 | Theo Pinnow |
@@ -117,10 +117,10 @@
 | 109 | 493 | MomMom |
 | 110 | 492 | Ash Galvan |
 | 111 | 491 | cc |
-| 112 | 489 | Deanna L Hermanson |
-| 113 | 489 | April Carroll |
-| 114 | 483 | Trina Gee |
-| 115 | 483 | Tdub |
+| 112 | 489 | April Carroll |
+| 113 | 489 | Deanna L Hermanson |
+| 114 | 483 | Tdub |
+| 115 | 483 | Trina Gee |
 | 116 | 480 | Ty Brown |
 | 117 | 478 | Stephanie Zahn |
 | 118 | 477 | Tonya Beasley |
@@ -351,8 +351,8 @@
 | 343 | 219 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 344 | 219 | Jeanna Dunn |
 | 345 | 218 | Jason Benitez |
-| 346 | 217 | Cheeky Crusher |
-| 347 | 217 | Betsy |
+| 346 | 217 | Betsy |
+| 347 | 217 | Cheeky Crusher |
 | 348 | 217 | Speedy Snapfall |
 | 349 | 216 | Shauntina Burke |
 | 350 | 216 | Chad Atchley |

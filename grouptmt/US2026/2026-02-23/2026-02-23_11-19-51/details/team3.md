@@ -114,8 +114,8 @@
 | 106 | 869 | Araceli Parra |
 | 107 | 868 | Sarajane Lokan |
 | 108 | 860 | Sunny Rotater |
-| 109 | 851 | Danielle Becker |
-| 110 | 851 | Jd Morris |
+| 109 | 851 | Jd Morris |
+| 110 | 851 | Danielle Becker |
 | 111 | 850 | Danielle Mogg |
 | 112 | 848 | Patricia Gadsden |
 | 113 | 839 | Angeline Joseph |
@@ -133,8 +133,8 @@
 | 125 | 764 | Hasty Cascadefit |
 | 126 | 764 | Groovy Catcher |
 | 127 | 762 | Speedy Bridger |
-| 128 | 755 | Raya |
-| 129 | 755 | Katrina Schroeder |
+| 128 | 755 | Katrina Schroeder |
+| 129 | 755 | Raya |
 | 130 | 752 | Logan Naccarato |
 | 131 | 748 | Adrian Marcel Pate |
 | 132 | 745 | ren |
@@ -263,8 +263,8 @@
 | 255 | 406 | Kristal C Lee |
 | 256 | 405 | Steffi Chris Dacones |
 | 257 | 404 | Chasity |
-| 258 | 403 | Scott Lindsay |
-| 259 | 403 | Denita Mungro |
+| 258 | 403 | Denita Mungro |
+| 259 | 403 | Scott Lindsay |
 | 260 | 396 | Randy Clevenger |
 | 261 | 395 | Ashley Tookes |
 | 262 | 395 | rosy |
@@ -276,8 +276,8 @@
 | 268 | 381 | Snazzy Filler |
 | 269 | 380 | Rebecca Bailey |
 | 270 | 379 | JessDrown |
-| 271 | 378 | MsBee |
-| 272 | 378 | Chris Bell |
+| 271 | 378 | Chris Bell |
+| 272 | 378 | MsBee |
 | 273 | 375 | Stephanie Burtin |
 | 274 | 374 | Rania Zaqout |
 | 275 | 372 | Rich LeBlanc |
@@ -412,8 +412,8 @@
 | 404 | 269 | Jess Bissett |
 | 405 | 268 | Jessica Lynn French |
 | 406 | 268 | Julia Nicole |
-| 407 | 267 | April Matthew Kibble |
-| 408 | 267 | Michael Kimbro |
+| 407 | 267 | Michael Kimbro |
+| 408 | 267 | April Matthew Kibble |
 | 409 | 267 | Jul |
 | 410 | 266 | Daring Builder |
 | 411 | 266 | Sarah Muradyan |
@@ -513,15 +513,15 @@
 | 505 | 218 | Ginger Gray |
 | 506 | 218 | Tina Smith Roy |
 | 507 | 217 | Jazzy Spinfit |
-| 508 | 217 | Tia Moore |
-| 509 | 217 | Katie Leigh Blankenship |
+| 508 | 217 | Katie Leigh Blankenship |
+| 509 | 217 | Tia Moore |
 | 510 | 216 | Amanda Declue |
 | 511 | 214 | Jumpy Curvebuilder |
 | 512 | 214 | Crystal Hine |
 | 513 | 214 | Amy Fuller Heaton |
 | 514 | 213 | Jack Bo |
 | 515 | 213 | Flashy Rumbler |
-| 516 | 213 | Jack Bo |
+| 516 | 213 | Linda Draper |
 | 517 | 213 | Ktfreeee |
 | 518 | 212 | Beth Ingham |
 | 519 | 212 | Frilly Stackzone |

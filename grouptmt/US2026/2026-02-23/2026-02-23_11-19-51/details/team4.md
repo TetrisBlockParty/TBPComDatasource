@@ -76,8 +76,8 @@
 | 68 | 787 | Edward White |
 | 69 | 767 | Shannon Ferrari |
 | 70 | 766 | Robin Watters |
-| 71 | 765 | Denise Carlson |
-| 72 | 765 | Robin Getchel |
+| 71 | 765 | Robin Getchel |
+| 72 | 765 | Denise Carlson |
 | 73 | 753 | TheNeesh50 |
 | 74 | 752 | Shane Kalamata Platoon |
 | 75 | 749 | Dustee Craddock-Harrison |
@@ -126,11 +126,11 @@
 | 118 | 521 | Andy Cabral |
 | 119 | 519 | Nugget |
 | 120 | 517 | shar |
-| 121 | 514 | Serena Goodridge |
-| 122 | 514 | Scott Jameson |
+| 121 | 514 | Scott Jameson |
+| 122 | 514 | Serena Goodridge |
 | 123 | 513 | Erin Thomas |
-| 124 | 512 | Cristy Duerksen |
-| 125 | 512 | Casey Jeffcoat |
+| 124 | 512 | Casey Jeffcoat |
+| 125 | 512 | Cristy Duerksen |
 | 126 | 509 | Leslie Nicole |
 | 127 | 493 | Carly Alexis |
 | 128 | 485 | Melissa Adams |
@@ -150,18 +150,18 @@
 | 142 | 434 | Mylo Lipscomb |
 | 143 | 432 | Zippy Block |
 | 144 | 431 | Courtney Cicoria |
-| 145 | 430 | Denia Deni |
-| 146 | 429 | Klo |
-| 147 | 426 | 🥔🥔 Spudz |
-| 148 | 423 | Carrie Brian |
-| 149 | 422 | Zakia Monae |
-| 150 | 421 | JIGsaw ~(•¿°)~ |
-| 151 | 421 | Kesha Brady |
-| 152 | 418 | Marie-Pier Desjardins |
-| 153 | 418 | Lush Linkfall |
-| 154 | 417 | Steph Marie |
-| 155 | 417 | Amanda Pauldo-Ivy |
-| 156 | 416 | Chaz Duncan |
+| 145 | 429 | Klo |
+| 146 | 426 | 🥔🥔 Spudz |
+| 147 | 423 | Carrie Brian |
+| 148 | 422 | Zakia Monae |
+| 149 | 421 | JIGsaw ~(•¿°)~ |
+| 150 | 421 | Kesha Brady |
+| 151 | 418 | Marie-Pier Desjardins |
+| 152 | 418 | Lush Linkfall |
+| 153 | 417 | Steph Marie |
+| 154 | 417 | Amanda Pauldo-Ivy |
+| 155 | 416 | Chaz Duncan |
+| 156 | 414 | Swanky Fitline |
 | 157 | 414 | Nope Young |
 | 158 | 413 | Circuit8 |
 | 159 | 412 | Jessica Bohlken |
@@ -229,8 +229,8 @@
 | 221 | 307 | Michele Plunkett |
 | 222 | 306 | mike |
 | 223 | 305 | Melvin Baird |
-| 224 | 304 | Gdiguy |
-| 225 | 304 | Lindsay Ball |
+| 224 | 304 | Lindsay Ball |
+| 225 | 304 | Gdiguy |
 | 226 | 301 | Andria Lynn |
 | 227 | 300 | Dana Scott |
 | 228 | 295 | Keshia Lyons |
@@ -238,8 +238,8 @@
 | 230 | 294 | Porkobello |
 | 231 | 292 | Epic Curvetile |
 | 232 | 291 | Mimi |
-| 233 | 290 | Rebecca Morris |
-| 234 | 290 | Plucky Patternblock |
+| 233 | 290 | Plucky Patternblock |
+| 234 | 290 | Rebecca Morris |
 | 235 | 290 | Jared Gutwein |
 | 236 | 289 | Juls |
 | 237 | 288 | Adam Stephanie Parker |
@@ -426,8 +426,8 @@
 | 418 | 176 | Cindy Looper |
 | 419 | 175 | Jim Hart |
 | 420 | 175 | Lorena Guerrero-Barron |
-| 421 | 174 | Chummy Towerzone |
-| 422 | 174 | Jason Frehner |
+| 421 | 174 | Jason Frehner |
+| 422 | 174 | Chummy Towerzone |
 | 423 | 173 | Tanner Lund |
 | 424 | 172 | Undeniable Williams |
 | 425 | 172 | Janis Brown |
@@ -478,8 +478,8 @@
 | 470 | 158 | Jasmine S Caldwell |
 | 471 | 158 | Grann8 |
 | 472 | 157 | David Boggs |
-| 473 | 157 | Ryry |
-| 474 | 157 | LunaMoon |
+| 473 | 157 | LunaMoon |
+| 474 | 157 | Ryry |
 | 475 | 156 | Mighty Edgepiece |
 | 476 | 155 | tipsy tiger |
 | 477 | 155 | Faja |
@@ -492,7 +492,7 @@
 | 484 | 151 | Daresha Fair |
 | 485 | 151 | Tony Pavelka |
 | 486 | 151 | Joshua Guess |
-| 487 | 151 | Walter Beltran |
+| 487 | 151 | Katie Alexander |
 | 488 | 151 | Brad Campbell |
 | 489 | 150 | Jobadia Steelerton |
 | 490 | 150 | Kujuanna Hammon |
