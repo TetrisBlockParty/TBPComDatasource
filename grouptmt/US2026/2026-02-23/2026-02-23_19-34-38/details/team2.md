@@ -680,9 +680,9 @@
 | 672 | 621 | Taren Cowan |
 | 673 | 620 | Macy Jarrett |
 | 674 | 618 | Marella Petilo |
-| 675 | 617 | Kacee Conrad Bock |
-| 676 | 617 | Jason H Baker |
-| 677 | 617 | Biggest thing |
+| 675 | 617 | Biggest thing |
+| 676 | 617 | Kacee Conrad Bock |
+| 677 | 617 | Jason H Baker |
 | 678 | 616 | Polly Pritchard Chesler |
 | 679 | 615 | Julio A Laracuente |
 | 680 | 613 | Audrey Jones |

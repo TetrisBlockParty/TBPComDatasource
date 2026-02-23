@@ -90,8 +90,8 @@
 | 82 | 1244 | Lori Barnaby |
 | 83 | 1240 | Betty Ivy |
 | 84 | 1221 | Logan Naccarato |
-| 85 | 1213 | Nerdy Riseclear |
-| 86 | 1213 | Snappy Glidepiece |
+| 85 | 1213 | Snappy Glidepiece |
+| 86 | 1213 | Nerdy Riseclear |
 | 87 | 1212 | Amanda Adkins |
 | 88 | 1198 | Jd Morris |
 | 89 | 1187 | Danielle Mogg |
@@ -316,8 +316,8 @@
 | 308 | 408 | Ashley Muncey |
 | 309 | 405 | Steffi Chris Dacones |
 | 310 | 403 | lashanda |
-| 311 | 403 | Scott Lindsay |
-| 312 | 403 | Stephanie Burtin |
+| 311 | 403 | Stephanie Burtin |
+| 312 | 403 | Scott Lindsay |
 | 313 | 400 | Dana Winters |
 | 314 | 398 | France Vézina |
 | 315 | 398 | fraulila |
@@ -356,8 +356,8 @@
 | 348 | 365 | Breanna Marsden |
 | 349 | 364 | ROODBOY |
 | 350 | 362 | Foltz Lee Kelli |
-| 351 | 362 | Brandon Givens |
-| 352 | 362 | Chummy Rumbler |
+| 351 | 362 | Chummy Rumbler |
+| 352 | 362 | Brandon Givens |
 | 353 | 361 | neci |
 | 354 | 359 | Kristen Weese |
 | 355 | 359 | Steven Fulater |
@@ -403,8 +403,8 @@
 | 395 | 328 | Cesar Mendez |
 | 396 | 327 | Tiffanie Alley |
 | 397 | 327 | Jimmie Clemons |
-| 398 | 326 | Norma JulieMay |
-| 399 | 326 | Nelma |
+| 398 | 326 | Nelma |
+| 399 | 326 | Norma JulieMay |
 | 400 | 326 | Kerry Nowickshere |
 | 401 | 324 | Sissy Lowery Davis |
 | 402 | 324 | Blair Erin Waite |

@@ -142,8 +142,8 @@
 | 134 | 551 | Ren Mc |
 | 135 | 549 | Carlos Ramirez |
 | 136 | 546 | Dizzy Tiley |
-| 137 | 545 | Livvy |
-| 138 | 545 | Desi Desporte |
+| 137 | 545 | Desi Desporte |
+| 138 | 545 | Livvy |
 | 139 | 542 | Austin Owens |
 | 140 | 542 | Carlton Unfiltered |
 | 141 | 540 | Rodney McMath Jr. |
@@ -155,17 +155,17 @@
 | 147 | 520 | Zippy Block |
 | 148 | 518 | Carly Alexis |
 | 149 | 516 | Trish |
-| 150 | 514 | Lucas J Sutton |
-| 151 | 514 | Scott Jameson |
+| 150 | 514 | Scott Jameson |
+| 151 | 514 | Lucas J Sutton |
 | 152 | 513 | Erin Thomas |
-| 153 | 512 | ThaEviLJeNiuZ |
-| 154 | 512 | Angela Srubar-Norman |
+| 153 | 512 | Angela Srubar-Norman |
+| 154 | 512 | ThaEviLJeNiuZ |
 | 155 | 512 | Casey Jeffcoat |
 | 156 | 508 | Twisty Clicky |
 | 157 | 502 | Ellen Durfee |
 | 158 | 499 | Ericca Eldridge |
-| 159 | 498 | Melissa Adams |
-| 160 | 498 | Nope Young |
+| 159 | 498 | Nope Young |
+| 160 | 498 | Melissa Adams |
 | 161 | 496 | Jessica Lynn Cutlip |
 | 162 | 491 | Carrie Brian |
 | 163 | 491 | Jade Rian |
@@ -376,18 +376,18 @@
 | 368 | 248 | Jose Dejesus |
 | 369 | 246 | giantslover514 |
 | 370 | 245 | Jen Mattei |
-| 371 | 244 | Elizabeth Tinoco |
-| 372 | 244 | Perky Piecegrid |
+| 371 | 244 | Perky Piecegrid |
+| 372 | 244 | Elizabeth Tinoco |
 | 373 | 243 | Val Erie |
 | 374 | 242 | PurpleMoonMa |
 | 375 | 240 | Perky Patternblock |
 | 376 | 240 | Zany Shatterer |
 | 377 | 240 | Tyler Bechtel |
 | 378 | 239 | Denise B |
-| 379 | 239 | Laura Hosford |
-| 380 | 239 | Kevin Bush |
-| 381 | 238 | Jackie Marie |
-| 382 | 238 | 中山成巳 |
+| 379 | 239 | Kevin Bush |
+| 380 | 239 | Laura Hosford |
+| 381 | 238 | 中山成巳 |
+| 382 | 238 | Jackie Marie |
 | 383 | 237 | Jewell Urban |
 | 384 | 236 | The Murphy |
 | 385 | 235 | Shainne Brewer |
@@ -401,8 +401,8 @@
 | 393 | 232 | Sallie Sanborn |
 | 394 | 230 | Chantilly Laace |
 | 395 | 228 | Bethany Ison |
-| 396 | 227 | Maria Hammie |
-| 397 | 227 | Asher |
+| 396 | 227 | Asher |
+| 397 | 227 | Maria Hammie |
 | 398 | 225 | Jennifer Renee |
 | 399 | 224 | Ultramarine |
 | 400 | 224 | Shiny Pivoty |
@@ -721,10 +721,10 @@
 | 713 | 120 | Christina O'Dell-Ishau |
 | 714 | 120 | Timothy Allen |
 | 715 | 120 | Kametsunoyaiba |
-| 716 | 119 | JoJo |
-| 717 | 119 | George Tzouganos |
+| 716 | 119 | George Tzouganos |
+| 717 | 119 | JoJo |
 | 718 | 119 | Calen Torez |
-| 719 | 119 | Beenbreto |
+| 719 | 119 | Kourtney Barnes |
 | 720 | 119 | River Shady Sr. |
 | 721 | 119 | Beenbreto |
 | 722 | 118 | Jennifer Dineen |
