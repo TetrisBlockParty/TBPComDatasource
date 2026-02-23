@@ -323,8 +323,8 @@
 | 315 | 268 | Shukee Lo |
 | 316 | 268 | Chance Strickland |
 | 317 | 267 | Metsfan |
-| 318 | 266 | Deb Rubeck |
-| 319 | 266 | Chummy Towerzone |
+| 318 | 266 | Chummy Towerzone |
+| 319 | 266 | Deb Rubeck |
 | 320 | 266 | Tracey Lehmann |
 | 321 | 266 | Happy Combo |
 | 322 | 265 | Sarah Neathery |
@@ -335,8 +335,8 @@
 | 327 | 262 | BigSammy420 |
 | 328 | 262 | Selena Shaw |
 | 329 | 261 | Zethra Prenisha Rahming |
-| 330 | 260 | Angelito |
-| 331 | 260 | Carter Jones |
+| 330 | 260 | Carter Jones |
+| 331 | 260 | Angelito |
 | 332 | 259 | Allen Lloyd |
 | 333 | 259 | Montiette Mcglown |
 | 334 | 258 | DQ Martin |
@@ -362,17 +362,17 @@
 | 354 | 244 | Jen Mattei |
 | 355 | 244 | Perky Piecegrid |
 | 356 | 243 | Chair |
-| 357 | 242 | Chaz |
-| 358 | 242 | PurpleMoonMa |
+| 357 | 242 | PurpleMoonMa |
+| 358 | 242 | Chaz |
 | 359 | 240 | Zany Shatterer |
 | 360 | 240 | Tyler Bechtel |
 | 361 | 240 | Perky Patternblock |
 | 362 | 240 | Deanna Deckard |
-| 363 | 239 | Laura Hosford |
-| 364 | 239 | AyeKay |
+| 363 | 239 | AyeKay |
+| 364 | 239 | Laura Hosford |
 | 365 | 239 | Denise B |
-| 366 | 238 | 中山成巳 |
-| 367 | 238 | Jackie Marie |
+| 366 | 238 | Jackie Marie |
+| 367 | 238 | 中山成巳 |
 | 368 | 237 | Jewell Urban |
 | 369 | 235 | LaDonna LovinmesomeMe Lambert |
 | 370 | 235 | Shainne Brewer |

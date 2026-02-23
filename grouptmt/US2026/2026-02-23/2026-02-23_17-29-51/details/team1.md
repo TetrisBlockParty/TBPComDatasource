@@ -87,14 +87,14 @@
 | 79 | 742 | Susanna Guerry |
 | 80 | 741 | Nancy Green |
 | 81 | 740 | Lori Sanders- Davis |
-| 82 | 713 | Robert Benito |
-| 83 | 713 | Snappy Swiper |
+| 82 | 713 | Snappy Swiper |
+| 83 | 713 | Robert Benito |
 | 84 | 710 | Jennifer ManWarren |
 | 85 | 706 | Denice Dee |
 | 86 | 706 | Plucky Fallzone |
 | 87 | 704 | Karin Gillen |
-| 88 | 703 | Kellie |
-| 89 | 703 | Angel Fowler |
+| 88 | 703 | Angel Fowler |
+| 89 | 703 | Kellie |
 | 90 | 700 | Jason Jones |
 | 91 | 699 | Amanda Johnson Huffman |
 | 92 | 689 | Lexuriuos Lifestlye |
@@ -215,11 +215,11 @@
 | 207 | 371 | David Lutcher |
 | 208 | 369 | Angela Renea Lester |
 | 209 | 366 | J.F. Fields |
-| 210 | 365 | Jen Nystrom |
+| 210 | 365 | Amanda Holibaugh |
 | 211 | 365 | Shannon Marie Pitts |
-| 212 | 365 | Amanda Holibaugh |
-| 213 | 364 | Shauna Loe |
-| 214 | 364 | Serina Marie |
+| 212 | 365 | Jen Nystrom |
+| 213 | 364 | Serina Marie |
+| 214 | 364 | Shauna Loe |
 | 215 | 362 | Gracie |
 | 216 | 360 | Lakeisha Chapman |
 | 217 | 360 | MIKOZ |

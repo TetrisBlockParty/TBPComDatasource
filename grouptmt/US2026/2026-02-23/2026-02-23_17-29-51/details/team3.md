@@ -124,8 +124,8 @@
 | 116 | 896 | Jesse Olive |
 | 117 | 878 | Shane Wilson Jr. |
 | 118 | 874 | Jessica Pineda-Lopez |
-| 119 | 868 | Felicia Rocha |
-| 120 | 868 | Sarajane Lokan |
+| 119 | 868 | Sarajane Lokan |
+| 120 | 868 | Felicia Rocha |
 | 121 | 864 | Sunny Rotater |
 | 122 | 856 | Kristie |
 | 123 | 848 | Patricia Gadsden |
@@ -357,8 +357,8 @@
 | 349 | 351 | Eon Harris |
 | 350 | 349 | Skippy |
 | 351 | 349 | Num1hater |
-| 352 | 348 | Kelly Wolf |
-| 353 | 348 | Ashley Raines |
+| 352 | 348 | Ashley Raines |
+| 353 | 348 | Kelly Wolf |
 | 354 | 346 | AlsoJess |
 | 355 | 345 | gremicx |
 | 356 | 345 | victory |
@@ -369,8 +369,8 @@
 | 361 | 342 | ROODBOY |
 | 362 | 341 | Rick Poppen |
 | 363 | 341 | Lys |
-| 364 | 340 | Kirhonda Autmon |
-| 365 | 340 | Erika Thornton |
+| 364 | 340 | Erika Thornton |
+| 365 | 340 | Kirhonda Autmon |
 | 366 | 337 | Michelle Allers |
 | 367 | 333 | 4girls |
 | 368 | 333 | Geoffrey Nash |
@@ -400,8 +400,8 @@
 | 392 | 320 | Taylor Hood |
 | 393 | 320 | Or Reznitsky |
 | 394 | 318 | Christy Quick |
-| 395 | 316 | Travis W |
-| 396 | 316 | Swanky Snapclear |
+| 395 | 316 | Swanky Snapclear |
+| 396 | 316 | Travis W |
 | 397 | 315 | Funky Jumper |
 | 398 | 314 | Tipsy Zonebuilder |
 | 399 | 313 | Hoppy Buildout |
@@ -413,8 +413,8 @@
 | 405 | 308 | Tia |
 | 406 | 308 | Beejangles |
 | 407 | 307 | TotoCherue |
-| 408 | 307 | Kristian Thurman |
-| 409 | 307 | Kristina Gardner |
+| 408 | 307 | Kristina Gardner |
+| 409 | 307 | Kristian Thurman |
 | 410 | 306 | Jackie Miller |
 | 411 | 305 | Jack Bo |
 | 412 | 304 | _melisa223_ |
@@ -438,8 +438,8 @@
 | 430 | 293 | Loopy Fallzone |
 | 431 | 292 | Khaleada McGill Banks |
 | 432 | 292 | Arden White Kirsch |
-| 433 | 291 | Bryan Byrd |
-| 434 | 291 | Niki Dalrymple |
+| 433 | 291 | Niki Dalrymple |
+| 434 | 291 | Bryan Byrd |
 | 435 | 290 | Kellie Montgomery |
 | 436 | 290 | Breezy Roll |
 | 437 | 290 | Tegan Chapman |
