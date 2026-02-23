@@ -235,8 +235,8 @@
 | 227 | 409 | Antony Dwayne Beasley |
 | 228 | 403 | TinyLegoRose |
 | 229 | 400 | Brickh4us |
-| 230 | 399 | Jeff Brian Gates |
-| 231 | 399 | Lindsay Ball |
+| 230 | 399 | Lindsay Ball |
+| 231 | 399 | Jeff Brian Gates |
 | 232 | 398 | Tyler Terrific |
 | 233 | 395 | 030Synner |
 | 234 | 394 | Nita Wells |
@@ -263,8 +263,8 @@
 | 255 | 369 | Rafael Valentin |
 | 256 | 368 | Kris Bartlett |
 | 257 | 367 | Meg |
-| 258 | 366 | Cheery Risebuilder |
-| 259 | 366 | Andrew Dang |
+| 258 | 366 | Andrew Dang |
+| 259 | 366 | Cheery Risebuilder |
 | 260 | 365 | Hyper Builder |
 | 261 | 363 | KimoKoala |
 | 262 | 361 | Danielle Kollias |

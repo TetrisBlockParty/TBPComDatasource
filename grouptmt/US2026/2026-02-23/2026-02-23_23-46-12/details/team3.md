@@ -137,8 +137,8 @@
 | 129 | 945 | Shonna Roberts |
 | 130 | 940 | Stephanie Allmon |
 | 131 | 939 | Jamie Lang |
-| 132 | 936 | Giddy Drop |
-| 133 | 936 | Dolores Falco |
+| 132 | 936 | Dolores Falco |
+| 133 | 936 | Giddy Drop |
 | 134 | 932 | Katrina Schroeder |
 | 135 | 931 | Michelle |
 | 136 | 930 | Bea Miles |
@@ -256,8 +256,8 @@
 | 248 | 541 | Sherry Ogden |
 | 249 | 540 | France Vézina |
 | 250 | 540 | Danielle Allison |
-| 251 | 539 | Aerian Preston |
-| 252 | 539 | Betty Bóò |
+| 251 | 539 | Betty Bóò |
+| 252 | 539 | Aerian Preston |
 | 253 | 537 | Tamara Deherrera |
 | 254 | 536 | Shannon Matthew Byers |
 | 255 | 535 | kacihall |
@@ -268,8 +268,8 @@
 | 260 | 520 | Cozy Snaplink |
 | 261 | 519 | Nichol Graham |
 | 262 | 516 | Daring Brickzone |
-| 263 | 513 | Giggy Glidepiece |
-| 264 | 513 | PrncssPJ |
+| 263 | 513 | PrncssPJ |
+| 264 | 513 | Giggy Glidepiece |
 | 265 | 513 | Lizabeth Fox |
 | 266 | 510 | Marquita Sheard |
 | 267 | 508 | joz |
@@ -297,8 +297,8 @@
 | 289 | 476 | Shunta Jacobs |
 | 290 | 475 | Tasha Wesson-Torrence |
 | 291 | 474 | Tiffanie Alley |
-| 292 | 471 | Mendoza Lee Christy |
-| 293 | 471 | Alexmac |
+| 292 | 471 | Alexmac |
+| 293 | 471 | Mendoza Lee Christy |
 | 294 | 470 | thekey |
 | 295 | 468 | Betty Rosas |
 | 296 | 468 | Sarah Moyer |
@@ -404,8 +404,8 @@
 | 396 | 352 | xsiv |
 | 397 | 352 | LadyTorad |
 | 398 | 351 | Eon Harris |
-| 399 | 350 | angieelyn |
-| 400 | 350 | Linda Draper |
+| 399 | 350 | Linda Draper |
+| 400 | 350 | angieelyn |
 | 401 | 349 | Donna |
 | 402 | 348 | Jimmie Clemons |
 | 403 | 348 | Ashley Raines |
