@@ -59,8 +59,8 @@
 | 51 | 1147 | Jae Job |
 | 52 | 1105 | Ashley Ingram |
 | 53 | 1085 | Kimyatta Cavin |
-| 54 | 1082 | Dawn Alexander |
-| 55 | 1082 | Avy Absol |
+| 54 | 1082 | Avy Absol |
+| 55 | 1082 | Dawn Alexander |
 | 56 | 1082 | Dion Crommarty |
 | 57 | 1065 | Dustee Craddock-Harrison |
 | 58 | 1049 | Heather Tushner |
@@ -299,8 +299,8 @@
 | 291 | 305 | Sassy Pattern |
 | 292 | 304 | Shiny Fit |
 | 293 | 301 | Erin Sabol |
-| 294 | 300 | Dana Scott |
-| 295 | 300 | Kate |
+| 294 | 300 | Kate |
+| 295 | 300 | Dana Scott |
 | 296 | 298 | Chance Strickland |
 | 297 | 297 | Kenna Gunderland |
 | 298 | 297 | Kim Klutz Olson |
@@ -309,9 +309,9 @@
 | 301 | 295 | Cool Gridzone |
 | 302 | 295 | Blessedmama |
 | 303 | 293 | DonMega |
-| 304 | 292 | Epic Curvetile |
-| 305 | 292 | Tracey Lehmann |
-| 306 | 292 | Angel Raya |
+| 304 | 292 | Tracey Lehmann |
+| 305 | 292 | Angel Raya |
+| 306 | 292 | Epic Curvetile |
 | 307 | 291 | Dizzy Matchzone |
 | 308 | 291 | ZeeZee |
 | 309 | 291 | Brittney Orengo |

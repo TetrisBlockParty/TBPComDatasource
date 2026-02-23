@@ -156,8 +156,8 @@
 | 148 | 1960 | Aimee Campbell |
 | 149 | 1959 | Robin Kerby |
 | 150 | 1936 | Angi Harrison |
-| 151 | 1932 | Gary Schaffner Jr. |
-| 152 | 1932 | Angela Lynn |
+| 151 | 1932 | Angela Lynn |
+| 152 | 1932 | Gary Schaffner Jr. |
 | 153 | 1912 | Tonya Brooks-Johnson |
 | 154 | 1904 | Goofy Snapfit |
 | 155 | 1899 | Jumpy Gridpiece |
@@ -429,8 +429,8 @@
 | 421 | 907 | Gene Mills |
 | 422 | 905 | Adam Simmons |
 | 423 | 903 | Ashle Scranton |
-| 424 | 903 | Sarah DeHart |
-| 425 | 903 | Eric Castaneda |
+| 424 | 903 | Eric Castaneda |
+| 425 | 903 | Sarah DeHart |
 | 426 | 902 | Felicia Lynn |
 | 427 | 899 | Patrick Bartlett |
 | 428 | 899 | Chevy |
@@ -678,8 +678,8 @@
 | 670 | 630 | Cecilia A Jenkins |
 | 671 | 629 | Mia Muse Best |
 | 672 | 628 | Brownie Sheena |
-| 673 | 628 | Ronald Higgins |
-| 674 | 628 | Christina Ashley |
+| 673 | 628 | Christina Ashley |
+| 674 | 628 | Ronald Higgins |
 | 675 | 626 | Autumn Schaeffer |
 | 676 | 626 | Toni Whipple |
 | 677 | 626 | Chab |

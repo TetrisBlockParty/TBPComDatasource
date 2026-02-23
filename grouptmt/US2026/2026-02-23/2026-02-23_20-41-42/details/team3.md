@@ -108,8 +108,8 @@
 | 100 | 1101 | Stephanie Rice |
 | 101 | 1097 | JerseyJess |
 | 102 | 1093 | Angela M. Fletcher |
-| 103 | 1056 | Ebony West-Cundiff |
-| 104 | 1056 | joclisa |
+| 103 | 1056 | joclisa |
+| 104 | 1056 | Ebony West-Cundiff |
 | 105 | 1050 | Sherika C. McDaniels |
 | 106 | 1041 | Patricia Gadsden |
 | 107 | 1038 | Mandy Smith Oldham |
@@ -277,8 +277,8 @@
 | 269 | 473 | Rebecca Funderburk Kirby |
 | 270 | 471 | Mendoza Lee Christy |
 | 271 | 471 | Gray Hicks |
-| 272 | 464 | Noyb Adam |
-| 273 | 464 | Danielle Weikel |
+| 272 | 464 | Danielle Weikel |
+| 273 | 464 | Noyb Adam |
 | 274 | 462 | Sleepy |
 | 275 | 462 | Marquita Sheard |
 | 276 | 461 | Tom Nault |
@@ -393,8 +393,8 @@
 | 385 | 340 | Erika Thornton |
 | 386 | 339 | Heather Bateman |
 | 387 | 339 | Michael Lucado |
-| 388 | 337 | Michelle Allers |
-| 389 | 337 | AC Yeater |
+| 388 | 337 | AC Yeater |
+| 389 | 337 | Michelle Allers |
 | 390 | 335 | Maggie |
 | 391 | 333 | Nikki White |
 | 392 | 333 | Antonia Russell |

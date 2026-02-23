@@ -218,16 +218,16 @@
 | 210 | 384 | Tami Luce Martin |
 | 211 | 383 | pjbeta |
 | 212 | 383 | Margo Wagner |
-| 213 | 380 | Bindi |
-| 214 | 380 | David Lutcher |
-| 215 | 379 | Daring Fitclear |
-| 216 | 379 | Austin James |
+| 213 | 380 | David Lutcher |
+| 214 | 380 | Bindi |
+| 215 | 379 | Austin James |
+| 216 | 379 | Daring Fitclear |
 | 217 | 378 | Angela Renea Lester |
-| 218 | 377 | Howdi Duty |
-| 219 | 377 | Νεφ Όνυξ |
+| 218 | 377 | Νεφ Όνυξ |
+| 219 | 377 | Howdi Duty |
 | 220 | 376 | Sassy Builderline |
-| 221 | 376 | Snippy Wipebuilder |
-| 222 | 376 | Brian Richardsson |
+| 221 | 376 | Brian Richardsson |
+| 222 | 376 | Snippy Wipebuilder |
 | 223 | 375 | Jen Nystrom |
 | 224 | 374 | Jennifer Noe Chandler |
 | 225 | 372 | Dizzy Party |
@@ -263,8 +263,8 @@
 | 255 | 340 | Robert |
 | 256 | 340 | Danielle Little-Daugherty |
 | 257 | 338 | Layzietyme |
-| 258 | 337 | Lindsay Glover |
-| 259 | 337 | Jamise Brown |
+| 258 | 337 | Jamise Brown |
+| 259 | 337 | Lindsay Glover |
 | 260 | 336 | Adele Rahman |
 | 261 | 335 | Eric DeSimone |
 | 262 | 334 | Colleen Pinette |
