@@ -297,8 +297,8 @@
 | 289 | 247 | DaRascal |
 | 290 | 245 | Matt Iaccheo |
 | 291 | 245 | LaFontaine Leslie |
-| 292 | 244 | Tami Luce Martin |
-| 293 | 244 | Sarah Marie |
+| 292 | 244 | Sarah Marie |
+| 293 | 244 | Tami Luce Martin |
 | 294 | 244 | Eddie Dillon |
 | 295 | 243 | Glitzy Buildsnap |
 | 296 | 243 | Bouncy Grid |

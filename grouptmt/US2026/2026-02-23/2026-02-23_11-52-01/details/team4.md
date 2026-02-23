@@ -127,8 +127,8 @@
 | 119 | 527 | Dizzy Tiley |
 | 120 | 521 | Andy Cabral |
 | 121 | 517 | shar |
-| 122 | 514 | Scott Jameson |
-| 123 | 514 | Serena Goodridge |
+| 122 | 514 | Serena Goodridge |
+| 123 | 514 | Scott Jameson |
 | 124 | 513 | Erin Thomas |
 | 125 | 512 | Casey Jeffcoat |
 | 126 | 512 | Cristy Duerksen |
@@ -163,8 +163,8 @@
 | 155 | 417 | Amanda Pauldo-Ivy |
 | 156 | 417 | Steph Marie |
 | 157 | 416 | Chaz Duncan |
-| 158 | 414 | Nope Young |
-| 159 | 414 | Swanky Fitline |
+| 158 | 414 | Swanky Fitline |
+| 159 | 414 | Nope Young |
 | 160 | 413 | Circuit8 |
 | 161 | 412 | Jessica Bohlken |
 | 162 | 406 | Damn Libra |
@@ -222,25 +222,25 @@
 | 214 | 317 | Madison Sweere |
 | 215 | 316 | Autumn Kumzi |
 | 216 | 313 | Milan Markeisha |
-| 217 | 312 | Casey Grabner |
-| 218 | 312 | Dihcheese444 |
-| 219 | 311 | Nikki Rae Gordon |
-| 220 | 311 | Mary Ann Pabukis |
+| 217 | 312 | Dihcheese444 |
+| 218 | 312 | Casey Grabner |
+| 219 | 311 | Mary Ann Pabukis |
+| 220 | 311 | Nikki Rae Gordon |
 | 221 | 310 | Holly Jolly |
 | 222 | 307 | Cheery Risebuilder |
 | 223 | 307 | Michele Plunkett |
 | 224 | 306 | mike |
 | 225 | 305 | Melvin Baird |
-| 226 | 304 | Gdiguy |
-| 227 | 304 | Lindsay Ball |
+| 226 | 304 | Lindsay Ball |
+| 227 | 304 | Gdiguy |
 | 228 | 301 | Andria Lynn |
 | 229 | 300 | Dana Scott |
 | 230 | 295 | Keshia Lyons |
 | 231 | 294 | Calvin Cannon |
 | 232 | 292 | Epic Curvetile |
 | 233 | 291 | Mimi |
-| 234 | 290 | Plucky Patternblock |
-| 235 | 290 | Rebecca Morris |
+| 234 | 290 | Rebecca Morris |
+| 235 | 290 | Plucky Patternblock |
 | 236 | 290 | Jared Gutwein |
 | 237 | 289 | Juls |
 | 238 | 288 | Leah Kutz Zirbel |

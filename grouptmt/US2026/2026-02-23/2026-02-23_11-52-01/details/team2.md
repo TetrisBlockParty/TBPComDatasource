@@ -585,8 +585,8 @@
 | 577 | 614 | Emilee Burke |
 | 578 | 614 | Jessica S Flecha |
 | 579 | 613 | Audrey Jones |
-| 580 | 612 | Briana Alexander |
-| 581 | 612 | Slinky Racker |
+| 580 | 612 | Slinky Racker |
+| 581 | 612 | Briana Alexander |
 | 582 | 611 | Autumn Schaeffer |
 | 583 | 610 | Michael Buckner |
 | 584 | 609 | Cecilia A Jenkins |
@@ -645,8 +645,8 @@
 | 637 | 570 | Boldy Wiper |
 | 638 | 569 | Sparkles |
 | 639 | 566 | Lindsey Leigh |
-| 640 | 566 | Tina Marie |
-| 641 | 566 | SwampRebel |
+| 640 | 566 | SwampRebel |
+| 641 | 566 | Tina Marie |
 | 642 | 564 | Stacey Tranchida |
 | 643 | 563 | Nat |
 | 644 | 563 | Frisky Clearpiece |

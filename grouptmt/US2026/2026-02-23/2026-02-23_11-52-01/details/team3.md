@@ -134,8 +134,8 @@
 | 126 | 764 | Groovy Catcher |
 | 127 | 764 | Hasty Cascadefit |
 | 128 | 762 | Speedy Bridger |
-| 129 | 755 | Raya |
-| 130 | 755 | Katrina Schroeder |
+| 129 | 755 | Katrina Schroeder |
+| 130 | 755 | Raya |
 | 131 | 752 | Logan Naccarato |
 | 132 | 748 | Adrian Marcel Pate |
 | 133 | 745 | JerseyJess |
@@ -207,8 +207,8 @@
 | 199 | 525 | Stephanie Blkpep Davidson |
 | 200 | 524 | Bmo |
 | 201 | 521 | Shannon Matthew Byers |
-| 202 | 519 | rnr junky |
-| 203 | 519 | Terry Jo Jones |
+| 202 | 519 | Terry Jo Jones |
+| 203 | 519 | rnr junky |
 | 204 | 515 | Cozy Snaplink |
 | 205 | 513 | Lizabeth Fox |
 | 206 | 503 | Tye Stovall |
@@ -352,8 +352,8 @@
 | 344 | 311 | Troy |
 | 345 | 309 | Desiree Gold |
 | 346 | 309 | Cheeky Snapper |
-| 347 | 308 | Tia |
-| 348 | 308 | Katrina Turner |
+| 347 | 308 | Katrina Turner |
+| 348 | 308 | Tia |
 | 349 | 305 | Hyper Matchzone |
 | 350 | 304 | _melisa223_ |
 | 351 | 303 | Alexmac |
@@ -421,8 +421,8 @@
 | 413 | 266 | Sarah Muradyan |
 | 414 | 266 | Quirky Dropzone |
 | 415 | 265 | Heather Davis |
-| 416 | 265 | Ashley Lynn Marchese |
-| 417 | 265 | AlsoJess |
+| 416 | 265 | AlsoJess |
+| 417 | 265 | Ashley Lynn Marchese |
 | 418 | 264 | Reina Roth |
 | 419 | 264 | Danielle Beaunoyer Jean |
 | 420 | 261 | Swanky Snapclear |
@@ -481,8 +481,8 @@
 | 473 | 233 | Criss |
 | 474 | 233 | Anna Moeller |
 | 475 | 232 | Sunny Tiltgrid |
-| 476 | 232 | Stephanie Hill |
-| 477 | 232 | Melanie Sherwood |
+| 476 | 232 | Melanie Sherwood |
+| 477 | 232 | Stephanie Hill |
 | 478 | 231 | Giggly Brickroll |
 | 479 | 230 | DanceLuvLaugh |
 | 480 | 230 | BigE |
@@ -552,8 +552,8 @@
 | 544 | 205 | Jess Meyers |
 | 545 | 204 | Daisy Rocha |
 | 546 | 204 | Sassy Brickmatch |
-| 547 | 204 | Macaulay Logel |
-| 548 | 204 | Lesley Perez |
+| 547 | 204 | Lesley Perez |
+| 548 | 204 | Macaulay Logel |
 | 549 | 203 | Irene Arreguin |
 | 550 | 203 | Sdot |
 | 551 | 201 | Katrina E Jelks |
@@ -568,9 +568,9 @@
 | 560 | 199 | Cheeky Setter |
 | 561 | 199 | Frothy Racker |
 | 562 | 199 | Sunny Lift |
-| 563 | 198 | Zac Hudak |
-| 564 | 198 | Jodi Kaczynski-O'Dowd |
-| 565 | 198 | xsiv |
+| 563 | 198 | Jodi Kaczynski-O'Dowd |
+| 564 | 198 | xsiv |
+| 565 | 198 | Zac Hudak |
 | 566 | 198 | momo |
 | 567 | 197 | BabyTonj Evans |
 | 568 | 197 | Giggy Glidepiece |
