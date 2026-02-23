@@ -157,8 +157,8 @@
 | 149 | 571 | Nicole Myers |
 | 150 | 571 | Domo Washington |
 | 151 | 568 | Rachael McClain Owens |
-| 152 | 562 | Louise Stacy Sisson |
-| 153 | 562 | Dave Herzog |
+| 152 | 562 | Dave Herzog |
+| 153 | 562 | Louise Stacy Sisson |
 | 154 | 553 | LaTanya GeminiondaRise Johnson |
 | 155 | 549 | Peppy Shifter |
 | 156 | 546 | Cynthia Castros-Hampton |
@@ -204,8 +204,8 @@
 | 196 | 432 | Jenny Hrndz |
 | 197 | 432 | Christine Trester |
 | 198 | 431 | Wendy Dearden |
-| 199 | 430 | Jeni Dow |
-| 200 | 430 | Joye Sims Binion |
+| 199 | 430 | Joye Sims Binion |
+| 200 | 430 | Jeni Dow |
 | 201 | 426 | Rochelle Hazelett |
 | 202 | 423 | Tom Nault |
 | 203 | 422 | Fallorina Susana |
@@ -299,8 +299,8 @@
 | 291 | 299 | Angie Harper |
 | 292 | 299 | Ray Lader |
 | 293 | 298 | Grams |
-| 294 | 297 | kacihall |
-| 295 | 297 | Cheeky Snapper |
+| 294 | 297 | Cheeky Snapper |
+| 295 | 297 | kacihall |
 | 296 | 296 | Donna |
 | 297 | 294 | Betty Bóò |
 | 298 | 294 | fraulila |

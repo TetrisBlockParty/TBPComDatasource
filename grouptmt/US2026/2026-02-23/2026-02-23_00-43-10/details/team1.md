@@ -135,8 +135,8 @@
 | 127 | 391 | Lori Bales |
 | 128 | 390 | Goose egg |
 | 129 | 387 | Emily Adelaide Wheatley |
-| 130 | 386 | Ty Brown |
-| 131 | 386 | David Miller |
+| 130 | 386 | David Miller |
+| 131 | 386 | Ty Brown |
 | 132 | 383 | pjbeta |
 | 133 | 379 | Austin James |
 | 134 | 379 | Kimmie Kimms |
@@ -215,8 +215,8 @@
 | 207 | 269 | Amanda Jarnagin |
 | 208 | 268 | Reesey Enyart |
 | 209 | 268 | Erin Rosberg |
-| 210 | 267 | Debbie Kane |
-| 211 | 267 | Jen Nystrom |
+| 210 | 267 | Jen Nystrom |
+| 211 | 267 | Debbie Kane |
 | 212 | 265 | Kandae |
 | 213 | 264 | Jenny Gingrich Fuentes |
 | 214 | 263 | Jessie Lynn |
@@ -445,9 +445,9 @@
 | 437 | 143 | Jacob Shaddock |
 | 438 | 142 | Amanda Stevens |
 | 439 | 141 | Richard Corrado |
-| 440 | 140 | Nathan William |
-| 441 | 140 | Ashley Rodriguez |
-| 442 | 139 | Ramona Shaver |
+| 440 | 140 | Ashley Rodriguez |
+| 441 | 140 | Nathan William |
+| 442 | 139 | Funky Piecebuilder |
 | 443 | 139 | Aimee Horton |
 | 444 | 139 | Ramona Shaver |
 | 445 | 138 | Alyssa Ingram |
