@@ -77,8 +77,8 @@
 | 69 | 1264 | Amanda L Baker |
 | 70 | 1258 | Danielle Cutler |
 | 71 | 1256 | Jessica Bechler |
-| 72 | 1213 | Nerdy Riseclear |
-| 73 | 1213 | Snappy Glidepiece |
+| 72 | 1213 | Snappy Glidepiece |
+| 73 | 1213 | Nerdy Riseclear |
 | 74 | 1209 | Amanda Adkins |
 | 75 | 1186 | Christian A. Pollard |
 | 76 | 1162 | Gracie |
@@ -169,8 +169,8 @@
 | 161 | 634 | Amber Hughes |
 | 162 | 631 | Grego Daniel |
 | 163 | 630 | yoyo |
-| 164 | 621 | Cherry Parker |
-| 165 | 621 | Sashay Tapae Simpson |
+| 164 | 621 | Sashay Tapae Simpson |
+| 165 | 621 | Cherry Parker |
 | 166 | 616 | Kammy Hill |
 | 167 | 611 | Rochelle Hazelett |
 | 168 | 603 | Jone |

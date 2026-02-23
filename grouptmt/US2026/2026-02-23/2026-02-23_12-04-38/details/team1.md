@@ -85,8 +85,8 @@
 | 77 | 703 | Angel Fowler |
 | 78 | 689 | Susanna Guerry |
 | 79 | 679 | Hasbro Bros |
-| 80 | 657 | Tee Sheree |
-| 81 | 657 | Cynthia Bradley |
+| 80 | 657 | Cynthia Bradley |
+| 81 | 657 | Tee Sheree |
 | 82 | 655 | Brenda Stewart |
 | 83 | 648 | Evie Khalil |
 | 84 | 647 | Jason Jones |
@@ -103,11 +103,11 @@
 | 95 | 562 | Denice Dee |
 | 96 | 553 | And |
 | 97 | 535 | Susan Ward |
-| 98 | 534 | Veronica Eve |
-| 99 | 534 | Loony Fitzone |
+| 98 | 534 | Loony Fitzone |
+| 99 | 534 | Veronica Eve |
 | 100 | 529 | Ryan Lunnin |
-| 101 | 522 | Sarah Lombardo |
-| 102 | 522 | Tdub |
+| 101 | 522 | Tdub |
+| 102 | 522 | Sarah Lombardo |
 | 103 | 515 | Death |
 | 104 | 513 | Colena Davenport |
 | 105 | 511 | Mario Cab |
@@ -129,8 +129,8 @@
 | 121 | 467 | Candy Jones |
 | 122 | 463 | Lexuriuos Lifestlye |
 | 123 | 462 | Luciano Moreira |
-| 124 | 458 | Evan Richmond |
-| 125 | 458 | Goose egg |
+| 124 | 458 | Goose egg |
+| 125 | 458 | Evan Richmond |
 | 126 | 454 | Desiree Deschaine Havee |
 | 127 | 453 | Brandi Huntington |
 | 128 | 452 | Hyper |
@@ -147,8 +147,8 @@
 | 139 | 429 | Kristi Johnson |
 | 140 | 428 | Ly Phethmany |
 | 141 | 426 | Maria C. Hernandez |
-| 142 | 425 | Dandy Basegrid |
-| 143 | 425 | Tyler Werts |
+| 142 | 425 | Tyler Werts |
+| 143 | 425 | Dandy Basegrid |
 | 144 | 423 | ALFD |
 | 145 | 422 | Constance Risner |
 | 146 | 417 | Phu ckalldems |

@@ -226,8 +226,8 @@
 | 218 | 1277 | Snappy Matchbuilder |
 | 219 | 1259 | Foxxo |
 | 220 | 1252 | Angel |
-| 221 | 1245 | Missie Lawson Gebhardt |
-| 222 | 1245 | Cody Nishimura |
+| 221 | 1245 | Cody Nishimura |
+| 222 | 1245 | Missie Lawson Gebhardt |
 | 223 | 1240 | Brandon Armstrong |
 | 224 | 1238 | Groovy Puzzle |
 | 225 | 1237 | Megan Ferguson Leone |
@@ -478,8 +478,8 @@
 | 470 | 726 | Joce Lynn |
 | 471 | 726 | Crystal Greene |
 | 472 | 725 | Vonceial Boone |
-| 473 | 725 | Ashle Scranton |
-| 474 | 725 | Karen Snyder Schrage |
+| 473 | 725 | Karen Snyder Schrage |
+| 474 | 725 | Ashle Scranton |
 | 475 | 724 | Melissa Holsinger |
 | 476 | 721 | Darla Silva |
 | 477 | 720 | Giggy Mover |
