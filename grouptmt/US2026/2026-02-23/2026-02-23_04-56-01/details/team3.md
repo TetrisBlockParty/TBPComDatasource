@@ -166,8 +166,8 @@
 | 158 | 591 | Michael Nowogorski |
 | 159 | 588 | Justin Ritter |
 | 160 | 587 | Louise Stacy Sisson |
-| 161 | 585 | Annie Marie |
-| 162 | 585 | Happy Tetriblast |
+| 161 | 585 | Happy Tetriblast |
+| 162 | 585 | Annie Marie |
 | 163 | 582 | Natasha Jones |
 | 164 | 579 | Tasha Gillespie |
 | 165 | 577 | Domo Washington |
@@ -184,8 +184,8 @@
 | 176 | 541 | Tasha Schriewer |
 | 177 | 540 | Shawn Miller |
 | 178 | 535 | Jone |
-| 179 | 531 | Sarah Cowan Burgos |
-| 180 | 531 | Chauntee Alfrey-Cardinale |
+| 179 | 531 | Chauntee Alfrey-Cardinale |
+| 180 | 531 | Sarah Cowan Burgos |
 | 181 | 528 | Silly Twist |
 | 182 | 524 | Bmo |
 | 183 | 519 | rnr junky |
@@ -198,13 +198,13 @@
 | 190 | 496 | Makelini Mausia |
 | 191 | 496 | Loopy Fallmatch |
 | 192 | 494 | FuzzyNavel |
-| 193 | 489 | Terry Jo Jones |
-| 194 | 489 | Shannon Matthew Byers |
-| 195 | 489 | Poppy Splitter |
+| 193 | 489 | Poppy Splitter |
+| 194 | 489 | Terry Jo Jones |
+| 195 | 489 | Shannon Matthew Byers |
 | 196 | 488 | Melissa Orth Hunter |
 | 197 | 485 | Dapper Snap |
-| 198 | 480 | Michael Johnson |
-| 199 | 480 | Danielle Allison |
+| 198 | 480 | Danielle Allison |
+| 199 | 480 | Michael Johnson |
 | 200 | 475 | Tessina Dewey-Mancino |
 | 201 | 473 | Rachel |
 | 202 | 473 | Christine Trester |
@@ -235,8 +235,8 @@
 | 227 | 408 | Tiffany Ford |
 | 228 | 406 | Kristal C Lee |
 | 229 | 404 | Chasity |
-| 230 | 403 | Scott Lindsay |
-| 231 | 403 | Denita Mungro |
+| 230 | 403 | Denita Mungro |
+| 231 | 403 | Scott Lindsay |
 | 232 | 399 | Rebecca Funderburk Kirby |
 | 233 | 391 | Nicole Flippo |
 | 234 | 391 | Marci Mize Fandrich |
@@ -361,8 +361,8 @@
 | 353 | 276 | Karent524 |
 | 354 | 276 | Ivan Del Toro |
 | 355 | 275 | Cassandra Bryant |
-| 356 | 275 | Nikki Pags |
-| 357 | 275 | Michael Lucado |
+| 356 | 275 | Michael Lucado |
+| 357 | 275 | Nikki Pags |
 | 358 | 274 | Mary Giorgenti |
 | 359 | 273 | France Vézina |
 | 360 | 273 | Brenda Schmid Wood |

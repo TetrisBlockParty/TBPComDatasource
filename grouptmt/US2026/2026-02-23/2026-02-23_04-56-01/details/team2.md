@@ -44,8 +44,8 @@
 | 36 | 4199 | Claire Noland |
 | 37 | 4128 | Angela Pruitt |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Corrine Hawks Soriano |
-| 40 | 4120 | Kristen Sceurman |
+| 39 | 4120 | Kristen Sceurman |
+| 40 | 4120 | Corrine Hawks Soriano |
 | 41 | 3778 | Brittany Alicia |
 | 42 | 3736 | Alisha |
 | 43 | 3723 | Sam Smith |
@@ -522,8 +522,8 @@
 | 514 | 621 | Taren Cowan |
 | 515 | 620 | Brenna Ann |
 | 516 | 618 | Vanessa Moreno |
-| 517 | 617 | Darcy Mae |
-| 518 | 617 | Kacee Conrad Bock |
+| 517 | 617 | Kacee Conrad Bock |
+| 518 | 617 | Darcy Mae |
 | 519 | 616 | Lylymom |
 | 520 | 615 | Lyndi Robinson Wakefield |
 | 521 | 615 | Julio A Laracuente |
@@ -534,14 +534,14 @@
 | 526 | 612 | Briana Alexander |
 | 527 | 612 | Slinky Racker |
 | 528 | 610 | Michael Buckner |
-| 529 | 609 | Autumn Schaeffer |
-| 530 | 609 | Cecilia A Jenkins |
+| 529 | 609 | Cecilia A Jenkins |
+| 530 | 609 | Autumn Schaeffer |
 | 531 | 607 | Mo Shine On |
 | 532 | 606 | Lea Stewart |
 | 533 | 603 | Casper The Chonk |
 | 534 | 602 | KhaosLord |
-| 535 | 601 | Daniel Amos |
-| 536 | 601 | Moua Ying |
+| 535 | 601 | Moua Ying |
+| 536 | 601 | Daniel Amos |
 | 537 | 598 | Victoria Regina Girolami |
 | 538 | 598 | Arwa Fatimah |
 | 539 | 598 | Leah Keesling |

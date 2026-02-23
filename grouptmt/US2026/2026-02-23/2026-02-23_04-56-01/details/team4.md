@@ -57,8 +57,8 @@
 | 49 | 863 | Pee |
 | 50 | 855 | Marvin Lou Martin |
 | 51 | 853 | TeeJ |
-| 52 | 846 | Lucille Truesdale |
-| 53 | 846 | Christine Marie |
+| 52 | 846 | Christine Marie |
+| 53 | 846 | Lucille Truesdale |
 | 54 | 845 | LisaJo Picken Buchanan |
 | 55 | 843 | Shelly Chandler |
 | 56 | 841 | Anthony Bryan Riva |
@@ -71,8 +71,8 @@
 | 63 | 776 | Rachel Anne |
 | 64 | 773 | Ashley Ingram |
 | 65 | 767 | Shannon Ferrari |
-| 66 | 766 | Edward White |
-| 67 | 766 | Robin Watters |
+| 66 | 766 | Robin Watters |
+| 67 | 766 | Edward White |
 | 68 | 765 | Robin Getchel |
 | 69 | 765 | Denise Carlson |
 | 70 | 752 | loulou |
@@ -117,10 +117,10 @@
 | 109 | 528 | Rodney McMath Jr. |
 | 110 | 527 | Dizzy Tiley |
 | 111 | 519 | Nugget |
-| 112 | 517 | Christina LR |
-| 113 | 517 | shar |
-| 114 | 514 | Scott Jameson |
-| 115 | 514 | Serena Goodridge |
+| 112 | 517 | shar |
+| 113 | 517 | Christina LR |
+| 114 | 514 | Serena Goodridge |
+| 115 | 514 | Scott Jameson |
 | 116 | 513 | Erin Thomas |
 | 117 | 512 | Casey Jeffcoat |
 | 118 | 512 | Cristy Duerksen |
@@ -139,8 +139,8 @@
 | 131 | 435 | Kristina Black |
 | 132 | 431 | Courtney Cicoria |
 | 133 | 425 | Monica Daley |
-| 134 | 421 | Kesha Brady |
-| 135 | 421 | JIGsaw ~(•¿°)~ |
+| 134 | 421 | JIGsaw ~(•¿°)~ |
+| 135 | 421 | Kesha Brady |
 | 136 | 419 | Klo |
 | 137 | 418 | Marie-Pier Desjardins |
 | 138 | 418 | Lush Linkfall |
@@ -230,15 +230,15 @@
 | 222 | 281 | Laura |
 | 223 | 278 | Angela Geist Jusinski |
 | 224 | 278 | Sarah Brown |
-| 225 | 276 | Matt Dell'Olio |
-| 226 | 276 | Joeliecea Cobb |
+| 225 | 276 | Joeliecea Cobb |
+| 226 | 276 | Matt Dell'Olio |
 | 227 | 273 | Casey Grabner |
 | 228 | 272 | Dennis Bradley |
 | 229 | 272 | Alan George LaRage |
 | 230 | 272 | Carlos Ramirez |
 | 231 | 271 | Holly |
-| 232 | 270 | Jen Caldwell |
-| 233 | 270 | Juls |
+| 232 | 270 | Juls |
+| 233 | 270 | Jen Caldwell |
 | 234 | 267 | JPW |
 | 235 | 266 | Mr. Party |
 | 236 | 265 | Silly SeaWeed |
