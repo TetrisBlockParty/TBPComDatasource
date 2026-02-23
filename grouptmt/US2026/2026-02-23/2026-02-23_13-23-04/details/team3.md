@@ -28,8 +28,8 @@
 | 20 | 2769 | Ray Lader |
 | 21 | 2697 | River |
 | 22 | 2387 | Susan Valentino |
-| 23 | 2353 | Tetris Master |
-| 24 | 2353 | Laura Melton |
+| 23 | 2353 | Laura Melton |
+| 24 | 2353 | Tetris Master |
 | 25 | 2319 | mjl574 |
 | 26 | 2311 | Brandon Green |
 | 27 | 2271 | Jeana Gilbert |
@@ -118,8 +118,8 @@
 | 110 | 869 | Araceli Parra |
 | 111 | 868 | Sarajane Lokan |
 | 112 | 860 | Sunny Rotater |
-| 113 | 851 | Danielle Becker |
-| 114 | 851 | Jd Morris |
+| 113 | 851 | Jd Morris |
+| 114 | 851 | Danielle Becker |
 | 115 | 850 | Danielle Mogg |
 | 116 | 848 | Patricia Gadsden |
 | 117 | 839 | Angeline Joseph |
@@ -133,8 +133,8 @@
 | 125 | 779 | Justin Ritter |
 | 126 | 774 | Keith J Oshman Jr. |
 | 127 | 773 | Daira Largen |
-| 128 | 764 | Hasty Cascadefit |
-| 129 | 764 | Groovy Catcher |
+| 128 | 764 | Groovy Catcher |
+| 129 | 764 | Hasty Cascadefit |
 | 130 | 762 | Speedy Bridger |
 | 131 | 755 | Katrina Schroeder |
 | 132 | 755 | Raya |
@@ -171,8 +171,8 @@
 | 163 | 631 | Grego Daniel |
 | 164 | 630 | yoyo |
 | 165 | 629 | rnr junky |
-| 166 | 621 | Sashay Tapae Simpson |
-| 167 | 621 | Cherry Parker |
+| 166 | 621 | Cherry Parker |
+| 167 | 621 | Sashay Tapae Simpson |
 | 168 | 616 | Kammy Hill |
 | 169 | 611 | Rochelle Hazelett |
 | 170 | 604 | Denita Mungro |
@@ -192,8 +192,8 @@
 | 184 | 574 | Morgan Martinez |
 | 185 | 568 | Rachael McClain Owens |
 | 186 | 566 | LaTanya GeminiondaRise Johnson |
-| 187 | 564 | Poppy Splitter |
-| 188 | 564 | Christine Trester |
+| 187 | 564 | Christine Trester |
+| 188 | 564 | Poppy Splitter |
 | 189 | 563 | Jim Mathews |
 | 190 | 562 | Dave Herzog |
 | 191 | 561 | Elissa S-k |
@@ -220,8 +220,8 @@
 | 212 | 502 | Snappy Balancer |
 | 213 | 498 | Melissa Orth Hunter |
 | 214 | 496 | Loopy Fallmatch |
-| 215 | 494 | Connie Mohler-Fair |
-| 216 | 494 | FuzzyNavel |
+| 215 | 494 | FuzzyNavel |
+| 216 | 494 | Connie Mohler-Fair |
 | 217 | 491 | Michael Johnson |
 | 218 | 488 | joz |
 | 219 | 485 | Dapper Snap |

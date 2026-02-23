@@ -44,8 +44,8 @@
 | 36 | 4301 | Mighty Patternzone |
 | 37 | 4199 | Claire Noland |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Kristen Sceurman |
-| 40 | 4120 | Corrine Hawks Soriano |
+| 39 | 4120 | Corrine Hawks Soriano |
+| 40 | 4120 | Kristen Sceurman |
 | 41 | 4086 | PandaMama |
 | 42 | 4006 | CoolKat |
 | 43 | 3960 | Brittany Alicia |
@@ -513,8 +513,8 @@
 | 505 | 697 | Isabelle Bonneau |
 | 506 | 697 | Poldo Ilano |
 | 507 | 693 | Ryan Stadel |
-| 508 | 692 | Bubbly Snapbuild |
-| 509 | 692 | Shaun Church |
+| 508 | 692 | Shaun Church |
+| 509 | 692 | Bubbly Snapbuild |
 | 510 | 691 | Arwa Fatimah |
 | 511 | 691 | Samuel Macon |
 | 512 | 689 | Gauri Shrotriya |
@@ -663,8 +663,8 @@
 | 655 | 566 | SwampRebel |
 | 656 | 566 | Tina Marie |
 | 657 | 564 | Stacey Tranchida |
-| 658 | 563 | Nat |
-| 659 | 563 | Frisky Clearpiece |
+| 658 | 563 | Frisky Clearpiece |
+| 659 | 563 | Nat |
 | 660 | 559 | Kelli Wells |
 | 661 | 559 | Alexx Anaya |
 | 662 | 558 | Lee Harper |

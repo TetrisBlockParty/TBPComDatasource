@@ -67,8 +67,8 @@
 | 59 | 915 | Spunky Piecebuilder |
 | 60 | 892 | Seth Wesson |
 | 61 | 874 | Kristen Roles Robben |
-| 62 | 850 | comrade fish |
-| 63 | 850 | Andrea Dañielle Ortiz |
+| 62 | 850 | Andrea Dañielle Ortiz |
+| 63 | 850 | comrade fish |
 | 64 | 845 | Drew Magnus |
 | 65 | 833 | TSwag |
 | 66 | 829 | Sevens4L |
@@ -117,8 +117,8 @@
 | 109 | 510 | Chirpy Smasher |
 | 110 | 509 | Rachael |
 | 111 | 502 | Anaid Sanchez |
-| 112 | 497 | Jennifer ManWarren |
-| 113 | 497 | Arianna O'Brien |
+| 112 | 497 | Arianna O'Brien |
+| 113 | 497 | Jennifer ManWarren |
 | 114 | 493 | MomMom |
 | 115 | 492 | Ash Galvan |
 | 116 | 491 | cc |
@@ -128,13 +128,13 @@
 | 120 | 477 | Tonya Beasley |
 | 121 | 475 | Sarah Somers Gray |
 | 122 | 471 | Hyper |
-| 123 | 467 | Candy Jones |
-| 124 | 467 | Constance Risner |
+| 123 | 467 | Constance Risner |
+| 124 | 467 | Candy Jones |
 | 125 | 466 | Adrian Esteban |
 | 126 | 463 | Lexuriuos Lifestlye |
 | 127 | 462 | Luciano Moreira |
-| 128 | 458 | Evan Richmond |
-| 129 | 458 | Goose egg |
+| 128 | 458 | Goose egg |
+| 129 | 458 | Evan Richmond |
 | 130 | 454 | Desiree Deschaine Havee |
 | 131 | 453 | Brandi Huntington |
 | 132 | 451 | Plucky Ziggy |
@@ -177,8 +177,8 @@
 | 169 | 386 | Brian Spotts |
 | 170 | 385 | Amanda Jarnagin |
 | 171 | 385 | John J. Cronin |
-| 172 | 383 | Margo Wagner |
-| 173 | 383 | pjbeta |
+| 172 | 383 | pjbeta |
+| 173 | 383 | Margo Wagner |
 | 174 | 380 | phrmblk24 |
 | 175 | 379 | Austin James |
 | 176 | 378 | Tawnya Peltonen |
@@ -341,7 +341,7 @@
 | 333 | 233 | Tipsy Riseclear |
 | 334 | 233 | Shiny Gridmatch |
 | 335 | 232 | Thorne Shumate |
-| 336 | 230 | Jessica Russell |
+| 336 | 230 | Flashy Rotator |
 | 337 | 230 | Panda Thagreat |
 | 338 | 230 | Jessica Russell |
 | 339 | 230 | Layzietyme |
@@ -381,9 +381,9 @@
 | 373 | 216 | Chad Atchley |
 | 374 | 215 | Quirky Pusher |
 | 375 | 214 | Kayla Marie Stevenson |
-| 376 | 213 | Ed Franz Jr |
+| 376 | 213 | Poppy Riserpiece |
 | 377 | 213 | John Barron |
-| 378 | 213 | Poppy Riserpiece |
+| 378 | 213 | Ed Franz Jr |
 | 379 | 211 | Lynn Adams |
 | 380 | 209 | Beau Galvan |
 | 381 | 209 | Pauline Cortez |
@@ -395,8 +395,8 @@
 | 387 | 205 | Elizabeth Kubli |
 | 388 | 205 | Agustin Duarte Orozco |
 | 389 | 205 | build master |
-| 390 | 204 | Dizzy Slider |
-| 391 | 204 | Cranky Pattern |
+| 390 | 204 | Cranky Pattern |
+| 391 | 204 | Dizzy Slider |
 | 392 | 203 | Rebekah LeiAnn Bonsell |
 | 393 | 202 | Brave Slice |
 | 394 | 202 | Krie |
@@ -440,8 +440,8 @@
 | 432 | 187 | Bob |
 | 433 | 186 | Nikki Fridley |
 | 434 | 185 | Hasty Columnbuilder |
-| 435 | 184 | Theeranart Mahawan |
-| 436 | 184 | Sonia Marquis |
+| 435 | 184 | Sonia Marquis |
+| 436 | 184 | Theeranart Mahawan |
 | 437 | 183 | MommaKFC |
 | 438 | 183 | Ma stoken |
 | 439 | 182 | Isaiah |

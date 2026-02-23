@@ -49,8 +49,8 @@
 | 41 | 1121 | Isabel Aguilar |
 | 42 | 1100 | Landon Keith Graffeo |
 | 43 | 1085 | Kimyatta Cavin |
-| 44 | 1082 | Dawn Alexander |
-| 45 | 1082 | Dion Crommarty |
+| 44 | 1082 | Dion Crommarty |
+| 45 | 1082 | Dawn Alexander |
 | 46 | 1071 | Cherrish Duren |
 | 47 | 1065 | Koshin Abdirahman |
 | 48 | 1046 | Johnathan Martinez |
@@ -67,16 +67,16 @@
 | 59 | 872 | Shelly Chandler |
 | 60 | 871 | Pee |
 | 61 | 870 | BertMofo |
-| 62 | 846 | Lucille Truesdale |
-| 63 | 846 | Christine Marie |
+| 62 | 846 | Christine Marie |
+| 63 | 846 | Lucille Truesdale |
 | 64 | 834 | quicksand420 |
 | 65 | 827 | Avy Absol |
 | 66 | 807 | Amelpss |
 | 67 | 807 | Rachel Anne |
 | 68 | 788 | Chilly Line |
 | 69 | 788 | Julian Garcia |
-| 70 | 787 | Edward White |
-| 71 | 787 | loulou |
+| 70 | 787 | loulou |
+| 71 | 787 | Edward White |
 | 72 | 768 | Judy Cox |
 | 73 | 767 | Shannon Ferrari |
 | 74 | 766 | Robin Watters |
