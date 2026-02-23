@@ -120,8 +120,8 @@
 | 112 | 831 | Angeline Joseph |
 | 113 | 830 | Stephanie Allmon |
 | 114 | 826 | Shane Wilson Jr. |
-| 115 | 816 | Brenda Lee Vander Molen |
-| 116 | 816 | Jesse Olive |
+| 115 | 816 | Jesse Olive |
+| 116 | 816 | Brenda Lee Vander Molen |
 | 117 | 802 | Bobbi Moore |
 | 118 | 800 | Lauren Girouard |
 | 119 | 799 | Dolores Falco |
@@ -221,8 +221,8 @@
 | 213 | 467 | Sherry Ogden |
 | 214 | 467 | Edwin Calvillo Jr. |
 | 215 | 465 | Annie Déè |
-| 216 | 464 | Danielle Weikel |
-| 217 | 464 | Shunta Jacobs |
+| 216 | 464 | Shunta Jacobs |
+| 217 | 464 | Danielle Weikel |
 | 218 | 461 | Tom Nault |
 | 219 | 458 | Danielle Rhoades |
 | 220 | 454 | Joye Sims Binion |
@@ -268,8 +268,8 @@
 | 260 | 370 | Samantha Lynn |
 | 261 | 369 | Philip Rock |
 | 262 | 369 | Keis |
-| 263 | 368 | Sheila M Frazier |
-| 264 | 368 | Stephanie Woods |
+| 263 | 368 | Stephanie Woods |
+| 264 | 368 | Sheila M Frazier |
 | 265 | 367 | Kristin Delibac Corrigan |
 | 266 | 366 | Gumbo |
 | 267 | 365 | Noyb Adam |
@@ -279,8 +279,8 @@
 | 271 | 360 | Cesar Barraza |
 | 272 | 359 | Sleepy |
 | 273 | 357 | Stephanie Burtin |
-| 274 | 354 | Andrew Thorson |
-| 275 | 354 | Roary Danner |
+| 274 | 354 | Roary Danner |
+| 275 | 354 | Andrew Thorson |
 | 276 | 354 | Eileen Brady Thurber |
 | 277 | 354 | Kelly |
 | 278 | 353 | Dee Franklin |
@@ -459,8 +459,8 @@
 | 451 | 234 | Cheeky Twisterfit |
 | 452 | 233 | Criss |
 | 453 | 233 | Tony Waters |
-| 454 | 232 | Stephanie Hill |
-| 455 | 232 | Melanie Sherwood |
+| 454 | 232 | Melanie Sherwood |
+| 455 | 232 | Stephanie Hill |
 | 456 | 232 | Sunny Tiltgrid |
 | 457 | 231 | Giggly Brickroll |
 | 458 | 231 | Frothy Snapper |
@@ -503,12 +503,12 @@
 | 495 | 213 | Flashy Rumbler |
 | 496 | 213 | Linda Draper |
 | 497 | 213 | Ktfreeee |
-| 498 | 212 | Beth Ingham |
-| 499 | 212 | Boldy Blocker |
-| 500 | 212 | neci |
-| 501 | 212 | Frilly Stackzone |
-| 502 | 211 | El Chapa |
-| 503 | 211 | Michael Pleasant |
+| 498 | 212 | neci |
+| 499 | 212 | Frilly Stackzone |
+| 500 | 212 | Beth Ingham |
+| 501 | 212 | Boldy Blocker |
+| 502 | 211 | Michael Pleasant |
+| 503 | 211 | El Chapa |
 | 504 | 210 | Maia |
 | 505 | 210 | Megan Riggins |
 | 506 | 210 | Kristian Thurman |
@@ -656,7 +656,7 @@
 | 648 | 167 | Funky Brickster |
 | 649 | 167 | Frisky Stacker |
 | 650 | 166 | Misha Sanders |
-| 651 | 166 | FATTY |
+| 651 | 166 | Chenoa Urban Sophicated Redy |
 | 652 | 166 | Armi |
 | 653 | 166 | FATTY |
 | 654 | 166 | Moimyzean |
@@ -791,10 +791,10 @@
 | 783 | 138 | Paula Urlacher |
 | 784 | 138 | Nutty Snapbuild |
 | 785 | 137 | Rynne Ellis |
-| 786 | 137 | Allie Kershner |
-| 787 | 137 | luna |
-| 788 | 137 | Happy Winder |
-| 789 | 136 | Latoya Oneluv White |
+| 786 | 137 | Happy Winder |
+| 787 | 137 | Allie Kershner |
+| 788 | 137 | luna |
+| 789 | 136 | Carli Jean |
 | 790 | 136 | Elyse Grabowsky |
 | 791 | 136 | Latoya Oneluv White |
 | 792 | 136 | Nerdy Lifter |

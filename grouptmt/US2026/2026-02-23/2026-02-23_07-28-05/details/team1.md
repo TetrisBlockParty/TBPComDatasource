@@ -97,13 +97,13 @@
 | 89 | 575 | Nancy Green |
 | 90 | 570 | Cody Slav |
 | 91 | 562 | Denice Dee |
-| 92 | 534 | Loony Fitzone |
-| 93 | 534 | Veronica Eve |
+| 92 | 534 | Veronica Eve |
+| 93 | 534 | Loony Fitzone |
 | 94 | 529 | Ryan Lunnin |
 | 95 | 522 | Sarah Lombardo |
 | 96 | 511 | Mario Cab |
-| 97 | 510 | Colena Davenport |
-| 98 | 510 | Chirpy Smasher |
+| 97 | 510 | Chirpy Smasher |
+| 98 | 510 | Colena Davenport |
 | 99 | 509 | Rachael |
 | 100 | 497 | Arianna O'Brien |
 | 101 | 493 | MomMom |
@@ -135,14 +135,14 @@
 | 127 | 429 | Kristi Johnson |
 | 128 | 428 | Ly Phethmany |
 | 129 | 426 | Maria C. Hernandez |
-| 130 | 425 | Dandy Basegrid |
+| 130 | 425 | Tyler Werts |
 | 131 | 425 | Lori Sanders- Davis |
-| 132 | 425 | Tyler Werts |
+| 132 | 425 | Dandy Basegrid |
 | 133 | 411 | BadG52 |
 | 134 | 410 | ALFD |
 | 135 | 409 | Goose egg |
-| 136 | 406 | Desiree Deschaine Havee |
-| 137 | 406 | Candy Jones |
+| 136 | 406 | Candy Jones |
+| 137 | 406 | Desiree Deschaine Havee |
 | 138 | 402 | Chris K |
 | 139 | 399 | Nery Martinez |
 | 140 | 394 | Lori Bales |
@@ -215,8 +215,8 @@
 | 207 | 308 | Speedy Liney |
 | 208 | 307 | femmefatale |
 | 209 | 306 | Angela Renea Lester |
-| 210 | 301 | Damon J. Martin |
-| 211 | 301 | Cody Gates |
+| 210 | 301 | Cody Gates |
+| 211 | 301 | Damon J. Martin |
 | 212 | 300 | Sleepysloath5745 |
 | 213 | 298 | Sweetts |
 | 214 | 298 | Billie Ann Eason |
@@ -335,8 +335,8 @@
 | 327 | 215 | Christina Norman |
 | 328 | 215 | Alenoush Karimian |
 | 329 | 214 | Kayla Marie Stevenson |
-| 330 | 213 | Itspaigebro |
-| 331 | 213 | Poppy Riserpiece |
+| 330 | 213 | Poppy Riserpiece |
+| 331 | 213 | Itspaigebro |
 | 332 | 213 | John Barron |
 | 333 | 212 | Michelle Beres |
 | 334 | 210 | Timothy Danaher |

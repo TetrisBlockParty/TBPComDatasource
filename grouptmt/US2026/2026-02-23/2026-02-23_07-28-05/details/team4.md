@@ -61,8 +61,8 @@
 | 53 | 864 | Shelly Chandler |
 | 54 | 863 | Pee |
 | 55 | 853 | TeeJ |
-| 56 | 846 | Christine Marie |
-| 57 | 846 | Lucille Truesdale |
+| 56 | 846 | Lucille Truesdale |
+| 57 | 846 | Christine Marie |
 | 58 | 845 | LisaJo Picken Buchanan |
 | 59 | 834 | quicksand420 |
 | 60 | 815 | Dawn Alexander |
@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Jonathan Kimbrough |
-| 84 | 684 | Kimyatta Cavin |
+| 83 | 684 | Kimyatta Cavin |
+| 84 | 684 | Jonathan Kimbrough |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -254,8 +254,8 @@
 | 246 | 266 | Tracey Lehmann |
 | 247 | 266 | Mr. Party |
 | 248 | 265 | Degenerate |
-| 249 | 265 | Silly SeaWeed |
-| 250 | 265 | Sarah Neathery |
+| 249 | 265 | Sarah Neathery |
+| 250 | 265 | Silly SeaWeed |
 | 251 | 265 | Cynthia Boudreau |
 | 252 | 264 | ZeeZee |
 | 253 | 264 | Stella |

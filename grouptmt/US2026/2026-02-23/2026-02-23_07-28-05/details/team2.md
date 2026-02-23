@@ -213,8 +213,8 @@
 | 205 | 1286 | Altamirano Michael |
 | 206 | 1282 | Tanya Parsons |
 | 207 | 1259 | Foxxo |
-| 208 | 1258 | Snappy Matchbuilder |
-| 209 | 1258 | Joyce Johnson Vaughn |
+| 208 | 1258 | Joyce Johnson Vaughn |
+| 209 | 1258 | Snappy Matchbuilder |
 | 210 | 1252 | Angel |
 | 211 | 1245 | Cody Nishimura |
 | 212 | 1240 | Brandon Armstrong |
@@ -479,8 +479,8 @@
 | 471 | 693 | Ryan Stadel |
 | 472 | 692 | Shaun Church |
 | 473 | 691 | Poldo Ilano |
-| 474 | 691 | Arwa Fatimah |
-| 475 | 691 | Samuel Macon |
+| 474 | 691 | Samuel Macon |
+| 475 | 691 | Arwa Fatimah |
 | 476 | 689 | Gauri Shrotriya |
 | 477 | 686 | Christine Coughlin |
 | 478 | 684 | Tansaria Couch-Butler |
@@ -522,8 +522,8 @@
 | 514 | 646 | Jazzy Clusterline |
 | 515 | 644 | Véronique Lévesque Sabourin |
 | 516 | 643 | Michelle Pike |
-| 517 | 642 | Michelle Fields |
-| 518 | 642 | Cassie Maynard |
+| 517 | 642 | Cassie Maynard |
+| 518 | 642 | Michelle Fields |
 | 519 | 640 | Belle |
 | 520 | 639 | Alexandra Weir |
 | 521 | 639 | Rebecca Miller |
@@ -555,9 +555,9 @@
 | 547 | 612 | Briana Alexander |
 | 548 | 612 | Slinky Racker |
 | 549 | 610 | Michael Buckner |
-| 550 | 609 | Cecilia A Jenkins |
-| 551 | 609 | Autumn Schaeffer |
-| 552 | 609 | Smashanator |
+| 550 | 609 | Autumn Schaeffer |
+| 551 | 609 | Smashanator |
+| 552 | 609 | Cecilia A Jenkins |
 | 553 | 607 | Mo Shine On |
 | 554 | 606 | Lea Stewart |
 | 555 | 605 | Jermaine Harris |
@@ -808,8 +808,8 @@
 | 800 | 445 | Mar Q Thomas |
 | 801 | 445 | Beatboxxer |
 | 802 | 444 | Angela Murgia-Owen |
-| 803 | 443 | Dimitra Zazara |
-| 804 | 443 | Giggy Grabber |
+| 803 | 443 | Giggy Grabber |
+| 804 | 443 | Dimitra Zazara |
 | 805 | 442 | Juan Castillo |
 | 806 | 442 | Rain |
 | 807 | 441 | Goofy Catcher |
@@ -1030,8 +1030,8 @@
 | 1022 | 358 | Alyssaaelena |
 | 1023 | 358 | Nutty Slice |
 | 1024 | 358 | Luke Califf |
-| 1025 | 358 | Sydney Busse |
-| 1026 | 358 | Dapper Setter |
+| 1025 | 358 | Dapper Setter |
+| 1026 | 358 | Sydney Busse |
 | 1027 | 358 | Kiorah Blaze |
 | 1028 | 357 | Snippy Block |
 | 1029 | 357 | Gloria Liu |
