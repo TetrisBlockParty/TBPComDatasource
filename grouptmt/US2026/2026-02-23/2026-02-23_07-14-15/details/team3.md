@@ -120,16 +120,16 @@
 | 112 | 831 | Angeline Joseph |
 | 113 | 830 | Stephanie Allmon |
 | 114 | 826 | Shane Wilson Jr. |
-| 115 | 816 | Brenda Lee Vander Molen |
-| 116 | 816 | Jesse Olive |
+| 115 | 816 | Jesse Olive |
+| 116 | 816 | Brenda Lee Vander Molen |
 | 117 | 802 | Bobbi Moore |
 | 118 | 800 | Lauren Girouard |
 | 119 | 799 | Dolores Falco |
 | 120 | 769 | Kristie |
 | 121 | 764 | Groovy Catcher |
 | 122 | 762 | Speedy Bridger |
-| 123 | 752 | Logan Naccarato |
-| 124 | 752 | Raya |
+| 123 | 752 | Raya |
+| 124 | 752 | Logan Naccarato |
 | 125 | 748 | Adrian Marcel Pate |
 | 126 | 745 | JerseyJess |
 | 127 | 744 | Leah Barnett |
@@ -173,8 +173,8 @@
 | 165 | 591 | Michael Nowogorski |
 | 166 | 588 | Justin Ritter |
 | 167 | 587 | Louise Stacy Sisson |
-| 168 | 585 | Annie Marie |
-| 169 | 585 | Happy Tetriblast |
+| 168 | 585 | Happy Tetriblast |
+| 169 | 585 | Annie Marie |
 | 170 | 583 | Tasha Gillespie |
 | 171 | 582 | Natasha Jones |
 | 172 | 577 | Domo Washington |
@@ -283,11 +283,11 @@
 | 275 | 354 | Roary Danner |
 | 276 | 354 | Eileen Brady Thurber |
 | 277 | 354 | Kelly |
-| 278 | 353 | Cyd061769 |
-| 279 | 353 | Dee Franklin |
+| 278 | 353 | Dee Franklin |
+| 279 | 353 | Cyd061769 |
 | 280 | 352 | Christian Werndl |
-| 281 | 351 | Eon Harris |
-| 282 | 351 | Blocked |
+| 281 | 351 | Blocked |
+| 282 | 351 | Eon Harris |
 | 283 | 350 | LaShey Thompson |
 | 284 | 349 | Amanda J. Mcneil-Anderson |
 | 285 | 347 | Betty Bóò |
@@ -363,8 +363,8 @@
 | 355 | 280 | Aerian Preston |
 | 356 | 280 | ROODBOY |
 | 357 | 280 | Dirtgirl27 |
-| 358 | 279 | Tosha Griffey |
-| 359 | 279 | Naur |
+| 358 | 279 | Naur |
+| 359 | 279 | Tosha Griffey |
 | 360 | 278 | Rufus Lincoln |
 | 361 | 277 | Krystal Gerstberger |
 | 362 | 277 | Joe-Maggie Mathews |
@@ -380,8 +380,8 @@
 | 372 | 274 | Ava Petito |
 | 373 | 273 | France Vézina |
 | 374 | 273 | Brenda Schmid Wood |
-| 375 | 272 | Tay |
-| 376 | 272 | Todd Hall |
+| 375 | 272 | Todd Hall |
+| 376 | 272 | Tay |
 | 377 | 272 | Romeo |
 | 378 | 269 | Samantha Worley |
 | 379 | 269 | Juliana Dottore |
@@ -399,12 +399,12 @@
 | 391 | 263 | Jimmie Clemons |
 | 392 | 263 | Erika Thornton |
 | 393 | 261 | Swanky Snapclear |
-| 394 | 260 | Alice |
-| 395 | 260 | Tracey Cox |
+| 394 | 260 | Tracey Cox |
+| 395 | 260 | Alice |
 | 396 | 259 | JessDrown |
 | 397 | 259 | Shania Vaine |
-| 398 | 259 | Dana Winters |
-| 399 | 259 | Tegan Chapman |
+| 398 | 259 | Tegan Chapman |
+| 399 | 259 | Dana Winters |
 | 400 | 258 | IamJust Neyamijah Washington Sr. |
 | 401 | 257 | Rachel Grant |
 | 402 | 257 | Saucy Buildout |
@@ -789,7 +789,7 @@
 | 781 | 138 | Paula Urlacher |
 | 782 | 138 | Nutty Snapbuild |
 | 783 | 137 | Rynne Ellis |
-| 784 | 137 | Allie Kershner |
+| 784 | 137 | Happy Winder |
 | 785 | 137 | luna |
 | 786 | 137 | Allie Kershner |
 | 787 | 136 | Carli Jean |

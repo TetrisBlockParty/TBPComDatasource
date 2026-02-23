@@ -125,8 +125,8 @@
 | 117 | 514 | Serena Goodridge |
 | 118 | 514 | Scott Jameson |
 | 119 | 513 | Erin Thomas |
-| 120 | 512 | Casey Jeffcoat |
-| 121 | 512 | Cristy Duerksen |
+| 120 | 512 | Cristy Duerksen |
+| 121 | 512 | Casey Jeffcoat |
 | 122 | 511 | Lori Walker |
 | 123 | 509 | Leslie Nicole |
 | 124 | 482 | Ren Mc |
@@ -140,16 +140,16 @@
 | 132 | 454 | Ericca Eldridge |
 | 133 | 451 | Peachy Fall |
 | 134 | 448 | Kristin Manee |
-| 135 | 435 | Kristina Black |
-| 136 | 435 | Leslie Thomas |
+| 135 | 435 | Leslie Thomas |
+| 136 | 435 | Kristina Black |
 | 137 | 434 | Monica Daley |
 | 138 | 432 | Zippy Block |
 | 139 | 431 | Courtney Cicoria |
 | 140 | 429 | Klo |
 | 141 | 426 | 🥔🥔 Spudz |
 | 142 | 423 | Carrie Brian |
-| 143 | 421 | Kesha Brady |
-| 144 | 421 | JIGsaw ~(•¿°)~ |
+| 143 | 421 | JIGsaw ~(•¿°)~ |
+| 144 | 421 | Kesha Brady |
 | 145 | 418 | Marie-Pier Desjardins |
 | 146 | 418 | Lush Linkfall |
 | 147 | 416 | Chaz Duncan |
@@ -160,14 +160,14 @@
 | 152 | 406 | Livvy |
 | 153 | 406 | Damn Libra |
 | 154 | 398 | Tyler Terrific |
-| 155 | 393 | Carlton Unfiltered |
-| 156 | 393 | Girl |
+| 155 | 393 | Girl |
+| 156 | 393 | Carlton Unfiltered |
 | 157 | 391 | Ramel Rhodes |
 | 158 | 389 | Joseph Guthrie |
 | 159 | 388 | Andy Cabral |
 | 160 | 387 | Lucas J Sutton |
-| 161 | 375 | Desi Desporte |
-| 162 | 375 | ThaEviLJeNiuZ |
+| 161 | 375 | ThaEviLJeNiuZ |
+| 162 | 375 | Desi Desporte |
 | 163 | 374 | Guy Incognito |
 | 164 | 372 | Circuit8 |
 | 165 | 370 | Oscar Alberto Perez |
@@ -197,8 +197,8 @@
 | 189 | 333 | shark tato |
 | 190 | 332 | HastyGrabber |
 | 191 | 330 | Kathy Brookins |
-| 192 | 329 | Antony Dwayne Beasley |
-| 193 | 329 | Sam Bishop |
+| 192 | 329 | Sam Bishop |
+| 193 | 329 | Antony Dwayne Beasley |
 | 194 | 328 | scott |
 | 195 | 327 | J-Rizzle |
 | 196 | 324 | jim |
@@ -219,8 +219,8 @@
 | 211 | 300 | Dana Scott |
 | 212 | 300 | Zakia Monae |
 | 213 | 295 | Keshia Lyons |
-| 214 | 294 | Porkobello |
-| 215 | 294 | Calvin Cannon |
+| 214 | 294 | Calvin Cannon |
+| 215 | 294 | Porkobello |
 | 216 | 292 | Epic Curvetile |
 | 217 | 291 | Nikki Rae Gordon |
 | 218 | 290 | Rebecca Morris |
@@ -274,8 +274,8 @@
 | 266 | 256 | Metsfan |
 | 267 | 253 | Autum Leigh |
 | 268 | 251 | Carol Ricks Raymond |
-| 269 | 249 | Nick Gray |
-| 270 | 249 | Ak Jones |
+| 269 | 249 | Ak Jones |
+| 270 | 249 | Nick Gray |
 | 271 | 248 | Chirpy Basepiece |
 | 272 | 248 | Jose Dejesus |
 | 273 | 245 | 23 |
@@ -289,8 +289,8 @@
 | 281 | 239 | Denise B |
 | 282 | 238 | 中山成巳 |
 | 283 | 237 | Christine Therrien |
-| 284 | 235 | Chair |
-| 285 | 235 | Shainne Brewer |
+| 284 | 235 | Shainne Brewer |
+| 285 | 235 | Chair |
 | 286 | 235 | LaDonna LovinmesomeMe Lambert |
 | 287 | 234 | Richard-April Kice |
 | 288 | 233 | Ruben Wheeler |
@@ -1134,8 +1134,8 @@
 | 1126 | 48 | George Castillo |
 | 1127 | 48 | Binji |
 | 1128 | 48 | Denise Jones |
-| 1129 | 47 | Fred Lilreadii Smith Jr |
-| 1130 | 47 | Maly Harmen |
+| 1129 | 47 | Maly Harmen |
+| 1130 | 47 | Fred Lilreadii Smith Jr |
 | 1131 | 47 | Twisty Wipegrid |
 | 1132 | 47 | April Swinney |
 | 1133 | 47 | Fastnines |

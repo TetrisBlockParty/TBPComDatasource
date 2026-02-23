@@ -478,8 +478,8 @@
 | 470 | 693 | Ryan Stadel |
 | 471 | 692 | Shaun Church |
 | 472 | 691 | Poldo Ilano |
-| 473 | 691 | Samuel Macon |
-| 474 | 691 | Arwa Fatimah |
+| 473 | 691 | Arwa Fatimah |
+| 474 | 691 | Samuel Macon |
 | 475 | 689 | Gauri Shrotriya |
 | 476 | 686 | Christine Coughlin |
 | 477 | 684 | Sarah DeHart |
@@ -909,11 +909,11 @@
 | 901 | 400 | Tammy Allen |
 | 902 | 399 | Trista Carter |
 | 903 | 399 | Heather Johnson |
-| 904 | 398 | Juan Killyoselfifudontlikeme Ronaldo |
-| 905 | 398 | John Quiring |
-| 906 | 398 | TF Dyer |
-| 907 | 398 | Kendall Fullerton |
-| 908 | 398 | Witty Piecebuilder |
+| 904 | 398 | John Quiring |
+| 905 | 398 | TF Dyer |
+| 906 | 398 | Kendall Fullerton |
+| 907 | 398 | Witty Piecebuilder |
+| 908 | 398 | Juan Killyoselfifudontlikeme Ronaldo |
 | 909 | 397 | Dawn Woosley Bowes |
 | 910 | 397 | Maxwell Escalera |
 | 911 | 397 | Jessica Conaway |
@@ -1002,8 +1002,8 @@
 | 994 | 368 | Bec |
 | 995 | 367 | Lush Snapzone |
 | 996 | 367 | Rachel Kaminski |
-| 997 | 366 | Josh Webster |
-| 998 | 366 | Ashley Criner |
+| 997 | 366 | Ashley Criner |
+| 998 | 366 | Josh Webster |
 | 999 | 366 | Monique Foster |
 | 1000 | 366 | KrisCynthia Lynette |
 | 1001 | 365 | Wes Acton |
@@ -1402,8 +1402,8 @@
 | 1394 | 273 | Chris L Gustafson |
 | 1395 | 273 | Eve Marie |
 | 1396 | 273 | Eddie Perez |
-| 1397 | 273 | Britt Stunkel |
-| 1398 | 273 | Michele Moren |
+| 1397 | 273 | Michele Moren |
+| 1398 | 273 | Britt Stunkel |
 | 1399 | 273 | Crafty Climber |
 | 1400 | 272 | Loopy Shatterblock |
 | 1401 | 272 | Sammy |
@@ -2139,8 +2139,8 @@
 | 2131 | 190 | Anthony Cool |
 | 2132 | 190 | Jannette Kimes |
 | 2133 | 190 | Shannon Lancaster |
-| 2134 | 189 | Jessica Freeman Tremain |
-| 2135 | 189 | Tammi Dorsey |
+| 2134 | 189 | Tammi Dorsey |
+| 2135 | 189 | Jessica Freeman Tremain |
 | 2136 | 189 | Kimberly Wright |
 | 2137 | 189 | Monica Oliver |
 | 2138 | 189 | Amanda Davis-Kessler |
