@@ -242,8 +242,8 @@
 | 234 | 1255 | Brandon Armstrong |
 | 235 | 1253 | Roman Lavochnik |
 | 236 | 1252 | Angel |
-| 237 | 1245 | Cody Nishimura |
-| 238 | 1245 | Missie Lawson Gebhardt |
+| 237 | 1245 | Missie Lawson Gebhardt |
+| 238 | 1245 | Cody Nishimura |
 | 239 | 1243 | Eric Carlson |
 | 240 | 1241 | Jennifer Casey-Kay |
 | 241 | 1240 | Megan Garrick |
@@ -694,10 +694,10 @@
 | 686 | 551 | Matt Johnson |
 | 687 | 551 | Cynthia Louann Rose |
 | 688 | 550 | Michelle Sager |
-| 689 | 550 | Shorty |
-| 690 | 550 | Bonita Kee |
-| 691 | 549 | Crystal Hodge Love |
-| 692 | 549 | Kaylee McCafferty |
+| 689 | 550 | Bonita Kee |
+| 690 | 550 | Shorty |
+| 691 | 549 | Kaylee McCafferty |
+| 692 | 549 | Crystal Hodge Love |
 | 693 | 548 | Sunshine711 |
 | 694 | 547 | Heather M Purcell |
 | 695 | 547 | Sonya Back |

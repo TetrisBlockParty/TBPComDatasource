@@ -200,14 +200,14 @@
 | 192 | 376 | Zesty Twistbuilder |
 | 193 | 372 | George Nutt |
 | 194 | 372 | Antony Dwayne Beasley |
-| 195 | 368 | Silly Zonebuilder |
-| 196 | 368 | Holly Jolly |
+| 195 | 368 | Holly Jolly |
+| 196 | 368 | Silly Zonebuilder |
 | 197 | 365 | Jeff Brian Gates |
 | 198 | 363 | Cindy Looper |
-| 199 | 361 | Rafael Valentin |
-| 200 | 361 | Danielle Kollias |
-| 201 | 358 | A5! |
-| 202 | 358 | Twisty Cascadezone |
+| 199 | 361 | Danielle Kollias |
+| 200 | 361 | Rafael Valentin |
+| 201 | 358 | Twisty Cascadezone |
+| 202 | 358 | A5! |
 | 203 | 355 | James Hurley Jr. |
 | 204 | 354 | TRCuse |
 | 205 | 354 | Kris Bartlett |
@@ -302,8 +302,8 @@
 | 294 | 264 | Stella |
 | 295 | 263 | rebel4lyfe |
 | 296 | 262 | Selena Shaw |
-| 297 | 262 | Ruben Wheeler |
-| 298 | 262 | BigSammy420 |
+| 297 | 262 | BigSammy420 |
+| 298 | 262 | Ruben Wheeler |
 | 299 | 261 | Zethra Prenisha Rahming |
 | 300 | 260 | Carter Jones |
 | 301 | 259 | Allen Lloyd |
@@ -498,7 +498,7 @@
 | 490 | 164 | DonMega |
 | 491 | 163 | Linda Alexander Downing |
 | 492 | 163 | Michael Orris |
-| 493 | 163 | Linda Alexander Downing |
+| 493 | 163 | Ashlee Carnes |
 | 494 | 163 | Brandon Link |
 | 495 | 162 | Empress Oasis |
 | 496 | 162 | conceptCollector |

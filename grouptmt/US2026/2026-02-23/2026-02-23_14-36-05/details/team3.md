@@ -193,8 +193,8 @@
 | 185 | 582 | Natasha Jones |
 | 186 | 568 | Rachael McClain Owens |
 | 187 | 566 | LaTanya GeminiondaRise Johnson |
-| 188 | 564 | Christine Trester |
-| 189 | 564 | Poppy Splitter |
+| 188 | 564 | Poppy Splitter |
+| 189 | 564 | Christine Trester |
 | 190 | 563 | Jim Mathews |
 | 191 | 562 | Dave Herzog |
 | 192 | 561 | Elissa S-k |
@@ -203,8 +203,8 @@
 | 195 | 549 | Sarah Cowan Burgos |
 | 196 | 548 | Danielle Balcom |
 | 197 | 547 | Staci George Fitzsimmons |
-| 198 | 546 | Cynthia Castros-Hampton |
-| 199 | 546 | Mykal Burton |
+| 198 | 546 | Mykal Burton |
+| 199 | 546 | Cynthia Castros-Hampton |
 | 200 | 543 | Silly Twist |
 | 201 | 540 | Shawn Miller |
 | 202 | 533 | Rania Zaqout |
@@ -338,12 +338,12 @@
 | 330 | 344 | Beaudie Stroebel |
 | 331 | 344 | Isabel Ocasio |
 | 332 | 343 | Ashley Rufus Bythcez |
-| 333 | 342 | Cynthia Herrmann Egland |
-| 334 | 342 | ROODBOY |
+| 333 | 342 | ROODBOY |
+| 334 | 342 | Cynthia Herrmann Egland |
 | 335 | 341 | Rick Poppen |
 | 336 | 341 | Lys |
-| 337 | 340 | Nikki Pags |
-| 338 | 340 | Erika Thornton |
+| 337 | 340 | Erika Thornton |
+| 338 | 340 | Nikki Pags |
 | 339 | 338 | fraulila |
 | 340 | 335 | victory |
 | 341 | 333 | Nikki White |
@@ -482,8 +482,8 @@
 | 474 | 252 | Josh Borquez |
 | 475 | 252 | Jolly Dashpiece |
 | 476 | 252 | Kassie Dominique Rathbone |
-| 477 | 251 | Valerie Tarkington |
-| 478 | 251 | Colleen Phelps |
+| 477 | 251 | Colleen Phelps |
+| 478 | 251 | Valerie Tarkington |
 | 479 | 248 | 4girls |
 | 480 | 247 | Kevin Russell |
 | 481 | 247 | Jessica |

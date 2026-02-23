@@ -46,8 +46,8 @@
 | 38 | 1128 | june october |
 | 39 | 1126 | Tater |
 | 40 | 1122 | Amanda Summey Schoemer |
-| 41 | 1114 | Marianne Louise West |
-| 42 | 1114 | Jayme Sellers |
+| 41 | 1114 | Jayme Sellers |
+| 42 | 1114 | Marianne Louise West |
 | 43 | 1112 | Chipper Gridlock |
 | 44 | 1100 | Derek MF Blakey |
 | 45 | 1069 | Patrick Luckenbill |
@@ -132,8 +132,8 @@
 | 124 | 477 | Tonya Beasley |
 | 125 | 475 | Sarah Somers Gray |
 | 126 | 471 | Hyper |
-| 127 | 467 | Candy Jones |
-| 128 | 467 | Constance Risner |
+| 127 | 467 | Constance Risner |
+| 128 | 467 | Candy Jones |
 | 129 | 466 | Adrian Esteban |
 | 130 | 463 | Lexuriuos Lifestlye |
 | 131 | 462 | Luciano Moreira |
@@ -232,8 +232,8 @@
 | 224 | 339 | Tyler Hertzog |
 | 225 | 337 | Jamise Brown |
 | 226 | 335 | Keith Mathis |
-| 227 | 333 | Virginia Gray Floyd |
-| 228 | 333 | Jennifer Noe Chandler |
+| 227 | 333 | Jennifer Noe Chandler |
+| 228 | 333 | Virginia Gray Floyd |
 | 229 | 332 | Happy Basegrid |
 | 230 | 329 | Jessi Sauer |
 | 231 | 328 | Snappy Matcher |
@@ -256,8 +256,8 @@
 | 248 | 310 | Bloknboy |
 | 249 | 308 | Speedy Liney |
 | 250 | 305 | Plucky Stacky |
-| 251 | 303 | Νεφ Όνυξ |
-| 252 | 303 | DaRascal |
+| 251 | 303 | DaRascal |
+| 252 | 303 | Νεφ Όνυξ |
 | 253 | 301 | Glitzy Curvebuilder |
 | 254 | 301 | Brave Wrecker |
 | 255 | 301 | John Kim |
@@ -273,8 +273,8 @@
 | 265 | 286 | Sarahdactyl |
 | 266 | 285 | Shanae Grant |
 | 267 | 284 | Sam Williams |
-| 268 | 283 | Franswa |
-| 269 | 283 | Larry Tilton |
+| 268 | 283 | Larry Tilton |
+| 269 | 283 | Franswa |
 | 270 | 282 | Timothy Dew |
 | 271 | 281 | Clever Cascadepiece |
 | 272 | 280 | Billie Dawn Sparks |
@@ -1185,7 +1185,7 @@
 | 1177 | 54 | Peppy Cascade |
 | 1178 | 54 | Frothy Bridgepiece |
 | 1179 | 54 | Larry Brazil |
-| 1180 | 54 | Trisha Stiglet |
+| 1180 | 54 | Jolly Riserbuilder |
 | 1181 | 54 | Spicy Brickline |
 | 1182 | 54 | Trisha Stiglet |
 | 1183 | 53 | Purp |
