@@ -202,8 +202,8 @@
 | 194 | 347 | Elaine Elaine |
 | 195 | 346 | GATOR |
 | 196 | 345 | Jerry Danowski |
-| 197 | 342 | Snippy Wipebuilder |
-| 198 | 342 | Dino |
+| 197 | 342 | Dino |
+| 198 | 342 | Snippy Wipebuilder |
 | 199 | 341 | Nick R Montague |
 | 200 | 339 | Nicole Roseberry Weber |
 | 201 | 337 | Jamise Brown |
@@ -240,8 +240,8 @@
 | 232 | 293 | John Kim |
 | 233 | 291 | Giddy Cascade |
 | 234 | 291 | Brave Wrecker |
-| 235 | 290 | Hellsin |
-| 236 | 290 | Tavia |
+| 235 | 290 | Tavia |
+| 236 | 290 | Hellsin |
 | 237 | 287 | Sassy Builderline |
 | 238 | 285 | Shanae Grant |
 | 239 | 285 | Bird Person |
@@ -263,8 +263,8 @@
 | 255 | 272 | Barrbaric |
 | 256 | 272 | Tawnya Peltonen |
 | 257 | 271 | Frothy Pattern |
-| 258 | 270 | Debbie Kane |
-| 259 | 270 | Brenda Alexander |
+| 258 | 270 | Brenda Alexander |
+| 259 | 270 | Debbie Kane |
 | 260 | 268 | Standia Civil |
 | 261 | 267 | Daring Fitclear |
 | 262 | 265 | Kandae |
@@ -384,8 +384,8 @@
 | 376 | 201 | Tedashi |
 | 377 | 201 | Rico Rico |
 | 378 | 200 | Zesty Brickzone |
-| 379 | 199 | Larissa Marie Nelson |
-| 380 | 199 | Tina Englert |
+| 379 | 199 | Tina Englert |
+| 380 | 199 | Larissa Marie Nelson |
 | 381 | 198 | Marci Sanders |
 | 382 | 197 | Cool Towerzone |
 | 383 | 196 | Steph |
@@ -406,9 +406,9 @@
 | 398 | 191 | Vivienne Carter |
 | 399 | 191 | Garcia Bailey |
 | 400 | 190 | yoyoluv |
-| 401 | 189 | Dizzy Slider |
-| 402 | 189 | BettyAnn Savo |
-| 403 | 189 | Dizzy Rackham |
+| 401 | 189 | Dizzy Rackham |
+| 402 | 189 | Dizzy Slider |
+| 403 | 189 | BettyAnn Savo |
 | 404 | 188 | Strig |
 | 405 | 188 | Brian Taylor |
 | 406 | 188 | Chantelle Ceno |

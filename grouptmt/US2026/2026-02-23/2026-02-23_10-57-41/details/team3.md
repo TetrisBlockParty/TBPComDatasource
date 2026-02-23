@@ -121,8 +121,8 @@
 | 113 | 839 | Angeline Joseph |
 | 114 | 830 | Stephanie Allmon |
 | 115 | 826 | Shane Wilson Jr. |
-| 116 | 816 | Brenda Lee Vander Molen |
-| 117 | 816 | Jesse Olive |
+| 116 | 816 | Jesse Olive |
+| 117 | 816 | Brenda Lee Vander Molen |
 | 118 | 802 | Bobbi Moore |
 | 119 | 800 | Lauren Girouard |
 | 120 | 799 | Dolores Falco |
@@ -187,8 +187,8 @@
 | 179 | 572 | CeceGeGe |
 | 180 | 568 | Rachael McClain Owens |
 | 181 | 566 | LaTanya GeminiondaRise Johnson |
-| 182 | 564 | Poppy Splitter |
-| 183 | 564 | Christine Trester |
+| 182 | 564 | Christine Trester |
+| 183 | 564 | Poppy Splitter |
 | 184 | 563 | Jim Mathews |
 | 185 | 562 | Dave Herzog |
 | 186 | 559 | Patti Skiles |
@@ -204,8 +204,8 @@
 | 196 | 525 | Stephanie Blkpep Davidson |
 | 197 | 524 | Bmo |
 | 198 | 521 | Shannon Matthew Byers |
-| 199 | 519 | rnr junky |
-| 200 | 519 | Terry Jo Jones |
+| 199 | 519 | Terry Jo Jones |
+| 200 | 519 | rnr junky |
 | 201 | 515 | Cozy Snaplink |
 | 202 | 513 | Lizabeth Fox |
 | 203 | 510 | Makelini Mausia |
@@ -289,8 +289,8 @@
 | 281 | 369 | Philip Rock |
 | 282 | 369 | Amber Glover |
 | 283 | 369 | Keis |
-| 284 | 368 | Stephanie Woods |
-| 285 | 368 | Sheila M Frazier |
+| 284 | 368 | Sheila M Frazier |
+| 285 | 368 | Stephanie Woods |
 | 286 | 366 | Gumbo |
 | 287 | 362 | Brandon Givens |
 | 288 | 360 | Cesar Barraza |
@@ -345,8 +345,8 @@
 | 337 | 311 | Troy |
 | 338 | 309 | Desiree Gold |
 | 339 | 309 | Cheeky Snapper |
-| 340 | 308 | Katrina Turner |
-| 341 | 308 | Tia |
+| 340 | 308 | Tia |
+| 341 | 308 | Katrina Turner |
 | 342 | 305 | Hyper Matchzone |
 | 343 | 304 | _melisa223_ |
 | 344 | 303 | Alexmac |
@@ -387,8 +387,8 @@
 | 379 | 278 | Rufus Lincoln |
 | 380 | 277 | France Vézina |
 | 381 | 277 | Krystal Gerstberger |
-| 382 | 277 | Joe-Maggie Mathews |
-| 383 | 277 | Brenda Schmid Wood |
+| 382 | 277 | Brenda Schmid Wood |
+| 383 | 277 | Joe-Maggie Mathews |
 | 384 | 276 | Karent524 |
 | 385 | 276 | Crimson |
 | 386 | 276 | Noettín Kan Zasnemoore |
@@ -400,8 +400,8 @@
 | 392 | 273 | Quackers |
 | 393 | 273 | Kevin Fountain |
 | 394 | 272 | Romeo |
-| 395 | 272 | Tay |
-| 396 | 272 | Todd Hall |
+| 395 | 272 | Todd Hall |
+| 396 | 272 | Tay |
 | 397 | 269 | Goofy Fall |
 | 398 | 269 | Samantha Worley |
 | 399 | 269 | Jess Bissett |
@@ -571,8 +571,8 @@
 | 563 | 197 | BabyTonj Evans |
 | 564 | 197 | Giggy Glidepiece |
 | 565 | 196 | Eboni Starr |
-| 566 | 196 | Joshua David Huie |
-| 567 | 196 | Weerae |
+| 566 | 196 | Weerae |
+| 567 | 196 | Joshua David Huie |
 | 568 | 195 | toony |
 | 569 | 195 | Carrie Resler |
 | 570 | 195 | Nicha Hooker |
@@ -963,7 +963,7 @@
 | 955 | 119 | Snippy Wipeout |
 | 956 | 118 | Autumn Michelle Coulter |
 | 957 | 118 | Quirky Stackzone |
-| 958 | 118 | Autumn Michelle Coulter |
+| 958 | 118 | Carie Ferchaud |
 | 959 | 118 | Damian Reid |
 | 960 | 118 | Brii Skii |
 | 961 | 118 | Perky Cascadeclear |
