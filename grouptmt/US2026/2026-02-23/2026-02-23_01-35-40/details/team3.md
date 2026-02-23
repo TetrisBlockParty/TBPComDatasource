@@ -24,8 +24,8 @@
 | 16 | 2728 | Lauren d |
 | 17 | 2697 | River |
 | 18 | 2503 | Clever Roll |
-| 19 | 2287 | Tetris Master |
-| 20 | 2287 | Brandon Green |
+| 19 | 2287 | Brandon Green |
+| 20 | 2287 | Tetris Master |
 | 21 | 2203 | Ashley Jones |
 | 22 | 2144 | Zippy Strikesnap |
 | 23 | 2041 | Laura Melton |
@@ -61,8 +61,8 @@
 | 53 | 1276 | Aaron Pitkin |
 | 54 | 1269 | Amber Jones |
 | 55 | 1258 | Jennifer Petrie |
-| 56 | 1256 | Mahman |
-| 57 | 1256 | Jessica Bechler |
+| 56 | 1256 | Jessica Bechler |
+| 57 | 1256 | Mahman |
 | 58 | 1191 | Nate Burnside |
 | 59 | 1142 | Elaine Webb Graves |
 | 60 | 1141 | Queen Kam |
@@ -199,8 +199,8 @@
 | 191 | 460 | Danielle Allison |
 | 192 | 458 | Danielle Rhoades |
 | 193 | 457 | Jim Mathews |
-| 194 | 455 | Annie Déè |
-| 195 | 455 | Bmo |
+| 194 | 455 | Bmo |
+| 195 | 455 | Annie Déè |
 | 196 | 454 | Michael Johnson |
 | 197 | 452 | Jacqueline Rodriguez |
 | 198 | 451 | Sarah Cowan Burgos |
@@ -282,8 +282,8 @@
 | 274 | 324 | Sissy Lowery Davis |
 | 275 | 322 | Nena Somerville Kelly |
 | 276 | 321 | Charles Perrone |
-| 277 | 320 | Ashley Muncey |
-| 278 | 320 | Or Reznitsky |
+| 277 | 320 | Or Reznitsky |
+| 278 | 320 | Ashley Muncey |
 | 279 | 312 | Twisty Brick LT |
 | 280 | 312 | LadyTorad |
 | 281 | 311 | Shawn Miller |
@@ -353,9 +353,9 @@
 | 345 | 266 | Angela Scott |
 | 346 | 266 | Quirky Dropzone |
 | 347 | 265 | Michael Kimbro |
-| 348 | 263 | Jimmie Clemons |
-| 349 | 263 | Jess Bissett |
-| 350 | 263 | Erika Thornton |
+| 348 | 263 | Jess Bissett |
+| 349 | 263 | Erika Thornton |
+| 350 | 263 | Jimmie Clemons |
 | 351 | 262 | Kristin Delibac Corrigan |
 | 352 | 258 | IamJust Neyamijah Washington Sr. |
 | 353 | 257 | Naur |
