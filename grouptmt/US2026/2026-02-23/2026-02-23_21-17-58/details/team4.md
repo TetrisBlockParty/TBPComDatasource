@@ -90,8 +90,8 @@
 | 82 | 826 | Rica Mitchell |
 | 83 | 802 | Crystal Carroll |
 | 84 | 794 | Chilly Line |
-| 85 | 783 | Denise Carlson |
-| 86 | 783 | Guy Incognito |
+| 85 | 783 | Guy Incognito |
+| 86 | 783 | Denise Carlson |
 | 87 | 775 | Klo |
 | 88 | 768 | Judy Cox |
 | 89 | 767 | Shannon Ferrari |
@@ -220,8 +220,8 @@
 | 212 | 413 | Circuit8 |
 | 213 | 413 | John Brunetti |
 | 214 | 412 | Chris Bernstein |
-| 215 | 411 | Mimi |
-| 216 | 411 | Silly Zonebuilder |
+| 215 | 411 | Silly Zonebuilder |
+| 216 | 411 | Mimi |
 | 217 | 411 | Autumn Kumzi |
 | 218 | 400 | Antony Dwayne Beasley |
 | 219 | 399 | Lindsay Ball |
@@ -300,8 +300,8 @@
 | 292 | 305 | Megan Cutshaw |
 | 293 | 304 | Shiny Fit |
 | 294 | 301 | Erin Sabol |
-| 295 | 300 | Kate |
-| 296 | 300 | Dana Scott |
+| 295 | 300 | Dana Scott |
+| 296 | 300 | Kate |
 | 297 | 298 | Chance Strickland |
 | 298 | 297 | Kim Klutz Olson |
 | 299 | 297 | Kenna Gunderland |
@@ -325,8 +325,8 @@
 | 317 | 289 | Deb Rubeck |
 | 318 | 288 | Amy Jean |
 | 319 | 287 | Duck |
-| 320 | 284 | Malakai Darien Fox |
-| 321 | 284 | Glitzy Corner |
+| 320 | 284 | Glitzy Corner |
+| 321 | 284 | Malakai Darien Fox |
 | 322 | 283 | Jackie Clark |
 | 323 | 282 | rebel4lyfe |
 | 324 | 282 | DQ Martin |

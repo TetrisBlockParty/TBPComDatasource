@@ -394,8 +394,8 @@
 | 386 | 345 | Misha Sanders |
 | 387 | 345 | victory |
 | 388 | 344 | Beaudie Stroebel |
-| 389 | 342 | Cynthia Herrmann Egland |
-| 390 | 342 | Christina Marie Swisher |
+| 389 | 342 | Christina Marie Swisher |
+| 390 | 342 | Cynthia Herrmann Egland |
 | 391 | 341 | Lys |
 | 392 | 340 | Erika Thornton |
 | 393 | 340 | Kerry Nowickshere |
@@ -637,7 +637,7 @@
 | 629 | 234 | Alicia |
 | 630 | 234 | Danette Marie |
 | 631 | 234 | Cheeky Twisterfit |
-| 632 | 234 | Danette Marie |
+| 632 | 234 | Ginger Gray |
 | 633 | 233 | Brian Quigley |
 | 634 | 233 | Jaimie Thomas |
 | 635 | 233 | Criss |

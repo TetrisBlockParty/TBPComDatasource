@@ -165,8 +165,8 @@
 | 157 | 486 | Michelle Beres |
 | 158 | 483 | Trina Gee |
 | 159 | 482 | Sarah Somers Gray |
-| 160 | 476 | phrmblk24 |
-| 161 | 476 | Ly Phethmany |
+| 160 | 476 | Ly Phethmany |
+| 161 | 476 | phrmblk24 |
 | 162 | 470 | Candy Jones |
 | 163 | 468 | Steve Schneider |
 | 164 | 463 | Nicole Roseberry Weber |
@@ -235,11 +235,11 @@
 | 227 | 371 | Chuck Gannon |
 | 228 | 370 | Gracie |
 | 229 | 366 | J.F. Fields |
-| 230 | 365 | Amanda Holibaugh |
-| 231 | 365 | Shannon Marie Pitts |
+| 230 | 365 | Shannon Marie Pitts |
+| 231 | 365 | Amanda Holibaugh |
 | 232 | 365 | Lakeisha Chapman |
-| 233 | 364 | Shauna Loe |
-| 234 | 364 | Serina Marie |
+| 233 | 364 | Serina Marie |
+| 234 | 364 | Shauna Loe |
 | 235 | 363 | Jerry Danowski |
 | 236 | 359 | Jo Kerley |
 | 237 | 359 | Oscar Zamora |
@@ -273,8 +273,8 @@
 | 265 | 337 | Lindsay Glover |
 | 266 | 336 | Adele Rahman |
 | 267 | 335 | Flashy Rotator |
-| 268 | 334 | Tipsy Builder |
-| 269 | 334 | Colleen Pinette |
+| 268 | 334 | Colleen Pinette |
+| 269 | 334 | Tipsy Builder |
 | 270 | 333 | Wayne Saunders |
 | 271 | 333 | Rodney Schmerfeld |
 | 272 | 332 | Eddie Dillon |
@@ -515,7 +515,7 @@
 | 507 | 193 | Lachelle Dillon |
 | 508 | 193 | Rayshawn Beamer |
 | 509 | 192 | Melissa Ann Macko |
-| 510 | 191 | Jasmine Riley |
+| 510 | 191 | John Garza |
 | 511 | 191 | Garcia Bailey |
 | 512 | 191 | Jasmine Riley |
 | 513 | 191 | Slinky Rotater |

@@ -211,8 +211,8 @@
 | 203 | 1578 | Christine Egidio Morocco |
 | 204 | 1569 | Ashley Dow |
 | 205 | 1565 | Nancy Reid |
-| 206 | 1558 | Tim Dyer |
-| 207 | 1558 | Crystal Slaughter |
+| 206 | 1558 | Crystal Slaughter |
+| 207 | 1558 | Tim Dyer |
 | 208 | 1557 | Poppy Snap |
 | 209 | 1556 | Tonya Morgan |
 | 210 | 1554 | Howard Forest |
@@ -482,8 +482,8 @@
 | 474 | 833 | Christie |
 | 475 | 832 | Catherine Marsh Gruda |
 | 476 | 832 | Nicole L Morelli |
-| 477 | 831 | Victoria Moore-Smith |
-| 478 | 831 | Gary Stash |
+| 477 | 831 | Gary Stash |
+| 478 | 831 | Victoria Moore-Smith |
 | 479 | 830 | Sabrina Burton |
 | 480 | 828 | Connie Jimenez |
 | 481 | 828 | Shantel Kelley |
@@ -1858,7 +1858,7 @@
 | 1850 | 288 | Charlotte Phelps |
 | 1851 | 288 | Mandy Bolia |
 | 1852 | 288 | Zappy Puzzler |
-| 1853 | 288 | Charlotte Phelps |
+| 1853 | 288 | thranduil |
 | 1854 | 288 | Samantha Angelo |
 | 1855 | 288 | Myiash Davis |
 | 1856 | 288 | Jessica Ross |
