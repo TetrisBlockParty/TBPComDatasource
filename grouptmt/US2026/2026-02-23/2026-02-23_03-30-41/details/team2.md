@@ -291,7 +291,7 @@
 | 283 | 972 | Barbra Miller |
 | 284 | 972 | Binyah-Binyah |
 | 285 | 972 | Juliana Marques Do Nascimento Gordy |
-| 286 | 972 | Binyah-Binyah |
+| 286 | 972 | Della Hole |
 | 287 | 969 | Missie Lawson Gebhardt |
 | 288 | 966 | Jojo Momma |
 | 289 | 958 | Brenda Messer |
@@ -350,8 +350,8 @@
 | 342 | 833 | Moni Foxe |
 | 343 | 831 | Christina Lewis-Vickers |
 | 344 | 830 | Diallo Sparkman |
-| 345 | 824 | Khalil Lowe |
-| 346 | 824 | Danielle Johnson-Chandler |
+| 345 | 824 | Danielle Johnson-Chandler |
+| 346 | 824 | Khalil Lowe |
 | 347 | 823 | Alezandra Smith |
 | 348 | 822 | Lola Contreras |
 | 349 | 821 | Angie Bolton Workman |
@@ -403,8 +403,8 @@
 | 395 | 755 | Taryece Gause |
 | 396 | 751 | Loony Snapper |
 | 397 | 748 | Spunkysmom |
-| 398 | 748 | Brenda Utphall |
-| 399 | 748 | Stephanie Lumanlan |
+| 398 | 748 | Stephanie Lumanlan |
+| 399 | 748 | Brenda Utphall |
 | 400 | 747 | Kiely Tomaskovich |
 | 401 | 746 | Leslie Ann Carter |
 | 402 | 746 | Jerilyn Andrina |
@@ -414,8 +414,8 @@
 | 406 | 742 | Crystie Hicks |
 | 407 | 741 | Jánine Riggs |
 | 408 | 740 | Jerry Tempelmeyer |
-| 409 | 737 | Chelle |
-| 410 | 737 | Jeremy Parodi |
+| 409 | 737 | Jeremy Parodi |
+| 410 | 737 | Chelle |
 | 411 | 737 | Ginger |
 | 412 | 734 | Allan Wayne Lamia |
 | 413 | 734 | Ashley Guernsey-Martin |
@@ -838,7 +838,7 @@
 | 830 | 398 | TF Dyer |
 | 831 | 398 | Christina Jarvis-Swarbrick |
 | 832 | 398 | Juan Killyoselfifudontlikeme Ronaldo |
-| 833 | 397 | Cris cris |
+| 833 | 397 | Dawn Woosley Bowes |
 | 834 | 397 | Jessica Conaway |
 | 835 | 397 | Cris cris |
 | 836 | 396 | Cassie Newton |
@@ -1117,7 +1117,7 @@
 | 1109 | 307 | Lazy Riseclear |
 | 1110 | 306 | Amanda Segura |
 | 1111 | 306 | Dandy Combo |
-| 1112 | 306 | Amanda Segura |
+| 1112 | 306 | Chill Strike |
 | 1113 | 306 | Sedo |
 | 1114 | 306 | Zak Dunn |
 | 1115 | 305 | Sandra Link-Gable |

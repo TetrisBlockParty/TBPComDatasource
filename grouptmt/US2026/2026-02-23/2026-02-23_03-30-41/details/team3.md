@@ -173,8 +173,8 @@
 | 165 | 562 | Dave Herzog |
 | 166 | 557 | Michael Nowogorski |
 | 167 | 553 | LaTanya GeminiondaRise Johnson |
-| 168 | 546 | Cynthia Castros-Hampton |
-| 169 | 546 | Mykal Burton |
+| 168 | 546 | Mykal Burton |
+| 169 | 546 | Cynthia Castros-Hampton |
 | 170 | 540 | Elissa S-k |
 | 171 | 540 | Shawn Miller |
 | 172 | 535 | Jone |
@@ -278,15 +278,15 @@
 | 270 | 346 | Tamara Deherrera |
 | 271 | 345 | MsBee |
 | 272 | 344 | Roary Danner |
-| 273 | 343 | Ashley Raines |
-| 274 | 343 | Ashley Rufus Bythcez |
+| 273 | 343 | Ashley Rufus Bythcez |
+| 274 | 343 | Ashley Raines |
 | 275 | 341 | Ashley Tookes |
 | 276 | 339 | Cynthia Herrmann Egland |
 | 277 | 338 | Gumbo |
 | 278 | 336 | Jojo M |
 | 279 | 335 | victory |
-| 280 | 332 | Velma Mull |
-| 281 | 332 | Brittany |
+| 280 | 332 | Brittany |
+| 281 | 332 | Velma Mull |
 | 282 | 331 | Gray Hicks |
 | 283 | 326 | Kerry Nowickshere |
 | 284 | 325 | Tasha Wesson-Torrence |
