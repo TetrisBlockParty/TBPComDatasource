@@ -267,8 +267,8 @@
 | 259 | 1259 | Foxxo |
 | 260 | 1258 | Cassie Mercer |
 | 261 | 1258 | Brandon Armstrong |
-| 262 | 1257 | Megan Garrick |
-| 263 | 1257 | Megan Ferguson Leone |
+| 262 | 1257 | Megan Ferguson Leone |
+| 263 | 1257 | Megan Garrick |
 | 264 | 1253 | Roman Lavochnik |
 | 265 | 1241 | Jennifer Casey-Kay |
 | 266 | 1238 | Groovy Puzzle |
@@ -302,8 +302,8 @@
 | 294 | 1163 | Erika Densmore |
 | 295 | 1161 | Sarah Freitas |
 | 296 | 1158 | Brittany Clark |
-| 297 | 1156 | Alezandra Smith |
-| 298 | 1156 | Arkei Luster |
+| 297 | 1156 | Arkei Luster |
+| 298 | 1156 | Alezandra Smith |
 | 299 | 1150 | Prado |
 | 300 | 1145 | Christine Egidio Morocco |
 | 301 | 1145 | Deborah Miller |
@@ -690,8 +690,8 @@
 | 682 | 611 | Autumn Schaeffer |
 | 683 | 608 | Tash Bell |
 | 684 | 607 | Slip |
-| 685 | 606 | Mike Aprilliano |
-| 686 | 606 | Lea Stewart |
+| 685 | 606 | Lea Stewart |
+| 686 | 606 | Mike Aprilliano |
 | 687 | 605 | Mandi Marie Smith |
 | 688 | 605 | Jermaine Harris |
 | 689 | 604 | Rae Rae |
@@ -705,10 +705,10 @@
 | 697 | 598 | Giggly Snap |
 | 698 | 597 | Michelle Sager |
 | 699 | 597 | TJ Nash |
-| 700 | 596 | Davetta Sanford |
-| 701 | 596 | Ben Barkley |
-| 702 | 595 | Ha Ab |
-| 703 | 595 | Lewis Sturgeon |
+| 700 | 596 | Ben Barkley |
+| 701 | 596 | Davetta Sanford |
+| 702 | 595 | Lewis Sturgeon |
+| 703 | 595 | Ha Ab |
 | 704 | 594 | Frank Castle |
 | 705 | 592 | Melissa Kay Gibson |
 | 706 | 592 | Wuntayk |
@@ -718,8 +718,8 @@
 | 710 | 590 | Maddy Petersen |
 | 711 | 589 | Thomas Hedrick |
 | 712 | 589 | Kelly Templeton |
-| 713 | 588 | Kitybox |
-| 714 | 588 | Mrs. New |
+| 713 | 588 | Mrs. New |
+| 714 | 588 | Kitybox |
 | 715 | 586 | Tra Barnum |
 | 716 | 585 | Taylor Flowers |
 | 717 | 585 | Shelva Richard |

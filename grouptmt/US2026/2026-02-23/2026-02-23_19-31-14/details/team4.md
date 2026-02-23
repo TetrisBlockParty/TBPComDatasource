@@ -116,8 +116,8 @@
 | 108 | 667 | Amy Suckarieh |
 | 109 | 663 | H.R. Block |
 | 110 | 659 | Jamie Gustafson |
-| 111 | 658 | Zippy Gridlock |
-| 112 | 658 | Girl |
+| 111 | 658 | Girl |
+| 112 | 658 | Zippy Gridlock |
 | 113 | 652 | Leslie Nicole |
 | 114 | 649 | Chris Alexinas |
 | 115 | 647 | KM8 |
@@ -155,8 +155,8 @@
 | 147 | 520 | Zippy Block |
 | 148 | 518 | Carly Alexis |
 | 149 | 516 | Trish |
-| 150 | 514 | Lucas J Sutton |
-| 151 | 514 | Scott Jameson |
+| 150 | 514 | Scott Jameson |
+| 151 | 514 | Lucas J Sutton |
 | 152 | 513 | Erin Thomas |
 | 153 | 512 | ThaEviLJeNiuZ |
 | 154 | 512 | Angela Srubar-Norman |
@@ -167,8 +167,8 @@
 | 159 | 498 | Melissa Adams |
 | 160 | 498 | Nope Young |
 | 161 | 496 | Jessica Lynn Cutlip |
-| 162 | 491 | Jade Rian |
-| 163 | 491 | Carrie Brian |
+| 162 | 491 | Carrie Brian |
+| 163 | 491 | Jade Rian |
 | 164 | 486 | Swanky Fitline |
 | 165 | 485 | Rico |
 | 166 | 480 | Brandon Crabbs |
@@ -240,8 +240,8 @@
 | 232 | 367 | Sue Joyce Staats |
 | 233 | 365 | Hyper Builder |
 | 234 | 363 | Googenheim |
-| 235 | 363 | Cindy Looper |
-| 236 | 363 | Cheery Risebuilder |
+| 235 | 363 | Cheery Risebuilder |
+| 236 | 363 | Cindy Looper |
 | 237 | 362 | Meg |
 | 238 | 361 | Rafael Valentin |
 | 239 | 361 | Danielle Kollias |
@@ -429,8 +429,8 @@
 | 421 | 217 | Cheery Fitline |
 | 422 | 216 | Ryry |
 | 423 | 216 | Funky Risepiece |
-| 424 | 215 | Squeezy Pearsall |
-| 425 | 215 | Tanya Abernathy Jackson |
+| 424 | 215 | Tanya Abernathy Jackson |
+| 425 | 215 | Squeezy Pearsall |
 | 426 | 214 | B Renee Desjardin |
 | 427 | 214 | Susan R. Wilson |
 | 428 | 214 | Victoria Faniel |
@@ -553,11 +553,11 @@
 | 545 | 167 | Tipsy Cascader |
 | 546 | 166 | Reds Bella |
 | 547 | 166 | Lynn Marie |
-| 548 | 166 | Reds Bella |
-| 549 | 166 | Frank Joseph Epson |
-| 550 | 166 | Jonathan Mahfood |
-| 551 | 165 | Dapper Caster |
-| 552 | 165 | Sassy Pattern |
+| 548 | 166 | Tabitha Calvin |
+| 549 | 166 | Jonathan Mahfood |
+| 550 | 166 | Frank Joseph Epson |
+| 551 | 165 | Sassy Pattern |
+| 552 | 165 | Dapper Caster |
 | 553 | 165 | Zappy Buildgrid |
 | 554 | 164 | Smiley Shifter |
 | 555 | 164 | Bussy Bay |
@@ -784,7 +784,7 @@
 | 776 | 108 | Saundra Miller |
 | 777 | 108 | Willa Anne Nold Kay |
 | 778 | 108 | Ali Ian |
-| 779 | 108 | Bob Moores |
+| 779 | 108 | Kevin Blevins |
 | 780 | 108 | Tabi Williams |
 | 781 | 107 | mitch |
 | 782 | 107 | Griffen |

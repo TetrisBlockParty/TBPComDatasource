@@ -350,10 +350,10 @@
 | 342 | 368 | Sheila M Frazier |
 | 343 | 368 | Stephanie Woods |
 | 344 | 367 | Swanky Snapclear |
-| 345 | 366 | Jul |
-| 346 | 366 | KayB |
-| 347 | 365 | Breanna Marsden |
-| 348 | 365 | LaShey Thompson |
+| 345 | 366 | KayB |
+| 346 | 366 | Jul |
+| 347 | 365 | LaShey Thompson |
+| 348 | 365 | Breanna Marsden |
 | 349 | 364 | ROODBOY |
 | 350 | 362 | Foltz Lee Kelli |
 | 351 | 362 | Brandon Givens |
@@ -403,8 +403,8 @@
 | 395 | 328 | Cesar Mendez |
 | 396 | 327 | Tiffanie Alley |
 | 397 | 327 | Jimmie Clemons |
-| 398 | 326 | Norma JulieMay |
-| 399 | 326 | Nelma |
+| 398 | 326 | Nelma |
+| 399 | 326 | Norma JulieMay |
 | 400 | 326 | Kerry Nowickshere |
 | 401 | 324 | Goofy Fall |
 | 402 | 324 | Blair Erin Waite |
