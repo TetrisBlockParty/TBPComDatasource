@@ -219,8 +219,8 @@
 | 211 | 437 | Loopy Clusterer |
 | 212 | 436 | Danielle Weikel |
 | 213 | 435 | Fallorina Susana |
-| 214 | 432 | Luciana Braganca Vieira |
-| 215 | 432 | Christine Trester |
+| 214 | 432 | Christine Trester |
+| 215 | 432 | Luciana Braganca Vieira |
 | 216 | 431 | Wendy Dearden |
 | 217 | 431 | Felicia Rocha |
 | 218 | 430 | Jeni Dow |
@@ -270,13 +270,13 @@
 | 262 | 357 | Cesar Barraza |
 | 263 | 354 | Kelly |
 | 264 | 353 | Dee Franklin |
-| 265 | 352 | Christian Werndl |
-| 266 | 352 | Samantha Lynn |
+| 265 | 352 | Samantha Lynn |
+| 266 | 352 | Christian Werndl |
 | 267 | 351 | Eon Harris |
 | 268 | 349 | Amanda J. Mcneil-Anderson |
 | 269 | 348 | Cyd061769 |
-| 270 | 347 | Tye Stovall |
-| 271 | 347 | Philip Rock |
+| 270 | 347 | Philip Rock |
+| 271 | 347 | Tye Stovall |
 | 272 | 346 | Tamara Deherrera |
 | 273 | 345 | MsBee |
 | 274 | 344 | Roary Danner |
@@ -287,8 +287,8 @@
 | 279 | 339 | Cynthia Herrmann Egland |
 | 280 | 336 | Jojo M |
 | 281 | 335 | victory |
-| 282 | 332 | Velma Mull |
-| 283 | 332 | Brittany |
+| 282 | 332 | Brittany |
+| 283 | 332 | Velma Mull |
 | 284 | 331 | Gray Hicks |
 | 285 | 326 | Kerry Nowickshere |
 | 286 | 325 | Tasha Wesson-Torrence |

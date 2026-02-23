@@ -46,8 +46,8 @@
 | 38 | 998 | Jorge Andrade |
 | 39 | 966 | Shalene Frederick Autrey |
 | 40 | 964 | Carrie Beck Geartz |
-| 41 | 953 | Derek MF Blakey |
-| 42 | 953 | Hyp James NObettadanluvarat |
+| 41 | 953 | Hyp James NObettadanluvarat |
+| 42 | 953 | Derek MF Blakey |
 | 43 | 945 | Amber Stoker |
 | 44 | 931 | Christina Costantino |
 | 45 | 919 | Chipper Gridlock |
@@ -102,8 +102,8 @@
 | 94 | 519 | Ryan Lunnin |
 | 95 | 510 | Colena Davenport |
 | 96 | 496 | Arianna O'Brien |
-| 97 | 493 | MomMom |
-| 98 | 493 | Jennifer ManWarren |
+| 97 | 493 | Jennifer ManWarren |
+| 98 | 493 | MomMom |
 | 99 | 492 | Ash Galvan |
 | 100 | 489 | Deanna L Hermanson |
 | 101 | 488 | cc |
@@ -148,8 +148,8 @@
 | 140 | 380 | phrmblk24 |
 | 141 | 379 | Austin James |
 | 142 | 379 | Kimmie Kimms |
-| 143 | 376 | Death |
-| 144 | 376 | Brian Richardsson |
+| 143 | 376 | Brian Richardsson |
+| 144 | 376 | Death |
 | 145 | 375 | Tanya Carpenter-Reynolds |
 | 146 | 375 | Monica Donato |
 | 147 | 371 | Jason Savage |
@@ -175,8 +175,8 @@
 | 167 | 341 | Nick R Montague |
 | 168 | 339 | Nicole Roseberry Weber |
 | 169 | 338 | Jennifer Hardman |
-| 170 | 337 | Jamise Brown |
-| 171 | 337 | Constance Risner |
+| 170 | 337 | Constance Risner |
+| 171 | 337 | Jamise Brown |
 | 172 | 336 | Dizzy Party |
 | 173 | 333 | Gracie |
 | 174 | 332 | Lehrin Maria |
@@ -203,8 +203,8 @@
 | 195 | 304 | ALFD |
 | 196 | 301 | Damon J. Martin |
 | 197 | 297 | Jen Nystrom |
-| 198 | 296 | Cody Gates |
-| 199 | 296 | Witty Builderfit |
+| 198 | 296 | Witty Builderfit |
+| 199 | 296 | Cody Gates |
 | 200 | 295 | Sleepysloath5745 |
 | 201 | 294 | Bindi |
 | 202 | 293 | John Kim |

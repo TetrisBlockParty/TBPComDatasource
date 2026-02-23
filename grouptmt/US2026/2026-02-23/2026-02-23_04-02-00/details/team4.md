@@ -142,8 +142,8 @@
 | 134 | 421 | JIGsaw ~(•¿°)~ |
 | 135 | 421 | Kesha Brady |
 | 136 | 419 | Klo |
-| 137 | 418 | Lush Linkfall |
-| 138 | 418 | Marie-Pier Desjardins |
+| 137 | 418 | Marie-Pier Desjardins |
+| 138 | 418 | Lush Linkfall |
 | 139 | 416 | Chaz Duncan |
 | 140 | 414 | Nope Young |
 | 141 | 412 | Jessica Bohlken |
@@ -285,8 +285,8 @@
 | 277 | 225 | Jenna McGeorge |
 | 278 | 223 | Adawna Swires |
 | 279 | 223 | Amanda Christine |
-| 280 | 222 | Chance Strickland |
-| 281 | 222 | Brandi Durig |
+| 280 | 222 | Brandi Durig |
+| 281 | 222 | Chance Strickland |
 | 282 | 222 | Angelito |
 | 283 | 221 | PurpleMoonMa |
 | 284 | 221 | Rheanda Weaskus |

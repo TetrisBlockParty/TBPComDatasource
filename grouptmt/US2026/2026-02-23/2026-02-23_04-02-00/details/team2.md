@@ -104,8 +104,8 @@
 | 96 | 2170 | Steve Grotto |
 | 97 | 2165 | Tj Ball |
 | 98 | 2155 | Qiana Sanders |
-| 99 | 2148 | Roger Grabbit |
-| 100 | 2148 | ShinyRose |
+| 99 | 2148 | ShinyRose |
+| 100 | 2148 | Roger Grabbit |
 | 101 | 2146 | KellyDyan |
 | 102 | 2106 | Cool Rollpiece |
 | 103 | 2103 | Alisha Peoples |
@@ -335,8 +335,8 @@
 | 327 | 888 | Donna M Carter |
 | 328 | 888 | Felicia Lynn |
 | 329 | 885 | Wakanda Forever |
-| 330 | 884 | Adira Brown |
-| 331 | 884 | Steve Man |
+| 330 | 884 | Steve Man |
+| 331 | 884 | Adira Brown |
 | 332 | 883 | Hong Tang |
 | 333 | 882 | Nashu |
 | 334 | 879 | Lemonaide |
@@ -401,10 +401,10 @@
 | 393 | 767 | Ashley Lopez |
 | 394 | 763 | Dreamy Blast |
 | 395 | 763 | Heather Causey |
-| 396 | 760 | Andrew Willis |
-| 397 | 760 | Cheech Dta |
-| 398 | 758 | Quirky Twistline |
-| 399 | 758 | Stephanie Neuburger |
+| 396 | 760 | Cheech Dta |
+| 397 | 760 | Andrew Willis |
+| 398 | 758 | Stephanie Neuburger |
+| 399 | 758 | Quirky Twistline |
 | 400 | 756 | Kiely Tomaskovich |
 | 401 | 755 | Taryece Gause |
 | 402 | 753 | Kimmy Newman |
@@ -429,8 +429,8 @@
 | 421 | 731 | Charvi' Carter |
 | 422 | 730 | Hoppy Brickmatch |
 | 423 | 729 | goofinoff |
-| 424 | 728 | Tom Riefer |
-| 425 | 728 | Dylan Thomason |
+| 424 | 728 | Dylan Thomason |
+| 425 | 728 | Tom Riefer |
 | 426 | 725 | Vonceial Boone |
 | 427 | 724 | Melissa Holsinger |
 | 428 | 722 | tejas25 |
@@ -441,9 +441,9 @@
 | 433 | 714 | Caitlyn Blackwell |
 | 434 | 713 | Christie |
 | 435 | 711 | Narutofreak13 |
-| 436 | 709 | Bee |
-| 437 | 709 | Draizen Montrell Thomas |
-| 438 | 709 | Marie Walker |
+| 436 | 709 | Marie Walker |
+| 437 | 709 | Bee |
+| 438 | 709 | Draizen Montrell Thomas |
 | 439 | 708 | Jelly |
 | 440 | 707 | Mama T |
 | 441 | 706 | Kimberly Randesi |
@@ -1035,8 +1035,8 @@
 | 1027 | 335 | FloJo |
 | 1028 | 335 | Nancy Pohlman |
 | 1029 | 335 | Brooke Leigh Strube |
-| 1030 | 334 | Tina Wright-Quigley |
-| 1031 | 334 | Toni Lynn |
+| 1030 | 334 | Toni Lynn |
+| 1031 | 334 | Tina Wright-Quigley |
 | 1032 | 333 | Dad |
 | 1033 | 333 | Erika Deer Kauffman |
 | 1034 | 333 | Paula Martinez |
