@@ -142,8 +142,8 @@
 | 134 | 774 | Keith J Oshman Jr. |
 | 135 | 773 | Daira Largen |
 | 136 | 770 | Daryn Elliott |
-| 137 | 764 | Groovy Catcher |
-| 138 | 764 | Hasty Cascadefit |
+| 137 | 764 | Hasty Cascadefit |
+| 138 | 764 | Groovy Catcher |
 | 139 | 762 | Speedy Bridger |
 | 140 | 759 | yoyo |
 | 141 | 758 | Tasha Schriewer |
@@ -267,8 +267,8 @@
 | 259 | 451 | Micayah Stevens |
 | 260 | 449 | Mcathen |
 | 261 | 448 | Scott Carleton |
-| 262 | 443 | Stefanie LaPointe |
-| 263 | 443 | Fancy Curver |
+| 262 | 443 | Fancy Curver |
+| 263 | 443 | Stefanie LaPointe |
 | 264 | 443 | Randy Clevenger |
 | 265 | 442 | Marquita Sheard |
 | 266 | 439 | Nichol Graham |
@@ -484,7 +484,7 @@
 | 476 | 268 | Julia Nicole |
 | 477 | 267 | Michael Kimbro |
 | 478 | 267 | April Matthew Kibble |
-| 479 | 266 | Sarah Muradyan |
+| 479 | 266 | Quirky Dropzone |
 | 480 | 266 | Sarah Mayson |
 | 481 | 266 | Sarah Muradyan |
 | 482 | 265 | Giggy Glidepiece |

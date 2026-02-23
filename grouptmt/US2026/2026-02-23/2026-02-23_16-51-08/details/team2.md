@@ -376,8 +376,8 @@
 | 368 | 941 | Cool Clearer |
 | 369 | 939 | Mighty Shatterfit |
 | 370 | 937 | Andrew Willis |
-| 371 | 933 | Bee |
-| 372 | 933 | Nicole Cannon |
+| 371 | 933 | Nicole Cannon |
+| 372 | 933 | Bee |
 | 373 | 929 | Ellie Jonas |
 | 374 | 928 | Elizabeth Wilbanks |
 | 375 | 919 | Isaac Trappiel IV |
@@ -390,12 +390,12 @@
 | 382 | 907 | Gene Mills |
 | 383 | 907 | Kayla |
 | 384 | 904 | John Bednarik |
-| 385 | 903 | Giggy Blocker |
-| 386 | 903 | Eric Castaneda |
+| 385 | 903 | Eric Castaneda |
+| 386 | 903 | Giggy Blocker |
 | 387 | 902 | Diallo Sparkman |
 | 388 | 899 | Felicia Lynn |
-| 389 | 899 | Chevy |
-| 390 | 899 | Patrick Bartlett |
+| 389 | 899 | Patrick Bartlett |
+| 390 | 899 | Chevy |
 | 391 | 898 | Donna M Carter |
 | 392 | 896 | Alyssa Hileman |
 | 393 | 895 | Donna Colby |
