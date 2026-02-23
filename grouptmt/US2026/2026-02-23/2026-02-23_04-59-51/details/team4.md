@@ -79,8 +79,8 @@
 | 71 | 749 | Dustee Craddock-Harrison |
 | 72 | 742 | Carolyn Wallace |
 | 73 | 740 | Avy Absol |
-| 74 | 736 | Crystal Carroll |
-| 75 | 736 | Goatimus Lombardi |
+| 74 | 736 | Goatimus Lombardi |
+| 75 | 736 | Crystal Carroll |
 | 76 | 721 | TheNeesh50 |
 | 77 | 717 | D3TROITB0RN74 |
 | 78 | 706 | Lisa Davis |
@@ -119,8 +119,8 @@
 | 111 | 519 | Nugget |
 | 112 | 517 | Christina LR |
 | 113 | 517 | shar |
-| 114 | 514 | Scott Jameson |
-| 115 | 514 | Serena Goodridge |
+| 114 | 514 | Serena Goodridge |
+| 115 | 514 | Scott Jameson |
 | 116 | 513 | Erin Thomas |
 | 117 | 512 | Cristy Duerksen |
 | 118 | 512 | Casey Jeffcoat |
@@ -172,18 +172,18 @@
 | 164 | 368 | Silly Zonebuilder |
 | 165 | 368 | Brandon Crabbs |
 | 166 | 365 | Jeff Brian Gates |
-| 167 | 361 | Melissa Adams |
-| 168 | 361 | Danielle Kollias |
+| 167 | 361 | Danielle Kollias |
+| 168 | 361 | Melissa Adams |
 | 169 | 359 | Keith Kelley |
 | 170 | 358 | A5! |
 | 171 | 356 | George Nutt |
 | 172 | 352 | Sue Joyce Staats |
 | 173 | 350 | TRCuse |
-| 174 | 349 | Rafael Valentin |
-| 175 | 349 | Twisty Cascadezone |
+| 174 | 349 | Twisty Cascadezone |
+| 175 | 349 | Rafael Valentin |
 | 176 | 348 | April Rondinone |
-| 177 | 347 | Daria Rycewicz |
-| 178 | 347 | Crystal Nicolette Moore |
+| 177 | 347 | Crystal Nicolette Moore |
+| 178 | 347 | Daria Rycewicz |
 | 179 | 339 | David Lay |
 | 180 | 334 | Kris Bartlett |
 | 181 | 333 | shark tato |
@@ -212,8 +212,8 @@
 | 204 | 300 | Zakia Monae |
 | 205 | 300 | Dihcheese444 |
 | 206 | 295 | Keshia Lyons |
-| 207 | 294 | Calvin Cannon |
-| 208 | 294 | Porkobello |
+| 207 | 294 | Porkobello |
+| 208 | 294 | Calvin Cannon |
 | 209 | 292 | Epic Curvetile |
 | 210 | 290 | Jared Gutwein |
 | 211 | 290 | Plucky Patternblock |
@@ -255,8 +255,8 @@
 | 247 | 256 | Metsfan |
 | 248 | 255 | Zethra Prenisha Rahming |
 | 249 | 253 | Autum Leigh |
-| 250 | 252 | John Brunetti |
-| 251 | 252 | Cynthia Boudreau |
+| 250 | 252 | Cynthia Boudreau |
+| 251 | 252 | John Brunetti |
 | 252 | 251 | Carol Ricks Raymond |
 | 253 | 251 | Jade Rian |
 | 254 | 249 | Ak Jones |

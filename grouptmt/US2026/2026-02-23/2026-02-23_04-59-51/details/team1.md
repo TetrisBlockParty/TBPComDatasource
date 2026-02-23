@@ -96,8 +96,8 @@
 | 88 | 570 | Cody Slav |
 | 89 | 562 | Denice Dee |
 | 90 | 537 | Tee Sheree |
-| 91 | 534 | Loony Fitzone |
-| 92 | 534 | Veronica Eve |
+| 91 | 534 | Veronica Eve |
+| 92 | 534 | Loony Fitzone |
 | 93 | 532 | Robert Benito |
 | 94 | 529 | Ryan Lunnin |
 | 95 | 522 | Sarah Lombardo |
@@ -360,7 +360,7 @@
 | 352 | 190 | Sweetts |
 | 353 | 189 | Tawnya Peltonen |
 | 354 | 188 | Brian Taylor |
-| 355 | 187 | Bob |
+| 355 | 187 | Jessica Weed |
 | 356 | 187 | Mark Smith |
 | 357 | 187 | Bob |
 | 358 | 186 | Nikki Fridley |
@@ -579,10 +579,10 @@
 | 571 | 120 | Steven Collins |
 | 572 | 119 | Francine-frankie Ritzio-Rizzo |
 | 573 | 119 | sassy |
-| 574 | 118 | Jade |
+| 574 | 118 | Kerry Lee Powell |
 | 575 | 118 | Stacey Ours |
-| 576 | 118 | Kerry Lee Powell |
-| 577 | 118 | Mighty Shatterfit |
+| 576 | 118 | Mighty Shatterfit |
+| 577 | 118 | Jade |
 | 578 | 117 | Christine Smith |
 | 579 | 116 | Peppy Columnbuilder |
 | 580 | 116 | Rachel Rogers |
@@ -709,7 +709,7 @@
 | 701 | 95 | Shannon Guilloty |
 | 702 | 95 | Nevaeh Mattox |
 | 703 | 95 | bgiu |
-| 704 | 95 | Nevaeh Mattox |
+| 704 | 95 | Twisty Wipeout |
 | 705 | 95 | Tate Blondin |
 | 706 | 95 | Walter Brown |
 | 707 | 94 | Rayshawn Beamer |

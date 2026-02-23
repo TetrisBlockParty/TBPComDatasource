@@ -166,8 +166,8 @@
 | 158 | 591 | Michael Nowogorski |
 | 159 | 588 | Justin Ritter |
 | 160 | 587 | Louise Stacy Sisson |
-| 161 | 585 | Happy Tetriblast |
-| 162 | 585 | Annie Marie |
+| 161 | 585 | Annie Marie |
+| 162 | 585 | Happy Tetriblast |
 | 163 | 582 | Natasha Jones |
 | 164 | 579 | Tasha Gillespie |
 | 165 | 577 | Domo Washington |
@@ -184,8 +184,8 @@
 | 176 | 541 | Tasha Schriewer |
 | 177 | 540 | Shawn Miller |
 | 178 | 535 | Jone |
-| 179 | 531 | Chauntee Alfrey-Cardinale |
-| 180 | 531 | Sarah Cowan Burgos |
+| 179 | 531 | Sarah Cowan Burgos |
+| 180 | 531 | Chauntee Alfrey-Cardinale |
 | 181 | 528 | Silly Twist |
 | 182 | 524 | Bmo |
 | 183 | 519 | rnr junky |
@@ -335,8 +335,8 @@
 | 327 | 289 | Salena Whitlock |
 | 328 | 289 | DidIdothat |
 | 329 | 288 | Stephanie Bradley |
-| 330 | 287 | Sabrina Hardrick |
-| 331 | 287 | Carol Cain Thurman |
+| 330 | 287 | Carol Cain Thurman |
+| 331 | 287 | Sabrina Hardrick |
 | 332 | 287 | Hoppy Patternline |
 | 333 | 286 | Micayah Stevens |
 | 334 | 284 | Hanna Kim |
@@ -489,8 +489,8 @@
 | 481 | 209 | MizzMonick Smith |
 | 482 | 209 | Jumpy Wrecker |
 | 483 | 209 | TazB |
-| 484 | 208 | Jessica Christian |
-| 485 | 208 | Angel Miller |
+| 484 | 208 | Angel Miller |
+| 485 | 208 | Jessica Christian |
 | 486 | 208 | Luccy Luxe |
 | 487 | 207 | Nichol Graham |
 | 488 | 207 | Misstery |

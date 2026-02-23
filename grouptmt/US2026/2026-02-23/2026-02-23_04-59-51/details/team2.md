@@ -207,8 +207,8 @@
 | 199 | 1300 | Tacara Cummings |
 | 200 | 1293 | Anna Edwards |
 | 201 | 1286 | Altamirano Michael |
-| 202 | 1282 | Tanya Parsons |
-| 203 | 1282 | Ashley Rose Frederick |
+| 202 | 1282 | Ashley Rose Frederick |
+| 203 | 1282 | Tanya Parsons |
 | 204 | 1259 | Foxxo |
 | 205 | 1258 | Joyce Johnson Vaughn |
 | 206 | 1252 | Angel |
@@ -294,8 +294,8 @@
 | 286 | 987 | Osun Anuket Esu |
 | 287 | 984 | Crystal Hoffman |
 | 288 | 981 | Ashlen Dorrell |
-| 289 | 979 | Hillary Crawford |
-| 290 | 979 | Melissa Penelope Ann Dodge |
+| 289 | 979 | Melissa Penelope Ann Dodge |
+| 290 | 979 | Hillary Crawford |
 | 291 | 978 | April Dawn Gussler |
 | 292 | 976 | Sam Joe |
 | 293 | 972 | Barbra Miller |
@@ -500,8 +500,8 @@
 | 492 | 650 | Gary Stash |
 | 493 | 648 | Brittney Jean |
 | 494 | 646 | Jazzy Clusterline |
-| 495 | 644 | Véronique Lévesque Sabourin |
-| 496 | 644 | Demeka Dangerous-kisses Johnson |
+| 495 | 644 | Demeka Dangerous-kisses Johnson |
+| 496 | 644 | Véronique Lévesque Sabourin |
 | 497 | 643 | Michelle Pike |
 | 498 | 642 | Cassie Maynard |
 | 499 | 642 | Michelle Fields |
