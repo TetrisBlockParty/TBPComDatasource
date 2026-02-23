@@ -360,8 +360,8 @@
 | 352 | 1067 | Taylor Phillips |
 | 353 | 1067 | Caitlin Schmid |
 | 354 | 1067 | Bee |
-| 355 | 1065 | SaraMarie Eveland |
-| 356 | 1065 | Dany Murillo |
+| 355 | 1065 | Dany Murillo |
+| 356 | 1065 | SaraMarie Eveland |
 | 357 | 1059 | Bri Lynn |
 | 358 | 1058 | Tiffany Branham |
 | 359 | 1052 | Desiree Anderson |
@@ -454,8 +454,8 @@
 | 446 | 899 | Patrick Bartlett |
 | 447 | 898 | Dylan Thomason |
 | 448 | 897 | Jamie Schmitt |
-| 449 | 895 | Lisa Ongtowasruk |
-| 450 | 895 | Donna Colby |
+| 449 | 895 | Donna Colby |
+| 450 | 895 | Lisa Ongtowasruk |
 | 451 | 894 | Adira Brown |
 | 452 | 892 | Samantha Scibelli |
 | 453 | 890 | Moni Foxe |

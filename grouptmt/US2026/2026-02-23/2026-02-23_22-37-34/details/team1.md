@@ -150,8 +150,8 @@
 | 142 | 524 | Tipsy Riseclear |
 | 143 | 523 | BadG52 |
 | 144 | 521 | Nery Martinez |
-| 145 | 519 | April Carroll |
-| 146 | 519 | Anaid Sanchez |
+| 145 | 519 | Anaid Sanchez |
+| 146 | 519 | April Carroll |
 | 147 | 516 | Plucky Ziggy |
 | 148 | 515 | Constance Risner |
 | 149 | 513 | Colena Davenport |
@@ -289,8 +289,8 @@
 | 281 | 333 | Wayne Saunders |
 | 282 | 333 | Rodney Schmerfeld |
 | 283 | 332 | Eddie Dillon |
-| 284 | 330 | Jeremy Maubert |
-| 285 | 330 | Rebecca Apley Mielke |
+| 284 | 330 | Rebecca Apley Mielke |
+| 285 | 330 | Jeremy Maubert |
 | 286 | 329 | Marianita Garcia |
 | 287 | 328 | Buttons Stemm |
 | 288 | 325 | Snappy Brickbuilder |

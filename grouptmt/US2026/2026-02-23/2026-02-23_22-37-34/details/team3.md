@@ -44,8 +44,8 @@
 | 36 | 2097 | Kay |
 | 37 | 2059 | Beelow Bently |
 | 38 | 1992 | Shandrea Crawford |
-| 39 | 1978 | Dan Rob |
-| 40 | 1978 | Ashley Kiara |
+| 39 | 1978 | Ashley Kiara |
+| 40 | 1978 | Dan Rob |
 | 41 | 1949 | Calista Jo Dickson |
 | 42 | 1919 | Trezure Gonzalez |
 | 43 | 1907 | Delilah belle |
@@ -233,8 +233,8 @@
 | 225 | 569 | Juliana Dottore |
 | 226 | 568 | Rachael McClain Owens |
 | 227 | 566 | LaTanya GeminiondaRise Johnson |
-| 228 | 564 | Christine Trester |
-| 229 | 564 | Poppy Splitter |
+| 228 | 564 | Poppy Splitter |
+| 229 | 564 | Christine Trester |
 | 230 | 563 | Fallorina Susana |
 | 231 | 562 | Dave Herzog |
 | 232 | 561 | Silly Twist |

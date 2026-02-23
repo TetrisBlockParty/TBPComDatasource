@@ -62,8 +62,8 @@
 | 54 | 1156 | Goatimus Lombardi |
 | 55 | 1150 | Kimyatta Cavin |
 | 56 | 1106 | Ashley Ingram |
-| 57 | 1082 | Avy Absol |
-| 58 | 1082 | Dion Crommarty |
+| 57 | 1082 | Dion Crommarty |
+| 58 | 1082 | Avy Absol |
 | 59 | 1073 | Dustee Craddock-Harrison |
 | 60 | 1049 | Heather Tushner |
 | 61 | 1046 | Johnathan Martinez |
@@ -195,8 +195,8 @@
 | 187 | 465 | Jolly Dashfit |
 | 188 | 464 | Sharyn Lemire |
 | 189 | 462 | Leslie Thomas |
-| 190 | 457 | June Hoffman |
-| 191 | 457 | Kristin Manee |
+| 190 | 457 | Kristin Manee |
+| 191 | 457 | June Hoffman |
 | 192 | 455 | Michele Plunkett |
 | 193 | 450 | Amanda Pauldo-Ivy |
 | 194 | 449 | Rebecca Morris |
@@ -293,8 +293,8 @@
 | 285 | 321 | Blessedmama |
 | 286 | 317 | Madison Sweere |
 | 287 | 316 | Stella |
-| 288 | 315 | Vic |
-| 289 | 315 | Heather Bruce |
+| 288 | 315 | Heather Bruce |
+| 289 | 315 | Vic |
 | 290 | 314 | Lora |
 | 291 | 313 | Jason Gibbs |
 | 292 | 313 | Milan Markeisha |
@@ -402,8 +402,8 @@
 | 394 | 247 | Tyler Bechtel |
 | 395 | 246 | Shanon Klair |
 | 396 | 246 | giantslover514 |
-| 397 | 244 | @ |
-| 398 | 244 | Elizabeth Tinoco |
+| 397 | 244 | Elizabeth Tinoco |
+| 398 | 244 | @ |
 | 399 | 244 | Perky Piecegrid |
 | 400 | 243 | Val Erie |
 | 401 | 243 | Victoria Faniel |
