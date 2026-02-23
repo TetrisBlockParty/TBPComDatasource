@@ -55,8 +55,8 @@
 | 47 | 1126 | Tipsy Column |
 | 48 | 1126 | Tater |
 | 49 | 1122 | Kristen Gideon |
-| 50 | 1114 | Andrea Dañielle Ortiz |
-| 51 | 1114 | Jayme Sellers |
+| 50 | 1114 | Jayme Sellers |
+| 51 | 1114 | Andrea Dañielle Ortiz |
 | 52 | 1074 | Cheeky Twistslam |
 | 53 | 1061 | Carrie Beck Geartz |
 | 54 | 1032 | Kathi Snustad |
@@ -409,8 +409,8 @@
 | 401 | 235 | Nutty Glide |
 | 402 | 234 | Brandie Gallegos |
 | 403 | 233 | Melissa Bires Hussar |
-| 404 | 232 | Jennifer Olewnik Soborowski |
-| 405 | 232 | Mary Sheets |
+| 404 | 232 | Mary Sheets |
+| 405 | 232 | Jennifer Olewnik Soborowski |
 | 406 | 232 | Itspaigebro |
 | 407 | 230 | Panda Thagreat |
 | 408 | 228 | Amber Dee |

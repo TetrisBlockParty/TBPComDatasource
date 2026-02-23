@@ -59,8 +59,8 @@
 | 51 | 1147 | Jae Job |
 | 52 | 1099 | Ashley Ingram |
 | 53 | 1085 | Kimyatta Cavin |
-| 54 | 1082 | Dion Crommarty |
-| 55 | 1082 | Avy Absol |
+| 54 | 1082 | Avy Absol |
+| 55 | 1082 | Dion Crommarty |
 | 56 | 1082 | Dawn Alexander |
 | 57 | 1049 | Heather Tushner |
 | 58 | 1046 | Johnathan Martinez |
@@ -208,8 +208,8 @@
 | 200 | 423 | Lori |
 | 201 | 422 | Zakia Monae |
 | 202 | 422 | Berklie Apedaile |
-| 203 | 421 | Sam Bishop |
-| 204 | 421 | Kesha Brady |
+| 203 | 421 | Kesha Brady |
+| 204 | 421 | Sam Bishop |
 | 205 | 421 | JIGsaw ~(•¿°)~ |
 | 206 | 418 | Lush Linkfall |
 | 207 | 418 | Marie-Pier Desjardins |
