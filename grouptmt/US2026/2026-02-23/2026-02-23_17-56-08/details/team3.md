@@ -88,8 +88,8 @@
 | 80 | 1258 | Shari Garber |
 | 81 | 1244 | Lori Barnaby |
 | 82 | 1221 | Betty Ivy |
-| 83 | 1213 | Nerdy Riseclear |
-| 84 | 1213 | Snappy Glidepiece |
+| 83 | 1213 | Snappy Glidepiece |
+| 84 | 1213 | Nerdy Riseclear |
 | 85 | 1212 | Amanda Adkins |
 | 86 | 1186 | Christian A. Pollard |
 | 87 | 1158 | Danielle Mogg |
@@ -100,8 +100,8 @@
 | 92 | 1101 | Stephanie Rice |
 | 93 | 1101 | Jd Morris |
 | 94 | 1094 | JerseyJess |
-| 95 | 1056 | joclisa |
-| 96 | 1056 | Ebony West-Cundiff |
+| 95 | 1056 | Ebony West-Cundiff |
+| 96 | 1056 | joclisa |
 | 97 | 1050 | Sherika C. McDaniels |
 | 98 | 1044 | Leah Barnett |
 | 99 | 1038 | Mandy Smith Oldham |
@@ -125,15 +125,15 @@
 | 117 | 884 | Patricia Gadsden |
 | 118 | 878 | Shane Wilson Jr. |
 | 119 | 874 | Jessica Pineda-Lopez |
-| 120 | 868 | Felicia Rocha |
-| 121 | 868 | Sarajane Lokan |
+| 120 | 868 | Sarajane Lokan |
+| 121 | 868 | Felicia Rocha |
 | 122 | 864 | Sunny Rotater |
 | 123 | 860 | Kristie |
 | 124 | 839 | Angeline Joseph |
 | 125 | 837 | mzcatzy |
 | 126 | 836 | Logan Naccarato |
-| 127 | 833 | Crystal Frey |
-| 128 | 833 | Grego Daniel |
+| 127 | 833 | Grego Daniel |
+| 128 | 833 | Crystal Frey |
 | 129 | 820 | Brenda Lee Vander Molen |
 | 130 | 815 | Dolores Falco |
 | 131 | 812 | Speedy Bridger |
@@ -148,8 +148,8 @@
 | 140 | 776 | Tasha Schriewer |
 | 141 | 773 | Daira Largen |
 | 142 | 770 | Daryn Elliott |
-| 143 | 764 | Hasty Cascadefit |
-| 144 | 764 | Groovy Catcher |
+| 143 | 764 | Groovy Catcher |
+| 144 | 764 | Hasty Cascadefit |
 | 145 | 759 | yoyo |
 | 146 | 757 | Fancy Cascader |
 | 147 | 756 | Patty Allen |
@@ -186,8 +186,8 @@
 | 178 | 633 | Joye Sims Binion |
 | 179 | 632 | Morgan Martinez |
 | 180 | 629 | rnr junky |
-| 181 | 621 | Cherry Parker |
-| 182 | 621 | Sashay Tapae Simpson |
+| 181 | 621 | Sashay Tapae Simpson |
+| 182 | 621 | Cherry Parker |
 | 183 | 620 | Rania Zaqout |
 | 184 | 620 | Jacqueline Rodriguez |
 | 185 | 616 | Kammy Hill |

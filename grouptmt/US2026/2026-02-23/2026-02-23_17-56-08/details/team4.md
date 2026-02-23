@@ -113,8 +113,8 @@
 | 105 | 672 | Nugget |
 | 106 | 667 | Amy Suckarieh |
 | 107 | 659 | Jamie Gustafson |
-| 108 | 658 | Zippy Gridlock |
-| 109 | 658 | Girl |
+| 108 | 658 | Girl |
+| 109 | 658 | Zippy Gridlock |
 | 110 | 657 | Lori Walker |
 | 111 | 652 | Leslie Nicole |
 | 112 | 647 | KM8 |
@@ -155,8 +155,8 @@
 | 147 | 508 | Twisty Clicky |
 | 148 | 507 | ThaEviLJeNiuZ |
 | 149 | 502 | Ellen Durfee |
-| 150 | 498 | Melissa Adams |
-| 151 | 498 | Nope Young |
+| 150 | 498 | Nope Young |
+| 151 | 498 | Melissa Adams |
 | 152 | 497 | Ericca Eldridge |
 | 153 | 496 | Jessica Lynn Cutlip |
 | 154 | 489 | Carlton Unfiltered |
@@ -290,8 +290,8 @@
 | 282 | 297 | Kenna Gunderland |
 | 283 | 296 | Vic |
 | 284 | 293 | DonMega |
-| 285 | 292 | Blessedmama |
-| 286 | 292 | Epic Curvetile |
+| 285 | 292 | Epic Curvetile |
+| 286 | 292 | Blessedmama |
 | 287 | 292 | Angel Raya |
 | 288 | 291 | Hyper Builder |
 | 289 | 291 | Dizzy Matchzone |
@@ -353,8 +353,8 @@
 | 345 | 252 | Gracie Ann Taylor |
 | 346 | 252 | 07VHVW |
 | 347 | 251 | Kathy Allen |
-| 348 | 251 | Brittany Little |
-| 349 | 251 | Carol Ricks Raymond |
+| 348 | 251 | Carol Ricks Raymond |
+| 349 | 251 | Brittany Little |
 | 350 | 250 | Stephme310 |
 | 351 | 249 | Ak Jones |
 | 352 | 248 | Chirpy Basepiece |
@@ -366,8 +366,8 @@
 | 358 | 244 | Elizabeth Tinoco |
 | 359 | 244 | Jen Mattei |
 | 360 | 243 | Val Erie |
-| 361 | 242 | PurpleMoonMa |
-| 362 | 242 | Chaz |
+| 361 | 242 | Chaz |
+| 362 | 242 | PurpleMoonMa |
 | 363 | 240 | Zany Shatterer |
 | 364 | 240 | Tyler Bechtel |
 | 365 | 240 | Deanna Deckard |
@@ -416,8 +416,8 @@
 | 408 | 217 | Perky Riser |
 | 409 | 217 | GBR |
 | 410 | 216 | Funky Risepiece |
-| 411 | 216 | Ryry |
-| 412 | 216 | Jen Hallin |
+| 411 | 216 | Jen Hallin |
+| 412 | 216 | Ryry |
 | 413 | 215 | Tanya Abernathy Jackson |
 | 414 | 215 | Squeezy Pearsall |
 | 415 | 214 | B Renee Desjardin |
@@ -430,8 +430,8 @@
 | 422 | 210 | Cool Gridzone |
 | 423 | 210 | Vanessa Smart |
 | 424 | 209 | Snippy Puzzle |
-| 425 | 209 | Marcus Todd |
-| 426 | 209 | PennyCandee |
+| 425 | 209 | PennyCandee |
+| 426 | 209 | Marcus Todd |
 | 427 | 209 | Matthew Pate |
 | 428 | 208 | Wacky Blockclear |
 | 429 | 207 | Sam Middleton |
@@ -501,8 +501,8 @@
 | 493 | 180 | Speedy Cascadeclear |
 | 494 | 180 | Sandra Safford |
 | 495 | 180 | Nig |
-| 496 | 179 | JoAnna Zalkovsky |
-| 497 | 179 | Elle Joe |
+| 496 | 179 | Elle Joe |
+| 497 | 179 | JoAnna Zalkovsky |
 | 498 | 179 | Joseph Gray |
 | 499 | 178 | Laurel Coppess |
 | 500 | 178 | Nerdy Linebuilder |
@@ -606,15 +606,15 @@
 | 598 | 142 | Peace |
 | 599 | 141 | Lori Goudy |
 | 600 | 141 | Red |
-| 601 | 140 | moneybagz |
-| 602 | 140 | Hediyuda |
+| 601 | 140 | Manuel Groleau |
+| 602 | 140 | moneybagz |
 | 603 | 140 | Smiley Tiltbuilder |
 | 604 | 140 | Hediyuda |
 | 605 | 140 | Thomas Hettenhaus |
 | 606 | 140 | Cheery Lift |
 | 607 | 139 | Groovy Shiftspin |
-| 608 | 139 | Ann G. Carrillo |
-| 609 | 139 | Bussy Bay |
+| 608 | 139 | Bussy Bay |
+| 609 | 139 | Ann G. Carrillo |
 | 610 | 138 | Tammy Lewis |
 | 611 | 137 | Richard |
 | 612 | 137 | Heather Mamabear Pezze |
@@ -932,8 +932,8 @@
 | 924 | 82 | Wacky Fitzone |
 | 925 | 82 | Ashley Kerr |
 | 926 | 82 | Jorge Hamoui |
-| 927 | 82 | Steve |
-| 928 | 82 | Somnium Era |
+| 927 | 82 | Somnium Era |
+| 928 | 82 | Steve |
 | 929 | 81 | Clinton Jacob |
 | 930 | 81 | Jess |
 | 931 | 81 | Jamie Hirtle |
@@ -1777,7 +1777,7 @@
 | 1769 | 9 | Garrick Wilfork |
 | 1770 | 9 | Andy Martorana |
 | 1771 | 8 | Peggy Eaton |
-| 1772 | 8 | Jermre Owens |
+| 1772 | 8 | Lincoln Nebraska |
 | 1773 | 8 | Loopy Fill |
 | 1774 | 8 | Jermre Owens |
 | 1775 | 8 | Epic Tilt |

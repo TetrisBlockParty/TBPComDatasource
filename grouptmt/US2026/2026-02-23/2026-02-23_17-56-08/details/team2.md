@@ -420,8 +420,8 @@
 | 412 | 877 | Misti Markijohn |
 | 413 | 876 | Jessicah Myers |
 | 414 | 870 | Joy LaJeunesse |
-| 415 | 869 | BYM4L |
-| 416 | 869 | Venita Ray |
+| 415 | 869 | Venita Ray |
+| 416 | 869 | BYM4L |
 | 417 | 866 | Christina Lewis-Vickers |
 | 418 | 862 | Sarah Massey |
 | 419 | 858 | Lauren Fitzgerald Thomas |
@@ -473,8 +473,8 @@
 | 465 | 801 | Dreamy Blast |
 | 466 | 799 | Kenny Alvarado |
 | 467 | 798 | Melissa Cole |
-| 468 | 797 | Alex Dungo Hoang |
-| 469 | 797 | Mighty Spinbuilder |
+| 468 | 797 | Mighty Spinbuilder |
+| 469 | 797 | Alex Dungo Hoang |
 | 470 | 796 | AndrewandShela Gornik |
 | 471 | 796 | Amber Gray |
 | 472 | 794 | Lindsey Leigh |
