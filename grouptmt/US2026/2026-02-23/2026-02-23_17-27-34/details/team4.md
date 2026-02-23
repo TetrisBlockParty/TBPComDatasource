@@ -332,11 +332,11 @@
 | 324 | 264 | rebel4lyfe |
 | 325 | 264 | ZeeZee |
 | 326 | 262 | Ruben Wheeler |
-| 327 | 262 | BigSammy420 |
-| 328 | 262 | Selena Shaw |
+| 327 | 262 | Selena Shaw |
+| 328 | 262 | BigSammy420 |
 | 329 | 261 | Zethra Prenisha Rahming |
-| 330 | 260 | Angelito |
-| 331 | 260 | Carter Jones |
+| 330 | 260 | Carter Jones |
+| 331 | 260 | Angelito |
 | 332 | 259 | Allen Lloyd |
 | 333 | 259 | Montiette Mcglown |
 | 334 | 258 | DQ Martin |
@@ -346,9 +346,9 @@
 | 338 | 253 | Autum Leigh |
 | 339 | 253 | Cool Buildout |
 | 340 | 252 | Maureen Flanigan |
-| 341 | 251 | Brittany Little |
+| 341 | 251 | Kathy Allen |
 | 342 | 251 | Carol Ricks Raymond |
-| 343 | 251 | Kathy Allen |
+| 343 | 251 | Brittany Little |
 | 344 | 250 | Stephme310 |
 | 345 | 249 | Ak Jones |
 | 346 | 249 | Christine Therrien |
@@ -362,8 +362,8 @@
 | 354 | 244 | Jen Mattei |
 | 355 | 244 | Perky Piecegrid |
 | 356 | 243 | Chair |
-| 357 | 242 | Chaz |
-| 358 | 242 | PurpleMoonMa |
+| 357 | 242 | PurpleMoonMa |
+| 358 | 242 | Chaz |
 | 359 | 240 | Zany Shatterer |
 | 360 | 240 | Tyler Bechtel |
 | 361 | 240 | Deanna Deckard |
@@ -376,8 +376,8 @@
 | 368 | 237 | Jewell Urban |
 | 369 | 235 | LaDonna LovinmesomeMe Lambert |
 | 370 | 235 | Shainne Brewer |
-| 371 | 234 | Shanon Klair |
-| 372 | 234 | Richard-April Kice |
+| 371 | 234 | Richard-April Kice |
+| 372 | 234 | Shanon Klair |
 | 373 | 234 | Kevin Bush |
 | 374 | 234 | Diosa Ebalobo Magsael |
 | 375 | 233 | Joseph Edmonson |

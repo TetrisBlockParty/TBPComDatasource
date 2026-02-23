@@ -87,11 +87,11 @@
 | 79 | 742 | Susanna Guerry |
 | 80 | 741 | Nancy Green |
 | 81 | 740 | Lori Sanders- Davis |
-| 82 | 713 | Robert Benito |
-| 83 | 713 | Snappy Swiper |
+| 82 | 713 | Snappy Swiper |
+| 83 | 713 | Robert Benito |
 | 84 | 710 | Jennifer ManWarren |
-| 85 | 706 | Denice Dee |
-| 86 | 706 | Plucky Fallzone |
+| 85 | 706 | Plucky Fallzone |
+| 86 | 706 | Denice Dee |
 | 87 | 704 | Karin Gillen |
 | 88 | 703 | Kellie |
 | 89 | 703 | Angel Fowler |
@@ -204,8 +204,8 @@
 | 196 | 383 | Margo Wagner |
 | 197 | 383 | pjbeta |
 | 198 | 380 | Bindi |
-| 199 | 379 | Austin James |
-| 200 | 379 | Snappy Matcher |
+| 199 | 379 | Snappy Matcher |
+| 200 | 379 | Austin James |
 | 201 | 378 | Sleepysloath5745 |
 | 202 | 376 | Brian Richardsson |
 | 203 | 376 | Sassy Builderline |
@@ -221,8 +221,8 @@
 | 213 | 364 | Serina Marie |
 | 214 | 364 | Shauna Loe |
 | 215 | 362 | Gracie |
-| 216 | 360 | MIKOZ |
-| 217 | 360 | Lakeisha Chapman |
+| 216 | 360 | Lakeisha Chapman |
+| 217 | 360 | MIKOZ |
 | 218 | 359 | Jo Kerley |
 | 219 | 359 | Witty Builderfit |
 | 220 | 359 | Oscar Zamora |
@@ -248,8 +248,8 @@
 | 240 | 339 | Tyler Hertzog |
 | 241 | 338 | Layzietyme |
 | 242 | 337 | Jamise Brown |
-| 243 | 335 | Keith Mathis |
-| 244 | 335 | Eric DeSimone |
+| 243 | 335 | Eric DeSimone |
+| 244 | 335 | Keith Mathis |
 | 245 | 334 | Tipsy Builder |
 | 246 | 333 | Jennifer Noe Chandler |
 | 247 | 332 | Eddie Dillon |

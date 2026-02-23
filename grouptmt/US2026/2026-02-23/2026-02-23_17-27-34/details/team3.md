@@ -124,8 +124,8 @@
 | 116 | 896 | Jesse Olive |
 | 117 | 878 | Shane Wilson Jr. |
 | 118 | 874 | Jessica Pineda-Lopez |
-| 119 | 868 | Felicia Rocha |
-| 120 | 868 | Sarajane Lokan |
+| 119 | 868 | Sarajane Lokan |
+| 120 | 868 | Felicia Rocha |
 | 121 | 864 | Sunny Rotater |
 | 122 | 856 | Kristie |
 | 123 | 848 | Patricia Gadsden |
@@ -394,14 +394,14 @@
 | 386 | 323 | Jul |
 | 387 | 323 | Erykah |
 | 388 | 323 | Jess Bissett |
-| 389 | 322 | Nena Somerville Kelly |
-| 390 | 322 | Beth Smith |
+| 389 | 322 | Beth Smith |
+| 390 | 322 | Nena Somerville Kelly |
 | 391 | 321 | Wettnippz |
 | 392 | 320 | Taylor Hood |
 | 393 | 320 | Or Reznitsky |
 | 394 | 318 | Christy Quick |
-| 395 | 316 | Travis W |
-| 396 | 316 | Swanky Snapclear |
+| 395 | 316 | Swanky Snapclear |
+| 396 | 316 | Travis W |
 | 397 | 315 | Funky Jumper |
 | 398 | 314 | Tipsy Zonebuilder |
 | 399 | 313 | Hoppy Buildout |
@@ -413,8 +413,8 @@
 | 405 | 308 | Tia |
 | 406 | 308 | Beejangles |
 | 407 | 307 | TotoCherue |
-| 408 | 307 | Kristian Thurman |
-| 409 | 307 | Kristina Gardner |
+| 408 | 307 | Kristina Gardner |
+| 409 | 307 | Kristian Thurman |
 | 410 | 306 | Jackie Miller |
 | 411 | 305 | Jack Bo |
 | 412 | 304 | _melisa223_ |
@@ -901,15 +901,15 @@
 | 893 | 155 | Neenee Hat |
 | 894 | 155 | Brooke Bauer |
 | 895 | 155 | TEDDY |
-| 896 | 154 | Jennifer Evans |
-| 897 | 154 | TI Na |
+| 896 | 154 | TI Na |
+| 897 | 154 | Jennifer Evans |
 | 898 | 154 | Tori McCandless |
 | 899 | 153 | Sassy Align |
 | 900 | 153 | Shiny Cluster |
 | 901 | 153 | Santana Lantana |
 | 902 | 153 | Courtney Donovan |
-| 903 | 152 | Kate Farok |
-| 904 | 152 | Louise Parker |
+| 903 | 152 | Louise Parker |
+| 904 | 152 | Kate Farok |
 | 905 | 152 | Epic Wrecker |
 | 906 | 152 | Lisa Ann |
 | 907 | 151 | Brad Dimitroff |
