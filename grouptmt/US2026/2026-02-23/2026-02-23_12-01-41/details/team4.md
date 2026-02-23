@@ -66,8 +66,8 @@
 | 58 | 863 | Pee |
 | 59 | 859 | TeeJ |
 | 60 | 859 | Christina LR |
-| 61 | 846 | Lucille Truesdale |
-| 62 | 846 | Christine Marie |
+| 61 | 846 | Christine Marie |
+| 62 | 846 | Lucille Truesdale |
 | 63 | 834 | quicksand420 |
 | 64 | 807 | Rachel Anne |
 | 65 | 807 | Amelpss |
@@ -101,8 +101,8 @@
 | 93 | 659 | Jamie Gustafson |
 | 94 | 653 | Rica Mitchell |
 | 95 | 650 | KJ Pool |
-| 96 | 647 | KM8 |
-| 97 | 647 | Shauna Havard |
+| 96 | 647 | Shauna Havard |
+| 97 | 647 | KM8 |
 | 98 | 646 | Eric Mcgaughy |
 | 99 | 626 | Brittney Griggs |
 | 100 | 624 | Amy Suckarieh |
@@ -325,10 +325,10 @@
 | 317 | 230 | Chantilly Laace |
 | 318 | 228 | Bethany Ison |
 | 319 | 227 | Jason Bosco |
-| 320 | 225 | Hyper Builder |
-| 321 | 225 | Ernest Maxwell |
-| 322 | 225 | Kathy Allen |
-| 323 | 225 | Jenna McGeorge |
+| 320 | 225 | Kathy Allen |
+| 321 | 225 | Hyper Builder |
+| 322 | 225 | Jenna McGeorge |
+| 323 | 225 | Ernest Maxwell |
 | 324 | 224 | Ultramarine |
 | 325 | 223 | Brave Spinbuilder |
 | 326 | 223 | Chance Strickland |

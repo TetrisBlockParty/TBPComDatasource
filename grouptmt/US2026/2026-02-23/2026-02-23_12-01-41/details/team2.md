@@ -44,8 +44,8 @@
 | 36 | 4280 | Robert Diddle |
 | 37 | 4199 | Claire Noland |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Corrine Hawks Soriano |
-| 40 | 4120 | Kristen Sceurman |
+| 39 | 4120 | Kristen Sceurman |
+| 40 | 4120 | Corrine Hawks Soriano |
 | 41 | 4086 | PandaMama |
 | 42 | 3947 | Melinda Brown |
 | 43 | 3845 | jayjay |
@@ -169,8 +169,8 @@
 | 161 | 1601 | Ray Ray Prado |
 | 162 | 1594 | Heather Westrum |
 | 163 | 1593 | Jose Mendoza |
-| 164 | 1588 | Scott Treadway |
-| 165 | 1588 | Mema |
+| 164 | 1588 | Mema |
+| 165 | 1588 | Scott Treadway |
 | 166 | 1581 | Brandy Andre |
 | 167 | 1580 | Sally Dennis |
 | 168 | 1574 | Stephen Stephen |
@@ -235,8 +235,8 @@
 | 227 | 1232 | Ambyre Patterson |
 | 228 | 1230 | Megan Garrick |
 | 229 | 1221 | Jane Fong |
-| 230 | 1217 | Lucky Ladybug |
-| 231 | 1217 | Brooks Brooks |
+| 230 | 1217 | Brooks Brooks |
+| 231 | 1217 | Lucky Ladybug |
 | 232 | 1216 | Pacynthia Williams |
 | 233 | 1214 | David Cudicio-Hayden |
 | 234 | 1211 | Ricardo Burton |
@@ -317,8 +317,8 @@
 | 309 | 996 | Ashie Ann |
 | 310 | 987 | Osun Anuket Esu |
 | 311 | 980 | Jackie Lucas |
-| 312 | 979 | Hillary Crawford |
-| 313 | 979 | Melissa Penelope Ann Dodge |
+| 312 | 979 | Melissa Penelope Ann Dodge |
+| 313 | 979 | Hillary Crawford |
 | 314 | 978 | April Dawn Gussler |
 | 315 | 976 | Sam Joe |
 | 316 | 976 | Della Hole |
@@ -498,8 +498,8 @@
 | 490 | 700 | Vincent Petrella |
 | 491 | 700 | Beverly Owens |
 | 492 | 699 | Dannette Goldberg-Richards |
-| 493 | 697 | Gary Stash |
-| 494 | 697 | Isabelle Bonneau |
+| 493 | 697 | Isabelle Bonneau |
+| 494 | 697 | Gary Stash |
 | 495 | 697 | Poldo Ilano |
 | 496 | 693 | Ryan Stadel |
 | 497 | 692 | Shaun Church |
