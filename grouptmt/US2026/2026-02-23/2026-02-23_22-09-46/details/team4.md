@@ -230,8 +230,8 @@
 | 222 | 411 | Silly Zonebuilder |
 | 223 | 409 | Antony Dwayne Beasley |
 | 224 | 400 | TinyLegoRose |
-| 225 | 399 | Jeff Brian Gates |
-| 226 | 399 | Lindsay Ball |
+| 225 | 399 | Lindsay Ball |
+| 226 | 399 | Jeff Brian Gates |
 | 227 | 398 | Tyler Terrific |
 | 228 | 394 | Nita Wells |
 | 229 | 390 | Kathy Brookins |
@@ -259,11 +259,11 @@
 | 251 | 366 | Cheery Risebuilder |
 | 252 | 366 | Andrew Dang |
 | 253 | 365 | Hyper Builder |
-| 254 | 363 | KimoKoala |
-| 255 | 363 | TRCuse |
+| 254 | 363 | TRCuse |
+| 255 | 363 | KimoKoala |
 | 256 | 361 | Danielle Kollias |
-| 257 | 360 | Ari Droff |
-| 258 | 360 | James Hurley Jr. |
+| 257 | 360 | James Hurley Jr. |
+| 258 | 360 | Ari Droff |
 | 259 | 358 | Twisty Cascadezone |
 | 260 | 356 | Joeliecea Cobb |
 | 261 | 356 | mike |
@@ -306,11 +306,11 @@
 | 298 | 307 | Tina Lopez |
 | 299 | 307 | Kim Klutz Olson |
 | 300 | 306 | PeaceOs |
-| 301 | 305 | Heather Bruce |
-| 302 | 305 | Sassy Pattern |
+| 301 | 305 | Sassy Pattern |
+| 302 | 305 | Heather Bruce |
 | 303 | 305 | Megan Cutshaw |
-| 304 | 300 | Dana Scott |
-| 305 | 300 | Kate |
+| 304 | 300 | Kate |
+| 305 | 300 | Dana Scott |
 | 306 | 297 | Kenna Gunderland |
 | 307 | 296 | Sarah Hoffman |
 | 308 | 295 | Cool Gridzone |
@@ -388,7 +388,7 @@
 | 380 | 255 | PennyCandee |
 | 381 | 253 | Chair |
 | 382 | 253 | Autum Leigh |
-| 383 | 252 | Dan Wold |
+| 383 | 252 | Maureen Flanigan |
 | 384 | 252 | Gracie Ann Taylor |
 | 385 | 252 | Dan Wold |
 | 386 | 251 | Carol Ricks Raymond |
@@ -470,9 +470,9 @@
 | 462 | 213 | Frank Joseph Epson |
 | 463 | 212 | Mike Solo |
 | 464 | 211 | Becky Shimko |
-| 465 | 209 | Matthew Pate |
-| 466 | 209 | Calvin Dennis |
-| 467 | 209 | Snippy Puzzle |
+| 465 | 209 | Calvin Dennis |
+| 466 | 209 | Snippy Puzzle |
+| 467 | 209 | Matthew Pate |
 | 468 | 209 | Marcus Todd |
 | 469 | 208 | Wacky Blockclear |
 | 470 | 208 | Moonsterix |

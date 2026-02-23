@@ -110,8 +110,8 @@
 | 102 | 1101 | Stephanie Rice |
 | 103 | 1093 | Angela M. Fletcher |
 | 104 | 1091 | Kristie |
-| 105 | 1056 | Ebony West-Cundiff |
-| 106 | 1056 | joclisa |
+| 105 | 1056 | joclisa |
+| 106 | 1056 | Ebony West-Cundiff |
 | 107 | 1050 | Sherika C. McDaniels |
 | 108 | 1041 | Patricia Gadsden |
 | 109 | 1038 | Mandy Smith Oldham |
@@ -200,8 +200,8 @@
 | 192 | 655 | Rochelle Hazelett |
 | 193 | 644 | Domo Washington |
 | 194 | 642 | Rania Zaqout |
-| 195 | 641 | Kristal C Lee |
-| 196 | 641 | Makelini Mausia |
+| 195 | 641 | Makelini Mausia |
+| 196 | 641 | Kristal C Lee |
 | 197 | 636 | Cesar Barraza |
 | 198 | 635 | Twisty Brick LT |
 | 199 | 634 | Amber Hughes |
@@ -248,9 +248,9 @@
 | 240 | 541 | Gray Hicks |
 | 241 | 541 | Sherry Ogden |
 | 242 | 540 | Danielle Allison |
-| 243 | 539 | Betty Bóò |
-| 244 | 539 | Micayah Stevens |
-| 245 | 539 | Aerian Preston |
+| 243 | 539 | Aerian Preston |
+| 244 | 539 | Betty Bóò |
+| 245 | 539 | Micayah Stevens |
 | 246 | 537 | Tessina Dewey-Mancino |
 | 247 | 537 | Tamara Deherrera |
 | 248 | 536 | Shannon Matthew Byers |

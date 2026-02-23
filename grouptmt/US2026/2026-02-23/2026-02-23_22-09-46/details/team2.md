@@ -174,8 +174,8 @@
 | 166 | 1804 | Chirpy Staggerpiece |
 | 167 | 1790 | Kara Gillen |
 | 168 | 1778 | bonsai |
-| 169 | 1771 | Heather Westrum |
-| 170 | 1771 | Eboni Banks |
+| 169 | 1771 | Eboni Banks |
+| 170 | 1771 | Heather Westrum |
 | 171 | 1767 | niecy |
 | 172 | 1763 | Juliana Marques Do Nascimento Gordy |
 | 173 | 1759 | Nerdy Pattern |
