@@ -215,8 +215,8 @@
 | 207 | 1580 | Sally Dennis |
 | 208 | 1578 | Christine Egidio Morocco |
 | 209 | 1569 | Ashley Dow |
-| 210 | 1558 | Crystal Slaughter |
-| 211 | 1558 | Tim Dyer |
+| 210 | 1558 | Tim Dyer |
+| 211 | 1558 | Crystal Slaughter |
 | 212 | 1557 | Poppy Snap |
 | 213 | 1556 | Tonya Morgan |
 | 214 | 1554 | Howard Forest |
@@ -311,8 +311,8 @@
 | 303 | 1216 | Pacynthia Williams |
 | 304 | 1216 | Ashie Ann |
 | 305 | 1214 | David Cudicio-Hayden |
-| 306 | 1211 | Ricardo Burton |
-| 307 | 1211 | Cynthia Ward |
+| 306 | 1211 | Cynthia Ward |
+| 307 | 1211 | Ricardo Burton |
 | 308 | 1210 | Amber Gray |
 | 309 | 1188 | Amber Brion |
 | 310 | 1184 | Jamie Otero |
@@ -574,15 +574,15 @@
 | 566 | 744 | Mikayala Szaz |
 | 567 | 742 | Frisky Riserbuilder |
 | 568 | 742 | Cassie Maynard |
-| 569 | 741 | Giggy Mover |
-| 570 | 741 | Davetta Sanford |
+| 569 | 741 | Davetta Sanford |
+| 570 | 741 | Giggy Mover |
 | 571 | 740 | Jerry Tempelmeyer |
 | 572 | 737 | Ginger |
 | 573 | 737 | Breezy Clusterer |
 | 574 | 736 | Ashley Munn |
 | 575 | 734 | Emily Lyric Converse |
-| 576 | 733 | Joce Lynn |
-| 577 | 733 | Lylymom |
+| 576 | 733 | Lylymom |
+| 577 | 733 | Joce Lynn |
 | 578 | 733 | Christine Bollig |
 | 579 | 731 | Melissa Holsinger |
 | 580 | 730 | Nuke Morris |

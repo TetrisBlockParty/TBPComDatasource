@@ -313,11 +313,11 @@
 | 305 | 309 | Larry Tilton |
 | 306 | 308 | Glitzy Curvebuilder |
 | 307 | 306 | Cece Ibarra |
-| 308 | 305 | Chase Collinsworth |
-| 309 | 305 | Amh |
+| 308 | 305 | Amh |
+| 309 | 305 | Chase Collinsworth |
 | 310 | 303 | DaRascal |
-| 311 | 302 | Bird Person |
-| 312 | 302 | LaFontaine Leslie |
+| 311 | 302 | LaFontaine Leslie |
+| 312 | 302 | Bird Person |
 | 313 | 301 | Brave Wrecker |
 | 314 | 301 | Chad Atchley |
 | 315 | 300 | Giggly Builderline |
@@ -481,10 +481,10 @@
 | 473 | 212 | William Blackwell |
 | 474 | 211 | Hasty Columnbuilder |
 | 475 | 211 | Bucketsmasher |
-| 476 | 210 | Owicked1 |
-| 477 | 210 | Ruthie Mahoney Saunders-Browne |
-| 478 | 209 | Beau Galvan |
-| 479 | 209 | Rachel Rogers |
+| 476 | 210 | Ruthie Mahoney Saunders-Browne |
+| 477 | 210 | Owicked1 |
+| 478 | 209 | Rachel Rogers |
+| 479 | 209 | Beau Galvan |
 | 480 | 209 | Pauline Cortez |
 | 481 | 208 | Shan Rock |
 | 482 | 208 | ESC |
