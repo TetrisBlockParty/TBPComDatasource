@@ -358,8 +358,8 @@
 | 350 | 1049 | Ashlen Dorrell |
 | 351 | 1045 | Lourisha |
 | 352 | 1043 | Brave Dropmatch |
-| 353 | 1042 | Mcintosh Brian Shalonda |
-| 354 | 1042 | Spunkysmom |
+| 353 | 1042 | Spunkysmom |
+| 354 | 1042 | Mcintosh Brian Shalonda |
 | 355 | 1040 | Taylor Phillips |
 | 356 | 1038 | Sheronda Jackson |
 | 357 | 1037 | Jessica Wayne Cornwall |
@@ -384,8 +384,8 @@
 | 376 | 983 | Crystie Hicks |
 | 377 | 978 | Barry Britt |
 | 378 | 976 | Sam Joe |
-| 379 | 975 | Mandi Douglas Hilt |
-| 380 | 975 | Hyper Cluster |
+| 379 | 975 | Hyper Cluster |
+| 380 | 975 | Mandi Douglas Hilt |
 | 381 | 974 | Boldy Cascadepiece |
 | 382 | 971 | Jojo Momma |
 | 383 | 971 | Tiara Elizabeth Baker |
@@ -416,8 +416,8 @@
 | 408 | 929 | Ellie Jonas |
 | 409 | 928 | Elizabeth Wilbanks |
 | 410 | 923 | blume |
-| 411 | 919 | John Bednarik |
-| 412 | 919 | Isaac Trappiel IV |
+| 411 | 919 | Isaac Trappiel IV |
+| 412 | 919 | John Bednarik |
 | 413 | 918 | William Hunt |
 | 414 | 917 | Amber Gray |
 | 415 | 917 | Bubbly Snapfit |

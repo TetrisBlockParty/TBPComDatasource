@@ -299,8 +299,8 @@
 | 291 | 305 | Sassy Pattern |
 | 292 | 304 | Shiny Fit |
 | 293 | 301 | Erin Sabol |
-| 294 | 300 | Kate |
-| 295 | 300 | Dana Scott |
+| 294 | 300 | Dana Scott |
+| 295 | 300 | Kate |
 | 296 | 298 | Chance Strickland |
 | 297 | 297 | Kenna Gunderland |
 | 298 | 297 | Kim Klutz Olson |
@@ -364,8 +364,8 @@
 | 356 | 261 | Megan Cutshaw |
 | 357 | 260 | Carter Jones |
 | 358 | 260 | Angelito |
-| 359 | 259 | Allen Lloyd |
-| 360 | 259 | Montiette Mcglown |
+| 359 | 259 | Montiette Mcglown |
+| 360 | 259 | Allen Lloyd |
 | 361 | 258 | Lilya Troutman |
 | 362 | 257 | Alexandra Karavias |
 | 363 | 257 | Marcus TheeyoungWoe Gilmore |

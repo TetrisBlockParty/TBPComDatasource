@@ -20,7 +20,7 @@
 | 12 | 2797 | Zerin Graham |
 | 13 | 2795 | Todd Welch |
 | 14 | 2532 | Lisa Marie |
-| 15 | 2437 | COOL as Icer |
+| 15 | 2423 | COOL as Icer |
 | 16 | 2412 | Josie Kirt |
 | 17 | 2225 | Odell Barnett |
 | 18 | 2223 | Mara Hilker |
@@ -52,8 +52,8 @@
 | 44 | 1166 | Felicia Lewis |
 | 45 | 1158 | june october |
 | 46 | 1137 | Jen Sartain |
-| 47 | 1126 | Tipsy Column |
-| 48 | 1126 | Tater |
+| 47 | 1126 | Tater |
+| 48 | 1126 | Tipsy Column |
 | 49 | 1122 | Kristen Gideon |
 | 50 | 1114 | Andrea Dañielle Ortiz |
 | 51 | 1114 | Jayme Sellers |
@@ -187,8 +187,8 @@
 | 179 | 432 | Lori Bales |
 | 180 | 430 | MIKOZ |
 | 181 | 426 | Maria C. Hernandez |
-| 182 | 425 | Tana |
-| 183 | 425 | Tyler Werts |
+| 182 | 425 | Tyler Werts |
+| 183 | 425 | Tana |
 | 184 | 424 | Emily Adelaide Wheatley |
 | 185 | 423 | Elaine Elaine |
 | 186 | 422 | canbrick |
@@ -242,25 +242,25 @@
 | 234 | 363 | Jerry Danowski |
 | 235 | 359 | Oscar Zamora |
 | 236 | 359 | Jo Kerley |
-| 237 | 357 | Shiny Snapfit |
-| 238 | 357 | Paula Martin |
-| 239 | 357 | Teri Oehlke |
+| 237 | 357 | Paula Martin |
+| 238 | 357 | Teri Oehlke |
+| 239 | 357 | Shiny Snapfit |
 | 240 | 354 | Dino |
 | 241 | 354 | Tipsy Strikerpiece |
-| 242 | 353 | Reesey Enyart |
-| 243 | 353 | Josh Riemer |
-| 244 | 353 | Jaimie Lynn |
+| 242 | 353 | Jaimie Lynn |
+| 243 | 353 | Reesey Enyart |
+| 244 | 353 | Josh Riemer |
 | 245 | 351 | Tyler Hertzog |
 | 246 | 349 | Cool Shiftsnap |
 | 247 | 348 | John Kim |
 | 248 | 347 | Chantelle Ceno |
 | 249 | 346 | GATOR |
-| 250 | 345 | Jamie Jury |
-| 251 | 345 | Keith Mathis |
+| 250 | 345 | Keith Mathis |
+| 251 | 345 | Jamie Jury |
 | 252 | 344 | dhardy |
-| 253 | 341 | Nick R Montague |
-| 254 | 341 | DoodleBug |
-| 255 | 341 | Standia Civil |
+| 253 | 341 | DoodleBug |
+| 254 | 341 | Nick R Montague |
+| 255 | 340 | Danielle Little-Daugherty |
 | 256 | 340 | Robert |
 | 257 | 338 | Layzietyme |
 | 258 | 338 | Standia Civil |
