@@ -96,8 +96,8 @@
 | 88 | 802 | Crystal Carroll |
 | 89 | 783 | Guy Incognito |
 | 90 | 783 | Denise Carlson |
-| 91 | 775 | TheNeesh50 |
-| 92 | 775 | Klo |
+| 91 | 775 | Klo |
+| 92 | 775 | TheNeesh50 |
 | 93 | 768 | Judy Cox |
 | 94 | 768 | Trista Leah |
 | 95 | 768 | Lori Walker |
@@ -182,12 +182,12 @@
 | 174 | 497 | Brandon Crabbs |
 | 175 | 496 | Cindy Looper |
 | 176 | 492 | Rico |
-| 177 | 491 | Carrie Brian |
-| 178 | 491 | Jade Rian |
+| 177 | 491 | Jade Rian |
+| 178 | 491 | Carrie Brian |
 | 179 | 489 | Swanky Fitline |
 | 180 | 487 | April Rondinone |
-| 181 | 487 | Christina Black |
-| 182 | 487 | Sam Bishop |
+| 181 | 487 | Sam Bishop |
+| 182 | 487 | Christina Black |
 | 183 | 482 | Adam Stephanie Parker |
 | 184 | 478 | Casey Grabner |
 | 185 | 477 | Rebecca Morris |
@@ -214,8 +214,8 @@
 | 206 | 438 | Melvin Baird |
 | 207 | 438 | Jen Mattei |
 | 208 | 434 | Ramel Rhodes |
-| 209 | 433 | Damn Libra |
-| 210 | 433 | Circuit8 |
+| 209 | 433 | Circuit8 |
+| 210 | 433 | Damn Libra |
 | 211 | 431 | Zesty Twistbuilder |
 | 212 | 427 | Steph Marie |
 | 213 | 427 | Chao Ma |
@@ -234,8 +234,8 @@
 | 226 | 409 | Antony Dwayne Beasley |
 | 227 | 403 | TinyLegoRose |
 | 228 | 400 | Brickh4us |
-| 229 | 399 | Lindsay Ball |
-| 230 | 399 | Jeff Brian Gates |
+| 229 | 399 | Jeff Brian Gates |
+| 230 | 399 | Lindsay Ball |
 | 231 | 398 | Tyler Terrific |
 | 232 | 395 | 030Synner |
 | 233 | 394 | Nita Wells |
@@ -603,9 +603,9 @@
 | 595 | 164 | Marvetta Williams |
 | 596 | 164 | Smiley Shifter |
 | 597 | 163 | Michael Orris |
-| 598 | 162 | Cheery Lift |
-| 599 | 162 | Empress Oasis |
-| 600 | 162 | Ben Nome |
+| 598 | 162 | Ben Nome |
+| 599 | 162 | Cheery Lift |
+| 600 | 162 | Empress Oasis |
 | 601 | 161 | Manuel Groleau |
 | 602 | 161 | Shirl |
 | 603 | 160 | Lisa Allen Frisk |

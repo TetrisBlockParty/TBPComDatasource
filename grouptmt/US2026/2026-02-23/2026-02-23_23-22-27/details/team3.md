@@ -377,8 +377,8 @@
 | 369 | 372 | Rich LeBlanc |
 | 370 | 372 | Breanna Marsden |
 | 371 | 370 | Roary Danner |
-| 372 | 370 | TotoCherue |
-| 373 | 370 | Ashley Lynn Marchese |
+| 372 | 370 | Ashley Lynn Marchese |
+| 373 | 370 | TotoCherue |
 | 374 | 369 | Amber Glover |
 | 375 | 368 | Stephanie Woods |
 | 376 | 368 | Sheila M Frazier |

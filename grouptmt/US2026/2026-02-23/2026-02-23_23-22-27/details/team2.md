@@ -243,8 +243,8 @@
 | 235 | 1466 | Julay |
 | 236 | 1463 | Yvonne Wharton |
 | 237 | 1452 | Cody Smith-Candelaria |
-| 238 | 1451 | Catina Hutchison |
-| 239 | 1451 | Anna Edwards |
+| 238 | 1451 | Anna Edwards |
+| 239 | 1451 | Catina Hutchison |
 | 240 | 1450 | Shiny Rollzone |
 | 241 | 1443 | Teddi Notyalc |
 | 242 | 1418 | L3sli3 |
@@ -366,8 +366,8 @@
 | 358 | 1067 | Caitlin Schmid |
 | 359 | 1067 | Taylor Phillips |
 | 360 | 1067 | Bee |
-| 361 | 1065 | SaraMarie Eveland |
-| 362 | 1065 | Dany Murillo |
+| 361 | 1065 | Dany Murillo |
+| 362 | 1065 | SaraMarie Eveland |
 | 363 | 1059 | Bri Lynn |
 | 364 | 1058 | Tiffany Branham |
 | 365 | 1052 | Desiree Anderson |
