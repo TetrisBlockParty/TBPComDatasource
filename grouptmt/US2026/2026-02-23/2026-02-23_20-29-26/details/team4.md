@@ -82,8 +82,8 @@
 | 74 | 862 | Carolyn Wallace |
 | 75 | 855 | Peachy Fall |
 | 76 | 850 | Lucille Truesdale |
-| 77 | 846 | Amelpss |
-| 78 | 846 | Christine Marie |
+| 77 | 846 | Christine Marie |
+| 78 | 846 | Amelpss |
 | 79 | 841 | Shauna Havard |
 | 80 | 837 | Lisa Davis |
 | 81 | 834 | quicksand420 |
@@ -160,8 +160,8 @@
 | 152 | 514 | Lucas J Sutton |
 | 153 | 514 | Scott Jameson |
 | 154 | 513 | Erin Thomas |
-| 155 | 512 | Angela Srubar-Norman |
-| 156 | 512 | ThaEviLJeNiuZ |
+| 155 | 512 | ThaEviLJeNiuZ |
+| 156 | 512 | Angela Srubar-Norman |
 | 157 | 512 | Casey Jeffcoat |
 | 158 | 508 | Twisty Clicky |
 | 159 | 507 | Nick Gray |
@@ -170,12 +170,12 @@
 | 162 | 501 | Jessica Lynn Cutlip |
 | 163 | 498 | Melissa Adams |
 | 164 | 496 | Cindy Looper |
-| 165 | 491 | Jade Rian |
-| 166 | 491 | Carrie Brian |
+| 165 | 491 | Carrie Brian |
+| 166 | 491 | Jade Rian |
 | 167 | 486 | Swanky Fitline |
 | 168 | 485 | Rico |
-| 169 | 480 | Brandon Crabbs |
-| 170 | 480 | Adam Stephanie Parker |
+| 169 | 480 | Adam Stephanie Parker |
+| 170 | 480 | Brandon Crabbs |
 | 171 | 479 | Christina Black |
 | 172 | 477 | Casey Grabner |
 | 173 | 476 | Matt Summer |
@@ -221,8 +221,8 @@
 | 213 | 411 | Silly Zonebuilder |
 | 214 | 411 | Autumn Kumzi |
 | 215 | 400 | Antony Dwayne Beasley |
-| 216 | 399 | Lindsay Ball |
-| 217 | 399 | Jeff Brian Gates |
+| 216 | 399 | Jeff Brian Gates |
+| 217 | 399 | Lindsay Ball |
 | 218 | 398 | Tyler Terrific |
 | 219 | 394 | Nita Wells |
 | 220 | 390 | Kathy Brookins |
@@ -233,8 +233,8 @@
 | 225 | 383 | Brickh4us |
 | 226 | 383 | blockstar |
 | 227 | 381 | Plucky Patternblock |
-| 228 | 380 | Zesty Twistbuilder |
-| 229 | 380 | Rio Rocha |
+| 228 | 380 | Rio Rocha |
+| 229 | 380 | Zesty Twistbuilder |
 | 230 | 379 | Backoff Recupe |
 | 231 | 378 | Lauren Scott |
 | 232 | 376 | shark tato |
@@ -260,8 +260,8 @@
 | 252 | 358 | Twisty Cascadezone |
 | 253 | 356 | mike |
 | 254 | 356 | Joeliecea Cobb |
-| 255 | 355 | Andrew Dang |
-| 256 | 355 | David Lay |
+| 255 | 355 | David Lay |
+| 256 | 355 | Andrew Dang |
 | 257 | 352 | scott |
 | 258 | 350 | Jen Caldwell |
 | 259 | 347 | Gdiguy |
@@ -312,8 +312,8 @@
 | 304 | 292 | Angel Raya |
 | 305 | 292 | Epic Curvetile |
 | 306 | 291 | Dizzy Matchzone |
-| 307 | 291 | Brittney Orengo |
-| 308 | 291 | ZeeZee |
+| 307 | 291 | ZeeZee |
+| 308 | 291 | Brittney Orengo |
 | 309 | 290 | Heather Bruce |
 | 310 | 290 | Neirrah B Olailjeel |
 | 311 | 290 | Jared Gutwein |
@@ -371,15 +371,15 @@
 | 363 | 257 | Marcus TheeyoungWoe Gilmore |
 | 364 | 257 | ĥuf |
 | 365 | 256 | Jason Bosco |
-| 366 | 256 | Paige Kittles |
-| 367 | 256 | Mackenzie Forrester |
+| 366 | 256 | Mackenzie Forrester |
+| 367 | 256 | Paige Kittles |
 | 368 | 253 | Autum Leigh |
 | 369 | 253 | Chair |
 | 370 | 252 | Maureen Flanigan |
-| 371 | 252 | Dan Wold |
-| 372 | 252 | Gracie Ann Taylor |
-| 373 | 251 | Carol Ricks Raymond |
-| 374 | 251 | Kathy Allen |
+| 371 | 252 | Gracie Ann Taylor |
+| 372 | 252 | Dan Wold |
+| 373 | 251 | Kathy Allen |
+| 374 | 251 | Carol Ricks Raymond |
 | 375 | 250 | Stephme310 |
 | 376 | 249 | Ak Jones |
 | 377 | 248 | Chirpy Basepiece |
@@ -398,8 +398,8 @@
 | 390 | 239 | Denise B |
 | 391 | 238 | 中山成巳 |
 | 392 | 236 | The Murphy |
-| 393 | 235 | Shainne Brewer |
-| 394 | 235 | Stacy Jones |
+| 393 | 235 | Stacy Jones |
+| 394 | 235 | Shainne Brewer |
 | 395 | 235 | LaDonna LovinmesomeMe Lambert |
 | 396 | 234 | Diosa Ebalobo Magsael |
 | 397 | 234 | Shanon Klair |
