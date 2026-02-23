@@ -77,8 +77,8 @@
 | 69 | 787 | Edward White |
 | 70 | 767 | Shannon Ferrari |
 | 71 | 766 | Robin Watters |
-| 72 | 765 | Denise Carlson |
-| 73 | 765 | Robin Getchel |
+| 72 | 765 | Robin Getchel |
+| 73 | 765 | Denise Carlson |
 | 74 | 753 | TheNeesh50 |
 | 75 | 752 | Shane Kalamata Platoon |
 | 76 | 749 | Dustee Craddock-Harrison |
@@ -172,15 +172,15 @@
 | 164 | 402 | Lucas J Sutton |
 | 165 | 398 | Tyler Terrific |
 | 166 | 397 | Nick Gray |
-| 167 | 393 | Girl |
-| 168 | 393 | Carlton Unfiltered |
+| 167 | 393 | Carlton Unfiltered |
+| 168 | 393 | Girl |
 | 169 | 391 | Ramel Rhodes |
 | 170 | 389 | Joseph Guthrie |
 | 171 | 383 | Chris Bernstein |
 | 172 | 377 | Guy Incognito |
 | 173 | 375 | Desi Desporte |
-| 174 | 372 | George Nutt |
-| 175 | 372 | Antony Dwayne Beasley |
+| 174 | 372 | Antony Dwayne Beasley |
+| 175 | 372 | George Nutt |
 | 176 | 370 | Oscar Alberto Perez |
 | 177 | 369 | Lindsey Gonzalez |
 | 178 | 368 | Brandon Crabbs |
@@ -304,8 +304,8 @@
 | 296 | 242 | Chaz |
 | 297 | 242 | PurpleMoonMa |
 | 298 | 240 | Perky Patternblock |
-| 299 | 239 | Denise B |
-| 300 | 239 | Laura Hosford |
+| 299 | 239 | Laura Hosford |
+| 300 | 239 | Denise B |
 | 301 | 239 | Joanna |
 | 302 | 238 | Dizzy Matchzone |
 | 303 | 238 | 中山成巳 |
@@ -474,8 +474,8 @@
 | 466 | 160 | Heather Layne Smith |
 | 467 | 160 | icequeenx |
 | 468 | 159 | Groovy Brickmatch |
-| 469 | 158 | Jen Mattei |
-| 470 | 158 | Jasmine S Caldwell |
+| 469 | 158 | Jasmine S Caldwell |
+| 470 | 158 | Jen Mattei |
 | 471 | 158 | Grann8 |
 | 472 | 157 | David Boggs |
 | 473 | 157 | Ryry |
@@ -631,8 +631,8 @@
 | 623 | 115 | blasterB |
 | 624 | 115 | Mona Touchine |
 | 625 | 114 | Richard |
-| 626 | 114 | Ashley Danielle |
-| 627 | 114 | Rosemary Foster |
+| 626 | 114 | Rosemary Foster |
+| 627 | 114 | Ashley Danielle |
 | 628 | 113 | Serena Butter |
 | 629 | 113 | Lilya Troutman |
 | 630 | 113 | Abigail Murphy |

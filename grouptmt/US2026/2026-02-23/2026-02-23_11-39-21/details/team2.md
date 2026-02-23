@@ -332,8 +332,8 @@
 | 324 | 955 | Angela Bonquiqui Dinish |
 | 325 | 954 | Melissa McCall |
 | 326 | 952 | Arkei Luster |
-| 327 | 951 | Wakanda Forever |
-| 328 | 951 | Cynthia Ward |
+| 327 | 951 | Cynthia Ward |
+| 328 | 951 | Wakanda Forever |
 | 329 | 949 | Steve Man |
 | 330 | 947 | Dedra Steward |
 | 331 | 942 | Cindy Sechler Taninecz |
@@ -354,8 +354,8 @@
 | 346 | 907 | Gene Mills |
 | 347 | 904 | John Bednarik |
 | 348 | 904 | Bee |
-| 349 | 903 | Eric Castaneda |
-| 350 | 903 | Giggy Blocker |
+| 349 | 903 | Giggy Blocker |
+| 350 | 903 | Eric Castaneda |
 | 351 | 902 | Diallo Sparkman |
 | 352 | 901 | Kevin Sees |
 | 353 | 899 | Felicia Lynn |
@@ -414,8 +414,8 @@
 | 406 | 801 | Gold Rose |
 | 407 | 801 | Diana Fitzwater |
 | 408 | 800 | Arlene Joy Belicina |
-| 409 | 799 | Kenny Alvarado |
-| 410 | 799 | Joy LaJeunesse |
+| 409 | 799 | Joy LaJeunesse |
+| 410 | 799 | Kenny Alvarado |
 | 411 | 796 | AndrewandShela Gornik |
 | 412 | 796 | Amber Gray |
 | 413 | 793 | Jaycee |
@@ -424,8 +424,8 @@
 | 416 | 788 | Erika Densmore |
 | 417 | 787 | DefaultUser |
 | 418 | 783 | John Rodriguez |
-| 419 | 777 | Jessicah Myers |
-| 420 | 777 | Tesha Oldaker |
+| 419 | 777 | Tesha Oldaker |
+| 420 | 777 | Jessicah Myers |
 | 421 | 776 | Fancy Twister |
 | 422 | 776 | Mighty Spinbuilder |
 | 423 | 775 | Crystie Hicks |
@@ -469,8 +469,8 @@
 | 461 | 730 | Hoppy Brickmatch |
 | 462 | 729 | goofinoff |
 | 463 | 728 | Mikayala Szaz |
-| 464 | 728 | Tom Riefer |
-| 465 | 728 | Dylan Thomason |
+| 464 | 728 | Dylan Thomason |
+| 465 | 728 | Tom Riefer |
 | 466 | 727 | BeQuo |
 | 467 | 726 | Joce Lynn |
 | 468 | 726 | Crystal Greene |
@@ -1080,8 +1080,8 @@
 | 1072 | 363 | Tammy Mitchell |
 | 1073 | 363 | Veronica Martin Trinkle |
 | 1074 | 362 | Boldy Brickfit |
-| 1075 | 362 | Megan Phillips |
-| 1076 | 362 | Del Davis |
+| 1075 | 362 | Del Davis |
+| 1076 | 362 | Megan Phillips |
 | 1077 | 361 | Mary Boss |
 | 1078 | 361 | Byung Bae Park |
 | 1079 | 361 | Tosa Puvapiromquan |
@@ -1142,8 +1142,8 @@
 | 1134 | 345 | Rhianna DiLorenzo |
 | 1135 | 344 | Glenn Cobbins |
 | 1136 | 344 | J.L. Roberts |
-| 1137 | 344 | Swanky Snap |
-| 1138 | 344 | Dean Glenn |
+| 1137 | 344 | Dean Glenn |
+| 1138 | 344 | Swanky Snap |
 | 1139 | 343 | Alexandrea |
 | 1140 | 343 | Araba Tee |
 | 1141 | 343 | Kat |
@@ -1155,10 +1155,10 @@
 | 1147 | 342 | Theresa Sterrett |
 | 1148 | 342 | SwifftFox |
 | 1149 | 341 | Alphia Price |
-| 1150 | 341 | Joseph Jones |
-| 1151 | 341 | Robin L. Vial |
-| 1152 | 341 | Tara Merrill |
-| 1153 | 341 | Bubbly Brickline |
+| 1150 | 341 | Robin L. Vial |
+| 1151 | 341 | Joseph Jones |
+| 1152 | 341 | Bubbly Brickline |
+| 1153 | 341 | Tara Merrill |
 | 1154 | 340 | RetroLemur |
 | 1155 | 340 | Arlet Alba |
 | 1156 | 340 | Man of Steel |
@@ -1167,8 +1167,8 @@
 | 1159 | 339 | Meganator42 |
 | 1160 | 339 | Nutty Cascade |
 | 1161 | 338 | Goofy Blockfall |
-| 1162 | 337 | Spicy Riser |
-| 1163 | 337 | Sunny Pusher |
+| 1162 | 337 | Sunny Pusher |
+| 1163 | 337 | Spicy Riser |
 | 1164 | 337 | Jennifer Mahon |
 | 1165 | 337 | Sassy Pattern |
 | 1166 | 337 | Harrison Littrell |
@@ -1192,8 +1192,8 @@
 | 1184 | 334 | Lianne Giandalone LaBounty |
 | 1185 | 334 | Melinda Avriett |
 | 1186 | 334 | Katie Joy McCombs |
-| 1187 | 333 | Shilo Anderson |
-| 1188 | 333 | Paula Martinez |
+| 1187 | 333 | Paula Martinez |
+| 1188 | 333 | Shilo Anderson |
 | 1189 | 333 | Erika Deer Kauffman |
 | 1190 | 332 | Steve Webb |
 | 1191 | 331 | Islandlife456 |
@@ -1271,8 +1271,8 @@
 | 1263 | 311 | Chipper Basepiece |
 | 1264 | 311 | Audra Williams |
 | 1265 | 311 | Chelsea Gutierrez |
-| 1266 | 310 | Wendy Ducheney |
-| 1267 | 310 | Angelica |
+| 1266 | 310 | Angelica |
+| 1267 | 310 | Wendy Ducheney |
 | 1268 | 310 | David Rehse |
 | 1269 | 310 | Erica Dale |
 | 1270 | 309 | Funky Liney |

@@ -478,8 +478,8 @@
 | 470 | 169 | Davery Spencer Adair |
 | 471 | 168 | Mrs.Patrica |
 | 472 | 166 | Gilbert Ortiz Jr. |
-| 473 | 165 | Rodney Schmerfeld |
-| 474 | 165 | Stephanie Leday |
+| 473 | 165 | Stephanie Leday |
+| 474 | 165 | Rodney Schmerfeld |
 | 475 | 164 | Brenda L. Bunce |
 | 476 | 163 | dhardy |
 | 477 | 163 | SavageBooty98 |
