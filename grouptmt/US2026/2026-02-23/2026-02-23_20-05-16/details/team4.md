@@ -82,8 +82,8 @@
 | 74 | 862 | Carolyn Wallace |
 | 75 | 855 | Peachy Fall |
 | 76 | 850 | Lucille Truesdale |
-| 77 | 846 | Christine Marie |
-| 78 | 846 | Amelpss |
+| 77 | 846 | Amelpss |
+| 78 | 846 | Christine Marie |
 | 79 | 841 | Shauna Havard |
 | 80 | 837 | Lisa Davis |
 | 81 | 834 | quicksand420 |
@@ -117,8 +117,8 @@
 | 109 | 667 | Amy Suckarieh |
 | 110 | 663 | H.R. Block |
 | 111 | 659 | Jamie Gustafson |
-| 112 | 658 | Girl |
-| 113 | 658 | Zippy Gridlock |
+| 112 | 658 | Zippy Gridlock |
+| 113 | 658 | Girl |
 | 114 | 652 | Leslie Nicole |
 | 115 | 649 | Chris Alexinas |
 | 116 | 647 | Lindsey Gonzalez |
@@ -1368,7 +1368,7 @@
 | 1360 | 40 | Loopy Risegrid |
 | 1361 | 40 | Dan Kraly |
 | 1362 | 40 | Alexis Kelly |
-| 1363 | 40 | Dan Kraly |
+| 1363 | 40 | Crystal Canfield |
 | 1364 | 39 | Yanais Fernandez |
 | 1365 | 39 | Scarlet Sunset |
 | 1366 | 39 | Lucky2Guns |
@@ -1793,7 +1793,7 @@
 | 1785 | 9 | Loony Clusterer |
 | 1786 | 9 | aned |
 | 1787 | 9 | Garrick Wilfork |
-| 1788 | 9 | Andy Martorana |
+| 1788 | 9 | Bubbly Rumbler |
 | 1789 | 9 | Charlie Author Richardson |
 | 1790 | 9 | Andy Martorana |
 | 1791 | 8 | Loopy Fill |

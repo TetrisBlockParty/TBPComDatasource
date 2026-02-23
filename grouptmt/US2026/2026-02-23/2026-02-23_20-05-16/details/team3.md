@@ -144,8 +144,8 @@
 | 136 | 864 | Sunny Rotater |
 | 137 | 841 | Loopy Fallmatch |
 | 138 | 837 | mzcatzy |
-| 139 | 834 | Kristin Delibac Corrigan |
-| 140 | 834 | opf |
+| 139 | 834 | opf |
+| 140 | 834 | Kristin Delibac Corrigan |
 | 141 | 833 | Crystal Frey |
 | 142 | 820 | Brenda Lee Vander Molen |
 | 143 | 815 | Dolores Falco |
@@ -185,8 +185,8 @@
 | 177 | 695 | Samantha Greco |
 | 178 | 690 | Patricia White |
 | 179 | 684 | Nicole Myers |
-| 180 | 675 | Angela Scott |
-| 181 | 675 | Edwin Calvillo Jr. |
+| 180 | 675 | Edwin Calvillo Jr. |
+| 181 | 675 | Angela Scott |
 | 182 | 657 | Chasity |
 | 183 | 655 | Rochelle Hazelett |
 | 184 | 647 | Jennifer Lynn Fahrenholtz-Summers |
@@ -321,8 +321,8 @@
 | 313 | 403 | Stephanie Burtin |
 | 314 | 400 | Dana Winters |
 | 315 | 399 | Num1hater |
-| 316 | 398 | fraulila |
-| 317 | 398 | France Vézina |
+| 316 | 398 | France Vézina |
+| 317 | 398 | fraulila |
 | 318 | 397 | Christian Werndl |
 | 319 | 396 | Cheryl Hinch Tenbrook |
 | 320 | 396 | Tia |
@@ -474,8 +474,8 @@
 | 466 | 291 | Niki Dalrymple |
 | 467 | 291 | Bryan Byrd |
 | 468 | 290 | Carrie Resler |
-| 469 | 290 | Tegan Chapman |
-| 470 | 290 | Justin Parker |
+| 469 | 290 | Justin Parker |
+| 470 | 290 | Tegan Chapman |
 | 471 | 289 | DidIdothat |
 | 472 | 287 | Jessica Lynn French |
 | 473 | 287 | Carol Cain Thurman |
