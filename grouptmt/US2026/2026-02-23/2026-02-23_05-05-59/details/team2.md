@@ -62,8 +62,8 @@
 | 54 | 3359 | jayjay |
 | 55 | 3321 | Kelly Crook |
 | 56 | 3289 | Jennifer Peachey |
-| 57 | 3288 | YiFei |
-| 58 | 3288 | Maegan Beaule |
+| 57 | 3288 | Maegan Beaule |
+| 58 | 3288 | YiFei |
 | 59 | 3265 | Melinda Brown |
 | 60 | 3241 | Dineisha Carpenter |
 | 61 | 3203 | Sam McKenzie |
@@ -207,8 +207,8 @@
 | 199 | 1300 | Tacara Cummings |
 | 200 | 1293 | Anna Edwards |
 | 201 | 1286 | Altamirano Michael |
-| 202 | 1282 | Ashley Rose Frederick |
-| 203 | 1282 | Tanya Parsons |
+| 202 | 1282 | Tanya Parsons |
+| 203 | 1282 | Ashley Rose Frederick |
 | 204 | 1259 | Foxxo |
 | 205 | 1258 | Joyce Johnson Vaughn |
 | 206 | 1252 | Angel |

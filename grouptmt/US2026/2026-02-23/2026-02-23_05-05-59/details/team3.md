@@ -273,8 +273,8 @@
 | 265 | 357 | Stephanie Burtin |
 | 266 | 354 | Kelly |
 | 267 | 353 | Dee Franklin |
-| 268 | 352 | Samantha Lynn |
-| 269 | 352 | Christian Werndl |
+| 268 | 352 | Christian Werndl |
+| 269 | 352 | Samantha Lynn |
 | 270 | 351 | Eon Harris |
 | 271 | 350 | LaShey Thompson |
 | 272 | 349 | Amanda J. Mcneil-Anderson |

@@ -57,8 +57,8 @@
 | 49 | 863 | Pee |
 | 50 | 855 | Marvin Lou Martin |
 | 51 | 853 | TeeJ |
-| 52 | 846 | Lucille Truesdale |
-| 53 | 846 | Christine Marie |
+| 52 | 846 | Christine Marie |
+| 53 | 846 | Lucille Truesdale |
 | 54 | 845 | LisaJo Picken Buchanan |
 | 55 | 843 | Shelly Chandler |
 | 56 | 841 | Anthony Bryan Riva |
@@ -117,8 +117,8 @@
 | 109 | 528 | Rodney McMath Jr. |
 | 110 | 527 | Dizzy Tiley |
 | 111 | 519 | Nugget |
-| 112 | 517 | shar |
-| 113 | 517 | Christina LR |
+| 112 | 517 | Christina LR |
+| 113 | 517 | shar |
 | 114 | 514 | Scott Jameson |
 | 115 | 514 | Serena Goodridge |
 | 116 | 513 | Erin Thomas |
@@ -172,8 +172,8 @@
 | 164 | 368 | Chris Bernstein |
 | 165 | 368 | Raegan Lane-Ross |
 | 166 | 365 | Jeff Brian Gates |
-| 167 | 361 | Danielle Kollias |
-| 168 | 361 | Melissa Adams |
+| 167 | 361 | Melissa Adams |
+| 168 | 361 | Danielle Kollias |
 | 169 | 359 | Keith Kelley |
 | 170 | 358 | A5! |
 | 171 | 356 | George Nutt |
@@ -212,8 +212,8 @@
 | 204 | 300 | Zakia Monae |
 | 205 | 300 | Dihcheese444 |
 | 206 | 295 | Keshia Lyons |
-| 207 | 294 | Porkobello |
-| 208 | 294 | Calvin Cannon |
+| 207 | 294 | Calvin Cannon |
+| 208 | 294 | Porkobello |
 | 209 | 292 | Epic Curvetile |
 | 210 | 290 | Jared Gutwein |
 | 211 | 290 | Plucky Patternblock |
@@ -241,8 +241,8 @@
 | 233 | 270 | Juls |
 | 234 | 267 | JPW |
 | 235 | 266 | Mr. Party |
-| 236 | 265 | Sarah Neathery |
-| 237 | 265 | Silly SeaWeed |
+| 236 | 265 | Silly SeaWeed |
+| 237 | 265 | Sarah Neathery |
 | 238 | 264 | Stella |
 | 239 | 262 | Selena Shaw |
 | 240 | 262 | BigSammy420 |
