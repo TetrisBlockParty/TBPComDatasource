@@ -268,8 +268,8 @@
 | 260 | 1093 | Real Ri |
 | 261 | 1088 | Brainy Smurf |
 | 262 | 1080 | Tyler C. Jung |
-| 263 | 1079 | Jennifer Kistner |
-| 264 | 1079 | Kimberly Hauck-Rausch |
+| 263 | 1079 | Kimberly Hauck-Rausch |
+| 264 | 1079 | Jennifer Kistner |
 | 265 | 1076 | Alezandra Smith |
 | 266 | 1073 | Jodi Blake |
 | 267 | 1071 | Kim Dean |
@@ -305,8 +305,8 @@
 | 297 | 996 | Ashie Ann |
 | 298 | 987 | Osun Anuket Esu |
 | 299 | 984 | Crystal Hoffman |
-| 300 | 979 | Hillary Crawford |
-| 301 | 979 | Melissa Penelope Ann Dodge |
+| 300 | 979 | Melissa Penelope Ann Dodge |
+| 301 | 979 | Hillary Crawford |
 | 302 | 978 | April Dawn Gussler |
 | 303 | 976 | Sam Joe |
 | 304 | 976 | Della Hole |
@@ -314,8 +314,8 @@
 | 306 | 972 | Binyah-Binyah |
 | 307 | 972 | Barbra Miller |
 | 308 | 971 | Jojo Momma |
-| 309 | 969 | Em Chen |
-| 310 | 969 | Boldy Cascadepiece |
+| 309 | 969 | Boldy Cascadepiece |
+| 310 | 969 | Em Chen |
 | 311 | 961 | Angela Lynn |
 | 312 | 959 | Phil J. Grombliniak |
 | 313 | 958 | Brenda Messer |

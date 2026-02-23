@@ -121,8 +121,8 @@
 | 113 | 831 | Angeline Joseph |
 | 114 | 830 | Stephanie Allmon |
 | 115 | 826 | Shane Wilson Jr. |
-| 116 | 816 | Jesse Olive |
-| 117 | 816 | Brenda Lee Vander Molen |
+| 116 | 816 | Brenda Lee Vander Molen |
+| 117 | 816 | Jesse Olive |
 | 118 | 802 | Bobbi Moore |
 | 119 | 800 | Lauren Girouard |
 | 120 | 799 | Dolores Falco |
@@ -347,8 +347,8 @@
 | 339 | 299 | Angie Harper |
 | 340 | 299 | TotoCherue |
 | 341 | 299 | Hasty Gridpiece |
-| 342 | 298 | Grams |
-| 343 | 298 | Dannie Litchard |
+| 342 | 298 | Dannie Litchard |
+| 343 | 298 | Grams |
 | 344 | 297 | kacihall |
 | 345 | 296 | Tracy Martin |
 | 346 | 296 | Donna |
@@ -465,8 +465,8 @@
 | 457 | 233 | Tony Waters |
 | 458 | 233 | Criss |
 | 459 | 232 | Sunny Tiltgrid |
-| 460 | 232 | Melanie Sherwood |
-| 461 | 232 | Stephanie Hill |
+| 460 | 232 | Stephanie Hill |
+| 461 | 232 | Melanie Sherwood |
 | 462 | 231 | Giggly Brickroll |
 | 463 | 230 | DanceLuvLaugh |
 | 464 | 230 | BigE |
@@ -526,7 +526,7 @@
 | 518 | 207 | Nichol Graham |
 | 519 | 206 | Tammy Rosenberry |
 | 520 | 206 | Dakota Graham |
-| 521 | 205 | Rachel Napper |
+| 521 | 205 | Emberblaze |
 | 522 | 205 | Bouncy Blockbuilder |
 | 523 | 205 | Rachel Napper |
 | 524 | 204 | Jonathn Poindexter |
