@@ -191,8 +191,8 @@
 | 183 | 1317 | Laura Wyatt |
 | 184 | 1316 | Rosa Franklin |
 | 185 | 1306 | Isabela Shaw |
-| 186 | 1300 | Rich Sullivan |
-| 187 | 1300 | Tacara Cummings |
+| 186 | 1300 | Tacara Cummings |
+| 187 | 1300 | Rich Sullivan |
 | 188 | 1294 | Ashley House |
 | 189 | 1292 | Mischelle Clay |
 | 190 | 1286 | Altamirano Michael |
@@ -265,8 +265,8 @@
 | 257 | 1024 | Susan Perraut Jones |
 | 258 | 1024 | Taylor Phillips |
 | 259 | 1022 | Shannon Joslin |
-| 260 | 1011 | Teresa Gillmore |
-| 261 | 1011 | Glitzy Stackzone |
+| 260 | 1011 | Glitzy Stackzone |
+| 261 | 1011 | Teresa Gillmore |
 | 262 | 1003 | Andrea Maher |
 | 263 | 1002 | Foxxo |
 | 264 | 998 | Shelley Thornburgh Wright |
@@ -389,15 +389,15 @@
 | 381 | 748 | Brenda Utphall |
 | 382 | 748 | Stephanie Lumanlan |
 | 383 | 747 | Kiely Tomaskovich |
-| 384 | 746 | Jerilyn Andrina |
-| 385 | 746 | Leslie Ann Carter |
+| 384 | 746 | Leslie Ann Carter |
+| 385 | 746 | Jerilyn Andrina |
 | 386 | 744 | Mandi Douglas Hilt |
 | 387 | 743 | Tiara Elizabeth Baker |
 | 388 | 741 | Jánine Riggs |
 | 389 | 740 | Jerry Tempelmeyer |
 | 390 | 738 | Aimee Campbell |
-| 391 | 737 | Jeremy Parodi |
-| 392 | 737 | Chelle |
+| 391 | 737 | Chelle |
+| 392 | 737 | Jeremy Parodi |
 | 393 | 737 | Ginger |
 | 394 | 732 | Victoria Moore-Smith |
 | 395 | 731 | Allan Wayne Lamia |
@@ -624,8 +624,8 @@
 | 616 | 494 | Snippy Rumbler |
 | 617 | 493 | Kristie Wilcox |
 | 618 | 493 | Sue Leard |
-| 619 | 493 | James Smith |
-| 620 | 493 | Skyler Morgan |
+| 619 | 493 | Skyler Morgan |
+| 620 | 493 | James Smith |
 | 621 | 492 | Breezy Clusterer |
 | 622 | 491 | Jedi |
 | 623 | 489 | Christy Krissie |

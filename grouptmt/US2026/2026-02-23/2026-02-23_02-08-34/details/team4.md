@@ -75,11 +75,11 @@
 | 67 | 749 | Dustee Craddock-Harrison |
 | 68 | 748 | loulou |
 | 69 | 739 | Avy Absol |
-| 70 | 736 | Carolyn Wallace |
-| 71 | 736 | Goatimus Lombardi |
+| 70 | 736 | Goatimus Lombardi |
+| 71 | 736 | Carolyn Wallace |
 | 72 | 725 | Denise Carlson |
-| 73 | 704 | Crystal Carroll |
-| 74 | 704 | D3TROITB0RN74 |
+| 73 | 704 | D3TROITB0RN74 |
+| 74 | 704 | Crystal Carroll |
 | 75 | 697 | Alyssa Papen |
 | 76 | 684 | Jonathan Kimbrough |
 | 77 | 677 | TheNeesh50 |
@@ -135,8 +135,8 @@
 | 127 | 435 | Leslie Thomas |
 | 128 | 435 | Ren Mc |
 | 129 | 431 | Courtney Cicoria |
-| 130 | 421 | JIGsaw ~(•¿°)~ |
-| 131 | 421 | Kesha Brady |
+| 130 | 421 | Kesha Brady |
+| 131 | 421 | JIGsaw ~(•¿°)~ |
 | 132 | 418 | Marie-Pier Desjardins |
 | 133 | 418 | Lush Linkfall |
 | 134 | 418 | Monica Daley |

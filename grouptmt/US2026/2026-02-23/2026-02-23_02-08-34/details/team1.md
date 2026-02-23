@@ -129,8 +129,8 @@
 | 121 | 416 | Dandy Basegrid |
 | 122 | 409 | Yvonne Marie |
 | 123 | 409 | Goose egg |
-| 124 | 406 | Candy Jones |
-| 125 | 406 | Desiree Deschaine Havee |
+| 124 | 406 | Desiree Deschaine Havee |
+| 125 | 406 | Candy Jones |
 | 126 | 402 | Chris K |
 | 127 | 400 | Maria C. Hernandez |
 | 128 | 399 | Nery Martinez |
@@ -193,8 +193,8 @@
 | 185 | 306 | Angela Renea Lester |
 | 186 | 306 | J.F. Fields |
 | 187 | 304 | David Lutcher |
-| 188 | 303 | Letson Melissa |
-| 189 | 303 | ALFD |
+| 188 | 303 | ALFD |
+| 189 | 303 | Letson Melissa |
 | 190 | 302 | Erin Rosberg |
 | 191 | 301 | Damon J. Martin |
 | 192 | 296 | Cody Gates |
@@ -339,9 +339,9 @@
 | 331 | 188 | Larry Tilton |
 | 332 | 188 | Brian Taylor |
 | 333 | 188 | Garcia Bailey |
-| 334 | 187 | GringaLinga |
+| 334 | 187 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 335 | 187 | Cool Towerzone |
-| 336 | 187 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
+| 336 | 187 | GringaLinga |
 | 337 | 187 | Jessica Weed |
 | 338 | 186 | Nikki Fridley |
 | 339 | 185 | Hasty Columnbuilder |

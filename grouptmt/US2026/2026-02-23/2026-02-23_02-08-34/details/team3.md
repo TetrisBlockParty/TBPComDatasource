@@ -111,8 +111,8 @@
 | 103 | 831 | Angeline Joseph |
 | 104 | 830 | Stephanie Allmon |
 | 105 | 826 | Shane Wilson Jr. |
-| 106 | 816 | Araceli Parra |
-| 107 | 816 | Brenda Lee Vander Molen |
+| 106 | 816 | Brenda Lee Vander Molen |
+| 107 | 816 | Araceli Parra |
 | 108 | 800 | Lauren Girouard |
 | 109 | 799 | Dolores Falco |
 | 110 | 778 | Jesse Olive |
@@ -242,8 +242,8 @@
 | 234 | 378 | Chris Bell |
 | 235 | 375 | Kristal C Lee |
 | 236 | 373 | Rebecca Funderburk Kirby |
-| 237 | 372 | Rich LeBlanc |
-| 238 | 372 | Sarah Moyer |
+| 237 | 372 | Sarah Moyer |
+| 238 | 372 | Rich LeBlanc |
 | 239 | 370 | RickyG |
 | 240 | 369 | Marquita Sheard |
 | 241 | 369 | Keis |
@@ -254,10 +254,10 @@
 | 246 | 362 | Brandon Givens |
 | 247 | 361 | Shawn Miller |
 | 248 | 360 | Sheila M Frazier |
-| 249 | 357 | Ammmmmmy |
-| 250 | 357 | Stephanie Burtin |
-| 251 | 352 | Samantha Lynn |
-| 252 | 352 | Christian Werndl |
+| 249 | 357 | Stephanie Burtin |
+| 250 | 357 | Ammmmmmy |
+| 251 | 352 | Christian Werndl |
+| 252 | 352 | Samantha Lynn |
 | 253 | 351 | Eon Harris |
 | 254 | 349 | Amanda J. Mcneil-Anderson |
 | 255 | 347 | Rania Zaqout |
