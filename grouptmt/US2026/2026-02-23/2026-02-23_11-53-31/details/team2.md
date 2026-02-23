@@ -135,8 +135,8 @@
 | 127 | 1937 | Adam Erikson |
 | 128 | 1932 | Gary Schaffner Jr. |
 | 129 | 1931 | Angi Harrison |
-| 130 | 1899 | Jumpy Gridpiece |
-| 131 | 1899 | Jamie Main |
+| 130 | 1899 | Jamie Main |
+| 131 | 1899 | Jumpy Gridpiece |
 | 132 | 1895 | Goofy Snapfit |
 | 133 | 1890 | Aimee Byrom |
 | 134 | 1887 | Tonya Brooks-Johnson |
@@ -145,8 +145,8 @@
 | 137 | 1818 | Shandrica Lowe |
 | 138 | 1812 | Shameika Trail |
 | 139 | 1774 | Crystal Elam |
-| 140 | 1769 | Chirpy Staggerpiece |
-| 141 | 1769 | Katrina Williams Balmir |
+| 140 | 1769 | Katrina Williams Balmir |
+| 141 | 1769 | Chirpy Staggerpiece |
 | 142 | 1767 | niecy |
 | 143 | 1755 | Loopy Clusterbuilder |
 | 144 | 1755 | Rebecca Doughman |
@@ -645,8 +645,8 @@
 | 637 | 570 | Boldy Wiper |
 | 638 | 569 | Sparkles |
 | 639 | 566 | Lindsey Leigh |
-| 640 | 566 | Tina Marie |
-| 641 | 566 | SwampRebel |
+| 640 | 566 | SwampRebel |
+| 641 | 566 | Tina Marie |
 | 642 | 564 | Stacey Tranchida |
 | 643 | 563 | Nat |
 | 644 | 563 | Frisky Clearpiece |

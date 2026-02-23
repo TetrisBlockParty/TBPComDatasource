@@ -138,8 +138,8 @@
 | 130 | 755 | Raya |
 | 131 | 752 | Logan Naccarato |
 | 132 | 748 | Adrian Marcel Pate |
-| 133 | 745 | JerseyJess |
-| 134 | 745 | ren |
+| 133 | 745 | ren |
+| 134 | 745 | JerseyJess |
 | 135 | 744 | Leah Barnett |
 | 136 | 744 | Fancy Cascader |
 | 137 | 736 | mzcatzy |
@@ -207,8 +207,8 @@
 | 199 | 525 | Stephanie Blkpep Davidson |
 | 200 | 524 | Bmo |
 | 201 | 521 | Shannon Matthew Byers |
-| 202 | 519 | rnr junky |
-| 203 | 519 | Terry Jo Jones |
+| 202 | 519 | Terry Jo Jones |
+| 203 | 519 | rnr junky |
 | 204 | 515 | Cozy Snaplink |
 | 205 | 513 | Lizabeth Fox |
 | 206 | 503 | Tye Stovall |
@@ -249,10 +249,10 @@
 | 241 | 429 | Carrie Huskey |
 | 242 | 428 | Sleepy |
 | 243 | 421 | Chummy Caster |
-| 244 | 419 | Kristin Delibac Corrigan |
-| 245 | 419 | Marci Mize Fandrich |
-| 246 | 417 | Giddy Twistbuilder |
-| 247 | 417 | Nicole Flippo |
+| 244 | 419 | Marci Mize Fandrich |
+| 245 | 419 | Kristin Delibac Corrigan |
+| 246 | 417 | Nicole Flippo |
+| 247 | 417 | Giddy Twistbuilder |
 | 248 | 414 | Fran Lin |
 | 249 | 413 | Randy Clevenger |
 | 250 | 413 | Micayah Stevens |
@@ -512,8 +512,8 @@
 | 504 | 218 | Dapper Chiseler |
 | 505 | 218 | Tina Smith Roy |
 | 506 | 218 | Ginger Gray |
-| 507 | 218 | Sabrina Mansfield |
-| 508 | 218 | Christine Foley |
+| 507 | 218 | Christine Foley |
+| 508 | 218 | Sabrina Mansfield |
 | 509 | 217 | Katie Leigh Blankenship |
 | 510 | 217 | Tia Moore |
 | 511 | 217 | Jazzy Spinfit |
@@ -526,9 +526,9 @@
 | 518 | 213 | Jack Bo |
 | 519 | 213 | Flashy Rumbler |
 | 520 | 213 | Ktfreeee |
-| 521 | 212 | Frilly Stackzone |
-| 522 | 212 | Beth Ingham |
-| 523 | 212 | Boldy Blocker |
+| 521 | 212 | Boldy Blocker |
+| 522 | 212 | Frilly Stackzone |
+| 523 | 212 | Beth Ingham |
 | 524 | 211 | El Chapa |
 | 525 | 211 | Laaken Draper |
 | 526 | 211 | Michael Pleasant |
@@ -612,8 +612,8 @@
 | 604 | 187 | Kelly Koenig |
 | 605 | 187 | Crystal Johnson |
 | 606 | 186 | Frisky Stacker |
-| 607 | 186 | Rayzer |
-| 608 | 186 | Funky Jumper |
+| 607 | 186 | Funky Jumper |
+| 608 | 186 | Rayzer |
 | 609 | 185 | Ashley Kennedy |
 | 610 | 185 | Breezy Roll |
 | 611 | 184 | Shanon R Jackson |

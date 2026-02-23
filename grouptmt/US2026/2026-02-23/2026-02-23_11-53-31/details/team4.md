@@ -77,8 +77,8 @@
 | 69 | 787 | loulou |
 | 70 | 767 | Shannon Ferrari |
 | 71 | 766 | Robin Watters |
-| 72 | 765 | Denise Carlson |
-| 73 | 765 | Robin Getchel |
+| 72 | 765 | Robin Getchel |
+| 73 | 765 | Denise Carlson |
 | 74 | 753 | TheNeesh50 |
 | 75 | 752 | Shane Kalamata Platoon |
 | 76 | 749 | Dustee Craddock-Harrison |
@@ -127,8 +127,8 @@
 | 119 | 527 | Dizzy Tiley |
 | 120 | 521 | Andy Cabral |
 | 121 | 517 | shar |
-| 122 | 514 | Scott Jameson |
-| 123 | 514 | Serena Goodridge |
+| 122 | 514 | Serena Goodridge |
+| 123 | 514 | Scott Jameson |
 | 124 | 513 | Erin Thomas |
 | 125 | 512 | Casey Jeffcoat |
 | 126 | 512 | Cristy Duerksen |
@@ -231,16 +231,16 @@
 | 223 | 307 | Michele Plunkett |
 | 224 | 306 | mike |
 | 225 | 305 | Melvin Baird |
-| 226 | 304 | Gdiguy |
-| 227 | 304 | Lindsay Ball |
+| 226 | 304 | Lindsay Ball |
+| 227 | 304 | Gdiguy |
 | 228 | 301 | Andria Lynn |
 | 229 | 300 | Dana Scott |
 | 230 | 295 | Keshia Lyons |
 | 231 | 294 | Calvin Cannon |
 | 232 | 292 | Epic Curvetile |
 | 233 | 291 | Mimi |
-| 234 | 290 | Plucky Patternblock |
-| 235 | 290 | Rebecca Morris |
+| 234 | 290 | Rebecca Morris |
+| 235 | 290 | Plucky Patternblock |
 | 236 | 290 | Jared Gutwein |
 | 237 | 289 | Juls |
 | 238 | 288 | Leah Kutz Zirbel |
@@ -597,8 +597,8 @@
 | 589 | 122 | Mike Burlingame |
 | 590 | 122 | Martha Lucinda Bishop |
 | 591 | 122 | bloat princess |
-| 592 | 122 | Mary Therese Benden Cole |
-| 593 | 122 | meowmew |
+| 592 | 122 | meowmew |
+| 593 | 122 | Mary Therese Benden Cole |
 | 594 | 121 | Flashy Jumper |
 | 595 | 121 | Jeff Roberts |
 | 596 | 120 | mistresscoundrl1 |
