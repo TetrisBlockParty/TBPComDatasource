@@ -57,8 +57,8 @@
 | 49 | 863 | Pee |
 | 50 | 855 | Marvin Lou Martin |
 | 51 | 853 | TeeJ |
-| 52 | 846 | Christine Marie |
-| 53 | 846 | Lucille Truesdale |
+| 52 | 846 | Lucille Truesdale |
+| 53 | 846 | Christine Marie |
 | 54 | 845 | LisaJo Picken Buchanan |
 | 55 | 843 | Shelly Chandler |
 | 56 | 841 | Anthony Bryan Riva |
@@ -122,8 +122,8 @@
 | 114 | 514 | Scott Jameson |
 | 115 | 514 | Serena Goodridge |
 | 116 | 513 | Erin Thomas |
-| 117 | 512 | Cristy Duerksen |
-| 118 | 512 | Casey Jeffcoat |
+| 117 | 512 | Casey Jeffcoat |
+| 118 | 512 | Cristy Duerksen |
 | 119 | 511 | Lori Walker |
 | 120 | 489 | Chilly Crasher |
 | 121 | 482 | Ren Mc |
@@ -307,9 +307,9 @@
 | 299 | 216 | mike |
 | 300 | 216 | ZeeZee |
 | 301 | 215 | Stephme310 |
-| 302 | 214 | Patron Anderson |
+| 302 | 214 | Chantilly Laace |
 | 303 | 214 | Stacey Stano |
-| 304 | 214 | Chantilly Laace |
+| 304 | 214 | Patron Anderson |
 | 305 | 213 | Jackie Marie |
 | 306 | 212 | Zany Shatterer |
 | 307 | 212 | Mike Solo |

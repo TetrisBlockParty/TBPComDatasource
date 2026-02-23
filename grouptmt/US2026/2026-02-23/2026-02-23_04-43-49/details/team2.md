@@ -157,8 +157,8 @@
 | 149 | 1578 | Sally Dennis |
 | 150 | 1571 | Alisa Lamb |
 | 151 | 1560 | Donnie Hunt |
-| 152 | 1558 | Stephen Stephen |
-| 153 | 1558 | Tim Dyer |
+| 152 | 1558 | Tim Dyer |
+| 153 | 1558 | Stephen Stephen |
 | 154 | 1555 | blarg |
 | 155 | 1541 | Cherica Taylor |
 | 156 | 1537 | Desiree Harris Rosch |
@@ -248,10 +248,10 @@
 | 240 | 1121 | Sarah Freitas |
 | 241 | 1120 | Chirpy Staggerpiece |
 | 242 | 1114 | Ginnell Browner |
-| 243 | 1114 | Kevin Walp |
-| 244 | 1114 | Maria Escobar |
-| 245 | 1111 | Julay |
-| 246 | 1111 | Moose Griffith |
+| 243 | 1114 | Maria Escobar |
+| 244 | 1114 | Kevin Walp |
+| 245 | 1111 | Moose Griffith |
+| 246 | 1111 | Julay |
 | 247 | 1109 | Eric Carlson |
 | 248 | 1105 | Nerdy Clearfit |
 | 249 | 1103 | William Meussner |
@@ -325,8 +325,8 @@
 | 317 | 914 | Shuany Arias |
 | 318 | 907 | Gene Mills |
 | 319 | 907 | Michelle Lee |
-| 320 | 904 | Jennifer Aiken |
-| 321 | 904 | John Bednarik |
+| 320 | 904 | John Bednarik |
+| 321 | 904 | Jennifer Aiken |
 | 322 | 904 | Bee |
 | 323 | 902 | William Hunt |
 | 324 | 901 | Kevin Sees |
@@ -864,8 +864,8 @@
 | 856 | 398 | Alicia Moreno |
 | 857 | 398 | Juan Killyoselfifudontlikeme Ronaldo |
 | 858 | 397 | Dawn Woosley Bowes |
-| 859 | 397 | Quiksilver |
-| 860 | 397 | Jessica Conaway |
+| 859 | 397 | Jessica Conaway |
+| 860 | 397 | Quiksilver |
 | 861 | 396 | Cassie Newton |
 | 862 | 395 | Cassi Owens |
 | 863 | 395 | Vung Nguyen |

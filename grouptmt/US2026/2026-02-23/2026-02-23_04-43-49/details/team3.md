@@ -127,8 +127,8 @@
 | 119 | 750 | Logan Naccarato |
 | 120 | 748 | Adrian Marcel Pate |
 | 121 | 745 | JerseyJess |
-| 122 | 744 | Leah Barnett |
-| 123 | 744 | Fancy Cascader |
+| 122 | 744 | Fancy Cascader |
+| 123 | 744 | Leah Barnett |
 | 124 | 742 | Groovy Catcher |
 | 125 | 736 | mzcatzy |
 | 126 | 736 | Katrina Schroeder |
@@ -166,8 +166,8 @@
 | 158 | 591 | Michael Nowogorski |
 | 159 | 588 | Justin Ritter |
 | 160 | 587 | Louise Stacy Sisson |
-| 161 | 585 | Happy Tetriblast |
-| 162 | 585 | Annie Marie |
+| 161 | 585 | Annie Marie |
+| 162 | 585 | Happy Tetriblast |
 | 163 | 582 | Natasha Jones |
 | 164 | 579 | Tasha Gillespie |
 | 165 | 577 | Domo Washington |
@@ -228,8 +228,8 @@
 | 220 | 430 | Jeni Dow |
 | 221 | 415 | ren |
 | 222 | 414 | Fran Lin |
-| 223 | 410 | Mcathen |
-| 224 | 410 | Duane Bright |
+| 223 | 410 | Duane Bright |
+| 224 | 410 | Mcathen |
 | 225 | 410 | Stephanie Simpson |
 | 226 | 408 | Tiffany Ford |
 | 227 | 406 | Kristal C Lee |
@@ -272,14 +272,14 @@
 | 264 | 357 | Stephanie Burtin |
 | 265 | 354 | Kelly |
 | 266 | 353 | Dee Franklin |
-| 267 | 352 | Christian Werndl |
-| 268 | 352 | Samantha Lynn |
+| 267 | 352 | Samantha Lynn |
+| 268 | 352 | Christian Werndl |
 | 269 | 351 | Eon Harris |
 | 270 | 350 | LaShey Thompson |
 | 271 | 349 | Amanda J. Mcneil-Anderson |
 | 272 | 348 | Cyd061769 |
-| 273 | 347 | Tye Stovall |
-| 274 | 347 | Philip Rock |
+| 273 | 347 | Philip Rock |
+| 274 | 347 | Tye Stovall |
 | 275 | 346 | Tamara Deherrera |
 | 276 | 345 | MsBee |
 | 277 | 344 | Roary Danner |

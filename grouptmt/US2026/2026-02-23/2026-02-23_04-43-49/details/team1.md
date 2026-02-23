@@ -77,8 +77,8 @@
 | 69 | 706 | Seante Bullock |
 | 70 | 705 | comrade fish |
 | 71 | 704 | Karin Gillen |
-| 72 | 703 | Angel Fowler |
-| 73 | 703 | Snappy Swiper |
+| 72 | 703 | Snappy Swiper |
+| 73 | 703 | Angel Fowler |
 | 74 | 655 | Brenda Stewart |
 | 75 | 652 | Cartier |
 | 76 | 647 | Jason Jones |
@@ -103,8 +103,8 @@
 | 95 | 522 | Sarah Lombardo |
 | 96 | 510 | Colena Davenport |
 | 97 | 497 | Arianna O'Brien |
-| 98 | 493 | MomMom |
-| 99 | 493 | Jennifer ManWarren |
+| 98 | 493 | Jennifer ManWarren |
+| 99 | 493 | MomMom |
 | 100 | 492 | Ash Galvan |
 | 101 | 489 | Deanna L Hermanson |
 | 102 | 488 | cc |
@@ -165,8 +165,8 @@
 | 157 | 360 | Wisa |
 | 158 | 357 | David Lutcher |
 | 159 | 355 | Amanda Jarnagin |
-| 160 | 353 | Jaimie Lynn |
-| 161 | 353 | Josh Riemer |
+| 160 | 353 | Josh Riemer |
+| 161 | 353 | Jaimie Lynn |
 | 162 | 350 | Tipsy Strikerpiece |
 | 163 | 346 | GATOR |
 | 164 | 345 | Jerry Danowski |
@@ -228,8 +228,8 @@
 | 220 | 279 | Bird Person |
 | 221 | 277 | Melissa Lemmon |
 | 222 | 277 | Nutty Spinblock |
-| 223 | 275 | Chris65 |
-| 224 | 275 | Cheeky Pop |
+| 223 | 275 | Cheeky Pop |
+| 224 | 275 | Chris65 |
 | 225 | 273 | Shannon Marie Pitts |
 | 226 | 273 | Lakeisha Chapman |
 | 227 | 271 | Frothy Pattern |
@@ -239,8 +239,8 @@
 | 231 | 267 | Daring Fitclear |
 | 232 | 265 | Kandae |
 | 233 | 264 | Jenny Gingrich Fuentes |
-| 234 | 263 | Jessie Lynn |
-| 235 | 263 | Perky Shiftsnap |
+| 234 | 263 | Perky Shiftsnap |
+| 235 | 263 | Jessie Lynn |
 | 236 | 261 | John J. Cronin |
 | 237 | 260 | Marianita Garcia |
 | 238 | 260 | Lacy Wolfe |
