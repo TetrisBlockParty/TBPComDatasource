@@ -44,8 +44,8 @@
 | 36 | 4199 | Claire Noland |
 | 37 | 4128 | Angela Pruitt |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Kristen Sceurman |
-| 40 | 4120 | Corrine Hawks Soriano |
+| 39 | 4120 | Corrine Hawks Soriano |
+| 40 | 4120 | Kristen Sceurman |
 | 41 | 3947 | Melinda Brown |
 | 42 | 3845 | jayjay |
 | 43 | 3813 | Devin Lee |
@@ -224,8 +224,8 @@
 | 216 | 1245 | Cody Nishimura |
 | 217 | 1240 | Brandon Armstrong |
 | 218 | 1237 | Megan Ferguson Leone |
-| 219 | 1232 | Groovy Puzzle |
-| 220 | 1232 | Ambyre Patterson |
+| 219 | 1232 | Ambyre Patterson |
+| 220 | 1232 | Groovy Puzzle |
 | 221 | 1230 | Megan Garrick |
 | 222 | 1221 | Jane Fong |
 | 223 | 1217 | Lucky Ladybug |
@@ -408,14 +408,14 @@
 | 400 | 799 | Ronnie Nelson |
 | 401 | 796 | AndrewandShela Gornik |
 | 402 | 796 | Amber Gray |
-| 403 | 793 | Jaycee |
-| 404 | 793 | Heather Schelkopf |
+| 403 | 793 | Heather Schelkopf |
+| 404 | 793 | Jaycee |
 | 405 | 790 | Brenda Pierpoint |
 | 406 | 788 | Erika Densmore |
 | 407 | 787 | Tiara Elizabeth Baker |
 | 408 | 783 | John Rodriguez |
-| 409 | 777 | Jessicah Myers |
-| 410 | 777 | Tesha Oldaker |
+| 409 | 777 | Tesha Oldaker |
+| 410 | 777 | Jessicah Myers |
 | 411 | 776 | Fancy Twister |
 | 412 | 776 | Mighty Spinbuilder |
 | 413 | 775 | Crystie Hicks |
@@ -491,13 +491,13 @@
 | 483 | 695 | Lakeysha Dortch |
 | 484 | 693 | Ryan Stadel |
 | 485 | 692 | Shaun Church |
-| 486 | 691 | Arwa Fatimah |
-| 487 | 691 | Samuel Macon |
+| 486 | 691 | Samuel Macon |
+| 487 | 691 | Arwa Fatimah |
 | 488 | 689 | Gauri Shrotriya |
 | 489 | 686 | Christine Coughlin |
 | 490 | 684 | Sarah DeHart |
-| 491 | 684 | Ellie Jonas |
-| 492 | 684 | Ann Knutson Anderson |
+| 491 | 684 | Ann Knutson Anderson |
+| 492 | 684 | Ellie Jonas |
 | 493 | 682 | Vanessa Moreno |
 | 494 | 682 | Antionette Sewell |
 | 495 | 681 | Gloria Liu |
@@ -560,8 +560,8 @@
 | 552 | 620 | Brenna Ann |
 | 553 | 619 | Lylymom |
 | 554 | 618 | Marella Petilo |
-| 555 | 617 | Kacee Conrad Bock |
-| 556 | 617 | Darcy Mae |
+| 555 | 617 | Darcy Mae |
+| 556 | 617 | Kacee Conrad Bock |
 | 557 | 617 | Biggest thing |
 | 558 | 615 | Nerdy Pattern |
 | 559 | 615 | Lyndi Robinson Wakefield |
@@ -594,8 +594,8 @@
 | 586 | 594 | Laura Mclean |
 | 587 | 592 | Sheronda Jackson |
 | 588 | 590 | Maddy Petersen |
-| 589 | 589 | Koa N Sharon Chen |
-| 590 | 589 | Thomas Hedrick |
+| 589 | 589 | Thomas Hedrick |
+| 590 | 589 | Koa N Sharon Chen |
 | 591 | 589 | Kelly Templeton |
 | 592 | 589 | Shavonna Haynes |
 | 593 | 588 | Kitybox |
@@ -698,8 +698,8 @@
 | 690 | 516 | Diamond Scott |
 | 691 | 516 | Nate Lee |
 | 692 | 515 | Gina Bahn |
-| 693 | 515 | Adam Simmons |
-| 694 | 515 | Klee |
+| 693 | 515 | Klee |
+| 694 | 515 | Adam Simmons |
 | 695 | 514 | DefaultUser |
 | 696 | 513 | MrsCandyfine As Wine Truss |
 | 697 | 512 | Sassy Linkroll |
@@ -746,8 +746,8 @@
 | 738 | 487 | Christy Long |
 | 739 | 487 | RaeVan Worthington |
 | 740 | 486 | Ashley Collins |
-| 741 | 485 | coleksquad |
-| 742 | 485 | Regina Young |
+| 741 | 485 | Regina Young |
+| 742 | 485 | coleksquad |
 | 743 | 485 | Sarah block |
 | 744 | 484 | Street Sweeper |
 | 745 | 483 | Tabs Reichert |
@@ -1288,10 +1288,10 @@
 | 1280 | 301 | Charles E Mccardell |
 | 1281 | 301 | Hopeanna |
 | 1282 | 300 | Mordoks Pyrography |
-| 1283 | 300 | Aprill Bolton |
-| 1284 | 300 | Christina Benson Thacker |
-| 1285 | 300 | Warren Marleau |
-| 1286 | 300 | Emesia Quarry |
+| 1283 | 300 | Christina Benson Thacker |
+| 1284 | 300 | Aprill Bolton |
+| 1285 | 300 | Emesia Quarry |
+| 1286 | 300 | Warren Marleau |
 | 1287 | 299 | Leslie |
 | 1288 | 299 | Tanisha Virgo |
 | 1289 | 299 | Bold Clusterfit |
@@ -1395,15 +1395,15 @@
 | 1387 | 281 | Tara Nicole Church |
 | 1388 | 281 | Amy McManus |
 | 1389 | 281 | Brave Rotator |
-| 1390 | 280 | Michelle Fleming Luna |
-| 1391 | 280 | Ronald Higgins |
+| 1390 | 280 | Ronald Higgins |
+| 1391 | 280 | Michelle Fleming Luna |
 | 1392 | 280 | Carlena Reed |
 | 1393 | 280 | Maurice Bundy |
 | 1394 | 280 | Bathymaas |
 | 1395 | 280 | Abi Anderson |
 | 1396 | 280 | Heidi Kent |
-| 1397 | 279 | April Dawn Royal |
-| 1398 | 279 | Brooklynn Huckaby |
+| 1397 | 279 | Brooklynn Huckaby |
+| 1398 | 279 | April Dawn Royal |
 | 1399 | 279 | Dane Roy |
 | 1400 | 279 | Speedy Wipeblock |
 | 1401 | 279 | Izzy Rockford |
@@ -1483,8 +1483,8 @@
 | 1475 | 269 | Lori Miller |
 | 1476 | 269 | Melissa Wilson |
 | 1477 | 269 | Chummy Caster |
-| 1478 | 269 | William Bresee |
-| 1479 | 269 | kickstante |
+| 1478 | 269 | kickstante |
+| 1479 | 269 | William Bresee |
 | 1480 | 268 | lady |
 | 1481 | 268 | Purple durple |
 | 1482 | 268 | Anne White |
@@ -1501,14 +1501,14 @@
 | 1493 | 266 | Tammie Siegfried |
 | 1494 | 266 | Sabo |
 | 1495 | 266 | Mike Schwob |
-| 1496 | 266 | Tammie Siegfried |
+| 1496 | 266 | Mrs. New |
 | 1497 | 266 | CB Shea |
 | 1498 | 266 | Andrew Engman |
 | 1499 | 266 | BbqGuru |
 | 1500 | 266 | Fancy Setter |
 | 1501 | 265 | Katlyn Joyce Bateman |
-| 1502 | 265 | Paul Antic |
-| 1503 | 265 | Alphia Price |
+| 1502 | 265 | Alphia Price |
+| 1503 | 265 | Paul Antic |
 | 1504 | 264 | Michelle Lee Tackett |
 | 1505 | 264 | Sonya Munoz |
 | 1506 | 264 | Edna Combs |

@@ -26,8 +26,8 @@
 | 18 | 1636 | Cassie Michaux |
 | 19 | 1565 | GreenJeepGirl |
 | 20 | 1558 | Leah Gorsuch |
-| 21 | 1536 | Roger Coulter |
-| 22 | 1536 | Misty Hollibaugh |
+| 21 | 1536 | Misty Hollibaugh |
+| 22 | 1536 | Roger Coulter |
 | 23 | 1485 | Juggalo |
 | 24 | 1390 | Sammy Noguera |
 | 25 | 1382 | Tammi Crnza |
@@ -75,8 +75,8 @@
 | 67 | 787 | Edward White |
 | 68 | 767 | Shannon Ferrari |
 | 69 | 766 | Robin Watters |
-| 70 | 765 | Denise Carlson |
-| 71 | 765 | Robin Getchel |
+| 70 | 765 | Robin Getchel |
+| 71 | 765 | Denise Carlson |
 | 72 | 753 | TheNeesh50 |
 | 73 | 752 | Shane Kalamata Platoon |
 | 74 | 749 | Dustee Craddock-Harrison |
@@ -153,8 +153,8 @@
 | 145 | 422 | Zakia Monae |
 | 146 | 421 | JIGsaw ~(•¿°)~ |
 | 147 | 421 | Kesha Brady |
-| 148 | 418 | Lush Linkfall |
-| 149 | 418 | Marie-Pier Desjardins |
+| 148 | 418 | Marie-Pier Desjardins |
+| 149 | 418 | Lush Linkfall |
 | 150 | 417 | Steph Marie |
 | 151 | 416 | Chaz Duncan |
 | 152 | 414 | Swanky Fitline |
@@ -162,13 +162,13 @@
 | 154 | 413 | Circuit8 |
 | 155 | 412 | Jessica Bohlken |
 | 156 | 408 | Amanda Pauldo-Ivy |
-| 157 | 406 | Livvy |
-| 158 | 406 | Damn Libra |
+| 157 | 406 | Damn Libra |
+| 158 | 406 | Livvy |
 | 159 | 403 | Keith Kelley |
 | 160 | 402 | Lucas J Sutton |
 | 161 | 398 | Tyler Terrific |
-| 162 | 393 | Carlton Unfiltered |
-| 163 | 393 | Girl |
+| 162 | 393 | Girl |
+| 163 | 393 | Carlton Unfiltered |
 | 164 | 392 | Nick Gray |
 | 165 | 391 | Ramel Rhodes |
 | 166 | 389 | Joseph Guthrie |
@@ -204,8 +204,8 @@
 | 196 | 336 | Bio Nelly |
 | 197 | 334 | Kris Bartlett |
 | 198 | 332 | HastyGrabber |
-| 199 | 330 | blockstar |
-| 200 | 330 | Kathy Brookins |
+| 199 | 330 | Kathy Brookins |
+| 200 | 330 | blockstar |
 | 201 | 328 | scott |
 | 202 | 327 | J-Rizzle |
 | 203 | 324 | TinyLegoRose |
@@ -254,8 +254,8 @@
 | 246 | 276 | Matt Dell'Olio |
 | 247 | 275 | Kimberlee Jan Beckstead |
 | 248 | 273 | Cranky Rollpiece |
-| 249 | 272 | Alan George LaRage |
-| 250 | 272 | Dennis Bradley |
+| 249 | 272 | Dennis Bradley |
+| 250 | 272 | Alan George LaRage |
 | 251 | 271 | Holly |
 | 252 | 270 | Jen Caldwell |
 | 253 | 266 | Tracey Lehmann |
@@ -289,8 +289,8 @@
 | 281 | 248 | Jose Dejesus |
 | 282 | 245 | 23 |
 | 283 | 244 | Christina Black |
-| 284 | 244 | Perky Piecegrid |
-| 285 | 244 | Ruben Wheeler |
+| 284 | 244 | Elizabeth Tinoco |
+| 285 | 244 | Perky Piecegrid |
 | 286 | 243 | Chair |
 | 287 | 242 | Chaz |
 | 288 | 242 | PurpleMoonMa |
@@ -334,8 +334,8 @@
 | 326 | 217 | Cheery Fitline |
 | 327 | 216 | mike |
 | 328 | 215 | Stephme310 |
-| 329 | 214 | Stacey Stano |
-| 330 | 214 | Patron Anderson |
+| 329 | 214 | Patron Anderson |
+| 330 | 214 | Stacey Stano |
 | 331 | 213 | Jackie Marie |
 | 332 | 212 | Zany Shatterer |
 | 333 | 212 | Mike Solo |
@@ -358,9 +358,9 @@
 | 350 | 203 | Courtney Halleck |
 | 351 | 203 | Andrew Dang |
 | 352 | 201 | O block |
-| 353 | 198 | Calvin Dennis |
-| 354 | 198 | Shiny Fit |
-| 355 | 198 | Mona Sharma |
+| 353 | 198 | Shiny Fit |
+| 354 | 198 | Mona Sharma |
+| 355 | 198 | Calvin Dennis |
 | 356 | 197 | Cozy Balancer |
 | 357 | 196 | Blessedmama |
 | 358 | 196 | Maria Hammie |
@@ -563,8 +563,8 @@
 | 555 | 129 | Dreamy Snapgrid |
 | 556 | 129 | Jessica Wells |
 | 557 | 128 | Zesty Linkgrid |
-| 558 | 128 | Lazy Glidepiece |
-| 559 | 128 | Raymond Roberts |
+| 558 | 128 | Raymond Roberts |
+| 559 | 128 | Lazy Glidepiece |
 | 560 | 127 | Jay You |
 | 561 | 126 | Jennifer Renee |
 | 562 | 126 | PAPatty |
@@ -715,8 +715,8 @@
 | 707 | 98 | Bad company |
 | 708 | 98 | Manuel Groleau |
 | 709 | 98 | Diamond Johnson |
-| 710 | 98 | Maurice Daniels |
-| 711 | 98 | Jessi Cinotto |
+| 710 | 98 | Jessi Cinotto |
+| 711 | 98 | Maurice Daniels |
 | 712 | 97 | Shanon James |
 | 713 | 97 | Rick SJ |
 | 714 | 97 | Frisky Matchgrid |
@@ -736,10 +736,10 @@
 | 728 | 94 | Susan Purnell |
 | 729 | 94 | moneybagz |
 | 730 | 94 | Myra LaTrice |
-| 731 | 93 | Sholom Fried |
-| 732 | 93 | Lorinda Wixom |
-| 733 | 93 | Alo |
-| 734 | 93 | Sweet Pea |
+| 731 | 93 | Sweet Pea |
+| 732 | 93 | Alo |
+| 733 | 93 | Lorinda Wixom |
+| 734 | 93 | Sholom Fried |
 | 735 | 93 | Elle Joe |
 | 736 | 93 | Mousey406 |
 | 737 | 93 | JD |

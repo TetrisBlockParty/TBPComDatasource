@@ -146,8 +146,8 @@
 | 138 | 423 | ALFD |
 | 139 | 417 | Phu ckalldems |
 | 140 | 411 | BadG52 |
-| 141 | 406 | Candy Jones |
-| 142 | 406 | Desiree Deschaine Havee |
+| 141 | 406 | Desiree Deschaine Havee |
+| 142 | 406 | Candy Jones |
 | 143 | 404 | Jessie Lynn |
 | 144 | 403 | Mike Ames |
 | 145 | 402 | Chris K |
@@ -458,8 +458,8 @@
 | 450 | 169 | Josh Smith |
 | 451 | 169 | Abbey Crespo |
 | 452 | 168 | Mrs.Patrica |
-| 453 | 166 | Ashley Adams |
-| 454 | 166 | Gilbert Ortiz Jr. |
+| 453 | 166 | Gilbert Ortiz Jr. |
+| 454 | 166 | Ashley Adams |
 | 455 | 165 | Stephanie Leday |
 | 456 | 165 | Rodney Schmerfeld |
 | 457 | 164 | Liliana Pena |
@@ -1909,19 +1909,19 @@
 | 1901 | 7 | Chris Nelson |
 | 1902 | 7 | Michael Bakko |
 | 1903 | 7 | Steven Ekstein |
-| 1904 | 7 | Melissa Mahalik Stone |
-| 1905 | 7 | Gabriel Providenti |
-| 1906 | 7 | Cheeky Rollfit |
-| 1907 | 7 | SpeakerBox nt |
-| 1908 | 7 | Loopy Framezone |
-| 1909 | 7 | Comar Logans |
-| 1910 | 7 | Harry Johnson |
-| 1911 | 7 | Sonikku |
-| 1912 | 7 | Rene Heifner |
-| 1913 | 7 | Willow |
-| 1914 | 7 | Toya Thomas |
-| 1915 | 7 | Michelle Silva |
-| 1916 | 7 | Mighty Fitzone |
+| 1904 | 7 | Sonikku |
+| 1905 | 7 | Rene Heifner |
+| 1906 | 7 | Willow |
+| 1907 | 7 | Toya Thomas |
+| 1908 | 7 | Comar Logans |
+| 1909 | 7 | Harry Johnson |
+| 1910 | 7 | Seapea |
+| 1911 | 7 | Loopy Framezone |
+| 1912 | 7 | Michelle Silva |
+| 1913 | 7 | Mighty Fitzone |
+| 1914 | 7 | Chema plays |
+| 1915 | 7 | Gabriel Providenti |
+| 1916 | 7 | Kasey24 |
 | 1917 | 6 | Cory Ford |
 | 1918 | 6 | Jaime Sunshine |
 | 1919 | 6 | Marcellus Royal |
