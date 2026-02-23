@@ -95,9 +95,9 @@
 | 87 | 664 | Valerie Roberts |
 | 88 | 659 | Jamie Gustafson |
 | 89 | 650 | KJ Pool |
-| 90 | 647 | KM8 |
-| 91 | 647 | Diana Houts |
-| 92 | 647 | Shauna Havard |
+| 90 | 647 | Shauna Havard |
+| 91 | 647 | KM8 |
+| 92 | 647 | Diana Houts |
 | 93 | 646 | Eric Mcgaughy |
 | 94 | 626 | Brittney Griggs |
 | 95 | 624 | Judy Cox |
@@ -116,11 +116,11 @@
 | 108 | 528 | Rodney McMath Jr. |
 | 109 | 527 | Dizzy Tiley |
 | 110 | 519 | Nugget |
-| 111 | 517 | Christina LR |
-| 112 | 517 | shar |
+| 111 | 517 | shar |
+| 112 | 517 | Christina LR |
 | 113 | 516 | Austin Owens |
-| 114 | 514 | Scott Jameson |
-| 115 | 514 | Serena Goodridge |
+| 114 | 514 | Serena Goodridge |
+| 115 | 514 | Scott Jameson |
 | 116 | 513 | Erin Thomas |
 | 117 | 512 | Cristy Duerksen |
 | 118 | 512 | Casey Jeffcoat |
@@ -139,11 +139,11 @@
 | 131 | 435 | Kristina Black |
 | 132 | 431 | Courtney Cicoria |
 | 133 | 425 | Monica Daley |
-| 134 | 421 | Kesha Brady |
-| 135 | 421 | JIGsaw ~(•¿°)~ |
+| 134 | 421 | JIGsaw ~(•¿°)~ |
+| 135 | 421 | Kesha Brady |
 | 136 | 419 | Klo |
-| 137 | 418 | Marie-Pier Desjardins |
-| 138 | 418 | Lush Linkfall |
+| 137 | 418 | Lush Linkfall |
+| 138 | 418 | Marie-Pier Desjardins |
 | 139 | 416 | Chaz Duncan |
 | 140 | 414 | Nope Young |
 | 141 | 412 | Jessica Bohlken |
@@ -181,8 +181,8 @@
 | 173 | 349 | Rafael Valentin |
 | 174 | 348 | April Rondinone |
 | 175 | 348 | TRCuse |
-| 176 | 347 | Crystal Nicolette Moore |
-| 177 | 347 | Daria Rycewicz |
+| 176 | 347 | Daria Rycewicz |
+| 177 | 347 | Crystal Nicolette Moore |
 | 178 | 339 | David Lay |
 | 179 | 338 | Chris Bernstein |
 | 180 | 333 | shark tato |

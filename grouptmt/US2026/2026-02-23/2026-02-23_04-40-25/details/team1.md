@@ -242,8 +242,8 @@
 | 234 | 263 | Jessie Lynn |
 | 235 | 263 | Perky Shiftsnap |
 | 236 | 261 | John J. Cronin |
-| 237 | 260 | Marianita Garcia |
-| 238 | 260 | Lacy Wolfe |
+| 237 | 260 | Lacy Wolfe |
+| 238 | 260 | Marianita Garcia |
 | 239 | 257 | Sarah Somers Gray |
 | 240 | 255 | Giggly Builderline |
 | 241 | 254 | Al Smith Jr |
