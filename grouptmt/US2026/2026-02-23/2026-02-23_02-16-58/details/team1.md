@@ -59,8 +59,8 @@
 | 51 | 829 | Sevens4L |
 | 52 | 812 | Patrick Luckenbill |
 | 53 | 797 | Lawrence Belanger |
-| 54 | 783 | TSwag |
-| 55 | 783 | Redlicious 1 |
+| 54 | 783 | Redlicious 1 |
+| 55 | 783 | TSwag |
 | 56 | 779 | Andrea Dañielle Ortiz |
 | 57 | 772 | Tinah Montanna |
 | 58 | 770 | Zappy Curvetile |
@@ -217,7 +217,7 @@
 | 209 | 279 | Bird Person |
 | 210 | 279 | Tana |
 | 211 | 277 | Nutty Spinblock |
-| 212 | 277 | Christy Jones |
+| 212 | 277 | Sleepysloath5745 |
 | 213 | 275 | Chris65 |
 | 214 | 273 | Shannon Marie Pitts |
 | 215 | 271 | Frothy Pattern |
@@ -251,8 +251,8 @@
 | 243 | 241 | Tyler Hertzog |
 | 244 | 240 | DaRascal |
 | 245 | 240 | Daring Fitclear |
-| 246 | 238 | Tiffany Smith |
-| 247 | 238 | Sarah Somers Gray |
+| 246 | 238 | Sarah Somers Gray |
+| 247 | 238 | Tiffany Smith |
 | 248 | 234 | Paula Martin |
 | 249 | 233 | LC |
 | 250 | 233 | Melissa Bires Hussar |

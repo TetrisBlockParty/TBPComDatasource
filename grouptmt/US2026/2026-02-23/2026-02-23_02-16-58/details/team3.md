@@ -25,8 +25,8 @@
 | 17 | 2697 | River |
 | 18 | 2503 | Clever Roll |
 | 19 | 2302 | Laura Melton |
-| 20 | 2287 | Brandon Green |
-| 21 | 2287 | Tetris Master |
+| 20 | 2287 | Tetris Master |
+| 21 | 2287 | Brandon Green |
 | 22 | 2203 | Ashley Jones |
 | 23 | 2177 | Susan Valentino |
 | 24 | 2144 | Zippy Strikesnap |
@@ -111,8 +111,8 @@
 | 103 | 831 | Angeline Joseph |
 | 104 | 830 | Stephanie Allmon |
 | 105 | 826 | Shane Wilson Jr. |
-| 106 | 816 | Brenda Lee Vander Molen |
-| 107 | 816 | Araceli Parra |
+| 106 | 816 | Araceli Parra |
+| 107 | 816 | Brenda Lee Vander Molen |
 | 108 | 800 | Lauren Girouard |
 | 109 | 799 | Dolores Falco |
 | 110 | 794 | Suzieq |
@@ -152,17 +152,17 @@
 | 144 | 590 | Santeria Trece Candles |
 | 145 | 589 | Logan Naccarato |
 | 146 | 588 | Justin Ritter |
-| 147 | 585 | Annie Marie |
-| 148 | 585 | Happy Tetriblast |
+| 147 | 585 | Happy Tetriblast |
+| 148 | 585 | Annie Marie |
 | 149 | 582 | Natasha Jones |
 | 150 | 579 | Tasha Gillespie |
 | 151 | 574 | Morgan Martinez |
-| 152 | 572 | Domo Washington |
-| 153 | 572 | CeceGeGe |
+| 152 | 572 | CeceGeGe |
+| 153 | 572 | Domo Washington |
 | 154 | 571 | Nicole Myers |
 | 155 | 568 | Rachael McClain Owens |
-| 156 | 562 | Louise Stacy Sisson |
-| 157 | 562 | Dave Herzog |
+| 156 | 562 | Dave Herzog |
+| 157 | 562 | Louise Stacy Sisson |
 | 158 | 558 | Peppy Shifter |
 | 159 | 553 | LaTanya GeminiondaRise Johnson |
 | 160 | 546 | Mykal Burton |
@@ -248,16 +248,16 @@
 | 240 | 369 | Marquita Sheard |
 | 241 | 369 | Keis |
 | 242 | 368 | Stephanie Woods |
-| 243 | 365 | Chummy Caster |
-| 244 | 365 | Noyb Adam |
+| 243 | 365 | Noyb Adam |
+| 244 | 365 | Chummy Caster |
 | 245 | 364 | Steffi Chris Dacones |
 | 246 | 362 | Brandon Givens |
 | 247 | 361 | Shawn Miller |
 | 248 | 360 | Sheila M Frazier |
-| 249 | 357 | Stephanie Burtin |
-| 250 | 357 | Ammmmmmy |
-| 251 | 352 | Samantha Lynn |
-| 252 | 352 | Christian Werndl |
+| 249 | 357 | Ammmmmmy |
+| 250 | 357 | Stephanie Burtin |
+| 251 | 352 | Christian Werndl |
+| 252 | 352 | Samantha Lynn |
 | 253 | 351 | Eon Harris |
 | 254 | 349 | rnr junky |
 | 255 | 349 | Amanda J. Mcneil-Anderson |
@@ -379,8 +379,8 @@
 | 371 | 247 | Jul |
 | 372 | 247 | Jessica |
 | 373 | 246 | gremicx |
-| 374 | 245 | Latoya Mayne |
-| 375 | 245 | AlsoJess |
+| 374 | 245 | AlsoJess |
+| 375 | 245 | Latoya Mayne |
 | 376 | 244 | Tegan Chapman |
 | 377 | 244 | Quackers |
 | 378 | 244 | LaNette Morgan |

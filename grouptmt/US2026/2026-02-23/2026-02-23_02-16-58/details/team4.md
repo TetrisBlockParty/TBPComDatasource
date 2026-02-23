@@ -55,8 +55,8 @@
 | 47 | 893 | Jae Job |
 | 48 | 855 | Marvin Lou Martin |
 | 49 | 853 | TeeJ |
-| 50 | 846 | Christine Marie |
-| 51 | 846 | Lucille Truesdale |
+| 50 | 846 | Lucille Truesdale |
+| 51 | 846 | Christine Marie |
 | 52 | 845 | LisaJo Picken Buchanan |
 | 53 | 843 | Shelly Chandler |
 | 54 | 841 | Anthony Bryan Riva |
@@ -78,8 +78,8 @@
 | 70 | 739 | Avy Absol |
 | 71 | 736 | Goatimus Lombardi |
 | 72 | 725 | Denise Carlson |
-| 73 | 704 | D3TROITB0RN74 |
-| 74 | 704 | Crystal Carroll |
+| 73 | 704 | Crystal Carroll |
+| 74 | 704 | D3TROITB0RN74 |
 | 75 | 697 | Alyssa Papen |
 | 76 | 684 | Jonathan Kimbrough |
 | 77 | 677 | TheNeesh50 |
@@ -141,8 +141,8 @@
 | 133 | 418 | Marie-Pier Desjardins |
 | 134 | 418 | Lush Linkfall |
 | 135 | 414 | Nope Young |
-| 136 | 413 | Kristina Black |
-| 137 | 413 | Chaz Duncan |
+| 136 | 413 | Chaz Duncan |
+| 137 | 413 | Kristina Black |
 | 138 | 412 | Jessica Bohlken |
 | 139 | 408 | Amanda Pauldo-Ivy |
 | 140 | 402 | Ericca Eldridge |
@@ -189,8 +189,8 @@
 | 181 | 316 | Meagan Nicole |
 | 182 | 314 | Andy Cabral |
 | 183 | 313 | Zippy Block |
-| 184 | 309 | Crystal Nicolette Moore |
-| 185 | 309 | Chris Bernstein |
+| 184 | 309 | Chris Bernstein |
+| 185 | 309 | Crystal Nicolette Moore |
 | 186 | 307 | Holly Jolly |
 | 187 | 307 | Bio Nelly |
 | 188 | 306 | blockstar |
@@ -236,8 +236,8 @@
 | 228 | 265 | Sarah Neathery |
 | 229 | 264 | Carlos Ramirez |
 | 230 | 260 | Selena Shaw |
-| 231 | 259 | Cheery Risebuilder |
-| 232 | 259 | Montiette Mcglown |
+| 231 | 259 | Montiette Mcglown |
+| 232 | 259 | Cheery Risebuilder |
 | 233 | 257 | PeaceOs |
 | 234 | 256 | Mylo Lipscomb |
 | 235 | 253 | JPW |

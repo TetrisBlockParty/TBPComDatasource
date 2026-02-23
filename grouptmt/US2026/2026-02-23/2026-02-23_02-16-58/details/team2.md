@@ -196,8 +196,8 @@
 | 188 | 1294 | Ashley House |
 | 189 | 1292 | Mischelle Clay |
 | 190 | 1286 | Altamirano Michael |
-| 191 | 1282 | Tanya Parsons |
-| 192 | 1282 | Ashley Rose Frederick |
+| 191 | 1282 | Ashley Rose Frederick |
+| 192 | 1282 | Tanya Parsons |
 | 193 | 1258 | Joyce Johnson Vaughn |
 | 194 | 1257 | Michele Gabriel |
 | 195 | 1252 | Angel |
@@ -278,8 +278,8 @@
 | 270 | 979 | Melissa Penelope Ann Dodge |
 | 271 | 979 | Hillary Crawford |
 | 272 | 976 | Sam Joe |
-| 273 | 972 | Juliana Marques Do Nascimento Gordy |
-| 274 | 972 | Barbra Miller |
+| 273 | 972 | Barbra Miller |
+| 274 | 972 | Juliana Marques Do Nascimento Gordy |
 | 275 | 972 | Della Hole |
 | 276 | 964 | Missie Lawson Gebhardt |
 | 277 | 962 | Crystal Hoffman |
@@ -389,8 +389,8 @@
 | 381 | 748 | Stephanie Lumanlan |
 | 382 | 748 | Brenda Utphall |
 | 383 | 747 | Kiely Tomaskovich |
-| 384 | 746 | Leslie Ann Carter |
-| 385 | 746 | Jerilyn Andrina |
+| 384 | 746 | Jerilyn Andrina |
+| 385 | 746 | Leslie Ann Carter |
 | 386 | 744 | Mandi Douglas Hilt |
 | 387 | 743 | Tiara Elizabeth Baker |
 | 388 | 741 | Jánine Riggs |
