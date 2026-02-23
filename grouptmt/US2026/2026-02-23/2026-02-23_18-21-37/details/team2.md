@@ -406,8 +406,8 @@
 | 398 | 903 | Eric Castaneda |
 | 399 | 903 | Ashle Scranton |
 | 400 | 899 | Felicia Lynn |
-| 401 | 899 | Chevy |
-| 402 | 899 | Patrick Bartlett |
+| 401 | 899 | Patrick Bartlett |
+| 402 | 899 | Chevy |
 | 403 | 898 | Donna M Carter |
 | 404 | 896 | Alyssa Hileman |
 | 405 | 895 | Donna Colby |
@@ -423,8 +423,8 @@
 | 415 | 877 | Misti Markijohn |
 | 416 | 876 | Jessicah Myers |
 | 417 | 870 | Joy LaJeunesse |
-| 418 | 869 | BYM4L |
-| 419 | 869 | Venita Ray |
+| 418 | 869 | Venita Ray |
+| 419 | 869 | BYM4L |
 | 420 | 866 | Christina Lewis-Vickers |
 | 421 | 865 | Kiely Tomaskovich |
 | 422 | 862 | Sarah Massey |
@@ -505,24 +505,24 @@
 | 497 | 767 | Ashley Lopez |
 | 498 | 766 | Jennie Lee Huntley |
 | 499 | 764 | Belle |
-| 500 | 763 | Megan Brianna |
-| 501 | 763 | Heather Causey |
+| 500 | 763 | Heather Causey |
+| 501 | 763 | Megan Brianna |
 | 502 | 761 | Jerilyn Andrina |
 | 503 | 758 | Kimberly Randesi |
 | 504 | 758 | Stephanie Neuburger |
 | 505 | 757 | Chelle |
 | 506 | 755 | Taryece Gause |
 | 507 | 751 | Loony Snapper |
-| 508 | 751 | Breezy Filler |
+| 508 | 751 | Briana Alexander |
 | 509 | 751 | Caitlyn Blackwell |
-| 510 | 751 | Briana Alexander |
+| 510 | 751 | Breezy Filler |
 | 511 | 750 | Draizen Montrell Thomas |
 | 512 | 750 | Michael Buckner |
 | 513 | 749 | Trisha J Schmidt |
 | 514 | 748 | Ann Matzkanin |
 | 515 | 746 | Hoppy Brickmatch |
-| 516 | 742 | Cassie Maynard |
-| 517 | 742 | Ganieda |
+| 516 | 742 | Ganieda |
+| 517 | 742 | Cassie Maynard |
 | 518 | 740 | Jerry Tempelmeyer |
 | 519 | 740 | Alexandra Weir |
 | 520 | 738 | Sheronda Jackson |
@@ -1640,8 +1640,8 @@
 | 1632 | 299 | Kelli Couture |
 | 1633 | 299 | Marc Raccioppo |
 | 1634 | 299 | Megan Balderas |
-| 1635 | 299 | Mustafa Ilhan Sucu |
-| 1636 | 299 | Daring Lift |
+| 1635 | 299 | Daring Lift |
+| 1636 | 299 | Mustafa Ilhan Sucu |
 | 1637 | 299 | Ryan Kluck |
 | 1638 | 298 | Rachel Switala |
 | 1639 | 298 | Nikki Vaughn |

@@ -142,8 +142,8 @@
 | 134 | 545 | Desi Desporte |
 | 135 | 542 | Austin Owens |
 | 136 | 540 | Rodney McMath Jr. |
-| 137 | 538 | shar |
-| 138 | 538 | Carlos Ramirez |
+| 137 | 538 | Carlos Ramirez |
+| 138 | 538 | shar |
 | 139 | 531 | Serena Goodridge |
 | 140 | 529 | Cool Towerbuilder |
 | 141 | 528 | Kimberlee Jan Beckstead |
@@ -298,8 +298,8 @@
 | 290 | 291 | Hyper Builder |
 | 291 | 291 | Dizzy Matchzone |
 | 292 | 290 | Jared Gutwein |
-| 293 | 290 | Neirrah B Olailjeel |
-| 294 | 290 | Heather Bruce |
+| 293 | 290 | Heather Bruce |
+| 294 | 290 | Neirrah B Olailjeel |
 | 295 | 289 | Juls |
 | 296 | 288 | Brittney Orengo |
 | 297 | 287 | Kim Klutz Olson |
@@ -467,8 +467,8 @@
 | 459 | 197 | Cozy Balancer |
 | 460 | 196 | Megan Cutshaw |
 | 461 | 195 | Frisky Matchgrid |
-| 462 | 194 | Eri Kka |
-| 463 | 194 | SammieJo Guy |
+| 462 | 194 | SammieJo Guy |
+| 463 | 194 | Eri Kka |
 | 464 | 194 | Carlos Hernandez |
 | 465 | 194 | ChasingZen |
 | 466 | 194 | Zany Twisterfit |
@@ -497,8 +497,8 @@
 | 489 | 182 | Jesus Garcia |
 | 490 | 182 | Neil Ingham |
 | 491 | 181 | Kate |
-| 492 | 181 | Nikki Wilson |
-| 493 | 181 | ImJustMe |
+| 492 | 181 | ImJustMe |
+| 493 | 181 | Nikki Wilson |
 | 494 | 180 | Ron |
 | 495 | 180 | Nig |
 | 496 | 180 | Sandra Safford |
@@ -556,10 +556,10 @@
 | 548 | 162 | conceptCollector |
 | 549 | 161 | Christina Hyde |
 | 550 | 160 | Bryan Hodgins |
-| 551 | 160 | Sho Nuff |
-| 552 | 160 | icequeenx |
-| 553 | 160 | Lisa Allen Frisk |
-| 554 | 160 | Heather Layne Smith |
+| 551 | 160 | icequeenx |
+| 552 | 160 | Lisa Allen Frisk |
+| 553 | 160 | Heather Layne Smith |
+| 554 | 160 | Sho Nuff |
 | 555 | 159 | Groovy Brickmatch |
 | 556 | 158 | Matt Morrow |
 | 557 | 158 | Michael Snow |
@@ -662,8 +662,8 @@
 | 654 | 127 | TwistyMcTwist |
 | 655 | 127 | Joe Lonnemann |
 | 656 | 127 | Jay You |
-| 657 | 126 | Spicy Cascadezone |
-| 658 | 126 | Matthew Rodriguez |
+| 657 | 126 | Matthew Rodriguez |
+| 658 | 126 | Spicy Cascadezone |
 | 659 | 126 | PAPatty |
 | 660 | 125 | Paul-Eunice Mathewson |
 | 661 | 125 | Christina Nabrizny |

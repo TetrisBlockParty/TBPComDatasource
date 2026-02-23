@@ -96,8 +96,8 @@
 | 88 | 706 | Plucky Fallzone |
 | 89 | 704 | Jason Jones |
 | 90 | 704 | Karin Gillen |
-| 91 | 703 | Kellie |
-| 92 | 703 | Angel Fowler |
+| 91 | 703 | Angel Fowler |
+| 92 | 703 | Kellie |
 | 93 | 689 | Lexuriuos Lifestlye |
 | 94 | 679 | Hasbro Bros |
 | 95 | 671 | Chirpy Smasher |
@@ -396,8 +396,8 @@
 | 388 | 232 | Itspaigebro |
 | 389 | 232 | Mary Sheets |
 | 390 | 230 | Panda Thagreat |
-| 391 | 229 | Ed Franz Jr |
-| 392 | 229 | Bob |
+| 391 | 229 | Bob |
+| 392 | 229 | Ed Franz Jr |
 | 393 | 228 | Amber Dee |
 | 394 | 227 | Happy Snapbuild |
 | 395 | 226 | Snappy Brickbuilder |
@@ -492,10 +492,10 @@
 | 484 | 187 | Matthew Foley |
 | 485 | 186 | MommaKFC |
 | 486 | 185 | Amanda Wharton |
-| 487 | 184 | Carl Claunch |
+| 487 | 184 | Sonia Marquis |
 | 488 | 184 | Theeranart Mahawan |
 | 489 | 184 | Davery Spencer Adair |
-| 490 | 184 | Sonia Marquis |
+| 490 | 184 | Carl Claunch |
 | 491 | 183 | Ma stoken |
 | 492 | 183 | Abbey Crespo |
 | 493 | 182 | Mrsbigdawg |
