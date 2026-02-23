@@ -96,8 +96,8 @@
 | 88 | 570 | Cody Slav |
 | 89 | 562 | Denice Dee |
 | 90 | 554 | Tee Sheree |
-| 91 | 534 | Veronica Eve |
-| 92 | 534 | Loony Fitzone |
+| 91 | 534 | Loony Fitzone |
+| 92 | 534 | Veronica Eve |
 | 93 | 532 | Robert Benito |
 | 94 | 529 | Ryan Lunnin |
 | 95 | 522 | Sarah Lombardo |
@@ -205,8 +205,8 @@
 | 197 | 315 | Danielle Little-Daugherty |
 | 198 | 314 | Tana |
 | 199 | 314 | Snippy Wipebuilder |
-| 200 | 312 | Jessi Sauer |
-| 201 | 312 | Kimberly Garcia |
+| 200 | 312 | Kimberly Garcia |
+| 201 | 312 | Jessi Sauer |
 | 202 | 310 | Bloknboy |
 | 203 | 309 | Francesca Gee |
 | 204 | 307 | femmefatale |
@@ -352,8 +352,8 @@
 | 344 | 201 | Tedashi |
 | 345 | 200 | Cranky Pattern |
 | 346 | 199 | Tina Englert |
-| 347 | 198 | Marci Sanders |
-| 348 | 198 | Gary Gobin |
+| 347 | 198 | Gary Gobin |
+| 348 | 198 | Marci Sanders |
 | 349 | 197 | Cool Towerzone |
 | 350 | 197 | Larry Tilton |
 | 351 | 196 | Steph |
@@ -370,7 +370,7 @@
 | 362 | 191 | John Garza |
 | 363 | 189 | Tawnya Peltonen |
 | 364 | 188 | Brian Taylor |
-| 365 | 187 | Jessica Weed |
+| 365 | 187 | Bob |
 | 366 | 187 | Mark Smith |
 | 367 | 187 | Jessica Weed |
 | 368 | 186 | Nikki Fridley |

@@ -68,8 +68,8 @@
 | 60 | 807 | Rachel Anne |
 | 61 | 803 | Amelpss |
 | 62 | 788 | Julian Garcia |
-| 63 | 781 | Ashley Ingram |
-| 64 | 781 | Chilly Line |
+| 63 | 781 | Chilly Line |
+| 64 | 781 | Ashley Ingram |
 | 65 | 767 | Shannon Ferrari |
 | 66 | 766 | Robin Watters |
 | 67 | 766 | Edward White |
@@ -88,8 +88,8 @@
 | 80 | 697 | Alyssa Papen |
 | 81 | 696 | Shane Kalamata Platoon |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Kimyatta Cavin |
-| 84 | 684 | Jonathan Kimbrough |
+| 83 | 684 | Jonathan Kimbrough |
+| 84 | 684 | Kimyatta Cavin |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | KM8 |
-| 93 | 647 | Shauna Havard |
+| 92 | 647 | Shauna Havard |
+| 93 | 647 | KM8 |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -145,11 +145,11 @@
 | 137 | 431 | Courtney Cicoria |
 | 138 | 426 | 🥔🥔 Spudz |
 | 139 | 423 | Carrie Brian |
-| 140 | 421 | Kesha Brady |
-| 141 | 421 | JIGsaw ~(•¿°)~ |
+| 140 | 421 | JIGsaw ~(•¿°)~ |
+| 141 | 421 | Kesha Brady |
 | 142 | 419 | Klo |
-| 143 | 418 | Lush Linkfall |
-| 144 | 418 | Marie-Pier Desjardins |
+| 143 | 418 | Marie-Pier Desjardins |
+| 144 | 418 | Lush Linkfall |
 | 145 | 416 | Chaz Duncan |
 | 146 | 414 | Nope Young |
 | 147 | 414 | Swanky Fitline |
@@ -182,8 +182,8 @@
 | 174 | 356 | George Nutt |
 | 175 | 354 | TRCuse |
 | 176 | 352 | Sue Joyce Staats |
-| 177 | 349 | Twisty Cascadezone |
-| 178 | 349 | Rafael Valentin |
+| 177 | 349 | Rafael Valentin |
+| 178 | 349 | Twisty Cascadezone |
 | 179 | 348 | April Rondinone |
 | 180 | 347 | Daria Rycewicz |
 | 181 | 347 | Crystal Nicolette Moore |
@@ -216,8 +216,8 @@
 | 208 | 300 | Zakia Monae |
 | 209 | 300 | Dana Scott |
 | 210 | 295 | Keshia Lyons |
-| 211 | 294 | Calvin Cannon |
-| 212 | 294 | Porkobello |
+| 211 | 294 | Porkobello |
+| 212 | 294 | Calvin Cannon |
 | 213 | 292 | Epic Curvetile |
 | 214 | 290 | Plucky Patternblock |
 | 215 | 290 | Rebecca Morris |
@@ -235,14 +235,14 @@
 | 227 | 280 | Rio Rocha |
 | 228 | 278 | Sarah Brown |
 | 229 | 278 | Angela Geist Jusinski |
-| 230 | 276 | Matt Dell'Olio |
-| 231 | 276 | Joeliecea Cobb |
+| 230 | 276 | Joeliecea Cobb |
+| 231 | 276 | Matt Dell'Olio |
 | 232 | 274 | JPW |
 | 233 | 273 | Casey Grabner |
 | 234 | 273 | Cranky Rollpiece |
 | 235 | 272 | Dennis Bradley |
 | 236 | 272 | Alan George LaRage |
-| 237 | 272 | Dennis Bradley |
+| 237 | 272 | Carlos Ramirez |
 | 238 | 271 | Holly |
 | 239 | 270 | Juls |
 | 240 | 270 | Jen Caldwell |
@@ -253,8 +253,8 @@
 | 245 | 264 | ZeeZee |
 | 246 | 264 | Stella |
 | 247 | 263 | rebel4lyfe |
-| 248 | 262 | BigSammy420 |
-| 249 | 262 | Selena Shaw |
+| 248 | 262 | Selena Shaw |
+| 249 | 262 | BigSammy420 |
 | 250 | 261 | Zethra Prenisha Rahming |
 | 251 | 260 | Carter Jones |
 | 252 | 259 | Cynthia Boudreau |
@@ -316,8 +316,8 @@
 | 308 | 216 | Chantilly Laace |
 | 309 | 216 | mike |
 | 310 | 215 | Stephme310 |
-| 311 | 214 | Patron Anderson |
-| 312 | 214 | Stacey Stano |
+| 311 | 214 | Stacey Stano |
+| 312 | 214 | Patron Anderson |
 | 313 | 213 | Jackie Marie |
 | 314 | 212 | Zany Shatterer |
 | 315 | 212 | Mike Solo |
@@ -435,8 +435,8 @@
 | 427 | 162 | conceptCollector |
 | 428 | 162 | Brandon Link |
 | 429 | 162 | Victoria Faniel |
-| 430 | 160 | Heather Layne Smith |
-| 431 | 160 | Helen Chao |
+| 430 | 160 | Helen Chao |
+| 431 | 160 | Heather Layne Smith |
 | 432 | 159 | Groovy Brickmatch |
 | 433 | 158 | Jasmine S Caldwell |
 | 434 | 158 | Dapper Frame |
