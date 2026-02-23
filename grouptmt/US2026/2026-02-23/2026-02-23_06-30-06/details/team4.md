@@ -54,8 +54,8 @@
 | 46 | 938 | Denny Shives |
 | 47 | 936 | Rebecca Moulton Pinciaro |
 | 48 | 932 | Marvin Lou Martin |
-| 49 | 911 | Jeremy Steines |
-| 50 | 911 | Anthony Bryan Riva |
+| 49 | 911 | Anthony Bryan Riva |
+| 50 | 911 | Jeremy Steines |
 | 51 | 870 | BertMofo |
 | 52 | 863 | Pee |
 | 53 | 853 | TeeJ |
@@ -88,8 +88,8 @@
 | 80 | 697 | Alyssa Papen |
 | 81 | 696 | Shane Kalamata Platoon |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Kimyatta Cavin |
-| 84 | 684 | Jonathan Kimbrough |
+| 83 | 684 | Jonathan Kimbrough |
+| 84 | 684 | Kimyatta Cavin |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | Shauna Havard |
-| 93 | 647 | KM8 |
+| 92 | 647 | KM8 |
+| 93 | 647 | Shauna Havard |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -159,8 +159,8 @@
 | 151 | 406 | Damn Libra |
 | 152 | 398 | Tyler Terrific |
 | 153 | 397 | Livvy |
-| 154 | 393 | Girl |
-| 155 | 393 | Carlton Unfiltered |
+| 154 | 393 | Carlton Unfiltered |
+| 155 | 393 | Girl |
 | 156 | 391 | Ramel Rhodes |
 | 157 | 389 | Joseph Guthrie |
 | 158 | 387 | Lucas J Sutton |
@@ -548,12 +548,12 @@
 | 540 | 128 | Zesty Linkgrid |
 | 541 | 128 | Lazy Glidepiece |
 | 542 | 127 | Jay You |
-| 543 | 126 | Spicy Cascadezone |
-| 544 | 126 | Amy C Brown |
+| 543 | 126 | Amy C Brown |
+| 544 | 126 | Spicy Cascadezone |
 | 545 | 126 | PAPatty |
-| 546 | 125 | Frilly Blocky |
+| 546 | 125 | ImJustMe |
 | 547 | 125 | Kelly Adams Carnahan |
-| 548 | 125 | ImJustMe |
+| 548 | 125 | Frilly Blocky |
 | 549 | 125 | Christina Nabrizny |
 | 550 | 124 | Atia Scott |
 | 551 | 124 | Cheery Towerzone |

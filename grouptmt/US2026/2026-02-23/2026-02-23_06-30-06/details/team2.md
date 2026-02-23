@@ -151,8 +151,8 @@
 | 143 | 1644 | Speedy Spinblock |
 | 144 | 1639 | Jessie McDougald |
 | 145 | 1629 | Mari Ac |
-| 146 | 1623 | Rebecca Doughman |
-| 147 | 1623 | Janel Turley-Garner |
+| 146 | 1623 | Janel Turley-Garner |
+| 147 | 1623 | Rebecca Doughman |
 | 148 | 1605 | Christi Hulet |
 | 149 | 1602 | blackq |
 | 150 | 1601 | Ray Ray Prado |
@@ -255,8 +255,8 @@
 | 247 | 1126 | Dolores Russworn |
 | 248 | 1121 | Tommy Tha Boss Gunz |
 | 249 | 1121 | Sarah Freitas |
-| 250 | 1114 | Ginnell Browner |
-| 251 | 1114 | Kevin Walp |
+| 250 | 1114 | Kevin Walp |
+| 251 | 1114 | Ginnell Browner |
 | 252 | 1111 | Julay |
 | 253 | 1110 | Robin Kerby |
 | 254 | 1105 | Nerdy Clearfit |
@@ -300,8 +300,8 @@
 | 292 | 987 | Osun Anuket Esu |
 | 293 | 984 | Crystal Hoffman |
 | 294 | 981 | Ashlen Dorrell |
-| 295 | 979 | Melissa Penelope Ann Dodge |
-| 296 | 979 | Hillary Crawford |
+| 295 | 979 | Hillary Crawford |
+| 296 | 979 | Melissa Penelope Ann Dodge |
 | 297 | 978 | April Dawn Gussler |
 | 298 | 976 | Della Hole |
 | 299 | 976 | Sam Joe |
@@ -322,8 +322,8 @@
 | 314 | 951 | Cynthia Ward |
 | 315 | 947 | Dedra Steward |
 | 316 | 941 | Cool Clearer |
-| 317 | 939 | SaraMarie Eveland |
-| 318 | 939 | Cindy Sechler Taninecz |
+| 317 | 939 | Cindy Sechler Taninecz |
+| 318 | 939 | SaraMarie Eveland |
 | 319 | 929 | Joshua Mandel |
 | 320 | 927 | Wakanda Forever |
 | 321 | 926 | Deborah Miller |
@@ -339,8 +339,8 @@
 | 331 | 903 | Giggy Blocker |
 | 332 | 902 | William Hunt |
 | 333 | 901 | Kevin Sees |
-| 334 | 899 | Patrick Bartlett |
-| 335 | 899 | Chevy |
+| 334 | 899 | Chevy |
+| 335 | 899 | Patrick Bartlett |
 | 336 | 898 | Jamie Otero |
 | 337 | 895 | Donna Colby |
 | 338 | 890 | Steve Man |
@@ -445,8 +445,8 @@
 | 437 | 728 | Tom Riefer |
 | 438 | 728 | Dylan Thomason |
 | 439 | 726 | Crystal Greene |
-| 440 | 725 | Ashle Scranton |
-| 441 | 725 | Jennie Lee Huntley |
+| 440 | 725 | Jennie Lee Huntley |
+| 441 | 725 | Ashle Scranton |
 | 442 | 725 | Karen Snyder Schrage |
 | 443 | 725 | Vonceial Boone |
 | 444 | 724 | Melissa Holsinger |
@@ -487,8 +487,8 @@
 | 479 | 677 | Kayleigh Wisse |
 | 480 | 677 | Paul Combs |
 | 481 | 677 | Amanda Woodruff |
-| 482 | 676 | Nicky Jackson |
-| 483 | 676 | Roseanna Peloso |
+| 482 | 676 | Roseanna Peloso |
+| 483 | 676 | Nicky Jackson |
 | 484 | 675 | Lonne Emade |
 | 485 | 675 | Katelynn Hollen |
 | 486 | 674 | Ashley Munn |
