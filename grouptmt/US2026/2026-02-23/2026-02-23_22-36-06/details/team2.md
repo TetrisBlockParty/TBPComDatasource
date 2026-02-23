@@ -360,8 +360,8 @@
 | 352 | 1067 | Taylor Phillips |
 | 353 | 1067 | Caitlin Schmid |
 | 354 | 1067 | Bee |
-| 355 | 1065 | SaraMarie Eveland |
-| 356 | 1065 | Dany Murillo |
+| 355 | 1065 | Dany Murillo |
+| 356 | 1065 | SaraMarie Eveland |
 | 357 | 1059 | Bri Lynn |
 | 358 | 1058 | Tiffany Branham |
 | 359 | 1052 | Desiree Anderson |
@@ -537,11 +537,11 @@
 | 529 | 783 | Angelina Marie |
 | 530 | 781 | Sarah Berger |
 | 531 | 779 | Trinity Oak |
-| 532 | 778 | tejas25 |
-| 533 | 778 | Breezy Filler |
+| 532 | 778 | Breezy Filler |
+| 533 | 778 | tejas25 |
 | 534 | 777 | Tesha Oldaker |
-| 535 | 776 | BeQuo |
-| 536 | 776 | Fancy Twister |
+| 535 | 776 | Fancy Twister |
+| 536 | 776 | BeQuo |
 | 537 | 774 | Cherrica Newman |
 | 538 | 771 | Darla Silva |
 | 539 | 771 | Stephanie Lumanlan |
@@ -553,8 +553,8 @@
 | 545 | 765 | Michelle Pike |
 | 546 | 764 | Belle |
 | 547 | 764 | Shea Edison |
-| 548 | 763 | Heather Causey |
-| 549 | 763 | Megan Kitchner |
+| 548 | 763 | Megan Kitchner |
+| 549 | 763 | Heather Causey |
 | 550 | 761 | Jerilyn Andrina |
 | 551 | 760 | Shanae Dillahunty |
 | 552 | 759 | Nicky Jackson |

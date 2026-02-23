@@ -62,8 +62,8 @@
 | 54 | 1156 | Goatimus Lombardi |
 | 55 | 1150 | Kimyatta Cavin |
 | 56 | 1106 | Ashley Ingram |
-| 57 | 1082 | Avy Absol |
-| 58 | 1082 | Dion Crommarty |
+| 57 | 1082 | Dion Crommarty |
+| 58 | 1082 | Avy Absol |
 | 59 | 1073 | Dustee Craddock-Harrison |
 | 60 | 1049 | Heather Tushner |
 | 61 | 1046 | Johnathan Martinez |
@@ -96,8 +96,8 @@
 | 88 | 783 | Guy Incognito |
 | 89 | 783 | Denise Carlson |
 | 90 | 775 | Klo |
-| 91 | 768 | Trista Leah |
-| 92 | 768 | Judy Cox |
+| 91 | 768 | Judy Cox |
+| 92 | 768 | Trista Leah |
 | 93 | 767 | Shannon Ferrari |
 | 94 | 766 | Robin Watters |
 | 95 | 764 | Valerie Roberts |
@@ -195,8 +195,8 @@
 | 187 | 465 | Jolly Dashfit |
 | 188 | 464 | Sharyn Lemire |
 | 189 | 462 | Leslie Thomas |
-| 190 | 457 | June Hoffman |
-| 191 | 457 | Kristin Manee |
+| 190 | 457 | Kristin Manee |
+| 191 | 457 | June Hoffman |
 | 192 | 455 | Michele Plunkett |
 | 193 | 450 | Amanda Pauldo-Ivy |
 | 194 | 449 | Rebecca Morris |
@@ -230,8 +230,8 @@
 | 222 | 411 | Mimi |
 | 223 | 409 | Antony Dwayne Beasley |
 | 224 | 400 | TinyLegoRose |
-| 225 | 399 | Lindsay Ball |
-| 226 | 399 | Jeff Brian Gates |
+| 225 | 399 | Jeff Brian Gates |
+| 226 | 399 | Lindsay Ball |
 | 227 | 398 | Tyler Terrific |
 | 228 | 394 | Nita Wells |
 | 229 | 392 | Angelito |
@@ -311,8 +311,8 @@
 | 303 | 305 | Sassy Pattern |
 | 304 | 305 | Megan Cutshaw |
 | 305 | 305 | Kenna Gunderland |
-| 306 | 300 | Dana Scott |
-| 307 | 300 | Kate |
+| 306 | 300 | Kate |
+| 307 | 300 | Dana Scott |
 | 308 | 296 | Sarah Hoffman |
 | 309 | 295 | Cool Gridzone |
 | 310 | 294 | BootsMcGee |
@@ -353,8 +353,8 @@
 | 345 | 276 | Cynthia Boudreau |
 | 346 | 275 | meowmew |
 | 347 | 274 | Jenna McGeorge |
-| 348 | 272 | Dennis Bradley |
-| 349 | 272 | Tony Pavelka |
+| 348 | 272 | Tony Pavelka |
+| 349 | 272 | Dennis Bradley |
 | 350 | 271 | Holly |
 | 351 | 270 | 07VHVW |
 | 352 | 270 | 23 |
@@ -380,8 +380,8 @@
 | 372 | 258 | Lilya Troutman |
 | 373 | 258 | Stephme310 |
 | 374 | 257 | ĥuf |
-| 375 | 257 | Dustin York |
-| 376 | 257 | Alexandra Karavias |
+| 375 | 257 | Alexandra Karavias |
+| 376 | 257 | Dustin York |
 | 377 | 257 | Michael Snow |
 | 378 | 256 | Mackenzie Forrester |
 | 379 | 256 | Jason Bosco |
@@ -402,8 +402,8 @@
 | 394 | 247 | Tyler Bechtel |
 | 395 | 246 | Shanon Klair |
 | 396 | 246 | giantslover514 |
-| 397 | 244 | @ |
-| 398 | 244 | Elizabeth Tinoco |
+| 397 | 244 | Elizabeth Tinoco |
+| 398 | 244 | @ |
 | 399 | 244 | Perky Piecegrid |
 | 400 | 243 | Victoria Faniel |
 | 401 | 243 | Laura Hosford |
@@ -1445,7 +1445,7 @@
 | 1437 | 37 | Hasty Balancer |
 | 1438 | 37 | Sunny68 |
 | 1439 | 36 | Brain Joy |
-| 1440 | 36 | Shiny Zonepiece |
+| 1440 | 36 | Rebecca Maino |
 | 1441 | 36 | InfinitLee |
 | 1442 | 36 | Shiny Zonepiece |
 | 1443 | 36 | Tipsy Blockline |
