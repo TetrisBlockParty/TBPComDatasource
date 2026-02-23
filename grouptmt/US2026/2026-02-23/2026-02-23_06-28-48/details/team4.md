@@ -73,8 +73,8 @@
 | 65 | 781 | Ashley Ingram |
 | 66 | 767 | Shannon Ferrari |
 | 67 | 766 | Robin Watters |
-| 68 | 765 | Robin Getchel |
-| 69 | 765 | Denise Carlson |
+| 68 | 765 | Denise Carlson |
+| 69 | 765 | Robin Getchel |
 | 70 | 752 | loulou |
 | 71 | 749 | Dustee Craddock-Harrison |
 | 72 | 742 | Carolyn Wallace |
@@ -88,8 +88,8 @@
 | 80 | 697 | Alyssa Papen |
 | 81 | 696 | Shane Kalamata Platoon |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Kimyatta Cavin |
-| 84 | 684 | Jonathan Kimbrough |
+| 83 | 684 | Jonathan Kimbrough |
+| 84 | 684 | Kimyatta Cavin |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -125,8 +125,8 @@
 | 117 | 514 | Scott Jameson |
 | 118 | 514 | Serena Goodridge |
 | 119 | 513 | Erin Thomas |
-| 120 | 512 | Casey Jeffcoat |
-| 121 | 512 | Cristy Duerksen |
+| 120 | 512 | Cristy Duerksen |
+| 121 | 512 | Casey Jeffcoat |
 | 122 | 511 | Lori Walker |
 | 123 | 509 | Leslie Nicole |
 | 124 | 482 | Ren Mc |
@@ -138,16 +138,16 @@
 | 130 | 458 | Twisty Clicky |
 | 131 | 451 | Peachy Fall |
 | 132 | 448 | Kristin Manee |
-| 133 | 435 | Kristina Black |
-| 134 | 435 | Leslie Thomas |
+| 133 | 435 | Leslie Thomas |
+| 134 | 435 | Kristina Black |
 | 135 | 434 | Monica Daley |
 | 136 | 432 | Zippy Block |
 | 137 | 431 | Courtney Cicoria |
 | 138 | 429 | Klo |
 | 139 | 426 | 🥔🥔 Spudz |
 | 140 | 423 | Carrie Brian |
-| 141 | 421 | JIGsaw ~(•¿°)~ |
-| 142 | 421 | Kesha Brady |
+| 141 | 421 | Kesha Brady |
+| 142 | 421 | JIGsaw ~(•¿°)~ |
 | 143 | 418 | Lush Linkfall |
 | 144 | 418 | Marie-Pier Desjardins |
 | 145 | 416 | Ericca Eldridge |
@@ -159,8 +159,8 @@
 | 151 | 406 | Damn Libra |
 | 152 | 398 | Tyler Terrific |
 | 153 | 397 | Livvy |
-| 154 | 393 | Girl |
-| 155 | 393 | Carlton Unfiltered |
+| 154 | 393 | Carlton Unfiltered |
+| 155 | 393 | Girl |
 | 156 | 391 | Ramel Rhodes |
 | 157 | 389 | Joseph Guthrie |
 | 158 | 387 | Lucas J Sutton |
@@ -206,18 +206,18 @@
 | 198 | 316 | Autumn Kumzi |
 | 199 | 311 | Mary Ann Pabukis |
 | 200 | 310 | Holly Jolly |
-| 201 | 307 | Michele Plunkett |
-| 202 | 307 | Cheery Risebuilder |
+| 201 | 307 | Cheery Risebuilder |
+| 202 | 307 | Michele Plunkett |
 | 203 | 306 | blockstar |
 | 204 | 305 | Melvin Baird |
 | 205 | 304 | Lindsay Ball |
 | 206 | 303 | Dihcheese444 |
 | 207 | 301 | Andria Lynn |
-| 208 | 300 | Dana Scott |
-| 209 | 300 | Zakia Monae |
+| 208 | 300 | Zakia Monae |
+| 209 | 300 | Dana Scott |
 | 210 | 295 | Keshia Lyons |
-| 211 | 294 | Calvin Cannon |
-| 212 | 294 | Porkobello |
+| 211 | 294 | Porkobello |
+| 212 | 294 | Calvin Cannon |
 | 213 | 292 | Epic Curvetile |
 | 214 | 290 | Rebecca Morris |
 | 215 | 290 | Plucky Patternblock |
@@ -310,11 +310,11 @@
 | 302 | 219 | Orchislactea |
 | 303 | 219 | Shane Vick |
 | 304 | 218 | Janita Parrish |
-| 305 | 217 | Paito |
-| 306 | 217 | Cheery Fitline |
-| 307 | 217 | Alexandra Karavias |
-| 308 | 216 | Chantilly Laace |
-| 309 | 216 | mike |
+| 305 | 217 | Alexandra Karavias |
+| 306 | 217 | Paito |
+| 307 | 217 | Cheery Fitline |
+| 308 | 216 | mike |
+| 309 | 216 | Chantilly Laace |
 | 310 | 215 | Stephme310 |
 | 311 | 214 | Stacey Stano |
 | 312 | 214 | Patron Anderson |
@@ -555,8 +555,8 @@
 | 547 | 125 | Kelly Adams Carnahan |
 | 548 | 125 | ImJustMe |
 | 549 | 125 | Christina Nabrizny |
-| 550 | 124 | Laurel Coppess |
-| 551 | 124 | Peppy Strike |
+| 550 | 124 | Jackson Karen |
+| 551 | 124 | Atia Scott |
 | 552 | 124 | Cheery Towerzone |
 | 553 | 124 | Laurel Coppess |
 | 554 | 124 | Peppy Strike |
@@ -1180,7 +1180,7 @@
 | 1172 | 44 | Daoxed |
 | 1173 | 43 | Charlotte Garczynski |
 | 1174 | 43 | SpyderByt3 |
-| 1175 | 43 | Gabriel Raymond |
+| 1175 | 43 | tossan |
 | 1176 | 43 | Wet Noodle |
 | 1177 | 43 | Gabriel Raymond |
 | 1178 | 43 | Chirpy Rollbuilder |

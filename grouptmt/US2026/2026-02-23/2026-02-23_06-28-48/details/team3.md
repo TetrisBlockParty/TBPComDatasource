@@ -128,8 +128,8 @@
 | 120 | 769 | Kristie |
 | 121 | 764 | Groovy Catcher |
 | 122 | 762 | Speedy Bridger |
-| 123 | 752 | Logan Naccarato |
-| 124 | 752 | Raya |
+| 123 | 752 | Raya |
+| 124 | 752 | Logan Naccarato |
 | 125 | 748 | Adrian Marcel Pate |
 | 126 | 745 | JerseyJess |
 | 127 | 744 | Fancy Cascader |
@@ -188,9 +188,9 @@
 | 180 | 559 | Patti Skiles |
 | 181 | 556 | Elissa S-k |
 | 182 | 553 | LaTanya GeminiondaRise Johnson |
-| 183 | 546 | Mykal Burton |
-| 184 | 546 | Tasha Schriewer |
-| 185 | 546 | Cynthia Castros-Hampton |
+| 183 | 546 | Tasha Schriewer |
+| 184 | 546 | Cynthia Castros-Hampton |
+| 185 | 546 | Mykal Burton |
 | 186 | 540 | Shawn Miller |
 | 187 | 531 | Chauntee Alfrey-Cardinale |
 | 188 | 531 | Sarah Cowan Burgos |
@@ -219,8 +219,8 @@
 | 211 | 470 | Fallorina Susana |
 | 212 | 467 | Sherry Ogden |
 | 213 | 465 | Annie Déè |
-| 214 | 464 | Danielle Weikel |
-| 215 | 464 | Shunta Jacobs |
+| 214 | 464 | Shunta Jacobs |
+| 215 | 464 | Danielle Weikel |
 | 216 | 461 | Tom Nault |
 | 217 | 458 | Danielle Rhoades |
 | 218 | 457 | Edwin Calvillo Jr. |
@@ -253,13 +253,13 @@
 | 245 | 382 | Giddy Twistbuilder |
 | 246 | 381 | Snazzy Filler |
 | 247 | 380 | Rebecca Bailey |
-| 248 | 378 | MsBee |
-| 249 | 378 | Chris Bell |
+| 248 | 378 | Chris Bell |
+| 249 | 378 | MsBee |
 | 250 | 377 | Charles Perrone |
 | 251 | 374 | Rania Zaqout |
 | 252 | 373 | Chummy Caster |
-| 253 | 372 | Rich LeBlanc |
-| 254 | 372 | Sarah Moyer |
+| 253 | 372 | Sarah Moyer |
+| 254 | 372 | Rich LeBlanc |
 | 255 | 371 | Marquita Sheard |
 | 256 | 371 | block chick |
 | 257 | 370 | Samantha Lynn |
@@ -279,8 +279,8 @@
 | 271 | 354 | Andrew Thorson |
 | 272 | 354 | Roary Danner |
 | 273 | 354 | Kelly |
-| 274 | 353 | Cyd061769 |
-| 275 | 353 | Dee Franklin |
+| 274 | 353 | Dee Franklin |
+| 275 | 353 | Cyd061769 |
 | 276 | 352 | Christian Werndl |
 | 277 | 351 | Blocked |
 | 278 | 351 | Eon Harris |
@@ -392,8 +392,8 @@
 | 384 | 265 | Heather Davis |
 | 385 | 264 | Reina Roth |
 | 386 | 264 | Danielle Beaunoyer Jean |
-| 387 | 263 | Jimmie Clemons |
-| 388 | 263 | Erika Thornton |
+| 387 | 263 | Erika Thornton |
+| 388 | 263 | Jimmie Clemons |
 | 389 | 261 | AlsoJess |
 | 390 | 260 | Alice |
 | 391 | 260 | TotoCherue |
@@ -401,8 +401,8 @@
 | 393 | 259 | Dana Winters |
 | 394 | 259 | Shania Vaine |
 | 395 | 258 | IamJust Neyamijah Washington Sr. |
-| 396 | 257 | Saucy Buildout |
-| 397 | 257 | Chris Wallace |
+| 396 | 257 | Chris Wallace |
+| 397 | 257 | Saucy Buildout |
 | 398 | 257 | Rachel Grant |
 | 399 | 255 | Sharisse Baltimore |
 | 400 | 255 | Mariah Williams |
@@ -418,12 +418,12 @@
 | 410 | 250 | Tegan Chapman |
 | 411 | 249 | Willow |
 | 412 | 248 | Brian Battjes |
-| 413 | 247 | Jessica |
-| 414 | 247 | Kevin Russell |
+| 413 | 247 | Kevin Russell |
+| 414 | 247 | Jessica |
 | 415 | 245 | LaNette Morgan |
 | 416 | 245 | Latoya Mayne |
-| 417 | 244 | Lys |
-| 418 | 244 | Beezwax |
+| 417 | 244 | Beezwax |
+| 418 | 244 | Lys |
 | 419 | 244 | Quackers |
 | 420 | 243 | Nicholas Roddy |
 | 421 | 243 | Paula Little |
@@ -523,8 +523,8 @@
 | 515 | 203 | Sdot |
 | 516 | 203 | TLM |
 | 517 | 202 | Sabrina Mansfield |
-| 518 | 201 | Katrina E Jelks |
-| 519 | 201 | Denise Marie |
+| 518 | 201 | Denise Marie |
+| 519 | 201 | Katrina E Jelks |
 | 520 | 200 | Sarah Whalen |
 | 521 | 200 | glichmod |
 | 522 | 200 | Christina Marie Swisher |
@@ -747,8 +747,8 @@
 | 739 | 144 | Janay Darkstallion Robinson |
 | 740 | 144 | Clever Edgepiece |
 | 741 | 143 | Russell Hankinson |
-| 742 | 143 | Melissa Parlow-Callaway |
-| 743 | 143 | Lisa Lisa |
+| 742 | 143 | Lisa Lisa |
+| 743 | 143 | Melissa Parlow-Callaway |
 | 744 | 142 | Michelle Allers |
 | 745 | 142 | Giggy Balanceblock |
 | 746 | 142 | Myriam Lapierre |

@@ -78,8 +78,8 @@
 | 70 | 706 | Seante Bullock |
 | 71 | 705 | comrade fish |
 | 72 | 704 | Karin Gillen |
-| 73 | 703 | Snappy Swiper |
-| 74 | 703 | Angel Fowler |
+| 73 | 703 | Angel Fowler |
+| 74 | 703 | Snappy Swiper |
 | 75 | 679 | Hasbro Bros |
 | 76 | 666 | Susanna Guerry |
 | 77 | 657 | Cynthia Bradley |
@@ -87,8 +87,8 @@
 | 79 | 647 | Jason Jones |
 | 80 | 637 | Evie Khalil |
 | 81 | 600 | Greg Hart |
-| 82 | 598 | Erin Hodges Plumb |
-| 83 | 598 | Kellie |
+| 82 | 598 | Kellie |
+| 83 | 598 | Erin Hodges Plumb |
 | 84 | 584 | Jen Sartain |
 | 85 | 583 | Theo Pinnow |
 | 86 | 582 | Plucky Fallzone |
@@ -183,8 +183,8 @@
 | 175 | 346 | Erin Rosberg |
 | 176 | 346 | GATOR |
 | 177 | 345 | Jerry Danowski |
-| 178 | 343 | Chelsea Dahlquist |
-| 179 | 343 | Elaine Elaine |
+| 178 | 343 | Elaine Elaine |
+| 179 | 343 | Chelsea Dahlquist |
 | 180 | 341 | Nick R Montague |
 | 181 | 339 | Nicole Roseberry Weber |
 | 182 | 338 | Jennifer Hardman |
@@ -192,16 +192,16 @@
 | 184 | 337 | Constance Risner |
 | 185 | 336 | Dizzy Party |
 | 186 | 333 | Gracie |
-| 187 | 332 | Lehrin Maria |
-| 188 | 332 | Happy Basegrid |
+| 187 | 332 | Happy Basegrid |
+| 188 | 332 | Lehrin Maria |
 | 189 | 329 | Witty Builderfit |
 | 190 | 325 | GringaLinga |
 | 191 | 324 | Rat666 |
 | 192 | 323 | Madison Wicks |
 | 193 | 322 | Letson Melissa |
 | 194 | 321 | Jen Nystrom |
-| 195 | 318 | Virginia Gray Floyd |
-| 196 | 318 | Jessica Sheehan |
+| 195 | 318 | Jessica Sheehan |
+| 196 | 318 | Virginia Gray Floyd |
 | 197 | 317 | Sarah Roberts |
 | 198 | 316 | Snappy Matcher |
 | 199 | 316 | Reesey Enyart |
@@ -213,8 +213,8 @@
 | 205 | 310 | Bloknboy |
 | 206 | 307 | femmefatale |
 | 207 | 306 | Angela Renea Lester |
-| 208 | 301 | Cody Gates |
-| 209 | 301 | Damon J. Martin |
+| 208 | 301 | Damon J. Martin |
+| 209 | 301 | Cody Gates |
 | 210 | 300 | Sleepysloath5745 |
 | 211 | 298 | Billie Ann Eason |
 | 212 | 294 | Bindi |
@@ -234,10 +234,10 @@
 | 226 | 282 | Timothy Dew |
 | 227 | 281 | Clever Cascadepiece |
 | 228 | 280 | Billie Dawn Sparks |
-| 229 | 277 | Melissa Lemmon |
-| 230 | 277 | Nutty Spinblock |
-| 231 | 275 | Chris65 |
-| 232 | 275 | Cheeky Pop |
+| 229 | 277 | Nutty Spinblock |
+| 230 | 277 | Melissa Lemmon |
+| 231 | 275 | Cheeky Pop |
+| 232 | 275 | Chris65 |
 | 233 | 274 | Lakeisha Chapman |
 | 234 | 273 | Shannon Marie Pitts |
 | 235 | 271 | Sam Williams |
@@ -268,9 +268,9 @@
 | 260 | 244 | Eddie Dillon |
 | 261 | 243 | Tyler L Hunt |
 | 262 | 243 | Bouncy Grid |
-| 263 | 242 | ParisandCory Champagne |
-| 264 | 242 | Colleen Pinette |
-| 265 | 242 | Tyler Hertzog |
+| 263 | 242 | Colleen Pinette |
+| 264 | 242 | Tyler Hertzog |
+| 265 | 242 | ParisandCory Champagne |
 | 266 | 240 | Barrbaric |
 | 267 | 240 | Sarah Marie |
 | 268 | 239 | Adele Rahman |
