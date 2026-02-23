@@ -62,8 +62,8 @@
 | 54 | 864 | Shelly Chandler |
 | 55 | 863 | Pee |
 | 56 | 859 | TeeJ |
-| 57 | 846 | Lucille Truesdale |
-| 58 | 846 | Christine Marie |
+| 57 | 846 | Christine Marie |
+| 58 | 846 | Lucille Truesdale |
 | 59 | 845 | LisaJo Picken Buchanan |
 | 60 | 834 | quicksand420 |
 | 61 | 811 | Ashley Ingram |
@@ -166,8 +166,8 @@
 | 158 | 403 | Keith Kelley |
 | 159 | 402 | Lucas J Sutton |
 | 160 | 398 | Tyler Terrific |
-| 161 | 393 | Girl |
-| 162 | 393 | Carlton Unfiltered |
+| 161 | 393 | Carlton Unfiltered |
+| 162 | 393 | Girl |
 | 163 | 392 | Nick Gray |
 | 164 | 391 | Ramel Rhodes |
 | 165 | 389 | Joseph Guthrie |
@@ -183,8 +183,8 @@
 | 175 | 368 | Silly Zonebuilder |
 | 176 | 368 | Raegan Lane-Ross |
 | 177 | 365 | Jeff Brian Gates |
-| 178 | 361 | Melissa Adams |
-| 179 | 361 | Danielle Kollias |
+| 178 | 361 | Danielle Kollias |
+| 179 | 361 | Melissa Adams |
 | 180 | 361 | Carlos Ramirez |
 | 181 | 358 | Twisty Cascadezone |
 | 182 | 358 | A5! |
@@ -207,8 +207,8 @@
 | 199 | 330 | Kathy Brookins |
 | 200 | 328 | scott |
 | 201 | 327 | J-Rizzle |
-| 202 | 324 | jim |
-| 203 | 324 | TinyLegoRose |
+| 202 | 324 | TinyLegoRose |
+| 203 | 324 | jim |
 | 204 | 321 | Meagan Nicole |
 | 205 | 320 | Lauren Scott |
 | 206 | 318 | Chris Hartig |
@@ -233,15 +233,15 @@
 | 225 | 290 | Plucky Patternblock |
 | 226 | 290 | Jared Gutwein |
 | 227 | 289 | Juls |
-| 228 | 288 | Adam Stephanie Parker |
-| 229 | 288 | Zesty Twistbuilder |
-| 230 | 288 | Brittney Orengo |
-| 231 | 288 | Leah Kutz Zirbel |
+| 228 | 288 | Zesty Twistbuilder |
+| 229 | 288 | Brittney Orengo |
+| 230 | 288 | Leah Kutz Zirbel |
+| 231 | 288 | Adam Stephanie Parker |
 | 232 | 286 | Steph Marie |
 | 233 | 285 | 030Synner |
 | 234 | 284 | Mimi |
-| 235 | 282 | Kim Klutz Olson |
-| 236 | 282 | Matt Gooder |
+| 235 | 282 | Matt Gooder |
+| 236 | 282 | Kim Klutz Olson |
 | 237 | 281 | Laura |
 | 238 | 280 | Rio Rocha |
 | 239 | 279 | Malakai Darien Fox |
@@ -328,22 +328,22 @@
 | 320 | 216 | Chantilly Laace |
 | 321 | 216 | mike |
 | 322 | 215 | Stephme310 |
-| 323 | 214 | Stacey Stano |
-| 324 | 214 | Patron Anderson |
+| 323 | 214 | Patron Anderson |
+| 324 | 214 | Stacey Stano |
 | 325 | 213 | Jackie Marie |
 | 326 | 212 | Zany Shatterer |
 | 327 | 212 | Brave Spinbuilder |
 | 328 | 212 | Mike Solo |
 | 329 | 211 | Chris Alexinas |
 | 330 | 210 | Ari Droff |
-| 331 | 209 | Snippy Puzzle |
-| 332 | 209 | Marcus Todd |
+| 331 | 209 | Marcus Todd |
+| 332 | 209 | Snippy Puzzle |
 | 333 | 208 | Shukee Lo |
 | 334 | 208 | Heather Bruce |
 | 335 | 207 | Squeezy Pearsall |
-| 336 | 206 | Maureen Flanigan |
-| 337 | 206 | Laura Hosford |
-| 338 | 206 | June Hoffman |
+| 336 | 206 | June Hoffman |
+| 337 | 206 | Maureen Flanigan |
+| 338 | 206 | Laura Hosford |
 | 339 | 205 | KayM |
 | 340 | 204 | Ruby Khalisadar |
 | 341 | 204 | Russ Attitude |
@@ -420,9 +420,9 @@
 | 412 | 173 | Tanner Lund |
 | 413 | 172 | Janis Brown |
 | 414 | 172 | Undeniable Williams |
-| 415 | 171 | Stacy |
-| 416 | 171 | Brittany Little |
-| 417 | 171 | Dapper Balancer |
+| 415 | 171 | Dapper Balancer |
+| 416 | 171 | Stacy |
+| 417 | 171 | Brittany Little |
 | 418 | 171 | Terrance Fung |
 | 419 | 170 | Peppy Drop |
 | 420 | 170 | Elie Pean |
@@ -1564,7 +1564,7 @@
 | 1556 | 18 | Sylvia Fox |
 | 1557 | 18 | Minion radish |
 | 1558 | 17 | Spicy T-spin |
-| 1559 | 17 | Wacky Brickmatch |
+| 1559 | 17 | Kyawt Sandi Thwe |
 | 1560 | 17 | Stephanie Nash |
 | 1561 | 17 | Tamiko Kirby |
 | 1562 | 17 | MsEMoney |

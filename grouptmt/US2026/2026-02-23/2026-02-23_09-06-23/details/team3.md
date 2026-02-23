@@ -121,8 +121,8 @@
 | 113 | 831 | Angeline Joseph |
 | 114 | 830 | Stephanie Allmon |
 | 115 | 826 | Shane Wilson Jr. |
-| 116 | 816 | Brenda Lee Vander Molen |
-| 117 | 816 | Jesse Olive |
+| 116 | 816 | Jesse Olive |
+| 117 | 816 | Brenda Lee Vander Molen |
 | 118 | 802 | Bobbi Moore |
 | 119 | 800 | Lauren Girouard |
 | 120 | 799 | Dolores Falco |
@@ -130,8 +130,8 @@
 | 122 | 769 | Kristie |
 | 123 | 764 | Groovy Catcher |
 | 124 | 762 | Speedy Bridger |
-| 125 | 755 | Raya |
-| 126 | 755 | Katrina Schroeder |
+| 125 | 755 | Katrina Schroeder |
+| 126 | 755 | Raya |
 | 127 | 752 | Logan Naccarato |
 | 128 | 748 | Adrian Marcel Pate |
 | 129 | 745 | JerseyJess |
@@ -214,12 +214,12 @@
 | 206 | 488 | Melissa Orth Hunter |
 | 207 | 485 | Dapper Snap |
 | 208 | 484 | Fallorina Susana |
-| 209 | 480 | Michael Johnson |
-| 210 | 480 | Danielle Allison |
+| 209 | 480 | Danielle Allison |
+| 210 | 480 | Michael Johnson |
 | 211 | 477 | Edwin Calvillo Jr. |
 | 212 | 475 | Tessina Dewey-Mancino |
-| 213 | 473 | Connie Mohler-Fair |
-| 214 | 473 | Rachel |
+| 213 | 473 | Rachel |
+| 214 | 473 | Connie Mohler-Fair |
 | 215 | 471 | Mendoza Lee Christy |
 | 216 | 470 | Trisha Balmer |
 | 217 | 467 | Sherry Ogden |
@@ -254,8 +254,8 @@
 | 246 | 399 | Marci Mize Fandrich |
 | 247 | 396 | Randy Clevenger |
 | 248 | 395 | rosy |
-| 249 | 391 | RickyG |
-| 250 | 391 | Nicole Flippo |
+| 249 | 391 | Nicole Flippo |
+| 250 | 391 | RickyG |
 | 251 | 387 | Gideon Walker |
 | 252 | 384 | Noyb Adam |
 | 253 | 383 | Darlene McMillan |
@@ -263,8 +263,8 @@
 | 255 | 381 | Snazzy Filler |
 | 256 | 380 | Rebecca Bailey |
 | 257 | 379 | JessDrown |
-| 258 | 378 | Chris Bell |
-| 259 | 378 | MsBee |
+| 258 | 378 | MsBee |
+| 259 | 378 | Chris Bell |
 | 260 | 377 | Charles Perrone |
 | 261 | 375 | Stephanie Burtin |
 | 262 | 374 | Rania Zaqout |
@@ -279,8 +279,8 @@
 | 271 | 368 | Sheila M Frazier |
 | 272 | 367 | Kristin Delibac Corrigan |
 | 273 | 366 | Gumbo |
-| 274 | 364 | Steffi Chris Dacones |
-| 275 | 364 | Carrie Huskey |
+| 274 | 364 | Carrie Huskey |
+| 275 | 364 | Steffi Chris Dacones |
 | 276 | 362 | Brandon Givens |
 | 277 | 360 | Cesar Barraza |
 | 278 | 359 | Sleepy |
@@ -468,12 +468,12 @@
 | 460 | 232 | Stephanie Hill |
 | 461 | 232 | Melanie Sherwood |
 | 462 | 231 | Giggly Brickroll |
-| 463 | 230 | BigE |
-| 464 | 230 | DanceLuvLaugh |
+| 463 | 230 | DanceLuvLaugh |
+| 464 | 230 | BigE |
 | 465 | 229 | MizzMonick Smith |
 | 466 | 229 | Everret Maxine |
-| 467 | 228 | Dapper Liney |
-| 468 | 228 | Tipsy Zonebuilder |
+| 467 | 228 | Tipsy Zonebuilder |
+| 468 | 228 | Dapper Liney |
 | 469 | 227 | Meowsa |
 | 470 | 226 | paranoid |
 | 471 | 226 | Ryan Williams |
@@ -508,14 +508,14 @@
 | 500 | 213 | Linda Draper |
 | 501 | 213 | Jack Bo |
 | 502 | 213 | Ktfreeee |
-| 503 | 212 | Beth Ingham |
+| 503 | 212 | Boldy Blocker |
 | 504 | 212 | Frilly Stackzone |
-| 505 | 212 | Boldy Blocker |
+| 505 | 212 | Beth Ingham |
 | 506 | 212 | neci |
 | 507 | 211 | El Chapa |
 | 508 | 211 | Michael Pleasant |
-| 509 | 210 | Kristian Thurman |
-| 510 | 210 | Megan Riggins |
+| 509 | 210 | Megan Riggins |
+| 510 | 210 | Kristian Thurman |
 | 511 | 210 | Maia |
 | 512 | 209 | Jumpy Wrecker |
 | 513 | 209 | TazB |
@@ -589,8 +589,8 @@
 | 581 | 187 | Kelly Koenig |
 | 582 | 187 | Tiffany Marler |
 | 583 | 187 | Crystal Johnson |
-| 584 | 186 | Rayzer |
-| 585 | 186 | Funky Jumper |
+| 584 | 186 | Funky Jumper |
+| 585 | 186 | Rayzer |
 | 586 | 185 | Ashley Kennedy |
 | 587 | 185 | Breezy Roll |
 | 588 | 184 | Shanon R Jackson |
@@ -598,8 +598,8 @@
 | 590 | 184 | Barb Wensink Johnson |
 | 591 | 183 | Mel Murr |
 | 592 | 183 | AC Yeater |
-| 593 | 183 | Snarky McFace |
-| 594 | 183 | Silly Curvetile |
+| 593 | 183 | Silly Curvetile |
+| 594 | 183 | Snarky McFace |
 | 595 | 183 | Jana Fagg |
 | 596 | 182 | Johnathan Dowe |
 | 597 | 182 | Scouty |
@@ -615,8 +615,8 @@
 | 607 | 181 | Rashad Green |
 | 608 | 180 | Chipper Piecefit |
 | 609 | 180 | Stella |
-| 610 | 179 | Alexi Pryor |
-| 611 | 179 | Boldy Corner |
+| 610 | 179 | Boldy Corner |
+| 611 | 179 | Alexi Pryor |
 | 612 | 179 | Num1hater |
 | 613 | 179 | Ruchi Smit |
 | 614 | 178 | Jillian Ann |

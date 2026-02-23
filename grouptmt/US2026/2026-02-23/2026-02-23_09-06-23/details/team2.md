@@ -318,8 +318,8 @@
 | 310 | 969 | Em Chen |
 | 311 | 961 | Angela Lynn |
 | 312 | 959 | Phil J. Grombliniak |
-| 313 | 958 | Doowop40 |
-| 314 | 958 | Brenda Messer |
+| 313 | 958 | Brenda Messer |
+| 314 | 958 | Doowop40 |
 | 315 | 957 | Block Master |
 | 316 | 955 | Angela Bonquiqui Dinish |
 | 317 | 954 | Melissa McCall |
@@ -346,8 +346,8 @@
 | 338 | 903 | Giggy Blocker |
 | 339 | 903 | Eric Castaneda |
 | 340 | 901 | Kevin Sees |
-| 341 | 899 | Patrick Bartlett |
-| 342 | 899 | Chevy |
+| 341 | 899 | Chevy |
+| 342 | 899 | Patrick Bartlett |
 | 343 | 898 | Jamie Otero |
 | 344 | 895 | Donna Colby |
 | 345 | 894 | Adira Brown |
@@ -382,8 +382,8 @@
 | 374 | 829 | Jessica Wayne Cornwall |
 | 375 | 828 | Kimmy Newman |
 | 376 | 825 | Jeremy Parodi |
-| 377 | 824 | Khalil Lowe |
-| 378 | 824 | Danielle Johnson-Chandler |
+| 377 | 824 | Danielle Johnson-Chandler |
+| 378 | 824 | Khalil Lowe |
 | 379 | 824 | Mandi Douglas Hilt |
 | 380 | 822 | Lola Contreras |
 | 381 | 821 | Cassie Mercer |
@@ -439,8 +439,8 @@
 | 431 | 751 | Breezy Filler |
 | 432 | 750 | Draizen Montrell Thomas |
 | 433 | 748 | Spunkysmom |
-| 434 | 748 | Brenda Utphall |
-| 435 | 748 | Ann Matzkanin |
+| 434 | 748 | Ann Matzkanin |
+| 435 | 748 | Brenda Utphall |
 | 436 | 746 | Leslie Ann Carter |
 | 437 | 742 | tejas25 |
 | 438 | 741 | Jánine Riggs |
@@ -647,8 +647,8 @@
 | 639 | 550 | Michelle Sager |
 | 640 | 550 | Shorty |
 | 641 | 550 | Frilly Fallzone |
-| 642 | 549 | Kaylee McCafferty |
-| 643 | 549 | Melissa Kay Gibson |
+| 642 | 549 | Melissa Kay Gibson |
+| 643 | 549 | Kaylee McCafferty |
 | 644 | 549 | Crystal Hodge Love |
 | 645 | 548 | Shindee |
 | 646 | 547 | Hunter Connors |
@@ -684,8 +684,8 @@
 | 676 | 522 | Leah |
 | 677 | 521 | Mia Muse Best |
 | 678 | 519 | Mandi Marie Smith |
-| 679 | 519 | Rob Brown |
-| 680 | 519 | CupCake |
+| 679 | 519 | CupCake |
+| 680 | 519 | Rob Brown |
 | 681 | 517 | Daring Caster |
 | 682 | 516 | Diamond Scott |
 | 683 | 515 | Gina Bahn |
@@ -697,8 +697,8 @@
 | 689 | 512 | Sassy Linkroll |
 | 690 | 511 | Kristie Wilcox |
 | 691 | 509 | Jordan Kaiser |
-| 692 | 509 | Toni Whipple |
-| 693 | 509 | Perky Rollfit |
+| 692 | 509 | Perky Rollfit |
+| 693 | 509 | Toni Whipple |
 | 694 | 508 | Daphne Jordan |
 | 695 | 507 | Funky Caster |
 | 696 | 507 | Crystal Heller Gonzalez |
@@ -770,8 +770,8 @@
 | 762 | 472 | Connie Lepore-Mann |
 | 763 | 471 | Charming Leech |
 | 764 | 470 | Katie Marie |
-| 765 | 470 | ToShi |
-| 766 | 470 | Amanda Chamberlain |
+| 765 | 470 | Amanda Chamberlain |
+| 766 | 470 | ToShi |
 | 767 | 468 | Brenda Annabel Smith |
 | 768 | 468 | Niceday |
 | 769 | 467 | ruth |
@@ -787,8 +787,8 @@
 | 779 | 462 | Kia Humphery |
 | 780 | 461 | Amanda Segura |
 | 781 | 461 | Julie Hamilton |
-| 782 | 461 | Kristen O'Neal |
-| 783 | 461 | Amanda West |
+| 782 | 461 | Amanda West |
+| 783 | 461 | Kristen O'Neal |
 | 784 | 461 | Alexis Richardson |
 | 785 | 460 | LaWanda Powell |
 | 786 | 459 | Pocho Zavala |
@@ -807,8 +807,8 @@
 | 799 | 451 | Sharon Mills |
 | 800 | 451 | Angela Yantz |
 | 801 | 450 | sup |
-| 802 | 449 | Heather Sawtelle-Mckenzie |
-| 803 | 449 | Jas |
+| 802 | 449 | Jas |
+| 803 | 449 | Heather Sawtelle-Mckenzie |
 | 804 | 449 | Kristi Biddinger |
 | 805 | 448 | Anastacio Hernandez |
 | 806 | 448 | Darlene Bowman |
@@ -899,7 +899,7 @@
 | 891 | 406 | Johanna Massaro |
 | 892 | 406 | Epic Stackbuilder |
 | 893 | 406 | Lazy Builderfit |
-| 894 | 406 | Epic Stackbuilder |
+| 894 | 406 | Erin StFrancis |
 | 895 | 406 | Susan Arnburg |
 | 896 | 405 | Dane Reing |
 | 897 | 405 | Marget Kay |
@@ -938,8 +938,8 @@
 | 930 | 395 | Treshell Boyd |
 | 931 | 395 | Donald Nowland |
 | 932 | 394 | Snappy Shatterfit |
-| 933 | 394 | Nerdy Blockpiece |
-| 934 | 394 | Kristina Marie Hanna |
+| 933 | 394 | Kristina Marie Hanna |
+| 934 | 394 | Nerdy Blockpiece |
 | 935 | 393 | Jamie West |
 | 936 | 393 | Bing |
 | 937 | 393 | CC |
@@ -1228,20 +1228,20 @@
 | 1220 | 310 | Jessica Sutter |
 | 1221 | 309 | Squirrel |
 | 1222 | 309 | Richard Hunt |
-| 1223 | 309 | LintFunk |
-| 1224 | 309 | Nutty Matchline |
+| 1223 | 309 | Nutty Matchline |
+| 1224 | 309 | LintFunk |
 | 1225 | 309 | Funky Liney |
 | 1226 | 308 | Hyper Riseclear |
 | 1227 | 308 | Chilly Linkfall |
 | 1228 | 308 | Justin Edwards |
-| 1229 | 308 | Michael David Hollis |
-| 1230 | 308 | Alishac Marie |
+| 1229 | 308 | Alishac Marie |
+| 1230 | 308 | Michael David Hollis |
 | 1231 | 307 | Carlos Javier Del Toro |
 | 1232 | 307 | Chirpy Tilt |
 | 1233 | 307 | Lazy Riseclear |
 | 1234 | 307 | Fancy Smasher |
-| 1235 | 306 | Chill Strike |
-| 1236 | 306 | Alison Emmons |
+| 1235 | 306 | Alison Emmons |
+| 1236 | 306 | Chill Strike |
 | 1237 | 306 | Angela Nguyen |
 | 1238 | 306 | Sedo |
 | 1239 | 305 | Tonya Goetze-Micheli |

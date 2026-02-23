@@ -103,8 +103,8 @@
 | 95 | 529 | Ryan Lunnin |
 | 96 | 522 | Sarah Lombardo |
 | 97 | 511 | Mario Cab |
-| 98 | 510 | Chirpy Smasher |
-| 99 | 510 | Colena Davenport |
+| 98 | 510 | Colena Davenport |
+| 99 | 510 | Chirpy Smasher |
 | 100 | 509 | Rachael |
 | 101 | 502 | Anaid Sanchez |
 | 102 | 497 | Arianna O'Brien |
@@ -207,14 +207,14 @@
 | 199 | 324 | Rat666 |
 | 200 | 323 | Madison Wicks |
 | 201 | 322 | Letson Melissa |
-| 202 | 317 | Kimberly Garcia |
-| 203 | 317 | Sarah Roberts |
+| 202 | 317 | Sarah Roberts |
+| 203 | 317 | Kimberly Garcia |
 | 204 | 316 | Reesey Enyart |
 | 205 | 315 | Danielle Little-Daugherty |
-| 206 | 314 | Snippy Wipebuilder |
-| 207 | 314 | Tana |
-| 208 | 312 | Jessi Sauer |
-| 209 | 312 | Tiger Lily |
+| 206 | 314 | Tana |
+| 207 | 314 | Snippy Wipebuilder |
+| 208 | 312 | Tiger Lily |
+| 209 | 312 | Jessi Sauer |
 | 210 | 310 | Bloknboy |
 | 211 | 308 | Speedy Liney |
 | 212 | 306 | Angela Renea Lester |
@@ -222,8 +222,8 @@
 | 214 | 301 | Damon J. Martin |
 | 215 | 301 | Cody Gates |
 | 216 | 300 | Sleepysloath5745 |
-| 217 | 298 | Billie Ann Eason |
-| 218 | 298 | Sweetts |
+| 217 | 298 | Sweetts |
+| 218 | 298 | Billie Ann Eason |
 | 219 | 295 | Lakeisha Chapman |
 | 220 | 294 | Bindi |
 | 221 | 294 | Chuck Gannon |
@@ -238,8 +238,8 @@
 | 230 | 284 | Sam Williams |
 | 231 | 283 | Amanda Holibaugh |
 | 232 | 283 | Franswa |
-| 233 | 282 | Mandyy Rae |
-| 234 | 282 | Timothy Dew |
+| 233 | 282 | Timothy Dew |
+| 234 | 282 | Mandyy Rae |
 | 235 | 281 | Clever Cascadepiece |
 | 236 | 280 | Billie Dawn Sparks |
 | 237 | 280 | Eric DeSimone |
