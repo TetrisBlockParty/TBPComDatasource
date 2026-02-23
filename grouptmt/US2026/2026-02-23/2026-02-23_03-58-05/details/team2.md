@@ -104,8 +104,8 @@
 | 96 | 2170 | Steve Grotto |
 | 97 | 2165 | Tj Ball |
 | 98 | 2155 | Qiana Sanders |
-| 99 | 2148 | ShinyRose |
-| 100 | 2148 | Roger Grabbit |
+| 99 | 2148 | Roger Grabbit |
+| 100 | 2148 | ShinyRose |
 | 101 | 2146 | KellyDyan |
 | 102 | 2106 | Cool Rollpiece |
 | 103 | 2103 | Alisha Peoples |
@@ -217,8 +217,8 @@
 | 209 | 1217 | Lucky Ladybug |
 | 210 | 1217 | Brooks Brooks |
 | 211 | 1214 | David Cudicio-Hayden |
-| 212 | 1205 | Tony Lea |
-| 213 | 1205 | Tralonda Weeks |
+| 212 | 1205 | Tralonda Weeks |
+| 213 | 1205 | Tony Lea |
 | 214 | 1198 | Carrie Trigg |
 | 215 | 1197 | Ricardo Burton |
 | 216 | 1192 | Denisha Dawkins |
@@ -456,8 +456,8 @@
 | 448 | 699 | Dannette Goldberg-Richards |
 | 449 | 698 | Joce Lynn |
 | 450 | 697 | Ashle Scranton |
-| 451 | 695 | Lakeysha Dortch |
-| 452 | 695 | Irene Jones |
+| 451 | 695 | Irene Jones |
+| 452 | 695 | Lakeysha Dortch |
 | 453 | 693 | Ryan Stadel |
 | 454 | 692 | Shaun Church |
 | 455 | 691 | Poldo Ilano |
@@ -787,8 +787,8 @@
 | 779 | 427 | Destiny Cozier |
 | 780 | 426 | Kelly Meredeith |
 | 781 | 425 | N00D3S |
-| 782 | 424 | ruth |
-| 783 | 424 | Christine Egidio Morocco |
+| 782 | 424 | Christine Egidio Morocco |
+| 783 | 424 | ruth |
 | 784 | 423 | Smashanator |
 | 785 | 422 | Kimberly Ann |
 | 786 | 421 | Nina Nav |
@@ -1049,8 +1049,8 @@
 | 1041 | 329 | party pooch |
 | 1042 | 329 | Courtney Clark |
 | 1043 | 329 | Bec |
-| 1044 | 329 | Epic Stackbuilder |
-| 1045 | 329 | Joanna L. Abad |
+| 1044 | 329 | Joanna L. Abad |
+| 1045 | 329 | Epic Stackbuilder |
 | 1046 | 327 | GinRox88 |
 | 1047 | 327 | Muhammad |
 | 1048 | 327 | Jas |
@@ -1068,8 +1068,8 @@
 | 1060 | 324 | John Quiring |
 | 1061 | 324 | Dale Haanpaa |
 | 1062 | 324 | Enha |
-| 1063 | 323 | Lush Snapzone |
-| 1064 | 323 | cornball |
+| 1063 | 323 | cornball |
+| 1064 | 323 | Lush Snapzone |
 | 1065 | 323 | Brec2024 |
 | 1066 | 322 | Sunshine711 |
 | 1067 | 322 | Jeffrey Barrows |

@@ -214,7 +214,7 @@
 | 206 | 453 | Staci George Fitzsimmons |
 | 207 | 452 | Connie Mohler-Fair |
 | 208 | 452 | Jacqueline Rodriguez |
-| 209 | 452 | Connie Mohler-Fair |
+| 209 | 452 | Tom Nault |
 | 210 | 451 | Sarah Cowan Burgos |
 | 211 | 437 | Loopy Clusterer |
 | 212 | 436 | Danielle Weikel |
@@ -234,8 +234,8 @@
 | 226 | 406 | Heather Green |
 | 227 | 404 | Kristal C Lee |
 | 228 | 404 | Chasity |
-| 229 | 403 | Denita Mungro |
-| 230 | 403 | Scott Lindsay |
+| 229 | 403 | Scott Lindsay |
+| 230 | 403 | Denita Mungro |
 | 231 | 393 | Rebecca Funderburk Kirby |
 | 232 | 391 | Nicole Flippo |
 | 233 | 391 | Trisha Balmer |
@@ -279,16 +279,16 @@
 | 271 | 347 | Philip Rock |
 | 272 | 346 | Tamara Deherrera |
 | 273 | 345 | MsBee |
-| 274 | 344 | Roary Danner |
-| 275 | 344 | Gumbo |
+| 274 | 344 | Gumbo |
+| 275 | 344 | Roary Danner |
 | 276 | 343 | Ashley Rufus Bythcez |
 | 277 | 343 | Ashley Raines |
 | 278 | 341 | Ashley Tookes |
 | 279 | 339 | Cynthia Herrmann Egland |
 | 280 | 336 | Jojo M |
 | 281 | 335 | victory |
-| 282 | 332 | Velma Mull |
-| 283 | 332 | Brittany |
+| 282 | 332 | Brittany |
+| 283 | 332 | Velma Mull |
 | 284 | 331 | Gray Hicks |
 | 285 | 326 | Kerry Nowickshere |
 | 286 | 325 | Tasha Wesson-Torrence |
@@ -353,11 +353,11 @@
 | 345 | 275 | Nikki Pags |
 | 346 | 274 | Angela Scott |
 | 347 | 274 | Mary Giorgenti |
-| 348 | 273 | Brenda Schmid Wood |
-| 349 | 273 | France Vézina |
-| 350 | 273 | Dannie Litchard |
-| 351 | 272 | Todd Hall |
-| 352 | 272 | Romeo |
+| 348 | 273 | France Vézina |
+| 349 | 273 | Dannie Litchard |
+| 350 | 273 | Brenda Schmid Wood |
+| 351 | 272 | Romeo |
+| 352 | 272 | Todd Hall |
 | 353 | 272 | Tay |
 | 354 | 271 | Grego Daniel |
 | 355 | 269 | Samantha Worley |
@@ -474,8 +474,8 @@
 | 466 | 210 | Kristian Thurman |
 | 467 | 210 | Maia |
 | 468 | 209 | Tipsy Zonebuilder |
-| 469 | 209 | Jumpy Wrecker |
-| 470 | 209 | MizzMonick Smith |
+| 469 | 209 | MizzMonick Smith |
+| 470 | 209 | Jumpy Wrecker |
 | 471 | 208 | Luccy Luxe |
 | 472 | 207 | Angel Miller |
 | 473 | 207 | Nichol Graham |

@@ -57,8 +57,8 @@
 | 49 | 863 | Pee |
 | 50 | 855 | Marvin Lou Martin |
 | 51 | 853 | TeeJ |
-| 52 | 846 | Lucille Truesdale |
-| 53 | 846 | Christine Marie |
+| 52 | 846 | Christine Marie |
+| 53 | 846 | Lucille Truesdale |
 | 54 | 845 | LisaJo Picken Buchanan |
 | 55 | 843 | Shelly Chandler |
 | 56 | 841 | Anthony Bryan Riva |
@@ -213,7 +213,7 @@
 | 205 | 294 | Porkobello |
 | 206 | 294 | Calvin Cannon |
 | 207 | 292 | Epic Curvetile |
-| 208 | 290 | Plucky Patternblock |
+| 208 | 290 | Jared Gutwein |
 | 209 | 290 | Keshia Lyons |
 | 210 | 290 | Plucky Patternblock |
 | 211 | 288 | Zesty Twistbuilder |
@@ -235,16 +235,16 @@
 | 227 | 272 | Alan George LaRage |
 | 228 | 272 | Dennis Bradley |
 | 229 | 271 | Holly |
-| 230 | 270 | Jen Caldwell |
-| 231 | 270 | Juls |
+| 230 | 270 | Juls |
+| 231 | 270 | Jen Caldwell |
 | 232 | 266 | Mr. Party |
 | 233 | 265 | Sarah Neathery |
 | 234 | 264 | Silly SeaWeed |
 | 235 | 264 | Stella |
 | 236 | 264 | Carlos Ramirez |
 | 237 | 263 | JPW |
-| 238 | 262 | Selena Shaw |
-| 239 | 262 | BigSammy420 |
+| 238 | 262 | BigSammy420 |
+| 239 | 262 | Selena Shaw |
 | 240 | 260 | Carter Jones |
 | 241 | 259 | Montiette Mcglown |
 | 242 | 259 | Allen Lloyd |
@@ -252,8 +252,8 @@
 | 244 | 256 | Mylo Lipscomb |
 | 245 | 256 | Metsfan |
 | 246 | 253 | Autum Leigh |
-| 247 | 252 | John Brunetti |
-| 248 | 252 | Zethra Prenisha Rahming |
+| 247 | 252 | Zethra Prenisha Rahming |
+| 248 | 252 | John Brunetti |
 | 249 | 251 | Carol Ricks Raymond |
 | 250 | 249 | Ak Jones |
 | 251 | 248 | Jose Dejesus |
@@ -269,8 +269,8 @@
 | 261 | 239 | Joanna |
 | 262 | 238 | Chaz |
 | 263 | 238 | 中山成巳 |
-| 264 | 237 | Christine Therrien |
-| 265 | 237 | 030Synner |
+| 264 | 237 | 030Synner |
+| 265 | 237 | Christine Therrien |
 | 266 | 236 | Degenerate |
 | 267 | 235 | Shainne Brewer |
 | 268 | 235 | LaDonna LovinmesomeMe Lambert |

@@ -46,8 +46,8 @@
 | 38 | 998 | Jorge Andrade |
 | 39 | 966 | Shalene Frederick Autrey |
 | 40 | 964 | Carrie Beck Geartz |
-| 41 | 953 | Hyp James NObettadanluvarat |
-| 42 | 953 | Derek MF Blakey |
+| 41 | 953 | Derek MF Blakey |
+| 42 | 953 | Hyp James NObettadanluvarat |
 | 43 | 945 | Amber Stoker |
 | 44 | 931 | Christina Costantino |
 | 45 | 919 | Chipper Gridlock |
@@ -278,8 +278,8 @@
 | 270 | 229 | Dino |
 | 271 | 228 | Adele Rahman |
 | 272 | 227 | Happy Snapbuild |
-| 273 | 226 | Glitzy Buildsnap |
-| 274 | 226 | Snappy Brickbuilder |
+| 273 | 226 | Snappy Brickbuilder |
+| 274 | 226 | Glitzy Buildsnap |
 | 275 | 224 | Jumpy Rotate |
 | 276 | 224 | Mario Cab |
 | 277 | 223 | Erez Yosef |
@@ -549,8 +549,8 @@
 | 541 | 125 | Quirky Pusher |
 | 542 | 125 | MomOf2Angels |
 | 543 | 124 | Brandi Egbert |
-| 544 | 124 | Crystal Joslin |
-| 545 | 124 | Margie Olivas |
+| 544 | 124 | Margie Olivas |
+| 545 | 124 | Crystal Joslin |
 | 546 | 124 | Buttons Stemm |
 | 547 | 123 | Lisa Marie |
 | 548 | 123 | Larissa Marie Nelson |
