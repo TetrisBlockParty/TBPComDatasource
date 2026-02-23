@@ -141,8 +141,8 @@
 | 133 | 387 | Emily Adelaide Wheatley |
 | 134 | 386 | Ty Brown |
 | 135 | 383 | pjbeta |
-| 136 | 379 | Austin James |
-| 137 | 379 | Kimmie Kimms |
+| 136 | 379 | Kimmie Kimms |
+| 137 | 379 | Austin James |
 | 138 | 376 | Brian Richardsson |
 | 139 | 371 | Jason Savage |
 | 140 | 368 | Death |
@@ -185,16 +185,16 @@
 | 177 | 315 | Danielle Little-Daugherty |
 | 178 | 313 | Jerry Danowski |
 | 179 | 312 | Kimberly Garcia |
-| 180 | 312 | Jessi Sauer |
-| 181 | 312 | Mike Ames |
+| 180 | 312 | Mike Ames |
+| 181 | 312 | Jessi Sauer |
 | 182 | 307 | femmefatale |
 | 183 | 306 | Bloknboy |
 | 184 | 306 | Happy Basegrid |
 | 185 | 306 | J.F. Fields |
 | 186 | 306 | Angela Renea Lester |
 | 187 | 304 | David Lutcher |
-| 188 | 303 | ALFD |
-| 189 | 303 | Letson Melissa |
+| 188 | 303 | Letson Melissa |
+| 189 | 303 | ALFD |
 | 190 | 302 | Erin Rosberg |
 | 191 | 301 | Damon J. Martin |
 | 192 | 296 | Cody Gates |
@@ -213,11 +213,11 @@
 | 205 | 282 | Mandyy Rae |
 | 206 | 282 | Sassy Builderline |
 | 207 | 280 | Billie Dawn Sparks |
-| 208 | 279 | Bird Person |
-| 209 | 279 | Tana |
-| 210 | 277 | Nutty Spinblock |
+| 208 | 279 | Tana |
+| 209 | 279 | Bird Person |
+| 210 | 277 | Christy Jones |
 | 211 | 277 | Sleepysloath5745 |
-| 212 | 277 | Christy Jones |
+| 212 | 277 | Nutty Spinblock |
 | 213 | 275 | Chris65 |
 | 214 | 273 | Shannon Marie Pitts |
 | 215 | 271 | Sam Williams |
@@ -239,13 +239,13 @@
 | 231 | 256 | Snappy Matcher |
 | 232 | 255 | Giggly Builderline |
 | 233 | 254 | Al Smith Jr |
-| 234 | 253 | Lacy Wolfe |
-| 235 | 253 | Jamie Jury |
+| 234 | 253 | Jamie Jury |
+| 235 | 253 | Lacy Wolfe |
 | 236 | 252 | Dena Kayy |
 | 237 | 251 | MRdot Rooski |
 | 238 | 247 | Brenda Alexander |
-| 239 | 245 | LaFontaine Leslie |
-| 240 | 245 | Matt Iaccheo |
+| 239 | 245 | Matt Iaccheo |
+| 240 | 245 | LaFontaine Leslie |
 | 241 | 244 | Eddie Dillon |
 | 242 | 242 | ParisandCory Champagne |
 | 243 | 241 | Tyler Hertzog |

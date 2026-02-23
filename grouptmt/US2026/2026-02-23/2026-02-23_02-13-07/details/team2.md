@@ -196,8 +196,8 @@
 | 188 | 1294 | Ashley House |
 | 189 | 1292 | Mischelle Clay |
 | 190 | 1286 | Altamirano Michael |
-| 191 | 1282 | Tanya Parsons |
-| 192 | 1282 | Ashley Rose Frederick |
+| 191 | 1282 | Ashley Rose Frederick |
+| 192 | 1282 | Tanya Parsons |
 | 193 | 1258 | Joyce Johnson Vaughn |
 | 194 | 1257 | Michele Gabriel |
 | 195 | 1252 | Angel |
@@ -350,8 +350,8 @@
 | 342 | 812 | Jackie Lucas |
 | 343 | 812 | Samantha Jo |
 | 344 | 808 | Amber Brion |
-| 345 | 808 | Laura McCarthey |
-| 346 | 808 | Desire Rice |
+| 345 | 808 | Desire Rice |
+| 346 | 808 | Laura McCarthey |
 | 347 | 801 | Diana Fitzwater |
 | 348 | 799 | Joy LaJeunesse |
 | 349 | 797 | Lisa Ongtowasruk |
@@ -386,11 +386,11 @@
 | 378 | 757 | Misti Markijohn |
 | 379 | 755 | Taryece Gause |
 | 380 | 751 | Loony Snapper |
-| 381 | 748 | Stephanie Lumanlan |
-| 382 | 748 | Brenda Utphall |
+| 381 | 748 | Brenda Utphall |
+| 382 | 748 | Stephanie Lumanlan |
 | 383 | 747 | Kiely Tomaskovich |
-| 384 | 746 | Leslie Ann Carter |
-| 385 | 746 | Jerilyn Andrina |
+| 384 | 746 | Jerilyn Andrina |
+| 385 | 746 | Leslie Ann Carter |
 | 386 | 744 | Mandi Douglas Hilt |
 | 387 | 743 | Tiara Elizabeth Baker |
 | 388 | 741 | Jánine Riggs |

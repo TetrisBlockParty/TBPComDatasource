@@ -25,8 +25,8 @@
 | 17 | 2697 | River |
 | 18 | 2503 | Clever Roll |
 | 19 | 2302 | Laura Melton |
-| 20 | 2287 | Brandon Green |
-| 21 | 2287 | Tetris Master |
+| 20 | 2287 | Tetris Master |
+| 21 | 2287 | Brandon Green |
 | 22 | 2203 | Ashley Jones |
 | 23 | 2177 | Susan Valentino |
 | 24 | 2144 | Zippy Strikesnap |
@@ -152,8 +152,8 @@
 | 144 | 590 | Santeria Trece Candles |
 | 145 | 589 | Logan Naccarato |
 | 146 | 588 | Justin Ritter |
-| 147 | 585 | Annie Marie |
-| 148 | 585 | Happy Tetriblast |
+| 147 | 585 | Happy Tetriblast |
+| 148 | 585 | Annie Marie |
 | 149 | 582 | Natasha Jones |
 | 150 | 579 | Tasha Gillespie |
 | 151 | 574 | Morgan Martinez |
@@ -212,8 +212,8 @@
 | 204 | 432 | Christine Trester |
 | 205 | 432 | Luciana Braganca Vieira |
 | 206 | 431 | Wendy Dearden |
-| 207 | 430 | Joye Sims Binion |
-| 208 | 430 | Jeni Dow |
+| 207 | 430 | Jeni Dow |
+| 208 | 430 | Joye Sims Binion |
 | 209 | 429 | Sherry Ogden |
 | 210 | 426 | Rochelle Hazelett |
 | 211 | 423 | Loopy Clusterer |
@@ -230,8 +230,8 @@
 | 222 | 401 | Heather Green |
 | 223 | 400 | Denita Mungro |
 | 224 | 395 | Duane Bright |
-| 225 | 391 | Trisha Balmer |
-| 226 | 391 | Nicole Flippo |
+| 225 | 391 | Nicole Flippo |
+| 226 | 391 | Trisha Balmer |
 | 227 | 390 | rosy |
 | 228 | 387 | Gideon Walker |
 | 229 | 384 | Rebecca Funderburk Kirby |
@@ -254,8 +254,8 @@
 | 246 | 362 | Brandon Givens |
 | 247 | 361 | Shawn Miller |
 | 248 | 360 | Sheila M Frazier |
-| 249 | 357 | Stephanie Burtin |
-| 250 | 357 | Ammmmmmy |
+| 249 | 357 | Ammmmmmy |
+| 250 | 357 | Stephanie Burtin |
 | 251 | 352 | Samantha Lynn |
 | 252 | 352 | Christian Werndl |
 | 253 | 351 | Eon Harris |
@@ -274,8 +274,8 @@
 | 266 | 339 | Cynthia Herrmann Egland |
 | 267 | 338 | Gumbo |
 | 268 | 336 | Jojo M |
-| 269 | 332 | Velma Mull |
-| 270 | 332 | Brittany |
+| 269 | 332 | Brittany |
+| 270 | 332 | Velma Mull |
 | 271 | 330 | victory |
 | 272 | 329 | Tye Stovall |
 | 273 | 329 | block chick |

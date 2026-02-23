@@ -139,10 +139,10 @@
 | 131 | 421 | JIGsaw ~(•¿°)~ |
 | 132 | 418 | Marie-Pier Desjardins |
 | 133 | 418 | Monica Daley |
-| 134 | 418 | Marie-Pier Desjardins |
+| 134 | 418 | Lush Linkfall |
 | 135 | 414 | Nope Young |
-| 136 | 413 | Kristina Black |
-| 137 | 413 | Chaz Duncan |
+| 136 | 413 | Chaz Duncan |
+| 137 | 413 | Kristina Black |
 | 138 | 412 | Jessica Bohlken |
 | 139 | 408 | Amanda Pauldo-Ivy |
 | 140 | 402 | Ericca Eldridge |
