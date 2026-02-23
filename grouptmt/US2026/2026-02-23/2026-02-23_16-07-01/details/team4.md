@@ -199,8 +199,8 @@
 | 191 | 398 | Tyler Terrific |
 | 192 | 393 | Carlton Unfiltered |
 | 193 | 391 | Ramel Rhodes |
-| 194 | 389 | Joseph Guthrie |
-| 195 | 389 | Cool Towerbuilder |
+| 194 | 389 | Cool Towerbuilder |
+| 195 | 389 | Joseph Guthrie |
 | 196 | 385 | 030Synner |
 | 197 | 383 | Chris Bernstein |
 | 198 | 381 | Matt Gooder |
@@ -623,13 +623,13 @@
 | 615 | 129 | Tamika Starkey |
 | 616 | 129 | Dreamy Snapgrid |
 | 617 | 129 | RIFATSIKDER |
-| 618 | 128 | Raymond Roberts |
-| 619 | 128 | Lazy Glidepiece |
+| 618 | 128 | Lazy Glidepiece |
+| 619 | 128 | Raymond Roberts |
 | 620 | 128 | Zesty Linkgrid |
-| 621 | 127 | Jay You |
-| 622 | 127 | Joe Lonnemann |
-| 623 | 126 | Spicy Cascadezone |
-| 624 | 126 | PAPatty |
+| 621 | 127 | Joe Lonnemann |
+| 622 | 127 | Jay You |
+| 623 | 126 | PAPatty |
+| 624 | 126 | Spicy Cascadezone |
 | 625 | 125 | Kelly Adams Carnahan |
 | 626 | 125 | Christina Nabrizny |
 | 627 | 125 | Brittany Price |
@@ -1496,8 +1496,8 @@
 | 1488 | 26 | Daring Strike |
 | 1489 | 26 | Haley Jean |
 | 1490 | 26 | Swanky Jumper |
-| 1491 | 26 | evil wonton |
-| 1492 | 26 | Frothy Twisterfit |
+| 1491 | 26 | Frothy Twisterfit |
+| 1492 | 26 | evil wonton |
 | 1493 | 26 | Nutty Grabber |
 | 1494 | 25 | Gracey Lou |
 | 1495 | 25 | Bryan James Marino |
