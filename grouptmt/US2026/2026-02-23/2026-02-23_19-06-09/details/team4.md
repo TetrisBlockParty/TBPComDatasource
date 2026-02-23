@@ -224,8 +224,8 @@
 | 216 | 388 | June Hoffman |
 | 217 | 385 | 030Synner |
 | 218 | 383 | blockstar |
-| 219 | 381 | Plucky Patternblock |
-| 220 | 381 | Mimi |
+| 219 | 381 | Mimi |
+| 220 | 381 | Plucky Patternblock |
 | 221 | 380 | Rio Rocha |
 | 222 | 379 | Backoff Recupe |
 | 223 | 378 | Silly Zonebuilder |
@@ -235,8 +235,8 @@
 | 227 | 374 | Mr. Party |
 | 228 | 373 | JPW |
 | 229 | 372 | Holly Jolly |
-| 230 | 368 | Kris Bartlett |
-| 231 | 368 | Deanna Deckard |
+| 230 | 368 | Deanna Deckard |
+| 231 | 368 | Kris Bartlett |
 | 232 | 367 | Sue Joyce Staats |
 | 233 | 365 | Hyper Builder |
 | 234 | 363 | Googenheim |
@@ -270,8 +270,8 @@
 | 262 | 331 | Alan George LaRage |
 | 263 | 330 | Kathy Brookins |
 | 264 | 324 | jim |
-| 265 | 324 | Lauren Lamb |
-| 266 | 324 | Nubian1 |
+| 265 | 324 | Nubian1 |
+| 266 | 324 | Lauren Lamb |
 | 267 | 322 | Manny1 |
 | 268 | 321 | Meagan Nicole |
 | 269 | 317 | Madison Sweere |
@@ -372,12 +372,12 @@
 | 364 | 246 | giantslover514 |
 | 365 | 246 | Jason Bosco |
 | 366 | 245 | Jen Mattei |
-| 367 | 244 | Perky Piecegrid |
-| 368 | 244 | Elizabeth Tinoco |
+| 367 | 244 | Elizabeth Tinoco |
+| 368 | 244 | Perky Piecegrid |
 | 369 | 243 | Val Erie |
 | 370 | 242 | PurpleMoonMa |
-| 371 | 240 | Perky Patternblock |
-| 372 | 240 | Zany Shatterer |
+| 371 | 240 | Zany Shatterer |
+| 372 | 240 | Perky Patternblock |
 | 373 | 240 | Tyler Bechtel |
 | 374 | 239 | Denise B |
 | 375 | 239 | Jackie Clark |

@@ -320,8 +320,8 @@
 | 312 | 283 | Sunny Shift |
 | 313 | 283 | Irv |
 | 314 | 282 | Timothy Dew |
-| 315 | 281 | Standia Civil |
-| 316 | 281 | Richard Corrado |
+| 315 | 281 | Richard Corrado |
+| 316 | 281 | Standia Civil |
 | 317 | 280 | Billie Dawn Sparks |
 | 318 | 279 | Chris Dawson |
 | 319 | 278 | Cheeky Pop |

@@ -325,10 +325,10 @@
 | 317 | 395 | Velma Mull |
 | 318 | 390 | France Vézina |
 | 319 | 387 | Christian Werndl |
-| 320 | 387 | Andrew Thorson |
-| 321 | 387 | Gideon Walker |
-| 322 | 386 | Darlene McMillan |
-| 323 | 386 | Philip Rock |
+| 320 | 387 | Gideon Walker |
+| 321 | 387 | Andrew Thorson |
+| 322 | 386 | Philip Rock |
+| 323 | 386 | Darlene McMillan |
 | 324 | 385 | Samantha Lynn |
 | 325 | 383 | Skippy |
 | 326 | 382 | Amanda J. Mcneil-Anderson |
@@ -484,8 +484,8 @@
 | 476 | 278 | Rufus Lincoln |
 | 477 | 278 | IamJust Neyamijah Washington Sr. |
 | 478 | 277 | Joe-Maggie Mathews |
-| 479 | 277 | Christine Foley |
-| 480 | 277 | Mindy Phelps |
+| 479 | 277 | Mindy Phelps |
+| 480 | 277 | Christine Foley |
 | 481 | 276 | Crimson |
 | 482 | 276 | Justice 4 P |
 | 483 | 276 | Mikki Torres |
