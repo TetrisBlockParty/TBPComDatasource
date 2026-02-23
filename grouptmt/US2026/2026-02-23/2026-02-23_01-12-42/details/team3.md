@@ -155,8 +155,8 @@
 | 147 | 579 | Annie Marie |
 | 148 | 578 | Tasha Gillespie |
 | 149 | 574 | Morgan Martinez |
-| 150 | 572 | CeceGeGe |
-| 151 | 572 | Domo Washington |
+| 150 | 572 | Domo Washington |
+| 151 | 572 | CeceGeGe |
 | 152 | 571 | Nicole Myers |
 | 153 | 568 | Rachael McClain Owens |
 | 154 | 562 | Dave Herzog |
@@ -171,8 +171,8 @@
 | 163 | 528 | Silly Twist |
 | 164 | 528 | Cass Mendoza |
 | 165 | 516 | Danielle Balcom |
-| 166 | 506 | Stephanie Blkpep Davidson |
-| 167 | 506 | Sashay Tapae Simpson |
+| 166 | 506 | Sashay Tapae Simpson |
+| 167 | 506 | Stephanie Blkpep Davidson |
 | 168 | 504 | Jennifer Lynn Fahrenholtz-Summers |
 | 169 | 502 | Snappy Balancer |
 | 170 | 501 | Patti Skiles |
@@ -250,8 +250,8 @@
 | 242 | 364 | Steffi Chris Dacones |
 | 243 | 362 | Brandon Givens |
 | 244 | 360 | Sheila M Frazier |
-| 245 | 357 | Ammmmmmy |
-| 246 | 357 | Stephanie Burtin |
+| 245 | 357 | Stephanie Burtin |
+| 246 | 357 | Ammmmmmy |
 | 247 | 352 | Samantha Lynn |
 | 248 | 352 | Christian Werndl |
 | 249 | 351 | Eon Harris |
@@ -271,8 +271,8 @@
 | 263 | 338 | Gumbo |
 | 264 | 336 | Jojo M |
 | 265 | 332 | Velma Mull |
-| 266 | 330 | Brittany |
-| 267 | 330 | victory |
+| 266 | 330 | victory |
+| 267 | 330 | Brittany |
 | 268 | 329 | Tye Stovall |
 | 269 | 329 | block chick |
 | 270 | 327 | Gideon Walker |

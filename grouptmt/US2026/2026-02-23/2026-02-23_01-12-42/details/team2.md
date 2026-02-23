@@ -755,8 +755,8 @@
 | 747 | 404 | Julie Hamilton |
 | 748 | 403 | Matthew Joseph Acevedo |
 | 749 | 403 | Nate Skidmore |
-| 750 | 403 | Goofy Dasher |
-| 751 | 403 | Kelly Meredeith |
+| 750 | 403 | Kelly Meredeith |
+| 751 | 403 | Goofy Dasher |
 | 752 | 403 | Swanky Columnbuilder |
 | 753 | 402 | B |
 | 754 | 402 | AkaLefty |
@@ -782,8 +782,8 @@
 | 774 | 393 | Cini |
 | 775 | 393 | Jamie West |
 | 776 | 392 | Christy Green |
-| 777 | 391 | Megan Kitchner |
-| 778 | 391 | Chilly Bridgepiece |
+| 777 | 391 | Chilly Bridgepiece |
+| 778 | 391 | Megan Kitchner |
 | 779 | 390 | MauroPRM |
 | 780 | 390 | Aireka Roman |
 | 781 | 388 | Tamara Bailey |
