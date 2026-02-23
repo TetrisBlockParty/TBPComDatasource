@@ -117,8 +117,8 @@
 | 109 | 831 | Angeline Joseph |
 | 110 | 830 | Stephanie Allmon |
 | 111 | 826 | Shane Wilson Jr. |
-| 112 | 816 | Brenda Lee Vander Molen |
-| 113 | 816 | Jesse Olive |
+| 112 | 816 | Jesse Olive |
+| 113 | 816 | Brenda Lee Vander Molen |
 | 114 | 800 | Lauren Girouard |
 | 115 | 799 | Dolores Falco |
 | 116 | 769 | Kristie |
@@ -220,8 +220,8 @@
 | 212 | 452 | Jacqueline Rodriguez |
 | 213 | 437 | Loopy Clusterer |
 | 214 | 435 | Fallorina Susana |
-| 215 | 432 | Luciana Braganca Vieira |
-| 216 | 432 | Christine Trester |
+| 215 | 432 | Christine Trester |
+| 216 | 432 | Luciana Braganca Vieira |
 | 217 | 432 | Heather Green |
 | 218 | 431 | Wendy Dearden |
 | 219 | 430 | Joye Sims Binion |

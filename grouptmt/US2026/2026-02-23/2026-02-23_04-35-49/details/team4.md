@@ -57,8 +57,8 @@
 | 49 | 863 | Pee |
 | 50 | 855 | Marvin Lou Martin |
 | 51 | 853 | TeeJ |
-| 52 | 846 | Lucille Truesdale |
-| 53 | 846 | Christine Marie |
+| 52 | 846 | Christine Marie |
+| 53 | 846 | Lucille Truesdale |
 | 54 | 845 | LisaJo Picken Buchanan |
 | 55 | 843 | Shelly Chandler |
 | 56 | 841 | Anthony Bryan Riva |
@@ -86,8 +86,8 @@
 | 78 | 706 | Lisa Davis |
 | 79 | 703 | Savannah Overdorf |
 | 80 | 697 | Alyssa Papen |
-| 81 | 684 | Jonathan Kimbrough |
-| 82 | 684 | Kimyatta Cavin |
+| 81 | 684 | Kimyatta Cavin |
+| 82 | 684 | Jonathan Kimbrough |
 | 83 | 677 | Trista Leah |
 | 84 | 673 | Jacqueline Helm |
 | 85 | 672 | Shane Kalamata Platoon |
@@ -122,8 +122,8 @@
 | 114 | 514 | Serena Goodridge |
 | 115 | 514 | Scott Jameson |
 | 116 | 513 | Erin Thomas |
-| 117 | 512 | Casey Jeffcoat |
-| 118 | 512 | Cristy Duerksen |
+| 117 | 512 | Cristy Duerksen |
+| 118 | 512 | Casey Jeffcoat |
 | 119 | 511 | Lori Walker |
 | 120 | 489 | Chilly Crasher |
 | 121 | 482 | Ren Mc |
@@ -142,8 +142,8 @@
 | 134 | 421 | JIGsaw ~(•¿°)~ |
 | 135 | 421 | Kesha Brady |
 | 136 | 419 | Klo |
-| 137 | 418 | Lush Linkfall |
-| 138 | 418 | Marie-Pier Desjardins |
+| 137 | 418 | Marie-Pier Desjardins |
+| 138 | 418 | Lush Linkfall |
 | 139 | 416 | Chaz Duncan |
 | 140 | 414 | Nope Young |
 | 141 | 412 | Jessica Bohlken |
@@ -225,12 +225,12 @@
 | 217 | 284 | Mimi |
 | 218 | 282 | Matt Gooder |
 | 219 | 282 | Kim Klutz Olson |
-| 220 | 281 | Laura |
-| 221 | 281 | Nikki Rae Gordon |
+| 220 | 281 | Nikki Rae Gordon |
+| 221 | 281 | Laura |
 | 222 | 278 | Angela Geist Jusinski |
 | 223 | 278 | Sarah Brown |
-| 224 | 276 | Joeliecea Cobb |
-| 225 | 276 | Matt Dell'Olio |
+| 224 | 276 | Matt Dell'Olio |
+| 225 | 276 | Joeliecea Cobb |
 | 226 | 273 | Casey Grabner |
 | 227 | 272 | Alan George LaRage |
 | 228 | 272 | Dennis Bradley |

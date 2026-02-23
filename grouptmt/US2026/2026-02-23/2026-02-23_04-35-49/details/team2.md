@@ -92,8 +92,8 @@
 | 84 | 2500 | Rosemadder |
 | 85 | 2443 | Melissa Rebbe-Lehman |
 | 86 | 2438 | Rob Surace |
-| 87 | 2428 | Deanna Morton |
-| 88 | 2428 | Thomas Hughes |
+| 87 | 2428 | Thomas Hughes |
+| 88 | 2428 | Deanna Morton |
 | 89 | 2410 | RdRydnHd |
 | 90 | 2400 | Rich Sullivan |
 | 91 | 2375 | Megan Peckham |
@@ -157,8 +157,8 @@
 | 149 | 1578 | Sally Dennis |
 | 150 | 1571 | Alisa Lamb |
 | 151 | 1560 | Donnie Hunt |
-| 152 | 1558 | Tim Dyer |
-| 153 | 1558 | Stephen Stephen |
+| 152 | 1558 | Stephen Stephen |
+| 153 | 1558 | Tim Dyer |
 | 154 | 1555 | blarg |
 | 155 | 1541 | Cherica Taylor |
 | 156 | 1537 | Desiree Harris Rosch |
@@ -248,10 +248,10 @@
 | 240 | 1121 | Sarah Freitas |
 | 241 | 1120 | Chirpy Staggerpiece |
 | 242 | 1114 | Ginnell Browner |
-| 243 | 1114 | Maria Escobar |
-| 244 | 1114 | Kevin Walp |
-| 245 | 1111 | Moose Griffith |
-| 246 | 1111 | Julay |
+| 243 | 1114 | Kevin Walp |
+| 244 | 1114 | Maria Escobar |
+| 245 | 1111 | Julay |
+| 246 | 1111 | Moose Griffith |
 | 247 | 1109 | Eric Carlson |
 | 248 | 1105 | Nerdy Clearfit |
 | 249 | 1103 | William Meussner |
