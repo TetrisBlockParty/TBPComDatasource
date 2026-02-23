@@ -947,7 +947,7 @@
 | 939 | 127 | Kristina Marie |
 | 940 | 126 | Brittany Smith Brown |
 | 941 | 126 | Crystal Martin |
-| 942 | 126 | Uluvfai |
+| 942 | 126 | Mainhia Thao |
 | 943 | 126 | John Ham |
 | 944 | 126 | Uluvfai |
 | 945 | 125 | Tori McCandless |

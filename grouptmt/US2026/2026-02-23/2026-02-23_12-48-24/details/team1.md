@@ -87,8 +87,8 @@
 | 79 | 679 | Hasbro Bros |
 | 80 | 668 | Lori Sanders- Davis |
 | 81 | 665 | Jason Jones |
-| 82 | 657 | Tee Sheree |
-| 83 | 657 | Cynthia Bradley |
+| 82 | 657 | Cynthia Bradley |
+| 83 | 657 | Tee Sheree |
 | 84 | 655 | Brenda Stewart |
 | 85 | 648 | Evie Khalil |
 | 86 | 633 | Kellie |
@@ -131,15 +131,15 @@
 | 123 | 467 | Constance Risner |
 | 124 | 463 | Lexuriuos Lifestlye |
 | 125 | 462 | Luciano Moreira |
-| 126 | 458 | Goose egg |
-| 127 | 458 | Evan Richmond |
-| 128 | 454 | Desiree Deschaine Havee |
-| 129 | 454 | Adrian Esteban |
+| 126 | 458 | Evan Richmond |
+| 127 | 458 | Goose egg |
+| 128 | 454 | Adrian Esteban |
+| 129 | 454 | Desiree Deschaine Havee |
 | 130 | 453 | Brandi Huntington |
 | 131 | 451 | Plucky Ziggy |
 | 132 | 450 | lil mickey |
-| 133 | 448 | Sweet Baker |
-| 134 | 448 | Jazzy Framezone |
+| 133 | 448 | Jazzy Framezone |
+| 134 | 448 | Sweet Baker |
 | 135 | 446 | SkipTheSadSauce |
 | 136 | 443 | Steve Schneider |
 | 137 | 440 | femmefatale |
@@ -399,7 +399,7 @@
 | 391 | 202 | Andrew Backes |
 | 392 | 201 | Colleen Wise |
 | 393 | 201 | Rico Rico |
-| 394 | 201 | Colleen Wise |
+| 394 | 201 | Tedashi |
 | 395 | 200 | Zesty Brickzone |
 | 396 | 199 | Tina Englert |
 | 397 | 199 | Larissa Marie Nelson |
@@ -436,8 +436,8 @@
 | 428 | 186 | Chummy Rollblock |
 | 429 | 186 | Nikki Fridley |
 | 430 | 185 | Hasty Columnbuilder |
-| 431 | 184 | Sonia Marquis |
-| 432 | 184 | Theeranart Mahawan |
+| 431 | 184 | Theeranart Mahawan |
+| 432 | 184 | Sonia Marquis |
 | 433 | 183 | MommaKFC |
 | 434 | 182 | Nathan Sealander |
 | 435 | 182 | MelSavage |

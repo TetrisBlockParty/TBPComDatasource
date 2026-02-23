@@ -69,8 +69,8 @@
 | 61 | 846 | Christine Marie |
 | 62 | 846 | Lucille Truesdale |
 | 63 | 834 | quicksand420 |
-| 64 | 807 | Amelpss |
-| 65 | 807 | Rachel Anne |
+| 64 | 807 | Rachel Anne |
+| 65 | 807 | Amelpss |
 | 66 | 790 | Avy Absol |
 | 67 | 788 | Chilly Line |
 | 68 | 788 | Julian Garcia |
@@ -134,8 +134,8 @@
 | 126 | 514 | Scott Jameson |
 | 127 | 513 | Chaz Duncan |
 | 128 | 513 | Erin Thomas |
-| 129 | 512 | Casey Jeffcoat |
-| 130 | 512 | Cristy Duerksen |
+| 129 | 512 | Cristy Duerksen |
+| 130 | 512 | Casey Jeffcoat |
 | 131 | 508 | Twisty Clicky |
 | 132 | 502 | Ellen Durfee |
 | 133 | 485 | Melissa Adams |
@@ -1601,7 +1601,7 @@
 | 1593 | 17 | Dandre |
 | 1594 | 17 | Blockin88 |
 | 1595 | 17 | Nutty Grid |
-| 1596 | 17 | Blockin88 |
+| 1596 | 17 | Conni Brown |
 | 1597 | 16 | Julio León |
 | 1598 | 16 | Becca |
 | 1599 | 16 | Nicolette Mercado |
