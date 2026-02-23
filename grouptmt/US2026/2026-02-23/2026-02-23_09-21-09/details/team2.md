@@ -44,8 +44,8 @@
 | 36 | 4199 | Claire Noland |
 | 37 | 4128 | Angela Pruitt |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Kristen Sceurman |
-| 40 | 4120 | Corrine Hawks Soriano |
+| 39 | 4120 | Corrine Hawks Soriano |
+| 40 | 4120 | Kristen Sceurman |
 | 41 | 3947 | Melinda Brown |
 | 42 | 3845 | jayjay |
 | 43 | 3813 | Devin Lee |
@@ -273,8 +273,8 @@
 | 265 | 1076 | Alezandra Smith |
 | 266 | 1073 | Jodi Blake |
 | 267 | 1071 | Kim Dean |
-| 268 | 1069 | Carl Bradshaw |
-| 269 | 1069 | Offonar Facey |
+| 268 | 1069 | Offonar Facey |
+| 269 | 1069 | Carl Bradshaw |
 | 270 | 1064 | BK Queen |
 | 271 | 1063 | Caitlin Schmid |
 | 272 | 1058 | Rickey Johnson |
@@ -305,8 +305,8 @@
 | 297 | 996 | Ashie Ann |
 | 298 | 987 | Osun Anuket Esu |
 | 299 | 984 | Crystal Hoffman |
-| 300 | 979 | Melissa Penelope Ann Dodge |
-| 301 | 979 | Hillary Crawford |
+| 300 | 979 | Hillary Crawford |
+| 301 | 979 | Melissa Penelope Ann Dodge |
 | 302 | 978 | April Dawn Gussler |
 | 303 | 976 | Sam Joe |
 | 304 | 976 | Della Hole |
@@ -390,8 +390,8 @@
 | 382 | 816 | Beth |
 | 383 | 816 | James Simms III |
 | 384 | 812 | Samantha Jo |
-| 385 | 808 | Laura McCarthey |
-| 386 | 808 | Desire Rice |
+| 385 | 808 | Desire Rice |
+| 386 | 808 | Laura McCarthey |
 | 387 | 808 | Connie Jimenez |
 | 388 | 804 | Becca Coronado |
 | 389 | 801 | Diana Fitzwater |
@@ -439,8 +439,8 @@
 | 431 | 751 | Caitlyn Blackwell |
 | 432 | 750 | Draizen Montrell Thomas |
 | 433 | 748 | Spunkysmom |
-| 434 | 748 | Brenda Utphall |
-| 435 | 748 | Ann Matzkanin |
+| 434 | 748 | Ann Matzkanin |
+| 435 | 748 | Brenda Utphall |
 | 436 | 746 | Leslie Ann Carter |
 | 437 | 742 | tejas25 |
 | 438 | 741 | Jánine Riggs |
@@ -535,8 +535,8 @@
 | 527 | 642 | Michelle Fields |
 | 528 | 642 | Cassie Maynard |
 | 529 | 640 | Belle |
-| 530 | 639 | Rebecca Miller |
-| 531 | 639 | Alexandra Weir |
+| 530 | 639 | Alexandra Weir |
+| 531 | 639 | Rebecca Miller |
 | 532 | 639 | Toni Roberson |
 | 533 | 638 | Leah Keesling |
 | 534 | 637 | Shinette Dobson |
@@ -635,10 +635,10 @@
 | 627 | 555 | Frisky Riserbuilder |
 | 628 | 555 | Misty Mitchell |
 | 629 | 554 | Bubbly Snapfit |
-| 630 | 554 | Dizzy Zone |
-| 631 | 554 | Tra Barnum |
-| 632 | 554 | Fi Ne |
-| 633 | 554 | Laquetta Royston |
+| 630 | 554 | Tra Barnum |
+| 631 | 554 | Dizzy Zone |
+| 632 | 554 | Laquetta Royston |
+| 633 | 554 | Fi Ne |
 | 634 | 554 | Party d |
 | 635 | 553 | Alyssa Nadine Medelez |
 | 636 | 553 | Kelli Wells |

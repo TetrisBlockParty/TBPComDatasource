@@ -114,8 +114,8 @@
 | 106 | 869 | Araceli Parra |
 | 107 | 868 | Sarajane Lokan |
 | 108 | 860 | Sunny Rotater |
-| 109 | 851 | Jd Morris |
-| 110 | 851 | Danielle Becker |
+| 109 | 851 | Danielle Becker |
+| 110 | 851 | Jd Morris |
 | 111 | 850 | Danielle Mogg |
 | 112 | 848 | Patricia Gadsden |
 | 113 | 839 | Angeline Joseph |
@@ -128,8 +128,8 @@
 | 120 | 799 | Dolores Falco |
 | 121 | 773 | Daira Largen |
 | 122 | 769 | Kristie |
-| 123 | 764 | Hasty Cascadefit |
-| 124 | 764 | Groovy Catcher |
+| 123 | 764 | Groovy Catcher |
+| 124 | 764 | Hasty Cascadefit |
 | 125 | 762 | Speedy Bridger |
 | 126 | 755 | Raya |
 | 127 | 755 | Katrina Schroeder |
@@ -163,8 +163,8 @@
 | 155 | 646 | Bea Miles |
 | 156 | 634 | Amber Hughes |
 | 157 | 630 | yoyo |
-| 158 | 621 | Cherry Parker |
-| 159 | 621 | Sashay Tapae Simpson |
+| 158 | 621 | Sashay Tapae Simpson |
+| 159 | 621 | Cherry Parker |
 | 160 | 616 | Kammy Hill |
 | 161 | 611 | Rochelle Hazelett |
 | 162 | 607 | Grego Daniel |
@@ -197,8 +197,8 @@
 | 189 | 546 | Mykal Burton |
 | 190 | 546 | Tasha Schriewer |
 | 191 | 540 | Shawn Miller |
-| 192 | 531 | Sarah Cowan Burgos |
-| 193 | 531 | Chauntee Alfrey-Cardinale |
+| 192 | 531 | Chauntee Alfrey-Cardinale |
+| 193 | 531 | Sarah Cowan Burgos |
 | 194 | 528 | Silly Twist |
 | 195 | 525 | Stephanie Blkpep Davidson |
 | 196 | 524 | Bmo |
@@ -407,8 +407,8 @@
 | 399 | 265 | AlsoJess |
 | 400 | 264 | Reina Roth |
 | 401 | 264 | Danielle Beaunoyer Jean |
-| 402 | 263 | Jimmie Clemons |
-| 403 | 263 | Erika Thornton |
+| 402 | 263 | Erika Thornton |
+| 403 | 263 | Jimmie Clemons |
 | 404 | 261 | Swanky Snapclear |
 | 405 | 260 | Tracey Cox |
 | 406 | 260 | Alice |
@@ -420,8 +420,8 @@
 | 412 | 257 | Chris Wallace |
 | 413 | 257 | Jana Polk |
 | 414 | 257 | Saucy Buildout |
-| 415 | 255 | Mariah Williams |
-| 416 | 255 | Erykah |
+| 415 | 255 | Erykah |
+| 416 | 255 | Mariah Williams |
 | 417 | 254 | Blair Erin Waite |
 | 418 | 253 | crystal |
 | 419 | 253 | Block Baddie |
@@ -434,8 +434,8 @@
 | 426 | 250 | Dana Fox |
 | 427 | 249 | Willow |
 | 428 | 248 | Brian Battjes |
-| 429 | 247 | Kevin Russell |
-| 430 | 247 | Jessica |
+| 429 | 247 | Jessica |
+| 430 | 247 | Kevin Russell |
 | 431 | 245 | Latoya Mayne |
 | 432 | 245 | LaNette Morgan |
 | 433 | 244 | Beezwax |
@@ -518,8 +518,8 @@
 | 510 | 210 | Megan Riggins |
 | 511 | 210 | Kristian Thurman |
 | 512 | 210 | Maia |
-| 513 | 209 | TazB |
-| 514 | 209 | Jumpy Wrecker |
+| 513 | 209 | Jumpy Wrecker |
+| 514 | 209 | TazB |
 | 515 | 209 | Jonathn Poindexter |
 | 516 | 209 | Latoya Oneluv White |
 | 517 | 209 | Ginger Gray |

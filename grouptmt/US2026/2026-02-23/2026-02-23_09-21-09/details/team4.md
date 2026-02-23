@@ -67,16 +67,16 @@
 | 59 | 845 | LisaJo Picken Buchanan |
 | 60 | 834 | quicksand420 |
 | 61 | 811 | Ashley Ingram |
-| 62 | 807 | Rachel Anne |
-| 63 | 807 | Amelpss |
+| 62 | 807 | Amelpss |
+| 63 | 807 | Rachel Anne |
 | 64 | 788 | Julian Garcia |
 | 65 | 788 | Chilly Line |
-| 66 | 787 | loulou |
-| 67 | 787 | Edward White |
+| 66 | 787 | Edward White |
+| 67 | 787 | loulou |
 | 68 | 767 | Shannon Ferrari |
 | 69 | 766 | Robin Watters |
-| 70 | 765 | Robin Getchel |
-| 71 | 765 | Denise Carlson |
+| 70 | 765 | Denise Carlson |
+| 71 | 765 | Robin Getchel |
 | 72 | 752 | Shane Kalamata Platoon |
 | 73 | 749 | Dustee Craddock-Harrison |
 | 74 | 747 | TheNeesh50 |
@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Kimyatta Cavin |
-| 84 | 684 | Jonathan Kimbrough |
+| 83 | 684 | Jonathan Kimbrough |
+| 84 | 684 | Kimyatta Cavin |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | KM8 |
-| 93 | 647 | Shauna Havard |
+| 92 | 647 | Shauna Havard |
+| 93 | 647 | KM8 |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -153,16 +153,16 @@
 | 145 | 422 | Zakia Monae |
 | 146 | 421 | JIGsaw ~(•¿°)~ |
 | 147 | 421 | Kesha Brady |
-| 148 | 418 | Marie-Pier Desjardins |
-| 149 | 418 | Lush Linkfall |
+| 148 | 418 | Lush Linkfall |
+| 149 | 418 | Marie-Pier Desjardins |
 | 150 | 416 | Chaz Duncan |
 | 151 | 414 | Nope Young |
 | 152 | 414 | Swanky Fitline |
 | 153 | 413 | Circuit8 |
 | 154 | 412 | Jessica Bohlken |
 | 155 | 408 | Amanda Pauldo-Ivy |
-| 156 | 406 | Damn Libra |
-| 157 | 406 | Livvy |
+| 156 | 406 | Livvy |
+| 157 | 406 | Damn Libra |
 | 158 | 403 | Keith Kelley |
 | 159 | 402 | Lucas J Sutton |
 | 160 | 398 | Tyler Terrific |
@@ -204,8 +204,8 @@
 | 196 | 336 | Bio Nelly |
 | 197 | 334 | Kris Bartlett |
 | 198 | 332 | HastyGrabber |
-| 199 | 330 | blockstar |
-| 200 | 330 | Kathy Brookins |
+| 199 | 330 | Kathy Brookins |
+| 200 | 330 | blockstar |
 | 201 | 328 | scott |
 | 202 | 327 | J-Rizzle |
 | 203 | 324 | TinyLegoRose |
@@ -231,8 +231,8 @@
 | 223 | 294 | Porkobello |
 | 224 | 292 | Epic Curvetile |
 | 225 | 291 | Nikki Rae Gordon |
-| 226 | 290 | Plucky Patternblock |
-| 227 | 290 | Rebecca Morris |
+| 226 | 290 | Rebecca Morris |
+| 227 | 290 | Plucky Patternblock |
 | 228 | 290 | Jared Gutwein |
 | 229 | 289 | Juls |
 | 230 | 288 | Zesty Twistbuilder |
@@ -332,15 +332,15 @@
 | 324 | 214 | Stacey Stano |
 | 325 | 214 | Patron Anderson |
 | 326 | 213 | Jackie Marie |
-| 327 | 212 | Brave Spinbuilder |
-| 328 | 212 | Mike Solo |
+| 327 | 212 | Mike Solo |
+| 328 | 212 | Brave Spinbuilder |
 | 329 | 212 | Zany Shatterer |
 | 330 | 211 | Chris Alexinas |
 | 331 | 210 | Ari Droff |
 | 332 | 209 | Marcus Todd |
 | 333 | 209 | Snippy Puzzle |
-| 334 | 208 | Shukee Lo |
-| 335 | 208 | Heather Bruce |
+| 334 | 208 | Heather Bruce |
+| 335 | 208 | Shukee Lo |
 | 336 | 207 | Squeezy Pearsall |
 | 337 | 206 | Kathy Allen |
 | 338 | 206 | Laura Hosford |
@@ -605,9 +605,9 @@
 | 597 | 118 | Mackenzie Forrester |
 | 598 | 118 | Sassy Pattern |
 | 599 | 118 | Kametsunoyaiba |
-| 600 | 118 | Mackenzie Forrester |
-| 601 | 117 | Kelly Duncan |
-| 602 | 117 | David V. Bowers |
+| 600 | 118 | Jonathan Mahfood |
+| 601 | 117 | David V. Bowers |
+| 602 | 117 | Kelly Duncan |
 | 603 | 117 | Lane Wasson |
 | 604 | 116 | JEan Price |
 | 605 | 116 | Tianna Frey |
