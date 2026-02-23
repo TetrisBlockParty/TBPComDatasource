@@ -122,8 +122,8 @@
 | 114 | 514 | Scott Jameson |
 | 115 | 514 | Serena Goodridge |
 | 116 | 513 | Erin Thomas |
-| 117 | 512 | Casey Jeffcoat |
-| 118 | 512 | Cristy Duerksen |
+| 117 | 512 | Cristy Duerksen |
+| 118 | 512 | Casey Jeffcoat |
 | 119 | 511 | Lori Walker |
 | 120 | 489 | Chilly Crasher |
 | 121 | 482 | Ren Mc |
@@ -142,8 +142,8 @@
 | 134 | 421 | Kesha Brady |
 | 135 | 421 | JIGsaw ~(•¿°)~ |
 | 136 | 419 | Klo |
-| 137 | 418 | Marie-Pier Desjardins |
-| 138 | 418 | Lush Linkfall |
+| 137 | 418 | Lush Linkfall |
+| 138 | 418 | Marie-Pier Desjardins |
 | 139 | 416 | Chaz Duncan |
 | 140 | 414 | Nope Young |
 | 141 | 412 | Jessica Bohlken |
@@ -205,8 +205,8 @@
 | 197 | 307 | Cheery Risebuilder |
 | 198 | 306 | blockstar |
 | 199 | 305 | Melvin Baird |
-| 200 | 304 | Mary Ann Pabukis |
-| 201 | 304 | Lindsay Ball |
+| 200 | 304 | Lindsay Ball |
+| 201 | 304 | Mary Ann Pabukis |
 | 202 | 301 | Andria Lynn |
 | 203 | 300 | Dana Scott |
 | 204 | 300 | Dihcheese444 |
@@ -284,8 +284,8 @@
 | 276 | 226 | Dizzy Matchzone |
 | 277 | 226 | Cranky Rollpiece |
 | 278 | 225 | Jenna McGeorge |
-| 279 | 223 | Adawna Swires |
-| 280 | 223 | Amanda Christine |
+| 279 | 223 | Amanda Christine |
+| 280 | 223 | Adawna Swires |
 | 281 | 222 | Chance Strickland |
 | 282 | 222 | Angelito |
 | 283 | 222 | Brandi Durig |
@@ -328,18 +328,18 @@
 | 320 | 205 | KayM |
 | 321 | 204 | Russ Attitude |
 | 322 | 203 | Gilles Lanctot |
-| 323 | 203 | Andrew Dang |
-| 324 | 203 | Katherine Crane |
+| 323 | 203 | Katherine Crane |
+| 324 | 203 | Andrew Dang |
 | 325 | 200 | Googenheim |
 | 326 | 198 | Calvin Dennis |
-| 327 | 196 | Megan Cutshaw |
-| 328 | 196 | Blessedmama |
-| 329 | 194 | SammieJo Guy |
-| 330 | 194 | Zany Twisterfit |
+| 327 | 196 | Blessedmama |
+| 328 | 196 | Megan Cutshaw |
+| 329 | 194 | Zany Twisterfit |
+| 330 | 194 | SammieJo Guy |
 | 331 | 192 | Meg |
 | 332 | 192 | Twisty Risebuilder |
-| 333 | 191 | Norman Klick |
-| 334 | 191 | Earnest Thompson |
+| 333 | 191 | Earnest Thompson |
+| 334 | 191 | Norman Klick |
 | 335 | 190 | wombat |
 | 336 | 189 | Cool Towerbuilder |
 | 337 | 189 | Lauren Lamb |
@@ -427,7 +427,7 @@
 | 419 | 162 | Reds Bella |
 | 420 | 162 | Victoria Faniel |
 | 421 | 161 | Ruby Khalisadar |
-| 422 | 160 | Joseph Gray |
+| 422 | 160 | Helen Chao |
 | 423 | 160 | Heather Layne Smith |
 | 424 | 160 | Joseph Gray |
 | 425 | 159 | Groovy Brickmatch |
@@ -440,7 +440,7 @@
 | 432 | 157 | Sam Middleton |
 | 433 | 156 | Mighty Edgepiece |
 | 434 | 156 | Funky Risepiece |
-| 435 | 156 | Mighty Edgepiece |
+| 435 | 156 | Nig |
 | 436 | 154 | Bryan Hodgins |
 | 437 | 154 | Happy Combo |
 | 438 | 153 | O block |

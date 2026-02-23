@@ -117,8 +117,8 @@
 | 109 | 831 | Angeline Joseph |
 | 110 | 830 | Stephanie Allmon |
 | 111 | 826 | Shane Wilson Jr. |
-| 112 | 816 | Brenda Lee Vander Molen |
-| 113 | 816 | Jesse Olive |
+| 112 | 816 | Jesse Olive |
+| 113 | 816 | Brenda Lee Vander Molen |
 | 114 | 800 | Lauren Girouard |
 | 115 | 799 | Dolores Falco |
 | 116 | 769 | Kristie |
@@ -195,16 +195,16 @@
 | 187 | 507 | Jim Mathews |
 | 188 | 502 | Snappy Balancer |
 | 189 | 500 | Sherika C. McDaniels |
-| 190 | 496 | Loopy Fallmatch |
-| 191 | 496 | Makelini Mausia |
+| 190 | 496 | Makelini Mausia |
+| 191 | 496 | Loopy Fallmatch |
 | 192 | 494 | FuzzyNavel |
 | 193 | 489 | Poppy Splitter |
 | 194 | 489 | Shannon Matthew Byers |
 | 195 | 489 | Terry Jo Jones |
 | 196 | 488 | Melissa Orth Hunter |
 | 197 | 485 | Dapper Snap |
-| 198 | 480 | Danielle Allison |
-| 199 | 480 | Michael Johnson |
+| 198 | 480 | Michael Johnson |
+| 199 | 480 | Danielle Allison |
 | 200 | 475 | Tessina Dewey-Mancino |
 | 201 | 473 | Rachel |
 | 202 | 471 | Mendoza Lee Christy |
@@ -326,18 +326,18 @@
 | 318 | 295 | Troy |
 | 319 | 292 | Lizabeth Fox |
 | 320 | 289 | Salena Whitlock |
-| 321 | 289 | Kaitie Oliver |
-| 322 | 289 | DidIdothat |
+| 321 | 289 | DidIdothat |
+| 322 | 289 | Kaitie Oliver |
 | 323 | 288 | Stephanie Bradley |
 | 324 | 287 | Sabrina Hardrick |
 | 325 | 287 | Carol Cain Thurman |
 | 326 | 287 | Hoppy Patternline |
 | 327 | 286 | Micayah Stevens |
-| 328 | 284 | Cheryl Hinch Tenbrook |
-| 329 | 284 | Hanna Kim |
+| 328 | 284 | Hanna Kim |
+| 329 | 284 | Cheryl Hinch Tenbrook |
 | 330 | 281 | Kaycee Kay |
-| 331 | 280 | Aerian Preston |
-| 332 | 280 | ROODBOY |
+| 331 | 280 | ROODBOY |
+| 332 | 280 | Aerian Preston |
 | 333 | 279 | Foltz Lee Kelli |
 | 334 | 279 | Naur |
 | 335 | 279 | Tosha Griffey |

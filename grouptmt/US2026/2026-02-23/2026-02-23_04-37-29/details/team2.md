@@ -157,8 +157,8 @@
 | 149 | 1578 | Sally Dennis |
 | 150 | 1571 | Alisa Lamb |
 | 151 | 1560 | Donnie Hunt |
-| 152 | 1558 | Tim Dyer |
-| 153 | 1558 | Stephen Stephen |
+| 152 | 1558 | Stephen Stephen |
+| 153 | 1558 | Tim Dyer |
 | 154 | 1555 | blarg |
 | 155 | 1541 | Cherica Taylor |
 | 156 | 1537 | Desiree Harris Rosch |
@@ -205,8 +205,8 @@
 | 197 | 1306 | Isabela Shaw |
 | 198 | 1300 | Tacara Cummings |
 | 199 | 1286 | Altamirano Michael |
-| 200 | 1282 | Tanya Parsons |
-| 201 | 1282 | Ashley Rose Frederick |
+| 200 | 1282 | Ashley Rose Frederick |
+| 201 | 1282 | Tanya Parsons |
 | 202 | 1258 | Joyce Johnson Vaughn |
 | 203 | 1252 | Angel |
 | 204 | 1245 | Cody Nishimura |
@@ -248,10 +248,10 @@
 | 240 | 1121 | Sarah Freitas |
 | 241 | 1120 | Chirpy Staggerpiece |
 | 242 | 1114 | Ginnell Browner |
-| 243 | 1114 | Maria Escobar |
-| 244 | 1114 | Kevin Walp |
-| 245 | 1111 | Moose Griffith |
-| 246 | 1111 | Julay |
+| 243 | 1114 | Kevin Walp |
+| 244 | 1114 | Maria Escobar |
+| 245 | 1111 | Julay |
+| 246 | 1111 | Moose Griffith |
 | 247 | 1109 | Eric Carlson |
 | 248 | 1105 | Nerdy Clearfit |
 | 249 | 1103 | William Meussner |
@@ -292,8 +292,8 @@
 | 284 | 987 | Osun Anuket Esu |
 | 285 | 984 | Crystal Hoffman |
 | 286 | 981 | Ashlen Dorrell |
-| 287 | 979 | Melissa Penelope Ann Dodge |
-| 288 | 979 | Hillary Crawford |
+| 287 | 979 | Hillary Crawford |
+| 288 | 979 | Melissa Penelope Ann Dodge |
 | 289 | 978 | April Dawn Gussler |
 | 290 | 978 | Caitlin Schmid |
 | 291 | 976 | Sam Joe |
