@@ -155,8 +155,8 @@
 | 147 | 1960 | Aimee Campbell |
 | 148 | 1958 | Robin Kerby |
 | 149 | 1936 | Angi Harrison |
-| 150 | 1932 | Angela Lynn |
-| 151 | 1932 | Gary Schaffner Jr. |
+| 150 | 1932 | Gary Schaffner Jr. |
+| 151 | 1932 | Angela Lynn |
 | 152 | 1912 | Tonya Brooks-Johnson |
 | 153 | 1904 | Goofy Snapfit |
 | 154 | 1899 | Jumpy Gridpiece |
@@ -172,8 +172,8 @@
 | 164 | 1769 | Chirpy Staggerpiece |
 | 165 | 1767 | niecy |
 | 166 | 1759 | Nerdy Pattern |
-| 167 | 1751 | Woodys Glass |
-| 168 | 1751 | Bob |
+| 167 | 1751 | Bob |
+| 168 | 1751 | Woodys Glass |
 | 169 | 1740 | blarg |
 | 170 | 1729 | Eboni Banks |
 | 171 | 1726 | Denise Rickman |

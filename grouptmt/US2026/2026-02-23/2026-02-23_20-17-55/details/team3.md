@@ -144,8 +144,8 @@
 | 136 | 864 | Sunny Rotater |
 | 137 | 841 | Loopy Fallmatch |
 | 138 | 837 | mzcatzy |
-| 139 | 834 | opf |
-| 140 | 834 | Kristin Delibac Corrigan |
+| 139 | 834 | Kristin Delibac Corrigan |
+| 140 | 834 | opf |
 | 141 | 833 | Crystal Frey |
 | 142 | 820 | Brenda Lee Vander Molen |
 | 143 | 815 | Dolores Falco |
@@ -237,8 +237,8 @@
 | 229 | 541 | Fran Lin |
 | 230 | 540 | Danielle Allison |
 | 231 | 539 | Betty Bóò |
-| 232 | 537 | Tessina Dewey-Mancino |
-| 233 | 537 | Aerian Preston |
+| 232 | 537 | Aerian Preston |
+| 233 | 537 | Tessina Dewey-Mancino |
 | 234 | 537 | Tamara Deherrera |
 | 235 | 533 | Ivan Del Toro |
 | 236 | 533 | kacihall |
@@ -396,8 +396,8 @@
 | 388 | 335 | Maggie |
 | 389 | 333 | Nikki White |
 | 390 | 333 | Geoffrey Nash |
-| 391 | 332 | Michael Leblanc |
-| 392 | 332 | Brittany |
+| 391 | 332 | Brittany |
+| 392 | 332 | Michael Leblanc |
 | 393 | 331 | Eboni Starr |
 | 394 | 330 | Big T |
 | 395 | 329 | Romeo |

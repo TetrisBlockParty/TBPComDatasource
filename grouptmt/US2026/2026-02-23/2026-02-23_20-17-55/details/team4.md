@@ -59,8 +59,8 @@
 | 51 | 1147 | Jae Job |
 | 52 | 1099 | Ashley Ingram |
 | 53 | 1085 | Kimyatta Cavin |
-| 54 | 1082 | Dion Crommarty |
-| 55 | 1082 | Avy Absol |
+| 54 | 1082 | Avy Absol |
+| 55 | 1082 | Dion Crommarty |
 | 56 | 1082 | Dawn Alexander |
 | 57 | 1049 | Heather Tushner |
 | 58 | 1046 | Johnathan Martinez |
@@ -208,8 +208,8 @@
 | 200 | 423 | Lori |
 | 201 | 422 | Zakia Monae |
 | 202 | 422 | Berklie Apedaile |
-| 203 | 421 | Sam Bishop |
-| 204 | 421 | Kesha Brady |
+| 203 | 421 | Kesha Brady |
+| 204 | 421 | Sam Bishop |
 | 205 | 421 | JIGsaw ~(•¿°)~ |
 | 206 | 418 | Lush Linkfall |
 | 207 | 418 | Marie-Pier Desjardins |
@@ -260,8 +260,8 @@
 | 252 | 358 | Twisty Cascadezone |
 | 253 | 356 | mike |
 | 254 | 356 | Joeliecea Cobb |
-| 255 | 355 | Andrew Dang |
-| 256 | 355 | David Lay |
+| 255 | 355 | David Lay |
+| 256 | 355 | Andrew Dang |
 | 257 | 352 | scott |
 | 258 | 350 | Jen Caldwell |
 | 259 | 347 | Gdiguy |
@@ -631,8 +631,8 @@
 | 623 | 143 | Sherri |
 | 624 | 142 | Frank Cook |
 | 625 | 142 | Hyper Matchclear |
-| 626 | 142 | Peace |
-| 627 | 142 | Katie Linneman-Rowland |
+| 626 | 142 | Katie Linneman-Rowland |
+| 627 | 142 | Peace |
 | 628 | 142 | GTxIrishman |
 | 629 | 141 | Lori Goudy |
 | 630 | 141 | Courtney Angel |
