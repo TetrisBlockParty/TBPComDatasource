@@ -26,8 +26,8 @@
 | 18 | 1636 | Cassie Michaux |
 | 19 | 1565 | GreenJeepGirl |
 | 20 | 1558 | Leah Gorsuch |
-| 21 | 1536 | Roger Coulter |
-| 22 | 1536 | Misty Hollibaugh |
+| 21 | 1536 | Misty Hollibaugh |
+| 22 | 1536 | Roger Coulter |
 | 23 | 1485 | Juggalo |
 | 24 | 1390 | Sammy Noguera |
 | 25 | 1382 | Tammi Crnza |
@@ -180,8 +180,8 @@
 | 172 | 370 | Oscar Alberto Perez |
 | 173 | 369 | Lindsey Gonzalez |
 | 174 | 368 | Silly Zonebuilder |
-| 175 | 368 | Raegan Lane-Ross |
-| 176 | 368 | Brandon Crabbs |
+| 175 | 368 | Brandon Crabbs |
+| 176 | 368 | Raegan Lane-Ross |
 | 177 | 365 | Jeff Brian Gates |
 | 178 | 361 | Carlos Ramirez |
 | 179 | 361 | Danielle Kollias |
@@ -203,8 +203,8 @@
 | 195 | 336 | Bio Nelly |
 | 196 | 334 | Kris Bartlett |
 | 197 | 332 | HastyGrabber |
-| 198 | 330 | blockstar |
-| 199 | 330 | Kathy Brookins |
+| 198 | 330 | Kathy Brookins |
+| 199 | 330 | blockstar |
 | 200 | 328 | scott |
 | 201 | 327 | J-Rizzle |
 | 202 | 324 | jim |
@@ -225,8 +225,8 @@
 | 217 | 301 | Andria Lynn |
 | 218 | 300 | Dana Scott |
 | 219 | 295 | Keshia Lyons |
-| 220 | 294 | Calvin Cannon |
-| 221 | 294 | Porkobello |
+| 220 | 294 | Porkobello |
+| 221 | 294 | Calvin Cannon |
 | 222 | 292 | Epic Curvetile |
 | 223 | 291 | Nikki Rae Gordon |
 | 224 | 290 | Plucky Patternblock |
@@ -328,21 +328,21 @@
 | 320 | 216 | Chantilly Laace |
 | 321 | 216 | mike |
 | 322 | 215 | Stephme310 |
-| 323 | 214 | Stacey Stano |
-| 324 | 214 | Patron Anderson |
+| 323 | 214 | Patron Anderson |
+| 324 | 214 | Stacey Stano |
 | 325 | 213 | Jackie Marie |
-| 326 | 212 | Mike Solo |
-| 327 | 212 | Zany Shatterer |
-| 328 | 212 | Brave Spinbuilder |
+| 326 | 212 | Brave Spinbuilder |
+| 327 | 212 | Mike Solo |
+| 328 | 212 | Zany Shatterer |
 | 329 | 211 | Chris Alexinas |
 | 330 | 210 | Ari Droff |
-| 331 | 209 | Snippy Puzzle |
-| 332 | 209 | Marcus Todd |
+| 331 | 209 | Marcus Todd |
+| 332 | 209 | Snippy Puzzle |
 | 333 | 208 | Heather Bruce |
 | 334 | 208 | Shukee Lo |
 | 335 | 207 | Squeezy Pearsall |
-| 336 | 206 | Maureen Flanigan |
-| 337 | 206 | Laura Hosford |
+| 336 | 206 | Laura Hosford |
+| 337 | 206 | Maureen Flanigan |
 | 338 | 206 | June Hoffman |
 | 339 | 205 | KayM |
 | 340 | 204 | Ruby Khalisadar |
@@ -460,10 +460,10 @@
 | 452 | 160 | Sam Middleton |
 | 453 | 160 | Heather Layne Smith |
 | 454 | 159 | Groovy Brickmatch |
-| 455 | 158 | Jasmine S Caldwell |
-| 456 | 158 | Dapper Frame |
-| 457 | 157 | LunaMoon |
-| 458 | 157 | Ryry |
+| 455 | 158 | Dapper Frame |
+| 456 | 158 | Jasmine S Caldwell |
+| 457 | 157 | Ryry |
+| 458 | 157 | LunaMoon |
 | 459 | 157 | David Boggs |
 | 460 | 156 | Mighty Edgepiece |
 | 461 | 156 | Funky Risepiece |
