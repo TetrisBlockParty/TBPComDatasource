@@ -284,8 +284,8 @@
 | 276 | 255 | Beazel75 |
 | 277 | 255 | Giggly Builderline |
 | 278 | 254 | Al Smith Jr |
-| 279 | 253 | Jamie Jury |
-| 280 | 253 | Cece Ibarra |
+| 279 | 253 | Cece Ibarra |
+| 280 | 253 | Jamie Jury |
 | 281 | 252 | Dena Kayy |
 | 282 | 251 | MRdot Rooski |
 | 283 | 251 | Angela Fairbank |
@@ -388,8 +388,8 @@
 | 380 | 201 | Colleen Wise |
 | 381 | 201 | Tedashi |
 | 382 | 200 | Zesty Brickzone |
-| 383 | 199 | Larissa Marie Nelson |
-| 384 | 199 | Tina Englert |
+| 383 | 199 | Tina Englert |
+| 384 | 199 | Larissa Marie Nelson |
 | 385 | 198 | Marci Sanders |
 | 386 | 197 | Cool Towerzone |
 | 387 | 196 | Rachel Copas |

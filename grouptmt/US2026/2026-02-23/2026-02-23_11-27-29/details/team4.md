@@ -383,17 +383,17 @@
 | 375 | 194 | SammieJo Guy |
 | 376 | 194 | Zany Twisterfit |
 | 377 | 194 | Eri Kka |
-| 378 | 192 | Meg |
-| 379 | 192 | Twisty Risebuilder |
+| 378 | 192 | Twisty Risebuilder |
+| 379 | 192 | Meg |
 | 380 | 191 | Riverdale |
 | 381 | 191 | Earnest Thompson |
 | 382 | 191 | Norman Klick |
 | 383 | 190 | wombat |
-| 384 | 189 | Lauren Lamb |
-| 385 | 189 | Berklie Apedaile |
+| 384 | 189 | Berklie Apedaile |
+| 385 | 189 | Lauren Lamb |
 | 386 | 189 | Cool Towerbuilder |
-| 387 | 188 | Sharyn Lemire |
-| 388 | 188 | Frilly Blocky |
+| 387 | 188 | Frilly Blocky |
+| 388 | 188 | Sharyn Lemire |
 | 389 | 187 | Jenny Wells-Oakley |
 | 390 | 186 | Dandy Cascadefit |
 | 391 | 185 | Val Erie |
@@ -401,9 +401,9 @@
 | 393 | 185 | Eric Wren |
 | 394 | 185 | Rebecca Blake |
 | 395 | 185 | Morti |
-| 396 | 183 | Nerdy Twisterfit |
+| 396 | 183 | Jesse Saville |
 | 397 | 183 | Darrin Rubalcava |
-| 398 | 183 | Jesse Saville |
+| 398 | 183 | Nerdy Twisterfit |
 | 399 | 182 | Neil Ingham |
 | 400 | 181 | Kate |
 | 401 | 181 | Asher |

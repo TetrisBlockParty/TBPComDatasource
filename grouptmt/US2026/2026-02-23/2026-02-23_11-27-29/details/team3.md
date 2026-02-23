@@ -187,8 +187,8 @@
 | 179 | 572 | CeceGeGe |
 | 180 | 568 | Rachael McClain Owens |
 | 181 | 566 | LaTanya GeminiondaRise Johnson |
-| 182 | 564 | Christine Trester |
-| 183 | 564 | Poppy Splitter |
+| 182 | 564 | Poppy Splitter |
+| 183 | 564 | Christine Trester |
 | 184 | 563 | Jim Mathews |
 | 185 | 562 | Dave Herzog |
 | 186 | 559 | Patti Skiles |
@@ -205,8 +205,8 @@
 | 197 | 525 | Stephanie Blkpep Davidson |
 | 198 | 524 | Bmo |
 | 199 | 521 | Shannon Matthew Byers |
-| 200 | 519 | Terry Jo Jones |
-| 201 | 519 | rnr junky |
+| 200 | 519 | rnr junky |
+| 201 | 519 | Terry Jo Jones |
 | 202 | 515 | Cozy Snaplink |
 | 203 | 513 | Lizabeth Fox |
 | 204 | 510 | Makelini Mausia |
@@ -247,10 +247,10 @@
 | 239 | 429 | Carrie Huskey |
 | 240 | 428 | Sleepy |
 | 241 | 421 | Chummy Caster |
-| 242 | 419 | Kristin Delibac Corrigan |
-| 243 | 419 | Marci Mize Fandrich |
-| 244 | 417 | Nicole Flippo |
-| 245 | 417 | Giddy Twistbuilder |
+| 242 | 419 | Marci Mize Fandrich |
+| 243 | 419 | Kristin Delibac Corrigan |
+| 244 | 417 | Giddy Twistbuilder |
+| 245 | 417 | Nicole Flippo |
 | 246 | 414 | Fran Lin |
 | 247 | 413 | Micayah Stevens |
 | 248 | 412 | RickyG |
@@ -316,8 +316,8 @@
 | 308 | 342 | Cynthia Herrmann Egland |
 | 309 | 341 | Rick Poppen |
 | 310 | 341 | Lys |
-| 311 | 340 | KayB |
-| 312 | 340 | Erika Thornton |
+| 311 | 340 | Erika Thornton |
+| 312 | 340 | KayB |
 | 313 | 338 | fraulila |
 | 314 | 336 | Foltz Lee Kelli |
 | 315 | 335 | victory |
@@ -495,8 +495,8 @@
 | 487 | 225 | sofaking |
 | 488 | 225 | Sassy Tiler |
 | 489 | 224 | Sarah Morris |
-| 490 | 224 | Christina Rotz Shows |
-| 491 | 224 | Cranky Corner |
+| 490 | 224 | Cranky Corner |
+| 491 | 224 | Christina Rotz Shows |
 | 492 | 222 | Angel Miller |
 | 493 | 221 | Emma |
 | 494 | 221 | Christen Cannon Layhew |
@@ -652,8 +652,8 @@
 | 644 | 177 | Jm |
 | 645 | 176 | Jackie-Lynne Goertzen |
 | 646 | 176 | Bekah Dietrich |
-| 647 | 175 | Giggy Balanceblock |
-| 648 | 175 | Muk |
+| 647 | 175 | Muk |
+| 648 | 175 | Giggy Balanceblock |
 | 649 | 175 | Spunky Racker |
 | 650 | 175 | Cibf Ecihm |
 | 651 | 175 | JustGiGi |
@@ -845,7 +845,7 @@
 | 837 | 137 | Gracie Ornelas |
 | 838 | 137 | Chyrl Gerke |
 | 839 | 137 | luna |
-| 840 | 137 | SummerRae Broussard |
+| 840 | 137 | Rynne Ellis |
 | 841 | 137 | Happy Winder |
 | 842 | 137 | SummerRae Broussard |
 | 843 | 136 | Barbara Bennett |

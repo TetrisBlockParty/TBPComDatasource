@@ -173,8 +173,8 @@
 | 165 | 1581 | Brandy Andre |
 | 166 | 1580 | Sally Dennis |
 | 167 | 1574 | Stephen Stephen |
-| 168 | 1558 | Tim Dyer |
-| 169 | 1558 | Crystal Slaughter |
+| 168 | 1558 | Crystal Slaughter |
+| 169 | 1558 | Tim Dyer |
 | 170 | 1555 | blarg |
 | 171 | 1543 | Amy Sayers |
 | 172 | 1540 | Scott Treadway |
@@ -233,8 +233,8 @@
 | 225 | 1232 | Ambyre Patterson |
 | 226 | 1230 | Megan Garrick |
 | 227 | 1221 | Jane Fong |
-| 228 | 1217 | Lucky Ladybug |
-| 229 | 1217 | Brooks Brooks |
+| 228 | 1217 | Brooks Brooks |
+| 229 | 1217 | Lucky Ladybug |
 | 230 | 1216 | Pacynthia Williams |
 | 231 | 1214 | David Cudicio-Hayden |
 | 232 | 1211 | Ricardo Burton |
@@ -275,8 +275,8 @@
 | 267 | 1093 | Real Ri |
 | 268 | 1088 | Brainy Smurf |
 | 269 | 1080 | Tyler C. Jung |
-| 270 | 1079 | Kimberly Hauck-Rausch |
-| 271 | 1079 | Jennifer Kistner |
+| 270 | 1079 | Jennifer Kistner |
+| 271 | 1079 | Kimberly Hauck-Rausch |
 | 272 | 1073 | Jodi Blake |
 | 273 | 1071 | Kim Dean |
 | 274 | 1069 | Carl Bradshaw |
@@ -292,8 +292,8 @@
 | 284 | 1045 | Bri Lynn |
 | 285 | 1045 | Lourisha |
 | 286 | 1044 | Jennifer Aiken |
-| 287 | 1043 | nikki |
-| 288 | 1043 | Brave Dropmatch |
+| 287 | 1043 | Brave Dropmatch |
+| 288 | 1043 | nikki |
 | 289 | 1042 | Mcintosh Brian Shalonda |
 | 290 | 1040 | Rebecca Garland |
 | 291 | 1036 | Amber Shoemaker |
@@ -354,8 +354,8 @@
 | 346 | 907 | Gene Mills |
 | 347 | 904 | John Bednarik |
 | 348 | 904 | Bee |
-| 349 | 903 | Giggy Blocker |
-| 350 | 903 | Eric Castaneda |
+| 349 | 903 | Eric Castaneda |
+| 350 | 903 | Giggy Blocker |
 | 351 | 902 | Diallo Sparkman |
 | 352 | 901 | Kevin Sees |
 | 353 | 899 | Patrick Bartlett |
@@ -368,8 +368,8 @@
 | 360 | 886 | Alyssa Hileman |
 | 361 | 883 | Hong Tang |
 | 362 | 878 | Sinistah42o |
-| 363 | 869 | BYM4L |
-| 364 | 869 | Venita Ray |
+| 363 | 869 | Venita Ray |
+| 364 | 869 | BYM4L |
 | 365 | 867 | Jackie Lucas |
 | 366 | 863 | Brenda Utphall |
 | 367 | 862 | Sarah Massey |
@@ -756,8 +756,8 @@
 | 748 | 490 | Juanita Lyons |
 | 749 | 489 | Britney M. |
 | 750 | 489 | Christy Krissie |
-| 751 | 487 | Christy Long |
-| 752 | 487 | Morgan Easter |
+| 751 | 487 | Morgan Easter |
+| 752 | 487 | Christy Long |
 | 753 | 487 | RaeVan Worthington |
 | 754 | 486 | Ashley Collins |
 | 755 | 485 | coleksquad |
@@ -795,8 +795,8 @@
 | 787 | 470 | Katie Marie |
 | 788 | 470 | Stephanie Fortune |
 | 789 | 470 | AkaLefty |
-| 790 | 470 | ToShi |
-| 791 | 470 | Amanda Chamberlain |
+| 790 | 470 | Amanda Chamberlain |
+| 791 | 470 | ToShi |
 | 792 | 469 | Moist_B-hole |
 | 793 | 468 | Niceday |
 | 794 | 468 | Brenda Annabel Smith |
@@ -2014,8 +2014,8 @@
 | 2006 | 213 | Shelly |
 | 2007 | 213 | Ty Quarles |
 | 2008 | 213 | Crafty Rumbler |
-| 2009 | 212 | ToastersBath |
-| 2010 | 212 | Fluffy |
+| 2009 | 212 | Fluffy |
+| 2010 | 212 | ToastersBath |
 | 2011 | 212 | Travette Milner |
 | 2012 | 212 | JP Parks |
 | 2013 | 212 | Majed Tawk |
