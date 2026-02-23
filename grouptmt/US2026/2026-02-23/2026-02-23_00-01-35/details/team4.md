@@ -97,8 +97,8 @@
 | 89 | 590 | Denise Carlson |
 | 90 | 568 | Chris Baggett |
 | 91 | 566 | Amelpss |
-| 92 | 561 | H.R. Block |
-| 93 | 561 | Amy Suckarieh |
+| 92 | 561 | Amy Suckarieh |
+| 93 | 561 | H.R. Block |
 | 94 | 557 | Carmethia Clemons Haslerig |
 | 95 | 533 | Samantha Peterson |
 | 96 | 531 | Zippy Gridlock |
@@ -112,8 +112,8 @@
 | 104 | 499 | Christina LR |
 | 105 | 499 | Trista Leah |
 | 106 | 488 | Jen Allison |
-| 107 | 487 | Alyssa Papen |
-| 108 | 487 | shar |
+| 107 | 487 | shar |
+| 108 | 487 | Alyssa Papen |
 | 109 | 481 | Serena Goodridge |
 | 110 | 478 | Chilly Crasher |
 | 111 | 476 | Matt Summer |
@@ -126,8 +126,8 @@
 | 118 | 448 | Kristin Manee |
 | 119 | 435 | Leslie Thomas |
 | 120 | 433 | Jamie Gustafson |
-| 121 | 431 | Jolly Dashfit |
-| 122 | 431 | Courtney Cicoria |
+| 121 | 431 | Courtney Cicoria |
+| 122 | 431 | Jolly Dashfit |
 | 123 | 429 | Ren Mc |
 | 124 | 427 | KJ Pool |
 | 125 | 418 | Lush Linkfall |
@@ -171,8 +171,8 @@
 | 163 | 329 | Jeff Brian Gates |
 | 164 | 328 | Kris Bartlett |
 | 165 | 324 | jim |
-| 166 | 320 | Lauren Scott |
-| 167 | 320 | TRCuse |
+| 166 | 320 | TRCuse |
+| 167 | 320 | Lauren Scott |
 | 168 | 319 | Rafael Valentin |
 | 169 | 316 | Meagan Nicole |
 | 170 | 314 | Andy Cabral |
@@ -197,10 +197,10 @@
 | 189 | 289 | Lindsay Ball |
 | 190 | 288 | Leah Kutz Zirbel |
 | 191 | 287 | Plucky Patternblock |
-| 192 | 286 | Sam Bishop |
-| 193 | 286 | Brittney Orengo |
-| 194 | 282 | Sue Joyce Staats |
-| 195 | 282 | Chris Bernstein |
+| 192 | 286 | Brittney Orengo |
+| 193 | 286 | Sam Bishop |
+| 194 | 282 | Chris Bernstein |
+| 195 | 282 | Sue Joyce Staats |
 | 196 | 281 | Kim Klutz Olson |
 | 197 | 281 | Laura |
 | 198 | 277 | Zesty Twistbuilder |
@@ -331,7 +331,7 @@
 | 323 | 171 | Dapper Balancer |
 | 324 | 171 | Autumn Kumzi |
 | 325 | 170 | Elie Pean |
-| 326 | 169 | Alexandra Karavias |
+| 326 | 169 | Dante Korleon |
 | 327 | 169 | Daring Pivot |
 | 328 | 169 | Jessica Atkinson |
 | 329 | 169 | Alexandra Karavias |
@@ -517,7 +517,7 @@
 | 509 | 115 | Ron |
 | 510 | 114 | Jason Frehner |
 | 511 | 114 | The Murphy |
-| 512 | 114 | Jason Frehner |
+| 512 | 114 | Rosemary Foster |
 | 513 | 113 | DQ Martin |
 | 514 | 112 | Verna Neal |
 | 515 | 111 | Michelle Parker |

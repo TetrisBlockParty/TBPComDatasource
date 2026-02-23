@@ -220,13 +220,13 @@
 | 212 | 399 | Mcathen |
 | 213 | 393 | Cozy Snaplink |
 | 214 | 387 | rosy |
-| 215 | 384 | Trisha Balmer |
-| 216 | 384 | Marci Mize Fandrich |
-| 217 | 383 | Darlene McMillan |
-| 218 | 383 | Nicole Flippo |
+| 215 | 384 | Marci Mize Fandrich |
+| 216 | 384 | Trisha Balmer |
+| 217 | 383 | Nicole Flippo |
+| 218 | 383 | Darlene McMillan |
 | 219 | 383 | Heather Green |
-| 220 | 382 | Giddy Twistbuilder |
-| 221 | 382 | Scott Carleton |
+| 220 | 382 | Scott Carleton |
+| 221 | 382 | Giddy Twistbuilder |
 | 222 | 378 | Chris Bell |
 | 223 | 375 | Duane Bright |
 | 224 | 375 | Kristal C Lee |

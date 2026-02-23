@@ -454,8 +454,8 @@
 | 446 | 628 | Brownie Sheena |
 | 447 | 626 | Demeka Dangerous-kisses Johnson |
 | 448 | 623 | Kimberly Hope Howell |
-| 449 | 620 | Brandon Armstrong |
-| 450 | 620 | Traci Johnson |
+| 449 | 620 | Traci Johnson |
+| 450 | 620 | Brandon Armstrong |
 | 451 | 618 | Caitlyn Blackwell |
 | 452 | 618 | Vanessa Moreno |
 | 453 | 617 | Darcy Mae |
@@ -470,8 +470,8 @@
 | 462 | 607 | Michelle Lee |
 | 463 | 605 | Santana Miyagi |
 | 464 | 603 | Casper The Chonk |
-| 465 | 602 | Shaun Church |
-| 466 | 602 | KhaosLord |
+| 465 | 602 | KhaosLord |
+| 466 | 602 | Shaun Church |
 | 467 | 601 | Moua Ying |
 | 468 | 597 | Jamie Schmitt |
 | 469 | 595 | Bee |
@@ -760,8 +760,8 @@
 | 752 | 394 | Christina Jarvis-Swarbrick |
 | 753 | 393 | Jamie West |
 | 754 | 392 | Christy Green |
-| 755 | 391 | Chilly Bridgepiece |
-| 756 | 391 | Megan Kitchner |
+| 755 | 391 | Megan Kitchner |
+| 756 | 391 | Chilly Bridgepiece |
 | 757 | 391 | Heather Johnson |
 | 758 | 391 | Anthony |
 | 759 | 390 | Aireka Roman |
