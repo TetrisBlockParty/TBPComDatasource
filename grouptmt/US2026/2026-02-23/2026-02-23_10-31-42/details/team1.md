@@ -153,8 +153,8 @@
 | 145 | 404 | Jessie Lynn |
 | 146 | 402 | Chris K |
 | 147 | 399 | Nery Martinez |
-| 148 | 394 | Jennifer Hardman |
-| 149 | 394 | Lori Bales |
+| 148 | 394 | Lori Bales |
+| 149 | 394 | Jennifer Hardman |
 | 150 | 389 | David Miller |
 | 151 | 388 | Fmp |
 | 152 | 387 | Monica Donato |
@@ -169,8 +169,8 @@
 | 161 | 378 | Jessica Sheehan |
 | 162 | 376 | Brian Richardsson |
 | 163 | 376 | Death |
-| 164 | 375 | Tanya Carpenter-Reynolds |
-| 165 | 375 | Connie |
+| 164 | 375 | Connie |
+| 165 | 375 | Tanya Carpenter-Reynolds |
 | 166 | 371 | Basment Living |
 | 167 | 371 | Jason Savage |
 | 168 | 369 | Christy Jones |

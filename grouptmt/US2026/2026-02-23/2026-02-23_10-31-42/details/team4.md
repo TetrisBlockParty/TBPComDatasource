@@ -89,8 +89,8 @@
 | 81 | 703 | Savannah Overdorf |
 | 82 | 697 | Alyssa Papen |
 | 83 | 694 | Diana Houts |
-| 84 | 684 | Jonathan Kimbrough |
-| 85 | 684 | Kimyatta Cavin |
+| 84 | 684 | Kimyatta Cavin |
+| 85 | 684 | Jonathan Kimbrough |
 | 86 | 678 | Trista Leah |
 | 87 | 673 | Jacqueline Helm |
 | 88 | 670 | Destiney Carter |
@@ -125,11 +125,11 @@
 | 117 | 527 | Dizzy Tiley |
 | 118 | 519 | Nugget |
 | 119 | 517 | shar |
-| 120 | 514 | Serena Goodridge |
-| 121 | 514 | Scott Jameson |
+| 120 | 514 | Scott Jameson |
+| 121 | 514 | Serena Goodridge |
 | 122 | 513 | Erin Thomas |
-| 123 | 512 | Casey Jeffcoat |
-| 124 | 512 | Cristy Duerksen |
+| 123 | 512 | Cristy Duerksen |
+| 124 | 512 | Casey Jeffcoat |
 | 125 | 509 | Leslie Nicole |
 | 126 | 489 | Andy Cabral |
 | 127 | 483 | Angela Srubar-Norman |
@@ -169,20 +169,20 @@
 | 161 | 402 | Lucas J Sutton |
 | 162 | 398 | Tyler Terrific |
 | 163 | 397 | Nick Gray |
-| 164 | 393 | Girl |
-| 165 | 393 | Carlton Unfiltered |
+| 164 | 393 | Carlton Unfiltered |
+| 165 | 393 | Girl |
 | 166 | 391 | Ramel Rhodes |
 | 167 | 389 | Joseph Guthrie |
 | 168 | 383 | Chris Bernstein |
 | 169 | 377 | Guy Incognito |
 | 170 | 375 | Desi Desporte |
-| 171 | 372 | Antony Dwayne Beasley |
-| 172 | 372 | George Nutt |
+| 171 | 372 | George Nutt |
+| 172 | 372 | Antony Dwayne Beasley |
 | 173 | 370 | Oscar Alberto Perez |
 | 174 | 369 | Lindsey Gonzalez |
-| 175 | 368 | Silly Zonebuilder |
-| 176 | 368 | Brandon Crabbs |
-| 177 | 368 | Raegan Lane-Ross |
+| 175 | 368 | Raegan Lane-Ross |
+| 176 | 368 | Silly Zonebuilder |
+| 177 | 368 | Brandon Crabbs |
 | 178 | 365 | Jeff Brian Gates |
 | 179 | 361 | Carlos Ramirez |
 | 180 | 361 | Danielle Kollias |
@@ -286,8 +286,8 @@
 | 278 | 253 | Autum Leigh |
 | 279 | 251 | Carol Ricks Raymond |
 | 280 | 249 | Ak Jones |
-| 281 | 248 | Chirpy Basepiece |
-| 282 | 248 | Angelito |
+| 281 | 248 | Angelito |
+| 282 | 248 | Chirpy Basepiece |
 | 283 | 248 | Jose Dejesus |
 | 284 | 245 | 23 |
 | 285 | 244 | Christina Black |
@@ -305,8 +305,8 @@
 | 297 | 237 | Christine Therrien |
 | 298 | 235 | LaDonna LovinmesomeMe Lambert |
 | 299 | 235 | Shainne Brewer |
-| 300 | 234 | Shanon Klair |
-| 301 | 234 | Richard-April Kice |
+| 300 | 234 | Richard-April Kice |
+| 301 | 234 | Shanon Klair |
 | 302 | 234 | Diosa Ebalobo Magsael |
 | 303 | 233 | Joseph Edmonson |
 | 304 | 230 | Chantilly Laace |
@@ -723,8 +723,8 @@
 | 715 | 98 | Manuel Groleau |
 | 716 | 98 | Maurice Daniels |
 | 717 | 98 | Jessi Cinotto |
-| 718 | 97 | Rick SJ |
-| 719 | 97 | Shanon James |
+| 718 | 97 | Shanon James |
+| 719 | 97 | Rick SJ |
 | 720 | 97 | Frisky Matchgrid |
 | 721 | 96 | KanVus |
 | 722 | 96 | Cozy Framezone |

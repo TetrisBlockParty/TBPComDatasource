@@ -231,8 +231,8 @@
 | 223 | 1232 | Ambyre Patterson |
 | 224 | 1230 | Megan Garrick |
 | 225 | 1221 | Jane Fong |
-| 226 | 1217 | Lucky Ladybug |
-| 227 | 1217 | Brooks Brooks |
+| 226 | 1217 | Brooks Brooks |
+| 227 | 1217 | Lucky Ladybug |
 | 228 | 1216 | Pacynthia Williams |
 | 229 | 1214 | David Cudicio-Hayden |
 | 230 | 1211 | Ricardo Burton |
@@ -277,8 +277,8 @@
 | 269 | 1079 | Jennifer Kistner |
 | 270 | 1073 | Jodi Blake |
 | 271 | 1071 | Kim Dean |
-| 272 | 1069 | Offonar Facey |
-| 273 | 1069 | Carl Bradshaw |
+| 272 | 1069 | Carl Bradshaw |
+| 273 | 1069 | Offonar Facey |
 | 274 | 1064 | BK Queen |
 | 275 | 1063 | Caitlin Schmid |
 | 276 | 1061 | Mo Shine On |
@@ -444,8 +444,8 @@
 | 436 | 753 | Alex Dungo Hoang |
 | 437 | 752 | Christina Wsn |
 | 438 | 751 | Loony Snapper |
-| 439 | 751 | Breezy Filler |
-| 440 | 751 | Caitlyn Blackwell |
+| 439 | 751 | Caitlyn Blackwell |
+| 440 | 751 | Breezy Filler |
 | 441 | 750 | Draizen Montrell Thomas |
 | 442 | 748 | Spunkysmom |
 | 443 | 748 | Ann Matzkanin |
