@@ -149,8 +149,8 @@
 | 141 | 531 | Plucky Ziggy |
 | 142 | 528 | ALFD |
 | 143 | 527 | Tonya Beasley |
-| 144 | 523 | April Carroll |
-| 145 | 523 | BadG52 |
+| 144 | 523 | BadG52 |
+| 145 | 523 | April Carroll |
 | 146 | 522 | Adrian Esteban |
 | 147 | 521 | Nery Martinez |
 | 148 | 519 | Anaid Sanchez |
@@ -218,8 +218,8 @@
 | 210 | 397 | Erin Rosberg |
 | 211 | 395 | Monica Donato |
 | 212 | 393 | Lehrin Maria |
-| 213 | 393 | Happy Snapbuild |
-| 214 | 393 | Wisa |
+| 213 | 393 | Wisa |
+| 214 | 393 | Happy Snapbuild |
 | 215 | 392 | Kathy Langham |
 | 216 | 387 | Carrie Smith |
 | 217 | 386 | Brian Spotts |
@@ -335,12 +335,12 @@
 | 327 | 296 | Sunny Shift |
 | 328 | 294 | Наталья Солоид |
 | 329 | 293 | Garrett Burket |
-| 330 | 292 | Fresno Beotoni |
+| 330 | 292 | Damian Salem |
 | 331 | 292 | Clever Cascadepiece |
-| 332 | 292 | Damian Salem |
+| 332 | 292 | Fresno Beotoni |
 | 333 | 291 | Sir-Franchise Drake |
-| 334 | 291 | Toph |
-| 335 | 291 | Sir-Franchise Drake |
+| 334 | 291 | Michael Espinosa Ulibarri Jr. |
+| 335 | 291 | Toph |
 | 336 | 290 | Tavia |
 | 337 | 289 | Nate Price |
 | 338 | 289 | Michael |
@@ -351,7 +351,7 @@
 | 343 | 287 | Shanae Grant |
 | 344 | 286 | Marci Sanders |
 | 345 | 286 | Sarahdactyl |
-| 346 | 286 | Marci Sanders |
+| 346 | 286 | build master |
 | 347 | 285 | Jessie Welch |
 | 348 | 284 | Mark Smith |
 | 349 | 283 | Franswa |
@@ -371,7 +371,7 @@
 | 363 | 278 | Shiny Snapline |
 | 364 | 277 | Teddy Alexander |
 | 365 | 277 | Agustin Duarte Orozco |
-| 366 | 277 | Teddy Alexander |
+| 366 | 277 | Nutty Spinblock |
 | 367 | 276 | Blake Mckay |
 | 368 | 274 | Danielle Mae |
 | 369 | 274 | Allena Craft |

@@ -57,8 +57,8 @@
 | 49 | 1815 | Rachel Bowers |
 | 50 | 1772 | Liv Whetson |
 | 51 | 1754 | Nate Burnside |
-| 52 | 1734 | Fancy Slam |
-| 53 | 1734 | Aaron Pitkin |
+| 52 | 1734 | Aaron Pitkin |
+| 53 | 1734 | Fancy Slam |
 | 54 | 1732 | Jessica Ann |
 | 55 | 1707 | Tina Kay |
 | 56 | 1691 | Cass Mendoza |
@@ -268,12 +268,12 @@
 | 260 | 520 | Cozy Snaplink |
 | 261 | 519 | Nichol Graham |
 | 262 | 516 | Daring Brickzone |
-| 263 | 513 | Giggy Glidepiece |
-| 264 | 513 | PrncssPJ |
+| 263 | 513 | PrncssPJ |
+| 264 | 513 | Giggy Glidepiece |
 | 265 | 513 | Lizabeth Fox |
 | 266 | 510 | Marquita Sheard |
-| 267 | 508 | joz |
-| 268 | 508 | rosy |
+| 267 | 508 | rosy |
+| 268 | 508 | joz |
 | 269 | 507 | Snappy Balancer |
 | 270 | 506 | Ammmmmmy |
 | 271 | 505 | Stephanie Simpson |
@@ -410,9 +410,9 @@
 | 402 | 348 | Jimmie Clemons |
 | 403 | 348 | Ashley Raines |
 | 404 | 346 | AlsoJess |
-| 405 | 345 | Misha Sanders |
+| 405 | 345 | Brittany |
 | 406 | 345 | victory |
-| 407 | 345 | Brittany |
+| 407 | 345 | Misha Sanders |
 | 408 | 344 | Beaudie Stroebel |
 | 409 | 343 | Christina Marie Swisher |
 | 410 | 342 | Cynthia Herrmann Egland |
@@ -428,8 +428,8 @@
 | 420 | 337 | AC Yeater |
 | 421 | 337 | Funky Jumper |
 | 422 | 336 | luluraine |
-| 423 | 334 | Stella |
-| 424 | 334 | Alice |
+| 423 | 334 | Alice |
+| 424 | 334 | Stella |
 | 425 | 333 | Geoffrey Nash |
 | 426 | 333 | Giggly Brickroll |
 | 427 | 332 | Giggy Balanceblock |
@@ -437,8 +437,8 @@
 | 429 | 330 | Norma JulieMay |
 | 430 | 330 | Big T |
 | 431 | 330 | Nelma |
-| 432 | 330 | Tegan Chapman |
-| 433 | 330 | Snippy Wipeout |
+| 432 | 330 | Snippy Wipeout |
+| 433 | 330 | Tegan Chapman |
 | 434 | 329 | Emma |
 | 435 | 328 | Mindy Phelps |
 | 436 | 328 | Desiree Soto |

@@ -136,8 +136,8 @@
 | 128 | 616 | Samantha Peterson |
 | 129 | 615 | Kim Hunt |
 | 130 | 613 | Porkobello |
-| 131 | 611 | Chris Baggett |
-| 132 | 611 | Ernest Maxwell |
+| 131 | 611 | Ernest Maxwell |
+| 132 | 611 | Chris Baggett |
 | 133 | 602 | Cristy Duerksen |
 | 134 | 593 | Jessica Lynn Cutlip |
 | 135 | 586 | Latisha Davis |
