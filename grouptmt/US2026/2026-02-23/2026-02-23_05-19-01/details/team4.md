@@ -38,9 +38,9 @@
 | 30 | 1229 | Jason Allen |
 | 31 | 1222 | LS |
 | 32 | 1206 | Dee Kay |
-| 33 | 1199 | Jayna Anoc |
-| 34 | 1160 | Kimberly Love |
-| 35 | 1140 | Isabella Blanco |
+| 33 | 1160 | Kimberly Love |
+| 34 | 1140 | Isabella Blanco |
+| 35 | 1132 | Jayna Anoc |
 | 36 | 1112 | Isabel Aguilar |
 | 37 | 1100 | Landon Keith Graffeo |
 | 38 | 1082 | Dion Crommarty |
@@ -79,8 +79,8 @@
 | 71 | 749 | Dustee Craddock-Harrison |
 | 72 | 742 | Carolyn Wallace |
 | 73 | 740 | Avy Absol |
-| 74 | 736 | Goatimus Lombardi |
-| 75 | 736 | Crystal Carroll |
+| 74 | 736 | Crystal Carroll |
+| 75 | 736 | Goatimus Lombardi |
 | 76 | 721 | TheNeesh50 |
 | 77 | 717 | D3TROITB0RN74 |
 | 78 | 706 | Lisa Davis |
@@ -156,15 +156,15 @@
 | 148 | 399 | Swanky Fitline |
 | 149 | 398 | Tyler Terrific |
 | 150 | 397 | Livvy |
-| 151 | 393 | Carlton Unfiltered |
-| 152 | 393 | Girl |
+| 151 | 393 | Girl |
+| 152 | 393 | Carlton Unfiltered |
 | 153 | 391 | Ramel Rhodes |
 | 154 | 389 | Joseph Guthrie |
 | 155 | 387 | Lucas J Sutton |
 | 156 | 375 | Desi Desporte |
 | 157 | 375 | ThaEviLJeNiuZ |
-| 158 | 374 | Guy Incognito |
-| 159 | 374 | Leslie Nicole |
+| 158 | 374 | Leslie Nicole |
+| 159 | 374 | Guy Incognito |
 | 160 | 370 | Oscar Alberto Perez |
 | 161 | 369 | Lindsey Gonzalez |
 | 162 | 368 | Brandon Crabbs |
@@ -172,15 +172,15 @@
 | 164 | 368 | Raegan Lane-Ross |
 | 165 | 368 | Silly Zonebuilder |
 | 166 | 365 | Jeff Brian Gates |
-| 167 | 361 | Danielle Kollias |
-| 168 | 361 | Melissa Adams |
+| 167 | 361 | Melissa Adams |
+| 168 | 361 | Danielle Kollias |
 | 169 | 359 | Keith Kelley |
 | 170 | 358 | A5! |
 | 171 | 356 | George Nutt |
-| 172 | 354 | TRCuse |
-| 173 | 352 | Sue Joyce Staats |
-| 174 | 349 | Rafael Valentin |
-| 175 | 349 | Twisty Cascadezone |
+| 172 | 352 | Sue Joyce Staats |
+| 173 | 350 | TRCuse |
+| 174 | 349 | Twisty Cascadezone |
+| 175 | 349 | Rafael Valentin |
 | 176 | 348 | April Rondinone |
 | 177 | 347 | Daria Rycewicz |
 | 178 | 347 | Crystal Nicolette Moore |
@@ -313,9 +313,9 @@
 | 305 | 217 | Paito |
 | 306 | 216 | mike |
 | 307 | 215 | Stephme310 |
-| 308 | 214 | Patron Anderson |
+| 308 | 214 | Stacey Stano |
 | 309 | 214 | Chantilly Laace |
-| 310 | 214 | Stacey Stano |
+| 310 | 214 | Patron Anderson |
 | 311 | 213 | Jackie Marie |
 | 312 | 212 | Jason Bosco |
 | 313 | 212 | Brave Spinbuilder |

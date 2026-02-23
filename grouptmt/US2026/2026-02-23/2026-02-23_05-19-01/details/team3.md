@@ -167,8 +167,8 @@
 | 159 | 591 | Michael Nowogorski |
 | 160 | 588 | Justin Ritter |
 | 161 | 587 | Louise Stacy Sisson |
-| 162 | 585 | Happy Tetriblast |
-| 163 | 585 | Annie Marie |
+| 162 | 585 | Annie Marie |
+| 163 | 585 | Happy Tetriblast |
 | 164 | 582 | Natasha Jones |
 | 165 | 579 | Tasha Gillespie |
 | 166 | 577 | Domo Washington |
@@ -205,8 +205,8 @@
 | 197 | 489 | Poppy Splitter |
 | 198 | 488 | Melissa Orth Hunter |
 | 199 | 485 | Dapper Snap |
-| 200 | 480 | Michael Johnson |
-| 201 | 480 | Danielle Allison |
+| 200 | 480 | Danielle Allison |
+| 201 | 480 | Michael Johnson |
 | 202 | 475 | Tessina Dewey-Mancino |
 | 203 | 473 | Rachel |
 | 204 | 471 | Mendoza Lee Christy |
@@ -284,8 +284,8 @@
 | 276 | 346 | Tamara Deherrera |
 | 277 | 345 | MsBee |
 | 278 | 344 | Roary Danner |
-| 279 | 343 | Ashley Raines |
-| 280 | 343 | Ashley Rufus Bythcez |
+| 279 | 343 | Ashley Rufus Bythcez |
+| 280 | 343 | Ashley Raines |
 | 281 | 341 | Ashley Tookes |
 | 282 | 340 | KayB |
 | 283 | 339 | Cynthia Herrmann Egland |
@@ -455,8 +455,8 @@
 | 447 | 229 | Everret Maxine |
 | 448 | 228 | Stephanie Hill |
 | 449 | 227 | Meowsa |
-| 450 | 226 | paranoid |
-| 451 | 226 | Ryan Williams |
+| 450 | 226 | Ryan Williams |
+| 451 | 226 | paranoid |
 | 452 | 226 | Jana Polk |
 | 453 | 225 | Sassy Tiler |
 | 454 | 225 | Goofy Fall |
@@ -640,10 +640,10 @@
 | 632 | 166 | Armi |
 | 633 | 166 | krazibtch |
 | 634 | 165 | Erica Anderson |
-| 635 | 164 | Jolly Brick |
-| 636 | 164 | Mindy Phelps |
-| 637 | 164 | Tenisha Semidey |
-| 638 | 164 | Lesa Bartlett |
+| 635 | 164 | Mindy Phelps |
+| 636 | 164 | Jolly Brick |
+| 637 | 164 | Lesa Bartlett |
+| 638 | 164 | Tenisha Semidey |
 | 639 | 163 | Crystal Johnson |
 | 640 | 163 | Jonathn Poindexter |
 | 641 | 163 | Chummy Rumbler |
@@ -693,9 +693,9 @@
 | 685 | 153 | Jada Cox |
 | 686 | 153 | Jessie Chung |
 | 687 | 153 | Jason-Ashley Ludlow |
-| 688 | 152 | Lisa Ann |
-| 689 | 152 | Louise Parker |
-| 690 | 152 | Christine Vosburgh |
+| 688 | 152 | Christine Vosburgh |
+| 689 | 152 | Lisa Ann |
+| 690 | 152 | Louise Parker |
 | 691 | 151 | Lisa Bard |
 | 692 | 151 | Brad Dimitroff |
 | 693 | 150 | Macaulay Logel |

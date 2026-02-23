@@ -222,8 +222,8 @@
 | 214 | 1217 | Brooks Brooks |
 | 215 | 1214 | David Cudicio-Hayden |
 | 216 | 1210 | Jane Fong |
-| 217 | 1205 | Tony Lea |
-| 218 | 1205 | Tralonda Weeks |
+| 217 | 1205 | Tralonda Weeks |
+| 218 | 1205 | Tony Lea |
 | 219 | 1202 | Brandon Armstrong |
 | 220 | 1198 | Carrie Trigg |
 | 221 | 1198 | Pacynthia Williams |
@@ -388,9 +388,9 @@
 | 380 | 799 | Joy LaJeunesse |
 | 381 | 796 | Amber Gray |
 | 382 | 793 | Heather Schelkopf |
-| 383 | 793 | Ashley Dow |
+| 383 | 793 | Jaycee |
 | 384 | 793 | Arlene Joy Belicina |
-| 385 | 793 | Jaycee |
+| 385 | 793 | Ashley Dow |
 | 386 | 790 | Brenda Pierpoint |
 | 387 | 788 | Erika Densmore |
 | 388 | 787 | Tiara Elizabeth Baker |
@@ -452,7 +452,7 @@
 | 444 | 711 | Narutofreak13 |
 | 445 | 709 | Marie Walker |
 | 446 | 708 | Jelly |
-| 447 | 708 | Mama T |
+| 447 | 707 | Mama T |
 | 448 | 706 | Kimberly Randesi |
 | 449 | 704 | Montez Mancil |
 | 450 | 703 | Ann Matzkanin |
@@ -462,8 +462,8 @@
 | 454 | 699 | Dannette Goldberg-Richards |
 | 455 | 698 | Joce Lynn |
 | 456 | 697 | Ashle Scranton |
-| 457 | 695 | Irene Jones |
-| 458 | 695 | Lakeysha Dortch |
+| 457 | 695 | Lakeysha Dortch |
+| 458 | 695 | Irene Jones |
 | 459 | 693 | Ryan Stadel |
 | 460 | 692 | Shaun Church |
 | 461 | 691 | Poldo Ilano |
@@ -910,7 +910,7 @@
 | 902 | 389 | Donald Nowland |
 | 903 | 388 | Tamara Bailey |
 | 904 | 388 | Alice Ball |
-| 905 | 388 | Kristina Marie Hanna |
+| 905 | 387 | David Holliday |
 | 906 | 387 | Bryan Werleman |
 | 907 | 386 | Yasmin Guzman |
 | 908 | 385 | Jay Levy |
