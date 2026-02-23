@@ -100,8 +100,8 @@
 | 92 | 1102 | Michelle Becker |
 | 93 | 1101 | Stephanie Rice |
 | 94 | 1094 | JerseyJess |
-| 95 | 1056 | Ebony West-Cundiff |
-| 96 | 1056 | joclisa |
+| 95 | 1056 | joclisa |
+| 96 | 1056 | Ebony West-Cundiff |
 | 97 | 1050 | Sherika C. McDaniels |
 | 98 | 1044 | Leah Barnett |
 | 99 | 1038 | Mandy Smith Oldham |
@@ -257,8 +257,8 @@
 | 249 | 481 | Salena Whitlock |
 | 250 | 480 | Danielle Allison |
 | 251 | 480 | Isabel Ocasio |
-| 252 | 471 | Rebecca Bailey |
-| 253 | 471 | Gray Hicks |
+| 252 | 471 | Gray Hicks |
+| 253 | 471 | Rebecca Bailey |
 | 254 | 471 | Mendoza Lee Christy |
 | 255 | 470 | Rebecca Funderburk Kirby |
 | 256 | 470 | Marci Mize Fandrich |
@@ -301,8 +301,8 @@
 | 293 | 414 | RickyG |
 | 294 | 412 | Jojo M |
 | 295 | 411 | Megan Rathmanner |
-| 296 | 410 | Brian Battjes |
-| 297 | 410 | Duane Bright |
+| 296 | 410 | Duane Bright |
+| 297 | 410 | Brian Battjes |
 | 298 | 408 | Tiffany Ford |
 | 299 | 408 | Ashley Muncey |
 | 300 | 406 | Kristal C Lee |
@@ -429,8 +429,8 @@
 | 421 | 302 | Jessica |
 | 422 | 302 | Willow |
 | 423 | 301 | Giggly Brickroll |
-| 424 | 301 | Betty Rosas |
-| 425 | 301 | Michael Lucado |
+| 424 | 301 | Michael Lucado |
+| 425 | 301 | Betty Rosas |
 | 426 | 299 | Hasty Gridpiece |
 | 427 | 299 | Antonia Russell |
 | 428 | 299 | Angie Harper |
@@ -467,8 +467,8 @@
 | 459 | 280 | Nelma |
 | 460 | 280 | Linda Draper |
 | 461 | 279 | Tosha Griffey |
-| 462 | 278 | Hasty Pop |
-| 463 | 278 | Rufus Lincoln |
+| 462 | 278 | Rufus Lincoln |
+| 463 | 278 | Hasty Pop |
 | 464 | 278 | IamJust Neyamijah Washington Sr. |
 | 465 | 277 | Jessica Lynn French |
 | 466 | 277 | Joe-Maggie Mathews |
@@ -529,8 +529,8 @@
 | 521 | 255 | Mariah Williams |
 | 522 | 255 | LaNette Morgan |
 | 523 | 255 | Jolly Dashpiece |
-| 524 | 254 | Landycandii |
-| 525 | 254 | Katheline Lazo Luizaga |
+| 524 | 254 | Katheline Lazo Luizaga |
+| 525 | 254 | Landycandii |
 | 526 | 254 | atomictrin |
 | 527 | 253 | Kristen McAlpine |
 | 528 | 253 | Boldy Blocker |
@@ -547,11 +547,11 @@
 | 539 | 250 | Joshua David Huie |
 | 540 | 248 | Smiley Zone |
 | 541 | 247 | Carrie Resler |
-| 542 | 245 | Fredd Thomas |
-| 543 | 245 | Latoya Mayne |
+| 542 | 245 | Latoya Mayne |
+| 543 | 245 | Fredd Thomas |
 | 544 | 245 | Peachy Tower |
-| 545 | 244 | Beezwax |
-| 546 | 244 | TLM |
+| 545 | 244 | TLM |
+| 546 | 244 | Beezwax |
 | 547 | 244 | Amanda Fulton |
 | 548 | 243 | Kristy Manley |
 | 549 | 243 | Nicholas Roddy |

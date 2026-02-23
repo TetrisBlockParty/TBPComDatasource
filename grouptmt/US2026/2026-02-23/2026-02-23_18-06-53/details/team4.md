@@ -113,8 +113,8 @@
 | 105 | 673 | Jacqueline Helm |
 | 106 | 667 | Amy Suckarieh |
 | 107 | 659 | Jamie Gustafson |
-| 108 | 658 | Girl |
-| 109 | 658 | Zippy Gridlock |
+| 108 | 658 | Zippy Gridlock |
+| 109 | 658 | Girl |
 | 110 | 657 | Lori Walker |
 | 111 | 652 | Leslie Nicole |
 | 112 | 647 | KM8 |
@@ -186,8 +186,8 @@
 | 178 | 435 | Kristina Black |
 | 179 | 431 | Courtney Cicoria |
 | 180 | 427 | Steph Marie |
-| 181 | 426 | Sharyn Lemire |
-| 182 | 426 | 🥔🥔 Spudz |
+| 181 | 426 | 🥔🥔 Spudz |
+| 182 | 426 | Sharyn Lemire |
 | 183 | 426 | Rebecca Morris |
 | 184 | 425 | Damn Libra |
 | 185 | 424 | Keshia Lyons |
@@ -199,8 +199,8 @@
 | 191 | 418 | Lush Linkfall |
 | 192 | 417 | Amanda Pauldo-Ivy |
 | 193 | 415 | Berklie Apedaile |
-| 194 | 413 | Circuit8 |
-| 195 | 413 | John Brunetti |
+| 194 | 413 | John Brunetti |
+| 195 | 413 | Circuit8 |
 | 196 | 411 | Autumn Kumzi |
 | 197 | 410 | Oscar Alberto Perez |
 | 198 | 408 | April Rondinone |
@@ -402,8 +402,8 @@
 | 394 | 222 | Badatvs |
 | 395 | 222 | Brandi Durig |
 | 396 | 221 | Rheanda Weaskus |
-| 397 | 220 | Jessica Petersen |
-| 398 | 220 | Dustin York |
+| 397 | 220 | Dustin York |
+| 398 | 220 | Jessica Petersen |
 | 399 | 220 | Ziggy |
 | 400 | 220 | Jumpy Zonepiece |
 | 401 | 219 | Shane Vick |
@@ -434,8 +434,8 @@
 | 426 | 209 | PennyCandee |
 | 427 | 209 | Matthew Pate |
 | 428 | 208 | Wacky Blockclear |
-| 429 | 207 | Jessica Wells |
-| 430 | 207 | Sam Middleton |
+| 429 | 207 | Sam Middleton |
+| 430 | 207 | Jessica Wells |
 | 431 | 206 | The Murphy |
 | 432 | 206 | Sticherella |
 | 433 | 206 | Lilya Troutman |
@@ -592,11 +592,11 @@
 | 584 | 147 | Hasty Fitzone |
 | 585 | 146 | Groovy Gridlock |
 | 586 | 146 | @ |
-| 587 | 146 | Groovy Gridlock |
-| 588 | 145 | Austin Trent Weaver |
-| 589 | 145 | No Strings Attached Ra |
-| 590 | 144 | Bumpy Morris |
-| 591 | 144 | Zach Kerbs |
+| 587 | 146 | Oleg Zakharskiy |
+| 588 | 145 | No Strings Attached Ra |
+| 589 | 145 | Austin Trent Weaver |
+| 590 | 144 | Zach Kerbs |
+| 591 | 144 | Bumpy Morris |
 | 592 | 144 | KyngKliff |
 | 593 | 143 | Sherri |
 | 594 | 142 | Hyper Matchclear |
@@ -613,8 +613,8 @@
 | 605 | 140 | Cheery Lift |
 | 606 | 140 | Thomas Hettenhaus |
 | 607 | 139 | Groovy Shiftspin |
-| 608 | 139 | Ann G. Carrillo |
-| 609 | 139 | Bussy Bay |
+| 608 | 139 | Bussy Bay |
+| 609 | 139 | Ann G. Carrillo |
 | 610 | 138 | Tammy Lewis |
 | 611 | 137 | Heather Mamabear Pezze |
 | 612 | 137 | Brianna Walker |
@@ -1740,7 +1740,7 @@
 | 1732 | 11 | Rashel |
 | 1733 | 11 | Jumpy Blockline |
 | 1734 | 10 | p3ttyboop |
-| 1735 | 10 | Vicky Vallejo |
+| 1735 | 10 | kash |
 | 1736 | 10 | Tamela Harvey |
 | 1737 | 10 | Vicky Vallejo |
 | 1738 | 10 | Fawn Gibbs |

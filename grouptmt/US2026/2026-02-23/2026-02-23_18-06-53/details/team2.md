@@ -256,8 +256,8 @@
 | 248 | 1277 | Snappy Matchbuilder |
 | 249 | 1259 | Foxxo |
 | 250 | 1258 | Brandon Armstrong |
-| 251 | 1257 | Megan Ferguson Leone |
-| 252 | 1257 | Megan Garrick |
+| 251 | 1257 | Megan Garrick |
+| 252 | 1257 | Megan Ferguson Leone |
 | 253 | 1256 | Missie Lawson Gebhardt |
 | 254 | 1253 | Roman Lavochnik |
 | 255 | 1251 | Denisha Dawkins |
@@ -281,19 +281,19 @@
 | 273 | 1193 | Peppy Zone |
 | 274 | 1184 | Jamie Otero |
 | 275 | 1179 | Georgia Triblett |
-| 276 | 1178 | Kevin Sees |
-| 277 | 1178 | Dimitra Zazara |
+| 276 | 1178 | Dimitra Zazara |
+| 277 | 1178 | Kevin Sees |
 | 278 | 1173 | Shannon Joslin |
-| 279 | 1172 | Lakeysha Dortch |
-| 280 | 1172 | Stacey Clement |
+| 279 | 1172 | Stacey Clement |
+| 280 | 1172 | Lakeysha Dortch |
 | 281 | 1171 | Loretta Brewer-Gage |
 | 282 | 1165 | Michelle Lee |
 | 283 | 1165 | Christina Wsn |
 | 284 | 1163 | Erika Densmore |
 | 285 | 1158 | Sarah Freitas |
 | 286 | 1158 | Brittany Clark |
-| 287 | 1156 | Alezandra Smith |
-| 288 | 1156 | Arkei Luster |
+| 287 | 1156 | Arkei Luster |
+| 288 | 1156 | Alezandra Smith |
 | 289 | 1149 | Prado |
 | 290 | 1146 | Cassie Mercer |
 | 291 | 1142 | Sheniya Spurgeon |
@@ -731,8 +731,8 @@
 | 723 | 565 | Shindee |
 | 724 | 562 | Smiley Strike |
 | 725 | 560 | Crystal Heller Gonzalez |
-| 726 | 559 | Kevin Luu |
-| 727 | 559 | Alexx Anaya |
+| 726 | 559 | Alexx Anaya |
+| 727 | 559 | Kevin Luu |
 | 728 | 558 | NanDa Cruzan VI |
 | 729 | 556 | Joice Hansen |
 | 730 | 556 | Rhonda Petro |
