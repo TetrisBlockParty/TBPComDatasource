@@ -224,13 +224,13 @@
 | 216 | 576 | Nicole Flippo |
 | 217 | 571 | Salena Whitlock |
 | 218 | 570 | Twisty Brick LT |
-| 219 | 569 | Michael Johnson |
-| 220 | 569 | Juliana Dottore |
+| 219 | 569 | Juliana Dottore |
+| 220 | 569 | Michael Johnson |
 | 221 | 568 | Rachael McClain Owens |
 | 222 | 567 | FuzzyNavel |
 | 223 | 566 | LaTanya GeminiondaRise Johnson |
-| 224 | 564 | Poppy Splitter |
-| 225 | 564 | Christine Trester |
+| 224 | 564 | Christine Trester |
+| 225 | 564 | Poppy Splitter |
 | 226 | 563 | Fallorina Susana |
 | 227 | 562 | Dave Herzog |
 | 228 | 561 | Silly Twist |
@@ -274,14 +274,14 @@
 | 266 | 497 | Dapper Snap |
 | 267 | 494 | MCV |
 | 268 | 491 | Ammmmmmy |
-| 269 | 490 | PrncssPJ |
-| 270 | 490 | Marci Mize Fandrich |
+| 269 | 490 | Marci Mize Fandrich |
+| 270 | 490 | PrncssPJ |
 | 271 | 486 | Eileen Brady Thurber |
 | 272 | 480 | Isabel Ocasio |
 | 273 | 477 | Hyper Matchzone |
 | 274 | 476 | Shunta Jacobs |
-| 275 | 475 | Stephanie Bradley |
-| 276 | 475 | Rebecca Bailey |
+| 275 | 475 | Rebecca Bailey |
+| 276 | 475 | Stephanie Bradley |
 | 277 | 473 | Rebecca Funderburk Kirby |
 | 278 | 471 | Mendoza Lee Christy |
 | 279 | 471 | Alexmac |
@@ -391,8 +391,8 @@
 | 383 | 349 | Donna |
 | 384 | 348 | Ashley Raines |
 | 385 | 346 | AlsoJess |
-| 386 | 345 | victory |
-| 387 | 345 | Misha Sanders |
+| 386 | 345 | Misha Sanders |
+| 387 | 345 | victory |
 | 388 | 344 | Beaudie Stroebel |
 | 389 | 343 | Ava Petito |
 | 390 | 342 | Cynthia Herrmann Egland |
@@ -428,8 +428,8 @@
 | 420 | 323 | Mary Giorgenti |
 | 421 | 323 | Jess Bissett |
 | 422 | 322 | Mindy Phelps |
-| 423 | 322 | Nena Somerville Kelly |
-| 424 | 322 | Beth Smith |
+| 423 | 322 | Beth Smith |
+| 424 | 322 | Nena Somerville Kelly |
 | 425 | 321 | Jl |
 | 426 | 320 | Kevin Russell |
 | 427 | 320 | Or Reznitsky |
@@ -508,8 +508,8 @@
 | 500 | 280 | Jessica Christian |
 | 501 | 280 | Dirtgirl27 |
 | 502 | 279 | Tosha Griffey |
-| 503 | 278 | IamJust Neyamijah Washington Sr. |
-| 504 | 278 | Nerdy Lifter |
+| 503 | 278 | Nerdy Lifter |
+| 504 | 278 | IamJust Neyamijah Washington Sr. |
 | 505 | 278 | Rufus Lincoln |
 | 506 | 277 | Christine Foley |
 | 507 | 277 | Joe-Maggie Mathews |

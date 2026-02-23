@@ -257,8 +257,8 @@
 | 249 | 1337 | Carrie Trigg |
 | 250 | 1336 | Kristin Ruest |
 | 251 | 1333 | Peppy Zone |
-| 252 | 1330 | Ann Knutson Anderson |
-| 253 | 1330 | Cassie Mercer |
+| 252 | 1330 | Cassie Mercer |
+| 253 | 1330 | Ann Knutson Anderson |
 | 254 | 1327 | Isabela Shaw |
 | 255 | 1325 | Teddi Notyalc |
 | 256 | 1324 | Tralonda Weeks |
@@ -711,8 +711,8 @@
 | 703 | 617 | Jason H Baker |
 | 704 | 617 | Biggest thing |
 | 705 | 617 | Kacee Conrad Bock |
-| 706 | 616 | Polly Pritchard Chesler |
-| 707 | 616 | Jennifer Coe |
+| 706 | 616 | Jennifer Coe |
+| 707 | 616 | Polly Pritchard Chesler |
 | 708 | 615 | Julio A Laracuente |
 | 709 | 615 | Tash Bell |
 | 710 | 613 | Harrison Littrell |
