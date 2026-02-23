@@ -177,8 +177,8 @@
 | 169 | 316 | Meagan Nicole |
 | 170 | 314 | Andy Cabral |
 | 171 | 311 | A5! |
-| 172 | 307 | Girl |
-| 173 | 307 | Bio Nelly |
+| 172 | 307 | Bio Nelly |
+| 173 | 307 | Girl |
 | 174 | 306 | Lindsey Gonzalez |
 | 175 | 304 | Chaz Duncan |
 | 176 | 303 | shark tato |
@@ -205,8 +205,8 @@
 | 197 | 281 | Kim Klutz Olson |
 | 198 | 277 | Mary Ann Pabukis |
 | 199 | 277 | Zesty Twistbuilder |
-| 200 | 276 | Joeliecea Cobb |
-| 201 | 276 | Matt Dell'Olio |
+| 200 | 276 | Matt Dell'Olio |
+| 201 | 276 | Joeliecea Cobb |
 | 202 | 273 | Casey Grabner |
 | 203 | 272 | Dennis Bradley |
 | 204 | 272 | Alan George LaRage |
@@ -259,8 +259,8 @@
 | 251 | 221 | Rheanda Weaskus |
 | 252 | 221 | Chair |
 | 253 | 220 | Joanna |
-| 254 | 219 | Lori |
-| 255 | 219 | Malakai Darien Fox |
+| 254 | 219 | Malakai Darien Fox |
+| 255 | 219 | Lori |
 | 256 | 219 | Christine Therrien |
 | 257 | 216 | Chance Strickland |
 | 258 | 216 | ZeeZee |
@@ -293,11 +293,11 @@
 | 285 | 198 | Calvin Dennis |
 | 286 | 197 | Gilles Lanctot |
 | 287 | 195 | 中山成巳 |
-| 288 | 194 | Brittany Marsh |
-| 289 | 194 | Zany Twisterfit |
+| 288 | 194 | Zany Twisterfit |
+| 289 | 194 | Brittany Marsh |
 | 290 | 193 | Chris Alexinas |
-| 291 | 192 | Andrew Dang |
-| 292 | 192 | Jackie Marie |
+| 291 | 192 | Jackie Marie |
+| 292 | 192 | Andrew Dang |
 | 293 | 191 | Earnest Thompson |
 | 294 | 191 | Norman Klick |
 | 295 | 190 | Amanda Christine |
@@ -412,7 +412,7 @@
 | 404 | 148 | Janita Parrish |
 | 405 | 147 | Ashlee Carnes |
 | 406 | 147 | Maureen Flanigan |
-| 407 | 147 | Ashlee Carnes |
+| 407 | 147 | Jay28 |
 | 408 | 146 | Brave Spinbuilder |
 | 409 | 145 | Austin Trent Weaver |
 | 410 | 145 | Glitzy Crasher |

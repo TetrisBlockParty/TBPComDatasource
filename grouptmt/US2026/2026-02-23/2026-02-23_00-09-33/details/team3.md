@@ -80,8 +80,8 @@
 | 72 | 970 | Rosalie Call Kehlenbeck |
 | 73 | 964 | Jennifer |
 | 74 | 945 | Christian A. Pollard |
-| 75 | 926 | Judi Dobson |
-| 76 | 926 | Angela M. Fletcher |
+| 75 | 926 | Angela M. Fletcher |
+| 76 | 926 | Judi Dobson |
 | 77 | 924 | Shonna Roberts |
 | 78 | 923 | Christine Filson |
 | 79 | 910 | Jay Horn |
@@ -356,7 +356,7 @@
 | 348 | 251 | Naur |
 | 349 | 250 | Eric Caccavale |
 | 350 | 250 | Juliana Dottore |
-| 351 | 250 | Eric Caccavale |
+| 351 | 250 | Tosha Griffey |
 | 352 | 249 | Willow |
 | 353 | 247 | Daring Builder |
 | 354 | 247 | Jessica |
@@ -414,8 +414,8 @@
 | 406 | 218 | Tina Smith Roy |
 | 407 | 217 | Goofy Fall |
 | 408 | 217 | Jul |
-| 409 | 216 | Trice Thomas |
-| 410 | 216 | Breanna Marsden |
+| 409 | 216 | Breanna Marsden |
+| 410 | 216 | Trice Thomas |
 | 411 | 215 | Saucy Buildout |
 | 412 | 214 | Amy Fuller Heaton |
 | 413 | 213 | Romeo |

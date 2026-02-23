@@ -126,8 +126,8 @@
 | 118 | 1676 | Nett |
 | 119 | 1652 | Kristopher Miller |
 | 120 | 1644 | Luna |
-| 121 | 1639 | Karen Martini-Stapleton |
-| 122 | 1639 | Jessie McDougald |
+| 121 | 1639 | Jessie McDougald |
+| 122 | 1639 | Karen Martini-Stapleton |
 | 123 | 1623 | Mr. Street Stack |
 | 124 | 1606 | Janel Turley-Garner |
 | 125 | 1603 | Gabby Jenner |
@@ -381,14 +381,14 @@
 | 373 | 737 | Jeremy Parodi |
 | 374 | 737 | Ginger |
 | 375 | 734 | Deborah Miller |
-| 376 | 728 | Allan Wayne Lamia |
-| 377 | 728 | Dylan Thomason |
+| 376 | 728 | Dylan Thomason |
+| 377 | 728 | Allan Wayne Lamia |
 | 378 | 728 | Charvi' Carter |
 | 379 | 728 | Tom Riefer |
 | 380 | 725 | Vonceial Boone |
 | 381 | 724 | goofinoff |
-| 382 | 724 | Dreamy Blast |
-| 383 | 724 | Melissa Holsinger |
+| 382 | 724 | Melissa Holsinger |
+| 383 | 724 | Dreamy Blast |
 | 384 | 722 | Arlene Joy Belicina |
 | 385 | 719 | Melissa Penelope Ann Dodge |
 | 386 | 715 | Denise Rickman |
@@ -421,8 +421,8 @@
 | 413 | 677 | Amanda Woodruff |
 | 414 | 677 | Ellie Jonas |
 | 415 | 676 | Roseanna Peloso |
-| 416 | 674 | Lonne Emade |
-| 417 | 674 | Connie Jimenez |
+| 416 | 674 | Connie Jimenez |
+| 417 | 674 | Lonne Emade |
 | 418 | 665 | Prette Qui |
 | 419 | 665 | Taryece Gause |
 | 420 | 664 | Kayla |
@@ -503,8 +503,8 @@
 | 495 | 569 | Sparkles |
 | 496 | 567 | Snappy Matchbuilder |
 | 497 | 566 | Leah Keesling |
-| 498 | 565 | Blacc Blac |
-| 499 | 565 | Ann Knutson Anderson |
+| 498 | 565 | Ann Knutson Anderson |
+| 499 | 565 | Blacc Blac |
 | 500 | 564 | Koa N Sharon Chen |
 | 501 | 563 | Sarah Massey |
 | 502 | 563 | Frisky Clearpiece |
@@ -543,8 +543,8 @@
 | 535 | 527 | Ryan Gunther |
 | 536 | 527 | Heather M Purcell |
 | 537 | 525 | Jessica S Flecha |
-| 538 | 524 | James Louie |
-| 539 | 524 | Wuntayk |
+| 538 | 524 | Wuntayk |
+| 539 | 524 | James Louie |
 | 540 | 523 | Matt Johnson |
 | 541 | 522 | Bubbly Snapfit |
 | 542 | 522 | Leah |
@@ -780,14 +780,14 @@
 | 772 | 387 | Veronics |
 | 773 | 386 | Loony Basepiece |
 | 774 | 385 | Tansaria Couch-Butler |
-| 775 | 385 | Lola C Davis |
-| 776 | 385 | Kirsten Marie Lomupo |
-| 777 | 385 | Jennifer Leigh |
-| 778 | 385 | Cranky Tower |
+| 775 | 385 | Kirsten Marie Lomupo |
+| 776 | 385 | Lola C Davis |
+| 777 | 385 | Cranky Tower |
+| 778 | 385 | Jennifer Leigh |
 | 779 | 384 | Party d |
 | 780 | 384 | Lawanda Forbes |
-| 781 | 383 | Jane Crew |
-| 782 | 383 | Savannah Alexander |
+| 781 | 383 | Savannah Alexander |
+| 782 | 383 | Jane Crew |
 | 783 | 382 | Amber Gray |
 | 784 | 382 | David Holliday |
 | 785 | 382 | Lively Edgepiece |
@@ -913,14 +913,14 @@
 | 905 | 336 | Gina Gina |
 | 906 | 336 | Colton Saupe |
 | 907 | 335 | Emoniee Sa'niaya |
-| 908 | 335 | Darla Silva |
-| 909 | 335 | Brooke Leigh Strube |
+| 908 | 335 | Brooke Leigh Strube |
+| 909 | 335 | Darla Silva |
 | 910 | 334 | Melissa James |
 | 911 | 334 | Cool Grabber |
-| 912 | 333 | Woodys Glass |
-| 913 | 333 | Min |
-| 914 | 333 | Wes Acton |
-| 915 | 333 | Shyne Sun |
+| 912 | 333 | Min |
+| 913 | 333 | Woodys Glass |
+| 914 | 333 | Shyne Sun |
+| 915 | 333 | Wes Acton |
 | 916 | 333 | Abby Klaski |
 | 917 | 333 | Snippy Block |
 | 918 | 333 | Nikki Nikki |

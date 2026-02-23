@@ -26,8 +26,8 @@
 | 18 | 1408 | Mara Hilker |
 | 19 | 1234 | Jennifer Cates |
 | 20 | 1215 | LaQuetta Faith Hines |
-| 21 | 1191 | Roger Aschbrenner |
-| 22 | 1191 | Nerdy Linkblock |
+| 21 | 1191 | Nerdy Linkblock |
+| 22 | 1191 | Roger Aschbrenner |
 | 23 | 1177 | Carolyn Smith |
 | 24 | 1145 | Tyler Alcock |
 | 25 | 1136 | Rahna Underwood |
@@ -85,8 +85,8 @@
 | 77 | 552 | Aaron Garnett |
 | 78 | 551 | Greg Hart |
 | 79 | 535 | Denice Dee |
-| 80 | 534 | Loony Fitzone |
-| 81 | 534 | Cynthia Bradley |
+| 80 | 534 | Cynthia Bradley |
+| 81 | 534 | Loony Fitzone |
 | 82 | 524 | Erin Hodges Plumb |
 | 83 | 522 | Robert Benito |
 | 84 | 519 | Ryan Lunnin |
@@ -143,8 +143,8 @@
 | 135 | 376 | lil mickey |
 | 136 | 376 | Brian Richardsson |
 | 137 | 368 | Death |
-| 138 | 364 | Serina Marie |
-| 139 | 364 | Shauna Loe |
+| 138 | 364 | Shauna Loe |
+| 139 | 364 | Serina Marie |
 | 140 | 363 | Sharon Reynolds |
 | 141 | 361 | Tanya Carpenter-Reynolds |
 | 142 | 360 | Wisa |
@@ -164,8 +164,8 @@
 | 156 | 333 | GATOR |
 | 157 | 332 | Lehrin Maria |
 | 158 | 325 | Dizzy Party |
-| 159 | 324 | Rat666 |
-| 160 | 324 | Ananda Mendez |
+| 159 | 324 | Ananda Mendez |
+| 160 | 324 | Rat666 |
 | 161 | 322 | Chelsea Dahlquist |
 | 162 | 318 | Constance Risner |
 | 163 | 318 | Virginia Gray Floyd |
@@ -192,8 +192,8 @@
 | 184 | 289 | Jerry Danowski |
 | 185 | 287 | Witty Builderfit |
 | 186 | 287 | Angela Renea Lester |
-| 187 | 286 | Carrie Smith |
-| 188 | 286 | BadG52 |
+| 187 | 286 | BadG52 |
+| 188 | 286 | Carrie Smith |
 | 189 | 283 | Franswa |
 | 190 | 282 | Timothy Dew |
 | 191 | 282 | Sassy Builderline |
@@ -296,8 +296,8 @@
 | 288 | 203 | Andrew Boone |
 | 289 | 203 | Spunky Builderpiece |
 | 290 | 202 | Amanda Holibaugh |
-| 291 | 201 | Beau Galvan |
-| 292 | 201 | Colleen Wise |
+| 291 | 201 | Colleen Wise |
+| 292 | 201 | Beau Galvan |
 | 293 | 200 | Silly Align |
 | 294 | 199 | Christina Norman |
 | 295 | 198 | Happy Snapbuild |
@@ -512,9 +512,9 @@
 | 504 | 121 | Amber Nixon |
 | 505 | 120 | Melissa Ann Macko |
 | 506 | 119 | Edgar Algiere |
-| 507 | 118 | Mighty Shatterfit |
-| 508 | 118 | Lisa Marie |
-| 509 | 118 | Jade |
+| 507 | 118 | Lisa Marie |
+| 508 | 118 | Jade |
+| 509 | 118 | Mighty Shatterfit |
 | 510 | 118 | Kerry Lee Powell |
 | 511 | 117 | Gremb |
 | 512 | 116 | Peppy Columnbuilder |
