@@ -66,8 +66,8 @@
 | 58 | 864 | Shelly Chandler |
 | 59 | 863 | Pee |
 | 60 | 859 | TeeJ |
-| 61 | 846 | Lucille Truesdale |
-| 62 | 846 | Christine Marie |
+| 61 | 846 | Christine Marie |
+| 62 | 846 | Lucille Truesdale |
 | 63 | 834 | quicksand420 |
 | 64 | 807 | Amelpss |
 | 65 | 807 | Rachel Anne |
@@ -250,8 +250,8 @@
 | 242 | 290 | Jared Gutwein |
 | 243 | 289 | Juls |
 | 244 | 288 | Zesty Twistbuilder |
-| 245 | 288 | Brittney Orengo |
-| 246 | 288 | Adam Stephanie Parker |
+| 245 | 288 | Adam Stephanie Parker |
+| 246 | 288 | Brittney Orengo |
 | 247 | 285 | 030Synner |
 | 248 | 284 | Matt Dell'Olio |
 | 249 | 282 | Kim Klutz Olson |
