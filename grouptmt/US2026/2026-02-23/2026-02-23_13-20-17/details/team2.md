@@ -166,8 +166,8 @@
 | 158 | 1644 | Speedy Spinblock |
 | 159 | 1640 | Scott Treadway |
 | 160 | 1639 | Jessie McDougald |
-| 161 | 1629 | Rickey Johnson |
-| 162 | 1629 | Mari Ac |
+| 161 | 1629 | Mari Ac |
+| 162 | 1629 | Rickey Johnson |
 | 163 | 1625 | Cambrie Schultz |
 | 164 | 1613 | blackq |
 | 165 | 1605 | Christi Hulet |
@@ -359,8 +359,8 @@
 | 351 | 926 | Deborah Miller |
 | 352 | 919 | Isaac Trappiel IV |
 | 353 | 918 | Amber Brion |
-| 354 | 917 | Jackie Burnett |
-| 355 | 917 | Nashu |
+| 354 | 917 | Nashu |
+| 355 | 917 | Jackie Burnett |
 | 356 | 916 | Butta |
 | 357 | 915 | Kelly Trent |
 | 358 | 914 | Shuany Arias |
@@ -368,8 +368,8 @@
 | 360 | 910 | Ashley Dow |
 | 361 | 907 | Gene Mills |
 | 362 | 904 | John Bednarik |
-| 363 | 903 | Eric Castaneda |
-| 364 | 903 | Giggy Blocker |
+| 363 | 903 | Giggy Blocker |
+| 364 | 903 | Eric Castaneda |
 | 365 | 902 | Diallo Sparkman |
 | 366 | 901 | Kevin Sees |
 | 367 | 899 | Chevy |
@@ -427,8 +427,8 @@
 | 419 | 804 | Sarah DeHart |
 | 420 | 804 | Becca Coronado |
 | 421 | 803 | Tiara Elizabeth Baker |
-| 422 | 802 | Jessicah Myers |
-| 423 | 802 | Leslie Ann Carter |
+| 422 | 802 | Leslie Ann Carter |
+| 423 | 802 | Jessicah Myers |
 | 424 | 801 | Diana Fitzwater |
 | 425 | 801 | Gold Rose |
 | 426 | 799 | Kenny Alvarado |
@@ -463,8 +463,8 @@
 | 455 | 760 | Ashley Guernsey-Martin |
 | 456 | 760 | Cheech Dta |
 | 457 | 760 | Allan Wayne Lamia |
-| 458 | 758 | Stephanie Neuburger |
-| 459 | 758 | Quirky Twistline |
+| 458 | 758 | Quirky Twistline |
+| 459 | 758 | Stephanie Neuburger |
 | 460 | 755 | Taryece Gause |
 | 461 | 754 | tejas25 |
 | 462 | 753 | Alex Dungo Hoang |
@@ -660,11 +660,11 @@
 | 652 | 570 | Adam Simmons |
 | 653 | 569 | Sparkles |
 | 654 | 566 | Lindsey Leigh |
-| 655 | 566 | SwampRebel |
-| 656 | 566 | Tina Marie |
+| 655 | 566 | Tina Marie |
+| 656 | 566 | SwampRebel |
 | 657 | 564 | Stacey Tranchida |
-| 658 | 563 | Nat |
-| 659 | 563 | Frisky Clearpiece |
+| 658 | 563 | Frisky Clearpiece |
+| 659 | 563 | Nat |
 | 660 | 559 | Kelli Wells |
 | 661 | 559 | Alexx Anaya |
 | 662 | 558 | Lee Harper |
@@ -743,9 +743,9 @@
 | 735 | 509 | Jordan Kaiser |
 | 736 | 509 | Perky Rollfit |
 | 737 | 508 | Daphne Jordan |
-| 738 | 507 | Crystal Heller Gonzalez |
+| 738 | 507 | Funky Caster |
 | 739 | 507 | Lina Sanders |
-| 740 | 507 | Funky Caster |
+| 740 | 507 | Crystal Heller Gonzalez |
 | 741 | 506 | Epic Fitzone |
 | 742 | 506 | Cblock |
 | 743 | 505 | Paul Hinkle |

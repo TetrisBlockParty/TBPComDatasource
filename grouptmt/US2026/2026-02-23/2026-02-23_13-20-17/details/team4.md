@@ -49,8 +49,8 @@
 | 41 | 1121 | Isabel Aguilar |
 | 42 | 1100 | Landon Keith Graffeo |
 | 43 | 1085 | Kimyatta Cavin |
-| 44 | 1082 | Dawn Alexander |
-| 45 | 1082 | Dion Crommarty |
+| 44 | 1082 | Dion Crommarty |
+| 45 | 1082 | Dawn Alexander |
 | 46 | 1071 | Cherrish Duren |
 | 47 | 1065 | Koshin Abdirahman |
 | 48 | 1046 | Johnathan Martinez |
@@ -591,8 +591,8 @@
 | 583 | 128 | Raymond Roberts |
 | 584 | 128 | Lazy Glidepiece |
 | 585 | 127 | Jay You |
-| 586 | 126 | PAPatty |
-| 587 | 126 | Spicy Cascadezone |
+| 586 | 126 | Spicy Cascadezone |
+| 587 | 126 | PAPatty |
 | 588 | 125 | Kelly Adams Carnahan |
 | 589 | 125 | Christina Nabrizny |
 | 590 | 124 | Cheery Towerzone |

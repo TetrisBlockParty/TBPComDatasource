@@ -128,8 +128,8 @@
 | 120 | 477 | Tonya Beasley |
 | 121 | 475 | Sarah Somers Gray |
 | 122 | 471 | Hyper |
-| 123 | 467 | Candy Jones |
-| 124 | 467 | Constance Risner |
+| 123 | 467 | Constance Risner |
+| 124 | 467 | Candy Jones |
 | 125 | 466 | Adrian Esteban |
 | 126 | 463 | Lexuriuos Lifestlye |
 | 127 | 462 | Luciano Moreira |
@@ -139,8 +139,8 @@
 | 131 | 453 | Brandi Huntington |
 | 132 | 451 | Plucky Ziggy |
 | 133 | 450 | lil mickey |
-| 134 | 448 | Jazzy Framezone |
-| 135 | 448 | Sweet Baker |
+| 134 | 448 | Sweet Baker |
+| 135 | 448 | Jazzy Framezone |
 | 136 | 446 | SkipTheSadSauce |
 | 137 | 443 | Steve Schneider |
 | 138 | 440 | femmefatale |
@@ -239,8 +239,8 @@
 | 231 | 322 | Letson Melissa |
 | 232 | 320 | Danielle Little-Daugherty |
 | 233 | 319 | Frothy Pattern |
-| 234 | 317 | Melissa Lemmon |
-| 235 | 317 | Sarah Roberts |
+| 234 | 317 | Sarah Roberts |
+| 235 | 317 | Melissa Lemmon |
 | 236 | 316 | Sassy Builderline |
 | 237 | 316 | Reesey Enyart |
 | 238 | 315 | Mandyy Rae |
@@ -341,7 +341,7 @@
 | 333 | 233 | Melissa Bires Hussar |
 | 334 | 233 | Shiny Gridmatch |
 | 335 | 232 | Thorne Shumate |
-| 336 | 230 | Flashy Rotator |
+| 336 | 230 | Jessica Russell |
 | 337 | 230 | Panda Thagreat |
 | 338 | 230 | Layzietyme |
 | 339 | 230 | Flashy Rotator |
@@ -405,8 +405,8 @@
 | 397 | 201 | Rico Rico |
 | 398 | 201 | Tedashi |
 | 399 | 200 | Zesty Brickzone |
-| 400 | 199 | Larissa Marie Nelson |
-| 401 | 199 | Tina Englert |
+| 400 | 199 | Tina Englert |
+| 401 | 199 | Larissa Marie Nelson |
 | 402 | 198 | Marci Sanders |
 | 403 | 197 | Cool Towerzone |
 | 404 | 196 | Steph |
@@ -429,8 +429,8 @@
 | 421 | 191 | Slinky Rotater |
 | 422 | 191 | Vivienne Carter |
 | 423 | 190 | yoyoluv |
-| 424 | 189 | Dizzy Rackham |
-| 425 | 189 | BettyAnn Savo |
+| 424 | 189 | BettyAnn Savo |
+| 425 | 189 | Dizzy Rackham |
 | 426 | 188 | Brian Taylor |
 | 427 | 188 | Strig |
 | 428 | 187 | Mark Smith |
