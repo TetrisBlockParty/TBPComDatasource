@@ -66,8 +66,8 @@
 | 58 | 892 | Seth Wesson |
 | 59 | 874 | Kristen Roles Robben |
 | 60 | 858 | Michelle Nicole |
-| 61 | 850 | Andrea Dañielle Ortiz |
-| 62 | 850 | comrade fish |
+| 61 | 850 | comrade fish |
+| 62 | 850 | Andrea Dañielle Ortiz |
 | 63 | 845 | Drew Magnus |
 | 64 | 829 | Sevens4L |
 | 65 | 818 | Patrick Luckenbill |
@@ -79,8 +79,8 @@
 | 71 | 760 | Seante Bullock |
 | 72 | 759 | Jacqueline Williams |
 | 73 | 750 | Cartier |
-| 74 | 713 | Snappy Swiper |
-| 75 | 713 | Robert Benito |
+| 74 | 713 | Robert Benito |
+| 75 | 713 | Snappy Swiper |
 | 76 | 704 | Karin Gillen |
 | 77 | 703 | Angel Fowler |
 | 78 | 689 | Susanna Guerry |
@@ -147,8 +147,8 @@
 | 139 | 429 | Kristi Johnson |
 | 140 | 428 | Ly Phethmany |
 | 141 | 426 | Maria C. Hernandez |
-| 142 | 425 | Dandy Basegrid |
-| 143 | 425 | Tyler Werts |
+| 142 | 425 | Tyler Werts |
+| 143 | 425 | Dandy Basegrid |
 | 144 | 423 | ALFD |
 | 145 | 422 | Constance Risner |
 | 146 | 417 | Phu ckalldems |
@@ -256,15 +256,15 @@
 | 248 | 289 | Alenoush Karimian |
 | 249 | 288 | Bird Person |
 | 250 | 285 | Shanae Grant |
-| 251 | 284 | Sir-Franchise Drake |
-| 252 | 284 | Sam Williams |
+| 251 | 284 | Sam Williams |
+| 252 | 284 | Sir-Franchise Drake |
 | 253 | 283 | Franswa |
 | 254 | 282 | Timothy Dew |
 | 255 | 281 | Clever Cascadepiece |
 | 256 | 280 | Billie Dawn Sparks |
 | 257 | 279 | Chris Dawson |
-| 258 | 277 | Glitzy Curvebuilder |
-| 259 | 277 | Nutty Spinblock |
+| 258 | 277 | Nutty Spinblock |
+| 259 | 277 | Glitzy Curvebuilder |
 | 260 | 276 | Larry Tilton |
 | 261 | 275 | Cheeky Pop |
 | 262 | 275 | Chris65 |

@@ -27,8 +27,8 @@
 | 19 | 2840 | Chummy Shatterer |
 | 20 | 2697 | River |
 | 21 | 2387 | Susan Valentino |
-| 22 | 2353 | Tetris Master |
-| 23 | 2353 | Laura Melton |
+| 22 | 2353 | Laura Melton |
+| 23 | 2353 | Tetris Master |
 | 24 | 2319 | mjl574 |
 | 25 | 2311 | Brandon Green |
 | 26 | 2271 | Jeana Gilbert |
@@ -169,8 +169,8 @@
 | 161 | 634 | Amber Hughes |
 | 162 | 631 | Grego Daniel |
 | 163 | 630 | yoyo |
-| 164 | 621 | Cherry Parker |
-| 165 | 621 | Sashay Tapae Simpson |
+| 164 | 621 | Sashay Tapae Simpson |
+| 165 | 621 | Cherry Parker |
 | 166 | 616 | Kammy Hill |
 | 167 | 611 | Rochelle Hazelett |
 | 168 | 603 | Jone |
@@ -369,8 +369,8 @@
 | 361 | 299 | Angie Harper |
 | 362 | 299 | Antonia Russell |
 | 363 | 299 | Hasty Gridpiece |
-| 364 | 298 | Dannie Litchard |
-| 365 | 298 | Grams |
+| 364 | 298 | Grams |
+| 365 | 298 | Dannie Litchard |
 | 366 | 297 | kacihall |
 | 367 | 296 | Tracy Martin |
 | 368 | 296 | Donna |
@@ -394,8 +394,8 @@
 | 386 | 279 | Tosha Griffey |
 | 387 | 279 | Naur |
 | 388 | 278 | Rufus Lincoln |
-| 389 | 277 | Krystal Gerstberger |
-| 390 | 277 | France Vézina |
+| 389 | 277 | France Vézina |
+| 390 | 277 | Krystal Gerstberger |
 | 391 | 277 | Tipsy Zonebuilder |
 | 392 | 277 | Joe-Maggie Mathews |
 | 393 | 276 | Karent524 |

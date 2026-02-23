@@ -66,8 +66,8 @@
 | 58 | 864 | Shelly Chandler |
 | 59 | 863 | Pee |
 | 60 | 859 | TeeJ |
-| 61 | 846 | Lucille Truesdale |
-| 62 | 846 | Christine Marie |
+| 61 | 846 | Christine Marie |
+| 62 | 846 | Lucille Truesdale |
 | 63 | 834 | quicksand420 |
 | 64 | 807 | Amelpss |
 | 65 | 807 | Rachel Anne |
@@ -102,8 +102,8 @@
 | 94 | 659 | Jamie Gustafson |
 | 95 | 653 | Rica Mitchell |
 | 96 | 650 | KJ Pool |
-| 97 | 647 | KM8 |
-| 98 | 647 | Shauna Havard |
+| 97 | 647 | Shauna Havard |
+| 98 | 647 | KM8 |
 | 99 | 646 | Eric Mcgaughy |
 | 100 | 626 | Brittney Griggs |
 | 101 | 622 | Nugget |
@@ -164,8 +164,8 @@
 | 156 | 421 | Kesha Brady |
 | 157 | 418 | Marie-Pier Desjardins |
 | 158 | 418 | Lush Linkfall |
-| 159 | 417 | Steph Marie |
-| 160 | 417 | Amanda Pauldo-Ivy |
+| 159 | 417 | Amanda Pauldo-Ivy |
+| 160 | 417 | Steph Marie |
 | 161 | 414 | Swanky Fitline |
 | 162 | 414 | Nope Young |
 | 163 | 413 | Circuit8 |
@@ -241,12 +241,12 @@
 | 233 | 300 | Dana Scott |
 | 234 | 295 | Keshia Lyons |
 | 235 | 294 | Calvin Cannon |
-| 236 | 292 | Epic Curvetile |
-| 237 | 292 | Angel Raya |
+| 236 | 292 | Angel Raya |
+| 237 | 292 | Epic Curvetile |
 | 238 | 291 | Dizzy Matchzone |
 | 239 | 291 | Mimi |
-| 240 | 290 | Plucky Patternblock |
-| 241 | 290 | Rebecca Morris |
+| 240 | 290 | Rebecca Morris |
+| 241 | 290 | Plucky Patternblock |
 | 242 | 290 | Jared Gutwein |
 | 243 | 289 | Juls |
 | 244 | 288 | Zesty Twistbuilder |
