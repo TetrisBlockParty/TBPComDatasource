@@ -117,8 +117,8 @@
 | 109 | 831 | Angeline Joseph |
 | 110 | 830 | Stephanie Allmon |
 | 111 | 826 | Shane Wilson Jr. |
-| 112 | 816 | Brenda Lee Vander Molen |
-| 113 | 816 | Jesse Olive |
+| 112 | 816 | Jesse Olive |
+| 113 | 816 | Brenda Lee Vander Molen |
 | 114 | 800 | Lauren Girouard |
 | 115 | 799 | Dolores Falco |
 | 116 | 769 | Kristie |
@@ -166,8 +166,8 @@
 | 158 | 591 | Michael Nowogorski |
 | 159 | 588 | Justin Ritter |
 | 160 | 587 | Louise Stacy Sisson |
-| 161 | 585 | Annie Marie |
-| 162 | 585 | Happy Tetriblast |
+| 161 | 585 | Happy Tetriblast |
+| 162 | 585 | Annie Marie |
 | 163 | 582 | Natasha Jones |
 | 164 | 579 | Tasha Gillespie |
 | 165 | 577 | Domo Washington |
@@ -184,8 +184,8 @@
 | 176 | 541 | Tasha Schriewer |
 | 177 | 540 | Shawn Miller |
 | 178 | 535 | Jone |
-| 179 | 531 | Sarah Cowan Burgos |
-| 180 | 531 | Chauntee Alfrey-Cardinale |
+| 179 | 531 | Chauntee Alfrey-Cardinale |
+| 180 | 531 | Sarah Cowan Burgos |
 | 181 | 528 | Silly Twist |
 | 182 | 524 | Bmo |
 | 183 | 519 | rnr junky |
@@ -195,8 +195,8 @@
 | 187 | 507 | Jim Mathews |
 | 188 | 502 | Snappy Balancer |
 | 189 | 500 | Sherika C. McDaniels |
-| 190 | 496 | Loopy Fallmatch |
-| 191 | 496 | Makelini Mausia |
+| 190 | 496 | Makelini Mausia |
+| 191 | 496 | Loopy Fallmatch |
 | 192 | 494 | FuzzyNavel |
 | 193 | 489 | Terry Jo Jones |
 | 194 | 489 | Poppy Splitter |
@@ -514,8 +514,8 @@
 | 506 | 200 | Emberblaze |
 | 507 | 200 | Christina Marie Swisher |
 | 508 | 199 | Cheeky Setter |
-| 509 | 198 | Zac Hudak |
-| 510 | 198 | Jodi Kaczynski-O'Dowd |
+| 509 | 198 | Jodi Kaczynski-O'Dowd |
+| 510 | 198 | Zac Hudak |
 | 511 | 198 | joz |
 | 512 | 197 | BabyTonj Evans |
 | 513 | 197 | momo |
@@ -631,8 +631,8 @@
 | 623 | 167 | Alison Baus |
 | 624 | 166 | Moimyzean |
 | 625 | 166 | Armi |
-| 626 | 166 | Rashad Green |
-| 627 | 166 | krazibtch |
+| 626 | 166 | krazibtch |
+| 627 | 166 | Rashad Green |
 | 628 | 165 | Erica Anderson |
 | 629 | 164 | Mindy Phelps |
 | 630 | 164 | Jolly Brick |

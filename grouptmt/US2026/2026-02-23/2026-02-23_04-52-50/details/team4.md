@@ -79,16 +79,16 @@
 | 71 | 749 | Dustee Craddock-Harrison |
 | 72 | 742 | Carolyn Wallace |
 | 73 | 740 | Avy Absol |
-| 74 | 736 | Goatimus Lombardi |
-| 75 | 736 | Crystal Carroll |
+| 74 | 736 | Crystal Carroll |
+| 75 | 736 | Goatimus Lombardi |
 | 76 | 721 | TheNeesh50 |
 | 77 | 717 | D3TROITB0RN74 |
 | 78 | 706 | Lisa Davis |
 | 79 | 703 | Savannah Overdorf |
 | 80 | 697 | Alyssa Papen |
 | 81 | 696 | Shane Kalamata Platoon |
-| 82 | 684 | Kimyatta Cavin |
-| 83 | 684 | Jonathan Kimbrough |
+| 82 | 684 | Jonathan Kimbrough |
+| 83 | 684 | Kimyatta Cavin |
 | 84 | 677 | Trista Leah |
 | 85 | 673 | Jacqueline Helm |
 | 86 | 670 | Destiney Carter |
@@ -119,11 +119,11 @@
 | 111 | 519 | Nugget |
 | 112 | 517 | Christina LR |
 | 113 | 517 | shar |
-| 114 | 514 | Serena Goodridge |
-| 115 | 514 | Scott Jameson |
+| 114 | 514 | Scott Jameson |
+| 115 | 514 | Serena Goodridge |
 | 116 | 513 | Erin Thomas |
-| 117 | 512 | Casey Jeffcoat |
-| 118 | 512 | Cristy Duerksen |
+| 117 | 512 | Cristy Duerksen |
+| 118 | 512 | Casey Jeffcoat |
 | 119 | 511 | Lori Walker |
 | 120 | 509 | Chilly Crasher |
 | 121 | 482 | Ren Mc |
@@ -135,12 +135,12 @@
 | 127 | 458 | Twisty Clicky |
 | 128 | 451 | Peachy Fall |
 | 129 | 448 | Kristin Manee |
-| 130 | 435 | Leslie Thomas |
-| 131 | 435 | Kristina Black |
+| 130 | 435 | Kristina Black |
+| 131 | 435 | Leslie Thomas |
 | 132 | 431 | Courtney Cicoria |
 | 133 | 425 | Monica Daley |
-| 134 | 421 | Kesha Brady |
-| 135 | 421 | JIGsaw ~(•¿°)~ |
+| 134 | 421 | JIGsaw ~(•¿°)~ |
+| 135 | 421 | Kesha Brady |
 | 136 | 419 | Klo |
 | 137 | 418 | Marie-Pier Desjardins |
 | 138 | 418 | Lush Linkfall |
@@ -172,8 +172,8 @@
 | 164 | 368 | Raegan Lane-Ross |
 | 165 | 368 | Silly Zonebuilder |
 | 166 | 365 | Jeff Brian Gates |
-| 167 | 361 | Danielle Kollias |
-| 168 | 361 | Melissa Adams |
+| 167 | 361 | Melissa Adams |
+| 168 | 361 | Danielle Kollias |
 | 169 | 359 | Keith Kelley |
 | 170 | 358 | A5! |
 | 171 | 356 | George Nutt |
@@ -212,8 +212,8 @@
 | 204 | 300 | Zakia Monae |
 | 205 | 300 | Dana Scott |
 | 206 | 295 | Keshia Lyons |
-| 207 | 294 | Porkobello |
-| 208 | 294 | Calvin Cannon |
+| 207 | 294 | Calvin Cannon |
+| 208 | 294 | Porkobello |
 | 209 | 292 | Epic Curvetile |
 | 210 | 290 | Plucky Patternblock |
 | 211 | 290 | Jared Gutwein |
@@ -237,12 +237,12 @@
 | 229 | 272 | Alan George LaRage |
 | 230 | 272 | Carlos Ramirez |
 | 231 | 271 | Holly |
-| 232 | 270 | Jen Caldwell |
-| 233 | 270 | Juls |
+| 232 | 270 | Juls |
+| 233 | 270 | Jen Caldwell |
 | 234 | 267 | JPW |
 | 235 | 266 | Mr. Party |
-| 236 | 265 | Sarah Neathery |
-| 237 | 265 | Silly SeaWeed |
+| 236 | 265 | Silly SeaWeed |
+| 237 | 265 | Sarah Neathery |
 | 238 | 264 | Stella |
 | 239 | 262 | BigSammy420 |
 | 240 | 262 | Selena Shaw |
@@ -251,8 +251,8 @@
 | 243 | 259 | Allen Lloyd |
 | 244 | 259 | Montiette Mcglown |
 | 245 | 257 | PeaceOs |
-| 246 | 256 | Metsfan |
-| 247 | 256 | Mylo Lipscomb |
+| 246 | 256 | Mylo Lipscomb |
+| 247 | 256 | Metsfan |
 | 248 | 255 | Zethra Prenisha Rahming |
 | 249 | 253 | Autum Leigh |
 | 250 | 252 | Cynthia Boudreau |
@@ -352,9 +352,9 @@
 | 344 | 187 | Hyper Builder |
 | 345 | 186 | Paige Kittles |
 | 346 | 186 | Shanon Klair |
-| 347 | 186 | Paige Kittles |
-| 348 | 186 | Michelle Morris |
-| 349 | 186 | Eri Kka |
+| 347 | 186 | Riverdale |
+| 348 | 186 | Eri Kka |
+| 349 | 186 | Michelle Morris |
 | 350 | 185 | Nubian1 |
 | 351 | 185 | Morti |
 | 352 | 185 | Val Erie |
