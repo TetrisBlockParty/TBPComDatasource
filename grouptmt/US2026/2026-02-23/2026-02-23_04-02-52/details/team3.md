@@ -126,8 +126,8 @@
 | 118 | 752 | Raya |
 | 119 | 748 | Adrian Marcel Pate |
 | 120 | 745 | JerseyJess |
-| 121 | 744 | Leah Barnett |
-| 122 | 744 | Fancy Cascader |
+| 121 | 744 | Fancy Cascader |
+| 122 | 744 | Leah Barnett |
 | 123 | 742 | Groovy Catcher |
 | 124 | 736 | Katrina Schroeder |
 | 125 | 733 | mzcatzy |
@@ -227,8 +227,8 @@
 | 219 | 430 | Jeni Dow |
 | 220 | 415 | ren |
 | 221 | 414 | Fran Lin |
-| 222 | 410 | Stephanie Simpson |
-| 223 | 410 | Duane Bright |
+| 222 | 410 | Duane Bright |
+| 223 | 410 | Stephanie Simpson |
 | 224 | 410 | Mcathen |
 | 225 | 408 | Tiffany Ford |
 | 226 | 406 | Heather Green |
@@ -317,8 +317,8 @@
 | 309 | 298 | Grams |
 | 310 | 297 | kacihall |
 | 311 | 296 | Tracy Martin |
-| 312 | 296 | Hasty Gridpiece |
-| 313 | 296 | Donna |
+| 312 | 296 | Donna |
+| 313 | 296 | Hasty Gridpiece |
 | 314 | 295 | Geoffrey Nash |
 | 315 | 294 | fraulila |
 | 316 | 292 | Lizabeth Fox |

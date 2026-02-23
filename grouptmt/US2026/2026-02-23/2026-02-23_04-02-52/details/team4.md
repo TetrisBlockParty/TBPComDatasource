@@ -57,8 +57,8 @@
 | 49 | 863 | Pee |
 | 50 | 855 | Marvin Lou Martin |
 | 51 | 853 | TeeJ |
-| 52 | 846 | Christine Marie |
-| 53 | 846 | Lucille Truesdale |
+| 52 | 846 | Lucille Truesdale |
+| 53 | 846 | Christine Marie |
 | 54 | 845 | LisaJo Picken Buchanan |
 | 55 | 843 | Shelly Chandler |
 | 56 | 841 | Anthony Bryan Riva |
@@ -93,9 +93,9 @@
 | 85 | 667 | Shane Kalamata Platoon |
 | 86 | 664 | Valerie Roberts |
 | 87 | 659 | Jamie Gustafson |
-| 88 | 647 | Shauna Havard |
+| 88 | 647 | KM8 |
 | 89 | 647 | Diana Houts |
-| 90 | 647 | KM8 |
+| 90 | 647 | Shauna Havard |
 | 91 | 646 | Eric Mcgaughy |
 | 92 | 626 | Brittney Griggs |
 | 93 | 620 | Judy Cox |
@@ -323,8 +323,8 @@
 | 315 | 206 | Maureen Flanigan |
 | 316 | 205 | KayM |
 | 317 | 205 | James Hurley Jr. |
-| 318 | 203 | Andrew Dang |
-| 319 | 203 | Gilles Lanctot |
+| 318 | 203 | Gilles Lanctot |
+| 319 | 203 | Andrew Dang |
 | 320 | 203 | Katherine Crane |
 | 321 | 201 | June Hoffman |
 | 322 | 200 | Googenheim |
@@ -335,8 +335,8 @@
 | 327 | 194 | SammieJo Guy |
 | 328 | 194 | Zany Twisterfit |
 | 329 | 192 | Twisty Risebuilder |
-| 330 | 191 | Earnest Thompson |
-| 331 | 191 | Norman Klick |
+| 330 | 191 | Norman Klick |
+| 331 | 191 | Earnest Thompson |
 | 332 | 190 | wombat |
 | 333 | 189 | Berklie Apedaile |
 | 334 | 189 | Lauren Lamb |
@@ -466,7 +466,7 @@
 | 458 | 146 | Oleg Zakharskiy |
 | 459 | 146 | Angel Raya |
 | 460 | 146 | Jen Hallin |
-| 461 | 146 | Angel Raya |
+| 461 | 146 | Marcela Johnson |
 | 462 | 146 | Groovy Gridlock |
 | 463 | 145 | Glitzy Crasher |
 | 464 | 145 | Jackie Clark |

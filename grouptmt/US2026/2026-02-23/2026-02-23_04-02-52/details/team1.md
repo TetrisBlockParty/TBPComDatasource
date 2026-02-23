@@ -46,8 +46,8 @@
 | 38 | 998 | Jorge Andrade |
 | 39 | 966 | Shalene Frederick Autrey |
 | 40 | 964 | Carrie Beck Geartz |
-| 41 | 953 | Derek MF Blakey |
-| 42 | 953 | Hyp James NObettadanluvarat |
+| 41 | 953 | Hyp James NObettadanluvarat |
+| 42 | 953 | Derek MF Blakey |
 | 43 | 945 | Amber Stoker |
 | 44 | 931 | Christina Costantino |
 | 45 | 919 | Chipper Gridlock |
@@ -102,8 +102,8 @@
 | 94 | 519 | Ryan Lunnin |
 | 95 | 510 | Colena Davenport |
 | 96 | 496 | Arianna O'Brien |
-| 97 | 493 | MomMom |
-| 98 | 493 | Jennifer ManWarren |
+| 97 | 493 | Jennifer ManWarren |
+| 98 | 493 | MomMom |
 | 99 | 492 | Ash Galvan |
 | 100 | 489 | Deanna L Hermanson |
 | 101 | 488 | cc |
