@@ -282,8 +282,8 @@
 | 274 | 1172 | Stacey Clement |
 | 275 | 1172 | Lakeysha Dortch |
 | 276 | 1171 | Loretta Brewer-Gage |
-| 277 | 1165 | Christina Wsn |
-| 278 | 1165 | Michelle Lee |
+| 277 | 1165 | Michelle Lee |
+| 278 | 1165 | Christina Wsn |
 | 279 | 1163 | Erika Densmore |
 | 280 | 1158 | Brittany Clark |
 | 281 | 1156 | Sarah Freitas |
@@ -309,8 +309,8 @@
 | 301 | 1089 | Tyler C. Jung |
 | 302 | 1089 | Wakanda Forever |
 | 303 | 1086 | Deborah Miller |
-| 304 | 1079 | Jennifer Kistner |
-| 305 | 1079 | Angela Bonquiqui Dinish |
+| 304 | 1079 | Angela Bonquiqui Dinish |
+| 305 | 1079 | Jennifer Kistner |
 | 306 | 1076 | Cindy Sechler Taninecz |
 | 307 | 1073 | Jodi Blake |
 | 308 | 1072 | BK Queen |
@@ -331,8 +331,8 @@
 | 323 | 1042 | Michele Morgan |
 | 324 | 1042 | Mcintosh Brian Shalonda |
 | 325 | 1040 | Taylor Phillips |
-| 326 | 1036 | Amber Shoemaker |
-| 327 | 1036 | Allison Lockyer |
+| 326 | 1036 | Allison Lockyer |
+| 327 | 1036 | Amber Shoemaker |
 | 328 | 1032 | Binyah-Binyah |
 | 329 | 1031 | Barbra Miller |
 | 330 | 1030 | Em Chen |
@@ -570,7 +570,7 @@
 | 562 | 676 | Nicky Jackson |
 | 563 | 675 | Lyndi Robinson Wakefield |
 | 564 | 675 | Katelynn Hollen |
-| 565 | 675 | Lyndi Robinson Wakefield |
+| 565 | 675 | Jennifer Leigh |
 | 566 | 673 | Anthony Mignacca |
 | 567 | 673 | trabuco |
 | 568 | 670 | Blacc Blac |

@@ -420,8 +420,8 @@
 | 412 | 215 | Aaron Green |
 | 413 | 214 | Kayla Marie Stevenson |
 | 414 | 213 | Poppy Riserpiece |
-| 415 | 213 | John Barron |
-| 416 | 213 | Divaaa |
+| 415 | 213 | Divaaa |
+| 416 | 213 | John Barron |
 | 417 | 212 | Amber Dee |
 | 418 | 211 | Hasty Columnbuilder |
 | 419 | 211 | Bucketsmasher |
@@ -472,8 +472,8 @@
 | 464 | 191 | Jasmine Riley |
 | 465 | 191 | Vivienne Carter |
 | 466 | 190 | yoyoluv |
-| 467 | 189 | BettyAnn Savo |
-| 468 | 189 | Dizzy Rackham |
+| 467 | 189 | Dizzy Rackham |
+| 468 | 189 | BettyAnn Savo |
 | 469 | 188 | Brian Taylor |
 | 470 | 188 | Strig |
 | 471 | 187 | Matthew Foley |
