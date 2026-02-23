@@ -217,8 +217,8 @@
 | 209 | 354 | Kris Bartlett |
 | 210 | 352 | April Rondinone |
 | 211 | 348 | David Lay |
-| 212 | 347 | Daria Rycewicz |
-| 213 | 347 | Bio Nelly |
+| 212 | 347 | Bio Nelly |
+| 213 | 347 | Daria Rycewicz |
 | 214 | 346 | shark tato |
 | 215 | 343 | HastyGrabber |
 | 216 | 341 | scott |

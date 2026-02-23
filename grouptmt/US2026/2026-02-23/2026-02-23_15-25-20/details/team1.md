@@ -46,8 +46,8 @@
 | 38 | 1128 | june october |
 | 39 | 1126 | Tater |
 | 40 | 1122 | Amanda Summey Schoemer |
-| 41 | 1114 | Marianne Louise West |
-| 42 | 1114 | Jayme Sellers |
+| 41 | 1114 | Jayme Sellers |
+| 42 | 1114 | Marianne Louise West |
 | 43 | 1112 | Chipper Gridlock |
 | 44 | 1100 | Derek MF Blakey |
 | 45 | 1092 | Tipsy Column |
@@ -84,8 +84,8 @@
 | 76 | 758 | Ash Galvan |
 | 77 | 750 | Cartier |
 | 78 | 740 | Lori Sanders- Davis |
-| 79 | 713 | Snappy Swiper |
-| 80 | 713 | Robert Benito |
+| 79 | 713 | Robert Benito |
+| 80 | 713 | Snappy Swiper |
 | 81 | 710 | Jennifer ManWarren |
 | 82 | 706 | Plucky Fallzone |
 | 83 | 704 | Karin Gillen |
@@ -175,8 +175,8 @@
 | 167 | 403 | Tana |
 | 168 | 402 | Chris K |
 | 169 | 400 | Chelsea Dahlquist |
-| 170 | 399 | phrmblk24 |
-| 171 | 399 | Nery Martinez |
+| 170 | 399 | Nery Martinez |
+| 171 | 399 | phrmblk24 |
 | 172 | 397 | Erin Rosberg |
 | 173 | 394 | Lori Bales |
 | 174 | 393 | Kimmie Kimms |
