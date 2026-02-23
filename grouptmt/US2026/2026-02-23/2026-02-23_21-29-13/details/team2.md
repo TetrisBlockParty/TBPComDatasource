@@ -711,8 +711,8 @@
 | 703 | 617 | Jason H Baker |
 | 704 | 617 | Biggest thing |
 | 705 | 617 | Kacee Conrad Bock |
-| 706 | 616 | Polly Pritchard Chesler |
-| 707 | 616 | Jennifer Coe |
+| 706 | 616 | Jennifer Coe |
+| 707 | 616 | Polly Pritchard Chesler |
 | 708 | 615 | Julio A Laracuente |
 | 709 | 615 | Tash Bell |
 | 710 | 613 | Harrison Littrell |

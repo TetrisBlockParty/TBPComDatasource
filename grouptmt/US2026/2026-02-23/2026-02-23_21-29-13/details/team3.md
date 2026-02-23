@@ -150,8 +150,8 @@
 | 142 | 837 | mzcatzy |
 | 143 | 834 | opf |
 | 144 | 820 | Brenda Lee Vander Molen |
-| 145 | 818 | Dolores Falco |
-| 146 | 818 | Tasha Schriewer |
+| 145 | 818 | Tasha Schriewer |
+| 146 | 818 | Dolores Falco |
 | 147 | 812 | Speedy Bridger |
 | 148 | 812 | Katrina Schroeder |
 | 149 | 810 | Keith J Oshman Jr. |
@@ -331,9 +331,9 @@
 | 323 | 405 | Steffi Chris Dacones |
 | 324 | 405 | Chris Bell |
 | 325 | 404 | Christian Werndl |
-| 326 | 403 | Scott Lindsay |
-| 327 | 403 | Stephanie Burtin |
-| 328 | 403 | lashanda |
+| 326 | 403 | lashanda |
+| 327 | 403 | Scott Lindsay |
+| 328 | 403 | Stephanie Burtin |
 | 329 | 399 | Num1hater |
 | 330 | 398 | fraulila |
 | 331 | 396 | Cheryl Hinch Tenbrook |
@@ -391,8 +391,8 @@
 | 383 | 349 | Donna |
 | 384 | 348 | Ashley Raines |
 | 385 | 346 | AlsoJess |
-| 386 | 345 | victory |
-| 387 | 345 | Misha Sanders |
+| 386 | 345 | Misha Sanders |
+| 387 | 345 | victory |
 | 388 | 344 | Beaudie Stroebel |
 | 389 | 343 | Ava Petito |
 | 390 | 342 | Christina Marie Swisher |
@@ -428,8 +428,8 @@
 | 420 | 323 | Mary Giorgenti |
 | 421 | 323 | Jess Bissett |
 | 422 | 322 | Mindy Phelps |
-| 423 | 322 | Nena Somerville Kelly |
-| 424 | 322 | Beth Smith |
+| 423 | 322 | Beth Smith |
+| 424 | 322 | Nena Somerville Kelly |
 | 425 | 321 | Jl |
 | 426 | 320 | Kevin Russell |
 | 427 | 320 | Or Reznitsky |

@@ -472,7 +472,7 @@
 | 464 | 211 | Bucketsmasher |
 | 465 | 211 | Hasty Columnbuilder |
 | 466 | 210 | Ruthie Mahoney Saunders-Browne |
-| 467 | 209 | Pauline Cortez |
+| 467 | 209 | Rachel Rogers |
 | 468 | 209 | Beau Galvan |
 | 469 | 209 | Pauline Cortez |
 | 470 | 208 | Andrew Boone |
