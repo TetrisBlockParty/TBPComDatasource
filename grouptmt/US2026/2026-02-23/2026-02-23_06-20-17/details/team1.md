@@ -106,8 +106,8 @@
 | 98 | 510 | Colena Davenport |
 | 99 | 509 | Rachael |
 | 100 | 497 | Arianna O'Brien |
-| 101 | 493 | Jennifer ManWarren |
-| 102 | 493 | MomMom |
+| 101 | 493 | MomMom |
+| 102 | 493 | Jennifer ManWarren |
 | 103 | 492 | Ash Galvan |
 | 104 | 491 | cc |
 | 105 | 489 | April Carroll |
@@ -124,8 +124,8 @@
 | 116 | 451 | Plucky Ziggy |
 | 117 | 450 | lil mickey |
 | 118 | 449 | Anaid Sanchez |
-| 119 | 448 | Jazzy Framezone |
-| 120 | 448 | Sweet Baker |
+| 119 | 448 | Sweet Baker |
+| 120 | 448 | Jazzy Framezone |
 | 121 | 446 | SkipTheSadSauce |
 | 122 | 443 | Steve Schneider |
 | 123 | 439 | Dee Perry |
@@ -134,8 +134,8 @@
 | 126 | 429 | Kristi Johnson |
 | 127 | 428 | Ly Phethmany |
 | 128 | 426 | Maria C. Hernandez |
-| 129 | 425 | Dandy Basegrid |
-| 130 | 425 | Lori Sanders- Davis |
+| 129 | 425 | Lori Sanders- Davis |
+| 130 | 425 | Dandy Basegrid |
 | 131 | 411 | BadG52 |
 | 132 | 409 | Goose egg |
 | 133 | 406 | Desiree Deschaine Havee |
@@ -147,7 +147,7 @@
 | 139 | 392 | And |
 | 140 | 389 | David Miller |
 | 141 | 388 | Fmp |
-| 142 | 387 | Ananda Mendez |
+| 142 | 387 | Emily Adelaide Wheatley |
 | 143 | 387 | Monica Donato |
 | 144 | 387 | Ananda Mendez |
 | 145 | 385 | Tyler Werts |
@@ -207,8 +207,8 @@
 | 199 | 315 | Danielle Little-Daugherty |
 | 200 | 314 | Snippy Wipebuilder |
 | 201 | 314 | Tana |
-| 202 | 312 | Kimberly Garcia |
-| 203 | 312 | Jessi Sauer |
+| 202 | 312 | Jessi Sauer |
+| 203 | 312 | Kimberly Garcia |
 | 204 | 310 | Bloknboy |
 | 205 | 307 | femmefatale |
 | 206 | 307 | Snappy Matcher |
@@ -228,16 +228,16 @@
 | 220 | 285 | Bird Person |
 | 221 | 285 | Shanae Grant |
 | 222 | 284 | Sarah Somers Gray |
-| 223 | 283 | Amanda Holibaugh |
-| 224 | 283 | Franswa |
+| 223 | 283 | Franswa |
+| 224 | 283 | Amanda Holibaugh |
 | 225 | 282 | Mandyy Rae |
 | 226 | 282 | Timothy Dew |
 | 227 | 281 | Clever Cascadepiece |
 | 228 | 280 | Billie Dawn Sparks |
-| 229 | 277 | Melissa Lemmon |
-| 230 | 277 | Nutty Spinblock |
-| 231 | 275 | Cheeky Pop |
-| 232 | 275 | Chris65 |
+| 229 | 277 | Nutty Spinblock |
+| 230 | 277 | Melissa Lemmon |
+| 231 | 275 | Chris65 |
+| 232 | 275 | Cheeky Pop |
 | 233 | 274 | Lakeisha Chapman |
 | 234 | 273 | Shannon Marie Pitts |
 | 235 | 271 | Sam Williams |

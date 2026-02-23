@@ -138,16 +138,16 @@
 | 130 | 458 | Twisty Clicky |
 | 131 | 451 | Peachy Fall |
 | 132 | 448 | Kristin Manee |
-| 133 | 435 | Leslie Thomas |
-| 134 | 435 | Kristina Black |
+| 133 | 435 | Kristina Black |
+| 134 | 435 | Leslie Thomas |
 | 135 | 434 | Monica Daley |
 | 136 | 432 | Zippy Block |
 | 137 | 431 | Courtney Cicoria |
 | 138 | 429 | Klo |
 | 139 | 426 | 🥔🥔 Spudz |
 | 140 | 423 | Carrie Brian |
-| 141 | 421 | Kesha Brady |
-| 142 | 421 | JIGsaw ~(•¿°)~ |
+| 141 | 421 | JIGsaw ~(•¿°)~ |
+| 142 | 421 | Kesha Brady |
 | 143 | 418 | Marie-Pier Desjardins |
 | 144 | 418 | Lush Linkfall |
 | 145 | 416 | Chaz Duncan |
@@ -182,8 +182,8 @@
 | 174 | 356 | George Nutt |
 | 175 | 354 | TRCuse |
 | 176 | 352 | Sue Joyce Staats |
-| 177 | 349 | Twisty Cascadezone |
-| 178 | 349 | Rafael Valentin |
+| 177 | 349 | Rafael Valentin |
+| 178 | 349 | Twisty Cascadezone |
 | 179 | 348 | April Rondinone |
 | 180 | 347 | Crystal Nicolette Moore |
 | 181 | 347 | Daria Rycewicz |
@@ -216,8 +216,8 @@
 | 208 | 300 | Zakia Monae |
 | 209 | 300 | Dana Scott |
 | 210 | 295 | Keshia Lyons |
-| 211 | 294 | Porkobello |
-| 212 | 294 | Calvin Cannon |
+| 211 | 294 | Calvin Cannon |
+| 212 | 294 | Porkobello |
 | 213 | 292 | Epic Curvetile |
 | 214 | 290 | Plucky Patternblock |
 | 215 | 290 | Jared Gutwein |
@@ -244,12 +244,12 @@
 | 236 | 272 | Alan George LaRage |
 | 237 | 272 | Carlos Ramirez |
 | 238 | 271 | Holly |
-| 239 | 270 | Juls |
-| 240 | 270 | Jen Caldwell |
-| 241 | 266 | Mr. Party |
-| 242 | 266 | Tracey Lehmann |
-| 243 | 265 | Silly SeaWeed |
-| 244 | 265 | Sarah Neathery |
+| 239 | 270 | Jen Caldwell |
+| 240 | 270 | Juls |
+| 241 | 266 | Tracey Lehmann |
+| 242 | 266 | Mr. Party |
+| 243 | 265 | Sarah Neathery |
+| 244 | 265 | Silly SeaWeed |
 | 245 | 264 | ZeeZee |
 | 246 | 264 | Stella |
 | 247 | 263 | rebel4lyfe |
@@ -316,8 +316,8 @@
 | 308 | 216 | Chantilly Laace |
 | 309 | 216 | mike |
 | 310 | 215 | Stephme310 |
-| 311 | 214 | Stacey Stano |
-| 312 | 214 | Patron Anderson |
+| 311 | 214 | Patron Anderson |
+| 312 | 214 | Stacey Stano |
 | 313 | 213 | Jackie Marie |
 | 314 | 212 | Zany Shatterer |
 | 315 | 212 | Jason Bosco |

@@ -173,8 +173,8 @@
 | 165 | 591 | Michael Nowogorski |
 | 166 | 588 | Justin Ritter |
 | 167 | 587 | Louise Stacy Sisson |
-| 168 | 585 | Happy Tetriblast |
-| 169 | 585 | Annie Marie |
+| 168 | 585 | Annie Marie |
+| 169 | 585 | Happy Tetriblast |
 | 170 | 583 | Tasha Gillespie |
 | 171 | 582 | Natasha Jones |
 | 172 | 577 | Domo Washington |
@@ -212,10 +212,10 @@
 | 204 | 480 | Danielle Allison |
 | 205 | 480 | Michael Johnson |
 | 206 | 475 | Tessina Dewey-Mancino |
-| 207 | 473 | Rachel |
-| 208 | 473 | Connie Mohler-Fair |
-| 209 | 471 | Mendoza Lee Christy |
-| 210 | 471 | Jacqueline Rodriguez |
+| 207 | 473 | Connie Mohler-Fair |
+| 208 | 473 | Rachel |
+| 209 | 471 | Jacqueline Rodriguez |
+| 210 | 471 | Mendoza Lee Christy |
 | 211 | 467 | Sherry Ogden |
 | 212 | 466 | Fallorina Susana |
 | 213 | 465 | Annie Déè |
@@ -231,12 +231,12 @@
 | 223 | 448 | Scott Carleton |
 | 224 | 437 | Loopy Clusterer |
 | 225 | 432 | Luciana Braganca Vieira |
-| 226 | 431 | Ammmmmmy |
-| 227 | 431 | Wendy Dearden |
+| 226 | 431 | Wendy Dearden |
+| 227 | 431 | Ammmmmmy |
 | 228 | 430 | Jeni Dow |
 | 229 | 414 | Fran Lin |
-| 230 | 410 | Stephanie Simpson |
-| 231 | 410 | Duane Bright |
+| 230 | 410 | Duane Bright |
+| 231 | 410 | Stephanie Simpson |
 | 232 | 408 | Tiffany Ford |
 | 233 | 406 | Kristal C Lee |
 | 234 | 404 | Rebecca Funderburk Kirby |
@@ -268,8 +268,8 @@
 | 260 | 368 | Stephanie Woods |
 | 261 | 368 | Sheila M Frazier |
 | 262 | 367 | Kristin Delibac Corrigan |
-| 263 | 366 | Gumbo |
-| 264 | 366 | Randy Clevenger |
+| 263 | 366 | Randy Clevenger |
+| 264 | 366 | Gumbo |
 | 265 | 365 | Noyb Adam |
 | 266 | 364 | Steffi Chris Dacones |
 | 267 | 362 | Brandon Givens |
@@ -282,8 +282,8 @@
 | 274 | 353 | Dee Franklin |
 | 275 | 353 | Cyd061769 |
 | 276 | 352 | Christian Werndl |
-| 277 | 351 | Eon Harris |
-| 278 | 351 | Blocked |
+| 277 | 351 | Blocked |
+| 278 | 351 | Eon Harris |
 | 279 | 350 | LaShey Thompson |
 | 280 | 349 | Amanda J. Mcneil-Anderson |
 | 281 | 347 | Tye Stovall |

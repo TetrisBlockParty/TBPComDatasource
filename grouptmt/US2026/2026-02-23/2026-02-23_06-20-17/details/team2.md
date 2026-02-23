@@ -211,8 +211,8 @@
 | 203 | 1286 | Altamirano Michael |
 | 204 | 1282 | Tanya Parsons |
 | 205 | 1259 | Foxxo |
-| 206 | 1258 | Joyce Johnson Vaughn |
-| 207 | 1258 | Snappy Matchbuilder |
+| 206 | 1258 | Snappy Matchbuilder |
+| 207 | 1258 | Joyce Johnson Vaughn |
 | 208 | 1252 | Angel |
 | 209 | 1245 | Cody Nishimura |
 | 210 | 1237 | Megan Ferguson Leone |
@@ -339,8 +339,8 @@
 | 331 | 903 | Giggy Blocker |
 | 332 | 902 | William Hunt |
 | 333 | 901 | Kevin Sees |
-| 334 | 899 | Chevy |
-| 335 | 899 | Patrick Bartlett |
+| 334 | 899 | Patrick Bartlett |
+| 335 | 899 | Chevy |
 | 336 | 898 | Jamie Otero |
 | 337 | 895 | Donna Colby |
 | 338 | 890 | Steve Man |
