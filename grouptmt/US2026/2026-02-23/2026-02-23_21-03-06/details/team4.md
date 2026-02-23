@@ -171,8 +171,8 @@
 | 163 | 501 | Ericca Eldridge |
 | 164 | 498 | Melissa Adams |
 | 165 | 496 | Cindy Looper |
-| 166 | 491 | Jade Rian |
-| 167 | 491 | Carrie Brian |
+| 166 | 491 | Carrie Brian |
+| 167 | 491 | Jade Rian |
 | 168 | 486 | Swanky Fitline |
 | 169 | 485 | Rico |
 | 170 | 482 | Adam Stephanie Parker |
@@ -235,8 +235,8 @@
 | 227 | 385 | 030Synner |
 | 228 | 383 | blockstar |
 | 229 | 381 | Plucky Patternblock |
-| 230 | 380 | Rio Rocha |
-| 231 | 380 | Zesty Twistbuilder |
+| 230 | 380 | Zesty Twistbuilder |
+| 231 | 380 | Rio Rocha |
 | 232 | 379 | Backoff Recupe |
 | 233 | 378 | shark tato |
 | 234 | 378 | Lauren Scott |
@@ -267,10 +267,10 @@
 | 259 | 352 | scott |
 | 260 | 350 | Jen Caldwell |
 | 261 | 349 | jim |
-| 262 | 347 | Nerdy Twisterfit |
-| 263 | 347 | Bio Nelly |
-| 264 | 347 | Daria Rycewicz |
-| 265 | 347 | Gdiguy |
+| 262 | 347 | Bio Nelly |
+| 263 | 347 | Daria Rycewicz |
+| 264 | 347 | Gdiguy |
+| 265 | 347 | Nerdy Twisterfit |
 | 266 | 345 | Chaz |
 | 267 | 343 | HastyGrabber |
 | 268 | 342 | blasterB |
@@ -322,8 +322,8 @@
 | 314 | 289 | Deb Rubeck |
 | 315 | 288 | Amy Jean |
 | 316 | 287 | Duck |
-| 317 | 284 | Glitzy Corner |
-| 318 | 284 | Malakai Darien Fox |
+| 317 | 284 | Malakai Darien Fox |
+| 318 | 284 | Glitzy Corner |
 | 319 | 283 | Jackie Clark |
 | 320 | 282 | DQ Martin |
 | 321 | 282 | BigSammy420 |
@@ -364,18 +364,18 @@
 | 356 | 261 | Jason Frehner |
 | 357 | 260 | Carter Jones |
 | 358 | 260 | Angelito |
-| 359 | 259 | Montiette Mcglown |
-| 360 | 259 | Allen Lloyd |
+| 359 | 259 | Allen Lloyd |
+| 360 | 259 | Montiette Mcglown |
 | 361 | 258 | Lilya Troutman |
 | 362 | 257 | Alexandra Karavias |
 | 363 | 257 | Michael Snow |
 | 364 | 257 | Marcus TheeyoungWoe Gilmore |
 | 365 | 257 | ĥuf |
 | 366 | 256 | Jason Bosco |
-| 367 | 256 | Mackenzie Forrester |
-| 368 | 256 | Paige Kittles |
-| 369 | 253 | Autum Leigh |
-| 370 | 253 | Jarred Falls |
+| 367 | 256 | Paige Kittles |
+| 368 | 256 | Mackenzie Forrester |
+| 369 | 253 | Jarred Falls |
+| 370 | 253 | Autum Leigh |
 | 371 | 253 | Chair |
 | 372 | 252 | Maureen Flanigan |
 | 373 | 252 | Lazy Glidepiece |
@@ -1024,10 +1024,10 @@
 | 1016 | 76 | Beth Ann |
 | 1017 | 76 | Jeannie Lee |
 | 1018 | 76 | George Thomson Jr. |
-| 1019 | 75 | Oba Yozo |
-| 1020 | 75 | unrewound |
-| 1021 | 75 | Dmpster Fire |
-| 1022 | 75 | Hoppy Combo |
+| 1019 | 75 | unrewound |
+| 1020 | 75 | Dmpster Fire |
+| 1021 | 75 | Hoppy Combo |
+| 1022 | 75 | Oba Yozo |
 | 1023 | 75 | Allison Judith |
 | 1024 | 74 | Patrick Watkins |
 | 1025 | 74 | Kevin L Cafleux |

@@ -292,10 +292,10 @@
 | 284 | 455 | Megan Rathmanner |
 | 285 | 453 | Sarah Moyer |
 | 286 | 451 | LaShey Thompson |
-| 287 | 449 | Stefanie LaPointe |
-| 288 | 449 | Mcathen |
-| 289 | 448 | Charles Perrone |
-| 290 | 448 | Scott Carleton |
+| 287 | 449 | Mcathen |
+| 288 | 449 | Stefanie LaPointe |
+| 289 | 448 | Scott Carleton |
+| 290 | 448 | Charles Perrone |
 | 291 | 443 | Fancy Curver |
 | 292 | 443 | Randy Clevenger |
 | 293 | 442 | Dana Winters |

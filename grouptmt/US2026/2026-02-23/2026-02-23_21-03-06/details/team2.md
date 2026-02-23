@@ -358,8 +358,8 @@
 | 350 | 1049 | Ashlen Dorrell |
 | 351 | 1045 | Lourisha |
 | 352 | 1043 | Brave Dropmatch |
-| 353 | 1042 | Spunkysmom |
-| 354 | 1042 | Mcintosh Brian Shalonda |
+| 353 | 1042 | Mcintosh Brian Shalonda |
+| 354 | 1042 | Spunkysmom |
 | 355 | 1040 | Taylor Phillips |
 | 356 | 1038 | Sheronda Jackson |
 | 357 | 1037 | Jessica Wayne Cornwall |
