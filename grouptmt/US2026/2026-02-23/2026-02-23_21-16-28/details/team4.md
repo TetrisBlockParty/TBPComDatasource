@@ -90,8 +90,8 @@
 | 82 | 826 | Rica Mitchell |
 | 83 | 802 | Crystal Carroll |
 | 84 | 794 | Chilly Line |
-| 85 | 783 | Denise Carlson |
-| 86 | 783 | Guy Incognito |
+| 85 | 783 | Guy Incognito |
+| 86 | 783 | Denise Carlson |
 | 87 | 775 | Klo |
 | 88 | 768 | Judy Cox |
 | 89 | 767 | Shannon Ferrari |

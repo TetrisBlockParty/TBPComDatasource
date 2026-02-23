@@ -224,8 +224,8 @@
 | 216 | 576 | Nicole Flippo |
 | 217 | 571 | Salena Whitlock |
 | 218 | 570 | Twisty Brick LT |
-| 219 | 569 | Juliana Dottore |
-| 220 | 569 | Michael Johnson |
+| 219 | 569 | Michael Johnson |
+| 220 | 569 | Juliana Dottore |
 | 221 | 568 | Rachael McClain Owens |
 | 222 | 567 | FuzzyNavel |
 | 223 | 566 | LaTanya GeminiondaRise Johnson |
@@ -380,8 +380,8 @@
 | 372 | 358 | Heather Davis |
 | 373 | 358 | Ashley Rufus Bythcez |
 | 374 | 356 | Tony Waters |
-| 375 | 352 | Tiffany Davie |
-| 376 | 352 | LadyTorad |
+| 375 | 352 | LadyTorad |
+| 376 | 352 | Tiffany Davie |
 | 377 | 352 | xsiv |
 | 378 | 351 | Romeo |
 | 379 | 351 | Eon Harris |
@@ -465,8 +465,8 @@
 | 457 | 306 | Saucy Buildout |
 | 458 | 305 | Breezy Roll |
 | 459 | 304 | _melisa223_ |
-| 460 | 304 | Loopy Fallzone |
-| 461 | 304 | Stella |
+| 460 | 304 | Stella |
+| 461 | 304 | Loopy Fallzone |
 | 462 | 302 | Jessica |
 | 463 | 302 | Willow |
 | 464 | 301 | Betty Rosas |
@@ -888,7 +888,7 @@
 | 880 | 171 | Shiny Dashy |
 | 881 | 171 | Alisha Osborne |
 | 882 | 171 | Bethany Baughman |
-| 883 | 170 | MomOnBreak |
+| 883 | 170 | Karen Picaboo |
 | 884 | 170 | Timothy Troy Frazier |
 | 885 | 170 | MomOnBreak |
 | 886 | 170 | Pizzi |

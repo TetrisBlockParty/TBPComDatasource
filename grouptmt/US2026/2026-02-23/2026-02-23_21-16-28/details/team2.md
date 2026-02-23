@@ -165,8 +165,8 @@
 | 157 | 1897 | Angel |
 | 158 | 1874 | Loopy Clusterbuilder |
 | 159 | 1859 | Desiree Harris Rosch |
-| 160 | 1840 | Kristopher Miller |
-| 161 | 1840 | blarg |
+| 160 | 1840 | blarg |
+| 161 | 1840 | Kristopher Miller |
 | 162 | 1835 | Alisa Lamb |
 | 163 | 1829 | Mr. Street Stack |
 | 164 | 1818 | Shandrica Lowe |
@@ -211,8 +211,8 @@
 | 203 | 1578 | Christine Egidio Morocco |
 | 204 | 1569 | Ashley Dow |
 | 205 | 1565 | Nancy Reid |
-| 206 | 1558 | Tim Dyer |
-| 207 | 1558 | Crystal Slaughter |
+| 206 | 1558 | Crystal Slaughter |
+| 207 | 1558 | Tim Dyer |
 | 208 | 1557 | Poppy Snap |
 | 209 | 1556 | Tonya Morgan |
 | 210 | 1554 | Howard Forest |
@@ -310,8 +310,8 @@
 | 302 | 1188 | Amber Brion |
 | 303 | 1184 | Jamie Otero |
 | 304 | 1179 | Georgia Triblett |
-| 305 | 1172 | Lakeysha Dortch |
-| 306 | 1172 | Kristin Gower |
+| 305 | 1172 | Kristin Gower |
+| 306 | 1172 | Lakeysha Dortch |
 | 307 | 1171 | Loretta Brewer-Gage |
 | 308 | 1163 | Erika Densmore |
 | 309 | 1160 | Sarah block |
@@ -482,8 +482,8 @@
 | 474 | 833 | Christie |
 | 475 | 832 | Catherine Marsh Gruda |
 | 476 | 832 | Nicole L Morelli |
-| 477 | 831 | Victoria Moore-Smith |
-| 478 | 831 | Gary Stash |
+| 477 | 831 | Gary Stash |
+| 478 | 831 | Victoria Moore-Smith |
 | 479 | 830 | Sabrina Burton |
 | 480 | 828 | Connie Jimenez |
 | 481 | 828 | Shantel Kelley |
