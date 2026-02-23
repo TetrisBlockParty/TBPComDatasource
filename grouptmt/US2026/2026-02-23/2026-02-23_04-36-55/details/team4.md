@@ -122,8 +122,8 @@
 | 114 | 514 | Serena Goodridge |
 | 115 | 514 | Scott Jameson |
 | 116 | 513 | Erin Thomas |
-| 117 | 512 | Casey Jeffcoat |
-| 118 | 512 | Cristy Duerksen |
+| 117 | 512 | Cristy Duerksen |
+| 118 | 512 | Casey Jeffcoat |
 | 119 | 511 | Lori Walker |
 | 120 | 489 | Chilly Crasher |
 | 121 | 482 | Ren Mc |
@@ -163,8 +163,8 @@
 | 155 | 377 | Carrie Brian |
 | 156 | 375 | ThaEviLJeNiuZ |
 | 157 | 375 | Desi Desporte |
-| 158 | 374 | Leslie Nicole |
-| 159 | 374 | Guy Incognito |
+| 158 | 374 | Guy Incognito |
+| 159 | 374 | Leslie Nicole |
 | 160 | 370 | Oscar Alberto Perez |
 | 161 | 368 | Brandon Crabbs |
 | 162 | 368 | Silly Zonebuilder |
@@ -209,10 +209,10 @@
 | 201 | 304 | Lindsay Ball |
 | 202 | 301 | Andria Lynn |
 | 203 | 300 | Dihcheese444 |
-| 204 | 300 | Dana Scott |
-| 205 | 300 | Zakia Monae |
-| 206 | 294 | Calvin Cannon |
-| 207 | 294 | Porkobello |
+| 204 | 300 | Zakia Monae |
+| 205 | 300 | Dana Scott |
+| 206 | 294 | Porkobello |
+| 207 | 294 | Calvin Cannon |
 | 208 | 292 | Epic Curvetile |
 | 209 | 290 | Jared Gutwein |
 | 210 | 290 | Keshia Lyons |
@@ -328,8 +328,8 @@
 | 320 | 205 | James Hurley Jr. |
 | 321 | 204 | Russ Attitude |
 | 322 | 203 | Gilles Lanctot |
-| 323 | 203 | Andrew Dang |
-| 324 | 203 | Katherine Crane |
+| 323 | 203 | Katherine Crane |
+| 324 | 203 | Andrew Dang |
 | 325 | 200 | Googenheim |
 | 326 | 198 | Calvin Dennis |
 | 327 | 196 | Megan Cutshaw |

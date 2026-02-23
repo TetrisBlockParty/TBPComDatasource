@@ -117,8 +117,8 @@
 | 109 | 831 | Angeline Joseph |
 | 110 | 830 | Stephanie Allmon |
 | 111 | 826 | Shane Wilson Jr. |
-| 112 | 816 | Brenda Lee Vander Molen |
-| 113 | 816 | Jesse Olive |
+| 112 | 816 | Jesse Olive |
+| 113 | 816 | Brenda Lee Vander Molen |
 | 114 | 800 | Lauren Girouard |
 | 115 | 799 | Dolores Falco |
 | 116 | 769 | Kristie |
@@ -130,8 +130,8 @@
 | 122 | 744 | Fancy Cascader |
 | 123 | 744 | Leah Barnett |
 | 124 | 742 | Groovy Catcher |
-| 125 | 736 | mzcatzy |
-| 126 | 736 | Katrina Schroeder |
+| 125 | 736 | Katrina Schroeder |
+| 126 | 736 | mzcatzy |
 | 127 | 728 | Peppy Shifter |
 | 128 | 727 | Hasty Cascadefit |
 | 129 | 722 | Marcie Bressler |
@@ -195,16 +195,16 @@
 | 187 | 507 | Jim Mathews |
 | 188 | 502 | Snappy Balancer |
 | 189 | 500 | Sherika C. McDaniels |
-| 190 | 496 | Loopy Fallmatch |
-| 191 | 496 | Makelini Mausia |
+| 190 | 496 | Makelini Mausia |
+| 191 | 496 | Loopy Fallmatch |
 | 192 | 494 | FuzzyNavel |
 | 193 | 489 | Shannon Matthew Byers |
 | 194 | 489 | Terry Jo Jones |
 | 195 | 489 | Poppy Splitter |
 | 196 | 488 | Melissa Orth Hunter |
 | 197 | 485 | Dapper Snap |
-| 198 | 480 | Danielle Allison |
-| 199 | 480 | Michael Johnson |
+| 198 | 480 | Michael Johnson |
+| 199 | 480 | Danielle Allison |
 | 200 | 475 | Tessina Dewey-Mancino |
 | 201 | 473 | Rachel |
 | 202 | 471 | Mendoza Lee Christy |
