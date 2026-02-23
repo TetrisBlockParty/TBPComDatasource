@@ -134,8 +134,8 @@
 | 126 | 764 | Groovy Catcher |
 | 127 | 764 | Hasty Cascadefit |
 | 128 | 762 | Speedy Bridger |
-| 129 | 755 | Raya |
-| 130 | 755 | Katrina Schroeder |
+| 129 | 755 | Katrina Schroeder |
+| 130 | 755 | Raya |
 | 131 | 752 | Logan Naccarato |
 | 132 | 748 | Adrian Marcel Pate |
 | 133 | 745 | JerseyJess |
@@ -196,8 +196,8 @@
 | 188 | 553 | Kaycee Kay |
 | 189 | 548 | Danielle Balcom |
 | 190 | 547 | Staci George Fitzsimmons |
-| 191 | 546 | Cynthia Castros-Hampton |
-| 192 | 546 | Tasha Schriewer |
+| 191 | 546 | Tasha Schriewer |
+| 192 | 546 | Cynthia Castros-Hampton |
 | 193 | 546 | Mykal Burton |
 | 194 | 540 | Shawn Miller |
 | 195 | 531 | Makelini Mausia |
@@ -207,8 +207,8 @@
 | 199 | 525 | Stephanie Blkpep Davidson |
 | 200 | 524 | Bmo |
 | 201 | 521 | Shannon Matthew Byers |
-| 202 | 519 | rnr junky |
-| 203 | 519 | Terry Jo Jones |
+| 202 | 519 | Terry Jo Jones |
+| 203 | 519 | rnr junky |
 | 204 | 515 | Cozy Snaplink |
 | 205 | 513 | Lizabeth Fox |
 | 206 | 503 | Tye Stovall |
@@ -352,8 +352,8 @@
 | 344 | 311 | Troy |
 | 345 | 309 | Desiree Gold |
 | 346 | 309 | Cheeky Snapper |
-| 347 | 308 | Tia |
-| 348 | 308 | Katrina Turner |
+| 347 | 308 | Katrina Turner |
+| 348 | 308 | Tia |
 | 349 | 305 | Hyper Matchzone |
 | 350 | 304 | _melisa223_ |
 | 351 | 303 | Alexmac |
@@ -390,10 +390,10 @@
 | 382 | 279 | Naur |
 | 383 | 279 | Tosha Griffey |
 | 384 | 278 | Rufus Lincoln |
-| 385 | 277 | France Vézina |
-| 386 | 277 | Krystal Gerstberger |
-| 387 | 277 | Joe-Maggie Mathews |
-| 388 | 277 | Tipsy Zonebuilder |
+| 385 | 277 | Krystal Gerstberger |
+| 386 | 277 | France Vézina |
+| 387 | 277 | Tipsy Zonebuilder |
+| 388 | 277 | Joe-Maggie Mathews |
 | 389 | 276 | Karent524 |
 | 390 | 276 | Crimson |
 | 391 | 276 | BugMansMom |
@@ -478,8 +478,8 @@
 | 470 | 236 | Alexis Ford |
 | 471 | 234 | Cheeky Twisterfit |
 | 472 | 233 | Tony Waters |
-| 473 | 233 | Anna Moeller |
-| 474 | 233 | Criss |
+| 473 | 233 | Criss |
+| 474 | 233 | Anna Moeller |
 | 475 | 232 | Sunny Tiltgrid |
 | 476 | 232 | Stephanie Hill |
 | 477 | 232 | Melanie Sherwood |
@@ -581,8 +581,8 @@
 | 573 | 196 | Weerae |
 | 574 | 196 | Joshua David Huie |
 | 575 | 195 | toony |
-| 576 | 195 | Nicha Hooker |
-| 577 | 195 | Carrie Resler |
+| 576 | 195 | Carrie Resler |
+| 577 | 195 | Nicha Hooker |
 | 578 | 194 | Shicken Nuggit |
 | 579 | 194 | Danette Marie |
 | 580 | 193 | Stephanie Zahm |
@@ -617,11 +617,11 @@
 | 609 | 185 | Ashley Kennedy |
 | 610 | 185 | Breezy Roll |
 | 611 | 184 | Shanon R Jackson |
-| 612 | 184 | Barb Wensink Johnson |
-| 613 | 184 | Christian Luna |
+| 612 | 184 | Christian Luna |
+| 613 | 184 | Barb Wensink Johnson |
 | 614 | 183 | Mel Murr |
-| 615 | 183 | Snarky McFace |
-| 616 | 183 | Spencer Nikki |
+| 615 | 183 | Spencer Nikki |
+| 616 | 183 | Jana Fagg |
 | 617 | 183 | Silly Curvetile |
 | 618 | 183 | Snarky McFace |
 | 619 | 182 | Alicia |

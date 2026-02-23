@@ -276,8 +276,8 @@
 | 268 | 1093 | Real Ri |
 | 269 | 1088 | Brainy Smurf |
 | 270 | 1080 | Tyler C. Jung |
-| 271 | 1079 | Kimberly Hauck-Rausch |
-| 272 | 1079 | Jennifer Kistner |
+| 271 | 1079 | Jennifer Kistner |
+| 272 | 1079 | Kimberly Hauck-Rausch |
 | 273 | 1073 | Jodi Blake |
 | 274 | 1071 | Kim Dean |
 | 275 | 1069 | Carl Bradshaw |
@@ -645,8 +645,8 @@
 | 637 | 570 | Boldy Wiper |
 | 638 | 569 | Sparkles |
 | 639 | 566 | Lindsey Leigh |
-| 640 | 566 | Tina Marie |
-| 641 | 566 | SwampRebel |
+| 640 | 566 | SwampRebel |
+| 641 | 566 | Tina Marie |
 | 642 | 564 | Stacey Tranchida |
 | 643 | 563 | Nat |
 | 644 | 563 | Frisky Clearpiece |

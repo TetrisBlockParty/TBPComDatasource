@@ -127,8 +127,8 @@
 | 119 | 527 | Dizzy Tiley |
 | 120 | 521 | Andy Cabral |
 | 121 | 517 | shar |
-| 122 | 514 | Scott Jameson |
-| 123 | 514 | Serena Goodridge |
+| 122 | 514 | Serena Goodridge |
+| 123 | 514 | Scott Jameson |
 | 124 | 513 | Erin Thomas |
 | 125 | 512 | Casey Jeffcoat |
 | 126 | 512 | Cristy Duerksen |
@@ -160,11 +160,11 @@
 | 152 | 421 | Kesha Brady |
 | 153 | 418 | Marie-Pier Desjardins |
 | 154 | 418 | Lush Linkfall |
-| 155 | 417 | Steph Marie |
-| 156 | 417 | Amanda Pauldo-Ivy |
+| 155 | 417 | Amanda Pauldo-Ivy |
+| 156 | 417 | Steph Marie |
 | 157 | 416 | Chaz Duncan |
-| 158 | 414 | Nope Young |
-| 159 | 414 | Swanky Fitline |
+| 158 | 414 | Swanky Fitline |
+| 159 | 414 | Nope Young |
 | 160 | 413 | Circuit8 |
 | 161 | 412 | Jessica Bohlken |
 | 162 | 406 | Livvy |
@@ -239,8 +239,8 @@
 | 231 | 294 | Calvin Cannon |
 | 232 | 292 | Epic Curvetile |
 | 233 | 291 | Mimi |
-| 234 | 290 | Plucky Patternblock |
-| 235 | 290 | Rebecca Morris |
+| 234 | 290 | Rebecca Morris |
+| 235 | 290 | Plucky Patternblock |
 | 236 | 290 | Jared Gutwein |
 | 237 | 289 | Juls |
 | 238 | 288 | Brittney Orengo |
@@ -480,8 +480,8 @@
 | 472 | 158 | Jen Mattei |
 | 473 | 158 | Grann8 |
 | 474 | 157 | David Boggs |
-| 475 | 157 | Ryry |
-| 476 | 157 | LunaMoon |
+| 475 | 157 | LunaMoon |
+| 476 | 157 | Ryry |
 | 477 | 156 | Mighty Edgepiece |
 | 478 | 155 | Shirl |
 | 479 | 155 | tipsy tiger |
@@ -498,12 +498,12 @@
 | 490 | 151 | Brad Campbell |
 | 491 | 151 | Katie Alexander |
 | 492 | 150 | Nerdy Linebuilder |
-| 493 | 150 | Ron |
-| 494 | 150 | Kujuanna Hammon |
+| 493 | 150 | Kujuanna Hammon |
+| 494 | 150 | Ron |
 | 495 | 150 | Jobadia Steelerton |
 | 496 | 150 | PennyCandee |
-| 497 | 149 | Manny1 |
-| 498 | 149 | Sunny Filler |
+| 497 | 149 | Sunny Filler |
+| 498 | 149 | Manny1 |
 | 499 | 149 | Melissa VanBourgondien |
 | 500 | 149 | Sallie Sanborn |
 | 501 | 149 | Boldy Linkpiece |
@@ -545,11 +545,11 @@
 | 537 | 139 | Angie Schmidt |
 | 538 | 138 | Lynn Marie |
 | 539 | 137 | Brianna Walker |
-| 540 | 137 | April Spoelma |
-| 541 | 137 | Lee Silpe |
+| 540 | 137 | Lee Silpe |
+| 541 | 137 | April Spoelma |
 | 542 | 136 | Jennifer Perkins |
-| 543 | 136 | Badatvs |
-| 544 | 136 | Zocko Ellet |
+| 543 | 136 | Zocko Ellet |
+| 544 | 136 | Badatvs |
 | 545 | 136 | Tabitha Calvin |
 | 546 | 135 | Groovy Shiftspin |
 | 547 | 134 | Tabitha Henson |
