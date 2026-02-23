@@ -129,8 +129,8 @@
 | 121 | 752 | Logan Naccarato |
 | 122 | 748 | Adrian Marcel Pate |
 | 123 | 745 | JerseyJess |
-| 124 | 744 | Fancy Cascader |
-| 125 | 744 | Leah Barnett |
+| 124 | 744 | Leah Barnett |
+| 125 | 744 | Fancy Cascader |
 | 126 | 736 | Katrina Schroeder |
 | 127 | 736 | mzcatzy |
 | 128 | 728 | Peppy Shifter |
@@ -206,8 +206,8 @@
 | 198 | 489 | Shannon Matthew Byers |
 | 199 | 488 | Melissa Orth Hunter |
 | 200 | 485 | Dapper Snap |
-| 201 | 480 | Michael Johnson |
-| 202 | 480 | Danielle Allison |
+| 201 | 480 | Danielle Allison |
+| 202 | 480 | Michael Johnson |
 | 203 | 475 | Tessina Dewey-Mancino |
 | 204 | 473 | Connie Mohler-Fair |
 | 205 | 473 | Rachel |
@@ -217,8 +217,8 @@
 | 209 | 465 | Annie Déè |
 | 210 | 464 | Shunta Jacobs |
 | 211 | 464 | Danielle Weikel |
-| 212 | 458 | Danielle Rhoades |
-| 213 | 458 | Tom Nault |
+| 212 | 458 | Tom Nault |
+| 213 | 458 | Danielle Rhoades |
 | 214 | 457 | Edwin Calvillo Jr. |
 | 215 | 454 | Joye Sims Binion |
 | 216 | 453 | Staci George Fitzsimmons |
@@ -543,15 +543,15 @@
 | 535 | 193 | Bryan Byrd |
 | 536 | 193 | Spicy Cascadepiece |
 | 537 | 193 | Ginger Gray |
-| 538 | 192 | xsiv |
-| 539 | 192 | Laura Booth Wosko |
-| 540 | 192 | Weerae |
+| 538 | 192 | Laura Booth Wosko |
+| 539 | 192 | Weerae |
+| 540 | 192 | xsiv |
 | 541 | 192 | Kelly Ann Child |
-| 542 | 191 | Becca Engle |
-| 543 | 191 | Sarah Tschee |
-| 544 | 191 | Morgan Cudo |
+| 542 | 191 | Morgan Cudo |
+| 543 | 191 | Becca Engle |
+| 544 | 191 | lady lua |
 | 545 | 191 | Irene Arreguin |
-| 546 | 191 | lady lua |
+| 546 | 191 | Sarah Tschee |
 | 547 | 191 | Polopypy |
 | 548 | 191 | Peachy Tower |
 | 549 | 190 | Smiley Zone |
