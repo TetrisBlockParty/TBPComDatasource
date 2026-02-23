@@ -98,8 +98,8 @@
 | 90 | 783 | Denise Carlson |
 | 91 | 775 | TheNeesh50 |
 | 92 | 775 | Klo |
-| 93 | 768 | Judy Cox |
-| 94 | 768 | Trista Leah |
+| 93 | 768 | Trista Leah |
+| 94 | 768 | Judy Cox |
 | 95 | 768 | Lori Walker |
 | 96 | 767 | Shannon Ferrari |
 | 97 | 766 | Robin Watters |
@@ -214,8 +214,8 @@
 | 206 | 438 | Melvin Baird |
 | 207 | 438 | Jen Mattei |
 | 208 | 434 | Ramel Rhodes |
-| 209 | 433 | Damn Libra |
-| 210 | 433 | Circuit8 |
+| 209 | 433 | Circuit8 |
+| 210 | 433 | Damn Libra |
 | 211 | 431 | Zesty Twistbuilder |
 | 212 | 427 | Steph Marie |
 | 213 | 427 | Chao Ma |
@@ -225,8 +225,8 @@
 | 217 | 421 | JIGsaw ~(•¿°)~ |
 | 218 | 419 | Manny1 |
 | 219 | 419 | Chris Bernstein |
-| 220 | 418 | Marie-Pier Desjardins |
-| 221 | 418 | Lush Linkfall |
+| 220 | 418 | Lush Linkfall |
+| 221 | 418 | Marie-Pier Desjardins |
 | 222 | 414 | Silly Zonebuilder |
 | 223 | 413 | John Brunetti |
 | 224 | 411 | Autumn Kumzi |

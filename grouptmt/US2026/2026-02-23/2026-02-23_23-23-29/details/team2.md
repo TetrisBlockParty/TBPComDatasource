@@ -243,8 +243,8 @@
 | 235 | 1466 | Julay |
 | 236 | 1463 | Yvonne Wharton |
 | 237 | 1452 | Cody Smith-Candelaria |
-| 238 | 1451 | Catina Hutchison |
-| 239 | 1451 | Anna Edwards |
+| 238 | 1451 | Anna Edwards |
+| 239 | 1451 | Catina Hutchison |
 | 240 | 1450 | Shiny Rollzone |
 | 241 | 1443 | Teddi Notyalc |
 | 242 | 1418 | L3sli3 |
@@ -2091,8 +2091,8 @@
 | 2083 | 276 | Char Thompson |
 | 2084 | 276 | Tessa Gonzalez |
 | 2085 | 275 | RavensBeard |
-| 2086 | 275 | Bubbly Edgepiece |
-| 2087 | 275 | Kelly Wherrey |
+| 2086 | 275 | Kelly Wherrey |
+| 2087 | 275 | Bubbly Edgepiece |
 | 2088 | 275 | Elizabeth Wiegerink |
 | 2089 | 275 | Kalief Wheeler |
 | 2090 | 275 | Mandie McCurdy |

@@ -509,8 +509,8 @@
 | 501 | 296 | Amy Montz |
 | 502 | 296 | Tracy Martin |
 | 503 | 295 | Dakota Graham |
-| 504 | 294 | Misstery |
-| 505 | 294 | toony |
+| 504 | 294 | toony |
+| 505 | 294 | Misstery |
 | 506 | 294 | Chenoa Urban Sophicated Redy |
 | 507 | 293 | Arden White Kirsch |
 | 508 | 293 | Omega |
@@ -1232,7 +1232,7 @@
 | 1224 | 124 | Carie Ferchaud |
 | 1225 | 124 | Loretta Hendricks |
 | 1226 | 123 | Slappy |
-| 1227 | 123 | Primus |
+| 1227 | 123 | Autumn Lenhart |
 | 1228 | 123 | Heidi Strickland |
 | 1229 | 123 | Primus |
 | 1230 | 123 | Brittany Shantea Maynard |
@@ -2767,8 +2767,8 @@
 | 2759 | 20 | Chrissy Cintrone |
 | 2760 | 20 | Kimberley Griffith |
 | 2761 | 20 | Sara Alvarado |
-| 2762 | 19 | Crystal Zinda |
-| 2763 | 19 | Omar Sidberry |
+| 2762 | 19 | Omar Sidberry |
+| 2763 | 19 | Crystal Zinda |
 | 2764 | 19 | Rosemarie Espinosa |
 | 2765 | 19 | Tammy Tequila Palmer |
 | 2766 | 19 | Lc |
