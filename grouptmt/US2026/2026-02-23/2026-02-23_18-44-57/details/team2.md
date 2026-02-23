@@ -235,8 +235,8 @@
 | 227 | 1383 | Ladyrainbootz |
 | 228 | 1381 | Stacy Stickle |
 | 229 | 1370 | Lemonaide |
-| 230 | 1351 | Denisha Dawkins |
-| 231 | 1351 | Marie Boyd Faulk |
+| 230 | 1351 | Marie Boyd Faulk |
+| 231 | 1351 | Denisha Dawkins |
 | 232 | 1344 | Rebecca Garland |
 | 233 | 1342 | Kelly A Green-Leach |
 | 234 | 1340 | LordZophar |

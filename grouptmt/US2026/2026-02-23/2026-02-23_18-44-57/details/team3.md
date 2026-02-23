@@ -243,9 +243,9 @@
 | 235 | 519 | Nichol Graham |
 | 236 | 516 | Daring Brickzone |
 | 237 | 515 | Cozy Snaplink |
-| 238 | 513 | Twisty Brick LT |
+| 238 | 513 | Lizabeth Fox |
 | 239 | 513 | kacihall |
-| 240 | 513 | Lizabeth Fox |
+| 240 | 513 | Twisty Brick LT |
 | 241 | 508 | Sherry Ogden |
 | 242 | 508 | Fran Lin |
 | 243 | 508 | joz |
@@ -264,8 +264,8 @@
 | 256 | 480 | Isabel Ocasio |
 | 257 | 476 | Shunta Jacobs |
 | 258 | 471 | Mendoza Lee Christy |
-| 259 | 471 | Rebecca Bailey |
-| 260 | 471 | Gray Hicks |
+| 259 | 471 | Gray Hicks |
+| 260 | 471 | Rebecca Bailey |
 | 261 | 470 | Marci Mize Fandrich |
 | 262 | 470 | Rebecca Funderburk Kirby |
 | 263 | 464 | Danielle Weikel |
@@ -513,17 +513,17 @@
 | 505 | 266 | Reina Roth |
 | 506 | 265 | Justin Parker |
 | 507 | 265 | Danielle Dani |
-| 508 | 264 | Danielle Beaunoyer Jean |
-| 509 | 264 | Colton |
+| 508 | 264 | Colton |
+| 509 | 264 | Danielle Beaunoyer Jean |
 | 510 | 263 | Paula Little |
 | 511 | 263 | Emma |
 | 512 | 262 | Kevin Russell |
 | 513 | 262 | Bdhdj |
-| 514 | 260 | Alice |
-| 515 | 260 | Tracey Cox |
+| 514 | 260 | Tracey Cox |
+| 515 | 260 | Alice |
 | 516 | 259 | Shania Vaine |
-| 517 | 258 | Jolly Brick |
-| 518 | 258 | Paul Daniel Quertermous |
+| 517 | 258 | Paul Daniel Quertermous |
+| 518 | 258 | Jolly Brick |
 | 519 | 258 | Jl |
 | 520 | 257 | Saucy Buildout |
 | 521 | 257 | Jana Polk |
@@ -583,7 +583,7 @@
 | 575 | 237 | Ryan Williams |
 | 576 | 237 | Mana |
 | 577 | 236 | Alexis Ford |
-| 578 | 236 | Zac Hudak |
+| 578 | 236 | Tia Moore |
 | 579 | 236 | Frothy Snapper |
 | 580 | 236 | Zac Hudak |
 | 581 | 234 | Ginger Gray |
@@ -755,8 +755,8 @@
 | 747 | 187 | Justin Ernst |
 | 748 | 187 | Kelly Koenig |
 | 749 | 186 | Cranky Slam |
-| 750 | 186 | Ashley Woods |
-| 751 | 186 | Tommy Proctor |
+| 750 | 186 | Tommy Proctor |
+| 751 | 186 | Ashley Woods |
 | 752 | 185 | Glitzy Slide |
 | 753 | 184 | Shiny Zonebuilder |
 | 754 | 184 | Cary M. Fong |
@@ -819,9 +819,9 @@
 | 811 | 174 | FATTY |
 | 812 | 174 | Nyesha Niki Nu Nu |
 | 813 | 173 | Julie Peters Fancher |
-| 814 | 172 | Nicole Summers-Nelson |
-| 815 | 172 | Lexi |
-| 816 | 172 | Nichole Greene |
+| 814 | 172 | Nichole Greene |
+| 815 | 172 | Nicole Summers-Nelson |
+| 816 | 172 | Lexi |
 | 817 | 172 | Tiffany's TwinsRus Thrifty |
 | 818 | 172 | Shiny Twisterfit |
 | 819 | 172 | Rebecca Lynn |

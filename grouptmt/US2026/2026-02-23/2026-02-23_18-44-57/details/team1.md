@@ -211,16 +211,16 @@
 | 203 | 380 | Bindi |
 | 204 | 379 | Austin James |
 | 205 | 378 | Sleepysloath5745 |
-| 206 | 376 | Brian Richardsson |
-| 207 | 376 | Sassy Builderline |
+| 206 | 376 | Sassy Builderline |
+| 207 | 376 | Brian Richardsson |
 | 208 | 375 | Connie |
 | 209 | 374 | Howdi Duty |
-| 210 | 372 | Snippy Wipebuilder |
-| 211 | 372 | Dizzy Party |
+| 210 | 372 | Dizzy Party |
+| 211 | 372 | Snippy Wipebuilder |
 | 212 | 371 | David Lutcher |
 | 213 | 370 | Gracie |
-| 214 | 369 | Angela Renea Lester |
-| 215 | 369 | Jen Nystrom |
+| 214 | 369 | Jen Nystrom |
+| 215 | 369 | Angela Renea Lester |
 | 216 | 366 | J.F. Fields |
 | 217 | 365 | Lakeisha Chapman |
 | 218 | 365 | Amanda Holibaugh |
@@ -231,9 +231,9 @@
 | 223 | 360 | MIKOZ |
 | 224 | 359 | Jo Kerley |
 | 225 | 359 | Oscar Zamora |
-| 226 | 357 | Shiny Snapfit |
+| 226 | 357 | Νεφ Όνυξ |
 | 227 | 357 | Paula Martin |
-| 228 | 357 | Νεφ Όνυξ |
+| 228 | 357 | Shiny Snapfit |
 | 229 | 357 | Teri Oehlke |
 | 230 | 354 | Tami Luce Martin |
 | 231 | 354 | Dino |
@@ -242,8 +242,8 @@
 | 234 | 353 | Reesey Enyart |
 | 235 | 353 | Jaimie Lynn |
 | 236 | 351 | Tyler Hertzog |
-| 237 | 350 | Dizzy Slider |
-| 238 | 350 | Tipsy Strikerpiece |
+| 237 | 350 | Tipsy Strikerpiece |
+| 238 | 350 | Dizzy Slider |
 | 239 | 349 | Cool Shiftsnap |
 | 240 | 348 | John Kim |
 | 241 | 346 | GATOR |
@@ -280,8 +280,8 @@
 | 272 | 313 | Cody Gates |
 | 273 | 312 | Danielle S Kester |
 | 274 | 311 | Nathan Sealander |
-| 275 | 310 | Matt Iaccheo |
-| 276 | 310 | Christina Norman |
+| 275 | 310 | Christina Norman |
+| 276 | 310 | Matt Iaccheo |
 | 277 | 308 | Speedy Liney |
 | 278 | 306 | Cece Ibarra |
 | 279 | 305 | Larry Tilton |

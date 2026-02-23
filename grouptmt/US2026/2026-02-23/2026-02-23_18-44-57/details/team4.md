@@ -161,8 +161,8 @@
 | 153 | 502 | Ellen Durfee |
 | 154 | 501 | Kim Hunt |
 | 155 | 499 | Ericca Eldridge |
-| 156 | 498 | Nope Young |
-| 157 | 498 | Melissa Adams |
+| 156 | 498 | Melissa Adams |
+| 157 | 498 | Nope Young |
 | 158 | 496 | Jessica Lynn Cutlip |
 | 159 | 496 | Angela Srubar-Norman |
 | 160 | 486 | Swanky Fitline |
@@ -365,9 +365,9 @@
 | 357 | 249 | Ak Jones |
 | 358 | 248 | Chirpy Basepiece |
 | 359 | 248 | Jose Dejesus |
-| 360 | 246 | giantslover514 |
-| 361 | 246 | Duck |
-| 362 | 246 | Jason Bosco |
+| 360 | 246 | Duck |
+| 361 | 246 | Jason Bosco |
+| 362 | 246 | giantslover514 |
 | 363 | 245 | Jen Mattei |
 | 364 | 244 | Elizabeth Tinoco |
 | 365 | 244 | Perky Piecegrid |
@@ -417,8 +417,8 @@
 | 409 | 218 | Allison Rose |
 | 410 | 218 | Cheaneen Livingston |
 | 411 | 218 | Janita Parrish |
-| 412 | 217 | Cheery Fitline |
-| 413 | 217 | Perky Riser |
+| 412 | 217 | Perky Riser |
+| 413 | 217 | Cheery Fitline |
 | 414 | 217 | GBR |
 | 415 | 216 | Funky Risepiece |
 | 416 | 216 | Ryry |
