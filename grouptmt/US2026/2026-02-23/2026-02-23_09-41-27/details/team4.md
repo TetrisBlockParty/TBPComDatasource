@@ -71,8 +71,8 @@
 | 63 | 807 | Rachel Anne |
 | 64 | 788 | Julian Garcia |
 | 65 | 788 | Chilly Line |
-| 66 | 787 | Edward White |
-| 67 | 787 | loulou |
+| 66 | 787 | loulou |
+| 67 | 787 | Edward White |
 | 68 | 767 | Shannon Ferrari |
 | 69 | 766 | Robin Watters |
 | 70 | 765 | Robin Getchel |
@@ -208,8 +208,8 @@
 | 200 | 330 | Kathy Brookins |
 | 201 | 328 | scott |
 | 202 | 327 | J-Rizzle |
-| 203 | 324 | TinyLegoRose |
-| 204 | 324 | jim |
+| 203 | 324 | jim |
+| 204 | 324 | TinyLegoRose |
 | 205 | 321 | Meagan Nicole |
 | 206 | 320 | Lauren Scott |
 | 207 | 319 | Googenheim |
@@ -441,8 +441,8 @@
 | 433 | 166 | Gracie Ann Taylor |
 | 434 | 166 | Reds Bella |
 | 435 | 165 | Vic |
-| 436 | 165 | Zappy Buildgrid |
-| 437 | 165 | Joshua Cuellar |
+| 436 | 165 | Joshua Cuellar |
+| 437 | 165 | Zappy Buildgrid |
 | 438 | 165 | Stephanie Mico |
 | 439 | 164 | DonMega |
 | 440 | 164 | Stacy Jones |
@@ -459,8 +459,8 @@
 | 451 | 162 | conceptCollector |
 | 452 | 162 | Victoria Faniel |
 | 453 | 160 | Sho Nuff |
-| 454 | 160 | Heather Layne Smith |
-| 455 | 160 | Sam Middleton |
+| 454 | 160 | Sam Middleton |
+| 455 | 160 | Heather Layne Smith |
 | 456 | 159 | Groovy Brickmatch |
 | 457 | 158 | Dapper Frame |
 | 458 | 158 | Maria Hammie |
@@ -732,9 +732,9 @@
 | 724 | 95 | Alicia Falk |
 | 725 | 95 | Chirpy Slammer |
 | 726 | 95 | Robert Bolden |
-| 727 | 94 | Susan Purnell |
-| 728 | 94 | moneybagz |
-| 729 | 94 | Brian Owens |
+| 727 | 94 | Brian Owens |
+| 728 | 94 | Susan Purnell |
+| 729 | 94 | moneybagz |
 | 730 | 94 | Myra LaTrice |
 | 731 | 93 | Alo |
 | 732 | 93 | Sweet Pea |
@@ -1090,8 +1090,8 @@
 | 1082 | 54 | Chilly Matcher |
 | 1083 | 54 | Daring Spinzone |
 | 1084 | 54 | AuDra Renee Dupre |
-| 1085 | 53 | Twisty Risegrid |
-| 1086 | 53 | DingusBingus17 |
+| 1085 | 53 | DingusBingus17 |
+| 1086 | 53 | Twisty Risegrid |
 | 1087 | 53 | Frisky Twistslam |
 | 1088 | 53 | Wet Noodle |
 | 1089 | 53 | Dizzy Rollbuilder |

@@ -224,8 +224,8 @@
 | 216 | 1245 | Cody Nishimura |
 | 217 | 1240 | Brandon Armstrong |
 | 218 | 1237 | Megan Ferguson Leone |
-| 219 | 1232 | Groovy Puzzle |
-| 220 | 1232 | Ambyre Patterson |
+| 219 | 1232 | Ambyre Patterson |
+| 220 | 1232 | Groovy Puzzle |
 | 221 | 1230 | Megan Garrick |
 | 222 | 1221 | Jane Fong |
 | 223 | 1217 | Lucky Ladybug |
@@ -323,8 +323,8 @@
 | 315 | 957 | Block Master |
 | 316 | 955 | Angela Bonquiqui Dinish |
 | 317 | 954 | Melissa McCall |
-| 318 | 951 | Cynthia Ward |
-| 319 | 951 | Wakanda Forever |
+| 318 | 951 | Wakanda Forever |
+| 319 | 951 | Cynthia Ward |
 | 320 | 949 | Steve Man |
 | 321 | 947 | Dedra Steward |
 | 322 | 942 | Cindy Sechler Taninecz |

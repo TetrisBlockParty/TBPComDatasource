@@ -128,8 +128,8 @@
 | 120 | 452 | Hyper |
 | 121 | 451 | Plucky Ziggy |
 | 122 | 450 | lil mickey |
-| 123 | 448 | Sweet Baker |
-| 124 | 448 | Jazzy Framezone |
+| 123 | 448 | Jazzy Framezone |
+| 124 | 448 | Sweet Baker |
 | 125 | 446 | SkipTheSadSauce |
 | 126 | 443 | Steve Schneider |
 | 127 | 440 | femmefatale |
@@ -176,9 +176,9 @@
 | 168 | 368 | Amanda Johnson Huffman |
 | 169 | 367 | Sharon Reynolds |
 | 170 | 366 | J.F. Fields |
-| 171 | 364 | Shauna Loe |
+| 171 | 364 | Lehrin Maria |
 | 172 | 364 | Serina Marie |
-| 173 | 364 | Lehrin Maria |
+| 173 | 364 | Shauna Loe |
 | 174 | 360 | Wisa |
 | 175 | 360 | MIKOZ |
 | 176 | 359 | Oscar Zamora |
@@ -224,8 +224,8 @@
 | 216 | 301 | Damon J. Martin |
 | 217 | 301 | Cody Gates |
 | 218 | 300 | Sleepysloath5745 |
-| 219 | 298 | Sweetts |
-| 220 | 298 | Billie Ann Eason |
+| 219 | 298 | Billie Ann Eason |
+| 220 | 298 | Sweetts |
 | 221 | 295 | Lakeisha Chapman |
 | 222 | 294 | Chuck Gannon |
 | 223 | 293 | John Kim |
@@ -269,8 +269,8 @@
 | 261 | 260 | Marianita Garcia |
 | 262 | 260 | Lacy Wolfe |
 | 263 | 256 | Chris Sigurdson |
-| 264 | 255 | Giggly Builderline |
-| 265 | 255 | Beazel75 |
+| 264 | 255 | Beazel75 |
+| 265 | 255 | Giggly Builderline |
 | 266 | 254 | Al Smith Jr |
 | 267 | 253 | Cece Ibarra |
 | 268 | 253 | Jamie Jury |
@@ -407,8 +407,8 @@
 | 399 | 186 | Nikki Fridley |
 | 400 | 186 | Chummy Rollblock |
 | 401 | 185 | Hasty Columnbuilder |
-| 402 | 185 | Marc Abney |
-| 403 | 185 | Bay Marie |
+| 402 | 185 | Bay Marie |
+| 403 | 185 | Marc Abney |
 | 404 | 184 | Sonia Marquis |
 | 405 | 183 | Wayne Saunders |
 | 406 | 182 | MelSavage |
