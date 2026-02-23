@@ -96,8 +96,8 @@
 | 88 | 659 | Jamie Gustafson |
 | 89 | 650 | KJ Pool |
 | 90 | 647 | Shauna Havard |
-| 91 | 647 | KM8 |
-| 92 | 647 | Diana Houts |
+| 91 | 647 | Diana Houts |
+| 92 | 647 | KM8 |
 | 93 | 646 | Eric Mcgaughy |
 | 94 | 626 | Brittney Griggs |
 | 95 | 624 | Judy Cox |
@@ -122,8 +122,8 @@
 | 114 | 514 | Serena Goodridge |
 | 115 | 514 | Scott Jameson |
 | 116 | 513 | Erin Thomas |
-| 117 | 512 | Casey Jeffcoat |
-| 118 | 512 | Cristy Duerksen |
+| 117 | 512 | Cristy Duerksen |
+| 118 | 512 | Casey Jeffcoat |
 | 119 | 511 | Lori Walker |
 | 120 | 509 | Chilly Crasher |
 | 121 | 482 | Ren Mc |
@@ -142,8 +142,8 @@
 | 134 | 421 | Kesha Brady |
 | 135 | 421 | JIGsaw ~(•¿°)~ |
 | 136 | 419 | Klo |
-| 137 | 418 | Marie-Pier Desjardins |
-| 138 | 418 | Lush Linkfall |
+| 137 | 418 | Lush Linkfall |
+| 138 | 418 | Marie-Pier Desjardins |
 | 139 | 416 | Chaz Duncan |
 | 140 | 414 | Nope Young |
 | 141 | 412 | Jessica Bohlken |
@@ -215,12 +215,12 @@
 | 207 | 294 | Porkobello |
 | 208 | 294 | Calvin Cannon |
 | 209 | 292 | Epic Curvetile |
-| 210 | 290 | Plucky Patternblock |
-| 211 | 290 | Jared Gutwein |
-| 212 | 288 | Zesty Twistbuilder |
-| 213 | 288 | Brittney Orengo |
-| 214 | 288 | Adam Stephanie Parker |
-| 215 | 288 | Leah Kutz Zirbel |
+| 210 | 290 | Jared Gutwein |
+| 211 | 290 | Plucky Patternblock |
+| 212 | 288 | Brittney Orengo |
+| 213 | 288 | Zesty Twistbuilder |
+| 214 | 288 | Leah Kutz Zirbel |
+| 215 | 288 | Adam Stephanie Parker |
 | 216 | 286 | Sam Bishop |
 | 217 | 285 | 030Synner |
 | 218 | 284 | Mimi |
@@ -251,8 +251,8 @@
 | 243 | 259 | Montiette Mcglown |
 | 244 | 259 | Allen Lloyd |
 | 245 | 257 | PeaceOs |
-| 246 | 256 | Metsfan |
-| 247 | 256 | Mylo Lipscomb |
+| 246 | 256 | Mylo Lipscomb |
+| 247 | 256 | Metsfan |
 | 248 | 255 | Zethra Prenisha Rahming |
 | 249 | 253 | Autum Leigh |
 | 250 | 252 | John Brunetti |

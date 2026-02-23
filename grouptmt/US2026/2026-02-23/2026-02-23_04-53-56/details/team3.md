@@ -195,8 +195,8 @@
 | 187 | 507 | Jim Mathews |
 | 188 | 502 | Snappy Balancer |
 | 189 | 500 | Sherika C. McDaniels |
-| 190 | 496 | Loopy Fallmatch |
-| 191 | 496 | Makelini Mausia |
+| 190 | 496 | Makelini Mausia |
+| 191 | 496 | Loopy Fallmatch |
 | 192 | 494 | FuzzyNavel |
 | 193 | 489 | Terry Jo Jones |
 | 194 | 489 | Shannon Matthew Byers |
@@ -514,8 +514,8 @@
 | 506 | 200 | glichmod |
 | 507 | 200 | Christina Marie Swisher |
 | 508 | 199 | Cheeky Setter |
-| 509 | 198 | Zac Hudak |
-| 510 | 198 | Jodi Kaczynski-O'Dowd |
+| 509 | 198 | Jodi Kaczynski-O'Dowd |
+| 510 | 198 | Zac Hudak |
 | 511 | 198 | joz |
 | 512 | 197 | Fredd Thomas |
 | 513 | 197 | BabyTonj Evans |
