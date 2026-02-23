@@ -84,8 +84,8 @@
 | 76 | 758 | Ash Galvan |
 | 77 | 750 | Cartier |
 | 78 | 740 | Lori Sanders- Davis |
-| 79 | 713 | Snappy Swiper |
-| 80 | 713 | Robert Benito |
+| 79 | 713 | Robert Benito |
+| 80 | 713 | Snappy Swiper |
 | 81 | 710 | Jennifer ManWarren |
 | 82 | 706 | Plucky Fallzone |
 | 83 | 704 | Karin Gillen |
@@ -114,8 +114,8 @@
 | 106 | 570 | Cody Slav |
 | 107 | 568 | Tiger Lily |
 | 108 | 562 | Denice Dee |
-| 109 | 560 | Chirpy Smasher |
-| 110 | 560 | Veronica Eve |
+| 109 | 560 | Veronica Eve |
+| 110 | 560 | Chirpy Smasher |
 | 111 | 553 | And |
 | 112 | 537 | Stephanie Zahn |
 | 113 | 535 | Susan Ward |
@@ -132,8 +132,8 @@
 | 124 | 493 | MomMom |
 | 125 | 491 | cc |
 | 126 | 489 | Deanna L Hermanson |
-| 127 | 487 | Kandae |
-| 128 | 487 | Damon J. Martin |
+| 127 | 487 | Damon J. Martin |
+| 128 | 487 | Kandae |
 | 129 | 483 | Trina Gee |
 | 130 | 483 | Sharon Reynolds |
 | 131 | 482 | Virginia Gray Floyd |
@@ -179,8 +179,8 @@
 | 171 | 403 | Tana |
 | 172 | 402 | Chris K |
 | 173 | 400 | Chelsea Dahlquist |
-| 174 | 399 | phrmblk24 |
-| 175 | 399 | Nery Martinez |
+| 174 | 399 | Nery Martinez |
+| 175 | 399 | phrmblk24 |
 | 176 | 397 | Erin Rosberg |
 | 177 | 395 | Christy Jones |
 | 178 | 394 | Lori Bales |
@@ -255,13 +255,13 @@
 | 247 | 316 | Sassy Builderline |
 | 248 | 315 | Mandyy Rae |
 | 249 | 314 | Daring Fitclear |
-| 250 | 313 | Sylvia Vasquez |
-| 251 | 313 | Cody Gates |
-| 252 | 312 | Zany Tiler |
-| 253 | 312 | Mitchel White |
+| 250 | 313 | Cody Gates |
+| 251 | 313 | Sylvia Vasquez |
+| 252 | 312 | Mitchel White |
+| 253 | 312 | Zany Tiler |
 | 254 | 311 | Nathan Sealander |
-| 255 | 310 | Bloknboy |
-| 256 | 310 | Christina Norman |
+| 255 | 310 | Christina Norman |
+| 256 | 310 | Bloknboy |
 | 257 | 308 | Speedy Liney |
 | 258 | 307 | Νεφ Όνυξ |
 | 259 | 305 | Plucky Stacky |
@@ -457,10 +457,10 @@
 | 449 | 191 | Garcia Bailey |
 | 450 | 191 | Vivienne Carter |
 | 451 | 190 | yoyoluv |
-| 452 | 189 | BettyAnn Savo |
-| 453 | 189 | Dizzy Rackham |
-| 454 | 188 | Strig |
-| 455 | 188 | Brian Taylor |
+| 452 | 189 | Dizzy Rackham |
+| 453 | 189 | BettyAnn Savo |
+| 454 | 188 | Brian Taylor |
+| 455 | 188 | Strig |
 | 456 | 187 | Jessica Weed |
 | 457 | 187 | Bob |
 | 458 | 187 | Matthew Foley |
@@ -492,7 +492,7 @@
 | 484 | 176 | Barry Mac'Ockner |
 | 485 | 176 | Jamie Catlett |
 | 486 | 176 | Melissa Ann Macko |
-| 487 | 176 | Jamie Catlett |
+| 487 | 176 | Damian Salem |
 | 488 | 175 | Kellie Tunstall |
 | 489 | 175 | Madbull |
 | 490 | 175 | Funky Piecebuilder |

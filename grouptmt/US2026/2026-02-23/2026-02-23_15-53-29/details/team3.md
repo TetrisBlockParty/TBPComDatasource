@@ -314,9 +314,9 @@
 | 306 | 370 | Samantha Lynn |
 | 307 | 369 | Amber Glover |
 | 308 | 369 | Jennifer Alvey |
-| 309 | 368 | Christian Werndl |
+| 309 | 368 | Sheila M Frazier |
 | 310 | 368 | Stephanie Woods |
-| 311 | 368 | Sheila M Frazier |
+| 311 | 368 | Christian Werndl |
 | 312 | 365 | LaShey Thompson |
 | 313 | 362 | Foltz Lee Kelli |
 | 314 | 362 | Brandon Givens |
@@ -489,8 +489,8 @@
 | 481 | 256 | Christina Rotz Shows |
 | 482 | 255 | Jolly Dashpiece |
 | 483 | 255 | Mariah Williams |
-| 484 | 254 | Katheline Lazo Luizaga |
-| 485 | 254 | Blair Erin Waite |
+| 484 | 254 | Blair Erin Waite |
+| 485 | 254 | Katheline Lazo Luizaga |
 | 486 | 253 | crystal |
 | 487 | 253 | Scouty |
 | 488 | 253 | Hyper Bridger |

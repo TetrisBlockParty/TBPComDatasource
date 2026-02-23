@@ -257,8 +257,8 @@
 | 249 | 1232 | Ambyre Patterson |
 | 250 | 1225 | RAEPR05 |
 | 251 | 1221 | Jane Fong |
-| 252 | 1217 | Lucky Ladybug |
-| 253 | 1217 | Brooks Brooks |
+| 252 | 1217 | Brooks Brooks |
+| 253 | 1217 | Lucky Ladybug |
 | 254 | 1216 | Pacynthia Williams |
 | 255 | 1214 | David Cudicio-Hayden |
 | 256 | 1211 | Ricardo Burton |
@@ -585,11 +585,11 @@
 | 577 | 647 | CC |
 | 578 | 647 | Jackie Avila |
 | 579 | 647 | Jenn Marie |
-| 580 | 645 | Andre Love |
-| 581 | 645 | James Smith |
+| 580 | 645 | James Smith |
+| 581 | 645 | Andre Love |
 | 582 | 643 | Michelle Pike |
-| 583 | 642 | Samantha Scibelli |
-| 584 | 642 | snkylnk |
+| 583 | 642 | snkylnk |
+| 584 | 642 | Samantha Scibelli |
 | 585 | 642 | Michelle Fields |
 | 586 | 641 | Stephanie Fortune |
 | 587 | 641 | Lupita Flores |
