@@ -26,8 +26,8 @@
 | 18 | 1408 | Mara Hilker |
 | 19 | 1264 | Jennifer Cates |
 | 20 | 1215 | LaQuetta Faith Hines |
-| 21 | 1191 | Roger Aschbrenner |
-| 22 | 1191 | Nerdy Linkblock |
+| 21 | 1191 | Nerdy Linkblock |
+| 22 | 1191 | Roger Aschbrenner |
 | 23 | 1181 | Carolyn Smith |
 | 24 | 1171 | Tyler Alcock |
 | 25 | 1136 | Rahna Underwood |
@@ -104,8 +104,8 @@
 | 96 | 485 | Cartier |
 | 97 | 480 | cc |
 | 98 | 474 | Tdub |
-| 99 | 472 | April Carroll |
-| 100 | 472 | Kristen Gideon |
+| 99 | 472 | Kristen Gideon |
+| 100 | 472 | April Carroll |
 | 101 | 466 | Hasbro Bros |
 | 102 | 462 | Luciano Moreira |
 | 103 | 454 | Evan Richmond |
@@ -193,8 +193,8 @@
 | 185 | 301 | Damon J. Martin |
 | 186 | 296 | Cody Gates |
 | 187 | 294 | Margo Wagner |
-| 188 | 293 | John Kim |
-| 189 | 293 | Carrie Smith |
+| 188 | 293 | Carrie Smith |
+| 189 | 293 | John Kim |
 | 190 | 292 | Cool Shiftsnap |
 | 191 | 291 | BadG52 |
 | 192 | 290 | Speedy Liney |
@@ -258,7 +258,7 @@
 | 250 | 230 | Michael |
 | 251 | 228 | Giddy Cascade |
 | 252 | 228 | Shiny Gridmatch |
-| 253 | 228 | Giddy Cascade |
+| 253 | 228 | Adele Rahman |
 | 254 | 227 | Tipsy Riseclear |
 | 255 | 226 | Glitzy Buildsnap |
 | 256 | 223 | Erez Yosef |
@@ -333,10 +333,10 @@
 | 325 | 187 | Jessica Weed |
 | 326 | 186 | Larry Tilton |
 | 327 | 186 | Nikki Fridley |
-| 328 | 185 | Hasty Columnbuilder |
-| 329 | 185 | Oscar Zamora |
-| 330 | 184 | Itspaigebro |
-| 331 | 184 | Cranky Pattern |
+| 328 | 185 | Oscar Zamora |
+| 329 | 185 | Hasty Columnbuilder |
+| 330 | 184 | Cranky Pattern |
+| 331 | 184 | Itspaigebro |
 | 332 | 183 | Chummy Rollblock |
 | 333 | 183 | Dino |
 | 334 | 182 | Nathan Sealander |

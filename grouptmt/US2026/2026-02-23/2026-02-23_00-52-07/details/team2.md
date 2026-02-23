@@ -292,8 +292,8 @@
 | 284 | 914 | Shuany Arias |
 | 285 | 907 | Gene Mills |
 | 286 | 905 | Osun Anuket Esu |
-| 287 | 904 | John Bednarik |
-| 288 | 904 | Jennifer Aiken |
+| 287 | 904 | Jennifer Aiken |
+| 288 | 904 | John Bednarik |
 | 289 | 904 | Missie Lawson Gebhardt |
 | 290 | 904 | Ashlen Dorrell |
 | 291 | 902 | William Hunt |
@@ -388,8 +388,8 @@
 | 380 | 737 | Ginger |
 | 381 | 729 | goofinoff |
 | 382 | 728 | Charvi' Carter |
-| 383 | 728 | Allan Wayne Lamia |
-| 384 | 728 | Dylan Thomason |
+| 383 | 728 | Dylan Thomason |
+| 384 | 728 | Allan Wayne Lamia |
 | 385 | 728 | Tom Riefer |
 | 386 | 727 | Johnny Yeates |
 | 387 | 725 | Vonceial Boone |

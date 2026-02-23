@@ -238,8 +238,8 @@
 | 230 | 375 | Duane Bright |
 | 231 | 375 | Kristal C Lee |
 | 232 | 373 | Rebecca Funderburk Kirby |
-| 233 | 372 | Rich LeBlanc |
-| 234 | 372 | Sarah Moyer |
+| 233 | 372 | Sarah Moyer |
+| 234 | 372 | Rich LeBlanc |
 | 235 | 370 | RickyG |
 | 236 | 369 | Keis |
 | 237 | 368 | Stephanie Woods |
@@ -251,8 +251,8 @@
 | 243 | 360 | Sheila M Frazier |
 | 244 | 357 | Ammmmmmy |
 | 245 | 357 | Stephanie Burtin |
-| 246 | 352 | Christian Werndl |
-| 247 | 352 | Samantha Lynn |
+| 246 | 352 | Samantha Lynn |
+| 247 | 352 | Christian Werndl |
 | 248 | 351 | Eon Harris |
 | 249 | 349 | Amanda J. Mcneil-Anderson |
 | 250 | 347 | Philip Rock |
@@ -443,8 +443,8 @@
 | 435 | 206 | Frilly Stackzone |
 | 436 | 206 | Tammy Rosenberry |
 | 437 | 205 | Bouncy Blockbuilder |
-| 438 | 205 | Trey Ward |
-| 439 | 205 | Rachel Napper |
+| 438 | 205 | Rachel Napper |
+| 439 | 205 | Trey Ward |
 | 440 | 203 | Beth Ingham |
 | 441 | 202 | Melanie Sherwood |
 | 442 | 202 | Tipsy Zonebuilder |
@@ -463,15 +463,15 @@
 | 455 | 198 | Zac Hudak |
 | 456 | 198 | Linda Draper |
 | 457 | 198 | joz |
-| 458 | 197 | TLM |
-| 459 | 197 | Rainbow77375 |
+| 458 | 197 | Rainbow77375 |
+| 459 | 197 | TLM |
 | 460 | 196 | Jl |
 | 461 | 196 | Joshua David Huie |
 | 462 | 196 | Ivan Del Toro |
 | 463 | 195 | Swanky Snapclear |
 | 464 | 195 | Nicha Hooker |
-| 465 | 194 | Kevin Fountain |
-| 466 | 194 | Erykah |
+| 465 | 194 | Erykah |
+| 466 | 194 | Kevin Fountain |
 | 467 | 193 | Clever Shiftsnap |
 | 468 | 193 | Bryan Byrd |
 | 469 | 192 | Katrina E Jelks |

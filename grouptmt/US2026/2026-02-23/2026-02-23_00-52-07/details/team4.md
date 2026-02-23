@@ -175,8 +175,8 @@
 | 167 | 328 | Kris Bartlett |
 | 168 | 324 | jim |
 | 169 | 322 | J-Rizzle |
-| 170 | 320 | TRCuse |
-| 171 | 320 | Lauren Scott |
+| 170 | 320 | Lauren Scott |
+| 171 | 320 | TRCuse |
 | 172 | 316 | Meagan Nicole |
 | 173 | 314 | Andy Cabral |
 | 174 | 314 | shark tato |
@@ -490,8 +490,8 @@
 | 482 | 127 | Chao Ma |
 | 483 | 126 | PAPatty |
 | 484 | 126 | Spicy Cascadezone |
-| 485 | 126 | PAPatty |
-| 486 | 126 | Amy C Brown |
+| 485 | 126 | Amy C Brown |
+| 486 | 126 | Cheryl Johnson |
 | 487 | 126 | Stacy |
 | 488 | 125 | Kelly Adams Carnahan |
 | 489 | 125 | Frilly Blocky |
