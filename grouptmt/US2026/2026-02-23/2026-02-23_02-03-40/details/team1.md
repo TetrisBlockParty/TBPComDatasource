@@ -198,8 +198,8 @@
 | 190 | 302 | Erin Rosberg |
 | 191 | 301 | Damon J. Martin |
 | 192 | 296 | Cody Gates |
-| 193 | 294 | Margo Wagner |
-| 194 | 294 | Bindi |
+| 193 | 294 | Bindi |
+| 194 | 294 | Margo Wagner |
 | 195 | 293 | John Kim |
 | 196 | 293 | Witty Builderfit |
 | 197 | 292 | Cool Shiftsnap |
@@ -251,8 +251,8 @@
 | 243 | 241 | Tyler Hertzog |
 | 244 | 240 | DaRascal |
 | 245 | 240 | Daring Fitclear |
-| 246 | 238 | Tiffany Smith |
-| 247 | 238 | Sarah Somers Gray |
+| 246 | 238 | Sarah Somers Gray |
+| 247 | 238 | Tiffany Smith |
 | 248 | 234 | Paula Martin |
 | 249 | 233 | Shiny Gridmatch |
 | 250 | 233 | Melissa Bires Hussar |
@@ -290,8 +290,8 @@
 | 282 | 217 | Colleen Pinette |
 | 283 | 216 | Shauntina Burke |
 | 284 | 216 | Chad Atchley |
-| 285 | 215 | Shaykmia |
-| 286 | 215 | Panda Thagreat |
+| 285 | 215 | Panda Thagreat |
+| 286 | 215 | Shaykmia |
 | 287 | 214 | Tiger Lily |
 | 288 | 213 | John Barron |
 | 289 | 213 | Poppy Riserpiece |
@@ -416,8 +416,8 @@
 | 408 | 160 | Tedashi |
 | 409 | 159 | Howdi Duty |
 | 410 | 159 | Uhog SF |
-| 411 | 158 | Tamara Brown |
-| 412 | 158 | Teddy Alexander |
+| 411 | 158 | Teddy Alexander |
+| 412 | 158 | Tamara Brown |
 | 413 | 157 | MommaKFC |
 | 414 | 156 | Liliana Pena |
 | 415 | 156 | Ashley Adams |

@@ -111,8 +111,8 @@
 | 103 | 831 | Angeline Joseph |
 | 104 | 830 | Stephanie Allmon |
 | 105 | 826 | Shane Wilson Jr. |
-| 106 | 816 | Brenda Lee Vander Molen |
-| 107 | 816 | Araceli Parra |
+| 106 | 816 | Araceli Parra |
+| 107 | 816 | Brenda Lee Vander Molen |
 | 108 | 800 | Lauren Girouard |
 | 109 | 799 | Dolores Falco |
 | 110 | 762 | Speedy Bridger |
@@ -157,8 +157,8 @@
 | 149 | 582 | Natasha Jones |
 | 150 | 579 | Tasha Gillespie |
 | 151 | 574 | Morgan Martinez |
-| 152 | 572 | Domo Washington |
-| 153 | 572 | CeceGeGe |
+| 152 | 572 | CeceGeGe |
+| 153 | 572 | Domo Washington |
 | 154 | 571 | Nicole Myers |
 | 155 | 568 | Rachael McClain Owens |
 | 156 | 562 | Dave Herzog |
@@ -256,8 +256,8 @@
 | 248 | 360 | Sheila M Frazier |
 | 249 | 357 | Stephanie Burtin |
 | 250 | 357 | Ammmmmmy |
-| 251 | 352 | Christian Werndl |
-| 252 | 352 | Samantha Lynn |
+| 251 | 352 | Samantha Lynn |
+| 252 | 352 | Christian Werndl |
 | 253 | 351 | Eon Harris |
 | 254 | 349 | Amanda J. Mcneil-Anderson |
 | 255 | 347 | Philip Rock |
@@ -297,11 +297,11 @@
 | 289 | 303 | Hoppy Buildout |
 | 290 | 303 | Beaudie Stroebel |
 | 291 | 302 | Gray Hicks |
-| 292 | 301 | Betty Rosas |
-| 293 | 301 | Tiffany Davie |
-| 294 | 299 | Angie Harper |
+| 292 | 301 | Tiffany Davie |
+| 293 | 301 | Betty Rosas |
+| 294 | 299 | Carrie Huskey |
 | 295 | 299 | Ray Lader |
-| 296 | 299 | Carrie Huskey |
+| 296 | 299 | Angie Harper |
 | 297 | 298 | Grams |
 | 298 | 297 | kacihall |
 | 299 | 297 | Cheeky Snapper |

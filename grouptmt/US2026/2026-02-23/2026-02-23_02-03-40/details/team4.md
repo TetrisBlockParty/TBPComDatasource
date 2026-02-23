@@ -186,8 +186,8 @@
 | 178 | 322 | J-Rizzle |
 | 179 | 320 | Lauren Scott |
 | 180 | 316 | Meagan Nicole |
-| 181 | 314 | Andy Cabral |
-| 182 | 314 | shark tato |
+| 181 | 314 | shark tato |
+| 182 | 314 | Andy Cabral |
 | 183 | 309 | Crystal Nicolette Moore |
 | 184 | 307 | Holly Jolly |
 | 185 | 307 | Bio Nelly |
