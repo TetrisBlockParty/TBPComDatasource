@@ -66,8 +66,8 @@
 | 58 | 892 | Seth Wesson |
 | 59 | 874 | Kristen Roles Robben |
 | 60 | 858 | Michelle Nicole |
-| 61 | 850 | comrade fish |
-| 62 | 850 | Andrea Dañielle Ortiz |
+| 61 | 850 | Andrea Dañielle Ortiz |
+| 62 | 850 | comrade fish |
 | 63 | 845 | Drew Magnus |
 | 64 | 829 | Sevens4L |
 | 65 | 818 | Patrick Luckenbill |
@@ -105,8 +105,8 @@
 | 97 | 553 | And |
 | 98 | 537 | Stephanie Zahn |
 | 99 | 535 | Susan Ward |
-| 100 | 534 | Loony Fitzone |
-| 101 | 534 | Veronica Eve |
+| 100 | 534 | Veronica Eve |
+| 101 | 534 | Loony Fitzone |
 | 102 | 529 | Ryan Lunnin |
 | 103 | 522 | Tdub |
 | 104 | 522 | Sarah Lombardo |
@@ -116,8 +116,8 @@
 | 108 | 510 | Chirpy Smasher |
 | 109 | 509 | Rachael |
 | 110 | 502 | Anaid Sanchez |
-| 111 | 497 | Jennifer ManWarren |
-| 112 | 497 | Arianna O'Brien |
+| 111 | 497 | Arianna O'Brien |
+| 112 | 497 | Jennifer ManWarren |
 | 113 | 493 | MomMom |
 | 114 | 492 | Ash Galvan |
 | 115 | 491 | cc |
@@ -127,8 +127,8 @@
 | 119 | 477 | Tonya Beasley |
 | 120 | 475 | Sarah Somers Gray |
 | 121 | 471 | Hyper |
-| 122 | 467 | Candy Jones |
-| 123 | 467 | Constance Risner |
+| 122 | 467 | Constance Risner |
+| 123 | 467 | Candy Jones |
 | 124 | 463 | Lexuriuos Lifestlye |
 | 125 | 462 | Luciano Moreira |
 | 126 | 458 | Goose egg |
@@ -484,8 +484,8 @@
 | 476 | 169 | Abbey Crespo |
 | 477 | 169 | Randy Broadwater |
 | 478 | 169 | Josh Smith |
-| 479 | 168 | Logan McFarland |
-| 480 | 168 | Mrs.Patrica |
+| 479 | 168 | Mrs.Patrica |
+| 480 | 168 | Logan McFarland |
 | 481 | 166 | Gilbert Ortiz Jr. |
 | 482 | 165 | Rodney Schmerfeld |
 | 483 | 165 | Stephanie Leday |

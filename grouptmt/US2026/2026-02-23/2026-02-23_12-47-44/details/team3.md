@@ -132,8 +132,8 @@
 | 124 | 775 | Kristie |
 | 125 | 774 | Keith J Oshman Jr. |
 | 126 | 773 | Daira Largen |
-| 127 | 764 | Hasty Cascadefit |
-| 128 | 764 | Groovy Catcher |
+| 127 | 764 | Groovy Catcher |
+| 128 | 764 | Hasty Cascadefit |
 | 129 | 762 | Speedy Bridger |
 | 130 | 760 | Logan Naccarato |
 | 131 | 755 | Katrina Schroeder |
