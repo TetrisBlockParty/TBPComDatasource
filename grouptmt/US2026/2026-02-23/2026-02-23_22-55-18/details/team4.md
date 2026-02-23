@@ -62,8 +62,8 @@
 | 54 | 1156 | Goatimus Lombardi |
 | 55 | 1150 | Kimyatta Cavin |
 | 56 | 1106 | Ashley Ingram |
-| 57 | 1082 | Dion Crommarty |
-| 58 | 1082 | Avy Absol |
+| 57 | 1082 | Avy Absol |
+| 58 | 1082 | Dion Crommarty |
 | 59 | 1073 | Dustee Craddock-Harrison |
 | 60 | 1049 | Heather Tushner |
 | 61 | 1046 | Johnathan Martinez |
@@ -180,8 +180,8 @@
 | 172 | 497 | Brandon Crabbs |
 | 173 | 496 | Cindy Looper |
 | 174 | 492 | Rico |
-| 175 | 491 | Carrie Brian |
-| 176 | 491 | Jade Rian |
+| 175 | 491 | Jade Rian |
+| 176 | 491 | Carrie Brian |
 | 177 | 489 | Swanky Fitline |
 | 178 | 487 | April Rondinone |
 | 179 | 487 | Christina Black |
@@ -195,8 +195,8 @@
 | 187 | 465 | Jolly Dashfit |
 | 188 | 464 | Sharyn Lemire |
 | 189 | 462 | Leslie Thomas |
-| 190 | 457 | June Hoffman |
-| 191 | 457 | Kristin Manee |
+| 190 | 457 | Kristin Manee |
+| 191 | 457 | June Hoffman |
 | 192 | 455 | Michele Plunkett |
 | 193 | 450 | Amanda Pauldo-Ivy |
 | 194 | 449 | Courtney Cicoria |
@@ -255,21 +255,21 @@
 | 247 | 378 | JPW |
 | 248 | 378 | Googenheim |
 | 249 | 376 | Nig |
-| 250 | 369 | Matt Dell'Olio |
-| 251 | 369 | Rafael Valentin |
+| 250 | 369 | Rafael Valentin |
+| 251 | 369 | Matt Dell'Olio |
 | 252 | 368 | Kris Bartlett |
 | 253 | 367 | Meg |
-| 254 | 366 | Andrew Dang |
-| 255 | 366 | Cheery Risebuilder |
+| 254 | 366 | Cheery Risebuilder |
+| 255 | 366 | Andrew Dang |
 | 256 | 365 | Hyper Builder |
-| 257 | 363 | KimoKoala |
-| 258 | 363 | TRCuse |
+| 257 | 363 | TRCuse |
+| 258 | 363 | KimoKoala |
 | 259 | 361 | Danielle Kollias |
-| 260 | 360 | James Hurley Jr. |
-| 261 | 360 | Ari Droff |
+| 260 | 360 | Ari Droff |
+| 261 | 360 | James Hurley Jr. |
 | 262 | 358 | Twisty Cascadezone |
-| 263 | 356 | mike |
-| 264 | 356 | Joeliecea Cobb |
+| 263 | 356 | Joeliecea Cobb |
+| 264 | 356 | mike |
 | 265 | 355 | David Lay |
 | 266 | 353 | Chaz |
 | 267 | 352 | scott |
@@ -277,8 +277,8 @@
 | 269 | 350 | Jen Caldwell |
 | 270 | 349 | jim |
 | 271 | 348 | blasterB |
-| 272 | 347 | Gdiguy |
-| 273 | 347 | Daria Rycewicz |
+| 272 | 347 | Daria Rycewicz |
+| 273 | 347 | Gdiguy |
 | 274 | 343 | HastyGrabber |
 | 275 | 340 | Lauren Lamb |
 | 276 | 340 | Cranky Rollpiece |
@@ -1387,8 +1387,8 @@
 | 1379 | 41 | Deion |
 | 1380 | 41 | Nikki Ann |
 | 1381 | 41 | Juicee |
-| 1382 | 40 | canglem |
-| 1383 | 40 | Dan Kraly |
+| 1382 | 40 | Dan Kraly |
+| 1383 | 40 | canglem |
 | 1384 | 40 | Alexis Kelly |
 | 1385 | 40 | Crystal Canfield |
 | 1386 | 40 | Cortney Levesque |
