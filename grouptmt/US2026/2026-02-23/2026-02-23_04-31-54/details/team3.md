@@ -127,8 +127,8 @@
 | 119 | 750 | Logan Naccarato |
 | 120 | 748 | Adrian Marcel Pate |
 | 121 | 745 | JerseyJess |
-| 122 | 744 | Fancy Cascader |
-| 123 | 744 | Leah Barnett |
+| 122 | 744 | Leah Barnett |
+| 123 | 744 | Fancy Cascader |
 | 124 | 742 | Groovy Catcher |
 | 125 | 736 | Katrina Schroeder |
 | 126 | 736 | mzcatzy |
@@ -178,8 +178,8 @@
 | 170 | 562 | Dave Herzog |
 | 171 | 558 | Patti Skiles |
 | 172 | 553 | LaTanya GeminiondaRise Johnson |
-| 173 | 546 | Cynthia Castros-Hampton |
-| 174 | 546 | Mykal Burton |
+| 173 | 546 | Mykal Burton |
+| 174 | 546 | Cynthia Castros-Hampton |
 | 175 | 540 | Elissa S-k |
 | 176 | 540 | Shawn Miller |
 | 177 | 535 | Tasha Schriewer |
@@ -195,11 +195,11 @@
 | 187 | 507 | Jim Mathews |
 | 188 | 502 | Snappy Balancer |
 | 189 | 500 | Sherika C. McDaniels |
-| 190 | 496 | Makelini Mausia |
-| 191 | 496 | Loopy Fallmatch |
+| 190 | 496 | Loopy Fallmatch |
+| 191 | 496 | Makelini Mausia |
 | 192 | 494 | FuzzyNavel |
-| 193 | 489 | Terry Jo Jones |
-| 194 | 489 | Shannon Matthew Byers |
+| 193 | 489 | Shannon Matthew Byers |
+| 194 | 489 | Terry Jo Jones |
 | 195 | 489 | Poppy Splitter |
 | 196 | 488 | Melissa Orth Hunter |
 | 197 | 485 | Dapper Snap |
@@ -234,8 +234,8 @@
 | 226 | 408 | Tiffany Ford |
 | 227 | 404 | Chasity |
 | 228 | 404 | Kristal C Lee |
-| 229 | 403 | Denita Mungro |
-| 230 | 403 | Scott Lindsay |
+| 229 | 403 | Scott Lindsay |
+| 230 | 403 | Denita Mungro |
 | 231 | 399 | Rebecca Funderburk Kirby |
 | 232 | 391 | Trisha Balmer |
 | 233 | 391 | Nicole Flippo |
@@ -473,9 +473,9 @@
 | 465 | 214 | Amy Fuller Heaton |
 | 466 | 213 | Linda Draper |
 | 467 | 213 | Ktfreeee |
-| 468 | 212 | Frilly Stackzone |
-| 469 | 212 | neci |
-| 470 | 212 | Beth Ingham |
+| 468 | 212 | Beth Ingham |
+| 469 | 212 | Frilly Stackzone |
+| 470 | 212 | neci |
 | 471 | 211 | El Chapa |
 | 472 | 210 | Maia |
 | 473 | 210 | Kristian Thurman |

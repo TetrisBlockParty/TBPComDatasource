@@ -85,8 +85,8 @@
 | 77 | 641 | Cartier |
 | 78 | 612 | Hasbro Bros |
 | 79 | 599 | Cynthia Bradley |
-| 80 | 598 | Kellie |
-| 81 | 598 | Erin Hodges Plumb |
+| 80 | 598 | Erin Hodges Plumb |
+| 81 | 598 | Kellie |
 | 82 | 597 | Evie Khalil |
 | 83 | 588 | Greg Hart |
 | 84 | 584 | Jen Sartain |
@@ -300,8 +300,8 @@
 | 292 | 219 | Chuck Gannon |
 | 293 | 219 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 294 | 218 | Shaykmia |
-| 295 | 217 | Cheeky Crusher |
-| 296 | 217 | Phu ckalldems |
+| 295 | 217 | Phu ckalldems |
+| 296 | 217 | Cheeky Crusher |
 | 297 | 217 | Betsy |
 | 298 | 216 | Tiger Lily |
 | 299 | 216 | Angela Spann |

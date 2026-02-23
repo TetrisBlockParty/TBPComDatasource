@@ -71,8 +71,8 @@
 | 63 | 776 | Rachel Anne |
 | 64 | 772 | Ashley Ingram |
 | 65 | 767 | Shannon Ferrari |
-| 66 | 766 | Edward White |
-| 67 | 766 | Robin Watters |
+| 66 | 766 | Robin Watters |
+| 67 | 766 | Edward White |
 | 68 | 765 | Denise Carlson |
 | 69 | 765 | Robin Getchel |
 | 70 | 752 | loulou |
@@ -135,15 +135,15 @@
 | 127 | 458 | Twisty Clicky |
 | 128 | 451 | Peachy Fall |
 | 129 | 448 | Kristin Manee |
-| 130 | 435 | Leslie Thomas |
-| 131 | 435 | Kristina Black |
+| 130 | 435 | Kristina Black |
+| 131 | 435 | Leslie Thomas |
 | 132 | 431 | Courtney Cicoria |
 | 133 | 425 | Monica Daley |
-| 134 | 421 | JIGsaw ~(•¿°)~ |
-| 135 | 421 | Kesha Brady |
+| 134 | 421 | Kesha Brady |
+| 135 | 421 | JIGsaw ~(•¿°)~ |
 | 136 | 419 | Klo |
-| 137 | 418 | Lush Linkfall |
-| 138 | 418 | Marie-Pier Desjardins |
+| 137 | 418 | Marie-Pier Desjardins |
+| 138 | 418 | Lush Linkfall |
 | 139 | 416 | Chaz Duncan |
 | 140 | 414 | Nope Young |
 | 141 | 412 | Jessica Bohlken |
@@ -177,10 +177,10 @@
 | 169 | 358 | A5! |
 | 170 | 356 | George Nutt |
 | 171 | 352 | Sue Joyce Staats |
-| 172 | 349 | Twisty Cascadezone |
-| 173 | 349 | Rafael Valentin |
-| 174 | 348 | TRCuse |
-| 175 | 348 | April Rondinone |
+| 172 | 349 | Rafael Valentin |
+| 173 | 349 | Twisty Cascadezone |
+| 174 | 348 | April Rondinone |
+| 175 | 348 | TRCuse |
 | 176 | 347 | Daria Rycewicz |
 | 177 | 347 | Crystal Nicolette Moore |
 | 178 | 339 | David Lay |
@@ -239,8 +239,8 @@
 | 231 | 270 | Juls |
 | 232 | 270 | Jen Caldwell |
 | 233 | 266 | Mr. Party |
-| 234 | 265 | Silly SeaWeed |
-| 235 | 265 | Sarah Neathery |
+| 234 | 265 | Sarah Neathery |
+| 235 | 265 | Silly SeaWeed |
 | 236 | 264 | Stella |
 | 237 | 263 | JPW |
 | 238 | 262 | BigSammy420 |
@@ -284,11 +284,11 @@
 | 276 | 226 | Dizzy Matchzone |
 | 277 | 226 | Cranky Rollpiece |
 | 278 | 225 | Jenna McGeorge |
-| 279 | 223 | Amanda Christine |
-| 280 | 223 | Adawna Swires |
-| 281 | 222 | Chance Strickland |
+| 279 | 223 | Adawna Swires |
+| 280 | 223 | Amanda Christine |
+| 281 | 222 | Angelito |
 | 282 | 222 | Brandi Durig |
-| 283 | 222 | Angelito |
+| 283 | 222 | Chance Strickland |
 | 284 | 221 | Rheanda Weaskus |
 | 285 | 221 | PurpleMoonMa |
 | 286 | 220 | TinyLegoRose |
@@ -327,9 +327,9 @@
 | 319 | 205 | James Hurley Jr. |
 | 320 | 205 | KayM |
 | 321 | 204 | Russ Attitude |
-| 322 | 203 | Gilles Lanctot |
+| 322 | 203 | Andrew Dang |
 | 323 | 203 | Katherine Crane |
-| 324 | 203 | Andrew Dang |
+| 324 | 203 | Gilles Lanctot |
 | 325 | 200 | Googenheim |
 | 326 | 198 | Calvin Dennis |
 | 327 | 196 | Blessedmama |

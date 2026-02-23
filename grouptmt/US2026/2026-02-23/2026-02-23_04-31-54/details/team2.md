@@ -215,8 +215,8 @@
 | 207 | 1232 | Ambyre Patterson |
 | 208 | 1232 | Groovy Puzzle |
 | 209 | 1230 | Megan Garrick |
-| 210 | 1217 | Brooks Brooks |
-| 211 | 1217 | Lucky Ladybug |
+| 210 | 1217 | Lucky Ladybug |
+| 211 | 1217 | Brooks Brooks |
 | 212 | 1214 | David Cudicio-Hayden |
 | 213 | 1213 | Foxxo |
 | 214 | 1212 | Porsche' Nicole |
@@ -286,8 +286,8 @@
 | 278 | 1011 | Teresa Gillmore |
 | 279 | 1007 | Missie Lawson Gebhardt |
 | 280 | 1003 | Andrea Maher |
-| 281 | 998 | Keri Womack |
-| 282 | 998 | Shelley Thornburgh Wright |
+| 281 | 998 | Shelley Thornburgh Wright |
+| 282 | 998 | Keri Womack |
 | 283 | 996 | Ashie Ann |
 | 284 | 987 | Osun Anuket Esu |
 | 285 | 984 | Crystal Hoffman |
@@ -421,9 +421,9 @@
 | 413 | 744 | Mandi Douglas Hilt |
 | 414 | 741 | Jánine Riggs |
 | 415 | 740 | Jerry Tempelmeyer |
-| 416 | 737 | Chelle |
+| 416 | 737 | Ginger |
 | 417 | 737 | Jeremy Parodi |
-| 418 | 737 | Ginger |
+| 418 | 737 | Chelle |
 | 419 | 734 | Allan Wayne Lamia |
 | 420 | 734 | Ashley Guernsey-Martin |
 | 421 | 732 | Victoria Moore-Smith |
@@ -450,8 +450,8 @@
 | 442 | 707 | Mama T |
 | 443 | 706 | Kimberly Randesi |
 | 444 | 704 | Montez Mancil |
-| 445 | 703 | Ann Matzkanin |
-| 446 | 703 | Funky Drop |
+| 445 | 703 | Funky Drop |
+| 446 | 703 | Ann Matzkanin |
 | 447 | 700 | Vincent Petrella |
 | 448 | 700 | Beverly Owens |
 | 449 | 699 | Dannette Goldberg-Richards |
@@ -463,8 +463,8 @@
 | 455 | 692 | Shaun Church |
 | 456 | 691 | Poldo Ilano |
 | 457 | 684 | Sarah DeHart |
-| 458 | 684 | Ann Knutson Anderson |
-| 459 | 684 | Ellie Jonas |
+| 458 | 684 | Ellie Jonas |
+| 459 | 684 | Ann Knutson Anderson |
 | 460 | 683 | Eric Castaneda |
 | 461 | 681 | AgileDragon |
 | 462 | 680 | blume |
@@ -581,8 +581,8 @@
 | 573 | 559 | Anthony Huebel |
 | 574 | 559 | Slip |
 | 575 | 558 | Libby Hicks |
-| 576 | 554 | Dizzy Zone |
-| 577 | 554 | Tra Barnum |
+| 576 | 554 | Tra Barnum |
+| 577 | 554 | Dizzy Zone |
 | 578 | 554 | Party d |
 | 579 | 554 | Laquetta Royston |
 | 580 | 553 | Kelli Wells |
@@ -690,11 +690,11 @@
 | 682 | 481 | Jasmine Kenney |
 | 683 | 481 | Lucy Marshall |
 | 684 | 480 | Dar |
-| 685 | 479 | Ashlee Cruz |
+| 685 | 479 | Emilie Desma |
 | 686 | 479 | Jason Garnatz |
-| 687 | 479 | Emilie Desma |
-| 688 | 478 | Christina Ashley |
-| 689 | 478 | Dawn L Washington-Feuquay |
+| 687 | 479 | Ashlee Cruz |
+| 688 | 478 | Dawn L Washington-Feuquay |
+| 689 | 478 | Christina Ashley |
 | 690 | 478 | Kelly |
 | 691 | 477 | Catherine Marsh Gruda |
 | 692 | 477 | Juanita Lyons |
