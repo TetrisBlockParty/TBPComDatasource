@@ -66,8 +66,8 @@
 | 58 | 864 | Shelly Chandler |
 | 59 | 863 | Pee |
 | 60 | 859 | TeeJ |
-| 61 | 846 | Christine Marie |
-| 62 | 846 | Lucille Truesdale |
+| 61 | 846 | Lucille Truesdale |
+| 62 | 846 | Christine Marie |
 | 63 | 834 | quicksand420 |
 | 64 | 807 | Rachel Anne |
 | 65 | 807 | Amelpss |
@@ -399,11 +399,11 @@
 | 391 | 190 | wombat |
 | 392 | 189 | Duck |
 | 393 | 189 | Cool Towerbuilder |
-| 394 | 188 | Frilly Blocky |
-| 395 | 188 | Sharyn Lemire |
+| 394 | 188 | Sharyn Lemire |
+| 395 | 188 | Frilly Blocky |
 | 396 | 187 | Jenny Wells-Oakley |
 | 397 | 186 | Dandy Cascadefit |
-| 398 | 185 | Eric Wren |
+| 398 | 185 | Moonsterix |
 | 399 | 185 | Val Erie |
 | 400 | 185 | Rebecca Blake |
 | 401 | 185 | Eric Wren |
@@ -412,8 +412,8 @@
 | 404 | 183 | Cool Gridzone |
 | 405 | 183 | Darrin Rubalcava |
 | 406 | 182 | Neil Ingham |
-| 407 | 181 | Asher |
-| 408 | 181 | ImJustMe |
+| 407 | 181 | ImJustMe |
+| 408 | 181 | Nikki Wilson |
 | 409 | 181 | ĥuf |
 | 410 | 181 | Asher |
 | 411 | 181 | Shiny Pivoty |

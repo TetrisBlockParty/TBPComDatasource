@@ -78,8 +78,8 @@
 | 70 | 1264 | Amanda L Baker |
 | 71 | 1258 | Danielle Cutler |
 | 72 | 1256 | Jessica Bechler |
-| 73 | 1213 | Snappy Glidepiece |
-| 74 | 1213 | Nerdy Riseclear |
+| 73 | 1213 | Nerdy Riseclear |
+| 74 | 1213 | Snappy Glidepiece |
 | 75 | 1209 | Amanda Adkins |
 | 76 | 1186 | Christian A. Pollard |
 | 77 | 1162 | Gracie |
@@ -117,8 +117,8 @@
 | 109 | 869 | Araceli Parra |
 | 110 | 868 | Sarajane Lokan |
 | 111 | 860 | Sunny Rotater |
-| 112 | 851 | Jd Morris |
-| 113 | 851 | Danielle Becker |
+| 112 | 851 | Danielle Becker |
+| 113 | 851 | Jd Morris |
 | 114 | 850 | Danielle Mogg |
 | 115 | 848 | Patricia Gadsden |
 | 116 | 839 | Angeline Joseph |
@@ -140,8 +140,8 @@
 | 132 | 752 | Logan Naccarato |
 | 133 | 748 | Adrian Marcel Pate |
 | 134 | 746 | Giddy Drop |
-| 135 | 745 | ren |
-| 136 | 745 | JerseyJess |
+| 135 | 745 | JerseyJess |
+| 136 | 745 | ren |
 | 137 | 744 | Fancy Cascader |
 | 138 | 736 | mzcatzy |
 | 139 | 734 | Calista Jo Dickson |
@@ -169,8 +169,8 @@
 | 161 | 634 | Amber Hughes |
 | 162 | 631 | Grego Daniel |
 | 163 | 630 | yoyo |
-| 164 | 621 | Cherry Parker |
-| 165 | 621 | Sashay Tapae Simpson |
+| 164 | 621 | Sashay Tapae Simpson |
+| 165 | 621 | Cherry Parker |
 | 166 | 616 | Kammy Hill |
 | 167 | 611 | Rochelle Hazelett |
 | 168 | 603 | Jone |
@@ -198,9 +198,9 @@
 | 190 | 549 | Sarah Cowan Burgos |
 | 191 | 548 | Danielle Balcom |
 | 192 | 547 | Staci George Fitzsimmons |
-| 193 | 546 | Mykal Burton |
+| 193 | 546 | Cynthia Castros-Hampton |
 | 194 | 546 | Tasha Schriewer |
-| 195 | 546 | Cynthia Castros-Hampton |
+| 195 | 546 | Mykal Burton |
 | 196 | 540 | Shawn Miller |
 | 197 | 536 | Makelini Mausia |
 | 198 | 533 | Rania Zaqout |
@@ -293,8 +293,8 @@
 | 285 | 371 | Marquita Sheard |
 | 286 | 371 | block chick |
 | 287 | 370 | Samantha Lynn |
-| 288 | 369 | Jennifer Alvey |
-| 289 | 369 | Philip Rock |
+| 288 | 369 | Philip Rock |
+| 289 | 369 | Jennifer Alvey |
 | 290 | 369 | Amber Glover |
 | 291 | 368 | Sheila M Frazier |
 | 292 | 368 | Stephanie Woods |
@@ -364,7 +364,7 @@
 | 356 | 301 | Daring Brickzone |
 | 357 | 301 | Kaitie Oliver |
 | 358 | 301 | Tiffany Davie |
-| 359 | 301 | Kaitie Oliver |
+| 359 | 301 | Betty Rosas |
 | 360 | 299 | TotoCherue |
 | 361 | 299 | Angie Harper |
 | 362 | 299 | Hasty Gridpiece |
@@ -960,8 +960,8 @@
 | 952 | 124 | Jessica Quinn |
 | 953 | 124 | Loretta Hendricks |
 | 954 | 124 | Giggly Hitter |
-| 955 | 124 | Matty Pope |
-| 956 | 124 | FuzzyDunlop |
+| 955 | 124 | FuzzyDunlop |
+| 956 | 124 | Matty Pope |
 | 957 | 123 | Brittany Shantea Maynard |
 | 958 | 123 | Autumn Lenhart |
 | 959 | 123 | Christina Stimson |
