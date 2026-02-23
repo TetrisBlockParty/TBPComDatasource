@@ -273,8 +273,8 @@
 | 265 | 1076 | Alezandra Smith |
 | 266 | 1073 | Jodi Blake |
 | 267 | 1071 | Kim Dean |
-| 268 | 1069 | Carl Bradshaw |
-| 269 | 1069 | Offonar Facey |
+| 268 | 1069 | Offonar Facey |
+| 269 | 1069 | Carl Bradshaw |
 | 270 | 1064 | BK Queen |
 | 271 | 1063 | Caitlin Schmid |
 | 272 | 1058 | Rickey Johnson |
@@ -554,8 +554,8 @@
 | 546 | 619 | Lylymom |
 | 547 | 618 | Marella Petilo |
 | 548 | 617 | Biggest thing |
-| 549 | 617 | Darcy Mae |
-| 550 | 617 | Kacee Conrad Bock |
+| 549 | 617 | Kacee Conrad Bock |
+| 550 | 617 | Darcy Mae |
 | 551 | 615 | Nerdy Pattern |
 | 552 | 615 | Lyndi Robinson Wakefield |
 | 553 | 615 | Julio A Laracuente |
@@ -684,8 +684,8 @@
 | 676 | 522 | Leah |
 | 677 | 521 | Mia Muse Best |
 | 678 | 519 | Mandi Marie Smith |
-| 679 | 519 | Rob Brown |
-| 680 | 519 | CupCake |
+| 679 | 519 | CupCake |
+| 680 | 519 | Rob Brown |
 | 681 | 517 | Daring Caster |
 | 682 | 516 | Diamond Scott |
 | 683 | 515 | Gina Bahn |
@@ -697,11 +697,11 @@
 | 689 | 512 | Sassy Linkroll |
 | 690 | 511 | Kristie Wilcox |
 | 691 | 509 | Jordan Kaiser |
-| 692 | 509 | Toni Whipple |
-| 693 | 509 | Perky Rollfit |
+| 692 | 509 | Perky Rollfit |
+| 693 | 509 | Toni Whipple |
 | 694 | 508 | Daphne Jordan |
-| 695 | 507 | Crystal Heller Gonzalez |
-| 696 | 507 | Funky Caster |
+| 695 | 507 | Funky Caster |
+| 696 | 507 | Crystal Heller Gonzalez |
 | 697 | 506 | Cblock |
 | 698 | 505 | Casey Schumacher |
 | 699 | 502 | Kelly |
@@ -855,8 +855,8 @@
 | 847 | 428 | Jenn Morin |
 | 848 | 428 | Anthony D Gritz Jr |
 | 849 | 428 | Lisa Falcon |
-| 850 | 427 | Vung Nguyen |
-| 851 | 427 | Jo Nicole |
+| 850 | 427 | Jo Nicole |
+| 851 | 427 | Vung Nguyen |
 | 852 | 427 | Destiny Cozier |
 | 853 | 427 | Gina Caulder |
 | 854 | 426 | Rose Fx |
@@ -872,8 +872,8 @@
 | 864 | 418 | Bold Brickster |
 | 865 | 418 | Lawanda Forbes |
 | 866 | 417 | Mandy Kachenmeister |
-| 867 | 417 | Tristan Szolek |
-| 868 | 417 | Rebecca Garland |
+| 867 | 417 | Rebecca Garland |
+| 868 | 417 | Tristan Szolek |
 | 869 | 417 | Janai Vrabel |
 | 870 | 416 | Alicia Moreno |
 | 871 | 416 | Veronics |
@@ -1059,8 +1059,8 @@
 | 1051 | 357 | Shannon Byrd |
 | 1052 | 356 | ToxicTrash |
 | 1053 | 356 | Neko Preston |
-| 1054 | 355 | Jaime E. Rodriguez |
-| 1055 | 355 | Himothy |
+| 1054 | 355 | Himothy |
+| 1055 | 355 | Jaime E. Rodriguez |
 | 1056 | 355 | Layla LS |
 | 1057 | 355 | Rolie Garcia |
 | 1058 | 354 | Katherin Camacho |
@@ -1077,8 +1077,8 @@
 | 1069 | 352 | Kimmie Zimmerman-Rocha |
 | 1070 | 351 | LeVeL27 |
 | 1071 | 351 | Queen |
-| 1072 | 351 | Sara Pennington |
-| 1073 | 351 | Heather Renee Jeffers |
+| 1072 | 351 | Heather Renee Jeffers |
+| 1073 | 351 | Sara Pennington |
 | 1074 | 350 | Takneesha Ellison |
 | 1075 | 350 | Macy Jarrett |
 | 1076 | 350 | Chris Harr |
@@ -1129,8 +1129,8 @@
 | 1121 | 336 | Jumpy Gridclear |
 | 1122 | 336 | Spunky Match |
 | 1123 | 336 | Colton Saupe |
-| 1124 | 335 | FloJo |
-| 1125 | 335 | Greenshades00 |
+| 1124 | 335 | Greenshades00 |
+| 1125 | 335 | FloJo |
 | 1126 | 335 | Nancy Pohlman |
 | 1127 | 335 | Jennifer Grant-Watson |
 | 1128 | 335 | Sveta Lana |
@@ -2064,7 +2064,7 @@
 | 2056 | 201 | Rose Carl |
 | 2057 | 201 | Aubry |
 | 2058 | 200 | Stacey |
-| 2059 | 200 | Ronda Redden |
+| 2059 | 200 | Tonya McCay |
 | 2060 | 200 | Amanda Allmon |
 | 2061 | 200 | Ronda Redden |
 | 2062 | 200 | Rod Holloway |

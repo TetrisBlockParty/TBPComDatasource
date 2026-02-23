@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Jonathan Kimbrough |
-| 84 | 684 | Kimyatta Cavin |
+| 83 | 684 | Kimyatta Cavin |
+| 84 | 684 | Jonathan Kimbrough |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -120,8 +120,8 @@
 | 112 | 528 | Rodney McMath Jr. |
 | 113 | 527 | Dizzy Tiley |
 | 114 | 519 | Nugget |
-| 115 | 517 | Christina LR |
-| 116 | 517 | shar |
+| 115 | 517 | shar |
+| 116 | 517 | Christina LR |
 | 117 | 514 | Scott Jameson |
 | 118 | 514 | Serena Goodridge |
 | 119 | 513 | Erin Thomas |
@@ -153,8 +153,8 @@
 | 145 | 422 | Zakia Monae |
 | 146 | 421 | JIGsaw ~(•¿°)~ |
 | 147 | 421 | Kesha Brady |
-| 148 | 418 | Marie-Pier Desjardins |
-| 149 | 418 | Lush Linkfall |
+| 148 | 418 | Lush Linkfall |
+| 149 | 418 | Marie-Pier Desjardins |
 | 150 | 416 | Chaz Duncan |
 | 151 | 414 | Swanky Fitline |
 | 152 | 414 | Nope Young |
@@ -225,8 +225,8 @@
 | 217 | 301 | Andria Lynn |
 | 218 | 300 | Dana Scott |
 | 219 | 295 | Keshia Lyons |
-| 220 | 294 | Calvin Cannon |
-| 221 | 294 | Porkobello |
+| 220 | 294 | Porkobello |
+| 221 | 294 | Calvin Cannon |
 | 222 | 292 | Epic Curvetile |
 | 223 | 291 | Nikki Rae Gordon |
 | 224 | 290 | Plucky Patternblock |
@@ -336,10 +336,10 @@
 | 328 | 212 | Brave Spinbuilder |
 | 329 | 211 | Chris Alexinas |
 | 330 | 210 | Ari Droff |
-| 331 | 209 | Snippy Puzzle |
-| 332 | 209 | Marcus Todd |
-| 333 | 208 | Heather Bruce |
-| 334 | 208 | Shukee Lo |
+| 331 | 209 | Marcus Todd |
+| 332 | 209 | Snippy Puzzle |
+| 333 | 208 | Shukee Lo |
+| 334 | 208 | Heather Bruce |
 | 335 | 207 | Squeezy Pearsall |
 | 336 | 206 | Maureen Flanigan |
 | 337 | 206 | Laura Hosford |
@@ -460,16 +460,16 @@
 | 452 | 160 | Sho Nuff |
 | 453 | 160 | Sam Middleton |
 | 454 | 159 | Groovy Brickmatch |
-| 455 | 158 | Jasmine S Caldwell |
-| 456 | 158 | Dapper Frame |
-| 457 | 157 | LunaMoon |
-| 458 | 157 | Ryry |
+| 455 | 158 | Dapper Frame |
+| 456 | 158 | Jasmine S Caldwell |
+| 457 | 157 | Ryry |
+| 458 | 157 | LunaMoon |
 | 459 | 157 | David Boggs |
-| 460 | 156 | Mighty Edgepiece |
-| 461 | 156 | Funky Risepiece |
-| 462 | 155 | Shirl |
+| 460 | 156 | Funky Risepiece |
+| 461 | 156 | Mighty Edgepiece |
+| 462 | 155 | tipsy tiger |
 | 463 | 155 | Faja |
-| 464 | 155 | tipsy tiger |
+| 464 | 155 | Shirl |
 | 465 | 154 | Happy Combo |
 | 466 | 154 | Bryan Hodgins |
 | 467 | 153 | icequeenx |
@@ -559,8 +559,8 @@
 | 551 | 129 | Jessica Wells |
 | 552 | 129 | Tamika Starkey |
 | 553 | 128 | Zesty Linkgrid |
-| 554 | 128 | Raymond Roberts |
-| 555 | 128 | Lazy Glidepiece |
+| 554 | 128 | Lazy Glidepiece |
+| 555 | 128 | Raymond Roberts |
 | 556 | 127 | Jay You |
 | 557 | 126 | PAPatty |
 | 558 | 126 | Spicy Cascadezone |

@@ -114,8 +114,8 @@
 | 106 | 869 | Araceli Parra |
 | 107 | 868 | Sarajane Lokan |
 | 108 | 860 | Sunny Rotater |
-| 109 | 851 | Jd Morris |
-| 110 | 851 | Danielle Becker |
+| 109 | 851 | Danielle Becker |
+| 110 | 851 | Jd Morris |
 | 111 | 850 | Danielle Mogg |
 | 112 | 848 | Patricia Gadsden |
 | 113 | 831 | Angeline Joseph |
@@ -135,8 +135,8 @@
 | 127 | 752 | Logan Naccarato |
 | 128 | 748 | Adrian Marcel Pate |
 | 129 | 745 | JerseyJess |
-| 130 | 744 | Fancy Cascader |
-| 131 | 744 | Leah Barnett |
+| 130 | 744 | Leah Barnett |
+| 131 | 744 | Fancy Cascader |
 | 132 | 736 | mzcatzy |
 | 133 | 734 | Calista Jo Dickson |
 | 134 | 728 | Peppy Shifter |
@@ -333,8 +333,8 @@
 | 325 | 311 | Troy |
 | 326 | 309 | Desiree Gold |
 | 327 | 309 | Cheeky Snapper |
-| 328 | 308 | Katrina Turner |
-| 329 | 308 | Tia |
+| 328 | 308 | Tia |
+| 329 | 308 | Katrina Turner |
 | 330 | 305 | Hyper Matchzone |
 | 331 | 304 | _melisa223_ |
 | 332 | 303 | Alexmac |
@@ -344,8 +344,8 @@
 | 336 | 301 | Betty Rosas |
 | 337 | 301 | Tiffany Davie |
 | 338 | 300 | Kaycee Kay |
-| 339 | 299 | Angie Harper |
-| 340 | 299 | TotoCherue |
+| 339 | 299 | TotoCherue |
+| 340 | 299 | Angie Harper |
 | 341 | 299 | Hasty Gridpiece |
 | 342 | 298 | Angella Lyons |
 | 343 | 298 | Grams |
@@ -433,8 +433,8 @@
 | 425 | 250 | Dana Fox |
 | 426 | 249 | Willow |
 | 427 | 248 | Brian Battjes |
-| 428 | 247 | Jessica |
-| 429 | 247 | Kevin Russell |
+| 428 | 247 | Kevin Russell |
+| 429 | 247 | Jessica |
 | 430 | 245 | Latoya Mayne |
 | 431 | 245 | LaNette Morgan |
 | 432 | 244 | Lys |
@@ -501,12 +501,12 @@
 | 493 | 217 | Katie Leigh Blankenship |
 | 494 | 217 | Tia Moore |
 | 495 | 216 | Amanda Declue |
-| 496 | 214 | Jumpy Curvebuilder |
-| 497 | 214 | Crystal Hine |
-| 498 | 214 | Amy Fuller Heaton |
-| 499 | 213 | Flashy Rumbler |
+| 496 | 214 | Amy Fuller Heaton |
+| 497 | 214 | Jumpy Curvebuilder |
+| 498 | 214 | Crystal Hine |
+| 499 | 213 | Jack Bo |
 | 500 | 213 | Linda Draper |
-| 501 | 213 | Jack Bo |
+| 501 | 213 | Flashy Rumbler |
 | 502 | 213 | Ktfreeee |
 | 503 | 212 | Beth Ingham |
 | 504 | 212 | Frilly Stackzone |
