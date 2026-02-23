@@ -73,8 +73,8 @@
 | 65 | 807 | Rachel Anne |
 | 66 | 788 | Julian Garcia |
 | 67 | 788 | Chilly Line |
-| 68 | 787 | Edward White |
-| 69 | 787 | loulou |
+| 68 | 787 | loulou |
+| 69 | 787 | Edward White |
 | 70 | 767 | Shannon Ferrari |
 | 71 | 766 | Robin Watters |
 | 72 | 765 | Robin Getchel |
@@ -117,8 +117,8 @@
 | 109 | 571 | H.R. Block |
 | 110 | 561 | YoMomma |
 | 111 | 560 | Chastity Mitchell |
-| 112 | 557 | Nugget |
-| 113 | 557 | Carmethia Clemons Haslerig |
+| 112 | 557 | Carmethia Clemons Haslerig |
+| 113 | 557 | Nugget |
 | 114 | 552 | Chilly Crasher |
 | 115 | 551 | Ren Mc |
 | 116 | 542 | Austin Owens |
@@ -127,8 +127,8 @@
 | 119 | 527 | Dizzy Tiley |
 | 120 | 521 | Andy Cabral |
 | 121 | 517 | shar |
-| 122 | 514 | Serena Goodridge |
-| 123 | 514 | Scott Jameson |
+| 122 | 514 | Scott Jameson |
+| 123 | 514 | Serena Goodridge |
 | 124 | 513 | Erin Thomas |
 | 125 | 512 | Cristy Duerksen |
 | 126 | 512 | Casey Jeffcoat |
@@ -390,11 +390,11 @@
 | 382 | 191 | Riverdale |
 | 383 | 191 | Norman Klick |
 | 384 | 190 | wombat |
-| 385 | 189 | Lauren Lamb |
-| 386 | 189 | Berklie Apedaile |
+| 385 | 189 | Berklie Apedaile |
+| 386 | 189 | Lauren Lamb |
 | 387 | 189 | Cool Towerbuilder |
-| 388 | 188 | Sharyn Lemire |
-| 389 | 188 | Frilly Blocky |
+| 388 | 188 | Frilly Blocky |
+| 389 | 188 | Sharyn Lemire |
 | 390 | 187 | Jenny Wells-Oakley |
 | 391 | 186 | Dandy Cascadefit |
 | 392 | 185 | Eric Wren |

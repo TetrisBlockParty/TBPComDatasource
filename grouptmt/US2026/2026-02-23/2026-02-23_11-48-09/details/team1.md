@@ -136,8 +136,8 @@
 | 128 | 452 | Hyper |
 | 129 | 451 | Plucky Ziggy |
 | 130 | 450 | lil mickey |
-| 131 | 448 | Jazzy Framezone |
-| 132 | 448 | Sweet Baker |
+| 131 | 448 | Sweet Baker |
+| 132 | 448 | Jazzy Framezone |
 | 133 | 446 | SkipTheSadSauce |
 | 134 | 443 | Steve Schneider |
 | 135 | 440 | femmefatale |
@@ -168,8 +168,8 @@
 | 160 | 387 | Ananda Mendez |
 | 161 | 386 | Erin Rosberg |
 | 162 | 385 | Amanda Jarnagin |
-| 163 | 383 | Margo Wagner |
-| 164 | 383 | pjbeta |
+| 163 | 383 | pjbeta |
+| 164 | 383 | Margo Wagner |
 | 165 | 380 | phrmblk24 |
 | 166 | 379 | Austin James |
 | 167 | 378 | Jessica Sheehan |
@@ -254,8 +254,8 @@
 | 246 | 288 | Bird Person |
 | 247 | 287 | Sassy Builderline |
 | 248 | 285 | Shanae Grant |
-| 249 | 284 | Sam Williams |
-| 250 | 284 | Sir-Franchise Drake |
+| 249 | 284 | Sir-Franchise Drake |
+| 250 | 284 | Sam Williams |
 | 251 | 283 | Franswa |
 | 252 | 282 | Timothy Dew |
 | 253 | 281 | Clever Cascadepiece |
@@ -383,12 +383,12 @@
 | 375 | 204 | Cranky Pattern |
 | 376 | 204 | LD1 |
 | 377 | 203 | Rebekah LeiAnn Bonsell |
-| 378 | 202 | Andrew Backes |
-| 379 | 202 | Krie |
-| 380 | 202 | Amber Dee |
+| 378 | 202 | Krie |
+| 379 | 202 | Amber Dee |
+| 380 | 202 | Andrew Backes |
 | 381 | 201 | Tedashi |
-| 382 | 201 | Colleen Wise |
-| 383 | 201 | Rico Rico |
+| 382 | 201 | Rico Rico |
+| 383 | 201 | Colleen Wise |
 | 384 | 200 | Zesty Brickzone |
 | 385 | 199 | Larissa Marie Nelson |
 | 386 | 199 | Tina Englert |
@@ -438,9 +438,9 @@
 | 430 | 182 | Isaiah |
 | 431 | 182 | Lyn Sibayan |
 | 432 | 181 | David DeSantis |
-| 433 | 180 | MommaKFC |
-| 434 | 180 | Discovery Point |
-| 435 | 179 | Amie Fields |
+| 433 | 180 | Discovery Point |
+| 434 | 180 | MommaKFC |
+| 435 | 179 | Ryan White |
 | 436 | 179 | Ward Leandrea |
 | 437 | 179 | Amie Fields |
 | 438 | 178 | Gabrielle Louise Malloch |
