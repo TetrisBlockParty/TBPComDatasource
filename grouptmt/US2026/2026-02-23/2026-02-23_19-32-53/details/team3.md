@@ -219,8 +219,8 @@
 | 211 | 569 | Michael Johnson |
 | 212 | 568 | Rachael McClain Owens |
 | 213 | 566 | LaTanya GeminiondaRise Johnson |
-| 214 | 564 | Poppy Splitter |
-| 215 | 564 | Christine Trester |
+| 214 | 564 | Christine Trester |
+| 215 | 564 | Poppy Splitter |
 | 216 | 564 | Juliana Dottore |
 | 217 | 563 | FuzzyNavel |
 | 218 | 562 | Dave Herzog |
@@ -302,8 +302,8 @@
 | 294 | 426 | Gumbo |
 | 295 | 425 | Jennifer Alvey |
 | 296 | 421 | Snazzy Filler |
-| 297 | 420 | Sarah Moyer |
-| 298 | 420 | Sabrina Hardrick |
+| 297 | 420 | Sabrina Hardrick |
+| 298 | 420 | Sarah Moyer |
 | 299 | 417 | Giddy Twistbuilder |
 | 300 | 414 | RickyG |
 | 301 | 412 | Jojo M |
@@ -368,14 +368,14 @@
 | 360 | 355 | Dana Fox |
 | 361 | 354 | TotoCherue |
 | 362 | 353 | Dee Franklin |
-| 363 | 352 | Nikki Pags |
-| 364 | 352 | Tiffany Davie |
+| 363 | 352 | Tiffany Davie |
+| 364 | 352 | Nikki Pags |
 | 365 | 352 | LadyTorad |
 | 366 | 351 | Blocked |
 | 367 | 351 | Eon Harris |
-| 368 | 350 | angieelyn |
-| 369 | 348 | Ashley Raines |
-| 370 | 346 | AlsoJess |
+| 368 | 348 | Ashley Raines |
+| 369 | 346 | AlsoJess |
+| 370 | 345 | gremicx |
 | 371 | 345 | victory |
 | 372 | 345 | Misha Sanders |
 | 373 | 344 | Beaudie Stroebel |
@@ -500,8 +500,8 @@
 | 492 | 275 | Cassandra Bryant |
 | 493 | 275 | Scott Doss |
 | 494 | 274 | Nerdy Lifter |
-| 495 | 273 | Kevin Fountain |
-| 496 | 273 | BigE |
+| 495 | 273 | BigE |
+| 496 | 273 | Kevin Fountain |
 | 497 | 273 | Michael Latasha Gray |
 | 498 | 272 | Jl |
 | 499 | 272 | Todd Hall |
@@ -565,8 +565,8 @@
 | 557 | 250 | Marcus Payton |
 | 558 | 250 | Bekah Dietrich |
 | 559 | 249 | Sarah Tschee |
-| 560 | 248 | Trey Ward |
-| 561 | 248 | Smiley Zone |
+| 560 | 248 | Smiley Zone |
+| 561 | 248 | Trey Ward |
 | 562 | 247 | Melanie Sherwood |
 | 563 | 246 | Peachy Tower |
 | 564 | 246 | Cathy Leger |

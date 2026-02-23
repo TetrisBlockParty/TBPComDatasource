@@ -116,8 +116,8 @@
 | 108 | 667 | Amy Suckarieh |
 | 109 | 663 | H.R. Block |
 | 110 | 659 | Jamie Gustafson |
-| 111 | 658 | Zippy Gridlock |
-| 112 | 658 | Girl |
+| 111 | 658 | Girl |
+| 112 | 658 | Zippy Gridlock |
 | 113 | 652 | Leslie Nicole |
 | 114 | 649 | Chris Alexinas |
 | 115 | 647 | KM8 |
@@ -164,8 +164,8 @@
 | 156 | 508 | Twisty Clicky |
 | 157 | 502 | Ellen Durfee |
 | 158 | 499 | Ericca Eldridge |
-| 159 | 498 | Melissa Adams |
-| 160 | 498 | Nope Young |
+| 159 | 498 | Nope Young |
+| 160 | 498 | Melissa Adams |
 | 161 | 496 | Jessica Lynn Cutlip |
 | 162 | 491 | Jade Rian |
 | 163 | 491 | Carrie Brian |
@@ -205,8 +205,8 @@
 | 197 | 421 | JIGsaw ~(•¿°)~ |
 | 198 | 421 | Sam Bishop |
 | 199 | 421 | Kesha Brady |
-| 200 | 418 | Lush Linkfall |
-| 201 | 418 | Marie-Pier Desjardins |
+| 200 | 418 | Marie-Pier Desjardins |
+| 201 | 418 | Lush Linkfall |
 | 202 | 415 | Berklie Apedaile |
 | 203 | 413 | John Brunetti |
 | 204 | 413 | Circuit8 |
@@ -216,8 +216,8 @@
 | 208 | 410 | Oscar Alberto Perez |
 | 209 | 408 | April Rondinone |
 | 210 | 400 | Antony Dwayne Beasley |
-| 211 | 399 | Lindsay Ball |
-| 212 | 399 | Jeff Brian Gates |
+| 211 | 399 | Jeff Brian Gates |
+| 212 | 399 | Lindsay Ball |
 | 213 | 398 | Tyler Terrific |
 | 214 | 394 | Nita Wells |
 | 215 | 389 | Joseph Guthrie |
@@ -394,8 +394,8 @@
 | 386 | 235 | LaDonna LovinmesomeMe Lambert |
 | 387 | 234 | Amanda Christine |
 | 388 | 234 | Diosa Ebalobo Magsael |
-| 389 | 234 | Richard-April Kice |
-| 390 | 234 | Shanon Klair |
+| 389 | 234 | Shanon Klair |
+| 390 | 234 | Richard-April Kice |
 | 391 | 233 | Joseph Edmonson |
 | 392 | 232 | Jenny Wells-Oakley |
 | 393 | 232 | Sallie Sanborn |
