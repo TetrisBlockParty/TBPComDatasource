@@ -162,8 +162,8 @@
 | 154 | 646 | Bea Miles |
 | 155 | 634 | Amber Hughes |
 | 156 | 630 | yoyo |
-| 157 | 621 | Cherry Parker |
-| 158 | 621 | Sashay Tapae Simpson |
+| 157 | 621 | Sashay Tapae Simpson |
+| 158 | 621 | Cherry Parker |
 | 159 | 616 | Kammy Hill |
 | 160 | 611 | Rochelle Hazelett |
 | 161 | 607 | Grego Daniel |
@@ -218,8 +218,8 @@
 | 210 | 480 | Danielle Allison |
 | 211 | 477 | Edwin Calvillo Jr. |
 | 212 | 475 | Tessina Dewey-Mancino |
-| 213 | 473 | Connie Mohler-Fair |
-| 214 | 473 | Rachel |
+| 213 | 473 | Rachel |
+| 214 | 473 | Connie Mohler-Fair |
 | 215 | 471 | Mendoza Lee Christy |
 | 216 | 467 | Sherry Ogden |
 | 217 | 465 | Annie Déè |
@@ -310,8 +310,8 @@
 | 302 | 336 | Foltz Lee Kelli |
 | 303 | 336 | Jojo M |
 | 304 | 335 | victory |
-| 305 | 332 | Velma Mull |
-| 306 | 332 | Brittany |
+| 305 | 332 | Brittany |
+| 306 | 332 | Velma Mull |
 | 307 | 331 | Gray Hicks |
 | 308 | 329 | Angela Scott |
 | 309 | 328 | Desiree Soto |
@@ -451,11 +451,11 @@
 | 443 | 240 | Beppy |
 | 444 | 240 | Ashley Lynn Marchese |
 | 445 | 240 | Stefanie LaPointe |
-| 446 | 238 | 4girls |
-| 447 | 238 | Niki Dalrymple |
-| 448 | 238 | Jess Dearborn |
-| 449 | 237 | Rainbow77375 |
-| 450 | 237 | Jolly Dashpiece |
+| 446 | 238 | Niki Dalrymple |
+| 447 | 238 | Jess Dearborn |
+| 448 | 238 | 4girls |
+| 449 | 237 | Jolly Dashpiece |
+| 450 | 237 | Rainbow77375 |
 | 451 | 237 | Angella Lyons |
 | 452 | 236 | lashanda |
 | 453 | 236 | Alexis Ford |
@@ -465,11 +465,11 @@
 | 457 | 233 | Tony Waters |
 | 458 | 233 | Criss |
 | 459 | 232 | Sunny Tiltgrid |
-| 460 | 232 | Stephanie Hill |
-| 461 | 232 | Melanie Sherwood |
+| 460 | 232 | Melanie Sherwood |
+| 461 | 232 | Stephanie Hill |
 | 462 | 231 | Giggly Brickroll |
-| 463 | 230 | BigE |
-| 464 | 230 | DanceLuvLaugh |
+| 463 | 230 | DanceLuvLaugh |
+| 464 | 230 | BigE |
 | 465 | 229 | MizzMonick Smith |
 | 466 | 229 | Everret Maxine |
 | 467 | 228 | Dapper Liney |
@@ -1172,8 +1172,8 @@
 | 1164 | 95 | Corie Prosser |
 | 1165 | 95 | Susan Ray Lewis |
 | 1166 | 95 | Chantal Benee Gaines |
-| 1167 | 94 | Amy Bast |
-| 1168 | 94 | Tim Amos |
+| 1167 | 94 | Tim Amos |
+| 1168 | 94 | Amy Bast |
 | 1169 | 94 | Quteeonduty |
 | 1170 | 94 | MattieT |
 | 1171 | 94 | Casey McDowell |

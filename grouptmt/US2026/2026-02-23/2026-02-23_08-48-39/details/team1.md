@@ -541,8 +541,8 @@
 | 533 | 139 | Nate Funk |
 | 534 | 139 | Fat fred |
 | 535 | 138 | Alyssa Ingram |
-| 536 | 138 | Kirk Torrey |
-| 537 | 138 | Unicorn |
+| 536 | 138 | Unicorn |
+| 537 | 138 | Kirk Torrey |
 | 538 | 137 | Tina Kocher Zimmerman |
 | 539 | 137 | Sarah Henniker |
 | 540 | 137 | Gina Bettikofer |
