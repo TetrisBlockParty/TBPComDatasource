@@ -198,8 +198,8 @@
 | 190 | 337 | Jamise Brown |
 | 191 | 337 | Constance Risner |
 | 192 | 336 | Dizzy Party |
-| 193 | 333 | Virginia Gray Floyd |
-| 194 | 333 | Gracie |
+| 193 | 333 | Gracie |
+| 194 | 333 | Virginia Gray Floyd |
 | 195 | 332 | Happy Basegrid |
 | 196 | 328 | Snappy Matcher |
 | 197 | 327 | Jen Nystrom |
@@ -249,11 +249,11 @@
 | 241 | 275 | Cheeky Pop |
 | 242 | 275 | Chris65 |
 | 243 | 273 | Shannon Marie Pitts |
-| 244 | 272 | Barrbaric |
-| 245 | 272 | Tawnya Peltonen |
+| 244 | 272 | Tawnya Peltonen |
+| 245 | 272 | Barrbaric |
 | 246 | 271 | Frothy Pattern |
-| 247 | 270 | Debbie Kane |
-| 248 | 270 | Brenda Alexander |
+| 247 | 270 | Brenda Alexander |
+| 248 | 270 | Debbie Kane |
 | 249 | 268 | Standia Civil |
 | 250 | 267 | Daring Fitclear |
 | 251 | 265 | Kandae |

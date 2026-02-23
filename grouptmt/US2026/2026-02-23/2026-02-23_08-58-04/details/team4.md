@@ -62,8 +62,8 @@
 | 54 | 864 | Shelly Chandler |
 | 55 | 863 | Pee |
 | 56 | 859 | TeeJ |
-| 57 | 846 | Christine Marie |
-| 58 | 846 | Lucille Truesdale |
+| 57 | 846 | Lucille Truesdale |
+| 58 | 846 | Christine Marie |
 | 59 | 845 | LisaJo Picken Buchanan |
 | 60 | 834 | quicksand420 |
 | 61 | 807 | Rachel Anne |
@@ -75,8 +75,8 @@
 | 67 | 787 | loulou |
 | 68 | 767 | Shannon Ferrari |
 | 69 | 766 | Robin Watters |
-| 70 | 765 | Denise Carlson |
-| 71 | 765 | Robin Getchel |
+| 70 | 765 | Robin Getchel |
+| 71 | 765 | Denise Carlson |
 | 72 | 752 | Shane Kalamata Platoon |
 | 73 | 749 | Dustee Craddock-Harrison |
 | 74 | 747 | TheNeesh50 |
@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Jonathan Kimbrough |
-| 84 | 684 | Kimyatta Cavin |
+| 83 | 684 | Kimyatta Cavin |
+| 84 | 684 | Jonathan Kimbrough |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -153,16 +153,16 @@
 | 145 | 422 | Zakia Monae |
 | 146 | 421 | JIGsaw ~(•¿°)~ |
 | 147 | 421 | Kesha Brady |
-| 148 | 418 | Lush Linkfall |
-| 149 | 418 | Marie-Pier Desjardins |
+| 148 | 418 | Marie-Pier Desjardins |
+| 149 | 418 | Lush Linkfall |
 | 150 | 416 | Chaz Duncan |
 | 151 | 414 | Swanky Fitline |
 | 152 | 414 | Nope Young |
 | 153 | 413 | Circuit8 |
 | 154 | 412 | Jessica Bohlken |
 | 155 | 408 | Amanda Pauldo-Ivy |
-| 156 | 406 | Livvy |
-| 157 | 406 | Damn Libra |
+| 156 | 406 | Damn Libra |
+| 157 | 406 | Livvy |
 | 158 | 403 | Keith Kelley |
 | 159 | 402 | Lucas J Sutton |
 | 160 | 398 | Tyler Terrific |
@@ -233,10 +233,10 @@
 | 225 | 290 | Rebecca Morris |
 | 226 | 290 | Jared Gutwein |
 | 227 | 289 | Juls |
-| 228 | 288 | Zesty Twistbuilder |
+| 228 | 288 | Leah Kutz Zirbel |
 | 229 | 288 | Brittney Orengo |
-| 230 | 288 | Leah Kutz Zirbel |
-| 231 | 288 | Adam Stephanie Parker |
+| 230 | 288 | Adam Stephanie Parker |
+| 231 | 288 | Zesty Twistbuilder |
 | 232 | 286 | Steph Marie |
 | 233 | 285 | 030Synner |
 | 234 | 284 | Mimi |
@@ -245,8 +245,8 @@
 | 237 | 281 | Laura |
 | 238 | 280 | Rio Rocha |
 | 239 | 279 | Malakai Darien Fox |
-| 240 | 278 | Angela Geist Jusinski |
-| 241 | 278 | Sarah Brown |
+| 240 | 278 | Sarah Brown |
+| 241 | 278 | Angela Geist Jusinski |
 | 242 | 276 | Joeliecea Cobb |
 | 243 | 276 | Matt Dell'Olio |
 | 244 | 275 | Kimberlee Jan Beckstead |
@@ -462,8 +462,8 @@
 | 454 | 159 | Groovy Brickmatch |
 | 455 | 158 | Dapper Frame |
 | 456 | 158 | Jasmine S Caldwell |
-| 457 | 157 | Ryry |
-| 458 | 157 | LunaMoon |
+| 457 | 157 | LunaMoon |
+| 458 | 157 | Ryry |
 | 459 | 157 | David Boggs |
 | 460 | 156 | Mighty Edgepiece |
 | 461 | 156 | Funky Risepiece |
@@ -567,7 +567,7 @@
 | 559 | 126 | Jennifer Renee |
 | 560 | 125 | ImJustMe |
 | 561 | 125 | Frilly Blocky |
-| 562 | 125 | ImJustMe |
+| 562 | 125 | Kelly Adams Carnahan |
 | 563 | 125 | Christina Nabrizny |
 | 564 | 124 | Laurel Coppess |
 | 565 | 124 | Peppy Strike |

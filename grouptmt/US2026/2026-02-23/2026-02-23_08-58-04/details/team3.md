@@ -121,8 +121,8 @@
 | 113 | 831 | Angeline Joseph |
 | 114 | 830 | Stephanie Allmon |
 | 115 | 826 | Shane Wilson Jr. |
-| 116 | 816 | Jesse Olive |
-| 117 | 816 | Brenda Lee Vander Molen |
+| 116 | 816 | Brenda Lee Vander Molen |
+| 117 | 816 | Jesse Olive |
 | 118 | 802 | Bobbi Moore |
 | 119 | 800 | Lauren Girouard |
 | 120 | 799 | Dolores Falco |
@@ -135,8 +135,8 @@
 | 127 | 752 | Logan Naccarato |
 | 128 | 748 | Adrian Marcel Pate |
 | 129 | 745 | JerseyJess |
-| 130 | 744 | Leah Barnett |
-| 131 | 744 | Fancy Cascader |
+| 130 | 744 | Fancy Cascader |
+| 131 | 744 | Leah Barnett |
 | 132 | 736 | mzcatzy |
 | 133 | 734 | Calista Jo Dickson |
 | 134 | 728 | Peppy Shifter |
@@ -193,8 +193,8 @@
 | 185 | 553 | LaTanya GeminiondaRise Johnson |
 | 186 | 548 | Danielle Balcom |
 | 187 | 546 | Cynthia Castros-Hampton |
-| 188 | 546 | Tasha Schriewer |
-| 189 | 546 | Mykal Burton |
+| 188 | 546 | Mykal Burton |
+| 189 | 546 | Tasha Schriewer |
 | 190 | 540 | Shawn Miller |
 | 191 | 531 | Chauntee Alfrey-Cardinale |
 | 192 | 531 | Sarah Cowan Burgos |
@@ -218,8 +218,8 @@
 | 210 | 480 | Michael Johnson |
 | 211 | 477 | Edwin Calvillo Jr. |
 | 212 | 475 | Tessina Dewey-Mancino |
-| 213 | 473 | Rachel |
-| 214 | 473 | Connie Mohler-Fair |
+| 213 | 473 | Connie Mohler-Fair |
+| 214 | 473 | Rachel |
 | 215 | 471 | Mendoza Lee Christy |
 | 216 | 470 | Trisha Balmer |
 | 217 | 467 | Sherry Ogden |
@@ -275,8 +275,8 @@
 | 267 | 370 | Samantha Lynn |
 | 268 | 369 | Philip Rock |
 | 269 | 369 | Keis |
-| 270 | 368 | Stephanie Woods |
-| 271 | 368 | Sheila M Frazier |
+| 270 | 368 | Sheila M Frazier |
+| 271 | 368 | Stephanie Woods |
 | 272 | 367 | Kristin Delibac Corrigan |
 | 273 | 366 | Gumbo |
 | 274 | 364 | Carrie Huskey |
@@ -347,8 +347,8 @@
 | 339 | 299 | Angie Harper |
 | 340 | 299 | TotoCherue |
 | 341 | 299 | Hasty Gridpiece |
-| 342 | 298 | Grams |
-| 343 | 298 | Dannie Litchard |
+| 342 | 298 | Dannie Litchard |
+| 343 | 298 | Grams |
 | 344 | 297 | kacihall |
 | 345 | 296 | Tracy Martin |
 | 346 | 296 | Donna |
@@ -465,8 +465,8 @@
 | 457 | 233 | Tony Waters |
 | 458 | 233 | Criss |
 | 459 | 232 | Sunny Tiltgrid |
-| 460 | 232 | Melanie Sherwood |
-| 461 | 232 | Stephanie Hill |
+| 460 | 232 | Stephanie Hill |
+| 461 | 232 | Melanie Sherwood |
 | 462 | 231 | Giggly Brickroll |
 | 463 | 230 | DanceLuvLaugh |
 | 464 | 230 | BigE |
@@ -526,7 +526,7 @@
 | 518 | 207 | Nichol Graham |
 | 519 | 206 | Tammy Rosenberry |
 | 520 | 206 | Dakota Graham |
-| 521 | 205 | Rachel Napper |
+| 521 | 205 | Emberblaze |
 | 522 | 205 | Bouncy Blockbuilder |
 | 523 | 205 | Rachel Napper |
 | 524 | 204 | Jonathn Poindexter |
@@ -615,8 +615,8 @@
 | 607 | 181 | Rashad Green |
 | 608 | 180 | Chipper Piecefit |
 | 609 | 180 | Stella |
-| 610 | 179 | Boldy Corner |
-| 611 | 179 | Alexi Pryor |
+| 610 | 179 | Alexi Pryor |
+| 611 | 179 | Boldy Corner |
 | 612 | 179 | Num1hater |
 | 613 | 179 | Ruchi Smit |
 | 614 | 178 | Jillian Ann |
