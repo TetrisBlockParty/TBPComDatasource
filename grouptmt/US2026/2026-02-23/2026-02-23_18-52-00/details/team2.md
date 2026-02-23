@@ -681,8 +681,8 @@
 | 673 | 611 | Autumn Schaeffer |
 | 674 | 608 | Tash Bell |
 | 675 | 607 | Slip |
-| 676 | 606 | Mike Aprilliano |
-| 677 | 606 | Lea Stewart |
+| 676 | 606 | Lea Stewart |
+| 677 | 606 | Mike Aprilliano |
 | 678 | 605 | Mandi Marie Smith |
 | 679 | 605 | Jermaine Harris |
 | 680 | 604 | Rae Rae |

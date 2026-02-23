@@ -80,8 +80,8 @@
 | 72 | 862 | Carolyn Wallace |
 | 73 | 847 | Peachy Fall |
 | 74 | 846 | Lucille Truesdale |
-| 75 | 846 | Christine Marie |
-| 76 | 846 | Amelpss |
+| 75 | 846 | Amelpss |
+| 76 | 846 | Christine Marie |
 | 77 | 841 | Shauna Havard |
 | 78 | 834 | quicksand420 |
 | 79 | 832 | Lisa Davis |
@@ -142,8 +142,8 @@
 | 134 | 545 | Desi Desporte |
 | 135 | 542 | Austin Owens |
 | 136 | 540 | Rodney McMath Jr. |
-| 137 | 538 | shar |
-| 138 | 538 | Carlos Ramirez |
+| 137 | 538 | Carlos Ramirez |
+| 138 | 538 | shar |
 | 139 | 536 | Kimberlee Jan Beckstead |
 | 140 | 531 | Serena Goodridge |
 | 141 | 529 | Cool Towerbuilder |
@@ -251,9 +251,9 @@
 | 243 | 355 | Andrew Dang |
 | 244 | 354 | TRCuse |
 | 245 | 348 | David Lay |
-| 246 | 347 | Gdiguy |
-| 247 | 347 | Daria Rycewicz |
-| 248 | 347 | Bio Nelly |
+| 246 | 347 | Bio Nelly |
+| 247 | 347 | Gdiguy |
+| 248 | 347 | Daria Rycewicz |
 | 249 | 347 | scott |
 | 250 | 343 | HastyGrabber |
 | 251 | 342 | blasterB |
@@ -300,8 +300,8 @@
 | 292 | 292 | Epic Curvetile |
 | 293 | 291 | Dizzy Matchzone |
 | 294 | 290 | Jared Gutwein |
-| 295 | 290 | Neirrah B Olailjeel |
-| 296 | 290 | Heather Bruce |
+| 295 | 290 | Heather Bruce |
+| 296 | 290 | Neirrah B Olailjeel |
 | 297 | 289 | Juls |
 | 298 | 288 | Brittney Orengo |
 | 299 | 287 | Kim Klutz Olson |
