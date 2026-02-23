@@ -56,8 +56,8 @@
 | 48 | 1147 | Jae Job |
 | 49 | 1099 | Ashley Ingram |
 | 50 | 1085 | Kimyatta Cavin |
-| 51 | 1082 | Dawn Alexander |
-| 52 | 1082 | Dion Crommarty |
+| 51 | 1082 | Dion Crommarty |
+| 52 | 1082 | Dawn Alexander |
 | 53 | 1049 | Heather Tushner |
 | 54 | 1046 | Johnathan Martinez |
 | 55 | 1042 | Avy Absol |
@@ -113,8 +113,8 @@
 | 105 | 672 | Nugget |
 | 106 | 667 | Amy Suckarieh |
 | 107 | 659 | Jamie Gustafson |
-| 108 | 658 | Zippy Gridlock |
-| 109 | 658 | Girl |
+| 108 | 658 | Girl |
+| 109 | 658 | Zippy Gridlock |
 | 110 | 657 | Lori Walker |
 | 111 | 652 | Leslie Nicole |
 | 112 | 647 | KM8 |
