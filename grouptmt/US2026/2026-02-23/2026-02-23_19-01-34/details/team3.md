@@ -102,8 +102,8 @@
 | 94 | 1102 | Michelle Becker |
 | 95 | 1101 | Stephanie Rice |
 | 96 | 1094 | JerseyJess |
-| 97 | 1056 | Ebony West-Cundiff |
-| 98 | 1056 | joclisa |
+| 97 | 1056 | joclisa |
+| 98 | 1056 | Ebony West-Cundiff |
 | 99 | 1050 | Sherika C. McDaniels |
 | 100 | 1044 | Leah Barnett |
 | 101 | 1038 | Mandy Smith Oldham |
@@ -238,8 +238,8 @@
 | 230 | 537 | Tamara Deherrera |
 | 231 | 531 | Chauntee Alfrey-Cardinale |
 | 232 | 530 | Stephanie Blkpep Davidson |
-| 233 | 530 | Cesar Barraza |
-| 234 | 530 | Shannon Matthew Byers |
+| 233 | 530 | Shannon Matthew Byers |
+| 234 | 530 | Cesar Barraza |
 | 235 | 524 | Terry Jo Jones |
 | 236 | 519 | Nichol Graham |
 | 237 | 516 | Daring Brickzone |
@@ -401,8 +401,8 @@
 | 393 | 328 | Cesar Mendez |
 | 394 | 327 | Tiffanie Alley |
 | 395 | 327 | Jimmie Clemons |
-| 396 | 326 | Nelma |
-| 397 | 326 | Norma JulieMay |
+| 396 | 326 | Norma JulieMay |
+| 397 | 326 | Nelma |
 | 398 | 326 | Kerry Nowickshere |
 | 399 | 324 | Sissy Lowery Davis |
 | 400 | 323 | Sharisse Baltimore |
@@ -540,8 +540,8 @@
 | 532 | 255 | Mariah Williams |
 | 533 | 255 | LaNette Morgan |
 | 534 | 255 | Jolly Dashpiece |
-| 535 | 254 | Landycandii |
-| 536 | 254 | Katheline Lazo Luizaga |
+| 535 | 254 | Katheline Lazo Luizaga |
+| 536 | 254 | Landycandii |
 | 537 | 254 | atomictrin |
 | 538 | 253 | Kristen McAlpine |
 | 539 | 253 | Boldy Blocker |
@@ -556,17 +556,17 @@
 | 548 | 251 | Jennifer Neiman Gaal |
 | 549 | 250 | Marcus Payton |
 | 550 | 250 | Bekah Dietrich |
-| 551 | 248 | Smiley Zone |
-| 552 | 248 | Trey Ward |
+| 551 | 248 | Trey Ward |
+| 552 | 248 | Smiley Zone |
 | 553 | 247 | Melanie Sherwood |
-| 554 | 245 | Latoya Mayne |
-| 555 | 245 | Peachy Tower |
+| 554 | 245 | Peachy Tower |
+| 555 | 245 | Latoya Mayne |
 | 556 | 244 | TLM |
 | 557 | 244 | Cibf Ecihm |
 | 558 | 244 | Beezwax |
 | 559 | 244 | Amanda Fulton |
-| 560 | 243 | Lazy Matchfit |
-| 561 | 243 | Nicholas Roddy |
+| 560 | 243 | Nicholas Roddy |
+| 561 | 243 | Lazy Matchfit |
 | 562 | 242 | Misstery |
 | 563 | 242 | BŘŰŤİÇŨŚ |
 | 564 | 242 | Heather Bateman |

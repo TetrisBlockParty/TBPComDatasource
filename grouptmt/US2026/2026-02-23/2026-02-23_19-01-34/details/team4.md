@@ -142,8 +142,8 @@
 | 134 | 545 | Desi Desporte |
 | 135 | 542 | Austin Owens |
 | 136 | 540 | Rodney McMath Jr. |
-| 137 | 538 | Carlos Ramirez |
-| 138 | 538 | shar |
+| 137 | 538 | shar |
+| 138 | 538 | Carlos Ramirez |
 | 139 | 536 | Kimberlee Jan Beckstead |
 | 140 | 531 | Serena Goodridge |
 | 141 | 529 | Cool Towerbuilder |
@@ -270,8 +270,8 @@
 | 262 | 330 | Kathy Brookins |
 | 263 | 329 | Brickh4us |
 | 264 | 324 | jim |
-| 265 | 324 | Lauren Lamb |
-| 266 | 324 | Nubian1 |
+| 265 | 324 | Nubian1 |
+| 266 | 324 | Lauren Lamb |
 | 267 | 322 | Manny1 |
 | 268 | 321 | Meagan Nicole |
 | 269 | 317 | Madison Sweere |
@@ -282,13 +282,13 @@
 | 274 | 311 | Nikki Rae Gordon |
 | 275 | 310 | Stacey Stano |
 | 276 | 308 | Leah Kutz Zirbel |
-| 277 | 307 | Tina Lopez |
-| 278 | 307 | Angie Schmidt |
+| 277 | 307 | Angie Schmidt |
+| 278 | 307 | Tina Lopez |
 | 279 | 306 | mike |
 | 280 | 306 | PeaceOs |
 | 281 | 306 | Lora |
-| 282 | 304 | Shiny Fit |
-| 283 | 304 | Joanna |
+| 282 | 304 | Joanna |
+| 283 | 304 | Shiny Fit |
 | 284 | 301 | Erin Sabol |
 | 285 | 300 | Dana Scott |
 | 286 | 297 | Kenna Gunderland |
@@ -433,7 +433,7 @@
 | 425 | 212 | Mike Solo |
 | 426 | 211 | Shiny Pivoty |
 | 427 | 211 | Becky Shimko |
-| 428 | 210 | Vanessa Smart |
+| 428 | 210 | Jessica Atkinson |
 | 429 | 210 | Cool Gridzone |
 | 430 | 210 | Vanessa Smart |
 | 431 | 209 | Snippy Puzzle |

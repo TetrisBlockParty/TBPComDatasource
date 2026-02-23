@@ -179,8 +179,8 @@
 | 171 | 426 | Maria C. Hernandez |
 | 172 | 425 | Tyler Werts |
 | 173 | 424 | Emily Adelaide Wheatley |
-| 174 | 417 | Kimberly Garcia |
-| 175 | 417 | Jessie Lynn |
+| 174 | 417 | Jessie Lynn |
+| 175 | 417 | Kimberly Garcia |
 | 176 | 416 | Jessica Sheehan |
 | 177 | 415 | Jennifer Hardman |
 | 178 | 414 | Chelsea Dahlquist |
@@ -196,14 +196,14 @@
 | 188 | 399 | phrmblk24 |
 | 189 | 397 | Erin Rosberg |
 | 190 | 394 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
-| 191 | 393 | Wisa |
-| 192 | 393 | Lehrin Maria |
+| 191 | 393 | Lehrin Maria |
+| 192 | 393 | Wisa |
 | 193 | 392 | Kathy Langham |
 | 194 | 391 | Monica Donato |
 | 195 | 390 | Elaine Elaine |
-| 196 | 387 | Witty Builderfit |
+| 196 | 387 | Carrie Smith |
 | 197 | 387 | Ananda Mendez |
-| 198 | 387 | Carrie Smith |
+| 198 | 387 | Witty Builderfit |
 | 199 | 386 | Brian Spotts |
 | 200 | 385 | Debbie Kane |
 | 201 | 384 | Tami Luce Martin |
