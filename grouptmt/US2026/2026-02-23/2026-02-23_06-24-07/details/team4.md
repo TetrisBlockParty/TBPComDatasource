@@ -54,8 +54,8 @@
 | 46 | 938 | Denny Shives |
 | 47 | 936 | Rebecca Moulton Pinciaro |
 | 48 | 932 | Marvin Lou Martin |
-| 49 | 911 | Anthony Bryan Riva |
-| 50 | 911 | Jeremy Steines |
+| 49 | 911 | Jeremy Steines |
+| 50 | 911 | Anthony Bryan Riva |
 | 51 | 870 | BertMofo |
 | 52 | 863 | Pee |
 | 53 | 853 | TeeJ |
@@ -79,8 +79,8 @@
 | 71 | 749 | Dustee Craddock-Harrison |
 | 72 | 742 | Carolyn Wallace |
 | 73 | 740 | Avy Absol |
-| 74 | 736 | Crystal Carroll |
-| 75 | 736 | Goatimus Lombardi |
+| 74 | 736 | Goatimus Lombardi |
+| 75 | 736 | Crystal Carroll |
 | 76 | 728 | D3TROITB0RN74 |
 | 77 | 723 | TheNeesh50 |
 | 78 | 706 | Lisa Davis |
@@ -88,8 +88,8 @@
 | 80 | 697 | Alyssa Papen |
 | 81 | 696 | Shane Kalamata Platoon |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Jonathan Kimbrough |
-| 84 | 684 | Kimyatta Cavin |
+| 83 | 684 | Kimyatta Cavin |
+| 84 | 684 | Jonathan Kimbrough |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | KM8 |
-| 93 | 647 | Shauna Havard |
+| 92 | 647 | Shauna Havard |
+| 93 | 647 | KM8 |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -138,8 +138,8 @@
 | 130 | 458 | Twisty Clicky |
 | 131 | 451 | Peachy Fall |
 | 132 | 448 | Kristin Manee |
-| 133 | 435 | Kristina Black |
-| 134 | 435 | Leslie Thomas |
+| 133 | 435 | Leslie Thomas |
+| 134 | 435 | Kristina Black |
 | 135 | 434 | Monica Daley |
 | 136 | 432 | Zippy Block |
 | 137 | 431 | Courtney Cicoria |
@@ -151,12 +151,12 @@
 | 143 | 418 | Marie-Pier Desjardins |
 | 144 | 418 | Lush Linkfall |
 | 145 | 416 | Chaz Duncan |
-| 146 | 414 | Nope Young |
-| 147 | 414 | Swanky Fitline |
+| 146 | 414 | Swanky Fitline |
+| 147 | 414 | Nope Young |
 | 148 | 412 | Jessica Bohlken |
 | 149 | 408 | Amanda Pauldo-Ivy |
 | 150 | 406 | Damn Libra |
-| 151 | 406 | Ericca Eldridge |
+| 151 | 402 | Ericca Eldridge |
 | 152 | 398 | Tyler Terrific |
 | 153 | 397 | Livvy |
 | 154 | 393 | Carlton Unfiltered |
@@ -316,14 +316,14 @@
 | 308 | 216 | Chantilly Laace |
 | 309 | 216 | mike |
 | 310 | 215 | Stephme310 |
-| 311 | 214 | Patron Anderson |
-| 312 | 214 | Stacey Stano |
+| 311 | 214 | Stacey Stano |
+| 312 | 214 | Patron Anderson |
 | 313 | 213 | Jackie Marie |
 | 314 | 212 | Brave Spinbuilder |
 | 315 | 212 | Joseph Edmonson |
 | 316 | 212 | Zany Shatterer |
 | 317 | 212 | Jason Bosco |
-| 318 | 212 | Brave Spinbuilder |
+| 318 | 212 | Mike Solo |
 | 319 | 211 | Chris Alexinas |
 | 320 | 210 | Ari Droff |
 | 321 | 209 | Snippy Puzzle |
@@ -344,8 +344,8 @@
 | 336 | 200 | Googenheim |
 | 337 | 198 | Calvin Dennis |
 | 338 | 196 | Ernest Maxwell |
-| 339 | 196 | Blessedmama |
-| 340 | 196 | Megan Cutshaw |
+| 339 | 196 | Megan Cutshaw |
+| 340 | 196 | Blessedmama |
 | 341 | 194 | Zany Twisterfit |
 | 342 | 194 | SammieJo Guy |
 | 343 | 192 | Twisty Risebuilder |
@@ -369,8 +369,8 @@
 | 361 | 185 | Val Erie |
 | 362 | 183 | Darrin Rubalcava |
 | 363 | 183 | Cozy Balancer |
-| 364 | 182 | Ellen Durfee |
-| 365 | 182 | Dandy Cascadefit |
+| 364 | 182 | Dandy Cascadefit |
+| 365 | 182 | Ellen Durfee |
 | 366 | 182 | Neil Ingham |
 | 367 | 181 | Nikki Wilson |
 | 368 | 181 | ĥuf |

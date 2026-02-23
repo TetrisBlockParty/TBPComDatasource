@@ -35,8 +35,8 @@
 | 27 | 1212 | Christina Graham |
 | 28 | 1191 | Nerdy Linkblock |
 | 29 | 1171 | Tyler Alcock |
-| 30 | 1126 | Felicia Lewis |
-| 31 | 1126 | Tater |
+| 30 | 1126 | Tater |
+| 31 | 1126 | Felicia Lewis |
 | 32 | 1122 | Amanda Summey Schoemer |
 | 33 | 1119 | june october |
 | 34 | 1114 | Jayme Sellers |
@@ -102,8 +102,8 @@
 | 94 | 529 | Ryan Lunnin |
 | 95 | 522 | Sarah Lombardo |
 | 96 | 511 | Mario Cab |
-| 97 | 510 | Colena Davenport |
-| 98 | 510 | Chirpy Smasher |
+| 97 | 510 | Chirpy Smasher |
+| 98 | 510 | Colena Davenport |
 | 99 | 509 | Rachael |
 | 100 | 497 | Arianna O'Brien |
 | 101 | 493 | Jennifer ManWarren |
@@ -112,8 +112,8 @@
 | 104 | 491 | cc |
 | 105 | 489 | April Carroll |
 | 106 | 489 | Deanna L Hermanson |
-| 107 | 483 | Trina Gee |
-| 108 | 483 | Tdub |
+| 107 | 483 | Tdub |
+| 108 | 483 | Trina Gee |
 | 109 | 480 | Ty Brown |
 | 110 | 478 | Stephanie Zahn |
 | 111 | 463 | Lexuriuos Lifestlye |
@@ -134,15 +134,15 @@
 | 126 | 429 | Kristi Johnson |
 | 127 | 428 | Ly Phethmany |
 | 128 | 426 | Maria C. Hernandez |
-| 129 | 425 | Dandy Basegrid |
-| 130 | 425 | Lori Sanders- Davis |
+| 129 | 425 | Lori Sanders- Davis |
+| 130 | 425 | Dandy Basegrid |
 | 131 | 411 | BadG52 |
 | 132 | 409 | Goose egg |
 | 133 | 406 | Desiree Deschaine Havee |
 | 134 | 406 | Candy Jones |
 | 135 | 402 | Chris K |
-| 136 | 399 | ALFD |
-| 137 | 399 | Nery Martinez |
+| 136 | 399 | Nery Martinez |
+| 137 | 399 | ALFD |
 | 138 | 394 | Lori Bales |
 | 139 | 392 | And |
 | 140 | 389 | David Miller |
@@ -213,8 +213,8 @@
 | 205 | 307 | femmefatale |
 | 206 | 307 | Snappy Matcher |
 | 207 | 306 | Angela Renea Lester |
-| 208 | 301 | Damon J. Martin |
-| 209 | 301 | Cody Gates |
+| 208 | 301 | Cody Gates |
+| 209 | 301 | Damon J. Martin |
 | 210 | 300 | Sleepysloath5745 |
 | 211 | 298 | Billie Ann Eason |
 | 212 | 294 | Bindi |
