@@ -225,8 +225,8 @@
 | 217 | 1232 | Ambyre Patterson |
 | 218 | 1230 | Megan Garrick |
 | 219 | 1221 | Jane Fong |
-| 220 | 1217 | Brooks Brooks |
-| 221 | 1217 | Lucky Ladybug |
+| 220 | 1217 | Lucky Ladybug |
+| 221 | 1217 | Brooks Brooks |
 | 222 | 1214 | David Cudicio-Hayden |
 | 223 | 1213 | Pacynthia Williams |
 | 224 | 1211 | Ricardo Burton |
@@ -298,8 +298,8 @@
 | 290 | 1010 | Brittany Radaszewski |
 | 291 | 1007 | Missie Lawson Gebhardt |
 | 292 | 1003 | Andrea Maher |
-| 293 | 998 | Keri Womack |
-| 294 | 998 | Shelley Thornburgh Wright |
+| 293 | 998 | Shelley Thornburgh Wright |
+| 294 | 998 | Keri Womack |
 | 295 | 996 | Ashie Ann |
 | 296 | 987 | Osun Anuket Esu |
 | 297 | 987 | F-X |
@@ -345,8 +345,8 @@
 | 337 | 904 | Bee |
 | 338 | 903 | Giggy Blocker |
 | 339 | 901 | Kevin Sees |
-| 340 | 899 | Patrick Bartlett |
-| 341 | 899 | Chevy |
+| 340 | 899 | Chevy |
+| 341 | 899 | Patrick Bartlett |
 | 342 | 898 | Jamie Otero |
 | 343 | 895 | Donna Colby |
 | 344 | 888 | Donna M Carter |
@@ -420,8 +420,8 @@
 | 412 | 766 | Aimee Campbell |
 | 413 | 764 | Victoria Regina Girolami |
 | 414 | 764 | Kiely Tomaskovich |
-| 415 | 763 | Dreamy Blast |
-| 416 | 763 | Heather Causey |
+| 415 | 763 | Heather Causey |
+| 416 | 763 | Dreamy Blast |
 | 417 | 761 | Jerilyn Andrina |
 | 418 | 760 | Ashley Guernsey-Martin |
 | 419 | 760 | Allan Wayne Lamia |
@@ -442,8 +442,8 @@
 | 434 | 737 | Ginger |
 | 435 | 737 | Chelle |
 | 436 | 732 | Victoria Moore-Smith |
-| 437 | 731 | Charvi' Carter |
-| 438 | 731 | Matthew Joseph Acevedo |
+| 437 | 731 | Matthew Joseph Acevedo |
+| 438 | 731 | Charvi' Carter |
 | 439 | 730 | Hoppy Brickmatch |
 | 440 | 729 | goofinoff |
 | 441 | 728 | Mikayala Szaz |
@@ -459,8 +459,8 @@
 | 451 | 720 | BeQuo |
 | 452 | 720 | Giggy Mover |
 | 453 | 714 | Caitlyn Blackwell |
-| 454 | 713 | Draizen Montrell Thomas |
-| 455 | 713 | Christie |
+| 454 | 713 | Christie |
+| 455 | 713 | Draizen Montrell Thomas |
 | 456 | 712 | Amanda Ferrell |
 | 457 | 711 | Narutofreak13 |
 | 458 | 710 | Mama T |
@@ -603,8 +603,8 @@
 | 595 | 574 | Valerie Brooke Lusk Armstrong |
 | 596 | 573 | Vaniel Glover |
 | 597 | 573 | Mike Aprilliano |
-| 598 | 572 | Joseph Musick |
-| 599 | 572 | Rachael Senard |
+| 598 | 572 | Rachael Senard |
+| 599 | 572 | Joseph Musick |
 | 600 | 572 | Jason H Baker |
 | 601 | 572 | Alexandra Lynn |
 | 602 | 571 | Wendy Unsain |
@@ -616,8 +616,8 @@
 | 608 | 566 | Isabelle Bonneau |
 | 609 | 565 | Wuntayk |
 | 610 | 564 | Stacey Tranchida |
-| 611 | 563 | Nat |
-| 612 | 563 | Frisky Clearpiece |
+| 611 | 563 | Frisky Clearpiece |
+| 612 | 563 | Nat |
 | 613 | 562 | Sabrena Yeisley |
 | 614 | 559 | Alexx Anaya |
 | 615 | 559 | Anthony Huebel |
@@ -674,8 +674,8 @@
 | 666 | 522 | Kathleen Driskell |
 | 667 | 521 | Mia Muse Best |
 | 668 | 520 | Armonie Smith |
-| 669 | 519 | Rob Brown |
-| 670 | 519 | CupCake |
+| 669 | 519 | CupCake |
+| 670 | 519 | Rob Brown |
 | 671 | 519 | Mandi Marie Smith |
 | 672 | 517 | Daring Caster |
 | 673 | 516 | Diamond Scott |
@@ -941,8 +941,8 @@
 | 933 | 390 | Karmabunny |
 | 934 | 390 | MauroPRM |
 | 935 | 390 | Smiley Strike |
-| 936 | 390 | Tasia Stinson |
-| 937 | 390 | Kyla Louise |
+| 936 | 390 | Kyla Louise |
+| 937 | 390 | Tasia Stinson |
 | 938 | 389 | Loony Basepiece |
 | 939 | 388 | Alice Ball |
 | 940 | 388 | Tamara Bailey |
@@ -977,9 +977,9 @@
 | 969 | 378 | Elizabeth Leinen |
 | 970 | 378 | Ubu |
 | 971 | 378 | Kelly Walters |
-| 972 | 377 | NickyBrooks |
-| 973 | 377 | Muhammad |
-| 974 | 377 | Frank Castle |
+| 972 | 377 | Frank Castle |
+| 973 | 377 | NickyBrooks |
+| 974 | 377 | Muhammad |
 | 975 | 376 | Kristen Casale Berry |
 | 976 | 375 | Ashley Marie |
 | 977 | 374 | Sassy Linkbuilder |
@@ -1077,8 +1077,8 @@
 | 1069 | 347 | Zak Dunn |
 | 1070 | 347 | Persipnei Cuesta |
 | 1071 | 346 | Kelsey |
-| 1072 | 346 | Loopy Brickmatch |
-| 1073 | 346 | Zappy Dropmatch |
+| 1072 | 346 | Zappy Dropmatch |
+| 1073 | 346 | Loopy Brickmatch |
 | 1074 | 345 | Brandi Fuller Cason |
 | 1075 | 345 | David Duncan |
 | 1076 | 345 | Rhianna DiLorenzo |

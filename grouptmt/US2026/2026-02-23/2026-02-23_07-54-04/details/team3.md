@@ -113,8 +113,8 @@
 | 105 | 869 | Araceli Parra |
 | 106 | 868 | Sarajane Lokan |
 | 107 | 860 | Sunny Rotater |
-| 108 | 851 | Jd Morris |
-| 109 | 851 | Danielle Becker |
+| 108 | 851 | Danielle Becker |
+| 109 | 851 | Jd Morris |
 | 110 | 850 | Danielle Mogg |
 | 111 | 848 | Patricia Gadsden |
 | 112 | 831 | Angeline Joseph |
@@ -392,8 +392,8 @@
 | 384 | 269 | Juliana Dottore |
 | 385 | 269 | Goofy Fall |
 | 386 | 268 | Jessica Lynn French |
-| 387 | 267 | Jul |
-| 388 | 267 | April Matthew Kibble |
+| 387 | 267 | April Matthew Kibble |
+| 388 | 267 | Jul |
 | 389 | 267 | Michael Kimbro |
 | 390 | 266 | Quirky Dropzone |
 | 391 | 265 | Heather Davis |
@@ -409,11 +409,11 @@
 | 401 | 259 | Shania Vaine |
 | 402 | 259 | Dana Winters |
 | 403 | 258 | IamJust Neyamijah Washington Sr. |
-| 404 | 257 | Chris Wallace |
-| 405 | 257 | Rachel Grant |
+| 404 | 257 | Rachel Grant |
+| 405 | 257 | Chris Wallace |
 | 406 | 257 | Saucy Buildout |
-| 407 | 255 | Mariah Williams |
-| 408 | 255 | Erykah |
+| 407 | 255 | Erykah |
+| 408 | 255 | Mariah Williams |
 | 409 | 255 | Sharisse Baltimore |
 | 410 | 254 | Blair Erin Waite |
 | 411 | 253 | Daring Builder |
@@ -493,8 +493,8 @@
 | 485 | 219 | Trice Thomas |
 | 486 | 219 | TLM |
 | 487 | 218 | Sabrina Mansfield |
-| 488 | 218 | Dapper Chiseler |
-| 489 | 218 | Tina Smith Roy |
+| 488 | 218 | Tina Smith Roy |
+| 489 | 218 | Dapper Chiseler |
 | 490 | 217 | Heather Bateman |
 | 491 | 217 | Tia Moore |
 | 492 | 217 | Katie Leigh Blankenship |

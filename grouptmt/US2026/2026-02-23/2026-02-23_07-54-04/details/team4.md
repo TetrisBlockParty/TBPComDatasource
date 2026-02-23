@@ -66,16 +66,16 @@
 | 58 | 846 | Lucille Truesdale |
 | 59 | 845 | LisaJo Picken Buchanan |
 | 60 | 834 | quicksand420 |
-| 61 | 807 | Amelpss |
-| 62 | 807 | Rachel Anne |
+| 61 | 807 | Rachel Anne |
+| 62 | 807 | Amelpss |
 | 63 | 788 | Julian Garcia |
 | 64 | 787 | Edward White |
 | 65 | 783 | Ashley Ingram |
 | 66 | 781 | Chilly Line |
 | 67 | 767 | Shannon Ferrari |
 | 68 | 766 | Robin Watters |
-| 69 | 765 | Denise Carlson |
-| 70 | 765 | Robin Getchel |
+| 69 | 765 | Robin Getchel |
+| 70 | 765 | Denise Carlson |
 | 71 | 752 | loulou |
 | 72 | 752 | Shane Kalamata Platoon |
 | 73 | 749 | Dustee Craddock-Harrison |
@@ -155,8 +155,8 @@
 | 147 | 418 | Lush Linkfall |
 | 148 | 418 | Marie-Pier Desjardins |
 | 149 | 416 | Chaz Duncan |
-| 150 | 414 | Swanky Fitline |
-| 151 | 414 | Nope Young |
+| 150 | 414 | Nope Young |
+| 151 | 414 | Swanky Fitline |
 | 152 | 413 | Circuit8 |
 | 153 | 412 | Jessica Bohlken |
 | 154 | 408 | Amanda Pauldo-Ivy |
@@ -165,8 +165,8 @@
 | 157 | 406 | Livvy |
 | 158 | 403 | Keith Kelley |
 | 159 | 398 | Tyler Terrific |
-| 160 | 393 | Carlton Unfiltered |
-| 161 | 393 | Girl |
+| 160 | 393 | Girl |
+| 161 | 393 | Carlton Unfiltered |
 | 162 | 391 | Ramel Rhodes |
 | 163 | 389 | Joseph Guthrie |
 | 164 | 387 | Lucas J Sutton |
@@ -190,8 +190,8 @@
 | 182 | 350 | Carly Alexis |
 | 183 | 349 | Rafael Valentin |
 | 184 | 348 | April Rondinone |
-| 185 | 347 | Crystal Nicolette Moore |
-| 186 | 347 | Daria Rycewicz |
+| 185 | 347 | Daria Rycewicz |
+| 186 | 347 | Crystal Nicolette Moore |
 | 187 | 346 | Mylo Lipscomb |
 | 188 | 339 | David Lay |
 | 189 | 337 | Sam Bishop |
@@ -353,8 +353,8 @@
 | 345 | 201 | O block |
 | 346 | 200 | Googenheim |
 | 347 | 198 | Calvin Dennis |
-| 348 | 196 | Blessedmama |
-| 349 | 196 | Megan Cutshaw |
+| 348 | 196 | Megan Cutshaw |
+| 349 | 196 | Blessedmama |
 | 350 | 195 | Dustin York |
 | 351 | 194 | Shiny Fit |
 | 352 | 194 | Michelle Morris |
@@ -459,8 +459,8 @@
 | 451 | 159 | Groovy Brickmatch |
 | 452 | 158 | Dapper Frame |
 | 453 | 158 | Jasmine S Caldwell |
-| 454 | 157 | LunaMoon |
-| 455 | 157 | Ryry |
+| 454 | 157 | Ryry |
+| 455 | 157 | LunaMoon |
 | 456 | 157 | David Boggs |
 | 457 | 156 | Funky Risepiece |
 | 458 | 156 | Mighty Edgepiece |
