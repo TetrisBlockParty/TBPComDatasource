@@ -416,9 +416,9 @@
 | 408 | 837 | Maricia Layolla Cason |
 | 409 | 836 | KhaosLord |
 | 410 | 836 | AgileDragon |
-| 411 | 833 | Dennis McLaurin |
+| 411 | 833 | Christie |
 | 412 | 833 | Moni Foxe |
-| 413 | 833 | Christie |
+| 413 | 833 | Dennis McLaurin |
 | 414 | 832 | Nicole L Morelli |
 | 415 | 831 | Christina Lewis-Vickers |
 | 416 | 830 | Smashanator |
@@ -440,8 +440,8 @@
 | 432 | 808 | Laura McCarthey |
 | 433 | 808 | Jánine Riggs |
 | 434 | 804 | Sarah DeHart |
-| 435 | 804 | Becca Coronado |
-| 436 | 804 | Barry Britt |
+| 435 | 804 | Barry Britt |
+| 436 | 804 | Becca Coronado |
 | 437 | 803 | Tiara Elizabeth Baker |
 | 438 | 802 | Jessicah Myers |
 | 439 | 801 | Diana Fitzwater |
@@ -482,8 +482,8 @@
 | 474 | 758 | Stephanie Neuburger |
 | 475 | 755 | Taryece Gause |
 | 476 | 754 | tejas25 |
-| 477 | 751 | Breezy Filler |
-| 478 | 751 | Caitlyn Blackwell |
+| 477 | 751 | Caitlyn Blackwell |
+| 478 | 751 | Breezy Filler |
 | 479 | 751 | Loony Snapper |
 | 480 | 750 | Michael Buckner |
 | 481 | 750 | Draizen Montrell Thomas |
@@ -502,8 +502,8 @@
 | 494 | 732 | Victoria Moore-Smith |
 | 495 | 729 | goofinoff |
 | 496 | 728 | Mikayala Szaz |
-| 497 | 728 | Tom Riefer |
-| 498 | 728 | Giggy Mover |
+| 497 | 728 | Giggy Mover |
+| 498 | 728 | Tom Riefer |
 | 499 | 727 | BeQuo |
 | 500 | 726 | Joce Lynn |
 | 501 | 726 | Crystal Greene |

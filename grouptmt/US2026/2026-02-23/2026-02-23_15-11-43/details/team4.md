@@ -78,8 +78,8 @@
 | 70 | 807 | Amelpss |
 | 71 | 802 | Crystal Carroll |
 | 72 | 788 | Chilly Line |
-| 73 | 787 | Edward White |
-| 74 | 787 | loulou |
+| 73 | 787 | loulou |
+| 74 | 787 | Edward White |
 | 75 | 769 | Alyssa Papen |
 | 76 | 768 | Judy Cox |
 | 77 | 767 | Shannon Ferrari |
@@ -130,8 +130,8 @@
 | 122 | 545 | Desi Desporte |
 | 123 | 542 | Austin Owens |
 | 124 | 540 | Rodney McMath Jr. |
-| 125 | 538 | shar |
-| 126 | 538 | Lindsey Gonzalez |
+| 125 | 538 | Lindsey Gonzalez |
+| 126 | 538 | shar |
 | 127 | 537 | Dizzy Tiley |
 | 128 | 533 | Samantha Peterson |
 | 129 | 531 | Serena Goodridge |
@@ -166,8 +166,8 @@
 | 158 | 462 | Leslie Thomas |
 | 159 | 460 | Cursed Hag |
 | 160 | 457 | Keith Kelley |
-| 161 | 448 | Swanky Fitline |
-| 162 | 448 | Kristin Manee |
+| 161 | 448 | Kristin Manee |
+| 162 | 448 | Swanky Fitline |
 | 163 | 444 | Mylo Lipscomb |
 | 164 | 435 | Kristina Black |
 | 165 | 433 | Nick Gray |
@@ -202,18 +202,18 @@
 | 194 | 383 | Chris Bernstein |
 | 195 | 376 | Zesty Twistbuilder |
 | 196 | 372 | George Nutt |
-| 197 | 368 | Holly Jolly |
-| 198 | 368 | Silly Zonebuilder |
+| 197 | 368 | Silly Zonebuilder |
+| 198 | 368 | Holly Jolly |
 | 199 | 367 | Sue Joyce Staats |
 | 200 | 365 | Jeff Brian Gates |
 | 201 | 363 | Cindy Looper |
-| 202 | 361 | Rafael Valentin |
-| 203 | 361 | Danielle Kollias |
-| 204 | 358 | A5! |
-| 205 | 358 | Twisty Cascadezone |
+| 202 | 361 | Danielle Kollias |
+| 203 | 361 | Rafael Valentin |
+| 204 | 358 | Twisty Cascadezone |
+| 205 | 358 | A5! |
 | 206 | 355 | James Hurley Jr. |
-| 207 | 354 | TRCuse |
-| 208 | 354 | Sharyn Lemire |
+| 207 | 354 | Sharyn Lemire |
+| 208 | 354 | TRCuse |
 | 209 | 354 | Kris Bartlett |
 | 210 | 352 | April Rondinone |
 | 211 | 348 | David Lay |
@@ -303,10 +303,10 @@
 | 295 | 265 | Degenerate |
 | 296 | 264 | ZeeZee |
 | 297 | 263 | rebel4lyfe |
-| 298 | 262 | Andrew Dang |
-| 299 | 262 | Selena Shaw |
-| 300 | 262 | Ruben Wheeler |
-| 301 | 262 | BigSammy420 |
+| 298 | 262 | Selena Shaw |
+| 299 | 262 | Andrew Dang |
+| 300 | 262 | BigSammy420 |
+| 301 | 262 | Ruben Wheeler |
 | 302 | 261 | Zethra Prenisha Rahming |
 | 303 | 260 | Carter Jones |
 | 304 | 259 | Montiette Mcglown |
@@ -797,9 +797,9 @@
 | 789 | 95 | Smiley Staggerpiece |
 | 790 | 95 | Wacky Blockclear |
 | 791 | 95 | Chirpy Slammer |
-| 792 | 95 | Smiley Staggerpiece |
-| 793 | 95 | RedBoots82 |
-| 794 | 95 | Harper |
+| 792 | 95 | Alicia Falk |
+| 793 | 95 | Harper |
+| 794 | 95 | RedBoots82 |
 | 795 | 94 | Susan Purnell |
 | 796 | 93 | Ryan Knives Vanderpool |
 | 797 | 93 | Mousey406 |

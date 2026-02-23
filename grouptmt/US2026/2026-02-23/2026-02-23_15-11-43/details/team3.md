@@ -206,8 +206,8 @@
 | 198 | 549 | Sarah Cowan Burgos |
 | 199 | 548 | Danielle Balcom |
 | 200 | 547 | Staci George Fitzsimmons |
-| 201 | 546 | Mykal Burton |
-| 202 | 546 | Cynthia Castros-Hampton |
+| 201 | 546 | Cynthia Castros-Hampton |
+| 202 | 546 | Mykal Burton |
 | 203 | 543 | Silly Twist |
 | 204 | 540 | Shawn Miller |
 | 205 | 539 | Betty Bóò |
@@ -220,8 +220,8 @@
 | 212 | 524 | Shannon Matthew Byers |
 | 213 | 524 | Terry Jo Jones |
 | 214 | 515 | Cozy Snaplink |
-| 215 | 513 | Lizabeth Fox |
-| 216 | 513 | kacihall |
+| 215 | 513 | kacihall |
+| 216 | 513 | Lizabeth Fox |
 | 217 | 508 | Fran Lin |
 | 218 | 506 | Twisty Brick LT |
 | 219 | 505 | Stephanie Simpson |
@@ -298,8 +298,8 @@
 | 290 | 385 | Velma Mull |
 | 291 | 384 | Noyb Adam |
 | 292 | 384 | France Vézina |
-| 293 | 382 | Desiree Gold |
-| 294 | 382 | Salena Whitlock |
+| 293 | 382 | Salena Whitlock |
+| 294 | 382 | Desiree Gold |
 | 295 | 380 | Rebecca Bailey |
 | 296 | 379 | Philip Rock |
 | 297 | 379 | JessDrown |
@@ -315,8 +315,8 @@
 | 307 | 368 | Stephanie Woods |
 | 308 | 368 | Sheila M Frazier |
 | 309 | 365 | LaShey Thompson |
-| 310 | 362 | Foltz Lee Kelli |
-| 311 | 362 | Brandon Givens |
+| 310 | 362 | Brandon Givens |
+| 311 | 362 | Foltz Lee Kelli |
 | 312 | 361 | Breanna Marsden |
 | 313 | 360 | Dee Pratt |
 | 314 | 359 | Kelly |
@@ -2008,7 +2008,7 @@
 | 2000 | 45 | Eva Dean |
 | 2001 | 45 | Jaclyn Nikolaus |
 | 2002 | 44 | Wacky Tumbler |
-| 2003 | 44 | Rachelle-Marshall Foreman |
+| 2003 | 44 | Sara Smith |
 | 2004 | 44 | Rosey Posey |
 | 2005 | 44 | Hyper Builderfit |
 | 2006 | 44 | Silly Cascadezone |
