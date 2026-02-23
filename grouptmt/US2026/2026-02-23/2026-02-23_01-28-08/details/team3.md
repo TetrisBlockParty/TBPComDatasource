@@ -209,8 +209,8 @@
 | 201 | 432 | Jenny Hrndz |
 | 202 | 432 | Luciana Braganca Vieira |
 | 203 | 431 | Wendy Dearden |
-| 204 | 430 | Joye Sims Binion |
-| 205 | 430 | Jeni Dow |
+| 204 | 430 | Jeni Dow |
+| 205 | 430 | Joye Sims Binion |
 | 206 | 429 | Fallorina Susana |
 | 207 | 426 | Rochelle Hazelett |
 | 208 | 417 | Edwin Calvillo Jr. |
@@ -435,8 +435,8 @@
 | 427 | 214 | Amy Fuller Heaton |
 | 428 | 213 | Cheeky Twisterfit |
 | 429 | 213 | Linda Draper |
-| 430 | 212 | BŘŰŤİÇŨŚ |
-| 431 | 212 | Beth Ingham |
+| 430 | 212 | Beth Ingham |
+| 431 | 212 | BŘŰŤİÇŨŚ |
 | 432 | 211 | El Chapa |
 | 433 | 210 | Kristian Thurman |
 | 434 | 210 | Maia |

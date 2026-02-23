@@ -149,16 +149,16 @@
 | 141 | 364 | Shauna Loe |
 | 142 | 364 | Serina Marie |
 | 143 | 364 | Monica Donato |
-| 144 | 361 | Amanda Johnson Huffman |
-| 145 | 361 | Tanya Carpenter-Reynolds |
+| 144 | 361 | Tanya Carpenter-Reynolds |
+| 145 | 361 | Amanda Johnson Huffman |
 | 146 | 360 | phrmblk24 |
 | 147 | 360 | Wisa |
 | 148 | 359 | Chirpy Smasher |
 | 149 | 353 | Josh Riemer |
 | 150 | 351 | Basment Living |
 | 151 | 350 | Tipsy Strikerpiece |
-| 152 | 343 | Elaine Elaine |
-| 153 | 343 | Chelsea Dahlquist |
+| 152 | 343 | Chelsea Dahlquist |
+| 153 | 343 | Elaine Elaine |
 | 154 | 341 | Shiny Snapfit |
 | 155 | 341 | Nick R Montague |
 | 156 | 338 | Jennifer Hardman |
@@ -216,8 +216,8 @@
 | 208 | 275 | Chris65 |
 | 209 | 273 | Shannon Marie Pitts |
 | 210 | 271 | Frothy Pattern |
-| 211 | 269 | Jen Nystrom |
-| 212 | 269 | Amanda Jarnagin |
+| 211 | 269 | Amanda Jarnagin |
+| 212 | 269 | Jen Nystrom |
 | 213 | 268 | Reesey Enyart |
 | 214 | 267 | Debbie Kane |
 | 215 | 265 | Kandae |

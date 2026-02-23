@@ -86,8 +86,8 @@
 | 78 | 664 | Valerie Roberts |
 | 79 | 661 | Lisa Davis |
 | 80 | 659 | Jonathan Kimbrough |
-| 81 | 647 | Shauna Havard |
-| 82 | 647 | KM8 |
+| 81 | 647 | KM8 |
+| 82 | 647 | Shauna Havard |
 | 83 | 646 | Eric Mcgaughy |
 | 84 | 641 | Savannah Overdorf |
 | 85 | 626 | Brittney Griggs |
@@ -231,8 +231,8 @@
 | 223 | 264 | Carlos Ramirez |
 | 224 | 264 | scott |
 | 225 | 261 | Dihcheese444 |
-| 226 | 259 | Cheery Risebuilder |
-| 227 | 259 | Montiette Mcglown |
+| 226 | 259 | Montiette Mcglown |
+| 227 | 259 | Cheery Risebuilder |
 | 228 | 257 | PeaceOs |
 | 229 | 256 | Mylo Lipscomb |
 | 230 | 252 | Selena Shaw |
@@ -246,11 +246,11 @@
 | 238 | 245 | Autum Leigh |
 | 239 | 245 | Adam Stephanie Parker |
 | 240 | 241 | Allen Lloyd |
-| 241 | 240 | Perky Patternblock |
-| 242 | 240 | Kim Hunt |
+| 241 | 240 | Kim Hunt |
+| 242 | 240 | Perky Patternblock |
 | 243 | 238 | Chaz |
-| 244 | 237 | Christine Therrien |
-| 245 | 237 | 030Synner |
+| 244 | 237 | 030Synner |
+| 245 | 237 | Christine Therrien |
 | 246 | 235 | Shainne Brewer |
 | 247 | 235 | LaDonna LovinmesomeMe Lambert |
 | 248 | 233 | Metsfan |

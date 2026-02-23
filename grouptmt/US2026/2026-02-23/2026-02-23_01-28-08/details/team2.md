@@ -126,8 +126,8 @@
 | 118 | 1725 | ShinyRose |
 | 119 | 1700 | Jumpy Gridpiece |
 | 120 | 1699 | Jamie Main |
-| 121 | 1681 | Shandrica Lowe |
-| 122 | 1681 | Nett |
+| 121 | 1681 | Nett |
+| 122 | 1681 | Shandrica Lowe |
 | 123 | 1652 | Kristopher Miller |
 | 124 | 1644 | Luna |
 | 125 | 1639 | Jessie McDougald |
@@ -271,8 +271,8 @@
 | 263 | 979 | Hillary Crawford |
 | 264 | 976 | Maria Escobar |
 | 265 | 972 | Della Hole |
-| 266 | 972 | Barbra Miller |
-| 267 | 972 | Juliana Marques Do Nascimento Gordy |
+| 266 | 972 | Juliana Marques Do Nascimento Gordy |
+| 267 | 972 | Barbra Miller |
 | 268 | 962 | Crystal Hoffman |
 | 269 | 958 | Brenda Messer |
 | 270 | 957 | Block Master |
