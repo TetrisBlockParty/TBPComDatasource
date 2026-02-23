@@ -61,8 +61,8 @@
 | 53 | 864 | Shelly Chandler |
 | 54 | 863 | Pee |
 | 55 | 853 | TeeJ |
-| 56 | 846 | Lucille Truesdale |
-| 57 | 846 | Christine Marie |
+| 56 | 846 | Christine Marie |
+| 57 | 846 | Lucille Truesdale |
 | 58 | 845 | LisaJo Picken Buchanan |
 | 59 | 834 | quicksand420 |
 | 60 | 829 | Dawn Alexander |
@@ -74,10 +74,10 @@
 | 66 | 781 | Chilly Line |
 | 67 | 767 | Shannon Ferrari |
 | 68 | 766 | Robin Watters |
-| 69 | 765 | Denise Carlson |
-| 70 | 765 | Robin Getchel |
-| 71 | 752 | loulou |
-| 72 | 752 | Shane Kalamata Platoon |
+| 69 | 765 | Robin Getchel |
+| 70 | 765 | Denise Carlson |
+| 71 | 752 | Shane Kalamata Platoon |
+| 72 | 752 | loulou |
 | 73 | 749 | Dustee Craddock-Harrison |
 | 74 | 742 | Carolyn Wallace |
 | 75 | 740 | Avy Absol |
@@ -125,8 +125,8 @@
 | 117 | 514 | Serena Goodridge |
 | 118 | 514 | Scott Jameson |
 | 119 | 513 | Erin Thomas |
-| 120 | 512 | Casey Jeffcoat |
-| 121 | 512 | Cristy Duerksen |
+| 120 | 512 | Cristy Duerksen |
+| 121 | 512 | Casey Jeffcoat |
 | 122 | 511 | Lori Walker |
 | 123 | 509 | Leslie Nicole |
 | 124 | 482 | Ren Mc |
@@ -300,8 +300,8 @@
 | 292 | 228 | Bethany Ison |
 | 293 | 227 | Jason Bosco |
 | 294 | 226 | Dizzy Matchzone |
-| 295 | 225 | Ernest Maxwell |
-| 296 | 225 | Jenna McGeorge |
+| 295 | 225 | Jenna McGeorge |
+| 296 | 225 | Ernest Maxwell |
 | 297 | 224 | Ultramarine |
 | 298 | 223 | Adawna Swires |
 | 299 | 223 | Chance Strickland |

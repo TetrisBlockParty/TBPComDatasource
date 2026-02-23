@@ -89,8 +89,8 @@
 | 81 | 645 | Robert Benito |
 | 82 | 643 | Evie Khalil |
 | 83 | 600 | Greg Hart |
-| 84 | 598 | Kellie |
-| 85 | 598 | Erin Hodges Plumb |
+| 84 | 598 | Erin Hodges Plumb |
+| 85 | 598 | Kellie |
 | 86 | 584 | Jen Sartain |
 | 87 | 583 | Theo Pinnow |
 | 88 | 582 | Plucky Fallzone |
@@ -106,8 +106,8 @@
 | 98 | 510 | Chirpy Smasher |
 | 99 | 509 | Rachael |
 | 100 | 497 | Arianna O'Brien |
-| 101 | 493 | Jennifer ManWarren |
-| 102 | 493 | MomMom |
+| 101 | 493 | MomMom |
+| 102 | 493 | Jennifer ManWarren |
 | 103 | 492 | Ash Galvan |
 | 104 | 491 | cc |
 | 105 | 489 | Deanna L Hermanson |
@@ -141,8 +141,8 @@
 | 133 | 411 | BadG52 |
 | 134 | 410 | ALFD |
 | 135 | 409 | Goose egg |
-| 136 | 406 | Desiree Deschaine Havee |
-| 137 | 406 | Candy Jones |
+| 136 | 406 | Candy Jones |
+| 137 | 406 | Desiree Deschaine Havee |
 | 138 | 402 | Chris K |
 | 139 | 399 | Nery Martinez |
 | 140 | 398 | Phu ckalldems |
@@ -164,8 +164,8 @@
 | 156 | 376 | Death |
 | 157 | 375 | Tanya Carpenter-Reynolds |
 | 158 | 375 | Connie |
-| 159 | 371 | Basment Living |
-| 160 | 371 | Jason Savage |
+| 159 | 371 | Jason Savage |
+| 160 | 371 | Basment Living |
 | 161 | 369 | Christy Jones |
 | 162 | 368 | Amanda Johnson Huffman |
 | 163 | 367 | Sharon Reynolds |
@@ -191,8 +191,8 @@
 | 183 | 341 | Nick R Montague |
 | 184 | 339 | Nicole Roseberry Weber |
 | 185 | 338 | Jennifer Hardman |
-| 186 | 337 | Jamise Brown |
-| 187 | 337 | Constance Risner |
+| 186 | 337 | Constance Risner |
+| 187 | 337 | Jamise Brown |
 | 188 | 336 | Dizzy Party |
 | 189 | 333 | Gracie |
 | 190 | 333 | Virginia Gray Floyd |
@@ -218,8 +218,8 @@
 | 210 | 301 | Damon J. Martin |
 | 211 | 301 | Cody Gates |
 | 212 | 300 | Sleepysloath5745 |
-| 213 | 298 | Sweetts |
-| 214 | 298 | Billie Ann Eason |
+| 213 | 298 | Billie Ann Eason |
+| 214 | 298 | Sweetts |
 | 215 | 294 | Bindi |
 | 216 | 293 | John Kim |
 | 217 | 291 | Giddy Cascade |
@@ -340,7 +340,7 @@
 | 332 | 213 | John Barron |
 | 333 | 212 | Michelle Beres |
 | 334 | 210 | Timothy Danaher |
-| 335 | 209 | Beau Galvan |
+| 335 | 209 | Breanna Luna |
 | 336 | 209 | Pauline Cortez |
 | 337 | 209 | Beau Galvan |
 | 338 | 208 | Donna Addison Williams |

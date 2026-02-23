@@ -492,8 +492,8 @@
 | 484 | 680 | blume |
 | 485 | 679 | Kassandra Hunt |
 | 486 | 677 | Kayleigh Wisse |
-| 487 | 677 | Amanda Woodruff |
-| 488 | 677 | Paul Combs |
+| 487 | 677 | Paul Combs |
+| 488 | 677 | Amanda Woodruff |
 | 489 | 676 | Roseanna Peloso |
 | 490 | 676 | Nicky Jackson |
 | 491 | 675 | Lonne Emade |
@@ -522,8 +522,8 @@
 | 514 | 646 | Jazzy Clusterline |
 | 515 | 644 | Véronique Lévesque Sabourin |
 | 516 | 643 | Michelle Pike |
-| 517 | 642 | Michelle Fields |
-| 518 | 642 | Cassie Maynard |
+| 517 | 642 | Cassie Maynard |
+| 518 | 642 | Michelle Fields |
 | 519 | 640 | Belle |
 | 520 | 639 | Rebecca Miller |
 | 521 | 639 | Jackie Avila |
@@ -695,8 +695,8 @@
 | 687 | 507 | Funky Caster |
 | 688 | 506 | Cblock |
 | 689 | 505 | Casey Schumacher |
-| 690 | 502 | Enha |
-| 691 | 502 | Jasmine Kenney |
+| 690 | 502 | Jasmine Kenney |
+| 691 | 502 | Enha |
 | 692 | 500 | Amy Reynolds |
 | 693 | 500 | Ryan Meilleur |
 | 694 | 499 | Besma Ao |
@@ -759,8 +759,8 @@
 | 751 | 472 | Connie Lepore-Mann |
 | 752 | 471 | Charming Leech |
 | 753 | 470 | Katie Marie |
-| 754 | 470 | ToShi |
-| 755 | 470 | Amanda Chamberlain |
+| 754 | 470 | Amanda Chamberlain |
+| 755 | 470 | ToShi |
 | 756 | 469 | Christy Long |
 | 757 | 468 | Niceday |
 | 758 | 468 | Brenda Annabel Smith |
@@ -775,8 +775,8 @@
 | 767 | 462 | Darla Silva |
 | 768 | 462 | Kia Humphery |
 | 769 | 462 | Samantha Scibelli |
-| 770 | 461 | Amanda Segura |
-| 771 | 461 | Julie Hamilton |
+| 770 | 461 | Julie Hamilton |
+| 771 | 461 | Amanda Segura |
 | 772 | 461 | Kristen O'Neal |
 | 773 | 461 | Amanda West |
 | 774 | 461 | Alexis Richardson |
