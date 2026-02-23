@@ -76,8 +76,8 @@
 | 68 | 1264 | Amanda L Baker |
 | 69 | 1258 | Danielle Cutler |
 | 70 | 1256 | Jessica Bechler |
-| 71 | 1213 | Nerdy Riseclear |
-| 72 | 1213 | Snappy Glidepiece |
+| 71 | 1213 | Snappy Glidepiece |
+| 72 | 1213 | Nerdy Riseclear |
 | 73 | 1201 | Amanda Adkins |
 | 74 | 1186 | Christian A. Pollard |
 | 75 | 1162 | Gracie |
@@ -129,11 +129,11 @@
 | 121 | 779 | Justin Ritter |
 | 122 | 773 | Daira Largen |
 | 123 | 769 | Kristie |
-| 124 | 764 | Groovy Catcher |
-| 125 | 764 | Hasty Cascadefit |
+| 124 | 764 | Hasty Cascadefit |
+| 125 | 764 | Groovy Catcher |
 | 126 | 762 | Speedy Bridger |
-| 127 | 755 | Raya |
-| 128 | 755 | Katrina Schroeder |
+| 127 | 755 | Katrina Schroeder |
+| 128 | 755 | Raya |
 | 129 | 752 | Logan Naccarato |
 | 130 | 748 | Adrian Marcel Pate |
 | 131 | 745 | JerseyJess |
@@ -187,8 +187,8 @@
 | 179 | 572 | CeceGeGe |
 | 180 | 568 | Rachael McClain Owens |
 | 181 | 566 | LaTanya GeminiondaRise Johnson |
-| 182 | 564 | Christine Trester |
-| 183 | 564 | Poppy Splitter |
+| 182 | 564 | Poppy Splitter |
+| 183 | 564 | Christine Trester |
 | 184 | 563 | Jim Mathews |
 | 185 | 562 | Dave Herzog |
 | 186 | 559 | Patti Skiles |
@@ -218,8 +218,8 @@
 | 210 | 485 | Dapper Snap |
 | 211 | 484 | Fallorina Susana |
 | 212 | 481 | Connie Mohler-Fair |
-| 213 | 480 | Michael Johnson |
-| 214 | 480 | Danielle Allison |
+| 213 | 480 | Danielle Allison |
+| 214 | 480 | Michael Johnson |
 | 215 | 477 | Edwin Calvillo Jr. |
 | 216 | 475 | Tessina Dewey-Mancino |
 | 217 | 471 | Mendoza Lee Christy |
@@ -372,8 +372,8 @@
 | 364 | 289 | Cheryl Hinch Tenbrook |
 | 365 | 289 | DidIdothat |
 | 366 | 288 | Stephanie Bradley |
-| 367 | 288 | Kristi Taylor |
-| 368 | 288 | Arden White Kirsch |
+| 367 | 288 | Arden White Kirsch |
+| 368 | 288 | Kristi Taylor |
 | 369 | 287 | Carol Cain Thurman |
 | 370 | 287 | Hoppy Patternline |
 | 371 | 285 | Heather De Vries Cobb |
@@ -567,7 +567,7 @@
 | 559 | 198 | Jodi Kaczynski-O'Dowd |
 | 560 | 197 | Jalissa Monique |
 | 561 | 197 | Fredd Thomas |
-| 562 | 197 | Jalissa Monique |
+| 562 | 197 | Johnny Berlin |
 | 563 | 197 | Giggy Glidepiece |
 | 564 | 197 | BabyTonj Evans |
 | 565 | 196 | Eboni Starr |
@@ -579,8 +579,8 @@
 | 571 | 194 | Shicken Nuggit |
 | 572 | 193 | Clever Shiftsnap |
 | 573 | 193 | Stephanie Zahm |
-| 574 | 192 | Laura Booth Wosko |
-| 575 | 192 | Kelly Ann Child |
+| 574 | 192 | Kelly Ann Child |
+| 575 | 192 | Laura Booth Wosko |
 | 576 | 192 | Jennifer Neiman Gaal |
 | 577 | 191 | lady lua |
 | 578 | 191 | Sarah Tschee |
@@ -728,8 +728,8 @@
 | 720 | 157 | Angel Mendez |
 | 721 | 157 | Noel Hill Hoose |
 | 722 | 157 | DeeDee13 |
-| 723 | 157 | Benny Tyrrell |
-| 724 | 157 | Kimberly Walker |
+| 723 | 157 | Kimberly Walker |
+| 724 | 157 | Benny Tyrrell |
 | 725 | 156 | Mandy Poynter-Wallace |
 | 726 | 156 | LIL BIT |
 | 727 | 156 | Courtney Conboy |
@@ -1203,7 +1203,7 @@
 | 1195 | 94 | Julie Peters Fancher |
 | 1196 | 94 | Casey McDowell |
 | 1197 | 94 | Brysten Green |
-| 1198 | 94 | Robin Rasure Woebkenberg |
+| 1198 | 94 | MattieT |
 | 1199 | 94 | Tim Amos |
 | 1200 | 94 | Amy Bast |
 | 1201 | 93 | Amber Baker |

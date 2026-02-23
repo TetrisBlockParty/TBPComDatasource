@@ -76,8 +76,8 @@
 | 68 | 787 | Edward White |
 | 69 | 767 | Shannon Ferrari |
 | 70 | 766 | Robin Watters |
-| 71 | 765 | Robin Getchel |
-| 72 | 765 | Denise Carlson |
+| 71 | 765 | Denise Carlson |
+| 72 | 765 | Robin Getchel |
 | 73 | 753 | TheNeesh50 |
 | 74 | 752 | Shane Kalamata Platoon |
 | 75 | 749 | Dustee Craddock-Harrison |
@@ -181,8 +181,8 @@
 | 173 | 372 | Antony Dwayne Beasley |
 | 174 | 370 | Oscar Alberto Perez |
 | 175 | 369 | Lindsey Gonzalez |
-| 176 | 368 | Brandon Crabbs |
-| 177 | 368 | Raegan Lane-Ross |
+| 176 | 368 | Raegan Lane-Ross |
+| 177 | 368 | Brandon Crabbs |
 | 178 | 368 | Silly Zonebuilder |
 | 179 | 365 | Jeff Brian Gates |
 | 180 | 361 | Carlos Ramirez |
@@ -227,8 +227,8 @@
 | 219 | 307 | Michele Plunkett |
 | 220 | 306 | mike |
 | 221 | 305 | Melvin Baird |
-| 222 | 304 | Lindsay Ball |
-| 223 | 304 | Gdiguy |
+| 222 | 304 | Gdiguy |
+| 223 | 304 | Lindsay Ball |
 | 224 | 301 | Andria Lynn |
 | 225 | 300 | Dana Scott |
 | 226 | 297 | Lori |
@@ -236,8 +236,8 @@
 | 228 | 294 | Calvin Cannon |
 | 229 | 294 | Porkobello |
 | 230 | 292 | Epic Curvetile |
-| 231 | 290 | Rebecca Morris |
-| 232 | 290 | Plucky Patternblock |
+| 231 | 290 | Plucky Patternblock |
+| 232 | 290 | Rebecca Morris |
 | 233 | 290 | Jared Gutwein |
 | 234 | 289 | Juls |
 | 235 | 288 | Leah Kutz Zirbel |
@@ -254,8 +254,8 @@
 | 246 | 279 | Malakai Darien Fox |
 | 247 | 278 | Angela Geist Jusinski |
 | 248 | 278 | Sarah Brown |
-| 249 | 276 | Joeliecea Cobb |
-| 250 | 276 | Cynthia Boudreau |
+| 249 | 276 | Cynthia Boudreau |
+| 250 | 276 | Joeliecea Cobb |
 | 251 | 275 | Kimberlee Jan Beckstead |
 | 252 | 273 | Cranky Rollpiece |
 | 253 | 272 | Dennis Bradley |
@@ -270,8 +270,8 @@
 | 262 | 264 | ZeeZee |
 | 263 | 264 | Stella |
 | 264 | 263 | rebel4lyfe |
-| 265 | 262 | BigSammy420 |
-| 266 | 262 | Selena Shaw |
+| 265 | 262 | Selena Shaw |
+| 266 | 262 | BigSammy420 |
 | 267 | 261 | Zethra Prenisha Rahming |
 | 268 | 260 | Carter Jones |
 | 269 | 259 | Montiette Mcglown |
@@ -334,8 +334,8 @@
 | 326 | 219 | Orchislactea |
 | 327 | 218 | Stephme310 |
 | 328 | 218 | Janita Parrish |
-| 329 | 217 | Paito |
-| 330 | 217 | Alexandra Karavias |
+| 329 | 217 | Alexandra Karavias |
+| 330 | 217 | Paito |
 | 331 | 217 | Cheery Fitline |
 | 332 | 215 | 07VHVW |
 | 333 | 214 | Stacey Stano |
@@ -564,10 +564,10 @@
 | 556 | 129 | Jessica Wells |
 | 557 | 129 | GTxIrishman |
 | 558 | 129 | Tamika Starkey |
-| 559 | 129 | Jessica Wells |
+| 559 | 129 | Dreamy Snapgrid |
 | 560 | 128 | Zesty Linkgrid |
-| 561 | 128 | Lazy Glidepiece |
-| 562 | 128 | Raymond Roberts |
+| 561 | 128 | Raymond Roberts |
+| 562 | 128 | Lazy Glidepiece |
 | 563 | 127 | Jay You |
 | 564 | 126 | Jennifer Renee |
 | 565 | 126 | Spicy Cascadezone |
@@ -606,8 +606,8 @@
 | 598 | 119 | Lee Silpe |
 | 599 | 119 | Calen Torez |
 | 600 | 118 | Kametsunoyaiba |
-| 601 | 118 | Sassy Pattern |
-| 602 | 118 | Jonathan Mahfood |
+| 601 | 118 | Jonathan Mahfood |
+| 602 | 118 | Sassy Pattern |
 | 603 | 118 | Mackenzie Forrester |
 | 604 | 118 | Krash |
 | 605 | 118 | Lou Ie |
@@ -646,8 +646,8 @@
 | 638 | 110 | Witty Link |
 | 639 | 110 | Renee Marshall |
 | 640 | 110 | Niome Encinias |
-| 641 | 110 | Renee Marshall |
-| 642 | 110 | Johnny R |
+| 641 | 110 | Mike |
+| 642 | 110 | Chariss Newsom |
 | 643 | 110 | Larry Agan |
 | 644 | 110 | Johnny R |
 | 645 | 109 | Bigmamatetrisqueen |
@@ -899,8 +899,8 @@
 | 891 | 74 | Wacky Shatterline |
 | 892 | 74 | Mark Morgan |
 | 893 | 74 | Kevin L Cafleux |
-| 894 | 74 | Wacky Shatterline |
-| 895 | 74 | Glitzy Corner |
+| 894 | 74 | Glitzy Corner |
+| 895 | 74 | Patrick Watkins |
 | 896 | 74 | Dania Cochrane |
 | 897 | 73 | Rachel Nicole |
 | 898 | 73 | Matthew Pate |
