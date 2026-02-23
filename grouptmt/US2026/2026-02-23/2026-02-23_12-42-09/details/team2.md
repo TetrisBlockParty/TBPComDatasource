@@ -392,8 +392,8 @@
 | 384 | 846 | Kayla |
 | 385 | 844 | Terri McKelvey McKinley |
 | 386 | 840 | Traci Johnson |
-| 387 | 838 | Nicole Cannon |
-| 388 | 838 | Misti Markijohn |
+| 387 | 838 | Misti Markijohn |
+| 388 | 838 | Nicole Cannon |
 | 389 | 836 | KhaosLord |
 | 390 | 833 | Dennis McLaurin |
 | 391 | 833 | Christie |

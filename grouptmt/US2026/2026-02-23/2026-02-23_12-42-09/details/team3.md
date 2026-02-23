@@ -140,8 +140,8 @@
 | 132 | 752 | Logan Naccarato |
 | 133 | 748 | Adrian Marcel Pate |
 | 134 | 746 | Giddy Drop |
-| 135 | 745 | JerseyJess |
-| 136 | 745 | ren |
+| 135 | 745 | ren |
+| 136 | 745 | JerseyJess |
 | 137 | 744 | Fancy Cascader |
 | 138 | 736 | mzcatzy |
 | 139 | 734 | Calista Jo Dickson |
@@ -287,8 +287,8 @@
 | 279 | 378 | Chris Bell |
 | 280 | 378 | MsBee |
 | 281 | 375 | Stephanie Burtin |
-| 282 | 372 | Sarah Moyer |
-| 283 | 372 | Rich LeBlanc |
+| 282 | 372 | Rich LeBlanc |
+| 283 | 372 | Sarah Moyer |
 | 284 | 371 | Salena Whitlock |
 | 285 | 371 | Marquita Sheard |
 | 286 | 371 | block chick |

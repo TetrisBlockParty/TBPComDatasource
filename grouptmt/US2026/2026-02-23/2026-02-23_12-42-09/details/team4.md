@@ -298,8 +298,8 @@
 | 290 | 256 | Brittany Marsh |
 | 291 | 256 | Jade Rian |
 | 292 | 254 | Ari Droff |
-| 293 | 253 | Autum Leigh |
-| 294 | 253 | Shiny Fit |
+| 293 | 253 | Shiny Fit |
+| 294 | 253 | Autum Leigh |
 | 295 | 252 | Deb Rubeck |
 | 296 | 251 | Carol Ricks Raymond |
 | 297 | 249 | Ak Jones |
