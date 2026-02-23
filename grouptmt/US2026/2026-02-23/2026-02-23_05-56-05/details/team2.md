@@ -44,8 +44,8 @@
 | 36 | 4199 | Claire Noland |
 | 37 | 4128 | Angela Pruitt |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Kristen Sceurman |
-| 40 | 4120 | Corrine Hawks Soriano |
+| 39 | 4120 | Corrine Hawks Soriano |
+| 40 | 4120 | Kristen Sceurman |
 | 41 | 3845 | jayjay |
 | 42 | 3813 | Devin Lee |
 | 43 | 3778 | Brittany Alicia |
@@ -211,8 +211,8 @@
 | 203 | 1282 | Tanya Parsons |
 | 204 | 1282 | Ashley Rose Frederick |
 | 205 | 1259 | Foxxo |
-| 206 | 1258 | Snappy Matchbuilder |
-| 207 | 1258 | Joyce Johnson Vaughn |
+| 206 | 1258 | Joyce Johnson Vaughn |
+| 207 | 1258 | Snappy Matchbuilder |
 | 208 | 1252 | Angel |
 | 209 | 1245 | Cody Nishimura |
 | 210 | 1237 | Megan Ferguson Leone |
@@ -279,8 +279,8 @@
 | 271 | 1045 | Lourisha |
 | 272 | 1043 | nikki |
 | 273 | 1043 | Brave Dropmatch |
-| 274 | 1036 | Amber Shoemaker |
-| 275 | 1036 | Allison Lockyer |
+| 274 | 1036 | Allison Lockyer |
+| 275 | 1036 | Amber Shoemaker |
 | 276 | 1032 | Georgia Triblett |
 | 277 | 1026 | Kristin Gower |
 | 278 | 1024 | Susan Perraut Jones |
@@ -292,8 +292,8 @@
 | 284 | 1010 | Brittany Radaszewski |
 | 285 | 1007 | Missie Lawson Gebhardt |
 | 286 | 1003 | Andrea Maher |
-| 287 | 998 | Keri Womack |
-| 288 | 998 | Shelley Thornburgh Wright |
+| 287 | 998 | Shelley Thornburgh Wright |
+| 288 | 998 | Keri Womack |
 | 289 | 996 | Ashie Ann |
 | 290 | 988 | Juliana Marques Do Nascimento Gordy |
 | 291 | 987 | Osun Anuket Esu |
@@ -330,8 +330,8 @@
 | 322 | 915 | Kelly Trent |
 | 323 | 914 | Shuany Arias |
 | 324 | 907 | Gene Mills |
-| 325 | 904 | Jennifer Aiken |
-| 326 | 904 | John Bednarik |
+| 325 | 904 | John Bednarik |
+| 326 | 904 | Jennifer Aiken |
 | 327 | 904 | Bee |
 | 328 | 903 | Giggy Blocker |
 | 329 | 902 | William Hunt |
@@ -368,8 +368,8 @@
 | 360 | 831 | Christina Lewis-Vickers |
 | 361 | 830 | Diallo Sparkman |
 | 362 | 829 | Jessica Wayne Cornwall |
-| 363 | 824 | Danielle Johnson-Chandler |
-| 364 | 824 | Khalil Lowe |
+| 363 | 824 | Khalil Lowe |
+| 364 | 824 | Danielle Johnson-Chandler |
 | 365 | 823 | Alezandra Smith |
 | 366 | 822 | Lola Contreras |
 | 367 | 821 | Angie Bolton Workman |
@@ -867,8 +867,8 @@
 | 859 | 405 | Swanky Columnbuilder |
 | 860 | 404 | Christy Green |
 | 861 | 404 | Shylee Tilman |
-| 862 | 403 | Goofy Dasher |
-| 863 | 403 | Nate Skidmore |
+| 862 | 403 | Nate Skidmore |
+| 863 | 403 | Goofy Dasher |
 | 864 | 403 | mshir |
 | 865 | 403 | Susan Arnburg |
 | 866 | 402 | LuckyChopstix |
@@ -983,8 +983,8 @@
 | 975 | 366 | Ashley Criner |
 | 976 | 366 | Josh Webster |
 | 977 | 366 | KrisCynthia Lynette |
-| 978 | 365 | Dee Blokk |
-| 979 | 365 | Wes Acton |
+| 978 | 365 | Wes Acton |
+| 979 | 365 | Dee Blokk |
 | 980 | 364 | Miranda Morris |
 | 981 | 364 | Epic Spinfit |
 | 982 | 364 | Marina Linda |

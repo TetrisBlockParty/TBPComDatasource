@@ -88,8 +88,8 @@
 | 80 | 697 | Alyssa Papen |
 | 81 | 696 | Shane Kalamata Platoon |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Jonathan Kimbrough |
-| 84 | 684 | Kimyatta Cavin |
+| 83 | 684 | Kimyatta Cavin |
+| 84 | 684 | Jonathan Kimbrough |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -212,8 +212,8 @@
 | 204 | 304 | Lindsay Ball |
 | 205 | 301 | Andria Lynn |
 | 206 | 300 | Dihcheese444 |
-| 207 | 300 | Dana Scott |
-| 208 | 300 | Zakia Monae |
+| 207 | 300 | Zakia Monae |
+| 208 | 300 | Dana Scott |
 | 209 | 295 | Keshia Lyons |
 | 210 | 294 | Porkobello |
 | 211 | 294 | Calvin Cannon |
