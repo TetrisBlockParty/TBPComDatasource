@@ -44,8 +44,8 @@
 | 36 | 4199 | Claire Noland |
 | 37 | 4128 | Angela Pruitt |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Kristen Sceurman |
-| 40 | 4120 | Corrine Hawks Soriano |
+| 39 | 4120 | Corrine Hawks Soriano |
+| 40 | 4120 | Kristen Sceurman |
 | 41 | 3778 | Brittany Alicia |
 | 42 | 3736 | Alisha |
 | 43 | 3723 | Sam Smith |
@@ -145,8 +145,8 @@
 | 137 | 1639 | Jessie McDougald |
 | 138 | 1631 | Speedy Spinblock |
 | 139 | 1629 | Mari Ac |
-| 140 | 1623 | Rebecca Doughman |
-| 141 | 1623 | Janel Turley-Garner |
+| 140 | 1623 | Janel Turley-Garner |
+| 141 | 1623 | Rebecca Doughman |
 | 142 | 1605 | Christi Hulet |
 | 143 | 1602 | blackq |
 | 144 | 1601 | Ray Ray Prado |
@@ -221,8 +221,8 @@
 | 213 | 1217 | Brooks Brooks |
 | 214 | 1214 | David Cudicio-Hayden |
 | 215 | 1210 | Jane Fong |
-| 216 | 1205 | Tony Lea |
-| 217 | 1205 | Tralonda Weeks |
+| 216 | 1205 | Tralonda Weeks |
+| 217 | 1205 | Tony Lea |
 | 218 | 1198 | Carrie Trigg |
 | 219 | 1197 | Ricardo Burton |
 | 220 | 1192 | Denisha Dawkins |
@@ -330,8 +330,8 @@
 | 322 | 904 | Bee |
 | 323 | 902 | William Hunt |
 | 324 | 901 | Kevin Sees |
-| 325 | 899 | Patrick Bartlett |
-| 326 | 899 | Chevy |
+| 325 | 899 | Chevy |
+| 326 | 899 | Patrick Bartlett |
 | 327 | 898 | Jamie Otero |
 | 328 | 895 | Donna Colby |
 | 329 | 889 | Giggy Blocker |
@@ -393,15 +393,15 @@
 | 385 | 784 | Kathryn Townsley |
 | 386 | 781 | Tiara Elizabeth Baker |
 | 387 | 779 | Kayla |
-| 388 | 777 | Tesha Oldaker |
-| 389 | 777 | Jessicah Myers |
+| 388 | 777 | Jessicah Myers |
+| 389 | 777 | Tesha Oldaker |
 | 390 | 772 | Danielle Simmons |
 | 391 | 769 | Melissa Cole |
 | 392 | 769 | Kimberly Hope Howell |
 | 393 | 768 | Arkei Luster |
 | 394 | 768 | Joshua Self |
-| 395 | 767 | Fancy Twister |
-| 396 | 767 | Ashley Lopez |
+| 395 | 767 | Ashley Lopez |
+| 396 | 767 | Fancy Twister |
 | 397 | 763 | Dreamy Blast |
 | 398 | 763 | Heather Causey |
 | 399 | 760 | Cheech Dta |
@@ -540,8 +540,8 @@
 | 532 | 606 | Lea Stewart |
 | 533 | 603 | Casper The Chonk |
 | 534 | 602 | KhaosLord |
-| 535 | 601 | Moua Ying |
-| 536 | 601 | Daniel Amos |
+| 535 | 601 | Daniel Amos |
+| 536 | 601 | Moua Ying |
 | 537 | 598 | Victoria Regina Girolami |
 | 538 | 598 | Leah Keesling |
 | 539 | 597 | snkylnk |

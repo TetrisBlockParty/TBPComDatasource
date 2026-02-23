@@ -327,14 +327,14 @@
 | 319 | 296 | Tracy Martin |
 | 320 | 295 | Troy |
 | 321 | 294 | Isabel Ocasio |
-| 322 | 292 | Foltz Lee Kelli |
-| 323 | 292 | Lizabeth Fox |
+| 322 | 292 | Lizabeth Fox |
+| 323 | 292 | Foltz Lee Kelli |
 | 324 | 292 | Khaleada McGill Banks |
-| 325 | 289 | Salena Whitlock |
-| 326 | 289 | DidIdothat |
+| 325 | 289 | DidIdothat |
+| 326 | 289 | Salena Whitlock |
 | 327 | 288 | Stephanie Bradley |
-| 328 | 287 | Carol Cain Thurman |
-| 329 | 287 | Sabrina Hardrick |
+| 328 | 287 | Sabrina Hardrick |
+| 329 | 287 | Carol Cain Thurman |
 | 330 | 287 | Hoppy Patternline |
 | 331 | 286 | Micayah Stevens |
 | 332 | 285 | KayB |
@@ -514,8 +514,8 @@
 | 506 | 200 | Sarah Whalen |
 | 507 | 200 | Christina Marie Swisher |
 | 508 | 199 | Cheeky Setter |
-| 509 | 198 | Jodi Kaczynski-O'Dowd |
-| 510 | 198 | Zac Hudak |
+| 509 | 198 | Zac Hudak |
+| 510 | 198 | Jodi Kaczynski-O'Dowd |
 | 511 | 198 | joz |
 | 512 | 197 | BabyTonj Evans |
 | 513 | 197 | Giggy Glidepiece |
@@ -527,8 +527,8 @@
 | 519 | 195 | Swanky Snapclear |
 | 520 | 195 | toony |
 | 521 | 194 | Kevin Fountain |
-| 522 | 193 | Clever Shiftsnap |
-| 523 | 193 | Bryan Byrd |
+| 522 | 193 | Bryan Byrd |
+| 523 | 193 | Clever Shiftsnap |
 | 524 | 192 | Kelly Ann Child |
 | 525 | 192 | Laura Booth Wosko |
 | 526 | 192 | xsiv |

@@ -79,8 +79,8 @@
 | 71 | 749 | Dustee Craddock-Harrison |
 | 72 | 742 | Carolyn Wallace |
 | 73 | 740 | Avy Absol |
-| 74 | 736 | Goatimus Lombardi |
-| 75 | 736 | Crystal Carroll |
+| 74 | 736 | Crystal Carroll |
+| 75 | 736 | Goatimus Lombardi |
 | 76 | 721 | TheNeesh50 |
 | 77 | 717 | D3TROITB0RN74 |
 | 78 | 706 | Lisa Davis |
@@ -117,10 +117,10 @@
 | 109 | 528 | Rodney McMath Jr. |
 | 110 | 527 | Dizzy Tiley |
 | 111 | 519 | Nugget |
-| 112 | 517 | shar |
-| 113 | 517 | Christina LR |
-| 114 | 514 | Serena Goodridge |
-| 115 | 514 | Scott Jameson |
+| 112 | 517 | Christina LR |
+| 113 | 517 | shar |
+| 114 | 514 | Scott Jameson |
+| 115 | 514 | Serena Goodridge |
 | 116 | 513 | Erin Thomas |
 | 117 | 512 | Casey Jeffcoat |
 | 118 | 512 | Cristy Duerksen |
@@ -172,15 +172,15 @@
 | 164 | 368 | Chris Bernstein |
 | 165 | 368 | Brandon Crabbs |
 | 166 | 365 | Jeff Brian Gates |
-| 167 | 361 | Danielle Kollias |
-| 168 | 361 | Melissa Adams |
+| 167 | 361 | Melissa Adams |
+| 168 | 361 | Danielle Kollias |
 | 169 | 359 | Keith Kelley |
 | 170 | 358 | A5! |
 | 171 | 356 | George Nutt |
 | 172 | 352 | Sue Joyce Staats |
 | 173 | 350 | TRCuse |
-| 174 | 349 | Rafael Valentin |
-| 175 | 349 | Twisty Cascadezone |
+| 174 | 349 | Twisty Cascadezone |
+| 175 | 349 | Rafael Valentin |
 | 176 | 348 | April Rondinone |
 | 177 | 347 | Crystal Nicolette Moore |
 | 178 | 347 | Daria Rycewicz |
@@ -224,8 +224,8 @@
 | 216 | 286 | Sam Bishop |
 | 217 | 285 | 030Synner |
 | 218 | 284 | Mimi |
-| 219 | 282 | Kim Klutz Olson |
-| 220 | 282 | Matt Gooder |
+| 219 | 282 | Matt Gooder |
+| 220 | 282 | Kim Klutz Olson |
 | 221 | 281 | Laura |
 | 222 | 281 | Nikki Rae Gordon |
 | 223 | 278 | Angela Geist Jusinski |
@@ -233,16 +233,16 @@
 | 225 | 276 | Matt Dell'Olio |
 | 226 | 276 | Joeliecea Cobb |
 | 227 | 273 | Casey Grabner |
-| 228 | 272 | Alan George LaRage |
+| 228 | 272 | Dennis Bradley |
 | 229 | 272 | Carlos Ramirez |
-| 230 | 272 | Dennis Bradley |
+| 230 | 272 | Alan George LaRage |
 | 231 | 271 | Holly |
 | 232 | 270 | Juls |
 | 233 | 270 | Jen Caldwell |
 | 234 | 267 | JPW |
 | 235 | 266 | Mr. Party |
-| 236 | 265 | Sarah Neathery |
-| 237 | 265 | Silly SeaWeed |
+| 236 | 265 | Silly SeaWeed |
+| 237 | 265 | Sarah Neathery |
 | 238 | 264 | Stella |
 | 239 | 262 | Selena Shaw |
 | 240 | 262 | BigSammy420 |
@@ -251,8 +251,8 @@
 | 243 | 259 | Allen Lloyd |
 | 244 | 259 | Montiette Mcglown |
 | 245 | 257 | PeaceOs |
-| 246 | 256 | Metsfan |
-| 247 | 256 | Mylo Lipscomb |
+| 246 | 256 | Mylo Lipscomb |
+| 247 | 256 | Metsfan |
 | 248 | 255 | Zethra Prenisha Rahming |
 | 249 | 253 | Autum Leigh |
 | 250 | 252 | Cynthia Boudreau |
@@ -327,8 +327,8 @@
 | 319 | 206 | June Hoffman |
 | 320 | 205 | KayM |
 | 321 | 204 | Russ Attitude |
-| 322 | 203 | Gilles Lanctot |
-| 323 | 203 | Andrew Dang |
+| 322 | 203 | Andrew Dang |
+| 323 | 203 | Gilles Lanctot |
 | 324 | 203 | Katherine Crane |
 | 325 | 200 | Googenheim |
 | 326 | 198 | Calvin Dennis |
@@ -428,8 +428,8 @@
 | 420 | 162 | Circuit8 |
 | 421 | 162 | conceptCollector |
 | 422 | 161 | Ruby Khalisadar |
-| 423 | 160 | Helen Chao |
-| 424 | 160 | Heather Layne Smith |
+| 423 | 160 | Heather Layne Smith |
+| 424 | 160 | Helen Chao |
 | 425 | 159 | Groovy Brickmatch |
 | 426 | 158 | Jasmine S Caldwell |
 | 427 | 157 | Ryry |
@@ -828,7 +828,7 @@
 | 820 | 75 | Hoppy Combo |
 | 821 | 75 | Bold Buildsnap |
 | 822 | 75 | Tracey Oger |
-| 823 | 75 | Bold Buildsnap |
+| 823 | 75 | Dmpster Fire |
 | 824 | 75 | Jay-Remy Stringseer |
 | 825 | 75 | McKayla Breanne |
 | 826 | 75 | Smiley Staggerpiece |
