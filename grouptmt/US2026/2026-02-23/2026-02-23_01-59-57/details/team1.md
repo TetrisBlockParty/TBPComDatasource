@@ -244,8 +244,8 @@
 | 236 | 251 | MRdot Rooski |
 | 237 | 249 | Sam Williams |
 | 238 | 247 | Brenda Alexander |
-| 239 | 245 | LaFontaine Leslie |
-| 240 | 245 | Matt Iaccheo |
+| 239 | 245 | Matt Iaccheo |
+| 240 | 245 | LaFontaine Leslie |
 | 241 | 244 | Eddie Dillon |
 | 242 | 242 | ParisandCory Champagne |
 | 243 | 241 | Tyler Hertzog |
@@ -306,9 +306,9 @@
 | 298 | 207 | Alenoush Karimian |
 | 299 | 207 | Fresno Beotoni |
 | 300 | 206 | Angela Spann |
-| 301 | 205 | Tyler L Hunt |
+| 301 | 205 | Jennifer Olewnik Soborowski |
 | 302 | 205 | Agustin Duarte Orozco |
-| 303 | 205 | Jennifer Olewnik Soborowski |
+| 303 | 205 | Tyler L Hunt |
 | 304 | 204 | Chris Sigurdson |
 | 305 | 204 | LD1 |
 | 306 | 202 | Tee Sheree |
@@ -424,9 +424,9 @@
 | 416 | 155 | Irv |
 | 417 | 155 | Nate Price |
 | 418 | 155 | Marc Abney |
-| 419 | 154 | Brian Spotts |
-| 420 | 154 | TristansDad |
-| 421 | 154 | Jordan Brooks |
+| 419 | 154 | TristansDad |
+| 420 | 154 | Jordan Brooks |
+| 421 | 154 | Brian Spotts |
 | 422 | 153 | Toph |
 | 423 | 152 | Cree |
 | 424 | 151 | Lush Zoney |

@@ -174,8 +174,8 @@
 | 166 | 528 | Silly Twist |
 | 167 | 521 | Kammy Hill |
 | 168 | 516 | Danielle Balcom |
-| 169 | 506 | Stephanie Blkpep Davidson |
-| 170 | 506 | Sashay Tapae Simpson |
+| 169 | 506 | Sashay Tapae Simpson |
+| 170 | 506 | Stephanie Blkpep Davidson |
 | 171 | 504 | Jennifer Lynn Fahrenholtz-Summers |
 | 172 | 502 | Snappy Balancer |
 | 173 | 501 | Patti Skiles |
@@ -185,8 +185,8 @@
 | 177 | 490 | Loopy Fallmatch |
 | 178 | 489 | Shannon Matthew Byers |
 | 179 | 488 | Melissa Orth Hunter |
-| 180 | 485 | Terry Jo Jones |
-| 181 | 485 | Demetrious Shaw Sr. |
+| 180 | 485 | Demetrious Shaw Sr. |
+| 181 | 485 | Terry Jo Jones |
 | 182 | 485 | Dapper Snap |
 | 183 | 484 | Amanda Adkins |
 | 184 | 481 | FuzzyNavel |
@@ -229,8 +229,8 @@
 | 221 | 401 | Heather Green |
 | 222 | 400 | Denita Mungro |
 | 223 | 398 | Tiffany Ford |
-| 224 | 391 | Trisha Balmer |
-| 225 | 391 | Nicole Flippo |
+| 224 | 391 | Nicole Flippo |
+| 225 | 391 | Trisha Balmer |
 | 226 | 390 | rosy |
 | 227 | 387 | Gideon Walker |
 | 228 | 384 | Marci Mize Fandrich |
@@ -297,11 +297,11 @@
 | 289 | 303 | Hoppy Buildout |
 | 290 | 303 | Alexmac |
 | 291 | 302 | Gray Hicks |
-| 292 | 301 | Betty Rosas |
-| 293 | 301 | Tiffany Davie |
-| 294 | 299 | Angie Harper |
-| 295 | 299 | Ray Lader |
-| 296 | 299 | Carrie Huskey |
+| 292 | 301 | Tiffany Davie |
+| 293 | 301 | Betty Rosas |
+| 294 | 299 | Ray Lader |
+| 295 | 299 | Carrie Huskey |
+| 296 | 299 | Angie Harper |
 | 297 | 298 | Grams |
 | 298 | 297 | kacihall |
 | 299 | 297 | Cheeky Snapper |
@@ -314,8 +314,8 @@
 | 306 | 292 | LaShey Thompson |
 | 307 | 289 | DidIdothat |
 | 308 | 287 | Sabrina Hardrick |
-| 309 | 286 | Salena Whitlock |
-| 310 | 286 | Lizabeth Fox |
+| 309 | 286 | Lizabeth Fox |
+| 310 | 286 | Salena Whitlock |
 | 311 | 286 | Geoffrey Nash |
 | 312 | 286 | Hasty Gridpiece |
 | 313 | 286 | Hoppy Patternline |
@@ -441,9 +441,9 @@
 | 433 | 217 | Goofy Fall |
 | 434 | 216 | Trice Thomas |
 | 435 | 214 | Amy Fuller Heaton |
-| 436 | 213 | Linda Draper |
+| 436 | 213 | Skinny Baldez |
 | 437 | 213 | Arden White Kirsch |
-| 438 | 213 | Skinny Baldez |
+| 438 | 213 | Linda Draper |
 | 439 | 212 | BŘŰŤİÇŨŚ |
 | 440 | 212 | Beth Ingham |
 | 441 | 211 | El Chapa |
@@ -458,8 +458,8 @@
 | 450 | 208 | Luccy Luxe |
 | 451 | 207 | angieelyn |
 | 452 | 206 | Tammy Rosenberry |
-| 453 | 205 | Rachel Napper |
-| 454 | 205 | Bouncy Blockbuilder |
+| 453 | 205 | Bouncy Blockbuilder |
+| 454 | 205 | Rachel Napper |
 | 455 | 203 | TLM |
 | 456 | 201 | Noettín Kan Zasnemoore |
 | 457 | 201 | Bhreagh Gentile |

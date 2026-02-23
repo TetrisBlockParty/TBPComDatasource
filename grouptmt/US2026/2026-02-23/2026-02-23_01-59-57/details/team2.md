@@ -40,8 +40,8 @@
 | 32 | 4199 | Claire Noland |
 | 33 | 4130 | Robert Diddle |
 | 34 | 4128 | Angela Pruitt |
-| 35 | 4120 | Kristen Sceurman |
-| 36 | 4120 | Corrine Hawks Soriano |
+| 35 | 4120 | Corrine Hawks Soriano |
+| 36 | 4120 | Kristen Sceurman |
 | 37 | 4033 | Jill Stroehlein |
 | 38 | 3895 | Nickie Baby |
 | 39 | 3770 | Brittany Alicia |
@@ -137,8 +137,8 @@
 | 129 | 1639 | Karen Martini-Stapleton |
 | 130 | 1632 | Qiana Sanders |
 | 131 | 1631 | Speedy Spinblock |
-| 132 | 1623 | Mr. Street Stack |
-| 133 | 1623 | Rebecca Doughman |
+| 132 | 1623 | Rebecca Doughman |
+| 133 | 1623 | Mr. Street Stack |
 | 134 | 1622 | Mari Ac |
 | 135 | 1614 | Janel Turley-Garner |
 | 136 | 1601 | Ray Ray Prado |
@@ -304,7 +304,7 @@
 | 296 | 906 | Deborah Miller |
 | 297 | 904 | Jennifer Aiken |
 | 298 | 904 | John Bednarik |
-| 299 | 904 | Jennifer Aiken |
+| 299 | 904 | Ashlen Dorrell |
 | 300 | 902 | William Hunt |
 | 301 | 901 | Kevin Sees |
 | 302 | 899 | Chevy |
@@ -338,8 +338,8 @@
 | 330 | 832 | Woodys Glass |
 | 331 | 831 | Johnny Yeates |
 | 332 | 826 | Diallo Sparkman |
-| 333 | 824 | Khalil Lowe |
-| 334 | 824 | Danielle Johnson-Chandler |
+| 333 | 824 | Danielle Johnson-Chandler |
+| 334 | 824 | Khalil Lowe |
 | 335 | 823 | Alezandra Smith |
 | 336 | 821 | Angie Bolton Workman |
 | 337 | 821 | Cassie Mercer |
@@ -386,11 +386,11 @@
 | 378 | 757 | Misti Markijohn |
 | 379 | 755 | Taryece Gause |
 | 380 | 751 | Loony Snapper |
-| 381 | 748 | Stephanie Lumanlan |
-| 382 | 748 | Brenda Utphall |
+| 381 | 748 | Brenda Utphall |
+| 382 | 748 | Stephanie Lumanlan |
 | 383 | 747 | Kiely Tomaskovich |
-| 384 | 746 | Leslie Ann Carter |
-| 385 | 746 | Jerilyn Andrina |
+| 384 | 746 | Jerilyn Andrina |
+| 385 | 746 | Leslie Ann Carter |
 | 386 | 744 | Mandi Douglas Hilt |
 | 387 | 743 | Tiara Elizabeth Baker |
 | 388 | 741 | Jánine Riggs |
