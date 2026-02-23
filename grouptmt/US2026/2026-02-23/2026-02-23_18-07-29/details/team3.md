@@ -224,8 +224,8 @@
 | 216 | 549 | Sarah Cowan Burgos |
 | 217 | 548 | Danielle Balcom |
 | 218 | 547 | Staci George Fitzsimmons |
-| 219 | 546 | Mykal Burton |
-| 220 | 546 | Cynthia Castros-Hampton |
+| 219 | 546 | Cynthia Castros-Hampton |
+| 220 | 546 | Mykal Burton |
 | 221 | 545 | Trisha Balmer |
 | 222 | 539 | Betty Bóò |
 | 223 | 538 | Annie Déè |
@@ -240,9 +240,9 @@
 | 232 | 519 | Nichol Graham |
 | 233 | 516 | Daring Brickzone |
 | 234 | 515 | Cozy Snaplink |
-| 235 | 513 | Lizabeth Fox |
-| 236 | 513 | kacihall |
-| 237 | 513 | Twisty Brick LT |
+| 235 | 513 | kacihall |
+| 236 | 513 | Twisty Brick LT |
+| 237 | 513 | Lizabeth Fox |
 | 238 | 508 | joz |
 | 239 | 508 | Fran Lin |
 | 240 | 505 | Giggy Glidepiece |
@@ -301,16 +301,16 @@
 | 293 | 414 | RickyG |
 | 294 | 412 | Jojo M |
 | 295 | 411 | Megan Rathmanner |
-| 296 | 410 | Brian Battjes |
-| 297 | 410 | Duane Bright |
-| 298 | 408 | Tiffany Ford |
-| 299 | 408 | Ashley Muncey |
+| 296 | 410 | Duane Bright |
+| 297 | 410 | Brian Battjes |
+| 298 | 408 | Ashley Muncey |
+| 299 | 408 | Tiffany Ford |
 | 300 | 406 | Kristal C Lee |
 | 301 | 405 | Desiree Gold |
 | 302 | 405 | Steffi Chris Dacones |
 | 303 | 403 | lashanda |
-| 304 | 403 | Scott Lindsay |
-| 305 | 403 | Stephanie Burtin |
+| 304 | 403 | Stephanie Burtin |
+| 305 | 403 | Scott Lindsay |
 | 306 | 400 | Dana Winters |
 | 307 | 398 | fraulila |
 | 308 | 397 | Heather De Vries Cobb |
@@ -562,8 +562,8 @@
 | 554 | 241 | paranoid |
 | 555 | 241 | Jill Stickney |
 | 556 | 240 | Bambi Jones |
-| 557 | 240 | Trey Ward |
-| 558 | 240 | Rebel124 |
+| 557 | 240 | Rebel124 |
+| 558 | 240 | Trey Ward |
 | 559 | 239 | Ashley Parham |
 | 560 | 239 | Joseph Vargas |
 | 561 | 239 | Martin Bernier |

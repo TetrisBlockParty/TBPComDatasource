@@ -256,8 +256,8 @@
 | 248 | 1277 | Snappy Matchbuilder |
 | 249 | 1259 | Foxxo |
 | 250 | 1258 | Brandon Armstrong |
-| 251 | 1257 | Megan Ferguson Leone |
-| 252 | 1257 | Megan Garrick |
+| 251 | 1257 | Megan Garrick |
+| 252 | 1257 | Megan Ferguson Leone |
 | 253 | 1256 | Missie Lawson Gebhardt |
 | 254 | 1253 | Roman Lavochnik |
 | 255 | 1251 | Denisha Dawkins |
@@ -284,16 +284,16 @@
 | 276 | 1178 | Kevin Sees |
 | 277 | 1178 | Dimitra Zazara |
 | 278 | 1173 | Shannon Joslin |
-| 279 | 1172 | Lakeysha Dortch |
-| 280 | 1172 | Stacey Clement |
+| 279 | 1172 | Stacey Clement |
+| 280 | 1172 | Lakeysha Dortch |
 | 281 | 1171 | Loretta Brewer-Gage |
 | 282 | 1165 | Michelle Lee |
 | 283 | 1165 | Christina Wsn |
 | 284 | 1163 | Erika Densmore |
 | 285 | 1158 | Sarah Freitas |
 | 286 | 1158 | Brittany Clark |
-| 287 | 1156 | Alezandra Smith |
-| 288 | 1156 | Arkei Luster |
+| 287 | 1156 | Arkei Luster |
+| 288 | 1156 | Alezandra Smith |
 | 289 | 1149 | Prado |
 | 290 | 1146 | Cassie Mercer |
 | 291 | 1142 | Sheniya Spurgeon |
@@ -706,8 +706,8 @@
 | 698 | 586 | Tra Barnum |
 | 699 | 585 | Taylor Flowers |
 | 700 | 585 | Wuntayk |
-| 701 | 585 | Shelva Richard |
-| 702 | 585 | Laquetta Royston |
+| 701 | 585 | Laquetta Royston |
+| 702 | 585 | Shelva Richard |
 | 703 | 582 | Joseph Musick |
 | 704 | 581 | AsnPryBoy83 |
 | 705 | 581 | Frisky Riserbuilder |

@@ -113,8 +113,8 @@
 | 105 | 673 | Jacqueline Helm |
 | 106 | 667 | Amy Suckarieh |
 | 107 | 659 | Jamie Gustafson |
-| 108 | 658 | Girl |
-| 109 | 658 | Zippy Gridlock |
+| 108 | 658 | Zippy Gridlock |
+| 109 | 658 | Girl |
 | 110 | 657 | Lori Walker |
 | 111 | 652 | Leslie Nicole |
 | 112 | 647 | KM8 |
@@ -434,8 +434,8 @@
 | 426 | 209 | PennyCandee |
 | 427 | 209 | Matthew Pate |
 | 428 | 208 | Wacky Blockclear |
-| 429 | 207 | Jessica Wells |
-| 430 | 207 | Sam Middleton |
+| 429 | 207 | Sam Middleton |
+| 430 | 207 | Jessica Wells |
 | 431 | 206 | The Murphy |
 | 432 | 206 | Sticherella |
 | 433 | 206 | Lilya Troutman |
