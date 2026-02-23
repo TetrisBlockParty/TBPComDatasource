@@ -205,8 +205,8 @@
 | 197 | 391 | Ramel Rhodes |
 | 198 | 389 | Joseph Guthrie |
 | 199 | 389 | Cool Towerbuilder |
-| 200 | 385 | April Rondinone |
-| 201 | 385 | 030Synner |
+| 200 | 385 | 030Synner |
+| 201 | 385 | April Rondinone |
 | 202 | 383 | Chris Bernstein |
 | 203 | 380 | Rio Rocha |
 | 204 | 378 | Silly Zonebuilder |
@@ -251,8 +251,8 @@
 | 243 | 330 | Kathy Brookins |
 | 244 | 329 | Brickh4us |
 | 245 | 324 | jim |
-| 246 | 324 | Lauren Lamb |
-| 247 | 324 | TinyLegoRose |
+| 246 | 324 | TinyLegoRose |
+| 247 | 324 | Lauren Lamb |
 | 248 | 321 | Meagan Nicole |
 | 249 | 317 | Madison Sweere |
 | 250 | 316 | Autumn Kumzi |
@@ -276,9 +276,9 @@
 | 268 | 303 | Rebecca Morris |
 | 269 | 300 | Dana Scott |
 | 270 | 297 | Kenna Gunderland |
-| 271 | 295 | Keshia Lyons |
-| 272 | 295 | Joeliecea Cobb |
-| 273 | 295 | Lora |
+| 271 | 295 | Joeliecea Cobb |
+| 272 | 295 | Lora |
+| 273 | 295 | Keshia Lyons |
 | 274 | 294 | Calvin Cannon |
 | 275 | 292 | Angel Raya |
 | 276 | 292 | Blessedmama |

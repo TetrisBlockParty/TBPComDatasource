@@ -205,8 +205,8 @@
 | 197 | 576 | Keis |
 | 198 | 568 | Rachael McClain Owens |
 | 199 | 566 | LaTanya GeminiondaRise Johnson |
-| 200 | 564 | Christine Trester |
-| 201 | 564 | Poppy Splitter |
+| 200 | 564 | Poppy Splitter |
+| 201 | 564 | Christine Trester |
 | 202 | 563 | Jim Mathews |
 | 203 | 562 | Dave Herzog |
 | 204 | 561 | Silly Twist |
@@ -319,8 +319,8 @@
 | 311 | 378 | Chris Bell |
 | 312 | 378 | MsBee |
 | 313 | 375 | Stephanie Burtin |
-| 314 | 372 | Rich LeBlanc |
-| 315 | 372 | Christian Werndl |
+| 314 | 372 | Christian Werndl |
+| 315 | 372 | Rich LeBlanc |
 | 316 | 371 | block chick |
 | 317 | 370 | Samantha Lynn |
 | 318 | 369 | Amber Glover |
@@ -576,8 +576,8 @@
 | 568 | 231 | Becca Engle |
 | 569 | 231 | Katie Morton |
 | 570 | 230 | sofaking |
-| 571 | 230 | DanceLuvLaugh |
-| 572 | 230 | Snippy Brickster |
+| 571 | 230 | Snippy Brickster |
+| 572 | 230 | DanceLuvLaugh |
 | 573 | 229 | Frilly Stackzone |
 | 574 | 229 | MizzMonick Smith |
 | 575 | 229 | Everret Maxine |
@@ -588,8 +588,8 @@
 | 580 | 224 | Eboni G. |
 | 581 | 224 | Cranky Corner |
 | 582 | 223 | Jumpy Curvebuilder |
-| 583 | 223 | Flashy Rumbler |
-| 584 | 223 | Katie Leigh Blankenship |
+| 583 | 223 | Katie Leigh Blankenship |
+| 584 | 223 | Flashy Rumbler |
 | 585 | 222 | Chilly Pop |
 | 586 | 222 | Angel Miller |
 | 587 | 222 | Aeh |
@@ -620,8 +620,8 @@
 | 612 | 216 | Clever Edgepiece |
 | 613 | 215 | Beck Nicole |
 | 614 | 215 | Michell Hendershott Jackson |
-| 615 | 214 | Shiny Snapfit |
-| 616 | 214 | Amy Fuller Heaton |
+| 615 | 214 | Amy Fuller Heaton |
+| 616 | 214 | Shiny Snapfit |
 | 617 | 213 | Gina Marie |
 | 618 | 213 | Laaken Draper |
 | 619 | 212 | Frisky Stacker |
@@ -645,8 +645,8 @@
 | 637 | 207 | Danette Marie |
 | 638 | 207 | Jada Cox |
 | 639 | 207 | demon14 |
-| 640 | 206 | Anabela Ruiz |
-| 641 | 206 | Tammy Rosenberry |
+| 640 | 206 | Tammy Rosenberry |
+| 641 | 206 | Anabela Ruiz |
 | 642 | 206 | Beto Rodriguez |
 | 643 | 206 | Moniecia Harrison |
 | 644 | 205 | Bouncy Blockbuilder |

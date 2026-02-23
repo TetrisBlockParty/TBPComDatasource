@@ -202,8 +202,8 @@
 | 194 | 1532 | Dee |
 | 195 | 1513 | Offonar Facey |
 | 196 | 1511 | Melissa Penelope Ann Dodge |
-| 197 | 1509 | Whitney Nicole Waterman |
-| 198 | 1509 | Howard Forest |
+| 197 | 1509 | Howard Forest |
+| 198 | 1509 | Whitney Nicole Waterman |
 | 199 | 1507 | Kiok |
 | 200 | 1504 | Hannah Erskine |
 | 201 | 1488 | Sommer Shope |
@@ -214,8 +214,8 @@
 | 206 | 1461 | Tonya Morgan |
 | 207 | 1453 | Wendy Unsain |
 | 208 | 1452 | Cody Smith-Candelaria |
-| 209 | 1450 | Mischelle Clay |
-| 210 | 1450 | Shiny Rollzone |
+| 209 | 1450 | Shiny Rollzone |
+| 210 | 1450 | Mischelle Clay |
 | 211 | 1442 | Glitzy Stackzone |
 | 212 | 1438 | Ashley Dow |
 | 213 | 1418 | L3sli3 |
@@ -282,8 +282,8 @@
 | 274 | 1172 | Lakeysha Dortch |
 | 275 | 1172 | Stacey Clement |
 | 276 | 1171 | Loretta Brewer-Gage |
-| 277 | 1165 | Michelle Lee |
-| 278 | 1165 | Christina Wsn |
+| 277 | 1165 | Christina Wsn |
+| 278 | 1165 | Michelle Lee |
 | 279 | 1163 | Erika Densmore |
 | 280 | 1158 | Brittany Clark |
 | 281 | 1156 | Alezandra Smith |
@@ -309,8 +309,8 @@
 | 301 | 1089 | Tyler C. Jung |
 | 302 | 1089 | Wakanda Forever |
 | 303 | 1086 | Deborah Miller |
-| 304 | 1079 | Angela Bonquiqui Dinish |
-| 305 | 1079 | Jennifer Kistner |
+| 304 | 1079 | Jennifer Kistner |
+| 305 | 1079 | Angela Bonquiqui Dinish |
 | 306 | 1076 | Cindy Sechler Taninecz |
 | 307 | 1073 | Jodi Blake |
 | 308 | 1072 | BK Queen |
@@ -364,8 +364,8 @@
 | 356 | 966 | Mandi Douglas Hilt |
 | 357 | 962 | Antionette Sewell |
 | 358 | 958 | Kathryn Townsley |
-| 359 | 958 | Doowop40 |
-| 360 | 958 | Brenda Messer |
+| 359 | 958 | Brenda Messer |
+| 360 | 958 | Doowop40 |
 | 361 | 957 | Block Master |
 | 362 | 954 | Melissa McCall |
 | 363 | 951 | Cynthia Ward |
@@ -1429,8 +1429,8 @@
 | 1421 | 320 | Amy Humphreys |
 | 1422 | 319 | Jessica Sutter |
 | 1423 | 319 | Nicolee Hackney |
-| 1424 | 318 | Chummy Breaker |
-| 1425 | 318 | Delfina Marie Villasenor |
+| 1424 | 318 | Delfina Marie Villasenor |
+| 1425 | 318 | Chummy Breaker |
 | 1426 | 318 | Natasha Marie |
 | 1427 | 318 | Steve Zortman |
 | 1428 | 318 | bosswoman |
