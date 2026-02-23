@@ -96,8 +96,8 @@
 | 88 | 664 | Valerie Roberts |
 | 89 | 659 | Jamie Gustafson |
 | 90 | 650 | KJ Pool |
-| 91 | 647 | KM8 |
-| 92 | 647 | Shauna Havard |
+| 91 | 647 | Shauna Havard |
+| 92 | 647 | KM8 |
 | 93 | 646 | Eric Mcgaughy |
 | 94 | 626 | Brittney Griggs |
 | 95 | 624 | Judy Cox |
