@@ -493,8 +493,8 @@
 | 485 | 200 | Alphonza Keyes Jr. |
 | 486 | 200 | I Am |
 | 487 | 199 | Tina Englert |
-| 488 | 199 | Brendan Sullivan |
-| 489 | 199 | Josh Smith |
+| 488 | 199 | Josh Smith |
+| 489 | 199 | Brendan Sullivan |
 | 490 | 198 | Larry Oaks |
 | 491 | 197 | Nikki Fridley |
 | 492 | 197 | MelSavage |
@@ -699,11 +699,11 @@
 | 691 | 139 | Fat fred |
 | 692 | 139 | Mighty Fallzone |
 | 693 | 138 | Gauge Slusher |
-| 694 | 138 | Unicorn |
-| 695 | 138 | Alyssa Ingram |
-| 696 | 137 | Kanesha Jackson |
-| 697 | 137 | Natiera Catrece |
-| 698 | 137 | Gina Bettikofer |
+| 694 | 138 | Alyssa Ingram |
+| 695 | 138 | Unicorn |
+| 696 | 137 | Natiera Catrece |
+| 697 | 137 | Gina Bettikofer |
+| 698 | 137 | Kanesha Jackson |
 | 699 | 137 | Brandy Ann |
 | 700 | 136 | Danny Brady |
 | 701 | 136 | Daniel Lorquet |

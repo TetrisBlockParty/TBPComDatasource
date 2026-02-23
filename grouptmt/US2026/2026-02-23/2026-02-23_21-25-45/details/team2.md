@@ -451,8 +451,8 @@
 | 443 | 888 | Leslie Ann Carter |
 | 444 | 883 | Hong Tang |
 | 445 | 882 | Samantha Scibelli |
-| 446 | 881 | Aireka Roman |
-| 447 | 881 | Johnny Yeates |
+| 446 | 881 | Johnny Yeates |
+| 447 | 881 | Aireka Roman |
 | 448 | 877 | Misti Markijohn |
 | 449 | 876 | Jessicah Myers |
 | 450 | 876 | Jelly |
@@ -511,8 +511,8 @@
 | 503 | 801 | Diana Fitzwater |
 | 504 | 801 | Lindsey Leigh |
 | 505 | 798 | Melissa Cole |
-| 506 | 797 | Alex Dungo Hoang |
-| 507 | 797 | Mighty Spinbuilder |
+| 506 | 797 | Mighty Spinbuilder |
+| 507 | 797 | Alex Dungo Hoang |
 | 508 | 796 | AndrewandShela Gornik |
 | 509 | 796 | Gloria Liu |
 | 510 | 793 | Eunique Griffin |

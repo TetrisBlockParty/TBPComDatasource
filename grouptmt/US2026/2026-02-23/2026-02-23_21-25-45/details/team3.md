@@ -224,8 +224,8 @@
 | 216 | 576 | Nicole Flippo |
 | 217 | 571 | Salena Whitlock |
 | 218 | 570 | Twisty Brick LT |
-| 219 | 569 | Michael Johnson |
-| 220 | 569 | Juliana Dottore |
+| 219 | 569 | Juliana Dottore |
+| 220 | 569 | Michael Johnson |
 | 221 | 568 | Rachael McClain Owens |
 | 222 | 567 | FuzzyNavel |
 | 223 | 566 | LaTanya GeminiondaRise Johnson |
@@ -274,14 +274,14 @@
 | 266 | 497 | Dapper Snap |
 | 267 | 494 | MCV |
 | 268 | 491 | Ammmmmmy |
-| 269 | 490 | PrncssPJ |
-| 270 | 490 | Marci Mize Fandrich |
+| 269 | 490 | Marci Mize Fandrich |
+| 270 | 490 | PrncssPJ |
 | 271 | 486 | Eileen Brady Thurber |
 | 272 | 480 | Isabel Ocasio |
 | 273 | 477 | Hyper Matchzone |
 | 274 | 476 | Shunta Jacobs |
-| 275 | 475 | Stephanie Bradley |
-| 276 | 475 | Rebecca Bailey |
+| 275 | 475 | Rebecca Bailey |
+| 276 | 475 | Stephanie Bradley |
 | 277 | 473 | Rebecca Funderburk Kirby |
 | 278 | 471 | Mendoza Lee Christy |
 | 279 | 471 | Alexmac |
@@ -391,8 +391,8 @@
 | 383 | 349 | Donna |
 | 384 | 348 | Ashley Raines |
 | 385 | 346 | AlsoJess |
-| 386 | 345 | victory |
-| 387 | 345 | Misha Sanders |
+| 386 | 345 | Misha Sanders |
+| 387 | 345 | victory |
 | 388 | 344 | Beaudie Stroebel |
 | 389 | 342 | Christina Marie Swisher |
 | 390 | 342 | Cynthia Herrmann Egland |
@@ -613,8 +613,8 @@
 | 605 | 244 | Amanda Fulton |
 | 606 | 243 | paranoid |
 | 607 | 243 | Nicholas Roddy |
-| 608 | 243 | Cameron Lovell |
-| 609 | 243 | Lazy Matchfit |
+| 608 | 243 | Lazy Matchfit |
+| 609 | 243 | Cameron Lovell |
 | 610 | 242 | Misstery |
 | 611 | 242 | BŘŰŤİÇŨŚ |
 | 612 | 241 | Jill Stickney |
@@ -713,10 +713,10 @@
 | 705 | 212 | Lenora Price |
 | 706 | 212 | Beth Ingham |
 | 707 | 212 | Kita A Jackson |
-| 708 | 211 | David Kozen |
-| 709 | 211 | Brittany Lawson Tolson |
-| 710 | 211 | Allie Kershner |
-| 711 | 211 | El Chapa |
+| 708 | 211 | Allie Kershner |
+| 709 | 211 | David Kozen |
+| 710 | 211 | El Chapa |
+| 711 | 211 | Brittany Lawson Tolson |
 | 712 | 210 | Maia |
 | 713 | 210 | Shiny Twisterfit |
 | 714 | 209 | Kathleen Taylor |
@@ -785,8 +785,8 @@
 | 777 | 194 | Elisha L Allman |
 | 778 | 194 | Shicken Nuggit |
 | 779 | 194 | Alison Baus |
-| 780 | 193 | Clever Shiftsnap |
-| 781 | 193 | Leticia Lynn Lowe |
+| 780 | 193 | Leticia Lynn Lowe |
+| 781 | 193 | Clever Shiftsnap |
 | 782 | 193 | Stephanie Zahm |
 | 783 | 193 | Chipper Piecefit |
 | 784 | 193 | Jessie Chung |
