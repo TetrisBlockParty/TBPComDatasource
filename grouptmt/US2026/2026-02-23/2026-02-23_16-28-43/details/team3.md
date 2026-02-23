@@ -194,8 +194,8 @@
 | 186 | 594 | Kristin Delibac Corrigan |
 | 187 | 591 | Michael Nowogorski |
 | 188 | 587 | Louise Stacy Sisson |
-| 189 | 585 | Happy Tetriblast |
-| 190 | 585 | Domo Washington |
+| 189 | 585 | Domo Washington |
+| 190 | 585 | Happy Tetriblast |
 | 191 | 582 | Natasha Jones |
 | 192 | 576 | Keis |
 | 193 | 572 | Rania Zaqout |

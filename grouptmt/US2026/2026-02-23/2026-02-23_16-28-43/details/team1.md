@@ -47,8 +47,8 @@
 | 39 | 1128 | june october |
 | 40 | 1126 | Tater |
 | 41 | 1114 | Andrea Dañielle Ortiz |
-| 42 | 1114 | Jayme Sellers |
-| 43 | 1114 | Marianne Louise West |
+| 42 | 1114 | Marianne Louise West |
+| 43 | 1114 | Jayme Sellers |
 | 44 | 1112 | Chipper Gridlock |
 | 45 | 1100 | Derek MF Blakey |
 | 46 | 1092 | Tipsy Column |
@@ -127,8 +127,8 @@
 | 119 | 530 | Evan Richmond |
 | 120 | 522 | Sarah Lombardo |
 | 121 | 515 | Death |
-| 122 | 513 | Colena Davenport |
-| 123 | 513 | April Carroll |
+| 122 | 513 | April Carroll |
+| 123 | 513 | Colena Davenport |
 | 124 | 509 | Rachael |
 | 125 | 502 | Anaid Sanchez |
 | 126 | 497 | Arianna O'Brien |
@@ -160,8 +160,8 @@
 | 152 | 448 | Sweet Baker |
 | 153 | 446 | SkipTheSadSauce |
 | 154 | 443 | femmefatale |
-| 155 | 440 | Timothy Danaher |
-| 156 | 440 | Kimmie Kimms |
+| 155 | 440 | Kimmie Kimms |
+| 156 | 440 | Timothy Danaher |
 | 157 | 437 | BadG52 |
 | 158 | 435 | Dandy Basegrid |
 | 159 | 434 | Yvonne Marie |
@@ -294,8 +294,8 @@
 | 286 | 283 | Irv |
 | 287 | 283 | Larry Tilton |
 | 288 | 282 | Timothy Dew |
-| 289 | 280 | Наталья Солоид |
-| 290 | 280 | Billie Dawn Sparks |
+| 289 | 280 | Billie Dawn Sparks |
+| 290 | 280 | Наталья Солоид |
 | 291 | 279 | Chris Dawson |
 | 292 | 277 | Nutty Spinblock |
 | 293 | 277 | Agustin Duarte Orozco |
