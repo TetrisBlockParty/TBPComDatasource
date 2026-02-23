@@ -223,8 +223,8 @@
 | 215 | 1259 | Foxxo |
 | 216 | 1258 | Snappy Matchbuilder |
 | 217 | 1252 | Angel |
-| 218 | 1245 | Cody Nishimura |
-| 219 | 1245 | Missie Lawson Gebhardt |
+| 218 | 1245 | Missie Lawson Gebhardt |
+| 219 | 1245 | Cody Nishimura |
 | 220 | 1240 | Brandon Armstrong |
 | 221 | 1237 | Megan Ferguson Leone |
 | 222 | 1232 | Ambyre Patterson |
@@ -273,12 +273,12 @@
 | 265 | 1093 | Real Ri |
 | 266 | 1088 | Brainy Smurf |
 | 267 | 1080 | Tyler C. Jung |
-| 268 | 1079 | Jennifer Kistner |
-| 269 | 1079 | Kimberly Hauck-Rausch |
+| 268 | 1079 | Kimberly Hauck-Rausch |
+| 269 | 1079 | Jennifer Kistner |
 | 270 | 1073 | Jodi Blake |
 | 271 | 1071 | Kim Dean |
-| 272 | 1069 | Carl Bradshaw |
-| 273 | 1069 | Offonar Facey |
+| 272 | 1069 | Offonar Facey |
+| 273 | 1069 | Carl Bradshaw |
 | 274 | 1064 | BK Queen |
 | 275 | 1063 | Caitlin Schmid |
 | 276 | 1058 | Rickey Johnson |
@@ -328,8 +328,8 @@
 | 320 | 957 | Block Master |
 | 321 | 955 | Angela Bonquiqui Dinish |
 | 322 | 954 | Melissa McCall |
-| 323 | 951 | Wakanda Forever |
-| 324 | 951 | Cynthia Ward |
+| 323 | 951 | Cynthia Ward |
+| 324 | 951 | Wakanda Forever |
 | 325 | 949 | Steve Man |
 | 326 | 947 | Dedra Steward |
 | 327 | 942 | Cindy Sechler Taninecz |
@@ -350,8 +350,8 @@
 | 342 | 907 | Gene Mills |
 | 343 | 904 | John Bednarik |
 | 344 | 904 | Bee |
-| 345 | 903 | Eric Castaneda |
-| 346 | 903 | Giggy Blocker |
+| 345 | 903 | Giggy Blocker |
+| 346 | 903 | Eric Castaneda |
 | 347 | 901 | Kevin Sees |
 | 348 | 899 | Chevy |
 | 349 | 899 | Patrick Bartlett |
@@ -448,8 +448,8 @@
 | 440 | 751 | Caitlyn Blackwell |
 | 441 | 750 | Draizen Montrell Thomas |
 | 442 | 748 | Spunkysmom |
-| 443 | 748 | Brenda Utphall |
-| 444 | 748 | Ann Matzkanin |
+| 443 | 748 | Ann Matzkanin |
+| 444 | 748 | Brenda Utphall |
 | 445 | 746 | Leslie Ann Carter |
 | 446 | 742 | tejas25 |
 | 447 | 741 | Jánine Riggs |
@@ -457,8 +457,8 @@
 | 449 | 737 | Ginger |
 | 450 | 737 | Chelle |
 | 451 | 732 | Victoria Moore-Smith |
-| 452 | 731 | Matthew Joseph Acevedo |
-| 453 | 731 | Charvi' Carter |
+| 452 | 731 | Charvi' Carter |
+| 453 | 731 | Matthew Joseph Acevedo |
 | 454 | 730 | Hoppy Brickmatch |
 | 455 | 729 | goofinoff |
 | 456 | 728 | Mikayala Szaz |
@@ -466,8 +466,8 @@
 | 458 | 728 | Tom Riefer |
 | 459 | 726 | Crystal Greene |
 | 460 | 725 | Ashle Scranton |
-| 461 | 725 | Vonceial Boone |
-| 462 | 725 | Karen Snyder Schrage |
+| 461 | 725 | Karen Snyder Schrage |
+| 462 | 725 | Vonceial Boone |
 | 463 | 724 | Melissa Holsinger |
 | 464 | 720 | BeQuo |
 | 465 | 720 | Giggy Mover |
@@ -624,8 +624,8 @@
 | 616 | 574 | Valerie Brooke Lusk Armstrong |
 | 617 | 573 | Vaniel Glover |
 | 618 | 573 | Mike Aprilliano |
-| 619 | 572 | Joseph Musick |
-| 620 | 572 | Rachael Senard |
+| 619 | 572 | Rachael Senard |
+| 620 | 572 | Joseph Musick |
 | 621 | 572 | Jason H Baker |
 | 622 | 572 | Alexandra Lynn |
 | 623 | 571 | Emily Lyric Converse |
@@ -805,15 +805,15 @@
 | 797 | 461 | Julie Hamilton |
 | 798 | 461 | Amanda Segura |
 | 799 | 461 | Alexis Richardson |
-| 800 | 461 | Kristen O'Neal |
-| 801 | 461 | Amanda West |
+| 800 | 461 | Amanda West |
+| 801 | 461 | Kristen O'Neal |
 | 802 | 460 | LaWanda Powell |
 | 803 | 459 | Boozi |
 | 804 | 459 | Pocho Zavala |
 | 805 | 459 | Linda Miltenburg |
 | 806 | 457 | Kelly Meredeith |
-| 807 | 457 | Kray Kray Katelynn |
-| 808 | 457 | Jennifer Coe |
+| 807 | 457 | Jennifer Coe |
+| 808 | 457 | Kray Kray Katelynn |
 | 809 | 457 | Ryan Chan |
 | 810 | 456 | Sabrina Burton |
 | 811 | 456 | ItsJennifer Neriss |
@@ -824,8 +824,8 @@
 | 816 | 452 | Cranky Tower |
 | 817 | 452 | Tipsy Filler |
 | 818 | 451 | Sharon Mills |
-| 819 | 451 | Giggly Snap |
-| 820 | 451 | Stefanie Zonzini-Gagliardi |
+| 819 | 451 | Stefanie Zonzini-Gagliardi |
+| 820 | 451 | Giggly Snap |
 | 821 | 450 | sup |
 | 822 | 449 | Heather Sawtelle-Mckenzie |
 | 823 | 449 | Jas |
@@ -1151,8 +1151,8 @@
 | 1143 | 337 | Stanley Vanekelenburg |
 | 1144 | 336 | Crystal Cornelius |
 | 1145 | 336 | Katrina Willmon |
-| 1146 | 336 | Jumpy Gridclear |
-| 1147 | 336 | Zany Clusterbuilder |
+| 1146 | 336 | Zany Clusterbuilder |
+| 1147 | 336 | Jumpy Gridclear |
 | 1148 | 336 | Spunky Match |
 | 1149 | 336 | Colton Saupe |
 | 1150 | 335 | Greenshades00 |
@@ -1282,7 +1282,7 @@
 | 1274 | 304 | Amber Cano |
 | 1275 | 304 | NFLPITMOM |
 | 1276 | 303 | Val Pal |
-| 1277 | 303 | Amanda Schaffer |
+| 1277 | 303 | Amanda Edwards |
 | 1278 | 303 | Devin |
 | 1279 | 303 | Amanda Schaffer |
 | 1280 | 302 | Mary Cicale |

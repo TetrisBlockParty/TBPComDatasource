@@ -114,8 +114,8 @@
 | 106 | 493 | MomMom |
 | 107 | 492 | Ash Galvan |
 | 108 | 491 | cc |
-| 109 | 489 | Deanna L Hermanson |
-| 110 | 489 | April Carroll |
+| 109 | 489 | April Carroll |
+| 110 | 489 | Deanna L Hermanson |
 | 111 | 483 | Tdub |
 | 112 | 483 | Trina Gee |
 | 113 | 480 | Ty Brown |
@@ -132,8 +132,8 @@
 | 124 | 452 | Hyper |
 | 125 | 451 | Plucky Ziggy |
 | 126 | 450 | lil mickey |
-| 127 | 448 | Jazzy Framezone |
-| 128 | 448 | Sweet Baker |
+| 127 | 448 | Sweet Baker |
+| 128 | 448 | Jazzy Framezone |
 | 129 | 446 | SkipTheSadSauce |
 | 130 | 443 | Steve Schneider |
 | 131 | 440 | femmefatale |
@@ -153,8 +153,8 @@
 | 145 | 404 | Jessie Lynn |
 | 146 | 402 | Chris K |
 | 147 | 399 | Nery Martinez |
-| 148 | 394 | Lori Bales |
-| 149 | 394 | Jennifer Hardman |
+| 148 | 394 | Jennifer Hardman |
+| 149 | 394 | Lori Bales |
 | 150 | 389 | David Miller |
 | 151 | 388 | Fmp |
 | 152 | 387 | Monica Donato |
@@ -164,8 +164,8 @@
 | 156 | 383 | pjbeta |
 | 157 | 383 | Margo Wagner |
 | 158 | 380 | phrmblk24 |
-| 159 | 379 | Kimmie Kimms |
-| 160 | 379 | Austin James |
+| 159 | 379 | Austin James |
+| 160 | 379 | Kimmie Kimms |
 | 161 | 378 | Jessica Sheehan |
 | 162 | 376 | Brian Richardsson |
 | 163 | 376 | Death |
@@ -374,9 +374,9 @@
 | 366 | 204 | Cranky Pattern |
 | 367 | 204 | LD1 |
 | 368 | 203 | Rebekah LeiAnn Bonsell |
-| 369 | 202 | Andrew Backes |
-| 370 | 202 | Amber Dee |
-| 371 | 202 | Krie |
+| 369 | 202 | Amber Dee |
+| 370 | 202 | Krie |
+| 371 | 202 | Andrew Backes |
 | 372 | 201 | Rico Rico |
 | 373 | 201 | Colleen Wise |
 | 374 | 201 | Tedashi |

@@ -132,8 +132,8 @@
 | 124 | 764 | Hasty Cascadefit |
 | 125 | 764 | Groovy Catcher |
 | 126 | 762 | Speedy Bridger |
-| 127 | 755 | Raya |
-| 128 | 755 | Katrina Schroeder |
+| 127 | 755 | Katrina Schroeder |
+| 128 | 755 | Raya |
 | 129 | 752 | Logan Naccarato |
 | 130 | 748 | Adrian Marcel Pate |
 | 131 | 745 | JerseyJess |
@@ -218,8 +218,8 @@
 | 210 | 485 | Dapper Snap |
 | 211 | 484 | Fallorina Susana |
 | 212 | 481 | Connie Mohler-Fair |
-| 213 | 480 | Danielle Allison |
-| 214 | 480 | Michael Johnson |
+| 213 | 480 | Michael Johnson |
+| 214 | 480 | Danielle Allison |
 | 215 | 477 | Edwin Calvillo Jr. |
 | 216 | 475 | Tessina Dewey-Mancino |
 | 217 | 471 | Mendoza Lee Christy |
@@ -651,8 +651,8 @@
 | 643 | 174 | Sierra Spencer |
 | 644 | 174 | Lisa Sullivan |
 | 645 | 173 | Samantha Lohmeyer |
-| 646 | 173 | Julie Fratrik |
-| 647 | 173 | Beejangles |
+| 646 | 173 | Beejangles |
+| 647 | 173 | Julie Fratrik |
 | 648 | 172 | Nichole Greene |
 | 649 | 172 | Big T |
 | 650 | 172 | Miranda Taylor |
@@ -873,8 +873,8 @@
 | 865 | 132 | Amanda Jean Stafford |
 | 866 | 132 | Doddie Marie |
 | 867 | 132 | Jae Grisham |
-| 868 | 131 | Bnoom |
-| 869 | 131 | Eboni G. |
+| 868 | 131 | Eboni G. |
+| 869 | 131 | Bnoom |
 | 870 | 130 | Carla Hoffman |
 | 871 | 129 | Heather Watson |
 | 872 | 129 | Crystel b520 |

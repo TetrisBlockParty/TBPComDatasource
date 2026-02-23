@@ -76,8 +76,8 @@
 | 68 | 787 | Edward White |
 | 69 | 767 | Shannon Ferrari |
 | 70 | 766 | Robin Watters |
-| 71 | 765 | Denise Carlson |
-| 72 | 765 | Robin Getchel |
+| 71 | 765 | Robin Getchel |
+| 72 | 765 | Denise Carlson |
 | 73 | 753 | TheNeesh50 |
 | 74 | 752 | Shane Kalamata Platoon |
 | 75 | 749 | Dustee Craddock-Harrison |
@@ -98,8 +98,8 @@
 | 90 | 659 | Jamie Gustafson |
 | 91 | 653 | Rica Mitchell |
 | 92 | 650 | KJ Pool |
-| 93 | 647 | Shauna Havard |
-| 94 | 647 | KM8 |
+| 93 | 647 | KM8 |
+| 94 | 647 | Shauna Havard |
 | 95 | 646 | Eric Mcgaughy |
 | 96 | 626 | Brittney Griggs |
 | 97 | 624 | Judy Cox |
@@ -181,8 +181,8 @@
 | 173 | 370 | Oscar Alberto Perez |
 | 174 | 369 | Lindsey Gonzalez |
 | 175 | 368 | Raegan Lane-Ross |
-| 176 | 368 | Silly Zonebuilder |
-| 177 | 368 | Brandon Crabbs |
+| 176 | 368 | Brandon Crabbs |
+| 177 | 368 | Silly Zonebuilder |
 | 178 | 365 | Jeff Brian Gates |
 | 179 | 361 | Carlos Ramirez |
 | 180 | 361 | Melissa Adams |
@@ -205,8 +205,8 @@
 | 197 | 334 | Kris Bartlett |
 | 198 | 332 | HastyGrabber |
 | 199 | 331 | Alan George LaRage |
-| 200 | 330 | Kathy Brookins |
-| 201 | 330 | blockstar |
+| 200 | 330 | blockstar |
+| 201 | 330 | Kathy Brookins |
 | 202 | 328 | scott |
 | 203 | 327 | J-Rizzle |
 | 204 | 324 | jim |
@@ -286,13 +286,13 @@
 | 278 | 253 | Autum Leigh |
 | 279 | 251 | Carol Ricks Raymond |
 | 280 | 249 | Ak Jones |
-| 281 | 248 | Angelito |
-| 282 | 248 | Chirpy Basepiece |
+| 281 | 248 | Chirpy Basepiece |
+| 282 | 248 | Angelito |
 | 283 | 248 | Jose Dejesus |
 | 284 | 245 | 23 |
-| 285 | 244 | Elizabeth Tinoco |
+| 285 | 244 | Perky Piecegrid |
 | 286 | 244 | Christina Black |
-| 287 | 244 | Perky Piecegrid |
+| 287 | 244 | Elizabeth Tinoco |
 | 288 | 243 | Chair |
 | 289 | 242 | Chaz |
 | 290 | 242 | PurpleMoonMa |
@@ -435,7 +435,7 @@
 | 427 | 170 | Peppy Drop |
 | 428 | 170 | Vamp |
 | 429 | 169 | Jessica Atkinson |
-| 430 | 169 | Joseph Pace |
+| 430 | 169 | Duck |
 | 431 | 169 | Dante Korleon |
 | 432 | 169 | Joseph Pace |
 | 433 | 167 | Snippy Clearer |
@@ -471,10 +471,10 @@
 | 463 | 157 | Ryry |
 | 464 | 157 | LunaMoon |
 | 465 | 157 | David Boggs |
-| 466 | 156 | Mighty Edgepiece |
-| 467 | 156 | Funky Risepiece |
-| 468 | 155 | Faja |
-| 469 | 155 | Shirl |
+| 466 | 156 | Funky Risepiece |
+| 467 | 156 | Mighty Edgepiece |
+| 468 | 155 | Shirl |
+| 469 | 155 | Faja |
 | 470 | 155 | tipsy tiger |
 | 471 | 154 | Happy Combo |
 | 472 | 154 | Bryan Hodgins |
@@ -556,9 +556,9 @@
 | 548 | 131 | The Murphy |
 | 549 | 131 | Cool Clusterfit |
 | 550 | 131 | Roseanna Anderson |
-| 551 | 131 | The Murphy |
-| 552 | 130 | Holly Tracey-Grimes |
-| 553 | 130 | Gigglelymomof2 |
+| 551 | 131 | Cheryl Johnson |
+| 552 | 130 | Gigglelymomof2 |
+| 553 | 130 | Holly Tracey-Grimes |
 | 554 | 130 | KoolMom9907 |
 | 555 | 129 | Dreamy Snapgrid |
 | 556 | 129 | Jessica Wells |
