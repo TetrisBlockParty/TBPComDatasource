@@ -329,8 +329,8 @@
 | 321 | 957 | Block Master |
 | 322 | 955 | Angela Bonquiqui Dinish |
 | 323 | 954 | Melissa McCall |
-| 324 | 951 | Cynthia Ward |
-| 325 | 951 | Wakanda Forever |
+| 324 | 951 | Wakanda Forever |
+| 325 | 951 | Cynthia Ward |
 | 326 | 949 | Steve Man |
 | 327 | 947 | Dedra Steward |
 | 328 | 942 | Cindy Sechler Taninecz |
@@ -352,8 +352,8 @@
 | 344 | 907 | Gene Mills |
 | 345 | 904 | John Bednarik |
 | 346 | 904 | Bee |
-| 347 | 903 | Giggy Blocker |
-| 348 | 903 | Eric Castaneda |
+| 347 | 903 | Eric Castaneda |
+| 348 | 903 | Giggy Blocker |
 | 349 | 902 | Diallo Sparkman |
 | 350 | 901 | Kevin Sees |
 | 351 | 899 | Chevy |
@@ -514,8 +514,8 @@
 | 506 | 677 | Jackie Burnett |
 | 507 | 677 | Kayleigh Wisse |
 | 508 | 677 | Amanda Woodruff |
-| 509 | 676 | Roseanna Peloso |
-| 510 | 676 | Nicky Jackson |
+| 509 | 676 | Nicky Jackson |
+| 510 | 676 | Roseanna Peloso |
 | 511 | 675 | Lonne Emade |
 | 512 | 675 | Katelynn Hollen |
 | 513 | 674 | Ashley Munn |
@@ -551,8 +551,8 @@
 | 543 | 639 | Libby Hicks |
 | 544 | 639 | Toni Roberson |
 | 545 | 638 | Leah Keesling |
-| 546 | 637 | Shinette Dobson |
-| 547 | 637 | Koa N Sharon Chen |
+| 546 | 637 | Koa N Sharon Chen |
+| 547 | 637 | Shinette Dobson |
 | 548 | 637 | Karen Posadas Centeno |
 | 549 | 634 | James Louie |
 | 550 | 634 | Quiksilver |
@@ -561,8 +561,8 @@
 | 553 | 629 | snkylnk |
 | 554 | 628 | g |
 | 555 | 628 | Brownie Sheena |
-| 556 | 626 | Christina Ashley |
-| 557 | 626 | Chab |
+| 556 | 626 | Chab |
+| 557 | 626 | Christina Ashley |
 | 558 | 625 | Tracy Wise |
 | 559 | 624 | Santana Miyagi |
 | 560 | 621 | Taren Cowan |
@@ -581,13 +581,13 @@
 | 573 | 612 | Briana Alexander |
 | 574 | 612 | Slinky Racker |
 | 575 | 610 | Michael Buckner |
-| 576 | 609 | Autumn Schaeffer |
-| 577 | 609 | Cecilia A Jenkins |
+| 576 | 609 | Cecilia A Jenkins |
+| 577 | 609 | Autumn Schaeffer |
 | 578 | 607 | James Smith |
 | 579 | 607 | Miranda Morris |
 | 580 | 606 | Lea Stewart |
-| 581 | 605 | Mandi Marie Smith |
-| 582 | 605 | Jermaine Harris |
+| 581 | 605 | Jermaine Harris |
+| 582 | 605 | Mandi Marie Smith |
 | 583 | 604 | Rae Rae |
 | 584 | 603 | Casper The Chonk |
 | 585 | 602 | Tash Bell |
@@ -716,9 +716,9 @@
 | 708 | 509 | Perky Rollfit |
 | 709 | 509 | Toni Whipple |
 | 710 | 508 | Daphne Jordan |
-| 711 | 507 | Crystal Heller Gonzalez |
+| 711 | 507 | Lina Sanders |
 | 712 | 507 | Funky Caster |
-| 713 | 507 | Lina Sanders |
+| 713 | 507 | Crystal Heller Gonzalez |
 | 714 | 506 | Cblock |
 | 715 | 505 | Casey Schumacher |
 | 716 | 502 | Enha |
