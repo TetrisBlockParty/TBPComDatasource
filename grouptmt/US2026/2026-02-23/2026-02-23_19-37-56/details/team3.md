@@ -90,8 +90,8 @@
 | 82 | 1244 | Lori Barnaby |
 | 83 | 1240 | Betty Ivy |
 | 84 | 1221 | Logan Naccarato |
-| 85 | 1213 | Nerdy Riseclear |
-| 86 | 1213 | Snappy Glidepiece |
+| 85 | 1213 | Snappy Glidepiece |
+| 86 | 1213 | Nerdy Riseclear |
 | 87 | 1212 | Amanda Adkins |
 | 88 | 1198 | Jd Morris |
 | 89 | 1187 | Danielle Mogg |
@@ -158,8 +158,8 @@
 | 150 | 779 | Justin Ritter |
 | 151 | 773 | Daryn Elliott |
 | 152 | 773 | Daira Largen |
-| 153 | 764 | Hasty Cascadefit |
-| 154 | 764 | Groovy Catcher |
+| 153 | 764 | Groovy Catcher |
+| 154 | 764 | Hasty Cascadefit |
 | 155 | 762 | Santeria Trece Candles |
 | 156 | 761 | Peppy Shifter |
 | 157 | 761 | Marcie Bressler |
@@ -235,8 +235,8 @@
 | 227 | 546 | Cynthia Castros-Hampton |
 | 228 | 541 | Fran Lin |
 | 229 | 539 | Betty Bóò |
-| 230 | 537 | Tessina Dewey-Mancino |
-| 231 | 537 | Aerian Preston |
+| 230 | 537 | Aerian Preston |
+| 231 | 537 | Tessina Dewey-Mancino |
 | 232 | 537 | Tamara Deherrera |
 | 233 | 531 | Chauntee Alfrey-Cardinale |
 | 234 | 530 | Stephanie Blkpep Davidson |
@@ -316,8 +316,8 @@
 | 308 | 408 | Ashley Muncey |
 | 309 | 405 | Steffi Chris Dacones |
 | 310 | 403 | lashanda |
-| 311 | 403 | Scott Lindsay |
-| 312 | 403 | Stephanie Burtin |
+| 311 | 403 | Stephanie Burtin |
+| 312 | 403 | Scott Lindsay |
 | 313 | 400 | Dana Winters |
 | 314 | 398 | France Vézina |
 | 315 | 398 | fraulila |
@@ -476,16 +476,16 @@
 | 468 | 287 | Jessica Lynn French |
 | 469 | 287 | Heather Bateman |
 | 470 | 287 | Carol Cain Thurman |
-| 471 | 284 | Linda Draper |
-| 472 | 284 | Hanna Kim |
+| 471 | 284 | Hanna Kim |
+| 472 | 284 | Linda Draper |
 | 473 | 284 | Victoria Lexis Dyer |
 | 474 | 282 | Jl |
 | 475 | 282 | Hasty Pop |
 | 476 | 281 | Ktfreeee |
 | 477 | 281 | Kassie Dominique Rathbone |
 | 478 | 280 | Sarah Muradyan |
-| 479 | 280 | Dirtgirl27 |
-| 480 | 280 | Amanda Declue |
+| 479 | 280 | Amanda Declue |
+| 480 | 280 | Dirtgirl27 |
 | 481 | 280 | Jessica Christian |
 | 482 | 279 | Tosha Griffey |
 | 483 | 278 | IamJust Neyamijah Washington Sr. |
@@ -501,8 +501,8 @@
 | 493 | 275 | Cassandra Bryant |
 | 494 | 275 | Scott Doss |
 | 495 | 274 | Nerdy Lifter |
-| 496 | 273 | BigE |
-| 497 | 273 | Kevin Fountain |
+| 496 | 273 | Kevin Fountain |
+| 497 | 273 | BigE |
 | 498 | 273 | Michael Latasha Gray |
 | 499 | 272 | Todd Hall |
 | 500 | 271 | Hyper Twisterfit |

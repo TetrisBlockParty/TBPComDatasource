@@ -574,8 +574,8 @@
 | 566 | 708 | Irene Jones |
 | 567 | 706 | Poldo Ilano |
 | 568 | 704 | Tansaria Couch-Butler |
-| 569 | 703 | Funky Drop |
-| 570 | 703 | Dannette Goldberg-Richards |
+| 569 | 703 | Dannette Goldberg-Richards |
+| 570 | 703 | Funky Drop |
 | 571 | 701 | Aishah Brice |
 | 572 | 700 | Vincent Petrella |
 | 573 | 700 | Beverly Owens |
@@ -680,9 +680,9 @@
 | 672 | 621 | Taren Cowan |
 | 673 | 620 | Macy Jarrett |
 | 674 | 618 | Marella Petilo |
-| 675 | 617 | Kacee Conrad Bock |
+| 675 | 617 | Biggest thing |
 | 676 | 617 | Jason H Baker |
-| 677 | 617 | Biggest thing |
+| 677 | 617 | Kacee Conrad Bock |
 | 678 | 616 | Polly Pritchard Chesler |
 | 679 | 615 | Julio A Laracuente |
 | 680 | 613 | Audrey Jones |

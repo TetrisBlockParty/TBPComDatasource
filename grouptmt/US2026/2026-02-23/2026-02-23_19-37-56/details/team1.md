@@ -49,8 +49,8 @@
 | 41 | 1172 | Amanda Summey Schoemer |
 | 42 | 1166 | Felicia Lewis |
 | 43 | 1128 | june october |
-| 44 | 1126 | Tater |
-| 45 | 1126 | Tipsy Column |
+| 44 | 1126 | Tipsy Column |
+| 45 | 1126 | Tater |
 | 46 | 1122 | Kristen Gideon |
 | 47 | 1114 | Jayme Sellers |
 | 48 | 1114 | Andrea Dañielle Ortiz |
@@ -359,8 +359,8 @@
 | 351 | 261 | Angela Fairbank |
 | 352 | 261 | Brooke Elizabeth Antill |
 | 353 | 260 | Lacy Wolfe |
-| 354 | 259 | Tiffany Smith |
-| 355 | 259 | Glitzy Buildsnap |
+| 354 | 259 | Glitzy Buildsnap |
+| 355 | 259 | Tiffany Smith |
 | 356 | 258 | Silly Align |
 | 357 | 257 | Andrew Backes |
 | 358 | 257 | Marc Abney |

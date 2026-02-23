@@ -167,8 +167,8 @@
 | 159 | 498 | Nope Young |
 | 160 | 498 | Melissa Adams |
 | 161 | 496 | Jessica Lynn Cutlip |
-| 162 | 491 | Carrie Brian |
-| 163 | 491 | Jade Rian |
+| 162 | 491 | Jade Rian |
+| 163 | 491 | Carrie Brian |
 | 164 | 486 | Swanky Fitline |
 | 165 | 485 | Rico |
 | 166 | 480 | Brandon Crabbs |
@@ -216,8 +216,8 @@
 | 208 | 410 | Oscar Alberto Perez |
 | 209 | 408 | April Rondinone |
 | 210 | 400 | Antony Dwayne Beasley |
-| 211 | 399 | Lindsay Ball |
-| 212 | 399 | Jeff Brian Gates |
+| 211 | 399 | Jeff Brian Gates |
+| 212 | 399 | Lindsay Ball |
 | 213 | 398 | Tyler Terrific |
 | 214 | 394 | Nita Wells |
 | 215 | 389 | Joseph Guthrie |
@@ -587,8 +587,8 @@
 | 579 | 157 | LunaMoon |
 | 580 | 157 | David Boggs |
 | 581 | 156 | Nicole McMurray |
-| 582 | 155 | Stormy Tomplait |
-| 583 | 155 | Shirl |
+| 582 | 155 | Shirl |
+| 583 | 155 | Stormy Tomplait |
 | 584 | 155 | Faja |
 | 585 | 154 | Robert Rodriguez |
 | 586 | 154 | Holly Tracey-Grimes |
@@ -603,9 +603,9 @@
 | 595 | 151 | Brianna Walker |
 | 596 | 151 | Nijmeh Hinchsliff |
 | 597 | 150 | Manuel Groleau |
-| 598 | 150 | Glitzy Crasher |
-| 599 | 150 | Kujuanna Hammon |
-| 600 | 150 | Kristin Rose Nutter |
+| 598 | 150 | Kujuanna Hammon |
+| 599 | 150 | Kristin Rose Nutter |
+| 600 | 150 | Glitzy Crasher |
 | 601 | 149 | Boldy Linkpiece |
 | 602 | 148 | Will Chamberlain |
 | 603 | 147 | Hasty Fitzone |
@@ -618,8 +618,8 @@
 | 610 | 145 | Gio Santiago |
 | 611 | 145 | Matthew Rodriguez |
 | 612 | 145 | No Strings Attached Ra |
-| 613 | 144 | Bumpy Morris |
-| 614 | 144 | Zach Kerbs |
+| 613 | 144 | Zach Kerbs |
+| 614 | 144 | Bumpy Morris |
 | 615 | 143 | Sherri |
 | 616 | 142 | Frank Cook |
 | 617 | 142 | GTxIrishman |
@@ -1509,8 +1509,8 @@
 | 1501 | 28 | Shiny Brickline |
 | 1502 | 28 | Rita Loucks |
 | 1503 | 28 | Veronica Chan |
-| 1504 | 28 | Ashley Cooke |
-| 1505 | 28 | Rita Loucks |
+| 1504 | 28 | Slinky Matcher |
+| 1505 | 28 | Ashley Cooke |
 | 1506 | 28 | Jessi Gooch |
 | 1507 | 27 | Bold Builderpiece |
 | 1508 | 27 | Hector Duran |
@@ -1686,8 +1686,8 @@
 | 1678 | 15 | Charles D Rexrode Jr |
 | 1679 | 15 | Michelle LaRose |
 | 1680 | 15 | Hasty Matchline |
-| 1681 | 15 | Lindsey Lawson |
-| 1682 | 15 | Sunny Roll |
+| 1681 | 15 | Sunny Roll |
+| 1682 | 15 | Lindsey Lawson |
 | 1683 | 14 | Breezy Linkfall |
 | 1684 | 14 | Chrisluks |
 | 1685 | 14 | Peppy Tilebuilder |
