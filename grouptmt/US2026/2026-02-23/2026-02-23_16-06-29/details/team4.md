@@ -109,8 +109,8 @@
 | 101 | 659 | Jamie Gustafson |
 | 102 | 652 | Leslie Nicole |
 | 103 | 650 | KJ Pool |
-| 104 | 647 | KM8 |
-| 105 | 647 | Shauna Havard |
+| 104 | 647 | Shauna Havard |
+| 105 | 647 | KM8 |
 | 106 | 644 | Chris Hartig |
 | 107 | 637 | Lori Walker |
 | 108 | 635 | Adawna Swires |
@@ -178,8 +178,8 @@
 | 170 | 431 | Courtney Cicoria |
 | 171 | 427 | Steph Marie |
 | 172 | 426 | 🥔🥔 Spudz |
-| 173 | 423 | Carrie Brian |
-| 174 | 423 | Crystal Nicolette Moore |
+| 173 | 423 | Crystal Nicolette Moore |
+| 174 | 423 | Carrie Brian |
 | 175 | 422 | Zakia Monae |
 | 176 | 421 | JIGsaw ~(•¿°)~ |
 | 177 | 421 | Kesha Brady |
@@ -276,8 +276,8 @@
 | 268 | 292 | Angel Raya |
 | 269 | 291 | Dizzy Matchzone |
 | 270 | 291 | Nubian1 |
-| 271 | 290 | Rebecca Morris |
-| 272 | 290 | Plucky Patternblock |
+| 271 | 290 | Plucky Patternblock |
+| 272 | 290 | Rebecca Morris |
 | 273 | 290 | Jared Gutwein |
 | 274 | 289 | Juls |
 | 275 | 289 | John Brunetti |
@@ -290,8 +290,8 @@
 | 282 | 281 | Laura |
 | 283 | 278 | Sarah Brown |
 | 284 | 278 | Angela Geist Jusinski |
-| 285 | 276 | Susan Williams |
-| 286 | 276 | Lee Silpe |
+| 285 | 276 | Lee Silpe |
+| 286 | 276 | Susan Williams |
 | 287 | 276 | Cynthia Boudreau |
 | 288 | 275 | Kimberlee Jan Beckstead |
 | 289 | 274 | Mr. Party |
@@ -309,9 +309,9 @@
 | 301 | 265 | Sarah Neathery |
 | 302 | 264 | ZeeZee |
 | 303 | 263 | rebel4lyfe |
-| 304 | 262 | BigSammy420 |
+| 304 | 262 | Ruben Wheeler |
 | 305 | 262 | Selena Shaw |
-| 306 | 262 | Ruben Wheeler |
+| 306 | 262 | BigSammy420 |
 | 307 | 261 | Zethra Prenisha Rahming |
 | 308 | 260 | Carter Jones |
 | 309 | 259 | Allen Lloyd |
@@ -467,8 +467,8 @@
 | 459 | 181 | Nikki Wilson |
 | 460 | 181 | Kate |
 | 461 | 180 | Speedy Cascadeclear |
-| 462 | 180 | Nig |
-| 463 | 180 | Carlos Hernandez |
+| 462 | 180 | Carlos Hernandez |
+| 463 | 180 | Nig |
 | 464 | 180 | Sandra Safford |
 | 465 | 179 | JoAnna Zalkovsky |
 | 466 | 179 | GBR |
@@ -623,8 +623,8 @@
 | 615 | 129 | Tamika Starkey |
 | 616 | 129 | Dreamy Snapgrid |
 | 617 | 129 | RIFATSIKDER |
-| 618 | 128 | Raymond Roberts |
-| 619 | 128 | Lazy Glidepiece |
+| 618 | 128 | Lazy Glidepiece |
+| 619 | 128 | Raymond Roberts |
 | 620 | 128 | Zesty Linkgrid |
 | 621 | 127 | Jay You |
 | 622 | 127 | Joe Lonnemann |

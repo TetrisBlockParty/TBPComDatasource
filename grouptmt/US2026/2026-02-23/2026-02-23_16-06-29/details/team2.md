@@ -377,8 +377,8 @@
 | 369 | 919 | Isaac Trappiel IV |
 | 370 | 916 | Butta |
 | 371 | 915 | Kelly Trent |
-| 372 | 914 | William Hunt |
-| 373 | 914 | Shuany Arias |
+| 372 | 914 | Shuany Arias |
+| 373 | 914 | William Hunt |
 | 374 | 913 | blume |
 | 375 | 909 | Valerie Brooke Lusk Armstrong |
 | 376 | 907 | Gene Mills |
@@ -512,8 +512,8 @@
 | 504 | 726 | Joce Lynn |
 | 505 | 726 | Crystal Greene |
 | 506 | 726 | Ashley Munn |
-| 507 | 725 | Darla Silva |
-| 508 | 725 | Vonceial Boone |
+| 507 | 725 | Vonceial Boone |
+| 508 | 725 | Darla Silva |
 | 509 | 724 | Melissa Holsinger |
 | 510 | 718 | Casper The Chonk |
 | 511 | 716 | Cc |
@@ -538,8 +538,8 @@
 | 530 | 692 | Bubbly Snapbuild |
 | 531 | 691 | Arwa Fatimah |
 | 532 | 691 | Lylymom |
-| 533 | 689 | AISlop |
-| 534 | 689 | Gauri Shrotriya |
+| 533 | 689 | Gauri Shrotriya |
+| 534 | 689 | AISlop |
 | 535 | 688 | Tracy Wise |
 | 536 | 686 | Christine Coughlin |
 | 537 | 684 | Ann Knutson Anderson |

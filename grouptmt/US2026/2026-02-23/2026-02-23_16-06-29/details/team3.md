@@ -123,8 +123,8 @@
 | 115 | 891 | Jesse Olive |
 | 116 | 878 | Shane Wilson Jr. |
 | 117 | 874 | Jessica Pineda-Lopez |
-| 118 | 868 | Felicia Rocha |
-| 119 | 868 | Sarajane Lokan |
+| 118 | 868 | Sarajane Lokan |
+| 119 | 868 | Felicia Rocha |
 | 120 | 864 | Sunny Rotater |
 | 121 | 848 | Patricia Gadsden |
 | 122 | 846 | Kristie |
@@ -140,8 +140,8 @@
 | 132 | 774 | Keith J Oshman Jr. |
 | 133 | 773 | Daira Largen |
 | 134 | 770 | Daryn Elliott |
-| 135 | 764 | Groovy Catcher |
-| 136 | 764 | Hasty Cascadefit |
+| 135 | 764 | Hasty Cascadefit |
+| 136 | 764 | Groovy Catcher |
 | 137 | 762 | Speedy Bridger |
 | 138 | 759 | yoyo |
 | 139 | 757 | Fancy Cascader |
@@ -470,8 +470,8 @@
 | 462 | 267 | April Matthew Kibble |
 | 463 | 266 | Quirky Dropzone |
 | 464 | 266 | Sarah Muradyan |
-| 465 | 264 | Colton |
-| 466 | 264 | Danielle Beaunoyer Jean |
+| 465 | 264 | Danielle Beaunoyer Jean |
+| 466 | 264 | Colton |
 | 467 | 264 | Reina Roth |
 | 468 | 262 | Kevin Russell |
 | 469 | 261 | Giggly Brickroll |
@@ -481,13 +481,13 @@
 | 473 | 259 | Shania Vaine |
 | 474 | 259 | Tegan Chapman |
 | 475 | 258 | Dana Fox |
-| 476 | 257 | Funky Brickster |
-| 477 | 257 | Chris Wallace |
-| 478 | 257 | Jana Polk |
-| 479 | 257 | Saucy Buildout |
+| 476 | 257 | Chris Wallace |
+| 477 | 257 | Funky Brickster |
+| 478 | 257 | Saucy Buildout |
+| 479 | 257 | Jana Polk |
 | 480 | 256 | Chenoa Urban Sophicated Redy |
-| 481 | 256 | Christina Rotz Shows |
-| 482 | 256 | Brysten Green |
+| 481 | 256 | Brysten Green |
+| 482 | 256 | Christina Rotz Shows |
 | 483 | 255 | Jolly Dashpiece |
 | 484 | 255 | Mariah Williams |
 | 485 | 254 | Blair Erin Waite |
