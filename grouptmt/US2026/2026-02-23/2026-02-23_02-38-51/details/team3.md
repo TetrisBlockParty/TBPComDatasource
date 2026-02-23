@@ -61,8 +61,8 @@
 | 53 | 1276 | Aaron Pitkin |
 | 54 | 1269 | Amber Jones |
 | 55 | 1258 | Jennifer Petrie |
-| 56 | 1256 | Mahman |
-| 57 | 1256 | Jessica Bechler |
+| 56 | 1256 | Jessica Bechler |
+| 57 | 1256 | Mahman |
 | 58 | 1211 | Nate Burnside |
 | 59 | 1181 | Elaine Webb Graves |
 | 60 | 1173 | Nora Rogers |

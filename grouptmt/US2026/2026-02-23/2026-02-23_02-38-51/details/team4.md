@@ -114,10 +114,10 @@
 | 106 | 519 | Nugget |
 | 107 | 514 | Serena Goodridge |
 | 108 | 513 | YoMomma |
-| 109 | 513 | Erin Thomas |
-| 110 | 513 | shar |
-| 111 | 512 | Casey Jeffcoat |
-| 112 | 512 | Cristy Duerksen |
+| 109 | 513 | shar |
+| 110 | 513 | Erin Thomas |
+| 111 | 512 | Cristy Duerksen |
+| 112 | 512 | Casey Jeffcoat |
 | 113 | 511 | Lori Walker |
 | 114 | 510 | Scott Jameson |
 | 115 | 499 | Christina LR |
@@ -156,8 +156,8 @@
 | 148 | 391 | Ramel Rhodes |
 | 149 | 391 | Livvy |
 | 150 | 389 | Joseph Guthrie |
-| 151 | 387 | 🥔🥔 Spudz |
-| 152 | 387 | Lucas J Sutton |
+| 151 | 387 | Lucas J Sutton |
+| 152 | 387 | 🥔🥔 Spudz |
 | 153 | 377 | Carrie Brian |
 | 154 | 375 | ThaEviLJeNiuZ |
 | 155 | 375 | Desi Desporte |

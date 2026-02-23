@@ -40,8 +40,8 @@
 | 32 | 4199 | Claire Noland |
 | 33 | 4180 | Robert Diddle |
 | 34 | 4128 | Angela Pruitt |
-| 35 | 4120 | Corrine Hawks Soriano |
-| 36 | 4120 | Kristen Sceurman |
+| 35 | 4120 | Kristen Sceurman |
+| 36 | 4120 | Corrine Hawks Soriano |
 | 37 | 4093 | Jill Stroehlein |
 | 38 | 3895 | Nickie Baby |
 | 39 | 3770 | Brittany Alicia |
@@ -197,8 +197,8 @@
 | 189 | 1300 | Tacara Cummings |
 | 190 | 1294 | Ashley House |
 | 191 | 1286 | Altamirano Michael |
-| 192 | 1282 | Ashley Rose Frederick |
-| 193 | 1282 | Tanya Parsons |
+| 192 | 1282 | Tanya Parsons |
+| 193 | 1282 | Ashley Rose Frederick |
 | 194 | 1258 | Joyce Johnson Vaughn |
 | 195 | 1257 | Michele Gabriel |
 | 196 | 1252 | Angel |
@@ -269,8 +269,8 @@
 | 261 | 1021 | Glitzy Stackzone |
 | 262 | 1014 | Michele Morgan |
 | 263 | 1011 | Teresa Gillmore |
-| 264 | 1003 | Andrea Maher |
-| 265 | 1003 | nikki |
+| 264 | 1003 | nikki |
+| 265 | 1003 | Andrea Maher |
 | 266 | 998 | Shelley Thornburgh Wright |
 | 267 | 996 | Ashie Ann |
 | 268 | 987 | Julie Kresal |

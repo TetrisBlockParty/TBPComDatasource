@@ -59,8 +59,8 @@
 | 51 | 829 | Sevens4L |
 | 52 | 812 | Patrick Luckenbill |
 | 53 | 797 | Lawrence Belanger |
-| 54 | 783 | TSwag |
-| 55 | 783 | Redlicious 1 |
+| 54 | 783 | Redlicious 1 |
+| 55 | 783 | TSwag |
 | 56 | 779 | Andrea Dañielle Ortiz |
 | 57 | 772 | Tinah Montanna |
 | 58 | 770 | Zappy Curvetile |
@@ -127,10 +127,10 @@
 | 119 | 427 | Ly Phethmany |
 | 120 | 425 | Dandy Basegrid |
 | 121 | 417 | Lori Sanders- Davis |
-| 122 | 409 | Yvonne Marie |
-| 123 | 409 | Goose egg |
-| 124 | 406 | Candy Jones |
-| 125 | 406 | Desiree Deschaine Havee |
+| 122 | 409 | Goose egg |
+| 123 | 409 | Yvonne Marie |
+| 124 | 406 | Desiree Deschaine Havee |
+| 125 | 406 | Candy Jones |
 | 126 | 402 | Chris K |
 | 127 | 400 | Maria C. Hernandez |
 | 128 | 399 | Nery Martinez |
@@ -234,9 +234,9 @@
 | 226 | 264 | Standia Civil |
 | 227 | 263 | Jessie Lynn |
 | 228 | 261 | John J. Cronin |
-| 229 | 260 | Lacy Wolfe |
+| 229 | 260 | Marianita Garcia |
 | 230 | 260 | Melissa Lemmon |
-| 231 | 260 | Marianita Garcia |
+| 231 | 260 | Lacy Wolfe |
 | 232 | 258 | Perky Shiftsnap |
 | 233 | 257 | Lakeisha Chapman |
 | 234 | 256 | Snappy Matcher |
