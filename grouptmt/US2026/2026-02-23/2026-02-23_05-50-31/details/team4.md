@@ -68,8 +68,8 @@
 | 60 | 807 | Rachel Anne |
 | 61 | 803 | Amelpss |
 | 62 | 788 | Julian Garcia |
-| 63 | 781 | Ashley Ingram |
-| 64 | 781 | Chilly Line |
+| 63 | 781 | Chilly Line |
+| 64 | 781 | Ashley Ingram |
 | 65 | 767 | Shannon Ferrari |
 | 66 | 766 | Edward White |
 | 67 | 766 | Robin Watters |
@@ -88,8 +88,8 @@
 | 80 | 697 | Alyssa Papen |
 | 81 | 696 | Shane Kalamata Platoon |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Kimyatta Cavin |
-| 84 | 684 | Jonathan Kimbrough |
+| 83 | 684 | Jonathan Kimbrough |
+| 84 | 684 | Kimyatta Cavin |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -119,8 +119,8 @@
 | 111 | 528 | Rodney McMath Jr. |
 | 112 | 527 | Dizzy Tiley |
 | 113 | 519 | Nugget |
-| 114 | 517 | shar |
-| 115 | 517 | Christina LR |
+| 114 | 517 | Christina LR |
+| 115 | 517 | shar |
 | 116 | 514 | Serena Goodridge |
 | 117 | 514 | Scott Jameson |
 | 118 | 513 | Erin Thomas |
@@ -185,8 +185,8 @@
 | 177 | 349 | Rafael Valentin |
 | 178 | 349 | Twisty Cascadezone |
 | 179 | 348 | April Rondinone |
-| 180 | 347 | Daria Rycewicz |
-| 181 | 347 | Crystal Nicolette Moore |
+| 180 | 347 | Crystal Nicolette Moore |
+| 181 | 347 | Daria Rycewicz |
 | 182 | 339 | David Lay |
 | 183 | 336 | Bio Nelly |
 | 184 | 335 | James Hurley Jr. |
@@ -201,8 +201,8 @@
 | 193 | 321 | Meagan Nicole |
 | 194 | 320 | Lauren Scott |
 | 195 | 318 | Chris Hartig |
-| 196 | 316 | Autumn Kumzi |
-| 197 | 316 | Cursed Hag |
+| 196 | 316 | Cursed Hag |
+| 197 | 316 | Autumn Kumzi |
 | 198 | 311 | Mary Ann Pabukis |
 | 199 | 310 | Holly Jolly |
 | 200 | 307 | Cheery Risebuilder |
@@ -234,8 +234,8 @@
 | 226 | 281 | Laura |
 | 227 | 278 | Sarah Brown |
 | 228 | 278 | Angela Geist Jusinski |
-| 229 | 276 | Joeliecea Cobb |
-| 230 | 276 | Matt Dell'Olio |
+| 229 | 276 | Matt Dell'Olio |
+| 230 | 276 | Joeliecea Cobb |
 | 231 | 274 | JPW |
 | 232 | 273 | Casey Grabner |
 | 233 | 272 | Alan George LaRage |
@@ -328,8 +328,8 @@
 | 320 | 210 | Ari Droff |
 | 321 | 209 | Marcus Todd |
 | 322 | 209 | Snippy Puzzle |
-| 323 | 208 | Heather Bruce |
-| 324 | 208 | Shukee Lo |
+| 323 | 208 | Shukee Lo |
+| 324 | 208 | Heather Bruce |
 | 325 | 206 | June Hoffman |
 | 326 | 206 | Maureen Flanigan |
 | 327 | 205 | KayM |
@@ -595,8 +595,8 @@
 | 587 | 116 | JEan Price |
 | 588 | 115 | Nicole McMurray |
 | 589 | 115 | Jayk |
-| 590 | 114 | tipsy tiger |
-| 591 | 114 | Rosemary Foster |
+| 590 | 114 | Rosemary Foster |
+| 591 | 114 | tipsy tiger |
 | 592 | 113 | Hog Crankin |
 | 593 | 113 | Abigail Murphy |
 | 594 | 113 | Serena Butter |

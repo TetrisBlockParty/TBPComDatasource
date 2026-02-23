@@ -93,8 +93,8 @@
 | 85 | 2515 | Crystalin Heath Lewis |
 | 86 | 2500 | Rosemadder |
 | 87 | 2438 | Rob Surace |
-| 88 | 2428 | Deanna Morton |
-| 89 | 2428 | Thomas Hughes |
+| 88 | 2428 | Thomas Hughes |
+| 89 | 2428 | Deanna Morton |
 | 90 | 2410 | RdRydnHd |
 | 91 | 2400 | Rich Sullivan |
 | 92 | 2375 | Megan Peckham |
@@ -368,13 +368,13 @@
 | 360 | 831 | Christina Lewis-Vickers |
 | 361 | 830 | Diallo Sparkman |
 | 362 | 829 | Jessica Wayne Cornwall |
-| 363 | 824 | Khalil Lowe |
-| 364 | 824 | Danielle Johnson-Chandler |
+| 363 | 824 | Danielle Johnson-Chandler |
+| 364 | 824 | Khalil Lowe |
 | 365 | 823 | Alezandra Smith |
 | 366 | 822 | Lola Contreras |
 | 367 | 821 | Angie Bolton Workman |
-| 368 | 821 | Arkei Luster |
-| 369 | 821 | Cassie Mercer |
+| 368 | 821 | Cassie Mercer |
+| 369 | 821 | Arkei Luster |
 | 370 | 818 | Lisa Ongtowasruk |
 | 371 | 816 | James Simms III |
 | 372 | 816 | Beth |
@@ -427,8 +427,8 @@
 | 419 | 748 | Brenda Utphall |
 | 420 | 748 | Spunkysmom |
 | 421 | 746 | Aimee Campbell |
-| 422 | 746 | Leslie Ann Carter |
-| 423 | 746 | Jerilyn Andrina |
+| 422 | 746 | Jerilyn Andrina |
+| 423 | 746 | Leslie Ann Carter |
 | 424 | 746 | Mandi Douglas Hilt |
 | 425 | 741 | Jánine Riggs |
 | 426 | 740 | Jerry Tempelmeyer |
@@ -978,10 +978,10 @@
 | 970 | 368 | Lively Piecebuilder |
 | 971 | 368 | Bec |
 | 972 | 367 | Lush Snapzone |
-| 973 | 367 | Brianna Cerney |
-| 974 | 367 | Rachel Kaminski |
-| 975 | 366 | Josh Webster |
-| 976 | 366 | Ashley Criner |
+| 973 | 367 | Rachel Kaminski |
+| 974 | 367 | Brianna Cerney |
+| 975 | 366 | Ashley Criner |
+| 976 | 366 | Josh Webster |
 | 977 | 366 | KrisCynthia Lynette |
 | 978 | 365 | Dee Blokk |
 | 979 | 365 | Wes Acton |

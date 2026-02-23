@@ -168,8 +168,8 @@
 | 160 | 591 | Michael Nowogorski |
 | 161 | 588 | Justin Ritter |
 | 162 | 587 | Louise Stacy Sisson |
-| 163 | 585 | Happy Tetriblast |
-| 164 | 585 | Annie Marie |
+| 163 | 585 | Annie Marie |
+| 164 | 585 | Happy Tetriblast |
 | 165 | 582 | Natasha Jones |
 | 166 | 579 | Tasha Gillespie |
 | 167 | 577 | Domo Washington |
@@ -233,8 +233,8 @@
 | 225 | 430 | Jeni Dow |
 | 226 | 418 | ren |
 | 227 | 414 | Fran Lin |
-| 228 | 410 | Duane Bright |
-| 229 | 410 | Stephanie Simpson |
+| 228 | 410 | Stephanie Simpson |
+| 229 | 410 | Duane Bright |
 | 230 | 408 | Tiffany Ford |
 | 231 | 408 | Whitney Manuel |
 | 232 | 406 | Kristal C Lee |
@@ -485,8 +485,8 @@
 | 477 | 217 | Heather Bateman |
 | 478 | 216 | Jl |
 | 479 | 214 | Amy Fuller Heaton |
-| 480 | 213 | Linda Draper |
-| 481 | 213 | Angel Miller |
+| 480 | 213 | Angel Miller |
+| 481 | 213 | Linda Draper |
 | 482 | 213 | Ktfreeee |
 | 483 | 212 | Beth Ingham |
 | 484 | 212 | Frilly Stackzone |
