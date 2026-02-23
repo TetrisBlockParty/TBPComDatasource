@@ -44,8 +44,8 @@
 | 36 | 4199 | Claire Noland |
 | 37 | 4128 | Angela Pruitt |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Corrine Hawks Soriano |
-| 40 | 4120 | Kristen Sceurman |
+| 39 | 4120 | Kristen Sceurman |
+| 40 | 4120 | Corrine Hawks Soriano |
 | 41 | 3778 | Brittany Alicia |
 | 42 | 3771 | Devin Lee |
 | 43 | 3736 | Alisha |
@@ -62,8 +62,8 @@
 | 54 | 3359 | jayjay |
 | 55 | 3321 | Kelly Crook |
 | 56 | 3289 | Jennifer Peachey |
-| 57 | 3288 | YiFei |
-| 58 | 3288 | Maegan Beaule |
+| 57 | 3288 | Maegan Beaule |
+| 58 | 3288 | YiFei |
 | 59 | 3265 | Melinda Brown |
 | 60 | 3241 | Dineisha Carpenter |
 | 61 | 3203 | Sam McKenzie |
@@ -207,8 +207,8 @@
 | 199 | 1300 | Tacara Cummings |
 | 200 | 1293 | Anna Edwards |
 | 201 | 1286 | Altamirano Michael |
-| 202 | 1282 | Ashley Rose Frederick |
-| 203 | 1282 | Tanya Parsons |
+| 202 | 1282 | Tanya Parsons |
+| 203 | 1282 | Ashley Rose Frederick |
 | 204 | 1259 | Foxxo |
 | 205 | 1258 | Joyce Johnson Vaughn |
 | 206 | 1258 | Lemonaide |
@@ -222,8 +222,8 @@
 | 214 | 1217 | Brooks Brooks |
 | 215 | 1214 | David Cudicio-Hayden |
 | 216 | 1210 | Jane Fong |
-| 217 | 1205 | Tralonda Weeks |
-| 218 | 1205 | Tony Lea |
+| 217 | 1205 | Tony Lea |
+| 218 | 1205 | Tralonda Weeks |
 | 219 | 1198 | Carrie Trigg |
 | 220 | 1197 | Ricardo Burton |
 | 221 | 1192 | Denisha Dawkins |

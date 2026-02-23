@@ -273,8 +273,8 @@
 | 265 | 357 | Stephanie Burtin |
 | 266 | 354 | Kelly |
 | 267 | 353 | Dee Franklin |
-| 268 | 352 | Samantha Lynn |
-| 269 | 352 | Christian Werndl |
+| 268 | 352 | Christian Werndl |
+| 269 | 352 | Samantha Lynn |
 | 270 | 351 | Eon Harris |
 | 271 | 350 | LaShey Thompson |
 | 272 | 349 | Amanda J. Mcneil-Anderson |
@@ -321,8 +321,8 @@
 | 313 | 301 | Kaitie Oliver |
 | 314 | 300 | Foltz Lee Kelli |
 | 315 | 300 | Cheeky Snapper |
-| 316 | 299 | Angie Harper |
-| 317 | 299 | Geoffrey Nash |
+| 316 | 299 | Geoffrey Nash |
+| 317 | 299 | Angie Harper |
 | 318 | 298 | Grams |
 | 319 | 298 | Dannie Litchard |
 | 320 | 297 | kacihall |

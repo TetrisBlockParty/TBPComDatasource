@@ -96,8 +96,8 @@
 | 88 | 570 | Cody Slav |
 | 89 | 562 | Denice Dee |
 | 90 | 537 | Tee Sheree |
-| 91 | 534 | Veronica Eve |
-| 92 | 534 | Loony Fitzone |
+| 91 | 534 | Loony Fitzone |
+| 92 | 534 | Veronica Eve |
 | 93 | 532 | Robert Benito |
 | 94 | 529 | Ryan Lunnin |
 | 95 | 522 | Sarah Lombardo |
@@ -177,9 +177,9 @@
 | 169 | 343 | Elaine Elaine |
 | 170 | 343 | Erin Rosberg |
 | 171 | 343 | Chelsea Dahlquist |
-| 172 | 341 | Nick R Montague |
-| 173 | 341 | Shiny Snapfit |
-| 174 | 341 | Christy Jones |
+| 172 | 341 | Christy Jones |
+| 173 | 341 | Nick R Montague |
+| 174 | 341 | Shiny Snapfit |
 | 175 | 339 | Nicole Roseberry Weber |
 | 176 | 338 | Jennifer Hardman |
 | 177 | 337 | Constance Risner |
@@ -413,8 +413,8 @@
 | 405 | 168 | MommaKFC |
 | 406 | 168 | Mrs.Patrica |
 | 407 | 167 | Tamara Brown |
-| 408 | 166 | Gilbert Ortiz Jr. |
-| 409 | 166 | Howdi Duty |
+| 408 | 166 | Howdi Duty |
+| 409 | 166 | Gilbert Ortiz Jr. |
 | 410 | 165 | Stephanie Leday |
 | 411 | 165 | Jason Benitez |
 | 412 | 165 | Dizzy Riseclear |

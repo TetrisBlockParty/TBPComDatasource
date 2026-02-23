@@ -57,8 +57,8 @@
 | 49 | 863 | Pee |
 | 50 | 855 | Marvin Lou Martin |
 | 51 | 853 | TeeJ |
-| 52 | 846 | Lucille Truesdale |
-| 53 | 846 | Christine Marie |
+| 52 | 846 | Christine Marie |
+| 53 | 846 | Lucille Truesdale |
 | 54 | 845 | LisaJo Picken Buchanan |
 | 55 | 843 | Shelly Chandler |
 | 56 | 841 | Anthony Bryan Riva |
@@ -71,16 +71,16 @@
 | 63 | 776 | Rachel Anne |
 | 64 | 775 | Ashley Ingram |
 | 65 | 767 | Shannon Ferrari |
-| 66 | 766 | Edward White |
-| 67 | 766 | Robin Watters |
-| 68 | 765 | Robin Getchel |
-| 69 | 765 | Denise Carlson |
+| 66 | 766 | Robin Watters |
+| 67 | 766 | Edward White |
+| 68 | 765 | Denise Carlson |
+| 69 | 765 | Robin Getchel |
 | 70 | 752 | loulou |
 | 71 | 749 | Dustee Craddock-Harrison |
 | 72 | 742 | Carolyn Wallace |
 | 73 | 740 | Avy Absol |
-| 74 | 736 | Goatimus Lombardi |
-| 75 | 736 | Crystal Carroll |
+| 74 | 736 | Crystal Carroll |
+| 75 | 736 | Goatimus Lombardi |
 | 76 | 721 | TheNeesh50 |
 | 77 | 717 | D3TROITB0RN74 |
 | 78 | 706 | Lisa Davis |
@@ -136,12 +136,12 @@
 | 128 | 458 | Twisty Clicky |
 | 129 | 451 | Peachy Fall |
 | 130 | 448 | Kristin Manee |
-| 131 | 435 | Kristina Black |
-| 132 | 435 | Leslie Thomas |
+| 131 | 435 | Leslie Thomas |
+| 132 | 435 | Kristina Black |
 | 133 | 431 | Courtney Cicoria |
 | 134 | 425 | Monica Daley |
-| 135 | 421 | Kesha Brady |
-| 136 | 421 | JIGsaw ~(•¿°)~ |
+| 135 | 421 | JIGsaw ~(•¿°)~ |
+| 136 | 421 | Kesha Brady |
 | 137 | 419 | Klo |
 | 138 | 418 | Lush Linkfall |
 | 139 | 418 | Marie-Pier Desjardins |
@@ -212,8 +212,8 @@
 | 204 | 300 | Dana Scott |
 | 205 | 300 | Dihcheese444 |
 | 206 | 295 | Keshia Lyons |
-| 207 | 294 | Porkobello |
-| 208 | 294 | Calvin Cannon |
+| 207 | 294 | Calvin Cannon |
+| 208 | 294 | Porkobello |
 | 209 | 292 | Epic Curvetile |
 | 210 | 290 | Plucky Patternblock |
 | 211 | 290 | Jared Gutwein |
@@ -228,10 +228,10 @@
 | 220 | 282 | Matt Gooder |
 | 221 | 281 | Nikki Rae Gordon |
 | 222 | 281 | Laura |
-| 223 | 278 | Sarah Brown |
-| 224 | 278 | Angela Geist Jusinski |
-| 225 | 276 | Joeliecea Cobb |
-| 226 | 276 | Matt Dell'Olio |
+| 223 | 278 | Angela Geist Jusinski |
+| 224 | 278 | Sarah Brown |
+| 225 | 276 | Matt Dell'Olio |
+| 226 | 276 | Joeliecea Cobb |
 | 227 | 273 | Casey Grabner |
 | 228 | 272 | Alan George LaRage |
 | 229 | 272 | Carlos Ramirez |
@@ -244,8 +244,8 @@
 | 236 | 265 | Sarah Neathery |
 | 237 | 265 | Silly SeaWeed |
 | 238 | 264 | Stella |
-| 239 | 262 | Selena Shaw |
-| 240 | 262 | BigSammy420 |
+| 239 | 262 | BigSammy420 |
+| 240 | 262 | Selena Shaw |
 | 241 | 260 | Carter Jones |
 | 242 | 260 | Rio Rocha |
 | 243 | 259 | Montiette Mcglown |
@@ -262,16 +262,16 @@
 | 254 | 249 | Ak Jones |
 | 255 | 249 | Nick Gray |
 | 256 | 248 | Brittany Marsh |
-| 257 | 248 | Chirpy Basepiece |
-| 258 | 248 | Jose Dejesus |
+| 257 | 248 | Jose Dejesus |
+| 258 | 248 | Chirpy Basepiece |
 | 259 | 245 | 23 |
 | 260 | 245 | rebel4lyfe |
-| 261 | 244 | Christina Black |
-| 262 | 244 | Elizabeth Tinoco |
+| 261 | 244 | Elizabeth Tinoco |
+| 262 | 244 | Christina Black |
 | 263 | 242 | Chaz |
-| 264 | 240 | Perky Patternblock |
+| 264 | 240 | Lori |
 | 265 | 240 | Kim Hunt |
-| 266 | 240 | Lori |
+| 266 | 240 | Perky Patternblock |
 | 267 | 239 | Joanna |
 | 268 | 238 | 中山成巳 |
 | 269 | 237 | Christine Therrien |
