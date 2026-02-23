@@ -144,8 +144,8 @@
 | 136 | 1932 | Gary Schaffner Jr. |
 | 137 | 1918 | Rebecca Doughman |
 | 138 | 1902 | Goofy Snapfit |
-| 139 | 1899 | Robin Kerby |
-| 140 | 1899 | Jamie Main |
+| 139 | 1899 | Jamie Main |
+| 140 | 1899 | Robin Kerby |
 | 141 | 1899 | Jumpy Gridpiece |
 | 142 | 1887 | Tonya Brooks-Johnson |
 | 143 | 1873 | Michele Gabriel |
@@ -523,8 +523,8 @@
 | 515 | 711 | Rebecca Miller |
 | 516 | 709 | Marie Walker |
 | 517 | 707 | Cc |
-| 518 | 706 | Irene Jones |
-| 519 | 706 | Poldo Ilano |
+| 518 | 706 | Poldo Ilano |
+| 519 | 706 | Irene Jones |
 | 520 | 704 | Montez Mancil |
 | 521 | 704 | Tansaria Couch-Butler |
 | 522 | 703 | Casper The Chonk |

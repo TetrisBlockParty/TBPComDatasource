@@ -172,13 +172,13 @@
 | 164 | 660 | Cranky Gridder |
 | 165 | 649 | Shavette |
 | 166 | 647 | Jennifer Lynn Fahrenholtz-Summers |
-| 167 | 634 | Amber Hughes |
-| 168 | 634 | Denita Mungro |
+| 167 | 634 | Denita Mungro |
+| 168 | 634 | Amber Hughes |
 | 169 | 633 | Joye Sims Binion |
 | 170 | 632 | Morgan Martinez |
 | 171 | 629 | rnr junky |
-| 172 | 621 | Cherry Parker |
-| 173 | 621 | Sashay Tapae Simpson |
+| 172 | 621 | Sashay Tapae Simpson |
+| 173 | 621 | Cherry Parker |
 | 174 | 616 | Kammy Hill |
 | 175 | 611 | Rochelle Hazelett |
 | 176 | 603 | Jone |
@@ -236,8 +236,8 @@
 | 228 | 504 | Daring Brickzone |
 | 229 | 503 | Tye Stovall |
 | 230 | 502 | Snappy Balancer |
-| 231 | 498 | Melissa Orth Hunter |
-| 232 | 498 | BugMansMom |
+| 231 | 498 | BugMansMom |
+| 232 | 498 | Melissa Orth Hunter |
 | 233 | 495 | Annie Déè |
 | 234 | 491 | Michael Johnson |
 | 235 | 487 | Dapper Snap |

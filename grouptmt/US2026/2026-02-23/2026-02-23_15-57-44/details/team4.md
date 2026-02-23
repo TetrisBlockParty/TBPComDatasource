@@ -178,8 +178,8 @@
 | 170 | 431 | Courtney Cicoria |
 | 171 | 427 | Steph Marie |
 | 172 | 426 | 🥔🥔 Spudz |
-| 173 | 423 | Crystal Nicolette Moore |
-| 174 | 423 | Carrie Brian |
+| 173 | 423 | Carrie Brian |
+| 174 | 423 | Crystal Nicolette Moore |
 | 175 | 422 | Zakia Monae |
 | 176 | 421 | JIGsaw ~(•¿°)~ |
 | 177 | 421 | Kesha Brady |
@@ -762,8 +762,8 @@
 | 754 | 103 | Jake Roberts |
 | 755 | 103 | Morgan Patrick |
 | 756 | 102 | Saucy Stackbuilder |
-| 757 | 102 | Dapper Caster |
-| 758 | 102 | JD |
+| 757 | 102 | JD |
+| 758 | 102 | Dapper Caster |
 | 759 | 102 | Candice Carasiti |
 | 760 | 102 | Goofy Fitblock |
 | 761 | 102 | Blaze Butler |
