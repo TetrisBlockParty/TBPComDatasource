@@ -167,8 +167,8 @@
 | 159 | 367 | 🥔🥔 Spudz |
 | 160 | 365 | Leslie Nicole |
 | 161 | 361 | Danielle Kollias |
-| 162 | 358 | ThaEviLJeNiuZ |
-| 163 | 358 | A5! |
+| 162 | 358 | A5! |
+| 163 | 358 | ThaEviLJeNiuZ |
 | 164 | 356 | George Nutt |
 | 165 | 352 | Sue Joyce Staats |
 | 166 | 349 | Rafael Valentin |
@@ -237,8 +237,8 @@
 | 229 | 256 | Mylo Lipscomb |
 | 230 | 253 | JPW |
 | 231 | 252 | Selena Shaw |
-| 232 | 251 | Adam Stephanie Parker |
-| 233 | 251 | Carol Ricks Raymond |
+| 232 | 251 | Carol Ricks Raymond |
+| 233 | 251 | Adam Stephanie Parker |
 | 234 | 249 | Ak Jones |
 | 235 | 248 | Chirpy Basepiece |
 | 236 | 248 | Jose Dejesus |
@@ -248,8 +248,8 @@
 | 240 | 245 | Autum Leigh |
 | 241 | 243 | Nick Gray |
 | 242 | 241 | Allen Lloyd |
-| 243 | 240 | Perky Patternblock |
-| 244 | 240 | Kim Hunt |
+| 243 | 240 | Kim Hunt |
+| 244 | 240 | Perky Patternblock |
 | 245 | 238 | Chaz |
 | 246 | 237 | 030Synner |
 | 247 | 237 | Stella |

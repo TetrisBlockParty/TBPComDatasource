@@ -84,8 +84,8 @@
 | 76 | 583 | Kellie |
 | 77 | 582 | Plucky Fallzone |
 | 78 | 570 | Cody Slav |
-| 79 | 569 | Greg Hart |
-| 80 | 569 | Theo Pinnow |
+| 79 | 569 | Theo Pinnow |
+| 80 | 569 | Greg Hart |
 | 81 | 566 | Cynthia Bradley |
 | 82 | 552 | Aaron Garnett |
 | 83 | 535 | Denice Dee |
@@ -140,8 +140,8 @@
 | 132 | 387 | Emily Adelaide Wheatley |
 | 133 | 386 | Ty Brown |
 | 134 | 383 | pjbeta |
-| 135 | 379 | Austin James |
-| 136 | 379 | Kimmie Kimms |
+| 135 | 379 | Kimmie Kimms |
+| 136 | 379 | Austin James |
 | 137 | 376 | Brian Richardsson |
 | 138 | 371 | Jason Savage |
 | 139 | 368 | Death |
@@ -162,8 +162,8 @@
 | 154 | 341 | Shiny Snapfit |
 | 155 | 341 | Nick R Montague |
 | 156 | 338 | Jennifer Hardman |
-| 157 | 337 | Nicole Roseberry Weber |
-| 158 | 337 | Constance Risner |
+| 157 | 337 | Constance Risner |
+| 158 | 337 | Nicole Roseberry Weber |
 | 159 | 336 | Fmp |
 | 160 | 334 | Jaimie Lynn |
 | 161 | 333 | Gracie |
@@ -175,8 +175,8 @@
 | 167 | 324 | Rat666 |
 | 168 | 324 | Ananda Mendez |
 | 169 | 320 | Madison Wicks |
-| 170 | 318 | Jessica Sheehan |
-| 171 | 318 | Virginia Gray Floyd |
+| 170 | 318 | Virginia Gray Floyd |
+| 171 | 318 | Jessica Sheehan |
 | 172 | 317 | Sarah Roberts |
 | 173 | 315 | Danielle Little-Daugherty |
 | 174 | 315 | Tyler Werts |

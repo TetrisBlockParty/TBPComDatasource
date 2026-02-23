@@ -61,8 +61,8 @@
 | 53 | 1276 | Aaron Pitkin |
 | 54 | 1269 | Amber Jones |
 | 55 | 1258 | Jennifer Petrie |
-| 56 | 1256 | Mahman |
-| 57 | 1256 | Jessica Bechler |
+| 56 | 1256 | Jessica Bechler |
+| 57 | 1256 | Mahman |
 | 58 | 1191 | Nate Burnside |
 | 59 | 1167 | Elaine Webb Graves |
 | 60 | 1141 | Queen Kam |
@@ -117,8 +117,8 @@
 | 109 | 799 | Dolores Falco |
 | 110 | 762 | Speedy Bridger |
 | 111 | 748 | Adrian Marcel Pate |
-| 112 | 744 | Leah Barnett |
-| 113 | 744 | Fancy Cascader |
+| 112 | 744 | Fancy Cascader |
+| 113 | 744 | Leah Barnett |
 | 114 | 742 | Groovy Catcher |
 | 115 | 733 | mzcatzy |
 | 116 | 726 | Kristie |
@@ -152,13 +152,13 @@
 | 144 | 590 | Santeria Trece Candles |
 | 145 | 589 | Logan Naccarato |
 | 146 | 588 | Justin Ritter |
-| 147 | 585 | Happy Tetriblast |
-| 148 | 585 | Annie Marie |
+| 147 | 585 | Annie Marie |
+| 148 | 585 | Happy Tetriblast |
 | 149 | 582 | Natasha Jones |
 | 150 | 579 | Tasha Gillespie |
 | 151 | 574 | Morgan Martinez |
-| 152 | 572 | CeceGeGe |
-| 153 | 572 | Domo Washington |
+| 152 | 572 | Domo Washington |
+| 153 | 572 | CeceGeGe |
 | 154 | 571 | Nicole Myers |
 | 155 | 568 | Rachael McClain Owens |
 | 156 | 562 | Louise Stacy Sisson |
@@ -355,8 +355,8 @@
 | 347 | 267 | April Matthew Kibble |
 | 348 | 266 | Quirky Dropzone |
 | 349 | 265 | Michael Kimbro |
-| 350 | 263 | Erika Thornton |
-| 351 | 263 | Jimmie Clemons |
+| 350 | 263 | Jimmie Clemons |
+| 351 | 263 | Erika Thornton |
 | 352 | 262 | Kristin Delibac Corrigan |
 | 353 | 258 | IamJust Neyamijah Washington Sr. |
 | 354 | 257 | Naur |
