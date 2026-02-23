@@ -62,8 +62,8 @@
 | 54 | 1100 | Carrie Beck Geartz |
 | 55 | 1074 | Cheeky Twistslam |
 | 56 | 1065 | Spunky Piecebuilder |
-| 57 | 1041 | Michelle Nicole |
-| 58 | 1041 | Adam Byrd |
+| 57 | 1041 | Adam Byrd |
+| 58 | 1041 | Michelle Nicole |
 | 59 | 1032 | Kathi Snustad |
 | 60 | 1027 | Robert Beck |
 | 61 | 1025 | Jason Jones |
@@ -103,8 +103,8 @@
 | 95 | 742 | Susanna Guerry |
 | 96 | 740 | Lori Sanders- Davis |
 | 97 | 722 | Kellie |
-| 98 | 706 | Plucky Fallzone |
-| 99 | 706 | Denice Dee |
+| 98 | 706 | Denice Dee |
+| 99 | 706 | Plucky Fallzone |
 | 100 | 704 | Karin Gillen |
 | 101 | 703 | Angel Fowler |
 | 102 | 691 | Rachael |
@@ -150,8 +150,8 @@
 | 142 | 524 | Tipsy Riseclear |
 | 143 | 523 | BadG52 |
 | 144 | 521 | Nery Martinez |
-| 145 | 519 | Anaid Sanchez |
-| 146 | 519 | April Carroll |
+| 145 | 519 | April Carroll |
+| 146 | 519 | Anaid Sanchez |
 | 147 | 516 | Plucky Ziggy |
 | 148 | 515 | Constance Risner |
 | 149 | 513 | Colena Davenport |
@@ -190,11 +190,11 @@
 | 182 | 432 | Lori Bales |
 | 183 | 430 | David Miller |
 | 184 | 426 | Maria C. Hernandez |
-| 185 | 425 | Tyler Werts |
-| 186 | 425 | Tana |
+| 185 | 425 | Tana |
+| 186 | 425 | Tyler Werts |
 | 187 | 424 | Emily Adelaide Wheatley |
-| 188 | 423 | Elaine Elaine |
-| 189 | 423 | Kimberly Garcia |
+| 188 | 423 | Kimberly Garcia |
+| 189 | 423 | Elaine Elaine |
 | 190 | 422 | Chelsea Dahlquist |
 | 191 | 419 | Daring Fitclear |
 | 192 | 418 | Mike Ames |
@@ -279,8 +279,8 @@
 | 271 | 340 | Robert |
 | 272 | 340 | Danielle Little-Daugherty |
 | 273 | 338 | Layzietyme |
-| 274 | 337 | Larissa Marie Nelson |
-| 275 | 337 | Happy Basegrid |
+| 274 | 337 | Happy Basegrid |
+| 275 | 337 | Larissa Marie Nelson |
 | 276 | 336 | Adele Rahman |
 | 277 | 336 | Sarah Roberts |
 | 278 | 335 | Flashy Rotator |
@@ -289,8 +289,8 @@
 | 281 | 333 | Rodney Schmerfeld |
 | 282 | 333 | Wayne Saunders |
 | 283 | 332 | Eddie Dillon |
-| 284 | 330 | Rebecca Apley Mielke |
-| 285 | 330 | Jeremy Maubert |
+| 284 | 330 | Jeremy Maubert |
+| 285 | 330 | Rebecca Apley Mielke |
 | 286 | 329 | Marianita Garcia |
 | 287 | 328 | Buttons Stemm |
 | 288 | 325 | Snappy Brickbuilder |
@@ -299,13 +299,13 @@
 | 291 | 324 | Mandyy Rae |
 | 292 | 324 | Sylvia Vasquez |
 | 293 | 323 | Irv |
-| 294 | 322 | Billie Ann Eason |
-| 295 | 322 | Christina Norman |
+| 294 | 322 | Christina Norman |
+| 295 | 322 | Billie Ann Eason |
 | 296 | 317 | Sam Williams |
-| 297 | 317 | Zany Tiler |
-| 298 | 317 | Bloknboy |
-| 299 | 316 | Cheeky Pop |
-| 300 | 316 | Giggly Builderline |
+| 297 | 317 | Bloknboy |
+| 298 | 317 | Zany Tiler |
+| 299 | 316 | Giggly Builderline |
+| 300 | 316 | Cheeky Pop |
 | 301 | 313 | Cody Gates |
 | 302 | 312 | Melissa Bires Hussar |
 | 303 | 312 | Danielle S Kester |
@@ -315,8 +315,8 @@
 | 307 | 309 | Larry Tilton |
 | 308 | 308 | Glitzy Curvebuilder |
 | 309 | 306 | Cece Ibarra |
-| 310 | 305 | Amh |
-| 311 | 305 | Chase Collinsworth |
+| 310 | 305 | Chase Collinsworth |
+| 311 | 305 | Amh |
 | 312 | 303 | DaRascal |
 | 313 | 302 | LaFontaine Leslie |
 | 314 | 302 | Brooke Elizabeth Antill |
@@ -602,8 +602,8 @@
 | 594 | 174 | Dawn Rannelli |
 | 595 | 174 | Melanie Kelley |
 | 596 | 174 | Neely Janelle Stewart |
-| 597 | 173 | Cj X Mal |
-| 598 | 173 | Christy LaSure |
+| 597 | 173 | Christy LaSure |
+| 598 | 173 | Cj X Mal |
 | 599 | 172 | Collette Frank |
 | 600 | 172 | Vivian Bush |
 | 601 | 172 | Brad MG |

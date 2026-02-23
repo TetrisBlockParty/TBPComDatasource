@@ -207,8 +207,8 @@
 | 199 | 444 | J-Rizzle |
 | 200 | 444 | Mylo Lipscomb |
 | 201 | 443 | Kristina Black |
-| 202 | 442 | SAP |
-| 203 | 442 | 🥔🥔 Spudz |
+| 202 | 442 | 🥔🥔 Spudz |
+| 203 | 442 | SAP |
 | 204 | 441 | George Nutt |
 | 205 | 440 | Mr. Party |
 | 206 | 438 | Melvin Baird |
@@ -265,8 +265,8 @@
 | 257 | 365 | Hyper Builder |
 | 258 | 363 | KimoKoala |
 | 259 | 361 | Danielle Kollias |
-| 260 | 360 | Ari Droff |
-| 261 | 360 | James Hurley Jr. |
+| 260 | 360 | James Hurley Jr. |
+| 261 | 360 | Ari Droff |
 | 262 | 358 | Twisty Cascadezone |
 | 263 | 356 | Joeliecea Cobb |
 | 264 | 356 | mike |
