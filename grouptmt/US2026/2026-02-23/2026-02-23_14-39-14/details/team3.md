@@ -193,8 +193,8 @@
 | 185 | 582 | Natasha Jones |
 | 186 | 568 | Rachael McClain Owens |
 | 187 | 566 | LaTanya GeminiondaRise Johnson |
-| 188 | 564 | Christine Trester |
-| 189 | 564 | Poppy Splitter |
+| 188 | 564 | Poppy Splitter |
+| 189 | 564 | Christine Trester |
 | 190 | 563 | Jim Mathews |
 | 191 | 562 | Dave Herzog |
 | 192 | 561 | Elissa S-k |
@@ -203,8 +203,8 @@
 | 195 | 549 | Tasha Schriewer |
 | 196 | 548 | Danielle Balcom |
 | 197 | 547 | Staci George Fitzsimmons |
-| 198 | 546 | Cynthia Castros-Hampton |
-| 199 | 546 | Mykal Burton |
+| 198 | 546 | Mykal Burton |
+| 199 | 546 | Cynthia Castros-Hampton |
 | 200 | 543 | Silly Twist |
 | 201 | 540 | Shawn Miller |
 | 202 | 537 | Connie Mohler-Fair |
@@ -298,8 +298,8 @@
 | 290 | 382 | Desiree Gold |
 | 291 | 382 | Salena Whitlock |
 | 292 | 380 | Rebecca Bailey |
-| 293 | 379 | JessDrown |
-| 294 | 379 | Philip Rock |
+| 293 | 379 | Philip Rock |
+| 294 | 379 | JessDrown |
 | 295 | 378 | Chris Bell |
 | 296 | 378 | MsBee |
 | 297 | 376 | Sarah Moyer |
@@ -342,8 +342,8 @@
 | 334 | 342 | ROODBOY |
 | 335 | 341 | Rick Poppen |
 | 336 | 341 | Lys |
-| 337 | 340 | Erika Thornton |
-| 338 | 340 | Nikki Pags |
+| 337 | 340 | Nikki Pags |
+| 338 | 340 | Erika Thornton |
 | 339 | 338 | fraulila |
 | 340 | 335 | victory |
 | 341 | 333 | Nikki White |

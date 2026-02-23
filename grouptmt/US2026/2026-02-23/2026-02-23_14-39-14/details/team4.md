@@ -200,14 +200,14 @@
 | 192 | 376 | Zesty Twistbuilder |
 | 193 | 372 | George Nutt |
 | 194 | 372 | Antony Dwayne Beasley |
-| 195 | 368 | Holly Jolly |
-| 196 | 368 | Silly Zonebuilder |
+| 195 | 368 | Silly Zonebuilder |
+| 196 | 368 | Holly Jolly |
 | 197 | 365 | Jeff Brian Gates |
 | 198 | 363 | Cindy Looper |
-| 199 | 361 | Rafael Valentin |
-| 200 | 361 | Danielle Kollias |
-| 201 | 358 | A5! |
-| 202 | 358 | Twisty Cascadezone |
+| 199 | 361 | Danielle Kollias |
+| 200 | 361 | Rafael Valentin |
+| 201 | 358 | Twisty Cascadezone |
+| 202 | 358 | A5! |
 | 203 | 355 | James Hurley Jr. |
 | 204 | 354 | TRCuse |
 | 205 | 354 | Kris Bartlett |
