@@ -78,8 +78,8 @@
 | 70 | 1264 | Amanda L Baker |
 | 71 | 1258 | Danielle Cutler |
 | 72 | 1256 | Jessica Bechler |
-| 73 | 1213 | Nerdy Riseclear |
-| 74 | 1213 | Snappy Glidepiece |
+| 73 | 1213 | Snappy Glidepiece |
+| 74 | 1213 | Nerdy Riseclear |
 | 75 | 1209 | Amanda Adkins |
 | 76 | 1201 | Betty Ivy |
 | 77 | 1186 | Christian A. Pollard |
@@ -132,8 +132,8 @@
 | 124 | 775 | Kristie |
 | 125 | 774 | Keith J Oshman Jr. |
 | 126 | 773 | Daira Largen |
-| 127 | 764 | Groovy Catcher |
-| 128 | 764 | Hasty Cascadefit |
+| 127 | 764 | Hasty Cascadefit |
+| 128 | 764 | Groovy Catcher |
 | 129 | 762 | Speedy Bridger |
 | 130 | 755 | Katrina Schroeder |
 | 131 | 755 | Raya |
@@ -250,8 +250,8 @@
 | 242 | 431 | Wendy Dearden |
 | 243 | 430 | Jeni Dow |
 | 244 | 429 | Carrie Huskey |
-| 245 | 428 | Sleepy |
-| 246 | 428 | Randy Clevenger |
+| 245 | 428 | Randy Clevenger |
+| 246 | 428 | Sleepy |
 | 247 | 424 | Brenda Schmid Wood |
 | 248 | 421 | Chummy Caster |
 | 249 | 419 | Marci Mize Fandrich |
@@ -269,9 +269,9 @@
 | 261 | 406 | Kristal C Lee |
 | 262 | 405 | Steffi Chris Dacones |
 | 263 | 404 | Chasity |
-| 264 | 403 | lashanda |
-| 265 | 403 | Scott Lindsay |
-| 266 | 403 | Denita Mungro |
+| 264 | 403 | Scott Lindsay |
+| 265 | 403 | Denita Mungro |
+| 266 | 403 | lashanda |
 | 267 | 401 | Ashley Tookes |
 | 268 | 400 | Quackers |
 | 269 | 395 | rosy |

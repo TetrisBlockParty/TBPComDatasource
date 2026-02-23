@@ -79,8 +79,8 @@
 | 71 | 760 | Seante Bullock |
 | 72 | 759 | Jacqueline Williams |
 | 73 | 750 | Cartier |
-| 74 | 713 | Snappy Swiper |
-| 75 | 713 | Robert Benito |
+| 74 | 713 | Robert Benito |
+| 75 | 713 | Snappy Swiper |
 | 76 | 704 | Karin Gillen |
 | 77 | 703 | Angel Fowler |
 | 78 | 689 | Susanna Guerry |
@@ -179,8 +179,8 @@
 | 171 | 380 | phrmblk24 |
 | 172 | 379 | Austin James |
 | 173 | 376 | Brian Richardsson |
-| 174 | 375 | Tanya Carpenter-Reynolds |
-| 175 | 375 | Connie |
+| 174 | 375 | Connie |
+| 175 | 375 | Tanya Carpenter-Reynolds |
 | 176 | 374 | Howdi Duty |
 | 177 | 371 | Jason Savage |
 | 178 | 369 | Christy Jones |
@@ -203,8 +203,8 @@
 | 195 | 359 | Oscar Zamora |
 | 196 | 357 | Shiny Snapfit |
 | 197 | 354 | Dino |
-| 198 | 353 | Jaimie Lynn |
-| 199 | 353 | Josh Riemer |
+| 198 | 353 | Josh Riemer |
+| 199 | 353 | Jaimie Lynn |
 | 200 | 351 | Sean Stallings |
 | 201 | 350 | Tipsy Strikerpiece |
 | 202 | 349 | Cool Shiftsnap |
