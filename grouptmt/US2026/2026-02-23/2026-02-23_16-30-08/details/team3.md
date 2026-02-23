@@ -426,8 +426,8 @@
 | 418 | 296 | Tracy Martin |
 | 419 | 295 | Dakota Graham |
 | 420 | 293 | Loopy Fallzone |
-| 421 | 292 | Kirhonda Autmon |
-| 422 | 292 | Khaleada McGill Banks |
+| 421 | 292 | Khaleada McGill Banks |
+| 422 | 292 | Kirhonda Autmon |
 | 423 | 292 | Arden White Kirsch |
 | 424 | 291 | Swanky Snapclear |
 | 425 | 291 | Niki Dalrymple |

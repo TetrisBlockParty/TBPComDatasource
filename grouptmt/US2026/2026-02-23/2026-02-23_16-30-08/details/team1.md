@@ -160,8 +160,8 @@
 | 152 | 448 | Sweet Baker |
 | 153 | 446 | SkipTheSadSauce |
 | 154 | 443 | femmefatale |
-| 155 | 440 | Timothy Danaher |
-| 156 | 440 | Kimmie Kimms |
+| 155 | 440 | Kimmie Kimms |
+| 156 | 440 | Timothy Danaher |
 | 157 | 437 | BadG52 |
 | 158 | 435 | Dandy Basegrid |
 | 159 | 434 | Yvonne Marie |
