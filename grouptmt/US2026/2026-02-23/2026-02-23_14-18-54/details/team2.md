@@ -134,21 +134,21 @@
 | 126 | 2062 | Aimee Byrom |
 | 127 | 2014 | Laura Marie Pelletier |
 | 128 | 1989 | Cozy Filler |
-| 129 | 1987 | Shameika Trail |
-| 130 | 1971 | Rob Riggin |
-| 131 | 1969 | Stephanie Chapman |
-| 132 | 1960 | Aimee Campbell |
-| 133 | 1943 | Suki Kaur |
-| 134 | 1932 | Gary Schaffner Jr. |
-| 135 | 1931 | Angi Harrison |
-| 136 | 1918 | Rebecca Doughman |
-| 137 | 1899 | Jamie Main |
-| 138 | 1899 | Jumpy Gridpiece |
-| 139 | 1895 | Goofy Snapfit |
-| 140 | 1887 | Tonya Brooks-Johnson |
-| 141 | 1871 | Robin Kerby |
-| 142 | 1829 | Mr. Street Stack |
-| 143 | 1818 | Shandrica Lowe |
+| 129 | 1971 | Rob Riggin |
+| 130 | 1969 | Stephanie Chapman |
+| 131 | 1960 | Aimee Campbell |
+| 132 | 1943 | Suki Kaur |
+| 133 | 1932 | Gary Schaffner Jr. |
+| 134 | 1931 | Angi Harrison |
+| 135 | 1918 | Rebecca Doughman |
+| 136 | 1899 | Jamie Main |
+| 137 | 1899 | Jumpy Gridpiece |
+| 138 | 1895 | Goofy Snapfit |
+| 139 | 1887 | Tonya Brooks-Johnson |
+| 140 | 1871 | Robin Kerby |
+| 141 | 1829 | Mr. Street Stack |
+| 142 | 1818 | Shandrica Lowe |
+| 143 | 1815 | Shameika Trail |
 | 144 | 1790 | Kara Gillen |
 | 145 | 1778 | Kristopher Miller |
 | 146 | 1769 | Chirpy Staggerpiece |
@@ -345,8 +345,8 @@
 | 337 | 958 | Kathryn Townsley |
 | 338 | 958 | Brenda Messer |
 | 339 | 958 | Doowop40 |
-| 340 | 957 | Block Master |
-| 341 | 957 | Matthew Joseph Acevedo |
+| 340 | 957 | Matthew Joseph Acevedo |
+| 341 | 957 | Block Master |
 | 342 | 955 | Angela Bonquiqui Dinish |
 | 343 | 954 | Melissa McCall |
 | 344 | 952 | Arkei Luster |
@@ -484,7 +484,7 @@
 | 476 | 750 | Draizen Montrell Thomas |
 | 477 | 750 | Michael Buckner |
 | 478 | 748 | Ann Matzkanin |
-| 479 | 743 | Aireka Roman |
+| 479 | 742 | Cassie Maynard |
 | 480 | 742 | Ganieda |
 | 481 | 740 | Jerry Tempelmeyer |
 | 482 | 737 | Ginger |
