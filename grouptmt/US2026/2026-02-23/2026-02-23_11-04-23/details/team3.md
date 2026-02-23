@@ -76,8 +76,8 @@
 | 68 | 1264 | Amanda L Baker |
 | 69 | 1258 | Danielle Cutler |
 | 70 | 1256 | Jessica Bechler |
-| 71 | 1213 | Snappy Glidepiece |
-| 72 | 1213 | Nerdy Riseclear |
+| 71 | 1213 | Nerdy Riseclear |
+| 72 | 1213 | Snappy Glidepiece |
 | 73 | 1201 | Amanda Adkins |
 | 74 | 1186 | Christian A. Pollard |
 | 75 | 1166 | Tiff Vs Tiffany |
@@ -133,8 +133,8 @@
 | 125 | 764 | Groovy Catcher |
 | 126 | 764 | Hasty Cascadefit |
 | 127 | 762 | Speedy Bridger |
-| 128 | 755 | Raya |
-| 129 | 755 | Katrina Schroeder |
+| 128 | 755 | Katrina Schroeder |
+| 129 | 755 | Raya |
 | 130 | 752 | Logan Naccarato |
 | 131 | 748 | Adrian Marcel Pate |
 | 132 | 745 | JerseyJess |
@@ -204,8 +204,8 @@
 | 196 | 525 | Stephanie Blkpep Davidson |
 | 197 | 524 | Bmo |
 | 198 | 521 | Shannon Matthew Byers |
-| 199 | 519 | Terry Jo Jones |
-| 200 | 519 | rnr junky |
+| 199 | 519 | rnr junky |
+| 200 | 519 | Terry Jo Jones |
 | 201 | 515 | Cozy Snaplink |
 | 202 | 513 | Lizabeth Fox |
 | 203 | 510 | Makelini Mausia |
@@ -280,17 +280,17 @@
 | 272 | 378 | Chris Bell |
 | 273 | 375 | Stephanie Burtin |
 | 274 | 374 | Rania Zaqout |
-| 275 | 372 | Rich LeBlanc |
-| 276 | 372 | Sarah Moyer |
+| 275 | 372 | Sarah Moyer |
+| 276 | 372 | Rich LeBlanc |
 | 277 | 371 | Marquita Sheard |
 | 278 | 371 | block chick |
 | 279 | 370 | Samantha Lynn |
 | 280 | 369 | Philip Rock |
 | 281 | 369 | Jennifer Alvey |
-| 282 | 369 | Keis |
-| 283 | 369 | Amber Glover |
-| 284 | 368 | Sheila M Frazier |
-| 285 | 368 | Stephanie Woods |
+| 282 | 369 | Amber Glover |
+| 283 | 369 | Keis |
+| 284 | 368 | Stephanie Woods |
+| 285 | 368 | Sheila M Frazier |
 | 286 | 366 | Gumbo |
 | 287 | 362 | Brandon Givens |
 | 288 | 361 | Breanna Marsden |
@@ -363,8 +363,8 @@
 | 355 | 298 | Grams |
 | 356 | 298 | Dannie Litchard |
 | 357 | 297 | kacihall |
-| 358 | 296 | Donna |
-| 359 | 296 | Tracy Martin |
+| 358 | 296 | Tracy Martin |
+| 359 | 296 | Donna |
 | 360 | 296 | Amy Montz |
 | 361 | 292 | Khaleada McGill Banks |
 | 362 | 292 | Kirhonda Autmon |
