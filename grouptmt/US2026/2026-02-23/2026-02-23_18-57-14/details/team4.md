@@ -80,8 +80,8 @@
 | 72 | 862 | Carolyn Wallace |
 | 73 | 847 | Peachy Fall |
 | 74 | 846 | Lucille Truesdale |
-| 75 | 846 | Amelpss |
-| 76 | 846 | Christine Marie |
+| 75 | 846 | Christine Marie |
+| 76 | 846 | Amelpss |
 | 77 | 841 | Shauna Havard |
 | 78 | 834 | quicksand420 |
 | 79 | 832 | Lisa Davis |
@@ -151,8 +151,8 @@
 | 143 | 520 | Zippy Block |
 | 144 | 518 | Carly Alexis |
 | 145 | 516 | Trish |
-| 146 | 514 | Lucas J Sutton |
-| 147 | 514 | Scott Jameson |
+| 146 | 514 | Scott Jameson |
+| 147 | 514 | Lucas J Sutton |
 | 148 | 513 | Erin Thomas |
 | 149 | 512 | Angela Srubar-Norman |
 | 150 | 512 | ThaEviLJeNiuZ |
@@ -213,8 +213,8 @@
 | 205 | 408 | April Rondinone |
 | 206 | 404 | Lori |
 | 207 | 400 | Antony Dwayne Beasley |
-| 208 | 399 | Lindsay Ball |
-| 209 | 399 | Jeff Brian Gates |
+| 208 | 399 | Jeff Brian Gates |
+| 209 | 399 | Lindsay Ball |
 | 210 | 398 | Tyler Terrific |
 | 211 | 394 | Nita Wells |
 | 212 | 392 | Michele Plunkett |

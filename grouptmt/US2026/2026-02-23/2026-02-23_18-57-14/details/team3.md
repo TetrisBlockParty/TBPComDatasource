@@ -89,8 +89,8 @@
 | 81 | 1264 | Amanda L Baker |
 | 82 | 1244 | Lori Barnaby |
 | 83 | 1240 | Betty Ivy |
-| 84 | 1213 | Nerdy Riseclear |
-| 85 | 1213 | Snappy Glidepiece |
+| 84 | 1213 | Snappy Glidepiece |
+| 85 | 1213 | Nerdy Riseclear |
 | 86 | 1212 | Amanda Adkins |
 | 87 | 1186 | Christian A. Pollard |
 | 88 | 1158 | Danielle Mogg |
@@ -264,8 +264,8 @@
 | 256 | 480 | Isabel Ocasio |
 | 257 | 476 | Shunta Jacobs |
 | 258 | 471 | Mendoza Lee Christy |
-| 259 | 471 | Rebecca Bailey |
-| 260 | 471 | Gray Hicks |
+| 259 | 471 | Gray Hicks |
+| 260 | 471 | Rebecca Bailey |
 | 261 | 470 | Marci Mize Fandrich |
 | 262 | 470 | Rebecca Funderburk Kirby |
 | 263 | 464 | Danielle Weikel |
@@ -354,19 +354,19 @@
 | 346 | 365 | Breanna Marsden |
 | 347 | 364 | ROODBOY |
 | 348 | 362 | Foltz Lee Kelli |
-| 349 | 362 | Chummy Rumbler |
-| 350 | 362 | Brandon Givens |
+| 349 | 362 | Brandon Givens |
+| 350 | 362 | Chummy Rumbler |
 | 351 | 361 | neci |
-| 352 | 359 | Steven Fulater |
-| 353 | 359 | Kristen Weese |
+| 352 | 359 | Kristen Weese |
+| 353 | 359 | Steven Fulater |
 | 354 | 358 | Heather Davis |
 | 355 | 356 | Tony Waters |
 | 356 | 356 | Ashley Lynn Marchese |
 | 357 | 355 | Dana Fox |
 | 358 | 354 | TotoCherue |
 | 359 | 353 | Dee Franklin |
-| 360 | 352 | Nikki Pags |
-| 361 | 352 | Tiffany Davie |
+| 360 | 352 | Tiffany Davie |
+| 361 | 352 | Nikki Pags |
 | 362 | 352 | LadyTorad |
 | 363 | 351 | Blocked |
 | 364 | 351 | Eon Harris |
@@ -457,8 +457,8 @@
 | 449 | 292 | Kellie Montgomery |
 | 450 | 292 | Skinny Baldez |
 | 451 | 292 | Michael Kimbro |
-| 452 | 292 | Khaleada McGill Banks |
-| 453 | 292 | Arden White Kirsch |
+| 452 | 292 | Arden White Kirsch |
+| 453 | 292 | Khaleada McGill Banks |
 | 454 | 291 | Niki Dalrymple |
 | 455 | 291 | Bryan Byrd |
 | 456 | 290 | Justin Parker |
@@ -568,11 +568,11 @@
 | 560 | 243 | Lazy Matchfit |
 | 561 | 243 | Nicholas Roddy |
 | 562 | 242 | Misstery |
-| 563 | 242 | BŘŰŤİÇŨŚ |
-| 564 | 242 | Heather Bateman |
-| 565 | 241 | paranoid |
-| 566 | 241 | Joseph Vargas |
-| 567 | 241 | Zesty Rotater |
+| 563 | 242 | Heather Bateman |
+| 564 | 242 | BŘŰŤİÇŨŚ |
+| 565 | 241 | Joseph Vargas |
+| 566 | 241 | Zesty Rotater |
+| 567 | 241 | paranoid |
 | 568 | 241 | Jill Stickney |
 | 569 | 240 | Bambi Jones |
 | 570 | 240 | Beck Nicole |

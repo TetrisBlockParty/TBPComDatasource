@@ -331,8 +331,8 @@
 | 323 | 1073 | Jodi Blake |
 | 324 | 1072 | BK Queen |
 | 325 | 1072 | Kristin Gower |
-| 326 | 1071 | Nashu |
-| 327 | 1071 | Kim Dean |
+| 326 | 1071 | Kim Dean |
+| 327 | 1071 | Nashu |
 | 328 | 1067 | Caitlin Schmid |
 | 329 | 1066 | Em Chen |
 | 330 | 1065 | Dany Murillo |
