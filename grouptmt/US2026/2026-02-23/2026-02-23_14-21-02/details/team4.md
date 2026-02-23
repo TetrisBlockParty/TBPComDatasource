@@ -50,8 +50,8 @@
 | 42 | 1124 | Jae Job |
 | 43 | 1085 | Ashley Ingram |
 | 44 | 1085 | Kimyatta Cavin |
-| 45 | 1082 | Dawn Alexander |
-| 46 | 1082 | Dion Crommarty |
+| 45 | 1082 | Dion Crommarty |
+| 46 | 1082 | Dawn Alexander |
 | 47 | 1071 | Cherrish Duren |
 | 48 | 1065 | Koshin Abdirahman |
 | 49 | 1049 | Heather Tushner |
@@ -69,8 +69,8 @@
 | 61 | 872 | Shelly Chandler |
 | 62 | 870 | BertMofo |
 | 63 | 858 | Avy Absol |
-| 64 | 846 | Christine Marie |
-| 65 | 846 | Lucille Truesdale |
+| 64 | 846 | Lucille Truesdale |
+| 65 | 846 | Christine Marie |
 | 66 | 834 | quicksand420 |
 | 67 | 807 | Amelpss |
 | 68 | 807 | Rachel Anne |
@@ -240,8 +240,8 @@
 | 232 | 314 | Lindsay Ball |
 | 233 | 313 | Milan Markeisha |
 | 234 | 312 | Dihcheese444 |
-| 235 | 311 | Mary Ann Pabukis |
-| 236 | 311 | Nikki Rae Gordon |
+| 235 | 311 | Nikki Rae Gordon |
+| 236 | 311 | Mary Ann Pabukis |
 | 237 | 311 | Jason Gibbs |
 | 238 | 310 | Stacey Stano |
 | 239 | 308 | Leah Kutz Zirbel |
@@ -592,8 +592,8 @@
 | 584 | 131 | Chilly Matcher |
 | 585 | 131 | Roseanna Anderson |
 | 586 | 131 | Tianna Frey |
-| 587 | 131 | Cool Clusterfit |
-| 588 | 131 | Cheryl Johnson |
+| 587 | 131 | Cheryl Johnson |
+| 588 | 131 | Cool Clusterfit |
 | 589 | 130 | KoolMom9907 |
 | 590 | 130 | Robert Rangel |
 | 591 | 130 | Gigglelymomof2 |

@@ -336,8 +336,8 @@
 | 328 | 976 | Della Hole |
 | 329 | 976 | Sam Joe |
 | 330 | 975 | Hyper Cluster |
-| 331 | 974 | Boldy Cascadepiece |
-| 332 | 974 | Em Chen |
+| 331 | 974 | Em Chen |
+| 332 | 974 | Boldy Cascadepiece |
 | 333 | 972 | Binyah-Binyah |
 | 334 | 972 | Barbra Miller |
 | 335 | 971 | Jojo Momma |
@@ -375,8 +375,8 @@
 | 367 | 910 | Ashley Dow |
 | 368 | 907 | Gene Mills |
 | 369 | 904 | John Bednarik |
-| 370 | 903 | Eric Castaneda |
-| 371 | 903 | Giggy Blocker |
+| 370 | 903 | Giggy Blocker |
+| 371 | 903 | Eric Castaneda |
 | 372 | 902 | Diallo Sparkman |
 | 373 | 901 | Kevin Sees |
 | 374 | 899 | Chevy |
@@ -478,8 +478,8 @@
 | 470 | 755 | Taryece Gause |
 | 471 | 754 | tejas25 |
 | 472 | 753 | Alex Dungo Hoang |
-| 473 | 751 | Caitlyn Blackwell |
-| 474 | 751 | Breezy Filler |
+| 473 | 751 | Breezy Filler |
+| 474 | 751 | Caitlyn Blackwell |
 | 475 | 751 | Loony Snapper |
 | 476 | 750 | Draizen Montrell Thomas |
 | 477 | 750 | Michael Buckner |
@@ -654,8 +654,8 @@
 | 646 | 585 | Boldy Wiper |
 | 647 | 583 | Lee Harper |
 | 648 | 583 | Catherine Marsh Gruda |
-| 649 | 582 | Dawn L Washington-Feuquay |
-| 650 | 582 | Joseph Musick |
+| 649 | 582 | Joseph Musick |
+| 650 | 582 | Dawn L Washington-Feuquay |
 | 651 | 581 | Angie Marie |
 | 652 | 580 | Cheery Matchzone |
 | 653 | 579 | Shannon Jackson |
@@ -671,8 +671,8 @@
 | 663 | 569 | Sparkles |
 | 664 | 568 | Stacey Tranchida |
 | 665 | 566 | Lindsey Leigh |
-| 666 | 566 | SwampRebel |
-| 667 | 566 | Tina Marie |
+| 666 | 566 | Tina Marie |
+| 667 | 566 | SwampRebel |
 | 668 | 563 | Nat |
 | 669 | 563 | Frisky Clearpiece |
 | 670 | 559 | Shindee |

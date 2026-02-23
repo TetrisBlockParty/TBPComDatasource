@@ -81,8 +81,8 @@
 | 73 | 1252 | Gracie |
 | 74 | 1244 | Lori Barnaby |
 | 75 | 1221 | Betty Ivy |
-| 76 | 1213 | Nerdy Riseclear |
-| 77 | 1213 | Snappy Glidepiece |
+| 76 | 1213 | Snappy Glidepiece |
+| 77 | 1213 | Nerdy Riseclear |
 | 78 | 1209 | Amanda Adkins |
 | 79 | 1186 | Christian A. Pollard |
 | 80 | 1172 | Jay Horn |
@@ -135,8 +135,8 @@
 | 127 | 774 | Keith J Oshman Jr. |
 | 128 | 773 | Daira Largen |
 | 129 | 770 | Daryn Elliott |
-| 130 | 764 | Groovy Catcher |
-| 131 | 764 | Hasty Cascadefit |
+| 130 | 764 | Hasty Cascadefit |
+| 131 | 764 | Groovy Catcher |
 | 132 | 762 | Speedy Bridger |
 | 133 | 757 | Fancy Cascader |
 | 134 | 755 | Katrina Schroeder |
@@ -192,8 +192,8 @@
 | 184 | 574 | Morgan Martinez |
 | 185 | 568 | Rachael McClain Owens |
 | 186 | 566 | LaTanya GeminiondaRise Johnson |
-| 187 | 564 | Poppy Splitter |
-| 188 | 564 | Christine Trester |
+| 187 | 564 | Christine Trester |
+| 188 | 564 | Poppy Splitter |
 | 189 | 563 | Jim Mathews |
 | 190 | 562 | Dave Herzog |
 | 191 | 561 | Elissa S-k |
@@ -390,12 +390,12 @@
 | 382 | 301 | Betty Rosas |
 | 383 | 301 | Daring Brickzone |
 | 384 | 301 | Michael Lucado |
-| 385 | 299 | Antonia Russell |
-| 386 | 299 | Hasty Gridpiece |
-| 387 | 299 | TotoCherue |
-| 388 | 299 | Angie Harper |
-| 389 | 298 | Grams |
-| 390 | 298 | Dannie Litchard |
+| 385 | 299 | Hasty Gridpiece |
+| 386 | 299 | Antonia Russell |
+| 387 | 299 | Angie Harper |
+| 388 | 299 | TotoCherue |
+| 389 | 298 | Dannie Litchard |
+| 390 | 298 | Grams |
 | 391 | 298 | Tay |
 | 392 | 296 | Amy Montz |
 | 393 | 296 | Tracy Martin |
