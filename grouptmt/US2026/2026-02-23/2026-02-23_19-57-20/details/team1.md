@@ -179,8 +179,8 @@
 | 171 | 434 | Yvonne Marie |
 | 172 | 432 | Lori Bales |
 | 173 | 426 | Maria C. Hernandez |
-| 174 | 425 | Tyler Werts |
-| 175 | 425 | Tana |
+| 174 | 425 | Tana |
+| 175 | 425 | Tyler Werts |
 | 176 | 424 | Emily Adelaide Wheatley |
 | 177 | 421 | Michelle Beres |
 | 178 | 420 | Cheeky Crusher |
@@ -205,9 +205,9 @@
 | 197 | 393 | Lehrin Maria |
 | 198 | 392 | Kathy Langham |
 | 199 | 391 | Monica Donato |
-| 200 | 387 | Carrie Smith |
+| 200 | 387 | Ananda Mendez |
 | 201 | 387 | Witty Builderfit |
-| 202 | 387 | Ananda Mendez |
+| 202 | 387 | Carrie Smith |
 | 203 | 386 | Brian Spotts |
 | 204 | 384 | Tami Luce Martin |
 | 205 | 383 | Connie |
@@ -404,8 +404,8 @@
 | 396 | 236 | Snappy Bridgepiece |
 | 397 | 236 | Marie White |
 | 398 | 235 | Nutty Glide |
-| 399 | 235 | Ariel Whittington |
-| 400 | 235 | Jumpy Rotate |
+| 399 | 235 | Jumpy Rotate |
+| 400 | 235 | Ariel Whittington |
 | 401 | 234 | Brandie Gallegos |
 | 402 | 233 | Melissa Bires Hussar |
 | 403 | 232 | Jennifer Olewnik Soborowski |

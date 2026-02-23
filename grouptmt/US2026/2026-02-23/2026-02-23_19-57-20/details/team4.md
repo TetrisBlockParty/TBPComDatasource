@@ -117,8 +117,8 @@
 | 109 | 667 | Amy Suckarieh |
 | 110 | 663 | H.R. Block |
 | 111 | 659 | Jamie Gustafson |
-| 112 | 658 | Zippy Gridlock |
-| 113 | 658 | Girl |
+| 112 | 658 | Girl |
+| 113 | 658 | Zippy Gridlock |
 | 114 | 652 | Leslie Nicole |
 | 115 | 649 | Chris Alexinas |
 | 116 | 647 | KM8 |
@@ -172,8 +172,8 @@
 | 164 | 491 | Jade Rian |
 | 165 | 486 | Swanky Fitline |
 | 166 | 485 | Rico |
-| 167 | 480 | Adam Stephanie Parker |
-| 168 | 480 | Brandon Crabbs |
+| 167 | 480 | Brandon Crabbs |
+| 168 | 480 | Adam Stephanie Parker |
 | 169 | 479 | Christina Black |
 | 170 | 477 | Casey Grabner |
 | 171 | 476 | Matt Summer |
@@ -353,17 +353,17 @@
 | 345 | 265 | Lorena Guerrero-Barron |
 | 346 | 265 | Degenerate |
 | 347 | 264 | AyeKay |
-| 348 | 262 | Ruben Wheeler |
-| 349 | 262 | BigSammy420 |
-| 350 | 262 | Selena Shaw |
+| 348 | 262 | BigSammy420 |
+| 349 | 262 | Selena Shaw |
+| 350 | 262 | Ruben Wheeler |
 | 351 | 261 | Jason Frehner |
 | 352 | 260 | Carter Jones |
 | 353 | 260 | Angelito |
 | 354 | 259 | Montiette Mcglown |
 | 355 | 259 | Allen Lloyd |
 | 356 | 257 | Marcus TheeyoungWoe Gilmore |
-| 357 | 257 | Michael Snow |
-| 358 | 257 | Alexandra Karavias |
+| 357 | 257 | Alexandra Karavias |
+| 358 | 257 | Michael Snow |
 | 359 | 257 | ĥuf |
 | 360 | 256 | Jason Bosco |
 | 361 | 256 | Mackenzie Forrester |
@@ -675,8 +675,8 @@
 | 667 | 130 | Shanon James |
 | 668 | 130 | KoolMom9907 |
 | 669 | 130 | Gigglelymomof2 |
-| 670 | 129 | Dreamy Snapgrid |
-| 671 | 129 | Tamika Starkey |
+| 670 | 129 | Tamika Starkey |
+| 671 | 129 | Dreamy Snapgrid |
 | 672 | 129 | RIFATSIKDER |
 | 673 | 128 | Zesty Linkgrid |
 | 674 | 128 | Kelly Duncan |

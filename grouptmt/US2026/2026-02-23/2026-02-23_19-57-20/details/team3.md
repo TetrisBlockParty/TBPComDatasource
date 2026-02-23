@@ -236,8 +236,8 @@
 | 228 | 541 | Fran Lin |
 | 229 | 540 | Danielle Allison |
 | 230 | 539 | Betty Bóò |
-| 231 | 537 | Aerian Preston |
-| 232 | 537 | Tessina Dewey-Mancino |
+| 231 | 537 | Tessina Dewey-Mancino |
+| 232 | 537 | Aerian Preston |
 | 233 | 537 | Tamara Deherrera |
 | 234 | 535 | Fallorina Susana |
 | 235 | 533 | kacihall |

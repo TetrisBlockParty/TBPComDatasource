@@ -231,8 +231,8 @@
 | 223 | 1418 | Poppy Snap |
 | 224 | 1418 | L3sli3 |
 | 225 | 1408 | Becca Widmer |
-| 226 | 1397 | Matthew Joseph Acevedo |
-| 227 | 1397 | Joyce Johnson Vaughn |
+| 226 | 1397 | Joyce Johnson Vaughn |
+| 227 | 1397 | Matthew Joseph Acevedo |
 | 228 | 1396 | Julay |
 | 229 | 1395 | Katrina Weston |
 | 230 | 1393 | Samantha Roberts |
@@ -309,8 +309,8 @@
 | 301 | 1156 | Alezandra Smith |
 | 302 | 1156 | Amber Brion |
 | 303 | 1145 | Deborah Miller |
-| 304 | 1142 | April Dawn Gussler |
-| 305 | 1142 | Sheniya Spurgeon |
+| 304 | 1142 | Sheniya Spurgeon |
+| 305 | 1142 | April Dawn Gussler |
 | 306 | 1140 | Kimberly Hauck-Rausch |
 | 307 | 1139 | Carl Bradshaw |
 | 308 | 1137 | Hillary Crawford |
@@ -443,8 +443,8 @@
 | 435 | 877 | Misti Markijohn |
 | 436 | 876 | Jessicah Myers |
 | 437 | 870 | Joy LaJeunesse |
-| 438 | 869 | Venita Ray |
-| 439 | 869 | BYM4L |
+| 438 | 869 | BYM4L |
+| 439 | 869 | Venita Ray |
 | 440 | 868 | Jelly |
 | 441 | 865 | Kiely Tomaskovich |
 | 442 | 862 | Sarah Massey |
@@ -520,8 +520,8 @@
 | 512 | 776 | Fancy Twister |
 | 513 | 774 | Cherrica Newman |
 | 514 | 771 | Stephanie Lumanlan |
-| 515 | 768 | Joshua Self |
-| 516 | 768 | Casper The Chonk |
+| 515 | 768 | Casper The Chonk |
+| 516 | 768 | Joshua Self |
 | 517 | 768 | Alexandra Weir |
 | 518 | 767 | Ashley Lopez |
 | 519 | 765 | Michelle Pike |
@@ -616,8 +616,8 @@
 | 608 | 668 | Gloria Ininahazwe |
 | 609 | 668 | Jazzy Clusterline |
 | 610 | 667 | Rhonda Milstead |
-| 611 | 666 | Wes Acton |
-| 612 | 666 | Laura Mclean |
+| 611 | 666 | Laura Mclean |
+| 612 | 666 | Wes Acton |
 | 613 | 665 | Zak Dunn |
 | 614 | 664 | Bonita Kee |
 | 615 | 663 | Snazzy Basepiece |
@@ -626,9 +626,9 @@
 | 618 | 661 | Lee Harper |
 | 619 | 660 | Santana Miyagi |
 | 620 | 660 | Nadia Batista Garcia |
-| 621 | 659 | Anthony Huebel |
-| 622 | 659 | Andre Love |
-| 623 | 659 | Trinity Oak |
+| 621 | 659 | Trinity Oak |
+| 622 | 659 | Anthony Huebel |
+| 623 | 659 | Andre Love |
 | 624 | 658 | Demeka Dangerous-kisses Johnson |
 | 625 | 656 | Tonya Lee |
 | 626 | 655 | Silly Pivotfall |
