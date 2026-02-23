@@ -61,8 +61,8 @@
 | 53 | 1276 | Aaron Pitkin |
 | 54 | 1269 | Amber Jones |
 | 55 | 1258 | Jennifer Petrie |
-| 56 | 1256 | Mahman |
-| 57 | 1256 | Jessica Bechler |
+| 56 | 1256 | Jessica Bechler |
+| 57 | 1256 | Mahman |
 | 58 | 1191 | Nate Burnside |
 | 59 | 1167 | Elaine Webb Graves |
 | 60 | 1141 | Queen Kam |
@@ -187,8 +187,8 @@
 | 179 | 490 | Loopy Fallmatch |
 | 180 | 489 | Shannon Matthew Byers |
 | 181 | 488 | Melissa Orth Hunter |
-| 182 | 485 | Terry Jo Jones |
-| 183 | 485 | Dapper Snap |
+| 182 | 485 | Dapper Snap |
+| 183 | 485 | Terry Jo Jones |
 | 184 | 483 | FuzzyNavel |
 | 185 | 480 | Danielle Allison |
 | 186 | 479 | Poppy Splitter |
@@ -237,8 +237,8 @@
 | 229 | 387 | Gideon Walker |
 | 230 | 384 | Marci Mize Fandrich |
 | 231 | 383 | Darlene McMillan |
-| 232 | 382 | Giddy Twistbuilder |
-| 233 | 382 | Scott Carleton |
+| 232 | 382 | Scott Carleton |
+| 233 | 382 | Giddy Twistbuilder |
 | 234 | 380 | Rebecca Bailey |
 | 235 | 378 | Chris Bell |
 | 236 | 375 | Kristal C Lee |

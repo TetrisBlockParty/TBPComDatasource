@@ -40,8 +40,8 @@
 | 32 | 4199 | Claire Noland |
 | 33 | 4130 | Robert Diddle |
 | 34 | 4128 | Angela Pruitt |
-| 35 | 4120 | Corrine Hawks Soriano |
-| 36 | 4120 | Kristen Sceurman |
+| 35 | 4120 | Kristen Sceurman |
+| 36 | 4120 | Corrine Hawks Soriano |
 | 37 | 4033 | Jill Stroehlein |
 | 38 | 3895 | Nickie Baby |
 | 39 | 3770 | Brittany Alicia |
@@ -219,8 +219,8 @@
 | 211 | 1169 | Pacynthia Williams |
 | 212 | 1169 | Steven Marshaun |
 | 213 | 1159 | Carrie Trigg |
-| 214 | 1158 | Brittany Clark |
-| 215 | 1158 | Amy Sayers |
+| 214 | 1158 | Amy Sayers |
+| 215 | 1158 | Brittany Clark |
 | 216 | 1151 | Stacey Clement |
 | 217 | 1141 | Adam Erikson |
 | 218 | 1140 | Sarah Ridenour |
@@ -310,8 +310,8 @@
 | 302 | 906 | Deborah Miller |
 | 303 | 905 | F-X |
 | 304 | 904 | Ashlen Dorrell |
-| 305 | 904 | Jennifer Aiken |
-| 306 | 904 | John Bednarik |
+| 305 | 904 | John Bednarik |
+| 306 | 904 | Jennifer Aiken |
 | 307 | 902 | William Hunt |
 | 308 | 901 | Kevin Sees |
 | 309 | 899 | Chevy |
