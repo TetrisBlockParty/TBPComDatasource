@@ -82,8 +82,8 @@
 | 74 | 862 | Carolyn Wallace |
 | 75 | 855 | Peachy Fall |
 | 76 | 850 | Lucille Truesdale |
-| 77 | 846 | Amelpss |
-| 78 | 846 | Christine Marie |
+| 77 | 846 | Christine Marie |
+| 78 | 846 | Amelpss |
 | 79 | 841 | Shauna Havard |
 | 80 | 837 | Lisa Davis |
 | 81 | 834 | quicksand420 |
@@ -159,8 +159,8 @@
 | 151 | 514 | Scott Jameson |
 | 152 | 514 | Lucas J Sutton |
 | 153 | 513 | Erin Thomas |
-| 154 | 512 | ThaEviLJeNiuZ |
-| 155 | 512 | Angela Srubar-Norman |
+| 154 | 512 | Angela Srubar-Norman |
+| 155 | 512 | ThaEviLJeNiuZ |
 | 156 | 512 | Casey Jeffcoat |
 | 157 | 508 | Twisty Clicky |
 | 158 | 502 | Ellen Durfee |
@@ -172,8 +172,8 @@
 | 164 | 491 | Carrie Brian |
 | 165 | 486 | Swanky Fitline |
 | 166 | 485 | Rico |
-| 167 | 480 | Adam Stephanie Parker |
-| 168 | 480 | Brandon Crabbs |
+| 167 | 480 | Brandon Crabbs |
+| 168 | 480 | Adam Stephanie Parker |
 | 169 | 479 | Christina Black |
 | 170 | 477 | Casey Grabner |
 | 171 | 476 | Matt Summer |
@@ -385,8 +385,8 @@
 | 377 | 244 | Perky Piecegrid |
 | 378 | 243 | Val Erie |
 | 379 | 242 | PurpleMoonMa |
-| 380 | 240 | Perky Patternblock |
-| 381 | 240 | Zany Shatterer |
+| 380 | 240 | Zany Shatterer |
+| 381 | 240 | Perky Patternblock |
 | 382 | 239 | Kevin Bush |
 | 383 | 239 | Laura Hosford |
 | 384 | 239 | Denise B |
@@ -1594,8 +1594,8 @@
 | 1586 | 22 | Pipiska |
 | 1587 | 22 | Mary Ann Denmark |
 | 1588 | 22 | Francesca Teixeira |
-| 1589 | 22 | Ladi A |
-| 1590 | 22 | Lofty Lue |
+| 1589 | 22 | Lofty Lue |
+| 1590 | 22 | Ladi A |
 | 1591 | 21 | Zappy Brick |
 | 1592 | 21 | Renee |
 | 1593 | 21 | Holly Baxley |

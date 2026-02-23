@@ -92,8 +92,8 @@
 | 84 | 1264 | Amanda L Baker |
 | 85 | 1244 | Lori Barnaby |
 | 86 | 1240 | Betty Ivy |
-| 87 | 1213 | Snappy Glidepiece |
-| 88 | 1213 | Nerdy Riseclear |
+| 87 | 1213 | Nerdy Riseclear |
+| 88 | 1213 | Snappy Glidepiece |
 | 89 | 1212 | Amanda Adkins |
 | 90 | 1187 | Danielle Mogg |
 | 91 | 1186 | Christian A. Pollard |
@@ -144,8 +144,8 @@
 | 136 | 864 | Sunny Rotater |
 | 137 | 841 | Loopy Fallmatch |
 | 138 | 837 | mzcatzy |
-| 139 | 834 | opf |
-| 140 | 834 | Kristin Delibac Corrigan |
+| 139 | 834 | Kristin Delibac Corrigan |
+| 140 | 834 | opf |
 | 141 | 833 | Crystal Frey |
 | 142 | 820 | Brenda Lee Vander Molen |
 | 143 | 815 | Dolores Falco |
@@ -336,16 +336,16 @@
 | 328 | 383 | Skippy |
 | 329 | 382 | Amanda J. Mcneil-Anderson |
 | 330 | 381 | Noettín Kan Zasnemoore |
-| 331 | 379 | Kelly |
-| 332 | 379 | Kaitie Oliver |
+| 331 | 379 | Kaitie Oliver |
+| 332 | 379 | Kelly |
 | 333 | 378 | MsBee |
 | 334 | 377 | Hoppy Patternline |
 | 335 | 375 | Joy Petroski |
 | 336 | 374 | Dana Fox |
 | 337 | 372 | Rich LeBlanc |
 | 338 | 371 | block chick |
-| 339 | 370 | Tasha Wesson-Torrence |
-| 340 | 370 | Roary Danner |
+| 339 | 370 | Roary Danner |
+| 340 | 370 | Tasha Wesson-Torrence |
 | 341 | 370 | Kirhonda Autmon |
 | 342 | 369 | Amber Glover |
 | 343 | 368 | Sheila M Frazier |
@@ -497,8 +497,8 @@
 | 489 | 276 | Crimson |
 | 490 | 276 | Katie Leigh Blankenship |
 | 491 | 276 | Justice 4 P |
-| 492 | 276 | Mikki Torres |
-| 493 | 276 | Karent524 |
+| 492 | 276 | Karent524 |
+| 493 | 276 | Mikki Torres |
 | 494 | 275 | Cassandra Bryant |
 | 495 | 275 | Scott Doss |
 | 496 | 275 | Irene Arreguin |

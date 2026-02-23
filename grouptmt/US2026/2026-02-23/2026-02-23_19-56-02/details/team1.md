@@ -174,13 +174,13 @@
 | 166 | 446 | SkipTheSadSauce |
 | 167 | 444 | Dandy Basegrid |
 | 168 | 443 | Amanda Jarnagin |
-| 169 | 440 | Kimmie Kimms |
-| 170 | 440 | Timothy Danaher |
+| 169 | 440 | Timothy Danaher |
+| 170 | 440 | Kimmie Kimms |
 | 171 | 434 | Yvonne Marie |
 | 172 | 432 | Lori Bales |
 | 173 | 426 | Maria C. Hernandez |
-| 174 | 425 | Tyler Werts |
-| 175 | 425 | Tana |
+| 174 | 425 | Tana |
+| 175 | 425 | Tyler Werts |
 | 176 | 424 | Emily Adelaide Wheatley |
 | 177 | 421 | Michelle Beres |
 | 178 | 420 | Cheeky Crusher |
@@ -195,8 +195,8 @@
 | 187 | 410 | Mike Ames |
 | 188 | 408 | John J. Cronin |
 | 189 | 406 | canbrick |
-| 190 | 404 | Tawnya Peltonen |
-| 191 | 404 | Basment Living |
+| 190 | 404 | Basment Living |
+| 191 | 404 | Tawnya Peltonen |
 | 192 | 401 | Elaine Elaine |
 | 193 | 398 | Tyler L Hunt |
 | 194 | 397 | Erin Rosberg |
