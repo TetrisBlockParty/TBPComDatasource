@@ -81,8 +81,8 @@
 | 73 | 1252 | Gracie |
 | 74 | 1244 | Lori Barnaby |
 | 75 | 1221 | Betty Ivy |
-| 76 | 1213 | Snappy Glidepiece |
-| 77 | 1213 | Nerdy Riseclear |
+| 76 | 1213 | Nerdy Riseclear |
+| 77 | 1213 | Snappy Glidepiece |
 | 78 | 1209 | Amanda Adkins |
 | 79 | 1186 | Christian A. Pollard |
 | 80 | 1134 | Denise Nardoni |
@@ -133,8 +133,8 @@
 | 125 | 779 | Justin Ritter |
 | 126 | 774 | Keith J Oshman Jr. |
 | 127 | 773 | Daira Largen |
-| 128 | 764 | Groovy Catcher |
-| 129 | 764 | Hasty Cascadefit |
+| 128 | 764 | Hasty Cascadefit |
+| 129 | 764 | Groovy Catcher |
 | 130 | 762 | Speedy Bridger |
 | 131 | 755 | Katrina Schroeder |
 | 132 | 755 | Raya |
@@ -220,8 +220,8 @@
 | 212 | 502 | Snappy Balancer |
 | 213 | 498 | Melissa Orth Hunter |
 | 214 | 496 | Loopy Fallmatch |
-| 215 | 494 | Connie Mohler-Fair |
-| 216 | 494 | FuzzyNavel |
+| 215 | 494 | FuzzyNavel |
+| 216 | 494 | Connie Mohler-Fair |
 | 217 | 491 | Michael Johnson |
 | 218 | 488 | joz |
 | 219 | 485 | Dapper Snap |

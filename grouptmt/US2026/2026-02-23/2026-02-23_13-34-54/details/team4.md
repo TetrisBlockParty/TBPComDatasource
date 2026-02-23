@@ -71,8 +71,8 @@
 | 63 | 846 | Lucille Truesdale |
 | 64 | 834 | quicksand420 |
 | 65 | 827 | Avy Absol |
-| 66 | 807 | Amelpss |
-| 67 | 807 | Rachel Anne |
+| 66 | 807 | Rachel Anne |
+| 67 | 807 | Amelpss |
 | 68 | 788 | Chilly Line |
 | 69 | 788 | Julian Garcia |
 | 70 | 787 | Edward White |
@@ -254,14 +254,14 @@
 | 246 | 294 | Calvin Cannon |
 | 247 | 292 | Angel Raya |
 | 248 | 292 | Epic Curvetile |
-| 249 | 291 | Dizzy Matchzone |
-| 250 | 291 | Mimi |
+| 249 | 291 | Mimi |
+| 250 | 291 | Dizzy Matchzone |
 | 251 | 290 | Plucky Patternblock |
 | 252 | 290 | Rebecca Morris |
 | 253 | 290 | Jared Gutwein |
 | 254 | 289 | Juls |
-| 255 | 288 | Adam Stephanie Parker |
-| 256 | 288 | Brittney Orengo |
+| 255 | 288 | Brittney Orengo |
+| 256 | 288 | Adam Stephanie Parker |
 | 257 | 286 | KimoKoala |
 | 258 | 285 | Kim Klutz Olson |
 | 259 | 284 | Matt Dell'Olio |
@@ -293,8 +293,8 @@
 | 285 | 264 | ZeeZee |
 | 286 | 264 | Stella |
 | 287 | 263 | rebel4lyfe |
-| 288 | 262 | Selena Shaw |
-| 289 | 262 | Ruben Wheeler |
+| 288 | 262 | Ruben Wheeler |
+| 289 | 262 | Selena Shaw |
 | 290 | 262 | BigSammy420 |
 | 291 | 261 | Zethra Prenisha Rahming |
 | 292 | 260 | Carter Jones |
@@ -302,9 +302,9 @@
 | 294 | 259 | John Brunetti |
 | 295 | 259 | Montiette Mcglown |
 | 296 | 257 | PeaceOs |
-| 297 | 256 | Jade Rian |
-| 298 | 256 | Paige Kittles |
-| 299 | 256 | Brittany Marsh |
+| 297 | 256 | Brittany Marsh |
+| 298 | 256 | Jade Rian |
+| 299 | 256 | Paige Kittles |
 | 300 | 254 | Ari Droff |
 | 301 | 253 | Cool Buildout |
 | 302 | 253 | Autum Leigh |
@@ -555,8 +555,8 @@
 | 547 | 141 | Lori Goudy |
 | 548 | 141 | Red |
 | 549 | 140 | Thomas Hettenhaus |
-| 550 | 140 | Smiley Tiltbuilder |
-| 551 | 140 | Cheery Lift |
+| 550 | 140 | Cheery Lift |
+| 551 | 140 | Smiley Tiltbuilder |
 | 552 | 139 | Ann G. Carrillo |
 | 553 | 139 | Groovy Shiftspin |
 | 554 | 138 | Lynn Marie |

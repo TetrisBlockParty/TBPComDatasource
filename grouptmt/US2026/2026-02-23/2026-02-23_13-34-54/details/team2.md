@@ -392,8 +392,8 @@
 | 384 | 858 | Lauren Fitzgerald Thomas |
 | 385 | 856 | Jelly |
 | 386 | 856 | Mighty Shatterfit |
-| 387 | 853 | Mandi Douglas Hilt |
-| 388 | 853 | Meghan M |
+| 387 | 853 | Meghan M |
+| 388 | 853 | Mandi Douglas Hilt |
 | 389 | 851 | Johnny Yeates |
 | 390 | 848 | Misti Markijohn |
 | 391 | 846 | Kayla |
@@ -503,8 +503,8 @@
 | 495 | 709 | Marie Walker |
 | 496 | 707 | Cc |
 | 497 | 706 | Kimberly Randesi |
-| 498 | 706 | Poldo Ilano |
-| 499 | 706 | Irene Jones |
+| 498 | 706 | Irene Jones |
+| 499 | 706 | Poldo Ilano |
 | 500 | 704 | Tansaria Couch-Butler |
 | 501 | 704 | Montez Mancil |
 | 502 | 703 | Funky Drop |
@@ -532,8 +532,8 @@
 | 524 | 679 | Prette Qui |
 | 525 | 677 | Paul Combs |
 | 526 | 677 | Kayleigh Wisse |
-| 527 | 676 | Roseanna Peloso |
-| 528 | 676 | Nicky Jackson |
+| 527 | 676 | Nicky Jackson |
+| 528 | 676 | Roseanna Peloso |
 | 529 | 675 | Lonne Emade |
 | 530 | 675 | Katelynn Hollen |
 | 531 | 675 | Jennifer Leigh |
@@ -812,8 +812,8 @@
 | 804 | 478 | Brenda Annabel Smith |
 | 805 | 477 | Annette Ross Clay |
 | 806 | 477 | Joel Rosado |
-| 807 | 474 | Veronica Stevenson |
-| 808 | 474 | Jennifer Scott |
+| 807 | 474 | Jennifer Scott |
+| 808 | 474 | Veronica Stevenson |
 | 809 | 474 | Calandra Shaya Robinson |
 | 810 | 473 | Sarah Sims |
 | 811 | 472 | Bing |
