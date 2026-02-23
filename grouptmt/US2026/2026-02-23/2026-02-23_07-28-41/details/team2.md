@@ -213,8 +213,8 @@
 | 205 | 1286 | Altamirano Michael |
 | 206 | 1282 | Tanya Parsons |
 | 207 | 1259 | Foxxo |
-| 208 | 1258 | Snappy Matchbuilder |
-| 209 | 1258 | Joyce Johnson Vaughn |
+| 208 | 1258 | Joyce Johnson Vaughn |
+| 209 | 1258 | Snappy Matchbuilder |
 | 210 | 1252 | Angel |
 | 211 | 1245 | Cody Nishimura |
 | 212 | 1240 | Brandon Armstrong |
@@ -302,8 +302,8 @@
 | 294 | 996 | Ashie Ann |
 | 295 | 987 | Osun Anuket Esu |
 | 296 | 984 | Crystal Hoffman |
-| 297 | 979 | Hillary Crawford |
-| 298 | 979 | Melissa Penelope Ann Dodge |
+| 297 | 979 | Melissa Penelope Ann Dodge |
+| 298 | 979 | Hillary Crawford |
 | 299 | 978 | April Dawn Gussler |
 | 300 | 976 | Della Hole |
 | 301 | 976 | Sam Joe |
@@ -582,8 +582,8 @@
 | 574 | 589 | Kelly Templeton |
 | 575 | 588 | Kitybox |
 | 576 | 587 | Ben Barkley |
-| 577 | 585 | Jessica Lamb |
-| 578 | 585 | Sarah Berger |
+| 577 | 585 | Sarah Berger |
+| 578 | 585 | Jessica Lamb |
 | 579 | 584 | Daniell Martinez |
 | 580 | 583 | AISlop |
 | 581 | 582 | Ebony Deloach Bryant |
@@ -734,8 +734,8 @@
 | 726 | 482 | Nate |
 | 727 | 482 | Drwatson187 |
 | 728 | 481 | Lucy Marshall |
-| 729 | 480 | Dar |
-| 730 | 480 | Jennifer Leigh |
+| 729 | 480 | Jennifer Leigh |
+| 730 | 480 | Dar |
 | 731 | 479 | bbv |
 | 732 | 479 | Emilie Desma |
 | 733 | 479 | Jason Garnatz |
@@ -777,8 +777,8 @@
 | 769 | 462 | Kia Humphery |
 | 770 | 461 | Amanda Segura |
 | 771 | 461 | Julie Hamilton |
-| 772 | 461 | Amanda West |
-| 773 | 461 | Kristen O'Neal |
+| 772 | 461 | Kristen O'Neal |
+| 773 | 461 | Amanda West |
 | 774 | 460 | LaWanda Powell |
 | 775 | 459 | Sonya Back |
 | 776 | 459 | Pocho Zavala |
@@ -808,8 +808,8 @@
 | 800 | 445 | Mar Q Thomas |
 | 801 | 445 | Beatboxxer |
 | 802 | 444 | Angela Murgia-Owen |
-| 803 | 443 | Dimitra Zazara |
-| 804 | 443 | Giggy Grabber |
+| 803 | 443 | Giggy Grabber |
+| 804 | 443 | Dimitra Zazara |
 | 805 | 442 | Juan Castillo |
 | 806 | 442 | Rain |
 | 807 | 441 | Goofy Catcher |

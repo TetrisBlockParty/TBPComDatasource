@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Jonathan Kimbrough |
-| 84 | 684 | Kimyatta Cavin |
+| 83 | 684 | Kimyatta Cavin |
+| 84 | 684 | Jonathan Kimbrough |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | Shauna Havard |
-| 93 | 647 | KM8 |
+| 92 | 647 | KM8 |
+| 93 | 647 | Shauna Havard |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -120,8 +120,8 @@
 | 112 | 528 | Rodney McMath Jr. |
 | 113 | 527 | Dizzy Tiley |
 | 114 | 519 | Nugget |
-| 115 | 517 | Christina LR |
-| 116 | 517 | shar |
+| 115 | 517 | shar |
+| 116 | 517 | Christina LR |
 | 117 | 514 | Serena Goodridge |
 | 118 | 514 | Scott Jameson |
 | 119 | 513 | Erin Thomas |
@@ -207,8 +207,8 @@
 | 199 | 320 | Lauren Scott |
 | 200 | 318 | Chris Hartig |
 | 201 | 316 | Autumn Kumzi |
-| 202 | 312 | Casey Grabner |
-| 203 | 312 | Dihcheese444 |
+| 202 | 312 | Dihcheese444 |
+| 203 | 312 | Casey Grabner |
 | 204 | 311 | Mary Ann Pabukis |
 | 205 | 310 | Holly Jolly |
 | 206 | 307 | Cheery Risebuilder |
@@ -426,7 +426,7 @@
 | 418 | 170 | Elie Pean |
 | 419 | 169 | Dante Korleon |
 | 420 | 169 | Jessica Atkinson |
-| 421 | 169 | Dante Korleon |
+| 421 | 169 | Duck |
 | 422 | 168 | Ruby Khalisadar |
 | 423 | 167 | Tipsy Cascader |
 | 424 | 167 | Carla Harris |
@@ -506,7 +506,7 @@
 | 498 | 143 | Kristin MacDonald |
 | 499 | 143 | Sherri |
 | 500 | 142 | Katie Linneman-Rowland |
-| 501 | 142 | Frank Cook |
+| 501 | 142 | Bigeddie |
 | 502 | 142 | DQ Martin |
 | 503 | 142 | Frank Cook |
 | 504 | 142 | Peace |

@@ -113,8 +113,8 @@
 | 105 | 869 | Araceli Parra |
 | 106 | 868 | Sarajane Lokan |
 | 107 | 860 | Sunny Rotater |
-| 108 | 851 | Danielle Becker |
-| 109 | 851 | Jd Morris |
+| 108 | 851 | Jd Morris |
+| 109 | 851 | Danielle Becker |
 | 110 | 850 | Danielle Mogg |
 | 111 | 848 | Patricia Gadsden |
 | 112 | 831 | Angeline Joseph |
@@ -129,14 +129,14 @@
 | 121 | 769 | Kristie |
 | 122 | 764 | Groovy Catcher |
 | 123 | 762 | Speedy Bridger |
-| 124 | 752 | Logan Naccarato |
-| 125 | 752 | Raya |
+| 124 | 752 | Raya |
+| 125 | 752 | Logan Naccarato |
 | 126 | 748 | Adrian Marcel Pate |
 | 127 | 745 | JerseyJess |
 | 128 | 744 | Fancy Cascader |
 | 129 | 744 | Leah Barnett |
-| 130 | 736 | mzcatzy |
-| 131 | 736 | Katrina Schroeder |
+| 130 | 736 | Katrina Schroeder |
+| 131 | 736 | mzcatzy |
 | 132 | 734 | Calista Jo Dickson |
 | 133 | 728 | Peppy Shifter |
 | 134 | 727 | Hasty Cascadefit |
@@ -215,14 +215,14 @@
 | 207 | 480 | Danielle Allison |
 | 208 | 480 | Michael Johnson |
 | 209 | 475 | Tessina Dewey-Mancino |
-| 210 | 473 | Connie Mohler-Fair |
-| 211 | 473 | Rachel |
+| 210 | 473 | Rachel |
+| 211 | 473 | Connie Mohler-Fair |
 | 212 | 471 | Mendoza Lee Christy |
 | 213 | 467 | Sherry Ogden |
 | 214 | 467 | Edwin Calvillo Jr. |
 | 215 | 465 | Annie Déè |
-| 216 | 464 | Danielle Weikel |
-| 217 | 464 | Shunta Jacobs |
+| 216 | 464 | Shunta Jacobs |
+| 217 | 464 | Danielle Weikel |
 | 218 | 461 | Tom Nault |
 | 219 | 458 | Danielle Rhoades |
 | 220 | 454 | Joye Sims Binion |
@@ -286,8 +286,8 @@
 | 278 | 353 | Dee Franklin |
 | 279 | 353 | Cyd061769 |
 | 280 | 352 | Christian Werndl |
-| 281 | 351 | Eon Harris |
-| 282 | 351 | Blocked |
+| 281 | 351 | Blocked |
+| 282 | 351 | Eon Harris |
 | 283 | 350 | LaShey Thompson |
 | 284 | 349 | Amanda J. Mcneil-Anderson |
 | 285 | 348 | Ashley Raines |
@@ -306,8 +306,8 @@
 | 298 | 336 | Isabel Ocasio |
 | 299 | 336 | Jojo M |
 | 300 | 335 | victory |
-| 301 | 332 | Brittany |
-| 302 | 332 | Velma Mull |
+| 301 | 332 | Velma Mull |
+| 302 | 332 | Brittany |
 | 303 | 331 | Gray Hicks |
 | 304 | 329 | Angela Scott |
 | 305 | 328 | Desiree Soto |
@@ -404,8 +404,8 @@
 | 396 | 260 | Alice |
 | 397 | 259 | JessDrown |
 | 398 | 259 | Dana Winters |
-| 399 | 259 | Shania Vaine |
-| 400 | 259 | Tegan Chapman |
+| 399 | 259 | Tegan Chapman |
+| 400 | 259 | Shania Vaine |
 | 401 | 258 | IamJust Neyamijah Washington Sr. |
 | 402 | 257 | Rachel Grant |
 | 403 | 257 | Chris Wallace |
@@ -468,8 +468,8 @@
 | 460 | 230 | BigE |
 | 461 | 229 | MizzMonick Smith |
 | 462 | 229 | Everret Maxine |
-| 463 | 228 | Tipsy Zonebuilder |
-| 464 | 228 | Dapper Liney |
+| 463 | 228 | Dapper Liney |
+| 464 | 228 | Tipsy Zonebuilder |
 | 465 | 227 | Meowsa |
 | 466 | 226 | Jana Polk |
 | 467 | 226 | paranoid |
@@ -576,11 +576,11 @@
 | 568 | 189 | Sameerah Smith |
 | 569 | 188 | Amber Groover Taylor |
 | 570 | 188 | Bree Sexton |
-| 571 | 187 | Kelly Koenig |
-| 572 | 187 | luluraine |
+| 571 | 187 | luluraine |
+| 572 | 187 | Kelly Koenig |
 | 573 | 187 | Crystal Johnson |
-| 574 | 186 | Funky Jumper |
-| 575 | 186 | Jack Bo |
+| 574 | 186 | Jack Bo |
+| 575 | 186 | Funky Jumper |
 | 576 | 186 | Rayzer |
 | 577 | 185 | Ashley Kennedy |
 | 578 | 185 | Breezy Roll |
@@ -603,7 +603,7 @@
 | 595 | 181 | Kellie Montgomery |
 | 596 | 181 | krazibtch |
 | 597 | 181 | Rashad Green |
-| 598 | 181 | krazibtch |
+| 598 | 181 | Julia Nicole |
 | 599 | 180 | Chipper Piecefit |
 | 600 | 180 | Stella |
 | 601 | 179 | Boldy Corner |
