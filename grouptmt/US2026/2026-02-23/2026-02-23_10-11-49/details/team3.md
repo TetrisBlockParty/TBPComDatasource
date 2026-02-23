@@ -129,11 +129,11 @@
 | 121 | 779 | Justin Ritter |
 | 122 | 773 | Daira Largen |
 | 123 | 769 | Kristie |
-| 124 | 764 | Groovy Catcher |
-| 125 | 764 | Hasty Cascadefit |
+| 124 | 764 | Hasty Cascadefit |
+| 125 | 764 | Groovy Catcher |
 | 126 | 762 | Speedy Bridger |
-| 127 | 755 | Raya |
-| 128 | 755 | Katrina Schroeder |
+| 127 | 755 | Katrina Schroeder |
+| 128 | 755 | Raya |
 | 129 | 752 | Logan Naccarato |
 | 130 | 748 | Adrian Marcel Pate |
 | 131 | 745 | JerseyJess |
@@ -177,8 +177,8 @@
 | 169 | 595 | Nicole Myers |
 | 170 | 591 | Michael Nowogorski |
 | 171 | 587 | Louise Stacy Sisson |
-| 172 | 585 | Annie Marie |
-| 173 | 585 | Happy Tetriblast |
+| 172 | 585 | Happy Tetriblast |
+| 173 | 585 | Annie Marie |
 | 174 | 583 | Tasha Gillespie |
 | 175 | 582 | Natasha Jones |
 | 176 | 577 | Domo Washington |
@@ -272,8 +272,8 @@
 | 264 | 381 | Charles Perrone |
 | 265 | 380 | Rebecca Bailey |
 | 266 | 379 | JessDrown |
-| 267 | 378 | Chris Bell |
-| 268 | 378 | MsBee |
+| 267 | 378 | MsBee |
+| 268 | 378 | Chris Bell |
 | 269 | 377 | Kristin Delibac Corrigan |
 | 270 | 375 | Stephanie Burtin |
 | 271 | 374 | Rania Zaqout |
@@ -285,8 +285,8 @@
 | 277 | 369 | Philip Rock |
 | 278 | 369 | Keis |
 | 279 | 369 | Amber Glover |
-| 280 | 368 | Stephanie Woods |
-| 281 | 368 | Sheila M Frazier |
+| 280 | 368 | Sheila M Frazier |
+| 281 | 368 | Stephanie Woods |
 | 282 | 366 | Gumbo |
 | 283 | 362 | Brandon Givens |
 | 284 | 360 | Cesar Barraza |
@@ -299,8 +299,8 @@
 | 291 | 353 | Cyd061769 |
 | 292 | 353 | Dee Franklin |
 | 293 | 352 | Christian Werndl |
-| 294 | 351 | Eon Harris |
-| 295 | 351 | Blocked |
+| 294 | 351 | Blocked |
+| 295 | 351 | Eon Harris |
 | 296 | 350 | LaShey Thompson |
 | 297 | 349 | Amanda J. Mcneil-Anderson |
 | 298 | 348 | Ashley Raines |
@@ -311,8 +311,8 @@
 | 303 | 342 | Cynthia Herrmann Egland |
 | 304 | 341 | Rick Poppen |
 | 305 | 341 | Lys |
-| 306 | 340 | KayB |
-| 307 | 340 | Erika Thornton |
+| 306 | 340 | Erika Thornton |
+| 307 | 340 | KayB |
 | 308 | 338 | fraulila |
 | 309 | 336 | Foltz Lee Kelli |
 | 310 | 335 | victory |
@@ -569,17 +569,17 @@
 | 561 | 196 | Weerae |
 | 562 | 196 | Joshua David Huie |
 | 563 | 196 | Eboni Starr |
-| 564 | 195 | toony |
-| 565 | 195 | Carrie Resler |
-| 566 | 195 | Nicha Hooker |
+| 564 | 195 | Nicha Hooker |
+| 565 | 195 | toony |
+| 566 | 195 | Carrie Resler |
 | 567 | 194 | Shicken Nuggit |
 | 568 | 193 | Clever Shiftsnap |
 | 569 | 193 | Stephanie Zahm |
 | 570 | 192 | Laura Booth Wosko |
 | 571 | 192 | Kelly Ann Child |
 | 572 | 192 | Jennifer Neiman Gaal |
-| 573 | 191 | Sarah Tschee |
-| 574 | 191 | Silver Marchán |
+| 573 | 191 | Silver Marchán |
+| 574 | 191 | Sarah Tschee |
 | 575 | 191 | lady lua |
 | 576 | 191 | Polopypy |
 | 577 | 191 | Becca Engle |
@@ -596,15 +596,15 @@
 | 588 | 187 | Tiffany Marler |
 | 589 | 187 | Kelly Koenig |
 | 590 | 187 | Crystal Johnson |
-| 591 | 186 | Funky Jumper |
-| 592 | 186 | Rayzer |
+| 591 | 186 | Rayzer |
+| 592 | 186 | Funky Jumper |
 | 593 | 185 | Ashley Kennedy |
 | 594 | 185 | Breezy Roll |
 | 595 | 184 | Shanon R Jackson |
 | 596 | 184 | Barb Wensink Johnson |
 | 597 | 184 | Christian Luna |
-| 598 | 183 | AC Yeater |
-| 599 | 183 | Mel Murr |
+| 598 | 183 | Mel Murr |
+| 599 | 183 | AC Yeater |
 | 600 | 183 | Jana Fagg |
 | 601 | 183 | Silly Curvetile |
 | 602 | 183 | Snarky McFace |
@@ -678,7 +678,7 @@
 | 670 | 167 | Funky Brickster |
 | 671 | 167 | Jm |
 | 672 | 167 | Frisky Stacker |
-| 673 | 167 | Alison Baus |
+| 673 | 167 | Frothy Glider |
 | 674 | 167 | Monnie Parra |
 | 675 | 167 | Pam Holt Powell |
 | 676 | 167 | Timea Popladek |

@@ -218,8 +218,8 @@
 | 210 | 1286 | Altamirano Michael |
 | 211 | 1282 | Tanya Parsons |
 | 212 | 1259 | Foxxo |
-| 213 | 1258 | Joyce Johnson Vaughn |
-| 214 | 1258 | Snappy Matchbuilder |
+| 213 | 1258 | Snappy Matchbuilder |
+| 214 | 1258 | Joyce Johnson Vaughn |
 | 215 | 1252 | Angel |
 | 216 | 1245 | Missie Lawson Gebhardt |
 | 217 | 1245 | Cody Nishimura |
@@ -464,13 +464,13 @@
 | 456 | 728 | Dylan Thomason |
 | 457 | 728 | Tom Riefer |
 | 458 | 726 | Crystal Greene |
-| 459 | 725 | Jennie Lee Huntley |
-| 460 | 725 | Ashle Scranton |
-| 461 | 725 | Karen Snyder Schrage |
-| 462 | 725 | Vonceial Boone |
+| 459 | 725 | Ashle Scranton |
+| 460 | 725 | Jennie Lee Huntley |
+| 461 | 725 | Vonceial Boone |
+| 462 | 725 | Karen Snyder Schrage |
 | 463 | 724 | Melissa Holsinger |
-| 464 | 720 | Giggy Mover |
-| 465 | 720 | BeQuo |
+| 464 | 720 | BeQuo |
+| 465 | 720 | Giggy Mover |
 | 466 | 715 | Daniell Martinez |
 | 467 | 713 | Christie |
 | 468 | 712 | Amanda Ferrell |
@@ -480,8 +480,8 @@
 | 472 | 708 | Jelly |
 | 473 | 706 | Kimberly Randesi |
 | 474 | 706 | Irene Jones |
-| 475 | 704 | Montez Mancil |
-| 476 | 704 | Tansaria Couch-Butler |
+| 475 | 704 | Tansaria Couch-Butler |
+| 476 | 704 | Montez Mancil |
 | 477 | 703 | Funky Drop |
 | 478 | 700 | Vincent Petrella |
 | 479 | 700 | Beverly Owens |
@@ -506,8 +506,8 @@
 | 498 | 679 | Kassandra Hunt |
 | 499 | 679 | Prette Qui |
 | 500 | 677 | Paul Combs |
-| 501 | 677 | Amanda Woodruff |
-| 502 | 677 | Kayleigh Wisse |
+| 501 | 677 | Kayleigh Wisse |
+| 502 | 677 | Amanda Woodruff |
 | 503 | 676 | Nicky Jackson |
 | 504 | 676 | Roseanna Peloso |
 | 505 | 675 | Lonne Emade |
@@ -1144,8 +1144,8 @@
 | 1136 | 338 | Goofy Blockfall |
 | 1137 | 337 | Jennifer Mahon |
 | 1138 | 337 | Spicy Riser |
-| 1139 | 337 | Sassy Pattern |
-| 1140 | 337 | Harrison Littrell |
+| 1139 | 337 | Harrison Littrell |
+| 1140 | 337 | Sassy Pattern |
 | 1141 | 337 | Stanley Vanekelenburg |
 | 1142 | 336 | Crystal Cornelius |
 | 1143 | 336 | Katrina Willmon |
@@ -1180,7 +1180,7 @@
 | 1172 | 329 | party pooch |
 | 1173 | 327 | Angel McTiller |
 | 1174 | 327 | GinRox88 |
-| 1175 | 326 | Lilia Gomez |
+| 1175 | 326 | Kimmy McKay |
 | 1176 | 326 | Jamie Dayton |
 | 1177 | 326 | Lilia Gomez |
 | 1178 | 325 | Virginia LaTour |

@@ -64,8 +64,8 @@
 | 56 | 862 | Ashley Ingram |
 | 57 | 859 | TeeJ |
 | 58 | 859 | Christina LR |
-| 59 | 846 | Lucille Truesdale |
-| 60 | 846 | Christine Marie |
+| 59 | 846 | Christine Marie |
+| 60 | 846 | Lucille Truesdale |
 | 61 | 845 | LisaJo Picken Buchanan |
 | 62 | 834 | quicksand420 |
 | 63 | 807 | Amelpss |
@@ -196,8 +196,8 @@
 | 188 | 349 | Rafael Valentin |
 | 189 | 348 | David Lay |
 | 190 | 348 | April Rondinone |
-| 191 | 347 | Daria Rycewicz |
-| 192 | 347 | Crystal Nicolette Moore |
+| 191 | 347 | Crystal Nicolette Moore |
+| 192 | 347 | Daria Rycewicz |
 | 193 | 346 | shark tato |
 | 194 | 337 | Sam Bishop |
 | 195 | 336 | JPW |
@@ -522,8 +522,8 @@
 | 514 | 142 | Hyper Matchclear |
 | 515 | 142 | Peace |
 | 516 | 142 | Bigeddie |
-| 517 | 141 | Red |
-| 518 | 141 | Lori Goudy |
+| 517 | 141 | Lori Goudy |
+| 518 | 141 | Red |
 | 519 | 140 | Cheery Lift |
 | 520 | 140 | Smiley Tiltbuilder |
 | 521 | 140 | Sunny Filler |

@@ -134,15 +134,15 @@
 | 126 | 446 | SkipTheSadSauce |
 | 127 | 443 | Steve Schneider |
 | 128 | 442 | Francesca Gee |
-| 129 | 440 | femmefatale |
-| 130 | 440 | And |
+| 129 | 440 | And |
+| 130 | 440 | femmefatale |
 | 131 | 439 | Dee Perry |
 | 132 | 434 | Yvonne Marie |
 | 133 | 429 | Kristi Johnson |
 | 134 | 428 | Ly Phethmany |
 | 135 | 426 | Maria C. Hernandez |
-| 136 | 425 | Tyler Werts |
-| 137 | 425 | Dandy Basegrid |
+| 136 | 425 | Dandy Basegrid |
+| 137 | 425 | Tyler Werts |
 | 138 | 423 | ALFD |
 | 139 | 417 | Phu ckalldems |
 | 140 | 411 | BadG52 |
