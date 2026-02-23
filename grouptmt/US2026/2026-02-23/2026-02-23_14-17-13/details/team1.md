@@ -54,7 +54,7 @@
 | 46 | 1040 | Patrick Luckenbill |
 | 47 | 1032 | Kathi Snustad |
 | 48 | 1027 | Robert Beck |
-| 49 | 1020 | Carrie Beck Geartz |
+| 49 | 1014 | Carrie Beck Geartz |
 | 50 | 1012 | Kristen Gideon |
 | 51 | 966 | Shalene Frederick Autrey |
 | 52 | 965 | Kristen Roles Robben |
@@ -132,8 +132,8 @@
 | 124 | 475 | Sarah Somers Gray |
 | 125 | 475 | Giddy Cascade |
 | 126 | 471 | Hyper |
-| 127 | 467 | Candy Jones |
-| 128 | 467 | Constance Risner |
+| 127 | 467 | Constance Risner |
+| 128 | 467 | Candy Jones |
 | 129 | 466 | Adrian Esteban |
 | 130 | 463 | Lexuriuos Lifestlye |
 | 131 | 462 | Luciano Moreira |
@@ -156,8 +156,8 @@
 | 148 | 425 | Tyler Werts |
 | 149 | 425 | Dandy Basegrid |
 | 150 | 423 | ALFD |
-| 151 | 417 | Jessie Lynn |
-| 152 | 417 | Phu ckalldems |
+| 151 | 417 | Phu ckalldems |
+| 152 | 417 | Jessie Lynn |
 | 153 | 416 | Jessica Sheehan |
 | 154 | 415 | Jennifer Hardman |
 | 155 | 409 | Kimberly Garcia |
@@ -273,8 +273,8 @@
 | 265 | 286 | Sarahdactyl |
 | 266 | 285 | Shanae Grant |
 | 267 | 284 | Sam Williams |
-| 268 | 283 | Franswa |
-| 269 | 283 | Larry Tilton |
+| 268 | 283 | Larry Tilton |
+| 269 | 283 | Franswa |
 | 270 | 282 | Timothy Dew |
 | 271 | 281 | Clever Cascadepiece |
 | 272 | 280 | Billie Dawn Sparks |
@@ -332,13 +332,13 @@
 | 324 | 244 | Sarah Marie |
 | 325 | 244 | Tami Luce Martin |
 | 326 | 243 | Michael Espinosa Ulibarri Jr. |
-| 327 | 243 | Tyler L Hunt |
-| 328 | 243 | Bouncy Grid |
+| 327 | 243 | Bouncy Grid |
+| 328 | 243 | Tyler L Hunt |
 | 329 | 242 | John Ramirez |
 | 330 | 242 | Tamara Brown |
-| 331 | 239 | LC |
+| 331 | 239 | Adele Rahman |
 | 332 | 239 | Colleen Wise |
-| 333 | 239 | Adele Rahman |
+| 333 | 239 | LC |
 | 334 | 238 | Michael |
 | 335 | 238 | Zany Tiler |
 | 336 | 236 | Snappy Bridgepiece |

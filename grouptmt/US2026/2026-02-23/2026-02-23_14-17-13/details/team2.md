@@ -345,8 +345,8 @@
 | 337 | 958 | Kathryn Townsley |
 | 338 | 958 | Brenda Messer |
 | 339 | 958 | Doowop40 |
-| 340 | 957 | Block Master |
-| 341 | 957 | Matthew Joseph Acevedo |
+| 340 | 957 | Matthew Joseph Acevedo |
+| 341 | 957 | Block Master |
 | 342 | 955 | Angela Bonquiqui Dinish |
 | 343 | 954 | Melissa McCall |
 | 344 | 952 | Arkei Luster |
@@ -484,7 +484,7 @@
 | 476 | 750 | Draizen Montrell Thomas |
 | 477 | 750 | Michael Buckner |
 | 478 | 748 | Ann Matzkanin |
-| 479 | 743 | Aireka Roman |
+| 479 | 742 | Cassie Maynard |
 | 480 | 742 | Ganieda |
 | 481 | 740 | Jerry Tempelmeyer |
 | 482 | 737 | Ginger |
