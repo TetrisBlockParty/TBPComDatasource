@@ -151,8 +151,8 @@
 | 143 | 520 | Zippy Block |
 | 144 | 518 | Carly Alexis |
 | 145 | 516 | Trish |
-| 146 | 514 | Lucas J Sutton |
-| 147 | 514 | Scott Jameson |
+| 146 | 514 | Scott Jameson |
+| 147 | 514 | Lucas J Sutton |
 | 148 | 513 | Erin Thomas |
 | 149 | 512 | Angela Srubar-Norman |
 | 150 | 512 | ThaEviLJeNiuZ |
@@ -213,8 +213,8 @@
 | 205 | 408 | April Rondinone |
 | 206 | 404 | Lori |
 | 207 | 400 | Antony Dwayne Beasley |
-| 208 | 399 | Lindsay Ball |
-| 209 | 399 | Jeff Brian Gates |
+| 208 | 399 | Jeff Brian Gates |
+| 209 | 399 | Lindsay Ball |
 | 210 | 398 | Tyler Terrific |
 | 211 | 394 | Nita Wells |
 | 212 | 392 | Michele Plunkett |
@@ -243,8 +243,8 @@
 | 235 | 362 | Meg |
 | 236 | 361 | Rafael Valentin |
 | 237 | 361 | Danielle Kollias |
-| 238 | 358 | A5! |
-| 239 | 358 | Twisty Cascadezone |
+| 238 | 358 | Twisty Cascadezone |
+| 239 | 358 | A5! |
 | 240 | 357 | KimoKoala |
 | 241 | 356 | Joeliecea Cobb |
 | 242 | 355 | James Hurley Jr. |
@@ -282,13 +282,13 @@
 | 274 | 311 | Nikki Rae Gordon |
 | 275 | 310 | Stacey Stano |
 | 276 | 308 | Leah Kutz Zirbel |
-| 277 | 307 | Tina Lopez |
-| 278 | 307 | Angie Schmidt |
+| 277 | 307 | Angie Schmidt |
+| 278 | 307 | Tina Lopez |
 | 279 | 306 | PeaceOs |
 | 280 | 306 | mike |
 | 281 | 306 | Lora |
-| 282 | 304 | Joanna |
-| 283 | 304 | Shiny Fit |
+| 282 | 304 | Shiny Fit |
+| 283 | 304 | Joanna |
 | 284 | 301 | Erin Sabol |
 | 285 | 300 | Dana Scott |
 | 286 | 297 | Kenna Gunderland |

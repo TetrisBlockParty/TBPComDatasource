@@ -119,8 +119,8 @@
 | 111 | 586 | Jessi Sauer |
 | 112 | 583 | Theo Pinnow |
 | 113 | 577 | Damon J. Martin |
-| 114 | 574 | Tiger Lily |
-| 115 | 574 | femmefatale |
+| 114 | 574 | femmefatale |
+| 115 | 574 | Tiger Lily |
 | 116 | 571 | Virginia Gray Floyd |
 | 117 | 570 | Cody Slav |
 | 118 | 558 | Jazzy Framezone |
@@ -179,8 +179,8 @@
 | 171 | 426 | Maria C. Hernandez |
 | 172 | 425 | Tyler Werts |
 | 173 | 424 | Emily Adelaide Wheatley |
-| 174 | 417 | Jessie Lynn |
-| 175 | 417 | Kimberly Garcia |
+| 174 | 417 | Kimberly Garcia |
+| 175 | 417 | Jessie Lynn |
 | 176 | 416 | Jessica Sheehan |
 | 177 | 415 | Jennifer Hardman |
 | 178 | 414 | Chelsea Dahlquist |
