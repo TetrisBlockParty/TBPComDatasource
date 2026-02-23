@@ -60,8 +60,8 @@
 | 52 | 1155 | Jae Job |
 | 53 | 1150 | Kimyatta Cavin |
 | 54 | 1105 | Ashley Ingram |
-| 55 | 1082 | Avy Absol |
-| 56 | 1082 | Dion Crommarty |
+| 55 | 1082 | Dion Crommarty |
+| 56 | 1082 | Avy Absol |
 | 57 | 1065 | Dustee Craddock-Harrison |
 | 58 | 1049 | Heather Tushner |
 | 59 | 1046 | Johnathan Martinez |
@@ -147,8 +147,8 @@
 | 139 | 554 | Carlos Ramirez |
 | 140 | 551 | Ren Mc |
 | 141 | 546 | Dizzy Tiley |
-| 142 | 545 | Livvy |
-| 143 | 545 | Desi Desporte |
+| 142 | 545 | Desi Desporte |
+| 143 | 545 | Livvy |
 | 144 | 542 | Austin Owens |
 | 145 | 540 | Rodney McMath Jr. |
 | 146 | 536 | Kimberlee Jan Beckstead |
@@ -323,8 +323,8 @@
 | 315 | 291 | Dizzy Matchzone |
 | 316 | 291 | ZeeZee |
 | 317 | 291 | Brittney Orengo |
-| 318 | 290 | Neirrah B Olailjeel |
-| 319 | 290 | Jared Gutwein |
+| 318 | 290 | Jared Gutwein |
+| 319 | 290 | Neirrah B Olailjeel |
 | 320 | 289 | Lazy Glidepiece |
 | 321 | 289 | Juls |
 | 322 | 289 | Deb Rubeck |

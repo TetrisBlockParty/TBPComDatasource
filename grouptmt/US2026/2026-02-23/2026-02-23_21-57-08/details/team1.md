@@ -102,8 +102,8 @@
 | 94 | 740 | Lori Sanders- Davis |
 | 95 | 722 | Kellie |
 | 96 | 717 | Madison Wicks |
-| 97 | 706 | Denice Dee |
-| 98 | 706 | Plucky Fallzone |
+| 97 | 706 | Plucky Fallzone |
+| 98 | 706 | Denice Dee |
 | 99 | 704 | Karin Gillen |
 | 100 | 703 | Angel Fowler |
 | 101 | 679 | Melissa Lemmon |
@@ -117,8 +117,8 @@
 | 109 | 626 | Damon J. Martin |
 | 110 | 612 | femmefatale |
 | 111 | 604 | Ryan Lunnin |
-| 112 | 601 | Phu ckalldems |
-| 113 | 601 | Evan Richmond |
+| 112 | 601 | Evan Richmond |
+| 113 | 601 | Phu ckalldems |
 | 114 | 598 | Jessi Sauer |
 | 115 | 595 | Ty Brown |
 | 116 | 594 | Basment Living |
@@ -187,8 +187,8 @@
 | 179 | 432 | Lori Bales |
 | 180 | 430 | MIKOZ |
 | 181 | 426 | Maria C. Hernandez |
-| 182 | 425 | Tyler Werts |
-| 183 | 425 | Tana |
+| 182 | 425 | Tana |
+| 183 | 425 | Tyler Werts |
 | 184 | 424 | Emily Adelaide Wheatley |
 | 185 | 423 | Elaine Elaine |
 | 186 | 423 | Kimberly Garcia |
@@ -396,8 +396,8 @@
 | 388 | 255 | Beazel75 |
 | 389 | 254 | Al Smith Jr |
 | 390 | 253 | Shiny Gridmatch |
-| 391 | 252 | Katie Martin |
-| 392 | 252 | Dena Kayy |
+| 391 | 252 | Dena Kayy |
+| 392 | 252 | Katie Martin |
 | 393 | 252 | SavageBooty98 |
 | 394 | 251 | Terri Rodela |
 | 395 | 251 | Randy Broadwater |

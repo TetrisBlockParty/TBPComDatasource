@@ -173,8 +173,8 @@
 | 165 | 1804 | Chirpy Staggerpiece |
 | 166 | 1790 | Kara Gillen |
 | 167 | 1778 | bonsai |
-| 168 | 1771 | Eboni Banks |
-| 169 | 1771 | Heather Westrum |
+| 168 | 1771 | Heather Westrum |
+| 169 | 1771 | Eboni Banks |
 | 170 | 1767 | niecy |
 | 171 | 1763 | Juliana Marques Do Nascimento Gordy |
 | 172 | 1759 | Nerdy Pattern |
@@ -350,8 +350,8 @@
 | 342 | 1079 | Jennifer Kistner |
 | 343 | 1073 | Jodi Blake |
 | 344 | 1072 | BK Queen |
-| 345 | 1071 | Nashu |
-| 346 | 1071 | Kim Dean |
+| 345 | 1071 | Kim Dean |
+| 346 | 1071 | Nashu |
 | 347 | 1071 | Barbra Miller |
 | 348 | 1067 | Caitlin Schmid |
 | 349 | 1065 | Dany Murillo |
@@ -440,15 +440,15 @@
 | 432 | 907 | Gene Mills |
 | 433 | 905 | Adam Simmons |
 | 434 | 903 | Ashle Scranton |
-| 435 | 903 | Eric Castaneda |
-| 436 | 903 | Sarah DeHart |
+| 435 | 903 | Sarah DeHart |
+| 436 | 903 | Eric Castaneda |
 | 437 | 902 | Brenda Utphall |
 | 438 | 899 | Chevy |
 | 439 | 899 | Patrick Bartlett |
 | 440 | 898 | Dylan Thomason |
 | 441 | 897 | Jamie Schmitt |
-| 442 | 895 | Donna Colby |
-| 443 | 895 | Lisa Ongtowasruk |
+| 442 | 895 | Lisa Ongtowasruk |
+| 443 | 895 | Donna Colby |
 | 444 | 894 | Adira Brown |
 | 445 | 890 | Alex Stone LaRue |
 | 446 | 888 | Leslie Ann Carter |

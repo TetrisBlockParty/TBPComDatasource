@@ -379,8 +379,8 @@
 | 371 | 364 | TotoCherue |
 | 372 | 362 | Brandon Givens |
 | 373 | 360 | Goofy Fall |
-| 374 | 359 | Ann Hammac |
-| 375 | 359 | Steven Fulater |
+| 374 | 359 | Steven Fulater |
+| 375 | 359 | Ann Hammac |
 | 376 | 359 | 4girls |
 | 377 | 358 | Ashley Rufus Bythcez |
 | 378 | 356 | Tony Waters |
@@ -393,8 +393,8 @@
 | 385 | 349 | Donna |
 | 386 | 348 | Ashley Raines |
 | 387 | 346 | AlsoJess |
-| 388 | 345 | Misha Sanders |
-| 389 | 345 | victory |
+| 388 | 345 | victory |
+| 389 | 345 | Misha Sanders |
 | 390 | 344 | Beaudie Stroebel |
 | 391 | 343 | Nikki White |
 | 392 | 342 | Christina Marie Swisher |
