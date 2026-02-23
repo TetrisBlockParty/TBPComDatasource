@@ -44,8 +44,8 @@
 | 36 | 4199 | Claire Noland |
 | 37 | 4128 | Angela Pruitt |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Kristen Sceurman |
-| 40 | 4120 | Corrine Hawks Soriano |
+| 39 | 4120 | Corrine Hawks Soriano |
+| 40 | 4120 | Kristen Sceurman |
 | 41 | 3813 | Devin Lee |
 | 42 | 3778 | Brittany Alicia |
 | 43 | 3736 | Alisha |
@@ -206,8 +206,8 @@
 | 198 | 1311 | Anna Edwards |
 | 199 | 1306 | Isabela Shaw |
 | 200 | 1300 | Tacara Cummings |
-| 201 | 1286 | Lemonaide |
-| 202 | 1286 | Altamirano Michael |
+| 201 | 1286 | Altamirano Michael |
+| 202 | 1286 | Lemonaide |
 | 203 | 1282 | Tanya Parsons |
 | 204 | 1282 | Ashley Rose Frederick |
 | 205 | 1259 | Foxxo |
@@ -711,8 +711,8 @@
 | 703 | 482 | RaeVan Worthington |
 | 704 | 482 | Drwatson187 |
 | 705 | 481 | Lucy Marshall |
-| 706 | 480 | Jennifer Leigh |
-| 707 | 480 | Dar |
+| 706 | 480 | Dar |
+| 707 | 480 | Jennifer Leigh |
 | 708 | 479 | bbv |
 | 709 | 479 | Jason Garnatz |
 | 710 | 479 | Ashlee Cruz |
@@ -742,8 +742,8 @@
 | 734 | 468 | Brenda Annabel Smith |
 | 735 | 467 | ruth |
 | 736 | 466 | Shea Edison |
-| 737 | 464 | Lively Edgepiece |
-| 738 | 464 | Natasha Edmonds |
+| 737 | 464 | Natasha Edmonds |
+| 738 | 464 | Lively Edgepiece |
 | 739 | 464 | Saucy Fitzone |
 | 740 | 463 | Jaye EL Hunter |
 | 741 | 462 | Darla Silva |

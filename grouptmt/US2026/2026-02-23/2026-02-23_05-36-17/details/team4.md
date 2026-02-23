@@ -53,14 +53,14 @@
 | 45 | 960 | Dustin Robert |
 | 46 | 938 | Denny Shives |
 | 47 | 936 | Rebecca Moulton Pinciaro |
-| 48 | 911 | Jeremy Steines |
-| 49 | 911 | Anthony Bryan Riva |
+| 48 | 911 | Anthony Bryan Riva |
+| 49 | 911 | Jeremy Steines |
 | 50 | 873 | Marvin Lou Martin |
 | 51 | 870 | BertMofo |
 | 52 | 863 | Pee |
 | 53 | 853 | TeeJ |
-| 54 | 846 | Lucille Truesdale |
-| 55 | 846 | Christine Marie |
+| 54 | 846 | Christine Marie |
+| 55 | 846 | Lucille Truesdale |
 | 56 | 845 | LisaJo Picken Buchanan |
 | 57 | 843 | Shelly Chandler |
 | 58 | 834 | quicksand420 |
@@ -137,8 +137,8 @@
 | 129 | 458 | Twisty Clicky |
 | 130 | 451 | Peachy Fall |
 | 131 | 448 | Kristin Manee |
-| 132 | 435 | Leslie Thomas |
-| 133 | 435 | Kristina Black |
+| 132 | 435 | Kristina Black |
+| 133 | 435 | Leslie Thomas |
 | 134 | 431 | Courtney Cicoria |
 | 135 | 426 | 🥔🥔 Spudz |
 | 136 | 425 | Monica Daley |
@@ -212,8 +212,8 @@
 | 204 | 304 | Lindsay Ball |
 | 205 | 301 | Andria Lynn |
 | 206 | 300 | Zakia Monae |
-| 207 | 300 | Dana Scott |
-| 208 | 300 | Dihcheese444 |
+| 207 | 300 | Dihcheese444 |
+| 208 | 300 | Dana Scott |
 | 209 | 295 | Keshia Lyons |
 | 210 | 294 | Porkobello |
 | 211 | 294 | Calvin Cannon |
@@ -242,8 +242,8 @@
 | 234 | 272 | Carlos Ramirez |
 | 235 | 272 | Dennis Bradley |
 | 236 | 271 | Holly |
-| 237 | 270 | Juls |
-| 238 | 270 | Jen Caldwell |
+| 237 | 270 | Jen Caldwell |
+| 238 | 270 | Juls |
 | 239 | 266 | Mr. Party |
 | 240 | 265 | Silly SeaWeed |
 | 241 | 265 | Sarah Neathery |
@@ -394,8 +394,8 @@
 | 386 | 174 | Kathy Allen |
 | 387 | 174 | ĥuf |
 | 388 | 173 | Tanner Lund |
-| 389 | 172 | Madison Sweere |
-| 390 | 172 | Janis Brown |
+| 389 | 172 | Janis Brown |
+| 390 | 172 | Madison Sweere |
 | 391 | 172 | Undeniable Williams |
 | 392 | 171 | Terrance Fung |
 | 393 | 171 | Brittany Little |

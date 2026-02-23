@@ -209,8 +209,8 @@
 | 201 | 480 | Danielle Allison |
 | 202 | 480 | Michael Johnson |
 | 203 | 475 | Tessina Dewey-Mancino |
-| 204 | 473 | Connie Mohler-Fair |
-| 205 | 473 | Rachel |
+| 204 | 473 | Rachel |
+| 205 | 473 | Connie Mohler-Fair |
 | 206 | 471 | Mendoza Lee Christy |
 | 207 | 471 | Jacqueline Rodriguez |
 | 208 | 467 | Sherry Ogden |
@@ -233,8 +233,8 @@
 | 225 | 430 | Jeni Dow |
 | 226 | 415 | ren |
 | 227 | 414 | Fran Lin |
-| 228 | 410 | Duane Bright |
-| 229 | 410 | Stephanie Simpson |
+| 228 | 410 | Stephanie Simpson |
+| 229 | 410 | Duane Bright |
 | 230 | 408 | Tiffany Ford |
 | 231 | 406 | Kristal C Lee |
 | 232 | 404 | Chasity |
@@ -452,8 +452,8 @@
 | 444 | 231 | Giggly Brickroll |
 | 445 | 231 | Frothy Snapper |
 | 446 | 230 | Andrew Thorson |
-| 447 | 230 | BigE |
-| 448 | 230 | DanceLuvLaugh |
+| 447 | 230 | DanceLuvLaugh |
+| 448 | 230 | BigE |
 | 449 | 229 | Everret Maxine |
 | 450 | 228 | Stephanie Hill |
 | 451 | 227 | Meowsa |
