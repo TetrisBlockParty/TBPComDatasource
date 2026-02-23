@@ -142,8 +142,8 @@
 | 134 | 418 | Marie-Pier Desjardins |
 | 135 | 415 | Klo |
 | 136 | 414 | Nope Young |
-| 137 | 413 | Kristina Black |
-| 138 | 413 | Chaz Duncan |
+| 137 | 413 | Chaz Duncan |
+| 138 | 413 | Kristina Black |
 | 139 | 412 | Jessica Bohlken |
 | 140 | 408 | Amanda Pauldo-Ivy |
 | 141 | 402 | Ericca Eldridge |
@@ -201,8 +201,8 @@
 | 193 | 302 | Cursed Hag |
 | 194 | 301 | Andria Lynn |
 | 195 | 300 | Dana Scott |
-| 196 | 300 | Zakia Monae |
-| 197 | 300 | Dihcheese444 |
+| 196 | 300 | Dihcheese444 |
+| 197 | 300 | Zakia Monae |
 | 198 | 297 | Melvin Baird |
 | 199 | 294 | Calvin Cannon |
 | 200 | 292 | Epic Curvetile |
@@ -222,8 +222,8 @@
 | 214 | 280 | scott |
 | 215 | 279 | Adam Stephanie Parker |
 | 216 | 277 | Zesty Twistbuilder |
-| 217 | 276 | Matt Dell'Olio |
-| 218 | 276 | Joeliecea Cobb |
+| 217 | 276 | Joeliecea Cobb |
+| 218 | 276 | Matt Dell'Olio |
 | 219 | 273 | Casey Grabner |
 | 220 | 272 | Dennis Bradley |
 | 221 | 272 | Alan George LaRage |
@@ -315,8 +315,8 @@
 | 307 | 200 | Googenheim |
 | 308 | 199 | Carter Jones |
 | 309 | 198 | Calvin Dennis |
-| 310 | 197 | Richard-April Kice |
-| 311 | 197 | Gilles Lanctot |
+| 310 | 197 | Gilles Lanctot |
+| 311 | 197 | Richard-April Kice |
 | 312 | 196 | Megan Cutshaw |
 | 313 | 194 | Denise B |
 | 314 | 194 | SammieJo Guy |

@@ -187,8 +187,8 @@
 | 179 | 490 | Loopy Fallmatch |
 | 180 | 489 | Shannon Matthew Byers |
 | 181 | 488 | Melissa Orth Hunter |
-| 182 | 485 | Terry Jo Jones |
-| 183 | 485 | Dapper Snap |
+| 182 | 485 | Dapper Snap |
+| 183 | 485 | Terry Jo Jones |
 | 184 | 483 | FuzzyNavel |
 | 185 | 480 | Danielle Allison |
 | 186 | 479 | Poppy Splitter |
@@ -237,8 +237,8 @@
 | 229 | 387 | Gideon Walker |
 | 230 | 384 | Marci Mize Fandrich |
 | 231 | 383 | Darlene McMillan |
-| 232 | 382 | Giddy Twistbuilder |
-| 233 | 382 | Scott Carleton |
+| 232 | 382 | Scott Carleton |
+| 233 | 382 | Giddy Twistbuilder |
 | 234 | 380 | Rebecca Bailey |
 | 235 | 379 | rnr junky |
 | 236 | 378 | Chris Bell |
@@ -293,8 +293,8 @@
 | 285 | 312 | Twisty Brick LT |
 | 286 | 312 | LadyTorad |
 | 287 | 309 | Felicia Rocha |
-| 288 | 308 | Katrina Turner |
-| 289 | 308 | Ray Lader |
+| 288 | 308 | Ray Lader |
+| 289 | 308 | Katrina Turner |
 | 290 | 307 | Blocked |
 | 291 | 304 | _melisa223_ |
 | 292 | 303 | Alexmac |
@@ -321,8 +321,8 @@
 | 313 | 287 | Sabrina Hardrick |
 | 314 | 287 | Carol Cain Thurman |
 | 315 | 287 | Hoppy Patternline |
-| 316 | 286 | Lizabeth Fox |
-| 317 | 286 | Salena Whitlock |
+| 316 | 286 | Salena Whitlock |
+| 317 | 286 | Lizabeth Fox |
 | 318 | 284 | Hanna Kim |
 | 319 | 280 | Stephanie Bradley |
 | 320 | 280 | Kaycee Kay |
@@ -385,9 +385,9 @@
 | 377 | 244 | LaNette Morgan |
 | 378 | 244 | Tegan Chapman |
 | 379 | 244 | Lys |
-| 380 | 243 | Block Baddie |
-| 381 | 243 | Paula Little |
-| 382 | 243 | Josh Borquez |
+| 380 | 243 | Josh Borquez |
+| 381 | 243 | Block Baddie |
+| 382 | 243 | Paula Little |
 | 383 | 242 | Michael Latasha Gray |
 | 384 | 240 | Ashley Lynn Marchese |
 | 385 | 240 | Brian Battjes |
