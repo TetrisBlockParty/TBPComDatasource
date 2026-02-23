@@ -305,16 +305,16 @@
 | 297 | 305 | Larry Tilton |
 | 298 | 303 | DaRascal |
 | 299 | 302 | LaFontaine Leslie |
-| 300 | 301 | Chad Atchley |
-| 301 | 301 | Brave Wrecker |
-| 302 | 301 | Glitzy Curvebuilder |
+| 300 | 301 | Brave Wrecker |
+| 301 | 301 | Glitzy Curvebuilder |
+| 302 | 301 | Chad Atchley |
 | 303 | 300 | Giggly Builderline |
 | 304 | 299 | LD1 |
 | 305 | 298 | Kimberly Davis |
 | 306 | 298 | Sweetts |
 | 307 | 297 | Diane Byrd |
-| 308 | 294 | Наталья Солоид |
-| 309 | 294 | Chummy Rollblock |
+| 308 | 294 | Chummy Rollblock |
+| 309 | 294 | Наталья Солоид |
 | 310 | 293 | Garrett Burket |
 | 311 | 292 | Damian Salem |
 | 312 | 292 | Clever Cascadepiece |
@@ -985,8 +985,8 @@
 | 977 | 86 | Katie Oehmann Mosier |
 | 978 | 86 | Charles Holland |
 | 979 | 86 | Jeffrey Scott Younkins |
-| 980 | 86 | Daring Wiper |
-| 981 | 86 | Michele Baucom |
+| 980 | 86 | Michele Baucom |
+| 981 | 86 | Daring Wiper |
 | 982 | 86 | Dione Winter Heilich |
 | 983 | 85 | Chris Baker |
 | 984 | 85 | Chilly Piececlear |

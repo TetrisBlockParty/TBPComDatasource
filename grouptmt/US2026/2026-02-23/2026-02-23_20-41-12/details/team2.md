@@ -202,8 +202,8 @@
 | 194 | 1601 | Ray Ray Prado |
 | 195 | 1600 | Mo Shine On |
 | 196 | 1592 | Dolores Russworn |
-| 197 | 1590 | Jaycee |
-| 198 | 1590 | Amy Sayers |
+| 197 | 1590 | Amy Sayers |
+| 198 | 1590 | Jaycee |
 | 199 | 1585 | Glitzy Stackzone |
 | 200 | 1580 | Sally Dennis |
 | 201 | 1569 | Ashley Dow |
@@ -429,8 +429,8 @@
 | 421 | 907 | Gene Mills |
 | 422 | 905 | Adam Simmons |
 | 423 | 903 | Ashle Scranton |
-| 424 | 903 | Sarah DeHart |
-| 425 | 903 | Eric Castaneda |
+| 424 | 903 | Eric Castaneda |
+| 425 | 903 | Sarah DeHart |
 | 426 | 902 | Felicia Lynn |
 | 427 | 899 | Patrick Bartlett |
 | 428 | 899 | Chevy |
@@ -459,8 +459,8 @@
 | 451 | 857 | Caitlyn Blackwell |
 | 452 | 853 | Elisheva Mizrachi |
 | 453 | 853 | Meghan M |
-| 454 | 852 | Kimmy Newman |
-| 455 | 852 | AgileDragon |
+| 454 | 852 | AgileDragon |
+| 455 | 852 | Kimmy Newman |
 | 456 | 852 | Samantha Scibelli |
 | 457 | 849 | Ann Matzkanin |
 | 458 | 849 | Amber Gray |
@@ -520,8 +520,8 @@
 | 512 | 786 | Charvi' Carter |
 | 513 | 785 | Miranda Morris |
 | 514 | 781 | Sarah Berger |
-| 515 | 778 | Breezy Filler |
-| 516 | 778 | tejas25 |
+| 515 | 778 | tejas25 |
+| 516 | 778 | Breezy Filler |
 | 517 | 777 | Tesha Oldaker |
 | 518 | 776 | Fancy Twister |
 | 519 | 774 | Cherrica Newman |
