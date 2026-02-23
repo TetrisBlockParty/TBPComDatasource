@@ -85,8 +85,8 @@
 | 77 | 641 | Cartier |
 | 78 | 612 | Hasbro Bros |
 | 79 | 599 | Cynthia Bradley |
-| 80 | 598 | Erin Hodges Plumb |
-| 81 | 598 | Kellie |
+| 80 | 598 | Kellie |
+| 81 | 598 | Erin Hodges Plumb |
 | 82 | 597 | Evie Khalil |
 | 83 | 588 | Greg Hart |
 | 84 | 584 | Jen Sartain |
@@ -177,12 +177,12 @@
 | 169 | 341 | Erin Rosberg |
 | 170 | 339 | Nicole Roseberry Weber |
 | 171 | 338 | Jennifer Hardman |
-| 172 | 337 | Constance Risner |
-| 173 | 337 | Jamise Brown |
+| 172 | 337 | Jamise Brown |
+| 173 | 337 | Constance Risner |
 | 174 | 336 | Dizzy Party |
 | 175 | 333 | Gracie |
-| 176 | 332 | Margo Wagner |
-| 177 | 332 | Lehrin Maria |
+| 176 | 332 | Lehrin Maria |
+| 177 | 332 | Margo Wagner |
 | 178 | 325 | Tyler Werts |
 | 179 | 324 | Rat666 |
 | 180 | 323 | Madison Wicks |
@@ -193,9 +193,9 @@
 | 185 | 316 | Reesey Enyart |
 | 186 | 315 | Danielle Little-Daugherty |
 | 187 | 314 | Tana |
-| 188 | 312 | Mike Ames |
-| 189 | 312 | Jessi Sauer |
-| 190 | 312 | Kimberly Garcia |
+| 188 | 312 | Kimberly Garcia |
+| 189 | 312 | Mike Ames |
+| 190 | 312 | Jessi Sauer |
 | 191 | 310 | Bloknboy |
 | 192 | 307 | Witty Builderfit |
 | 193 | 307 | femmefatale |
@@ -211,8 +211,8 @@
 | 203 | 295 | Sleepysloath5745 |
 | 204 | 294 | Bindi |
 | 205 | 293 | John Kim |
-| 206 | 291 | Brave Wrecker |
-| 207 | 291 | Giddy Cascade |
+| 206 | 291 | Giddy Cascade |
+| 207 | 291 | Brave Wrecker |
 | 208 | 290 | Speedy Liney |
 | 209 | 285 | Shanae Grant |
 | 210 | 283 | Franswa |

@@ -228,8 +228,8 @@
 | 220 | 430 | Jeni Dow |
 | 221 | 415 | ren |
 | 222 | 414 | Fran Lin |
-| 223 | 410 | Mcathen |
-| 224 | 410 | Stephanie Simpson |
+| 223 | 410 | Stephanie Simpson |
+| 224 | 410 | Mcathen |
 | 225 | 410 | Duane Bright |
 | 226 | 408 | Tiffany Ford |
 | 227 | 404 | Chasity |
@@ -257,8 +257,8 @@
 | 249 | 371 | block chick |
 | 250 | 369 | Keis |
 | 251 | 369 | Snazzy Filler |
-| 252 | 368 | Sheila M Frazier |
-| 253 | 368 | Stephanie Woods |
+| 252 | 368 | Stephanie Woods |
+| 253 | 368 | Sheila M Frazier |
 | 254 | 367 | Kristin Delibac Corrigan |
 | 255 | 366 | Randy Clevenger |
 | 256 | 365 | Noyb Adam |

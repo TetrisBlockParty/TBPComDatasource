@@ -776,8 +776,8 @@
 | 768 | 435 | Taylor Flowers |
 | 769 | 435 | John |
 | 770 | 434 | Twisty Tetriblast |
-| 771 | 433 | Tabs Reichert |
-| 772 | 433 | Snappy snappers |
+| 771 | 433 | Snappy snappers |
+| 772 | 433 | Tabs Reichert |
 | 773 | 433 | Jessica Hughes |
 | 774 | 433 | Melissa Koria |
 | 775 | 431 | Quinn |
@@ -814,8 +814,8 @@
 | 806 | 416 | Gina Caulder |
 | 807 | 415 | Noel Tarmy |
 | 808 | 414 | Cini |
-| 809 | 414 | Rose Fx |
-| 810 | 414 | Court |
+| 809 | 414 | Court |
+| 810 | 414 | Rose Fx |
 | 811 | 413 | Ashley Robbins |
 | 812 | 413 | Moist_B-hole |
 | 813 | 413 | Abby Klaski |
