@@ -84,8 +84,8 @@
 | 76 | 646 | Susanna Guerry |
 | 77 | 641 | Cartier |
 | 78 | 599 | Cynthia Bradley |
-| 79 | 598 | Erin Hodges Plumb |
-| 80 | 598 | Kellie |
+| 79 | 598 | Kellie |
+| 80 | 598 | Erin Hodges Plumb |
 | 81 | 588 | Greg Hart |
 | 82 | 584 | Jen Sartain |
 | 83 | 583 | Theo Pinnow |

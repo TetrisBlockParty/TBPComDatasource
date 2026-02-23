@@ -71,8 +71,8 @@
 | 63 | 776 | Rachel Anne |
 | 64 | 772 | Ashley Ingram |
 | 65 | 767 | Shannon Ferrari |
-| 66 | 766 | Edward White |
-| 67 | 766 | Robin Watters |
+| 66 | 766 | Robin Watters |
+| 67 | 766 | Edward White |
 | 68 | 761 | Robin Getchel |
 | 69 | 753 | Denise Carlson |
 | 70 | 752 | loulou |
@@ -86,8 +86,8 @@
 | 78 | 704 | Crystal Carroll |
 | 79 | 703 | Savannah Overdorf |
 | 80 | 697 | Alyssa Papen |
-| 81 | 684 | Kimyatta Cavin |
-| 82 | 684 | Jonathan Kimbrough |
+| 81 | 684 | Jonathan Kimbrough |
+| 82 | 684 | Kimyatta Cavin |
 | 83 | 677 | Trista Leah |
 | 84 | 673 | Jacqueline Helm |
 | 85 | 667 | Shane Kalamata Platoon |
@@ -134,8 +134,8 @@
 | 126 | 456 | Jolly Dashfit |
 | 127 | 451 | Peachy Fall |
 | 128 | 448 | Kristin Manee |
-| 129 | 435 | Leslie Thomas |
-| 130 | 435 | Kristina Black |
+| 129 | 435 | Kristina Black |
+| 130 | 435 | Leslie Thomas |
 | 131 | 431 | Courtney Cicoria |
 | 132 | 428 | Austin Owens |
 | 133 | 425 | Monica Daley |
@@ -157,11 +157,11 @@
 | 149 | 393 | Trish |
 | 150 | 391 | Ramel Rhodes |
 | 151 | 389 | Joseph Guthrie |
-| 152 | 387 | 🥔🥔 Spudz |
-| 153 | 387 | Lucas J Sutton |
+| 152 | 387 | Lucas J Sutton |
+| 153 | 387 | 🥔🥔 Spudz |
 | 154 | 377 | Carrie Brian |
-| 155 | 375 | Desi Desporte |
-| 156 | 375 | ThaEviLJeNiuZ |
+| 155 | 375 | ThaEviLJeNiuZ |
+| 156 | 375 | Desi Desporte |
 | 157 | 374 | Guy Incognito |
 | 158 | 374 | Leslie Nicole |
 | 159 | 373 | Tyler Terrific |
@@ -239,15 +239,15 @@
 | 231 | 270 | Juls |
 | 232 | 266 | Mr. Party |
 | 233 | 265 | Sarah Neathery |
-| 234 | 264 | Carlos Ramirez |
-| 235 | 264 | Stella |
+| 234 | 264 | Stella |
+| 235 | 264 | Carlos Ramirez |
 | 236 | 264 | Silly SeaWeed |
 | 237 | 263 | JPW |
 | 238 | 262 | Selena Shaw |
 | 239 | 262 | BigSammy420 |
 | 240 | 260 | Carter Jones |
-| 241 | 259 | Allen Lloyd |
-| 242 | 259 | Montiette Mcglown |
+| 241 | 259 | Montiette Mcglown |
+| 242 | 259 | Allen Lloyd |
 | 243 | 257 | PeaceOs |
 | 244 | 256 | Metsfan |
 | 245 | 256 | Mylo Lipscomb |
@@ -256,12 +256,12 @@
 | 248 | 252 | John Brunetti |
 | 249 | 251 | Carol Ricks Raymond |
 | 250 | 249 | Ak Jones |
-| 251 | 248 | Jose Dejesus |
-| 252 | 248 | Chirpy Basepiece |
+| 251 | 248 | Chirpy Basepiece |
+| 252 | 248 | Jose Dejesus |
 | 253 | 245 | rebel4lyfe |
 | 254 | 245 | 23 |
-| 255 | 244 | Elizabeth Tinoco |
-| 256 | 244 | Christina Black |
+| 255 | 244 | Christina Black |
+| 256 | 244 | Elizabeth Tinoco |
 | 257 | 243 | Nick Gray |
 | 258 | 240 | Lori |
 | 259 | 240 | Perky Patternblock |
@@ -423,8 +423,8 @@
 | 415 | 162 | Brandon Link |
 | 416 | 162 | Circuit8 |
 | 417 | 161 | Ruby Khalisadar |
-| 418 | 160 | Helen Chao |
-| 419 | 160 | Heather Layne Smith |
+| 418 | 160 | Heather Layne Smith |
+| 419 | 160 | Helen Chao |
 | 420 | 159 | Groovy Brickmatch |
 | 421 | 158 | Jasmine S Caldwell |
 | 422 | 157 | LunaMoon |
@@ -496,7 +496,7 @@
 | 488 | 139 | Angie Schmidt |
 | 489 | 138 | Lynn Marie |
 | 490 | 138 | Hasty Fitzone |
-| 491 | 137 | Red |
+| 491 | 137 | Brianna Walker |
 | 492 | 137 | Shirl |
 | 493 | 137 | Red |
 | 494 | 137 | April Spoelma |
