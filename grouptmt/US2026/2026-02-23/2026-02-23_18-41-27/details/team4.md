@@ -267,8 +267,8 @@
 | 259 | 330 | Kathy Brookins |
 | 260 | 329 | Brickh4us |
 | 261 | 324 | jim |
-| 262 | 324 | Lauren Lamb |
-| 263 | 324 | Nubian1 |
+| 262 | 324 | Nubian1 |
+| 263 | 324 | Lauren Lamb |
 | 264 | 324 | TinyLegoRose |
 | 265 | 322 | Manny1 |
 | 266 | 321 | Meagan Nicole |
@@ -281,8 +281,8 @@
 | 273 | 311 | Nikki Rae Gordon |
 | 274 | 310 | Stacey Stano |
 | 275 | 308 | Leah Kutz Zirbel |
-| 276 | 307 | Angie Schmidt |
-| 277 | 307 | Tina Lopez |
+| 276 | 307 | Tina Lopez |
+| 277 | 307 | Angie Schmidt |
 | 278 | 306 | PeaceOs |
 | 279 | 306 | Lora |
 | 280 | 306 | mike |
@@ -300,8 +300,8 @@
 | 292 | 292 | Blessedmama |
 | 293 | 291 | Dizzy Matchzone |
 | 294 | 290 | Jared Gutwein |
-| 295 | 290 | Heather Bruce |
-| 296 | 290 | Neirrah B Olailjeel |
+| 295 | 290 | Neirrah B Olailjeel |
+| 296 | 290 | Heather Bruce |
 | 297 | 289 | Juls |
 | 298 | 288 | Brittney Orengo |
 | 299 | 287 | Kim Klutz Olson |
@@ -325,8 +325,8 @@
 | 317 | 272 | Dennis Bradley |
 | 318 | 272 | Tony Pavelka |
 | 319 | 271 | Holly |
-| 320 | 270 | 23 |
-| 321 | 270 | Brittany Little |
+| 320 | 270 | Brittany Little |
+| 321 | 270 | 23 |
 | 322 | 270 | 07VHVW |
 | 323 | 268 | Chance Strickland |
 | 324 | 268 | Shukee Lo |
@@ -425,14 +425,14 @@
 | 417 | 215 | Tanya Abernathy Jackson |
 | 418 | 215 | Squeezy Pearsall |
 | 419 | 214 | Victoria Faniel |
-| 420 | 214 | B Renee Desjardin |
-| 421 | 214 | Susan R. Wilson |
+| 420 | 214 | Susan R. Wilson |
+| 421 | 214 | B Renee Desjardin |
 | 422 | 213 | Derick |
 | 423 | 212 | Mike Solo |
 | 424 | 211 | Shiny Pivoty |
 | 425 | 211 | Becky Shimko |
-| 426 | 210 | Cool Gridzone |
-| 427 | 210 | Jessica Atkinson |
+| 426 | 210 | Jessica Atkinson |
+| 427 | 210 | Cool Gridzone |
 | 428 | 210 | Vanessa Smart |
 | 429 | 209 | Marcus Todd |
 | 430 | 209 | PennyCandee |

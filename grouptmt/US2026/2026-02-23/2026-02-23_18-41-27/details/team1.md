@@ -344,10 +344,10 @@
 | 336 | 263 | Nadine Velardo |
 | 337 | 262 | Tyler L Hunt |
 | 338 | 262 | Mary Love |
-| 339 | 261 | Angela Fairbank |
-| 340 | 261 | Brooke Elizabeth Antill |
-| 341 | 260 | Lacy Wolfe |
-| 342 | 260 | Marianita Garcia |
+| 339 | 261 | Brooke Elizabeth Antill |
+| 340 | 261 | Angela Fairbank |
+| 341 | 260 | Marianita Garcia |
+| 342 | 260 | Lacy Wolfe |
 | 343 | 259 | Tiffany Smith |
 | 344 | 258 | Silly Align |
 | 345 | 257 | Ric Hard Hernandez |
