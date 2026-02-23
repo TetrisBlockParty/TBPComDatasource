@@ -66,8 +66,8 @@
 | 58 | 892 | Seth Wesson |
 | 59 | 874 | Kristen Roles Robben |
 | 60 | 858 | Michelle Nicole |
-| 61 | 850 | Andrea Dañielle Ortiz |
-| 62 | 850 | comrade fish |
+| 61 | 850 | comrade fish |
+| 62 | 850 | Andrea Dañielle Ortiz |
 | 63 | 845 | Drew Magnus |
 | 64 | 829 | Sevens4L |
 | 65 | 818 | Patrick Luckenbill |

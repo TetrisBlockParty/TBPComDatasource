@@ -66,8 +66,8 @@
 | 58 | 864 | Shelly Chandler |
 | 59 | 863 | Pee |
 | 60 | 859 | TeeJ |
-| 61 | 846 | Lucille Truesdale |
-| 62 | 846 | Christine Marie |
+| 61 | 846 | Christine Marie |
+| 62 | 846 | Lucille Truesdale |
 | 63 | 834 | quicksand420 |
 | 64 | 807 | Rachel Anne |
 | 65 | 807 | Amelpss |
@@ -102,8 +102,8 @@
 | 94 | 659 | Jamie Gustafson |
 | 95 | 653 | Rica Mitchell |
 | 96 | 650 | KJ Pool |
-| 97 | 647 | KM8 |
-| 98 | 647 | Shauna Havard |
+| 97 | 647 | Shauna Havard |
+| 98 | 647 | KM8 |
 | 99 | 646 | Eric Mcgaughy |
 | 100 | 626 | Brittney Griggs |
 | 101 | 622 | Nugget |
@@ -132,8 +132,8 @@
 | 124 | 514 | Serena Goodridge |
 | 125 | 514 | Scott Jameson |
 | 126 | 513 | Erin Thomas |
-| 127 | 512 | Casey Jeffcoat |
-| 128 | 512 | Cristy Duerksen |
+| 127 | 512 | Cristy Duerksen |
+| 128 | 512 | Casey Jeffcoat |
 | 129 | 508 | Twisty Clicky |
 | 130 | 493 | Carly Alexis |
 | 131 | 486 | Ellen Durfee |
@@ -164,8 +164,8 @@
 | 156 | 421 | Kesha Brady |
 | 157 | 418 | Marie-Pier Desjardins |
 | 158 | 418 | Lush Linkfall |
-| 159 | 417 | Steph Marie |
-| 160 | 417 | Amanda Pauldo-Ivy |
+| 159 | 417 | Amanda Pauldo-Ivy |
+| 160 | 417 | Steph Marie |
 | 161 | 414 | Swanky Fitline |
 | 162 | 414 | Nope Young |
 | 163 | 413 | Circuit8 |
@@ -291,17 +291,17 @@
 | 283 | 259 | Montiette Mcglown |
 | 284 | 259 | Allen Lloyd |
 | 285 | 257 | PeaceOs |
-| 286 | 256 | Paige Kittles |
+| 286 | 256 | Brittany Marsh |
 | 287 | 256 | Jade Rian |
-| 288 | 256 | Brittany Marsh |
+| 288 | 256 | Paige Kittles |
 | 289 | 254 | Ari Droff |
 | 290 | 253 | Shiny Fit |
 | 291 | 253 | Autum Leigh |
 | 292 | 252 | Deb Rubeck |
 | 293 | 251 | Carol Ricks Raymond |
 | 294 | 249 | Ak Jones |
-| 295 | 248 | Angelito |
-| 296 | 248 | Chirpy Basepiece |
+| 295 | 248 | Chirpy Basepiece |
+| 296 | 248 | Angelito |
 | 297 | 248 | Jose Dejesus |
 | 298 | 245 | 23 |
 | 299 | 244 | Elizabeth Tinoco |
@@ -343,9 +343,9 @@
 | 335 | 220 | Dustin York |
 | 336 | 220 | Jumpy Zonepiece |
 | 337 | 220 | Tina Lopez |
-| 338 | 219 | Shane Vick |
-| 339 | 219 | Stephme310 |
-| 340 | 219 | Orchislactea |
+| 338 | 219 | Orchislactea |
+| 339 | 219 | Shane Vick |
+| 340 | 219 | Stephme310 |
 | 341 | 218 | Janita Parrish |
 | 342 | 217 | Paito |
 | 343 | 217 | Cheery Fitline |
@@ -380,8 +380,8 @@
 | 372 | 198 | Mona Sharma |
 | 373 | 198 | Calvin Dennis |
 | 374 | 197 | Cozy Balancer |
-| 375 | 196 | Blessedmama |
-| 376 | 196 | Maria Hammie |
+| 375 | 196 | Maria Hammie |
+| 376 | 196 | Blessedmama |
 | 377 | 196 | Megan Cutshaw |
 | 378 | 194 | Zany Twisterfit |
 | 379 | 194 | SammieJo Guy |
@@ -609,7 +609,7 @@
 | 601 | 120 | Joni Marie Flanary |
 | 602 | 120 | Verna Neal |
 | 603 | 119 | River Shady Sr. |
-| 604 | 119 | Calen Torez |
+| 604 | 119 | Kourtney Barnes |
 | 605 | 119 | George Tzouganos |
 | 606 | 119 | Calen Torez |
 | 607 | 118 | Jonathan Mahfood |

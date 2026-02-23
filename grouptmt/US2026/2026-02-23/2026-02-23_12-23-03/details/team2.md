@@ -44,8 +44,8 @@
 | 36 | 4280 | Robert Diddle |
 | 37 | 4199 | Claire Noland |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Corrine Hawks Soriano |
-| 40 | 4120 | Kristen Sceurman |
+| 39 | 4120 | Kristen Sceurman |
+| 40 | 4120 | Corrine Hawks Soriano |
 | 41 | 4086 | PandaMama |
 | 42 | 3947 | Melinda Brown |
 | 43 | 3860 | Brittany Alicia |
@@ -686,8 +686,8 @@
 | 678 | 542 | Jarboe |
 | 679 | 540 | Alexis Richardson |
 | 680 | 538 | Jess Morrison |
-| 681 | 538 | Mamachelle Eisweirth |
-| 682 | 538 | Demitri Smith |
+| 681 | 538 | Demitri Smith |
+| 682 | 538 | Mamachelle Eisweirth |
 | 683 | 537 | Kori Beth Babb |
 | 684 | 536 | Rhonda Petro |
 | 685 | 535 | Angela Yantz |

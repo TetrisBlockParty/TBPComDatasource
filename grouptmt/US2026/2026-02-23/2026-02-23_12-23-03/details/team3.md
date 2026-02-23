@@ -27,8 +27,8 @@
 | 19 | 2840 | Chummy Shatterer |
 | 20 | 2697 | River |
 | 21 | 2387 | Susan Valentino |
-| 22 | 2353 | Tetris Master |
-| 23 | 2353 | Laura Melton |
+| 22 | 2353 | Laura Melton |
+| 23 | 2353 | Tetris Master |
 | 24 | 2319 | mjl574 |
 | 25 | 2311 | Brandon Green |
 | 26 | 2271 | Jeana Gilbert |
@@ -78,8 +78,8 @@
 | 70 | 1264 | Amanda L Baker |
 | 71 | 1258 | Danielle Cutler |
 | 72 | 1256 | Jessica Bechler |
-| 73 | 1213 | Nerdy Riseclear |
-| 74 | 1213 | Snappy Glidepiece |
+| 73 | 1213 | Snappy Glidepiece |
+| 74 | 1213 | Nerdy Riseclear |
 | 75 | 1209 | Amanda Adkins |
 | 76 | 1186 | Christian A. Pollard |
 | 77 | 1162 | Gracie |
@@ -169,8 +169,8 @@
 | 161 | 634 | Amber Hughes |
 | 162 | 631 | Grego Daniel |
 | 163 | 630 | yoyo |
-| 164 | 621 | Cherry Parker |
-| 165 | 621 | Sashay Tapae Simpson |
+| 164 | 621 | Sashay Tapae Simpson |
+| 165 | 621 | Cherry Parker |
 | 166 | 616 | Kammy Hill |
 | 167 | 611 | Rochelle Hazelett |
 | 168 | 603 | Jone |
@@ -375,10 +375,10 @@
 | 367 | 296 | Tracy Martin |
 | 368 | 296 | Donna |
 | 369 | 296 | Amy Montz |
-| 370 | 292 | Dakota Graham |
-| 371 | 292 | Arden White Kirsch |
-| 372 | 292 | Kirhonda Autmon |
-| 373 | 292 | Khaleada McGill Banks |
+| 370 | 292 | Arden White Kirsch |
+| 371 | 292 | Dakota Graham |
+| 372 | 292 | Khaleada McGill Banks |
+| 373 | 292 | Kirhonda Autmon |
 | 374 | 289 | Cheryl Hinch Tenbrook |
 | 375 | 289 | DidIdothat |
 | 376 | 288 | Stephanie Bradley |
@@ -394,8 +394,8 @@
 | 386 | 279 | Tosha Griffey |
 | 387 | 279 | Naur |
 | 388 | 278 | Rufus Lincoln |
-| 389 | 277 | Krystal Gerstberger |
-| 390 | 277 | France Vézina |
+| 389 | 277 | France Vézina |
+| 390 | 277 | Krystal Gerstberger |
 | 391 | 277 | Tipsy Zonebuilder |
 | 392 | 277 | Joe-Maggie Mathews |
 | 393 | 276 | Karent524 |
@@ -1024,8 +1024,8 @@
 | 1016 | 115 | Tammi-Jo DeMars |
 | 1017 | 115 | Crystal Kennett |
 | 1018 | 114 | Loony Slider |
-| 1019 | 114 | Tipsy Dashgrid |
-| 1020 | 114 | Rachael Hamelers |
+| 1019 | 114 | Rachael Hamelers |
+| 1020 | 114 | Tipsy Dashgrid |
 | 1021 | 114 | Jazmin Santos |
 | 1022 | 114 | Moniecia Harrison |
 | 1023 | 114 | monied |
