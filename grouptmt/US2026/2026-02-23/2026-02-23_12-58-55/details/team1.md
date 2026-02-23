@@ -79,8 +79,8 @@
 | 71 | 760 | Seante Bullock |
 | 72 | 759 | Jacqueline Williams |
 | 73 | 750 | Cartier |
-| 74 | 713 | Snappy Swiper |
-| 75 | 713 | Robert Benito |
+| 74 | 713 | Robert Benito |
+| 75 | 713 | Snappy Swiper |
 | 76 | 704 | Karin Gillen |
 | 77 | 703 | Angel Fowler |
 | 78 | 689 | Susanna Guerry |
@@ -105,8 +105,8 @@
 | 97 | 553 | And |
 | 98 | 537 | Stephanie Zahn |
 | 99 | 535 | Susan Ward |
-| 100 | 534 | Veronica Eve |
-| 101 | 534 | Loony Fitzone |
+| 100 | 534 | Loony Fitzone |
+| 101 | 534 | Veronica Eve |
 | 102 | 529 | Ryan Lunnin |
 | 103 | 522 | Sarah Lombardo |
 | 104 | 522 | Tdub |
@@ -121,8 +121,8 @@
 | 113 | 493 | MomMom |
 | 114 | 492 | Ash Galvan |
 | 115 | 491 | cc |
-| 116 | 489 | April Carroll |
-| 117 | 489 | Deanna L Hermanson |
+| 116 | 489 | Deanna L Hermanson |
+| 117 | 489 | April Carroll |
 | 118 | 483 | Trina Gee |
 | 119 | 477 | Tonya Beasley |
 | 120 | 475 | Sarah Somers Gray |
@@ -180,8 +180,8 @@
 | 172 | 380 | phrmblk24 |
 | 173 | 379 | Austin James |
 | 174 | 376 | Brian Richardsson |
-| 175 | 375 | Connie |
-| 176 | 375 | Tanya Carpenter-Reynolds |
+| 175 | 375 | Tanya Carpenter-Reynolds |
+| 176 | 375 | Connie |
 | 177 | 374 | Howdi Duty |
 | 178 | 372 | Dizzy Party |
 | 179 | 371 | Jason Savage |
@@ -680,11 +680,11 @@
 | 672 | 115 | Aaron Green |
 | 673 | 114 | Christina Torres |
 | 674 | 114 | Dave |
-| 675 | 113 | Roselyn Gomez |
+| 675 | 113 | DENOTS42OSPOT |
 | 676 | 113 | Susan Good |
 | 677 | 113 | I Am |
-| 678 | 113 | Bye Love |
-| 679 | 113 | DENOTS42OSPOT |
+| 678 | 113 | Roselyn Gomez |
+| 679 | 113 | Bye Love |
 | 680 | 112 | Tea Julien |
 | 681 | 112 | Toni Sagenbrecht |
 | 682 | 112 | Kevin Cook |

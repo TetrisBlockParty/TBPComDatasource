@@ -407,8 +407,8 @@
 | 399 | 828 | Desire Rice |
 | 400 | 828 | Kimmy Newman |
 | 401 | 825 | Jeremy Parodi |
-| 402 | 824 | Khalil Lowe |
-| 403 | 824 | Danielle Johnson-Chandler |
+| 402 | 824 | Danielle Johnson-Chandler |
+| 403 | 824 | Khalil Lowe |
 | 404 | 822 | Lola Contreras |
 | 405 | 819 | Victoria Regina Girolami |
 | 406 | 816 | Beth |
@@ -588,8 +588,8 @@
 | 580 | 624 | Belle Mari |
 | 581 | 621 | Taren Cowan |
 | 582 | 618 | Marella Petilo |
-| 583 | 617 | Darcy Mae |
-| 584 | 617 | Kacee Conrad Bock |
+| 583 | 617 | Kacee Conrad Bock |
+| 584 | 617 | Darcy Mae |
 | 585 | 617 | Biggest thing |
 | 586 | 615 | Julio A Laracuente |
 | 587 | 615 | Lyndi Robinson Wakefield |
@@ -620,8 +620,8 @@
 | 612 | 597 | Jamie Schmitt |
 | 613 | 597 | TJ Nash |
 | 614 | 596 | Davetta Sanford |
-| 615 | 595 | Anthony Mignacca |
-| 616 | 595 | Ha Ab |
+| 615 | 595 | Ha Ab |
+| 616 | 595 | Anthony Mignacca |
 | 617 | 594 | Laura Mclean |
 | 618 | 592 | Melissa Kay Gibson |
 | 619 | 592 | Sheronda Jackson |

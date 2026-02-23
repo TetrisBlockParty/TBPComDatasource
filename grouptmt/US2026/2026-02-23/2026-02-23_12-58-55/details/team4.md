@@ -102,8 +102,8 @@
 | 94 | 659 | Jamie Gustafson |
 | 95 | 653 | Rica Mitchell |
 | 96 | 650 | KJ Pool |
-| 97 | 647 | Shauna Havard |
-| 98 | 647 | KM8 |
+| 97 | 647 | KM8 |
+| 98 | 647 | Shauna Havard |
 | 99 | 646 | Eric Mcgaughy |
 | 100 | 635 | Adawna Swires |
 | 101 | 631 | H.R. Block |
@@ -255,14 +255,14 @@
 | 247 | 290 | Jared Gutwein |
 | 248 | 289 | Juls |
 | 249 | 288 | Adam Stephanie Parker |
-| 250 | 288 | Zesty Twistbuilder |
-| 251 | 288 | Brittney Orengo |
+| 250 | 288 | Brittney Orengo |
+| 251 | 288 | Zesty Twistbuilder |
 | 252 | 284 | Matt Dell'Olio |
 | 253 | 284 | Joanna |
 | 254 | 282 | Matt Gooder |
 | 255 | 282 | Kim Klutz Olson |
-| 256 | 281 | Morti |
-| 257 | 281 | Laura |
+| 256 | 281 | Laura |
+| 257 | 281 | Morti |
 | 258 | 280 | Rio Rocha |
 | 259 | 279 | Malakai Darien Fox |
 | 260 | 278 | Angela Geist Jusinski |
@@ -499,19 +499,19 @@
 | 491 | 157 | Ryry |
 | 492 | 157 | David Boggs |
 | 493 | 156 | Mighty Edgepiece |
-| 494 | 155 | Faja |
-| 495 | 155 | Shirl |
-| 496 | 155 | tipsy tiger |
+| 494 | 155 | tipsy tiger |
+| 495 | 155 | Faja |
+| 496 | 155 | Shirl |
 | 497 | 154 | Bryan Hodgins |
 | 498 | 154 | Happy Combo |
 | 499 | 153 | Ahleek Mitchell |
 | 500 | 152 | Michael Orris |
-| 501 | 151 | Joshua Guess |
-| 502 | 151 | Tony Pavelka |
-| 503 | 151 | Walter Beltran |
+| 501 | 151 | Tony Pavelka |
+| 502 | 151 | Walter Beltran |
+| 503 | 151 | Joshua Guess |
 | 504 | 151 | Katie Alexander |
-| 505 | 151 | Brad Campbell |
-| 506 | 151 | Daresha Fair |
+| 505 | 151 | Daresha Fair |
+| 506 | 151 | Brad Campbell |
 | 507 | 150 | Nerdy Linebuilder |
 | 508 | 150 | Jobadia Steelerton |
 | 509 | 150 | PennyCandee |

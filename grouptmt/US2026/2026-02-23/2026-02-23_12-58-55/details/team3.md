@@ -140,8 +140,8 @@
 | 132 | 755 | Raya |
 | 133 | 748 | Adrian Marcel Pate |
 | 134 | 746 | Giddy Drop |
-| 135 | 745 | JerseyJess |
-| 136 | 745 | ren |
+| 135 | 745 | ren |
+| 136 | 745 | JerseyJess |
 | 137 | 744 | Fancy Cascader |
 | 138 | 736 | mzcatzy |
 | 139 | 734 | Calista Jo Dickson |
@@ -398,9 +398,9 @@
 | 390 | 281 | Ava Petito |
 | 391 | 280 | Dirtgirl27 |
 | 392 | 279 | Dana Winters |
-| 393 | 279 | Tosha Griffey |
-| 394 | 279 | Naur |
-| 395 | 279 | Romeo |
+| 393 | 279 | Naur |
+| 394 | 279 | Romeo |
+| 395 | 279 | Tosha Griffey |
 | 396 | 278 | Rufus Lincoln |
 | 397 | 277 | France Vézina |
 | 398 | 277 | Krystal Gerstberger |
@@ -413,8 +413,8 @@
 | 405 | 276 | Crimson |
 | 406 | 275 | Cassandra Bryant |
 | 407 | 274 | Mary Giorgenti |
-| 408 | 273 | Michael Latasha Gray |
-| 409 | 273 | Kevin Fountain |
+| 408 | 273 | Kevin Fountain |
+| 409 | 273 | Michael Latasha Gray |
 | 410 | 272 | AC Yeater |
 | 411 | 272 | Eboni Starr |
 | 412 | 272 | Todd Hall |
