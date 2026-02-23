@@ -95,8 +95,8 @@
 | 87 | 945 | Shonna Roberts |
 | 88 | 939 | Snappy Glidepiece |
 | 89 | 938 | Mandy Smith Oldham |
-| 90 | 926 | Angela M. Fletcher |
-| 91 | 926 | Judi Dobson |
+| 90 | 926 | Judi Dobson |
+| 91 | 926 | Angela M. Fletcher |
 | 92 | 923 | Christine Filson |
 | 93 | 921 | Michelle |
 | 94 | 918 | MissTaylor |
@@ -117,8 +117,8 @@
 | 109 | 831 | Angeline Joseph |
 | 110 | 830 | Stephanie Allmon |
 | 111 | 826 | Shane Wilson Jr. |
-| 112 | 816 | Brenda Lee Vander Molen |
-| 113 | 816 | Jesse Olive |
+| 112 | 816 | Jesse Olive |
+| 113 | 816 | Brenda Lee Vander Molen |
 | 114 | 800 | Lauren Girouard |
 | 115 | 799 | Dolores Falco |
 | 116 | 762 | Speedy Bridger |
@@ -208,8 +208,8 @@
 | 200 | 465 | Annie Déè |
 | 201 | 461 | Shunta Jacobs |
 | 202 | 458 | Danielle Rhoades |
-| 203 | 457 | Edwin Calvillo Jr. |
-| 204 | 457 | Jim Mathews |
+| 203 | 457 | Jim Mathews |
+| 204 | 457 | Edwin Calvillo Jr. |
 | 205 | 453 | Staci George Fitzsimmons |
 | 206 | 452 | Jacqueline Rodriguez |
 | 207 | 452 | Connie Mohler-Fair |
@@ -442,8 +442,8 @@
 | 434 | 227 | Rebel124 |
 | 435 | 226 | Jana Polk |
 | 436 | 226 | Danielle Beaunoyer Jean |
-| 437 | 225 | Goofy Fall |
-| 438 | 225 | Beezwax |
+| 437 | 225 | Beezwax |
+| 438 | 225 | Goofy Fall |
 | 439 | 225 | Sassy Tiler |
 | 440 | 224 | Sarah Morris |
 | 441 | 223 | Ryan Williams |
@@ -483,9 +483,9 @@
 | 475 | 206 | Boldy Blocker |
 | 476 | 206 | Tammy Rosenberry |
 | 477 | 206 | Dakota Graham |
-| 478 | 205 | Rachel Napper |
-| 479 | 205 | Bouncy Blockbuilder |
-| 480 | 205 | Giggly Brickroll |
+| 478 | 205 | Bouncy Blockbuilder |
+| 479 | 205 | Giggly Brickroll |
+| 480 | 205 | Rachel Napper |
 | 481 | 204 | Sassy Brickmatch |
 | 482 | 203 | TLM |
 | 483 | 202 | Rainbow77375 |

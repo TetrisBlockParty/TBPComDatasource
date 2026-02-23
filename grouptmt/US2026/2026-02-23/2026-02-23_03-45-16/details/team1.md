@@ -165,12 +165,12 @@
 | 157 | 350 | Tipsy Strikerpiece |
 | 158 | 346 | GATOR |
 | 159 | 345 | Jerry Danowski |
-| 160 | 344 | Cool Shiftsnap |
-| 161 | 344 | Rachael |
+| 160 | 344 | Rachael |
+| 161 | 344 | Cool Shiftsnap |
 | 162 | 343 | Chelsea Dahlquist |
 | 163 | 343 | Elaine Elaine |
-| 164 | 341 | Nick R Montague |
-| 165 | 341 | Shiny Snapfit |
+| 164 | 341 | Shiny Snapfit |
+| 165 | 341 | Nick R Montague |
 | 166 | 339 | Nicole Roseberry Weber |
 | 167 | 338 | Jennifer Hardman |
 | 168 | 337 | Constance Risner |
@@ -195,14 +195,14 @@
 | 187 | 311 | Letson Melissa |
 | 188 | 310 | Bloknboy |
 | 189 | 307 | femmefatale |
-| 190 | 306 | Angela Renea Lester |
+| 190 | 306 | Happy Basegrid |
 | 191 | 306 | J.F. Fields |
-| 192 | 306 | Happy Basegrid |
+| 192 | 306 | Angela Renea Lester |
 | 193 | 304 | ALFD |
 | 194 | 301 | Damon J. Martin |
 | 195 | 297 | Jen Nystrom |
-| 196 | 296 | Cody Gates |
-| 197 | 296 | Witty Builderfit |
+| 196 | 296 | Witty Builderfit |
+| 197 | 296 | Cody Gates |
 | 198 | 295 | Sleepysloath5745 |
 | 199 | 294 | Margo Wagner |
 | 200 | 294 | Bindi |
@@ -278,8 +278,8 @@
 | 270 | 229 | Dino |
 | 271 | 228 | Adele Rahman |
 | 272 | 227 | Happy Snapbuild |
-| 273 | 226 | Glitzy Buildsnap |
-| 274 | 226 | Snappy Brickbuilder |
+| 273 | 226 | Snappy Brickbuilder |
+| 274 | 226 | Glitzy Buildsnap |
 | 275 | 224 | Jumpy Rotate |
 | 276 | 223 | Christina Backer |
 | 277 | 223 | Layzietyme |
@@ -304,7 +304,7 @@
 | 296 | 216 | Angela Spann |
 | 297 | 216 | Zany Tiler |
 | 298 | 216 | Chad Atchley |
-| 299 | 216 | Angela Spann |
+| 299 | 216 | Shauntina Burke |
 | 300 | 215 | Christina Norman |
 | 301 | 214 | Tiger Lily |
 | 302 | 213 | Itspaigebro |

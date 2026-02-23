@@ -40,8 +40,8 @@
 | 32 | 4274 | Vistabrat |
 | 33 | 4199 | Claire Noland |
 | 34 | 4128 | Angela Pruitt |
-| 35 | 4120 | Kristen Sceurman |
-| 36 | 4120 | Corrine Hawks Soriano |
+| 35 | 4120 | Corrine Hawks Soriano |
+| 36 | 4120 | Kristen Sceurman |
 | 37 | 4093 | Jill Stroehlein |
 | 38 | 3895 | Nickie Baby |
 | 39 | 3778 | Brittany Alicia |
@@ -143,8 +143,8 @@
 | 135 | 1639 | Jessie McDougald |
 | 136 | 1631 | Speedy Spinblock |
 | 137 | 1629 | Mari Ac |
-| 138 | 1623 | Janel Turley-Garner |
-| 139 | 1623 | Rebecca Doughman |
+| 138 | 1623 | Rebecca Doughman |
+| 139 | 1623 | Janel Turley-Garner |
 | 140 | 1605 | Christi Hulet |
 | 141 | 1602 | blackq |
 | 142 | 1601 | Ray Ray Prado |
@@ -209,8 +209,8 @@
 | 201 | 1244 | Teddi Notyalc |
 | 202 | 1243 | Anna Edwards |
 | 203 | 1237 | Megan Ferguson Leone |
-| 204 | 1232 | Ambyre Patterson |
-| 205 | 1232 | Groovy Puzzle |
+| 204 | 1232 | Groovy Puzzle |
+| 205 | 1232 | Ambyre Patterson |
 | 206 | 1230 | Megan Garrick |
 | 207 | 1217 | Brooks Brooks |
 | 208 | 1217 | Lucky Ladybug |

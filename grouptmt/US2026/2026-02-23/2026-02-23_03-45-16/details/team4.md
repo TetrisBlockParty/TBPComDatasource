@@ -92,9 +92,9 @@
 | 84 | 673 | Jacqueline Helm |
 | 85 | 664 | Valerie Roberts |
 | 86 | 659 | Jamie Gustafson |
-| 87 | 647 | Shauna Havard |
-| 88 | 647 | KM8 |
-| 89 | 647 | Diana Houts |
+| 87 | 647 | Diana Houts |
+| 88 | 647 | Shauna Havard |
+| 89 | 647 | KM8 |
 | 90 | 646 | Eric Mcgaughy |
 | 91 | 626 | Brittney Griggs |
 | 92 | 620 | Judy Cox |
@@ -133,8 +133,8 @@
 | 125 | 452 | Jolly Dashfit |
 | 126 | 451 | Peachy Fall |
 | 127 | 448 | Kristin Manee |
-| 128 | 435 | Kristina Black |
-| 129 | 435 | Leslie Thomas |
+| 128 | 435 | Leslie Thomas |
+| 129 | 435 | Kristina Black |
 | 130 | 431 | Courtney Cicoria |
 | 131 | 425 | Monica Daley |
 | 132 | 423 | Austin Owens |
@@ -156,29 +156,29 @@
 | 148 | 393 | Trish |
 | 149 | 391 | Ramel Rhodes |
 | 150 | 389 | Joseph Guthrie |
-| 151 | 387 | Lucas J Sutton |
-| 152 | 387 | 🥔🥔 Spudz |
+| 151 | 387 | 🥔🥔 Spudz |
+| 152 | 387 | Lucas J Sutton |
 | 153 | 377 | Carrie Brian |
 | 154 | 375 | ThaEviLJeNiuZ |
 | 155 | 375 | Desi Desporte |
-| 156 | 374 | Leslie Nicole |
-| 157 | 374 | Guy Incognito |
+| 156 | 374 | Guy Incognito |
+| 157 | 374 | Leslie Nicole |
 | 158 | 373 | Tyler Terrific |
 | 159 | 370 | Oscar Alberto Perez |
 | 160 | 368 | Raegan Lane-Ross |
 | 161 | 368 | Brandon Crabbs |
 | 162 | 368 | Silly Zonebuilder |
 | 163 | 365 | Lindsey Gonzalez |
-| 164 | 361 | Melissa Adams |
-| 165 | 361 | Danielle Kollias |
+| 164 | 361 | Danielle Kollias |
+| 165 | 361 | Melissa Adams |
 | 166 | 359 | Keith Kelley |
 | 167 | 358 | A5! |
 | 168 | 356 | George Nutt |
 | 169 | 352 | Sue Joyce Staats |
-| 170 | 349 | Rafael Valentin |
-| 171 | 349 | Twisty Cascadezone |
-| 172 | 348 | TRCuse |
-| 173 | 348 | April Rondinone |
+| 170 | 349 | Twisty Cascadezone |
+| 171 | 349 | Rafael Valentin |
+| 172 | 348 | April Rondinone |
+| 173 | 348 | TRCuse |
 | 174 | 347 | Daria Rycewicz |
 | 175 | 339 | David Lay |
 | 176 | 333 | shark tato |
@@ -200,16 +200,16 @@
 | 192 | 307 | Michele Plunkett |
 | 193 | 306 | blockstar |
 | 194 | 305 | Melvin Baird |
-| 195 | 304 | Mary Ann Pabukis |
-| 196 | 304 | Lindsay Ball |
+| 195 | 304 | Lindsay Ball |
+| 196 | 304 | Mary Ann Pabukis |
 | 197 | 302 | Cursed Hag |
 | 198 | 301 | Andria Lynn |
 | 199 | 300 | Dana Scott |
 | 200 | 300 | Zakia Monae |
 | 201 | 300 | Dihcheese444 |
 | 202 | 299 | Chris Hartig |
-| 203 | 294 | Calvin Cannon |
-| 204 | 294 | Porkobello |
+| 203 | 294 | Porkobello |
+| 204 | 294 | Calvin Cannon |
 | 205 | 292 | Epic Curvetile |
 | 206 | 290 | Keshia Lyons |
 | 207 | 290 | Jared Gutwein |
@@ -251,8 +251,8 @@
 | 243 | 256 | Metsfan |
 | 244 | 256 | Mylo Lipscomb |
 | 245 | 253 | Autum Leigh |
-| 246 | 252 | John Brunetti |
-| 247 | 252 | Zethra Prenisha Rahming |
+| 246 | 252 | Zethra Prenisha Rahming |
+| 247 | 252 | John Brunetti |
 | 248 | 251 | Carol Ricks Raymond |
 | 249 | 249 | Ak Jones |
 | 250 | 248 | Chirpy Basepiece |
@@ -279,8 +279,8 @@
 | 271 | 233 | Ruben Wheeler |
 | 272 | 232 | Rio Rocha |
 | 273 | 228 | Bethany Ison |
-| 274 | 226 | Dizzy Matchzone |
-| 275 | 226 | Cranky Rollpiece |
+| 274 | 226 | Cranky Rollpiece |
+| 275 | 226 | Dizzy Matchzone |
 | 276 | 225 | Jenna McGeorge |
 | 277 | 223 | Adawna Swires |
 | 278 | 223 | Amanda Christine |
@@ -524,8 +524,8 @@
 | 516 | 129 | Dreamy Snapgrid |
 | 517 | 129 | The Murphy |
 | 518 | 128 | Lazy Glidepiece |
-| 519 | 128 | Raymond Roberts |
-| 520 | 128 | Zesty Linkgrid |
+| 519 | 128 | Zesty Linkgrid |
+| 520 | 128 | Raymond Roberts |
 | 521 | 127 | Jay You |
 | 522 | 127 | Jennifer Perkins |
 | 523 | 126 | PAPatty |
