@@ -77,8 +77,8 @@
 | 69 | 706 | Seante Bullock |
 | 70 | 705 | comrade fish |
 | 71 | 704 | Karin Gillen |
-| 72 | 703 | Angel Fowler |
-| 73 | 703 | Snappy Swiper |
+| 72 | 703 | Snappy Swiper |
+| 73 | 703 | Angel Fowler |
 | 74 | 655 | Brenda Stewart |
 | 75 | 652 | Cartier |
 | 76 | 647 | Jason Jones |
@@ -103,8 +103,8 @@
 | 95 | 522 | Sarah Lombardo |
 | 96 | 510 | Colena Davenport |
 | 97 | 497 | Arianna O'Brien |
-| 98 | 493 | MomMom |
-| 99 | 493 | Jennifer ManWarren |
+| 98 | 493 | Jennifer ManWarren |
+| 99 | 493 | MomMom |
 | 100 | 492 | Ash Galvan |
 | 101 | 489 | Deanna L Hermanson |
 | 102 | 488 | cc |
@@ -125,8 +125,8 @@
 | 117 | 440 | Stephanie Zahn |
 | 118 | 439 | Dee Perry |
 | 119 | 436 | Tonya Beasley |
-| 120 | 434 | Yvonne Marie |
-| 121 | 434 | Ty Brown |
+| 120 | 434 | Ty Brown |
+| 121 | 434 | Yvonne Marie |
 | 122 | 431 | Chirpy Smasher |
 | 123 | 428 | Ly Phethmany |
 | 124 | 426 | Maria C. Hernandez |

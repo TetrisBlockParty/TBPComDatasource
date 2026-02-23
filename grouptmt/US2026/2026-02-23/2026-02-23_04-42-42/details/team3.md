@@ -117,8 +117,8 @@
 | 109 | 831 | Angeline Joseph |
 | 110 | 830 | Stephanie Allmon |
 | 111 | 826 | Shane Wilson Jr. |
-| 112 | 816 | Jesse Olive |
-| 113 | 816 | Brenda Lee Vander Molen |
+| 112 | 816 | Brenda Lee Vander Molen |
+| 113 | 816 | Jesse Olive |
 | 114 | 800 | Lauren Girouard |
 | 115 | 799 | Dolores Falco |
 | 116 | 769 | Kristie |
@@ -127,8 +127,8 @@
 | 119 | 750 | Logan Naccarato |
 | 120 | 748 | Adrian Marcel Pate |
 | 121 | 745 | JerseyJess |
-| 122 | 744 | Leah Barnett |
-| 123 | 744 | Fancy Cascader |
+| 122 | 744 | Fancy Cascader |
+| 123 | 744 | Leah Barnett |
 | 124 | 742 | Groovy Catcher |
 | 125 | 736 | mzcatzy |
 | 126 | 736 | Katrina Schroeder |
@@ -195,12 +195,12 @@
 | 187 | 507 | Jim Mathews |
 | 188 | 502 | Snappy Balancer |
 | 189 | 500 | Sherika C. McDaniels |
-| 190 | 496 | Makelini Mausia |
-| 191 | 496 | Loopy Fallmatch |
+| 190 | 496 | Loopy Fallmatch |
+| 191 | 496 | Makelini Mausia |
 | 192 | 494 | FuzzyNavel |
 | 193 | 489 | Poppy Splitter |
-| 194 | 489 | Shannon Matthew Byers |
-| 195 | 489 | Terry Jo Jones |
+| 194 | 489 | Terry Jo Jones |
+| 195 | 489 | Shannon Matthew Byers |
 | 196 | 488 | Melissa Orth Hunter |
 | 197 | 485 | Dapper Snap |
 | 198 | 480 | Michael Johnson |
@@ -283,8 +283,8 @@
 | 275 | 346 | Tamara Deherrera |
 | 276 | 345 | MsBee |
 | 277 | 344 | Roary Danner |
-| 278 | 343 | Ashley Rufus Bythcez |
-| 279 | 343 | Ashley Raines |
+| 278 | 343 | Ashley Raines |
+| 279 | 343 | Ashley Rufus Bythcez |
 | 280 | 341 | Ashley Tookes |
 | 281 | 339 | Cynthia Herrmann Egland |
 | 282 | 338 | fraulila |
@@ -443,7 +443,7 @@
 | 435 | 231 | Giggly Brickroll |
 | 436 | 230 | BigE |
 | 437 | 230 | DanceLuvLaugh |
-| 438 | 230 | BigE |
+| 438 | 230 | Angella Lyons |
 | 439 | 229 | Everret Maxine |
 | 440 | 228 | Stephanie Hill |
 | 441 | 228 | Tia |
