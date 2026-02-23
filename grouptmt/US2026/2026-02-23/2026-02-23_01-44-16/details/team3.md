@@ -24,8 +24,8 @@
 | 16 | 2728 | Lauren d |
 | 17 | 2697 | River |
 | 18 | 2503 | Clever Roll |
-| 19 | 2287 | Brandon Green |
-| 20 | 2287 | Tetris Master |
+| 19 | 2287 | Tetris Master |
+| 20 | 2287 | Brandon Green |
 | 21 | 2203 | Ashley Jones |
 | 22 | 2180 | Laura Melton |
 | 23 | 2144 | Zippy Strikesnap |
@@ -61,8 +61,8 @@
 | 53 | 1276 | Aaron Pitkin |
 | 54 | 1269 | Amber Jones |
 | 55 | 1258 | Jennifer Petrie |
-| 56 | 1256 | Jessica Bechler |
-| 57 | 1256 | Mahman |
+| 56 | 1256 | Mahman |
+| 57 | 1256 | Jessica Bechler |
 | 58 | 1191 | Nate Burnside |
 | 59 | 1167 | Elaine Webb Graves |
 | 60 | 1141 | Queen Kam |
@@ -209,8 +209,8 @@
 | 201 | 432 | Jenny Hrndz |
 | 202 | 432 | Christine Trester |
 | 203 | 431 | Wendy Dearden |
-| 204 | 430 | Joye Sims Binion |
-| 205 | 430 | Jeni Dow |
+| 204 | 430 | Jeni Dow |
+| 205 | 430 | Joye Sims Binion |
 | 206 | 429 | Fallorina Susana |
 | 207 | 426 | Rochelle Hazelett |
 | 208 | 419 | Danielle Weikel |
@@ -1116,7 +1116,7 @@
 | 1108 | 85 | Cheryl Kirk |
 | 1109 | 85 | Slappy |
 | 1110 | 85 | Flashy Fallzone |
-| 1111 | 84 | Julie Peters Fancher |
+| 1111 | 84 | Becky Fritz-Schweitzer |
 | 1112 | 84 | Elaine Rodbell |
 | 1113 | 84 | Julie Peters Fancher |
 | 1114 | 84 | Rhonda Prince |

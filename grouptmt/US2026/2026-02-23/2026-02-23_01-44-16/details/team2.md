@@ -202,8 +202,8 @@
 | 194 | 1252 | Angel |
 | 195 | 1243 | Anna Edwards |
 | 196 | 1240 | Teddi Notyalc |
-| 197 | 1232 | Groovy Puzzle |
-| 198 | 1232 | Ambyre Patterson |
+| 197 | 1232 | Ambyre Patterson |
+| 198 | 1232 | Groovy Puzzle |
 | 199 | 1230 | Megan Garrick |
 | 200 | 1211 | Lucky Ladybug |
 | 201 | 1207 | David Cudicio-Hayden |
@@ -229,8 +229,8 @@
 | 221 | 1126 | Dolores Russworn |
 | 222 | 1121 | Tommy Tha Boss Gunz |
 | 223 | 1117 | Sarah Freitas |
-| 224 | 1114 | Ginnell Browner |
-| 225 | 1114 | Kevin Walp |
+| 224 | 1114 | Kevin Walp |
+| 225 | 1114 | Ginnell Browner |
 | 226 | 1111 | Julay |
 | 227 | 1110 | Sheniya Spurgeon |
 | 228 | 1105 | Nerdy Clearfit |
@@ -471,8 +471,8 @@
 | 463 | 632 | Jackie Avila |
 | 464 | 628 | Brownie Sheena |
 | 465 | 628 | g |
-| 466 | 626 | Chab |
-| 467 | 626 | Demeka Dangerous-kisses Johnson |
+| 466 | 626 | Demeka Dangerous-kisses Johnson |
+| 467 | 626 | Chab |
 | 468 | 623 | Kimberly Hope Howell |
 | 469 | 618 | Vanessa Moreno |
 | 470 | 618 | Caitlyn Blackwell |
