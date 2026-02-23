@@ -156,8 +156,8 @@
 | 148 | 1960 | Aimee Campbell |
 | 149 | 1959 | Robin Kerby |
 | 150 | 1936 | Angi Harrison |
-| 151 | 1932 | Gary Schaffner Jr. |
-| 152 | 1932 | Angela Lynn |
+| 151 | 1932 | Angela Lynn |
+| 152 | 1932 | Gary Schaffner Jr. |
 | 153 | 1912 | Tonya Brooks-Johnson |
 | 154 | 1904 | Goofy Snapfit |
 | 155 | 1899 | Jumpy Gridpiece |
@@ -176,8 +176,8 @@
 | 168 | 1767 | niecy |
 | 169 | 1763 | Juliana Marques Do Nascimento Gordy |
 | 170 | 1759 | Nerdy Pattern |
-| 171 | 1751 | Bob |
-| 172 | 1751 | Woodys Glass |
+| 171 | 1751 | Woodys Glass |
+| 172 | 1751 | Bob |
 | 173 | 1729 | Eboni Banks |
 | 174 | 1726 | Denise Rickman |
 | 175 | 1724 | Tony Lea |
@@ -443,8 +443,8 @@
 | 435 | 894 | Adira Brown |
 | 436 | 888 | Leslie Ann Carter |
 | 437 | 883 | Hong Tang |
-| 438 | 881 | Johnny Yeates |
-| 439 | 881 | Aireka Roman |
+| 438 | 881 | Aireka Roman |
+| 439 | 881 | Johnny Yeates |
 | 440 | 877 | Misti Markijohn |
 | 441 | 876 | Jessicah Myers |
 | 442 | 876 | Jelly |
@@ -469,8 +469,8 @@
 | 461 | 844 | Terri McKelvey McKinley |
 | 462 | 843 | Quirky Twistline |
 | 463 | 841 | Dennis McLaurin |
-| 464 | 840 | Traci Johnson |
-| 465 | 840 | Kiana Boschh |
+| 464 | 840 | Kiana Boschh |
+| 465 | 840 | Traci Johnson |
 | 466 | 835 | William David Swallow |
 | 467 | 835 | Moni Foxe |
 | 468 | 834 | Montez Mancil |
@@ -506,8 +506,8 @@
 | 498 | 804 | Becca Coronado |
 | 499 | 801 | Diana Fitzwater |
 | 500 | 798 | Melissa Cole |
-| 501 | 797 | Mighty Spinbuilder |
-| 502 | 797 | Alex Dungo Hoang |
+| 501 | 797 | Alex Dungo Hoang |
+| 502 | 797 | Mighty Spinbuilder |
 | 503 | 796 | AndrewandShela Gornik |
 | 504 | 794 | Lindsey Leigh |
 | 505 | 793 | Eunique Griffin |

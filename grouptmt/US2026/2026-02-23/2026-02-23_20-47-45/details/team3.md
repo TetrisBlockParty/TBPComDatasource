@@ -108,8 +108,8 @@
 | 100 | 1101 | Stephanie Rice |
 | 101 | 1097 | JerseyJess |
 | 102 | 1093 | Angela M. Fletcher |
-| 103 | 1056 | Ebony West-Cundiff |
-| 104 | 1056 | joclisa |
+| 103 | 1056 | joclisa |
+| 104 | 1056 | Ebony West-Cundiff |
 | 105 | 1050 | Sherika C. McDaniels |
 | 106 | 1041 | Patricia Gadsden |
 | 107 | 1038 | Mandy Smith Oldham |
@@ -374,8 +374,8 @@
 | 366 | 358 | Ashley Rufus Bythcez |
 | 367 | 356 | Alexmac |
 | 368 | 356 | Tony Waters |
-| 369 | 352 | Tiffany Davie |
-| 370 | 352 | LadyTorad |
+| 369 | 352 | LadyTorad |
+| 370 | 352 | Tiffany Davie |
 | 371 | 352 | xsiv |
 | 372 | 351 | Eon Harris |
 | 373 | 351 | Romeo |

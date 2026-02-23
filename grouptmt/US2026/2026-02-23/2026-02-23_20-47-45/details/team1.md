@@ -218,8 +218,8 @@
 | 210 | 384 | Tami Luce Martin |
 | 211 | 383 | pjbeta |
 | 212 | 383 | Margo Wagner |
-| 213 | 380 | Bindi |
-| 214 | 380 | David Lutcher |
+| 213 | 380 | David Lutcher |
+| 214 | 380 | Bindi |
 | 215 | 379 | Austin James |
 | 216 | 379 | Daring Fitclear |
 | 217 | 378 | Angela Renea Lester |
@@ -255,8 +255,8 @@
 | 247 | 348 | John Kim |
 | 248 | 347 | Chantelle Ceno |
 | 249 | 346 | GATOR |
-| 250 | 345 | Keith Mathis |
-| 251 | 345 | Jamie Jury |
+| 250 | 345 | Jamie Jury |
+| 251 | 345 | Keith Mathis |
 | 252 | 344 | dhardy |
 | 253 | 341 | Nick R Montague |
 | 254 | 341 | DoodleBug |

@@ -123,8 +123,8 @@
 | 115 | 658 | Zippy Gridlock |
 | 116 | 658 | Girl |
 | 117 | 656 | Leslie Nicole |
-| 118 | 647 | Lindsey Gonzalez |
-| 119 | 647 | KM8 |
+| 118 | 647 | KM8 |
+| 119 | 647 | Lindsey Gonzalez |
 | 120 | 646 | Adawna Swires |
 | 121 | 644 | Chris Hartig |
 | 122 | 639 | Patron Anderson |
@@ -234,8 +234,8 @@
 | 226 | 383 | Brickh4us |
 | 227 | 383 | blockstar |
 | 228 | 381 | Plucky Patternblock |
-| 229 | 380 | Zesty Twistbuilder |
-| 230 | 380 | Rio Rocha |
+| 229 | 380 | Rio Rocha |
+| 230 | 380 | Zesty Twistbuilder |
 | 231 | 379 | Backoff Recupe |
 | 232 | 378 | Lauren Scott |
 | 233 | 376 | shark tato |
@@ -341,8 +341,8 @@
 | 333 | 276 | Susan Williams |
 | 334 | 276 | Cynthia Boudreau |
 | 335 | 274 | Jenna McGeorge |
-| 336 | 272 | Tony Pavelka |
-| 337 | 272 | Dennis Bradley |
+| 336 | 272 | Dennis Bradley |
+| 337 | 272 | Tony Pavelka |
 | 338 | 271 | Holly |
 | 339 | 270 | 23 |
 | 340 | 270 | 07VHVW |
