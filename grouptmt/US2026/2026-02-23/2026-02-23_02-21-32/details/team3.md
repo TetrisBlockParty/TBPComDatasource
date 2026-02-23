@@ -61,8 +61,8 @@
 | 53 | 1276 | Aaron Pitkin |
 | 54 | 1269 | Amber Jones |
 | 55 | 1258 | Jennifer Petrie |
-| 56 | 1256 | Mahman |
-| 57 | 1256 | Jessica Bechler |
+| 56 | 1256 | Jessica Bechler |
+| 57 | 1256 | Mahman |
 | 58 | 1191 | Nate Burnside |
 | 59 | 1167 | Elaine Webb Graves |
 | 60 | 1141 | Queen Kam |
@@ -90,8 +90,8 @@
 | 82 | 945 | Shonna Roberts |
 | 83 | 938 | Mandy Smith Oldham |
 | 84 | 935 | Snappy Glidepiece |
-| 85 | 926 | Angela M. Fletcher |
-| 86 | 926 | Judi Dobson |
+| 85 | 926 | Judi Dobson |
+| 86 | 926 | Angela M. Fletcher |
 | 87 | 923 | Christine Filson |
 | 88 | 921 | Michelle |
 | 89 | 913 | MissTaylor |
@@ -479,9 +479,9 @@
 | 471 | 199 | Cheeky Setter |
 | 472 | 198 | Zac Hudak |
 | 473 | 198 | joz |
-| 474 | 197 | Rainbow77375 |
-| 475 | 197 | momo |
-| 476 | 197 | Nichol Graham |
+| 474 | 197 | momo |
+| 475 | 197 | Nichol Graham |
+| 476 | 197 | Rainbow77375 |
 | 477 | 196 | Joshua David Huie |
 | 478 | 196 | Jl |
 | 479 | 196 | Daring Brickzone |

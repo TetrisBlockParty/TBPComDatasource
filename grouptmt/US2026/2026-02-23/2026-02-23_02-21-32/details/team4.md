@@ -55,8 +55,8 @@
 | 47 | 893 | Jae Job |
 | 48 | 855 | Marvin Lou Martin |
 | 49 | 853 | TeeJ |
-| 50 | 846 | Christine Marie |
-| 51 | 846 | Lucille Truesdale |
+| 50 | 846 | Lucille Truesdale |
+| 51 | 846 | Christine Marie |
 | 52 | 845 | LisaJo Picken Buchanan |
 | 53 | 843 | Shelly Chandler |
 | 54 | 841 | Anthony Bryan Riva |
@@ -130,8 +130,8 @@
 | 122 | 471 | Chastity Mitchell |
 | 123 | 458 | Twisty Clicky |
 | 124 | 452 | Jolly Dashfit |
-| 125 | 451 | Peachy Fall |
-| 126 | 451 | Angela Srubar-Norman |
+| 125 | 451 | Angela Srubar-Norman |
+| 126 | 451 | Peachy Fall |
 | 127 | 448 | Kristin Manee |
 | 128 | 435 | Leslie Thomas |
 | 129 | 431 | Courtney Cicoria |
@@ -159,16 +159,16 @@
 | 151 | 387 | 🥔🥔 Spudz |
 | 152 | 387 | Lucas J Sutton |
 | 153 | 377 | Carrie Brian |
-| 154 | 375 | Desi Desporte |
-| 155 | 375 | ThaEviLJeNiuZ |
+| 154 | 375 | ThaEviLJeNiuZ |
+| 155 | 375 | Desi Desporte |
 | 156 | 374 | Guy Incognito |
 | 157 | 373 | Tyler Terrific |
 | 158 | 370 | Oscar Alberto Perez |
 | 159 | 368 | Brandon Crabbs |
 | 160 | 368 | Silly Zonebuilder |
 | 161 | 365 | Leslie Nicole |
-| 162 | 361 | Melissa Adams |
-| 163 | 361 | Danielle Kollias |
+| 162 | 361 | Danielle Kollias |
+| 163 | 361 | Melissa Adams |
 | 164 | 358 | A5! |
 | 165 | 356 | George Nutt |
 | 166 | 352 | Sue Joyce Staats |
@@ -211,8 +211,8 @@
 | 203 | 290 | Keshia Lyons |
 | 204 | 288 | Leah Kutz Zirbel |
 | 205 | 287 | Plucky Patternblock |
-| 206 | 286 | Brittney Orengo |
-| 207 | 286 | Sam Bishop |
+| 206 | 286 | Sam Bishop |
+| 207 | 286 | Brittney Orengo |
 | 208 | 284 | Mimi |
 | 209 | 282 | Matt Gooder |
 | 210 | 281 | Laura |

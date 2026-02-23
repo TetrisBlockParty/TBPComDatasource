@@ -40,8 +40,8 @@
 | 32 | 4199 | Claire Noland |
 | 33 | 4130 | Robert Diddle |
 | 34 | 4128 | Angela Pruitt |
-| 35 | 4120 | Corrine Hawks Soriano |
-| 36 | 4120 | Kristen Sceurman |
+| 35 | 4120 | Kristen Sceurman |
+| 36 | 4120 | Corrine Hawks Soriano |
 | 37 | 4033 | Jill Stroehlein |
 | 38 | 3895 | Nickie Baby |
 | 39 | 3770 | Brittany Alicia |
@@ -127,8 +127,8 @@
 | 119 | 1742 | Katrina Williams Balmir |
 | 120 | 1732 | Mindy Leigh Head |
 | 121 | 1699 | Jamie Main |
-| 122 | 1681 | Shandrica Lowe |
-| 123 | 1681 | Nett |
+| 122 | 1681 | Nett |
+| 123 | 1681 | Shandrica Lowe |
 | 124 | 1658 | Liberty |
 | 125 | 1657 | Qiana Sanders |
 | 126 | 1656 | Auntie B |
@@ -137,8 +137,8 @@
 | 129 | 1639 | Jessie McDougald |
 | 130 | 1639 | Karen Martini-Stapleton |
 | 131 | 1631 | Speedy Spinblock |
-| 132 | 1623 | Rebecca Doughman |
-| 133 | 1623 | Mr. Street Stack |
+| 132 | 1623 | Mr. Street Stack |
+| 133 | 1623 | Rebecca Doughman |
 | 134 | 1622 | Mari Ac |
 | 135 | 1614 | Janel Turley-Garner |
 | 136 | 1601 | Ray Ray Prado |
@@ -219,15 +219,15 @@
 | 211 | 1169 | Pacynthia Williams |
 | 212 | 1169 | Steven Marshaun |
 | 213 | 1159 | Carrie Trigg |
-| 214 | 1158 | Brittany Clark |
-| 215 | 1158 | Amy Sayers |
+| 214 | 1158 | Amy Sayers |
+| 215 | 1158 | Brittany Clark |
 | 216 | 1151 | Stacey Clement |
 | 217 | 1141 | Adam Erikson |
 | 218 | 1140 | Sarah Ridenour |
 | 219 | 1135 | Samantha Roberts |
 | 220 | 1131 | Prado |
-| 221 | 1127 | Dee |
-| 222 | 1127 | Catina Hutchison |
+| 221 | 1127 | Catina Hutchison |
+| 222 | 1127 | Dee |
 | 223 | 1126 | Dolores Russworn |
 | 224 | 1121 | Tommy Tha Boss Gunz |
 | 225 | 1117 | Sarah Freitas |

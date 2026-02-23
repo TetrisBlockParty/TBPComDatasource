@@ -104,8 +104,8 @@
 | 96 | 492 | Ash Galvan |
 | 97 | 489 | Deanna L Hermanson |
 | 98 | 486 | Tater |
-| 99 | 483 | Tdub |
-| 100 | 483 | cc |
+| 99 | 483 | cc |
+| 100 | 483 | Tdub |
 | 101 | 477 | April Carroll |
 | 102 | 472 | Hasbro Bros |
 | 103 | 462 | Luciano Moreira |
@@ -220,8 +220,8 @@
 | 212 | 277 | Sleepysloath5745 |
 | 213 | 275 | Chris65 |
 | 214 | 273 | Shannon Marie Pitts |
-| 215 | 271 | Sam Williams |
-| 216 | 271 | Frothy Pattern |
+| 215 | 271 | Frothy Pattern |
+| 216 | 271 | Sam Williams |
 | 217 | 270 | Debbie Kane |
 | 218 | 269 | Shanae Grant |
 | 219 | 269 | Amanda Jarnagin |
@@ -442,9 +442,9 @@
 | 434 | 149 | Logan McFarland |
 | 435 | 149 | Kimberly Davis |
 | 436 | 149 | Glitzy Grid |
-| 437 | 148 | Cozy Shatterer |
-| 438 | 148 | Sir-Franchise Drake |
-| 439 | 148 | Dizzy Rackham |
+| 437 | 148 | Dizzy Rackham |
+| 438 | 148 | Cozy Shatterer |
+| 439 | 148 | Sir-Franchise Drake |
 | 440 | 147 | Jodee Woods |
 | 441 | 146 | Tazz |
 | 442 | 146 | Sean Stallings |
