@@ -242,8 +242,8 @@
 | 234 | 566 | LaTanya GeminiondaRise Johnson |
 | 235 | 564 | Poppy Splitter |
 | 236 | 563 | Fallorina Susana |
-| 237 | 562 | Gideon Walker |
-| 238 | 562 | Dave Herzog |
+| 237 | 562 | Dave Herzog |
+| 238 | 562 | Gideon Walker |
 | 239 | 561 | Silly Twist |
 | 240 | 557 | Duane Bright |
 | 241 | 548 | Danielle Balcom |
@@ -507,10 +507,10 @@
 | 499 | 299 | Angie Harper |
 | 500 | 299 | Samantha Worley |
 | 501 | 298 | Grams |
-| 502 | 297 | Quirky Snapfit |
-| 503 | 297 | Zac Hudak |
-| 504 | 296 | atomictrin |
-| 505 | 296 | Amy Montz |
+| 502 | 297 | Zac Hudak |
+| 503 | 297 | Quirky Snapfit |
+| 504 | 296 | Amy Montz |
+| 505 | 296 | atomictrin |
 | 506 | 296 | Tracy Martin |
 | 507 | 295 | Stephanie Sanchez |
 | 508 | 295 | Dakota Graham |
@@ -776,8 +776,8 @@
 | 768 | 208 | Leticia Lynn Lowe |
 | 769 | 208 | Luccy Luxe |
 | 770 | 208 | Spzy |
-| 771 | 208 | Barb Wensink Johnson |
-| 772 | 208 | Rima Mackelburger |
+| 771 | 208 | Rima Mackelburger |
+| 772 | 208 | Barb Wensink Johnson |
 | 773 | 207 | demon14 |
 | 774 | 207 | Jennifer Evans |
 | 775 | 207 | Groovy Blockclear |
@@ -799,9 +799,9 @@
 | 791 | 203 | Russell Hankinson |
 | 792 | 203 | Rickeia Lanae Wright |
 | 793 | 202 | Bastian Campbell |
-| 794 | 202 | Frothy Racker |
-| 795 | 202 | Alison Baus |
-| 796 | 202 | David Sims |
+| 794 | 202 | Alison Baus |
+| 795 | 202 | David Sims |
+| 796 | 202 | Frothy Racker |
 | 797 | 201 | Billie Jean Cooper |
 | 798 | 201 | Tipsy Puzzle |
 | 799 | 201 | Weerae |

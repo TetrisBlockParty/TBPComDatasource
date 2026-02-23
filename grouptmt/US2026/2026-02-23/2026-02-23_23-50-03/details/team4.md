@@ -167,8 +167,8 @@
 | 159 | 521 | Andy Cabral |
 | 160 | 520 | Zippy Block |
 | 161 | 519 | Lucas J Sutton |
-| 162 | 516 | Trish |
-| 163 | 516 | Twisty Clicky |
+| 162 | 516 | Twisty Clicky |
+| 163 | 516 | Trish |
 | 164 | 514 | Scott Jameson |
 | 165 | 513 | Erin Thomas |
 | 166 | 512 | Angela Srubar-Norman |
@@ -178,8 +178,8 @@
 | 170 | 507 | Nick Gray |
 | 171 | 504 | Deanna Deckard |
 | 172 | 501 | Ericca Eldridge |
-| 173 | 499 | Andria Lynn |
-| 174 | 499 | Berklie Apedaile |
+| 173 | 499 | Berklie Apedaile |
+| 174 | 499 | Andria Lynn |
 | 175 | 497 | Brandon Crabbs |
 | 176 | 496 | Cindy Looper |
 | 177 | 495 | Carrie Brian |
@@ -252,10 +252,10 @@
 | 244 | 381 | JPW |
 | 245 | 380 | Rio Rocha |
 | 246 | 379 | Backoff Recupe |
-| 247 | 378 | Mary Ann Pabukis |
-| 248 | 378 | shark tato |
+| 247 | 378 | Holly Jolly |
+| 248 | 378 | Mary Ann Pabukis |
 | 249 | 378 | Googenheim |
-| 250 | 378 | Holly Jolly |
+| 250 | 378 | shark tato |
 | 251 | 376 | Nig |
 | 252 | 374 | Ari Droff |
 | 253 | 372 | Aden Moss |
@@ -339,8 +339,8 @@
 | 331 | 289 | Lazy Glidepiece |
 | 332 | 289 | Juls |
 | 333 | 289 | Deb Rubeck |
-| 334 | 288 | Jumpy Zonepiece |
-| 335 | 288 | Amy Jean |
+| 334 | 288 | Amy Jean |
+| 335 | 288 | Jumpy Zonepiece |
 | 336 | 286 | Bradley Reeves |
 | 337 | 284 | Chair |
 | 338 | 284 | Dan Wold |
@@ -548,8 +548,8 @@
 | 540 | 185 | Joshua Guess |
 | 541 | 185 | Rebecca Blake |
 | 542 | 184 | Deanna Mc |
-| 543 | 183 | Krash |
-| 544 | 183 | Will Chamberlain |
+| 543 | 183 | Will Chamberlain |
+| 544 | 183 | Krash |
 | 545 | 183 | Darrin Rubalcava |
 | 546 | 182 | Jesus Garcia |
 | 547 | 182 | RIFATSIKDER |

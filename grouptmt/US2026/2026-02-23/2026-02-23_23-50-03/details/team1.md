@@ -121,8 +121,8 @@
 | 113 | 612 | femmefatale |
 | 114 | 604 | Ryan Lunnin |
 | 115 | 603 | Ty Brown |
-| 116 | 601 | Phu ckalldems |
-| 117 | 601 | Evan Richmond |
+| 116 | 601 | Evan Richmond |
+| 117 | 601 | Phu ckalldems |
 | 118 | 598 | Jessi Sauer |
 | 119 | 594 | Basment Living |
 | 120 | 591 | Giddy Cascade |
@@ -319,8 +319,8 @@
 | 311 | 309 | Larry Tilton |
 | 312 | 308 | Glitzy Curvebuilder |
 | 313 | 306 | Cece Ibarra |
-| 314 | 305 | Amh |
-| 315 | 305 | Chase Collinsworth |
+| 314 | 305 | Chase Collinsworth |
+| 315 | 305 | Amh |
 | 316 | 303 | DaRascal |
 | 317 | 302 | Bird Person |
 | 318 | 302 | LaFontaine Leslie |
@@ -371,15 +371,15 @@
 | 363 | 278 | Thorne Shumate |
 | 364 | 277 | Nutty Spinblock |
 | 365 | 277 | Agustin Duarte Orozco |
-| 366 | 277 | Nutty Spinblock |
+| 366 | 277 | Teddy Alexander |
 | 367 | 276 | Blake Mckay |
 | 368 | 275 | Chris Sigurdson |
 | 369 | 274 | Danielle Mae |
 | 370 | 274 | Allena Craft |
 | 371 | 273 | Nadine Velardo |
 | 372 | 273 | Brandie Gallegos |
-| 373 | 272 | Renee Tucker |
-| 374 | 272 | Blaire Bruckoff |
+| 373 | 272 | Blaire Bruckoff |
+| 374 | 272 | Renee Tucker |
 | 375 | 271 | Steph |
 | 376 | 271 | Al Smith Jr |
 | 377 | 271 | Mighty Shatterfit |
