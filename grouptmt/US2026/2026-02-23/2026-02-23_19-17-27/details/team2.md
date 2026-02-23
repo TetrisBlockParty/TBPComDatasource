@@ -36,9 +36,9 @@
 | 28 | 5815 | Vistabrat |
 | 29 | 5730 | Poppy Link |
 | 30 | 5723 | Priscilla Noel |
-| 31 | 5704 | Sam Smith |
-| 32 | 5622 | Melissa Rebbe-Lehman |
-| 33 | 5546 | Devin Lee |
+| 31 | 5622 | Melissa Rebbe-Lehman |
+| 32 | 5546 | Devin Lee |
+| 33 | 5504 | Sam Smith |
 | 34 | 5480 | Claire Noland |
 | 35 | 5165 | Tiaira Patrice' |
 | 36 | 4990 | Reese Nguyen |
@@ -321,8 +321,8 @@
 | 313 | 1099 | Angie Marie |
 | 314 | 1096 | Brainy Smurf |
 | 315 | 1093 | Real Ri |
-| 316 | 1089 | Wakanda Forever |
-| 317 | 1089 | Giggy Blocker |
+| 316 | 1089 | Giggy Blocker |
+| 317 | 1089 | Wakanda Forever |
 | 318 | 1086 | Deborah Miller |
 | 319 | 1086 | Kimberly Hope Howell |
 | 320 | 1079 | Angela Bonquiqui Dinish |

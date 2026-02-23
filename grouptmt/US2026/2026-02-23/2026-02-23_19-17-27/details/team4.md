@@ -193,10 +193,10 @@
 | 185 | 434 | Ramel Rhodes |
 | 186 | 431 | Courtney Cicoria |
 | 187 | 427 | Steph Marie |
-| 188 | 426 | 🥔🥔 Spudz |
-| 189 | 426 | Rebecca Morris |
+| 188 | 426 | Rebecca Morris |
+| 189 | 426 | 🥔🥔 Spudz |
 | 190 | 425 | Damn Libra |
-| 191 | 425 | Michele Plunkett |
+| 191 | 424 | J-Rizzle |
 | 192 | 424 | Keshia Lyons |
 | 193 | 423 | Lori |
 | 194 | 423 | Michele Plunkett |
@@ -486,9 +486,9 @@
 | 478 | 192 | Jeff Roberts |
 | 479 | 192 | Rebecca A Rit |
 | 480 | 192 | Twisty Risebuilder |
-| 481 | 191 | Earnest Thompson |
-| 482 | 191 | Jobadia Steelerton |
-| 483 | 191 | Koral Hanke |
+| 481 | 191 | Jobadia Steelerton |
+| 482 | 191 | Koral Hanke |
+| 483 | 191 | Earnest Thompson |
 | 484 | 191 | Norman Klick |
 | 485 | 190 | wombat |
 | 486 | 190 | Robert Rangel |
@@ -517,8 +517,8 @@
 | 509 | 179 | Elle Joe |
 | 510 | 179 | Martha Lucinda Bishop |
 | 511 | 178 | Jackson Karen |
-| 512 | 178 | Brandon Link |
-| 513 | 178 | Nerdy Linebuilder |
+| 512 | 178 | Nerdy Linebuilder |
+| 513 | 178 | Brandon Link |
 | 514 | 178 | Laurel Coppess |
 | 515 | 177 | Chao Ma |
 | 516 | 177 | Stephanie Mico |

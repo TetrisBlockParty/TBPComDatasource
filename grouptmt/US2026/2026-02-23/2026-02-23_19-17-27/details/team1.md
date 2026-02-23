@@ -261,9 +261,9 @@
 | 253 | 335 | Eric DeSimone |
 | 254 | 334 | Tipsy Builder |
 | 255 | 333 | Wayne Saunders |
-| 256 | 332 | Happy Basegrid |
-| 257 | 332 | Eddie Dillon |
-| 258 | 332 | Plucky Stacky |
+| 256 | 332 | Plucky Stacky |
+| 257 | 332 | Happy Basegrid |
+| 258 | 332 | Eddie Dillon |
 | 259 | 331 | Larissa Marie Nelson |
 | 260 | 329 | Frothy Pattern |
 | 261 | 328 | Daring Fitclear |
@@ -1015,7 +1015,7 @@
 | 1007 | 80 | Burnnetter Sisk |
 | 1008 | 79 | Denise |
 | 1009 | 79 | Bwebb Bryan |
-| 1010 | 79 | Denise |
+| 1010 | 79 | Goofy Linkblock |
 | 1011 | 79 | Kristi Kinard |
 | 1012 | 78 | Mister Reid |
 | 1013 | 78 | Amy Marques |
