@@ -145,8 +145,8 @@
 | 137 | 431 | Courtney Cicoria |
 | 138 | 426 | 🥔🥔 Spudz |
 | 139 | 423 | Carrie Brian |
-| 140 | 421 | Kesha Brady |
-| 141 | 421 | JIGsaw ~(•¿°)~ |
+| 140 | 421 | JIGsaw ~(•¿°)~ |
+| 141 | 421 | Kesha Brady |
 | 142 | 419 | Klo |
 | 143 | 418 | Lush Linkfall |
 | 144 | 418 | Marie-Pier Desjardins |
@@ -164,8 +164,8 @@
 | 156 | 391 | Ramel Rhodes |
 | 157 | 389 | Joseph Guthrie |
 | 158 | 387 | Lucas J Sutton |
-| 159 | 375 | ThaEviLJeNiuZ |
-| 160 | 375 | Desi Desporte |
+| 159 | 375 | Desi Desporte |
+| 160 | 375 | ThaEviLJeNiuZ |
 | 161 | 374 | Guy Incognito |
 | 162 | 370 | Oscar Alberto Perez |
 | 163 | 369 | Lindsey Gonzalez |
@@ -174,7 +174,7 @@
 | 166 | 368 | Raegan Lane-Ross |
 | 167 | 368 | Silly Zonebuilder |
 | 168 | 365 | Jeff Brian Gates |
-| 169 | 361 | Andy Cabral |
+| 169 | 361 | Melissa Adams |
 | 170 | 361 | Danielle Kollias |
 | 171 | 361 | Andy Cabral |
 | 172 | 359 | Keith Kelley |
@@ -185,8 +185,8 @@
 | 177 | 349 | Twisty Cascadezone |
 | 178 | 349 | Rafael Valentin |
 | 179 | 348 | April Rondinone |
-| 180 | 347 | Daria Rycewicz |
-| 181 | 347 | Crystal Nicolette Moore |
+| 180 | 347 | Crystal Nicolette Moore |
+| 181 | 347 | Daria Rycewicz |
 | 182 | 339 | David Lay |
 | 183 | 336 | Bio Nelly |
 | 184 | 335 | James Hurley Jr. |
@@ -689,7 +689,7 @@
 | 681 | 98 | Manuel Groleau |
 | 682 | 98 | Bad company |
 | 683 | 98 | giantslover514 |
-| 684 | 98 | Bad company |
+| 684 | 98 | Maurice Daniels |
 | 685 | 98 | Jessi Cinotto |
 | 686 | 97 | Cheery Lift |
 | 687 | 97 | Frisky Matchgrid |

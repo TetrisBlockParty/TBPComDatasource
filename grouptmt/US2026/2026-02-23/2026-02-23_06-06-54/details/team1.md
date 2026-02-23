@@ -293,8 +293,8 @@
 | 285 | 229 | Tamara Brown |
 | 286 | 229 | Dino |
 | 287 | 228 | .running. |
-| 288 | 227 | John Ramirez |
-| 289 | 227 | Happy Snapbuild |
+| 288 | 227 | Happy Snapbuild |
+| 289 | 227 | John Ramirez |
 | 290 | 226 | Snappy Brickbuilder |
 | 291 | 226 | Glitzy Buildsnap |
 | 292 | 225 | Angela Spann |
@@ -370,7 +370,7 @@
 | 362 | 191 | Slinky Rotater |
 | 363 | 189 | Tawnya Peltonen |
 | 364 | 188 | Brian Taylor |
-| 365 | 187 | Jessica Weed |
+| 365 | 187 | Bob |
 | 366 | 187 | Mark Smith |
 | 367 | 187 | Jessica Weed |
 | 368 | 186 | Chantelle Ceno |
@@ -379,10 +379,10 @@
 | 371 | 185 | Amh |
 | 372 | 185 | Hasty Columnbuilder |
 | 373 | 184 | Sonia Marquis |
-| 374 | 182 | Test |
+| 374 | 182 | Isaiah |
 | 375 | 182 | Glitzy Curvebuilder |
-| 376 | 182 | Isaiah |
-| 377 | 182 | Nathan Sealander |
+| 376 | 182 | Nathan Sealander |
+| 377 | 182 | Test |
 | 378 | 181 | David DeSantis |
 | 379 | 181 | Jasmine Riley |
 | 380 | 180 | Discovery Point |
@@ -532,10 +532,10 @@
 | 524 | 135 | Amanda Marie Sutton |
 | 525 | 134 | Mary Crisp |
 | 526 | 134 | Rachel Copas |
-| 527 | 134 | Mary Crisp |
-| 528 | 133 | Nicolette Ivory Chastain |
+| 527 | 134 | Angela Rena Brooks |
+| 528 | 133 | Ed Franz Jr |
 | 529 | 133 | Jason Cox |
-| 530 | 133 | Ed Franz Jr |
+| 530 | 133 | Nicolette Ivory Chastain |
 | 531 | 132 | Mary Love |
 | 532 | 132 | Angela Ellyson |
 | 533 | 131 | Garrett Burket |

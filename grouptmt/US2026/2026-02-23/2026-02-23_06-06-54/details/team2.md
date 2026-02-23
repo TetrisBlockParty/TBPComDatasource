@@ -211,13 +211,13 @@
 | 203 | 1286 | Altamirano Michael |
 | 204 | 1282 | Tanya Parsons |
 | 205 | 1259 | Foxxo |
-| 206 | 1258 | Snappy Matchbuilder |
-| 207 | 1258 | Joyce Johnson Vaughn |
+| 206 | 1258 | Joyce Johnson Vaughn |
+| 207 | 1258 | Snappy Matchbuilder |
 | 208 | 1252 | Angel |
 | 209 | 1245 | Cody Nishimura |
 | 210 | 1237 | Megan Ferguson Leone |
-| 211 | 1232 | Groovy Puzzle |
-| 212 | 1232 | Ambyre Patterson |
+| 211 | 1232 | Ambyre Patterson |
+| 212 | 1232 | Groovy Puzzle |
 | 213 | 1232 | Brandon Armstrong |
 | 214 | 1230 | Megan Garrick |
 | 215 | 1221 | Jane Fong |
@@ -337,8 +337,8 @@
 | 329 | 903 | Giggy Blocker |
 | 330 | 902 | William Hunt |
 | 331 | 901 | Kevin Sees |
-| 332 | 899 | Patrick Bartlett |
-| 333 | 899 | Chevy |
+| 332 | 899 | Chevy |
+| 333 | 899 | Patrick Bartlett |
 | 334 | 898 | Jamie Otero |
 | 335 | 895 | Donna Colby |
 | 336 | 890 | Steve Man |
@@ -386,8 +386,8 @@
 | 378 | 808 | Connie Jimenez |
 | 379 | 808 | Desire Rice |
 | 380 | 804 | Becca Coronado |
-| 381 | 801 | Gold Rose |
-| 382 | 801 | Diana Fitzwater |
+| 381 | 801 | Diana Fitzwater |
+| 382 | 801 | Gold Rose |
 | 383 | 799 | Kenny Alvarado |
 | 384 | 799 | Joy LaJeunesse |
 | 385 | 796 | AndrewandShela Gornik |
@@ -453,8 +453,8 @@
 | 445 | 720 | BeQuo |
 | 446 | 720 | Giggy Mover |
 | 447 | 714 | Caitlyn Blackwell |
-| 448 | 713 | Christie |
-| 449 | 713 | Draizen Montrell Thomas |
+| 448 | 713 | Draizen Montrell Thomas |
+| 449 | 713 | Christie |
 | 450 | 712 | Amanda Ferrell |
 | 451 | 711 | Narutofreak13 |
 | 452 | 710 | Mama T |
@@ -467,13 +467,13 @@
 | 459 | 700 | Beverly Owens |
 | 460 | 699 | Dannette Goldberg-Richards |
 | 461 | 698 | Joce Lynn |
-| 462 | 695 | Irene Jones |
-| 463 | 695 | Lakeysha Dortch |
+| 462 | 695 | Lakeysha Dortch |
+| 463 | 695 | Irene Jones |
 | 464 | 693 | Ryan Stadel |
 | 465 | 692 | Shaun Church |
 | 466 | 691 | Poldo Ilano |
-| 467 | 691 | Samuel Macon |
-| 468 | 691 | Arwa Fatimah |
+| 467 | 691 | Arwa Fatimah |
+| 468 | 691 | Samuel Macon |
 | 469 | 689 | Gauri Shrotriya |
 | 470 | 686 | Christine Coughlin |
 | 471 | 684 | Sarah DeHart |
@@ -517,9 +517,9 @@
 | 509 | 642 | Cassie Maynard |
 | 510 | 642 | Michelle Fields |
 | 511 | 640 | Belle |
-| 512 | 639 | Rebecca Miller |
+| 512 | 639 | Jackie Avila |
 | 513 | 639 | Alexandra Weir |
-| 514 | 639 | Jackie Avila |
+| 514 | 639 | Rebecca Miller |
 | 515 | 639 | Toni Roberson |
 | 516 | 637 | Shinette Dobson |
 | 517 | 637 | Karen Posadas Centeno |
