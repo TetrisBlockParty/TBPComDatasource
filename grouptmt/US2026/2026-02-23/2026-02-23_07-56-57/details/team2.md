@@ -405,8 +405,8 @@
 | 397 | 788 | Erika Densmore |
 | 398 | 787 | Tiara Elizabeth Baker |
 | 399 | 783 | John Rodriguez |
-| 400 | 777 | Jessicah Myers |
-| 401 | 777 | Tesha Oldaker |
+| 400 | 777 | Tesha Oldaker |
+| 401 | 777 | Jessicah Myers |
 | 402 | 776 | Fancy Twister |
 | 403 | 776 | Mighty Spinbuilder |
 | 404 | 775 | Crystie Hicks |
@@ -420,8 +420,8 @@
 | 412 | 766 | Aimee Campbell |
 | 413 | 764 | Victoria Regina Girolami |
 | 414 | 764 | Kiely Tomaskovich |
-| 415 | 763 | Dreamy Blast |
-| 416 | 763 | Heather Causey |
+| 415 | 763 | Heather Causey |
+| 416 | 763 | Dreamy Blast |
 | 417 | 761 | Jerilyn Andrina |
 | 418 | 760 | Ashley Guernsey-Martin |
 | 419 | 760 | Allan Wayne Lamia |
@@ -433,8 +433,8 @@
 | 425 | 755 | Taryece Gause |
 | 426 | 751 | Loony Snapper |
 | 427 | 751 | Breezy Filler |
-| 428 | 748 | Ann Matzkanin |
-| 429 | 748 | Brenda Utphall |
+| 428 | 748 | Brenda Utphall |
+| 429 | 748 | Ann Matzkanin |
 | 430 | 748 | Spunkysmom |
 | 431 | 746 | Leslie Ann Carter |
 | 432 | 741 | Jánine Riggs |
@@ -459,8 +459,8 @@
 | 451 | 720 | BeQuo |
 | 452 | 720 | Giggy Mover |
 | 453 | 714 | Caitlyn Blackwell |
-| 454 | 713 | Draizen Montrell Thomas |
-| 455 | 713 | Christie |
+| 454 | 713 | Christie |
+| 455 | 713 | Draizen Montrell Thomas |
 | 456 | 712 | Amanda Ferrell |
 | 457 | 711 | Narutofreak13 |
 | 458 | 710 | Mama T |
@@ -494,8 +494,8 @@
 | 486 | 677 | Kayleigh Wisse |
 | 487 | 677 | Paul Combs |
 | 488 | 677 | Amanda Woodruff |
-| 489 | 676 | Roseanna Peloso |
-| 490 | 676 | Nicky Jackson |
+| 489 | 676 | Nicky Jackson |
+| 490 | 676 | Roseanna Peloso |
 | 491 | 675 | Lonne Emade |
 | 492 | 675 | Katelynn Hollen |
 | 493 | 674 | Ashley Munn |
@@ -938,11 +938,11 @@
 | 930 | 392 | Jroc |
 | 931 | 391 | Poppy Gridder |
 | 932 | 391 | Chilly Bridgepiece |
-| 933 | 390 | Karmabunny |
-| 934 | 390 | MauroPRM |
+| 933 | 390 | MauroPRM |
+| 934 | 390 | Karmabunny |
 | 935 | 390 | Smiley Strike |
-| 936 | 390 | Tasia Stinson |
-| 937 | 390 | Kyla Louise |
+| 936 | 390 | Kyla Louise |
+| 937 | 390 | Tasia Stinson |
 | 938 | 389 | Loony Basepiece |
 | 939 | 388 | Tamara Bailey |
 | 940 | 388 | Alice Ball |
@@ -1021,8 +1021,8 @@
 | 1013 | 364 | Miranda Morris |
 | 1014 | 363 | Tammy Mitchell |
 | 1015 | 363 | Casaundra Little-Abeling |
-| 1016 | 362 | Megan Phillips |
-| 1017 | 362 | Del Davis |
+| 1016 | 362 | Del Davis |
+| 1017 | 362 | Megan Phillips |
 | 1018 | 362 | Dione |
 | 1019 | 362 | Cheeky Balancepiece |
 | 1020 | 361 | Tosa Puvapiromquan |
@@ -1678,7 +1678,7 @@
 | 1670 | 237 | Keerstin Moniz |
 | 1671 | 237 | Tara Isenhart |
 | 1672 | 236 | Asante Alexander |
-| 1673 | 236 | Katlin Davenport |
+| 1673 | 236 | Sherry Williams |
 | 1674 | 236 | Reese Hayes |
 | 1675 | 236 | Katlin Davenport |
 | 1676 | 236 | Nicol Craven |

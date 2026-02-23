@@ -120,8 +120,8 @@
 | 112 | 831 | Angeline Joseph |
 | 113 | 830 | Stephanie Allmon |
 | 114 | 826 | Shane Wilson Jr. |
-| 115 | 816 | Jesse Olive |
-| 116 | 816 | Brenda Lee Vander Molen |
+| 115 | 816 | Brenda Lee Vander Molen |
+| 116 | 816 | Jesse Olive |
 | 117 | 802 | Bobbi Moore |
 | 118 | 800 | Lauren Girouard |
 | 119 | 799 | Dolores Falco |
@@ -175,8 +175,8 @@
 | 167 | 591 | Michael Nowogorski |
 | 168 | 588 | Justin Ritter |
 | 169 | 587 | Louise Stacy Sisson |
-| 170 | 585 | Happy Tetriblast |
-| 171 | 585 | Annie Marie |
+| 170 | 585 | Annie Marie |
+| 171 | 585 | Happy Tetriblast |
 | 172 | 583 | Tasha Gillespie |
 | 173 | 582 | Natasha Jones |
 | 174 | 577 | Domo Washington |
@@ -308,8 +308,8 @@
 | 300 | 336 | Foltz Lee Kelli |
 | 301 | 336 | Jojo M |
 | 302 | 335 | victory |
-| 303 | 332 | Velma Mull |
-| 304 | 332 | Brittany |
+| 303 | 332 | Brittany |
+| 304 | 332 | Velma Mull |
 | 305 | 331 | Gray Hicks |
 | 306 | 329 | Angela Scott |
 | 307 | 328 | Desiree Soto |
@@ -384,8 +384,8 @@
 | 376 | 274 | Ava Petito |
 | 377 | 273 | France Vézina |
 | 378 | 273 | Brenda Schmid Wood |
-| 379 | 272 | Tay |
-| 380 | 272 | Todd Hall |
+| 379 | 272 | Todd Hall |
+| 380 | 272 | Tay |
 | 381 | 272 | Romeo |
 | 382 | 269 | Juliana Dottore |
 | 383 | 269 | Jess Bissett |
@@ -400,8 +400,8 @@
 | 392 | 265 | AlsoJess |
 | 393 | 264 | Reina Roth |
 | 394 | 264 | Danielle Beaunoyer Jean |
-| 395 | 263 | Erika Thornton |
-| 396 | 263 | Jimmie Clemons |
+| 395 | 263 | Jimmie Clemons |
+| 396 | 263 | Erika Thornton |
 | 397 | 261 | Swanky Snapclear |
 | 398 | 260 | Tracey Cox |
 | 399 | 260 | Alice |
@@ -412,8 +412,8 @@
 | 404 | 257 | Rachel Grant |
 | 405 | 257 | Chris Wallace |
 | 406 | 257 | Saucy Buildout |
-| 407 | 255 | Mariah Williams |
-| 408 | 255 | Erykah |
+| 407 | 255 | Erykah |
+| 408 | 255 | Mariah Williams |
 | 409 | 255 | Sharisse Baltimore |
 | 410 | 254 | Blair Erin Waite |
 | 411 | 253 | Hyper Bridger |
@@ -469,8 +469,8 @@
 | 461 | 230 | DanceLuvLaugh |
 | 462 | 229 | MizzMonick Smith |
 | 463 | 229 | Everret Maxine |
-| 464 | 228 | Dapper Liney |
-| 465 | 228 | Tipsy Zonebuilder |
+| 464 | 228 | Tipsy Zonebuilder |
+| 465 | 228 | Dapper Liney |
 | 466 | 227 | Meowsa |
 | 467 | 226 | Ryan Williams |
 | 468 | 226 | paranoid |

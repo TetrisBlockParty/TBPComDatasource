@@ -192,8 +192,8 @@
 | 184 | 341 | Nick R Montague |
 | 185 | 339 | Nicole Roseberry Weber |
 | 186 | 338 | Jennifer Hardman |
-| 187 | 337 | Constance Risner |
-| 188 | 337 | Jamise Brown |
+| 187 | 337 | Jamise Brown |
+| 188 | 337 | Constance Risner |
 | 189 | 336 | Dizzy Party |
 | 190 | 333 | Gracie |
 | 191 | 333 | Virginia Gray Floyd |
@@ -205,8 +205,8 @@
 | 197 | 324 | Rat666 |
 | 198 | 323 | Madison Wicks |
 | 199 | 322 | Letson Melissa |
-| 200 | 317 | Kimberly Garcia |
-| 201 | 317 | Sarah Roberts |
+| 200 | 317 | Sarah Roberts |
+| 201 | 317 | Kimberly Garcia |
 | 202 | 316 | Reesey Enyart |
 | 203 | 315 | Danielle Little-Daugherty |
 | 204 | 314 | Snippy Wipebuilder |
@@ -248,8 +248,8 @@
 | 240 | 275 | Cheeky Pop |
 | 241 | 275 | Chris65 |
 | 242 | 273 | Shannon Marie Pitts |
-| 243 | 272 | Barrbaric |
-| 244 | 272 | Tawnya Peltonen |
+| 243 | 272 | Tawnya Peltonen |
+| 244 | 272 | Barrbaric |
 | 245 | 271 | Frothy Pattern |
 | 246 | 270 | Brenda Alexander |
 | 247 | 270 | Debbie Kane |
@@ -286,8 +286,8 @@
 | 278 | 238 | Tiffany Smith |
 | 279 | 235 | Angela Fairbank |
 | 280 | 235 | Ariel Whittington |
-| 281 | 234 | Paula Martin |
-| 282 | 234 | John Ramirez |
+| 281 | 234 | John Ramirez |
+| 282 | 234 | Paula Martin |
 | 283 | 234 | Sean Stallings |
 | 284 | 233 | Tipsy Riseclear |
 | 285 | 233 | Melissa Bires Hussar |

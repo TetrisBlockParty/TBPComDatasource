@@ -26,8 +26,8 @@
 | 18 | 1636 | Cassie Michaux |
 | 19 | 1565 | GreenJeepGirl |
 | 20 | 1558 | Leah Gorsuch |
-| 21 | 1536 | Misty Hollibaugh |
-| 22 | 1536 | Roger Coulter |
+| 21 | 1536 | Roger Coulter |
+| 22 | 1536 | Misty Hollibaugh |
 | 23 | 1485 | Juggalo |
 | 24 | 1390 | Sammy Noguera |
 | 25 | 1382 | Tammi Crnza |
@@ -62,8 +62,8 @@
 | 54 | 864 | Shelly Chandler |
 | 55 | 863 | Pee |
 | 56 | 859 | TeeJ |
-| 57 | 846 | Lucille Truesdale |
-| 58 | 846 | Christine Marie |
+| 57 | 846 | Christine Marie |
+| 58 | 846 | Lucille Truesdale |
 | 59 | 845 | LisaJo Picken Buchanan |
 | 60 | 834 | quicksand420 |
 | 61 | 807 | Rachel Anne |
@@ -74,10 +74,10 @@
 | 66 | 781 | Chilly Line |
 | 67 | 767 | Shannon Ferrari |
 | 68 | 766 | Robin Watters |
-| 69 | 765 | Denise Carlson |
-| 70 | 765 | Robin Getchel |
-| 71 | 752 | Shane Kalamata Platoon |
-| 72 | 752 | loulou |
+| 69 | 765 | Robin Getchel |
+| 70 | 765 | Denise Carlson |
+| 71 | 752 | loulou |
+| 72 | 752 | Shane Kalamata Platoon |
 | 73 | 749 | Dustee Craddock-Harrison |
 | 74 | 742 | Carolyn Wallace |
 | 75 | 740 | Avy Absol |
@@ -155,8 +155,8 @@
 | 147 | 418 | Marie-Pier Desjardins |
 | 148 | 418 | Lush Linkfall |
 | 149 | 416 | Chaz Duncan |
-| 150 | 414 | Swanky Fitline |
-| 151 | 414 | Nope Young |
+| 150 | 414 | Nope Young |
+| 151 | 414 | Swanky Fitline |
 | 152 | 413 | Circuit8 |
 | 153 | 412 | Jessica Bohlken |
 | 154 | 410 | Andy Cabral |
@@ -175,10 +175,10 @@
 | 167 | 372 | Antony Dwayne Beasley |
 | 168 | 370 | Oscar Alberto Perez |
 | 169 | 369 | Lindsey Gonzalez |
-| 170 | 368 | Silly Zonebuilder |
-| 171 | 368 | Chris Bernstein |
-| 172 | 368 | Raegan Lane-Ross |
-| 173 | 368 | Brandon Crabbs |
+| 170 | 368 | Brandon Crabbs |
+| 171 | 368 | Silly Zonebuilder |
+| 172 | 368 | Chris Bernstein |
+| 173 | 368 | Raegan Lane-Ross |
 | 174 | 365 | Jeff Brian Gates |
 | 175 | 361 | Danielle Kollias |
 | 176 | 361 | Melissa Adams |
@@ -326,8 +326,8 @@
 | 318 | 216 | mike |
 | 319 | 216 | Chantilly Laace |
 | 320 | 215 | Stephme310 |
-| 321 | 214 | Stacey Stano |
-| 322 | 214 | Patron Anderson |
+| 321 | 214 | Patron Anderson |
+| 322 | 214 | Stacey Stano |
 | 323 | 213 | Jackie Marie |
 | 324 | 212 | Mike Solo |
 | 325 | 212 | Zany Shatterer |
@@ -453,8 +453,8 @@
 | 445 | 162 | Brandon Link |
 | 446 | 162 | Victoria Faniel |
 | 447 | 160 | Heather Layne Smith |
-| 448 | 160 | Sam Middleton |
-| 449 | 160 | Sho Nuff |
+| 448 | 160 | Sho Nuff |
+| 449 | 160 | Sam Middleton |
 | 450 | 159 | Groovy Brickmatch |
 | 451 | 159 | Stacy |
 | 452 | 158 | Jasmine S Caldwell |
