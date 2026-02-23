@@ -127,8 +127,8 @@
 | 119 | 1742 | Katrina Williams Balmir |
 | 120 | 1732 | Mindy Leigh Head |
 | 121 | 1699 | Jamie Main |
-| 122 | 1681 | Shandrica Lowe |
-| 123 | 1681 | Nett |
+| 122 | 1681 | Nett |
+| 123 | 1681 | Shandrica Lowe |
 | 124 | 1658 | Liberty |
 | 125 | 1657 | Qiana Sanders |
 | 126 | 1656 | Auntie B |
@@ -226,8 +226,8 @@
 | 218 | 1140 | Sarah Ridenour |
 | 219 | 1135 | Samantha Roberts |
 | 220 | 1131 | Prado |
-| 221 | 1127 | Dee |
-| 222 | 1127 | Catina Hutchison |
+| 221 | 1127 | Catina Hutchison |
+| 222 | 1127 | Dee |
 | 223 | 1126 | Dolores Russworn |
 | 224 | 1121 | Tommy Tha Boss Gunz |
 | 225 | 1117 | Sarah Freitas |
@@ -344,8 +344,8 @@
 | 336 | 823 | Alezandra Smith |
 | 337 | 821 | Angie Bolton Workman |
 | 338 | 821 | Cassie Mercer |
-| 339 | 818 | Lola Contreras |
-| 340 | 818 | Jessica Wayne Cornwall |
+| 339 | 818 | Jessica Wayne Cornwall |
+| 340 | 818 | Lola Contreras |
 | 341 | 816 | James Simms III |
 | 342 | 812 | Jackie Lucas |
 | 343 | 812 | Samantha Jo |

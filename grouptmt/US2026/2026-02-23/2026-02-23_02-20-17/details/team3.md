@@ -61,8 +61,8 @@
 | 53 | 1276 | Aaron Pitkin |
 | 54 | 1269 | Amber Jones |
 | 55 | 1258 | Jennifer Petrie |
-| 56 | 1256 | Mahman |
-| 57 | 1256 | Jessica Bechler |
+| 56 | 1256 | Jessica Bechler |
+| 57 | 1256 | Mahman |
 | 58 | 1191 | Nate Burnside |
 | 59 | 1167 | Elaine Webb Graves |
 | 60 | 1141 | Queen Kam |
@@ -157,8 +157,8 @@
 | 149 | 582 | Natasha Jones |
 | 150 | 579 | Tasha Gillespie |
 | 151 | 574 | Morgan Martinez |
-| 152 | 572 | CeceGeGe |
-| 153 | 572 | Domo Washington |
+| 152 | 572 | Domo Washington |
+| 153 | 572 | CeceGeGe |
 | 154 | 571 | Nicole Myers |
 | 155 | 568 | Rachael McClain Owens |
 | 156 | 562 | Dave Herzog |
@@ -222,7 +222,7 @@
 | 214 | 415 | ren |
 | 215 | 414 | Fran Lin |
 | 216 | 412 | Connie Mohler-Fair |
-| 217 | 410 | Duane Bright |
+| 217 | 410 | Mcathen |
 | 218 | 410 | Stephanie Simpson |
 | 219 | 410 | Duane Bright |
 | 220 | 408 | Tiffany Ford |
@@ -242,8 +242,8 @@
 | 234 | 380 | Rebecca Bailey |
 | 235 | 378 | Chris Bell |
 | 236 | 375 | Kristal C Lee |
-| 237 | 372 | Rich LeBlanc |
-| 238 | 372 | Sarah Moyer |
+| 237 | 372 | Sarah Moyer |
+| 238 | 372 | Rich LeBlanc |
 | 239 | 370 | RickyG |
 | 240 | 369 | Marquita Sheard |
 | 241 | 369 | Keis |

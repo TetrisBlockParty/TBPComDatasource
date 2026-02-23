@@ -55,8 +55,8 @@
 | 47 | 893 | Jae Job |
 | 48 | 855 | Marvin Lou Martin |
 | 49 | 853 | TeeJ |
-| 50 | 846 | Christine Marie |
-| 51 | 846 | Lucille Truesdale |
+| 50 | 846 | Lucille Truesdale |
+| 51 | 846 | Christine Marie |
 | 52 | 845 | LisaJo Picken Buchanan |
 | 53 | 843 | Shelly Chandler |
 | 54 | 841 | Anthony Bryan Riva |
@@ -78,8 +78,8 @@
 | 70 | 739 | Avy Absol |
 | 71 | 736 | Goatimus Lombardi |
 | 72 | 725 | Denise Carlson |
-| 73 | 704 | Crystal Carroll |
-| 74 | 704 | D3TROITB0RN74 |
+| 73 | 704 | D3TROITB0RN74 |
+| 74 | 704 | Crystal Carroll |
 | 75 | 697 | Alyssa Papen |
 | 76 | 684 | Jonathan Kimbrough |
 | 77 | 677 | TheNeesh50 |
@@ -159,8 +159,8 @@
 | 151 | 387 | 🥔🥔 Spudz |
 | 152 | 382 | Livvy |
 | 153 | 377 | Carrie Brian |
-| 154 | 375 | Desi Desporte |
-| 155 | 375 | ThaEviLJeNiuZ |
+| 154 | 375 | ThaEviLJeNiuZ |
+| 155 | 375 | Desi Desporte |
 | 156 | 374 | Guy Incognito |
 | 157 | 373 | Tyler Terrific |
 | 158 | 370 | Oscar Alberto Perez |
