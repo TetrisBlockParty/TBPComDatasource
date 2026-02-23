@@ -55,8 +55,8 @@
 | 47 | 938 | Denny Shives |
 | 48 | 936 | Rebecca Moulton Pinciaro |
 | 49 | 932 | Marvin Lou Martin |
-| 50 | 911 | Jeremy Steines |
-| 51 | 911 | Anthony Bryan Riva |
+| 50 | 911 | Anthony Bryan Riva |
+| 51 | 911 | Jeremy Steines |
 | 52 | 870 | BertMofo |
 | 53 | 863 | Pee |
 | 54 | 853 | TeeJ |
@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | KM8 |
-| 93 | 647 | Shauna Havard |
+| 92 | 647 | Shauna Havard |
+| 93 | 647 | KM8 |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -120,10 +120,10 @@
 | 112 | 528 | Rodney McMath Jr. |
 | 113 | 527 | Dizzy Tiley |
 | 114 | 519 | Nugget |
-| 115 | 517 | shar |
-| 116 | 517 | Christina LR |
-| 117 | 514 | Scott Jameson |
-| 118 | 514 | Serena Goodridge |
+| 115 | 517 | Christina LR |
+| 116 | 517 | shar |
+| 117 | 514 | Serena Goodridge |
+| 118 | 514 | Scott Jameson |
 | 119 | 513 | Erin Thomas |
 | 120 | 512 | Casey Jeffcoat |
 | 121 | 512 | Cristy Duerksen |
@@ -148,17 +148,17 @@
 | 140 | 429 | Klo |
 | 141 | 426 | 🥔🥔 Spudz |
 | 142 | 423 | Carrie Brian |
-| 143 | 421 | JIGsaw ~(•¿°)~ |
-| 144 | 421 | Kesha Brady |
-| 145 | 418 | Marie-Pier Desjardins |
-| 146 | 418 | Lush Linkfall |
+| 143 | 421 | Kesha Brady |
+| 144 | 421 | JIGsaw ~(•¿°)~ |
+| 145 | 418 | Lush Linkfall |
+| 146 | 418 | Marie-Pier Desjardins |
 | 147 | 416 | Chaz Duncan |
 | 148 | 414 | Swanky Fitline |
 | 149 | 414 | Nope Young |
 | 150 | 412 | Jessica Bohlken |
 | 151 | 408 | Amanda Pauldo-Ivy |
-| 152 | 406 | Livvy |
-| 153 | 406 | Damn Libra |
+| 152 | 406 | Damn Libra |
+| 153 | 406 | Livvy |
 | 154 | 398 | Tyler Terrific |
 | 155 | 393 | Carlton Unfiltered |
 | 156 | 393 | Girl |
@@ -183,8 +183,8 @@
 | 175 | 356 | George Nutt |
 | 176 | 354 | TRCuse |
 | 177 | 352 | Sue Joyce Staats |
-| 178 | 349 | Twisty Cascadezone |
-| 179 | 349 | Rafael Valentin |
+| 178 | 349 | Rafael Valentin |
+| 179 | 349 | Twisty Cascadezone |
 | 180 | 348 | April Rondinone |
 | 181 | 347 | Crystal Nicolette Moore |
 | 182 | 347 | Daria Rycewicz |
@@ -628,7 +628,7 @@
 | 620 | 110 | Mike |
 | 621 | 110 | Mary Miller |
 | 622 | 110 | Larry Agan |
-| 623 | 110 | Mike |
+| 623 | 110 | Renee Marshall |
 | 624 | 110 | Chariss Newsom |
 | 625 | 109 | Bigmamatetrisqueen |
 | 626 | 109 | Crystal Lynn |

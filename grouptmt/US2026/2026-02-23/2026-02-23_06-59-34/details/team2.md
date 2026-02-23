@@ -44,8 +44,8 @@
 | 36 | 4199 | Claire Noland |
 | 37 | 4128 | Angela Pruitt |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Corrine Hawks Soriano |
-| 40 | 4120 | Kristen Sceurman |
+| 39 | 4120 | Kristen Sceurman |
+| 40 | 4120 | Corrine Hawks Soriano |
 | 41 | 3845 | jayjay |
 | 42 | 3813 | Devin Lee |
 | 43 | 3778 | Brittany Alicia |
@@ -93,8 +93,8 @@
 | 85 | 2515 | Crystalin Heath Lewis |
 | 86 | 2500 | Rosemadder |
 | 87 | 2438 | Rob Surace |
-| 88 | 2428 | Deanna Morton |
-| 89 | 2428 | Thomas Hughes |
+| 88 | 2428 | Thomas Hughes |
+| 89 | 2428 | Deanna Morton |
 | 90 | 2418 | Ashley House |
 | 91 | 2415 | Gabby Jenner |
 | 92 | 2410 | RdRydnHd |
@@ -937,8 +937,8 @@
 | 929 | 390 | Aireka Roman |
 | 930 | 389 | Loony Basepiece |
 | 931 | 388 | Kristina Marie Hanna |
-| 932 | 388 | Tamara Bailey |
-| 933 | 388 | Alice Ball |
+| 932 | 388 | Alice Ball |
+| 933 | 388 | Tamara Bailey |
 | 934 | 387 | David Holliday |
 | 935 | 387 | Bryan Werleman |
 | 936 | 386 | Yasmin Guzman |
@@ -956,8 +956,8 @@
 | 948 | 383 | Ethan Stienbarger |
 | 949 | 383 | Jane Crew |
 | 950 | 382 | Brave Gridpiece |
-| 951 | 382 | Tum |
-| 952 | 382 | Cathleena Giusto |
+| 951 | 382 | Cathleena Giusto |
+| 952 | 382 | Tum |
 | 953 | 381 | Cheyenne Donovan |
 | 954 | 381 | Maria Hammett |
 | 955 | 381 | Happy Caster |

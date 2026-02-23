@@ -106,8 +106,8 @@
 | 98 | 510 | Colena Davenport |
 | 99 | 509 | Rachael |
 | 100 | 497 | Arianna O'Brien |
-| 101 | 493 | MomMom |
-| 102 | 493 | Jennifer ManWarren |
+| 101 | 493 | Jennifer ManWarren |
+| 102 | 493 | MomMom |
 | 103 | 492 | Ash Galvan |
 | 104 | 491 | cc |
 | 105 | 489 | Deanna L Hermanson |
@@ -175,8 +175,8 @@
 | 167 | 357 | Shiny Snapfit |
 | 168 | 355 | Amanda Jarnagin |
 | 169 | 355 | Mike Ames |
-| 170 | 353 | Josh Riemer |
-| 171 | 353 | Jaimie Lynn |
+| 170 | 353 | Jaimie Lynn |
+| 171 | 353 | Josh Riemer |
 | 172 | 350 | Tipsy Strikerpiece |
 | 173 | 349 | Cool Shiftsnap |
 | 174 | 349 | Oscar Zamora |
@@ -481,9 +481,9 @@
 | 473 | 151 | Cozy Shatterer |
 | 474 | 151 | Michelle |
 | 475 | 150 | Brave Slice |
-| 476 | 149 | MIKOZ |
-| 477 | 149 | Kimberly Davis |
-| 478 | 149 | Logan McFarland |
+| 476 | 149 | Kimberly Davis |
+| 477 | 149 | Logan McFarland |
+| 478 | 149 | MIKOZ |
 | 479 | 148 | Sir-Franchise Drake |
 | 480 | 147 | Jodee Woods |
 | 481 | 147 | Javyjavz |

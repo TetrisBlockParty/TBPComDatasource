@@ -120,8 +120,8 @@
 | 112 | 831 | Angeline Joseph |
 | 113 | 830 | Stephanie Allmon |
 | 114 | 826 | Shane Wilson Jr. |
-| 115 | 816 | Brenda Lee Vander Molen |
-| 116 | 816 | Jesse Olive |
+| 115 | 816 | Jesse Olive |
+| 116 | 816 | Brenda Lee Vander Molen |
 | 117 | 802 | Bobbi Moore |
 | 118 | 800 | Lauren Girouard |
 | 119 | 799 | Dolores Falco |
@@ -189,8 +189,8 @@
 | 181 | 556 | Elissa S-k |
 | 182 | 553 | LaTanya GeminiondaRise Johnson |
 | 183 | 546 | Tasha Schriewer |
-| 184 | 546 | Cynthia Castros-Hampton |
-| 185 | 546 | Mykal Burton |
+| 184 | 546 | Mykal Burton |
+| 185 | 546 | Cynthia Castros-Hampton |
 | 186 | 540 | Shawn Miller |
 | 187 | 534 | Danielle Balcom |
 | 188 | 531 | Chauntee Alfrey-Cardinale |
@@ -268,8 +268,8 @@
 | 260 | 368 | Sheila M Frazier |
 | 261 | 368 | Stephanie Woods |
 | 262 | 367 | Kristin Delibac Corrigan |
-| 263 | 366 | Randy Clevenger |
-| 264 | 366 | Gumbo |
+| 263 | 366 | Gumbo |
+| 264 | 366 | Randy Clevenger |
 | 265 | 365 | Noyb Adam |
 | 266 | 364 | Steffi Chris Dacones |
 | 267 | 364 | Carrie Huskey |
