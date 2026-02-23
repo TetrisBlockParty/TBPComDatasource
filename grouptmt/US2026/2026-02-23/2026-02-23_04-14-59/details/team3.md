@@ -270,8 +270,8 @@
 | 262 | 357 | Stephanie Burtin |
 | 263 | 354 | Kelly |
 | 264 | 353 | Dee Franklin |
-| 265 | 352 | Christian Werndl |
-| 266 | 352 | Samantha Lynn |
+| 265 | 352 | Samantha Lynn |
+| 266 | 352 | Christian Werndl |
 | 267 | 351 | Eon Harris |
 | 268 | 349 | Amanda J. Mcneil-Anderson |
 | 269 | 348 | Cyd061769 |
@@ -326,8 +326,8 @@
 | 318 | 289 | DidIdothat |
 | 319 | 289 | Troy |
 | 320 | 288 | Stephanie Bradley |
-| 321 | 287 | Carol Cain Thurman |
-| 322 | 287 | Sabrina Hardrick |
+| 321 | 287 | Sabrina Hardrick |
+| 322 | 287 | Carol Cain Thurman |
 | 323 | 287 | Hoppy Patternline |
 | 324 | 286 | Micayah Stevens |
 | 325 | 284 | Hanna Kim |
@@ -354,8 +354,8 @@
 | 346 | 275 | Nikki Pags |
 | 347 | 275 | Michael Lucado |
 | 348 | 274 | Mary Giorgenti |
-| 349 | 273 | Dannie Litchard |
-| 350 | 273 | France Vézina |
+| 349 | 273 | France Vézina |
+| 350 | 273 | Dannie Litchard |
 | 351 | 273 | Brenda Schmid Wood |
 | 352 | 272 | Romeo |
 | 353 | 272 | Todd Hall |

@@ -135,8 +135,8 @@
 | 127 | 458 | Twisty Clicky |
 | 128 | 451 | Peachy Fall |
 | 129 | 448 | Kristin Manee |
-| 130 | 435 | Kristina Black |
-| 131 | 435 | Leslie Thomas |
+| 130 | 435 | Leslie Thomas |
+| 131 | 435 | Kristina Black |
 | 132 | 431 | Courtney Cicoria |
 | 133 | 425 | Monica Daley |
 | 134 | 421 | JIGsaw ~(•¿°)~ |
@@ -160,8 +160,8 @@
 | 152 | 387 | 🥔🥔 Spudz |
 | 153 | 387 | Lucas J Sutton |
 | 154 | 377 | Carrie Brian |
-| 155 | 375 | ThaEviLJeNiuZ |
-| 156 | 375 | Desi Desporte |
+| 155 | 375 | Desi Desporte |
+| 156 | 375 | ThaEviLJeNiuZ |
 | 157 | 374 | Leslie Nicole |
 | 158 | 374 | Guy Incognito |
 | 159 | 373 | Tyler Terrific |
@@ -203,10 +203,10 @@
 | 195 | 309 | Cursed Hag |
 | 196 | 307 | Michele Plunkett |
 | 197 | 306 | blockstar |
-| 198 | 305 | Melvin Baird |
-| 199 | 305 | Cheery Risebuilder |
-| 200 | 304 | Lindsay Ball |
-| 201 | 304 | Mary Ann Pabukis |
+| 198 | 305 | Cheery Risebuilder |
+| 199 | 305 | Melvin Baird |
+| 200 | 304 | Mary Ann Pabukis |
+| 201 | 304 | Lindsay Ball |
 | 202 | 301 | Andria Lynn |
 | 203 | 300 | Dihcheese444 |
 | 204 | 300 | Zakia Monae |
@@ -269,8 +269,8 @@
 | 261 | 240 | Perky Patternblock |
 | 262 | 239 | Joanna |
 | 263 | 238 | 中山成巳 |
-| 264 | 237 | Christine Therrien |
-| 265 | 237 | 030Synner |
+| 264 | 237 | 030Synner |
+| 265 | 237 | Christine Therrien |
 | 266 | 236 | Degenerate |
 | 267 | 235 | Shainne Brewer |
 | 268 | 235 | Jade Rian |
@@ -321,8 +321,8 @@
 | 313 | 208 | Shukee Lo |
 | 314 | 208 | Heather Bruce |
 | 315 | 206 | Maureen Flanigan |
-| 316 | 205 | KayM |
-| 317 | 205 | James Hurley Jr. |
+| 316 | 205 | James Hurley Jr. |
+| 317 | 205 | KayM |
 | 318 | 203 | Andrew Dang |
 | 319 | 203 | Katherine Crane |
 | 320 | 203 | Gilles Lanctot |
@@ -365,8 +365,8 @@
 | 357 | 180 | Carlos Hernandez |
 | 358 | 180 | Bradley Reeves |
 | 359 | 179 | AyeKay |
-| 360 | 178 | Daring Pivot |
-| 361 | 178 | Zippy Tilt |
+| 360 | 178 | Zippy Tilt |
+| 361 | 178 | Daring Pivot |
 | 362 | 176 | Cindy Looper |
 | 363 | 176 | Brickh4us |
 | 364 | 175 | Lorena Guerrero-Barron |

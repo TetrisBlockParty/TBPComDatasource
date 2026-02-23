@@ -186,8 +186,8 @@
 | 178 | 325 | Tyler Werts |
 | 179 | 324 | Rat666 |
 | 180 | 323 | Madison Wicks |
-| 181 | 318 | Virginia Gray Floyd |
-| 182 | 318 | Jessica Sheehan |
+| 181 | 318 | Jessica Sheehan |
+| 182 | 318 | Virginia Gray Floyd |
 | 183 | 317 | Sarah Roberts |
 | 184 | 316 | Reesey Enyart |
 | 185 | 315 | Letson Melissa |
@@ -227,19 +227,19 @@
 | 219 | 279 | Bird Person |
 | 220 | 277 | Melissa Lemmon |
 | 221 | 277 | Nutty Spinblock |
-| 222 | 275 | Chris65 |
-| 223 | 275 | Cheeky Pop |
-| 224 | 273 | Lakeisha Chapman |
-| 225 | 273 | Shannon Marie Pitts |
-| 226 | 271 | Frothy Pattern |
-| 227 | 271 | Sam Williams |
+| 222 | 275 | Cheeky Pop |
+| 223 | 275 | Chris65 |
+| 224 | 273 | Shannon Marie Pitts |
+| 225 | 273 | Lakeisha Chapman |
+| 226 | 271 | Sam Williams |
+| 227 | 271 | Frothy Pattern |
 | 228 | 270 | Debbie Kane |
 | 229 | 268 | Standia Civil |
 | 230 | 267 | Daring Fitclear |
 | 231 | 265 | Kandae |
 | 232 | 264 | Jenny Gingrich Fuentes |
-| 233 | 263 | Perky Shiftsnap |
-| 234 | 263 | Jessie Lynn |
+| 233 | 263 | Jessie Lynn |
+| 234 | 263 | Perky Shiftsnap |
 | 235 | 261 | John J. Cronin |
 | 236 | 260 | Marianita Garcia |
 | 237 | 260 | Lacy Wolfe |

@@ -144,8 +144,8 @@
 | 136 | 1639 | Jessie McDougald |
 | 137 | 1631 | Speedy Spinblock |
 | 138 | 1629 | Mari Ac |
-| 139 | 1623 | Rebecca Doughman |
-| 140 | 1623 | Janel Turley-Garner |
+| 139 | 1623 | Janel Turley-Garner |
+| 140 | 1623 | Rebecca Doughman |
 | 141 | 1605 | Christi Hulet |
 | 142 | 1602 | blackq |
 | 143 | 1601 | Ray Ray Prado |
@@ -457,8 +457,8 @@
 | 449 | 699 | Dannette Goldberg-Richards |
 | 450 | 698 | Joce Lynn |
 | 451 | 697 | Ashle Scranton |
-| 452 | 695 | Lakeysha Dortch |
-| 453 | 695 | Irene Jones |
+| 452 | 695 | Irene Jones |
+| 453 | 695 | Lakeysha Dortch |
 | 454 | 693 | Ryan Stadel |
 | 455 | 692 | Shaun Church |
 | 456 | 691 | Poldo Ilano |
@@ -473,8 +473,8 @@
 | 465 | 677 | Amanda Woodruff |
 | 466 | 676 | Roseanna Peloso |
 | 467 | 676 | Brandon Armstrong |
-| 468 | 675 | Lonne Emade |
-| 469 | 675 | Katelynn Hollen |
+| 468 | 675 | Katelynn Hollen |
+| 469 | 675 | Lonne Emade |
 | 470 | 674 | Mikayala Szaz |
 | 471 | 674 | Ashley Munn |
 | 472 | 673 | trabuco |
@@ -521,8 +521,8 @@
 | 513 | 617 | Darcy Mae |
 | 514 | 617 | Kacee Conrad Bock |
 | 515 | 616 | Lylymom |
-| 516 | 615 | Julio A Laracuente |
-| 517 | 615 | Lyndi Robinson Wakefield |
+| 516 | 615 | Lyndi Robinson Wakefield |
+| 517 | 615 | Julio A Laracuente |
 | 518 | 614 | Emilee Burke |
 | 519 | 613 | Biggest thing |
 | 520 | 612 | Briana Alexander |
@@ -554,8 +554,8 @@
 | 546 | 584 | Daniell Martinez |
 | 547 | 583 | Kitybox |
 | 548 | 581 | Angie Marie |
-| 549 | 580 | Paul Combs |
-| 550 | 580 | Cheery Matchzone |
+| 549 | 580 | Cheery Matchzone |
+| 550 | 580 | Paul Combs |
 | 551 | 579 | Roy Salyer |
 | 552 | 578 | Sarah Berger |
 | 553 | 577 | Victor Obiakarije |
@@ -567,8 +567,8 @@
 | 559 | 572 | Rachael Senard |
 | 560 | 572 | Alexandra Lynn |
 | 561 | 571 | Wendy Unsain |
-| 562 | 571 | Emily Lyric Converse |
-| 563 | 571 | Koa N Sharon Chen |
+| 562 | 571 | Koa N Sharon Chen |
+| 563 | 571 | Emily Lyric Converse |
 | 564 | 569 | Sparkles |
 | 565 | 567 | Blacc Blac |
 | 566 | 566 | Tina Marie |
@@ -588,8 +588,8 @@
 | 580 | 551 | Matt Johnson |
 | 581 | 551 | Samuel Macon |
 | 582 | 551 | Cynthia Louann Rose |
-| 583 | 550 | Michelle Sager |
-| 584 | 550 | Misty Mitchell |
+| 583 | 550 | Misty Mitchell |
+| 584 | 550 | Michelle Sager |
 | 585 | 550 | Frilly Fallzone |
 | 586 | 549 | Kaylee McCafferty |
 | 587 | 549 | Melissa Kay Gibson |
@@ -903,14 +903,14 @@
 | 895 | 381 | Maria Hammett |
 | 896 | 381 | Happy Caster |
 | 897 | 380 | Monica Wilson |
-| 898 | 380 | bru |
-| 899 | 380 | Kelsey Sullivan |
+| 898 | 380 | Kelsey Sullivan |
+| 899 | 380 | bru |
 | 900 | 380 | Zesty Pivot |
 | 901 | 380 | Lazy Builderfit |
 | 902 | 379 | stacey |
 | 903 | 378 | Kelly Walters |
-| 904 | 378 | Ubu |
-| 905 | 378 | Elizabeth Leinen |
+| 904 | 378 | Elizabeth Leinen |
+| 905 | 378 | Ubu |
 | 906 | 377 | NickyBrooks |
 | 907 | 377 | Frank Castle |
 | 908 | 376 | Brave Gridpiece |
