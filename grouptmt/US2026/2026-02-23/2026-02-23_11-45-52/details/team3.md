@@ -77,8 +77,8 @@
 | 69 | 1264 | Amanda L Baker |
 | 70 | 1258 | Danielle Cutler |
 | 71 | 1256 | Jessica Bechler |
-| 72 | 1213 | Nerdy Riseclear |
-| 73 | 1213 | Snappy Glidepiece |
+| 72 | 1213 | Snappy Glidepiece |
+| 73 | 1213 | Nerdy Riseclear |
 | 74 | 1209 | Amanda Adkins |
 | 75 | 1186 | Christian A. Pollard |
 | 76 | 1162 | Gracie |
@@ -131,17 +131,17 @@
 | 123 | 775 | Kristie |
 | 124 | 774 | Keith J Oshman Jr. |
 | 125 | 773 | Daira Largen |
-| 126 | 764 | Groovy Catcher |
-| 127 | 764 | Hasty Cascadefit |
+| 126 | 764 | Hasty Cascadefit |
+| 127 | 764 | Groovy Catcher |
 | 128 | 762 | Speedy Bridger |
 | 129 | 755 | Raya |
 | 130 | 755 | Katrina Schroeder |
 | 131 | 752 | Logan Naccarato |
 | 132 | 748 | Adrian Marcel Pate |
-| 133 | 745 | ren |
-| 134 | 745 | JerseyJess |
-| 135 | 744 | Leah Barnett |
-| 136 | 744 | Fancy Cascader |
+| 133 | 745 | JerseyJess |
+| 134 | 745 | ren |
+| 135 | 744 | Fancy Cascader |
+| 136 | 744 | Leah Barnett |
 | 137 | 736 | mzcatzy |
 | 138 | 734 | Calista Jo Dickson |
 | 139 | 728 | Peppy Shifter |
@@ -179,8 +179,8 @@
 | 171 | 597 | Diana Ibarra |
 | 172 | 591 | Michael Nowogorski |
 | 173 | 587 | Louise Stacy Sisson |
-| 174 | 585 | Domo Washington |
-| 175 | 585 | Happy Tetriblast |
+| 174 | 585 | Happy Tetriblast |
+| 175 | 585 | Domo Washington |
 | 176 | 583 | Tasha Gillespie |
 | 177 | 582 | Natasha Jones |
 | 178 | 574 | Morgan Martinez |
@@ -207,8 +207,8 @@
 | 199 | 525 | Stephanie Blkpep Davidson |
 | 200 | 524 | Bmo |
 | 201 | 521 | Shannon Matthew Byers |
-| 202 | 519 | Terry Jo Jones |
-| 203 | 519 | rnr junky |
+| 202 | 519 | rnr junky |
+| 203 | 519 | Terry Jo Jones |
 | 204 | 515 | Cozy Snaplink |
 | 205 | 513 | Lizabeth Fox |
 | 206 | 503 | Tye Stovall |
@@ -392,8 +392,8 @@
 | 384 | 278 | Rufus Lincoln |
 | 385 | 277 | France Vézina |
 | 386 | 277 | Krystal Gerstberger |
-| 387 | 277 | Joe-Maggie Mathews |
-| 388 | 277 | Tipsy Zonebuilder |
+| 387 | 277 | Tipsy Zonebuilder |
+| 388 | 277 | Joe-Maggie Mathews |
 | 389 | 276 | Karent524 |
 | 390 | 276 | Noettín Kan Zasnemoore |
 | 391 | 276 | Crimson |
@@ -442,8 +442,8 @@
 | 434 | 254 | Katheline Lazo Luizaga |
 | 435 | 253 | crystal |
 | 436 | 253 | Block Baddie |
-| 437 | 253 | Hyper Bridger |
-| 438 | 253 | Bryan Byrd |
+| 437 | 253 | Bryan Byrd |
+| 438 | 253 | Hyper Bridger |
 | 439 | 252 | Jl |
 | 440 | 252 | Josh Borquez |
 | 441 | 251 | Colleen Phelps |
@@ -478,11 +478,11 @@
 | 470 | 236 | Loopy Fallzone |
 | 471 | 234 | Cheeky Twisterfit |
 | 472 | 233 | Tony Waters |
-| 473 | 233 | Anna Moeller |
-| 474 | 233 | Criss |
+| 473 | 233 | Criss |
+| 474 | 233 | Anna Moeller |
 | 475 | 232 | Sunny Tiltgrid |
-| 476 | 232 | Melanie Sherwood |
-| 477 | 232 | Stephanie Hill |
+| 476 | 232 | Stephanie Hill |
+| 477 | 232 | Melanie Sherwood |
 | 478 | 231 | Giggly Brickroll |
 | 479 | 230 | DanceLuvLaugh |
 | 480 | 230 | BigE |

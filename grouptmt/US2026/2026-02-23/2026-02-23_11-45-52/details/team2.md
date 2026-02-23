@@ -821,7 +821,7 @@
 | 813 | 461 | Kristen O'Neal |
 | 814 | 461 | Amanda West |
 | 815 | 460 | LaWanda Powell |
-| 816 | 459 | Nikki Nikki |
+| 816 | 459 | Tim Galle |
 | 817 | 459 | Boozi |
 | 818 | 459 | Pocho Zavala |
 | 819 | 459 | Nikki Nikki |
@@ -865,8 +865,8 @@
 | 857 | 439 | Sarah Sims |
 | 858 | 438 | Joel Rosado |
 | 859 | 438 | Tom Steffen |
-| 860 | 438 | Kelly Amos |
-| 861 | 438 | Deyawn Smith |
+| 860 | 438 | Deyawn Smith |
+| 861 | 438 | Kelly Amos |
 | 862 | 437 | Oscar Bernie |
 | 863 | 437 | Shalisa Hill |
 | 864 | 436 | Regina Knight |
@@ -951,8 +951,8 @@
 | 943 | 404 | Christy Green |
 | 944 | 404 | Jes Norris |
 | 945 | 403 | mshir |
-| 946 | 403 | Goofy Dasher |
-| 947 | 403 | Nate Skidmore |
+| 946 | 403 | Nate Skidmore |
+| 947 | 403 | Goofy Dasher |
 | 948 | 402 | B |
 | 949 | 402 | BlaqSupaMan |
 | 950 | 402 | LuckyChopstix |

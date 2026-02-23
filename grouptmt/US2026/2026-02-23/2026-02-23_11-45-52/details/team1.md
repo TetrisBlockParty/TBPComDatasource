@@ -91,8 +91,8 @@
 | 83 | 648 | Evie Khalil |
 | 84 | 647 | Jason Jones |
 | 85 | 600 | Greg Hart |
-| 86 | 598 | Erin Hodges Plumb |
-| 87 | 598 | Kellie |
+| 86 | 598 | Kellie |
+| 87 | 598 | Erin Hodges Plumb |
 | 88 | 588 | Lori Sanders- Davis |
 | 89 | 584 | Jen Sartain |
 | 90 | 583 | Theo Pinnow |
@@ -262,10 +262,10 @@
 | 254 | 280 | Billie Dawn Sparks |
 | 255 | 279 | Chris Dawson |
 | 256 | 277 | Nutty Spinblock |
-| 257 | 277 | Melissa Lemmon |
-| 258 | 277 | Glitzy Curvebuilder |
-| 259 | 275 | Cheeky Pop |
-| 260 | 275 | Chris65 |
+| 257 | 277 | Glitzy Curvebuilder |
+| 258 | 277 | Melissa Lemmon |
+| 259 | 275 | Chris65 |
+| 260 | 275 | Cheeky Pop |
 | 261 | 273 | Наталья Солоид |
 | 262 | 273 | Larry Tilton |
 | 263 | 272 | Michelle Beres |
@@ -349,13 +349,13 @@
 | 341 | 220 | Teri Oehlke |
 | 342 | 220 | Allena Craft |
 | 343 | 220 | Gary Gobin |
-| 344 | 219 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
-| 345 | 219 | Jeanna Dunn |
-| 346 | 219 | Negan Mallory Knoxx Spence |
+| 344 | 219 | Jeanna Dunn |
+| 345 | 219 | Negan Mallory Knoxx Spence |
+| 346 | 219 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 347 | 218 | Jason Benitez |
-| 348 | 217 | Cheeky Crusher |
-| 349 | 217 | Betsy |
-| 350 | 217 | Speedy Snapfall |
+| 348 | 217 | Betsy |
+| 349 | 217 | Speedy Snapfall |
+| 350 | 217 | Cheeky Crusher |
 | 351 | 216 | Chad Atchley |
 | 352 | 216 | Shauntina Burke |
 | 353 | 215 | Quirky Pusher |
@@ -394,7 +394,7 @@
 | 386 | 199 | Larissa Marie Nelson |
 | 387 | 198 | Marci Sanders |
 | 388 | 197 | Cool Towerzone |
-| 389 | 196 | Brave Slice |
+| 389 | 196 | Rachel Copas |
 | 390 | 196 | Steph |
 | 391 | 196 | Brave Slice |
 | 392 | 195 | Herm Junior |
