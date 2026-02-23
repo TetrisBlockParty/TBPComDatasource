@@ -954,8 +954,8 @@
 | 946 | 472 | Cathleena Giusto |
 | 947 | 471 | Cleo Sims |
 | 948 | 471 | Keyloni Duvall |
-| 949 | 471 | Mike Oxmall |
-| 950 | 471 | Charming Leech |
+| 949 | 471 | Charming Leech |
+| 950 | 471 | Mike Oxmall |
 | 951 | 470 | Katie Marie |
 | 952 | 470 | Tum |
 | 953 | 470 | AkaLefty |

@@ -164,11 +164,11 @@
 | 156 | 508 | Twisty Clicky |
 | 157 | 502 | Ellen Durfee |
 | 158 | 499 | Ericca Eldridge |
-| 159 | 498 | Nope Young |
-| 160 | 498 | Melissa Adams |
+| 159 | 498 | Melissa Adams |
+| 160 | 498 | Nope Young |
 | 161 | 496 | Jessica Lynn Cutlip |
-| 162 | 491 | Jade Rian |
-| 163 | 491 | Carrie Brian |
+| 162 | 491 | Carrie Brian |
+| 163 | 491 | Jade Rian |
 | 164 | 486 | Swanky Fitline |
 | 165 | 485 | Rico |
 | 166 | 480 | Brandon Crabbs |
@@ -205,8 +205,8 @@
 | 197 | 421 | JIGsaw ~(•¿°)~ |
 | 198 | 421 | Sam Bishop |
 | 199 | 421 | Kesha Brady |
-| 200 | 418 | Marie-Pier Desjardins |
-| 201 | 418 | Lush Linkfall |
+| 200 | 418 | Lush Linkfall |
+| 201 | 418 | Marie-Pier Desjardins |
 | 202 | 415 | Berklie Apedaile |
 | 203 | 413 | John Brunetti |
 | 204 | 413 | Circuit8 |
@@ -228,20 +228,20 @@
 | 220 | 381 | Plucky Patternblock |
 | 221 | 380 | Rio Rocha |
 | 222 | 379 | Backoff Recupe |
-| 223 | 378 | Lauren Scott |
-| 224 | 378 | Silly Zonebuilder |
-| 225 | 376 | Zesty Twistbuilder |
-| 226 | 376 | shark tato |
+| 223 | 378 | Silly Zonebuilder |
+| 224 | 378 | Lauren Scott |
+| 225 | 376 | shark tato |
+| 226 | 376 | Zesty Twistbuilder |
 | 227 | 374 | Mr. Party |
 | 228 | 373 | JPW |
 | 229 | 372 | Holly Jolly |
-| 230 | 368 | Deanna Deckard |
-| 231 | 368 | Kris Bartlett |
+| 230 | 368 | Kris Bartlett |
+| 231 | 368 | Deanna Deckard |
 | 232 | 367 | Sue Joyce Staats |
 | 233 | 365 | Hyper Builder |
 | 234 | 363 | Googenheim |
-| 235 | 363 | Cheery Risebuilder |
-| 236 | 363 | Cindy Looper |
+| 235 | 363 | Cindy Looper |
+| 236 | 363 | Cheery Risebuilder |
 | 237 | 362 | Meg |
 | 238 | 361 | Rafael Valentin |
 | 239 | 361 | Danielle Kollias |

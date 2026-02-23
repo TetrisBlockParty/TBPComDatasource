@@ -203,8 +203,8 @@
 | 195 | 392 | Kathy Langham |
 | 196 | 391 | Monica Donato |
 | 197 | 390 | Elaine Elaine |
-| 198 | 387 | Witty Builderfit |
-| 199 | 387 | Carrie Smith |
+| 198 | 387 | Carrie Smith |
+| 199 | 387 | Witty Builderfit |
 | 200 | 387 | Ananda Mendez |
 | 201 | 386 | Brian Spotts |
 | 202 | 384 | Tami Luce Martin |
@@ -242,8 +242,8 @@
 | 234 | 357 | Shiny Snapfit |
 | 235 | 354 | Dino |
 | 236 | 354 | Dizzy Slider |
-| 237 | 353 | Josh Riemer |
-| 238 | 353 | Reesey Enyart |
+| 237 | 353 | Reesey Enyart |
+| 238 | 353 | Josh Riemer |
 | 239 | 353 | Jaimie Lynn |
 | 240 | 351 | Tyler Hertzog |
 | 241 | 350 | Tipsy Strikerpiece |

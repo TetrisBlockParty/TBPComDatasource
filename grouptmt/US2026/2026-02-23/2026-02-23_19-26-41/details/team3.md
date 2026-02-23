@@ -230,12 +230,12 @@
 | 222 | 549 | Sarah Cowan Burgos |
 | 223 | 548 | Danielle Balcom |
 | 224 | 547 | Staci George Fitzsimmons |
-| 225 | 546 | Cynthia Castros-Hampton |
-| 226 | 546 | Mykal Burton |
+| 225 | 546 | Mykal Burton |
+| 226 | 546 | Cynthia Castros-Hampton |
 | 227 | 541 | Fran Lin |
 | 228 | 539 | Betty Bóò |
-| 229 | 537 | Tessina Dewey-Mancino |
-| 230 | 537 | Aerian Preston |
+| 229 | 537 | Aerian Preston |
+| 230 | 537 | Tessina Dewey-Mancino |
 | 231 | 537 | Tamara Deherrera |
 | 232 | 531 | Chauntee Alfrey-Cardinale |
 | 233 | 530 | Stephanie Blkpep Davidson |
@@ -356,8 +356,8 @@
 | 348 | 365 | LaShey Thompson |
 | 349 | 364 | ROODBOY |
 | 350 | 362 | Foltz Lee Kelli |
-| 351 | 362 | Chummy Rumbler |
-| 352 | 362 | Brandon Givens |
+| 351 | 362 | Brandon Givens |
+| 352 | 362 | Chummy Rumbler |
 | 353 | 361 | neci |
 | 354 | 359 | Kristen Weese |
 | 355 | 359 | Steven Fulater |
