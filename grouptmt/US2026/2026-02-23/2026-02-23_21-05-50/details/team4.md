@@ -147,8 +147,8 @@
 | 139 | 551 | Ren Mc |
 | 140 | 549 | Carlos Ramirez |
 | 141 | 546 | Dizzy Tiley |
-| 142 | 545 | Livvy |
-| 143 | 545 | Desi Desporte |
+| 142 | 545 | Desi Desporte |
+| 143 | 545 | Livvy |
 | 144 | 542 | Austin Owens |
 | 145 | 540 | Rodney McMath Jr. |
 | 146 | 536 | Kimberlee Jan Beckstead |
@@ -299,13 +299,13 @@
 | 291 | 305 | Sassy Pattern |
 | 292 | 304 | Shiny Fit |
 | 293 | 301 | Erin Sabol |
-| 294 | 300 | Dana Scott |
-| 295 | 300 | Kate |
+| 294 | 300 | Kate |
+| 295 | 300 | Dana Scott |
 | 296 | 298 | Chance Strickland |
 | 297 | 297 | Kim Klutz Olson |
 | 298 | 297 | Kenna Gunderland |
-| 299 | 296 | Sarah Hoffman |
-| 300 | 296 | Vic |
+| 299 | 296 | Vic |
+| 300 | 296 | Sarah Hoffman |
 | 301 | 295 | Cool Gridzone |
 | 302 | 295 | Blessedmama |
 | 303 | 293 | DonMega |

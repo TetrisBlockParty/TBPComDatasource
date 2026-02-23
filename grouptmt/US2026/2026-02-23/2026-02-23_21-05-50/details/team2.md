@@ -158,8 +158,8 @@
 | 150 | 1960 | Aimee Campbell |
 | 151 | 1959 | Robin Kerby |
 | 152 | 1936 | Angi Harrison |
-| 153 | 1932 | Gary Schaffner Jr. |
-| 154 | 1932 | Angela Lynn |
+| 153 | 1932 | Angela Lynn |
+| 154 | 1932 | Gary Schaffner Jr. |
 | 155 | 1912 | Tonya Brooks-Johnson |
 | 156 | 1904 | Goofy Snapfit |
 | 157 | 1897 | Angel |
@@ -363,8 +363,8 @@
 | 355 | 1040 | Taylor Phillips |
 | 356 | 1038 | Sheronda Jackson |
 | 357 | 1037 | Jessica Wayne Cornwall |
-| 358 | 1036 | Amber Shoemaker |
-| 359 | 1036 | Allison Lockyer |
+| 358 | 1036 | Allison Lockyer |
+| 359 | 1036 | Amber Shoemaker |
 | 360 | 1029 | Crystal Hoffman |
 | 361 | 1026 | Joshua Mandel |
 | 362 | 1024 | Susan Perraut Jones |

@@ -158,19 +158,19 @@
 | 150 | 497 | Arianna O'Brien |
 | 151 | 494 | Sean Stallings |
 | 152 | 492 | Rebekah LeiAnn Bonsell |
-| 153 | 491 | cc |
-| 154 | 491 | Adrian Esteban |
+| 153 | 491 | Adrian Esteban |
+| 154 | 491 | cc |
 | 155 | 488 | Hyper |
-| 156 | 486 | Michelle Beres |
-| 157 | 486 | Dee Perry |
+| 156 | 486 | Dee Perry |
+| 157 | 486 | Michelle Beres |
 | 158 | 483 | Trina Gee |
 | 159 | 482 | Sarah Somers Gray |
 | 160 | 476 | Ly Phethmany |
 | 161 | 476 | phrmblk24 |
 | 162 | 470 | Candy Jones |
 | 163 | 468 | Steve Schneider |
-| 164 | 463 | Brandi Huntington |
-| 165 | 463 | Nicole Roseberry Weber |
+| 164 | 463 | Nicole Roseberry Weber |
+| 165 | 463 | Brandi Huntington |
 | 166 | 462 | Luciano Moreira |
 | 167 | 462 | Hasty Cascader |
 | 168 | 458 | Dizzy Slider |

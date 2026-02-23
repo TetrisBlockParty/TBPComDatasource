@@ -224,13 +224,13 @@
 | 216 | 576 | Nicole Flippo |
 | 217 | 571 | Salena Whitlock |
 | 218 | 570 | Twisty Brick LT |
-| 219 | 569 | Michael Johnson |
-| 220 | 569 | Juliana Dottore |
+| 219 | 569 | Juliana Dottore |
+| 220 | 569 | Michael Johnson |
 | 221 | 568 | Rachael McClain Owens |
 | 222 | 567 | FuzzyNavel |
 | 223 | 566 | LaTanya GeminiondaRise Johnson |
-| 224 | 564 | Poppy Splitter |
-| 225 | 564 | Christine Trester |
+| 224 | 564 | Christine Trester |
+| 225 | 564 | Poppy Splitter |
 | 226 | 563 | Fallorina Susana |
 | 227 | 562 | Dave Herzog |
 | 228 | 561 | Silly Twist |
