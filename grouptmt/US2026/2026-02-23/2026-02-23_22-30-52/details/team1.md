@@ -191,8 +191,8 @@
 | 183 | 425 | Tyler Werts |
 | 184 | 425 | Tana |
 | 185 | 424 | Emily Adelaide Wheatley |
-| 186 | 423 | Elaine Elaine |
-| 187 | 423 | Kimberly Garcia |
+| 186 | 423 | Kimberly Garcia |
+| 187 | 423 | Elaine Elaine |
 | 188 | 422 | Chelsea Dahlquist |
 | 189 | 422 | canbrick |
 | 190 | 418 | Mike Ames |
@@ -313,11 +313,11 @@
 | 305 | 309 | Larry Tilton |
 | 306 | 308 | Glitzy Curvebuilder |
 | 307 | 306 | Cece Ibarra |
-| 308 | 305 | Chase Collinsworth |
-| 309 | 305 | Amh |
+| 308 | 305 | Amh |
+| 309 | 305 | Chase Collinsworth |
 | 310 | 303 | DaRascal |
-| 311 | 302 | Bird Person |
-| 312 | 302 | LaFontaine Leslie |
+| 311 | 302 | LaFontaine Leslie |
+| 312 | 302 | Bird Person |
 | 313 | 301 | Brave Wrecker |
 | 314 | 301 | Chad Atchley |
 | 315 | 300 | Giggly Builderline |

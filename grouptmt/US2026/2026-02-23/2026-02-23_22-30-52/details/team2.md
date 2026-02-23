@@ -215,8 +215,8 @@
 | 207 | 1580 | Sally Dennis |
 | 208 | 1578 | Christine Egidio Morocco |
 | 209 | 1569 | Ashley Dow |
-| 210 | 1558 | Crystal Slaughter |
-| 211 | 1558 | Tim Dyer |
+| 210 | 1558 | Tim Dyer |
+| 211 | 1558 | Crystal Slaughter |
 | 212 | 1557 | Poppy Snap |
 | 213 | 1556 | Tonya Morgan |
 | 214 | 1554 | Howard Forest |
@@ -581,8 +581,8 @@
 | 573 | 737 | Breezy Clusterer |
 | 574 | 736 | Ashley Munn |
 | 575 | 734 | Emily Lyric Converse |
-| 576 | 733 | Joce Lynn |
-| 577 | 733 | Lylymom |
+| 576 | 733 | Lylymom |
+| 577 | 733 | Joce Lynn |
 | 578 | 733 | Christine Bollig |
 | 579 | 731 | Melissa Holsinger |
 | 580 | 729 | goofinoff |

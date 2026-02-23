@@ -96,8 +96,8 @@
 | 88 | 783 | Guy Incognito |
 | 89 | 783 | Denise Carlson |
 | 90 | 775 | Klo |
-| 91 | 768 | Judy Cox |
-| 92 | 768 | Trista Leah |
+| 91 | 768 | Trista Leah |
+| 92 | 768 | Judy Cox |
 | 93 | 767 | Shannon Ferrari |
 | 94 | 766 | Robin Watters |
 | 95 | 764 | Valerie Roberts |
@@ -230,8 +230,8 @@
 | 222 | 411 | Mimi |
 | 223 | 409 | Antony Dwayne Beasley |
 | 224 | 400 | TinyLegoRose |
-| 225 | 399 | Jeff Brian Gates |
-| 226 | 399 | Lindsay Ball |
+| 225 | 399 | Lindsay Ball |
+| 226 | 399 | Jeff Brian Gates |
 | 227 | 398 | Tyler Terrific |
 | 228 | 394 | Nita Wells |
 | 229 | 390 | Kathy Brookins |
@@ -276,8 +276,8 @@
 | 268 | 349 | jim |
 | 269 | 348 | blasterB |
 | 270 | 347 | Daria Rycewicz |
-| 271 | 347 | Nerdy Twisterfit |
-| 272 | 347 | Gdiguy |
+| 271 | 347 | Gdiguy |
+| 272 | 347 | Nerdy Twisterfit |
 | 273 | 343 | HastyGrabber |
 | 274 | 340 | Lauren Lamb |
 | 275 | 340 | Cranky Rollpiece |
@@ -359,8 +359,8 @@
 | 351 | 270 | 07VHVW |
 | 352 | 270 | 23 |
 | 353 | 269 | Chummy Towerzone |
-| 354 | 268 | Shukee Lo |
-| 355 | 268 | Riverdale |
+| 354 | 268 | Riverdale |
+| 355 | 268 | Shukee Lo |
 | 356 | 267 | Metsfan |
 | 357 | 267 | Marcus TheeyoungWoe Gilmore |
 | 358 | 267 | Jarred Falls |

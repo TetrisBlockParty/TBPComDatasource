@@ -280,13 +280,13 @@
 | 272 | 490 | Marci Mize Fandrich |
 | 273 | 486 | Eileen Brady Thurber |
 | 274 | 482 | Chummy Rumbler |
-| 275 | 482 | Isabel Ocasio |
-| 276 | 482 | Fancy Curver |
+| 275 | 482 | Fancy Curver |
+| 276 | 482 | Isabel Ocasio |
 | 277 | 479 | Stephanie Bradley |
 | 278 | 477 | Hyper Matchzone |
 | 279 | 476 | Shunta Jacobs |
-| 280 | 475 | Tasha Wesson-Torrence |
-| 281 | 475 | Rebecca Bailey |
+| 280 | 475 | Rebecca Bailey |
+| 281 | 475 | Tasha Wesson-Torrence |
 | 282 | 474 | Tiffanie Alley |
 | 283 | 473 | Rebecca Funderburk Kirby |
 | 284 | 471 | Mendoza Lee Christy |
