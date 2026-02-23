@@ -40,8 +40,8 @@
 | 32 | 4260 | Robert Diddle |
 | 33 | 4199 | Claire Noland |
 | 34 | 4128 | Angela Pruitt |
-| 35 | 4120 | Corrine Hawks Soriano |
-| 36 | 4120 | Kristen Sceurman |
+| 35 | 4120 | Kristen Sceurman |
+| 36 | 4120 | Corrine Hawks Soriano |
 | 37 | 4093 | Jill Stroehlein |
 | 38 | 3895 | Nickie Baby |
 | 39 | 3770 | Brittany Alicia |
@@ -197,8 +197,8 @@
 | 189 | 1300 | Tacara Cummings |
 | 190 | 1294 | Ashley House |
 | 191 | 1286 | Altamirano Michael |
-| 192 | 1282 | Ashley Rose Frederick |
-| 193 | 1282 | Tanya Parsons |
+| 192 | 1282 | Tanya Parsons |
+| 193 | 1282 | Ashley Rose Frederick |
 | 194 | 1258 | Joyce Johnson Vaughn |
 | 195 | 1257 | Michele Gabriel |
 | 196 | 1252 | Angel |
@@ -233,8 +233,8 @@
 | 225 | 1121 | Tommy Tha Boss Gunz |
 | 226 | 1120 | Chirpy Staggerpiece |
 | 227 | 1120 | Sarah Freitas |
-| 228 | 1114 | Kevin Walp |
-| 229 | 1114 | Ginnell Browner |
+| 228 | 1114 | Ginnell Browner |
+| 229 | 1114 | Kevin Walp |
 | 230 | 1112 | Peppy Zone |
 | 231 | 1111 | Julay |
 | 232 | 1110 | Sheniya Spurgeon |
@@ -312,9 +312,9 @@
 | 304 | 907 | Gene Mills |
 | 305 | 906 | Deborah Miller |
 | 306 | 905 | F-X |
-| 307 | 904 | Jennifer Aiken |
+| 307 | 904 | Ashlen Dorrell |
 | 308 | 904 | John Bednarik |
-| 309 | 904 | Ashlen Dorrell |
+| 309 | 904 | Jennifer Aiken |
 | 310 | 902 | William Hunt |
 | 311 | 901 | Kevin Sees |
 | 312 | 899 | Chevy |

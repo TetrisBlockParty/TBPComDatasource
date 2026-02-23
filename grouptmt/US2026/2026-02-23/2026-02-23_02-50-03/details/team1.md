@@ -104,8 +104,8 @@
 | 96 | 492 | Ash Galvan |
 | 97 | 489 | Deanna L Hermanson |
 | 98 | 486 | Tater |
-| 99 | 483 | Tdub |
-| 100 | 483 | cc |
+| 99 | 483 | cc |
+| 100 | 483 | Tdub |
 | 101 | 477 | April Carroll |
 | 102 | 472 | Hasbro Bros |
 | 103 | 462 | Luciano Moreira |
@@ -444,7 +444,7 @@
 | 436 | 151 | Michelle |
 | 437 | 150 | Jennifer Corrado |
 | 438 | 150 | 윤이나 |
-| 439 | 149 | Glitzy Grid |
+| 439 | 149 | Kimberly Davis |
 | 440 | 149 | Logan McFarland |
 | 441 | 149 | MIKOZ |
 | 442 | 149 | Glitzy Grid |

@@ -26,8 +26,8 @@
 | 18 | 2697 | River |
 | 19 | 2494 | Ashley Jones |
 | 20 | 2302 | Laura Melton |
-| 21 | 2287 | Brandon Green |
-| 22 | 2287 | Tetris Master |
+| 21 | 2287 | Tetris Master |
+| 22 | 2287 | Brandon Green |
 | 23 | 2237 | Susan Valentino |
 | 24 | 2144 | Zippy Strikesnap |
 | 25 | 2015 | Chummy Shatterer |
@@ -234,8 +234,8 @@
 | 226 | 401 | Heather Green |
 | 227 | 400 | Denita Mungro |
 | 228 | 393 | Rebecca Funderburk Kirby |
-| 229 | 391 | Nicole Flippo |
-| 230 | 391 | Trisha Balmer |
+| 229 | 391 | Trisha Balmer |
+| 230 | 391 | Nicole Flippo |
 | 231 | 390 | rosy |
 | 232 | 387 | Gideon Walker |
 | 233 | 384 | Marci Mize Fandrich |
@@ -434,10 +434,10 @@
 | 426 | 225 | Beezwax |
 | 427 | 224 | Sarah Morris |
 | 428 | 222 | Eileen Brady Thurber |
-| 429 | 221 | Ryan Williams |
-| 430 | 221 | Vaners |
-| 431 | 221 | Bleu Sun Beams |
-| 432 | 221 | Emma |
+| 429 | 221 | Vaners |
+| 430 | 221 | Bleu Sun Beams |
+| 431 | 221 | Emma |
+| 432 | 221 | Ryan Williams |
 | 433 | 221 | Glitzy Rotate |
 | 434 | 219 | Trice Thomas |
 | 435 | 219 | Breanna Marsden |
