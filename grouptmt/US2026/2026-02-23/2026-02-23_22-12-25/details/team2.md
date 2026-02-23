@@ -165,8 +165,8 @@
 | 157 | 1904 | Goofy Snapfit |
 | 158 | 1897 | Angel |
 | 159 | 1874 | Loopy Clusterbuilder |
-| 160 | 1840 | Kristopher Miller |
-| 161 | 1840 | blarg |
+| 160 | 1840 | blarg |
+| 161 | 1840 | Kristopher Miller |
 | 162 | 1835 | Alisa Lamb |
 | 163 | 1829 | Mr. Street Stack |
 | 164 | 1828 | Laura Wyatt |
@@ -288,8 +288,8 @@
 | 280 | 1260 | Roman Lavochnik |
 | 281 | 1259 | Foxxo |
 | 282 | 1258 | Dimitra Zazara |
-| 283 | 1257 | Megan Ferguson Leone |
-| 284 | 1257 | Megan Garrick |
+| 283 | 1257 | Megan Garrick |
+| 284 | 1257 | Megan Ferguson Leone |
 | 285 | 1247 | Ericka Marie Smith |
 | 286 | 1241 | Jennifer Casey-Kay |
 | 287 | 1238 | Groovy Puzzle |

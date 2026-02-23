@@ -117,8 +117,8 @@
 | 109 | 626 | Damon J. Martin |
 | 110 | 612 | femmefatale |
 | 111 | 604 | Ryan Lunnin |
-| 112 | 601 | Phu ckalldems |
-| 113 | 601 | Evan Richmond |
+| 112 | 601 | Evan Richmond |
+| 113 | 601 | Phu ckalldems |
 | 114 | 598 | Jessi Sauer |
 | 115 | 595 | Ty Brown |
 | 116 | 594 | Basment Living |
@@ -136,8 +136,8 @@
 | 128 | 560 | And |
 | 129 | 552 | Hellsin |
 | 130 | 547 | Sarah Lombardo |
-| 131 | 543 | Sharon Reynolds |
-| 132 | 543 | Death |
+| 131 | 543 | Death |
+| 132 | 543 | Sharon Reynolds |
 | 133 | 537 | Stephanie Zahn |
 | 134 | 535 | Susan Ward |
 | 135 | 534 | Loony Fitzone |
@@ -148,8 +148,8 @@
 | 140 | 523 | BadG52 |
 | 141 | 522 | Tanya Carpenter-Reynolds |
 | 142 | 521 | Nery Martinez |
-| 143 | 519 | Anaid Sanchez |
-| 144 | 519 | April Carroll |
+| 143 | 519 | April Carroll |
+| 144 | 519 | Anaid Sanchez |
 | 145 | 516 | Plucky Ziggy |
 | 146 | 515 | Constance Risner |
 | 147 | 513 | Colena Davenport |
@@ -168,8 +168,8 @@
 | 160 | 483 | Trina Gee |
 | 161 | 482 | Sarah Somers Gray |
 | 162 | 479 | Ly Phethmany |
-| 163 | 476 | Snappy Matcher |
-| 164 | 476 | phrmblk24 |
+| 163 | 476 | phrmblk24 |
+| 164 | 476 | Snappy Matcher |
 | 165 | 470 | Candy Jones |
 | 166 | 468 | Steve Schneider |
 | 167 | 468 | Dandy Basegrid |
@@ -187,8 +187,8 @@
 | 179 | 434 | Yvonne Marie |
 | 180 | 432 | Lori Bales |
 | 181 | 426 | Maria C. Hernandez |
-| 182 | 425 | Tana |
-| 183 | 425 | Tyler Werts |
+| 182 | 425 | Tyler Werts |
+| 183 | 425 | Tana |
 | 184 | 424 | Emily Adelaide Wheatley |
 | 185 | 423 | Kimberly Garcia |
 | 186 | 423 | Elaine Elaine |
@@ -211,8 +211,8 @@
 | 203 | 398 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 204 | 397 | Erin Rosberg |
 | 205 | 395 | Monica Donato |
-| 206 | 393 | Wisa |
-| 207 | 393 | Lehrin Maria |
+| 206 | 393 | Lehrin Maria |
+| 207 | 393 | Wisa |
 | 208 | 392 | Kathy Langham |
 | 209 | 387 | Carrie Smith |
 | 210 | 387 | Witty Builderfit |
@@ -416,10 +416,10 @@
 | 408 | 246 | san |
 | 409 | 245 | Rico Rico |
 | 410 | 244 | Scott Betson |
-| 411 | 243 | Charlie Walker |
-| 412 | 243 | Bouncy Grid |
-| 413 | 242 | Strig |
-| 414 | 242 | Tamara Brown |
+| 411 | 243 | Bouncy Grid |
+| 412 | 243 | Charlie Walker |
+| 413 | 242 | Tamara Brown |
+| 414 | 242 | Strig |
 | 415 | 242 | Bay Marie |
 | 416 | 242 | John Ramirez |
 | 417 | 241 | Abbey Crespo |
@@ -453,8 +453,8 @@
 | 445 | 221 | Amy Hess |
 | 446 | 221 | Spunky Builderpiece |
 | 447 | 219 | Breanna Luna |
-| 448 | 219 | Jeanna Dunn |
-| 449 | 219 | Negan Mallory Knoxx Spence |
+| 448 | 219 | Negan Mallory Knoxx Spence |
+| 449 | 219 | Jeanna Dunn |
 | 450 | 218 | Jason Benitez |
 | 451 | 217 | Betsy |
 | 452 | 217 | Nate Funk |

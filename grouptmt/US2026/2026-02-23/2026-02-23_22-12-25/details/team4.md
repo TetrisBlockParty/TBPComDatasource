@@ -331,9 +331,9 @@
 | 323 | 288 | Amy Jean |
 | 324 | 287 | Duck |
 | 325 | 286 | Jumpy Zonepiece |
-| 326 | 284 | rebel4lyfe |
-| 327 | 284 | Glitzy Corner |
-| 328 | 284 | Malakai Darien Fox |
+| 326 | 284 | Glitzy Corner |
+| 327 | 284 | Malakai Darien Fox |
+| 328 | 284 | rebel4lyfe |
 | 329 | 283 | Jackie Clark |
 | 330 | 282 | DQ Martin |
 | 331 | 282 | Bradley Reeves |
@@ -403,22 +403,22 @@
 | 395 | 246 | giantslover514 |
 | 396 | 244 | Elizabeth Tinoco |
 | 397 | 244 | Perky Piecegrid |
-| 398 | 243 | Val Erie |
-| 399 | 243 | Victoria Faniel |
+| 398 | 243 | Victoria Faniel |
+| 399 | 243 | Val Erie |
 | 400 | 242 | PurpleMoonMa |
 | 401 | 240 | Zany Shatterer |
 | 402 | 240 | Jackie Marie |
 | 403 | 240 | Perky Patternblock |
 | 404 | 240 | KayM |
-| 405 | 239 | Laura Hosford |
-| 406 | 239 | Kevin Bush |
+| 405 | 239 | Kevin Bush |
+| 406 | 239 | Laura Hosford |
 | 407 | 239 | Denise B |
 | 408 | 238 | 中山成巳 |
 | 409 | 238 | GBR |
 | 410 | 236 | The Murphy |
 | 411 | 235 | LaDonna LovinmesomeMe Lambert |
-| 412 | 235 | Stacy Jones |
-| 413 | 235 | Shainne Brewer |
+| 412 | 235 | Shainne Brewer |
+| 413 | 235 | Stacy Jones |
 | 414 | 234 | Richard-April Kice |
 | 415 | 234 | Speedy Cascadeclear |
 | 416 | 234 | Amanda Christine |
