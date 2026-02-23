@@ -151,8 +151,8 @@
 | 143 | 1644 | Speedy Spinblock |
 | 144 | 1639 | Jessie McDougald |
 | 145 | 1629 | Mari Ac |
-| 146 | 1623 | Rebecca Doughman |
-| 147 | 1623 | Janel Turley-Garner |
+| 146 | 1623 | Janel Turley-Garner |
+| 147 | 1623 | Rebecca Doughman |
 | 148 | 1605 | Christi Hulet |
 | 149 | 1602 | blackq |
 | 150 | 1601 | Ray Ray Prado |
@@ -293,8 +293,8 @@
 | 285 | 1010 | Brittany Radaszewski |
 | 286 | 1007 | Missie Lawson Gebhardt |
 | 287 | 1003 | Andrea Maher |
-| 288 | 998 | Shelley Thornburgh Wright |
-| 289 | 998 | Keri Womack |
+| 288 | 998 | Keri Womack |
+| 289 | 998 | Shelley Thornburgh Wright |
 | 290 | 996 | Ashie Ann |
 | 291 | 988 | Juliana Marques Do Nascimento Gordy |
 | 292 | 987 | Osun Anuket Esu |
@@ -306,15 +306,15 @@
 | 298 | 976 | Sam Joe |
 | 299 | 976 | Della Hole |
 | 300 | 975 | Hyper Cluster |
-| 301 | 972 | Binyah-Binyah |
-| 302 | 972 | Barbra Miller |
+| 301 | 972 | Barbra Miller |
+| 302 | 972 | Binyah-Binyah |
 | 303 | 971 | Jojo Momma |
 | 304 | 969 | Em Chen |
 | 305 | 969 | Boldy Cascadepiece |
 | 306 | 965 | F-X |
 | 307 | 961 | Angela Lynn |
-| 308 | 958 | Brenda Messer |
-| 309 | 958 | Doowop40 |
+| 308 | 958 | Doowop40 |
+| 309 | 958 | Brenda Messer |
 | 310 | 957 | Block Master |
 | 311 | 956 | Phil J. Grombliniak |
 | 312 | 955 | Angela Bonquiqui Dinish |
@@ -373,8 +373,8 @@
 | 365 | 829 | Jessica Wayne Cornwall |
 | 366 | 828 | Kimmy Newman |
 | 367 | 825 | Jeremy Parodi |
-| 368 | 824 | Khalil Lowe |
-| 369 | 824 | Danielle Johnson-Chandler |
+| 368 | 824 | Danielle Johnson-Chandler |
+| 369 | 824 | Khalil Lowe |
 | 370 | 822 | Lola Contreras |
 | 371 | 821 | Angie Bolton Workman |
 | 372 | 821 | Arkei Luster |
@@ -478,8 +478,8 @@
 | 470 | 689 | Gauri Shrotriya |
 | 471 | 686 | Christine Coughlin |
 | 472 | 684 | Sarah DeHart |
-| 473 | 684 | Ann Knutson Anderson |
-| 474 | 684 | Ellie Jonas |
+| 473 | 684 | Ellie Jonas |
+| 474 | 684 | Ann Knutson Anderson |
 | 475 | 683 | Eric Castaneda |
 | 476 | 681 | AgileDragon |
 | 477 | 680 | blume |
@@ -549,8 +549,8 @@
 | 541 | 612 | Briana Alexander |
 | 542 | 612 | Slinky Racker |
 | 543 | 610 | Michael Buckner |
-| 544 | 609 | Autumn Schaeffer |
-| 545 | 609 | Smashanator |
+| 544 | 609 | Smashanator |
+| 545 | 609 | Autumn Schaeffer |
 | 546 | 609 | Cecilia A Jenkins |
 | 547 | 608 | Blacc Blac |
 | 548 | 607 | Mo Shine On |
@@ -719,18 +719,18 @@
 | 711 | 485 | Regina Young |
 | 712 | 484 | Joice Hansen |
 | 713 | 484 | Street Sweeper |
-| 714 | 483 | Tabs Reichert |
-| 715 | 483 | Austin Wilson |
+| 714 | 483 | Austin Wilson |
+| 715 | 483 | Tabs Reichert |
 | 716 | 482 | Amélie Cadieux |
 | 717 | 482 | Drwatson187 |
 | 718 | 482 | Nate |
 | 719 | 481 | Lucy Marshall |
-| 720 | 480 | Jennifer Leigh |
-| 721 | 480 | Dar |
+| 720 | 480 | Dar |
+| 721 | 480 | Jennifer Leigh |
 | 722 | 479 | bbv |
-| 723 | 479 | Ashlee Cruz |
-| 724 | 479 | Jason Garnatz |
-| 725 | 479 | Emilie Desma |
+| 723 | 479 | Jason Garnatz |
+| 724 | 479 | Emilie Desma |
+| 725 | 479 | Ashlee Cruz |
 | 726 | 479 | Shyenn Gadsby |
 | 727 | 478 | Shindee |
 | 728 | 478 | Dawn L Washington-Feuquay |
@@ -821,8 +821,8 @@
 | 813 | 435 | Snappy snappers |
 | 814 | 435 | John |
 | 815 | 434 | Twisty Tetriblast |
-| 816 | 433 | Melissa Koria |
-| 817 | 433 | Jessica Hughes |
+| 816 | 433 | Jessica Hughes |
+| 817 | 433 | Melissa Koria |
 | 818 | 431 | Quinn |
 | 819 | 431 | Lewis Sturgeon |
 | 820 | 430 | Alexis Richardson |
@@ -878,8 +878,8 @@
 | 870 | 406 | Erin StFrancis |
 | 871 | 406 | Susan Arnburg |
 | 872 | 405 | Carrie Mitchell |
-| 873 | 405 | Dane Reing |
-| 874 | 405 | Marget Kay |
+| 873 | 405 | Marget Kay |
+| 874 | 405 | Dane Reing |
 | 875 | 405 | Swanky Columnbuilder |
 | 876 | 404 | Christy Green |
 | 877 | 404 | Shylee Tilman |
