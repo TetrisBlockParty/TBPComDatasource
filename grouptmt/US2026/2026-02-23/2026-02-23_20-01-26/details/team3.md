@@ -92,8 +92,8 @@
 | 84 | 1264 | Amanda L Baker |
 | 85 | 1244 | Lori Barnaby |
 | 86 | 1240 | Betty Ivy |
-| 87 | 1213 | Snappy Glidepiece |
-| 88 | 1213 | Nerdy Riseclear |
+| 87 | 1213 | Nerdy Riseclear |
+| 88 | 1213 | Snappy Glidepiece |
 | 89 | 1212 | Amanda Adkins |
 | 90 | 1187 | Danielle Mogg |
 | 91 | 1186 | Christian A. Pollard |
@@ -144,8 +144,8 @@
 | 136 | 864 | Sunny Rotater |
 | 137 | 841 | Loopy Fallmatch |
 | 138 | 837 | mzcatzy |
-| 139 | 834 | Kristin Delibac Corrigan |
-| 140 | 834 | opf |
+| 139 | 834 | opf |
+| 140 | 834 | Kristin Delibac Corrigan |
 | 141 | 833 | Crystal Frey |
 | 142 | 820 | Brenda Lee Vander Molen |
 | 143 | 815 | Dolores Falco |
@@ -159,8 +159,8 @@
 | 151 | 779 | Justin Ritter |
 | 152 | 773 | Daryn Elliott |
 | 153 | 773 | Daira Largen |
-| 154 | 764 | Groovy Catcher |
-| 155 | 764 | Hasty Cascadefit |
+| 154 | 764 | Hasty Cascadefit |
+| 155 | 764 | Groovy Catcher |
 | 156 | 762 | Santeria Trece Candles |
 | 157 | 761 | Peppy Shifter |
 | 158 | 759 | yoyo |
@@ -336,8 +336,8 @@
 | 328 | 383 | Skippy |
 | 329 | 382 | Amanda J. Mcneil-Anderson |
 | 330 | 381 | Noettín Kan Zasnemoore |
-| 331 | 379 | Kaitie Oliver |
-| 332 | 379 | Kelly |
+| 331 | 379 | Kelly |
+| 332 | 379 | Kaitie Oliver |
 | 333 | 378 | MsBee |
 | 334 | 377 | Hoppy Patternline |
 | 335 | 376 | Tasha Wesson-Torrence |

@@ -96,10 +96,10 @@
 | 88 | 742 | Susanna Guerry |
 | 89 | 740 | Lori Sanders- Davis |
 | 90 | 707 | Jason Jones |
-| 91 | 706 | Denice Dee |
-| 92 | 706 | Plucky Fallzone |
-| 93 | 704 | Kellie |
-| 94 | 704 | Karin Gillen |
+| 91 | 706 | Plucky Fallzone |
+| 92 | 706 | Denice Dee |
+| 93 | 704 | Karin Gillen |
+| 94 | 704 | Kellie |
 | 95 | 703 | Angel Fowler |
 | 96 | 689 | Lexuriuos Lifestlye |
 | 97 | 671 | Chirpy Smasher |
@@ -179,8 +179,8 @@
 | 171 | 434 | Yvonne Marie |
 | 172 | 432 | Lori Bales |
 | 173 | 426 | Maria C. Hernandez |
-| 174 | 425 | Tyler Werts |
-| 175 | 425 | Tana |
+| 174 | 425 | Tana |
+| 175 | 425 | Tyler Werts |
 | 176 | 424 | Emily Adelaide Wheatley |
 | 177 | 421 | Michelle Beres |
 | 178 | 420 | Cheeky Crusher |
@@ -433,8 +433,8 @@
 | 425 | 221 | Spunky Builderpiece |
 | 426 | 220 | Bay Marie |
 | 427 | 219 | Breanna Luna |
-| 428 | 219 | Negan Mallory Knoxx Spence |
-| 429 | 219 | Jeanna Dunn |
+| 428 | 219 | Jeanna Dunn |
+| 429 | 219 | Negan Mallory Knoxx Spence |
 | 430 | 218 | Jason Benitez |
 | 431 | 217 | Brave Slice |
 | 432 | 217 | Betsy |
