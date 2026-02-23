@@ -117,8 +117,8 @@
 | 109 | 831 | Angeline Joseph |
 | 110 | 830 | Stephanie Allmon |
 | 111 | 826 | Shane Wilson Jr. |
-| 112 | 816 | Brenda Lee Vander Molen |
-| 113 | 816 | Jesse Olive |
+| 112 | 816 | Jesse Olive |
+| 113 | 816 | Brenda Lee Vander Molen |
 | 114 | 800 | Lauren Girouard |
 | 115 | 799 | Dolores Falco |
 | 116 | 769 | Kristie |
@@ -195,8 +195,8 @@
 | 187 | 507 | Jim Mathews |
 | 188 | 502 | Snappy Balancer |
 | 189 | 500 | Sherika C. McDaniels |
-| 190 | 496 | Loopy Fallmatch |
-| 191 | 496 | Makelini Mausia |
+| 190 | 496 | Makelini Mausia |
+| 191 | 496 | Loopy Fallmatch |
 | 192 | 494 | FuzzyNavel |
 | 193 | 489 | Shannon Matthew Byers |
 | 194 | 489 | Poppy Splitter |

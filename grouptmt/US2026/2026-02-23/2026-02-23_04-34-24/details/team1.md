@@ -103,8 +103,8 @@
 | 95 | 522 | Sarah Lombardo |
 | 96 | 510 | Colena Davenport |
 | 97 | 497 | Arianna O'Brien |
-| 98 | 493 | Jennifer ManWarren |
-| 99 | 493 | MomMom |
+| 98 | 493 | MomMom |
+| 99 | 493 | Jennifer ManWarren |
 | 100 | 492 | Ash Galvan |
 | 101 | 489 | Deanna L Hermanson |
 | 102 | 488 | cc |
@@ -133,10 +133,10 @@
 | 125 | 425 | Dandy Basegrid |
 | 126 | 417 | Lori Sanders- Davis |
 | 127 | 411 | BadG52 |
-| 128 | 409 | Sweet Baker |
-| 129 | 409 | Goose egg |
-| 130 | 406 | Desiree Deschaine Havee |
-| 131 | 406 | Candy Jones |
+| 128 | 409 | Goose egg |
+| 129 | 409 | Sweet Baker |
+| 130 | 406 | Candy Jones |
+| 131 | 406 | Desiree Deschaine Havee |
 | 132 | 403 | Rachael |
 | 133 | 402 | Chris K |
 | 134 | 399 | Nery Martinez |
@@ -239,8 +239,8 @@
 | 231 | 267 | Daring Fitclear |
 | 232 | 265 | Kandae |
 | 233 | 264 | Jenny Gingrich Fuentes |
-| 234 | 263 | Perky Shiftsnap |
-| 235 | 263 | Jessie Lynn |
+| 234 | 263 | Jessie Lynn |
+| 235 | 263 | Perky Shiftsnap |
 | 236 | 261 | John J. Cronin |
 | 237 | 260 | Marianita Garcia |
 | 238 | 260 | Lacy Wolfe |
@@ -250,10 +250,10 @@
 | 242 | 253 | Jamie Jury |
 | 243 | 252 | Dena Kayy |
 | 244 | 251 | MRdot Rooski |
-| 245 | 247 | DaRascal |
-| 246 | 247 | Brenda Alexander |
-| 247 | 245 | LaFontaine Leslie |
-| 248 | 245 | Matt Iaccheo |
+| 245 | 247 | Brenda Alexander |
+| 246 | 247 | DaRascal |
+| 247 | 245 | Matt Iaccheo |
+| 248 | 245 | LaFontaine Leslie |
 | 249 | 244 | Eddie Dillon |
 | 250 | 244 | Tami Luce Martin |
 | 251 | 243 | Tyler L Hunt |
@@ -266,10 +266,10 @@
 | 258 | 235 | Ariel Whittington |
 | 259 | 234 | Paula Martin |
 | 260 | 234 | Sean Stallings |
-| 261 | 233 | Angela Fairbank |
-| 262 | 233 | Tipsy Riseclear |
-| 263 | 233 | Melissa Bires Hussar |
-| 264 | 233 | Shiny Gridmatch |
+| 261 | 233 | Melissa Bires Hussar |
+| 262 | 233 | Shiny Gridmatch |
+| 263 | 233 | Angela Fairbank |
+| 264 | 233 | Tipsy Riseclear |
 | 265 | 232 | Michael |
 | 266 | 231 | Colleen Pinette |
 | 267 | 230 | Flashy Rotator |
@@ -393,7 +393,7 @@
 | 385 | 175 | Kellie Tunstall |
 | 386 | 174 | Chantelle Ceno |
 | 387 | 174 | Danielle Mae |
-| 388 | 174 | Chantelle Ceno |
+| 388 | 174 | Alex Gauthier |
 | 389 | 174 | Tavia |
 | 390 | 172 | Wayne Saunders |
 | 391 | 172 | Sylvia Vasquez |

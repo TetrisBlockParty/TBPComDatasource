@@ -163,8 +163,8 @@
 | 155 | 377 | Carrie Brian |
 | 156 | 375 | ThaEviLJeNiuZ |
 | 157 | 375 | Desi Desporte |
-| 158 | 374 | Guy Incognito |
-| 159 | 374 | Leslie Nicole |
+| 158 | 374 | Leslie Nicole |
+| 159 | 374 | Guy Incognito |
 | 160 | 370 | Oscar Alberto Perez |
 | 161 | 368 | Brandon Crabbs |
 | 162 | 368 | Raegan Lane-Ross |
@@ -179,8 +179,8 @@
 | 171 | 352 | Sue Joyce Staats |
 | 172 | 349 | Twisty Cascadezone |
 | 173 | 349 | Rafael Valentin |
-| 174 | 348 | April Rondinone |
-| 175 | 348 | TRCuse |
+| 174 | 348 | TRCuse |
+| 175 | 348 | April Rondinone |
 | 176 | 347 | Daria Rycewicz |
 | 177 | 347 | Crystal Nicolette Moore |
 | 178 | 339 | David Lay |
@@ -281,13 +281,13 @@
 | 273 | 233 | Ruben Wheeler |
 | 274 | 232 | Rio Rocha |
 | 275 | 228 | Bethany Ison |
-| 276 | 226 | Dizzy Matchzone |
-| 277 | 226 | Cranky Rollpiece |
+| 276 | 226 | Cranky Rollpiece |
+| 277 | 226 | Dizzy Matchzone |
 | 278 | 225 | Jenna McGeorge |
-| 279 | 223 | Amanda Christine |
-| 280 | 223 | Adawna Swires |
-| 281 | 222 | Angelito |
-| 282 | 222 | Brandi Durig |
+| 279 | 223 | Adawna Swires |
+| 280 | 223 | Amanda Christine |
+| 281 | 222 | Brandi Durig |
+| 282 | 222 | Angelito |
 | 283 | 222 | Chance Strickland |
 | 284 | 221 | Rheanda Weaskus |
 | 285 | 221 | PurpleMoonMa |

@@ -215,8 +215,8 @@
 | 207 | 1232 | Groovy Puzzle |
 | 208 | 1232 | Ambyre Patterson |
 | 209 | 1230 | Megan Garrick |
-| 210 | 1217 | Brooks Brooks |
-| 211 | 1217 | Lucky Ladybug |
+| 210 | 1217 | Lucky Ladybug |
+| 211 | 1217 | Brooks Brooks |
 | 212 | 1214 | David Cudicio-Hayden |
 | 213 | 1213 | Foxxo |
 | 214 | 1212 | Porsche' Nicole |
@@ -248,10 +248,10 @@
 | 240 | 1121 | Sarah Freitas |
 | 241 | 1120 | Chirpy Staggerpiece |
 | 242 | 1114 | Ginnell Browner |
-| 243 | 1114 | Maria Escobar |
-| 244 | 1114 | Kevin Walp |
-| 245 | 1111 | Moose Griffith |
-| 246 | 1111 | Julay |
+| 243 | 1114 | Kevin Walp |
+| 244 | 1114 | Maria Escobar |
+| 245 | 1111 | Julay |
+| 246 | 1111 | Moose Griffith |
 | 247 | 1109 | Eric Carlson |
 | 248 | 1105 | Nerdy Clearfit |
 | 249 | 1103 | William Meussner |
@@ -433,8 +433,8 @@
 | 425 | 728 | Dylan Thomason |
 | 426 | 728 | Tom Riefer |
 | 427 | 725 | Vonceial Boone |
-| 428 | 724 | Melissa Holsinger |
-| 429 | 724 | AndrewandShela Gornik |
+| 428 | 724 | AndrewandShela Gornik |
+| 429 | 724 | Melissa Holsinger |
 | 430 | 722 | tejas25 |
 | 431 | 720 | BeQuo |
 | 432 | 720 | Giggy Mover |
@@ -1111,11 +1111,11 @@
 | 1103 | 316 | Rebecca Edmund |
 | 1104 | 316 | Cozy Drop |
 | 1105 | 315 | Krys |
-| 1106 | 314 | Tiffany Branham |
-| 1107 | 314 | shrimppimp |
-| 1108 | 314 | Nicolee Hackney |
-| 1109 | 313 | Boldy Block |
-| 1110 | 313 | Suzy Moody |
+| 1106 | 314 | shrimppimp |
+| 1107 | 314 | Nicolee Hackney |
+| 1108 | 314 | Tiffany Branham |
+| 1109 | 313 | Suzy Moody |
+| 1110 | 313 | Boldy Block |
 | 1111 | 312 | Jenna Nance |
 | 1112 | 311 | Chipper Basepiece |
 | 1113 | 311 | Kim McGrath |
