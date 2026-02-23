@@ -173,8 +173,8 @@
 | 165 | 591 | Michael Nowogorski |
 | 166 | 588 | Justin Ritter |
 | 167 | 587 | Louise Stacy Sisson |
-| 168 | 585 | Annie Marie |
-| 169 | 585 | Happy Tetriblast |
+| 168 | 585 | Happy Tetriblast |
+| 169 | 585 | Annie Marie |
 | 170 | 583 | Tasha Gillespie |
 | 171 | 582 | Natasha Jones |
 | 172 | 577 | Domo Washington |
@@ -209,8 +209,8 @@
 | 201 | 489 | Poppy Splitter |
 | 202 | 488 | Melissa Orth Hunter |
 | 203 | 485 | Dapper Snap |
-| 204 | 480 | Michael Johnson |
-| 205 | 480 | Danielle Allison |
+| 204 | 480 | Danielle Allison |
+| 205 | 480 | Michael Johnson |
 | 206 | 475 | Tessina Dewey-Mancino |
 | 207 | 473 | Connie Mohler-Fair |
 | 208 | 473 | Rachel |
@@ -258,8 +258,8 @@
 | 250 | 377 | Charles Perrone |
 | 251 | 374 | Rania Zaqout |
 | 252 | 373 | Chummy Caster |
-| 253 | 372 | Sarah Moyer |
-| 254 | 372 | Rich LeBlanc |
+| 253 | 372 | Rich LeBlanc |
+| 254 | 372 | Sarah Moyer |
 | 255 | 371 | Marquita Sheard |
 | 256 | 371 | block chick |
 | 257 | 370 | Samantha Lynn |
@@ -268,16 +268,16 @@
 | 260 | 368 | Stephanie Woods |
 | 261 | 368 | Sheila M Frazier |
 | 262 | 367 | Kristin Delibac Corrigan |
-| 263 | 366 | Randy Clevenger |
-| 264 | 366 | Gumbo |
+| 263 | 366 | Gumbo |
+| 264 | 366 | Randy Clevenger |
 | 265 | 365 | Noyb Adam |
 | 266 | 364 | Steffi Chris Dacones |
 | 267 | 362 | Brandon Givens |
 | 268 | 360 | Cesar Barraza |
 | 269 | 359 | Sleepy |
 | 270 | 357 | Stephanie Burtin |
-| 271 | 354 | Roary Danner |
-| 272 | 354 | Andrew Thorson |
+| 271 | 354 | Andrew Thorson |
+| 272 | 354 | Roary Danner |
 | 273 | 354 | Kelly |
 | 274 | 353 | Dee Franklin |
 | 275 | 353 | Cyd061769 |

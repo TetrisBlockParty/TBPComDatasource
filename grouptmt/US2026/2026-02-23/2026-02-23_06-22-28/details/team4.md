@@ -54,8 +54,8 @@
 | 46 | 938 | Denny Shives |
 | 47 | 936 | Rebecca Moulton Pinciaro |
 | 48 | 932 | Marvin Lou Martin |
-| 49 | 911 | Anthony Bryan Riva |
-| 50 | 911 | Jeremy Steines |
+| 49 | 911 | Jeremy Steines |
+| 50 | 911 | Anthony Bryan Riva |
 | 51 | 870 | BertMofo |
 | 52 | 863 | Pee |
 | 53 | 853 | TeeJ |
@@ -69,8 +69,8 @@
 | 61 | 803 | Amelpss |
 | 62 | 788 | Julian Garcia |
 | 63 | 787 | Edward White |
-| 64 | 781 | Ashley Ingram |
-| 65 | 781 | Chilly Line |
+| 64 | 781 | Chilly Line |
+| 65 | 781 | Ashley Ingram |
 | 66 | 767 | Shannon Ferrari |
 | 67 | 766 | Robin Watters |
 | 68 | 765 | Denise Carlson |
@@ -159,8 +159,8 @@
 | 151 | 402 | Ericca Eldridge |
 | 152 | 398 | Tyler Terrific |
 | 153 | 397 | Livvy |
-| 154 | 393 | Carlton Unfiltered |
-| 155 | 393 | Girl |
+| 154 | 393 | Girl |
+| 155 | 393 | Carlton Unfiltered |
 | 156 | 391 | Ramel Rhodes |
 | 157 | 389 | Joseph Guthrie |
 | 158 | 387 | Lucas J Sutton |
@@ -185,8 +185,8 @@
 | 177 | 349 | Twisty Cascadezone |
 | 178 | 349 | Rafael Valentin |
 | 179 | 348 | April Rondinone |
-| 180 | 347 | Daria Rycewicz |
-| 181 | 347 | Crystal Nicolette Moore |
+| 180 | 347 | Crystal Nicolette Moore |
+| 181 | 347 | Daria Rycewicz |
 | 182 | 339 | David Lay |
 | 183 | 336 | Bio Nelly |
 | 184 | 335 | James Hurley Jr. |
@@ -206,8 +206,8 @@
 | 198 | 316 | Autumn Kumzi |
 | 199 | 311 | Mary Ann Pabukis |
 | 200 | 310 | Holly Jolly |
-| 201 | 307 | Cheery Risebuilder |
-| 202 | 307 | Michele Plunkett |
+| 201 | 307 | Michele Plunkett |
+| 202 | 307 | Cheery Risebuilder |
 | 203 | 306 | blockstar |
 | 204 | 305 | Melvin Baird |
 | 205 | 304 | Lindsay Ball |
@@ -316,8 +316,8 @@
 | 308 | 216 | Chantilly Laace |
 | 309 | 216 | mike |
 | 310 | 215 | Stephme310 |
-| 311 | 214 | Patron Anderson |
-| 312 | 214 | Stacey Stano |
+| 311 | 214 | Stacey Stano |
+| 312 | 214 | Patron Anderson |
 | 313 | 213 | Jackie Marie |
 | 314 | 212 | Joseph Edmonson |
 | 315 | 212 | Zany Shatterer |
@@ -687,8 +687,8 @@
 | 679 | 99 | Cranky Pivoty |
 | 680 | 99 | Megan Boyce |
 | 681 | 98 | Bad company |
-| 682 | 98 | Manuel Groleau |
-| 683 | 98 | Maurice Daniels |
+| 682 | 98 | Maurice Daniels |
+| 683 | 98 | Manuel Groleau |
 | 684 | 98 | giantslover514 |
 | 685 | 98 | Jessi Cinotto |
 | 686 | 97 | Cheery Lift |
@@ -708,7 +708,7 @@
 | 700 | 95 | Robert Bolden |
 | 701 | 94 | Brian Owens |
 | 702 | 94 | moneybagz |
-| 703 | 94 | Brian Owens |
+| 703 | 94 | SAP |
 | 704 | 94 | Myra LaTrice |
 | 705 | 93 | Sholom Fried |
 | 706 | 93 | JD |
