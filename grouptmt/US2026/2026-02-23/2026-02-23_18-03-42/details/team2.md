@@ -12,7 +12,7 @@
 | 4 | 16458 | Melissa Lanteigne |
 | 5 | 14659 | Sean Dugar |
 | 6 | 13459 | Cool Snapclear |
-| 7 | 11691 | Ariel |
+| 7 | 11473 | Ariel |
 | 8 | 10909 | Rickey Goins Jr. |
 | 9 | 10858 | Muhammad Noor |
 | 10 | 10134 | Nick Jensen |
@@ -382,9 +382,9 @@
 | 374 | 941 | Cool Clearer |
 | 375 | 939 | Mighty Shatterfit |
 | 376 | 937 | Andrew Willis |
-| 377 | 933 | Nicole Cannon |
-| 378 | 933 | Bee |
-| 379 | 933 | Min |
+| 377 | 933 | Min |
+| 378 | 933 | Nicole Cannon |
+| 379 | 933 | Bee |
 | 380 | 929 | Ellie Jonas |
 | 381 | 928 | Elizabeth Wilbanks |
 | 382 | 921 | Ryan Stadel |
@@ -458,17 +458,17 @@
 | 450 | 821 | Connie Jimenez |
 | 451 | 820 | Laura McCarthey |
 | 452 | 819 | Sabrena Yeisley |
-| 453 | 816 | Jánine Riggs |
+| 453 | 816 | Beth |
 | 454 | 816 | James Simms III |
-| 455 | 816 | Beth |
+| 455 | 814 | Jánine Riggs |
 | 456 | 812 | Samantha Jo |
 | 457 | 811 | Brenda Pierpoint |
 | 458 | 807 | Shaun Church |
 | 459 | 806 | Sarah block |
 | 460 | 805 | Vanessa Moreno |
 | 461 | 804 | Sarah DeHart |
-| 462 | 804 | Becca Coronado |
-| 463 | 804 | Barry Britt |
+| 462 | 804 | Barry Britt |
+| 463 | 804 | Becca Coronado |
 | 464 | 801 | Diana Fitzwater |
 | 465 | 801 | Dreamy Blast |
 | 466 | 799 | Kenny Alvarado |
@@ -572,8 +572,8 @@
 | 564 | 684 | Sleepypanda67 |
 | 565 | 682 | Anthony Mignacca |
 | 566 | 681 | Gloria Liu |
-| 567 | 680 | Frisky Clearpiece |
-| 568 | 679 | Kassandra Hunt |
+| 567 | 679 | Kassandra Hunt |
+| 568 | 679 | Regina Knight |
 | 569 | 679 | Prette Qui |
 | 570 | 678 | Shantel Kelley |
 | 571 | 677 | Kayleigh Wisse |

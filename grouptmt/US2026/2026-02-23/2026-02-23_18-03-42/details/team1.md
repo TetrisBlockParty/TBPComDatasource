@@ -22,7 +22,7 @@
 | 14 | 2532 | Lisa Marie |
 | 15 | 2423 | COOL as Icer |
 | 16 | 2407 | Josie Kirt |
-| 17 | 2160 | Mara Hilker |
+| 17 | 2138 | Mara Hilker |
 | 18 | 1947 | LaQuetta Faith Hines |
 | 19 | 1870 | Odell Barnett |
 | 20 | 1707 | Adryane Schnase |
@@ -33,7 +33,7 @@
 | 25 | 1580 | Jennifer Cates |
 | 26 | 1552 | Carolyn Smith |
 | 27 | 1490 | Hyp James NObettadanluvarat |
-| 28 | 1470 | Bhelle Sumile |
+| 28 | 1468 | Bhelle Sumile |
 | 29 | 1391 | Aaron Garnett |
 | 30 | 1388 | Katie Daniels |
 | 31 | 1387 | Christina Graham |
@@ -274,8 +274,8 @@
 | 266 | 316 | DoodleBug |
 | 267 | 315 | Hellsin |
 | 268 | 313 | Cody Gates |
-| 269 | 312 | Mitchel White |
-| 270 | 312 | Danielle S Kester |
+| 269 | 312 | Danielle S Kester |
+| 270 | 312 | Mitchel White |
 | 271 | 311 | Nathan Sealander |
 | 272 | 310 | Matt Iaccheo |
 | 273 | 310 | Christina Norman |

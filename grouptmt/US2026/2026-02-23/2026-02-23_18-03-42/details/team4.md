@@ -74,7 +74,7 @@
 | 66 | 889 | Alyssa Papen |
 | 67 | 883 | TeeJ |
 | 68 | 872 | Shelly Chandler |
-| 69 | 872 | BertMofo |
+| 69 | 870 | BertMofo |
 | 70 | 847 | Peachy Fall |
 | 71 | 846 | Lucille Truesdale |
 | 72 | 846 | Christine Marie |
@@ -301,15 +301,15 @@
 | 293 | 289 | Juls |
 | 294 | 288 | Brittney Orengo |
 | 295 | 287 | Kim Klutz Olson |
-| 296 | 284 | Malakai Darien Fox |
+| 296 | 284 | Glitzy Corner |
 | 297 | 284 | Matt Dell'Olio |
-| 298 | 284 | Glitzy Corner |
+| 298 | 284 | Malakai Darien Fox |
 | 299 | 281 | rebel4lyfe |
-| 300 | 281 | Morti |
-| 301 | 281 | Laura |
+| 300 | 281 | Laura |
+| 301 | 281 | Morti |
 | 302 | 280 | Nerdy Twisterfit |
-| 303 | 278 | Sarah Brown |
-| 304 | 278 | Angela Geist Jusinski |
+| 303 | 278 | Angela Geist Jusinski |
+| 304 | 278 | Sarah Brown |
 | 305 | 277 | Brittany Marsh |
 | 306 | 276 | Lee Silpe |
 | 307 | 276 | Susan Williams |
@@ -443,8 +443,8 @@
 | 435 | 205 | KayM |
 | 436 | 205 | Mackenzie Forrester |
 | 437 | 205 | Sallie Sanborn |
-| 438 | 204 | Jason Frehner |
-| 439 | 204 | Gwendolyn Pitcairn |
+| 438 | 204 | Gwendolyn Pitcairn |
+| 439 | 204 | Jason Frehner |
 | 440 | 204 | Russ Attitude |
 | 441 | 204 | Ruby Khalisadar |
 | 442 | 203 | Gilles Lanctot |
