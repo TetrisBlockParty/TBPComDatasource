@@ -44,8 +44,8 @@
 | 36 | 4280 | Robert Diddle |
 | 37 | 4199 | Claire Noland |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Corrine Hawks Soriano |
-| 40 | 4120 | Kristen Sceurman |
+| 39 | 4120 | Kristen Sceurman |
+| 40 | 4120 | Corrine Hawks Soriano |
 | 41 | 4086 | PandaMama |
 | 42 | 3947 | Melinda Brown |
 | 43 | 3845 | jayjay |
@@ -226,8 +226,8 @@
 | 218 | 1277 | Snappy Matchbuilder |
 | 219 | 1259 | Foxxo |
 | 220 | 1252 | Angel |
-| 221 | 1245 | Missie Lawson Gebhardt |
-| 222 | 1245 | Cody Nishimura |
+| 221 | 1245 | Cody Nishimura |
+| 222 | 1245 | Missie Lawson Gebhardt |
 | 223 | 1240 | Brandon Armstrong |
 | 224 | 1238 | Groovy Puzzle |
 | 225 | 1237 | Megan Ferguson Leone |
@@ -317,8 +317,8 @@
 | 309 | 996 | Ashie Ann |
 | 310 | 987 | Osun Anuket Esu |
 | 311 | 980 | Jackie Lucas |
-| 312 | 979 | Hillary Crawford |
-| 313 | 979 | Melissa Penelope Ann Dodge |
+| 312 | 979 | Melissa Penelope Ann Dodge |
+| 313 | 979 | Hillary Crawford |
 | 314 | 978 | April Dawn Gussler |
 | 315 | 976 | Sam Joe |
 | 316 | 976 | Della Hole |
@@ -453,8 +453,8 @@
 | 445 | 755 | Taryece Gause |
 | 446 | 754 | tejas25 |
 | 447 | 753 | Alex Dungo Hoang |
-| 448 | 751 | Breezy Filler |
-| 449 | 751 | Caitlyn Blackwell |
+| 448 | 751 | Caitlyn Blackwell |
+| 449 | 751 | Breezy Filler |
 | 450 | 751 | Loony Snapper |
 | 451 | 750 | Draizen Montrell Thomas |
 | 452 | 750 | Christina Walker |
@@ -478,8 +478,8 @@
 | 470 | 726 | Joce Lynn |
 | 471 | 726 | Crystal Greene |
 | 472 | 725 | Vonceial Boone |
-| 473 | 725 | Ashle Scranton |
-| 474 | 725 | Karen Snyder Schrage |
+| 473 | 725 | Karen Snyder Schrage |
+| 474 | 725 | Ashle Scranton |
 | 475 | 724 | Melissa Holsinger |
 | 476 | 721 | Darla Silva |
 | 477 | 720 | Giggy Mover |
@@ -782,8 +782,8 @@
 | 774 | 480 | Cassi Owens |
 | 775 | 480 | Dar |
 | 776 | 479 | bbv |
-| 777 | 479 | Ashlee Cruz |
-| 778 | 479 | Emilie Desma |
+| 777 | 479 | Emilie Desma |
+| 778 | 479 | Ashlee Cruz |
 | 779 | 478 | Mary Marie |
 | 780 | 478 | Brenda Annabel Smith |
 | 781 | 477 | Danielle Ayoub |
