@@ -26,8 +26,8 @@
 | 18 | 2697 | River |
 | 19 | 2494 | Ashley Jones |
 | 20 | 2302 | Laura Melton |
-| 21 | 2287 | Tetris Master |
-| 22 | 2287 | Brandon Green |
+| 21 | 2287 | Brandon Green |
+| 22 | 2287 | Tetris Master |
 | 23 | 2237 | Susan Valentino |
 | 24 | 2144 | Zippy Strikesnap |
 | 25 | 2015 | Chummy Shatterer |
@@ -209,16 +209,16 @@
 | 201 | 452 | Tom Nault |
 | 202 | 451 | Sarah Cowan Burgos |
 | 203 | 436 | Danielle Weikel |
-| 204 | 432 | Christine Trester |
+| 204 | 432 | Jenny Hrndz |
 | 205 | 432 | Luciana Braganca Vieira |
-| 206 | 432 | Fallorina Susana |
-| 207 | 432 | Jenny Hrndz |
+| 206 | 432 | Christine Trester |
+| 207 | 432 | Fallorina Susana |
 | 208 | 431 | Wendy Dearden |
 | 209 | 430 | Joye Sims Binion |
 | 210 | 430 | Jeni Dow |
 | 211 | 429 | Sherry Ogden |
-| 212 | 423 | Loopy Clusterer |
-| 213 | 423 | Staci George Fitzsimmons |
+| 212 | 423 | Staci George Fitzsimmons |
+| 213 | 423 | Loopy Clusterer |
 | 214 | 417 | Edwin Calvillo Jr. |
 | 215 | 415 | ren |
 | 216 | 414 | rnr junky |
@@ -260,8 +260,8 @@
 | 252 | 362 | Brandon Givens |
 | 253 | 360 | Sheila M Frazier |
 | 254 | 357 | Cesar Barraza |
-| 255 | 357 | Ammmmmmy |
-| 256 | 357 | Stephanie Burtin |
+| 255 | 357 | Stephanie Burtin |
+| 256 | 357 | Ammmmmmy |
 | 257 | 354 | Kelly |
 | 258 | 353 | block chick |
 | 259 | 352 | Christian Werndl |
