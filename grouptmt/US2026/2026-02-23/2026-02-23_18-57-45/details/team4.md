@@ -80,8 +80,8 @@
 | 72 | 862 | Carolyn Wallace |
 | 73 | 847 | Peachy Fall |
 | 74 | 846 | Lucille Truesdale |
-| 75 | 846 | Amelpss |
-| 76 | 846 | Christine Marie |
+| 75 | 846 | Christine Marie |
+| 76 | 846 | Amelpss |
 | 77 | 841 | Shauna Havard |
 | 78 | 834 | quicksand420 |
 | 79 | 832 | Lisa Davis |
@@ -115,8 +115,8 @@
 | 107 | 673 | Jacqueline Helm |
 | 108 | 667 | Amy Suckarieh |
 | 109 | 659 | Jamie Gustafson |
-| 110 | 658 | Zippy Gridlock |
-| 111 | 658 | Girl |
+| 110 | 658 | Girl |
+| 111 | 658 | Zippy Gridlock |
 | 112 | 652 | Leslie Nicole |
 | 113 | 649 | Chris Alexinas |
 | 114 | 647 | KM8 |
@@ -142,8 +142,8 @@
 | 134 | 545 | Desi Desporte |
 | 135 | 542 | Austin Owens |
 | 136 | 540 | Rodney McMath Jr. |
-| 137 | 538 | Carlos Ramirez |
-| 138 | 538 | shar |
+| 137 | 538 | shar |
+| 138 | 538 | Carlos Ramirez |
 | 139 | 536 | Kimberlee Jan Beckstead |
 | 140 | 531 | Serena Goodridge |
 | 141 | 529 | Cool Towerbuilder |
@@ -151,8 +151,8 @@
 | 143 | 520 | Zippy Block |
 | 144 | 518 | Carly Alexis |
 | 145 | 516 | Trish |
-| 146 | 514 | Lucas J Sutton |
-| 147 | 514 | Scott Jameson |
+| 146 | 514 | Scott Jameson |
+| 147 | 514 | Lucas J Sutton |
 | 148 | 513 | Erin Thomas |
 | 149 | 512 | Angela Srubar-Norman |
 | 150 | 512 | ThaEviLJeNiuZ |
@@ -213,8 +213,8 @@
 | 205 | 408 | April Rondinone |
 | 206 | 404 | Lori |
 | 207 | 400 | Antony Dwayne Beasley |
-| 208 | 399 | Lindsay Ball |
-| 209 | 399 | Jeff Brian Gates |
+| 208 | 399 | Jeff Brian Gates |
+| 209 | 399 | Lindsay Ball |
 | 210 | 398 | Tyler Terrific |
 | 211 | 394 | Nita Wells |
 | 212 | 392 | Michele Plunkett |
@@ -251,9 +251,9 @@
 | 243 | 355 | Andrew Dang |
 | 244 | 354 | TRCuse |
 | 245 | 348 | David Lay |
-| 246 | 347 | Bio Nelly |
-| 247 | 347 | Daria Rycewicz |
-| 248 | 347 | Gdiguy |
+| 246 | 347 | Daria Rycewicz |
+| 247 | 347 | Gdiguy |
+| 248 | 347 | Bio Nelly |
 | 249 | 347 | scott |
 | 250 | 347 | Hyper Builder |
 | 251 | 345 | Cheery Risebuilder |
@@ -282,13 +282,13 @@
 | 274 | 311 | Nikki Rae Gordon |
 | 275 | 310 | Stacey Stano |
 | 276 | 308 | Leah Kutz Zirbel |
-| 277 | 307 | Tina Lopez |
-| 278 | 307 | Angie Schmidt |
+| 277 | 307 | Angie Schmidt |
+| 278 | 307 | Tina Lopez |
 | 279 | 306 | PeaceOs |
 | 280 | 306 | mike |
 | 281 | 306 | Lora |
-| 282 | 304 | Joanna |
-| 283 | 304 | Shiny Fit |
+| 282 | 304 | Shiny Fit |
+| 283 | 304 | Joanna |
 | 284 | 301 | Erin Sabol |
 | 285 | 300 | Dana Scott |
 | 286 | 297 | Kenna Gunderland |
@@ -300,8 +300,8 @@
 | 292 | 292 | Angel Raya |
 | 293 | 291 | Dizzy Matchzone |
 | 294 | 290 | Jared Gutwein |
-| 295 | 290 | Heather Bruce |
-| 296 | 290 | Neirrah B Olailjeel |
+| 295 | 290 | Neirrah B Olailjeel |
+| 296 | 290 | Heather Bruce |
 | 297 | 289 | Juls |
 | 298 | 288 | Brittney Orengo |
 | 299 | 287 | Kim Klutz Olson |

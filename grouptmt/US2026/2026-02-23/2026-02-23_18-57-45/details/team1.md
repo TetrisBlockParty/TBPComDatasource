@@ -179,8 +179,8 @@
 | 171 | 426 | Maria C. Hernandez |
 | 172 | 425 | Tyler Werts |
 | 173 | 424 | Emily Adelaide Wheatley |
-| 174 | 417 | Jessie Lynn |
-| 175 | 417 | Kimberly Garcia |
+| 174 | 417 | Kimberly Garcia |
+| 175 | 417 | Jessie Lynn |
 | 176 | 416 | Jessica Sheehan |
 | 177 | 415 | Jennifer Hardman |
 | 178 | 414 | Chelsea Dahlquist |

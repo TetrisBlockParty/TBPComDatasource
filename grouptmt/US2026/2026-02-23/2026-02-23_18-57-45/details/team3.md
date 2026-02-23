@@ -89,8 +89,8 @@
 | 81 | 1264 | Amanda L Baker |
 | 82 | 1244 | Lori Barnaby |
 | 83 | 1240 | Betty Ivy |
-| 84 | 1213 | Nerdy Riseclear |
-| 85 | 1213 | Snappy Glidepiece |
+| 84 | 1213 | Snappy Glidepiece |
+| 85 | 1213 | Nerdy Riseclear |
 | 86 | 1212 | Amanda Adkins |
 | 87 | 1186 | Christian A. Pollard |
 | 88 | 1158 | Danielle Mogg |
@@ -228,8 +228,8 @@
 | 220 | 549 | Sarah Cowan Burgos |
 | 221 | 548 | Danielle Balcom |
 | 222 | 547 | Staci George Fitzsimmons |
-| 223 | 546 | Mykal Burton |
-| 224 | 546 | Cynthia Castros-Hampton |
+| 223 | 546 | Cynthia Castros-Hampton |
+| 224 | 546 | Mykal Burton |
 | 225 | 545 | Trisha Balmer |
 | 226 | 541 | Fran Lin |
 | 227 | 539 | Betty Bóò |
@@ -332,8 +332,8 @@
 | 324 | 385 | Samantha Lynn |
 | 325 | 383 | Skippy |
 | 326 | 382 | Amanda J. Mcneil-Anderson |
-| 327 | 379 | Kaitie Oliver |
-| 328 | 379 | Kelly |
+| 327 | 379 | Kelly |
+| 328 | 379 | Kaitie Oliver |
 | 329 | 378 | MsBee |
 | 330 | 378 | Chris Bell |
 | 331 | 377 | Hoppy Patternline |
@@ -357,16 +357,16 @@
 | 349 | 362 | Chummy Rumbler |
 | 350 | 362 | Brandon Givens |
 | 351 | 361 | neci |
-| 352 | 359 | Steven Fulater |
-| 353 | 359 | Kristen Weese |
+| 352 | 359 | Kristen Weese |
+| 353 | 359 | Steven Fulater |
 | 354 | 358 | Heather Davis |
 | 355 | 356 | Tony Waters |
 | 356 | 356 | Ashley Lynn Marchese |
 | 357 | 355 | Dana Fox |
 | 358 | 354 | TotoCherue |
 | 359 | 353 | Dee Franklin |
-| 360 | 352 | Nikki Pags |
-| 361 | 352 | Tiffany Davie |
+| 360 | 352 | Tiffany Davie |
+| 361 | 352 | Nikki Pags |
 | 362 | 352 | LadyTorad |
 | 363 | 351 | Blocked |
 | 364 | 351 | Eon Harris |
@@ -377,8 +377,8 @@
 | 369 | 345 | gremicx |
 | 370 | 345 | victory |
 | 371 | 344 | Beaudie Stroebel |
-| 372 | 343 | Donna |
-| 373 | 343 | Ashley Rufus Bythcez |
+| 372 | 343 | Ashley Rufus Bythcez |
+| 373 | 343 | Donna |
 | 374 | 342 | 4girls |
 | 375 | 342 | Cynthia Herrmann Egland |
 | 376 | 341 | Rick Poppen |
@@ -428,10 +428,10 @@
 | 420 | 309 | Cheeky Snapper |
 | 421 | 309 | Block Baddie |
 | 422 | 308 | Katrina Turner |
-| 423 | 308 | Rainbow77375 |
-| 424 | 308 | Beejangles |
-| 425 | 307 | Kristian Thurman |
-| 426 | 307 | Kristina Gardner |
+| 423 | 308 | Beejangles |
+| 424 | 308 | Rainbow77375 |
+| 425 | 307 | Kristina Gardner |
+| 426 | 307 | Kristian Thurman |
 | 427 | 306 | Jackie Miller |
 | 428 | 305 | Jack Bo |
 | 429 | 304 | _melisa223_ |
@@ -568,11 +568,11 @@
 | 560 | 243 | Nicholas Roddy |
 | 561 | 243 | Lazy Matchfit |
 | 562 | 242 | Misstery |
-| 563 | 242 | BŘŰŤİÇŨŚ |
-| 564 | 242 | Heather Bateman |
-| 565 | 241 | paranoid |
-| 566 | 241 | Joseph Vargas |
-| 567 | 241 | Zesty Rotater |
+| 563 | 242 | Heather Bateman |
+| 564 | 242 | BŘŰŤİÇŨŚ |
+| 565 | 241 | Joseph Vargas |
+| 566 | 241 | Zesty Rotater |
+| 567 | 241 | paranoid |
 | 568 | 241 | Jill Stickney |
 | 569 | 240 | Bambi Jones |
 | 570 | 240 | Rebel124 |
@@ -602,8 +602,8 @@
 | 594 | 232 | Stephanie Hill |
 | 595 | 231 | Becca Engle |
 | 596 | 231 | Katie Morton |
-| 597 | 230 | DanceLuvLaugh |
-| 598 | 230 | Jaimie Thomas |
+| 597 | 230 | Jaimie Thomas |
+| 598 | 230 | DanceLuvLaugh |
 | 599 | 230 | sofaking |
 | 600 | 230 | Snippy Brickster |
 | 601 | 229 | Slick Sally |
