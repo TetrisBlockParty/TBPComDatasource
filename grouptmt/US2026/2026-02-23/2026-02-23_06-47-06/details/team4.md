@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Kimyatta Cavin |
-| 84 | 684 | Jonathan Kimbrough |
+| 83 | 684 | Jonathan Kimbrough |
+| 84 | 684 | Kimyatta Cavin |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | Shauna Havard |
-| 93 | 647 | KM8 |
+| 92 | 647 | KM8 |
+| 93 | 647 | Shauna Havard |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -120,13 +120,13 @@
 | 112 | 528 | Rodney McMath Jr. |
 | 113 | 527 | Dizzy Tiley |
 | 114 | 519 | Nugget |
-| 115 | 517 | shar |
-| 116 | 517 | Christina LR |
+| 115 | 517 | Christina LR |
+| 116 | 517 | shar |
 | 117 | 514 | Scott Jameson |
 | 118 | 514 | Serena Goodridge |
 | 119 | 513 | Erin Thomas |
-| 120 | 512 | Cristy Duerksen |
-| 121 | 512 | Casey Jeffcoat |
+| 120 | 512 | Casey Jeffcoat |
+| 121 | 512 | Cristy Duerksen |
 | 122 | 511 | Lori Walker |
 | 123 | 509 | Leslie Nicole |
 | 124 | 482 | Ren Mc |
@@ -176,18 +176,18 @@
 | 168 | 368 | Silly Zonebuilder |
 | 169 | 368 | Raegan Lane-Ross |
 | 170 | 365 | Jeff Brian Gates |
-| 171 | 361 | Danielle Kollias |
-| 172 | 361 | Melissa Adams |
+| 171 | 361 | Melissa Adams |
+| 172 | 361 | Danielle Kollias |
 | 173 | 359 | Keith Kelley |
 | 174 | 358 | A5! |
 | 175 | 356 | George Nutt |
 | 176 | 354 | TRCuse |
 | 177 | 352 | Sue Joyce Staats |
-| 178 | 349 | Rafael Valentin |
-| 179 | 349 | Twisty Cascadezone |
+| 178 | 349 | Twisty Cascadezone |
+| 179 | 349 | Rafael Valentin |
 | 180 | 348 | April Rondinone |
-| 181 | 347 | Daria Rycewicz |
-| 182 | 347 | Crystal Nicolette Moore |
+| 181 | 347 | Crystal Nicolette Moore |
+| 182 | 347 | Daria Rycewicz |
 | 183 | 339 | David Lay |
 | 184 | 336 | Bio Nelly |
 | 185 | 335 | James Hurley Jr. |
@@ -236,10 +236,10 @@
 | 228 | 281 | Laura |
 | 229 | 280 | Rio Rocha |
 | 230 | 279 | Malakai Darien Fox |
-| 231 | 278 | Sarah Brown |
-| 232 | 278 | Angela Geist Jusinski |
-| 233 | 276 | Matt Dell'Olio |
-| 234 | 276 | Joeliecea Cobb |
+| 231 | 278 | Angela Geist Jusinski |
+| 232 | 278 | Sarah Brown |
+| 233 | 276 | Joeliecea Cobb |
+| 234 | 276 | Matt Dell'Olio |
 | 235 | 274 | JPW |
 | 236 | 273 | Cranky Rollpiece |
 | 237 | 272 | Dennis Bradley |
@@ -260,19 +260,19 @@
 | 252 | 262 | Selena Shaw |
 | 253 | 262 | BigSammy420 |
 | 254 | 261 | Zethra Prenisha Rahming |
-| 255 | 260 | Lori |
-| 256 | 260 | Carter Jones |
-| 257 | 259 | Allen Lloyd |
-| 258 | 259 | Montiette Mcglown |
-| 259 | 259 | John Brunetti |
+| 255 | 260 | Carter Jones |
+| 256 | 260 | Lori |
+| 257 | 259 | Montiette Mcglown |
+| 258 | 259 | John Brunetti |
+| 259 | 259 | Allen Lloyd |
 | 260 | 257 | PeaceOs |
 | 261 | 256 | Jade Rian |
 | 262 | 256 | Brittany Marsh |
 | 263 | 256 | Metsfan |
 | 264 | 253 | Autum Leigh |
 | 265 | 251 | Carol Ricks Raymond |
-| 266 | 249 | Ak Jones |
-| 267 | 249 | Nick Gray |
+| 266 | 249 | Nick Gray |
+| 267 | 249 | Ak Jones |
 | 268 | 248 | Chirpy Basepiece |
 | 269 | 248 | Jose Dejesus |
 | 270 | 245 | 23 |
@@ -287,9 +287,9 @@
 | 279 | 238 | 中山成巳 |
 | 280 | 237 | Christine Therrien |
 | 281 | 236 | Degenerate |
-| 282 | 235 | Shainne Brewer |
-| 283 | 235 | Chair |
-| 284 | 235 | LaDonna LovinmesomeMe Lambert |
+| 282 | 235 | Chair |
+| 283 | 235 | LaDonna LovinmesomeMe Lambert |
+| 284 | 235 | Shainne Brewer |
 | 285 | 234 | Richard-April Kice |
 | 286 | 233 | Ruben Wheeler |
 | 287 | 230 | Angelito |
@@ -312,11 +312,11 @@
 | 304 | 219 | Shane Vick |
 | 305 | 219 | Orchislactea |
 | 306 | 218 | Janita Parrish |
-| 307 | 217 | Cheery Fitline |
-| 308 | 217 | Paito |
-| 309 | 217 | Alexandra Karavias |
-| 310 | 216 | Chantilly Laace |
-| 311 | 216 | mike |
+| 307 | 217 | Alexandra Karavias |
+| 308 | 217 | Cheery Fitline |
+| 309 | 217 | Paito |
+| 310 | 216 | mike |
+| 311 | 216 | Chantilly Laace |
 | 312 | 215 | Stephme310 |
 | 313 | 214 | Stacey Stano |
 | 314 | 214 | Patron Anderson |
@@ -446,10 +446,10 @@
 | 438 | 160 | Sho Nuff |
 | 439 | 160 | Sam Middleton |
 | 440 | 159 | Groovy Brickmatch |
-| 441 | 158 | Dapper Frame |
-| 442 | 158 | Jasmine S Caldwell |
-| 443 | 157 | Squeezy Pearsall |
-| 444 | 157 | LunaMoon |
+| 441 | 158 | Jasmine S Caldwell |
+| 442 | 158 | Dapper Frame |
+| 443 | 157 | LunaMoon |
+| 444 | 157 | Squeezy Pearsall |
 | 445 | 157 | Ryry |
 | 446 | 157 | David Boggs |
 | 447 | 156 | Mighty Edgepiece |

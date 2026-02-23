@@ -120,8 +120,8 @@
 | 112 | 831 | Angeline Joseph |
 | 113 | 830 | Stephanie Allmon |
 | 114 | 826 | Shane Wilson Jr. |
-| 115 | 816 | Jesse Olive |
-| 116 | 816 | Brenda Lee Vander Molen |
+| 115 | 816 | Brenda Lee Vander Molen |
+| 116 | 816 | Jesse Olive |
 | 117 | 802 | Bobbi Moore |
 | 118 | 800 | Lauren Girouard |
 | 119 | 799 | Dolores Falco |
@@ -132,8 +132,8 @@
 | 124 | 752 | Logan Naccarato |
 | 125 | 748 | Adrian Marcel Pate |
 | 126 | 745 | JerseyJess |
-| 127 | 744 | Fancy Cascader |
-| 128 | 744 | Leah Barnett |
+| 127 | 744 | Leah Barnett |
+| 128 | 744 | Fancy Cascader |
 | 129 | 736 | mzcatzy |
 | 130 | 736 | Katrina Schroeder |
 | 131 | 734 | Calista Jo Dickson |
@@ -160,8 +160,8 @@
 | 152 | 631 | Daira Largen |
 | 153 | 630 | yoyo |
 | 154 | 629 | Patricia White |
-| 155 | 621 | Sashay Tapae Simpson |
-| 156 | 621 | Cherry Parker |
+| 155 | 621 | Cherry Parker |
+| 156 | 621 | Sashay Tapae Simpson |
 | 157 | 616 | Kammy Hill |
 | 158 | 611 | Rochelle Hazelett |
 | 159 | 607 | Grego Daniel |
@@ -236,8 +236,8 @@
 | 228 | 430 | Jeni Dow |
 | 229 | 418 | Rebecca Funderburk Kirby |
 | 230 | 414 | Fran Lin |
-| 231 | 410 | Duane Bright |
-| 232 | 410 | Stephanie Simpson |
+| 231 | 410 | Stephanie Simpson |
+| 232 | 410 | Duane Bright |
 | 233 | 408 | Tiffany Ford |
 | 234 | 406 | Kristal C Lee |
 | 235 | 404 | Chasity |
@@ -265,8 +265,8 @@
 | 257 | 370 | Samantha Lynn |
 | 258 | 369 | Philip Rock |
 | 259 | 369 | Keis |
-| 260 | 368 | Stephanie Woods |
-| 261 | 368 | Sheila M Frazier |
+| 260 | 368 | Sheila M Frazier |
+| 261 | 368 | Stephanie Woods |
 | 262 | 367 | Kristin Delibac Corrigan |
 | 263 | 366 | Gumbo |
 | 264 | 366 | Randy Clevenger |
@@ -362,8 +362,8 @@
 | 354 | 280 | Aerian Preston |
 | 355 | 280 | ROODBOY |
 | 356 | 280 | Dirtgirl27 |
-| 357 | 279 | Tosha Griffey |
-| 358 | 279 | Naur |
+| 357 | 279 | Naur |
+| 358 | 279 | Tosha Griffey |
 | 359 | 278 | Rufus Lincoln |
 | 360 | 277 | Krystal Gerstberger |
 | 361 | 277 | Joe-Maggie Mathews |
@@ -379,8 +379,8 @@
 | 371 | 274 | Ava Petito |
 | 372 | 273 | France Vézina |
 | 373 | 273 | Brenda Schmid Wood |
-| 374 | 272 | Todd Hall |
-| 375 | 272 | Tay |
+| 374 | 272 | Tay |
+| 375 | 272 | Todd Hall |
 | 376 | 272 | Romeo |
 | 377 | 269 | Juliana Dottore |
 | 378 | 269 | Samantha Worley |
@@ -390,8 +390,8 @@
 | 382 | 267 | Jul |
 | 383 | 267 | Michael Kimbro |
 | 384 | 266 | Quirky Dropzone |
-| 385 | 265 | Heather Davis |
-| 386 | 265 | AlsoJess |
+| 385 | 265 | AlsoJess |
+| 386 | 265 | Heather Davis |
 | 387 | 264 | Reina Roth |
 | 388 | 264 | Danielle Beaunoyer Jean |
 | 389 | 263 | Erika Thornton |
@@ -419,8 +419,8 @@
 | 411 | 250 | Tegan Chapman |
 | 412 | 249 | Willow |
 | 413 | 248 | Brian Battjes |
-| 414 | 247 | Kevin Russell |
-| 415 | 247 | Jessica |
+| 414 | 247 | Jessica |
+| 415 | 247 | Kevin Russell |
 | 416 | 245 | Latoya Mayne |
 | 417 | 245 | LaNette Morgan |
 | 418 | 244 | Beezwax |
