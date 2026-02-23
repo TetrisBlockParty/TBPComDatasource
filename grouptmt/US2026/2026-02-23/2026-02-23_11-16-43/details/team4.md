@@ -126,8 +126,8 @@
 | 118 | 521 | Andy Cabral |
 | 119 | 519 | Nugget |
 | 120 | 517 | shar |
-| 121 | 514 | Scott Jameson |
-| 122 | 514 | Serena Goodridge |
+| 121 | 514 | Serena Goodridge |
+| 122 | 514 | Scott Jameson |
 | 123 | 513 | Erin Thomas |
 | 124 | 512 | Casey Jeffcoat |
 | 125 | 512 | Cristy Duerksen |
@@ -161,8 +161,8 @@
 | 153 | 417 | Steph Marie |
 | 154 | 417 | Amanda Pauldo-Ivy |
 | 155 | 416 | Chaz Duncan |
-| 156 | 414 | Nope Young |
-| 157 | 414 | Swanky Fitline |
+| 156 | 414 | Swanky Fitline |
+| 157 | 414 | Nope Young |
 | 158 | 413 | Circuit8 |
 | 159 | 412 | Jessica Bohlken |
 | 160 | 406 | Damn Libra |
@@ -171,8 +171,8 @@
 | 163 | 402 | Lucas J Sutton |
 | 164 | 398 | Tyler Terrific |
 | 165 | 397 | Nick Gray |
-| 166 | 393 | Carlton Unfiltered |
-| 167 | 393 | Girl |
+| 166 | 393 | Girl |
+| 167 | 393 | Carlton Unfiltered |
 | 168 | 391 | Ramel Rhodes |
 | 169 | 389 | Joseph Guthrie |
 | 170 | 383 | Chris Bernstein |

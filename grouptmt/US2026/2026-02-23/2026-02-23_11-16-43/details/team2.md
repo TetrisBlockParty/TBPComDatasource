@@ -44,8 +44,8 @@
 | 36 | 4280 | Robert Diddle |
 | 37 | 4199 | Claire Noland |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Corrine Hawks Soriano |
-| 40 | 4120 | Kristen Sceurman |
+| 39 | 4120 | Kristen Sceurman |
+| 40 | 4120 | Corrine Hawks Soriano |
 | 41 | 3947 | Melinda Brown |
 | 42 | 3845 | jayjay |
 | 43 | 3827 | Karen Kman Van Heirseele |
@@ -460,8 +460,8 @@
 | 452 | 737 | Ginger |
 | 453 | 737 | Chelle |
 | 454 | 732 | Victoria Moore-Smith |
-| 455 | 731 | Matthew Joseph Acevedo |
-| 456 | 731 | Charvi' Carter |
+| 455 | 731 | Charvi' Carter |
+| 456 | 731 | Matthew Joseph Acevedo |
 | 457 | 730 | Hoppy Brickmatch |
 | 458 | 729 | goofinoff |
 | 459 | 728 | Mikayala Szaz |
@@ -631,10 +631,10 @@
 | 623 | 574 | Valerie Brooke Lusk Armstrong |
 | 624 | 573 | Vaniel Glover |
 | 625 | 573 | Mike Aprilliano |
-| 626 | 572 | Joseph Musick |
-| 627 | 572 | Rachael Senard |
-| 628 | 572 | Jason H Baker |
-| 629 | 572 | Alexandra Lynn |
+| 626 | 572 | Rachael Senard |
+| 627 | 572 | Joseph Musick |
+| 628 | 572 | Alexandra Lynn |
+| 629 | 572 | Jason H Baker |
 | 630 | 569 | Sparkles |
 | 631 | 566 | Lindsey Leigh |
 | 632 | 566 | Isabelle Bonneau |
@@ -664,10 +664,10 @@
 | 656 | 549 | Kaylee McCafferty |
 | 657 | 549 | Melissa Kay Gibson |
 | 658 | 549 | Crystal Hodge Love |
-| 659 | 548 | Shindee |
-| 660 | 548 | Sunshine711 |
-| 661 | 547 | Sonya Back |
-| 662 | 547 | Hunter Connors |
+| 659 | 548 | Sunshine711 |
+| 660 | 548 | Shindee |
+| 661 | 547 | Hunter Connors |
+| 662 | 547 | Sonya Back |
 | 663 | 546 | NanDa Cruzan VI |
 | 664 | 544 | Deidre Shaffer |
 | 665 | 544 | Armonie Smith |
@@ -833,8 +833,8 @@
 | 825 | 452 | Cranky Tower |
 | 826 | 452 | Ashley Taylor |
 | 827 | 452 | Tipsy Filler |
-| 828 | 451 | Stefanie Zonzini-Gagliardi |
-| 829 | 451 | Sharon Mills |
+| 828 | 451 | Sharon Mills |
+| 829 | 451 | Stefanie Zonzini-Gagliardi |
 | 830 | 450 | sup |
 | 831 | 449 | Jas |
 | 832 | 449 | Heather Sawtelle-Mckenzie |
@@ -1009,9 +1009,9 @@
 | 1001 | 383 | Neaomi Favro |
 | 1002 | 382 | Brave Gridpiece |
 | 1003 | 382 | Tum |
-| 1004 | 381 | Maria Hammett |
-| 1005 | 381 | Cheyenne Donovan |
-| 1006 | 381 | Happy Caster |
+| 1004 | 381 | Happy Caster |
+| 1005 | 381 | Maria Hammett |
+| 1006 | 381 | Cheyenne Donovan |
 | 1007 | 380 | Lily |
 | 1008 | 380 | Monica Wilson |
 | 1009 | 380 | bru |
@@ -1024,10 +1024,10 @@
 | 1016 | 378 | Tianee Eaton |
 | 1017 | 378 | Kelly Walters |
 | 1018 | 377 | NickyBrooks |
-| 1019 | 377 | Frank Castle |
-| 1020 | 377 | Cheeky Balancepiece |
-| 1021 | 376 | Sydney Busse |
-| 1022 | 376 | Kristen Casale Berry |
+| 1019 | 377 | Cheeky Balancepiece |
+| 1020 | 377 | Frank Castle |
+| 1021 | 376 | Kristen Casale Berry |
+| 1022 | 376 | Sydney Busse |
 | 1023 | 375 | Ashley Marie |
 | 1024 | 374 | Amanda Perez |
 | 1025 | 374 | Sassy Linkbuilder |
@@ -1070,16 +1070,16 @@
 | 1062 | 364 | Jessica Galick |
 | 1063 | 364 | Marina Linda |
 | 1064 | 364 | Epic Spinfit |
-| 1065 | 363 | Tammy Mitchell |
-| 1066 | 363 | Nikki Arlene |
-| 1067 | 362 | Megan Phillips |
-| 1068 | 362 | Del Davis |
+| 1065 | 363 | Nikki Arlene |
+| 1066 | 363 | Tammy Mitchell |
+| 1067 | 362 | Del Davis |
+| 1068 | 362 | Megan Phillips |
 | 1069 | 362 | Boldy Brickfit |
 | 1070 | 361 | Mary Boss |
-| 1071 | 361 | Tosa Puvapiromquan |
-| 1072 | 361 | Byung Bae Park |
-| 1073 | 359 | Toni Lynn |
-| 1074 | 359 | R |
+| 1071 | 361 | Byung Bae Park |
+| 1072 | 361 | Tosa Puvapiromquan |
+| 1073 | 359 | R |
+| 1074 | 359 | Toni Lynn |
 | 1075 | 359 | Antonio Mckoy Sr. |
 | 1076 | 358 | Gina Gina |
 | 1077 | 358 | Nutty Slice |

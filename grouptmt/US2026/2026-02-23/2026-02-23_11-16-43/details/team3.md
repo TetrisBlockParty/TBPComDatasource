@@ -114,15 +114,15 @@
 | 106 | 869 | Araceli Parra |
 | 107 | 868 | Sarajane Lokan |
 | 108 | 860 | Sunny Rotater |
-| 109 | 851 | Jd Morris |
-| 110 | 851 | Danielle Becker |
+| 109 | 851 | Danielle Becker |
+| 110 | 851 | Jd Morris |
 | 111 | 850 | Danielle Mogg |
 | 112 | 848 | Patricia Gadsden |
 | 113 | 839 | Angeline Joseph |
 | 114 | 830 | Stephanie Allmon |
 | 115 | 826 | Shane Wilson Jr. |
-| 116 | 816 | Brenda Lee Vander Molen |
-| 117 | 816 | Jesse Olive |
+| 116 | 816 | Jesse Olive |
+| 117 | 816 | Brenda Lee Vander Molen |
 | 118 | 802 | Bobbi Moore |
 | 119 | 800 | Lauren Girouard |
 | 120 | 799 | Dolores Falco |
@@ -139,8 +139,8 @@
 | 131 | 748 | Adrian Marcel Pate |
 | 132 | 745 | ren |
 | 133 | 745 | JerseyJess |
-| 134 | 744 | Fancy Cascader |
-| 135 | 744 | Leah Barnett |
+| 134 | 744 | Leah Barnett |
+| 135 | 744 | Fancy Cascader |
 | 136 | 736 | mzcatzy |
 | 137 | 734 | Calista Jo Dickson |
 | 138 | 728 | Peppy Shifter |
@@ -289,8 +289,8 @@
 | 281 | 369 | Jennifer Alvey |
 | 282 | 369 | Amber Glover |
 | 283 | 369 | Keis |
-| 284 | 368 | Sheila M Frazier |
-| 285 | 368 | Stephanie Woods |
+| 284 | 368 | Stephanie Woods |
+| 285 | 368 | Sheila M Frazier |
 | 286 | 366 | Gumbo |
 | 287 | 362 | Brandon Givens |
 | 288 | 361 | Breanna Marsden |
