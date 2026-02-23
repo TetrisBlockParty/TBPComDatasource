@@ -157,8 +157,8 @@
 | 149 | 421 | Kesha Brady |
 | 150 | 418 | Marie-Pier Desjardins |
 | 151 | 418 | Lush Linkfall |
-| 152 | 417 | Steph Marie |
-| 153 | 417 | Amanda Pauldo-Ivy |
+| 152 | 417 | Amanda Pauldo-Ivy |
+| 153 | 417 | Steph Marie |
 | 154 | 416 | Chaz Duncan |
 | 155 | 414 | Swanky Fitline |
 | 156 | 414 | Nope Young |
@@ -233,8 +233,8 @@
 | 225 | 301 | Andria Lynn |
 | 226 | 300 | Dana Scott |
 | 227 | 295 | Keshia Lyons |
-| 228 | 294 | Porkobello |
-| 229 | 294 | Calvin Cannon |
+| 228 | 294 | Calvin Cannon |
+| 229 | 294 | Porkobello |
 | 230 | 292 | Epic Curvetile |
 | 231 | 290 | Plucky Patternblock |
 | 232 | 290 | Rebecca Morris |
@@ -245,17 +245,17 @@
 | 237 | 288 | Adam Stephanie Parker |
 | 238 | 288 | Brittney Orengo |
 | 239 | 285 | 030Synner |
-| 240 | 284 | Matt Dell'Olio |
-| 241 | 284 | Mimi |
+| 240 | 284 | Mimi |
+| 241 | 284 | Matt Dell'Olio |
 | 242 | 282 | Kim Klutz Olson |
 | 243 | 282 | Matt Gooder |
 | 244 | 281 | Laura |
 | 245 | 280 | Rio Rocha |
 | 246 | 279 | Malakai Darien Fox |
-| 247 | 278 | Sarah Brown |
-| 248 | 278 | Angela Geist Jusinski |
-| 249 | 276 | Joeliecea Cobb |
-| 250 | 276 | Cynthia Boudreau |
+| 247 | 278 | Angela Geist Jusinski |
+| 248 | 278 | Sarah Brown |
+| 249 | 276 | Cynthia Boudreau |
+| 250 | 276 | Joeliecea Cobb |
 | 251 | 275 | Kimberlee Jan Beckstead |
 | 252 | 273 | Cranky Rollpiece |
 | 253 | 272 | Dennis Bradley |
@@ -265,8 +265,8 @@
 | 257 | 266 | Nubian1 |
 | 258 | 266 | Mr. Party |
 | 259 | 265 | Silly SeaWeed |
-| 260 | 265 | Sarah Neathery |
-| 261 | 265 | Degenerate |
+| 260 | 265 | Degenerate |
+| 261 | 265 | Sarah Neathery |
 | 262 | 264 | ZeeZee |
 | 263 | 264 | Stella |
 | 264 | 263 | rebel4lyfe |
@@ -287,16 +287,16 @@
 | 279 | 253 | Shiny Fit |
 | 280 | 251 | Carol Ricks Raymond |
 | 281 | 249 | Ak Jones |
-| 282 | 248 | Angelito |
-| 283 | 248 | Chirpy Basepiece |
+| 282 | 248 | Chirpy Basepiece |
+| 283 | 248 | Angelito |
 | 284 | 248 | Jose Dejesus |
 | 285 | 245 | 23 |
 | 286 | 244 | Elizabeth Tinoco |
-| 287 | 244 | Perky Piecegrid |
-| 288 | 244 | Christina Black |
+| 287 | 244 | Christina Black |
+| 288 | 244 | Perky Piecegrid |
 | 289 | 243 | Chair |
-| 290 | 242 | Chaz |
-| 291 | 242 | PurpleMoonMa |
+| 290 | 242 | PurpleMoonMa |
+| 291 | 242 | Chaz |
 | 292 | 240 | Perky Patternblock |
 | 293 | 240 | Kim Hunt |
 | 294 | 239 | Laura Hosford |
@@ -760,7 +760,7 @@
 | 752 | 92 | Brandy Gray |
 | 753 | 92 | Sassy Gridzone |
 | 754 | 92 | Girldadtpa |
-| 755 | 92 | Sassy Gridzone |
+| 755 | 92 | Robert Sch |
 | 756 | 91 | Demont Darius |
 | 757 | 91 | Stephanie Jones |
 | 758 | 91 | Josh Chapell |
@@ -776,7 +776,7 @@
 | 768 | 90 | Ben Nome |
 | 769 | 90 | Heather Mamabear Pezze |
 | 770 | 90 | Walid Elsabee |
-| 771 | 89 | Speedy Clearer |
+| 771 | 89 | k |
 | 772 | 89 | Mary Haynes |
 | 773 | 89 | Susan R. Wilson |
 | 774 | 89 | Speedy Clearer |
