@@ -393,8 +393,8 @@
 | 385 | 983 | Crystie Hicks |
 | 386 | 978 | Barry Britt |
 | 387 | 976 | Sam Joe |
-| 388 | 975 | Mandi Douglas Hilt |
-| 389 | 975 | Hyper Cluster |
+| 388 | 975 | Hyper Cluster |
+| 389 | 975 | Mandi Douglas Hilt |
 | 390 | 974 | Boldy Cascadepiece |
 | 391 | 974 | Jeremy Parodi |
 | 392 | 971 | Jojo Momma |

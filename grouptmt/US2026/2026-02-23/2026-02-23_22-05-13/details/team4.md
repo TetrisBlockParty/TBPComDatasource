@@ -222,8 +222,8 @@
 | 214 | 422 | Zakia Monae |
 | 215 | 421 | JIGsaw ~(•¿°)~ |
 | 216 | 419 | Chris Bernstein |
-| 217 | 418 | Marie-Pier Desjardins |
-| 218 | 418 | Lush Linkfall |
+| 217 | 418 | Lush Linkfall |
+| 218 | 418 | Marie-Pier Desjardins |
 | 219 | 413 | John Brunetti |
 | 220 | 411 | Mimi |
 | 221 | 411 | Autumn Kumzi |
@@ -235,8 +235,8 @@
 | 227 | 398 | Tyler Terrific |
 | 228 | 394 | Nita Wells |
 | 229 | 390 | Kathy Brookins |
-| 230 | 389 | Brickh4us |
-| 231 | 389 | Joseph Guthrie |
+| 230 | 389 | Joseph Guthrie |
+| 231 | 389 | Brickh4us |
 | 232 | 388 | Calvin Cannon |
 | 233 | 385 | 030Synner |
 | 234 | 384 | Bio Nelly |
@@ -306,8 +306,8 @@
 | 298 | 307 | Tina Lopez |
 | 299 | 307 | Kim Klutz Olson |
 | 300 | 306 | PeaceOs |
-| 301 | 305 | Sassy Pattern |
-| 302 | 305 | Heather Bruce |
+| 301 | 305 | Heather Bruce |
+| 302 | 305 | Sassy Pattern |
 | 303 | 305 | Megan Cutshaw |
 | 304 | 300 | Dana Scott |
 | 305 | 300 | Kate |
@@ -413,8 +413,8 @@
 | 405 | 239 | Kevin Bush |
 | 406 | 239 | Laura Hosford |
 | 407 | 239 | Denise B |
-| 408 | 238 | 中山成巳 |
-| 409 | 238 | GBR |
+| 408 | 238 | GBR |
+| 409 | 238 | 中山成巳 |
 | 410 | 236 | The Murphy |
 | 411 | 235 | LaDonna LovinmesomeMe Lambert |
 | 412 | 235 | Stacy Jones |
@@ -474,8 +474,8 @@
 | 466 | 209 | Matthew Pate |
 | 467 | 209 | Calvin Dennis |
 | 468 | 209 | Marcus Todd |
-| 469 | 208 | Moonsterix |
-| 470 | 208 | Wacky Blockclear |
+| 469 | 208 | Wacky Blockclear |
+| 470 | 208 | Moonsterix |
 | 471 | 208 | Stacy |
 | 472 | 207 | SammieJo Guy |
 | 473 | 207 | Jessica Wells |

@@ -231,8 +231,8 @@
 | 223 | 569 | Juliana Dottore |
 | 224 | 568 | Rachael McClain Owens |
 | 225 | 566 | LaTanya GeminiondaRise Johnson |
-| 226 | 564 | Poppy Splitter |
-| 227 | 564 | Christine Trester |
+| 226 | 564 | Christine Trester |
+| 227 | 564 | Poppy Splitter |
 | 228 | 563 | Fallorina Susana |
 | 229 | 562 | Dave Herzog |
 | 230 | 561 | Silly Twist |
@@ -264,8 +264,8 @@
 | 256 | 515 | Cozy Snaplink |
 | 257 | 514 | France Vézina |
 | 258 | 513 | Lizabeth Fox |
-| 259 | 513 | PrncssPJ |
-| 260 | 513 | Giggy Glidepiece |
+| 259 | 513 | Giggy Glidepiece |
+| 260 | 513 | PrncssPJ |
 | 261 | 508 | joz |
 | 262 | 507 | rosy |
 | 263 | 505 | Stephanie Simpson |
@@ -402,8 +402,8 @@
 | 394 | 341 | Lys |
 | 395 | 340 | Erika Thornton |
 | 396 | 340 | Kerry Nowickshere |
-| 397 | 339 | Eboni Starr |
-| 398 | 339 | Michael Lucado |
+| 397 | 339 | Michael Lucado |
+| 398 | 339 | Eboni Starr |
 | 399 | 339 | Heather Bateman |
 | 400 | 338 | Troy |
 | 401 | 337 | AC Yeater |
@@ -2940,7 +2940,7 @@
 | 2932 | 13 | Cranky Buildsnap |
 | 2933 | 13 | Annahbellah Honkala |
 | 2934 | 13 | Nerdy Splitter |
-| 2935 | 12 | pretty face |
+| 2935 | 12 | Avernouk |
 | 2936 | 12 | Cranky Patternfit |
 | 2937 | 12 | pretty face |
 | 2938 | 12 | Lush Brickbuilder |
