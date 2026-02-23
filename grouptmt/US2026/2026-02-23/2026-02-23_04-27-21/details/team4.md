@@ -57,8 +57,8 @@
 | 49 | 863 | Pee |
 | 50 | 855 | Marvin Lou Martin |
 | 51 | 853 | TeeJ |
-| 52 | 846 | Christine Marie |
-| 53 | 846 | Lucille Truesdale |
+| 52 | 846 | Lucille Truesdale |
+| 53 | 846 | Christine Marie |
 | 54 | 845 | LisaJo Picken Buchanan |
 | 55 | 843 | Shelly Chandler |
 | 56 | 841 | Anthony Bryan Riva |
@@ -203,10 +203,10 @@
 | 195 | 309 | Cursed Hag |
 | 196 | 307 | Michele Plunkett |
 | 197 | 306 | blockstar |
-| 198 | 305 | Melvin Baird |
-| 199 | 305 | Cheery Risebuilder |
-| 200 | 304 | Lindsay Ball |
-| 201 | 304 | Mary Ann Pabukis |
+| 198 | 305 | Cheery Risebuilder |
+| 199 | 305 | Melvin Baird |
+| 200 | 304 | Mary Ann Pabukis |
+| 201 | 304 | Lindsay Ball |
 | 202 | 301 | Andria Lynn |
 | 203 | 300 | Dana Scott |
 | 204 | 300 | Zakia Monae |
@@ -232,12 +232,12 @@
 | 224 | 276 | Matt Dell'Olio |
 | 225 | 276 | Joeliecea Cobb |
 | 226 | 273 | Casey Grabner |
-| 227 | 272 | Dennis Bradley |
-| 228 | 272 | Alan George LaRage |
-| 229 | 272 | Carlos Ramirez |
+| 227 | 272 | Carlos Ramirez |
+| 228 | 272 | Dennis Bradley |
+| 229 | 272 | Alan George LaRage |
 | 230 | 271 | Holly |
-| 231 | 270 | Jen Caldwell |
-| 232 | 270 | Juls |
+| 231 | 270 | Juls |
+| 232 | 270 | Jen Caldwell |
 | 233 | 266 | Mr. Party |
 | 234 | 265 | Sarah Neathery |
 | 235 | 265 | Silly SeaWeed |
@@ -306,8 +306,8 @@
 | 298 | 216 | ZeeZee |
 | 299 | 215 | Stephme310 |
 | 300 | 214 | Stacey Stano |
-| 301 | 214 | Patron Anderson |
-| 302 | 214 | Chantilly Laace |
+| 301 | 214 | Chantilly Laace |
+| 302 | 214 | Patron Anderson |
 | 303 | 213 | Jackie Marie |
 | 304 | 212 | Zany Shatterer |
 | 305 | 212 | Mike Solo |

@@ -75,8 +75,8 @@
 | 67 | 716 | Marianne Louise West |
 | 68 | 706 | Seante Bullock |
 | 69 | 704 | Karin Gillen |
-| 70 | 703 | Angel Fowler |
-| 71 | 703 | Snappy Swiper |
+| 70 | 703 | Snappy Swiper |
+| 71 | 703 | Angel Fowler |
 | 72 | 702 | comrade fish |
 | 73 | 692 | Lola Adkhambekovna |
 | 74 | 655 | Brenda Stewart |
@@ -187,8 +187,8 @@
 | 179 | 324 | Rat666 |
 | 180 | 323 | Madison Wicks |
 | 181 | 320 | Letson Melissa |
-| 182 | 318 | Jessica Sheehan |
-| 183 | 318 | Virginia Gray Floyd |
+| 182 | 318 | Virginia Gray Floyd |
+| 183 | 318 | Jessica Sheehan |
 | 184 | 317 | Sarah Roberts |
 | 185 | 316 | Reesey Enyart |
 | 186 | 315 | Danielle Little-Daugherty |
@@ -358,9 +358,9 @@
 | 350 | 190 | Sweetts |
 | 351 | 189 | Tawnya Peltonen |
 | 352 | 188 | Brian Taylor |
-| 353 | 187 | Mark Smith |
-| 354 | 187 | Bob |
-| 355 | 187 | Jessica Weed |
+| 353 | 187 | Jessica Weed |
+| 354 | 187 | Mark Smith |
+| 355 | 187 | Bob |
 | 356 | 186 | Chummy Rollblock |
 | 357 | 186 | Nikki Fridley |
 | 358 | 185 | Amh |

@@ -136,8 +136,8 @@
 | 128 | 1769 | Katrina Williams Balmir |
 | 129 | 1749 | Auntie B |
 | 130 | 1728 | Mr. Street Stack |
-| 131 | 1681 | Nett |
-| 132 | 1681 | Shandrica Lowe |
+| 131 | 1681 | Shandrica Lowe |
+| 132 | 1681 | Nett |
 | 133 | 1658 | Liberty |
 | 134 | 1656 | Kristopher Miller |
 | 135 | 1644 | Luna |
@@ -388,8 +388,8 @@
 | 380 | 790 | Brenda Pierpoint |
 | 381 | 788 | Erika Densmore |
 | 382 | 782 | Beth |
-| 383 | 781 | Tiara Elizabeth Baker |
-| 384 | 781 | Kathryn Townsley |
+| 383 | 781 | Kathryn Townsley |
+| 384 | 781 | Tiara Elizabeth Baker |
 | 385 | 779 | Kayla |
 | 386 | 777 | Tesha Oldaker |
 | 387 | 777 | Jessicah Myers |
