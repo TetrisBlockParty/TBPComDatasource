@@ -113,8 +113,8 @@
 | 105 | 673 | Jacqueline Helm |
 | 106 | 667 | Amy Suckarieh |
 | 107 | 659 | Jamie Gustafson |
-| 108 | 658 | Girl |
-| 109 | 658 | Zippy Gridlock |
+| 108 | 658 | Zippy Gridlock |
+| 109 | 658 | Girl |
 | 110 | 657 | Lori Walker |
 | 111 | 652 | Leslie Nicole |
 | 112 | 647 | KM8 |
@@ -552,8 +552,8 @@
 | 544 | 163 | Sunny Filler |
 | 545 | 163 | Ashlee Carnes |
 | 546 | 163 | Michael Orris |
-| 547 | 162 | Empress Oasis |
-| 548 | 162 | conceptCollector |
+| 547 | 162 | conceptCollector |
+| 548 | 162 | Empress Oasis |
 | 549 | 161 | Christina Hyde |
 | 550 | 160 | Bryan Hodgins |
 | 551 | 160 | Heather Layne Smith |
