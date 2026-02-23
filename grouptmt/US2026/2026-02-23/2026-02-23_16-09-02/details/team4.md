@@ -52,8 +52,8 @@
 | 44 | 1116 | Koshin Abdirahman |
 | 45 | 1093 | Ashley Ingram |
 | 46 | 1085 | Kimyatta Cavin |
-| 47 | 1082 | Dawn Alexander |
-| 48 | 1082 | Dion Crommarty |
+| 47 | 1082 | Dion Crommarty |
+| 48 | 1082 | Dawn Alexander |
 | 49 | 1071 | Cherrish Duren |
 | 50 | 1049 | Heather Tushner |
 | 51 | 1046 | Johnathan Martinez |
@@ -109,8 +109,8 @@
 | 101 | 659 | Jamie Gustafson |
 | 102 | 652 | Leslie Nicole |
 | 103 | 650 | KJ Pool |
-| 104 | 647 | KM8 |
-| 105 | 647 | Shauna Havard |
+| 104 | 647 | Shauna Havard |
+| 105 | 647 | KM8 |
 | 106 | 644 | Chris Hartig |
 | 107 | 637 | Lori Walker |
 | 108 | 635 | Adawna Swires |
@@ -372,8 +372,8 @@
 | 364 | 227 | Asher |
 | 365 | 227 | Maria Hammie |
 | 366 | 224 | Ultramarine |
-| 367 | 223 | Amanda Christine |
-| 368 | 223 | Chance Strickland |
+| 367 | 223 | Chance Strickland |
+| 368 | 223 | Amanda Christine |
 | 369 | 223 | Brave Spinbuilder |
 | 370 | 223 | Gracie Ann Taylor |
 | 371 | 222 | Badatvs |
@@ -442,8 +442,8 @@
 | 434 | 194 | Eri Kka |
 | 435 | 193 | Jennifer Brown |
 | 436 | 192 | Twisty Risebuilder |
-| 437 | 191 | Earnest Thompson |
-| 438 | 191 | Riverdale |
+| 437 | 191 | Riverdale |
+| 438 | 191 | Earnest Thompson |
 | 439 | 191 | Norman Klick |
 | 440 | 190 | wombat |
 | 441 | 190 | Jeff Roberts |
@@ -623,13 +623,13 @@
 | 615 | 129 | Dreamy Snapgrid |
 | 616 | 129 | Tamika Starkey |
 | 617 | 129 | RIFATSIKDER |
-| 618 | 128 | Raymond Roberts |
-| 619 | 128 | Lazy Glidepiece |
+| 618 | 128 | Lazy Glidepiece |
+| 619 | 128 | Raymond Roberts |
 | 620 | 128 | Zesty Linkgrid |
-| 621 | 127 | Jay You |
-| 622 | 127 | Joe Lonnemann |
-| 623 | 126 | Spicy Cascadezone |
-| 624 | 126 | PAPatty |
+| 621 | 127 | Joe Lonnemann |
+| 622 | 127 | Jay You |
+| 623 | 126 | PAPatty |
+| 624 | 126 | Spicy Cascadezone |
 | 625 | 125 | Kelly Adams Carnahan |
 | 626 | 125 | Brittany Price |
 | 627 | 125 | Christina Nabrizny |

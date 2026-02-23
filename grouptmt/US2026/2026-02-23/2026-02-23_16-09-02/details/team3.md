@@ -123,8 +123,8 @@
 | 115 | 891 | Jesse Olive |
 | 116 | 878 | Shane Wilson Jr. |
 | 117 | 874 | Jessica Pineda-Lopez |
-| 118 | 868 | Felicia Rocha |
-| 119 | 868 | Sarajane Lokan |
+| 118 | 868 | Sarajane Lokan |
+| 119 | 868 | Felicia Rocha |
 | 120 | 864 | Sunny Rotater |
 | 121 | 848 | Patricia Gadsden |
 | 122 | 846 | Kristie |
@@ -140,8 +140,8 @@
 | 132 | 774 | Keith J Oshman Jr. |
 | 133 | 773 | Daira Largen |
 | 134 | 770 | Daryn Elliott |
-| 135 | 764 | Groovy Catcher |
-| 136 | 764 | Hasty Cascadefit |
+| 135 | 764 | Hasty Cascadefit |
+| 136 | 764 | Groovy Catcher |
 | 137 | 762 | Speedy Bridger |
 | 138 | 759 | yoyo |
 | 139 | 757 | Fancy Cascader |
@@ -192,14 +192,14 @@
 | 184 | 593 | Kaycee Kay |
 | 185 | 591 | Michael Nowogorski |
 | 186 | 587 | Louise Stacy Sisson |
-| 187 | 585 | Domo Washington |
-| 188 | 585 | Happy Tetriblast |
+| 187 | 585 | Happy Tetriblast |
+| 188 | 585 | Domo Washington |
 | 189 | 582 | Natasha Jones |
 | 190 | 576 | Keis |
 | 191 | 568 | Rachael McClain Owens |
 | 192 | 566 | LaTanya GeminiondaRise Johnson |
-| 193 | 564 | Poppy Splitter |
-| 194 | 564 | Christine Trester |
+| 193 | 564 | Christine Trester |
+| 194 | 564 | Poppy Splitter |
 | 195 | 563 | Jim Mathews |
 | 196 | 562 | Dave Herzog |
 | 197 | 561 | Elissa S-k |
