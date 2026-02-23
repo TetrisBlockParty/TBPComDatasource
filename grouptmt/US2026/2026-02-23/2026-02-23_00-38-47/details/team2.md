@@ -40,8 +40,8 @@
 | 32 | 4174 | Vistabrat |
 | 33 | 4130 | Robert Diddle |
 | 34 | 4128 | Angela Pruitt |
-| 35 | 4120 | Corrine Hawks Soriano |
-| 36 | 4120 | Kristen Sceurman |
+| 35 | 4120 | Kristen Sceurman |
+| 36 | 4120 | Corrine Hawks Soriano |
 | 37 | 3895 | Nickie Baby |
 | 38 | 3793 | Jill Stroehlein |
 | 39 | 3759 | Brittany Alicia |
@@ -236,8 +236,8 @@
 | 228 | 1078 | Moose Griffith |
 | 229 | 1073 | Angel |
 | 230 | 1071 | Kim Dean |
-| 231 | 1067 | Jodi Blake |
-| 232 | 1067 | Eric Carlson |
+| 231 | 1067 | Eric Carlson |
+| 232 | 1067 | Jodi Blake |
 | 233 | 1066 | Julay |
 | 234 | 1058 | Jennifer Kistner |
 | 235 | 1057 | RAEPR05 |
@@ -338,9 +338,9 @@
 | 330 | 812 | Jackie Lucas |
 | 331 | 812 | Samantha Jo |
 | 332 | 808 | Melissa McCall |
-| 333 | 808 | Desire Rice |
-| 334 | 808 | Amber Brion |
-| 335 | 808 | Laura McCarthey |
+| 333 | 808 | Amber Brion |
+| 334 | 808 | Laura McCarthey |
+| 335 | 808 | Desire Rice |
 | 336 | 807 | Khalil Lowe |
 | 337 | 801 | Diana Fitzwater |
 | 338 | 799 | Joy LaJeunesse |
@@ -539,8 +539,8 @@
 | 531 | 541 | Alezandra Smith |
 | 532 | 537 | Sarah Berger |
 | 533 | 537 | Kori Beth Babb |
-| 534 | 535 | Anthony Huebel |
-| 535 | 535 | Maddy Petersen |
+| 534 | 535 | Maddy Petersen |
+| 535 | 535 | Anthony Huebel |
 | 536 | 535 | Belle Mari |
 | 537 | 534 | Anita Rose Green |
 | 538 | 533 | Davetta Sanford |

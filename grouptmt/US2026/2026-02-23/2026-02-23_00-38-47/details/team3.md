@@ -67,8 +67,8 @@
 | 59 | 1141 | Queen Kam |
 | 60 | 1130 | Danielle Cutler |
 | 61 | 1129 | Carrie Jarvis Mohler |
-| 62 | 1118 | Amanda L Baker |
-| 63 | 1118 | Elaine Webb Graves |
+| 62 | 1118 | Elaine Webb Graves |
+| 63 | 1118 | Amanda L Baker |
 | 64 | 1077 | Corie A. Brinson |
 | 65 | 1072 | Lori Barnaby |
 | 66 | 1048 | Alanna Rogers |
@@ -81,8 +81,8 @@
 | 73 | 964 | Jennifer |
 | 74 | 945 | Christian A. Pollard |
 | 75 | 935 | Shonna Roberts |
-| 76 | 926 | Judi Dobson |
-| 77 | 926 | Angela M. Fletcher |
+| 76 | 926 | Angela M. Fletcher |
+| 77 | 926 | Judi Dobson |
 | 78 | 923 | Christine Filson |
 | 79 | 910 | Jay Horn |
 | 80 | 907 | Michelle Becker |
@@ -130,8 +130,8 @@
 | 122 | 694 | joclisa |
 | 123 | 693 | Hasty Cascadefit |
 | 124 | 683 | Samantha Greco |
-| 125 | 674 | Patty Allen |
-| 126 | 674 | Leah Barnett |
+| 125 | 674 | Leah Barnett |
+| 126 | 674 | Patty Allen |
 | 127 | 668 | Betty Ivy |
 | 128 | 650 | Jd Morris |
 | 129 | 649 | Shavette |
@@ -240,8 +240,8 @@
 | 232 | 372 | Sarah Moyer |
 | 233 | 370 | RickyG |
 | 234 | 369 | Keis |
-| 235 | 368 | Rebecca Funderburk Kirby |
-| 236 | 368 | Stephanie Woods |
+| 235 | 368 | Stephanie Woods |
+| 236 | 368 | Rebecca Funderburk Kirby |
 | 237 | 367 | Connie Mohler-Fair |
 | 238 | 366 | Marquita Sheard |
 | 239 | 365 | Chummy Caster |
@@ -270,8 +270,8 @@
 | 262 | 339 | Danielle Weikel |
 | 263 | 338 | Gumbo |
 | 264 | 332 | Velma Mull |
-| 265 | 330 | Brittany |
-| 266 | 330 | victory |
+| 265 | 330 | victory |
+| 266 | 330 | Brittany |
 | 267 | 329 | Tye Stovall |
 | 268 | 329 | block chick |
 | 269 | 327 | Gideon Walker |
