@@ -117,8 +117,8 @@
 | 109 | 831 | Angeline Joseph |
 | 110 | 830 | Stephanie Allmon |
 | 111 | 826 | Shane Wilson Jr. |
-| 112 | 816 | Brenda Lee Vander Molen |
-| 113 | 816 | Jesse Olive |
+| 112 | 816 | Jesse Olive |
+| 113 | 816 | Brenda Lee Vander Molen |
 | 114 | 800 | Lauren Girouard |
 | 115 | 799 | Dolores Falco |
 | 116 | 769 | Kristie |
@@ -250,8 +250,8 @@
 | 242 | 378 | Chris Bell |
 | 243 | 377 | Charles Perrone |
 | 244 | 374 | Rania Zaqout |
-| 245 | 372 | Rich LeBlanc |
-| 246 | 372 | Sarah Moyer |
+| 245 | 372 | Sarah Moyer |
+| 246 | 372 | Rich LeBlanc |
 | 247 | 371 | Marquita Sheard |
 | 248 | 371 | block chick |
 | 249 | 370 | Chummy Caster |

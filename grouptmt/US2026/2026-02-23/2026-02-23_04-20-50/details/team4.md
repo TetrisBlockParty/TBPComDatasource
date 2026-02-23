@@ -86,8 +86,8 @@
 | 78 | 704 | Crystal Carroll |
 | 79 | 703 | Savannah Overdorf |
 | 80 | 697 | Alyssa Papen |
-| 81 | 684 | Jonathan Kimbrough |
-| 82 | 684 | Kimyatta Cavin |
+| 81 | 684 | Kimyatta Cavin |
+| 82 | 684 | Jonathan Kimbrough |
 | 83 | 677 | Trista Leah |
 | 84 | 673 | Jacqueline Helm |
 | 85 | 672 | Shane Kalamata Platoon |
@@ -184,8 +184,8 @@
 | 176 | 347 | Daria Rycewicz |
 | 177 | 339 | David Lay |
 | 178 | 333 | shark tato |
-| 179 | 332 | Crystal Nicolette Moore |
-| 180 | 332 | HastyGrabber |
+| 179 | 332 | HastyGrabber |
+| 180 | 332 | Crystal Nicolette Moore |
 | 181 | 331 | Kris Bartlett |
 | 182 | 330 | Kathy Brookins |
 | 183 | 328 | scott |
@@ -232,9 +232,9 @@
 | 224 | 276 | Matt Dell'Olio |
 | 225 | 276 | Joeliecea Cobb |
 | 226 | 273 | Casey Grabner |
-| 227 | 272 | Carlos Ramirez |
-| 228 | 272 | Dennis Bradley |
-| 229 | 272 | Alan George LaRage |
+| 227 | 272 | Alan George LaRage |
+| 228 | 272 | Carlos Ramirez |
+| 229 | 272 | Dennis Bradley |
 | 230 | 271 | Holly |
 | 231 | 270 | Juls |
 | 232 | 270 | Jen Caldwell |
@@ -246,11 +246,11 @@
 | 238 | 262 | BigSammy420 |
 | 239 | 262 | Selena Shaw |
 | 240 | 260 | Carter Jones |
-| 241 | 259 | Allen Lloyd |
-| 242 | 259 | Montiette Mcglown |
+| 241 | 259 | Montiette Mcglown |
+| 242 | 259 | Allen Lloyd |
 | 243 | 257 | PeaceOs |
-| 244 | 256 | Mylo Lipscomb |
-| 245 | 256 | Metsfan |
+| 244 | 256 | Metsfan |
+| 245 | 256 | Mylo Lipscomb |
 | 246 | 255 | Zethra Prenisha Rahming |
 | 247 | 253 | Autum Leigh |
 | 248 | 252 | John Brunetti |
@@ -269,8 +269,8 @@
 | 261 | 240 | Perky Patternblock |
 | 262 | 239 | Joanna |
 | 263 | 238 | 中山成巳 |
-| 264 | 237 | 030Synner |
-| 265 | 237 | Christine Therrien |
+| 264 | 237 | Christine Therrien |
+| 265 | 237 | 030Synner |
 | 266 | 236 | Degenerate |
 | 267 | 235 | Shainne Brewer |
 | 268 | 235 | Chair |
@@ -339,8 +339,8 @@
 | 331 | 191 | Norman Klick |
 | 332 | 191 | Earnest Thompson |
 | 333 | 190 | wombat |
-| 334 | 189 | Berklie Apedaile |
-| 335 | 189 | Lauren Lamb |
+| 334 | 189 | Lauren Lamb |
+| 335 | 189 | Berklie Apedaile |
 | 336 | 187 | Nita Wells |
 | 337 | 187 | Jenny Wells-Oakley |
 | 338 | 187 | Hyper Builder |

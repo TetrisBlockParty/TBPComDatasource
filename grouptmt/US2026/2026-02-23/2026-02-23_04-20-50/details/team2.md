@@ -104,8 +104,8 @@
 | 96 | 2170 | Steve Grotto |
 | 97 | 2165 | Tj Ball |
 | 98 | 2155 | Qiana Sanders |
-| 99 | 2148 | Roger Grabbit |
-| 100 | 2148 | ShinyRose |
+| 99 | 2148 | ShinyRose |
+| 100 | 2148 | Roger Grabbit |
 | 101 | 2146 | KellyDyan |
 | 102 | 2106 | Cool Rollpiece |
 | 103 | 2103 | Alisha Peoples |
@@ -144,8 +144,8 @@
 | 136 | 1639 | Jessie McDougald |
 | 137 | 1631 | Speedy Spinblock |
 | 138 | 1629 | Mari Ac |
-| 139 | 1623 | Janel Turley-Garner |
-| 140 | 1623 | Rebecca Doughman |
+| 139 | 1623 | Rebecca Doughman |
+| 140 | 1623 | Janel Turley-Garner |
 | 141 | 1605 | Christi Hulet |
 | 142 | 1602 | blackq |
 | 143 | 1601 | Ray Ray Prado |
@@ -157,8 +157,8 @@
 | 149 | 1578 | Loopy Clusterbuilder |
 | 150 | 1571 | Alisa Lamb |
 | 151 | 1560 | Donnie Hunt |
-| 152 | 1558 | Stephen Stephen |
-| 153 | 1558 | Tim Dyer |
+| 152 | 1558 | Tim Dyer |
+| 153 | 1558 | Stephen Stephen |
 | 154 | 1555 | blarg |
 | 155 | 1541 | Cherica Taylor |
 | 156 | 1537 | Desiree Harris Rosch |
@@ -422,8 +422,8 @@
 | 414 | 741 | Jánine Riggs |
 | 415 | 740 | Jerry Tempelmeyer |
 | 416 | 737 | Ginger |
-| 417 | 737 | Jeremy Parodi |
-| 418 | 737 | Chelle |
+| 417 | 737 | Chelle |
+| 418 | 737 | Jeremy Parodi |
 | 419 | 734 | Allan Wayne Lamia |
 | 420 | 734 | Ashley Guernsey-Martin |
 | 421 | 732 | Victoria Moore-Smith |
@@ -541,8 +541,8 @@
 | 533 | 598 | Victoria Regina Girolami |
 | 534 | 598 | Leah Keesling |
 | 535 | 597 | snkylnk |
-| 536 | 597 | Jamie Schmitt |
-| 537 | 597 | Magic steve |
+| 536 | 597 | Magic steve |
+| 537 | 597 | Jamie Schmitt |
 | 538 | 596 | Davetta Sanford |
 | 539 | 595 | Tracy Wise |
 | 540 | 593 | Dapper Dasher |
@@ -577,8 +577,8 @@
 | 569 | 562 | Sabrena Yeisley |
 | 570 | 562 | AISlop |
 | 571 | 560 | SwampRebel |
-| 572 | 559 | Slip |
-| 573 | 559 | Anthony Huebel |
+| 572 | 559 | Anthony Huebel |
+| 573 | 559 | Slip |
 | 574 | 558 | Libby Hicks |
 | 575 | 554 | Dizzy Zone |
 | 576 | 554 | Tra Barnum |
