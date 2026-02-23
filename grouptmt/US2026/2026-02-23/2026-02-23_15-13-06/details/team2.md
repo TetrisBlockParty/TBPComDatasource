@@ -157,8 +157,8 @@
 | 149 | 1767 | niecy |
 | 150 | 1759 | Nerdy Pattern |
 | 151 | 1755 | Loopy Clusterbuilder |
-| 152 | 1751 | Woodys Glass |
-| 153 | 1751 | Bob |
+| 152 | 1751 | Bob |
+| 153 | 1751 | Woodys Glass |
 | 154 | 1720 | Morgue Chick |
 | 155 | 1709 | Dustin Rains |
 | 156 | 1706 | Janel Turley-Garner |
@@ -269,8 +269,8 @@
 | 261 | 1183 | Poppy Snap |
 | 262 | 1179 | Georgia Triblett |
 | 263 | 1171 | Loretta Brewer-Gage |
-| 264 | 1165 | Christina Wsn |
-| 265 | 1165 | Michelle Lee |
+| 264 | 1165 | Michelle Lee |
+| 265 | 1165 | Christina Wsn |
 | 266 | 1163 | Erika Densmore |
 | 267 | 1160 | Sarah Ridenour |
 | 268 | 1158 | Brittany Clark |
@@ -440,8 +440,8 @@
 | 432 | 808 | Connie Jimenez |
 | 433 | 808 | Laura McCarthey |
 | 434 | 804 | Sarah DeHart |
-| 435 | 804 | Becca Coronado |
-| 436 | 804 | Barry Britt |
+| 435 | 804 | Barry Britt |
+| 436 | 804 | Becca Coronado |
 | 437 | 803 | Tiara Elizabeth Baker |
 | 438 | 802 | Jessicah Myers |
 | 439 | 801 | Diana Fitzwater |

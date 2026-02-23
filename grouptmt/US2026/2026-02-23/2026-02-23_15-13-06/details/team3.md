@@ -339,8 +339,8 @@
 | 331 | 344 | Beaudie Stroebel |
 | 332 | 344 | Isabel Ocasio |
 | 333 | 343 | Ashley Rufus Bythcez |
-| 334 | 342 | Cynthia Herrmann Egland |
-| 335 | 342 | ROODBOY |
+| 334 | 342 | ROODBOY |
+| 335 | 342 | Cynthia Herrmann Egland |
 | 336 | 341 | Rick Poppen |
 | 337 | 341 | Lys |
 | 338 | 340 | Erika Thornton |
@@ -944,7 +944,7 @@
 | 936 | 136 | Nerdy Lifter |
 | 937 | 136 | Sassy Caster |
 | 938 | 136 | sapphomet |
-| 939 | 136 | Amanda Jean Stafford |
+| 939 | 136 | Donna S. Greene-Brathwaite |
 | 940 | 136 | Nikia Melancon |
 | 941 | 136 | Amanda Jean Stafford |
 | 942 | 135 | Mari Thompson Cooper |

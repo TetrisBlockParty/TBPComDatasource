@@ -175,8 +175,8 @@
 | 167 | 403 | Tana |
 | 168 | 402 | Chris K |
 | 169 | 400 | Chelsea Dahlquist |
-| 170 | 399 | Nery Martinez |
-| 171 | 399 | phrmblk24 |
+| 170 | 399 | phrmblk24 |
+| 171 | 399 | Nery Martinez |
 | 172 | 397 | Erin Rosberg |
 | 173 | 394 | Lori Bales |
 | 174 | 393 | Wisa |
@@ -206,9 +206,9 @@
 | 198 | 365 | Amanda Holibaugh |
 | 199 | 364 | Shauna Loe |
 | 200 | 364 | David Lutcher |
-| 201 | 364 | Shauna Loe |
+| 201 | 364 | Serina Marie |
 | 202 | 362 | Gracie |
-| 203 | 360 | Lakeisha Chapman |
+| 203 | 360 | MIKOZ |
 | 204 | 360 | Sleepysloath5745 |
 | 205 | 360 | Lakeisha Chapman |
 | 206 | 359 | Oscar Zamora |
@@ -273,12 +273,12 @@
 | 265 | 290 | Hellsin |
 | 266 | 289 | Alenoush Karimian |
 | 267 | 288 | Bird Person |
-| 268 | 287 | Sir-Franchise Drake |
-| 269 | 287 | Larissa Marie Nelson |
+| 268 | 287 | Larissa Marie Nelson |
+| 269 | 287 | Sir-Franchise Drake |
 | 270 | 286 | Sarahdactyl |
 | 271 | 285 | Shanae Grant |
 | 272 | 284 | Sam Williams |
-| 273 | 283 | Larry Tilton |
+| 273 | 283 | Irv |
 | 274 | 283 | Hasty Cascader |
 | 275 | 283 | Franswa |
 | 276 | 283 | Larry Tilton |
@@ -297,16 +297,16 @@
 | 289 | 272 | Michelle Beres |
 | 290 | 272 | Barrbaric |
 | 291 | 271 | Robert |
-| 292 | 270 | Brenda Alexander |
-| 293 | 270 | Debbie Kane |
+| 292 | 270 | Debbie Kane |
+| 293 | 270 | Brenda Alexander |
 | 294 | 269 | Colleen Pinette |
-| 295 | 268 | Wayne Saunders |
-| 296 | 268 | Standia Civil |
+| 295 | 268 | Standia Civil |
+| 296 | 268 | Wayne Saunders |
 | 297 | 267 | Patty Lavigne Craddock |
 | 298 | 265 | Flashy Rotator |
 | 299 | 264 | Jenny Gingrich Fuentes |
-| 300 | 263 | Nadine Velardo |
-| 301 | 263 | Sunny Shift |
+| 300 | 263 | Sunny Shift |
+| 301 | 263 | Nadine Velardo |
 | 302 | 262 | Mary Love |
 | 303 | 261 | Angela Fairbank |
 | 304 | 261 | Brooke Elizabeth Antill |

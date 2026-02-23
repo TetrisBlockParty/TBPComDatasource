@@ -78,8 +78,8 @@
 | 70 | 807 | Amelpss |
 | 71 | 802 | Crystal Carroll |
 | 72 | 788 | Chilly Line |
-| 73 | 787 | Edward White |
-| 74 | 787 | loulou |
+| 73 | 787 | loulou |
+| 74 | 787 | Edward White |
 | 75 | 769 | Alyssa Papen |
 | 76 | 768 | Judy Cox |
 | 77 | 767 | Shannon Ferrari |
@@ -202,18 +202,18 @@
 | 194 | 383 | Chris Bernstein |
 | 195 | 376 | Zesty Twistbuilder |
 | 196 | 372 | George Nutt |
-| 197 | 368 | Holly Jolly |
-| 198 | 368 | Silly Zonebuilder |
+| 197 | 368 | Silly Zonebuilder |
+| 198 | 368 | Holly Jolly |
 | 199 | 367 | Sue Joyce Staats |
 | 200 | 365 | Jeff Brian Gates |
 | 201 | 363 | Cindy Looper |
-| 202 | 361 | Rafael Valentin |
-| 203 | 361 | Danielle Kollias |
-| 204 | 358 | A5! |
-| 205 | 358 | Twisty Cascadezone |
+| 202 | 361 | Danielle Kollias |
+| 203 | 361 | Rafael Valentin |
+| 204 | 358 | Twisty Cascadezone |
+| 205 | 358 | A5! |
 | 206 | 355 | James Hurley Jr. |
-| 207 | 354 | TRCuse |
-| 208 | 354 | Sharyn Lemire |
+| 207 | 354 | Sharyn Lemire |
+| 208 | 354 | TRCuse |
 | 209 | 354 | Kris Bartlett |
 | 210 | 352 | April Rondinone |
 | 211 | 348 | David Lay |
@@ -795,9 +795,9 @@
 | 787 | 96 | Cozy Framezone |
 | 788 | 96 | Krs |
 | 789 | 95 | Smiley Staggerpiece |
-| 790 | 95 | Chirpy Slammer |
-| 791 | 95 | Alicia Falk |
-| 792 | 95 | Wacky Blockclear |
+| 790 | 95 | Wacky Blockclear |
+| 791 | 95 | Chirpy Slammer |
+| 792 | 95 | Alicia Falk |
 | 793 | 95 | Harper |
 | 794 | 95 | RedBoots82 |
 | 795 | 94 | Susan Purnell |
