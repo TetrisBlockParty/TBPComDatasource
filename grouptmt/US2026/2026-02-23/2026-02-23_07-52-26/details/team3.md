@@ -384,8 +384,8 @@
 | 376 | 274 | Ava Petito |
 | 377 | 273 | France Vézina |
 | 378 | 273 | Brenda Schmid Wood |
-| 379 | 272 | Tay |
-| 380 | 272 | Todd Hall |
+| 379 | 272 | Todd Hall |
+| 380 | 272 | Tay |
 | 381 | 272 | Romeo |
 | 382 | 269 | Juliana Dottore |
 | 383 | 269 | Jess Bissett |
@@ -400,8 +400,8 @@
 | 392 | 265 | AlsoJess |
 | 393 | 264 | Reina Roth |
 | 394 | 264 | Danielle Beaunoyer Jean |
-| 395 | 263 | Jimmie Clemons |
-| 396 | 263 | Erika Thornton |
+| 395 | 263 | Erika Thornton |
+| 396 | 263 | Jimmie Clemons |
 | 397 | 261 | Swanky Snapclear |
 | 398 | 260 | Alice |
 | 399 | 260 | Tracey Cox |
@@ -427,8 +427,8 @@
 | 419 | 250 | Eric Caccavale |
 | 420 | 249 | Willow |
 | 421 | 248 | Brian Battjes |
-| 422 | 247 | Jessica |
-| 423 | 247 | Kevin Russell |
+| 422 | 247 | Kevin Russell |
+| 423 | 247 | Jessica |
 | 424 | 245 | Latoya Mayne |
 | 425 | 245 | LaNette Morgan |
 | 426 | 244 | Beezwax |
@@ -460,8 +460,8 @@
 | 452 | 234 | Cheeky Twisterfit |
 | 453 | 233 | Criss |
 | 454 | 233 | Tony Waters |
-| 455 | 232 | Melanie Sherwood |
-| 456 | 232 | Stephanie Hill |
+| 455 | 232 | Stephanie Hill |
+| 456 | 232 | Melanie Sherwood |
 | 457 | 232 | Sunny Tiltgrid |
 | 458 | 231 | Frothy Snapper |
 | 459 | 231 | Giggly Brickroll |

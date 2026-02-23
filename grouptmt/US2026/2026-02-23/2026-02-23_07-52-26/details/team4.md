@@ -26,8 +26,8 @@
 | 18 | 1636 | Cassie Michaux |
 | 19 | 1565 | GreenJeepGirl |
 | 20 | 1558 | Leah Gorsuch |
-| 21 | 1536 | Misty Hollibaugh |
-| 22 | 1536 | Roger Coulter |
+| 21 | 1536 | Roger Coulter |
+| 22 | 1536 | Misty Hollibaugh |
 | 23 | 1485 | Juggalo |
 | 24 | 1390 | Sammy Noguera |
 | 25 | 1382 | Tammi Crnza |
@@ -66,16 +66,16 @@
 | 58 | 846 | Christine Marie |
 | 59 | 845 | LisaJo Picken Buchanan |
 | 60 | 834 | quicksand420 |
-| 61 | 807 | Amelpss |
-| 62 | 807 | Rachel Anne |
+| 61 | 807 | Rachel Anne |
+| 62 | 807 | Amelpss |
 | 63 | 788 | Julian Garcia |
 | 64 | 787 | Edward White |
 | 65 | 783 | Ashley Ingram |
 | 66 | 781 | Chilly Line |
 | 67 | 767 | Shannon Ferrari |
 | 68 | 766 | Robin Watters |
-| 69 | 765 | Denise Carlson |
-| 70 | 765 | Robin Getchel |
+| 69 | 765 | Robin Getchel |
+| 70 | 765 | Denise Carlson |
 | 71 | 752 | loulou |
 | 72 | 752 | Shane Kalamata Platoon |
 | 73 | 749 | Dustee Craddock-Harrison |
@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | KM8 |
-| 93 | 647 | Shauna Havard |
+| 92 | 647 | Shauna Havard |
+| 93 | 647 | KM8 |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -165,8 +165,8 @@
 | 157 | 406 | Livvy |
 | 158 | 403 | Keith Kelley |
 | 159 | 398 | Tyler Terrific |
-| 160 | 393 | Carlton Unfiltered |
-| 161 | 393 | Girl |
+| 160 | 393 | Girl |
+| 161 | 393 | Carlton Unfiltered |
 | 162 | 391 | Ramel Rhodes |
 | 163 | 389 | Joseph Guthrie |
 | 164 | 387 | Lucas J Sutton |
@@ -190,8 +190,8 @@
 | 182 | 350 | Carly Alexis |
 | 183 | 349 | Rafael Valentin |
 | 184 | 348 | April Rondinone |
-| 185 | 347 | Crystal Nicolette Moore |
-| 186 | 347 | Daria Rycewicz |
+| 185 | 347 | Daria Rycewicz |
+| 186 | 347 | Crystal Nicolette Moore |
 | 187 | 346 | Mylo Lipscomb |
 | 188 | 339 | David Lay |
 | 189 | 337 | Sam Bishop |
@@ -356,7 +356,7 @@
 | 348 | 196 | Blessedmama |
 | 349 | 196 | Megan Cutshaw |
 | 350 | 195 | Dustin York |
-| 351 | 194 | SammieJo Guy |
+| 351 | 194 | Zany Twisterfit |
 | 352 | 194 | Michelle Morris |
 | 353 | 194 | SammieJo Guy |
 | 354 | 193 | Shiny Fit |
@@ -521,17 +521,17 @@
 | 513 | 139 | Ann G. Carrillo |
 | 514 | 139 | tipsy tiger |
 | 515 | 138 | Shiny Pivoty |
-| 516 | 138 | Hasty Fitzone |
-| 517 | 138 | Lynn Marie |
+| 516 | 138 | Lynn Marie |
+| 517 | 138 | Hasty Fitzone |
 | 518 | 137 | April Spoelma |
 | 519 | 137 | Brianna Walker |
-| 520 | 136 | Zocko Ellet |
-| 521 | 136 | Tabitha Calvin |
-| 522 | 136 | Badatvs |
-| 523 | 136 | Jennifer Perkins |
+| 520 | 136 | Tabitha Calvin |
+| 521 | 136 | Jennifer Perkins |
+| 522 | 136 | Zocko Ellet |
+| 523 | 136 | Badatvs |
 | 524 | 135 | Groovy Shiftspin |
 | 525 | 134 | Tabitha Henson |
-| 526 | 133 | Jesus Garcia |
+| 526 | 133 | Amy C Brown |
 | 527 | 133 | ThriftySpice |
 | 528 | 133 | Jesus Garcia |
 | 529 | 133 | Wacky Blockclear |
@@ -1270,7 +1270,7 @@
 | 1262 | 38 | Suzie Boyd |
 | 1263 | 38 | Jazzy Climber |
 | 1264 | 38 | Loony Slide |
-| 1265 | 38 | Jazzy Climber |
+| 1265 | 38 | Milly Johnson |
 | 1266 | 37 | Sunny68 |
 | 1267 | 37 | Cool Shatterclear |
 | 1268 | 37 | Patrick Cossette |
