@@ -93,8 +93,8 @@
 | 85 | 2515 | Crystalin Heath Lewis |
 | 86 | 2500 | Rosemadder |
 | 87 | 2438 | Rob Surace |
-| 88 | 2428 | Deanna Morton |
-| 89 | 2428 | Thomas Hughes |
+| 88 | 2428 | Thomas Hughes |
+| 89 | 2428 | Deanna Morton |
 | 90 | 2418 | Ashley House |
 | 91 | 2415 | Gabby Jenner |
 | 92 | 2410 | RdRydnHd |
@@ -151,8 +151,8 @@
 | 143 | 1644 | Speedy Spinblock |
 | 144 | 1639 | Jessie McDougald |
 | 145 | 1629 | Mari Ac |
-| 146 | 1623 | Rebecca Doughman |
-| 147 | 1623 | Janel Turley-Garner |
+| 146 | 1623 | Janel Turley-Garner |
+| 147 | 1623 | Rebecca Doughman |
 | 148 | 1605 | Christi Hulet |
 | 149 | 1602 | blackq |
 | 150 | 1601 | Ray Ray Prado |
@@ -281,8 +281,8 @@
 | 273 | 1045 | Lourisha |
 | 274 | 1043 | nikki |
 | 275 | 1043 | Brave Dropmatch |
-| 276 | 1036 | Amber Shoemaker |
-| 277 | 1036 | Allison Lockyer |
+| 276 | 1036 | Allison Lockyer |
+| 277 | 1036 | Amber Shoemaker |
 | 278 | 1026 | Kristin Gower |
 | 279 | 1024 | Susan Perraut Jones |
 | 280 | 1024 | Taylor Phillips |
@@ -313,8 +313,8 @@
 | 305 | 969 | Em Chen |
 | 306 | 969 | Boldy Cascadepiece |
 | 307 | 961 | Angela Lynn |
-| 308 | 958 | Doowop40 |
-| 309 | 958 | Brenda Messer |
+| 308 | 958 | Brenda Messer |
+| 309 | 958 | Doowop40 |
 | 310 | 957 | Block Master |
 | 311 | 956 | Phil J. Grombliniak |
 | 312 | 955 | Angela Bonquiqui Dinish |
@@ -334,8 +334,8 @@
 | 326 | 915 | Kelly Trent |
 | 327 | 914 | Shuany Arias |
 | 328 | 907 | Gene Mills |
-| 329 | 904 | John Bednarik |
-| 330 | 904 | Jennifer Aiken |
+| 329 | 904 | Jennifer Aiken |
+| 330 | 904 | John Bednarik |
 | 331 | 904 | Bee |
 | 332 | 903 | Giggy Blocker |
 | 333 | 902 | Carl Bradshaw |
@@ -764,8 +764,8 @@
 | 756 | 466 | Shea Edison |
 | 757 | 466 | Miracle |
 | 758 | 465 | Nicole L Morelli |
-| 759 | 464 | Lively Edgepiece |
-| 760 | 464 | Natasha Edmonds |
+| 759 | 464 | Natasha Edmonds |
+| 760 | 464 | Lively Edgepiece |
 | 761 | 464 | Angelina Marie |
 | 762 | 464 | Saucy Fitzone |
 | 763 | 463 | Jaye EL Hunter |
@@ -836,8 +836,8 @@
 | 828 | 429 | Ricky Fortune |
 | 829 | 429 | Angel Hunnewell |
 | 830 | 428 | Jenn Morin |
-| 831 | 428 | Anthony D Gritz Jr |
-| 832 | 428 | Lisa Falcon |
+| 831 | 428 | Lisa Falcon |
+| 832 | 428 | Anthony D Gritz Jr |
 | 833 | 427 | Destiny Cozier |
 | 834 | 427 | Gina Caulder |
 | 835 | 427 | Jo Nicole |
@@ -937,19 +937,19 @@
 | 929 | 390 | Aireka Roman |
 | 930 | 389 | Loony Basepiece |
 | 931 | 388 | Kristina Marie Hanna |
-| 932 | 388 | Tamara Bailey |
-| 933 | 388 | Alice Ball |
+| 932 | 388 | Alice Ball |
+| 933 | 388 | Tamara Bailey |
 | 934 | 387 | David Holliday |
 | 935 | 387 | Bryan Werleman |
 | 936 | 386 | Yasmin Guzman |
 | 937 | 385 | Jay Levy |
 | 938 | 385 | Cheery Puzzler |
-| 939 | 385 | Kirsten Marie Lomupo |
-| 940 | 385 | Lola C Davis |
+| 939 | 385 | Lola C Davis |
+| 940 | 385 | Kirsten Marie Lomupo |
 | 941 | 385 | stacey |
-| 942 | 385 | Iris Angelica Perez Cantos |
-| 943 | 385 | Lawanda Forbes |
-| 944 | 385 | Samuel Labruno |
+| 942 | 385 | Samuel Labruno |
+| 943 | 385 | Iris Angelica Perez Cantos |
+| 944 | 385 | Lawanda Forbes |
 | 945 | 384 | King Shamell Young |
 | 946 | 384 | Savannah Alexander |
 | 947 | 383 | Jane Crew |

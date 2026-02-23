@@ -128,8 +128,8 @@
 | 120 | 769 | Kristie |
 | 121 | 764 | Groovy Catcher |
 | 122 | 762 | Speedy Bridger |
-| 123 | 752 | Logan Naccarato |
-| 124 | 752 | Raya |
+| 123 | 752 | Raya |
+| 124 | 752 | Logan Naccarato |
 | 125 | 748 | Adrian Marcel Pate |
 | 126 | 745 | JerseyJess |
 | 127 | 744 | Leah Barnett |
@@ -188,9 +188,9 @@
 | 180 | 559 | Patti Skiles |
 | 181 | 556 | Elissa S-k |
 | 182 | 553 | LaTanya GeminiondaRise Johnson |
-| 183 | 546 | Tasha Schriewer |
+| 183 | 546 | Mykal Burton |
 | 184 | 546 | Cynthia Castros-Hampton |
-| 185 | 546 | Mykal Burton |
+| 185 | 546 | Tasha Schriewer |
 | 186 | 540 | Shawn Miller |
 | 187 | 534 | Danielle Balcom |
 | 188 | 534 | Jacqueline Rodriguez |
@@ -309,8 +309,8 @@
 | 301 | 331 | Gray Hicks |
 | 302 | 329 | Angela Scott |
 | 303 | 328 | Desiree Soto |
-| 304 | 326 | Kerry Nowickshere |
-| 305 | 326 | Isabel Ocasio |
+| 304 | 326 | Isabel Ocasio |
+| 305 | 326 | Kerry Nowickshere |
 | 306 | 325 | angieelyn |
 | 307 | 325 | Tasha Wesson-Torrence |
 | 308 | 324 | Sissy Lowery Davis |
@@ -515,8 +515,8 @@
 | 507 | 209 | TazB |
 | 508 | 208 | Jessica Christian |
 | 509 | 208 | Luccy Luxe |
-| 510 | 207 | Misstery |
-| 511 | 207 | Nichol Graham |
+| 510 | 207 | Nichol Graham |
+| 511 | 207 | Misstery |
 | 512 | 206 | Tammy Rosenberry |
 | 513 | 206 | Dakota Graham |
 | 514 | 205 | Rachel Napper |
@@ -530,7 +530,7 @@
 | 522 | 201 | Katrina E Jelks |
 | 523 | 200 | Sarah Whalen |
 | 524 | 200 | glichmod |
-| 525 | 200 | Sarah Whalen |
+| 525 | 200 | Michell Hendershott Jackson |
 | 526 | 200 | Christina Marie Swisher |
 | 527 | 199 | PrncssPJ |
 | 528 | 199 | Cheeky Setter |

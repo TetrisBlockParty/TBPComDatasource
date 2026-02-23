@@ -26,8 +26,8 @@
 | 18 | 1636 | Cassie Michaux |
 | 19 | 1565 | GreenJeepGirl |
 | 20 | 1558 | Leah Gorsuch |
-| 21 | 1536 | Roger Coulter |
-| 22 | 1536 | Misty Hollibaugh |
+| 21 | 1536 | Misty Hollibaugh |
+| 22 | 1536 | Roger Coulter |
 | 23 | 1485 | Juggalo |
 | 24 | 1390 | Sammy Noguera |
 | 25 | 1382 | Tammi Crnza |
@@ -55,8 +55,8 @@
 | 47 | 938 | Denny Shives |
 | 48 | 936 | Rebecca Moulton Pinciaro |
 | 49 | 932 | Marvin Lou Martin |
-| 50 | 911 | Jeremy Steines |
-| 51 | 911 | Anthony Bryan Riva |
+| 50 | 911 | Anthony Bryan Riva |
+| 51 | 911 | Jeremy Steines |
 | 52 | 870 | BertMofo |
 | 53 | 863 | Pee |
 | 54 | 853 | TeeJ |
@@ -122,8 +122,8 @@
 | 114 | 519 | Nugget |
 | 115 | 517 | shar |
 | 116 | 517 | Christina LR |
-| 117 | 514 | Scott Jameson |
-| 118 | 514 | Serena Goodridge |
+| 117 | 514 | Serena Goodridge |
+| 118 | 514 | Scott Jameson |
 | 119 | 513 | Erin Thomas |
 | 120 | 512 | Casey Jeffcoat |
 | 121 | 512 | Cristy Duerksen |
@@ -148,8 +148,8 @@
 | 140 | 429 | Klo |
 | 141 | 426 | 🥔🥔 Spudz |
 | 142 | 423 | Carrie Brian |
-| 143 | 421 | JIGsaw ~(•¿°)~ |
-| 144 | 421 | Kesha Brady |
+| 143 | 421 | Kesha Brady |
+| 144 | 421 | JIGsaw ~(•¿°)~ |
 | 145 | 418 | Lush Linkfall |
 | 146 | 418 | Marie-Pier Desjardins |
 | 147 | 416 | Chaz Duncan |
@@ -157,8 +157,8 @@
 | 149 | 414 | Swanky Fitline |
 | 150 | 412 | Jessica Bohlken |
 | 151 | 408 | Amanda Pauldo-Ivy |
-| 152 | 406 | Livvy |
-| 153 | 406 | Damn Libra |
+| 152 | 406 | Damn Libra |
+| 153 | 406 | Livvy |
 | 154 | 398 | Tyler Terrific |
 | 155 | 393 | Carlton Unfiltered |
 | 156 | 393 | Girl |
@@ -176,8 +176,8 @@
 | 168 | 368 | Brandon Crabbs |
 | 169 | 368 | Chris Bernstein |
 | 170 | 365 | Jeff Brian Gates |
-| 171 | 361 | Danielle Kollias |
-| 172 | 361 | Melissa Adams |
+| 171 | 361 | Melissa Adams |
+| 172 | 361 | Danielle Kollias |
 | 173 | 359 | Keith Kelley |
 | 174 | 358 | A5! |
 | 175 | 356 | George Nutt |
@@ -195,8 +195,8 @@
 | 187 | 333 | shark tato |
 | 188 | 332 | HastyGrabber |
 | 189 | 330 | Kathy Brookins |
-| 190 | 329 | Sam Bishop |
-| 191 | 329 | Antony Dwayne Beasley |
+| 190 | 329 | Antony Dwayne Beasley |
+| 191 | 329 | Sam Bishop |
 | 192 | 328 | scott |
 | 193 | 327 | J-Rizzle |
 | 194 | 324 | jim |
