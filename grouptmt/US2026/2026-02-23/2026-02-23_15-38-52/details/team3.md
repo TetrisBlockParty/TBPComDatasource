@@ -318,8 +318,8 @@
 | 310 | 368 | Sheila M Frazier |
 | 311 | 368 | Christian Werndl |
 | 312 | 365 | LaShey Thompson |
-| 313 | 362 | Foltz Lee Kelli |
-| 314 | 362 | Brandon Givens |
+| 313 | 362 | Brandon Givens |
+| 314 | 362 | Foltz Lee Kelli |
 | 315 | 361 | Breanna Marsden |
 | 316 | 360 | Dee Pratt |
 | 317 | 359 | Steven Fulater |
@@ -335,12 +335,12 @@
 | 327 | 351 | Eon Harris |
 | 328 | 349 | Amanda J. Mcneil-Anderson |
 | 329 | 349 | Num1hater |
-| 330 | 348 | Kelly Wolf |
-| 331 | 348 | Ashley Raines |
+| 330 | 348 | Ashley Raines |
+| 331 | 348 | Kelly Wolf |
 | 332 | 346 | Tiffany Davie |
 | 333 | 346 | Chummy Rumbler |
-| 334 | 345 | gremicx |
-| 335 | 345 | victory |
+| 334 | 345 | victory |
+| 335 | 345 | gremicx |
 | 336 | 344 | Beaudie Stroebel |
 | 337 | 343 | Ashley Rufus Bythcez |
 | 338 | 342 | ROODBOY |
@@ -569,8 +569,8 @@
 | 561 | 221 | Bleu Sun Beams |
 | 562 | 221 | Glitzy Rotate |
 | 563 | 221 | Vaners |
-| 564 | 220 | Macaulay Logel |
-| 565 | 220 | Sarah Tschee |
+| 564 | 220 | Sarah Tschee |
+| 565 | 220 | Macaulay Logel |
 | 566 | 220 | Bhreagh Gentile |
 | 567 | 219 | Trice Thomas |
 | 568 | 219 | Jill Stickney |

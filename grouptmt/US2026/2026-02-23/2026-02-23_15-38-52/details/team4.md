@@ -78,8 +78,8 @@
 | 70 | 807 | Amelpss |
 | 71 | 802 | Crystal Carroll |
 | 72 | 788 | Chilly Line |
-| 73 | 787 | loulou |
-| 74 | 787 | Edward White |
+| 73 | 787 | Edward White |
+| 74 | 787 | loulou |
 | 75 | 769 | Alyssa Papen |
 | 76 | 768 | Judy Cox |
 | 77 | 767 | Shannon Ferrari |
@@ -231,7 +231,7 @@
 | 223 | 334 | June Hoffman |
 | 224 | 331 | Alan George LaRage |
 | 225 | 331 | Lauren Scott |
-| 226 | 330 | J-Rizzle |
+| 226 | 330 | blockstar |
 | 227 | 330 | Kathy Brookins |
 | 228 | 330 | J-Rizzle |
 | 229 | 326 | KimoKoala |

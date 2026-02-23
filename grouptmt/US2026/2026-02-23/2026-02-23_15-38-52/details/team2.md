@@ -367,8 +367,8 @@
 | 359 | 937 | Andrew Willis |
 | 360 | 937 | Jessica Wayne Cornwall |
 | 361 | 934 | Mighty Shatterfit |
-| 362 | 933 | Bee |
-| 363 | 933 | Nicole Cannon |
+| 362 | 933 | Nicole Cannon |
+| 363 | 933 | Bee |
 | 364 | 931 | Sinistah42o |
 | 365 | 929 | Ellie Jonas |
 | 366 | 928 | Elizabeth Wilbanks |
@@ -581,8 +581,8 @@
 | 573 | 653 | Brittney Jean |
 | 574 | 651 | Unica Rector |
 | 575 | 649 | Hunter Connors |
-| 576 | 647 | Jackie Avila |
-| 577 | 647 | CC |
+| 576 | 647 | CC |
+| 577 | 647 | Jackie Avila |
 | 578 | 647 | Jenn Marie |
 | 579 | 645 | Andre Love |
 | 580 | 645 | James Smith |
@@ -698,8 +698,8 @@
 | 690 | 555 | Frisky Riserbuilder |
 | 691 | 555 | Misty Mitchell |
 | 692 | 554 | Bubbly Snapfit |
-| 693 | 554 | Laquetta Royston |
-| 694 | 554 | Fi Ne |
+| 693 | 554 | Fi Ne |
+| 694 | 554 | Laquetta Royston |
 | 695 | 554 | Party d |
 | 696 | 553 | ruth |
 | 697 | 551 | Matt Johnson |
