@@ -121,23 +121,23 @@
 | 113 | 839 | Angeline Joseph |
 | 114 | 830 | Stephanie Allmon |
 | 115 | 826 | Shane Wilson Jr. |
-| 116 | 816 | Jesse Olive |
-| 117 | 816 | Brenda Lee Vander Molen |
+| 116 | 816 | Brenda Lee Vander Molen |
+| 117 | 816 | Jesse Olive |
 | 118 | 802 | Bobbi Moore |
 | 119 | 800 | Lauren Girouard |
 | 120 | 799 | Dolores Falco |
 | 121 | 773 | Daira Largen |
 | 122 | 769 | Kristie |
-| 123 | 764 | Hasty Cascadefit |
-| 124 | 764 | Groovy Catcher |
+| 123 | 764 | Groovy Catcher |
+| 124 | 764 | Hasty Cascadefit |
 | 125 | 762 | Speedy Bridger |
-| 126 | 755 | Katrina Schroeder |
-| 127 | 755 | Raya |
+| 126 | 755 | Raya |
+| 127 | 755 | Katrina Schroeder |
 | 128 | 752 | Logan Naccarato |
 | 129 | 748 | Adrian Marcel Pate |
 | 130 | 745 | JerseyJess |
-| 131 | 744 | Fancy Cascader |
-| 132 | 744 | Leah Barnett |
+| 131 | 744 | Leah Barnett |
+| 132 | 744 | Fancy Cascader |
 | 133 | 736 | mzcatzy |
 | 134 | 734 | Calista Jo Dickson |
 | 135 | 728 | Peppy Shifter |
@@ -164,8 +164,8 @@
 | 156 | 646 | Bea Miles |
 | 157 | 634 | Amber Hughes |
 | 158 | 630 | yoyo |
-| 159 | 621 | Sashay Tapae Simpson |
-| 160 | 621 | Cherry Parker |
+| 159 | 621 | Cherry Parker |
+| 160 | 621 | Sashay Tapae Simpson |
 | 161 | 616 | Kammy Hill |
 | 162 | 611 | Rochelle Hazelett |
 | 163 | 607 | Grego Daniel |
@@ -197,13 +197,13 @@
 | 189 | 546 | Cynthia Castros-Hampton |
 | 190 | 546 | Mykal Burton |
 | 191 | 540 | Shawn Miller |
-| 192 | 531 | Sarah Cowan Burgos |
-| 193 | 531 | Chauntee Alfrey-Cardinale |
+| 192 | 531 | Chauntee Alfrey-Cardinale |
+| 193 | 531 | Sarah Cowan Burgos |
 | 194 | 528 | Silly Twist |
 | 195 | 525 | Stephanie Blkpep Davidson |
 | 196 | 524 | Bmo |
-| 197 | 519 | rnr junky |
-| 198 | 519 | Terry Jo Jones |
+| 197 | 519 | Terry Jo Jones |
+| 198 | 519 | rnr junky |
 | 199 | 515 | Cozy Snaplink |
 | 200 | 513 | Lizabeth Fox |
 | 201 | 510 | Makelini Mausia |
@@ -299,8 +299,8 @@
 | 291 | 353 | Ashley Tookes |
 | 292 | 353 | Dee Franklin |
 | 293 | 352 | Christian Werndl |
-| 294 | 351 | Eon Harris |
-| 295 | 351 | Blocked |
+| 294 | 351 | Blocked |
+| 295 | 351 | Eon Harris |
 | 296 | 350 | LaShey Thompson |
 | 297 | 349 | Amanda J. Mcneil-Anderson |
 | 298 | 348 | Ashley Raines |

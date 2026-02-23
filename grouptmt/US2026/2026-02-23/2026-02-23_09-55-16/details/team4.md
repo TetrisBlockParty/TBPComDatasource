@@ -62,8 +62,8 @@
 | 54 | 864 | Shelly Chandler |
 | 55 | 863 | Pee |
 | 56 | 859 | TeeJ |
-| 57 | 846 | Lucille Truesdale |
-| 58 | 846 | Christine Marie |
+| 57 | 846 | Christine Marie |
+| 58 | 846 | Lucille Truesdale |
 | 59 | 845 | LisaJo Picken Buchanan |
 | 60 | 840 | Ashley Ingram |
 | 61 | 834 | quicksand420 |
@@ -75,8 +75,8 @@
 | 67 | 787 | Edward White |
 | 68 | 767 | Shannon Ferrari |
 | 69 | 766 | Robin Watters |
-| 70 | 765 | Denise Carlson |
-| 71 | 765 | Robin Getchel |
+| 70 | 765 | Robin Getchel |
+| 71 | 765 | Denise Carlson |
 | 72 | 753 | TheNeesh50 |
 | 73 | 752 | Shane Kalamata Platoon |
 | 74 | 749 | Dustee Craddock-Harrison |
@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Jonathan Kimbrough |
-| 84 | 684 | Kimyatta Cavin |
+| 83 | 684 | Kimyatta Cavin |
+| 84 | 684 | Jonathan Kimbrough |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -153,8 +153,8 @@
 | 145 | 422 | Zakia Monae |
 | 146 | 421 | JIGsaw ~(•¿°)~ |
 | 147 | 421 | Kesha Brady |
-| 148 | 418 | Lush Linkfall |
-| 149 | 418 | Marie-Pier Desjardins |
+| 148 | 418 | Marie-Pier Desjardins |
+| 149 | 418 | Lush Linkfall |
 | 150 | 417 | Steph Marie |
 | 151 | 416 | Chaz Duncan |
 | 152 | 414 | Swanky Fitline |
@@ -232,18 +232,18 @@
 | 224 | 294 | Calvin Cannon |
 | 225 | 292 | Epic Curvetile |
 | 226 | 291 | Nikki Rae Gordon |
-| 227 | 290 | Plucky Patternblock |
-| 228 | 290 | Rebecca Morris |
+| 227 | 290 | Rebecca Morris |
+| 228 | 290 | Plucky Patternblock |
 | 229 | 290 | Jared Gutwein |
 | 230 | 289 | Juls |
-| 231 | 288 | Leah Kutz Zirbel |
+| 231 | 288 | Adam Stephanie Parker |
 | 232 | 288 | Brittney Orengo |
 | 233 | 288 | Zesty Twistbuilder |
 | 234 | 288 | Leah Kutz Zirbel |
 | 235 | 285 | 030Synner |
 | 236 | 284 | Mimi |
-| 237 | 282 | Matt Gooder |
-| 238 | 282 | Kim Klutz Olson |
+| 237 | 282 | Kim Klutz Olson |
+| 238 | 282 | Matt Gooder |
 | 239 | 281 | Laura |
 | 240 | 280 | Rio Rocha |
 | 241 | 279 | Malakai Darien Fox |
@@ -258,8 +258,8 @@
 | 250 | 272 | Dennis Bradley |
 | 251 | 271 | Holly |
 | 252 | 270 | Jen Caldwell |
-| 253 | 266 | Mr. Party |
-| 254 | 266 | Tracey Lehmann |
+| 253 | 266 | Tracey Lehmann |
+| 254 | 266 | Mr. Party |
 | 255 | 266 | Nubian1 |
 | 256 | 265 | Silly SeaWeed |
 | 257 | 265 | Degenerate |
@@ -283,8 +283,8 @@
 | 275 | 253 | Autum Leigh |
 | 276 | 251 | Carol Ricks Raymond |
 | 277 | 249 | Ak Jones |
-| 278 | 248 | Angelito |
-| 279 | 248 | Chirpy Basepiece |
+| 278 | 248 | Chirpy Basepiece |
+| 279 | 248 | Angelito |
 | 280 | 248 | Jose Dejesus |
 | 281 | 245 | 23 |
 | 282 | 244 | Ruben Wheeler |
@@ -334,8 +334,8 @@
 | 326 | 217 | Paito |
 | 327 | 216 | mike |
 | 328 | 215 | Stephme310 |
-| 329 | 214 | Stacey Stano |
-| 330 | 214 | Patron Anderson |
+| 329 | 214 | Patron Anderson |
+| 330 | 214 | Stacey Stano |
 | 331 | 213 | Jackie Marie |
 | 332 | 212 | Mike Solo |
 | 333 | 212 | Brave Spinbuilder |
@@ -358,9 +358,9 @@
 | 350 | 203 | Andrew Dang |
 | 351 | 203 | Katherine Crane |
 | 352 | 201 | O block |
-| 353 | 198 | Calvin Dennis |
+| 353 | 198 | Mona Sharma |
 | 354 | 198 | Shiny Fit |
-| 355 | 198 | Mona Sharma |
+| 355 | 198 | Calvin Dennis |
 | 356 | 197 | Cozy Balancer |
 | 357 | 196 | Blessedmama |
 | 358 | 196 | Megan Cutshaw |
@@ -644,8 +644,8 @@
 | 636 | 110 | Jen Mattei |
 | 637 | 110 | Mary Miller |
 | 638 | 110 | Chariss Newsom |
-| 639 | 110 | Johnny R |
-| 640 | 110 | Larry Agan |
+| 639 | 110 | Larry Agan |
+| 640 | 110 | Johnny R |
 | 641 | 109 | Bigmamatetrisqueen |
 | 642 | 109 | Nikisha Reed |
 | 643 | 109 | Loyal |

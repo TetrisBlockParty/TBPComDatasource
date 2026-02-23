@@ -128,8 +128,8 @@
 | 120 | 1937 | Adam Erikson |
 | 121 | 1932 | Gary Schaffner Jr. |
 | 122 | 1931 | Angi Harrison |
-| 123 | 1899 | Jumpy Gridpiece |
-| 124 | 1899 | Jamie Main |
+| 123 | 1899 | Jamie Main |
+| 124 | 1899 | Jumpy Gridpiece |
 | 125 | 1890 | Aimee Byrom |
 | 126 | 1887 | Tonya Brooks-Johnson |
 | 127 | 1872 | Karen Martini-Stapleton |
@@ -224,8 +224,8 @@
 | 216 | 1245 | Cody Nishimura |
 | 217 | 1240 | Brandon Armstrong |
 | 218 | 1237 | Megan Ferguson Leone |
-| 219 | 1232 | Groovy Puzzle |
-| 220 | 1232 | Ambyre Patterson |
+| 219 | 1232 | Ambyre Patterson |
+| 220 | 1232 | Groovy Puzzle |
 | 221 | 1230 | Megan Garrick |
 | 222 | 1221 | Jane Fong |
 | 223 | 1217 | Brooks Brooks |
@@ -602,8 +602,8 @@
 | 594 | 587 | Ben Barkley |
 | 595 | 586 | Michael Artis |
 | 596 | 585 | Wuntayk |
-| 597 | 585 | Sarah Berger |
-| 598 | 585 | Jessica Lamb |
+| 597 | 585 | Jessica Lamb |
+| 598 | 585 | Sarah Berger |
 | 599 | 582 | Ebony Deloach Bryant |
 | 600 | 581 | Angie Marie |
 | 601 | 581 | Cc |
@@ -1329,8 +1329,8 @@
 | 1321 | 293 | Lisa Skaggs |
 | 1322 | 293 | Denisha Williams |
 | 1323 | 293 | Goofy Swiper |
-| 1324 | 292 | Atara James |
-| 1325 | 292 | Tim Jacoby |
+| 1324 | 292 | Tim Jacoby |
+| 1325 | 292 | Atara James |
 | 1326 | 292 | Smitters |
 | 1327 | 292 | Chipper Dashpiece |
 | 1328 | 292 | Alyssa Dean |
