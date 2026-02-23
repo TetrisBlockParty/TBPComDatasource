@@ -175,8 +175,8 @@
 | 167 | 632 | Morgan Martinez |
 | 168 | 630 | yoyo |
 | 169 | 629 | rnr junky |
-| 170 | 621 | Cherry Parker |
-| 171 | 621 | Sashay Tapae Simpson |
+| 170 | 621 | Sashay Tapae Simpson |
+| 171 | 621 | Cherry Parker |
 | 172 | 616 | Kammy Hill |
 | 173 | 611 | Rochelle Hazelett |
 | 174 | 603 | Jone |
@@ -301,8 +301,8 @@
 | 293 | 382 | Salena Whitlock |
 | 294 | 382 | Desiree Gold |
 | 295 | 380 | Rebecca Bailey |
-| 296 | 379 | JessDrown |
-| 297 | 379 | Philip Rock |
+| 296 | 379 | Philip Rock |
+| 297 | 379 | JessDrown |
 | 298 | 378 | Chris Bell |
 | 299 | 378 | MsBee |
 | 300 | 376 | Sarah Moyer |

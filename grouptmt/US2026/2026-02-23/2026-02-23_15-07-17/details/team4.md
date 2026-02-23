@@ -78,8 +78,8 @@
 | 70 | 807 | Amelpss |
 | 71 | 802 | Crystal Carroll |
 | 72 | 788 | Chilly Line |
-| 73 | 787 | loulou |
-| 74 | 787 | Edward White |
+| 73 | 787 | Edward White |
+| 74 | 787 | loulou |
 | 75 | 769 | Alyssa Papen |
 | 76 | 768 | Judy Cox |
 | 77 | 767 | Shannon Ferrari |
@@ -431,8 +431,8 @@
 | 423 | 191 | Riverdale |
 | 424 | 191 | Norman Klick |
 | 425 | 190 | wombat |
-| 426 | 189 | Duck |
-| 427 | 189 | Marcus TheeyoungWoe Gilmore |
+| 426 | 189 | Marcus TheeyoungWoe Gilmore |
+| 427 | 189 | Duck |
 | 428 | 189 | Ryry |
 | 429 | 188 | Jarred Falls |
 | 430 | 188 | Frilly Blocky |
@@ -953,8 +953,8 @@
 | 945 | 75 | McKayla Breanne |
 | 946 | 74 | Dania Cochrane |
 | 947 | 74 | Shon Woodland |
-| 948 | 74 | Mark Morgan |
-| 949 | 74 | Kevin L Cafleux |
+| 948 | 74 | David Emmanuel George |
+| 949 | 74 | Mark Morgan |
 | 950 | 74 | Patrick Watkins |
 | 951 | 74 | Kevin L Cafleux |
 | 952 | 73 | Too Low Lou |

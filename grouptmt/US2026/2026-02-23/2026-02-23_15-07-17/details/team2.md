@@ -185,8 +185,8 @@
 | 177 | 1574 | Stephen Stephen |
 | 178 | 1567 | Juliana Marques Do Nascimento Gordy |
 | 179 | 1564 | Amy Sayers |
-| 180 | 1558 | Crystal Slaughter |
-| 181 | 1558 | Tim Dyer |
+| 180 | 1558 | Tim Dyer |
+| 181 | 1558 | Crystal Slaughter |
 | 182 | 1555 | blarg |
 | 183 | 1549 | Desiree Harris Rosch |
 | 184 | 1542 | Mo Shine On |
@@ -340,8 +340,8 @@
 | 332 | 996 | Ashie Ann |
 | 333 | 984 | Phil J. Grombliniak |
 | 334 | 980 | Jackie Lucas |
-| 335 | 978 | Binyah-Binyah |
-| 336 | 978 | April Dawn Gussler |
+| 335 | 978 | April Dawn Gussler |
+| 336 | 978 | Binyah-Binyah |
 | 337 | 976 | Della Hole |
 | 338 | 976 | Sam Joe |
 | 339 | 975 | Hyper Cluster |
@@ -385,8 +385,8 @@
 | 377 | 903 | Eric Castaneda |
 | 378 | 902 | Diallo Sparkman |
 | 379 | 899 | Felicia Lynn |
-| 380 | 899 | Patrick Bartlett |
-| 381 | 899 | Chevy |
+| 380 | 899 | Chevy |
+| 381 | 899 | Patrick Bartlett |
 | 382 | 898 | Donna M Carter |
 | 383 | 895 | Donna Colby |
 | 384 | 895 | Lisa Ongtowasruk |
@@ -518,8 +518,8 @@
 | 510 | 711 | Narutofreak13 |
 | 511 | 709 | Marie Walker |
 | 512 | 707 | Cc |
-| 513 | 706 | Irene Jones |
-| 514 | 706 | Poldo Ilano |
+| 513 | 706 | Poldo Ilano |
+| 514 | 706 | Irene Jones |
 | 515 | 704 | Montez Mancil |
 | 516 | 704 | Tansaria Couch-Butler |
 | 517 | 703 | Funky Drop |
@@ -536,8 +536,8 @@
 | 528 | 689 | AISlop |
 | 529 | 688 | Tracy Wise |
 | 530 | 686 | Christine Coughlin |
-| 531 | 684 | Ann Knutson Anderson |
-| 532 | 684 | Amanda Woodruff |
+| 531 | 684 | Amanda Woodruff |
+| 532 | 684 | Ann Knutson Anderson |
 | 533 | 682 | Vanessa Moreno |
 | 534 | 681 | Gloria Liu |
 | 535 | 679 | Kassandra Hunt |
@@ -545,8 +545,8 @@
 | 537 | 677 | Paul Combs |
 | 538 | 677 | Kayleigh Wisse |
 | 539 | 676 | Brenna Ann |
-| 540 | 676 | Roseanna Peloso |
-| 541 | 676 | Nicky Jackson |
+| 540 | 676 | Nicky Jackson |
+| 541 | 676 | Roseanna Peloso |
 | 542 | 675 | Lonne Emade |
 | 543 | 675 | Katelynn Hollen |
 | 544 | 675 | Jennifer Leigh |
@@ -578,8 +578,8 @@
 | 570 | 653 | Brittney Jean |
 | 571 | 651 | Unica Rector |
 | 572 | 649 | Hunter Connors |
-| 573 | 647 | CC |
-| 574 | 647 | Jackie Avila |
+| 573 | 647 | Jackie Avila |
+| 574 | 647 | CC |
 | 575 | 643 | Michelle Pike |
 | 576 | 642 | Samantha Scibelli |
 | 577 | 642 | snkylnk |
