@@ -121,8 +121,8 @@
 | 113 | 831 | Angeline Joseph |
 | 114 | 830 | Stephanie Allmon |
 | 115 | 826 | Shane Wilson Jr. |
-| 116 | 816 | Brenda Lee Vander Molen |
-| 117 | 816 | Jesse Olive |
+| 116 | 816 | Jesse Olive |
+| 117 | 816 | Brenda Lee Vander Molen |
 | 118 | 802 | Bobbi Moore |
 | 119 | 800 | Lauren Girouard |
 | 120 | 799 | Dolores Falco |
@@ -130,8 +130,8 @@
 | 122 | 769 | Kristie |
 | 123 | 764 | Groovy Catcher |
 | 124 | 762 | Speedy Bridger |
-| 125 | 755 | Katrina Schroeder |
-| 126 | 755 | Raya |
+| 125 | 755 | Raya |
+| 126 | 755 | Katrina Schroeder |
 | 127 | 752 | Logan Naccarato |
 | 128 | 748 | Adrian Marcel Pate |
 | 129 | 745 | JerseyJess |
@@ -291,8 +291,8 @@
 | 283 | 353 | Dee Franklin |
 | 284 | 353 | Cyd061769 |
 | 285 | 352 | Christian Werndl |
-| 286 | 351 | Blocked |
-| 287 | 351 | Eon Harris |
+| 286 | 351 | Eon Harris |
+| 287 | 351 | Blocked |
 | 288 | 350 | LaShey Thompson |
 | 289 | 349 | Amanda J. Mcneil-Anderson |
 | 290 | 348 | Ashley Raines |
@@ -333,8 +333,8 @@
 | 325 | 311 | Troy |
 | 326 | 309 | Desiree Gold |
 | 327 | 309 | Cheeky Snapper |
-| 328 | 308 | Katrina Turner |
-| 329 | 308 | Tia |
+| 328 | 308 | Tia |
+| 329 | 308 | Katrina Turner |
 | 330 | 305 | Hyper Matchzone |
 | 331 | 304 | _melisa223_ |
 | 332 | 303 | Alexmac |
@@ -367,8 +367,8 @@
 | 359 | 280 | Aerian Preston |
 | 360 | 280 | ROODBOY |
 | 361 | 280 | Dirtgirl27 |
-| 362 | 279 | Naur |
-| 363 | 279 | Tosha Griffey |
+| 362 | 279 | Tosha Griffey |
+| 363 | 279 | Naur |
 | 364 | 278 | Rufus Lincoln |
 | 365 | 277 | Ava Petito |
 | 366 | 277 | Krystal Gerstberger |
@@ -386,8 +386,8 @@
 | 378 | 273 | Brenda Schmid Wood |
 | 379 | 273 | Kevin Fountain |
 | 380 | 272 | Romeo |
-| 381 | 272 | Todd Hall |
-| 382 | 272 | Tay |
+| 381 | 272 | Tay |
+| 382 | 272 | Todd Hall |
 | 383 | 269 | Goofy Fall |
 | 384 | 269 | Juliana Dottore |
 | 385 | 269 | Samantha Worley |
@@ -672,8 +672,8 @@
 | 664 | 166 | Chenoa Urban Sophicated Redy |
 | 665 | 166 | Misha Sanders |
 | 666 | 165 | James Lykes |
-| 667 | 165 | Erica Anderson |
-| 668 | 165 | Autumn Phillimore |
+| 667 | 165 | Autumn Phillimore |
+| 668 | 165 | Erica Anderson |
 | 669 | 164 | Megan Stanley |
 | 670 | 164 | Jolly Brick |
 | 671 | 164 | Mindy Phelps |
@@ -777,8 +777,8 @@
 | 769 | 143 | Russell Hankinson |
 | 770 | 143 | Melissa Ponder |
 | 771 | 143 | Lisa Lisa |
-| 772 | 142 | Myriam Lapierre |
-| 773 | 142 | Michelle Allers |
+| 772 | 142 | Michelle Allers |
+| 773 | 142 | Myriam Lapierre |
 | 774 | 142 | get et |
 | 775 | 141 | Carri |
 | 776 | 141 | Amber Evans |

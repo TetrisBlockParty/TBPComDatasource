@@ -222,8 +222,8 @@
 | 214 | 301 | Damon J. Martin |
 | 215 | 301 | Cody Gates |
 | 216 | 300 | Sleepysloath5745 |
-| 217 | 298 | Sweetts |
-| 218 | 298 | Billie Ann Eason |
+| 217 | 298 | Billie Ann Eason |
+| 218 | 298 | Sweetts |
 | 219 | 295 | Lakeisha Chapman |
 | 220 | 294 | Chuck Gannon |
 | 221 | 294 | Bindi |

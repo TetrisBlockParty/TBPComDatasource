@@ -166,8 +166,8 @@
 | 158 | 1580 | Sally Dennis |
 | 159 | 1574 | Stephen Stephen |
 | 160 | 1571 | Alisa Lamb |
-| 161 | 1558 | Crystal Slaughter |
-| 162 | 1558 | Tim Dyer |
+| 161 | 1558 | Tim Dyer |
+| 162 | 1558 | Crystal Slaughter |
 | 163 | 1555 | blarg |
 | 164 | 1543 | Amy Sayers |
 | 165 | 1541 | Cherica Taylor |
@@ -226,8 +226,8 @@
 | 218 | 1232 | Ambyre Patterson |
 | 219 | 1230 | Megan Garrick |
 | 220 | 1221 | Jane Fong |
-| 221 | 1217 | Lucky Ladybug |
-| 222 | 1217 | Brooks Brooks |
+| 221 | 1217 | Brooks Brooks |
+| 222 | 1217 | Lucky Ladybug |
 | 223 | 1214 | David Cudicio-Hayden |
 | 224 | 1213 | Pacynthia Williams |
 | 225 | 1211 | Ricardo Burton |
@@ -805,8 +805,8 @@
 | 797 | 451 | Sharon Mills |
 | 798 | 451 | Angela Yantz |
 | 799 | 450 | sup |
-| 800 | 449 | Heather Sawtelle-Mckenzie |
-| 801 | 449 | Jas |
+| 800 | 449 | Jas |
+| 801 | 449 | Heather Sawtelle-Mckenzie |
 | 802 | 449 | Kristi Biddinger |
 | 803 | 448 | Anastacio Hernandez |
 | 804 | 448 | Darlene Bowman |
@@ -862,8 +862,8 @@
 | 854 | 424 | Christine Egidio Morocco |
 | 855 | 422 | Kimberly Ann |
 | 856 | 421 | Nina Nav |
-| 857 | 420 | Lathasa Newkirk |
-| 858 | 420 | Krys |
+| 857 | 420 | Krys |
+| 858 | 420 | Lathasa Newkirk |
 | 859 | 420 | Boogie SoAnimated Johnson |
 | 860 | 419 | Josh Dill |
 | 861 | 419 | Stephanie Fortune |
@@ -946,8 +946,8 @@
 | 938 | 392 | Jroc |
 | 939 | 391 | Poppy Gridder |
 | 940 | 391 | Chilly Bridgepiece |
-| 941 | 390 | MauroPRM |
-| 942 | 390 | Karmabunny |
+| 941 | 390 | Karmabunny |
+| 942 | 390 | MauroPRM |
 | 943 | 390 | Smiley Strike |
 | 944 | 390 | Kyla Louise |
 | 945 | 390 | Tasia Stinson |
@@ -1020,8 +1020,8 @@
 | 1012 | 366 | Ashley Criner |
 | 1013 | 366 | Madysen Holt |
 | 1014 | 366 | KrisCynthia Lynette |
-| 1015 | 365 | Wes Acton |
-| 1016 | 365 | Dee Blokk |
+| 1015 | 365 | Dee Blokk |
+| 1016 | 365 | Wes Acton |
 | 1017 | 365 | Nikki Nikki |
 | 1018 | 365 | Candace Noel |
 | 1019 | 364 | Jessica Galick |
@@ -1175,8 +1175,8 @@
 | 1167 | 321 | Claire |
 | 1168 | 321 | Swanky Snap |
 | 1169 | 321 | Frilly Tilemaker |
-| 1170 | 321 | Crystal Herndon |
-| 1171 | 321 | Jennifer Monteleone |
+| 1170 | 321 | Jennifer Monteleone |
+| 1171 | 321 | Crystal Herndon |
 | 1172 | 320 | Reece Smith |
 | 1173 | 320 | Devlin Ogg |
 | 1174 | 320 | Peachy Blockbuilder |
@@ -5324,7 +5324,7 @@
 | 5316 | 72 | Loopy Brickroll |
 | 5317 | 71 | Jose904 |
 | 5318 | 71 | Clever Snapfall |
-| 5319 | 71 | Pe Thang |
+| 5319 | 71 | Dave Boone |
 | 5320 | 71 | Daphne Aguilar |
 | 5321 | 71 | Pe Thang |
 | 5322 | 71 | snuggleturtle |

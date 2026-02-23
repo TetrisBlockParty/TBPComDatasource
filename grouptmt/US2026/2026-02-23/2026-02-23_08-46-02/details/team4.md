@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | Shauna Havard |
-| 93 | 647 | KM8 |
+| 92 | 647 | KM8 |
+| 93 | 647 | Shauna Havard |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -174,8 +174,8 @@
 | 166 | 377 | Guy Incognito |
 | 167 | 375 | Desi Desporte |
 | 168 | 374 | Mylo Lipscomb |
-| 169 | 372 | Antony Dwayne Beasley |
-| 170 | 372 | George Nutt |
+| 169 | 372 | George Nutt |
+| 170 | 372 | Antony Dwayne Beasley |
 | 171 | 370 | Oscar Alberto Perez |
 | 172 | 369 | Lindsey Gonzalez |
 | 173 | 368 | Raegan Lane-Ross |
@@ -327,8 +327,8 @@
 | 319 | 216 | Chantilly Laace |
 | 320 | 216 | mike |
 | 321 | 215 | Stephme310 |
-| 322 | 214 | Stacey Stano |
-| 323 | 214 | Patron Anderson |
+| 322 | 214 | Patron Anderson |
+| 323 | 214 | Stacey Stano |
 | 324 | 213 | Jackie Marie |
 | 325 | 212 | Zany Shatterer |
 | 326 | 212 | Mike Solo |
@@ -374,8 +374,8 @@
 | 366 | 188 | Sharyn Lemire |
 | 367 | 187 | Cozy Balancer |
 | 368 | 187 | Jenny Wells-Oakley |
-| 369 | 186 | Shanon Klair |
-| 370 | 186 | Dandy Cascadefit |
+| 369 | 186 | Dandy Cascadefit |
+| 370 | 186 | Shanon Klair |
 | 371 | 186 | Eri Kka |
 | 372 | 185 | Eric Wren |
 | 373 | 185 | Moonsterix |
