@@ -159,8 +159,8 @@
 | 151 | 1475 | Dustin Rains |
 | 152 | 1461 | Brandy Andre |
 | 153 | 1459 | Debra Williams |
-| 154 | 1450 | Shiny Rollzone |
-| 155 | 1450 | Cody Smith-Candelaria |
+| 154 | 1450 | Cody Smith-Candelaria |
+| 155 | 1450 | Shiny Rollzone |
 | 156 | 1418 | L3sli3 |
 | 157 | 1416 | Nancy Reid |
 | 158 | 1411 | niecy |
@@ -236,8 +236,8 @@
 | 228 | 1071 | Kim Dean |
 | 229 | 1067 | Jodi Blake |
 | 230 | 1058 | Jennifer Kistner |
-| 231 | 1057 | RAEPR05 |
-| 232 | 1057 | Desiree Harris Rosch |
+| 231 | 1057 | Desiree Harris Rosch |
+| 232 | 1057 | RAEPR05 |
 | 233 | 1048 | Desiree Anderson |
 | 234 | 1045 | Lourisha |
 | 235 | 1043 | Brave Dropmatch |
@@ -337,7 +337,7 @@
 | 329 | 812 | Jackie Lucas |
 | 330 | 812 | Samantha Jo |
 | 331 | 808 | Melissa McCall |
-| 332 | 808 | Amber Brion |
+| 332 | 808 | Laura McCarthey |
 | 333 | 808 | Desire Rice |
 | 334 | 808 | Amber Brion |
 | 335 | 807 | Khalil Lowe |
@@ -418,8 +418,8 @@
 | 410 | 680 | blume |
 | 411 | 679 | Kassandra Hunt |
 | 412 | 677 | Crystie Hicks |
-| 413 | 677 | Amanda Woodruff |
-| 414 | 677 | Ellie Jonas |
+| 413 | 677 | Ellie Jonas |
+| 414 | 677 | Amanda Woodruff |
 | 415 | 676 | Roseanna Peloso |
 | 416 | 674 | Lonne Emade |
 | 417 | 674 | Connie Jimenez |
@@ -456,8 +456,8 @@
 | 448 | 623 | Kimberly Hope Howell |
 | 449 | 621 | Brandon Armstrong |
 | 450 | 620 | Traci Johnson |
-| 451 | 618 | Caitlyn Blackwell |
-| 452 | 618 | Vanessa Moreno |
+| 451 | 618 | Vanessa Moreno |
+| 452 | 618 | Caitlyn Blackwell |
 | 453 | 617 | Darcy Mae |
 | 454 | 617 | Nicole Cannon |
 | 455 | 615 | Julio A Laracuente |
@@ -466,12 +466,12 @@
 | 458 | 613 | Ann Matzkanin |
 | 459 | 612 | Slinky Racker |
 | 460 | 611 | Biggest thing |
-| 461 | 607 | Michelle Lee |
-| 462 | 607 | Véronique Lévesque Sabourin |
+| 461 | 607 | Véronique Lévesque Sabourin |
+| 462 | 607 | Michelle Lee |
 | 463 | 605 | Santana Miyagi |
 | 464 | 603 | Casper The Chonk |
-| 465 | 602 | Shaun Church |
-| 466 | 602 | KhaosLord |
+| 465 | 602 | KhaosLord |
+| 466 | 602 | Shaun Church |
 | 467 | 601 | Moua Ying |
 | 468 | 597 | Jamie Schmitt |
 | 469 | 595 | Bee |
@@ -780,14 +780,14 @@
 | 772 | 387 | Veronics |
 | 773 | 386 | Loony Basepiece |
 | 774 | 385 | Tansaria Couch-Butler |
-| 775 | 385 | Kirsten Marie Lomupo |
-| 776 | 385 | Lola C Davis |
+| 775 | 385 | Lola C Davis |
+| 776 | 385 | Kirsten Marie Lomupo |
 | 777 | 385 | Jennifer Leigh |
 | 778 | 385 | Cranky Tower |
 | 779 | 384 | Party d |
 | 780 | 384 | Lawanda Forbes |
-| 781 | 383 | Jane Crew |
-| 782 | 383 | Savannah Alexander |
+| 781 | 383 | Savannah Alexander |
+| 782 | 383 | Jane Crew |
 | 783 | 382 | Amber Gray |
 | 784 | 382 | David Holliday |
 | 785 | 382 | Lively Edgepiece |
@@ -933,7 +933,7 @@
 | 925 | 330 | AndrewandShela Gornik |
 | 926 | 330 | John Rodriguez |
 | 927 | 330 | Samuel Labruno |
-| 928 | 329 | Lea Stewart |
+| 928 | 329 | Epic Stackbuilder |
 | 929 | 329 | Joanna L. Abad |
 | 930 | 329 | Lea Stewart |
 | 931 | 328 | Dee Blokk |
@@ -988,10 +988,10 @@
 | 980 | 310 | Angelica |
 | 981 | 310 | Wendy Ducheney |
 | 982 | 310 | Bigg Meezy |
-| 983 | 309 | Jannan Haimour |
-| 984 | 309 | Funky Liney |
-| 985 | 309 | Byung Bae Park |
-| 986 | 309 | Georgia Triblett |
+| 983 | 309 | Funky Liney |
+| 984 | 309 | Jannan Haimour |
+| 985 | 309 | Georgia Triblett |
+| 986 | 309 | Byung Bae Park |
 | 987 | 309 | Jas |
 | 988 | 308 | Tracy Cowley |
 | 989 | 308 | Spicy Riser |

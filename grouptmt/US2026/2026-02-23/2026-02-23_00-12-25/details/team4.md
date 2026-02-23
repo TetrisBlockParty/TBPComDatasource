@@ -51,8 +51,8 @@
 | 43 | 908 | Misty Hollibaugh |
 | 44 | 855 | Marvin Lou Martin |
 | 45 | 851 | Jae Job |
-| 46 | 846 | Christine Marie |
-| 47 | 846 | Lucille Truesdale |
+| 46 | 846 | Lucille Truesdale |
+| 47 | 846 | Christine Marie |
 | 48 | 845 | LisaJo Picken Buchanan |
 | 49 | 843 | Shelly Chandler |
 | 50 | 840 | TeeJ |
@@ -130,16 +130,16 @@
 | 122 | 431 | Courtney Cicoria |
 | 123 | 429 | Ren Mc |
 | 124 | 427 | KJ Pool |
-| 125 | 418 | Marie-Pier Desjardins |
-| 126 | 418 | Lush Linkfall |
+| 125 | 418 | Lush Linkfall |
+| 126 | 418 | Marie-Pier Desjardins |
 | 127 | 418 | Monica Daley |
 | 128 | 414 | Nope Young |
 | 129 | 411 | JIGsaw ~(•¿°)~ |
 | 130 | 408 | Amanda Pauldo-Ivy |
 | 131 | 400 | Ericca Eldridge |
 | 132 | 394 | Austin Owens |
-| 133 | 393 | Carlton Unfiltered |
-| 134 | 393 | Trish |
+| 133 | 393 | Trish |
+| 134 | 393 | Carlton Unfiltered |
 | 135 | 392 | Cristy Duerksen |
 | 136 | 391 | Ramel Rhodes |
 | 137 | 380 | Swanky Fitline |
@@ -157,8 +157,8 @@
 | 149 | 356 | Livvy |
 | 150 | 353 | Tyler Terrific |
 | 151 | 349 | Desi Desporte |
-| 152 | 348 | 🥔🥔 Spudz |
-| 153 | 348 | Silly Zonebuilder |
+| 152 | 348 | Silly Zonebuilder |
+| 153 | 348 | 🥔🥔 Spudz |
 | 154 | 347 | Daria Rycewicz |
 | 155 | 343 | Latisha Davis |
 | 156 | 342 | Klo |
@@ -264,7 +264,7 @@
 | 256 | 219 | Malakai Darien Fox |
 | 257 | 216 | Chance Strickland |
 | 258 | 216 | ZeeZee |
-| 259 | 216 | Chance Strickland |
+| 259 | 216 | Keith Kelley |
 | 260 | 215 | John Brunetti |
 | 261 | 215 | Ziggy |
 | 262 | 214 | Stacey Stano |

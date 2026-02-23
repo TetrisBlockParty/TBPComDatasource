@@ -50,8 +50,8 @@
 | 42 | 864 | Adam Byrd |
 | 43 | 863 | Tipsy Column |
 | 44 | 862 | Christina Costantino |
-| 45 | 844 | Katie Daniels |
-| 46 | 844 | Amanda Summey Schoemer |
+| 45 | 844 | Amanda Summey Schoemer |
+| 46 | 844 | Katie Daniels |
 | 47 | 827 | Drew Magnus |
 | 48 | 805 | Sevens4L |
 | 49 | 797 | Lawrence Belanger |
@@ -85,8 +85,8 @@
 | 77 | 552 | Aaron Garnett |
 | 78 | 551 | Greg Hart |
 | 79 | 535 | Denice Dee |
-| 80 | 534 | Cynthia Bradley |
-| 81 | 534 | Loony Fitzone |
+| 80 | 534 | Loony Fitzone |
+| 81 | 534 | Cynthia Bradley |
 | 82 | 524 | Erin Hodges Plumb |
 | 83 | 522 | Robert Benito |
 | 84 | 519 | Ryan Lunnin |
@@ -147,11 +147,11 @@
 | 139 | 364 | Shauna Loe |
 | 140 | 364 | Serina Marie |
 | 141 | 361 | Tanya Carpenter-Reynolds |
-| 142 | 360 | Wisa |
-| 143 | 360 | phrmblk24 |
+| 142 | 360 | phrmblk24 |
+| 143 | 360 | Wisa |
 | 144 | 359 | Chirpy Smasher |
-| 145 | 357 | Amanda Johnson Huffman |
-| 146 | 357 | Jason Savage |
+| 145 | 357 | Jason Savage |
+| 146 | 357 | Amanda Johnson Huffman |
 | 147 | 353 | Josh Riemer |
 | 148 | 350 | Tipsy Strikerpiece |
 | 149 | 344 | Monica Donato |
@@ -169,7 +169,7 @@
 | 161 | 324 | Ananda Mendez |
 | 162 | 318 | Jessica Sheehan |
 | 163 | 318 | Virginia Gray Floyd |
-| 164 | 318 | Jessica Sheehan |
+| 164 | 318 | Constance Risner |
 | 165 | 317 | Rachael |
 | 166 | 315 | Tyler Werts |
 | 167 | 315 | Danielle Little-Daugherty |
@@ -370,8 +370,8 @@
 | 362 | 168 | Test |
 | 363 | 168 | Amber Dee |
 | 364 | 167 | Snappy Brickbuilder |
-| 365 | 166 | Zany Tiler |
-| 366 | 166 | Gilbert Ortiz Jr. |
+| 365 | 166 | Gilbert Ortiz Jr. |
+| 366 | 166 | Zany Tiler |
 | 367 | 166 | Glitzy Curvebuilder |
 | 368 | 165 | Rodney Schmerfeld |
 | 369 | 165 | Nadine Velardo |
@@ -523,8 +523,8 @@
 | 515 | 116 | Tamara Brown |
 | 516 | 115 | Michelle |
 | 517 | 115 | Aaron Green |
-| 518 | 114 | Timothy Danaher |
-| 519 | 114 | Angela Rena Brooks |
+| 518 | 114 | Angela Rena Brooks |
+| 519 | 114 | Timothy Danaher |
 | 520 | 113 | Steven Collins |
 | 521 | 113 | dhardy |
 | 522 | 113 | I Am |

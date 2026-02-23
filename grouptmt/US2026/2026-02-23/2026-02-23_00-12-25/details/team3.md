@@ -80,8 +80,8 @@
 | 72 | 970 | Rosalie Call Kehlenbeck |
 | 73 | 964 | Jennifer |
 | 74 | 945 | Christian A. Pollard |
-| 75 | 926 | Angela M. Fletcher |
-| 76 | 926 | Judi Dobson |
+| 75 | 926 | Judi Dobson |
+| 76 | 926 | Angela M. Fletcher |
 | 77 | 924 | Shonna Roberts |
 | 78 | 923 | Christine Filson |
 | 79 | 910 | Jay Horn |
@@ -117,8 +117,8 @@
 | 109 | 733 | mzcatzy |
 | 110 | 723 | Mandy Smith Oldham |
 | 111 | 720 | Raya |
-| 112 | 716 | Kristie |
-| 113 | 716 | Calista Jo Dickson |
+| 112 | 716 | Calista Jo Dickson |
+| 113 | 716 | Kristie |
 | 114 | 715 | Keith J Oshman Jr. |
 | 115 | 712 | Katrina Schroeder |
 | 116 | 704 | Suzieq |
@@ -358,8 +358,8 @@
 | 350 | 250 | Eric Caccavale |
 | 351 | 250 | Tosha Griffey |
 | 352 | 249 | Willow |
-| 353 | 247 | Jessica |
-| 354 | 247 | Daring Builder |
+| 353 | 247 | Daring Builder |
+| 354 | 247 | Jessica |
 | 355 | 245 | Latoya Mayne |
 | 356 | 244 | LaNette Morgan |
 | 357 | 244 | Quackers |
