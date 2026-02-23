@@ -165,8 +165,8 @@
 | 157 | 1580 | Sally Dennis |
 | 158 | 1574 | Stephen Stephen |
 | 159 | 1571 | Alisa Lamb |
-| 160 | 1558 | Crystal Slaughter |
-| 161 | 1558 | Tim Dyer |
+| 160 | 1558 | Tim Dyer |
+| 161 | 1558 | Crystal Slaughter |
 | 162 | 1555 | blarg |
 | 163 | 1543 | Amy Sayers |
 | 164 | 1541 | Cherica Taylor |
@@ -225,8 +225,8 @@
 | 217 | 1232 | Groovy Puzzle |
 | 218 | 1230 | Megan Garrick |
 | 219 | 1221 | Jane Fong |
-| 220 | 1217 | Brooks Brooks |
-| 221 | 1217 | Lucky Ladybug |
+| 220 | 1217 | Lucky Ladybug |
+| 221 | 1217 | Brooks Brooks |
 | 222 | 1214 | David Cudicio-Hayden |
 | 223 | 1213 | Pacynthia Williams |
 | 224 | 1211 | Ricardo Burton |
@@ -316,8 +316,8 @@
 | 308 | 969 | Em Chen |
 | 309 | 969 | Boldy Cascadepiece |
 | 310 | 961 | Angela Lynn |
-| 311 | 958 | Doowop40 |
-| 312 | 958 | Brenda Messer |
+| 311 | 958 | Brenda Messer |
+| 312 | 958 | Doowop40 |
 | 313 | 957 | Block Master |
 | 314 | 956 | Phil J. Grombliniak |
 | 315 | 955 | Angela Bonquiqui Dinish |
@@ -420,8 +420,8 @@
 | 412 | 766 | Aimee Campbell |
 | 413 | 764 | Victoria Regina Girolami |
 | 414 | 764 | Kiely Tomaskovich |
-| 415 | 763 | Heather Causey |
-| 416 | 763 | Dreamy Blast |
+| 415 | 763 | Dreamy Blast |
+| 416 | 763 | Heather Causey |
 | 417 | 761 | Jerilyn Andrina |
 | 418 | 760 | Ashley Guernsey-Martin |
 | 419 | 760 | Cheech Dta |
@@ -459,8 +459,8 @@
 | 451 | 720 | BeQuo |
 | 452 | 720 | Giggy Mover |
 | 453 | 714 | Caitlyn Blackwell |
-| 454 | 713 | Christie |
-| 455 | 713 | Draizen Montrell Thomas |
+| 454 | 713 | Draizen Montrell Thomas |
+| 455 | 713 | Christie |
 | 456 | 712 | Amanda Ferrell |
 | 457 | 711 | Narutofreak13 |
 | 458 | 710 | Mama T |
@@ -545,8 +545,8 @@
 | 537 | 620 | Brenna Ann |
 | 538 | 619 | Lylymom |
 | 539 | 618 | Vanessa Moreno |
-| 540 | 617 | Kacee Conrad Bock |
-| 541 | 617 | Darcy Mae |
+| 540 | 617 | Darcy Mae |
+| 541 | 617 | Kacee Conrad Bock |
 | 542 | 615 | Nerdy Pattern |
 | 543 | 615 | Julio A Laracuente |
 | 544 | 615 | Lyndi Robinson Wakefield |
@@ -638,9 +638,9 @@
 | 630 | 550 | Michelle Sager |
 | 631 | 550 | Frilly Fallzone |
 | 632 | 550 | Shorty |
-| 633 | 549 | Melissa Kay Gibson |
-| 634 | 549 | Kaylee McCafferty |
-| 635 | 549 | Alyssa Nadine Medelez |
+| 633 | 549 | Alyssa Nadine Medelez |
+| 634 | 549 | Melissa Kay Gibson |
+| 635 | 549 | Kaylee McCafferty |
 | 636 | 549 | Crystal Hodge Love |
 | 637 | 547 | Hunter Connors |
 | 638 | 547 | Quiksilver |
@@ -668,14 +668,14 @@
 | 660 | 527 | Heather M Purcell |
 | 661 | 527 | Ryan Gunther |
 | 662 | 525 | Cris cris |
-| 663 | 523 | AsnPryBoy83 |
-| 664 | 523 | NanDa Cruzan VI |
+| 663 | 523 | NanDa Cruzan VI |
+| 664 | 523 | AsnPryBoy83 |
 | 665 | 522 | Leah |
 | 666 | 522 | Kathleen Driskell |
 | 667 | 521 | Mia Muse Best |
 | 668 | 520 | Armonie Smith |
-| 669 | 519 | Rob Brown |
-| 670 | 519 | CupCake |
+| 669 | 519 | CupCake |
+| 670 | 519 | Rob Brown |
 | 671 | 519 | Mandi Marie Smith |
 | 672 | 517 | Daring Caster |
 | 673 | 516 | Diamond Scott |
@@ -702,8 +702,8 @@
 | 694 | 499 | Besma Ao |
 | 695 | 498 | Chummy Blockbuilder |
 | 696 | 497 | Ha Ab |
-| 697 | 497 | June E Hanson |
-| 698 | 497 | Sam |
+| 697 | 497 | Sam |
+| 698 | 497 | June E Hanson |
 | 699 | 496 | Tracy Cowley |
 | 700 | 496 | Shyne Sun |
 | 701 | 496 | Anthony Mignacca |
@@ -1101,15 +1101,15 @@
 | 1093 | 340 | RetroLemur |
 | 1094 | 340 | Diona Burns |
 | 1095 | 339 | Nutty Cascade |
-| 1096 | 339 | Hoppy Glidebuilder |
-| 1097 | 339 | Meganator42 |
+| 1096 | 339 | Meganator42 |
+| 1097 | 339 | Hoppy Glidebuilder |
 | 1098 | 338 | Goofy Blockfall |
 | 1099 | 338 | Shelva Richard |
 | 1100 | 337 | Jennifer Mahon |
 | 1101 | 337 | Spicy Riser |
 | 1102 | 337 | Stanley Vanekelenburg |
-| 1103 | 337 | Sassy Pattern |
-| 1104 | 337 | Harrison Littrell |
+| 1103 | 337 | Harrison Littrell |
+| 1104 | 337 | Sassy Pattern |
 | 1105 | 336 | Nikki Nikki |
 | 1106 | 336 | Zany Clusterbuilder |
 | 1107 | 336 | Joseph Jones |
@@ -1126,8 +1126,8 @@
 | 1118 | 335 | Brooke Leigh Strube |
 | 1119 | 334 | Tina Wright-Quigley |
 | 1120 | 334 | Lianne Giandalone LaBounty |
-| 1121 | 334 | kcakes |
-| 1122 | 334 | Katie Joy McCombs |
+| 1121 | 334 | Katie Joy McCombs |
+| 1122 | 334 | kcakes |
 | 1123 | 333 | Paula Martinez |
 | 1124 | 333 | Dad |
 | 1125 | 333 | Elena Vap |

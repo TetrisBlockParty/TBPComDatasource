@@ -161,8 +161,8 @@
 | 153 | 634 | Amber Hughes |
 | 154 | 630 | yoyo |
 | 155 | 629 | Patricia White |
-| 156 | 621 | Sashay Tapae Simpson |
-| 157 | 621 | Cherry Parker |
+| 156 | 621 | Cherry Parker |
+| 157 | 621 | Sashay Tapae Simpson |
 | 158 | 616 | Kammy Hill |
 | 159 | 611 | Rochelle Hazelett |
 | 160 | 607 | Grego Daniel |
@@ -217,8 +217,8 @@
 | 209 | 480 | Michael Johnson |
 | 210 | 477 | Edwin Calvillo Jr. |
 | 211 | 475 | Tessina Dewey-Mancino |
-| 212 | 473 | Connie Mohler-Fair |
-| 213 | 473 | Rachel |
+| 212 | 473 | Rachel |
+| 213 | 473 | Connie Mohler-Fair |
 | 214 | 471 | Mendoza Lee Christy |
 | 215 | 467 | Sherry Ogden |
 | 216 | 465 | Annie Déè |
@@ -392,16 +392,16 @@
 | 384 | 269 | Juliana Dottore |
 | 385 | 269 | Goofy Fall |
 | 386 | 268 | Jessica Lynn French |
-| 387 | 267 | April Matthew Kibble |
-| 388 | 267 | Jul |
+| 387 | 267 | Jul |
+| 388 | 267 | April Matthew Kibble |
 | 389 | 267 | Michael Kimbro |
 | 390 | 266 | Quirky Dropzone |
 | 391 | 265 | Heather Davis |
 | 392 | 265 | AlsoJess |
 | 393 | 264 | Reina Roth |
 | 394 | 264 | Danielle Beaunoyer Jean |
-| 395 | 263 | Jimmie Clemons |
-| 396 | 263 | Erika Thornton |
+| 395 | 263 | Erika Thornton |
+| 396 | 263 | Jimmie Clemons |
 | 397 | 261 | Swanky Snapclear |
 | 398 | 260 | Alice |
 | 399 | 260 | Tracey Cox |
@@ -469,8 +469,8 @@
 | 461 | 230 | BigE |
 | 462 | 229 | MizzMonick Smith |
 | 463 | 229 | Everret Maxine |
-| 464 | 228 | Tipsy Zonebuilder |
-| 465 | 228 | Dapper Liney |
+| 464 | 228 | Dapper Liney |
+| 465 | 228 | Tipsy Zonebuilder |
 | 466 | 227 | Meowsa |
 | 467 | 226 | Jana Polk |
 | 468 | 226 | paranoid |

@@ -150,13 +150,13 @@
 | 142 | 426 | 🥔🥔 Spudz |
 | 143 | 423 | Carrie Brian |
 | 144 | 422 | Zakia Monae |
-| 145 | 421 | Kesha Brady |
-| 146 | 421 | JIGsaw ~(•¿°)~ |
+| 145 | 421 | JIGsaw ~(•¿°)~ |
+| 146 | 421 | Kesha Brady |
 | 147 | 418 | Lush Linkfall |
 | 148 | 418 | Marie-Pier Desjardins |
 | 149 | 416 | Chaz Duncan |
-| 150 | 414 | Nope Young |
-| 151 | 414 | Swanky Fitline |
+| 150 | 414 | Swanky Fitline |
+| 151 | 414 | Nope Young |
 | 152 | 413 | Circuit8 |
 | 153 | 412 | Jessica Bohlken |
 | 154 | 408 | Amanda Pauldo-Ivy |
@@ -165,8 +165,8 @@
 | 157 | 406 | Damn Libra |
 | 158 | 403 | Keith Kelley |
 | 159 | 398 | Tyler Terrific |
-| 160 | 393 | Carlton Unfiltered |
-| 161 | 393 | Girl |
+| 160 | 393 | Girl |
+| 161 | 393 | Carlton Unfiltered |
 | 162 | 391 | Ramel Rhodes |
 | 163 | 389 | Joseph Guthrie |
 | 164 | 387 | Lucas J Sutton |
@@ -465,8 +465,8 @@
 | 457 | 156 | Mighty Edgepiece |
 | 458 | 156 | Funky Risepiece |
 | 459 | 155 | Sticherella |
-| 460 | 155 | Shirl |
-| 461 | 155 | Faja |
+| 460 | 155 | Faja |
+| 461 | 155 | Shirl |
 | 462 | 154 | Happy Combo |
 | 463 | 154 | Bryan Hodgins |
 | 464 | 153 | icequeenx |
