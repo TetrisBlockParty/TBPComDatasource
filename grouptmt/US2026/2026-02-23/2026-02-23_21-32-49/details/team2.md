@@ -437,10 +437,10 @@
 | 429 | 907 | Gene Mills |
 | 430 | 905 | Adam Simmons |
 | 431 | 903 | Ashle Scranton |
-| 432 | 903 | Dannette Goldberg-Richards |
-| 433 | 903 | Eric Castaneda |
-| 434 | 903 | Sarah DeHart |
-| 435 | 902 | Brenda Utphall |
+| 432 | 903 | Eric Castaneda |
+| 433 | 903 | Sarah DeHart |
+| 434 | 902 | Brenda Utphall |
+| 435 | 899 | Chevy |
 | 436 | 899 | Patrick Bartlett |
 | 437 | 898 | Dylan Thomason |
 | 438 | 897 | Jamie Schmitt |
@@ -679,8 +679,8 @@
 | 671 | 639 | Libby Hicks |
 | 672 | 639 | Toni Roberson |
 | 673 | 638 | Leah Keesling |
-| 674 | 637 | Audrey Jones |
-| 675 | 637 | Koa N Sharon Chen |
+| 674 | 637 | Koa N Sharon Chen |
+| 675 | 637 | Audrey Jones |
 | 676 | 637 | Darcy Mae |
 | 677 | 637 | Karen Posadas Centeno |
 | 678 | 636 | Emilie Desma |
@@ -703,8 +703,8 @@
 | 695 | 623 | Victor Obiakarije |
 | 696 | 622 | Ben Barkley |
 | 697 | 621 | Moua Ying |
-| 698 | 621 | Taren Cowan |
-| 699 | 621 | Lewis Sturgeon |
+| 698 | 621 | Lewis Sturgeon |
+| 699 | 621 | Taren Cowan |
 | 700 | 620 | Macy Jarrett |
 | 701 | 618 | Marella Petilo |
 | 702 | 617 | Jason H Baker |

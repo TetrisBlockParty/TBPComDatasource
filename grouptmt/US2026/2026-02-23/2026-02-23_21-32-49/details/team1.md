@@ -212,9 +212,9 @@
 | 204 | 393 | Lehrin Maria |
 | 205 | 393 | Wisa |
 | 206 | 392 | Kathy Langham |
-| 207 | 387 | Ananda Mendez |
-| 208 | 387 | Witty Builderfit |
-| 209 | 387 | Carrie Smith |
+| 207 | 387 | Witty Builderfit |
+| 208 | 387 | Carrie Smith |
+| 209 | 387 | Ananda Mendez |
 | 210 | 386 | Brian Spotts |
 | 211 | 384 | Tami Luce Martin |
 | 212 | 383 | Margo Wagner |

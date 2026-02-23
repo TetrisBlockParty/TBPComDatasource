@@ -208,7 +208,7 @@
 | 200 | 620 | Jacqueline Rodriguez |
 | 201 | 617 | Annie Déè |
 | 202 | 616 | Kammy Hill |
-| 203 | 615 | Makelini Mausia |
+| 203 | 610 | Makelini Mausia |
 | 204 | 601 | CeceGeGe |
 | 205 | 600 | Keis |
 | 206 | 598 | Bmo |

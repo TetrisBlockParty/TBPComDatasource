@@ -196,8 +196,8 @@
 | 188 | 449 | Rebecca Morris |
 | 189 | 448 | Kesha Brady |
 | 190 | 444 | Mylo Lipscomb |
-| 191 | 444 | J-Rizzle |
-| 192 | 444 | Berklie Apedaile |
+| 191 | 444 | Berklie Apedaile |
+| 192 | 444 | J-Rizzle |
 | 193 | 443 | Kristina Black |
 | 194 | 442 | SAP |
 | 195 | 441 | George Nutt |
