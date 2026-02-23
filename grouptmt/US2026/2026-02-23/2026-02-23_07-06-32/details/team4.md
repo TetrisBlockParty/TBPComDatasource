@@ -55,8 +55,8 @@
 | 47 | 938 | Denny Shives |
 | 48 | 936 | Rebecca Moulton Pinciaro |
 | 49 | 932 | Marvin Lou Martin |
-| 50 | 911 | Anthony Bryan Riva |
-| 51 | 911 | Jeremy Steines |
+| 50 | 911 | Jeremy Steines |
+| 51 | 911 | Anthony Bryan Riva |
 | 52 | 870 | BertMofo |
 | 53 | 863 | Pee |
 | 54 | 853 | TeeJ |
@@ -122,11 +122,11 @@
 | 114 | 519 | Nugget |
 | 115 | 517 | shar |
 | 116 | 517 | Christina LR |
-| 117 | 514 | Serena Goodridge |
-| 118 | 514 | Scott Jameson |
+| 117 | 514 | Scott Jameson |
+| 118 | 514 | Serena Goodridge |
 | 119 | 513 | Erin Thomas |
-| 120 | 512 | Cristy Duerksen |
-| 121 | 512 | Casey Jeffcoat |
+| 120 | 512 | Casey Jeffcoat |
+| 121 | 512 | Cristy Duerksen |
 | 122 | 511 | Lori Walker |
 | 123 | 509 | Leslie Nicole |
 | 124 | 482 | Ren Mc |
@@ -176,8 +176,8 @@
 | 168 | 368 | Chris Bernstein |
 | 169 | 368 | Brandon Crabbs |
 | 170 | 365 | Jeff Brian Gates |
-| 171 | 361 | Danielle Kollias |
-| 172 | 361 | Melissa Adams |
+| 171 | 361 | Melissa Adams |
+| 172 | 361 | Danielle Kollias |
 | 173 | 359 | Keith Kelley |
 | 174 | 358 | Twisty Cascadezone |
 | 175 | 358 | Circuit8 |
@@ -608,8 +608,8 @@
 | 600 | 115 | Amanda Maciel Clarke |
 | 601 | 115 | Nicole McMurray |
 | 602 | 115 | Mona Touchine |
-| 603 | 114 | Ashley Danielle |
-| 604 | 114 | Rosemary Foster |
+| 603 | 114 | Rosemary Foster |
+| 604 | 114 | Ashley Danielle |
 | 605 | 113 | Serena Butter |
 | 606 | 113 | Abigail Murphy |
 | 607 | 113 | Hog Crankin |

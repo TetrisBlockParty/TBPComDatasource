@@ -113,15 +113,15 @@
 | 105 | 868 | Sarajane Lokan |
 | 106 | 866 | Ebony West-Cundiff |
 | 107 | 860 | Sunny Rotater |
-| 108 | 851 | Jd Morris |
-| 109 | 851 | Danielle Becker |
+| 108 | 851 | Danielle Becker |
+| 109 | 851 | Jd Morris |
 | 110 | 850 | Danielle Mogg |
 | 111 | 848 | Patricia Gadsden |
 | 112 | 831 | Angeline Joseph |
 | 113 | 830 | Stephanie Allmon |
 | 114 | 826 | Shane Wilson Jr. |
-| 115 | 816 | Jesse Olive |
-| 116 | 816 | Brenda Lee Vander Molen |
+| 115 | 816 | Brenda Lee Vander Molen |
+| 116 | 816 | Jesse Olive |
 | 117 | 802 | Bobbi Moore |
 | 118 | 800 | Lauren Girouard |
 | 119 | 799 | Dolores Falco |
@@ -199,8 +199,8 @@
 | 191 | 528 | Silly Twist |
 | 192 | 525 | Stephanie Blkpep Davidson |
 | 193 | 524 | Bmo |
-| 194 | 519 | rnr junky |
-| 195 | 519 | Terry Jo Jones |
+| 194 | 519 | Terry Jo Jones |
+| 195 | 519 | rnr junky |
 | 196 | 515 | Cozy Snaplink |
 | 197 | 508 | Makelini Mausia |
 | 198 | 502 | Snappy Balancer |
@@ -214,8 +214,8 @@
 | 206 | 480 | Michael Johnson |
 | 207 | 480 | Danielle Allison |
 | 208 | 475 | Tessina Dewey-Mancino |
-| 209 | 473 | Rachel |
-| 210 | 473 | Connie Mohler-Fair |
+| 209 | 473 | Connie Mohler-Fair |
+| 210 | 473 | Rachel |
 | 211 | 471 | Mendoza Lee Christy |
 | 212 | 467 | Sherry Ogden |
 | 213 | 465 | Annie Déè |
@@ -286,8 +286,8 @@
 | 278 | 353 | Dee Franklin |
 | 279 | 353 | Cyd061769 |
 | 280 | 352 | Christian Werndl |
-| 281 | 351 | Blocked |
-| 282 | 351 | Eon Harris |
+| 281 | 351 | Eon Harris |
+| 282 | 351 | Blocked |
 | 283 | 350 | LaShey Thompson |
 | 284 | 349 | Amanda J. Mcneil-Anderson |
 | 285 | 347 | Betty Bóò |
@@ -348,10 +348,10 @@
 | 340 | 296 | Tracy Martin |
 | 341 | 295 | Nikki Pags |
 | 342 | 294 | Antonia Russell |
-| 343 | 292 | Lizabeth Fox |
-| 344 | 292 | Khaleada McGill Banks |
-| 345 | 289 | Salena Whitlock |
-| 346 | 289 | Cheryl Hinch Tenbrook |
+| 343 | 292 | Khaleada McGill Banks |
+| 344 | 292 | Lizabeth Fox |
+| 345 | 289 | Cheryl Hinch Tenbrook |
+| 346 | 289 | Salena Whitlock |
 | 347 | 289 | DidIdothat |
 | 348 | 288 | Stephanie Bradley |
 | 349 | 288 | Arden White Kirsch |
@@ -374,8 +374,8 @@
 | 366 | 276 | Heather De Vries Cobb |
 | 367 | 276 | Noettín Kan Zasnemoore |
 | 368 | 276 | Crimson |
-| 369 | 275 | Cassandra Bryant |
-| 370 | 275 | Michael Lucado |
+| 369 | 275 | Michael Lucado |
+| 370 | 275 | Cassandra Bryant |
 | 371 | 274 | Mary Giorgenti |
 | 372 | 274 | Ava Petito |
 | 373 | 273 | France Vézina |
@@ -459,8 +459,8 @@
 | 451 | 233 | Criss |
 | 452 | 233 | Tony Waters |
 | 453 | 232 | Stephanie Hill |
-| 454 | 232 | Sunny Tiltgrid |
-| 455 | 232 | Melanie Sherwood |
+| 454 | 232 | Melanie Sherwood |
+| 455 | 232 | Sunny Tiltgrid |
 | 456 | 231 | Frothy Snapper |
 | 457 | 231 | Giggly Brickroll |
 | 458 | 230 | DanceLuvLaugh |
@@ -469,7 +469,7 @@
 | 461 | 228 | Dapper Liney |
 | 462 | 228 | Tipsy Zonebuilder |
 | 463 | 227 | Meowsa |
-| 464 | 226 | paranoid |
+| 464 | 226 | Ryan Williams |
 | 465 | 226 | Jana Polk |
 | 466 | 226 | paranoid |
 | 467 | 225 | Sassy Tiler |
@@ -494,7 +494,7 @@
 | 486 | 218 | Tina Smith Roy |
 | 487 | 217 | Heather Bateman |
 | 488 | 217 | Tia Moore |
-| 489 | 217 | Heather Bateman |
+| 489 | 217 | Katie Leigh Blankenship |
 | 490 | 215 | Angel Miller |
 | 491 | 214 | Jumpy Curvebuilder |
 | 492 | 214 | Amy Fuller Heaton |
@@ -602,8 +602,8 @@
 | 594 | 181 | Rashad Green |
 | 595 | 181 | krazibtch |
 | 596 | 180 | Chipper Piecefit |
-| 597 | 180 | Stella |
-| 598 | 180 | Frothy Racker |
+| 597 | 180 | Frothy Racker |
+| 598 | 180 | Stella |
 | 599 | 179 | Alexi Pryor |
 | 600 | 179 | Boldy Corner |
 | 601 | 179 | Ruchi Smit |
@@ -751,8 +751,8 @@
 | 743 | 146 | Geronimo |
 | 744 | 145 | Rank Stranger |
 | 745 | 145 | Quirky Snapfit |
-| 746 | 144 | Crystal Frey |
-| 747 | 144 | Clever Edgepiece |
+| 746 | 144 | Clever Edgepiece |
+| 747 | 144 | Crystal Frey |
 | 748 | 144 | Susan A Kinsey |
 | 749 | 144 | Tiffany's TwinsRus Thrifty |
 | 750 | 144 | Janay Darkstallion Robinson |
