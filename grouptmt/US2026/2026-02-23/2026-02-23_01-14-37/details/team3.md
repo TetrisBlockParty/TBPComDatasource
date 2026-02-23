@@ -159,8 +159,8 @@
 | 151 | 572 | CeceGeGe |
 | 152 | 571 | Nicole Myers |
 | 153 | 568 | Rachael McClain Owens |
-| 154 | 562 | Louise Stacy Sisson |
-| 155 | 562 | Dave Herzog |
+| 154 | 562 | Dave Herzog |
+| 155 | 562 | Louise Stacy Sisson |
 | 156 | 553 | LaTanya GeminiondaRise Johnson |
 | 157 | 549 | Peppy Shifter |
 | 158 | 546 | Cynthia Castros-Hampton |
@@ -238,8 +238,8 @@
 | 230 | 375 | Duane Bright |
 | 231 | 375 | Kristal C Lee |
 | 232 | 373 | Rebecca Funderburk Kirby |
-| 233 | 372 | Sarah Moyer |
-| 234 | 372 | Rich LeBlanc |
+| 233 | 372 | Rich LeBlanc |
+| 234 | 372 | Sarah Moyer |
 | 235 | 370 | RickyG |
 | 236 | 369 | Keis |
 | 237 | 368 | Stephanie Woods |
@@ -250,8 +250,8 @@
 | 242 | 364 | Steffi Chris Dacones |
 | 243 | 362 | Brandon Givens |
 | 244 | 360 | Sheila M Frazier |
-| 245 | 357 | Ammmmmmy |
-| 246 | 357 | Stephanie Burtin |
+| 245 | 357 | Stephanie Burtin |
+| 246 | 357 | Ammmmmmy |
 | 247 | 352 | Christian Werndl |
 | 248 | 352 | Samantha Lynn |
 | 249 | 351 | Eon Harris |
@@ -271,8 +271,8 @@
 | 263 | 338 | Gumbo |
 | 264 | 336 | Jojo M |
 | 265 | 332 | Velma Mull |
-| 266 | 330 | Brittany |
-| 267 | 330 | victory |
+| 266 | 330 | victory |
+| 267 | 330 | Brittany |
 | 268 | 329 | Tye Stovall |
 | 269 | 329 | block chick |
 | 270 | 327 | Gideon Walker |
@@ -671,7 +671,7 @@
 | 663 | 140 | Brooke Bauer |
 | 664 | 139 | Cesar Mendez |
 | 665 | 139 | Melissa Parlow-Callaway |
-| 666 | 139 | Cesar Mendez |
+| 666 | 139 | Jack Bo |
 | 667 | 139 | Dapper Chiseler |
 | 668 | 138 | Skippy |
 | 669 | 138 | Cathy Leger |

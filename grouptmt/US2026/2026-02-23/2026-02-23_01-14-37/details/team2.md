@@ -134,8 +134,8 @@
 | 126 | 1639 | Karen Martini-Stapleton |
 | 127 | 1632 | Qiana Sanders |
 | 128 | 1631 | Speedy Spinblock |
-| 129 | 1623 | Mr. Street Stack |
-| 130 | 1623 | Rebecca Doughman |
+| 129 | 1623 | Rebecca Doughman |
+| 130 | 1623 | Mr. Street Stack |
 | 131 | 1614 | Janel Turley-Garner |
 | 132 | 1611 | Mari Ac |
 | 133 | 1601 | Ray Ray Prado |
@@ -427,8 +427,8 @@
 | 419 | 681 | Eric Castaneda |
 | 420 | 680 | Kenny Alvarado |
 | 421 | 680 | blume |
-| 422 | 679 | Kassandra Hunt |
-| 423 | 679 | Chevy |
+| 422 | 679 | Chevy |
+| 423 | 679 | Kassandra Hunt |
 | 424 | 679 | Jaycee |
 | 425 | 677 | Ellie Jonas |
 | 426 | 677 | Amanda Woodruff |
@@ -644,9 +644,9 @@
 | 636 | 474 | Jennifer Scott |
 | 637 | 474 | Calandra Shaya Robinson |
 | 638 | 474 | Joice Hansen |
-| 639 | 474 | Calandra Shaya Robinson |
-| 640 | 473 | coleksquad |
-| 641 | 473 | Mary Marie |
+| 639 | 474 | KayLynn Ogden McClelland |
+| 640 | 473 | Mary Marie |
+| 641 | 473 | coleksquad |
 | 642 | 472 | Arwa Fatimah |
 | 643 | 471 | Tina Marie |
 | 644 | 471 | Rae Rae |
