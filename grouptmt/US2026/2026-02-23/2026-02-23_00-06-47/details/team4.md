@@ -82,8 +82,8 @@
 | 74 | 671 | Kimyatta Cavin |
 | 75 | 664 | Valerie Roberts |
 | 76 | 659 | Jonathan Kimbrough |
-| 77 | 647 | Shauna Havard |
-| 78 | 647 | KM8 |
+| 77 | 647 | KM8 |
+| 78 | 647 | Shauna Havard |
 | 79 | 646 | Jacqueline Helm |
 | 80 | 640 | Lisa Davis |
 | 81 | 626 | Brittney Griggs |
@@ -224,15 +224,15 @@
 | 216 | 261 | scott |
 | 217 | 261 | Dihcheese444 |
 | 218 | 258 | April Rondinone |
-| 219 | 257 | PeaceOs |
-| 220 | 257 | Cheery Risebuilder |
+| 219 | 257 | Cheery Risebuilder |
+| 220 | 257 | PeaceOs |
 | 221 | 256 | Mylo Lipscomb |
 | 222 | 256 | Montiette Mcglown |
 | 223 | 251 | Carol Ricks Raymond |
 | 224 | 250 | Matt Gooder |
 | 225 | 249 | Ak Jones |
-| 226 | 248 | Jose Dejesus |
-| 227 | 248 | Chirpy Basepiece |
+| 226 | 248 | Chirpy Basepiece |
+| 227 | 248 | Jose Dejesus |
 | 228 | 246 | Zethra Prenisha Rahming |
 | 229 | 245 | Adam Stephanie Parker |
 | 230 | 245 | 23 |
@@ -415,10 +415,10 @@
 | 407 | 147 | Ashlee Carnes |
 | 408 | 146 | Brave Spinbuilder |
 | 409 | 145 | Jackie Clark |
-| 410 | 145 | Glitzy Crasher |
-| 411 | 145 | Austin Trent Weaver |
-| 412 | 144 | Squeezy Pearsall |
-| 413 | 144 | Groovy Gridlock |
+| 410 | 145 | Austin Trent Weaver |
+| 411 | 145 | Glitzy Crasher |
+| 412 | 144 | Groovy Gridlock |
+| 413 | 144 | Squeezy Pearsall |
 | 414 | 143 | Kristin MacDonald |
 | 415 | 143 | Jasmine S Caldwell |
 | 416 | 143 | Asher |
@@ -456,8 +456,8 @@
 | 448 | 136 | Dandy Cascadefit |
 | 449 | 135 | Joshua Guess |
 | 450 | 134 | Kevin Bush |
-| 451 | 133 | Darrin Rubalcava |
-| 452 | 133 | Dapper Frame |
+| 451 | 133 | Dapper Frame |
+| 452 | 133 | Darrin Rubalcava |
 | 453 | 133 | Jesus Garcia |
 | 454 | 132 | No Strings Attached Ra |
 | 455 | 132 | Degenerate |

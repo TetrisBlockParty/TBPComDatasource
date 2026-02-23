@@ -97,8 +97,8 @@
 | 89 | 860 | Sunny Rotater |
 | 90 | 849 | Danielle Becker |
 | 91 | 848 | Patricia Gadsden |
-| 92 | 838 | MissTaylor |
-| 93 | 838 | Sarajane Lokan |
+| 92 | 838 | Sarajane Lokan |
+| 93 | 838 | MissTaylor |
 | 94 | 831 | Angeline Joseph |
 | 95 | 830 | Stephanie Allmon |
 | 96 | 826 | Shane Wilson Jr. |
@@ -166,8 +166,8 @@
 | 158 | 519 | Jone |
 | 159 | 517 | Denise Nardoni |
 | 160 | 512 | Silly Twist |
-| 161 | 506 | Sashay Tapae Simpson |
-| 162 | 506 | Stephanie Blkpep Davidson |
+| 161 | 506 | Stephanie Blkpep Davidson |
+| 162 | 506 | Sashay Tapae Simpson |
 | 163 | 505 | Danielle Balcom |
 | 164 | 504 | Jennifer Lynn Fahrenholtz-Summers |
 | 165 | 502 | Snappy Balancer |

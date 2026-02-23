@@ -348,8 +348,8 @@
 | 340 | 788 | Amber Brion |
 | 341 | 788 | Erika Densmore |
 | 342 | 782 | Beth |
-| 343 | 777 | Tesha Oldaker |
-| 344 | 777 | Jessicah Myers |
+| 343 | 777 | Jessicah Myers |
+| 344 | 777 | Tesha Oldaker |
 | 345 | 774 | Ginnell Browner |
 | 346 | 774 | Ashley Dow |
 | 347 | 773 | Diana Fitzwater |
@@ -357,19 +357,19 @@
 | 349 | 769 | Melissa Cole |
 | 350 | 768 | Joshua Self |
 | 351 | 768 | Arkei Luster |
-| 352 | 767 | Fancy Twister |
-| 353 | 767 | Ashley Lopez |
+| 352 | 767 | Ashley Lopez |
+| 353 | 767 | Fancy Twister |
 | 354 | 765 | Kathryn Townsley |
 | 355 | 763 | Heather Causey |
 | 356 | 761 | Hyper Cluster |
 | 357 | 760 | Doowop40 |
-| 358 | 760 | Andrew Willis |
-| 359 | 760 | Cheech Dta |
-| 360 | 758 | Quirky Twistline |
-| 361 | 758 | Stephanie Neuburger |
+| 358 | 760 | Cheech Dta |
+| 359 | 760 | Andrew Willis |
+| 360 | 758 | Stephanie Neuburger |
+| 361 | 758 | Quirky Twistline |
 | 362 | 751 | Loony Snapper |
-| 363 | 748 | Brenda Utphall |
-| 364 | 748 | Stephanie Lumanlan |
+| 363 | 748 | Stephanie Lumanlan |
+| 364 | 748 | Brenda Utphall |
 | 365 | 746 | Leslie Ann Carter |
 | 366 | 746 | Jerilyn Andrina |
 | 367 | 745 | Kiely Tomaskovich |
@@ -466,8 +466,8 @@
 | 458 | 613 | Ann Matzkanin |
 | 459 | 612 | Slinky Racker |
 | 460 | 611 | Biggest thing |
-| 461 | 607 | Véronique Lévesque Sabourin |
-| 462 | 607 | Michelle Lee |
+| 461 | 607 | Michelle Lee |
+| 462 | 607 | Véronique Lévesque Sabourin |
 | 463 | 605 | Santana Miyagi |
 | 464 | 603 | Casper The Chonk |
 | 465 | 602 | KhaosLord |
@@ -503,8 +503,8 @@
 | 495 | 569 | Sparkles |
 | 496 | 567 | Snappy Matchbuilder |
 | 497 | 566 | Leah Keesling |
-| 498 | 565 | Blacc Blac |
-| 499 | 565 | Ann Knutson Anderson |
+| 498 | 565 | Ann Knutson Anderson |
+| 499 | 565 | Blacc Blac |
 | 500 | 564 | Koa N Sharon Chen |
 | 501 | 563 | Sarah Massey |
 | 502 | 563 | Frisky Clearpiece |
@@ -513,8 +513,8 @@
 | 505 | 558 | Libby Hicks |
 | 506 | 557 | Victor Obiakarije |
 | 507 | 554 | Dizzy Zone |
-| 508 | 554 | Laquetta Royston |
-| 509 | 554 | Tra Barnum |
+| 508 | 554 | Tra Barnum |
+| 509 | 554 | Laquetta Royston |
 | 510 | 553 | Kelli Wells |
 | 511 | 551 | Cynthia Louann Rose |
 | 512 | 550 | Frilly Fallzone |
