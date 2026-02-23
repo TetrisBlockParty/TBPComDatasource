@@ -114,8 +114,8 @@
 | 106 | 869 | Araceli Parra |
 | 107 | 868 | Sarajane Lokan |
 | 108 | 860 | Sunny Rotater |
-| 109 | 851 | Danielle Becker |
-| 110 | 851 | Jd Morris |
+| 109 | 851 | Jd Morris |
+| 110 | 851 | Danielle Becker |
 | 111 | 850 | Danielle Mogg |
 | 112 | 848 | Patricia Gadsden |
 | 113 | 839 | Angeline Joseph |
@@ -164,8 +164,8 @@
 | 156 | 646 | Bea Miles |
 | 157 | 634 | Amber Hughes |
 | 158 | 630 | yoyo |
-| 159 | 621 | Sashay Tapae Simpson |
-| 160 | 621 | Cherry Parker |
+| 159 | 621 | Cherry Parker |
+| 160 | 621 | Sashay Tapae Simpson |
 | 161 | 616 | Kammy Hill |
 | 162 | 611 | Rochelle Hazelett |
 | 163 | 607 | Grego Daniel |
@@ -177,8 +177,8 @@
 | 169 | 595 | Nicole Myers |
 | 170 | 591 | Michael Nowogorski |
 | 171 | 587 | Louise Stacy Sisson |
-| 172 | 585 | Annie Marie |
-| 173 | 585 | Happy Tetriblast |
+| 172 | 585 | Happy Tetriblast |
+| 173 | 585 | Annie Marie |
 | 174 | 583 | Tasha Gillespie |
 | 175 | 582 | Natasha Jones |
 | 176 | 577 | Domo Washington |
@@ -340,8 +340,8 @@
 | 332 | 311 | Troy |
 | 333 | 309 | Desiree Gold |
 | 334 | 309 | Cheeky Snapper |
-| 335 | 308 | Katrina Turner |
-| 336 | 308 | Tia |
+| 335 | 308 | Tia |
+| 336 | 308 | Katrina Turner |
 | 337 | 305 | Hyper Matchzone |
 | 338 | 304 | _melisa223_ |
 | 339 | 303 | Alexmac |
@@ -398,9 +398,9 @@
 | 390 | 272 | Tay |
 | 391 | 272 | Todd Hall |
 | 392 | 269 | Goofy Fall |
-| 393 | 269 | Jess Bissett |
-| 394 | 269 | Juliana Dottore |
-| 395 | 269 | Samantha Worley |
+| 393 | 269 | Juliana Dottore |
+| 394 | 269 | Samantha Worley |
+| 395 | 269 | Jess Bissett |
 | 396 | 268 | Jessica Lynn French |
 | 397 | 267 | Jul |
 | 398 | 267 | Michael Kimbro |
@@ -488,7 +488,7 @@
 | 480 | 225 | sofaking |
 | 481 | 224 | Sarah Morris |
 | 482 | 224 | Cranky Corner |
-| 483 | 224 | Sarah Morris |
+| 483 | 224 | Christina Rotz Shows |
 | 484 | 223 | Breanna Marsden |
 | 485 | 222 | Angel Miller |
 | 486 | 221 | Spicy Cascadepiece |
@@ -609,7 +609,7 @@
 | 601 | 183 | Snarky McFace |
 | 602 | 183 | Silly Curvetile |
 | 603 | 182 | Johnathan Dowe |
-| 604 | 182 | Kali Kelz Williams |
+| 604 | 182 | Alicia |
 | 605 | 182 | Scouty |
 | 606 | 182 | Kali Kelz Williams |
 | 607 | 181 | Kellie Montgomery |
@@ -650,8 +650,8 @@
 | 642 | 174 | Sierra Spencer |
 | 643 | 174 | Lisa Sullivan |
 | 644 | 173 | Samantha Lohmeyer |
-| 645 | 173 | Beejangles |
-| 646 | 173 | Julie Fratrik |
+| 645 | 173 | Julie Fratrik |
+| 646 | 173 | Beejangles |
 | 647 | 172 | Big T |
 | 648 | 172 | Nichole Greene |
 | 649 | 172 | Tabitha Cornelious |
@@ -705,8 +705,8 @@
 | 697 | 162 | Steven Fulater |
 | 698 | 162 | Tony Tran |
 | 699 | 162 | Cathy Leger |
-| 700 | 161 | Patty White |
-| 701 | 161 | Paul Larsen |
+| 700 | 161 | Paul Larsen |
+| 701 | 161 | Patty White |
 | 702 | 161 | Jessica Rose-Morgan |
 | 703 | 161 | bean |
 | 704 | 160 | Bastian Campbell |
@@ -917,7 +917,7 @@
 | 909 | 124 | Matty Pope |
 | 910 | 124 | FuzzyDunlop |
 | 911 | 124 | Ashley Woods |
-| 912 | 124 | Jessica Quinn |
+| 912 | 124 | Giggly Hitter |
 | 913 | 124 | Loretta Hendricks |
 | 914 | 124 | Jessica Quinn |
 | 915 | 123 | Autumn Lenhart |
@@ -965,9 +965,9 @@
 | 957 | 117 | Brandon Montez Sneed |
 | 958 | 117 | Jared Craddox |
 | 959 | 117 | Wancharlene Hercules |
-| 960 | 116 | Umeka Herrod |
-| 961 | 116 | Daring Rollfit |
-| 962 | 116 | Tina Baurdau |
+| 960 | 116 | Tina Baurdau |
+| 961 | 116 | Umeka Herrod |
+| 962 | 116 | Daring Rollfit |
 | 963 | 116 | Happy Buildsnap |
 | 964 | 116 | Viking |
 | 965 | 116 | Michelle Castillo |
@@ -1556,7 +1556,7 @@
 | 1548 | 66 | Ramiro Alvarado III |
 | 1549 | 66 | Leesha Price |
 | 1550 | 65 | Jaimie Thomas |
-| 1551 | 65 | Tyeshia Scott-Cardona |
+| 1551 | 65 | Jacquelyn Taylor |
 | 1552 | 65 | Mahaila Reynolds |
 | 1553 | 65 | Precious Cramer |
 | 1554 | 65 | Cindi Figurelli |

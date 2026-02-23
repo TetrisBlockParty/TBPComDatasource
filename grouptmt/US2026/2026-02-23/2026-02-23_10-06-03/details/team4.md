@@ -162,13 +162,13 @@
 | 154 | 413 | Circuit8 |
 | 155 | 412 | Jessica Bohlken |
 | 156 | 408 | Amanda Pauldo-Ivy |
-| 157 | 406 | Damn Libra |
-| 158 | 406 | Livvy |
+| 157 | 406 | Livvy |
+| 158 | 406 | Damn Libra |
 | 159 | 403 | Keith Kelley |
 | 160 | 402 | Lucas J Sutton |
 | 161 | 398 | Tyler Terrific |
-| 162 | 393 | Girl |
-| 163 | 393 | Carlton Unfiltered |
+| 162 | 393 | Carlton Unfiltered |
+| 163 | 393 | Girl |
 | 164 | 392 | Nick Gray |
 | 165 | 391 | Ramel Rhodes |
 | 166 | 389 | Joseph Guthrie |
@@ -322,9 +322,9 @@
 | 314 | 223 | Adawna Swires |
 | 315 | 222 | Brandi Durig |
 | 316 | 221 | Rheanda Weaskus |
-| 317 | 220 | Jumpy Zonepiece |
-| 318 | 220 | Ziggy |
-| 319 | 220 | Nita Wells |
+| 317 | 220 | Nita Wells |
+| 318 | 220 | Jumpy Zonepiece |
+| 319 | 220 | Ziggy |
 | 320 | 220 | Tina Lopez |
 | 321 | 219 | Shane Vick |
 | 322 | 219 | Orchislactea |
@@ -378,9 +378,9 @@
 | 370 | 191 | Earnest Thompson |
 | 371 | 191 | Norman Klick |
 | 372 | 190 | wombat |
-| 373 | 189 | Berklie Apedaile |
+| 373 | 189 | Cool Towerbuilder |
 | 374 | 189 | Lauren Lamb |
-| 375 | 189 | Cool Towerbuilder |
+| 375 | 189 | Berklie Apedaile |
 | 376 | 188 | Sharyn Lemire |
 | 377 | 187 | Sticherella |
 | 378 | 187 | Jenny Wells-Oakley |
@@ -413,8 +413,8 @@
 | 405 | 178 | Helen Chao |
 | 406 | 177 | Chao Ma |
 | 407 | 177 | Lora |
-| 408 | 176 | Cindy Looper |
-| 409 | 176 | B Renee Desjardin |
+| 408 | 176 | B Renee Desjardin |
+| 409 | 176 | Cindy Looper |
 | 410 | 176 | Brickh4us |
 | 411 | 175 | Lorena Guerrero-Barron |
 | 412 | 175 | Jim Hart |
@@ -862,7 +862,7 @@
 | 854 | 78 | Leah Landry |
 | 855 | 78 | Roy Simmons |
 | 856 | 78 | Emily Babic |
-| 857 | 78 | Allison Rose |
+| 857 | 78 | Bold Matcher |
 | 858 | 78 | Jaime Ore Norcross |
 | 859 | 78 | Timothy Allen |
 | 860 | 78 | Allison Rose |
@@ -914,8 +914,8 @@
 | 906 | 72 | Paul-Eunice Mathewson |
 | 907 | 72 | Jessi Mayfield |
 | 908 | 72 | Frothy Curve |
-| 909 | 72 | Reggie |
-| 910 | 72 | Spicy Rollpiece |
+| 909 | 72 | Spicy Rollpiece |
+| 910 | 72 | Reggie |
 | 911 | 71 | Cari Underwood |
 | 912 | 71 | Kristina Renea Day |
 | 913 | 71 | Speedy Wipeblock |

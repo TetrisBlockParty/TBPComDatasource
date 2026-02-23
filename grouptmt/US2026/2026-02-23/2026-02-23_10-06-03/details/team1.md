@@ -108,8 +108,8 @@
 | 100 | 509 | Rachael |
 | 101 | 502 | Anaid Sanchez |
 | 102 | 497 | Arianna O'Brien |
-| 103 | 493 | MomMom |
-| 104 | 493 | Jennifer ManWarren |
+| 103 | 493 | Jennifer ManWarren |
+| 104 | 493 | MomMom |
 | 105 | 492 | Ash Galvan |
 | 106 | 491 | cc |
 | 107 | 489 | April Carroll |
@@ -152,8 +152,8 @@
 | 144 | 404 | Mike Ames |
 | 145 | 402 | Chris K |
 | 146 | 399 | Nery Martinez |
-| 147 | 394 | Jennifer Hardman |
-| 148 | 394 | Lori Bales |
+| 147 | 394 | Lori Bales |
+| 148 | 394 | Jennifer Hardman |
 | 149 | 389 | David Miller |
 | 150 | 388 | Fmp |
 | 151 | 387 | Emily Adelaide Wheatley |
@@ -170,8 +170,8 @@
 | 162 | 376 | Brian Richardsson |
 | 163 | 375 | Tanya Carpenter-Reynolds |
 | 164 | 375 | Connie |
-| 165 | 371 | Jason Savage |
-| 166 | 371 | Basment Living |
+| 165 | 371 | Basment Living |
+| 166 | 371 | Jason Savage |
 | 167 | 369 | Christy Jones |
 | 168 | 368 | Amanda Johnson Huffman |
 | 169 | 367 | Sharon Reynolds |
@@ -189,8 +189,8 @@
 | 181 | 355 | Amanda Jarnagin |
 | 182 | 355 | Erin Rosberg |
 | 183 | 353 | Dizzy Party |
-| 184 | 353 | Jaimie Lynn |
-| 185 | 353 | Josh Riemer |
+| 184 | 353 | Josh Riemer |
+| 185 | 353 | Jaimie Lynn |
 | 186 | 350 | Tipsy Strikerpiece |
 | 187 | 349 | Cool Shiftsnap |
 | 188 | 348 | Chelsea Dahlquist |
@@ -256,20 +256,20 @@
 | 248 | 275 | Chris65 |
 | 249 | 275 | Cheeky Pop |
 | 250 | 273 | Наталья Солоид |
-| 251 | 272 | Barrbaric |
-| 252 | 272 | Tawnya Peltonen |
+| 251 | 272 | Tawnya Peltonen |
+| 252 | 272 | Barrbaric |
 | 253 | 271 | Frothy Pattern |
-| 254 | 270 | Brenda Alexander |
-| 255 | 270 | Debbie Kane |
+| 254 | 270 | Debbie Kane |
+| 255 | 270 | Brenda Alexander |
 | 256 | 268 | Standia Civil |
 | 257 | 267 | Daring Fitclear |
 | 258 | 266 | Alenoush Karimian |
 | 259 | 265 | Kandae |
 | 260 | 264 | Jenny Gingrich Fuentes |
-| 261 | 261 | John J. Cronin |
-| 262 | 261 | Brooke Elizabeth Antill |
-| 263 | 260 | Lacy Wolfe |
-| 264 | 260 | Marianita Garcia |
+| 261 | 261 | Brooke Elizabeth Antill |
+| 262 | 261 | John J. Cronin |
+| 263 | 260 | Marianita Garcia |
+| 264 | 260 | Lacy Wolfe |
 | 265 | 256 | Chris Sigurdson |
 | 266 | 255 | Giggly Builderline |
 | 267 | 255 | Beazel75 |
@@ -291,12 +291,12 @@
 | 283 | 243 | Tyler L Hunt |
 | 284 | 242 | Colleen Pinette |
 | 285 | 242 | John Ramirez |
-| 286 | 242 | ParisandCory Champagne |
-| 287 | 242 | Colleen Pinette |
+| 286 | 242 | Tamara Brown |
+| 287 | 242 | ParisandCory Champagne |
 | 288 | 239 | Adele Rahman |
 | 289 | 239 | LC |
-| 290 | 238 | Tiffany Smith |
-| 291 | 238 | Michael |
+| 290 | 238 | Michael |
+| 291 | 238 | Tiffany Smith |
 | 292 | 237 | Danielle S Kester |
 | 293 | 235 | Ariel Whittington |
 | 294 | 234 | Sean Stallings |
@@ -318,8 +318,8 @@
 | 310 | 226 | Snappy Brickbuilder |
 | 311 | 226 | Glitzy Buildsnap |
 | 312 | 225 | Angela Spann |
-| 313 | 224 | Jumpy Rotate |
-| 314 | 224 | Sunny Shift |
+| 313 | 224 | Sunny Shift |
+| 314 | 224 | Jumpy Rotate |
 | 315 | 224 | Danielle Mae |
 | 316 | 224 | Joe Coon |
 | 317 | 223 | Christina Backer |

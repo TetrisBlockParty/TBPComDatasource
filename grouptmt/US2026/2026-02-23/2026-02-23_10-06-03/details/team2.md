@@ -469,8 +469,8 @@
 | 461 | 725 | Ashle Scranton |
 | 462 | 725 | Jennie Lee Huntley |
 | 463 | 724 | Melissa Holsinger |
-| 464 | 720 | Giggy Mover |
-| 465 | 720 | BeQuo |
+| 464 | 720 | BeQuo |
+| 465 | 720 | Giggy Mover |
 | 466 | 715 | Daniell Martinez |
 | 467 | 713 | Christie |
 | 468 | 712 | Amanda Ferrell |
@@ -480,8 +480,8 @@
 | 472 | 708 | Jelly |
 | 473 | 706 | Kimberly Randesi |
 | 474 | 706 | Irene Jones |
-| 475 | 704 | Montez Mancil |
-| 476 | 704 | Tansaria Couch-Butler |
+| 475 | 704 | Tansaria Couch-Butler |
+| 476 | 704 | Montez Mancil |
 | 477 | 703 | Funky Drop |
 | 478 | 700 | Vincent Petrella |
 | 479 | 700 | Beverly Owens |
@@ -491,8 +491,8 @@
 | 483 | 695 | Lakeysha Dortch |
 | 484 | 693 | Ryan Stadel |
 | 485 | 692 | Shaun Church |
-| 486 | 691 | Samuel Macon |
-| 487 | 691 | Arwa Fatimah |
+| 486 | 691 | Arwa Fatimah |
+| 487 | 691 | Samuel Macon |
 | 488 | 689 | Gauri Shrotriya |
 | 489 | 686 | Christine Coughlin |
 | 490 | 684 | Sarah DeHart |
@@ -506,8 +506,8 @@
 | 498 | 679 | Kassandra Hunt |
 | 499 | 679 | Prette Qui |
 | 500 | 677 | Paul Combs |
-| 501 | 677 | Amanda Woodruff |
-| 502 | 677 | Kayleigh Wisse |
+| 501 | 677 | Kayleigh Wisse |
+| 502 | 677 | Amanda Woodruff |
 | 503 | 676 | Nicky Jackson |
 | 504 | 676 | Roseanna Peloso |
 | 505 | 675 | Lonne Emade |
@@ -540,8 +540,8 @@
 | 532 | 642 | Michelle Fields |
 | 533 | 642 | Cassie Maynard |
 | 534 | 640 | Belle |
-| 535 | 639 | Rebecca Miller |
-| 536 | 639 | Alexandra Weir |
+| 535 | 639 | Alexandra Weir |
+| 536 | 639 | Rebecca Miller |
 | 537 | 639 | Toni Roberson |
 | 538 | 638 | Leah Keesling |
 | 539 | 637 | Shinette Dobson |
@@ -770,8 +770,8 @@
 | 762 | 477 | Danielle Ayoub |
 | 763 | 476 | Mary Marie |
 | 764 | 474 | Calandra Shaya Robinson |
-| 765 | 474 | Jennifer Scott |
-| 766 | 474 | Veronica Stevenson |
+| 765 | 474 | Veronica Stevenson |
+| 766 | 474 | Jennifer Scott |
 | 767 | 474 | Jamie Carter Bierce |
 | 768 | 473 | Tara Lynn Janes |
 | 769 | 473 | Jenn Marie |
@@ -1203,9 +1203,9 @@
 | 1195 | 321 | Claire |
 | 1196 | 320 | Amy Humphreys |
 | 1197 | 320 | Reece Smith |
-| 1198 | 320 | Renee Bowers |
-| 1199 | 320 | Devlin Ogg |
-| 1200 | 320 | Peachy Blockbuilder |
+| 1198 | 320 | Devlin Ogg |
+| 1199 | 320 | Peachy Blockbuilder |
+| 1200 | 320 | Renee Bowers |
 | 1201 | 319 | Lexa Craft Davidson |
 | 1202 | 319 | Jessica Sutter |
 | 1203 | 318 | Daring Matchfit |
@@ -1600,8 +1600,8 @@
 | 1592 | 253 | Cynthia Knox |
 | 1593 | 253 | 2 kool |
 | 1594 | 253 | Kim King |
-| 1595 | 253 | Lynzekwi |
-| 1596 | 253 | Snazzy Crawler |
+| 1595 | 253 | Snazzy Crawler |
+| 1596 | 253 | Lynzekwi |
 | 1597 | 253 | D5wag2014 |
 | 1598 | 252 | Meka Jackson |
 | 1599 | 252 | Jimbo |
