@@ -86,8 +86,8 @@
 | 78 | 664 | Valerie Roberts |
 | 79 | 661 | Lisa Davis |
 | 80 | 659 | Jonathan Kimbrough |
-| 81 | 647 | KM8 |
-| 82 | 647 | Shauna Havard |
+| 81 | 647 | Shauna Havard |
+| 82 | 647 | KM8 |
 | 83 | 646 | Eric Mcgaughy |
 | 84 | 641 | Savannah Overdorf |
 | 85 | 626 | Brittney Griggs |

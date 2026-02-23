@@ -79,11 +79,11 @@
 | 71 | 1019 | Sarah Fehring |
 | 72 | 980 | Jennifer |
 | 73 | 970 | Rosalie Call Kehlenbeck |
-| 74 | 945 | Christian A. Pollard |
-| 75 | 945 | Shonna Roberts |
+| 74 | 945 | Shonna Roberts |
+| 75 | 945 | Christian A. Pollard |
 | 76 | 938 | Mandy Smith Oldham |
-| 77 | 926 | Angela M. Fletcher |
-| 78 | 926 | Judi Dobson |
+| 77 | 926 | Judi Dobson |
+| 78 | 926 | Angela M. Fletcher |
 | 79 | 923 | Christine Filson |
 | 80 | 910 | Jay Horn |
 | 81 | 907 | Michelle Becker |
@@ -218,8 +218,8 @@
 | 210 | 415 | ren |
 | 211 | 414 | Fran Lin |
 | 212 | 413 | Loopy Clusterer |
-| 213 | 410 | Mcathen |
-| 214 | 410 | Stephanie Simpson |
+| 213 | 410 | Stephanie Simpson |
+| 214 | 410 | Mcathen |
 | 215 | 405 | Sherry Ogden |
 | 216 | 404 | Chasity |
 | 217 | 403 | Scott Lindsay |

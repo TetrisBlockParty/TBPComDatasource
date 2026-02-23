@@ -130,8 +130,8 @@
 | 122 | 1681 | Shandrica Lowe |
 | 123 | 1652 | Kristopher Miller |
 | 124 | 1644 | Luna |
-| 125 | 1639 | Karen Martini-Stapleton |
-| 126 | 1639 | Jessie McDougald |
+| 125 | 1639 | Jessie McDougald |
+| 126 | 1639 | Karen Martini-Stapleton |
 | 127 | 1632 | Qiana Sanders |
 | 128 | 1631 | Speedy Spinblock |
 | 129 | 1623 | Rebecca Doughman |
@@ -222,8 +222,8 @@
 | 214 | 1138 | Megan Ferguson Leone |
 | 215 | 1135 | Samantha Roberts |
 | 216 | 1131 | Prado |
-| 217 | 1127 | Catina Hutchison |
-| 218 | 1127 | Dee |
+| 217 | 1127 | Dee |
+| 218 | 1127 | Catina Hutchison |
 | 219 | 1126 | Dolores Russworn |
 | 220 | 1121 | Tommy Tha Boss Gunz |
 | 221 | 1117 | Sarah Freitas |
@@ -363,8 +363,8 @@
 | 355 | 769 | Melissa Cole |
 | 356 | 768 | Joshua Self |
 | 357 | 768 | Arkei Luster |
-| 358 | 767 | Ashley Lopez |
-| 359 | 767 | Fancy Twister |
+| 358 | 767 | Fancy Twister |
+| 359 | 767 | Ashley Lopez |
 | 360 | 765 | Kathryn Townsley |
 | 361 | 763 | Johnny Yeates |
 | 362 | 763 | Dreamy Blast |
