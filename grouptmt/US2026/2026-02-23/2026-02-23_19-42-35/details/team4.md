@@ -58,8 +58,8 @@
 | 50 | 1147 | Jae Job |
 | 51 | 1099 | Ashley Ingram |
 | 52 | 1085 | Kimyatta Cavin |
-| 53 | 1082 | Avy Absol |
-| 54 | 1082 | Dawn Alexander |
+| 53 | 1082 | Dawn Alexander |
+| 54 | 1082 | Avy Absol |
 | 55 | 1082 | Dion Crommarty |
 | 56 | 1049 | Heather Tushner |
 | 57 | 1046 | Johnathan Martinez |
@@ -155,20 +155,20 @@
 | 147 | 520 | Zippy Block |
 | 148 | 518 | Carly Alexis |
 | 149 | 516 | Trish |
-| 150 | 514 | Scott Jameson |
-| 151 | 514 | Lucas J Sutton |
+| 150 | 514 | Lucas J Sutton |
+| 151 | 514 | Scott Jameson |
 | 152 | 513 | Erin Thomas |
-| 153 | 512 | Angela Srubar-Norman |
-| 154 | 512 | ThaEviLJeNiuZ |
+| 153 | 512 | ThaEviLJeNiuZ |
+| 154 | 512 | Angela Srubar-Norman |
 | 155 | 512 | Casey Jeffcoat |
 | 156 | 508 | Twisty Clicky |
 | 157 | 502 | Ellen Durfee |
 | 158 | 499 | Ericca Eldridge |
-| 159 | 498 | Nope Young |
-| 160 | 498 | Melissa Adams |
+| 159 | 498 | Melissa Adams |
+| 160 | 498 | Nope Young |
 | 161 | 496 | Jessica Lynn Cutlip |
-| 162 | 491 | Carrie Brian |
-| 163 | 491 | Jade Rian |
+| 162 | 491 | Jade Rian |
+| 163 | 491 | Carrie Brian |
 | 164 | 486 | Swanky Fitline |
 | 165 | 485 | Rico |
 | 166 | 480 | Brandon Crabbs |
@@ -216,8 +216,8 @@
 | 208 | 411 | Autumn Kumzi |
 | 209 | 408 | April Rondinone |
 | 210 | 400 | Antony Dwayne Beasley |
-| 211 | 399 | Jeff Brian Gates |
-| 212 | 399 | Lindsay Ball |
+| 211 | 399 | Lindsay Ball |
+| 212 | 399 | Jeff Brian Gates |
 | 213 | 398 | Tyler Terrific |
 | 214 | 394 | Nita Wells |
 | 215 | 389 | Joseph Guthrie |
@@ -292,8 +292,8 @@
 | 284 | 306 | PeaceOs |
 | 285 | 304 | Shiny Fit |
 | 286 | 301 | Erin Sabol |
-| 287 | 300 | Dana Scott |
-| 288 | 300 | Kate |
+| 287 | 300 | Kate |
+| 288 | 300 | Dana Scott |
 | 289 | 298 | Chance Strickland |
 | 290 | 297 | Kim Klutz Olson |
 | 291 | 297 | Kenna Gunderland |
@@ -587,8 +587,8 @@
 | 579 | 157 | David Boggs |
 | 580 | 157 | Jazzy Slamdrop |
 | 581 | 156 | Nicole McMurray |
-| 582 | 155 | Stormy Tomplait |
-| 583 | 155 | Shirl |
+| 582 | 155 | Shirl |
+| 583 | 155 | Stormy Tomplait |
 | 584 | 155 | Faja |
 | 585 | 154 | Robert Rodriguez |
 | 586 | 154 | Ashley Danielle |

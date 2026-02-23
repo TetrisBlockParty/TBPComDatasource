@@ -158,8 +158,8 @@
 | 150 | 779 | Justin Ritter |
 | 151 | 773 | Daryn Elliott |
 | 152 | 773 | Daira Largen |
-| 153 | 764 | Groovy Catcher |
-| 154 | 764 | Hasty Cascadefit |
+| 153 | 764 | Hasty Cascadefit |
+| 154 | 764 | Groovy Catcher |
 | 155 | 762 | Santeria Trece Candles |
 | 156 | 761 | Peppy Shifter |
 | 157 | 761 | Marcie Bressler |
@@ -202,7 +202,7 @@
 | 194 | 616 | Kammy Hill |
 | 195 | 615 | Tasha Gillespie |
 | 196 | 601 | CeceGeGe |
-| 197 | 600 | Domo Washington |
+| 197 | 600 | Makelini Mausia |
 | 198 | 600 | Keis |
 | 199 | 600 | Domo Washington |
 | 200 | 598 | Bmo |
@@ -269,8 +269,8 @@
 | 261 | 480 | Isabel Ocasio |
 | 262 | 476 | Shunta Jacobs |
 | 263 | 475 | Rebecca Bailey |
-| 264 | 471 | Angella Lyons |
-| 265 | 471 | Gray Hicks |
+| 264 | 471 | Gray Hicks |
+| 265 | 471 | Angella Lyons |
 | 266 | 471 | Mendoza Lee Christy |
 | 267 | 470 | Rebecca Funderburk Kirby |
 | 268 | 470 | Marci Mize Fandrich |
@@ -284,8 +284,8 @@
 | 276 | 451 | Micayah Stevens |
 | 277 | 449 | Marquita Sheard |
 | 278 | 449 | Mcathen |
-| 279 | 448 | Charles Perrone |
-| 280 | 448 | Scott Carleton |
+| 279 | 448 | Scott Carleton |
+| 280 | 448 | Charles Perrone |
 | 281 | 443 | Fancy Curver |
 | 282 | 443 | Stefanie LaPointe |
 | 283 | 443 | Randy Clevenger |
@@ -296,8 +296,8 @@
 | 288 | 434 | Daring Builder |
 | 289 | 432 | Luciana Braganca Vieira |
 | 290 | 431 | Wendy Dearden |
-| 291 | 430 | Jeni Dow |
-| 292 | 430 | Quackers |
+| 291 | 430 | Quackers |
+| 292 | 430 | Jeni Dow |
 | 293 | 429 | Carrie Huskey |
 | 294 | 426 | Gumbo |
 | 295 | 426 | Sarah Moyer |

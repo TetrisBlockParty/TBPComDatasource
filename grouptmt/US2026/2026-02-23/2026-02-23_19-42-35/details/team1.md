@@ -52,8 +52,8 @@
 | 44 | 1126 | Tipsy Column |
 | 45 | 1126 | Tater |
 | 46 | 1122 | Kristen Gideon |
-| 47 | 1114 | Jayme Sellers |
-| 48 | 1114 | Andrea Dañielle Ortiz |
+| 47 | 1114 | Andrea Dañielle Ortiz |
+| 48 | 1114 | Jayme Sellers |
 | 49 | 1100 | Derek MF Blakey |
 | 50 | 1070 | Cheeky Twistslam |
 | 51 | 1061 | Carrie Beck Geartz |
@@ -156,8 +156,8 @@
 | 148 | 482 | Sarah Somers Gray |
 | 149 | 478 | Adrian Esteban |
 | 150 | 477 | Tonya Beasley |
-| 151 | 476 | Ly Phethmany |
-| 152 | 476 | phrmblk24 |
+| 151 | 476 | phrmblk24 |
+| 152 | 476 | Ly Phethmany |
 | 153 | 475 | Plucky Ziggy |
 | 154 | 470 | Jason Savage |
 | 155 | 470 | Candy Jones |
@@ -179,8 +179,8 @@
 | 171 | 434 | Yvonne Marie |
 | 172 | 432 | Lori Bales |
 | 173 | 426 | Maria C. Hernandez |
-| 174 | 425 | Tyler Werts |
-| 175 | 425 | Tana |
+| 174 | 425 | Tana |
+| 175 | 425 | Tyler Werts |
 | 176 | 424 | Emily Adelaide Wheatley |
 | 177 | 420 | Cheeky Crusher |
 | 178 | 417 | Jessie Lynn |
