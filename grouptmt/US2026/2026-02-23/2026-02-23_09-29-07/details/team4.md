@@ -26,8 +26,8 @@
 | 18 | 1636 | Cassie Michaux |
 | 19 | 1565 | GreenJeepGirl |
 | 20 | 1558 | Leah Gorsuch |
-| 21 | 1536 | Misty Hollibaugh |
-| 22 | 1536 | Roger Coulter |
+| 21 | 1536 | Roger Coulter |
+| 22 | 1536 | Misty Hollibaugh |
 | 23 | 1485 | Juggalo |
 | 24 | 1390 | Sammy Noguera |
 | 25 | 1382 | Tammi Crnza |
@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | Shauna Havard |
-| 93 | 647 | KM8 |
+| 92 | 647 | KM8 |
+| 93 | 647 | Shauna Havard |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -143,8 +143,8 @@
 | 135 | 451 | Peachy Fall |
 | 136 | 448 | Kristin Manee |
 | 137 | 442 | ThaEviLJeNiuZ |
-| 138 | 435 | Monica Daley |
-| 139 | 435 | Kristina Black |
+| 138 | 435 | Kristina Black |
+| 139 | 435 | Monica Daley |
 | 140 | 432 | Zippy Block |
 | 141 | 431 | Courtney Cicoria |
 | 142 | 429 | Klo |
@@ -267,8 +267,8 @@
 | 259 | 264 | ZeeZee |
 | 260 | 264 | Stella |
 | 261 | 263 | rebel4lyfe |
-| 262 | 262 | Selena Shaw |
-| 263 | 262 | BigSammy420 |
+| 262 | 262 | BigSammy420 |
+| 263 | 262 | Selena Shaw |
 | 264 | 261 | Zethra Prenisha Rahming |
 | 265 | 260 | Carter Jones |
 | 266 | 260 | Lori |
@@ -283,8 +283,8 @@
 | 275 | 253 | Autum Leigh |
 | 276 | 251 | Carol Ricks Raymond |
 | 277 | 249 | Ak Jones |
-| 278 | 248 | Angelito |
-| 279 | 248 | Chirpy Basepiece |
+| 278 | 248 | Chirpy Basepiece |
+| 279 | 248 | Angelito |
 | 280 | 248 | Jose Dejesus |
 | 281 | 245 | 23 |
 | 282 | 244 | Christina Black |

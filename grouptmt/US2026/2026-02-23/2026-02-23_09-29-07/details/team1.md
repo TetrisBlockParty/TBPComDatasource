@@ -50,8 +50,8 @@
 | 42 | 1058 | Jorge Andrade |
 | 43 | 1036 | Cheeky Twistslam |
 | 44 | 1032 | Kathi Snustad |
-| 45 | 1030 | Lola Adkhambekovna |
-| 46 | 1027 | Robert Beck |
+| 45 | 1027 | Robert Beck |
+| 46 | 1023 | Lola Adkhambekovna |
 | 47 | 1012 | Kristen Gideon |
 | 48 | 966 | Shalene Frederick Autrey |
 | 49 | 964 | Carrie Beck Geartz |
@@ -67,9 +67,9 @@
 | 59 | 850 | Andrea Dañielle Ortiz |
 | 60 | 845 | Drew Magnus |
 | 61 | 829 | Sevens4L |
-| 62 | 819 | comrade fish |
-| 63 | 818 | Patrick Luckenbill |
-| 64 | 801 | Lawrence Belanger |
+| 62 | 818 | Patrick Luckenbill |
+| 63 | 801 | Lawrence Belanger |
+| 64 | 799 | comrade fish |
 | 65 | 789 | TSwag |
 | 66 | 783 | Redlicious 1 |
 | 67 | 772 | Tinah Montanna |
@@ -114,8 +114,8 @@
 | 106 | 491 | cc |
 | 107 | 489 | April Carroll |
 | 108 | 489 | Deanna L Hermanson |
-| 109 | 483 | Tdub |
-| 110 | 483 | Trina Gee |
+| 109 | 483 | Trina Gee |
+| 110 | 483 | Tdub |
 | 111 | 480 | Ty Brown |
 | 112 | 478 | Stephanie Zahn |
 | 113 | 477 | Tonya Beasley |
@@ -128,8 +128,8 @@
 | 120 | 452 | Hyper |
 | 121 | 451 | Plucky Ziggy |
 | 122 | 450 | lil mickey |
-| 123 | 448 | Sweet Baker |
-| 124 | 448 | Jazzy Framezone |
+| 123 | 448 | Jazzy Framezone |
+| 124 | 448 | Sweet Baker |
 | 125 | 446 | SkipTheSadSauce |
 | 126 | 443 | Steve Schneider |
 | 127 | 440 | And |
@@ -208,21 +208,21 @@
 | 200 | 324 | Rat666 |
 | 201 | 323 | Madison Wicks |
 | 202 | 322 | Letson Melissa |
-| 203 | 317 | Sarah Roberts |
-| 204 | 317 | Kimberly Garcia |
+| 203 | 317 | Kimberly Garcia |
+| 204 | 317 | Sarah Roberts |
 | 205 | 316 | Reesey Enyart |
 | 206 | 315 | Danielle Little-Daugherty |
 | 207 | 314 | Tana |
 | 208 | 314 | Snippy Wipebuilder |
 | 209 | 312 | Jessi Sauer |
-| 210 | 310 | MIKOZ |
-| 211 | 310 | Bloknboy |
-| 212 | 308 | Speedy Liney |
-| 213 | 306 | Angela Renea Lester |
-| 214 | 304 | Sarah Somers Gray |
-| 215 | 301 | Damon J. Martin |
-| 216 | 301 | Cody Gates |
-| 217 | 300 | Sleepysloath5745 |
+| 210 | 310 | Bloknboy |
+| 211 | 308 | Speedy Liney |
+| 212 | 306 | Angela Renea Lester |
+| 213 | 304 | Sarah Somers Gray |
+| 214 | 301 | Damon J. Martin |
+| 215 | 301 | Cody Gates |
+| 216 | 300 | Sleepysloath5745 |
+| 217 | 298 | Billie Ann Eason |
 | 218 | 298 | Sweetts |
 | 219 | 295 | Lakeisha Chapman |
 | 220 | 294 | Chuck Gannon |
@@ -253,8 +253,8 @@
 | 245 | 272 | Barrbaric |
 | 246 | 272 | Tawnya Peltonen |
 | 247 | 271 | Frothy Pattern |
-| 248 | 270 | Debbie Kane |
-| 249 | 270 | Brenda Alexander |
+| 248 | 270 | Brenda Alexander |
+| 249 | 270 | Debbie Kane |
 | 250 | 268 | Standia Civil |
 | 251 | 267 | Daring Fitclear |
 | 252 | 266 | Alenoush Karimian |
@@ -560,8 +560,8 @@
 | 552 | 135 | Giggly Rollfit |
 | 553 | 135 | Amanda Marie Sutton |
 | 554 | 134 | Angela Rena Brooks |
-| 555 | 133 | MayMay Echevarria |
-| 556 | 133 | Jason Cox |
+| 555 | 133 | Jason Cox |
+| 556 | 133 | MayMay Echevarria |
 | 557 | 132 | Angela Ellyson |
 | 558 | 132 | Mary Love |
 | 559 | 131 | Garrett Burket |
