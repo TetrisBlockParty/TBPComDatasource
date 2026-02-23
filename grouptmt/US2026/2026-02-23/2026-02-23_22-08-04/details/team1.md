@@ -102,8 +102,8 @@
 | 94 | 740 | Lori Sanders- Davis |
 | 95 | 722 | Kellie |
 | 96 | 717 | Madison Wicks |
-| 97 | 706 | Denice Dee |
-| 98 | 706 | Plucky Fallzone |
+| 97 | 706 | Plucky Fallzone |
+| 98 | 706 | Denice Dee |
 | 99 | 704 | Karin Gillen |
 | 100 | 703 | Angel Fowler |
 | 101 | 679 | Melissa Lemmon |
@@ -161,8 +161,8 @@
 | 153 | 495 | Adrian Esteban |
 | 154 | 494 | Sean Stallings |
 | 155 | 492 | Rebekah LeiAnn Bonsell |
-| 156 | 491 | cc |
-| 157 | 491 | Michelle Beres |
+| 156 | 491 | Michelle Beres |
+| 157 | 491 | cc |
 | 158 | 488 | Hyper |
 | 159 | 485 | Luciano Moreira |
 | 160 | 483 | Trina Gee |
@@ -328,11 +328,11 @@
 | 320 | 294 | Наталья Солоид |
 | 321 | 294 | Chummy Rollblock |
 | 322 | 293 | Garrett Burket |
-| 323 | 292 | Clever Cascadepiece |
-| 324 | 292 | Damian Salem |
-| 325 | 291 | Toph |
+| 323 | 292 | Damian Salem |
+| 324 | 292 | Clever Cascadepiece |
+| 325 | 291 | Sir-Franchise Drake |
 | 326 | 291 | Michael Espinosa Ulibarri Jr. |
-| 327 | 291 | Sir-Franchise Drake |
+| 327 | 291 | Toph |
 | 328 | 290 | Tavia |
 | 329 | 289 | Speedy Snapfall |
 | 330 | 289 | Michael |

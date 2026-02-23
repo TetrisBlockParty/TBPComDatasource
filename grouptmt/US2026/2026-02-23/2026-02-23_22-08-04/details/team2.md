@@ -206,8 +206,8 @@
 | 198 | 1601 | Ray Ray Prado |
 | 199 | 1600 | Mo Shine On |
 | 200 | 1592 | Dolores Russworn |
-| 201 | 1590 | Amy Sayers |
-| 202 | 1590 | Jaycee |
+| 201 | 1590 | Jaycee |
+| 202 | 1590 | Amy Sayers |
 | 203 | 1585 | Glitzy Stackzone |
 | 204 | 1581 | Tommy Tha Boss Gunz |
 | 205 | 1580 | Sally Dennis |
@@ -308,8 +308,8 @@
 | 300 | 1216 | Pacynthia Williams |
 | 301 | 1216 | Ashie Ann |
 | 302 | 1214 | David Cudicio-Hayden |
-| 303 | 1211 | Cynthia Ward |
-| 304 | 1211 | Ricardo Burton |
+| 303 | 1211 | Ricardo Burton |
+| 304 | 1211 | Cynthia Ward |
 | 305 | 1210 | Amber Gray |
 | 306 | 1191 | Jess Morrison |
 | 307 | 1188 | Amber Brion |
@@ -317,13 +317,13 @@
 | 309 | 1179 | Georgia Triblett |
 | 310 | 1172 | Lakeysha Dortch |
 | 311 | 1172 | Kristin Gower |
-| 312 | 1171 | Sarah block |
-| 313 | 1171 | Loretta Brewer-Gage |
+| 312 | 1171 | Loretta Brewer-Gage |
+| 313 | 1171 | Sarah block |
 | 314 | 1164 | Hillary Crawford |
 | 315 | 1163 | Erika Densmore |
 | 316 | 1158 | Brittany Clark |
-| 317 | 1156 | Alezandra Smith |
-| 318 | 1156 | Arkei Luster |
+| 317 | 1156 | Arkei Luster |
+| 318 | 1156 | Alezandra Smith |
 | 319 | 1155 | F-X |
 | 320 | 1151 | Tyler C. Jung |
 | 321 | 1145 | Deborah Miller |
