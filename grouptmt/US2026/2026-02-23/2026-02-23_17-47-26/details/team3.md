@@ -207,8 +207,8 @@
 | 199 | 568 | Rachael McClain Owens |
 | 200 | 566 | Connie Mohler-Fair |
 | 201 | 566 | LaTanya GeminiondaRise Johnson |
-| 202 | 564 | Poppy Splitter |
-| 203 | 564 | Christine Trester |
+| 202 | 564 | Christine Trester |
+| 203 | 564 | Poppy Splitter |
 | 204 | 563 | Jim Mathews |
 | 205 | 562 | Dave Herzog |
 | 206 | 561 | Silly Twist |
@@ -274,8 +274,8 @@
 | 266 | 451 | Micayah Stevens |
 | 267 | 449 | Mcathen |
 | 268 | 448 | Scott Carleton |
-| 269 | 443 | Fancy Curver |
-| 270 | 443 | Stefanie LaPointe |
+| 269 | 443 | Stefanie LaPointe |
+| 270 | 443 | Fancy Curver |
 | 271 | 443 | Randy Clevenger |
 | 272 | 442 | Marquita Sheard |
 | 273 | 437 | Loopy Clusterer |
@@ -283,10 +283,10 @@
 | 275 | 434 | Daring Builder |
 | 276 | 432 | rosy |
 | 277 | 432 | Luciana Braganca Vieira |
-| 278 | 431 | Wendy Dearden |
-| 279 | 431 | Ammmmmmy |
-| 280 | 430 | Jeni Dow |
-| 281 | 430 | Quackers |
+| 278 | 431 | Ammmmmmy |
+| 279 | 431 | Wendy Dearden |
+| 280 | 430 | Quackers |
+| 281 | 430 | Jeni Dow |
 | 282 | 429 | Carrie Huskey |
 | 283 | 428 | Sleepy |
 | 284 | 426 | Gumbo |

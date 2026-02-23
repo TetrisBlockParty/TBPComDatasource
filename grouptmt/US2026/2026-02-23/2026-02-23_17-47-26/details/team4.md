@@ -333,9 +333,9 @@
 | 325 | 265 | Christine Therrien |
 | 326 | 265 | Degenerate |
 | 327 | 264 | ZeeZee |
-| 328 | 262 | Ruben Wheeler |
-| 329 | 262 | Selena Shaw |
-| 330 | 262 | BigSammy420 |
+| 328 | 262 | Selena Shaw |
+| 329 | 262 | BigSammy420 |
+| 330 | 262 | Ruben Wheeler |
 | 331 | 261 | Zethra Prenisha Rahming |
 | 332 | 260 | Angelito |
 | 333 | 260 | Carter Jones |

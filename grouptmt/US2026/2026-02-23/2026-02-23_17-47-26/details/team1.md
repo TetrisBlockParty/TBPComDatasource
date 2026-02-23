@@ -168,8 +168,8 @@
 | 160 | 450 | lil mickey |
 | 161 | 446 | SkipTheSadSauce |
 | 162 | 444 | Dandy Basegrid |
-| 163 | 440 | Timothy Danaher |
-| 164 | 440 | Kimmie Kimms |
+| 163 | 440 | Kimmie Kimms |
+| 164 | 440 | Timothy Danaher |
 | 165 | 434 | Yvonne Marie |
 | 166 | 428 | Amanda Jarnagin |
 | 167 | 427 | Hasty Cascader |
