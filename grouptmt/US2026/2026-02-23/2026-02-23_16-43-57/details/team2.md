@@ -376,8 +376,8 @@
 | 368 | 941 | Cool Clearer |
 | 369 | 939 | Mighty Shatterfit |
 | 370 | 937 | Andrew Willis |
-| 371 | 933 | Nicole Cannon |
-| 372 | 933 | Bee |
+| 371 | 933 | Bee |
+| 372 | 933 | Nicole Cannon |
 | 373 | 929 | Ellie Jonas |
 | 374 | 928 | Elizabeth Wilbanks |
 | 375 | 919 | Isaac Trappiel IV |

@@ -124,8 +124,8 @@
 | 116 | 896 | Jesse Olive |
 | 117 | 878 | Shane Wilson Jr. |
 | 118 | 874 | Jessica Pineda-Lopez |
-| 119 | 868 | Felicia Rocha |
-| 120 | 868 | Sarajane Lokan |
+| 119 | 868 | Sarajane Lokan |
+| 120 | 868 | Felicia Rocha |
 | 121 | 864 | Sunny Rotater |
 | 122 | 848 | Patricia Gadsden |
 | 123 | 846 | Kristie |
@@ -142,8 +142,8 @@
 | 134 | 774 | Keith J Oshman Jr. |
 | 135 | 773 | Daira Largen |
 | 136 | 770 | Daryn Elliott |
-| 137 | 764 | Hasty Cascadefit |
-| 138 | 764 | Groovy Catcher |
+| 137 | 764 | Groovy Catcher |
+| 138 | 764 | Hasty Cascadefit |
 | 139 | 762 | Speedy Bridger |
 | 140 | 759 | yoyo |
 | 141 | 757 | Fancy Cascader |
@@ -202,8 +202,8 @@
 | 194 | 576 | Keis |
 | 195 | 568 | Rachael McClain Owens |
 | 196 | 566 | LaTanya GeminiondaRise Johnson |
-| 197 | 564 | Christine Trester |
-| 198 | 564 | Poppy Splitter |
+| 197 | 564 | Poppy Splitter |
+| 198 | 564 | Christine Trester |
 | 199 | 563 | Jim Mathews |
 | 200 | 562 | Dave Herzog |
 | 201 | 560 | Juliana Dottore |
@@ -213,8 +213,8 @@
 | 205 | 549 | Sarah Cowan Burgos |
 | 206 | 548 | Danielle Balcom |
 | 207 | 547 | Staci George Fitzsimmons |
-| 208 | 546 | Cynthia Castros-Hampton |
-| 209 | 546 | Mykal Burton |
+| 208 | 546 | Mykal Burton |
+| 209 | 546 | Cynthia Castros-Hampton |
 | 210 | 544 | Trisha Balmer |
 | 211 | 543 | Silly Twist |
 | 212 | 540 | Shawn Miller |
@@ -274,8 +274,8 @@
 | 266 | 437 | Loopy Clusterer |
 | 267 | 434 | Daring Builder |
 | 268 | 432 | Luciana Braganca Vieira |
-| 269 | 431 | Ammmmmmy |
-| 270 | 431 | Wendy Dearden |
+| 269 | 431 | Wendy Dearden |
+| 270 | 431 | Ammmmmmy |
 | 271 | 430 | Jeni Dow |
 | 272 | 429 | Carrie Huskey |
 | 273 | 428 | Sleepy |

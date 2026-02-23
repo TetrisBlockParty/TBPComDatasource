@@ -180,8 +180,8 @@
 | 172 | 431 | Courtney Cicoria |
 | 173 | 427 | Steph Marie |
 | 174 | 426 | 🥔🥔 Spudz |
-| 175 | 423 | Crystal Nicolette Moore |
-| 176 | 423 | Carrie Brian |
+| 175 | 423 | Carrie Brian |
+| 176 | 423 | Crystal Nicolette Moore |
 | 177 | 422 | Zakia Monae |
 | 178 | 421 | JIGsaw ~(•¿°)~ |
 | 179 | 421 | Kesha Brady |
@@ -202,8 +202,8 @@
 | 194 | 398 | Tyler Terrific |
 | 195 | 393 | Carlton Unfiltered |
 | 196 | 391 | Ramel Rhodes |
-| 197 | 389 | Cool Towerbuilder |
-| 198 | 389 | Joseph Guthrie |
+| 197 | 389 | Joseph Guthrie |
+| 198 | 389 | Cool Towerbuilder |
 | 199 | 385 | 030Synner |
 | 200 | 383 | Chris Bernstein |
 | 201 | 380 | Rio Rocha |

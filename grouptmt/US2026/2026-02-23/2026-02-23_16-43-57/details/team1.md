@@ -187,8 +187,8 @@
 | 179 | 399 | phrmblk24 |
 | 180 | 397 | Erin Rosberg |
 | 181 | 394 | Lori Bales |
-| 182 | 393 | Lehrin Maria |
-| 183 | 393 | Wisa |
+| 182 | 393 | Wisa |
+| 183 | 393 | Lehrin Maria |
 | 184 | 391 | Basment Living |
 | 185 | 390 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 186 | 388 | Jason Savage |
@@ -197,8 +197,8 @@
 | 189 | 387 | Ananda Mendez |
 | 190 | 386 | Brian Spotts |
 | 191 | 385 | John J. Cronin |
-| 192 | 383 | Margo Wagner |
-| 193 | 383 | pjbeta |
+| 192 | 383 | pjbeta |
+| 193 | 383 | Margo Wagner |
 | 194 | 380 | Bindi |
 | 195 | 379 | Austin James |
 | 196 | 378 | Sleepysloath5745 |
@@ -443,8 +443,8 @@
 | 435 | 203 | Amie Fields |
 | 436 | 202 | Krie |
 | 437 | 201 | Tedashi |
-| 438 | 200 | Jason Cox |
-| 439 | 200 | Alphonza Keyes Jr. |
+| 438 | 200 | Alphonza Keyes Jr. |
+| 439 | 200 | Jason Cox |
 | 440 | 199 | Tina Englert |
 | 441 | 198 | Dizzy Riseclear |
 | 442 | 198 | Larry Oaks |
