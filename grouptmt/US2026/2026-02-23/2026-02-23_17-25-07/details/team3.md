@@ -124,8 +124,8 @@
 | 116 | 896 | Jesse Olive |
 | 117 | 878 | Shane Wilson Jr. |
 | 118 | 874 | Jessica Pineda-Lopez |
-| 119 | 868 | Felicia Rocha |
-| 120 | 868 | Sarajane Lokan |
+| 119 | 868 | Sarajane Lokan |
+| 120 | 868 | Felicia Rocha |
 | 121 | 864 | Sunny Rotater |
 | 122 | 856 | Kristie |
 | 123 | 848 | Patricia Gadsden |
@@ -235,9 +235,9 @@
 | 227 | 516 | Daring Brickzone |
 | 228 | 515 | Cozy Snaplink |
 | 229 | 515 | Annie Déè |
-| 230 | 513 | Lizabeth Fox |
-| 231 | 513 | kacihall |
-| 232 | 513 | Twisty Brick LT |
+| 230 | 513 | Twisty Brick LT |
+| 231 | 513 | Lizabeth Fox |
+| 232 | 513 | kacihall |
 | 233 | 508 | Fran Lin |
 | 234 | 508 | joz |
 | 235 | 505 | Stephanie Simpson |
@@ -251,8 +251,8 @@
 | 243 | 480 | Danielle Allison |
 | 244 | 480 | Isabel Ocasio |
 | 245 | 477 | Edwin Calvillo Jr. |
-| 246 | 471 | Gray Hicks |
-| 247 | 471 | Rebecca Bailey |
+| 246 | 471 | Rebecca Bailey |
+| 247 | 471 | Gray Hicks |
 | 248 | 471 | Mendoza Lee Christy |
 | 249 | 470 | Marci Mize Fandrich |
 | 250 | 470 | Rebecca Funderburk Kirby |
@@ -369,8 +369,8 @@
 | 361 | 342 | Cynthia Herrmann Egland |
 | 362 | 341 | Rick Poppen |
 | 363 | 341 | Lys |
-| 364 | 340 | Kirhonda Autmon |
-| 365 | 340 | Erika Thornton |
+| 364 | 340 | Erika Thornton |
+| 365 | 340 | Kirhonda Autmon |
 | 366 | 337 | Michelle Allers |
 | 367 | 333 | Geoffrey Nash |
 | 368 | 333 | 4girls |
@@ -409,25 +409,25 @@
 | 401 | 311 | Troy |
 | 402 | 309 | Block Baddie |
 | 403 | 309 | Cheeky Snapper |
-| 404 | 308 | Katrina Turner |
-| 405 | 308 | Tia |
+| 404 | 308 | Tia |
+| 405 | 308 | Katrina Turner |
 | 406 | 308 | Beejangles |
 | 407 | 307 | TotoCherue |
-| 408 | 307 | Kristian Thurman |
-| 409 | 307 | Kristina Gardner |
+| 408 | 307 | Kristina Gardner |
+| 409 | 307 | Kristian Thurman |
 | 410 | 306 | Jackie Miller |
 | 411 | 305 | Jack Bo |
 | 412 | 304 | _melisa223_ |
 | 413 | 304 | Stella |
 | 414 | 303 | Alexmac |
 | 415 | 302 | Willow |
-| 416 | 301 | Betty Rosas |
-| 417 | 301 | Michael Lucado |
-| 418 | 299 | Antonia Russell |
-| 419 | 299 | Hasty Gridpiece |
+| 416 | 301 | Michael Lucado |
+| 417 | 301 | Betty Rosas |
+| 418 | 299 | Hasty Gridpiece |
+| 419 | 299 | Antonia Russell |
 | 420 | 299 | Angie Harper |
-| 421 | 298 | Grams |
-| 422 | 298 | Dannie Litchard |
+| 421 | 298 | Dannie Litchard |
+| 422 | 298 | Grams |
 | 423 | 298 | Tay |
 | 424 | 297 | Quirky Snapfit |
 | 425 | 296 | Amy Montz |
@@ -438,8 +438,8 @@
 | 430 | 293 | Loopy Fallzone |
 | 431 | 292 | Khaleada McGill Banks |
 | 432 | 292 | Arden White Kirsch |
-| 433 | 291 | Bryan Byrd |
-| 434 | 291 | Niki Dalrymple |
+| 433 | 291 | Niki Dalrymple |
+| 434 | 291 | Bryan Byrd |
 | 435 | 290 | Kellie Montgomery |
 | 436 | 290 | Tegan Chapman |
 | 437 | 290 | Breezy Roll |
