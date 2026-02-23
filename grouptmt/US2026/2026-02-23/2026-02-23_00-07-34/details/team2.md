@@ -363,13 +363,13 @@
 | 355 | 763 | Heather Causey |
 | 356 | 761 | Hyper Cluster |
 | 357 | 760 | Doowop40 |
-| 358 | 760 | Andrew Willis |
-| 359 | 760 | Cheech Dta |
-| 360 | 758 | Quirky Twistline |
-| 361 | 758 | Stephanie Neuburger |
+| 358 | 760 | Cheech Dta |
+| 359 | 760 | Andrew Willis |
+| 360 | 758 | Stephanie Neuburger |
+| 361 | 758 | Quirky Twistline |
 | 362 | 751 | Loony Snapper |
-| 363 | 748 | Brenda Utphall |
-| 364 | 748 | Stephanie Lumanlan |
+| 363 | 748 | Stephanie Lumanlan |
+| 364 | 748 | Brenda Utphall |
 | 365 | 746 | Leslie Ann Carter |
 | 366 | 746 | Jerilyn Andrina |
 | 367 | 745 | Kiely Tomaskovich |
@@ -470,8 +470,8 @@
 | 462 | 607 | Véronique Lévesque Sabourin |
 | 463 | 605 | Santana Miyagi |
 | 464 | 603 | Casper The Chonk |
-| 465 | 602 | KhaosLord |
-| 466 | 602 | Shaun Church |
+| 465 | 602 | Shaun Church |
+| 466 | 602 | KhaosLord |
 | 467 | 601 | Moua Ying |
 | 468 | 597 | Jamie Schmitt |
 | 469 | 595 | Bee |
@@ -503,8 +503,8 @@
 | 495 | 569 | Sparkles |
 | 496 | 567 | Snappy Matchbuilder |
 | 497 | 566 | Leah Keesling |
-| 498 | 565 | Blacc Blac |
-| 499 | 565 | Ann Knutson Anderson |
+| 498 | 565 | Ann Knutson Anderson |
+| 499 | 565 | Blacc Blac |
 | 500 | 564 | Koa N Sharon Chen |
 | 501 | 563 | Sarah Massey |
 | 502 | 563 | Frisky Clearpiece |
@@ -513,8 +513,8 @@
 | 505 | 558 | Libby Hicks |
 | 506 | 557 | Victor Obiakarije |
 | 507 | 554 | Dizzy Zone |
-| 508 | 554 | Laquetta Royston |
-| 509 | 554 | Tra Barnum |
+| 508 | 554 | Tra Barnum |
+| 509 | 554 | Laquetta Royston |
 | 510 | 553 | Kelli Wells |
 | 511 | 551 | Cynthia Louann Rose |
 | 512 | 550 | Frilly Fallzone |
@@ -535,16 +535,16 @@
 | 527 | 535 | Maddy Petersen |
 | 528 | 535 | Anthony Huebel |
 | 529 | 533 | Davetta Sanford |
-| 530 | 531 | Aishah Brice |
-| 531 | 531 | Briana Alexander |
+| 530 | 531 | Briana Alexander |
+| 531 | 531 | Aishah Brice |
 | 532 | 531 | Maricia Layolla Cason |
 | 533 | 529 | Victoria Regina Girolami |
 | 534 | 528 | Anita Rose Green |
 | 535 | 527 | Ryan Gunther |
 | 536 | 527 | Heather M Purcell |
 | 537 | 525 | Jessica S Flecha |
-| 538 | 524 | James Louie |
-| 539 | 524 | Wuntayk |
+| 538 | 524 | Wuntayk |
+| 539 | 524 | James Louie |
 | 540 | 523 | Matt Johnson |
 | 541 | 522 | Bubbly Snapfit |
 | 542 | 522 | Leah |

@@ -157,8 +157,8 @@
 | 149 | 356 | Livvy |
 | 150 | 353 | Tyler Terrific |
 | 151 | 349 | Desi Desporte |
-| 152 | 348 | 🥔🥔 Spudz |
-| 153 | 348 | Silly Zonebuilder |
+| 152 | 348 | Silly Zonebuilder |
+| 153 | 348 | 🥔🥔 Spudz |
 | 154 | 347 | Daria Rycewicz |
 | 155 | 343 | Latisha Davis |
 | 156 | 342 | Klo |
@@ -177,8 +177,8 @@
 | 169 | 316 | Meagan Nicole |
 | 170 | 314 | Andy Cabral |
 | 171 | 311 | A5! |
-| 172 | 307 | Girl |
-| 173 | 307 | Bio Nelly |
+| 172 | 307 | Bio Nelly |
+| 173 | 307 | Girl |
 | 174 | 306 | Lindsey Gonzalez |
 | 175 | 304 | Chaz Duncan |
 | 176 | 303 | shark tato |
@@ -208,8 +208,8 @@
 | 200 | 276 | Matt Dell'Olio |
 | 201 | 276 | Joeliecea Cobb |
 | 202 | 273 | Casey Grabner |
-| 203 | 272 | Alan George LaRage |
-| 204 | 272 | Dennis Bradley |
+| 203 | 272 | Dennis Bradley |
+| 204 | 272 | Alan George LaRage |
 | 205 | 271 | Sarah Brown |
 | 206 | 270 | Juls |
 | 207 | 269 | Nikki Rae Gordon |
@@ -238,9 +238,9 @@
 | 230 | 245 | Autum Leigh |
 | 231 | 245 | 23 |
 | 232 | 243 | Mr. Party |
-| 233 | 241 | JPW |
-| 234 | 241 | Allen Lloyd |
-| 235 | 241 | Chris Hartig |
+| 233 | 241 | Chris Hartig |
+| 234 | 241 | JPW |
+| 235 | 241 | Allen Lloyd |
 | 236 | 240 | Perky Patternblock |
 | 237 | 240 | Selena Shaw |
 | 238 | 240 | Kim Hunt |
@@ -280,8 +280,8 @@
 | 272 | 208 | Chantilly Laace |
 | 273 | 208 | Rebecca Morris |
 | 274 | 207 | Snippy Puzzle |
-| 275 | 205 | KayM |
-| 276 | 205 | James Hurley Jr. |
+| 275 | 205 | James Hurley Jr. |
+| 276 | 205 | KayM |
 | 277 | 205 | Stella |
 | 278 | 203 | Katherine Crane |
 | 279 | 202 | Shainne Brewer |
