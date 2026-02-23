@@ -66,8 +66,8 @@
 | 58 | 846 | Lucille Truesdale |
 | 59 | 845 | LisaJo Picken Buchanan |
 | 60 | 834 | quicksand420 |
-| 61 | 807 | Amelpss |
-| 62 | 807 | Rachel Anne |
+| 61 | 807 | Rachel Anne |
+| 62 | 807 | Amelpss |
 | 63 | 788 | Julian Garcia |
 | 64 | 787 | Edward White |
 | 65 | 783 | Ashley Ingram |
@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | Shauna Havard |
-| 93 | 647 | KM8 |
+| 92 | 647 | KM8 |
+| 93 | 647 | Shauna Havard |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -120,8 +120,8 @@
 | 112 | 528 | Rodney McMath Jr. |
 | 113 | 527 | Dizzy Tiley |
 | 114 | 519 | Nugget |
-| 115 | 517 | shar |
-| 116 | 517 | Christina LR |
+| 115 | 517 | Christina LR |
+| 116 | 517 | shar |
 | 117 | 514 | Serena Goodridge |
 | 118 | 514 | Scott Jameson |
 | 119 | 513 | Erin Thomas |
@@ -165,8 +165,8 @@
 | 157 | 406 | Livvy |
 | 158 | 403 | Keith Kelley |
 | 159 | 398 | Tyler Terrific |
-| 160 | 393 | Girl |
-| 161 | 393 | Carlton Unfiltered |
+| 160 | 393 | Carlton Unfiltered |
+| 161 | 393 | Girl |
 | 162 | 391 | Ramel Rhodes |
 | 163 | 389 | Joseph Guthrie |
 | 164 | 387 | Lucas J Sutton |
@@ -252,7 +252,7 @@
 | 244 | 272 | Alan George LaRage |
 | 245 | 271 | Holly |
 | 246 | 270 | Jen Caldwell |
-| 247 | 266 | Nubian1 |
+| 247 | 266 | Tracey Lehmann |
 | 248 | 266 | Mr. Party |
 | 249 | 266 | Nubian1 |
 | 250 | 265 | Degenerate |
@@ -296,8 +296,8 @@
 | 288 | 235 | Chair |
 | 289 | 235 | Shainne Brewer |
 | 290 | 234 | Richard-April Kice |
-| 291 | 233 | Joseph Edmonson |
-| 292 | 233 | Ruben Wheeler |
+| 291 | 233 | Ruben Wheeler |
+| 292 | 233 | Joseph Edmonson |
 | 293 | 231 | Angelito |
 | 294 | 229 | TinyLegoRose |
 | 295 | 228 | Bethany Ison |
@@ -373,8 +373,8 @@
 | 365 | 188 | Sharyn Lemire |
 | 366 | 187 | Cozy Balancer |
 | 367 | 187 | Jenny Wells-Oakley |
-| 368 | 186 | Shanon Klair |
-| 369 | 186 | Dandy Cascadefit |
+| 368 | 186 | Dandy Cascadefit |
+| 369 | 186 | Shanon Klair |
 | 370 | 186 | Eri Kka |
 | 371 | 185 | Moonsterix |
 | 372 | 185 | Rebecca Blake |
@@ -435,7 +435,7 @@
 | 427 | 167 | Carla Harris |
 | 428 | 166 | Gracie Ann Taylor |
 | 429 | 166 | Reds Bella |
-| 430 | 165 | Perky Piecegrid |
+| 430 | 165 | Joshua Cuellar |
 | 431 | 165 | Zappy Buildgrid |
 | 432 | 165 | Vic |
 | 433 | 165 | Perky Piecegrid |
@@ -523,7 +523,7 @@
 | 515 | 139 | Angie Schmidt |
 | 516 | 138 | Hasty Fitzone |
 | 517 | 138 | Shiny Pivoty |
-| 518 | 138 | Hasty Fitzone |
+| 518 | 138 | Lynn Marie |
 | 519 | 137 | April Spoelma |
 | 520 | 137 | Brianna Walker |
 | 521 | 136 | Tabitha Calvin |
@@ -840,7 +840,7 @@
 | 832 | 79 | Dot Flanagan |
 | 833 | 79 | MistyBayou |
 | 834 | 79 | Jason M Cadreau |
-| 835 | 78 | Bromine |
+| 835 | 78 | Allen Johnson |
 | 836 | 78 | Leah Landry |
 | 837 | 78 | Bromine |
 | 838 | 78 | Jaime Ore Norcross |

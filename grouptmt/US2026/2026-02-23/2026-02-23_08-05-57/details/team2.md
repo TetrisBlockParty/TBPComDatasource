@@ -44,8 +44,8 @@
 | 36 | 4199 | Claire Noland |
 | 37 | 4128 | Angela Pruitt |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Corrine Hawks Soriano |
-| 40 | 4120 | Kristen Sceurman |
+| 39 | 4120 | Kristen Sceurman |
+| 40 | 4120 | Corrine Hawks Soriano |
 | 41 | 3845 | jayjay |
 | 42 | 3813 | Devin Lee |
 | 43 | 3779 | Melinda Brown |
@@ -225,8 +225,8 @@
 | 217 | 1232 | Groovy Puzzle |
 | 218 | 1230 | Megan Garrick |
 | 219 | 1221 | Jane Fong |
-| 220 | 1217 | Lucky Ladybug |
-| 221 | 1217 | Brooks Brooks |
+| 220 | 1217 | Brooks Brooks |
+| 221 | 1217 | Lucky Ladybug |
 | 222 | 1214 | David Cudicio-Hayden |
 | 223 | 1213 | Pacynthia Williams |
 | 224 | 1211 | Ricardo Burton |
@@ -257,8 +257,8 @@
 | 249 | 1126 | Dolores Russworn |
 | 250 | 1121 | Tommy Tha Boss Gunz |
 | 251 | 1121 | Sarah Freitas |
-| 252 | 1114 | Kevin Walp |
-| 253 | 1114 | Ginnell Browner |
+| 252 | 1114 | Ginnell Browner |
+| 253 | 1114 | Kevin Walp |
 | 254 | 1111 | Julay |
 | 255 | 1110 | Robin Kerby |
 | 256 | 1106 | Ibiza Carolina LaRose |
@@ -405,8 +405,8 @@
 | 397 | 788 | Erika Densmore |
 | 398 | 787 | Tiara Elizabeth Baker |
 | 399 | 783 | John Rodriguez |
-| 400 | 777 | Tesha Oldaker |
-| 401 | 777 | Jessicah Myers |
+| 400 | 777 | Jessicah Myers |
+| 401 | 777 | Tesha Oldaker |
 | 402 | 776 | Fancy Twister |
 | 403 | 776 | Mighty Spinbuilder |
 | 404 | 775 | Crystie Hicks |
@@ -564,8 +564,8 @@
 | 556 | 609 | Autumn Schaeffer |
 | 557 | 609 | Smashanator |
 | 558 | 608 | Marella Petilo |
-| 559 | 607 | Mo Shine On |
-| 560 | 607 | James Smith |
+| 559 | 607 | James Smith |
+| 560 | 607 | Mo Shine On |
 | 561 | 606 | Lea Stewart |
 | 562 | 605 | Jermaine Harris |
 | 563 | 604 | Rae Rae |
@@ -725,8 +725,8 @@
 | 717 | 490 | Juanita Lyons |
 | 718 | 489 | Britney M. |
 | 719 | 489 | Christy Krissie |
-| 720 | 487 | Morgan Easter |
-| 721 | 487 | Lina Sanders |
+| 720 | 487 | Lina Sanders |
+| 721 | 487 | Morgan Easter |
 | 722 | 487 | RaeVan Worthington |
 | 723 | 486 | Ashley Collins |
 | 724 | 485 | Regina Young |
@@ -863,16 +863,16 @@
 | 855 | 419 | Josh Dill |
 | 856 | 419 | Erin Reid |
 | 857 | 418 | Bold Brickster |
-| 858 | 417 | Tristan Szolek |
-| 859 | 417 | Rebecca Garland |
+| 858 | 417 | Rebecca Garland |
+| 859 | 417 | Tristan Szolek |
 | 860 | 417 | Janai Vrabel |
 | 861 | 417 | Mandy Kachenmeister |
 | 862 | 416 | Alicia Moreno |
 | 863 | 416 | Veronics |
 | 864 | 416 | Christine Lockwood |
 | 865 | 415 | Bonita Kee |
-| 866 | 415 | Allyson Marra |
-| 867 | 415 | Noel Tarmy |
+| 866 | 415 | Noel Tarmy |
+| 867 | 415 | Allyson Marra |
 | 868 | 415 | Cranky Tower |
 | 869 | 414 | Court |
 | 870 | 414 | Cini |
@@ -893,8 +893,8 @@
 | 885 | 406 | Lazy Builderfit |
 | 886 | 406 | Susan Arnburg |
 | 887 | 405 | Carrie Mitchell |
-| 888 | 405 | Marget Kay |
-| 889 | 405 | Dane Reing |
+| 888 | 405 | Dane Reing |
+| 889 | 405 | Marget Kay |
 | 890 | 405 | Swanky Columnbuilder |
 | 891 | 404 | Jannan Haimour |
 | 892 | 404 | Jes Norris |
@@ -987,7 +987,7 @@
 | 979 | 374 | Lively Catcher |
 | 980 | 374 | Nate Lee |
 | 981 | 374 | Amanda Perez |
-| 982 | 373 | Melissa James |
+| 982 | 373 | David Standry |
 | 983 | 373 | DA Wight |
 | 984 | 373 | Melissa James |
 | 985 | 372 | Sarah Dean |
@@ -1026,9 +1026,9 @@
 | 1018 | 362 | Megan Phillips |
 | 1019 | 362 | Dione |
 | 1020 | 362 | Cheeky Balancepiece |
-| 1021 | 361 | Tosa Puvapiromquan |
-| 1022 | 361 | Byung Bae Park |
-| 1023 | 361 | Mike73 |
+| 1021 | 361 | Byung Bae Park |
+| 1022 | 361 | Mike73 |
+| 1023 | 361 | Tosa Puvapiromquan |
 | 1024 | 361 | Andre Love |
 | 1025 | 361 | Mary Boss |
 | 1026 | 360 | Kat Mfm Kaul |
