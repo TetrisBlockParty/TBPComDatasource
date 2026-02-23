@@ -113,8 +113,8 @@
 | 105 | 869 | Araceli Parra |
 | 106 | 868 | Sarajane Lokan |
 | 107 | 860 | Sunny Rotater |
-| 108 | 851 | Danielle Becker |
-| 109 | 851 | Jd Morris |
+| 108 | 851 | Jd Morris |
+| 109 | 851 | Danielle Becker |
 | 110 | 850 | Danielle Mogg |
 | 111 | 848 | Patricia Gadsden |
 | 112 | 831 | Angeline Joseph |
@@ -129,8 +129,8 @@
 | 121 | 769 | Kristie |
 | 122 | 764 | Groovy Catcher |
 | 123 | 762 | Speedy Bridger |
-| 124 | 752 | Logan Naccarato |
-| 125 | 752 | Raya |
+| 124 | 752 | Raya |
+| 125 | 752 | Logan Naccarato |
 | 126 | 748 | Adrian Marcel Pate |
 | 127 | 745 | JerseyJess |
 | 128 | 744 | Fancy Cascader |
@@ -215,8 +215,8 @@
 | 207 | 480 | Danielle Allison |
 | 208 | 480 | Michael Johnson |
 | 209 | 475 | Tessina Dewey-Mancino |
-| 210 | 473 | Connie Mohler-Fair |
-| 211 | 473 | Rachel |
+| 210 | 473 | Rachel |
+| 211 | 473 | Connie Mohler-Fair |
 | 212 | 471 | Mendoza Lee Christy |
 | 213 | 467 | Sherry Ogden |
 | 214 | 467 | Edwin Calvillo Jr. |
@@ -286,8 +286,8 @@
 | 278 | 353 | Dee Franklin |
 | 279 | 353 | Cyd061769 |
 | 280 | 352 | Christian Werndl |
-| 281 | 351 | Eon Harris |
-| 282 | 351 | Blocked |
+| 281 | 351 | Blocked |
+| 282 | 351 | Eon Harris |
 | 283 | 350 | LaShey Thompson |
 | 284 | 349 | Amanda J. Mcneil-Anderson |
 | 285 | 348 | Ashley Raines |
@@ -459,8 +459,8 @@
 | 451 | 234 | Cheeky Twisterfit |
 | 452 | 233 | Criss |
 | 453 | 233 | Tony Waters |
-| 454 | 232 | Stephanie Hill |
-| 455 | 232 | Melanie Sherwood |
+| 454 | 232 | Melanie Sherwood |
+| 455 | 232 | Stephanie Hill |
 | 456 | 232 | Sunny Tiltgrid |
 | 457 | 231 | Frothy Snapper |
 | 458 | 231 | Giggly Brickroll |
@@ -566,18 +566,18 @@
 | 558 | 191 | lady lua |
 | 559 | 191 | Silver Marchán |
 | 560 | 191 | Morgan Cudo |
-| 561 | 191 | Polopypy |
-| 562 | 191 | Becca Engle |
-| 563 | 191 | Peachy Tower |
+| 561 | 191 | Becca Engle |
+| 562 | 191 | Peachy Tower |
+| 563 | 191 | Polopypy |
 | 564 | 190 | Smiley Zone |
 | 565 | 189 | Jason |
 | 566 | 189 | Wacky Crasher |
-| 567 | 189 | Deseree Ewing |
-| 568 | 189 | Sameerah Smith |
+| 567 | 189 | Sameerah Smith |
+| 568 | 189 | Deseree Ewing |
 | 569 | 188 | Amber Groover Taylor |
 | 570 | 188 | Bree Sexton |
-| 571 | 187 | Kelly Koenig |
-| 572 | 187 | luluraine |
+| 571 | 187 | luluraine |
+| 572 | 187 | Kelly Koenig |
 | 573 | 187 | Crystal Johnson |
 | 574 | 186 | Jack Bo |
 | 575 | 186 | Funky Jumper |

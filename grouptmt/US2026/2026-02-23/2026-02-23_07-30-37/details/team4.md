@@ -61,8 +61,8 @@
 | 53 | 864 | Shelly Chandler |
 | 54 | 863 | Pee |
 | 55 | 853 | TeeJ |
-| 56 | 846 | Christine Marie |
-| 57 | 846 | Lucille Truesdale |
+| 56 | 846 | Lucille Truesdale |
+| 57 | 846 | Christine Marie |
 | 58 | 845 | LisaJo Picken Buchanan |
 | 59 | 834 | quicksand420 |
 | 60 | 815 | Dawn Alexander |
@@ -74,8 +74,8 @@
 | 66 | 781 | Chilly Line |
 | 67 | 767 | Shannon Ferrari |
 | 68 | 766 | Robin Watters |
-| 69 | 765 | Robin Getchel |
-| 70 | 765 | Denise Carlson |
+| 69 | 765 | Denise Carlson |
+| 70 | 765 | Robin Getchel |
 | 71 | 752 | loulou |
 | 72 | 752 | Shane Kalamata Platoon |
 | 73 | 749 | Dustee Craddock-Harrison |
@@ -150,8 +150,8 @@
 | 142 | 423 | Carrie Brian |
 | 143 | 421 | JIGsaw ~(•¿°)~ |
 | 144 | 421 | Kesha Brady |
-| 145 | 418 | Marie-Pier Desjardins |
-| 146 | 418 | Lush Linkfall |
+| 145 | 418 | Lush Linkfall |
+| 146 | 418 | Marie-Pier Desjardins |
 | 147 | 416 | Chaz Duncan |
 | 148 | 414 | Nope Young |
 | 149 | 414 | Swanky Fitline |
@@ -207,8 +207,8 @@
 | 199 | 320 | Lauren Scott |
 | 200 | 318 | Chris Hartig |
 | 201 | 316 | Autumn Kumzi |
-| 202 | 312 | Casey Grabner |
-| 203 | 312 | Dihcheese444 |
+| 202 | 312 | Dihcheese444 |
+| 203 | 312 | Casey Grabner |
 | 204 | 311 | Mary Ann Pabukis |
 | 205 | 310 | Holly Jolly |
 | 206 | 307 | Cheery Risebuilder |
@@ -235,8 +235,8 @@
 | 227 | 286 | Steph Marie |
 | 228 | 285 | 030Synner |
 | 229 | 284 | Mimi |
-| 230 | 282 | Kim Klutz Olson |
-| 231 | 282 | Matt Gooder |
+| 230 | 282 | Matt Gooder |
+| 231 | 282 | Kim Klutz Olson |
 | 232 | 281 | Laura |
 | 233 | 280 | Rio Rocha |
 | 234 | 279 | Malakai Darien Fox |
@@ -245,8 +245,8 @@
 | 237 | 276 | Matt Dell'Olio |
 | 238 | 276 | Joeliecea Cobb |
 | 239 | 273 | Cranky Rollpiece |
-| 240 | 272 | Carlos Ramirez |
-| 241 | 272 | Dennis Bradley |
+| 240 | 272 | Dennis Bradley |
+| 241 | 272 | Carlos Ramirez |
 | 242 | 272 | Alan George LaRage |
 | 243 | 271 | Holly |
 | 244 | 270 | Jen Caldwell |
@@ -269,9 +269,9 @@
 | 261 | 259 | John Brunetti |
 | 262 | 259 | Montiette Mcglown |
 | 263 | 257 | PeaceOs |
-| 264 | 256 | Brittany Marsh |
-| 265 | 256 | Jade Rian |
-| 266 | 256 | Metsfan |
+| 264 | 256 | Jade Rian |
+| 265 | 256 | Metsfan |
+| 266 | 256 | Brittany Marsh |
 | 267 | 253 | Autum Leigh |
 | 268 | 251 | Carol Ricks Raymond |
 | 269 | 249 | Ak Jones |
@@ -708,8 +708,8 @@
 | 700 | 97 | Cheery Lift |
 | 701 | 97 | Frisky Matchgrid |
 | 702 | 97 | Shanon James |
-| 703 | 97 | Cheery Lift |
-| 704 | 96 | RobinC |
+| 703 | 97 | Rick SJ |
+| 704 | 96 | Quirky Puzzler |
 | 705 | 96 | Christy |
 | 706 | 96 | KanVus |
 | 707 | 96 | RobinC |

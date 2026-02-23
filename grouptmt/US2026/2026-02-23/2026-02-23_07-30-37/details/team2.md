@@ -302,8 +302,8 @@
 | 294 | 996 | Ashie Ann |
 | 295 | 987 | Osun Anuket Esu |
 | 296 | 984 | Crystal Hoffman |
-| 297 | 979 | Hillary Crawford |
-| 298 | 979 | Melissa Penelope Ann Dodge |
+| 297 | 979 | Melissa Penelope Ann Dodge |
+| 298 | 979 | Hillary Crawford |
 | 299 | 978 | April Dawn Gussler |
 | 300 | 976 | Della Hole |
 | 301 | 976 | Sam Joe |
@@ -582,8 +582,8 @@
 | 574 | 589 | Kelly Templeton |
 | 575 | 588 | Kitybox |
 | 576 | 587 | Ben Barkley |
-| 577 | 585 | Jessica Lamb |
-| 578 | 585 | Sarah Berger |
+| 577 | 585 | Sarah Berger |
+| 578 | 585 | Jessica Lamb |
 | 579 | 584 | Daniell Martinez |
 | 580 | 583 | AISlop |
 | 581 | 582 | Ebony Deloach Bryant |
