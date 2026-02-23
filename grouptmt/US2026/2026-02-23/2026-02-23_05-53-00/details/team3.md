@@ -111,8 +111,8 @@
 | 103 | 868 | Sarajane Lokan |
 | 104 | 866 | Ebony West-Cundiff |
 | 105 | 860 | Sunny Rotater |
-| 106 | 851 | Jd Morris |
-| 107 | 851 | Danielle Becker |
+| 106 | 851 | Danielle Becker |
+| 107 | 851 | Jd Morris |
 | 108 | 850 | Danielle Mogg |
 | 109 | 848 | Patricia Gadsden |
 | 110 | 831 | Angeline Joseph |
@@ -125,8 +125,8 @@
 | 117 | 769 | Kristie |
 | 118 | 764 | Groovy Catcher |
 | 119 | 762 | Speedy Bridger |
-| 120 | 752 | Logan Naccarato |
-| 121 | 752 | Raya |
+| 120 | 752 | Raya |
+| 121 | 752 | Logan Naccarato |
 | 122 | 748 | Adrian Marcel Pate |
 | 123 | 745 | JerseyJess |
 | 124 | 744 | Leah Barnett |
@@ -267,8 +267,8 @@
 | 259 | 368 | Sheila M Frazier |
 | 260 | 368 | Stephanie Woods |
 | 261 | 367 | Kristin Delibac Corrigan |
-| 262 | 366 | Randy Clevenger |
-| 263 | 366 | Gumbo |
+| 262 | 366 | Gumbo |
+| 263 | 366 | Randy Clevenger |
 | 264 | 365 | Noyb Adam |
 | 265 | 364 | Steffi Chris Dacones |
 | 266 | 362 | Brandon Givens |
@@ -287,8 +287,8 @@
 | 279 | 347 | Tye Stovall |
 | 280 | 346 | Tamara Deherrera |
 | 281 | 345 | gremicx |
-| 282 | 343 | Ashley Rufus Bythcez |
-| 283 | 343 | Ashley Raines |
+| 282 | 343 | Ashley Raines |
+| 283 | 343 | Ashley Rufus Bythcez |
 | 284 | 341 | Ashley Tookes |
 | 285 | 340 | KayB |
 | 286 | 339 | Cynthia Herrmann Egland |

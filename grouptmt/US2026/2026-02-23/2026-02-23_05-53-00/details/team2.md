@@ -211,8 +211,8 @@
 | 203 | 1282 | Tanya Parsons |
 | 204 | 1282 | Ashley Rose Frederick |
 | 205 | 1259 | Foxxo |
-| 206 | 1258 | Snappy Matchbuilder |
-| 207 | 1258 | Joyce Johnson Vaughn |
+| 206 | 1258 | Joyce Johnson Vaughn |
+| 207 | 1258 | Snappy Matchbuilder |
 | 208 | 1252 | Angel |
 | 209 | 1245 | Cody Nishimura |
 | 210 | 1237 | Megan Ferguson Leone |
@@ -368,13 +368,13 @@
 | 360 | 831 | Christina Lewis-Vickers |
 | 361 | 830 | Diallo Sparkman |
 | 362 | 829 | Jessica Wayne Cornwall |
-| 363 | 824 | Danielle Johnson-Chandler |
-| 364 | 824 | Khalil Lowe |
+| 363 | 824 | Khalil Lowe |
+| 364 | 824 | Danielle Johnson-Chandler |
 | 365 | 823 | Alezandra Smith |
 | 366 | 822 | Lola Contreras |
 | 367 | 821 | Angie Bolton Workman |
-| 368 | 821 | Cassie Mercer |
-| 369 | 821 | Arkei Luster |
+| 368 | 821 | Arkei Luster |
+| 369 | 821 | Cassie Mercer |
 | 370 | 818 | Lisa Ongtowasruk |
 | 371 | 816 | James Simms III |
 | 372 | 816 | Beth |
@@ -992,8 +992,8 @@
 | 984 | 364 | Jamie Willis |
 | 985 | 363 | Tammy Mitchell |
 | 986 | 362 | Dione |
-| 987 | 361 | Tosa Puvapiromquan |
-| 988 | 361 | Mike73 |
+| 987 | 361 | Mike73 |
+| 988 | 361 | Tosa Puvapiromquan |
 | 989 | 359 | Toni Lynn |
 | 990 | 359 | Mary Boss |
 | 991 | 358 | Kiorah Blaze |
@@ -1274,8 +1274,8 @@
 | 1266 | 286 | Casaundra Little-Abeling |
 | 1267 | 286 | Wacky Cascade |
 | 1268 | 285 | Sharon Crawford |
-| 1269 | 285 | Kimberly Bickling |
-| 1270 | 285 | Shay Moore |
+| 1269 | 285 | Shay Moore |
+| 1270 | 285 | Kimberly Bickling |
 | 1271 | 284 | STLBatman |
 | 1272 | 284 | Amandacolle |
 | 1273 | 284 | Layna Lyons |

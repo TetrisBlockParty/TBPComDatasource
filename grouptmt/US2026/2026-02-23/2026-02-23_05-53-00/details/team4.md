@@ -68,8 +68,8 @@
 | 60 | 807 | Rachel Anne |
 | 61 | 803 | Amelpss |
 | 62 | 788 | Julian Garcia |
-| 63 | 781 | Ashley Ingram |
-| 64 | 781 | Chilly Line |
+| 63 | 781 | Chilly Line |
+| 64 | 781 | Ashley Ingram |
 | 65 | 767 | Shannon Ferrari |
 | 66 | 766 | Edward White |
 | 67 | 766 | Robin Watters |
@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | KM8 |
-| 93 | 647 | Shauna Havard |
+| 92 | 647 | Shauna Havard |
+| 93 | 647 | KM8 |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -137,8 +137,8 @@
 | 129 | 458 | Twisty Clicky |
 | 130 | 451 | Peachy Fall |
 | 131 | 448 | Kristin Manee |
-| 132 | 435 | Leslie Thomas |
-| 133 | 435 | Kristina Black |
+| 132 | 435 | Kristina Black |
+| 133 | 435 | Leslie Thomas |
 | 134 | 432 | Zippy Block |
 | 135 | 431 | Courtney Cicoria |
 | 136 | 426 | 🥔🥔 Spudz |
@@ -234,8 +234,8 @@
 | 226 | 281 | Laura |
 | 227 | 278 | Sarah Brown |
 | 228 | 278 | Angela Geist Jusinski |
-| 229 | 276 | Joeliecea Cobb |
-| 230 | 276 | Matt Dell'Olio |
+| 229 | 276 | Matt Dell'Olio |
+| 230 | 276 | Joeliecea Cobb |
 | 231 | 274 | JPW |
 | 232 | 273 | Casey Grabner |
 | 233 | 272 | Alan George LaRage |
@@ -269,9 +269,9 @@
 | 261 | 251 | Carol Ricks Raymond |
 | 262 | 249 | Ak Jones |
 | 263 | 249 | Nick Gray |
-| 264 | 248 | Chirpy Basepiece |
-| 265 | 248 | Brittany Marsh |
-| 266 | 248 | Jose Dejesus |
+| 264 | 248 | Jose Dejesus |
+| 265 | 248 | Chirpy Basepiece |
+| 266 | 248 | Brittany Marsh |
 | 267 | 245 | 23 |
 | 268 | 244 | Christina Black |
 | 269 | 244 | Elizabeth Tinoco |
