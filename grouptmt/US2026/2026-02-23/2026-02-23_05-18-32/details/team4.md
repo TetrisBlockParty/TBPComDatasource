@@ -87,8 +87,8 @@
 | 79 | 703 | Savannah Overdorf |
 | 80 | 697 | Alyssa Papen |
 | 81 | 696 | Shane Kalamata Platoon |
-| 82 | 684 | Jonathan Kimbrough |
-| 83 | 684 | Kimyatta Cavin |
+| 82 | 684 | Kimyatta Cavin |
+| 83 | 684 | Jonathan Kimbrough |
 | 84 | 677 | Trista Leah |
 | 85 | 673 | Jacqueline Helm |
 | 86 | 670 | Destiney Carter |
@@ -156,8 +156,8 @@
 | 148 | 399 | Swanky Fitline |
 | 149 | 398 | Tyler Terrific |
 | 150 | 397 | Livvy |
-| 151 | 393 | Carlton Unfiltered |
-| 152 | 393 | Girl |
+| 151 | 393 | Girl |
+| 152 | 393 | Carlton Unfiltered |
 | 153 | 391 | Ramel Rhodes |
 | 154 | 389 | Joseph Guthrie |
 | 155 | 387 | Lucas J Sutton |
@@ -182,8 +182,8 @@
 | 174 | 349 | Rafael Valentin |
 | 175 | 349 | Twisty Cascadezone |
 | 176 | 348 | April Rondinone |
-| 177 | 347 | Daria Rycewicz |
-| 178 | 347 | Crystal Nicolette Moore |
+| 177 | 347 | Crystal Nicolette Moore |
+| 178 | 347 | Daria Rycewicz |
 | 179 | 339 | David Lay |
 | 180 | 337 | Andy Cabral |
 | 181 | 334 | Kris Bartlett |
@@ -504,9 +504,9 @@
 | 496 | 140 | Shiny Fit |
 | 497 | 139 | Ann G. Carrillo |
 | 498 | 139 | Angie Schmidt |
-| 499 | 138 | Lynn Marie |
-| 500 | 138 | Shiny Pivoty |
-| 501 | 138 | Hasty Fitzone |
+| 499 | 138 | Shiny Pivoty |
+| 500 | 138 | Hasty Fitzone |
+| 501 | 138 | Lynn Marie |
 | 502 | 137 | April Spoelma |
 | 503 | 137 | Brianna Walker |
 | 504 | 136 | Tabitha Calvin |
@@ -596,8 +596,8 @@
 | 588 | 114 | tipsy tiger |
 | 589 | 113 | Hog Crankin |
 | 590 | 113 | Lilya Troutman |
-| 591 | 113 | Hog Crankin |
-| 592 | 113 | Abigail Murphy |
+| 591 | 113 | Abigail Murphy |
+| 592 | 113 | Serena Butter |
 | 593 | 112 | Brad Campbell |
 | 594 | 112 | Verna Neal |
 | 595 | 112 | Jazzy Slamdrop |

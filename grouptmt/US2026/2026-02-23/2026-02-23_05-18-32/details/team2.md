@@ -44,8 +44,8 @@
 | 36 | 4199 | Claire Noland |
 | 37 | 4128 | Angela Pruitt |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Kristen Sceurman |
-| 40 | 4120 | Corrine Hawks Soriano |
+| 39 | 4120 | Corrine Hawks Soriano |
+| 40 | 4120 | Kristen Sceurman |
 | 41 | 3813 | Devin Lee |
 | 42 | 3778 | Brittany Alicia |
 | 43 | 3736 | Alisha |
@@ -62,8 +62,8 @@
 | 54 | 3359 | jayjay |
 | 55 | 3321 | Kelly Crook |
 | 56 | 3289 | Jennifer Peachey |
-| 57 | 3288 | YiFei |
-| 58 | 3288 | Maegan Beaule |
+| 57 | 3288 | Maegan Beaule |
+| 58 | 3288 | YiFei |
 | 59 | 3265 | Melinda Brown |
 | 60 | 3241 | Dineisha Carpenter |
 | 61 | 3203 | Sam McKenzie |
@@ -218,12 +218,12 @@
 | 210 | 1232 | Groovy Puzzle |
 | 211 | 1232 | Ambyre Patterson |
 | 212 | 1230 | Megan Garrick |
-| 213 | 1217 | Lucky Ladybug |
-| 214 | 1217 | Brooks Brooks |
+| 213 | 1217 | Brooks Brooks |
+| 214 | 1217 | Lucky Ladybug |
 | 215 | 1214 | David Cudicio-Hayden |
 | 216 | 1210 | Jane Fong |
-| 217 | 1205 | Tony Lea |
-| 218 | 1205 | Tralonda Weeks |
+| 217 | 1205 | Tralonda Weeks |
+| 218 | 1205 | Tony Lea |
 | 219 | 1202 | Brandon Armstrong |
 | 220 | 1198 | Carrie Trigg |
 | 221 | 1198 | Pacynthia Williams |
@@ -295,8 +295,8 @@
 | 287 | 987 | Osun Anuket Esu |
 | 288 | 984 | Crystal Hoffman |
 | 289 | 981 | Ashlen Dorrell |
-| 290 | 979 | Melissa Penelope Ann Dodge |
-| 291 | 979 | Hillary Crawford |
+| 290 | 979 | Hillary Crawford |
+| 291 | 979 | Melissa Penelope Ann Dodge |
 | 292 | 978 | April Dawn Gussler |
 | 293 | 976 | Sam Joe |
 | 294 | 976 | Della Hole |
@@ -404,8 +404,8 @@
 | 396 | 769 | Kimberly Hope Howell |
 | 397 | 768 | Joshua Self |
 | 398 | 767 | Ashley Lopez |
-| 399 | 763 | Heather Causey |
-| 400 | 763 | Dreamy Blast |
+| 399 | 763 | Dreamy Blast |
+| 400 | 763 | Heather Causey |
 | 401 | 760 | Cheech Dta |
 | 402 | 760 | Ashley Guernsey-Martin |
 | 403 | 760 | Andrew Willis |
@@ -902,8 +902,8 @@
 | 894 | 391 | Poppy Gridder |
 | 895 | 390 | Smiley Strike |
 | 896 | 390 | MauroPRM |
-| 897 | 390 | Tasia Stinson |
-| 898 | 390 | Aireka Roman |
+| 897 | 390 | Aireka Roman |
+| 898 | 390 | Tasia Stinson |
 | 899 | 390 | Sonya Back |
 | 900 | 389 | Denisse Avilez |
 | 901 | 389 | Loony Basepiece |

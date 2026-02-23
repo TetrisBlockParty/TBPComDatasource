@@ -156,8 +156,8 @@
 | 148 | 376 | Death |
 | 149 | 376 | Brian Richardsson |
 | 150 | 375 | Tanya Carpenter-Reynolds |
-| 151 | 371 | Jason Savage |
-| 152 | 371 | Basment Living |
+| 151 | 371 | Basment Living |
+| 152 | 371 | Jason Savage |
 | 153 | 368 | Amanda Johnson Huffman |
 | 154 | 367 | Sharon Reynolds |
 | 155 | 366 | J.F. Fields |
@@ -182,13 +182,13 @@
 | 174 | 341 | Nick R Montague |
 | 175 | 339 | Nicole Roseberry Weber |
 | 176 | 338 | Jennifer Hardman |
-| 177 | 337 | Jamise Brown |
-| 178 | 337 | Constance Risner |
+| 177 | 337 | Constance Risner |
+| 178 | 337 | Jamise Brown |
 | 179 | 336 | Dizzy Party |
 | 180 | 333 | Gracie |
 | 181 | 332 | Lehrin Maria |
-| 182 | 325 | Tyler Werts |
-| 183 | 325 | GringaLinga |
+| 182 | 325 | GringaLinga |
+| 183 | 325 | Tyler Werts |
 | 184 | 324 | Rat666 |
 | 185 | 323 | Madison Wicks |
 | 186 | 322 | Letson Melissa |
@@ -344,8 +344,8 @@
 | 336 | 199 | Tina Englert |
 | 337 | 198 | Gary Gobin |
 | 338 | 198 | Marci Sanders |
-| 339 | 197 | Larry Tilton |
-| 340 | 197 | Cool Towerzone |
+| 339 | 197 | Cool Towerzone |
+| 340 | 197 | Larry Tilton |
 | 341 | 196 | Steph |
 | 342 | 196 | Jessica Russell |
 | 343 | 195 | Herm Junior |

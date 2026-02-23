@@ -205,8 +205,8 @@
 | 197 | 489 | Terry Jo Jones |
 | 198 | 488 | Melissa Orth Hunter |
 | 199 | 485 | Dapper Snap |
-| 200 | 480 | Michael Johnson |
-| 201 | 480 | Danielle Allison |
+| 200 | 480 | Danielle Allison |
+| 201 | 480 | Michael Johnson |
 | 202 | 475 | Tessina Dewey-Mancino |
 | 203 | 473 | Rachel |
 | 204 | 471 | Connie Mohler-Fair |
