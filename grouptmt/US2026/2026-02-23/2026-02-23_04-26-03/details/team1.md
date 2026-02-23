@@ -125,8 +125,8 @@
 | 117 | 440 | Stephanie Zahn |
 | 118 | 439 | Dee Perry |
 | 119 | 436 | Tonya Beasley |
-| 120 | 434 | Ty Brown |
-| 121 | 434 | Yvonne Marie |
+| 120 | 434 | Yvonne Marie |
+| 121 | 434 | Ty Brown |
 | 122 | 431 | Chirpy Smasher |
 | 123 | 428 | Ly Phethmany |
 | 124 | 426 | Maria C. Hernandez |
@@ -239,8 +239,8 @@
 | 231 | 267 | Daring Fitclear |
 | 232 | 265 | Kandae |
 | 233 | 264 | Jenny Gingrich Fuentes |
-| 234 | 263 | Jessie Lynn |
-| 235 | 263 | Perky Shiftsnap |
+| 234 | 263 | Perky Shiftsnap |
+| 235 | 263 | Jessie Lynn |
 | 236 | 261 | John J. Cronin |
 | 237 | 260 | Marianita Garcia |
 | 238 | 260 | Lacy Wolfe |
@@ -311,8 +311,8 @@
 | 303 | 215 | Alenoush Karimian |
 | 304 | 215 | Christina Norman |
 | 305 | 213 | John Barron |
-| 306 | 213 | Itspaigebro |
-| 307 | 213 | Poppy Riserpiece |
+| 306 | 213 | Poppy Riserpiece |
+| 307 | 213 | Itspaigebro |
 | 308 | 212 | Michelle Beres |
 | 309 | 211 | Teri Oehlke |
 | 310 | 210 | Timothy Danaher |

@@ -73,8 +73,8 @@
 | 65 | 767 | Shannon Ferrari |
 | 66 | 766 | Robin Watters |
 | 67 | 766 | Edward White |
-| 68 | 765 | Denise Carlson |
-| 69 | 765 | Robin Getchel |
+| 68 | 765 | Robin Getchel |
+| 69 | 765 | Denise Carlson |
 | 70 | 752 | loulou |
 | 71 | 749 | Dustee Craddock-Harrison |
 | 72 | 742 | Carolyn Wallace |
@@ -86,8 +86,8 @@
 | 78 | 706 | Lisa Davis |
 | 79 | 703 | Savannah Overdorf |
 | 80 | 697 | Alyssa Papen |
-| 81 | 684 | Kimyatta Cavin |
-| 82 | 684 | Jonathan Kimbrough |
+| 81 | 684 | Jonathan Kimbrough |
+| 82 | 684 | Kimyatta Cavin |
 | 83 | 677 | Trista Leah |
 | 84 | 673 | Jacqueline Helm |
 | 85 | 672 | Shane Kalamata Platoon |
@@ -135,12 +135,12 @@
 | 127 | 458 | Twisty Clicky |
 | 128 | 451 | Peachy Fall |
 | 129 | 448 | Kristin Manee |
-| 130 | 435 | Kristina Black |
-| 131 | 435 | Leslie Thomas |
+| 130 | 435 | Leslie Thomas |
+| 131 | 435 | Kristina Black |
 | 132 | 431 | Courtney Cicoria |
 | 133 | 425 | Monica Daley |
-| 134 | 421 | Kesha Brady |
-| 135 | 421 | JIGsaw ~(•¿°)~ |
+| 134 | 421 | JIGsaw ~(•¿°)~ |
+| 135 | 421 | Kesha Brady |
 | 136 | 419 | Klo |
 | 137 | 418 | Marie-Pier Desjardins |
 | 138 | 418 | Lush Linkfall |
@@ -195,8 +195,8 @@
 | 187 | 321 | Bio Nelly |
 | 188 | 321 | Meagan Nicole |
 | 189 | 320 | Lauren Scott |
-| 190 | 318 | Chris Bernstein |
-| 191 | 318 | Chris Hartig |
+| 190 | 318 | Chris Hartig |
+| 191 | 318 | Chris Bernstein |
 | 192 | 314 | Andy Cabral |
 | 193 | 313 | Zippy Block |
 | 194 | 310 | Holly Jolly |
@@ -214,7 +214,7 @@
 | 206 | 294 | Calvin Cannon |
 | 207 | 294 | Porkobello |
 | 208 | 292 | Epic Curvetile |
-| 209 | 290 | Keshia Lyons |
+| 209 | 290 | Plucky Patternblock |
 | 210 | 290 | Jared Gutwein |
 | 211 | 290 | Keshia Lyons |
 | 212 | 288 | Brittney Orengo |
@@ -223,21 +223,21 @@
 | 215 | 288 | Adam Stephanie Parker |
 | 216 | 286 | Sam Bishop |
 | 217 | 284 | Mimi |
-| 218 | 282 | Matt Gooder |
-| 219 | 282 | Kim Klutz Olson |
-| 220 | 281 | Laura |
-| 221 | 281 | Nikki Rae Gordon |
-| 222 | 278 | Sarah Brown |
-| 223 | 278 | Angela Geist Jusinski |
-| 224 | 276 | Matt Dell'Olio |
-| 225 | 276 | Joeliecea Cobb |
+| 218 | 282 | Kim Klutz Olson |
+| 219 | 282 | Matt Gooder |
+| 220 | 281 | Nikki Rae Gordon |
+| 221 | 281 | Laura |
+| 222 | 278 | Angela Geist Jusinski |
+| 223 | 278 | Sarah Brown |
+| 224 | 276 | Joeliecea Cobb |
+| 225 | 276 | Matt Dell'Olio |
 | 226 | 273 | Casey Grabner |
 | 227 | 272 | Alan George LaRage |
 | 228 | 272 | Dennis Bradley |
 | 229 | 272 | Carlos Ramirez |
 | 230 | 271 | Holly |
-| 231 | 270 | Jen Caldwell |
-| 232 | 270 | Juls |
+| 231 | 270 | Juls |
+| 232 | 270 | Jen Caldwell |
 | 233 | 266 | Mr. Party |
 | 234 | 265 | Sarah Neathery |
 | 235 | 265 | Silly SeaWeed |
@@ -246,8 +246,8 @@
 | 238 | 262 | BigSammy420 |
 | 239 | 262 | Selena Shaw |
 | 240 | 260 | Carter Jones |
-| 241 | 259 | Montiette Mcglown |
-| 242 | 259 | Allen Lloyd |
+| 241 | 259 | Allen Lloyd |
+| 242 | 259 | Montiette Mcglown |
 | 243 | 257 | PeaceOs |
 | 244 | 256 | Metsfan |
 | 245 | 256 | Mylo Lipscomb |
@@ -256,8 +256,8 @@
 | 248 | 252 | John Brunetti |
 | 249 | 251 | Carol Ricks Raymond |
 | 250 | 249 | Ak Jones |
-| 251 | 248 | Jose Dejesus |
-| 252 | 248 | Chirpy Basepiece |
+| 251 | 248 | Chirpy Basepiece |
+| 252 | 248 | Jose Dejesus |
 | 253 | 247 | Nick Gray |
 | 254 | 245 | 23 |
 | 255 | 245 | rebel4lyfe |

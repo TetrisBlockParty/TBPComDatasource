@@ -117,8 +117,8 @@
 | 109 | 831 | Angeline Joseph |
 | 110 | 830 | Stephanie Allmon |
 | 111 | 826 | Shane Wilson Jr. |
-| 112 | 816 | Jesse Olive |
-| 113 | 816 | Brenda Lee Vander Molen |
+| 112 | 816 | Brenda Lee Vander Molen |
+| 113 | 816 | Jesse Olive |
 | 114 | 800 | Lauren Girouard |
 | 115 | 799 | Dolores Falco |
 | 116 | 769 | Kristie |
@@ -234,8 +234,8 @@
 | 226 | 408 | Tiffany Ford |
 | 227 | 404 | Chasity |
 | 228 | 404 | Kristal C Lee |
-| 229 | 403 | Scott Lindsay |
-| 230 | 403 | Denita Mungro |
+| 229 | 403 | Denita Mungro |
+| 230 | 403 | Scott Lindsay |
 | 231 | 399 | Rebecca Funderburk Kirby |
 | 232 | 391 | Scott Carleton |
 | 233 | 391 | RickyG |

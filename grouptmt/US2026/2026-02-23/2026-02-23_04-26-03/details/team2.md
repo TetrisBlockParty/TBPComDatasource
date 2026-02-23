@@ -136,8 +136,8 @@
 | 128 | 1769 | Katrina Williams Balmir |
 | 129 | 1749 | Auntie B |
 | 130 | 1728 | Mr. Street Stack |
-| 131 | 1681 | Nett |
-| 132 | 1681 | Shandrica Lowe |
+| 131 | 1681 | Shandrica Lowe |
+| 132 | 1681 | Nett |
 | 133 | 1658 | Liberty |
 | 134 | 1656 | Kristopher Miller |
 | 135 | 1644 | Luna |
@@ -212,16 +212,16 @@
 | 204 | 1245 | Cody Nishimura |
 | 205 | 1243 | Anna Edwards |
 | 206 | 1237 | Megan Ferguson Leone |
-| 207 | 1232 | Groovy Puzzle |
-| 208 | 1232 | Ambyre Patterson |
+| 207 | 1232 | Ambyre Patterson |
+| 208 | 1232 | Groovy Puzzle |
 | 209 | 1230 | Megan Garrick |
 | 210 | 1217 | Lucky Ladybug |
 | 211 | 1217 | Brooks Brooks |
 | 212 | 1214 | David Cudicio-Hayden |
 | 213 | 1213 | Foxxo |
 | 214 | 1210 | Jane Fong |
-| 215 | 1205 | Tralonda Weeks |
-| 216 | 1205 | Tony Lea |
+| 215 | 1205 | Tony Lea |
+| 216 | 1205 | Tralonda Weeks |
 | 217 | 1198 | Carrie Trigg |
 | 218 | 1197 | Ricardo Burton |
 | 219 | 1192 | Denisha Dawkins |
@@ -286,8 +286,8 @@
 | 278 | 1011 | Teresa Gillmore |
 | 279 | 1007 | Missie Lawson Gebhardt |
 | 280 | 1003 | Andrea Maher |
-| 281 | 998 | Shelley Thornburgh Wright |
-| 282 | 998 | Keri Womack |
+| 281 | 998 | Keri Womack |
+| 282 | 998 | Shelley Thornburgh Wright |
 | 283 | 996 | Ashie Ann |
 | 284 | 987 | Osun Anuket Esu |
 | 285 | 984 | Crystal Hoffman |
@@ -382,8 +382,8 @@
 | 374 | 799 | Joy LaJeunesse |
 | 375 | 796 | Amber Gray |
 | 376 | 793 | Heather Schelkopf |
-| 377 | 793 | Ashley Dow |
-| 378 | 793 | Arlene Joy Belicina |
+| 377 | 793 | Arlene Joy Belicina |
+| 378 | 793 | Ashley Dow |
 | 379 | 793 | Jaycee |
 | 380 | 790 | Brenda Pierpoint |
 | 381 | 788 | Erika Densmore |
@@ -518,8 +518,8 @@
 | 510 | 621 | Taren Cowan |
 | 511 | 620 | Brenna Ann |
 | 512 | 618 | Vanessa Moreno |
-| 513 | 617 | Kacee Conrad Bock |
-| 514 | 617 | Darcy Mae |
+| 513 | 617 | Darcy Mae |
+| 514 | 617 | Kacee Conrad Bock |
 | 515 | 616 | Lylymom |
 | 516 | 615 | Lyndi Robinson Wakefield |
 | 517 | 615 | Julio A Laracuente |
@@ -724,14 +724,14 @@
 | 716 | 464 | Saucy Fitzone |
 | 717 | 463 | Jaye EL Hunter |
 | 718 | 462 | Darla Silva |
-| 719 | 462 | Kia Humphery |
-| 720 | 462 | Samantha Scibelli |
+| 719 | 462 | Samantha Scibelli |
+| 720 | 462 | Kia Humphery |
 | 721 | 461 | Kristen O'Neal |
 | 722 | 461 | Amanda West |
 | 723 | 460 | LaWanda Powell |
 | 724 | 459 | Shyenn Gadsby |
-| 725 | 459 | Pocho Zavala |
-| 726 | 459 | Jessica Lamb |
+| 725 | 459 | Jessica Lamb |
+| 726 | 459 | Pocho Zavala |
 | 727 | 458 | Shea Edison |
 | 728 | 456 | ItsJennifer Neriss |
 | 729 | 456 | Sabrina Burton |
@@ -805,8 +805,8 @@
 | 797 | 419 | Josh Dill |
 | 798 | 419 | Erin Reid |
 | 799 | 418 | Bold Brickster |
-| 800 | 417 | Rebecca Garland |
-| 801 | 417 | Tristan Szolek |
+| 800 | 417 | Tristan Szolek |
+| 801 | 417 | Rebecca Garland |
 | 802 | 417 | Janai Vrabel |
 | 803 | 417 | Mandy Kachenmeister |
 | 804 | 416 | Veronics |
