@@ -310,14 +310,14 @@
 | 302 | 301 | Brave Wrecker |
 | 303 | 300 | Giggly Builderline |
 | 304 | 299 | LD1 |
-| 305 | 298 | Sweetts |
-| 306 | 298 | Kimberly Davis |
+| 305 | 298 | Kimberly Davis |
+| 306 | 298 | Sweetts |
 | 307 | 297 | Diane Byrd |
 | 308 | 294 | Chummy Rollblock |
 | 309 | 294 | Наталья Солоид |
 | 310 | 293 | Garrett Burket |
-| 311 | 292 | Clever Cascadepiece |
-| 312 | 292 | Damian Salem |
+| 311 | 292 | Damian Salem |
+| 312 | 292 | Clever Cascadepiece |
 | 313 | 291 | Sir-Franchise Drake |
 | 314 | 291 | Michael Espinosa Ulibarri Jr. |
 | 315 | 290 | Tavia |

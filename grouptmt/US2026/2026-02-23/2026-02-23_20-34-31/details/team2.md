@@ -202,8 +202,8 @@
 | 194 | 1601 | Ray Ray Prado |
 | 195 | 1600 | Mo Shine On |
 | 196 | 1592 | Dolores Russworn |
-| 197 | 1590 | Amy Sayers |
-| 198 | 1590 | Jaycee |
+| 197 | 1590 | Jaycee |
+| 198 | 1590 | Amy Sayers |
 | 199 | 1585 | Glitzy Stackzone |
 | 200 | 1580 | Sally Dennis |
 | 201 | 1569 | Ashley Dow |
@@ -229,7 +229,7 @@
 | 221 | 1451 | Anna Edwards |
 | 222 | 1450 | Christine Egidio Morocco |
 | 223 | 1450 | Shiny Rollzone |
-| 224 | 1450 | Christine Egidio Morocco |
+| 224 | 1418 | Poppy Snap |
 | 225 | 1418 | L3sli3 |
 | 226 | 1408 | Becca Widmer |
 | 227 | 1405 | Joyce Johnson Vaughn |
@@ -293,22 +293,22 @@
 | 285 | 1221 | Diallo Sparkman |
 | 286 | 1221 | Jane Fong |
 | 287 | 1217 | Brooks Brooks |
-| 288 | 1216 | Pacynthia Williams |
-| 289 | 1216 | Catina Hutchison |
+| 288 | 1216 | Catina Hutchison |
+| 289 | 1216 | Pacynthia Williams |
 | 290 | 1214 | David Cudicio-Hayden |
 | 291 | 1211 | Ricardo Burton |
 | 292 | 1191 | Jess Morrison |
 | 293 | 1184 | Jamie Otero |
 | 294 | 1179 | Georgia Triblett |
 | 295 | 1178 | Dimitra Zazara |
-| 296 | 1172 | Stacey Clement |
-| 297 | 1172 | Lakeysha Dortch |
+| 296 | 1172 | Lakeysha Dortch |
+| 297 | 1172 | Stacey Clement |
 | 298 | 1171 | Loretta Brewer-Gage |
 | 299 | 1164 | Amber Brion |
 | 300 | 1163 | Erika Densmore |
 | 301 | 1158 | Brittany Clark |
-| 302 | 1156 | Arkei Luster |
-| 303 | 1156 | Alezandra Smith |
+| 302 | 1156 | Alezandra Smith |
+| 303 | 1156 | Arkei Luster |
 | 304 | 1154 | Rebecca Miller |
 | 305 | 1145 | Deborah Miller |
 | 306 | 1142 | April Dawn Gussler |
@@ -362,14 +362,14 @@
 | 354 | 1040 | Taylor Phillips |
 | 355 | 1038 | Sheronda Jackson |
 | 356 | 1037 | Jessica Wayne Cornwall |
-| 357 | 1036 | Allison Lockyer |
-| 358 | 1036 | Amber Shoemaker |
+| 357 | 1036 | Amber Shoemaker |
+| 358 | 1036 | Allison Lockyer |
 | 359 | 1029 | Crystal Hoffman |
 | 360 | 1028 | Ericka Marie Smith |
 | 361 | 1026 | Joshua Mandel |
 | 362 | 1024 | Susan Perraut Jones |
-| 363 | 1020 | Tinishia Amie |
-| 364 | 1020 | Andrea Maher |
+| 363 | 1020 | Andrea Maher |
+| 364 | 1020 | Tinishia Amie |
 | 365 | 1015 | Dapper Dasher |
 | 366 | 1014 | Keri Womack |
 | 367 | 1011 | Teresa Gillmore |
@@ -383,8 +383,8 @@
 | 375 | 982 | Crystie Hicks |
 | 376 | 978 | Barry Britt |
 | 377 | 976 | Sam Joe |
-| 378 | 975 | Hyper Cluster |
-| 379 | 975 | Mandi Douglas Hilt |
+| 378 | 975 | Mandi Douglas Hilt |
+| 379 | 975 | Hyper Cluster |
 | 380 | 974 | Boldy Cascadepiece |
 | 381 | 971 | Jojo Momma |
 | 382 | 971 | Tiara Elizabeth Baker |
@@ -469,14 +469,14 @@
 | 461 | 843 | Quirky Twistline |
 | 462 | 840 | Kiana Boschh |
 | 463 | 840 | Traci Johnson |
-| 464 | 840 | Kiana Boschh |
-| 465 | 836 | Dennis McLaurin |
+| 464 | 836 | Dennis McLaurin |
+| 465 | 836 | Amber Gray |
 | 466 | 835 | William David Swallow |
 | 467 | 835 | Moni Foxe |
 | 468 | 834 | Montez Mancil |
 | 469 | 833 | Christie |
-| 470 | 832 | Nicole L Morelli |
-| 471 | 832 | Gauri Shrotriya |
+| 470 | 832 | Gauri Shrotriya |
+| 471 | 832 | Nicole L Morelli |
 | 472 | 831 | Gary Stash |
 | 473 | 830 | Sabrina Burton |
 | 474 | 828 | Connie Jimenez |
@@ -625,8 +625,8 @@
 | 617 | 669 | Martina Gabrielle LaPolla |
 | 618 | 668 | Gloria Ininahazwe |
 | 619 | 668 | Jazzy Clusterline |
-| 620 | 666 | Wes Acton |
-| 621 | 666 | Laura Mclean |
+| 620 | 666 | Laura Mclean |
+| 621 | 666 | Wes Acton |
 | 622 | 665 | Zak Dunn |
 | 623 | 663 | Snazzy Basepiece |
 | 624 | 662 | Jennifer Monroe Kelly |
@@ -709,13 +709,13 @@
 | 701 | 605 | Mandi Marie Smith |
 | 702 | 605 | Jermaine Harris |
 | 703 | 604 | Rae Rae |
-| 704 | 603 | Michael Artis |
-| 705 | 603 | Dizzy Zone |
+| 704 | 603 | Dizzy Zone |
+| 705 | 603 | Michael Artis |
 | 706 | 603 | Frank Castle |
 | 707 | 602 | Jedi |
 | 708 | 602 | AsnPryBoy83 |
-| 709 | 601 | Daniel Amos |
-| 710 | 601 | Jessica Lamb |
+| 709 | 601 | Jessica Lamb |
+| 710 | 601 | Daniel Amos |
 | 711 | 598 | Giggly Snap |
 | 712 | 597 | Michelle Sager |
 | 713 | 597 | TJ Nash |
@@ -744,8 +744,8 @@
 | 736 | 581 | Sveta Lana |
 | 737 | 580 | Kristie Wilcox |
 | 738 | 580 | Cheery Matchzone |
-| 739 | 579 | Brianna Cerney |
-| 740 | 579 | Roy Salyer |
+| 739 | 579 | Roy Salyer |
+| 740 | 578 | Brianna Cerney |
 | 741 | 578 | Josh N Corrine |
 | 742 | 576 | ItsJennifer Neriss |
 | 743 | 576 | Leslie Johnson Guinto |
@@ -756,8 +756,8 @@
 | 748 | 572 | Alexandra Lynn |
 | 749 | 570 | Peppy Snapfall |
 | 750 | 570 | Sonya Back |
-| 751 | 569 | Nat |
-| 752 | 569 | Sparkles |
+| 751 | 569 | Sparkles |
+| 752 | 569 | Nat |
 | 753 | 568 | Snippy Rumbler |
 | 754 | 568 | Stacey Tranchida |
 | 755 | 567 | Tracy Cowley |
@@ -770,8 +770,8 @@
 | 762 | 564 | Rackemwillie34 |
 | 763 | 562 | Smiley Strike |
 | 764 | 560 | Crystal Heller Gonzalez |
-| 765 | 560 | Timothy Robert |
-| 766 | 560 | Rose Fx |
+| 765 | 560 | Rose Fx |
+| 766 | 559 | Kevin Luu |
 | 767 | 559 | Alexx Anaya |
 | 768 | 559 | Kaylee McCafferty |
 | 769 | 558 | NanDa Cruzan VI |

@@ -645,8 +645,8 @@
 | 637 | 229 | Frilly Stackzone |
 | 638 | 229 | Slick Sally |
 | 639 | 229 | MizzMonick Smith |
-| 640 | 228 | JoVanna Dobbs |
-| 641 | 228 | Daisy Rocha |
+| 640 | 228 | Daisy Rocha |
+| 641 | 228 | JoVanna Dobbs |
 | 642 | 227 | Meowsa |
 | 643 | 226 | p brewster |
 | 644 | 225 | Sassy Tiler |

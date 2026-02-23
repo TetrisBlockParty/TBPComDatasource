@@ -165,9 +165,9 @@
 | 157 | 512 | Casey Jeffcoat |
 | 158 | 508 | Twisty Clicky |
 | 159 | 507 | Nick Gray |
-| 160 | 504 | Jessica Lynn Cutlip |
-| 161 | 502 | Ellen Durfee |
-| 162 | 501 | Ericca Eldridge |
+| 160 | 502 | Ellen Durfee |
+| 161 | 501 | Ericca Eldridge |
+| 162 | 501 | Jessica Lynn Cutlip |
 | 163 | 498 | Melissa Adams |
 | 164 | 496 | Cindy Looper |
 | 165 | 491 | Jade Rian |
@@ -371,8 +371,8 @@
 | 363 | 257 | Michael Snow |
 | 364 | 257 | ĥuf |
 | 365 | 256 | Jason Bosco |
-| 366 | 256 | Mackenzie Forrester |
-| 367 | 256 | Paige Kittles |
+| 366 | 256 | Paige Kittles |
+| 367 | 256 | Mackenzie Forrester |
 | 368 | 253 | Autum Leigh |
 | 369 | 253 | Chair |
 | 370 | 252 | Maureen Flanigan |
@@ -1249,7 +1249,7 @@
 | 1241 | 50 | KrakaLackin |
 | 1242 | 50 | Digg715 |
 | 1243 | 50 | Chirpy Balancer |
-| 1244 | 50 | Digg715 |
+| 1244 | 50 | Eric Quan |
 | 1245 | 49 | Jeffrey Carl Carter |
 | 1246 | 49 | Snappy Matchbuilder |
 | 1247 | 49 | Perky Shatterer |
