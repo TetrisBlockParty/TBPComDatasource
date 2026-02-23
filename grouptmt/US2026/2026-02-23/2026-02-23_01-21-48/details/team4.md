@@ -254,8 +254,8 @@
 | 246 | 235 | LaDonna LovinmesomeMe Lambert |
 | 247 | 235 | Shainne Brewer |
 | 248 | 233 | Ruben Wheeler |
-| 249 | 232 | Rio Rocha |
-| 250 | 232 | Joanna |
+| 249 | 232 | Joanna |
+| 250 | 232 | Rio Rocha |
 | 251 | 230 | Jade Rian |
 | 252 | 228 | Antony Dwayne Beasley |
 | 253 | 228 | Metsfan |
@@ -451,8 +451,8 @@
 | 443 | 141 | Joshua Cuellar |
 | 444 | 141 | Jumpy Zonepiece |
 | 445 | 140 | Thomas Hettenhaus |
-| 446 | 140 | Hyper Builder |
-| 447 | 140 | Rico |
+| 446 | 140 | Rico |
+| 447 | 140 | Hyper Builder |
 | 448 | 139 | Ann G. Carrillo |
 | 449 | 138 | Hasty Fitzone |
 | 450 | 138 | Janis Brown |

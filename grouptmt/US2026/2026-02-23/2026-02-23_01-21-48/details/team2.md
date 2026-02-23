@@ -356,18 +356,18 @@
 | 348 | 788 | Erika Densmore |
 | 349 | 782 | Beth |
 | 350 | 779 | Kayla |
-| 351 | 777 | Jessicah Myers |
-| 352 | 777 | Tesha Oldaker |
+| 351 | 777 | Tesha Oldaker |
+| 352 | 777 | Jessicah Myers |
 | 353 | 774 | Ashley Dow |
 | 354 | 772 | Danielle Simmons |
 | 355 | 769 | Melissa Cole |
 | 356 | 768 | Joshua Self |
 | 357 | 768 | Arkei Luster |
-| 358 | 767 | Ashley Lopez |
-| 359 | 767 | Fancy Twister |
+| 358 | 767 | Fancy Twister |
+| 359 | 767 | Ashley Lopez |
 | 360 | 765 | Kathryn Townsley |
-| 361 | 763 | Johnny Yeates |
-| 362 | 763 | Dreamy Blast |
+| 361 | 763 | Dreamy Blast |
+| 362 | 763 | Johnny Yeates |
 | 363 | 763 | Heather Causey |
 | 364 | 761 | Hyper Cluster |
 | 365 | 760 | Doowop40 |
@@ -377,8 +377,8 @@
 | 369 | 758 | Stephanie Neuburger |
 | 370 | 758 | Quirky Twistline |
 | 371 | 751 | Loony Snapper |
-| 372 | 748 | Brenda Utphall |
-| 373 | 748 | Stephanie Lumanlan |
+| 372 | 748 | Stephanie Lumanlan |
+| 373 | 748 | Brenda Utphall |
 | 374 | 747 | Kiely Tomaskovich |
 | 375 | 746 | Jerilyn Andrina |
 | 376 | 746 | Leslie Ann Carter |
@@ -470,8 +470,8 @@
 | 462 | 626 | Chab |
 | 463 | 623 | Kimberly Hope Howell |
 | 464 | 621 | Alezandra Smith |
-| 465 | 618 | Vanessa Moreno |
-| 466 | 618 | Caitlyn Blackwell |
+| 465 | 618 | Caitlyn Blackwell |
+| 466 | 618 | Vanessa Moreno |
 | 467 | 617 | Darcy Mae |
 | 468 | 615 | Julio A Laracuente |
 | 469 | 614 | Emilee Burke |
@@ -968,8 +968,8 @@
 | 960 | 328 | BabyBird |
 | 961 | 328 | Brianna Cerney |
 | 962 | 328 | Dee Blokk |
-| 963 | 327 | Persipnei Cuesta |
-| 964 | 327 | Sarah Dean |
+| 963 | 327 | Sarah Dean |
+| 964 | 327 | Persipnei Cuesta |
 | 965 | 327 | Jumpy Gridclear |
 | 966 | 327 | Muhammad |
 | 967 | 326 | Kimmy McKay |
