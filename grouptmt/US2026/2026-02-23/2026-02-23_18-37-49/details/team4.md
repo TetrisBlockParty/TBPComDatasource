@@ -161,8 +161,8 @@
 | 153 | 502 | Ellen Durfee |
 | 154 | 501 | Kim Hunt |
 | 155 | 499 | Ericca Eldridge |
-| 156 | 498 | Melissa Adams |
-| 157 | 498 | Nope Young |
+| 156 | 498 | Nope Young |
+| 157 | 498 | Melissa Adams |
 | 158 | 496 | Jessica Lynn Cutlip |
 | 159 | 492 | Angela Srubar-Norman |
 | 160 | 486 | Swanky Fitline |
@@ -218,8 +218,8 @@
 | 210 | 388 | Calvin Cannon |
 | 211 | 388 | June Hoffman |
 | 212 | 385 | 030Synner |
-| 213 | 383 | blockstar |
-| 214 | 383 | Chris Bernstein |
+| 213 | 383 | Chris Bernstein |
+| 214 | 383 | blockstar |
 | 215 | 381 | Plucky Patternblock |
 | 216 | 380 | Rio Rocha |
 | 217 | 379 | Backoff Recupe |
@@ -357,8 +357,8 @@
 | 349 | 253 | Cool Buildout |
 | 350 | 253 | Chair |
 | 351 | 252 | Maureen Flanigan |
-| 352 | 252 | Dan Wold |
-| 353 | 252 | Gracie Ann Taylor |
+| 352 | 252 | Gracie Ann Taylor |
+| 353 | 252 | Dan Wold |
 | 354 | 251 | Kathy Allen |
 | 355 | 251 | Carol Ricks Raymond |
 | 356 | 250 | Stephme310 |
@@ -375,10 +375,10 @@
 | 367 | 242 | PurpleMoonMa |
 | 368 | 242 | Chaz |
 | 369 | 240 | Tyler Bechtel |
-| 370 | 240 | Perky Patternblock |
-| 371 | 240 | Zany Shatterer |
-| 372 | 239 | Laura Hosford |
-| 373 | 239 | Kevin Bush |
+| 370 | 240 | Zany Shatterer |
+| 371 | 240 | Perky Patternblock |
+| 372 | 239 | Kevin Bush |
+| 373 | 239 | Laura Hosford |
 | 374 | 239 | Jackie Clark |
 | 375 | 239 | Denise B |
 | 376 | 238 | 中山成巳 |
@@ -469,12 +469,12 @@
 | 461 | 195 | Frisky Matchgrid |
 | 462 | 194 | SammieJo Guy |
 | 463 | 194 | Eri Kka |
-| 464 | 194 | Zany Twisterfit |
-| 465 | 194 | Carlos Hernandez |
-| 466 | 194 | ChasingZen |
+| 464 | 194 | ChasingZen |
+| 465 | 194 | Zany Twisterfit |
+| 466 | 194 | Carlos Hernandez |
 | 467 | 193 | Jennifer Brown |
-| 468 | 192 | Jeff Roberts |
-| 469 | 192 | Rebecca A Rit |
+| 468 | 192 | Rebecca A Rit |
+| 469 | 192 | Jeff Roberts |
 | 470 | 192 | Twisty Risebuilder |
 | 471 | 191 | Earnest Thompson |
 | 472 | 191 | Michael Snow |

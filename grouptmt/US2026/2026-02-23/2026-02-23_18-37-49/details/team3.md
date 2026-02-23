@@ -179,8 +179,8 @@
 | 171 | 694 | Demetrious Shaw Sr. |
 | 172 | 690 | Patricia White |
 | 173 | 684 | Nicole Myers |
-| 174 | 675 | Angela Scott |
-| 175 | 675 | Edwin Calvillo Jr. |
+| 174 | 675 | Edwin Calvillo Jr. |
+| 175 | 675 | Angela Scott |
 | 176 | 660 | Cranky Gridder |
 | 177 | 657 | Chasity |
 | 178 | 655 | Rochelle Hazelett |
@@ -304,10 +304,10 @@
 | 296 | 414 | RickyG |
 | 297 | 412 | Jojo M |
 | 298 | 411 | Megan Rathmanner |
-| 299 | 410 | Brian Battjes |
-| 300 | 410 | Duane Bright |
-| 301 | 408 | Ashley Muncey |
-| 302 | 408 | Tiffany Ford |
+| 299 | 410 | Duane Bright |
+| 300 | 410 | Brian Battjes |
+| 301 | 408 | Tiffany Ford |
+| 302 | 408 | Ashley Muncey |
 | 303 | 406 | Kristal C Lee |
 | 304 | 405 | Desiree Gold |
 | 305 | 405 | Steffi Chris Dacones |
@@ -525,10 +525,10 @@
 | 517 | 258 | Paul Daniel Quertermous |
 | 518 | 258 | Jolly Brick |
 | 519 | 258 | Jl |
-| 520 | 257 | Jana Polk |
-| 521 | 257 | Saucy Buildout |
-| 522 | 257 | Chris Wallace |
-| 523 | 257 | Rachel Napper |
+| 520 | 257 | Saucy Buildout |
+| 521 | 257 | Jana Polk |
+| 522 | 257 | Rachel Napper |
+| 523 | 257 | Chris Wallace |
 | 524 | 256 | Christina Rotz Shows |
 | 525 | 256 | Brysten Green |
 | 526 | 256 | Crystal Hine |
@@ -824,8 +824,8 @@
 | 816 | 172 | Lexi |
 | 817 | 172 | Nichole Greene |
 | 818 | 172 | Shiny Twisterfit |
-| 819 | 172 | Rebecca Lynn |
-| 820 | 172 | Anastasia Williams |
+| 819 | 172 | Anastasia Williams |
+| 820 | 172 | Rebecca Lynn |
 | 821 | 171 | Moneyvybz |
 | 822 | 171 | Jae Grisham |
 | 823 | 170 | Pizzi |

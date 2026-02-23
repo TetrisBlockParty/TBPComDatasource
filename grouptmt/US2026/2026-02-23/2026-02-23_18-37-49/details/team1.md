@@ -330,15 +330,15 @@
 | 322 | 273 | Test |
 | 323 | 272 | Blaire Bruckoff |
 | 324 | 272 | Barrbaric |
-| 325 | 271 | Robert |
-| 326 | 271 | Patty Lavigne Craddock |
-| 327 | 270 | Brenda Alexander |
-| 328 | 270 | Blake Mckay |
+| 325 | 271 | Patty Lavigne Craddock |
+| 326 | 271 | Robert |
+| 327 | 270 | Blake Mckay |
+| 328 | 270 | Brenda Alexander |
 | 329 | 269 | Flashy Rotator |
-| 330 | 266 | Michelle |
-| 331 | 266 | Thorne Shumate |
-| 332 | 265 | Yahowah |
-| 333 | 265 | Llewej Rekab |
+| 330 | 266 | Thorne Shumate |
+| 331 | 266 | Michelle |
+| 332 | 265 | Llewej Rekab |
+| 333 | 265 | Yahowah |
 | 334 | 264 | Jenny Gingrich Fuentes |
 | 335 | 263 | Nadine Velardo |
 | 336 | 263 | Mighty Shatterfit |

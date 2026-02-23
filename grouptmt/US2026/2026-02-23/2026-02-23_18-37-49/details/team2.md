@@ -778,8 +778,8 @@
 | 770 | 542 | Ethan Stienbarger |
 | 771 | 542 | Jarboe |
 | 772 | 541 | Plucky Matchclear |
-| 773 | 540 | Alexis Richardson |
-| 774 | 540 | Savannah Alexander |
+| 773 | 540 | Savannah Alexander |
+| 774 | 540 | Alexis Richardson |
 | 775 | 538 | Mamachelle Eisweirth |
 | 776 | 537 | Joseph Jones |
 | 777 | 536 | Tanya Duran |
@@ -859,8 +859,8 @@
 | 851 | 501 | Zesty Pivot |
 | 852 | 501 | Jessica Galick |
 | 853 | 500 | Amy Reynolds |
-| 854 | 499 | Besma Ao |
-| 855 | 499 | Danielle DeLozier Plesec |
+| 854 | 499 | Danielle DeLozier Plesec |
+| 855 | 499 | Besma Ao |
 | 856 | 499 | Britney M. |
 | 857 | 498 | Drwatson187 |
 | 858 | 498 | Chummy Blockbuilder |
@@ -880,9 +880,9 @@
 | 872 | 493 | Nate |
 | 873 | 493 | Skyler Morgan |
 | 874 | 492 | Jamie Carter Bierce |
-| 875 | 492 | Bdubb |
-| 876 | 492 | Frisky Patternline |
-| 877 | 491 | Erika Deer Kauffman |
+| 875 | 492 | Frisky Patternline |
+| 876 | 492 | Bdubb |
+| 877 | 491 | Chelsea Gutierrez |
 | 878 | 491 | Lucy Marshall |
 | 879 | 491 | Erika Deer Kauffman |
 | 880 | 490 | Sierra Edwards Lachmanek |
