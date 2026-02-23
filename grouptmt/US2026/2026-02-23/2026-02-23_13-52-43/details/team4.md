@@ -71,8 +71,8 @@
 | 63 | 846 | Lucille Truesdale |
 | 64 | 834 | quicksand420 |
 | 65 | 827 | Avy Absol |
-| 66 | 807 | Amelpss |
-| 67 | 807 | Rachel Anne |
+| 66 | 807 | Rachel Anne |
+| 67 | 807 | Amelpss |
 | 68 | 802 | Crystal Carroll |
 | 69 | 788 | Julian Garcia |
 | 70 | 788 | Chilly Line |
@@ -104,8 +104,8 @@
 | 96 | 659 | Jamie Gustafson |
 | 97 | 653 | Rica Mitchell |
 | 98 | 650 | KJ Pool |
-| 99 | 647 | KM8 |
-| 100 | 647 | Shauna Havard |
+| 99 | 647 | Shauna Havard |
+| 100 | 647 | KM8 |
 | 101 | 637 | Lori Walker |
 | 102 | 635 | Adawna Swires |
 | 103 | 631 | H.R. Block |
@@ -159,8 +159,8 @@
 | 151 | 435 | Kristina Black |
 | 152 | 434 | Lindsey Gonzalez |
 | 153 | 433 | Nick Gray |
-| 154 | 432 | Livvy |
-| 155 | 432 | Zippy Block |
+| 154 | 432 | Zippy Block |
+| 155 | 432 | Livvy |
 | 156 | 431 | Courtney Cicoria |
 | 157 | 429 | Klo |
 | 158 | 428 | Carlos Ramirez |

@@ -29,8 +29,8 @@
 | 21 | 2697 | River |
 | 22 | 2499 | mjl574 |
 | 23 | 2387 | Susan Valentino |
-| 24 | 2353 | Tetris Master |
-| 25 | 2353 | Laura Melton |
+| 24 | 2353 | Laura Melton |
+| 25 | 2353 | Tetris Master |
 | 26 | 2311 | Brandon Green |
 | 27 | 2271 | Jeana Gilbert |
 | 28 | 2235 | Ant Ant |
@@ -81,8 +81,8 @@
 | 73 | 1252 | Gracie |
 | 74 | 1244 | Lori Barnaby |
 | 75 | 1221 | Betty Ivy |
-| 76 | 1213 | Snappy Glidepiece |
-| 77 | 1213 | Nerdy Riseclear |
+| 76 | 1213 | Nerdy Riseclear |
+| 77 | 1213 | Snappy Glidepiece |
 | 78 | 1209 | Amanda Adkins |
 | 79 | 1186 | Christian A. Pollard |
 | 80 | 1134 | Denise Nardoni |
@@ -119,8 +119,8 @@
 | 111 | 869 | Araceli Parra |
 | 112 | 868 | Sarajane Lokan |
 | 113 | 860 | Sunny Rotater |
-| 114 | 851 | Jd Morris |
-| 115 | 851 | Danielle Becker |
+| 114 | 851 | Danielle Becker |
+| 115 | 851 | Jd Morris |
 | 116 | 850 | Danielle Mogg |
 | 117 | 848 | Patricia Gadsden |
 | 118 | 839 | Angeline Joseph |
@@ -180,8 +180,8 @@
 | 172 | 602 | Jacqueline Rodriguez |
 | 173 | 599 | opf |
 | 174 | 598 | Makelini Mausia |
-| 175 | 597 | CeceGeGe |
-| 176 | 597 | Diana Ibarra |
+| 175 | 597 | Diana Ibarra |
+| 176 | 597 | CeceGeGe |
 | 177 | 591 | Michael Nowogorski |
 | 178 | 589 | Kaycee Kay |
 | 179 | 587 | Louise Stacy Sisson |
@@ -192,8 +192,8 @@
 | 184 | 574 | Morgan Martinez |
 | 185 | 568 | Rachael McClain Owens |
 | 186 | 566 | LaTanya GeminiondaRise Johnson |
-| 187 | 564 | Christine Trester |
-| 188 | 564 | Poppy Splitter |
+| 187 | 564 | Poppy Splitter |
+| 188 | 564 | Christine Trester |
 | 189 | 563 | Jim Mathews |
 | 190 | 562 | Dave Herzog |
 | 191 | 561 | Elissa S-k |
@@ -314,8 +314,8 @@
 | 306 | 361 | Breanna Marsden |
 | 307 | 360 | Dee Pratt |
 | 308 | 359 | Kelly |
-| 309 | 358 | Heather Davis |
-| 310 | 358 | Roary Danner |
+| 309 | 358 | Roary Danner |
+| 310 | 358 | Heather Davis |
 | 311 | 358 | KayB |
 | 312 | 357 | France Vézina |
 | 313 | 354 | Andrew Thorson |
@@ -324,8 +324,8 @@
 | 316 | 352 | LadyTorad |
 | 317 | 351 | Blocked |
 | 318 | 351 | Eon Harris |
-| 319 | 349 | Amanda J. Mcneil-Anderson |
-| 320 | 349 | Num1hater |
+| 319 | 349 | Num1hater |
+| 320 | 349 | Amanda J. Mcneil-Anderson |
 | 321 | 348 | Ashley Raines |
 | 322 | 346 | Chummy Rumbler |
 | 323 | 345 | gremicx |

@@ -189,8 +189,8 @@
 | 181 | 375 | Connie |
 | 182 | 374 | Howdi Duty |
 | 183 | 372 | Dizzy Party |
-| 184 | 371 | Jason Savage |
-| 185 | 371 | Damon J. Martin |
+| 184 | 371 | Damon J. Martin |
+| 185 | 371 | Jason Savage |
 | 186 | 370 | Timothy Danaher |
 | 187 | 369 | Christy Jones |
 | 188 | 367 | Sharon Reynolds |
@@ -241,8 +241,8 @@
 | 233 | 322 | Letson Melissa |
 | 234 | 321 | Danielle Little-Daugherty |
 | 235 | 319 | Frothy Pattern |
-| 236 | 317 | Sarah Roberts |
-| 237 | 317 | Melissa Lemmon |
+| 236 | 317 | Melissa Lemmon |
+| 237 | 317 | Sarah Roberts |
 | 238 | 316 | Sassy Builderline |
 | 239 | 315 | Mandyy Rae |
 | 240 | 314 | Daring Fitclear |
@@ -291,8 +291,8 @@
 | 283 | 269 | Colleen Pinette |
 | 284 | 268 | Standia Civil |
 | 285 | 268 | Wayne Saunders |
-| 286 | 265 | Flashy Rotator |
-| 287 | 265 | Kandae |
+| 286 | 265 | Kandae |
+| 287 | 265 | Flashy Rotator |
 | 288 | 264 | Jenny Gingrich Fuentes |
 | 289 | 263 | Sunny Shift |
 | 290 | 263 | Nadine Velardo |
