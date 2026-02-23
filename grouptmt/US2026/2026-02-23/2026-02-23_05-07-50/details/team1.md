@@ -177,9 +177,9 @@
 | 169 | 343 | Elaine Elaine |
 | 170 | 343 | Erin Rosberg |
 | 171 | 343 | Chelsea Dahlquist |
-| 172 | 341 | Nick R Montague |
-| 173 | 341 | Shiny Snapfit |
-| 174 | 341 | Christy Jones |
+| 172 | 341 | Christy Jones |
+| 173 | 341 | Nick R Montague |
+| 174 | 341 | Shiny Snapfit |
 | 175 | 339 | Nicole Roseberry Weber |
 | 176 | 338 | Jennifer Hardman |
 | 177 | 337 | Constance Risner |
@@ -192,8 +192,8 @@
 | 184 | 324 | Rat666 |
 | 185 | 323 | Madison Wicks |
 | 186 | 322 | Letson Melissa |
-| 187 | 318 | Virginia Gray Floyd |
-| 188 | 318 | Jessica Sheehan |
+| 187 | 318 | Jessica Sheehan |
+| 188 | 318 | Virginia Gray Floyd |
 | 189 | 317 | Sarah Roberts |
 | 190 | 316 | Reesey Enyart |
 | 191 | 315 | Danielle Little-Daugherty |
@@ -326,11 +326,11 @@
 | 318 | 208 | Donna Addison Williams |
 | 319 | 208 | Andrew Boone |
 | 320 | 207 | Leslie Bush Yarbrough |
-| 321 | 207 | Fresno Beotoni |
-| 322 | 207 | Katie Martin |
+| 321 | 207 | Katie Martin |
+| 322 | 207 | Fresno Beotoni |
 | 323 | 205 | Agustin Duarte Orozco |
 | 324 | 205 | build master |
-| 325 | 204 | Beau Galvan |
+| 325 | 204 | Chris Sigurdson |
 | 326 | 204 | .running. |
 | 327 | 204 | LD1 |
 | 328 | 204 | Beau Galvan |

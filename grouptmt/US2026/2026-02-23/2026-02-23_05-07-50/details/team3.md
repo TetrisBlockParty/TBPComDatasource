@@ -166,8 +166,8 @@
 | 158 | 591 | Michael Nowogorski |
 | 159 | 588 | Justin Ritter |
 | 160 | 587 | Louise Stacy Sisson |
-| 161 | 585 | Annie Marie |
-| 162 | 585 | Happy Tetriblast |
+| 161 | 585 | Happy Tetriblast |
+| 162 | 585 | Annie Marie |
 | 163 | 582 | Natasha Jones |
 | 164 | 579 | Tasha Gillespie |
 | 165 | 577 | Domo Washington |
@@ -254,8 +254,8 @@
 | 246 | 377 | Charles Perrone |
 | 247 | 374 | Rania Zaqout |
 | 248 | 373 | Chummy Caster |
-| 249 | 372 | Rich LeBlanc |
-| 250 | 372 | Sarah Moyer |
+| 249 | 372 | Sarah Moyer |
+| 250 | 372 | Rich LeBlanc |
 | 251 | 371 | Marquita Sheard |
 | 252 | 371 | block chick |
 | 253 | 369 | Keis |
@@ -273,8 +273,8 @@
 | 265 | 357 | Stephanie Burtin |
 | 266 | 354 | Kelly |
 | 267 | 353 | Dee Franklin |
-| 268 | 352 | Samantha Lynn |
-| 269 | 352 | Christian Werndl |
+| 268 | 352 | Christian Werndl |
+| 269 | 352 | Samantha Lynn |
 | 270 | 351 | Eon Harris |
 | 271 | 350 | LaShey Thompson |
 | 272 | 349 | Amanda J. Mcneil-Anderson |
@@ -380,8 +380,8 @@
 | 372 | 266 | Quirky Dropzone |
 | 373 | 265 | Heather Davis |
 | 374 | 264 | Danielle Beaunoyer Jean |
-| 375 | 263 | Jimmie Clemons |
-| 376 | 263 | Erika Thornton |
+| 375 | 263 | Erika Thornton |
+| 376 | 263 | Jimmie Clemons |
 | 377 | 261 | Jul |
 | 378 | 260 | Alice |
 | 379 | 260 | Tracey Cox |

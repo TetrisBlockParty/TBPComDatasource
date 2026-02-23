@@ -93,8 +93,8 @@
 | 85 | 2515 | Crystalin Heath Lewis |
 | 86 | 2500 | Rosemadder |
 | 87 | 2438 | Rob Surace |
-| 88 | 2428 | Thomas Hughes |
-| 89 | 2428 | Deanna Morton |
+| 88 | 2428 | Deanna Morton |
+| 89 | 2428 | Thomas Hughes |
 | 90 | 2410 | RdRydnHd |
 | 91 | 2400 | Rich Sullivan |
 | 92 | 2375 | Megan Peckham |
@@ -434,8 +434,8 @@
 | 426 | 731 | Charvi' Carter |
 | 427 | 730 | Hoppy Brickmatch |
 | 428 | 729 | goofinoff |
-| 429 | 728 | Tom Riefer |
-| 430 | 728 | Dylan Thomason |
+| 429 | 728 | Dylan Thomason |
+| 430 | 728 | Tom Riefer |
 | 431 | 726 | Crystal Greene |
 | 432 | 725 | Ronnie Nelson |
 | 433 | 725 | Vonceial Boone |
@@ -1209,8 +1209,8 @@
 | 1201 | 296 | Chilly Linkfall |
 | 1202 | 296 | Crafty Blockmatch |
 | 1203 | 295 | Fae-Bulous |
-| 1204 | 295 | Dapper Setter |
-| 1205 | 295 | Emmmz |
+| 1204 | 295 | Emmmz |
+| 1205 | 295 | Dapper Setter |
 | 1206 | 294 | Tammy Coppoletta |
 | 1207 | 294 | Shannon Jackson |
 | 1208 | 294 | Marcie McLain Dodd |

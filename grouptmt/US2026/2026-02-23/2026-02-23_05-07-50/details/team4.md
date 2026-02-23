@@ -57,8 +57,8 @@
 | 49 | 863 | Pee |
 | 50 | 855 | Marvin Lou Martin |
 | 51 | 853 | TeeJ |
-| 52 | 846 | Lucille Truesdale |
-| 53 | 846 | Christine Marie |
+| 52 | 846 | Christine Marie |
+| 53 | 846 | Lucille Truesdale |
 | 54 | 845 | LisaJo Picken Buchanan |
 | 55 | 843 | Shelly Chandler |
 | 56 | 841 | Anthony Bryan Riva |
@@ -71,10 +71,10 @@
 | 63 | 776 | Rachel Anne |
 | 64 | 775 | Ashley Ingram |
 | 65 | 767 | Shannon Ferrari |
-| 66 | 766 | Edward White |
-| 67 | 766 | Robin Watters |
-| 68 | 765 | Robin Getchel |
-| 69 | 765 | Denise Carlson |
+| 66 | 766 | Robin Watters |
+| 67 | 766 | Edward White |
+| 68 | 765 | Denise Carlson |
+| 69 | 765 | Robin Getchel |
 | 70 | 752 | loulou |
 | 71 | 749 | Dustee Craddock-Harrison |
 | 72 | 742 | Carolyn Wallace |
@@ -87,8 +87,8 @@
 | 79 | 703 | Savannah Overdorf |
 | 80 | 697 | Alyssa Papen |
 | 81 | 696 | Shane Kalamata Platoon |
-| 82 | 684 | Kimyatta Cavin |
-| 83 | 684 | Jonathan Kimbrough |
+| 82 | 684 | Jonathan Kimbrough |
+| 83 | 684 | Kimyatta Cavin |
 | 84 | 677 | Trista Leah |
 | 85 | 673 | Jacqueline Helm |
 | 86 | 670 | Destiney Carter |
@@ -172,8 +172,8 @@
 | 164 | 368 | Silly Zonebuilder |
 | 165 | 368 | Raegan Lane-Ross |
 | 166 | 365 | Jeff Brian Gates |
-| 167 | 361 | Danielle Kollias |
-| 168 | 361 | Melissa Adams |
+| 167 | 361 | Melissa Adams |
+| 168 | 361 | Danielle Kollias |
 | 169 | 359 | Keith Kelley |
 | 170 | 358 | A5! |
 | 171 | 356 | George Nutt |
@@ -212,8 +212,8 @@
 | 204 | 300 | Dana Scott |
 | 205 | 300 | Zakia Monae |
 | 206 | 295 | Keshia Lyons |
-| 207 | 294 | Porkobello |
-| 208 | 294 | Calvin Cannon |
+| 207 | 294 | Calvin Cannon |
+| 208 | 294 | Porkobello |
 | 209 | 292 | Epic Curvetile |
 | 210 | 290 | Jared Gutwein |
 | 211 | 290 | Plucky Patternblock |
@@ -237,12 +237,12 @@
 | 229 | 272 | Alan George LaRage |
 | 230 | 272 | Dennis Bradley |
 | 231 | 271 | Holly |
-| 232 | 270 | Jen Caldwell |
-| 233 | 270 | Juls |
+| 232 | 270 | Juls |
+| 233 | 270 | Jen Caldwell |
 | 234 | 267 | JPW |
 | 235 | 266 | Mr. Party |
-| 236 | 265 | Sarah Neathery |
-| 237 | 265 | Silly SeaWeed |
+| 236 | 265 | Silly SeaWeed |
+| 237 | 265 | Sarah Neathery |
 | 238 | 264 | Stella |
 | 239 | 262 | Selena Shaw |
 | 240 | 262 | BigSammy420 |
