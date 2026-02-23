@@ -366,8 +366,8 @@
 | 358 | 250 | BigWeenie69 |
 | 359 | 248 | Matt Iaccheo |
 | 360 | 246 | Norma Paredez |
-| 361 | 245 | LC |
-| 362 | 245 | .running. |
+| 361 | 245 | .running. |
+| 362 | 245 | LC |
 | 363 | 244 | Sarah Marie |
 | 364 | 244 | Teresa |
 | 365 | 243 | Bouncy Grid |
@@ -440,18 +440,18 @@
 | 432 | 209 | Breanna Luna |
 | 433 | 208 | Andrew Boone |
 | 434 | 208 | Donna Addison Williams |
-| 435 | 207 | Leslie Bush Yarbrough |
-| 436 | 207 | Fresno Beotoni |
-| 437 | 205 | Elizabeth Kubli |
-| 438 | 205 | build master |
+| 435 | 207 | Fresno Beotoni |
+| 436 | 207 | Leslie Bush Yarbrough |
+| 437 | 205 | build master |
+| 438 | 205 | Elizabeth Kubli |
 | 439 | 204 | Cranky Pattern |
 | 440 | 203 | Krie |
 | 441 | 203 | Amie Fields |
 | 442 | 203 | ash |
 | 443 | 201 | Tedashi |
-| 444 | 200 | Renata Mabie |
+| 444 | 200 | Alphonza Keyes Jr. |
 | 445 | 200 | Jason Cox |
-| 446 | 200 | Alphonza Keyes Jr. |
+| 446 | 200 | Renata Mabie |
 | 447 | 199 | Tina Englert |
 | 448 | 198 | Marci Sanders |
 | 449 | 198 | Larry Oaks |

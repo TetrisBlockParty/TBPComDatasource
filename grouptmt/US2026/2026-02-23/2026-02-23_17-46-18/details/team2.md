@@ -256,8 +256,8 @@
 | 248 | 1259 | Foxxo |
 | 249 | 1258 | Brandon Armstrong |
 | 250 | 1258 | Eric Carlson |
-| 251 | 1257 | Megan Ferguson Leone |
-| 252 | 1257 | Megan Garrick |
+| 251 | 1257 | Megan Garrick |
+| 252 | 1257 | Megan Ferguson Leone |
 | 253 | 1256 | Missie Lawson Gebhardt |
 | 254 | 1253 | Roman Lavochnik |
 | 255 | 1241 | Jennifer Casey-Kay |
@@ -415,8 +415,8 @@
 | 407 | 881 | Aireka Roman |
 | 408 | 880 | Arlene Joy Belicina |
 | 409 | 879 | Leslie Ann Carter |
-| 410 | 877 | Misti Markijohn |
-| 411 | 877 | Bubbly Snapfit |
+| 410 | 877 | Bubbly Snapfit |
+| 411 | 877 | Misti Markijohn |
 | 412 | 876 | Jessicah Myers |
 | 413 | 872 | Ashle Scranton |
 | 414 | 870 | Joy LaJeunesse |
@@ -433,8 +433,8 @@
 | 425 | 844 | Terri McKelvey McKinley |
 | 426 | 843 | Quirky Twistline |
 | 427 | 841 | AgileDragon |
-| 428 | 840 | Traci Johnson |
-| 429 | 840 | Kiana Boschh |
+| 428 | 840 | Kiana Boschh |
+| 429 | 840 | Traci Johnson |
 | 430 | 836 | KhaosLord |
 | 431 | 835 | Moni Foxe |
 | 432 | 834 | Montez Mancil |
@@ -442,8 +442,8 @@
 | 434 | 833 | Dennis McLaurin |
 | 435 | 832 | Nicole L Morelli |
 | 436 | 830 | Smashanator |
-| 437 | 830 | Sabrina Burton |
-| 438 | 830 | Christina Walker |
+| 437 | 830 | Christina Walker |
+| 438 | 830 | Sabrina Burton |
 | 439 | 829 | ToShi |
 | 440 | 828 | Kimmy Newman |
 | 441 | 825 | Jeremy Parodi |
