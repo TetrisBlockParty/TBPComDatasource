@@ -48,8 +48,8 @@
 | 40 | 1094 | Hyp James NObettadanluvarat |
 | 41 | 1081 | Bhelle Sumile |
 | 42 | 1058 | Jorge Andrade |
-| 43 | 1032 | Cheeky Twistslam |
-| 44 | 1032 | Kathi Snustad |
+| 43 | 1032 | Kathi Snustad |
+| 44 | 1032 | Cheeky Twistslam |
 | 45 | 1027 | Robert Beck |
 | 46 | 1012 | Kristen Gideon |
 | 47 | 966 | Shalene Frederick Autrey |
@@ -83,8 +83,8 @@
 | 75 | 703 | Angel Fowler |
 | 76 | 689 | Susanna Guerry |
 | 77 | 679 | Hasbro Bros |
-| 78 | 657 | Tee Sheree |
-| 79 | 657 | Cynthia Bradley |
+| 78 | 657 | Cynthia Bradley |
+| 79 | 657 | Tee Sheree |
 | 80 | 655 | Brenda Stewart |
 | 81 | 647 | Jason Jones |
 | 82 | 645 | Robert Benito |
@@ -98,8 +98,8 @@
 | 90 | 575 | Nancy Green |
 | 91 | 570 | Cody Slav |
 | 92 | 562 | Denice Dee |
-| 93 | 534 | Loony Fitzone |
-| 94 | 534 | Veronica Eve |
+| 93 | 534 | Veronica Eve |
+| 94 | 534 | Loony Fitzone |
 | 95 | 529 | Ryan Lunnin |
 | 96 | 522 | Sarah Lombardo |
 | 97 | 511 | Mario Cab |
@@ -112,8 +112,8 @@
 | 104 | 493 | Jennifer ManWarren |
 | 105 | 492 | Ash Galvan |
 | 106 | 491 | cc |
-| 107 | 489 | April Carroll |
-| 108 | 489 | Deanna L Hermanson |
+| 107 | 489 | Deanna L Hermanson |
+| 108 | 489 | April Carroll |
 | 109 | 483 | Tdub |
 | 110 | 483 | Trina Gee |
 | 111 | 480 | Ty Brown |
@@ -209,8 +209,8 @@
 | 201 | 317 | Kimberly Garcia |
 | 202 | 316 | Reesey Enyart |
 | 203 | 315 | Danielle Little-Daugherty |
-| 204 | 314 | Tana |
-| 205 | 314 | Snippy Wipebuilder |
+| 204 | 314 | Snippy Wipebuilder |
+| 205 | 314 | Tana |
 | 206 | 312 | Jessi Sauer |
 | 207 | 310 | Bloknboy |
 | 208 | 308 | Speedy Liney |
@@ -251,8 +251,8 @@
 | 243 | 272 | Barrbaric |
 | 244 | 272 | Tawnya Peltonen |
 | 245 | 271 | Frothy Pattern |
-| 246 | 270 | Brenda Alexander |
-| 247 | 270 | Debbie Kane |
+| 246 | 270 | Debbie Kane |
+| 247 | 270 | Brenda Alexander |
 | 248 | 268 | Standia Civil |
 | 249 | 267 | Eric DeSimone |
 | 250 | 267 | Daring Fitclear |
@@ -352,11 +352,11 @@
 | 344 | 207 | Leslie Bush Yarbrough |
 | 345 | 207 | Fresno Beotoni |
 | 346 | 207 | Ric Hard Hernandez |
-| 347 | 207 | Fresno Beotoni |
+| 347 | 207 | Katie Martin |
 | 348 | 205 | build master |
 | 349 | 205 | Agustin Duarte Orozco |
-| 350 | 204 | Cranky Pattern |
-| 351 | 204 | LD1 |
+| 350 | 204 | LD1 |
+| 351 | 204 | Cranky Pattern |
 | 352 | 203 | Rebekah LeiAnn Bonsell |
 | 353 | 202 | Krie |
 | 354 | 202 | Amber Dee |

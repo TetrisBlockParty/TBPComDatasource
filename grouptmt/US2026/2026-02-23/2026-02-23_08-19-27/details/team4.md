@@ -26,8 +26,8 @@
 | 18 | 1636 | Cassie Michaux |
 | 19 | 1565 | GreenJeepGirl |
 | 20 | 1558 | Leah Gorsuch |
-| 21 | 1536 | Roger Coulter |
-| 22 | 1536 | Misty Hollibaugh |
+| 21 | 1536 | Misty Hollibaugh |
+| 22 | 1536 | Roger Coulter |
 | 23 | 1485 | Juggalo |
 | 24 | 1390 | Sammy Noguera |
 | 25 | 1382 | Tammi Crnza |
@@ -76,8 +76,8 @@
 | 68 | 766 | Robin Watters |
 | 69 | 765 | Robin Getchel |
 | 70 | 765 | Denise Carlson |
-| 71 | 752 | loulou |
-| 72 | 752 | Shane Kalamata Platoon |
+| 71 | 752 | Shane Kalamata Platoon |
+| 72 | 752 | loulou |
 | 73 | 749 | Dustee Craddock-Harrison |
 | 74 | 742 | Carolyn Wallace |
 | 75 | 740 | Avy Absol |
@@ -156,8 +156,8 @@
 | 148 | 418 | Marie-Pier Desjardins |
 | 149 | 418 | Lush Linkfall |
 | 150 | 416 | Chaz Duncan |
-| 151 | 414 | Nope Young |
-| 152 | 414 | Swanky Fitline |
+| 151 | 414 | Swanky Fitline |
+| 152 | 414 | Nope Young |
 | 153 | 413 | Circuit8 |
 | 154 | 412 | Jessica Bohlken |
 | 155 | 408 | Amanda Pauldo-Ivy |
@@ -326,8 +326,8 @@
 | 318 | 216 | mike |
 | 319 | 216 | Chantilly Laace |
 | 320 | 215 | Stephme310 |
-| 321 | 214 | Patron Anderson |
-| 322 | 214 | Stacey Stano |
+| 321 | 214 | Stacey Stano |
+| 322 | 214 | Patron Anderson |
 | 323 | 213 | Jackie Marie |
 | 324 | 212 | Brave Spinbuilder |
 | 325 | 212 | Mike Solo |
