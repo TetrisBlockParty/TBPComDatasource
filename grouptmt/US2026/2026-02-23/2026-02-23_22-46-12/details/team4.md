@@ -96,8 +96,8 @@
 | 88 | 783 | Guy Incognito |
 | 89 | 783 | Denise Carlson |
 | 90 | 775 | Klo |
-| 91 | 768 | Judy Cox |
-| 92 | 768 | Trista Leah |
+| 91 | 768 | Trista Leah |
+| 92 | 768 | Judy Cox |
 | 93 | 767 | Shannon Ferrari |
 | 94 | 766 | Robin Watters |
 | 95 | 764 | Valerie Roberts |
@@ -265,11 +265,11 @@
 | 257 | 363 | TRCuse |
 | 258 | 363 | KimoKoala |
 | 259 | 361 | Danielle Kollias |
-| 260 | 360 | Ari Droff |
-| 261 | 360 | James Hurley Jr. |
+| 260 | 360 | James Hurley Jr. |
+| 261 | 360 | Ari Droff |
 | 262 | 358 | Twisty Cascadezone |
-| 263 | 356 | Joeliecea Cobb |
-| 264 | 356 | mike |
+| 263 | 356 | mike |
+| 264 | 356 | Joeliecea Cobb |
 | 265 | 355 | David Lay |
 | 266 | 353 | Chaz |
 | 267 | 352 | scott |
@@ -324,10 +324,10 @@
 | 316 | 292 | Aden Moss |
 | 317 | 291 | Dizzy Matchzone |
 | 318 | 291 | Brittney Orengo |
-| 319 | 290 | Neirrah B Olailjeel |
-| 320 | 290 | Jared Gutwein |
-| 321 | 289 | Lazy Glidepiece |
-| 322 | 289 | Juls |
+| 319 | 290 | Jared Gutwein |
+| 320 | 290 | Neirrah B Olailjeel |
+| 321 | 289 | Juls |
+| 322 | 289 | Lazy Glidepiece |
 | 323 | 289 | Deb Rubeck |
 | 324 | 288 | Jumpy Zonepiece |
 | 325 | 288 | Amy Jean |
@@ -466,8 +466,8 @@
 | 458 | 218 | Janita Parrish |
 | 459 | 218 | Thomas Hettenhaus |
 | 460 | 218 | Allison Rose |
-| 461 | 217 | Cheery Fitline |
-| 462 | 217 | Dorian |
+| 461 | 217 | Dorian |
+| 462 | 217 | Cheery Fitline |
 | 463 | 216 | Ryry |
 | 464 | 215 | Squeezy Pearsall |
 | 465 | 215 | Tanya Abernathy Jackson |
@@ -484,10 +484,10 @@
 | 476 | 209 | Snippy Puzzle |
 | 477 | 209 | Calvin Dennis |
 | 478 | 208 | Stacy |
-| 479 | 208 | Wacky Blockclear |
-| 480 | 208 | Moonsterix |
-| 481 | 207 | Jessica Wells |
-| 482 | 207 | Sam Middleton |
+| 479 | 208 | Moonsterix |
+| 480 | 208 | Wacky Blockclear |
+| 481 | 207 | Sam Middleton |
+| 482 | 207 | Jessica Wells |
 | 483 | 207 | SammieJo Guy |
 | 484 | 206 | Grann8 |
 | 485 | 206 | Globofish |

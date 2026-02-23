@@ -159,8 +159,8 @@
 | 151 | 510 | Timothy Danaher |
 | 152 | 510 | Rat666 |
 | 153 | 501 | Dee Perry |
-| 154 | 497 | Arianna O'Brien |
-| 155 | 497 | MIKOZ |
+| 154 | 497 | MIKOZ |
+| 155 | 497 | Arianna O'Brien |
 | 156 | 495 | Adrian Esteban |
 | 157 | 494 | Sean Stallings |
 | 158 | 492 | Rebekah LeiAnn Bonsell |
@@ -188,8 +188,8 @@
 | 180 | 434 | Yvonne Marie |
 | 181 | 432 | Lori Bales |
 | 182 | 426 | Maria C. Hernandez |
-| 183 | 425 | Tyler Werts |
-| 184 | 425 | Tana |
+| 183 | 425 | Tana |
+| 184 | 425 | Tyler Werts |
 | 185 | 424 | Emily Adelaide Wheatley |
 | 186 | 423 | Elaine Elaine |
 | 187 | 423 | Kimberly Garcia |
@@ -286,8 +286,8 @@
 | 278 | 335 | Flashy Rotator |
 | 279 | 334 | Colleen Pinette |
 | 280 | 334 | Tipsy Builder |
-| 281 | 333 | Rodney Schmerfeld |
-| 282 | 333 | Wayne Saunders |
+| 281 | 333 | Wayne Saunders |
+| 282 | 333 | Rodney Schmerfeld |
 | 283 | 332 | Eddie Dillon |
 | 284 | 330 | Rebecca Apley Mielke |
 | 285 | 330 | Jeremy Maubert |
@@ -314,8 +314,8 @@
 | 306 | 309 | Larry Tilton |
 | 307 | 308 | Glitzy Curvebuilder |
 | 308 | 306 | Cece Ibarra |
-| 309 | 305 | Chase Collinsworth |
-| 310 | 305 | Amh |
+| 309 | 305 | Amh |
+| 310 | 305 | Chase Collinsworth |
 | 311 | 303 | DaRascal |
 | 312 | 302 | LaFontaine Leslie |
 | 313 | 302 | Bird Person |

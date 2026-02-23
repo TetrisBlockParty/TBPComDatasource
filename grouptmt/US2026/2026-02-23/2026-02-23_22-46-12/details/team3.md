@@ -44,8 +44,8 @@
 | 36 | 2097 | Kay |
 | 37 | 2059 | Beelow Bently |
 | 38 | 1992 | Shandrea Crawford |
-| 39 | 1978 | Ashley Kiara |
-| 40 | 1978 | Dan Rob |
+| 39 | 1978 | Dan Rob |
+| 40 | 1978 | Ashley Kiara |
 | 41 | 1949 | Calista Jo Dickson |
 | 42 | 1927 | Delilah belle |
 | 43 | 1919 | Trezure Gonzalez |
@@ -294,8 +294,8 @@
 | 286 | 471 | Mendoza Lee Christy |
 | 287 | 470 | thekey |
 | 288 | 468 | Sarah Moyer |
-| 289 | 464 | Danielle Weikel |
-| 290 | 464 | Noyb Adam |
+| 289 | 464 | Noyb Adam |
+| 290 | 464 | Danielle Weikel |
 | 291 | 462 | Sleepy |
 | 292 | 461 | Tom Nault |
 | 293 | 461 | LaShey Thompson |
@@ -415,8 +415,8 @@
 | 407 | 339 | Michael Lucado |
 | 408 | 338 | Michael Leblanc |
 | 409 | 338 | Troy |
-| 410 | 337 | Maggie |
-| 411 | 337 | AC Yeater |
+| 410 | 337 | AC Yeater |
+| 411 | 337 | Maggie |
 | 412 | 337 | Funky Jumper |
 | 413 | 336 | luluraine |
 | 414 | 334 | Alice |
@@ -575,8 +575,8 @@
 | 567 | 266 | Frothy Snapper |
 | 568 | 266 | Reina Roth |
 | 569 | 265 | Danielle Dani |
-| 570 | 264 | Morgan Cudo |
-| 571 | 264 | Danielle Beaunoyer Jean |
+| 570 | 264 | Danielle Beaunoyer Jean |
+| 571 | 264 | Morgan Cudo |
 | 572 | 264 | Crystal Hine |
 | 573 | 263 | Chilly Pop |
 | 574 | 263 | Paula Little |
