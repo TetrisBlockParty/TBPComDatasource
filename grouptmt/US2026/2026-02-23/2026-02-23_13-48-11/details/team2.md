@@ -677,15 +677,15 @@
 | 669 | 556 | Joice Hansen |
 | 670 | 555 | Frisky Riserbuilder |
 | 671 | 555 | Misty Mitchell |
-| 672 | 554 | Tra Barnum |
-| 673 | 554 | Bubbly Snapfit |
-| 674 | 554 | Party d |
-| 675 | 554 | Laquetta Royston |
-| 676 | 554 | Fi Ne |
-| 677 | 551 | Matt Johnson |
-| 678 | 551 | Cynthia Louann Rose |
-| 679 | 550 | Shorty |
-| 680 | 550 | Michelle Sager |
+| 672 | 554 | Bubbly Snapfit |
+| 673 | 554 | Tra Barnum |
+| 674 | 554 | Laquetta Royston |
+| 675 | 554 | Fi Ne |
+| 676 | 554 | Party d |
+| 677 | 551 | Cynthia Louann Rose |
+| 678 | 551 | Matt Johnson |
+| 679 | 550 | Michelle Sager |
+| 680 | 550 | Shorty |
 | 681 | 549 | Kaylee McCafferty |
 | 682 | 549 | Crystal Hodge Love |
 | 683 | 548 | Sunshine711 |
@@ -718,8 +718,8 @@
 | 710 | 529 | Snazzy Basepiece |
 | 711 | 528 | Kyle LeRoy Harris |
 | 712 | 527 | Ryan Gunther |
-| 713 | 526 | KayLynn Ogden McClelland |
-| 714 | 526 | Dimitra Zazara |
+| 713 | 526 | Dimitra Zazara |
+| 714 | 526 | KayLynn Ogden McClelland |
 | 715 | 525 | Stephanie Fortune |
 | 716 | 525 | Cris cris |
 | 717 | 524 | ruth |

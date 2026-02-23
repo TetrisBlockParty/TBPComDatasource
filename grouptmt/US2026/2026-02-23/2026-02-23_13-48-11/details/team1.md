@@ -189,8 +189,8 @@
 | 181 | 375 | Connie |
 | 182 | 374 | Howdi Duty |
 | 183 | 372 | Dizzy Party |
-| 184 | 371 | Damon J. Martin |
-| 185 | 371 | Jason Savage |
+| 184 | 371 | Jason Savage |
+| 185 | 371 | Damon J. Martin |
 | 186 | 370 | Timothy Danaher |
 | 187 | 369 | Christy Jones |
 | 188 | 367 | Sharon Reynolds |
@@ -215,7 +215,7 @@
 | 207 | 354 | Dino |
 | 208 | 353 | Jaimie Lynn |
 | 209 | 353 | Reesey Enyart |
-| 210 | 353 | Jaimie Lynn |
+| 210 | 353 | Josh Riemer |
 | 211 | 351 | Sean Stallings |
 | 212 | 350 | Tipsy Strikerpiece |
 | 213 | 349 | Cool Shiftsnap |
@@ -241,20 +241,20 @@
 | 233 | 322 | Letson Melissa |
 | 234 | 320 | Danielle Little-Daugherty |
 | 235 | 319 | Frothy Pattern |
-| 236 | 317 | Sarah Roberts |
-| 237 | 317 | Melissa Lemmon |
+| 236 | 317 | Melissa Lemmon |
+| 237 | 317 | Sarah Roberts |
 | 238 | 316 | Sassy Builderline |
 | 239 | 315 | Mandyy Rae |
 | 240 | 314 | Daring Fitclear |
 | 241 | 313 | Sylvia Vasquez |
 | 242 | 313 | Cody Gates |
-| 243 | 312 | Jessi Sauer |
-| 244 | 312 | Mitchel White |
+| 243 | 312 | Mitchel White |
+| 244 | 312 | Jessi Sauer |
 | 245 | 310 | Bloknboy |
 | 246 | 308 | Speedy Liney |
 | 247 | 304 | Plucky Stacky |
-| 248 | 303 | Νεφ Όνυξ |
-| 249 | 303 | DaRascal |
+| 248 | 303 | DaRascal |
+| 249 | 303 | Νεφ Όνυξ |
 | 250 | 301 | John Kim |
 | 251 | 300 | Sleepysloath5745 |
 | 252 | 298 | Sweetts |
@@ -300,9 +300,9 @@
 | 292 | 260 | Marianita Garcia |
 | 293 | 260 | Lacy Wolfe |
 | 294 | 258 | Danielle S Kester |
-| 295 | 256 | Chris Sigurdson |
+| 295 | 256 | Richard Corrado |
 | 296 | 256 | Joe Coon |
-| 297 | 256 | Richard Corrado |
+| 297 | 256 | Chris Sigurdson |
 | 298 | 255 | Giggly Builderline |
 | 299 | 255 | Glitzy Buildsnap |
 | 300 | 255 | Beazel75 |
