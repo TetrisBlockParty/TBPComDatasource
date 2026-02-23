@@ -162,12 +162,12 @@
 | 154 | 341 | Shiny Snapfit |
 | 155 | 341 | Nick R Montague |
 | 156 | 338 | Jennifer Hardman |
-| 157 | 337 | Constance Risner |
-| 158 | 337 | Nicole Roseberry Weber |
+| 157 | 337 | Nicole Roseberry Weber |
+| 158 | 337 | Constance Risner |
 | 159 | 336 | Fmp |
 | 160 | 334 | Jaimie Lynn |
-| 161 | 333 | Gracie |
-| 162 | 333 | GATOR |
+| 161 | 333 | GATOR |
+| 162 | 333 | Gracie |
 | 163 | 332 | Lehrin Maria |
 | 164 | 329 | Rachael |
 | 165 | 325 | Dizzy Party |
@@ -221,8 +221,8 @@
 | 213 | 268 | Reesey Enyart |
 | 214 | 267 | Debbie Kane |
 | 215 | 265 | Kandae |
-| 216 | 264 | Jenny Gingrich Fuentes |
-| 217 | 264 | Standia Civil |
+| 216 | 264 | Standia Civil |
+| 217 | 264 | Jenny Gingrich Fuentes |
 | 218 | 263 | Jessie Lynn |
 | 219 | 261 | John J. Cronin |
 | 220 | 260 | Cheeky Pop |

@@ -271,8 +271,8 @@
 | 263 | 979 | Hillary Crawford |
 | 264 | 976 | Maria Escobar |
 | 265 | 972 | Della Hole |
-| 266 | 972 | Barbra Miller |
-| 267 | 972 | Juliana Marques Do Nascimento Gordy |
+| 266 | 972 | Juliana Marques Do Nascimento Gordy |
+| 267 | 972 | Barbra Miller |
 | 268 | 962 | Crystal Hoffman |
 | 269 | 958 | Brenda Messer |
 | 270 | 957 | Block Master |
