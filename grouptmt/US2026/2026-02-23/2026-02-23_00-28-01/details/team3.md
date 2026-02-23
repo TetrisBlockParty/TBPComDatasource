@@ -97,8 +97,8 @@
 | 89 | 860 | Sunny Rotater |
 | 90 | 849 | Danielle Becker |
 | 91 | 848 | Patricia Gadsden |
-| 92 | 838 | Sarajane Lokan |
-| 93 | 838 | MissTaylor |
+| 92 | 838 | MissTaylor |
+| 93 | 838 | Sarajane Lokan |
 | 94 | 831 | Angeline Joseph |
 | 95 | 830 | Stephanie Allmon |
 | 96 | 829 | Chelsea Hall |
@@ -203,8 +203,8 @@
 | 195 | 432 | Christine Trester |
 | 196 | 432 | Luciana Braganca Vieira |
 | 197 | 431 | Wendy Dearden |
-| 198 | 430 | Joye Sims Binion |
-| 199 | 430 | Jeni Dow |
+| 198 | 430 | Jeni Dow |
+| 199 | 430 | Joye Sims Binion |
 | 200 | 426 | Rochelle Hazelett |
 | 201 | 423 | Tom Nault |
 | 202 | 422 | Fallorina Susana |
@@ -226,8 +226,8 @@
 | 218 | 390 | rosy |
 | 219 | 384 | Marci Mize Fandrich |
 | 220 | 384 | Trisha Balmer |
-| 221 | 383 | Darlene McMillan |
-| 222 | 383 | Nicole Flippo |
+| 221 | 383 | Nicole Flippo |
+| 222 | 383 | Darlene McMillan |
 | 223 | 383 | Heather Green |
 | 224 | 382 | Giddy Twistbuilder |
 | 225 | 382 | Scott Carleton |
@@ -244,8 +244,8 @@
 | 236 | 367 | Connie Mohler-Fair |
 | 237 | 367 | Rebecca Bailey |
 | 238 | 366 | Marquita Sheard |
-| 239 | 365 | Tiffany Ford |
-| 240 | 365 | Chummy Caster |
+| 239 | 365 | Chummy Caster |
+| 240 | 365 | Tiffany Ford |
 | 241 | 362 | Brandon Givens |
 | 242 | 360 | Sheila M Frazier |
 | 243 | 357 | Stephanie Burtin |

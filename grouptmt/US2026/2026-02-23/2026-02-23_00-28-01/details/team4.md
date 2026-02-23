@@ -51,8 +51,8 @@
 | 43 | 908 | Misty Hollibaugh |
 | 44 | 855 | Marvin Lou Martin |
 | 45 | 851 | Jae Job |
-| 46 | 846 | Christine Marie |
-| 47 | 846 | Lucille Truesdale |
+| 46 | 846 | Lucille Truesdale |
+| 47 | 846 | Christine Marie |
 | 48 | 845 | LisaJo Picken Buchanan |
 | 49 | 843 | Shelly Chandler |
 | 50 | 843 | TeeJ |
@@ -111,8 +111,8 @@
 | 103 | 510 | Scott Jameson |
 | 104 | 507 | Alyssa Papen |
 | 105 | 500 | Rodney McMath Jr. |
-| 106 | 499 | Christina LR |
-| 107 | 499 | Trista Leah |
+| 106 | 499 | Trista Leah |
+| 107 | 499 | Christina LR |
 | 108 | 488 | Jen Allison |
 | 109 | 487 | shar |
 | 110 | 483 | Chilly Crasher |
@@ -195,11 +195,11 @@
 | 187 | 292 | Epic Curvetile |
 | 188 | 290 | Keshia Lyons |
 | 189 | 289 | Lindsay Ball |
-| 190 | 288 | Leah Kutz Zirbel |
-| 191 | 288 | Kathy Brookins |
+| 190 | 288 | Kathy Brookins |
+| 191 | 288 | Leah Kutz Zirbel |
 | 192 | 287 | Plucky Patternblock |
-| 193 | 286 | Brittney Orengo |
-| 194 | 286 | Sam Bishop |
+| 193 | 286 | Sam Bishop |
+| 194 | 286 | Brittney Orengo |
 | 195 | 286 | Holly Jolly |
 | 196 | 282 | Sue Joyce Staats |
 | 197 | 282 | Chris Bernstein |
@@ -213,8 +213,8 @@
 | 205 | 272 | Alan George LaRage |
 | 206 | 272 | Dennis Bradley |
 | 207 | 271 | Sarah Brown |
-| 208 | 270 | Juls |
-| 209 | 270 | Jen Caldwell |
+| 208 | 270 | Jen Caldwell |
+| 209 | 270 | Juls |
 | 210 | 269 | Nikki Rae Gordon |
 | 211 | 268 | Mimi |
 | 212 | 268 | Porkobello |

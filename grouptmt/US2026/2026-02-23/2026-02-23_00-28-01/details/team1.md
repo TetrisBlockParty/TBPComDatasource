@@ -144,12 +144,12 @@
 | 136 | 376 | Brian Richardsson |
 | 137 | 368 | Death |
 | 138 | 367 | Sharon Reynolds |
-| 139 | 364 | Shauna Loe |
-| 140 | 364 | Serina Marie |
-| 141 | 361 | Tanya Carpenter-Reynolds |
-| 142 | 361 | Amanda Johnson Huffman |
-| 143 | 360 | Wisa |
-| 144 | 360 | phrmblk24 |
+| 139 | 364 | Serina Marie |
+| 140 | 364 | Shauna Loe |
+| 141 | 361 | Amanda Johnson Huffman |
+| 142 | 361 | Tanya Carpenter-Reynolds |
+| 143 | 360 | phrmblk24 |
+| 144 | 360 | Wisa |
 | 145 | 359 | Chirpy Smasher |
 | 146 | 357 | Jason Savage |
 | 147 | 353 | Josh Riemer |
@@ -240,8 +240,8 @@
 | 232 | 244 | Marianita Garcia |
 | 233 | 242 | ParisandCory Champagne |
 | 234 | 241 | Tyler Hertzog |
-| 235 | 240 | Daring Fitclear |
-| 236 | 240 | DaRascal |
+| 235 | 240 | DaRascal |
+| 236 | 240 | Daring Fitclear |
 | 237 | 239 | Lacy Wolfe |
 | 238 | 238 | Tiffany Smith |
 | 239 | 238 | Sarah Somers Gray |
@@ -298,8 +298,8 @@
 | 290 | 203 | Spunky Builderpiece |
 | 291 | 203 | Andrew Boone |
 | 292 | 202 | Amanda Holibaugh |
-| 293 | 201 | Beau Galvan |
-| 294 | 201 | Colleen Wise |
+| 293 | 201 | Colleen Wise |
+| 294 | 201 | Beau Galvan |
 | 295 | 200 | Silly Align |
 | 296 | 199 | Christina Norman |
 | 297 | 198 | Happy Snapbuild |
