@@ -77,8 +77,8 @@
 | 69 | 1264 | Amanda L Baker |
 | 70 | 1258 | Danielle Cutler |
 | 71 | 1256 | Jessica Bechler |
-| 72 | 1213 | Snappy Glidepiece |
-| 73 | 1213 | Nerdy Riseclear |
+| 72 | 1213 | Nerdy Riseclear |
+| 73 | 1213 | Snappy Glidepiece |
 | 74 | 1209 | Amanda Adkins |
 | 75 | 1186 | Christian A. Pollard |
 | 76 | 1162 | Gracie |
@@ -197,8 +197,8 @@
 | 189 | 548 | Danielle Balcom |
 | 190 | 547 | Staci George Fitzsimmons |
 | 191 | 546 | Cynthia Castros-Hampton |
-| 192 | 546 | Mykal Burton |
-| 193 | 546 | Tasha Schriewer |
+| 192 | 546 | Tasha Schriewer |
+| 193 | 546 | Mykal Burton |
 | 194 | 540 | Shawn Miller |
 | 195 | 531 | Makelini Mausia |
 | 196 | 531 | Chauntee Alfrey-Cardinale |
@@ -259,8 +259,8 @@
 | 251 | 412 | RickyG |
 | 252 | 412 | Jojo M |
 | 253 | 411 | Megan Rathmanner |
-| 254 | 410 | Stephanie Simpson |
-| 255 | 410 | Sabrina Hardrick |
+| 254 | 410 | Sabrina Hardrick |
+| 255 | 410 | Stephanie Simpson |
 | 256 | 410 | Duane Bright |
 | 257 | 408 | Tiffany Ford |
 | 258 | 406 | Kristal C Lee |
@@ -491,8 +491,8 @@
 | 483 | 228 | Dapper Liney |
 | 484 | 227 | Meowsa |
 | 485 | 227 | Snippy Brickster |
-| 486 | 226 | paranoid |
-| 487 | 226 | Ryan Williams |
+| 486 | 226 | Ryan Williams |
+| 487 | 226 | paranoid |
 | 488 | 225 | Sassy Tiler |
 | 489 | 225 | sofaking |
 | 490 | 224 | Sarah Morris |

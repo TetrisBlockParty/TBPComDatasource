@@ -46,8 +46,8 @@
 | 38 | 1140 | Isabella Blanco |
 | 39 | 1121 | Isabel Aguilar |
 | 40 | 1100 | Landon Keith Graffeo |
-| 41 | 1082 | Dawn Alexander |
-| 42 | 1082 | Dion Crommarty |
+| 41 | 1082 | Dion Crommarty |
+| 42 | 1082 | Dawn Alexander |
 | 43 | 1071 | Cherrish Duren |
 | 44 | 1065 | Jae Job |
 | 45 | 1065 | Koshin Abdirahman |
@@ -101,8 +101,8 @@
 | 93 | 659 | Jamie Gustafson |
 | 94 | 653 | Rica Mitchell |
 | 95 | 650 | KJ Pool |
-| 96 | 647 | Shauna Havard |
-| 97 | 647 | KM8 |
+| 96 | 647 | KM8 |
+| 97 | 647 | Shauna Havard |
 | 98 | 646 | Eric Mcgaughy |
 | 99 | 626 | Brittney Griggs |
 | 100 | 618 | Zippy Gridlock |
@@ -127,8 +127,8 @@
 | 119 | 527 | Dizzy Tiley |
 | 120 | 521 | Andy Cabral |
 | 121 | 517 | shar |
-| 122 | 514 | Scott Jameson |
-| 123 | 514 | Serena Goodridge |
+| 122 | 514 | Serena Goodridge |
+| 123 | 514 | Scott Jameson |
 | 124 | 513 | Erin Thomas |
 | 125 | 512 | Casey Jeffcoat |
 | 126 | 512 | Cristy Duerksen |
@@ -160,8 +160,8 @@
 | 152 | 421 | Kesha Brady |
 | 153 | 418 | Marie-Pier Desjardins |
 | 154 | 418 | Lush Linkfall |
-| 155 | 417 | Steph Marie |
-| 156 | 417 | Amanda Pauldo-Ivy |
+| 155 | 417 | Amanda Pauldo-Ivy |
+| 156 | 417 | Steph Marie |
 | 157 | 416 | Chaz Duncan |
 | 158 | 414 | Swanky Fitline |
 | 159 | 414 | Nope Young |
@@ -172,7 +172,7 @@
 | 164 | 402 | Lucas J Sutton |
 | 165 | 398 | Tyler Terrific |
 | 166 | 397 | Nick Gray |
-| 167 | 393 | Brandon Crabbs |
+| 167 | 393 | Carlton Unfiltered |
 | 168 | 393 | Girl |
 | 169 | 393 | Brandon Crabbs |
 | 170 | 391 | Ramel Rhodes |
@@ -222,8 +222,8 @@
 | 214 | 317 | Madison Sweere |
 | 215 | 316 | Autumn Kumzi |
 | 216 | 313 | Milan Markeisha |
-| 217 | 312 | Casey Grabner |
-| 218 | 312 | Dihcheese444 |
+| 217 | 312 | Dihcheese444 |
+| 218 | 312 | Casey Grabner |
 | 219 | 311 | Nikki Rae Gordon |
 | 220 | 311 | Mary Ann Pabukis |
 | 221 | 310 | Holly Jolly |
@@ -374,8 +374,8 @@
 | 366 | 203 | Sticherella |
 | 367 | 203 | Kevin Bush |
 | 368 | 201 | O block |
-| 369 | 198 | Calvin Dennis |
-| 370 | 198 | Mona Sharma |
+| 369 | 198 | Mona Sharma |
+| 370 | 198 | Calvin Dennis |
 | 371 | 197 | Cozy Balancer |
 | 372 | 196 | Maria Hammie |
 | 373 | 196 | Blessedmama |
@@ -476,15 +476,15 @@
 | 468 | 160 | Heather Layne Smith |
 | 469 | 160 | icequeenx |
 | 470 | 159 | Groovy Brickmatch |
-| 471 | 158 | Jen Mattei |
-| 472 | 158 | Jasmine S Caldwell |
+| 471 | 158 | Jasmine S Caldwell |
+| 472 | 158 | Jen Mattei |
 | 473 | 158 | Grann8 |
 | 474 | 157 | David Boggs |
 | 475 | 157 | Ryry |
 | 476 | 157 | LunaMoon |
 | 477 | 156 | Mighty Edgepiece |
-| 478 | 155 | Shirl |
-| 479 | 155 | tipsy tiger |
+| 478 | 155 | tipsy tiger |
+| 479 | 155 | Shirl |
 | 480 | 155 | Faja |
 | 481 | 154 | Bryan Hodgins |
 | 482 | 154 | Vanessa Smart |
@@ -596,7 +596,7 @@
 | 588 | 123 | Lazy Column |
 | 589 | 122 | bloat princess |
 | 590 | 122 | Martha Lucinda Bishop |
-| 591 | 122 | bloat princess |
+| 591 | 122 | Mike Burlingame |
 | 592 | 122 | Mary Therese Benden Cole |
 | 593 | 122 | meowmew |
 | 594 | 121 | Flashy Jumper |
@@ -1271,9 +1271,9 @@
 | 1263 | 40 | James Prickett |
 | 1264 | 40 | Breezy Towerfit |
 | 1265 | 40 | Loopy Risegrid |
-| 1266 | 40 | Michelle Cox |
+| 1266 | 40 | Michelle Abrams |
 | 1267 | 40 | Jason Nellis |
-| 1268 | 40 | Michelle Abrams |
+| 1268 | 40 | Michelle Cox |
 | 1269 | 39 | Kellie Tacuban |
 | 1270 | 39 | Rollinsmokes |
 | 1271 | 39 | Holly Stewart |

@@ -174,8 +174,8 @@
 | 166 | 1581 | Brandy Andre |
 | 167 | 1580 | Sally Dennis |
 | 168 | 1574 | Stephen Stephen |
-| 169 | 1558 | Crystal Slaughter |
-| 170 | 1558 | Tim Dyer |
+| 169 | 1558 | Tim Dyer |
+| 170 | 1558 | Crystal Slaughter |
 | 171 | 1555 | blarg |
 | 172 | 1543 | Amy Sayers |
 | 173 | 1537 | Desiree Harris Rosch |
@@ -226,8 +226,8 @@
 | 218 | 1277 | Snappy Matchbuilder |
 | 219 | 1259 | Foxxo |
 | 220 | 1252 | Angel |
-| 221 | 1245 | Cody Nishimura |
-| 222 | 1245 | Missie Lawson Gebhardt |
+| 221 | 1245 | Missie Lawson Gebhardt |
+| 222 | 1245 | Cody Nishimura |
 | 223 | 1240 | Brandon Armstrong |
 | 224 | 1238 | Groovy Puzzle |
 | 225 | 1237 | Megan Ferguson Leone |
@@ -498,8 +498,8 @@
 | 490 | 700 | Vincent Petrella |
 | 491 | 700 | Beverly Owens |
 | 492 | 699 | Dannette Goldberg-Richards |
-| 493 | 697 | Isabelle Bonneau |
-| 494 | 697 | Gary Stash |
+| 493 | 697 | Gary Stash |
+| 494 | 697 | Isabelle Bonneau |
 | 495 | 697 | Poldo Ilano |
 | 496 | 693 | Ryan Stadel |
 | 497 | 692 | Shaun Church |

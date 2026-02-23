@@ -239,8 +239,8 @@
 | 231 | 310 | Bloknboy |
 | 232 | 308 | Speedy Liney |
 | 233 | 303 | Νεφ Όνυξ |
-| 234 | 301 | Damon J. Martin |
-| 235 | 301 | John Kim |
+| 234 | 301 | John Kim |
+| 235 | 301 | Damon J. Martin |
 | 236 | 300 | Sleepysloath5745 |
 | 237 | 298 | Billie Ann Eason |
 | 238 | 298 | Sweetts |
@@ -290,8 +290,8 @@
 | 282 | 253 | Cece Ibarra |
 | 283 | 253 | Jamie Jury |
 | 284 | 252 | Dena Kayy |
-| 285 | 251 | MRdot Rooski |
-| 286 | 251 | Angela Fairbank |
+| 285 | 251 | Angela Fairbank |
+| 286 | 251 | MRdot Rooski |
 | 287 | 250 | Silly Align |
 | 288 | 249 | Tiffany Smith |
 | 289 | 247 | DaRascal |
@@ -494,9 +494,9 @@
 | 486 | 162 | Jennifer Corrado |
 | 487 | 161 | Matthew Foley |
 | 488 | 161 | Rachel Nilles |
-| 489 | 160 | Hasty Cascader |
-| 490 | 160 | Jeremy Maubert |
-| 491 | 160 | Sunny Catcher |
+| 489 | 160 | Jeremy Maubert |
+| 490 | 160 | Sunny Catcher |
+| 491 | 160 | Hasty Cascader |
 | 492 | 159 | Krista Young |
 | 493 | 159 | Uhog SF |
 | 494 | 158 | Teddy Alexander |
