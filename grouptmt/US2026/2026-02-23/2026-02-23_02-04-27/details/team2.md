@@ -137,8 +137,8 @@
 | 129 | 1639 | Jessie McDougald |
 | 130 | 1632 | Qiana Sanders |
 | 131 | 1631 | Speedy Spinblock |
-| 132 | 1623 | Rebecca Doughman |
-| 133 | 1623 | Mr. Street Stack |
+| 132 | 1623 | Mr. Street Stack |
+| 133 | 1623 | Rebecca Doughman |
 | 134 | 1622 | Mari Ac |
 | 135 | 1614 | Janel Turley-Garner |
 | 136 | 1601 | Ray Ray Prado |
@@ -343,8 +343,8 @@
 | 335 | 823 | Alezandra Smith |
 | 336 | 821 | Angie Bolton Workman |
 | 337 | 821 | Cassie Mercer |
-| 338 | 818 | Lola Contreras |
-| 339 | 818 | Jessica Wayne Cornwall |
+| 338 | 818 | Jessica Wayne Cornwall |
+| 339 | 818 | Lola Contreras |
 | 340 | 816 | James Simms III |
 | 341 | 812 | Jackie Lucas |
 | 342 | 812 | Samantha Jo |
@@ -396,8 +396,8 @@
 | 388 | 741 | Jánine Riggs |
 | 389 | 740 | Jerry Tempelmeyer |
 | 390 | 738 | Aimee Campbell |
-| 391 | 737 | Chelle |
-| 392 | 737 | Jeremy Parodi |
+| 391 | 737 | Jeremy Parodi |
+| 392 | 737 | Chelle |
 | 393 | 737 | Ginger |
 | 394 | 732 | Victoria Moore-Smith |
 | 395 | 731 | Allan Wayne Lamia |
@@ -441,9 +441,9 @@
 | 433 | 679 | Kassandra Hunt |
 | 434 | 677 | Kayleigh Wisse |
 | 435 | 677 | Crystie Hicks |
-| 436 | 677 | Ellie Jonas |
-| 437 | 677 | Bee |
-| 438 | 677 | Amanda Woodruff |
+| 436 | 677 | Amanda Woodruff |
+| 437 | 677 | Ellie Jonas |
+| 438 | 677 | Bee |
 | 439 | 676 | Brandon Armstrong |
 | 440 | 676 | Roseanna Peloso |
 | 441 | 675 | Lonne Emade |
@@ -843,8 +843,8 @@
 | 835 | 379 | stacey |
 | 836 | 379 | Danielle Ayoub |
 | 837 | 378 | Peppy Snapfall |
-| 838 | 378 | Polly Pritchard Chesler |
-| 839 | 378 | Kelly Walters |
+| 838 | 378 | Kelly Walters |
+| 839 | 378 | Polly Pritchard Chesler |
 | 840 | 377 | Tristan Szolek |
 | 841 | 377 | Sinistah42o |
 | 842 | 376 | Snappy Shatterfit |
@@ -868,8 +868,8 @@
 | 860 | 371 | NickyBrooks |
 | 861 | 371 | Rebecca Garland |
 | 862 | 370 | Timothy Jesuwole |
-| 863 | 369 | Epic Fitzone |
-| 864 | 369 | Amanda Canterbury |
+| 863 | 369 | Amanda Canterbury |
+| 864 | 369 | Epic Fitzone |
 | 865 | 369 | Johanna Massaro |
 | 866 | 367 | Sarah Dean |
 | 867 | 367 | Connie Lepore-Mann |
@@ -888,8 +888,8 @@
 | 880 | 361 | Mike73 |
 | 881 | 361 | Donald Nowland |
 | 882 | 360 | Christina Walker |
-| 883 | 360 | Kristina Marie Hanna |
-| 884 | 360 | Iris Angelica Perez Cantos |
+| 883 | 360 | Iris Angelica Perez Cantos |
+| 884 | 360 | Kristina Marie Hanna |
 | 885 | 359 | Cheyenne Donovan |
 | 886 | 358 | Sydney Busse |
 | 887 | 358 | Alyssaaelena |

@@ -28,8 +28,8 @@
 | 20 | 1304 | Jennifer Cates |
 | 21 | 1276 | Izzie Ramirez-Ford |
 | 22 | 1236 | LaQuetta Faith Hines |
-| 23 | 1191 | Roger Aschbrenner |
-| 24 | 1191 | Nerdy Linkblock |
+| 23 | 1191 | Nerdy Linkblock |
+| 24 | 1191 | Roger Aschbrenner |
 | 25 | 1171 | Tyler Alcock |
 | 26 | 1136 | Rahna Underwood |
 | 27 | 1129 | Christina Graham |
@@ -116,8 +116,8 @@
 | 108 | 448 | Jazzy Framezone |
 | 109 | 447 | Lexuriuos Lifestlye |
 | 110 | 444 | Hyper |
-| 111 | 443 | Steve Schneider |
-| 112 | 443 | lil mickey |
+| 111 | 443 | lil mickey |
+| 112 | 443 | Steve Schneider |
 | 113 | 442 | Veronica Eve |
 | 114 | 440 | Stephanie Zahn |
 | 115 | 439 | Dee Perry |
@@ -167,8 +167,8 @@
 | 159 | 337 | Nicole Roseberry Weber |
 | 160 | 336 | Fmp |
 | 161 | 334 | Jaimie Lynn |
-| 162 | 333 | GATOR |
-| 163 | 333 | Gracie |
+| 162 | 333 | Gracie |
+| 163 | 333 | GATOR |
 | 164 | 332 | Lehrin Maria |
 | 165 | 329 | Rachael |
 | 166 | 326 | BadG52 |
@@ -198,8 +198,8 @@
 | 190 | 302 | Erin Rosberg |
 | 191 | 301 | Damon J. Martin |
 | 192 | 296 | Cody Gates |
-| 193 | 294 | Margo Wagner |
-| 194 | 294 | Bindi |
+| 193 | 294 | Bindi |
+| 194 | 294 | Margo Wagner |
 | 195 | 293 | John Kim |
 | 196 | 293 | Witty Builderfit |
 | 197 | 292 | Cool Shiftsnap |
@@ -293,8 +293,8 @@
 | 285 | 215 | Shaykmia |
 | 286 | 215 | Panda Thagreat |
 | 287 | 214 | Tiger Lily |
-| 288 | 213 | John Barron |
-| 289 | 213 | Poppy Riserpiece |
+| 288 | 213 | Poppy Riserpiece |
+| 289 | 213 | John Barron |
 | 290 | 212 | Michelle Beres |
 | 291 | 211 | Jeanna Dunn |
 | 292 | 209 | Breanna Luna |
@@ -416,8 +416,8 @@
 | 408 | 160 | Plucky Stacky |
 | 409 | 160 | Mitchel White |
 | 410 | 159 | Uhog SF |
-| 411 | 158 | Tamara Brown |
-| 412 | 158 | Teddy Alexander |
+| 411 | 158 | Teddy Alexander |
+| 412 | 158 | Tamara Brown |
 | 413 | 157 | MommaKFC |
 | 414 | 156 | Ashley Adams |
 | 415 | 156 | Liliana Pena |

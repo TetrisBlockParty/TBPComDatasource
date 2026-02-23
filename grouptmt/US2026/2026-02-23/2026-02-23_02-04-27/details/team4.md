@@ -151,7 +151,7 @@
 | 143 | 394 | Damn Libra |
 | 144 | 393 | Carlton Unfiltered |
 | 145 | 393 | Girl |
-| 146 | 393 | Carlton Unfiltered |
+| 146 | 393 | Trish |
 | 147 | 391 | Ramel Rhodes |
 | 148 | 389 | Joseph Guthrie |
 | 149 | 387 | 🥔🥔 Spudz |
@@ -189,12 +189,12 @@
 | 181 | 314 | shark tato |
 | 182 | 314 | Andy Cabral |
 | 183 | 309 | Crystal Nicolette Moore |
-| 184 | 307 | Holly Jolly |
-| 185 | 307 | Bio Nelly |
-| 186 | 307 | Chris Bernstein |
+| 184 | 307 | Bio Nelly |
+| 185 | 307 | Chris Bernstein |
+| 186 | 307 | Holly Jolly |
 | 187 | 306 | blockstar |
-| 188 | 304 | Mary Ann Pabukis |
-| 189 | 304 | Lindsay Ball |
+| 188 | 304 | Lindsay Ball |
+| 189 | 304 | Mary Ann Pabukis |
 | 190 | 302 | Cursed Hag |
 | 191 | 301 | Michele Plunkett |
 | 192 | 301 | Andria Lynn |

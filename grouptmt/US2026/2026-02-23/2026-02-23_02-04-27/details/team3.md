@@ -285,8 +285,8 @@
 | 277 | 324 | Sissy Lowery Davis |
 | 278 | 322 | Nena Somerville Kelly |
 | 279 | 321 | Charles Perrone |
-| 280 | 320 | Ashley Muncey |
-| 281 | 320 | Or Reznitsky |
+| 280 | 320 | Or Reznitsky |
+| 281 | 320 | Ashley Muncey |
 | 282 | 312 | Twisty Brick LT |
 | 283 | 312 | LadyTorad |
 | 284 | 309 | Felicia Rocha |
