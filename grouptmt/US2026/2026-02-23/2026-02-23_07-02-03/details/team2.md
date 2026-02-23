@@ -151,8 +151,8 @@
 | 143 | 1644 | Speedy Spinblock |
 | 144 | 1639 | Jessie McDougald |
 | 145 | 1629 | Mari Ac |
-| 146 | 1623 | Rebecca Doughman |
-| 147 | 1623 | Janel Turley-Garner |
+| 146 | 1623 | Janel Turley-Garner |
+| 147 | 1623 | Rebecca Doughman |
 | 148 | 1605 | Christi Hulet |
 | 149 | 1602 | blackq |
 | 150 | 1601 | Ray Ray Prado |
@@ -218,8 +218,8 @@
 | 210 | 1245 | Cody Nishimura |
 | 211 | 1240 | Brandon Armstrong |
 | 212 | 1237 | Megan Ferguson Leone |
-| 213 | 1232 | Groovy Puzzle |
-| 214 | 1232 | Ambyre Patterson |
+| 213 | 1232 | Ambyre Patterson |
+| 214 | 1232 | Groovy Puzzle |
 | 215 | 1230 | Megan Garrick |
 | 216 | 1221 | Jane Fong |
 | 217 | 1217 | Brooks Brooks |
@@ -300,8 +300,8 @@
 | 292 | 988 | Juliana Marques Do Nascimento Gordy |
 | 293 | 987 | Osun Anuket Esu |
 | 294 | 984 | Crystal Hoffman |
-| 295 | 979 | Hillary Crawford |
-| 296 | 979 | Melissa Penelope Ann Dodge |
+| 295 | 979 | Melissa Penelope Ann Dodge |
+| 296 | 979 | Hillary Crawford |
 | 297 | 978 | April Dawn Gussler |
 | 298 | 976 | Sam Joe |
 | 299 | 976 | Della Hole |
@@ -341,8 +341,8 @@
 | 333 | 902 | Carl Bradshaw |
 | 334 | 902 | William Hunt |
 | 335 | 901 | Kevin Sees |
-| 336 | 899 | Patrick Bartlett |
-| 337 | 899 | Chevy |
+| 336 | 899 | Chevy |
+| 337 | 899 | Patrick Bartlett |
 | 338 | 898 | Jamie Otero |
 | 339 | 895 | Donna Colby |
 | 340 | 893 | Steve Man |
@@ -825,8 +825,8 @@
 | 817 | 435 | John |
 | 818 | 435 | Snappy snappers |
 | 819 | 434 | Twisty Tetriblast |
-| 820 | 433 | Jessica Hughes |
-| 821 | 433 | Melissa Koria |
+| 820 | 433 | Melissa Koria |
+| 821 | 433 | Jessica Hughes |
 | 822 | 432 | Michelle Shrum |
 | 823 | 431 | Quinn |
 | 824 | 431 | Lewis Sturgeon |
@@ -937,8 +937,8 @@
 | 929 | 390 | Aireka Roman |
 | 930 | 389 | Loony Basepiece |
 | 931 | 388 | Kristina Marie Hanna |
-| 932 | 388 | Tamara Bailey |
-| 933 | 388 | Alice Ball |
+| 932 | 388 | Alice Ball |
+| 933 | 388 | Tamara Bailey |
 | 934 | 387 | David Holliday |
 | 935 | 387 | Bryan Werleman |
 | 936 | 386 | Yasmin Guzman |
@@ -947,9 +947,9 @@
 | 939 | 385 | Cheery Puzzler |
 | 940 | 385 | Lola C Davis |
 | 941 | 385 | stacey |
-| 942 | 385 | Iris Angelica Perez Cantos |
-| 943 | 385 | Lawanda Forbes |
-| 944 | 385 | Samuel Labruno |
+| 942 | 385 | Samuel Labruno |
+| 943 | 385 | Iris Angelica Perez Cantos |
+| 944 | 385 | Lawanda Forbes |
 | 945 | 384 | King Shamell Young |
 | 946 | 384 | Savannah Alexander |
 | 947 | 383 | Alyssia Tancredi |

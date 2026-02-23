@@ -189,8 +189,8 @@
 | 181 | 556 | Elissa S-k |
 | 182 | 553 | LaTanya GeminiondaRise Johnson |
 | 183 | 546 | Tasha Schriewer |
-| 184 | 546 | Cynthia Castros-Hampton |
-| 185 | 546 | Mykal Burton |
+| 184 | 546 | Mykal Burton |
+| 185 | 546 | Cynthia Castros-Hampton |
 | 186 | 540 | Shawn Miller |
 | 187 | 534 | Danielle Balcom |
 | 188 | 534 | Jacqueline Rodriguez |
@@ -211,11 +211,11 @@
 | 203 | 488 | Melissa Orth Hunter |
 | 204 | 485 | Dapper Snap |
 | 205 | 484 | Fallorina Susana |
-| 206 | 480 | Michael Johnson |
-| 207 | 480 | Danielle Allison |
+| 206 | 480 | Danielle Allison |
+| 207 | 480 | Michael Johnson |
 | 208 | 475 | Tessina Dewey-Mancino |
-| 209 | 473 | Rachel |
-| 210 | 473 | Connie Mohler-Fair |
+| 209 | 473 | Connie Mohler-Fair |
+| 210 | 473 | Rachel |
 | 211 | 471 | Mendoza Lee Christy |
 | 212 | 467 | Sherry Ogden |
 | 213 | 465 | Annie Déè |
@@ -309,8 +309,8 @@
 | 301 | 331 | Gray Hicks |
 | 302 | 329 | Angela Scott |
 | 303 | 328 | Desiree Soto |
-| 304 | 326 | Kerry Nowickshere |
-| 305 | 326 | Isabel Ocasio |
+| 304 | 326 | Isabel Ocasio |
+| 305 | 326 | Kerry Nowickshere |
 | 306 | 325 | angieelyn |
 | 307 | 325 | Tasha Wesson-Torrence |
 | 308 | 324 | Sissy Lowery Davis |
