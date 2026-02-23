@@ -260,8 +260,8 @@
 | 252 | 369 | TRCuse |
 | 253 | 368 | Kris Bartlett |
 | 254 | 367 | Meg |
-| 255 | 366 | Cheery Risebuilder |
-| 256 | 366 | Andrew Dang |
+| 255 | 366 | Andrew Dang |
+| 256 | 366 | Cheery Risebuilder |
 | 257 | 365 | Hyper Builder |
 | 258 | 363 | KimoKoala |
 | 259 | 361 | Danielle Kollias |

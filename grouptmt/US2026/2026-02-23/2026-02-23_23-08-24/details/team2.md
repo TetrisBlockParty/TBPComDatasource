@@ -392,8 +392,8 @@
 | 384 | 1004 | Tiara Elizabeth Baker |
 | 385 | 1000 | Ashley Guernsey-Martin |
 | 386 | 999 | Donna M Carter |
-| 387 | 998 | Alex Stone LaRue |
-| 388 | 998 | Kathryn Townsley |
+| 387 | 998 | Kathryn Townsley |
+| 388 | 998 | Alex Stone LaRue |
 | 389 | 997 | Megan Brianna |
 | 390 | 996 | Dedra Steward |
 | 391 | 995 | Angel Hunnewell |

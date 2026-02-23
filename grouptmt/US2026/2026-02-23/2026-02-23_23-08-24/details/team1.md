@@ -62,8 +62,8 @@
 | 54 | 1100 | Carrie Beck Geartz |
 | 55 | 1074 | Cheeky Twistslam |
 | 56 | 1065 | Spunky Piecebuilder |
-| 57 | 1041 | Adam Byrd |
-| 58 | 1041 | Michelle Nicole |
+| 57 | 1041 | Michelle Nicole |
+| 58 | 1041 | Adam Byrd |
 | 59 | 1032 | Kathi Snustad |
 | 60 | 1027 | Robert Beck |
 | 61 | 1025 | Jason Jones |
@@ -121,8 +121,8 @@
 | 113 | 612 | femmefatale |
 | 114 | 604 | Ryan Lunnin |
 | 115 | 603 | Ty Brown |
-| 116 | 601 | Evan Richmond |
-| 117 | 601 | Phu ckalldems |
+| 116 | 601 | Phu ckalldems |
+| 117 | 601 | Evan Richmond |
 | 118 | 598 | Jessi Sauer |
 | 119 | 594 | Basment Living |
 | 120 | 589 | Giddy Cascade |
@@ -164,15 +164,15 @@
 | 156 | 497 | MIKOZ |
 | 157 | 494 | Sean Stallings |
 | 158 | 492 | Rebekah LeiAnn Bonsell |
-| 159 | 491 | Michelle Beres |
-| 160 | 491 | cc |
+| 159 | 491 | cc |
+| 160 | 491 | Michelle Beres |
 | 161 | 488 | Hyper |
 | 162 | 483 | Dandy Basegrid |
 | 163 | 483 | Trina Gee |
 | 164 | 482 | Sarah Somers Gray |
 | 165 | 479 | Ly Phethmany |
-| 166 | 476 | Snappy Matcher |
-| 167 | 476 | phrmblk24 |
+| 166 | 476 | phrmblk24 |
+| 167 | 476 | Snappy Matcher |
 | 168 | 470 | Candy Jones |
 | 169 | 468 | Steve Schneider |
 | 170 | 464 | canbrick |
@@ -193,8 +193,8 @@
 | 185 | 425 | Tana |
 | 186 | 425 | Tyler Werts |
 | 187 | 424 | Emily Adelaide Wheatley |
-| 188 | 423 | Kimberly Garcia |
-| 189 | 423 | Elaine Elaine |
+| 188 | 423 | Elaine Elaine |
+| 189 | 423 | Kimberly Garcia |
 | 190 | 422 | Chelsea Dahlquist |
 | 191 | 419 | Daring Fitclear |
 | 192 | 418 | Mike Ames |
