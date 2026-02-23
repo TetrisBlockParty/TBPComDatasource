@@ -339,8 +339,8 @@
 | 331 | 1049 | Ashlen Dorrell |
 | 332 | 1047 | Tiffany Branham |
 | 333 | 1045 | Lourisha |
-| 334 | 1043 | Brave Dropmatch |
-| 335 | 1043 | nikki |
+| 334 | 1043 | nikki |
+| 335 | 1043 | Brave Dropmatch |
 | 336 | 1042 | Mcintosh Brian Shalonda |
 | 337 | 1042 | Michele Morgan |
 | 338 | 1041 | Binyah-Binyah |
@@ -397,8 +397,8 @@
 | 389 | 919 | Isaac Trappiel IV |
 | 390 | 916 | Butta |
 | 391 | 915 | Kelly Trent |
-| 392 | 914 | William Hunt |
-| 393 | 914 | Shuany Arias |
+| 392 | 914 | Shuany Arias |
+| 393 | 914 | William Hunt |
 | 394 | 913 | Angie Bolton Workman |
 | 395 | 909 | Valerie Brooke Lusk Armstrong |
 | 396 | 907 | Gene Mills |
@@ -508,8 +508,8 @@
 | 500 | 764 | Belle |
 | 501 | 763 | Heather Causey |
 | 502 | 761 | Jerilyn Andrina |
-| 503 | 758 | Stephanie Neuburger |
-| 504 | 758 | Kimberly Randesi |
+| 503 | 758 | Kimberly Randesi |
+| 504 | 758 | Stephanie Neuburger |
 | 505 | 757 | Chelle |
 | 506 | 755 | Taryece Gause |
 | 507 | 751 | Loony Snapper |
@@ -907,8 +907,8 @@
 | 899 | 482 | Sarah Sims |
 | 900 | 481 | Brittany Chapman |
 | 901 | 481 | Brenda Annabel Smith |
-| 902 | 480 | Cassi Owens |
-| 903 | 480 | Dar |
+| 902 | 480 | Dar |
+| 903 | 480 | Cassi Owens |
 | 904 | 479 | bbv |
 | 905 | 479 | Ashlee Cruz |
 | 906 | 478 | Elizabeth Pearson |
@@ -1157,8 +1157,8 @@
 | 1149 | 398 | Candace Noel |
 | 1150 | 398 | Kendall Fullerton |
 | 1151 | 398 | David Standry |
-| 1152 | 397 | Janessa Pafford |
-| 1153 | 397 | Jessica Conaway |
+| 1152 | 397 | Jessica Conaway |
+| 1153 | 397 | Janessa Pafford |
 | 1154 | 397 | Megan Nevarez |
 | 1155 | 396 | Cassie Newton |
 | 1156 | 396 | Monique Foster |

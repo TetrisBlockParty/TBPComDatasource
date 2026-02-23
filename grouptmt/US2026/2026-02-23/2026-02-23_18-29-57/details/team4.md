@@ -114,8 +114,8 @@
 | 106 | 673 | Jacqueline Helm |
 | 107 | 667 | Amy Suckarieh |
 | 108 | 659 | Jamie Gustafson |
-| 109 | 658 | Zippy Gridlock |
-| 110 | 658 | Girl |
+| 109 | 658 | Girl |
+| 110 | 658 | Zippy Gridlock |
 | 111 | 652 | Leslie Nicole |
 | 112 | 647 | KM8 |
 | 113 | 644 | Chris Hartig |
@@ -189,8 +189,8 @@
 | 181 | 431 | Courtney Cicoria |
 | 182 | 429 | Sharyn Lemire |
 | 183 | 427 | Steph Marie |
-| 184 | 426 | 🥔🥔 Spudz |
-| 185 | 426 | Rebecca Morris |
+| 184 | 426 | Rebecca Morris |
+| 185 | 426 | 🥔🥔 Spudz |
 | 186 | 425 | Damn Libra |
 | 187 | 424 | J-Rizzle |
 | 188 | 424 | Keshia Lyons |
@@ -484,8 +484,8 @@
 | 476 | 190 | Jacob Campbell |
 | 477 | 190 | Robert Rangel |
 | 478 | 189 | Marcus TheeyoungWoe Gilmore |
-| 479 | 188 | Frilly Blocky |
-| 480 | 188 | Stacy |
+| 479 | 188 | Stacy |
+| 480 | 188 | Frilly Blocky |
 | 481 | 187 | Jason Punch |
 | 482 | 186 | Dandy Cascadefit |
 | 483 | 186 | Jesse Saville |

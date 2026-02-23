@@ -92,8 +92,8 @@
 | 84 | 735 | Cynthia Bradley |
 | 85 | 713 | Robert Benito |
 | 86 | 710 | Jennifer ManWarren |
-| 87 | 706 | Plucky Fallzone |
-| 88 | 706 | Denice Dee |
+| 87 | 706 | Denice Dee |
+| 88 | 706 | Plucky Fallzone |
 | 89 | 704 | Jason Jones |
 | 90 | 704 | Karin Gillen |
 | 91 | 703 | Angel Fowler |
@@ -135,8 +135,8 @@
 | 127 | 519 | April Carroll |
 | 128 | 518 | Rachael |
 | 129 | 514 | Tanya Carpenter-Reynolds |
-| 130 | 513 | Colena Davenport |
-| 131 | 513 | Sweet Baker |
+| 130 | 513 | Sweet Baker |
+| 131 | 513 | Colena Davenport |
 | 132 | 512 | BadG52 |
 | 133 | 511 | MomMom |
 | 134 | 506 | Tipsy Riseclear |
@@ -177,8 +177,8 @@
 | 169 | 426 | Maria C. Hernandez |
 | 170 | 425 | Tyler Werts |
 | 171 | 424 | Emily Adelaide Wheatley |
-| 172 | 417 | Kimberly Garcia |
-| 173 | 417 | Jessie Lynn |
+| 172 | 417 | Jessie Lynn |
+| 173 | 417 | Kimberly Garcia |
 | 174 | 416 | Jessica Sheehan |
 | 175 | 415 | Jennifer Hardman |
 | 176 | 414 | Chelsea Dahlquist |
@@ -280,8 +280,8 @@
 | 272 | 313 | Cody Gates |
 | 273 | 312 | Danielle S Kester |
 | 274 | 311 | Nathan Sealander |
-| 275 | 310 | Matt Iaccheo |
-| 276 | 310 | Christina Norman |
+| 275 | 310 | Christina Norman |
+| 276 | 310 | Matt Iaccheo |
 | 277 | 308 | Speedy Liney |
 | 278 | 306 | Cece Ibarra |
 | 279 | 305 | Larry Tilton |
