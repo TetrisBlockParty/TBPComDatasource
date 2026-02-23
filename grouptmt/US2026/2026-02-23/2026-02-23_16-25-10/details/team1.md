@@ -252,8 +252,8 @@
 | 244 | 325 | GringaLinga |
 | 245 | 325 | Chantelle Ceno |
 | 246 | 324 | Rat666 |
-| 247 | 322 | Letson Melissa |
-| 248 | 322 | Sarah Roberts |
+| 247 | 322 | Sarah Roberts |
+| 248 | 322 | Letson Melissa |
 | 249 | 319 | Frothy Pattern |
 | 250 | 317 | Bloknboy |
 | 251 | 317 | Sam Williams |
@@ -412,7 +412,7 @@
 | 404 | 216 | Terri Rodela |
 | 405 | 215 | Quirky Pusher |
 | 406 | 214 | Kayla Marie Stevenson |
-| 407 | 213 | Divaaa |
+| 407 | 213 | John Barron |
 | 408 | 213 | Chase Collinsworth |
 | 409 | 213 | Poppy Riserpiece |
 | 410 | 213 | Divaaa |

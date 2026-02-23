@@ -52,8 +52,8 @@
 | 44 | 1116 | Koshin Abdirahman |
 | 45 | 1093 | Ashley Ingram |
 | 46 | 1085 | Kimyatta Cavin |
-| 47 | 1082 | Dawn Alexander |
-| 48 | 1082 | Dion Crommarty |
+| 47 | 1082 | Dion Crommarty |
+| 48 | 1082 | Dawn Alexander |
 | 49 | 1071 | Cherrish Duren |
 | 50 | 1049 | Heather Tushner |
 | 51 | 1046 | Johnathan Martinez |
@@ -270,8 +270,8 @@
 | 262 | 304 | Shiny Fit |
 | 263 | 303 | blasterB |
 | 264 | 300 | Dana Scott |
-| 265 | 295 | Keshia Lyons |
-| 266 | 295 | Lora |
+| 265 | 295 | Lora |
+| 266 | 295 | Keshia Lyons |
 | 267 | 294 | Calvin Cannon |
 | 268 | 293 | Joeliecea Cobb |
 | 269 | 292 | Angel Raya |
@@ -296,8 +296,8 @@
 | 288 | 276 | Susan Williams |
 | 289 | 276 | Cynthia Boudreau |
 | 290 | 275 | Kimberlee Jan Beckstead |
-| 291 | 272 | Dennis Bradley |
-| 292 | 272 | Tony Pavelka |
+| 291 | 272 | Tony Pavelka |
+| 292 | 272 | Dennis Bradley |
 | 293 | 271 | Holly |
 | 294 | 270 | 23 |
 | 295 | 269 | Silly SeaWeed |
@@ -307,8 +307,8 @@
 | 299 | 266 | Chummy Towerzone |
 | 300 | 266 | Jim Hart |
 | 301 | 266 | Tracey Lehmann |
-| 302 | 265 | Degenerate |
-| 303 | 265 | Sarah Neathery |
+| 302 | 265 | Sarah Neathery |
+| 303 | 265 | Degenerate |
 | 304 | 264 | ZeeZee |
 | 305 | 263 | rebel4lyfe |
 | 306 | 262 | Blessedmama |

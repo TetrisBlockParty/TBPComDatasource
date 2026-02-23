@@ -379,8 +379,8 @@
 | 371 | 919 | Isaac Trappiel IV |
 | 372 | 916 | Butta |
 | 373 | 915 | Kelly Trent |
-| 374 | 914 | Shuany Arias |
-| 375 | 914 | William Hunt |
+| 374 | 914 | William Hunt |
+| 375 | 914 | Shuany Arias |
 | 376 | 913 | blume |
 | 377 | 909 | Valerie Brooke Lusk Armstrong |
 | 378 | 907 | Gene Mills |

@@ -232,8 +232,8 @@
 | 224 | 513 | Lizabeth Fox |
 | 225 | 513 | kacihall |
 | 226 | 512 | FuzzyNavel |
-| 227 | 508 | Fran Lin |
-| 228 | 508 | joz |
+| 227 | 508 | joz |
+| 228 | 508 | Fran Lin |
 | 229 | 506 | Twisty Brick LT |
 | 230 | 505 | Stephanie Simpson |
 | 231 | 503 | Tye Stovall |
