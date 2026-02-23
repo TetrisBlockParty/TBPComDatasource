@@ -343,8 +343,8 @@
 | 335 | 375 | Joy Petroski |
 | 336 | 372 | Rich LeBlanc |
 | 337 | 371 | block chick |
-| 338 | 370 | Tasha Wesson-Torrence |
-| 339 | 370 | Roary Danner |
+| 338 | 370 | Roary Danner |
+| 339 | 370 | Tasha Wesson-Torrence |
 | 340 | 370 | Kirhonda Autmon |
 | 341 | 369 | Amber Glover |
 | 342 | 368 | Sheila M Frazier |
@@ -359,8 +359,8 @@
 | 351 | 362 | Chummy Rumbler |
 | 352 | 362 | Brandon Givens |
 | 353 | 361 | neci |
-| 354 | 359 | Kristen Weese |
-| 355 | 359 | Steven Fulater |
+| 354 | 359 | Steven Fulater |
+| 355 | 359 | Kristen Weese |
 | 356 | 358 | Heather Davis |
 | 357 | 356 | Tony Waters |
 | 358 | 356 | Alexmac |

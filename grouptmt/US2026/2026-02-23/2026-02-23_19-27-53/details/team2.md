@@ -84,8 +84,8 @@
 | 76 | 3197 | Happy Blockroll |
 | 77 | 3099 | Charie Holland |
 | 78 | 2901 | RdRydnHd |
-| 79 | 2880 | Kimberly Schall |
-| 80 | 2880 | Aimee Byrom |
+| 79 | 2880 | Aimee Byrom |
+| 80 | 2880 | Kimberly Schall |
 | 81 | 2870 | Eckoman518 |
 | 82 | 2859 | Jose Vega |
 | 83 | 2846 | Veronica Porter |
@@ -614,8 +614,8 @@
 | 606 | 668 | Gloria Ininahazwe |
 | 607 | 668 | Jazzy Clusterline |
 | 608 | 667 | Rhonda Milstead |
-| 609 | 666 | Wes Acton |
-| 610 | 666 | Laura Mclean |
+| 609 | 666 | Laura Mclean |
+| 610 | 666 | Wes Acton |
 | 611 | 665 | Zak Dunn |
 | 612 | 664 | Bonita Kee |
 | 613 | 663 | Snazzy Basepiece |
@@ -745,7 +745,7 @@
 | 737 | 567 | Lathasa Newkirk |
 | 738 | 566 | Lively Piecebuilder |
 | 739 | 566 | Shindee |
-| 740 | 566 | Lively Piecebuilder |
+| 740 | 566 | Megan Kitchner |
 | 741 | 564 | Rackemwillie34 |
 | 742 | 562 | Smiley Strike |
 | 743 | 560 | Rose Fx |
@@ -947,8 +947,8 @@
 | 939 | 474 | Veronica Stevenson |
 | 940 | 474 | Jennifer Scott |
 | 941 | 473 | Anita Ortiz |
-| 942 | 472 | Connie Lepore-Mann |
-| 943 | 472 | Witty Piecebuilder |
+| 942 | 472 | Witty Piecebuilder |
+| 943 | 472 | Connie Lepore-Mann |
 | 944 | 472 | Sarah Dean |
 | 945 | 472 | Linda Miltenburg |
 | 946 | 472 | Cathleena Giusto |

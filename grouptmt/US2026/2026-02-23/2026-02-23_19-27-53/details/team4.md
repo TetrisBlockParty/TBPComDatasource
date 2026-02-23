@@ -228,8 +228,8 @@
 | 220 | 381 | Plucky Patternblock |
 | 221 | 380 | Rio Rocha |
 | 222 | 379 | Backoff Recupe |
-| 223 | 378 | Lauren Scott |
-| 224 | 378 | Silly Zonebuilder |
+| 223 | 378 | Silly Zonebuilder |
+| 224 | 378 | Lauren Scott |
 | 225 | 376 | Zesty Twistbuilder |
 | 226 | 376 | shark tato |
 | 227 | 374 | Mr. Party |
@@ -240,8 +240,8 @@
 | 232 | 367 | Sue Joyce Staats |
 | 233 | 365 | Hyper Builder |
 | 234 | 363 | Googenheim |
-| 235 | 363 | Cheery Risebuilder |
-| 236 | 363 | Cindy Looper |
+| 235 | 363 | Cindy Looper |
+| 236 | 363 | Cheery Risebuilder |
 | 237 | 362 | Meg |
 | 238 | 361 | Rafael Valentin |
 | 239 | 361 | Danielle Kollias |
