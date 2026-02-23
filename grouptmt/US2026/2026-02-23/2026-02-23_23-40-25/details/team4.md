@@ -136,8 +136,8 @@
 | 128 | 616 | Samantha Peterson |
 | 129 | 615 | Kim Hunt |
 | 130 | 613 | Porkobello |
-| 131 | 611 | Chris Baggett |
-| 132 | 611 | Ernest Maxwell |
+| 131 | 611 | Ernest Maxwell |
+| 132 | 611 | Chris Baggett |
 | 133 | 602 | Cristy Duerksen |
 | 134 | 593 | Jessica Lynn Cutlip |
 | 135 | 586 | Latisha Davis |
@@ -235,8 +235,8 @@
 | 227 | 409 | Antony Dwayne Beasley |
 | 228 | 403 | TinyLegoRose |
 | 229 | 400 | Brickh4us |
-| 230 | 399 | Jeff Brian Gates |
-| 231 | 399 | Lindsay Ball |
+| 230 | 399 | Lindsay Ball |
+| 231 | 399 | Jeff Brian Gates |
 | 232 | 398 | Tyler Terrific |
 | 233 | 395 | 030Synner |
 | 234 | 394 | Nita Wells |
@@ -371,10 +371,10 @@
 | 363 | 272 | Dennis Bradley |
 | 364 | 270 | 07VHVW |
 | 365 | 269 | Chummy Towerzone |
-| 366 | 268 | Riverdale |
-| 367 | 268 | Sallie Sanborn |
-| 368 | 267 | Marcus TheeyoungWoe Gilmore |
-| 369 | 267 | Metsfan |
+| 366 | 268 | Sallie Sanborn |
+| 367 | 268 | Riverdale |
+| 368 | 267 | Metsfan |
+| 369 | 267 | Marcus TheeyoungWoe Gilmore |
 | 370 | 266 | Happy Combo |
 | 371 | 266 | Paito |
 | 372 | 265 | Sarah Neathery |

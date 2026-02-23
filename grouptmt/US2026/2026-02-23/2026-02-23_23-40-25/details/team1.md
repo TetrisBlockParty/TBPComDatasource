@@ -136,8 +136,8 @@
 | 128 | 568 | Jason Savage |
 | 129 | 560 | Jazzy Framezone |
 | 130 | 556 | Susan Ward |
-| 131 | 552 | Hellsin |
-| 132 | 552 | Tanya Carpenter-Reynolds |
+| 131 | 552 | Tanya Carpenter-Reynolds |
+| 132 | 552 | Hellsin |
 | 133 | 550 | Sarah Lombardo |
 | 134 | 548 | Luciano Moreira |
 | 135 | 546 | Loony Fitzone |
@@ -157,8 +157,8 @@
 | 149 | 515 | Constance Risner |
 | 150 | 513 | Colena Davenport |
 | 151 | 511 | MomMom |
-| 152 | 510 | Rat666 |
-| 153 | 510 | Timothy Danaher |
+| 152 | 510 | Timothy Danaher |
+| 153 | 510 | Rat666 |
 | 154 | 501 | Dee Perry |
 | 155 | 497 | Arianna O'Brien |
 | 156 | 497 | MIKOZ |
@@ -202,9 +202,9 @@
 | 194 | 419 | Daring Fitclear |
 | 195 | 419 | John J. Cronin |
 | 196 | 418 | Mike Ames |
-| 197 | 417 | Jamise Brown |
-| 198 | 417 | Jennifer Noe Chandler |
-| 199 | 417 | Jessie Lynn |
+| 197 | 417 | Jessie Lynn |
+| 198 | 417 | Jamise Brown |
+| 199 | 417 | Jennifer Noe Chandler |
 | 200 | 416 | Jessica Sheehan |
 | 201 | 412 | Witty Builderfit |
 | 202 | 412 | Connie |
@@ -234,8 +234,8 @@
 | 226 | 380 | Snippy Wipebuilder |
 | 227 | 379 | Austin James |
 | 228 | 379 | Howdi Duty |
-| 229 | 376 | Brian Richardsson |
-| 230 | 376 | Sassy Builderline |
+| 229 | 376 | Sassy Builderline |
+| 230 | 376 | Brian Richardsson |
 | 231 | 374 | MommaKFC |
 | 232 | 373 | Flashy Rotator |
 | 233 | 373 | Frothy Pattern |
@@ -340,10 +340,10 @@
 | 332 | 292 | Damian Salem |
 | 333 | 291 | Sir-Franchise Drake |
 | 334 | 291 | Toph |
-| 335 | 291 | Sir-Franchise Drake |
+| 335 | 291 | Michael Espinosa Ulibarri Jr. |
 | 336 | 290 | Tavia |
-| 337 | 289 | Michael |
-| 338 | 289 | Speedy Snapfall |
+| 337 | 289 | Speedy Snapfall |
+| 338 | 289 | Michael |
 | 339 | 289 | Nate Price |
 | 340 | 288 | Tanya Banks |
 | 341 | 287 | Chris65 |
