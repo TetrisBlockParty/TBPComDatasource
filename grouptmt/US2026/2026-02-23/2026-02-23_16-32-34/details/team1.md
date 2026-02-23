@@ -127,8 +127,8 @@
 | 119 | 533 | Sharon Reynolds |
 | 120 | 522 | Sarah Lombardo |
 | 121 | 515 | Death |
-| 122 | 513 | Colena Davenport |
-| 123 | 513 | April Carroll |
+| 122 | 513 | April Carroll |
+| 123 | 513 | Colena Davenport |
 | 124 | 509 | Rachael |
 | 125 | 502 | Anaid Sanchez |
 | 126 | 498 | Jazzy Framezone |

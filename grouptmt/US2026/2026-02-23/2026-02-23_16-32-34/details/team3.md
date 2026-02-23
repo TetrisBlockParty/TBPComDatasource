@@ -123,8 +123,8 @@
 | 115 | 896 | Jesse Olive |
 | 116 | 878 | Shane Wilson Jr. |
 | 117 | 874 | Jessica Pineda-Lopez |
-| 118 | 868 | Felicia Rocha |
-| 119 | 868 | Sarajane Lokan |
+| 118 | 868 | Sarajane Lokan |
+| 119 | 868 | Felicia Rocha |
 | 120 | 864 | Sunny Rotater |
 | 121 | 848 | Patricia Gadsden |
 | 122 | 846 | Kristie |
@@ -426,8 +426,8 @@
 | 418 | 296 | Tracy Martin |
 | 419 | 295 | Dakota Graham |
 | 420 | 293 | Loopy Fallzone |
-| 421 | 292 | Kirhonda Autmon |
-| 422 | 292 | Khaleada McGill Banks |
+| 421 | 292 | Khaleada McGill Banks |
+| 422 | 292 | Kirhonda Autmon |
 | 423 | 292 | Arden White Kirsch |
 | 424 | 291 | Swanky Snapclear |
 | 425 | 291 | Niki Dalrymple |

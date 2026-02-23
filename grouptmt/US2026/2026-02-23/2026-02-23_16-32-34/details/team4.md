@@ -1614,8 +1614,8 @@
 | 1606 | 18 | Korky Smith |
 | 1607 | 18 | Keith Watson |
 | 1608 | 18 | Deborah Hewitt |
-| 1609 | 18 | Samantha Kleine |
-| 1610 | 18 | Jadiel Bermudez |
+| 1609 | 18 | Jadiel Bermudez |
+| 1610 | 18 | Samantha Kleine |
 | 1611 | 17 | Conni Brown |
 | 1612 | 17 | Dandre |
 | 1613 | 17 | Nutty Grid |
