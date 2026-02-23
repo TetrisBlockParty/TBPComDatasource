@@ -90,8 +90,8 @@
 | 82 | 945 | Shonna Roberts |
 | 83 | 938 | Mandy Smith Oldham |
 | 84 | 935 | Snappy Glidepiece |
-| 85 | 926 | Judi Dobson |
-| 86 | 926 | Angela M. Fletcher |
+| 85 | 926 | Angela M. Fletcher |
+| 86 | 926 | Judi Dobson |
 | 87 | 923 | Christine Filson |
 | 88 | 921 | Michelle |
 | 89 | 918 | MissTaylor |
@@ -307,10 +307,10 @@
 | 299 | 301 | Tiffany Davie |
 | 300 | 299 | Angie Harper |
 | 301 | 298 | Grams |
-| 302 | 297 | kacihall |
-| 303 | 297 | Cheeky Snapper |
-| 304 | 296 | Snazzy Filler |
-| 305 | 296 | Tracy Martin |
+| 302 | 297 | Cheeky Snapper |
+| 303 | 297 | kacihall |
+| 304 | 296 | Tracy Martin |
+| 305 | 296 | Donna |
 | 306 | 296 | Hasty Gridpiece |
 | 307 | 296 | Snazzy Filler |
 | 308 | 294 | fraulila |
@@ -368,8 +368,8 @@
 | 360 | 256 | KayB |
 | 361 | 255 | Sharisse Baltimore |
 | 362 | 254 | Desiree Gold |
-| 363 | 253 | Alice |
-| 364 | 253 | Hyper Bridger |
+| 363 | 253 | Hyper Bridger |
+| 364 | 253 | Alice |
 | 365 | 252 | Blair Erin Waite |
 | 366 | 251 | Jennifer Alvey |
 | 367 | 251 | Dana Winters |
@@ -740,7 +740,7 @@
 | 732 | 132 | Angie King |
 | 733 | 132 | Glitzy Slide |
 | 734 | 132 | Laaken Draper |
-| 735 | 132 | Katie Morton |
+| 735 | 132 | Rima Mackelburger |
 | 736 | 131 | JustGiGi |
 | 737 | 131 | Jessica Rose-Morgan |
 | 738 | 131 | Bnoom |

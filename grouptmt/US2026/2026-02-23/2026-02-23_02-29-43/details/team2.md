@@ -205,8 +205,8 @@
 | 197 | 1244 | Teddi Notyalc |
 | 198 | 1243 | Anna Edwards |
 | 199 | 1237 | Megan Ferguson Leone |
-| 200 | 1232 | Ambyre Patterson |
-| 201 | 1232 | Groovy Puzzle |
+| 200 | 1232 | Groovy Puzzle |
+| 201 | 1232 | Ambyre Patterson |
 | 202 | 1230 | Megan Garrick |
 | 203 | 1217 | Lucky Ladybug |
 | 204 | 1207 | David Cudicio-Hayden |
@@ -337,8 +337,8 @@
 | 329 | 833 | Moni Foxe |
 | 330 | 833 | Cody Nishimura |
 | 331 | 832 | Woodys Glass |
-| 332 | 831 | Johnny Yeates |
-| 333 | 831 | Christina Lewis-Vickers |
+| 332 | 831 | Christina Lewis-Vickers |
+| 333 | 831 | Johnny Yeates |
 | 334 | 826 | Diallo Sparkman |
 | 335 | 824 | Danielle Johnson-Chandler |
 | 336 | 824 | Khalil Lowe |

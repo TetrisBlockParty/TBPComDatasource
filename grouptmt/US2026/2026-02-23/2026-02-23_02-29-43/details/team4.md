@@ -91,7 +91,7 @@
 | 83 | 664 | Valerie Roberts |
 | 84 | 647 | Shauna Havard |
 | 85 | 647 | KM8 |
-| 86 | 647 | Shauna Havard |
+| 86 | 647 | Diana Houts |
 | 87 | 646 | Eric Mcgaughy |
 | 88 | 641 | Savannah Overdorf |
 | 89 | 633 | Jamie Gustafson |
@@ -113,8 +113,8 @@
 | 105 | 527 | Dizzy Tiley |
 | 106 | 519 | Nugget |
 | 107 | 514 | Serena Goodridge |
-| 108 | 513 | YoMomma |
-| 109 | 513 | shar |
+| 108 | 513 | shar |
+| 109 | 513 | YoMomma |
 | 110 | 513 | Erin Thomas |
 | 111 | 512 | Cristy Duerksen |
 | 112 | 512 | Casey Jeffcoat |
@@ -173,8 +173,8 @@
 | 165 | 358 | A5! |
 | 166 | 356 | George Nutt |
 | 167 | 352 | Sue Joyce Staats |
-| 168 | 349 | Rafael Valentin |
-| 169 | 349 | Twisty Cascadezone |
+| 168 | 349 | Twisty Cascadezone |
+| 169 | 349 | Rafael Valentin |
 | 170 | 348 | TRCuse |
 | 171 | 347 | Daria Rycewicz |
 | 172 | 339 | David Lay |
@@ -274,8 +274,8 @@
 | 266 | 226 | Dizzy Matchzone |
 | 267 | 226 | John Brunetti |
 | 268 | 225 | Jenna McGeorge |
-| 269 | 223 | Adawna Swires |
-| 270 | 223 | Amanda Christine |
+| 269 | 223 | Amanda Christine |
+| 270 | 223 | Adawna Swires |
 | 271 | 222 | Brandi Durig |
 | 272 | 222 | Chance Strickland |
 | 273 | 222 | Bethany Ison |
