@@ -849,7 +849,7 @@
 | 841 | 65 | Snappy Combofall |
 | 842 | 64 | Cassie Haydis |
 | 843 | 64 | Thomas R. Phillips |
-| 844 | 64 | Cassie Haydis |
+| 844 | 64 | Mary Therese Benden Cole |
 | 845 | 64 | Ace317 |
 | 846 | 64 | Calen Torez |
 | 847 | 63 | Anne-Marie Reyes |
