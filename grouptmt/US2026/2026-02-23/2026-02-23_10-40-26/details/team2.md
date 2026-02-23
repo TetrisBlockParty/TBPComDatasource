@@ -166,13 +166,13 @@
 | 158 | 1599 | Dustin Rains |
 | 159 | 1594 | Heather Westrum |
 | 160 | 1593 | Jose Mendoza |
-| 161 | 1588 | Mema |
-| 162 | 1588 | Lexi Tschappatt |
+| 161 | 1588 | Lexi Tschappatt |
+| 162 | 1588 | Mema |
 | 163 | 1581 | Brandy Andre |
 | 164 | 1580 | Sally Dennis |
 | 165 | 1574 | Stephen Stephen |
-| 166 | 1558 | Crystal Slaughter |
-| 167 | 1558 | Tim Dyer |
+| 166 | 1558 | Tim Dyer |
+| 167 | 1558 | Crystal Slaughter |
 | 168 | 1555 | blarg |
 | 169 | 1543 | Amy Sayers |
 | 170 | 1541 | Cherica Taylor |
@@ -416,8 +416,8 @@
 | 408 | 788 | Erika Densmore |
 | 409 | 787 | Tiara Elizabeth Baker |
 | 410 | 783 | John Rodriguez |
-| 411 | 777 | Tesha Oldaker |
-| 412 | 777 | Jessicah Myers |
+| 411 | 777 | Jessicah Myers |
+| 412 | 777 | Tesha Oldaker |
 | 413 | 776 | Fancy Twister |
 | 414 | 776 | Mighty Spinbuilder |
 | 415 | 775 | Crystie Hicks |
@@ -458,8 +458,8 @@
 | 450 | 737 | Ginger |
 | 451 | 737 | Chelle |
 | 452 | 732 | Victoria Moore-Smith |
-| 453 | 731 | Charvi' Carter |
-| 454 | 731 | Matthew Joseph Acevedo |
+| 453 | 731 | Matthew Joseph Acevedo |
+| 454 | 731 | Charvi' Carter |
 | 455 | 730 | Hoppy Brickmatch |
 | 456 | 729 | goofinoff |
 | 457 | 728 | Mikayala Szaz |
@@ -650,8 +650,8 @@
 | 642 | 554 | Bubbly Snapfit |
 | 643 | 554 | Dizzy Zone |
 | 644 | 554 | Tra Barnum |
-| 645 | 554 | Fi Ne |
-| 646 | 554 | Laquetta Royston |
+| 645 | 554 | Laquetta Royston |
+| 646 | 554 | Fi Ne |
 | 647 | 554 | Party d |
 | 648 | 553 | Kelli Wells |
 | 649 | 551 | Cynthia Louann Rose |
@@ -670,8 +670,8 @@
 | 662 | 544 | Armonie Smith |
 | 663 | 542 | Jarboe |
 | 664 | 540 | Lee Harper |
-| 665 | 538 | Jess Morrison |
-| 666 | 538 | Belle Mari |
+| 665 | 538 | Belle Mari |
+| 666 | 538 | Jess Morrison |
 | 667 | 538 | Mamachelle Eisweirth |
 | 668 | 537 | Kori Beth Babb |
 | 669 | 536 | Rhonda Petro |
@@ -913,8 +913,8 @@
 | 905 | 411 | Peppy Snapfall |
 | 906 | 410 | Michelle Grant-Moncrieft |
 | 907 | 409 | Lush Snapzone |
-| 908 | 408 | cornball |
-| 909 | 408 | Dad |
+| 908 | 408 | Dad |
+| 909 | 408 | cornball |
 | 910 | 408 | Janitta Alvarez |
 | 911 | 407 | Danielle DeLozier Plesec |
 | 912 | 407 | Christina Jarvis-Swarbrick |
@@ -975,8 +975,8 @@
 | 967 | 390 | Monique Foster |
 | 968 | 390 | MauroPRM |
 | 969 | 390 | Smiley Strike |
-| 970 | 390 | Tasia Stinson |
-| 971 | 390 | Kyla Louise |
+| 970 | 390 | Kyla Louise |
+| 971 | 390 | Tasia Stinson |
 | 972 | 389 | Loony Basepiece |
 | 973 | 389 | Ning Quiambao |
 | 974 | 388 | Tamara Bailey |

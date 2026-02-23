@@ -70,14 +70,14 @@
 | 62 | 834 | quicksand420 |
 | 63 | 807 | Amelpss |
 | 64 | 807 | Rachel Anne |
-| 65 | 788 | Julian Garcia |
-| 66 | 788 | Chilly Line |
-| 67 | 787 | Edward White |
-| 68 | 787 | loulou |
+| 65 | 788 | Chilly Line |
+| 66 | 788 | Julian Garcia |
+| 67 | 787 | loulou |
+| 68 | 787 | Edward White |
 | 69 | 767 | Shannon Ferrari |
 | 70 | 766 | Robin Watters |
-| 71 | 765 | Denise Carlson |
-| 72 | 765 | Robin Getchel |
+| 71 | 765 | Robin Getchel |
+| 72 | 765 | Denise Carlson |
 | 73 | 753 | TheNeesh50 |
 | 74 | 752 | Shane Kalamata Platoon |
 | 75 | 749 | Dustee Craddock-Harrison |
@@ -98,8 +98,8 @@
 | 90 | 659 | Jamie Gustafson |
 | 91 | 653 | Rica Mitchell |
 | 92 | 650 | KJ Pool |
-| 93 | 647 | Shauna Havard |
-| 94 | 647 | KM8 |
+| 93 | 647 | KM8 |
+| 94 | 647 | Shauna Havard |
 | 95 | 646 | Eric Mcgaughy |
 | 96 | 626 | Brittney Griggs |
 | 97 | 624 | Judy Cox |
@@ -205,12 +205,12 @@
 | 197 | 336 | JPW |
 | 198 | 332 | HastyGrabber |
 | 199 | 331 | Alan George LaRage |
-| 200 | 330 | Kathy Brookins |
-| 201 | 330 | blockstar |
+| 200 | 330 | blockstar |
+| 201 | 330 | Kathy Brookins |
 | 202 | 328 | scott |
 | 203 | 327 | J-Rizzle |
-| 204 | 324 | jim |
-| 205 | 324 | TinyLegoRose |
+| 204 | 324 | TinyLegoRose |
+| 205 | 324 | jim |
 | 206 | 321 | Meagan Nicole |
 | 207 | 320 | Lauren Scott |
 | 208 | 319 | Googenheim |
@@ -227,8 +227,8 @@
 | 219 | 307 | Michele Plunkett |
 | 220 | 306 | mike |
 | 221 | 305 | Melvin Baird |
-| 222 | 304 | Gdiguy |
-| 223 | 304 | Lindsay Ball |
+| 222 | 304 | Lindsay Ball |
+| 223 | 304 | Gdiguy |
 | 224 | 301 | Andria Lynn |
 | 225 | 300 | Dana Scott |
 | 226 | 297 | Lori |
@@ -286,18 +286,18 @@
 | 278 | 253 | Autum Leigh |
 | 279 | 251 | Carol Ricks Raymond |
 | 280 | 249 | Ak Jones |
-| 281 | 248 | Angelito |
-| 282 | 248 | Chirpy Basepiece |
+| 281 | 248 | Chirpy Basepiece |
+| 282 | 248 | Angelito |
 | 283 | 248 | Jose Dejesus |
 | 284 | 245 | 23 |
 | 285 | 244 | Perky Piecegrid |
 | 286 | 244 | Christina Black |
 | 287 | 244 | Elizabeth Tinoco |
 | 288 | 243 | Chair |
-| 289 | 242 | Chaz |
-| 290 | 242 | PurpleMoonMa |
-| 291 | 240 | Kim Hunt |
-| 292 | 240 | Perky Patternblock |
+| 289 | 242 | PurpleMoonMa |
+| 290 | 242 | Chaz |
+| 291 | 240 | Perky Patternblock |
+| 292 | 240 | Kim Hunt |
 | 293 | 239 | Denise B |
 | 294 | 239 | Laura Hosford |
 | 295 | 239 | Joanna |
@@ -305,8 +305,8 @@
 | 297 | 237 | Christine Therrien |
 | 298 | 235 | LaDonna LovinmesomeMe Lambert |
 | 299 | 235 | Shainne Brewer |
-| 300 | 234 | Richard-April Kice |
-| 301 | 234 | Shanon Klair |
+| 300 | 234 | Shanon Klair |
+| 301 | 234 | Richard-April Kice |
 | 302 | 234 | Diosa Ebalobo Magsael |
 | 303 | 233 | Joseph Edmonson |
 | 304 | 230 | Chantilly Laace |
@@ -377,8 +377,8 @@
 | 369 | 194 | Michelle Morris |
 | 370 | 194 | Sarah Hoffman |
 | 371 | 194 | Eri Kka |
-| 372 | 192 | Meg |
-| 373 | 192 | Twisty Risebuilder |
+| 372 | 192 | Twisty Risebuilder |
+| 373 | 192 | Meg |
 | 374 | 191 | Riverdale |
 | 375 | 191 | Earnest Thompson |
 | 376 | 191 | Norman Klick |
@@ -969,8 +969,8 @@
 | 961 | 67 | Zappy Piecefit |
 | 962 | 67 | Monica Manning-Bryson |
 | 963 | 67 | James May |
-| 964 | 67 | Mighty Blockzone |
-| 965 | 67 | Travis Poe |
+| 964 | 67 | Travis Poe |
+| 965 | 67 | Mighty Blockzone |
 | 966 | 66 | Veronica Garza |
 | 967 | 66 | TwistyMcTwist |
 | 968 | 66 | Anne-Marie Reyes |
@@ -1466,8 +1466,8 @@
 | 1458 | 25 | Nutty Tile |
 | 1459 | 25 | Garnet Glitz |
 | 1460 | 25 | Aleshia Harrity |
-| 1461 | 25 | Tammie Jewel DeSimon |
-| 1462 | 25 | LondynsDad Mal O KingKreole |
+| 1461 | 25 | LondynsDad Mal O KingKreole |
+| 1462 | 25 | Tammie Jewel DeSimon |
 | 1463 | 25 | Devin Crawford |
 | 1464 | 24 | yuh |
 | 1465 | 24 | Jeni Johnson |
