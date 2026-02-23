@@ -179,8 +179,8 @@
 | 171 | 434 | Yvonne Marie |
 | 172 | 432 | Lori Bales |
 | 173 | 426 | Maria C. Hernandez |
-| 174 | 425 | Tana |
-| 175 | 425 | Tyler Werts |
+| 174 | 425 | Tyler Werts |
+| 175 | 425 | Tana |
 | 176 | 424 | Emily Adelaide Wheatley |
 | 177 | 421 | Michelle Beres |
 | 178 | 420 | Cheeky Crusher |

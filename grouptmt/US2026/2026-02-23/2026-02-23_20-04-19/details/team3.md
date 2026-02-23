@@ -159,8 +159,8 @@
 | 151 | 779 | Justin Ritter |
 | 152 | 773 | Daryn Elliott |
 | 153 | 773 | Daira Largen |
-| 154 | 764 | Groovy Catcher |
-| 155 | 764 | Hasty Cascadefit |
+| 154 | 764 | Hasty Cascadefit |
+| 155 | 764 | Groovy Catcher |
 | 156 | 762 | Santeria Trece Candles |
 | 157 | 761 | Denita Mungro |
 | 158 | 761 | Peppy Shifter |
@@ -336,8 +336,8 @@
 | 328 | 383 | Skippy |
 | 329 | 382 | Amanda J. Mcneil-Anderson |
 | 330 | 381 | Noettín Kan Zasnemoore |
-| 331 | 379 | Kaitie Oliver |
-| 332 | 379 | Kelly |
+| 331 | 379 | Kelly |
+| 332 | 379 | Kaitie Oliver |
 | 333 | 378 | MsBee |
 | 334 | 377 | Hoppy Patternline |
 | 335 | 376 | Tasha Wesson-Torrence |
@@ -474,8 +474,8 @@
 | 466 | 291 | Niki Dalrymple |
 | 467 | 291 | Bryan Byrd |
 | 468 | 290 | Carrie Resler |
-| 469 | 290 | Tegan Chapman |
-| 470 | 290 | Justin Parker |
+| 469 | 290 | Justin Parker |
+| 470 | 290 | Tegan Chapman |
 | 471 | 289 | DidIdothat |
 | 472 | 287 | Jessica Lynn French |
 | 473 | 287 | Carol Cain Thurman |
