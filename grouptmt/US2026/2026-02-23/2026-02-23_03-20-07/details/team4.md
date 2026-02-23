@@ -114,9 +114,9 @@
 | 106 | 527 | Dizzy Tiley |
 | 107 | 519 | Nugget |
 | 108 | 514 | Serena Goodridge |
-| 109 | 513 | shar |
-| 110 | 513 | Erin Thomas |
-| 111 | 513 | YoMomma |
+| 109 | 513 | Erin Thomas |
+| 110 | 513 | YoMomma |
+| 111 | 513 | shar |
 | 112 | 512 | Casey Jeffcoat |
 | 113 | 512 | Cristy Duerksen |
 | 114 | 511 | Lori Walker |
@@ -136,8 +136,8 @@
 | 128 | 435 | Kristina Black |
 | 129 | 435 | Leslie Thomas |
 | 130 | 431 | Courtney Cicoria |
-| 131 | 421 | Kesha Brady |
-| 132 | 421 | Monica Daley |
+| 131 | 421 | Monica Daley |
+| 132 | 421 | Kesha Brady |
 | 133 | 421 | JIGsaw ~(•¿°)~ |
 | 134 | 418 | Lush Linkfall |
 | 135 | 418 | Marie-Pier Desjardins |
@@ -174,8 +174,8 @@
 | 166 | 358 | A5! |
 | 167 | 356 | George Nutt |
 | 168 | 352 | Sue Joyce Staats |
-| 169 | 349 | Twisty Cascadezone |
-| 170 | 349 | Rafael Valentin |
+| 169 | 349 | Rafael Valentin |
+| 170 | 349 | Twisty Cascadezone |
 | 171 | 348 | TRCuse |
 | 172 | 348 | April Rondinone |
 | 173 | 347 | Daria Rycewicz |
@@ -275,8 +275,8 @@
 | 267 | 235 | Jade Rian |
 | 268 | 234 | Richard-April Kice |
 | 269 | 233 | Ruben Wheeler |
-| 270 | 232 | Rio Rocha |
-| 271 | 232 | Joanna |
+| 270 | 232 | Joanna |
+| 271 | 232 | Rio Rocha |
 | 272 | 228 | Bethany Ison |
 | 273 | 226 | Cranky Rollpiece |
 | 274 | 226 | Chair |

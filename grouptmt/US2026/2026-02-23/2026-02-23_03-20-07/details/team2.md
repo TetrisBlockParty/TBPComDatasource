@@ -140,9 +140,9 @@
 | 132 | 1644 | Luna |
 | 133 | 1639 | Jessie McDougald |
 | 134 | 1631 | Speedy Spinblock |
-| 135 | 1623 | Mr. Street Stack |
-| 136 | 1623 | Rebecca Doughman |
-| 137 | 1623 | Janel Turley-Garner |
+| 135 | 1623 | Rebecca Doughman |
+| 136 | 1623 | Janel Turley-Garner |
+| 137 | 1623 | Mr. Street Stack |
 | 138 | 1622 | Mari Ac |
 | 139 | 1605 | Christi Hulet |
 | 140 | 1602 | blackq |
@@ -150,8 +150,8 @@
 | 142 | 1599 | Dustin Rains |
 | 143 | 1581 | Brandy Andre |
 | 144 | 1580 | Heather Westrum |
-| 145 | 1578 | Loopy Clusterbuilder |
-| 146 | 1578 | Sally Dennis |
+| 145 | 1578 | Sally Dennis |
+| 146 | 1578 | Loopy Clusterbuilder |
 | 147 | 1566 | Alisa Lamb |
 | 148 | 1558 | Tim Dyer |
 | 149 | 1555 | blarg |
@@ -1689,8 +1689,8 @@
 | 1681 | 215 | kippykay |
 | 1682 | 215 | Stacy Harper |
 | 1683 | 215 | SafetyEyes16 |
-| 1684 | 215 | Afr Afr |
-| 1685 | 215 | Amanda Gray |
+| 1684 | 215 | Amanda Gray |
+| 1685 | 215 | Afr Afr |
 | 1686 | 215 | Boldy Wiper |
 | 1687 | 214 | Fancy Zigzag |
 | 1688 | 214 | Wha |

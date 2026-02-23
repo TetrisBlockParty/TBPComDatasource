@@ -169,12 +169,12 @@
 | 161 | 573 | Demetrious Shaw Sr. |
 | 162 | 572 | CeceGeGe |
 | 163 | 568 | Rachael McClain Owens |
-| 164 | 562 | Dave Herzog |
-| 165 | 562 | Louise Stacy Sisson |
+| 164 | 562 | Louise Stacy Sisson |
+| 165 | 562 | Dave Herzog |
 | 166 | 557 | Michael Nowogorski |
 | 167 | 553 | LaTanya GeminiondaRise Johnson |
-| 168 | 546 | Mykal Burton |
-| 169 | 546 | Cynthia Castros-Hampton |
+| 168 | 546 | Cynthia Castros-Hampton |
+| 169 | 546 | Mykal Burton |
 | 170 | 540 | Elissa S-k |
 | 171 | 540 | Shawn Miller |
 | 172 | 535 | Jone |
@@ -308,24 +308,24 @@
 | 300 | 303 | Carrie Huskey |
 | 301 | 303 | Hoppy Buildout |
 | 302 | 302 | LaShey Thompson |
-| 303 | 301 | Betty Rosas |
-| 304 | 301 | Tiffany Davie |
+| 303 | 301 | Tiffany Davie |
+| 304 | 301 | Betty Rosas |
 | 305 | 299 | Angie Harper |
 | 306 | 298 | Grams |
 | 307 | 297 | Cheeky Snapper |
 | 308 | 297 | kacihall |
 | 309 | 296 | Donna |
-| 310 | 296 | Tracy Martin |
-| 311 | 296 | Hasty Gridpiece |
+| 310 | 296 | Hasty Gridpiece |
+| 311 | 296 | Tracy Martin |
 | 312 | 294 | fraulila |
 | 313 | 291 | Geoffrey Nash |
 | 314 | 289 | DidIdothat |
 | 315 | 287 | Sabrina Hardrick |
 | 316 | 287 | Carol Cain Thurman |
 | 317 | 287 | Hoppy Patternline |
-| 318 | 286 | Micayah Stevens |
-| 319 | 286 | Salena Whitlock |
-| 320 | 286 | Lizabeth Fox |
+| 318 | 286 | Salena Whitlock |
+| 319 | 286 | Lizabeth Fox |
+| 320 | 286 | Micayah Stevens |
 | 321 | 284 | Hanna Kim |
 | 322 | 281 | Kaycee Kay |
 | 323 | 280 | Aerian Preston |
@@ -357,7 +357,7 @@
 | 349 | 272 | Romeo |
 | 350 | 272 | Tay |
 | 351 | 271 | Grego Daniel |
-| 352 | 269 | Juliana Dottore |
+| 352 | 269 | Jess Bissett |
 | 353 | 269 | Samantha Worley |
 | 354 | 269 | Juliana Dottore |
 | 355 | 267 | April Matthew Kibble |
@@ -807,8 +807,8 @@
 | 799 | 123 | Alisha Osborne |
 | 800 | 123 | lydynred |
 | 801 | 123 | Autumn Lenhart |
-| 802 | 123 | Brittany Shantea Maynard |
-| 803 | 123 | Doddie Marie |
+| 802 | 123 | Doddie Marie |
+| 803 | 123 | Brittany Shantea Maynard |
 | 804 | 122 | Brian Frickman |
 | 805 | 122 | Kristen McAlpine |
 | 806 | 122 | Christopher Mastropietro |
@@ -817,7 +817,7 @@
 | 809 | 122 | Clever Patterner |
 | 810 | 122 | Allie Kershner |
 | 811 | 121 | Samantha Long |
-| 812 | 121 | Alexsandran Valdivia |
+| 812 | 121 | Six |
 | 813 | 121 | Nerdy Snapbuild |
 | 814 | 121 | Alexsandran Valdivia |
 | 815 | 120 | fred |
