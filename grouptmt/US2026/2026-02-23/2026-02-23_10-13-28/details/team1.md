@@ -141,8 +141,8 @@
 | 133 | 429 | Kristi Johnson |
 | 134 | 428 | Ly Phethmany |
 | 135 | 426 | Maria C. Hernandez |
-| 136 | 425 | Tyler Werts |
-| 137 | 425 | Dandy Basegrid |
+| 136 | 425 | Dandy Basegrid |
+| 137 | 425 | Tyler Werts |
 | 138 | 423 | ALFD |
 | 139 | 417 | Phu ckalldems |
 | 140 | 411 | BadG52 |
@@ -271,8 +271,8 @@
 | 263 | 260 | Marianita Garcia |
 | 264 | 260 | Lacy Wolfe |
 | 265 | 256 | Chris Sigurdson |
-| 266 | 255 | Beazel75 |
-| 267 | 255 | Giggly Builderline |
+| 266 | 255 | Giggly Builderline |
+| 267 | 255 | Beazel75 |
 | 268 | 254 | Al Smith Jr |
 | 269 | 254 | Tyler Hertzog |
 | 270 | 253 | Cece Ibarra |

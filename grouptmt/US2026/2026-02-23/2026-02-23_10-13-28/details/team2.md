@@ -496,8 +496,8 @@
 | 488 | 689 | Gauri Shrotriya |
 | 489 | 686 | Christine Coughlin |
 | 490 | 684 | Sarah DeHart |
-| 491 | 684 | Ellie Jonas |
-| 492 | 684 | Ann Knutson Anderson |
+| 491 | 684 | Ann Knutson Anderson |
+| 492 | 684 | Ellie Jonas |
 | 493 | 682 | Vanessa Moreno |
 | 494 | 682 | Antionette Sewell |
 | 495 | 681 | Gloria Liu |

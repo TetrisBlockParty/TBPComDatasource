@@ -76,8 +76,8 @@
 | 68 | 787 | Edward White |
 | 69 | 767 | Shannon Ferrari |
 | 70 | 766 | Robin Watters |
-| 71 | 765 | Robin Getchel |
-| 72 | 765 | Denise Carlson |
+| 71 | 765 | Denise Carlson |
+| 72 | 765 | Robin Getchel |
 | 73 | 753 | TheNeesh50 |
 | 74 | 752 | Shane Kalamata Platoon |
 | 75 | 749 | Dustee Craddock-Harrison |
@@ -98,8 +98,8 @@
 | 90 | 659 | Jamie Gustafson |
 | 91 | 653 | Rica Mitchell |
 | 92 | 650 | KJ Pool |
-| 93 | 647 | KM8 |
-| 94 | 647 | Shauna Havard |
+| 93 | 647 | Shauna Havard |
+| 94 | 647 | KM8 |
 | 95 | 646 | Eric Mcgaughy |
 | 96 | 626 | Brittney Griggs |
 | 97 | 624 | Judy Cox |
@@ -125,8 +125,8 @@
 | 117 | 527 | Dizzy Tiley |
 | 118 | 519 | Nugget |
 | 119 | 517 | shar |
-| 120 | 514 | Serena Goodridge |
-| 121 | 514 | Scott Jameson |
+| 120 | 514 | Scott Jameson |
+| 121 | 514 | Serena Goodridge |
 | 122 | 513 | Erin Thomas |
 | 123 | 512 | Cristy Duerksen |
 | 124 | 512 | Casey Jeffcoat |
@@ -162,8 +162,8 @@
 | 154 | 413 | Circuit8 |
 | 155 | 412 | Jessica Bohlken |
 | 156 | 408 | Amanda Pauldo-Ivy |
-| 157 | 406 | Livvy |
-| 158 | 406 | Damn Libra |
+| 157 | 406 | Damn Libra |
+| 158 | 406 | Livvy |
 | 159 | 403 | Keith Kelley |
 | 160 | 402 | Lucas J Sutton |
 | 161 | 398 | Tyler Terrific |
@@ -243,8 +243,8 @@
 | 235 | 288 | Brittney Orengo |
 | 236 | 285 | 030Synner |
 | 237 | 284 | Mimi |
-| 238 | 282 | Matt Gooder |
-| 239 | 282 | Kim Klutz Olson |
+| 238 | 282 | Kim Klutz Olson |
+| 239 | 282 | Matt Gooder |
 | 240 | 281 | Laura |
 | 241 | 280 | Rio Rocha |
 | 242 | 279 | Malakai Darien Fox |
@@ -267,8 +267,8 @@
 | 259 | 264 | ZeeZee |
 | 260 | 264 | Stella |
 | 261 | 263 | rebel4lyfe |
-| 262 | 262 | BigSammy420 |
-| 263 | 262 | Selena Shaw |
+| 262 | 262 | Selena Shaw |
+| 263 | 262 | BigSammy420 |
 | 264 | 261 | Zethra Prenisha Rahming |
 | 265 | 260 | Lori |
 | 266 | 260 | Carter Jones |
@@ -560,8 +560,8 @@
 | 552 | 130 | Holly Tracey-Grimes |
 | 553 | 130 | KoolMom9907 |
 | 554 | 129 | Tamika Starkey |
-| 555 | 129 | Jessica Wells |
-| 556 | 129 | Dreamy Snapgrid |
+| 555 | 129 | Dreamy Snapgrid |
+| 556 | 129 | Jessica Wells |
 | 557 | 128 | Zesty Linkgrid |
 | 558 | 128 | Lazy Glidepiece |
 | 559 | 128 | Raymond Roberts |
@@ -1448,7 +1448,7 @@
 | 1440 | 26 | Giddy Dropmatch |
 | 1441 | 26 | Daring Strike |
 | 1442 | 26 | Haley Jean |
-| 1443 | 26 | Giddy Dropmatch |
+| 1443 | 26 | Jeff Barney |
 | 1444 | 26 | Swanky Jumper |
 | 1445 | 26 | Nutty Grabber |
 | 1446 | 26 | Anita Kramer |
