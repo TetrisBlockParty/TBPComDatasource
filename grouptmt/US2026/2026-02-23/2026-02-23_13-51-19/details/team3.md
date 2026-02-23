@@ -29,8 +29,8 @@
 | 21 | 2697 | River |
 | 22 | 2499 | mjl574 |
 | 23 | 2387 | Susan Valentino |
-| 24 | 2353 | Tetris Master |
-| 25 | 2353 | Laura Melton |
+| 24 | 2353 | Laura Melton |
+| 25 | 2353 | Tetris Master |
 | 26 | 2311 | Brandon Green |
 | 27 | 2271 | Jeana Gilbert |
 | 28 | 2235 | Ant Ant |
@@ -119,8 +119,8 @@
 | 111 | 869 | Araceli Parra |
 | 112 | 868 | Sarajane Lokan |
 | 113 | 860 | Sunny Rotater |
-| 114 | 851 | Jd Morris |
-| 115 | 851 | Danielle Becker |
+| 114 | 851 | Danielle Becker |
+| 115 | 851 | Jd Morris |
 | 116 | 850 | Danielle Mogg |
 | 117 | 848 | Patricia Gadsden |
 | 118 | 839 | Angeline Joseph |
@@ -133,8 +133,8 @@
 | 125 | 779 | Justin Ritter |
 | 126 | 774 | Keith J Oshman Jr. |
 | 127 | 773 | Daira Largen |
-| 128 | 764 | Groovy Catcher |
-| 129 | 764 | Hasty Cascadefit |
+| 128 | 764 | Hasty Cascadefit |
+| 129 | 764 | Groovy Catcher |
 | 130 | 762 | Speedy Bridger |
 | 131 | 761 | JerseyJess |
 | 132 | 757 | Fancy Cascader |
@@ -185,8 +185,8 @@
 | 177 | 591 | Michael Nowogorski |
 | 178 | 589 | Kaycee Kay |
 | 179 | 587 | Louise Stacy Sisson |
-| 180 | 585 | Happy Tetriblast |
-| 181 | 585 | Domo Washington |
+| 180 | 585 | Domo Washington |
+| 181 | 585 | Happy Tetriblast |
 | 182 | 583 | Tasha Gillespie |
 | 183 | 582 | Natasha Jones |
 | 184 | 574 | Morgan Martinez |
@@ -324,8 +324,8 @@
 | 316 | 352 | LadyTorad |
 | 317 | 351 | Blocked |
 | 318 | 351 | Eon Harris |
-| 319 | 349 | Amanda J. Mcneil-Anderson |
-| 320 | 349 | Num1hater |
+| 319 | 349 | Num1hater |
+| 320 | 349 | Amanda J. Mcneil-Anderson |
 | 321 | 348 | Ashley Raines |
 | 322 | 346 | Chummy Rumbler |
 | 323 | 345 | gremicx |
@@ -384,10 +384,10 @@
 | 376 | 301 | Michael Lucado |
 | 377 | 299 | Hasty Gridpiece |
 | 378 | 299 | Antonia Russell |
-| 379 | 299 | Angie Harper |
-| 380 | 299 | TotoCherue |
-| 381 | 298 | Dannie Litchard |
-| 382 | 298 | Grams |
+| 379 | 299 | TotoCherue |
+| 380 | 299 | Angie Harper |
+| 381 | 298 | Grams |
+| 382 | 298 | Dannie Litchard |
 | 383 | 298 | Tay |
 | 384 | 297 | kacihall |
 | 385 | 296 | Donna |
@@ -402,8 +402,8 @@
 | 394 | 289 | DidIdothat |
 | 395 | 289 | Cheryl Hinch Tenbrook |
 | 396 | 288 | Kristi Taylor |
-| 397 | 288 | Hoppy Patternline |
-| 398 | 288 | Stephanie Bradley |
+| 397 | 288 | Stephanie Bradley |
+| 398 | 288 | Hoppy Patternline |
 | 399 | 287 | Carol Cain Thurman |
 | 400 | 285 | Heather De Vries Cobb |
 | 401 | 284 | Hanna Kim |

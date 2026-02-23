@@ -241,15 +241,15 @@
 | 233 | 322 | Letson Melissa |
 | 234 | 321 | Danielle Little-Daugherty |
 | 235 | 319 | Frothy Pattern |
-| 236 | 317 | Sarah Roberts |
-| 237 | 317 | Melissa Lemmon |
+| 236 | 317 | Melissa Lemmon |
+| 237 | 317 | Sarah Roberts |
 | 238 | 316 | Sassy Builderline |
 | 239 | 315 | Mandyy Rae |
 | 240 | 314 | Daring Fitclear |
 | 241 | 313 | Sylvia Vasquez |
 | 242 | 313 | Cody Gates |
-| 243 | 312 | Jessi Sauer |
-| 244 | 312 | Mitchel White |
+| 243 | 312 | Mitchel White |
+| 244 | 312 | Jessi Sauer |
 | 245 | 310 | Bloknboy |
 | 246 | 308 | Speedy Liney |
 | 247 | 305 | Plucky Stacky |

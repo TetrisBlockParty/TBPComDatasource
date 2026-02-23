@@ -67,8 +67,8 @@
 | 59 | 872 | Shelly Chandler |
 | 60 | 871 | Pee |
 | 61 | 870 | BertMofo |
-| 62 | 846 | Christine Marie |
-| 63 | 846 | Lucille Truesdale |
+| 62 | 846 | Lucille Truesdale |
+| 63 | 846 | Christine Marie |
 | 64 | 834 | quicksand420 |
 | 65 | 827 | Avy Absol |
 | 66 | 807 | Amelpss |
