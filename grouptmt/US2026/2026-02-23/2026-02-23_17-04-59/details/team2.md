@@ -214,8 +214,8 @@
 | 206 | 1461 | Tonya Morgan |
 | 207 | 1453 | Wendy Unsain |
 | 208 | 1452 | Cody Smith-Candelaria |
-| 209 | 1450 | Shiny Rollzone |
-| 210 | 1450 | Mischelle Clay |
+| 209 | 1450 | Mischelle Clay |
+| 210 | 1450 | Shiny Rollzone |
 | 211 | 1442 | Glitzy Stackzone |
 | 212 | 1438 | Ashley Dow |
 | 213 | 1418 | L3sli3 |
@@ -321,8 +321,8 @@
 | 313 | 1065 | Dany Murillo |
 | 314 | 1059 | Bri Lynn |
 | 315 | 1052 | Desiree Anderson |
-| 316 | 1050 | Amber Brion |
-| 317 | 1050 | Jennifer Aiken |
+| 316 | 1050 | Jennifer Aiken |
+| 317 | 1050 | Amber Brion |
 | 318 | 1049 | Ashlen Dorrell |
 | 319 | 1047 | Tiffany Branham |
 | 320 | 1045 | Lourisha |
@@ -564,8 +564,8 @@
 | 556 | 679 | Prette Qui |
 | 557 | 679 | Kassandra Hunt |
 | 558 | 677 | Kayleigh Wisse |
-| 559 | 677 | Cynthia Louann Rose |
-| 560 | 677 | Paul Combs |
+| 559 | 677 | Paul Combs |
+| 560 | 677 | Cynthia Louann Rose |
 | 561 | 676 | Roseanna Peloso |
 | 562 | 676 | Nicky Jackson |
 | 563 | 675 | Lyndi Robinson Wakefield |
@@ -599,14 +599,14 @@
 | 591 | 651 | Unica Rector |
 | 592 | 649 | Hunter Connors |
 | 593 | 648 | Emilee Burke |
-| 594 | 647 | Jackie Avila |
-| 595 | 647 | CC |
+| 594 | 647 | CC |
+| 595 | 647 | Jackie Avila |
 | 596 | 647 | Jenn Marie |
 | 597 | 645 | Shiny Twistfit |
 | 598 | 645 | James Smith |
 | 599 | 645 | Andre Love |
-| 600 | 643 | Michelle Pike |
-| 601 | 643 | Stephanie Fortune |
+| 600 | 643 | Stephanie Fortune |
+| 601 | 643 | Michelle Pike |
 | 602 | 642 | snkylnk |
 | 603 | 642 | Michelle Fields |
 | 604 | 641 | Snazzy Basepiece |

@@ -251,8 +251,8 @@
 | 243 | 330 | Kathy Brookins |
 | 244 | 329 | Brickh4us |
 | 245 | 324 | jim |
-| 246 | 324 | TinyLegoRose |
-| 247 | 324 | Lauren Lamb |
+| 246 | 324 | Lauren Lamb |
+| 247 | 324 | TinyLegoRose |
 | 248 | 321 | Meagan Nicole |
 | 249 | 317 | Madison Sweere |
 | 250 | 316 | Autumn Kumzi |
@@ -266,7 +266,7 @@
 | 258 | 310 | Stacey Stano |
 | 259 | 308 | Leah Kutz Zirbel |
 | 260 | 307 | Cheery Risebuilder |
-| 261 | 307 | Tina Lopez |
+| 261 | 307 | Michele Plunkett |
 | 262 | 307 | Angie Schmidt |
 | 263 | 307 | Tina Lopez |
 | 264 | 306 | mike |

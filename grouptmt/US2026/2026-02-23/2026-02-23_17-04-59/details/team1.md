@@ -74,8 +74,8 @@
 | 66 | 892 | Seth Wesson |
 | 67 | 878 | Jacqueline Williams |
 | 68 | 865 | Erin Hodges Plumb |
-| 69 | 864 | comrade fish |
-| 70 | 864 | Sevens4L |
+| 69 | 864 | Sevens4L |
+| 70 | 864 | comrade fish |
 | 71 | 851 | Ashley Elizabeth |
 | 72 | 848 | Drew Magnus |
 | 73 | 783 | Redlicious 1 |
@@ -89,8 +89,8 @@
 | 81 | 713 | Snappy Swiper |
 | 82 | 713 | Robert Benito |
 | 83 | 710 | Jennifer ManWarren |
-| 84 | 706 | Denice Dee |
-| 85 | 706 | Plucky Fallzone |
+| 84 | 706 | Plucky Fallzone |
+| 85 | 706 | Denice Dee |
 | 86 | 704 | Karin Gillen |
 | 87 | 703 | Angel Fowler |
 | 88 | 702 | Kellie |
@@ -164,8 +164,8 @@
 | 156 | 448 | Sweet Baker |
 | 157 | 446 | SkipTheSadSauce |
 | 158 | 443 | femmefatale |
-| 159 | 440 | Kimmie Kimms |
-| 160 | 440 | Timothy Danaher |
+| 159 | 440 | Timothy Danaher |
+| 160 | 440 | Kimmie Kimms |
 | 161 | 435 | Dandy Basegrid |
 | 162 | 434 | Yvonne Marie |
 | 163 | 426 | Maria C. Hernandez |
@@ -215,8 +215,8 @@
 | 207 | 365 | Shannon Marie Pitts |
 | 208 | 365 | Amanda Holibaugh |
 | 209 | 364 | Serina Marie |
-| 210 | 364 | Shauna Loe |
-| 211 | 364 | David Lutcher |
+| 210 | 364 | David Lutcher |
+| 211 | 364 | Shauna Loe |
 | 212 | 362 | Gracie |
 | 213 | 360 | Lakeisha Chapman |
 | 214 | 360 | MIKOZ |
