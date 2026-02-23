@@ -93,8 +93,8 @@
 | 85 | 2515 | Crystalin Heath Lewis |
 | 86 | 2500 | Rosemadder |
 | 87 | 2438 | Rob Surace |
-| 88 | 2428 | Deanna Morton |
-| 89 | 2428 | Thomas Hughes |
+| 88 | 2428 | Thomas Hughes |
+| 89 | 2428 | Deanna Morton |
 | 90 | 2410 | RdRydnHd |
 | 91 | 2400 | Rich Sullivan |
 | 92 | 2375 | Megan Peckham |
@@ -288,8 +288,8 @@
 | 280 | 1011 | Teresa Gillmore |
 | 281 | 1007 | Missie Lawson Gebhardt |
 | 282 | 1003 | Andrea Maher |
-| 283 | 998 | Keri Womack |
-| 284 | 998 | Shelley Thornburgh Wright |
+| 283 | 998 | Shelley Thornburgh Wright |
+| 284 | 998 | Keri Womack |
 | 285 | 996 | Ashie Ann |
 | 286 | 988 | Juliana Marques Do Nascimento Gordy |
 | 287 | 987 | Osun Anuket Esu |

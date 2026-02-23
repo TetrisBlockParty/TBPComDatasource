@@ -78,15 +78,15 @@
 | 70 | 706 | Seante Bullock |
 | 71 | 705 | comrade fish |
 | 72 | 704 | Karin Gillen |
-| 73 | 703 | Snappy Swiper |
-| 74 | 703 | Angel Fowler |
+| 73 | 703 | Angel Fowler |
+| 74 | 703 | Snappy Swiper |
 | 75 | 655 | Brenda Stewart |
 | 76 | 647 | Jason Jones |
 | 77 | 646 | Susanna Guerry |
 | 78 | 612 | Hasbro Bros |
 | 79 | 599 | Cynthia Bradley |
-| 80 | 598 | Erin Hodges Plumb |
-| 81 | 598 | Kellie |
+| 80 | 598 | Kellie |
+| 81 | 598 | Erin Hodges Plumb |
 | 82 | 597 | Evie Khalil |
 | 83 | 588 | Greg Hart |
 | 84 | 584 | Jen Sartain |
@@ -96,8 +96,8 @@
 | 88 | 570 | Cody Slav |
 | 89 | 562 | Denice Dee |
 | 90 | 537 | Tee Sheree |
-| 91 | 534 | Veronica Eve |
-| 92 | 534 | Loony Fitzone |
+| 91 | 534 | Loony Fitzone |
+| 92 | 534 | Veronica Eve |
 | 93 | 532 | Robert Benito |
 | 94 | 529 | Ryan Lunnin |
 | 95 | 522 | Sarah Lombardo |
@@ -156,14 +156,14 @@
 | 148 | 376 | Death |
 | 149 | 376 | Brian Richardsson |
 | 150 | 375 | Tanya Carpenter-Reynolds |
-| 151 | 371 | Jason Savage |
-| 152 | 371 | Basment Living |
+| 151 | 371 | Basment Living |
+| 152 | 371 | Jason Savage |
 | 153 | 368 | Amanda Johnson Huffman |
 | 154 | 367 | Sharon Reynolds |
 | 155 | 366 | J.F. Fields |
 | 156 | 365 | Carrie Smith |
-| 157 | 364 | Shauna Loe |
-| 158 | 364 | Serina Marie |
+| 157 | 364 | Serina Marie |
+| 158 | 364 | Shauna Loe |
 | 159 | 360 | Wisa |
 | 160 | 359 | Kristi Johnson |
 | 161 | 357 | David Lutcher |
@@ -223,8 +223,8 @@
 | 215 | 285 | Shanae Grant |
 | 216 | 283 | Amanda Holibaugh |
 | 217 | 283 | Franswa |
-| 218 | 282 | Mandyy Rae |
-| 219 | 282 | Timothy Dew |
+| 218 | 282 | Timothy Dew |
+| 219 | 282 | Mandyy Rae |
 | 220 | 281 | Clever Cascadepiece |
 | 221 | 280 | Billie Dawn Sparks |
 | 222 | 279 | Bird Person |

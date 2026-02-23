@@ -79,16 +79,16 @@
 | 71 | 749 | Dustee Craddock-Harrison |
 | 72 | 742 | Carolyn Wallace |
 | 73 | 740 | Avy Absol |
-| 74 | 736 | Crystal Carroll |
-| 75 | 736 | Goatimus Lombardi |
+| 74 | 736 | Goatimus Lombardi |
+| 75 | 736 | Crystal Carroll |
 | 76 | 721 | TheNeesh50 |
 | 77 | 717 | D3TROITB0RN74 |
 | 78 | 706 | Lisa Davis |
 | 79 | 703 | Savannah Overdorf |
 | 80 | 697 | Alyssa Papen |
 | 81 | 696 | Shane Kalamata Platoon |
-| 82 | 684 | Jonathan Kimbrough |
-| 83 | 684 | Kimyatta Cavin |
+| 82 | 684 | Kimyatta Cavin |
+| 83 | 684 | Jonathan Kimbrough |
 | 84 | 677 | Trista Leah |
 | 85 | 673 | Jacqueline Helm |
 | 86 | 670 | Destiney Carter |
@@ -136,8 +136,8 @@
 | 128 | 458 | Twisty Clicky |
 | 129 | 451 | Peachy Fall |
 | 130 | 448 | Kristin Manee |
-| 131 | 435 | Kristina Black |
-| 132 | 435 | Leslie Thomas |
+| 131 | 435 | Leslie Thomas |
+| 132 | 435 | Kristina Black |
 | 133 | 431 | Courtney Cicoria |
 | 134 | 426 | 🥔🥔 Spudz |
 | 135 | 425 | Monica Daley |

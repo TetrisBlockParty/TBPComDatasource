@@ -118,8 +118,8 @@
 | 110 | 831 | Angeline Joseph |
 | 111 | 830 | Stephanie Allmon |
 | 112 | 826 | Shane Wilson Jr. |
-| 113 | 816 | Brenda Lee Vander Molen |
-| 114 | 816 | Jesse Olive |
+| 113 | 816 | Jesse Olive |
+| 114 | 816 | Brenda Lee Vander Molen |
 | 115 | 800 | Lauren Girouard |
 | 116 | 799 | Dolores Falco |
 | 117 | 769 | Kristie |
@@ -498,8 +498,8 @@
 | 490 | 208 | Luccy Luxe |
 | 491 | 207 | Nichol Graham |
 | 492 | 207 | Misstery |
-| 493 | 206 | Tammy Rosenberry |
-| 494 | 206 | Boldy Blocker |
+| 493 | 206 | Boldy Blocker |
+| 494 | 206 | Tammy Rosenberry |
 | 495 | 206 | Dakota Graham |
 | 496 | 205 | Dapper Liney |
 | 497 | 205 | Rachel Napper |
