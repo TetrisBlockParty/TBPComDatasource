@@ -279,8 +279,8 @@
 | 271 | 354 | Andrew Thorson |
 | 272 | 354 | Roary Danner |
 | 273 | 354 | Kelly |
-| 274 | 353 | Cyd061769 |
-| 275 | 353 | Dee Franklin |
+| 274 | 353 | Dee Franklin |
+| 275 | 353 | Cyd061769 |
 | 276 | 352 | Christian Werndl |
 | 277 | 351 | Eon Harris |
 | 278 | 351 | Blocked |
@@ -358,8 +358,8 @@
 | 350 | 281 | Kaycee Kay |
 | 351 | 280 | ROODBOY |
 | 352 | 280 | Aerian Preston |
-| 353 | 280 | Ivan Del Toro |
-| 354 | 280 | Dirtgirl27 |
+| 353 | 280 | Dirtgirl27 |
+| 354 | 280 | Ivan Del Toro |
 | 355 | 279 | Tosha Griffey |
 | 356 | 279 | Naur |
 | 357 | 278 | Rufus Lincoln |
@@ -739,8 +739,8 @@
 | 731 | 146 | Sara Dunn |
 | 732 | 146 | Vikkye Vizaniaris |
 | 733 | 146 | Geronimo |
-| 734 | 145 | Rank Stranger |
-| 735 | 145 | Quirky Snapfit |
+| 734 | 145 | Quirky Snapfit |
+| 735 | 145 | Rank Stranger |
 | 736 | 145 | Karen Picaboo |
 | 737 | 144 | Janay Darkstallion Robinson |
 | 738 | 144 | Tiffany's TwinsRus Thrifty |

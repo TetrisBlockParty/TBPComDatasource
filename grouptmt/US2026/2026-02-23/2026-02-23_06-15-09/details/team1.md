@@ -87,8 +87,8 @@
 | 79 | 646 | Susanna Guerry |
 | 80 | 637 | Evie Khalil |
 | 81 | 600 | Greg Hart |
-| 82 | 598 | Kellie |
-| 83 | 598 | Erin Hodges Plumb |
+| 82 | 598 | Erin Hodges Plumb |
+| 83 | 598 | Kellie |
 | 84 | 584 | Jen Sartain |
 | 85 | 583 | Theo Pinnow |
 | 86 | 582 | Plucky Fallzone |
@@ -102,18 +102,18 @@
 | 94 | 529 | Ryan Lunnin |
 | 95 | 522 | Sarah Lombardo |
 | 96 | 511 | Mario Cab |
-| 97 | 510 | Chirpy Smasher |
-| 98 | 510 | Colena Davenport |
+| 97 | 510 | Colena Davenport |
+| 98 | 510 | Chirpy Smasher |
 | 99 | 509 | Rachael |
 | 100 | 497 | Arianna O'Brien |
 | 101 | 493 | MomMom |
 | 102 | 493 | Jennifer ManWarren |
 | 103 | 492 | Ash Galvan |
 | 104 | 491 | cc |
-| 105 | 489 | April Carroll |
-| 106 | 489 | Deanna L Hermanson |
-| 107 | 483 | Tdub |
-| 108 | 483 | Trina Gee |
+| 105 | 489 | Deanna L Hermanson |
+| 106 | 489 | April Carroll |
+| 107 | 483 | Trina Gee |
+| 108 | 483 | Tdub |
 | 109 | 480 | Ty Brown |
 | 110 | 478 | Stephanie Zahn |
 | 111 | 463 | Lexuriuos Lifestlye |
@@ -138,23 +138,23 @@
 | 130 | 425 | Dandy Basegrid |
 | 131 | 411 | BadG52 |
 | 132 | 409 | Goose egg |
-| 133 | 406 | Candy Jones |
-| 134 | 406 | Desiree Deschaine Havee |
+| 133 | 406 | Desiree Deschaine Havee |
+| 134 | 406 | Candy Jones |
 | 135 | 402 | Chris K |
-| 136 | 399 | Nery Martinez |
-| 137 | 399 | ALFD |
+| 136 | 399 | ALFD |
+| 137 | 399 | Nery Martinez |
 | 138 | 394 | Lori Bales |
 | 139 | 392 | And |
 | 140 | 389 | David Miller |
 | 141 | 388 | Fmp |
 | 142 | 387 | Emily Adelaide Wheatley |
-| 143 | 387 | Monica Donato |
-| 144 | 387 | Ananda Mendez |
-| 145 | 383 | pjbeta |
-| 146 | 383 | Margo Wagner |
+| 143 | 387 | Ananda Mendez |
+| 144 | 387 | Monica Donato |
+| 145 | 383 | Margo Wagner |
+| 146 | 383 | pjbeta |
 | 147 | 380 | phrmblk24 |
-| 148 | 379 | Austin James |
-| 149 | 379 | Kimmie Kimms |
+| 148 | 379 | Kimmie Kimms |
+| 149 | 379 | Austin James |
 | 150 | 378 | Carrie Smith |
 | 151 | 376 | Death |
 | 152 | 376 | Brian Richardsson |
@@ -225,8 +225,8 @@
 | 217 | 290 | Hellsin |
 | 218 | 290 | Tavia |
 | 219 | 287 | Sassy Builderline |
-| 220 | 285 | Bird Person |
-| 221 | 285 | Shanae Grant |
+| 220 | 285 | Shanae Grant |
+| 221 | 285 | Bird Person |
 | 222 | 284 | Sarah Somers Gray |
 | 223 | 283 | Franswa |
 | 224 | 283 | Amanda Holibaugh |
@@ -234,8 +234,8 @@
 | 226 | 282 | Timothy Dew |
 | 227 | 281 | Clever Cascadepiece |
 | 228 | 280 | Billie Dawn Sparks |
-| 229 | 277 | Nutty Spinblock |
-| 230 | 277 | Melissa Lemmon |
+| 229 | 277 | Melissa Lemmon |
+| 230 | 277 | Nutty Spinblock |
 | 231 | 275 | Chris65 |
 | 232 | 275 | Cheeky Pop |
 | 233 | 274 | Lakeisha Chapman |
@@ -251,8 +251,8 @@
 | 243 | 263 | Jessie Lynn |
 | 244 | 261 | Brooke Elizabeth Antill |
 | 245 | 261 | John J. Cronin |
-| 246 | 260 | Marianita Garcia |
-| 247 | 260 | Lacy Wolfe |
+| 246 | 260 | Lacy Wolfe |
+| 247 | 260 | Marianita Garcia |
 | 248 | 256 | Chris Sigurdson |
 | 249 | 255 | Giggly Builderline |
 | 250 | 254 | Al Smith Jr |

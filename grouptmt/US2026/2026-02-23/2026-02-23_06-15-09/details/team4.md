@@ -54,13 +54,13 @@
 | 46 | 938 | Denny Shives |
 | 47 | 936 | Rebecca Moulton Pinciaro |
 | 48 | 932 | Marvin Lou Martin |
-| 49 | 911 | Jeremy Steines |
-| 50 | 911 | Anthony Bryan Riva |
+| 49 | 911 | Anthony Bryan Riva |
+| 50 | 911 | Jeremy Steines |
 | 51 | 870 | BertMofo |
 | 52 | 863 | Pee |
 | 53 | 853 | TeeJ |
-| 54 | 846 | Lucille Truesdale |
-| 55 | 846 | Christine Marie |
+| 54 | 846 | Christine Marie |
+| 55 | 846 | Lucille Truesdale |
 | 56 | 845 | LisaJo Picken Buchanan |
 | 57 | 843 | Shelly Chandler |
 | 58 | 834 | quicksand420 |
@@ -79,8 +79,8 @@
 | 71 | 749 | Dustee Craddock-Harrison |
 | 72 | 742 | Carolyn Wallace |
 | 73 | 740 | Avy Absol |
-| 74 | 736 | Goatimus Lombardi |
-| 75 | 736 | Crystal Carroll |
+| 74 | 736 | Crystal Carroll |
+| 75 | 736 | Goatimus Lombardi |
 | 76 | 728 | D3TROITB0RN74 |
 | 77 | 721 | TheNeesh50 |
 | 78 | 706 | Lisa Davis |
@@ -119,8 +119,8 @@
 | 111 | 528 | Rodney McMath Jr. |
 | 112 | 527 | Dizzy Tiley |
 | 113 | 519 | Nugget |
-| 114 | 517 | Christina LR |
-| 115 | 517 | shar |
+| 114 | 517 | shar |
+| 115 | 517 | Christina LR |
 | 116 | 514 | Serena Goodridge |
 | 117 | 514 | Scott Jameson |
 | 118 | 513 | Erin Thomas |
@@ -182,8 +182,8 @@
 | 174 | 356 | George Nutt |
 | 175 | 354 | TRCuse |
 | 176 | 352 | Sue Joyce Staats |
-| 177 | 349 | Rafael Valentin |
-| 178 | 349 | Twisty Cascadezone |
+| 177 | 349 | Twisty Cascadezone |
+| 178 | 349 | Rafael Valentin |
 | 179 | 348 | April Rondinone |
 | 180 | 347 | Crystal Nicolette Moore |
 | 181 | 347 | Daria Rycewicz |
@@ -194,16 +194,16 @@
 | 186 | 333 | shark tato |
 | 187 | 332 | HastyGrabber |
 | 188 | 330 | Kathy Brookins |
-| 189 | 329 | Sam Bishop |
-| 190 | 329 | Antony Dwayne Beasley |
+| 189 | 329 | Antony Dwayne Beasley |
+| 190 | 329 | Sam Bishop |
 | 191 | 328 | scott |
 | 192 | 327 | J-Rizzle |
 | 193 | 324 | jim |
 | 194 | 321 | Meagan Nicole |
 | 195 | 320 | Lauren Scott |
 | 196 | 318 | Chris Hartig |
-| 197 | 316 | Autumn Kumzi |
-| 198 | 316 | Cursed Hag |
+| 197 | 316 | Cursed Hag |
+| 198 | 316 | Autumn Kumzi |
 | 199 | 311 | Mary Ann Pabukis |
 | 200 | 310 | Holly Jolly |
 | 201 | 307 | Michele Plunkett |
@@ -242,7 +242,7 @@
 | 234 | 273 | Cranky Rollpiece |
 | 235 | 272 | Carlos Ramirez |
 | 236 | 272 | Alan George LaRage |
-| 237 | 272 | Carlos Ramirez |
+| 237 | 272 | Dennis Bradley |
 | 238 | 271 | Holly |
 | 239 | 270 | Juls |
 | 240 | 270 | Jen Caldwell |
@@ -417,7 +417,7 @@
 | 409 | 167 | Tyler Bechtel |
 | 410 | 166 | Gracie Ann Taylor |
 | 411 | 166 | Reds Bella |
-| 412 | 165 | Perky Piecegrid |
+| 412 | 165 | Zappy Buildgrid |
 | 413 | 165 | Vic |
 | 414 | 165 | Perky Piecegrid |
 | 415 | 164 | Vamp |
@@ -874,7 +874,7 @@
 | 866 | 73 | Maria Larsen |
 | 867 | 73 | Will Chamberlain |
 | 868 | 72 | Jessi Mayfield |
-| 869 | 72 | Giddy Swiper |
+| 869 | 72 | Reggie |
 | 870 | 72 | Frothy Curve |
 | 871 | 72 | Paul-Eunice Mathewson |
 | 872 | 72 | Melitta Boisvert |
