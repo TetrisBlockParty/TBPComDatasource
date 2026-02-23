@@ -323,8 +323,8 @@
 | 315 | 957 | Block Master |
 | 316 | 955 | Angela Bonquiqui Dinish |
 | 317 | 954 | Melissa McCall |
-| 318 | 951 | Wakanda Forever |
-| 319 | 951 | Cynthia Ward |
+| 318 | 951 | Cynthia Ward |
+| 319 | 951 | Wakanda Forever |
 | 320 | 949 | Steve Man |
 | 321 | 947 | Dedra Steward |
 | 322 | 942 | Cindy Sechler Taninecz |
@@ -347,8 +347,8 @@
 | 339 | 903 | Giggy Blocker |
 | 340 | 903 | Eric Castaneda |
 | 341 | 901 | Kevin Sees |
-| 342 | 899 | Chevy |
-| 343 | 899 | Patrick Bartlett |
+| 342 | 899 | Patrick Bartlett |
+| 343 | 899 | Chevy |
 | 344 | 898 | Jamie Otero |
 | 345 | 895 | Donna Colby |
 | 346 | 894 | Adira Brown |
@@ -403,8 +403,8 @@
 | 395 | 799 | Ronnie Nelson |
 | 396 | 796 | Amber Gray |
 | 397 | 796 | AndrewandShela Gornik |
-| 398 | 793 | Jaycee |
-| 399 | 793 | Heather Schelkopf |
+| 398 | 793 | Heather Schelkopf |
+| 399 | 793 | Jaycee |
 | 400 | 790 | Brenda Pierpoint |
 | 401 | 788 | Erika Densmore |
 | 402 | 787 | Tiara Elizabeth Baker |
@@ -655,8 +655,8 @@
 | 647 | 547 | Hunter Connors |
 | 648 | 547 | Sonya Back |
 | 649 | 544 | Deidre Shaffer |
-| 650 | 544 | TJ Nash |
-| 651 | 544 | Armonie Smith |
+| 650 | 544 | Armonie Smith |
+| 651 | 544 | TJ Nash |
 | 652 | 542 | Jarboe |
 | 653 | 540 | Rebecca Garland |
 | 654 | 540 | Lee Harper |

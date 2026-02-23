@@ -98,8 +98,8 @@
 | 90 | 575 | Nancy Green |
 | 91 | 570 | Cody Slav |
 | 92 | 562 | Denice Dee |
-| 93 | 534 | Veronica Eve |
-| 94 | 534 | Loony Fitzone |
+| 93 | 534 | Loony Fitzone |
+| 94 | 534 | Veronica Eve |
 | 95 | 529 | Ryan Lunnin |
 | 96 | 522 | Sarah Lombardo |
 | 97 | 511 | Mario Cab |
@@ -122,8 +122,8 @@
 | 114 | 464 | Lori Sanders- Davis |
 | 115 | 463 | Lexuriuos Lifestlye |
 | 116 | 462 | Luciano Moreira |
-| 117 | 458 | Goose egg |
-| 118 | 458 | Evan Richmond |
+| 117 | 458 | Evan Richmond |
+| 118 | 458 | Goose egg |
 | 119 | 453 | Brandi Huntington |
 | 120 | 452 | Hyper |
 | 121 | 451 | Plucky Ziggy |

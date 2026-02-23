@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Jonathan Kimbrough |
-| 84 | 684 | Kimyatta Cavin |
+| 83 | 684 | Kimyatta Cavin |
+| 84 | 684 | Jonathan Kimbrough |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -267,8 +267,8 @@
 | 259 | 264 | ZeeZee |
 | 260 | 264 | Stella |
 | 261 | 263 | rebel4lyfe |
-| 262 | 262 | BigSammy420 |
-| 263 | 262 | Selena Shaw |
+| 262 | 262 | Selena Shaw |
+| 263 | 262 | BigSammy420 |
 | 264 | 261 | Zethra Prenisha Rahming |
 | 265 | 260 | Lori |
 | 266 | 260 | Carter Jones |
@@ -562,8 +562,8 @@
 | 554 | 129 | Jessica Wells |
 | 555 | 129 | Dreamy Snapgrid |
 | 556 | 128 | Zesty Linkgrid |
-| 557 | 128 | Raymond Roberts |
-| 558 | 128 | Lazy Glidepiece |
+| 557 | 128 | Lazy Glidepiece |
+| 558 | 128 | Raymond Roberts |
 | 559 | 127 | Jay You |
 | 560 | 126 | Spicy Cascadezone |
 | 561 | 126 | Jennifer Renee |
@@ -833,8 +833,8 @@
 | 825 | 82 | Somnium Era |
 | 826 | 82 | Tara |
 | 827 | 81 | Jamie Hirtle |
-| 828 | 81 | Tiffany Root |
-| 829 | 81 | Penny Dean |
+| 828 | 81 | Penny Dean |
+| 829 | 81 | Tiffany Root |
 | 830 | 81 | Molly Ananda Rickerson |
 | 831 | 81 | Zippy Stack |
 | 832 | 80 | juggernaut |
