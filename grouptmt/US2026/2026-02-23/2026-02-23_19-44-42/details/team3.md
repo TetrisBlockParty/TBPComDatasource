@@ -185,8 +185,8 @@
 | 177 | 695 | Samantha Greco |
 | 178 | 690 | Patricia White |
 | 179 | 684 | Nicole Myers |
-| 180 | 675 | Edwin Calvillo Jr. |
-| 181 | 675 | Angela Scott |
+| 180 | 675 | Angela Scott |
+| 181 | 675 | Edwin Calvillo Jr. |
 | 182 | 657 | Chasity |
 | 183 | 655 | Rochelle Hazelett |
 | 184 | 647 | Jennifer Lynn Fahrenholtz-Summers |
@@ -235,8 +235,8 @@
 | 227 | 546 | Cynthia Castros-Hampton |
 | 228 | 541 | Fran Lin |
 | 229 | 539 | Betty Bóò |
-| 230 | 537 | Aerian Preston |
-| 231 | 537 | Tessina Dewey-Mancino |
+| 230 | 537 | Tessina Dewey-Mancino |
+| 231 | 537 | Aerian Preston |
 | 232 | 537 | Tamara Deherrera |
 | 233 | 533 | kacihall |
 | 234 | 531 | Chauntee Alfrey-Cardinale |

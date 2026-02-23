@@ -99,8 +99,8 @@
 | 91 | 706 | Plucky Fallzone |
 | 92 | 706 | Denice Dee |
 | 93 | 704 | Karin Gillen |
-| 94 | 703 | Angel Fowler |
-| 95 | 703 | Kellie |
+| 94 | 703 | Kellie |
+| 95 | 703 | Angel Fowler |
 | 96 | 689 | Lexuriuos Lifestlye |
 | 97 | 671 | Chirpy Smasher |
 | 98 | 661 | Kristi Johnson |
@@ -174,8 +174,8 @@
 | 166 | 446 | SkipTheSadSauce |
 | 167 | 444 | Dandy Basegrid |
 | 168 | 443 | Amanda Jarnagin |
-| 169 | 440 | Timothy Danaher |
-| 170 | 440 | Kimmie Kimms |
+| 169 | 440 | Kimmie Kimms |
+| 170 | 440 | Timothy Danaher |
 | 171 | 434 | Yvonne Marie |
 | 172 | 432 | Lori Bales |
 | 173 | 426 | Maria C. Hernandez |
@@ -259,8 +259,8 @@
 | 251 | 340 | Danielle Little-Daugherty |
 | 252 | 339 | Keith Mathis |
 | 253 | 338 | Layzietyme |
-| 254 | 337 | Lindsay Glover |
-| 255 | 337 | Jamise Brown |
+| 254 | 337 | Jamise Brown |
+| 255 | 337 | Lindsay Glover |
 | 256 | 335 | Eric DeSimone |
 | 257 | 334 | Colleen Pinette |
 | 258 | 334 | Tipsy Builder |
