@@ -128,8 +128,8 @@
 | 120 | 799 | Dolores Falco |
 | 121 | 773 | Daira Largen |
 | 122 | 769 | Kristie |
-| 123 | 764 | Hasty Cascadefit |
-| 124 | 764 | Groovy Catcher |
+| 123 | 764 | Groovy Catcher |
+| 124 | 764 | Hasty Cascadefit |
 | 125 | 762 | Speedy Bridger |
 | 126 | 759 | Justin Ritter |
 | 127 | 755 | Raya |
@@ -1144,8 +1144,8 @@
 | 1136 | 99 | Yall Sukk |
 | 1137 | 99 | Gimmegimmebeer |
 | 1138 | 99 | Slinky Blocker |
-| 1139 | 98 | Mimi Pidou |
-| 1140 | 98 | Attie Majerus |
+| 1139 | 98 | Attie Majerus |
+| 1140 | 98 | Mimi Pidou |
 | 1141 | 98 | Jocelyne Baca |
 | 1142 | 98 | Dawn Jacobs |
 | 1143 | 98 | Adrea Ann |
@@ -1680,7 +1680,7 @@
 | 1672 | 59 | Danielle Patrick |
 | 1673 | 59 | Frilly Twist |
 | 1674 | 58 | Cozy Tiltpiece |
-| 1675 | 58 | Jayce Johnson |
+| 1675 | 58 | Tiffanie Geren |
 | 1676 | 58 | Roxy Rojas-Rangel |
 | 1677 | 58 | Jayce Johnson |
 | 1678 | 58 | Tasha Robinson |

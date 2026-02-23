@@ -396,8 +396,8 @@
 | 388 | 816 | Beth |
 | 389 | 816 | James Simms III |
 | 390 | 812 | Samantha Jo |
-| 391 | 808 | Connie Jimenez |
-| 392 | 808 | Laura McCarthey |
+| 391 | 808 | Laura McCarthey |
+| 392 | 808 | Connie Jimenez |
 | 393 | 808 | Desire Rice |
 | 394 | 804 | Becca Coronado |
 | 395 | 801 | Diana Fitzwater |
@@ -414,8 +414,8 @@
 | 406 | 788 | Erika Densmore |
 | 407 | 787 | Tiara Elizabeth Baker |
 | 408 | 783 | John Rodriguez |
-| 409 | 777 | Jessicah Myers |
-| 410 | 777 | Tesha Oldaker |
+| 409 | 777 | Tesha Oldaker |
+| 410 | 777 | Jessicah Myers |
 | 411 | 776 | Fancy Twister |
 | 412 | 776 | Mighty Spinbuilder |
 | 413 | 775 | Crystie Hicks |
@@ -491,8 +491,8 @@
 | 483 | 695 | Lakeysha Dortch |
 | 484 | 693 | Ryan Stadel |
 | 485 | 692 | Shaun Church |
-| 486 | 691 | Arwa Fatimah |
-| 487 | 691 | Samuel Macon |
+| 486 | 691 | Samuel Macon |
+| 487 | 691 | Arwa Fatimah |
 | 488 | 689 | Gauri Shrotriya |
 | 489 | 686 | Christine Coughlin |
 | 490 | 684 | Sarah DeHart |
@@ -508,8 +508,8 @@
 | 500 | 677 | Paul Combs |
 | 501 | 677 | Kayleigh Wisse |
 | 502 | 677 | Amanda Woodruff |
-| 503 | 676 | Nicky Jackson |
-| 504 | 676 | Roseanna Peloso |
+| 503 | 676 | Roseanna Peloso |
+| 504 | 676 | Nicky Jackson |
 | 505 | 675 | Lonne Emade |
 | 506 | 675 | Katelynn Hollen |
 | 507 | 674 | Ashley Munn |
@@ -894,8 +894,8 @@
 | 886 | 414 | Cini |
 | 887 | 414 | Maria Louise |
 | 888 | 414 | Court |
-| 889 | 413 | Kat Mfm Kaul |
-| 890 | 413 | Ashley Robbins |
+| 889 | 413 | Ashley Robbins |
+| 890 | 413 | Kat Mfm Kaul |
 | 891 | 413 | Abby Klaski |
 | 892 | 411 | Peppy Snapfall |
 | 893 | 411 | Valerie Vigil |

@@ -108,8 +108,8 @@
 | 100 | 509 | Rachael |
 | 101 | 502 | Anaid Sanchez |
 | 102 | 497 | Arianna O'Brien |
-| 103 | 493 | Jennifer ManWarren |
-| 104 | 493 | MomMom |
+| 103 | 493 | MomMom |
+| 104 | 493 | Jennifer ManWarren |
 | 105 | 492 | Ash Galvan |
 | 106 | 491 | cc |
 | 107 | 489 | Deanna L Hermanson |
@@ -304,7 +304,7 @@
 | 296 | 233 | Plucky Stacky |
 | 297 | 233 | Tipsy Riseclear |
 | 298 | 233 | Shiny Gridmatch |
-| 299 | 233 | Plucky Stacky |
+| 299 | 233 | Melissa Bires Hussar |
 | 300 | 232 | Thorne Shumate |
 | 301 | 230 | Diane Byrd |
 | 302 | 230 | Flashy Rotator |
@@ -315,8 +315,8 @@
 | 307 | 229 | Christina Norman |
 | 308 | 228 | .running. |
 | 309 | 227 | Happy Snapbuild |
-| 310 | 226 | Glitzy Buildsnap |
-| 311 | 226 | Snappy Brickbuilder |
+| 310 | 226 | Snappy Brickbuilder |
+| 311 | 226 | Glitzy Buildsnap |
 | 312 | 225 | Angela Spann |
 | 313 | 224 | Sunny Shift |
 | 314 | 224 | Jumpy Rotate |
