@@ -130,8 +130,8 @@
 | 122 | 1679 | Jumpy Gridpiece |
 | 123 | 1652 | Kristopher Miller |
 | 124 | 1644 | Luna |
-| 125 | 1639 | Karen Martini-Stapleton |
-| 126 | 1639 | Jessie McDougald |
+| 125 | 1639 | Jessie McDougald |
+| 126 | 1639 | Karen Martini-Stapleton |
 | 127 | 1632 | Qiana Sanders |
 | 128 | 1631 | Speedy Spinblock |
 | 129 | 1623 | Rebecca Doughman |
@@ -380,8 +380,8 @@
 | 372 | 748 | Brenda Utphall |
 | 373 | 748 | Stephanie Lumanlan |
 | 374 | 747 | Kiely Tomaskovich |
-| 375 | 746 | Leslie Ann Carter |
-| 376 | 746 | Jerilyn Andrina |
+| 375 | 746 | Jerilyn Andrina |
+| 376 | 746 | Leslie Ann Carter |
 | 377 | 744 | Mandi Douglas Hilt |
 | 378 | 743 | Tiara Elizabeth Baker |
 | 379 | 741 | Jánine Riggs |

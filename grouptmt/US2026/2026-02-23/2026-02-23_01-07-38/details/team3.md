@@ -79,8 +79,8 @@
 | 71 | 1019 | Sarah Fehring |
 | 72 | 979 | Jennifer |
 | 73 | 970 | Rosalie Call Kehlenbeck |
-| 74 | 945 | Shonna Roberts |
-| 75 | 945 | Christian A. Pollard |
+| 74 | 945 | Christian A. Pollard |
+| 75 | 945 | Shonna Roberts |
 | 76 | 926 | Judi Dobson |
 | 77 | 926 | Angela M. Fletcher |
 | 78 | 923 | Christine Filson |
@@ -230,16 +230,16 @@
 | 222 | 384 | Marci Mize Fandrich |
 | 223 | 383 | Darlene McMillan |
 | 224 | 383 | Heather Green |
-| 225 | 382 | Giddy Twistbuilder |
-| 226 | 382 | Scott Carleton |
+| 225 | 382 | Scott Carleton |
+| 226 | 382 | Giddy Twistbuilder |
 | 227 | 380 | Rebecca Bailey |
 | 228 | 378 | Chris Bell |
 | 229 | 376 | Connie Mohler-Fair |
 | 230 | 375 | Duane Bright |
 | 231 | 375 | Kristal C Lee |
 | 232 | 373 | Rebecca Funderburk Kirby |
-| 233 | 372 | Rich LeBlanc |
-| 234 | 372 | Sarah Moyer |
+| 233 | 372 | Sarah Moyer |
+| 234 | 372 | Rich LeBlanc |
 | 235 | 370 | RickyG |
 | 236 | 369 | Keis |
 | 237 | 368 | Stephanie Woods |

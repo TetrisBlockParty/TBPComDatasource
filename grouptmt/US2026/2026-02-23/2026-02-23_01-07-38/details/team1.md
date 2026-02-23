@@ -104,8 +104,8 @@
 | 96 | 485 | Cartier |
 | 97 | 480 | cc |
 | 98 | 474 | Tdub |
-| 99 | 472 | April Carroll |
-| 100 | 472 | Kristen Gideon |
+| 99 | 472 | Kristen Gideon |
+| 100 | 472 | April Carroll |
 | 101 | 466 | Hasbro Bros |
 | 102 | 462 | Luciano Moreira |
 | 103 | 454 | Evan Richmond |
@@ -166,8 +166,8 @@
 | 158 | 337 | Constance Risner |
 | 159 | 336 | Fmp |
 | 160 | 334 | Jaimie Lynn |
-| 161 | 333 | GATOR |
-| 162 | 333 | Gracie |
+| 161 | 333 | Gracie |
+| 162 | 333 | GATOR |
 | 163 | 332 | Lehrin Maria |
 | 164 | 325 | Dizzy Party |
 | 165 | 324 | Rat666 |
@@ -188,8 +188,8 @@
 | 180 | 306 | Happy Basegrid |
 | 181 | 306 | Bloknboy |
 | 182 | 304 | David Lutcher |
-| 183 | 303 | ALFD |
-| 184 | 303 | Letson Melissa |
+| 183 | 303 | Letson Melissa |
+| 184 | 303 | ALFD |
 | 185 | 301 | Damon J. Martin |
 | 186 | 296 | J.F. Fields |
 | 187 | 296 | Cody Gates |
@@ -234,12 +234,12 @@
 | 226 | 252 | Dena Kayy |
 | 227 | 249 | Sam Williams |
 | 228 | 247 | Brenda Alexander |
-| 229 | 245 | MRdot Rooski |
+| 229 | 245 | Matt Iaccheo |
 | 230 | 245 | LaFontaine Leslie |
-| 231 | 245 | Matt Iaccheo |
-| 232 | 244 | Melissa Lemmon |
-| 233 | 244 | Marianita Garcia |
-| 234 | 244 | Eddie Dillon |
+| 231 | 245 | MRdot Rooski |
+| 232 | 244 | Eddie Dillon |
+| 233 | 244 | Melissa Lemmon |
+| 234 | 244 | Marianita Garcia |
 | 235 | 242 | ParisandCory Champagne |
 | 236 | 241 | Tyler Hertzog |
 | 237 | 240 | DaRascal |
@@ -247,8 +247,8 @@
 | 239 | 239 | Lacy Wolfe |
 | 240 | 238 | Tiffany Smith |
 | 241 | 238 | Sarah Somers Gray |
-| 242 | 234 | Shanae Grant |
-| 243 | 234 | Paula Martin |
+| 242 | 234 | Paula Martin |
+| 243 | 234 | Shanae Grant |
 | 244 | 233 | LC |
 | 245 | 231 | Angela Fairbank |
 | 246 | 230 | Diane Byrd |
@@ -501,7 +501,7 @@
 | 493 | 127 | Frisky Risebuilder |
 | 494 | 127 | Laurie Sanderson |
 | 495 | 126 | Connie |
-| 496 | 126 | Tina Kocher Zimmerman |
+| 496 | 126 | Ed Franz Jr |
 | 497 | 126 | Francesca Gee |
 | 498 | 126 | Tina Kocher Zimmerman |
 | 499 | 125 | Quirky Pusher |
