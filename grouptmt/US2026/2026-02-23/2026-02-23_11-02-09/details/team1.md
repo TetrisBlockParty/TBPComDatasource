@@ -91,8 +91,8 @@
 | 83 | 647 | Jason Jones |
 | 84 | 645 | Robert Benito |
 | 85 | 600 | Greg Hart |
-| 86 | 598 | Erin Hodges Plumb |
-| 87 | 598 | Kellie |
+| 86 | 598 | Kellie |
+| 87 | 598 | Erin Hodges Plumb |
 | 88 | 584 | Jen Sartain |
 | 89 | 583 | Theo Pinnow |
 | 90 | 582 | Plucky Fallzone |
@@ -113,8 +113,8 @@
 | 105 | 509 | Rachael |
 | 106 | 502 | Anaid Sanchez |
 | 107 | 497 | Arianna O'Brien |
-| 108 | 493 | Jennifer ManWarren |
-| 109 | 493 | MomMom |
+| 108 | 493 | MomMom |
+| 109 | 493 | Jennifer ManWarren |
 | 110 | 492 | Ash Galvan |
 | 111 | 491 | cc |
 | 112 | 489 | April Carroll |
@@ -158,9 +158,9 @@
 | 150 | 394 | Jennifer Hardman |
 | 151 | 389 | David Miller |
 | 152 | 388 | Fmp |
-| 153 | 387 | Emily Adelaide Wheatley |
-| 154 | 387 | Monica Donato |
-| 155 | 387 | Ananda Mendez |
+| 153 | 387 | Monica Donato |
+| 154 | 387 | Ananda Mendez |
+| 155 | 387 | Emily Adelaide Wheatley |
 | 156 | 387 | Carrie Smith |
 | 157 | 386 | Constance Risner |
 | 158 | 386 | Erin Rosberg |
@@ -218,8 +218,8 @@
 | 210 | 323 | Eric DeSimone |
 | 211 | 323 | Madison Wicks |
 | 212 | 322 | Letson Melissa |
-| 213 | 317 | Sarah Roberts |
-| 214 | 317 | Kimberly Garcia |
+| 213 | 317 | Kimberly Garcia |
+| 214 | 317 | Sarah Roberts |
 | 215 | 316 | Reesey Enyart |
 | 216 | 315 | Danielle Little-Daugherty |
 | 217 | 314 | Tana |
@@ -503,7 +503,7 @@
 | 495 | 155 | Shiny Rotate |
 | 496 | 154 | Tazz |
 | 497 | 154 | Brian Spotts |
-| 498 | 154 | Chyna Mae |
+| 498 | 154 | TristansDad |
 | 499 | 154 | Lush Zoney |
 | 500 | 154 | Chyna Mae |
 | 501 | 153 | Toph |

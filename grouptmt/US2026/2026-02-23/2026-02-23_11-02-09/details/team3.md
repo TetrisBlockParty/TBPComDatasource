@@ -114,8 +114,8 @@
 | 106 | 869 | Araceli Parra |
 | 107 | 868 | Sarajane Lokan |
 | 108 | 860 | Sunny Rotater |
-| 109 | 851 | Danielle Becker |
-| 110 | 851 | Jd Morris |
+| 109 | 851 | Jd Morris |
+| 110 | 851 | Danielle Becker |
 | 111 | 850 | Danielle Mogg |
 | 112 | 848 | Patricia Gadsden |
 | 113 | 839 | Angeline Joseph |
@@ -194,8 +194,8 @@
 | 186 | 559 | Patti Skiles |
 | 187 | 556 | Elissa S-k |
 | 188 | 548 | Danielle Balcom |
-| 189 | 546 | Tasha Schriewer |
-| 190 | 546 | Mykal Burton |
+| 189 | 546 | Mykal Burton |
+| 190 | 546 | Tasha Schriewer |
 | 191 | 546 | Cynthia Castros-Hampton |
 | 192 | 540 | Shawn Miller |
 | 193 | 531 | Sarah Cowan Burgos |
@@ -204,8 +204,8 @@
 | 196 | 525 | Stephanie Blkpep Davidson |
 | 197 | 524 | Bmo |
 | 198 | 521 | Shannon Matthew Byers |
-| 199 | 519 | Terry Jo Jones |
-| 200 | 519 | rnr junky |
+| 199 | 519 | rnr junky |
+| 200 | 519 | Terry Jo Jones |
 | 201 | 515 | Cozy Snaplink |
 | 202 | 513 | Lizabeth Fox |
 | 203 | 510 | Makelini Mausia |
@@ -276,8 +276,8 @@
 | 268 | 381 | Snazzy Filler |
 | 269 | 380 | Rebecca Bailey |
 | 270 | 379 | JessDrown |
-| 271 | 378 | MsBee |
-| 272 | 378 | Chris Bell |
+| 271 | 378 | Chris Bell |
+| 272 | 378 | MsBee |
 | 273 | 375 | Stephanie Burtin |
 | 274 | 374 | Rania Zaqout |
 | 275 | 372 | Rich LeBlanc |
@@ -358,10 +358,10 @@
 | 350 | 300 | Nikki Pags |
 | 351 | 299 | TotoCherue |
 | 352 | 299 | Angie Harper |
-| 353 | 299 | Hasty Gridpiece |
-| 354 | 299 | Antonia Russell |
-| 355 | 298 | Dannie Litchard |
-| 356 | 298 | Grams |
+| 353 | 299 | Antonia Russell |
+| 354 | 299 | Hasty Gridpiece |
+| 355 | 298 | Grams |
+| 356 | 298 | Dannie Litchard |
 | 357 | 297 | kacihall |
 | 358 | 296 | Donna |
 | 359 | 296 | Tracy Martin |
@@ -590,11 +590,11 @@
 | 582 | 191 | Polopypy |
 | 583 | 190 | Smiley Zone |
 | 584 | 189 | Jason |
-| 585 | 189 | Wacky Crasher |
-| 586 | 189 | Sameerah Smith |
-| 587 | 189 | Deseree Ewing |
-| 588 | 188 | Amber Groover Taylor |
-| 589 | 188 | Bree Sexton |
+| 585 | 189 | Sameerah Smith |
+| 586 | 189 | Deseree Ewing |
+| 587 | 189 | Wacky Crasher |
+| 588 | 188 | Bree Sexton |
+| 589 | 188 | Amber Groover Taylor |
 | 590 | 187 | Stephanie Sanchez |
 | 591 | 187 | Kelly Koenig |
 | 592 | 187 | Tiffany Marler |

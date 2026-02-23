@@ -157,8 +157,8 @@
 | 149 | 421 | Kesha Brady |
 | 150 | 418 | Marie-Pier Desjardins |
 | 151 | 418 | Lush Linkfall |
-| 152 | 417 | Amanda Pauldo-Ivy |
-| 153 | 417 | Steph Marie |
+| 152 | 417 | Steph Marie |
+| 153 | 417 | Amanda Pauldo-Ivy |
 | 154 | 416 | Chaz Duncan |
 | 155 | 414 | Nope Young |
 | 156 | 414 | Swanky Fitline |
@@ -181,8 +181,8 @@
 | 173 | 372 | George Nutt |
 | 174 | 370 | Oscar Alberto Perez |
 | 175 | 369 | Lindsey Gonzalez |
-| 176 | 368 | Raegan Lane-Ross |
-| 177 | 368 | Silly Zonebuilder |
+| 176 | 368 | Silly Zonebuilder |
+| 177 | 368 | Raegan Lane-Ross |
 | 178 | 368 | Brandon Crabbs |
 | 179 | 365 | Jeff Brian Gates |
 | 180 | 361 | Danielle Kollias |
@@ -205,8 +205,8 @@
 | 197 | 336 | JPW |
 | 198 | 332 | HastyGrabber |
 | 199 | 331 | Alan George LaRage |
-| 200 | 330 | blockstar |
-| 201 | 330 | Kathy Brookins |
+| 200 | 330 | Kathy Brookins |
+| 201 | 330 | blockstar |
 | 202 | 328 | scott |
 | 203 | 327 | J-Rizzle |
 | 204 | 324 | jim |
@@ -252,10 +252,10 @@
 | 244 | 281 | Laura |
 | 245 | 280 | Rio Rocha |
 | 246 | 279 | Malakai Darien Fox |
-| 247 | 278 | Angela Geist Jusinski |
-| 248 | 278 | Sarah Brown |
-| 249 | 276 | Cynthia Boudreau |
-| 250 | 276 | Joeliecea Cobb |
+| 247 | 278 | Sarah Brown |
+| 248 | 278 | Angela Geist Jusinski |
+| 249 | 276 | Joeliecea Cobb |
+| 250 | 276 | Cynthia Boudreau |
 | 251 | 275 | Kimberlee Jan Beckstead |
 | 252 | 273 | Cranky Rollpiece |
 | 253 | 272 | Dennis Bradley |

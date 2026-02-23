@@ -44,8 +44,8 @@
 | 36 | 4280 | Robert Diddle |
 | 37 | 4199 | Claire Noland |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Corrine Hawks Soriano |
-| 40 | 4120 | Kristen Sceurman |
+| 39 | 4120 | Kristen Sceurman |
+| 40 | 4120 | Corrine Hawks Soriano |
 | 41 | 3947 | Melinda Brown |
 | 42 | 3845 | jayjay |
 | 43 | 3827 | Karen Kman Van Heirseele |
@@ -172,8 +172,8 @@
 | 164 | 1581 | Brandy Andre |
 | 165 | 1580 | Sally Dennis |
 | 166 | 1574 | Stephen Stephen |
-| 167 | 1558 | Crystal Slaughter |
-| 168 | 1558 | Tim Dyer |
+| 167 | 1558 | Tim Dyer |
+| 168 | 1558 | Crystal Slaughter |
 | 169 | 1555 | blarg |
 | 170 | 1543 | Amy Sayers |
 | 171 | 1541 | Cherica Taylor |
@@ -307,8 +307,8 @@
 | 299 | 1014 | Michele Morgan |
 | 300 | 1011 | Teresa Gillmore |
 | 301 | 1003 | Andrea Maher |
-| 302 | 998 | Keri Womack |
-| 303 | 998 | Shelley Thornburgh Wright |
+| 302 | 998 | Shelley Thornburgh Wright |
+| 303 | 998 | Keri Womack |
 | 304 | 996 | Ashie Ann |
 | 305 | 987 | Osun Anuket Esu |
 | 306 | 979 | Hillary Crawford |
@@ -578,8 +578,8 @@
 | 570 | 614 | Emilee Burke |
 | 571 | 614 | Jessica S Flecha |
 | 572 | 613 | Audrey Jones |
-| 573 | 612 | Briana Alexander |
-| 574 | 612 | Slinky Racker |
+| 573 | 612 | Slinky Racker |
+| 574 | 612 | Briana Alexander |
 | 575 | 610 | Michael Buckner |
 | 576 | 609 | Autumn Schaeffer |
 | 577 | 609 | Cecilia A Jenkins |
