@@ -44,8 +44,8 @@
 | 36 | 4280 | Robert Diddle |
 | 37 | 4199 | Claire Noland |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Corrine Hawks Soriano |
-| 40 | 4120 | Kristen Sceurman |
+| 39 | 4120 | Kristen Sceurman |
+| 40 | 4120 | Corrine Hawks Soriano |
 | 41 | 4086 | PandaMama |
 | 42 | 3947 | Melinda Brown |
 | 43 | 3845 | jayjay |
@@ -326,8 +326,8 @@
 | 318 | 969 | Em Chen |
 | 319 | 961 | Angela Lynn |
 | 320 | 959 | Phil J. Grombliniak |
-| 321 | 958 | Doowop40 |
-| 322 | 958 | Brenda Messer |
+| 321 | 958 | Brenda Messer |
+| 322 | 958 | Doowop40 |
 | 323 | 957 | Block Master |
 | 324 | 955 | Angela Bonquiqui Dinish |
 | 325 | 954 | Melissa McCall |
@@ -424,8 +424,8 @@
 | 416 | 788 | Erika Densmore |
 | 417 | 787 | DefaultUser |
 | 418 | 783 | John Rodriguez |
-| 419 | 777 | Jessicah Myers |
-| 420 | 777 | Tesha Oldaker |
+| 419 | 777 | Tesha Oldaker |
+| 420 | 777 | Jessicah Myers |
 | 421 | 776 | Fancy Twister |
 | 422 | 776 | Mighty Spinbuilder |
 | 423 | 775 | Crystie Hicks |
@@ -1068,10 +1068,10 @@
 | 1060 | 366 | KrisCynthia Lynette |
 | 1061 | 366 | Mike Schwob |
 | 1062 | 365 | Candace Noel |
-| 1063 | 365 | Dee Blokk |
-| 1064 | 365 | Wes Acton |
-| 1065 | 364 | Chelle Vintson |
-| 1066 | 364 | kcakes |
+| 1063 | 365 | Wes Acton |
+| 1064 | 365 | Dee Blokk |
+| 1065 | 364 | kcakes |
+| 1066 | 364 | Chelle Vintson |
 | 1067 | 364 | Jessica Galick |
 | 1068 | 364 | Jamie Willis |
 | 1069 | 364 | Epic Spinfit |
@@ -1080,8 +1080,8 @@
 | 1072 | 363 | Nikki Arlene |
 | 1073 | 363 | Veronica Martin Trinkle |
 | 1074 | 362 | Boldy Brickfit |
-| 1075 | 362 | Megan Phillips |
-| 1076 | 362 | Del Davis |
+| 1075 | 362 | Del Davis |
+| 1076 | 362 | Megan Phillips |
 | 1077 | 361 | Mary Boss |
 | 1078 | 361 | Byung Bae Park |
 | 1079 | 361 | Tosa Puvapiromquan |
@@ -1093,8 +1093,8 @@
 | 1085 | 358 | Nutty Slice |
 | 1086 | 358 | Gina Gina |
 | 1087 | 358 | Kiorah Blaze |
-| 1088 | 358 | Dapper Setter |
-| 1089 | 358 | Luke Califf |
+| 1088 | 358 | Luke Califf |
+| 1089 | 358 | Dapper Setter |
 | 1090 | 357 | Snippy Block |
 | 1091 | 357 | Elena Vap |
 | 1092 | 357 | Shannon Byrd |
@@ -1104,8 +1104,8 @@
 | 1096 | 355 | Jaime E. Rodriguez |
 | 1097 | 355 | Himothy |
 | 1098 | 355 | Layla LS |
-| 1099 | 354 | Sherri Morgan |
-| 1100 | 354 | Katherin Camacho |
+| 1099 | 354 | Katherin Camacho |
+| 1100 | 354 | Sherri Morgan |
 | 1101 | 354 | Loopy Shatterfit |
 | 1102 | 353 | Jenny Weidman Perrotta |
 | 1103 | 353 | Mine |
@@ -1142,8 +1142,8 @@
 | 1134 | 345 | Rhianna DiLorenzo |
 | 1135 | 344 | Glenn Cobbins |
 | 1136 | 344 | J.L. Roberts |
-| 1137 | 344 | Swanky Snap |
-| 1138 | 344 | Dean Glenn |
+| 1137 | 344 | Dean Glenn |
+| 1138 | 344 | Swanky Snap |
 | 1139 | 343 | Alexandrea |
 | 1140 | 343 | Araba Tee |
 | 1141 | 343 | Kat |
@@ -1152,8 +1152,8 @@
 | 1144 | 343 | Scott |
 | 1145 | 342 | Patrick Fleming |
 | 1146 | 342 | Emoniee Sa'niaya |
-| 1147 | 342 | Theresa Sterrett |
-| 1148 | 342 | SwifftFox |
+| 1147 | 342 | SwifftFox |
+| 1148 | 342 | Theresa Sterrett |
 | 1149 | 341 | Alphia Price |
 | 1150 | 341 | Robin L. Vial |
 | 1151 | 341 | Joseph Jones |
@@ -1167,11 +1167,11 @@
 | 1159 | 339 | Meganator42 |
 | 1160 | 339 | Nutty Cascade |
 | 1161 | 338 | Goofy Blockfall |
-| 1162 | 337 | Spicy Riser |
-| 1163 | 337 | Sunny Pusher |
+| 1162 | 337 | Sunny Pusher |
+| 1163 | 337 | Spicy Riser |
 | 1164 | 337 | Jennifer Mahon |
-| 1165 | 337 | Sassy Pattern |
-| 1166 | 337 | Harrison Littrell |
+| 1165 | 337 | Harrison Littrell |
+| 1166 | 337 | Sassy Pattern |
 | 1167 | 337 | Stanley Vanekelenburg |
 | 1168 | 336 | Crystal Cornelius |
 | 1169 | 336 | Katrina Willmon |
@@ -1180,9 +1180,9 @@
 | 1172 | 336 | Spunky Match |
 | 1173 | 336 | Colton Saupe |
 | 1174 | 336 | Chummy Caster |
-| 1175 | 335 | Jennifer Grant-Watson |
-| 1176 | 335 | Brooke Leigh Strube |
-| 1177 | 335 | shrimppimp |
+| 1175 | 335 | shrimppimp |
+| 1176 | 335 | Jennifer Grant-Watson |
+| 1177 | 335 | Brooke Leigh Strube |
 | 1178 | 335 | Greenshades00 |
 | 1179 | 335 | Nancy Pohlman |
 | 1180 | 334 | Tina Wright-Quigley |
@@ -1271,17 +1271,17 @@
 | 1263 | 311 | Chipper Basepiece |
 | 1264 | 311 | Audra Williams |
 | 1265 | 311 | Chelsea Gutierrez |
-| 1266 | 310 | Wendy Ducheney |
-| 1267 | 310 | Angelica |
+| 1266 | 310 | Angelica |
+| 1267 | 310 | Wendy Ducheney |
 | 1268 | 310 | David Rehse |
 | 1269 | 310 | Erica Dale |
 | 1270 | 309 | Funky Liney |
-| 1271 | 309 | LintFunk |
-| 1272 | 309 | Nutty Matchline |
+| 1271 | 309 | Nutty Matchline |
+| 1272 | 309 | LintFunk |
 | 1273 | 309 | Richard Hunt |
 | 1274 | 308 | Hyper Riseclear |
-| 1275 | 308 | Bree Mackie |
-| 1276 | 308 | Chilly Linkfall |
+| 1275 | 308 | Chilly Linkfall |
+| 1276 | 308 | Bree Mackie |
 | 1277 | 308 | Justin Edwards |
 | 1278 | 308 | Michael David Hollis |
 | 1279 | 308 | Brian Baesler |

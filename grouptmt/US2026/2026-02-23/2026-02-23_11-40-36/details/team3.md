@@ -77,8 +77,8 @@
 | 69 | 1264 | Amanda L Baker |
 | 70 | 1258 | Danielle Cutler |
 | 71 | 1256 | Jessica Bechler |
-| 72 | 1213 | Snappy Glidepiece |
-| 73 | 1213 | Nerdy Riseclear |
+| 72 | 1213 | Nerdy Riseclear |
+| 73 | 1213 | Snappy Glidepiece |
 | 74 | 1209 | Amanda Adkins |
 | 75 | 1186 | Christian A. Pollard |
 | 76 | 1162 | Gracie |
@@ -131,15 +131,15 @@
 | 123 | 775 | Kristie |
 | 124 | 774 | Keith J Oshman Jr. |
 | 125 | 773 | Daira Largen |
-| 126 | 764 | Hasty Cascadefit |
-| 127 | 764 | Groovy Catcher |
+| 126 | 764 | Groovy Catcher |
+| 127 | 764 | Hasty Cascadefit |
 | 128 | 762 | Speedy Bridger |
 | 129 | 755 | Katrina Schroeder |
 | 130 | 755 | Raya |
 | 131 | 752 | Logan Naccarato |
 | 132 | 748 | Adrian Marcel Pate |
-| 133 | 745 | ren |
-| 134 | 745 | JerseyJess |
+| 133 | 745 | JerseyJess |
+| 134 | 745 | ren |
 | 135 | 744 | Leah Barnett |
 | 136 | 744 | Fancy Cascader |
 | 137 | 736 | mzcatzy |
@@ -207,8 +207,8 @@
 | 199 | 525 | Stephanie Blkpep Davidson |
 | 200 | 524 | Bmo |
 | 201 | 521 | Shannon Matthew Byers |
-| 202 | 519 | Terry Jo Jones |
-| 203 | 519 | rnr junky |
+| 202 | 519 | rnr junky |
+| 203 | 519 | Terry Jo Jones |
 | 204 | 515 | Cozy Snaplink |
 | 205 | 513 | Lizabeth Fox |
 | 206 | 503 | Tye Stovall |
@@ -478,8 +478,8 @@
 | 470 | 236 | lashanda |
 | 471 | 234 | Cheeky Twisterfit |
 | 472 | 233 | Tony Waters |
-| 473 | 233 | Criss |
-| 474 | 233 | Anna Moeller |
+| 473 | 233 | Anna Moeller |
+| 474 | 233 | Criss |
 | 475 | 232 | Sunny Tiltgrid |
 | 476 | 232 | Melanie Sherwood |
 | 477 | 232 | Stephanie Hill |
@@ -524,8 +524,8 @@
 | 516 | 213 | Linda Draper |
 | 517 | 213 | Flashy Rumbler |
 | 518 | 213 | Ktfreeee |
-| 519 | 212 | Boldy Blocker |
-| 520 | 212 | Beth Ingham |
+| 519 | 212 | Beth Ingham |
+| 520 | 212 | Boldy Blocker |
 | 521 | 212 | Frilly Stackzone |
 | 522 | 211 | El Chapa |
 | 523 | 211 | Michael Pleasant |
@@ -728,8 +728,8 @@
 | 720 | 160 | Cheery Brickster |
 | 721 | 160 | Bastian Campbell |
 | 722 | 160 | Maria Ramos |
-| 723 | 159 | Angela VanOstrand |
-| 724 | 159 | Robin LaChe |
+| 723 | 159 | Robin LaChe |
+| 724 | 159 | Angela VanOstrand |
 | 725 | 159 | Giddy Basepiece |
 | 726 | 159 | Wetwet |
 | 727 | 159 | Gina Marie |
