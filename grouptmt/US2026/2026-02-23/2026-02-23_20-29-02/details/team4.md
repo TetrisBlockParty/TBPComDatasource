@@ -82,8 +82,8 @@
 | 74 | 862 | Carolyn Wallace |
 | 75 | 855 | Peachy Fall |
 | 76 | 850 | Lucille Truesdale |
-| 77 | 846 | Amelpss |
-| 78 | 846 | Christine Marie |
+| 77 | 846 | Christine Marie |
+| 78 | 846 | Amelpss |
 | 79 | 841 | Shauna Havard |
 | 80 | 837 | Lisa Davis |
 | 81 | 834 | quicksand420 |
@@ -160,8 +160,8 @@
 | 152 | 514 | Lucas J Sutton |
 | 153 | 514 | Scott Jameson |
 | 154 | 513 | Erin Thomas |
-| 155 | 512 | Angela Srubar-Norman |
-| 156 | 512 | ThaEviLJeNiuZ |
+| 155 | 512 | ThaEviLJeNiuZ |
+| 156 | 512 | Angela Srubar-Norman |
 | 157 | 512 | Casey Jeffcoat |
 | 158 | 508 | Twisty Clicky |
 | 159 | 507 | Nick Gray |
@@ -170,8 +170,8 @@
 | 162 | 501 | Jessica Lynn Cutlip |
 | 163 | 498 | Melissa Adams |
 | 164 | 496 | Cindy Looper |
-| 165 | 491 | Jade Rian |
-| 166 | 491 | Carrie Brian |
+| 165 | 491 | Carrie Brian |
+| 166 | 491 | Jade Rian |
 | 167 | 486 | Swanky Fitline |
 | 168 | 485 | Rico |
 | 169 | 480 | Brandon Crabbs |
@@ -233,8 +233,8 @@
 | 225 | 383 | Brickh4us |
 | 226 | 383 | blockstar |
 | 227 | 381 | Plucky Patternblock |
-| 228 | 380 | Zesty Twistbuilder |
-| 229 | 380 | Rio Rocha |
+| 228 | 380 | Rio Rocha |
+| 229 | 380 | Zesty Twistbuilder |
 | 230 | 379 | Backoff Recupe |
 | 231 | 378 | Lauren Scott |
 | 232 | 376 | shark tato |
@@ -286,8 +286,8 @@
 | 278 | 317 | Madison Sweere |
 | 279 | 315 | Stella |
 | 280 | 314 | Lora |
-| 281 | 313 | Angie Schmidt |
-| 282 | 313 | Milan Markeisha |
+| 281 | 313 | Milan Markeisha |
+| 282 | 313 | Angie Schmidt |
 | 283 | 312 | Dihcheese444 |
 | 284 | 311 | Jason Gibbs |
 | 285 | 311 | Nikki Rae Gordon |
@@ -312,8 +312,8 @@
 | 304 | 292 | Angel Raya |
 | 305 | 292 | Epic Curvetile |
 | 306 | 291 | Dizzy Matchzone |
-| 307 | 291 | Brittney Orengo |
-| 308 | 291 | ZeeZee |
+| 307 | 291 | ZeeZee |
+| 308 | 291 | Brittney Orengo |
 | 309 | 290 | Heather Bruce |
 | 310 | 290 | Jared Gutwein |
 | 311 | 290 | Neirrah B Olailjeel |

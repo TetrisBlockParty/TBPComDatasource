@@ -55,8 +55,8 @@
 | 47 | 1126 | Tater |
 | 48 | 1126 | Tipsy Column |
 | 49 | 1122 | Kristen Gideon |
-| 50 | 1114 | Jayme Sellers |
-| 51 | 1114 | Andrea Dañielle Ortiz |
+| 50 | 1114 | Andrea Dañielle Ortiz |
+| 51 | 1114 | Jayme Sellers |
 | 52 | 1074 | Cheeky Twistslam |
 | 53 | 1061 | Carrie Beck Geartz |
 | 54 | 1032 | Kathi Snustad |
@@ -247,9 +247,9 @@
 | 239 | 357 | Teri Oehlke |
 | 240 | 354 | Tipsy Strikerpiece |
 | 241 | 354 | Dino |
-| 242 | 353 | Reesey Enyart |
+| 242 | 353 | Josh Riemer |
 | 243 | 353 | Jaimie Lynn |
-| 244 | 353 | Josh Riemer |
+| 244 | 353 | Reesey Enyart |
 | 245 | 351 | Tyler Hertzog |
 | 246 | 349 | Cool Shiftsnap |
 | 247 | 348 | John Kim |
@@ -316,8 +316,8 @@
 | 308 | 294 | Chummy Rollblock |
 | 309 | 294 | Наталья Солоид |
 | 310 | 293 | Garrett Burket |
-| 311 | 292 | Damian Salem |
-| 312 | 292 | Clever Cascadepiece |
+| 311 | 292 | Clever Cascadepiece |
+| 312 | 292 | Damian Salem |
 | 313 | 291 | Sir-Franchise Drake |
 | 314 | 291 | Michael Espinosa Ulibarri Jr. |
 | 315 | 290 | Tavia |
@@ -367,14 +367,14 @@
 | 359 | 262 | Ramona Shaver |
 | 360 | 261 | Angela Fairbank |
 | 361 | 260 | Lacy Wolfe |
-| 362 | 259 | Glitzy Buildsnap |
-| 363 | 259 | Tiffany Smith |
-| 364 | 258 | Silly Align |
-| 365 | 258 | Gary Gobin |
-| 366 | 257 | Marc Abney |
-| 367 | 257 | Andrew Backes |
-| 368 | 256 | Chris Sigurdson |
-| 369 | 256 | Joe Coon |
+| 362 | 259 | Tiffany Smith |
+| 363 | 259 | Glitzy Buildsnap |
+| 364 | 258 | Gary Gobin |
+| 365 | 258 | Silly Align |
+| 366 | 257 | Andrew Backes |
+| 367 | 257 | Marc Abney |
+| 368 | 256 | Joe Coon |
+| 369 | 256 | Chris Sigurdson |
 | 370 | 255 | Beazel75 |
 | 371 | 254 | Al Smith Jr |
 | 372 | 253 | Shiny Gridmatch |
@@ -410,8 +410,8 @@
 | 402 | 235 | Nutty Glide |
 | 403 | 234 | Brandie Gallegos |
 | 404 | 233 | Melissa Bires Hussar |
-| 405 | 232 | Itspaigebro |
-| 406 | 232 | Mary Sheets |
+| 405 | 232 | Mary Sheets |
+| 406 | 232 | Itspaigebro |
 | 407 | 232 | Jennifer Olewnik Soborowski |
 | 408 | 230 | Panda Thagreat |
 | 409 | 229 | Happy Snapbuild |
