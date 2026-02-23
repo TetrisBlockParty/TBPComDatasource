@@ -218,14 +218,14 @@
 | 210 | 1286 | Altamirano Michael |
 | 211 | 1282 | Tanya Parsons |
 | 212 | 1259 | Foxxo |
-| 213 | 1258 | Joyce Johnson Vaughn |
-| 214 | 1258 | Snappy Matchbuilder |
+| 213 | 1258 | Snappy Matchbuilder |
+| 214 | 1258 | Joyce Johnson Vaughn |
 | 215 | 1252 | Angel |
 | 216 | 1245 | Cody Nishimura |
 | 217 | 1240 | Brandon Armstrong |
 | 218 | 1237 | Megan Ferguson Leone |
-| 219 | 1232 | Ambyre Patterson |
-| 220 | 1232 | Groovy Puzzle |
+| 219 | 1232 | Groovy Puzzle |
+| 220 | 1232 | Ambyre Patterson |
 | 221 | 1230 | Megan Garrick |
 | 222 | 1221 | Jane Fong |
 | 223 | 1217 | Brooks Brooks |

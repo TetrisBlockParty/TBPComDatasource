@@ -26,8 +26,8 @@
 | 18 | 1636 | Cassie Michaux |
 | 19 | 1565 | GreenJeepGirl |
 | 20 | 1558 | Leah Gorsuch |
-| 21 | 1536 | Misty Hollibaugh |
-| 22 | 1536 | Roger Coulter |
+| 21 | 1536 | Roger Coulter |
+| 22 | 1536 | Misty Hollibaugh |
 | 23 | 1485 | Juggalo |
 | 24 | 1390 | Sammy Noguera |
 | 25 | 1382 | Tammi Crnza |
@@ -62,8 +62,8 @@
 | 54 | 864 | Shelly Chandler |
 | 55 | 863 | Pee |
 | 56 | 859 | TeeJ |
-| 57 | 846 | Christine Marie |
-| 58 | 846 | Lucille Truesdale |
+| 57 | 846 | Lucille Truesdale |
+| 58 | 846 | Christine Marie |
 | 59 | 845 | LisaJo Picken Buchanan |
 | 60 | 834 | quicksand420 |
 | 61 | 834 | Ashley Ingram |
@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Kimyatta Cavin |
-| 84 | 684 | Jonathan Kimbrough |
+| 83 | 684 | Jonathan Kimbrough |
+| 84 | 684 | Kimyatta Cavin |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -208,8 +208,8 @@
 | 200 | 330 | blockstar |
 | 201 | 328 | scott |
 | 202 | 327 | J-Rizzle |
-| 203 | 324 | TinyLegoRose |
-| 204 | 324 | jim |
+| 203 | 324 | jim |
+| 204 | 324 | TinyLegoRose |
 | 205 | 321 | Meagan Nicole |
 | 206 | 320 | Lauren Scott |
 | 207 | 319 | Googenheim |
@@ -232,8 +232,8 @@
 | 224 | 294 | Porkobello |
 | 225 | 292 | Epic Curvetile |
 | 226 | 291 | Nikki Rae Gordon |
-| 227 | 290 | Plucky Patternblock |
-| 228 | 290 | Rebecca Morris |
+| 227 | 290 | Rebecca Morris |
+| 228 | 290 | Plucky Patternblock |
 | 229 | 290 | Jared Gutwein |
 | 230 | 289 | Juls |
 | 231 | 288 | Brittney Orengo |
@@ -465,8 +465,8 @@
 | 457 | 159 | Groovy Brickmatch |
 | 458 | 158 | Dapper Frame |
 | 459 | 158 | Jasmine S Caldwell |
-| 460 | 157 | LunaMoon |
-| 461 | 157 | Ryry |
+| 460 | 157 | Ryry |
+| 461 | 157 | LunaMoon |
 | 462 | 157 | David Boggs |
 | 463 | 156 | Mighty Edgepiece |
 | 464 | 156 | Funky Risepiece |
@@ -491,8 +491,8 @@
 | 483 | 150 | PennyCandee |
 | 484 | 150 | Grann8 |
 | 485 | 149 | Boldy Linkpiece |
-| 486 | 149 | Smiley Shifter |
-| 487 | 149 | Manny1 |
+| 486 | 149 | Manny1 |
+| 487 | 149 | Smiley Shifter |
 | 488 | 149 | Melissa VanBourgondien |
 | 489 | 149 | Sallie Sanborn |
 | 490 | 148 | Gdiguy |

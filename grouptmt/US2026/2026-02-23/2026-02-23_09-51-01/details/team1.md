@@ -224,13 +224,13 @@
 | 216 | 301 | Damon J. Martin |
 | 217 | 301 | Cody Gates |
 | 218 | 300 | Sleepysloath5745 |
-| 219 | 298 | Billie Ann Eason |
-| 220 | 298 | Sweetts |
+| 219 | 298 | Sweetts |
+| 220 | 298 | Billie Ann Eason |
 | 221 | 295 | Lakeisha Chapman |
 | 222 | 294 | Chuck Gannon |
 | 223 | 293 | John Kim |
-| 224 | 291 | Brave Wrecker |
-| 225 | 291 | Giddy Cascade |
+| 224 | 291 | Giddy Cascade |
+| 225 | 291 | Brave Wrecker |
 | 226 | 290 | Tavia |
 | 227 | 290 | Hellsin |
 | 228 | 287 | Sassy Builderline |

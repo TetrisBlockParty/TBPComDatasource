@@ -128,8 +128,8 @@
 | 120 | 799 | Dolores Falco |
 | 121 | 773 | Daira Largen |
 | 122 | 769 | Kristie |
-| 123 | 764 | Groovy Catcher |
-| 124 | 764 | Hasty Cascadefit |
+| 123 | 764 | Hasty Cascadefit |
+| 124 | 764 | Groovy Catcher |
 | 125 | 762 | Speedy Bridger |
 | 126 | 755 | Katrina Schroeder |
 | 127 | 755 | Raya |
@@ -164,8 +164,8 @@
 | 156 | 646 | Bea Miles |
 | 157 | 634 | Amber Hughes |
 | 158 | 630 | yoyo |
-| 159 | 621 | Sashay Tapae Simpson |
-| 160 | 621 | Cherry Parker |
+| 159 | 621 | Cherry Parker |
+| 160 | 621 | Sashay Tapae Simpson |
 | 161 | 616 | Kammy Hill |
 | 162 | 611 | Rochelle Hazelett |
 | 163 | 607 | Grego Daniel |
@@ -177,8 +177,8 @@
 | 169 | 595 | Nicole Myers |
 | 170 | 591 | Michael Nowogorski |
 | 171 | 587 | Louise Stacy Sisson |
-| 172 | 585 | Annie Marie |
-| 173 | 585 | Happy Tetriblast |
+| 172 | 585 | Happy Tetriblast |
+| 173 | 585 | Annie Marie |
 | 174 | 583 | Tasha Gillespie |
 | 175 | 582 | Natasha Jones |
 | 176 | 577 | Domo Washington |
@@ -197,8 +197,8 @@
 | 189 | 546 | Cynthia Castros-Hampton |
 | 190 | 546 | Tasha Schriewer |
 | 191 | 540 | Shawn Miller |
-| 192 | 531 | Sarah Cowan Burgos |
-| 193 | 531 | Chauntee Alfrey-Cardinale |
+| 192 | 531 | Chauntee Alfrey-Cardinale |
+| 193 | 531 | Sarah Cowan Burgos |
 | 194 | 528 | Silly Twist |
 | 195 | 525 | Stephanie Blkpep Davidson |
 | 196 | 524 | Bmo |
@@ -217,8 +217,8 @@
 | 209 | 485 | Dapper Snap |
 | 210 | 484 | Fallorina Susana |
 | 211 | 481 | Connie Mohler-Fair |
-| 212 | 480 | Danielle Allison |
-| 213 | 480 | Michael Johnson |
+| 212 | 480 | Michael Johnson |
+| 213 | 480 | Danielle Allison |
 | 214 | 477 | Edwin Calvillo Jr. |
 | 215 | 475 | Tessina Dewey-Mancino |
 | 216 | 473 | Rachel |
@@ -261,8 +261,8 @@
 | 253 | 395 | rosy |
 | 254 | 391 | RickyG |
 | 255 | 387 | Gideon Walker |
-| 256 | 384 | Noyb Adam |
-| 257 | 384 | Tamara Deherrera |
+| 256 | 384 | Tamara Deherrera |
+| 257 | 384 | Noyb Adam |
 | 258 | 383 | Darlene McMillan |
 | 259 | 382 | Giddy Twistbuilder |
 | 260 | 381 | Snazzy Filler |
@@ -339,15 +339,15 @@
 | 331 | 311 | Troy |
 | 332 | 309 | Desiree Gold |
 | 333 | 309 | Cheeky Snapper |
-| 334 | 308 | Katrina Turner |
-| 335 | 308 | Tia |
+| 334 | 308 | Tia |
+| 335 | 308 | Katrina Turner |
 | 336 | 305 | Hyper Matchzone |
 | 337 | 304 | _melisa223_ |
 | 338 | 303 | Alexmac |
 | 339 | 301 | Daring Brickzone |
 | 340 | 301 | Dee Pratt |
-| 341 | 301 | Betty Rosas |
-| 342 | 301 | Tiffany Davie |
+| 341 | 301 | Tiffany Davie |
+| 342 | 301 | Betty Rosas |
 | 343 | 301 | Kaitie Oliver |
 | 344 | 299 | TotoCherue |
 | 345 | 299 | Angie Harper |
@@ -389,8 +389,8 @@
 | 381 | 275 | Michael Lucado |
 | 382 | 275 | Cassandra Bryant |
 | 383 | 274 | Mary Giorgenti |
-| 384 | 273 | Quackers |
-| 385 | 273 | Brenda Schmid Wood |
+| 384 | 273 | Brenda Schmid Wood |
+| 385 | 273 | Quackers |
 | 386 | 273 | Kevin Fountain |
 | 387 | 272 | Romeo |
 | 388 | 272 | Todd Hall |
@@ -1483,7 +1483,7 @@
 | 1475 | 70 | Angie Kirkendall |
 | 1476 | 70 | Myoshia Norwood |
 | 1477 | 70 | Kat Heinzel |
-| 1478 | 70 | Angie Kirkendall |
+| 1478 | 70 | Boldy Snapzone |
 | 1479 | 70 | fakir |
 | 1480 | 69 | Q Hutchison |
 | 1481 | 69 | Zachary Campbell |
