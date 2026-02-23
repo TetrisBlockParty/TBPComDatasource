@@ -78,7 +78,7 @@
 | 70 | 3197 | Happy Blockroll |
 | 71 | 3116 | Izabel Herrera |
 | 72 | 3099 | Charie Holland |
-| 73 | 3095 | Macy Williams |
+| 73 | 3094 | Macy Williams |
 | 74 | 3074 | Becky Weeks-Garry |
 | 75 | 2901 | RdRydnHd |
 | 76 | 2880 | Kimberly Schall |
@@ -185,8 +185,8 @@
 | 177 | 1580 | Sally Dennis |
 | 178 | 1567 | Juliana Marques Do Nascimento Gordy |
 | 179 | 1564 | Amy Sayers |
-| 180 | 1558 | Tim Dyer |
-| 181 | 1558 | Crystal Slaughter |
+| 180 | 1558 | Crystal Slaughter |
+| 181 | 1558 | Tim Dyer |
 | 182 | 1555 | blarg |
 | 183 | 1549 | Desiree Harris Rosch |
 | 184 | 1542 | Mo Shine On |
@@ -195,12 +195,12 @@
 | 187 | 1509 | Howard Forest |
 | 188 | 1509 | Whitney Nicole Waterman |
 | 189 | 1507 | Kiok |
-| 190 | 1507 | Debra Williams |
-| 191 | 1504 | Tony Lea |
-| 192 | 1504 | Hannah Erskine |
-| 193 | 1488 | Sommer Shope |
-| 194 | 1484 | PsychKIRAtrist |
-| 195 | 1484 | Ginnell Browner |
+| 190 | 1504 | Tony Lea |
+| 191 | 1504 | Hannah Erskine |
+| 192 | 1488 | Sommer Shope |
+| 193 | 1488 | Debra Williams |
+| 194 | 1484 | Ginnell Browner |
+| 195 | 1484 | PsychKIRAtrist |
 | 196 | 1483 | Ashley Rose Frederick |
 | 197 | 1481 | Denise Rickman |
 | 198 | 1472 | Porsche' Nicole |
@@ -269,8 +269,8 @@
 | 261 | 1183 | Poppy Snap |
 | 262 | 1179 | Georgia Triblett |
 | 263 | 1171 | Loretta Brewer-Gage |
-| 264 | 1165 | Christina Wsn |
-| 265 | 1165 | Michelle Lee |
+| 264 | 1165 | Michelle Lee |
+| 265 | 1165 | Christina Wsn |
 | 266 | 1163 | Erika Densmore |
 | 267 | 1160 | Sarah Ridenour |
 | 268 | 1158 | Brittany Clark |
@@ -440,8 +440,8 @@
 | 432 | 808 | Connie Jimenez |
 | 433 | 808 | Jánine Riggs |
 | 434 | 804 | Sarah DeHart |
-| 435 | 804 | Barry Britt |
-| 436 | 804 | Becca Coronado |
+| 435 | 804 | Becca Coronado |
+| 436 | 804 | Barry Britt |
 | 437 | 803 | Tiara Elizabeth Baker |
 | 438 | 802 | Jessicah Myers |
 | 439 | 801 | Diana Fitzwater |
@@ -485,11 +485,11 @@
 | 477 | 751 | Caitlyn Blackwell |
 | 478 | 751 | Breezy Filler |
 | 479 | 751 | Loony Snapper |
-| 480 | 750 | Draizen Montrell Thomas |
-| 481 | 750 | Michael Buckner |
+| 480 | 750 | Michael Buckner |
+| 481 | 750 | Draizen Montrell Thomas |
 | 482 | 748 | Ann Matzkanin |
-| 483 | 746 | Hoppy Brickmatch |
-| 484 | 746 | Ryan Stadel |
+| 483 | 746 | Ryan Stadel |
+| 484 | 746 | Hoppy Brickmatch |
 | 485 | 746 | Samuel Macon |
 | 486 | 744 | Belle |
 | 487 | 742 | Ganieda |
@@ -702,16 +702,16 @@
 | 694 | 550 | Michelle Sager |
 | 695 | 550 | Bonita Kee |
 | 696 | 550 | Shorty |
-| 697 | 549 | Crystal Hodge Love |
-| 698 | 549 | Kaylee McCafferty |
+| 697 | 549 | Kaylee McCafferty |
+| 698 | 549 | Crystal Hodge Love |
 | 699 | 548 | Sunshine711 |
-| 700 | 547 | Sonya Back |
-| 701 | 547 | Heather M Purcell |
+| 700 | 547 | Heather M Purcell |
+| 701 | 547 | Sonya Back |
 | 702 | 546 | NanDa Cruzan VI |
 | 703 | 545 | Maxwell Escalera |
 | 704 | 544 | Deidre Shaffer |
-| 705 | 544 | Armonie Smith |
-| 706 | 544 | Snappy snappers |
+| 705 | 544 | Snappy snappers |
+| 706 | 544 | Armonie Smith |
 | 707 | 543 | Demitri Smith |
 | 708 | 543 | Lathasa Newkirk |
 | 709 | 542 | Christy Long |

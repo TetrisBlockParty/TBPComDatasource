@@ -82,8 +82,8 @@
 | 74 | 1256 | Jessica Bechler |
 | 75 | 1244 | Lori Barnaby |
 | 76 | 1221 | Betty Ivy |
-| 77 | 1213 | Nerdy Riseclear |
-| 78 | 1213 | Snappy Glidepiece |
+| 77 | 1213 | Snappy Glidepiece |
+| 78 | 1213 | Nerdy Riseclear |
 | 79 | 1209 | Amanda Adkins |
 | 80 | 1186 | Christian A. Pollard |
 | 81 | 1169 | Araceli Parra |
@@ -137,8 +137,8 @@
 | 129 | 774 | Keith J Oshman Jr. |
 | 130 | 773 | Daira Largen |
 | 131 | 770 | Daryn Elliott |
-| 132 | 764 | Hasty Cascadefit |
-| 133 | 764 | Groovy Catcher |
+| 132 | 764 | Groovy Catcher |
+| 133 | 764 | Hasty Cascadefit |
 | 134 | 762 | Speedy Bridger |
 | 135 | 757 | Fancy Cascader |
 | 136 | 756 | Patty Allen |
@@ -170,13 +170,13 @@
 | 162 | 649 | Shavette |
 | 163 | 647 | Jennifer Lynn Fahrenholtz-Summers |
 | 164 | 646 | Tina Kay |
-| 165 | 634 | Amber Hughes |
-| 166 | 634 | Denita Mungro |
+| 165 | 634 | Denita Mungro |
+| 166 | 634 | Amber Hughes |
 | 167 | 632 | Morgan Martinez |
 | 168 | 630 | yoyo |
 | 169 | 629 | rnr junky |
-| 170 | 621 | Sashay Tapae Simpson |
-| 171 | 621 | Cherry Parker |
+| 170 | 621 | Cherry Parker |
+| 171 | 621 | Sashay Tapae Simpson |
 | 172 | 616 | Kammy Hill |
 | 173 | 611 | Rochelle Hazelett |
 | 174 | 603 | Jone |
@@ -185,12 +185,12 @@
 | 177 | 598 | Makelini Mausia |
 | 178 | 597 | Diana Ibarra |
 | 179 | 597 | CeceGeGe |
-| 180 | 591 | Kaycee Kay |
-| 181 | 591 | Michael Nowogorski |
+| 180 | 591 | Michael Nowogorski |
+| 181 | 591 | Kaycee Kay |
 | 182 | 589 | Tasha Gillespie |
 | 183 | 587 | Louise Stacy Sisson |
-| 184 | 585 | Happy Tetriblast |
-| 185 | 585 | Domo Washington |
+| 184 | 585 | Domo Washington |
+| 185 | 585 | Happy Tetriblast |
 | 186 | 582 | Natasha Jones |
 | 187 | 576 | Keis |
 | 188 | 568 | Tasha Schriewer |
@@ -206,8 +206,8 @@
 | 198 | 549 | Sarah Cowan Burgos |
 | 199 | 548 | Danielle Balcom |
 | 200 | 547 | Staci George Fitzsimmons |
-| 201 | 546 | Cynthia Castros-Hampton |
-| 202 | 546 | Mykal Burton |
+| 201 | 546 | Mykal Burton |
+| 202 | 546 | Cynthia Castros-Hampton |
 | 203 | 543 | Silly Twist |
 | 204 | 540 | Shawn Miller |
 | 205 | 539 | Betty Bóò |
@@ -312,8 +312,8 @@
 | 304 | 370 | Samantha Lynn |
 | 305 | 369 | Amber Glover |
 | 306 | 369 | Jennifer Alvey |
-| 307 | 368 | Stephanie Woods |
-| 308 | 368 | Sheila M Frazier |
+| 307 | 368 | Sheila M Frazier |
+| 308 | 368 | Stephanie Woods |
 | 309 | 365 | LaShey Thompson |
 | 310 | 362 | Brandon Givens |
 | 311 | 362 | Foltz Lee Kelli |
@@ -371,18 +371,18 @@
 | 363 | 322 | Beth Smith |
 | 364 | 321 | Wettnippz |
 | 365 | 320 | Or Reznitsky |
-| 366 | 320 | Taylor Hood |
-| 367 | 320 | Ashley Muncey |
+| 366 | 320 | Ashley Muncey |
+| 367 | 320 | Taylor Hood |
 | 368 | 318 | Christy Quick |
 | 369 | 316 | Travis W |
 | 370 | 314 | Tipsy Zonebuilder |
-| 371 | 313 | Erykah |
-| 372 | 313 | Hoppy Buildout |
+| 371 | 313 | Hoppy Buildout |
+| 372 | 313 | Erykah |
 | 373 | 312 | Eric Caccavale |
-| 374 | 311 | Troy |
-| 375 | 311 | Noettín Kan Zasnemoore |
-| 376 | 309 | Block Baddie |
-| 377 | 309 | Cheeky Snapper |
+| 374 | 311 | Noettín Kan Zasnemoore |
+| 375 | 311 | Troy |
+| 376 | 309 | Cheeky Snapper |
+| 377 | 309 | Block Baddie |
 | 378 | 308 | Tia |
 | 379 | 308 | Katrina Turner |
 | 380 | 307 | Kristina Gardner |
@@ -433,8 +433,8 @@
 | 425 | 278 | IamJust Neyamijah Washington Sr. |
 | 426 | 277 | Joe-Maggie Mathews |
 | 427 | 277 | Christine Foley |
-| 428 | 276 | Crimson |
-| 429 | 276 | Mikki Torres |
+| 428 | 276 | Mikki Torres |
+| 429 | 276 | Crimson |
 | 430 | 276 | Karent524 |
 | 431 | 275 | Cassandra Bryant |
 | 432 | 273 | BigE |
