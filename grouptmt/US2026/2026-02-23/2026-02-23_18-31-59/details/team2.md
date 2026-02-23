@@ -388,9 +388,9 @@
 | 380 | 939 | Mighty Shatterfit |
 | 381 | 937 | Andrew Willis |
 | 382 | 935 | Kayla |
-| 383 | 933 | Nicole Cannon |
-| 384 | 933 | Bee |
-| 385 | 933 | Min |
+| 383 | 933 | Min |
+| 384 | 933 | Nicole Cannon |
+| 385 | 933 | Bee |
 | 386 | 929 | Ellie Jonas |
 | 387 | 928 | Elizabeth Wilbanks |
 | 388 | 923 | blume |

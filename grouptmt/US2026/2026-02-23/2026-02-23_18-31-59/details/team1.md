@@ -147,8 +147,8 @@
 | 139 | 491 | cc |
 | 140 | 489 | Deanna L Hermanson |
 | 141 | 488 | Hyper |
-| 142 | 487 | Kandae |
-| 143 | 487 | Rebekah LeiAnn Bonsell |
+| 142 | 487 | Rebekah LeiAnn Bonsell |
+| 143 | 487 | Kandae |
 | 144 | 486 | Dee Perry |
 | 145 | 483 | Trina Gee |
 | 146 | 478 | Sarah Somers Gray |

@@ -298,8 +298,8 @@
 | 290 | 425 | Jennifer Alvey |
 | 291 | 421 | Snazzy Filler |
 | 292 | 421 | Chummy Caster |
-| 293 | 420 | Sarah Moyer |
-| 294 | 420 | Sabrina Hardrick |
+| 293 | 420 | Sabrina Hardrick |
+| 294 | 420 | Sarah Moyer |
 | 295 | 417 | Giddy Twistbuilder |
 | 296 | 414 | RickyG |
 | 297 | 412 | Jojo M |
@@ -312,8 +312,8 @@
 | 304 | 405 | Desiree Gold |
 | 305 | 405 | Steffi Chris Dacones |
 | 306 | 403 | lashanda |
-| 307 | 403 | Scott Lindsay |
-| 308 | 403 | Stephanie Burtin |
+| 307 | 403 | Stephanie Burtin |
+| 308 | 403 | Scott Lindsay |
 | 309 | 400 | Dana Winters |
 | 310 | 398 | fraulila |
 | 311 | 397 | Heather De Vries Cobb |
@@ -355,8 +355,8 @@
 | 347 | 362 | Chummy Rumbler |
 | 348 | 362 | Brandon Givens |
 | 349 | 361 | neci |
-| 350 | 359 | Steven Fulater |
-| 351 | 359 | Kristen Weese |
+| 350 | 359 | Kristen Weese |
+| 351 | 359 | Steven Fulater |
 | 352 | 358 | Heather Davis |
 | 353 | 356 | Tony Waters |
 | 354 | 356 | Ashley Lynn Marchese |
@@ -373,8 +373,8 @@
 | 365 | 348 | Ashley Raines |
 | 366 | 348 | Kelly Wolf |
 | 367 | 346 | AlsoJess |
-| 368 | 345 | victory |
-| 369 | 345 | gremicx |
+| 368 | 345 | gremicx |
+| 369 | 345 | victory |
 | 370 | 344 | Beaudie Stroebel |
 | 371 | 343 | Donna |
 | 372 | 343 | Ashley Rufus Bythcez |
@@ -387,8 +387,8 @@
 | 379 | 337 | Alexmac |
 | 380 | 337 | Michelle Allers |
 | 381 | 333 | Geoffrey Nash |
-| 382 | 333 | Ivan Del Toro |
-| 383 | 333 | Nikki White |
+| 382 | 333 | Nikki White |
+| 383 | 333 | Ivan Del Toro |
 | 384 | 332 | Brittany |
 | 385 | 332 | Michael Leblanc |
 | 386 | 331 | Maggie |
