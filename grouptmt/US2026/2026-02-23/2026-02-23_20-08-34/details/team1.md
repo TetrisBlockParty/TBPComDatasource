@@ -179,8 +179,8 @@
 | 171 | 434 | Yvonne Marie |
 | 172 | 432 | Lori Bales |
 | 173 | 426 | Maria C. Hernandez |
-| 174 | 425 | Tana |
-| 175 | 425 | Tyler Werts |
+| 174 | 425 | Tyler Werts |
+| 175 | 425 | Tana |
 | 176 | 424 | Emily Adelaide Wheatley |
 | 177 | 421 | Michelle Beres |
 | 178 | 420 | Cheeky Crusher |
@@ -205,12 +205,12 @@
 | 197 | 393 | Lehrin Maria |
 | 198 | 392 | Kathy Langham |
 | 199 | 391 | Monica Donato |
-| 200 | 387 | Ananda Mendez |
+| 200 | 387 | Carrie Smith |
 | 201 | 387 | Witty Builderfit |
-| 202 | 387 | Carrie Smith |
+| 202 | 387 | Ananda Mendez |
 | 203 | 386 | Brian Spotts |
 | 204 | 384 | Tami Luce Martin |
-| 205 | 383 | Connie |
+| 205 | 383 | pjbeta |
 | 206 | 383 | Margo Wagner |
 | 207 | 383 | Connie |
 | 208 | 380 | David Lutcher |
@@ -309,8 +309,8 @@
 | 301 | 301 | Glitzy Curvebuilder |
 | 302 | 300 | Giggly Builderline |
 | 303 | 299 | LD1 |
-| 304 | 298 | Sweetts |
-| 305 | 298 | Kimberly Davis |
+| 304 | 298 | Kimberly Davis |
+| 305 | 298 | Sweetts |
 | 306 | 297 | Diane Byrd |
 | 307 | 294 | Наталья Солоид |
 | 308 | 294 | Chummy Rollblock |
@@ -2015,7 +2015,7 @@
 | 2007 | 7 | Gabriel Providenti |
 | 2008 | 6 | Justin Cressotti |
 | 2009 | 6 | Tracy Obenauer |
-| 2010 | 6 | Justin Cressotti |
+| 2010 | 6 | Harry Matthew |
 | 2011 | 6 | Vicky Meanor |
 | 2012 | 6 | Ryan Douglas Mitchell |
 | 2013 | 6 | Linda Nys |

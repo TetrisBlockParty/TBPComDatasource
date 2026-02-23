@@ -159,8 +159,8 @@
 | 151 | 779 | Justin Ritter |
 | 152 | 773 | Daryn Elliott |
 | 153 | 773 | Daira Largen |
-| 154 | 764 | Hasty Cascadefit |
-| 155 | 764 | Groovy Catcher |
+| 154 | 764 | Groovy Catcher |
+| 155 | 764 | Hasty Cascadefit |
 | 156 | 762 | Santeria Trece Candles |
 | 157 | 761 | Denita Mungro |
 | 158 | 761 | Peppy Shifter |
@@ -222,8 +222,8 @@
 | 214 | 569 | Michael Johnson |
 | 215 | 568 | Rachael McClain Owens |
 | 216 | 566 | LaTanya GeminiondaRise Johnson |
-| 217 | 564 | Poppy Splitter |
-| 218 | 564 | Christine Trester |
+| 217 | 564 | Christine Trester |
+| 218 | 564 | Poppy Splitter |
 | 219 | 563 | FuzzyNavel |
 | 220 | 562 | Dave Herzog |
 | 221 | 561 | Silly Twist |
@@ -400,8 +400,8 @@
 | 392 | 332 | Michael Leblanc |
 | 393 | 331 | Eboni Starr |
 | 394 | 330 | Big T |
-| 395 | 328 | Krystal Gerstberger |
-| 396 | 328 | Norma JulieMay |
+| 395 | 328 | Norma JulieMay |
+| 396 | 328 | Krystal Gerstberger |
 | 397 | 328 | Desiree Soto |
 | 398 | 328 | Cesar Mendez |
 | 399 | 327 | Tiffanie Alley |
@@ -503,8 +503,8 @@
 | 495 | 275 | Cassandra Bryant |
 | 496 | 275 | Scott Doss |
 | 497 | 274 | Nerdy Lifter |
-| 498 | 273 | Kevin Fountain |
-| 499 | 273 | BigE |
+| 498 | 273 | BigE |
+| 499 | 273 | Kevin Fountain |
 | 500 | 273 | Michael Latasha Gray |
 | 501 | 273 | Joshua David Huie |
 | 502 | 272 | Megan Riggins |
