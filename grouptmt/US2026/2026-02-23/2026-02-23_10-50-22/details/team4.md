@@ -76,8 +76,8 @@
 | 68 | 787 | Edward White |
 | 69 | 767 | Shannon Ferrari |
 | 70 | 766 | Robin Watters |
-| 71 | 765 | Robin Getchel |
-| 72 | 765 | Denise Carlson |
+| 71 | 765 | Denise Carlson |
+| 72 | 765 | Robin Getchel |
 | 73 | 753 | TheNeesh50 |
 | 74 | 752 | Shane Kalamata Platoon |
 | 75 | 749 | Dustee Craddock-Harrison |
@@ -196,8 +196,8 @@
 | 188 | 349 | Rafael Valentin |
 | 189 | 348 | April Rondinone |
 | 190 | 348 | David Lay |
-| 191 | 347 | Crystal Nicolette Moore |
-| 192 | 347 | Daria Rycewicz |
+| 191 | 347 | Daria Rycewicz |
+| 192 | 347 | Crystal Nicolette Moore |
 | 193 | 347 | Bio Nelly |
 | 194 | 346 | shark tato |
 | 195 | 340 | Kris Bartlett |
@@ -218,8 +218,8 @@
 | 210 | 317 | Madison Sweere |
 | 211 | 316 | Autumn Kumzi |
 | 212 | 313 | Milan Markeisha |
-| 213 | 312 | Casey Grabner |
-| 214 | 312 | Dihcheese444 |
+| 213 | 312 | Dihcheese444 |
+| 214 | 312 | Casey Grabner |
 | 215 | 311 | Mary Ann Pabukis |
 | 216 | 311 | Nikki Rae Gordon |
 | 217 | 310 | Holly Jolly |
@@ -227,17 +227,17 @@
 | 219 | 307 | Michele Plunkett |
 | 220 | 306 | mike |
 | 221 | 305 | Melvin Baird |
-| 222 | 304 | Lindsay Ball |
-| 223 | 304 | Gdiguy |
+| 222 | 304 | Gdiguy |
+| 223 | 304 | Lindsay Ball |
 | 224 | 301 | Andria Lynn |
 | 225 | 300 | Dana Scott |
 | 226 | 297 | Lori |
 | 227 | 295 | Keshia Lyons |
-| 228 | 294 | Calvin Cannon |
-| 229 | 294 | Porkobello |
+| 228 | 294 | Porkobello |
+| 229 | 294 | Calvin Cannon |
 | 230 | 292 | Epic Curvetile |
-| 231 | 290 | Rebecca Morris |
-| 232 | 290 | Plucky Patternblock |
+| 231 | 290 | Plucky Patternblock |
+| 232 | 290 | Rebecca Morris |
 | 233 | 290 | Jared Gutwein |
 | 234 | 289 | Juls |
 | 235 | 288 | Zesty Twistbuilder |
@@ -270,8 +270,8 @@
 | 262 | 264 | ZeeZee |
 | 263 | 264 | Stella |
 | 264 | 263 | rebel4lyfe |
-| 265 | 262 | BigSammy420 |
-| 266 | 262 | Selena Shaw |
+| 265 | 262 | Selena Shaw |
+| 266 | 262 | BigSammy420 |
 | 267 | 261 | Zethra Prenisha Rahming |
 | 268 | 260 | Carter Jones |
 | 269 | 259 | Allen Lloyd |
@@ -334,8 +334,8 @@
 | 326 | 219 | Orchislactea |
 | 327 | 218 | Stephme310 |
 | 328 | 218 | Janita Parrish |
-| 329 | 217 | Paito |
-| 330 | 217 | Alexandra Karavias |
+| 329 | 217 | Alexandra Karavias |
+| 330 | 217 | Paito |
 | 331 | 217 | Cheery Fitline |
 | 332 | 215 | 07VHVW |
 | 333 | 214 | Patron Anderson |
@@ -601,7 +601,7 @@
 | 593 | 120 | Verna Neal |
 | 594 | 119 | Flashy Jumper |
 | 595 | 119 | River Shady Sr. |
-| 596 | 119 | George Tzouganos |
+| 596 | 119 | Calen Torez |
 | 597 | 119 | Kourtney Barnes |
 | 598 | 119 | George Tzouganos |
 | 599 | 119 | Lee Silpe |
@@ -860,9 +860,9 @@
 | 852 | 79 | Petty |
 | 853 | 79 | Dot Flanagan |
 | 854 | 79 | Jason M Cadreau |
-| 855 | 78 | Roy Simmons |
-| 856 | 78 | Allen Johnson |
-| 857 | 78 | Bromine |
+| 855 | 78 | Bromine |
+| 856 | 78 | Roy Simmons |
+| 857 | 78 | Allen Johnson |
 | 858 | 78 | Leah Landry |
 | 859 | 78 | Jaime Ore Norcross |
 | 860 | 78 | Bold Matcher |

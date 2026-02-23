@@ -158,12 +158,12 @@
 | 150 | 394 | Jennifer Hardman |
 | 151 | 389 | David Miller |
 | 152 | 388 | Fmp |
-| 153 | 387 | Ananda Mendez |
-| 154 | 387 | Emily Adelaide Wheatley |
-| 155 | 387 | Monica Donato |
-| 156 | 387 | Carrie Smith |
-| 157 | 383 | pjbeta |
-| 158 | 383 | Margo Wagner |
+| 153 | 387 | Carrie Smith |
+| 154 | 387 | Monica Donato |
+| 155 | 387 | Ananda Mendez |
+| 156 | 387 | Emily Adelaide Wheatley |
+| 157 | 383 | Margo Wagner |
+| 158 | 383 | pjbeta |
 | 159 | 380 | phrmblk24 |
 | 160 | 379 | Kimmie Kimms |
 | 161 | 379 | Austin James |
@@ -207,8 +207,8 @@
 | 199 | 341 | Nick R Montague |
 | 200 | 339 | Nicole Roseberry Weber |
 | 201 | 337 | Jamise Brown |
-| 202 | 333 | Tyler Hertzog |
-| 203 | 333 | Virginia Gray Floyd |
+| 202 | 333 | Virginia Gray Floyd |
+| 203 | 333 | Tyler Hertzog |
 | 204 | 333 | Gracie |
 | 205 | 332 | Happy Basegrid |
 | 206 | 328 | Snappy Matcher |
@@ -263,8 +263,8 @@
 | 255 | 272 | Tawnya Peltonen |
 | 256 | 272 | Michelle Beres |
 | 257 | 271 | Frothy Pattern |
-| 258 | 270 | Brenda Alexander |
-| 259 | 270 | Debbie Kane |
+| 258 | 270 | Debbie Kane |
+| 259 | 270 | Brenda Alexander |
 | 260 | 268 | Standia Civil |
 | 261 | 267 | Daring Fitclear |
 | 262 | 265 | Kandae |

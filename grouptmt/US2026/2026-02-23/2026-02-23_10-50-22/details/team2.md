@@ -278,8 +278,8 @@
 | 270 | 1079 | Jennifer Kistner |
 | 271 | 1073 | Jodi Blake |
 | 272 | 1071 | Kim Dean |
-| 273 | 1069 | Offonar Facey |
-| 274 | 1069 | Carl Bradshaw |
+| 273 | 1069 | Carl Bradshaw |
+| 274 | 1069 | Offonar Facey |
 | 275 | 1064 | BK Queen |
 | 276 | 1063 | Caitlin Schmid |
 | 277 | 1058 | Rickey Johnson |
@@ -391,16 +391,16 @@
 | 383 | 829 | Jessica Wayne Cornwall |
 | 384 | 828 | Kimmy Newman |
 | 385 | 825 | Jeremy Parodi |
-| 386 | 824 | Danielle Johnson-Chandler |
-| 387 | 824 | Khalil Lowe |
+| 386 | 824 | Khalil Lowe |
+| 387 | 824 | Danielle Johnson-Chandler |
 | 388 | 822 | Lola Contreras |
 | 389 | 821 | Cassie Mercer |
 | 390 | 816 | Beth |
 | 391 | 816 | James Simms III |
 | 392 | 812 | Samantha Jo |
-| 393 | 808 | Laura McCarthey |
-| 394 | 808 | Desire Rice |
-| 395 | 808 | Connie Jimenez |
+| 393 | 808 | Desire Rice |
+| 394 | 808 | Connie Jimenez |
+| 395 | 808 | Laura McCarthey |
 | 396 | 804 | Becca Coronado |
 | 397 | 803 | Tiara Elizabeth Baker |
 | 398 | 801 | Gold Rose |
@@ -581,8 +581,8 @@
 | 573 | 612 | Slinky Racker |
 | 574 | 612 | Briana Alexander |
 | 575 | 610 | Michael Buckner |
-| 576 | 609 | Autumn Schaeffer |
-| 577 | 609 | Cecilia A Jenkins |
+| 576 | 609 | Cecilia A Jenkins |
+| 577 | 609 | Autumn Schaeffer |
 | 578 | 607 | James Smith |
 | 579 | 607 | Miranda Morris |
 | 580 | 606 | Lea Stewart |
@@ -597,8 +597,8 @@
 | 589 | 601 | Daniel Amos |
 | 590 | 600 | Nicole Cox |
 | 591 | 599 | Cc |
-| 592 | 597 | TJ Nash |
-| 593 | 597 | Jamie Schmitt |
+| 592 | 597 | Jamie Schmitt |
+| 593 | 597 | TJ Nash |
 | 594 | 597 | Magic steve |
 | 595 | 596 | Davetta Sanford |
 | 596 | 595 | Dapper Dasher |
@@ -730,10 +730,10 @@
 | 722 | 499 | Martina Gabrielle LaPolla |
 | 723 | 498 | Abimbola Bimbo |
 | 724 | 498 | Chummy Blockbuilder |
-| 725 | 497 | Sam |
-| 726 | 497 | June E Hanson |
-| 727 | 496 | Angelina Marie |
-| 728 | 496 | Tracy Cowley |
+| 725 | 497 | June E Hanson |
+| 726 | 497 | Sam |
+| 727 | 496 | Tracy Cowley |
+| 728 | 496 | Angelina Marie |
 | 729 | 496 | Eunique Griffin |
 | 730 | 496 | Shyne Sun |
 | 731 | 496 | Anthony Mignacca |
@@ -1222,9 +1222,9 @@
 | 1214 | 320 | Peachy Blockbuilder |
 | 1215 | 319 | Lexa Craft Davidson |
 | 1216 | 319 | Jessica Sutter |
-| 1217 | 318 | Perk Diggler |
-| 1218 | 318 | Layna Lyons |
-| 1219 | 318 | Daring Matchfit |
+| 1217 | 318 | Daring Matchfit |
+| 1218 | 318 | Perk Diggler |
+| 1219 | 318 | Layna Lyons |
 | 1220 | 318 | Delfina Marie Villasenor |
 | 1221 | 318 | Natasha Marie |
 | 1222 | 318 | Steve Zortman |
@@ -1233,8 +1233,8 @@
 | 1225 | 317 | Bigg Meezy |
 | 1226 | 317 | HarleyJane |
 | 1227 | 317 | Zombi3 |
-| 1228 | 316 | Cheeky Brickmatch |
-| 1229 | 316 | Rebecca Edmund |
+| 1228 | 316 | Rebecca Edmund |
+| 1229 | 316 | Cheeky Brickmatch |
 | 1230 | 315 | Lupita Flores |
 | 1231 | 315 | Dan Sickels |
 | 1232 | 315 | Drew Berkelbach |
@@ -1263,8 +1263,8 @@
 | 1255 | 308 | Chilly Linkfall |
 | 1256 | 308 | Hyper Riseclear |
 | 1257 | 308 | Justin Edwards |
-| 1258 | 308 | Michael David Hollis |
-| 1259 | 308 | Alishac Marie |
+| 1258 | 308 | Alishac Marie |
+| 1259 | 308 | Michael David Hollis |
 | 1260 | 307 | Darlene Tucker |
 | 1261 | 307 | Chirpy Tilt |
 | 1262 | 307 | Lazy Riseclear |

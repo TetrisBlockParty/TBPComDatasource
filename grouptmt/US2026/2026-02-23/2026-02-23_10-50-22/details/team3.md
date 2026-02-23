@@ -121,8 +121,8 @@
 | 113 | 839 | Angeline Joseph |
 | 114 | 830 | Stephanie Allmon |
 | 115 | 826 | Shane Wilson Jr. |
-| 116 | 816 | Jesse Olive |
-| 117 | 816 | Brenda Lee Vander Molen |
+| 116 | 816 | Brenda Lee Vander Molen |
+| 117 | 816 | Jesse Olive |
 | 118 | 802 | Bobbi Moore |
 | 119 | 800 | Lauren Girouard |
 | 120 | 799 | Dolores Falco |
@@ -297,8 +297,8 @@
 | 289 | 359 | Betty Bóò |
 | 290 | 358 | Roary Danner |
 | 291 | 354 | Kelly |
-| 292 | 354 | Andrew Thorson |
-| 293 | 354 | Eileen Brady Thurber |
+| 292 | 354 | Eileen Brady Thurber |
+| 293 | 354 | Andrew Thorson |
 | 294 | 353 | Cyd061769 |
 | 295 | 353 | Dee Franklin |
 | 296 | 352 | Christian Werndl |
@@ -314,8 +314,8 @@
 | 306 | 342 | Cynthia Herrmann Egland |
 | 307 | 341 | Rick Poppen |
 | 308 | 341 | Lys |
-| 309 | 340 | Erika Thornton |
-| 310 | 340 | KayB |
+| 309 | 340 | KayB |
+| 310 | 340 | Erika Thornton |
 | 311 | 338 | fraulila |
 | 312 | 336 | Foltz Lee Kelli |
 | 313 | 335 | victory |
@@ -372,8 +372,8 @@
 | 364 | 289 | Salena Whitlock |
 | 365 | 289 | DidIdothat |
 | 366 | 288 | Stephanie Bradley |
-| 367 | 288 | Kristi Taylor |
-| 368 | 288 | Arden White Kirsch |
+| 367 | 288 | Arden White Kirsch |
+| 368 | 288 | Kristi Taylor |
 | 369 | 287 | Carol Cain Thurman |
 | 370 | 287 | Hoppy Patternline |
 | 371 | 285 | Heather De Vries Cobb |
@@ -410,8 +410,8 @@
 | 402 | 267 | Jul |
 | 403 | 267 | April Matthew Kibble |
 | 404 | 267 | Michael Kimbro |
-| 405 | 266 | Sarah Muradyan |
-| 406 | 266 | Quirky Dropzone |
+| 405 | 266 | Quirky Dropzone |
+| 406 | 266 | Sarah Muradyan |
 | 407 | 265 | Heather Davis |
 | 408 | 265 | AlsoJess |
 | 409 | 264 | Reina Roth |
@@ -442,8 +442,8 @@
 | 434 | 250 | Dana Fox |
 | 435 | 249 | Willow |
 | 436 | 248 | Brian Battjes |
-| 437 | 247 | Jessica |
-| 438 | 247 | Kevin Russell |
+| 437 | 247 | Kevin Russell |
+| 438 | 247 | Jessica |
 | 439 | 245 | Latoya Mayne |
 | 440 | 245 | LaNette Morgan |
 | 441 | 245 | Julia Nicole |
@@ -535,8 +535,8 @@
 | 527 | 209 | TazB |
 | 528 | 208 | Jessica Christian |
 | 529 | 208 | Luccy Luxe |
-| 530 | 207 | Misstery |
-| 531 | 207 | Nichol Graham |
+| 530 | 207 | Nichol Graham |
+| 531 | 207 | Misstery |
 | 532 | 206 | Tammy Rosenberry |
 | 533 | 206 | Dakota Graham |
 | 534 | 205 | Emberblaze |
@@ -625,13 +625,13 @@
 | 617 | 181 | Kellie Montgomery |
 | 618 | 181 | Shiny Zonebuilder |
 | 619 | 181 | Rashad Green |
-| 620 | 181 | krazibtch |
-| 621 | 181 | Tiffany Parsons |
+| 620 | 181 | Tiffany Parsons |
+| 621 | 181 | krazibtch |
 | 622 | 180 | Chipper Piecefit |
-| 623 | 180 | Stella |
-| 624 | 180 | Jen Lewis |
-| 625 | 179 | Boldy Corner |
-| 626 | 179 | Alexi Pryor |
+| 623 | 180 | Jen Lewis |
+| 624 | 180 | Stella |
+| 625 | 179 | Alexi Pryor |
+| 626 | 179 | Boldy Corner |
 | 627 | 179 | Num1hater |
 | 628 | 179 | Ruchi Smit |
 | 629 | 178 | Jillian Ann |
