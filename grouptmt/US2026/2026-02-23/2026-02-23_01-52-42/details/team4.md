@@ -74,8 +74,8 @@
 | 66 | 749 | Dustee Craddock-Harrison |
 | 67 | 748 | loulou |
 | 68 | 737 | Avy Absol |
-| 69 | 736 | Goatimus Lombardi |
-| 70 | 736 | Carolyn Wallace |
+| 69 | 736 | Carolyn Wallace |
+| 70 | 736 | Goatimus Lombardi |
 | 71 | 728 | Julian Garcia |
 | 72 | 722 | Denise Carlson |
 | 73 | 704 | D3TROITB0RN74 |
@@ -186,8 +186,8 @@
 | 178 | 322 | J-Rizzle |
 | 179 | 320 | Lauren Scott |
 | 180 | 316 | Meagan Nicole |
-| 181 | 314 | shark tato |
-| 182 | 314 | Andy Cabral |
+| 181 | 314 | Andy Cabral |
+| 182 | 314 | shark tato |
 | 183 | 309 | Crystal Nicolette Moore |
 | 184 | 307 | Bio Nelly |
 | 185 | 307 | Holly Jolly |
@@ -284,9 +284,9 @@
 | 276 | 216 | mike |
 | 277 | 216 | ZeeZee |
 | 278 | 215 | Ziggy |
-| 279 | 214 | Chantilly Laace |
-| 280 | 214 | Patron Anderson |
-| 281 | 214 | Stacey Stano |
+| 279 | 214 | Stacey Stano |
+| 280 | 214 | Chantilly Laace |
+| 281 | 214 | Patron Anderson |
 | 282 | 213 | Angela Geist Jusinski |
 | 283 | 212 | Orchislactea |
 | 284 | 212 | Zany Shatterer |
@@ -296,8 +296,8 @@
 | 288 | 210 | Ultramarine |
 | 289 | 209 | Snippy Puzzle |
 | 290 | 208 | Chris Alexinas |
-| 291 | 205 | James Hurley Jr. |
-| 292 | 205 | KayM |
+| 291 | 205 | KayM |
+| 292 | 205 | James Hurley Jr. |
 | 293 | 203 | Katherine Crane |
 | 294 | 202 | Angelito |
 | 295 | 202 | Shukee Lo |
