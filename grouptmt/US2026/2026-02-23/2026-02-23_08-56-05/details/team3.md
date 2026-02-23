@@ -114,8 +114,8 @@
 | 106 | 869 | Araceli Parra |
 | 107 | 868 | Sarajane Lokan |
 | 108 | 860 | Sunny Rotater |
-| 109 | 851 | Danielle Becker |
-| 110 | 851 | Jd Morris |
+| 109 | 851 | Jd Morris |
+| 110 | 851 | Danielle Becker |
 | 111 | 850 | Danielle Mogg |
 | 112 | 848 | Patricia Gadsden |
 | 113 | 831 | Angeline Joseph |
@@ -177,8 +177,8 @@
 | 169 | 591 | Michael Nowogorski |
 | 170 | 588 | Justin Ritter |
 | 171 | 587 | Louise Stacy Sisson |
-| 172 | 585 | Annie Marie |
-| 173 | 585 | Happy Tetriblast |
+| 172 | 585 | Happy Tetriblast |
+| 173 | 585 | Annie Marie |
 | 174 | 583 | Tasha Gillespie |
 | 175 | 582 | Natasha Jones |
 | 176 | 577 | Domo Washington |
@@ -275,8 +275,8 @@
 | 267 | 370 | Samantha Lynn |
 | 268 | 369 | Philip Rock |
 | 269 | 369 | Keis |
-| 270 | 368 | Sheila M Frazier |
-| 271 | 368 | Stephanie Woods |
+| 270 | 368 | Stephanie Woods |
+| 271 | 368 | Sheila M Frazier |
 | 272 | 367 | Kristin Delibac Corrigan |
 | 273 | 366 | Gumbo |
 | 274 | 364 | Carrie Huskey |
@@ -364,8 +364,8 @@
 | 356 | 287 | Carol Cain Thurman |
 | 357 | 287 | Hoppy Patternline |
 | 358 | 284 | Hanna Kim |
-| 359 | 280 | ROODBOY |
-| 360 | 280 | Aerian Preston |
+| 359 | 280 | Aerian Preston |
+| 360 | 280 | ROODBOY |
 | 361 | 280 | Dirtgirl27 |
 | 362 | 279 | Tosha Griffey |
 | 363 | 279 | Naur |
@@ -465,25 +465,25 @@
 | 457 | 233 | Tony Waters |
 | 458 | 233 | Criss |
 | 459 | 232 | Sunny Tiltgrid |
-| 460 | 232 | Melanie Sherwood |
-| 461 | 232 | Stephanie Hill |
+| 460 | 232 | Stephanie Hill |
+| 461 | 232 | Melanie Sherwood |
 | 462 | 231 | Giggly Brickroll |
 | 463 | 230 | DanceLuvLaugh |
 | 464 | 230 | BigE |
 | 465 | 229 | MizzMonick Smith |
 | 466 | 229 | Everret Maxine |
-| 467 | 228 | Tipsy Zonebuilder |
-| 468 | 228 | Dapper Liney |
+| 467 | 228 | Dapper Liney |
+| 468 | 228 | Tipsy Zonebuilder |
 | 469 | 227 | Meowsa |
-| 470 | 226 | Ryan Williams |
-| 471 | 226 | paranoid |
+| 470 | 226 | paranoid |
+| 471 | 226 | Ryan Williams |
 | 472 | 225 | sofaking |
 | 473 | 225 | Sassy Tiler |
-| 474 | 224 | Christina Rotz Shows |
-| 475 | 224 | Cranky Corner |
+| 474 | 224 | Cranky Corner |
+| 475 | 224 | Christina Rotz Shows |
 | 476 | 224 | Sarah Morris |
-| 477 | 223 | Breanna Marsden |
-| 478 | 223 | Megan Rathmanner |
+| 477 | 223 | Megan Rathmanner |
+| 478 | 223 | Breanna Marsden |
 | 479 | 222 | Angel Miller |
 | 480 | 221 | BŘŰŤİÇŨŚ |
 | 481 | 221 | Spicy Cascadepiece |
@@ -492,11 +492,11 @@
 | 484 | 221 | Vaners |
 | 485 | 221 | Glitzy Rotate |
 | 486 | 220 | Bhreagh Gentile |
-| 487 | 219 | TLM |
-| 488 | 219 | Trice Thomas |
+| 487 | 219 | Trice Thomas |
+| 488 | 219 | TLM |
 | 489 | 218 | Sabrina Mansfield |
-| 490 | 218 | Tina Smith Roy |
-| 491 | 218 | Dapper Chiseler |
+| 490 | 218 | Dapper Chiseler |
+| 491 | 218 | Tina Smith Roy |
 | 492 | 217 | Katie Leigh Blankenship |
 | 493 | 217 | Tia Moore |
 | 494 | 217 | Heather Bateman |
@@ -593,8 +593,8 @@
 | 585 | 185 | Ashley Kennedy |
 | 586 | 185 | Breezy Roll |
 | 587 | 184 | Shanon R Jackson |
-| 588 | 184 | Barb Wensink Johnson |
-| 589 | 184 | Christian Luna |
+| 588 | 184 | Christian Luna |
+| 589 | 184 | Barb Wensink Johnson |
 | 590 | 183 | AC Yeater |
 | 591 | 183 | Mel Murr |
 | 592 | 183 | Scott Doss |
@@ -620,8 +620,8 @@
 | 612 | 179 | Num1hater |
 | 613 | 179 | Ruchi Smit |
 | 614 | 178 | Jillian Ann |
-| 615 | 178 | Melissa Snyder |
-| 616 | 178 | Draone Grayson |
+| 615 | 178 | Draone Grayson |
+| 616 | 178 | Melissa Snyder |
 | 617 | 178 | Kathleen Taylor |
 | 618 | 177 | Elizabeth Renee |
 | 619 | 177 | Matty Ray |
@@ -629,7 +629,7 @@
 | 621 | 177 | Spencer Nikki |
 | 622 | 177 | Chad |
 | 623 | 176 | Bekah Dietrich |
-| 624 | 175 | Giggy Balanceblock |
+| 624 | 175 | Muk |
 | 625 | 175 | Spunky Racker |
 | 626 | 175 | Giggy Balanceblock |
 | 627 | 175 | Speedy Crusher |

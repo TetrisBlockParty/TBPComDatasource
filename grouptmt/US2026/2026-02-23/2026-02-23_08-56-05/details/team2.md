@@ -44,8 +44,8 @@
 | 36 | 4199 | Claire Noland |
 | 37 | 4128 | Angela Pruitt |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Kristen Sceurman |
-| 40 | 4120 | Corrine Hawks Soriano |
+| 39 | 4120 | Corrine Hawks Soriano |
+| 40 | 4120 | Kristen Sceurman |
 | 41 | 3947 | Melinda Brown |
 | 42 | 3845 | jayjay |
 | 43 | 3813 | Devin Lee |
@@ -268,8 +268,8 @@
 | 260 | 1093 | Real Ri |
 | 261 | 1088 | Brainy Smurf |
 | 262 | 1080 | Tyler C. Jung |
-| 263 | 1079 | Jennifer Kistner |
-| 264 | 1079 | Kimberly Hauck-Rausch |
+| 263 | 1079 | Kimberly Hauck-Rausch |
+| 264 | 1079 | Jennifer Kistner |
 | 265 | 1076 | Alezandra Smith |
 | 266 | 1073 | Jodi Blake |
 | 267 | 1071 | Kim Dean |
@@ -305,8 +305,8 @@
 | 297 | 996 | Ashie Ann |
 | 298 | 987 | Osun Anuket Esu |
 | 299 | 984 | Crystal Hoffman |
-| 300 | 979 | Hillary Crawford |
-| 301 | 979 | Melissa Penelope Ann Dodge |
+| 300 | 979 | Melissa Penelope Ann Dodge |
+| 301 | 979 | Hillary Crawford |
 | 302 | 978 | April Dawn Gussler |
 | 303 | 976 | Sam Joe |
 | 304 | 976 | Della Hole |
@@ -318,8 +318,8 @@
 | 310 | 969 | Boldy Cascadepiece |
 | 311 | 961 | Angela Lynn |
 | 312 | 959 | Phil J. Grombliniak |
-| 313 | 958 | Brenda Messer |
-| 314 | 958 | Doowop40 |
+| 313 | 958 | Doowop40 |
+| 314 | 958 | Brenda Messer |
 | 315 | 957 | Block Master |
 | 316 | 955 | Angela Bonquiqui Dinish |
 | 317 | 954 | Melissa McCall |
@@ -345,8 +345,8 @@
 | 337 | 904 | Bee |
 | 338 | 903 | Giggy Blocker |
 | 339 | 901 | Kevin Sees |
-| 340 | 899 | Patrick Bartlett |
-| 341 | 899 | Chevy |
+| 340 | 899 | Chevy |
+| 341 | 899 | Patrick Bartlett |
 | 342 | 898 | Jamie Otero |
 | 343 | 895 | Donna Colby |
 | 344 | 894 | Adira Brown |
@@ -458,8 +458,8 @@
 | 450 | 726 | Crystal Greene |
 | 451 | 725 | Ashle Scranton |
 | 452 | 725 | Jennie Lee Huntley |
-| 453 | 725 | Karen Snyder Schrage |
-| 454 | 725 | Vonceial Boone |
+| 453 | 725 | Vonceial Boone |
+| 454 | 725 | Karen Snyder Schrage |
 | 455 | 724 | Melissa Holsinger |
 | 456 | 720 | BeQuo |
 | 457 | 720 | Giggy Mover |
@@ -489,8 +489,8 @@
 | 481 | 689 | Gauri Shrotriya |
 | 482 | 686 | Christine Coughlin |
 | 483 | 684 | Sarah DeHart |
-| 484 | 684 | Ellie Jonas |
-| 485 | 684 | Ann Knutson Anderson |
+| 484 | 684 | Ann Knutson Anderson |
+| 485 | 684 | Ellie Jonas |
 | 486 | 682 | Vanessa Moreno |
 | 487 | 682 | Antionette Sewell |
 | 488 | 681 | AgileDragon |
@@ -610,8 +610,8 @@
 | 602 | 574 | Valerie Brooke Lusk Armstrong |
 | 603 | 573 | Vaniel Glover |
 | 604 | 573 | Mike Aprilliano |
-| 605 | 572 | Rachael Senard |
-| 606 | 572 | Joseph Musick |
+| 605 | 572 | Joseph Musick |
+| 606 | 572 | Rachael Senard |
 | 607 | 572 | Jason H Baker |
 | 608 | 572 | Alexandra Lynn |
 | 609 | 571 | Emily Lyric Converse |
@@ -946,7 +946,7 @@
 | 938 | 392 | Jroc |
 | 939 | 391 | Poppy Gridder |
 | 940 | 391 | Chilly Bridgepiece |
-| 941 | 390 | Monique Foster |
+| 941 | 390 | Karmabunny |
 | 942 | 390 | MauroPRM |
 | 943 | 390 | Monique Foster |
 | 944 | 390 | Smiley Strike |
@@ -959,8 +959,8 @@
 | 951 | 387 | Bryan Werleman |
 | 952 | 386 | Yasmin Guzman |
 | 953 | 385 | Jay Levy |
-| 954 | 385 | Cheery Puzzler |
-| 955 | 385 | Kirsten Marie Lomupo |
+| 954 | 385 | Kirsten Marie Lomupo |
+| 955 | 385 | Cheery Puzzler |
 | 956 | 385 | stacey |
 | 957 | 385 | Iris Angelica Perez Cantos |
 | 958 | 385 | Samuel Labruno |
@@ -1051,8 +1051,8 @@
 | 1043 | 358 | Gina Gina |
 | 1044 | 358 | Kiorah Blaze |
 | 1045 | 358 | Dapper Setter |
-| 1046 | 358 | Sydney Busse |
-| 1047 | 358 | Luke Califf |
+| 1046 | 358 | Luke Califf |
+| 1047 | 358 | Sydney Busse |
 | 1048 | 357 | Snippy Block |
 | 1049 | 357 | Elena Vap |
 | 1050 | 357 | Pam Doughty |
@@ -1106,8 +1106,8 @@
 | 1098 | 343 | Kat |
 | 1099 | 342 | Patrick Fleming |
 | 1100 | 342 | Emoniee Sa'niaya |
-| 1101 | 342 | SwifftFox |
-| 1102 | 342 | Theresa Sterrett |
+| 1101 | 342 | Theresa Sterrett |
+| 1102 | 342 | SwifftFox |
 | 1103 | 341 | Robin L. Vial |
 | 1104 | 341 | Bubbly Brickline |
 | 1105 | 340 | RetroLemur |
@@ -1230,11 +1230,11 @@
 | 1222 | 309 | LintFunk |
 | 1223 | 309 | Nutty Matchline |
 | 1224 | 309 | Funky Liney |
-| 1225 | 308 | Hyper Riseclear |
-| 1226 | 308 | Chilly Linkfall |
+| 1225 | 308 | Chilly Linkfall |
+| 1226 | 308 | Hyper Riseclear |
 | 1227 | 308 | Justin Edwards |
-| 1228 | 308 | Michael David Hollis |
-| 1229 | 308 | Alishac Marie |
+| 1228 | 308 | Alishac Marie |
+| 1229 | 308 | Michael David Hollis |
 | 1230 | 307 | Lazy Riseclear |
 | 1231 | 307 | Carlos Javier Del Toro |
 | 1232 | 307 | Chirpy Tilt |
@@ -1326,7 +1326,7 @@
 | 1318 | 290 | Nakiiya Dreamcatcher Gore |
 | 1319 | 289 | Ian Anderson |
 | 1320 | 289 | Paul Hinkle |
-| 1321 | 289 | Ian Anderson |
+| 1321 | 289 | Poppy |
 | 1322 | 289 | Nazik Akopian |
 | 1323 | 289 | Robin |
 | 1324 | 289 | Cathy Bitters |
@@ -1596,8 +1596,8 @@
 | 1588 | 251 | Elyse Rivera |
 | 1589 | 251 | Michelle Peters |
 | 1590 | 250 | Melissa Moat |
-| 1591 | 250 | Caai Ac |
-| 1592 | 250 | Kay Stevenson |
+| 1591 | 250 | Kay Stevenson |
+| 1592 | 250 | Caai Ac |
 | 1593 | 250 | Kelli Ragland |
 | 1594 | 249 | Kalius Torres |
 | 1595 | 249 | Lesley Leanne Houston |

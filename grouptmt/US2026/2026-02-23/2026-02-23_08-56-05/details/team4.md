@@ -26,8 +26,8 @@
 | 18 | 1636 | Cassie Michaux |
 | 19 | 1565 | GreenJeepGirl |
 | 20 | 1558 | Leah Gorsuch |
-| 21 | 1536 | Misty Hollibaugh |
-| 22 | 1536 | Roger Coulter |
+| 21 | 1536 | Roger Coulter |
+| 22 | 1536 | Misty Hollibaugh |
 | 23 | 1485 | Juggalo |
 | 24 | 1390 | Sammy Noguera |
 | 25 | 1382 | Tammi Crnza |
@@ -166,8 +166,8 @@
 | 158 | 403 | Keith Kelley |
 | 159 | 402 | Lucas J Sutton |
 | 160 | 398 | Tyler Terrific |
-| 161 | 393 | Carlton Unfiltered |
-| 162 | 393 | Girl |
+| 161 | 393 | Girl |
+| 162 | 393 | Carlton Unfiltered |
 | 163 | 392 | Nick Gray |
 | 164 | 391 | Ramel Rhodes |
 | 165 | 389 | Joseph Guthrie |
@@ -203,8 +203,8 @@
 | 195 | 335 | James Hurley Jr. |
 | 196 | 334 | Kris Bartlett |
 | 197 | 332 | HastyGrabber |
-| 198 | 330 | Kathy Brookins |
-| 199 | 330 | blockstar |
+| 198 | 330 | blockstar |
+| 199 | 330 | Kathy Brookins |
 | 200 | 328 | scott |
 | 201 | 327 | J-Rizzle |
 | 202 | 324 | jim |
@@ -305,8 +305,8 @@
 | 297 | 228 | Bethany Ison |
 | 298 | 227 | Jason Bosco |
 | 299 | 226 | Dizzy Matchzone |
-| 300 | 225 | Jenna McGeorge |
-| 301 | 225 | Ernest Maxwell |
+| 300 | 225 | Ernest Maxwell |
+| 301 | 225 | Jenna McGeorge |
 | 302 | 224 | Ultramarine |
 | 303 | 224 | AyeKay |
 | 304 | 223 | Chance Strickland |
@@ -449,7 +449,7 @@
 | 441 | 163 | Jarred Falls |
 | 442 | 163 | Sticherella |
 | 443 | 163 | Ashlee Carnes |
-| 444 | 163 | Sticherella |
+| 444 | 163 | Linda Alexander Downing |
 | 445 | 163 | Cheaneen Livingston |
 | 446 | 162 | Brandon Link |
 | 447 | 162 | Victoria Faniel |
@@ -460,8 +460,8 @@
 | 452 | 160 | Sho Nuff |
 | 453 | 160 | Sam Middleton |
 | 454 | 159 | Groovy Brickmatch |
-| 455 | 158 | Dapper Frame |
-| 456 | 158 | Jasmine S Caldwell |
+| 455 | 158 | Jasmine S Caldwell |
+| 456 | 158 | Dapper Frame |
 | 457 | 157 | Ryry |
 | 458 | 157 | LunaMoon |
 | 459 | 157 | David Boggs |
@@ -557,7 +557,7 @@
 | 549 | 130 | Holly Tracey-Grimes |
 | 550 | 129 | Tamika Starkey |
 | 551 | 129 | Jessica Wells |
-| 552 | 129 | Tamika Starkey |
+| 552 | 129 | Dreamy Snapgrid |
 | 553 | 128 | Zesty Linkgrid |
 | 554 | 128 | Lazy Glidepiece |
 | 555 | 128 | Raymond Roberts |
