@@ -75,8 +75,8 @@
 | 67 | 787 | loulou |
 | 68 | 767 | Shannon Ferrari |
 | 69 | 766 | Robin Watters |
-| 70 | 765 | Denise Carlson |
-| 71 | 765 | Robin Getchel |
+| 70 | 765 | Robin Getchel |
+| 71 | 765 | Denise Carlson |
 | 72 | 752 | Shane Kalamata Platoon |
 | 73 | 749 | Dustee Craddock-Harrison |
 | 74 | 747 | TheNeesh50 |
@@ -122,8 +122,8 @@
 | 114 | 519 | Nugget |
 | 115 | 517 | shar |
 | 116 | 517 | Christina LR |
-| 117 | 514 | Scott Jameson |
-| 118 | 514 | Serena Goodridge |
+| 117 | 514 | Serena Goodridge |
+| 118 | 514 | Scott Jameson |
 | 119 | 513 | Erin Thomas |
 | 120 | 512 | Cristy Duerksen |
 | 121 | 512 | Casey Jeffcoat |
@@ -183,9 +183,9 @@
 | 175 | 368 | Silly Zonebuilder |
 | 176 | 368 | Raegan Lane-Ross |
 | 177 | 365 | Jeff Brian Gates |
-| 178 | 361 | Danielle Kollias |
-| 179 | 361 | Carlos Ramirez |
-| 180 | 361 | Melissa Adams |
+| 178 | 361 | Melissa Adams |
+| 179 | 361 | Danielle Kollias |
+| 180 | 361 | Carlos Ramirez |
 | 181 | 358 | Twisty Cascadezone |
 | 182 | 358 | A5! |
 | 183 | 355 | James Hurley Jr. |
@@ -262,12 +262,12 @@
 | 254 | 266 | Mr. Party |
 | 255 | 265 | Sarah Neathery |
 | 256 | 265 | Degenerate |
-| 257 | 265 | Sarah Neathery |
+| 257 | 265 | Silly SeaWeed |
 | 258 | 264 | ZeeZee |
 | 259 | 264 | Stella |
 | 260 | 263 | rebel4lyfe |
-| 261 | 262 | BigSammy420 |
-| 262 | 262 | Selena Shaw |
+| 261 | 262 | Selena Shaw |
+| 262 | 262 | BigSammy420 |
 | 263 | 261 | Zethra Prenisha Rahming |
 | 264 | 260 | Carter Jones |
 | 265 | 260 | Lori |

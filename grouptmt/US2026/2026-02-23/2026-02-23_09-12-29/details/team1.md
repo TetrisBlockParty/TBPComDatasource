@@ -98,8 +98,8 @@
 | 90 | 575 | Nancy Green |
 | 91 | 570 | Cody Slav |
 | 92 | 562 | Denice Dee |
-| 93 | 534 | Loony Fitzone |
-| 94 | 534 | Veronica Eve |
+| 93 | 534 | Veronica Eve |
+| 94 | 534 | Loony Fitzone |
 | 95 | 529 | Ryan Lunnin |
 | 96 | 522 | Sarah Lombardo |
 | 97 | 511 | Mario Cab |
@@ -159,8 +159,8 @@
 | 151 | 383 | Margo Wagner |
 | 152 | 383 | pjbeta |
 | 153 | 380 | phrmblk24 |
-| 154 | 379 | Kimmie Kimms |
-| 155 | 379 | Austin James |
+| 154 | 379 | Austin James |
+| 155 | 379 | Kimmie Kimms |
 | 156 | 378 | Jessica Sheehan |
 | 157 | 377 | femmefatale |
 | 158 | 376 | Death |
@@ -236,17 +236,17 @@
 | 228 | 285 | Shanae Grant |
 | 229 | 285 | Bird Person |
 | 230 | 284 | Sam Williams |
-| 231 | 283 | Franswa |
-| 232 | 283 | Amanda Holibaugh |
-| 233 | 282 | Timothy Dew |
-| 234 | 282 | Mandyy Rae |
+| 231 | 283 | Amanda Holibaugh |
+| 232 | 283 | Franswa |
+| 233 | 282 | Mandyy Rae |
+| 234 | 282 | Timothy Dew |
 | 235 | 281 | Clever Cascadepiece |
 | 236 | 280 | Billie Dawn Sparks |
 | 237 | 280 | MIKOZ |
 | 238 | 280 | Eric DeSimone |
 | 239 | 277 | Nutty Spinblock |
 | 240 | 277 | Melissa Lemmon |
-| 241 | 277 | Nutty Spinblock |
+| 241 | 277 | Glitzy Curvebuilder |
 | 242 | 275 | Chris65 |
 | 243 | 275 | Cheeky Pop |
 | 244 | 273 | Shannon Marie Pitts |
@@ -591,10 +591,10 @@
 | 583 | 127 | Frisky Risebuilder |
 | 584 | 126 | Steven Schultheis |
 | 585 | 125 | MomOf2Angels |
-| 586 | 125 | Tiffany Daboss Seymour |
-| 587 | 125 | Nicole Bryant |
-| 588 | 124 | Brandi Egbert |
-| 589 | 124 | Margie Olivas |
+| 586 | 125 | Nicole Bryant |
+| 587 | 125 | Tiffany Daboss Seymour |
+| 588 | 124 | Margie Olivas |
+| 589 | 124 | Brandi Egbert |
 | 590 | 123 | Lisa Marie |
 | 591 | 123 | Jill King Oldham |
 | 592 | 123 | Chirpy Liner |

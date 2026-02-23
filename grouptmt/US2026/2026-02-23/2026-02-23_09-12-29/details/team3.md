@@ -114,8 +114,8 @@
 | 106 | 869 | Araceli Parra |
 | 107 | 868 | Sarajane Lokan |
 | 108 | 860 | Sunny Rotater |
-| 109 | 851 | Danielle Becker |
-| 110 | 851 | Jd Morris |
+| 109 | 851 | Jd Morris |
+| 110 | 851 | Danielle Becker |
 | 111 | 850 | Danielle Mogg |
 | 112 | 848 | Patricia Gadsden |
 | 113 | 839 | Angeline Joseph |
@@ -163,8 +163,8 @@
 | 155 | 646 | Bea Miles |
 | 156 | 634 | Amber Hughes |
 | 157 | 630 | yoyo |
-| 158 | 621 | Sashay Tapae Simpson |
-| 159 | 621 | Cherry Parker |
+| 158 | 621 | Cherry Parker |
+| 159 | 621 | Sashay Tapae Simpson |
 | 160 | 616 | Kammy Hill |
 | 161 | 611 | Rochelle Hazelett |
 | 162 | 607 | Grego Daniel |
@@ -286,8 +286,8 @@
 | 278 | 360 | Cesar Barraza |
 | 279 | 359 | Sleepy |
 | 280 | 358 | Roary Danner |
-| 281 | 354 | Eileen Brady Thurber |
-| 282 | 354 | Andrew Thorson |
+| 281 | 354 | Andrew Thorson |
+| 282 | 354 | Eileen Brady Thurber |
 | 283 | 354 | Kelly |
 | 284 | 353 | Ashley Tookes |
 | 285 | 353 | Cyd061769 |
@@ -334,8 +334,8 @@
 | 326 | 311 | Troy |
 | 327 | 309 | Desiree Gold |
 | 328 | 309 | Cheeky Snapper |
-| 329 | 308 | Katrina Turner |
-| 330 | 308 | Tia |
+| 329 | 308 | Tia |
+| 330 | 308 | Katrina Turner |
 | 331 | 305 | Hyper Matchzone |
 | 332 | 304 | _melisa223_ |
 | 333 | 303 | Alexmac |
@@ -355,8 +355,8 @@
 | 347 | 296 | Tracy Martin |
 | 348 | 296 | Antonia Russell |
 | 349 | 295 | Nikki Pags |
-| 350 | 292 | Khaleada McGill Banks |
-| 351 | 292 | Kirhonda Autmon |
+| 350 | 292 | Kirhonda Autmon |
+| 351 | 292 | Khaleada McGill Banks |
 | 352 | 289 | Salena Whitlock |
 | 353 | 289 | Cheryl Hinch Tenbrook |
 | 354 | 289 | DidIdothat |
@@ -468,12 +468,12 @@
 | 460 | 232 | Stephanie Hill |
 | 461 | 232 | Melanie Sherwood |
 | 462 | 231 | Giggly Brickroll |
-| 463 | 230 | DanceLuvLaugh |
-| 464 | 230 | BigE |
+| 463 | 230 | BigE |
+| 464 | 230 | DanceLuvLaugh |
 | 465 | 229 | MizzMonick Smith |
 | 466 | 229 | Everret Maxine |
-| 467 | 228 | Tipsy Zonebuilder |
-| 468 | 228 | Dapper Liney |
+| 467 | 228 | Dapper Liney |
+| 468 | 228 | Tipsy Zonebuilder |
 | 469 | 227 | Meowsa |
 | 470 | 226 | paranoid |
 | 471 | 226 | Ryan Williams |
@@ -620,7 +620,7 @@
 | 612 | 179 | Ruchi Smit |
 | 613 | 179 | Num1hater |
 | 614 | 178 | Jillian Ann |
-| 615 | 178 | Melissa Snyder |
+| 615 | 178 | Kathleen Taylor |
 | 616 | 178 | Draone Grayson |
 | 617 | 178 | Melissa Snyder |
 | 618 | 177 | Anna Moeller |

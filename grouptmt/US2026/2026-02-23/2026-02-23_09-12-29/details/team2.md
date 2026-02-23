@@ -127,8 +127,8 @@
 | 119 | 1943 | Suki Kaur |
 | 120 | 1932 | Gary Schaffner Jr. |
 | 121 | 1931 | Angi Harrison |
-| 122 | 1899 | Jamie Main |
-| 123 | 1899 | Jumpy Gridpiece |
+| 122 | 1899 | Jumpy Gridpiece |
+| 123 | 1899 | Jamie Main |
 | 124 | 1890 | Aimee Byrom |
 | 125 | 1887 | Tonya Brooks-Johnson |
 | 126 | 1872 | Karen Martini-Stapleton |
@@ -343,8 +343,8 @@
 | 335 | 907 | Gene Mills |
 | 336 | 904 | John Bednarik |
 | 337 | 904 | Bee |
-| 338 | 903 | Eric Castaneda |
-| 339 | 903 | Giggy Blocker |
+| 338 | 903 | Giggy Blocker |
+| 339 | 903 | Eric Castaneda |
 | 340 | 901 | Kevin Sees |
 | 341 | 899 | Chevy |
 | 342 | 899 | Patrick Bartlett |
@@ -402,8 +402,8 @@
 | 394 | 799 | Joy LaJeunesse |
 | 395 | 796 | AndrewandShela Gornik |
 | 396 | 796 | Amber Gray |
-| 397 | 793 | Jaycee |
-| 398 | 793 | Heather Schelkopf |
+| 397 | 793 | Heather Schelkopf |
+| 398 | 793 | Jaycee |
 | 399 | 790 | Brenda Pierpoint |
 | 400 | 788 | Venita Ray |
 | 401 | 788 | Erika Densmore |
@@ -439,8 +439,8 @@
 | 431 | 751 | Breezy Filler |
 | 432 | 750 | Draizen Montrell Thomas |
 | 433 | 748 | Spunkysmom |
-| 434 | 748 | Ann Matzkanin |
-| 435 | 748 | Brenda Utphall |
+| 434 | 748 | Brenda Utphall |
+| 435 | 748 | Ann Matzkanin |
 | 436 | 746 | Leslie Ann Carter |
 | 437 | 742 | tejas25 |
 | 438 | 741 | Jánine Riggs |
@@ -558,8 +558,8 @@
 | 550 | 617 | Biggest thing |
 | 551 | 617 | Darcy Mae |
 | 552 | 615 | Nerdy Pattern |
-| 553 | 615 | Julio A Laracuente |
-| 554 | 615 | Lyndi Robinson Wakefield |
+| 553 | 615 | Lyndi Robinson Wakefield |
+| 554 | 615 | Julio A Laracuente |
 | 555 | 614 | Jessica S Flecha |
 | 556 | 614 | Emilee Burke |
 | 557 | 613 | Audrey Jones |
@@ -588,8 +588,8 @@
 | 580 | 594 | Laura Mclean |
 | 581 | 592 | Sheronda Jackson |
 | 582 | 590 | Maddy Petersen |
-| 583 | 589 | Koa N Sharon Chen |
-| 584 | 589 | Thomas Hedrick |
+| 583 | 589 | Thomas Hedrick |
+| 584 | 589 | Koa N Sharon Chen |
 | 585 | 589 | Kelly Templeton |
 | 586 | 589 | Shavonna Haynes |
 | 587 | 588 | Kitybox |
@@ -610,8 +610,8 @@
 | 602 | 574 | Valerie Brooke Lusk Armstrong |
 | 603 | 573 | Vaniel Glover |
 | 604 | 573 | Mike Aprilliano |
-| 605 | 572 | Rachael Senard |
-| 606 | 572 | Joseph Musick |
+| 605 | 572 | Joseph Musick |
+| 606 | 572 | Rachael Senard |
 | 607 | 572 | Jason H Baker |
 | 608 | 572 | Alexandra Lynn |
 | 609 | 571 | Emily Lyric Converse |
@@ -747,8 +747,8 @@
 | 739 | 482 | Amélie Cadieux |
 | 740 | 482 | Drwatson187 |
 | 741 | 482 | Nate |
-| 742 | 481 | Brittany Chapman |
-| 743 | 481 | Lucy Marshall |
+| 742 | 481 | Lucy Marshall |
+| 743 | 481 | Brittany Chapman |
 | 744 | 480 | Jennifer Leigh |
 | 745 | 480 | Dar |
 | 746 | 479 | bbv |
@@ -817,8 +817,8 @@
 | 809 | 447 | Boozi |
 | 810 | 446 | Colin Morgan |
 | 811 | 446 | Courtney Burcham |
-| 812 | 445 | Mar Q Thomas |
-| 813 | 445 | Beatboxxer |
+| 812 | 445 | Beatboxxer |
+| 813 | 445 | Mar Q Thomas |
 | 814 | 444 | Angela Murgia-Owen |
 | 815 | 443 | Giggy Grabber |
 | 816 | 443 | N00D3S |
@@ -891,8 +891,8 @@
 | 883 | 411 | Valerie Vigil |
 | 884 | 411 | BabyBird |
 | 885 | 409 | Lush Snapzone |
-| 886 | 408 | cornball |
-| 887 | 408 | Dad |
+| 886 | 408 | Dad |
+| 887 | 408 | cornball |
 | 888 | 408 | Janitta Alvarez |
 | 889 | 407 | Danielle DeLozier Plesec |
 | 890 | 407 | Christina Jarvis-Swarbrick |
@@ -937,9 +937,9 @@
 | 929 | 396 | Cassie Newton |
 | 930 | 395 | Treshell Boyd |
 | 931 | 395 | Donald Nowland |
-| 932 | 394 | Nerdy Blockpiece |
-| 933 | 394 | Kristina Marie Hanna |
-| 934 | 394 | Snappy Shatterfit |
+| 932 | 394 | Snappy Shatterfit |
+| 933 | 394 | Nerdy Blockpiece |
+| 934 | 394 | Kristina Marie Hanna |
 | 935 | 393 | Jamie West |
 | 936 | 393 | CC |
 | 937 | 393 | Bing |
@@ -1092,8 +1092,8 @@
 | 1084 | 347 | Zak Dunn |
 | 1085 | 347 | Persipnei Cuesta |
 | 1086 | 346 | Kelsey |
-| 1087 | 346 | Loopy Brickmatch |
-| 1088 | 346 | Zappy Dropmatch |
+| 1087 | 346 | Zappy Dropmatch |
+| 1088 | 346 | Loopy Brickmatch |
 | 1089 | 345 | Brandi Fuller Cason |
 | 1090 | 345 | David Duncan |
 | 1091 | 345 | Rhianna DiLorenzo |
@@ -1698,8 +1698,8 @@
 | 1690 | 237 | Rosa Marie Matias |
 | 1691 | 237 | Gozer Hodge |
 | 1692 | 237 | ScubaSteve |
-| 1693 | 237 | Shaneata Wolf Bomkamp |
-| 1694 | 237 | Brittani Jones |
+| 1693 | 237 | Brittani Jones |
+| 1694 | 237 | Shaneata Wolf Bomkamp |
 | 1695 | 237 | Dirty |
 | 1696 | 236 | Vivacious Blocker |
 | 1697 | 236 | Abhishek Mutha |
