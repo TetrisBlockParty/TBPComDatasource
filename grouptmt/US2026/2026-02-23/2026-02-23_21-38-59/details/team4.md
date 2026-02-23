@@ -140,15 +140,15 @@
 | 132 | 584 | Carlton Unfiltered |
 | 133 | 575 | Jenna Ingersoll |
 | 134 | 574 | Carmethia Clemons Haslerig |
-| 135 | 573 | shar |
-| 136 | 573 | Cursed Hag |
+| 135 | 573 | Cursed Hag |
+| 136 | 573 | shar |
 | 137 | 561 | YoMomma |
 | 138 | 560 | Chastity Mitchell |
 | 139 | 551 | Ren Mc |
 | 140 | 549 | Carlos Ramirez |
 | 141 | 546 | Dizzy Tiley |
-| 142 | 545 | Livvy |
-| 143 | 545 | Desi Desporte |
+| 142 | 545 | Desi Desporte |
+| 143 | 545 | Livvy |
 | 144 | 542 | Austin Owens |
 | 145 | 540 | Rodney McMath Jr. |
 | 146 | 536 | Kimberlee Jan Beckstead |
@@ -217,8 +217,8 @@
 | 209 | 423 | Lori |
 | 210 | 422 | Zakia Monae |
 | 211 | 421 | JIGsaw ~(•¿°)~ |
-| 212 | 418 | Lush Linkfall |
-| 213 | 418 | Marie-Pier Desjardins |
+| 212 | 418 | Marie-Pier Desjardins |
+| 213 | 418 | Lush Linkfall |
 | 214 | 413 | Circuit8 |
 | 215 | 413 | John Brunetti |
 | 216 | 412 | Chris Bernstein |
@@ -232,8 +232,8 @@
 | 224 | 398 | Tyler Terrific |
 | 225 | 394 | Nita Wells |
 | 226 | 390 | Kathy Brookins |
-| 227 | 389 | Joseph Guthrie |
-| 228 | 389 | Brickh4us |
+| 227 | 389 | Brickh4us |
+| 228 | 389 | Joseph Guthrie |
 | 229 | 388 | Calvin Cannon |
 | 230 | 385 | 030Synner |
 | 231 | 384 | Bio Nelly |
@@ -511,8 +511,8 @@
 | 503 | 192 | Rebecca A Rit |
 | 504 | 192 | Twisty Risebuilder |
 | 505 | 191 | Norman Klick |
-| 506 | 191 | Jobadia Steelerton |
-| 507 | 191 | Earnest Thompson |
+| 506 | 191 | Earnest Thompson |
+| 507 | 191 | Jobadia Steelerton |
 | 508 | 190 | wombat |
 | 509 | 190 | Robert Rangel |
 | 510 | 189 | Brandon Link |
@@ -528,8 +528,8 @@
 | 520 | 185 | Eric Wren |
 | 521 | 185 | Jackson Karen |
 | 522 | 183 | Darrin Rubalcava |
-| 523 | 183 | Will Chamberlain |
-| 524 | 183 | Krash |
+| 523 | 183 | Krash |
+| 524 | 183 | Will Chamberlain |
 | 525 | 182 | Cheery Towerzone |
 | 526 | 182 | Jesus Garcia |
 | 527 | 182 | SHL |
@@ -568,8 +568,8 @@
 | 560 | 170 | Peppy Drop |
 | 561 | 170 | Joshua W. Benton |
 | 562 | 170 | Elie Pean |
-| 563 | 169 | Joseph Pace |
-| 564 | 169 | Dante Korleon |
+| 563 | 169 | Dante Korleon |
+| 564 | 169 | Joseph Pace |
 | 565 | 168 | LunaMoon |
 | 566 | 168 | Melissa VanBourgondien |
 | 567 | 167 | Carla Harris |
