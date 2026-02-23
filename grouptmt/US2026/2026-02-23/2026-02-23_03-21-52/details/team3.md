@@ -126,8 +126,8 @@
 | 118 | 747 | Kristie |
 | 119 | 746 | Raya |
 | 120 | 745 | JerseyJess |
-| 121 | 744 | Fancy Cascader |
-| 122 | 744 | Leah Barnett |
+| 121 | 744 | Leah Barnett |
+| 122 | 744 | Fancy Cascader |
 | 123 | 742 | Groovy Catcher |
 | 124 | 736 | Katrina Schroeder |
 | 125 | 733 | mzcatzy |
@@ -169,12 +169,12 @@
 | 161 | 573 | Demetrious Shaw Sr. |
 | 162 | 572 | CeceGeGe |
 | 163 | 568 | Rachael McClain Owens |
-| 164 | 562 | Dave Herzog |
-| 165 | 562 | Louise Stacy Sisson |
+| 164 | 562 | Louise Stacy Sisson |
+| 165 | 562 | Dave Herzog |
 | 166 | 557 | Michael Nowogorski |
 | 167 | 553 | LaTanya GeminiondaRise Johnson |
-| 168 | 546 | Mykal Burton |
-| 169 | 546 | Cynthia Castros-Hampton |
+| 168 | 546 | Cynthia Castros-Hampton |
+| 169 | 546 | Mykal Burton |
 | 170 | 540 | Elissa S-k |
 | 171 | 540 | Shawn Miller |
 | 172 | 535 | Jone |
@@ -199,8 +199,8 @@
 | 191 | 485 | Dapper Snap |
 | 192 | 485 | FuzzyNavel |
 | 193 | 485 | Terry Jo Jones |
-| 194 | 480 | Danielle Allison |
-| 195 | 480 | Michael Johnson |
+| 194 | 480 | Michael Johnson |
+| 195 | 480 | Danielle Allison |
 | 196 | 475 | Tessina Dewey-Mancino |
 | 197 | 473 | Rachel |
 | 198 | 471 | Mendoza Lee Christy |
@@ -293,8 +293,8 @@
 | 285 | 324 | Sissy Lowery Davis |
 | 286 | 322 | Nena Somerville Kelly |
 | 287 | 321 | Wettnippz |
-| 288 | 320 | Ashley Muncey |
-| 289 | 320 | Or Reznitsky |
+| 288 | 320 | Or Reznitsky |
+| 289 | 320 | Ashley Muncey |
 | 290 | 312 | Twisty Brick LT |
 | 291 | 312 | LadyTorad |
 | 292 | 309 | Felicia Rocha |
@@ -328,8 +328,8 @@
 | 320 | 286 | Lizabeth Fox |
 | 321 | 284 | Hanna Kim |
 | 322 | 281 | Kaycee Kay |
-| 323 | 280 | Aerian Preston |
-| 324 | 280 | ROODBOY |
+| 323 | 280 | ROODBOY |
+| 324 | 280 | Aerian Preston |
 | 325 | 280 | Stephanie Bradley |
 | 326 | 279 | Foltz Lee Kelli |
 | 327 | 279 | Tosha Griffey |
@@ -363,8 +363,8 @@
 | 355 | 267 | April Matthew Kibble |
 | 356 | 267 | Michael Kimbro |
 | 357 | 266 | Quirky Dropzone |
-| 358 | 263 | Erika Thornton |
-| 359 | 263 | Jimmie Clemons |
+| 358 | 263 | Jimmie Clemons |
+| 359 | 263 | Erika Thornton |
 | 360 | 262 | Isabel Ocasio |
 | 361 | 260 | Tracey Cox |
 | 362 | 259 | Jessica Lynn French |

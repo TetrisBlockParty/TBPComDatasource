@@ -207,8 +207,8 @@
 | 199 | 1244 | Teddi Notyalc |
 | 200 | 1243 | Anna Edwards |
 | 201 | 1237 | Megan Ferguson Leone |
-| 202 | 1232 | Ambyre Patterson |
-| 203 | 1232 | Groovy Puzzle |
+| 202 | 1232 | Groovy Puzzle |
+| 203 | 1232 | Ambyre Patterson |
 | 204 | 1230 | Megan Garrick |
 | 205 | 1217 | Brooks Brooks |
 | 206 | 1217 | Lucky Ladybug |
@@ -296,8 +296,8 @@
 | 288 | 966 | Jojo Momma |
 | 289 | 958 | Brenda Messer |
 | 290 | 957 | Block Master |
-| 291 | 955 | Angela Bonquiqui Dinish |
-| 292 | 955 | Em Chen |
+| 291 | 955 | Em Chen |
+| 292 | 955 | Angela Bonquiqui Dinish |
 | 293 | 954 | Melissa McCall |
 | 294 | 953 | Phil J. Grombliniak |
 | 295 | 951 | Cynthia Ward |
@@ -956,10 +956,10 @@
 | 948 | 354 | Del Davis |
 | 949 | 354 | Mary Boss |
 | 950 | 354 | Cathleena Giusto |
-| 951 | 354 | Luke Califf |
-| 952 | 354 | Brianna Cerney |
+| 951 | 354 | Brianna Cerney |
+| 952 | 354 | Loopy Shatterfit |
 | 953 | 354 | Rachel Kaminski |
-| 954 | 354 | Loopy Shatterfit |
+| 954 | 354 | Luke Califf |
 | 955 | 354 | Katherin Camacho |
 | 956 | 353 | ElizabethAnn Dickinson |
 | 957 | 353 | Ashlyn Berner |

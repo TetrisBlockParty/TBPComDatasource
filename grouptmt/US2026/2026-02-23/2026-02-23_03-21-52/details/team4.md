@@ -159,8 +159,8 @@
 | 151 | 387 | 🥔🥔 Spudz |
 | 152 | 387 | Lucas J Sutton |
 | 153 | 377 | Carrie Brian |
-| 154 | 375 | ThaEviLJeNiuZ |
-| 155 | 375 | Desi Desporte |
+| 154 | 375 | Desi Desporte |
+| 155 | 375 | ThaEviLJeNiuZ |
 | 156 | 374 | Guy Incognito |
 | 157 | 374 | Leslie Nicole |
 | 158 | 373 | Tyler Terrific |
@@ -267,16 +267,16 @@
 | 259 | 240 | Kim Hunt |
 | 260 | 238 | Chaz |
 | 261 | 238 | 中山成巳 |
-| 262 | 237 | 030Synner |
-| 263 | 237 | Christine Therrien |
+| 262 | 237 | Christine Therrien |
+| 263 | 237 | 030Synner |
 | 264 | 236 | Degenerate |
-| 265 | 235 | Shainne Brewer |
-| 266 | 235 | LaDonna LovinmesomeMe Lambert |
-| 267 | 235 | Jade Rian |
+| 265 | 235 | Jade Rian |
+| 266 | 235 | Shainne Brewer |
+| 267 | 235 | LaDonna LovinmesomeMe Lambert |
 | 268 | 234 | Richard-April Kice |
 | 269 | 233 | Ruben Wheeler |
-| 270 | 232 | Rio Rocha |
-| 271 | 232 | Joanna |
+| 270 | 232 | Joanna |
+| 271 | 232 | Rio Rocha |
 | 272 | 228 | Bethany Ison |
 | 273 | 227 | Chair |
 | 274 | 226 | Dizzy Matchzone |
