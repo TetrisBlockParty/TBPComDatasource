@@ -229,8 +229,8 @@
 | 221 | 568 | Rachael McClain Owens |
 | 222 | 567 | FuzzyNavel |
 | 223 | 566 | LaTanya GeminiondaRise Johnson |
-| 224 | 564 | Poppy Splitter |
-| 225 | 564 | Christine Trester |
+| 224 | 564 | Christine Trester |
+| 225 | 564 | Poppy Splitter |
 | 226 | 563 | Fallorina Susana |
 | 227 | 562 | Dave Herzog |
 | 228 | 561 | Silly Twist |
@@ -607,10 +607,10 @@
 | 599 | 246 | Jonathn Poindexter |
 | 600 | 245 | Ashley Parham |
 | 601 | 245 | Latoya Mayne |
-| 602 | 244 | Beezwax |
-| 603 | 244 | Muk |
-| 604 | 244 | Rebel124 |
-| 605 | 244 | Amanda Fulton |
+| 602 | 244 | Muk |
+| 603 | 244 | Beezwax |
+| 604 | 244 | Amanda Fulton |
+| 605 | 244 | Rebel124 |
 | 606 | 243 | paranoid |
 | 607 | 243 | Nicholas Roddy |
 | 608 | 243 | Cameron Lovell |
@@ -747,8 +747,8 @@
 | 739 | 203 | Ashley Kennedy |
 | 740 | 203 | Russell Hankinson |
 | 741 | 203 | Rickeia Lanae Wright |
-| 742 | 202 | Elizabeth Renee |
-| 743 | 202 | Bastian Campbell |
+| 742 | 202 | Bastian Campbell |
+| 743 | 202 | Elizabeth Renee |
 | 744 | 202 | Frothy Racker |
 | 745 | 201 | Briana Wellman |
 | 746 | 201 | Weerae |

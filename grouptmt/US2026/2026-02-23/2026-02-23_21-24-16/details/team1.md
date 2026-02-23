@@ -493,8 +493,8 @@
 | 485 | 200 | I Am |
 | 486 | 200 | Renata Mabie |
 | 487 | 199 | Tina Englert |
-| 488 | 199 | Josh Smith |
-| 489 | 199 | Brendan Sullivan |
+| 488 | 199 | Brendan Sullivan |
+| 489 | 199 | Josh Smith |
 | 490 | 198 | Larry Oaks |
 | 491 | 197 | Nikki Fridley |
 | 492 | 197 | MelSavage |

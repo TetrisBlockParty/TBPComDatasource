@@ -224,8 +224,8 @@
 | 216 | 411 | Mimi |
 | 217 | 411 | Autumn Kumzi |
 | 218 | 400 | Antony Dwayne Beasley |
-| 219 | 399 | Lindsay Ball |
-| 220 | 399 | Jeff Brian Gates |
+| 219 | 399 | Jeff Brian Gates |
+| 220 | 399 | Lindsay Ball |
 | 221 | 398 | Tyler Terrific |
 | 222 | 394 | TinyLegoRose |
 | 223 | 394 | Nita Wells |
@@ -328,19 +328,19 @@
 | 320 | 284 | Malakai Darien Fox |
 | 321 | 284 | Glitzy Corner |
 | 322 | 283 | Jackie Clark |
-| 323 | 282 | DQ Martin |
-| 324 | 282 | rebel4lyfe |
-| 325 | 281 | Laura |
-| 326 | 281 | Morti |
+| 323 | 282 | rebel4lyfe |
+| 324 | 282 | DQ Martin |
+| 325 | 281 | Morti |
+| 326 | 281 | Laura |
 | 327 | 280 | Amy Sanford |
 | 328 | 279 | Brittany Marsh |
 | 329 | 279 | Jim Hart |
 | 330 | 278 | Zethra Prenisha Rahming |
 | 331 | 278 | Sarah Brown |
 | 332 | 278 | Angela Geist Jusinski |
-| 333 | 276 | Bradley Reeves |
-| 334 | 276 | Susan Williams |
-| 335 | 276 | Silly SeaWeed |
+| 333 | 276 | Silly SeaWeed |
+| 334 | 276 | Bradley Reeves |
+| 335 | 276 | Susan Williams |
 | 336 | 276 | Cynthia Boudreau |
 | 337 | 276 | Lee Silpe |
 | 338 | 274 | Lazy Glidepiece |
