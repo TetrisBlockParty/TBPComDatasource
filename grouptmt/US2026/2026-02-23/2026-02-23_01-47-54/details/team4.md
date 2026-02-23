@@ -248,8 +248,8 @@
 | 240 | 245 | Autum Leigh |
 | 241 | 243 | Nick Gray |
 | 242 | 241 | Allen Lloyd |
-| 243 | 240 | Kim Hunt |
-| 244 | 240 | Perky Patternblock |
+| 243 | 240 | Perky Patternblock |
+| 244 | 240 | Kim Hunt |
 | 245 | 238 | Chaz |
 | 246 | 237 | 030Synner |
 | 247 | 237 | Stella |
@@ -684,8 +684,8 @@
 | 676 | 88 | Lou Ie |
 | 677 | 88 | giantslover514 |
 | 678 | 87 | Derek Pendarvis |
-| 679 | 87 | b |
-| 680 | 87 | Bussy Bay |
+| 679 | 87 | Bussy Bay |
+| 680 | 87 | b |
 | 681 | 86 | Cj Lewis-haut |
 | 682 | 86 | Groovy Shiftspin |
 | 683 | 86 | Speedy Cascadeclear |

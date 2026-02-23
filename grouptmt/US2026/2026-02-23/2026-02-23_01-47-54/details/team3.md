@@ -209,8 +209,8 @@
 | 201 | 432 | Luciana Braganca Vieira |
 | 202 | 432 | Jenny Hrndz |
 | 203 | 431 | Wendy Dearden |
-| 204 | 430 | Joye Sims Binion |
-| 205 | 430 | Jeni Dow |
+| 204 | 430 | Jeni Dow |
+| 205 | 430 | Joye Sims Binion |
 | 206 | 429 | Fallorina Susana |
 | 207 | 426 | Rochelle Hazelett |
 | 208 | 425 | Danielle Weikel |

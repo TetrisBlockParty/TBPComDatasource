@@ -314,8 +314,8 @@
 | 306 | 890 | Caitlin Schmid |
 | 307 | 889 | Giggy Blocker |
 | 308 | 885 | Felicia Lynn |
-| 309 | 884 | Steve Man |
-| 310 | 884 | Adira Brown |
+| 309 | 884 | Adira Brown |
+| 310 | 884 | Steve Man |
 | 311 | 883 | Hong Tang |
 | 312 | 883 | nikki |
 | 313 | 882 | Nashu |
@@ -333,8 +333,8 @@
 | 325 | 846 | Alyssa Hileman |
 | 326 | 844 | Terri McKelvey McKinley |
 | 327 | 843 | Wakanda Forever |
-| 328 | 833 | Moni Foxe |
-| 329 | 833 | Cody Nishimura |
+| 328 | 833 | Cody Nishimura |
+| 329 | 833 | Moni Foxe |
 | 330 | 832 | Woodys Glass |
 | 331 | 826 | Diallo Sparkman |
 | 332 | 824 | Khalil Lowe |
@@ -1016,8 +1016,8 @@
 | 1008 | 316 | Epic Spinfit |
 | 1009 | 316 | Cozy Drop |
 | 1010 | 315 | Swanky Snap |
-| 1011 | 315 | Himothy |
-| 1012 | 315 | Neaomi Favro |
+| 1011 | 315 | Neaomi Favro |
+| 1012 | 315 | Himothy |
 | 1013 | 315 | mshir |
 | 1014 | 314 | Angelina Marie |
 | 1015 | 314 | Nicolee Hackney |
@@ -1116,8 +1116,8 @@
 | 1108 | 292 | Renee Bowers |
 | 1109 | 292 | Michelle Ettrick |
 | 1110 | 292 | Atara James |
-| 1111 | 291 | Madysen Holt |
-| 1112 | 291 | Hfcbgc |
+| 1111 | 291 | Hfcbgc |
+| 1112 | 291 | Madysen Holt |
 | 1113 | 291 | Lianne Giandalone LaBounty |
 | 1114 | 291 | Synn |
 | 1115 | 291 | D.U. Bentley |
