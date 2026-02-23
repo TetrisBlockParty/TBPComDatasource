@@ -96,8 +96,8 @@
 | 88 | 500 | Evie Khalil |
 | 89 | 496 | Sarah Lombardo |
 | 90 | 494 | Arianna O'Brien |
-| 91 | 493 | MomMom |
-| 92 | 493 | Jennifer ManWarren |
+| 91 | 493 | Jennifer ManWarren |
+| 92 | 493 | MomMom |
 | 93 | 492 | Ash Galvan |
 | 94 | 489 | Deanna L Hermanson |
 | 95 | 486 | Tater |
@@ -234,7 +234,7 @@
 | 226 | 252 | Dena Kayy |
 | 227 | 249 | Sam Williams |
 | 228 | 247 | Brenda Alexander |
-| 229 | 245 | MRdot Rooski |
+| 229 | 245 | Matt Iaccheo |
 | 230 | 245 | LaFontaine Leslie |
 | 231 | 245 | MRdot Rooski |
 | 232 | 244 | Marianita Garcia |
@@ -300,8 +300,8 @@
 | 292 | 207 | Leslie Bush Yarbrough |
 | 293 | 207 | Alenoush Karimian |
 | 294 | 206 | Angela Spann |
-| 295 | 205 | Tyler L Hunt |
-| 296 | 205 | Agustin Duarte Orozco |
+| 295 | 205 | Agustin Duarte Orozco |
+| 296 | 205 | Tyler L Hunt |
 | 297 | 205 | Jennifer Olewnik Soborowski |
 | 298 | 204 | LD1 |
 | 299 | 204 | Chris Sigurdson |

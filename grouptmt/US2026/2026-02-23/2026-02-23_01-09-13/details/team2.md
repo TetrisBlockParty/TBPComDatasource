@@ -243,8 +243,8 @@
 | 235 | 1079 | Kimberly Hauck-Rausch |
 | 236 | 1078 | Moose Griffith |
 | 237 | 1071 | Kim Dean |
-| 238 | 1067 | Jodi Blake |
-| 239 | 1067 | Eric Carlson |
+| 238 | 1067 | Eric Carlson |
+| 239 | 1067 | Jodi Blake |
 | 240 | 1064 | BK Queen |
 | 241 | 1048 | Desiree Anderson |
 | 242 | 1047 | Dany Murillo |
@@ -331,8 +331,8 @@
 | 323 | 833 | Cody Nishimura |
 | 324 | 833 | Moni Foxe |
 | 325 | 826 | Diallo Sparkman |
-| 326 | 824 | Khalil Lowe |
-| 327 | 824 | Danielle Johnson-Chandler |
+| 326 | 824 | Danielle Johnson-Chandler |
+| 327 | 824 | Khalil Lowe |
 | 328 | 821 | Cassie Mercer |
 | 329 | 821 | Angie Bolton Workman |
 | 330 | 820 | Julie Kresal |
@@ -356,15 +356,15 @@
 | 348 | 786 | Deborah Miller |
 | 349 | 782 | Beth |
 | 350 | 779 | Kayla |
-| 351 | 777 | Tesha Oldaker |
-| 352 | 777 | Jessicah Myers |
+| 351 | 777 | Jessicah Myers |
+| 352 | 777 | Tesha Oldaker |
 | 353 | 774 | Ashley Dow |
 | 354 | 772 | Danielle Simmons |
 | 355 | 769 | Melissa Cole |
 | 356 | 768 | Joshua Self |
 | 357 | 768 | Arkei Luster |
-| 358 | 767 | Ashley Lopez |
-| 359 | 767 | Fancy Twister |
+| 358 | 767 | Fancy Twister |
+| 359 | 767 | Ashley Lopez |
 | 360 | 765 | Kathryn Townsley |
 | 361 | 763 | Dreamy Blast |
 | 362 | 763 | Heather Causey |

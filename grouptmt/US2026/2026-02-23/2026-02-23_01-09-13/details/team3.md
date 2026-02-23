@@ -24,8 +24,8 @@
 | 16 | 2728 | Lauren d |
 | 17 | 2697 | River |
 | 18 | 2497 | Clever Roll |
-| 19 | 2287 | Brandon Green |
-| 20 | 2287 | Tetris Master |
+| 19 | 2287 | Tetris Master |
+| 20 | 2287 | Brandon Green |
 | 21 | 2203 | Ashley Jones |
 | 22 | 2144 | Zippy Strikesnap |
 | 23 | 2015 | Chummy Shatterer |
@@ -171,8 +171,8 @@
 | 163 | 528 | Silly Twist |
 | 164 | 528 | Cass Mendoza |
 | 165 | 516 | Danielle Balcom |
-| 166 | 506 | Stephanie Blkpep Davidson |
-| 167 | 506 | Sashay Tapae Simpson |
+| 166 | 506 | Sashay Tapae Simpson |
+| 167 | 506 | Stephanie Blkpep Davidson |
 | 168 | 504 | Jennifer Lynn Fahrenholtz-Summers |
 | 169 | 502 | Snappy Balancer |
 | 170 | 501 | Patti Skiles |
@@ -218,8 +218,8 @@
 | 210 | 415 | ren |
 | 211 | 414 | Fran Lin |
 | 212 | 413 | Loopy Clusterer |
-| 213 | 410 | Stephanie Simpson |
-| 214 | 410 | Mcathen |
+| 213 | 410 | Mcathen |
+| 214 | 410 | Stephanie Simpson |
 | 215 | 405 | Sherry Ogden |
 | 216 | 404 | Chasity |
 | 217 | 403 | Scott Lindsay |
@@ -250,8 +250,8 @@
 | 242 | 364 | Steffi Chris Dacones |
 | 243 | 362 | Brandon Givens |
 | 244 | 360 | Sheila M Frazier |
-| 245 | 357 | Stephanie Burtin |
-| 246 | 357 | Ammmmmmy |
+| 245 | 357 | Ammmmmmy |
+| 246 | 357 | Stephanie Burtin |
 | 247 | 352 | Christian Werndl |
 | 248 | 352 | Samantha Lynn |
 | 249 | 351 | Eon Harris |
@@ -371,11 +371,11 @@
 | 363 | 244 | Tegan Chapman |
 | 364 | 243 | Jess Bissett |
 | 365 | 243 | Josh Borquez |
-| 366 | 243 | Jess Bissett |
+| 366 | 243 | Paula Little |
 | 367 | 242 | Randy Clevenger |
 | 368 | 240 | Beppy |
-| 369 | 240 | Rachel Grant |
-| 370 | 240 | Brian Battjes |
+| 369 | 240 | Brian Battjes |
+| 370 | 240 | Rachel Grant |
 | 371 | 239 | Ashley Lynn Marchese |
 | 372 | 239 | Joy Petroski |
 | 373 | 238 | Fancy Curver |
@@ -391,8 +391,8 @@
 | 383 | 232 | Michael Latasha Gray |
 | 384 | 232 | Dee Pratt |
 | 385 | 232 | Sunny Tiltgrid |
-| 386 | 231 | Frothy Snapper |
-| 387 | 231 | 4girls |
+| 386 | 231 | 4girls |
+| 387 | 231 | Frothy Snapper |
 | 388 | 231 | Isabel Ocasio |
 | 389 | 230 | Jessica Lynn French |
 | 390 | 230 | BigE |

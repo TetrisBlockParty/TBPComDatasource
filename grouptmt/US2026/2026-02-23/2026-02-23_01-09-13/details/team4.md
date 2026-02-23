@@ -237,8 +237,8 @@
 | 229 | 252 | Selena Shaw |
 | 230 | 251 | Carol Ricks Raymond |
 | 231 | 249 | Ak Jones |
-| 232 | 248 | Jose Dejesus |
-| 233 | 248 | Chirpy Basepiece |
+| 232 | 248 | Chirpy Basepiece |
+| 233 | 248 | Jose Dejesus |
 | 234 | 247 | JPW |
 | 235 | 246 | Zethra Prenisha Rahming |
 | 236 | 245 | 23 |
