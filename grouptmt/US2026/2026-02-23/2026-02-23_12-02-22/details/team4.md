@@ -101,8 +101,8 @@
 | 93 | 659 | Jamie Gustafson |
 | 94 | 653 | Rica Mitchell |
 | 95 | 650 | KJ Pool |
-| 96 | 647 | KM8 |
-| 97 | 647 | Shauna Havard |
+| 96 | 647 | Shauna Havard |
+| 97 | 647 | KM8 |
 | 98 | 646 | Eric Mcgaughy |
 | 99 | 633 | Amy Suckarieh |
 | 100 | 626 | Brittney Griggs |

@@ -226,8 +226,8 @@
 | 218 | 1277 | Snappy Matchbuilder |
 | 219 | 1259 | Foxxo |
 | 220 | 1252 | Angel |
-| 221 | 1245 | Missie Lawson Gebhardt |
-| 222 | 1245 | Cody Nishimura |
+| 221 | 1245 | Cody Nishimura |
+| 222 | 1245 | Missie Lawson Gebhardt |
 | 223 | 1240 | Brandon Armstrong |
 | 224 | 1238 | Groovy Puzzle |
 | 225 | 1237 | Megan Ferguson Leone |
@@ -295,8 +295,8 @@
 | 287 | 1045 | Bri Lynn |
 | 288 | 1045 | Lourisha |
 | 289 | 1044 | Jennifer Aiken |
-| 290 | 1043 | nikki |
-| 291 | 1043 | Brave Dropmatch |
+| 290 | 1043 | Brave Dropmatch |
+| 291 | 1043 | nikki |
 | 292 | 1042 | Mcintosh Brian Shalonda |
 | 293 | 1040 | Rebecca Garland |
 | 294 | 1036 | Allison Lockyer |
@@ -317,8 +317,8 @@
 | 309 | 996 | Ashie Ann |
 | 310 | 987 | Osun Anuket Esu |
 | 311 | 980 | Jackie Lucas |
-| 312 | 979 | Hillary Crawford |
-| 313 | 979 | Melissa Penelope Ann Dodge |
+| 312 | 979 | Melissa Penelope Ann Dodge |
+| 313 | 979 | Hillary Crawford |
 | 314 | 978 | April Dawn Gussler |
 | 315 | 976 | Sam Joe |
 | 316 | 976 | Della Hole |
@@ -453,8 +453,8 @@
 | 445 | 755 | Taryece Gause |
 | 446 | 754 | tejas25 |
 | 447 | 753 | Alex Dungo Hoang |
-| 448 | 751 | Breezy Filler |
-| 449 | 751 | Caitlyn Blackwell |
+| 448 | 751 | Caitlyn Blackwell |
+| 449 | 751 | Breezy Filler |
 | 450 | 751 | Loony Snapper |
 | 451 | 750 | Christina Walker |
 | 452 | 750 | Draizen Montrell Thomas |
@@ -498,8 +498,8 @@
 | 490 | 700 | Vincent Petrella |
 | 491 | 700 | Beverly Owens |
 | 492 | 699 | Dannette Goldberg-Richards |
-| 493 | 697 | Gary Stash |
-| 494 | 697 | Isabelle Bonneau |
+| 493 | 697 | Isabelle Bonneau |
+| 494 | 697 | Gary Stash |
 | 495 | 697 | Poldo Ilano |
 | 496 | 693 | Ryan Stadel |
 | 497 | 692 | Shaun Church |
@@ -738,11 +738,11 @@
 | 730 | 502 | Enha |
 | 731 | 500 | Ryan Meilleur |
 | 732 | 500 | Amy Reynolds |
-| 733 | 499 | Martina Gabrielle LaPolla |
-| 734 | 499 | Besma Ao |
+| 733 | 499 | Besma Ao |
+| 734 | 499 | Martina Gabrielle LaPolla |
 | 735 | 498 | Chummy Blockbuilder |
-| 736 | 497 | Sam |
-| 737 | 497 | June E Hanson |
+| 736 | 497 | June E Hanson |
+| 737 | 497 | Sam |
 | 738 | 496 | Angelina Marie |
 | 739 | 496 | Tracy Cowley |
 | 740 | 496 | Anthony Mignacca |
@@ -782,8 +782,8 @@
 | 774 | 480 | Jennifer Leigh |
 | 775 | 480 | Cassi Owens |
 | 776 | 479 | bbv |
-| 777 | 479 | Ashlee Cruz |
-| 778 | 479 | Emilie Desma |
+| 777 | 479 | Emilie Desma |
+| 778 | 479 | Ashlee Cruz |
 | 779 | 478 | Mary Marie |
 | 780 | 478 | Brenda Annabel Smith |
 | 781 | 477 | Danielle Ayoub |

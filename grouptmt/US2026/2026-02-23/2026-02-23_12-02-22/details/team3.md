@@ -77,8 +77,8 @@
 | 69 | 1264 | Amanda L Baker |
 | 70 | 1258 | Danielle Cutler |
 | 71 | 1256 | Jessica Bechler |
-| 72 | 1213 | Nerdy Riseclear |
-| 73 | 1213 | Snappy Glidepiece |
+| 72 | 1213 | Snappy Glidepiece |
+| 73 | 1213 | Nerdy Riseclear |
 | 74 | 1209 | Amanda Adkins |
 | 75 | 1186 | Christian A. Pollard |
 | 76 | 1162 | Gracie |
@@ -117,8 +117,8 @@
 | 109 | 869 | Araceli Parra |
 | 110 | 868 | Sarajane Lokan |
 | 111 | 860 | Sunny Rotater |
-| 112 | 851 | Danielle Becker |
-| 113 | 851 | Jd Morris |
+| 112 | 851 | Jd Morris |
+| 113 | 851 | Danielle Becker |
 | 114 | 850 | Danielle Mogg |
 | 115 | 848 | Patricia Gadsden |
 | 116 | 839 | Angeline Joseph |
@@ -134,8 +134,8 @@
 | 126 | 764 | Hasty Cascadefit |
 | 127 | 764 | Groovy Catcher |
 | 128 | 762 | Speedy Bridger |
-| 129 | 755 | Katrina Schroeder |
-| 130 | 755 | Raya |
+| 129 | 755 | Raya |
+| 130 | 755 | Katrina Schroeder |
 | 131 | 752 | Logan Naccarato |
 | 132 | 748 | Adrian Marcel Pate |
 | 133 | 745 | ren |
@@ -370,12 +370,12 @@
 | 362 | 298 | Dannie Litchard |
 | 363 | 298 | Grams |
 | 364 | 297 | kacihall |
-| 365 | 296 | Tracy Martin |
-| 366 | 296 | Donna |
+| 365 | 296 | Donna |
+| 366 | 296 | Tracy Martin |
 | 367 | 296 | Amy Montz |
 | 368 | 292 | Dakota Graham |
-| 369 | 292 | Kirhonda Autmon |
-| 370 | 292 | Khaleada McGill Banks |
+| 369 | 292 | Khaleada McGill Banks |
+| 370 | 292 | Kirhonda Autmon |
 | 371 | 289 | Cheryl Hinch Tenbrook |
 | 372 | 289 | DidIdothat |
 | 373 | 288 | Arden White Kirsch |
@@ -464,8 +464,8 @@
 | 456 | 242 | Michael Latasha Gray |
 | 457 | 242 | Joy Petroski |
 | 458 | 241 | Skinny Baldez |
-| 459 | 240 | Trey Ward |
-| 460 | 240 | Rebel124 |
+| 459 | 240 | Rebel124 |
+| 460 | 240 | Trey Ward |
 | 461 | 240 | Beppy |
 | 462 | 240 | Bambi Jones |
 | 463 | 239 | Martin Bernier |
