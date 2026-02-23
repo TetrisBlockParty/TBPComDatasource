@@ -76,8 +76,8 @@
 | 68 | 978 | Amber Stoker |
 | 69 | 975 | TSwag |
 | 70 | 974 | Veronica Eve |
-| 71 | 966 | Shalene Frederick Autrey |
-| 72 | 966 | Francesca Gee |
+| 71 | 966 | Francesca Gee |
+| 72 | 966 | Shalene Frederick Autrey |
 | 73 | 951 | Zippy Align |
 | 74 | 948 | Jacqueline Williams |
 | 75 | 929 | Erin Hodges Plumb |
@@ -196,8 +196,8 @@
 | 188 | 425 | Tana |
 | 189 | 425 | Tyler Werts |
 | 190 | 424 | Emily Adelaide Wheatley |
-| 191 | 423 | Elaine Elaine |
-| 192 | 423 | Kimberly Garcia |
+| 191 | 423 | Kimberly Garcia |
+| 192 | 423 | Elaine Elaine |
 | 193 | 422 | Chelsea Dahlquist |
 | 194 | 422 | Mike Ames |
 | 195 | 419 | Jennifer Noe Chandler |
@@ -206,8 +206,8 @@
 | 198 | 417 | Jessie Lynn |
 | 199 | 417 | Jamise Brown |
 | 200 | 416 | Jessica Sheehan |
-| 201 | 412 | Connie |
-| 202 | 412 | Witty Builderfit |
+| 201 | 412 | Witty Builderfit |
+| 202 | 412 | Connie |
 | 203 | 408 | Lindsay Glover |
 | 204 | 407 | Ananda Mendez |
 | 205 | 404 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |

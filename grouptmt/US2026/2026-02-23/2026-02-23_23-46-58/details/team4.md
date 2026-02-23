@@ -235,8 +235,8 @@
 | 227 | 409 | Antony Dwayne Beasley |
 | 228 | 403 | TinyLegoRose |
 | 229 | 400 | Brickh4us |
-| 230 | 399 | Jeff Brian Gates |
-| 231 | 399 | Lindsay Ball |
+| 230 | 399 | Lindsay Ball |
+| 231 | 399 | Jeff Brian Gates |
 | 232 | 398 | Tyler Terrific |
 | 233 | 395 | 030Synner |
 | 234 | 394 | Nita Wells |
@@ -271,8 +271,8 @@
 | 263 | 360 | Ari Droff |
 | 264 | 360 | James Hurley Jr. |
 | 265 | 358 | Twisty Cascadezone |
-| 266 | 356 | mike |
-| 267 | 356 | Joeliecea Cobb |
+| 266 | 356 | Joeliecea Cobb |
+| 267 | 356 | mike |
 | 268 | 355 | David Lay |
 | 269 | 353 | Chaz |
 | 270 | 352 | scott |

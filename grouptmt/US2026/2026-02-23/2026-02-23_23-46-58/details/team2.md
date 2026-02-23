@@ -173,8 +173,8 @@
 | 165 | 1871 | Christi Hulet |
 | 166 | 1866 | Janel Turley-Garner |
 | 167 | 1845 | Jessie McDougald |
-| 168 | 1840 | blarg |
-| 169 | 1840 | Kristopher Miller |
+| 168 | 1840 | Kristopher Miller |
+| 169 | 1840 | blarg |
 | 170 | 1835 | Alisa Lamb |
 | 171 | 1829 | Mr. Street Stack |
 | 172 | 1818 | Shandrica Lowe |
@@ -188,8 +188,8 @@
 | 180 | 1763 | Juliana Marques Do Nascimento Gordy |
 | 181 | 1759 | Nerdy Pattern |
 | 182 | 1756 | Hannah Erskine |
-| 183 | 1751 | Melissa Penelope Ann Dodge |
-| 184 | 1751 | Bob |
+| 183 | 1751 | Bob |
+| 184 | 1751 | Melissa Penelope Ann Dodge |
 | 185 | 1749 | Denise Rickman |
 | 186 | 1746 | Dee |
 | 187 | 1724 | Michelle Lee |
@@ -335,8 +335,8 @@
 | 327 | 1156 | Alezandra Smith |
 | 328 | 1156 | Arkei Luster |
 | 329 | 1155 | F-X |
-| 330 | 1142 | April Dawn Gussler |
-| 331 | 1142 | Sheniya Spurgeon |
+| 330 | 1142 | Sheniya Spurgeon |
+| 331 | 1142 | April Dawn Gussler |
 | 332 | 1140 | Kimberly Hauck-Rausch |
 | 333 | 1139 | Carl Bradshaw |
 | 334 | 1139 | Aireka Roman |

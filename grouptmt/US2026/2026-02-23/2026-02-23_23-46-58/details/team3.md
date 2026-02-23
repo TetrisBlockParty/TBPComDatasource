@@ -137,8 +137,8 @@
 | 129 | 945 | Shonna Roberts |
 | 130 | 940 | Stephanie Allmon |
 | 131 | 939 | Jamie Lang |
-| 132 | 936 | Giddy Drop |
-| 133 | 936 | Dolores Falco |
+| 132 | 936 | Dolores Falco |
+| 133 | 936 | Giddy Drop |
 | 134 | 932 | Katrina Schroeder |
 | 135 | 931 | Michelle |
 | 136 | 930 | Bea Miles |
@@ -189,8 +189,8 @@
 | 181 | 728 | Edwin Calvillo Jr. |
 | 182 | 726 | Michael Nowogorski |
 | 183 | 725 | Alaina Lee |
-| 184 | 716 | Morgan Martinez |
-| 185 | 716 | Annie Marie |
+| 184 | 716 | Annie Marie |
+| 185 | 716 | Morgan Martinez |
 | 186 | 715 | Karon Griffin |
 | 187 | 714 | Jone |
 | 188 | 714 | Jenny Hrndz |
@@ -256,8 +256,8 @@
 | 248 | 541 | Sherry Ogden |
 | 249 | 540 | France Vézina |
 | 250 | 540 | Danielle Allison |
-| 251 | 539 | Aerian Preston |
-| 252 | 539 | Betty Bóò |
+| 251 | 539 | Betty Bóò |
+| 252 | 539 | Aerian Preston |
 | 253 | 537 | Tamara Deherrera |
 | 254 | 536 | Shannon Matthew Byers |
 | 255 | 535 | kacihall |
@@ -268,12 +268,12 @@
 | 260 | 520 | Cozy Snaplink |
 | 261 | 519 | Nichol Graham |
 | 262 | 516 | Daring Brickzone |
-| 263 | 513 | Giggy Glidepiece |
-| 264 | 513 | PrncssPJ |
+| 263 | 513 | PrncssPJ |
+| 264 | 513 | Giggy Glidepiece |
 | 265 | 513 | Lizabeth Fox |
 | 266 | 510 | Marquita Sheard |
-| 267 | 508 | joz |
-| 268 | 508 | rosy |
+| 267 | 508 | rosy |
+| 268 | 508 | joz |
 | 269 | 507 | Snappy Balancer |
 | 270 | 506 | Ammmmmmy |
 | 271 | 506 | Eileen Brady Thurber |
@@ -391,7 +391,7 @@
 | 383 | 365 | Romeo |
 | 384 | 362 | Brandon Givens |
 | 385 | 360 | Ashley Rufus Bythcez |
-| 386 | 360 | Heather Bateman |
+| 386 | 360 | Dannie Litchard |
 | 387 | 360 | Goofy Fall |
 | 388 | 360 | Heather Bateman |
 | 389 | 359 | Steven Fulater |
@@ -404,8 +404,8 @@
 | 396 | 352 | xsiv |
 | 397 | 352 | LadyTorad |
 | 398 | 351 | Eon Harris |
-| 399 | 350 | angieelyn |
-| 400 | 350 | Linda Draper |
+| 399 | 350 | Linda Draper |
+| 400 | 350 | angieelyn |
 | 401 | 349 | Donna |
 | 402 | 348 | Jimmie Clemons |
 | 403 | 348 | Ashley Raines |
