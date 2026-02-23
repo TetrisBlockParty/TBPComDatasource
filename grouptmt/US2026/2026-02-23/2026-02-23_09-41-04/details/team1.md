@@ -83,8 +83,8 @@
 | 75 | 703 | Angel Fowler |
 | 76 | 689 | Susanna Guerry |
 | 77 | 679 | Hasbro Bros |
-| 78 | 657 | Tee Sheree |
-| 79 | 657 | Cynthia Bradley |
+| 78 | 657 | Cynthia Bradley |
+| 79 | 657 | Tee Sheree |
 | 80 | 655 | Brenda Stewart |
 | 81 | 648 | Evie Khalil |
 | 82 | 647 | Jason Jones |
@@ -108,8 +108,8 @@
 | 100 | 509 | Rachael |
 | 101 | 502 | Anaid Sanchez |
 | 102 | 497 | Arianna O'Brien |
-| 103 | 493 | Jennifer ManWarren |
-| 104 | 493 | MomMom |
+| 103 | 493 | MomMom |
+| 104 | 493 | Jennifer ManWarren |
 | 105 | 492 | Ash Galvan |
 | 106 | 491 | cc |
 | 107 | 489 | April Carroll |
