@@ -59,8 +59,8 @@
 | 51 | 870 | BertMofo |
 | 52 | 863 | Pee |
 | 53 | 853 | TeeJ |
-| 54 | 846 | Lucille Truesdale |
-| 55 | 846 | Christine Marie |
+| 54 | 846 | Christine Marie |
+| 55 | 846 | Lucille Truesdale |
 | 56 | 845 | LisaJo Picken Buchanan |
 | 57 | 843 | Shelly Chandler |
 | 58 | 834 | quicksand420 |
@@ -174,8 +174,8 @@
 | 166 | 368 | Chris Bernstein |
 | 167 | 368 | Raegan Lane-Ross |
 | 168 | 365 | Jeff Brian Gates |
-| 169 | 361 | Danielle Kollias |
-| 170 | 361 | Melissa Adams |
+| 169 | 361 | Melissa Adams |
+| 170 | 361 | Danielle Kollias |
 | 171 | 359 | Keith Kelley |
 | 172 | 358 | A5! |
 | 173 | 357 | Andy Cabral |
@@ -215,8 +215,8 @@
 | 207 | 300 | Dihcheese444 |
 | 208 | 300 | Dana Scott |
 | 209 | 295 | Keshia Lyons |
-| 210 | 294 | Porkobello |
-| 211 | 294 | Calvin Cannon |
+| 210 | 294 | Calvin Cannon |
+| 211 | 294 | Porkobello |
 | 212 | 292 | Epic Curvetile |
 | 213 | 290 | Plucky Patternblock |
 | 214 | 290 | Rebecca Morris |

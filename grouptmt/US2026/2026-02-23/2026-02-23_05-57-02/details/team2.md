@@ -44,8 +44,8 @@
 | 36 | 4199 | Claire Noland |
 | 37 | 4128 | Angela Pruitt |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Kristen Sceurman |
-| 40 | 4120 | Corrine Hawks Soriano |
+| 39 | 4120 | Corrine Hawks Soriano |
+| 40 | 4120 | Kristen Sceurman |
 | 41 | 3845 | jayjay |
 | 42 | 3813 | Devin Lee |
 | 43 | 3778 | Brittany Alicia |
@@ -279,8 +279,8 @@
 | 271 | 1045 | Lourisha |
 | 272 | 1043 | nikki |
 | 273 | 1043 | Brave Dropmatch |
-| 274 | 1036 | Amber Shoemaker |
-| 275 | 1036 | Allison Lockyer |
+| 274 | 1036 | Allison Lockyer |
+| 275 | 1036 | Amber Shoemaker |
 | 276 | 1032 | Georgia Triblett |
 | 277 | 1026 | Kristin Gower |
 | 278 | 1024 | Susan Perraut Jones |
@@ -292,8 +292,8 @@
 | 284 | 1010 | Brittany Radaszewski |
 | 285 | 1007 | Missie Lawson Gebhardt |
 | 286 | 1003 | Andrea Maher |
-| 287 | 998 | Keri Womack |
-| 288 | 998 | Shelley Thornburgh Wright |
+| 287 | 998 | Shelley Thornburgh Wright |
+| 288 | 998 | Keri Womack |
 | 289 | 996 | Ashie Ann |
 | 290 | 988 | Juliana Marques Do Nascimento Gordy |
 | 291 | 987 | Osun Anuket Esu |
@@ -717,8 +717,8 @@
 | 709 | 482 | Nate |
 | 710 | 482 | Drwatson187 |
 | 711 | 481 | Lucy Marshall |
-| 712 | 480 | Jennifer Leigh |
-| 713 | 480 | Dar |
+| 712 | 480 | Dar |
+| 713 | 480 | Jennifer Leigh |
 | 714 | 479 | bbv |
 | 715 | 479 | Jason Garnatz |
 | 716 | 479 | Emilie Desma |

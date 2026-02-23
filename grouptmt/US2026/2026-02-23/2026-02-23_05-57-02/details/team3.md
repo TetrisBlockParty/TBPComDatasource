@@ -257,8 +257,8 @@
 | 249 | 377 | Charles Perrone |
 | 250 | 374 | Rania Zaqout |
 | 251 | 373 | Chummy Caster |
-| 252 | 372 | Rich LeBlanc |
-| 253 | 372 | Sarah Moyer |
+| 252 | 372 | Sarah Moyer |
+| 253 | 372 | Rich LeBlanc |
 | 254 | 371 | Marquita Sheard |
 | 255 | 371 | block chick |
 | 256 | 370 | Samantha Lynn |
@@ -411,8 +411,8 @@
 | 403 | 253 | Jennifer Alvey |
 | 404 | 252 | Josh Borquez |
 | 405 | 251 | Colleen Phelps |
-| 406 | 250 | Eric Caccavale |
-| 407 | 250 | Tegan Chapman |
+| 406 | 250 | Tegan Chapman |
+| 407 | 250 | Eric Caccavale |
 | 408 | 249 | Willow |
 | 409 | 249 | AlsoJess |
 | 410 | 248 | Brian Battjes |
