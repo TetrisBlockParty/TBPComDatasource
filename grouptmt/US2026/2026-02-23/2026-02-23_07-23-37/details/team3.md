@@ -113,15 +113,15 @@
 | 105 | 869 | Araceli Parra |
 | 106 | 868 | Sarajane Lokan |
 | 107 | 860 | Sunny Rotater |
-| 108 | 851 | Jd Morris |
-| 109 | 851 | Danielle Becker |
+| 108 | 851 | Danielle Becker |
+| 109 | 851 | Jd Morris |
 | 110 | 850 | Danielle Mogg |
 | 111 | 848 | Patricia Gadsden |
 | 112 | 831 | Angeline Joseph |
 | 113 | 830 | Stephanie Allmon |
 | 114 | 826 | Shane Wilson Jr. |
-| 115 | 816 | Brenda Lee Vander Molen |
-| 116 | 816 | Jesse Olive |
+| 115 | 816 | Jesse Olive |
+| 116 | 816 | Brenda Lee Vander Molen |
 | 117 | 802 | Bobbi Moore |
 | 118 | 800 | Lauren Girouard |
 | 119 | 799 | Dolores Falco |
@@ -160,8 +160,8 @@
 | 152 | 634 | Amber Hughes |
 | 153 | 630 | yoyo |
 | 154 | 629 | Patricia White |
-| 155 | 621 | Cherry Parker |
-| 156 | 621 | Sashay Tapae Simpson |
+| 155 | 621 | Sashay Tapae Simpson |
+| 156 | 621 | Cherry Parker |
 | 157 | 616 | Kammy Hill |
 | 158 | 611 | Rochelle Hazelett |
 | 159 | 607 | Grego Daniel |
@@ -215,8 +215,8 @@
 | 207 | 480 | Danielle Allison |
 | 208 | 480 | Michael Johnson |
 | 209 | 475 | Tessina Dewey-Mancino |
-| 210 | 473 | Rachel |
-| 211 | 473 | Connie Mohler-Fair |
+| 210 | 473 | Connie Mohler-Fair |
+| 211 | 473 | Rachel |
 | 212 | 471 | Mendoza Lee Christy |
 | 213 | 467 | Sherry Ogden |
 | 214 | 467 | Edwin Calvillo Jr. |
@@ -237,8 +237,8 @@
 | 229 | 430 | Jeni Dow |
 | 230 | 418 | Rebecca Funderburk Kirby |
 | 231 | 414 | Fran Lin |
-| 232 | 410 | Duane Bright |
-| 233 | 410 | Stephanie Simpson |
+| 232 | 410 | Stephanie Simpson |
+| 233 | 410 | Duane Bright |
 | 234 | 408 | Tiffany Ford |
 | 235 | 406 | Kristal C Lee |
 | 236 | 404 | Chasity |
@@ -380,8 +380,8 @@
 | 372 | 274 | Ava Petito |
 | 373 | 273 | France Vézina |
 | 374 | 273 | Brenda Schmid Wood |
-| 375 | 272 | Todd Hall |
-| 376 | 272 | Tay |
+| 375 | 272 | Tay |
+| 376 | 272 | Todd Hall |
 | 377 | 272 | Romeo |
 | 378 | 269 | Juliana Dottore |
 | 379 | 269 | Jess Bissett |
@@ -534,8 +534,8 @@
 | 526 | 200 | glichmod |
 | 527 | 200 | Christina Marie Swisher |
 | 528 | 199 | PrncssPJ |
-| 529 | 199 | Sunny Lift |
-| 530 | 199 | Christine Foley |
+| 529 | 199 | Christine Foley |
+| 530 | 199 | Sunny Lift |
 | 531 | 199 | Cheeky Setter |
 | 532 | 198 | momo |
 | 533 | 198 | Zac Hudak |
@@ -571,13 +571,13 @@
 | 563 | 191 | Polopypy |
 | 564 | 190 | Smiley Zone |
 | 565 | 189 | Jason |
-| 566 | 189 | Wacky Crasher |
-| 567 | 189 | Sameerah Smith |
+| 566 | 189 | Sameerah Smith |
+| 567 | 189 | Wacky Crasher |
 | 568 | 189 | Deseree Ewing |
-| 569 | 188 | Amber Groover Taylor |
-| 570 | 188 | Bree Sexton |
-| 571 | 187 | luluraine |
-| 572 | 187 | Kelly Koenig |
+| 569 | 188 | Bree Sexton |
+| 570 | 188 | Amber Groover Taylor |
+| 571 | 187 | Kelly Koenig |
+| 572 | 187 | luluraine |
 | 573 | 187 | Crystal Johnson |
 | 574 | 186 | Jack Bo |
 | 575 | 186 | Rayzer |
@@ -585,8 +585,8 @@
 | 577 | 185 | Ashley Kennedy |
 | 578 | 185 | Breezy Roll |
 | 579 | 184 | Shanon R Jackson |
-| 580 | 184 | Christian Luna |
-| 581 | 184 | Barb Wensink Johnson |
+| 580 | 184 | Barb Wensink Johnson |
+| 581 | 184 | Christian Luna |
 | 582 | 183 | AC Yeater |
 | 583 | 183 | Scott Doss |
 | 584 | 183 | Mel Murr |
@@ -702,7 +702,7 @@
 | 694 | 156 | Courtney Conboy |
 | 695 | 155 | TEDDY |
 | 696 | 155 | Brave Brickster |
-| 697 | 155 | TEDDY |
+| 697 | 155 | Katie Bolich |
 | 698 | 155 | Amy Montz |
 | 699 | 154 | Briana Wellman |
 | 700 | 154 | Mike Spritzer |

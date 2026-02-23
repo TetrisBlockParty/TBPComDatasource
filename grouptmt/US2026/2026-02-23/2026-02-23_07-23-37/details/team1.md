@@ -182,8 +182,8 @@
 | 174 | 350 | Tipsy Strikerpiece |
 | 175 | 349 | Cool Shiftsnap |
 | 176 | 348 | Chelsea Dahlquist |
-| 177 | 346 | GATOR |
-| 178 | 346 | Erin Rosberg |
+| 177 | 346 | Erin Rosberg |
+| 178 | 346 | GATOR |
 | 179 | 345 | Jerry Danowski |
 | 180 | 343 | Elaine Elaine |
 | 181 | 341 | Nick R Montague |
@@ -237,10 +237,10 @@
 | 229 | 282 | Mandyy Rae |
 | 230 | 281 | Clever Cascadepiece |
 | 231 | 280 | Billie Dawn Sparks |
-| 232 | 277 | Nutty Spinblock |
-| 233 | 277 | Melissa Lemmon |
-| 234 | 275 | Cheeky Pop |
-| 235 | 275 | Chris65 |
+| 232 | 277 | Melissa Lemmon |
+| 233 | 277 | Nutty Spinblock |
+| 234 | 275 | Chris65 |
+| 235 | 275 | Cheeky Pop |
 | 236 | 274 | Lakeisha Chapman |
 | 237 | 273 | Shannon Marie Pitts |
 | 238 | 272 | Barrbaric |
@@ -345,8 +345,8 @@
 | 337 | 209 | Pauline Cortez |
 | 338 | 208 | Donna Addison Williams |
 | 339 | 208 | Andrew Boone |
-| 340 | 207 | Leslie Bush Yarbrough |
-| 341 | 207 | Katie Martin |
+| 340 | 207 | Katie Martin |
+| 341 | 207 | Leslie Bush Yarbrough |
 | 342 | 207 | Fresno Beotoni |
 | 343 | 205 | build master |
 | 344 | 205 | Agustin Duarte Orozco |

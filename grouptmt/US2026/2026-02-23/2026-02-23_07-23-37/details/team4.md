@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Kimyatta Cavin |
-| 84 | 684 | Jonathan Kimbrough |
+| 83 | 684 | Jonathan Kimbrough |
+| 84 | 684 | Kimyatta Cavin |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -125,8 +125,8 @@
 | 117 | 514 | Serena Goodridge |
 | 118 | 514 | Scott Jameson |
 | 119 | 513 | Erin Thomas |
-| 120 | 512 | Casey Jeffcoat |
-| 121 | 512 | Cristy Duerksen |
+| 120 | 512 | Cristy Duerksen |
+| 121 | 512 | Casey Jeffcoat |
 | 122 | 511 | Lori Walker |
 | 123 | 509 | Leslie Nicole |
 | 124 | 482 | Ren Mc |
@@ -235,8 +235,8 @@
 | 227 | 286 | Steph Marie |
 | 228 | 285 | 030Synner |
 | 229 | 284 | Mimi |
-| 230 | 282 | Matt Gooder |
-| 231 | 282 | Kim Klutz Olson |
+| 230 | 282 | Kim Klutz Olson |
+| 231 | 282 | Matt Gooder |
 | 232 | 281 | Laura |
 | 233 | 280 | Rio Rocha |
 | 234 | 279 | Malakai Darien Fox |
@@ -245,8 +245,8 @@
 | 237 | 276 | Joeliecea Cobb |
 | 238 | 276 | Matt Dell'Olio |
 | 239 | 273 | Cranky Rollpiece |
-| 240 | 272 | Dennis Bradley |
-| 241 | 272 | Carlos Ramirez |
+| 240 | 272 | Carlos Ramirez |
+| 241 | 272 | Dennis Bradley |
 | 242 | 272 | Alan George LaRage |
 | 243 | 271 | Holly |
 | 244 | 270 | Jen Caldwell |
@@ -255,8 +255,8 @@
 | 247 | 266 | Mr. Party |
 | 248 | 265 | Degenerate |
 | 249 | 265 | Sarah Neathery |
-| 250 | 265 | Silly SeaWeed |
-| 251 | 265 | Cynthia Boudreau |
+| 250 | 265 | Cynthia Boudreau |
+| 251 | 265 | Silly SeaWeed |
 | 252 | 264 | ZeeZee |
 | 253 | 264 | Stella |
 | 254 | 263 | rebel4lyfe |
@@ -322,8 +322,8 @@
 | 314 | 216 | mike |
 | 315 | 216 | Chantilly Laace |
 | 316 | 215 | Stephme310 |
-| 317 | 214 | Patron Anderson |
-| 318 | 214 | Stacey Stano |
+| 317 | 214 | Stacey Stano |
+| 318 | 214 | Patron Anderson |
 | 319 | 213 | Jackie Marie |
 | 320 | 212 | Zany Shatterer |
 | 321 | 212 | Brave Spinbuilder |
@@ -455,13 +455,13 @@
 | 447 | 160 | Heather Layne Smith |
 | 448 | 160 | Sho Nuff |
 | 449 | 159 | Groovy Brickmatch |
-| 450 | 158 | Dapper Frame |
-| 451 | 158 | Jasmine S Caldwell |
+| 450 | 158 | Jasmine S Caldwell |
+| 451 | 158 | Dapper Frame |
 | 452 | 157 | Ryry |
 | 453 | 157 | LunaMoon |
 | 454 | 157 | David Boggs |
-| 455 | 156 | Funky Risepiece |
-| 456 | 156 | Mighty Edgepiece |
+| 455 | 156 | Mighty Edgepiece |
+| 456 | 156 | Funky Risepiece |
 | 457 | 155 | Stacy |
 | 458 | 155 | Faja |
 | 459 | 155 | Sticherella |
@@ -478,7 +478,7 @@
 | 470 | 151 | Katie Alexander |
 | 471 | 151 | Joshua Guess |
 | 472 | 150 | Ron |
-| 473 | 150 | Jobadia Steelerton |
+| 473 | 150 | PennyCandee |
 | 474 | 150 | Kujuanna Hammon |
 | 475 | 150 | Jobadia Steelerton |
 | 476 | 150 | Nerdy Linebuilder |

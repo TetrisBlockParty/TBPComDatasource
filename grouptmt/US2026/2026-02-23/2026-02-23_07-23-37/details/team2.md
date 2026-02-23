@@ -394,18 +394,18 @@
 | 386 | 799 | Kenny Alvarado |
 | 387 | 799 | Joy LaJeunesse |
 | 388 | 798 | Kathryn Townsley |
-| 389 | 796 | Amber Gray |
-| 390 | 796 | AndrewandShela Gornik |
-| 391 | 793 | Jaycee |
+| 389 | 796 | AndrewandShela Gornik |
+| 390 | 796 | Amber Gray |
+| 391 | 793 | Heather Schelkopf |
 | 392 | 793 | Arlene Joy Belicina |
-| 393 | 793 | Heather Schelkopf |
+| 393 | 793 | Jaycee |
 | 394 | 792 | Ronnie Nelson |
 | 395 | 790 | Brenda Pierpoint |
 | 396 | 788 | Erika Densmore |
 | 397 | 787 | Tiara Elizabeth Baker |
 | 398 | 783 | John Rodriguez |
-| 399 | 777 | Tesha Oldaker |
-| 400 | 777 | Jessicah Myers |
+| 399 | 777 | Jessicah Myers |
+| 400 | 777 | Tesha Oldaker |
 | 401 | 776 | Fancy Twister |
 | 402 | 776 | Mighty Spinbuilder |
 | 403 | 775 | Crystie Hicks |
@@ -858,16 +858,16 @@
 | 850 | 419 | Josh Dill |
 | 851 | 419 | Erin Reid |
 | 852 | 418 | Bold Brickster |
-| 853 | 417 | Tristan Szolek |
-| 854 | 417 | Rebecca Garland |
+| 853 | 417 | Rebecca Garland |
+| 854 | 417 | Tristan Szolek |
 | 855 | 417 | Janai Vrabel |
 | 856 | 417 | Mandy Kachenmeister |
 | 857 | 416 | Veronics |
 | 858 | 416 | Alicia Moreno |
 | 859 | 416 | Christine Lockwood |
 | 860 | 415 | Bonita Kee |
-| 861 | 415 | Noel Tarmy |
-| 862 | 415 | Allyson Marra |
+| 861 | 415 | Allyson Marra |
+| 862 | 415 | Noel Tarmy |
 | 863 | 415 | Cranky Tower |
 | 864 | 414 | Court |
 | 865 | 414 | Cini |
@@ -1725,8 +1725,8 @@
 | 1717 | 229 | Val Pal |
 | 1718 | 229 | Caitlin Johnson |
 | 1719 | 229 | Melissa Nelson Ward |
-| 1720 | 229 | Deidre Jenkins |
-| 1721 | 229 | Melinda Avriett |
+| 1720 | 229 | Melinda Avriett |
+| 1721 | 229 | Deidre Jenkins |
 | 1722 | 229 | Heather Anspaugh |
 | 1723 | 228 | Teri Barnett |
 | 1724 | 228 | Michele Phelps |
@@ -1751,7 +1751,7 @@
 | 1743 | 226 | Tina Elliott |
 | 1744 | 226 | Brenda |
 | 1745 | 226 | Annette Ross Clay |
-| 1746 | 226 | Marques Holloman |
+| 1746 | 226 | Joshua Yonker |
 | 1747 | 226 | Lesley Moore |
 | 1748 | 226 | Marques Holloman |
 | 1749 | 225 | Stacy Rodriguez |
@@ -1874,9 +1874,9 @@
 | 1866 | 214 | Scherrie Smith |
 | 1867 | 214 | Fancy Zigzag |
 | 1868 | 214 | Goofy Snap |
-| 1869 | 214 | Linds |
+| 1869 | 214 | Nikki Jackson |
 | 1870 | 214 | BTA |
-| 1871 | 214 | Nikki Jackson |
+| 1871 | 214 | Linds |
 | 1872 | 213 | Crafty Rumbler |
 | 1873 | 213 | Robert Brock |
 | 1874 | 213 | Tessa Gonzalez |
