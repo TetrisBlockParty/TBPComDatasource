@@ -192,8 +192,8 @@
 | 184 | 383 | Chris Bernstein |
 | 185 | 382 | Chris Hartig |
 | 186 | 377 | Guy Incognito |
-| 187 | 372 | George Nutt |
-| 188 | 372 | Antony Dwayne Beasley |
+| 187 | 372 | Antony Dwayne Beasley |
+| 188 | 372 | George Nutt |
 | 189 | 370 | Oscar Alberto Perez |
 | 190 | 368 | Holly Jolly |
 | 191 | 368 | Silly Zonebuilder |
@@ -299,8 +299,8 @@
 | 291 | 261 | Zethra Prenisha Rahming |
 | 292 | 260 | Carter Jones |
 | 293 | 259 | John Brunetti |
-| 294 | 259 | Montiette Mcglown |
-| 295 | 259 | Allen Lloyd |
+| 294 | 259 | Allen Lloyd |
+| 295 | 259 | Montiette Mcglown |
 | 296 | 257 | PeaceOs |
 | 297 | 256 | Jade Rian |
 | 298 | 256 | Paige Kittles |
@@ -315,9 +315,9 @@
 | 307 | 248 | Angelito |
 | 308 | 248 | Jose Dejesus |
 | 309 | 245 | 23 |
-| 310 | 244 | Perky Piecegrid |
+| 310 | 244 | Elizabeth Tinoco |
 | 311 | 244 | Christina Black |
-| 312 | 244 | Elizabeth Tinoco |
+| 312 | 244 | Perky Piecegrid |
 | 313 | 243 | Amy Sanford |
 | 314 | 243 | Chair |
 | 315 | 242 | Maureen Flanigan |
@@ -358,8 +358,8 @@
 | 350 | 220 | Nita Wells |
 | 351 | 220 | Dustin York |
 | 352 | 220 | Tina Lopez |
-| 353 | 219 | Orchislactea |
-| 354 | 219 | Shane Vick |
+| 353 | 219 | Shane Vick |
+| 354 | 219 | Orchislactea |
 | 355 | 218 | Janita Parrish |
 | 356 | 217 | Paito |
 | 357 | 217 | Cheery Fitline |

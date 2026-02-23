@@ -44,8 +44,8 @@
 | 36 | 4301 | Mighty Patternzone |
 | 37 | 4199 | Claire Noland |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Corrine Hawks Soriano |
-| 40 | 4120 | Kristen Sceurman |
+| 39 | 4120 | Kristen Sceurman |
+| 40 | 4120 | Corrine Hawks Soriano |
 | 41 | 4086 | PandaMama |
 | 42 | 4006 | CoolKat |
 | 43 | 3960 | Brittany Alicia |
@@ -305,8 +305,8 @@
 | 297 | 1043 | Brave Dropmatch |
 | 298 | 1042 | Mcintosh Brian Shalonda |
 | 299 | 1040 | Rebecca Garland |
-| 300 | 1036 | Allison Lockyer |
-| 301 | 1036 | Amber Shoemaker |
+| 300 | 1036 | Amber Shoemaker |
+| 301 | 1036 | Allison Lockyer |
 | 302 | 1032 | Kristin Gower |
 | 303 | 1029 | Crystal Hoffman |
 | 304 | 1028 | Hillary Crawford |
@@ -386,14 +386,14 @@
 | 378 | 878 | Sinistah42o |
 | 379 | 876 | Brenda Utphall |
 | 380 | 872 | Ashle Scranton |
-| 381 | 869 | BYM4L |
-| 382 | 869 | Venita Ray |
+| 381 | 869 | Venita Ray |
+| 382 | 869 | BYM4L |
 | 383 | 862 | Sarah Massey |
 | 384 | 858 | Lauren Fitzgerald Thomas |
 | 385 | 856 | Jelly |
 | 386 | 856 | Mighty Shatterfit |
-| 387 | 853 | Mandi Douglas Hilt |
-| 388 | 853 | Meghan M |
+| 387 | 853 | Meghan M |
+| 388 | 853 | Mandi Douglas Hilt |
 | 389 | 851 | Johnny Yeates |
 | 390 | 848 | Misti Markijohn |
 | 391 | 846 | Kayla |
@@ -859,9 +859,9 @@
 | 851 | 456 | ItsJennifer Neriss |
 | 852 | 455 | Darlene Bowman |
 | 853 | 453 | Epic Stackzone |
-| 854 | 452 | Sharon Mills |
+| 854 | 452 | Ashley Taylor |
 | 855 | 452 | Cranky Tower |
-| 856 | 452 | Ashley Taylor |
+| 856 | 452 | Sharon Mills |
 | 857 | 452 | Tipsy Filler |
 | 858 | 451 | Stefanie Zonzini-Gagliardi |
 | 859 | 450 | Lathasa Newkirk |
@@ -888,14 +888,14 @@
 | 880 | 438 | Deyawn Smith |
 | 881 | 438 | Kelly Amos |
 | 882 | 438 | Tom Steffen |
-| 883 | 437 | Shalisa Hill |
-| 884 | 437 | Dee Blokk |
-| 885 | 436 | Christina Loftus |
-| 886 | 436 | Regina Knight |
-| 887 | 435 | Snappy snappers |
-| 888 | 435 | Taylor Flowers |
-| 889 | 435 | Janai Vrabel |
-| 890 | 435 | John |
+| 883 | 437 | Dee Blokk |
+| 884 | 437 | Shalisa Hill |
+| 885 | 436 | Regina Knight |
+| 886 | 436 | Christina Loftus |
+| 887 | 435 | Taylor Flowers |
+| 888 | 435 | Janai Vrabel |
+| 889 | 435 | John |
+| 890 | 435 | Snappy snappers |
 | 891 | 434 | Veronics |
 | 892 | 433 | Melissa Koria |
 | 893 | 433 | Snappy Shatterfit |
@@ -903,20 +903,20 @@
 | 895 | 433 | David Scott |
 | 896 | 432 | Michelle Shrum |
 | 897 | 432 | Loopy Brickmatch |
-| 898 | 432 | Michelle Shrum |
+| 898 | 432 | Karen Schweyer |
 | 899 | 431 | Lewis Sturgeon |
 | 900 | 430 | De Hawkins |
 | 901 | 429 | Dandy Combo |
-| 902 | 429 | Ricky Fortune |
-| 903 | 429 | Angel Hunnewell |
+| 902 | 429 | Angel Hunnewell |
+| 903 | 429 | Ricky Fortune |
 | 904 | 428 | Jenn Morin |
 | 905 | 428 | Mike73 |
 | 906 | 428 | Lisa Falcon |
-| 907 | 427 | Jo Nicole |
-| 908 | 427 | Vung Nguyen |
-| 909 | 427 | Gina Caulder |
-| 910 | 427 | Destiny Cozier |
-| 911 | 426 | Kamilya Rembert |
+| 907 | 427 | Destiny Cozier |
+| 908 | 427 | Gina Caulder |
+| 909 | 427 | Jo Nicole |
+| 910 | 427 | Vung Nguyen |
+| 911 | 426 | Rose Fx |
 | 912 | 426 | Trista Carter |
 | 913 | 426 | Kamilya Rembert |
 | 914 | 424 | ToxicTrash |

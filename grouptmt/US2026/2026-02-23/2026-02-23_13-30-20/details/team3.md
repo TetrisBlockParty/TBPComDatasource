@@ -185,15 +185,15 @@
 | 177 | 591 | Michael Nowogorski |
 | 178 | 589 | Kaycee Kay |
 | 179 | 587 | Louise Stacy Sisson |
-| 180 | 585 | Happy Tetriblast |
-| 181 | 585 | Domo Washington |
+| 180 | 585 | Domo Washington |
+| 181 | 585 | Happy Tetriblast |
 | 182 | 583 | Tasha Gillespie |
 | 183 | 582 | Natasha Jones |
 | 184 | 574 | Morgan Martinez |
 | 185 | 568 | Rachael McClain Owens |
 | 186 | 566 | LaTanya GeminiondaRise Johnson |
-| 187 | 564 | Christine Trester |
-| 188 | 564 | Poppy Splitter |
+| 187 | 564 | Poppy Splitter |
+| 188 | 564 | Christine Trester |
 | 189 | 563 | Jim Mathews |
 | 190 | 562 | Dave Herzog |
 | 191 | 561 | Elissa S-k |
@@ -276,8 +276,8 @@
 | 268 | 406 | Kristal C Lee |
 | 269 | 405 | Steffi Chris Dacones |
 | 270 | 404 | Chasity |
-| 271 | 403 | Scott Lindsay |
-| 272 | 403 | lashanda |
+| 271 | 403 | lashanda |
+| 272 | 403 | Scott Lindsay |
 | 273 | 402 | Tina Kay |
 | 274 | 401 | Ashley Tookes |
 | 275 | 395 | rosy |
