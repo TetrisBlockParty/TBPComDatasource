@@ -63,8 +63,8 @@
 | 55 | 870 | BertMofo |
 | 56 | 864 | Shelly Chandler |
 | 57 | 863 | Pee |
-| 58 | 859 | TeeJ |
-| 59 | 859 | Christina LR |
+| 58 | 859 | Christina LR |
+| 59 | 859 | TeeJ |
 | 60 | 846 | Lucille Truesdale |
 | 61 | 846 | Christine Marie |
 | 62 | 834 | quicksand420 |
@@ -127,8 +127,8 @@
 | 119 | 521 | Andy Cabral |
 | 120 | 519 | Nugget |
 | 121 | 517 | shar |
-| 122 | 514 | Scott Jameson |
-| 123 | 514 | Serena Goodridge |
+| 122 | 514 | Serena Goodridge |
+| 123 | 514 | Scott Jameson |
 | 124 | 513 | Erin Thomas |
 | 125 | 512 | Casey Jeffcoat |
 | 126 | 512 | Cristy Duerksen |
@@ -183,8 +183,8 @@
 | 175 | 372 | Antony Dwayne Beasley |
 | 176 | 370 | Oscar Alberto Perez |
 | 177 | 369 | Lindsey Gonzalez |
-| 178 | 368 | Raegan Lane-Ross |
-| 179 | 368 | Brandon Crabbs |
+| 178 | 368 | Brandon Crabbs |
+| 179 | 368 | Raegan Lane-Ross |
 | 180 | 368 | Silly Zonebuilder |
 | 181 | 365 | Jeff Brian Gates |
 | 182 | 361 | Carlos Ramirez |
@@ -207,22 +207,22 @@
 | 199 | 336 | JPW |
 | 200 | 332 | HastyGrabber |
 | 201 | 331 | Alan George LaRage |
-| 202 | 330 | Kathy Brookins |
-| 203 | 330 | blockstar |
+| 202 | 330 | blockstar |
+| 203 | 330 | Kathy Brookins |
 | 204 | 328 | scott |
 | 205 | 327 | J-Rizzle |
-| 206 | 324 | TinyLegoRose |
-| 207 | 324 | jim |
+| 206 | 324 | jim |
+| 207 | 324 | TinyLegoRose |
 | 208 | 321 | Meagan Nicole |
 | 209 | 320 | Lauren Scott |
 | 210 | 319 | Googenheim |
 | 211 | 318 | Chris Hartig |
-| 212 | 317 | Madison Sweere |
-| 213 | 317 | Adawna Swires |
+| 212 | 317 | Adawna Swires |
+| 213 | 317 | Madison Sweere |
 | 214 | 316 | Autumn Kumzi |
 | 215 | 313 | Milan Markeisha |
-| 216 | 312 | Casey Grabner |
-| 217 | 312 | Dihcheese444 |
+| 216 | 312 | Dihcheese444 |
+| 217 | 312 | Casey Grabner |
 | 218 | 311 | Nikki Rae Gordon |
 | 219 | 311 | Mary Ann Pabukis |
 | 220 | 310 | Holly Jolly |
@@ -383,8 +383,8 @@
 | 375 | 194 | SammieJo Guy |
 | 376 | 194 | Zany Twisterfit |
 | 377 | 194 | Eri Kka |
-| 378 | 192 | Twisty Risebuilder |
-| 379 | 192 | Meg |
+| 378 | 192 | Meg |
+| 379 | 192 | Twisty Risebuilder |
 | 380 | 191 | Riverdale |
 | 381 | 191 | Earnest Thompson |
 | 382 | 191 | Norman Klick |
@@ -392,8 +392,8 @@
 | 384 | 189 | Berklie Apedaile |
 | 385 | 189 | Lauren Lamb |
 | 386 | 189 | Cool Towerbuilder |
-| 387 | 188 | Frilly Blocky |
-| 388 | 188 | Sharyn Lemire |
+| 387 | 188 | Sharyn Lemire |
+| 388 | 188 | Frilly Blocky |
 | 389 | 187 | Jenny Wells-Oakley |
 | 390 | 186 | Dandy Cascadefit |
 | 391 | 185 | Eric Wren |
@@ -729,8 +729,8 @@
 | 721 | 98 | Bad company |
 | 722 | 98 | Maurice Daniels |
 | 723 | 98 | Jessi Cinotto |
-| 724 | 97 | Shanon James |
-| 725 | 97 | Rick SJ |
+| 724 | 97 | Rick SJ |
+| 725 | 97 | Shanon James |
 | 726 | 97 | Frisky Matchgrid |
 | 727 | 96 | Krs |
 | 728 | 96 | Bubbly Twistpiece |

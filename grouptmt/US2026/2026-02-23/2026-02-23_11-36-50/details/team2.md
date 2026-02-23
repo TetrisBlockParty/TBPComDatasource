@@ -229,8 +229,8 @@
 | 221 | 1245 | Missie Lawson Gebhardt |
 | 222 | 1240 | Brandon Armstrong |
 | 223 | 1237 | Megan Ferguson Leone |
-| 224 | 1232 | Ambyre Patterson |
-| 225 | 1232 | Groovy Puzzle |
+| 224 | 1232 | Groovy Puzzle |
+| 225 | 1232 | Ambyre Patterson |
 | 226 | 1230 | Megan Garrick |
 | 227 | 1221 | Jane Fong |
 | 228 | 1217 | Brooks Brooks |
@@ -332,8 +332,8 @@
 | 324 | 955 | Angela Bonquiqui Dinish |
 | 325 | 954 | Melissa McCall |
 | 326 | 952 | Arkei Luster |
-| 327 | 951 | Cynthia Ward |
-| 328 | 951 | Wakanda Forever |
+| 327 | 951 | Wakanda Forever |
+| 328 | 951 | Cynthia Ward |
 | 329 | 949 | Steve Man |
 | 330 | 947 | Dedra Steward |
 | 331 | 942 | Cindy Sechler Taninecz |
@@ -354,8 +354,8 @@
 | 346 | 907 | Gene Mills |
 | 347 | 904 | John Bednarik |
 | 348 | 904 | Bee |
-| 349 | 903 | Eric Castaneda |
-| 350 | 903 | Giggy Blocker |
+| 349 | 903 | Giggy Blocker |
+| 350 | 903 | Eric Castaneda |
 | 351 | 902 | Diallo Sparkman |
 | 352 | 901 | Kevin Sees |
 | 353 | 899 | Felicia Lynn |
@@ -469,8 +469,8 @@
 | 461 | 730 | Hoppy Brickmatch |
 | 462 | 729 | goofinoff |
 | 463 | 728 | Mikayala Szaz |
-| 464 | 728 | Tom Riefer |
-| 465 | 728 | Dylan Thomason |
+| 464 | 728 | Dylan Thomason |
+| 465 | 728 | Tom Riefer |
 | 466 | 727 | BeQuo |
 | 467 | 726 | Joce Lynn |
 | 468 | 726 | Crystal Greene |
@@ -718,8 +718,8 @@
 | 710 | 512 | Sassy Linkroll |
 | 711 | 511 | Kristie Wilcox |
 | 712 | 509 | Jordan Kaiser |
-| 713 | 509 | Perky Rollfit |
-| 714 | 509 | Toni Whipple |
+| 713 | 509 | Toni Whipple |
+| 714 | 509 | Perky Rollfit |
 | 715 | 508 | Daphne Jordan |
 | 716 | 507 | Funky Caster |
 | 717 | 507 | Crystal Heller Gonzalez |
@@ -1192,8 +1192,8 @@
 | 1184 | 334 | April Atkins |
 | 1185 | 334 | Melinda Avriett |
 | 1186 | 334 | Katie Joy McCombs |
-| 1187 | 333 | Shilo Anderson |
-| 1188 | 333 | Paula Martinez |
+| 1187 | 333 | Paula Martinez |
+| 1188 | 333 | Shilo Anderson |
 | 1189 | 333 | Erika Deer Kauffman |
 | 1190 | 332 | Steve Webb |
 | 1191 | 331 | Islandlife456 |
