@@ -77,8 +77,8 @@
 | 69 | 1264 | Amanda L Baker |
 | 70 | 1258 | Danielle Cutler |
 | 71 | 1256 | Jessica Bechler |
-| 72 | 1213 | Nerdy Riseclear |
-| 73 | 1213 | Snappy Glidepiece |
+| 72 | 1213 | Snappy Glidepiece |
+| 73 | 1213 | Nerdy Riseclear |
 | 74 | 1209 | Amanda Adkins |
 | 75 | 1186 | Christian A. Pollard |
 | 76 | 1162 | Gracie |
@@ -117,8 +117,8 @@
 | 109 | 869 | Araceli Parra |
 | 110 | 868 | Sarajane Lokan |
 | 111 | 860 | Sunny Rotater |
-| 112 | 851 | Danielle Becker |
-| 113 | 851 | Jd Morris |
+| 112 | 851 | Jd Morris |
+| 113 | 851 | Danielle Becker |
 | 114 | 850 | Danielle Mogg |
 | 115 | 848 | Patricia Gadsden |
 | 116 | 839 | Angeline Joseph |
@@ -138,10 +138,10 @@
 | 130 | 755 | Raya |
 | 131 | 752 | Logan Naccarato |
 | 132 | 748 | Adrian Marcel Pate |
-| 133 | 745 | ren |
-| 134 | 745 | JerseyJess |
-| 135 | 744 | Fancy Cascader |
-| 136 | 744 | Leah Barnett |
+| 133 | 745 | JerseyJess |
+| 134 | 745 | ren |
+| 135 | 744 | Leah Barnett |
+| 136 | 744 | Fancy Cascader |
 | 137 | 736 | mzcatzy |
 | 138 | 734 | Calista Jo Dickson |
 | 139 | 728 | Peppy Shifter |
@@ -179,8 +179,8 @@
 | 171 | 597 | Diana Ibarra |
 | 172 | 591 | Michael Nowogorski |
 | 173 | 587 | Louise Stacy Sisson |
-| 174 | 585 | Happy Tetriblast |
-| 175 | 585 | Domo Washington |
+| 174 | 585 | Domo Washington |
+| 175 | 585 | Happy Tetriblast |
 | 176 | 583 | Tasha Gillespie |
 | 177 | 582 | Natasha Jones |
 | 178 | 574 | Morgan Martinez |
@@ -200,8 +200,8 @@
 | 192 | 546 | Tasha Schriewer |
 | 193 | 546 | Mykal Burton |
 | 194 | 540 | Shawn Miller |
-| 195 | 531 | Chauntee Alfrey-Cardinale |
-| 196 | 531 | Makelini Mausia |
+| 195 | 531 | Makelini Mausia |
+| 196 | 531 | Chauntee Alfrey-Cardinale |
 | 197 | 531 | Sarah Cowan Burgos |
 | 198 | 528 | Silly Twist |
 | 199 | 525 | Stephanie Blkpep Davidson |
@@ -305,7 +305,7 @@
 | 297 | 354 | Kelly |
 | 298 | 354 | Eileen Brady Thurber |
 | 299 | 354 | Andrew Thorson |
-| 300 | 354 | Eileen Brady Thurber |
+| 300 | 353 | Dee Franklin |
 | 301 | 353 | Cyd061769 |
 | 302 | 352 | Christian Werndl |
 | 303 | 352 | LadyTorad |
@@ -464,9 +464,9 @@
 | 456 | 242 | Fancy Curver |
 | 457 | 242 | Joy Petroski |
 | 458 | 241 | Skinny Baldez |
-| 459 | 240 | Trey Ward |
-| 460 | 240 | Rebel124 |
-| 461 | 240 | Beppy |
+| 459 | 240 | Rebel124 |
+| 460 | 240 | Beppy |
+| 461 | 240 | Trey Ward |
 | 462 | 240 | Bambi Jones |
 | 463 | 238 | Jess Dearborn |
 | 464 | 238 | Niki Dalrymple |

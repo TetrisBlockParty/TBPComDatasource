@@ -101,8 +101,8 @@
 | 93 | 659 | Jamie Gustafson |
 | 94 | 653 | Rica Mitchell |
 | 95 | 650 | KJ Pool |
-| 96 | 647 | KM8 |
-| 97 | 647 | Shauna Havard |
+| 96 | 647 | Shauna Havard |
+| 97 | 647 | KM8 |
 | 98 | 646 | Eric Mcgaughy |
 | 99 | 626 | Brittney Griggs |
 | 100 | 624 | Amy Suckarieh |
@@ -160,15 +160,15 @@
 | 152 | 421 | Kesha Brady |
 | 153 | 418 | Marie-Pier Desjardins |
 | 154 | 418 | Lush Linkfall |
-| 155 | 417 | Steph Marie |
-| 156 | 417 | Amanda Pauldo-Ivy |
+| 155 | 417 | Amanda Pauldo-Ivy |
+| 156 | 417 | Steph Marie |
 | 157 | 416 | Chaz Duncan |
-| 158 | 414 | Swanky Fitline |
-| 159 | 414 | Nope Young |
+| 158 | 414 | Nope Young |
+| 159 | 414 | Swanky Fitline |
 | 160 | 413 | Circuit8 |
 | 161 | 412 | Jessica Bohlken |
-| 162 | 406 | Livvy |
-| 163 | 406 | Damn Libra |
+| 162 | 406 | Damn Libra |
+| 163 | 406 | Livvy |
 | 164 | 402 | Lucas J Sutton |
 | 165 | 398 | Tyler Terrific |
 | 166 | 397 | Nick Gray |
@@ -180,8 +180,8 @@
 | 172 | 383 | Chris Bernstein |
 | 173 | 377 | Guy Incognito |
 | 174 | 375 | Desi Desporte |
-| 175 | 372 | Antony Dwayne Beasley |
-| 176 | 372 | George Nutt |
+| 175 | 372 | George Nutt |
+| 176 | 372 | Antony Dwayne Beasley |
 | 177 | 370 | Oscar Alberto Perez |
 | 178 | 369 | Lindsey Gonzalez |
 | 179 | 368 | Raegan Lane-Ross |
@@ -330,7 +330,7 @@
 | 322 | 225 | Kathy Allen |
 | 323 | 225 | Jenna McGeorge |
 | 324 | 224 | Ultramarine |
-| 325 | 223 | Brave Spinbuilder |
+| 325 | 223 | Amanda Christine |
 | 326 | 223 | Chance Strickland |
 | 327 | 223 | Brave Spinbuilder |
 | 328 | 222 | Brandi Durig |
@@ -353,8 +353,8 @@
 | 345 | 214 | Patron Anderson |
 | 346 | 214 | B Renee Desjardin |
 | 347 | 213 | Jackie Marie |
-| 348 | 212 | Mike Solo |
-| 349 | 212 | Zany Shatterer |
+| 348 | 212 | Zany Shatterer |
+| 349 | 212 | Mike Solo |
 | 350 | 211 | Neirrah B Olailjeel |
 | 351 | 210 | Morti |
 | 352 | 209 | Sarah Hoffman |
@@ -575,8 +575,8 @@
 | 567 | 129 | Tamika Starkey |
 | 568 | 129 | Dreamy Snapgrid |
 | 569 | 128 | Zesty Linkgrid |
-| 570 | 128 | Raymond Roberts |
-| 571 | 128 | Lazy Glidepiece |
+| 570 | 128 | Lazy Glidepiece |
+| 571 | 128 | Raymond Roberts |
 | 572 | 127 | Jay You |
 | 573 | 126 | PAPatty |
 | 574 | 126 | Spicy Cascadezone |
@@ -1241,8 +1241,8 @@
 | 1233 | 42 | Dreamy Rollpiece |
 | 1234 | 42 | Michele Badgwell |
 | 1235 | 41 | Clever Fitzone |
-| 1236 | 41 | Tetris |
-| 1237 | 41 | Deion |
+| 1236 | 41 | Deion |
+| 1237 | 41 | Tetris |
 | 1238 | 41 | Dragon De Fuego |
 | 1239 | 41 | Ashlee Johnson |
 | 1240 | 41 | Adam Gruttner |
