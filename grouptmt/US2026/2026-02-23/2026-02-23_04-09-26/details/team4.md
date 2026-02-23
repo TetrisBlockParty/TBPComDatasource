@@ -139,11 +139,11 @@
 | 131 | 435 | Leslie Thomas |
 | 132 | 431 | Courtney Cicoria |
 | 133 | 425 | Monica Daley |
-| 134 | 421 | Kesha Brady |
-| 135 | 421 | JIGsaw ~(•¿°)~ |
+| 134 | 421 | JIGsaw ~(•¿°)~ |
+| 135 | 421 | Kesha Brady |
 | 136 | 419 | Klo |
-| 137 | 418 | Marie-Pier Desjardins |
-| 138 | 418 | Lush Linkfall |
+| 137 | 418 | Lush Linkfall |
+| 138 | 418 | Marie-Pier Desjardins |
 | 139 | 416 | Chaz Duncan |
 | 140 | 414 | Nope Young |
 | 141 | 412 | Jessica Bohlken |
@@ -153,12 +153,12 @@
 | 145 | 399 | Swanky Fitline |
 | 146 | 394 | Livvy |
 | 147 | 393 | Trish |
-| 148 | 393 | Girl |
-| 149 | 393 | Carlton Unfiltered |
+| 148 | 393 | Carlton Unfiltered |
+| 149 | 393 | Girl |
 | 150 | 391 | Ramel Rhodes |
 | 151 | 389 | Joseph Guthrie |
-| 152 | 387 | Lucas J Sutton |
-| 153 | 387 | 🥔🥔 Spudz |
+| 152 | 387 | 🥔🥔 Spudz |
+| 153 | 387 | Lucas J Sutton |
 | 154 | 377 | Carrie Brian |
 | 155 | 375 | Desi Desporte |
 | 156 | 375 | ThaEviLJeNiuZ |
@@ -280,8 +280,8 @@
 | 272 | 233 | Ruben Wheeler |
 | 273 | 232 | Rio Rocha |
 | 274 | 228 | Bethany Ison |
-| 275 | 226 | Dizzy Matchzone |
-| 276 | 226 | Cranky Rollpiece |
+| 275 | 226 | Cranky Rollpiece |
+| 276 | 226 | Dizzy Matchzone |
 | 277 | 225 | Jenna McGeorge |
 | 278 | 223 | Amanda Christine |
 | 279 | 223 | Adawna Swires |

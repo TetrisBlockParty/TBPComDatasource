@@ -104,8 +104,8 @@
 | 96 | 2170 | Steve Grotto |
 | 97 | 2165 | Tj Ball |
 | 98 | 2155 | Qiana Sanders |
-| 99 | 2148 | ShinyRose |
-| 100 | 2148 | Roger Grabbit |
+| 99 | 2148 | Roger Grabbit |
+| 100 | 2148 | ShinyRose |
 | 101 | 2146 | KellyDyan |
 | 102 | 2106 | Cool Rollpiece |
 | 103 | 2103 | Alisha Peoples |
@@ -153,12 +153,12 @@
 | 145 | 1588 | Mema |
 | 146 | 1581 | Brandy Andre |
 | 147 | 1580 | Heather Westrum |
-| 148 | 1578 | Loopy Clusterbuilder |
-| 149 | 1578 | Sally Dennis |
+| 148 | 1578 | Sally Dennis |
+| 149 | 1578 | Loopy Clusterbuilder |
 | 150 | 1571 | Alisa Lamb |
 | 151 | 1560 | Donnie Hunt |
-| 152 | 1558 | Tim Dyer |
-| 153 | 1558 | Stephen Stephen |
+| 152 | 1558 | Stephen Stephen |
+| 153 | 1558 | Tim Dyer |
 | 154 | 1555 | blarg |
 | 155 | 1541 | Cherica Taylor |
 | 156 | 1537 | Desiree Harris Rosch |
@@ -273,8 +273,8 @@
 | 265 | 1043 | Brave Dropmatch |
 | 266 | 1043 | nikki |
 | 267 | 1041 | Bri Lynn |
-| 268 | 1036 | Amber Shoemaker |
-| 269 | 1036 | Allison Lockyer |
+| 268 | 1036 | Allison Lockyer |
+| 269 | 1036 | Amber Shoemaker |
 | 270 | 1026 | Kristin Gower |
 | 271 | 1024 | Susan Perraut Jones |
 | 272 | 1024 | Taylor Phillips |
@@ -321,8 +321,8 @@
 | 313 | 916 | Butta |
 | 314 | 915 | Kelly Trent |
 | 315 | 914 | Shuany Arias |
-| 316 | 907 | Michelle Lee |
-| 317 | 907 | Gene Mills |
+| 316 | 907 | Gene Mills |
+| 317 | 907 | Michelle Lee |
 | 318 | 904 | Jennifer Aiken |
 | 319 | 904 | John Bednarik |
 | 320 | 902 | Brittany Radaszewski |
@@ -521,8 +521,8 @@
 | 513 | 617 | Darcy Mae |
 | 514 | 617 | Kacee Conrad Bock |
 | 515 | 616 | Lylymom |
-| 516 | 615 | Julio A Laracuente |
-| 517 | 615 | Lyndi Robinson Wakefield |
+| 516 | 615 | Lyndi Robinson Wakefield |
+| 517 | 615 | Julio A Laracuente |
 | 518 | 614 | Emilee Burke |
 | 519 | 613 | Biggest thing |
 | 520 | 612 | Briana Alexander |
@@ -661,9 +661,9 @@
 | 653 | 494 | Cat Thompson |
 | 654 | 494 | Melanie Csikortos |
 | 655 | 494 | Mia Muse Best |
-| 656 | 494 | Cat Thompson |
-| 657 | 493 | Sue Leard |
-| 658 | 493 | Kristie Wilcox |
+| 656 | 494 | Snippy Rumbler |
+| 657 | 493 | Kristie Wilcox |
+| 658 | 493 | Sue Leard |
 | 659 | 493 | Skyler Morgan |
 | 660 | 492 | Christina Wsn |
 | 661 | 492 | Breezy Clusterer |
@@ -937,11 +937,11 @@
 | 929 | 369 | Amanda Canterbury |
 | 930 | 368 | Lively Piecebuilder |
 | 931 | 367 | Sarah Dean |
-| 932 | 366 | Ashley Criner |
-| 933 | 366 | Yasmin Guzman |
+| 932 | 366 | Yasmin Guzman |
+| 933 | 366 | Ashley Criner |
 | 934 | 366 | Christine Coughlin |
-| 935 | 365 | Dee Blokk |
-| 936 | 365 | Wes Acton |
+| 935 | 365 | Wes Acton |
+| 936 | 365 | Dee Blokk |
 | 937 | 364 | Jamie Willis |
 | 938 | 364 | Allyson Marra |
 | 939 | 364 | Jessica Galick |
@@ -955,8 +955,8 @@
 | 947 | 358 | Sydney Busse |
 | 948 | 358 | Nutty Slice |
 | 949 | 358 | Alyssaaelena |
-| 950 | 358 | Jenn Marie |
-| 951 | 358 | Barry Britt |
+| 950 | 358 | Barry Britt |
+| 951 | 358 | Jenn Marie |
 | 952 | 358 | Kiorah Blaze |
 | 953 | 357 | Megan Phillips |
 | 954 | 357 | Shannon Byrd |

@@ -102,8 +102,8 @@
 | 94 | 519 | Ryan Lunnin |
 | 95 | 510 | Colena Davenport |
 | 96 | 496 | Arianna O'Brien |
-| 97 | 493 | Jennifer ManWarren |
-| 98 | 493 | MomMom |
+| 97 | 493 | MomMom |
+| 98 | 493 | Jennifer ManWarren |
 | 99 | 492 | Ash Galvan |
 | 100 | 489 | Deanna L Hermanson |
 | 101 | 488 | cc |
@@ -158,8 +158,8 @@
 | 150 | 368 | Amanda Johnson Huffman |
 | 151 | 367 | Sharon Reynolds |
 | 152 | 365 | Carrie Smith |
-| 153 | 364 | Shauna Loe |
-| 154 | 364 | Serina Marie |
+| 153 | 364 | Serina Marie |
+| 154 | 364 | Shauna Loe |
 | 155 | 360 | Wisa |
 | 156 | 355 | Amanda Jarnagin |
 | 157 | 353 | Josh Riemer |
@@ -241,8 +241,8 @@
 | 233 | 263 | Jessie Lynn |
 | 234 | 263 | Perky Shiftsnap |
 | 235 | 261 | John J. Cronin |
-| 236 | 260 | Marianita Garcia |
-| 237 | 260 | Lacy Wolfe |
+| 236 | 260 | Lacy Wolfe |
+| 237 | 260 | Marianita Garcia |
 | 238 | 255 | Giggly Builderline |
 | 239 | 254 | Al Smith Jr |
 | 240 | 253 | Sarah Somers Gray |
@@ -430,8 +430,8 @@
 | 422 | 160 | Plucky Stacky |
 | 423 | 160 | Jeremy Maubert |
 | 424 | 160 | Sunny Catcher |
-| 425 | 159 | Krista Young |
-| 426 | 159 | Uhog SF |
+| 425 | 159 | Uhog SF |
+| 426 | 159 | Krista Young |
 | 427 | 158 | Teddy Alexander |
 | 428 | 158 | Marc Abney |
 | 429 | 157 | Mel Fab |
