@@ -1648,7 +1648,7 @@
 | 1640 | 307 | Hyper Gridroll |
 | 1641 | 307 | Lazy Riseclear |
 | 1642 | 307 | Hannah Dean |
-| 1643 | 307 | Nicki Stephens |
+| 1643 | 307 | Tara Smalls |
 | 1644 | 307 | Fancy Smasher |
 | 1645 | 307 | Nicki Stephens |
 | 1646 | 307 | Darlene Tucker |

@@ -243,9 +243,9 @@
 | 235 | 357 | Teri Oehlke |
 | 236 | 357 | Paula Martin |
 | 237 | 354 | Dino |
-| 238 | 353 | Josh Riemer |
-| 239 | 353 | Jaimie Lynn |
-| 240 | 353 | Reesey Enyart |
+| 238 | 353 | Jaimie Lynn |
+| 239 | 353 | Reesey Enyart |
+| 240 | 353 | Josh Riemer |
 | 241 | 351 | Tyler Hertzog |
 | 242 | 350 | Tipsy Strikerpiece |
 | 243 | 349 | Cool Shiftsnap |
