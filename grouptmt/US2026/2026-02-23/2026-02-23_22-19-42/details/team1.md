@@ -70,8 +70,8 @@
 | 62 | 985 | Jason Jones |
 | 63 | 981 | Kristen Roles Robben |
 | 64 | 978 | Amber Stoker |
-| 65 | 974 | TSwag |
-| 66 | 974 | Veronica Eve |
+| 65 | 974 | Veronica Eve |
+| 66 | 974 | TSwag |
 | 67 | 966 | Shalene Frederick Autrey |
 | 68 | 963 | Francesca Gee |
 | 69 | 951 | Zippy Align |
@@ -102,8 +102,8 @@
 | 94 | 740 | Lori Sanders- Davis |
 | 95 | 722 | Kellie |
 | 96 | 717 | Madison Wicks |
-| 97 | 706 | Plucky Fallzone |
-| 98 | 706 | Denice Dee |
+| 97 | 706 | Denice Dee |
+| 98 | 706 | Plucky Fallzone |
 | 99 | 704 | Karin Gillen |
 | 100 | 703 | Angel Fowler |
 | 101 | 679 | Melissa Lemmon |
@@ -143,8 +143,8 @@
 | 135 | 534 | Loony Fitzone |
 | 136 | 531 | Christy Jones |
 | 137 | 527 | Tonya Beasley |
-| 138 | 524 | ALFD |
-| 139 | 524 | Tipsy Riseclear |
+| 138 | 524 | Tipsy Riseclear |
+| 139 | 524 | ALFD |
 | 140 | 523 | BadG52 |
 | 141 | 522 | Tanya Carpenter-Reynolds |
 | 142 | 521 | Nery Martinez |
@@ -313,8 +313,8 @@
 | 305 | 309 | Larry Tilton |
 | 306 | 308 | Glitzy Curvebuilder |
 | 307 | 306 | Cece Ibarra |
-| 308 | 305 | Amh |
-| 309 | 305 | Chase Collinsworth |
+| 308 | 305 | Chase Collinsworth |
+| 309 | 305 | Amh |
 | 310 | 303 | DaRascal |
 | 311 | 302 | LaFontaine Leslie |
 | 312 | 302 | Bird Person |
@@ -428,9 +428,9 @@
 | 420 | 238 | ash |
 | 421 | 236 | Marie White |
 | 422 | 236 | Snappy Bridgepiece |
-| 423 | 235 | Nutty Glide |
-| 424 | 235 | Jumpy Rotate |
-| 425 | 235 | Theeranart Mahawan |
+| 423 | 235 | Theeranart Mahawan |
+| 424 | 235 | Nutty Glide |
+| 425 | 235 | Jumpy Rotate |
 | 426 | 233 | Amie Fields |
 | 427 | 232 | Itspaigebro |
 | 428 | 232 | Jennifer Olewnik Soborowski |

@@ -142,15 +142,15 @@
 | 134 | 584 | Carlton Unfiltered |
 | 135 | 575 | Jenna Ingersoll |
 | 136 | 574 | Carmethia Clemons Haslerig |
-| 137 | 573 | Cursed Hag |
-| 138 | 573 | shar |
+| 137 | 573 | shar |
+| 138 | 573 | Cursed Hag |
 | 139 | 561 | YoMomma |
 | 140 | 560 | Chastity Mitchell |
 | 141 | 554 | Carlos Ramirez |
 | 142 | 551 | Ren Mc |
 | 143 | 546 | Dizzy Tiley |
-| 144 | 545 | Livvy |
-| 145 | 545 | Desi Desporte |
+| 144 | 545 | Desi Desporte |
+| 145 | 545 | Livvy |
 | 146 | 542 | Austin Owens |
 | 147 | 540 | Rodney McMath Jr. |
 | 148 | 536 | Kimberlee Jan Beckstead |
@@ -178,8 +178,8 @@
 | 170 | 499 | Ernest Maxwell |
 | 171 | 497 | Brandon Crabbs |
 | 172 | 496 | Cindy Looper |
-| 173 | 491 | Carrie Brian |
-| 174 | 491 | Jade Rian |
+| 173 | 491 | Jade Rian |
+| 174 | 491 | Carrie Brian |
 | 175 | 489 | Swanky Fitline |
 | 176 | 487 | Sam Bishop |
 | 177 | 485 | Rico |
@@ -195,8 +195,8 @@
 | 187 | 465 | Jolly Dashfit |
 | 188 | 464 | Sharyn Lemire |
 | 189 | 462 | Leslie Thomas |
-| 190 | 457 | June Hoffman |
-| 191 | 457 | Kristin Manee |
+| 190 | 457 | Kristin Manee |
+| 191 | 457 | June Hoffman |
 | 192 | 455 | Michele Plunkett |
 | 193 | 450 | Amanda Pauldo-Ivy |
 | 194 | 449 | Rebecca Morris |
@@ -222,12 +222,12 @@
 | 214 | 422 | Zakia Monae |
 | 215 | 421 | JIGsaw ~(•¿°)~ |
 | 216 | 419 | Chris Bernstein |
-| 217 | 418 | Lush Linkfall |
-| 218 | 418 | Marie-Pier Desjardins |
+| 217 | 418 | Marie-Pier Desjardins |
+| 218 | 418 | Lush Linkfall |
 | 219 | 413 | John Brunetti |
 | 220 | 411 | Mimi |
-| 221 | 411 | Silly Zonebuilder |
-| 222 | 411 | Autumn Kumzi |
+| 221 | 411 | Autumn Kumzi |
+| 222 | 411 | Silly Zonebuilder |
 | 223 | 409 | Antony Dwayne Beasley |
 | 224 | 400 | TinyLegoRose |
 | 225 | 399 | Lindsay Ball |
@@ -235,8 +235,8 @@
 | 227 | 398 | Tyler Terrific |
 | 228 | 394 | Nita Wells |
 | 229 | 390 | Kathy Brookins |
-| 230 | 389 | Brickh4us |
-| 231 | 389 | Joseph Guthrie |
+| 230 | 389 | Joseph Guthrie |
+| 231 | 389 | Brickh4us |
 | 232 | 388 | Calvin Cannon |
 | 233 | 385 | 030Synner |
 | 234 | 384 | Bio Nelly |
@@ -371,8 +371,8 @@
 | 363 | 265 | Sarah Neathery |
 | 364 | 265 | Christine Therrien |
 | 365 | 264 | AyeKay |
-| 366 | 262 | Selena Shaw |
-| 367 | 262 | Ruben Wheeler |
+| 366 | 262 | Ruben Wheeler |
+| 367 | 262 | Selena Shaw |
 | 368 | 261 | Jason Frehner |
 | 369 | 260 | Carter Jones |
 | 370 | 259 | Allen Lloyd |

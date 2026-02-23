@@ -309,8 +309,8 @@
 | 301 | 1216 | Pacynthia Williams |
 | 302 | 1216 | Ashie Ann |
 | 303 | 1214 | David Cudicio-Hayden |
-| 304 | 1211 | Ricardo Burton |
-| 305 | 1211 | Cynthia Ward |
+| 304 | 1211 | Cynthia Ward |
+| 305 | 1211 | Ricardo Burton |
 | 306 | 1210 | Amber Gray |
 | 307 | 1191 | Jess Morrison |
 | 308 | 1188 | Amber Brion |
@@ -323,8 +323,8 @@
 | 315 | 1164 | Hillary Crawford |
 | 316 | 1163 | Erika Densmore |
 | 317 | 1158 | Brittany Clark |
-| 318 | 1156 | Alezandra Smith |
-| 319 | 1156 | Arkei Luster |
+| 318 | 1156 | Arkei Luster |
+| 319 | 1156 | Alezandra Smith |
 | 320 | 1155 | F-X |
 | 321 | 1145 | Deborah Miller |
 | 322 | 1142 | April Dawn Gussler |
@@ -443,15 +443,15 @@
 | 435 | 907 | Gene Mills |
 | 436 | 905 | Adam Simmons |
 | 437 | 903 | Ashle Scranton |
-| 438 | 903 | Sarah DeHart |
-| 439 | 903 | Eric Castaneda |
+| 438 | 903 | Eric Castaneda |
+| 439 | 903 | Sarah DeHart |
 | 440 | 902 | Brenda Utphall |
 | 441 | 899 | Patrick Bartlett |
 | 442 | 899 | Chevy |
 | 443 | 898 | Dylan Thomason |
 | 444 | 897 | Jamie Schmitt |
-| 445 | 895 | Donna Colby |
-| 446 | 895 | Lisa Ongtowasruk |
+| 445 | 895 | Lisa Ongtowasruk |
+| 446 | 895 | Donna Colby |
 | 447 | 894 | Adira Brown |
 | 448 | 892 | Samantha Scibelli |
 | 449 | 890 | Alex Stone LaRue |
@@ -531,8 +531,8 @@
 | 523 | 790 | Mama T |
 | 524 | 789 | Leslie Jorgenson |
 | 525 | 788 | Samuel Macon |
-| 526 | 786 | Charvi' Carter |
-| 527 | 786 | Kimberly Randesi |
+| 526 | 786 | Kimberly Randesi |
+| 527 | 786 | Charvi' Carter |
 | 528 | 785 | Miranda Morris |
 | 529 | 781 | Sarah Berger |
 | 530 | 779 | Trinity Oak |
@@ -581,8 +581,8 @@
 | 573 | 737 | Breezy Clusterer |
 | 574 | 736 | Ashley Munn |
 | 575 | 734 | Emily Lyric Converse |
-| 576 | 733 | Joce Lynn |
-| 577 | 733 | Lylymom |
+| 576 | 733 | Lylymom |
+| 577 | 733 | Joce Lynn |
 | 578 | 733 | Christine Bollig |
 | 579 | 731 | Melissa Holsinger |
 | 580 | 729 | goofinoff |

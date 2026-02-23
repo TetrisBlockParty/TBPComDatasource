@@ -280,13 +280,13 @@
 | 272 | 490 | Marci Mize Fandrich |
 | 273 | 486 | Eileen Brady Thurber |
 | 274 | 482 | Chummy Rumbler |
-| 275 | 482 | Fancy Curver |
-| 276 | 482 | Isabel Ocasio |
+| 275 | 482 | Isabel Ocasio |
+| 276 | 482 | Fancy Curver |
 | 277 | 479 | Stephanie Bradley |
 | 278 | 477 | Hyper Matchzone |
 | 279 | 476 | Shunta Jacobs |
-| 280 | 475 | Rebecca Bailey |
-| 281 | 475 | Tasha Wesson-Torrence |
+| 280 | 475 | Tasha Wesson-Torrence |
+| 281 | 475 | Rebecca Bailey |
 | 282 | 474 | Tiffanie Alley |
 | 283 | 473 | Rebecca Funderburk Kirby |
 | 284 | 471 | Mendoza Lee Christy |
@@ -304,8 +304,8 @@
 | 296 | 453 | Sarah Moyer |
 | 297 | 451 | Charles Perrone |
 | 298 | 450 | Antonia Russell |
-| 299 | 449 | Mcathen |
-| 300 | 449 | Stefanie LaPointe |
+| 299 | 449 | Stefanie LaPointe |
+| 300 | 449 | Mcathen |
 | 301 | 448 | Scott Carleton |
 | 302 | 443 | Randy Clevenger |
 | 303 | 437 | Loopy Clusterer |
@@ -314,8 +314,8 @@
 | 306 | 433 | Skippy |
 | 307 | 432 | Luciana Braganca Vieira |
 | 308 | 431 | Wendy Dearden |
-| 309 | 430 | Jeni Dow |
-| 310 | 430 | Quackers |
+| 309 | 430 | Quackers |
+| 310 | 430 | Jeni Dow |
 | 311 | 430 | Jennifer Alvey |
 | 312 | 429 | Carrie Huskey |
 | 313 | 428 | Samantha Lynn |
