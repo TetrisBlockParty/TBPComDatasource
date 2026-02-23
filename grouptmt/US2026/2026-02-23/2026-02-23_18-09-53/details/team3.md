@@ -219,8 +219,8 @@
 | 211 | 560 | Juliana Dottore |
 | 212 | 560 | FuzzyNavel |
 | 213 | 559 | Patti Skiles |
-| 214 | 558 | Chasity |
-| 215 | 558 | Bmo |
+| 214 | 558 | Bmo |
+| 215 | 558 | Chasity |
 | 216 | 549 | Sarah Cowan Burgos |
 | 217 | 548 | Danielle Balcom |
 | 218 | 547 | Staci George Fitzsimmons |
@@ -229,8 +229,8 @@
 | 221 | 545 | Trisha Balmer |
 | 222 | 539 | Betty Bóò |
 | 223 | 538 | Annie Déè |
-| 224 | 537 | Aerian Preston |
-| 225 | 537 | Tessina Dewey-Mancino |
+| 224 | 537 | Tessina Dewey-Mancino |
+| 225 | 537 | Aerian Preston |
 | 226 | 537 | Tamara Deherrera |
 | 227 | 531 | Chauntee Alfrey-Cardinale |
 | 228 | 530 | Stephanie Blkpep Davidson |
@@ -275,8 +275,8 @@
 | 267 | 451 | Micayah Stevens |
 | 268 | 449 | Mcathen |
 | 269 | 448 | Scott Carleton |
-| 270 | 443 | Fancy Curver |
-| 271 | 443 | Stefanie LaPointe |
+| 270 | 443 | Stefanie LaPointe |
+| 271 | 443 | Fancy Curver |
 | 272 | 443 | Randy Clevenger |
 | 273 | 442 | Marquita Sheard |
 | 274 | 437 | Loopy Clusterer |
@@ -526,8 +526,8 @@
 | 518 | 256 | Brysten Green |
 | 519 | 256 | Chenoa Urban Sophicated Redy |
 | 520 | 256 | Crystal Hine |
-| 521 | 255 | LaNette Morgan |
-| 522 | 255 | Mariah Williams |
+| 521 | 255 | Mariah Williams |
+| 522 | 255 | LaNette Morgan |
 | 523 | 255 | Jolly Dashpiece |
 | 524 | 254 | Katheline Lazo Luizaga |
 | 525 | 254 | Landycandii |
@@ -547,14 +547,14 @@
 | 539 | 250 | Bekah Dietrich |
 | 540 | 248 | Smiley Zone |
 | 541 | 247 | Carrie Resler |
-| 542 | 245 | Latoya Mayne |
-| 543 | 245 | Fredd Thomas |
+| 542 | 245 | Fredd Thomas |
+| 543 | 245 | Latoya Mayne |
 | 544 | 245 | Peachy Tower |
 | 545 | 244 | TLM |
 | 546 | 244 | Beezwax |
 | 547 | 244 | Amanda Fulton |
-| 548 | 243 | Nicholas Roddy |
-| 549 | 243 | Kristy Manley |
+| 548 | 243 | Kristy Manley |
+| 549 | 243 | Nicholas Roddy |
 | 550 | 242 | Misstery |
 | 551 | 242 | Heather Bateman |
 | 552 | 242 | BŘŰŤİÇŨŚ |

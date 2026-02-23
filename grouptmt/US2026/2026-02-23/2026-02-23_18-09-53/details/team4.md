@@ -56,9 +56,9 @@
 | 48 | 1147 | Jae Job |
 | 49 | 1099 | Ashley Ingram |
 | 50 | 1085 | Kimyatta Cavin |
-| 51 | 1082 | Dion Crommarty |
-| 52 | 1082 | Avy Absol |
-| 53 | 1082 | Dawn Alexander |
+| 51 | 1082 | Dawn Alexander |
+| 52 | 1082 | Dion Crommarty |
+| 53 | 1082 | Avy Absol |
 | 54 | 1049 | Heather Tushner |
 | 55 | 1046 | Johnathan Martinez |
 | 56 | 1030 | Dustee Craddock-Harrison |
@@ -142,8 +142,8 @@
 | 134 | 545 | Desi Desporte |
 | 135 | 542 | Austin Owens |
 | 136 | 540 | Rodney McMath Jr. |
-| 137 | 538 | Carlos Ramirez |
-| 138 | 538 | shar |
+| 137 | 538 | shar |
+| 138 | 538 | Carlos Ramirez |
 | 139 | 531 | Serena Goodridge |
 | 140 | 529 | Cool Towerbuilder |
 | 141 | 528 | Kimberlee Jan Beckstead |
@@ -384,8 +384,8 @@
 | 376 | 235 | Shainne Brewer |
 | 377 | 234 | Richard-April Kice |
 | 378 | 234 | Shanon Klair |
-| 379 | 234 | Amanda Christine |
-| 380 | 234 | Diosa Ebalobo Magsael |
+| 379 | 234 | Diosa Ebalobo Magsael |
+| 380 | 234 | Amanda Christine |
 | 381 | 233 | Joseph Edmonson |
 | 382 | 232 | Jenny Wells-Oakley |
 | 383 | 231 | SAP |
@@ -398,7 +398,7 @@
 | 390 | 223 | Brave Spinbuilder |
 | 391 | 222 | Paito |
 | 392 | 222 | Alan Zukowski |
-| 393 | 222 | Rhys Morgan |
+| 393 | 222 | Badatvs |
 | 394 | 222 | Brandi Durig |
 | 395 | 222 | Rhys Morgan |
 | 396 | 221 | Mackenzie Forrester |
