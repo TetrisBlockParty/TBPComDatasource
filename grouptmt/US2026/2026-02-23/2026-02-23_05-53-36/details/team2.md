@@ -211,8 +211,8 @@
 | 203 | 1282 | Tanya Parsons |
 | 204 | 1282 | Ashley Rose Frederick |
 | 205 | 1259 | Foxxo |
-| 206 | 1258 | Snappy Matchbuilder |
-| 207 | 1258 | Joyce Johnson Vaughn |
+| 206 | 1258 | Joyce Johnson Vaughn |
+| 207 | 1258 | Snappy Matchbuilder |
 | 208 | 1252 | Angel |
 | 209 | 1245 | Cody Nishimura |
 | 210 | 1237 | Megan Ferguson Leone |
@@ -368,8 +368,8 @@
 | 360 | 831 | Christina Lewis-Vickers |
 | 361 | 830 | Diallo Sparkman |
 | 362 | 829 | Jessica Wayne Cornwall |
-| 363 | 824 | Danielle Johnson-Chandler |
-| 364 | 824 | Khalil Lowe |
+| 363 | 824 | Khalil Lowe |
+| 364 | 824 | Danielle Johnson-Chandler |
 | 365 | 823 | Alezandra Smith |
 | 366 | 822 | Lola Contreras |
 | 367 | 821 | Angie Bolton Workman |
@@ -432,9 +432,9 @@
 | 424 | 746 | Aimee Campbell |
 | 425 | 741 | Jánine Riggs |
 | 426 | 740 | Jerry Tempelmeyer |
-| 427 | 737 | Ginger |
-| 428 | 737 | Jeremy Parodi |
-| 429 | 737 | Chelle |
+| 427 | 737 | Jeremy Parodi |
+| 428 | 737 | Chelle |
+| 429 | 737 | Ginger |
 | 430 | 736 | John Rodriguez |
 | 431 | 732 | Victoria Moore-Smith |
 | 432 | 731 | Charvi' Carter |
@@ -948,9 +948,9 @@
 | 940 | 380 | bru |
 | 941 | 380 | Zesty Pivot |
 | 942 | 379 | stacey |
-| 943 | 378 | Kelly Walters |
-| 944 | 378 | Ubu |
-| 945 | 378 | Elizabeth Leinen |
+| 943 | 378 | Ubu |
+| 944 | 378 | Elizabeth Leinen |
+| 945 | 378 | Kelly Walters |
 | 946 | 377 | NickyBrooks |
 | 947 | 377 | Frank Castle |
 | 948 | 376 | Kristen Casale Berry |

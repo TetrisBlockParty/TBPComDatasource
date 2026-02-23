@@ -78,8 +78,8 @@
 | 70 | 706 | Seante Bullock |
 | 71 | 705 | comrade fish |
 | 72 | 704 | Karin Gillen |
-| 73 | 703 | Angel Fowler |
-| 74 | 703 | Snappy Swiper |
+| 73 | 703 | Snappy Swiper |
+| 74 | 703 | Angel Fowler |
 | 75 | 657 | Cynthia Bradley |
 | 76 | 655 | Brenda Stewart |
 | 77 | 647 | Jason Jones |
@@ -129,8 +129,8 @@
 | 121 | 443 | Steve Schneider |
 | 122 | 439 | Dee Perry |
 | 123 | 436 | Tonya Beasley |
-| 124 | 434 | Yvonne Marie |
-| 125 | 434 | Ty Brown |
+| 124 | 434 | Ty Brown |
+| 125 | 434 | Yvonne Marie |
 | 126 | 429 | Kristi Johnson |
 | 127 | 428 | Ly Phethmany |
 | 128 | 426 | Maria C. Hernandez |
@@ -170,8 +170,8 @@
 | 162 | 360 | Wisa |
 | 163 | 357 | David Lutcher |
 | 164 | 355 | Amanda Jarnagin |
-| 165 | 353 | Jaimie Lynn |
-| 166 | 353 | Josh Riemer |
+| 165 | 353 | Josh Riemer |
+| 166 | 353 | Jaimie Lynn |
 | 167 | 350 | Tipsy Strikerpiece |
 | 168 | 349 | Cool Shiftsnap |
 | 169 | 346 | GATOR |
@@ -210,8 +210,8 @@
 | 202 | 307 | Snappy Matcher |
 | 203 | 307 | femmefatale |
 | 204 | 306 | Angela Renea Lester |
-| 205 | 301 | Damon J. Martin |
-| 206 | 301 | Cody Gates |
+| 205 | 301 | Cody Gates |
+| 206 | 301 | Damon J. Martin |
 | 207 | 300 | Sleepysloath5745 |
 | 208 | 298 | Billie Ann Eason |
 | 209 | 294 | Bindi |

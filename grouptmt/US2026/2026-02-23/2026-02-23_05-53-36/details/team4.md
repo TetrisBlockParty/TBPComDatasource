@@ -59,8 +59,8 @@
 | 51 | 870 | BertMofo |
 | 52 | 863 | Pee |
 | 53 | 853 | TeeJ |
-| 54 | 846 | Lucille Truesdale |
-| 55 | 846 | Christine Marie |
+| 54 | 846 | Christine Marie |
+| 55 | 846 | Lucille Truesdale |
 | 56 | 845 | LisaJo Picken Buchanan |
 | 57 | 843 | Shelly Chandler |
 | 58 | 834 | quicksand420 |
@@ -68,8 +68,8 @@
 | 60 | 807 | Rachel Anne |
 | 61 | 803 | Amelpss |
 | 62 | 788 | Julian Garcia |
-| 63 | 781 | Ashley Ingram |
-| 64 | 781 | Chilly Line |
+| 63 | 781 | Chilly Line |
+| 64 | 781 | Ashley Ingram |
 | 65 | 767 | Shannon Ferrari |
 | 66 | 766 | Edward White |
 | 67 | 766 | Robin Watters |
@@ -88,8 +88,8 @@
 | 80 | 697 | Alyssa Papen |
 | 81 | 696 | Shane Kalamata Platoon |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Jonathan Kimbrough |
-| 84 | 684 | Kimyatta Cavin |
+| 83 | 684 | Kimyatta Cavin |
+| 84 | 684 | Jonathan Kimbrough |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | KM8 |
-| 93 | 647 | Shauna Havard |
+| 92 | 647 | Shauna Havard |
+| 93 | 647 | KM8 |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -124,8 +124,8 @@
 | 116 | 514 | Serena Goodridge |
 | 117 | 514 | Scott Jameson |
 | 118 | 513 | Erin Thomas |
-| 119 | 512 | Casey Jeffcoat |
-| 120 | 512 | Cristy Duerksen |
+| 119 | 512 | Cristy Duerksen |
+| 120 | 512 | Casey Jeffcoat |
 | 121 | 511 | Lori Walker |
 | 122 | 482 | Ren Mc |
 | 123 | 481 | Jessica Lynn Cutlip |
@@ -164,8 +164,8 @@
 | 156 | 391 | Ramel Rhodes |
 | 157 | 389 | Joseph Guthrie |
 | 158 | 387 | Lucas J Sutton |
-| 159 | 375 | ThaEviLJeNiuZ |
-| 160 | 375 | Desi Desporte |
+| 159 | 375 | Desi Desporte |
+| 160 | 375 | ThaEviLJeNiuZ |
 | 161 | 374 | Guy Incognito |
 | 162 | 370 | Oscar Alberto Perez |
 | 163 | 369 | Lindsey Gonzalez |
@@ -174,8 +174,8 @@
 | 166 | 368 | Raegan Lane-Ross |
 | 167 | 368 | Silly Zonebuilder |
 | 168 | 365 | Jeff Brian Gates |
-| 169 | 361 | Danielle Kollias |
-| 170 | 361 | Melissa Adams |
+| 169 | 361 | Melissa Adams |
+| 170 | 361 | Danielle Kollias |
 | 171 | 359 | Keith Kelley |
 | 172 | 358 | A5! |
 | 173 | 356 | George Nutt |
@@ -218,8 +218,8 @@
 | 210 | 294 | Calvin Cannon |
 | 211 | 294 | Porkobello |
 | 212 | 292 | Epic Curvetile |
-| 213 | 290 | Jared Gutwein |
-| 214 | 290 | Plucky Patternblock |
+| 213 | 290 | Plucky Patternblock |
+| 214 | 290 | Jared Gutwein |
 | 215 | 290 | Rebecca Morris |
 | 216 | 288 | Adam Stephanie Parker |
 | 217 | 288 | Zesty Twistbuilder |
@@ -412,12 +412,12 @@
 | 404 | 169 | Duck |
 | 405 | 169 | Jessica Atkinson |
 | 406 | 168 | Ruby Khalisadar |
-| 407 | 167 | Tyler Bechtel |
-| 408 | 167 | Snippy Clearer |
-| 409 | 167 | Carla Harris |
+| 407 | 167 | Snippy Clearer |
+| 408 | 167 | Carla Harris |
+| 409 | 167 | Tyler Bechtel |
 | 410 | 166 | Gracie Ann Taylor |
 | 411 | 166 | Reds Bella |
-| 412 | 165 | Vic |
+| 412 | 165 | Perky Piecegrid |
 | 413 | 165 | Zappy Buildgrid |
 | 414 | 165 | Vic |
 | 415 | 164 | Stacy Jones |

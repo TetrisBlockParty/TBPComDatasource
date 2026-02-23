@@ -125,8 +125,8 @@
 | 117 | 769 | Kristie |
 | 118 | 764 | Groovy Catcher |
 | 119 | 762 | Speedy Bridger |
-| 120 | 752 | Logan Naccarato |
-| 121 | 752 | Raya |
+| 120 | 752 | Raya |
+| 121 | 752 | Logan Naccarato |
 | 122 | 748 | Adrian Marcel Pate |
 | 123 | 745 | JerseyJess |
 | 124 | 744 | Leah Barnett |
@@ -264,19 +264,19 @@
 | 256 | 370 | Samantha Lynn |
 | 257 | 369 | Philip Rock |
 | 258 | 369 | Keis |
-| 259 | 368 | Sheila M Frazier |
-| 260 | 368 | Stephanie Woods |
+| 259 | 368 | Stephanie Woods |
+| 260 | 368 | Sheila M Frazier |
 | 261 | 367 | Kristin Delibac Corrigan |
-| 262 | 366 | Randy Clevenger |
-| 263 | 366 | Gumbo |
+| 262 | 366 | Gumbo |
+| 263 | 366 | Randy Clevenger |
 | 264 | 365 | Noyb Adam |
 | 265 | 364 | Steffi Chris Dacones |
 | 266 | 362 | Brandon Givens |
 | 267 | 360 | Cesar Barraza |
 | 268 | 359 | Sleepy |
 | 269 | 357 | Stephanie Burtin |
-| 270 | 354 | MsBee |
-| 271 | 354 | Roary Danner |
+| 270 | 354 | Roary Danner |
+| 271 | 354 | MsBee |
 | 272 | 354 | Kelly |
 | 273 | 353 | Cyd061769 |
 | 274 | 353 | Dee Franklin |
@@ -460,8 +460,8 @@
 | 452 | 229 | Everret Maxine |
 | 453 | 228 | Stephanie Hill |
 | 454 | 227 | Meowsa |
-| 455 | 226 | Ryan Williams |
-| 456 | 226 | Jana Polk |
+| 455 | 226 | Jana Polk |
+| 456 | 226 | Ryan Williams |
 | 457 | 226 | paranoid |
 | 458 | 225 | Goofy Fall |
 | 459 | 225 | Sassy Tiler |
