@@ -169,8 +169,8 @@
 | 161 | 513 | Erin Thomas |
 | 162 | 512 | ThaEviLJeNiuZ |
 | 163 | 512 | Angela Srubar-Norman |
-| 164 | 512 | Casey Jeffcoat |
-| 165 | 512 | Ellen Durfee |
+| 164 | 512 | Ellen Durfee |
+| 165 | 512 | Casey Jeffcoat |
 | 166 | 507 | Nick Gray |
 | 167 | 504 | Deanna Deckard |
 | 168 | 501 | Ericca Eldridge |
@@ -195,8 +195,8 @@
 | 187 | 465 | Jolly Dashfit |
 | 188 | 464 | Sharyn Lemire |
 | 189 | 462 | Leslie Thomas |
-| 190 | 457 | June Hoffman |
-| 191 | 457 | Kristin Manee |
+| 190 | 457 | Kristin Manee |
+| 191 | 457 | June Hoffman |
 | 192 | 455 | Michele Plunkett |
 | 193 | 450 | Amanda Pauldo-Ivy |
 | 194 | 449 | Courtney Cicoria |
@@ -222,8 +222,8 @@
 | 214 | 422 | Zakia Monae |
 | 215 | 421 | JIGsaw ~(•¿°)~ |
 | 216 | 419 | Chris Bernstein |
-| 217 | 418 | Lush Linkfall |
-| 218 | 418 | Marie-Pier Desjardins |
+| 217 | 418 | Marie-Pier Desjardins |
+| 218 | 418 | Lush Linkfall |
 | 219 | 414 | Silly Zonebuilder |
 | 220 | 413 | John Brunetti |
 | 221 | 411 | Autumn Kumzi |
@@ -293,18 +293,18 @@
 | 285 | 321 | Stacey Stano |
 | 286 | 317 | Madison Sweere |
 | 287 | 316 | Stella |
-| 288 | 315 | Vic |
-| 289 | 315 | Heather Bruce |
+| 288 | 315 | Heather Bruce |
+| 289 | 315 | Vic |
 | 290 | 314 | Lora |
 | 291 | 313 | Jason Gibbs |
 | 292 | 313 | Angie Schmidt |
 | 293 | 313 | DonMega |
 | 294 | 313 | Milan Markeisha |
 | 295 | 312 | Dihcheese444 |
-| 296 | 311 | Nikki Rae Gordon |
-| 297 | 311 | Laura |
-| 298 | 308 | Shiny Fit |
-| 299 | 308 | Leah Kutz Zirbel |
+| 296 | 311 | Laura |
+| 297 | 311 | Nikki Rae Gordon |
+| 298 | 308 | Leah Kutz Zirbel |
+| 299 | 308 | Shiny Fit |
 | 300 | 307 | Tina Lopez |
 | 301 | 307 | Kim Klutz Olson |
 | 302 | 306 | PeaceOs |
@@ -333,8 +333,8 @@
 | 325 | 288 | Amy Jean |
 | 326 | 287 | Duck |
 | 327 | 284 | Glitzy Corner |
-| 328 | 284 | Malakai Darien Fox |
-| 329 | 284 | rebel4lyfe |
+| 328 | 284 | rebel4lyfe |
+| 329 | 284 | Malakai Darien Fox |
 | 330 | 283 | Jackie Clark |
 | 331 | 282 | DQ Martin |
 | 332 | 282 | Shiny Pivoty |
@@ -353,8 +353,8 @@
 | 345 | 276 | Silly SeaWeed |
 | 346 | 275 | meowmew |
 | 347 | 274 | Jenna McGeorge |
-| 348 | 272 | Dennis Bradley |
-| 349 | 272 | Tony Pavelka |
+| 348 | 272 | Tony Pavelka |
+| 349 | 272 | Dennis Bradley |
 | 350 | 271 | Holly |
 | 351 | 270 | 23 |
 | 352 | 270 | 07VHVW |

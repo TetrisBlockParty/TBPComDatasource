@@ -354,8 +354,8 @@
 | 346 | 1079 | Jennifer Kistner |
 | 347 | 1073 | Jodi Blake |
 | 348 | 1072 | BK Queen |
-| 349 | 1071 | Nashu |
-| 350 | 1071 | Kim Dean |
+| 349 | 1071 | Kim Dean |
+| 350 | 1071 | Nashu |
 | 351 | 1071 | Barbra Miller |
 | 352 | 1067 | Taylor Phillips |
 | 353 | 1067 | Caitlin Schmid |
@@ -374,8 +374,8 @@
 | 366 | 1042 | Spunkysmom |
 | 367 | 1039 | Crystal Hoffman |
 | 368 | 1038 | Sheronda Jackson |
-| 369 | 1036 | Amber Shoemaker |
-| 370 | 1036 | Allison Lockyer |
+| 369 | 1036 | Allison Lockyer |
+| 370 | 1036 | Amber Shoemaker |
 | 371 | 1031 | Min |
 | 372 | 1026 | Joshua Mandel |
 | 373 | 1024 | Susan Perraut Jones |
@@ -463,8 +463,8 @@
 | 455 | 888 | Elisheva Mizrachi |
 | 456 | 883 | Hong Tang |
 | 457 | 882 | Stephanie Sul |
-| 458 | 877 | Wes Acton |
-| 459 | 877 | Misti Markijohn |
+| 458 | 877 | Misti Markijohn |
+| 459 | 877 | Wes Acton |
 | 460 | 876 | Jessicah Myers |
 | 461 | 876 | Jelly |
 | 462 | 870 | Joy LaJeunesse |
