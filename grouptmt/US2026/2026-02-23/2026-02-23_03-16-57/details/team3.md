@@ -27,8 +27,8 @@
 | 19 | 2494 | Ashley Jones |
 | 20 | 2387 | Susan Valentino |
 | 21 | 2302 | Laura Melton |
-| 22 | 2287 | Brandon Green |
-| 23 | 2287 | Tetris Master |
+| 22 | 2287 | Tetris Master |
+| 23 | 2287 | Brandon Green |
 | 24 | 2144 | Zippy Strikesnap |
 | 25 | 2085 | Chummy Shatterer |
 | 26 | 2059 | mjl574 |
@@ -94,8 +94,8 @@
 | 86 | 945 | Shonna Roberts |
 | 87 | 938 | Mandy Smith Oldham |
 | 88 | 935 | Snappy Glidepiece |
-| 89 | 926 | Judi Dobson |
-| 90 | 926 | Angela M. Fletcher |
+| 89 | 926 | Angela M. Fletcher |
+| 90 | 926 | Judi Dobson |
 | 91 | 923 | Christine Filson |
 | 92 | 921 | Michelle |
 | 93 | 918 | MissTaylor |
@@ -196,11 +196,11 @@
 | 188 | 489 | Shannon Matthew Byers |
 | 189 | 489 | Poppy Splitter |
 | 190 | 488 | Melissa Orth Hunter |
-| 191 | 485 | FuzzyNavel |
-| 192 | 485 | Dapper Snap |
+| 191 | 485 | Dapper Snap |
+| 192 | 485 | FuzzyNavel |
 | 193 | 485 | Terry Jo Jones |
-| 194 | 480 | Michael Johnson |
-| 195 | 480 | Danielle Allison |
+| 194 | 480 | Danielle Allison |
+| 195 | 480 | Michael Johnson |
 | 196 | 475 | Tessina Dewey-Mancino |
 | 197 | 473 | Rachel |
 | 198 | 471 | Mendoza Lee Christy |
@@ -293,8 +293,8 @@
 | 285 | 324 | Sissy Lowery Davis |
 | 286 | 322 | Nena Somerville Kelly |
 | 287 | 321 | Wettnippz |
-| 288 | 320 | Or Reznitsky |
-| 289 | 320 | Ashley Muncey |
+| 288 | 320 | Ashley Muncey |
+| 289 | 320 | Or Reznitsky |
 | 290 | 312 | Twisty Brick LT |
 | 291 | 312 | LadyTorad |
 | 292 | 309 | Felicia Rocha |
@@ -320,15 +320,15 @@
 | 312 | 294 | fraulila |
 | 313 | 291 | Geoffrey Nash |
 | 314 | 289 | DidIdothat |
-| 315 | 287 | Carol Cain Thurman |
-| 316 | 287 | Sabrina Hardrick |
+| 315 | 287 | Sabrina Hardrick |
+| 316 | 287 | Carol Cain Thurman |
 | 317 | 287 | Hoppy Patternline |
 | 318 | 286 | Micayah Stevens |
 | 319 | 286 | Lizabeth Fox |
 | 320 | 286 | Salena Whitlock |
 | 321 | 284 | Hanna Kim |
 | 322 | 281 | Kaycee Kay |
-| 323 | 280 | ROODBOY |
+| 323 | 280 | Stephanie Bradley |
 | 324 | 280 | Aerian Preston |
 | 325 | 280 | ROODBOY |
 | 326 | 279 | Foltz Lee Kelli |
@@ -668,7 +668,7 @@
 | 660 | 152 | Louise Parker |
 | 661 | 152 | Christine Vosburgh |
 | 662 | 151 | Lisa Bard |
-| 663 | 150 | Leticia Lynn Lowe |
+| 663 | 150 | Kiya Lynn |
 | 664 | 150 | Sapphire87 |
 | 665 | 150 | Leticia Lynn Lowe |
 | 666 | 149 | Timothy Townes |

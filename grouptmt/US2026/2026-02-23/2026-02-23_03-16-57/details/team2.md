@@ -40,8 +40,8 @@
 | 32 | 4274 | Vistabrat |
 | 33 | 4199 | Claire Noland |
 | 34 | 4128 | Angela Pruitt |
-| 35 | 4120 | Kristen Sceurman |
-| 36 | 4120 | Corrine Hawks Soriano |
+| 35 | 4120 | Corrine Hawks Soriano |
+| 36 | 4120 | Kristen Sceurman |
 | 37 | 4093 | Jill Stroehlein |
 | 38 | 3895 | Nickie Baby |
 | 39 | 3778 | Brittany Alicia |
@@ -132,8 +132,8 @@
 | 124 | 1774 | Crystal Elam |
 | 125 | 1757 | Katrina Williams Balmir |
 | 126 | 1744 | Karen Martini-Stapleton |
-| 127 | 1681 | Shandrica Lowe |
-| 128 | 1681 | Nett |
+| 127 | 1681 | Nett |
+| 128 | 1681 | Shandrica Lowe |
 | 129 | 1658 | Liberty |
 | 130 | 1656 | Auntie B |
 | 131 | 1656 | Kristopher Miller |
@@ -902,8 +902,8 @@
 | 894 | 375 | Ashley Marie |
 | 895 | 375 | Jennie Lee Huntley |
 | 896 | 374 | Amanda Perez |
-| 897 | 374 | Lively Catcher |
-| 898 | 374 | Sassy Linkbuilder |
+| 897 | 374 | Sassy Linkbuilder |
+| 898 | 374 | Lively Catcher |
 | 899 | 373 | Michelle Shrum |
 | 900 | 373 | Janitta Alvarez |
 | 901 | 373 | Natasha Edmonds |
@@ -1312,8 +1312,8 @@
 | 1304 | 269 | Jeannine Fennell |
 | 1305 | 269 | Chummy Caster |
 | 1306 | 269 | Ian Anderson |
-| 1307 | 268 | Anne White |
-| 1308 | 268 | GgReignz |
+| 1307 | 268 | GgReignz |
+| 1308 | 268 | Anne White |
 | 1309 | 268 | Wacky Cascade |
 | 1310 | 268 | Melissa Wilson |
 | 1311 | 268 | Shilo Anderson |

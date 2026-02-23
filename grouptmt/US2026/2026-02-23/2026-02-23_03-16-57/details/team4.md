@@ -81,8 +81,8 @@
 | 73 | 736 | Goatimus Lombardi |
 | 74 | 725 | Denise Carlson |
 | 75 | 716 | TheNeesh50 |
-| 76 | 704 | D3TROITB0RN74 |
-| 77 | 704 | Crystal Carroll |
+| 76 | 704 | Crystal Carroll |
+| 77 | 704 | D3TROITB0RN74 |
 | 78 | 697 | Alyssa Papen |
 | 79 | 691 | Savannah Overdorf |
 | 80 | 691 | Lisa Davis |
@@ -156,11 +156,11 @@
 | 148 | 391 | Ramel Rhodes |
 | 149 | 391 | Livvy |
 | 150 | 389 | Joseph Guthrie |
-| 151 | 387 | Lucas J Sutton |
-| 152 | 387 | 🥔🥔 Spudz |
+| 151 | 387 | 🥔🥔 Spudz |
+| 152 | 387 | Lucas J Sutton |
 | 153 | 377 | Carrie Brian |
-| 154 | 375 | Desi Desporte |
-| 155 | 375 | ThaEviLJeNiuZ |
+| 154 | 375 | ThaEviLJeNiuZ |
+| 155 | 375 | Desi Desporte |
 | 156 | 374 | Guy Incognito |
 | 157 | 373 | Tyler Terrific |
 | 158 | 371 | Leslie Nicole |
@@ -212,9 +212,9 @@
 | 204 | 292 | Epic Curvetile |
 | 205 | 290 | Jared Gutwein |
 | 206 | 290 | Keshia Lyons |
-| 207 | 288 | Brittney Orengo |
+| 207 | 288 | Adam Stephanie Parker |
 | 208 | 288 | Leah Kutz Zirbel |
-| 209 | 288 | Adam Stephanie Parker |
+| 209 | 288 | Brittney Orengo |
 | 210 | 287 | Plucky Patternblock |
 | 211 | 286 | Sam Bishop |
 | 212 | 286 | Zesty Twistbuilder |
@@ -242,8 +242,8 @@
 | 234 | 262 | Selena Shaw |
 | 235 | 261 | JPW |
 | 236 | 260 | Carter Jones |
-| 237 | 259 | Montiette Mcglown |
-| 238 | 259 | Cheery Risebuilder |
+| 237 | 259 | Cheery Risebuilder |
+| 238 | 259 | Montiette Mcglown |
 | 239 | 257 | PeaceOs |
 | 240 | 256 | Mylo Lipscomb |
 | 241 | 253 | Autum Leigh |
@@ -270,13 +270,13 @@
 | 262 | 237 | Christine Therrien |
 | 263 | 237 | 030Synner |
 | 264 | 236 | Degenerate |
-| 265 | 235 | Jade Rian |
-| 266 | 235 | Shainne Brewer |
-| 267 | 235 | LaDonna LovinmesomeMe Lambert |
+| 265 | 235 | Shainne Brewer |
+| 266 | 235 | LaDonna LovinmesomeMe Lambert |
+| 267 | 235 | Jade Rian |
 | 268 | 234 | Richard-April Kice |
 | 269 | 233 | Ruben Wheeler |
-| 270 | 232 | Joanna |
-| 271 | 232 | Rio Rocha |
+| 270 | 232 | Rio Rocha |
+| 271 | 232 | Joanna |
 | 272 | 228 | Bethany Ison |
 | 273 | 226 | Dizzy Matchzone |
 | 274 | 226 | Cranky Rollpiece |

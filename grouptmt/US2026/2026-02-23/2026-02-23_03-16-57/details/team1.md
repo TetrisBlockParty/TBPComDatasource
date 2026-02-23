@@ -203,8 +203,8 @@
 | 195 | 297 | Jen Nystrom |
 | 196 | 296 | Witty Builderfit |
 | 197 | 296 | Cody Gates |
-| 198 | 294 | Bindi |
-| 199 | 294 | Margo Wagner |
+| 198 | 294 | Margo Wagner |
+| 199 | 294 | Bindi |
 | 200 | 293 | John Kim |
 | 201 | 291 | Brave Wrecker |
 | 202 | 290 | Sleepysloath5745 |
@@ -227,8 +227,8 @@
 | 219 | 275 | Cheeky Pop |
 | 220 | 275 | Chris65 |
 | 221 | 273 | Shannon Marie Pitts |
-| 222 | 271 | Frothy Pattern |
-| 223 | 271 | Sam Williams |
+| 222 | 271 | Sam Williams |
+| 223 | 271 | Frothy Pattern |
 | 224 | 270 | Debbie Kane |
 | 225 | 265 | Kandae |
 | 226 | 264 | Jenny Gingrich Fuentes |
@@ -236,8 +236,8 @@
 | 228 | 263 | Perky Shiftsnap |
 | 229 | 263 | Jessie Lynn |
 | 230 | 261 | John J. Cronin |
-| 231 | 260 | Lacy Wolfe |
-| 232 | 260 | Marianita Garcia |
+| 231 | 260 | Marianita Garcia |
+| 232 | 260 | Lacy Wolfe |
 | 233 | 257 | Lakeisha Chapman |
 | 234 | 256 | Snappy Matcher |
 | 235 | 255 | Giggly Builderline |
