@@ -62,8 +62,8 @@
 | 54 | 1156 | Goatimus Lombardi |
 | 55 | 1150 | Kimyatta Cavin |
 | 56 | 1106 | Ashley Ingram |
-| 57 | 1082 | Avy Absol |
-| 58 | 1082 | Dion Crommarty |
+| 57 | 1082 | Dion Crommarty |
+| 58 | 1082 | Avy Absol |
 | 59 | 1073 | Dustee Craddock-Harrison |
 | 60 | 1072 | Rachel Anne |
 | 61 | 1049 | Heather Tushner |

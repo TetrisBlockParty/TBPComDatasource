@@ -121,8 +121,8 @@
 | 113 | 612 | femmefatale |
 | 114 | 604 | Ryan Lunnin |
 | 115 | 603 | Ty Brown |
-| 116 | 601 | Evan Richmond |
-| 117 | 601 | Phu ckalldems |
+| 116 | 601 | Phu ckalldems |
+| 117 | 601 | Evan Richmond |
 | 118 | 598 | Jessi Sauer |
 | 119 | 594 | Basment Living |
 | 120 | 591 | Giddy Cascade |
