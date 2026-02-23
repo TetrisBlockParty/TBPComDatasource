@@ -335,8 +335,8 @@
 | 327 | 888 | Donna M Carter |
 | 328 | 888 | Felicia Lynn |
 | 329 | 885 | Wakanda Forever |
-| 330 | 884 | Steve Man |
-| 331 | 884 | Adira Brown |
+| 330 | 884 | Adira Brown |
+| 331 | 884 | Steve Man |
 | 332 | 883 | Hong Tang |
 | 333 | 882 | Nashu |
 | 334 | 879 | Lemonaide |
@@ -423,8 +423,8 @@
 | 415 | 737 | Ginger |
 | 416 | 737 | Jeremy Parodi |
 | 417 | 737 | Chelle |
-| 418 | 734 | Allan Wayne Lamia |
-| 419 | 734 | Ashley Guernsey-Martin |
+| 418 | 734 | Ashley Guernsey-Martin |
+| 419 | 734 | Allan Wayne Lamia |
 | 420 | 732 | Victoria Moore-Smith |
 | 421 | 731 | Charvi' Carter |
 | 422 | 730 | Hoppy Brickmatch |
@@ -496,8 +496,8 @@
 | 488 | 650 | Gary Stash |
 | 489 | 648 | Brittney Jean |
 | 490 | 646 | Jazzy Clusterline |
-| 491 | 644 | Demeka Dangerous-kisses Johnson |
-| 492 | 644 | Véronique Lévesque Sabourin |
+| 491 | 644 | Véronique Lévesque Sabourin |
+| 492 | 644 | Demeka Dangerous-kisses Johnson |
 | 493 | 643 | Michelle Pike |
 | 494 | 642 | Michelle Fields |
 | 495 | 642 | Cassie Maynard |
@@ -661,9 +661,9 @@
 | 653 | 494 | Cat Thompson |
 | 654 | 494 | Melanie Csikortos |
 | 655 | 494 | Mia Muse Best |
-| 656 | 494 | Cat Thompson |
-| 657 | 493 | Sue Leard |
-| 658 | 493 | Kristie Wilcox |
+| 656 | 494 | Snippy Rumbler |
+| 657 | 493 | Kristie Wilcox |
+| 658 | 493 | Sue Leard |
 | 659 | 493 | Skyler Morgan |
 | 660 | 492 | Breezy Clusterer |
 | 661 | 492 | Christina Wsn |
@@ -937,8 +937,8 @@
 | 929 | 369 | Epic Fitzone |
 | 930 | 368 | Lively Piecebuilder |
 | 931 | 367 | Sarah Dean |
-| 932 | 366 | Ashley Criner |
-| 933 | 366 | Yasmin Guzman |
+| 932 | 366 | Yasmin Guzman |
+| 933 | 366 | Ashley Criner |
 | 934 | 366 | Christine Coughlin |
 | 935 | 365 | Dee Blokk |
 | 936 | 365 | Wes Acton |
@@ -1037,8 +1037,8 @@
 | 1029 | 335 | Brooke Leigh Strube |
 | 1030 | 334 | Tina Wright-Quigley |
 | 1031 | 334 | Toni Lynn |
-| 1032 | 333 | Erika Deer Kauffman |
-| 1033 | 333 | Dad |
+| 1032 | 333 | Dad |
+| 1033 | 333 | Erika Deer Kauffman |
 | 1034 | 333 | Paula Martinez |
 | 1035 | 333 | Snippy Block |
 | 1036 | 332 | Sunny Pusher |

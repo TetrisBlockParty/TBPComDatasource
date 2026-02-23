@@ -57,8 +57,8 @@
 | 49 | 863 | Pee |
 | 50 | 855 | Marvin Lou Martin |
 | 51 | 853 | TeeJ |
-| 52 | 846 | Christine Marie |
-| 53 | 846 | Lucille Truesdale |
+| 52 | 846 | Lucille Truesdale |
+| 53 | 846 | Christine Marie |
 | 54 | 845 | LisaJo Picken Buchanan |
 | 55 | 843 | Shelly Chandler |
 | 56 | 841 | Anthony Bryan Riva |
@@ -139,8 +139,8 @@
 | 131 | 435 | Kristina Black |
 | 132 | 431 | Courtney Cicoria |
 | 133 | 425 | Monica Daley |
-| 134 | 421 | Kesha Brady |
-| 135 | 421 | JIGsaw ~(•¿°)~ |
+| 134 | 421 | JIGsaw ~(•¿°)~ |
+| 135 | 421 | Kesha Brady |
 | 136 | 419 | Klo |
 | 137 | 418 | Marie-Pier Desjardins |
 | 138 | 418 | Lush Linkfall |
@@ -152,16 +152,16 @@
 | 144 | 402 | Ericca Eldridge |
 | 145 | 399 | Swanky Fitline |
 | 146 | 394 | Livvy |
-| 147 | 393 | Trish |
-| 148 | 393 | Carlton Unfiltered |
+| 147 | 393 | Carlton Unfiltered |
+| 148 | 393 | Trish |
 | 149 | 393 | Girl |
 | 150 | 391 | Ramel Rhodes |
 | 151 | 389 | Joseph Guthrie |
 | 152 | 387 | Lucas J Sutton |
 | 153 | 387 | 🥔🥔 Spudz |
 | 154 | 377 | Carrie Brian |
-| 155 | 375 | Desi Desporte |
-| 156 | 375 | ThaEviLJeNiuZ |
+| 155 | 375 | ThaEviLJeNiuZ |
+| 156 | 375 | Desi Desporte |
 | 157 | 374 | Leslie Nicole |
 | 158 | 374 | Guy Incognito |
 | 159 | 373 | Tyler Terrific |
@@ -280,8 +280,8 @@
 | 272 | 233 | Ruben Wheeler |
 | 273 | 232 | Rio Rocha |
 | 274 | 228 | Bethany Ison |
-| 275 | 226 | Cranky Rollpiece |
-| 276 | 226 | Dizzy Matchzone |
+| 275 | 226 | Dizzy Matchzone |
+| 276 | 226 | Cranky Rollpiece |
 | 277 | 225 | Jenna McGeorge |
 | 278 | 223 | Adawna Swires |
 | 279 | 223 | Amanda Christine |
@@ -313,8 +313,8 @@
 | 305 | 212 | Orchislactea |
 | 306 | 212 | Brave Spinbuilder |
 | 307 | 211 | Chris Alexinas |
-| 308 | 210 | Ari Droff |
-| 309 | 210 | Ultramarine |
+| 308 | 210 | Ultramarine |
+| 309 | 210 | Ari Droff |
 | 310 | 210 | Rebecca Morris |
 | 311 | 209 | Snippy Puzzle |
 | 312 | 209 | Marcus Todd |
