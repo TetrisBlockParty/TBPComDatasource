@@ -130,8 +130,8 @@
 | 122 | 471 | Chastity Mitchell |
 | 123 | 458 | Twisty Clicky |
 | 124 | 452 | Jolly Dashfit |
-| 125 | 451 | Peachy Fall |
-| 126 | 451 | Angela Srubar-Norman |
+| 125 | 451 | Angela Srubar-Norman |
+| 126 | 451 | Peachy Fall |
 | 127 | 448 | Kristin Manee |
 | 128 | 435 | Leslie Thomas |
 | 129 | 435 | Kristina Black |
@@ -150,14 +150,14 @@
 | 142 | 402 | Ericca Eldridge |
 | 143 | 399 | Swanky Fitline |
 | 144 | 394 | Austin Owens |
-| 145 | 393 | Trish |
-| 146 | 393 | Carlton Unfiltered |
-| 147 | 393 | Girl |
-| 148 | 391 | Livvy |
-| 149 | 391 | Ramel Rhodes |
+| 145 | 393 | Carlton Unfiltered |
+| 146 | 393 | Girl |
+| 147 | 393 | Trish |
+| 148 | 391 | Ramel Rhodes |
+| 149 | 391 | Livvy |
 | 150 | 389 | Joseph Guthrie |
-| 151 | 387 | 🥔🥔 Spudz |
-| 152 | 387 | Lucas J Sutton |
+| 151 | 387 | Lucas J Sutton |
+| 152 | 387 | 🥔🥔 Spudz |
 | 153 | 377 | Carrie Brian |
 | 154 | 375 | ThaEviLJeNiuZ |
 | 155 | 375 | Desi Desporte |
@@ -169,8 +169,8 @@
 | 161 | 368 | Raegan Lane-Ross |
 | 162 | 365 | Leslie Nicole |
 | 163 | 365 | Lindsey Gonzalez |
-| 164 | 361 | Danielle Kollias |
-| 165 | 361 | Melissa Adams |
+| 164 | 361 | Melissa Adams |
+| 165 | 361 | Danielle Kollias |
 | 166 | 358 | A5! |
 | 167 | 356 | George Nutt |
 | 168 | 352 | Sue Joyce Staats |
@@ -329,8 +329,8 @@
 | 321 | 194 | Zany Twisterfit |
 | 322 | 194 | Denise B |
 | 323 | 192 | Twisty Risebuilder |
-| 324 | 191 | Norman Klick |
-| 325 | 191 | Earnest Thompson |
+| 324 | 191 | Earnest Thompson |
+| 325 | 191 | Norman Klick |
 | 326 | 190 | wombat |
 | 327 | 189 | Berklie Apedaile |
 | 328 | 189 | Lauren Lamb |

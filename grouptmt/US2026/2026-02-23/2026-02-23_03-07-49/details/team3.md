@@ -27,8 +27,8 @@
 | 19 | 2494 | Ashley Jones |
 | 20 | 2387 | Susan Valentino |
 | 21 | 2302 | Laura Melton |
-| 22 | 2287 | Brandon Green |
-| 23 | 2287 | Tetris Master |
+| 22 | 2287 | Tetris Master |
+| 23 | 2287 | Brandon Green |
 | 24 | 2144 | Zippy Strikesnap |
 | 25 | 2016 | Chummy Shatterer |
 | 26 | 1979 | mjl574 |
@@ -226,9 +226,9 @@
 | 218 | 417 | Edwin Calvillo Jr. |
 | 219 | 415 | ren |
 | 220 | 414 | Fran Lin |
-| 221 | 410 | Stephanie Simpson |
+| 221 | 410 | Duane Bright |
 | 222 | 410 | Mcathen |
-| 223 | 410 | Duane Bright |
+| 223 | 410 | Stephanie Simpson |
 | 224 | 408 | Tiffany Ford |
 | 225 | 404 | Chasity |
 | 226 | 403 | Scott Lindsay |
@@ -236,8 +236,8 @@
 | 228 | 400 | Denita Mungro |
 | 229 | 399 | Kristal C Lee |
 | 230 | 393 | Rebecca Funderburk Kirby |
-| 231 | 391 | Trisha Balmer |
-| 232 | 391 | Nicole Flippo |
+| 231 | 391 | Nicole Flippo |
+| 232 | 391 | Trisha Balmer |
 | 233 | 390 | rosy |
 | 234 | 387 | Gideon Walker |
 | 235 | 384 | Marci Mize Fandrich |
@@ -248,8 +248,8 @@
 | 240 | 380 | Rebecca Bailey |
 | 241 | 378 | Chris Bell |
 | 242 | 377 | Charles Perrone |
-| 243 | 372 | Rich LeBlanc |
-| 244 | 372 | Sarah Moyer |
+| 243 | 372 | Sarah Moyer |
+| 244 | 372 | Rich LeBlanc |
 | 245 | 371 | block chick |
 | 246 | 370 | Chummy Caster |
 | 247 | 369 | Keis |
@@ -284,8 +284,8 @@
 | 276 | 338 | Gumbo |
 | 277 | 336 | Jojo M |
 | 278 | 335 | victory |
-| 279 | 332 | Brittany |
-| 280 | 332 | Velma Mull |
+| 279 | 332 | Velma Mull |
+| 280 | 332 | Brittany |
 | 281 | 331 | Gray Hicks |
 | 282 | 329 | Snazzy Filler |
 | 283 | 326 | Kerry Nowickshere |
@@ -320,8 +320,8 @@
 | 312 | 294 | Betty Bóò |
 | 313 | 291 | Geoffrey Nash |
 | 314 | 289 | DidIdothat |
-| 315 | 287 | Sabrina Hardrick |
-| 316 | 287 | Carol Cain Thurman |
+| 315 | 287 | Carol Cain Thurman |
+| 316 | 287 | Sabrina Hardrick |
 | 317 | 287 | Hoppy Patternline |
 | 318 | 286 | Salena Whitlock |
 | 319 | 286 | Lizabeth Fox |

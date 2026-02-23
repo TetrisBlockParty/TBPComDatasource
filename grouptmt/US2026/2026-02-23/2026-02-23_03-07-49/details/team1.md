@@ -99,8 +99,8 @@
 | 91 | 500 | Evie Khalil |
 | 92 | 496 | Sarah Lombardo |
 | 93 | 496 | Arianna O'Brien |
-| 94 | 493 | MomMom |
-| 95 | 493 | Jennifer ManWarren |
+| 94 | 493 | Jennifer ManWarren |
+| 95 | 493 | MomMom |
 | 96 | 492 | Ash Galvan |
 | 97 | 489 | Deanna L Hermanson |
 | 98 | 486 | Tater |
@@ -142,8 +142,8 @@
 | 134 | 386 | Ty Brown |
 | 135 | 383 | pjbeta |
 | 136 | 381 | Fmp |
-| 137 | 379 | Kimmie Kimms |
-| 138 | 379 | Austin James |
+| 137 | 379 | Austin James |
+| 138 | 379 | Kimmie Kimms |
 | 139 | 376 | Brian Richardsson |
 | 140 | 375 | Monica Donato |
 | 141 | 375 | Tanya Carpenter-Reynolds |
@@ -252,8 +252,8 @@
 | 244 | 244 | Sarah Somers Gray |
 | 245 | 242 | ParisandCory Champagne |
 | 246 | 241 | Tyler Hertzog |
-| 247 | 240 | Daring Fitclear |
-| 248 | 240 | DaRascal |
+| 247 | 240 | DaRascal |
+| 248 | 240 | Daring Fitclear |
 | 249 | 238 | Tiffany Smith |
 | 250 | 234 | Paula Martin |
 | 251 | 233 | Angela Fairbank |
