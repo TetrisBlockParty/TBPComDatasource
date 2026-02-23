@@ -95,8 +95,8 @@
 | 87 | 2444 | Giddy Gridclear |
 | 88 | 2438 | Rob Surace |
 | 89 | 2433 | Ashley House |
-| 90 | 2428 | Thomas Hughes |
-| 91 | 2428 | Deanna Morton |
+| 90 | 2428 | Deanna Morton |
+| 91 | 2428 | Thomas Hughes |
 | 92 | 2415 | Gabby Jenner |
 | 93 | 2410 | RdRydnHd |
 | 94 | 2400 | Rich Sullivan |
@@ -377,8 +377,8 @@
 | 369 | 829 | Jessica Wayne Cornwall |
 | 370 | 828 | Kimmy Newman |
 | 371 | 825 | Jeremy Parodi |
-| 372 | 824 | Khalil Lowe |
-| 373 | 824 | Danielle Johnson-Chandler |
+| 372 | 824 | Danielle Johnson-Chandler |
+| 373 | 824 | Khalil Lowe |
 | 374 | 822 | KhaosLord |
 | 375 | 822 | Lola Contreras |
 | 376 | 821 | Angie Bolton Workman |
@@ -405,8 +405,8 @@
 | 397 | 788 | Erika Densmore |
 | 398 | 787 | Tiara Elizabeth Baker |
 | 399 | 783 | John Rodriguez |
-| 400 | 777 | Jessicah Myers |
-| 401 | 777 | Tesha Oldaker |
+| 400 | 777 | Tesha Oldaker |
+| 401 | 777 | Jessicah Myers |
 | 402 | 776 | Fancy Twister |
 | 403 | 776 | Mighty Spinbuilder |
 | 404 | 775 | Crystie Hicks |
@@ -415,8 +415,8 @@
 | 407 | 771 | Stephanie Lumanlan |
 | 408 | 769 | Melissa Cole |
 | 409 | 769 | Kimberly Hope Howell |
-| 410 | 768 | Eric Castaneda |
-| 411 | 768 | Joshua Self |
+| 410 | 768 | Joshua Self |
+| 411 | 768 | Eric Castaneda |
 | 412 | 767 | Ashley Lopez |
 | 413 | 766 | Aimee Campbell |
 | 414 | 764 | Victoria Regina Girolami |
@@ -487,8 +487,8 @@
 | 479 | 689 | Gauri Shrotriya |
 | 480 | 686 | Christine Coughlin |
 | 481 | 684 | Sarah DeHart |
-| 482 | 684 | Ellie Jonas |
-| 483 | 684 | Ann Knutson Anderson |
+| 482 | 684 | Ann Knutson Anderson |
+| 483 | 684 | Ellie Jonas |
 | 484 | 682 | Antionette Sewell |
 | 485 | 681 | AgileDragon |
 | 486 | 680 | blume |
@@ -590,8 +590,8 @@
 | 582 | 589 | Kelly Templeton |
 | 583 | 588 | Kitybox |
 | 584 | 587 | Ben Barkley |
-| 585 | 585 | Sarah Berger |
-| 586 | 585 | Jessica Lamb |
+| 585 | 585 | Jessica Lamb |
+| 586 | 585 | Sarah Berger |
 | 587 | 585 | Wuntayk |
 | 588 | 583 | AISlop |
 | 589 | 582 | Ebony Deloach Bryant |

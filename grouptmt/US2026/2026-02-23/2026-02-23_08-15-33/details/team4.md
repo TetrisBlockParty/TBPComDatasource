@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Kimyatta Cavin |
-| 84 | 684 | Jonathan Kimbrough |
+| 83 | 684 | Jonathan Kimbrough |
+| 84 | 684 | Kimyatta Cavin |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -334,8 +334,8 @@
 | 326 | 212 | Brave Spinbuilder |
 | 327 | 211 | Chris Alexinas |
 | 328 | 210 | Ari Droff |
-| 329 | 209 | Snippy Puzzle |
-| 330 | 209 | Marcus Todd |
+| 329 | 209 | Marcus Todd |
+| 330 | 209 | Snippy Puzzle |
 | 331 | 208 | Shukee Lo |
 | 332 | 208 | Heather Bruce |
 | 333 | 207 | Squeezy Pearsall |

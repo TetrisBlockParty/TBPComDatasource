@@ -135,8 +135,8 @@
 | 127 | 752 | Logan Naccarato |
 | 128 | 748 | Adrian Marcel Pate |
 | 129 | 745 | JerseyJess |
-| 130 | 744 | Leah Barnett |
-| 131 | 744 | Fancy Cascader |
+| 130 | 744 | Fancy Cascader |
+| 131 | 744 | Leah Barnett |
 | 132 | 736 | mzcatzy |
 | 133 | 734 | Calista Jo Dickson |
 | 134 | 728 | Peppy Shifter |
@@ -201,8 +201,8 @@
 | 193 | 528 | Silly Twist |
 | 194 | 525 | Stephanie Blkpep Davidson |
 | 195 | 524 | Bmo |
-| 196 | 519 | Terry Jo Jones |
-| 197 | 519 | rnr junky |
+| 196 | 519 | rnr junky |
+| 197 | 519 | Terry Jo Jones |
 | 198 | 515 | Cozy Snaplink |
 | 199 | 508 | Makelini Mausia |
 | 200 | 503 | Tye Stovall |
@@ -240,8 +240,8 @@
 | 232 | 430 | Jeni Dow |
 | 233 | 418 | Rebecca Funderburk Kirby |
 | 234 | 414 | Fran Lin |
-| 235 | 410 | Stephanie Simpson |
-| 236 | 410 | Duane Bright |
+| 235 | 410 | Duane Bright |
+| 236 | 410 | Stephanie Simpson |
 | 237 | 408 | Tiffany Ford |
 | 238 | 406 | Kristal C Lee |
 | 239 | 404 | Chasity |
@@ -271,8 +271,8 @@
 | 263 | 370 | Samantha Lynn |
 | 264 | 369 | Philip Rock |
 | 265 | 369 | Keis |
-| 266 | 368 | Sheila M Frazier |
-| 267 | 368 | Stephanie Woods |
+| 266 | 368 | Stephanie Woods |
+| 267 | 368 | Sheila M Frazier |
 | 268 | 367 | Kristin Delibac Corrigan |
 | 269 | 366 | Gumbo |
 | 270 | 365 | Noyb Adam |
@@ -385,16 +385,16 @@
 | 377 | 274 | Ava Petito |
 | 378 | 273 | Kevin Fountain |
 | 379 | 273 | Brenda Schmid Wood |
-| 380 | 272 | Todd Hall |
-| 381 | 272 | Tay |
+| 380 | 272 | Tay |
+| 381 | 272 | Todd Hall |
 | 382 | 272 | Romeo |
 | 383 | 269 | Juliana Dottore |
-| 384 | 269 | Jess Bissett |
-| 385 | 269 | Samantha Worley |
+| 384 | 269 | Samantha Worley |
+| 385 | 269 | Jess Bissett |
 | 386 | 269 | Goofy Fall |
 | 387 | 268 | Jessica Lynn French |
-| 388 | 267 | April Matthew Kibble |
-| 389 | 267 | Jul |
+| 388 | 267 | Jul |
+| 389 | 267 | April Matthew Kibble |
 | 390 | 267 | Michael Kimbro |
 | 391 | 266 | Quirky Dropzone |
 | 392 | 265 | Heather Davis |
@@ -428,10 +428,10 @@
 | 420 | 250 | Eric Caccavale |
 | 421 | 249 | Willow |
 | 422 | 248 | Brian Battjes |
-| 423 | 247 | Kevin Russell |
-| 424 | 247 | Jessica |
-| 425 | 245 | LaNette Morgan |
-| 426 | 245 | Latoya Mayne |
+| 423 | 247 | Jessica |
+| 424 | 247 | Kevin Russell |
+| 425 | 245 | Latoya Mayne |
+| 426 | 245 | LaNette Morgan |
 | 427 | 244 | Lys |
 | 428 | 244 | Beezwax |
 | 429 | 244 | Quackers |
@@ -470,17 +470,17 @@
 | 462 | 230 | BigE |
 | 463 | 229 | MizzMonick Smith |
 | 464 | 229 | Everret Maxine |
-| 465 | 228 | Tipsy Zonebuilder |
-| 466 | 228 | Dapper Liney |
+| 465 | 228 | Dapper Liney |
+| 466 | 228 | Tipsy Zonebuilder |
 | 467 | 227 | Meowsa |
-| 468 | 226 | Jana Polk |
-| 469 | 226 | paranoid |
-| 470 | 226 | Ryan Williams |
-| 471 | 225 | Sassy Tiler |
-| 472 | 225 | sofaking |
-| 473 | 224 | Christina Rotz Shows |
-| 474 | 224 | Sarah Morris |
-| 475 | 224 | Cranky Corner |
+| 468 | 226 | paranoid |
+| 469 | 226 | Ryan Williams |
+| 470 | 226 | Jana Polk |
+| 471 | 225 | sofaking |
+| 472 | 225 | Sassy Tiler |
+| 473 | 224 | Sarah Morris |
+| 474 | 224 | Cranky Corner |
+| 475 | 224 | Christina Rotz Shows |
 | 476 | 223 | Breanna Marsden |
 | 477 | 223 | Megan Rathmanner |
 | 478 | 222 | Angel Miller |
@@ -597,7 +597,7 @@
 | 589 | 183 | AC Yeater |
 | 590 | 183 | Jana Fagg |
 | 591 | 183 | Snarky McFace |
-| 592 | 183 | Jana Fagg |
+| 592 | 183 | Silly Curvetile |
 | 593 | 182 | Johnathan Dowe |
 | 594 | 182 | Kali Kelz Williams |
 | 595 | 182 | Alicia |
@@ -655,8 +655,8 @@
 | 647 | 168 | Groovy Blockclear |
 | 648 | 168 | Glenn Loving |
 | 649 | 168 | Kristi Taylor |
-| 650 | 167 | Alison Baus |
-| 651 | 167 | Frothy Glider |
+| 650 | 167 | Frothy Glider |
+| 651 | 167 | Alison Baus |
 | 652 | 167 | Pam Holt Powell |
 | 653 | 167 | Jonathn Poindexter |
 | 654 | 167 | Frisky Stacker |
@@ -693,8 +693,8 @@
 | 685 | 160 | Tipsy Puzzle |
 | 686 | 159 | Gina Marie |
 | 687 | 159 | Cameron Lovell |
-| 688 | 159 | Wetwet |
-| 689 | 159 | Angela VanOstrand |
+| 688 | 159 | Angela VanOstrand |
+| 689 | 159 | Wetwet |
 | 690 | 158 | Cameo Tweed |
 | 691 | 157 | Angel Mendez |
 | 692 | 157 | DeeDee13 |
