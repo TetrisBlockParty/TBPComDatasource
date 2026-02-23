@@ -113,8 +113,8 @@
 | 105 | 868 | Sarajane Lokan |
 | 106 | 866 | Ebony West-Cundiff |
 | 107 | 860 | Sunny Rotater |
-| 108 | 851 | Jd Morris |
-| 109 | 851 | Danielle Becker |
+| 108 | 851 | Danielle Becker |
+| 109 | 851 | Jd Morris |
 | 110 | 850 | Danielle Mogg |
 | 111 | 848 | Patricia Gadsden |
 | 112 | 831 | Angeline Joseph |
@@ -219,8 +219,8 @@
 | 211 | 471 | Mendoza Lee Christy |
 | 212 | 467 | Sherry Ogden |
 | 213 | 465 | Annie Déè |
-| 214 | 464 | Danielle Weikel |
-| 215 | 464 | Shunta Jacobs |
+| 214 | 464 | Shunta Jacobs |
+| 215 | 464 | Danielle Weikel |
 | 216 | 461 | Tom Nault |
 | 217 | 458 | Danielle Rhoades |
 | 218 | 457 | Edwin Calvillo Jr. |
@@ -277,8 +277,8 @@
 | 269 | 362 | Brandon Givens |
 | 270 | 360 | Cesar Barraza |
 | 271 | 359 | Sleepy |
-| 272 | 357 | Tye Stovall |
-| 273 | 357 | Stephanie Burtin |
+| 272 | 357 | Stephanie Burtin |
+| 273 | 357 | Tye Stovall |
 | 274 | 354 | Andrew Thorson |
 | 275 | 354 | Roary Danner |
 | 276 | 354 | Eileen Brady Thurber |
@@ -452,8 +452,8 @@
 | 444 | 237 | Jolly Dashpiece |
 | 445 | 237 | Rainbow77375 |
 | 446 | 237 | Angella Lyons |
-| 447 | 236 | Alexis Ford |
-| 448 | 236 | Loopy Fallzone |
+| 447 | 236 | Loopy Fallzone |
+| 448 | 236 | Alexis Ford |
 | 449 | 236 | lashanda |
 | 450 | 234 | Cheeky Twisterfit |
 | 451 | 233 | Criss |

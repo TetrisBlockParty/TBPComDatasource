@@ -255,8 +255,8 @@
 | 247 | 1126 | Dolores Russworn |
 | 248 | 1121 | Tommy Tha Boss Gunz |
 | 249 | 1121 | Sarah Freitas |
-| 250 | 1114 | Ginnell Browner |
-| 251 | 1114 | Kevin Walp |
+| 250 | 1114 | Kevin Walp |
+| 251 | 1114 | Ginnell Browner |
 | 252 | 1111 | Julay |
 | 253 | 1110 | Robin Kerby |
 | 254 | 1105 | Nerdy Clearfit |
@@ -390,8 +390,8 @@
 | 382 | 804 | Becca Coronado |
 | 383 | 801 | Gold Rose |
 | 384 | 801 | Diana Fitzwater |
-| 385 | 799 | Joy LaJeunesse |
-| 386 | 799 | Kenny Alvarado |
+| 385 | 799 | Kenny Alvarado |
+| 386 | 799 | Joy LaJeunesse |
 | 387 | 798 | Kathryn Townsley |
 | 388 | 796 | Amber Gray |
 | 389 | 796 | AndrewandShela Gornik |
@@ -580,8 +580,8 @@
 | 572 | 589 | Kelly Templeton |
 | 573 | 588 | Kitybox |
 | 574 | 587 | Ben Barkley |
-| 575 | 585 | Sarah Berger |
-| 576 | 585 | Jessica Lamb |
+| 575 | 585 | Jessica Lamb |
+| 576 | 585 | Sarah Berger |
 | 577 | 584 | Daniell Martinez |
 | 578 | 583 | AISlop |
 | 579 | 582 | Ebony Deloach Bryant |
@@ -1254,8 +1254,8 @@
 | 1246 | 299 | Leslie |
 | 1247 | 299 | Fae-Bulous |
 | 1248 | 298 | Wacky Edgefit |
-| 1249 | 298 | Rachel Switala |
-| 1250 | 298 | Sammie |
+| 1249 | 298 | Sammie |
+| 1250 | 298 | Rachel Switala |
 | 1251 | 298 | Patti Rone |
 | 1252 | 298 | Chill Rotater |
 | 1253 | 298 | Bella Novia |

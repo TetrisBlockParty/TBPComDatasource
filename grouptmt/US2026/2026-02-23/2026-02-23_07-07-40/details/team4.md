@@ -55,8 +55,8 @@
 | 47 | 938 | Denny Shives |
 | 48 | 936 | Rebecca Moulton Pinciaro |
 | 49 | 932 | Marvin Lou Martin |
-| 50 | 911 | Anthony Bryan Riva |
-| 51 | 911 | Jeremy Steines |
+| 50 | 911 | Jeremy Steines |
+| 51 | 911 | Anthony Bryan Riva |
 | 52 | 870 | BertMofo |
 | 53 | 863 | Pee |
 | 54 | 854 | Shelly Chandler |
@@ -74,8 +74,8 @@
 | 66 | 781 | Chilly Line |
 | 67 | 767 | Shannon Ferrari |
 | 68 | 766 | Robin Watters |
-| 69 | 765 | Robin Getchel |
-| 70 | 765 | Denise Carlson |
+| 69 | 765 | Denise Carlson |
+| 70 | 765 | Robin Getchel |
 | 71 | 752 | Shane Kalamata Platoon |
 | 72 | 752 | loulou |
 | 73 | 749 | Dustee Craddock-Harrison |
@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Kimyatta Cavin |
-| 84 | 684 | Jonathan Kimbrough |
+| 83 | 684 | Jonathan Kimbrough |
+| 84 | 684 | Kimyatta Cavin |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -157,11 +157,11 @@
 | 149 | 414 | Nope Young |
 | 150 | 412 | Jessica Bohlken |
 | 151 | 408 | Amanda Pauldo-Ivy |
-| 152 | 406 | Damn Libra |
-| 153 | 406 | Livvy |
+| 152 | 406 | Livvy |
+| 153 | 406 | Damn Libra |
 | 154 | 398 | Tyler Terrific |
-| 155 | 393 | Girl |
-| 156 | 393 | Carlton Unfiltered |
+| 155 | 393 | Carlton Unfiltered |
+| 156 | 393 | Girl |
 | 157 | 391 | Ramel Rhodes |
 | 158 | 389 | Joseph Guthrie |
 | 159 | 387 | Andy Cabral |
@@ -228,7 +228,7 @@
 | 220 | 290 | Plucky Patternblock |
 | 221 | 288 | Zesty Twistbuilder |
 | 222 | 288 | Brittney Orengo |
-| 223 | 288 | Zesty Twistbuilder |
+| 223 | 288 | Adam Stephanie Parker |
 | 224 | 288 | Leah Kutz Zirbel |
 | 225 | 286 | Steph Marie |
 | 226 | 285 | 030Synner |

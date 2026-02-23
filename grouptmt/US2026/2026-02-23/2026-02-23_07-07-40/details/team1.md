@@ -238,8 +238,8 @@
 | 230 | 280 | Billie Dawn Sparks |
 | 231 | 277 | Melissa Lemmon |
 | 232 | 277 | Nutty Spinblock |
-| 233 | 275 | Cheeky Pop |
-| 234 | 275 | Chris65 |
+| 233 | 275 | Chris65 |
+| 234 | 275 | Cheeky Pop |
 | 235 | 274 | Lakeisha Chapman |
 | 236 | 273 | Shannon Marie Pitts |
 | 237 | 272 | Tawnya Peltonen |
