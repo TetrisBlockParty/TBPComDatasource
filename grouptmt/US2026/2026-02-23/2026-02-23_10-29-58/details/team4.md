@@ -76,8 +76,8 @@
 | 68 | 787 | Edward White |
 | 69 | 767 | Shannon Ferrari |
 | 70 | 766 | Robin Watters |
-| 71 | 765 | Robin Getchel |
-| 72 | 765 | Denise Carlson |
+| 71 | 765 | Denise Carlson |
+| 72 | 765 | Robin Getchel |
 | 73 | 753 | TheNeesh50 |
 | 74 | 752 | Shane Kalamata Platoon |
 | 75 | 749 | Dustee Craddock-Harrison |
@@ -286,8 +286,8 @@
 | 278 | 253 | Autum Leigh |
 | 279 | 251 | Carol Ricks Raymond |
 | 280 | 249 | Ak Jones |
-| 281 | 248 | Chirpy Basepiece |
-| 282 | 248 | Angelito |
+| 281 | 248 | Angelito |
+| 282 | 248 | Chirpy Basepiece |
 | 283 | 248 | Jose Dejesus |
 | 284 | 245 | 23 |
 | 285 | 244 | Perky Piecegrid |
@@ -335,8 +335,8 @@
 | 327 | 217 | Paito |
 | 328 | 217 | Alexandra Karavias |
 | 329 | 217 | Cheery Fitline |
-| 330 | 214 | Stacey Stano |
-| 331 | 214 | Patron Anderson |
+| 330 | 214 | Patron Anderson |
+| 331 | 214 | Stacey Stano |
 | 332 | 213 | Jackie Marie |
 | 333 | 212 | Mike Solo |
 | 334 | 212 | Zany Shatterer |

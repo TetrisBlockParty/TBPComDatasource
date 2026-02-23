@@ -76,8 +76,8 @@
 | 68 | 1264 | Amanda L Baker |
 | 69 | 1258 | Danielle Cutler |
 | 70 | 1256 | Jessica Bechler |
-| 71 | 1213 | Snappy Glidepiece |
-| 72 | 1213 | Nerdy Riseclear |
+| 71 | 1213 | Nerdy Riseclear |
+| 72 | 1213 | Snappy Glidepiece |
 | 73 | 1201 | Amanda Adkins |
 | 74 | 1186 | Christian A. Pollard |
 | 75 | 1162 | Gracie |
