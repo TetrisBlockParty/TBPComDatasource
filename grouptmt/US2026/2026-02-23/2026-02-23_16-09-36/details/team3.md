@@ -123,8 +123,8 @@
 | 115 | 891 | Jesse Olive |
 | 116 | 878 | Shane Wilson Jr. |
 | 117 | 874 | Jessica Pineda-Lopez |
-| 118 | 868 | Felicia Rocha |
-| 119 | 868 | Sarajane Lokan |
+| 118 | 868 | Sarajane Lokan |
+| 119 | 868 | Felicia Rocha |
 | 120 | 864 | Sunny Rotater |
 | 121 | 848 | Patricia Gadsden |
 | 122 | 846 | Kristie |
@@ -140,8 +140,8 @@
 | 132 | 774 | Keith J Oshman Jr. |
 | 133 | 773 | Daira Largen |
 | 134 | 770 | Daryn Elliott |
-| 135 | 764 | Groovy Catcher |
-| 136 | 764 | Hasty Cascadefit |
+| 135 | 764 | Hasty Cascadefit |
+| 136 | 764 | Groovy Catcher |
 | 137 | 762 | Speedy Bridger |
 | 138 | 759 | yoyo |
 | 139 | 757 | Fancy Cascader |
@@ -192,8 +192,8 @@
 | 184 | 594 | Kristin Delibac Corrigan |
 | 185 | 591 | Michael Nowogorski |
 | 186 | 587 | Louise Stacy Sisson |
-| 187 | 585 | Domo Washington |
-| 188 | 585 | Happy Tetriblast |
+| 187 | 585 | Happy Tetriblast |
+| 188 | 585 | Domo Washington |
 | 189 | 582 | Natasha Jones |
 | 190 | 576 | Keis |
 | 191 | 568 | Rachael McClain Owens |
@@ -215,8 +215,8 @@
 | 207 | 542 | Trisha Balmer |
 | 208 | 540 | Shawn Miller |
 | 209 | 539 | Betty Bóò |
-| 210 | 537 | Tessina Dewey-Mancino |
-| 211 | 537 | Loopy Fallmatch |
+| 210 | 537 | Loopy Fallmatch |
+| 211 | 537 | Tessina Dewey-Mancino |
 | 212 | 533 | Rania Zaqout |
 | 213 | 531 | Aerian Preston |
 | 214 | 531 | Chauntee Alfrey-Cardinale |

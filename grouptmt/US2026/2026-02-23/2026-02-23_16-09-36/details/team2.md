@@ -377,8 +377,8 @@
 | 369 | 919 | Isaac Trappiel IV |
 | 370 | 916 | Butta |
 | 371 | 915 | Kelly Trent |
-| 372 | 914 | Shuany Arias |
-| 373 | 914 | William Hunt |
+| 372 | 914 | William Hunt |
+| 373 | 914 | Shuany Arias |
 | 374 | 913 | blume |
 | 375 | 909 | Valerie Brooke Lusk Armstrong |
 | 376 | 907 | Gene Mills |
@@ -492,8 +492,8 @@
 | 484 | 750 | Draizen Montrell Thomas |
 | 485 | 750 | Michael Buckner |
 | 486 | 748 | Ann Matzkanin |
-| 487 | 746 | Hoppy Brickmatch |
-| 488 | 746 | Ryan Stadel |
+| 487 | 746 | Ryan Stadel |
+| 488 | 746 | Hoppy Brickmatch |
 | 489 | 746 | Samuel Macon |
 | 490 | 742 | Ganieda |
 | 491 | 742 | Cassie Maynard |
@@ -512,8 +512,8 @@
 | 504 | 726 | Joce Lynn |
 | 505 | 726 | Crystal Greene |
 | 506 | 726 | Ashley Munn |
-| 507 | 725 | Darla Silva |
-| 508 | 725 | Vonceial Boone |
+| 507 | 725 | Vonceial Boone |
+| 508 | 725 | Darla Silva |
 | 509 | 724 | Melissa Holsinger |
 | 510 | 723 | Casper The Chonk |
 | 511 | 716 | Cc |

@@ -331,8 +331,8 @@
 | 323 | 251 | Kathy Allen |
 | 324 | 251 | Carol Ricks Raymond |
 | 325 | 249 | Ak Jones |
-| 326 | 248 | Chirpy Basepiece |
-| 327 | 248 | Angelito |
+| 326 | 248 | Angelito |
+| 327 | 248 | Chirpy Basepiece |
 | 328 | 248 | Jose Dejesus |
 | 329 | 247 | Vic |
 | 330 | 247 | Stephme310 |
@@ -623,13 +623,13 @@
 | 615 | 129 | Tamika Starkey |
 | 616 | 129 | Dreamy Snapgrid |
 | 617 | 129 | RIFATSIKDER |
-| 618 | 128 | Raymond Roberts |
-| 619 | 128 | Lazy Glidepiece |
+| 618 | 128 | Lazy Glidepiece |
+| 619 | 128 | Raymond Roberts |
 | 620 | 128 | Zesty Linkgrid |
-| 621 | 127 | Jay You |
-| 622 | 127 | Joe Lonnemann |
-| 623 | 126 | Spicy Cascadezone |
-| 624 | 126 | PAPatty |
+| 621 | 127 | Joe Lonnemann |
+| 622 | 127 | Jay You |
+| 623 | 126 | PAPatty |
+| 624 | 126 | Spicy Cascadezone |
 | 625 | 125 | Kelly Adams Carnahan |
 | 626 | 125 | Christina Nabrizny |
 | 627 | 125 | Brittany Price |
@@ -1026,7 +1026,7 @@
 | 1018 | 68 | Becky Irby |
 | 1019 | 68 | Aly Eggers |
 | 1020 | 68 | Nicki nikki87 |
-| 1021 | 68 | zelda Morgan |
+| 1021 | 68 | Thomas R. Phillips |
 | 1022 | 68 | Tyler Brown |
 | 1023 | 68 | Garnet Glitz |
 | 1024 | 67 | Bruce Gal |

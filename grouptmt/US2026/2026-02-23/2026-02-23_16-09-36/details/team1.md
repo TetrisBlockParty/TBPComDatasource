@@ -262,8 +262,8 @@
 | 254 | 313 | Sylvia Vasquez |
 | 255 | 312 | Mitchel White |
 | 256 | 311 | Nathan Sealander |
-| 257 | 310 | Christina Norman |
-| 258 | 310 | Bloknboy |
+| 257 | 310 | Bloknboy |
+| 258 | 310 | Christina Norman |
 | 259 | 308 | Speedy Liney |
 | 260 | 307 | Νεφ Όνυξ |
 | 261 | 307 | Plucky Stacky |
