@@ -125,8 +125,8 @@
 | 117 | 769 | Kristie |
 | 118 | 764 | Groovy Catcher |
 | 119 | 762 | Speedy Bridger |
-| 120 | 752 | Logan Naccarato |
-| 121 | 752 | Raya |
+| 120 | 752 | Raya |
+| 121 | 752 | Logan Naccarato |
 | 122 | 748 | Adrian Marcel Pate |
 | 123 | 745 | JerseyJess |
 | 124 | 744 | Leah Barnett |
@@ -167,8 +167,8 @@
 | 159 | 591 | Michael Nowogorski |
 | 160 | 588 | Justin Ritter |
 | 161 | 587 | Louise Stacy Sisson |
-| 162 | 585 | Annie Marie |
-| 163 | 585 | Happy Tetriblast |
+| 162 | 585 | Happy Tetriblast |
+| 163 | 585 | Annie Marie |
 | 164 | 582 | Natasha Jones |
 | 165 | 579 | Tasha Gillespie |
 | 166 | 577 | Domo Washington |
@@ -392,8 +392,8 @@
 | 384 | 259 | Dana Winters |
 | 385 | 259 | Shania Vaine |
 | 386 | 258 | IamJust Neyamijah Washington Sr. |
-| 387 | 257 | Chris Wallace |
-| 388 | 257 | Saucy Buildout |
+| 387 | 257 | Saucy Buildout |
+| 388 | 257 | Chris Wallace |
 | 389 | 257 | Rachel Grant |
 | 390 | 255 | Sharisse Baltimore |
 | 391 | 255 | Mariah Williams |

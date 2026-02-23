@@ -93,8 +93,8 @@
 | 85 | 2515 | Crystalin Heath Lewis |
 | 86 | 2500 | Rosemadder |
 | 87 | 2438 | Rob Surace |
-| 88 | 2428 | Thomas Hughes |
-| 89 | 2428 | Deanna Morton |
+| 88 | 2428 | Deanna Morton |
+| 89 | 2428 | Thomas Hughes |
 | 90 | 2410 | RdRydnHd |
 | 91 | 2400 | Rich Sullivan |
 | 92 | 2375 | Megan Peckham |
@@ -207,16 +207,16 @@
 | 199 | 1306 | Isabela Shaw |
 | 200 | 1300 | Tacara Cummings |
 | 201 | 1286 | Altamirano Michael |
-| 202 | 1282 | Tanya Parsons |
-| 203 | 1282 | Ashley Rose Frederick |
+| 202 | 1282 | Ashley Rose Frederick |
+| 203 | 1282 | Tanya Parsons |
 | 204 | 1278 | Lemonaide |
 | 205 | 1259 | Foxxo |
 | 206 | 1258 | Joyce Johnson Vaughn |
 | 207 | 1252 | Angel |
 | 208 | 1245 | Cody Nishimura |
 | 209 | 1237 | Megan Ferguson Leone |
-| 210 | 1232 | Ambyre Patterson |
-| 211 | 1232 | Groovy Puzzle |
+| 210 | 1232 | Groovy Puzzle |
+| 211 | 1232 | Ambyre Patterson |
 | 212 | 1230 | Megan Garrick |
 | 213 | 1217 | Brooks Brooks |
 | 214 | 1217 | Lucky Ladybug |
@@ -891,8 +891,8 @@
 | 883 | 395 | Treshell Boyd |
 | 884 | 394 | Snappy Shatterfit |
 | 885 | 393 | Jamie West |
-| 886 | 393 | CC |
-| 887 | 393 | Bing |
+| 886 | 393 | Bing |
+| 887 | 393 | CC |
 | 888 | 392 | Jannan Haimour |
 | 889 | 392 | Christy Green |
 | 890 | 391 | Chilly Bridgepiece |

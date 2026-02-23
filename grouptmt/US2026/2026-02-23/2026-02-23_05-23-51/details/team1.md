@@ -78,8 +78,8 @@
 | 70 | 706 | Seante Bullock |
 | 71 | 705 | comrade fish |
 | 72 | 704 | Karin Gillen |
-| 73 | 703 | Angel Fowler |
-| 74 | 703 | Snappy Swiper |
+| 73 | 703 | Snappy Swiper |
+| 74 | 703 | Angel Fowler |
 | 75 | 655 | Brenda Stewart |
 | 76 | 647 | Jason Jones |
 | 77 | 646 | Susanna Guerry |
@@ -96,8 +96,8 @@
 | 88 | 570 | Cody Slav |
 | 89 | 562 | Denice Dee |
 | 90 | 537 | Tee Sheree |
-| 91 | 534 | Loony Fitzone |
-| 92 | 534 | Veronica Eve |
+| 91 | 534 | Veronica Eve |
+| 92 | 534 | Loony Fitzone |
 | 93 | 532 | Robert Benito |
 | 94 | 529 | Ryan Lunnin |
 | 95 | 522 | Sarah Lombardo |
@@ -267,8 +267,8 @@
 | 259 | 242 | Tyler Hertzog |
 | 260 | 238 | Tiffany Smith |
 | 261 | 236 | LC |
-| 262 | 235 | Angela Fairbank |
-| 263 | 235 | Ariel Whittington |
+| 262 | 235 | Ariel Whittington |
+| 263 | 235 | Angela Fairbank |
 | 264 | 234 | Sean Stallings |
 | 265 | 234 | Paula Martin |
 | 266 | 233 | Shiny Gridmatch |
