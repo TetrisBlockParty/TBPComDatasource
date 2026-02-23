@@ -103,8 +103,8 @@
 | 95 | 529 | Ryan Lunnin |
 | 96 | 522 | Sarah Lombardo |
 | 97 | 511 | Mario Cab |
-| 98 | 510 | Chirpy Smasher |
-| 99 | 510 | Colena Davenport |
+| 98 | 510 | Colena Davenport |
+| 99 | 510 | Chirpy Smasher |
 | 100 | 509 | Rachael |
 | 101 | 497 | Arianna O'Brien |
 | 102 | 497 | Anaid Sanchez |
@@ -143,8 +143,8 @@
 | 135 | 411 | BadG52 |
 | 136 | 410 | ALFD |
 | 137 | 409 | Goose egg |
-| 138 | 406 | Desiree Deschaine Havee |
-| 139 | 406 | Candy Jones |
+| 138 | 406 | Candy Jones |
+| 139 | 406 | Desiree Deschaine Havee |
 | 140 | 402 | Chris K |
 | 141 | 399 | Nery Martinez |
 | 142 | 394 | Lori Bales |
@@ -209,16 +209,16 @@
 | 201 | 317 | Kimberly Garcia |
 | 202 | 316 | Reesey Enyart |
 | 203 | 315 | Danielle Little-Daugherty |
-| 204 | 314 | Tana |
-| 205 | 314 | Snippy Wipebuilder |
+| 204 | 314 | Snippy Wipebuilder |
+| 205 | 314 | Tana |
 | 206 | 312 | Jessi Sauer |
 | 207 | 310 | Bloknboy |
 | 208 | 308 | Speedy Liney |
 | 209 | 307 | femmefatale |
-| 210 | 306 | Angela Renea Lester |
-| 211 | 306 | Tiger Lily |
-| 212 | 301 | Damon J. Martin |
-| 213 | 301 | Cody Gates |
+| 210 | 306 | Tiger Lily |
+| 211 | 306 | Angela Renea Lester |
+| 212 | 301 | Cody Gates |
+| 213 | 301 | Damon J. Martin |
 | 214 | 300 | Sleepysloath5745 |
 | 215 | 298 | Billie Ann Eason |
 | 216 | 298 | Sweetts |
@@ -332,8 +332,8 @@
 | 324 | 217 | Betsy |
 | 325 | 216 | Shauntina Burke |
 | 326 | 216 | Chad Atchley |
-| 327 | 215 | Alenoush Karimian |
-| 328 | 215 | Christina Norman |
+| 327 | 215 | Christina Norman |
+| 328 | 215 | Alenoush Karimian |
 | 329 | 214 | Kayla Marie Stevenson |
 | 330 | 213 | Ed Franz Jr |
 | 331 | 213 | Poppy Riserpiece |

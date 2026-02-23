@@ -44,8 +44,8 @@
 | 36 | 4199 | Claire Noland |
 | 37 | 4128 | Angela Pruitt |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Corrine Hawks Soriano |
-| 40 | 4120 | Kristen Sceurman |
+| 39 | 4120 | Kristen Sceurman |
+| 40 | 4120 | Corrine Hawks Soriano |
 | 41 | 3845 | jayjay |
 | 42 | 3813 | Devin Lee |
 | 43 | 3779 | Melinda Brown |
@@ -250,8 +250,8 @@
 | 242 | 1142 | Sheniya Spurgeon |
 | 243 | 1141 | Adam Erikson |
 | 244 | 1140 | Sarah Ridenour |
-| 245 | 1135 | Chirpy Staggerpiece |
-| 246 | 1135 | Samantha Roberts |
+| 245 | 1135 | Samantha Roberts |
+| 246 | 1135 | Chirpy Staggerpiece |
 | 247 | 1134 | Prado |
 | 248 | 1132 | Woodys Glass |
 | 249 | 1126 | Dolores Russworn |
@@ -298,8 +298,8 @@
 | 290 | 1010 | Brittany Radaszewski |
 | 291 | 1007 | Missie Lawson Gebhardt |
 | 292 | 1003 | Andrea Maher |
-| 293 | 998 | Shelley Thornburgh Wright |
-| 294 | 998 | Keri Womack |
+| 293 | 998 | Keri Womack |
+| 294 | 998 | Shelley Thornburgh Wright |
 | 295 | 996 | Ashie Ann |
 | 296 | 987 | Osun Anuket Esu |
 | 297 | 987 | F-X |
@@ -386,9 +386,9 @@
 | 378 | 816 | Beth |
 | 379 | 816 | James Simms III |
 | 380 | 812 | Samantha Jo |
-| 381 | 808 | Connie Jimenez |
-| 382 | 808 | Desire Rice |
-| 383 | 808 | Laura McCarthey |
+| 381 | 808 | Desire Rice |
+| 382 | 808 | Laura McCarthey |
+| 383 | 808 | Connie Jimenez |
 | 384 | 804 | Becca Coronado |
 | 385 | 801 | Gold Rose |
 | 386 | 801 | Diana Fitzwater |
@@ -405,8 +405,8 @@
 | 397 | 788 | Erika Densmore |
 | 398 | 787 | Tiara Elizabeth Baker |
 | 399 | 783 | John Rodriguez |
-| 400 | 777 | Tesha Oldaker |
-| 401 | 777 | Jessicah Myers |
+| 400 | 777 | Jessicah Myers |
+| 401 | 777 | Tesha Oldaker |
 | 402 | 776 | Fancy Twister |
 | 403 | 776 | Mighty Spinbuilder |
 | 404 | 775 | Crystie Hicks |
@@ -459,8 +459,8 @@
 | 451 | 720 | BeQuo |
 | 452 | 720 | Giggy Mover |
 | 453 | 714 | Caitlyn Blackwell |
-| 454 | 713 | Christie |
-| 455 | 713 | Draizen Montrell Thomas |
+| 454 | 713 | Draizen Montrell Thomas |
+| 455 | 713 | Christie |
 | 456 | 712 | Amanda Ferrell |
 | 457 | 711 | Narutofreak13 |
 | 458 | 710 | Mama T |
@@ -778,13 +778,13 @@
 | 770 | 462 | Samantha Scibelli |
 | 771 | 462 | Danielle Ayoub |
 | 772 | 461 | Alexis Richardson |
-| 773 | 461 | Julie Hamilton |
-| 774 | 461 | Amanda Segura |
-| 775 | 461 | Kristen O'Neal |
-| 776 | 461 | Amanda West |
+| 773 | 461 | Amanda Segura |
+| 774 | 461 | Julie Hamilton |
+| 775 | 461 | Amanda West |
+| 776 | 461 | Kristen O'Neal |
 | 777 | 460 | LaWanda Powell |
-| 778 | 459 | Pocho Zavala |
-| 779 | 459 | Sonya Back |
+| 778 | 459 | Sonya Back |
+| 779 | 459 | Pocho Zavala |
 | 780 | 459 | Gloria Liu |
 | 781 | 457 | Kelly Meredeith |
 | 782 | 457 | Jennifer Coe |
@@ -809,11 +809,11 @@
 | 801 | 447 | Boozi |
 | 802 | 446 | Colin Morgan |
 | 803 | 446 | Courtney Burcham |
-| 804 | 445 | Beatboxxer |
-| 805 | 445 | Mar Q Thomas |
+| 804 | 445 | Mar Q Thomas |
+| 805 | 445 | Beatboxxer |
 | 806 | 444 | Angela Murgia-Owen |
-| 807 | 443 | Dimitra Zazara |
-| 808 | 443 | Giggy Grabber |
+| 807 | 443 | Giggy Grabber |
+| 808 | 443 | Dimitra Zazara |
 | 809 | 442 | Juan Castillo |
 | 810 | 442 | Rain |
 | 811 | 441 | Goofy Catcher |
@@ -833,8 +833,8 @@
 | 825 | 435 | John |
 | 826 | 435 | Taylor Flowers |
 | 827 | 434 | Twisty Tetriblast |
-| 828 | 433 | Melissa Koria |
-| 829 | 433 | Jessica Hughes |
+| 828 | 433 | Jessica Hughes |
+| 829 | 433 | Melissa Koria |
 | 830 | 433 | Marisa Madge |
 | 831 | 432 | Michelle Shrum |
 | 832 | 431 | Quinn |
@@ -867,12 +867,12 @@
 | 859 | 417 | Rebecca Garland |
 | 860 | 417 | Janai Vrabel |
 | 861 | 417 | Mandy Kachenmeister |
-| 862 | 416 | Veronics |
-| 863 | 416 | Alicia Moreno |
+| 862 | 416 | Alicia Moreno |
+| 863 | 416 | Veronics |
 | 864 | 416 | Christine Lockwood |
 | 865 | 415 | Bonita Kee |
-| 866 | 415 | Allyson Marra |
-| 867 | 415 | Noel Tarmy |
+| 866 | 415 | Noel Tarmy |
+| 867 | 415 | Allyson Marra |
 | 868 | 415 | Cranky Tower |
 | 869 | 414 | Court |
 | 870 | 414 | Cini |
@@ -893,12 +893,12 @@
 | 885 | 406 | Lazy Builderfit |
 | 886 | 406 | Susan Arnburg |
 | 887 | 405 | Carrie Mitchell |
-| 888 | 405 | Marget Kay |
-| 889 | 405 | Dane Reing |
+| 888 | 405 | Dane Reing |
+| 889 | 405 | Marget Kay |
 | 890 | 405 | Swanky Columnbuilder |
 | 891 | 404 | Jannan Haimour |
-| 892 | 404 | Christy Green |
-| 893 | 404 | Jes Norris |
+| 892 | 404 | Jes Norris |
+| 893 | 404 | Christy Green |
 | 894 | 404 | Denisse Avilez |
 | 895 | 404 | Shylee Tilman |
 | 896 | 403 | Goofy Dasher |

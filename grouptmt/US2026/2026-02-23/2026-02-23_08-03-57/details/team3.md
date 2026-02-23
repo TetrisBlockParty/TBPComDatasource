@@ -196,8 +196,8 @@
 | 188 | 546 | Tasha Schriewer |
 | 189 | 546 | Mykal Burton |
 | 190 | 540 | Shawn Miller |
-| 191 | 531 | Sarah Cowan Burgos |
-| 192 | 531 | Chauntee Alfrey-Cardinale |
+| 191 | 531 | Chauntee Alfrey-Cardinale |
+| 192 | 531 | Sarah Cowan Burgos |
 | 193 | 528 | Silly Twist |
 | 194 | 525 | Stephanie Blkpep Davidson |
 | 195 | 524 | Bmo |
@@ -223,8 +223,8 @@
 | 215 | 471 | Mendoza Lee Christy |
 | 216 | 467 | Sherry Ogden |
 | 217 | 465 | Annie Déè |
-| 218 | 464 | Shunta Jacobs |
-| 219 | 464 | Danielle Weikel |
+| 218 | 464 | Danielle Weikel |
+| 219 | 464 | Shunta Jacobs |
 | 220 | 461 | Tom Nault |
 | 221 | 458 | Danielle Rhoades |
 | 222 | 454 | Joye Sims Binion |
@@ -240,8 +240,8 @@
 | 232 | 430 | Trisha Balmer |
 | 233 | 418 | Rebecca Funderburk Kirby |
 | 234 | 414 | Fran Lin |
-| 235 | 410 | Stephanie Simpson |
-| 236 | 410 | Duane Bright |
+| 235 | 410 | Duane Bright |
+| 236 | 410 | Stephanie Simpson |
 | 237 | 408 | Tiffany Ford |
 | 238 | 406 | Kristal C Lee |
 | 239 | 404 | Chasity |
@@ -288,8 +288,8 @@
 | 280 | 353 | Cyd061769 |
 | 281 | 353 | Dee Franklin |
 | 282 | 352 | Christian Werndl |
-| 283 | 351 | Eon Harris |
-| 284 | 351 | Blocked |
+| 283 | 351 | Blocked |
+| 284 | 351 | Eon Harris |
 | 285 | 350 | LaShey Thompson |
 | 286 | 349 | Amanda J. Mcneil-Anderson |
 | 287 | 348 | Ashley Raines |
@@ -308,8 +308,8 @@
 | 300 | 336 | Foltz Lee Kelli |
 | 301 | 336 | Jojo M |
 | 302 | 335 | victory |
-| 303 | 332 | Brittany |
-| 304 | 332 | Velma Mull |
+| 303 | 332 | Velma Mull |
+| 304 | 332 | Brittany |
 | 305 | 331 | Gray Hicks |
 | 306 | 329 | Angela Scott |
 | 307 | 328 | Desiree Soto |
@@ -344,14 +344,14 @@
 | 336 | 299 | TotoCherue |
 | 337 | 299 | Angie Harper |
 | 338 | 299 | Hasty Gridpiece |
-| 339 | 298 | Grams |
-| 340 | 298 | Dannie Litchard |
+| 339 | 298 | Dannie Litchard |
+| 340 | 298 | Grams |
 | 341 | 297 | kacihall |
 | 342 | 296 | Tracy Martin |
 | 343 | 296 | Donna |
 | 344 | 295 | Nikki Pags |
 | 345 | 294 | Antonia Russell |
-| 346 | 292 | Lizabeth Fox |
+| 346 | 292 | Kirhonda Autmon |
 | 347 | 292 | Khaleada McGill Banks |
 | 348 | 292 | Lizabeth Fox |
 | 349 | 289 | Cheryl Hinch Tenbrook |
@@ -384,8 +384,8 @@
 | 376 | 274 | Mary Giorgenti |
 | 377 | 274 | Ava Petito |
 | 378 | 273 | Brenda Schmid Wood |
-| 379 | 272 | Todd Hall |
-| 380 | 272 | Tay |
+| 379 | 272 | Tay |
+| 380 | 272 | Todd Hall |
 | 381 | 272 | Romeo |
 | 382 | 269 | Jess Bissett |
 | 383 | 269 | Samantha Worley |
@@ -469,8 +469,8 @@
 | 461 | 230 | BigE |
 | 462 | 229 | MizzMonick Smith |
 | 463 | 229 | Everret Maxine |
-| 464 | 228 | Tipsy Zonebuilder |
-| 465 | 228 | Dapper Liney |
+| 464 | 228 | Dapper Liney |
+| 465 | 228 | Tipsy Zonebuilder |
 | 466 | 227 | Meowsa |
 | 467 | 226 | Ryan Williams |
 | 468 | 226 | Jana Polk |
@@ -490,8 +490,8 @@
 | 482 | 221 | Glitzy Rotate |
 | 483 | 220 | Bhreagh Gentile |
 | 484 | 219 | TLM |
-| 485 | 219 | Angel Miller |
-| 486 | 219 | Trice Thomas |
+| 485 | 219 | Trice Thomas |
+| 486 | 219 | Angel Miller |
 | 487 | 218 | Sabrina Mansfield |
 | 488 | 218 | Dapper Chiseler |
 | 489 | 218 | Tina Smith Roy |
@@ -561,8 +561,8 @@
 | 553 | 193 | Clever Shiftsnap |
 | 554 | 193 | Bryan Byrd |
 | 555 | 193 | Ginger Gray |
-| 556 | 192 | Laura Booth Wosko |
-| 557 | 192 | Kelly Ann Child |
+| 556 | 192 | Kelly Ann Child |
+| 557 | 192 | Laura Booth Wosko |
 | 558 | 192 | Jennifer Neiman Gaal |
 | 559 | 191 | Sarah Tschee |
 | 560 | 191 | Silver Marchán |
@@ -583,9 +583,9 @@
 | 575 | 187 | Kelly Koenig |
 | 576 | 187 | luluraine |
 | 577 | 187 | Crystal Johnson |
-| 578 | 186 | Rayzer |
-| 579 | 186 | Jack Bo |
-| 580 | 186 | Funky Jumper |
+| 578 | 186 | Jack Bo |
+| 579 | 186 | Funky Jumper |
+| 580 | 186 | Rayzer |
 | 581 | 185 | Ashley Kennedy |
 | 582 | 185 | Breezy Roll |
 | 583 | 184 | Shanon R Jackson |

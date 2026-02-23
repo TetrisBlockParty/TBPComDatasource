@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Kimyatta Cavin |
-| 84 | 684 | Jonathan Kimbrough |
+| 83 | 684 | Jonathan Kimbrough |
+| 84 | 684 | Kimyatta Cavin |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -161,8 +161,8 @@
 | 153 | 413 | Circuit8 |
 | 154 | 412 | Jessica Bohlken |
 | 155 | 408 | Amanda Pauldo-Ivy |
-| 156 | 406 | Livvy |
-| 157 | 406 | Damn Libra |
+| 156 | 406 | Damn Libra |
+| 157 | 406 | Livvy |
 | 158 | 403 | Keith Kelley |
 | 159 | 398 | Tyler Terrific |
 | 160 | 393 | Girl |
@@ -175,7 +175,7 @@
 | 167 | 372 | Antony Dwayne Beasley |
 | 168 | 370 | Oscar Alberto Perez |
 | 169 | 369 | Lindsey Gonzalez |
-| 170 | 368 | Raegan Lane-Ross |
+| 170 | 368 | Silly Zonebuilder |
 | 171 | 368 | Chris Bernstein |
 | 172 | 368 | Brandon Crabbs |
 | 173 | 368 | Raegan Lane-Ross |
@@ -248,8 +248,8 @@
 | 240 | 276 | Joeliecea Cobb |
 | 241 | 276 | Matt Dell'Olio |
 | 242 | 273 | Cranky Rollpiece |
-| 243 | 272 | Dennis Bradley |
-| 244 | 272 | Alan George LaRage |
+| 243 | 272 | Alan George LaRage |
+| 244 | 272 | Dennis Bradley |
 | 245 | 271 | Holly |
 | 246 | 270 | Jen Caldwell |
 | 247 | 266 | Nubian1 |
@@ -326,8 +326,8 @@
 | 318 | 216 | mike |
 | 319 | 216 | Chantilly Laace |
 | 320 | 215 | Stephme310 |
-| 321 | 214 | Patron Anderson |
-| 322 | 214 | Stacey Stano |
+| 321 | 214 | Stacey Stano |
+| 322 | 214 | Patron Anderson |
 | 323 | 213 | Jackie Marie |
 | 324 | 212 | Zany Shatterer |
 | 325 | 212 | Mike Solo |
@@ -354,10 +354,10 @@
 | 346 | 200 | Googenheim |
 | 347 | 198 | Calvin Dennis |
 | 348 | 197 | Shiny Fit |
-| 349 | 196 | Blessedmama |
-| 350 | 196 | Megan Cutshaw |
+| 349 | 196 | Megan Cutshaw |
+| 350 | 196 | Blessedmama |
 | 351 | 195 | Dustin York |
-| 352 | 194 | Michelle Morris |
+| 352 | 194 | Zany Twisterfit |
 | 353 | 194 | SammieJo Guy |
 | 354 | 194 | Michelle Morris |
 | 355 | 192 | Twisty Risebuilder |
@@ -403,8 +403,8 @@
 | 395 | 177 | Helen Chao |
 | 396 | 177 | Chao Ma |
 | 397 | 177 | Lora |
-| 398 | 176 | Cindy Looper |
-| 399 | 176 | B Renee Desjardin |
+| 398 | 176 | B Renee Desjardin |
+| 399 | 176 | Cindy Looper |
 | 400 | 176 | Brickh4us |
 | 401 | 175 | Lorena Guerrero-Barron |
 | 402 | 175 | Jim Hart |
@@ -417,9 +417,9 @@
 | 409 | 173 | Tanner Lund |
 | 410 | 172 | Undeniable Williams |
 | 411 | 172 | Janis Brown |
-| 412 | 171 | Terrance Fung |
+| 412 | 171 | Milan Markeisha |
 | 413 | 171 | Dapper Balancer |
-| 414 | 171 | Milan Markeisha |
+| 414 | 171 | Terrance Fung |
 | 415 | 171 | Brittany Little |
 | 416 | 170 | ChasingZen |
 | 417 | 170 | Peppy Drop |
@@ -459,8 +459,8 @@
 | 451 | 159 | Groovy Brickmatch |
 | 452 | 158 | Jasmine S Caldwell |
 | 453 | 158 | Dapper Frame |
-| 454 | 157 | Ryry |
-| 455 | 157 | LunaMoon |
+| 454 | 157 | LunaMoon |
+| 455 | 157 | Ryry |
 | 456 | 157 | David Boggs |
 | 457 | 156 | Mighty Edgepiece |
 | 458 | 156 | Funky Risepiece |
@@ -651,9 +651,9 @@
 | 643 | 108 | Kevin Blevins |
 | 644 | 108 | Mcg |
 | 645 | 107 | BROOKE |
-| 646 | 107 | Carlos G Reyes |
-| 647 | 107 | Laura McPheeters |
-| 648 | 107 | Matt Morrow |
+| 646 | 107 | Robert Rangel |
+| 647 | 107 | Niome Encinias |
+| 648 | 107 | Cranky Glidebuilder |
 | 649 | 107 | BlockBabe |
 | 650 | 107 | Laura McPheeters |
 | 651 | 107 | Carlos G Reyes |
