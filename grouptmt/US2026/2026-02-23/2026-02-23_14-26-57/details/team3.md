@@ -81,8 +81,8 @@
 | 73 | 1256 | Jessica Bechler |
 | 74 | 1244 | Lori Barnaby |
 | 75 | 1221 | Betty Ivy |
-| 76 | 1213 | Snappy Glidepiece |
-| 77 | 1213 | Nerdy Riseclear |
+| 76 | 1213 | Nerdy Riseclear |
+| 77 | 1213 | Snappy Glidepiece |
 | 78 | 1209 | Amanda Adkins |
 | 79 | 1190 | Jay Horn |
 | 80 | 1186 | Christian A. Pollard |
@@ -180,26 +180,26 @@
 | 172 | 602 | Jacqueline Rodriguez |
 | 173 | 599 | opf |
 | 174 | 598 | Makelini Mausia |
-| 175 | 597 | Diana Ibarra |
-| 176 | 597 | CeceGeGe |
-| 177 | 591 | Kaycee Kay |
-| 178 | 591 | Michael Nowogorski |
+| 175 | 597 | CeceGeGe |
+| 176 | 597 | Diana Ibarra |
+| 177 | 591 | Michael Nowogorski |
+| 178 | 591 | Kaycee Kay |
 | 179 | 587 | Louise Stacy Sisson |
-| 180 | 585 | Domo Washington |
-| 181 | 585 | Happy Tetriblast |
+| 180 | 585 | Happy Tetriblast |
+| 181 | 585 | Domo Washington |
 | 182 | 583 | Tasha Gillespie |
 | 183 | 582 | Natasha Jones |
 | 184 | 574 | Morgan Martinez |
 | 185 | 568 | Rachael McClain Owens |
 | 186 | 566 | LaTanya GeminiondaRise Johnson |
-| 187 | 564 | Christine Trester |
-| 188 | 564 | Poppy Splitter |
+| 187 | 564 | Poppy Splitter |
+| 188 | 564 | Christine Trester |
 | 189 | 563 | Jim Mathews |
 | 190 | 562 | Dave Herzog |
 | 191 | 561 | Elissa S-k |
 | 192 | 559 | Patti Skiles |
-| 193 | 549 | Sarah Cowan Burgos |
-| 194 | 549 | Tasha Schriewer |
+| 193 | 549 | Tasha Schriewer |
+| 194 | 549 | Sarah Cowan Burgos |
 | 195 | 548 | Danielle Balcom |
 | 196 | 547 | Staci George Fitzsimmons |
 | 197 | 546 | Cynthia Castros-Hampton |
@@ -432,8 +432,8 @@
 | 424 | 276 | Crimson |
 | 425 | 275 | Cassandra Bryant |
 | 426 | 273 | BigE |
-| 427 | 273 | Kevin Fountain |
-| 428 | 273 | Beppy |
+| 427 | 273 | Beppy |
+| 428 | 273 | Kevin Fountain |
 | 429 | 273 | Michael Latasha Gray |
 | 430 | 272 | Beejangles |
 | 431 | 272 | Loopy Fallzone |
