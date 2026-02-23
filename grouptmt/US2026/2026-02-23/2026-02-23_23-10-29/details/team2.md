@@ -277,8 +277,8 @@
 | 269 | 1315 | Lucky Ladybug |
 | 270 | 1308 | Eric Carlson |
 | 271 | 1304 | Sarah Ridenour |
-| 272 | 1303 | Ronnie Nelson |
-| 273 | 1303 | Michele Morgan |
+| 272 | 1303 | Michele Morgan |
+| 273 | 1303 | Ronnie Nelson |
 | 274 | 1302 | Angie Marie |
 | 275 | 1300 | Tacara Cummings |
 | 276 | 1297 | Dimitra Zazara |
@@ -294,8 +294,8 @@
 | 286 | 1264 | Missie Lawson Gebhardt |
 | 287 | 1260 | Roman Lavochnik |
 | 288 | 1259 | Foxxo |
-| 289 | 1257 | Megan Ferguson Leone |
-| 290 | 1257 | Megan Garrick |
+| 289 | 1257 | Megan Garrick |
+| 290 | 1257 | Megan Ferguson Leone |
 | 291 | 1247 | Ericka Marie Smith |
 | 292 | 1245 | Doowop40 |
 | 293 | 1241 | Jennifer Casey-Kay |
@@ -392,8 +392,8 @@
 | 384 | 1004 | Tiara Elizabeth Baker |
 | 385 | 1000 | Ashley Guernsey-Martin |
 | 386 | 999 | Donna M Carter |
-| 387 | 998 | Alex Stone LaRue |
-| 388 | 998 | Kathryn Townsley |
+| 387 | 998 | Kathryn Townsley |
+| 388 | 998 | Alex Stone LaRue |
 | 389 | 997 | Megan Brianna |
 | 390 | 996 | Dedra Steward |
 | 391 | 995 | Angel Hunnewell |
@@ -589,8 +589,8 @@
 | 581 | 736 | Ashley Munn |
 | 582 | 735 | Bonita Kee |
 | 583 | 734 | Emily Lyric Converse |
-| 584 | 733 | Lylymom |
-| 585 | 733 | Joce Lynn |
+| 584 | 733 | Joce Lynn |
+| 585 | 733 | Lylymom |
 | 586 | 733 | Christine Bollig |
 | 587 | 732 | Cris cris |
 | 588 | 731 | Melissa Holsinger |

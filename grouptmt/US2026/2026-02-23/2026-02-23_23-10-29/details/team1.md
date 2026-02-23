@@ -103,8 +103,8 @@
 | 95 | 742 | Susanna Guerry |
 | 96 | 740 | Lori Sanders- Davis |
 | 97 | 722 | Kellie |
-| 98 | 706 | Denice Dee |
-| 99 | 706 | Plucky Fallzone |
+| 98 | 706 | Plucky Fallzone |
+| 99 | 706 | Denice Dee |
 | 100 | 704 | Karin Gillen |
 | 101 | 703 | Angel Fowler |
 | 102 | 691 | Rachael |
@@ -121,8 +121,8 @@
 | 113 | 612 | femmefatale |
 | 114 | 604 | Ryan Lunnin |
 | 115 | 603 | Ty Brown |
-| 116 | 601 | Evan Richmond |
-| 117 | 601 | Phu ckalldems |
+| 116 | 601 | Phu ckalldems |
+| 117 | 601 | Evan Richmond |
 | 118 | 598 | Jessi Sauer |
 | 119 | 594 | Basment Living |
 | 120 | 589 | Chris K |
@@ -164,8 +164,8 @@
 | 156 | 497 | Arianna O'Brien |
 | 157 | 494 | Sean Stallings |
 | 158 | 492 | Rebekah LeiAnn Bonsell |
-| 159 | 491 | Michelle Beres |
-| 160 | 491 | cc |
+| 159 | 491 | cc |
+| 160 | 491 | Michelle Beres |
 | 161 | 488 | Hyper |
 | 162 | 483 | Dandy Basegrid |
 | 163 | 483 | Trina Gee |
@@ -219,8 +219,8 @@
 | 211 | 393 | Lehrin Maria |
 | 212 | 393 | Witty Builderfit |
 | 213 | 392 | Kathy Langham |
-| 214 | 387 | Carrie Smith |
-| 215 | 387 | Ananda Mendez |
+| 214 | 387 | Ananda Mendez |
+| 215 | 387 | Carrie Smith |
 | 216 | 386 | Brian Spotts |
 | 217 | 384 | Jamise Brown |
 | 218 | 384 | Tami Luce Martin |
@@ -343,7 +343,7 @@
 | 335 | 290 | Tavia |
 | 336 | 289 | Speedy Snapfall |
 | 337 | 289 | Nate Price |
-| 338 | 289 | Speedy Snapfall |
+| 338 | 289 | Michael |
 | 339 | 288 | Tanya Banks |
 | 340 | 287 | Itspaigebro |
 | 341 | 287 | Shanae Grant |
@@ -505,8 +505,8 @@
 | 497 | 204 | Jason Cox |
 | 498 | 204 | Jill King Oldham |
 | 499 | 203 | Ashley Rodriguez |
-| 500 | 202 | Barry Mac'Ockner |
-| 501 | 202 | grizzly |
+| 500 | 202 | grizzly |
+| 501 | 202 | Barry Mac'Ockner |
 | 502 | 201 | Sunshine |
 | 503 | 201 | Tedashi |
 | 504 | 200 | Alphonza Keyes Jr. |
@@ -656,8 +656,8 @@
 | 648 | 160 | Ruf Lowman |
 | 649 | 159 | Sarah Cassese |
 | 650 | 158 | Daring Roll |
-| 651 | 157 | Donna Taliger Brigante |
-| 652 | 157 | davis13 |
+| 651 | 157 | davis13 |
+| 652 | 157 | Donna Taliger Brigante |
 | 653 | 157 | Heather Martin |
 | 654 | 156 | William Touzin |
 | 655 | 156 | Tammy Autry |

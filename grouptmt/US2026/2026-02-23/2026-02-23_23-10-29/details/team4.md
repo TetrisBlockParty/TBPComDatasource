@@ -62,8 +62,8 @@
 | 54 | 1156 | Goatimus Lombardi |
 | 55 | 1150 | Kimyatta Cavin |
 | 56 | 1106 | Ashley Ingram |
-| 57 | 1082 | Dion Crommarty |
-| 58 | 1082 | Avy Absol |
+| 57 | 1082 | Avy Absol |
+| 58 | 1082 | Dion Crommarty |
 | 59 | 1073 | Dustee Craddock-Harrison |
 | 60 | 1072 | Rachel Anne |
 | 61 | 1049 | Heather Tushner |
@@ -214,8 +214,8 @@
 | 206 | 438 | Melvin Baird |
 | 207 | 438 | Jen Mattei |
 | 208 | 434 | Ramel Rhodes |
-| 209 | 433 | Damn Libra |
-| 210 | 433 | Circuit8 |
+| 209 | 433 | Circuit8 |
+| 210 | 433 | Damn Libra |
 | 211 | 431 | Zesty Twistbuilder |
 | 212 | 427 | Steph Marie |
 | 213 | 427 | Chao Ma |
@@ -225,8 +225,8 @@
 | 217 | 421 | JIGsaw ~(•¿°)~ |
 | 218 | 419 | Manny1 |
 | 219 | 419 | Chris Bernstein |
-| 220 | 418 | Marie-Pier Desjardins |
-| 221 | 418 | Lush Linkfall |
+| 220 | 418 | Lush Linkfall |
+| 221 | 418 | Marie-Pier Desjardins |
 | 222 | 414 | Silly Zonebuilder |
 | 223 | 413 | John Brunetti |
 | 224 | 411 | Autumn Kumzi |
@@ -265,8 +265,8 @@
 | 257 | 365 | Hyper Builder |
 | 258 | 363 | KimoKoala |
 | 259 | 361 | Danielle Kollias |
-| 260 | 360 | James Hurley Jr. |
-| 261 | 360 | Ari Droff |
+| 260 | 360 | Ari Droff |
+| 261 | 360 | James Hurley Jr. |
 | 262 | 358 | Twisty Cascadezone |
 | 263 | 356 | mike |
 | 264 | 356 | Joeliecea Cobb |
@@ -596,9 +596,9 @@
 | 588 | 166 | Jim Gray |
 | 589 | 165 | Zappy Buildgrid |
 | 590 | 165 | Dapper Caster |
-| 591 | 164 | Bussy Bay |
-| 592 | 164 | Marvetta Williams |
-| 593 | 164 | Smiley Shifter |
+| 591 | 164 | Marvetta Williams |
+| 592 | 164 | Smiley Shifter |
+| 593 | 164 | Bussy Bay |
 | 594 | 163 | Michael Orris |
 | 595 | 163 | Ashlee Carnes |
 | 596 | 162 | Ben Nome |

@@ -2765,8 +2765,8 @@
 | 2757 | 20 | Jen Shep |
 | 2758 | 20 | Snippy Wipepiece |
 | 2759 | 20 | Sara Alvarado |
-| 2760 | 19 | Rosemarie Espinosa |
-| 2761 | 19 | Crystal Zinda |
+| 2760 | 19 | Crystal Zinda |
+| 2761 | 19 | Rosemarie Espinosa |
 | 2762 | 19 | Omar Sidberry |
 | 2763 | 19 | Heedee |
 | 2764 | 19 | Shakeena Jones |
