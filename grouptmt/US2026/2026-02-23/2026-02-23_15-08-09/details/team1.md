@@ -46,8 +46,8 @@
 | 38 | 1128 | june october |
 | 39 | 1126 | Tater |
 | 40 | 1122 | Amanda Summey Schoemer |
-| 41 | 1114 | Jayme Sellers |
-| 42 | 1114 | Marianne Louise West |
+| 41 | 1114 | Marianne Louise West |
+| 42 | 1114 | Jayme Sellers |
 | 43 | 1112 | Chipper Gridlock |
 | 44 | 1100 | Derek MF Blakey |
 | 45 | 1069 | Patrick Luckenbill |
@@ -83,8 +83,8 @@
 | 75 | 758 | Ash Galvan |
 | 76 | 750 | Cartier |
 | 77 | 740 | Lori Sanders- Davis |
-| 78 | 713 | Robert Benito |
-| 79 | 713 | Snappy Swiper |
+| 78 | 713 | Snappy Swiper |
+| 79 | 713 | Robert Benito |
 | 80 | 711 | Erin Hodges Plumb |
 | 81 | 710 | Jennifer ManWarren |
 | 82 | 704 | Karin Gillen |
@@ -288,17 +288,17 @@
 | 280 | 279 | Chris Dawson |
 | 281 | 277 | Nutty Spinblock |
 | 282 | 276 | Mrs.Patrica |
-| 283 | 275 | Garrett Burket |
-| 284 | 275 | Cheeky Pop |
-| 285 | 275 | Mark Smith |
+| 283 | 275 | Mark Smith |
+| 284 | 275 | Garrett Burket |
+| 285 | 275 | Cheeky Pop |
 | 286 | 275 | Chris65 |
 | 287 | 274 | Allena Craft |
 | 288 | 273 | Test |
 | 289 | 272 | Barrbaric |
 | 290 | 272 | Michelle Beres |
 | 291 | 271 | Robert |
-| 292 | 270 | Brenda Alexander |
-| 293 | 270 | Debbie Kane |
+| 292 | 270 | Debbie Kane |
+| 293 | 270 | Brenda Alexander |
 | 294 | 269 | Colleen Pinette |
 | 295 | 268 | Standia Civil |
 | 296 | 268 | Wayne Saunders |

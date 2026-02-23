@@ -185,8 +185,8 @@
 | 177 | 1574 | Stephen Stephen |
 | 178 | 1567 | Juliana Marques Do Nascimento Gordy |
 | 179 | 1564 | Amy Sayers |
-| 180 | 1558 | Crystal Slaughter |
-| 181 | 1558 | Tim Dyer |
+| 180 | 1558 | Tim Dyer |
+| 181 | 1558 | Crystal Slaughter |
 | 182 | 1555 | blarg |
 | 183 | 1549 | Desiree Harris Rosch |
 | 184 | 1542 | Mo Shine On |
@@ -366,8 +366,8 @@
 | 358 | 937 | Jessica Wayne Cornwall |
 | 359 | 937 | Andrew Willis |
 | 360 | 934 | Mighty Shatterfit |
-| 361 | 933 | Nicole Cannon |
-| 362 | 933 | Bee |
+| 361 | 933 | Bee |
+| 362 | 933 | Nicole Cannon |
 | 363 | 931 | Sinistah42o |
 | 364 | 929 | Ellie Jonas |
 | 365 | 928 | Elizabeth Wilbanks |
@@ -431,8 +431,8 @@
 | 423 | 822 | Lola Contreras |
 | 424 | 819 | Victoria Regina Girolami |
 | 425 | 819 | Sabrena Yeisley |
-| 426 | 816 | Beth |
-| 427 | 816 | James Simms III |
+| 426 | 816 | James Simms III |
+| 427 | 816 | Beth |
 | 428 | 814 | Elisheva Mizrachi |
 | 429 | 812 | Samantha Jo |
 | 430 | 811 | Brenda Pierpoint |
@@ -440,8 +440,8 @@
 | 432 | 808 | Jánine Riggs |
 | 433 | 808 | Connie Jimenez |
 | 434 | 804 | Sarah DeHart |
-| 435 | 804 | Becca Coronado |
-| 436 | 804 | Barry Britt |
+| 435 | 804 | Barry Britt |
+| 436 | 804 | Becca Coronado |
 | 437 | 803 | Tiara Elizabeth Baker |
 | 438 | 802 | Jessicah Myers |
 | 439 | 801 | Diana Fitzwater |

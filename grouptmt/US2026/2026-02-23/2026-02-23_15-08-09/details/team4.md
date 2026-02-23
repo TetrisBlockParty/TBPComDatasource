@@ -431,8 +431,8 @@
 | 423 | 191 | Earnest Thompson |
 | 424 | 191 | Norman Klick |
 | 425 | 190 | wombat |
-| 426 | 189 | Duck |
-| 427 | 189 | Marcus TheeyoungWoe Gilmore |
+| 426 | 189 | Marcus TheeyoungWoe Gilmore |
+| 427 | 189 | Duck |
 | 428 | 189 | Ryry |
 | 429 | 188 | Frilly Blocky |
 | 430 | 188 | Jarred Falls |
