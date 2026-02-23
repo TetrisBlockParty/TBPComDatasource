@@ -220,8 +220,8 @@
 | 212 | 450 | Danielle Weikel |
 | 213 | 437 | Loopy Clusterer |
 | 214 | 435 | Fallorina Susana |
-| 215 | 432 | Luciana Braganca Vieira |
-| 216 | 432 | Christine Trester |
+| 215 | 432 | Christine Trester |
+| 216 | 432 | Luciana Braganca Vieira |
 | 217 | 432 | Heather Green |
 | 218 | 431 | Wendy Dearden |
 | 219 | 430 | Joye Sims Binion |
@@ -257,8 +257,8 @@
 | 249 | 371 | block chick |
 | 250 | 369 | Keis |
 | 251 | 369 | Snazzy Filler |
-| 252 | 368 | Sheila M Frazier |
-| 253 | 368 | Stephanie Woods |
+| 252 | 368 | Stephanie Woods |
+| 253 | 368 | Sheila M Frazier |
 | 254 | 367 | Kristin Delibac Corrigan |
 | 255 | 366 | Randy Clevenger |
 | 256 | 365 | Noyb Adam |
@@ -317,8 +317,8 @@
 | 309 | 299 | Angie Harper |
 | 310 | 298 | Grams |
 | 311 | 297 | kacihall |
-| 312 | 296 | Tracy Martin |
-| 313 | 296 | Hasty Gridpiece |
+| 312 | 296 | Hasty Gridpiece |
+| 313 | 296 | Tracy Martin |
 | 314 | 296 | Donna |
 | 315 | 294 | fraulila |
 | 316 | 293 | Grego Daniel |

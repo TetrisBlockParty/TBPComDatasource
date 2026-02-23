@@ -136,8 +136,8 @@
 | 128 | 1769 | Katrina Williams Balmir |
 | 129 | 1749 | Auntie B |
 | 130 | 1728 | Mr. Street Stack |
-| 131 | 1681 | Nett |
-| 132 | 1681 | Shandrica Lowe |
+| 131 | 1681 | Shandrica Lowe |
+| 132 | 1681 | Nett |
 | 133 | 1658 | Liberty |
 | 134 | 1656 | Kristopher Miller |
 | 135 | 1644 | Luna |
@@ -220,8 +220,8 @@
 | 212 | 1214 | David Cudicio-Hayden |
 | 213 | 1213 | Foxxo |
 | 214 | 1210 | Jane Fong |
-| 215 | 1205 | Tralonda Weeks |
-| 216 | 1205 | Tony Lea |
+| 215 | 1205 | Tony Lea |
+| 216 | 1205 | Tralonda Weeks |
 | 217 | 1198 | Carrie Trigg |
 | 218 | 1197 | Ricardo Burton |
 | 219 | 1192 | Denisha Dawkins |
@@ -360,8 +360,8 @@
 | 352 | 831 | Christina Lewis-Vickers |
 | 353 | 830 | Diallo Sparkman |
 | 354 | 829 | Jessica Wayne Cornwall |
-| 355 | 824 | Danielle Johnson-Chandler |
-| 356 | 824 | Khalil Lowe |
+| 355 | 824 | Khalil Lowe |
+| 356 | 824 | Danielle Johnson-Chandler |
 | 357 | 823 | Alezandra Smith |
 | 358 | 822 | Lola Contreras |
 | 359 | 821 | Angie Bolton Workman |
@@ -371,8 +371,8 @@
 | 363 | 813 | Lisa Ongtowasruk |
 | 364 | 812 | Samantha Jo |
 | 365 | 809 | Hyper Cluster |
-| 366 | 808 | Amber Brion |
-| 367 | 808 | Laura McCarthey |
+| 366 | 808 | Laura McCarthey |
+| 367 | 808 | Amber Brion |
 | 368 | 808 | Desire Rice |
 | 369 | 804 | Becca Coronado |
 | 370 | 803 | Kimmy Newman |
@@ -388,8 +388,8 @@
 | 380 | 790 | Brenda Pierpoint |
 | 381 | 788 | Erika Densmore |
 | 382 | 782 | Beth |
-| 383 | 781 | Tiara Elizabeth Baker |
-| 384 | 781 | Kathryn Townsley |
+| 383 | 781 | Kathryn Townsley |
+| 384 | 781 | Tiara Elizabeth Baker |
 | 385 | 779 | Kayla |
 | 386 | 777 | Tesha Oldaker |
 | 387 | 777 | Jessicah Myers |
@@ -416,8 +416,8 @@
 | 408 | 748 | Stephanie Lumanlan |
 | 409 | 748 | Spunkysmom |
 | 410 | 746 | Aimee Campbell |
-| 411 | 746 | Jerilyn Andrina |
-| 412 | 746 | Leslie Ann Carter |
+| 411 | 746 | Leslie Ann Carter |
+| 412 | 746 | Jerilyn Andrina |
 | 413 | 744 | Mandi Douglas Hilt |
 | 414 | 741 | Jánine Riggs |
 | 415 | 740 | Jerry Tempelmeyer |
@@ -518,8 +518,8 @@
 | 510 | 621 | Taren Cowan |
 | 511 | 620 | Brenna Ann |
 | 512 | 618 | Vanessa Moreno |
-| 513 | 617 | Kacee Conrad Bock |
-| 514 | 617 | Darcy Mae |
+| 513 | 617 | Darcy Mae |
+| 514 | 617 | Kacee Conrad Bock |
 | 515 | 616 | Lylymom |
 | 516 | 615 | Julio A Laracuente |
 | 517 | 615 | Lyndi Robinson Wakefield |
@@ -805,8 +805,8 @@
 | 797 | 419 | Josh Dill |
 | 798 | 419 | Erin Reid |
 | 799 | 418 | Bold Brickster |
-| 800 | 417 | Rebecca Garland |
-| 801 | 417 | Tristan Szolek |
+| 800 | 417 | Tristan Szolek |
+| 801 | 417 | Rebecca Garland |
 | 802 | 417 | Janai Vrabel |
 | 803 | 417 | Mandy Kachenmeister |
 | 804 | 416 | Veronics |

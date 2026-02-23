@@ -73,8 +73,8 @@
 | 65 | 767 | Shannon Ferrari |
 | 66 | 766 | Robin Watters |
 | 67 | 766 | Edward White |
-| 68 | 765 | Denise Carlson |
-| 69 | 765 | Robin Getchel |
+| 68 | 765 | Robin Getchel |
+| 69 | 765 | Denise Carlson |
 | 70 | 752 | loulou |
 | 71 | 749 | Dustee Craddock-Harrison |
 | 72 | 742 | Carolyn Wallace |
@@ -139,11 +139,11 @@
 | 131 | 435 | Leslie Thomas |
 | 132 | 431 | Courtney Cicoria |
 | 133 | 425 | Monica Daley |
-| 134 | 421 | Kesha Brady |
-| 135 | 421 | JIGsaw ~(•¿°)~ |
+| 134 | 421 | JIGsaw ~(•¿°)~ |
+| 135 | 421 | Kesha Brady |
 | 136 | 419 | Klo |
-| 137 | 418 | Marie-Pier Desjardins |
-| 138 | 418 | Lush Linkfall |
+| 137 | 418 | Lush Linkfall |
+| 138 | 418 | Marie-Pier Desjardins |
 | 139 | 416 | Chaz Duncan |
 | 140 | 414 | Nope Young |
 | 141 | 412 | Jessica Bohlken |
@@ -153,8 +153,8 @@
 | 145 | 399 | Swanky Fitline |
 | 146 | 397 | Livvy |
 | 147 | 393 | Trish |
-| 148 | 393 | Carlton Unfiltered |
-| 149 | 393 | Girl |
+| 148 | 393 | Girl |
+| 149 | 393 | Carlton Unfiltered |
 | 150 | 391 | Ramel Rhodes |
 | 151 | 389 | Joseph Guthrie |
 | 152 | 387 | Lucas J Sutton |
@@ -236,8 +236,8 @@
 | 228 | 272 | Alan George LaRage |
 | 229 | 272 | Carlos Ramirez |
 | 230 | 271 | Holly |
-| 231 | 270 | Jen Caldwell |
-| 232 | 270 | Juls |
+| 231 | 270 | Juls |
+| 232 | 270 | Jen Caldwell |
 | 233 | 266 | Mr. Party |
 | 234 | 265 | Sarah Neathery |
 | 235 | 265 | Silly SeaWeed |
@@ -246,11 +246,11 @@
 | 238 | 262 | BigSammy420 |
 | 239 | 262 | Selena Shaw |
 | 240 | 260 | Carter Jones |
-| 241 | 259 | Montiette Mcglown |
-| 242 | 259 | Allen Lloyd |
+| 241 | 259 | Allen Lloyd |
+| 242 | 259 | Montiette Mcglown |
 | 243 | 257 | PeaceOs |
-| 244 | 256 | Metsfan |
-| 245 | 256 | Mylo Lipscomb |
+| 244 | 256 | Mylo Lipscomb |
+| 245 | 256 | Metsfan |
 | 246 | 255 | Zethra Prenisha Rahming |
 | 247 | 253 | Autum Leigh |
 | 248 | 252 | John Brunetti |
