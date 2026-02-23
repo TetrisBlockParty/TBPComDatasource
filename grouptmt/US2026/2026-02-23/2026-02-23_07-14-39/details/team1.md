@@ -141,8 +141,8 @@
 | 133 | 411 | BadG52 |
 | 134 | 410 | ALFD |
 | 135 | 409 | Goose egg |
-| 136 | 406 | Desiree Deschaine Havee |
-| 137 | 406 | Candy Jones |
+| 136 | 406 | Candy Jones |
+| 137 | 406 | Desiree Deschaine Havee |
 | 138 | 402 | Chris K |
 | 139 | 399 | Nery Martinez |
 | 140 | 394 | Lori Bales |
@@ -155,8 +155,8 @@
 | 147 | 383 | pjbeta |
 | 148 | 383 | Margo Wagner |
 | 149 | 380 | phrmblk24 |
-| 150 | 379 | Austin James |
-| 151 | 379 | Kimmie Kimms |
+| 150 | 379 | Kimmie Kimms |
+| 151 | 379 | Austin James |
 | 152 | 378 | Carrie Smith |
 | 153 | 376 | Brian Richardsson |
 | 154 | 376 | Death |
@@ -171,8 +171,8 @@
 | 163 | 364 | Shauna Loe |
 | 164 | 364 | Serina Marie |
 | 165 | 360 | Wisa |
-| 166 | 357 | Shiny Snapfit |
-| 167 | 357 | David Lutcher |
+| 166 | 357 | David Lutcher |
+| 167 | 357 | Shiny Snapfit |
 | 168 | 355 | Amanda Jarnagin |
 | 169 | 355 | Mike Ames |
 | 170 | 353 | Josh Riemer |
@@ -450,7 +450,7 @@
 | 442 | 162 | Jennifer Corrado |
 | 443 | 161 | Danielle S Kester |
 | 444 | 161 | Matthew Foley |
-| 445 | 160 | Sunny Catcher |
+| 445 | 160 | Hasty Cascader |
 | 446 | 160 | Jeremy Maubert |
 | 447 | 160 | Sunny Catcher |
 | 448 | 159 | Uhog SF |
@@ -486,7 +486,7 @@
 | 478 | 149 | Kimberly Davis |
 | 479 | 149 | MIKOZ |
 | 480 | 148 | Sir-Franchise Drake |
-| 481 | 147 | Jodee Woods |
+| 481 | 147 | Carl Claunch |
 | 482 | 147 | Javyjavz |
 | 483 | 147 | Jodee Woods |
 | 484 | 146 | Elizabeth Kubli |
@@ -773,7 +773,7 @@
 | 765 | 89 | Brave Stacky |
 | 766 | 89 | forevernght |
 | 767 | 88 | ken |
-| 768 | 88 | Gewb |
+| 768 | 88 | Donna Taliger Brigante |
 | 769 | 88 | OneCrazyGator |
 | 770 | 88 | Gewb |
 | 771 | 88 | Kathryn Chiles Anderson |

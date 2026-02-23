@@ -134,8 +134,8 @@
 | 126 | 745 | JerseyJess |
 | 127 | 744 | Leah Barnett |
 | 128 | 744 | Fancy Cascader |
-| 129 | 736 | Katrina Schroeder |
-| 130 | 736 | mzcatzy |
+| 129 | 736 | mzcatzy |
+| 130 | 736 | Katrina Schroeder |
 | 131 | 734 | Calista Jo Dickson |
 | 132 | 728 | Peppy Shifter |
 | 133 | 727 | Hasty Cascadefit |
@@ -173,8 +173,8 @@
 | 165 | 591 | Michael Nowogorski |
 | 166 | 588 | Justin Ritter |
 | 167 | 587 | Louise Stacy Sisson |
-| 168 | 585 | Annie Marie |
-| 169 | 585 | Happy Tetriblast |
+| 168 | 585 | Happy Tetriblast |
+| 169 | 585 | Annie Marie |
 | 170 | 583 | Tasha Gillespie |
 | 171 | 582 | Natasha Jones |
 | 172 | 577 | Domo Washington |
@@ -388,23 +388,23 @@
 | 380 | 269 | Jess Bissett |
 | 381 | 269 | Goofy Fall |
 | 382 | 268 | Jessica Lynn French |
-| 383 | 267 | April Matthew Kibble |
-| 384 | 267 | Jul |
+| 383 | 267 | Jul |
+| 384 | 267 | April Matthew Kibble |
 | 385 | 267 | Michael Kimbro |
 | 386 | 266 | Quirky Dropzone |
 | 387 | 265 | Heather Davis |
 | 388 | 265 | AlsoJess |
 | 389 | 264 | Reina Roth |
 | 390 | 264 | Danielle Beaunoyer Jean |
-| 391 | 263 | Jimmie Clemons |
-| 392 | 263 | Erika Thornton |
+| 391 | 263 | Erika Thornton |
+| 392 | 263 | Jimmie Clemons |
 | 393 | 261 | Swanky Snapclear |
 | 394 | 260 | Alice |
 | 395 | 260 | Tracey Cox |
 | 396 | 259 | JessDrown |
 | 397 | 259 | Shania Vaine |
-| 398 | 259 | Dana Winters |
-| 399 | 259 | Tegan Chapman |
+| 398 | 259 | Tegan Chapman |
+| 399 | 259 | Dana Winters |
 | 400 | 258 | IamJust Neyamijah Washington Sr. |
 | 401 | 257 | Rachel Grant |
 | 402 | 257 | Chris Wallace |
@@ -516,8 +516,8 @@
 | 508 | 209 | TazB |
 | 509 | 208 | Jessica Christian |
 | 510 | 208 | Luccy Luxe |
-| 511 | 207 | Misstery |
-| 512 | 207 | Nichol Graham |
+| 511 | 207 | Nichol Graham |
+| 512 | 207 | Misstery |
 | 513 | 206 | Tammy Rosenberry |
 | 514 | 206 | Dakota Graham |
 | 515 | 205 | Emberblaze |

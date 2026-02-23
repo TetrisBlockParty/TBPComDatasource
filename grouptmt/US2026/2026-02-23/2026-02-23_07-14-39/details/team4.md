@@ -55,8 +55,8 @@
 | 47 | 938 | Denny Shives |
 | 48 | 936 | Rebecca Moulton Pinciaro |
 | 49 | 932 | Marvin Lou Martin |
-| 50 | 911 | Jeremy Steines |
-| 51 | 911 | Anthony Bryan Riva |
+| 50 | 911 | Anthony Bryan Riva |
+| 51 | 911 | Jeremy Steines |
 | 52 | 870 | BertMofo |
 | 53 | 864 | Shelly Chandler |
 | 54 | 863 | Pee |
@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Jonathan Kimbrough |
-| 84 | 684 | Kimyatta Cavin |
+| 83 | 684 | Kimyatta Cavin |
+| 84 | 684 | Jonathan Kimbrough |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -140,16 +140,16 @@
 | 132 | 454 | Ericca Eldridge |
 | 133 | 451 | Peachy Fall |
 | 134 | 448 | Kristin Manee |
-| 135 | 435 | Kristina Black |
-| 136 | 435 | Leslie Thomas |
+| 135 | 435 | Leslie Thomas |
+| 136 | 435 | Kristina Black |
 | 137 | 434 | Monica Daley |
 | 138 | 432 | Zippy Block |
 | 139 | 431 | Courtney Cicoria |
 | 140 | 429 | Klo |
 | 141 | 426 | 🥔🥔 Spudz |
 | 142 | 423 | Carrie Brian |
-| 143 | 421 | Kesha Brady |
-| 144 | 421 | JIGsaw ~(•¿°)~ |
+| 143 | 421 | JIGsaw ~(•¿°)~ |
+| 144 | 421 | Kesha Brady |
 | 145 | 418 | Marie-Pier Desjardins |
 | 146 | 418 | Lush Linkfall |
 | 147 | 416 | Chaz Duncan |
@@ -160,8 +160,8 @@
 | 152 | 406 | Livvy |
 | 153 | 406 | Damn Libra |
 | 154 | 398 | Tyler Terrific |
-| 155 | 393 | Carlton Unfiltered |
-| 156 | 393 | Girl |
+| 155 | 393 | Girl |
+| 156 | 393 | Carlton Unfiltered |
 | 157 | 391 | Ramel Rhodes |
 | 158 | 389 | Joseph Guthrie |
 | 159 | 388 | Andy Cabral |
@@ -187,8 +187,8 @@
 | 179 | 352 | Sue Joyce Staats |
 | 180 | 349 | Rafael Valentin |
 | 181 | 348 | April Rondinone |
-| 182 | 347 | Daria Rycewicz |
-| 183 | 347 | Crystal Nicolette Moore |
+| 182 | 347 | Crystal Nicolette Moore |
+| 183 | 347 | Daria Rycewicz |
 | 184 | 346 | Mylo Lipscomb |
 | 185 | 339 | David Lay |
 | 186 | 336 | Bio Nelly |
@@ -319,19 +319,19 @@
 | 311 | 217 | Paito |
 | 312 | 217 | Alexandra Karavias |
 | 313 | 217 | Cheery Fitline |
-| 314 | 216 | Chantilly Laace |
-| 315 | 216 | mike |
+| 314 | 216 | mike |
+| 315 | 216 | Chantilly Laace |
 | 316 | 215 | Stephme310 |
-| 317 | 214 | Stacey Stano |
-| 318 | 214 | Patron Anderson |
+| 317 | 214 | Patron Anderson |
+| 318 | 214 | Stacey Stano |
 | 319 | 213 | Jackie Marie |
-| 320 | 212 | Zany Shatterer |
+| 320 | 212 | Mike Solo |
 | 321 | 212 | Brave Spinbuilder |
-| 322 | 212 | Mike Solo |
+| 322 | 212 | Zany Shatterer |
 | 323 | 211 | Chris Alexinas |
 | 324 | 210 | Ari Droff |
-| 325 | 209 | Snippy Puzzle |
-| 326 | 209 | Marcus Todd |
+| 325 | 209 | Marcus Todd |
+| 326 | 209 | Snippy Puzzle |
 | 327 | 208 | Heather Bruce |
 | 328 | 208 | Shukee Lo |
 | 329 | 207 | Squeezy Pearsall |
@@ -542,7 +542,7 @@
 | 534 | 131 | Cool Clusterfit |
 | 535 | 131 | Grann8 |
 | 536 | 131 | Cheryl Johnson |
-| 537 | 131 | Grann8 |
+| 537 | 131 | Roseanna Anderson |
 | 538 | 130 | KoolMom9907 |
 | 539 | 130 | Holly Tracey-Grimes |
 | 540 | 129 | Jessica Wells |
