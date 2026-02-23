@@ -209,8 +209,8 @@
 | 201 | 317 | Kimberly Garcia |
 | 202 | 316 | Reesey Enyart |
 | 203 | 315 | Danielle Little-Daugherty |
-| 204 | 314 | Snippy Wipebuilder |
-| 205 | 314 | Tana |
+| 204 | 314 | Tana |
+| 205 | 314 | Snippy Wipebuilder |
 | 206 | 312 | Jessi Sauer |
 | 207 | 310 | Bloknboy |
 | 208 | 308 | Speedy Liney |
@@ -242,8 +242,8 @@
 | 234 | 281 | Clever Cascadepiece |
 | 235 | 280 | Billie Dawn Sparks |
 | 236 | 277 | Glitzy Curvebuilder |
-| 237 | 277 | Melissa Lemmon |
-| 238 | 277 | Nutty Spinblock |
+| 237 | 277 | Nutty Spinblock |
+| 238 | 277 | Melissa Lemmon |
 | 239 | 276 | Sam Williams |
 | 240 | 275 | Chris65 |
 | 241 | 275 | Cheeky Pop |
@@ -352,7 +352,7 @@
 | 344 | 207 | Katie Martin |
 | 345 | 207 | Leslie Bush Yarbrough |
 | 346 | 207 | Ric Hard Hernandez |
-| 347 | 207 | Katie Martin |
+| 347 | 207 | Fresno Beotoni |
 | 348 | 205 | build master |
 | 349 | 205 | Agustin Duarte Orozco |
 | 350 | 204 | LD1 |

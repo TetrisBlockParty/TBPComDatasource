@@ -309,8 +309,8 @@
 | 301 | 336 | Foltz Lee Kelli |
 | 302 | 336 | Jojo M |
 | 303 | 335 | victory |
-| 304 | 332 | Brittany |
-| 305 | 332 | Velma Mull |
+| 304 | 332 | Velma Mull |
+| 305 | 332 | Brittany |
 | 306 | 331 | Gray Hicks |
 | 307 | 329 | Angela Scott |
 | 308 | 328 | Desiree Soto |
@@ -406,9 +406,9 @@
 | 398 | 261 | Swanky Snapclear |
 | 399 | 260 | Tracey Cox |
 | 400 | 260 | Alice |
-| 401 | 259 | Dana Winters |
-| 402 | 259 | Tegan Chapman |
-| 403 | 259 | Shania Vaine |
+| 401 | 259 | Tegan Chapman |
+| 402 | 259 | Shania Vaine |
+| 403 | 259 | Dana Winters |
 | 404 | 258 | IamJust Neyamijah Washington Sr. |
 | 405 | 257 | Rachel Grant |
 | 406 | 257 | Chris Wallace |
@@ -892,8 +892,8 @@
 | 884 | 124 | Loretta Hendricks |
 | 885 | 124 | Giggly Hitter |
 | 886 | 124 | Jessica Quinn |
-| 887 | 124 | FuzzyDunlop |
-| 888 | 124 | Matty Pope |
+| 887 | 124 | Matty Pope |
+| 888 | 124 | FuzzyDunlop |
 | 889 | 123 | Brittany Shantea Maynard |
 | 890 | 123 | Alisha Osborne |
 | 891 | 123 | Santana Lantana |
