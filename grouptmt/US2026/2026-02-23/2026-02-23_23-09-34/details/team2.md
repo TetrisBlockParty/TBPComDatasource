@@ -277,8 +277,8 @@
 | 269 | 1315 | Lucky Ladybug |
 | 270 | 1308 | Eric Carlson |
 | 271 | 1304 | Sarah Ridenour |
-| 272 | 1303 | Ronnie Nelson |
-| 273 | 1303 | Michele Morgan |
+| 272 | 1303 | Michele Morgan |
+| 273 | 1303 | Ronnie Nelson |
 | 274 | 1302 | Angie Marie |
 | 275 | 1300 | Tacara Cummings |
 | 276 | 1297 | Dimitra Zazara |
@@ -392,8 +392,8 @@
 | 384 | 1004 | Tiara Elizabeth Baker |
 | 385 | 1000 | Ashley Guernsey-Martin |
 | 386 | 999 | Donna M Carter |
-| 387 | 998 | Alex Stone LaRue |
-| 388 | 998 | Kathryn Townsley |
+| 387 | 998 | Kathryn Townsley |
+| 388 | 998 | Alex Stone LaRue |
 | 389 | 997 | Megan Brianna |
 | 390 | 996 | Dedra Steward |
 | 391 | 995 | Angel Hunnewell |

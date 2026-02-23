@@ -214,8 +214,8 @@
 | 206 | 438 | Melvin Baird |
 | 207 | 438 | Jen Mattei |
 | 208 | 434 | Ramel Rhodes |
-| 209 | 433 | Damn Libra |
-| 210 | 433 | Circuit8 |
+| 209 | 433 | Circuit8 |
+| 210 | 433 | Damn Libra |
 | 211 | 431 | Zesty Twistbuilder |
 | 212 | 427 | Steph Marie |
 | 213 | 427 | Chao Ma |
@@ -255,8 +255,8 @@
 | 247 | 378 | Mary Ann Pabukis |
 | 248 | 378 | JPW |
 | 249 | 376 | Nig |
-| 250 | 369 | Matt Dell'Olio |
-| 251 | 369 | Rafael Valentin |
+| 250 | 369 | Rafael Valentin |
+| 251 | 369 | Matt Dell'Olio |
 | 252 | 369 | TRCuse |
 | 253 | 368 | Kris Bartlett |
 | 254 | 367 | Meg |
@@ -596,9 +596,9 @@
 | 588 | 166 | Jim Gray |
 | 589 | 165 | Zappy Buildgrid |
 | 590 | 165 | Dapper Caster |
-| 591 | 164 | Bussy Bay |
-| 592 | 164 | Marvetta Williams |
-| 593 | 164 | Smiley Shifter |
+| 591 | 164 | Marvetta Williams |
+| 592 | 164 | Smiley Shifter |
+| 593 | 164 | Bussy Bay |
 | 594 | 163 | Michael Orris |
 | 595 | 163 | Ashlee Carnes |
 | 596 | 162 | Ben Nome |
