@@ -88,8 +88,8 @@
 | 80 | 1258 | Shari Garber |
 | 81 | 1244 | Lori Barnaby |
 | 82 | 1221 | Betty Ivy |
-| 83 | 1213 | Snappy Glidepiece |
-| 84 | 1213 | Nerdy Riseclear |
+| 83 | 1213 | Nerdy Riseclear |
+| 84 | 1213 | Snappy Glidepiece |
 | 85 | 1212 | Amanda Adkins |
 | 86 | 1186 | Christian A. Pollard |
 | 87 | 1158 | Danielle Mogg |
@@ -261,8 +261,8 @@
 | 253 | 480 | Isabel Ocasio |
 | 254 | 476 | Shunta Jacobs |
 | 255 | 471 | Mendoza Lee Christy |
-| 256 | 471 | Gray Hicks |
-| 257 | 471 | Rebecca Bailey |
+| 256 | 471 | Rebecca Bailey |
+| 257 | 471 | Gray Hicks |
 | 258 | 470 | Marci Mize Fandrich |
 | 259 | 470 | Rebecca Funderburk Kirby |
 | 260 | 464 | Danielle Weikel |

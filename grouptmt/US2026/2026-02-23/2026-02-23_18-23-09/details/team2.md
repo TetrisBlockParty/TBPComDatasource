@@ -406,8 +406,8 @@
 | 398 | 903 | Eric Castaneda |
 | 399 | 903 | Ashle Scranton |
 | 400 | 899 | Felicia Lynn |
-| 401 | 899 | Chevy |
-| 402 | 899 | Patrick Bartlett |
+| 401 | 899 | Patrick Bartlett |
+| 402 | 899 | Chevy |
 | 403 | 898 | Donna M Carter |
 | 404 | 896 | Alyssa Hileman |
 | 405 | 895 | Donna Colby |
@@ -423,8 +423,8 @@
 | 415 | 877 | Misti Markijohn |
 | 416 | 876 | Jessicah Myers |
 | 417 | 870 | Joy LaJeunesse |
-| 418 | 869 | BYM4L |
-| 419 | 869 | Venita Ray |
+| 418 | 869 | Venita Ray |
+| 419 | 869 | BYM4L |
 | 420 | 866 | Christina Lewis-Vickers |
 | 421 | 865 | Kiely Tomaskovich |
 | 422 | 862 | Sarah Massey |
@@ -513,16 +513,16 @@
 | 505 | 757 | Chelle |
 | 506 | 755 | Taryece Gause |
 | 507 | 751 | Loony Snapper |
-| 508 | 751 | Breezy Filler |
+| 508 | 751 | Briana Alexander |
 | 509 | 751 | Caitlyn Blackwell |
-| 510 | 751 | Briana Alexander |
+| 510 | 751 | Breezy Filler |
 | 511 | 750 | Draizen Montrell Thomas |
 | 512 | 750 | Michael Buckner |
 | 513 | 749 | Trisha J Schmidt |
 | 514 | 748 | Ann Matzkanin |
 | 515 | 746 | Hoppy Brickmatch |
-| 516 | 742 | Cassie Maynard |
-| 517 | 742 | Ganieda |
+| 516 | 742 | Ganieda |
+| 517 | 742 | Cassie Maynard |
 | 518 | 740 | Jerry Tempelmeyer |
 | 519 | 740 | Alexandra Weir |
 | 520 | 738 | Sheronda Jackson |
@@ -907,8 +907,8 @@
 | 899 | 481 | Erika Deer Kauffman |
 | 900 | 481 | Brittany Chapman |
 | 901 | 481 | Brenda Annabel Smith |
-| 902 | 480 | Dar |
-| 903 | 480 | Cassi Owens |
+| 902 | 480 | Cassi Owens |
+| 903 | 480 | Dar |
 | 904 | 479 | bbv |
 | 905 | 479 | Ashlee Cruz |
 | 906 | 478 | Elizabeth Pearson |
@@ -920,9 +920,9 @@
 | 912 | 476 | Heather Sawtelle-Mckenzie |
 | 913 | 475 | Josh N Corrine |
 | 914 | 474 | Calandra Shaya Robinson |
-| 915 | 474 | calcap |
-| 916 | 474 | Veronica Stevenson |
-| 917 | 474 | Jennifer Scott |
+| 915 | 474 | Jennifer Scott |
+| 916 | 474 | calcap |
+| 917 | 474 | Veronica Stevenson |
 | 918 | 472 | Linda Miltenburg |
 | 919 | 472 | Connie Lepore-Mann |
 | 920 | 472 | Cathleena Giusto |
@@ -1004,8 +1004,8 @@
 | 996 | 446 | Courtney Burcham |
 | 997 | 446 | Marcus Ken Wilcox |
 | 998 | 445 | Jenny DelVescovo |
-| 999 | 445 | Beatboxxer |
-| 1000 | 445 | Mar Q Thomas |
+| 999 | 445 | Mar Q Thomas |
+| 1000 | 445 | Beatboxxer |
 | 1001 | 445 | Rolie Garcia |
 | 1002 | 444 | Angela Murgia-Owen |
 | 1003 | 444 | Lynda Toland |

@@ -96,8 +96,8 @@
 | 88 | 706 | Plucky Fallzone |
 | 89 | 704 | Jason Jones |
 | 90 | 704 | Karin Gillen |
-| 91 | 703 | Kellie |
-| 92 | 703 | Angel Fowler |
+| 91 | 703 | Angel Fowler |
+| 92 | 703 | Kellie |
 | 93 | 689 | Lexuriuos Lifestlye |
 | 94 | 679 | Hasbro Bros |
 | 95 | 671 | Chirpy Smasher |
@@ -118,8 +118,8 @@
 | 110 | 586 | Jessi Sauer |
 | 111 | 583 | Theo Pinnow |
 | 112 | 577 | Damon J. Martin |
-| 113 | 574 | Tiger Lily |
-| 114 | 574 | femmefatale |
+| 113 | 574 | femmefatale |
+| 114 | 574 | Tiger Lily |
 | 115 | 571 | Virginia Gray Floyd |
 | 116 | 570 | Cody Slav |
 | 117 | 564 | Veronica Eve |
@@ -351,7 +351,7 @@
 | 343 | 258 | Silly Align |
 | 344 | 257 | Ric Hard Hernandez |
 | 345 | 257 | Andrew Backes |
-| 346 | 257 | Ric Hard Hernandez |
+| 346 | 257 | Marc Abney |
 | 347 | 256 | Joe Coon |
 | 348 | 256 | Chris Sigurdson |
 | 349 | 255 | Beazel75 |

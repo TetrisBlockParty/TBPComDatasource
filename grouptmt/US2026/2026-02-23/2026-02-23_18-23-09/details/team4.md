@@ -234,11 +234,11 @@
 | 226 | 363 | Cindy Looper |
 | 227 | 363 | Googenheim |
 | 228 | 362 | Meg |
-| 229 | 361 | Mimi |
-| 230 | 361 | Rafael Valentin |
+| 229 | 361 | Rafael Valentin |
+| 230 | 361 | Mimi |
 | 231 | 361 | Danielle Kollias |
-| 232 | 358 | A5! |
-| 233 | 358 | Twisty Cascadezone |
+| 232 | 358 | Twisty Cascadezone |
+| 233 | 358 | A5! |
 | 234 | 357 | KimoKoala |
 | 235 | 356 | Joeliecea Cobb |
 | 236 | 355 | James Hurley Jr. |
@@ -298,8 +298,8 @@
 | 290 | 291 | Hyper Builder |
 | 291 | 291 | Dizzy Matchzone |
 | 292 | 290 | Jared Gutwein |
-| 293 | 290 | Neirrah B Olailjeel |
-| 294 | 290 | Heather Bruce |
+| 293 | 290 | Heather Bruce |
+| 294 | 290 | Neirrah B Olailjeel |
 | 295 | 289 | Juls |
 | 296 | 288 | Brittney Orengo |
 | 297 | 287 | Kim Klutz Olson |
@@ -509,9 +509,9 @@
 | 501 | 179 | Elle Joe |
 | 502 | 178 | Jackson Karen |
 | 503 | 178 | Daring Pivot |
-| 504 | 178 | Nerdy Linebuilder |
+| 504 | 178 | Brandon Link |
 | 505 | 178 | Laurel Coppess |
-| 506 | 178 | Brandon Link |
+| 506 | 178 | Nerdy Linebuilder |
 | 507 | 177 | Chao Ma |
 | 508 | 177 | Stephanie Mico |
 | 509 | 176 | Walter Beltran |
