@@ -84,8 +84,8 @@
 | 76 | 758 | Ash Galvan |
 | 77 | 750 | Cartier |
 | 78 | 740 | Lori Sanders- Davis |
-| 79 | 713 | Snappy Swiper |
-| 80 | 713 | Robert Benito |
+| 79 | 713 | Robert Benito |
+| 80 | 713 | Snappy Swiper |
 | 81 | 710 | Jennifer ManWarren |
 | 82 | 706 | Plucky Fallzone |
 | 83 | 704 | Karin Gillen |

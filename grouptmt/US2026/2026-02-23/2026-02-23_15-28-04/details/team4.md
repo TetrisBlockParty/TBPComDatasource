@@ -49,8 +49,8 @@
 | 41 | 1156 | Goatimus Lombardi |
 | 42 | 1124 | Jae Job |
 | 43 | 1116 | Koshin Abdirahman |
-| 44 | 1085 | Kimyatta Cavin |
-| 45 | 1085 | Ashley Ingram |
+| 44 | 1085 | Ashley Ingram |
+| 45 | 1085 | Kimyatta Cavin |
 | 46 | 1082 | Dion Crommarty |
 | 47 | 1082 | Dawn Alexander |
 | 48 | 1071 | Cherrish Duren |
@@ -108,8 +108,8 @@
 | 100 | 664 | Nugget |
 | 101 | 659 | Jamie Gustafson |
 | 102 | 650 | KJ Pool |
-| 103 | 647 | Shauna Havard |
-| 104 | 647 | KM8 |
+| 103 | 647 | KM8 |
+| 104 | 647 | Shauna Havard |
 | 105 | 639 | Chris Hartig |
 | 106 | 637 | Lori Walker |
 | 107 | 635 | Adawna Swires |
@@ -208,17 +208,17 @@
 | 200 | 367 | Sue Joyce Staats |
 | 201 | 365 | Jeff Brian Gates |
 | 202 | 363 | Cindy Looper |
-| 203 | 361 | Danielle Kollias |
-| 204 | 361 | Rafael Valentin |
-| 205 | 358 | Twisty Cascadezone |
-| 206 | 358 | A5! |
+| 203 | 361 | Rafael Valentin |
+| 204 | 361 | Danielle Kollias |
+| 205 | 358 | A5! |
+| 206 | 358 | Twisty Cascadezone |
 | 207 | 355 | James Hurley Jr. |
 | 208 | 354 | TRCuse |
 | 209 | 354 | Kris Bartlett |
 | 210 | 352 | April Rondinone |
 | 211 | 348 | David Lay |
-| 212 | 347 | Daria Rycewicz |
-| 213 | 347 | Bio Nelly |
+| 212 | 347 | Bio Nelly |
+| 213 | 347 | Daria Rycewicz |
 | 214 | 346 | shark tato |
 | 215 | 343 | HastyGrabber |
 | 216 | 341 | Mimi |

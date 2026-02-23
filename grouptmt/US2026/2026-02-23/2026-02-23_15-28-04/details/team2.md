@@ -186,8 +186,8 @@
 | 178 | 1580 | Sally Dennis |
 | 179 | 1567 | Juliana Marques Do Nascimento Gordy |
 | 180 | 1564 | Amy Sayers |
-| 181 | 1558 | Crystal Slaughter |
-| 182 | 1558 | Tim Dyer |
+| 181 | 1558 | Tim Dyer |
+| 182 | 1558 | Crystal Slaughter |
 | 183 | 1555 | blarg |
 | 184 | 1551 | Debra Williams |
 | 185 | 1549 | Desiree Harris Rosch |
@@ -337,8 +337,8 @@
 | 329 | 1007 | Em Chen |
 | 330 | 1003 | Andrea Maher |
 | 331 | 998 | Keri Womack |
-| 332 | 998 | Shelley Thornburgh Wright |
-| 333 | 998 | Osun Anuket Esu |
+| 332 | 998 | Osun Anuket Esu |
+| 333 | 998 | Shelley Thornburgh Wright |
 | 334 | 996 | Ashie Ann |
 | 335 | 984 | Phil J. Grombliniak |
 | 336 | 980 | Jackie Lucas |
@@ -383,8 +383,8 @@
 | 375 | 907 | Gene Mills |
 | 376 | 907 | Kayla |
 | 377 | 904 | John Bednarik |
-| 378 | 903 | Eric Castaneda |
-| 379 | 903 | Giggy Blocker |
+| 378 | 903 | Giggy Blocker |
+| 379 | 903 | Eric Castaneda |
 | 380 | 902 | Diallo Sparkman |
 | 381 | 899 | Felicia Lynn |
 | 382 | 899 | Patrick Bartlett |

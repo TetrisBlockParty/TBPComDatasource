@@ -82,8 +82,8 @@
 | 74 | 1258 | Danielle Cutler |
 | 75 | 1244 | Lori Barnaby |
 | 76 | 1221 | Betty Ivy |
-| 77 | 1213 | Snappy Glidepiece |
-| 78 | 1213 | Nerdy Riseclear |
+| 77 | 1213 | Nerdy Riseclear |
+| 78 | 1213 | Snappy Glidepiece |
 | 79 | 1209 | Amanda Adkins |
 | 80 | 1186 | Christian A. Pollard |
 | 81 | 1169 | Araceli Parra |
@@ -213,8 +213,8 @@
 | 205 | 539 | Betty Bóò |
 | 206 | 537 | Loopy Fallmatch |
 | 207 | 533 | Rania Zaqout |
-| 208 | 531 | Trisha Balmer |
-| 209 | 531 | Aerian Preston |
+| 208 | 531 | Aerian Preston |
+| 209 | 531 | Trisha Balmer |
 | 210 | 531 | Chauntee Alfrey-Cardinale |
 | 211 | 530 | Stephanie Blkpep Davidson |
 | 212 | 527 | Tessina Dewey-Mancino |
@@ -266,8 +266,8 @@
 | 258 | 431 | Ammmmmmy |
 | 259 | 430 | Jeni Dow |
 | 260 | 429 | Carrie Huskey |
-| 261 | 428 | Sleepy |
-| 262 | 428 | Randy Clevenger |
+| 261 | 428 | Randy Clevenger |
+| 262 | 428 | Sleepy |
 | 263 | 426 | Gumbo |
 | 264 | 425 | Nicole Flippo |
 | 265 | 424 | Cesar Barraza |
@@ -282,8 +282,8 @@
 | 274 | 412 | Jojo M |
 | 275 | 411 | Megan Rathmanner |
 | 276 | 410 | Duane Bright |
-| 277 | 408 | Tiffany Ford |
-| 278 | 408 | Marquita Sheard |
+| 277 | 408 | Marquita Sheard |
+| 278 | 408 | Tiffany Ford |
 | 279 | 406 | Kristal C Lee |
 | 280 | 405 | Rebecca Bailey |
 | 281 | 405 | Steffi Chris Dacones |
