@@ -71,8 +71,8 @@
 | 63 | 846 | Lucille Truesdale |
 | 64 | 834 | quicksand420 |
 | 65 | 827 | Avy Absol |
-| 66 | 807 | Amelpss |
-| 67 | 807 | Rachel Anne |
+| 66 | 807 | Rachel Anne |
+| 67 | 807 | Amelpss |
 | 68 | 802 | Crystal Carroll |
 | 69 | 788 | Julian Garcia |
 | 70 | 788 | Chilly Line |
@@ -203,14 +203,14 @@
 | 195 | 363 | Cindy Looper |
 | 196 | 361 | Rafael Valentin |
 | 197 | 361 | Danielle Kollias |
-| 198 | 358 | Twisty Cascadezone |
-| 199 | 358 | A5! |
+| 198 | 358 | A5! |
+| 199 | 358 | Twisty Cascadezone |
 | 200 | 355 | James Hurley Jr. |
 | 201 | 354 | TRCuse |
 | 202 | 354 | Kris Bartlett |
 | 203 | 352 | Sue Joyce Staats |
-| 204 | 348 | April Rondinone |
-| 205 | 348 | David Lay |
+| 204 | 348 | David Lay |
+| 205 | 348 | April Rondinone |
 | 206 | 347 | Crystal Nicolette Moore |
 | 207 | 347 | Daria Rycewicz |
 | 208 | 347 | Bio Nelly |
@@ -503,9 +503,9 @@
 | 495 | 160 | icequeenx |
 | 496 | 160 | DQ Martin |
 | 497 | 159 | Groovy Brickmatch |
-| 498 | 158 | Jen Mattei |
-| 499 | 158 | Jackie Clark |
-| 500 | 158 | Jasmine S Caldwell |
+| 498 | 158 | Jasmine S Caldwell |
+| 499 | 158 | Jen Mattei |
+| 500 | 158 | Jackie Clark |
 | 501 | 157 | LunaMoon |
 | 502 | 157 | David Boggs |
 | 503 | 156 | Mighty Edgepiece |
@@ -556,8 +556,8 @@
 | 548 | 142 | GTxIrishman |
 | 549 | 142 | Jesus Garcia |
 | 550 | 142 | Peace |
-| 551 | 141 | Lori Goudy |
-| 552 | 141 | Red |
+| 551 | 141 | Red |
+| 552 | 141 | Lori Goudy |
 | 553 | 140 | Cheery Lift |
 | 554 | 140 | Smiley Tiltbuilder |
 | 555 | 140 | Thomas Hettenhaus |

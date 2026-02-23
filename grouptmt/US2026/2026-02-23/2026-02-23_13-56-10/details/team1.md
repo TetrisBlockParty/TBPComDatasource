@@ -189,8 +189,8 @@
 | 181 | 375 | Connie |
 | 182 | 374 | Howdi Duty |
 | 183 | 372 | Dizzy Party |
-| 184 | 371 | Jason Savage |
-| 185 | 371 | Damon J. Martin |
+| 184 | 371 | Damon J. Martin |
+| 185 | 371 | Jason Savage |
 | 186 | 370 | Timothy Danaher |
 | 187 | 369 | Christy Jones |
 | 188 | 367 | Sharon Reynolds |
@@ -214,8 +214,8 @@
 | 206 | 354 | Dino |
 | 207 | 354 | Chuck Gannon |
 | 208 | 353 | Josh Riemer |
-| 209 | 353 | Jaimie Lynn |
-| 210 | 353 | Reesey Enyart |
+| 209 | 353 | Reesey Enyart |
+| 210 | 353 | Jaimie Lynn |
 | 211 | 351 | Sean Stallings |
 | 212 | 350 | Tipsy Strikerpiece |
 | 213 | 349 | Cool Shiftsnap |
@@ -291,8 +291,8 @@
 | 283 | 269 | Colleen Pinette |
 | 284 | 268 | Standia Civil |
 | 285 | 268 | Wayne Saunders |
-| 286 | 265 | Flashy Rotator |
-| 287 | 265 | Kandae |
+| 286 | 265 | Kandae |
+| 287 | 265 | Flashy Rotator |
 | 288 | 264 | Jenny Gingrich Fuentes |
 | 289 | 263 | Sunny Shift |
 | 290 | 263 | Nadine Velardo |
@@ -349,8 +349,8 @@
 | 341 | 230 | Panda Thagreat |
 | 342 | 230 | Jessica Russell |
 | 343 | 230 | Layzietyme |
-| 344 | 229 | Jumpy Rotate |
-| 345 | 229 | Christina Norman |
+| 344 | 229 | Christina Norman |
+| 345 | 229 | Jumpy Rotate |
 | 346 | 228 | .running. |
 | 347 | 227 | Happy Snapbuild |
 | 348 | 226 | Snappy Brickbuilder |
@@ -552,7 +552,7 @@
 | 544 | 148 | MamaB24 |
 | 545 | 148 | Mighty Shatterfit |
 | 546 | 147 | Donna Taliger Brigante |
-| 547 | 147 | Javyjavz |
+| 547 | 147 | Craig Mcgonigle |
 | 548 | 147 | Carl Claunch |
 | 549 | 147 | Jodee Woods |
 | 550 | 147 | Javyjavz |
