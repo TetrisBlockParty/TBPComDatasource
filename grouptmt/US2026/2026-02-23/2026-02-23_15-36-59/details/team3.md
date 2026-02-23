@@ -139,8 +139,8 @@
 | 131 | 774 | Keith J Oshman Jr. |
 | 132 | 773 | Daira Largen |
 | 133 | 770 | Daryn Elliott |
-| 134 | 764 | Hasty Cascadefit |
-| 135 | 764 | Groovy Catcher |
+| 134 | 764 | Groovy Catcher |
+| 135 | 764 | Hasty Cascadefit |
 | 136 | 762 | Speedy Bridger |
 | 137 | 757 | Fancy Cascader |
 | 138 | 756 | Patty Allen |
@@ -339,8 +339,8 @@
 | 331 | 348 | Ashley Raines |
 | 332 | 346 | Tiffany Davie |
 | 333 | 346 | Chummy Rumbler |
-| 334 | 345 | gremicx |
-| 335 | 345 | victory |
+| 334 | 345 | victory |
+| 335 | 345 | gremicx |
 | 336 | 344 | Beaudie Stroebel |
 | 337 | 343 | Ashley Rufus Bythcez |
 | 338 | 342 | Cynthia Herrmann Egland |

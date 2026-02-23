@@ -271,8 +271,8 @@
 | 263 | 1183 | Poppy Snap |
 | 264 | 1179 | Georgia Triblett |
 | 265 | 1171 | Loretta Brewer-Gage |
-| 266 | 1165 | Christina Wsn |
-| 267 | 1165 | Michelle Lee |
+| 266 | 1165 | Michelle Lee |
+| 267 | 1165 | Christina Wsn |
 | 268 | 1163 | Erika Densmore |
 | 269 | 1160 | Sarah Ridenour |
 | 270 | 1158 | Brittany Clark |
@@ -387,8 +387,8 @@
 | 379 | 903 | Giggy Blocker |
 | 380 | 902 | Diallo Sparkman |
 | 381 | 899 | Felicia Lynn |
-| 382 | 899 | Chevy |
-| 383 | 899 | Patrick Bartlett |
+| 382 | 899 | Patrick Bartlett |
+| 383 | 899 | Chevy |
 | 384 | 898 | Donna M Carter |
 | 385 | 895 | Donna Colby |
 | 386 | 895 | Lisa Ongtowasruk |
@@ -490,8 +490,8 @@
 | 482 | 750 | Michael Buckner |
 | 483 | 750 | Draizen Montrell Thomas |
 | 484 | 748 | Ann Matzkanin |
-| 485 | 746 | Ryan Stadel |
-| 486 | 746 | Hoppy Brickmatch |
+| 485 | 746 | Hoppy Brickmatch |
+| 486 | 746 | Ryan Stadel |
 | 487 | 746 | Samuel Macon |
 | 488 | 742 | Ganieda |
 | 489 | 742 | Cassie Maynard |
@@ -641,17 +641,17 @@
 | 633 | 602 | Jason H Baker |
 | 634 | 601 | Daniel Amos |
 | 635 | 600 | Nicole Cox |
-| 636 | 597 | TJ Nash |
+| 636 | 597 | Harrison Littrell |
 | 637 | 597 | Jamie Schmitt |
-| 638 | 597 | Harrison Littrell |
+| 638 | 597 | TJ Nash |
 | 639 | 596 | Davetta Sanford |
 | 640 | 595 | Ha Ab |
 | 641 | 594 | Laura Mclean |
 | 642 | 593 | Shannon Jackson |
 | 643 | 592 | Sheronda Jackson |
 | 644 | 592 | Melissa Kay Gibson |
-| 645 | 591 | Ebony Deloach Bryant |
-| 646 | 591 | Jessica Lamb |
+| 645 | 591 | Jessica Lamb |
+| 646 | 591 | Ebony Deloach Bryant |
 | 647 | 590 | Maddy Petersen |
 | 648 | 589 | Thomas Hedrick |
 | 649 | 589 | Kelly Templeton |
@@ -675,8 +675,8 @@
 | 667 | 577 | Daring Caster |
 | 668 | 576 | Leslie Johnson Guinto |
 | 669 | 574 | mshir |
-| 670 | 573 | Giggly Snap |
-| 671 | 573 | Vaniel Glover |
+| 670 | 573 | Vaniel Glover |
+| 671 | 573 | Giggly Snap |
 | 672 | 572 | Rachael Senard |
 | 673 | 572 | Alexandra Lynn |
 | 674 | 570 | Leslie Jorgenson |
@@ -715,8 +715,8 @@
 | 707 | 544 | Armonie Smith |
 | 708 | 544 | Snappy snappers |
 | 709 | 543 | Demitri Smith |
-| 710 | 543 | coleksquad |
-| 711 | 543 | Lathasa Newkirk |
+| 710 | 543 | Lathasa Newkirk |
+| 711 | 543 | coleksquad |
 | 712 | 542 | Christy Long |
 | 713 | 542 | Jasmine Kenney |
 | 714 | 542 | Jarboe |

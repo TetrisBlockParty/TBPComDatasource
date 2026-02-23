@@ -84,8 +84,8 @@
 | 76 | 758 | Ash Galvan |
 | 77 | 750 | Cartier |
 | 78 | 740 | Lori Sanders- Davis |
-| 79 | 713 | Robert Benito |
-| 80 | 713 | Snappy Swiper |
+| 79 | 713 | Snappy Swiper |
+| 80 | 713 | Robert Benito |
 | 81 | 710 | Jennifer ManWarren |
 | 82 | 706 | Plucky Fallzone |
 | 83 | 704 | Karin Gillen |
@@ -138,8 +138,8 @@
 | 130 | 477 | Tonya Beasley |
 | 131 | 475 | Sarah Somers Gray |
 | 132 | 471 | Hyper |
-| 133 | 467 | Constance Risner |
-| 134 | 467 | Candy Jones |
+| 133 | 467 | Candy Jones |
+| 134 | 467 | Constance Risner |
 | 135 | 466 | Adrian Esteban |
 | 136 | 463 | Melissa Lemmon |
 | 137 | 462 | Luciano Moreira |
@@ -149,11 +149,11 @@
 | 141 | 456 | Dee Perry |
 | 142 | 454 | Desiree Deschaine Havee |
 | 143 | 453 | Brandi Huntington |
-| 144 | 451 | Plucky Ziggy |
-| 145 | 451 | ALFD |
+| 144 | 451 | ALFD |
+| 145 | 451 | Plucky Ziggy |
 | 146 | 450 | lil mickey |
-| 147 | 448 | Jazzy Framezone |
-| 148 | 448 | Sweet Baker |
+| 147 | 448 | Sweet Baker |
+| 148 | 448 | Jazzy Framezone |
 | 149 | 446 | SkipTheSadSauce |
 | 150 | 443 | femmefatale |
 | 151 | 442 | Sharon Reynolds |
@@ -363,17 +363,17 @@
 | 355 | 236 | Snappy Bridgepiece |
 | 356 | 235 | Ariel Whittington |
 | 357 | 234 | Brandie Gallegos |
-| 358 | 233 | Cheeky Crusher |
-| 359 | 233 | Melissa Bires Hussar |
+| 358 | 233 | Melissa Bires Hussar |
+| 359 | 233 | Shiny Gridmatch |
 | 360 | 233 | Tipsy Riseclear |
-| 361 | 233 | Shiny Gridmatch |
+| 361 | 233 | Cheeky Crusher |
 | 362 | 232 | Jennifer Olewnik Soborowski |
 | 363 | 232 | Thorne Shumate |
 | 364 | 231 | Norma Paredez |
 | 365 | 230 | Panda Thagreat |
 | 366 | 230 | Jessica Russell |
-| 367 | 229 | Jumpy Rotate |
-| 368 | 229 | Ed Franz Jr |
+| 367 | 229 | Ed Franz Jr |
+| 368 | 229 | Jumpy Rotate |
 | 369 | 227 | Happy Snapbuild |
 | 370 | 226 | Snappy Brickbuilder |
 | 371 | 225 | Mel Hogan |
