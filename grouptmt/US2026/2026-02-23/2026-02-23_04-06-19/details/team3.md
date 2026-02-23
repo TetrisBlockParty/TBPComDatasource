@@ -126,8 +126,8 @@
 | 118 | 752 | Raya |
 | 119 | 748 | Adrian Marcel Pate |
 | 120 | 745 | JerseyJess |
-| 121 | 744 | Fancy Cascader |
-| 122 | 744 | Leah Barnett |
+| 121 | 744 | Leah Barnett |
+| 122 | 744 | Fancy Cascader |
 | 123 | 742 | Groovy Catcher |
 | 124 | 736 | Katrina Schroeder |
 | 125 | 733 | mzcatzy |
@@ -237,7 +237,7 @@
 | 229 | 403 | Scott Lindsay |
 | 230 | 403 | Denita Mungro |
 | 231 | 399 | Rebecca Funderburk Kirby |
-| 232 | 391 | Marci Mize Fandrich |
+| 232 | 391 | Nicole Flippo |
 | 233 | 391 | Trisha Balmer |
 | 234 | 391 | Marci Mize Fandrich |
 | 235 | 391 | Scott Carleton |
@@ -275,8 +275,8 @@
 | 267 | 351 | Eon Harris |
 | 268 | 349 | Amanda J. Mcneil-Anderson |
 | 269 | 348 | Cyd061769 |
-| 270 | 347 | Philip Rock |
-| 271 | 347 | Tye Stovall |
+| 270 | 347 | Tye Stovall |
+| 271 | 347 | Philip Rock |
 | 272 | 346 | Tamara Deherrera |
 | 273 | 345 | MsBee |
 | 274 | 344 | Gumbo |
