@@ -182,8 +182,8 @@
 | 174 | 357 | Shiny Snapfit |
 | 175 | 355 | Erin Rosberg |
 | 176 | 355 | Amanda Jarnagin |
-| 177 | 353 | Jaimie Lynn |
-| 178 | 353 | Josh Riemer |
+| 177 | 353 | Josh Riemer |
+| 178 | 353 | Jaimie Lynn |
 | 179 | 350 | Tipsy Strikerpiece |
 | 180 | 349 | Cool Shiftsnap |
 | 181 | 348 | Chelsea Dahlquist |
@@ -193,11 +193,11 @@
 | 185 | 341 | Nick R Montague |
 | 186 | 339 | Nicole Roseberry Weber |
 | 187 | 338 | Jennifer Hardman |
-| 188 | 337 | Constance Risner |
-| 189 | 337 | Jamise Brown |
+| 188 | 337 | Jamise Brown |
+| 189 | 337 | Constance Risner |
 | 190 | 336 | Dizzy Party |
-| 191 | 333 | Virginia Gray Floyd |
-| 192 | 333 | Gracie |
+| 191 | 333 | Gracie |
+| 192 | 333 | Virginia Gray Floyd |
 | 193 | 332 | Happy Basegrid |
 | 194 | 328 | Snappy Matcher |
 | 195 | 326 | Jen Nystrom |
@@ -245,21 +245,21 @@
 | 237 | 277 | Melissa Lemmon |
 | 238 | 277 | Glitzy Curvebuilder |
 | 239 | 276 | Sam Williams |
-| 240 | 275 | Chris65 |
-| 241 | 275 | Cheeky Pop |
+| 240 | 275 | Cheeky Pop |
+| 241 | 275 | Chris65 |
 | 242 | 273 | Shannon Marie Pitts |
 | 243 | 272 | Barrbaric |
 | 244 | 272 | Tawnya Peltonen |
 | 245 | 271 | Frothy Pattern |
-| 246 | 270 | Debbie Kane |
-| 247 | 270 | Brenda Alexander |
+| 246 | 270 | Brenda Alexander |
+| 247 | 270 | Debbie Kane |
 | 248 | 268 | Standia Civil |
 | 249 | 267 | Daring Fitclear |
 | 250 | 267 | Eric DeSimone |
 | 251 | 265 | Kandae |
 | 252 | 264 | Jenny Gingrich Fuentes |
-| 253 | 261 | Brooke Elizabeth Antill |
-| 254 | 261 | John J. Cronin |
+| 253 | 261 | John J. Cronin |
+| 254 | 261 | Brooke Elizabeth Antill |
 | 255 | 260 | Marianita Garcia |
 | 256 | 260 | Lacy Wolfe |
 | 257 | 256 | Chris Sigurdson |
@@ -640,8 +640,8 @@
 | 632 | 114 | Dave |
 | 633 | 113 | Roselyn Gomez |
 | 634 | 113 | DENOTS42OSPOT |
-| 635 | 113 | Susan Good |
-| 636 | 113 | Roselyn Gomez |
+| 635 | 113 | I Am |
+| 636 | 113 | Susan Good |
 | 637 | 113 | Bye Love |
 | 638 | 112 | Toni Sagenbrecht |
 | 639 | 112 | Kevin Cook |

@@ -66,8 +66,8 @@
 | 58 | 846 | Christine Marie |
 | 59 | 845 | LisaJo Picken Buchanan |
 | 60 | 834 | quicksand420 |
-| 61 | 807 | Amelpss |
-| 62 | 807 | Rachel Anne |
+| 61 | 807 | Rachel Anne |
+| 62 | 807 | Amelpss |
 | 63 | 788 | Julian Garcia |
 | 64 | 787 | Edward White |
 | 65 | 787 | loulou |
@@ -239,8 +239,8 @@
 | 231 | 286 | Steph Marie |
 | 232 | 285 | 030Synner |
 | 233 | 284 | Mimi |
-| 234 | 282 | Kim Klutz Olson |
-| 235 | 282 | Matt Gooder |
+| 234 | 282 | Matt Gooder |
+| 235 | 282 | Kim Klutz Olson |
 | 236 | 281 | Laura |
 | 237 | 280 | Rio Rocha |
 | 238 | 279 | Malakai Darien Fox |
@@ -294,8 +294,8 @@
 | 286 | 238 | 中山成巳 |
 | 287 | 237 | Christine Therrien |
 | 288 | 235 | LaDonna LovinmesomeMe Lambert |
-| 289 | 235 | Shainne Brewer |
-| 290 | 235 | Chair |
+| 289 | 235 | Chair |
+| 290 | 235 | Shainne Brewer |
 | 291 | 234 | Richard-April Kice |
 | 292 | 233 | Joseph Edmonson |
 | 293 | 233 | Ruben Wheeler |
@@ -366,10 +366,10 @@
 | 358 | 191 | Riverdale |
 | 359 | 191 | Earnest Thompson |
 | 360 | 191 | Norman Klick |
-| 361 | 190 | Hyper Builder |
-| 362 | 190 | wombat |
-| 363 | 189 | Cool Towerbuilder |
-| 364 | 189 | Lauren Lamb |
+| 361 | 190 | wombat |
+| 362 | 190 | Hyper Builder |
+| 363 | 189 | Lauren Lamb |
+| 364 | 189 | Cool Towerbuilder |
 | 365 | 189 | Berklie Apedaile |
 | 366 | 188 | Sharyn Lemire |
 | 367 | 187 | Cozy Balancer |
@@ -377,10 +377,10 @@
 | 369 | 186 | Shanon Klair |
 | 370 | 186 | Dandy Cascadefit |
 | 371 | 186 | Eri Kka |
-| 372 | 185 | Rebecca Blake |
-| 373 | 185 | Moonsterix |
-| 374 | 185 | Val Erie |
-| 375 | 185 | Morti |
+| 372 | 185 | Val Erie |
+| 373 | 185 | Morti |
+| 374 | 185 | Moonsterix |
+| 375 | 185 | Rebecca Blake |
 | 376 | 183 | Nerdy Twisterfit |
 | 377 | 183 | Sarah Hoffman |
 | 378 | 183 | Darrin Rubalcava |
@@ -443,10 +443,10 @@
 | 435 | 164 | Marvetta Williams |
 | 436 | 164 | DonMega |
 | 437 | 164 | Stacy Jones |
-| 438 | 163 | Jarred Falls |
-| 439 | 163 | Cool Gridzone |
-| 440 | 163 | Ashlee Carnes |
-| 441 | 163 | Linda Alexander Downing |
+| 438 | 163 | Linda Alexander Downing |
+| 439 | 163 | Jarred Falls |
+| 440 | 163 | Cool Gridzone |
+| 441 | 163 | Ashlee Carnes |
 | 442 | 163 | Cheaneen Livingston |
 | 443 | 162 | Amy Sanford |
 | 444 | 162 | Empress Oasis |
@@ -663,8 +663,8 @@
 | 655 | 107 | Carlos G Reyes |
 | 656 | 107 | Cranky Glidebuilder |
 | 657 | 106 | Zappy Snaplink |
-| 658 | 106 | Jacob Richard |
-| 659 | 106 | amy |
+| 658 | 106 | amy |
+| 659 | 106 | Jacob Richard |
 | 660 | 106 | Cassandra Stewart |
 | 661 | 106 | Nick Horn |
 | 662 | 105 | Quirky Puzzler |

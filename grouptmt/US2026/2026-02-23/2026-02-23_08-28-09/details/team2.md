@@ -392,9 +392,9 @@
 | 384 | 804 | Becca Coronado |
 | 385 | 801 | Diana Fitzwater |
 | 386 | 801 | Gold Rose |
-| 387 | 799 | Joy LaJeunesse |
-| 388 | 799 | Kenny Alvarado |
-| 389 | 799 | Ronnie Nelson |
+| 387 | 799 | Ronnie Nelson |
+| 388 | 799 | Joy LaJeunesse |
+| 389 | 799 | Kenny Alvarado |
 | 390 | 798 | Kathryn Townsley |
 | 391 | 796 | AndrewandShela Gornik |
 | 392 | 796 | Amber Gray |
@@ -555,8 +555,8 @@
 | 547 | 615 | Nerdy Pattern |
 | 548 | 615 | Julio A Laracuente |
 | 549 | 615 | Lyndi Robinson Wakefield |
-| 550 | 614 | Emilee Burke |
-| 551 | 614 | Jessica S Flecha |
+| 550 | 614 | Jessica S Flecha |
+| 551 | 614 | Emilee Burke |
 | 552 | 613 | Biggest thing |
 | 553 | 613 | Audrey Jones |
 | 554 | 612 | Briana Alexander |
@@ -577,8 +577,8 @@
 | 569 | 601 | Moua Ying |
 | 570 | 599 | Gloria Liu |
 | 571 | 598 | Leah Keesling |
-| 572 | 597 | Magic steve |
-| 573 | 597 | Jamie Schmitt |
+| 572 | 597 | Jamie Schmitt |
+| 573 | 597 | Magic steve |
 | 574 | 596 | Davetta Sanford |
 | 575 | 595 | Tracy Wise |
 | 576 | 595 | Dapper Dasher |
@@ -624,8 +624,8 @@
 | 616 | 563 | Nat |
 | 617 | 563 | Frisky Clearpiece |
 | 618 | 562 | Sabrena Yeisley |
-| 619 | 559 | Alexx Anaya |
-| 620 | 559 | Anthony Huebel |
+| 619 | 559 | Anthony Huebel |
+| 620 | 559 | Alexx Anaya |
 | 621 | 558 | Libby Hicks |
 | 622 | 557 | Megan Kitchner |
 | 623 | 556 | Joice Hansen |
