@@ -87,8 +87,8 @@
 | 79 | 703 | Savannah Overdorf |
 | 80 | 697 | Alyssa Papen |
 | 81 | 696 | Shane Kalamata Platoon |
-| 82 | 684 | Kimyatta Cavin |
-| 83 | 684 | Jonathan Kimbrough |
+| 82 | 684 | Jonathan Kimbrough |
+| 83 | 684 | Kimyatta Cavin |
 | 84 | 677 | Trista Leah |
 | 85 | 674 | Diana Houts |
 | 86 | 673 | Jacqueline Helm |
@@ -96,8 +96,8 @@
 | 88 | 664 | Valerie Roberts |
 | 89 | 659 | Jamie Gustafson |
 | 90 | 650 | KJ Pool |
-| 91 | 647 | Shauna Havard |
-| 92 | 647 | KM8 |
+| 91 | 647 | KM8 |
+| 92 | 647 | Shauna Havard |
 | 93 | 646 | Eric Mcgaughy |
 | 94 | 626 | Brittney Griggs |
 | 95 | 624 | Judy Cox |
@@ -123,8 +123,8 @@
 | 115 | 514 | Serena Goodridge |
 | 116 | 514 | Scott Jameson |
 | 117 | 513 | Erin Thomas |
-| 118 | 512 | Casey Jeffcoat |
-| 119 | 512 | Cristy Duerksen |
+| 118 | 512 | Cristy Duerksen |
+| 119 | 512 | Casey Jeffcoat |
 | 120 | 511 | Lori Walker |
 | 121 | 482 | Ren Mc |
 | 122 | 481 | Jessica Lynn Cutlip |
@@ -136,8 +136,8 @@
 | 128 | 458 | Twisty Clicky |
 | 129 | 451 | Peachy Fall |
 | 130 | 448 | Kristin Manee |
-| 131 | 435 | Leslie Thomas |
-| 132 | 435 | Kristina Black |
+| 131 | 435 | Kristina Black |
+| 132 | 435 | Leslie Thomas |
 | 133 | 431 | Courtney Cicoria |
 | 134 | 426 | 🥔🥔 Spudz |
 | 135 | 425 | Monica Daley |
@@ -245,8 +245,8 @@
 | 237 | 270 | Juls |
 | 238 | 270 | Jen Caldwell |
 | 239 | 266 | Mr. Party |
-| 240 | 265 | Silly SeaWeed |
-| 241 | 265 | Sarah Neathery |
+| 240 | 265 | Sarah Neathery |
+| 241 | 265 | Silly SeaWeed |
 | 242 | 264 | Stella |
 | 243 | 264 | ZeeZee |
 | 244 | 262 | Selena Shaw |
@@ -547,7 +547,7 @@
 | 539 | 126 | Amy C Brown |
 | 540 | 125 | ImJustMe |
 | 541 | 125 | Kelly Adams Carnahan |
-| 542 | 125 | ImJustMe |
+| 542 | 125 | Frilly Blocky |
 | 543 | 125 | Christina Nabrizny |
 | 544 | 124 | Peppy Strike |
 | 545 | 124 | Cheery Towerzone |

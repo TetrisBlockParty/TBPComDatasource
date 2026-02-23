@@ -78,8 +78,8 @@
 | 70 | 706 | Seante Bullock |
 | 71 | 705 | comrade fish |
 | 72 | 704 | Karin Gillen |
-| 73 | 703 | Angel Fowler |
-| 74 | 703 | Snappy Swiper |
+| 73 | 703 | Snappy Swiper |
+| 74 | 703 | Angel Fowler |
 | 75 | 655 | Brenda Stewart |
 | 76 | 647 | Jason Jones |
 | 77 | 646 | Susanna Guerry |
@@ -216,8 +216,8 @@
 | 208 | 298 | Billie Ann Eason |
 | 209 | 294 | Bindi |
 | 210 | 293 | John Kim |
-| 211 | 291 | Brave Wrecker |
-| 212 | 291 | Giddy Cascade |
+| 211 | 291 | Giddy Cascade |
+| 212 | 291 | Brave Wrecker |
 | 213 | 290 | Speedy Liney |
 | 214 | 290 | Hellsin |
 | 215 | 287 | Sassy Builderline |
@@ -285,8 +285,8 @@
 | 277 | 229 | Dino |
 | 278 | 228 | Adele Rahman |
 | 279 | 227 | Happy Snapbuild |
-| 280 | 226 | Glitzy Buildsnap |
-| 281 | 226 | Snappy Brickbuilder |
+| 280 | 226 | Snappy Brickbuilder |
+| 281 | 226 | Glitzy Buildsnap |
 | 282 | 224 | Jumpy Rotate |
 | 283 | 223 | Layzietyme |
 | 284 | 223 | Christina Backer |
@@ -503,7 +503,7 @@
 | 495 | 140 | Brave Slice |
 | 496 | 140 | Edgar Algiere |
 | 497 | 139 | Lisa Reynolds Adair |
-| 498 | 139 | Buttons Stemm |
+| 498 | 139 | Nate Funk |
 | 499 | 139 | Aimee Horton |
 | 500 | 139 | Fat fred |
 | 501 | 139 | Buttons Stemm |

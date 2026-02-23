@@ -186,8 +186,8 @@
 | 178 | 541 | Tasha Schriewer |
 | 179 | 540 | Shawn Miller |
 | 180 | 535 | Jone |
-| 181 | 531 | Sarah Cowan Burgos |
-| 182 | 531 | Chauntee Alfrey-Cardinale |
+| 181 | 531 | Chauntee Alfrey-Cardinale |
+| 182 | 531 | Sarah Cowan Burgos |
 | 183 | 528 | Silly Twist |
 | 184 | 524 | Bmo |
 | 185 | 519 | rnr junky |
@@ -227,8 +227,8 @@
 | 219 | 437 | Loopy Clusterer |
 | 220 | 435 | Fallorina Susana |
 | 221 | 432 | Luciana Braganca Vieira |
-| 222 | 431 | Ammmmmmy |
-| 223 | 431 | Wendy Dearden |
+| 222 | 431 | Wendy Dearden |
+| 223 | 431 | Ammmmmmy |
 | 224 | 430 | Jeni Dow |
 | 225 | 415 | ren |
 | 226 | 415 | Mcathen |
@@ -238,8 +238,8 @@
 | 230 | 408 | Tiffany Ford |
 | 231 | 406 | Kristal C Lee |
 | 232 | 404 | Chasity |
-| 233 | 403 | Denita Mungro |
-| 234 | 403 | Scott Lindsay |
+| 233 | 403 | Scott Lindsay |
+| 234 | 403 | Denita Mungro |
 | 235 | 399 | Rebecca Funderburk Kirby |
 | 236 | 395 | rosy |
 | 237 | 391 | Nicole Flippo |
@@ -321,7 +321,7 @@
 | 313 | 303 | Alexmac |
 | 314 | 303 | Carrie Huskey |
 | 315 | 301 | Tiffany Davie |
-| 316 | 301 | Kaitie Oliver |
+| 316 | 301 | Angela Scott |
 | 317 | 301 | Dee Pratt |
 | 318 | 301 | Kaitie Oliver |
 | 319 | 301 | Betty Rosas |
@@ -392,8 +392,8 @@
 | 384 | 259 | Dana Winters |
 | 385 | 259 | Shania Vaine |
 | 386 | 258 | IamJust Neyamijah Washington Sr. |
-| 387 | 257 | Chris Wallace |
-| 388 | 257 | Saucy Buildout |
+| 387 | 257 | Saucy Buildout |
+| 388 | 257 | Chris Wallace |
 | 389 | 257 | Rachel Grant |
 | 390 | 255 | Sharisse Baltimore |
 | 391 | 255 | Mariah Williams |

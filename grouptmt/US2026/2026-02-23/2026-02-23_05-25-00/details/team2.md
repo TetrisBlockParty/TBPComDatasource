@@ -93,8 +93,8 @@
 | 85 | 2515 | Crystalin Heath Lewis |
 | 86 | 2500 | Rosemadder |
 | 87 | 2438 | Rob Surace |
-| 88 | 2428 | Thomas Hughes |
-| 89 | 2428 | Deanna Morton |
+| 88 | 2428 | Deanna Morton |
+| 89 | 2428 | Thomas Hughes |
 | 90 | 2410 | RdRydnHd |
 | 91 | 2400 | Rich Sullivan |
 | 92 | 2375 | Megan Peckham |
@@ -215,15 +215,15 @@
 | 207 | 1252 | Angel |
 | 208 | 1245 | Cody Nishimura |
 | 209 | 1237 | Megan Ferguson Leone |
-| 210 | 1232 | Ambyre Patterson |
-| 211 | 1232 | Groovy Puzzle |
+| 210 | 1232 | Groovy Puzzle |
+| 211 | 1232 | Ambyre Patterson |
 | 212 | 1230 | Megan Garrick |
-| 213 | 1217 | Brooks Brooks |
-| 214 | 1217 | Lucky Ladybug |
+| 213 | 1217 | Lucky Ladybug |
+| 214 | 1217 | Brooks Brooks |
 | 215 | 1214 | David Cudicio-Hayden |
 | 216 | 1210 | Jane Fong |
-| 217 | 1205 | Tralonda Weeks |
-| 218 | 1205 | Tony Lea |
+| 217 | 1205 | Tony Lea |
+| 218 | 1205 | Tralonda Weeks |
 | 219 | 1202 | Brandon Armstrong |
 | 220 | 1198 | Carrie Trigg |
 | 221 | 1198 | Pacynthia Williams |
@@ -252,8 +252,8 @@
 | 244 | 1121 | Tommy Tha Boss Gunz |
 | 245 | 1121 | Sarah Freitas |
 | 246 | 1114 | Maria Escobar |
-| 247 | 1114 | Ginnell Browner |
-| 248 | 1114 | Kevin Walp |
+| 247 | 1114 | Kevin Walp |
+| 248 | 1114 | Ginnell Browner |
 | 249 | 1111 | Julay |
 | 250 | 1110 | Robin Kerby |
 | 251 | 1105 | Nerdy Clearfit |
@@ -388,9 +388,9 @@
 | 380 | 799 | Joy LaJeunesse |
 | 381 | 796 | Amber Gray |
 | 382 | 793 | Heather Schelkopf |
-| 383 | 793 | Jaycee |
+| 383 | 793 | Ashley Dow |
 | 384 | 793 | Arlene Joy Belicina |
-| 385 | 793 | Ashley Dow |
+| 385 | 793 | Jaycee |
 | 386 | 790 | Brenda Pierpoint |
 | 387 | 788 | Erika Densmore |
 | 388 | 787 | Tiara Elizabeth Baker |
@@ -526,8 +526,8 @@
 | 518 | 621 | Taren Cowan |
 | 519 | 620 | Brenna Ann |
 | 520 | 618 | Vanessa Moreno |
-| 521 | 617 | Darcy Mae |
-| 522 | 617 | Kacee Conrad Bock |
+| 521 | 617 | Kacee Conrad Bock |
+| 522 | 617 | Darcy Mae |
 | 523 | 616 | Lylymom |
 | 524 | 615 | Julio A Laracuente |
 | 525 | 615 | Lyndi Robinson Wakefield |
@@ -837,8 +837,8 @@
 | 829 | 416 | Veronics |
 | 830 | 416 | Christine Lockwood |
 | 831 | 416 | Gina Caulder |
-| 832 | 415 | Allyson Marra |
-| 833 | 415 | Noel Tarmy |
+| 832 | 415 | Noel Tarmy |
+| 833 | 415 | Allyson Marra |
 | 834 | 414 | Cini |
 | 835 | 414 | Rose Fx |
 | 836 | 414 | Court |
@@ -860,8 +860,8 @@
 | 852 | 404 | Shylee Tilman |
 | 853 | 404 | Bonita Kee |
 | 854 | 403 | Susan Arnburg |
-| 855 | 403 | Nate Skidmore |
-| 856 | 403 | Goofy Dasher |
+| 855 | 403 | Goofy Dasher |
+| 856 | 403 | Nate Skidmore |
 | 857 | 403 | mshir |
 | 858 | 402 | LuckyChopstix |
 | 859 | 402 | B |
@@ -924,8 +924,8 @@
 | 916 | 385 | Iris Angelica Perez Cantos |
 | 917 | 384 | King Shamell Young |
 | 918 | 384 | Savannah Alexander |
-| 919 | 383 | Jane Crew |
-| 920 | 383 | Alyssia Tancredi |
+| 919 | 383 | Alyssia Tancredi |
+| 920 | 383 | Jane Crew |
 | 921 | 383 | Ethan Stienbarger |
 | 922 | 382 | Tum |
 | 923 | 382 | Jroc |
