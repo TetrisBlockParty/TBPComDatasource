@@ -249,8 +249,8 @@
 | 241 | 378 | Chris Bell |
 | 242 | 377 | Charles Perrone |
 | 243 | 374 | Rania Zaqout |
-| 244 | 372 | Sarah Moyer |
-| 245 | 372 | Rich LeBlanc |
+| 244 | 372 | Rich LeBlanc |
+| 245 | 372 | Sarah Moyer |
 | 246 | 371 | block chick |
 | 247 | 370 | Chummy Caster |
 | 248 | 369 | Keis |
@@ -273,8 +273,8 @@
 | 265 | 351 | Eon Harris |
 | 266 | 349 | Amanda J. Mcneil-Anderson |
 | 267 | 348 | Cyd061769 |
-| 268 | 347 | Tye Stovall |
-| 269 | 347 | Philip Rock |
+| 268 | 347 | Philip Rock |
+| 269 | 347 | Tye Stovall |
 | 270 | 346 | Tamara Deherrera |
 | 271 | 345 | MsBee |
 | 272 | 344 | Roary Danner |
@@ -322,8 +322,8 @@
 | 314 | 294 | fraulila |
 | 315 | 291 | Geoffrey Nash |
 | 316 | 289 | DidIdothat |
-| 317 | 287 | Sabrina Hardrick |
-| 318 | 287 | Carol Cain Thurman |
+| 317 | 287 | Carol Cain Thurman |
+| 318 | 287 | Sabrina Hardrick |
 | 319 | 287 | Hoppy Patternline |
 | 320 | 286 | Lizabeth Fox |
 | 321 | 286 | Salena Whitlock |
@@ -720,8 +720,8 @@
 | 712 | 138 | Symantha Brott |
 | 713 | 138 | Amber Reeves-Buchanan |
 | 714 | 138 | FineMuva |
-| 715 | 137 | Patty White |
-| 716 | 137 | Rynne Ellis |
+| 715 | 137 | Rynne Ellis |
+| 716 | 137 | Patty White |
 | 717 | 137 | Cary M. Fong |
 | 718 | 136 | atomictrin |
 | 719 | 136 | sapphomet |

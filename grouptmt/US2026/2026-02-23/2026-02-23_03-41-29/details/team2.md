@@ -753,8 +753,8 @@
 | 745 | 443 | Tipsy Filler |
 | 746 | 443 | Dimitra Zazara |
 | 747 | 443 | Giggy Grabber |
-| 748 | 442 | Niceday |
-| 749 | 442 | Juan Castillo |
+| 748 | 442 | Juan Castillo |
+| 749 | 442 | Niceday |
 | 750 | 441 | Goofy Catcher |
 | 751 | 439 | Sarah Sims |
 | 752 | 438 | Tom Steffen |
@@ -786,8 +786,8 @@
 | 778 | 427 | Destiny Cozier |
 | 779 | 426 | Kelly Meredeith |
 | 780 | 425 | N00D3S |
-| 781 | 424 | Christine Egidio Morocco |
-| 782 | 424 | ruth |
+| 781 | 424 | ruth |
+| 782 | 424 | Christine Egidio Morocco |
 | 783 | 423 | Smashanator |
 | 784 | 422 | Kimberly Ann |
 | 785 | 421 | Nina Nav |
@@ -998,7 +998,7 @@
 | 990 | 342 | SwifftFox |
 | 991 | 342 | Patrick Fleming |
 | 992 | 342 | Emoniee Sa'niaya |
-| 993 | 342 | Patrick Fleming |
+| 993 | 342 | Danielle DeLozier Plesec |
 | 994 | 341 | Robin L. Vial |
 | 995 | 341 | Queen |
 | 996 | 340 | RetroLemur |

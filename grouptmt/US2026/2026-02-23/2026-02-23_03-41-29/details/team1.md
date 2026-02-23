@@ -167,14 +167,14 @@
 | 159 | 345 | Jerry Danowski |
 | 160 | 344 | Cool Shiftsnap |
 | 161 | 344 | Rachael |
-| 162 | 343 | Elaine Elaine |
-| 163 | 343 | Chelsea Dahlquist |
-| 164 | 341 | Shiny Snapfit |
-| 165 | 341 | Nick R Montague |
+| 162 | 343 | Chelsea Dahlquist |
+| 163 | 343 | Elaine Elaine |
+| 164 | 341 | Nick R Montague |
+| 165 | 341 | Shiny Snapfit |
 | 166 | 339 | Nicole Roseberry Weber |
 | 167 | 338 | Jennifer Hardman |
-| 168 | 337 | Jamise Brown |
-| 169 | 337 | Constance Risner |
+| 168 | 337 | Constance Risner |
+| 169 | 337 | Jamise Brown |
 | 170 | 336 | Dizzy Party |
 | 171 | 336 | Erin Rosberg |
 | 172 | 333 | Gracie |
@@ -183,8 +183,8 @@
 | 175 | 324 | Ananda Mendez |
 | 176 | 324 | Rat666 |
 | 177 | 323 | Madison Wicks |
-| 178 | 318 | Jessica Sheehan |
-| 179 | 318 | Virginia Gray Floyd |
+| 178 | 318 | Virginia Gray Floyd |
+| 179 | 318 | Jessica Sheehan |
 | 180 | 317 | Sarah Roberts |
 | 181 | 316 | Reesey Enyart |
 | 182 | 315 | Tyler Werts |
@@ -381,8 +381,8 @@
 | 373 | 177 | Irual Hctrab |
 | 374 | 177 | Jacqueline Unique |
 | 375 | 176 | Наталья Солоид |
-| 376 | 176 | Jamie Catlett |
-| 377 | 176 | Damian Salem |
+| 376 | 176 | Damian Salem |
+| 377 | 176 | Jamie Catlett |
 | 378 | 176 | Jasmine Riley |
 | 379 | 175 | Frisky Base |
 | 380 | 175 | Madbull |

@@ -86,8 +86,8 @@
 | 78 | 704 | Crystal Carroll |
 | 79 | 703 | Savannah Overdorf |
 | 80 | 697 | Alyssa Papen |
-| 81 | 684 | Kimyatta Cavin |
-| 82 | 684 | Jonathan Kimbrough |
+| 81 | 684 | Jonathan Kimbrough |
+| 82 | 684 | Kimyatta Cavin |
 | 83 | 677 | Trista Leah |
 | 84 | 673 | Jacqueline Helm |
 | 85 | 664 | Valerie Roberts |
@@ -133,8 +133,8 @@
 | 125 | 452 | Jolly Dashfit |
 | 126 | 451 | Peachy Fall |
 | 127 | 448 | Kristin Manee |
-| 128 | 435 | Leslie Thomas |
-| 129 | 435 | Kristina Black |
+| 128 | 435 | Kristina Black |
+| 129 | 435 | Leslie Thomas |
 | 130 | 431 | Courtney Cicoria |
 | 131 | 425 | Monica Daley |
 | 132 | 423 | Austin Owens |
@@ -217,8 +217,8 @@
 | 209 | 288 | Adam Stephanie Parker |
 | 210 | 288 | Leah Kutz Zirbel |
 | 211 | 287 | Plucky Patternblock |
-| 212 | 286 | Zesty Twistbuilder |
-| 213 | 286 | Sam Bishop |
+| 212 | 286 | Sam Bishop |
+| 213 | 286 | Zesty Twistbuilder |
 | 214 | 284 | Mimi |
 | 215 | 282 | Matt Gooder |
 | 216 | 282 | Kim Klutz Olson |
@@ -242,14 +242,14 @@
 | 234 | 264 | Stella |
 | 235 | 264 | Silly SeaWeed |
 | 236 | 263 | JPW |
-| 237 | 262 | BigSammy420 |
-| 238 | 262 | Selena Shaw |
+| 237 | 262 | Selena Shaw |
+| 238 | 262 | BigSammy420 |
 | 239 | 260 | Carter Jones |
-| 240 | 259 | Allen Lloyd |
-| 241 | 259 | Montiette Mcglown |
+| 240 | 259 | Montiette Mcglown |
+| 241 | 259 | Allen Lloyd |
 | 242 | 257 | PeaceOs |
-| 243 | 256 | Metsfan |
-| 244 | 256 | Mylo Lipscomb |
+| 243 | 256 | Mylo Lipscomb |
+| 244 | 256 | Metsfan |
 | 245 | 253 | Autum Leigh |
 | 246 | 252 | John Brunetti |
 | 247 | 252 | Zethra Prenisha Rahming |
@@ -271,8 +271,8 @@
 | 263 | 237 | 030Synner |
 | 264 | 237 | Christine Therrien |
 | 265 | 236 | Degenerate |
-| 266 | 235 | Jade Rian |
-| 267 | 235 | Shainne Brewer |
+| 266 | 235 | Shainne Brewer |
+| 267 | 235 | Jade Rian |
 | 268 | 235 | LaDonna LovinmesomeMe Lambert |
 | 269 | 235 | Chair |
 | 270 | 234 | Richard-April Kice |
@@ -357,8 +357,8 @@
 | 349 | 181 | Nikki Wilson |
 | 350 | 181 | Jason Bosco |
 | 351 | 181 | KimoKoala |
-| 352 | 180 | Bradley Reeves |
-| 353 | 180 | Carlos Hernandez |
+| 352 | 180 | Carlos Hernandez |
+| 353 | 180 | Bradley Reeves |
 | 354 | 179 | AyeKay |
 | 355 | 178 | Zippy Tilt |
 | 356 | 178 | Daring Pivot |
