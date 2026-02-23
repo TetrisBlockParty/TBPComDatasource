@@ -627,9 +627,9 @@
 | 619 | 686 | De'Jah Charncey |
 | 620 | 685 | James Louie |
 | 621 | 684 | Sleepypanda67 |
-| 622 | 679 | Prette Qui |
-| 623 | 679 | Cynthia Louann Rose |
-| 624 | 679 | Regina Knight |
+| 622 | 679 | Regina Knight |
+| 623 | 679 | Prette Qui |
+| 624 | 679 | Cynthia Louann Rose |
 | 625 | 679 | Kassandra Hunt |
 | 626 | 677 | Kayleigh Wisse |
 | 627 | 677 | Paul Combs |

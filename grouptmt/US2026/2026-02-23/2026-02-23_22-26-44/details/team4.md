@@ -195,8 +195,8 @@
 | 187 | 465 | Jolly Dashfit |
 | 188 | 464 | Sharyn Lemire |
 | 189 | 462 | Leslie Thomas |
-| 190 | 457 | Kristin Manee |
-| 191 | 457 | June Hoffman |
+| 190 | 457 | June Hoffman |
+| 191 | 457 | Kristin Manee |
 | 192 | 455 | Michele Plunkett |
 | 193 | 450 | Amanda Pauldo-Ivy |
 | 194 | 449 | Rebecca Morris |
@@ -230,13 +230,13 @@
 | 222 | 411 | Mimi |
 | 223 | 409 | Antony Dwayne Beasley |
 | 224 | 400 | TinyLegoRose |
-| 225 | 399 | Jeff Brian Gates |
-| 226 | 399 | Lindsay Ball |
+| 225 | 399 | Lindsay Ball |
+| 226 | 399 | Jeff Brian Gates |
 | 227 | 398 | Tyler Terrific |
 | 228 | 394 | Nita Wells |
 | 229 | 390 | Kathy Brookins |
-| 230 | 389 | Joseph Guthrie |
-| 231 | 389 | Brickh4us |
+| 230 | 389 | Brickh4us |
+| 231 | 389 | Joseph Guthrie |
 | 232 | 388 | Calvin Cannon |
 | 233 | 385 | 030Synner |
 | 234 | 384 | Bio Nelly |
@@ -246,7 +246,7 @@
 | 238 | 380 | Rio Rocha |
 | 239 | 380 | Zesty Twistbuilder |
 | 240 | 379 | Backoff Recupe |
-| 241 | 378 | shark tato |
+| 241 | 378 | Lauren Scott |
 | 242 | 378 | Holly Jolly |
 | 243 | 378 | shark tato |
 | 244 | 378 | JPW |
@@ -293,8 +293,8 @@
 | 285 | 321 | Stacey Stano |
 | 286 | 317 | Madison Sweere |
 | 287 | 316 | Stella |
-| 288 | 315 | Heather Bruce |
-| 289 | 315 | Vic |
+| 288 | 315 | Vic |
+| 289 | 315 | Heather Bruce |
 | 290 | 314 | Lora |
 | 291 | 313 | Jason Gibbs |
 | 292 | 313 | Milan Markeisha |

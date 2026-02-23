@@ -211,8 +211,8 @@
 | 203 | 398 | Tyler L Hunt |
 | 204 | 397 | Erin Rosberg |
 | 205 | 395 | Monica Donato |
-| 206 | 393 | Lehrin Maria |
-| 207 | 393 | Wisa |
+| 206 | 393 | Wisa |
+| 207 | 393 | Lehrin Maria |
 | 208 | 392 | Kathy Langham |
 | 209 | 387 | Ananda Mendez |
 | 210 | 387 | Carrie Smith |
@@ -313,8 +313,8 @@
 | 305 | 309 | Larry Tilton |
 | 306 | 308 | Glitzy Curvebuilder |
 | 307 | 306 | Cece Ibarra |
-| 308 | 305 | Chase Collinsworth |
-| 309 | 305 | Amh |
+| 308 | 305 | Amh |
+| 309 | 305 | Chase Collinsworth |
 | 310 | 303 | DaRascal |
 | 311 | 302 | Bird Person |
 | 312 | 302 | LaFontaine Leslie |
@@ -325,8 +325,8 @@
 | 317 | 298 | Sweetts |
 | 318 | 297 | Diane Byrd |
 | 319 | 296 | Sunny Shift |
-| 320 | 294 | Chummy Rollblock |
-| 321 | 294 | Наталья Солоид |
+| 320 | 294 | Наталья Солоид |
+| 321 | 294 | Chummy Rollblock |
 | 322 | 293 | Garrett Burket |
 | 323 | 292 | Damian Salem |
 | 324 | 292 | Fresno Beotoni |

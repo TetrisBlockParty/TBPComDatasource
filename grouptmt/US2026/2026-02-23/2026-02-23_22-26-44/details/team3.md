@@ -280,8 +280,8 @@
 | 272 | 490 | Marci Mize Fandrich |
 | 273 | 486 | Eileen Brady Thurber |
 | 274 | 482 | Chummy Rumbler |
-| 275 | 482 | Isabel Ocasio |
-| 276 | 482 | Fancy Curver |
+| 275 | 482 | Fancy Curver |
+| 276 | 482 | Isabel Ocasio |
 | 277 | 479 | Stephanie Bradley |
 | 278 | 477 | Hyper Matchzone |
 | 279 | 476 | Shunta Jacobs |
@@ -332,8 +332,8 @@
 | 324 | 412 | Jojo M |
 | 325 | 411 | Christian Werndl |
 | 326 | 409 | Colton |
-| 327 | 408 | Tiffany Ford |
-| 328 | 408 | Ashley Muncey |
+| 327 | 408 | Ashley Muncey |
+| 328 | 408 | Tiffany Ford |
 | 329 | 405 | Andrew Thorson |
 | 330 | 405 | Chris Bell |
 | 331 | 405 | Steffi Chris Dacones |
