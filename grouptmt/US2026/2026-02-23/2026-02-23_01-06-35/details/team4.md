@@ -77,8 +77,8 @@
 | 69 | 736 | Goatimus Lombardi |
 | 70 | 734 | Carolyn Wallace |
 | 71 | 728 | Julian Garcia |
-| 72 | 704 | D3TROITB0RN74 |
-| 73 | 704 | Crystal Carroll |
+| 72 | 704 | Crystal Carroll |
+| 73 | 704 | D3TROITB0RN74 |
 | 74 | 677 | TheNeesh50 |
 | 75 | 674 | Denise Carlson |
 | 76 | 673 | Jacqueline Helm |
@@ -226,19 +226,19 @@
 | 218 | 266 | blockstar |
 | 219 | 265 | Sarah Neathery |
 | 220 | 264 | Carlos Ramirez |
-| 221 | 261 | Dihcheese444 |
-| 222 | 261 | scott |
+| 221 | 261 | scott |
+| 222 | 261 | Dihcheese444 |
 | 223 | 259 | Montiette Mcglown |
 | 224 | 258 | April Rondinone |
-| 225 | 257 | PeaceOs |
-| 226 | 257 | Cheery Risebuilder |
+| 225 | 257 | Cheery Risebuilder |
+| 226 | 257 | PeaceOs |
 | 227 | 256 | Mylo Lipscomb |
-| 228 | 252 | Selena Shaw |
-| 229 | 252 | Mr. Party |
+| 228 | 252 | Mr. Party |
+| 229 | 252 | Selena Shaw |
 | 230 | 251 | Carol Ricks Raymond |
 | 231 | 249 | Ak Jones |
-| 232 | 248 | Chirpy Basepiece |
-| 233 | 248 | Jose Dejesus |
+| 232 | 248 | Jose Dejesus |
+| 233 | 248 | Chirpy Basepiece |
 | 234 | 247 | JPW |
 | 235 | 246 | Zethra Prenisha Rahming |
 | 236 | 245 | 23 |
@@ -248,10 +248,10 @@
 | 240 | 240 | Kim Hunt |
 | 241 | 240 | Perky Patternblock |
 | 242 | 238 | Chaz |
-| 243 | 237 | Christine Therrien |
-| 244 | 237 | 030Synner |
-| 245 | 235 | LaDonna LovinmesomeMe Lambert |
-| 246 | 235 | Shainne Brewer |
+| 243 | 237 | 030Synner |
+| 244 | 237 | Christine Therrien |
+| 245 | 235 | Shainne Brewer |
+| 246 | 235 | LaDonna LovinmesomeMe Lambert |
 | 247 | 233 | Ruben Wheeler |
 | 248 | 232 | Joanna |
 | 249 | 232 | Rio Rocha |

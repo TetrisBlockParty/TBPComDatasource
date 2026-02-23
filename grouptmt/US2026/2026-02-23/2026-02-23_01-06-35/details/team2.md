@@ -130,8 +130,8 @@
 | 122 | 1679 | Jumpy Gridpiece |
 | 123 | 1652 | Kristopher Miller |
 | 124 | 1644 | Luna |
-| 125 | 1639 | Karen Martini-Stapleton |
-| 126 | 1639 | Jessie McDougald |
+| 125 | 1639 | Jessie McDougald |
+| 126 | 1639 | Karen Martini-Stapleton |
 | 127 | 1632 | Qiana Sanders |
 | 128 | 1631 | Speedy Spinblock |
 | 129 | 1623 | Mr. Street Stack |
@@ -243,8 +243,8 @@
 | 235 | 1079 | Kimberly Hauck-Rausch |
 | 236 | 1078 | Moose Griffith |
 | 237 | 1071 | Kim Dean |
-| 238 | 1067 | Jodi Blake |
-| 239 | 1067 | Eric Carlson |
+| 238 | 1067 | Eric Carlson |
+| 239 | 1067 | Jodi Blake |
 | 240 | 1064 | BK Queen |
 | 241 | 1048 | Desiree Anderson |
 | 242 | 1047 | Dany Murillo |

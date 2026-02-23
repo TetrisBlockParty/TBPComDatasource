@@ -132,8 +132,8 @@
 | 124 | 696 | Christine Niles |
 | 125 | 693 | Hasty Cascadefit |
 | 126 | 683 | Samantha Greco |
-| 127 | 674 | Patty Allen |
-| 128 | 674 | Leah Barnett |
+| 127 | 674 | Leah Barnett |
+| 128 | 674 | Patty Allen |
 | 129 | 668 | Betty Ivy |
 | 130 | 650 | Jd Morris |
 | 131 | 649 | Shavette |
@@ -155,8 +155,8 @@
 | 147 | 579 | Annie Marie |
 | 148 | 575 | Tasha Gillespie |
 | 149 | 574 | Morgan Martinez |
-| 150 | 572 | Domo Washington |
-| 151 | 572 | CeceGeGe |
+| 150 | 572 | CeceGeGe |
+| 151 | 572 | Domo Washington |
 | 152 | 571 | Nicole Myers |
 | 153 | 568 | Rachael McClain Owens |
 | 154 | 562 | Dave Herzog |
@@ -218,8 +218,8 @@
 | 210 | 415 | ren |
 | 211 | 414 | Fran Lin |
 | 212 | 413 | Loopy Clusterer |
-| 213 | 410 | Mcathen |
-| 214 | 410 | Stephanie Simpson |
+| 213 | 410 | Stephanie Simpson |
+| 214 | 410 | Mcathen |
 | 215 | 405 | Sherry Ogden |
 | 216 | 404 | Chasity |
 | 217 | 403 | Scott Lindsay |
@@ -230,8 +230,8 @@
 | 222 | 384 | Marci Mize Fandrich |
 | 223 | 383 | Darlene McMillan |
 | 224 | 383 | Heather Green |
-| 225 | 382 | Giddy Twistbuilder |
-| 226 | 382 | Scott Carleton |
+| 225 | 382 | Scott Carleton |
+| 226 | 382 | Giddy Twistbuilder |
 | 227 | 380 | Rebecca Bailey |
 | 228 | 378 | Chris Bell |
 | 229 | 376 | Connie Mohler-Fair |

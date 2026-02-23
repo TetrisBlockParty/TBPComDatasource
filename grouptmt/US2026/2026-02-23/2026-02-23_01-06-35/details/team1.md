@@ -136,8 +136,8 @@
 | 128 | 390 | Goose egg |
 | 129 | 389 | Desiree Deschaine Havee |
 | 130 | 387 | Emily Adelaide Wheatley |
-| 131 | 386 | David Miller |
-| 132 | 386 | Ty Brown |
+| 131 | 386 | Ty Brown |
+| 132 | 386 | David Miller |
 | 133 | 383 | pjbeta |
 | 134 | 379 | lil mickey |
 | 135 | 379 | Kimmie Kimms |
@@ -188,8 +188,8 @@
 | 180 | 306 | Bloknboy |
 | 181 | 306 | Happy Basegrid |
 | 182 | 304 | David Lutcher |
-| 183 | 303 | ALFD |
-| 184 | 303 | Letson Melissa |
+| 183 | 303 | Letson Melissa |
+| 184 | 303 | ALFD |
 | 185 | 301 | Damon J. Martin |
 | 186 | 296 | Cody Gates |
 | 187 | 294 | Erin Rosberg |
@@ -384,7 +384,7 @@
 | 376 | 168 | Amber Dee |
 | 377 | 167 | Snappy Brickbuilder |
 | 378 | 166 | Zany Tiler |
-| 379 | 166 | Gilbert Ortiz Jr. |
+| 379 | 166 | Danielle Mae |
 | 380 | 166 | Glitzy Curvebuilder |
 | 381 | 166 | Gilbert Ortiz Jr. |
 | 382 | 165 | Jason Benitez |
