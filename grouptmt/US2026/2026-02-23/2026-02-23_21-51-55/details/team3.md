@@ -433,8 +433,8 @@
 | 425 | 322 | Beth Smith |
 | 426 | 322 | Nena Somerville Kelly |
 | 427 | 321 | Jl |
-| 428 | 320 | Or Reznitsky |
-| 429 | 320 | Kevin Russell |
+| 428 | 320 | Kevin Russell |
+| 429 | 320 | Or Reznitsky |
 | 430 | 320 | Taylor Hood |
 | 431 | 319 | Tay |
 | 432 | 318 | Christy Quick |

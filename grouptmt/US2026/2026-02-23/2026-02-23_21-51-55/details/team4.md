@@ -140,8 +140,8 @@
 | 132 | 584 | Carlton Unfiltered |
 | 133 | 575 | Jenna Ingersoll |
 | 134 | 574 | Carmethia Clemons Haslerig |
-| 135 | 573 | Cursed Hag |
-| 136 | 573 | shar |
+| 135 | 573 | shar |
+| 136 | 573 | Cursed Hag |
 | 137 | 561 | YoMomma |
 | 138 | 560 | Chastity Mitchell |
 | 139 | 551 | Ren Mc |
@@ -353,8 +353,8 @@
 | 345 | 272 | Tony Pavelka |
 | 346 | 272 | Dennis Bradley |
 | 347 | 271 | Holly |
-| 348 | 270 | 07VHVW |
-| 349 | 270 | 23 |
+| 348 | 270 | 23 |
+| 349 | 270 | 07VHVW |
 | 350 | 270 | Brittany Little |
 | 351 | 269 | Chummy Towerzone |
 | 352 | 268 | Jumpy Zonepiece |
@@ -457,8 +457,8 @@
 | 449 | 218 | Cheaneen Livingston |
 | 450 | 218 | Thomas Hettenhaus |
 | 451 | 218 | Allison Rose |
-| 452 | 217 | Cheery Fitline |
-| 453 | 217 | Perky Riser |
+| 452 | 217 | Perky Riser |
+| 453 | 217 | Cheery Fitline |
 | 454 | 216 | Ryry |
 | 455 | 215 | Tanya Abernathy Jackson |
 | 456 | 215 | Dorian |
@@ -473,8 +473,8 @@
 | 465 | 209 | Calvin Dennis |
 | 466 | 209 | Snippy Puzzle |
 | 467 | 209 | Marcus Todd |
-| 468 | 208 | Moonsterix |
-| 469 | 208 | Wacky Blockclear |
+| 468 | 208 | Wacky Blockclear |
+| 469 | 208 | Moonsterix |
 | 470 | 208 | Stacy |
 | 471 | 207 | SammieJo Guy |
 | 472 | 207 | Jessica Wells |
@@ -1614,9 +1614,9 @@
 | 1606 | 22 | Mary Ann Denmark |
 | 1607 | 22 | Slinky Fitclear |
 | 1608 | 22 | Amy Rosen |
-| 1609 | 22 | Lofty Lue |
+| 1609 | 22 | Ladi A |
 | 1610 | 22 | Francesca Teixeira |
-| 1611 | 22 | Ladi A |
+| 1611 | 22 | Lofty Lue |
 | 1612 | 21 | Zappy Brick |
 | 1613 | 21 | Matt Narcisse |
 | 1614 | 21 | Kris Wolfe |
