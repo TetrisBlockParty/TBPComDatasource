@@ -371,8 +371,8 @@
 | 363 | 265 | Christine Therrien |
 | 364 | 265 | Degenerate |
 | 365 | 264 | AyeKay |
-| 366 | 262 | Ruben Wheeler |
-| 367 | 262 | Selena Shaw |
+| 366 | 262 | Selena Shaw |
+| 367 | 262 | Ruben Wheeler |
 | 368 | 261 | Jason Frehner |
 | 369 | 261 | Ak Jones |
 | 370 | 260 | Carter Jones |

@@ -531,8 +531,8 @@
 | 523 | 790 | Dawn L Washington-Feuquay |
 | 524 | 789 | Leslie Jorgenson |
 | 525 | 788 | Samuel Macon |
-| 526 | 786 | Kimberly Randesi |
-| 527 | 786 | Charvi' Carter |
+| 526 | 786 | Charvi' Carter |
+| 527 | 786 | Kimberly Randesi |
 | 528 | 785 | Miranda Morris |
 | 529 | 781 | Sarah Berger |
 | 530 | 779 | Trinity Oak |
@@ -596,7 +596,7 @@
 | 588 | 720 | William Bresee |
 | 589 | 717 | Shinette Dobson |
 | 590 | 717 | Rhonda Milstead |
-| 591 | 717 | Shinette Dobson |
+| 591 | 717 | Isabelle Bonneau |
 | 592 | 716 | Cc |
 | 593 | 715 | Julio A Laracuente |
 | 594 | 715 | Daniell Martinez |
