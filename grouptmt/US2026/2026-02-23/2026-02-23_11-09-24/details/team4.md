@@ -126,8 +126,8 @@
 | 118 | 521 | Andy Cabral |
 | 119 | 519 | Nugget |
 | 120 | 517 | shar |
-| 121 | 514 | Serena Goodridge |
-| 122 | 514 | Scott Jameson |
+| 121 | 514 | Scott Jameson |
+| 122 | 514 | Serena Goodridge |
 | 123 | 513 | Erin Thomas |
 | 124 | 512 | Casey Jeffcoat |
 | 125 | 512 | Cristy Duerksen |
@@ -209,8 +209,8 @@
 | 201 | 330 | Kathy Brookins |
 | 202 | 328 | scott |
 | 203 | 327 | J-Rizzle |
-| 204 | 324 | TinyLegoRose |
-| 205 | 324 | jim |
+| 204 | 324 | jim |
+| 205 | 324 | TinyLegoRose |
 | 206 | 321 | Meagan Nicole |
 | 207 | 320 | Lauren Scott |
 | 208 | 319 | Googenheim |
@@ -221,8 +221,8 @@
 | 213 | 313 | Milan Markeisha |
 | 214 | 312 | Dihcheese444 |
 | 215 | 312 | Casey Grabner |
-| 216 | 311 | Mary Ann Pabukis |
-| 217 | 311 | Nikki Rae Gordon |
+| 216 | 311 | Nikki Rae Gordon |
+| 217 | 311 | Mary Ann Pabukis |
 | 218 | 310 | Holly Jolly |
 | 219 | 307 | Cheery Risebuilder |
 | 220 | 307 | Michele Plunkett |
@@ -233,8 +233,8 @@
 | 225 | 301 | Andria Lynn |
 | 226 | 300 | Dana Scott |
 | 227 | 295 | Keshia Lyons |
-| 228 | 294 | Calvin Cannon |
-| 229 | 294 | Porkobello |
+| 228 | 294 | Porkobello |
+| 229 | 294 | Calvin Cannon |
 | 230 | 292 | Epic Curvetile |
 | 231 | 291 | Mimi |
 | 232 | 290 | Plucky Patternblock |
