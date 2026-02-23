@@ -15,7 +15,7 @@
 | 7 | 7472 | Beverly Young |
 | 8 | 6328 | Poppy Dashfit |
 | 9 | 5720 | Kathryn Keenan-Taggart |
-| 10 | 5529 | Laurie Allen |
+| 10 | 5481 | Laurie Allen |
 | 11 | 4936 | Travis Copfer |
 | 12 | 4463 | Lauren d |
 | 13 | 4435 | Ant Ant |
@@ -108,8 +108,8 @@
 | 100 | 1101 | Stephanie Rice |
 | 101 | 1094 | JerseyJess |
 | 102 | 1093 | Angela M. Fletcher |
-| 103 | 1056 | joclisa |
-| 104 | 1056 | Ebony West-Cundiff |
+| 103 | 1056 | Ebony West-Cundiff |
+| 104 | 1056 | joclisa |
 | 105 | 1050 | Sherika C. McDaniels |
 | 106 | 1041 | Patricia Gadsden |
 | 107 | 1038 | Mandy Smith Oldham |
@@ -168,10 +168,10 @@
 | 160 | 757 | Fancy Cascader |
 | 161 | 756 | Patty Allen |
 | 162 | 755 | Raya |
-| 163 | 749 | Melissa Orth Hunter |
-| 164 | 745 | ren |
-| 165 | 740 | Kiki |
-| 166 | 738 | Naur |
+| 163 | 745 | ren |
+| 164 | 740 | Kiki |
+| 165 | 738 | Naur |
+| 166 | 736 | Melissa Orth Hunter |
 | 167 | 732 | Cherry Parker |
 | 168 | 730 | Demetrious Shaw Sr. |
 | 169 | 725 | Alaina Lee |
@@ -418,8 +418,8 @@
 | 410 | 323 | Spencer Nikki |
 | 411 | 323 | Troy |
 | 412 | 323 | Jess Bissett |
-| 413 | 322 | Beth Smith |
-| 414 | 322 | Nena Somerville Kelly |
+| 413 | 322 | Nena Somerville Kelly |
+| 414 | 322 | Beth Smith |
 | 415 | 321 | Jl |
 | 416 | 320 | Or Reznitsky |
 | 417 | 320 | Taylor Hood |

@@ -55,8 +55,8 @@
 | 47 | 1126 | Tater |
 | 48 | 1126 | Tipsy Column |
 | 49 | 1122 | Kristen Gideon |
-| 50 | 1114 | Jayme Sellers |
-| 51 | 1114 | Andrea Dañielle Ortiz |
+| 50 | 1114 | Andrea Dañielle Ortiz |
+| 51 | 1114 | Jayme Sellers |
 | 52 | 1074 | Cheeky Twistslam |
 | 53 | 1061 | Carrie Beck Geartz |
 | 54 | 1032 | Kathi Snustad |
@@ -247,9 +247,9 @@
 | 239 | 357 | Teri Oehlke |
 | 240 | 354 | Tipsy Strikerpiece |
 | 241 | 354 | Dino |
-| 242 | 353 | Reesey Enyart |
+| 242 | 353 | Josh Riemer |
 | 243 | 353 | Jaimie Lynn |
-| 244 | 353 | Josh Riemer |
+| 244 | 353 | Reesey Enyart |
 | 245 | 351 | Tyler Hertzog |
 | 246 | 349 | Cool Shiftsnap |
 | 247 | 348 | John Kim |
@@ -316,8 +316,8 @@
 | 308 | 294 | Chummy Rollblock |
 | 309 | 294 | Наталья Солоид |
 | 310 | 293 | Garrett Burket |
-| 311 | 292 | Damian Salem |
-| 312 | 292 | Clever Cascadepiece |
+| 311 | 292 | Clever Cascadepiece |
+| 312 | 292 | Damian Salem |
 | 313 | 291 | Sir-Franchise Drake |
 | 314 | 291 | Michael Espinosa Ulibarri Jr. |
 | 315 | 290 | Tavia |
@@ -346,14 +346,14 @@
 | 338 | 274 | Danielle Mae |
 | 339 | 273 | Test |
 | 340 | 272 | Barrbaric |
-| 341 | 272 | Blaire Bruckoff |
-| 342 | 272 | Brooke Elizabeth Antill |
-| 343 | 271 | Mighty Shatterfit |
-| 344 | 271 | Patty Lavigne Craddock |
+| 341 | 272 | Brooke Elizabeth Antill |
+| 342 | 272 | Blaire Bruckoff |
+| 343 | 271 | Patty Lavigne Craddock |
+| 344 | 271 | Mighty Shatterfit |
 | 345 | 270 | Logan McFarland |
 | 346 | 270 | Brenda Alexander |
-| 347 | 269 | Speedy Snapfall |
-| 348 | 269 | Ric Hard Hernandez |
+| 347 | 269 | Ric Hard Hernandez |
+| 348 | 269 | Speedy Snapfall |
 | 349 | 267 | Willy Michael |
 | 350 | 266 | Mary Love |
 | 351 | 266 | Thorne Shumate |
