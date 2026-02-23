@@ -147,8 +147,8 @@
 | 139 | 551 | Ren Mc |
 | 140 | 549 | Carlos Ramirez |
 | 141 | 546 | Dizzy Tiley |
-| 142 | 545 | Livvy |
-| 143 | 545 | Desi Desporte |
+| 142 | 545 | Desi Desporte |
+| 143 | 545 | Livvy |
 | 144 | 542 | Austin Owens |
 | 145 | 540 | Rodney McMath Jr. |
 | 146 | 536 | Kimberlee Jan Beckstead |
@@ -232,8 +232,8 @@
 | 224 | 398 | Tyler Terrific |
 | 225 | 394 | Nita Wells |
 | 226 | 390 | Kathy Brookins |
-| 227 | 389 | Joseph Guthrie |
-| 228 | 389 | Brickh4us |
+| 227 | 389 | Brickh4us |
+| 228 | 389 | Joseph Guthrie |
 | 229 | 388 | Calvin Cannon |
 | 230 | 385 | 030Synner |
 | 231 | 383 | blockstar |
@@ -469,16 +469,16 @@
 | 461 | 213 | Candice Carasiti |
 | 462 | 212 | Mike Solo |
 | 463 | 211 | Becky Shimko |
-| 464 | 209 | Snippy Puzzle |
-| 465 | 209 | Matthew Pate |
-| 466 | 209 | Calvin Dennis |
+| 464 | 209 | Calvin Dennis |
+| 465 | 209 | Snippy Puzzle |
+| 466 | 209 | Matthew Pate |
 | 467 | 209 | Marcus Todd |
 | 468 | 208 | Moonsterix |
 | 469 | 208 | Wacky Blockclear |
 | 470 | 208 | Stacy |
 | 471 | 207 | SammieJo Guy |
-| 472 | 207 | Sam Middleton |
-| 473 | 207 | Jessica Wells |
+| 472 | 207 | Jessica Wells |
+| 473 | 207 | Sam Middleton |
 | 474 | 206 | Globofish |
 | 475 | 206 | Grann8 |
 | 476 | 206 | James Philpot Ross |
@@ -494,8 +494,8 @@
 | 486 | 203 | Gilles Lanctot |
 | 487 | 202 | Jennifer Brown |
 | 488 | 201 | Walter Beltran |
-| 489 | 201 | O block |
-| 490 | 201 | Jake Roberts |
+| 489 | 201 | Jake Roberts |
+| 490 | 201 | O block |
 | 491 | 199 | Eri Kka |
 | 492 | 199 | Michelle Morris |
 | 493 | 198 | Helen Chao |
@@ -546,11 +546,11 @@
 | 538 | 178 | Sunny Filler |
 | 539 | 178 | Nerdy Linebuilder |
 | 540 | 178 | Laurel Coppess |
-| 541 | 177 | Snippy Clearer |
-| 542 | 177 | Stephanie Mico |
-| 543 | 176 | Walid Elsabee |
+| 541 | 177 | Stephanie Mico |
+| 542 | 177 | Snippy Clearer |
+| 543 | 176 | Jlmendillo |
 | 544 | 176 | Red |
-| 545 | 176 | Jlmendillo |
+| 545 | 176 | Walid Elsabee |
 | 546 | 175 | Veronica Garza |
 | 547 | 173 | Christine Simmons |
 | 548 | 173 | Chariss Newsom |
@@ -568,8 +568,8 @@
 | 560 | 170 | Peppy Drop |
 | 561 | 170 | Joshua W. Benton |
 | 562 | 170 | Elie Pean |
-| 563 | 169 | Joseph Pace |
-| 564 | 169 | Dante Korleon |
+| 563 | 169 | Dante Korleon |
+| 564 | 169 | Joseph Pace |
 | 565 | 168 | LunaMoon |
 | 566 | 168 | Melissa VanBourgondien |
 | 567 | 167 | Brooke Kaune |

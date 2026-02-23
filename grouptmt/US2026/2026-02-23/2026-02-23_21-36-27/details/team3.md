@@ -164,8 +164,8 @@
 | 156 | 774 | ren |
 | 157 | 773 | Daira Largen |
 | 158 | 773 | Daryn Elliott |
-| 159 | 764 | Groovy Catcher |
-| 160 | 764 | Hasty Cascadefit |
+| 159 | 764 | Hasty Cascadefit |
+| 160 | 764 | Groovy Catcher |
 | 161 | 763 | Denita Mungro |
 | 162 | 762 | Santeria Trece Candles |
 | 163 | 761 | Peppy Shifter |
@@ -229,8 +229,8 @@
 | 221 | 568 | Rachael McClain Owens |
 | 222 | 568 | FuzzyNavel |
 | 223 | 566 | LaTanya GeminiondaRise Johnson |
-| 224 | 564 | Christine Trester |
-| 225 | 564 | Poppy Splitter |
+| 224 | 564 | Poppy Splitter |
+| 225 | 564 | Christine Trester |
 | 226 | 563 | Fallorina Susana |
 | 227 | 562 | Dave Herzog |
 | 228 | 561 | Silly Twist |
@@ -440,8 +440,8 @@
 | 432 | 318 | Christina Spa |
 | 433 | 317 | Jack Bo |
 | 434 | 316 | Travis W |
-| 435 | 315 | Julie Fratrik |
-| 436 | 315 | Colton |
+| 435 | 315 | Colton |
+| 436 | 315 | Julie Fratrik |
 | 437 | 314 | Tipsy Zonebuilder |
 | 438 | 313 | Hoppy Buildout |
 | 439 | 312 | Eric Caccavale |

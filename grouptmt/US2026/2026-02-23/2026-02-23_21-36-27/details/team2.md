@@ -204,16 +204,16 @@
 | 196 | 1601 | Ray Ray Prado |
 | 197 | 1600 | Mo Shine On |
 | 198 | 1592 | Dolores Russworn |
-| 199 | 1590 | Jaycee |
-| 200 | 1590 | Amy Sayers |
+| 199 | 1590 | Amy Sayers |
+| 200 | 1590 | Jaycee |
 | 201 | 1585 | Glitzy Stackzone |
 | 202 | 1581 | Tommy Tha Boss Gunz |
 | 203 | 1580 | Sally Dennis |
 | 204 | 1578 | Christine Egidio Morocco |
 | 205 | 1569 | Ashley Dow |
 | 206 | 1565 | Nancy Reid |
-| 207 | 1558 | Tim Dyer |
-| 208 | 1558 | Crystal Slaughter |
+| 207 | 1558 | Crystal Slaughter |
+| 208 | 1558 | Tim Dyer |
 | 209 | 1557 | Poppy Snap |
 | 210 | 1556 | Tonya Morgan |
 | 211 | 1554 | Howard Forest |
@@ -261,8 +261,8 @@
 | 253 | 1330 | Cassie Mercer |
 | 254 | 1330 | Ann Knutson Anderson |
 | 255 | 1325 | Teddi Notyalc |
-| 256 | 1324 | Lola C Davis |
-| 257 | 1324 | Tralonda Weeks |
+| 256 | 1324 | Tralonda Weeks |
+| 257 | 1324 | Lola C Davis |
 | 258 | 1322 | Alyssa Nadine Medelez |
 | 259 | 1319 | Joshua Sommerville |
 | 260 | 1318 | Sarah Freitas |
@@ -391,8 +391,8 @@
 | 383 | 983 | Crystie Hicks |
 | 384 | 978 | Barry Britt |
 | 385 | 976 | Sam Joe |
-| 386 | 975 | Mandi Douglas Hilt |
-| 387 | 975 | Hyper Cluster |
+| 386 | 975 | Hyper Cluster |
+| 387 | 975 | Mandi Douglas Hilt |
 | 388 | 974 | Boldy Cascadepiece |
 | 389 | 974 | Jeremy Parodi |
 | 390 | 971 | Jojo Momma |
@@ -679,10 +679,10 @@
 | 671 | 639 | Libby Hicks |
 | 672 | 639 | Toni Roberson |
 | 673 | 638 | Leah Keesling |
-| 674 | 637 | Koa N Sharon Chen |
-| 675 | 637 | Audrey Jones |
-| 676 | 637 | Karen Posadas Centeno |
-| 677 | 637 | Darcy Mae |
+| 674 | 637 | Audrey Jones |
+| 675 | 637 | Koa N Sharon Chen |
+| 676 | 637 | Darcy Mae |
+| 677 | 637 | Karen Posadas Centeno |
 | 678 | 636 | Emilie Desma |
 | 679 | 635 | David Duncan |
 | 680 | 634 | Quiksilver |
@@ -703,8 +703,8 @@
 | 695 | 623 | Victor Obiakarije |
 | 696 | 622 | Ben Barkley |
 | 697 | 621 | Moua Ying |
-| 698 | 621 | Taren Cowan |
-| 699 | 621 | Lewis Sturgeon |
+| 698 | 621 | Lewis Sturgeon |
+| 699 | 621 | Taren Cowan |
 | 700 | 620 | Macy Jarrett |
 | 701 | 618 | Marella Petilo |
 | 702 | 617 | Luke Califf |

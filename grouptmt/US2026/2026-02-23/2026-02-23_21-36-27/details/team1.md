@@ -102,8 +102,8 @@
 | 94 | 740 | Lori Sanders- Davis |
 | 95 | 722 | Kellie |
 | 96 | 717 | Madison Wicks |
-| 97 | 706 | Denice Dee |
-| 98 | 706 | Plucky Fallzone |
+| 97 | 706 | Plucky Fallzone |
+| 98 | 706 | Denice Dee |
 | 99 | 704 | Karin Gillen |
 | 100 | 703 | Angel Fowler |
 | 101 | 679 | Melissa Lemmon |
@@ -177,8 +177,8 @@
 | 169 | 458 | Dizzy Slider |
 | 170 | 450 | lil mickey |
 | 171 | 449 | Snappy Matcher |
-| 172 | 448 | Timothy Danaher |
-| 173 | 448 | Dandy Basegrid |
+| 172 | 448 | Dandy Basegrid |
+| 173 | 448 | Timothy Danaher |
 | 174 | 446 | SkipTheSadSauce |
 | 175 | 443 | Amanda Jarnagin |
 | 176 | 441 | Cheeky Crusher |
