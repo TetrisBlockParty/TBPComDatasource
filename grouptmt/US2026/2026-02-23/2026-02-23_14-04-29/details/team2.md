@@ -184,8 +184,8 @@
 | 176 | 1574 | Stephen Stephen |
 | 177 | 1567 | Juliana Marques Do Nascimento Gordy |
 | 178 | 1564 | Amy Sayers |
-| 179 | 1558 | Crystal Slaughter |
-| 180 | 1558 | Tim Dyer |
+| 179 | 1558 | Tim Dyer |
+| 180 | 1558 | Crystal Slaughter |
 | 181 | 1555 | blarg |
 | 182 | 1542 | Mo Shine On |
 | 183 | 1537 | Desiree Harris Rosch |
@@ -311,8 +311,8 @@
 | 303 | 1043 | nikki |
 | 304 | 1042 | Mcintosh Brian Shalonda |
 | 305 | 1038 | Hillary Crawford |
-| 306 | 1036 | Allison Lockyer |
-| 307 | 1036 | Amber Shoemaker |
+| 306 | 1036 | Amber Shoemaker |
+| 307 | 1036 | Allison Lockyer |
 | 308 | 1032 | Kristin Gower |
 | 309 | 1029 | Crystal Hoffman |
 | 310 | 1027 | Michele Morgan |
@@ -437,8 +437,8 @@
 | 429 | 802 | Leslie Ann Carter |
 | 430 | 802 | Jessicah Myers |
 | 431 | 801 | Diana Fitzwater |
-| 432 | 799 | Joy LaJeunesse |
-| 433 | 799 | Kenny Alvarado |
+| 432 | 799 | Kenny Alvarado |
+| 433 | 799 | Joy LaJeunesse |
 | 434 | 798 | Christina Walker |
 | 435 | 798 | Melissa Cole |
 | 436 | 797 | Gary Stash |

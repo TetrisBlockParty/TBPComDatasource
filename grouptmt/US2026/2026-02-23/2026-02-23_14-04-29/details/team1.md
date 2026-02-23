@@ -125,8 +125,8 @@
 | 117 | 497 | Arianna O'Brien |
 | 118 | 493 | MomMom |
 | 119 | 491 | cc |
-| 120 | 489 | April Carroll |
-| 121 | 489 | Deanna L Hermanson |
+| 120 | 489 | Deanna L Hermanson |
+| 121 | 489 | April Carroll |
 | 122 | 483 | Trina Gee |
 | 123 | 477 | Tonya Beasley |
 | 124 | 475 | Sarah Somers Gray |
@@ -294,8 +294,8 @@
 | 286 | 268 | Wayne Saunders |
 | 287 | 265 | Flashy Rotator |
 | 288 | 264 | Jenny Gingrich Fuentes |
-| 289 | 263 | Nadine Velardo |
-| 290 | 263 | Sunny Shift |
+| 289 | 263 | Sunny Shift |
+| 290 | 263 | Nadine Velardo |
 | 291 | 261 | Brooke Elizabeth Antill |
 | 292 | 260 | Lacy Wolfe |
 | 293 | 260 | Marianita Garcia |

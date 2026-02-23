@@ -367,8 +367,8 @@
 | 359 | 219 | Orchislactea |
 | 360 | 219 | Shane Vick |
 | 361 | 218 | Janita Parrish |
-| 362 | 217 | Cheery Fitline |
-| 363 | 217 | Paito |
+| 362 | 217 | Paito |
+| 363 | 217 | Cheery Fitline |
 | 364 | 217 | Alexandra Karavias |
 | 365 | 216 | Funky Risepiece |
 | 366 | 215 | Squeezy Pearsall |
@@ -411,10 +411,10 @@
 | 403 | 194 | SammieJo Guy |
 | 404 | 194 | Eri Kka |
 | 405 | 193 | Jennifer Brown |
-| 406 | 192 | Meg |
-| 407 | 192 | Twisty Risebuilder |
-| 408 | 191 | Riverdale |
-| 409 | 191 | Earnest Thompson |
+| 406 | 192 | Twisty Risebuilder |
+| 407 | 192 | Meg |
+| 408 | 191 | Earnest Thompson |
+| 409 | 191 | Riverdale |
 | 410 | 191 | Norman Klick |
 | 411 | 190 | wombat |
 | 412 | 189 | Duck |

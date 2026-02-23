@@ -262,8 +262,8 @@
 | 254 | 421 | Snazzy Filler |
 | 255 | 421 | Chummy Caster |
 | 256 | 420 | Quackers |
-| 257 | 420 | Sabrina Hardrick |
-| 258 | 420 | Betty Bóò |
+| 257 | 420 | Betty Bóò |
+| 258 | 420 | Sabrina Hardrick |
 | 259 | 419 | Aerian Preston |
 | 260 | 419 | Marci Mize Fandrich |
 | 261 | 417 | Giddy Twistbuilder |
