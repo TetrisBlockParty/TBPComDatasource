@@ -583,13 +583,13 @@
 | 575 | 612 | Briana Alexander |
 | 576 | 612 | Slinky Racker |
 | 577 | 610 | Michael Buckner |
-| 578 | 609 | Autumn Schaeffer |
-| 579 | 609 | Cecilia A Jenkins |
+| 578 | 609 | Cecilia A Jenkins |
+| 579 | 609 | Autumn Schaeffer |
 | 580 | 607 | James Smith |
 | 581 | 607 | Miranda Morris |
 | 582 | 606 | Lea Stewart |
-| 583 | 605 | Mandi Marie Smith |
-| 584 | 605 | Jermaine Harris |
+| 583 | 605 | Jermaine Harris |
+| 584 | 605 | Mandi Marie Smith |
 | 585 | 604 | Rae Rae |
 | 586 | 603 | Casper The Chonk |
 | 587 | 603 | Dizzy Zone |
@@ -765,7 +765,7 @@
 | 757 | 484 | Street Sweeper |
 | 758 | 483 | Austin Wilson |
 | 759 | 483 | Tabs Reichert |
-| 760 | 482 | Shyenn Gadsby |
+| 760 | 482 | Amélie Cadieux |
 | 761 | 482 | Drwatson187 |
 | 762 | 482 | Nate |
 | 763 | 482 | Samuel Labruno |
@@ -788,8 +788,8 @@
 | 780 | 474 | Calandra Shaya Robinson |
 | 781 | 473 | Tara Lynn Janes |
 | 782 | 473 | Jenn Marie |
-| 783 | 472 | Cathleena Giusto |
-| 784 | 472 | Connie Lepore-Mann |
+| 783 | 472 | Connie Lepore-Mann |
+| 784 | 472 | Cathleena Giusto |
 | 785 | 471 | Jessica Hughes |
 | 786 | 471 | Charming Leech |
 | 787 | 470 | Katie Marie |
@@ -1432,8 +1432,8 @@
 | 1424 | 281 | Steve Webb |
 | 1425 | 281 | Brave Rotator |
 | 1426 | 280 | Abi Anderson |
-| 1427 | 280 | Bathymaas |
-| 1428 | 280 | Heidi Kent |
+| 1427 | 280 | Heidi Kent |
+| 1428 | 280 | Bathymaas |
 | 1429 | 280 | Maurice Bundy |
 | 1430 | 280 | Jacqueline Muellerleile |
 | 1431 | 280 | Theresa Ring |

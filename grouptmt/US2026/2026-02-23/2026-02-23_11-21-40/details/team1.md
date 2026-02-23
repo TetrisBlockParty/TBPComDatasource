@@ -103,8 +103,8 @@
 | 95 | 562 | Denice Dee |
 | 96 | 553 | And |
 | 97 | 535 | Susan Ward |
-| 98 | 534 | Veronica Eve |
-| 99 | 534 | Loony Fitzone |
+| 98 | 534 | Loony Fitzone |
+| 99 | 534 | Veronica Eve |
 | 100 | 529 | Ryan Lunnin |
 | 101 | 522 | Sarah Lombardo |
 | 102 | 511 | Mario Cab |
@@ -310,8 +310,8 @@
 | 302 | 238 | Michael |
 | 303 | 237 | Danielle S Kester |
 | 304 | 235 | Ariel Whittington |
-| 305 | 234 | Paula Martin |
-| 306 | 234 | Brandie Gallegos |
+| 305 | 234 | Brandie Gallegos |
+| 306 | 234 | Paula Martin |
 | 307 | 233 | Shiny Gridmatch |
 | 308 | 233 | Keith Mathis |
 | 309 | 233 | Melissa Bires Hussar |
@@ -627,7 +627,7 @@
 | 619 | 122 | Oliver Hollins |
 | 620 | 122 | Paul Osborne |
 | 621 | 121 | Spunky Tilt |
-| 622 | 121 | Gremb |
+| 622 | 121 | Erres Jones |
 | 623 | 121 | Amber Nixon |
 | 624 | 121 | Travis Taylor |
 | 625 | 121 | Larry Jackson |

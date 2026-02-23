@@ -114,8 +114,8 @@
 | 106 | 869 | Araceli Parra |
 | 107 | 868 | Sarajane Lokan |
 | 108 | 860 | Sunny Rotater |
-| 109 | 851 | Danielle Becker |
-| 110 | 851 | Jd Morris |
+| 109 | 851 | Jd Morris |
+| 110 | 851 | Danielle Becker |
 | 111 | 850 | Danielle Mogg |
 | 112 | 848 | Patricia Gadsden |
 | 113 | 839 | Angeline Joseph |
@@ -276,8 +276,8 @@
 | 268 | 381 | Snazzy Filler |
 | 269 | 380 | Rebecca Bailey |
 | 270 | 379 | JessDrown |
-| 271 | 378 | MsBee |
-| 272 | 378 | Chris Bell |
+| 271 | 378 | Chris Bell |
+| 272 | 378 | MsBee |
 | 273 | 375 | Stephanie Burtin |
 | 274 | 374 | Rania Zaqout |
 | 275 | 372 | Sarah Moyer |
@@ -442,15 +442,15 @@
 | 434 | 253 | crystal |
 | 435 | 253 | Hyper Bridger |
 | 436 | 253 | Bryan Byrd |
-| 437 | 253 | Hyper Bridger |
-| 438 | 252 | Jl |
-| 439 | 252 | Josh Borquez |
+| 437 | 253 | Block Baddie |
+| 438 | 252 | Josh Borquez |
+| 439 | 252 | Jl |
 | 440 | 251 | Colleen Phelps |
 | 441 | 250 | Dana Fox |
 | 442 | 249 | Willow |
 | 443 | 248 | Brian Battjes |
-| 444 | 247 | Jessica |
-| 445 | 247 | Kevin Russell |
+| 444 | 247 | Kevin Russell |
+| 445 | 247 | Jessica |
 | 446 | 245 | Latoya Mayne |
 | 447 | 245 | LaNette Morgan |
 | 448 | 244 | Beezwax |
@@ -478,8 +478,8 @@
 | 470 | 236 | Loopy Fallzone |
 | 471 | 234 | Cheeky Twisterfit |
 | 472 | 233 | Tony Waters |
-| 473 | 233 | Criss |
-| 474 | 233 | Anna Moeller |
+| 473 | 233 | Anna Moeller |
+| 474 | 233 | Criss |
 | 475 | 232 | Sunny Tiltgrid |
 | 476 | 232 | Melanie Sherwood |
 | 477 | 232 | Stephanie Hill |
@@ -587,8 +587,8 @@
 | 579 | 192 | Sierra Spencer |
 | 580 | 192 | Laura Booth Wosko |
 | 581 | 192 | Jennifer Neiman Gaal |
-| 582 | 191 | Silver Marchán |
-| 583 | 191 | lady lua |
+| 582 | 191 | lady lua |
+| 583 | 191 | Silver Marchán |
 | 584 | 191 | Peachy Tower |
 | 585 | 191 | Becca Engle |
 | 586 | 191 | Polopypy |

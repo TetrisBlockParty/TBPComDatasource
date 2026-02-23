@@ -126,8 +126,8 @@
 | 118 | 521 | Andy Cabral |
 | 119 | 519 | Nugget |
 | 120 | 517 | shar |
-| 121 | 514 | Serena Goodridge |
-| 122 | 514 | Scott Jameson |
+| 121 | 514 | Scott Jameson |
+| 122 | 514 | Serena Goodridge |
 | 123 | 513 | Erin Thomas |
 | 124 | 512 | Cristy Duerksen |
 | 125 | 512 | Casey Jeffcoat |
@@ -401,9 +401,9 @@
 | 393 | 185 | Eric Wren |
 | 394 | 185 | Val Erie |
 | 395 | 185 | Morti |
-| 396 | 183 | Jesse Saville |
-| 397 | 183 | Darrin Rubalcava |
-| 398 | 183 | Nerdy Twisterfit |
+| 396 | 183 | Nerdy Twisterfit |
+| 397 | 183 | Jesse Saville |
+| 398 | 183 | Darrin Rubalcava |
 | 399 | 182 | Neil Ingham |
 | 400 | 181 | Asher |
 | 401 | 181 | Nikki Wilson |
@@ -426,8 +426,8 @@
 | 418 | 176 | Jessica Wells |
 | 419 | 175 | Jim Hart |
 | 420 | 175 | Lorena Guerrero-Barron |
-| 421 | 174 | Chummy Towerzone |
-| 422 | 174 | Jason Frehner |
+| 421 | 174 | Jason Frehner |
+| 422 | 174 | Chummy Towerzone |
 | 423 | 173 | Tanner Lund |
 | 424 | 172 | Janis Brown |
 | 425 | 172 | Shiny Pivoty |
@@ -469,9 +469,9 @@
 | 461 | 162 | Amy Sanford |
 | 462 | 162 | Empress Oasis |
 | 463 | 161 | Angel Raya |
-| 464 | 160 | Sam Middleton |
-| 465 | 160 | Heather Layne Smith |
-| 466 | 160 | Sho Nuff |
+| 464 | 160 | Sho Nuff |
+| 465 | 160 | Sam Middleton |
+| 466 | 160 | Heather Layne Smith |
 | 467 | 160 | icequeenx |
 | 468 | 159 | Groovy Brickmatch |
 | 469 | 158 | Jen Mattei |
