@@ -276,8 +276,8 @@
 | 268 | 434 | Daring Builder |
 | 269 | 432 | rosy |
 | 270 | 432 | Luciana Braganca Vieira |
-| 271 | 431 | Ammmmmmy |
-| 272 | 431 | Wendy Dearden |
+| 271 | 431 | Wendy Dearden |
+| 272 | 431 | Ammmmmmy |
 | 273 | 430 | Jeni Dow |
 | 274 | 429 | Carrie Huskey |
 | 275 | 428 | Sleepy |
@@ -293,11 +293,11 @@
 | 285 | 414 | RickyG |
 | 286 | 412 | Jojo M |
 | 287 | 411 | Megan Rathmanner |
-| 288 | 410 | Brian Battjes |
-| 289 | 410 | Duane Bright |
+| 288 | 410 | Duane Bright |
+| 289 | 410 | Brian Battjes |
 | 290 | 408 | Tiffany Ford |
-| 291 | 408 | Cyd061769 |
-| 292 | 408 | Ashley Muncey |
+| 291 | 408 | Ashley Muncey |
+| 292 | 408 | Cyd061769 |
 | 293 | 406 | Kristal C Lee |
 | 294 | 405 | Desiree Gold |
 | 295 | 405 | Steffi Chris Dacones |
@@ -385,8 +385,8 @@
 | 377 | 325 | Big T |
 | 378 | 325 | Tasha Wesson-Torrence |
 | 379 | 324 | Sissy Lowery Davis |
-| 380 | 323 | Spencer Nikki |
-| 381 | 323 | Mary Giorgenti |
+| 380 | 323 | Mary Giorgenti |
+| 381 | 323 | Spencer Nikki |
 | 382 | 323 | Sharisse Baltimore |
 | 383 | 323 | Jess Bissett |
 | 384 | 323 | Erykah |
@@ -424,8 +424,8 @@
 | 416 | 299 | Antonia Russell |
 | 417 | 299 | Hasty Gridpiece |
 | 418 | 299 | Angie Harper |
-| 419 | 298 | Dannie Litchard |
-| 420 | 298 | Grams |
+| 419 | 298 | Grams |
+| 420 | 298 | Dannie Litchard |
 | 421 | 298 | Tay |
 | 422 | 297 | Quirky Snapfit |
 | 423 | 296 | Amy Montz |
