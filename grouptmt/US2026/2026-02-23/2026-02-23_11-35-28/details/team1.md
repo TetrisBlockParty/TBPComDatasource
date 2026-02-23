@@ -119,8 +119,8 @@
 | 111 | 491 | cc |
 | 112 | 489 | Deanna L Hermanson |
 | 113 | 489 | April Carroll |
-| 114 | 483 | Tdub |
-| 115 | 483 | Trina Gee |
+| 114 | 483 | Trina Gee |
+| 115 | 483 | Tdub |
 | 116 | 480 | Ty Brown |
 | 117 | 478 | Stephanie Zahn |
 | 118 | 477 | Tonya Beasley |
@@ -146,8 +146,8 @@
 | 138 | 429 | Kristi Johnson |
 | 139 | 428 | Ly Phethmany |
 | 140 | 426 | Maria C. Hernandez |
-| 141 | 425 | Tyler Werts |
-| 142 | 425 | Dandy Basegrid |
+| 141 | 425 | Dandy Basegrid |
+| 142 | 425 | Tyler Werts |
 | 143 | 423 | ALFD |
 | 144 | 422 | Constance Risner |
 | 145 | 417 | Phu ckalldems |
@@ -284,8 +284,8 @@
 | 276 | 255 | Beazel75 |
 | 277 | 255 | Giggly Builderline |
 | 278 | 254 | Al Smith Jr |
-| 279 | 253 | Cece Ibarra |
-| 280 | 253 | Jamie Jury |
+| 279 | 253 | Jamie Jury |
+| 280 | 253 | Cece Ibarra |
 | 281 | 252 | Dena Kayy |
 | 282 | 251 | MRdot Rooski |
 | 283 | 251 | Angela Fairbank |

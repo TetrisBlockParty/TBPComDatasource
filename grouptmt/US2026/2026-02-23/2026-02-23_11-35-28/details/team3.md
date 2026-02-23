@@ -417,8 +417,8 @@
 | 409 | 267 | April Matthew Kibble |
 | 410 | 267 | Jul |
 | 411 | 266 | Daring Builder |
-| 412 | 266 | Quirky Dropzone |
-| 413 | 266 | Sarah Muradyan |
+| 412 | 266 | Sarah Muradyan |
+| 413 | 266 | Quirky Dropzone |
 | 414 | 265 | Heather Davis |
 | 415 | 265 | Ashley Lynn Marchese |
 | 416 | 265 | AlsoJess |
@@ -432,8 +432,8 @@
 | 424 | 259 | Dana Winters |
 | 425 | 259 | Tegan Chapman |
 | 426 | 258 | IamJust Neyamijah Washington Sr. |
-| 427 | 257 | Chris Wallace |
-| 428 | 257 | Rachel Grant |
+| 427 | 257 | Rachel Grant |
+| 428 | 257 | Chris Wallace |
 | 429 | 257 | Jana Polk |
 | 430 | 257 | Saucy Buildout |
 | 431 | 255 | Mariah Williams |
@@ -453,8 +453,8 @@
 | 445 | 247 | Kevin Russell |
 | 446 | 247 | Jessica |
 | 447 | 245 | Latoya Mayne |
-| 448 | 245 | 4girls |
-| 449 | 245 | LaNette Morgan |
+| 448 | 245 | LaNette Morgan |
+| 449 | 245 | 4girls |
 | 450 | 244 | Beezwax |
 | 451 | 243 | Paula Little |
 | 452 | 243 | Nicholas Roddy |
@@ -573,8 +573,8 @@
 | 565 | 198 | momo |
 | 566 | 197 | BabyTonj Evans |
 | 567 | 197 | Giggy Glidepiece |
-| 568 | 197 | Jalissa Monique |
-| 569 | 197 | Fredd Thomas |
+| 568 | 197 | Fredd Thomas |
+| 569 | 197 | Jalissa Monique |
 | 570 | 197 | Johnny Berlin |
 | 571 | 196 | Joshua David Huie |
 | 572 | 196 | Weerae |
@@ -787,8 +787,8 @@
 | 779 | 148 | Russell Hankinson |
 | 780 | 148 | Snazzy Brickzone |
 | 781 | 148 | Emi |
-| 782 | 148 | Joseph Vargas |
-| 783 | 148 | Skippy |
+| 782 | 148 | Skippy |
+| 783 | 148 | Joseph Vargas |
 | 784 | 148 | Tatiana Lopez |
 | 785 | 147 | Richard Saunders |
 | 786 | 147 | Betsey Hayes-Solano |
@@ -1353,8 +1353,8 @@
 | 1345 | 82 | Janessa Nicholson |
 | 1346 | 82 | Carrie Linkous |
 | 1347 | 82 | Citysprout |
-| 1348 | 81 | Spunky Combofall |
-| 1349 | 81 | Epic Fitzone |
+| 1348 | 81 | Josh Zenger |
+| 1349 | 81 | Spunky Combofall |
 | 1350 | 81 | Kacy Ramsey |
 | 1351 | 81 | Epic Fitzone |
 | 1352 | 81 | Tammy Wooton-Taylor |

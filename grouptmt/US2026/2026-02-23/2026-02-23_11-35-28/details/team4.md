@@ -63,8 +63,8 @@
 | 55 | 870 | BertMofo |
 | 56 | 864 | Shelly Chandler |
 | 57 | 863 | Pee |
-| 58 | 859 | TeeJ |
-| 59 | 859 | Christina LR |
+| 58 | 859 | Christina LR |
+| 59 | 859 | TeeJ |
 | 60 | 846 | Lucille Truesdale |
 | 61 | 846 | Christine Marie |
 | 62 | 834 | quicksand420 |
@@ -183,8 +183,8 @@
 | 175 | 372 | Antony Dwayne Beasley |
 | 176 | 370 | Oscar Alberto Perez |
 | 177 | 369 | Lindsey Gonzalez |
-| 178 | 368 | Raegan Lane-Ross |
-| 179 | 368 | Brandon Crabbs |
+| 178 | 368 | Brandon Crabbs |
+| 179 | 368 | Raegan Lane-Ross |
 | 180 | 368 | Silly Zonebuilder |
 | 181 | 365 | Jeff Brian Gates |
 | 182 | 361 | Danielle Kollias |
@@ -211,8 +211,8 @@
 | 203 | 330 | blockstar |
 | 204 | 328 | scott |
 | 205 | 327 | J-Rizzle |
-| 206 | 324 | TinyLegoRose |
-| 207 | 324 | jim |
+| 206 | 324 | jim |
+| 207 | 324 | TinyLegoRose |
 | 208 | 321 | Meagan Nicole |
 | 209 | 320 | Lauren Scott |
 | 210 | 319 | Googenheim |
@@ -239,8 +239,8 @@
 | 231 | 294 | Calvin Cannon |
 | 232 | 292 | Epic Curvetile |
 | 233 | 291 | Mimi |
-| 234 | 290 | Rebecca Morris |
-| 235 | 290 | Plucky Patternblock |
+| 234 | 290 | Plucky Patternblock |
+| 235 | 290 | Rebecca Morris |
 | 236 | 290 | Jared Gutwein |
 | 237 | 289 | Juls |
 | 238 | 288 | Leah Kutz Zirbel |
@@ -249,8 +249,8 @@
 | 241 | 288 | Brittney Orengo |
 | 242 | 285 | 030Synner |
 | 243 | 284 | Matt Dell'Olio |
-| 244 | 282 | Matt Gooder |
-| 245 | 282 | Kim Klutz Olson |
+| 244 | 282 | Kim Klutz Olson |
+| 245 | 282 | Matt Gooder |
 | 246 | 281 | Laura |
 | 247 | 280 | Rio Rocha |
 | 248 | 279 | Malakai Darien Fox |
@@ -383,14 +383,14 @@
 | 375 | 194 | Michelle Morris |
 | 376 | 194 | Zany Twisterfit |
 | 377 | 194 | Eri Kka |
-| 378 | 192 | Twisty Risebuilder |
-| 379 | 192 | Meg |
+| 378 | 192 | Meg |
+| 379 | 192 | Twisty Risebuilder |
 | 380 | 191 | Riverdale |
 | 381 | 191 | Earnest Thompson |
 | 382 | 191 | Norman Klick |
 | 383 | 190 | wombat |
-| 384 | 189 | Berklie Apedaile |
-| 385 | 189 | Lauren Lamb |
+| 384 | 189 | Lauren Lamb |
+| 385 | 189 | Berklie Apedaile |
 | 386 | 189 | Cool Towerbuilder |
 | 387 | 188 | Frilly Blocky |
 | 388 | 188 | Sharyn Lemire |
@@ -729,8 +729,8 @@
 | 721 | 98 | Manuel Groleau |
 | 722 | 98 | Maurice Daniels |
 | 723 | 98 | Jessi Cinotto |
-| 724 | 97 | Shanon James |
-| 725 | 97 | Rick SJ |
+| 724 | 97 | Rick SJ |
+| 725 | 97 | Shanon James |
 | 726 | 97 | Frisky Matchgrid |
 | 727 | 96 | Bubbly Twistpiece |
 | 728 | 96 | Krs |
