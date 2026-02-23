@@ -218,8 +218,8 @@
 | 210 | 590 | Shawn Miller |
 | 211 | 587 | Louise Stacy Sisson |
 | 212 | 585 | Happy Tetriblast |
-| 213 | 585 | Jim Mathews |
-| 214 | 585 | Salena Whitlock |
+| 213 | 585 | Salena Whitlock |
+| 214 | 585 | Jim Mathews |
 | 215 | 584 | Connie Mohler-Fair |
 | 216 | 582 | Natasha Jones |
 | 217 | 578 | Twisty Brick LT |
@@ -313,8 +313,8 @@
 | 305 | 433 | Skippy |
 | 306 | 432 | Luciana Braganca Vieira |
 | 307 | 431 | Wendy Dearden |
-| 308 | 430 | Quackers |
-| 309 | 430 | Jeni Dow |
+| 308 | 430 | Jeni Dow |
+| 309 | 430 | Quackers |
 | 310 | 430 | Jennifer Alvey |
 | 311 | 429 | Carrie Huskey |
 | 312 | 428 | Samantha Lynn |
@@ -455,7 +455,7 @@
 | 447 | 309 | Cheeky Snapper |
 | 448 | 309 | Joseph Vargas |
 | 449 | 309 | Carol Cain Thurman |
-| 450 | 308 | Beejangles |
+| 450 | 308 | Bryan Byrd |
 | 451 | 308 | Sassy Brickmatch |
 | 452 | 308 | Beejangles |
 | 453 | 308 | Michael Kimbro |

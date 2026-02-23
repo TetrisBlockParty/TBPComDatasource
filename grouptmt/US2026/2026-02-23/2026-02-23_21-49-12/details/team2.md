@@ -154,8 +154,8 @@
 | 146 | 2017 | Rebecca Doughman |
 | 147 | 2011 | Mema |
 | 148 | 2005 | Cody Nishimura |
-| 149 | 2004 | Jumpy Gridpiece |
-| 150 | 1989 | Cozy Filler |
+| 149 | 1989 | Cozy Filler |
+| 150 | 1984 | Jumpy Gridpiece |
 | 151 | 1983 | Porsche' Nicole |
 | 152 | 1982 | Mighty Liner |
 | 153 | 1960 | Aimee Campbell |
@@ -258,8 +258,8 @@
 | 250 | 1337 | Carrie Trigg |
 | 251 | 1336 | Kristin Ruest |
 | 252 | 1333 | Peppy Zone |
-| 253 | 1330 | Ann Knutson Anderson |
-| 254 | 1330 | Cassie Mercer |
+| 253 | 1330 | Cassie Mercer |
+| 254 | 1330 | Ann Knutson Anderson |
 | 255 | 1325 | Teddi Notyalc |
 | 256 | 1324 | Tralonda Weeks |
 | 257 | 1324 | Lola C Davis |
@@ -350,8 +350,8 @@
 | 342 | 1079 | Jennifer Kistner |
 | 343 | 1073 | Jodi Blake |
 | 344 | 1072 | BK Queen |
-| 345 | 1071 | Kim Dean |
-| 346 | 1071 | Nashu |
+| 345 | 1071 | Nashu |
+| 346 | 1071 | Kim Dean |
 | 347 | 1071 | Barbra Miller |
 | 348 | 1067 | Caitlin Schmid |
 | 349 | 1065 | Dany Murillo |
@@ -791,8 +791,8 @@
 | 783 | 567 | Ryan Meilleur |
 | 784 | 567 | Lisa Moone |
 | 785 | 566 | Cathleena Giusto |
-| 786 | 566 | Lively Piecebuilder |
-| 787 | 566 | Megan Kitchner |
+| 786 | 566 | Megan Kitchner |
+| 787 | 566 | Lively Piecebuilder |
 | 788 | 565 | Alice Ball |
 | 789 | 564 | Rackemwillie34 |
 | 790 | 564 | Ashley Taylor |
@@ -800,16 +800,16 @@
 | 792 | 562 | Joel Rosado |
 | 793 | 561 | Dane Reing |
 | 794 | 560 | Rose Fx |
-| 795 | 560 | Timothy Robert |
-| 796 | 560 | Jc Gilk |
-| 797 | 560 | Crystal Heller Gonzalez |
+| 795 | 560 | Crystal Heller Gonzalez |
+| 796 | 560 | Timothy Robert |
+| 797 | 560 | Jc Gilk |
 | 798 | 559 | Kaylee McCafferty |
-| 799 | 559 | Kevin Luu |
-| 800 | 559 | Alexx Anaya |
+| 799 | 559 | Alexx Anaya |
+| 800 | 559 | Kevin Luu |
 | 801 | 558 | NanDa Cruzan VI |
 | 802 | 558 | Alicia Moreno |
-| 803 | 557 | Samuel Labruno |
-| 804 | 557 | Sassy Linkroll |
+| 803 | 557 | Sassy Linkroll |
+| 804 | 557 | Samuel Labruno |
 | 805 | 557 | Anita Rose Green |
 | 806 | 556 | Kamilya Rembert |
 | 807 | 556 | Rhonda Petro |

@@ -187,8 +187,8 @@
 | 179 | 432 | Lori Bales |
 | 180 | 430 | MIKOZ |
 | 181 | 426 | Maria C. Hernandez |
-| 182 | 425 | Tana |
-| 183 | 425 | Tyler Werts |
+| 182 | 425 | Tyler Werts |
+| 183 | 425 | Tana |
 | 184 | 424 | Emily Adelaide Wheatley |
 | 185 | 423 | Kimberly Garcia |
 | 186 | 423 | Elaine Elaine |
@@ -205,15 +205,15 @@
 | 197 | 404 | Sleepysloath5745 |
 | 198 | 404 | Tawnya Peltonen |
 | 199 | 402 | Jennifer Noe Chandler |
-| 200 | 398 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
-| 201 | 398 | Tyler L Hunt |
+| 200 | 398 | Tyler L Hunt |
+| 201 | 398 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 202 | 397 | Erin Rosberg |
 | 203 | 395 | Monica Donato |
-| 204 | 393 | Lehrin Maria |
-| 205 | 393 | Wisa |
+| 204 | 393 | Wisa |
+| 205 | 393 | Lehrin Maria |
 | 206 | 392 | Kathy Langham |
-| 207 | 387 | Witty Builderfit |
-| 208 | 387 | Carrie Smith |
+| 207 | 387 | Carrie Smith |
+| 208 | 387 | Witty Builderfit |
 | 209 | 387 | Ananda Mendez |
 | 210 | 386 | Brian Spotts |
 | 211 | 384 | Tami Luce Martin |
