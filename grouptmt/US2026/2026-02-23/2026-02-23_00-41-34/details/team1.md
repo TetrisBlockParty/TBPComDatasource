@@ -104,8 +104,8 @@
 | 96 | 485 | Cartier |
 | 97 | 480 | cc |
 | 98 | 474 | Tdub |
-| 99 | 472 | April Carroll |
-| 100 | 472 | Kristen Gideon |
+| 99 | 472 | Kristen Gideon |
+| 100 | 472 | April Carroll |
 | 101 | 466 | Hasbro Bros |
 | 102 | 462 | Luciano Moreira |
 | 103 | 454 | Evan Richmond |
@@ -144,19 +144,19 @@
 | 136 | 376 | lil mickey |
 | 137 | 368 | Death |
 | 138 | 367 | Sharon Reynolds |
-| 139 | 364 | Shauna Loe |
-| 140 | 364 | Serina Marie |
+| 139 | 364 | Serina Marie |
+| 140 | 364 | Shauna Loe |
 | 141 | 361 | Amanda Johnson Huffman |
 | 142 | 361 | Tanya Carpenter-Reynolds |
-| 143 | 360 | phrmblk24 |
-| 144 | 360 | Wisa |
+| 143 | 360 | Wisa |
+| 144 | 360 | phrmblk24 |
 | 145 | 359 | Chirpy Smasher |
 | 146 | 357 | Jason Savage |
 | 147 | 353 | Josh Riemer |
 | 148 | 350 | Tipsy Strikerpiece |
 | 149 | 344 | Monica Donato |
-| 150 | 343 | Elaine Elaine |
-| 151 | 343 | Chelsea Dahlquist |
+| 150 | 343 | Chelsea Dahlquist |
+| 151 | 343 | Elaine Elaine |
 | 152 | 341 | Nick R Montague |
 | 153 | 337 | Nicole Roseberry Weber |
 | 154 | 336 | Fmp |

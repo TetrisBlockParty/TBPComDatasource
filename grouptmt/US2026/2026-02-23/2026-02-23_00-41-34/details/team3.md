@@ -249,8 +249,8 @@
 | 241 | 364 | Steffi Chris Dacones |
 | 242 | 362 | Brandon Givens |
 | 243 | 360 | Sheila M Frazier |
-| 244 | 357 | Ammmmmmy |
-| 245 | 357 | Stephanie Burtin |
+| 244 | 357 | Stephanie Burtin |
+| 245 | 357 | Ammmmmmy |
 | 246 | 352 | Christian Werndl |
 | 247 | 352 | Samantha Lynn |
 | 248 | 351 | Eon Harris |
@@ -270,8 +270,8 @@
 | 262 | 339 | Cynthia Herrmann Egland |
 | 263 | 338 | Gumbo |
 | 264 | 332 | Velma Mull |
-| 265 | 330 | victory |
-| 266 | 330 | Brittany |
+| 265 | 330 | Brittany |
+| 266 | 330 | victory |
 | 267 | 329 | Tye Stovall |
 | 268 | 329 | block chick |
 | 269 | 327 | Gideon Walker |

@@ -193,8 +193,8 @@
 | 185 | 1282 | Ashley Rose Frederick |
 | 186 | 1257 | Michele Gabriel |
 | 187 | 1243 | Anna Edwards |
-| 188 | 1232 | Groovy Puzzle |
-| 189 | 1232 | Ambyre Patterson |
+| 188 | 1232 | Ambyre Patterson |
+| 189 | 1232 | Groovy Puzzle |
 | 190 | 1230 | Megan Garrick |
 | 191 | 1227 | Tim Dyer |
 | 192 | 1224 | Liberty |
@@ -292,10 +292,10 @@
 | 284 | 914 | Shuany Arias |
 | 285 | 907 | Gene Mills |
 | 286 | 905 | Osun Anuket Esu |
-| 287 | 904 | John Bednarik |
-| 288 | 904 | Jennifer Aiken |
-| 289 | 904 | Missie Lawson Gebhardt |
-| 290 | 904 | Ashlen Dorrell |
+| 287 | 904 | Jennifer Aiken |
+| 288 | 904 | John Bednarik |
+| 289 | 904 | Ashlen Dorrell |
+| 290 | 904 | Missie Lawson Gebhardt |
 | 291 | 902 | William Hunt |
 | 292 | 901 | SaraMarie Eveland |
 | 293 | 895 | Donna Colby |

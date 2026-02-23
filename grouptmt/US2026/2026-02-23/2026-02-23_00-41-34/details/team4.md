@@ -126,8 +126,8 @@
 | 118 | 458 | Twisty Clicky |
 | 119 | 448 | Kristin Manee |
 | 120 | 435 | Leslie Thomas |
-| 121 | 431 | Jolly Dashfit |
-| 122 | 431 | Courtney Cicoria |
+| 121 | 431 | Courtney Cicoria |
+| 122 | 431 | Jolly Dashfit |
 | 123 | 429 | Ren Mc |
 | 124 | 427 | KJ Pool |
 | 125 | 418 | Monica Daley |
@@ -207,8 +207,8 @@
 | 199 | 281 | Laura |
 | 200 | 281 | Kim Klutz Olson |
 | 201 | 277 | Zesty Twistbuilder |
-| 202 | 276 | Joeliecea Cobb |
-| 203 | 276 | Matt Dell'Olio |
+| 202 | 276 | Matt Dell'Olio |
+| 203 | 276 | Joeliecea Cobb |
 | 204 | 273 | Casey Grabner |
 | 205 | 272 | Dennis Bradley |
 | 206 | 272 | Alan George LaRage |
