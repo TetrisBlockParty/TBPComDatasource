@@ -66,8 +66,8 @@
 | 58 | 892 | Seth Wesson |
 | 59 | 874 | Kristen Roles Robben |
 | 60 | 858 | Michelle Nicole |
-| 61 | 850 | Andrea Dañielle Ortiz |
-| 62 | 850 | comrade fish |
+| 61 | 850 | comrade fish |
+| 62 | 850 | Andrea Dañielle Ortiz |
 | 63 | 845 | Drew Magnus |
 | 64 | 829 | Sevens4L |
 | 65 | 818 | Patrick Luckenbill |
@@ -229,10 +229,10 @@
 | 221 | 322 | Letson Melissa |
 | 222 | 322 | Angela Renea Lester |
 | 223 | 320 | Danielle Little-Daugherty |
-| 224 | 319 | Frothy Pattern |
-| 225 | 319 | Jo Kerley |
-| 226 | 317 | Melissa Lemmon |
-| 227 | 317 | Sarah Roberts |
+| 224 | 319 | Jo Kerley |
+| 225 | 319 | Frothy Pattern |
+| 226 | 317 | Sarah Roberts |
+| 227 | 317 | Melissa Lemmon |
 | 228 | 316 | Reesey Enyart |
 | 229 | 316 | Sassy Builderline |
 | 230 | 315 | Mandyy Rae |

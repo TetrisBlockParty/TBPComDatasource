@@ -471,8 +471,8 @@
 | 463 | 242 | Fancy Curver |
 | 464 | 242 | Joy Petroski |
 | 465 | 241 | Skinny Baldez |
-| 466 | 240 | Trey Ward |
-| 467 | 240 | Rebel124 |
+| 466 | 240 | Rebel124 |
+| 467 | 240 | Trey Ward |
 | 468 | 240 | Bambi Jones |
 | 469 | 239 | Martin Bernier |
 | 470 | 238 | Jess Dearborn |
