@@ -118,8 +118,8 @@
 | 110 | 831 | Angeline Joseph |
 | 111 | 830 | Stephanie Allmon |
 | 112 | 826 | Shane Wilson Jr. |
-| 113 | 816 | Brenda Lee Vander Molen |
-| 114 | 816 | Jesse Olive |
+| 113 | 816 | Jesse Olive |
+| 114 | 816 | Brenda Lee Vander Molen |
 | 115 | 800 | Lauren Girouard |
 | 116 | 799 | Dolores Falco |
 | 117 | 769 | Kristie |
@@ -233,8 +233,8 @@
 | 225 | 430 | Jeni Dow |
 | 226 | 415 | ren |
 | 227 | 414 | Fran Lin |
-| 228 | 410 | Duane Bright |
-| 229 | 410 | Stephanie Simpson |
+| 228 | 410 | Stephanie Simpson |
+| 229 | 410 | Duane Bright |
 | 230 | 408 | Tiffany Ford |
 | 231 | 406 | Kristal C Lee |
 | 232 | 404 | Chasity |
@@ -394,8 +394,8 @@
 | 386 | 259 | Dana Winters |
 | 387 | 259 | Shania Vaine |
 | 388 | 258 | IamJust Neyamijah Washington Sr. |
-| 389 | 257 | Chris Wallace |
-| 390 | 257 | Saucy Buildout |
+| 389 | 257 | Saucy Buildout |
+| 390 | 257 | Chris Wallace |
 | 391 | 257 | Rachel Grant |
 | 392 | 255 | Sharisse Baltimore |
 | 393 | 255 | Mariah Williams |

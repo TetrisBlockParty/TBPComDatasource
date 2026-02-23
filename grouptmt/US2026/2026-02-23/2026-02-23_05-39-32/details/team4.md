@@ -88,16 +88,16 @@
 | 80 | 697 | Alyssa Papen |
 | 81 | 696 | Shane Kalamata Platoon |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Jonathan Kimbrough |
-| 84 | 684 | Kimyatta Cavin |
+| 83 | 684 | Kimyatta Cavin |
+| 84 | 684 | Jonathan Kimbrough |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
 | 88 | 664 | Valerie Roberts |
 | 89 | 659 | Jamie Gustafson |
 | 90 | 650 | KJ Pool |
-| 91 | 647 | Shauna Havard |
-| 92 | 647 | KM8 |
+| 91 | 647 | KM8 |
+| 92 | 647 | Shauna Havard |
 | 93 | 646 | Eric Mcgaughy |
 | 94 | 626 | Brittney Griggs |
 | 95 | 624 | Judy Cox |
@@ -143,8 +143,8 @@
 | 135 | 426 | 🥔🥔 Spudz |
 | 136 | 425 | Monica Daley |
 | 137 | 423 | Carrie Brian |
-| 138 | 421 | JIGsaw ~(•¿°)~ |
-| 139 | 421 | Kesha Brady |
+| 138 | 421 | Kesha Brady |
+| 139 | 421 | JIGsaw ~(•¿°)~ |
 | 140 | 419 | Klo |
 | 141 | 418 | Lush Linkfall |
 | 142 | 418 | Marie-Pier Desjardins |
@@ -197,12 +197,12 @@
 | 189 | 328 | scott |
 | 190 | 327 | J-Rizzle |
 | 191 | 324 | jim |
-| 192 | 321 | Meagan Nicole |
-| 193 | 321 | Bio Nelly |
+| 192 | 321 | Bio Nelly |
+| 193 | 321 | Meagan Nicole |
 | 194 | 320 | Lauren Scott |
 | 195 | 318 | Chris Hartig |
-| 196 | 316 | Autumn Kumzi |
-| 197 | 316 | Cursed Hag |
+| 196 | 316 | Cursed Hag |
+| 197 | 316 | Autumn Kumzi |
 | 198 | 311 | Mary Ann Pabukis |
 | 199 | 310 | Holly Jolly |
 | 200 | 307 | Michele Plunkett |
@@ -222,9 +222,9 @@
 | 214 | 290 | Rebecca Morris |
 | 215 | 290 | Jared Gutwein |
 | 216 | 288 | Leah Kutz Zirbel |
-| 217 | 288 | Zesty Twistbuilder |
+| 217 | 288 | Adam Stephanie Parker |
 | 218 | 288 | Brittney Orengo |
-| 219 | 288 | Adam Stephanie Parker |
+| 219 | 288 | Zesty Twistbuilder |
 | 220 | 286 | Sam Bishop |
 | 221 | 285 | 030Synner |
 | 222 | 284 | Mimi |
@@ -411,8 +411,8 @@
 | 403 | 169 | Jessica Atkinson |
 | 404 | 168 | Ruby Khalisadar |
 | 405 | 167 | Carla Harris |
-| 406 | 167 | Snippy Clearer |
-| 407 | 167 | Tyler Bechtel |
+| 406 | 167 | Tyler Bechtel |
+| 407 | 167 | Snippy Clearer |
 | 408 | 166 | Gracie Ann Taylor |
 | 409 | 166 | Reds Bella |
 | 410 | 165 | Joseph Gray |

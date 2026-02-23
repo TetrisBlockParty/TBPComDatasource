@@ -151,8 +151,8 @@
 | 143 | 1639 | Jessie McDougald |
 | 144 | 1638 | Speedy Spinblock |
 | 145 | 1629 | Mari Ac |
-| 146 | 1623 | Janel Turley-Garner |
-| 147 | 1623 | Rebecca Doughman |
+| 146 | 1623 | Rebecca Doughman |
+| 147 | 1623 | Janel Turley-Garner |
 | 148 | 1605 | Christi Hulet |
 | 149 | 1602 | blackq |
 | 150 | 1601 | Ray Ray Prado |
@@ -336,8 +336,8 @@
 | 328 | 903 | Giggy Blocker |
 | 329 | 902 | William Hunt |
 | 330 | 901 | Kevin Sees |
-| 331 | 899 | Patrick Bartlett |
-| 332 | 899 | Chevy |
+| 331 | 899 | Chevy |
+| 332 | 899 | Patrick Bartlett |
 | 333 | 898 | Jamie Otero |
 | 334 | 895 | Donna Colby |
 | 335 | 890 | Steve Man |
@@ -621,8 +621,8 @@
 | 613 | 544 | Deidre Shaffer |
 | 614 | 542 | Jarboe |
 | 615 | 540 | Lee Harper |
-| 616 | 538 | Belle Mari |
-| 617 | 538 | Jess Morrison |
+| 616 | 538 | Jess Morrison |
+| 617 | 538 | Belle Mari |
 | 618 | 538 | Stacey Tranchida |
 | 619 | 537 | Jessica Lamb |
 | 620 | 537 | Kori Beth Babb |
