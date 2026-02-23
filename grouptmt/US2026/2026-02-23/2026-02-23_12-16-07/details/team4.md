@@ -393,8 +393,8 @@
 | 385 | 191 | Earnest Thompson |
 | 386 | 191 | Norman Klick |
 | 387 | 190 | wombat |
-| 388 | 189 | Berklie Apedaile |
-| 389 | 189 | Duck |
+| 388 | 189 | Duck |
+| 389 | 189 | Berklie Apedaile |
 | 390 | 189 | Cool Towerbuilder |
 | 391 | 188 | Sharyn Lemire |
 | 392 | 188 | Frilly Blocky |
@@ -636,8 +636,8 @@
 | 628 | 114 | Rosemary Foster |
 | 629 | 113 | Abigail Murphy |
 | 630 | 113 | Serena Butter |
-| 631 | 113 | Lilya Troutman |
-| 632 | 113 | Hog Crankin |
+| 631 | 113 | Hog Crankin |
+| 632 | 113 | Lilya Troutman |
 | 633 | 112 | Ninaforever |
 | 634 | 112 | Jazzy Slamdrop |
 | 635 | 112 | RogueRebel |

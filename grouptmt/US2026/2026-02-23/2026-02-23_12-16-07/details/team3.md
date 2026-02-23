@@ -27,8 +27,8 @@
 | 19 | 2840 | Chummy Shatterer |
 | 20 | 2697 | River |
 | 21 | 2387 | Susan Valentino |
-| 22 | 2353 | Laura Melton |
-| 23 | 2353 | Tetris Master |
+| 22 | 2353 | Tetris Master |
+| 23 | 2353 | Laura Melton |
 | 24 | 2319 | mjl574 |
 | 25 | 2311 | Brandon Green |
 | 26 | 2271 | Jeana Gilbert |
@@ -179,16 +179,16 @@
 | 171 | 597 | Diana Ibarra |
 | 172 | 591 | Michael Nowogorski |
 | 173 | 587 | Louise Stacy Sisson |
-| 174 | 585 | Domo Washington |
-| 175 | 585 | Happy Tetriblast |
+| 174 | 585 | Happy Tetriblast |
+| 175 | 585 | Domo Washington |
 | 176 | 583 | Tasha Gillespie |
 | 177 | 582 | Natasha Jones |
 | 178 | 574 | Morgan Martinez |
 | 179 | 572 | CeceGeGe |
 | 180 | 568 | Rachael McClain Owens |
 | 181 | 566 | LaTanya GeminiondaRise Johnson |
-| 182 | 564 | Christine Trester |
-| 183 | 564 | Poppy Splitter |
+| 182 | 564 | Poppy Splitter |
+| 183 | 564 | Christine Trester |
 | 184 | 563 | Jim Mathews |
 | 185 | 562 | Dave Herzog |
 | 186 | 559 | Patti Skiles |
@@ -249,21 +249,21 @@
 | 241 | 431 | Wendy Dearden |
 | 242 | 430 | Jeni Dow |
 | 243 | 429 | Carrie Huskey |
-| 244 | 428 | Sleepy |
-| 245 | 428 | Randy Clevenger |
+| 244 | 428 | Randy Clevenger |
+| 245 | 428 | Sleepy |
 | 246 | 421 | Chummy Caster |
-| 247 | 419 | Kristin Delibac Corrigan |
-| 248 | 419 | Marci Mize Fandrich |
-| 249 | 417 | Nicole Flippo |
-| 250 | 417 | Giddy Twistbuilder |
+| 247 | 419 | Marci Mize Fandrich |
+| 248 | 419 | Kristin Delibac Corrigan |
+| 249 | 417 | Giddy Twistbuilder |
+| 250 | 417 | Nicole Flippo |
 | 251 | 414 | RickyG |
 | 252 | 414 | Fran Lin |
 | 253 | 413 | Micayah Stevens |
 | 254 | 412 | Jojo M |
 | 255 | 411 | Megan Rathmanner |
-| 256 | 410 | Sabrina Hardrick |
-| 257 | 410 | Stephanie Simpson |
-| 258 | 410 | Duane Bright |
+| 256 | 410 | Duane Bright |
+| 257 | 410 | Sabrina Hardrick |
+| 258 | 410 | Stephanie Simpson |
 | 259 | 408 | Tiffany Ford |
 | 260 | 406 | Kristal C Lee |
 | 261 | 405 | Steffi Chris Dacones |
@@ -295,8 +295,8 @@
 | 287 | 369 | Jennifer Alvey |
 | 288 | 369 | Philip Rock |
 | 289 | 369 | Amber Glover |
-| 290 | 368 | Stephanie Woods |
-| 291 | 368 | Sheila M Frazier |
+| 290 | 368 | Sheila M Frazier |
+| 291 | 368 | Stephanie Woods |
 | 292 | 366 | Gumbo |
 | 293 | 366 | Betty Bóò |
 | 294 | 362 | Brandon Givens |

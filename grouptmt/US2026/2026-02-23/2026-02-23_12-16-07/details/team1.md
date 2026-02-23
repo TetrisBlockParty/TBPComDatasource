@@ -129,8 +129,8 @@
 | 121 | 467 | Candy Jones |
 | 122 | 463 | Lexuriuos Lifestlye |
 | 123 | 462 | Luciano Moreira |
-| 124 | 458 | Evan Richmond |
-| 125 | 458 | Goose egg |
+| 124 | 458 | Goose egg |
+| 125 | 458 | Evan Richmond |
 | 126 | 454 | Desiree Deschaine Havee |
 | 127 | 453 | Brandi Huntington |
 | 128 | 452 | Hyper |
@@ -147,8 +147,8 @@
 | 139 | 429 | Kristi Johnson |
 | 140 | 428 | Ly Phethmany |
 | 141 | 426 | Maria C. Hernandez |
-| 142 | 425 | Tyler Werts |
-| 143 | 425 | Dandy Basegrid |
+| 142 | 425 | Dandy Basegrid |
+| 143 | 425 | Tyler Werts |
 | 144 | 423 | ALFD |
 | 145 | 422 | Constance Risner |
 | 146 | 417 | Phu ckalldems |
@@ -180,8 +180,8 @@
 | 172 | 375 | John J. Cronin |
 | 173 | 375 | Tanya Carpenter-Reynolds |
 | 174 | 374 | Howdi Duty |
-| 175 | 371 | Jason Savage |
-| 176 | 371 | Basment Living |
+| 175 | 371 | Basment Living |
+| 176 | 371 | Jason Savage |
 | 177 | 369 | Christy Jones |
 | 178 | 368 | Amanda Johnson Huffman |
 | 179 | 367 | Sharon Reynolds |
@@ -245,8 +245,8 @@
 | 237 | 301 | John Kim |
 | 238 | 301 | Damon J. Martin |
 | 239 | 300 | Sleepysloath5745 |
-| 240 | 298 | Billie Ann Eason |
-| 241 | 298 | Sweetts |
+| 240 | 298 | Sweetts |
+| 241 | 298 | Billie Ann Eason |
 | 242 | 294 | Chuck Gannon |
 | 243 | 291 | Sassy Builderline |
 | 244 | 291 | Brave Wrecker |
