@@ -74,8 +74,8 @@
 | 66 | 749 | Dustee Craddock-Harrison |
 | 67 | 748 | loulou |
 | 68 | 737 | Avy Absol |
-| 69 | 736 | Goatimus Lombardi |
-| 70 | 736 | Carolyn Wallace |
+| 69 | 736 | Carolyn Wallace |
+| 70 | 736 | Goatimus Lombardi |
 | 71 | 728 | Julian Garcia |
 | 72 | 722 | Denise Carlson |
 | 73 | 704 | Crystal Carroll |
@@ -228,8 +228,8 @@
 | 220 | 267 | Holly |
 | 221 | 266 | Mr. Party |
 | 222 | 265 | Sarah Neathery |
-| 223 | 264 | scott |
-| 224 | 264 | Carlos Ramirez |
+| 223 | 264 | Carlos Ramirez |
+| 224 | 264 | scott |
 | 225 | 261 | Dihcheese444 |
 | 226 | 259 | Montiette Mcglown |
 | 227 | 259 | Cheery Risebuilder |
@@ -248,8 +248,8 @@
 | 240 | 245 | Autum Leigh |
 | 241 | 243 | Nick Gray |
 | 242 | 241 | Allen Lloyd |
-| 243 | 240 | Kim Hunt |
-| 244 | 240 | Perky Patternblock |
+| 243 | 240 | Perky Patternblock |
+| 244 | 240 | Kim Hunt |
 | 245 | 238 | Chaz |
 | 246 | 237 | 030Synner |
 | 247 | 237 | Stella |
@@ -284,9 +284,9 @@
 | 276 | 216 | mike |
 | 277 | 216 | ZeeZee |
 | 278 | 215 | Ziggy |
-| 279 | 214 | Chantilly Laace |
-| 280 | 214 | Patron Anderson |
-| 281 | 214 | Stacey Stano |
+| 279 | 214 | Stacey Stano |
+| 280 | 214 | Chantilly Laace |
+| 281 | 214 | Patron Anderson |
 | 282 | 213 | Angela Geist Jusinski |
 | 283 | 212 | Orchislactea |
 | 284 | 212 | Zany Shatterer |
@@ -296,8 +296,8 @@
 | 288 | 210 | Ultramarine |
 | 289 | 209 | Snippy Puzzle |
 | 290 | 208 | Chris Alexinas |
-| 291 | 205 | James Hurley Jr. |
-| 292 | 205 | KayM |
+| 291 | 205 | KayM |
+| 292 | 205 | James Hurley Jr. |
 | 293 | 203 | Katherine Crane |
 | 294 | 202 | Angelito |
 | 295 | 202 | Shukee Lo |
@@ -533,7 +533,7 @@
 | 525 | 118 | Mackenzie Forrester |
 | 526 | 118 | Perky Piecegrid |
 | 527 | 118 | Kametsunoyaiba |
-| 528 | 117 | Kelly Duncan |
+| 528 | 117 | David V. Bowers |
 | 529 | 117 | Jeff Roberts |
 | 530 | 117 | Kelly Duncan |
 | 531 | 115 | Jayk |

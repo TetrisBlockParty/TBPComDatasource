@@ -157,8 +157,8 @@
 | 149 | 582 | Natasha Jones |
 | 150 | 579 | Tasha Gillespie |
 | 151 | 574 | Morgan Martinez |
-| 152 | 572 | Domo Washington |
-| 153 | 572 | CeceGeGe |
+| 152 | 572 | CeceGeGe |
+| 153 | 572 | Domo Washington |
 | 154 | 571 | Nicole Myers |
 | 155 | 568 | Rachael McClain Owens |
 | 156 | 562 | Dave Herzog |
@@ -205,9 +205,9 @@
 | 197 | 452 | Jacqueline Rodriguez |
 | 198 | 451 | Sarah Cowan Burgos |
 | 199 | 440 | Tom Nault |
-| 200 | 432 | Jenny Hrndz |
-| 201 | 432 | Christine Trester |
-| 202 | 432 | Luciana Braganca Vieira |
+| 200 | 432 | Luciana Braganca Vieira |
+| 201 | 432 | Jenny Hrndz |
+| 202 | 432 | Christine Trester |
 | 203 | 431 | Wendy Dearden |
 | 204 | 430 | Fallorina Susana |
 | 205 | 430 | Jeni Dow |
@@ -255,8 +255,8 @@
 | 247 | 360 | Sheila M Frazier |
 | 248 | 357 | Ammmmmmy |
 | 249 | 357 | Stephanie Burtin |
-| 250 | 352 | Samantha Lynn |
-| 251 | 352 | Christian Werndl |
+| 250 | 352 | Christian Werndl |
+| 251 | 352 | Samantha Lynn |
 | 252 | 351 | Eon Harris |
 | 253 | 349 | Amanda J. Mcneil-Anderson |
 | 254 | 347 | Rania Zaqout |

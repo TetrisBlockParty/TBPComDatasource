@@ -302,8 +302,8 @@
 | 294 | 907 | Gene Mills |
 | 295 | 906 | Deborah Miller |
 | 296 | 905 | Osun Anuket Esu |
-| 297 | 904 | John Bednarik |
-| 298 | 904 | Jennifer Aiken |
+| 297 | 904 | Jennifer Aiken |
+| 298 | 904 | John Bednarik |
 | 299 | 904 | Ashlen Dorrell |
 | 300 | 902 | William Hunt |
 | 301 | 901 | Kevin Sees |
