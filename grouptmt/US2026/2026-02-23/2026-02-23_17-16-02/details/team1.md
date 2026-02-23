@@ -260,10 +260,10 @@
 | 252 | 328 | Daring Fitclear |
 | 253 | 325 | GringaLinga |
 | 254 | 325 | Chantelle Ceno |
-| 255 | 324 | Rat666 |
-| 256 | 324 | Νεφ Όνυξ |
-| 257 | 322 | Letson Melissa |
-| 258 | 322 | Sarah Roberts |
+| 255 | 324 | Νεφ Όνυξ |
+| 256 | 324 | Rat666 |
+| 257 | 322 | Sarah Roberts |
+| 258 | 322 | Letson Melissa |
 | 259 | 319 | Wayne Saunders |
 | 260 | 318 | Sylvia Vasquez |
 | 261 | 317 | Bloknboy |
@@ -390,8 +390,8 @@
 | 382 | 229 | Ed Franz Jr |
 | 383 | 229 | Bob |
 | 384 | 227 | Happy Snapbuild |
-| 385 | 226 | Snappy Brickbuilder |
-| 386 | 226 | Alex Nicol |
+| 385 | 226 | Alex Nicol |
+| 386 | 226 | Snappy Brickbuilder |
 | 387 | 225 | Mel Hogan |
 | 388 | 225 | Angela Spann |
 | 389 | 224 | Danielle Mae |
@@ -462,8 +462,8 @@
 | 454 | 196 | Steph |
 | 455 | 195 | Herm Junior |
 | 456 | 194 | Nicole Meredith Flynn |
-| 457 | 193 | Lachelle Dillon |
-| 458 | 193 | Giggly Rollfit |
+| 457 | 193 | Giggly Rollfit |
+| 458 | 193 | Lachelle Dillon |
 | 459 | 192 | Ramona Shaver |
 | 460 | 191 | Vivienne Carter |
 | 461 | 191 | Dandy Towerbuilder |
