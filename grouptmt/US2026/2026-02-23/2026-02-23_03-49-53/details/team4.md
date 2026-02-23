@@ -57,8 +57,8 @@
 | 49 | 863 | Pee |
 | 50 | 855 | Marvin Lou Martin |
 | 51 | 853 | TeeJ |
-| 52 | 846 | Christine Marie |
-| 53 | 846 | Lucille Truesdale |
+| 52 | 846 | Lucille Truesdale |
+| 53 | 846 | Christine Marie |
 | 54 | 845 | LisaJo Picken Buchanan |
 | 55 | 843 | Shelly Chandler |
 | 56 | 841 | Anthony Bryan Riva |
@@ -71,8 +71,8 @@
 | 63 | 772 | Ashley Ingram |
 | 64 | 769 | Rachel Anne |
 | 65 | 767 | Shannon Ferrari |
-| 66 | 766 | Robin Watters |
-| 67 | 766 | Edward White |
+| 66 | 766 | Edward White |
+| 67 | 766 | Robin Watters |
 | 68 | 761 | Robin Getchel |
 | 69 | 752 | loulou |
 | 70 | 749 | Dustee Craddock-Harrison |
@@ -133,13 +133,13 @@
 | 125 | 452 | Jolly Dashfit |
 | 126 | 451 | Peachy Fall |
 | 127 | 448 | Kristin Manee |
-| 128 | 435 | Kristina Black |
-| 129 | 435 | Leslie Thomas |
+| 128 | 435 | Leslie Thomas |
+| 129 | 435 | Kristina Black |
 | 130 | 431 | Courtney Cicoria |
 | 131 | 425 | Monica Daley |
 | 132 | 423 | Austin Owens |
-| 133 | 421 | JIGsaw ~(•¿°)~ |
-| 134 | 421 | Kesha Brady |
+| 133 | 421 | Kesha Brady |
+| 134 | 421 | JIGsaw ~(•¿°)~ |
 | 135 | 419 | Klo |
 | 136 | 418 | Marie-Pier Desjardins |
 | 137 | 418 | Lush Linkfall |

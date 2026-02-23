@@ -173,10 +173,10 @@
 | 165 | 341 | Nick R Montague |
 | 166 | 339 | Nicole Roseberry Weber |
 | 167 | 338 | Jennifer Hardman |
-| 168 | 337 | Constance Risner |
-| 169 | 337 | Jamise Brown |
-| 170 | 336 | Erin Rosberg |
-| 171 | 336 | Dizzy Party |
+| 168 | 337 | Jamise Brown |
+| 169 | 337 | Constance Risner |
+| 170 | 336 | Dizzy Party |
+| 171 | 336 | Erin Rosberg |
 | 172 | 333 | Gracie |
 | 173 | 332 | Lehrin Maria |
 | 174 | 330 | Ananda Mendez |
@@ -189,8 +189,8 @@
 | 181 | 317 | Sarah Roberts |
 | 182 | 316 | Reesey Enyart |
 | 183 | 315 | Danielle Little-Daugherty |
-| 184 | 312 | Kimberly Garcia |
-| 185 | 312 | Jessi Sauer |
+| 184 | 312 | Jessi Sauer |
+| 185 | 312 | Kimberly Garcia |
 | 186 | 312 | Mike Ames |
 | 187 | 312 | Margo Wagner |
 | 188 | 311 | Letson Melissa |

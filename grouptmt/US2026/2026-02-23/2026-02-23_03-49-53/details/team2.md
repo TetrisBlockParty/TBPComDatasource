@@ -467,8 +467,8 @@
 | 459 | 680 | blume |
 | 460 | 679 | Kassandra Hunt |
 | 461 | 678 | AgileDragon |
-| 462 | 677 | Ellie Jonas |
-| 463 | 677 | Amanda Woodruff |
+| 462 | 677 | Amanda Woodruff |
+| 463 | 677 | Ellie Jonas |
 | 464 | 677 | Kayleigh Wisse |
 | 465 | 676 | Roseanna Peloso |
 | 466 | 676 | Brandon Armstrong |
@@ -734,8 +734,8 @@
 | 726 | 452 | Ashley Taylor |
 | 727 | 452 | Cleo Sims |
 | 728 | 450 | sup |
-| 729 | 449 | Heather Sawtelle-Mckenzie |
-| 730 | 449 | Julie Hamilton |
+| 729 | 449 | Julie Hamilton |
+| 730 | 449 | Heather Sawtelle-Mckenzie |
 | 731 | 449 | Kristi Biddinger |
 | 732 | 448 | Ha Ab |
 | 733 | 448 | Anastacio Hernandez |

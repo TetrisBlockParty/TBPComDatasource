@@ -117,8 +117,8 @@
 | 109 | 831 | Angeline Joseph |
 | 110 | 830 | Stephanie Allmon |
 | 111 | 826 | Shane Wilson Jr. |
-| 112 | 816 | Brenda Lee Vander Molen |
-| 113 | 816 | Jesse Olive |
+| 112 | 816 | Jesse Olive |
+| 113 | 816 | Brenda Lee Vander Molen |
 | 114 | 800 | Lauren Girouard |
 | 115 | 799 | Dolores Falco |
 | 116 | 762 | Speedy Bridger |
@@ -126,8 +126,8 @@
 | 118 | 752 | Raya |
 | 119 | 748 | Adrian Marcel Pate |
 | 120 | 745 | JerseyJess |
-| 121 | 744 | Leah Barnett |
-| 122 | 744 | Fancy Cascader |
+| 121 | 744 | Fancy Cascader |
+| 122 | 744 | Leah Barnett |
 | 123 | 742 | Groovy Catcher |
 | 124 | 736 | Katrina Schroeder |
 | 125 | 733 | mzcatzy |
@@ -208,8 +208,8 @@
 | 200 | 465 | Annie Déè |
 | 201 | 461 | Shunta Jacobs |
 | 202 | 458 | Danielle Rhoades |
-| 203 | 457 | Jim Mathews |
-| 204 | 457 | Edwin Calvillo Jr. |
+| 203 | 457 | Edwin Calvillo Jr. |
+| 204 | 457 | Jim Mathews |
 | 205 | 453 | Staci George Fitzsimmons |
 | 206 | 452 | Jacqueline Rodriguez |
 | 207 | 452 | Tom Nault |
@@ -226,9 +226,9 @@
 | 218 | 430 | Jeni Dow |
 | 219 | 415 | ren |
 | 220 | 414 | Fran Lin |
-| 221 | 410 | Duane Bright |
-| 222 | 410 | Mcathen |
-| 223 | 410 | Stephanie Simpson |
+| 221 | 410 | Stephanie Simpson |
+| 222 | 410 | Duane Bright |
+| 223 | 410 | Mcathen |
 | 224 | 408 | Tiffany Ford |
 | 225 | 407 | Felicia Rocha |
 | 226 | 406 | Heather Green |
@@ -533,8 +533,8 @@
 | 525 | 187 | Sabrina Mansfield |
 | 526 | 186 | Jack Bo |
 | 527 | 186 | Funky Jumper |
-| 528 | 185 | Morgan Cudo |
-| 529 | 185 | Silver Marchán |
+| 528 | 185 | Silver Marchán |
+| 529 | 185 | Morgan Cudo |
 | 530 | 185 | Breezy Roll |
 | 531 | 184 | Shanon R Jackson |
 | 532 | 184 | Christian Luna |
@@ -615,8 +615,8 @@
 | 607 | 165 | Emberblaze |
 | 608 | 164 | Mindy Phelps |
 | 609 | 164 | TazB |
-| 610 | 164 | Lesa Bartlett |
-| 611 | 164 | Tenisha Semidey |
+| 610 | 164 | Tenisha Semidey |
+| 611 | 164 | Lesa Bartlett |
 | 612 | 163 | Crystal Johnson |
 | 613 | 163 | Pizzi |
 | 614 | 163 | Chummy Rumbler |
