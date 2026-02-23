@@ -82,8 +82,8 @@
 | 74 | 862 | Carolyn Wallace |
 | 75 | 855 | Peachy Fall |
 | 76 | 850 | Lucille Truesdale |
-| 77 | 846 | Christine Marie |
-| 78 | 846 | Amelpss |
+| 77 | 846 | Amelpss |
+| 78 | 846 | Christine Marie |
 | 79 | 841 | Shauna Havard |
 | 80 | 837 | Lisa Davis |
 | 81 | 834 | quicksand420 |

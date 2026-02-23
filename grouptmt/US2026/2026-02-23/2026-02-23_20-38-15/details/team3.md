@@ -331,8 +331,8 @@
 | 323 | 396 | Cheryl Hinch Tenbrook |
 | 324 | 396 | Tia |
 | 325 | 395 | Velma Mull |
-| 326 | 387 | Andrew Thorson |
-| 327 | 387 | Gideon Walker |
+| 326 | 387 | Gideon Walker |
+| 327 | 387 | Andrew Thorson |
 | 328 | 386 | Philip Rock |
 | 329 | 386 | Darlene McMillan |
 | 330 | 386 | Kelly Wolf |

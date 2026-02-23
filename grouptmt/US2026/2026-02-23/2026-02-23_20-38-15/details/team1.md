@@ -263,8 +263,8 @@
 | 255 | 340 | Robert |
 | 256 | 340 | Danielle Little-Daugherty |
 | 257 | 338 | Layzietyme |
-| 258 | 337 | Jamise Brown |
-| 259 | 337 | Lindsay Glover |
+| 258 | 337 | Lindsay Glover |
+| 259 | 337 | Jamise Brown |
 | 260 | 336 | Adele Rahman |
 | 261 | 335 | Eric DeSimone |
 | 262 | 334 | Colleen Pinette |
@@ -310,8 +310,8 @@
 | 302 | 301 | Glitzy Curvebuilder |
 | 303 | 300 | Giggly Builderline |
 | 304 | 299 | LD1 |
-| 305 | 298 | Kimberly Davis |
-| 306 | 298 | Sweetts |
+| 305 | 298 | Sweetts |
+| 306 | 298 | Kimberly Davis |
 | 307 | 297 | Diane Byrd |
 | 308 | 294 | Наталья Солоид |
 | 309 | 294 | Chummy Rollblock |
@@ -321,14 +321,14 @@
 | 313 | 291 | Michael Espinosa Ulibarri Jr. |
 | 314 | 291 | Sir-Franchise Drake |
 | 315 | 290 | Tavia |
-| 316 | 289 | Alenoush Karimian |
-| 317 | 289 | Bob |
+| 316 | 289 | Bob |
+| 317 | 289 | Alenoush Karimian |
 | 318 | 288 | Bird Person |
 | 319 | 287 | Amh |
-| 320 | 287 | Chris65 |
-| 321 | 287 | Shanae Grant |
-| 322 | 286 | Sarahdactyl |
-| 323 | 286 | Marci Sanders |
+| 320 | 287 | Shanae Grant |
+| 321 | 287 | Chris65 |
+| 322 | 286 | Marci Sanders |
+| 323 | 286 | Sarahdactyl |
 | 324 | 284 | Mark Smith |
 | 325 | 284 | Michael |
 | 326 | 283 | Franswa |

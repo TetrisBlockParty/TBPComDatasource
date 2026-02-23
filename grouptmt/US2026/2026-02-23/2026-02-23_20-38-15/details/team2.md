@@ -383,8 +383,8 @@
 | 375 | 982 | Crystie Hicks |
 | 376 | 978 | Barry Britt |
 | 377 | 976 | Sam Joe |
-| 378 | 975 | Hyper Cluster |
-| 379 | 975 | Mandi Douglas Hilt |
+| 378 | 975 | Mandi Douglas Hilt |
+| 379 | 975 | Hyper Cluster |
 | 380 | 974 | Boldy Cascadepiece |
 | 381 | 971 | Jojo Momma |
 | 382 | 971 | Tiara Elizabeth Baker |
@@ -528,8 +528,8 @@
 | 520 | 773 | Layla LS |
 | 521 | 771 | Darla Silva |
 | 522 | 771 | Stephanie Lumanlan |
-| 523 | 768 | Joshua Self |
-| 524 | 768 | Casper The Chonk |
+| 523 | 768 | Casper The Chonk |
+| 524 | 768 | Joshua Self |
 | 525 | 768 | Alexandra Weir |
 | 526 | 767 | Ashley Lopez |
 | 527 | 766 | Angela Cagle Silmon |
@@ -630,8 +630,8 @@
 | 622 | 665 | Zak Dunn |
 | 623 | 663 | Snazzy Basepiece |
 | 624 | 662 | Jennifer Monroe Kelly |
-| 625 | 662 | Andre Love |
-| 626 | 662 | Samie Dayle |
+| 625 | 662 | Samie Dayle |
+| 626 | 662 | Andre Love |
 | 627 | 660 | Santana Miyagi |
 | 628 | 660 | Nadia Batista Garcia |
 | 629 | 659 | Anthony Huebel |
@@ -697,8 +697,8 @@
 | 689 | 617 | Biggest thing |
 | 690 | 617 | Jason H Baker |
 | 691 | 617 | Kacee Conrad Bock |
-| 692 | 616 | Polly Pritchard Chesler |
-| 693 | 616 | Jennifer Coe |
+| 692 | 616 | Jennifer Coe |
+| 693 | 616 | Polly Pritchard Chesler |
 | 694 | 615 | Julio A Laracuente |
 | 695 | 613 | Audrey Jones |
 | 696 | 613 | Harrison Littrell |
@@ -714,8 +714,8 @@
 | 706 | 603 | Frank Castle |
 | 707 | 602 | Jedi |
 | 708 | 602 | AsnPryBoy83 |
-| 709 | 601 | Daniel Amos |
-| 710 | 601 | Jessica Lamb |
+| 709 | 601 | Jessica Lamb |
+| 710 | 601 | Daniel Amos |
 | 711 | 598 | Giggly Snap |
 | 712 | 597 | Michelle Sager |
 | 713 | 597 | TJ Nash |
@@ -763,9 +763,9 @@
 | 755 | 567 | Ryan Meilleur |
 | 756 | 567 | Tracy Cowley |
 | 757 | 567 | Lathasa Newkirk |
-| 758 | 566 | Lively Piecebuilder |
-| 759 | 566 | Shindee |
-| 760 | 566 | Megan Kitchner |
+| 758 | 566 | Shindee |
+| 759 | 566 | Megan Kitchner |
+| 760 | 566 | Lively Piecebuilder |
 | 761 | 565 | Alice Ball |
 | 762 | 564 | Rackemwillie34 |
 | 763 | 564 | Angel Hunnewell |
