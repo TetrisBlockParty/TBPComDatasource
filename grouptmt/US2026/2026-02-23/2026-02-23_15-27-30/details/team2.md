@@ -186,8 +186,8 @@
 | 178 | 1580 | Sally Dennis |
 | 179 | 1567 | Juliana Marques Do Nascimento Gordy |
 | 180 | 1564 | Amy Sayers |
-| 181 | 1558 | Crystal Slaughter |
-| 182 | 1558 | Tim Dyer |
+| 181 | 1558 | Tim Dyer |
+| 182 | 1558 | Crystal Slaughter |
 | 183 | 1555 | blarg |
 | 184 | 1551 | Debra Williams |
 | 185 | 1549 | Desiree Harris Rosch |

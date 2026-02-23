@@ -84,8 +84,8 @@
 | 76 | 758 | Ash Galvan |
 | 77 | 750 | Cartier |
 | 78 | 740 | Lori Sanders- Davis |
-| 79 | 713 | Snappy Swiper |
-| 80 | 713 | Robert Benito |
+| 79 | 713 | Robert Benito |
+| 80 | 713 | Snappy Swiper |
 | 81 | 710 | Jennifer ManWarren |
 | 82 | 706 | Plucky Fallzone |
 | 83 | 704 | Karin Gillen |
@@ -175,8 +175,8 @@
 | 167 | 403 | Tana |
 | 168 | 402 | Chris K |
 | 169 | 400 | Chelsea Dahlquist |
-| 170 | 399 | phrmblk24 |
-| 171 | 399 | Nery Martinez |
+| 170 | 399 | Nery Martinez |
+| 171 | 399 | phrmblk24 |
 | 172 | 397 | Erin Rosberg |
 | 173 | 394 | Lori Bales |
 | 174 | 393 | Kimmie Kimms |
@@ -420,7 +420,7 @@
 | 412 | 207 | Leslie Bush Yarbrough |
 | 413 | 205 | build master |
 | 414 | 205 | Elizabeth Kubli |
-| 415 | 205 | build master |
+| 415 | 205 | Aaron Green |
 | 416 | 204 | Cranky Pattern |
 | 417 | 203 | ash |
 | 418 | 203 | Amie Fields |

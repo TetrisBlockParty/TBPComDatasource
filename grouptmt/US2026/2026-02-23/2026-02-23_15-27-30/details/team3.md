@@ -185,8 +185,8 @@
 | 177 | 598 | Makelini Mausia |
 | 178 | 597 | Diana Ibarra |
 | 179 | 597 | CeceGeGe |
-| 180 | 591 | Michael Nowogorski |
-| 181 | 591 | Kaycee Kay |
+| 180 | 591 | Kaycee Kay |
+| 181 | 591 | Michael Nowogorski |
 | 182 | 589 | Tasha Gillespie |
 | 183 | 587 | Louise Stacy Sisson |
 | 184 | 585 | Happy Tetriblast |
@@ -206,15 +206,15 @@
 | 198 | 549 | Sarah Cowan Burgos |
 | 199 | 548 | Danielle Balcom |
 | 200 | 547 | Staci George Fitzsimmons |
-| 201 | 546 | Mykal Burton |
-| 202 | 546 | Cynthia Castros-Hampton |
+| 201 | 546 | Cynthia Castros-Hampton |
+| 202 | 546 | Mykal Burton |
 | 203 | 543 | Silly Twist |
 | 204 | 540 | Shawn Miller |
 | 205 | 539 | Betty Bóò |
 | 206 | 537 | Loopy Fallmatch |
 | 207 | 533 | Rania Zaqout |
-| 208 | 531 | Trisha Balmer |
-| 209 | 531 | Aerian Preston |
+| 208 | 531 | Aerian Preston |
+| 209 | 531 | Trisha Balmer |
 | 210 | 531 | Chauntee Alfrey-Cardinale |
 | 211 | 530 | Stephanie Blkpep Davidson |
 | 212 | 527 | Tessina Dewey-Mancino |
@@ -435,8 +435,8 @@
 | 427 | 278 | IamJust Neyamijah Washington Sr. |
 | 428 | 277 | Joe-Maggie Mathews |
 | 429 | 277 | Christine Foley |
-| 430 | 276 | Mikki Torres |
-| 431 | 276 | Crimson |
+| 430 | 276 | Crimson |
+| 431 | 276 | Mikki Torres |
 | 432 | 276 | Karent524 |
 | 433 | 275 | Cassandra Bryant |
 | 434 | 274 | Fancy Curver |

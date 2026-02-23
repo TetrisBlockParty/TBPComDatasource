@@ -49,8 +49,8 @@
 | 41 | 1156 | Goatimus Lombardi |
 | 42 | 1124 | Jae Job |
 | 43 | 1116 | Koshin Abdirahman |
-| 44 | 1085 | Kimyatta Cavin |
-| 45 | 1085 | Ashley Ingram |
+| 44 | 1085 | Ashley Ingram |
+| 45 | 1085 | Kimyatta Cavin |
 | 46 | 1082 | Dion Crommarty |
 | 47 | 1082 | Dawn Alexander |
 | 48 | 1071 | Cherrish Duren |
@@ -78,8 +78,8 @@
 | 70 | 807 | Amelpss |
 | 71 | 802 | Crystal Carroll |
 | 72 | 788 | Chilly Line |
-| 73 | 787 | loulou |
-| 74 | 787 | Edward White |
+| 73 | 787 | Edward White |
+| 74 | 787 | loulou |
 | 75 | 769 | Alyssa Papen |
 | 76 | 768 | Judy Cox |
 | 77 | 767 | Shannon Ferrari |
@@ -108,8 +108,8 @@
 | 100 | 664 | Nugget |
 | 101 | 659 | Jamie Gustafson |
 | 102 | 650 | KJ Pool |
-| 103 | 647 | Shauna Havard |
-| 104 | 647 | KM8 |
+| 103 | 647 | KM8 |
+| 104 | 647 | Shauna Havard |
 | 105 | 639 | Chris Hartig |
 | 106 | 637 | Lori Walker |
 | 107 | 635 | Adawna Swires |
@@ -203,8 +203,8 @@
 | 195 | 382 | Sharyn Lemire |
 | 196 | 376 | Zesty Twistbuilder |
 | 197 | 372 | George Nutt |
-| 198 | 368 | Silly Zonebuilder |
-| 199 | 368 | Holly Jolly |
+| 198 | 368 | Holly Jolly |
+| 199 | 368 | Silly Zonebuilder |
 | 200 | 367 | Sue Joyce Staats |
 | 201 | 365 | Jeff Brian Gates |
 | 202 | 363 | Cindy Looper |
@@ -217,8 +217,8 @@
 | 209 | 354 | Kris Bartlett |
 | 210 | 352 | April Rondinone |
 | 211 | 348 | David Lay |
-| 212 | 347 | Daria Rycewicz |
-| 213 | 347 | Bio Nelly |
+| 212 | 347 | Bio Nelly |
+| 213 | 347 | Daria Rycewicz |
 | 214 | 346 | shark tato |
 | 215 | 343 | HastyGrabber |
 | 216 | 341 | scott |
