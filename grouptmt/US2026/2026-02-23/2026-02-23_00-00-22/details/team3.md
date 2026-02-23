@@ -80,8 +80,8 @@
 | 72 | 970 | Rosalie Call Kehlenbeck |
 | 73 | 964 | Jennifer |
 | 74 | 945 | Christian A. Pollard |
-| 75 | 926 | Angela M. Fletcher |
-| 76 | 926 | Judi Dobson |
+| 75 | 926 | Judi Dobson |
+| 76 | 926 | Angela M. Fletcher |
 | 77 | 924 | Shonna Roberts |
 | 78 | 923 | Christine Filson |
 | 79 | 910 | Jay Horn |
@@ -225,13 +225,13 @@
 | 217 | 383 | Darlene McMillan |
 | 218 | 383 | Nicole Flippo |
 | 219 | 383 | Heather Green |
-| 220 | 382 | Giddy Twistbuilder |
-| 221 | 382 | Scott Carleton |
+| 220 | 382 | Scott Carleton |
+| 221 | 382 | Giddy Twistbuilder |
 | 222 | 378 | Chris Bell |
 | 223 | 375 | Duane Bright |
 | 224 | 375 | Kristal C Lee |
-| 225 | 372 | Rich LeBlanc |
-| 226 | 372 | Sarah Moyer |
+| 225 | 372 | Sarah Moyer |
+| 226 | 372 | Rich LeBlanc |
 | 227 | 370 | RickyG |
 | 228 | 369 | Keis |
 | 229 | 368 | Rebecca Funderburk Kirby |
@@ -290,8 +290,8 @@
 | 282 | 302 | Gray Hicks |
 | 283 | 301 | Betty Rosas |
 | 284 | 300 | Tiffany Davie |
-| 285 | 299 | Angie Harper |
-| 286 | 299 | Ray Lader |
+| 285 | 299 | Ray Lader |
+| 286 | 299 | Angie Harper |
 | 287 | 298 | Grams |
 | 288 | 297 | kacihall |
 | 289 | 297 | Jojo M |

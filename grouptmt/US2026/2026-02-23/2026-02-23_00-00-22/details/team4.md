@@ -51,8 +51,8 @@
 | 43 | 899 | Dustin Robert |
 | 44 | 855 | Marvin Lou Martin |
 | 45 | 851 | Jae Job |
-| 46 | 846 | Lucille Truesdale |
-| 47 | 846 | Christine Marie |
+| 46 | 846 | Christine Marie |
+| 47 | 846 | Lucille Truesdale |
 | 48 | 845 | LisaJo Picken Buchanan |
 | 49 | 843 | Shelly Chandler |
 | 50 | 839 | TeeJ |
@@ -109,8 +109,8 @@
 | 101 | 512 | Diana Houts |
 | 102 | 510 | Scott Jameson |
 | 103 | 500 | Rodney McMath Jr. |
-| 104 | 499 | Christina LR |
-| 105 | 499 | Trista Leah |
+| 104 | 499 | Trista Leah |
+| 105 | 499 | Christina LR |
 | 106 | 488 | Jen Allison |
 | 107 | 487 | Alyssa Papen |
 | 108 | 487 | shar |
@@ -126,8 +126,8 @@
 | 118 | 448 | Kristin Manee |
 | 119 | 435 | Leslie Thomas |
 | 120 | 433 | Jamie Gustafson |
-| 121 | 431 | Jolly Dashfit |
-| 122 | 431 | Courtney Cicoria |
+| 121 | 431 | Courtney Cicoria |
+| 122 | 431 | Jolly Dashfit |
 | 123 | 429 | Ren Mc |
 | 124 | 427 | KJ Pool |
 | 125 | 418 | Lush Linkfall |
@@ -138,15 +138,15 @@
 | 130 | 408 | Amanda Pauldo-Ivy |
 | 131 | 400 | Ericca Eldridge |
 | 132 | 394 | Austin Owens |
-| 133 | 393 | Carlton Unfiltered |
-| 134 | 393 | Trish |
+| 133 | 393 | Trish |
+| 134 | 393 | Carlton Unfiltered |
 | 135 | 392 | Cristy Duerksen |
 | 136 | 391 | Ramel Rhodes |
 | 137 | 380 | Swanky Fitline |
 | 138 | 378 | Lucas J Sutton |
-| 139 | 377 | Kristina Black |
-| 140 | 377 | Jessica Bohlken |
-| 141 | 377 | Carrie Brian |
+| 139 | 377 | Jessica Bohlken |
+| 140 | 377 | Carrie Brian |
+| 141 | 377 | Kristina Black |
 | 142 | 376 | Kesha Brady |
 | 143 | 374 | Guy Incognito |
 | 144 | 373 | Joseph Guthrie |
@@ -177,8 +177,8 @@
 | 169 | 316 | Meagan Nicole |
 | 170 | 314 | Andy Cabral |
 | 171 | 311 | A5! |
-| 172 | 307 | Bio Nelly |
-| 173 | 307 | Girl |
+| 172 | 307 | Girl |
+| 173 | 307 | Bio Nelly |
 | 174 | 306 | Lindsey Gonzalez |
 | 175 | 304 | Chaz Duncan |
 | 176 | 303 | shark tato |
@@ -283,14 +283,14 @@
 | 275 | 205 | Stella |
 | 276 | 205 | James Hurley Jr. |
 | 277 | 203 | Katherine Crane |
-| 278 | 202 | Angelito |
-| 279 | 202 | Shainne Brewer |
+| 278 | 202 | Shainne Brewer |
+| 279 | 202 | Angelito |
 | 280 | 201 | Silly SeaWeed |
 | 281 | 200 | Googenheim |
 | 282 | 199 | Carter Jones |
 | 283 | 198 | Calvin Dennis |
-| 284 | 197 | Stephme310 |
-| 285 | 197 | Gilles Lanctot |
+| 284 | 197 | Gilles Lanctot |
+| 285 | 197 | Stephme310 |
 | 286 | 195 | 中山成巳 |
 | 287 | 194 | Brittany Marsh |
 | 288 | 194 | Zany Twisterfit |

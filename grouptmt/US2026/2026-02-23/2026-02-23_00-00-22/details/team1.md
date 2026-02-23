@@ -61,8 +61,8 @@
 | 53 | 770 | Zappy Curvetile |
 | 54 | 767 | Kristen Roles Robben |
 | 55 | 752 | Jacqueline Williams |
-| 56 | 746 | TSwag |
-| 57 | 746 | Stef Hu |
+| 56 | 746 | Stef Hu |
+| 57 | 746 | TSwag |
 | 58 | 738 | Michelle Nicole |
 | 59 | 735 | Spunky Piecebuilder |
 | 60 | 720 | Zippy Align |
@@ -221,8 +221,8 @@
 | 213 | 256 | Chris65 |
 | 214 | 256 | Standia Civil |
 | 215 | 255 | Speedy Liney |
-| 216 | 254 | Al Smith Jr |
-| 217 | 254 | Giggly Builderline |
+| 216 | 254 | Giggly Builderline |
+| 217 | 254 | Al Smith Jr |
 | 218 | 253 | Jamie Jury |
 | 219 | 253 | Snappy Matcher |
 | 220 | 252 | Dena Kayy |
