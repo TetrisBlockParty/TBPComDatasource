@@ -162,8 +162,8 @@
 | 154 | 387 | Ananda Mendez |
 | 155 | 387 | Emily Adelaide Wheatley |
 | 156 | 387 | Carrie Smith |
-| 157 | 383 | Margo Wagner |
-| 158 | 383 | pjbeta |
+| 157 | 383 | pjbeta |
+| 158 | 383 | Margo Wagner |
 | 159 | 380 | phrmblk24 |
 | 160 | 379 | Kimmie Kimms |
 | 161 | 379 | Austin James |
@@ -207,8 +207,8 @@
 | 199 | 341 | Nick R Montague |
 | 200 | 339 | Nicole Roseberry Weber |
 | 201 | 337 | Jamise Brown |
-| 202 | 333 | Virginia Gray Floyd |
-| 203 | 333 | Tyler Hertzog |
+| 202 | 333 | Tyler Hertzog |
+| 203 | 333 | Virginia Gray Floyd |
 | 204 | 333 | Gracie |
 | 205 | 332 | Happy Basegrid |
 | 206 | 328 | Snappy Matcher |
@@ -514,7 +514,7 @@
 | 506 | 151 | Glitzy Grid |
 | 507 | 151 | Michelle |
 | 508 | 151 | Plucky Wrecker |
-| 509 | 151 | Michelle |
+| 509 | 151 | Cozy Shatterer |
 | 510 | 149 | Logan McFarland |
 | 511 | 147 | Javyjavz |
 | 512 | 147 | Jodee Woods |

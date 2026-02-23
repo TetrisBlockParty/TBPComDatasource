@@ -76,8 +76,8 @@
 | 68 | 787 | loulou |
 | 69 | 767 | Shannon Ferrari |
 | 70 | 766 | Robin Watters |
-| 71 | 765 | Denise Carlson |
-| 72 | 765 | Robin Getchel |
+| 71 | 765 | Robin Getchel |
+| 72 | 765 | Denise Carlson |
 | 73 | 753 | TheNeesh50 |
 | 74 | 752 | Shane Kalamata Platoon |
 | 75 | 749 | Dustee Craddock-Harrison |
@@ -164,8 +164,8 @@
 | 156 | 414 | Nope Young |
 | 157 | 413 | Circuit8 |
 | 158 | 412 | Jessica Bohlken |
-| 159 | 406 | Livvy |
-| 160 | 406 | Damn Libra |
+| 159 | 406 | Damn Libra |
+| 160 | 406 | Livvy |
 | 161 | 403 | Keith Kelley |
 | 162 | 402 | Lucas J Sutton |
 | 163 | 398 | Tyler Terrific |
@@ -252,10 +252,10 @@
 | 244 | 281 | Laura |
 | 245 | 280 | Rio Rocha |
 | 246 | 279 | Malakai Darien Fox |
-| 247 | 278 | Sarah Brown |
-| 248 | 278 | Angela Geist Jusinski |
-| 249 | 276 | Joeliecea Cobb |
-| 250 | 276 | Cynthia Boudreau |
+| 247 | 278 | Angela Geist Jusinski |
+| 248 | 278 | Sarah Brown |
+| 249 | 276 | Cynthia Boudreau |
+| 250 | 276 | Joeliecea Cobb |
 | 251 | 275 | Kimberlee Jan Beckstead |
 | 252 | 273 | Cranky Rollpiece |
 | 253 | 272 | Dennis Bradley |
@@ -274,8 +274,8 @@
 | 266 | 262 | Selena Shaw |
 | 267 | 261 | Zethra Prenisha Rahming |
 | 268 | 260 | Carter Jones |
-| 269 | 259 | John Brunetti |
-| 270 | 259 | Allen Lloyd |
+| 269 | 259 | Allen Lloyd |
+| 270 | 259 | John Brunetti |
 | 271 | 259 | Montiette Mcglown |
 | 272 | 257 | PeaceOs |
 | 273 | 257 | Ruben Wheeler |
@@ -326,9 +326,9 @@
 | 318 | 223 | Chance Strickland |
 | 319 | 222 | Brandi Durig |
 | 320 | 221 | Rheanda Weaskus |
-| 321 | 220 | Ziggy |
-| 322 | 220 | Jumpy Zonepiece |
-| 323 | 220 | Nita Wells |
+| 321 | 220 | Jumpy Zonepiece |
+| 322 | 220 | Nita Wells |
+| 323 | 220 | Ziggy |
 | 324 | 220 | Tina Lopez |
 | 325 | 219 | Shane Vick |
 | 326 | 219 | Orchislactea |
@@ -380,7 +380,7 @@
 | 372 | 194 | Eri Kka |
 | 373 | 192 | Twisty Risebuilder |
 | 374 | 192 | Meg |
-| 375 | 191 | Funky Risepiece |
+| 375 | 191 | Earnest Thompson |
 | 376 | 191 | Riverdale |
 | 377 | 191 | Funky Risepiece |
 | 378 | 191 | Norman Klick |

@@ -76,8 +76,8 @@
 | 68 | 1264 | Amanda L Baker |
 | 69 | 1258 | Danielle Cutler |
 | 70 | 1256 | Jessica Bechler |
-| 71 | 1213 | Nerdy Riseclear |
-| 72 | 1213 | Snappy Glidepiece |
+| 71 | 1213 | Snappy Glidepiece |
+| 72 | 1213 | Nerdy Riseclear |
 | 73 | 1201 | Amanda Adkins |
 | 74 | 1186 | Christian A. Pollard |
 | 75 | 1162 | Gracie |
@@ -591,8 +591,8 @@
 | 583 | 190 | Smiley Zone |
 | 584 | 189 | Jason |
 | 585 | 189 | Deseree Ewing |
-| 586 | 189 | Wacky Crasher |
-| 587 | 189 | Sameerah Smith |
+| 586 | 189 | Sameerah Smith |
+| 587 | 189 | Wacky Crasher |
 | 588 | 188 | Amber Groover Taylor |
 | 589 | 188 | Bree Sexton |
 | 590 | 187 | Kelly Koenig |
@@ -866,11 +866,11 @@
 | 858 | 134 | Courtney Donovan |
 | 859 | 134 | Donna S. Greene-Brathwaite |
 | 860 | 134 | Sharon Dudley Lawson |
-| 861 | 133 | Karla Phillips |
-| 862 | 133 | Earlanda Holland |
-| 863 | 133 | Paizanogrl |
-| 864 | 133 | Belle |
-| 865 | 133 | Brave Bruno |
+| 861 | 133 | Belle |
+| 862 | 133 | Paizanogrl |
+| 863 | 133 | Earlanda Holland |
+| 864 | 133 | Brave Bruno |
+| 865 | 133 | Karla Phillips |
 | 866 | 133 | Amy Jeffers |
 | 867 | 133 | lema ean |
 | 868 | 132 | Angie King |
