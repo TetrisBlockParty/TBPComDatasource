@@ -67,8 +67,8 @@
 | 59 | 872 | Shelly Chandler |
 | 60 | 871 | Pee |
 | 61 | 870 | BertMofo |
-| 62 | 846 | Christine Marie |
-| 63 | 846 | Lucille Truesdale |
+| 62 | 846 | Lucille Truesdale |
+| 63 | 846 | Christine Marie |
 | 64 | 834 | quicksand420 |
 | 65 | 827 | Avy Absol |
 | 66 | 807 | Amelpss |
@@ -104,8 +104,8 @@
 | 96 | 659 | Jamie Gustafson |
 | 97 | 653 | Rica Mitchell |
 | 98 | 650 | KJ Pool |
-| 99 | 647 | KM8 |
-| 100 | 647 | Shauna Havard |
+| 99 | 647 | Shauna Havard |
+| 100 | 647 | KM8 |
 | 101 | 637 | Lori Walker |
 | 102 | 635 | Adawna Swires |
 | 103 | 631 | H.R. Block |
