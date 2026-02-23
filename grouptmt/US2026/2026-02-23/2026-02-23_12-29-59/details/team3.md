@@ -117,8 +117,8 @@
 | 109 | 869 | Araceli Parra |
 | 110 | 868 | Sarajane Lokan |
 | 111 | 860 | Sunny Rotater |
-| 112 | 851 | Jd Morris |
-| 113 | 851 | Danielle Becker |
+| 112 | 851 | Danielle Becker |
+| 113 | 851 | Jd Morris |
 | 114 | 850 | Danielle Mogg |
 | 115 | 848 | Patricia Gadsden |
 | 116 | 839 | Angeline Joseph |
@@ -169,8 +169,8 @@
 | 161 | 634 | Amber Hughes |
 | 162 | 631 | Grego Daniel |
 | 163 | 630 | yoyo |
-| 164 | 621 | Sashay Tapae Simpson |
-| 165 | 621 | Cherry Parker |
+| 164 | 621 | Cherry Parker |
+| 165 | 621 | Sashay Tapae Simpson |
 | 166 | 616 | Kammy Hill |
 | 167 | 611 | Rochelle Hazelett |
 | 168 | 603 | Jone |
@@ -269,8 +269,8 @@
 | 261 | 406 | Kristal C Lee |
 | 262 | 405 | Steffi Chris Dacones |
 | 263 | 404 | Chasity |
-| 264 | 403 | lashanda |
-| 265 | 403 | Denita Mungro |
+| 264 | 403 | Denita Mungro |
+| 265 | 403 | lashanda |
 | 266 | 403 | Scott Lindsay |
 | 267 | 401 | Ashley Tookes |
 | 268 | 400 | Quackers |
@@ -409,7 +409,7 @@
 | 401 | 273 | Kevin Fountain |
 | 402 | 272 | Todd Hall |
 | 403 | 272 | Tay |
-| 404 | 272 | Todd Hall |
+| 404 | 272 | Eboni Starr |
 | 405 | 269 | Goofy Fall |
 | 406 | 269 | Michael Latasha Gray |
 | 407 | 269 | Juliana Dottore |
@@ -417,8 +417,8 @@
 | 409 | 269 | Jess Bissett |
 | 410 | 268 | Jessica Lynn French |
 | 411 | 268 | Julia Nicole |
-| 412 | 267 | Michael Kimbro |
-| 413 | 267 | April Matthew Kibble |
+| 412 | 267 | April Matthew Kibble |
+| 413 | 267 | Michael Kimbro |
 | 414 | 267 | Jul |
 | 415 | 266 | Daring Builder |
 | 416 | 266 | Quirky Dropzone |
@@ -483,8 +483,8 @@
 | 475 | 236 | Loopy Fallzone |
 | 476 | 234 | Cheeky Twisterfit |
 | 477 | 233 | Tony Waters |
-| 478 | 233 | Criss |
-| 479 | 233 | Anna Moeller |
+| 478 | 233 | Anna Moeller |
+| 479 | 233 | Criss |
 | 480 | 232 | Sunny Tiltgrid |
 | 481 | 232 | Stephanie Hill |
 | 482 | 232 | Melanie Sherwood |

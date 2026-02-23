@@ -102,8 +102,8 @@
 | 94 | 659 | Jamie Gustafson |
 | 95 | 653 | Rica Mitchell |
 | 96 | 650 | KJ Pool |
-| 97 | 647 | Shauna Havard |
-| 98 | 647 | KM8 |
+| 97 | 647 | KM8 |
+| 98 | 647 | Shauna Havard |
 | 99 | 646 | Eric Mcgaughy |
 | 100 | 635 | Adawna Swires |
 | 101 | 631 | H.R. Block |
@@ -166,8 +166,8 @@
 | 158 | 418 | Lush Linkfall |
 | 159 | 417 | Steph Marie |
 | 160 | 417 | Amanda Pauldo-Ivy |
-| 161 | 414 | Nope Young |
-| 162 | 414 | Swanky Fitline |
+| 161 | 414 | Swanky Fitline |
+| 162 | 414 | Nope Young |
 | 163 | 413 | Circuit8 |
 | 164 | 412 | Jessica Bohlken |
 | 165 | 412 | Nick Gray |
@@ -320,17 +320,17 @@
 | 312 | 237 | Christine Therrien |
 | 313 | 235 | LaDonna LovinmesomeMe Lambert |
 | 314 | 235 | Shainne Brewer |
-| 315 | 234 | Richard-April Kice |
-| 316 | 234 | Shanon Klair |
+| 315 | 234 | Shanon Klair |
+| 316 | 234 | Richard-April Kice |
 | 317 | 234 | Diosa Ebalobo Magsael |
 | 318 | 233 | Joseph Edmonson |
 | 319 | 230 | Chantilly Laace |
 | 320 | 228 | Bethany Ison |
 | 321 | 227 | Jason Bosco |
-| 322 | 225 | Jenna McGeorge |
-| 323 | 225 | Kathy Allen |
-| 324 | 225 | Hyper Builder |
-| 325 | 225 | Ernest Maxwell |
+| 322 | 225 | Kathy Allen |
+| 323 | 225 | Hyper Builder |
+| 324 | 225 | Ernest Maxwell |
+| 325 | 225 | Jenna McGeorge |
 | 326 | 224 | Ultramarine |
 | 327 | 223 | Brave Spinbuilder |
 | 328 | 223 | Gracie Ann Taylor |

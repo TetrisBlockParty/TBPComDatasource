@@ -413,8 +413,8 @@
 | 405 | 816 | Beth |
 | 406 | 812 | Samantha Jo |
 | 407 | 811 | Brenda Pierpoint |
-| 408 | 808 | Connie Jimenez |
-| 409 | 808 | Laura McCarthey |
+| 408 | 808 | Laura McCarthey |
+| 409 | 808 | Connie Jimenez |
 | 410 | 804 | Becca Coronado |
 | 411 | 803 | Tiara Elizabeth Baker |
 | 412 | 802 | Leslie Ann Carter |
@@ -675,8 +675,8 @@
 | 667 | 550 | Shorty |
 | 668 | 549 | Kaylee McCafferty |
 | 669 | 549 | Crystal Hodge Love |
-| 670 | 548 | Shindee |
-| 671 | 548 | Sunshine711 |
+| 670 | 548 | Sunshine711 |
+| 671 | 548 | Shindee |
 | 672 | 547 | Hunter Connors |
 | 673 | 547 | Sonya Back |
 | 674 | 546 | NanDa Cruzan VI |
