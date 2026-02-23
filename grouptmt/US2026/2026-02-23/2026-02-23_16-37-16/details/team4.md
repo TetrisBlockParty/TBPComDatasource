@@ -180,8 +180,8 @@
 | 172 | 431 | Courtney Cicoria |
 | 173 | 427 | Steph Marie |
 | 174 | 426 | 🥔🥔 Spudz |
-| 175 | 423 | Carrie Brian |
-| 176 | 423 | Crystal Nicolette Moore |
+| 175 | 423 | Crystal Nicolette Moore |
+| 176 | 423 | Carrie Brian |
 | 177 | 422 | Zakia Monae |
 | 178 | 421 | JIGsaw ~(•¿°)~ |
 | 179 | 421 | Kesha Brady |
@@ -570,10 +570,10 @@
 | 562 | 146 | Groovy Gridlock |
 | 563 | 146 | Jen Hallin |
 | 564 | 145 | No Strings Attached Ra |
-| 565 | 145 | Austin Trent Weaver |
-| 566 | 145 | Glitzy Crasher |
-| 567 | 144 | Zach Kerbs |
-| 568 | 144 | KyngKliff |
+| 565 | 145 | Glitzy Crasher |
+| 566 | 145 | Austin Trent Weaver |
+| 567 | 144 | KyngKliff |
+| 568 | 144 | Zach Kerbs |
 | 569 | 144 | Bumpy Morris |
 | 570 | 143 | Sherri |
 | 571 | 143 | Kristin MacDonald |
@@ -591,8 +591,8 @@
 | 583 | 140 | Cheery Lift |
 | 584 | 140 | Thomas Hettenhaus |
 | 585 | 139 | Groovy Shiftspin |
-| 586 | 139 | Ann G. Carrillo |
-| 587 | 139 | Lynn Marie |
+| 586 | 139 | Lynn Marie |
+| 587 | 139 | Ann G. Carrillo |
 | 588 | 138 | Tammy Lewis |
 | 589 | 137 | April Spoelma |
 | 590 | 137 | Richard |

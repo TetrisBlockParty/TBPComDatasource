@@ -142,8 +142,8 @@
 | 134 | 774 | Keith J Oshman Jr. |
 | 135 | 773 | Daira Largen |
 | 136 | 770 | Daryn Elliott |
-| 137 | 764 | Groovy Catcher |
-| 138 | 764 | Hasty Cascadefit |
+| 137 | 764 | Hasty Cascadefit |
+| 138 | 764 | Groovy Catcher |
 | 139 | 762 | Speedy Bridger |
 | 140 | 759 | yoyo |
 | 141 | 757 | Fancy Cascader |
@@ -213,8 +213,8 @@
 | 205 | 549 | Sarah Cowan Burgos |
 | 206 | 548 | Danielle Balcom |
 | 207 | 547 | Staci George Fitzsimmons |
-| 208 | 546 | Mykal Burton |
-| 209 | 546 | Cynthia Castros-Hampton |
+| 208 | 546 | Cynthia Castros-Hampton |
+| 209 | 546 | Mykal Burton |
 | 210 | 544 | Trisha Balmer |
 | 211 | 543 | Silly Twist |
 | 212 | 540 | Shawn Miller |
@@ -267,8 +267,8 @@
 | 259 | 451 | Micayah Stevens |
 | 260 | 449 | Mcathen |
 | 261 | 448 | Scott Carleton |
-| 262 | 443 | Fancy Curver |
-| 263 | 443 | Stefanie LaPointe |
+| 262 | 443 | Stefanie LaPointe |
+| 263 | 443 | Fancy Curver |
 | 264 | 443 | Randy Clevenger |
 | 265 | 442 | Marquita Sheard |
 | 266 | 437 | Loopy Clusterer |
@@ -396,8 +396,8 @@
 | 388 | 316 | Travis W |
 | 389 | 315 | Funky Jumper |
 | 390 | 314 | Tipsy Zonebuilder |
-| 391 | 313 | Erykah |
-| 392 | 313 | Hoppy Buildout |
+| 391 | 313 | Hoppy Buildout |
+| 392 | 313 | Erykah |
 | 393 | 312 | Eric Caccavale |
 | 394 | 311 | Noettín Kan Zasnemoore |
 | 395 | 311 | Troy |
@@ -406,8 +406,8 @@
 | 398 | 308 | Katrina Turner |
 | 399 | 308 | Tia |
 | 400 | 308 | Beejangles |
-| 401 | 307 | Kristina Gardner |
-| 402 | 307 | Kristian Thurman |
+| 401 | 307 | Kristian Thurman |
+| 402 | 307 | Kristina Gardner |
 | 403 | 305 | Jack Bo |
 | 404 | 304 | _melisa223_ |
 | 405 | 303 | Alexmac |
@@ -422,8 +422,8 @@
 | 414 | 298 | Grams |
 | 415 | 298 | Tay |
 | 416 | 296 | Amy Montz |
-| 417 | 296 | Tracy Martin |
-| 418 | 296 | Cheryl Hinch Tenbrook |
+| 417 | 296 | Cheryl Hinch Tenbrook |
+| 418 | 296 | Tracy Martin |
 | 419 | 295 | Dakota Graham |
 | 420 | 293 | Loopy Fallzone |
 | 421 | 292 | Khaleada McGill Banks |

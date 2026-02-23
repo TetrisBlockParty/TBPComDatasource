@@ -47,8 +47,8 @@
 | 39 | 1128 | june october |
 | 40 | 1126 | Tater |
 | 41 | 1114 | Andrea Dañielle Ortiz |
-| 42 | 1114 | Marianne Louise West |
-| 43 | 1114 | Jayme Sellers |
+| 42 | 1114 | Jayme Sellers |
+| 43 | 1114 | Marianne Louise West |
 | 44 | 1112 | Chipper Gridlock |
 | 45 | 1100 | Derek MF Blakey |
 | 46 | 1092 | Tipsy Column |
@@ -64,8 +64,8 @@
 | 56 | 965 | Kristen Roles Robben |
 | 57 | 961 | Adam Byrd |
 | 58 | 955 | Spunky Piecebuilder |
-| 59 | 949 | TSwag |
-| 60 | 949 | Francesca Gee |
+| 59 | 949 | Francesca Gee |
+| 60 | 949 | TSwag |
 | 61 | 937 | Zippy Align |
 | 62 | 931 | Michelle Nicole |
 | 63 | 899 | Fmp |
@@ -197,8 +197,8 @@
 | 189 | 387 | Carrie Smith |
 | 190 | 386 | Brian Spotts |
 | 191 | 385 | John J. Cronin |
-| 192 | 383 | pjbeta |
-| 193 | 383 | Margo Wagner |
+| 192 | 383 | Margo Wagner |
+| 193 | 383 | pjbeta |
 | 194 | 380 | Bindi |
 | 195 | 379 | Austin James |
 | 196 | 378 | Sleepysloath5745 |
@@ -209,11 +209,11 @@
 | 201 | 371 | Sassy Builderline |
 | 202 | 369 | Angela Renea Lester |
 | 203 | 366 | J.F. Fields |
-| 204 | 365 | Shannon Marie Pitts |
-| 205 | 365 | Amanda Holibaugh |
-| 206 | 364 | Serina Marie |
-| 207 | 364 | Shauna Loe |
-| 208 | 364 | David Lutcher |
+| 204 | 365 | Amanda Holibaugh |
+| 205 | 365 | Shannon Marie Pitts |
+| 206 | 364 | Shauna Loe |
+| 207 | 364 | David Lutcher |
+| 208 | 364 | Serina Marie |
 | 209 | 362 | Gracie |
 | 210 | 360 | Lakeisha Chapman |
 | 211 | 360 | MIKOZ |
