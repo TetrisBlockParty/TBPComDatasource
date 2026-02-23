@@ -62,8 +62,8 @@
 | 54 | 1156 | Goatimus Lombardi |
 | 55 | 1150 | Kimyatta Cavin |
 | 56 | 1106 | Ashley Ingram |
-| 57 | 1082 | Avy Absol |
-| 58 | 1082 | Dion Crommarty |
+| 57 | 1082 | Dion Crommarty |
+| 58 | 1082 | Avy Absol |
 | 59 | 1073 | Dustee Craddock-Harrison |
 | 60 | 1072 | Rachel Anne |
 | 61 | 1049 | Heather Tushner |
@@ -186,8 +186,8 @@
 | 178 | 491 | Jade Rian |
 | 179 | 489 | Swanky Fitline |
 | 180 | 487 | April Rondinone |
-| 181 | 487 | Christina Black |
-| 182 | 487 | Sam Bishop |
+| 181 | 487 | Sam Bishop |
+| 182 | 487 | Christina Black |
 | 183 | 482 | Adam Stephanie Parker |
 | 184 | 478 | Casey Grabner |
 | 185 | 477 | Rebecca Morris |
@@ -214,8 +214,8 @@
 | 206 | 438 | Melvin Baird |
 | 207 | 438 | Jen Mattei |
 | 208 | 434 | Ramel Rhodes |
-| 209 | 433 | Damn Libra |
-| 210 | 433 | Circuit8 |
+| 209 | 433 | Circuit8 |
+| 210 | 433 | Damn Libra |
 | 211 | 431 | Zesty Twistbuilder |
 | 212 | 427 | Steph Marie |
 | 213 | 427 | Chao Ma |
@@ -234,8 +234,8 @@
 | 226 | 409 | Antony Dwayne Beasley |
 | 227 | 403 | TinyLegoRose |
 | 228 | 400 | Brickh4us |
-| 229 | 399 | Jeff Brian Gates |
-| 230 | 399 | Lindsay Ball |
+| 229 | 399 | Lindsay Ball |
+| 230 | 399 | Jeff Brian Gates |
 | 231 | 398 | Tyler Terrific |
 | 232 | 395 | 030Synner |
 | 233 | 394 | Nita Wells |
@@ -391,7 +391,7 @@
 | 383 | 258 | Lilya Troutman |
 | 384 | 258 | Stephme310 |
 | 385 | 257 | ĥuf |
-| 386 | 257 | Alexandra Karavias |
+| 386 | 257 | Dustin York |
 | 387 | 257 | Michael Snow |
 | 388 | 257 | Alexandra Karavias |
 | 389 | 256 | Gracie Ann Taylor |
@@ -1396,7 +1396,7 @@
 | 1388 | 41 | Ashlee Johnson |
 | 1389 | 41 | Dragon De Fuego |
 | 1390 | 41 | Juicee |
-| 1391 | 40 | canglem |
+| 1391 | 40 | Alexis Kelly |
 | 1392 | 40 | Dan Kraly |
 | 1393 | 40 | canglem |
 | 1394 | 40 | Kenya Lewis |

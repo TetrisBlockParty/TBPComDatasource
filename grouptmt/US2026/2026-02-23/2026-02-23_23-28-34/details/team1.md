@@ -148,8 +148,8 @@
 | 140 | 528 | ALFD |
 | 141 | 527 | Tonya Beasley |
 | 142 | 524 | Tipsy Riseclear |
-| 143 | 523 | BadG52 |
-| 144 | 523 | April Carroll |
+| 143 | 523 | April Carroll |
+| 144 | 523 | BadG52 |
 | 145 | 521 | Nery Martinez |
 | 146 | 519 | Anaid Sanchez |
 | 147 | 517 | Adrian Esteban |
@@ -157,8 +157,8 @@
 | 149 | 515 | Constance Risner |
 | 150 | 513 | Colena Davenport |
 | 151 | 511 | MomMom |
-| 152 | 510 | Timothy Danaher |
-| 153 | 510 | Rat666 |
+| 152 | 510 | Rat666 |
+| 153 | 510 | Timothy Danaher |
 | 154 | 501 | Dee Perry |
 | 155 | 497 | MIKOZ |
 | 156 | 497 | Arianna O'Brien |
@@ -274,16 +274,16 @@
 | 266 | 345 | Keith Mathis |
 | 267 | 344 | dhardy |
 | 268 | 342 | Matt Iaccheo |
-| 269 | 341 | Nick R Montague |
+| 269 | 341 | Letson Melissa |
 | 270 | 341 | Standia Civil |
 | 271 | 341 | Nick R Montague |
 | 272 | 340 | Danielle Little-Daugherty |
 | 273 | 340 | Robert |
 | 274 | 338 | Layzietyme |
-| 275 | 337 | Larissa Marie Nelson |
-| 276 | 337 | Happy Basegrid |
-| 277 | 336 | Sarah Roberts |
-| 278 | 336 | Adele Rahman |
+| 275 | 337 | Happy Basegrid |
+| 276 | 337 | Larissa Marie Nelson |
+| 277 | 336 | Adele Rahman |
+| 278 | 336 | Sarah Roberts |
 | 279 | 335 | Flashy Rotator |
 | 280 | 334 | Colleen Pinette |
 | 281 | 334 | Tipsy Builder |

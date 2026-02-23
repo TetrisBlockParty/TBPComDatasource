@@ -137,8 +137,8 @@
 | 129 | 945 | Shonna Roberts |
 | 130 | 940 | Stephanie Allmon |
 | 131 | 939 | Jamie Lang |
-| 132 | 936 | Giddy Drop |
-| 133 | 936 | Dolores Falco |
+| 132 | 936 | Dolores Falco |
+| 133 | 936 | Giddy Drop |
 | 134 | 932 | Katrina Schroeder |
 | 135 | 931 | Michelle |
 | 136 | 930 | Bea Miles |
@@ -189,8 +189,8 @@
 | 181 | 726 | Michael Nowogorski |
 | 182 | 725 | Alaina Lee |
 | 183 | 724 | Rachel |
-| 184 | 716 | Annie Marie |
-| 185 | 716 | Morgan Martinez |
+| 184 | 716 | Morgan Martinez |
+| 185 | 716 | Annie Marie |
 | 186 | 715 | Karon Griffin |
 | 187 | 714 | Jone |
 | 188 | 714 | Jenny Hrndz |
