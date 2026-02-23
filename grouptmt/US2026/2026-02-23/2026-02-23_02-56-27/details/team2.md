@@ -135,13 +135,13 @@
 | 127 | 1681 | Shandrica Lowe |
 | 128 | 1681 | Nett |
 | 129 | 1658 | Liberty |
-| 130 | 1656 | Auntie B |
-| 131 | 1656 | Kristopher Miller |
+| 130 | 1656 | Kristopher Miller |
+| 131 | 1656 | Auntie B |
 | 132 | 1644 | Luna |
 | 133 | 1639 | Jessie McDougald |
 | 134 | 1631 | Speedy Spinblock |
-| 135 | 1623 | Mr. Street Stack |
-| 136 | 1623 | Rebecca Doughman |
+| 135 | 1623 | Rebecca Doughman |
+| 136 | 1623 | Mr. Street Stack |
 | 137 | 1622 | Mari Ac |
 | 138 | 1614 | Janel Turley-Garner |
 | 139 | 1605 | Christi Hulet |
@@ -149,8 +149,8 @@
 | 141 | 1599 | Dustin Rains |
 | 142 | 1581 | Brandy Andre |
 | 143 | 1580 | Heather Westrum |
-| 144 | 1578 | Sally Dennis |
-| 145 | 1578 | Loopy Clusterbuilder |
+| 144 | 1578 | Loopy Clusterbuilder |
+| 145 | 1578 | Sally Dennis |
 | 146 | 1566 | Alisa Lamb |
 | 147 | 1558 | Tim Dyer |
 | 148 | 1557 | blackq |
@@ -174,8 +174,8 @@
 | 166 | 1450 | Shiny Rollzone |
 | 167 | 1428 | Eboni Banks |
 | 168 | 1418 | L3sli3 |
-| 169 | 1416 | Kiok |
-| 170 | 1416 | Nancy Reid |
+| 169 | 1416 | Nancy Reid |
+| 170 | 1416 | Kiok |
 | 171 | 1411 | niecy |
 | 172 | 1403 | Bussyiano Page |
 | 173 | 1390 | Erica Williams |
@@ -281,8 +281,8 @@
 | 273 | 985 | Keri Womack |
 | 274 | 984 | Crystal Hoffman |
 | 275 | 982 | Porsche' Nicole |
-| 276 | 979 | Melissa Penelope Ann Dodge |
-| 277 | 979 | Hillary Crawford |
+| 276 | 979 | Hillary Crawford |
+| 277 | 979 | Melissa Penelope Ann Dodge |
 | 278 | 977 | Osun Anuket Esu |
 | 279 | 976 | Sam Joe |
 | 280 | 972 | Juliana Marques Do Nascimento Gordy |

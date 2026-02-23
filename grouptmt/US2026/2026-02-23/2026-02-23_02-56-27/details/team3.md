@@ -374,15 +374,15 @@
 | 366 | 256 | KayB |
 | 367 | 255 | Sharisse Baltimore |
 | 368 | 254 | Desiree Gold |
-| 369 | 253 | Block Baddie |
-| 370 | 253 | Hyper Bridger |
+| 369 | 253 | Hyper Bridger |
+| 370 | 253 | Block Baddie |
 | 371 | 252 | Blair Erin Waite |
 | 372 | 251 | Jennifer Alvey |
 | 373 | 250 | Eric Caccavale |
 | 374 | 249 | Willow |
 | 375 | 248 | Jul |
-| 376 | 247 | Jessica |
-| 377 | 247 | Daring Builder |
+| 376 | 247 | Daring Builder |
+| 377 | 247 | Jessica |
 | 378 | 246 | gremicx |
 | 379 | 245 | AlsoJess |
 | 380 | 245 | Latoya Mayne |
@@ -565,8 +565,8 @@
 | 557 | 172 | Nichole Greene |
 | 558 | 172 | Giggly Brickroll |
 | 559 | 172 | Chipper Piecefit |
-| 560 | 171 | David Kozen |
-| 561 | 171 | Tammy |
+| 560 | 171 | Tammy |
+| 561 | 171 | David Kozen |
 | 562 | 171 | Kathleen Taylor |
 | 563 | 170 | David Bardo |
 | 564 | 170 | Stephanie Sanchez |

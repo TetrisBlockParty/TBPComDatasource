@@ -129,8 +129,8 @@
 | 121 | 417 | Lori Sanders- Davis |
 | 122 | 409 | Yvonne Marie |
 | 123 | 409 | Goose egg |
-| 124 | 406 | Desiree Deschaine Havee |
-| 125 | 406 | Candy Jones |
+| 124 | 406 | Candy Jones |
+| 125 | 406 | Desiree Deschaine Havee |
 | 126 | 402 | Chris K |
 | 127 | 400 | Maria C. Hernandez |
 | 128 | 399 | Nery Martinez |
@@ -182,8 +182,8 @@
 | 174 | 324 | Rat666 |
 | 175 | 323 | Madison Wicks |
 | 176 | 323 | Carrie Smith |
-| 177 | 318 | Virginia Gray Floyd |
-| 178 | 318 | Jessica Sheehan |
+| 177 | 318 | Jessica Sheehan |
+| 178 | 318 | Virginia Gray Floyd |
 | 179 | 317 | Sarah Roberts |
 | 180 | 315 | Tyler Werts |
 | 181 | 315 | Danielle Little-Daugherty |
@@ -231,8 +231,8 @@
 | 223 | 270 | Debbie Kane |
 | 224 | 268 | Reesey Enyart |
 | 225 | 265 | Kandae |
-| 226 | 264 | Jenny Gingrich Fuentes |
-| 227 | 264 | Standia Civil |
+| 226 | 264 | Standia Civil |
+| 227 | 264 | Jenny Gingrich Fuentes |
 | 228 | 263 | Jessie Lynn |
 | 229 | 261 | John J. Cronin |
 | 230 | 260 | Marianita Garcia |

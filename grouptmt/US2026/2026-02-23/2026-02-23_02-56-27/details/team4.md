@@ -55,8 +55,8 @@
 | 47 | 911 | Jeremy Steines |
 | 48 | 855 | Marvin Lou Martin |
 | 49 | 853 | TeeJ |
-| 50 | 846 | Lucille Truesdale |
-| 51 | 846 | Christine Marie |
+| 50 | 846 | Christine Marie |
+| 51 | 846 | Lucille Truesdale |
 | 52 | 845 | LisaJo Picken Buchanan |
 | 53 | 843 | Shelly Chandler |
 | 54 | 841 | Anthony Bryan Riva |
@@ -130,8 +130,8 @@
 | 122 | 471 | Chastity Mitchell |
 | 123 | 458 | Twisty Clicky |
 | 124 | 452 | Jolly Dashfit |
-| 125 | 451 | Peachy Fall |
-| 126 | 451 | Angela Srubar-Norman |
+| 125 | 451 | Angela Srubar-Norman |
+| 126 | 451 | Peachy Fall |
 | 127 | 448 | Kristin Manee |
 | 128 | 435 | Leslie Thomas |
 | 129 | 435 | Kristina Black |
@@ -444,12 +444,12 @@
 | 436 | 151 | Tony Pavelka |
 | 437 | 150 | PennyCandee |
 | 438 | 150 | Moonsterix |
-| 439 | 150 | Jobadia Steelerton |
-| 440 | 150 | Kujuanna Hammon |
-| 441 | 149 | Boldy Linkpiece |
-| 442 | 149 | Sallie Sanborn |
-| 443 | 148 | Meg |
-| 444 | 148 | Dapper Frame |
+| 439 | 150 | Kujuanna Hammon |
+| 440 | 150 | Jobadia Steelerton |
+| 441 | 149 | Sallie Sanborn |
+| 442 | 149 | Boldy Linkpiece |
+| 443 | 148 | Dapper Frame |
+| 444 | 148 | Meg |
 | 445 | 147 | Ashlee Carnes |
 | 446 | 147 | Jay28 |
 | 447 | 146 | Groovy Gridlock |
