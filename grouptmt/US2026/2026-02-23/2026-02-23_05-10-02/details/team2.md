@@ -62,8 +62,8 @@
 | 54 | 3359 | jayjay |
 | 55 | 3321 | Kelly Crook |
 | 56 | 3289 | Jennifer Peachey |
-| 57 | 3288 | Maegan Beaule |
-| 58 | 3288 | YiFei |
+| 57 | 3288 | YiFei |
+| 58 | 3288 | Maegan Beaule |
 | 59 | 3265 | Melinda Brown |
 | 60 | 3241 | Dineisha Carpenter |
 | 61 | 3203 | Sam McKenzie |
@@ -93,8 +93,8 @@
 | 85 | 2515 | Crystalin Heath Lewis |
 | 86 | 2500 | Rosemadder |
 | 87 | 2438 | Rob Surace |
-| 88 | 2428 | Thomas Hughes |
-| 89 | 2428 | Deanna Morton |
+| 88 | 2428 | Deanna Morton |
+| 89 | 2428 | Thomas Hughes |
 | 90 | 2410 | RdRydnHd |
 | 91 | 2400 | Rich Sullivan |
 | 92 | 2375 | Megan Peckham |
@@ -207,8 +207,8 @@
 | 199 | 1306 | Isabela Shaw |
 | 200 | 1300 | Tacara Cummings |
 | 201 | 1286 | Altamirano Michael |
-| 202 | 1282 | Tanya Parsons |
-| 203 | 1282 | Ashley Rose Frederick |
+| 202 | 1282 | Ashley Rose Frederick |
+| 203 | 1282 | Tanya Parsons |
 | 204 | 1259 | Foxxo |
 | 205 | 1258 | Joyce Johnson Vaughn |
 | 206 | 1258 | Lemonaide |
@@ -439,8 +439,8 @@
 | 431 | 728 | Tom Riefer |
 | 432 | 726 | Crystal Greene |
 | 433 | 725 | Vonceial Boone |
-| 434 | 724 | Melissa Holsinger |
-| 435 | 724 | AndrewandShela Gornik |
+| 434 | 724 | AndrewandShela Gornik |
+| 435 | 724 | Melissa Holsinger |
 | 436 | 722 | tejas25 |
 | 437 | 720 | BeQuo |
 | 438 | 720 | Giggy Mover |

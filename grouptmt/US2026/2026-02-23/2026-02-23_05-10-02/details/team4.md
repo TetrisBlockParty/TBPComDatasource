@@ -57,8 +57,8 @@
 | 49 | 863 | Pee |
 | 50 | 855 | Marvin Lou Martin |
 | 51 | 853 | TeeJ |
-| 52 | 846 | Lucille Truesdale |
-| 53 | 846 | Christine Marie |
+| 52 | 846 | Christine Marie |
+| 53 | 846 | Lucille Truesdale |
 | 54 | 845 | LisaJo Picken Buchanan |
 | 55 | 843 | Shelly Chandler |
 | 56 | 841 | Anthony Bryan Riva |
@@ -73,8 +73,8 @@
 | 65 | 767 | Shannon Ferrari |
 | 66 | 766 | Edward White |
 | 67 | 766 | Robin Watters |
-| 68 | 765 | Robin Getchel |
-| 69 | 765 | Denise Carlson |
+| 68 | 765 | Denise Carlson |
+| 69 | 765 | Robin Getchel |
 | 70 | 752 | loulou |
 | 71 | 749 | Dustee Craddock-Harrison |
 | 72 | 742 | Carolyn Wallace |
@@ -140,8 +140,8 @@
 | 132 | 435 | Kristina Black |
 | 133 | 431 | Courtney Cicoria |
 | 134 | 425 | Monica Daley |
-| 135 | 421 | Kesha Brady |
-| 136 | 421 | JIGsaw ~(•¿°)~ |
+| 135 | 421 | JIGsaw ~(•¿°)~ |
+| 136 | 421 | Kesha Brady |
 | 137 | 419 | Klo |
 | 138 | 418 | Lush Linkfall |
 | 139 | 418 | Marie-Pier Desjardins |
@@ -179,11 +179,11 @@
 | 171 | 356 | George Nutt |
 | 172 | 352 | Sue Joyce Staats |
 | 173 | 350 | TRCuse |
-| 174 | 349 | Twisty Cascadezone |
-| 175 | 349 | Rafael Valentin |
+| 174 | 349 | Rafael Valentin |
+| 175 | 349 | Twisty Cascadezone |
 | 176 | 348 | April Rondinone |
-| 177 | 347 | Crystal Nicolette Moore |
-| 178 | 347 | Daria Rycewicz |
+| 177 | 347 | Daria Rycewicz |
+| 178 | 347 | Crystal Nicolette Moore |
 | 179 | 339 | David Lay |
 | 180 | 334 | Kris Bartlett |
 | 181 | 333 | shark tato |

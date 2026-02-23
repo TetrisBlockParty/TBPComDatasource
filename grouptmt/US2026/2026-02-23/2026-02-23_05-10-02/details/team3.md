@@ -380,8 +380,8 @@
 | 372 | 266 | Quirky Dropzone |
 | 373 | 265 | Heather Davis |
 | 374 | 264 | Danielle Beaunoyer Jean |
-| 375 | 263 | Jimmie Clemons |
-| 376 | 263 | Erika Thornton |
+| 375 | 263 | Erika Thornton |
+| 376 | 263 | Jimmie Clemons |
 | 377 | 261 | Jul |
 | 378 | 260 | Tracey Cox |
 | 379 | 260 | TotoCherue |
