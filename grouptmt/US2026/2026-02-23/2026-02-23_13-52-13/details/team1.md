@@ -202,8 +202,8 @@
 | 194 | 364 | David Lutcher |
 | 195 | 364 | Serina Marie |
 | 196 | 362 | Gracie |
-| 197 | 360 | MIKOZ |
-| 198 | 360 | Lakeisha Chapman |
+| 197 | 360 | Lakeisha Chapman |
+| 198 | 360 | MIKOZ |
 | 199 | 360 | Wisa |
 | 200 | 359 | Oscar Zamora |
 | 201 | 359 | Jo Kerley |
@@ -211,10 +211,10 @@
 | 203 | 358 | Nicole Roseberry Weber |
 | 204 | 357 | Paula Martin |
 | 205 | 357 | Shiny Snapfit |
-| 206 | 354 | Chuck Gannon |
-| 207 | 354 | Dino |
-| 208 | 353 | Jaimie Lynn |
-| 209 | 353 | Reesey Enyart |
+| 206 | 354 | Dino |
+| 207 | 354 | Chuck Gannon |
+| 208 | 353 | Reesey Enyart |
+| 209 | 353 | Jaimie Lynn |
 | 210 | 353 | Josh Riemer |
 | 211 | 351 | Sean Stallings |
 | 212 | 350 | Tipsy Strikerpiece |
@@ -241,8 +241,8 @@
 | 233 | 322 | Angela Renea Lester |
 | 234 | 321 | Danielle Little-Daugherty |
 | 235 | 319 | Frothy Pattern |
-| 236 | 317 | Sarah Roberts |
-| 237 | 317 | Melissa Lemmon |
+| 236 | 317 | Melissa Lemmon |
+| 237 | 317 | Sarah Roberts |
 | 238 | 316 | Sassy Builderline |
 | 239 | 315 | Mandyy Rae |
 | 240 | 314 | Daring Fitclear |
@@ -402,8 +402,8 @@
 | 394 | 205 | build master |
 | 395 | 204 | Cranky Pattern |
 | 396 | 203 | Rebekah LeiAnn Bonsell |
-| 397 | 202 | Brave Slice |
-| 398 | 202 | Amber Dee |
+| 397 | 202 | Amber Dee |
+| 398 | 202 | Brave Slice |
 | 399 | 202 | Andrew Backes |
 | 400 | 202 | Krie |
 | 401 | 201 | Tedashi |
