@@ -496,8 +496,8 @@
 | 488 | 689 | Gauri Shrotriya |
 | 489 | 686 | Christine Coughlin |
 | 490 | 684 | Sarah DeHart |
-| 491 | 684 | Ellie Jonas |
-| 492 | 684 | Ann Knutson Anderson |
+| 491 | 684 | Ann Knutson Anderson |
+| 492 | 684 | Ellie Jonas |
 | 493 | 682 | Vanessa Moreno |
 | 494 | 682 | Antionette Sewell |
 | 495 | 681 | Gloria Liu |
@@ -540,8 +540,8 @@
 | 532 | 642 | Michelle Fields |
 | 533 | 642 | Cassie Maynard |
 | 534 | 640 | Belle |
-| 535 | 639 | Rebecca Miller |
-| 536 | 639 | Alexandra Weir |
+| 535 | 639 | Alexandra Weir |
+| 536 | 639 | Rebecca Miller |
 | 537 | 639 | Libby Hicks |
 | 538 | 639 | Toni Roberson |
 | 539 | 638 | Leah Keesling |
@@ -844,8 +844,8 @@
 | 836 | 441 | Goofy Catcher |
 | 837 | 441 | Twisty Tetriblast |
 | 838 | 439 | Sarah Sims |
-| 839 | 438 | Tom Steffen |
-| 840 | 438 | Joel Rosado |
+| 839 | 438 | Joel Rosado |
+| 840 | 438 | Tom Steffen |
 | 841 | 438 | Kelly Amos |
 | 842 | 438 | Deyawn Smith |
 | 843 | 437 | Oscar Bernie |
@@ -1119,16 +1119,16 @@
 | 1111 | 345 | Rhianna DiLorenzo |
 | 1112 | 345 | Brandi Fuller Cason |
 | 1113 | 344 | J.L. Roberts |
-| 1114 | 344 | Swanky Snap |
-| 1115 | 344 | Dean Glenn |
+| 1114 | 344 | Dean Glenn |
+| 1115 | 344 | Swanky Snap |
 | 1116 | 344 | Glenn Cobbins |
 | 1117 | 343 | Kat |
 | 1118 | 343 | Joshua Mullings |
 | 1119 | 343 | Ovk Manman |
 | 1120 | 343 | Scott |
 | 1121 | 343 | Alexandrea |
-| 1122 | 342 | SwifftFox |
-| 1123 | 342 | Theresa Sterrett |
+| 1122 | 342 | Theresa Sterrett |
+| 1123 | 342 | SwifftFox |
 | 1124 | 342 | Patrick Fleming |
 | 1125 | 342 | Emoniee Sa'niaya |
 | 1126 | 341 | Tara Merrill |

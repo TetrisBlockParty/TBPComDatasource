@@ -89,8 +89,8 @@
 | 81 | 703 | Savannah Overdorf |
 | 82 | 697 | Alyssa Papen |
 | 83 | 694 | Diana Houts |
-| 84 | 684 | Kimyatta Cavin |
-| 85 | 684 | Jonathan Kimbrough |
+| 84 | 684 | Jonathan Kimbrough |
+| 85 | 684 | Kimyatta Cavin |
 | 86 | 678 | Trista Leah |
 | 87 | 673 | Jacqueline Helm |
 | 88 | 670 | Destiney Carter |
@@ -98,8 +98,8 @@
 | 90 | 659 | Jamie Gustafson |
 | 91 | 653 | Rica Mitchell |
 | 92 | 650 | KJ Pool |
-| 93 | 647 | KM8 |
-| 94 | 647 | Shauna Havard |
+| 93 | 647 | Shauna Havard |
+| 94 | 647 | KM8 |
 | 95 | 646 | Eric Mcgaughy |
 | 96 | 626 | Brittney Griggs |
 | 97 | 624 | Judy Cox |
@@ -157,13 +157,13 @@
 | 149 | 418 | Lush Linkfall |
 | 150 | 417 | Steph Marie |
 | 151 | 416 | Chaz Duncan |
-| 152 | 414 | Swanky Fitline |
-| 153 | 414 | Nope Young |
+| 152 | 414 | Nope Young |
+| 153 | 414 | Swanky Fitline |
 | 154 | 413 | Circuit8 |
 | 155 | 412 | Jessica Bohlken |
 | 156 | 408 | Amanda Pauldo-Ivy |
-| 157 | 406 | Livvy |
-| 158 | 406 | Damn Libra |
+| 157 | 406 | Damn Libra |
+| 158 | 406 | Livvy |
 | 159 | 403 | Keith Kelley |
 | 160 | 402 | Lucas J Sutton |
 | 161 | 398 | Tyler Terrific |
@@ -181,8 +181,8 @@
 | 173 | 370 | Oscar Alberto Perez |
 | 174 | 369 | Lindsey Gonzalez |
 | 175 | 368 | Raegan Lane-Ross |
-| 176 | 368 | Silly Zonebuilder |
-| 177 | 368 | Brandon Crabbs |
+| 176 | 368 | Brandon Crabbs |
+| 177 | 368 | Silly Zonebuilder |
 | 178 | 365 | Jeff Brian Gates |
 | 179 | 361 | Melissa Adams |
 | 180 | 361 | Danielle Kollias |
@@ -267,8 +267,8 @@
 | 259 | 264 | ZeeZee |
 | 260 | 264 | Stella |
 | 261 | 263 | rebel4lyfe |
-| 262 | 262 | BigSammy420 |
-| 263 | 262 | Selena Shaw |
+| 262 | 262 | Selena Shaw |
+| 263 | 262 | BigSammy420 |
 | 264 | 261 | Zethra Prenisha Rahming |
 | 265 | 260 | Gdiguy |
 | 266 | 260 | Carter Jones |
@@ -345,11 +345,11 @@
 | 337 | 210 | Ari Droff |
 | 338 | 209 | Marcus Todd |
 | 339 | 209 | Snippy Puzzle |
-| 340 | 208 | Shukee Lo |
-| 341 | 208 | Heather Bruce |
+| 340 | 208 | Heather Bruce |
+| 341 | 208 | Shukee Lo |
 | 342 | 207 | Squeezy Pearsall |
-| 343 | 206 | June Hoffman |
-| 344 | 206 | Maureen Flanigan |
+| 343 | 206 | Maureen Flanigan |
+| 344 | 206 | June Hoffman |
 | 345 | 205 | KayM |
 | 346 | 205 | Shiny Fit |
 | 347 | 204 | Ruby Khalisadar |

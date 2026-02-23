@@ -229,8 +229,8 @@
 | 221 | 304 | Sarah Somers Gray |
 | 222 | 301 | Damon J. Martin |
 | 223 | 300 | Sleepysloath5745 |
-| 224 | 298 | Billie Ann Eason |
-| 225 | 298 | Sweetts |
+| 224 | 298 | Sweetts |
+| 225 | 298 | Billie Ann Eason |
 | 226 | 295 | Lakeisha Chapman |
 | 227 | 294 | Chuck Gannon |
 | 228 | 293 | John Kim |
@@ -245,8 +245,8 @@
 | 237 | 284 | Sir-Franchise Drake |
 | 238 | 283 | Amanda Holibaugh |
 | 239 | 283 | Franswa |
-| 240 | 282 | Mandyy Rae |
-| 241 | 282 | Timothy Dew |
+| 240 | 282 | Timothy Dew |
+| 241 | 282 | Mandyy Rae |
 | 242 | 281 | Clever Cascadepiece |
 | 243 | 280 | Billie Dawn Sparks |
 | 244 | 279 | Chris Dawson |
