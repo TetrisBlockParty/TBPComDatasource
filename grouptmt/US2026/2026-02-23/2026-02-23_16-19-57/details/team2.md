@@ -160,8 +160,8 @@
 | 152 | 1767 | niecy |
 | 153 | 1759 | Nerdy Pattern |
 | 154 | 1755 | Loopy Clusterbuilder |
-| 155 | 1751 | Bob |
-| 156 | 1751 | Woodys Glass |
+| 155 | 1751 | Woodys Glass |
+| 156 | 1751 | Bob |
 | 157 | 1720 | Morgue Chick |
 | 158 | 1711 | Heather Westrum |
 | 159 | 1709 | Dustin Rains |
@@ -189,8 +189,8 @@
 | 181 | 1567 | Juliana Marques Do Nascimento Gordy |
 | 182 | 1564 | Amy Sayers |
 | 183 | 1559 | Desiree Harris Rosch |
-| 184 | 1558 | Tim Dyer |
-| 185 | 1558 | Crystal Slaughter |
+| 184 | 1558 | Crystal Slaughter |
+| 185 | 1558 | Tim Dyer |
 | 186 | 1555 | blarg |
 | 187 | 1554 | Tony Lea |
 | 188 | 1542 | Mo Shine On |
@@ -210,8 +210,8 @@
 | 202 | 1461 | Tonya Morgan |
 | 203 | 1453 | Wendy Unsain |
 | 204 | 1452 | Cody Smith-Candelaria |
-| 205 | 1450 | Shiny Rollzone |
-| 206 | 1450 | Mischelle Clay |
+| 205 | 1450 | Mischelle Clay |
+| 206 | 1450 | Shiny Rollzone |
 | 207 | 1442 | Glitzy Stackzone |
 | 208 | 1441 | Tommy Tha Boss Gunz |
 | 209 | 1438 | Ashley Dow |
@@ -462,8 +462,8 @@
 | 454 | 790 | Mama T |
 | 455 | 787 | DefaultUser |
 | 456 | 786 | Charvi' Carter |
-| 457 | 785 | Miranda Morris |
-| 458 | 785 | Mighty Spinbuilder |
+| 457 | 785 | Mighty Spinbuilder |
+| 458 | 785 | Miranda Morris |
 | 459 | 780 | Adam Simmons |
 | 460 | 777 | Tesha Oldaker |
 | 461 | 776 | Fancy Twister |

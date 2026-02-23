@@ -52,8 +52,8 @@
 | 44 | 1116 | Koshin Abdirahman |
 | 45 | 1093 | Ashley Ingram |
 | 46 | 1085 | Kimyatta Cavin |
-| 47 | 1082 | Dion Crommarty |
-| 48 | 1082 | Dawn Alexander |
+| 47 | 1082 | Dawn Alexander |
+| 48 | 1082 | Dion Crommarty |
 | 49 | 1071 | Cherrish Duren |
 | 50 | 1049 | Heather Tushner |
 | 51 | 1046 | Johnathan Martinez |
@@ -589,8 +589,8 @@
 | 581 | 140 | Cheery Lift |
 | 582 | 140 | Thomas Hettenhaus |
 | 583 | 139 | Groovy Shiftspin |
-| 584 | 139 | Ann G. Carrillo |
-| 585 | 139 | Lynn Marie |
+| 584 | 139 | Lynn Marie |
+| 585 | 139 | Ann G. Carrillo |
 | 586 | 138 | Tammy Lewis |
 | 587 | 137 | Heather Mamabear Pezze |
 | 588 | 137 | Richard |

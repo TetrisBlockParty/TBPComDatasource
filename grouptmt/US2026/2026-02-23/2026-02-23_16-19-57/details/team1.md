@@ -472,7 +472,7 @@
 | 464 | 187 | Jessica Weed |
 | 465 | 187 | Matthew Foley |
 | 466 | 186 | Nikki Fridley |
-| 467 | 184 | Sonia Marquis |
+| 467 | 184 | Carl Claunch |
 | 468 | 184 | Theeranart Mahawan |
 | 469 | 184 | Sonia Marquis |
 | 470 | 183 | MommaKFC |
