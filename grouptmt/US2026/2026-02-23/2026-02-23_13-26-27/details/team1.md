@@ -80,8 +80,8 @@
 | 72 | 763 | Jacqueline Williams |
 | 73 | 760 | Seante Bullock |
 | 74 | 750 | Cartier |
-| 75 | 713 | Robert Benito |
-| 76 | 713 | Snappy Swiper |
+| 75 | 713 | Snappy Swiper |
+| 76 | 713 | Robert Benito |
 | 77 | 704 | Karin Gillen |
 | 78 | 703 | Angel Fowler |
 | 79 | 689 | Susanna Guerry |
@@ -233,8 +233,8 @@
 | 225 | 327 | Jen Nystrom |
 | 226 | 325 | GringaLinga |
 | 227 | 324 | Rat666 |
-| 228 | 323 | Madison Wicks |
-| 229 | 323 | Eric DeSimone |
+| 228 | 323 | Eric DeSimone |
+| 229 | 323 | Madison Wicks |
 | 230 | 322 | Angela Renea Lester |
 | 231 | 322 | Letson Melissa |
 | 232 | 320 | Danielle Little-Daugherty |
@@ -338,8 +338,8 @@
 | 330 | 234 | Paula Martin |
 | 331 | 234 | LD1 |
 | 332 | 233 | Shiny Gridmatch |
-| 333 | 233 | Tipsy Riseclear |
-| 334 | 233 | Melissa Bires Hussar |
+| 333 | 233 | Melissa Bires Hussar |
+| 334 | 233 | Tipsy Riseclear |
 | 335 | 232 | Thorne Shumate |
 | 336 | 230 | Jessica Russell |
 | 337 | 230 | Flashy Rotator |
@@ -381,8 +381,8 @@
 | 373 | 216 | Shauntina Burke |
 | 374 | 215 | Quirky Pusher |
 | 375 | 214 | Kayla Marie Stevenson |
-| 376 | 213 | Ed Franz Jr |
-| 377 | 213 | John Barron |
+| 376 | 213 | John Barron |
+| 377 | 213 | Ed Franz Jr |
 | 378 | 213 | Poppy Riserpiece |
 | 379 | 212 | Laurie Sanderson |
 | 380 | 211 | Lynn Adams |

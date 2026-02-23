@@ -332,8 +332,8 @@
 | 324 | 976 | Sam Joe |
 | 325 | 975 | Hyper Cluster |
 | 326 | 974 | Boldy Cascadepiece |
-| 327 | 972 | Binyah-Binyah |
-| 328 | 972 | Barbra Miller |
+| 327 | 972 | Barbra Miller |
+| 328 | 972 | Binyah-Binyah |
 | 329 | 971 | Jojo Momma |
 | 330 | 969 | Em Chen |
 | 331 | 967 | Ronnie Nelson |
@@ -402,8 +402,8 @@
 | 394 | 838 | Nicole Cannon |
 | 395 | 836 | KhaosLord |
 | 396 | 833 | Dennis McLaurin |
-| 397 | 833 | Moni Foxe |
-| 398 | 833 | Christie |
+| 397 | 833 | Christie |
+| 398 | 833 | Moni Foxe |
 | 399 | 832 | Nicole L Morelli |
 | 400 | 831 | Christina Lewis-Vickers |
 | 401 | 830 | Smashanator |
@@ -660,8 +660,8 @@
 | 652 | 570 | Adam Simmons |
 | 653 | 569 | Sparkles |
 | 654 | 566 | Lindsey Leigh |
-| 655 | 566 | Tina Marie |
-| 656 | 566 | SwampRebel |
+| 655 | 566 | SwampRebel |
+| 656 | 566 | Tina Marie |
 | 657 | 564 | Stacey Tranchida |
 | 658 | 563 | Frisky Clearpiece |
 | 659 | 563 | Nat |

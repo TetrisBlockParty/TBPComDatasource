@@ -67,16 +67,16 @@
 | 59 | 872 | Shelly Chandler |
 | 60 | 871 | Pee |
 | 61 | 870 | BertMofo |
-| 62 | 846 | Lucille Truesdale |
-| 63 | 846 | Christine Marie |
+| 62 | 846 | Christine Marie |
+| 63 | 846 | Lucille Truesdale |
 | 64 | 834 | quicksand420 |
 | 65 | 827 | Avy Absol |
 | 66 | 807 | Rachel Anne |
 | 67 | 807 | Amelpss |
 | 68 | 788 | Chilly Line |
 | 69 | 788 | Julian Garcia |
-| 70 | 787 | loulou |
-| 71 | 787 | Edward White |
+| 70 | 787 | Edward White |
+| 71 | 787 | loulou |
 | 72 | 768 | Judy Cox |
 | 73 | 767 | Shannon Ferrari |
 | 74 | 766 | Robin Watters |
@@ -103,8 +103,8 @@
 | 95 | 659 | Jamie Gustafson |
 | 96 | 653 | Rica Mitchell |
 | 97 | 650 | KJ Pool |
-| 98 | 647 | KM8 |
-| 99 | 647 | Shauna Havard |
+| 98 | 647 | Shauna Havard |
+| 99 | 647 | KM8 |
 | 100 | 646 | Eric Mcgaughy |
 | 101 | 635 | Adawna Swires |
 | 102 | 631 | H.R. Block |
@@ -147,8 +147,8 @@
 | 139 | 472 | Trish |
 | 140 | 465 | Jolly Dashfit |
 | 141 | 462 | Leslie Thomas |
-| 142 | 460 | Cursed Hag |
-| 143 | 460 | Ericca Eldridge |
+| 142 | 460 | Ericca Eldridge |
+| 143 | 460 | Cursed Hag |
 | 144 | 457 | Keith Kelley |
 | 145 | 448 | Kristin Manee |
 | 146 | 442 | ThaEviLJeNiuZ |
@@ -205,8 +205,8 @@
 | 197 | 355 | James Hurley Jr. |
 | 198 | 354 | TRCuse |
 | 199 | 352 | Sue Joyce Staats |
-| 200 | 348 | David Lay |
-| 201 | 348 | April Rondinone |
+| 200 | 348 | April Rondinone |
+| 201 | 348 | David Lay |
 | 202 | 347 | Crystal Nicolette Moore |
 | 203 | 347 | Bio Nelly |
 | 204 | 347 | Daria Rycewicz |
@@ -538,8 +538,8 @@
 | 530 | 146 | Groovy Gridlock |
 | 531 | 146 | Jen Hallin |
 | 532 | 145 | No Strings Attached Ra |
-| 533 | 145 | Austin Trent Weaver |
-| 534 | 145 | Glitzy Crasher |
+| 533 | 145 | Glitzy Crasher |
+| 534 | 145 | Austin Trent Weaver |
 | 535 | 144 | Zach Kerbs |
 | 536 | 143 | Kristin MacDonald |
 | 537 | 143 | Sherri |
@@ -635,7 +635,7 @@
 | 627 | 118 | Jennifer Dineen |
 | 628 | 117 | Lane Wasson |
 | 629 | 117 | MzChocolate |
-| 630 | 117 | Kelly Duncan |
+| 630 | 117 | Serena Butter |
 | 631 | 117 | Jacob Richard |
 | 632 | 117 | Kelly Duncan |
 | 633 | 116 | Rebecca A Rit |

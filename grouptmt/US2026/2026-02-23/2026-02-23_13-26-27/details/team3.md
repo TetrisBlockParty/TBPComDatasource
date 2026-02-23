@@ -140,8 +140,8 @@
 | 132 | 755 | Raya |
 | 133 | 748 | Adrian Marcel Pate |
 | 134 | 746 | Giddy Drop |
-| 135 | 745 | ren |
-| 136 | 745 | JerseyJess |
+| 135 | 745 | JerseyJess |
+| 136 | 745 | ren |
 | 137 | 744 | Fancy Cascader |
 | 138 | 739 | Daryn Elliott |
 | 139 | 736 | mzcatzy |
@@ -180,13 +180,13 @@
 | 172 | 602 | Jacqueline Rodriguez |
 | 173 | 599 | opf |
 | 174 | 598 | Makelini Mausia |
-| 175 | 597 | Diana Ibarra |
-| 176 | 597 | CeceGeGe |
+| 175 | 597 | CeceGeGe |
+| 176 | 597 | Diana Ibarra |
 | 177 | 591 | Michael Nowogorski |
 | 178 | 589 | Kaycee Kay |
 | 179 | 587 | Louise Stacy Sisson |
-| 180 | 585 | Happy Tetriblast |
-| 181 | 585 | Domo Washington |
+| 180 | 585 | Domo Washington |
+| 181 | 585 | Happy Tetriblast |
 | 182 | 583 | Tasha Gillespie |
 | 183 | 582 | Natasha Jones |
 | 184 | 574 | Morgan Martinez |
@@ -276,8 +276,8 @@
 | 268 | 406 | Kristal C Lee |
 | 269 | 405 | Steffi Chris Dacones |
 | 270 | 404 | Chasity |
-| 271 | 403 | Scott Lindsay |
-| 272 | 403 | lashanda |
+| 271 | 403 | lashanda |
+| 272 | 403 | Scott Lindsay |
 | 273 | 402 | Tina Kay |
 | 274 | 401 | Ashley Tookes |
 | 275 | 395 | rosy |
