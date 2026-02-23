@@ -193,8 +193,8 @@
 | 185 | 1282 | Ashley Rose Frederick |
 | 186 | 1257 | Michele Gabriel |
 | 187 | 1243 | Anna Edwards |
-| 188 | 1232 | Ambyre Patterson |
-| 189 | 1232 | Groovy Puzzle |
+| 188 | 1232 | Groovy Puzzle |
+| 189 | 1232 | Ambyre Patterson |
 | 190 | 1230 | Megan Garrick |
 | 191 | 1224 | Liberty |
 | 192 | 1211 | Lucky Ladybug |
@@ -518,8 +518,8 @@
 | 510 | 559 | Slip |
 | 511 | 558 | Libby Hicks |
 | 512 | 557 | Victor Obiakarije |
-| 513 | 554 | Laquetta Royston |
-| 514 | 554 | Tra Barnum |
+| 513 | 554 | Tra Barnum |
+| 514 | 554 | Laquetta Royston |
 | 515 | 554 | Dizzy Zone |
 | 516 | 553 | Kelli Wells |
 | 517 | 551 | Cynthia Louann Rose |
@@ -656,8 +656,8 @@
 | 648 | 459 | Shyenn Gadsby |
 | 649 | 458 | Kia Humphery |
 | 650 | 457 | Abimbola Bimbo |
-| 651 | 456 | Samantha Scibelli |
-| 652 | 456 | Sabrina Burton |
+| 651 | 456 | Sabrina Burton |
+| 652 | 456 | Samantha Scibelli |
 | 653 | 456 | Jessica Lamb |
 | 654 | 456 | Kacee Conrad Bock |
 | 655 | 455 | Sabrena Yeisley |
@@ -666,10 +666,10 @@
 | 658 | 453 | Mike Aprilliano |
 | 659 | 453 | Hunter Connors |
 | 660 | 451 | Michelle Pike |
-| 661 | 449 | Kristi Biddinger |
-| 662 | 449 | Saucy Fitzone |
-| 663 | 448 | Darlene Bowman |
-| 664 | 448 | Anastacio Hernandez |
+| 661 | 449 | Saucy Fitzone |
+| 662 | 449 | Kristi Biddinger |
+| 663 | 448 | Anastacio Hernandez |
+| 664 | 448 | Darlene Bowman |
 | 665 | 447 | Boozi |
 | 666 | 446 | Colin Morgan |
 | 667 | 446 | Cleo Sims |

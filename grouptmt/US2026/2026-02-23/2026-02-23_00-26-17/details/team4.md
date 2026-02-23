@@ -51,8 +51,8 @@
 | 43 | 908 | Misty Hollibaugh |
 | 44 | 855 | Marvin Lou Martin |
 | 45 | 851 | Jae Job |
-| 46 | 846 | Christine Marie |
-| 47 | 846 | Lucille Truesdale |
+| 46 | 846 | Lucille Truesdale |
+| 47 | 846 | Christine Marie |
 | 48 | 845 | LisaJo Picken Buchanan |
 | 49 | 843 | Shelly Chandler |
 | 50 | 842 | TeeJ |
@@ -116,8 +116,8 @@
 | 108 | 488 | Jen Allison |
 | 109 | 487 | shar |
 | 110 | 483 | Chilly Crasher |
-| 111 | 481 | Serena Goodridge |
-| 112 | 481 | Jessica Lynn Cutlip |
+| 111 | 481 | Jessica Lynn Cutlip |
+| 112 | 481 | Serena Goodridge |
 | 113 | 476 | Matt Summer |
 | 114 | 474 | Jenna Ingersoll |
 | 115 | 470 | Lori Walker |
@@ -126,8 +126,8 @@
 | 118 | 458 | Twisty Clicky |
 | 119 | 448 | Kristin Manee |
 | 120 | 435 | Leslie Thomas |
-| 121 | 431 | Jolly Dashfit |
-| 122 | 431 | Courtney Cicoria |
+| 121 | 431 | Courtney Cicoria |
+| 122 | 431 | Jolly Dashfit |
 | 123 | 429 | Ren Mc |
 | 124 | 427 | KJ Pool |
 | 125 | 418 | Lush Linkfall |
@@ -138,8 +138,8 @@
 | 130 | 408 | Amanda Pauldo-Ivy |
 | 131 | 400 | Ericca Eldridge |
 | 132 | 394 | Austin Owens |
-| 133 | 393 | Carlton Unfiltered |
-| 134 | 393 | Trish |
+| 133 | 393 | Trish |
+| 134 | 393 | Carlton Unfiltered |
 | 135 | 392 | Cristy Duerksen |
 | 136 | 391 | Ramel Rhodes |
 | 137 | 384 | Lucas J Sutton |
@@ -207,14 +207,14 @@
 | 199 | 281 | Kim Klutz Olson |
 | 200 | 281 | Laura |
 | 201 | 277 | Zesty Twistbuilder |
-| 202 | 276 | Joeliecea Cobb |
-| 203 | 276 | Matt Dell'Olio |
+| 202 | 276 | Matt Dell'Olio |
+| 203 | 276 | Joeliecea Cobb |
 | 204 | 273 | Casey Grabner |
 | 205 | 272 | Alan George LaRage |
 | 206 | 272 | Dennis Bradley |
 | 207 | 271 | Sarah Brown |
-| 208 | 270 | Jen Caldwell |
-| 209 | 270 | Juls |
+| 208 | 270 | Juls |
+| 209 | 270 | Jen Caldwell |
 | 210 | 269 | Nikki Rae Gordon |
 | 211 | 268 | Mimi |
 | 212 | 268 | Porkobello |
@@ -308,12 +308,12 @@
 | 300 | 190 | Amanda Christine |
 | 301 | 190 | wombat |
 | 302 | 189 | Berklie Apedaile |
-| 303 | 187 | Nita Wells |
-| 304 | 187 | Cynthia Boudreau |
+| 303 | 187 | Cynthia Boudreau |
+| 304 | 187 | Nita Wells |
 | 305 | 186 | Lauren Lamb |
-| 306 | 185 | Laura Hosford |
-| 307 | 185 | Morti |
-| 308 | 185 | Nubian1 |
+| 306 | 185 | Nubian1 |
+| 307 | 185 | Laura Hosford |
+| 308 | 185 | Morti |
 | 309 | 184 | Pee |
 | 310 | 183 | Twisty Risebuilder |
 | 311 | 183 | Cozy Balancer |
@@ -417,8 +417,8 @@
 | 409 | 148 | Mighty Edgepiece |
 | 410 | 147 | Jay28 |
 | 411 | 147 | Ashlee Carnes |
-| 412 | 147 | Jay28 |
-| 413 | 145 | Jackie Clark |
+| 412 | 147 | Maureen Flanigan |
+| 413 | 145 | Austin Trent Weaver |
 | 414 | 145 | Peppy Drop |
 | 415 | 145 | Glitzy Crasher |
 | 416 | 145 | Jackie Clark |

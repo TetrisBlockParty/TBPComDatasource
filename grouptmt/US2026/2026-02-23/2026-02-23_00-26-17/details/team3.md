@@ -142,8 +142,8 @@
 | 134 | 621 | Cherry Parker |
 | 135 | 611 | Kiki |
 | 136 | 610 | Daryn Elliott |
-| 137 | 595 | Giddy Drop |
-| 138 | 595 | Patricia White |
+| 137 | 595 | Patricia White |
+| 138 | 595 | Giddy Drop |
 | 139 | 590 | Santeria Trece Candles |
 | 140 | 588 | Justin Ritter |
 | 141 | 585 | opf |
@@ -248,8 +248,8 @@
 | 240 | 365 | Chummy Caster |
 | 241 | 362 | Brandon Givens |
 | 242 | 360 | Sheila M Frazier |
-| 243 | 357 | Stephanie Burtin |
-| 244 | 357 | Ammmmmmy |
+| 243 | 357 | Ammmmmmy |
+| 244 | 357 | Stephanie Burtin |
 | 245 | 352 | Christian Werndl |
 | 246 | 352 | Samantha Lynn |
 | 247 | 351 | Eon Harris |
