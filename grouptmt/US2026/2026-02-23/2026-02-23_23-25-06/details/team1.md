@@ -125,8 +125,8 @@
 | 117 | 601 | Phu ckalldems |
 | 118 | 598 | Jessi Sauer |
 | 119 | 594 | Basment Living |
-| 120 | 589 | Giddy Cascade |
-| 121 | 589 | Chris K |
+| 120 | 589 | Chris K |
+| 121 | 589 | Giddy Cascade |
 | 122 | 587 | Virginia Gray Floyd |
 | 123 | 583 | Theo Pinnow |
 | 124 | 581 | Desiree Deschaine Havee |
@@ -148,8 +148,8 @@
 | 140 | 528 | ALFD |
 | 141 | 527 | Tonya Beasley |
 | 142 | 524 | Tipsy Riseclear |
-| 143 | 523 | BadG52 |
-| 144 | 523 | April Carroll |
+| 143 | 523 | April Carroll |
+| 144 | 523 | BadG52 |
 | 145 | 521 | Nery Martinez |
 | 146 | 519 | Anaid Sanchez |
 | 147 | 517 | Adrian Esteban |
@@ -160,12 +160,12 @@
 | 152 | 510 | Rat666 |
 | 153 | 510 | Timothy Danaher |
 | 154 | 501 | Dee Perry |
-| 155 | 497 | MIKOZ |
-| 156 | 497 | Arianna O'Brien |
+| 155 | 497 | Arianna O'Brien |
+| 156 | 497 | MIKOZ |
 | 157 | 494 | Sean Stallings |
 | 158 | 492 | Rebekah LeiAnn Bonsell |
-| 159 | 491 | Michelle Beres |
-| 160 | 491 | cc |
+| 159 | 491 | cc |
+| 160 | 491 | Michelle Beres |
 | 161 | 488 | Hyper |
 | 162 | 483 | Dandy Basegrid |
 | 163 | 483 | Trina Gee |
@@ -176,8 +176,8 @@
 | 168 | 470 | Candy Jones |
 | 169 | 468 | Steve Schneider |
 | 170 | 464 | canbrick |
-| 171 | 463 | Brandi Huntington |
-| 172 | 463 | Nicole Roseberry Weber |
+| 171 | 463 | Nicole Roseberry Weber |
+| 172 | 463 | Brandi Huntington |
 | 173 | 462 | Hasty Cascader |
 | 174 | 458 | Dizzy Slider |
 | 175 | 458 | Goose egg |
@@ -285,10 +285,10 @@
 | 277 | 336 | Sarah Roberts |
 | 278 | 336 | Adele Rahman |
 | 279 | 335 | Flashy Rotator |
-| 280 | 334 | Tipsy Builder |
-| 281 | 334 | Colleen Pinette |
-| 282 | 333 | Wayne Saunders |
-| 283 | 333 | Rodney Schmerfeld |
+| 280 | 334 | Colleen Pinette |
+| 281 | 334 | Tipsy Builder |
+| 282 | 333 | Rodney Schmerfeld |
+| 283 | 333 | Wayne Saunders |
 | 284 | 332 | Eddie Dillon |
 | 285 | 330 | Rebecca Apley Mielke |
 | 286 | 330 | Jeremy Maubert |
@@ -338,12 +338,12 @@
 | 330 | 292 | Clever Cascadepiece |
 | 331 | 291 | Toph |
 | 332 | 291 | Michael Espinosa Ulibarri Jr. |
-| 333 | 291 | Toph |
-| 334 | 290 | Tavia |
-| 335 | 290 | .running. |
+| 333 | 291 | Sir-Franchise Drake |
+| 334 | 290 | .running. |
+| 335 | 290 | Tavia |
 | 336 | 289 | Michael |
-| 337 | 289 | Speedy Snapfall |
-| 338 | 289 | Nate Price |
+| 337 | 289 | Nate Price |
+| 338 | 289 | Speedy Snapfall |
 | 339 | 288 | Tanya Banks |
 | 340 | 287 | Shanae Grant |
 | 341 | 287 | Itspaigebro |
@@ -373,8 +373,8 @@
 | 365 | 276 | Blake Mckay |
 | 366 | 274 | Allena Craft |
 | 367 | 274 | Danielle Mae |
-| 368 | 273 | Brandie Gallegos |
-| 369 | 273 | Nadine Velardo |
+| 368 | 273 | Nadine Velardo |
+| 369 | 273 | Brandie Gallegos |
 | 370 | 272 | Blaire Bruckoff |
 | 371 | 271 | Patty Lavigne Craddock |
 | 372 | 271 | Al Smith Jr |

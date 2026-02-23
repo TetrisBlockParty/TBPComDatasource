@@ -98,8 +98,8 @@
 | 90 | 783 | Denise Carlson |
 | 91 | 775 | TheNeesh50 |
 | 92 | 775 | Klo |
-| 93 | 768 | Judy Cox |
-| 94 | 768 | Trista Leah |
+| 93 | 768 | Trista Leah |
+| 94 | 768 | Judy Cox |
 | 95 | 768 | Lori Walker |
 | 96 | 767 | Shannon Ferrari |
 | 97 | 766 | Robin Watters |
@@ -170,15 +170,15 @@
 | 162 | 516 | Twisty Clicky |
 | 163 | 514 | Scott Jameson |
 | 164 | 513 | Erin Thomas |
-| 165 | 512 | Angela Srubar-Norman |
-| 166 | 512 | ThaEviLJeNiuZ |
+| 165 | 512 | ThaEviLJeNiuZ |
+| 166 | 512 | Angela Srubar-Norman |
 | 167 | 512 | Casey Jeffcoat |
 | 168 | 512 | Ellen Durfee |
 | 169 | 507 | Nick Gray |
 | 170 | 504 | Deanna Deckard |
 | 171 | 501 | Ericca Eldridge |
-| 172 | 499 | Andria Lynn |
-| 173 | 499 | Berklie Apedaile |
+| 172 | 499 | Berklie Apedaile |
+| 173 | 499 | Andria Lynn |
 | 174 | 497 | Brandon Crabbs |
 | 175 | 496 | Cindy Looper |
 | 176 | 492 | Rico |
@@ -197,8 +197,8 @@
 | 189 | 465 | Jolly Dashfit |
 | 190 | 464 | Sharyn Lemire |
 | 191 | 462 | Leslie Thomas |
-| 192 | 457 | Kristin Manee |
-| 193 | 457 | June Hoffman |
+| 192 | 457 | June Hoffman |
+| 193 | 457 | Kristin Manee |
 | 194 | 455 | Michele Plunkett |
 | 195 | 450 | Amanda Pauldo-Ivy |
 | 196 | 449 | Courtney Cicoria |
@@ -207,15 +207,15 @@
 | 199 | 444 | J-Rizzle |
 | 200 | 444 | Mylo Lipscomb |
 | 201 | 443 | Kristina Black |
-| 202 | 442 | SAP |
-| 203 | 442 | 🥔🥔 Spudz |
+| 202 | 442 | 🥔🥔 Spudz |
+| 203 | 442 | SAP |
 | 204 | 441 | George Nutt |
 | 205 | 440 | Mr. Party |
 | 206 | 438 | Melvin Baird |
 | 207 | 438 | Jen Mattei |
 | 208 | 434 | Ramel Rhodes |
-| 209 | 433 | Damn Libra |
-| 210 | 433 | Circuit8 |
+| 209 | 433 | Circuit8 |
+| 210 | 433 | Damn Libra |
 | 211 | 431 | Zesty Twistbuilder |
 | 212 | 427 | Steph Marie |
 | 213 | 427 | Chao Ma |
@@ -234,8 +234,8 @@
 | 226 | 409 | Antony Dwayne Beasley |
 | 227 | 403 | TinyLegoRose |
 | 228 | 400 | Brickh4us |
-| 229 | 399 | Lindsay Ball |
-| 230 | 399 | Jeff Brian Gates |
+| 229 | 399 | Jeff Brian Gates |
+| 230 | 399 | Lindsay Ball |
 | 231 | 398 | Tyler Terrific |
 | 232 | 395 | 030Synner |
 | 233 | 394 | Nita Wells |
