@@ -331,8 +331,8 @@
 | 323 | 833 | Cody Nishimura |
 | 324 | 833 | Moni Foxe |
 | 325 | 826 | Diallo Sparkman |
-| 326 | 824 | Khalil Lowe |
-| 327 | 824 | Danielle Johnson-Chandler |
+| 326 | 824 | Danielle Johnson-Chandler |
+| 327 | 824 | Khalil Lowe |
 | 328 | 821 | Cassie Mercer |
 | 329 | 821 | Angie Bolton Workman |
 | 330 | 820 | Julie Kresal |
@@ -665,8 +665,8 @@
 | 657 | 461 | Lucy Marshall |
 | 658 | 461 | ToShi |
 | 659 | 460 | LaWanda Powell |
-| 660 | 459 | Shyenn Gadsby |
-| 661 | 459 | Toni Whipple |
+| 660 | 459 | Toni Whipple |
+| 661 | 459 | Shyenn Gadsby |
 | 662 | 458 | Kia Humphery |
 | 663 | 457 | Jessica Lamb |
 | 664 | 456 | Sabrina Burton |
