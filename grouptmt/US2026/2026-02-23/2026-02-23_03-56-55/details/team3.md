@@ -250,8 +250,8 @@
 | 242 | 378 | Chris Bell |
 | 243 | 377 | Charles Perrone |
 | 244 | 374 | Rania Zaqout |
-| 245 | 372 | Rich LeBlanc |
-| 246 | 372 | Sarah Moyer |
+| 245 | 372 | Sarah Moyer |
+| 246 | 372 | Rich LeBlanc |
 | 247 | 371 | Marquita Sheard |
 | 248 | 371 | block chick |
 | 249 | 370 | Chummy Caster |
@@ -349,8 +349,8 @@
 | 341 | 276 | Ivan Del Toro |
 | 342 | 275 | Cassandra Bryant |
 | 343 | 275 | Antonia Russell |
-| 344 | 275 | Michael Lucado |
-| 345 | 275 | Nikki Pags |
+| 344 | 275 | Nikki Pags |
+| 345 | 275 | Michael Lucado |
 | 346 | 274 | Angela Scott |
 | 347 | 274 | Mary Giorgenti |
 | 348 | 273 | Brenda Schmid Wood |
@@ -377,8 +377,8 @@
 | 369 | 259 | Dana Winters |
 | 370 | 258 | IamJust Neyamijah Washington Sr. |
 | 371 | 257 | Rachel Grant |
-| 372 | 256 | Jul |
-| 373 | 256 | KayB |
+| 372 | 256 | KayB |
+| 373 | 256 | Jul |
 | 374 | 255 | Sharisse Baltimore |
 | 375 | 254 | Desiree Gold |
 | 376 | 254 | Blair Erin Waite |

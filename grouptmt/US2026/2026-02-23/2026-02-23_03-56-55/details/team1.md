@@ -46,8 +46,8 @@
 | 38 | 998 | Jorge Andrade |
 | 39 | 966 | Shalene Frederick Autrey |
 | 40 | 964 | Carrie Beck Geartz |
-| 41 | 953 | Hyp James NObettadanluvarat |
-| 42 | 953 | Derek MF Blakey |
+| 41 | 953 | Derek MF Blakey |
+| 42 | 953 | Hyp James NObettadanluvarat |
 | 43 | 945 | Amber Stoker |
 | 44 | 931 | Christina Costantino |
 | 45 | 919 | Chipper Gridlock |
@@ -160,8 +160,8 @@
 | 152 | 364 | Serina Marie |
 | 153 | 360 | Wisa |
 | 154 | 355 | Carrie Smith |
-| 155 | 353 | Josh Riemer |
-| 156 | 353 | Jaimie Lynn |
+| 155 | 353 | Jaimie Lynn |
+| 156 | 353 | Josh Riemer |
 | 157 | 350 | Tipsy Strikerpiece |
 | 158 | 348 | Ananda Mendez |
 | 159 | 346 | GATOR |
@@ -284,8 +284,8 @@
 | 276 | 223 | Christina Backer |
 | 277 | 223 | Erez Yosef |
 | 278 | 223 | Layzietyme |
-| 279 | 222 | Jessie Welch |
-| 280 | 222 | Debbie Davis |
+| 279 | 222 | Debbie Davis |
+| 280 | 222 | Jessie Welch |
 | 281 | 222 | Snappy Bridgepiece |
 | 282 | 221 | Amy Hess |
 | 283 | 221 | Spunky Builderpiece |
@@ -528,7 +528,7 @@
 | 520 | 131 | ESC |
 | 521 | 131 | Jason Landon Sexton |
 | 522 | 130 | Brandy Ann |
-| 523 | 130 | Shiny Brickclear |
+| 523 | 130 | MayMay Echevarria |
 | 524 | 130 | Rebecca Tanner |
 | 525 | 130 | Shiny Brickclear |
 | 526 | 129 | Lucinda Thacker |
