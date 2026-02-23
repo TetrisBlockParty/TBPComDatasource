@@ -197,8 +197,8 @@
 | 189 | 465 | Jolly Dashfit |
 | 190 | 464 | Sharyn Lemire |
 | 191 | 462 | Leslie Thomas |
-| 192 | 457 | June Hoffman |
-| 193 | 457 | Kristin Manee |
+| 192 | 457 | Kristin Manee |
+| 193 | 457 | June Hoffman |
 | 194 | 455 | Michele Plunkett |
 | 195 | 450 | Amanda Pauldo-Ivy |
 | 196 | 449 | Courtney Cicoria |
@@ -260,8 +260,8 @@
 | 252 | 369 | Rafael Valentin |
 | 253 | 368 | Kris Bartlett |
 | 254 | 367 | Meg |
-| 255 | 366 | Andrew Dang |
-| 256 | 366 | Cheery Risebuilder |
+| 255 | 366 | Cheery Risebuilder |
+| 256 | 366 | Andrew Dang |
 | 257 | 365 | Hyper Builder |
 | 258 | 363 | KimoKoala |
 | 259 | 361 | Danielle Kollias |

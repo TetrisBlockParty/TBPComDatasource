@@ -164,11 +164,11 @@
 | 156 | 497 | MIKOZ |
 | 157 | 494 | Sean Stallings |
 | 158 | 492 | Rebekah LeiAnn Bonsell |
-| 159 | 491 | cc |
-| 160 | 491 | Michelle Beres |
+| 159 | 491 | Michelle Beres |
+| 160 | 491 | cc |
 | 161 | 488 | Hyper |
-| 162 | 483 | Trina Gee |
-| 163 | 483 | Dandy Basegrid |
+| 162 | 483 | Dandy Basegrid |
+| 163 | 483 | Trina Gee |
 | 164 | 482 | Sarah Somers Gray |
 | 165 | 479 | Snappy Matcher |
 | 166 | 479 | Ly Phethmany |
@@ -176,8 +176,8 @@
 | 168 | 470 | Candy Jones |
 | 169 | 468 | Steve Schneider |
 | 170 | 464 | canbrick |
-| 171 | 463 | Nicole Roseberry Weber |
-| 172 | 463 | Brandi Huntington |
+| 171 | 463 | Brandi Huntington |
+| 172 | 463 | Nicole Roseberry Weber |
 | 173 | 462 | Hasty Cascader |
 | 174 | 458 | Goose egg |
 | 175 | 458 | Dizzy Slider |
@@ -475,9 +475,9 @@
 | 467 | 217 | Brave Slice |
 | 468 | 216 | Nicolette Ivory Chastain |
 | 469 | 216 | Shauntina Burke |
-| 470 | 215 | Quirky Pusher |
-| 471 | 215 | Natasha Hollowell Causey |
-| 472 | 215 | Liliana Pena |
+| 470 | 215 | Liliana Pena |
+| 471 | 215 | Quirky Pusher |
+| 472 | 215 | Natasha Hollowell Causey |
 | 473 | 215 | Aaron Green |
 | 474 | 214 | Amanda Marie Sutton |
 | 475 | 214 | Kayla Marie Stevenson |
@@ -502,8 +502,8 @@
 | 494 | 208 | ESC |
 | 495 | 207 | Leslie Bush Yarbrough |
 | 496 | 205 | Elizabeth Kubli |
-| 497 | 204 | Jill King Oldham |
-| 498 | 204 | Jason Cox |
+| 497 | 204 | Jason Cox |
+| 498 | 204 | Jill King Oldham |
 | 499 | 203 | Ashley Rodriguez |
 | 500 | 202 | Renee Tucker |
 | 501 | 202 | Barry Mac'Ockner |

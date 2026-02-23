@@ -166,8 +166,8 @@
 | 158 | 1949 | Angi Harrison |
 | 159 | 1932 | Gary Schaffner Jr. |
 | 160 | 1904 | Goofy Snapfit |
-| 161 | 1874 | Loopy Clusterbuilder |
-| 162 | 1874 | PsychKIRAtrist |
+| 161 | 1874 | PsychKIRAtrist |
+| 162 | 1874 | Loopy Clusterbuilder |
 | 163 | 1866 | Janel Turley-Garner |
 | 164 | 1845 | Jessie McDougald |
 | 165 | 1840 | blarg |
@@ -366,8 +366,8 @@
 | 358 | 1067 | Taylor Phillips |
 | 359 | 1067 | Caitlin Schmid |
 | 360 | 1067 | Bee |
-| 361 | 1065 | SaraMarie Eveland |
-| 362 | 1065 | Dany Murillo |
+| 361 | 1065 | Dany Murillo |
+| 362 | 1065 | SaraMarie Eveland |
 | 363 | 1059 | Bri Lynn |
 | 364 | 1058 | Tiffany Branham |
 | 365 | 1052 | Desiree Anderson |
@@ -376,8 +376,8 @@
 | 368 | 1045 | Lourisha |
 | 369 | 1045 | Jessica Wayne Cornwall |
 | 370 | 1043 | Brave Dropmatch |
-| 371 | 1042 | Spunkysmom |
-| 372 | 1042 | Mcintosh Brian Shalonda |
+| 371 | 1042 | Mcintosh Brian Shalonda |
+| 372 | 1042 | Spunkysmom |
 | 373 | 1039 | Crystal Hoffman |
 | 374 | 1038 | Sheronda Jackson |
 | 375 | 1036 | Allison Lockyer |

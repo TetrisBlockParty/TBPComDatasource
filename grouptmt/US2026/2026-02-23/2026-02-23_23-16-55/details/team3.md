@@ -271,8 +271,8 @@
 | 263 | 513 | PrncssPJ |
 | 264 | 513 | Lizabeth Fox |
 | 265 | 510 | Marquita Sheard |
-| 266 | 508 | joz |
-| 267 | 508 | rosy |
+| 266 | 508 | rosy |
+| 267 | 508 | joz |
 | 268 | 507 | Snappy Balancer |
 | 269 | 506 | Ammmmmmy |
 | 270 | 505 | Stephanie Simpson |
@@ -684,9 +684,9 @@
 | 676 | 230 | Melissa Sisk |
 | 677 | 230 | Tony Tran |
 | 678 | 230 | lydynred |
-| 679 | 229 | MizzMonick Smith |
-| 680 | 229 | Slick Sally |
-| 681 | 229 | Everret Maxine |
+| 679 | 229 | Slick Sally |
+| 680 | 229 | MizzMonick Smith |
+| 681 | 229 | Silly Curvetile |
 | 682 | 229 | Flashy Rumbler |
 | 683 | 229 | Everret Maxine |
 | 684 | 228 | JoVanna Dobbs |
