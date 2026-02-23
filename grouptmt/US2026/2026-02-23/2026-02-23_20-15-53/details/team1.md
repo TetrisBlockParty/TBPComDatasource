@@ -312,8 +312,8 @@
 | 304 | 298 | Sweetts |
 | 305 | 298 | Kimberly Davis |
 | 306 | 297 | Diane Byrd |
-| 307 | 294 | Chummy Rollblock |
-| 308 | 294 | Наталья Солоид |
+| 307 | 294 | Наталья Солоид |
+| 308 | 294 | Chummy Rollblock |
 | 309 | 293 | Garrett Burket |
 | 310 | 292 | Damian Salem |
 | 311 | 292 | Clever Cascadepiece |
