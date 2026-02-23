@@ -26,8 +26,8 @@
 | 18 | 1636 | Cassie Michaux |
 | 19 | 1565 | GreenJeepGirl |
 | 20 | 1558 | Leah Gorsuch |
-| 21 | 1536 | Roger Coulter |
-| 22 | 1536 | Misty Hollibaugh |
+| 21 | 1536 | Misty Hollibaugh |
+| 22 | 1536 | Roger Coulter |
 | 23 | 1485 | Juggalo |
 | 24 | 1390 | Sammy Noguera |
 | 25 | 1382 | Tammi Crnza |
@@ -55,8 +55,8 @@
 | 47 | 938 | Denny Shives |
 | 48 | 936 | Rebecca Moulton Pinciaro |
 | 49 | 932 | Marvin Lou Martin |
-| 50 | 911 | Jeremy Steines |
-| 51 | 911 | Anthony Bryan Riva |
+| 50 | 911 | Anthony Bryan Riva |
+| 51 | 911 | Jeremy Steines |
 | 52 | 870 | BertMofo |
 | 53 | 864 | Shelly Chandler |
 | 54 | 863 | Pee |
@@ -76,8 +76,8 @@
 | 68 | 766 | Robin Watters |
 | 69 | 765 | Robin Getchel |
 | 70 | 765 | Denise Carlson |
-| 71 | 752 | loulou |
-| 72 | 752 | Shane Kalamata Platoon |
+| 71 | 752 | Shane Kalamata Platoon |
+| 72 | 752 | loulou |
 | 73 | 749 | Dustee Craddock-Harrison |
 | 74 | 742 | Carolyn Wallace |
 | 75 | 740 | Avy Absol |
@@ -187,8 +187,8 @@
 | 179 | 352 | Sue Joyce Staats |
 | 180 | 349 | Rafael Valentin |
 | 181 | 348 | April Rondinone |
-| 182 | 347 | Daria Rycewicz |
-| 183 | 347 | Crystal Nicolette Moore |
+| 182 | 347 | Crystal Nicolette Moore |
+| 183 | 347 | Daria Rycewicz |
 | 184 | 346 | Mylo Lipscomb |
 | 185 | 339 | David Lay |
 | 186 | 336 | Bio Nelly |
@@ -197,8 +197,8 @@
 | 189 | 333 | shark tato |
 | 190 | 332 | HastyGrabber |
 | 191 | 330 | Kathy Brookins |
-| 192 | 329 | Sam Bishop |
-| 193 | 329 | Antony Dwayne Beasley |
+| 192 | 329 | Antony Dwayne Beasley |
+| 193 | 329 | Sam Bishop |
 | 194 | 328 | scott |
 | 195 | 327 | J-Rizzle |
 | 196 | 324 | jim |
@@ -206,8 +206,8 @@
 | 198 | 320 | Lauren Scott |
 | 199 | 318 | Chris Hartig |
 | 200 | 316 | Autumn Kumzi |
-| 201 | 312 | Dihcheese444 |
-| 202 | 312 | Casey Grabner |
+| 201 | 312 | Casey Grabner |
+| 202 | 312 | Dihcheese444 |
 | 203 | 311 | Mary Ann Pabukis |
 | 204 | 310 | Holly Jolly |
 | 205 | 307 | Cheery Risebuilder |
@@ -300,8 +300,8 @@
 | 292 | 227 | Jason Bosco |
 | 293 | 226 | Nubian1 |
 | 294 | 226 | Dizzy Matchzone |
-| 295 | 225 | Ernest Maxwell |
-| 296 | 225 | Jenna McGeorge |
+| 295 | 225 | Jenna McGeorge |
+| 296 | 225 | Ernest Maxwell |
 | 297 | 224 | Ultramarine |
 | 298 | 223 | Adawna Swires |
 | 299 | 223 | Amanda Christine |
@@ -348,8 +348,8 @@
 | 340 | 200 | Googenheim |
 | 341 | 199 | Paige Kittles |
 | 342 | 198 | Calvin Dennis |
-| 343 | 196 | Megan Cutshaw |
-| 344 | 196 | Blessedmama |
+| 343 | 196 | Blessedmama |
+| 344 | 196 | Megan Cutshaw |
 | 345 | 195 | Dustin York |
 | 346 | 194 | Zany Twisterfit |
 | 347 | 194 | SammieJo Guy |
@@ -510,9 +510,9 @@
 | 502 | 142 | Katie Linneman-Rowland |
 | 503 | 142 | Bigeddie |
 | 504 | 142 | Peace |
-| 505 | 141 | Red |
-| 506 | 141 | Lori Goudy |
-| 507 | 140 | Thomas Hettenhaus |
+| 505 | 141 | Lori Goudy |
+| 506 | 141 | Red |
+| 507 | 140 | Sunny Filler |
 | 508 | 140 | Smiley Tiltbuilder |
 | 509 | 140 | Thomas Hettenhaus |
 | 510 | 139 | tipsy tiger |

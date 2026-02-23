@@ -113,8 +113,8 @@
 | 105 | 869 | Araceli Parra |
 | 106 | 868 | Sarajane Lokan |
 | 107 | 860 | Sunny Rotater |
-| 108 | 851 | Danielle Becker |
-| 109 | 851 | Jd Morris |
+| 108 | 851 | Jd Morris |
+| 109 | 851 | Danielle Becker |
 | 110 | 850 | Danielle Mogg |
 | 111 | 848 | Patricia Gadsden |
 | 112 | 831 | Angeline Joseph |
@@ -128,14 +128,14 @@
 | 120 | 769 | Kristie |
 | 121 | 764 | Groovy Catcher |
 | 122 | 762 | Speedy Bridger |
-| 123 | 752 | Logan Naccarato |
-| 124 | 752 | Raya |
+| 123 | 752 | Raya |
+| 124 | 752 | Logan Naccarato |
 | 125 | 748 | Adrian Marcel Pate |
 | 126 | 745 | JerseyJess |
 | 127 | 744 | Leah Barnett |
 | 128 | 744 | Fancy Cascader |
-| 129 | 736 | Katrina Schroeder |
-| 130 | 736 | mzcatzy |
+| 129 | 736 | mzcatzy |
+| 130 | 736 | Katrina Schroeder |
 | 131 | 734 | Calista Jo Dickson |
 | 132 | 728 | Peppy Shifter |
 | 133 | 727 | Hasty Cascadefit |
@@ -199,8 +199,8 @@
 | 191 | 528 | Silly Twist |
 | 192 | 525 | Stephanie Blkpep Davidson |
 | 193 | 524 | Bmo |
-| 194 | 519 | Terry Jo Jones |
-| 195 | 519 | rnr junky |
+| 194 | 519 | rnr junky |
+| 195 | 519 | Terry Jo Jones |
 | 196 | 515 | Cozy Snaplink |
 | 197 | 508 | Makelini Mausia |
 | 198 | 502 | Snappy Balancer |
@@ -283,8 +283,8 @@
 | 275 | 354 | Roary Danner |
 | 276 | 354 | Andrew Thorson |
 | 277 | 354 | Kelly |
-| 278 | 353 | Dee Franklin |
-| 279 | 353 | Cyd061769 |
+| 278 | 353 | Cyd061769 |
+| 279 | 353 | Dee Franklin |
 | 280 | 352 | Christian Werndl |
 | 281 | 351 | Blocked |
 | 282 | 351 | Eon Harris |
@@ -360,11 +360,11 @@
 | 352 | 286 | Micayah Stevens |
 | 353 | 284 | Hanna Kim |
 | 354 | 283 | Kaycee Kay |
-| 355 | 280 | ROODBOY |
-| 356 | 280 | Aerian Preston |
+| 355 | 280 | Aerian Preston |
+| 356 | 280 | ROODBOY |
 | 357 | 280 | Dirtgirl27 |
-| 358 | 279 | Naur |
-| 359 | 279 | Tosha Griffey |
+| 358 | 279 | Tosha Griffey |
+| 359 | 279 | Naur |
 | 360 | 278 | Rufus Lincoln |
 | 361 | 277 | Krystal Gerstberger |
 | 362 | 277 | Joe-Maggie Mathews |
@@ -384,8 +384,8 @@
 | 376 | 272 | Tay |
 | 377 | 272 | Romeo |
 | 378 | 269 | Samantha Worley |
-| 379 | 269 | Juliana Dottore |
-| 380 | 269 | Jess Bissett |
+| 379 | 269 | Jess Bissett |
+| 380 | 269 | Juliana Dottore |
 | 381 | 269 | Goofy Fall |
 | 382 | 268 | Jessica Lynn French |
 | 383 | 267 | April Matthew Kibble |
@@ -399,12 +399,12 @@
 | 391 | 263 | Jimmie Clemons |
 | 392 | 263 | Erika Thornton |
 | 393 | 261 | Swanky Snapclear |
-| 394 | 260 | Tracey Cox |
-| 395 | 260 | Alice |
+| 394 | 260 | Alice |
+| 395 | 260 | Tracey Cox |
 | 396 | 259 | JessDrown |
-| 397 | 259 | Dana Winters |
+| 397 | 259 | Tegan Chapman |
 | 398 | 259 | Shania Vaine |
-| 399 | 259 | Tegan Chapman |
+| 399 | 259 | Dana Winters |
 | 400 | 258 | IamJust Neyamijah Washington Sr. |
 | 401 | 257 | Rachel Grant |
 | 402 | 257 | Chris Wallace |
@@ -516,11 +516,11 @@
 | 508 | 209 | TazB |
 | 509 | 208 | Jessica Christian |
 | 510 | 208 | Luccy Luxe |
-| 511 | 207 | Misstery |
-| 512 | 207 | Nichol Graham |
+| 511 | 207 | Nichol Graham |
+| 512 | 207 | Misstery |
 | 513 | 206 | Tammy Rosenberry |
 | 514 | 206 | Dakota Graham |
-| 515 | 205 | Rachel Napper |
+| 515 | 205 | Bouncy Blockbuilder |
 | 516 | 205 | Emberblaze |
 | 517 | 205 | Rachel Napper |
 | 518 | 204 | Lesley Perez |
@@ -534,7 +534,7 @@
 | 526 | 200 | glichmod |
 | 527 | 200 | Christina Marie Swisher |
 | 528 | 199 | PrncssPJ |
-| 529 | 199 | Christine Foley |
+| 529 | 199 | Cheeky Setter |
 | 530 | 199 | Sunny Lift |
 | 531 | 199 | Christine Foley |
 | 532 | 198 | momo |
@@ -610,10 +610,10 @@
 | 602 | 179 | Alexi Pryor |
 | 603 | 179 | Ruchi Smit |
 | 604 | 178 | Jillian Ann |
-| 605 | 178 | Stephanie Sanchez |
-| 606 | 178 | Draone Grayson |
-| 607 | 178 | Melissa Snyder |
-| 608 | 178 | Kathleen Taylor |
+| 605 | 178 | Draone Grayson |
+| 606 | 178 | Kathleen Taylor |
+| 607 | 178 | Stephanie Sanchez |
+| 608 | 178 | Melissa Snyder |
 | 609 | 177 | Elizabeth Renee |
 | 610 | 177 | Anna Moeller |
 | 611 | 177 | Matty Ray |
