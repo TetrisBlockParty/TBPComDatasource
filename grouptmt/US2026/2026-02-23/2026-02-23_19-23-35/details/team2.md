@@ -228,8 +228,8 @@
 | 220 | 1418 | L3sli3 |
 | 221 | 1418 | Poppy Snap |
 | 222 | 1408 | Becca Widmer |
-| 223 | 1397 | Matthew Joseph Acevedo |
-| 224 | 1397 | Joyce Johnson Vaughn |
+| 223 | 1397 | Joyce Johnson Vaughn |
+| 224 | 1397 | Matthew Joseph Acevedo |
 | 225 | 1396 | Julay |
 | 226 | 1395 | Katrina Weston |
 | 227 | 1393 | Samantha Roberts |
@@ -766,8 +766,8 @@
 | 758 | 553 | De Hawkins |
 | 759 | 553 | ruth |
 | 760 | 552 | Epic Fitzone |
-| 761 | 552 | Jenelle Case |
-| 762 | 552 | Veronics |
+| 761 | 552 | Veronics |
+| 762 | 552 | Jenelle Case |
 | 763 | 551 | Yoan Boulanger |
 | 764 | 551 | B |
 | 765 | 551 | Matt Johnson |
@@ -828,8 +828,8 @@
 | 820 | 522 | Snippy Rumbler |
 | 821 | 522 | Ryan Parson |
 | 822 | 522 | Kathleen Driskell |
-| 823 | 521 | Jason Kelly |
-| 824 | 521 | Shea Edison |
+| 823 | 521 | Shea Edison |
+| 824 | 521 | Jason Kelly |
 | 825 | 521 | Juanita Lyons |
 | 826 | 520 | Antonio Mckoy Sr. |
 | 827 | 519 | Saucy Fitzone |

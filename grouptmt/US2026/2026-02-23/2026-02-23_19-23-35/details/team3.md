@@ -90,8 +90,8 @@
 | 82 | 1244 | Lori Barnaby |
 | 83 | 1240 | Betty Ivy |
 | 84 | 1221 | Logan Naccarato |
-| 85 | 1213 | Snappy Glidepiece |
-| 86 | 1213 | Nerdy Riseclear |
+| 85 | 1213 | Nerdy Riseclear |
+| 86 | 1213 | Snappy Glidepiece |
 | 87 | 1212 | Amanda Adkins |
 | 88 | 1187 | Danielle Mogg |
 | 89 | 1186 | Christian A. Pollard |
@@ -352,15 +352,15 @@
 | 344 | 367 | Swanky Snapclear |
 | 345 | 366 | KayB |
 | 346 | 366 | Jul |
-| 347 | 365 | LaShey Thompson |
-| 348 | 365 | Breanna Marsden |
+| 347 | 365 | Breanna Marsden |
+| 348 | 365 | LaShey Thompson |
 | 349 | 364 | ROODBOY |
 | 350 | 362 | Foltz Lee Kelli |
-| 351 | 362 | Chummy Rumbler |
-| 352 | 362 | Brandon Givens |
+| 351 | 362 | Brandon Givens |
+| 352 | 362 | Chummy Rumbler |
 | 353 | 361 | neci |
-| 354 | 359 | Kristen Weese |
-| 355 | 359 | Steven Fulater |
+| 354 | 359 | Steven Fulater |
+| 355 | 359 | Kristen Weese |
 | 356 | 358 | Heather Davis |
 | 357 | 356 | Alexmac |
 | 358 | 356 | Tony Waters |
@@ -399,8 +399,8 @@
 | 391 | 330 | angieelyn |
 | 392 | 330 | Big T |
 | 393 | 328 | Krystal Gerstberger |
-| 394 | 328 | Cesar Mendez |
-| 395 | 328 | Desiree Soto |
+| 394 | 328 | Desiree Soto |
+| 395 | 328 | Cesar Mendez |
 | 396 | 327 | Tiffanie Alley |
 | 397 | 327 | Jimmie Clemons |
 | 398 | 326 | Nelma |
