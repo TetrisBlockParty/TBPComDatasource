@@ -283,8 +283,8 @@
 | 275 | 977 | Osun Anuket Esu |
 | 276 | 976 | Sam Joe |
 | 277 | 972 | Della Hole |
-| 278 | 972 | Barbra Miller |
-| 279 | 972 | Juliana Marques Do Nascimento Gordy |
+| 278 | 972 | Juliana Marques Do Nascimento Gordy |
+| 279 | 972 | Barbra Miller |
 | 280 | 966 | Kara Gillen |
 | 281 | 964 | Missie Lawson Gebhardt |
 | 282 | 963 | Binyah-Binyah |

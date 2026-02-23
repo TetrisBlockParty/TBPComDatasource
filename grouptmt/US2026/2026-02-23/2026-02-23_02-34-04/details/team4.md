@@ -116,8 +116,8 @@
 | 108 | 513 | shar |
 | 109 | 513 | Erin Thomas |
 | 110 | 513 | YoMomma |
-| 111 | 512 | Cristy Duerksen |
-| 112 | 512 | Casey Jeffcoat |
+| 111 | 512 | Casey Jeffcoat |
+| 112 | 512 | Cristy Duerksen |
 | 113 | 511 | Lori Walker |
 | 114 | 510 | Scott Jameson |
 | 115 | 499 | Christina LR |
@@ -159,8 +159,8 @@
 | 151 | 387 | Lucas J Sutton |
 | 152 | 387 | 🥔🥔 Spudz |
 | 153 | 377 | Carrie Brian |
-| 154 | 375 | Desi Desporte |
-| 155 | 375 | ThaEviLJeNiuZ |
+| 154 | 375 | ThaEviLJeNiuZ |
+| 155 | 375 | Desi Desporte |
 | 156 | 374 | Guy Incognito |
 | 157 | 373 | Tyler Terrific |
 | 158 | 370 | Oscar Alberto Perez |
@@ -238,17 +238,17 @@
 | 230 | 264 | Carlos Ramirez |
 | 231 | 261 | JPW |
 | 232 | 260 | Selena Shaw |
-| 233 | 259 | Montiette Mcglown |
-| 234 | 259 | Cheery Risebuilder |
+| 233 | 259 | Cheery Risebuilder |
+| 234 | 259 | Montiette Mcglown |
 | 235 | 258 | Stella |
 | 236 | 257 | PeaceOs |
 | 237 | 256 | Mylo Lipscomb |
 | 238 | 253 | Autum Leigh |
 | 239 | 251 | Carol Ricks Raymond |
 | 240 | 249 | Ak Jones |
-| 241 | 248 | Metsfan |
+| 241 | 248 | Chirpy Basepiece |
 | 242 | 248 | Jose Dejesus |
-| 243 | 248 | Chirpy Basepiece |
+| 243 | 248 | Metsfan |
 | 244 | 246 | Zethra Prenisha Rahming |
 | 245 | 245 | 23 |
 | 246 | 244 | Christina Black |
@@ -324,8 +324,8 @@
 | 316 | 194 | SammieJo Guy |
 | 317 | 192 | Jackie Marie |
 | 318 | 192 | Twisty Risebuilder |
-| 319 | 191 | Earnest Thompson |
-| 320 | 191 | Norman Klick |
+| 319 | 191 | Norman Klick |
+| 320 | 191 | Earnest Thompson |
 | 321 | 190 | wombat |
 | 322 | 189 | Berklie Apedaile |
 | 323 | 187 | Cynthia Boudreau |

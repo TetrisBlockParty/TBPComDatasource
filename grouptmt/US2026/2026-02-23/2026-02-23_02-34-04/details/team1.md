@@ -86,8 +86,8 @@
 | 78 | 584 | Jen Sartain |
 | 79 | 582 | Plucky Fallzone |
 | 80 | 570 | Cody Slav |
-| 81 | 569 | Theo Pinnow |
-| 82 | 569 | Greg Hart |
+| 81 | 569 | Greg Hart |
+| 82 | 569 | Theo Pinnow |
 | 83 | 566 | Cynthia Bradley |
 | 84 | 558 | Aaron Garnett |
 | 85 | 535 | Denice Dee |
@@ -104,8 +104,8 @@
 | 96 | 492 | Ash Galvan |
 | 97 | 489 | Deanna L Hermanson |
 | 98 | 486 | Tater |
-| 99 | 483 | cc |
-| 100 | 483 | Tdub |
+| 99 | 483 | Tdub |
+| 100 | 483 | cc |
 | 101 | 477 | April Carroll |
 | 102 | 472 | Hasbro Bros |
 | 103 | 462 | Luciano Moreira |
@@ -162,8 +162,8 @@
 | 154 | 343 | Chelsea Dahlquist |
 | 155 | 343 | Elaine Elaine |
 | 156 | 342 | Rachael |
-| 157 | 341 | Shiny Snapfit |
-| 158 | 341 | Nick R Montague |
+| 157 | 341 | Nick R Montague |
+| 158 | 341 | Shiny Snapfit |
 | 159 | 338 | Jennifer Hardman |
 | 160 | 337 | Nicole Roseberry Weber |
 | 161 | 337 | Jamise Brown |
@@ -246,10 +246,10 @@
 | 238 | 252 | Dena Kayy |
 | 239 | 251 | MRdot Rooski |
 | 240 | 247 | Brenda Alexander |
-| 241 | 245 | Matt Iaccheo |
-| 242 | 245 | LaFontaine Leslie |
-| 243 | 244 | Eddie Dillon |
-| 244 | 244 | Sarah Somers Gray |
+| 241 | 245 | LaFontaine Leslie |
+| 242 | 245 | Matt Iaccheo |
+| 243 | 244 | Sarah Somers Gray |
+| 244 | 244 | Eddie Dillon |
 | 245 | 242 | ParisandCory Champagne |
 | 246 | 241 | Tyler Hertzog |
 | 247 | 240 | DaRascal |

@@ -26,8 +26,8 @@
 | 18 | 2697 | River |
 | 19 | 2494 | Ashley Jones |
 | 20 | 2302 | Laura Melton |
-| 21 | 2287 | Brandon Green |
-| 22 | 2287 | Tetris Master |
+| 21 | 2287 | Tetris Master |
+| 22 | 2287 | Brandon Green |
 | 23 | 2237 | Susan Valentino |
 | 24 | 2144 | Zippy Strikesnap |
 | 25 | 2015 | Chummy Shatterer |
@@ -289,8 +289,8 @@
 | 281 | 325 | Tasha Wesson-Torrence |
 | 282 | 324 | Sissy Lowery Davis |
 | 283 | 322 | Nena Somerville Kelly |
-| 284 | 320 | Or Reznitsky |
-| 285 | 320 | Ashley Muncey |
+| 284 | 320 | Ashley Muncey |
+| 285 | 320 | Or Reznitsky |
 | 286 | 312 | Twisty Brick LT |
 | 287 | 312 | LadyTorad |
 | 288 | 309 | Felicia Rocha |
