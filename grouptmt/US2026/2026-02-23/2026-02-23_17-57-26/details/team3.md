@@ -88,8 +88,8 @@
 | 80 | 1258 | Shari Garber |
 | 81 | 1244 | Lori Barnaby |
 | 82 | 1221 | Betty Ivy |
-| 83 | 1213 | Nerdy Riseclear |
-| 84 | 1213 | Snappy Glidepiece |
+| 83 | 1213 | Snappy Glidepiece |
+| 84 | 1213 | Nerdy Riseclear |
 | 85 | 1212 | Amanda Adkins |
 | 86 | 1186 | Christian A. Pollard |
 | 87 | 1158 | Danielle Mogg |
@@ -148,8 +148,8 @@
 | 140 | 776 | Tasha Schriewer |
 | 141 | 773 | Daira Largen |
 | 142 | 770 | Daryn Elliott |
-| 143 | 764 | Hasty Cascadefit |
-| 144 | 764 | Groovy Catcher |
+| 143 | 764 | Groovy Catcher |
+| 144 | 764 | Hasty Cascadefit |
 | 145 | 759 | yoyo |
 | 146 | 757 | Fancy Cascader |
 | 147 | 756 | Patty Allen |
@@ -499,8 +499,8 @@
 | 491 | 268 | Rainbow77375 |
 | 492 | 267 | Omega |
 | 493 | 267 | April Matthew Kibble |
-| 494 | 266 | Sarah Mayson |
-| 495 | 266 | Quirky Dropzone |
+| 494 | 266 | Quirky Dropzone |
+| 495 | 266 | Sarah Mayson |
 | 496 | 266 | Reina Roth |
 | 497 | 265 | Danielle Dani |
 | 498 | 264 | Colton |
@@ -514,8 +514,8 @@
 | 506 | 260 | Alice |
 | 507 | 260 | Tracey Cox |
 | 508 | 259 | Shania Vaine |
-| 509 | 258 | Paul Daniel Quertermous |
-| 510 | 258 | Jolly Brick |
+| 509 | 258 | Jolly Brick |
+| 510 | 258 | Paul Daniel Quertermous |
 | 511 | 258 | Jl |
 | 512 | 257 | Jana Polk |
 | 513 | 257 | Saucy Buildout |
@@ -574,9 +574,9 @@
 | 566 | 237 | Boldy Corner |
 | 567 | 237 | Mana |
 | 568 | 236 | Alexis Ford |
-| 569 | 236 | Tia Moore |
-| 570 | 236 | Zac Hudak |
-| 571 | 236 | Frothy Snapper |
+| 569 | 236 | Frothy Snapper |
+| 570 | 236 | Tia Moore |
+| 571 | 236 | Zac Hudak |
 | 572 | 234 | Cheeky Twisterfit |
 | 573 | 234 | Christopher Mastropietro |
 | 574 | 234 | Christen Cannon Layhew |

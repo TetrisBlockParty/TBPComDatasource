@@ -56,9 +56,9 @@
 | 48 | 1147 | Jae Job |
 | 49 | 1099 | Ashley Ingram |
 | 50 | 1085 | Kimyatta Cavin |
-| 51 | 1082 | Dion Crommarty |
-| 52 | 1082 | Dawn Alexander |
-| 53 | 1082 | Avy Absol |
+| 51 | 1082 | Dawn Alexander |
+| 52 | 1082 | Avy Absol |
+| 53 | 1082 | Dion Crommarty |
 | 54 | 1049 | Heather Tushner |
 | 55 | 1046 | Johnathan Martinez |
 | 56 | 1030 | Dustee Craddock-Harrison |
@@ -155,8 +155,8 @@
 | 147 | 508 | Twisty Clicky |
 | 148 | 507 | ThaEviLJeNiuZ |
 | 149 | 502 | Ellen Durfee |
-| 150 | 498 | Melissa Adams |
-| 151 | 498 | Nope Young |
+| 150 | 498 | Nope Young |
+| 151 | 498 | Melissa Adams |
 | 152 | 497 | Ericca Eldridge |
 | 153 | 496 | Jessica Lynn Cutlip |
 | 154 | 489 | Kim Hunt |
@@ -234,8 +234,8 @@
 | 226 | 361 | Mimi |
 | 227 | 361 | Rafael Valentin |
 | 228 | 361 | Danielle Kollias |
-| 229 | 358 | Twisty Cascadezone |
-| 230 | 358 | A5! |
+| 229 | 358 | A5! |
+| 230 | 358 | Twisty Cascadezone |
 | 231 | 357 | KimoKoala |
 | 232 | 356 | Joeliecea Cobb |
 | 233 | 355 | James Hurley Jr. |
@@ -429,17 +429,17 @@
 | 421 | 210 | Jessica Atkinson |
 | 422 | 210 | Cool Gridzone |
 | 423 | 210 | Vanessa Smart |
-| 424 | 209 | Snippy Puzzle |
+| 424 | 209 | PennyCandee |
 | 425 | 209 | Marcus Todd |
-| 426 | 209 | PennyCandee |
+| 426 | 209 | Snippy Puzzle |
 | 427 | 209 | Matthew Pate |
 | 428 | 208 | Wacky Blockclear |
 | 429 | 207 | Sam Middleton |
 | 430 | 207 | Jessica Wells |
 | 431 | 206 | The Murphy |
-| 432 | 206 | Dorian |
-| 433 | 206 | Lilya Troutman |
-| 434 | 206 | Sticherella |
+| 432 | 206 | Lilya Troutman |
+| 433 | 206 | Sticherella |
+| 434 | 206 | Dorian |
 | 435 | 205 | KayM |
 | 436 | 205 | Sallie Sanborn |
 | 437 | 205 | Mackenzie Forrester |
@@ -524,8 +524,8 @@
 | 516 | 172 | Brandon Link |
 | 517 | 172 | Christine Simmons |
 | 518 | 171 | Terrance Fung |
-| 519 | 171 | Dapper Balancer |
-| 520 | 171 | Walter Beltran |
+| 519 | 171 | Walter Beltran |
+| 520 | 171 | Dapper Balancer |
 | 521 | 170 | Elie Pean |
 | 522 | 170 | Peppy Drop |
 | 523 | 170 | Bigeddie |
@@ -599,8 +599,8 @@
 | 591 | 144 | Bumpy Morris |
 | 592 | 144 | KyngKliff |
 | 593 | 143 | Sherri |
-| 594 | 142 | Hyper Matchclear |
-| 595 | 142 | GTxIrishman |
+| 594 | 142 | GTxIrishman |
+| 595 | 142 | Hyper Matchclear |
 | 596 | 142 | Frank Cook |
 | 597 | 142 | Katie Linneman-Rowland |
 | 598 | 142 | Peace |
