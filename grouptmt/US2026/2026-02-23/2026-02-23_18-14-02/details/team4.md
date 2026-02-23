@@ -525,10 +525,10 @@
 | 517 | 172 | Linda Alexander Downing |
 | 518 | 172 | Christine Simmons |
 | 519 | 171 | Terrance Fung |
-| 520 | 171 | Walter Beltran |
-| 521 | 171 | Dapper Balancer |
-| 522 | 170 | Peppy Drop |
-| 523 | 170 | Elie Pean |
+| 520 | 171 | Dapper Balancer |
+| 521 | 171 | Walter Beltran |
+| 522 | 170 | Elie Pean |
+| 523 | 170 | Peppy Drop |
 | 524 | 170 | Joshua W. Benton |
 | 525 | 170 | Bigeddie |
 | 526 | 169 | Frances Hui |
@@ -569,8 +569,8 @@
 | 561 | 157 | LunaMoon |
 | 562 | 157 | David Boggs |
 | 563 | 156 | Nicole McMurray |
-| 564 | 155 | Stormy Tomplait |
-| 565 | 155 | Shirl |
+| 564 | 155 | Shirl |
+| 565 | 155 | Stormy Tomplait |
 | 566 | 155 | Faja |
 | 567 | 154 | Marcela Johnson |
 | 568 | 154 | Ashley Danielle |

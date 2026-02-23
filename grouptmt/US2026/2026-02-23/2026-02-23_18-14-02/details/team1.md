@@ -47,8 +47,8 @@
 | 39 | 1128 | june october |
 | 40 | 1126 | Tater |
 | 41 | 1117 | Marianne Louise West |
-| 42 | 1114 | Jayme Sellers |
-| 43 | 1114 | Andrea Dañielle Ortiz |
+| 42 | 1114 | Andrea Dañielle Ortiz |
+| 43 | 1114 | Jayme Sellers |
 | 44 | 1112 | Chipper Gridlock |
 | 45 | 1100 | Derek MF Blakey |
 | 46 | 1092 | Tipsy Column |
@@ -73,8 +73,8 @@
 | 65 | 916 | Jacqueline Williams |
 | 66 | 899 | Fmp |
 | 67 | 898 | Dawn Sheppard |
-| 68 | 892 | Ashley Elizabeth |
-| 69 | 892 | Seth Wesson |
+| 68 | 892 | Seth Wesson |
+| 69 | 892 | Ashley Elizabeth |
 | 70 | 870 | comrade fish |
 | 71 | 865 | Erin Hodges Plumb |
 | 72 | 864 | Sevens4L |
@@ -135,8 +135,8 @@
 | 127 | 519 | April Carroll |
 | 128 | 518 | Rachael |
 | 129 | 514 | Tanya Carpenter-Reynolds |
-| 130 | 513 | Sweet Baker |
-| 131 | 513 | Colena Davenport |
+| 130 | 513 | Colena Davenport |
+| 131 | 513 | Sweet Baker |
 | 132 | 512 | BadG52 |
 | 133 | 511 | MomMom |
 | 134 | 502 | Anaid Sanchez |
@@ -168,16 +168,16 @@
 | 160 | 450 | lil mickey |
 | 161 | 446 | SkipTheSadSauce |
 | 162 | 444 | Dandy Basegrid |
-| 163 | 440 | Kimmie Kimms |
-| 164 | 440 | Timothy Danaher |
+| 163 | 440 | Timothy Danaher |
+| 164 | 440 | Kimmie Kimms |
 | 165 | 434 | Yvonne Marie |
 | 166 | 428 | Amanda Jarnagin |
 | 167 | 427 | Hasty Cascader |
 | 168 | 426 | Maria C. Hernandez |
 | 169 | 425 | Tyler Werts |
 | 170 | 424 | Emily Adelaide Wheatley |
-| 171 | 417 | Jessie Lynn |
-| 172 | 417 | Kimberly Garcia |
+| 171 | 417 | Kimberly Garcia |
+| 172 | 417 | Jessie Lynn |
 | 173 | 416 | Jessica Sheehan |
 | 174 | 415 | Jennifer Hardman |
 | 175 | 414 | Chelsea Dahlquist |
@@ -185,8 +185,8 @@
 | 177 | 410 | Mike Ames |
 | 178 | 408 | John J. Cronin |
 | 179 | 407 | Tipsy Riseclear |
-| 180 | 404 | Basment Living |
-| 181 | 404 | Tawnya Peltonen |
+| 180 | 404 | Tawnya Peltonen |
+| 181 | 404 | Basment Living |
 | 182 | 403 | Tana |
 | 183 | 402 | Chris K |
 | 184 | 399 | phrmblk24 |

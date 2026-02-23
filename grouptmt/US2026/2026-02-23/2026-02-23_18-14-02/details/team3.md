@@ -224,8 +224,8 @@
 | 216 | 549 | Sarah Cowan Burgos |
 | 217 | 548 | Danielle Balcom |
 | 218 | 547 | Staci George Fitzsimmons |
-| 219 | 546 | Mykal Burton |
-| 220 | 546 | Cynthia Castros-Hampton |
+| 219 | 546 | Cynthia Castros-Hampton |
+| 220 | 546 | Mykal Burton |
 | 221 | 545 | Trisha Balmer |
 | 222 | 539 | Betty Bóò |
 | 223 | 538 | Annie Déè |
@@ -240,7 +240,7 @@
 | 232 | 519 | Nichol Graham |
 | 233 | 516 | Daring Brickzone |
 | 234 | 515 | Cozy Snaplink |
-| 235 | 513 | kacihall |
+| 235 | 513 | Twisty Brick LT |
 | 236 | 513 | Lizabeth Fox |
 | 237 | 513 | kacihall |
 | 238 | 508 | joz |
