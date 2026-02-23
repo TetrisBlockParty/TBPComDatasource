@@ -57,8 +57,8 @@
 | 49 | 863 | Pee |
 | 50 | 855 | Marvin Lou Martin |
 | 51 | 853 | TeeJ |
-| 52 | 846 | Christine Marie |
-| 53 | 846 | Lucille Truesdale |
+| 52 | 846 | Lucille Truesdale |
+| 53 | 846 | Christine Marie |
 | 54 | 845 | LisaJo Picken Buchanan |
 | 55 | 843 | Shelly Chandler |
 | 56 | 841 | Anthony Bryan Riva |
@@ -86,8 +86,8 @@
 | 78 | 704 | Crystal Carroll |
 | 79 | 703 | Savannah Overdorf |
 | 80 | 697 | Alyssa Papen |
-| 81 | 684 | Kimyatta Cavin |
-| 82 | 684 | Jonathan Kimbrough |
+| 81 | 684 | Jonathan Kimbrough |
+| 82 | 684 | Kimyatta Cavin |
 | 83 | 677 | Trista Leah |
 | 84 | 673 | Jacqueline Helm |
 | 85 | 664 | Valerie Roberts |
@@ -215,10 +215,10 @@
 | 207 | 290 | Keshia Lyons |
 | 208 | 288 | Adam Stephanie Parker |
 | 209 | 288 | Leah Kutz Zirbel |
-| 210 | 288 | Adam Stephanie Parker |
+| 210 | 288 | Brittney Orengo |
 | 211 | 287 | Plucky Patternblock |
-| 212 | 286 | Zesty Twistbuilder |
-| 213 | 286 | Sam Bishop |
+| 212 | 286 | Sam Bishop |
+| 213 | 286 | Zesty Twistbuilder |
 | 214 | 284 | Mimi |
 | 215 | 282 | Matt Gooder |
 | 216 | 282 | Kim Klutz Olson |
@@ -332,8 +332,8 @@
 | 324 | 194 | Denise B |
 | 325 | 194 | Zany Twisterfit |
 | 326 | 192 | Twisty Risebuilder |
-| 327 | 191 | Norman Klick |
-| 328 | 191 | Earnest Thompson |
+| 327 | 191 | Earnest Thompson |
+| 328 | 191 | Norman Klick |
 | 329 | 190 | wombat |
 | 330 | 189 | Berklie Apedaile |
 | 331 | 189 | Lauren Lamb |
@@ -360,8 +360,8 @@
 | 352 | 180 | Carlos Hernandez |
 | 353 | 180 | Bradley Reeves |
 | 354 | 179 | AyeKay |
-| 355 | 178 | Daring Pivot |
-| 356 | 178 | Zippy Tilt |
+| 355 | 178 | Zippy Tilt |
+| 356 | 178 | Daring Pivot |
 | 357 | 177 | Ernest Maxwell |
 | 358 | 176 | Cindy Looper |
 | 359 | 175 | Neirrah B Olailjeel |

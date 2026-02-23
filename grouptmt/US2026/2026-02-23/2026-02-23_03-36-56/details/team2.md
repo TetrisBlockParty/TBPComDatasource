@@ -103,8 +103,8 @@
 | 95 | 2170 | Steve Grotto |
 | 96 | 2165 | Tj Ball |
 | 97 | 2155 | Qiana Sanders |
-| 98 | 2148 | Roger Grabbit |
-| 99 | 2148 | ShinyRose |
+| 98 | 2148 | ShinyRose |
+| 99 | 2148 | Roger Grabbit |
 | 100 | 2146 | KellyDyan |
 | 101 | 2106 | Cool Rollpiece |
 | 102 | 2103 | Alisha Peoples |
@@ -306,8 +306,8 @@
 | 298 | 939 | SaraMarie Eveland |
 | 299 | 939 | Cindy Sechler Taninecz |
 | 300 | 934 | April Dawn Gussler |
-| 301 | 929 | Joshua Mandel |
-| 302 | 929 | Caitlin Schmid |
+| 301 | 929 | Caitlin Schmid |
+| 302 | 929 | Joshua Mandel |
 | 303 | 926 | Deborah Miller |
 | 304 | 919 | Isaac Trappiel IV |
 | 305 | 916 | Butta |
@@ -751,8 +751,8 @@
 | 743 | 444 | Angela Murgia-Owen |
 | 744 | 444 | Fi Ne |
 | 745 | 443 | Tipsy Filler |
-| 746 | 443 | Dimitra Zazara |
-| 747 | 443 | Giggy Grabber |
+| 746 | 443 | Giggy Grabber |
+| 747 | 443 | Dimitra Zazara |
 | 748 | 442 | Juan Castillo |
 | 749 | 442 | Niceday |
 | 750 | 441 | Goofy Catcher |
