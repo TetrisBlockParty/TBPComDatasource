@@ -200,8 +200,8 @@
 | 192 | 528 | Silly Twist |
 | 193 | 525 | Stephanie Blkpep Davidson |
 | 194 | 524 | Bmo |
-| 195 | 519 | rnr junky |
-| 196 | 519 | Terry Jo Jones |
+| 195 | 519 | Terry Jo Jones |
+| 196 | 519 | rnr junky |
 | 197 | 515 | Cozy Snaplink |
 | 198 | 508 | Makelini Mausia |
 | 199 | 502 | Snappy Balancer |
@@ -268,8 +268,8 @@
 | 260 | 370 | Samantha Lynn |
 | 261 | 369 | Philip Rock |
 | 262 | 369 | Keis |
-| 263 | 368 | Sheila M Frazier |
-| 264 | 368 | Stephanie Woods |
+| 263 | 368 | Stephanie Woods |
+| 264 | 368 | Sheila M Frazier |
 | 265 | 367 | Kristin Delibac Corrigan |
 | 266 | 366 | Gumbo |
 | 267 | 365 | Noyb Adam |
@@ -286,8 +286,8 @@
 | 278 | 353 | Cyd061769 |
 | 279 | 353 | Dee Franklin |
 | 280 | 352 | Christian Werndl |
-| 281 | 351 | Eon Harris |
-| 282 | 351 | Blocked |
+| 281 | 351 | Blocked |
+| 282 | 351 | Eon Harris |
 | 283 | 350 | LaShey Thompson |
 | 284 | 349 | Amanda J. Mcneil-Anderson |
 | 285 | 348 | Ashley Raines |
@@ -306,8 +306,8 @@
 | 298 | 336 | Foltz Lee Kelli |
 | 299 | 336 | Jojo M |
 | 300 | 335 | victory |
-| 301 | 332 | Brittany |
-| 302 | 332 | Velma Mull |
+| 301 | 332 | Velma Mull |
+| 302 | 332 | Brittany |
 | 303 | 331 | Gray Hicks |
 | 304 | 329 | JessDrown |
 | 305 | 329 | Angela Scott |
@@ -465,8 +465,8 @@
 | 457 | 232 | Sunny Tiltgrid |
 | 458 | 231 | Frothy Snapper |
 | 459 | 231 | Giggly Brickroll |
-| 460 | 230 | BigE |
-| 461 | 230 | DanceLuvLaugh |
+| 460 | 230 | DanceLuvLaugh |
+| 461 | 230 | BigE |
 | 462 | 229 | MizzMonick Smith |
 | 463 | 229 | Everret Maxine |
 | 464 | 228 | Tipsy Zonebuilder |
@@ -489,8 +489,8 @@
 | 481 | 221 | Glitzy Rotate |
 | 482 | 221 | Vaners |
 | 483 | 220 | Bhreagh Gentile |
-| 484 | 219 | Angel Miller |
-| 485 | 219 | Trice Thomas |
+| 484 | 219 | Trice Thomas |
+| 485 | 219 | Angel Miller |
 | 486 | 219 | TLM |
 | 487 | 218 | Sabrina Mansfield |
 | 488 | 218 | Tina Smith Roy |
@@ -513,8 +513,8 @@
 | 505 | 210 | Maia |
 | 506 | 210 | Megan Riggins |
 | 507 | 210 | Kristian Thurman |
-| 508 | 209 | Jumpy Wrecker |
-| 509 | 209 | TazB |
+| 508 | 209 | TazB |
+| 509 | 209 | Jumpy Wrecker |
 | 510 | 208 | Jessica Christian |
 | 511 | 208 | Luccy Luxe |
 | 512 | 207 | Nichol Graham |
@@ -608,15 +608,15 @@
 | 600 | 181 | Julia Nicole |
 | 601 | 180 | Chipper Piecefit |
 | 602 | 180 | Stella |
-| 603 | 179 | Boldy Corner |
-| 604 | 179 | Alexi Pryor |
+| 603 | 179 | Alexi Pryor |
+| 604 | 179 | Boldy Corner |
 | 605 | 179 | Ruchi Smit |
 | 606 | 178 | Jillian Ann |
 | 607 | 178 | Kathleen Taylor |
 | 608 | 178 | Melissa Snyder |
 | 609 | 178 | Draone Grayson |
-| 610 | 177 | Elizabeth Renee |
-| 611 | 177 | Matty Ray |
+| 610 | 177 | Matty Ray |
+| 611 | 177 | Elizabeth Renee |
 | 612 | 177 | Anna Moeller |
 | 613 | 177 | Spencer Nikki |
 | 614 | 177 | Chad |

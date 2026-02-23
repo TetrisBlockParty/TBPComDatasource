@@ -323,8 +323,8 @@
 | 315 | 955 | Angela Bonquiqui Dinish |
 | 316 | 954 | Melissa McCall |
 | 317 | 951 | Cynthia Ward |
-| 318 | 947 | Dedra Steward |
-| 319 | 947 | Wakanda Forever |
+| 318 | 947 | Wakanda Forever |
+| 319 | 947 | Dedra Steward |
 | 320 | 941 | Cool Clearer |
 | 321 | 939 | SaraMarie Eveland |
 | 322 | 939 | Cindy Sechler Taninecz |
@@ -345,8 +345,8 @@
 | 337 | 904 | Bee |
 | 338 | 903 | Giggy Blocker |
 | 339 | 901 | Kevin Sees |
-| 340 | 899 | Chevy |
-| 341 | 899 | Patrick Bartlett |
+| 340 | 899 | Patrick Bartlett |
+| 341 | 899 | Chevy |
 | 342 | 898 | Jamie Otero |
 | 343 | 895 | Donna Colby |
 | 344 | 888 | Donna M Carter |
@@ -485,15 +485,15 @@
 | 477 | 689 | Gauri Shrotriya |
 | 478 | 686 | Christine Coughlin |
 | 479 | 684 | Sarah DeHart |
-| 480 | 684 | Ann Knutson Anderson |
-| 481 | 684 | Ellie Jonas |
+| 480 | 684 | Ellie Jonas |
+| 481 | 684 | Ann Knutson Anderson |
 | 482 | 682 | Antionette Sewell |
 | 483 | 681 | AgileDragon |
 | 484 | 680 | blume |
 | 485 | 679 | Kassandra Hunt |
 | 486 | 677 | Kayleigh Wisse |
-| 487 | 677 | Paul Combs |
-| 488 | 677 | Amanda Woodruff |
+| 487 | 677 | Amanda Woodruff |
+| 488 | 677 | Paul Combs |
 | 489 | 676 | Roseanna Peloso |
 | 490 | 676 | Nicky Jackson |
 | 491 | 675 | Lonne Emade |
@@ -616,8 +616,8 @@
 | 608 | 566 | SwampRebel |
 | 609 | 565 | Wuntayk |
 | 610 | 564 | Stacey Tranchida |
-| 611 | 563 | Frisky Clearpiece |
-| 612 | 563 | Nat |
+| 611 | 563 | Nat |
+| 612 | 563 | Frisky Clearpiece |
 | 613 | 562 | Sabrena Yeisley |
 | 614 | 559 | Alexx Anaya |
 | 615 | 559 | Anthony Huebel |
@@ -674,8 +674,8 @@
 | 666 | 522 | Kathleen Driskell |
 | 667 | 521 | Mia Muse Best |
 | 668 | 520 | Armonie Smith |
-| 669 | 519 | CupCake |
-| 670 | 519 | Rob Brown |
+| 669 | 519 | Rob Brown |
+| 670 | 519 | CupCake |
 | 671 | 519 | Mandi Marie Smith |
 | 672 | 517 | Daring Caster |
 | 673 | 516 | Diamond Scott |
@@ -686,8 +686,8 @@
 | 678 | 513 | MrsCandyfine As Wine Truss |
 | 679 | 512 | Sassy Linkroll |
 | 680 | 512 | Leslie Jorgenson |
-| 681 | 509 | Toni Whipple |
-| 682 | 509 | Perky Rollfit |
+| 681 | 509 | Perky Rollfit |
+| 682 | 509 | Toni Whipple |
 | 683 | 509 | Jordan Kaiser |
 | 684 | 509 | Christina Walker |
 | 685 | 508 | Daphne Jordan |
@@ -723,8 +723,8 @@
 | 715 | 489 | Christy Krissie |
 | 716 | 488 | Eunique Griffin |
 | 717 | 487 | RaeVan Worthington |
-| 718 | 487 | Lina Sanders |
-| 719 | 487 | Morgan Easter |
+| 718 | 487 | Morgan Easter |
+| 719 | 487 | Lina Sanders |
 | 720 | 486 | Ashley Collins |
 | 721 | 485 | Regina Young |
 | 722 | 485 | Sarah block |
@@ -733,8 +733,8 @@
 | 725 | 483 | Austin Wilson |
 | 726 | 483 | Tabs Reichert |
 | 727 | 482 | Amélie Cadieux |
-| 728 | 482 | Nate |
-| 729 | 482 | Drwatson187 |
+| 728 | 482 | Drwatson187 |
+| 729 | 482 | Nate |
 | 730 | 481 | Angelina Marie |
 | 731 | 481 | Lucy Marshall |
 | 732 | 480 | Jennifer Leigh |

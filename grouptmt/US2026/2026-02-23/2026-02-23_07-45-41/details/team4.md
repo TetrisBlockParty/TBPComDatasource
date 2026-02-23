@@ -26,8 +26,8 @@
 | 18 | 1636 | Cassie Michaux |
 | 19 | 1565 | GreenJeepGirl |
 | 20 | 1558 | Leah Gorsuch |
-| 21 | 1536 | Roger Coulter |
-| 22 | 1536 | Misty Hollibaugh |
+| 21 | 1536 | Misty Hollibaugh |
+| 22 | 1536 | Roger Coulter |
 | 23 | 1485 | Juggalo |
 | 24 | 1390 | Sammy Noguera |
 | 25 | 1382 | Tammi Crnza |
@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Jonathan Kimbrough |
-| 84 | 684 | Kimyatta Cavin |
+| 83 | 684 | Kimyatta Cavin |
+| 84 | 684 | Jonathan Kimbrough |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | Shauna Havard |
-| 93 | 647 | KM8 |
+| 92 | 647 | KM8 |
+| 93 | 647 | Shauna Havard |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -165,8 +165,8 @@
 | 157 | 404 | Andy Cabral |
 | 158 | 403 | Keith Kelley |
 | 159 | 398 | Tyler Terrific |
-| 160 | 393 | Girl |
-| 161 | 393 | Carlton Unfiltered |
+| 160 | 393 | Carlton Unfiltered |
+| 161 | 393 | Girl |
 | 162 | 391 | Ramel Rhodes |
 | 163 | 389 | Joseph Guthrie |
 | 164 | 387 | Lucas J Sutton |
@@ -236,8 +236,8 @@
 | 228 | 286 | Steph Marie |
 | 229 | 285 | 030Synner |
 | 230 | 284 | Mimi |
-| 231 | 282 | Matt Gooder |
-| 232 | 282 | Kim Klutz Olson |
+| 231 | 282 | Kim Klutz Olson |
+| 232 | 282 | Matt Gooder |
 | 233 | 281 | Laura |
 | 234 | 280 | Rio Rocha |
 | 235 | 279 | Malakai Darien Fox |
@@ -407,8 +407,8 @@
 | 399 | 176 | Cindy Looper |
 | 400 | 176 | Brickh4us |
 | 401 | 175 | Lorena Guerrero-Barron |
-| 402 | 175 | Jim Hart |
-| 403 | 175 | Neirrah B Olailjeel |
+| 402 | 175 | Neirrah B Olailjeel |
+| 403 | 175 | Jim Hart |
 | 404 | 174 | Jason Frehner |
 | 405 | 174 | Kathy Allen |
 | 406 | 174 | Mona Sharma |
@@ -559,9 +559,9 @@
 | 551 | 126 | PAPatty |
 | 552 | 126 | Spicy Cascadezone |
 | 553 | 126 | Jennifer Renee |
-| 554 | 125 | ImJustMe |
-| 555 | 125 | Kelly Adams Carnahan |
-| 556 | 125 | Frilly Blocky |
+| 554 | 125 | Frilly Blocky |
+| 555 | 125 | ImJustMe |
+| 556 | 125 | Kelly Adams Carnahan |
 | 557 | 125 | Christina Nabrizny |
 | 558 | 124 | Jackson Karen |
 | 559 | 124 | Atia Scott |
