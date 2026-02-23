@@ -366,8 +366,8 @@
 | 358 | 937 | Jessica Wayne Cornwall |
 | 359 | 937 | Andrew Willis |
 | 360 | 934 | Mighty Shatterfit |
-| 361 | 933 | Bee |
-| 362 | 933 | Nicole Cannon |
+| 361 | 933 | Nicole Cannon |
+| 362 | 933 | Bee |
 | 363 | 931 | Sinistah42o |
 | 364 | 929 | Ellie Jonas |
 | 365 | 928 | Elizabeth Wilbanks |
@@ -375,8 +375,8 @@
 | 367 | 917 | Nashu |
 | 368 | 916 | Butta |
 | 369 | 915 | Kelly Trent |
-| 370 | 914 | William Hunt |
-| 371 | 914 | Shuany Arias |
+| 370 | 914 | Shuany Arias |
+| 371 | 914 | William Hunt |
 | 372 | 913 | blume |
 | 373 | 909 | Valerie Brooke Lusk Armstrong |
 | 374 | 907 | Gene Mills |
@@ -487,8 +487,8 @@
 | 479 | 750 | Michael Buckner |
 | 480 | 750 | Draizen Montrell Thomas |
 | 481 | 748 | Ann Matzkanin |
-| 482 | 746 | Hoppy Brickmatch |
-| 483 | 746 | Ryan Stadel |
+| 482 | 746 | Ryan Stadel |
+| 483 | 746 | Hoppy Brickmatch |
 | 484 | 746 | Samuel Macon |
 | 485 | 742 | Ganieda |
 | 486 | 742 | Cassie Maynard |
@@ -722,11 +722,11 @@
 | 714 | 536 | Wes Acton |
 | 715 | 536 | Rhonda Petro |
 | 716 | 534 | Anita Rose Green |
-| 717 | 534 | Kara Jennifer |
-| 718 | 534 | JAG$*V¡LL£•FL•DuuuVaL |
-| 719 | 532 | Chelle Vintson |
-| 720 | 532 | Ryan Meilleur |
-| 721 | 532 | Snappy Faller |
+| 717 | 534 | JAG$*V¡LL£•FL•DuuuVaL |
+| 718 | 534 | Kara Jennifer |
+| 719 | 532 | Ryan Meilleur |
+| 720 | 532 | Snappy Faller |
+| 721 | 532 | Chelle Vintson |
 | 722 | 531 | Ronald Higgins |
 | 723 | 531 | Beth Decker |
 | 724 | 530 | Tara Lynn Janes |

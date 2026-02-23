@@ -137,8 +137,8 @@
 | 129 | 467 | Constance Risner |
 | 130 | 467 | Candy Jones |
 | 131 | 466 | Adrian Esteban |
-| 132 | 463 | Lexuriuos Lifestlye |
-| 133 | 463 | Melissa Lemmon |
+| 132 | 463 | Melissa Lemmon |
+| 133 | 463 | Lexuriuos Lifestlye |
 | 134 | 462 | Luciano Moreira |
 | 135 | 461 | Ly Phethmany |
 | 136 | 458 | Goose egg |
@@ -372,8 +372,8 @@
 | 364 | 227 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 365 | 227 | Happy Snapbuild |
 | 366 | 226 | Snappy Brickbuilder |
-| 367 | 225 | Mel Hogan |
-| 368 | 225 | Angela Spann |
+| 367 | 225 | Angela Spann |
+| 368 | 225 | Mel Hogan |
 | 369 | 224 | Danielle Mae |
 | 370 | 223 | Christina Backer |
 | 371 | 223 | Blake Mckay |
@@ -580,7 +580,7 @@
 | 572 | 146 | Robert Young |
 | 573 | 146 | Kristen Rhoads |
 | 574 | 145 | Sunny Pivotfall |
-| 575 | 144 | Frothy Blockbuilder |
+| 575 | 144 | Alfredo Vasquez |
 | 576 | 144 | Khatia Sikharulidze |
 | 577 | 144 | Frothy Blockbuilder |
 | 578 | 144 | Gerald Richard Franke |

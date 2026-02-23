@@ -78,8 +78,8 @@
 | 70 | 802 | Crystal Carroll |
 | 71 | 794 | Julian Garcia |
 | 72 | 788 | Chilly Line |
-| 73 | 787 | Edward White |
-| 74 | 787 | loulou |
+| 73 | 787 | loulou |
+| 74 | 787 | Edward White |
 | 75 | 769 | Alyssa Papen |
 | 76 | 768 | Judy Cox |
 | 77 | 767 | Shannon Ferrari |
@@ -249,13 +249,13 @@
 | 241 | 310 | Stacey Stano |
 | 242 | 308 | Leah Kutz Zirbel |
 | 243 | 307 | Cheery Risebuilder |
-| 244 | 307 | Michele Plunkett |
+| 244 | 307 | Angie Schmidt |
 | 245 | 307 | Tina Lopez |
-| 246 | 307 | Angie Schmidt |
+| 246 | 307 | Michele Plunkett |
 | 247 | 306 | mike |
 | 248 | 305 | Melvin Baird |
-| 249 | 304 | Shiny Fit |
-| 250 | 304 | Gdiguy |
+| 249 | 304 | Gdiguy |
+| 250 | 304 | Shiny Fit |
 | 251 | 304 | Joanna |
 | 252 | 303 | blasterB |
 | 253 | 300 | Dana Scott |
@@ -321,8 +321,8 @@
 | 313 | 253 | Autum Leigh |
 | 314 | 251 | Carol Ricks Raymond |
 | 315 | 249 | Ak Jones |
-| 316 | 248 | Chirpy Basepiece |
-| 317 | 248 | Angelito |
+| 316 | 248 | Angelito |
+| 317 | 248 | Chirpy Basepiece |
 | 318 | 248 | Jose Dejesus |
 | 319 | 247 | Vic |
 | 320 | 246 | Jenna McGeorge |
@@ -395,8 +395,8 @@
 | 387 | 209 | Matthew Pate |
 | 388 | 208 | Shukee Lo |
 | 389 | 208 | Wacky Blockclear |
-| 390 | 207 | Jessica Wells |
-| 391 | 207 | Jen Mattei |
+| 390 | 207 | Jen Mattei |
+| 391 | 207 | Jessica Wells |
 | 392 | 206 | The Murphy |
 | 393 | 206 | Dorian |
 | 394 | 205 | KayM |
@@ -493,13 +493,13 @@
 | 485 | 167 | Dapper Frame |
 | 486 | 167 | Tipsy Cascader |
 | 487 | 167 | Snippy Clearer |
-| 488 | 166 | Reds Bella |
-| 489 | 166 | Grann8 |
-| 490 | 165 | Zappy Buildgrid |
-| 491 | 165 | Joshua Cuellar |
-| 492 | 165 | Stephanie Mico |
-| 493 | 164 | DonMega |
-| 494 | 164 | Marvetta Williams |
+| 488 | 166 | Grann8 |
+| 489 | 166 | Reds Bella |
+| 490 | 165 | Joshua Cuellar |
+| 491 | 165 | Stephanie Mico |
+| 492 | 165 | Zappy Buildgrid |
+| 493 | 164 | Marvetta Williams |
+| 494 | 164 | DonMega |
 | 495 | 164 | Stacy Jones |
 | 496 | 163 | Michael Orris |
 | 497 | 163 | Linda Alexander Downing |
