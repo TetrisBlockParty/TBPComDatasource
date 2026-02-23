@@ -233,11 +233,11 @@
 | 225 | 301 | Andria Lynn |
 | 226 | 300 | Dana Scott |
 | 227 | 295 | Keshia Lyons |
-| 228 | 294 | Calvin Cannon |
-| 229 | 294 | Porkobello |
+| 228 | 294 | Porkobello |
+| 229 | 294 | Calvin Cannon |
 | 230 | 292 | Epic Curvetile |
-| 231 | 290 | Rebecca Morris |
-| 232 | 290 | Plucky Patternblock |
+| 231 | 290 | Plucky Patternblock |
+| 232 | 290 | Rebecca Morris |
 | 233 | 290 | Jared Gutwein |
 | 234 | 289 | Juls |
 | 235 | 288 | Leah Kutz Zirbel |
@@ -334,8 +334,8 @@
 | 326 | 219 | Shane Vick |
 | 327 | 218 | Stephme310 |
 | 328 | 218 | Janita Parrish |
-| 329 | 217 | Alexandra Karavias |
-| 330 | 217 | Paito |
+| 329 | 217 | Paito |
+| 330 | 217 | Alexandra Karavias |
 | 331 | 217 | Cheery Fitline |
 | 332 | 215 | 07VHVW |
 | 333 | 214 | B Renee Desjardin |
@@ -515,9 +515,9 @@
 | 507 | 146 | Jen Hallin |
 | 508 | 146 | Christine Simmons |
 | 509 | 145 | Austin Trent Weaver |
-| 510 | 145 | Glitzy Crasher |
-| 511 | 145 | Jackie Clark |
-| 512 | 145 | Rico |
+| 510 | 145 | Rico |
+| 511 | 145 | Glitzy Crasher |
+| 512 | 145 | Jackie Clark |
 | 513 | 144 | Zach Kerbs |
 | 514 | 143 | Kristin MacDonald |
 | 515 | 143 | Sherri |
@@ -572,8 +572,8 @@
 | 564 | 126 | Spicy Cascadezone |
 | 565 | 126 | PAPatty |
 | 566 | 126 | Jennifer Renee |
-| 567 | 125 | Kelly Adams Carnahan |
-| 568 | 125 | ImJustMe |
+| 567 | 125 | ImJustMe |
+| 568 | 125 | Kelly Adams Carnahan |
 | 569 | 125 | Christina Nabrizny |
 | 570 | 124 | Raeann Gibson |
 | 571 | 124 | Peppy Strike |

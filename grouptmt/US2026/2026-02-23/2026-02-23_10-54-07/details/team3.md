@@ -76,8 +76,8 @@
 | 68 | 1264 | Amanda L Baker |
 | 69 | 1258 | Danielle Cutler |
 | 70 | 1256 | Jessica Bechler |
-| 71 | 1213 | Nerdy Riseclear |
-| 72 | 1213 | Snappy Glidepiece |
+| 71 | 1213 | Snappy Glidepiece |
+| 72 | 1213 | Nerdy Riseclear |
 | 73 | 1201 | Amanda Adkins |
 | 74 | 1186 | Christian A. Pollard |
 | 75 | 1162 | Gracie |
@@ -121,8 +121,8 @@
 | 113 | 839 | Angeline Joseph |
 | 114 | 830 | Stephanie Allmon |
 | 115 | 826 | Shane Wilson Jr. |
-| 116 | 816 | Jesse Olive |
-| 117 | 816 | Brenda Lee Vander Molen |
+| 116 | 816 | Brenda Lee Vander Molen |
+| 117 | 816 | Jesse Olive |
 | 118 | 802 | Bobbi Moore |
 | 119 | 800 | Lauren Girouard |
 | 120 | 799 | Dolores Falco |
@@ -195,8 +195,8 @@
 | 187 | 556 | Elissa S-k |
 | 188 | 548 | Danielle Balcom |
 | 189 | 546 | Mykal Burton |
-| 190 | 546 | Tasha Schriewer |
-| 191 | 546 | Cynthia Castros-Hampton |
+| 190 | 546 | Cynthia Castros-Hampton |
+| 191 | 546 | Tasha Schriewer |
 | 192 | 540 | Shawn Miller |
 | 193 | 531 | Chauntee Alfrey-Cardinale |
 | 194 | 531 | Sarah Cowan Burgos |
@@ -218,8 +218,8 @@
 | 210 | 485 | Dapper Snap |
 | 211 | 484 | Fallorina Susana |
 | 212 | 481 | Connie Mohler-Fair |
-| 213 | 480 | Michael Johnson |
-| 214 | 480 | Danielle Allison |
+| 213 | 480 | Danielle Allison |
+| 214 | 480 | Michael Johnson |
 | 215 | 477 | Edwin Calvillo Jr. |
 | 216 | 475 | Tessina Dewey-Mancino |
 | 217 | 471 | Mendoza Lee Christy |
@@ -314,8 +314,8 @@
 | 306 | 342 | Cynthia Herrmann Egland |
 | 307 | 341 | Rick Poppen |
 | 308 | 341 | Lys |
-| 309 | 340 | Erika Thornton |
-| 310 | 340 | KayB |
+| 309 | 340 | KayB |
+| 310 | 340 | Erika Thornton |
 | 311 | 338 | fraulila |
 | 312 | 336 | Foltz Lee Kelli |
 | 313 | 335 | victory |
@@ -382,8 +382,8 @@
 | 374 | 280 | Aerian Preston |
 | 375 | 280 | ROODBOY |
 | 376 | 280 | Dirtgirl27 |
-| 377 | 279 | Naur |
-| 378 | 279 | Tosha Griffey |
+| 377 | 279 | Tosha Griffey |
+| 378 | 279 | Naur |
 | 379 | 278 | Rufus Lincoln |
 | 380 | 277 | Krystal Gerstberger |
 | 381 | 277 | France Vézina |
@@ -410,8 +410,8 @@
 | 402 | 267 | Jul |
 | 403 | 267 | April Matthew Kibble |
 | 404 | 267 | Michael Kimbro |
-| 405 | 266 | Sarah Muradyan |
-| 406 | 266 | Quirky Dropzone |
+| 405 | 266 | Quirky Dropzone |
+| 406 | 266 | Sarah Muradyan |
 | 407 | 265 | Heather Davis |
 | 408 | 265 | AlsoJess |
 | 409 | 264 | Reina Roth |
@@ -531,12 +531,12 @@
 | 523 | 210 | Megan Riggins |
 | 524 | 209 | Latoya Oneluv White |
 | 525 | 209 | Jumpy Wrecker |
-| 526 | 209 | Jonathn Poindexter |
-| 527 | 209 | TazB |
+| 526 | 209 | TazB |
+| 527 | 209 | Jonathn Poindexter |
 | 528 | 208 | Jessica Christian |
 | 529 | 208 | Luccy Luxe |
-| 530 | 207 | Misstery |
-| 531 | 207 | Nichol Graham |
+| 530 | 207 | Nichol Graham |
+| 531 | 207 | Misstery |
 | 532 | 206 | Tammy Rosenberry |
 | 533 | 206 | Dakota Graham |
 | 534 | 205 | Emberblaze |
