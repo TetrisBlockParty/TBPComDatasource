@@ -247,8 +247,8 @@
 | 239 | 377 | RickyG |
 | 240 | 377 | Charles Perrone |
 | 241 | 375 | Kristal C Lee |
-| 242 | 372 | Rich LeBlanc |
-| 243 | 372 | Sarah Moyer |
+| 242 | 372 | Sarah Moyer |
+| 243 | 372 | Rich LeBlanc |
 | 244 | 369 | Marquita Sheard |
 | 245 | 369 | Keis |
 | 246 | 369 | Chummy Caster |
@@ -320,8 +320,8 @@
 | 312 | 294 | Betty Bóò |
 | 313 | 291 | Geoffrey Nash |
 | 314 | 289 | DidIdothat |
-| 315 | 287 | Carol Cain Thurman |
-| 316 | 287 | Sabrina Hardrick |
+| 315 | 287 | Sabrina Hardrick |
+| 316 | 287 | Carol Cain Thurman |
 | 317 | 287 | Hoppy Patternline |
 | 318 | 286 | Micayah Stevens |
 | 319 | 286 | Salena Whitlock |
@@ -424,9 +424,9 @@
 | 416 | 230 | DanceLuvLaugh |
 | 417 | 230 | Angella Lyons |
 | 418 | 229 | Everret Maxine |
-| 419 | 228 | Loopy Fallzone |
-| 420 | 228 | Jess Dearborn |
-| 421 | 228 | Stephanie Hill |
+| 419 | 228 | Stephanie Hill |
+| 420 | 228 | Loopy Fallzone |
+| 421 | 228 | Jess Dearborn |
 | 422 | 227 | Rebel124 |
 | 423 | 227 | Meowsa |
 | 424 | 226 | Danielle Beaunoyer Jean |
@@ -704,7 +704,7 @@
 | 696 | 140 | Anabela Ruiz |
 | 697 | 140 | Anna Fuerstenau |
 | 698 | 140 | Amy Cunningham Mitchell |
-| 699 | 140 | Jennifer Caputo |
+| 699 | 140 | Brooke Bauer |
 | 700 | 139 | Jack Bo |
 | 701 | 139 | Melissa Parlow-Callaway |
 | 702 | 139 | Cesar Mendez |

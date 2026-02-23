@@ -55,8 +55,8 @@
 | 47 | 911 | Jeremy Steines |
 | 48 | 855 | Marvin Lou Martin |
 | 49 | 853 | TeeJ |
-| 50 | 846 | Christine Marie |
-| 51 | 846 | Lucille Truesdale |
+| 50 | 846 | Lucille Truesdale |
+| 51 | 846 | Christine Marie |
 | 52 | 845 | LisaJo Picken Buchanan |
 | 53 | 843 | Shelly Chandler |
 | 54 | 841 | Anthony Bryan Riva |
@@ -156,11 +156,11 @@
 | 148 | 391 | Ramel Rhodes |
 | 149 | 391 | Livvy |
 | 150 | 389 | Joseph Guthrie |
-| 151 | 387 | Lucas J Sutton |
-| 152 | 387 | 🥔🥔 Spudz |
+| 151 | 387 | 🥔🥔 Spudz |
+| 152 | 387 | Lucas J Sutton |
 | 153 | 377 | Carrie Brian |
-| 154 | 375 | Desi Desporte |
-| 155 | 375 | ThaEviLJeNiuZ |
+| 154 | 375 | ThaEviLJeNiuZ |
+| 155 | 375 | Desi Desporte |
 | 156 | 374 | Guy Incognito |
 | 157 | 373 | Tyler Terrific |
 | 158 | 370 | Oscar Alberto Perez |
@@ -174,8 +174,8 @@
 | 166 | 358 | A5! |
 | 167 | 356 | George Nutt |
 | 168 | 352 | Sue Joyce Staats |
-| 169 | 349 | Rafael Valentin |
-| 170 | 349 | Twisty Cascadezone |
+| 169 | 349 | Twisty Cascadezone |
+| 170 | 349 | Rafael Valentin |
 | 171 | 348 | TRCuse |
 | 172 | 347 | Daria Rycewicz |
 | 173 | 341 | April Rondinone |
@@ -220,11 +220,11 @@
 | 212 | 284 | Mimi |
 | 213 | 282 | Matt Gooder |
 | 214 | 281 | Laura |
-| 215 | 281 | Nikki Rae Gordon |
-| 216 | 281 | Kim Klutz Olson |
+| 215 | 281 | Kim Klutz Olson |
+| 216 | 281 | Nikki Rae Gordon |
 | 217 | 277 | Zesty Twistbuilder |
-| 218 | 276 | Joeliecea Cobb |
-| 219 | 276 | Matt Dell'Olio |
+| 218 | 276 | Matt Dell'Olio |
+| 219 | 276 | Joeliecea Cobb |
 | 220 | 273 | Casey Grabner |
 | 221 | 272 | Alan George LaRage |
 | 222 | 272 | Dennis Bradley |
@@ -273,8 +273,8 @@
 | 265 | 232 | Joanna |
 | 266 | 232 | Rio Rocha |
 | 267 | 228 | Bethany Ison |
-| 268 | 226 | Dizzy Matchzone |
-| 269 | 226 | Cranky Rollpiece |
+| 268 | 226 | Cranky Rollpiece |
+| 269 | 226 | Dizzy Matchzone |
 | 270 | 225 | Jenna McGeorge |
 | 271 | 223 | Amanda Christine |
 | 272 | 223 | Adawna Swires |

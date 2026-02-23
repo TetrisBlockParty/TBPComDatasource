@@ -45,8 +45,8 @@
 | 37 | 966 | Shalene Frederick Autrey |
 | 38 | 964 | Carrie Beck Geartz |
 | 39 | 961 | Amanda Summey Schoemer |
-| 40 | 953 | Derek MF Blakey |
-| 41 | 953 | Hyp James NObettadanluvarat |
+| 40 | 953 | Hyp James NObettadanluvarat |
+| 41 | 953 | Derek MF Blakey |
 | 42 | 945 | Amber Stoker |
 | 43 | 918 | Chipper Gridlock |
 | 44 | 915 | Katie Daniels |
@@ -87,8 +87,8 @@
 | 79 | 583 | Aaron Garnett |
 | 80 | 582 | Plucky Fallzone |
 | 81 | 570 | Cody Slav |
-| 82 | 569 | Greg Hart |
-| 83 | 569 | Theo Pinnow |
+| 82 | 569 | Theo Pinnow |
+| 83 | 569 | Greg Hart |
 | 84 | 566 | Cynthia Bradley |
 | 85 | 535 | Denice Dee |
 | 86 | 534 | Loony Fitzone |
