@@ -107,10 +107,10 @@
 | 99 | 1019 | Sarah Fehring |
 | 100 | 1002 | Jennifer |
 | 101 | 1000 | Chelsea Hall |
-| 102 | 996 | joclisa |
-| 103 | 994 | Suzieq |
-| 104 | 992 | Danielle Becker |
-| 105 | 991 | Heather Green |
+| 102 | 994 | Suzieq |
+| 103 | 992 | Danielle Becker |
+| 104 | 991 | Heather Green |
+| 105 | 986 | joclisa |
 | 106 | 980 | Rosalie Call Kehlenbeck |
 | 107 | 972 | Valerie Gendron |
 | 108 | 945 | Shonna Roberts |
@@ -238,7 +238,7 @@
 | 230 | 513 | kacihall |
 | 231 | 513 | Lizabeth Fox |
 | 232 | 513 | Twisty Brick LT |
-| 233 | 513 | kacihall |
+| 233 | 508 | joz |
 | 234 | 508 | Fran Lin |
 | 235 | 505 | Stephanie Simpson |
 | 236 | 503 | Tye Stovall |
@@ -369,8 +369,8 @@
 | 361 | 342 | ROODBOY |
 | 362 | 341 | Rick Poppen |
 | 363 | 341 | Lys |
-| 364 | 340 | Kirhonda Autmon |
-| 365 | 340 | Erika Thornton |
+| 364 | 340 | Erika Thornton |
+| 365 | 340 | Kirhonda Autmon |
 | 366 | 337 | Michelle Allers |
 | 367 | 333 | 4girls |
 | 368 | 333 | Geoffrey Nash |
@@ -441,8 +441,8 @@
 | 433 | 291 | Bryan Byrd |
 | 434 | 291 | Niki Dalrymple |
 | 435 | 290 | Kellie Montgomery |
-| 436 | 290 | Breezy Roll |
-| 437 | 290 | Tegan Chapman |
+| 436 | 290 | Tegan Chapman |
+| 437 | 290 | Breezy Roll |
 | 438 | 289 | DidIdothat |
 | 439 | 289 | Romeo |
 | 440 | 289 | Sassy Brickmatch |
@@ -864,8 +864,8 @@
 | 856 | 161 | Steph Arcari |
 | 857 | 161 | NaTasha Vercher |
 | 858 | 161 | bean |
-| 859 | 160 | Heyska |
-| 860 | 160 | Leticia Lynn Lowe |
+| 859 | 160 | Leticia Lynn Lowe |
+| 860 | 160 | Heyska |
 | 861 | 160 | VJR |
 | 862 | 160 | Robin Rasure Woebkenberg |
 | 863 | 160 | Bdhdj |
@@ -919,8 +919,8 @@
 | 911 | 151 | Brad Dimitroff |
 | 912 | 151 | Frisky Linkbuilder |
 | 913 | 151 | Marie Vanbrocklin |
-| 914 | 150 | Kiya Lynn |
-| 915 | 150 | Timothy Troy Frazier |
+| 914 | 150 | Timothy Troy Frazier |
+| 915 | 150 | Kiya Lynn |
 | 916 | 149 | Timothy Townes |
 | 917 | 149 | Cesar Mendez |
 | 918 | 149 | Vikkye Vizaniaris |
@@ -1073,7 +1073,7 @@
 | 1065 | 123 | Loopy Spinblock |
 | 1066 | 123 | Jean Koontz |
 | 1067 | 122 | Deanna McDivitt Garrison |
-| 1068 | 122 | Clever Patterner |
+| 1068 | 122 | Keayn Smith |
 | 1069 | 122 | Sonya Hollingsworth Fischer |
 | 1070 | 122 | Will Miller |
 | 1071 | 122 | Clever Patterner |

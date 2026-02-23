@@ -119,9 +119,9 @@
 | 111 | 2321 | Nickole Andrews |
 | 112 | 2312 | Auntie B |
 | 113 | 2298 | Brent Bittenbender |
-| 114 | 2276 | Tj Ball |
-| 115 | 2254 | Alicia Parrish |
-| 116 | 2249 | Zappy Cascade |
+| 114 | 2254 | Alicia Parrish |
+| 115 | 2249 | Zappy Cascade |
+| 116 | 2243 | Tj Ball |
 | 117 | 2237 | Jen Tramack |
 | 118 | 2223 | Katrina Williams Balmir |
 | 119 | 2183 | Thalia Watkins |
@@ -268,8 +268,8 @@
 | 260 | 1221 | Jane Fong |
 | 261 | 1220 | Sarah Ridenour |
 | 262 | 1217 | Brooks Brooks |
-| 263 | 1216 | Brittany Radaszewski |
-| 264 | 1216 | Pacynthia Williams |
+| 263 | 1216 | Pacynthia Williams |
+| 264 | 1216 | Brittany Radaszewski |
 | 265 | 1214 | David Cudicio-Hayden |
 | 266 | 1211 | Ricardo Burton |
 | 267 | 1210 | John Rodriguez |
@@ -279,11 +279,11 @@
 | 271 | 1184 | Jamie Otero |
 | 272 | 1179 | Georgia Triblett |
 | 273 | 1178 | Kevin Sees |
-| 274 | 1172 | Lakeysha Dortch |
-| 275 | 1172 | Stacey Clement |
+| 274 | 1172 | Stacey Clement |
+| 275 | 1172 | Lakeysha Dortch |
 | 276 | 1171 | Loretta Brewer-Gage |
-| 277 | 1165 | Christina Wsn |
-| 278 | 1165 | Michelle Lee |
+| 277 | 1165 | Michelle Lee |
+| 278 | 1165 | Christina Wsn |
 | 279 | 1163 | Erika Densmore |
 | 280 | 1158 | Brittany Clark |
 | 281 | 1156 | Sarah Freitas |

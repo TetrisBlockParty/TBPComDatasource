@@ -56,8 +56,8 @@
 | 48 | 1139 | Denny Shives |
 | 49 | 1093 | Ashley Ingram |
 | 50 | 1085 | Kimyatta Cavin |
-| 51 | 1082 | Dion Crommarty |
-| 52 | 1082 | Dawn Alexander |
+| 51 | 1082 | Dawn Alexander |
+| 52 | 1082 | Dion Crommarty |
 | 53 | 1049 | Heather Tushner |
 | 54 | 1046 | Johnathan Martinez |
 | 55 | 1042 | Avy Absol |
@@ -329,11 +329,11 @@
 | 321 | 266 | Happy Combo |
 | 322 | 265 | Sarah Neathery |
 | 323 | 265 | Degenerate |
-| 324 | 264 | rebel4lyfe |
-| 325 | 264 | ZeeZee |
+| 324 | 264 | ZeeZee |
+| 325 | 264 | rebel4lyfe |
 | 326 | 262 | Ruben Wheeler |
-| 327 | 262 | BigSammy420 |
-| 328 | 262 | Selena Shaw |
+| 327 | 262 | Selena Shaw |
+| 328 | 262 | BigSammy420 |
 | 329 | 261 | Zethra Prenisha Rahming |
 | 330 | 260 | Angelito |
 | 331 | 260 | Carter Jones |
@@ -343,27 +343,27 @@
 | 335 | 257 | Alexandra Karavias |
 | 336 | 256 | Paige Kittles |
 | 337 | 254 | Ari Droff |
-| 338 | 253 | Autum Leigh |
-| 339 | 253 | Cool Buildout |
+| 338 | 253 | Cool Buildout |
+| 339 | 253 | Autum Leigh |
 | 340 | 252 | Maureen Flanigan |
 | 341 | 251 | Carol Ricks Raymond |
 | 342 | 251 | Brittany Little |
 | 343 | 251 | Kathy Allen |
 | 344 | 250 | Stephme310 |
 | 345 | 249 | Ak Jones |
-| 346 | 249 | Christine Therrien |
+| 346 | 248 | Chirpy Basepiece |
 | 347 | 248 | Jose Dejesus |
-| 348 | 248 | Chirpy Basepiece |
-| 349 | 247 | Vic |
-| 350 | 246 | Duck |
+| 348 | 247 | Vic |
+| 349 | 247 | Christine Therrien |
+| 350 | 246 | giantslover514 |
 | 351 | 246 | Jason Bosco |
 | 352 | 246 | Duck |
 | 353 | 244 | Perky Piecegrid |
 | 354 | 244 | Elizabeth Tinoco |
 | 355 | 244 | Jen Mattei |
 | 356 | 243 | Chair |
-| 357 | 242 | Chaz |
-| 358 | 242 | PurpleMoonMa |
+| 357 | 242 | PurpleMoonMa |
+| 358 | 242 | Chaz |
 | 359 | 240 | Zany Shatterer |
 | 360 | 240 | Tyler Bechtel |
 | 361 | 240 | Perky Patternblock |
@@ -371,8 +371,8 @@
 | 363 | 239 | Laura Hosford |
 | 364 | 239 | AyeKay |
 | 365 | 239 | Denise B |
-| 366 | 238 | 中山成巳 |
-| 367 | 238 | Jackie Marie |
+| 366 | 238 | Jackie Marie |
+| 367 | 238 | 中山成巳 |
 | 368 | 237 | Jewell Urban |
 | 369 | 235 | LaDonna LovinmesomeMe Lambert |
 | 370 | 235 | Shainne Brewer |
@@ -489,8 +489,8 @@
 | 481 | 183 | Darrin Rubalcava |
 | 482 | 182 | Jesus Garcia |
 | 483 | 182 | Neil Ingham |
-| 484 | 182 | Rebecca A Rit |
-| 485 | 181 | Kate |
+| 484 | 181 | Kate |
+| 485 | 181 | Nikki Wilson |
 | 486 | 181 | ImJustMe |
 | 487 | 180 | Mighty Edgepiece |
 | 488 | 180 | Nig |
@@ -500,7 +500,7 @@
 | 492 | 179 | JoAnna Zalkovsky |
 | 493 | 179 | GBR |
 | 494 | 179 | Elle Joe |
-| 495 | 179 | GBR |
+| 495 | 178 | Daring Pivot |
 | 496 | 178 | Jackson Karen |
 | 497 | 178 | Nerdy Linebuilder |
 | 498 | 177 | Chao Ma |

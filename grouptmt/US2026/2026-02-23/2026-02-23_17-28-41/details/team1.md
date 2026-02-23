@@ -73,7 +73,7 @@
 | 65 | 898 | Dawn Sheppard |
 | 66 | 898 | Jacqueline Williams |
 | 67 | 892 | Seth Wesson |
-| 68 | 870 | comrade fish |
+| 68 | 867 | comrade fish |
 | 69 | 865 | Erin Hodges Plumb |
 | 70 | 864 | Sevens4L |
 | 71 | 862 | Ashley Elizabeth |
@@ -195,8 +195,8 @@
 | 187 | 393 | Wisa |
 | 188 | 390 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 189 | 388 | Jason Savage |
-| 190 | 387 | Monica Donato |
-| 191 | 387 | Carrie Smith |
+| 190 | 387 | Carrie Smith |
+| 191 | 387 | Monica Donato |
 | 192 | 387 | Ananda Mendez |
 | 193 | 386 | Brian Spotts |
 | 194 | 385 | John J. Cronin |
@@ -266,8 +266,8 @@
 | 258 | 322 | Sarah Roberts |
 | 259 | 319 | Wayne Saunders |
 | 260 | 318 | Sylvia Vasquez |
-| 261 | 317 | Bloknboy |
-| 262 | 317 | Sam Williams |
+| 261 | 317 | Sam Williams |
+| 262 | 317 | Bloknboy |
 | 263 | 315 | Mandyy Rae |
 | 264 | 315 | Hellsin |
 | 265 | 314 | Zany Tiler |
