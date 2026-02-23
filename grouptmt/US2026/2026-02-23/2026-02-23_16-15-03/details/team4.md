@@ -135,8 +135,8 @@
 | 127 | 545 | Desi Desporte |
 | 128 | 542 | Austin Owens |
 | 129 | 540 | Rodney McMath Jr. |
-| 130 | 538 | Carlos Ramirez |
-| 131 | 538 | shar |
+| 130 | 538 | shar |
+| 131 | 538 | Carlos Ramirez |
 | 132 | 533 | Samantha Peterson |
 | 133 | 531 | Serena Goodridge |
 | 134 | 524 | Cristy Duerksen |
@@ -178,8 +178,8 @@
 | 170 | 431 | Courtney Cicoria |
 | 171 | 427 | Steph Marie |
 | 172 | 426 | 🥔🥔 Spudz |
-| 173 | 423 | Crystal Nicolette Moore |
-| 174 | 423 | Carrie Brian |
+| 173 | 423 | Carrie Brian |
+| 174 | 423 | Crystal Nicolette Moore |
 | 175 | 422 | Zakia Monae |
 | 176 | 421 | JIGsaw ~(•¿°)~ |
 | 177 | 421 | Kesha Brady |

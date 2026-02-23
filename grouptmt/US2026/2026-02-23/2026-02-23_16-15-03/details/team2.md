@@ -247,8 +247,8 @@
 | 239 | 1259 | Foxxo |
 | 240 | 1258 | Brandon Armstrong |
 | 241 | 1258 | Eric Carlson |
-| 242 | 1257 | Megan Ferguson Leone |
-| 243 | 1257 | Megan Garrick |
+| 242 | 1257 | Megan Garrick |
+| 243 | 1257 | Megan Ferguson Leone |
 | 244 | 1256 | Missie Lawson Gebhardt |
 | 245 | 1253 | Roman Lavochnik |
 | 246 | 1245 | Cody Nishimura |
