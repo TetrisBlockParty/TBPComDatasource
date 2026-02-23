@@ -208,8 +208,8 @@
 | 200 | 616 | Kammy Hill |
 | 201 | 609 | Domo Washington |
 | 202 | 601 | CeceGeGe |
-| 203 | 600 | Keis |
-| 204 | 600 | Makelini Mausia |
+| 203 | 600 | Makelini Mausia |
+| 204 | 600 | Keis |
 | 205 | 598 | Bmo |
 | 206 | 597 | Kaycee Kay |
 | 207 | 594 | Elissa S-k |

@@ -99,8 +99,8 @@
 | 91 | 740 | Lori Sanders- Davis |
 | 92 | 722 | Kellie |
 | 93 | 707 | Jason Jones |
-| 94 | 706 | Denice Dee |
-| 95 | 706 | Plucky Fallzone |
+| 94 | 706 | Plucky Fallzone |
+| 95 | 706 | Denice Dee |
 | 96 | 704 | Karin Gillen |
 | 97 | 703 | Angel Fowler |
 | 98 | 671 | Chirpy Smasher |
@@ -193,9 +193,9 @@
 | 185 | 423 | Elaine Elaine |
 | 186 | 422 | canbrick |
 | 187 | 418 | David Miller |
-| 188 | 417 | Kimberly Garcia |
+| 188 | 417 | Debbie Kane |
 | 189 | 417 | Jessie Lynn |
-| 190 | 417 | Debbie Kane |
+| 190 | 417 | Kimberly Garcia |
 | 191 | 416 | Jessica Sheehan |
 | 192 | 415 | Jennifer Hardman |
 | 193 | 414 | Chelsea Dahlquist |
@@ -234,9 +234,9 @@
 | 226 | 371 | Chuck Gannon |
 | 227 | 370 | Gracie |
 | 228 | 366 | J.F. Fields |
-| 229 | 365 | Amanda Holibaugh |
-| 230 | 365 | Lakeisha Chapman |
-| 231 | 365 | Shannon Marie Pitts |
+| 229 | 365 | Lakeisha Chapman |
+| 230 | 365 | Shannon Marie Pitts |
+| 231 | 365 | Amanda Holibaugh |
 | 232 | 364 | Shauna Loe |
 | 233 | 364 | Serina Marie |
 | 234 | 363 | Jerry Danowski |
@@ -279,8 +279,8 @@
 | 271 | 332 | Plucky Stacky |
 | 272 | 332 | Letson Melissa |
 | 273 | 330 | Rebecca Apley Mielke |
-| 274 | 329 | Frothy Pattern |
-| 275 | 329 | Marianita Garcia |
+| 274 | 329 | Marianita Garcia |
+| 275 | 329 | Frothy Pattern |
 | 276 | 328 | Jeremy Maubert |
 | 277 | 325 | GringaLinga |
 | 278 | 324 | Sylvia Vasquez |
@@ -306,9 +306,9 @@
 | 298 | 305 | Larry Tilton |
 | 299 | 303 | DaRascal |
 | 300 | 302 | LaFontaine Leslie |
-| 301 | 301 | Brave Wrecker |
-| 302 | 301 | Chad Atchley |
-| 303 | 301 | Glitzy Curvebuilder |
+| 301 | 301 | Chad Atchley |
+| 302 | 301 | Glitzy Curvebuilder |
+| 303 | 301 | Brave Wrecker |
 | 304 | 300 | Giggly Builderline |
 | 305 | 299 | LD1 |
 | 306 | 298 | Sweetts |
@@ -889,7 +889,7 @@
 | 881 | 102 | Jamie Vander Velden |
 | 882 | 101 | ply |
 | 883 | 101 | Kristal Kay |
-| 884 | 100 | Fancy Risebuilder |
+| 884 | 100 | Peg |
 | 885 | 100 | Matt Leroux |
 | 886 | 100 | Jeff Jack II |
 | 887 | 100 | Snippy Piecefit |

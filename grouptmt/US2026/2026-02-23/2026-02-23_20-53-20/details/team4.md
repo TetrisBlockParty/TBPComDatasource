@@ -171,12 +171,12 @@
 | 163 | 501 | Ericca Eldridge |
 | 164 | 498 | Melissa Adams |
 | 165 | 496 | Cindy Looper |
-| 166 | 491 | Carrie Brian |
-| 167 | 491 | Jade Rian |
+| 166 | 491 | Jade Rian |
+| 167 | 491 | Carrie Brian |
 | 168 | 486 | Swanky Fitline |
 | 169 | 485 | Rico |
-| 170 | 480 | Brandon Crabbs |
-| 171 | 480 | Adam Stephanie Parker |
+| 170 | 480 | Adam Stephanie Parker |
+| 171 | 480 | Brandon Crabbs |
 | 172 | 479 | Christina Black |
 | 173 | 477 | Casey Grabner |
 | 174 | 476 | Matt Summer |
@@ -316,8 +316,8 @@
 | 308 | 291 | Dizzy Matchzone |
 | 309 | 291 | Brittney Orengo |
 | 310 | 290 | Heather Bruce |
-| 311 | 290 | Jared Gutwein |
-| 312 | 290 | Neirrah B Olailjeel |
+| 311 | 290 | Neirrah B Olailjeel |
+| 312 | 290 | Jared Gutwein |
 | 313 | 289 | Juls |
 | 314 | 289 | Deb Rubeck |
 | 315 | 288 | Amy Jean |
@@ -380,8 +380,8 @@
 | 372 | 252 | Maureen Flanigan |
 | 373 | 252 | Dan Wold |
 | 374 | 252 | Gracie Ann Taylor |
-| 375 | 251 | Carol Ricks Raymond |
-| 376 | 251 | Kathy Allen |
+| 375 | 251 | Kathy Allen |
+| 376 | 251 | Carol Ricks Raymond |
 | 377 | 250 | Stephme310 |
 | 378 | 249 | Ak Jones |
 | 379 | 248 | Chirpy Basepiece |
@@ -390,8 +390,8 @@
 | 382 | 246 | giantslover514 |
 | 383 | 244 | Elizabeth Tinoco |
 | 384 | 244 | Perky Piecegrid |
-| 385 | 243 | tipsy tiger |
-| 386 | 243 | Val Erie |
+| 385 | 243 | Val Erie |
+| 386 | 243 | tipsy tiger |
 | 387 | 242 | PurpleMoonMa |
 | 388 | 242 | PennyCandee |
 | 389 | 240 | KayM |
@@ -536,8 +536,8 @@
 | 528 | 179 | JoAnna Zalkovsky |
 | 529 | 179 | Elle Joe |
 | 530 | 178 | Sunny Filler |
-| 531 | 178 | Nerdy Linebuilder |
-| 532 | 178 | Laurel Coppess |
+| 531 | 178 | Laurel Coppess |
+| 532 | 178 | Nerdy Linebuilder |
 | 533 | 177 | Snippy Clearer |
 | 534 | 177 | Stephanie Mico |
 | 535 | 176 | Walid Elsabee |
