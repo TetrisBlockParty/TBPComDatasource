@@ -88,8 +88,8 @@
 | 80 | 1258 | Shari Garber |
 | 81 | 1244 | Lori Barnaby |
 | 82 | 1221 | Betty Ivy |
-| 83 | 1213 | Snappy Glidepiece |
-| 84 | 1213 | Nerdy Riseclear |
+| 83 | 1213 | Nerdy Riseclear |
+| 84 | 1213 | Snappy Glidepiece |
 | 85 | 1212 | Amanda Adkins |
 | 86 | 1186 | Christian A. Pollard |
 | 87 | 1158 | Danielle Mogg |

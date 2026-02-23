@@ -177,8 +177,8 @@
 | 169 | 426 | Maria C. Hernandez |
 | 170 | 425 | Tyler Werts |
 | 171 | 424 | Emily Adelaide Wheatley |
-| 172 | 417 | Jessie Lynn |
-| 173 | 417 | Kimberly Garcia |
+| 172 | 417 | Kimberly Garcia |
+| 173 | 417 | Jessie Lynn |
 | 174 | 416 | Jessica Sheehan |
 | 175 | 415 | Jennifer Hardman |
 | 176 | 414 | Chelsea Dahlquist |
@@ -387,10 +387,10 @@
 | 379 | 236 | Snappy Bridgepiece |
 | 380 | 235 | Nutty Glide |
 | 381 | 235 | Jumpy Rotate |
-| 382 | 235 | Nutty Glide |
+| 382 | 235 | Ariel Whittington |
 | 383 | 234 | Brandie Gallegos |
-| 384 | 233 | Shiny Gridmatch |
-| 385 | 233 | Melissa Bires Hussar |
+| 384 | 233 | Melissa Bires Hussar |
+| 385 | 233 | Shiny Gridmatch |
 | 386 | 233 | Cheeky Crusher |
 | 387 | 232 | Mary Sheets |
 | 388 | 232 | Jennifer Olewnik Soborowski |
@@ -420,7 +420,7 @@
 | 412 | 220 | Bay Marie |
 | 413 | 219 | Negan Mallory Knoxx Spence |
 | 414 | 219 | Jeremy Maubert |
-| 415 | 219 | Negan Mallory Knoxx Spence |
+| 415 | 219 | Jeanna Dunn |
 | 416 | 218 | Jason Benitez |
 | 417 | 217 | Betsy |
 | 418 | 217 | Lyn Sibayan |

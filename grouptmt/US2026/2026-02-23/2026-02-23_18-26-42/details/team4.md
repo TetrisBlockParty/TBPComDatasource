@@ -253,8 +253,8 @@
 | 245 | 347 | Daria Rycewicz |
 | 246 | 343 | HastyGrabber |
 | 247 | 342 | blasterB |
-| 248 | 341 | scott |
-| 249 | 341 | Mary Ann Pabukis |
+| 248 | 341 | Mary Ann Pabukis |
+| 249 | 341 | scott |
 | 250 | 340 | Jen Caldwell |
 | 251 | 340 | Cranky Rollpiece |
 | 252 | 340 | Amanda Maciel Clarke |
@@ -298,8 +298,8 @@
 | 290 | 291 | Hyper Builder |
 | 291 | 291 | Dizzy Matchzone |
 | 292 | 290 | Jared Gutwein |
-| 293 | 290 | Neirrah B Olailjeel |
-| 294 | 290 | Heather Bruce |
+| 293 | 290 | Heather Bruce |
+| 294 | 290 | Neirrah B Olailjeel |
 | 295 | 289 | Juls |
 | 296 | 288 | Brittney Orengo |
 | 297 | 287 | Kim Klutz Olson |
@@ -484,8 +484,8 @@
 | 476 | 190 | Jacob Campbell |
 | 477 | 190 | Robert Rangel |
 | 478 | 189 | Marcus TheeyoungWoe Gilmore |
-| 479 | 188 | Frilly Blocky |
-| 480 | 188 | Stacy |
+| 479 | 188 | Stacy |
+| 480 | 188 | Frilly Blocky |
 | 481 | 187 | Jason Punch |
 | 482 | 186 | Dandy Cascadefit |
 | 483 | 186 | Jesse Saville |
@@ -1164,9 +1164,9 @@
 | 1156 | 55 | Michelle McCutcheon |
 | 1157 | 55 | BenLane |
 | 1158 | 55 | David Phifer |
-| 1159 | 55 | RiahRose |
+| 1159 | 55 | ChuckBuck Copeland |
 | 1160 | 55 | Krystol Fantabulously Gorgeously Dennis |
-| 1161 | 55 | ChuckBuck Copeland |
+| 1161 | 55 | RiahRose |
 | 1162 | 54 | Joseph Bodon |
 | 1163 | 54 | Lisha Billups |
 | 1164 | 54 | Chill Tetrisline |

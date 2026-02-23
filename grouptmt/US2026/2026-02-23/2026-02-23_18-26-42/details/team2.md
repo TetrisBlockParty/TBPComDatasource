@@ -508,8 +508,8 @@
 | 500 | 764 | Belle |
 | 501 | 763 | Heather Causey |
 | 502 | 761 | Jerilyn Andrina |
-| 503 | 758 | Stephanie Neuburger |
-| 504 | 758 | Kimberly Randesi |
+| 503 | 758 | Kimberly Randesi |
+| 504 | 758 | Stephanie Neuburger |
 | 505 | 757 | Chelle |
 | 506 | 755 | Taryece Gause |
 | 507 | 751 | Loony Snapper |
@@ -6029,7 +6029,7 @@
 | 6021 | 72 | Frilly Shatterfit |
 | 6022 | 72 | Crystal Wehrley |
 | 6023 | 72 | Charles Turcotte |
-| 6024 | 72 | Glitzy Tilerpiece |
+| 6024 | 72 | Joshua Smith |
 | 6025 | 72 | Lol |
 | 6026 | 72 | Bold Cascadefit |
 | 6027 | 72 | Glitzy Tilerpiece |
