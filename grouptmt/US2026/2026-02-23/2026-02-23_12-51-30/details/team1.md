@@ -108,21 +108,21 @@
 | 100 | 534 | Loony Fitzone |
 | 101 | 534 | Veronica Eve |
 | 102 | 529 | Ryan Lunnin |
-| 103 | 522 | Tdub |
-| 104 | 522 | Sarah Lombardo |
+| 103 | 522 | Sarah Lombardo |
+| 104 | 522 | Tdub |
 | 105 | 515 | Death |
 | 106 | 513 | Colena Davenport |
 | 107 | 511 | Mario Cab |
 | 108 | 510 | Chirpy Smasher |
 | 109 | 509 | Rachael |
 | 110 | 502 | Anaid Sanchez |
-| 111 | 497 | Arianna O'Brien |
-| 112 | 497 | Jennifer ManWarren |
+| 111 | 497 | Jennifer ManWarren |
+| 112 | 497 | Arianna O'Brien |
 | 113 | 493 | MomMom |
 | 114 | 492 | Ash Galvan |
 | 115 | 491 | cc |
-| 116 | 489 | Deanna L Hermanson |
-| 117 | 489 | April Carroll |
+| 116 | 489 | April Carroll |
+| 117 | 489 | Deanna L Hermanson |
 | 118 | 483 | Trina Gee |
 | 119 | 477 | Tonya Beasley |
 | 120 | 475 | Sarah Somers Gray |
@@ -149,8 +149,8 @@
 | 141 | 429 | Kristi Johnson |
 | 142 | 428 | Ly Phethmany |
 | 143 | 426 | Maria C. Hernandez |
-| 144 | 425 | Tyler Werts |
-| 145 | 425 | Dandy Basegrid |
+| 144 | 425 | Dandy Basegrid |
+| 145 | 425 | Tyler Werts |
 | 146 | 423 | ALFD |
 | 147 | 417 | Phu ckalldems |
 | 148 | 416 | Jessica Sheehan |
@@ -216,11 +216,11 @@
 | 208 | 342 | Snippy Wipebuilder |
 | 209 | 341 | Nick R Montague |
 | 210 | 339 | Nicole Roseberry Weber |
-| 211 | 337 | Jamise Brown |
-| 212 | 337 | Kimberly Garcia |
-| 213 | 333 | Tyler Hertzog |
-| 214 | 333 | Jennifer Noe Chandler |
-| 215 | 333 | Virginia Gray Floyd |
+| 211 | 337 | Kimberly Garcia |
+| 212 | 337 | Jamise Brown |
+| 213 | 333 | Virginia Gray Floyd |
+| 214 | 333 | Tyler Hertzog |
+| 215 | 333 | Jennifer Noe Chandler |
 | 216 | 332 | Happy Basegrid |
 | 217 | 328 | Snappy Matcher |
 | 218 | 327 | Jen Nystrom |
@@ -425,8 +425,8 @@
 | 417 | 191 | Amh |
 | 418 | 191 | Vivienne Carter |
 | 419 | 190 | yoyoluv |
-| 420 | 189 | BettyAnn Savo |
-| 421 | 189 | Dizzy Rackham |
+| 420 | 189 | Dizzy Rackham |
+| 421 | 189 | BettyAnn Savo |
 | 422 | 188 | Strig |
 | 423 | 188 | Brian Taylor |
 | 424 | 187 | Sarahdactyl |

@@ -321,8 +321,8 @@
 | 313 | 996 | Ashie Ann |
 | 314 | 987 | Osun Anuket Esu |
 | 315 | 980 | Jackie Lucas |
-| 316 | 979 | Hillary Crawford |
-| 317 | 979 | Melissa Penelope Ann Dodge |
+| 316 | 979 | Melissa Penelope Ann Dodge |
+| 317 | 979 | Hillary Crawford |
 | 318 | 978 | April Dawn Gussler |
 | 319 | 978 | Spunkysmom |
 | 320 | 976 | Sam Joe |
@@ -371,8 +371,8 @@
 | 363 | 902 | Diallo Sparkman |
 | 364 | 901 | Kevin Sees |
 | 365 | 899 | Felicia Lynn |
-| 366 | 899 | Chevy |
-| 367 | 899 | Patrick Bartlett |
+| 366 | 899 | Patrick Bartlett |
+| 367 | 899 | Chevy |
 | 368 | 895 | Lisa Ongtowasruk |
 | 369 | 895 | Donna Colby |
 | 370 | 894 | Adira Brown |

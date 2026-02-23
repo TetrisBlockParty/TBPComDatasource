@@ -49,8 +49,8 @@
 | 41 | 1121 | Isabel Aguilar |
 | 42 | 1100 | Landon Keith Graffeo |
 | 43 | 1085 | Kimyatta Cavin |
-| 44 | 1082 | Dion Crommarty |
-| 45 | 1082 | Dawn Alexander |
+| 44 | 1082 | Dawn Alexander |
+| 45 | 1082 | Dion Crommarty |
 | 46 | 1071 | Cherrish Duren |
 | 47 | 1065 | Koshin Abdirahman |
 | 48 | 1046 | Johnathan Martinez |
@@ -202,8 +202,8 @@
 | 194 | 355 | James Hurley Jr. |
 | 195 | 354 | TRCuse |
 | 196 | 352 | Sue Joyce Staats |
-| 197 | 348 | April Rondinone |
-| 198 | 348 | David Lay |
+| 197 | 348 | David Lay |
+| 198 | 348 | April Rondinone |
 | 199 | 347 | Crystal Nicolette Moore |
 | 200 | 347 | Daria Rycewicz |
 | 201 | 347 | Bio Nelly |
@@ -233,8 +233,8 @@
 | 225 | 313 | Milan Markeisha |
 | 226 | 312 | Casey Grabner |
 | 227 | 312 | Dihcheese444 |
-| 228 | 311 | Nikki Rae Gordon |
-| 229 | 311 | Mary Ann Pabukis |
+| 228 | 311 | Mary Ann Pabukis |
+| 229 | 311 | Nikki Rae Gordon |
 | 230 | 310 | Holly Jolly |
 | 231 | 308 | Leah Kutz Zirbel |
 | 232 | 307 | Cheery Risebuilder |
