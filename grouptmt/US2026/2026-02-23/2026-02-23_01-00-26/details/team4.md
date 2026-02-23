@@ -214,10 +214,10 @@
 | 206 | 276 | Joeliecea Cobb |
 | 207 | 273 | Casey Grabner |
 | 208 | 272 | Dennis Bradley |
-| 209 | 272 | Alan George LaRage |
-| 210 | 272 | Porkobello |
-| 211 | 271 | Chris Hartig |
-| 212 | 271 | Sarah Brown |
+| 209 | 272 | Porkobello |
+| 210 | 272 | Alan George LaRage |
+| 211 | 271 | Sarah Brown |
+| 212 | 271 | Chris Hartig |
 | 213 | 270 | Juls |
 | 214 | 270 | Jen Caldwell |
 | 215 | 269 | Nikki Rae Gordon |
@@ -226,15 +226,15 @@
 | 218 | 266 | blockstar |
 | 219 | 265 | Sarah Neathery |
 | 220 | 264 | Carlos Ramirez |
-| 221 | 261 | scott |
-| 222 | 261 | Dihcheese444 |
+| 221 | 261 | Dihcheese444 |
+| 222 | 261 | scott |
 | 223 | 259 | Montiette Mcglown |
 | 224 | 258 | April Rondinone |
 | 225 | 257 | Cheery Risebuilder |
 | 226 | 257 | PeaceOs |
 | 227 | 256 | Mylo Lipscomb |
-| 228 | 252 | Mr. Party |
-| 229 | 252 | Selena Shaw |
+| 228 | 252 | Selena Shaw |
+| 229 | 252 | Mr. Party |
 | 230 | 251 | Carol Ricks Raymond |
 | 231 | 249 | Ak Jones |
 | 232 | 248 | Jose Dejesus |
@@ -245,8 +245,8 @@
 | 237 | 245 | Autum Leigh |
 | 238 | 245 | Adam Stephanie Parker |
 | 239 | 241 | Allen Lloyd |
-| 240 | 240 | Perky Patternblock |
-| 241 | 240 | Kim Hunt |
+| 240 | 240 | Kim Hunt |
+| 241 | 240 | Perky Patternblock |
 | 242 | 238 | Chaz |
 | 243 | 237 | 030Synner |
 | 244 | 237 | Christine Therrien |
@@ -299,8 +299,8 @@
 | 291 | 200 | Googenheim |
 | 292 | 199 | Carter Jones |
 | 293 | 198 | Calvin Dennis |
-| 294 | 197 | Richard-April Kice |
-| 295 | 197 | Gilles Lanctot |
+| 294 | 197 | Gilles Lanctot |
+| 295 | 197 | Richard-April Kice |
 | 296 | 196 | rebel4lyfe |
 | 297 | 195 | 中山成巳 |
 | 298 | 194 | Denise B |
@@ -394,7 +394,7 @@
 | 386 | 156 | Nig |
 | 387 | 156 | Terrance Fung |
 | 388 | 155 | Jared Gutwein |
-| 389 | 154 | Happy Combo |
+| 389 | 154 | Jasmine S Caldwell |
 | 390 | 154 | Russ Attitude |
 | 391 | 154 | Happy Combo |
 | 392 | 153 | O block |

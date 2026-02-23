@@ -124,8 +124,8 @@
 | 116 | 1739 | Katrina Williams Balmir |
 | 117 | 1732 | Mindy Leigh Head |
 | 118 | 1699 | Jamie Main |
-| 119 | 1681 | Shandrica Lowe |
-| 120 | 1681 | Nett |
+| 119 | 1681 | Nett |
+| 120 | 1681 | Shandrica Lowe |
 | 121 | 1679 | Jumpy Gridpiece |
 | 122 | 1677 | ShinyRose |
 | 123 | 1652 | Kristopher Miller |
@@ -292,8 +292,8 @@
 | 284 | 914 | Shuany Arias |
 | 285 | 907 | Gene Mills |
 | 286 | 905 | Osun Anuket Esu |
-| 287 | 904 | John Bednarik |
-| 288 | 904 | Jennifer Aiken |
+| 287 | 904 | Jennifer Aiken |
+| 288 | 904 | John Bednarik |
 | 289 | 904 | Ashlen Dorrell |
 | 290 | 904 | Missie Lawson Gebhardt |
 | 291 | 902 | William Hunt |
@@ -335,8 +335,8 @@
 | 327 | 821 | Cassie Mercer |
 | 328 | 821 | Angie Bolton Workman |
 | 329 | 820 | Julie Kresal |
-| 330 | 818 | Lola Contreras |
-| 331 | 818 | Jessica Wayne Cornwall |
+| 330 | 818 | Jessica Wayne Cornwall |
+| 331 | 818 | Lola Contreras |
 | 332 | 816 | James Simms III |
 | 333 | 812 | Samantha Jo |
 | 334 | 812 | Jackie Lucas |
@@ -362,8 +362,8 @@
 | 354 | 769 | Melissa Cole |
 | 355 | 768 | Joshua Self |
 | 356 | 768 | Arkei Luster |
-| 357 | 767 | Ashley Lopez |
-| 358 | 767 | Fancy Twister |
+| 357 | 767 | Fancy Twister |
+| 358 | 767 | Ashley Lopez |
 | 359 | 765 | Kathryn Townsley |
 | 360 | 763 | Dreamy Blast |
 | 361 | 763 | Heather Causey |
@@ -738,8 +738,8 @@
 | 730 | 415 | Mandy Kachenmeister |
 | 731 | 414 | John |
 | 732 | 414 | Rose Fx |
-| 733 | 413 | Ashley Robbins |
-| 734 | 413 | Catherine Marsh Gruda |
+| 733 | 413 | Catherine Marsh Gruda |
+| 734 | 413 | Ashley Robbins |
 | 735 | 413 | Kristen O'Neal |
 | 736 | 413 | Moist_B-hole |
 | 737 | 412 | Boogie SoAnimated Johnson |
