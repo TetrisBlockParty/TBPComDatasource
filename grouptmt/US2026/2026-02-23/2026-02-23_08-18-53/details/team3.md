@@ -121,8 +121,8 @@
 | 113 | 831 | Angeline Joseph |
 | 114 | 830 | Stephanie Allmon |
 | 115 | 826 | Shane Wilson Jr. |
-| 116 | 816 | Jesse Olive |
-| 117 | 816 | Brenda Lee Vander Molen |
+| 116 | 816 | Brenda Lee Vander Molen |
+| 117 | 816 | Jesse Olive |
 | 118 | 802 | Bobbi Moore |
 | 119 | 800 | Lauren Girouard |
 | 120 | 799 | Dolores Falco |
@@ -176,8 +176,8 @@
 | 168 | 591 | Michael Nowogorski |
 | 169 | 588 | Justin Ritter |
 | 170 | 587 | Louise Stacy Sisson |
-| 171 | 585 | Annie Marie |
-| 172 | 585 | Happy Tetriblast |
+| 171 | 585 | Happy Tetriblast |
+| 172 | 585 | Annie Marie |
 | 173 | 583 | Tasha Gillespie |
 | 174 | 582 | Natasha Jones |
 | 175 | 577 | Domo Washington |
@@ -192,9 +192,9 @@
 | 184 | 556 | Elissa S-k |
 | 185 | 553 | LaTanya GeminiondaRise Johnson |
 | 186 | 548 | Danielle Balcom |
-| 187 | 546 | Tasha Schriewer |
+| 187 | 546 | Mykal Burton |
 | 188 | 546 | Cynthia Castros-Hampton |
-| 189 | 546 | Mykal Burton |
+| 189 | 546 | Tasha Schriewer |
 | 190 | 540 | Shawn Miller |
 | 191 | 531 | Sarah Cowan Burgos |
 | 192 | 531 | Chauntee Alfrey-Cardinale |
@@ -214,8 +214,8 @@
 | 206 | 488 | Melissa Orth Hunter |
 | 207 | 485 | Dapper Snap |
 | 208 | 484 | Fallorina Susana |
-| 209 | 480 | Danielle Allison |
-| 210 | 480 | Michael Johnson |
+| 209 | 480 | Michael Johnson |
+| 210 | 480 | Danielle Allison |
 | 211 | 477 | Edwin Calvillo Jr. |
 | 212 | 475 | Tessina Dewey-Mancino |
 | 213 | 473 | Connie Mohler-Fair |
@@ -245,8 +245,8 @@
 | 237 | 408 | Tiffany Ford |
 | 238 | 406 | Kristal C Lee |
 | 239 | 404 | Chasity |
-| 240 | 403 | Scott Lindsay |
-| 241 | 403 | Denita Mungro |
+| 240 | 403 | Denita Mungro |
+| 241 | 403 | Scott Lindsay |
 | 242 | 398 | Marci Mize Fandrich |
 | 243 | 396 | Randy Clevenger |
 | 244 | 395 | rosy |
@@ -276,8 +276,8 @@
 | 268 | 367 | Kristin Delibac Corrigan |
 | 269 | 366 | Gumbo |
 | 270 | 365 | Noyb Adam |
-| 271 | 364 | Steffi Chris Dacones |
-| 272 | 364 | Carrie Huskey |
+| 271 | 364 | Carrie Huskey |
+| 272 | 364 | Steffi Chris Dacones |
 | 273 | 362 | Brandon Givens |
 | 274 | 360 | Cesar Barraza |
 | 275 | 359 | Sleepy |
@@ -346,11 +346,11 @@
 | 338 | 299 | TotoCherue |
 | 339 | 299 | Angie Harper |
 | 340 | 299 | Hasty Gridpiece |
-| 341 | 298 | Dannie Litchard |
-| 342 | 298 | Grams |
+| 341 | 298 | Grams |
+| 342 | 298 | Dannie Litchard |
 | 343 | 297 | kacihall |
-| 344 | 296 | Tracy Martin |
-| 345 | 296 | Donna |
+| 344 | 296 | Donna |
+| 345 | 296 | Tracy Martin |
 | 346 | 295 | Nikki Pags |
 | 347 | 294 | Antonia Russell |
 | 348 | 292 | Kirhonda Autmon |
@@ -364,11 +364,11 @@
 | 356 | 287 | Hoppy Patternline |
 | 357 | 284 | Hanna Kim |
 | 358 | 283 | Kaycee Kay |
-| 359 | 280 | ROODBOY |
-| 360 | 280 | Aerian Preston |
+| 359 | 280 | Aerian Preston |
+| 360 | 280 | ROODBOY |
 | 361 | 280 | Dirtgirl27 |
-| 362 | 279 | Tosha Griffey |
-| 363 | 279 | Naur |
+| 362 | 279 | Naur |
+| 363 | 279 | Tosha Griffey |
 | 364 | 278 | Rufus Lincoln |
 | 365 | 277 | Krystal Gerstberger |
 | 366 | 277 | France Vézina |
@@ -401,8 +401,8 @@
 | 393 | 265 | AlsoJess |
 | 394 | 264 | Reina Roth |
 | 395 | 264 | Danielle Beaunoyer Jean |
-| 396 | 263 | Jimmie Clemons |
-| 397 | 263 | Erika Thornton |
+| 396 | 263 | Erika Thornton |
+| 397 | 263 | Jimmie Clemons |
 | 398 | 261 | Swanky Snapclear |
 | 399 | 260 | Alice |
 | 400 | 260 | Tracey Cox |
