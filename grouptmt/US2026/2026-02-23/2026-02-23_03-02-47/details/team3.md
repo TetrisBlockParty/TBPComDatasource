@@ -27,8 +27,8 @@
 | 19 | 2494 | Ashley Jones |
 | 20 | 2387 | Susan Valentino |
 | 21 | 2302 | Laura Melton |
-| 22 | 2287 | Brandon Green |
-| 23 | 2287 | Tetris Master |
+| 22 | 2287 | Tetris Master |
+| 23 | 2287 | Brandon Green |
 | 24 | 2144 | Zippy Strikesnap |
 | 25 | 2016 | Chummy Shatterer |
 | 26 | 1959 | mjl574 |
@@ -320,8 +320,8 @@
 | 312 | 294 | fraulila |
 | 313 | 291 | Geoffrey Nash |
 | 314 | 289 | DidIdothat |
-| 315 | 287 | Carol Cain Thurman |
-| 316 | 287 | Sabrina Hardrick |
+| 315 | 287 | Sabrina Hardrick |
+| 316 | 287 | Carol Cain Thurman |
 | 317 | 287 | Hoppy Patternline |
 | 318 | 286 | Lizabeth Fox |
 | 319 | 286 | Micayah Stevens |

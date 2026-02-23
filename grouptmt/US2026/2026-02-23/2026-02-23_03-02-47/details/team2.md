@@ -140,8 +140,8 @@
 | 132 | 1644 | Luna |
 | 133 | 1639 | Jessie McDougald |
 | 134 | 1631 | Speedy Spinblock |
-| 135 | 1623 | Rebecca Doughman |
-| 136 | 1623 | Mr. Street Stack |
+| 135 | 1623 | Mr. Street Stack |
+| 136 | 1623 | Rebecca Doughman |
 | 137 | 1622 | Mari Ac |
 | 138 | 1614 | Janel Turley-Garner |
 | 139 | 1605 | Christi Hulet |
@@ -174,8 +174,8 @@
 | 166 | 1450 | Shiny Rollzone |
 | 167 | 1428 | Eboni Banks |
 | 168 | 1418 | L3sli3 |
-| 169 | 1416 | Nancy Reid |
-| 170 | 1416 | Kiok |
+| 169 | 1416 | Kiok |
+| 170 | 1416 | Nancy Reid |
 | 171 | 1411 | niecy |
 | 172 | 1403 | Bussyiano Page |
 | 173 | 1390 | Erica Williams |
@@ -197,8 +197,8 @@
 | 189 | 1300 | Tacara Cummings |
 | 190 | 1294 | Ashley House |
 | 191 | 1286 | Altamirano Michael |
-| 192 | 1282 | Tanya Parsons |
-| 193 | 1282 | Ashley Rose Frederick |
+| 192 | 1282 | Ashley Rose Frederick |
+| 193 | 1282 | Tanya Parsons |
 | 194 | 1258 | Joyce Johnson Vaughn |
 | 195 | 1257 | Michele Gabriel |
 | 196 | 1252 | Angel |
@@ -220,8 +220,8 @@
 | 212 | 1174 | Jennifer Casey-Kay |
 | 213 | 1169 | Pacynthia Williams |
 | 214 | 1169 | Steven Marshaun |
-| 215 | 1158 | Brittany Clark |
-| 216 | 1158 | Amy Sayers |
+| 215 | 1158 | Amy Sayers |
+| 216 | 1158 | Brittany Clark |
 | 217 | 1151 | Stacey Clement |
 | 218 | 1142 | Loretta Brewer-Gage |
 | 219 | 1141 | Adam Erikson |

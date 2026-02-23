@@ -145,8 +145,8 @@
 | 137 | 379 | Austin James |
 | 138 | 379 | Kimmie Kimms |
 | 139 | 376 | Brian Richardsson |
-| 140 | 375 | Tanya Carpenter-Reynolds |
-| 141 | 375 | Monica Donato |
+| 140 | 375 | Monica Donato |
+| 141 | 375 | Tanya Carpenter-Reynolds |
 | 142 | 371 | Jason Savage |
 | 143 | 368 | Tee Sheree |
 | 144 | 368 | Death |
@@ -235,8 +235,8 @@
 | 227 | 264 | Jenny Gingrich Fuentes |
 | 228 | 263 | Jessie Lynn |
 | 229 | 261 | John J. Cronin |
-| 230 | 260 | Lacy Wolfe |
-| 231 | 260 | Marianita Garcia |
+| 230 | 260 | Marianita Garcia |
+| 231 | 260 | Lacy Wolfe |
 | 232 | 258 | Perky Shiftsnap |
 | 233 | 257 | Lakeisha Chapman |
 | 234 | 256 | Snappy Matcher |
@@ -252,8 +252,8 @@
 | 244 | 244 | Eddie Dillon |
 | 245 | 242 | ParisandCory Champagne |
 | 246 | 241 | Tyler Hertzog |
-| 247 | 240 | Daring Fitclear |
-| 248 | 240 | DaRascal |
+| 247 | 240 | DaRascal |
+| 248 | 240 | Daring Fitclear |
 | 249 | 238 | Tiffany Smith |
 | 250 | 234 | Paula Martin |
 | 251 | 233 | Shiny Gridmatch |

@@ -80,8 +80,8 @@
 | 72 | 740 | Avy Absol |
 | 73 | 736 | Goatimus Lombardi |
 | 74 | 725 | Denise Carlson |
-| 75 | 704 | Crystal Carroll |
-| 76 | 704 | D3TROITB0RN74 |
+| 75 | 704 | D3TROITB0RN74 |
+| 76 | 704 | Crystal Carroll |
 | 77 | 697 | Alyssa Papen |
 | 78 | 694 | TheNeesh50 |
 | 79 | 691 | Savannah Overdorf |
@@ -130,11 +130,11 @@
 | 122 | 471 | Chastity Mitchell |
 | 123 | 458 | Twisty Clicky |
 | 124 | 452 | Jolly Dashfit |
-| 125 | 451 | Angela Srubar-Norman |
-| 126 | 451 | Peachy Fall |
+| 125 | 451 | Peachy Fall |
+| 126 | 451 | Angela Srubar-Norman |
 | 127 | 448 | Kristin Manee |
-| 128 | 435 | Kristina Black |
-| 129 | 435 | Leslie Thomas |
+| 128 | 435 | Leslie Thomas |
+| 129 | 435 | Kristina Black |
 | 130 | 431 | Courtney Cicoria |
 | 131 | 421 | Kesha Brady |
 | 132 | 421 | Monica Daley |
@@ -156,8 +156,8 @@
 | 148 | 391 | Livvy |
 | 149 | 391 | Ramel Rhodes |
 | 150 | 389 | Joseph Guthrie |
-| 151 | 387 | Lucas J Sutton |
-| 152 | 387 | 🥔🥔 Spudz |
+| 151 | 387 | 🥔🥔 Spudz |
+| 152 | 387 | Lucas J Sutton |
 | 153 | 377 | Carrie Brian |
 | 154 | 375 | Desi Desporte |
 | 155 | 375 | ThaEviLJeNiuZ |
@@ -219,8 +219,8 @@
 | 211 | 286 | Sam Bishop |
 | 212 | 284 | Mimi |
 | 213 | 282 | Matt Gooder |
-| 214 | 281 | Laura |
-| 215 | 281 | Kim Klutz Olson |
+| 214 | 281 | Kim Klutz Olson |
+| 215 | 281 | Laura |
 | 216 | 281 | Nikki Rae Gordon |
 | 217 | 277 | Zesty Twistbuilder |
 | 218 | 276 | Joeliecea Cobb |
