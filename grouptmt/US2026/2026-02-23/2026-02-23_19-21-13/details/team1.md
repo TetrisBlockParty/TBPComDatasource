@@ -379,8 +379,8 @@
 | 371 | 251 | ParisandCory Champagne |
 | 372 | 250 | BigWeenie69 |
 | 373 | 249 | Jeremy Maubert |
-| 374 | 248 | Teresa |
-| 375 | 248 | Christina Backer |
+| 374 | 248 | Christina Backer |
+| 375 | 248 | Teresa |
 | 376 | 248 | Shiny Gridmatch |
 | 377 | 246 | san |
 | 378 | 245 | LC |

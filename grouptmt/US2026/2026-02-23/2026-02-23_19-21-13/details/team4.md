@@ -80,8 +80,8 @@
 | 72 | 862 | Carolyn Wallace |
 | 73 | 847 | Peachy Fall |
 | 74 | 846 | Lucille Truesdale |
-| 75 | 846 | Amelpss |
-| 76 | 846 | Christine Marie |
+| 75 | 846 | Christine Marie |
+| 76 | 846 | Amelpss |
 | 77 | 841 | Shauna Havard |
 | 78 | 834 | quicksand420 |
 | 79 | 832 | Lisa Davis |
@@ -240,8 +240,8 @@
 | 232 | 367 | Sue Joyce Staats |
 | 233 | 365 | Hyper Builder |
 | 234 | 363 | Googenheim |
-| 235 | 363 | Cindy Looper |
-| 236 | 363 | Cheery Risebuilder |
+| 235 | 363 | Cheery Risebuilder |
+| 236 | 363 | Cindy Looper |
 | 237 | 362 | Meg |
 | 238 | 361 | Rafael Valentin |
 | 239 | 361 | Danielle Kollias |

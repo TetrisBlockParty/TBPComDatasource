@@ -168,8 +168,8 @@
 | 160 | 1769 | Chirpy Staggerpiece |
 | 161 | 1767 | niecy |
 | 162 | 1759 | Nerdy Pattern |
-| 163 | 1751 | Bob |
-| 164 | 1751 | Woodys Glass |
+| 163 | 1751 | Woodys Glass |
+| 164 | 1751 | Bob |
 | 165 | 1740 | blarg |
 | 166 | 1720 | Morgue Chick |
 | 167 | 1720 | Nett |
@@ -228,8 +228,8 @@
 | 220 | 1418 | Poppy Snap |
 | 221 | 1418 | L3sli3 |
 | 222 | 1408 | Becca Widmer |
-| 223 | 1397 | Matthew Joseph Acevedo |
-| 224 | 1397 | Joyce Johnson Vaughn |
+| 223 | 1397 | Joyce Johnson Vaughn |
+| 224 | 1397 | Matthew Joseph Acevedo |
 | 225 | 1396 | Julay |
 | 226 | 1395 | Katrina Weston |
 | 227 | 1393 | Samantha Roberts |
@@ -832,8 +832,8 @@
 | 824 | 521 | Shea Edison |
 | 825 | 521 | Juanita Lyons |
 | 826 | 520 | Antonio Mckoy Sr. |
-| 827 | 519 | Rob Brown |
-| 828 | 519 | Saucy Fitzone |
+| 827 | 519 | Saucy Fitzone |
+| 828 | 519 | Rob Brown |
 | 829 | 519 | Jason Garnatz |
 | 830 | 519 | Luke Califf |
 | 831 | 519 | Ashley Robbins |
