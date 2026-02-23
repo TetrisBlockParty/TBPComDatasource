@@ -163,8 +163,8 @@
 | 155 | 756 | Patty Allen |
 | 156 | 755 | Raya |
 | 157 | 746 | Denita Mungro |
-| 158 | 745 | Marcie Bressler |
-| 159 | 745 | ren |
+| 158 | 745 | ren |
+| 159 | 745 | Marcie Bressler |
 | 160 | 738 | Naur |
 | 161 | 736 | Melissa Orth Hunter |
 | 162 | 730 | Demetrious Shaw Sr. |
@@ -234,8 +234,8 @@
 | 226 | 546 | Mykal Burton |
 | 227 | 541 | Fran Lin |
 | 228 | 539 | Betty Bóò |
-| 229 | 537 | Aerian Preston |
-| 230 | 537 | Tessina Dewey-Mancino |
+| 229 | 537 | Tessina Dewey-Mancino |
+| 230 | 537 | Aerian Preston |
 | 231 | 537 | Tamara Deherrera |
 | 232 | 531 | Chauntee Alfrey-Cardinale |
 | 233 | 530 | Stephanie Blkpep Davidson |
@@ -301,8 +301,8 @@
 | 293 | 426 | Gumbo |
 | 294 | 425 | Jennifer Alvey |
 | 295 | 421 | Snazzy Filler |
-| 296 | 420 | Sabrina Hardrick |
-| 297 | 420 | Sarah Moyer |
+| 296 | 420 | Sarah Moyer |
+| 297 | 420 | Sabrina Hardrick |
 | 298 | 417 | Giddy Twistbuilder |
 | 299 | 414 | RickyG |
 | 300 | 412 | Jojo M |

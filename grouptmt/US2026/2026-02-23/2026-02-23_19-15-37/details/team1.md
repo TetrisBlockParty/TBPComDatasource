@@ -161,8 +161,8 @@
 | 153 | 470 | Candy Jones |
 | 154 | 467 | Constance Risner |
 | 155 | 463 | Nicole Roseberry Weber |
-| 156 | 462 | Luciano Moreira |
-| 157 | 462 | Hasty Cascader |
+| 156 | 462 | Hasty Cascader |
+| 157 | 462 | Luciano Moreira |
 | 158 | 460 | Steve Schneider |
 | 159 | 458 | Goose egg |
 | 160 | 457 | phrmblk24 |

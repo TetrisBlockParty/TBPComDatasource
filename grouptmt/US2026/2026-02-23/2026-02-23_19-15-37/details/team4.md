@@ -193,8 +193,8 @@
 | 185 | 434 | Ramel Rhodes |
 | 186 | 431 | Courtney Cicoria |
 | 187 | 427 | Steph Marie |
-| 188 | 426 | 🥔🥔 Spudz |
-| 189 | 426 | Rebecca Morris |
+| 188 | 426 | Rebecca Morris |
+| 189 | 426 | 🥔🥔 Spudz |
 | 190 | 425 | Damn Libra |
 | 191 | 424 | J-Rizzle |
 | 192 | 424 | Keshia Lyons |
@@ -320,10 +320,10 @@
 | 312 | 278 | Angela Geist Jusinski |
 | 313 | 278 | Sarah Brown |
 | 314 | 277 | Brittany Marsh |
-| 315 | 276 | Bradley Reeves |
-| 316 | 276 | Silly SeaWeed |
+| 315 | 276 | Lee Silpe |
+| 316 | 276 | Bradley Reeves |
 | 317 | 276 | Susan Williams |
-| 318 | 276 | Lee Silpe |
+| 318 | 276 | Silly SeaWeed |
 | 319 | 276 | Cynthia Boudreau |
 | 320 | 275 | Jim Hart |
 | 321 | 274 | Amy Sanford |
@@ -332,8 +332,8 @@
 | 324 | 272 | Tony Pavelka |
 | 325 | 271 | Holly |
 | 326 | 270 | Brittany Little |
-| 327 | 270 | 07VHVW |
-| 328 | 270 | 23 |
+| 327 | 270 | 23 |
+| 328 | 270 | 07VHVW |
 | 329 | 269 | Chummy Towerzone |
 | 330 | 268 | Shukee Lo |
 | 331 | 267 | Metsfan |
@@ -391,8 +391,8 @@
 | 383 | 235 | LaDonna LovinmesomeMe Lambert |
 | 384 | 234 | Diosa Ebalobo Magsael |
 | 385 | 234 | Amanda Christine |
-| 386 | 234 | Shanon Klair |
-| 387 | 234 | Richard-April Kice |
+| 386 | 234 | Richard-April Kice |
+| 387 | 234 | Shanon Klair |
 | 388 | 233 | Joseph Edmonson |
 | 389 | 232 | Jenny Wells-Oakley |
 | 390 | 230 | Chantilly Laace |
@@ -466,8 +466,8 @@
 | 458 | 201 | O block |
 | 459 | 201 | Walter Beltran |
 | 460 | 200 | Mighty Edgepiece |
-| 461 | 200 | Jarred Falls |
-| 462 | 200 | Sandra Safford |
+| 461 | 200 | Sandra Safford |
+| 462 | 200 | Jarred Falls |
 | 463 | 199 | Grann8 |
 | 464 | 199 | Michelle Morris |
 | 465 | 198 | Helen Chao |
@@ -482,8 +482,8 @@
 | 474 | 194 | Zany Twisterfit |
 | 475 | 194 | Carlos Hernandez |
 | 476 | 193 | tipsy tiger |
-| 477 | 192 | Jeff Roberts |
-| 478 | 192 | Jacob Campbell |
+| 477 | 192 | Jacob Campbell |
+| 478 | 192 | Jeff Roberts |
 | 479 | 192 | Rebecca A Rit |
 | 480 | 192 | Twisty Risebuilder |
 | 481 | 191 | Jobadia Steelerton |
@@ -523,15 +523,15 @@
 | 515 | 177 | Chao Ma |
 | 516 | 177 | Stephanie Mico |
 | 517 | 176 | @ |
-| 518 | 176 | Walid Elsabee |
-| 519 | 176 | Jlmendillo |
+| 518 | 176 | Jlmendillo |
+| 519 | 176 | Walid Elsabee |
 | 520 | 175 | Veronica Garza |
 | 521 | 173 | Tanner Lund |
 | 522 | 173 | Joshua Cuellar |
 | 523 | 172 | Janis Brown |
 | 524 | 172 | Linda Alexander Downing |
-| 525 | 172 | Undeniable Williams |
-| 526 | 172 | Christine Simmons |
+| 525 | 172 | Christine Simmons |
+| 526 | 172 | Undeniable Williams |
 | 527 | 171 | Terrance Fung |
 | 528 | 171 | Dapper Balancer |
 | 529 | 170 | Peppy Drop |
@@ -588,7 +588,7 @@
 | 580 | 155 | Faja |
 | 581 | 154 | Ashley Danielle |
 | 582 | 154 | Holly Tracey-Grimes |
-| 583 | 153 | Penny Dean |
+| 583 | 153 | Josh Chapell |
 | 584 | 153 | Ahleek Mitchell |
 | 585 | 153 | Penny Dean |
 | 586 | 151 | Brad Campbell |
