@@ -81,8 +81,8 @@
 | 73 | 1252 | Gracie |
 | 74 | 1244 | Lori Barnaby |
 | 75 | 1221 | Betty Ivy |
-| 76 | 1213 | Nerdy Riseclear |
-| 77 | 1213 | Snappy Glidepiece |
+| 76 | 1213 | Snappy Glidepiece |
+| 77 | 1213 | Nerdy Riseclear |
 | 78 | 1209 | Amanda Adkins |
 | 79 | 1186 | Christian A. Pollard |
 | 80 | 1154 | Carrie Jarvis Mohler |
@@ -185,15 +185,15 @@
 | 177 | 591 | Kaycee Kay |
 | 178 | 591 | Michael Nowogorski |
 | 179 | 587 | Louise Stacy Sisson |
-| 180 | 585 | Domo Washington |
-| 181 | 585 | Happy Tetriblast |
+| 180 | 585 | Happy Tetriblast |
+| 181 | 585 | Domo Washington |
 | 182 | 583 | Tasha Gillespie |
 | 183 | 582 | Natasha Jones |
 | 184 | 574 | Morgan Martinez |
 | 185 | 568 | Rachael McClain Owens |
 | 186 | 566 | LaTanya GeminiondaRise Johnson |
-| 187 | 564 | Poppy Splitter |
-| 188 | 564 | Christine Trester |
+| 187 | 564 | Christine Trester |
+| 188 | 564 | Poppy Splitter |
 | 189 | 563 | Jim Mathews |
 | 190 | 562 | Dave Herzog |
 | 191 | 561 | Elissa S-k |
@@ -221,13 +221,13 @@
 | 213 | 502 | Snappy Balancer |
 | 214 | 498 | Melissa Orth Hunter |
 | 215 | 496 | Loopy Fallmatch |
-| 216 | 494 | Connie Mohler-Fair |
-| 217 | 494 | FuzzyNavel |
+| 216 | 494 | FuzzyNavel |
+| 217 | 494 | Connie Mohler-Fair |
 | 218 | 491 | Michael Johnson |
 | 219 | 488 | joz |
 | 220 | 485 | Dapper Snap |
-| 221 | 484 | Fallorina Susana |
-| 222 | 484 | Kristin Delibac Corrigan |
+| 221 | 484 | Kristin Delibac Corrigan |
+| 222 | 484 | Fallorina Susana |
 | 223 | 480 | Danielle Allison |
 | 224 | 478 | Keis |
 | 225 | 477 | Edwin Calvillo Jr. |

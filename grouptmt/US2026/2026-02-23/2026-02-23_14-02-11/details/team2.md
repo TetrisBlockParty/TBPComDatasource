@@ -324,8 +324,8 @@
 | 316 | 1009 | Joshua Mandel |
 | 317 | 1003 | Andrea Maher |
 | 318 | 1001 | Angela Lynn |
-| 319 | 998 | Shelley Thornburgh Wright |
-| 320 | 998 | Keri Womack |
+| 319 | 998 | Keri Womack |
+| 320 | 998 | Shelley Thornburgh Wright |
 | 321 | 996 | Ashie Ann |
 | 322 | 994 | Spunkysmom |
 | 323 | 987 | Osun Anuket Esu |
@@ -552,8 +552,8 @@
 | 544 | 667 | Rhonda Milstead |
 | 545 | 666 | Aishah Brice |
 | 546 | 664 | Sleepypanda67 |
-| 547 | 663 | Lyndi Robinson Wakefield |
-| 548 | 663 | Martina Gabrielle LaPolla |
+| 547 | 663 | Martina Gabrielle LaPolla |
+| 548 | 663 | Lyndi Robinson Wakefield |
 | 549 | 662 | Samie Dayle |
 | 550 | 662 | Jennifer Monroe Kelly |
 | 551 | 660 | Nadia Batista Garcia |
@@ -572,8 +572,8 @@
 | 564 | 647 | Jackie Avila |
 | 565 | 644 | Véronique Lévesque Sabourin |
 | 566 | 643 | Michelle Pike |
-| 567 | 642 | Samantha Scibelli |
-| 568 | 642 | snkylnk |
+| 567 | 642 | snkylnk |
+| 568 | 642 | Samantha Scibelli |
 | 569 | 642 | Michelle Fields |
 | 570 | 639 | Belle Mari |
 | 571 | 639 | James Smith |

@@ -297,8 +297,8 @@
 | 289 | 264 | Stella |
 | 290 | 263 | rebel4lyfe |
 | 291 | 262 | Selena Shaw |
-| 292 | 262 | Ruben Wheeler |
-| 293 | 262 | BigSammy420 |
+| 292 | 262 | BigSammy420 |
+| 293 | 262 | Ruben Wheeler |
 | 294 | 261 | Zethra Prenisha Rahming |
 | 295 | 260 | Carter Jones |
 | 296 | 259 | Montiette Mcglown |

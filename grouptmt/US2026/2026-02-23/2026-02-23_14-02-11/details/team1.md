@@ -45,8 +45,8 @@
 | 37 | 1128 | june october |
 | 38 | 1126 | Tater |
 | 39 | 1122 | Amanda Summey Schoemer |
-| 40 | 1114 | Marianne Louise West |
-| 41 | 1114 | Jayme Sellers |
+| 40 | 1114 | Jayme Sellers |
+| 41 | 1114 | Marianne Louise West |
 | 42 | 1112 | Chipper Gridlock |
 | 43 | 1100 | Derek MF Blakey |
 | 44 | 1096 | Aaron Garnett |
@@ -81,8 +81,8 @@
 | 73 | 760 | Seante Bullock |
 | 74 | 750 | Cartier |
 | 75 | 740 | Lori Sanders- Davis |
-| 76 | 713 | Robert Benito |
-| 77 | 713 | Snappy Swiper |
+| 76 | 713 | Snappy Swiper |
+| 77 | 713 | Robert Benito |
 | 78 | 704 | Karin Gillen |
 | 79 | 703 | Angel Fowler |
 | 80 | 700 | Jason Jones |
@@ -125,8 +125,8 @@
 | 117 | 497 | Arianna O'Brien |
 | 118 | 493 | MomMom |
 | 119 | 491 | cc |
-| 120 | 489 | April Carroll |
-| 121 | 489 | Deanna L Hermanson |
+| 120 | 489 | Deanna L Hermanson |
+| 121 | 489 | April Carroll |
 | 122 | 483 | Trina Gee |
 | 123 | 477 | Tonya Beasley |
 | 124 | 475 | Sarah Somers Gray |
@@ -136,8 +136,8 @@
 | 128 | 466 | Adrian Esteban |
 | 129 | 463 | Lexuriuos Lifestlye |
 | 130 | 462 | Luciano Moreira |
-| 131 | 458 | Evan Richmond |
-| 132 | 458 | Goose egg |
+| 131 | 458 | Goose egg |
+| 132 | 458 | Evan Richmond |
 | 133 | 454 | Desiree Deschaine Havee |
 | 134 | 453 | Brandi Huntington |
 | 135 | 451 | Plucky Ziggy |
