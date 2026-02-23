@@ -1,6 +1,6 @@
 # Standings for team1 as of 2026-02-23 23:01:07 UTC
 
-**Total Participants:** 2088
+**Total Participants:** 2087
 
 ## Participant Scores
 
@@ -36,8 +36,8 @@
 | 28 | 1585 | Jennifer Cates |
 | 29 | 1582 | Joe Smith |
 | 30 | 1527 | Hyp James NObettadanluvarat |
-| 31 | 1520 | Ashley Elizabeth |
-| 32 | 1520 | Lola Adkhambekovna |
+| 31 | 1520 | Lola Adkhambekovna |
+| 32 | 1520 | Ashley Elizabeth |
 | 33 | 1515 | Felicia Lewis |
 | 34 | 1495 | Christina Graham |
 | 35 | 1413 | Trippy Redd |
@@ -279,8 +279,8 @@
 | 271 | 340 | Danielle Little-Daugherty |
 | 272 | 340 | Robert |
 | 273 | 338 | Layzietyme |
-| 274 | 337 | Larissa Marie Nelson |
-| 275 | 337 | Happy Basegrid |
+| 274 | 337 | Happy Basegrid |
+| 275 | 337 | Larissa Marie Nelson |
 | 276 | 336 | Adele Rahman |
 | 277 | 336 | Sarah Roberts |
 | 278 | 335 | Flashy Rotator |
@@ -598,7 +598,7 @@
 | 590 | 175 | KoDaK |
 | 591 | 175 | Robin Burress |
 | 592 | 175 | Funky Piecebuilder |
-| 593 | 174 | Alex Gauthier |
+| 593 | 174 | Melanie Kelley |
 | 594 | 174 | Dawn Rannelli |
 | 595 | 174 | Neely Janelle Stewart |
 | 596 | 174 | Alex Gauthier |
@@ -651,8 +651,8 @@
 | 643 | 162 | Jay Tressler |
 | 644 | 162 | Charla Pross-Fugleberg |
 | 645 | 161 | Mavria Comeaux Hinton |
-| 646 | 160 | Crystal Cheresnowsky |
-| 647 | 160 | Sunny Catcher |
+| 646 | 160 | Sunny Catcher |
+| 647 | 160 | Crystal Cheresnowsky |
 | 648 | 160 | Ruf Lowman |
 | 649 | 159 | Sarah Cassese |
 | 650 | 158 | Daring Roll |

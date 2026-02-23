@@ -538,13 +538,13 @@
 | 530 | 790 | Dawn L Washington-Feuquay |
 | 531 | 789 | Leslie Jorgenson |
 | 532 | 788 | Samuel Macon |
-| 533 | 786 | Kimberly Randesi |
-| 534 | 786 | Charvi' Carter |
+| 533 | 786 | Charvi' Carter |
+| 534 | 786 | Kimberly Randesi |
 | 535 | 785 | Miranda Morris |
 | 536 | 783 | Sarah Berger |
 | 537 | 779 | Trinity Oak |
-| 538 | 778 | tejas25 |
-| 539 | 778 | Breezy Filler |
+| 538 | 778 | Breezy Filler |
+| 539 | 778 | tejas25 |
 | 540 | 777 | Tesha Oldaker |
 | 541 | 776 | BeQuo |
 | 542 | 776 | Fancy Twister |
@@ -1377,18 +1377,18 @@
 | 1369 | 374 | Amanda Edwards |
 | 1370 | 374 | Lora Mae Spindler Young |
 | 1371 | 374 | Nancy Pohlman |
-| 1372 | 374 | Del Davis |
-| 1373 | 374 | Sassy Linkbuilder |
+| 1372 | 374 | Sassy Linkbuilder |
+| 1373 | 374 | Del Davis |
 | 1374 | 374 | Sarah Skaggs-Mostek |
 | 1375 | 373 | Sonya Munoz |
 | 1376 | 372 | Trisha Miller |
 | 1377 | 372 | Fancy Glidezone |
-| 1378 | 372 | MamaBear11 |
-| 1379 | 372 | Gina Gina |
+| 1378 | 372 | Gina Gina |
+| 1379 | 372 | MamaBear11 |
 | 1380 | 371 | LeVeL27 |
 | 1381 | 371 | Michael Keim |
-| 1382 | 370 | Leslie Clark |
-| 1383 | 370 | Sherry Williams |
+| 1382 | 370 | Sherry Williams |
+| 1383 | 370 | Leslie Clark |
 | 1384 | 369 | Steve DePolo |
 | 1385 | 369 | Cathy Bitters |
 | 1386 | 369 | Cody Wyatt |

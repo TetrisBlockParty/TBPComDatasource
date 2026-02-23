@@ -62,8 +62,8 @@
 | 54 | 1156 | Goatimus Lombardi |
 | 55 | 1150 | Kimyatta Cavin |
 | 56 | 1106 | Ashley Ingram |
-| 57 | 1082 | Avy Absol |
-| 58 | 1082 | Dion Crommarty |
+| 57 | 1082 | Dion Crommarty |
+| 58 | 1082 | Avy Absol |
 | 59 | 1073 | Dustee Craddock-Harrison |
 | 60 | 1057 | Rachel Anne |
 | 61 | 1049 | Heather Tushner |
@@ -162,8 +162,8 @@
 | 154 | 520 | Zippy Block |
 | 155 | 519 | Lucas J Sutton |
 | 156 | 518 | Carly Alexis |
-| 157 | 516 | Trish |
-| 158 | 516 | Twisty Clicky |
+| 157 | 516 | Twisty Clicky |
+| 158 | 516 | Trish |
 | 159 | 514 | Scott Jameson |
 | 160 | 513 | Erin Thomas |
 | 161 | 513 | Jessica Lynn Cutlip |
@@ -234,8 +234,8 @@
 | 226 | 409 | Antony Dwayne Beasley |
 | 227 | 403 | TinyLegoRose |
 | 228 | 400 | Brickh4us |
-| 229 | 399 | Lindsay Ball |
-| 230 | 399 | Jeff Brian Gates |
+| 229 | 399 | Jeff Brian Gates |
+| 230 | 399 | Lindsay Ball |
 | 231 | 398 | Tyler Terrific |
 | 232 | 394 | Nita Wells |
 | 233 | 390 | Kathy Brookins |
@@ -487,8 +487,8 @@
 | 479 | 208 | Stacy |
 | 480 | 208 | Moonsterix |
 | 481 | 208 | Wacky Blockclear |
-| 482 | 207 | Sam Middleton |
-| 483 | 207 | Jessica Wells |
+| 482 | 207 | Jessica Wells |
+| 483 | 207 | Sam Middleton |
 | 484 | 207 | SammieJo Guy |
 | 485 | 206 | Grann8 |
 | 486 | 206 | James Philpot Ross |
@@ -503,8 +503,8 @@
 | 495 | 203 | Sho Nuff |
 | 496 | 203 | Gilles Lanctot |
 | 497 | 202 | Jennifer Brown |
-| 498 | 201 | Jake Roberts |
-| 499 | 201 | Walter Beltran |
+| 498 | 201 | Walter Beltran |
+| 499 | 201 | Jake Roberts |
 | 500 | 201 | Carla Harris |
 | 501 | 201 | Michelle Morris |
 | 502 | 199 | Eri Kka |
