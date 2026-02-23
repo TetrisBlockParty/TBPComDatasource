@@ -387,7 +387,7 @@
 | 379 | 161 | Ruby Khalisadar |
 | 380 | 160 | Helen Chao |
 | 381 | 160 | Val Erie |
-| 382 | 160 | Helen Chao |
+| 382 | 160 | Lora |
 | 383 | 159 | Marcus Todd |
 | 384 | 159 | DonMega |
 | 385 | 158 | Mona Sharma |

@@ -140,8 +140,8 @@
 | 132 | 387 | Emily Adelaide Wheatley |
 | 133 | 386 | Ty Brown |
 | 134 | 383 | pjbeta |
-| 135 | 379 | Kimmie Kimms |
-| 136 | 379 | Austin James |
+| 135 | 379 | Austin James |
+| 136 | 379 | Kimmie Kimms |
 | 137 | 376 | Brian Richardsson |
 | 138 | 371 | Jason Savage |
 | 139 | 368 | Death |
@@ -414,8 +414,8 @@
 | 406 | 159 | Howdi Duty |
 | 407 | 158 | Teddy Alexander |
 | 408 | 157 | MommaKFC |
-| 409 | 156 | Ashley Adams |
-| 410 | 156 | Wayne Saunders |
+| 409 | 156 | Wayne Saunders |
+| 410 | 156 | Ashley Adams |
 | 411 | 156 | Liliana Pena |
 | 412 | 155 | Marc Abney |
 | 413 | 155 | Nate Price |

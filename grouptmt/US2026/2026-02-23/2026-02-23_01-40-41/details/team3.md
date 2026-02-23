@@ -117,8 +117,8 @@
 | 109 | 784 | Valerie Gendron |
 | 110 | 762 | Speedy Bridger |
 | 111 | 748 | Adrian Marcel Pate |
-| 112 | 744 | Leah Barnett |
-| 113 | 744 | Fancy Cascader |
+| 112 | 744 | Fancy Cascader |
+| 113 | 744 | Leah Barnett |
 | 114 | 742 | Groovy Catcher |
 | 115 | 733 | mzcatzy |
 | 116 | 724 | Kristie |
@@ -150,8 +150,8 @@
 | 142 | 595 | Patricia White |
 | 143 | 590 | Santeria Trece Candles |
 | 144 | 588 | Justin Ritter |
-| 145 | 585 | Happy Tetriblast |
-| 146 | 585 | Annie Marie |
+| 145 | 585 | Annie Marie |
+| 146 | 585 | Happy Tetriblast |
 | 147 | 584 | Logan Naccarato |
 | 148 | 582 | Natasha Jones |
 | 149 | 579 | Tasha Gillespie |
@@ -161,8 +161,8 @@
 | 153 | 572 | CeceGeGe |
 | 154 | 571 | Nicole Myers |
 | 155 | 568 | Rachael McClain Owens |
-| 156 | 562 | Louise Stacy Sisson |
-| 157 | 562 | Dave Herzog |
+| 156 | 562 | Dave Herzog |
+| 157 | 562 | Louise Stacy Sisson |
 | 158 | 553 | LaTanya GeminiondaRise Johnson |
 | 159 | 549 | Peppy Shifter |
 | 160 | 546 | Cynthia Castros-Hampton |
@@ -209,8 +209,8 @@
 | 201 | 432 | Jenny Hrndz |
 | 202 | 432 | Luciana Braganca Vieira |
 | 203 | 431 | Wendy Dearden |
-| 204 | 430 | Jeni Dow |
-| 205 | 430 | Joye Sims Binion |
+| 204 | 430 | Joye Sims Binion |
+| 205 | 430 | Jeni Dow |
 | 206 | 429 | Fallorina Susana |
 | 207 | 426 | Rochelle Hazelett |
 | 208 | 419 | Danielle Weikel |
@@ -219,8 +219,8 @@
 | 211 | 415 | ren |
 | 212 | 414 | Fran Lin |
 | 213 | 413 | Loopy Clusterer |
-| 214 | 410 | Mcathen |
-| 215 | 410 | Stephanie Simpson |
+| 214 | 410 | Stephanie Simpson |
+| 215 | 410 | Mcathen |
 | 216 | 405 | Sherry Ogden |
 | 217 | 404 | Chasity |
 | 218 | 403 | Scott Lindsay |
@@ -240,8 +240,8 @@
 | 232 | 375 | Duane Bright |
 | 233 | 375 | Kristal C Lee |
 | 234 | 373 | Rebecca Funderburk Kirby |
-| 235 | 372 | Rich LeBlanc |
-| 236 | 372 | Sarah Moyer |
+| 235 | 372 | Sarah Moyer |
+| 236 | 372 | Rich LeBlanc |
 | 237 | 370 | RickyG |
 | 238 | 369 | Marquita Sheard |
 | 239 | 369 | Keis |
@@ -258,8 +258,8 @@
 | 250 | 352 | Christian Werndl |
 | 251 | 351 | Eon Harris |
 | 252 | 349 | Amanda J. Mcneil-Anderson |
-| 253 | 347 | Rania Zaqout |
-| 254 | 347 | Philip Rock |
+| 253 | 347 | Philip Rock |
+| 254 | 347 | Rania Zaqout |
 | 255 | 346 | Tamara Deherrera |
 | 256 | 345 | Kelly |
 | 257 | 344 | Roary Danner |
@@ -296,8 +296,8 @@
 | 288 | 303 | Alexmac |
 | 289 | 303 | Beaudie Stroebel |
 | 290 | 302 | Gray Hicks |
-| 291 | 301 | Betty Rosas |
-| 292 | 301 | Tiffany Davie |
+| 291 | 301 | Tiffany Davie |
+| 292 | 301 | Betty Rosas |
 | 293 | 299 | Ray Lader |
 | 294 | 299 | Angie Harper |
 | 295 | 298 | Grams |
