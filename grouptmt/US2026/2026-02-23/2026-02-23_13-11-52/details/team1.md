@@ -354,7 +354,7 @@
 | 346 | 224 | Danielle Mae |
 | 347 | 223 | Erez Yosef |
 | 348 | 223 | Blake Mckay |
-| 349 | 223 | Erez Yosef |
+| 349 | 223 | Christina Backer |
 | 350 | 222 | Shaykmia |
 | 351 | 222 | Jessie Welch |
 | 352 | 222 | Zany Tiler |

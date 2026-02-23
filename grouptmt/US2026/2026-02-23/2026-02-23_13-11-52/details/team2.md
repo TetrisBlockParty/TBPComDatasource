@@ -179,8 +179,8 @@
 | 171 | 1574 | Stephen Stephen |
 | 172 | 1567 | Juliana Marques Do Nascimento Gordy |
 | 173 | 1564 | Amy Sayers |
-| 174 | 1558 | Crystal Slaughter |
-| 175 | 1558 | Tim Dyer |
+| 174 | 1558 | Tim Dyer |
+| 175 | 1558 | Crystal Slaughter |
 | 176 | 1555 | blarg |
 | 177 | 1537 | Desiree Harris Rosch |
 | 178 | 1511 | Rosa Franklin |
@@ -304,8 +304,8 @@
 | 296 | 1043 | nikki |
 | 297 | 1042 | Mcintosh Brian Shalonda |
 | 298 | 1040 | Rebecca Garland |
-| 299 | 1036 | Allison Lockyer |
-| 300 | 1036 | Amber Shoemaker |
+| 299 | 1036 | Amber Shoemaker |
+| 300 | 1036 | Allison Lockyer |
 | 301 | 1032 | Kristin Gower |
 | 302 | 1029 | Crystal Hoffman |
 | 303 | 1024 | Susan Perraut Jones |
@@ -337,8 +337,8 @@
 | 329 | 969 | Em Chen |
 | 330 | 967 | Ronnie Nelson |
 | 331 | 959 | Phil J. Grombliniak |
-| 332 | 958 | Doowop40 |
-| 333 | 958 | Brenda Messer |
+| 332 | 958 | Brenda Messer |
+| 333 | 958 | Doowop40 |
 | 334 | 957 | Block Master |
 | 335 | 957 | Matthew Joseph Acevedo |
 | 336 | 955 | Angela Bonquiqui Dinish |
