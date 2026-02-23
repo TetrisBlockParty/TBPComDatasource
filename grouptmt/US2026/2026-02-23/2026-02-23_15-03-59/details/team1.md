@@ -137,8 +137,8 @@
 | 129 | 467 | Constance Risner |
 | 130 | 467 | Candy Jones |
 | 131 | 466 | Adrian Esteban |
-| 132 | 463 | Lexuriuos Lifestlye |
-| 133 | 463 | Melissa Lemmon |
+| 132 | 463 | Melissa Lemmon |
+| 133 | 463 | Lexuriuos Lifestlye |
 | 134 | 462 | Luciano Moreira |
 | 135 | 461 | Ly Phethmany |
 | 136 | 460 | Steve Schneider |
@@ -399,7 +399,7 @@
 | 391 | 216 | Shauntina Burke |
 | 392 | 215 | Quirky Pusher |
 | 393 | 214 | Kayla Marie Stevenson |
-| 394 | 213 | Divaaa |
+| 394 | 213 | Poppy Riserpiece |
 | 395 | 213 | John Barron |
 | 396 | 213 | Divaaa |
 | 397 | 212 | Amber Dee |
@@ -448,8 +448,8 @@
 | 440 | 191 | Garcia Bailey |
 | 441 | 191 | John Garza |
 | 442 | 190 | yoyoluv |
-| 443 | 189 | BettyAnn Savo |
-| 444 | 189 | Dizzy Rackham |
+| 443 | 189 | Dizzy Rackham |
+| 444 | 189 | BettyAnn Savo |
 | 445 | 188 | Brian Taylor |
 | 446 | 188 | Strig |
 | 447 | 187 | Matthew Foley |

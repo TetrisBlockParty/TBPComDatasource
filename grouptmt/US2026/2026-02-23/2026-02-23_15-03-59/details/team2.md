@@ -157,8 +157,8 @@
 | 149 | 1767 | niecy |
 | 150 | 1759 | Nerdy Pattern |
 | 151 | 1755 | Loopy Clusterbuilder |
-| 152 | 1751 | Bob |
-| 153 | 1751 | Woodys Glass |
+| 152 | 1751 | Woodys Glass |
+| 153 | 1751 | Bob |
 | 154 | 1720 | Morgue Chick |
 | 155 | 1709 | Dustin Rains |
 | 156 | 1706 | Janel Turley-Garner |
@@ -168,8 +168,8 @@
 | 160 | 1658 | Liberty |
 | 161 | 1653 | Michele Gabriel |
 | 162 | 1647 | Jessie McDougald |
-| 163 | 1644 | Speedy Spinblock |
-| 164 | 1644 | Luna |
+| 163 | 1644 | Luna |
+| 164 | 1644 | Speedy Spinblock |
 | 165 | 1640 | Scott Treadway |
 | 166 | 1639 | Mari Ac |
 | 167 | 1629 | Rickey Johnson |
@@ -351,8 +351,8 @@
 | 343 | 958 | Kathryn Townsley |
 | 344 | 958 | Brenda Messer |
 | 345 | 958 | Doowop40 |
-| 346 | 957 | Matthew Joseph Acevedo |
-| 347 | 957 | Block Master |
+| 346 | 957 | Block Master |
+| 347 | 957 | Matthew Joseph Acevedo |
 | 348 | 955 | Angela Bonquiqui Dinish |
 | 349 | 954 | Melissa McCall |
 | 350 | 951 | Cynthia Ward |
@@ -375,8 +375,8 @@
 | 367 | 917 | Nashu |
 | 368 | 916 | Butta |
 | 369 | 915 | Kelly Trent |
-| 370 | 914 | William Hunt |
-| 371 | 914 | Shuany Arias |
+| 370 | 914 | Shuany Arias |
+| 371 | 914 | William Hunt |
 | 372 | 913 | blume |
 | 373 | 909 | Valerie Brooke Lusk Armstrong |
 | 374 | 907 | Gene Mills |

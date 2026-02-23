@@ -434,8 +434,8 @@
 | 426 | 189 | Duck |
 | 427 | 189 | Marcus TheeyoungWoe Gilmore |
 | 428 | 189 | Ryry |
-| 429 | 188 | Jarred Falls |
-| 430 | 188 | Frilly Blocky |
+| 429 | 188 | Frilly Blocky |
+| 430 | 188 | Jarred Falls |
 | 431 | 187 | Jenny Wells-Oakley |
 | 432 | 187 | Jason Punch |
 | 433 | 186 | Jesse Saville |
@@ -511,8 +511,8 @@
 | 503 | 161 | PennyCandee |
 | 504 | 161 | Christina Hyde |
 | 505 | 160 | Sho Nuff |
-| 506 | 160 | Lisa Allen Frisk |
-| 507 | 160 | Bryan Hodgins |
+| 506 | 160 | Bryan Hodgins |
+| 507 | 160 | Lisa Allen Frisk |
 | 508 | 160 | Heather Layne Smith |
 | 509 | 160 | icequeenx |
 | 510 | 159 | Groovy Brickmatch |
