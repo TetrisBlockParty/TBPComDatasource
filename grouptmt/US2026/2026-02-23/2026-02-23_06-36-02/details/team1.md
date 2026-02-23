@@ -106,8 +106,8 @@
 | 98 | 510 | Colena Davenport |
 | 99 | 509 | Rachael |
 | 100 | 497 | Arianna O'Brien |
-| 101 | 493 | MomMom |
-| 102 | 493 | Jennifer ManWarren |
+| 101 | 493 | Jennifer ManWarren |
+| 102 | 493 | MomMom |
 | 103 | 492 | Ash Galvan |
 | 104 | 491 | cc |
 | 105 | 489 | April Carroll |
@@ -183,8 +183,8 @@
 | 175 | 346 | Erin Rosberg |
 | 176 | 346 | GATOR |
 | 177 | 345 | Jerry Danowski |
-| 178 | 343 | Elaine Elaine |
-| 179 | 343 | Chelsea Dahlquist |
+| 178 | 343 | Chelsea Dahlquist |
+| 179 | 343 | Elaine Elaine |
 | 180 | 341 | Nick R Montague |
 | 181 | 339 | Nicole Roseberry Weber |
 | 182 | 338 | Jennifer Hardman |

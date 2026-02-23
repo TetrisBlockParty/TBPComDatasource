@@ -219,8 +219,8 @@
 | 211 | 471 | Mendoza Lee Christy |
 | 212 | 467 | Sherry Ogden |
 | 213 | 465 | Annie Déè |
-| 214 | 464 | Shunta Jacobs |
-| 215 | 464 | Danielle Weikel |
+| 214 | 464 | Danielle Weikel |
+| 215 | 464 | Shunta Jacobs |
 | 216 | 461 | Tom Nault |
 | 217 | 458 | Danielle Rhoades |
 | 218 | 457 | Edwin Calvillo Jr. |
@@ -265,8 +265,8 @@
 | 257 | 370 | Samantha Lynn |
 | 258 | 369 | Philip Rock |
 | 259 | 369 | Keis |
-| 260 | 368 | Stephanie Woods |
-| 261 | 368 | Sheila M Frazier |
+| 260 | 368 | Sheila M Frazier |
+| 261 | 368 | Stephanie Woods |
 | 262 | 367 | Kristin Delibac Corrigan |
 | 263 | 366 | Gumbo |
 | 264 | 366 | Randy Clevenger |
@@ -602,8 +602,8 @@
 | 594 | 180 | Chipper Piecefit |
 | 595 | 180 | Michell Hendershott Jackson |
 | 596 | 180 | Stella |
-| 597 | 179 | Alexi Pryor |
-| 598 | 179 | Boldy Corner |
+| 597 | 179 | Boldy Corner |
+| 598 | 179 | Alexi Pryor |
 | 599 | 179 | Ruchi Smit |
 | 600 | 178 | Jillian Ann |
 | 601 | 178 | Kathleen Taylor |

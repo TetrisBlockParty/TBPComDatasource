@@ -69,8 +69,8 @@
 | 61 | 803 | Amelpss |
 | 62 | 788 | Julian Garcia |
 | 63 | 787 | Edward White |
-| 64 | 781 | Ashley Ingram |
-| 65 | 781 | Chilly Line |
+| 64 | 781 | Chilly Line |
+| 65 | 781 | Ashley Ingram |
 | 66 | 767 | Shannon Ferrari |
 | 67 | 766 | Robin Watters |
 | 68 | 765 | Denise Carlson |
@@ -125,8 +125,8 @@
 | 117 | 514 | Serena Goodridge |
 | 118 | 514 | Scott Jameson |
 | 119 | 513 | Erin Thomas |
-| 120 | 512 | Cristy Duerksen |
-| 121 | 512 | Casey Jeffcoat |
+| 120 | 512 | Casey Jeffcoat |
+| 121 | 512 | Cristy Duerksen |
 | 122 | 511 | Lori Walker |
 | 123 | 509 | Leslie Nicole |
 | 124 | 482 | Ren Mc |
@@ -216,8 +216,8 @@
 | 208 | 300 | Zakia Monae |
 | 209 | 300 | Dana Scott |
 | 210 | 295 | Keshia Lyons |
-| 211 | 294 | Porkobello |
-| 212 | 294 | Calvin Cannon |
+| 211 | 294 | Calvin Cannon |
+| 212 | 294 | Porkobello |
 | 213 | 292 | Epic Curvetile |
 | 214 | 290 | Jared Gutwein |
 | 215 | 290 | Plucky Patternblock |
@@ -257,22 +257,22 @@
 | 249 | 264 | ZeeZee |
 | 250 | 264 | Stella |
 | 251 | 263 | rebel4lyfe |
-| 252 | 262 | BigSammy420 |
-| 253 | 262 | Selena Shaw |
+| 252 | 262 | Selena Shaw |
+| 253 | 262 | BigSammy420 |
 | 254 | 261 | Zethra Prenisha Rahming |
 | 255 | 260 | Carter Jones |
 | 256 | 260 | Lori |
-| 257 | 259 | Allen Lloyd |
-| 258 | 259 | Montiette Mcglown |
-| 259 | 259 | John Brunetti |
+| 257 | 259 | John Brunetti |
+| 258 | 259 | Allen Lloyd |
+| 259 | 259 | Montiette Mcglown |
 | 260 | 257 | PeaceOs |
-| 261 | 256 | Jade Rian |
+| 261 | 256 | Brittany Marsh |
 | 262 | 256 | Metsfan |
-| 263 | 256 | Brittany Marsh |
+| 263 | 256 | Jade Rian |
 | 264 | 253 | Autum Leigh |
 | 265 | 251 | Carol Ricks Raymond |
-| 266 | 249 | Ak Jones |
-| 267 | 249 | Nick Gray |
+| 266 | 249 | Nick Gray |
+| 267 | 249 | Ak Jones |
 | 268 | 248 | Chirpy Basepiece |
 | 269 | 248 | Jose Dejesus |
 | 270 | 245 | 23 |
@@ -414,8 +414,8 @@
 | 406 | 170 | Peppy Drop |
 | 407 | 170 | Joshua W. Benton |
 | 408 | 169 | Jessica Atkinson |
-| 409 | 169 | Dante Korleon |
-| 410 | 169 | Duck |
+| 409 | 169 | Duck |
+| 410 | 169 | Dante Korleon |
 | 411 | 168 | Ruby Khalisadar |
 | 412 | 167 | Tyler Bechtel |
 | 413 | 167 | Helen Chao |

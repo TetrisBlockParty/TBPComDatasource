@@ -93,8 +93,8 @@
 | 85 | 2515 | Crystalin Heath Lewis |
 | 86 | 2500 | Rosemadder |
 | 87 | 2438 | Rob Surace |
-| 88 | 2428 | Thomas Hughes |
-| 89 | 2428 | Deanna Morton |
+| 88 | 2428 | Deanna Morton |
+| 89 | 2428 | Thomas Hughes |
 | 90 | 2410 | RdRydnHd |
 | 91 | 2400 | Rich Sullivan |
 | 92 | 2395 | Ashley House |
@@ -218,8 +218,8 @@
 | 210 | 1245 | Cody Nishimura |
 | 211 | 1240 | Brandon Armstrong |
 | 212 | 1237 | Megan Ferguson Leone |
-| 213 | 1232 | Ambyre Patterson |
-| 214 | 1232 | Groovy Puzzle |
+| 213 | 1232 | Groovy Puzzle |
+| 214 | 1232 | Ambyre Patterson |
 | 215 | 1230 | Megan Garrick |
 | 216 | 1221 | Jane Fong |
 | 217 | 1217 | Lucky Ladybug |
@@ -279,8 +279,8 @@
 | 271 | 1047 | Dany Murillo |
 | 272 | 1045 | Bri Lynn |
 | 273 | 1045 | Lourisha |
-| 274 | 1043 | nikki |
-| 275 | 1043 | Brave Dropmatch |
+| 274 | 1043 | Brave Dropmatch |
+| 275 | 1043 | nikki |
 | 276 | 1036 | Amber Shoemaker |
 | 277 | 1036 | Allison Lockyer |
 | 278 | 1026 | Kristin Gower |
@@ -293,8 +293,8 @@
 | 285 | 1010 | Brittany Radaszewski |
 | 286 | 1007 | Missie Lawson Gebhardt |
 | 287 | 1003 | Andrea Maher |
-| 288 | 998 | Shelley Thornburgh Wright |
-| 289 | 998 | Keri Womack |
+| 288 | 998 | Keri Womack |
+| 289 | 998 | Shelley Thornburgh Wright |
 | 290 | 996 | Ashie Ann |
 | 291 | 991 | Ashlen Dorrell |
 | 292 | 988 | Juliana Marques Do Nascimento Gordy |
@@ -306,15 +306,15 @@
 | 298 | 976 | Sam Joe |
 | 299 | 976 | Della Hole |
 | 300 | 975 | Hyper Cluster |
-| 301 | 972 | Binyah-Binyah |
-| 302 | 972 | Barbra Miller |
+| 301 | 972 | Barbra Miller |
+| 302 | 972 | Binyah-Binyah |
 | 303 | 971 | Jojo Momma |
 | 304 | 969 | Em Chen |
 | 305 | 969 | Boldy Cascadepiece |
 | 306 | 965 | F-X |
 | 307 | 961 | Angela Lynn |
-| 308 | 958 | Brenda Messer |
-| 309 | 958 | Doowop40 |
+| 308 | 958 | Doowop40 |
+| 309 | 958 | Brenda Messer |
 | 310 | 957 | Block Master |
 | 311 | 956 | Phil J. Grombliniak |
 | 312 | 955 | Angela Bonquiqui Dinish |
@@ -333,8 +333,8 @@
 | 325 | 915 | Kelly Trent |
 | 326 | 914 | Shuany Arias |
 | 327 | 907 | Gene Mills |
-| 328 | 904 | Jennifer Aiken |
-| 329 | 904 | John Bednarik |
+| 328 | 904 | John Bednarik |
+| 329 | 904 | Jennifer Aiken |
 | 330 | 904 | Bee |
 | 331 | 903 | Giggy Blocker |
 | 332 | 902 | William Hunt |
@@ -478,8 +478,8 @@
 | 470 | 689 | Gauri Shrotriya |
 | 471 | 686 | Christine Coughlin |
 | 472 | 684 | Sarah DeHart |
-| 473 | 684 | Ann Knutson Anderson |
-| 474 | 684 | Ellie Jonas |
+| 473 | 684 | Ellie Jonas |
+| 474 | 684 | Ann Knutson Anderson |
 | 475 | 683 | Eric Castaneda |
 | 476 | 681 | AgileDragon |
 | 477 | 680 | blume |
@@ -800,8 +800,8 @@
 | 792 | 446 | Courtney Burcham |
 | 793 | 445 | Mar Q Thomas |
 | 794 | 444 | Angela Murgia-Owen |
-| 795 | 443 | Giggy Grabber |
-| 796 | 443 | Dimitra Zazara |
+| 795 | 443 | Dimitra Zazara |
+| 796 | 443 | Giggy Grabber |
 | 797 | 442 | Juan Castillo |
 | 798 | 442 | Rain |
 | 799 | 441 | Goofy Catcher |
