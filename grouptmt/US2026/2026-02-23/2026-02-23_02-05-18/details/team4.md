@@ -162,8 +162,8 @@
 | 154 | 375 | Desi Desporte |
 | 155 | 374 | Guy Incognito |
 | 156 | 373 | Tyler Terrific |
-| 157 | 370 | Oscar Alberto Perez |
-| 158 | 370 | ThaEviLJeNiuZ |
+| 157 | 370 | ThaEviLJeNiuZ |
+| 158 | 370 | Oscar Alberto Perez |
 | 159 | 368 | Brandon Crabbs |
 | 160 | 368 | Silly Zonebuilder |
 | 161 | 365 | Leslie Nicole |
@@ -198,8 +198,8 @@
 | 190 | 302 | Cursed Hag |
 | 191 | 301 | Michele Plunkett |
 | 192 | 301 | Andria Lynn |
-| 193 | 300 | Dana Scott |
-| 194 | 300 | Zakia Monae |
+| 193 | 300 | Zakia Monae |
+| 194 | 300 | Dana Scott |
 | 195 | 297 | Melvin Baird |
 | 196 | 294 | Calvin Cannon |
 | 197 | 294 | Dihcheese444 |

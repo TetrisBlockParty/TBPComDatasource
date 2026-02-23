@@ -137,8 +137,8 @@
 | 129 | 1639 | Jessie McDougald |
 | 130 | 1632 | Qiana Sanders |
 | 131 | 1631 | Speedy Spinblock |
-| 132 | 1623 | Rebecca Doughman |
-| 133 | 1623 | Mr. Street Stack |
+| 132 | 1623 | Mr. Street Stack |
+| 133 | 1623 | Rebecca Doughman |
 | 134 | 1622 | Mari Ac |
 | 135 | 1614 | Janel Turley-Garner |
 | 136 | 1601 | Ray Ray Prado |
@@ -338,8 +338,8 @@
 | 330 | 832 | Woodys Glass |
 | 331 | 831 | Johnny Yeates |
 | 332 | 826 | Diallo Sparkman |
-| 333 | 824 | Danielle Johnson-Chandler |
-| 334 | 824 | Khalil Lowe |
+| 333 | 824 | Khalil Lowe |
+| 334 | 824 | Danielle Johnson-Chandler |
 | 335 | 823 | Alezandra Smith |
 | 336 | 821 | Angie Bolton Workman |
 | 337 | 821 | Cassie Mercer |
@@ -372,8 +372,8 @@
 | 364 | 769 | Melissa Cole |
 | 365 | 768 | Joshua Self |
 | 366 | 768 | Arkei Luster |
-| 367 | 767 | Ashley Lopez |
-| 368 | 767 | Fancy Twister |
+| 367 | 767 | Fancy Twister |
+| 368 | 767 | Ashley Lopez |
 | 369 | 763 | Dreamy Blast |
 | 370 | 763 | Heather Causey |
 | 371 | 762 | Jaycee |
@@ -396,8 +396,8 @@
 | 388 | 741 | Jánine Riggs |
 | 389 | 740 | Jerry Tempelmeyer |
 | 390 | 738 | Aimee Campbell |
-| 391 | 737 | Chelle |
-| 392 | 737 | Jeremy Parodi |
+| 391 | 737 | Jeremy Parodi |
+| 392 | 737 | Chelle |
 | 393 | 737 | Ginger |
 | 394 | 732 | Victoria Moore-Smith |
 | 395 | 731 | Allan Wayne Lamia |

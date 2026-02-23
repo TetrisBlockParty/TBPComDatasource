@@ -25,8 +25,8 @@
 | 17 | 2697 | River |
 | 18 | 2503 | Clever Roll |
 | 19 | 2302 | Laura Melton |
-| 20 | 2287 | Brandon Green |
-| 21 | 2287 | Tetris Master |
+| 20 | 2287 | Tetris Master |
+| 21 | 2287 | Brandon Green |
 | 22 | 2203 | Ashley Jones |
 | 23 | 2177 | Susan Valentino |
 | 24 | 2144 | Zippy Strikesnap |
@@ -61,8 +61,8 @@
 | 53 | 1276 | Aaron Pitkin |
 | 54 | 1269 | Amber Jones |
 | 55 | 1258 | Jennifer Petrie |
-| 56 | 1256 | Mahman |
-| 57 | 1256 | Jessica Bechler |
+| 56 | 1256 | Jessica Bechler |
+| 57 | 1256 | Mahman |
 | 58 | 1191 | Nate Burnside |
 | 59 | 1167 | Elaine Webb Graves |
 | 60 | 1141 | Queen Kam |
@@ -111,8 +111,8 @@
 | 103 | 831 | Angeline Joseph |
 | 104 | 830 | Stephanie Allmon |
 | 105 | 826 | Shane Wilson Jr. |
-| 106 | 816 | Brenda Lee Vander Molen |
-| 107 | 816 | Araceli Parra |
+| 106 | 816 | Araceli Parra |
+| 107 | 816 | Brenda Lee Vander Molen |
 | 108 | 800 | Lauren Girouard |
 | 109 | 799 | Dolores Falco |
 | 110 | 778 | Jesse Olive |
@@ -167,8 +167,8 @@
 | 159 | 553 | LaTanya GeminiondaRise Johnson |
 | 160 | 546 | Cynthia Castros-Hampton |
 | 161 | 544 | Mykal Burton |
-| 162 | 540 | Michael Nowogorski |
-| 163 | 540 | Elissa S-k |
+| 162 | 540 | Elissa S-k |
+| 163 | 540 | Michael Nowogorski |
 | 164 | 535 | Jone |
 | 165 | 531 | Chauntee Alfrey-Cardinale |
 | 166 | 528 | Silly Twist |
@@ -242,8 +242,8 @@
 | 234 | 378 | Chris Bell |
 | 235 | 375 | Kristal C Lee |
 | 236 | 373 | Rebecca Funderburk Kirby |
-| 237 | 372 | Rich LeBlanc |
-| 238 | 372 | Sarah Moyer |
+| 237 | 372 | Sarah Moyer |
+| 238 | 372 | Rich LeBlanc |
 | 239 | 370 | RickyG |
 | 240 | 369 | Marquita Sheard |
 | 241 | 369 | Keis |
@@ -254,8 +254,8 @@
 | 246 | 362 | Brandon Givens |
 | 247 | 361 | Shawn Miller |
 | 248 | 360 | Sheila M Frazier |
-| 249 | 357 | Ammmmmmy |
-| 250 | 357 | Stephanie Burtin |
+| 249 | 357 | Stephanie Burtin |
+| 250 | 357 | Ammmmmmy |
 | 251 | 352 | Christian Werndl |
 | 252 | 352 | Samantha Lynn |
 | 253 | 351 | Eon Harris |
@@ -274,8 +274,8 @@
 | 266 | 339 | Cynthia Herrmann Egland |
 | 267 | 338 | Gumbo |
 | 268 | 336 | Jojo M |
-| 269 | 332 | Velma Mull |
-| 270 | 332 | Brittany |
+| 269 | 332 | Brittany |
+| 270 | 332 | Velma Mull |
 | 271 | 330 | victory |
 | 272 | 329 | Tye Stovall |
 | 273 | 329 | block chick |
@@ -285,8 +285,8 @@
 | 277 | 324 | Sissy Lowery Davis |
 | 278 | 322 | Nena Somerville Kelly |
 | 279 | 321 | Charles Perrone |
-| 280 | 320 | Ashley Muncey |
-| 281 | 320 | Or Reznitsky |
+| 280 | 320 | Or Reznitsky |
+| 281 | 320 | Ashley Muncey |
 | 282 | 312 | Twisty Brick LT |
 | 283 | 312 | LadyTorad |
 | 284 | 309 | Felicia Rocha |
@@ -294,8 +294,8 @@
 | 286 | 307 | Blocked |
 | 287 | 304 | _melisa223_ |
 | 288 | 303 | Beaudie Stroebel |
-| 289 | 303 | Hoppy Buildout |
-| 290 | 303 | Alexmac |
+| 289 | 303 | Alexmac |
+| 290 | 303 | Hoppy Buildout |
 | 291 | 302 | Gray Hicks |
 | 292 | 301 | Tiffany Davie |
 | 293 | 301 | Betty Rosas |
