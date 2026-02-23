@@ -215,14 +215,14 @@
 | 207 | 1286 | Altamirano Michael |
 | 208 | 1282 | Tanya Parsons |
 | 209 | 1259 | Foxxo |
-| 210 | 1258 | Joyce Johnson Vaughn |
-| 211 | 1258 | Snappy Matchbuilder |
+| 210 | 1258 | Snappy Matchbuilder |
+| 211 | 1258 | Joyce Johnson Vaughn |
 | 212 | 1252 | Angel |
 | 213 | 1245 | Cody Nishimura |
 | 214 | 1240 | Brandon Armstrong |
 | 215 | 1237 | Megan Ferguson Leone |
-| 216 | 1232 | Ambyre Patterson |
-| 217 | 1232 | Groovy Puzzle |
+| 216 | 1232 | Groovy Puzzle |
+| 217 | 1232 | Ambyre Patterson |
 | 218 | 1230 | Megan Garrick |
 | 219 | 1221 | Jane Fong |
 | 220 | 1217 | Lucky Ladybug |
@@ -257,8 +257,8 @@
 | 249 | 1126 | Dolores Russworn |
 | 250 | 1121 | Tommy Tha Boss Gunz |
 | 251 | 1121 | Sarah Freitas |
-| 252 | 1114 | Ginnell Browner |
-| 253 | 1114 | Kevin Walp |
+| 252 | 1114 | Kevin Walp |
+| 253 | 1114 | Ginnell Browner |
 | 254 | 1111 | Julay |
 | 255 | 1110 | Robin Kerby |
 | 256 | 1106 | Ibiza Carolina LaRose |
@@ -286,8 +286,8 @@
 | 278 | 1044 | Jennifer Aiken |
 | 279 | 1043 | nikki |
 | 280 | 1043 | Brave Dropmatch |
-| 281 | 1036 | Amber Shoemaker |
-| 282 | 1036 | Allison Lockyer |
+| 281 | 1036 | Allison Lockyer |
+| 282 | 1036 | Amber Shoemaker |
 | 283 | 1026 | Kristin Gower |
 | 284 | 1024 | Susan Perraut Jones |
 | 285 | 1024 | Taylor Phillips |
@@ -386,9 +386,9 @@
 | 378 | 816 | Beth |
 | 379 | 816 | James Simms III |
 | 380 | 812 | Samantha Jo |
-| 381 | 808 | Desire Rice |
+| 381 | 808 | Laura McCarthey |
 | 382 | 808 | Connie Jimenez |
-| 383 | 808 | Laura McCarthey |
+| 383 | 808 | Desire Rice |
 | 384 | 804 | Becca Coronado |
 | 385 | 801 | Gold Rose |
 | 386 | 801 | Diana Fitzwater |
@@ -459,8 +459,8 @@
 | 451 | 720 | Giggy Mover |
 | 452 | 720 | BeQuo |
 | 453 | 714 | Caitlyn Blackwell |
-| 454 | 713 | Christie |
-| 455 | 713 | Draizen Montrell Thomas |
+| 454 | 713 | Draizen Montrell Thomas |
+| 455 | 713 | Christie |
 | 456 | 712 | Amanda Ferrell |
 | 457 | 711 | Narutofreak13 |
 | 458 | 710 | Mama T |
@@ -774,8 +774,8 @@
 | 766 | 464 | Lively Edgepiece |
 | 767 | 464 | Saucy Fitzone |
 | 768 | 463 | Jaye EL Hunter |
-| 769 | 462 | Samantha Scibelli |
-| 770 | 462 | Kia Humphery |
+| 769 | 462 | Kia Humphery |
+| 770 | 462 | Samantha Scibelli |
 | 771 | 462 | Danielle Ayoub |
 | 772 | 461 | Alexis Richardson |
 | 773 | 461 | Julie Hamilton |
@@ -825,16 +825,16 @@
 | 817 | 438 | Lynda Toland |
 | 818 | 438 | AkaLefty |
 | 819 | 437 | Oscar Bernie |
-| 820 | 437 | Shalisa Hill |
-| 821 | 437 | Anthony |
+| 820 | 437 | Anthony |
+| 821 | 437 | Shalisa Hill |
 | 822 | 436 | Christina Loftus |
 | 823 | 436 | Regina Knight |
 | 824 | 435 | Snappy snappers |
 | 825 | 435 | John |
 | 826 | 435 | Taylor Flowers |
 | 827 | 434 | Twisty Tetriblast |
-| 828 | 433 | Melissa Koria |
-| 829 | 433 | Jessica Hughes |
+| 828 | 433 | Jessica Hughes |
+| 829 | 433 | Melissa Koria |
 | 830 | 433 | Marisa Madge |
 | 831 | 432 | Michelle Shrum |
 | 832 | 431 | Quinn |
@@ -863,16 +863,16 @@
 | 855 | 419 | Josh Dill |
 | 856 | 419 | Erin Reid |
 | 857 | 418 | Bold Brickster |
-| 858 | 417 | Rebecca Garland |
-| 859 | 417 | Tristan Szolek |
+| 858 | 417 | Tristan Szolek |
+| 859 | 417 | Rebecca Garland |
 | 860 | 417 | Janai Vrabel |
 | 861 | 417 | Mandy Kachenmeister |
-| 862 | 416 | Veronics |
-| 863 | 416 | Alicia Moreno |
+| 862 | 416 | Alicia Moreno |
+| 863 | 416 | Veronics |
 | 864 | 416 | Christine Lockwood |
 | 865 | 415 | Bonita Kee |
-| 866 | 415 | Noel Tarmy |
-| 867 | 415 | Allyson Marra |
+| 866 | 415 | Allyson Marra |
+| 867 | 415 | Noel Tarmy |
 | 868 | 415 | Cranky Tower |
 | 869 | 414 | Court |
 | 870 | 414 | Cini |

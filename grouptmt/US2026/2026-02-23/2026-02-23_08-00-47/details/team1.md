@@ -111,10 +111,10 @@
 | 103 | 493 | Jennifer ManWarren |
 | 104 | 492 | Ash Galvan |
 | 105 | 491 | cc |
-| 106 | 489 | April Carroll |
-| 107 | 489 | Deanna L Hermanson |
-| 108 | 483 | Tdub |
-| 109 | 483 | Trina Gee |
+| 106 | 489 | Deanna L Hermanson |
+| 107 | 489 | April Carroll |
+| 108 | 483 | Trina Gee |
+| 109 | 483 | Tdub |
 | 110 | 480 | Ty Brown |
 | 111 | 478 | Stephanie Zahn |
 | 112 | 477 | Anaid Sanchez |
@@ -125,8 +125,8 @@
 | 117 | 452 | Hyper |
 | 118 | 451 | Plucky Ziggy |
 | 119 | 450 | lil mickey |
-| 120 | 448 | Jazzy Framezone |
-| 121 | 448 | Sweet Baker |
+| 120 | 448 | Sweet Baker |
+| 121 | 448 | Jazzy Framezone |
 | 122 | 446 | SkipTheSadSauce |
 | 123 | 443 | Steve Schneider |
 | 124 | 439 | Dee Perry |
@@ -209,8 +209,8 @@
 | 201 | 317 | Kimberly Garcia |
 | 202 | 316 | Reesey Enyart |
 | 203 | 315 | Danielle Little-Daugherty |
-| 204 | 314 | Tana |
-| 205 | 314 | Snippy Wipebuilder |
+| 204 | 314 | Snippy Wipebuilder |
+| 205 | 314 | Tana |
 | 206 | 312 | Jessi Sauer |
 | 207 | 310 | Bloknboy |
 | 208 | 308 | Speedy Liney |
@@ -241,9 +241,9 @@
 | 233 | 282 | Timothy Dew |
 | 234 | 281 | Clever Cascadepiece |
 | 235 | 280 | Billie Dawn Sparks |
-| 236 | 277 | Glitzy Curvebuilder |
+| 236 | 277 | Melissa Lemmon |
 | 237 | 277 | Nutty Spinblock |
-| 238 | 277 | Melissa Lemmon |
+| 238 | 277 | Glitzy Curvebuilder |
 | 239 | 276 | Sam Williams |
 | 240 | 275 | Chris65 |
 | 241 | 275 | Cheeky Pop |
@@ -327,8 +327,8 @@
 | 319 | 219 | Negan Mallory Knoxx Spence |
 | 320 | 219 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 321 | 218 | Jason Benitez |
-| 322 | 217 | Speedy Snapfall |
-| 323 | 217 | Cheeky Crusher |
+| 322 | 217 | Cheeky Crusher |
+| 323 | 217 | Speedy Snapfall |
 | 324 | 217 | Betsy |
 | 325 | 216 | Shauntina Burke |
 | 326 | 216 | Chad Atchley |

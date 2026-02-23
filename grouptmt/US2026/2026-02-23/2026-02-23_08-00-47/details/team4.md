@@ -66,8 +66,8 @@
 | 58 | 846 | Christine Marie |
 | 59 | 845 | LisaJo Picken Buchanan |
 | 60 | 834 | quicksand420 |
-| 61 | 807 | Rachel Anne |
-| 62 | 807 | Amelpss |
+| 61 | 807 | Amelpss |
+| 62 | 807 | Rachel Anne |
 | 63 | 788 | Julian Garcia |
 | 64 | 787 | Edward White |
 | 65 | 783 | Ashley Ingram |
@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Kimyatta Cavin |
-| 84 | 684 | Jonathan Kimbrough |
+| 83 | 684 | Jonathan Kimbrough |
+| 84 | 684 | Kimyatta Cavin |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -296,8 +296,8 @@
 | 288 | 235 | Chair |
 | 289 | 235 | LaDonna LovinmesomeMe Lambert |
 | 290 | 234 | Richard-April Kice |
-| 291 | 233 | Ruben Wheeler |
-| 292 | 233 | Joseph Edmonson |
+| 291 | 233 | Joseph Edmonson |
+| 292 | 233 | Ruben Wheeler |
 | 293 | 231 | Angelito |
 | 294 | 229 | TinyLegoRose |
 | 295 | 228 | Bethany Ison |
