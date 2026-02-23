@@ -80,8 +80,8 @@
 | 72 | 862 | Carolyn Wallace |
 | 73 | 847 | Peachy Fall |
 | 74 | 846 | Lucille Truesdale |
-| 75 | 846 | Christine Marie |
-| 76 | 846 | Amelpss |
+| 75 | 846 | Amelpss |
+| 76 | 846 | Christine Marie |
 | 77 | 841 | Shauna Havard |
 | 78 | 834 | quicksand420 |
 | 79 | 832 | Lisa Davis |
@@ -142,8 +142,8 @@
 | 134 | 545 | Desi Desporte |
 | 135 | 542 | Austin Owens |
 | 136 | 540 | Rodney McMath Jr. |
-| 137 | 538 | shar |
-| 138 | 538 | Carlos Ramirez |
+| 137 | 538 | Carlos Ramirez |
+| 138 | 538 | shar |
 | 139 | 536 | Kimberlee Jan Beckstead |
 | 140 | 531 | Serena Goodridge |
 | 141 | 529 | Cool Towerbuilder |
@@ -251,8 +251,8 @@
 | 243 | 355 | Andrew Dang |
 | 244 | 354 | TRCuse |
 | 245 | 348 | David Lay |
-| 246 | 347 | Gdiguy |
-| 247 | 347 | Daria Rycewicz |
+| 246 | 347 | Daria Rycewicz |
+| 247 | 347 | Gdiguy |
 | 248 | 347 | Bio Nelly |
 | 249 | 347 | scott |
 | 250 | 343 | HastyGrabber |
@@ -395,15 +395,15 @@
 | 387 | 232 | Jenny Wells-Oakley |
 | 388 | 230 | Chantilly Laace |
 | 389 | 228 | Bethany Ison |
-| 390 | 227 | Maria Hammie |
-| 391 | 227 | Asher |
+| 390 | 227 | Asher |
+| 391 | 227 | Maria Hammie |
 | 392 | 225 | Jennifer Renee |
 | 393 | 224 | Ultramarine |
 | 394 | 223 | Brave Spinbuilder |
-| 395 | 222 | Alan Zukowski |
-| 396 | 222 | Paito |
-| 397 | 222 | Rhys Morgan |
-| 398 | 222 | Brandi Durig |
+| 395 | 222 | Paito |
+| 396 | 222 | Alan Zukowski |
+| 397 | 222 | Brandi Durig |
+| 398 | 222 | Rhys Morgan |
 | 399 | 222 | Badatvs |
 | 400 | 221 | Jen Hallin |
 | 401 | 221 | Rheanda Weaskus |
@@ -589,7 +589,7 @@
 | 581 | 153 | Josh Chapell |
 | 582 | 153 | Ahleek Mitchell |
 | 583 | 151 | Nijmeh Hinchsliff |
-| 584 | 151 | Daresha Fair |
+| 584 | 151 | GMoney Rbt |
 | 585 | 151 | Brad Campbell |
 | 586 | 151 | Katie Alexander |
 | 587 | 151 | Daresha Fair |
@@ -600,8 +600,8 @@
 | 592 | 149 | Boldy Linkpiece |
 | 593 | 148 | Will Chamberlain |
 | 594 | 147 | Mike |
-| 595 | 147 | Jay28 |
-| 596 | 147 | Hasty Fitzone |
+| 595 | 147 | Hasty Fitzone |
+| 596 | 147 | Jay28 |
 | 597 | 146 | @ |
 | 598 | 146 | Oleg Zakharskiy |
 | 599 | 146 | Groovy Gridlock |

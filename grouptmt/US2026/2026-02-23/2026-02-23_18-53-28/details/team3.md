@@ -232,8 +232,8 @@
 | 224 | 546 | Cynthia Castros-Hampton |
 | 225 | 545 | Trisha Balmer |
 | 226 | 539 | Betty Bóò |
-| 227 | 537 | Tessina Dewey-Mancino |
-| 228 | 537 | Aerian Preston |
+| 227 | 537 | Aerian Preston |
+| 228 | 537 | Tessina Dewey-Mancino |
 | 229 | 537 | Tamara Deherrera |
 | 230 | 536 | Fran Lin |
 | 231 | 531 | Chauntee Alfrey-Cardinale |
@@ -277,8 +277,8 @@
 | 269 | 456 | Brenda Schmid Wood |
 | 270 | 451 | Micayah Stevens |
 | 271 | 449 | Marquita Sheard |
-| 272 | 449 | Cyd061769 |
-| 273 | 449 | Mcathen |
+| 272 | 449 | Mcathen |
+| 273 | 449 | Cyd061769 |
 | 274 | 448 | Scott Carleton |
 | 275 | 443 | Fancy Curver |
 | 276 | 443 | Stefanie LaPointe |
@@ -357,8 +357,8 @@
 | 349 | 362 | Brandon Givens |
 | 350 | 362 | Chummy Rumbler |
 | 351 | 361 | neci |
-| 352 | 359 | Steven Fulater |
-| 353 | 359 | Kristen Weese |
+| 352 | 359 | Kristen Weese |
+| 353 | 359 | Steven Fulater |
 | 354 | 358 | Heather Davis |
 | 355 | 356 | Tony Waters |
 | 356 | 356 | Ashley Lynn Marchese |
