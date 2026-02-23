@@ -49,8 +49,8 @@
 | 41 | 1172 | Amanda Summey Schoemer |
 | 42 | 1166 | Felicia Lewis |
 | 43 | 1128 | june october |
-| 44 | 1126 | Tater |
-| 45 | 1126 | Tipsy Column |
+| 44 | 1126 | Tipsy Column |
+| 45 | 1126 | Tater |
 | 46 | 1122 | Kristen Gideon |
 | 47 | 1114 | Jayme Sellers |
 | 48 | 1114 | Andrea Dañielle Ortiz |
@@ -156,8 +156,8 @@
 | 148 | 482 | Sarah Somers Gray |
 | 149 | 478 | Adrian Esteban |
 | 150 | 477 | Tonya Beasley |
-| 151 | 476 | Ly Phethmany |
-| 152 | 476 | phrmblk24 |
+| 151 | 476 | phrmblk24 |
+| 152 | 476 | Ly Phethmany |
 | 153 | 475 | Plucky Ziggy |
 | 154 | 470 | Candy Jones |
 | 155 | 468 | Steve Schneider |

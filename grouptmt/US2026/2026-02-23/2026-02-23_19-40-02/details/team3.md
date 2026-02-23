@@ -185,8 +185,8 @@
 | 177 | 695 | Samantha Greco |
 | 178 | 690 | Patricia White |
 | 179 | 684 | Nicole Myers |
-| 180 | 675 | Edwin Calvillo Jr. |
-| 181 | 675 | Angela Scott |
+| 180 | 675 | Angela Scott |
+| 181 | 675 | Edwin Calvillo Jr. |
 | 182 | 657 | Chasity |
 | 183 | 655 | Rochelle Hazelett |
 | 184 | 647 | Jennifer Lynn Fahrenholtz-Summers |
@@ -202,9 +202,9 @@
 | 194 | 616 | Kammy Hill |
 | 195 | 615 | Tasha Gillespie |
 | 196 | 601 | CeceGeGe |
-| 197 | 600 | Domo Washington |
-| 198 | 600 | Makelini Mausia |
-| 199 | 600 | Keis |
+| 197 | 600 | Makelini Mausia |
+| 198 | 600 | Keis |
+| 199 | 600 | Domo Washington |
 | 200 | 598 | Bmo |
 | 201 | 598 | Annie Déè |
 | 202 | 595 | Kaycee Kay |
@@ -312,8 +312,8 @@
 | 304 | 410 | Brian Battjes |
 | 305 | 409 | Desiree Gold |
 | 306 | 409 | Hyper Matchzone |
-| 307 | 408 | Tiffany Ford |
-| 308 | 408 | Ashley Muncey |
+| 307 | 408 | Ashley Muncey |
+| 308 | 408 | Tiffany Ford |
 | 309 | 405 | Steffi Chris Dacones |
 | 310 | 403 | lashanda |
 | 311 | 403 | Scott Lindsay |
@@ -430,8 +430,8 @@
 | 422 | 314 | Tipsy Zonebuilder |
 | 423 | 313 | Hoppy Buildout |
 | 424 | 312 | Eric Caccavale |
-| 425 | 309 | Block Baddie |
-| 426 | 309 | Cheeky Snapper |
+| 425 | 309 | Cheeky Snapper |
+| 426 | 309 | Block Baddie |
 | 427 | 308 | Katrina Turner |
 | 428 | 308 | Sassy Brickmatch |
 | 429 | 308 | Rainbow77375 |
@@ -666,8 +666,8 @@
 | 658 | 215 | Gina Marie |
 | 659 | 214 | Shiny Snapfit |
 | 660 | 214 | Amy Fuller Heaton |
-| 661 | 213 | Taylor |
-| 662 | 213 | Laaken Draper |
+| 661 | 213 | Laaken Draper |
+| 662 | 213 | Taylor |
 | 663 | 213 | Heather Ferrara |
 | 664 | 212 | Kita A Jackson |
 | 665 | 212 | Beth Ingham |

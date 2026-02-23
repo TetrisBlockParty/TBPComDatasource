@@ -307,8 +307,8 @@
 | 299 | 1156 | Alezandra Smith |
 | 300 | 1150 | Prado |
 | 301 | 1145 | Deborah Miller |
-| 302 | 1142 | Sheniya Spurgeon |
-| 303 | 1142 | April Dawn Gussler |
+| 302 | 1142 | April Dawn Gussler |
+| 303 | 1142 | Sheniya Spurgeon |
 | 304 | 1140 | Kimberly Hauck-Rausch |
 | 305 | 1139 | Carl Bradshaw |
 | 306 | 1137 | Hillary Crawford |
@@ -378,8 +378,8 @@
 | 370 | 978 | Barry Britt |
 | 371 | 977 | Christina Lewis-Vickers |
 | 372 | 976 | Sam Joe |
-| 373 | 975 | Hyper Cluster |
-| 374 | 975 | Mandi Douglas Hilt |
+| 373 | 975 | Mandi Douglas Hilt |
+| 374 | 975 | Hyper Cluster |
 | 375 | 974 | Boldy Cascadepiece |
 | 376 | 971 | Jojo Momma |
 | 377 | 971 | Tiara Elizabeth Baker |
@@ -421,8 +421,8 @@
 | 413 | 903 | Ashle Scranton |
 | 414 | 903 | Sarah DeHart |
 | 415 | 902 | Felicia Lynn |
-| 416 | 899 | Patrick Bartlett |
-| 417 | 899 | Chevy |
+| 416 | 899 | Chevy |
+| 417 | 899 | Patrick Bartlett |
 | 418 | 898 | Donna M Carter |
 | 419 | 897 | Jamie Schmitt |
 | 420 | 895 | Brenda Utphall |
@@ -455,8 +455,8 @@
 | 447 | 849 | AgileDragon |
 | 448 | 844 | Terri McKelvey McKinley |
 | 449 | 843 | Quirky Twistline |
-| 450 | 840 | Traci Johnson |
-| 451 | 840 | Kiana Boschh |
+| 450 | 840 | Kiana Boschh |
+| 451 | 840 | Traci Johnson |
 | 452 | 838 | Sheronda Jackson |
 | 453 | 837 | Christine Coughlin |
 | 454 | 836 | KhaosLord |
@@ -496,8 +496,8 @@
 | 488 | 803 | Ann Matzkanin |
 | 489 | 801 | Diana Fitzwater |
 | 490 | 798 | Melissa Cole |
-| 491 | 797 | Mighty Spinbuilder |
-| 492 | 797 | Alex Dungo Hoang |
+| 491 | 797 | Alex Dungo Hoang |
+| 492 | 797 | Mighty Spinbuilder |
 | 493 | 796 | AndrewandShela Gornik |
 | 494 | 796 | Amber Gray |
 | 495 | 794 | Lindsey Leigh |
