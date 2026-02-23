@@ -377,8 +377,8 @@
 | 369 | 829 | Jessica Wayne Cornwall |
 | 370 | 828 | Kimmy Newman |
 | 371 | 825 | Jeremy Parodi |
-| 372 | 824 | Khalil Lowe |
-| 373 | 824 | Danielle Johnson-Chandler |
+| 372 | 824 | Danielle Johnson-Chandler |
+| 373 | 824 | Khalil Lowe |
 | 374 | 822 | KhaosLord |
 | 375 | 822 | Lola Contreras |
 | 376 | 821 | Angie Bolton Workman |
@@ -695,8 +695,8 @@
 | 687 | 509 | Perky Rollfit |
 | 688 | 509 | Toni Whipple |
 | 689 | 508 | Daphne Jordan |
-| 690 | 507 | Funky Caster |
-| 691 | 507 | Crystal Heller Gonzalez |
+| 690 | 507 | Crystal Heller Gonzalez |
+| 691 | 507 | Funky Caster |
 | 692 | 506 | Cblock |
 | 693 | 505 | Casey Schumacher |
 | 694 | 502 | Jasmine Kenney |

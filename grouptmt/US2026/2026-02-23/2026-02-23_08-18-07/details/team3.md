@@ -121,8 +121,8 @@
 | 113 | 831 | Angeline Joseph |
 | 114 | 830 | Stephanie Allmon |
 | 115 | 826 | Shane Wilson Jr. |
-| 116 | 816 | Jesse Olive |
-| 117 | 816 | Brenda Lee Vander Molen |
+| 116 | 816 | Brenda Lee Vander Molen |
+| 117 | 816 | Jesse Olive |
 | 118 | 802 | Bobbi Moore |
 | 119 | 800 | Lauren Girouard |
 | 120 | 799 | Dolores Falco |
@@ -130,8 +130,8 @@
 | 122 | 769 | Kristie |
 | 123 | 764 | Groovy Catcher |
 | 124 | 762 | Speedy Bridger |
-| 125 | 755 | Katrina Schroeder |
-| 126 | 755 | Raya |
+| 125 | 755 | Raya |
+| 126 | 755 | Katrina Schroeder |
 | 127 | 752 | Logan Naccarato |
 | 128 | 748 | Adrian Marcel Pate |
 | 129 | 745 | JerseyJess |
@@ -196,8 +196,8 @@
 | 188 | 546 | Cynthia Castros-Hampton |
 | 189 | 546 | Mykal Burton |
 | 190 | 540 | Shawn Miller |
-| 191 | 531 | Sarah Cowan Burgos |
-| 192 | 531 | Chauntee Alfrey-Cardinale |
+| 191 | 531 | Chauntee Alfrey-Cardinale |
+| 192 | 531 | Sarah Cowan Burgos |
 | 193 | 528 | Silly Twist |
 | 194 | 525 | Stephanie Blkpep Davidson |
 | 195 | 524 | Bmo |
@@ -223,8 +223,8 @@
 | 215 | 471 | Mendoza Lee Christy |
 | 216 | 467 | Sherry Ogden |
 | 217 | 465 | Annie Déè |
-| 218 | 464 | Shunta Jacobs |
-| 219 | 464 | Danielle Weikel |
+| 218 | 464 | Danielle Weikel |
+| 219 | 464 | Shunta Jacobs |
 | 220 | 461 | Tom Nault |
 | 221 | 458 | Danielle Rhoades |
 | 222 | 454 | Joye Sims Binion |
@@ -250,8 +250,8 @@
 | 242 | 398 | Marci Mize Fandrich |
 | 243 | 396 | Randy Clevenger |
 | 244 | 395 | rosy |
-| 245 | 391 | Nicole Flippo |
-| 246 | 391 | RickyG |
+| 245 | 391 | RickyG |
+| 246 | 391 | Nicole Flippo |
 | 247 | 387 | Gideon Walker |
 | 248 | 383 | Darlene McMillan |
 | 249 | 382 | Giddy Twistbuilder |
@@ -276,17 +276,17 @@
 | 268 | 367 | Kristin Delibac Corrigan |
 | 269 | 366 | Gumbo |
 | 270 | 365 | Noyb Adam |
-| 271 | 364 | Steffi Chris Dacones |
-| 272 | 364 | Carrie Huskey |
+| 271 | 364 | Carrie Huskey |
+| 272 | 364 | Steffi Chris Dacones |
 | 273 | 362 | Brandon Givens |
 | 274 | 360 | Cesar Barraza |
 | 275 | 359 | Sleepy |
-| 276 | 354 | Andrew Thorson |
+| 276 | 354 | Roary Danner |
 | 277 | 354 | Eileen Brady Thurber |
-| 278 | 354 | Roary Danner |
+| 278 | 354 | Andrew Thorson |
 | 279 | 354 | Kelly |
-| 280 | 353 | Cyd061769 |
-| 281 | 353 | Dee Franklin |
+| 280 | 353 | Dee Franklin |
+| 281 | 353 | Cyd061769 |
 | 282 | 352 | Christian Werndl |
 | 283 | 351 | Eon Harris |
 | 284 | 351 | Blocked |
@@ -417,8 +417,8 @@
 | 409 | 255 | Mariah Williams |
 | 410 | 255 | Sharisse Baltimore |
 | 411 | 254 | Blair Erin Waite |
-| 412 | 253 | Jennifer Alvey |
-| 413 | 253 | Hyper Bridger |
+| 412 | 253 | Hyper Bridger |
+| 413 | 253 | Jennifer Alvey |
 | 414 | 253 | Daring Builder |
 | 415 | 253 | Block Baddie |
 | 416 | 252 | Jl |
@@ -438,7 +438,7 @@
 | 430 | 243 | Christy Quick |
 | 431 | 243 | Paula Little |
 | 432 | 243 | Nicholas Roddy |
-| 433 | 242 | Fancy Curver |
+| 433 | 242 | Joy Petroski |
 | 434 | 242 | Michael Latasha Gray |
 | 435 | 242 | Fancy Curver |
 | 436 | 242 | Katheline Lazo Luizaga |
@@ -530,8 +530,8 @@
 | 522 | 204 | Daisy Rocha |
 | 523 | 204 | Sassy Brickmatch |
 | 524 | 204 | Lesley Perez |
-| 525 | 203 | Irene Arreguin |
-| 526 | 203 | Sdot |
+| 525 | 203 | Sdot |
+| 526 | 203 | Irene Arreguin |
 | 527 | 201 | Katrina E Jelks |
 | 528 | 201 | Denise Marie |
 | 529 | 200 | Sarah Whalen |
@@ -571,7 +571,7 @@
 | 563 | 191 | lady lua |
 | 564 | 191 | Peachy Tower |
 | 565 | 191 | Polopypy |
-| 566 | 191 | Peachy Tower |
+| 566 | 191 | Becca Engle |
 | 567 | 190 | Smiley Zone |
 | 568 | 189 | Jason |
 | 569 | 189 | Wacky Crasher |
@@ -610,8 +610,8 @@
 | 602 | 181 | Julia Nicole |
 | 603 | 180 | Chipper Piecefit |
 | 604 | 180 | Stella |
-| 605 | 179 | Boldy Corner |
-| 606 | 179 | Alexi Pryor |
+| 605 | 179 | Alexi Pryor |
+| 606 | 179 | Boldy Corner |
 | 607 | 179 | Ruchi Smit |
 | 608 | 178 | Jillian Ann |
 | 609 | 178 | Draone Grayson |

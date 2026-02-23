@@ -76,8 +76,8 @@
 | 68 | 766 | Robin Watters |
 | 69 | 765 | Robin Getchel |
 | 70 | 765 | Denise Carlson |
-| 71 | 752 | loulou |
-| 72 | 752 | Shane Kalamata Platoon |
+| 71 | 752 | Shane Kalamata Platoon |
+| 72 | 752 | loulou |
 | 73 | 749 | Dustee Craddock-Harrison |
 | 74 | 742 | Carolyn Wallace |
 | 75 | 740 | Avy Absol |
@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Kimyatta Cavin |
-| 84 | 684 | Jonathan Kimbrough |
+| 83 | 684 | Jonathan Kimbrough |
+| 84 | 684 | Kimyatta Cavin |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -329,9 +329,9 @@
 | 321 | 214 | Patron Anderson |
 | 322 | 214 | Stacey Stano |
 | 323 | 213 | Jackie Marie |
-| 324 | 212 | Zany Shatterer |
-| 325 | 212 | Brave Spinbuilder |
-| 326 | 212 | Mike Solo |
+| 324 | 212 | Mike Solo |
+| 325 | 212 | Zany Shatterer |
+| 326 | 212 | Brave Spinbuilder |
 | 327 | 211 | Chris Alexinas |
 | 328 | 210 | Ari Droff |
 | 329 | 209 | Snippy Puzzle |
@@ -523,8 +523,8 @@
 | 515 | 139 | Ann G. Carrillo |
 | 516 | 139 | Deb Rubeck |
 | 517 | 138 | Lynn Marie |
-| 518 | 138 | Hasty Fitzone |
-| 519 | 138 | Shiny Pivoty |
+| 518 | 138 | Shiny Pivoty |
+| 519 | 138 | Hasty Fitzone |
 | 520 | 137 | Brianna Walker |
 | 521 | 137 | April Spoelma |
 | 522 | 136 | Zocko Ellet |
@@ -533,7 +533,7 @@
 | 525 | 136 | Jennifer Perkins |
 | 526 | 135 | Groovy Shiftspin |
 | 527 | 134 | Tabitha Henson |
-| 528 | 133 | Amy C Brown |
+| 528 | 133 | Wacky Blockclear |
 | 529 | 133 | Jesus Garcia |
 | 530 | 133 | Amy C Brown |
 | 531 | 133 | ThriftySpice |
