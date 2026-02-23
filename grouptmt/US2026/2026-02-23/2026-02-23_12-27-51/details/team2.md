@@ -136,7 +136,7 @@
 | 128 | 1937 | Adam Erikson |
 | 129 | 1932 | Gary Schaffner Jr. |
 | 130 | 1931 | Angi Harrison |
-| 131 | 1910 | Rebecca Doughman |
+| 131 | 1899 | Jumpy Gridpiece |
 | 132 | 1899 | Jamie Main |
 | 133 | 1895 | Goofy Snapfit |
 | 134 | 1887 | Tonya Brooks-Johnson |
@@ -569,8 +569,8 @@
 | 561 | 634 | James Louie |
 | 562 | 634 | Quiksilver |
 | 563 | 629 | Breezy Clusterer |
-| 564 | 629 | Maya June |
-| 565 | 629 | snkylnk |
+| 564 | 629 | snkylnk |
+| 565 | 629 | Maya June |
 | 566 | 628 | g |
 | 567 | 628 | Brownie Sheena |
 | 568 | 626 | Chab |

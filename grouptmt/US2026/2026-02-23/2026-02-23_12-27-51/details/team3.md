@@ -132,8 +132,8 @@
 | 124 | 775 | Kristie |
 | 125 | 774 | Keith J Oshman Jr. |
 | 126 | 773 | Daira Largen |
-| 127 | 764 | Hasty Cascadefit |
-| 128 | 764 | Groovy Catcher |
+| 127 | 764 | Groovy Catcher |
+| 128 | 764 | Hasty Cascadefit |
 | 129 | 762 | Speedy Bridger |
 | 130 | 755 | Raya |
 | 131 | 755 | Katrina Schroeder |
@@ -198,8 +198,8 @@
 | 190 | 549 | Sarah Cowan Burgos |
 | 191 | 548 | Danielle Balcom |
 | 192 | 547 | Staci George Fitzsimmons |
-| 193 | 546 | Cynthia Castros-Hampton |
-| 194 | 546 | Tasha Schriewer |
+| 193 | 546 | Tasha Schriewer |
+| 194 | 546 | Cynthia Castros-Hampton |
 | 195 | 546 | Mykal Burton |
 | 196 | 540 | Shawn Miller |
 | 197 | 536 | Makelini Mausia |
@@ -2501,7 +2501,7 @@
 | 2493 | 23 | Bonniealways |
 | 2494 | 23 | MzMarsh Angulo |
 | 2495 | 22 | Angela Adcock |
-| 2496 | 22 | Seth Jawitz |
+| 2496 | 22 | Makayla Weatherly |
 | 2497 | 22 | Sheena Saint Claire |
 | 2498 | 22 | Seth Jawitz |
 | 2499 | 22 | Haylee |

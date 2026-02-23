@@ -66,8 +66,8 @@
 | 58 | 864 | Shelly Chandler |
 | 59 | 863 | Pee |
 | 60 | 859 | TeeJ |
-| 61 | 846 | Lucille Truesdale |
-| 62 | 846 | Christine Marie |
+| 61 | 846 | Christine Marie |
+| 62 | 846 | Lucille Truesdale |
 | 63 | 834 | quicksand420 |
 | 64 | 807 | Amelpss |
 | 65 | 807 | Rachel Anne |
@@ -243,14 +243,14 @@
 | 235 | 294 | Calvin Cannon |
 | 236 | 292 | Angel Raya |
 | 237 | 292 | Epic Curvetile |
-| 238 | 291 | Mimi |
-| 239 | 291 | Dizzy Matchzone |
+| 238 | 291 | Dizzy Matchzone |
+| 239 | 291 | Mimi |
 | 240 | 290 | Rebecca Morris |
 | 241 | 290 | Plucky Patternblock |
 | 242 | 290 | Jared Gutwein |
 | 243 | 289 | Juls |
-| 244 | 288 | Adam Stephanie Parker |
-| 245 | 288 | Zesty Twistbuilder |
+| 244 | 288 | Zesty Twistbuilder |
+| 245 | 288 | Adam Stephanie Parker |
 | 246 | 288 | Brittney Orengo |
 | 247 | 285 | 030Synner |
 | 248 | 284 | Matt Dell'Olio |

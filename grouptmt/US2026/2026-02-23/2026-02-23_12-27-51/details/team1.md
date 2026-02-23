@@ -66,8 +66,8 @@
 | 58 | 892 | Seth Wesson |
 | 59 | 874 | Kristen Roles Robben |
 | 60 | 858 | Michelle Nicole |
-| 61 | 850 | comrade fish |
-| 62 | 850 | Andrea Dañielle Ortiz |
+| 61 | 850 | Andrea Dañielle Ortiz |
+| 62 | 850 | comrade fish |
 | 63 | 845 | Drew Magnus |
 | 64 | 829 | Sevens4L |
 | 65 | 818 | Patrick Luckenbill |
@@ -79,8 +79,8 @@
 | 71 | 760 | Seante Bullock |
 | 72 | 759 | Jacqueline Williams |
 | 73 | 750 | Cartier |
-| 74 | 713 | Robert Benito |
-| 75 | 713 | Snappy Swiper |
+| 74 | 713 | Snappy Swiper |
+| 75 | 713 | Robert Benito |
 | 76 | 704 | Karin Gillen |
 | 77 | 703 | Angel Fowler |
 | 78 | 689 | Susanna Guerry |
