@@ -63,10 +63,10 @@
 | 55 | 870 | BertMofo |
 | 56 | 864 | Shelly Chandler |
 | 57 | 863 | Pee |
-| 58 | 859 | Christina LR |
-| 59 | 859 | TeeJ |
-| 60 | 846 | Lucille Truesdale |
-| 61 | 846 | Christine Marie |
+| 58 | 859 | TeeJ |
+| 59 | 859 | Christina LR |
+| 60 | 846 | Christine Marie |
+| 61 | 846 | Lucille Truesdale |
 | 62 | 834 | quicksand420 |
 | 63 | 822 | Kimyatta Cavin |
 | 64 | 807 | Amelpss |
@@ -117,8 +117,8 @@
 | 109 | 571 | H.R. Block |
 | 110 | 561 | YoMomma |
 | 111 | 560 | Chastity Mitchell |
-| 112 | 557 | Nugget |
-| 113 | 557 | Carmethia Clemons Haslerig |
+| 112 | 557 | Carmethia Clemons Haslerig |
+| 113 | 557 | Nugget |
 | 114 | 552 | Chilly Crasher |
 | 115 | 551 | Ren Mc |
 | 116 | 542 | Austin Owens |
@@ -231,16 +231,16 @@
 | 223 | 307 | Michele Plunkett |
 | 224 | 306 | mike |
 | 225 | 305 | Melvin Baird |
-| 226 | 304 | Gdiguy |
-| 227 | 304 | Lindsay Ball |
+| 226 | 304 | Lindsay Ball |
+| 227 | 304 | Gdiguy |
 | 228 | 301 | Andria Lynn |
 | 229 | 300 | Dana Scott |
 | 230 | 295 | Keshia Lyons |
 | 231 | 294 | Calvin Cannon |
 | 232 | 292 | Epic Curvetile |
 | 233 | 291 | Mimi |
-| 234 | 290 | Plucky Patternblock |
-| 235 | 290 | Rebecca Morris |
+| 234 | 290 | Rebecca Morris |
+| 235 | 290 | Plucky Patternblock |
 | 236 | 290 | Jared Gutwein |
 | 237 | 289 | Juls |
 | 238 | 288 | Brittney Orengo |
@@ -544,8 +544,8 @@
 | 536 | 139 | Ann G. Carrillo |
 | 537 | 139 | Angie Schmidt |
 | 538 | 138 | Lynn Marie |
-| 539 | 137 | Brianna Walker |
-| 540 | 137 | April Spoelma |
+| 539 | 137 | April Spoelma |
+| 540 | 137 | Brianna Walker |
 | 541 | 137 | Lee Silpe |
 | 542 | 136 | Jennifer Perkins |
 | 543 | 136 | Badatvs |

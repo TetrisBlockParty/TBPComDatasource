@@ -179,8 +179,8 @@
 | 171 | 597 | Diana Ibarra |
 | 172 | 591 | Michael Nowogorski |
 | 173 | 587 | Louise Stacy Sisson |
-| 174 | 585 | Domo Washington |
-| 175 | 585 | Happy Tetriblast |
+| 174 | 585 | Happy Tetriblast |
+| 175 | 585 | Domo Washington |
 | 176 | 583 | Tasha Gillespie |
 | 177 | 582 | Natasha Jones |
 | 178 | 574 | Morgan Martinez |
@@ -196,9 +196,9 @@
 | 188 | 553 | Kaycee Kay |
 | 189 | 548 | Danielle Balcom |
 | 190 | 547 | Staci George Fitzsimmons |
-| 191 | 546 | Cynthia Castros-Hampton |
+| 191 | 546 | Mykal Burton |
 | 192 | 546 | Tasha Schriewer |
-| 193 | 546 | Mykal Burton |
+| 193 | 546 | Cynthia Castros-Hampton |
 | 194 | 540 | Shawn Miller |
 | 195 | 531 | Makelini Mausia |
 | 196 | 531 | Chauntee Alfrey-Cardinale |
@@ -266,8 +266,8 @@
 | 258 | 406 | Kristal C Lee |
 | 259 | 405 | Steffi Chris Dacones |
 | 260 | 404 | Chasity |
-| 261 | 403 | Scott Lindsay |
-| 262 | 403 | Denita Mungro |
+| 261 | 403 | Denita Mungro |
+| 262 | 403 | Scott Lindsay |
 | 263 | 401 | Ashley Tookes |
 | 264 | 395 | rosy |
 | 265 | 390 | Quackers |
@@ -395,7 +395,7 @@
 | 387 | 277 | Joe-Maggie Mathews |
 | 388 | 277 | Tipsy Zonebuilder |
 | 389 | 276 | Karent524 |
-| 390 | 276 | BugMansMom |
+| 390 | 276 | Mikki Torres |
 | 391 | 276 | Noettín Kan Zasnemoore |
 | 392 | 276 | Crimson |
 | 393 | 276 | BugMansMom |
@@ -432,10 +432,10 @@
 | 424 | 259 | Shania Vaine |
 | 425 | 259 | Dana Winters |
 | 426 | 258 | IamJust Neyamijah Washington Sr. |
-| 427 | 257 | Rachel Grant |
-| 428 | 257 | Chris Wallace |
-| 429 | 257 | Jana Polk |
-| 430 | 257 | Saucy Buildout |
+| 427 | 257 | Chris Wallace |
+| 428 | 257 | Rachel Grant |
+| 429 | 257 | Saucy Buildout |
+| 430 | 257 | Jana Polk |
 | 431 | 255 | Erykah |
 | 432 | 255 | Mariah Williams |
 | 433 | 254 | Blair Erin Waite |
@@ -478,11 +478,11 @@
 | 470 | 236 | Frothy Snapper |
 | 471 | 234 | Cheeky Twisterfit |
 | 472 | 233 | Tony Waters |
-| 473 | 233 | Anna Moeller |
-| 474 | 233 | Criss |
+| 473 | 233 | Criss |
+| 474 | 233 | Anna Moeller |
 | 475 | 232 | Sunny Tiltgrid |
-| 476 | 232 | Stephanie Hill |
-| 477 | 232 | Melanie Sherwood |
+| 476 | 232 | Melanie Sherwood |
+| 477 | 232 | Stephanie Hill |
 | 478 | 231 | Giggly Brickroll |
 | 479 | 230 | DanceLuvLaugh |
 | 480 | 230 | BigE |
@@ -646,11 +646,11 @@
 | 638 | 179 | Ruchi Smit |
 | 639 | 179 | Num1hater |
 | 640 | 178 | Jillian Ann |
-| 641 | 178 | Draone Grayson |
+| 641 | 178 | Kathleen Taylor |
 | 642 | 178 | Melissa Snyder |
-| 643 | 178 | Kathleen Taylor |
-| 644 | 177 | Matty Ray |
-| 645 | 177 | Elizabeth Renee |
+| 643 | 178 | Draone Grayson |
+| 644 | 177 | Elizabeth Renee |
+| 645 | 177 | Matty Ray |
 | 646 | 177 | Jm |
 | 647 | 177 | Chad |
 | 648 | 176 | Geronimo |
@@ -1090,7 +1090,7 @@
 | 1082 | 107 | Groovy Pivoty |
 | 1083 | 107 | Amanda Martinez |
 | 1084 | 107 | Christina Dawn Bowen |
-| 1085 | 107 | Amanda Martinez |
+| 1085 | 107 | Lush Edgefit |
 | 1086 | 107 | Endawg |
 | 1087 | 106 | Loony Snapbuild |
 | 1088 | 106 | Kojo |
@@ -1680,7 +1680,7 @@
 | 1672 | 60 | Steph Sorenson |
 | 1673 | 60 | htc |
 | 1674 | 60 | Crystal McDowell Morgan |
-| 1675 | 60 | Traci Hagerman |
+| 1675 | 60 | Tahira Patrice |
 | 1676 | 60 | Amanda Fulton |
 | 1677 | 60 | Pam Hilt |
 | 1678 | 60 | Traci Hagerman |
