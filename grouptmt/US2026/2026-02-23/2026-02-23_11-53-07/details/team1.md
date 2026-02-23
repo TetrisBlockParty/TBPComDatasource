@@ -387,8 +387,8 @@
 | 379 | 202 | Krie |
 | 380 | 202 | Andrew Backes |
 | 381 | 201 | Tedashi |
-| 382 | 201 | Rico Rico |
-| 383 | 201 | Colleen Wise |
+| 382 | 201 | Colleen Wise |
+| 383 | 201 | Rico Rico |
 | 384 | 200 | Zesty Brickzone |
 | 385 | 200 | Brave Slice |
 | 386 | 199 | Larissa Marie Nelson |
