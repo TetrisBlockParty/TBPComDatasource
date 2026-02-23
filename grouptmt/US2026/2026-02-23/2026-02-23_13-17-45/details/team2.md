@@ -282,13 +282,13 @@
 | 274 | 1103 | RAEPR05 |
 | 275 | 1093 | Real Ri |
 | 276 | 1088 | Brainy Smurf |
-| 277 | 1080 | Tyler C. Jung |
-| 278 | 1080 | Cassie Mercer |
+| 277 | 1080 | Cassie Mercer |
+| 278 | 1080 | Tyler C. Jung |
 | 279 | 1079 | Jennifer Kistner |
 | 280 | 1073 | Jodi Blake |
 | 281 | 1071 | Kim Dean |
-| 282 | 1069 | Carl Bradshaw |
-| 283 | 1069 | Offonar Facey |
+| 282 | 1069 | Offonar Facey |
+| 283 | 1069 | Carl Bradshaw |
 | 284 | 1064 | BK Queen |
 | 285 | 1063 | Caitlin Schmid |
 | 286 | 1053 | Michelle Lee |
@@ -297,8 +297,8 @@
 | 289 | 1047 | Dany Murillo |
 | 290 | 1046 | Lola C Davis |
 | 291 | 1046 | Cindy Sechler Taninecz |
-| 292 | 1045 | Bri Lynn |
-| 293 | 1045 | Lourisha |
+| 292 | 1045 | Lourisha |
+| 293 | 1045 | Bri Lynn |
 | 294 | 1044 | Jennifer Aiken |
 | 295 | 1043 | Brave Dropmatch |
 | 296 | 1043 | nikki |
@@ -513,8 +513,8 @@
 | 505 | 697 | Isabelle Bonneau |
 | 506 | 697 | Poldo Ilano |
 | 507 | 693 | Ryan Stadel |
-| 508 | 692 | Shaun Church |
-| 509 | 692 | Bubbly Snapbuild |
+| 508 | 692 | Bubbly Snapbuild |
+| 509 | 692 | Shaun Church |
 | 510 | 691 | Arwa Fatimah |
 | 511 | 691 | Samuel Macon |
 | 512 | 689 | Gauri Shrotriya |
@@ -663,8 +663,8 @@
 | 655 | 566 | SwampRebel |
 | 656 | 566 | Tina Marie |
 | 657 | 564 | Stacey Tranchida |
-| 658 | 563 | Nat |
-| 659 | 563 | Frisky Clearpiece |
+| 658 | 563 | Frisky Clearpiece |
+| 659 | 563 | Nat |
 | 660 | 559 | Kelli Wells |
 | 661 | 559 | Alexx Anaya |
 | 662 | 558 | Lee Harper |
@@ -946,8 +946,8 @@
 | 938 | 414 | Maria Louise |
 | 939 | 413 | Ashley Robbins |
 | 940 | 413 | Kat Mfm Kaul |
-| 941 | 413 | Abby Klaski |
-| 942 | 413 | Johnna Points |
+| 941 | 413 | Johnna Points |
+| 942 | 413 | Abby Klaski |
 | 943 | 412 | Squirrel |
 | 944 | 411 | Valerie Vigil |
 | 945 | 411 | Epic Stackbuilder |

@@ -135,8 +135,8 @@
 | 127 | 514 | Scott Jameson |
 | 128 | 513 | Erin Thomas |
 | 129 | 513 | Chaz Duncan |
-| 130 | 512 | Cristy Duerksen |
-| 131 | 512 | Casey Jeffcoat |
+| 130 | 512 | Casey Jeffcoat |
+| 131 | 512 | Cristy Duerksen |
 | 132 | 508 | Twisty Clicky |
 | 133 | 502 | Ellen Durfee |
 | 134 | 498 | Melissa Adams |
@@ -611,8 +611,8 @@
 | 603 | 122 | Martha Lucinda Bishop |
 | 604 | 122 | meowmew |
 | 605 | 122 | Mary Therese Benden Cole |
-| 606 | 121 | Flashy Jumper |
-| 607 | 121 | Brittany Price |
+| 606 | 121 | Brittany Price |
+| 607 | 121 | Flashy Jumper |
 | 608 | 121 | Jeff Roberts |
 | 609 | 120 | Christina O'Dell-Ishau |
 | 610 | 120 | Joni Marie Flanary |
@@ -997,7 +997,7 @@
 | 989 | 67 | Travis Poe |
 | 990 | 67 | Monica Manning-Bryson |
 | 991 | 67 | Mighty Blockzone |
-| 992 | 67 | Monica Manning-Bryson |
+| 992 | 67 | Denye |
 | 993 | 66 | Balsam Joe |
 | 994 | 66 | TwistyMcTwist |
 | 995 | 66 | Anne-Marie Reyes |

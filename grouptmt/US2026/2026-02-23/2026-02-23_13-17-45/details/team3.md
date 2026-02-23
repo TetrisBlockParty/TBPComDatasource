@@ -140,8 +140,8 @@
 | 132 | 755 | Raya |
 | 133 | 748 | Adrian Marcel Pate |
 | 134 | 746 | Giddy Drop |
-| 135 | 745 | JerseyJess |
-| 136 | 745 | ren |
+| 135 | 745 | ren |
+| 136 | 745 | JerseyJess |
 | 137 | 744 | Fancy Cascader |
 | 138 | 739 | Daryn Elliott |
 | 139 | 736 | mzcatzy |
@@ -220,8 +220,8 @@
 | 212 | 499 | Trisha Balmer |
 | 213 | 498 | Melissa Orth Hunter |
 | 214 | 496 | Loopy Fallmatch |
-| 215 | 494 | Connie Mohler-Fair |
-| 216 | 494 | FuzzyNavel |
+| 215 | 494 | FuzzyNavel |
+| 216 | 494 | Connie Mohler-Fair |
 | 217 | 491 | Michael Johnson |
 | 218 | 488 | joz |
 | 219 | 485 | Dapper Snap |

@@ -139,8 +139,8 @@
 | 131 | 453 | Brandi Huntington |
 | 132 | 451 | Plucky Ziggy |
 | 133 | 450 | lil mickey |
-| 134 | 448 | Sweet Baker |
-| 135 | 448 | Jazzy Framezone |
+| 134 | 448 | Jazzy Framezone |
+| 135 | 448 | Sweet Baker |
 | 136 | 446 | SkipTheSadSauce |
 | 137 | 443 | Steve Schneider |
 | 138 | 440 | femmefatale |
@@ -335,8 +335,8 @@
 | 327 | 236 | Frisky Base |
 | 328 | 235 | Ariel Whittington |
 | 329 | 234 | Brandie Gallegos |
-| 330 | 234 | Paula Martin |
-| 331 | 234 | LD1 |
+| 330 | 234 | LD1 |
+| 331 | 234 | Paula Martin |
 | 332 | 233 | Shiny Gridmatch |
 | 333 | 233 | Melissa Bires Hussar |
 | 334 | 233 | Tipsy Riseclear |
@@ -398,8 +398,8 @@
 | 390 | 204 | Cranky Pattern |
 | 391 | 204 | Dizzy Slider |
 | 392 | 203 | Rebekah LeiAnn Bonsell |
-| 393 | 202 | Andrew Backes |
-| 394 | 202 | Brave Slice |
+| 393 | 202 | Krie |
+| 394 | 202 | Andrew Backes |
 | 395 | 202 | Amber Dee |
 | 396 | 202 | Brave Slice |
 | 397 | 201 | Rico Rico |
