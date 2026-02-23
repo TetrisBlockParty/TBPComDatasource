@@ -79,11 +79,11 @@
 | 71 | 1019 | Sarah Fehring |
 | 72 | 980 | Jennifer |
 | 73 | 970 | Rosalie Call Kehlenbeck |
-| 74 | 945 | Christian A. Pollard |
-| 75 | 945 | Shonna Roberts |
+| 74 | 945 | Shonna Roberts |
+| 75 | 945 | Christian A. Pollard |
 | 76 | 938 | Mandy Smith Oldham |
-| 77 | 926 | Angela M. Fletcher |
-| 78 | 926 | Judi Dobson |
+| 77 | 926 | Judi Dobson |
+| 78 | 926 | Angela M. Fletcher |
 | 79 | 923 | Christine Filson |
 | 80 | 910 | Jay Horn |
 | 81 | 907 | Michelle Becker |
@@ -252,8 +252,8 @@
 | 244 | 360 | Sheila M Frazier |
 | 245 | 357 | Ammmmmmy |
 | 246 | 357 | Stephanie Burtin |
-| 247 | 352 | Christian Werndl |
-| 248 | 352 | Samantha Lynn |
+| 247 | 352 | Samantha Lynn |
+| 248 | 352 | Christian Werndl |
 | 249 | 351 | Eon Harris |
 | 250 | 349 | Amanda J. Mcneil-Anderson |
 | 251 | 347 | Philip Rock |
@@ -428,8 +428,8 @@
 | 420 | 218 | Khaleada McGill Banks |
 | 421 | 218 | Tina Smith Roy |
 | 422 | 217 | Goofy Fall |
-| 423 | 216 | Trice Thomas |
-| 424 | 216 | Breanna Marsden |
+| 423 | 216 | Breanna Marsden |
+| 424 | 216 | Trice Thomas |
 | 425 | 214 | Amy Fuller Heaton |
 | 426 | 213 | Romeo |
 | 427 | 213 | Linda Draper |
