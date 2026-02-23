@@ -252,8 +252,8 @@
 | 244 | 360 | Sheila M Frazier |
 | 245 | 357 | Stephanie Burtin |
 | 246 | 357 | Ammmmmmy |
-| 247 | 352 | Christian Werndl |
-| 248 | 352 | Samantha Lynn |
+| 247 | 352 | Samantha Lynn |
+| 248 | 352 | Christian Werndl |
 | 249 | 351 | Eon Harris |
 | 250 | 349 | Amanda J. Mcneil-Anderson |
 | 251 | 347 | Philip Rock |

@@ -96,8 +96,8 @@
 | 88 | 500 | Evie Khalil |
 | 89 | 496 | Sarah Lombardo |
 | 90 | 494 | Arianna O'Brien |
-| 91 | 493 | MomMom |
-| 92 | 493 | Jennifer ManWarren |
+| 91 | 493 | Jennifer ManWarren |
+| 92 | 493 | MomMom |
 | 93 | 492 | Ash Galvan |
 | 94 | 489 | Deanna L Hermanson |
 | 95 | 486 | Tater |
@@ -218,8 +218,8 @@
 | 210 | 271 | Frothy Pattern |
 | 211 | 269 | Amanda Jarnagin |
 | 212 | 268 | Reesey Enyart |
-| 213 | 267 | Jen Nystrom |
-| 214 | 267 | Debbie Kane |
+| 213 | 267 | Debbie Kane |
+| 214 | 267 | Jen Nystrom |
 | 215 | 265 | Kandae |
 | 216 | 264 | Standia Civil |
 | 217 | 264 | Jenny Gingrich Fuentes |
@@ -242,13 +242,13 @@
 | 234 | 244 | Marianita Garcia |
 | 235 | 242 | ParisandCory Champagne |
 | 236 | 241 | Tyler Hertzog |
-| 237 | 240 | DaRascal |
-| 238 | 240 | Daring Fitclear |
+| 237 | 240 | Daring Fitclear |
+| 238 | 240 | DaRascal |
 | 239 | 239 | Lacy Wolfe |
-| 240 | 238 | Sarah Somers Gray |
-| 241 | 238 | Tiffany Smith |
-| 242 | 234 | Shanae Grant |
-| 243 | 234 | Paula Martin |
+| 240 | 238 | Tiffany Smith |
+| 241 | 238 | Sarah Somers Gray |
+| 242 | 234 | Paula Martin |
+| 243 | 234 | Shanae Grant |
 | 244 | 233 | LC |
 | 245 | 231 | Angela Fairbank |
 | 246 | 230 | Thorne Shumate |

@@ -54,8 +54,8 @@
 | 46 | 860 | Jae Job |
 | 47 | 855 | Marvin Lou Martin |
 | 48 | 850 | TeeJ |
-| 49 | 846 | Lucille Truesdale |
-| 50 | 846 | Christine Marie |
+| 49 | 846 | Christine Marie |
+| 50 | 846 | Lucille Truesdale |
 | 51 | 845 | LisaJo Picken Buchanan |
 | 52 | 843 | Shelly Chandler |
 | 53 | 834 | quicksand420 |
@@ -86,8 +86,8 @@
 | 78 | 664 | Valerie Roberts |
 | 79 | 661 | Lisa Davis |
 | 80 | 659 | Jonathan Kimbrough |
-| 81 | 647 | Shauna Havard |
-| 82 | 647 | KM8 |
+| 81 | 647 | KM8 |
+| 82 | 647 | Shauna Havard |
 | 83 | 646 | Eric Mcgaughy |
 | 84 | 641 | Savannah Overdorf |
 | 85 | 626 | Brittney Griggs |
@@ -108,12 +108,12 @@
 | 100 | 519 | Nugget |
 | 101 | 518 | Rodney McMath Jr. |
 | 102 | 514 | Serena Goodridge |
-| 103 | 513 | YoMomma |
+| 103 | 513 | Erin Thomas |
 | 104 | 513 | Jamie Gustafson |
-| 105 | 513 | Erin Thomas |
+| 105 | 513 | YoMomma |
 | 106 | 512 | Casey Jeffcoat |
-| 107 | 510 | Trista Leah |
-| 108 | 510 | Scott Jameson |
+| 107 | 510 | Scott Jameson |
+| 108 | 510 | Trista Leah |
 | 109 | 500 | shar |
 | 110 | 499 | Christina LR |
 | 111 | 489 | Chilly Crasher |
@@ -248,8 +248,8 @@
 | 240 | 240 | Perky Patternblock |
 | 241 | 240 | Kim Hunt |
 | 242 | 238 | Chaz |
-| 243 | 237 | Christine Therrien |
-| 244 | 237 | 030Synner |
+| 243 | 237 | 030Synner |
+| 244 | 237 | Christine Therrien |
 | 245 | 235 | LaDonna LovinmesomeMe Lambert |
 | 246 | 235 | Shainne Brewer |
 | 247 | 233 | Ruben Wheeler |

@@ -356,8 +356,8 @@
 | 348 | 786 | Deborah Miller |
 | 349 | 782 | Beth |
 | 350 | 779 | Kayla |
-| 351 | 777 | Tesha Oldaker |
-| 352 | 777 | Jessicah Myers |
+| 351 | 777 | Jessicah Myers |
+| 352 | 777 | Tesha Oldaker |
 | 353 | 774 | Ashley Dow |
 | 354 | 772 | Danielle Simmons |
 | 355 | 769 | Melissa Cole |
