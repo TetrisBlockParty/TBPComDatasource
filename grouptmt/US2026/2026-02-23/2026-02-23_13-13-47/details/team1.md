@@ -367,11 +367,11 @@
 | 359 | 221 | Amy Hess |
 | 360 | 220 | Allena Craft |
 | 361 | 220 | Gary Gobin |
-| 362 | 220 | Teri Oehlke |
-| 363 | 220 | Allena Craft |
+| 362 | 220 | Bay Marie |
+| 363 | 220 | Teri Oehlke |
 | 364 | 219 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
-| 365 | 219 | Negan Mallory Knoxx Spence |
-| 366 | 219 | Jeanna Dunn |
+| 365 | 219 | Jeanna Dunn |
+| 366 | 219 | Negan Mallory Knoxx Spence |
 | 367 | 218 | Jason Benitez |
 | 368 | 217 | Speedy Snapfall |
 | 369 | 217 | Cheeky Crusher |

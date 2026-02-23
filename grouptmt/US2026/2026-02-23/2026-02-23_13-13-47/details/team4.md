@@ -135,8 +135,8 @@
 | 127 | 514 | Scott Jameson |
 | 128 | 513 | Erin Thomas |
 | 129 | 513 | Chaz Duncan |
-| 130 | 512 | Cristy Duerksen |
-| 131 | 512 | Casey Jeffcoat |
+| 130 | 512 | Casey Jeffcoat |
+| 131 | 512 | Cristy Duerksen |
 | 132 | 508 | Twisty Clicky |
 | 133 | 502 | Ellen Durfee |
 | 134 | 498 | Melissa Adams |
