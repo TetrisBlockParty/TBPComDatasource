@@ -440,8 +440,8 @@
 | 432 | 808 | Laura McCarthey |
 | 433 | 808 | Jánine Riggs |
 | 434 | 804 | Sarah DeHart |
-| 435 | 804 | Becca Coronado |
-| 436 | 804 | Barry Britt |
+| 435 | 804 | Barry Britt |
+| 436 | 804 | Becca Coronado |
 | 437 | 803 | Tiara Elizabeth Baker |
 | 438 | 802 | Jessicah Myers |
 | 439 | 801 | Diana Fitzwater |

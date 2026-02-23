@@ -23,8 +23,8 @@
 | 15 | 2423 | COOL as Icer |
 | 16 | 2407 | Josie Kirt |
 | 17 | 1947 | LaQuetta Faith Hines |
-| 18 | 1888 | Mara Hilker |
-| 19 | 1860 | Odell Barnett |
+| 18 | 1860 | Odell Barnett |
+| 19 | 1838 | Mara Hilker |
 | 20 | 1707 | Adryane Schnase |
 | 21 | 1645 | Jorge Andrade |
 | 22 | 1622 | Roger Aschbrenner |
@@ -165,10 +165,10 @@
 | 157 | 417 | Jessie Lynn |
 | 158 | 417 | Phu ckalldems |
 | 159 | 416 | Jessica Sheehan |
-| 160 | 415 | Kimberly Garcia |
-| 161 | 415 | Jennifer Hardman |
-| 162 | 413 | Tanya Carpenter-Reynolds |
-| 163 | 411 | Emily Adelaide Wheatley |
+| 160 | 415 | Jennifer Hardman |
+| 161 | 413 | Tanya Carpenter-Reynolds |
+| 162 | 411 | Emily Adelaide Wheatley |
+| 163 | 409 | Kimberly Garcia |
 | 164 | 406 | David Miller |
 | 165 | 405 | Mike Ames |
 | 166 | 404 | Tawnya Peltonen |
@@ -273,8 +273,8 @@
 | 265 | 290 | Hellsin |
 | 266 | 289 | Alenoush Karimian |
 | 267 | 288 | Bird Person |
-| 268 | 287 | Sir-Franchise Drake |
-| 269 | 287 | Larissa Marie Nelson |
+| 268 | 287 | Larissa Marie Nelson |
+| 269 | 287 | Sir-Franchise Drake |
 | 270 | 286 | Sarahdactyl |
 | 271 | 285 | Shanae Grant |
 | 272 | 284 | Sam Williams |
@@ -297,11 +297,11 @@
 | 289 | 272 | Barrbaric |
 | 290 | 272 | Michelle Beres |
 | 291 | 271 | Robert |
-| 292 | 270 | Brenda Alexander |
-| 293 | 270 | Debbie Kane |
+| 292 | 270 | Debbie Kane |
+| 293 | 270 | Brenda Alexander |
 | 294 | 269 | Colleen Pinette |
-| 295 | 268 | Wayne Saunders |
-| 296 | 268 | Standia Civil |
+| 295 | 268 | Standia Civil |
+| 296 | 268 | Wayne Saunders |
 | 297 | 267 | Patty Lavigne Craddock |
 | 298 | 265 | Flashy Rotator |
 | 299 | 264 | Jenny Gingrich Fuentes |

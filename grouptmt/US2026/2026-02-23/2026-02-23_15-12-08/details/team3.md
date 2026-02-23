@@ -91,7 +91,7 @@
 | 83 | 1154 | Carrie Jarvis Mohler |
 | 84 | 1134 | Denise Nardoni |
 | 85 | 1122 | Joey Banks |
-| 86 | 1118 | Shari Garber |
+| 86 | 1108 | Shari Garber |
 | 87 | 1102 | Michelle Becker |
 | 88 | 1101 | Stephanie Rice |
 | 89 | 1097 | Corie A. Brinson |
@@ -301,8 +301,8 @@
 | 293 | 382 | Desiree Gold |
 | 294 | 382 | Salena Whitlock |
 | 295 | 380 | Rebecca Bailey |
-| 296 | 379 | Philip Rock |
-| 297 | 379 | JessDrown |
+| 296 | 379 | JessDrown |
+| 297 | 379 | Philip Rock |
 | 298 | 378 | Chris Bell |
 | 299 | 378 | MsBee |
 | 300 | 376 | Sarah Moyer |
@@ -315,14 +315,14 @@
 | 307 | 368 | Sheila M Frazier |
 | 308 | 368 | Stephanie Woods |
 | 309 | 365 | LaShey Thompson |
-| 310 | 362 | Foltz Lee Kelli |
-| 311 | 362 | Brandon Givens |
+| 310 | 362 | Brandon Givens |
+| 311 | 362 | Foltz Lee Kelli |
 | 312 | 361 | Breanna Marsden |
 | 313 | 360 | Dee Pratt |
-| 314 | 359 | Kelly |
-| 315 | 359 | Steven Fulater |
-| 316 | 358 | Heather Davis |
-| 317 | 358 | Roary Danner |
+| 314 | 359 | Steven Fulater |
+| 315 | 359 | Kelly |
+| 316 | 358 | Roary Danner |
+| 317 | 358 | Heather Davis |
 | 318 | 358 | KayB |
 | 319 | 354 | Andrew Thorson |
 | 320 | 353 | Dee Franklin |
@@ -339,8 +339,8 @@
 | 331 | 344 | Beaudie Stroebel |
 | 332 | 344 | Isabel Ocasio |
 | 333 | 343 | Ashley Rufus Bythcez |
-| 334 | 342 | Cynthia Herrmann Egland |
-| 335 | 342 | ROODBOY |
+| 334 | 342 | ROODBOY |
+| 335 | 342 | Cynthia Herrmann Egland |
 | 336 | 341 | Rick Poppen |
 | 337 | 341 | Lys |
 | 338 | 340 | Erika Thornton |

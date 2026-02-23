@@ -764,10 +764,10 @@
 | 756 | 102 | k |
 | 757 | 102 | Bryan Johnson |
 | 758 | 101 | Myra LaTrice |
-| 759 | 101 | Kris Johnson |
-| 760 | 101 | Saulc1991 |
-| 761 | 100 | James Philpot Ross |
-| 762 | 100 | Joyce Fees |
+| 759 | 101 | Saulc1991 |
+| 760 | 101 | Kris Johnson |
+| 761 | 100 | Joyce Fees |
+| 762 | 100 | James Philpot Ross |
 | 763 | 100 | Skyler Patzer |
 | 764 | 100 | Vanita M Hemphill |
 | 765 | 100 | Kristin Rose Nutter |
