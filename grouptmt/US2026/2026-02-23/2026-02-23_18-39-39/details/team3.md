@@ -264,8 +264,8 @@
 | 256 | 480 | Isabel Ocasio |
 | 257 | 476 | Shunta Jacobs |
 | 258 | 471 | Mendoza Lee Christy |
-| 259 | 471 | Rebecca Bailey |
-| 260 | 471 | Gray Hicks |
+| 259 | 471 | Gray Hicks |
+| 260 | 471 | Rebecca Bailey |
 | 261 | 470 | Marci Mize Fandrich |
 | 262 | 470 | Rebecca Funderburk Kirby |
 | 263 | 464 | Danielle Weikel |
@@ -298,16 +298,16 @@
 | 290 | 425 | Jennifer Alvey |
 | 291 | 421 | Snazzy Filler |
 | 292 | 421 | Chummy Caster |
-| 293 | 420 | Sabrina Hardrick |
-| 294 | 420 | Sarah Moyer |
+| 293 | 420 | Sarah Moyer |
+| 294 | 420 | Sabrina Hardrick |
 | 295 | 417 | Giddy Twistbuilder |
 | 296 | 414 | RickyG |
 | 297 | 412 | Jojo M |
 | 298 | 411 | Megan Rathmanner |
 | 299 | 410 | Brian Battjes |
 | 300 | 410 | Duane Bright |
-| 301 | 408 | Ashley Muncey |
-| 302 | 408 | Tiffany Ford |
+| 301 | 408 | Tiffany Ford |
+| 302 | 408 | Ashley Muncey |
 | 303 | 406 | Kristal C Lee |
 | 304 | 405 | Desiree Gold |
 | 305 | 405 | Steffi Chris Dacones |
@@ -325,13 +325,13 @@
 | 317 | 387 | Christian Werndl |
 | 318 | 387 | Gideon Walker |
 | 319 | 386 | Darlene McMillan |
-| 320 | 386 | Philip Rock |
-| 321 | 386 | Hyper Matchzone |
+| 320 | 386 | Hyper Matchzone |
+| 321 | 386 | Philip Rock |
 | 322 | 385 | Samantha Lynn |
 | 323 | 384 | Noyb Adam |
 | 324 | 382 | Amanda J. Mcneil-Anderson |
-| 325 | 379 | Kelly |
-| 326 | 379 | Kaitie Oliver |
+| 325 | 379 | Kaitie Oliver |
+| 326 | 379 | Kelly |
 | 327 | 378 | MsBee |
 | 328 | 378 | Chris Bell |
 | 329 | 377 | Hoppy Patternline |
@@ -370,8 +370,8 @@
 | 362 | 351 | Blocked |
 | 363 | 351 | Eon Harris |
 | 364 | 349 | Num1hater |
-| 365 | 348 | Kelly Wolf |
-| 366 | 348 | Ashley Raines |
+| 365 | 348 | Ashley Raines |
+| 366 | 348 | Kelly Wolf |
 | 367 | 346 | AlsoJess |
 | 368 | 345 | gremicx |
 | 369 | 345 | victory |
@@ -395,8 +395,8 @@
 | 387 | 330 | angieelyn |
 | 388 | 330 | Big T |
 | 389 | 328 | Krystal Gerstberger |
-| 390 | 328 | Desiree Soto |
-| 391 | 328 | Cesar Mendez |
+| 390 | 328 | Cesar Mendez |
+| 391 | 328 | Desiree Soto |
 | 392 | 327 | Tiffanie Alley |
 | 393 | 326 | Kerry Nowickshere |
 | 394 | 326 | Norma JulieMay |
@@ -506,8 +506,8 @@
 | 498 | 268 | Julia Nicole |
 | 499 | 268 | Sarah Mayson |
 | 500 | 268 | Sdot |
-| 501 | 267 | Fredd Thomas |
-| 502 | 267 | Omega |
+| 501 | 267 | Omega |
+| 502 | 267 | Fredd Thomas |
 | 503 | 267 | April Matthew Kibble |
 | 504 | 266 | Quirky Dropzone |
 | 505 | 266 | Reina Roth |

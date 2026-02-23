@@ -151,8 +151,8 @@
 | 143 | 520 | Zippy Block |
 | 144 | 518 | Carly Alexis |
 | 145 | 516 | Trish |
-| 146 | 514 | Lucas J Sutton |
-| 147 | 514 | Scott Jameson |
+| 146 | 514 | Scott Jameson |
+| 147 | 514 | Lucas J Sutton |
 | 148 | 513 | Erin Thomas |
 | 149 | 512 | ThaEviLJeNiuZ |
 | 150 | 512 | Casey Jeffcoat |
@@ -203,8 +203,8 @@
 | 195 | 418 | Marie-Pier Desjardins |
 | 196 | 418 | Lush Linkfall |
 | 197 | 415 | Berklie Apedaile |
-| 198 | 413 | John Brunetti |
-| 199 | 413 | Circuit8 |
+| 198 | 413 | Circuit8 |
+| 199 | 413 | John Brunetti |
 | 200 | 411 | Autumn Kumzi |
 | 201 | 410 | Oscar Alberto Perez |
 | 202 | 408 | April Rondinone |
@@ -267,8 +267,8 @@
 | 259 | 330 | Kathy Brookins |
 | 260 | 329 | Brickh4us |
 | 261 | 324 | jim |
-| 262 | 324 | Lauren Lamb |
-| 263 | 324 | Nubian1 |
+| 262 | 324 | Nubian1 |
+| 263 | 324 | Lauren Lamb |
 | 264 | 324 | TinyLegoRose |
 | 265 | 322 | Manny1 |
 | 266 | 321 | Meagan Nicole |
@@ -286,8 +286,8 @@
 | 278 | 306 | PeaceOs |
 | 279 | 306 | Lora |
 | 280 | 306 | mike |
-| 281 | 304 | Shiny Fit |
-| 282 | 304 | Joanna |
+| 281 | 304 | Joanna |
+| 282 | 304 | Shiny Fit |
 | 283 | 301 | Erin Sabol |
 | 284 | 300 | Dana Scott |
 | 285 | 297 | Kenna Gunderland |
@@ -300,8 +300,8 @@
 | 292 | 291 | Hyper Builder |
 | 293 | 291 | Dizzy Matchzone |
 | 294 | 290 | Jared Gutwein |
-| 295 | 290 | Heather Bruce |
-| 296 | 290 | Neirrah B Olailjeel |
+| 295 | 290 | Neirrah B Olailjeel |
+| 296 | 290 | Heather Bruce |
 | 297 | 289 | Juls |
 | 298 | 288 | Brittney Orengo |
 | 299 | 287 | Kim Klutz Olson |
@@ -357,8 +357,8 @@
 | 349 | 253 | Cool Buildout |
 | 350 | 253 | Chair |
 | 351 | 252 | Maureen Flanigan |
-| 352 | 252 | Dan Wold |
-| 353 | 252 | Gracie Ann Taylor |
+| 352 | 252 | Gracie Ann Taylor |
+| 353 | 252 | Dan Wold |
 | 354 | 251 | Kathy Allen |
 | 355 | 251 | Carol Ricks Raymond |
 | 356 | 250 | Stephme310 |
@@ -375,14 +375,14 @@
 | 367 | 242 | PurpleMoonMa |
 | 368 | 242 | Chaz |
 | 369 | 240 | Tyler Bechtel |
-| 370 | 240 | Perky Patternblock |
-| 371 | 240 | Zany Shatterer |
+| 370 | 240 | Zany Shatterer |
+| 371 | 240 | Perky Patternblock |
 | 372 | 239 | Laura Hosford |
 | 373 | 239 | Kevin Bush |
-| 374 | 239 | Jackie Clark |
-| 375 | 239 | Denise B |
-| 376 | 238 | 中山成巳 |
-| 377 | 238 | Jackie Marie |
+| 374 | 239 | Denise B |
+| 375 | 239 | Jackie Clark |
+| 376 | 238 | Jackie Marie |
+| 377 | 238 | 中山成巳 |
 | 378 | 237 | Jewell Urban |
 | 379 | 236 | The Murphy |
 | 380 | 235 | Shainne Brewer |
@@ -522,8 +522,8 @@
 | 514 | 175 | tipsy tiger |
 | 515 | 175 | Lorena Guerrero-Barron |
 | 516 | 175 | Veronica Garza |
-| 517 | 173 | Joshua Cuellar |
-| 518 | 173 | Tanner Lund |
+| 517 | 173 | Tanner Lund |
+| 518 | 173 | Joshua Cuellar |
 | 519 | 172 | Undeniable Williams |
 | 520 | 172 | Janis Brown |
 | 521 | 172 | Linda Alexander Downing |

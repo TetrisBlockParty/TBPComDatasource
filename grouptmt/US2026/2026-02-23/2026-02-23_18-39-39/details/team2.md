@@ -201,8 +201,8 @@
 | 193 | 1567 | Juliana Marques Do Nascimento Gordy |
 | 194 | 1565 | Nancy Reid |
 | 195 | 1562 | Tony Lea |
-| 196 | 1558 | Tim Dyer |
-| 197 | 1558 | Crystal Slaughter |
+| 196 | 1558 | Crystal Slaughter |
+| 197 | 1558 | Tim Dyer |
 | 198 | 1552 | Cheeky Balancepiece |
 | 199 | 1534 | Rosa Franklin |
 | 200 | 1511 | Melissa Penelope Ann Dodge |
@@ -712,8 +712,8 @@
 | 704 | 587 | Kelli Wells |
 | 705 | 586 | Tra Barnum |
 | 706 | 585 | Taylor Flowers |
-| 707 | 585 | Laquetta Royston |
-| 708 | 585 | Shelva Richard |
+| 707 | 585 | Shelva Richard |
+| 708 | 585 | Laquetta Royston |
 | 709 | 582 | Joseph Musick |
 | 710 | 582 | Kat Mfm Kaul |
 | 711 | 581 | AsnPryBoy83 |
@@ -813,9 +813,9 @@
 | 805 | 522 | Snippy Rumbler |
 | 806 | 522 | Leah |
 | 807 | 522 | Kathleen Driskell |
-| 808 | 521 | Juanita Lyons |
+| 808 | 521 | Jason Kelly |
 | 809 | 521 | Shea Edison |
-| 810 | 521 | Jason Kelly |
+| 810 | 521 | Juanita Lyons |
 | 811 | 520 | Antonio Mckoy Sr. |
 | 812 | 519 | Rob Brown |
 | 813 | 519 | Saucy Fitzone |
@@ -824,12 +824,12 @@
 | 816 | 518 | Jamie Willis |
 | 817 | 518 | Kenan Catovic |
 | 818 | 518 | Ashley Collins |
-| 819 | 518 | Cosmo |
-| 820 | 518 | Lewis Sturgeon |
-| 821 | 516 | Diamond Scott |
-| 822 | 516 | Patti Rone |
-| 823 | 515 | Gina Bahn |
-| 824 | 515 | Erin Reid |
+| 819 | 518 | Lewis Sturgeon |
+| 820 | 518 | Cosmo |
+| 821 | 516 | Patti Rone |
+| 822 | 516 | Diamond Scott |
+| 823 | 515 | Erin Reid |
+| 824 | 515 | Gina Bahn |
 | 825 | 515 | Klee |
 | 826 | 514 | Melanie Csikortos |
 | 827 | 513 | MrsCandyfine As Wine Truss |
@@ -856,8 +856,8 @@
 | 848 | 505 | Casey Schumacher |
 | 849 | 504 | Erica Dale |
 | 850 | 502 | Enha |
-| 851 | 501 | Zesty Pivot |
-| 852 | 501 | Jessica Galick |
+| 851 | 501 | Jessica Galick |
+| 852 | 501 | Zesty Pivot |
 | 853 | 500 | Amy Reynolds |
 | 854 | 499 | Besma Ao |
 | 855 | 499 | Danielle DeLozier Plesec |
@@ -876,15 +876,15 @@
 | 868 | 494 | Cat Thompson |
 | 869 | 494 | Mike73 |
 | 870 | 493 | Sue Leard |
-| 871 | 493 | Abby Klaski |
-| 872 | 493 | Nate |
-| 873 | 493 | Skyler Morgan |
+| 871 | 493 | Skyler Morgan |
+| 872 | 493 | Abby Klaski |
+| 873 | 493 | Nate |
 | 874 | 492 | Jamie Carter Bierce |
 | 875 | 492 | Bdubb |
 | 876 | 492 | Frisky Patternline |
 | 877 | 491 | Erika Deer Kauffman |
 | 878 | 491 | Lucy Marshall |
-| 879 | 491 | Erika Deer Kauffman |
+| 879 | 491 | Chelsea Gutierrez |
 | 880 | 490 | Sierra Edwards Lachmanek |
 | 881 | 490 | Mary Boss |
 | 882 | 489 | Jannan Haimour |
