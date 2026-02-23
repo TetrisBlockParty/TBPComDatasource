@@ -257,8 +257,8 @@
 | 249 | 1337 | Carrie Trigg |
 | 250 | 1336 | Kristin Ruest |
 | 251 | 1333 | Peppy Zone |
-| 252 | 1330 | Ann Knutson Anderson |
-| 253 | 1330 | Cassie Mercer |
+| 252 | 1330 | Cassie Mercer |
+| 253 | 1330 | Ann Knutson Anderson |
 | 254 | 1327 | Isabela Shaw |
 | 255 | 1325 | Teddi Notyalc |
 | 256 | 1324 | Tralonda Weeks |
@@ -440,8 +440,8 @@
 | 432 | 903 | Eric Castaneda |
 | 433 | 903 | Sarah DeHart |
 | 434 | 902 | Brenda Utphall |
-| 435 | 899 | Patrick Bartlett |
-| 436 | 899 | Chevy |
+| 435 | 899 | Chevy |
+| 436 | 899 | Patrick Bartlett |
 | 437 | 898 | Dylan Thomason |
 | 438 | 897 | Jamie Schmitt |
 | 439 | 896 | Dannette Goldberg-Richards |
@@ -711,8 +711,8 @@
 | 703 | 617 | Biggest thing |
 | 704 | 617 | Jason H Baker |
 | 705 | 617 | Kacee Conrad Bock |
-| 706 | 616 | Polly Pritchard Chesler |
-| 707 | 616 | Jennifer Coe |
+| 706 | 616 | Jennifer Coe |
+| 707 | 616 | Polly Pritchard Chesler |
 | 708 | 615 | Julio A Laracuente |
 | 709 | 615 | Tash Bell |
 | 710 | 613 | Harrison Littrell |
@@ -725,9 +725,9 @@
 | 717 | 603 | Dizzy Zone |
 | 718 | 603 | Michael Artis |
 | 719 | 603 | Frank Castle |
-| 720 | 602 | Jedi |
+| 720 | 602 | Giggly Snap |
 | 721 | 602 | AsnPryBoy83 |
-| 722 | 602 | Giggly Snap |
+| 722 | 602 | Jedi |
 | 723 | 601 | Jessica Lamb |
 | 724 | 601 | Daniel Amos |
 | 725 | 599 | Yoan Boulanger |

@@ -60,8 +60,8 @@
 | 52 | 1155 | Jae Job |
 | 53 | 1150 | Kimyatta Cavin |
 | 54 | 1105 | Ashley Ingram |
-| 55 | 1082 | Avy Absol |
-| 56 | 1082 | Dion Crommarty |
+| 55 | 1082 | Dion Crommarty |
+| 56 | 1082 | Avy Absol |
 | 57 | 1065 | Dustee Craddock-Harrison |
 | 58 | 1049 | Heather Tushner |
 | 59 | 1046 | Johnathan Martinez |
@@ -140,8 +140,8 @@
 | 132 | 584 | Carlton Unfiltered |
 | 133 | 575 | Jenna Ingersoll |
 | 134 | 574 | Carmethia Clemons Haslerig |
-| 135 | 573 | Cursed Hag |
-| 136 | 573 | shar |
+| 135 | 573 | shar |
+| 136 | 573 | Cursed Hag |
 | 137 | 561 | YoMomma |
 | 138 | 560 | Chastity Mitchell |
 | 139 | 551 | Ren Mc |
@@ -196,8 +196,8 @@
 | 188 | 449 | Rebecca Morris |
 | 189 | 448 | Kesha Brady |
 | 190 | 444 | Mylo Lipscomb |
-| 191 | 444 | J-Rizzle |
-| 192 | 444 | Berklie Apedaile |
+| 191 | 444 | Berklie Apedaile |
+| 192 | 444 | J-Rizzle |
 | 193 | 443 | Kristina Black |
 | 194 | 442 | SAP |
 | 195 | 441 | George Nutt |
@@ -568,8 +568,8 @@
 | 560 | 170 | Peppy Drop |
 | 561 | 170 | Joshua W. Benton |
 | 562 | 170 | Elie Pean |
-| 563 | 169 | Dante Korleon |
-| 564 | 169 | Joseph Pace |
+| 563 | 169 | Joseph Pace |
+| 564 | 169 | Dante Korleon |
 | 565 | 168 | LunaMoon |
 | 566 | 168 | Melissa VanBourgondien |
 | 567 | 167 | Carla Harris |

@@ -150,8 +150,8 @@
 | 142 | 837 | mzcatzy |
 | 143 | 834 | opf |
 | 144 | 820 | Brenda Lee Vander Molen |
-| 145 | 818 | Dolores Falco |
-| 146 | 818 | Tasha Schriewer |
+| 145 | 818 | Tasha Schriewer |
+| 146 | 818 | Dolores Falco |
 | 147 | 812 | Speedy Bridger |
 | 148 | 812 | Katrina Schroeder |
 | 149 | 810 | Keith J Oshman Jr. |
@@ -229,8 +229,8 @@
 | 221 | 568 | Rachael McClain Owens |
 | 222 | 567 | FuzzyNavel |
 | 223 | 566 | LaTanya GeminiondaRise Johnson |
-| 224 | 564 | Christine Trester |
-| 225 | 564 | Poppy Splitter |
+| 224 | 564 | Poppy Splitter |
+| 225 | 564 | Christine Trester |
 | 226 | 563 | Fallorina Susana |
 | 227 | 562 | Dave Herzog |
 | 228 | 561 | Silly Twist |
@@ -241,8 +241,8 @@
 | 233 | 546 | Cynthia Castros-Hampton |
 | 234 | 544 | Angella Lyons |
 | 235 | 542 | Gideon Walker |
-| 236 | 541 | Fran Lin |
-| 237 | 541 | Gray Hicks |
+| 236 | 541 | Gray Hicks |
+| 237 | 541 | Fran Lin |
 | 238 | 541 | Sherry Ogden |
 | 239 | 540 | Danielle Allison |
 | 240 | 539 | Micayah Stevens |
@@ -391,8 +391,8 @@
 | 383 | 349 | Donna |
 | 384 | 348 | Ashley Raines |
 | 385 | 346 | AlsoJess |
-| 386 | 345 | victory |
-| 387 | 345 | Misha Sanders |
+| 386 | 345 | Misha Sanders |
+| 387 | 345 | victory |
 | 388 | 344 | Beaudie Stroebel |
 | 389 | 343 | Ava Petito |
 | 390 | 342 | Christina Marie Swisher |
@@ -485,8 +485,8 @@
 | 477 | 295 | Dakota Graham |
 | 478 | 294 | toony |
 | 479 | 292 | Arden White Kirsch |
-| 480 | 292 | Khaleada McGill Banks |
-| 481 | 292 | Michael Kimbro |
+| 480 | 292 | Michael Kimbro |
+| 481 | 292 | Khaleada McGill Banks |
 | 482 | 292 | Skinny Baldez |
 | 483 | 291 | Niki Dalrymple |
 | 484 | 290 | Justin Parker |
