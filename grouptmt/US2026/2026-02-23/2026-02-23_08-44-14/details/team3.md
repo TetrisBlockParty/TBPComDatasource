@@ -114,8 +114,8 @@
 | 106 | 869 | Araceli Parra |
 | 107 | 868 | Sarajane Lokan |
 | 108 | 860 | Sunny Rotater |
-| 109 | 851 | Jd Morris |
-| 110 | 851 | Danielle Becker |
+| 109 | 851 | Danielle Becker |
+| 110 | 851 | Jd Morris |
 | 111 | 850 | Danielle Mogg |
 | 112 | 848 | Patricia Gadsden |
 | 113 | 831 | Angeline Joseph |
@@ -201,8 +201,8 @@
 | 193 | 528 | Silly Twist |
 | 194 | 525 | Stephanie Blkpep Davidson |
 | 195 | 524 | Bmo |
-| 196 | 519 | Terry Jo Jones |
-| 197 | 519 | rnr junky |
+| 196 | 519 | rnr junky |
+| 197 | 519 | Terry Jo Jones |
 | 198 | 515 | Cozy Snaplink |
 | 199 | 508 | Makelini Mausia |
 | 200 | 503 | Tye Stovall |
@@ -223,8 +223,8 @@
 | 215 | 471 | Mendoza Lee Christy |
 | 216 | 467 | Sherry Ogden |
 | 217 | 465 | Annie Déè |
-| 218 | 464 | Danielle Weikel |
-| 219 | 464 | Shunta Jacobs |
+| 218 | 464 | Shunta Jacobs |
+| 219 | 464 | Danielle Weikel |
 | 220 | 461 | Tom Nault |
 | 221 | 460 | Trisha Balmer |
 | 222 | 458 | Danielle Rhoades |
@@ -367,8 +367,8 @@
 | 359 | 280 | ROODBOY |
 | 360 | 280 | Aerian Preston |
 | 361 | 280 | Dirtgirl27 |
-| 362 | 279 | Naur |
-| 363 | 279 | Tosha Griffey |
+| 362 | 279 | Tosha Griffey |
+| 363 | 279 | Naur |
 | 364 | 278 | Rufus Lincoln |
 | 365 | 277 | France Vézina |
 | 366 | 277 | Krystal Gerstberger |
@@ -393,8 +393,8 @@
 | 385 | 269 | Jess Bissett |
 | 386 | 269 | Juliana Dottore |
 | 387 | 268 | Jessica Lynn French |
-| 388 | 267 | Jul |
-| 389 | 267 | April Matthew Kibble |
+| 388 | 267 | April Matthew Kibble |
+| 389 | 267 | Jul |
 | 390 | 267 | Michael Kimbro |
 | 391 | 266 | Sarah Muradyan |
 | 392 | 266 | Quirky Dropzone |
@@ -472,8 +472,8 @@
 | 464 | 230 | BigE |
 | 465 | 229 | MizzMonick Smith |
 | 466 | 229 | Everret Maxine |
-| 467 | 228 | Tipsy Zonebuilder |
-| 468 | 228 | Dapper Liney |
+| 467 | 228 | Dapper Liney |
+| 468 | 228 | Tipsy Zonebuilder |
 | 469 | 227 | Meowsa |
 | 470 | 226 | paranoid |
 | 471 | 226 | Ryan Williams |
@@ -495,11 +495,11 @@
 | 487 | 219 | TLM |
 | 488 | 219 | Trice Thomas |
 | 489 | 218 | Sabrina Mansfield |
-| 490 | 218 | Dapper Chiseler |
-| 491 | 218 | Tina Smith Roy |
+| 490 | 218 | Tina Smith Roy |
+| 491 | 218 | Dapper Chiseler |
 | 492 | 217 | Tia Moore |
-| 493 | 217 | Heather Bateman |
-| 494 | 217 | Katie Leigh Blankenship |
+| 493 | 217 | Katie Leigh Blankenship |
+| 494 | 217 | Heather Bateman |
 | 495 | 216 | Amanda Declue |
 | 496 | 214 | Crystal Hine |
 | 497 | 214 | Jumpy Curvebuilder |

@@ -311,11 +311,11 @@
 | 303 | 976 | Sam Joe |
 | 304 | 976 | Della Hole |
 | 305 | 975 | Hyper Cluster |
-| 306 | 972 | Binyah-Binyah |
-| 307 | 972 | Barbra Miller |
+| 306 | 972 | Barbra Miller |
+| 307 | 972 | Binyah-Binyah |
 | 308 | 971 | Jojo Momma |
-| 309 | 969 | Em Chen |
-| 310 | 969 | Boldy Cascadepiece |
+| 309 | 969 | Boldy Cascadepiece |
+| 310 | 969 | Em Chen |
 | 311 | 961 | Angela Lynn |
 | 312 | 959 | Phil J. Grombliniak |
 | 313 | 958 | Doowop40 |
@@ -345,8 +345,8 @@
 | 337 | 904 | Bee |
 | 338 | 903 | Giggy Blocker |
 | 339 | 901 | Kevin Sees |
-| 340 | 899 | Patrick Bartlett |
-| 341 | 899 | Chevy |
+| 340 | 899 | Chevy |
+| 341 | 899 | Patrick Bartlett |
 | 342 | 898 | Jamie Otero |
 | 343 | 895 | Donna Colby |
 | 344 | 894 | Adira Brown |
@@ -800,8 +800,8 @@
 | 792 | 452 | Ashley Taylor |
 | 793 | 452 | Cleo Sims |
 | 794 | 452 | Tipsy Filler |
-| 795 | 451 | Stefanie Zonzini-Gagliardi |
-| 796 | 451 | Giggly Snap |
+| 795 | 451 | Giggly Snap |
+| 796 | 451 | Stefanie Zonzini-Gagliardi |
 | 797 | 451 | Sharon Mills |
 | 798 | 451 | Angela Yantz |
 | 799 | 450 | sup |
@@ -841,8 +841,8 @@
 | 833 | 435 | Taylor Flowers |
 | 834 | 435 | Snappy snappers |
 | 835 | 435 | John |
-| 836 | 433 | Jessica Hughes |
-| 837 | 433 | Melissa Koria |
+| 836 | 433 | Melissa Koria |
+| 837 | 433 | Jessica Hughes |
 | 838 | 433 | Marisa Madge |
 | 839 | 432 | Michelle Shrum |
 | 840 | 431 | Lewis Sturgeon |
@@ -930,8 +930,8 @@
 | 922 | 398 | Kendall Fullerton |
 | 923 | 398 | Witty Piecebuilder |
 | 924 | 398 | Juan Killyoselfifudontlikeme Ronaldo |
-| 925 | 397 | Dawn Woosley Bowes |
-| 926 | 397 | Maxwell Escalera |
+| 925 | 397 | Maxwell Escalera |
+| 926 | 397 | Dawn Woosley Bowes |
 | 927 | 397 | Jessica Conaway |
 | 928 | 396 | Debbie Gerlib-Molinari Leigh |
 | 929 | 396 | Cassie Newton |
@@ -941,8 +941,8 @@
 | 933 | 394 | Snappy Shatterfit |
 | 934 | 394 | Nerdy Blockpiece |
 | 935 | 393 | Jamie West |
-| 936 | 393 | Bing |
-| 937 | 393 | CC |
+| 936 | 393 | CC |
+| 937 | 393 | Bing |
 | 938 | 392 | Jroc |
 | 939 | 391 | Poppy Gridder |
 | 940 | 391 | Chilly Bridgepiece |
@@ -959,8 +959,8 @@
 | 951 | 387 | Bryan Werleman |
 | 952 | 386 | Yasmin Guzman |
 | 953 | 385 | Jay Levy |
-| 954 | 385 | Cheery Puzzler |
-| 955 | 385 | Kirsten Marie Lomupo |
+| 954 | 385 | Kirsten Marie Lomupo |
+| 955 | 385 | Cheery Puzzler |
 | 956 | 385 | stacey |
 | 957 | 385 | Samuel Labruno |
 | 958 | 385 | Iris Angelica Perez Cantos |
@@ -982,8 +982,8 @@
 | 974 | 380 | Zesty Pivot |
 | 975 | 380 | Lily |
 | 976 | 380 | Monica Wilson |
-| 977 | 378 | Ubu |
-| 978 | 378 | Elizabeth Leinen |
+| 977 | 378 | Elizabeth Leinen |
+| 978 | 378 | Ubu |
 | 979 | 378 | Kelly Walters |
 | 980 | 377 | NickyBrooks |
 | 981 | 377 | Muhammad |
@@ -1168,9 +1168,9 @@
 | 1160 | 323 | Nikki Arlene |
 | 1161 | 323 | Brec2024 |
 | 1162 | 322 | Cozy Drop |
-| 1163 | 322 | Jenna Nance |
+| 1163 | 322 | Jeffrey Barrows |
 | 1164 | 322 | Anita Ortiz |
-| 1165 | 322 | Jeffrey Barrows |
+| 1165 | 322 | Jenna Nance |
 | 1166 | 322 | Sunshine711 |
 | 1167 | 321 | Claire |
 | 1168 | 321 | Swanky Snap |

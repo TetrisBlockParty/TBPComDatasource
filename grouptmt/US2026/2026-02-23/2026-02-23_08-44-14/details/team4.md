@@ -62,8 +62,8 @@
 | 54 | 864 | Shelly Chandler |
 | 55 | 863 | Pee |
 | 56 | 859 | TeeJ |
-| 57 | 846 | Lucille Truesdale |
-| 58 | 846 | Christine Marie |
+| 57 | 846 | Christine Marie |
+| 58 | 846 | Lucille Truesdale |
 | 59 | 845 | LisaJo Picken Buchanan |
 | 60 | 834 | quicksand420 |
 | 61 | 807 | Rachel Anne |
@@ -75,8 +75,8 @@
 | 67 | 785 | Ashley Ingram |
 | 68 | 767 | Shannon Ferrari |
 | 69 | 766 | Robin Watters |
-| 70 | 765 | Denise Carlson |
-| 71 | 765 | Robin Getchel |
+| 70 | 765 | Robin Getchel |
+| 71 | 765 | Denise Carlson |
 | 72 | 752 | Shane Kalamata Platoon |
 | 73 | 749 | Dustee Craddock-Harrison |
 | 74 | 747 | TheNeesh50 |
@@ -153,8 +153,8 @@
 | 145 | 422 | Zakia Monae |
 | 146 | 421 | JIGsaw ~(•¿°)~ |
 | 147 | 421 | Kesha Brady |
-| 148 | 418 | Lush Linkfall |
-| 149 | 418 | Marie-Pier Desjardins |
+| 148 | 418 | Marie-Pier Desjardins |
+| 149 | 418 | Lush Linkfall |
 | 150 | 416 | Chaz Duncan |
 | 151 | 414 | Swanky Fitline |
 | 152 | 414 | Nope Young |
@@ -244,10 +244,10 @@
 | 236 | 281 | Laura |
 | 237 | 280 | Rio Rocha |
 | 238 | 279 | Malakai Darien Fox |
-| 239 | 278 | Angela Geist Jusinski |
-| 240 | 278 | Sarah Brown |
-| 241 | 276 | Joeliecea Cobb |
-| 242 | 276 | Matt Dell'Olio |
+| 239 | 278 | Sarah Brown |
+| 240 | 278 | Angela Geist Jusinski |
+| 241 | 276 | Matt Dell'Olio |
+| 242 | 276 | Joeliecea Cobb |
 | 243 | 275 | Kimberlee Jan Beckstead |
 | 244 | 273 | Cynthia Boudreau |
 | 245 | 273 | Cranky Rollpiece |
@@ -327,8 +327,8 @@
 | 319 | 216 | mike |
 | 320 | 216 | Chantilly Laace |
 | 321 | 215 | Stephme310 |
-| 322 | 214 | Stacey Stano |
-| 323 | 214 | Patron Anderson |
+| 322 | 214 | Patron Anderson |
+| 323 | 214 | Stacey Stano |
 | 324 | 213 | Jackie Marie |
 | 325 | 212 | Zany Shatterer |
 | 326 | 212 | Brave Spinbuilder |
@@ -374,8 +374,8 @@
 | 366 | 188 | Sharyn Lemire |
 | 367 | 187 | Cozy Balancer |
 | 368 | 187 | Jenny Wells-Oakley |
-| 369 | 186 | Shanon Klair |
-| 370 | 186 | Dandy Cascadefit |
+| 369 | 186 | Dandy Cascadefit |
+| 370 | 186 | Shanon Klair |
 | 371 | 186 | Eri Kka |
 | 372 | 185 | Moonsterix |
 | 373 | 185 | Morti |
@@ -405,8 +405,8 @@
 | 397 | 178 | Daring Pivot |
 | 398 | 177 | Chao Ma |
 | 399 | 177 | Lora |
-| 400 | 176 | B Renee Desjardin |
-| 401 | 176 | Cindy Looper |
+| 400 | 176 | Cindy Looper |
+| 401 | 176 | B Renee Desjardin |
 | 402 | 176 | Brickh4us |
 | 403 | 175 | Lorena Guerrero-Barron |
 | 404 | 175 | Neirrah B Olailjeel |
