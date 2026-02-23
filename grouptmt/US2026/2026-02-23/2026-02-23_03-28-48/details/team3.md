@@ -173,8 +173,8 @@
 | 165 | 562 | Dave Herzog |
 | 166 | 557 | Michael Nowogorski |
 | 167 | 553 | LaTanya GeminiondaRise Johnson |
-| 168 | 546 | Cynthia Castros-Hampton |
-| 169 | 546 | Mykal Burton |
+| 168 | 546 | Mykal Burton |
+| 169 | 546 | Cynthia Castros-Hampton |
 | 170 | 540 | Elissa S-k |
 | 171 | 540 | Shawn Miller |
 | 172 | 535 | Jone |
@@ -226,8 +226,8 @@
 | 218 | 417 | Edwin Calvillo Jr. |
 | 219 | 415 | ren |
 | 220 | 414 | Fran Lin |
-| 221 | 410 | Stephanie Simpson |
-| 222 | 410 | Mcathen |
+| 221 | 410 | Mcathen |
+| 222 | 410 | Stephanie Simpson |
 | 223 | 410 | Duane Bright |
 | 224 | 408 | Tiffany Ford |
 | 225 | 406 | Heather Green |
@@ -278,8 +278,8 @@
 | 270 | 346 | Tamara Deherrera |
 | 271 | 345 | MsBee |
 | 272 | 344 | Roary Danner |
-| 273 | 343 | Ashley Raines |
-| 274 | 343 | Ashley Rufus Bythcez |
+| 273 | 343 | Ashley Rufus Bythcez |
+| 274 | 343 | Ashley Raines |
 | 275 | 341 | Ashley Tookes |
 | 276 | 339 | Cynthia Herrmann Egland |
 | 277 | 338 | Gumbo |
@@ -320,8 +320,8 @@
 | 312 | 294 | fraulila |
 | 313 | 291 | Geoffrey Nash |
 | 314 | 289 | DidIdothat |
-| 315 | 287 | Carol Cain Thurman |
-| 316 | 287 | Sabrina Hardrick |
+| 315 | 287 | Sabrina Hardrick |
+| 316 | 287 | Carol Cain Thurman |
 | 317 | 287 | Hoppy Patternline |
 | 318 | 286 | Micayah Stevens |
 | 319 | 286 | Lizabeth Fox |
@@ -416,8 +416,8 @@
 | 408 | 235 | Kevin Russell |
 | 409 | 234 | TotoCherue |
 | 410 | 234 | Cheeky Twisterfit |
-| 411 | 233 | Criss |
-| 412 | 233 | Saucy Buildout |
+| 411 | 233 | Saucy Buildout |
+| 412 | 233 | Criss |
 | 413 | 233 | Tony Waters |
 | 414 | 232 | Dana Fox |
 | 415 | 232 | Melanie Sherwood |
@@ -625,7 +625,7 @@
 | 617 | 162 | Stephanie Whitefield |
 | 618 | 162 | gravelgrinder |
 | 619 | 162 | Elisha L Allman |
-| 620 | 162 | gravelgrinder |
+| 620 | 162 | Whitney Manuel |
 | 621 | 162 | Cathy Leger |
 | 622 | 161 | Paul Larsen |
 | 623 | 161 | bean |
@@ -668,8 +668,8 @@
 | 660 | 152 | Louise Parker |
 | 661 | 152 | Christine Vosburgh |
 | 662 | 151 | Lisa Bard |
-| 663 | 150 | Sapphire87 |
-| 664 | 150 | Kiya Lynn |
+| 663 | 150 | Kiya Lynn |
+| 664 | 150 | Sapphire87 |
 | 665 | 150 | Leticia Lynn Lowe |
 | 666 | 149 | Timothy Townes |
 | 667 | 149 | Alexis Taylor |
@@ -787,7 +787,7 @@
 | 779 | 127 | Jodee Brown |
 | 780 | 127 | Kristina Marie |
 | 781 | 126 | Lush Balance |
-| 782 | 126 | Crystal Martin |
+| 782 | 126 | demon14 |
 | 783 | 126 | Mainhia Thao |
 | 784 | 126 | Crystal Martin |
 | 785 | 125 | Jess Meyers |

@@ -57,8 +57,8 @@
 | 49 | 863 | Pee |
 | 50 | 855 | Marvin Lou Martin |
 | 51 | 853 | TeeJ |
-| 52 | 846 | Lucille Truesdale |
-| 53 | 846 | Christine Marie |
+| 52 | 846 | Christine Marie |
+| 53 | 846 | Lucille Truesdale |
 | 54 | 845 | LisaJo Picken Buchanan |
 | 55 | 843 | Shelly Chandler |
 | 56 | 841 | Anthony Bryan Riva |
@@ -229,18 +229,18 @@
 | 221 | 276 | Joeliecea Cobb |
 | 222 | 276 | Matt Dell'Olio |
 | 223 | 273 | Casey Grabner |
-| 224 | 272 | Alan George LaRage |
-| 225 | 272 | Dennis Bradley |
+| 224 | 272 | Dennis Bradley |
+| 225 | 272 | Alan George LaRage |
 | 226 | 271 | Holly |
 | 227 | 270 | Jen Caldwell |
 | 228 | 270 | Juls |
 | 229 | 266 | Mr. Party |
 | 230 | 265 | Sarah Neathery |
-| 231 | 264 | Carlos Ramirez |
-| 232 | 264 | Stella |
+| 231 | 264 | Stella |
+| 232 | 264 | Carlos Ramirez |
 | 233 | 263 | JPW |
-| 234 | 262 | BigSammy420 |
-| 235 | 262 | Selena Shaw |
+| 234 | 262 | Selena Shaw |
+| 235 | 262 | BigSammy420 |
 | 236 | 260 | Carter Jones |
 | 237 | 259 | Allen Lloyd |
 | 238 | 259 | Cheery Risebuilder |
@@ -359,8 +359,8 @@
 | 351 | 180 | Carlos Hernandez |
 | 352 | 180 | Bradley Reeves |
 | 353 | 179 | AyeKay |
-| 354 | 178 | Zippy Tilt |
-| 355 | 178 | Daring Pivot |
+| 354 | 178 | Daring Pivot |
+| 355 | 178 | Zippy Tilt |
 | 356 | 177 | Ernest Maxwell |
 | 357 | 176 | Cindy Looper |
 | 358 | 175 | Lorena Guerrero-Barron |
