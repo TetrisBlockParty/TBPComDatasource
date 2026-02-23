@@ -114,8 +114,8 @@
 | 106 | 493 | Jennifer ManWarren |
 | 107 | 492 | Ash Galvan |
 | 108 | 491 | cc |
-| 109 | 489 | Deanna L Hermanson |
-| 110 | 489 | April Carroll |
+| 109 | 489 | April Carroll |
+| 110 | 489 | Deanna L Hermanson |
 | 111 | 483 | Tdub |
 | 112 | 483 | Trina Gee |
 | 113 | 480 | Ty Brown |

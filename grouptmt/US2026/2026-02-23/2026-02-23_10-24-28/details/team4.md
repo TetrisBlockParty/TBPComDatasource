@@ -62,10 +62,10 @@
 | 54 | 870 | BertMofo |
 | 55 | 864 | Shelly Chandler |
 | 56 | 863 | Pee |
-| 57 | 859 | TeeJ |
-| 58 | 859 | Christina LR |
-| 59 | 846 | Christine Marie |
-| 60 | 846 | Lucille Truesdale |
+| 57 | 859 | Christina LR |
+| 58 | 859 | TeeJ |
+| 59 | 846 | Lucille Truesdale |
+| 60 | 846 | Christine Marie |
 | 61 | 845 | LisaJo Picken Buchanan |
 | 62 | 834 | quicksand420 |
 | 63 | 807 | Rachel Anne |
@@ -76,8 +76,8 @@
 | 68 | 787 | loulou |
 | 69 | 767 | Shannon Ferrari |
 | 70 | 766 | Robin Watters |
-| 71 | 765 | Denise Carlson |
-| 72 | 765 | Robin Getchel |
+| 71 | 765 | Robin Getchel |
+| 72 | 765 | Denise Carlson |
 | 73 | 753 | TheNeesh50 |
 | 74 | 752 | Shane Kalamata Platoon |
 | 75 | 749 | Dustee Craddock-Harrison |
@@ -89,8 +89,8 @@
 | 81 | 703 | Savannah Overdorf |
 | 82 | 697 | Alyssa Papen |
 | 83 | 694 | Diana Houts |
-| 84 | 684 | Kimyatta Cavin |
-| 85 | 684 | Jonathan Kimbrough |
+| 84 | 684 | Jonathan Kimbrough |
+| 85 | 684 | Kimyatta Cavin |
 | 86 | 678 | Trista Leah |
 | 87 | 673 | Jacqueline Helm |
 | 88 | 670 | Destiney Carter |
@@ -125,8 +125,8 @@
 | 117 | 527 | Dizzy Tiley |
 | 118 | 519 | Nugget |
 | 119 | 517 | shar |
-| 120 | 514 | Scott Jameson |
-| 121 | 514 | Serena Goodridge |
+| 120 | 514 | Serena Goodridge |
+| 121 | 514 | Scott Jameson |
 | 122 | 513 | Erin Thomas |
 | 123 | 512 | Cristy Duerksen |
 | 124 | 512 | Casey Jeffcoat |
@@ -157,8 +157,8 @@
 | 149 | 418 | Lush Linkfall |
 | 150 | 417 | Steph Marie |
 | 151 | 416 | Chaz Duncan |
-| 152 | 414 | Nope Young |
-| 153 | 414 | Swanky Fitline |
+| 152 | 414 | Swanky Fitline |
+| 153 | 414 | Nope Young |
 | 154 | 413 | Circuit8 |
 | 155 | 412 | Jessica Bohlken |
 | 156 | 408 | Amanda Pauldo-Ivy |
@@ -286,8 +286,8 @@
 | 278 | 253 | Autum Leigh |
 | 279 | 251 | Carol Ricks Raymond |
 | 280 | 249 | Ak Jones |
-| 281 | 248 | Angelito |
-| 282 | 248 | Chirpy Basepiece |
+| 281 | 248 | Chirpy Basepiece |
+| 282 | 248 | Angelito |
 | 283 | 248 | Jose Dejesus |
 | 284 | 245 | 23 |
 | 285 | 244 | Elizabeth Tinoco |

@@ -132,8 +132,8 @@
 | 124 | 764 | Hasty Cascadefit |
 | 125 | 764 | Groovy Catcher |
 | 126 | 762 | Speedy Bridger |
-| 127 | 755 | Raya |
-| 128 | 755 | Katrina Schroeder |
+| 127 | 755 | Katrina Schroeder |
+| 128 | 755 | Raya |
 | 129 | 752 | Logan Naccarato |
 | 130 | 748 | Adrian Marcel Pate |
 | 131 | 745 | JerseyJess |
@@ -218,8 +218,8 @@
 | 210 | 485 | Dapper Snap |
 | 211 | 484 | Fallorina Susana |
 | 212 | 481 | Connie Mohler-Fair |
-| 213 | 480 | Danielle Allison |
-| 214 | 480 | Michael Johnson |
+| 213 | 480 | Michael Johnson |
+| 214 | 480 | Danielle Allison |
 | 215 | 477 | Edwin Calvillo Jr. |
 | 216 | 475 | Tessina Dewey-Mancino |
 | 217 | 471 | Mendoza Lee Christy |
@@ -286,8 +286,8 @@
 | 278 | 369 | Philip Rock |
 | 279 | 369 | Amber Glover |
 | 280 | 369 | Keis |
-| 281 | 368 | Stephanie Woods |
-| 282 | 368 | Sheila M Frazier |
+| 281 | 368 | Sheila M Frazier |
+| 282 | 368 | Stephanie Woods |
 | 283 | 366 | Gumbo |
 | 284 | 362 | Brandon Givens |
 | 285 | 360 | Cesar Barraza |
@@ -341,8 +341,8 @@
 | 333 | 311 | Troy |
 | 334 | 309 | Desiree Gold |
 | 335 | 309 | Cheeky Snapper |
-| 336 | 308 | Tia |
-| 337 | 308 | Katrina Turner |
+| 336 | 308 | Katrina Turner |
+| 337 | 308 | Tia |
 | 338 | 305 | Hyper Matchzone |
 | 339 | 304 | _melisa223_ |
 | 340 | 303 | Alexmac |
@@ -515,8 +515,8 @@
 | 507 | 214 | Jumpy Curvebuilder |
 | 508 | 214 | Amy Fuller Heaton |
 | 509 | 213 | Flashy Rumbler |
-| 510 | 213 | Jack Bo |
-| 511 | 213 | Linda Draper |
+| 510 | 213 | Linda Draper |
+| 511 | 213 | Jack Bo |
 | 512 | 213 | Ktfreeee |
 | 513 | 212 | Beth Ingham |
 | 514 | 212 | Frilly Stackzone |
@@ -640,9 +640,9 @@
 | 632 | 177 | Spencer Nikki |
 | 633 | 176 | Jackie-Lynne Goertzen |
 | 634 | 176 | Bekah Dietrich |
-| 635 | 175 | Giggy Balanceblock |
-| 636 | 175 | Muk |
-| 637 | 175 | Spunky Racker |
+| 635 | 175 | Muk |
+| 636 | 175 | Spunky Racker |
+| 637 | 175 | Giggy Balanceblock |
 | 638 | 175 | taylove |
 | 639 | 175 | Cranky Slam |
 | 640 | 175 | JustGiGi |
@@ -802,9 +802,9 @@
 | 794 | 142 | Myriam Lapierre |
 | 795 | 142 | Michelle Allers |
 | 796 | 142 | get et |
-| 797 | 141 | Carri |
+| 797 | 141 | Andy Jacobson |
 | 798 | 141 | Amber Evans |
-| 799 | 141 | Andy Jacobson |
+| 799 | 141 | Carri |
 | 800 | 141 | Plucky Bridger |
 | 801 | 141 | Glitzy Slide |
 | 802 | 140 | Lush Risebuilder |
