@@ -522,8 +522,8 @@
 | 514 | 260 | Alice |
 | 515 | 260 | Tracey Cox |
 | 516 | 259 | Shania Vaine |
-| 517 | 258 | Jolly Brick |
-| 518 | 258 | Paul Daniel Quertermous |
+| 517 | 258 | Paul Daniel Quertermous |
+| 518 | 258 | Jolly Brick |
 | 519 | 258 | Jl |
 | 520 | 257 | Saucy Buildout |
 | 521 | 257 | Jana Polk |

@@ -161,8 +161,8 @@
 | 153 | 502 | Ellen Durfee |
 | 154 | 501 | Kim Hunt |
 | 155 | 499 | Ericca Eldridge |
-| 156 | 498 | Nope Young |
-| 157 | 498 | Melissa Adams |
+| 156 | 498 | Melissa Adams |
+| 157 | 498 | Nope Young |
 | 158 | 496 | Jessica Lynn Cutlip |
 | 159 | 496 | Angela Srubar-Norman |
 | 160 | 486 | Swanky Fitline |
@@ -331,12 +331,12 @@
 | 323 | 268 | Chance Strickland |
 | 324 | 268 | Shukee Lo |
 | 325 | 267 | Metsfan |
-| 326 | 266 | Deb Rubeck |
-| 327 | 266 | Chummy Towerzone |
+| 326 | 266 | Chummy Towerzone |
+| 327 | 266 | Deb Rubeck |
 | 328 | 266 | Tracey Lehmann |
 | 329 | 266 | Happy Combo |
-| 330 | 265 | Christine Therrien |
-| 331 | 265 | Sarah Neathery |
+| 330 | 265 | Sarah Neathery |
+| 331 | 265 | Christine Therrien |
 | 332 | 265 | Degenerate |
 | 333 | 264 | ZeeZee |
 | 334 | 264 | AyeKay |
@@ -357,8 +357,8 @@
 | 349 | 253 | Autum Leigh |
 | 350 | 253 | Chair |
 | 351 | 252 | Maureen Flanigan |
-| 352 | 252 | Gracie Ann Taylor |
-| 353 | 252 | Dan Wold |
+| 352 | 252 | Dan Wold |
+| 353 | 252 | Gracie Ann Taylor |
 | 354 | 251 | Kathy Allen |
 | 355 | 251 | Carol Ricks Raymond |
 | 356 | 250 | Stephme310 |
@@ -372,8 +372,8 @@
 | 364 | 244 | Elizabeth Tinoco |
 | 365 | 244 | Perky Piecegrid |
 | 366 | 243 | Val Erie |
-| 367 | 242 | Chaz |
-| 368 | 242 | PurpleMoonMa |
+| 367 | 242 | PurpleMoonMa |
+| 368 | 242 | Chaz |
 | 369 | 240 | Tyler Bechtel |
 | 370 | 240 | Zany Shatterer |
 | 371 | 240 | Perky Patternblock |
@@ -400,11 +400,11 @@
 | 392 | 225 | Jennifer Renee |
 | 393 | 224 | Ultramarine |
 | 394 | 223 | Brave Spinbuilder |
-| 395 | 222 | Paito |
-| 396 | 222 | Alan Zukowski |
-| 397 | 222 | Brandi Durig |
-| 398 | 222 | Rhys Morgan |
-| 399 | 222 | Badatvs |
+| 395 | 222 | Alan Zukowski |
+| 396 | 222 | Paito |
+| 397 | 222 | Badatvs |
+| 398 | 222 | Brandi Durig |
+| 399 | 222 | Rhys Morgan |
 | 400 | 221 | Rheanda Weaskus |
 | 401 | 221 | Jen Hallin |
 | 402 | 220 | Jessica Petersen |

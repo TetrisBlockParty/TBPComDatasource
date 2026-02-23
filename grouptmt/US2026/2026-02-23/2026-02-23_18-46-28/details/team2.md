@@ -235,8 +235,8 @@
 | 227 | 1383 | Ladyrainbootz |
 | 228 | 1381 | Stacy Stickle |
 | 229 | 1370 | Lemonaide |
-| 230 | 1351 | Denisha Dawkins |
-| 231 | 1351 | Marie Boyd Faulk |
+| 230 | 1351 | Marie Boyd Faulk |
+| 231 | 1351 | Denisha Dawkins |
 | 232 | 1344 | Rebecca Garland |
 | 233 | 1342 | Kelly A Green-Leach |
 | 234 | 1340 | LordZophar |
@@ -686,8 +686,8 @@
 | 678 | 605 | Mandi Marie Smith |
 | 679 | 605 | Jermaine Harris |
 | 680 | 604 | Rae Rae |
-| 681 | 603 | Dizzy Zone |
-| 682 | 603 | Michael Artis |
+| 681 | 603 | Michael Artis |
+| 682 | 603 | Dizzy Zone |
 | 683 | 602 | Jedi |
 | 684 | 601 | Daniel Amos |
 | 685 | 601 | Jessica Lamb |
@@ -707,8 +707,8 @@
 | 699 | 590 | Maddy Petersen |
 | 700 | 589 | Thomas Hedrick |
 | 701 | 589 | Kelly Templeton |
-| 702 | 588 | Mrs. New |
-| 703 | 588 | Kitybox |
+| 702 | 588 | Kitybox |
+| 703 | 588 | Mrs. New |
 | 704 | 587 | Kelli Wells |
 | 705 | 586 | Tra Barnum |
 | 706 | 585 | Taylor Flowers |
