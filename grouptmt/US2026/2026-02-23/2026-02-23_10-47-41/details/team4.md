@@ -76,8 +76,8 @@
 | 68 | 787 | Edward White |
 | 69 | 767 | Shannon Ferrari |
 | 70 | 766 | Robin Watters |
-| 71 | 765 | Robin Getchel |
-| 72 | 765 | Denise Carlson |
+| 71 | 765 | Denise Carlson |
+| 72 | 765 | Robin Getchel |
 | 73 | 753 | TheNeesh50 |
 | 74 | 752 | Shane Kalamata Platoon |
 | 75 | 749 | Dustee Craddock-Harrison |
@@ -129,8 +129,8 @@
 | 121 | 514 | Serena Goodridge |
 | 122 | 514 | Scott Jameson |
 | 123 | 513 | Erin Thomas |
-| 124 | 512 | Casey Jeffcoat |
-| 125 | 512 | Cristy Duerksen |
+| 124 | 512 | Cristy Duerksen |
+| 125 | 512 | Casey Jeffcoat |
 | 126 | 509 | Leslie Nicole |
 | 127 | 483 | Angela Srubar-Norman |
 | 128 | 481 | Jessica Lynn Cutlip |
@@ -227,8 +227,8 @@
 | 219 | 307 | Michele Plunkett |
 | 220 | 306 | mike |
 | 221 | 305 | Melvin Baird |
-| 222 | 304 | Lindsay Ball |
-| 223 | 304 | Gdiguy |
+| 222 | 304 | Gdiguy |
+| 223 | 304 | Lindsay Ball |
 | 224 | 301 | Andria Lynn |
 | 225 | 300 | Dana Scott |
 | 226 | 297 | Lori |
@@ -1296,7 +1296,7 @@
 | 1288 | 37 | Chill Tetrisline |
 | 1289 | 37 | Tipsy Zonepiece |
 | 1290 | 37 | Grant Everett Heaslip |
-| 1291 | 37 | Lazy Glide |
+| 1291 | 37 | Francis Fleurant |
 | 1292 | 37 | SloFut Mataryal BrownBwoy |
 | 1293 | 37 | Jennifer Harrison |
 | 1294 | 37 | Patrick Cossette |

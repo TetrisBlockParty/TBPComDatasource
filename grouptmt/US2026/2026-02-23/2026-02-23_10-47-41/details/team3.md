@@ -132,13 +132,13 @@
 | 124 | 764 | Groovy Catcher |
 | 125 | 764 | Hasty Cascadefit |
 | 126 | 762 | Speedy Bridger |
-| 127 | 755 | Raya |
-| 128 | 755 | Katrina Schroeder |
+| 127 | 755 | Katrina Schroeder |
+| 128 | 755 | Raya |
 | 129 | 752 | Logan Naccarato |
 | 130 | 748 | Adrian Marcel Pate |
 | 131 | 745 | JerseyJess |
-| 132 | 744 | Leah Barnett |
-| 133 | 744 | Fancy Cascader |
+| 132 | 744 | Fancy Cascader |
+| 133 | 744 | Leah Barnett |
 | 134 | 736 | mzcatzy |
 | 135 | 734 | Calista Jo Dickson |
 | 136 | 728 | Peppy Shifter |
@@ -187,8 +187,8 @@
 | 179 | 572 | CeceGeGe |
 | 180 | 568 | Rachael McClain Owens |
 | 181 | 566 | LaTanya GeminiondaRise Johnson |
-| 182 | 564 | Christine Trester |
-| 183 | 564 | Poppy Splitter |
+| 182 | 564 | Poppy Splitter |
+| 183 | 564 | Christine Trester |
 | 184 | 563 | Jim Mathews |
 | 185 | 562 | Dave Herzog |
 | 186 | 559 | Patti Skiles |
@@ -299,8 +299,8 @@
 | 291 | 354 | Kelly |
 | 292 | 354 | Eileen Brady Thurber |
 | 293 | 354 | Andrew Thorson |
-| 294 | 353 | Dee Franklin |
-| 295 | 353 | Cyd061769 |
+| 294 | 353 | Cyd061769 |
+| 295 | 353 | Dee Franklin |
 | 296 | 352 | Christian Werndl |
 | 297 | 351 | Blocked |
 | 298 | 351 | Eon Harris |
@@ -372,8 +372,8 @@
 | 364 | 289 | Salena Whitlock |
 | 365 | 289 | DidIdothat |
 | 366 | 288 | Stephanie Bradley |
-| 367 | 288 | Kristi Taylor |
-| 368 | 288 | Arden White Kirsch |
+| 367 | 288 | Arden White Kirsch |
+| 368 | 288 | Kristi Taylor |
 | 369 | 287 | Carol Cain Thurman |
 | 370 | 287 | Hoppy Patternline |
 | 371 | 285 | Heather De Vries Cobb |
@@ -408,8 +408,8 @@
 | 400 | 269 | Jess Bissett |
 | 401 | 268 | Jessica Lynn French |
 | 402 | 267 | Jul |
-| 403 | 267 | Michael Kimbro |
-| 404 | 267 | April Matthew Kibble |
+| 403 | 267 | April Matthew Kibble |
+| 404 | 267 | Michael Kimbro |
 | 405 | 266 | Quirky Dropzone |
 | 406 | 266 | Sarah Muradyan |
 | 407 | 265 | Heather Davis |
@@ -432,7 +432,7 @@
 | 424 | 255 | Erykah |
 | 425 | 254 | Blair Erin Waite |
 | 426 | 253 | crystal |
-| 427 | 253 | Block Baddie |
+| 427 | 253 | Bryan Byrd |
 | 428 | 253 | Daring Builder |
 | 429 | 253 | Hyper Bridger |
 | 430 | 253 | Block Baddie |
@@ -539,9 +539,9 @@
 | 531 | 207 | Nichol Graham |
 | 532 | 206 | Tammy Rosenberry |
 | 533 | 206 | Dakota Graham |
-| 534 | 205 | Bouncy Blockbuilder |
-| 535 | 205 | Jess Meyers |
-| 536 | 205 | Emberblaze |
+| 534 | 205 | Jess Meyers |
+| 535 | 205 | Emberblaze |
+| 536 | 205 | Bouncy Blockbuilder |
 | 537 | 205 | Rachel Napper |
 | 538 | 204 | Daisy Rocha |
 | 539 | 204 | Sassy Brickmatch |
@@ -567,7 +567,7 @@
 | 559 | 198 | Zac Hudak |
 | 560 | 197 | Jalissa Monique |
 | 561 | 197 | Fredd Thomas |
-| 562 | 197 | Jalissa Monique |
+| 562 | 197 | Johnny Berlin |
 | 563 | 197 | Giggy Glidepiece |
 | 564 | 197 | BabyTonj Evans |
 | 565 | 196 | Eboni Starr |
@@ -643,8 +643,8 @@
 | 635 | 177 | Chad |
 | 636 | 176 | Jackie-Lynne Goertzen |
 | 637 | 176 | Bekah Dietrich |
-| 638 | 175 | Spunky Racker |
-| 639 | 175 | Muk |
+| 638 | 175 | Muk |
+| 639 | 175 | Spunky Racker |
 | 640 | 175 | Giggy Balanceblock |
 | 641 | 175 | Cranky Slam |
 | 642 | 175 | JustGiGi |
@@ -731,8 +731,8 @@
 | 723 | 157 | Benny Tyrrell |
 | 724 | 157 | Kimberly Walker |
 | 725 | 156 | Mandy Poynter-Wallace |
-| 726 | 156 | Courtney Conboy |
-| 727 | 156 | Brittany K Ward |
+| 726 | 156 | Brittany K Ward |
+| 727 | 156 | Courtney Conboy |
 | 728 | 156 | LIL BIT |
 | 729 | 155 | Brave Brickster |
 | 730 | 155 | TEDDY |
