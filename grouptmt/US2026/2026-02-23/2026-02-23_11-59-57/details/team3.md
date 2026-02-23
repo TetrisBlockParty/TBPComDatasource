@@ -117,8 +117,8 @@
 | 109 | 869 | Araceli Parra |
 | 110 | 868 | Sarajane Lokan |
 | 111 | 860 | Sunny Rotater |
-| 112 | 851 | Danielle Becker |
-| 113 | 851 | Jd Morris |
+| 112 | 851 | Jd Morris |
+| 113 | 851 | Danielle Becker |
 | 114 | 850 | Danielle Mogg |
 | 115 | 848 | Patricia Gadsden |
 | 116 | 839 | Angeline Joseph |
@@ -134,14 +134,14 @@
 | 126 | 764 | Hasty Cascadefit |
 | 127 | 764 | Groovy Catcher |
 | 128 | 762 | Speedy Bridger |
-| 129 | 755 | Raya |
-| 130 | 755 | Katrina Schroeder |
+| 129 | 755 | Katrina Schroeder |
+| 130 | 755 | Raya |
 | 131 | 752 | Logan Naccarato |
 | 132 | 748 | Adrian Marcel Pate |
-| 133 | 745 | ren |
-| 134 | 745 | JerseyJess |
-| 135 | 744 | Fancy Cascader |
-| 136 | 744 | Leah Barnett |
+| 133 | 745 | JerseyJess |
+| 134 | 745 | ren |
+| 135 | 744 | Leah Barnett |
+| 136 | 744 | Fancy Cascader |
 | 137 | 736 | mzcatzy |
 | 138 | 734 | Calista Jo Dickson |
 | 139 | 728 | Peppy Shifter |
@@ -481,8 +481,8 @@
 | 473 | 233 | Criss |
 | 474 | 233 | Anna Moeller |
 | 475 | 232 | Sunny Tiltgrid |
-| 476 | 232 | Melanie Sherwood |
-| 477 | 232 | Stephanie Hill |
+| 476 | 232 | Stephanie Hill |
+| 477 | 232 | Melanie Sherwood |
 | 478 | 231 | Giggly Brickroll |
 | 479 | 230 | DanceLuvLaugh |
 | 480 | 230 | BigE |
@@ -496,8 +496,8 @@
 | 488 | 225 | Sassy Tiler |
 | 489 | 225 | sofaking |
 | 490 | 224 | Cranky Corner |
-| 491 | 224 | Christina Rotz Shows |
-| 492 | 224 | Sarah Morris |
+| 491 | 224 | Sarah Morris |
+| 492 | 224 | Christina Rotz Shows |
 | 493 | 222 | Angel Miller |
 | 494 | 221 | Spicy Cascadepiece |
 | 495 | 221 | BŘŰŤİÇŨŚ |

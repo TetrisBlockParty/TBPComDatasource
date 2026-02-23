@@ -44,8 +44,8 @@
 | 36 | 4280 | Robert Diddle |
 | 37 | 4199 | Claire Noland |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Corrine Hawks Soriano |
-| 40 | 4120 | Kristen Sceurman |
+| 39 | 4120 | Kristen Sceurman |
+| 40 | 4120 | Corrine Hawks Soriano |
 | 41 | 4086 | PandaMama |
 | 42 | 3947 | Melinda Brown |
 | 43 | 3845 | jayjay |
@@ -169,8 +169,8 @@
 | 161 | 1601 | Ray Ray Prado |
 | 162 | 1594 | Heather Westrum |
 | 163 | 1593 | Jose Mendoza |
-| 164 | 1588 | Scott Treadway |
-| 165 | 1588 | Mema |
+| 164 | 1588 | Mema |
+| 165 | 1588 | Scott Treadway |
 | 166 | 1581 | Brandy Andre |
 | 167 | 1580 | Sally Dennis |
 | 168 | 1574 | Stephen Stephen |
@@ -235,8 +235,8 @@
 | 227 | 1232 | Ambyre Patterson |
 | 228 | 1230 | Megan Garrick |
 | 229 | 1221 | Jane Fong |
-| 230 | 1217 | Lucky Ladybug |
-| 231 | 1217 | Brooks Brooks |
+| 230 | 1217 | Brooks Brooks |
+| 231 | 1217 | Lucky Ladybug |
 | 232 | 1216 | Pacynthia Williams |
 | 233 | 1214 | David Cudicio-Hayden |
 | 234 | 1211 | Ricardo Burton |
@@ -320,8 +320,8 @@
 | 312 | 979 | Hillary Crawford |
 | 313 | 979 | Melissa Penelope Ann Dodge |
 | 314 | 978 | April Dawn Gussler |
-| 315 | 976 | Della Hole |
-| 316 | 976 | Sam Joe |
+| 315 | 976 | Sam Joe |
+| 316 | 976 | Della Hole |
 | 317 | 975 | Hyper Cluster |
 | 318 | 974 | Boldy Cascadepiece |
 | 319 | 972 | Barbra Miller |
@@ -478,8 +478,8 @@
 | 470 | 726 | Joce Lynn |
 | 471 | 726 | Crystal Greene |
 | 472 | 725 | Vonceial Boone |
-| 473 | 725 | Karen Snyder Schrage |
-| 474 | 725 | Ashle Scranton |
+| 473 | 725 | Ashle Scranton |
+| 474 | 725 | Karen Snyder Schrage |
 | 475 | 724 | Melissa Holsinger |
 | 476 | 721 | Darla Silva |
 | 477 | 720 | Giggy Mover |
@@ -498,8 +498,8 @@
 | 490 | 700 | Vincent Petrella |
 | 491 | 700 | Beverly Owens |
 | 492 | 699 | Dannette Goldberg-Richards |
-| 493 | 697 | Gary Stash |
-| 494 | 697 | Isabelle Bonneau |
+| 493 | 697 | Isabelle Bonneau |
+| 494 | 697 | Gary Stash |
 | 495 | 697 | Poldo Ilano |
 | 496 | 693 | Ryan Stadel |
 | 497 | 692 | Shaun Church |
@@ -528,8 +528,8 @@
 | 520 | 675 | Katelynn Hollen |
 | 521 | 674 | Ashley Munn |
 | 522 | 673 | trabuco |
-| 523 | 670 | Christine Bollig |
-| 524 | 670 | Blacc Blac |
+| 523 | 670 | Blacc Blac |
+| 524 | 670 | Christine Bollig |
 | 525 | 668 | Gloria Ininahazwe |
 | 526 | 667 | Rhonda Milstead |
 | 527 | 666 | Aishah Brice |
@@ -906,12 +906,12 @@
 | 898 | 420 | Krys |
 | 899 | 420 | Lathasa Newkirk |
 | 900 | 420 | Boogie SoAnimated Johnson |
-| 901 | 419 | Josh Dill |
-| 902 | 419 | Erin Reid |
+| 901 | 419 | Erin Reid |
+| 902 | 419 | Josh Dill |
 | 903 | 418 | Bold Brickster |
 | 904 | 417 | Tristan Szolek |
-| 905 | 417 | Victoria Marie Bunch |
-| 906 | 417 | Mandy Kachenmeister |
+| 905 | 417 | Mandy Kachenmeister |
+| 906 | 417 | Victoria Marie Bunch |
 | 907 | 416 | Alicia Moreno |
 | 908 | 416 | Epic Fitzone |
 | 909 | 416 | Mike73 |
