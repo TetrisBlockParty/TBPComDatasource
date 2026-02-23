@@ -365,13 +365,13 @@
 | 357 | 207 | Ric Hard Hernandez |
 | 358 | 207 | Katie Martin |
 | 359 | 205 | build master |
-| 360 | 205 | Elizabeth Kubli |
-| 361 | 205 | Agustin Duarte Orozco |
+| 360 | 205 | Agustin Duarte Orozco |
+| 361 | 205 | Elizabeth Kubli |
 | 362 | 204 | LD1 |
 | 363 | 204 | Cranky Pattern |
 | 364 | 203 | Rebekah LeiAnn Bonsell |
-| 365 | 202 | Amber Dee |
-| 366 | 202 | Andrew Backes |
+| 365 | 202 | Andrew Backes |
+| 366 | 202 | Amber Dee |
 | 367 | 202 | Krie |
 | 368 | 201 | Tedashi |
 | 369 | 201 | Colleen Wise |

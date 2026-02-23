@@ -121,8 +121,8 @@
 | 113 | 839 | Angeline Joseph |
 | 114 | 830 | Stephanie Allmon |
 | 115 | 826 | Shane Wilson Jr. |
-| 116 | 816 | Jesse Olive |
-| 117 | 816 | Brenda Lee Vander Molen |
+| 116 | 816 | Brenda Lee Vander Molen |
+| 117 | 816 | Jesse Olive |
 | 118 | 802 | Bobbi Moore |
 | 119 | 800 | Lauren Girouard |
 | 120 | 799 | Dolores Falco |
@@ -131,8 +131,8 @@
 | 123 | 764 | Groovy Catcher |
 | 124 | 764 | Hasty Cascadefit |
 | 125 | 762 | Speedy Bridger |
-| 126 | 755 | Katrina Schroeder |
-| 127 | 755 | Raya |
+| 126 | 755 | Raya |
+| 127 | 755 | Katrina Schroeder |
 | 128 | 752 | Logan Naccarato |
 | 129 | 748 | Adrian Marcel Pate |
 | 130 | 745 | JerseyJess |
@@ -164,8 +164,8 @@
 | 156 | 646 | Bea Miles |
 | 157 | 634 | Amber Hughes |
 | 158 | 630 | yoyo |
-| 159 | 621 | Sashay Tapae Simpson |
-| 160 | 621 | Cherry Parker |
+| 159 | 621 | Cherry Parker |
+| 160 | 621 | Sashay Tapae Simpson |
 | 161 | 616 | Kammy Hill |
 | 162 | 611 | Rochelle Hazelett |
 | 163 | 607 | Grego Daniel |
@@ -296,11 +296,11 @@
 | 288 | 354 | Eileen Brady Thurber |
 | 289 | 354 | Andrew Thorson |
 | 290 | 353 | Cyd061769 |
-| 291 | 353 | Dee Franklin |
-| 292 | 353 | Ashley Tookes |
+| 291 | 353 | Ashley Tookes |
+| 292 | 353 | Dee Franklin |
 | 293 | 352 | Christian Werndl |
-| 294 | 351 | Eon Harris |
-| 295 | 351 | Blocked |
+| 294 | 351 | Blocked |
+| 295 | 351 | Eon Harris |
 | 296 | 350 | LaShey Thompson |
 | 297 | 349 | Amanda J. Mcneil-Anderson |
 | 298 | 348 | Ashley Raines |
@@ -378,8 +378,8 @@
 | 370 | 279 | Tosha Griffey |
 | 371 | 279 | Naur |
 | 372 | 278 | Rufus Lincoln |
-| 373 | 277 | France Vézina |
-| 374 | 277 | Krystal Gerstberger |
+| 373 | 277 | Krystal Gerstberger |
+| 374 | 277 | France Vézina |
 | 375 | 277 | Joe-Maggie Mathews |
 | 376 | 276 | Karent524 |
 | 377 | 276 | Crimson |
@@ -393,8 +393,8 @@
 | 385 | 273 | Brenda Schmid Wood |
 | 386 | 273 | Kevin Fountain |
 | 387 | 272 | Romeo |
-| 388 | 272 | Todd Hall |
-| 389 | 272 | Tay |
+| 388 | 272 | Tay |
+| 389 | 272 | Todd Hall |
 | 390 | 269 | Goofy Fall |
 | 391 | 269 | Samantha Worley |
 | 392 | 269 | Jess Bissett |
@@ -403,8 +403,8 @@
 | 395 | 267 | Jul |
 | 396 | 267 | April Matthew Kibble |
 | 397 | 267 | Michael Kimbro |
-| 398 | 266 | Quirky Dropzone |
-| 399 | 266 | Sarah Muradyan |
+| 398 | 266 | Sarah Muradyan |
+| 399 | 266 | Quirky Dropzone |
 | 400 | 265 | Heather Davis |
 | 401 | 265 | AlsoJess |
 | 402 | 264 | Reina Roth |
@@ -1319,7 +1319,7 @@
 | 1311 | 83 | Lizzy Taulbee |
 | 1312 | 83 | Dorothy Schetzel |
 | 1313 | 83 | Lush Balancepiece |
-| 1314 | 83 | Dorothy Schetzel |
+| 1314 | 83 | Draw |
 | 1315 | 82 | Citysprout |
 | 1316 | 82 | Janessa Nicholson |
 | 1317 | 82 | Ma Dolores Estrada A |

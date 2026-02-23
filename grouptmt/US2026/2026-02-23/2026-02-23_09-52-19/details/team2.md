@@ -128,8 +128,8 @@
 | 120 | 1937 | Adam Erikson |
 | 121 | 1932 | Gary Schaffner Jr. |
 | 122 | 1931 | Angi Harrison |
-| 123 | 1899 | Jumpy Gridpiece |
-| 124 | 1899 | Jamie Main |
+| 123 | 1899 | Jamie Main |
+| 124 | 1899 | Jumpy Gridpiece |
 | 125 | 1890 | Aimee Byrom |
 | 126 | 1887 | Tonya Brooks-Johnson |
 | 127 | 1872 | Karen Martini-Stapleton |
@@ -318,8 +318,8 @@
 | 310 | 969 | Em Chen |
 | 311 | 961 | Angela Lynn |
 | 312 | 959 | Phil J. Grombliniak |
-| 313 | 958 | Brenda Messer |
-| 314 | 958 | Doowop40 |
+| 313 | 958 | Doowop40 |
+| 314 | 958 | Brenda Messer |
 | 315 | 957 | Block Master |
 | 316 | 955 | Angela Bonquiqui Dinish |
 | 317 | 954 | Melissa McCall |
@@ -566,11 +566,11 @@
 | 558 | 615 | Nerdy Pattern |
 | 559 | 615 | Julio A Laracuente |
 | 560 | 615 | Lyndi Robinson Wakefield |
-| 561 | 614 | Emilee Burke |
-| 562 | 614 | Jessica S Flecha |
+| 561 | 614 | Jessica S Flecha |
+| 562 | 614 | Emilee Burke |
 | 563 | 613 | Audrey Jones |
-| 564 | 612 | Slinky Racker |
-| 565 | 612 | Briana Alexander |
+| 564 | 612 | Briana Alexander |
+| 565 | 612 | Slinky Racker |
 | 566 | 610 | Michael Buckner |
 | 567 | 609 | Cecilia A Jenkins |
 | 568 | 609 | Autumn Schaeffer |
@@ -818,8 +818,8 @@
 | 810 | 452 | Bing |
 | 811 | 452 | Tipsy Filler |
 | 812 | 451 | Sharon Mills |
-| 813 | 451 | Giggly Snap |
-| 814 | 451 | Stefanie Zonzini-Gagliardi |
+| 813 | 451 | Stefanie Zonzini-Gagliardi |
+| 814 | 451 | Giggly Snap |
 | 815 | 450 | sup |
 | 816 | 449 | Jas |
 | 817 | 449 | Heather Sawtelle-Mckenzie |
@@ -991,8 +991,8 @@
 | 983 | 382 | Tum |
 | 984 | 382 | Cathleena Giusto |
 | 985 | 381 | Happy Caster |
-| 986 | 381 | Maria Hammett |
-| 987 | 381 | Cheyenne Donovan |
+| 986 | 381 | Cheyenne Donovan |
+| 987 | 381 | Maria Hammett |
 | 988 | 380 | Monica Wilson |
 | 989 | 380 | Lily |
 | 990 | 380 | Ashlyn Berner |
@@ -1019,8 +1019,8 @@
 | 1011 | 373 | David Standry |
 | 1012 | 372 | Sarah Dean |
 | 1013 | 372 | calcap |
-| 1014 | 372 | Adrian Benitez |
-| 1015 | 372 | Caryn McDaniel Broomby |
+| 1014 | 372 | Caryn McDaniel Broomby |
+| 1015 | 372 | Adrian Benitez |
 | 1016 | 372 | Trisha Miller |
 | 1017 | 371 | August Hale |
 | 1018 | 370 | Brianna Cerney |
