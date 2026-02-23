@@ -212,8 +212,8 @@
 | 204 | 1286 | Altamirano Michael |
 | 205 | 1282 | Tanya Parsons |
 | 206 | 1259 | Foxxo |
-| 207 | 1258 | Joyce Johnson Vaughn |
-| 208 | 1258 | Snappy Matchbuilder |
+| 207 | 1258 | Snappy Matchbuilder |
+| 208 | 1258 | Joyce Johnson Vaughn |
 | 209 | 1252 | Angel |
 | 210 | 1245 | Cody Nishimura |
 | 211 | 1240 | Brandon Armstrong |
@@ -222,8 +222,8 @@
 | 214 | 1232 | Ambyre Patterson |
 | 215 | 1230 | Megan Garrick |
 | 216 | 1221 | Jane Fong |
-| 217 | 1217 | Brooks Brooks |
-| 218 | 1217 | Lucky Ladybug |
+| 217 | 1217 | Lucky Ladybug |
+| 218 | 1217 | Brooks Brooks |
 | 219 | 1214 | David Cudicio-Hayden |
 | 220 | 1213 | Pacynthia Williams |
 | 221 | 1211 | Ricardo Burton |
@@ -279,10 +279,10 @@
 | 271 | 1047 | Dany Murillo |
 | 272 | 1045 | Bri Lynn |
 | 273 | 1045 | Lourisha |
-| 274 | 1043 | nikki |
-| 275 | 1043 | Brave Dropmatch |
-| 276 | 1036 | Amber Shoemaker |
-| 277 | 1036 | Allison Lockyer |
+| 274 | 1043 | Brave Dropmatch |
+| 275 | 1043 | nikki |
+| 276 | 1036 | Allison Lockyer |
+| 277 | 1036 | Amber Shoemaker |
 | 278 | 1026 | Kristin Gower |
 | 279 | 1024 | Susan Perraut Jones |
 | 280 | 1024 | Taylor Phillips |
@@ -313,8 +313,8 @@
 | 305 | 969 | Boldy Cascadepiece |
 | 306 | 965 | F-X |
 | 307 | 961 | Angela Lynn |
-| 308 | 958 | Brenda Messer |
-| 309 | 958 | Doowop40 |
+| 308 | 958 | Doowop40 |
+| 309 | 958 | Brenda Messer |
 | 310 | 957 | Block Master |
 | 311 | 956 | Phil J. Grombliniak |
 | 312 | 955 | Angela Bonquiqui Dinish |
@@ -333,8 +333,8 @@
 | 325 | 915 | Kelly Trent |
 | 326 | 914 | Shuany Arias |
 | 327 | 907 | Gene Mills |
-| 328 | 904 | John Bednarik |
-| 329 | 904 | Jennifer Aiken |
+| 328 | 904 | Jennifer Aiken |
+| 329 | 904 | John Bednarik |
 | 330 | 904 | Bee |
 | 331 | 903 | Giggy Blocker |
 | 332 | 902 | William Hunt |
@@ -402,8 +402,8 @@
 | 394 | 787 | Tiara Elizabeth Baker |
 | 395 | 783 | John Rodriguez |
 | 396 | 779 | Kayla |
-| 397 | 777 | Tesha Oldaker |
-| 398 | 777 | Jessicah Myers |
+| 397 | 777 | Jessicah Myers |
+| 398 | 777 | Tesha Oldaker |
 | 399 | 776 | Fancy Twister |
 | 400 | 776 | Mighty Spinbuilder |
 | 401 | 775 | Crystie Hicks |
@@ -575,12 +575,12 @@
 | 567 | 592 | Sheronda Jackson |
 | 568 | 590 | Maddy Petersen |
 | 569 | 589 | Thomas Hedrick |
-| 570 | 589 | Kelly Templeton |
-| 571 | 589 | Shavonna Haynes |
+| 570 | 589 | Shavonna Haynes |
+| 571 | 589 | Kelly Templeton |
 | 572 | 588 | Kitybox |
 | 573 | 587 | Ben Barkley |
-| 574 | 585 | Jessica Lamb |
-| 575 | 585 | Sarah Berger |
+| 574 | 585 | Sarah Berger |
+| 575 | 585 | Jessica Lamb |
 | 576 | 584 | Daniell Martinez |
 | 577 | 583 | AISlop |
 | 578 | 582 | Ebony Deloach Bryant |
@@ -602,9 +602,9 @@
 | 594 | 571 | Emily Lyric Converse |
 | 595 | 569 | Sparkles |
 | 596 | 568 | Slip |
-| 597 | 566 | Isabelle Bonneau |
-| 598 | 566 | Tina Marie |
-| 599 | 566 | SwampRebel |
+| 597 | 566 | SwampRebel |
+| 598 | 566 | Isabelle Bonneau |
+| 599 | 566 | Tina Marie |
 | 600 | 565 | Wuntayk |
 | 601 | 564 | Stacey Tranchida |
 | 602 | 563 | Frisky Clearpiece |
@@ -753,8 +753,8 @@
 | 745 | 470 | Amanda Chamberlain |
 | 746 | 470 | ToShi |
 | 747 | 469 | Jenn Marie |
-| 748 | 469 | Abimbola Bimbo |
-| 749 | 469 | Christy Long |
+| 748 | 469 | Christy Long |
+| 749 | 469 | Abimbola Bimbo |
 | 750 | 468 | Niceday |
 | 751 | 468 | Brenda Annabel Smith |
 | 752 | 467 | Jason H Baker |

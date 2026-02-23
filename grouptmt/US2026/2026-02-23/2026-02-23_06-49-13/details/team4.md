@@ -26,8 +26,8 @@
 | 18 | 1636 | Cassie Michaux |
 | 19 | 1565 | GreenJeepGirl |
 | 20 | 1558 | Leah Gorsuch |
-| 21 | 1536 | Roger Coulter |
-| 22 | 1536 | Misty Hollibaugh |
+| 21 | 1536 | Misty Hollibaugh |
+| 22 | 1536 | Roger Coulter |
 | 23 | 1485 | Juggalo |
 | 24 | 1390 | Sammy Noguera |
 | 25 | 1382 | Tammi Crnza |
@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Kimyatta Cavin |
-| 84 | 684 | Jonathan Kimbrough |
+| 83 | 684 | Jonathan Kimbrough |
+| 84 | 684 | Kimyatta Cavin |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | Shauna Havard |
-| 93 | 647 | KM8 |
+| 92 | 647 | KM8 |
+| 93 | 647 | Shauna Havard |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -140,8 +140,8 @@
 | 132 | 451 | Peachy Fall |
 | 133 | 448 | Kristin Manee |
 | 134 | 447 | Ericca Eldridge |
-| 135 | 435 | Kristina Black |
-| 136 | 435 | Leslie Thomas |
+| 135 | 435 | Leslie Thomas |
+| 136 | 435 | Kristina Black |
 | 137 | 434 | Monica Daley |
 | 138 | 432 | Zippy Block |
 | 139 | 431 | Courtney Cicoria |
@@ -176,8 +176,8 @@
 | 168 | 368 | Brandon Crabbs |
 | 169 | 368 | Chris Bernstein |
 | 170 | 365 | Jeff Brian Gates |
-| 171 | 361 | Danielle Kollias |
-| 172 | 361 | Melissa Adams |
+| 171 | 361 | Melissa Adams |
+| 172 | 361 | Danielle Kollias |
 | 173 | 359 | Keith Kelley |
 | 174 | 358 | A5! |
 | 175 | 356 | George Nutt |
@@ -186,8 +186,8 @@
 | 178 | 349 | Rafael Valentin |
 | 179 | 349 | Twisty Cascadezone |
 | 180 | 348 | April Rondinone |
-| 181 | 347 | Daria Rycewicz |
-| 182 | 347 | Crystal Nicolette Moore |
+| 181 | 347 | Crystal Nicolette Moore |
+| 182 | 347 | Daria Rycewicz |
 | 183 | 339 | David Lay |
 | 184 | 336 | Bio Nelly |
 | 185 | 335 | James Hurley Jr. |
@@ -217,8 +217,8 @@
 | 209 | 300 | Zakia Monae |
 | 210 | 300 | Dana Scott |
 | 211 | 295 | Keshia Lyons |
-| 212 | 294 | Porkobello |
-| 213 | 294 | Calvin Cannon |
+| 212 | 294 | Calvin Cannon |
+| 213 | 294 | Porkobello |
 | 214 | 292 | Epic Curvetile |
 | 215 | 291 | Nikki Rae Gordon |
 | 216 | 290 | Jared Gutwein |
@@ -287,9 +287,9 @@
 | 279 | 238 | 中山成巳 |
 | 280 | 237 | Christine Therrien |
 | 281 | 236 | Degenerate |
-| 282 | 235 | Shainne Brewer |
-| 283 | 235 | LaDonna LovinmesomeMe Lambert |
-| 284 | 235 | Chair |
+| 282 | 235 | LaDonna LovinmesomeMe Lambert |
+| 283 | 235 | Chair |
+| 284 | 235 | Shainne Brewer |
 | 285 | 234 | Richard-April Kice |
 | 286 | 233 | Ruben Wheeler |
 | 287 | 230 | Angelito |
@@ -392,11 +392,11 @@
 | 384 | 178 | Zippy Tilt |
 | 385 | 178 | Daring Pivot |
 | 386 | 177 | Lora |
-| 387 | 176 | B Renee Desjardin |
-| 388 | 176 | Cindy Looper |
+| 387 | 176 | Cindy Looper |
+| 388 | 176 | B Renee Desjardin |
 | 389 | 176 | Brickh4us |
-| 390 | 175 | Neirrah B Olailjeel |
-| 391 | 175 | Jim Hart |
+| 390 | 175 | Jim Hart |
+| 391 | 175 | Neirrah B Olailjeel |
 | 392 | 175 | Lorena Guerrero-Barron |
 | 393 | 174 | Mona Sharma |
 | 394 | 174 | Helen Chao |

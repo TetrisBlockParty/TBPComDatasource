@@ -97,8 +97,8 @@
 | 89 | 575 | Nancy Green |
 | 90 | 570 | Cody Slav |
 | 91 | 562 | Denice Dee |
-| 92 | 534 | Veronica Eve |
-| 93 | 534 | Loony Fitzone |
+| 92 | 534 | Loony Fitzone |
+| 93 | 534 | Veronica Eve |
 | 94 | 529 | Ryan Lunnin |
 | 95 | 522 | Sarah Lombardo |
 | 96 | 511 | Mario Cab |
@@ -106,8 +106,8 @@
 | 98 | 510 | Chirpy Smasher |
 | 99 | 509 | Rachael |
 | 100 | 497 | Arianna O'Brien |
-| 101 | 493 | Jennifer ManWarren |
-| 102 | 493 | MomMom |
+| 101 | 493 | MomMom |
+| 102 | 493 | Jennifer ManWarren |
 | 103 | 492 | Ash Galvan |
 | 104 | 491 | cc |
 | 105 | 489 | Deanna L Hermanson |
@@ -175,8 +175,8 @@
 | 167 | 357 | David Lutcher |
 | 168 | 355 | Amanda Jarnagin |
 | 169 | 355 | Mike Ames |
-| 170 | 353 | Josh Riemer |
-| 171 | 353 | Jaimie Lynn |
+| 170 | 353 | Jaimie Lynn |
+| 171 | 353 | Josh Riemer |
 | 172 | 350 | Tipsy Strikerpiece |
 | 173 | 349 | Oscar Zamora |
 | 174 | 349 | Cool Shiftsnap |
@@ -188,13 +188,13 @@
 | 180 | 341 | Nick R Montague |
 | 181 | 339 | Nicole Roseberry Weber |
 | 182 | 338 | Jennifer Hardman |
-| 183 | 337 | Jamise Brown |
-| 184 | 337 | Constance Risner |
+| 183 | 337 | Constance Risner |
+| 184 | 337 | Jamise Brown |
 | 185 | 336 | Dizzy Party |
 | 186 | 333 | Virginia Gray Floyd |
 | 187 | 333 | Gracie |
-| 188 | 332 | Lehrin Maria |
-| 189 | 332 | Happy Basegrid |
+| 188 | 332 | Happy Basegrid |
+| 189 | 332 | Lehrin Maria |
 | 190 | 329 | Witty Builderfit |
 | 191 | 328 | Snappy Matcher |
 | 192 | 325 | GringaLinga |
@@ -213,8 +213,8 @@
 | 205 | 310 | Bloknboy |
 | 206 | 307 | femmefatale |
 | 207 | 306 | Angela Renea Lester |
-| 208 | 301 | Cody Gates |
-| 209 | 301 | Damon J. Martin |
+| 208 | 301 | Damon J. Martin |
+| 209 | 301 | Cody Gates |
 | 210 | 300 | Sleepysloath5745 |
 | 211 | 298 | Billie Ann Eason |
 | 212 | 294 | Bindi |
@@ -276,8 +276,8 @@
 | 268 | 242 | Colleen Pinette |
 | 269 | 242 | Tyler Hertzog |
 | 270 | 239 | Adele Rahman |
-| 271 | 238 | Michael |
-| 272 | 238 | Tiffany Smith |
+| 271 | 238 | Tiffany Smith |
+| 272 | 238 | Michael |
 | 273 | 236 | LC |
 | 274 | 235 | Angela Fairbank |
 | 275 | 235 | Ariel Whittington |
@@ -332,9 +332,9 @@
 | 324 | 215 | Christina Norman |
 | 325 | 215 | Alenoush Karimian |
 | 326 | 214 | Kayla Marie Stevenson |
-| 327 | 213 | Poppy Riserpiece |
-| 328 | 213 | Itspaigebro |
-| 329 | 213 | John Barron |
+| 327 | 213 | John Barron |
+| 328 | 213 | Poppy Riserpiece |
+| 329 | 213 | Itspaigebro |
 | 330 | 212 | Michelle Beres |
 | 331 | 210 | Timothy Danaher |
 | 332 | 210 | Chris Dawson |

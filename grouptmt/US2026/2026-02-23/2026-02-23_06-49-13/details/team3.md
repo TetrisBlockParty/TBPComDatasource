@@ -120,8 +120,8 @@
 | 112 | 831 | Angeline Joseph |
 | 113 | 830 | Stephanie Allmon |
 | 114 | 826 | Shane Wilson Jr. |
-| 115 | 816 | Jesse Olive |
-| 116 | 816 | Brenda Lee Vander Molen |
+| 115 | 816 | Brenda Lee Vander Molen |
+| 116 | 816 | Jesse Olive |
 | 117 | 802 | Bobbi Moore |
 | 118 | 800 | Lauren Girouard |
 | 119 | 799 | Dolores Falco |
@@ -160,8 +160,8 @@
 | 152 | 631 | Daira Largen |
 | 153 | 630 | yoyo |
 | 154 | 629 | Patricia White |
-| 155 | 621 | Sashay Tapae Simpson |
-| 156 | 621 | Cherry Parker |
+| 155 | 621 | Cherry Parker |
+| 156 | 621 | Sashay Tapae Simpson |
 | 157 | 616 | Kammy Hill |
 | 158 | 611 | Rochelle Hazelett |
 | 159 | 607 | Grego Daniel |
@@ -173,8 +173,8 @@
 | 165 | 591 | Michael Nowogorski |
 | 166 | 588 | Justin Ritter |
 | 167 | 587 | Louise Stacy Sisson |
-| 168 | 585 | Happy Tetriblast |
-| 169 | 585 | Annie Marie |
+| 168 | 585 | Annie Marie |
+| 169 | 585 | Happy Tetriblast |
 | 170 | 583 | Tasha Gillespie |
 | 171 | 582 | Natasha Jones |
 | 172 | 577 | Domo Washington |
@@ -214,8 +214,8 @@
 | 206 | 480 | Michael Johnson |
 | 207 | 480 | Danielle Allison |
 | 208 | 475 | Tessina Dewey-Mancino |
-| 209 | 473 | Rachel |
-| 210 | 473 | Connie Mohler-Fair |
+| 209 | 473 | Connie Mohler-Fair |
+| 210 | 473 | Rachel |
 | 211 | 471 | Mendoza Lee Christy |
 | 212 | 467 | Sherry Ogden |
 | 213 | 465 | Annie Déè |
@@ -265,8 +265,8 @@
 | 257 | 370 | Samantha Lynn |
 | 258 | 369 | Philip Rock |
 | 259 | 369 | Keis |
-| 260 | 368 | Stephanie Woods |
-| 261 | 368 | Sheila M Frazier |
+| 260 | 368 | Sheila M Frazier |
+| 261 | 368 | Stephanie Woods |
 | 262 | 367 | Kristin Delibac Corrigan |
 | 263 | 366 | Gumbo |
 | 264 | 366 | Randy Clevenger |
@@ -302,8 +302,8 @@
 | 294 | 337 | Sabrina Hardrick |
 | 295 | 336 | Jojo M |
 | 296 | 335 | victory |
-| 297 | 332 | Velma Mull |
-| 298 | 332 | Brittany |
+| 297 | 332 | Brittany |
+| 298 | 332 | Velma Mull |
 | 299 | 331 | Gray Hicks |
 | 300 | 329 | Cranky Gridder |
 | 301 | 329 | Angela Scott |
@@ -379,15 +379,15 @@
 | 371 | 274 | Ava Petito |
 | 372 | 273 | France Vézina |
 | 373 | 273 | Brenda Schmid Wood |
-| 374 | 272 | Todd Hall |
-| 375 | 272 | Tay |
+| 374 | 272 | Tay |
+| 375 | 272 | Todd Hall |
 | 376 | 272 | Romeo |
 | 377 | 269 | Samantha Worley |
 | 378 | 269 | Jess Bissett |
 | 379 | 269 | Juliana Dottore |
 | 380 | 268 | Jessica Lynn French |
-| 381 | 267 | Jul |
-| 382 | 267 | April Matthew Kibble |
+| 381 | 267 | April Matthew Kibble |
+| 382 | 267 | Jul |
 | 383 | 267 | Michael Kimbro |
 | 384 | 266 | Quirky Dropzone |
 | 385 | 265 | AlsoJess |
@@ -602,8 +602,8 @@
 | 594 | 181 | krazibtch |
 | 595 | 180 | Chipper Piecefit |
 | 596 | 180 | Stella |
-| 597 | 179 | Alexi Pryor |
-| 598 | 179 | Boldy Corner |
+| 597 | 179 | Boldy Corner |
+| 598 | 179 | Alexi Pryor |
 | 599 | 179 | Ruchi Smit |
 | 600 | 178 | Jillian Ann |
 | 601 | 178 | Melissa Snyder |
