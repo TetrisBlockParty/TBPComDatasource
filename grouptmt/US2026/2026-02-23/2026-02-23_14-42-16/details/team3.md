@@ -187,8 +187,8 @@
 | 179 | 591 | Kaycee Kay |
 | 180 | 591 | Michael Nowogorski |
 | 181 | 587 | Louise Stacy Sisson |
-| 182 | 585 | Happy Tetriblast |
-| 183 | 585 | Domo Washington |
+| 182 | 585 | Domo Washington |
+| 183 | 585 | Happy Tetriblast |
 | 184 | 583 | Tasha Gillespie |
 | 185 | 582 | Natasha Jones |
 | 186 | 568 | Rachael McClain Owens |

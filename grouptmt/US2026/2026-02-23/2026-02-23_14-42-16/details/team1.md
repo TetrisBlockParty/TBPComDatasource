@@ -132,8 +132,8 @@
 | 124 | 477 | Tonya Beasley |
 | 125 | 475 | Sarah Somers Gray |
 | 126 | 471 | Hyper |
-| 127 | 467 | Candy Jones |
-| 128 | 467 | Constance Risner |
+| 127 | 467 | Constance Risner |
+| 128 | 467 | Candy Jones |
 | 129 | 466 | Adrian Esteban |
 | 130 | 463 | Melissa Lemmon |
 | 131 | 463 | Lexuriuos Lifestlye |
@@ -252,8 +252,8 @@
 | 244 | 313 | Sylvia Vasquez |
 | 245 | 313 | Cody Gates |
 | 246 | 312 | Mitchel White |
-| 247 | 310 | Bloknboy |
-| 248 | 310 | Chantelle Ceno |
+| 247 | 310 | Chantelle Ceno |
+| 248 | 310 | Bloknboy |
 | 249 | 308 | Speedy Liney |
 | 250 | 305 | Plucky Stacky |
 | 251 | 303 | Νεφ Όνυξ |

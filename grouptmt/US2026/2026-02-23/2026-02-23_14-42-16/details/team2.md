@@ -313,8 +313,8 @@
 | 305 | 1042 | Michele Morgan |
 | 306 | 1042 | Mcintosh Brian Shalonda |
 | 307 | 1038 | Hillary Crawford |
-| 308 | 1036 | Amber Shoemaker |
-| 309 | 1036 | Allison Lockyer |
+| 308 | 1036 | Allison Lockyer |
+| 309 | 1036 | Amber Shoemaker |
 | 310 | 1032 | Kristin Gower |
 | 311 | 1029 | Crystal Hoffman |
 | 312 | 1024 | Susan Perraut Jones |
