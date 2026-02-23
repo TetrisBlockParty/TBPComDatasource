@@ -173,8 +173,8 @@
 | 165 | 1629 | Rickey Johnson |
 | 166 | 1625 | Cambrie Schultz |
 | 167 | 1613 | blackq |
-| 168 | 1605 | Eboni Banks |
-| 169 | 1605 | Christi Hulet |
+| 168 | 1605 | Christi Hulet |
+| 169 | 1605 | Eboni Banks |
 | 170 | 1601 | Ray Ray Prado |
 | 171 | 1594 | Heather Westrum |
 | 172 | 1593 | Jose Mendoza |
@@ -408,8 +408,8 @@
 | 400 | 837 | Maricia Layolla Cason |
 | 401 | 836 | KhaosLord |
 | 402 | 833 | Dennis McLaurin |
-| 403 | 833 | Christie |
-| 404 | 833 | Moni Foxe |
+| 403 | 833 | Moni Foxe |
+| 404 | 833 | Christie |
 | 405 | 832 | Nicole L Morelli |
 | 406 | 831 | Christina Lewis-Vickers |
 | 407 | 830 | Smashanator |
@@ -492,8 +492,8 @@
 | 484 | 730 | Hoppy Brickmatch |
 | 485 | 729 | goofinoff |
 | 486 | 728 | Mikayala Szaz |
-| 487 | 728 | Giggy Mover |
-| 488 | 728 | Tom Riefer |
+| 487 | 728 | Tom Riefer |
+| 488 | 728 | Giggy Mover |
 | 489 | 727 | BeQuo |
 | 490 | 726 | Joce Lynn |
 | 491 | 726 | Crystal Greene |
@@ -509,8 +509,8 @@
 | 501 | 710 | Mama T |
 | 502 | 709 | Marie Walker |
 | 503 | 707 | Cc |
-| 504 | 706 | Irene Jones |
-| 505 | 706 | Poldo Ilano |
+| 504 | 706 | Poldo Ilano |
+| 505 | 706 | Irene Jones |
 | 506 | 704 | Tansaria Couch-Butler |
 | 507 | 704 | Montez Mancil |
 | 508 | 703 | Dannette Goldberg-Richards |

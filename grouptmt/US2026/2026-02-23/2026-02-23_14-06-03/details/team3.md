@@ -262,8 +262,8 @@
 | 254 | 421 | Snazzy Filler |
 | 255 | 421 | Chummy Caster |
 | 256 | 420 | Quackers |
-| 257 | 420 | Sabrina Hardrick |
-| 258 | 420 | Betty Bóò |
+| 257 | 420 | Betty Bóò |
+| 258 | 420 | Sabrina Hardrick |
 | 259 | 419 | Aerian Preston |
 | 260 | 419 | Marci Mize Fandrich |
 | 261 | 417 | Giddy Twistbuilder |
@@ -360,8 +360,8 @@
 | 352 | 322 | Nena Somerville Kelly |
 | 353 | 321 | Wettnippz |
 | 354 | 320 | Or Reznitsky |
-| 355 | 320 | Ashley Muncey |
-| 356 | 320 | Taylor Hood |
+| 355 | 320 | Taylor Hood |
+| 356 | 320 | Ashley Muncey |
 | 357 | 318 | Christy Quick |
 | 358 | 317 | Geoffrey Nash |
 | 359 | 317 | Steven Fulater |
