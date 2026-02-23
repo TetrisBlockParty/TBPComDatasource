@@ -78,8 +78,8 @@
 | 70 | 1264 | Amanda L Baker |
 | 71 | 1258 | Danielle Cutler |
 | 72 | 1256 | Jessica Bechler |
-| 73 | 1213 | Snappy Glidepiece |
-| 74 | 1213 | Nerdy Riseclear |
+| 73 | 1213 | Nerdy Riseclear |
+| 74 | 1213 | Snappy Glidepiece |
 | 75 | 1209 | Amanda Adkins |
 | 76 | 1186 | Christian A. Pollard |
 | 77 | 1181 | Betty Ivy |
@@ -140,8 +140,8 @@
 | 132 | 752 | Logan Naccarato |
 | 133 | 748 | Adrian Marcel Pate |
 | 134 | 746 | Giddy Drop |
-| 135 | 745 | ren |
-| 136 | 745 | JerseyJess |
+| 135 | 745 | JerseyJess |
+| 136 | 745 | ren |
 | 137 | 744 | Fancy Cascader |
 | 138 | 736 | mzcatzy |
 | 139 | 734 | Calista Jo Dickson |
@@ -217,8 +217,8 @@
 | 209 | 498 | Melissa Orth Hunter |
 | 210 | 496 | Loopy Fallmatch |
 | 211 | 494 | FuzzyNavel |
-| 212 | 491 | Angela Scott |
-| 213 | 491 | Michael Johnson |
+| 212 | 491 | Michael Johnson |
+| 213 | 491 | Angela Scott |
 | 214 | 488 | joz |
 | 215 | 485 | Dapper Snap |
 | 216 | 484 | Fallorina Susana |
@@ -293,8 +293,8 @@
 | 285 | 371 | Salena Whitlock |
 | 286 | 371 | block chick |
 | 287 | 370 | Samantha Lynn |
-| 288 | 369 | Jennifer Alvey |
-| 289 | 369 | Philip Rock |
+| 288 | 369 | Philip Rock |
+| 289 | 369 | Jennifer Alvey |
 | 290 | 369 | Amber Glover |
 | 291 | 368 | Stephanie Woods |
 | 292 | 368 | Sheila M Frazier |
@@ -302,8 +302,8 @@
 | 294 | 366 | Gumbo |
 | 295 | 362 | Brandon Givens |
 | 296 | 361 | Breanna Marsden |
-| 297 | 360 | Dee Pratt |
-| 298 | 360 | Cesar Barraza |
+| 297 | 360 | Cesar Barraza |
+| 298 | 360 | Dee Pratt |
 | 299 | 358 | Roary Danner |
 | 300 | 358 | Heather Davis |
 | 301 | 356 | Cyd061769 |
@@ -364,7 +364,7 @@
 | 356 | 301 | Daring Brickzone |
 | 357 | 301 | Kaitie Oliver |
 | 358 | 301 | Tiffany Davie |
-| 359 | 301 | Kaitie Oliver |
+| 359 | 301 | Betty Rosas |
 | 360 | 299 | TotoCherue |
 | 361 | 299 | Angie Harper |
 | 362 | 299 | Hasty Gridpiece |

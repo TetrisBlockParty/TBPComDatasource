@@ -400,8 +400,8 @@
 | 392 | 832 | Nicole L Morelli |
 | 393 | 831 | Christina Lewis-Vickers |
 | 394 | 830 | Smashanator |
-| 395 | 829 | Jessica Wayne Cornwall |
-| 396 | 829 | Angie Bolton Workman |
+| 395 | 829 | Angie Bolton Workman |
+| 396 | 829 | Jessica Wayne Cornwall |
 | 397 | 828 | Desire Rice |
 | 398 | 828 | Kimmy Newman |
 | 399 | 825 | Arlene Joy Belicina |
@@ -433,8 +433,8 @@
 | 425 | 777 | Jessicah Myers |
 | 426 | 776 | Fancy Twister |
 | 427 | 776 | Mighty Spinbuilder |
-| 428 | 775 | Crystie Hicks |
-| 429 | 775 | Christina Walker |
+| 428 | 775 | Christina Walker |
+| 429 | 775 | Crystie Hicks |
 | 430 | 773 | Sarah Berger |
 | 431 | 773 | Christie |
 | 432 | 772 | Danielle Simmons |
@@ -860,8 +860,8 @@
 | 852 | 448 | Leah LaShomb |
 | 853 | 446 | Courtney Burcham |
 | 854 | 446 | Colin Morgan |
-| 855 | 445 | Beatboxxer |
-| 856 | 445 | Mar Q Thomas |
+| 855 | 445 | Mar Q Thomas |
+| 856 | 445 | Beatboxxer |
 | 857 | 444 | Lynda Toland |
 | 858 | 444 | Shanae Dillahunty |
 | 859 | 444 | Angela Murgia-Owen |
@@ -1017,10 +1017,10 @@
 | 1009 | 386 | Yasmin Guzman |
 | 1010 | 385 | Jay Levy |
 | 1011 | 385 | stacey |
-| 1012 | 385 | Cheery Puzzler |
-| 1013 | 385 | Kirsten Marie Lomupo |
-| 1014 | 384 | Diona Burns |
-| 1015 | 384 | Savannah Alexander |
+| 1012 | 385 | Kirsten Marie Lomupo |
+| 1013 | 385 | Cheery Puzzler |
+| 1014 | 384 | Savannah Alexander |
+| 1015 | 384 | Diona Burns |
 | 1016 | 384 | Sammie |
 | 1017 | 384 | King Shamell Young |
 | 1018 | 383 | Veronica Martin Trinkle |

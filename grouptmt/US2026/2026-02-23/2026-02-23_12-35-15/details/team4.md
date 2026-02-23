@@ -66,8 +66,8 @@
 | 58 | 864 | Shelly Chandler |
 | 59 | 863 | Pee |
 | 60 | 859 | TeeJ |
-| 61 | 846 | Christine Marie |
-| 62 | 846 | Lucille Truesdale |
+| 61 | 846 | Lucille Truesdale |
+| 62 | 846 | Christine Marie |
 | 63 | 834 | quicksand420 |
 | 64 | 807 | Rachel Anne |
 | 65 | 807 | Amelpss |
