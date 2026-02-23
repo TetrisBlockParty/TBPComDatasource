@@ -149,8 +149,8 @@
 | 141 | 456 | Dee Perry |
 | 142 | 454 | Desiree Deschaine Havee |
 | 143 | 453 | Brandi Huntington |
-| 144 | 451 | ALFD |
-| 145 | 451 | Plucky Ziggy |
+| 144 | 451 | Plucky Ziggy |
+| 145 | 451 | ALFD |
 | 146 | 450 | lil mickey |
 | 147 | 448 | Sweet Baker |
 | 148 | 448 | Jazzy Framezone |
@@ -165,8 +165,8 @@
 | 157 | 417 | Phu ckalldems |
 | 158 | 417 | Jessie Lynn |
 | 159 | 416 | Jessica Sheehan |
-| 160 | 415 | Jennifer Hardman |
-| 161 | 415 | Kimberly Garcia |
+| 160 | 415 | Kimberly Garcia |
+| 161 | 415 | Jennifer Hardman |
 | 162 | 413 | Tanya Carpenter-Reynolds |
 | 163 | 411 | Emily Adelaide Wheatley |
 | 164 | 406 | David Miller |
@@ -283,8 +283,8 @@
 | 275 | 283 | Larry Tilton |
 | 276 | 283 | Hasty Cascader |
 | 277 | 282 | Timothy Dew |
-| 278 | 280 | Billie Dawn Sparks |
-| 279 | 280 | Наталья Солоид |
+| 278 | 280 | Наталья Солоид |
+| 279 | 280 | Billie Dawn Sparks |
 | 280 | 279 | Chris Dawson |
 | 281 | 277 | Agustin Duarte Orozco |
 | 282 | 277 | Nutty Spinblock |
@@ -548,7 +548,7 @@
 | 540 | 158 | Doris Hall |
 | 541 | 157 | Shiny Rotate |
 | 542 | 157 | Craig Mcgonigle |
-| 543 | 157 | Shiny Rotate |
+| 543 | 157 | Shiny Snapline |
 | 544 | 156 | Rachel Rogers |
 | 545 | 155 | poopypants |
 | 546 | 155 | Rachel Nichole Henry |
