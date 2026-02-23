@@ -80,8 +80,8 @@
 | 72 | 970 | Rosalie Call Kehlenbeck |
 | 73 | 964 | Jennifer |
 | 74 | 945 | Christian A. Pollard |
-| 75 | 926 | Judi Dobson |
-| 76 | 926 | Angela M. Fletcher |
+| 75 | 926 | Angela M. Fletcher |
+| 76 | 926 | Judi Dobson |
 | 77 | 924 | Shonna Roberts |
 | 78 | 923 | Christine Filson |
 | 79 | 910 | Jay Horn |
@@ -97,8 +97,8 @@
 | 89 | 860 | Sunny Rotater |
 | 90 | 849 | Danielle Becker |
 | 91 | 848 | Patricia Gadsden |
-| 92 | 838 | MissTaylor |
-| 93 | 838 | Sarajane Lokan |
+| 92 | 838 | Sarajane Lokan |
+| 93 | 838 | MissTaylor |
 | 94 | 831 | Angeline Joseph |
 | 95 | 830 | Stephanie Allmon |
 | 96 | 829 | Chelsea Hall |
@@ -342,8 +342,8 @@
 | 334 | 266 | Donna |
 | 335 | 266 | Quirky Dropzone |
 | 336 | 265 | Michael Kimbro |
-| 337 | 263 | Jimmie Clemons |
-| 338 | 263 | Erika Thornton |
+| 337 | 263 | Erika Thornton |
+| 338 | 263 | Jimmie Clemons |
 | 339 | 262 | Kristin Delibac Corrigan |
 | 340 | 262 | Shawn Miller |
 | 341 | 261 | Angela Scott |
@@ -358,8 +358,8 @@
 | 350 | 250 | Juliana Dottore |
 | 351 | 250 | Eric Caccavale |
 | 352 | 249 | Willow |
-| 353 | 247 | Daring Builder |
-| 354 | 247 | Jessica |
+| 353 | 247 | Jessica |
+| 354 | 247 | Daring Builder |
 | 355 | 245 | Latoya Mayne |
 | 356 | 244 | Tegan Chapman |
 | 357 | 244 | Quackers |

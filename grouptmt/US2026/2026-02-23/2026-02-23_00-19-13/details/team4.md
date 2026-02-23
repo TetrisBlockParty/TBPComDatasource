@@ -82,8 +82,8 @@
 | 74 | 671 | Kimyatta Cavin |
 | 75 | 664 | Valerie Roberts |
 | 76 | 659 | Jonathan Kimbrough |
-| 77 | 647 | Shauna Havard |
-| 78 | 647 | KM8 |
+| 77 | 647 | KM8 |
+| 78 | 647 | Shauna Havard |
 | 79 | 646 | Jacqueline Helm |
 | 80 | 643 | Lisa Davis |
 | 81 | 626 | Brittney Griggs |
@@ -126,8 +126,8 @@
 | 118 | 458 | Twisty Clicky |
 | 119 | 448 | Kristin Manee |
 | 120 | 435 | Leslie Thomas |
-| 121 | 431 | Courtney Cicoria |
-| 122 | 431 | Jolly Dashfit |
+| 121 | 431 | Jolly Dashfit |
+| 122 | 431 | Courtney Cicoria |
 | 123 | 429 | Ren Mc |
 | 124 | 427 | KJ Pool |
 | 125 | 418 | Lush Linkfall |
@@ -138,8 +138,8 @@
 | 130 | 408 | Amanda Pauldo-Ivy |
 | 131 | 400 | Ericca Eldridge |
 | 132 | 394 | Austin Owens |
-| 133 | 393 | Trish |
-| 134 | 393 | Carlton Unfiltered |
+| 133 | 393 | Carlton Unfiltered |
+| 134 | 393 | Trish |
 | 135 | 392 | Cristy Duerksen |
 | 136 | 391 | Ramel Rhodes |
 | 137 | 384 | Lucas J Sutton |
@@ -277,8 +277,8 @@
 | 269 | 212 | Mike Solo |
 | 270 | 211 | Christina Black |
 | 271 | 209 | Zany Shatterer |
-| 272 | 208 | Chantilly Laace |
-| 273 | 208 | Rebecca Morris |
+| 272 | 208 | Rebecca Morris |
+| 273 | 208 | Chantilly Laace |
 | 274 | 207 | Snippy Puzzle |
 | 275 | 206 | Shainne Brewer |
 | 276 | 205 | KayM |
@@ -318,8 +318,8 @@
 | 310 | 183 | Cozy Balancer |
 | 311 | 183 | Twisty Risebuilder |
 | 312 | 181 | Nikki Wilson |
-| 313 | 179 | Denise B |
-| 314 | 179 | AyeKay |
+| 313 | 179 | AyeKay |
+| 314 | 179 | Denise B |
 | 315 | 178 | Zippy Tilt |
 | 316 | 177 | Shanon Klair |
 | 317 | 177 | Ernest Maxwell |
