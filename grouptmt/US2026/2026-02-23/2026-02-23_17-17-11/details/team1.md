@@ -248,8 +248,8 @@
 | 240 | 339 | Tyler Hertzog |
 | 241 | 338 | Layzietyme |
 | 242 | 337 | Jamise Brown |
-| 243 | 335 | Eric DeSimone |
-| 244 | 335 | Keith Mathis |
+| 243 | 335 | Keith Mathis |
+| 244 | 335 | Eric DeSimone |
 | 245 | 334 | Tipsy Builder |
 | 246 | 333 | Jennifer Noe Chandler |
 | 247 | 332 | Eddie Dillon |
@@ -297,8 +297,8 @@
 | 289 | 285 | Shanae Grant |
 | 290 | 284 | Michael |
 | 291 | 284 | Colleen Pinette |
-| 292 | 283 | Irv |
-| 293 | 283 | Franswa |
+| 292 | 283 | Franswa |
+| 293 | 283 | Irv |
 | 294 | 282 | Timothy Dew |
 | 295 | 280 | Billie Dawn Sparks |
 | 296 | 280 | Наталья Солоид |
@@ -306,10 +306,10 @@
 | 298 | 277 | Agustin Duarte Orozco |
 | 299 | 277 | Nutty Spinblock |
 | 300 | 276 | Mrs.Patrica |
-| 301 | 275 | Garrett Burket |
-| 302 | 275 | Cheeky Pop |
-| 303 | 275 | Chris65 |
-| 304 | 275 | Mark Smith |
+| 301 | 275 | Cheeky Pop |
+| 302 | 275 | Mark Smith |
+| 303 | 275 | Garrett Burket |
+| 304 | 275 | Chris65 |
 | 305 | 274 | Allena Craft |
 | 306 | 274 | Danielle S Kester |
 | 307 | 273 | Test |
@@ -387,11 +387,11 @@
 | 379 | 232 | Thorne Shumate |
 | 380 | 230 | Panda Thagreat |
 | 381 | 230 | Jessica Russell |
-| 382 | 229 | Ed Franz Jr |
-| 383 | 229 | Bob |
+| 382 | 229 | Bob |
+| 383 | 229 | Ed Franz Jr |
 | 384 | 227 | Happy Snapbuild |
-| 385 | 226 | Snappy Brickbuilder |
-| 386 | 226 | Alex Nicol |
+| 385 | 226 | Alex Nicol |
+| 386 | 226 | Snappy Brickbuilder |
 | 387 | 225 | Mel Hogan |
 | 388 | 225 | Angela Spann |
 | 389 | 224 | Nate Price |
@@ -462,8 +462,8 @@
 | 454 | 196 | Steph |
 | 455 | 195 | Herm Junior |
 | 456 | 194 | Nicole Meredith Flynn |
-| 457 | 193 | Lachelle Dillon |
-| 458 | 193 | Giggly Rollfit |
+| 457 | 193 | Giggly Rollfit |
+| 458 | 193 | Lachelle Dillon |
 | 459 | 192 | Ramona Shaver |
 | 460 | 191 | Jasmine Riley |
 | 461 | 191 | Dandy Towerbuilder |

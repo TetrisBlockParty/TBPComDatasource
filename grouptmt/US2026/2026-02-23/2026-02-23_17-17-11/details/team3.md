@@ -86,8 +86,8 @@
 | 78 | 1244 | Lori Barnaby |
 | 79 | 1229 | Araceli Parra |
 | 80 | 1221 | Betty Ivy |
-| 81 | 1213 | Nerdy Riseclear |
-| 82 | 1213 | Snappy Glidepiece |
+| 81 | 1213 | Snappy Glidepiece |
+| 82 | 1213 | Nerdy Riseclear |
 | 83 | 1212 | Amanda Adkins |
 | 84 | 1186 | Christian A. Pollard |
 | 85 | 1168 | Shari Garber |
@@ -124,8 +124,8 @@
 | 116 | 896 | Jesse Olive |
 | 117 | 878 | Shane Wilson Jr. |
 | 118 | 874 | Jessica Pineda-Lopez |
-| 119 | 868 | Sarajane Lokan |
-| 120 | 868 | Felicia Rocha |
+| 119 | 868 | Felicia Rocha |
+| 120 | 868 | Sarajane Lokan |
 | 121 | 864 | Sunny Rotater |
 | 122 | 856 | Kristie |
 | 123 | 848 | Patricia Gadsden |
@@ -144,8 +144,8 @@
 | 136 | 773 | Daira Largen |
 | 137 | 773 | Tasha Schriewer |
 | 138 | 770 | Daryn Elliott |
-| 139 | 764 | Hasty Cascadefit |
-| 140 | 764 | Groovy Catcher |
+| 139 | 764 | Groovy Catcher |
+| 140 | 764 | Hasty Cascadefit |
 | 141 | 762 | Speedy Bridger |
 | 142 | 759 | yoyo |
 | 143 | 757 | Fancy Cascader |
@@ -207,8 +207,8 @@
 | 199 | 566 | LaTanya GeminiondaRise Johnson |
 | 200 | 564 | Poppy Splitter |
 | 201 | 564 | Christine Trester |
-| 202 | 563 | Connie Mohler-Fair |
-| 203 | 563 | Jim Mathews |
+| 202 | 563 | Jim Mathews |
+| 203 | 563 | Connie Mohler-Fair |
 | 204 | 562 | Dave Herzog |
 | 205 | 561 | Silly Twist |
 | 206 | 560 | Juliana Dottore |
