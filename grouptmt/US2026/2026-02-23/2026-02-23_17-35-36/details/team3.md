@@ -215,8 +215,8 @@
 | 207 | 560 | Juliana Dottore |
 | 208 | 560 | FuzzyNavel |
 | 209 | 559 | Patti Skiles |
-| 210 | 558 | Chasity |
-| 211 | 558 | Bmo |
+| 210 | 558 | Bmo |
+| 211 | 558 | Chasity |
 | 212 | 549 | Sarah Cowan Burgos |
 | 213 | 548 | Danielle Balcom |
 | 214 | 547 | Staci George Fitzsimmons |
@@ -331,8 +331,8 @@
 | 323 | 370 | Samantha Lynn |
 | 324 | 369 | Amber Glover |
 | 325 | 369 | fraulila |
-| 326 | 368 | Stephanie Woods |
-| 327 | 368 | Sheila M Frazier |
+| 326 | 368 | Sheila M Frazier |
+| 327 | 368 | Stephanie Woods |
 | 328 | 366 | KayB |
 | 329 | 365 | Andrew Thorson |
 | 330 | 365 | LaShey Thompson |
@@ -360,8 +360,8 @@
 | 352 | 348 | Ashley Raines |
 | 353 | 348 | Kelly Wolf |
 | 354 | 346 | AlsoJess |
-| 355 | 345 | gremicx |
-| 356 | 345 | victory |
+| 355 | 345 | victory |
+| 356 | 345 | gremicx |
 | 357 | 344 | Beaudie Stroebel |
 | 358 | 343 | Ashley Rufus Bythcez |
 | 359 | 343 | Donna |
@@ -400,8 +400,8 @@
 | 392 | 320 | Taylor Hood |
 | 393 | 320 | Or Reznitsky |
 | 394 | 318 | Christy Quick |
-| 395 | 316 | Swanky Snapclear |
-| 396 | 316 | Travis W |
+| 395 | 316 | Travis W |
+| 396 | 316 | Swanky Snapclear |
 | 397 | 315 | Funky Jumper |
 | 398 | 314 | Tipsy Zonebuilder |
 | 399 | 313 | Hoppy Buildout |
@@ -413,8 +413,8 @@
 | 405 | 308 | Katrina Turner |
 | 406 | 308 | Beejangles |
 | 407 | 307 | TotoCherue |
-| 408 | 307 | Kristina Gardner |
-| 409 | 307 | Kristian Thurman |
+| 408 | 307 | Kristian Thurman |
+| 409 | 307 | Kristina Gardner |
 | 410 | 306 | Jackie Miller |
 | 411 | 305 | Jack Bo |
 | 412 | 304 | _melisa223_ |

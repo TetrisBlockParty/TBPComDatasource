@@ -113,8 +113,8 @@
 | 105 | 672 | Nugget |
 | 106 | 667 | Amy Suckarieh |
 | 107 | 659 | Jamie Gustafson |
-| 108 | 658 | Zippy Gridlock |
-| 109 | 658 | Girl |
+| 108 | 658 | Girl |
+| 109 | 658 | Zippy Gridlock |
 | 110 | 657 | Lori Walker |
 | 111 | 652 | Leslie Nicole |
 | 112 | 647 | KM8 |

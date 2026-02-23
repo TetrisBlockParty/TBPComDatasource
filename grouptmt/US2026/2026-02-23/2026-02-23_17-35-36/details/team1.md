@@ -61,8 +61,8 @@
 | 53 | 1005 | Perky Shiftsnap |
 | 54 | 990 | Spunky Piecebuilder |
 | 55 | 978 | Amber Stoker |
-| 56 | 969 | Lawrence Belanger |
-| 57 | 969 | TSwag |
+| 56 | 969 | TSwag |
+| 57 | 969 | Lawrence Belanger |
 | 58 | 966 | Shalene Frederick Autrey |
 | 59 | 965 | Kristen Roles Robben |
 | 60 | 961 | Adam Byrd |
@@ -191,8 +191,8 @@
 | 183 | 399 | phrmblk24 |
 | 184 | 397 | Erin Rosberg |
 | 185 | 394 | Lori Bales |
-| 186 | 393 | Lehrin Maria |
-| 187 | 393 | Wisa |
+| 186 | 393 | Wisa |
+| 187 | 393 | Lehrin Maria |
 | 188 | 390 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 189 | 388 | Jason Savage |
 | 190 | 387 | Ananda Mendez |
@@ -204,8 +204,8 @@
 | 196 | 383 | Margo Wagner |
 | 197 | 383 | pjbeta |
 | 198 | 380 | Bindi |
-| 199 | 379 | Snappy Matcher |
-| 200 | 379 | Austin James |
+| 199 | 379 | Austin James |
+| 200 | 379 | Snappy Matcher |
 | 201 | 378 | Sleepysloath5745 |
 | 202 | 376 | Sassy Builderline |
 | 203 | 376 | Brian Richardsson |
@@ -314,8 +314,8 @@
 | 306 | 275 | Chris65 |
 | 307 | 274 | Allena Craft |
 | 308 | 273 | Test |
-| 309 | 272 | Michelle Beres |
-| 310 | 272 | Blaire Bruckoff |
+| 309 | 272 | Blaire Bruckoff |
+| 310 | 272 | Michelle Beres |
 | 311 | 272 | Barrbaric |
 | 312 | 271 | Robert |
 | 313 | 271 | Standia Civil |
