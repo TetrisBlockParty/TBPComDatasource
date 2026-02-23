@@ -239,8 +239,8 @@
 | 231 | 310 | Bloknboy |
 | 232 | 308 | Speedy Liney |
 | 233 | 303 | Νεφ Όνυξ |
-| 234 | 301 | Damon J. Martin |
-| 235 | 301 | John Kim |
+| 234 | 301 | John Kim |
+| 235 | 301 | Damon J. Martin |
 | 236 | 300 | Sleepysloath5745 |
 | 237 | 298 | Billie Ann Eason |
 | 238 | 298 | Sweetts |
@@ -268,9 +268,9 @@
 | 260 | 275 | Cheeky Pop |
 | 261 | 275 | Chris65 |
 | 262 | 273 | Наталья Солоид |
-| 263 | 272 | Barrbaric |
+| 263 | 272 | Tawnya Peltonen |
 | 264 | 272 | Michelle Beres |
-| 265 | 272 | Tawnya Peltonen |
+| 265 | 272 | Barrbaric |
 | 266 | 270 | Debbie Kane |
 | 267 | 270 | Brenda Alexander |
 | 268 | 268 | Standia Civil |

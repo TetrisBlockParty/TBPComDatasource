@@ -117,8 +117,8 @@
 | 109 | 869 | Araceli Parra |
 | 110 | 868 | Sarajane Lokan |
 | 111 | 860 | Sunny Rotater |
-| 112 | 851 | Jd Morris |
-| 113 | 851 | Danielle Becker |
+| 112 | 851 | Danielle Becker |
+| 113 | 851 | Jd Morris |
 | 114 | 850 | Danielle Mogg |
 | 115 | 848 | Patricia Gadsden |
 | 116 | 839 | Angeline Joseph |
@@ -134,8 +134,8 @@
 | 126 | 764 | Hasty Cascadefit |
 | 127 | 764 | Groovy Catcher |
 | 128 | 762 | Speedy Bridger |
-| 129 | 755 | Raya |
-| 130 | 755 | Katrina Schroeder |
+| 129 | 755 | Katrina Schroeder |
+| 130 | 755 | Raya |
 | 131 | 752 | Logan Naccarato |
 | 132 | 748 | Adrian Marcel Pate |
 | 133 | 745 | JerseyJess |
@@ -266,8 +266,8 @@
 | 258 | 406 | Kristal C Lee |
 | 259 | 405 | Steffi Chris Dacones |
 | 260 | 404 | Chasity |
-| 261 | 403 | Denita Mungro |
-| 262 | 403 | Scott Lindsay |
+| 261 | 403 | Scott Lindsay |
+| 262 | 403 | Denita Mungro |
 | 263 | 401 | Ashley Tookes |
 | 264 | 400 | Quackers |
 | 265 | 395 | rosy |
@@ -464,9 +464,9 @@
 | 456 | 242 | Heather Bateman |
 | 457 | 242 | Joy Petroski |
 | 458 | 241 | Skinny Baldez |
-| 459 | 240 | Rebel124 |
-| 460 | 240 | Trey Ward |
-| 461 | 240 | Beppy |
+| 459 | 240 | Beppy |
+| 460 | 240 | Rebel124 |
+| 461 | 240 | Trey Ward |
 | 462 | 240 | Bambi Jones |
 | 463 | 238 | Niki Dalrymple |
 | 464 | 238 | Jess Dearborn |
@@ -478,8 +478,8 @@
 | 470 | 236 | Frothy Snapper |
 | 471 | 234 | Cheeky Twisterfit |
 | 472 | 233 | Tony Waters |
-| 473 | 233 | Criss |
-| 474 | 233 | Anna Moeller |
+| 473 | 233 | Anna Moeller |
+| 474 | 233 | Criss |
 | 475 | 232 | Sunny Tiltgrid |
 | 476 | 232 | Melanie Sherwood |
 | 477 | 232 | Stephanie Hill |
@@ -491,8 +491,8 @@
 | 483 | 228 | Dapper Liney |
 | 484 | 227 | Meowsa |
 | 485 | 227 | Snippy Brickster |
-| 486 | 226 | paranoid |
-| 487 | 226 | Ryan Williams |
+| 486 | 226 | Ryan Williams |
+| 487 | 226 | paranoid |
 | 488 | 225 | Sassy Tiler |
 | 489 | 225 | sofaking |
 | 490 | 224 | Sarah Morris |

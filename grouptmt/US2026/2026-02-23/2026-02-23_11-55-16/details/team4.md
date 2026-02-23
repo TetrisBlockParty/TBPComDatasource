@@ -77,8 +77,8 @@
 | 69 | 787 | Edward White |
 | 70 | 767 | Shannon Ferrari |
 | 71 | 766 | Robin Watters |
-| 72 | 765 | Denise Carlson |
-| 73 | 765 | Robin Getchel |
+| 72 | 765 | Robin Getchel |
+| 73 | 765 | Denise Carlson |
 | 74 | 753 | TheNeesh50 |
 | 75 | 752 | Shane Kalamata Platoon |
 | 76 | 749 | Dustee Craddock-Harrison |
@@ -163,16 +163,16 @@
 | 155 | 417 | Steph Marie |
 | 156 | 417 | Amanda Pauldo-Ivy |
 | 157 | 416 | Chaz Duncan |
-| 158 | 414 | Swanky Fitline |
-| 159 | 414 | Nope Young |
+| 158 | 414 | Nope Young |
+| 159 | 414 | Swanky Fitline |
 | 160 | 413 | Circuit8 |
 | 161 | 412 | Jessica Bohlken |
-| 162 | 406 | Livvy |
-| 163 | 406 | Damn Libra |
+| 162 | 406 | Damn Libra |
+| 163 | 406 | Livvy |
 | 164 | 402 | Lucas J Sutton |
 | 165 | 398 | Tyler Terrific |
 | 166 | 397 | Nick Gray |
-| 167 | 393 | Brandon Crabbs |
+| 167 | 393 | Carlton Unfiltered |
 | 168 | 393 | Girl |
 | 169 | 393 | Brandon Crabbs |
 | 170 | 391 | Ramel Rhodes |
@@ -198,8 +198,8 @@
 | 190 | 352 | Sue Joyce Staats |
 | 191 | 348 | April Rondinone |
 | 192 | 348 | David Lay |
-| 193 | 347 | Daria Rycewicz |
-| 194 | 347 | Crystal Nicolette Moore |
+| 193 | 347 | Crystal Nicolette Moore |
+| 194 | 347 | Daria Rycewicz |
 | 195 | 347 | Bio Nelly |
 | 196 | 346 | shark tato |
 | 197 | 340 | Kris Bartlett |
@@ -344,7 +344,7 @@
 | 336 | 219 | Shane Vick |
 | 337 | 218 | Janita Parrish |
 | 338 | 217 | Cheery Fitline |
-| 339 | 217 | Brave Spinbuilder |
+| 339 | 217 | Paito |
 | 340 | 217 | Alexandra Karavias |
 | 341 | 217 | Brave Spinbuilder |
 | 342 | 216 | Funky Risepiece |
@@ -374,8 +374,8 @@
 | 366 | 203 | Katherine Crane |
 | 367 | 203 | Courtney Halleck |
 | 368 | 201 | O block |
-| 369 | 198 | Calvin Dennis |
-| 370 | 198 | Mona Sharma |
+| 369 | 198 | Mona Sharma |
+| 370 | 198 | Calvin Dennis |
 | 371 | 197 | Cozy Balancer |
 | 372 | 196 | Blessedmama |
 | 373 | 196 | Maria Hammie |
@@ -476,12 +476,12 @@
 | 468 | 160 | Heather Layne Smith |
 | 469 | 160 | icequeenx |
 | 470 | 159 | Groovy Brickmatch |
-| 471 | 158 | Jen Mattei |
-| 472 | 158 | Jasmine S Caldwell |
+| 471 | 158 | Jasmine S Caldwell |
+| 472 | 158 | Jen Mattei |
 | 473 | 158 | Grann8 |
 | 474 | 157 | David Boggs |
-| 475 | 157 | Ryry |
-| 476 | 157 | LunaMoon |
+| 475 | 157 | LunaMoon |
+| 476 | 157 | Ryry |
 | 477 | 156 | Mighty Edgepiece |
 | 478 | 155 | Shirl |
 | 479 | 155 | tipsy tiger |
@@ -634,7 +634,7 @@
 | 626 | 114 | Ashley Danielle |
 | 627 | 113 | Abigail Murphy |
 | 628 | 113 | Serena Butter |
-| 629 | 113 | Abigail Murphy |
+| 629 | 113 | Lilya Troutman |
 | 630 | 113 | Hog Crankin |
 | 631 | 112 | Ninaforever |
 | 632 | 112 | Jazzy Slamdrop |
@@ -1271,9 +1271,9 @@
 | 1263 | 40 | Mileydy Almora Diaz |
 | 1264 | 40 | Dan Kraly |
 | 1265 | 40 | Loopy Risegrid |
-| 1266 | 40 | Michelle Cox |
+| 1266 | 40 | Michelle Abrams |
 | 1267 | 40 | Jason Nellis |
-| 1268 | 40 | Michelle Abrams |
+| 1268 | 40 | Michelle Cox |
 | 1269 | 39 | Kellie Tacuban |
 | 1270 | 39 | Rollinsmokes |
 | 1271 | 39 | Holly Stewart |
