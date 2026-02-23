@@ -190,10 +190,10 @@
 | 182 | 368 | Raegan Lane-Ross |
 | 183 | 368 | Silly Zonebuilder |
 | 184 | 365 | Jeff Brian Gates |
-| 185 | 361 | Rafael Valentin |
-| 186 | 361 | Danielle Kollias |
-| 187 | 358 | Twisty Cascadezone |
-| 188 | 358 | A5! |
+| 185 | 361 | Danielle Kollias |
+| 186 | 361 | Rafael Valentin |
+| 187 | 358 | A5! |
+| 188 | 358 | Twisty Cascadezone |
 | 189 | 355 | James Hurley Jr. |
 | 190 | 354 | TRCuse |
 | 191 | 352 | Lori |
@@ -393,8 +393,8 @@
 | 385 | 191 | Earnest Thompson |
 | 386 | 191 | Norman Klick |
 | 387 | 190 | wombat |
-| 388 | 189 | Berklie Apedaile |
-| 389 | 189 | Duck |
+| 388 | 189 | Duck |
+| 389 | 189 | Berklie Apedaile |
 | 390 | 189 | Cool Towerbuilder |
 | 391 | 188 | Sharyn Lemire |
 | 392 | 188 | Frilly Blocky |
@@ -623,8 +623,8 @@
 | 615 | 117 | Jacob Richard |
 | 616 | 117 | Kelly Duncan |
 | 617 | 116 | Beenbreto |
-| 618 | 116 | JEan Price |
-| 619 | 116 | Rebecca A Rit |
+| 618 | 116 | Rebecca A Rit |
+| 619 | 116 | JEan Price |
 | 620 | 116 | Mcg |
 | 621 | 115 | Nicole McMurray |
 | 622 | 115 | Mona Touchine |

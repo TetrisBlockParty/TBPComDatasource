@@ -103,8 +103,8 @@
 | 95 | 562 | Denice Dee |
 | 96 | 553 | And |
 | 97 | 535 | Susan Ward |
-| 98 | 534 | Loony Fitzone |
-| 99 | 534 | Veronica Eve |
+| 98 | 534 | Veronica Eve |
+| 99 | 534 | Loony Fitzone |
 | 100 | 529 | Ryan Lunnin |
 | 101 | 522 | Sarah Lombardo |
 | 102 | 522 | Tdub |
@@ -180,8 +180,8 @@
 | 172 | 375 | John J. Cronin |
 | 173 | 375 | Tanya Carpenter-Reynolds |
 | 174 | 374 | Howdi Duty |
-| 175 | 371 | Jason Savage |
-| 176 | 371 | Basment Living |
+| 175 | 371 | Basment Living |
+| 176 | 371 | Jason Savage |
 | 177 | 369 | Christy Jones |
 | 178 | 368 | Amanda Johnson Huffman |
 | 179 | 367 | Sharon Reynolds |
@@ -197,11 +197,11 @@
 | 189 | 360 | Wisa |
 | 190 | 359 | Witty Builderfit |
 | 191 | 359 | Oscar Zamora |
-| 192 | 357 | David Lutcher |
-| 193 | 357 | Shiny Snapfit |
-| 194 | 353 | Dizzy Party |
-| 195 | 353 | Jaimie Lynn |
-| 196 | 353 | Josh Riemer |
+| 192 | 357 | Shiny Snapfit |
+| 193 | 357 | David Lutcher |
+| 194 | 353 | Jaimie Lynn |
+| 195 | 353 | Josh Riemer |
+| 196 | 353 | Dizzy Party |
 | 197 | 351 | Sean Stallings |
 | 198 | 350 | Tipsy Strikerpiece |
 | 199 | 349 | Cool Shiftsnap |
