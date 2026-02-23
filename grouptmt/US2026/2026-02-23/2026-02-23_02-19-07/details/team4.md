@@ -78,8 +78,8 @@
 | 70 | 739 | Avy Absol |
 | 71 | 736 | Goatimus Lombardi |
 | 72 | 725 | Denise Carlson |
-| 73 | 704 | Crystal Carroll |
-| 74 | 704 | D3TROITB0RN74 |
+| 73 | 704 | D3TROITB0RN74 |
+| 74 | 704 | Crystal Carroll |
 | 75 | 697 | Alyssa Papen |
 | 76 | 684 | Jonathan Kimbrough |
 | 77 | 677 | TheNeesh50 |
@@ -130,8 +130,8 @@
 | 122 | 471 | Chastity Mitchell |
 | 123 | 458 | Twisty Clicky |
 | 124 | 452 | Jolly Dashfit |
-| 125 | 451 | Peachy Fall |
-| 126 | 451 | Angela Srubar-Norman |
+| 125 | 451 | Angela Srubar-Norman |
+| 126 | 451 | Peachy Fall |
 | 127 | 448 | Kristin Manee |
 | 128 | 435 | Leslie Thomas |
 | 129 | 431 | Courtney Cicoria |
@@ -191,8 +191,8 @@
 | 183 | 313 | Zippy Block |
 | 184 | 309 | Crystal Nicolette Moore |
 | 185 | 309 | Chris Bernstein |
-| 186 | 307 | Holly Jolly |
-| 187 | 307 | Bio Nelly |
+| 186 | 307 | Bio Nelly |
+| 187 | 307 | Holly Jolly |
 | 188 | 306 | blockstar |
 | 189 | 305 | Kathy Brookins |
 | 190 | 304 | Michele Plunkett |
@@ -215,7 +215,7 @@
 | 207 | 286 | Sam Bishop |
 | 208 | 284 | Mimi |
 | 209 | 282 | Matt Gooder |
-| 210 | 281 | Kim Klutz Olson |
+| 210 | 281 | Laura |
 | 211 | 281 | Nikki Rae Gordon |
 | 212 | 281 | Kim Klutz Olson |
 | 213 | 280 | scott |

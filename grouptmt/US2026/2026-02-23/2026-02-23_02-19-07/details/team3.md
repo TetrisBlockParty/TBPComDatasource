@@ -187,8 +187,8 @@
 | 179 | 490 | Loopy Fallmatch |
 | 180 | 489 | Shannon Matthew Byers |
 | 181 | 488 | Melissa Orth Hunter |
-| 182 | 485 | Dapper Snap |
-| 183 | 485 | Terry Jo Jones |
+| 182 | 485 | Terry Jo Jones |
+| 183 | 485 | Dapper Snap |
 | 184 | 483 | FuzzyNavel |
 | 185 | 480 | Danielle Allison |
 | 186 | 479 | Poppy Splitter |
@@ -237,13 +237,13 @@
 | 229 | 387 | Gideon Walker |
 | 230 | 384 | Marci Mize Fandrich |
 | 231 | 383 | Darlene McMillan |
-| 232 | 382 | Scott Carleton |
-| 233 | 382 | Giddy Twistbuilder |
+| 232 | 382 | Giddy Twistbuilder |
+| 233 | 382 | Scott Carleton |
 | 234 | 380 | Rebecca Bailey |
 | 235 | 378 | Chris Bell |
 | 236 | 375 | Kristal C Lee |
-| 237 | 372 | Rich LeBlanc |
-| 238 | 372 | Sarah Moyer |
+| 237 | 372 | Sarah Moyer |
+| 238 | 372 | Rich LeBlanc |
 | 239 | 370 | RickyG |
 | 240 | 369 | Marquita Sheard |
 | 241 | 369 | Keis |

@@ -344,8 +344,8 @@
 | 336 | 823 | Alezandra Smith |
 | 337 | 821 | Angie Bolton Workman |
 | 338 | 821 | Cassie Mercer |
-| 339 | 818 | Lola Contreras |
-| 340 | 818 | Jessica Wayne Cornwall |
+| 339 | 818 | Jessica Wayne Cornwall |
+| 340 | 818 | Lola Contreras |
 | 341 | 816 | James Simms III |
 | 342 | 812 | Jackie Lucas |
 | 343 | 812 | Samantha Jo |

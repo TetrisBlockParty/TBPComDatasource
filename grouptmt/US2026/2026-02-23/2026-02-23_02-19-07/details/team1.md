@@ -59,8 +59,8 @@
 | 51 | 829 | Sevens4L |
 | 52 | 812 | Patrick Luckenbill |
 | 53 | 797 | Lawrence Belanger |
-| 54 | 783 | Redlicious 1 |
-| 55 | 783 | TSwag |
+| 54 | 783 | TSwag |
+| 55 | 783 | Redlicious 1 |
 | 56 | 779 | Andrea Dañielle Ortiz |
 | 57 | 772 | Tinah Montanna |
 | 58 | 770 | Zappy Curvetile |
@@ -129,8 +129,8 @@
 | 121 | 416 | Dandy Basegrid |
 | 122 | 409 | Goose egg |
 | 123 | 409 | Yvonne Marie |
-| 124 | 406 | Candy Jones |
-| 125 | 406 | Desiree Deschaine Havee |
+| 124 | 406 | Desiree Deschaine Havee |
+| 125 | 406 | Candy Jones |
 | 126 | 402 | Chris K |
 | 127 | 400 | Maria C. Hernandez |
 | 128 | 399 | Nery Martinez |
@@ -141,8 +141,8 @@
 | 133 | 387 | Emily Adelaide Wheatley |
 | 134 | 386 | Ty Brown |
 | 135 | 383 | pjbeta |
-| 136 | 379 | Kimmie Kimms |
-| 137 | 379 | Austin James |
+| 136 | 379 | Austin James |
+| 137 | 379 | Kimmie Kimms |
 | 138 | 376 | Brian Richardsson |
 | 139 | 371 | Jason Savage |
 | 140 | 368 | Death |
@@ -162,8 +162,8 @@
 | 154 | 343 | Chelsea Dahlquist |
 | 155 | 343 | Elaine Elaine |
 | 156 | 342 | Rachael |
-| 157 | 341 | Shiny Snapfit |
-| 158 | 341 | Nick R Montague |
+| 157 | 341 | Nick R Montague |
+| 158 | 341 | Shiny Snapfit |
 | 159 | 338 | Jennifer Hardman |
 | 160 | 337 | Jamise Brown |
 | 161 | 337 | Constance Risner |
