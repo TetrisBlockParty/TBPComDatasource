@@ -79,8 +79,8 @@
 | 71 | 749 | Dustee Craddock-Harrison |
 | 72 | 742 | Carolyn Wallace |
 | 73 | 740 | Avy Absol |
-| 74 | 736 | Goatimus Lombardi |
-| 75 | 736 | Crystal Carroll |
+| 74 | 736 | Crystal Carroll |
+| 75 | 736 | Goatimus Lombardi |
 | 76 | 728 | D3TROITB0RN74 |
 | 77 | 723 | TheNeesh50 |
 | 78 | 706 | Lisa Davis |
@@ -121,8 +121,8 @@
 | 113 | 519 | Nugget |
 | 114 | 517 | Christina LR |
 | 115 | 517 | shar |
-| 116 | 514 | Scott Jameson |
-| 117 | 514 | Serena Goodridge |
+| 116 | 514 | Serena Goodridge |
+| 117 | 514 | Scott Jameson |
 | 118 | 513 | Erin Thomas |
 | 119 | 512 | Casey Jeffcoat |
 | 120 | 512 | Cristy Duerksen |
@@ -138,8 +138,8 @@
 | 130 | 458 | Twisty Clicky |
 | 131 | 451 | Peachy Fall |
 | 132 | 448 | Kristin Manee |
-| 133 | 435 | Leslie Thomas |
-| 134 | 435 | Kristina Black |
+| 133 | 435 | Kristina Black |
+| 134 | 435 | Leslie Thomas |
 | 135 | 434 | Monica Daley |
 | 136 | 432 | Zippy Block |
 | 137 | 431 | Courtney Cicoria |
@@ -182,11 +182,11 @@
 | 174 | 356 | George Nutt |
 | 175 | 354 | TRCuse |
 | 176 | 352 | Sue Joyce Staats |
-| 177 | 349 | Rafael Valentin |
-| 178 | 349 | Twisty Cascadezone |
+| 177 | 349 | Twisty Cascadezone |
+| 178 | 349 | Rafael Valentin |
 | 179 | 348 | April Rondinone |
-| 180 | 347 | Crystal Nicolette Moore |
-| 181 | 347 | Daria Rycewicz |
+| 180 | 347 | Daria Rycewicz |
+| 181 | 347 | Crystal Nicolette Moore |
 | 182 | 339 | David Lay |
 | 183 | 336 | Bio Nelly |
 | 184 | 335 | James Hurley Jr. |
@@ -202,12 +202,12 @@
 | 194 | 321 | Meagan Nicole |
 | 195 | 320 | Lauren Scott |
 | 196 | 318 | Chris Hartig |
-| 197 | 316 | Autumn Kumzi |
-| 198 | 316 | Cursed Hag |
+| 197 | 316 | Cursed Hag |
+| 198 | 316 | Autumn Kumzi |
 | 199 | 311 | Mary Ann Pabukis |
 | 200 | 310 | Holly Jolly |
-| 201 | 307 | Michele Plunkett |
-| 202 | 307 | Cheery Risebuilder |
+| 201 | 307 | Cheery Risebuilder |
+| 202 | 307 | Michele Plunkett |
 | 203 | 306 | blockstar |
 | 204 | 305 | Melvin Baird |
 | 205 | 304 | Lindsay Ball |
@@ -708,7 +708,7 @@
 | 700 | 95 | Chirpy Slammer |
 | 701 | 94 | SAP |
 | 702 | 94 | Brian Owens |
-| 703 | 94 | SAP |
+| 703 | 94 | moneybagz |
 | 704 | 94 | Myra LaTrice |
 | 705 | 93 | Sholom Fried |
 | 706 | 93 | Alo |

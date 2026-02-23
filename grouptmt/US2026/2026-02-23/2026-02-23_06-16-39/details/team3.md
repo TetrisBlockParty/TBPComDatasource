@@ -282,8 +282,8 @@
 | 274 | 353 | Dee Franklin |
 | 275 | 353 | Cyd061769 |
 | 276 | 352 | Christian Werndl |
-| 277 | 351 | Eon Harris |
-| 278 | 351 | Blocked |
+| 277 | 351 | Blocked |
+| 278 | 351 | Eon Harris |
 | 279 | 350 | LaShey Thompson |
 | 280 | 349 | Amanda J. Mcneil-Anderson |
 | 281 | 347 | Tye Stovall |
@@ -375,17 +375,17 @@
 | 367 | 275 | Cassandra Bryant |
 | 368 | 274 | Mary Giorgenti |
 | 369 | 274 | Ava Petito |
-| 370 | 273 | Brenda Schmid Wood |
-| 371 | 273 | France Vézina |
-| 372 | 272 | Romeo |
-| 373 | 272 | Todd Hall |
+| 370 | 273 | France Vézina |
+| 371 | 273 | Brenda Schmid Wood |
+| 372 | 272 | Todd Hall |
+| 373 | 272 | Romeo |
 | 374 | 272 | Tay |
 | 375 | 269 | Juliana Dottore |
 | 376 | 269 | Samantha Worley |
 | 377 | 269 | Jess Bissett |
 | 378 | 268 | Jessica Lynn French |
-| 379 | 267 | Jul |
-| 380 | 267 | April Matthew Kibble |
+| 379 | 267 | April Matthew Kibble |
+| 380 | 267 | Jul |
 | 381 | 267 | Michael Kimbro |
 | 382 | 266 | Quirky Dropzone |
 | 383 | 265 | angieelyn |
@@ -420,10 +420,10 @@
 | 412 | 248 | Brian Battjes |
 | 413 | 247 | Jessica |
 | 414 | 247 | Kevin Russell |
-| 415 | 245 | Latoya Mayne |
-| 416 | 245 | LaNette Morgan |
-| 417 | 244 | Lys |
-| 418 | 244 | Beezwax |
+| 415 | 245 | LaNette Morgan |
+| 416 | 245 | Latoya Mayne |
+| 417 | 244 | Beezwax |
+| 418 | 244 | Lys |
 | 419 | 244 | Quackers |
 | 420 | 243 | Paula Little |
 | 421 | 243 | Nicholas Roddy |
@@ -670,7 +670,7 @@
 | 662 | 161 | Patty White |
 | 663 | 161 | Paul Larsen |
 | 664 | 161 | bean |
-| 665 | 160 | Bastian Campbell |
+| 665 | 160 | Cheery Brickster |
 | 666 | 160 | Tipsy Puzzle |
 | 667 | 160 | Bastian Campbell |
 | 668 | 159 | Wetwet |
@@ -747,8 +747,8 @@
 | 739 | 144 | Tiffany's TwinsRus Thrifty |
 | 740 | 144 | Clever Edgepiece |
 | 741 | 143 | Russell Hankinson |
-| 742 | 143 | Melissa Parlow-Callaway |
-| 743 | 143 | Lisa Lisa |
+| 742 | 143 | Lisa Lisa |
+| 743 | 143 | Melissa Parlow-Callaway |
 | 744 | 142 | Michelle Allers |
 | 745 | 142 | Giddy Basepiece |
 | 746 | 142 | get et |

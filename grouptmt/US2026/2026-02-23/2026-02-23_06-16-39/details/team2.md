@@ -211,8 +211,8 @@
 | 203 | 1286 | Altamirano Michael |
 | 204 | 1282 | Tanya Parsons |
 | 205 | 1259 | Foxxo |
-| 206 | 1258 | Joyce Johnson Vaughn |
-| 207 | 1258 | Snappy Matchbuilder |
+| 206 | 1258 | Snappy Matchbuilder |
+| 207 | 1258 | Joyce Johnson Vaughn |
 | 208 | 1252 | Angel |
 | 209 | 1245 | Cody Nishimura |
 | 210 | 1237 | Megan Ferguson Leone |
@@ -300,8 +300,8 @@
 | 292 | 987 | Osun Anuket Esu |
 | 293 | 984 | Crystal Hoffman |
 | 294 | 981 | Ashlen Dorrell |
-| 295 | 979 | Melissa Penelope Ann Dodge |
-| 296 | 979 | Hillary Crawford |
+| 295 | 979 | Hillary Crawford |
+| 296 | 979 | Melissa Penelope Ann Dodge |
 | 297 | 978 | April Dawn Gussler |
 | 298 | 976 | Sam Joe |
 | 299 | 976 | Della Hole |
@@ -383,8 +383,8 @@
 | 375 | 816 | James Simms III |
 | 376 | 816 | Beth |
 | 377 | 812 | Samantha Jo |
-| 378 | 808 | Laura McCarthey |
-| 379 | 808 | Desire Rice |
+| 378 | 808 | Desire Rice |
+| 379 | 808 | Laura McCarthey |
 | 380 | 808 | Connie Jimenez |
 | 381 | 804 | Becca Coronado |
 | 382 | 801 | Diana Fitzwater |
@@ -394,8 +394,8 @@
 | 386 | 796 | AndrewandShela Gornik |
 | 387 | 796 | Amber Gray |
 | 388 | 793 | Heather Schelkopf |
-| 389 | 793 | Jaycee |
-| 390 | 793 | Arlene Joy Belicina |
+| 389 | 793 | Arlene Joy Belicina |
+| 390 | 793 | Jaycee |
 | 391 | 790 | Kathryn Townsley |
 | 392 | 790 | Brenda Pierpoint |
 | 393 | 788 | Erika Densmore |
@@ -444,8 +444,8 @@
 | 436 | 728 | Dylan Thomason |
 | 437 | 728 | Tom Riefer |
 | 438 | 726 | Crystal Greene |
-| 439 | 725 | Karen Snyder Schrage |
-| 440 | 725 | Vonceial Boone |
+| 439 | 725 | Vonceial Boone |
+| 440 | 725 | Karen Snyder Schrage |
 | 441 | 725 | Jennie Lee Huntley |
 | 442 | 725 | Ashle Scranton |
 | 443 | 724 | Melissa Holsinger |
