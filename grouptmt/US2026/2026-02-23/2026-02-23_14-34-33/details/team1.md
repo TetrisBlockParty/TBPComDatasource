@@ -232,17 +232,17 @@
 | 224 | 339 | Tyler Hertzog |
 | 225 | 337 | Jamise Brown |
 | 226 | 335 | Keith Mathis |
-| 227 | 333 | Virginia Gray Floyd |
-| 228 | 333 | Jennifer Noe Chandler |
+| 227 | 333 | Jennifer Noe Chandler |
+| 228 | 333 | Virginia Gray Floyd |
 | 229 | 332 | Happy Basegrid |
 | 230 | 328 | Snappy Matcher |
 | 231 | 327 | Jen Nystrom |
 | 232 | 325 | GringaLinga |
 | 233 | 324 | Rat666 |
-| 234 | 323 | Eric DeSimone |
-| 235 | 323 | Madison Wicks |
-| 236 | 322 | Angela Renea Lester |
-| 237 | 322 | Letson Melissa |
+| 234 | 323 | Madison Wicks |
+| 235 | 323 | Eric DeSimone |
+| 236 | 322 | Letson Melissa |
+| 237 | 322 | Angela Renea Lester |
 | 238 | 319 | Frothy Pattern |
 | 239 | 317 | Sarah Roberts |
 | 240 | 316 | Sassy Builderline |
@@ -262,8 +262,8 @@
 | 254 | 301 | Brave Wrecker |
 | 255 | 301 | Glitzy Curvebuilder |
 | 256 | 298 | Sweetts |
-| 257 | 298 | Kimberly Davis |
-| 258 | 298 | Billie Ann Eason |
+| 257 | 298 | Billie Ann Eason |
+| 258 | 298 | Kimberly Davis |
 | 259 | 297 | Diane Byrd |
 | 260 | 290 | Hellsin |
 | 261 | 290 | Tavia |
@@ -273,8 +273,8 @@
 | 265 | 286 | Sarahdactyl |
 | 266 | 285 | Shanae Grant |
 | 267 | 284 | Sam Williams |
-| 268 | 283 | Franswa |
-| 269 | 283 | Larry Tilton |
+| 268 | 283 | Larry Tilton |
+| 269 | 283 | Franswa |
 | 270 | 282 | Timothy Dew |
 | 271 | 281 | Clever Cascadepiece |
 | 272 | 280 | Billie Dawn Sparks |

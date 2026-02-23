@@ -135,8 +135,8 @@
 | 127 | 774 | Keith J Oshman Jr. |
 | 128 | 773 | Daira Largen |
 | 129 | 770 | Daryn Elliott |
-| 130 | 764 | Groovy Catcher |
-| 131 | 764 | Hasty Cascadefit |
+| 130 | 764 | Hasty Cascadefit |
+| 131 | 764 | Groovy Catcher |
 | 132 | 762 | Speedy Bridger |
 | 133 | 757 | Fancy Cascader |
 | 134 | 755 | Katrina Schroeder |
@@ -298,8 +298,8 @@
 | 290 | 382 | Salena Whitlock |
 | 291 | 381 | France Vézina |
 | 292 | 380 | Rebecca Bailey |
-| 293 | 379 | Philip Rock |
-| 294 | 379 | JessDrown |
+| 293 | 379 | JessDrown |
+| 294 | 379 | Philip Rock |
 | 295 | 378 | Chris Bell |
 | 296 | 378 | MsBee |
 | 297 | 376 | Sarah Moyer |
@@ -342,8 +342,8 @@
 | 334 | 342 | ROODBOY |
 | 335 | 341 | Rick Poppen |
 | 336 | 341 | Lys |
-| 337 | 340 | Nikki Pags |
-| 338 | 340 | Erika Thornton |
+| 337 | 340 | Erika Thornton |
+| 338 | 340 | Nikki Pags |
 | 339 | 338 | fraulila |
 | 340 | 335 | victory |
 | 341 | 333 | Nikki White |
