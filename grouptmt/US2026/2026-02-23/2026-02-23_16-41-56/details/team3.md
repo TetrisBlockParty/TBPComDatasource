@@ -84,8 +84,8 @@
 | 76 | 1244 | Lori Barnaby |
 | 77 | 1229 | Araceli Parra |
 | 78 | 1221 | Betty Ivy |
-| 79 | 1213 | Snappy Glidepiece |
-| 80 | 1213 | Nerdy Riseclear |
+| 79 | 1213 | Nerdy Riseclear |
+| 80 | 1213 | Snappy Glidepiece |
 | 81 | 1212 | Amanda Adkins |
 | 82 | 1186 | Christian A. Pollard |
 | 83 | 1158 | Danielle Mogg |
@@ -142,8 +142,8 @@
 | 134 | 774 | Keith J Oshman Jr. |
 | 135 | 773 | Daira Largen |
 | 136 | 770 | Daryn Elliott |
-| 137 | 764 | Hasty Cascadefit |
-| 138 | 764 | Groovy Catcher |
+| 137 | 764 | Groovy Catcher |
+| 138 | 764 | Hasty Cascadefit |
 | 139 | 762 | Speedy Bridger |
 | 140 | 759 | yoyo |
 | 141 | 757 | Fancy Cascader |
@@ -267,8 +267,8 @@
 | 259 | 451 | Micayah Stevens |
 | 260 | 449 | Mcathen |
 | 261 | 448 | Scott Carleton |
-| 262 | 443 | Fancy Curver |
-| 263 | 443 | Stefanie LaPointe |
+| 262 | 443 | Stefanie LaPointe |
+| 263 | 443 | Fancy Curver |
 | 264 | 443 | Randy Clevenger |
 | 265 | 442 | Marquita Sheard |
 | 266 | 437 | Loopy Clusterer |
@@ -401,10 +401,10 @@
 | 393 | 312 | Eric Caccavale |
 | 394 | 311 | Noettín Kan Zasnemoore |
 | 395 | 311 | Troy |
-| 396 | 309 | Cheeky Snapper |
-| 397 | 309 | Block Baddie |
-| 398 | 308 | Katrina Turner |
-| 399 | 308 | Tia |
+| 396 | 309 | Block Baddie |
+| 397 | 309 | Cheeky Snapper |
+| 398 | 308 | Tia |
+| 399 | 308 | Katrina Turner |
 | 400 | 308 | Beejangles |
 | 401 | 307 | Kristina Gardner |
 | 402 | 307 | Kristian Thurman |
