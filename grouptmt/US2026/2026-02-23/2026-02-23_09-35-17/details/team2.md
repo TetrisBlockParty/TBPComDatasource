@@ -44,8 +44,8 @@
 | 36 | 4199 | Claire Noland |
 | 37 | 4128 | Angela Pruitt |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Kristen Sceurman |
-| 40 | 4120 | Corrine Hawks Soriano |
+| 39 | 4120 | Corrine Hawks Soriano |
+| 40 | 4120 | Kristen Sceurman |
 | 41 | 3947 | Melinda Brown |
 | 42 | 3845 | jayjay |
 | 43 | 3813 | Devin Lee |
@@ -285,10 +285,10 @@
 | 277 | 1045 | Bri Lynn |
 | 278 | 1045 | Lourisha |
 | 279 | 1044 | Jennifer Aiken |
-| 280 | 1043 | Brave Dropmatch |
-| 281 | 1043 | nikki |
-| 282 | 1036 | Amber Shoemaker |
-| 283 | 1036 | Allison Lockyer |
+| 280 | 1043 | nikki |
+| 281 | 1043 | Brave Dropmatch |
+| 282 | 1036 | Allison Lockyer |
+| 283 | 1036 | Amber Shoemaker |
 | 284 | 1026 | Kristin Gower |
 | 285 | 1026 | F-X |
 | 286 | 1024 | Susan Perraut Jones |
@@ -311,15 +311,15 @@
 | 303 | 976 | Sam Joe |
 | 304 | 976 | Della Hole |
 | 305 | 975 | Hyper Cluster |
-| 306 | 972 | Binyah-Binyah |
-| 307 | 972 | Barbra Miller |
+| 306 | 972 | Barbra Miller |
+| 307 | 972 | Binyah-Binyah |
 | 308 | 971 | Jojo Momma |
-| 309 | 969 | Boldy Cascadepiece |
-| 310 | 969 | Em Chen |
+| 309 | 969 | Em Chen |
+| 310 | 969 | Boldy Cascadepiece |
 | 311 | 961 | Angela Lynn |
 | 312 | 959 | Phil J. Grombliniak |
-| 313 | 958 | Brenda Messer |
-| 314 | 958 | Doowop40 |
+| 313 | 958 | Doowop40 |
+| 314 | 958 | Brenda Messer |
 | 315 | 957 | Block Master |
 | 316 | 955 | Angela Bonquiqui Dinish |
 | 317 | 954 | Melissa McCall |
@@ -439,8 +439,8 @@
 | 431 | 751 | Breezy Filler |
 | 432 | 750 | Draizen Montrell Thomas |
 | 433 | 748 | Spunkysmom |
-| 434 | 748 | Brenda Utphall |
-| 435 | 748 | Ann Matzkanin |
+| 434 | 748 | Ann Matzkanin |
+| 435 | 748 | Brenda Utphall |
 | 436 | 746 | Leslie Ann Carter |
 | 437 | 742 | tejas25 |
 | 438 | 741 | Jánine Riggs |
@@ -448,8 +448,8 @@
 | 440 | 737 | Ginger |
 | 441 | 737 | Chelle |
 | 442 | 732 | Victoria Moore-Smith |
-| 443 | 731 | Matthew Joseph Acevedo |
-| 444 | 731 | Charvi' Carter |
+| 443 | 731 | Charvi' Carter |
+| 444 | 731 | Matthew Joseph Acevedo |
 | 445 | 730 | Hoppy Brickmatch |
 | 446 | 729 | goofinoff |
 | 447 | 728 | Mikayala Szaz |
