@@ -207,8 +207,8 @@
 | 199 | 1244 | Teddi Notyalc |
 | 200 | 1243 | Anna Edwards |
 | 201 | 1237 | Megan Ferguson Leone |
-| 202 | 1232 | Groovy Puzzle |
-| 203 | 1232 | Ambyre Patterson |
+| 202 | 1232 | Ambyre Patterson |
+| 203 | 1232 | Groovy Puzzle |
 | 204 | 1230 | Megan Garrick |
 | 205 | 1217 | Brooks Brooks |
 | 206 | 1217 | Lucky Ladybug |
@@ -406,8 +406,8 @@
 | 398 | 748 | Stephanie Lumanlan |
 | 399 | 748 | Brenda Utphall |
 | 400 | 747 | Kiely Tomaskovich |
-| 401 | 746 | Jerilyn Andrina |
-| 402 | 746 | Leslie Ann Carter |
+| 401 | 746 | Leslie Ann Carter |
+| 402 | 746 | Jerilyn Andrina |
 | 403 | 746 | Aimee Campbell |
 | 404 | 744 | Mandi Douglas Hilt |
 | 405 | 743 | Tiara Elizabeth Baker |
@@ -463,8 +463,8 @@
 | 455 | 680 | blume |
 | 456 | 679 | Kassandra Hunt |
 | 457 | 678 | AgileDragon |
-| 458 | 677 | Amanda Woodruff |
-| 459 | 677 | Ellie Jonas |
+| 458 | 677 | Ellie Jonas |
+| 459 | 677 | Amanda Woodruff |
 | 460 | 677 | Kayleigh Wisse |
 | 461 | 676 | Roseanna Peloso |
 | 462 | 676 | Brandon Armstrong |

@@ -227,8 +227,8 @@
 | 219 | 275 | Chris65 |
 | 220 | 275 | Cheeky Pop |
 | 221 | 273 | Shannon Marie Pitts |
-| 222 | 271 | Sam Williams |
-| 223 | 271 | Frothy Pattern |
+| 222 | 271 | Frothy Pattern |
+| 223 | 271 | Sam Williams |
 | 224 | 270 | Debbie Kane |
 | 225 | 267 | Clever Cascadepiece |
 | 226 | 265 | Kandae |
@@ -301,9 +301,9 @@
 | 293 | 217 | Phu ckalldems |
 | 294 | 217 | Cheeky Crusher |
 | 295 | 216 | Angela Spann |
-| 296 | 216 | Shauntina Burke |
-| 297 | 216 | Chad Atchley |
-| 298 | 216 | Zany Tiler |
+| 296 | 216 | Zany Tiler |
+| 297 | 216 | Shauntina Burke |
+| 298 | 216 | Chad Atchley |
 | 299 | 215 | Christina Norman |
 | 300 | 214 | Tiger Lily |
 | 301 | 214 | Sean Stallings |

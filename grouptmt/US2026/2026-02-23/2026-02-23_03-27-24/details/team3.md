@@ -117,8 +117,8 @@
 | 109 | 828 | Araceli Parra |
 | 110 | 826 | Shane Wilson Jr. |
 | 111 | 824 | Suzieq |
-| 112 | 816 | Jesse Olive |
-| 113 | 816 | Brenda Lee Vander Molen |
+| 112 | 816 | Brenda Lee Vander Molen |
+| 113 | 816 | Jesse Olive |
 | 114 | 800 | Lauren Girouard |
 | 115 | 799 | Dolores Falco |
 | 116 | 762 | Speedy Bridger |
@@ -278,15 +278,15 @@
 | 270 | 346 | Tamara Deherrera |
 | 271 | 345 | MsBee |
 | 272 | 344 | Roary Danner |
-| 273 | 343 | Ashley Raines |
-| 274 | 343 | Ashley Rufus Bythcez |
+| 273 | 343 | Ashley Rufus Bythcez |
+| 274 | 343 | Ashley Raines |
 | 275 | 341 | Ashley Tookes |
 | 276 | 339 | Cynthia Herrmann Egland |
 | 277 | 338 | Gumbo |
 | 278 | 336 | Jojo M |
 | 279 | 335 | victory |
-| 280 | 332 | Velma Mull |
-| 281 | 332 | Brittany |
+| 280 | 332 | Brittany |
+| 281 | 332 | Velma Mull |
 | 282 | 331 | Gray Hicks |
 | 283 | 326 | Kerry Nowickshere |
 | 284 | 325 | Tasha Wesson-Torrence |
@@ -308,8 +308,8 @@
 | 300 | 303 | Hoppy Buildout |
 | 301 | 303 | Alexmac |
 | 302 | 302 | LaShey Thompson |
-| 303 | 301 | Tiffany Davie |
-| 304 | 301 | Betty Rosas |
+| 303 | 301 | Betty Rosas |
+| 304 | 301 | Tiffany Davie |
 | 305 | 299 | Angie Harper |
 | 306 | 298 | Grams |
 | 307 | 297 | Cheeky Snapper |
