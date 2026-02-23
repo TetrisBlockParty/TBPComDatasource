@@ -202,8 +202,8 @@
 | 194 | 655 | Rochelle Hazelett |
 | 195 | 651 | Domo Washington |
 | 196 | 642 | Rania Zaqout |
-| 197 | 641 | Makelini Mausia |
-| 198 | 641 | Kristal C Lee |
+| 197 | 641 | Kristal C Lee |
+| 198 | 641 | Makelini Mausia |
 | 199 | 640 | JessDrown |
 | 200 | 636 | Cesar Barraza |
 | 201 | 635 | Tasha Gillespie |
@@ -264,8 +264,8 @@
 | 256 | 520 | Cozy Snaplink |
 | 257 | 519 | Nichol Graham |
 | 258 | 516 | Daring Brickzone |
-| 259 | 513 | PrncssPJ |
-| 260 | 513 | Giggy Glidepiece |
+| 259 | 513 | Giggy Glidepiece |
+| 260 | 513 | PrncssPJ |
 | 261 | 513 | Lizabeth Fox |
 | 262 | 510 | Marquita Sheard |
 | 263 | 508 | joz |
@@ -341,8 +341,8 @@
 | 333 | 405 | Chris Bell |
 | 334 | 405 | Andrew Thorson |
 | 335 | 404 | Cheryl Hinch Tenbrook |
-| 336 | 403 | lashanda |
-| 337 | 403 | Stephanie Burtin |
+| 336 | 403 | Stephanie Burtin |
+| 337 | 403 | lashanda |
 | 338 | 403 | Scott Lindsay |
 | 339 | 401 | block chick |
 | 340 | 401 | Tay |
@@ -406,8 +406,8 @@
 | 398 | 345 | victory |
 | 399 | 344 | Beaudie Stroebel |
 | 400 | 343 | Brittany |
-| 401 | 342 | Christina Marie Swisher |
-| 402 | 342 | Cynthia Herrmann Egland |
+| 401 | 342 | Cynthia Herrmann Egland |
+| 402 | 342 | Christina Marie Swisher |
 | 403 | 341 | Eboni Starr |
 | 404 | 341 | Lys |
 | 405 | 340 | Erika Thornton |
@@ -547,8 +547,8 @@
 | 539 | 275 | Bnoom |
 | 540 | 275 | Scott Doss |
 | 541 | 273 | Michael Latasha Gray |
-| 542 | 273 | Kevin Fountain |
-| 543 | 273 | Jason |
+| 542 | 273 | Jason |
+| 543 | 273 | Kevin Fountain |
 | 544 | 273 | BigE |
 | 545 | 272 | Megan Riggins |
 | 546 | 272 | Todd Hall |

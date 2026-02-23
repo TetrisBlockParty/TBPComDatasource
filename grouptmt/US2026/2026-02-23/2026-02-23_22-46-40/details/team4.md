@@ -96,8 +96,8 @@
 | 88 | 783 | Guy Incognito |
 | 89 | 783 | Denise Carlson |
 | 90 | 775 | Klo |
-| 91 | 768 | Judy Cox |
-| 92 | 768 | Trista Leah |
+| 91 | 768 | Trista Leah |
+| 92 | 768 | Judy Cox |
 | 93 | 767 | Shannon Ferrari |
 | 94 | 766 | Robin Watters |
 | 95 | 764 | Valerie Roberts |
@@ -162,8 +162,8 @@
 | 154 | 520 | Zippy Block |
 | 155 | 519 | Lucas J Sutton |
 | 156 | 518 | Carly Alexis |
-| 157 | 516 | Twisty Clicky |
-| 158 | 516 | Trish |
+| 157 | 516 | Trish |
+| 158 | 516 | Twisty Clicky |
 | 159 | 514 | Scott Jameson |
 | 160 | 513 | Jessica Lynn Cutlip |
 | 161 | 513 | Erin Thomas |
@@ -195,12 +195,12 @@
 | 187 | 465 | Jolly Dashfit |
 | 188 | 464 | Sharyn Lemire |
 | 189 | 462 | Leslie Thomas |
-| 190 | 457 | Kristin Manee |
-| 191 | 457 | June Hoffman |
+| 190 | 457 | June Hoffman |
+| 191 | 457 | Kristin Manee |
 | 192 | 455 | Michele Plunkett |
 | 193 | 450 | Amanda Pauldo-Ivy |
-| 194 | 449 | Rebecca Morris |
-| 195 | 449 | Courtney Cicoria |
+| 194 | 449 | Courtney Cicoria |
+| 195 | 449 | Rebecca Morris |
 | 196 | 448 | Kesha Brady |
 | 197 | 447 | Crystal Nicolette Moore |
 | 198 | 444 | J-Rizzle |
@@ -277,11 +277,11 @@
 | 269 | 350 | Jen Caldwell |
 | 270 | 349 | jim |
 | 271 | 348 | blasterB |
-| 272 | 347 | Daria Rycewicz |
-| 273 | 347 | Gdiguy |
+| 272 | 347 | Gdiguy |
+| 273 | 347 | Daria Rycewicz |
 | 274 | 343 | HastyGrabber |
-| 275 | 340 | Cranky Rollpiece |
-| 276 | 340 | Lauren Lamb |
+| 275 | 340 | Lauren Lamb |
+| 276 | 340 | Cranky Rollpiece |
 | 277 | 340 | Amanda Maciel Clarke |
 | 278 | 330 | Sandra Safford |
 | 279 | 329 | Joanna |
@@ -293,8 +293,8 @@
 | 285 | 321 | Meagan Nicole |
 | 286 | 317 | Madison Sweere |
 | 287 | 316 | Stella |
-| 288 | 315 | Heather Bruce |
-| 289 | 315 | Vic |
+| 288 | 315 | Vic |
+| 289 | 315 | Heather Bruce |
 | 290 | 314 | Lora |
 | 291 | 313 | Angie Schmidt |
 | 292 | 313 | DonMega |
@@ -336,8 +336,8 @@
 | 328 | 284 | rebel4lyfe |
 | 329 | 284 | Malakai Darien Fox |
 | 330 | 283 | Jackie Clark |
-| 331 | 282 | Shiny Pivoty |
-| 332 | 282 | DQ Martin |
+| 331 | 282 | DQ Martin |
+| 332 | 282 | Shiny Pivoty |
 | 333 | 282 | Bradley Reeves |
 | 334 | 281 | Amy Sanford |
 | 335 | 281 | Morti |
@@ -1481,8 +1481,8 @@
 | 1473 | 35 | Joey Goodrum |
 | 1474 | 35 | Mimi |
 | 1475 | 35 | Albert Mariano |
-| 1476 | 35 | Nayyirah Hariyyan |
-| 1477 | 35 | Courtney Cassidy |
+| 1476 | 35 | Courtney Cassidy |
+| 1477 | 35 | Nayyirah Hariyyan |
 | 1478 | 34 | Sarah Elizabeth Baker |
 | 1479 | 34 | Jonathan Colon |
 | 1480 | 34 | Tj Colman |
