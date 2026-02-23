@@ -210,8 +210,8 @@
 | 202 | 376 | Zesty Twistbuilder |
 | 203 | 376 | shark tato |
 | 204 | 372 | George Nutt |
-| 205 | 368 | Holly Jolly |
-| 206 | 368 | Lauren Scott |
+| 205 | 368 | Lauren Scott |
+| 206 | 368 | Holly Jolly |
 | 207 | 367 | Sue Joyce Staats |
 | 208 | 364 | Mr. Party |
 | 209 | 363 | Cindy Looper |
@@ -290,8 +290,8 @@
 | 282 | 284 | Glitzy Corner |
 | 283 | 281 | Morti |
 | 284 | 281 | Laura |
-| 285 | 278 | Angela Geist Jusinski |
-| 286 | 278 | Sarah Brown |
+| 285 | 278 | Sarah Brown |
+| 286 | 278 | Angela Geist Jusinski |
 | 287 | 276 | Lee Silpe |
 | 288 | 276 | Susan Williams |
 | 289 | 276 | Cynthia Boudreau |
@@ -333,8 +333,8 @@
 | 325 | 251 | Carol Ricks Raymond |
 | 326 | 251 | Kathy Allen |
 | 327 | 249 | Ak Jones |
-| 328 | 248 | Angelito |
-| 329 | 248 | Chirpy Basepiece |
+| 328 | 248 | Chirpy Basepiece |
+| 329 | 248 | Angelito |
 | 330 | 248 | Jose Dejesus |
 | 331 | 247 | Vic |
 | 332 | 247 | Stephme310 |
@@ -504,8 +504,8 @@
 | 496 | 170 | Elie Pean |
 | 497 | 170 | Peppy Drop |
 | 498 | 170 | Joshua W. Benton |
-| 499 | 169 | Dante Korleon |
-| 500 | 169 | Joseph Pace |
+| 499 | 169 | Joseph Pace |
+| 500 | 169 | Dante Korleon |
 | 501 | 168 | Melissa VanBourgondien |
 | 502 | 167 | Snippy Clearer |
 | 503 | 167 | Dapper Frame |
