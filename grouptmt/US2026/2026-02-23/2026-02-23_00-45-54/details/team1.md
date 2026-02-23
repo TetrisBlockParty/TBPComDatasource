@@ -138,8 +138,8 @@
 | 130 | 386 | David Miller |
 | 131 | 386 | Ty Brown |
 | 132 | 383 | pjbeta |
-| 133 | 379 | Austin James |
-| 134 | 379 | Kimmie Kimms |
+| 133 | 379 | Kimmie Kimms |
+| 134 | 379 | Austin James |
 | 135 | 376 | Brian Richardsson |
 | 136 | 376 | lil mickey |
 | 137 | 368 | Death |

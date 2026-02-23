@@ -161,8 +161,8 @@
 | 153 | 1484 | PsychKIRAtrist |
 | 154 | 1461 | Brandy Andre |
 | 155 | 1459 | Debra Williams |
-| 156 | 1450 | Cody Smith-Candelaria |
-| 157 | 1450 | Shiny Rollzone |
+| 156 | 1450 | Shiny Rollzone |
+| 157 | 1450 | Cody Smith-Candelaria |
 | 158 | 1418 | L3sli3 |
 | 159 | 1416 | Nancy Reid |
 | 160 | 1411 | niecy |
@@ -360,8 +360,8 @@
 | 352 | 769 | Melissa Cole |
 | 353 | 768 | Joshua Self |
 | 354 | 768 | Arkei Luster |
-| 355 | 767 | Fancy Twister |
-| 356 | 767 | Ashley Lopez |
+| 355 | 767 | Ashley Lopez |
+| 356 | 767 | Fancy Twister |
 | 357 | 765 | Kathryn Townsley |
 | 358 | 763 | Dreamy Blast |
 | 359 | 763 | Heather Causey |
@@ -375,8 +375,8 @@
 | 367 | 751 | Loony Snapper |
 | 368 | 748 | Brenda Utphall |
 | 369 | 748 | Stephanie Lumanlan |
-| 370 | 746 | Leslie Ann Carter |
-| 371 | 746 | Jerilyn Andrina |
+| 370 | 746 | Jerilyn Andrina |
+| 371 | 746 | Leslie Ann Carter |
 | 372 | 745 | Kiely Tomaskovich |
 | 373 | 744 | Mandi Douglas Hilt |
 | 374 | 743 | Tiara Elizabeth Baker |
@@ -388,8 +388,8 @@
 | 380 | 737 | Ginger |
 | 381 | 729 | goofinoff |
 | 382 | 728 | Charvi' Carter |
-| 383 | 728 | Dylan Thomason |
-| 384 | 728 | Allan Wayne Lamia |
+| 383 | 728 | Allan Wayne Lamia |
+| 384 | 728 | Dylan Thomason |
 | 385 | 728 | Tom Riefer |
 | 386 | 725 | Vonceial Boone |
 | 387 | 724 | Melissa Holsinger |
@@ -527,8 +527,8 @@
 | 519 | 553 | Kelli Wells |
 | 520 | 551 | Cynthia Louann Rose |
 | 521 | 550 | Frilly Fallzone |
-| 522 | 549 | Melissa Kay Gibson |
-| 523 | 549 | Kaylee McCafferty |
+| 522 | 549 | Kaylee McCafferty |
+| 523 | 549 | Melissa Kay Gibson |
 | 524 | 546 | Hannah Erskine |
 | 525 | 545 | Venita Ray |
 | 526 | 545 | Brenna Ann |

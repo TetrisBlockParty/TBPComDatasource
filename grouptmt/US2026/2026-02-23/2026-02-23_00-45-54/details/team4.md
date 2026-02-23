@@ -58,8 +58,8 @@
 | 50 | 843 | Shelly Chandler |
 | 51 | 834 | quicksand420 |
 | 52 | 813 | BertMofo |
-| 53 | 797 | Rebecca Moulton Pinciaro |
-| 54 | 797 | Dawn Alexander |
+| 53 | 797 | Dawn Alexander |
+| 54 | 797 | Rebecca Moulton Pinciaro |
 | 55 | 783 | Isabella Blanco |
 | 56 | 781 | Chilly Line |
 | 57 | 780 | Ancient Intuition |
@@ -147,9 +147,9 @@
 | 139 | 391 | Ramel Rhodes |
 | 140 | 384 | Lucas J Sutton |
 | 141 | 380 | Swanky Fitline |
-| 142 | 377 | Kristina Black |
-| 143 | 377 | Carrie Brian |
-| 144 | 377 | Jessica Bohlken |
+| 142 | 377 | Carrie Brian |
+| 143 | 377 | Jessica Bohlken |
+| 144 | 377 | Kristina Black |
 | 145 | 374 | Guy Incognito |
 | 146 | 373 | Joseph Guthrie |
 | 147 | 372 | Peachy Fall |
@@ -192,8 +192,8 @@
 | 184 | 300 | Zakia Monae |
 | 185 | 297 | Melvin Baird |
 | 186 | 294 | Calvin Cannon |
-| 187 | 293 | Kathy Brookins |
-| 188 | 293 | Michele Plunkett |
+| 187 | 293 | Michele Plunkett |
+| 188 | 293 | Kathy Brookins |
 | 189 | 292 | Epic Curvetile |
 | 190 | 290 | Keshia Lyons |
 | 191 | 289 | Lindsay Ball |
@@ -232,8 +232,8 @@
 | 224 | 257 | Matt Gooder |
 | 225 | 257 | PeaceOs |
 | 226 | 256 | Mylo Lipscomb |
-| 227 | 252 | Selena Shaw |
-| 228 | 252 | Mr. Party |
+| 227 | 252 | Mr. Party |
+| 228 | 252 | Selena Shaw |
 | 229 | 251 | Carol Ricks Raymond |
 | 230 | 249 | Ak Jones |
 | 231 | 248 | Jose Dejesus |
@@ -244,11 +244,11 @@
 | 236 | 245 | 23 |
 | 237 | 245 | Adam Stephanie Parker |
 | 238 | 241 | Allen Lloyd |
-| 239 | 240 | Perky Patternblock |
-| 240 | 240 | Kim Hunt |
+| 239 | 240 | Kim Hunt |
+| 240 | 240 | Perky Patternblock |
 | 241 | 238 | Chaz |
-| 242 | 237 | Christine Therrien |
-| 243 | 237 | 030Synner |
+| 242 | 237 | 030Synner |
+| 243 | 237 | Christine Therrien |
 | 244 | 235 | LaDonna LovinmesomeMe Lambert |
 | 245 | 233 | Ruben Wheeler |
 | 246 | 232 | Joanna |
@@ -290,7 +290,7 @@
 | 282 | 203 | Katherine Crane |
 | 283 | 202 | Shukee Lo |
 | 284 | 202 | Stephme310 |
-| 285 | 202 | Shukee Lo |
+| 285 | 202 | Angelito |
 | 286 | 201 | Silly SeaWeed |
 | 287 | 201 | June Hoffman |
 | 288 | 200 | Googenheim |
@@ -451,10 +451,10 @@
 | 443 | 138 | Hasty Fitzone |
 | 444 | 138 | Lynn Marie |
 | 445 | 138 | Janis Brown |
-| 446 | 137 | Carlos Hernandez |
-| 447 | 137 | Red |
-| 448 | 137 | Brianna Walker |
-| 449 | 137 | April Spoelma |
+| 446 | 137 | April Spoelma |
+| 447 | 137 | Carlos Hernandez |
+| 448 | 137 | Red |
+| 449 | 137 | Brianna Walker |
 | 450 | 136 | Dandy Cascadefit |
 | 451 | 136 | Badatvs |
 | 452 | 136 | Groovy Brickmatch |
@@ -462,7 +462,7 @@
 | 454 | 135 | Joshua Guess |
 | 455 | 134 | Kevin Bush |
 | 456 | 134 | Jason Frehner |
-| 457 | 133 | Tabitha Calvin |
+| 457 | 133 | Dapper Frame |
 | 458 | 133 | Jesus Garcia |
 | 459 | 133 | Darrin Rubalcava |
 | 460 | 133 | Tabitha Calvin |
