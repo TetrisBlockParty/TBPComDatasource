@@ -165,21 +165,21 @@
 | 157 | 414 | Swanky Fitline |
 | 158 | 413 | Circuit8 |
 | 159 | 412 | Jessica Bohlken |
-| 160 | 406 | Damn Libra |
-| 161 | 406 | Livvy |
+| 160 | 406 | Livvy |
+| 161 | 406 | Damn Libra |
 | 162 | 403 | Keith Kelley |
 | 163 | 402 | Lucas J Sutton |
 | 164 | 398 | Tyler Terrific |
 | 165 | 397 | Nick Gray |
-| 166 | 393 | Carlton Unfiltered |
-| 167 | 393 | Girl |
+| 166 | 393 | Girl |
+| 167 | 393 | Carlton Unfiltered |
 | 168 | 391 | Ramel Rhodes |
 | 169 | 389 | Joseph Guthrie |
 | 170 | 383 | Chris Bernstein |
 | 171 | 377 | Guy Incognito |
 | 172 | 375 | Desi Desporte |
-| 173 | 372 | Antony Dwayne Beasley |
-| 174 | 372 | George Nutt |
+| 173 | 372 | George Nutt |
+| 174 | 372 | Antony Dwayne Beasley |
 | 175 | 370 | Oscar Alberto Perez |
 | 176 | 370 | Denia Deni |
 | 177 | 369 | Lindsey Gonzalez |
@@ -229,8 +229,8 @@
 | 221 | 307 | Michele Plunkett |
 | 222 | 306 | mike |
 | 223 | 305 | Melvin Baird |
-| 224 | 304 | Gdiguy |
-| 225 | 304 | Lindsay Ball |
+| 224 | 304 | Lindsay Ball |
+| 225 | 304 | Gdiguy |
 | 226 | 301 | Andria Lynn |
 | 227 | 300 | Dana Scott |
 | 228 | 295 | Keshia Lyons |
@@ -238,8 +238,8 @@
 | 230 | 294 | Porkobello |
 | 231 | 292 | Epic Curvetile |
 | 232 | 291 | Mimi |
-| 233 | 290 | Rebecca Morris |
-| 234 | 290 | Plucky Patternblock |
+| 233 | 290 | Plucky Patternblock |
+| 234 | 290 | Rebecca Morris |
 | 235 | 290 | Jared Gutwein |
 | 236 | 289 | Juls |
 | 237 | 288 | Adam Stephanie Parker |
@@ -426,8 +426,8 @@
 | 418 | 176 | Cindy Looper |
 | 419 | 175 | Jim Hart |
 | 420 | 175 | Lorena Guerrero-Barron |
-| 421 | 174 | Chummy Towerzone |
-| 422 | 174 | Jason Frehner |
+| 421 | 174 | Jason Frehner |
+| 422 | 174 | Chummy Towerzone |
 | 423 | 173 | Tanner Lund |
 | 424 | 172 | Undeniable Williams |
 | 425 | 172 | Janis Brown |
@@ -478,8 +478,8 @@
 | 470 | 158 | Jasmine S Caldwell |
 | 471 | 158 | Grann8 |
 | 472 | 157 | David Boggs |
-| 473 | 157 | Ryry |
-| 474 | 157 | LunaMoon |
+| 473 | 157 | LunaMoon |
+| 474 | 157 | Ryry |
 | 475 | 156 | Mighty Edgepiece |
 | 476 | 155 | tipsy tiger |
 | 477 | 155 | Faja |

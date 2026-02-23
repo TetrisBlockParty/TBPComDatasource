@@ -552,8 +552,8 @@
 | 544 | 639 | Toni Roberson |
 | 545 | 639 | Libby Hicks |
 | 546 | 638 | Leah Keesling |
-| 547 | 637 | Shinette Dobson |
-| 548 | 637 | Koa N Sharon Chen |
+| 547 | 637 | Koa N Sharon Chen |
+| 548 | 637 | Shinette Dobson |
 | 549 | 637 | Karen Posadas Centeno |
 | 550 | 634 | Quiksilver |
 | 551 | 634 | James Louie |
@@ -773,8 +773,8 @@
 | 765 | 481 | Lucy Marshall |
 | 766 | 481 | Brittany Chapman |
 | 767 | 480 | Dar |
-| 768 | 480 | Cassi Owens |
-| 769 | 480 | Jennifer Leigh |
+| 768 | 480 | Jennifer Leigh |
+| 769 | 480 | Cassi Owens |
 | 770 | 479 | bbv |
 | 771 | 479 | Emilie Desma |
 | 772 | 479 | Jason Garnatz |
