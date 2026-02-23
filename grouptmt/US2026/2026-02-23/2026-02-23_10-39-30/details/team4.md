@@ -76,8 +76,8 @@
 | 68 | 787 | loulou |
 | 69 | 767 | Shannon Ferrari |
 | 70 | 766 | Robin Watters |
-| 71 | 765 | Denise Carlson |
-| 72 | 765 | Robin Getchel |
+| 71 | 765 | Robin Getchel |
+| 72 | 765 | Denise Carlson |
 | 73 | 753 | TheNeesh50 |
 | 74 | 752 | Shane Kalamata Platoon |
 | 75 | 749 | Dustee Craddock-Harrison |
@@ -98,8 +98,8 @@
 | 90 | 659 | Jamie Gustafson |
 | 91 | 653 | Rica Mitchell |
 | 92 | 650 | KJ Pool |
-| 93 | 647 | Shauna Havard |
-| 94 | 647 | KM8 |
+| 93 | 647 | KM8 |
+| 94 | 647 | Shauna Havard |
 | 95 | 646 | Eric Mcgaughy |
 | 96 | 626 | Brittney Griggs |
 | 97 | 624 | Judy Cox |
@@ -236,8 +236,8 @@
 | 228 | 294 | Porkobello |
 | 229 | 294 | Calvin Cannon |
 | 230 | 292 | Epic Curvetile |
-| 231 | 290 | Plucky Patternblock |
-| 232 | 290 | Rebecca Morris |
+| 231 | 290 | Rebecca Morris |
+| 232 | 290 | Plucky Patternblock |
 | 233 | 290 | Jared Gutwein |
 | 234 | 289 | Juls |
 | 235 | 288 | Zesty Twistbuilder |
@@ -566,8 +566,8 @@
 | 558 | 129 | Dreamy Snapgrid |
 | 559 | 129 | GTxIrishman |
 | 560 | 128 | Zesty Linkgrid |
-| 561 | 128 | Lazy Glidepiece |
-| 562 | 128 | Raymond Roberts |
+| 561 | 128 | Raymond Roberts |
+| 562 | 128 | Lazy Glidepiece |
 | 563 | 127 | Jay You |
 | 564 | 126 | Spicy Cascadezone |
 | 565 | 126 | PAPatty |
@@ -1532,8 +1532,8 @@
 | 1524 | 21 | Holly Baxley |
 | 1525 | 21 | Peppy Twistslam |
 | 1526 | 20 | Charli Vinson |
-| 1527 | 20 | Malisa Brookins |
-| 1528 | 20 | Elaine Hall |
+| 1527 | 20 | Elaine Hall |
+| 1528 | 20 | Malisa Brookins |
 | 1529 | 20 | Amy Anderson-Franks |
 | 1530 | 20 | Paco Gonzalez |
 | 1531 | 20 | Brian Madden |

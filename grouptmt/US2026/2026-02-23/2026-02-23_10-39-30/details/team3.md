@@ -76,8 +76,8 @@
 | 68 | 1264 | Amanda L Baker |
 | 69 | 1258 | Danielle Cutler |
 | 70 | 1256 | Jessica Bechler |
-| 71 | 1213 | Nerdy Riseclear |
-| 72 | 1213 | Snappy Glidepiece |
+| 71 | 1213 | Snappy Glidepiece |
+| 72 | 1213 | Nerdy Riseclear |
 | 73 | 1201 | Amanda Adkins |
 | 74 | 1186 | Christian A. Pollard |
 | 75 | 1162 | Gracie |
@@ -129,8 +129,8 @@
 | 121 | 779 | Justin Ritter |
 | 122 | 773 | Daira Largen |
 | 123 | 769 | Kristie |
-| 124 | 764 | Hasty Cascadefit |
-| 125 | 764 | Groovy Catcher |
+| 124 | 764 | Groovy Catcher |
+| 125 | 764 | Hasty Cascadefit |
 | 126 | 762 | Speedy Bridger |
 | 127 | 755 | Katrina Schroeder |
 | 128 | 755 | Raya |
@@ -204,8 +204,8 @@
 | 196 | 525 | Stephanie Blkpep Davidson |
 | 197 | 524 | Bmo |
 | 198 | 521 | Shannon Matthew Byers |
-| 199 | 519 | Terry Jo Jones |
-| 200 | 519 | rnr junky |
+| 199 | 519 | rnr junky |
+| 200 | 519 | Terry Jo Jones |
 | 201 | 515 | Cozy Snaplink |
 | 202 | 513 | Lizabeth Fox |
 | 203 | 510 | Makelini Mausia |
@@ -261,8 +261,8 @@
 | 253 | 406 | Kristal C Lee |
 | 254 | 405 | Steffi Chris Dacones |
 | 255 | 404 | Chasity |
-| 256 | 403 | Denita Mungro |
-| 257 | 403 | Scott Lindsay |
+| 256 | 403 | Scott Lindsay |
+| 257 | 403 | Denita Mungro |
 | 258 | 396 | Randy Clevenger |
 | 259 | 395 | rosy |
 | 260 | 387 | Gideon Walker |
@@ -362,8 +362,8 @@
 | 354 | 298 | Dannie Litchard |
 | 355 | 298 | Grams |
 | 356 | 297 | kacihall |
-| 357 | 296 | Donna |
-| 358 | 296 | Tracy Martin |
+| 357 | 296 | Tracy Martin |
+| 358 | 296 | Donna |
 | 359 | 296 | Amy Montz |
 | 360 | 295 | Nikki Pags |
 | 361 | 292 | Khaleada McGill Banks |
@@ -396,8 +396,8 @@
 | 388 | 275 | Michael Lucado |
 | 389 | 275 | Cassandra Bryant |
 | 390 | 274 | Mary Giorgenti |
-| 391 | 273 | Quackers |
-| 392 | 273 | Brenda Schmid Wood |
+| 391 | 273 | Brenda Schmid Wood |
+| 392 | 273 | Quackers |
 | 393 | 273 | Kevin Fountain |
 | 394 | 272 | Romeo |
 | 395 | 272 | Tay |
@@ -428,8 +428,8 @@
 | 420 | 257 | Rachel Grant |
 | 421 | 257 | Jana Polk |
 | 422 | 257 | Saucy Buildout |
-| 423 | 255 | Mariah Williams |
-| 424 | 255 | Erykah |
+| 423 | 255 | Erykah |
+| 424 | 255 | Mariah Williams |
 | 425 | 254 | Blair Erin Waite |
 | 426 | 253 | crystal |
 | 427 | 253 | Daring Builder |
@@ -442,10 +442,10 @@
 | 434 | 250 | Dana Fox |
 | 435 | 249 | Willow |
 | 436 | 248 | Brian Battjes |
-| 437 | 247 | Kevin Russell |
-| 438 | 247 | Jessica |
-| 439 | 245 | Latoya Mayne |
-| 440 | 245 | LaNette Morgan |
+| 437 | 247 | Jessica |
+| 438 | 247 | Kevin Russell |
+| 439 | 245 | LaNette Morgan |
+| 440 | 245 | Latoya Mayne |
 | 441 | 244 | Beezwax |
 | 442 | 243 | Paula Little |
 | 443 | 243 | Nicholas Roddy |

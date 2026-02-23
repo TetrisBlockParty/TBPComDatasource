@@ -313,8 +313,8 @@
 | 305 | 979 | Melissa Penelope Ann Dodge |
 | 306 | 979 | Hillary Crawford |
 | 307 | 978 | April Dawn Gussler |
-| 308 | 976 | Della Hole |
-| 309 | 976 | Sam Joe |
+| 308 | 976 | Sam Joe |
+| 309 | 976 | Della Hole |
 | 310 | 975 | Hyper Cluster |
 | 311 | 972 | Barbra Miller |
 | 312 | 972 | Binyah-Binyah |
@@ -379,16 +379,16 @@
 | 371 | 846 | Kayla |
 | 372 | 844 | Terri McKelvey McKinley |
 | 373 | 840 | Traci Johnson |
-| 374 | 838 | Misti Markijohn |
-| 375 | 838 | Nicole Cannon |
+| 374 | 838 | Nicole Cannon |
+| 375 | 838 | Misti Markijohn |
 | 376 | 836 | KhaosLord |
 | 377 | 833 | Arkei Luster |
 | 378 | 833 | Moni Foxe |
 | 379 | 832 | Nicole L Morelli |
 | 380 | 831 | Christina Lewis-Vickers |
 | 381 | 830 | Smashanator |
-| 382 | 829 | Jessica Wayne Cornwall |
-| 383 | 829 | Angie Bolton Workman |
+| 382 | 829 | Angie Bolton Workman |
+| 383 | 829 | Jessica Wayne Cornwall |
 | 384 | 828 | Kimmy Newman |
 | 385 | 825 | Jeremy Parodi |
 | 386 | 824 | Khalil Lowe |
@@ -416,8 +416,8 @@
 | 408 | 788 | Erika Densmore |
 | 409 | 787 | Tiara Elizabeth Baker |
 | 410 | 783 | John Rodriguez |
-| 411 | 777 | Tesha Oldaker |
-| 412 | 777 | Jessicah Myers |
+| 411 | 777 | Jessicah Myers |
+| 412 | 777 | Tesha Oldaker |
 | 413 | 776 | Fancy Twister |
 | 414 | 776 | Mighty Spinbuilder |
 | 415 | 775 | Crystie Hicks |
@@ -647,11 +647,11 @@
 | 639 | 556 | Joice Hansen |
 | 640 | 555 | Frisky Riserbuilder |
 | 641 | 555 | Misty Mitchell |
-| 642 | 554 | Bubbly Snapfit |
-| 643 | 554 | Dizzy Zone |
+| 642 | 554 | Dizzy Zone |
+| 643 | 554 | Bubbly Snapfit |
 | 644 | 554 | Tra Barnum |
-| 645 | 554 | Fi Ne |
-| 646 | 554 | Laquetta Royston |
+| 645 | 554 | Laquetta Royston |
+| 646 | 554 | Fi Ne |
 | 647 | 554 | Party d |
 | 648 | 553 | Kelli Wells |
 | 649 | 551 | Cynthia Louann Rose |
@@ -670,8 +670,8 @@
 | 662 | 544 | Armonie Smith |
 | 663 | 542 | Jarboe |
 | 664 | 540 | Lee Harper |
-| 665 | 538 | Jess Morrison |
-| 666 | 538 | Belle Mari |
+| 665 | 538 | Belle Mari |
+| 666 | 538 | Jess Morrison |
 | 667 | 538 | Mamachelle Eisweirth |
 | 668 | 537 | Kori Beth Babb |
 | 669 | 536 | Rhonda Petro |

@@ -91,8 +91,8 @@
 | 83 | 647 | Jason Jones |
 | 84 | 645 | Robert Benito |
 | 85 | 600 | Greg Hart |
-| 86 | 598 | Erin Hodges Plumb |
-| 87 | 598 | Kellie |
+| 86 | 598 | Kellie |
+| 87 | 598 | Erin Hodges Plumb |
 | 88 | 584 | Jen Sartain |
 | 89 | 583 | Theo Pinnow |
 | 90 | 582 | Plucky Fallzone |
@@ -263,8 +263,8 @@
 | 255 | 272 | Tawnya Peltonen |
 | 256 | 272 | Barrbaric |
 | 257 | 271 | Frothy Pattern |
-| 258 | 270 | Brenda Alexander |
-| 259 | 270 | Debbie Kane |
+| 258 | 270 | Debbie Kane |
+| 259 | 270 | Brenda Alexander |
 | 260 | 268 | Standia Civil |
 | 261 | 267 | Daring Fitclear |
 | 262 | 265 | Kandae |
@@ -279,8 +279,8 @@
 | 271 | 255 | Beazel75 |
 | 272 | 255 | Giggly Builderline |
 | 273 | 254 | Al Smith Jr |
-| 274 | 253 | Cece Ibarra |
-| 275 | 253 | Jamie Jury |
+| 274 | 253 | Jamie Jury |
+| 275 | 253 | Cece Ibarra |
 | 276 | 252 | Dena Kayy |
 | 277 | 251 | Angela Fairbank |
 | 278 | 251 | MRdot Rooski |
