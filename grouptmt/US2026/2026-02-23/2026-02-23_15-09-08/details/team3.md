@@ -312,11 +312,11 @@
 | 304 | 370 | Samantha Lynn |
 | 305 | 369 | Amber Glover |
 | 306 | 369 | Jennifer Alvey |
-| 307 | 368 | Sheila M Frazier |
-| 308 | 368 | Stephanie Woods |
+| 307 | 368 | Stephanie Woods |
+| 308 | 368 | Sheila M Frazier |
 | 309 | 365 | LaShey Thompson |
-| 310 | 362 | Foltz Lee Kelli |
-| 311 | 362 | Brandon Givens |
+| 310 | 362 | Brandon Givens |
+| 311 | 362 | Foltz Lee Kelli |
 | 312 | 361 | Breanna Marsden |
 | 313 | 360 | Dee Pratt |
 | 314 | 359 | Kelly |
@@ -339,8 +339,8 @@
 | 331 | 344 | Beaudie Stroebel |
 | 332 | 344 | Isabel Ocasio |
 | 333 | 343 | Ashley Rufus Bythcez |
-| 334 | 342 | ROODBOY |
-| 335 | 342 | Cynthia Herrmann Egland |
+| 334 | 342 | Cynthia Herrmann Egland |
+| 335 | 342 | ROODBOY |
 | 336 | 341 | Rick Poppen |
 | 337 | 341 | Lys |
 | 338 | 340 | Nikki Pags |

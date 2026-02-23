@@ -166,8 +166,8 @@
 | 158 | 462 | Leslie Thomas |
 | 159 | 460 | Cursed Hag |
 | 160 | 457 | Keith Kelley |
-| 161 | 448 | Swanky Fitline |
-| 162 | 448 | Kristin Manee |
+| 161 | 448 | Kristin Manee |
+| 162 | 448 | Swanky Fitline |
 | 163 | 444 | Mylo Lipscomb |
 | 164 | 435 | Kristina Black |
 | 165 | 433 | Nick Gray |
@@ -207,13 +207,13 @@
 | 199 | 367 | Sue Joyce Staats |
 | 200 | 365 | Jeff Brian Gates |
 | 201 | 363 | Cindy Looper |
-| 202 | 361 | Rafael Valentin |
-| 203 | 361 | Danielle Kollias |
-| 204 | 358 | A5! |
-| 205 | 358 | Twisty Cascadezone |
+| 202 | 361 | Danielle Kollias |
+| 203 | 361 | Rafael Valentin |
+| 204 | 358 | Twisty Cascadezone |
+| 205 | 358 | A5! |
 | 206 | 355 | James Hurley Jr. |
-| 207 | 354 | TRCuse |
-| 208 | 354 | Sharyn Lemire |
+| 207 | 354 | Sharyn Lemire |
+| 208 | 354 | TRCuse |
 | 209 | 354 | Kris Bartlett |
 | 210 | 352 | April Rondinone |
 | 211 | 348 | David Lay |
