@@ -44,8 +44,8 @@
 | 36 | 2097 | Kay |
 | 37 | 2059 | Beelow Bently |
 | 38 | 1992 | Shandrea Crawford |
-| 39 | 1978 | Dan Rob |
-| 40 | 1978 | Ashley Kiara |
+| 39 | 1978 | Ashley Kiara |
+| 40 | 1978 | Dan Rob |
 | 41 | 1949 | Calista Jo Dickson |
 | 42 | 1927 | Delilah belle |
 | 43 | 1919 | Trezure Gonzalez |
@@ -177,8 +177,8 @@
 | 169 | 761 | Peppy Shifter |
 | 170 | 757 | Fancy Cascader |
 | 171 | 756 | Patty Allen |
-| 172 | 755 | Tye Stovall |
-| 173 | 755 | Raya |
+| 172 | 755 | Raya |
+| 173 | 755 | Tye Stovall |
 | 174 | 742 | Jennifer Lynn Fahrenholtz-Summers |
 | 175 | 740 | Kiki |
 | 176 | 738 | Naur |
@@ -202,8 +202,8 @@
 | 194 | 655 | Rochelle Hazelett |
 | 195 | 653 | Domo Washington |
 | 196 | 642 | Rania Zaqout |
-| 197 | 641 | Makelini Mausia |
-| 198 | 641 | Kristal C Lee |
+| 197 | 641 | Kristal C Lee |
+| 198 | 641 | Makelini Mausia |
 | 199 | 640 | JessDrown |
 | 200 | 638 | Tasha Gillespie |
 | 201 | 636 | Cesar Barraza |
@@ -264,8 +264,8 @@
 | 256 | 520 | Cozy Snaplink |
 | 257 | 519 | Nichol Graham |
 | 258 | 516 | Daring Brickzone |
-| 259 | 513 | PrncssPJ |
-| 260 | 513 | Giggy Glidepiece |
+| 259 | 513 | Giggy Glidepiece |
+| 260 | 513 | PrncssPJ |
 | 261 | 513 | Lizabeth Fox |
 | 262 | 510 | Marquita Sheard |
 | 263 | 508 | joz |
@@ -294,8 +294,8 @@
 | 286 | 471 | Mendoza Lee Christy |
 | 287 | 470 | thekey |
 | 288 | 468 | Sarah Moyer |
-| 289 | 464 | Danielle Weikel |
-| 290 | 464 | Noyb Adam |
+| 289 | 464 | Noyb Adam |
+| 290 | 464 | Danielle Weikel |
 | 291 | 462 | Sleepy |
 | 292 | 461 | Tom Nault |
 | 293 | 461 | LaShey Thompson |

@@ -165,8 +165,8 @@
 | 157 | 516 | Twisty Clicky |
 | 158 | 516 | Trish |
 | 159 | 514 | Scott Jameson |
-| 160 | 513 | Erin Thomas |
-| 161 | 513 | Jessica Lynn Cutlip |
+| 160 | 513 | Jessica Lynn Cutlip |
+| 161 | 513 | Erin Thomas |
 | 162 | 512 | ThaEviLJeNiuZ |
 | 163 | 512 | Angela Srubar-Norman |
 | 164 | 512 | Ellen Durfee |
@@ -259,8 +259,8 @@
 | 251 | 369 | Matt Dell'Olio |
 | 252 | 368 | Kris Bartlett |
 | 253 | 367 | Meg |
-| 254 | 366 | Cheery Risebuilder |
-| 255 | 366 | Andrew Dang |
+| 254 | 366 | Andrew Dang |
+| 255 | 366 | Cheery Risebuilder |
 | 256 | 365 | Hyper Builder |
 | 257 | 363 | TRCuse |
 | 258 | 363 | KimoKoala |
@@ -268,8 +268,8 @@
 | 260 | 360 | Ari Droff |
 | 261 | 360 | James Hurley Jr. |
 | 262 | 358 | Twisty Cascadezone |
-| 263 | 356 | Joeliecea Cobb |
-| 264 | 356 | mike |
+| 263 | 356 | mike |
+| 264 | 356 | Joeliecea Cobb |
 | 265 | 355 | David Lay |
 | 266 | 353 | Chaz |
 | 267 | 352 | scott |
@@ -280,8 +280,8 @@
 | 272 | 347 | Daria Rycewicz |
 | 273 | 347 | Gdiguy |
 | 274 | 343 | HastyGrabber |
-| 275 | 340 | Cranky Rollpiece |
-| 276 | 340 | Lauren Lamb |
+| 275 | 340 | Lauren Lamb |
+| 276 | 340 | Cranky Rollpiece |
 | 277 | 340 | Amanda Maciel Clarke |
 | 278 | 330 | Sandra Safford |
 | 279 | 329 | Joanna |
