@@ -240,8 +240,8 @@
 | 232 | 286 | Steph Marie |
 | 233 | 285 | 030Synner |
 | 234 | 284 | Mimi |
-| 235 | 282 | Kim Klutz Olson |
-| 236 | 282 | Matt Gooder |
+| 235 | 282 | Matt Gooder |
+| 236 | 282 | Kim Klutz Olson |
 | 237 | 281 | Laura |
 | 238 | 280 | Rio Rocha |
 | 239 | 279 | Malakai Darien Fox |
@@ -328,8 +328,8 @@
 | 320 | 216 | mike |
 | 321 | 216 | Chantilly Laace |
 | 322 | 215 | Stephme310 |
-| 323 | 214 | Stacey Stano |
-| 324 | 214 | Patron Anderson |
+| 323 | 214 | Patron Anderson |
+| 324 | 214 | Stacey Stano |
 | 325 | 213 | Jackie Marie |
 | 326 | 212 | Zany Shatterer |
 | 327 | 212 | Brave Spinbuilder |
@@ -467,9 +467,9 @@
 | 459 | 157 | David Boggs |
 | 460 | 156 | Mighty Edgepiece |
 | 461 | 156 | Funky Risepiece |
-| 462 | 155 | tipsy tiger |
-| 463 | 155 | Faja |
-| 464 | 155 | Shirl |
+| 462 | 155 | Faja |
+| 463 | 155 | Shirl |
+| 464 | 155 | tipsy tiger |
 | 465 | 154 | Bryan Hodgins |
 | 466 | 154 | Happy Combo |
 | 467 | 153 | icequeenx |

@@ -346,8 +346,8 @@
 | 338 | 903 | Giggy Blocker |
 | 339 | 903 | Eric Castaneda |
 | 340 | 901 | Kevin Sees |
-| 341 | 899 | Patrick Bartlett |
-| 342 | 899 | Chevy |
+| 341 | 899 | Chevy |
+| 342 | 899 | Patrick Bartlett |
 | 343 | 898 | Jamie Otero |
 | 344 | 895 | Donna Colby |
 | 345 | 894 | Adira Brown |
@@ -382,8 +382,8 @@
 | 374 | 829 | Jessica Wayne Cornwall |
 | 375 | 828 | Kimmy Newman |
 | 376 | 825 | Jeremy Parodi |
-| 377 | 824 | Khalil Lowe |
-| 378 | 824 | Danielle Johnson-Chandler |
+| 377 | 824 | Danielle Johnson-Chandler |
+| 378 | 824 | Khalil Lowe |
 | 379 | 824 | Mandi Douglas Hilt |
 | 380 | 822 | Lola Contreras |
 | 381 | 821 | Cassie Mercer |
@@ -652,8 +652,8 @@
 | 644 | 549 | Crystal Hodge Love |
 | 645 | 547 | Hunter Connors |
 | 646 | 547 | Sonya Back |
-| 647 | 544 | Armonie Smith |
-| 648 | 544 | TJ Nash |
+| 647 | 544 | TJ Nash |
+| 648 | 544 | Armonie Smith |
 | 649 | 544 | Deidre Shaffer |
 | 650 | 542 | Jarboe |
 | 651 | 540 | Lee Harper |
@@ -669,8 +669,8 @@
 | 661 | 532 | Snappy Faller |
 | 662 | 531 | Maricia Layolla Cason |
 | 663 | 531 | Beth Decker |
-| 664 | 529 | Snazzy Basepiece |
-| 665 | 529 | Ganieda |
+| 664 | 529 | Ganieda |
+| 665 | 529 | Snazzy Basepiece |
 | 666 | 528 | Kyle LeRoy Harris |
 | 667 | 528 | Ha Ab |
 | 668 | 527 | Heather M Purcell |
@@ -684,8 +684,8 @@
 | 676 | 522 | Leah |
 | 677 | 521 | Mia Muse Best |
 | 678 | 519 | Mandi Marie Smith |
-| 679 | 519 | Rob Brown |
-| 680 | 519 | CupCake |
+| 679 | 519 | CupCake |
+| 680 | 519 | Rob Brown |
 | 681 | 517 | Daring Caster |
 | 682 | 516 | Diamond Scott |
 | 683 | 515 | Gina Bahn |
@@ -697,8 +697,8 @@
 | 689 | 512 | Sassy Linkroll |
 | 690 | 511 | Kristie Wilcox |
 | 691 | 509 | Jordan Kaiser |
-| 692 | 509 | Toni Whipple |
-| 693 | 509 | Perky Rollfit |
+| 692 | 509 | Perky Rollfit |
+| 693 | 509 | Toni Whipple |
 | 694 | 508 | Daphne Jordan |
 | 695 | 507 | Funky Caster |
 | 696 | 507 | Crystal Heller Gonzalez |
@@ -770,8 +770,8 @@
 | 762 | 472 | Connie Lepore-Mann |
 | 763 | 471 | Charming Leech |
 | 764 | 470 | Katie Marie |
-| 765 | 470 | ToShi |
-| 766 | 470 | Amanda Chamberlain |
+| 765 | 470 | Amanda Chamberlain |
+| 766 | 470 | ToShi |
 | 767 | 468 | Brenda Annabel Smith |
 | 768 | 468 | Niceday |
 | 769 | 467 | ruth |
@@ -787,8 +787,8 @@
 | 779 | 462 | Kia Humphery |
 | 780 | 461 | Amanda Segura |
 | 781 | 461 | Julie Hamilton |
-| 782 | 461 | Kristen O'Neal |
-| 783 | 461 | Amanda West |
+| 782 | 461 | Amanda West |
+| 783 | 461 | Kristen O'Neal |
 | 784 | 461 | Alexis Richardson |
 | 785 | 460 | LaWanda Powell |
 | 786 | 459 | Pocho Zavala |
@@ -899,7 +899,7 @@
 | 891 | 406 | Johanna Massaro |
 | 892 | 406 | Epic Stackbuilder |
 | 893 | 406 | Lazy Builderfit |
-| 894 | 406 | Epic Stackbuilder |
+| 894 | 406 | Erin StFrancis |
 | 895 | 406 | Susan Arnburg |
 | 896 | 405 | Dane Reing |
 | 897 | 405 | Marget Kay |
@@ -1228,14 +1228,14 @@
 | 1220 | 310 | Jessica Sutter |
 | 1221 | 309 | Squirrel |
 | 1222 | 309 | Richard Hunt |
-| 1223 | 309 | LintFunk |
-| 1224 | 309 | Nutty Matchline |
+| 1223 | 309 | Nutty Matchline |
+| 1224 | 309 | LintFunk |
 | 1225 | 309 | Funky Liney |
 | 1226 | 308 | Chilly Linkfall |
 | 1227 | 308 | Hyper Riseclear |
 | 1228 | 308 | Justin Edwards |
-| 1229 | 308 | Michael David Hollis |
-| 1230 | 308 | Alishac Marie |
+| 1229 | 308 | Alishac Marie |
+| 1230 | 308 | Michael David Hollis |
 | 1231 | 307 | Carlos Javier Del Toro |
 | 1232 | 307 | Chirpy Tilt |
 | 1233 | 307 | Lazy Riseclear |
