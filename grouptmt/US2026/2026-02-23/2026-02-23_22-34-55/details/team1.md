@@ -103,8 +103,8 @@
 | 95 | 742 | Susanna Guerry |
 | 96 | 740 | Lori Sanders- Davis |
 | 97 | 722 | Kellie |
-| 98 | 706 | Denice Dee |
-| 99 | 706 | Plucky Fallzone |
+| 98 | 706 | Plucky Fallzone |
+| 99 | 706 | Denice Dee |
 | 100 | 704 | Karin Gillen |
 | 101 | 703 | Angel Fowler |
 | 102 | 679 | Melissa Lemmon |
@@ -188,8 +188,8 @@
 | 180 | 434 | Yvonne Marie |
 | 181 | 432 | Lori Bales |
 | 182 | 426 | Maria C. Hernandez |
-| 183 | 425 | Tyler Werts |
-| 184 | 425 | Tana |
+| 183 | 425 | Tana |
+| 184 | 425 | Tyler Werts |
 | 185 | 424 | Emily Adelaide Wheatley |
 | 186 | 423 | Kimberly Garcia |
 | 187 | 423 | Elaine Elaine |
@@ -211,7 +211,7 @@
 | 203 | 398 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 204 | 397 | Erin Rosberg |
 | 205 | 395 | Monica Donato |
-| 206 | 393 | Jumpy Dropper |
+| 206 | 393 | Lehrin Maria |
 | 207 | 393 | Wisa |
 | 208 | 393 | Jumpy Dropper |
 | 209 | 392 | Kathy Langham |

@@ -201,8 +201,8 @@
 | 193 | 655 | Rochelle Hazelett |
 | 194 | 647 | Domo Washington |
 | 195 | 642 | Rania Zaqout |
-| 196 | 641 | Kristal C Lee |
-| 197 | 641 | Makelini Mausia |
+| 196 | 641 | Makelini Mausia |
+| 197 | 641 | Kristal C Lee |
 | 198 | 640 | JessDrown |
 | 199 | 636 | Cesar Barraza |
 | 200 | 635 | Twisty Brick LT |
@@ -305,8 +305,8 @@
 | 297 | 455 | Megan Rathmanner |
 | 298 | 451 | Charles Perrone |
 | 299 | 450 | Antonia Russell |
-| 300 | 449 | Stefanie LaPointe |
-| 301 | 449 | Mcathen |
+| 300 | 449 | Mcathen |
+| 301 | 449 | Stefanie LaPointe |
 | 302 | 448 | Scott Carleton |
 | 303 | 443 | Randy Clevenger |
 | 304 | 437 | Loopy Clusterer |
@@ -315,8 +315,8 @@
 | 307 | 433 | Skippy |
 | 308 | 432 | Luciana Braganca Vieira |
 | 309 | 431 | Wendy Dearden |
-| 310 | 430 | Quackers |
-| 311 | 430 | Jeni Dow |
+| 310 | 430 | Jeni Dow |
+| 311 | 430 | Quackers |
 | 312 | 430 | Jennifer Alvey |
 | 313 | 429 | Carrie Huskey |
 | 314 | 428 | Samantha Lynn |

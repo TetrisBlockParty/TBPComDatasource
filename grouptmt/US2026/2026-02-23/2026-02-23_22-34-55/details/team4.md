@@ -96,8 +96,8 @@
 | 88 | 783 | Guy Incognito |
 | 89 | 783 | Denise Carlson |
 | 90 | 775 | Klo |
-| 91 | 768 | Trista Leah |
-| 92 | 768 | Judy Cox |
+| 91 | 768 | Judy Cox |
+| 92 | 768 | Trista Leah |
 | 93 | 767 | Shannon Ferrari |
 | 94 | 766 | Robin Watters |
 | 95 | 764 | Valerie Roberts |
@@ -195,8 +195,8 @@
 | 187 | 465 | Jolly Dashfit |
 | 188 | 464 | Sharyn Lemire |
 | 189 | 462 | Leslie Thomas |
-| 190 | 457 | June Hoffman |
-| 191 | 457 | Kristin Manee |
+| 190 | 457 | Kristin Manee |
+| 191 | 457 | June Hoffman |
 | 192 | 455 | Michele Plunkett |
 | 193 | 450 | Amanda Pauldo-Ivy |
 | 194 | 449 | Courtney Cicoria |
@@ -324,8 +324,8 @@
 | 316 | 291 | ZeeZee |
 | 317 | 291 | Dizzy Matchzone |
 | 318 | 291 | Brittney Orengo |
-| 319 | 290 | Jared Gutwein |
-| 320 | 290 | Neirrah B Olailjeel |
+| 319 | 290 | Neirrah B Olailjeel |
+| 320 | 290 | Jared Gutwein |
 | 321 | 289 | Juls |
 | 322 | 289 | Lazy Glidepiece |
 | 323 | 289 | Deb Rubeck |
@@ -356,8 +356,8 @@
 | 348 | 272 | Dennis Bradley |
 | 349 | 272 | Tony Pavelka |
 | 350 | 271 | Holly |
-| 351 | 270 | 23 |
-| 352 | 270 | 07VHVW |
+| 351 | 270 | 07VHVW |
+| 352 | 270 | 23 |
 | 353 | 269 | Chummy Towerzone |
 | 354 | 268 | Shukee Lo |
 | 355 | 268 | Riverdale |

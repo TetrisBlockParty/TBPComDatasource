@@ -531,8 +531,8 @@
 | 523 | 790 | Dawn L Washington-Feuquay |
 | 524 | 789 | Leslie Jorgenson |
 | 525 | 788 | Samuel Macon |
-| 526 | 786 | Charvi' Carter |
-| 527 | 786 | Kimberly Randesi |
+| 526 | 786 | Kimberly Randesi |
+| 527 | 786 | Charvi' Carter |
 | 528 | 785 | Miranda Morris |
 | 529 | 783 | Angelina Marie |
 | 530 | 781 | Sarah Berger |
