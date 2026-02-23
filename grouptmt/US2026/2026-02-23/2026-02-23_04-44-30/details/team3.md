@@ -272,14 +272,14 @@
 | 264 | 357 | Cesar Barraza |
 | 265 | 354 | Kelly |
 | 266 | 353 | Dee Franklin |
-| 267 | 352 | Christian Werndl |
-| 268 | 352 | Samantha Lynn |
+| 267 | 352 | Samantha Lynn |
+| 268 | 352 | Christian Werndl |
 | 269 | 351 | Eon Harris |
 | 270 | 350 | LaShey Thompson |
 | 271 | 349 | Amanda J. Mcneil-Anderson |
 | 272 | 348 | Cyd061769 |
-| 273 | 347 | Tye Stovall |
-| 274 | 347 | Philip Rock |
+| 273 | 347 | Philip Rock |
+| 274 | 347 | Tye Stovall |
 | 275 | 346 | Tamara Deherrera |
 | 276 | 345 | MsBee |
 | 277 | 344 | Roary Danner |
@@ -426,9 +426,9 @@
 | 418 | 238 | 4girls |
 | 419 | 238 | Jess Dearborn |
 | 420 | 237 | Jolly Dashpiece |
-| 421 | 236 | Loopy Fallzone |
+| 421 | 236 | Alexis Ford |
 | 422 | 236 | lashanda |
-| 423 | 236 | Alexis Ford |
+| 423 | 236 | Loopy Fallzone |
 | 424 | 235 | Kevin Russell |
 | 425 | 235 | Eileen Brady Thurber |
 | 426 | 234 | Cheeky Twisterfit |
@@ -442,8 +442,8 @@
 | 434 | 231 | Frothy Snapper |
 | 435 | 231 | Giggly Brickroll |
 | 436 | 230 | BigE |
-| 437 | 230 | Angella Lyons |
-| 438 | 230 | DanceLuvLaugh |
+| 437 | 230 | DanceLuvLaugh |
+| 438 | 230 | Angella Lyons |
 | 439 | 229 | Everret Maxine |
 | 440 | 228 | Stephanie Hill |
 | 441 | 228 | Tia |

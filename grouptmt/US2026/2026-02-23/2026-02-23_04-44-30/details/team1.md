@@ -212,8 +212,8 @@
 | 204 | 295 | Sleepysloath5745 |
 | 205 | 294 | Bindi |
 | 206 | 293 | John Kim |
-| 207 | 291 | Brave Wrecker |
-| 208 | 291 | Giddy Cascade |
+| 207 | 291 | Giddy Cascade |
+| 208 | 291 | Brave Wrecker |
 | 209 | 290 | Speedy Liney |
 | 210 | 286 | Snippy Wipebuilder |
 | 211 | 286 | Billie Ann Eason |

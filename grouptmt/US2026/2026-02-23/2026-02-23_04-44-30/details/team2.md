@@ -157,8 +157,8 @@
 | 149 | 1578 | Sally Dennis |
 | 150 | 1571 | Alisa Lamb |
 | 151 | 1560 | Donnie Hunt |
-| 152 | 1558 | Stephen Stephen |
-| 153 | 1558 | Tim Dyer |
+| 152 | 1558 | Tim Dyer |
+| 153 | 1558 | Stephen Stephen |
 | 154 | 1555 | blarg |
 | 155 | 1541 | Cherica Taylor |
 | 156 | 1537 | Desiree Harris Rosch |
@@ -213,16 +213,16 @@
 | 205 | 1245 | Cody Nishimura |
 | 206 | 1243 | Anna Edwards |
 | 207 | 1237 | Megan Ferguson Leone |
-| 208 | 1232 | Groovy Puzzle |
-| 209 | 1232 | Ambyre Patterson |
+| 208 | 1232 | Ambyre Patterson |
+| 209 | 1232 | Groovy Puzzle |
 | 210 | 1230 | Megan Garrick |
 | 211 | 1217 | Lucky Ladybug |
 | 212 | 1217 | Brooks Brooks |
 | 213 | 1214 | David Cudicio-Hayden |
 | 214 | 1213 | Foxxo |
 | 215 | 1210 | Jane Fong |
-| 216 | 1205 | Tralonda Weeks |
-| 217 | 1205 | Tony Lea |
+| 216 | 1205 | Tony Lea |
+| 217 | 1205 | Tralonda Weeks |
 | 218 | 1198 | Carrie Trigg |
 | 219 | 1197 | Ricardo Burton |
 | 220 | 1192 | Denisha Dawkins |
@@ -325,8 +325,8 @@
 | 317 | 914 | Shuany Arias |
 | 318 | 907 | Gene Mills |
 | 319 | 907 | Michelle Lee |
-| 320 | 904 | Jennifer Aiken |
-| 321 | 904 | John Bednarik |
+| 320 | 904 | John Bednarik |
+| 321 | 904 | Jennifer Aiken |
 | 322 | 904 | Bee |
 | 323 | 902 | William Hunt |
 | 324 | 901 | Kevin Sees |
@@ -848,10 +848,10 @@
 | 840 | 403 | Susan Arnburg |
 | 841 | 403 | Allyson Marra |
 | 842 | 402 | AkaLefty |
-| 843 | 402 | BlaqSupaMan |
-| 844 | 402 | B |
-| 845 | 401 | Emoney Sanchez |
-| 846 | 401 | Victoria Marie Bunch |
+| 843 | 402 | B |
+| 844 | 402 | BlaqSupaMan |
+| 845 | 401 | Victoria Marie Bunch |
+| 846 | 401 | Emoney Sanchez |
 | 847 | 401 | James Zaragoza |
 | 848 | 400 | Tammy Allen |
 | 849 | 400 | Lazy Builderfit |

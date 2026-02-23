@@ -57,8 +57,8 @@
 | 49 | 863 | Pee |
 | 50 | 855 | Marvin Lou Martin |
 | 51 | 853 | TeeJ |
-| 52 | 846 | Christine Marie |
-| 53 | 846 | Lucille Truesdale |
+| 52 | 846 | Lucille Truesdale |
+| 53 | 846 | Christine Marie |
 | 54 | 845 | LisaJo Picken Buchanan |
 | 55 | 843 | Shelly Chandler |
 | 56 | 841 | Anthony Bryan Riva |
@@ -71,10 +71,10 @@
 | 63 | 776 | Rachel Anne |
 | 64 | 772 | Ashley Ingram |
 | 65 | 767 | Shannon Ferrari |
-| 66 | 766 | Edward White |
-| 67 | 766 | Robin Watters |
-| 68 | 765 | Denise Carlson |
-| 69 | 765 | Robin Getchel |
+| 66 | 766 | Robin Watters |
+| 67 | 766 | Edward White |
+| 68 | 765 | Robin Getchel |
+| 69 | 765 | Denise Carlson |
 | 70 | 752 | loulou |
 | 71 | 749 | Dustee Craddock-Harrison |
 | 72 | 742 | Carolyn Wallace |
@@ -161,8 +161,8 @@
 | 153 | 387 | 🥔🥔 Spudz |
 | 154 | 381 | Tyler Terrific |
 | 155 | 377 | Carrie Brian |
-| 156 | 375 | ThaEviLJeNiuZ |
-| 157 | 375 | Desi Desporte |
+| 156 | 375 | Desi Desporte |
+| 157 | 375 | ThaEviLJeNiuZ |
 | 158 | 374 | Guy Incognito |
 | 159 | 374 | Leslie Nicole |
 | 160 | 370 | Oscar Alberto Perez |
@@ -201,8 +201,8 @@
 | 193 | 313 | Zippy Block |
 | 194 | 310 | Holly Jolly |
 | 195 | 309 | Cursed Hag |
-| 196 | 307 | Cheery Risebuilder |
-| 197 | 307 | Michele Plunkett |
+| 196 | 307 | Michele Plunkett |
+| 197 | 307 | Cheery Risebuilder |
 | 198 | 306 | blockstar |
 | 199 | 305 | Melvin Baird |
 | 200 | 304 | Mary Ann Pabukis |
@@ -307,9 +307,9 @@
 | 299 | 216 | mike |
 | 300 | 216 | ZeeZee |
 | 301 | 215 | Stephme310 |
-| 302 | 214 | Patron Anderson |
+| 302 | 214 | Chantilly Laace |
 | 303 | 214 | Stacey Stano |
-| 304 | 214 | Chantilly Laace |
+| 304 | 214 | Patron Anderson |
 | 305 | 213 | Jackie Marie |
 | 306 | 212 | Zany Shatterer |
 | 307 | 212 | Mike Solo |
