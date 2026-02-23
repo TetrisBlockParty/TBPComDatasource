@@ -62,8 +62,8 @@
 | 54 | 1156 | Goatimus Lombardi |
 | 55 | 1150 | Kimyatta Cavin |
 | 56 | 1106 | Ashley Ingram |
-| 57 | 1082 | Avy Absol |
-| 58 | 1082 | Dion Crommarty |
+| 57 | 1082 | Dion Crommarty |
+| 58 | 1082 | Avy Absol |
 | 59 | 1073 | Dustee Craddock-Harrison |
 | 60 | 1057 | Rachel Anne |
 | 61 | 1049 | Heather Tushner |
@@ -302,7 +302,7 @@
 | 294 | 313 | DonMega |
 | 295 | 313 | Angie Schmidt |
 | 296 | 312 | Dihcheese444 |
-| 297 | 311 | Shiny Fit |
+| 297 | 311 | Nikki Rae Gordon |
 | 298 | 311 | Laura |
 | 299 | 311 | Shiny Fit |
 | 300 | 308 | Leah Kutz Zirbel |
@@ -361,8 +361,8 @@
 | 353 | 272 | Tony Pavelka |
 | 354 | 272 | Dennis Bradley |
 | 355 | 271 | Holly |
-| 356 | 270 | 23 |
-| 357 | 270 | 07VHVW |
+| 356 | 270 | 07VHVW |
+| 357 | 270 | 23 |
 | 358 | 269 | Chummy Towerzone |
 | 359 | 268 | Riverdale |
 | 360 | 268 | Shukee Lo |
@@ -470,14 +470,14 @@
 | 462 | 217 | Dorian |
 | 463 | 217 | Cheery Fitline |
 | 464 | 216 | Ryry |
-| 465 | 215 | Squeezy Pearsall |
-| 466 | 215 | Tanya Abernathy Jackson |
+| 465 | 215 | Tanya Abernathy Jackson |
+| 466 | 215 | Squeezy Pearsall |
 | 467 | 214 | B Renee Desjardin |
-| 468 | 214 | Kelly Adams Carnahan |
-| 469 | 214 | Susan R. Wilson |
-| 470 | 213 | Derick |
-| 471 | 213 | Candice Carasiti |
-| 472 | 213 | Frank Joseph Epson |
+| 468 | 214 | Susan R. Wilson |
+| 469 | 214 | Kelly Adams Carnahan |
+| 470 | 213 | Candice Carasiti |
+| 471 | 213 | Frank Joseph Epson |
+| 472 | 213 | Derick |
 | 473 | 212 | Mike Solo |
 | 474 | 211 | Neil Ingham |
 | 475 | 209 | Calvin Dennis |
@@ -503,8 +503,8 @@
 | 495 | 203 | Gilles Lanctot |
 | 496 | 203 | Sho Nuff |
 | 497 | 202 | Jennifer Brown |
-| 498 | 201 | Jake Roberts |
-| 499 | 201 | Walter Beltran |
+| 498 | 201 | Walter Beltran |
+| 499 | 201 | Jake Roberts |
 | 500 | 201 | Carla Harris |
 | 501 | 201 | Michelle Morris |
 | 502 | 199 | Johnny R |

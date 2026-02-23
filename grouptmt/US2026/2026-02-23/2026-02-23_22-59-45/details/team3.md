@@ -214,8 +214,8 @@
 | 206 | 621 | Sashay Tapae Simpson |
 | 207 | 617 | Annie Déè |
 | 208 | 616 | Kammy Hill |
-| 209 | 605 | Sarah Cowan Burgos |
-| 210 | 605 | CeceGeGe |
+| 209 | 605 | CeceGeGe |
+| 210 | 605 | Sarah Cowan Burgos |
 | 211 | 600 | Keis |
 | 212 | 598 | Bmo |
 | 213 | 597 | Kaycee Kay |
@@ -234,8 +234,8 @@
 | 226 | 569 | Juliana Dottore |
 | 227 | 568 | Rachael McClain Owens |
 | 228 | 566 | LaTanya GeminiondaRise Johnson |
-| 229 | 564 | Poppy Splitter |
-| 230 | 564 | Christine Trester |
+| 229 | 564 | Christine Trester |
+| 230 | 564 | Poppy Splitter |
 | 231 | 563 | Fallorina Susana |
 | 232 | 562 | Trisha Balmer |
 | 233 | 562 | Dave Herzog |
@@ -336,8 +336,8 @@
 | 328 | 412 | Jojo M |
 | 329 | 411 | Christian Werndl |
 | 330 | 409 | Colton |
-| 331 | 408 | Ashley Muncey |
-| 332 | 408 | Tiffany Ford |
+| 331 | 408 | Tiffany Ford |
+| 332 | 408 | Ashley Muncey |
 | 333 | 407 | Steffi Chris Dacones |
 | 334 | 405 | Chris Bell |
 | 335 | 405 | Andrew Thorson |
@@ -372,8 +372,8 @@
 | 364 | 375 | neci |
 | 365 | 374 | Foltz Lee Kelli |
 | 366 | 373 | KayB |
-| 367 | 372 | Rich LeBlanc |
-| 368 | 372 | Breanna Marsden |
+| 367 | 372 | Breanna Marsden |
+| 368 | 372 | Rich LeBlanc |
 | 369 | 370 | Roary Danner |
 | 370 | 370 | TotoCherue |
 | 371 | 370 | Ashley Lynn Marchese |

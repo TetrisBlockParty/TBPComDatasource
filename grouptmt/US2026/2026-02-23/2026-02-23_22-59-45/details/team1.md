@@ -36,8 +36,8 @@
 | 28 | 1585 | Jennifer Cates |
 | 29 | 1582 | Joe Smith |
 | 30 | 1527 | Hyp James NObettadanluvarat |
-| 31 | 1520 | Ashley Elizabeth |
-| 32 | 1520 | Lola Adkhambekovna |
+| 31 | 1520 | Lola Adkhambekovna |
+| 32 | 1520 | Ashley Elizabeth |
 | 33 | 1515 | Felicia Lewis |
 | 34 | 1495 | Christina Graham |
 | 35 | 1413 | Trippy Redd |
@@ -267,8 +267,8 @@
 | 259 | 353 | Reesey Enyart |
 | 260 | 349 | Cool Shiftsnap |
 | 261 | 348 | DoodleBug |
-| 262 | 348 | Jamie Jury |
-| 263 | 348 | John Kim |
+| 262 | 348 | John Kim |
+| 263 | 348 | Jamie Jury |
 | 264 | 346 | GATOR |
 | 265 | 345 | Keith Mathis |
 | 266 | 344 | dhardy |
@@ -307,8 +307,8 @@
 | 299 | 316 | Giggly Builderline |
 | 300 | 316 | Cheeky Pop |
 | 301 | 313 | Cody Gates |
-| 302 | 312 | Melissa Bires Hussar |
-| 303 | 312 | Jessica Russell |
+| 302 | 312 | Jessica Russell |
+| 303 | 312 | Melissa Bires Hussar |
 | 304 | 312 | Danielle S Kester |
 | 305 | 311 | Nathan Sealander |
 | 306 | 310 | Mrs.Patrica |
