@@ -178,8 +178,8 @@
 | 170 | 762 | Santeria Trece Candles |
 | 171 | 761 | Peppy Shifter |
 | 172 | 757 | Fancy Cascader |
-| 173 | 755 | Tye Stovall |
-| 174 | 755 | Laura Booth Wosko |
+| 173 | 755 | Laura Booth Wosko |
+| 174 | 755 | Tye Stovall |
 | 175 | 742 | Jennifer Lynn Fahrenholtz-Summers |
 | 176 | 740 | Kiki |
 | 177 | 738 | Naur |
@@ -323,8 +323,8 @@
 | 315 | 436 | Heather De Vries Cobb |
 | 316 | 434 | Daring Builder |
 | 317 | 432 | Luciana Braganca Vieira |
-| 318 | 431 | Tia |
-| 319 | 431 | Wendy Dearden |
+| 318 | 431 | Wendy Dearden |
+| 319 | 431 | Tia |
 | 320 | 430 | Quackers |
 | 321 | 429 | Carrie Huskey |
 | 322 | 428 | Samantha Lynn |
@@ -364,8 +364,8 @@
 | 356 | 386 | Kelly Wolf |
 | 357 | 383 | Kirhonda Autmon |
 | 358 | 383 | Nikki White |
-| 359 | 382 | Tiffany Davie |
-| 360 | 382 | Amanda J. Mcneil-Anderson |
+| 359 | 382 | Amanda J. Mcneil-Anderson |
+| 360 | 382 | Tiffany Davie |
 | 361 | 381 | Christina Spa |
 | 362 | 381 | gremicx |
 | 363 | 379 | Kelly |
@@ -473,8 +473,8 @@
 | 465 | 316 | Travis W |
 | 466 | 315 | Funky Brickster |
 | 467 | 314 | Misstery |
-| 468 | 313 | Hoppy Buildout |
-| 469 | 313 | Block Baddie |
+| 468 | 313 | Block Baddie |
+| 469 | 313 | Hoppy Buildout |
 | 470 | 312 | Willow |
 | 471 | 312 | Eric Caccavale |
 | 472 | 311 | Irene Arreguin |
@@ -494,8 +494,8 @@
 | 486 | 306 | Valerie Tarkington |
 | 487 | 306 | Cathy Leger |
 | 488 | 305 | Breezy Roll |
-| 489 | 304 | _melisa223_ |
-| 490 | 304 | Courtney Price |
+| 489 | 304 | Courtney Price |
+| 490 | 304 | _melisa223_ |
 | 491 | 304 | Loopy Fallzone |
 | 492 | 303 | Trey Ward |
 | 493 | 303 | Sameerah Smith |
@@ -512,13 +512,13 @@
 | 504 | 296 | atomictrin |
 | 505 | 296 | Amy Montz |
 | 506 | 296 | Tracy Martin |
-| 507 | 295 | Stephanie Sanchez |
-| 508 | 295 | Dakota Graham |
+| 507 | 295 | Dakota Graham |
+| 508 | 295 | Stephanie Sanchez |
 | 509 | 294 | toony |
 | 510 | 294 | Chenoa Urban Sophicated Redy |
 | 511 | 293 | Tommy Proctor |
-| 512 | 293 | Omega |
-| 513 | 293 | Arden White Kirsch |
+| 512 | 293 | Arden White Kirsch |
+| 513 | 293 | Omega |
 | 514 | 292 | Scouty |
 | 515 | 291 | Sunny Lift |
 | 516 | 290 | Carrie Resler |

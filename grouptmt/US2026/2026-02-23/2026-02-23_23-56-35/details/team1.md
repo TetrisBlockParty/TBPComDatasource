@@ -299,8 +299,8 @@
 | 291 | 330 | Jeremy Maubert |
 | 292 | 329 | Marianita Garcia |
 | 293 | 328 | Buttons Stemm |
-| 294 | 325 | GringaLinga |
-| 295 | 325 | Snappy Brickbuilder |
+| 294 | 325 | Snappy Brickbuilder |
+| 295 | 325 | GringaLinga |
 | 296 | 325 | Mitchel White |
 | 297 | 324 | Sylvia Vasquez |
 | 298 | 324 | Mandyy Rae |
@@ -335,8 +335,8 @@
 | 327 | 296 | Sunny Shift |
 | 328 | 294 | Наталья Солоид |
 | 329 | 293 | Garrett Burket |
-| 330 | 292 | Damian Salem |
-| 331 | 292 | Fresno Beotoni |
+| 330 | 292 | Fresno Beotoni |
+| 331 | 292 | Damian Salem |
 | 332 | 292 | Clever Cascadepiece |
 | 333 | 291 | Michael Espinosa Ulibarri Jr. |
 | 334 | 291 | Toph |

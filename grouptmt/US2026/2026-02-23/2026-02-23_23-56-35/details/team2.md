@@ -489,8 +489,8 @@
 | 481 | 869 | Dennis McLaurin |
 | 482 | 862 | Sarah Massey |
 | 483 | 857 | Caitlyn Blackwell |
-| 484 | 852 | Allan Wayne Lamia |
-| 485 | 852 | Layla LS |
+| 484 | 852 | Layla LS |
+| 485 | 852 | Allan Wayne Lamia |
 | 486 | 850 | Sabrina Burton |
 | 487 | 849 | Ann Matzkanin |
 | 488 | 849 | Gold Rose |
@@ -501,8 +501,8 @@
 | 493 | 840 | Traci Johnson |
 | 494 | 840 | Kiana Boschh |
 | 495 | 839 | Gary Stash |
-| 496 | 835 | William David Swallow |
-| 497 | 835 | Connie Jimenez |
+| 496 | 835 | Connie Jimenez |
+| 497 | 835 | William David Swallow |
 | 498 | 835 | Giggy Mover |
 | 499 | 834 | Montez Mancil |
 | 500 | 831 | Victoria Moore-Smith |
