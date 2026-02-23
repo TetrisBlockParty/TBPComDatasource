@@ -112,8 +112,8 @@
 | 104 | 667 | Amy Suckarieh |
 | 105 | 664 | Nugget |
 | 106 | 659 | Jamie Gustafson |
-| 107 | 658 | Girl |
-| 108 | 658 | Zippy Gridlock |
+| 107 | 658 | Zippy Gridlock |
+| 108 | 658 | Girl |
 | 109 | 657 | Lori Walker |
 | 110 | 652 | Leslie Nicole |
 | 111 | 647 | KM8 |
@@ -139,8 +139,8 @@
 | 131 | 545 | Desi Desporte |
 | 132 | 542 | Austin Owens |
 | 133 | 540 | Rodney McMath Jr. |
-| 134 | 538 | Carlos Ramirez |
-| 135 | 538 | shar |
+| 134 | 538 | shar |
+| 135 | 538 | Carlos Ramirez |
 | 136 | 531 | Serena Goodridge |
 | 137 | 524 | Cristy Duerksen |
 | 138 | 521 | Andy Cabral |
@@ -226,8 +226,8 @@
 | 218 | 361 | Mimi |
 | 219 | 361 | Rafael Valentin |
 | 220 | 360 | Backoff Recupe |
-| 221 | 358 | Twisty Cascadezone |
-| 222 | 358 | A5! |
+| 221 | 358 | A5! |
+| 222 | 358 | Twisty Cascadezone |
 | 223 | 355 | James Hurley Jr. |
 | 224 | 355 | Nita Wells |
 | 225 | 354 | TRCuse |
@@ -236,8 +236,8 @@
 | 228 | 348 | KimoKoala |
 | 229 | 348 | David Lay |
 | 230 | 347 | Gdiguy |
-| 231 | 347 | Bio Nelly |
-| 232 | 347 | Daria Rycewicz |
+| 231 | 347 | Daria Rycewicz |
+| 232 | 347 | Bio Nelly |
 | 233 | 343 | HastyGrabber |
 | 234 | 343 | Rebecca Morris |
 | 235 | 342 | blasterB |

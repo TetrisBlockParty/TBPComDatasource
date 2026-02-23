@@ -124,8 +124,8 @@
 | 116 | 896 | Jesse Olive |
 | 117 | 878 | Shane Wilson Jr. |
 | 118 | 874 | Jessica Pineda-Lopez |
-| 119 | 868 | Sarajane Lokan |
-| 120 | 868 | Felicia Rocha |
+| 119 | 868 | Felicia Rocha |
+| 120 | 868 | Sarajane Lokan |
 | 121 | 864 | Sunny Rotater |
 | 122 | 856 | Kristie |
 | 123 | 848 | Patricia Gadsden |
@@ -253,8 +253,8 @@
 | 245 | 477 | Edwin Calvillo Jr. |
 | 246 | 471 | Rebecca Bailey |
 | 247 | 471 | Mendoza Lee Christy |
-| 248 | 470 | Rebecca Funderburk Kirby |
-| 249 | 470 | Marci Mize Fandrich |
+| 248 | 470 | Marci Mize Fandrich |
+| 249 | 470 | Rebecca Funderburk Kirby |
 | 250 | 468 | Shunta Jacobs |
 | 251 | 467 | Sherry Ogden |
 | 252 | 466 | Eileen Brady Thurber |
