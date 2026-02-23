@@ -55,8 +55,8 @@
 | 47 | 938 | Denny Shives |
 | 48 | 936 | Rebecca Moulton Pinciaro |
 | 49 | 932 | Marvin Lou Martin |
-| 50 | 911 | Jeremy Steines |
-| 51 | 911 | Anthony Bryan Riva |
+| 50 | 911 | Anthony Bryan Riva |
+| 51 | 911 | Jeremy Steines |
 | 52 | 870 | BertMofo |
 | 53 | 864 | Shelly Chandler |
 | 54 | 863 | Pee |
@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Jonathan Kimbrough |
-| 84 | 684 | Kimyatta Cavin |
+| 83 | 684 | Kimyatta Cavin |
+| 84 | 684 | Jonathan Kimbrough |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | Shauna Havard |
-| 93 | 647 | KM8 |
+| 92 | 647 | KM8 |
+| 93 | 647 | Shauna Havard |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -120,10 +120,10 @@
 | 112 | 528 | Rodney McMath Jr. |
 | 113 | 527 | Dizzy Tiley |
 | 114 | 519 | Nugget |
-| 115 | 517 | shar |
-| 116 | 517 | Christina LR |
-| 117 | 514 | Serena Goodridge |
-| 118 | 514 | Scott Jameson |
+| 115 | 517 | Christina LR |
+| 116 | 517 | shar |
+| 117 | 514 | Scott Jameson |
+| 118 | 514 | Serena Goodridge |
 | 119 | 513 | Erin Thomas |
 | 120 | 512 | Cristy Duerksen |
 | 121 | 512 | Casey Jeffcoat |
@@ -274,19 +274,19 @@
 | 266 | 256 | Metsfan |
 | 267 | 253 | Autum Leigh |
 | 268 | 251 | Carol Ricks Raymond |
-| 269 | 249 | Ak Jones |
-| 270 | 249 | Nick Gray |
-| 271 | 248 | Jose Dejesus |
-| 272 | 248 | Chirpy Basepiece |
+| 269 | 249 | Nick Gray |
+| 270 | 249 | Ak Jones |
+| 271 | 248 | Chirpy Basepiece |
+| 272 | 248 | Jose Dejesus |
 | 273 | 245 | 23 |
 | 274 | 244 | Elizabeth Tinoco |
 | 275 | 244 | Christina Black |
-| 276 | 242 | Chaz |
-| 277 | 242 | PurpleMoonMa |
-| 278 | 240 | Kim Hunt |
-| 279 | 240 | Perky Patternblock |
-| 280 | 239 | Denise B |
-| 281 | 239 | Joanna |
+| 276 | 242 | PurpleMoonMa |
+| 277 | 242 | Chaz |
+| 278 | 240 | Perky Patternblock |
+| 279 | 240 | Kim Hunt |
+| 280 | 239 | Joanna |
+| 281 | 239 | Denise B |
 | 282 | 238 | 中山成巳 |
 | 283 | 237 | Christine Therrien |
 | 284 | 235 | LaDonna LovinmesomeMe Lambert |
@@ -303,8 +303,8 @@
 | 295 | 225 | Jenna McGeorge |
 | 296 | 225 | Ernest Maxwell |
 | 297 | 224 | Ultramarine |
-| 298 | 223 | Adawna Swires |
-| 299 | 223 | Chance Strickland |
+| 298 | 223 | Chance Strickland |
+| 299 | 223 | Adawna Swires |
 | 300 | 223 | Amanda Christine |
 | 301 | 222 | Brandi Durig |
 | 302 | 221 | Joseph Edmonson |
@@ -322,8 +322,8 @@
 | 314 | 216 | Chantilly Laace |
 | 315 | 216 | mike |
 | 316 | 215 | Stephme310 |
-| 317 | 214 | Stacey Stano |
-| 318 | 214 | Patron Anderson |
+| 317 | 214 | Patron Anderson |
+| 318 | 214 | Stacey Stano |
 | 319 | 213 | Jackie Marie |
 | 320 | 212 | Mike Solo |
 | 321 | 212 | Zany Shatterer |
@@ -526,7 +526,7 @@
 | 518 | 136 | Badatvs |
 | 519 | 136 | Tabitha Calvin |
 | 520 | 136 | Jennifer Perkins |
-| 521 | 136 | Tabitha Calvin |
+| 521 | 136 | Zocko Ellet |
 | 522 | 134 | Tabitha Henson |
 | 523 | 133 | Wacky Blockclear |
 | 524 | 133 | Amy C Brown |

@@ -478,8 +478,8 @@
 | 470 | 693 | Ryan Stadel |
 | 471 | 692 | Shaun Church |
 | 472 | 691 | Poldo Ilano |
-| 473 | 691 | Samuel Macon |
-| 474 | 691 | Arwa Fatimah |
+| 473 | 691 | Arwa Fatimah |
+| 474 | 691 | Samuel Macon |
 | 475 | 689 | Gauri Shrotriya |
 | 476 | 686 | Christine Coughlin |
 | 477 | 684 | Sarah DeHart |
@@ -666,8 +666,8 @@
 | 658 | 522 | Leah |
 | 659 | 521 | Mia Muse Best |
 | 660 | 520 | Armonie Smith |
-| 661 | 519 | Rob Brown |
-| 662 | 519 | CupCake |
+| 661 | 519 | CupCake |
+| 662 | 519 | Rob Brown |
 | 663 | 519 | Mandi Marie Smith |
 | 664 | 518 | Tash Bell |
 | 665 | 517 | Daring Caster |
@@ -909,11 +909,11 @@
 | 901 | 400 | Tammy Allen |
 | 902 | 399 | Trista Carter |
 | 903 | 399 | Heather Johnson |
-| 904 | 398 | Juan Killyoselfifudontlikeme Ronaldo |
-| 905 | 398 | John Quiring |
-| 906 | 398 | TF Dyer |
-| 907 | 398 | Kendall Fullerton |
-| 908 | 398 | Witty Piecebuilder |
+| 904 | 398 | John Quiring |
+| 905 | 398 | TF Dyer |
+| 906 | 398 | Kendall Fullerton |
+| 907 | 398 | Witty Piecebuilder |
+| 908 | 398 | Juan Killyoselfifudontlikeme Ronaldo |
 | 909 | 397 | Dawn Woosley Bowes |
 | 910 | 397 | Maxwell Escalera |
 | 911 | 397 | Jessica Conaway |
@@ -933,8 +933,8 @@
 | 925 | 390 | Karmabunny |
 | 926 | 390 | MauroPRM |
 | 927 | 390 | Smiley Strike |
-| 928 | 390 | Tasia Stinson |
-| 929 | 390 | Kyla Louise |
+| 928 | 390 | Kyla Louise |
+| 929 | 390 | Tasia Stinson |
 | 930 | 389 | Loony Basepiece |
 | 931 | 388 | Kristina Marie Hanna |
 | 932 | 388 | Alice Ball |
@@ -1002,8 +1002,8 @@
 | 994 | 368 | Bec |
 | 995 | 367 | Lush Snapzone |
 | 996 | 367 | Rachel Kaminski |
-| 997 | 366 | Josh Webster |
-| 998 | 366 | Ashley Criner |
+| 997 | 366 | Ashley Criner |
+| 998 | 366 | Josh Webster |
 | 999 | 366 | Monique Foster |
 | 1000 | 366 | KrisCynthia Lynette |
 | 1001 | 365 | Dee Blokk |

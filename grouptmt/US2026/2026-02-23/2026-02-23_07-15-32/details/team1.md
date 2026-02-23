@@ -141,8 +141,8 @@
 | 133 | 411 | BadG52 |
 | 134 | 410 | ALFD |
 | 135 | 409 | Goose egg |
-| 136 | 406 | Desiree Deschaine Havee |
-| 137 | 406 | Candy Jones |
+| 136 | 406 | Candy Jones |
+| 137 | 406 | Desiree Deschaine Havee |
 | 138 | 402 | Chris K |
 | 139 | 399 | Nery Martinez |
 | 140 | 394 | Lori Bales |
@@ -773,7 +773,7 @@
 | 765 | 89 | Brave Stacky |
 | 766 | 89 | forevernght |
 | 767 | 88 | ken |
-| 768 | 88 | Gewb |
+| 768 | 88 | Donna Taliger Brigante |
 | 769 | 88 | OneCrazyGator |
 | 770 | 88 | Gewb |
 | 771 | 88 | Kathryn Chiles Anderson |
