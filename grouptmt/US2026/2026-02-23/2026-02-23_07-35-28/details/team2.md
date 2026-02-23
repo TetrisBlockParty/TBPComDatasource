@@ -544,8 +544,8 @@
 | 536 | 620 | Brenna Ann |
 | 537 | 619 | Lylymom |
 | 538 | 618 | Vanessa Moreno |
-| 539 | 617 | Kacee Conrad Bock |
-| 540 | 617 | Darcy Mae |
+| 539 | 617 | Darcy Mae |
+| 540 | 617 | Kacee Conrad Bock |
 | 541 | 615 | Nerdy Pattern |
 | 542 | 615 | Julio A Laracuente |
 | 543 | 615 | Lyndi Robinson Wakefield |
@@ -609,8 +609,8 @@
 | 601 | 569 | Slip |
 | 602 | 569 | Sparkles |
 | 603 | 566 | Isabelle Bonneau |
-| 604 | 566 | SwampRebel |
-| 605 | 566 | Tina Marie |
+| 604 | 566 | Tina Marie |
+| 605 | 566 | SwampRebel |
 | 606 | 565 | Wuntayk |
 | 607 | 564 | Stacey Tranchida |
 | 608 | 563 | Nat |
@@ -1173,8 +1173,8 @@
 | 1165 | 318 | Perk Diggler |
 | 1166 | 318 | Natasha Marie |
 | 1167 | 318 | Arlet Alba |
-| 1168 | 318 | bosswoman |
-| 1169 | 318 | Steve Zortman |
+| 1168 | 318 | Steve Zortman |
+| 1169 | 318 | bosswoman |
 | 1170 | 317 | Jamie Frank Karolyi |
 | 1171 | 317 | Daring Matchfit |
 | 1172 | 317 | Zombi3 |

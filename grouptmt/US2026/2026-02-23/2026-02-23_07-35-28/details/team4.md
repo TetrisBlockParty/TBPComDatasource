@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Kimyatta Cavin |
-| 84 | 684 | Jonathan Kimbrough |
+| 83 | 684 | Jonathan Kimbrough |
+| 84 | 684 | Kimyatta Cavin |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -122,8 +122,8 @@
 | 114 | 519 | Nugget |
 | 115 | 517 | Christina LR |
 | 116 | 517 | shar |
-| 117 | 514 | Scott Jameson |
-| 118 | 514 | Serena Goodridge |
+| 117 | 514 | Serena Goodridge |
+| 118 | 514 | Scott Jameson |
 | 119 | 513 | Erin Thomas |
 | 120 | 512 | Casey Jeffcoat |
 | 121 | 512 | Cristy Duerksen |
@@ -207,8 +207,8 @@
 | 199 | 320 | Lauren Scott |
 | 200 | 318 | Chris Hartig |
 | 201 | 316 | Autumn Kumzi |
-| 202 | 312 | Dihcheese444 |
-| 203 | 312 | Casey Grabner |
+| 202 | 312 | Casey Grabner |
+| 203 | 312 | Dihcheese444 |
 | 204 | 311 | Mary Ann Pabukis |
 | 205 | 310 | Holly Jolly |
 | 206 | 307 | Cheery Risebuilder |
@@ -231,7 +231,7 @@
 | 223 | 288 | Leah Kutz Zirbel |
 | 224 | 288 | Brittney Orengo |
 | 225 | 288 | Adam Stephanie Parker |
-| 226 | 288 | Leah Kutz Zirbel |
+| 226 | 288 | Zesty Twistbuilder |
 | 227 | 286 | Steph Marie |
 | 228 | 285 | 030Synner |
 | 229 | 284 | Mimi |
@@ -269,9 +269,9 @@
 | 261 | 259 | Montiette Mcglown |
 | 262 | 259 | Allen Lloyd |
 | 263 | 257 | PeaceOs |
-| 264 | 256 | Metsfan |
+| 264 | 256 | Brittany Marsh |
 | 265 | 256 | Jade Rian |
-| 266 | 256 | Brittany Marsh |
+| 266 | 256 | Metsfan |
 | 267 | 253 | Autum Leigh |
 | 268 | 251 | Carol Ricks Raymond |
 | 269 | 249 | Ak Jones |
