@@ -116,8 +116,8 @@
 | 108 | 667 | Amy Suckarieh |
 | 109 | 663 | H.R. Block |
 | 110 | 659 | Jamie Gustafson |
-| 111 | 658 | Zippy Gridlock |
-| 112 | 658 | Girl |
+| 111 | 658 | Girl |
+| 112 | 658 | Zippy Gridlock |
 | 113 | 652 | Leslie Nicole |
 | 114 | 649 | Chris Alexinas |
 | 115 | 647 | KM8 |
@@ -193,8 +193,8 @@
 | 185 | 434 | Ramel Rhodes |
 | 186 | 431 | Courtney Cicoria |
 | 187 | 427 | Steph Marie |
-| 188 | 426 | 🥔🥔 Spudz |
-| 189 | 426 | Rebecca Morris |
+| 188 | 426 | Rebecca Morris |
+| 189 | 426 | 🥔🥔 Spudz |
 | 190 | 425 | Damn Libra |
 | 191 | 425 | Michele Plunkett |
 | 192 | 424 | Keshia Lyons |
@@ -230,13 +230,13 @@
 | 222 | 379 | Backoff Recupe |
 | 223 | 378 | Lauren Scott |
 | 224 | 378 | Silly Zonebuilder |
-| 225 | 376 | shark tato |
-| 226 | 376 | Zesty Twistbuilder |
+| 225 | 376 | Zesty Twistbuilder |
+| 226 | 376 | shark tato |
 | 227 | 374 | Mr. Party |
 | 228 | 373 | JPW |
 | 229 | 372 | Holly Jolly |
-| 230 | 368 | Deanna Deckard |
-| 231 | 368 | Kris Bartlett |
+| 230 | 368 | Kris Bartlett |
+| 231 | 368 | Deanna Deckard |
 | 232 | 367 | Sue Joyce Staats |
 | 233 | 365 | Hyper Builder |
 | 234 | 363 | Googenheim |
@@ -354,8 +354,8 @@
 | 346 | 259 | Allen Lloyd |
 | 347 | 259 | Montiette Mcglown |
 | 348 | 258 | DQ Martin |
-| 349 | 257 | Marcus TheeyoungWoe Gilmore |
-| 350 | 257 | Alexandra Karavias |
+| 349 | 257 | Alexandra Karavias |
+| 350 | 257 | Marcus TheeyoungWoe Gilmore |
 | 351 | 256 | Paige Kittles |
 | 352 | 256 | Mackenzie Forrester |
 | 353 | 253 | Chair |
@@ -482,9 +482,9 @@
 | 474 | 194 | Zany Twisterfit |
 | 475 | 194 | Carlos Hernandez |
 | 476 | 193 | tipsy tiger |
-| 477 | 192 | Jeff Roberts |
-| 478 | 192 | Jacob Campbell |
-| 479 | 192 | Rebecca A Rit |
+| 477 | 192 | Rebecca A Rit |
+| 478 | 192 | Jeff Roberts |
+| 479 | 192 | Jacob Campbell |
 | 480 | 192 | Twisty Risebuilder |
 | 481 | 191 | Earnest Thompson |
 | 482 | 191 | Jobadia Steelerton |

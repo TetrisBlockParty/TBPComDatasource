@@ -244,8 +244,8 @@
 | 236 | 519 | Nichol Graham |
 | 237 | 516 | Daring Brickzone |
 | 238 | 515 | Cozy Snaplink |
-| 239 | 513 | Twisty Brick LT |
-| 240 | 513 | Lizabeth Fox |
+| 239 | 513 | Lizabeth Fox |
+| 240 | 513 | Twisty Brick LT |
 | 241 | 513 | kacihall |
 | 242 | 512 | Fallorina Susana |
 | 243 | 508 | Sherry Ogden |
@@ -295,8 +295,8 @@
 | 287 | 434 | Sleepy |
 | 288 | 432 | Luciana Braganca Vieira |
 | 289 | 431 | Wendy Dearden |
-| 290 | 430 | Quackers |
-| 291 | 430 | Jeni Dow |
+| 290 | 430 | Jeni Dow |
+| 291 | 430 | Quackers |
 | 292 | 429 | Carrie Huskey |
 | 293 | 426 | Gumbo |
 | 294 | 425 | Jennifer Alvey |
@@ -343,8 +343,8 @@
 | 335 | 375 | Joy Petroski |
 | 336 | 372 | Rich LeBlanc |
 | 337 | 371 | block chick |
-| 338 | 370 | Tasha Wesson-Torrence |
-| 339 | 370 | Roary Danner |
+| 338 | 370 | Roary Danner |
+| 339 | 370 | Tasha Wesson-Torrence |
 | 340 | 370 | Kirhonda Autmon |
 | 341 | 369 | Amber Glover |
 | 342 | 368 | Sheila M Frazier |
@@ -359,8 +359,8 @@
 | 351 | 362 | Chummy Rumbler |
 | 352 | 362 | Brandon Givens |
 | 353 | 361 | neci |
-| 354 | 359 | Steven Fulater |
-| 355 | 359 | Kristen Weese |
+| 354 | 359 | Kristen Weese |
+| 355 | 359 | Steven Fulater |
 | 356 | 358 | Heather Davis |
 | 357 | 356 | Tony Waters |
 | 358 | 356 | Alexmac |

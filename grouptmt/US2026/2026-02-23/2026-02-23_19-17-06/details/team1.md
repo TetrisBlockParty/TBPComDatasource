@@ -119,8 +119,8 @@
 | 111 | 586 | Jessi Sauer |
 | 112 | 583 | Theo Pinnow |
 | 113 | 577 | Damon J. Martin |
-| 114 | 574 | Tiger Lily |
-| 115 | 574 | femmefatale |
+| 114 | 574 | femmefatale |
+| 115 | 574 | Tiger Lily |
 | 116 | 572 | Deanna L Hermanson |
 | 117 | 571 | Virginia Gray Floyd |
 | 118 | 570 | Cody Slav |
@@ -251,8 +251,8 @@
 | 243 | 348 | John Kim |
 | 244 | 346 | GATOR |
 | 245 | 344 | dhardy |
-| 246 | 341 | Nick R Montague |
-| 247 | 341 | DoodleBug |
+| 246 | 341 | DoodleBug |
+| 247 | 341 | Nick R Montague |
 | 248 | 340 | Danielle Little-Daugherty |
 | 249 | 339 | Keith Mathis |
 | 250 | 338 | Layzietyme |
@@ -322,8 +322,8 @@
 | 314 | 283 | Sunny Shift |
 | 315 | 283 | Franswa |
 | 316 | 282 | Timothy Dew |
-| 317 | 281 | Standia Civil |
-| 318 | 281 | Richard Corrado |
+| 317 | 281 | Richard Corrado |
+| 318 | 281 | Standia Civil |
 | 319 | 280 | Billie Dawn Sparks |
 | 320 | 279 | Chris Dawson |
 | 321 | 278 | Cheeky Pop |
@@ -365,8 +365,8 @@
 | 357 | 257 | Andrew Backes |
 | 358 | 256 | Joe Coon |
 | 359 | 256 | Chris Sigurdson |
-| 360 | 255 | Speedy Snapfall |
-| 361 | 255 | Beazel75 |
+| 360 | 255 | Beazel75 |
+| 361 | 255 | Speedy Snapfall |
 | 362 | 254 | Al Smith Jr |
 | 363 | 253 | Carlos Floyd |
 | 364 | 252 | Frisky Base |
@@ -400,8 +400,8 @@
 | 392 | 235 | Nutty Glide |
 | 393 | 235 | Jumpy Rotate |
 | 394 | 235 | Ariel Whittington |
-| 395 | 234 | Brandie Gallegos |
-| 396 | 234 | Jumpy Dropper |
+| 395 | 234 | Jumpy Dropper |
+| 396 | 234 | Brandie Gallegos |
 | 397 | 233 | Melissa Bires Hussar |
 | 398 | 232 | Itspaigebro |
 | 399 | 232 | Jennifer Olewnik Soborowski |

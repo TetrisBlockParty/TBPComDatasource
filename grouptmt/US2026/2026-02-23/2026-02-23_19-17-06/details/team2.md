@@ -168,8 +168,8 @@
 | 160 | 1769 | Chirpy Staggerpiece |
 | 161 | 1767 | niecy |
 | 162 | 1759 | Nerdy Pattern |
-| 163 | 1751 | Bob |
-| 164 | 1751 | Woodys Glass |
+| 163 | 1751 | Woodys Glass |
+| 164 | 1751 | Bob |
 | 165 | 1740 | blarg |
 | 166 | 1720 | Morgue Chick |
 | 167 | 1720 | Nett |
@@ -291,8 +291,8 @@
 | 283 | 1191 | Jess Morrison |
 | 284 | 1184 | Jamie Otero |
 | 285 | 1179 | Georgia Triblett |
-| 286 | 1178 | Kevin Sees |
-| 287 | 1178 | Dimitra Zazara |
+| 286 | 1178 | Dimitra Zazara |
+| 287 | 1178 | Kevin Sees |
 | 288 | 1172 | Lakeysha Dortch |
 | 289 | 1172 | Stacey Clement |
 | 290 | 1171 | Loretta Brewer-Gage |
@@ -1148,11 +1148,11 @@
 | 1140 | 406 | Erin StFrancis |
 | 1141 | 406 | Lazy Builderfit |
 | 1142 | 406 | Jroc |
-| 1143 | 405 | Christy Green |
-| 1144 | 405 | Karra Lindsey |
-| 1145 | 405 | Lexie Burke |
-| 1146 | 404 | Tara Merrill |
-| 1147 | 404 | Denisse Avilez |
+| 1143 | 405 | Karra Lindsey |
+| 1144 | 405 | Lexie Burke |
+| 1145 | 405 | Christy Green |
+| 1146 | 404 | Jean FU Jagielski |
+| 1147 | 404 | Toni Lynn |
 | 1148 | 404 | Mike Schwob |
 | 1149 | 404 | Tara Merrill |
 | 1150 | 404 | Denisse Avilez |
