@@ -517,8 +517,8 @@
 | 509 | 677 | Paul Combs |
 | 510 | 677 | Kayleigh Wisse |
 | 511 | 677 | Amanda Woodruff |
-| 512 | 676 | Nicky Jackson |
-| 513 | 676 | Roseanna Peloso |
+| 512 | 676 | Roseanna Peloso |
+| 513 | 676 | Nicky Jackson |
 | 514 | 675 | Lonne Emade |
 | 515 | 675 | Katelynn Hollen |
 | 516 | 674 | Ashley Munn |
@@ -735,10 +735,10 @@
 | 727 | 499 | Martina Gabrielle LaPolla |
 | 728 | 498 | Abimbola Bimbo |
 | 729 | 498 | Chummy Blockbuilder |
-| 730 | 497 | Sam |
-| 731 | 497 | June E Hanson |
-| 732 | 496 | Tracy Cowley |
-| 733 | 496 | Angelina Marie |
+| 730 | 497 | June E Hanson |
+| 731 | 497 | Sam |
+| 732 | 496 | Angelina Marie |
+| 733 | 496 | Tracy Cowley |
 | 734 | 496 | Eunique Griffin |
 | 735 | 496 | Shyne Sun |
 | 736 | 496 | Anthony Mignacca |
@@ -751,13 +751,13 @@
 | 743 | 493 | Sue Leard |
 | 744 | 493 | Skyler Morgan |
 | 745 | 492 | Jason Kelly |
-| 746 | 491 | KayLynn Ogden McClelland |
-| 747 | 491 | Regina Young |
+| 746 | 491 | Regina Young |
+| 747 | 491 | KayLynn Ogden McClelland |
 | 748 | 490 | Juanita Lyons |
 | 749 | 489 | Britney M. |
 | 750 | 489 | Christy Krissie |
-| 751 | 487 | Christy Long |
-| 752 | 487 | Morgan Easter |
+| 751 | 487 | Morgan Easter |
+| 752 | 487 | Christy Long |
 | 753 | 487 | RaeVan Worthington |
 | 754 | 486 | Ashley Collins |
 | 755 | 485 | coleksquad |

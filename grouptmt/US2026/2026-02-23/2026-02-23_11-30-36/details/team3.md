@@ -426,8 +426,8 @@
 | 418 | 264 | Danielle Beaunoyer Jean |
 | 419 | 263 | Jimmie Clemons |
 | 420 | 261 | Swanky Snapclear |
-| 421 | 260 | Tracey Cox |
-| 422 | 260 | Alice |
+| 421 | 260 | Alice |
+| 422 | 260 | Tracey Cox |
 | 423 | 259 | Shania Vaine |
 | 424 | 259 | Dana Winters |
 | 425 | 259 | Tegan Chapman |
@@ -478,8 +478,8 @@
 | 470 | 236 | Loopy Fallzone |
 | 471 | 234 | Cheeky Twisterfit |
 | 472 | 233 | Tony Waters |
-| 473 | 233 | Anna Moeller |
-| 474 | 233 | Criss |
+| 473 | 233 | Criss |
+| 474 | 233 | Anna Moeller |
 | 475 | 232 | Sunny Tiltgrid |
 | 476 | 232 | Stephanie Hill |
 | 477 | 232 | Melanie Sherwood |
@@ -490,8 +490,8 @@
 | 482 | 229 | MizzMonick Smith |
 | 483 | 228 | Dapper Liney |
 | 484 | 227 | Meowsa |
-| 485 | 226 | Ryan Williams |
-| 486 | 226 | paranoid |
+| 485 | 226 | paranoid |
+| 486 | 226 | Ryan Williams |
 | 487 | 225 | sofaking |
 | 488 | 225 | Sassy Tiler |
 | 489 | 224 | Christina Rotz Shows |

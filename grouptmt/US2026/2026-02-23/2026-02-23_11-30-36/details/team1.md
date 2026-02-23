@@ -267,8 +267,8 @@
 | 259 | 275 | Chris65 |
 | 260 | 273 | Наталья Солоид |
 | 261 | 272 | Barrbaric |
-| 262 | 272 | Tawnya Peltonen |
-| 263 | 272 | Michelle Beres |
+| 262 | 272 | Michelle Beres |
+| 263 | 272 | Tawnya Peltonen |
 | 264 | 270 | Brenda Alexander |
 | 265 | 270 | Debbie Kane |
 | 266 | 268 | Standia Civil |
@@ -287,8 +287,8 @@
 | 279 | 253 | Cece Ibarra |
 | 280 | 253 | Jamie Jury |
 | 281 | 252 | Dena Kayy |
-| 282 | 251 | MRdot Rooski |
-| 283 | 251 | Angela Fairbank |
+| 282 | 251 | Angela Fairbank |
+| 283 | 251 | MRdot Rooski |
 | 284 | 250 | Silly Align |
 | 285 | 249 | Tiffany Smith |
 | 286 | 247 | DaRascal |

@@ -381,7 +381,7 @@
 | 373 | 196 | Megan Cutshaw |
 | 374 | 194 | SammieJo Guy |
 | 375 | 194 | Michelle Morris |
-| 376 | 194 | SammieJo Guy |
+| 376 | 194 | Zany Twisterfit |
 | 377 | 194 | Eri Kka |
 | 378 | 192 | Meg |
 | 379 | 192 | Twisty Risebuilder |
@@ -474,8 +474,8 @@
 | 466 | 160 | Heather Layne Smith |
 | 467 | 160 | icequeenx |
 | 468 | 159 | Groovy Brickmatch |
-| 469 | 158 | Jasmine S Caldwell |
-| 470 | 158 | Jen Mattei |
+| 469 | 158 | Jen Mattei |
+| 470 | 158 | Jasmine S Caldwell |
 | 471 | 158 | Grann8 |
 | 472 | 157 | David Boggs |
 | 473 | 157 | LunaMoon |
@@ -833,9 +833,9 @@
 | 825 | 84 | Christina Hyde |
 | 826 | 84 | Glen Altomare II |
 | 827 | 83 | Dickie Rice |
-| 828 | 83 | Dottie Falco |
-| 829 | 83 | Ens21417 |
-| 830 | 83 | KyngKliff |
+| 828 | 83 | KyngKliff |
+| 829 | 83 | Dottie Falco |
+| 830 | 83 | Ens21417 |
 | 831 | 83 | Pampam |
 | 832 | 83 | Haddiyah Bilal |
 | 833 | 83 | Takeshia Knowles |
