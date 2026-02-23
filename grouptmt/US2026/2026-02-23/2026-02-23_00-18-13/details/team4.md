@@ -51,8 +51,8 @@
 | 43 | 908 | Misty Hollibaugh |
 | 44 | 855 | Marvin Lou Martin |
 | 45 | 851 | Jae Job |
-| 46 | 846 | Lucille Truesdale |
-| 47 | 846 | Christine Marie |
+| 46 | 846 | Christine Marie |
+| 47 | 846 | Lucille Truesdale |
 | 48 | 845 | LisaJo Picken Buchanan |
 | 49 | 843 | Shelly Chandler |
 | 50 | 840 | TeeJ |
@@ -82,8 +82,8 @@
 | 74 | 671 | Kimyatta Cavin |
 | 75 | 664 | Valerie Roberts |
 | 76 | 659 | Jonathan Kimbrough |
-| 77 | 647 | Shauna Havard |
-| 78 | 647 | KM8 |
+| 77 | 647 | KM8 |
+| 78 | 647 | Shauna Havard |
 | 79 | 646 | Jacqueline Helm |
 | 80 | 643 | Lisa Davis |
 | 81 | 626 | Brittney Griggs |
@@ -103,8 +103,8 @@
 | 95 | 557 | Carmethia Clemons Haslerig |
 | 96 | 533 | Samantha Peterson |
 | 97 | 519 | Nugget |
-| 98 | 513 | YoMomma |
-| 99 | 513 | Erin Thomas |
+| 98 | 513 | Erin Thomas |
+| 99 | 513 | YoMomma |
 | 100 | 512 | Casey Jeffcoat |
 | 101 | 512 | Diana Houts |
 | 102 | 510 | Scott Jameson |
@@ -225,8 +225,8 @@
 | 217 | 261 | scott |
 | 218 | 259 | Montiette Mcglown |
 | 219 | 258 | April Rondinone |
-| 220 | 257 | PeaceOs |
-| 221 | 257 | Cheery Risebuilder |
+| 220 | 257 | Cheery Risebuilder |
+| 221 | 257 | PeaceOs |
 | 222 | 256 | Mylo Lipscomb |
 | 223 | 252 | Mr. Party |
 | 224 | 252 | Selena Shaw |

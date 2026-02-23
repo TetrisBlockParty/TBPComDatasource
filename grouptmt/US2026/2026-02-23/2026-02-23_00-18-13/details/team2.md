@@ -312,8 +312,8 @@
 | 304 | 861 | F-X |
 | 305 | 858 | Porsche' Nicole |
 | 306 | 857 | Kara Gillen |
-| 307 | 856 | Mighty Shatterfit |
-| 308 | 856 | Jojo Momma |
+| 307 | 856 | Jojo Momma |
+| 308 | 856 | Mighty Shatterfit |
 | 309 | 853 | Meghan M |
 | 310 | 848 | Elizabeth Wilbanks |
 | 311 | 846 | Alyssa Hileman |
@@ -343,8 +343,8 @@
 | 335 | 808 | Desire Rice |
 | 336 | 807 | Khalil Lowe |
 | 337 | 799 | Joy LaJeunesse |
-| 338 | 793 | Heather Schelkopf |
-| 339 | 793 | Lisa Ongtowasruk |
+| 338 | 793 | Lisa Ongtowasruk |
+| 339 | 793 | Heather Schelkopf |
 | 340 | 792 | Gold Rose |
 | 341 | 790 | Brenda Pierpoint |
 | 342 | 788 | Erika Densmore |
@@ -761,7 +761,7 @@
 | 753 | 396 | Heather Johnson |
 | 754 | 396 | Cassie Newton |
 | 755 | 395 | Vung Nguyen |
-| 756 | 395 | Heather Johnson |
+| 756 | 395 | Susan Arnburg |
 | 757 | 394 | Christina Jarvis-Swarbrick |
 | 758 | 393 | Jamie West |
 | 759 | 392 | Kevin Sees |

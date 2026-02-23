@@ -229,13 +229,13 @@
 | 221 | 383 | Darlene McMillan |
 | 222 | 383 | Nicole Flippo |
 | 223 | 383 | Heather Green |
-| 224 | 382 | Scott Carleton |
-| 225 | 382 | Giddy Twistbuilder |
+| 224 | 382 | Giddy Twistbuilder |
+| 225 | 382 | Scott Carleton |
 | 226 | 378 | Chris Bell |
 | 227 | 375 | Duane Bright |
 | 228 | 375 | Kristal C Lee |
-| 229 | 372 | Rich LeBlanc |
-| 230 | 372 | Sarah Moyer |
+| 229 | 372 | Sarah Moyer |
+| 230 | 372 | Rich LeBlanc |
 | 231 | 370 | RickyG |
 | 232 | 369 | Kammy Hill |
 | 233 | 369 | Keis |
@@ -296,8 +296,8 @@
 | 288 | 299 | Ray Lader |
 | 289 | 299 | Angie Harper |
 | 290 | 298 | Grams |
-| 291 | 297 | Cheeky Snapper |
-| 292 | 297 | kacihall |
+| 291 | 297 | kacihall |
+| 292 | 297 | Cheeky Snapper |
 | 293 | 297 | Jojo M |
 | 294 | 294 | fraulila |
 | 295 | 294 | Betty Bóò |
