@@ -40,8 +40,8 @@
 | 32 | 4174 | Vistabrat |
 | 33 | 4130 | Robert Diddle |
 | 34 | 4128 | Angela Pruitt |
-| 35 | 4120 | Kristen Sceurman |
-| 36 | 4120 | Corrine Hawks Soriano |
+| 35 | 4120 | Corrine Hawks Soriano |
+| 36 | 4120 | Kristen Sceurman |
 | 37 | 3895 | Nickie Baby |
 | 38 | 3793 | Jill Stroehlein |
 | 39 | 3759 | Brittany Alicia |
@@ -292,8 +292,8 @@
 | 284 | 914 | Shuany Arias |
 | 285 | 907 | Gene Mills |
 | 286 | 905 | Osun Anuket Esu |
-| 287 | 904 | Jennifer Aiken |
-| 288 | 904 | John Bednarik |
+| 287 | 904 | John Bednarik |
+| 288 | 904 | Jennifer Aiken |
 | 289 | 904 | Missie Lawson Gebhardt |
 | 290 | 904 | Ashlen Dorrell |
 | 291 | 902 | William Hunt |
@@ -424,8 +424,8 @@
 | 416 | 680 | blume |
 | 417 | 679 | Kassandra Hunt |
 | 418 | 677 | Crystie Hicks |
-| 419 | 677 | Amanda Woodruff |
-| 420 | 677 | Ellie Jonas |
+| 419 | 677 | Ellie Jonas |
+| 420 | 677 | Amanda Woodruff |
 | 421 | 676 | Roseanna Peloso |
 | 422 | 676 | Brandon Armstrong |
 | 423 | 674 | Lonne Emade |
@@ -643,8 +643,8 @@
 | 635 | 471 | Tina Marie |
 | 636 | 471 | Rae Rae |
 | 637 | 470 | Amanda Chamberlain |
-| 638 | 470 | Emilie Desma |
-| 639 | 470 | Mo Shine On |
+| 638 | 470 | Mo Shine On |
+| 639 | 470 | Emilie Desma |
 | 640 | 470 | Samuel Macon |
 | 641 | 469 | Christy Long |
 | 642 | 467 | Kelly |
@@ -676,16 +676,16 @@
 | 668 | 447 | Boozi |
 | 669 | 446 | Colin Morgan |
 | 670 | 446 | Cleo Sims |
-| 671 | 446 | Courtney Burcham |
-| 672 | 446 | NanDa Cruzan VI |
+| 671 | 446 | NanDa Cruzan VI |
+| 672 | 446 | Courtney Burcham |
 | 673 | 445 | AsnPryBoy83 |
 | 674 | 445 | Mar Q Thomas |
 | 675 | 445 | Michelle Sager |
 | 676 | 445 | Sharon Mills |
 | 677 | 444 | Chab |
 | 678 | 444 | Crystal Heller Gonzalez |
-| 679 | 444 | Fi Ne |
-| 680 | 444 | Angela Murgia-Owen |
+| 679 | 444 | Angela Murgia-Owen |
+| 680 | 444 | Fi Ne |
 | 681 | 443 | Jasmine Kenney |
 | 682 | 442 | Niceday |
 | 683 | 442 | Juan Castillo |

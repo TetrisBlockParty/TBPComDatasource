@@ -230,8 +230,8 @@
 | 222 | 383 | Darlene McMillan |
 | 223 | 383 | Nicole Flippo |
 | 224 | 383 | Heather Green |
-| 225 | 382 | Giddy Twistbuilder |
-| 226 | 382 | Scott Carleton |
+| 225 | 382 | Scott Carleton |
+| 226 | 382 | Giddy Twistbuilder |
 | 227 | 380 | Rebecca Bailey |
 | 228 | 378 | Chris Bell |
 | 229 | 376 | Connie Mohler-Fair |
@@ -244,8 +244,8 @@
 | 236 | 369 | Keis |
 | 237 | 368 | Stephanie Woods |
 | 238 | 366 | Marquita Sheard |
-| 239 | 365 | Chummy Caster |
-| 240 | 365 | Tiffany Ford |
+| 239 | 365 | Tiffany Ford |
+| 240 | 365 | Chummy Caster |
 | 241 | 364 | Steffi Chris Dacones |
 | 242 | 362 | Brandon Givens |
 | 243 | 360 | Sheila M Frazier |
@@ -270,8 +270,8 @@
 | 262 | 339 | Danielle Weikel |
 | 263 | 338 | Gumbo |
 | 264 | 332 | Velma Mull |
-| 265 | 330 | Brittany |
-| 266 | 330 | victory |
+| 265 | 330 | victory |
+| 266 | 330 | Brittany |
 | 267 | 329 | Tye Stovall |
 | 268 | 329 | block chick |
 | 269 | 327 | Gideon Walker |
@@ -280,8 +280,8 @@
 | 272 | 324 | Sissy Lowery Davis |
 | 273 | 322 | Nena Somerville Kelly |
 | 274 | 321 | Charles Perrone |
-| 275 | 320 | Ashley Muncey |
-| 276 | 320 | Or Reznitsky |
+| 275 | 320 | Or Reznitsky |
+| 276 | 320 | Ashley Muncey |
 | 277 | 312 | Twisty Brick LT |
 | 278 | 312 | LadyTorad |
 | 279 | 310 | Tasha Wesson-Torrence |
@@ -315,8 +315,8 @@
 | 307 | 282 | Hanna Kim |
 | 308 | 281 | Salena Whitlock |
 | 309 | 280 | Kaycee Kay |
-| 310 | 279 | Foltz Lee Kelli |
-| 311 | 279 | ROODBOY |
+| 310 | 279 | ROODBOY |
+| 311 | 279 | Foltz Lee Kelli |
 | 312 | 278 | Rufus Lincoln |
 | 313 | 277 | Joe-Maggie Mathews |
 | 314 | 277 | Tracy Martin |
@@ -361,8 +361,8 @@
 | 353 | 250 | Tosha Griffey |
 | 354 | 250 | Juliana Dottore |
 | 355 | 249 | Willow |
-| 356 | 247 | Daring Builder |
-| 357 | 247 | Jessica |
+| 356 | 247 | Jessica |
+| 357 | 247 | Daring Builder |
 | 358 | 245 | Latoya Mayne |
 | 359 | 244 | LaNette Morgan |
 | 360 | 244 | Quackers |

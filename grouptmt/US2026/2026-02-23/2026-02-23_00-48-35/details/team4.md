@@ -98,9 +98,9 @@
 | 90 | 594 | Jamie Mann-Deichmann |
 | 91 | 591 | Amelpss |
 | 92 | 568 | Chris Baggett |
-| 93 | 561 | Amy Suckarieh |
+| 93 | 561 | H.R. Block |
 | 94 | 561 | Zippy Gridlock |
-| 95 | 561 | H.R. Block |
+| 95 | 561 | Amy Suckarieh |
 | 96 | 557 | Carmethia Clemons Haslerig |
 | 97 | 541 | Alyssa Papen |
 | 98 | 533 | Samantha Peterson |
@@ -126,8 +126,8 @@
 | 118 | 458 | Twisty Clicky |
 | 119 | 448 | Kristin Manee |
 | 120 | 435 | Leslie Thomas |
-| 121 | 431 | Courtney Cicoria |
-| 122 | 431 | Jolly Dashfit |
+| 121 | 431 | Jolly Dashfit |
+| 122 | 431 | Courtney Cicoria |
 | 123 | 429 | Ren Mc |
 | 124 | 427 | KJ Pool |
 | 125 | 424 | Latisha Davis |
@@ -141,8 +141,8 @@
 | 133 | 403 | Kesha Brady |
 | 134 | 400 | Ericca Eldridge |
 | 135 | 394 | Austin Owens |
-| 136 | 393 | Trish |
-| 137 | 393 | Carlton Unfiltered |
+| 136 | 393 | Carlton Unfiltered |
+| 137 | 393 | Trish |
 | 138 | 392 | Cristy Duerksen |
 | 139 | 391 | Ramel Rhodes |
 | 140 | 384 | Lucas J Sutton |
@@ -244,11 +244,11 @@
 | 236 | 245 | Autum Leigh |
 | 237 | 245 | Adam Stephanie Parker |
 | 238 | 241 | Allen Lloyd |
-| 239 | 240 | Perky Patternblock |
-| 240 | 240 | Kim Hunt |
+| 239 | 240 | Kim Hunt |
+| 240 | 240 | Perky Patternblock |
 | 241 | 238 | Chaz |
-| 242 | 237 | Christine Therrien |
-| 243 | 237 | 030Synner |
+| 242 | 237 | 030Synner |
+| 243 | 237 | Christine Therrien |
 | 244 | 235 | LaDonna LovinmesomeMe Lambert |
 | 245 | 233 | Ruben Wheeler |
 | 246 | 232 | Joanna |

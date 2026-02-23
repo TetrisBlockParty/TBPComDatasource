@@ -140,8 +140,8 @@
 | 132 | 383 | pjbeta |
 | 133 | 379 | Austin James |
 | 134 | 379 | Kimmie Kimms |
-| 135 | 376 | Brian Richardsson |
-| 136 | 376 | lil mickey |
+| 135 | 376 | lil mickey |
+| 136 | 376 | Brian Richardsson |
 | 137 | 368 | Death |
 | 138 | 367 | Sharon Reynolds |
 | 139 | 364 | Serina Marie |
