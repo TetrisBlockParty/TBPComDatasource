@@ -159,13 +159,13 @@
 | 151 | 387 | Lucas J Sutton |
 | 152 | 387 | 🥔🥔 Spudz |
 | 153 | 377 | Carrie Brian |
-| 154 | 375 | ThaEviLJeNiuZ |
-| 155 | 375 | Desi Desporte |
+| 154 | 375 | Desi Desporte |
+| 155 | 375 | ThaEviLJeNiuZ |
 | 156 | 374 | Guy Incognito |
 | 157 | 373 | Tyler Terrific |
 | 158 | 370 | Oscar Alberto Perez |
-| 159 | 368 | Brandon Crabbs |
-| 160 | 368 | Silly Zonebuilder |
+| 159 | 368 | Silly Zonebuilder |
+| 160 | 368 | Brandon Crabbs |
 | 161 | 365 | Leslie Nicole |
 | 162 | 363 | Lindsey Gonzalez |
 | 163 | 361 | Melissa Adams |

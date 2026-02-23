@@ -127,8 +127,8 @@
 | 119 | 427 | Ly Phethmany |
 | 120 | 417 | Lori Sanders- Davis |
 | 121 | 416 | Dandy Basegrid |
-| 122 | 409 | Yvonne Marie |
-| 123 | 409 | Goose egg |
+| 122 | 409 | Goose egg |
+| 123 | 409 | Yvonne Marie |
 | 124 | 406 | Candy Jones |
 | 125 | 406 | Desiree Deschaine Havee |
 | 126 | 402 | Chris K |
@@ -159,8 +159,8 @@
 | 151 | 353 | Josh Riemer |
 | 152 | 351 | Basment Living |
 | 153 | 350 | Tipsy Strikerpiece |
-| 154 | 343 | Elaine Elaine |
-| 155 | 343 | Chelsea Dahlquist |
+| 154 | 343 | Chelsea Dahlquist |
+| 155 | 343 | Elaine Elaine |
 | 156 | 342 | Rachael |
 | 157 | 341 | Nick R Montague |
 | 158 | 341 | Shiny Snapfit |
@@ -189,7 +189,7 @@
 | 181 | 312 | Kimberly Garcia |
 | 182 | 312 | Jessi Sauer |
 | 183 | 307 | femmefatale |
-| 184 | 306 | Bloknboy |
+| 184 | 306 | Happy Basegrid |
 | 185 | 306 | Angela Renea Lester |
 | 186 | 306 | Bloknboy |
 | 187 | 306 | J.F. Fields |

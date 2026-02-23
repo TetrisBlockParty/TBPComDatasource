@@ -98,8 +98,8 @@
 | 90 | 2237 | Jen Tramack |
 | 91 | 2216 | Alicia Parrish |
 | 92 | 2165 | Tj Ball |
-| 93 | 2148 | ShinyRose |
-| 94 | 2148 | Roger Grabbit |
+| 93 | 2148 | Roger Grabbit |
+| 94 | 2148 | ShinyRose |
 | 95 | 2146 | KellyDyan |
 | 96 | 2106 | Cool Rollpiece |
 | 97 | 2103 | Alisha Peoples |
@@ -205,8 +205,8 @@
 | 197 | 1244 | Teddi Notyalc |
 | 198 | 1243 | Anna Edwards |
 | 199 | 1237 | Megan Ferguson Leone |
-| 200 | 1232 | Ambyre Patterson |
-| 201 | 1232 | Groovy Puzzle |
+| 200 | 1232 | Groovy Puzzle |
+| 201 | 1232 | Ambyre Patterson |
 | 202 | 1230 | Megan Garrick |
 | 203 | 1217 | Lucky Ladybug |
 | 204 | 1207 | David Cudicio-Hayden |
@@ -226,8 +226,8 @@
 | 218 | 1140 | Sarah Ridenour |
 | 219 | 1135 | Samantha Roberts |
 | 220 | 1131 | Prado |
-| 221 | 1127 | Catina Hutchison |
-| 222 | 1127 | Dee |
+| 221 | 1127 | Dee |
+| 222 | 1127 | Catina Hutchison |
 | 223 | 1126 | Dolores Russworn |
 | 224 | 1121 | Tommy Tha Boss Gunz |
 | 225 | 1117 | Sarah Freitas |
@@ -398,8 +398,8 @@
 | 390 | 741 | Jánine Riggs |
 | 391 | 740 | Jerry Tempelmeyer |
 | 392 | 738 | Aimee Campbell |
-| 393 | 737 | Chelle |
-| 394 | 737 | Jeremy Parodi |
+| 393 | 737 | Jeremy Parodi |
+| 394 | 737 | Chelle |
 | 395 | 737 | Ginger |
 | 396 | 734 | Amber Gray |
 | 397 | 732 | Victoria Moore-Smith |

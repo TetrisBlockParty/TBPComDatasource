@@ -187,8 +187,8 @@
 | 179 | 490 | Loopy Fallmatch |
 | 180 | 489 | Shannon Matthew Byers |
 | 181 | 488 | Melissa Orth Hunter |
-| 182 | 485 | Terry Jo Jones |
-| 183 | 485 | Dapper Snap |
+| 182 | 485 | Dapper Snap |
+| 183 | 485 | Terry Jo Jones |
 | 184 | 483 | FuzzyNavel |
 | 185 | 480 | Danielle Allison |
 | 186 | 479 | Poppy Splitter |
@@ -321,8 +321,8 @@
 | 313 | 287 | Carol Cain Thurman |
 | 314 | 287 | Sabrina Hardrick |
 | 315 | 287 | Hoppy Patternline |
-| 316 | 286 | Lizabeth Fox |
-| 317 | 286 | Salena Whitlock |
+| 316 | 286 | Salena Whitlock |
+| 317 | 286 | Lizabeth Fox |
 | 318 | 284 | Hanna Kim |
 | 319 | 280 | Kaycee Kay |
 | 320 | 280 | Stephanie Bradley |
@@ -386,8 +386,8 @@
 | 378 | 244 | Lys |
 | 379 | 244 | Tegan Chapman |
 | 380 | 243 | Block Baddie |
-| 381 | 243 | Paula Little |
-| 382 | 243 | Josh Borquez |
+| 381 | 243 | Josh Borquez |
+| 382 | 243 | Paula Little |
 | 383 | 242 | Michael Latasha Gray |
 | 384 | 240 | Brian Battjes |
 | 385 | 240 | Ashley Lynn Marchese |
@@ -426,8 +426,8 @@
 | 418 | 228 | Stephanie Hill |
 | 419 | 227 | Rebel124 |
 | 420 | 227 | Meowsa |
-| 421 | 226 | Danielle Beaunoyer Jean |
-| 422 | 226 | Jana Polk |
+| 421 | 226 | Jana Polk |
+| 422 | 226 | Danielle Beaunoyer Jean |
 | 423 | 225 | Beezwax |
 | 424 | 224 | Sarah Morris |
 | 425 | 222 | Eileen Brady Thurber |
