@@ -287,8 +287,8 @@
 | 279 | 371 | Marquita Sheard |
 | 280 | 371 | block chick |
 | 281 | 370 | Samantha Lynn |
-| 282 | 369 | Philip Rock |
-| 283 | 369 | Jennifer Alvey |
+| 282 | 369 | Jennifer Alvey |
+| 283 | 369 | Philip Rock |
 | 284 | 369 | Amber Glover |
 | 285 | 368 | Stephanie Woods |
 | 286 | 368 | Sheila M Frazier |
@@ -390,8 +390,8 @@
 | 382 | 279 | Tosha Griffey |
 | 383 | 279 | Naur |
 | 384 | 278 | Rufus Lincoln |
-| 385 | 277 | France Vézina |
-| 386 | 277 | Krystal Gerstberger |
+| 385 | 277 | Krystal Gerstberger |
+| 386 | 277 | France Vézina |
 | 387 | 277 | Joe-Maggie Mathews |
 | 388 | 277 | Tipsy Zonebuilder |
 | 389 | 276 | Karent524 |
@@ -478,8 +478,8 @@
 | 470 | 236 | Scott Doss |
 | 471 | 234 | Cheeky Twisterfit |
 | 472 | 233 | Tony Waters |
-| 473 | 233 | Anna Moeller |
-| 474 | 233 | Criss |
+| 473 | 233 | Criss |
+| 474 | 233 | Anna Moeller |
 | 475 | 232 | Sunny Tiltgrid |
 | 476 | 232 | Stephanie Hill |
 | 477 | 232 | Melanie Sherwood |
@@ -655,8 +655,8 @@
 | 647 | 177 | Chad |
 | 648 | 176 | Jackie-Lynne Goertzen |
 | 649 | 176 | Bekah Dietrich |
-| 650 | 175 | Spunky Racker |
-| 651 | 175 | Muk |
+| 650 | 175 | Muk |
+| 651 | 175 | Spunky Racker |
 | 652 | 175 | Giggy Balanceblock |
 | 653 | 175 | JustGiGi |
 | 654 | 175 | Hanul |
