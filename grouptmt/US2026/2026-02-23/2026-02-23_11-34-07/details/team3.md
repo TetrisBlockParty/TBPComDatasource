@@ -64,15 +64,15 @@
 | 56 | 1405 | Queen Kam |
 | 57 | 1397 | Jennifer Petrie |
 | 58 | 1366 | Mahman |
-| 59 | 1351 | Nate Burnside |
+| 59 | 1348 | Nate Burnside |
 | 60 | 1327 | Khristen AC |
 | 61 | 1311 | Elaine Webb Graves |
 | 62 | 1306 | Judi Dobson |
 | 63 | 1299 | Aaron Pitkin |
 | 64 | 1297 | Shelby Michelle |
 | 65 | 1293 | Snappy Fitzone |
-| 66 | 1285 | Tiff Vs Tiffany |
-| 67 | 1278 | Nora Rogers |
+| 66 | 1278 | Nora Rogers |
+| 67 | 1273 | Tiff Vs Tiffany |
 | 68 | 1269 | Amber Jones |
 | 69 | 1264 | Amanda L Baker |
 | 70 | 1258 | Danielle Cutler |
@@ -167,8 +167,8 @@
 | 159 | 646 | Bea Miles |
 | 160 | 634 | Amber Hughes |
 | 161 | 630 | yoyo |
-| 162 | 621 | Sashay Tapae Simpson |
-| 163 | 621 | Cherry Parker |
+| 162 | 621 | Cherry Parker |
+| 163 | 621 | Sashay Tapae Simpson |
 | 164 | 616 | Kammy Hill |
 | 165 | 611 | Rochelle Hazelett |
 | 166 | 607 | Grego Daniel |
@@ -432,8 +432,8 @@
 | 424 | 259 | Dana Winters |
 | 425 | 259 | Shania Vaine |
 | 426 | 258 | IamJust Neyamijah Washington Sr. |
-| 427 | 257 | Chris Wallace |
-| 428 | 257 | Rachel Grant |
+| 427 | 257 | Rachel Grant |
+| 428 | 257 | Chris Wallace |
 | 429 | 257 | Jana Polk |
 | 430 | 257 | Saucy Buildout |
 | 431 | 255 | Erykah |
@@ -569,7 +569,7 @@
 | 561 | 199 | Christine Foley |
 | 562 | 198 | Zac Hudak |
 | 563 | 198 | xsiv |
-| 564 | 198 | Zac Hudak |
+| 564 | 198 | Jodi Kaczynski-O'Dowd |
 | 565 | 198 | momo |
 | 566 | 197 | BabyTonj Evans |
 | 567 | 197 | Giggy Glidepiece |
@@ -811,7 +811,7 @@
 | 803 | 143 | Bananna Anna |
 | 804 | 143 | Lisa Lisa |
 | 805 | 143 | Melissa Ponder |
-| 806 | 142 | Michelle Allers |
+| 806 | 142 | Myriam Lapierre |
 | 807 | 142 | Terrie Miranda |
 | 808 | 142 | Michelle Allers |
 | 809 | 141 | Plucky Bridger |
@@ -1329,7 +1329,7 @@
 | 1321 | 84 | Elaine Rodbell |
 | 1322 | 84 | DeAnna Knopp |
 | 1323 | 84 | Rhiannon Nikkie Thomas Ashbeck |
-| 1324 | 84 | Nicole Cram |
+| 1324 | 84 | Rhonda Prince |
 | 1325 | 84 | Melissa Predmore |
 | 1326 | 84 | Nicole Cram |
 | 1327 | 84 | Nikita Ainsworth |

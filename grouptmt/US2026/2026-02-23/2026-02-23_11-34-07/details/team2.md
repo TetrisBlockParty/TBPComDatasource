@@ -257,18 +257,18 @@
 | 249 | 1151 | Stacey Clement |
 | 250 | 1146 | Prado |
 | 251 | 1145 | Hannah Erskine |
-| 252 | 1144 | Ginnell Browner |
-| 253 | 1142 | Sheniya Spurgeon |
-| 254 | 1140 | Sarah Ridenour |
-| 255 | 1132 | Woodys Glass |
-| 256 | 1129 | Sarah Freitas |
-| 257 | 1126 | Dolores Russworn |
-| 258 | 1121 | Tommy Tha Boss Gunz |
-| 259 | 1120 | F-X |
+| 252 | 1142 | Sheniya Spurgeon |
+| 253 | 1140 | Sarah Ridenour |
+| 254 | 1132 | Woodys Glass |
+| 255 | 1129 | Sarah Freitas |
+| 256 | 1126 | Dolores Russworn |
+| 257 | 1121 | Tommy Tha Boss Gunz |
+| 258 | 1120 | F-X |
+| 259 | 1114 | Ginnell Browner |
 | 260 | 1114 | Kevin Walp |
 | 261 | 1114 | Wendy Unsain |
 | 262 | 1110 | Robin Kerby |
-| 263 | 1110 | Ibiza Carolina LaRose |
+| 263 | 1106 | Ibiza Carolina LaRose |
 | 264 | 1105 | Nerdy Clearfit |
 | 265 | 1103 | William Meussner |
 | 266 | 1103 | RAEPR05 |
@@ -358,8 +358,8 @@
 | 350 | 903 | Giggy Blocker |
 | 351 | 902 | Diallo Sparkman |
 | 352 | 901 | Kevin Sees |
-| 353 | 899 | Chevy |
-| 354 | 899 | Patrick Bartlett |
+| 353 | 899 | Patrick Bartlett |
+| 354 | 899 | Chevy |
 | 355 | 895 | Lisa Ongtowasruk |
 | 356 | 895 | Donna Colby |
 | 357 | 894 | Adira Brown |
@@ -445,8 +445,8 @@
 | 437 | 760 | Ashley Guernsey-Martin |
 | 438 | 760 | Cheech Dta |
 | 439 | 760 | Allan Wayne Lamia |
-| 440 | 758 | Stephanie Neuburger |
-| 441 | 758 | Quirky Twistline |
+| 440 | 758 | Quirky Twistline |
+| 441 | 758 | Stephanie Neuburger |
 | 442 | 755 | Taryece Gause |
 | 443 | 754 | tejas25 |
 | 444 | 753 | Alex Dungo Hoang |
@@ -1175,8 +1175,8 @@
 | 1167 | 337 | Stanley Vanekelenburg |
 | 1168 | 336 | Katrina Willmon |
 | 1169 | 336 | Crystal Cornelius |
-| 1170 | 336 | Zany Clusterbuilder |
-| 1171 | 336 | Jumpy Gridclear |
+| 1170 | 336 | Jumpy Gridclear |
+| 1171 | 336 | Zany Clusterbuilder |
 | 1172 | 336 | Colton Saupe |
 | 1173 | 336 | Spunky Match |
 | 1174 | 336 | Chummy Caster |

@@ -50,7 +50,7 @@
 | 42 | 1071 | Cherrish Duren |
 | 43 | 1065 | Koshin Abdirahman |
 | 44 | 1046 | Johnathan Martinez |
-| 45 | 1026 | Justin Hannigan |
+| 45 | 1017 | Justin Hannigan |
 | 46 | 1014 | Jae Job |
 | 47 | 1013 | Heather Tushner |
 | 48 | 999 | LisaJo Picken Buchanan |
@@ -159,8 +159,8 @@
 | 151 | 421 | Kesha Brady |
 | 152 | 418 | Marie-Pier Desjardins |
 | 153 | 418 | Lush Linkfall |
-| 154 | 417 | Amanda Pauldo-Ivy |
-| 155 | 417 | Steph Marie |
+| 154 | 417 | Steph Marie |
+| 155 | 417 | Amanda Pauldo-Ivy |
 | 156 | 416 | Chaz Duncan |
 | 157 | 414 | Swanky Fitline |
 | 158 | 414 | Nope Young |
@@ -187,10 +187,10 @@
 | 179 | 368 | Brandon Crabbs |
 | 180 | 368 | Silly Zonebuilder |
 | 181 | 365 | Jeff Brian Gates |
-| 182 | 361 | Danielle Kollias |
-| 183 | 361 | Carlos Ramirez |
-| 184 | 358 | Twisty Cascadezone |
-| 185 | 358 | A5! |
+| 182 | 361 | Carlos Ramirez |
+| 183 | 361 | Danielle Kollias |
+| 184 | 358 | A5! |
+| 185 | 358 | Twisty Cascadezone |
 | 186 | 355 | James Hurley Jr. |
 | 187 | 354 | TRCuse |
 | 188 | 352 | Lori |
@@ -207,12 +207,12 @@
 | 199 | 336 | JPW |
 | 200 | 332 | HastyGrabber |
 | 201 | 331 | Alan George LaRage |
-| 202 | 330 | Kathy Brookins |
-| 203 | 330 | blockstar |
+| 202 | 330 | blockstar |
+| 203 | 330 | Kathy Brookins |
 | 204 | 328 | scott |
 | 205 | 327 | J-Rizzle |
-| 206 | 324 | TinyLegoRose |
-| 207 | 324 | jim |
+| 206 | 324 | jim |
+| 207 | 324 | TinyLegoRose |
 | 208 | 321 | Meagan Nicole |
 | 209 | 320 | Lauren Scott |
 | 210 | 319 | Googenheim |
@@ -389,11 +389,11 @@
 | 381 | 191 | Earnest Thompson |
 | 382 | 191 | Norman Klick |
 | 383 | 190 | wombat |
-| 384 | 189 | Berklie Apedaile |
-| 385 | 189 | Lauren Lamb |
+| 384 | 189 | Lauren Lamb |
+| 385 | 189 | Berklie Apedaile |
 | 386 | 189 | Cool Towerbuilder |
-| 387 | 188 | Frilly Blocky |
-| 388 | 188 | Sharyn Lemire |
+| 387 | 188 | Sharyn Lemire |
+| 388 | 188 | Frilly Blocky |
 | 389 | 187 | Jenny Wells-Oakley |
 | 390 | 186 | Dandy Cascadefit |
 | 391 | 185 | Val Erie |
@@ -1426,7 +1426,7 @@
 | 1418 | 29 | Jennifer West Campos |
 | 1419 | 29 | EMSquire |
 | 1420 | 28 | Jessi Gooch |
-| 1421 | 28 | Giggly Slammer |
+| 1421 | 28 | Shiny Brickline |
 | 1422 | 28 | Veronica Chan |
 | 1423 | 28 | Giggly Slammer |
 | 1424 | 28 | Robin Visintainer |
