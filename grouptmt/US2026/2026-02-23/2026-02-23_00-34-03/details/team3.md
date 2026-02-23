@@ -359,8 +359,8 @@
 | 351 | 250 | Juliana Dottore |
 | 352 | 250 | Tosha Griffey |
 | 353 | 249 | Willow |
-| 354 | 247 | Jessica |
-| 355 | 247 | Daring Builder |
+| 354 | 247 | Daring Builder |
+| 355 | 247 | Jessica |
 | 356 | 245 | Latoya Mayne |
 | 357 | 244 | LaNette Morgan |
 | 358 | 244 | Tegan Chapman |

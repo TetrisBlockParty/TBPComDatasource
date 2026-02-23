@@ -116,8 +116,8 @@
 | 108 | 492 | shar |
 | 109 | 488 | Jen Allison |
 | 110 | 483 | Chilly Crasher |
-| 111 | 481 | Serena Goodridge |
-| 112 | 481 | Jessica Lynn Cutlip |
+| 111 | 481 | Jessica Lynn Cutlip |
+| 112 | 481 | Serena Goodridge |
 | 113 | 476 | Matt Summer |
 | 114 | 474 | Jenna Ingersoll |
 | 115 | 470 | Lori Walker |
@@ -166,8 +166,8 @@
 | 158 | 344 | Rafael Valentin |
 | 159 | 342 | Klo |
 | 160 | 339 | David Lay |
-| 161 | 336 | Peachy Fall |
-| 162 | 336 | Melissa Adams |
+| 161 | 336 | Melissa Adams |
+| 162 | 336 | Peachy Fall |
 | 163 | 333 | Twisty Cascadezone |
 | 164 | 332 | HastyGrabber |
 | 165 | 329 | Jeff Brian Gates |
