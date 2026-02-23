@@ -185,8 +185,8 @@
 | 177 | 574 | Morgan Martinez |
 | 178 | 572 | CeceGeGe |
 | 179 | 568 | Rachael McClain Owens |
-| 180 | 564 | Poppy Splitter |
-| 181 | 564 | Christine Trester |
+| 180 | 564 | Christine Trester |
+| 181 | 564 | Poppy Splitter |
 | 182 | 563 | Jim Mathews |
 | 183 | 562 | LaTanya GeminiondaRise Johnson |
 | 184 | 562 | Dave Herzog |
@@ -197,13 +197,13 @@
 | 189 | 546 | Tasha Schriewer |
 | 190 | 546 | Cynthia Castros-Hampton |
 | 191 | 540 | Shawn Miller |
-| 192 | 531 | Chauntee Alfrey-Cardinale |
-| 193 | 531 | Sarah Cowan Burgos |
+| 192 | 531 | Sarah Cowan Burgos |
+| 193 | 531 | Chauntee Alfrey-Cardinale |
 | 194 | 528 | Silly Twist |
 | 195 | 525 | Stephanie Blkpep Davidson |
 | 196 | 524 | Bmo |
-| 197 | 519 | rnr junky |
-| 198 | 519 | Terry Jo Jones |
+| 197 | 519 | Terry Jo Jones |
+| 198 | 519 | rnr junky |
 | 199 | 515 | Cozy Snaplink |
 | 200 | 510 | Makelini Mausia |
 | 201 | 503 | Tye Stovall |
@@ -370,8 +370,8 @@
 | 362 | 284 | Hanna Kim |
 | 363 | 283 | Eric Caccavale |
 | 364 | 281 | Ava Petito |
-| 365 | 280 | Aerian Preston |
-| 366 | 280 | ROODBOY |
+| 365 | 280 | ROODBOY |
+| 366 | 280 | Aerian Preston |
 | 367 | 280 | Dirtgirl27 |
 | 368 | 279 | Naur |
 | 369 | 279 | Tosha Griffey |
@@ -407,8 +407,8 @@
 | 399 | 265 | AlsoJess |
 | 400 | 264 | Reina Roth |
 | 401 | 264 | Danielle Beaunoyer Jean |
-| 402 | 263 | Erika Thornton |
-| 403 | 263 | Jimmie Clemons |
+| 402 | 263 | Jimmie Clemons |
+| 403 | 263 | Erika Thornton |
 | 404 | 261 | Swanky Snapclear |
 | 405 | 260 | Tracey Cox |
 | 406 | 260 | Alice |
@@ -476,8 +476,8 @@
 | 468 | 228 | Tipsy Zonebuilder |
 | 469 | 228 | Dapper Liney |
 | 470 | 227 | Meowsa |
-| 471 | 226 | Ryan Williams |
-| 472 | 226 | paranoid |
+| 471 | 226 | paranoid |
+| 472 | 226 | Ryan Williams |
 | 473 | 225 | Sassy Tiler |
 | 474 | 225 | sofaking |
 | 475 | 224 | Christina Rotz Shows |
@@ -493,8 +493,8 @@
 | 485 | 221 | Glitzy Rotate |
 | 486 | 221 | Vaners |
 | 487 | 220 | Bhreagh Gentile |
-| 488 | 219 | Trice Thomas |
-| 489 | 219 | TLM |
+| 488 | 219 | TLM |
+| 489 | 219 | Trice Thomas |
 | 490 | 218 | Sabrina Mansfield |
 | 491 | 218 | Tina Smith Roy |
 | 492 | 218 | Dapper Chiseler |
@@ -707,7 +707,7 @@
 | 699 | 159 | Gina Marie |
 | 700 | 159 | Cameron Lovell |
 | 701 | 159 | Wetwet |
-| 702 | 159 | Giddy Basepiece |
+| 702 | 159 | Robin LaChe |
 | 703 | 159 | Angela VanOstrand |
 | 704 | 159 | Giddy Basepiece |
 | 705 | 158 | Cameo Tweed |

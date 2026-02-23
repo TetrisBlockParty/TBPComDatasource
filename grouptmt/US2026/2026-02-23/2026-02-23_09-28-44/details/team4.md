@@ -62,8 +62,8 @@
 | 54 | 864 | Shelly Chandler |
 | 55 | 863 | Pee |
 | 56 | 859 | TeeJ |
-| 57 | 846 | Lucille Truesdale |
-| 58 | 846 | Christine Marie |
+| 57 | 846 | Christine Marie |
+| 58 | 846 | Lucille Truesdale |
 | 59 | 845 | LisaJo Picken Buchanan |
 | 60 | 834 | quicksand420 |
 | 61 | 811 | Ashley Ingram |
@@ -204,8 +204,8 @@
 | 196 | 336 | Bio Nelly |
 | 197 | 334 | Kris Bartlett |
 | 198 | 332 | HastyGrabber |
-| 199 | 330 | Kathy Brookins |
-| 200 | 330 | blockstar |
+| 199 | 330 | blockstar |
+| 200 | 330 | Kathy Brookins |
 | 201 | 328 | scott |
 | 202 | 327 | J-Rizzle |
 | 203 | 324 | jim |
@@ -267,8 +267,8 @@
 | 259 | 264 | ZeeZee |
 | 260 | 264 | Stella |
 | 261 | 263 | rebel4lyfe |
-| 262 | 262 | Selena Shaw |
-| 263 | 262 | BigSammy420 |
+| 262 | 262 | BigSammy420 |
+| 263 | 262 | Selena Shaw |
 | 264 | 261 | Zethra Prenisha Rahming |
 | 265 | 260 | Lori |
 | 266 | 260 | Carter Jones |
@@ -876,8 +876,8 @@
 | 868 | 76 | Meli  Jackson |
 | 869 | 76 | Lisa Allen Frisk |
 | 870 | 76 | Albert Walker III |
-| 871 | 76 | Libby |
-| 872 | 76 | Nutty Lifter |
+| 871 | 76 | George Thomson Jr. |
+| 872 | 76 | Jeannie Lee |
 | 873 | 76 | Ken Cheney |
 | 874 | 76 | Nutty Lifter |
 | 875 | 75 | Bold Buildsnap |

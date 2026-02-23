@@ -44,8 +44,8 @@
 | 36 | 4199 | Claire Noland |
 | 37 | 4128 | Angela Pruitt |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Corrine Hawks Soriano |
-| 40 | 4120 | Kristen Sceurman |
+| 39 | 4120 | Kristen Sceurman |
+| 40 | 4120 | Corrine Hawks Soriano |
 | 41 | 3947 | Melinda Brown |
 | 42 | 3845 | jayjay |
 | 43 | 3813 | Devin Lee |
@@ -382,8 +382,8 @@
 | 374 | 829 | Angie Bolton Workman |
 | 375 | 828 | Kimmy Newman |
 | 376 | 825 | Jeremy Parodi |
-| 377 | 824 | Danielle Johnson-Chandler |
-| 378 | 824 | Khalil Lowe |
+| 377 | 824 | Khalil Lowe |
+| 378 | 824 | Danielle Johnson-Chandler |
 | 379 | 824 | Mandi Douglas Hilt |
 | 380 | 822 | Lola Contreras |
 | 381 | 821 | Cassie Mercer |
@@ -439,8 +439,8 @@
 | 431 | 751 | Breezy Filler |
 | 432 | 750 | Draizen Montrell Thomas |
 | 433 | 748 | Spunkysmom |
-| 434 | 748 | Ann Matzkanin |
-| 435 | 748 | Brenda Utphall |
+| 434 | 748 | Brenda Utphall |
+| 435 | 748 | Ann Matzkanin |
 | 436 | 746 | Leslie Ann Carter |
 | 437 | 742 | tejas25 |
 | 438 | 741 | Jánine Riggs |
