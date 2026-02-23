@@ -261,8 +261,8 @@
 | 253 | 1330 | Ann Knutson Anderson |
 | 254 | 1330 | Cassie Mercer |
 | 255 | 1325 | Teddi Notyalc |
-| 256 | 1324 | Lola C Davis |
-| 257 | 1324 | Tralonda Weeks |
+| 256 | 1324 | Tralonda Weeks |
+| 257 | 1324 | Lola C Davis |
 | 258 | 1322 | Alyssa Nadine Medelez |
 | 259 | 1319 | Joshua Sommerville |
 | 260 | 1318 | Sarah Freitas |
@@ -286,8 +286,8 @@
 | 278 | 1264 | Missie Lawson Gebhardt |
 | 279 | 1259 | Foxxo |
 | 280 | 1258 | Dimitra Zazara |
-| 281 | 1257 | Megan Ferguson Leone |
-| 282 | 1257 | Megan Garrick |
+| 281 | 1257 | Megan Garrick |
+| 282 | 1257 | Megan Ferguson Leone |
 | 283 | 1256 | Roman Lavochnik |
 | 284 | 1247 | Ericka Marie Smith |
 | 285 | 1241 | Jennifer Casey-Kay |
@@ -350,8 +350,8 @@
 | 342 | 1079 | Jennifer Kistner |
 | 343 | 1073 | Jodi Blake |
 | 344 | 1072 | BK Queen |
-| 345 | 1071 | Nashu |
-| 346 | 1071 | Kim Dean |
+| 345 | 1071 | Kim Dean |
+| 346 | 1071 | Nashu |
 | 347 | 1071 | Barbra Miller |
 | 348 | 1067 | Caitlin Schmid |
 | 349 | 1065 | Dany Murillo |
@@ -368,8 +368,8 @@
 | 360 | 1040 | Taylor Phillips |
 | 361 | 1038 | Sheronda Jackson |
 | 362 | 1037 | Jessica Wayne Cornwall |
-| 363 | 1036 | Amber Shoemaker |
-| 364 | 1036 | Allison Lockyer |
+| 363 | 1036 | Allison Lockyer |
+| 364 | 1036 | Amber Shoemaker |
 | 365 | 1029 | Crystal Hoffman |
 | 366 | 1026 | Joshua Mandel |
 | 367 | 1024 | Susan Perraut Jones |
@@ -400,11 +400,11 @@
 | 392 | 969 | Steve Man |
 | 393 | 965 | Amanda Woodruff |
 | 394 | 962 | Antionette Sewell |
-| 395 | 960 | Alyssa Hileman |
-| 396 | 960 | KhaosLord |
+| 395 | 960 | KhaosLord |
+| 396 | 960 | Alyssa Hileman |
 | 397 | 958 | Nicole Cannon |
-| 398 | 958 | Brenda Messer |
-| 399 | 958 | Doowop40 |
+| 398 | 958 | Doowop40 |
+| 399 | 958 | Brenda Messer |
 | 400 | 957 | Block Master |
 | 401 | 957 | Jennie Lee Huntley |
 | 402 | 951 | Mighty Shatterfit |
@@ -477,8 +477,8 @@
 | 469 | 843 | Quirky Twistline |
 | 470 | 840 | Traci Johnson |
 | 471 | 840 | Kiana Boschh |
-| 472 | 835 | William David Swallow |
-| 473 | 835 | Moni Foxe |
+| 472 | 835 | Moni Foxe |
+| 473 | 835 | William David Swallow |
 | 474 | 834 | Montez Mancil |
 | 475 | 833 | Christie |
 | 476 | 833 | Layla LS |
@@ -688,11 +688,11 @@
 | 680 | 634 | Quiksilver |
 | 681 | 634 | Mia Muse Best |
 | 682 | 632 | Lea Stewart |
-| 683 | 632 | Lonna Matthews |
-| 684 | 632 | Joseph Musick |
+| 683 | 632 | Joseph Musick |
+| 684 | 632 | Lonna Matthews |
 | 685 | 630 | Cecilia A Jenkins |
-| 686 | 628 | Christina Ashley |
-| 687 | 628 | Ronald Higgins |
+| 686 | 628 | Ronald Higgins |
+| 687 | 628 | Christina Ashley |
 | 688 | 628 | Brownie Sheena |
 | 689 | 626 | Autumn Schaeffer |
 | 690 | 626 | Daring Caster |

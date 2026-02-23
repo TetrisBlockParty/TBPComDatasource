@@ -257,8 +257,8 @@
 | 249 | 530 | Stephanie Blkpep Davidson |
 | 250 | 529 | Terry Jo Jones |
 | 251 | 519 | Nichol Graham |
-| 252 | 516 | Cyd061769 |
-| 253 | 516 | Daring Brickzone |
+| 252 | 516 | Daring Brickzone |
+| 253 | 516 | Cyd061769 |
 | 254 | 515 | Cozy Snaplink |
 | 255 | 514 | France Vézina |
 | 256 | 513 | Lizabeth Fox |

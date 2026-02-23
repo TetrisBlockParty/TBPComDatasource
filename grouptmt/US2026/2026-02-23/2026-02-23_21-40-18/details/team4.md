@@ -90,8 +90,8 @@
 | 82 | 826 | Rica Mitchell |
 | 83 | 802 | Crystal Carroll |
 | 84 | 794 | Chilly Line |
-| 85 | 783 | Denise Carlson |
-| 86 | 783 | Guy Incognito |
+| 85 | 783 | Guy Incognito |
+| 86 | 783 | Denise Carlson |
 | 87 | 775 | Klo |
 | 88 | 768 | Judy Cox |
 | 89 | 767 | Shannon Ferrari |
@@ -223,8 +223,8 @@
 | 215 | 413 | John Brunetti |
 | 216 | 412 | Chris Bernstein |
 | 217 | 411 | Mimi |
-| 218 | 411 | Silly Zonebuilder |
-| 219 | 411 | Autumn Kumzi |
+| 218 | 411 | Autumn Kumzi |
+| 219 | 411 | Silly Zonebuilder |
 | 220 | 409 | Antony Dwayne Beasley |
 | 221 | 400 | TinyLegoRose |
 | 222 | 399 | Lindsay Ball |
@@ -460,9 +460,9 @@
 | 452 | 217 | Perky Riser |
 | 453 | 217 | Cheery Fitline |
 | 454 | 216 | Ryry |
-| 455 | 215 | Dorian |
+| 455 | 215 | Squeezy Pearsall |
 | 456 | 215 | Tanya Abernathy Jackson |
-| 457 | 215 | Squeezy Pearsall |
+| 457 | 215 | Dorian |
 | 458 | 214 | Susan R. Wilson |
 | 459 | 214 | B Renee Desjardin |
 | 460 | 213 | Candice Carasiti |
@@ -509,10 +509,10 @@
 | 501 | 194 | Carlos Hernandez |
 | 502 | 192 | Twisty Risebuilder |
 | 503 | 192 | Rebecca A Rit |
-| 504 | 192 | Twisty Risebuilder |
+| 504 | 192 | Jacob Campbell |
 | 505 | 191 | Norman Klick |
-| 506 | 191 | Jobadia Steelerton |
-| 507 | 191 | Earnest Thompson |
+| 506 | 191 | Earnest Thompson |
+| 507 | 191 | Jobadia Steelerton |
 | 508 | 190 | wombat |
 | 509 | 190 | Robert Rangel |
 | 510 | 189 | Brandon Link |
@@ -568,8 +568,8 @@
 | 560 | 170 | Joshua W. Benton |
 | 561 | 170 | Bigeddie |
 | 562 | 170 | Elie Pean |
-| 563 | 169 | Joseph Pace |
-| 564 | 169 | Dante Korleon |
+| 563 | 169 | Dante Korleon |
+| 564 | 169 | Joseph Pace |
 | 565 | 168 | LunaMoon |
 | 566 | 168 | Melissa VanBourgondien |
 | 567 | 167 | Brooke Kaune |
