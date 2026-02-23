@@ -55,8 +55,8 @@
 | 47 | 911 | Jeremy Steines |
 | 48 | 855 | Marvin Lou Martin |
 | 49 | 853 | TeeJ |
-| 50 | 846 | Lucille Truesdale |
-| 51 | 846 | Christine Marie |
+| 50 | 846 | Christine Marie |
+| 51 | 846 | Lucille Truesdale |
 | 52 | 845 | LisaJo Picken Buchanan |
 | 53 | 843 | Shelly Chandler |
 | 54 | 841 | Anthony Bryan Riva |
@@ -90,9 +90,9 @@
 | 82 | 673 | Lisa Davis |
 | 83 | 673 | Jacqueline Helm |
 | 84 | 664 | Valerie Roberts |
-| 85 | 647 | Shauna Havard |
-| 86 | 647 | KM8 |
-| 87 | 647 | Diana Houts |
+| 85 | 647 | Diana Houts |
+| 86 | 647 | Shauna Havard |
+| 87 | 647 | KM8 |
 | 88 | 646 | Eric Mcgaughy |
 | 89 | 641 | Savannah Overdorf |
 | 90 | 633 | Jamie Gustafson |
@@ -159,8 +159,8 @@
 | 151 | 387 | 🥔🥔 Spudz |
 | 152 | 387 | Lucas J Sutton |
 | 153 | 377 | Carrie Brian |
-| 154 | 375 | ThaEviLJeNiuZ |
-| 155 | 375 | Desi Desporte |
+| 154 | 375 | Desi Desporte |
+| 155 | 375 | ThaEviLJeNiuZ |
 | 156 | 374 | Guy Incognito |
 | 157 | 373 | Tyler Terrific |
 | 158 | 370 | Oscar Alberto Perez |
@@ -223,8 +223,8 @@
 | 215 | 281 | Kim Klutz Olson |
 | 216 | 281 | Laura |
 | 217 | 277 | Zesty Twistbuilder |
-| 218 | 276 | Matt Dell'Olio |
-| 219 | 276 | Joeliecea Cobb |
+| 218 | 276 | Joeliecea Cobb |
+| 219 | 276 | Matt Dell'Olio |
 | 220 | 273 | Casey Grabner |
 | 221 | 272 | Alan George LaRage |
 | 222 | 272 | Dennis Bradley |
