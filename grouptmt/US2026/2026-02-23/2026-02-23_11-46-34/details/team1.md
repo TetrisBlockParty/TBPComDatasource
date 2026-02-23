@@ -91,8 +91,8 @@
 | 83 | 648 | Evie Khalil |
 | 84 | 647 | Jason Jones |
 | 85 | 600 | Greg Hart |
-| 86 | 598 | Erin Hodges Plumb |
-| 87 | 598 | Kellie |
+| 86 | 598 | Kellie |
+| 87 | 598 | Erin Hodges Plumb |
 | 88 | 588 | Lori Sanders- Davis |
 | 89 | 584 | Jen Sartain |
 | 90 | 583 | Theo Pinnow |
@@ -168,8 +168,8 @@
 | 160 | 387 | Ananda Mendez |
 | 161 | 386 | Erin Rosberg |
 | 162 | 385 | Amanda Jarnagin |
-| 163 | 383 | Margo Wagner |
-| 164 | 383 | pjbeta |
+| 163 | 383 | pjbeta |
+| 164 | 383 | Margo Wagner |
 | 165 | 380 | phrmblk24 |
 | 166 | 379 | Austin James |
 | 167 | 378 | Jessica Sheehan |
@@ -262,10 +262,10 @@
 | 254 | 280 | Billie Dawn Sparks |
 | 255 | 279 | Chris Dawson |
 | 256 | 277 | Nutty Spinblock |
-| 257 | 277 | Melissa Lemmon |
-| 258 | 277 | Glitzy Curvebuilder |
-| 259 | 275 | Cheeky Pop |
-| 260 | 275 | Chris65 |
+| 257 | 277 | Glitzy Curvebuilder |
+| 258 | 277 | Melissa Lemmon |
+| 259 | 275 | Chris65 |
+| 260 | 275 | Cheeky Pop |
 | 261 | 273 | Наталья Солоид |
 | 262 | 273 | Larry Tilton |
 | 263 | 272 | Michelle Beres |
@@ -300,8 +300,8 @@
 | 292 | 244 | Sarah Marie |
 | 293 | 244 | Eddie Dillon |
 | 294 | 244 | Tami Luce Martin |
-| 295 | 243 | Bouncy Grid |
-| 296 | 243 | Michael Espinosa Ulibarri Jr. |
+| 295 | 243 | Michael Espinosa Ulibarri Jr. |
+| 296 | 243 | Bouncy Grid |
 | 297 | 243 | Tyler L Hunt |
 | 298 | 242 | John Ramirez |
 | 299 | 242 | ParisandCory Champagne |
@@ -349,13 +349,13 @@
 | 341 | 220 | Teri Oehlke |
 | 342 | 220 | Allena Craft |
 | 343 | 220 | Gary Gobin |
-| 344 | 219 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
-| 345 | 219 | Jeanna Dunn |
-| 346 | 219 | Negan Mallory Knoxx Spence |
+| 344 | 219 | Jeanna Dunn |
+| 345 | 219 | Negan Mallory Knoxx Spence |
+| 346 | 219 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 347 | 218 | Jason Benitez |
-| 348 | 217 | Cheeky Crusher |
-| 349 | 217 | Betsy |
-| 350 | 217 | Speedy Snapfall |
+| 348 | 217 | Betsy |
+| 349 | 217 | Speedy Snapfall |
+| 350 | 217 | Cheeky Crusher |
 | 351 | 216 | Chad Atchley |
 | 352 | 216 | Shauntina Burke |
 | 353 | 215 | Quirky Pusher |

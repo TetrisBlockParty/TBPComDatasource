@@ -44,8 +44,8 @@
 | 36 | 4280 | Robert Diddle |
 | 37 | 4199 | Claire Noland |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Kristen Sceurman |
-| 40 | 4120 | Corrine Hawks Soriano |
+| 39 | 4120 | Corrine Hawks Soriano |
+| 40 | 4120 | Kristen Sceurman |
 | 41 | 4086 | PandaMama |
 | 42 | 3947 | Melinda Brown |
 | 43 | 3845 | jayjay |
@@ -293,12 +293,12 @@
 | 285 | 1045 | Bri Lynn |
 | 286 | 1045 | Lourisha |
 | 287 | 1044 | Jennifer Aiken |
-| 288 | 1043 | Brave Dropmatch |
-| 289 | 1043 | nikki |
+| 288 | 1043 | nikki |
+| 289 | 1043 | Brave Dropmatch |
 | 290 | 1042 | Mcintosh Brian Shalonda |
 | 291 | 1040 | Rebecca Garland |
-| 292 | 1036 | Amber Shoemaker |
-| 293 | 1036 | Allison Lockyer |
+| 292 | 1036 | Allison Lockyer |
+| 293 | 1036 | Amber Shoemaker |
 | 294 | 1032 | Kristin Gower |
 | 295 | 1029 | Crystal Hoffman |
 | 296 | 1024 | Susan Perraut Jones |

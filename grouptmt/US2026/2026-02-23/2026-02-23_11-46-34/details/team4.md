@@ -77,8 +77,8 @@
 | 69 | 787 | loulou |
 | 70 | 767 | Shannon Ferrari |
 | 71 | 766 | Robin Watters |
-| 72 | 765 | Robin Getchel |
-| 73 | 765 | Denise Carlson |
+| 72 | 765 | Denise Carlson |
+| 73 | 765 | Robin Getchel |
 | 74 | 753 | TheNeesh50 |
 | 75 | 752 | Shane Kalamata Platoon |
 | 76 | 749 | Dustee Craddock-Harrison |
@@ -127,11 +127,11 @@
 | 119 | 527 | Dizzy Tiley |
 | 120 | 521 | Andy Cabral |
 | 121 | 517 | shar |
-| 122 | 514 | Serena Goodridge |
-| 123 | 514 | Scott Jameson |
+| 122 | 514 | Scott Jameson |
+| 123 | 514 | Serena Goodridge |
 | 124 | 513 | Erin Thomas |
-| 125 | 512 | Cristy Duerksen |
-| 126 | 512 | Casey Jeffcoat |
+| 125 | 512 | Casey Jeffcoat |
+| 126 | 512 | Cristy Duerksen |
 | 127 | 509 | Leslie Nicole |
 | 128 | 493 | Carly Alexis |
 | 129 | 485 | Melissa Adams |
@@ -172,8 +172,8 @@
 | 164 | 402 | Lucas J Sutton |
 | 165 | 398 | Tyler Terrific |
 | 166 | 397 | Nick Gray |
-| 167 | 393 | Carlton Unfiltered |
-| 168 | 393 | Girl |
+| 167 | 393 | Girl |
+| 168 | 393 | Carlton Unfiltered |
 | 169 | 391 | Ramel Rhodes |
 | 170 | 389 | Joseph Guthrie |
 | 171 | 383 | Chris Bernstein |
@@ -187,8 +187,8 @@
 | 179 | 368 | Brandon Crabbs |
 | 180 | 368 | Silly Zonebuilder |
 | 181 | 365 | Jeff Brian Gates |
-| 182 | 361 | Danielle Kollias |
-| 183 | 361 | Carlos Ramirez |
+| 182 | 361 | Carlos Ramirez |
+| 183 | 361 | Danielle Kollias |
 | 184 | 358 | A5! |
 | 185 | 358 | Twisty Cascadezone |
 | 186 | 355 | James Hurley Jr. |
@@ -231,8 +231,8 @@
 | 223 | 307 | Michele Plunkett |
 | 224 | 306 | mike |
 | 225 | 305 | Melvin Baird |
-| 226 | 304 | Lindsay Ball |
-| 227 | 304 | Gdiguy |
+| 226 | 304 | Gdiguy |
+| 227 | 304 | Lindsay Ball |
 | 228 | 301 | Andria Lynn |
 | 229 | 300 | Dana Scott |
 | 230 | 295 | Keshia Lyons |
@@ -390,8 +390,8 @@
 | 382 | 191 | Earnest Thompson |
 | 383 | 191 | Norman Klick |
 | 384 | 190 | wombat |
-| 385 | 189 | Lauren Lamb |
-| 386 | 189 | Berklie Apedaile |
+| 385 | 189 | Berklie Apedaile |
+| 386 | 189 | Lauren Lamb |
 | 387 | 189 | Cool Towerbuilder |
 | 388 | 188 | Sharyn Lemire |
 | 389 | 188 | Frilly Blocky |
@@ -608,8 +608,8 @@
 | 600 | 120 | Christina O'Dell-Ishau |
 | 601 | 120 | Verna Neal |
 | 602 | 119 | River Shady Sr. |
-| 603 | 119 | Kourtney Barnes |
-| 604 | 119 | Calen Torez |
+| 603 | 119 | Calen Torez |
+| 604 | 119 | Kourtney Barnes |
 | 605 | 119 | George Tzouganos |
 | 606 | 118 | Kametsunoyaiba |
 | 607 | 118 | Sassy Pattern |
