@@ -135,8 +135,8 @@
 | 127 | 774 | Keith J Oshman Jr. |
 | 128 | 773 | Daira Largen |
 | 129 | 770 | Daryn Elliott |
-| 130 | 764 | Hasty Cascadefit |
-| 131 | 764 | Groovy Catcher |
+| 130 | 764 | Groovy Catcher |
+| 131 | 764 | Hasty Cascadefit |
 | 132 | 762 | Speedy Bridger |
 | 133 | 757 | Fancy Cascader |
 | 134 | 755 | Katrina Schroeder |
@@ -198,8 +198,8 @@
 | 190 | 562 | Dave Herzog |
 | 191 | 561 | Elissa S-k |
 | 192 | 559 | Patti Skiles |
-| 193 | 549 | Sarah Cowan Burgos |
-| 194 | 549 | Tasha Schriewer |
+| 193 | 549 | Tasha Schriewer |
+| 194 | 549 | Sarah Cowan Burgos |
 | 195 | 548 | Danielle Balcom |
 | 196 | 547 | Staci George Fitzsimmons |
 | 197 | 546 | Cynthia Castros-Hampton |
@@ -210,8 +210,8 @@
 | 202 | 531 | Trisha Balmer |
 | 203 | 531 | Chauntee Alfrey-Cardinale |
 | 204 | 530 | Stephanie Blkpep Davidson |
-| 205 | 524 | Bmo |
-| 206 | 524 | Shannon Matthew Byers |
+| 205 | 524 | Shannon Matthew Byers |
+| 206 | 524 | Bmo |
 | 207 | 519 | Terry Jo Jones |
 | 208 | 517 | Connie Mohler-Fair |
 | 209 | 515 | Cozy Snaplink |
@@ -360,11 +360,11 @@
 | 352 | 323 | Rachel Grant |
 | 353 | 323 | Sharisse Baltimore |
 | 354 | 323 | Spencer Nikki |
-| 355 | 322 | Beth Smith |
-| 356 | 322 | Nena Somerville Kelly |
+| 355 | 322 | Nena Somerville Kelly |
+| 356 | 322 | Beth Smith |
 | 357 | 321 | Wettnippz |
-| 358 | 320 | Geoffrey Nash |
-| 359 | 320 | Or Reznitsky |
+| 358 | 320 | Or Reznitsky |
+| 359 | 320 | Geoffrey Nash |
 | 360 | 320 | Taylor Hood |
 | 361 | 320 | Ashley Muncey |
 | 362 | 318 | Christy Quick |
@@ -386,16 +386,16 @@
 | 378 | 304 | _melisa223_ |
 | 379 | 303 | Alexmac |
 | 380 | 302 | Willow |
-| 381 | 301 | Betty Rosas |
-| 382 | 301 | Kaitie Oliver |
+| 381 | 301 | Kaitie Oliver |
+| 382 | 301 | Betty Rosas |
 | 383 | 301 | Daring Brickzone |
 | 384 | 301 | Michael Lucado |
 | 385 | 299 | Hasty Gridpiece |
 | 386 | 299 | Antonia Russell |
 | 387 | 299 | TotoCherue |
 | 388 | 299 | Angie Harper |
-| 389 | 298 | Dannie Litchard |
-| 390 | 298 | Grams |
+| 389 | 298 | Grams |
+| 390 | 298 | Dannie Litchard |
 | 391 | 298 | Tay |
 | 392 | 296 | Amy Montz |
 | 393 | 296 | Tracy Martin |
@@ -456,8 +456,8 @@
 | 448 | 264 | Reina Roth |
 | 449 | 264 | Danielle Beaunoyer Jean |
 | 450 | 262 | Rainbow77375 |
-| 451 | 260 | Tracey Cox |
-| 452 | 260 | Alice |
+| 451 | 260 | Alice |
+| 452 | 260 | Tracey Cox |
 | 453 | 260 | Brian Battjes |
 | 454 | 259 | Skinny Baldez |
 | 455 | 259 | Tegan Chapman |

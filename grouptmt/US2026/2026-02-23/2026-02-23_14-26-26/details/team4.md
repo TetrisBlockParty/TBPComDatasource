@@ -69,8 +69,8 @@
 | 61 | 872 | Shelly Chandler |
 | 62 | 870 | BertMofo |
 | 63 | 858 | Avy Absol |
-| 64 | 846 | Lucille Truesdale |
-| 65 | 846 | Christine Marie |
+| 64 | 846 | Christine Marie |
+| 65 | 846 | Lucille Truesdale |
 | 66 | 834 | quicksand420 |
 | 67 | 807 | Amelpss |
 | 68 | 807 | Rachel Anne |
@@ -105,8 +105,8 @@
 | 97 | 667 | Amy Suckarieh |
 | 98 | 659 | Jamie Gustafson |
 | 99 | 650 | KJ Pool |
-| 100 | 647 | KM8 |
-| 101 | 647 | Shauna Havard |
+| 100 | 647 | Shauna Havard |
+| 101 | 647 | KM8 |
 | 102 | 637 | Lori Walker |
 | 103 | 635 | Adawna Swires |
 | 104 | 633 | Nugget |
@@ -204,8 +204,8 @@
 | 196 | 368 | Silly Zonebuilder |
 | 197 | 365 | Jeff Brian Gates |
 | 198 | 363 | Cindy Looper |
-| 199 | 361 | Danielle Kollias |
-| 200 | 361 | Rafael Valentin |
+| 199 | 361 | Rafael Valentin |
+| 200 | 361 | Danielle Kollias |
 | 201 | 358 | A5! |
 | 202 | 358 | Twisty Cascadezone |
 | 203 | 355 | James Hurley Jr. |
@@ -215,8 +215,8 @@
 | 207 | 350 | April Rondinone |
 | 208 | 348 | David Lay |
 | 209 | 347 | Crystal Nicolette Moore |
-| 210 | 347 | Bio Nelly |
-| 211 | 347 | Daria Rycewicz |
+| 210 | 347 | Daria Rycewicz |
+| 211 | 347 | Bio Nelly |
 | 212 | 346 | shark tato |
 | 213 | 343 | HastyGrabber |
 | 214 | 341 | scott |
