@@ -181,8 +181,8 @@
 | 173 | 431 | Courtney Cicoria |
 | 174 | 427 | Steph Marie |
 | 175 | 426 | 🥔🥔 Spudz |
-| 176 | 423 | Carrie Brian |
-| 177 | 423 | Crystal Nicolette Moore |
+| 176 | 423 | Crystal Nicolette Moore |
+| 177 | 423 | Carrie Brian |
 | 178 | 422 | Zakia Monae |
 | 179 | 421 | JIGsaw ~(•¿°)~ |
 | 180 | 421 | Kesha Brady |
@@ -266,9 +266,9 @@
 | 258 | 310 | Stacey Stano |
 | 259 | 308 | Leah Kutz Zirbel |
 | 260 | 307 | Cheery Risebuilder |
-| 261 | 307 | Michele Plunkett |
-| 262 | 307 | Angie Schmidt |
-| 263 | 307 | Tina Lopez |
+| 261 | 307 | Tina Lopez |
+| 262 | 307 | Michele Plunkett |
+| 263 | 307 | Angie Schmidt |
 | 264 | 306 | mike |
 | 265 | 304 | Nubian1 |
 | 266 | 304 | Joanna |
@@ -291,10 +291,10 @@
 | 283 | 288 | Brittney Orengo |
 | 284 | 285 | Kim Klutz Olson |
 | 285 | 284 | Malakai Darien Fox |
-| 286 | 284 | Glitzy Corner |
-| 287 | 284 | Matt Dell'Olio |
-| 288 | 281 | Morti |
-| 289 | 281 | Laura |
+| 286 | 284 | Matt Dell'Olio |
+| 287 | 284 | Glitzy Corner |
+| 288 | 281 | Laura |
+| 289 | 281 | Morti |
 | 290 | 280 | Nerdy Twisterfit |
 | 291 | 278 | Sarah Brown |
 | 292 | 278 | Angela Geist Jusinski |

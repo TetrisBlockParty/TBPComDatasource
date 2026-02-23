@@ -331,8 +331,8 @@
 | 323 | 1042 | Michele Morgan |
 | 324 | 1042 | Mcintosh Brian Shalonda |
 | 325 | 1040 | Taylor Phillips |
-| 326 | 1036 | Allison Lockyer |
-| 327 | 1036 | Amber Shoemaker |
+| 326 | 1036 | Amber Shoemaker |
+| 327 | 1036 | Allison Lockyer |
 | 328 | 1032 | Binyah-Binyah |
 | 329 | 1031 | Barbra Miller |
 | 330 | 1029 | Crystal Hoffman |
@@ -508,8 +508,8 @@
 | 500 | 746 | Samuel Macon |
 | 501 | 742 | Ganieda |
 | 502 | 742 | Cassie Maynard |
-| 503 | 740 | Jerry Tempelmeyer |
-| 504 | 740 | Samantha Scibelli |
+| 503 | 740 | Samantha Scibelli |
+| 504 | 740 | Jerry Tempelmeyer |
 | 505 | 737 | Ginger |
 | 506 | 737 | Chelle |
 | 507 | 735 | Catherine Marsh Gruda |

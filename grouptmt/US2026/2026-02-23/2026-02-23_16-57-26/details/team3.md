@@ -436,13 +436,13 @@
 | 428 | 292 | Khaleada McGill Banks |
 | 429 | 292 | Arden White Kirsch |
 | 430 | 291 | Swanky Snapclear |
-| 431 | 291 | Bryan Byrd |
-| 432 | 291 | Niki Dalrymple |
+| 431 | 291 | Niki Dalrymple |
+| 432 | 291 | Bryan Byrd |
 | 433 | 290 | Kellie Montgomery |
 | 434 | 290 | Breezy Roll |
 | 435 | 289 | DidIdothat |
-| 436 | 289 | Romeo |
-| 437 | 289 | Sassy Brickmatch |
+| 436 | 289 | Sassy Brickmatch |
+| 437 | 289 | Romeo |
 | 438 | 288 | Kristi Taylor |
 | 439 | 287 | Carol Cain Thurman |
 | 440 | 286 | Skinny Baldez |
@@ -620,8 +620,8 @@
 | 612 | 216 | Clever Edgepiece |
 | 613 | 215 | Beck Nicole |
 | 614 | 215 | Michell Hendershott Jackson |
-| 615 | 214 | Shiny Snapfit |
-| 616 | 214 | Amy Fuller Heaton |
+| 615 | 214 | Amy Fuller Heaton |
+| 616 | 214 | Shiny Snapfit |
 | 617 | 213 | Gina Marie |
 | 618 | 213 | Laaken Draper |
 | 619 | 212 | Frisky Stacker |
@@ -642,8 +642,8 @@
 | 634 | 208 | Jessica Christian |
 | 635 | 208 | Luccy Luxe |
 | 636 | 208 | Spzy |
-| 637 | 207 | Danette Marie |
-| 638 | 207 | Jada Cox |
+| 637 | 207 | Jada Cox |
+| 638 | 207 | Danette Marie |
 | 639 | 207 | demon14 |
 | 640 | 206 | Tammy Rosenberry |
 | 641 | 206 | Anabela Ruiz |
