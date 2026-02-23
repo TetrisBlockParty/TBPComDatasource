@@ -103,8 +103,8 @@
 | 95 | 562 | Denice Dee |
 | 96 | 553 | And |
 | 97 | 535 | Susan Ward |
-| 98 | 534 | Veronica Eve |
-| 99 | 534 | Loony Fitzone |
+| 98 | 534 | Loony Fitzone |
+| 99 | 534 | Veronica Eve |
 | 100 | 529 | Ryan Lunnin |
 | 101 | 522 | Sarah Lombardo |
 | 102 | 511 | Mario Cab |
@@ -295,12 +295,12 @@
 | 287 | 246 | Plucky Stacky |
 | 288 | 245 | Matt Iaccheo |
 | 289 | 245 | LaFontaine Leslie |
-| 290 | 244 | Tami Luce Martin |
-| 291 | 244 | Eddie Dillon |
-| 292 | 244 | Sarah Marie |
-| 293 | 243 | Michael Espinosa Ulibarri Jr. |
+| 290 | 244 | Sarah Marie |
+| 291 | 244 | Tami Luce Martin |
+| 292 | 244 | Eddie Dillon |
+| 293 | 243 | Tyler L Hunt |
 | 294 | 243 | Bouncy Grid |
-| 295 | 243 | Tyler L Hunt |
+| 295 | 243 | Michael Espinosa Ulibarri Jr. |
 | 296 | 242 | Tamara Brown |
 | 297 | 242 | ParisandCory Champagne |
 | 298 | 242 | John Ramirez |

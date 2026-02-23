@@ -583,13 +583,13 @@
 | 575 | 612 | Briana Alexander |
 | 576 | 612 | Slinky Racker |
 | 577 | 610 | Michael Buckner |
-| 578 | 609 | Autumn Schaeffer |
-| 579 | 609 | Cecilia A Jenkins |
+| 578 | 609 | Cecilia A Jenkins |
+| 579 | 609 | Autumn Schaeffer |
 | 580 | 607 | James Smith |
 | 581 | 607 | Miranda Morris |
 | 582 | 606 | Lea Stewart |
-| 583 | 605 | Mandi Marie Smith |
-| 584 | 605 | Jermaine Harris |
+| 583 | 605 | Jermaine Harris |
+| 584 | 605 | Mandi Marie Smith |
 | 585 | 604 | Rae Rae |
 | 586 | 603 | Casper The Chonk |
 | 587 | 603 | Dizzy Zone |
@@ -788,8 +788,8 @@
 | 780 | 474 | Calandra Shaya Robinson |
 | 781 | 473 | Tara Lynn Janes |
 | 782 | 473 | Jenn Marie |
-| 783 | 472 | Cathleena Giusto |
-| 784 | 472 | Connie Lepore-Mann |
+| 783 | 472 | Connie Lepore-Mann |
+| 784 | 472 | Cathleena Giusto |
 | 785 | 471 | Jessica Hughes |
 | 786 | 471 | Charming Leech |
 | 787 | 470 | Katie Marie |

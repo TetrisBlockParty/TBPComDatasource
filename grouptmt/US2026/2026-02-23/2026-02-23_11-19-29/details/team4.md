@@ -72,12 +72,12 @@
 | 64 | 807 | Rachel Anne |
 | 65 | 788 | Julian Garcia |
 | 66 | 788 | Chilly Line |
-| 67 | 787 | loulou |
-| 68 | 787 | Edward White |
+| 67 | 787 | Edward White |
+| 68 | 787 | loulou |
 | 69 | 767 | Shannon Ferrari |
 | 70 | 766 | Robin Watters |
-| 71 | 765 | Denise Carlson |
-| 72 | 765 | Robin Getchel |
+| 71 | 765 | Robin Getchel |
+| 72 | 765 | Denise Carlson |
 | 73 | 753 | TheNeesh50 |
 | 74 | 752 | Shane Kalamata Platoon |
 | 75 | 749 | Dustee Craddock-Harrison |
@@ -248,8 +248,8 @@
 | 240 | 288 | Leah Kutz Zirbel |
 | 241 | 285 | 030Synner |
 | 242 | 284 | Matt Dell'Olio |
-| 243 | 282 | Kim Klutz Olson |
-| 244 | 282 | Matt Gooder |
+| 243 | 282 | Matt Gooder |
+| 244 | 282 | Kim Klutz Olson |
 | 245 | 281 | Laura |
 | 246 | 280 | Rio Rocha |
 | 247 | 279 | Malakai Darien Fox |
@@ -271,8 +271,8 @@
 | 263 | 264 | ZeeZee |
 | 264 | 264 | Stella |
 | 265 | 263 | rebel4lyfe |
-| 266 | 262 | BigSammy420 |
-| 267 | 262 | Selena Shaw |
+| 266 | 262 | Selena Shaw |
+| 267 | 262 | BigSammy420 |
 | 268 | 261 | Zethra Prenisha Rahming |
 | 269 | 260 | Carter Jones |
 | 270 | 259 | Montiette Mcglown |
@@ -474,12 +474,12 @@
 | 466 | 160 | Sho Nuff |
 | 467 | 160 | icequeenx |
 | 468 | 159 | Groovy Brickmatch |
-| 469 | 158 | Jen Mattei |
-| 470 | 158 | Jasmine S Caldwell |
+| 469 | 158 | Jasmine S Caldwell |
+| 470 | 158 | Jen Mattei |
 | 471 | 158 | Grann8 |
 | 472 | 157 | David Boggs |
-| 473 | 157 | Ryry |
-| 474 | 157 | LunaMoon |
+| 473 | 157 | LunaMoon |
+| 474 | 157 | Ryry |
 | 475 | 156 | Mighty Edgepiece |
 | 476 | 155 | tipsy tiger |
 | 477 | 155 | Faja |
