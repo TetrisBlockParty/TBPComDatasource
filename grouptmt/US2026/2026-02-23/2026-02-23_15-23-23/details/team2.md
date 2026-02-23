@@ -383,8 +383,8 @@
 | 375 | 907 | Gene Mills |
 | 376 | 907 | Kayla |
 | 377 | 904 | John Bednarik |
-| 378 | 903 | Giggy Blocker |
-| 379 | 903 | Eric Castaneda |
+| 378 | 903 | Eric Castaneda |
+| 379 | 903 | Giggy Blocker |
 | 380 | 902 | Diallo Sparkman |
 | 381 | 899 | Felicia Lynn |
 | 382 | 899 | Patrick Bartlett |
@@ -423,8 +423,8 @@
 | 415 | 832 | Nicole L Morelli |
 | 416 | 831 | Christina Lewis-Vickers |
 | 417 | 830 | Smashanator |
-| 418 | 829 | Angie Bolton Workman |
-| 419 | 829 | ToShi |
+| 418 | 829 | ToShi |
+| 419 | 829 | Angie Bolton Workman |
 | 420 | 828 | Kimmy Newman |
 | 421 | 825 | Jeremy Parodi |
 | 422 | 824 | Khalil Lowe |

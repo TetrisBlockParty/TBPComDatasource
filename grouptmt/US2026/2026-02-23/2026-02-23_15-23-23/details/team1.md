@@ -46,8 +46,8 @@
 | 38 | 1128 | june october |
 | 39 | 1126 | Tater |
 | 40 | 1122 | Amanda Summey Schoemer |
-| 41 | 1114 | Marianne Louise West |
-| 42 | 1114 | Jayme Sellers |
+| 41 | 1114 | Jayme Sellers |
+| 42 | 1114 | Marianne Louise West |
 | 43 | 1112 | Chipper Gridlock |
 | 44 | 1100 | Derek MF Blakey |
 | 45 | 1092 | Tipsy Column |
@@ -84,8 +84,8 @@
 | 76 | 758 | Ash Galvan |
 | 77 | 750 | Cartier |
 | 78 | 740 | Lori Sanders- Davis |
-| 79 | 713 | Snappy Swiper |
-| 80 | 713 | Robert Benito |
+| 79 | 713 | Robert Benito |
+| 80 | 713 | Snappy Swiper |
 | 81 | 710 | Jennifer ManWarren |
 | 82 | 706 | Plucky Fallzone |
 | 83 | 704 | Karin Gillen |
@@ -96,8 +96,8 @@
 | 88 | 689 | Susanna Guerry |
 | 89 | 683 | Nancy Green |
 | 90 | 679 | Hasbro Bros |
-| 91 | 657 | Cynthia Bradley |
-| 92 | 657 | Tee Sheree |
+| 91 | 657 | Tee Sheree |
+| 92 | 657 | Cynthia Bradley |
 | 93 | 655 | Brenda Stewart |
 | 94 | 650 | Kristi Johnson |
 | 95 | 648 | Evie Khalil |
@@ -179,9 +179,9 @@
 | 171 | 399 | Nery Martinez |
 | 172 | 397 | Erin Rosberg |
 | 173 | 394 | Lori Bales |
-| 174 | 393 | Kimmie Kimms |
+| 174 | 393 | Lehrin Maria |
 | 175 | 393 | Wisa |
-| 176 | 393 | Lehrin Maria |
+| 176 | 393 | Kimmie Kimms |
 | 177 | 391 | Basment Living |
 | 178 | 387 | Monica Donato |
 | 179 | 387 | Carrie Smith |
@@ -283,8 +283,8 @@
 | 275 | 283 | Irv |
 | 276 | 283 | Hasty Cascader |
 | 277 | 282 | Timothy Dew |
-| 278 | 280 | Billie Dawn Sparks |
-| 279 | 280 | Наталья Солоид |
+| 278 | 280 | Наталья Солоид |
+| 279 | 280 | Billie Dawn Sparks |
 | 280 | 279 | Chris Dawson |
 | 281 | 277 | Nutty Spinblock |
 | 282 | 277 | Agustin Duarte Orozco |
