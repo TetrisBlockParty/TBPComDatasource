@@ -229,8 +229,8 @@
 | 221 | 545 | Trisha Balmer |
 | 222 | 539 | Betty Bóò |
 | 223 | 538 | Annie Déè |
-| 224 | 537 | Tessina Dewey-Mancino |
-| 225 | 537 | Aerian Preston |
+| 224 | 537 | Aerian Preston |
+| 225 | 537 | Tessina Dewey-Mancino |
 | 226 | 537 | Tamara Deherrera |
 | 227 | 531 | Chauntee Alfrey-Cardinale |
 | 228 | 530 | Stephanie Blkpep Davidson |

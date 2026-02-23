@@ -224,8 +224,8 @@
 | 216 | 379 | Backoff Recupe |
 | 217 | 378 | Lauren Scott |
 | 218 | 378 | Silly Zonebuilder |
-| 219 | 376 | Zesty Twistbuilder |
-| 220 | 376 | shark tato |
+| 219 | 376 | shark tato |
+| 220 | 376 | Zesty Twistbuilder |
 | 221 | 374 | Mr. Party |
 | 222 | 372 | JPW |
 | 223 | 368 | Holly Jolly |
@@ -234,8 +234,8 @@
 | 226 | 363 | Cindy Looper |
 | 227 | 363 | Googenheim |
 | 228 | 362 | Meg |
-| 229 | 361 | Mimi |
-| 230 | 361 | Rafael Valentin |
+| 229 | 361 | Rafael Valentin |
+| 230 | 361 | Mimi |
 | 231 | 361 | Danielle Kollias |
 | 232 | 358 | Twisty Cascadezone |
 | 233 | 358 | A5! |
@@ -243,8 +243,8 @@
 | 235 | 356 | Joeliecea Cobb |
 | 236 | 355 | James Hurley Jr. |
 | 237 | 355 | Andrew Dang |
-| 238 | 354 | TRCuse |
-| 239 | 354 | Kris Bartlett |
+| 238 | 354 | Kris Bartlett |
+| 239 | 354 | TRCuse |
 | 240 | 351 | Lindsay Ball |
 | 241 | 349 | June Hoffman |
 | 242 | 348 | David Lay |
@@ -312,9 +312,9 @@
 | 304 | 278 | Angela Geist Jusinski |
 | 305 | 278 | Sarah Brown |
 | 306 | 277 | Brittany Marsh |
-| 307 | 276 | Lee Silpe |
-| 308 | 276 | Susan Williams |
-| 309 | 276 | Silly SeaWeed |
+| 307 | 276 | Susan Williams |
+| 308 | 276 | Silly SeaWeed |
+| 309 | 276 | Lee Silpe |
 | 310 | 276 | Cynthia Boudreau |
 | 311 | 275 | Jim Hart |
 | 312 | 274 | Amy Sanford |
@@ -541,9 +541,9 @@
 | 533 | 167 | Dapper Frame |
 | 534 | 167 | Snippy Clearer |
 | 535 | 167 | Brooke Kaune |
-| 536 | 166 | Reds Bella |
-| 537 | 166 | Lynn Marie |
-| 538 | 166 | Tabitha Calvin |
+| 536 | 166 | Tabitha Calvin |
+| 537 | 166 | Reds Bella |
+| 538 | 166 | Lynn Marie |
 | 539 | 166 | Frank Joseph Epson |
 | 540 | 165 | Dapper Caster |
 | 541 | 165 | Zappy Buildgrid |
@@ -569,8 +569,8 @@
 | 561 | 157 | Jazzy Slamdrop |
 | 562 | 157 | LunaMoon |
 | 563 | 156 | Nicole McMurray |
-| 564 | 155 | Shirl |
-| 565 | 155 | Stormy Tomplait |
+| 564 | 155 | Stormy Tomplait |
+| 565 | 155 | Shirl |
 | 566 | 155 | Faja |
 | 567 | 155 | Michael Snow |
 | 568 | 154 | Ashley Danielle |
@@ -702,8 +702,8 @@
 | 694 | 119 | George Tzouganos |
 | 695 | 119 | Calen Torez |
 | 696 | 119 | JoJo |
-| 697 | 119 | River Shady Sr. |
-| 698 | 119 | Beenbreto |
+| 697 | 119 | Beenbreto |
+| 698 | 119 | River Shady Sr. |
 | 699 | 119 | Kourtney Barnes |
 | 700 | 118 | Jennifer Dineen |
 | 701 | 118 | Mcg |
@@ -725,7 +725,7 @@
 | 717 | 114 | Bigmamatetrisqueen |
 | 718 | 114 | Eminem |
 | 719 | 114 | Tiffany Tran |
-| 720 | 113 | Hog Crankin |
+| 720 | 113 | DaRuler |
 | 721 | 113 | Abigail Murphy |
 | 722 | 113 | Hog Crankin |
 | 723 | 112 | BlockBabe |
