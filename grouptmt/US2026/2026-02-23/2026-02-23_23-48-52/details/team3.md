@@ -57,8 +57,8 @@
 | 49 | 1815 | Rachel Bowers |
 | 50 | 1772 | Liv Whetson |
 | 51 | 1754 | Nate Burnside |
-| 52 | 1734 | Aaron Pitkin |
-| 53 | 1734 | Fancy Slam |
+| 52 | 1734 | Fancy Slam |
+| 53 | 1734 | Aaron Pitkin |
 | 54 | 1732 | Jessica Ann |
 | 55 | 1719 | Tina Kay |
 | 56 | 1691 | Cass Mendoza |
@@ -256,8 +256,8 @@
 | 248 | 541 | Sherry Ogden |
 | 249 | 540 | France Vézina |
 | 250 | 540 | Danielle Allison |
-| 251 | 539 | Aerian Preston |
-| 252 | 539 | Betty Bóò |
+| 251 | 539 | Betty Bóò |
+| 252 | 539 | Aerian Preston |
 | 253 | 537 | Tamara Deherrera |
 | 254 | 536 | Shannon Matthew Byers |
 | 255 | 535 | kacihall |
@@ -368,8 +368,8 @@
 | 360 | 382 | Tiffany Davie |
 | 361 | 381 | Christina Spa |
 | 362 | 381 | gremicx |
-| 363 | 379 | Kaitie Oliver |
-| 364 | 379 | Kelly |
+| 363 | 379 | Kelly |
+| 364 | 379 | Kaitie Oliver |
 | 365 | 378 | MsBee |
 | 366 | 377 | Hoppy Patternline |
 | 367 | 377 | Dee Franklin |

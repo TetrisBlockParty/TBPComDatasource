@@ -76,8 +76,8 @@
 | 68 | 978 | Amber Stoker |
 | 69 | 975 | TSwag |
 | 70 | 974 | Veronica Eve |
-| 71 | 966 | Shalene Frederick Autrey |
-| 72 | 966 | Francesca Gee |
+| 71 | 966 | Francesca Gee |
+| 72 | 966 | Shalene Frederick Autrey |
 | 73 | 951 | Zippy Align |
 | 74 | 948 | Jacqueline Williams |
 | 75 | 929 | Erin Hodges Plumb |

@@ -199,8 +199,8 @@
 | 191 | 464 | Sharyn Lemire |
 | 192 | 463 | SAP |
 | 193 | 462 | Leslie Thomas |
-| 194 | 457 | Kristin Manee |
-| 195 | 457 | June Hoffman |
+| 194 | 457 | June Hoffman |
+| 195 | 457 | Kristin Manee |
 | 196 | 455 | Michele Plunkett |
 | 197 | 450 | Amanda Pauldo-Ivy |
 | 198 | 449 | Courtney Cicoria |
@@ -247,8 +247,8 @@
 | 239 | 383 | Lauren Scott |
 | 240 | 383 | blockstar |
 | 241 | 382 | Sue Joyce Staats |
-| 242 | 381 | Plucky Patternblock |
-| 243 | 381 | Shiny Fit |
+| 242 | 381 | Shiny Fit |
+| 243 | 381 | Plucky Patternblock |
 | 244 | 381 | JPW |
 | 245 | 380 | Rio Rocha |
 | 246 | 379 | Backoff Recupe |
@@ -268,8 +268,8 @@
 | 260 | 365 | Hyper Builder |
 | 261 | 363 | KimoKoala |
 | 262 | 361 | Danielle Kollias |
-| 263 | 360 | Ari Droff |
-| 264 | 360 | James Hurley Jr. |
+| 263 | 360 | James Hurley Jr. |
+| 264 | 360 | Ari Droff |
 | 265 | 358 | Twisty Cascadezone |
 | 266 | 356 | Joeliecea Cobb |
 | 267 | 356 | mike |
