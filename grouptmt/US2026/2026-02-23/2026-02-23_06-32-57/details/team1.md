@@ -106,14 +106,14 @@
 | 98 | 510 | Colena Davenport |
 | 99 | 509 | Rachael |
 | 100 | 497 | Arianna O'Brien |
-| 101 | 493 | MomMom |
-| 102 | 493 | Jennifer ManWarren |
+| 101 | 493 | Jennifer ManWarren |
+| 102 | 493 | MomMom |
 | 103 | 492 | Ash Galvan |
 | 104 | 491 | cc |
 | 105 | 489 | April Carroll |
 | 106 | 489 | Deanna L Hermanson |
-| 107 | 483 | Tdub |
-| 108 | 483 | Trina Gee |
+| 107 | 483 | Trina Gee |
+| 108 | 483 | Tdub |
 | 109 | 480 | Ty Brown |
 | 110 | 478 | Stephanie Zahn |
 | 111 | 463 | Lexuriuos Lifestlye |
@@ -183,8 +183,8 @@
 | 175 | 346 | GATOR |
 | 176 | 346 | Erin Rosberg |
 | 177 | 345 | Jerry Danowski |
-| 178 | 343 | Chelsea Dahlquist |
-| 179 | 343 | Elaine Elaine |
+| 178 | 343 | Elaine Elaine |
+| 179 | 343 | Chelsea Dahlquist |
 | 180 | 341 | Nick R Montague |
 | 181 | 339 | Nicole Roseberry Weber |
 | 182 | 338 | Jennifer Hardman |
@@ -192,8 +192,8 @@
 | 184 | 337 | Constance Risner |
 | 185 | 336 | Dizzy Party |
 | 186 | 333 | Gracie |
-| 187 | 332 | Happy Basegrid |
-| 188 | 332 | Lehrin Maria |
+| 187 | 332 | Lehrin Maria |
+| 188 | 332 | Happy Basegrid |
 | 189 | 329 | Witty Builderfit |
 | 190 | 325 | GringaLinga |
 | 191 | 324 | Rat666 |
@@ -225,8 +225,8 @@
 | 217 | 290 | Speedy Liney |
 | 218 | 290 | Hellsin |
 | 219 | 287 | Sassy Builderline |
-| 220 | 285 | Bird Person |
-| 221 | 285 | Shanae Grant |
+| 220 | 285 | Shanae Grant |
+| 221 | 285 | Bird Person |
 | 222 | 284 | Sarah Somers Gray |
 | 223 | 283 | Franswa |
 | 224 | 283 | Amanda Holibaugh |
@@ -332,8 +332,8 @@
 | 324 | 215 | Alenoush Karimian |
 | 325 | 214 | Kayla Marie Stevenson |
 | 326 | 213 | Poppy Riserpiece |
-| 327 | 213 | John Barron |
-| 328 | 213 | Itspaigebro |
+| 327 | 213 | Itspaigebro |
+| 328 | 213 | John Barron |
 | 329 | 212 | Michelle Beres |
 | 330 | 210 | Timothy Danaher |
 | 331 | 209 | Breanna Luna |

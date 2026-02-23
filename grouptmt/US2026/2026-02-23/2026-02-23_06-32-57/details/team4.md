@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Kimyatta Cavin |
-| 84 | 684 | Jonathan Kimbrough |
+| 83 | 684 | Jonathan Kimbrough |
+| 84 | 684 | Kimyatta Cavin |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -159,8 +159,8 @@
 | 151 | 406 | Damn Libra |
 | 152 | 398 | Tyler Terrific |
 | 153 | 397 | Livvy |
-| 154 | 393 | Girl |
-| 155 | 393 | Carlton Unfiltered |
+| 154 | 393 | Carlton Unfiltered |
+| 155 | 393 | Girl |
 | 156 | 391 | Ramel Rhodes |
 | 157 | 389 | Joseph Guthrie |
 | 158 | 387 | Lucas J Sutton |
@@ -316,8 +316,8 @@
 | 308 | 216 | mike |
 | 309 | 216 | Chantilly Laace |
 | 310 | 215 | Stephme310 |
-| 311 | 214 | Stacey Stano |
-| 312 | 214 | Patron Anderson |
+| 311 | 214 | Patron Anderson |
+| 312 | 214 | Stacey Stano |
 | 313 | 213 | Jackie Marie |
 | 314 | 212 | Jason Bosco |
 | 315 | 212 | Brave Spinbuilder |
