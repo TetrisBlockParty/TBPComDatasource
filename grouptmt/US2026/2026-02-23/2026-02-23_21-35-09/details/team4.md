@@ -15,8 +15,8 @@
 | 7 | 3803 | Anthony Magaraci |
 | 8 | 3491 | East Mamba |
 | 9 | 3289 | Breannah Grafe |
-| 10 | 3169 | Tina Martinez |
-| 11 | 3167 | Alyssa Cox |
+| 10 | 3167 | Alyssa Cox |
+| 11 | 3141 | Tina Martinez |
 | 12 | 3061 | Roger Coulter |
 | 13 | 2489 | Denny Shives |
 | 14 | 2397 | Clarence Patawaran |
@@ -90,8 +90,8 @@
 | 82 | 826 | Rica Mitchell |
 | 83 | 802 | Crystal Carroll |
 | 84 | 794 | Chilly Line |
-| 85 | 783 | Guy Incognito |
-| 86 | 783 | Denise Carlson |
+| 85 | 783 | Denise Carlson |
+| 86 | 783 | Guy Incognito |
 | 87 | 775 | Klo |
 | 88 | 768 | Judy Cox |
 | 89 | 767 | Shannon Ferrari |
@@ -173,8 +173,8 @@
 | 165 | 499 | Ernest Maxwell |
 | 166 | 498 | Melissa Adams |
 | 167 | 496 | Cindy Looper |
-| 168 | 491 | Carrie Brian |
-| 169 | 491 | Jade Rian |
+| 168 | 491 | Jade Rian |
+| 169 | 491 | Carrie Brian |
 | 170 | 486 | Swanky Fitline |
 | 171 | 485 | Rico |
 | 172 | 483 | Christina Black |
@@ -384,8 +384,8 @@
 | 376 | 255 | Sallie Sanborn |
 | 377 | 253 | Chair |
 | 378 | 253 | Autum Leigh |
-| 379 | 252 | Gracie Ann Taylor |
-| 380 | 252 | Dan Wold |
+| 379 | 252 | Dan Wold |
+| 380 | 252 | Gracie Ann Taylor |
 | 381 | 252 | Maureen Flanigan |
 | 382 | 251 | Kathy Allen |
 | 383 | 251 | Carol Ricks Raymond |
@@ -517,8 +517,8 @@
 | 509 | 190 | Robert Rangel |
 | 510 | 189 | Brandon Link |
 | 511 | 188 | Tanner Lund |
-| 512 | 188 | Frilly Blocky |
-| 513 | 188 | Daring Pivot |
+| 512 | 188 | Daring Pivot |
+| 513 | 188 | Frilly Blocky |
 | 514 | 187 | Jason Punch |
 | 515 | 186 | @ |
 | 516 | 186 | Jesse Saville |
@@ -546,11 +546,11 @@
 | 538 | 178 | Sunny Filler |
 | 539 | 178 | Nerdy Linebuilder |
 | 540 | 178 | Laurel Coppess |
-| 541 | 177 | Snippy Clearer |
-| 542 | 177 | Stephanie Mico |
-| 543 | 176 | Walid Elsabee |
-| 544 | 176 | Red |
-| 545 | 176 | Jlmendillo |
+| 541 | 177 | Stephanie Mico |
+| 542 | 177 | Snippy Clearer |
+| 543 | 176 | Red |
+| 544 | 176 | Jlmendillo |
+| 545 | 176 | Walid Elsabee |
 | 546 | 175 | Veronica Garza |
 | 547 | 173 | Chariss Newsom |
 | 548 | 173 | Christine Simmons |
@@ -568,8 +568,8 @@
 | 560 | 170 | Joshua W. Benton |
 | 561 | 170 | Peppy Drop |
 | 562 | 170 | Elie Pean |
-| 563 | 169 | Joseph Pace |
-| 564 | 169 | Dante Korleon |
+| 563 | 169 | Dante Korleon |
+| 564 | 169 | Joseph Pace |
 | 565 | 168 | LunaMoon |
 | 566 | 168 | Melissa VanBourgondien |
 | 567 | 167 | Carla Harris |
@@ -582,22 +582,22 @@
 | 574 | 166 | Marcela Johnson |
 | 575 | 165 | Zappy Buildgrid |
 | 576 | 165 | Dapper Caster |
-| 577 | 164 | Bussy Bay |
-| 578 | 164 | Marvetta Williams |
+| 577 | 164 | Marvetta Williams |
+| 578 | 164 | Bussy Bay |
 | 579 | 164 | Smiley Shifter |
-| 580 | 163 | Michael Orris |
-| 581 | 163 | Ashlee Carnes |
-| 582 | 162 | Empress Oasis |
-| 583 | 162 | conceptCollector |
+| 580 | 163 | Ashlee Carnes |
+| 581 | 163 | Michael Orris |
+| 582 | 162 | conceptCollector |
+| 583 | 162 | Empress Oasis |
 | 584 | 162 | Ben Nome |
 | 585 | 161 | Christina Hyde |
-| 586 | 160 | icequeenx |
-| 587 | 160 | Josh Chapell |
+| 586 | 160 | Josie Peña |
+| 587 | 160 | Lisa Allen Frisk |
 | 588 | 160 | Heather Layne Smith |
-| 589 | 160 | Josie Peña |
-| 590 | 160 | Lisa Allen Frisk |
-| 591 | 159 | Hoppy Clearer |
-| 592 | 159 | Peppy Strike |
+| 589 | 160 | Josh Chapell |
+| 590 | 160 | icequeenx |
+| 591 | 159 | Peppy Strike |
+| 592 | 159 | Hoppy Clearer |
 | 593 | 158 | Kristin MacDonald |
 | 594 | 158 | Jasmine S Caldwell |
 | 595 | 157 | Jazzy Slamdrop |

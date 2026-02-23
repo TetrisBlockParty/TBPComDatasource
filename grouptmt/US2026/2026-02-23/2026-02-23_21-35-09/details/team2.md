@@ -49,7 +49,7 @@
 | 41 | 4782 | Jai Jackson |
 | 42 | 4718 | Jill Stroehlein |
 | 43 | 4454 | Maegan Beaule |
-| 44 | 4411 | YiFei |
+| 44 | 4401 | YiFei |
 | 45 | 4226 | Andea Beck |
 | 46 | 4121 | Nickie Baby |
 | 47 | 4120 | Kristen Sceurman |
@@ -391,8 +391,8 @@
 | 383 | 983 | Crystie Hicks |
 | 384 | 978 | Barry Britt |
 | 385 | 976 | Sam Joe |
-| 386 | 975 | Mandi Douglas Hilt |
-| 387 | 975 | Hyper Cluster |
+| 386 | 975 | Hyper Cluster |
+| 387 | 975 | Mandi Douglas Hilt |
 | 388 | 974 | Boldy Cascadepiece |
 | 389 | 974 | Jeremy Parodi |
 | 390 | 971 | Jojo Momma |
@@ -407,9 +407,9 @@
 | 399 | 958 | Doowop40 |
 | 400 | 957 | Block Master |
 | 401 | 957 | Jennie Lee Huntley |
-| 402 | 950 | ToShi |
+| 402 | 950 | Desire Rice |
 | 403 | 950 | Jenn Marie |
-| 404 | 950 | Desire Rice |
+| 404 | 950 | ToShi |
 | 405 | 946 | Kenny Alvarado |
 | 406 | 945 | Lupita Flores |
 | 407 | 942 | Laura Morrison |
@@ -703,8 +703,8 @@
 | 695 | 623 | Victor Obiakarije |
 | 696 | 622 | Ben Barkley |
 | 697 | 621 | Moua Ying |
-| 698 | 621 | Taren Cowan |
-| 699 | 621 | Lewis Sturgeon |
+| 698 | 621 | Lewis Sturgeon |
+| 699 | 621 | Taren Cowan |
 | 700 | 620 | Macy Jarrett |
 | 701 | 618 | Marella Petilo |
 | 702 | 617 | Jason H Baker |
@@ -1537,7 +1537,7 @@
 | 1529 | 335 | Zippy Tumbler |
 | 1530 | 335 | Greenshades00 |
 | 1531 | 334 | Sammy Bear |
-| 1532 | 334 | Brooklynn Huckaby |
+| 1532 | 334 | April Atkins |
 | 1533 | 334 | Katie Joy McCombs |
 | 1534 | 334 | Brooklynn Huckaby |
 | 1535 | 334 | Jaxson |
