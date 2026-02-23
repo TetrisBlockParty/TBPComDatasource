@@ -280,8 +280,8 @@
 | 272 | 412 | Jojo M |
 | 273 | 411 | Megan Rathmanner |
 | 274 | 410 | Duane Bright |
-| 275 | 408 | Marquita Sheard |
-| 276 | 408 | Tiffany Ford |
+| 275 | 408 | Tiffany Ford |
+| 276 | 408 | Marquita Sheard |
 | 277 | 406 | Kristal C Lee |
 | 278 | 405 | Steffi Chris Dacones |
 | 279 | 404 | Chasity |
@@ -311,8 +311,8 @@
 | 303 | 370 | Samantha Lynn |
 | 304 | 369 | Amber Glover |
 | 305 | 369 | Jennifer Alvey |
-| 306 | 368 | Sheila M Frazier |
-| 307 | 368 | Stephanie Woods |
+| 306 | 368 | Stephanie Woods |
+| 307 | 368 | Sheila M Frazier |
 | 308 | 365 | LaShey Thompson |
 | 309 | 362 | Foltz Lee Kelli |
 | 310 | 362 | Brandon Givens |
@@ -334,8 +334,8 @@
 | 326 | 348 | Ashley Raines |
 | 327 | 346 | Chummy Rumbler |
 | 328 | 345 | gremicx |
-| 329 | 344 | Beaudie Stroebel |
-| 330 | 344 | Ashley Lynn Marchese |
+| 329 | 344 | Ashley Lynn Marchese |
+| 330 | 344 | Beaudie Stroebel |
 | 331 | 344 | Isabel Ocasio |
 | 332 | 343 | Ashley Rufus Bythcez |
 | 333 | 342 | ROODBOY |

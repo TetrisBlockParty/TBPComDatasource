@@ -423,8 +423,8 @@
 | 415 | 829 | ToShi |
 | 416 | 828 | Kimmy Newman |
 | 417 | 825 | Jeremy Parodi |
-| 418 | 824 | Khalil Lowe |
-| 419 | 824 | Danielle Johnson-Chandler |
+| 418 | 824 | Danielle Johnson-Chandler |
+| 419 | 824 | Khalil Lowe |
 | 420 | 822 | Lola Contreras |
 | 421 | 819 | Victoria Regina Girolami |
 | 422 | 819 | Sabrena Yeisley |
@@ -574,8 +574,8 @@
 | 566 | 653 | Brittney Jean |
 | 567 | 651 | Belle |
 | 568 | 651 | Unica Rector |
-| 569 | 647 | Jackie Avila |
-| 570 | 647 | CC |
+| 569 | 647 | CC |
+| 570 | 647 | Jackie Avila |
 | 571 | 643 | Michelle Pike |
 | 572 | 642 | Samantha Scibelli |
 | 573 | 642 | snkylnk |
@@ -620,8 +620,8 @@
 | 612 | 608 | Frilly Fallzone |
 | 613 | 608 | Tash Bell |
 | 614 | 607 | Slip |
-| 615 | 606 | Mike Aprilliano |
-| 616 | 606 | Lea Stewart |
+| 615 | 606 | Lea Stewart |
+| 616 | 606 | Mike Aprilliano |
 | 617 | 605 | Mandi Marie Smith |
 | 618 | 605 | Jermaine Harris |
 | 619 | 604 | Rae Rae |
@@ -890,8 +890,8 @@
 | 882 | 455 | Darlene Bowman |
 | 883 | 453 | Epic Stackzone |
 | 884 | 452 | Mike73 |
-| 885 | 452 | Ashley Taylor |
-| 886 | 452 | Cranky Tower |
+| 885 | 452 | Cranky Tower |
+| 886 | 452 | Ashley Taylor |
 | 887 | 452 | Rain |
 | 888 | 452 | Tipsy Filler |
 | 889 | 451 | Stefanie Zonzini-Gagliardi |
@@ -905,8 +905,8 @@
 | 897 | 448 | Leah LaShomb |
 | 898 | 446 | Courtney Burcham |
 | 899 | 446 | Colin Morgan |
-| 900 | 445 | Mar Q Thomas |
-| 901 | 445 | Beatboxxer |
+| 900 | 445 | Beatboxxer |
+| 901 | 445 | Mar Q Thomas |
 | 902 | 444 | Taylor Flowers |
 | 903 | 444 | Lynda Toland |
 | 904 | 444 | Shanae Dillahunty |

@@ -200,8 +200,8 @@
 | 192 | 376 | Zesty Twistbuilder |
 | 193 | 372 | George Nutt |
 | 194 | 372 | Antony Dwayne Beasley |
-| 195 | 368 | Holly Jolly |
-| 196 | 368 | Silly Zonebuilder |
+| 195 | 368 | Silly Zonebuilder |
+| 196 | 368 | Holly Jolly |
 | 197 | 365 | Jeff Brian Gates |
 | 198 | 363 | Cindy Looper |
 | 199 | 361 | Danielle Kollias |
@@ -387,9 +387,9 @@
 | 379 | 212 | Mike Solo |
 | 380 | 211 | Neirrah B Olailjeel |
 | 381 | 210 | Vanessa Smart |
-| 382 | 209 | Sarah Hoffman |
+| 382 | 209 | Marcus Todd |
 | 383 | 209 | Snippy Puzzle |
-| 384 | 209 | Marcus Todd |
+| 384 | 209 | Sarah Hoffman |
 | 385 | 209 | Matthew Pate |
 | 386 | 208 | Shukee Lo |
 | 387 | 208 | Wacky Blockclear |
