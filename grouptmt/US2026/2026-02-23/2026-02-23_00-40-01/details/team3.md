@@ -270,8 +270,8 @@
 | 262 | 339 | Danielle Weikel |
 | 263 | 338 | Gumbo |
 | 264 | 332 | Velma Mull |
-| 265 | 330 | victory |
-| 266 | 330 | Brittany |
+| 265 | 330 | Brittany |
+| 266 | 330 | victory |
 | 267 | 329 | Tye Stovall |
 | 268 | 329 | block chick |
 | 269 | 327 | Gideon Walker |

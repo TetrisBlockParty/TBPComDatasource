@@ -58,8 +58,8 @@
 | 50 | 843 | Shelly Chandler |
 | 51 | 834 | quicksand420 |
 | 52 | 813 | BertMofo |
-| 53 | 797 | Dawn Alexander |
-| 54 | 797 | Rebecca Moulton Pinciaro |
+| 53 | 797 | Rebecca Moulton Pinciaro |
+| 54 | 797 | Dawn Alexander |
 | 55 | 783 | Isabella Blanco |
 | 56 | 781 | Chilly Line |
 | 57 | 768 | Ashley Ingram |

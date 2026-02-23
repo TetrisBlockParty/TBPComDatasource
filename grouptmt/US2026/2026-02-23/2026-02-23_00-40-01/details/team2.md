@@ -40,8 +40,8 @@
 | 32 | 4174 | Vistabrat |
 | 33 | 4130 | Robert Diddle |
 | 34 | 4128 | Angela Pruitt |
-| 35 | 4120 | Corrine Hawks Soriano |
-| 36 | 4120 | Kristen Sceurman |
+| 35 | 4120 | Kristen Sceurman |
+| 36 | 4120 | Corrine Hawks Soriano |
 | 37 | 3895 | Nickie Baby |
 | 38 | 3793 | Jill Stroehlein |
 | 39 | 3759 | Brittany Alicia |
@@ -236,8 +236,8 @@
 | 228 | 1078 | Moose Griffith |
 | 229 | 1073 | Angel |
 | 230 | 1071 | Kim Dean |
-| 231 | 1067 | Jodi Blake |
-| 232 | 1067 | Eric Carlson |
+| 231 | 1067 | Eric Carlson |
+| 232 | 1067 | Jodi Blake |
 | 233 | 1066 | Julay |
 | 234 | 1064 | BK Queen |
 | 235 | 1058 | Jennifer Kistner |
@@ -253,8 +253,8 @@
 | 245 | 1022 | Shannon Joslin |
 | 246 | 1012 | Dany Murillo |
 | 247 | 1011 | Teresa Gillmore |
-| 248 | 1007 | Robin Kerby |
-| 249 | 1007 | Dee |
+| 248 | 1007 | Dee |
+| 249 | 1007 | Robin Kerby |
 | 250 | 1003 | Andrea Maher |
 | 251 | 1002 | Sheniya Spurgeon |
 | 252 | 1002 | Foxxo |
@@ -527,8 +527,8 @@
 | 519 | 551 | Cynthia Louann Rose |
 | 520 | 550 | Rich Sullivan |
 | 521 | 550 | Frilly Fallzone |
-| 522 | 549 | Kaylee McCafferty |
-| 523 | 549 | Melissa Kay Gibson |
+| 522 | 549 | Melissa Kay Gibson |
+| 523 | 549 | Kaylee McCafferty |
 | 524 | 546 | Hannah Erskine |
 | 525 | 545 | Venita Ray |
 | 526 | 545 | Brenna Ann |
@@ -646,8 +646,8 @@
 | 638 | 470 | Samuel Macon |
 | 639 | 469 | Christy Long |
 | 640 | 466 | Alyssa Nadine Medelez |
-| 641 | 466 | Ebony Deloach Bryant |
-| 642 | 466 | Crystal Greene |
+| 641 | 466 | Crystal Greene |
+| 642 | 466 | Ebony Deloach Bryant |
 | 643 | 465 | Tara Lynn Janes |
 | 644 | 465 | Gina Bahn |
 | 645 | 463 | Jaye EL Hunter |
@@ -983,8 +983,8 @@
 | 975 | 317 | R |
 | 976 | 316 | LeVeL27 |
 | 977 | 316 | Megan Phillips |
-| 978 | 316 | Epic Spinfit |
-| 979 | 316 | Cozy Drop |
+| 978 | 316 | Cozy Drop |
+| 979 | 316 | Epic Spinfit |
 | 980 | 315 | Cassi Owens |
 | 981 | 315 | Himothy |
 | 982 | 315 | Neaomi Favro |
