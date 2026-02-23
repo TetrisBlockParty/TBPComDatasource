@@ -204,10 +204,10 @@
 | 196 | 368 | Holly Jolly |
 | 197 | 365 | Jeff Brian Gates |
 | 198 | 363 | Cindy Looper |
-| 199 | 361 | Rafael Valentin |
-| 200 | 361 | Danielle Kollias |
-| 201 | 358 | A5! |
-| 202 | 358 | Twisty Cascadezone |
+| 199 | 361 | Danielle Kollias |
+| 200 | 361 | Rafael Valentin |
+| 201 | 358 | Twisty Cascadezone |
+| 202 | 358 | A5! |
 | 203 | 355 | James Hurley Jr. |
 | 204 | 354 | TRCuse |
 | 205 | 354 | Kris Bartlett |
@@ -247,8 +247,8 @@
 | 239 | 310 | Stacey Stano |
 | 240 | 308 | Leah Kutz Zirbel |
 | 241 | 307 | Cheery Risebuilder |
-| 242 | 307 | Angie Schmidt |
-| 243 | 307 | Michele Plunkett |
+| 242 | 307 | Michele Plunkett |
+| 243 | 307 | Angie Schmidt |
 | 244 | 306 | mike |
 | 245 | 305 | Melvin Baird |
 | 246 | 304 | Shiny Fit |

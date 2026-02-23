@@ -242,8 +242,8 @@
 | 234 | 1255 | Brandon Armstrong |
 | 235 | 1253 | Roman Lavochnik |
 | 236 | 1252 | Angel |
-| 237 | 1245 | Cody Nishimura |
-| 238 | 1245 | Missie Lawson Gebhardt |
+| 237 | 1245 | Missie Lawson Gebhardt |
+| 238 | 1245 | Cody Nishimura |
 | 239 | 1243 | Eric Carlson |
 | 240 | 1241 | Jennifer Casey-Kay |
 | 241 | 1238 | Groovy Puzzle |

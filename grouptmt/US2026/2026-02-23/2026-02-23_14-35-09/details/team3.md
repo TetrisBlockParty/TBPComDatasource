@@ -298,8 +298,8 @@
 | 290 | 382 | Desiree Gold |
 | 291 | 382 | Salena Whitlock |
 | 292 | 380 | Rebecca Bailey |
-| 293 | 379 | Philip Rock |
-| 294 | 379 | JessDrown |
+| 293 | 379 | JessDrown |
+| 294 | 379 | Philip Rock |
 | 295 | 378 | Chris Bell |
 | 296 | 378 | MsBee |
 | 297 | 376 | Sarah Moyer |
@@ -318,10 +318,10 @@
 | 310 | 362 | Foltz Lee Kelli |
 | 311 | 361 | Breanna Marsden |
 | 312 | 360 | Dee Pratt |
-| 313 | 359 | Steven Fulater |
-| 314 | 359 | Kelly |
-| 315 | 358 | Heather Davis |
-| 316 | 358 | Roary Danner |
+| 313 | 359 | Kelly |
+| 314 | 359 | Steven Fulater |
+| 315 | 358 | Roary Danner |
+| 316 | 358 | Heather Davis |
 | 317 | 358 | KayB |
 | 318 | 354 | Andrew Thorson |
 | 319 | 353 | Dee Franklin |
@@ -342,8 +342,8 @@
 | 334 | 342 | ROODBOY |
 | 335 | 341 | Rick Poppen |
 | 336 | 341 | Lys |
-| 337 | 340 | Nikki Pags |
-| 338 | 340 | Erika Thornton |
+| 337 | 340 | Erika Thornton |
+| 338 | 340 | Nikki Pags |
 | 339 | 338 | fraulila |
 | 340 | 335 | victory |
 | 341 | 333 | Nikki White |
@@ -366,8 +366,8 @@
 | 358 | 322 | Beth Smith |
 | 359 | 321 | Wettnippz |
 | 360 | 320 | Or Reznitsky |
-| 361 | 320 | Taylor Hood |
-| 362 | 320 | Ashley Muncey |
+| 361 | 320 | Ashley Muncey |
+| 362 | 320 | Taylor Hood |
 | 363 | 318 | Christy Quick |
 | 364 | 316 | Travis W |
 | 365 | 313 | Jul |
@@ -377,8 +377,8 @@
 | 369 | 312 | Eric Caccavale |
 | 370 | 311 | Troy |
 | 371 | 311 | Noettín Kan Zasnemoore |
-| 372 | 309 | Block Baddie |
-| 373 | 309 | Cheeky Snapper |
+| 372 | 309 | Cheeky Snapper |
+| 373 | 309 | Block Baddie |
 | 374 | 308 | Katrina Turner |
 | 375 | 308 | Tia |
 | 376 | 307 | Kristian Thurman |
@@ -464,8 +464,8 @@
 | 456 | 259 | Shania Vaine |
 | 457 | 258 | Dana Fox |
 | 458 | 258 | IamJust Neyamijah Washington Sr. |
-| 459 | 257 | Chris Wallace |
-| 460 | 257 | Funky Brickster |
+| 459 | 257 | Funky Brickster |
+| 460 | 257 | Chris Wallace |
 | 461 | 257 | Saucy Buildout |
 | 462 | 257 | Jana Polk |
 | 463 | 256 | Christina Rotz Shows |

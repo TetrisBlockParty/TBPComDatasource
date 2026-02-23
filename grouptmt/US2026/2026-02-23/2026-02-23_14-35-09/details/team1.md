@@ -46,8 +46,8 @@
 | 38 | 1128 | june october |
 | 39 | 1126 | Tater |
 | 40 | 1122 | Amanda Summey Schoemer |
-| 41 | 1114 | Marianne Louise West |
-| 42 | 1114 | Jayme Sellers |
+| 41 | 1114 | Jayme Sellers |
+| 42 | 1114 | Marianne Louise West |
 | 43 | 1112 | Chipper Gridlock |
 | 44 | 1100 | Derek MF Blakey |
 | 45 | 1069 | Patrick Luckenbill |
@@ -132,8 +132,8 @@
 | 124 | 477 | Tonya Beasley |
 | 125 | 475 | Sarah Somers Gray |
 | 126 | 471 | Hyper |
-| 127 | 467 | Candy Jones |
-| 128 | 467 | Constance Risner |
+| 127 | 467 | Constance Risner |
+| 128 | 467 | Candy Jones |
 | 129 | 466 | Adrian Esteban |
 | 130 | 463 | Lexuriuos Lifestlye |
 | 131 | 462 | Luciano Moreira |
@@ -239,10 +239,10 @@
 | 231 | 327 | Jen Nystrom |
 | 232 | 325 | GringaLinga |
 | 233 | 324 | Rat666 |
-| 234 | 323 | Eric DeSimone |
-| 235 | 323 | Madison Wicks |
-| 236 | 322 | Angela Renea Lester |
-| 237 | 322 | Letson Melissa |
+| 234 | 323 | Madison Wicks |
+| 235 | 323 | Eric DeSimone |
+| 236 | 322 | Letson Melissa |
+| 237 | 322 | Angela Renea Lester |
 | 238 | 319 | Frothy Pattern |
 | 239 | 317 | Sarah Roberts |
 | 240 | 316 | Sassy Builderline |
@@ -262,19 +262,19 @@
 | 254 | 301 | John Kim |
 | 255 | 301 | Brave Wrecker |
 | 256 | 298 | Sweetts |
-| 257 | 298 | Kimberly Davis |
-| 258 | 298 | Billie Ann Eason |
+| 257 | 298 | Billie Ann Eason |
+| 258 | 298 | Kimberly Davis |
 | 259 | 297 | Diane Byrd |
-| 260 | 290 | Hellsin |
-| 261 | 290 | Tavia |
+| 260 | 290 | Tavia |
+| 261 | 290 | Hellsin |
 | 262 | 289 | Alenoush Karimian |
 | 263 | 288 | Bird Person |
 | 264 | 287 | Sir-Franchise Drake |
 | 265 | 286 | Sarahdactyl |
 | 266 | 285 | Shanae Grant |
 | 267 | 284 | Sam Williams |
-| 268 | 283 | Franswa |
-| 269 | 283 | Larry Tilton |
+| 268 | 283 | Larry Tilton |
+| 269 | 283 | Franswa |
 | 270 | 282 | Timothy Dew |
 | 271 | 281 | Clever Cascadepiece |
 | 272 | 280 | Billie Dawn Sparks |
