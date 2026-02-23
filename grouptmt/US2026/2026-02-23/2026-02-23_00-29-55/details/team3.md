@@ -226,8 +226,8 @@
 | 218 | 390 | rosy |
 | 219 | 384 | Marci Mize Fandrich |
 | 220 | 384 | Trisha Balmer |
-| 221 | 383 | Darlene McMillan |
-| 222 | 383 | Nicole Flippo |
+| 221 | 383 | Nicole Flippo |
+| 222 | 383 | Darlene McMillan |
 | 223 | 383 | Heather Green |
 | 224 | 382 | Giddy Twistbuilder |
 | 225 | 382 | Scott Carleton |

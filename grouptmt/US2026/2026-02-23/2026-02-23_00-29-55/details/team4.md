@@ -116,8 +116,8 @@
 | 108 | 488 | Jen Allison |
 | 109 | 487 | shar |
 | 110 | 483 | Chilly Crasher |
-| 111 | 481 | Jessica Lynn Cutlip |
-| 112 | 481 | Serena Goodridge |
+| 111 | 481 | Serena Goodridge |
+| 112 | 481 | Jessica Lynn Cutlip |
 | 113 | 476 | Matt Summer |
 | 114 | 474 | Jenna Ingersoll |
 | 115 | 470 | Lori Walker |
@@ -126,8 +126,8 @@
 | 118 | 458 | Twisty Clicky |
 | 119 | 448 | Kristin Manee |
 | 120 | 435 | Leslie Thomas |
-| 121 | 431 | Jolly Dashfit |
-| 122 | 431 | Courtney Cicoria |
+| 121 | 431 | Courtney Cicoria |
+| 122 | 431 | Jolly Dashfit |
 | 123 | 429 | Ren Mc |
 | 124 | 427 | KJ Pool |
 | 125 | 418 | Monica Daley |
@@ -234,8 +234,8 @@
 | 226 | 252 | Mr. Party |
 | 227 | 251 | Carol Ricks Raymond |
 | 228 | 249 | Ak Jones |
-| 229 | 248 | Jose Dejesus |
-| 230 | 248 | Chirpy Basepiece |
+| 229 | 248 | Chirpy Basepiece |
+| 230 | 248 | Jose Dejesus |
 | 231 | 246 | Zethra Prenisha Rahming |
 | 232 | 245 | Autum Leigh |
 | 233 | 245 | 23 |
@@ -441,7 +441,7 @@
 | 433 | 141 | Jumpy Zonepiece |
 | 434 | 140 | Hyper Builder |
 | 435 | 140 | Thomas Hettenhaus |
-| 436 | 140 | Hyper Builder |
+| 436 | 140 | Moonsterix |
 | 437 | 140 | Rico |
 | 438 | 139 | Bradley Reeves |
 | 439 | 139 | Ann G. Carrillo |
@@ -671,7 +671,7 @@
 | 663 | 85 | Cool Clusterfit |
 | 664 | 85 | Ashley Danielle |
 | 665 | 85 | Jennifer Renee |
-| 666 | 85 | Tim Knight-ten |
+| 666 | 85 | Dylan Schultz |
 | 667 | 85 | Savannah Roughton Jones |
 | 668 | 85 | Joseph Gray |
 | 669 | 85 | Sunny Holder |
