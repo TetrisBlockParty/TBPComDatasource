@@ -93,8 +93,8 @@
 | 85 | 2515 | Crystalin Heath Lewis |
 | 86 | 2500 | Rosemadder |
 | 87 | 2438 | Rob Surace |
-| 88 | 2428 | Deanna Morton |
-| 89 | 2428 | Thomas Hughes |
+| 88 | 2428 | Thomas Hughes |
+| 89 | 2428 | Deanna Morton |
 | 90 | 2410 | RdRydnHd |
 | 91 | 2400 | Rich Sullivan |
 | 92 | 2375 | Megan Peckham |
@@ -151,8 +151,8 @@
 | 143 | 1639 | Jessie McDougald |
 | 144 | 1634 | Speedy Spinblock |
 | 145 | 1629 | Mari Ac |
-| 146 | 1623 | Rebecca Doughman |
-| 147 | 1623 | Janel Turley-Garner |
+| 146 | 1623 | Janel Turley-Garner |
+| 147 | 1623 | Rebecca Doughman |
 | 148 | 1605 | Christi Hulet |
 | 149 | 1602 | blackq |
 | 150 | 1601 | Ray Ray Prado |
@@ -750,11 +750,11 @@
 | 742 | 462 | Kia Humphery |
 | 743 | 462 | Samantha Scibelli |
 | 744 | 461 | Julie Hamilton |
-| 745 | 461 | Kristen O'Neal |
-| 746 | 461 | Amanda West |
+| 745 | 461 | Amanda West |
+| 746 | 461 | Kristen O'Neal |
 | 747 | 460 | LaWanda Powell |
-| 748 | 459 | Shyenn Gadsby |
-| 749 | 459 | Pocho Zavala |
+| 748 | 459 | Pocho Zavala |
+| 749 | 459 | Shyenn Gadsby |
 | 750 | 457 | Kelly Meredeith |
 | 751 | 456 | Sabrina Burton |
 | 752 | 456 | ItsJennifer Neriss |
@@ -783,8 +783,8 @@
 | 775 | 446 | Nat |
 | 776 | 445 | Mar Q Thomas |
 | 777 | 444 | Angela Murgia-Owen |
-| 778 | 443 | Giggy Grabber |
-| 779 | 443 | Dimitra Zazara |
+| 778 | 443 | Dimitra Zazara |
+| 779 | 443 | Giggy Grabber |
 | 780 | 442 | Juan Castillo |
 | 781 | 442 | Rain |
 | 782 | 441 | Angelina Marie |

@@ -164,8 +164,8 @@
 | 156 | 367 | Sharon Reynolds |
 | 157 | 366 | J.F. Fields |
 | 158 | 365 | Carrie Smith |
-| 159 | 364 | Serina Marie |
-| 160 | 364 | Shauna Loe |
+| 159 | 364 | Shauna Loe |
+| 160 | 364 | Serina Marie |
 | 161 | 360 | Wisa |
 | 162 | 357 | David Lutcher |
 | 163 | 355 | Amanda Jarnagin |
@@ -178,8 +178,8 @@
 | 170 | 343 | Elaine Elaine |
 | 171 | 343 | Erin Rosberg |
 | 172 | 343 | Chelsea Dahlquist |
-| 173 | 341 | Nick R Montague |
-| 174 | 341 | Shiny Snapfit |
+| 173 | 341 | Shiny Snapfit |
+| 174 | 341 | Nick R Montague |
 | 175 | 339 | Nicole Roseberry Weber |
 | 176 | 338 | Jennifer Hardman |
 | 177 | 337 | Constance Risner |
