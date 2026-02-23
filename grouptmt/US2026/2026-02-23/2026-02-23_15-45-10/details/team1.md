@@ -291,8 +291,8 @@
 | 283 | 280 | Наталья Солоид |
 | 284 | 280 | Billie Dawn Sparks |
 | 285 | 279 | Chris Dawson |
-| 286 | 277 | Agustin Duarte Orozco |
-| 287 | 277 | Nutty Spinblock |
+| 286 | 277 | Nutty Spinblock |
+| 287 | 277 | Agustin Duarte Orozco |
 | 288 | 276 | Mrs.Patrica |
 | 289 | 275 | Chris65 |
 | 290 | 275 | Cheeky Pop |
@@ -301,8 +301,8 @@
 | 293 | 274 | Eddie Dillon |
 | 294 | 274 | Allena Craft |
 | 295 | 273 | Test |
-| 296 | 272 | Barrbaric |
-| 297 | 272 | Michelle Beres |
+| 296 | 272 | Michelle Beres |
+| 297 | 272 | Barrbaric |
 | 298 | 271 | Robert |
 | 299 | 270 | Brenda Alexander |
 | 300 | 270 | Debbie Kane |

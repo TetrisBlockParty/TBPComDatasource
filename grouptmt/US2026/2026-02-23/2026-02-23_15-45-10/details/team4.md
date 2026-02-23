@@ -108,8 +108,8 @@
 | 100 | 664 | Nugget |
 | 101 | 659 | Jamie Gustafson |
 | 102 | 650 | KJ Pool |
-| 103 | 647 | Shauna Havard |
-| 104 | 647 | KM8 |
+| 103 | 647 | KM8 |
+| 104 | 647 | Shauna Havard |
 | 105 | 639 | Chris Hartig |
 | 106 | 637 | Lori Walker |
 | 107 | 635 | Adawna Swires |
@@ -218,8 +218,8 @@
 | 210 | 354 | Kris Bartlett |
 | 211 | 352 | April Rondinone |
 | 212 | 348 | David Lay |
-| 213 | 347 | Bio Nelly |
-| 214 | 347 | Daria Rycewicz |
+| 213 | 347 | Daria Rycewicz |
+| 214 | 347 | Bio Nelly |
 | 215 | 346 | shark tato |
 | 216 | 343 | HastyGrabber |
 | 217 | 341 | scott |
@@ -439,8 +439,8 @@
 | 431 | 194 | SammieJo Guy |
 | 432 | 193 | Jennifer Brown |
 | 433 | 192 | Twisty Risebuilder |
-| 434 | 191 | Earnest Thompson |
-| 435 | 191 | Riverdale |
+| 434 | 191 | Riverdale |
+| 435 | 191 | Earnest Thompson |
 | 436 | 191 | Norman Klick |
 | 437 | 190 | Jeff Roberts |
 | 438 | 190 | wombat |
