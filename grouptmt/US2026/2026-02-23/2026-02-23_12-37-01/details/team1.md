@@ -174,8 +174,8 @@
 | 166 | 386 | Brian Spotts |
 | 167 | 385 | Amanda Jarnagin |
 | 168 | 385 | John J. Cronin |
-| 169 | 383 | Margo Wagner |
-| 170 | 383 | pjbeta |
+| 169 | 383 | pjbeta |
+| 170 | 383 | Margo Wagner |
 | 171 | 380 | phrmblk24 |
 | 172 | 379 | Austin James |
 | 173 | 376 | Brian Richardsson |

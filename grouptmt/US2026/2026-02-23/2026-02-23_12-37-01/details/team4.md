@@ -399,8 +399,8 @@
 | 391 | 190 | wombat |
 | 392 | 189 | Duck |
 | 393 | 189 | Cool Towerbuilder |
-| 394 | 188 | Sharyn Lemire |
-| 395 | 188 | Frilly Blocky |
+| 394 | 188 | Frilly Blocky |
+| 395 | 188 | Sharyn Lemire |
 | 396 | 187 | Jenny Wells-Oakley |
 | 397 | 186 | Dandy Cascadefit |
 | 398 | 185 | Eric Wren |

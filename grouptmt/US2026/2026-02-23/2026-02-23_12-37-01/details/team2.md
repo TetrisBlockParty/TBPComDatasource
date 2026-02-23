@@ -381,8 +381,8 @@
 | 373 | 883 | Hong Tang |
 | 374 | 878 | Sinistah42o |
 | 375 | 872 | Brenda Utphall |
-| 376 | 869 | BYM4L |
-| 377 | 869 | Venita Ray |
+| 376 | 869 | Venita Ray |
+| 377 | 869 | BYM4L |
 | 378 | 862 | Sarah Massey |
 | 379 | 858 | Lauren Fitzgerald Thomas |
 | 380 | 856 | Mighty Shatterfit |
