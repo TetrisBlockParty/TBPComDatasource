@@ -316,8 +316,8 @@
 | 308 | 1014 | Michele Morgan |
 | 309 | 1011 | Teresa Gillmore |
 | 310 | 1003 | Andrea Maher |
-| 311 | 998 | Shelley Thornburgh Wright |
-| 312 | 998 | Keri Womack |
+| 311 | 998 | Keri Womack |
+| 312 | 998 | Shelley Thornburgh Wright |
 | 313 | 996 | Ashie Ann |
 | 314 | 994 | Spunkysmom |
 | 315 | 987 | Osun Anuket Esu |
@@ -337,8 +337,8 @@
 | 329 | 969 | Em Chen |
 | 330 | 967 | Ronnie Nelson |
 | 331 | 959 | Phil J. Grombliniak |
-| 332 | 958 | Brenda Messer |
-| 333 | 958 | Doowop40 |
+| 332 | 958 | Doowop40 |
+| 333 | 958 | Brenda Messer |
 | 334 | 957 | Block Master |
 | 335 | 957 | Matthew Joseph Acevedo |
 | 336 | 955 | Angela Bonquiqui Dinish |

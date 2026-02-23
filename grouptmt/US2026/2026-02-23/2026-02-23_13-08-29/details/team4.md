@@ -448,7 +448,7 @@
 | 440 | 174 | Brittany Little |
 | 441 | 173 | Tanner Lund |
 | 442 | 173 | Veronica Garza |
-| 443 | 172 | Christine Simmons |
+| 443 | 172 | Janis Brown |
 | 444 | 172 | Undeniable Williams |
 | 445 | 172 | Christine Simmons |
 | 446 | 171 | Stacy |
@@ -460,8 +460,8 @@
 | 452 | 170 | Vamp |
 | 453 | 170 | Joshua W. Benton |
 | 454 | 169 | Jessica Atkinson |
-| 455 | 169 | Joseph Pace |
-| 456 | 169 | Dante Korleon |
+| 455 | 169 | Dante Korleon |
+| 456 | 169 | Joseph Pace |
 | 457 | 168 | Jennifer Renee |
 | 458 | 167 | Carla Harris |
 | 459 | 167 | Snippy Clearer |
