@@ -177,16 +177,16 @@
 | 169 | 426 | Maria C. Hernandez |
 | 170 | 425 | Tyler Werts |
 | 171 | 424 | Emily Adelaide Wheatley |
-| 172 | 417 | Jessie Lynn |
-| 173 | 417 | Kimberly Garcia |
+| 172 | 417 | Kimberly Garcia |
+| 173 | 417 | Jessie Lynn |
 | 174 | 416 | Jessica Sheehan |
 | 175 | 415 | Jennifer Hardman |
 | 176 | 414 | Chelsea Dahlquist |
 | 177 | 412 | David Miller |
 | 178 | 410 | Mike Ames |
 | 179 | 408 | John J. Cronin |
-| 180 | 404 | Basment Living |
-| 181 | 404 | Tawnya Peltonen |
+| 180 | 404 | Tawnya Peltonen |
+| 181 | 404 | Basment Living |
 | 182 | 403 | Tana |
 | 183 | 402 | Chris K |
 | 184 | 399 | phrmblk24 |
@@ -213,12 +213,12 @@
 | 205 | 376 | Sassy Builderline |
 | 206 | 375 | Connie |
 | 207 | 374 | Howdi Duty |
-| 208 | 372 | Dizzy Party |
-| 209 | 372 | Snippy Wipebuilder |
+| 208 | 372 | Snippy Wipebuilder |
+| 209 | 372 | Dizzy Party |
 | 210 | 371 | David Lutcher |
 | 211 | 370 | Gracie |
-| 212 | 369 | Angela Renea Lester |
-| 213 | 369 | Jen Nystrom |
+| 212 | 369 | Jen Nystrom |
+| 213 | 369 | Angela Renea Lester |
 | 214 | 366 | J.F. Fields |
 | 215 | 365 | Amanda Holibaugh |
 | 216 | 365 | Shannon Marie Pitts |

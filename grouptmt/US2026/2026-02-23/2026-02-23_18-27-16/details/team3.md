@@ -197,8 +197,8 @@
 | 189 | 616 | Kammy Hill |
 | 190 | 615 | Tasha Gillespie |
 | 191 | 600 | Domo Washington |
-| 192 | 600 | Makelini Mausia |
-| 193 | 600 | Keis |
+| 192 | 600 | Keis |
+| 193 | 600 | Makelini Mausia |
 | 194 | 599 | opf |
 | 195 | 598 | Bmo |
 | 196 | 597 | CeceGeGe |
