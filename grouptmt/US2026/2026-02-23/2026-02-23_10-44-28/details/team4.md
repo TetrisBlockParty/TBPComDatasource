@@ -89,8 +89,8 @@
 | 81 | 703 | Savannah Overdorf |
 | 82 | 697 | Alyssa Papen |
 | 83 | 694 | Diana Houts |
-| 84 | 684 | Kimyatta Cavin |
-| 85 | 684 | Jonathan Kimbrough |
+| 84 | 684 | Jonathan Kimbrough |
+| 85 | 684 | Kimyatta Cavin |
 | 86 | 678 | Trista Leah |
 | 87 | 673 | Jacqueline Helm |
 | 88 | 670 | Destiney Carter |
@@ -205,8 +205,8 @@
 | 197 | 336 | JPW |
 | 198 | 332 | HastyGrabber |
 | 199 | 331 | Alan George LaRage |
-| 200 | 330 | Kathy Brookins |
-| 201 | 330 | blockstar |
+| 200 | 330 | blockstar |
+| 201 | 330 | Kathy Brookins |
 | 202 | 328 | scott |
 | 203 | 327 | J-Rizzle |
 | 204 | 324 | jim |
@@ -252,10 +252,10 @@
 | 244 | 281 | Laura |
 | 245 | 280 | Rio Rocha |
 | 246 | 279 | Malakai Darien Fox |
-| 247 | 278 | Angela Geist Jusinski |
-| 248 | 278 | Sarah Brown |
-| 249 | 276 | Cynthia Boudreau |
-| 250 | 276 | Joeliecea Cobb |
+| 247 | 278 | Sarah Brown |
+| 248 | 278 | Angela Geist Jusinski |
+| 249 | 276 | Joeliecea Cobb |
+| 250 | 276 | Cynthia Boudreau |
 | 251 | 275 | Kimberlee Jan Beckstead |
 | 252 | 273 | Cranky Rollpiece |
 | 253 | 272 | Dennis Bradley |
@@ -265,8 +265,8 @@
 | 257 | 266 | Tracey Lehmann |
 | 258 | 266 | Nubian1 |
 | 259 | 265 | Sarah Neathery |
-| 260 | 265 | Degenerate |
-| 261 | 265 | Silly SeaWeed |
+| 260 | 265 | Silly SeaWeed |
+| 261 | 265 | Degenerate |
 | 262 | 264 | ZeeZee |
 | 263 | 264 | Stella |
 | 264 | 263 | rebel4lyfe |
@@ -419,11 +419,11 @@
 | 411 | 177 | Chao Ma |
 | 412 | 177 | Lora |
 | 413 | 176 | Cindy Looper |
-| 414 | 175 | Jim Hart |
-| 415 | 175 | Neirrah B Olailjeel |
+| 414 | 175 | Neirrah B Olailjeel |
+| 415 | 175 | Jim Hart |
 | 416 | 175 | Lorena Guerrero-Barron |
-| 417 | 174 | Chummy Towerzone |
-| 418 | 174 | Jason Frehner |
+| 417 | 174 | Jason Frehner |
+| 418 | 174 | Chummy Towerzone |
 | 419 | 173 | Tanner Lund |
 | 420 | 172 | Undeniable Williams |
 | 421 | 172 | Janis Brown |
@@ -470,8 +470,8 @@
 | 462 | 160 | Heather Layne Smith |
 | 463 | 160 | icequeenx |
 | 464 | 159 | Groovy Brickmatch |
-| 465 | 158 | Jasmine S Caldwell |
-| 466 | 158 | Jen Mattei |
+| 465 | 158 | Jen Mattei |
+| 466 | 158 | Jasmine S Caldwell |
 | 467 | 157 | LunaMoon |
 | 468 | 157 | Ryry |
 | 469 | 157 | David Boggs |
@@ -566,8 +566,8 @@
 | 558 | 129 | Tamika Starkey |
 | 559 | 129 | Jessica Wells |
 | 560 | 128 | Zesty Linkgrid |
-| 561 | 128 | Raymond Roberts |
-| 562 | 128 | Lazy Glidepiece |
+| 561 | 128 | Lazy Glidepiece |
+| 562 | 128 | Raymond Roberts |
 | 563 | 127 | Jay You |
 | 564 | 126 | PAPatty |
 | 565 | 126 | Spicy Cascadezone |

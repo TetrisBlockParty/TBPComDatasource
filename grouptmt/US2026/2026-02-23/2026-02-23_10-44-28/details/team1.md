@@ -374,8 +374,8 @@
 | 366 | 205 | Agustin Duarte Orozco |
 | 367 | 205 | Elizabeth Kubli |
 | 368 | 205 | build master |
-| 369 | 204 | LD1 |
-| 370 | 204 | Cranky Pattern |
+| 369 | 204 | Cranky Pattern |
+| 370 | 204 | LD1 |
 | 371 | 203 | Rebekah LeiAnn Bonsell |
 | 372 | 202 | Amber Dee |
 | 373 | 202 | Andrew Backes |

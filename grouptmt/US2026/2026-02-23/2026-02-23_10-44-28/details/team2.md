@@ -310,8 +310,8 @@
 | 302 | 998 | Keri Womack |
 | 303 | 996 | Ashie Ann |
 | 304 | 987 | Osun Anuket Esu |
-| 305 | 979 | Hillary Crawford |
-| 306 | 979 | Melissa Penelope Ann Dodge |
+| 305 | 979 | Melissa Penelope Ann Dodge |
+| 306 | 979 | Hillary Crawford |
 | 307 | 978 | April Dawn Gussler |
 | 308 | 976 | Sam Joe |
 | 309 | 976 | Della Hole |
@@ -399,13 +399,13 @@
 | 391 | 816 | James Simms III |
 | 392 | 812 | Samantha Jo |
 | 393 | 808 | Desire Rice |
-| 394 | 808 | Connie Jimenez |
-| 395 | 808 | Laura McCarthey |
+| 394 | 808 | Laura McCarthey |
+| 395 | 808 | Connie Jimenez |
 | 396 | 804 | Becca Coronado |
 | 397 | 801 | Diana Fitzwater |
 | 398 | 801 | Gold Rose |
 | 399 | 800 | Arlene Joy Belicina |
-| 400 | 799 | Ronnie Nelson |
+| 400 | 799 | Joy LaJeunesse |
 | 401 | 799 | Kenny Alvarado |
 | 402 | 799 | Ronnie Nelson |
 | 403 | 796 | Amber Gray |
@@ -458,8 +458,8 @@
 | 450 | 737 | Ginger |
 | 451 | 737 | Chelle |
 | 452 | 732 | Victoria Moore-Smith |
-| 453 | 731 | Charvi' Carter |
-| 454 | 731 | Matthew Joseph Acevedo |
+| 453 | 731 | Matthew Joseph Acevedo |
+| 454 | 731 | Charvi' Carter |
 | 455 | 730 | Hoppy Brickmatch |
 | 456 | 729 | goofinoff |
 | 457 | 728 | Mikayala Szaz |
@@ -545,10 +545,10 @@
 | 537 | 643 | Michelle Pike |
 | 538 | 642 | Michelle Fields |
 | 539 | 642 | Cassie Maynard |
-| 540 | 639 | Toni Roberson |
-| 541 | 639 | Libby Hicks |
-| 542 | 639 | Rebecca Miller |
-| 543 | 639 | Alexandra Weir |
+| 540 | 639 | Rebecca Miller |
+| 541 | 639 | Alexandra Weir |
+| 542 | 639 | Libby Hicks |
+| 543 | 639 | Toni Roberson |
 | 544 | 638 | Leah Keesling |
 | 545 | 637 | Koa N Sharon Chen |
 | 546 | 637 | Shinette Dobson |
@@ -638,8 +638,8 @@
 | 630 | 566 | Tina Marie |
 | 631 | 566 | SwampRebel |
 | 632 | 564 | Stacey Tranchida |
-| 633 | 563 | Nat |
-| 634 | 563 | Frisky Clearpiece |
+| 633 | 563 | Frisky Clearpiece |
+| 634 | 563 | Nat |
 | 635 | 562 | Sabrena Yeisley |
 | 636 | 559 | Alexx Anaya |
 | 637 | 559 | Anthony Huebel |
@@ -913,8 +913,8 @@
 | 905 | 411 | BabyBird |
 | 906 | 410 | Michelle Grant-Moncrieft |
 | 907 | 409 | Lush Snapzone |
-| 908 | 408 | cornball |
-| 909 | 408 | Dad |
+| 908 | 408 | Dad |
+| 909 | 408 | cornball |
 | 910 | 408 | Janitta Alvarez |
 | 911 | 407 | Danielle DeLozier Plesec |
 | 912 | 407 | Christina Jarvis-Swarbrick |

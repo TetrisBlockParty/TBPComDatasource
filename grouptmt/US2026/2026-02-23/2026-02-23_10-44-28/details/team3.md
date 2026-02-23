@@ -121,8 +121,8 @@
 | 113 | 839 | Angeline Joseph |
 | 114 | 830 | Stephanie Allmon |
 | 115 | 826 | Shane Wilson Jr. |
-| 116 | 816 | Brenda Lee Vander Molen |
-| 117 | 816 | Jesse Olive |
+| 116 | 816 | Jesse Olive |
+| 117 | 816 | Brenda Lee Vander Molen |
 | 118 | 802 | Bobbi Moore |
 | 119 | 800 | Lauren Girouard |
 | 120 | 799 | Dolores Falco |
@@ -218,8 +218,8 @@
 | 210 | 485 | Dapper Snap |
 | 211 | 484 | Fallorina Susana |
 | 212 | 481 | Connie Mohler-Fair |
-| 213 | 480 | Danielle Allison |
-| 214 | 480 | Michael Johnson |
+| 213 | 480 | Michael Johnson |
+| 214 | 480 | Danielle Allison |
 | 215 | 477 | Edwin Calvillo Jr. |
 | 216 | 475 | Tessina Dewey-Mancino |
 | 217 | 471 | Mendoza Lee Christy |
@@ -302,8 +302,8 @@
 | 294 | 353 | Cyd061769 |
 | 295 | 353 | Dee Franklin |
 | 296 | 352 | Christian Werndl |
-| 297 | 351 | Eon Harris |
-| 298 | 351 | Blocked |
+| 297 | 351 | Blocked |
+| 298 | 351 | Eon Harris |
 | 299 | 350 | LaShey Thompson |
 | 300 | 349 | Amanda J. Mcneil-Anderson |
 | 301 | 348 | Ashley Raines |
@@ -366,8 +366,8 @@
 | 358 | 296 | Tracy Martin |
 | 359 | 296 | Amy Montz |
 | 360 | 295 | Nikki Pags |
-| 361 | 292 | Kirhonda Autmon |
-| 362 | 292 | Khaleada McGill Banks |
+| 361 | 292 | Khaleada McGill Banks |
+| 362 | 292 | Kirhonda Autmon |
 | 363 | 289 | Salena Whitlock |
 | 364 | 289 | Cheryl Hinch Tenbrook |
 | 365 | 289 | DidIdothat |
@@ -382,8 +382,8 @@
 | 374 | 280 | Aerian Preston |
 | 375 | 280 | ROODBOY |
 | 376 | 280 | Dirtgirl27 |
-| 377 | 279 | Tosha Griffey |
-| 378 | 279 | Naur |
+| 377 | 279 | Naur |
+| 378 | 279 | Tosha Griffey |
 | 379 | 278 | Rufus Lincoln |
 | 380 | 277 | Krystal Gerstberger |
 | 381 | 277 | France Vézina |
@@ -400,8 +400,8 @@
 | 392 | 273 | Quackers |
 | 393 | 273 | Kevin Fountain |
 | 394 | 272 | Romeo |
-| 395 | 272 | Todd Hall |
-| 396 | 272 | Tay |
+| 395 | 272 | Tay |
+| 396 | 272 | Todd Hall |
 | 397 | 269 | Goofy Fall |
 | 398 | 269 | Juliana Dottore |
 | 399 | 269 | Samantha Worley |
@@ -600,8 +600,8 @@
 | 592 | 187 | Stephanie Sanchez |
 | 593 | 187 | Kelly Koenig |
 | 594 | 187 | Crystal Johnson |
-| 595 | 186 | Rayzer |
-| 596 | 186 | Funky Jumper |
+| 595 | 186 | Funky Jumper |
+| 596 | 186 | Rayzer |
 | 597 | 185 | Ashley Kennedy |
 | 598 | 185 | Breezy Roll |
 | 599 | 185 | Macaulay Logel |
@@ -708,9 +708,9 @@
 | 700 | 164 | Megan Stanley |
 | 701 | 163 | Julian Murphy |
 | 702 | 162 | gravelgrinder |
-| 703 | 162 | Steven Fulater |
-| 704 | 162 | Tony Tran |
-| 705 | 162 | Cathy Leger |
+| 703 | 162 | Tony Tran |
+| 704 | 162 | Cathy Leger |
+| 705 | 162 | Steven Fulater |
 | 706 | 161 | Patty White |
 | 707 | 161 | Paul Larsen |
 | 708 | 161 | Jessica Rose-Morgan |
@@ -725,7 +725,7 @@
 | 717 | 159 | Giddy Basepiece |
 | 718 | 158 | Cameo Tweed |
 | 719 | 157 | Noel Hill Hoose |
-| 720 | 157 | Michelle Ramirez |
+| 720 | 157 | DeeDee13 |
 | 721 | 157 | Angel Mendez |
 | 722 | 157 | Michelle Ramirez |
 | 723 | 157 | Benny Tyrrell |
@@ -1106,8 +1106,8 @@
 | 1098 | 104 | Marketa McClaster |
 | 1099 | 104 | Mt Shirley |
 | 1100 | 103 | Clever Wobbler |
-| 1101 | 103 | Casey Lane |
-| 1102 | 103 | Heyska |
+| 1101 | 103 | Heyska |
+| 1102 | 103 | Casey Lane |
 | 1103 | 103 | Kari Gibson Simmons |
 | 1104 | 103 | Loony Snapbuild |
 | 1105 | 103 | Reanie Mularz |
