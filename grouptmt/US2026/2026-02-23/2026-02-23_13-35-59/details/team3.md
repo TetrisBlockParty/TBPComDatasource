@@ -81,8 +81,8 @@
 | 73 | 1252 | Gracie |
 | 74 | 1244 | Lori Barnaby |
 | 75 | 1221 | Betty Ivy |
-| 76 | 1213 | Snappy Glidepiece |
-| 77 | 1213 | Nerdy Riseclear |
+| 76 | 1213 | Nerdy Riseclear |
+| 77 | 1213 | Snappy Glidepiece |
 | 78 | 1209 | Amanda Adkins |
 | 79 | 1186 | Christian A. Pollard |
 | 80 | 1134 | Denise Nardoni |
@@ -133,8 +133,8 @@
 | 125 | 779 | Justin Ritter |
 | 126 | 774 | Keith J Oshman Jr. |
 | 127 | 773 | Daira Largen |
-| 128 | 764 | Groovy Catcher |
-| 129 | 764 | Hasty Cascadefit |
+| 128 | 764 | Hasty Cascadefit |
+| 129 | 764 | Groovy Catcher |
 | 130 | 762 | Speedy Bridger |
 | 131 | 755 | Katrina Schroeder |
 | 132 | 755 | Raya |
@@ -185,8 +185,8 @@
 | 177 | 591 | Michael Nowogorski |
 | 178 | 589 | Kaycee Kay |
 | 179 | 587 | Louise Stacy Sisson |
-| 180 | 585 | Domo Washington |
-| 181 | 585 | Happy Tetriblast |
+| 180 | 585 | Happy Tetriblast |
+| 181 | 585 | Domo Washington |
 | 182 | 583 | Tasha Gillespie |
 | 183 | 582 | Natasha Jones |
 | 184 | 574 | Morgan Martinez |
@@ -299,10 +299,10 @@
 | 291 | 371 | block chick |
 | 292 | 370 | Samantha Lynn |
 | 293 | 369 | Amber Glover |
-| 294 | 369 | Jennifer Alvey |
-| 295 | 369 | Philip Rock |
-| 296 | 368 | Sheila M Frazier |
-| 297 | 368 | Stephanie Woods |
+| 294 | 369 | Philip Rock |
+| 295 | 369 | Jennifer Alvey |
+| 296 | 368 | Stephanie Woods |
+| 297 | 368 | Sheila M Frazier |
 | 298 | 366 | Gumbo |
 | 299 | 363 | Juliana Dottore |
 | 300 | 363 | Cyd061769 |

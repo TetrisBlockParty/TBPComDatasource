@@ -49,8 +49,8 @@
 | 41 | 1121 | Isabel Aguilar |
 | 42 | 1100 | Landon Keith Graffeo |
 | 43 | 1085 | Kimyatta Cavin |
-| 44 | 1082 | Dion Crommarty |
-| 45 | 1082 | Dawn Alexander |
+| 44 | 1082 | Dawn Alexander |
+| 45 | 1082 | Dion Crommarty |
 | 46 | 1071 | Cherrish Duren |
 | 47 | 1065 | Koshin Abdirahman |
 | 48 | 1049 | Heather Tushner |
@@ -67,12 +67,12 @@
 | 59 | 872 | Shelly Chandler |
 | 60 | 871 | Pee |
 | 61 | 870 | BertMofo |
-| 62 | 846 | Christine Marie |
-| 63 | 846 | Lucille Truesdale |
+| 62 | 846 | Lucille Truesdale |
+| 63 | 846 | Christine Marie |
 | 64 | 834 | quicksand420 |
 | 65 | 827 | Avy Absol |
-| 66 | 807 | Amelpss |
-| 67 | 807 | Rachel Anne |
+| 66 | 807 | Rachel Anne |
+| 67 | 807 | Amelpss |
 | 68 | 788 | Chilly Line |
 | 69 | 788 | Julian Garcia |
 | 70 | 787 | Edward White |
@@ -235,8 +235,8 @@
 | 227 | 316 | Autumn Kumzi |
 | 228 | 314 | Lindsay Ball |
 | 229 | 313 | Milan Markeisha |
-| 230 | 312 | Dihcheese444 |
-| 231 | 312 | Casey Grabner |
+| 230 | 312 | Casey Grabner |
+| 231 | 312 | Dihcheese444 |
 | 232 | 311 | Mary Ann Pabukis |
 | 233 | 311 | Nikki Rae Gordon |
 | 234 | 310 | Stacey Stano |
@@ -260,8 +260,8 @@
 | 252 | 290 | Rebecca Morris |
 | 253 | 290 | Jared Gutwein |
 | 254 | 289 | Juls |
-| 255 | 288 | Adam Stephanie Parker |
-| 256 | 288 | Brittney Orengo |
+| 255 | 288 | Brittney Orengo |
+| 256 | 288 | Adam Stephanie Parker |
 | 257 | 286 | KimoKoala |
 | 258 | 285 | Kim Klutz Olson |
 | 259 | 284 | Glitzy Corner |
@@ -283,9 +283,9 @@
 | 275 | 270 | Jen Caldwell |
 | 276 | 269 | Brickh4us |
 | 277 | 267 | Metsfan |
-| 278 | 266 | Tracey Lehmann |
+| 278 | 266 | Nubian1 |
 | 279 | 266 | Mr. Party |
-| 280 | 266 | Nubian1 |
+| 280 | 266 | Tracey Lehmann |
 | 281 | 266 | Deb Rubeck |
 | 282 | 265 | Silly SeaWeed |
 | 283 | 265 | Sarah Neathery |
@@ -293,8 +293,8 @@
 | 285 | 264 | ZeeZee |
 | 286 | 264 | Stella |
 | 287 | 263 | rebel4lyfe |
-| 288 | 262 | Selena Shaw |
-| 289 | 262 | Ruben Wheeler |
+| 288 | 262 | Ruben Wheeler |
+| 289 | 262 | Selena Shaw |
 | 290 | 262 | BigSammy420 |
 | 291 | 261 | Zethra Prenisha Rahming |
 | 292 | 260 | Carter Jones |
