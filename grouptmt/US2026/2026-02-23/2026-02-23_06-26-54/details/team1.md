@@ -102,8 +102,8 @@
 | 94 | 529 | Ryan Lunnin |
 | 95 | 522 | Sarah Lombardo |
 | 96 | 511 | Mario Cab |
-| 97 | 510 | Colena Davenport |
-| 98 | 510 | Chirpy Smasher |
+| 97 | 510 | Chirpy Smasher |
+| 98 | 510 | Colena Davenport |
 | 99 | 509 | Rachael |
 | 100 | 497 | Arianna O'Brien |
 | 101 | 493 | Jennifer ManWarren |
@@ -112,8 +112,8 @@
 | 104 | 491 | cc |
 | 105 | 489 | April Carroll |
 | 106 | 489 | Deanna L Hermanson |
-| 107 | 483 | Trina Gee |
-| 108 | 483 | Tdub |
+| 107 | 483 | Tdub |
+| 108 | 483 | Trina Gee |
 | 109 | 480 | Ty Brown |
 | 110 | 478 | Stephanie Zahn |
 | 111 | 463 | Lexuriuos Lifestlye |
@@ -134,15 +134,15 @@
 | 126 | 429 | Kristi Johnson |
 | 127 | 428 | Ly Phethmany |
 | 128 | 426 | Maria C. Hernandez |
-| 129 | 425 | Lori Sanders- Davis |
-| 130 | 425 | Dandy Basegrid |
+| 129 | 425 | Dandy Basegrid |
+| 130 | 425 | Lori Sanders- Davis |
 | 131 | 411 | BadG52 |
 | 132 | 409 | Goose egg |
 | 133 | 406 | Candy Jones |
 | 134 | 406 | Desiree Deschaine Havee |
 | 135 | 402 | Chris K |
-| 136 | 399 | Nery Martinez |
-| 137 | 399 | ALFD |
+| 136 | 399 | ALFD |
+| 137 | 399 | Nery Martinez |
 | 138 | 394 | Lori Bales |
 | 139 | 392 | And |
 | 140 | 389 | David Miller |
@@ -151,8 +151,8 @@
 | 143 | 387 | Emily Adelaide Wheatley |
 | 144 | 387 | Monica Donato |
 | 145 | 385 | Tyler Werts |
-| 146 | 383 | pjbeta |
-| 147 | 383 | Margo Wagner |
+| 146 | 383 | Margo Wagner |
+| 147 | 383 | pjbeta |
 | 148 | 380 | phrmblk24 |
 | 149 | 379 | Kimmie Kimms |
 | 150 | 379 | Austin James |
@@ -192,8 +192,8 @@
 | 184 | 337 | Jamise Brown |
 | 185 | 336 | Dizzy Party |
 | 186 | 333 | Gracie |
-| 187 | 332 | Lehrin Maria |
-| 188 | 332 | Happy Basegrid |
+| 187 | 332 | Happy Basegrid |
+| 188 | 332 | Lehrin Maria |
 | 189 | 329 | Witty Builderfit |
 | 190 | 325 | GringaLinga |
 | 191 | 324 | Rat666 |
@@ -225,8 +225,8 @@
 | 217 | 290 | Tavia |
 | 218 | 290 | Hellsin |
 | 219 | 287 | Sassy Builderline |
-| 220 | 285 | Shanae Grant |
-| 221 | 285 | Bird Person |
+| 220 | 285 | Bird Person |
+| 221 | 285 | Shanae Grant |
 | 222 | 284 | Sarah Somers Gray |
 | 223 | 283 | Amanda Holibaugh |
 | 224 | 283 | Franswa |
@@ -325,10 +325,10 @@
 | 317 | 217 | Cheeky Crusher |
 | 318 | 217 | Betsy |
 | 319 | 216 | Tiger Lily |
-| 320 | 216 | Chad Atchley |
-| 321 | 216 | Shauntina Burke |
-| 322 | 215 | Christina Norman |
-| 323 | 215 | Alenoush Karimian |
+| 320 | 216 | Shauntina Burke |
+| 321 | 216 | Chad Atchley |
+| 322 | 215 | Alenoush Karimian |
+| 323 | 215 | Christina Norman |
 | 324 | 214 | Kayla Marie Stevenson |
 | 325 | 214 | Gary Gobin |
 | 326 | 213 | John Barron |
@@ -340,8 +340,8 @@
 | 332 | 209 | Breanna Luna |
 | 333 | 208 | Andrew Boone |
 | 334 | 208 | Donna Addison Williams |
-| 335 | 207 | Leslie Bush Yarbrough |
-| 336 | 207 | Fresno Beotoni |
+| 335 | 207 | Fresno Beotoni |
+| 336 | 207 | Leslie Bush Yarbrough |
 | 337 | 207 | Katie Martin |
 | 338 | 205 | Agustin Duarte Orozco |
 | 339 | 205 | build master |

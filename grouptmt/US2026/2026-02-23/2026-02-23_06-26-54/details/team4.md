@@ -73,8 +73,8 @@
 | 65 | 781 | Ashley Ingram |
 | 66 | 767 | Shannon Ferrari |
 | 67 | 766 | Robin Watters |
-| 68 | 765 | Robin Getchel |
-| 69 | 765 | Denise Carlson |
+| 68 | 765 | Denise Carlson |
+| 69 | 765 | Robin Getchel |
 | 70 | 752 | loulou |
 | 71 | 749 | Dustee Craddock-Harrison |
 | 72 | 742 | Carolyn Wallace |
@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | KM8 |
-| 93 | 647 | Shauna Havard |
+| 92 | 647 | Shauna Havard |
+| 93 | 647 | KM8 |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -125,8 +125,8 @@
 | 117 | 514 | Scott Jameson |
 | 118 | 514 | Serena Goodridge |
 | 119 | 513 | Erin Thomas |
-| 120 | 512 | Casey Jeffcoat |
-| 121 | 512 | Cristy Duerksen |
+| 120 | 512 | Cristy Duerksen |
+| 121 | 512 | Casey Jeffcoat |
 | 122 | 511 | Lori Walker |
 | 123 | 509 | Leslie Nicole |
 | 124 | 482 | Ren Mc |
@@ -138,8 +138,8 @@
 | 130 | 458 | Twisty Clicky |
 | 131 | 451 | Peachy Fall |
 | 132 | 448 | Kristin Manee |
-| 133 | 435 | Kristina Black |
-| 134 | 435 | Leslie Thomas |
+| 133 | 435 | Leslie Thomas |
+| 134 | 435 | Kristina Black |
 | 135 | 434 | Monica Daley |
 | 136 | 432 | Zippy Block |
 | 137 | 431 | Courtney Cicoria |
@@ -164,8 +164,8 @@
 | 156 | 391 | Ramel Rhodes |
 | 157 | 389 | Joseph Guthrie |
 | 158 | 387 | Lucas J Sutton |
-| 159 | 375 | ThaEviLJeNiuZ |
-| 160 | 375 | Desi Desporte |
+| 159 | 375 | Desi Desporte |
+| 160 | 375 | ThaEviLJeNiuZ |
 | 161 | 374 | Guy Incognito |
 | 162 | 370 | Oscar Alberto Perez |
 | 163 | 369 | Lindsey Gonzalez |
@@ -185,8 +185,8 @@
 | 177 | 349 | Rafael Valentin |
 | 178 | 349 | Twisty Cascadezone |
 | 179 | 348 | April Rondinone |
-| 180 | 347 | Daria Rycewicz |
-| 181 | 347 | Crystal Nicolette Moore |
+| 180 | 347 | Crystal Nicolette Moore |
+| 181 | 347 | Daria Rycewicz |
 | 182 | 339 | David Lay |
 | 183 | 336 | Bio Nelly |
 | 184 | 335 | James Hurley Jr. |
@@ -316,8 +316,8 @@
 | 308 | 216 | Chantilly Laace |
 | 309 | 216 | mike |
 | 310 | 215 | Stephme310 |
-| 311 | 214 | Patron Anderson |
-| 312 | 214 | Stacey Stano |
+| 311 | 214 | Stacey Stano |
+| 312 | 214 | Patron Anderson |
 | 313 | 213 | Jackie Marie |
 | 314 | 212 | Mike Solo |
 | 315 | 212 | Zany Shatterer |
@@ -355,9 +355,9 @@
 | 347 | 191 | Norman Klick |
 | 348 | 191 | Earnest Thompson |
 | 349 | 190 | wombat |
-| 350 | 189 | Cool Towerbuilder |
-| 351 | 189 | Berklie Apedaile |
-| 352 | 189 | Lauren Lamb |
+| 350 | 189 | Berklie Apedaile |
+| 351 | 189 | Lauren Lamb |
+| 352 | 189 | Cool Towerbuilder |
 | 353 | 188 | Sharyn Lemire |
 | 354 | 187 | Jenny Wells-Oakley |
 | 355 | 187 | Hyper Builder |

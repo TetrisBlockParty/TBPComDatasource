@@ -211,8 +211,8 @@
 | 203 | 1286 | Altamirano Michael |
 | 204 | 1282 | Tanya Parsons |
 | 205 | 1259 | Foxxo |
-| 206 | 1258 | Snappy Matchbuilder |
-| 207 | 1258 | Joyce Johnson Vaughn |
+| 206 | 1258 | Joyce Johnson Vaughn |
+| 207 | 1258 | Snappy Matchbuilder |
 | 208 | 1252 | Angel |
 | 209 | 1245 | Cody Nishimura |
 | 210 | 1240 | Brandon Armstrong |
@@ -255,8 +255,8 @@
 | 247 | 1126 | Dolores Russworn |
 | 248 | 1121 | Tommy Tha Boss Gunz |
 | 249 | 1121 | Sarah Freitas |
-| 250 | 1114 | Ginnell Browner |
-| 251 | 1114 | Kevin Walp |
+| 250 | 1114 | Kevin Walp |
+| 251 | 1114 | Ginnell Browner |
 | 252 | 1111 | Julay |
 | 253 | 1110 | Robin Kerby |
 | 254 | 1105 | Nerdy Clearfit |
@@ -293,8 +293,8 @@
 | 285 | 1010 | Brittany Radaszewski |
 | 286 | 1007 | Missie Lawson Gebhardt |
 | 287 | 1003 | Andrea Maher |
-| 288 | 998 | Keri Womack |
-| 289 | 998 | Shelley Thornburgh Wright |
+| 288 | 998 | Shelley Thornburgh Wright |
+| 289 | 998 | Keri Womack |
 | 290 | 996 | Ashie Ann |
 | 291 | 988 | Juliana Marques Do Nascimento Gordy |
 | 292 | 987 | Osun Anuket Esu |
@@ -322,8 +322,8 @@
 | 314 | 951 | Cynthia Ward |
 | 315 | 947 | Dedra Steward |
 | 316 | 941 | Cool Clearer |
-| 317 | 939 | SaraMarie Eveland |
-| 318 | 939 | Cindy Sechler Taninecz |
+| 317 | 939 | Cindy Sechler Taninecz |
+| 318 | 939 | SaraMarie Eveland |
 | 319 | 929 | Joshua Mandel |
 | 320 | 926 | Deborah Miller |
 | 321 | 925 | Wakanda Forever |
@@ -333,8 +333,8 @@
 | 325 | 915 | Kelly Trent |
 | 326 | 914 | Shuany Arias |
 | 327 | 907 | Gene Mills |
-| 328 | 904 | John Bednarik |
-| 329 | 904 | Jennifer Aiken |
+| 328 | 904 | Jennifer Aiken |
+| 329 | 904 | John Bednarik |
 | 330 | 904 | Bee |
 | 331 | 903 | Giggy Blocker |
 | 332 | 902 | William Hunt |
@@ -365,8 +365,8 @@
 | 357 | 844 | Terri McKelvey McKinley |
 | 358 | 841 | Ashley Dow |
 | 359 | 840 | Traci Johnson |
-| 360 | 838 | Misti Markijohn |
-| 361 | 838 | Nicole Cannon |
+| 360 | 838 | Nicole Cannon |
+| 361 | 838 | Misti Markijohn |
 | 362 | 833 | Moni Foxe |
 | 363 | 831 | Christina Lewis-Vickers |
 | 364 | 830 | Diallo Sparkman |
@@ -394,8 +394,8 @@
 | 386 | 796 | AndrewandShela Gornik |
 | 387 | 796 | Amber Gray |
 | 388 | 793 | Heather Schelkopf |
-| 389 | 793 | Jaycee |
-| 390 | 793 | Arlene Joy Belicina |
+| 389 | 793 | Arlene Joy Belicina |
+| 390 | 793 | Jaycee |
 | 391 | 790 | Kathryn Townsley |
 | 392 | 790 | Brenda Pierpoint |
 | 393 | 788 | Erika Densmore |
