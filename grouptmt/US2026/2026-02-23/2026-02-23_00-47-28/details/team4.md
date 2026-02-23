@@ -126,8 +126,8 @@
 | 118 | 458 | Twisty Clicky |
 | 119 | 448 | Kristin Manee |
 | 120 | 435 | Leslie Thomas |
-| 121 | 431 | Courtney Cicoria |
-| 122 | 431 | Jolly Dashfit |
+| 121 | 431 | Jolly Dashfit |
+| 122 | 431 | Courtney Cicoria |
 | 123 | 429 | Ren Mc |
 | 124 | 427 | KJ Pool |
 | 125 | 424 | Latisha Davis |
@@ -154,8 +154,8 @@
 | 146 | 374 | Guy Incognito |
 | 147 | 373 | Joseph Guthrie |
 | 148 | 370 | Oscar Alberto Perez |
-| 149 | 368 | Silly Zonebuilder |
-| 150 | 368 | Brandon Crabbs |
+| 149 | 368 | Brandon Crabbs |
+| 150 | 368 | Silly Zonebuilder |
 | 151 | 365 | Leslie Nicole |
 | 152 | 363 | Livvy |
 | 153 | 358 | ThaEviLJeNiuZ |
@@ -247,8 +247,8 @@
 | 239 | 240 | Perky Patternblock |
 | 240 | 240 | Kim Hunt |
 | 241 | 238 | Chaz |
-| 242 | 237 | Christine Therrien |
-| 243 | 237 | 030Synner |
+| 242 | 237 | 030Synner |
+| 243 | 237 | Christine Therrien |
 | 244 | 235 | LaDonna LovinmesomeMe Lambert |
 | 245 | 233 | Ruben Wheeler |
 | 246 | 232 | Rio Rocha |

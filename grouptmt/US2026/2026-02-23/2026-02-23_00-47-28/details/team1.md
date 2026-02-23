@@ -26,8 +26,8 @@
 | 18 | 1408 | Mara Hilker |
 | 19 | 1264 | Jennifer Cates |
 | 20 | 1215 | LaQuetta Faith Hines |
-| 21 | 1191 | Nerdy Linkblock |
-| 22 | 1191 | Roger Aschbrenner |
+| 21 | 1191 | Roger Aschbrenner |
+| 22 | 1191 | Nerdy Linkblock |
 | 23 | 1181 | Carolyn Smith |
 | 24 | 1171 | Tyler Alcock |
 | 25 | 1136 | Rahna Underwood |
@@ -50,8 +50,8 @@
 | 42 | 879 | Adam Byrd |
 | 43 | 863 | Tipsy Column |
 | 44 | 862 | Christina Costantino |
-| 45 | 844 | Amanda Summey Schoemer |
-| 46 | 844 | Katie Daniels |
+| 45 | 844 | Katie Daniels |
+| 46 | 844 | Amanda Summey Schoemer |
 | 47 | 828 | Drew Magnus |
 | 48 | 805 | Sevens4L |
 | 49 | 797 | Lawrence Belanger |
@@ -96,16 +96,16 @@
 | 88 | 500 | Evie Khalil |
 | 89 | 496 | Sarah Lombardo |
 | 90 | 494 | Arianna O'Brien |
-| 91 | 493 | MomMom |
-| 92 | 493 | Jennifer ManWarren |
+| 91 | 493 | Jennifer ManWarren |
+| 92 | 493 | MomMom |
 | 93 | 492 | Ash Galvan |
 | 94 | 489 | Deanna L Hermanson |
 | 95 | 486 | Tater |
 | 96 | 485 | Cartier |
 | 97 | 480 | cc |
 | 98 | 474 | Tdub |
-| 99 | 472 | Kristen Gideon |
-| 100 | 472 | April Carroll |
+| 99 | 472 | April Carroll |
+| 100 | 472 | Kristen Gideon |
 | 101 | 466 | Hasbro Bros |
 | 102 | 462 | Luciano Moreira |
 | 103 | 454 | Evan Richmond |
@@ -138,8 +138,8 @@
 | 130 | 386 | David Miller |
 | 131 | 386 | Ty Brown |
 | 132 | 383 | pjbeta |
-| 133 | 379 | Austin James |
-| 134 | 379 | Kimmie Kimms |
+| 133 | 379 | Kimmie Kimms |
+| 134 | 379 | Austin James |
 | 135 | 376 | Brian Richardsson |
 | 136 | 376 | lil mickey |
 | 137 | 368 | Death |

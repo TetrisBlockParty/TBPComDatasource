@@ -315,8 +315,8 @@
 | 307 | 282 | Hanna Kim |
 | 308 | 281 | Salena Whitlock |
 | 309 | 280 | Kaycee Kay |
-| 310 | 279 | Foltz Lee Kelli |
-| 311 | 279 | ROODBOY |
+| 310 | 279 | ROODBOY |
+| 311 | 279 | Foltz Lee Kelli |
 | 312 | 278 | Rufus Lincoln |
 | 313 | 277 | Joe-Maggie Mathews |
 | 314 | 277 | Tracy Martin |
@@ -343,8 +343,8 @@
 | 335 | 267 | April Matthew Kibble |
 | 336 | 266 | Quirky Dropzone |
 | 337 | 265 | Michael Kimbro |
-| 338 | 263 | Jimmie Clemons |
-| 339 | 263 | Erika Thornton |
+| 338 | 263 | Erika Thornton |
+| 339 | 263 | Jimmie Clemons |
 | 340 | 262 | Kristin Delibac Corrigan |
 | 341 | 262 | Shawn Miller |
 | 342 | 261 | Stephanie Bradley |
