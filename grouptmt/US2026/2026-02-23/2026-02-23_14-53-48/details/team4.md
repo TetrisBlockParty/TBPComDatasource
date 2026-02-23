@@ -200,14 +200,14 @@
 | 192 | 376 | Zesty Twistbuilder |
 | 193 | 372 | George Nutt |
 | 194 | 372 | Antony Dwayne Beasley |
-| 195 | 368 | Silly Zonebuilder |
-| 196 | 368 | Holly Jolly |
+| 195 | 368 | Holly Jolly |
+| 196 | 368 | Silly Zonebuilder |
 | 197 | 365 | Jeff Brian Gates |
 | 198 | 363 | Cindy Looper |
 | 199 | 361 | Danielle Kollias |
 | 200 | 361 | Rafael Valentin |
-| 201 | 358 | A5! |
-| 202 | 358 | Twisty Cascadezone |
+| 201 | 358 | Twisty Cascadezone |
+| 202 | 358 | A5! |
 | 203 | 355 | James Hurley Jr. |
 | 204 | 354 | Sharyn Lemire |
 | 205 | 354 | TRCuse |
@@ -544,8 +544,8 @@
 | 536 | 149 | Smiley Shifter |
 | 537 | 149 | Boldy Linkpiece |
 | 538 | 148 | Bigeddie |
-| 539 | 148 | Will Chamberlain |
-| 540 | 148 | Backoff Recupe |
+| 539 | 148 | Backoff Recupe |
+| 540 | 148 | Will Chamberlain |
 | 541 | 147 | Laurmarcar |
 | 542 | 147 | Hasty Fitzone |
 | 543 | 147 | Jay28 |

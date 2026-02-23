@@ -330,8 +330,8 @@
 | 322 | 352 | LadyTorad |
 | 323 | 351 | Blocked |
 | 324 | 351 | Eon Harris |
-| 325 | 349 | Num1hater |
-| 326 | 349 | Amanda J. Mcneil-Anderson |
+| 325 | 349 | Amanda J. Mcneil-Anderson |
+| 326 | 349 | Num1hater |
 | 327 | 348 | Ashley Raines |
 | 328 | 346 | Chummy Rumbler |
 | 329 | 345 | gremicx |
@@ -368,8 +368,8 @@
 | 360 | 322 | Nena Somerville Kelly |
 | 361 | 321 | Wettnippz |
 | 362 | 320 | Or Reznitsky |
-| 363 | 320 | Ashley Muncey |
-| 364 | 320 | Taylor Hood |
+| 363 | 320 | Taylor Hood |
+| 364 | 320 | Ashley Muncey |
 | 365 | 318 | Christy Quick |
 | 366 | 316 | Travis W |
 | 367 | 314 | Tipsy Zonebuilder |

@@ -168,8 +168,8 @@
 | 160 | 1658 | Liberty |
 | 161 | 1653 | Michele Gabriel |
 | 162 | 1647 | Jessie McDougald |
-| 163 | 1644 | Luna |
-| 164 | 1644 | Speedy Spinblock |
+| 163 | 1644 | Speedy Spinblock |
+| 164 | 1644 | Luna |
 | 165 | 1640 | Scott Treadway |
 | 166 | 1639 | Mari Ac |
 | 167 | 1629 | Rickey Johnson |
@@ -254,8 +254,8 @@
 | 246 | 1233 | Maria Escobar |
 | 247 | 1232 | Ambyre Patterson |
 | 248 | 1221 | Jane Fong |
-| 249 | 1217 | Lucky Ladybug |
-| 250 | 1217 | Brooks Brooks |
+| 249 | 1217 | Brooks Brooks |
+| 250 | 1217 | Lucky Ladybug |
 | 251 | 1216 | Pacynthia Williams |
 | 252 | 1214 | David Cudicio-Hayden |
 | 253 | 1211 | Ricardo Burton |
@@ -380,12 +380,12 @@
 | 372 | 913 | blume |
 | 373 | 907 | Gene Mills |
 | 374 | 904 | John Bednarik |
-| 375 | 903 | Giggy Blocker |
-| 376 | 903 | Eric Castaneda |
+| 375 | 903 | Eric Castaneda |
+| 376 | 903 | Giggy Blocker |
 | 377 | 902 | Diallo Sparkman |
 | 378 | 899 | Felicia Lynn |
-| 379 | 899 | Patrick Bartlett |
-| 380 | 899 | Chevy |
+| 379 | 899 | Chevy |
+| 380 | 899 | Patrick Bartlett |
 | 381 | 898 | Donna M Carter |
 | 382 | 895 | Donna Colby |
 | 383 | 895 | Lisa Ongtowasruk |
@@ -463,8 +463,8 @@
 | 455 | 772 | Danielle Simmons |
 | 456 | 771 | Stephanie Lumanlan |
 | 457 | 769 | Kimberly Hope Howell |
-| 458 | 768 | Charvi' Carter |
-| 459 | 768 | Joshua Self |
+| 458 | 768 | Joshua Self |
+| 459 | 768 | Charvi' Carter |
 | 460 | 767 | Ashley Lopez |
 | 461 | 766 | Jennie Lee Huntley |
 | 462 | 765 | Dylan Thomason |
@@ -481,8 +481,8 @@
 | 473 | 755 | Taryece Gause |
 | 474 | 754 | tejas25 |
 | 475 | 753 | Alex Dungo Hoang |
-| 476 | 751 | Breezy Filler |
-| 477 | 751 | Caitlyn Blackwell |
+| 476 | 751 | Caitlyn Blackwell |
+| 477 | 751 | Breezy Filler |
 | 478 | 751 | Loony Snapper |
 | 479 | 750 | Michael Buckner |
 | 480 | 750 | Draizen Montrell Thomas |
@@ -750,8 +750,8 @@
 | 742 | 519 | CupCake |
 | 743 | 518 | Ashley Collins |
 | 744 | 517 | Daring Caster |
-| 745 | 516 | Diamond Scott |
-| 746 | 516 | Shea Edison |
+| 745 | 516 | Shea Edison |
+| 746 | 516 | Diamond Scott |
 | 747 | 516 | Nate Lee |
 | 748 | 516 | Alicia Moreno |
 | 749 | 515 | Klee |
