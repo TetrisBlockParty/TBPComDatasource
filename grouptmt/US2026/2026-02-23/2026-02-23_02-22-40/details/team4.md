@@ -78,8 +78,8 @@
 | 70 | 739 | Avy Absol |
 | 71 | 736 | Goatimus Lombardi |
 | 72 | 725 | Denise Carlson |
-| 73 | 704 | Crystal Carroll |
-| 74 | 704 | D3TROITB0RN74 |
+| 73 | 704 | D3TROITB0RN74 |
+| 74 | 704 | Crystal Carroll |
 | 75 | 697 | Alyssa Papen |
 | 76 | 684 | Jonathan Kimbrough |
 | 77 | 677 | TheNeesh50 |
@@ -164,8 +164,8 @@
 | 156 | 374 | Guy Incognito |
 | 157 | 373 | Tyler Terrific |
 | 158 | 370 | Oscar Alberto Perez |
-| 159 | 368 | Brandon Crabbs |
-| 160 | 368 | Silly Zonebuilder |
+| 159 | 368 | Silly Zonebuilder |
+| 160 | 368 | Brandon Crabbs |
 | 161 | 365 | Leslie Nicole |
 | 162 | 361 | Danielle Kollias |
 | 163 | 361 | Melissa Adams |
@@ -211,8 +211,8 @@
 | 203 | 290 | Keshia Lyons |
 | 204 | 288 | Leah Kutz Zirbel |
 | 205 | 287 | Plucky Patternblock |
-| 206 | 286 | Brittney Orengo |
-| 207 | 286 | Sam Bishop |
+| 206 | 286 | Sam Bishop |
+| 207 | 286 | Brittney Orengo |
 | 208 | 284 | Mimi |
 | 209 | 282 | Matt Gooder |
 | 210 | 281 | Nikki Rae Gordon |
@@ -429,7 +429,7 @@
 | 421 | 152 | Michael Orris |
 | 422 | 152 | Sticherella |
 | 423 | 151 | Joseph Pace |
-| 424 | 151 | Walter Beltran |
+| 424 | 151 | Tony Pavelka |
 | 425 | 151 | Daresha Fair |
 | 426 | 151 | Walter Beltran |
 | 427 | 150 | PennyCandee |

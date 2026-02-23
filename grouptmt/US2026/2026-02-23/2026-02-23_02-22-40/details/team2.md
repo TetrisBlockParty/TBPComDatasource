@@ -40,8 +40,8 @@
 | 32 | 4199 | Claire Noland |
 | 33 | 4130 | Robert Diddle |
 | 34 | 4128 | Angela Pruitt |
-| 35 | 4120 | Corrine Hawks Soriano |
-| 36 | 4120 | Kristen Sceurman |
+| 35 | 4120 | Kristen Sceurman |
+| 36 | 4120 | Corrine Hawks Soriano |
 | 37 | 4033 | Jill Stroehlein |
 | 38 | 3895 | Nickie Baby |
 | 39 | 3770 | Brittany Alicia |
@@ -127,8 +127,8 @@
 | 119 | 1742 | Katrina Williams Balmir |
 | 120 | 1732 | Mindy Leigh Head |
 | 121 | 1699 | Jamie Main |
-| 122 | 1681 | Shandrica Lowe |
-| 123 | 1681 | Nett |
+| 122 | 1681 | Nett |
+| 123 | 1681 | Shandrica Lowe |
 | 124 | 1658 | Liberty |
 | 125 | 1657 | Qiana Sanders |
 | 126 | 1656 | Auntie B |
@@ -219,15 +219,15 @@
 | 211 | 1169 | Pacynthia Williams |
 | 212 | 1169 | Steven Marshaun |
 | 213 | 1159 | Carrie Trigg |
-| 214 | 1158 | Brittany Clark |
-| 215 | 1158 | Amy Sayers |
+| 214 | 1158 | Amy Sayers |
+| 215 | 1158 | Brittany Clark |
 | 216 | 1151 | Stacey Clement |
 | 217 | 1141 | Adam Erikson |
 | 218 | 1140 | Sarah Ridenour |
 | 219 | 1135 | Samantha Roberts |
 | 220 | 1131 | Prado |
-| 221 | 1127 | Dee |
-| 222 | 1127 | Catina Hutchison |
+| 221 | 1127 | Catina Hutchison |
+| 222 | 1127 | Dee |
 | 223 | 1126 | Dolores Russworn |
 | 224 | 1121 | Tommy Tha Boss Gunz |
 | 225 | 1117 | Sarah Freitas |
@@ -339,16 +339,16 @@
 | 331 | 832 | Woodys Glass |
 | 332 | 831 | Johnny Yeates |
 | 333 | 826 | Diallo Sparkman |
-| 334 | 824 | Danielle Johnson-Chandler |
-| 335 | 824 | Khalil Lowe |
+| 334 | 824 | Khalil Lowe |
+| 335 | 824 | Danielle Johnson-Chandler |
 | 336 | 823 | Alezandra Smith |
 | 337 | 821 | Angie Bolton Workman |
 | 338 | 821 | Cassie Mercer |
 | 339 | 818 | Lola Contreras |
 | 340 | 818 | Jessica Wayne Cornwall |
 | 341 | 816 | James Simms III |
-| 342 | 812 | Jackie Lucas |
-| 343 | 812 | Samantha Jo |
+| 342 | 812 | Samantha Jo |
+| 343 | 812 | Jackie Lucas |
 | 344 | 808 | Amber Brion |
 | 345 | 808 | Laura McCarthey |
 | 346 | 808 | Desire Rice |
@@ -398,8 +398,8 @@
 | 390 | 741 | Jánine Riggs |
 | 391 | 740 | Jerry Tempelmeyer |
 | 392 | 738 | Aimee Campbell |
-| 393 | 737 | Jeremy Parodi |
-| 394 | 737 | Chelle |
+| 393 | 737 | Chelle |
+| 394 | 737 | Jeremy Parodi |
 | 395 | 737 | Ginger |
 | 396 | 732 | Victoria Moore-Smith |
 | 397 | 731 | Allan Wayne Lamia |

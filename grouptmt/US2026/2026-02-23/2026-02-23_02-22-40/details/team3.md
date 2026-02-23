@@ -61,8 +61,8 @@
 | 53 | 1276 | Aaron Pitkin |
 | 54 | 1269 | Amber Jones |
 | 55 | 1258 | Jennifer Petrie |
-| 56 | 1256 | Mahman |
-| 57 | 1256 | Jessica Bechler |
+| 56 | 1256 | Jessica Bechler |
+| 57 | 1256 | Mahman |
 | 58 | 1191 | Nate Burnside |
 | 59 | 1167 | Elaine Webb Graves |
 | 60 | 1141 | Queen Kam |
@@ -90,8 +90,8 @@
 | 82 | 945 | Shonna Roberts |
 | 83 | 938 | Mandy Smith Oldham |
 | 84 | 935 | Snappy Glidepiece |
-| 85 | 926 | Angela M. Fletcher |
-| 86 | 926 | Judi Dobson |
+| 85 | 926 | Judi Dobson |
+| 86 | 926 | Angela M. Fletcher |
 | 87 | 923 | Christine Filson |
 | 88 | 921 | Michelle |
 | 89 | 913 | MissTaylor |
@@ -111,8 +111,8 @@
 | 103 | 831 | Angeline Joseph |
 | 104 | 830 | Stephanie Allmon |
 | 105 | 826 | Shane Wilson Jr. |
-| 106 | 816 | Araceli Parra |
-| 107 | 816 | Brenda Lee Vander Molen |
+| 106 | 816 | Brenda Lee Vander Molen |
+| 107 | 816 | Araceli Parra |
 | 108 | 800 | Lauren Girouard |
 | 109 | 799 | Dolores Falco |
 | 110 | 795 | Jesse Olive |
@@ -157,12 +157,12 @@
 | 149 | 582 | Natasha Jones |
 | 150 | 579 | Tasha Gillespie |
 | 151 | 574 | Morgan Martinez |
-| 152 | 572 | CeceGeGe |
-| 153 | 572 | Domo Washington |
+| 152 | 572 | Domo Washington |
+| 153 | 572 | CeceGeGe |
 | 154 | 571 | Nicole Myers |
 | 155 | 568 | Rachael McClain Owens |
-| 156 | 562 | Dave Herzog |
-| 157 | 562 | Louise Stacy Sisson |
+| 156 | 562 | Louise Stacy Sisson |
+| 157 | 562 | Dave Herzog |
 | 158 | 558 | Peppy Shifter |
 | 159 | 553 | LaTanya GeminiondaRise Johnson |
 | 160 | 546 | Cynthia Castros-Hampton |
@@ -216,8 +216,8 @@
 | 208 | 430 | Jeni Dow |
 | 209 | 430 | Joye Sims Binion |
 | 210 | 429 | Sherry Ogden |
-| 211 | 423 | Staci George Fitzsimmons |
-| 212 | 423 | Loopy Clusterer |
+| 211 | 423 | Loopy Clusterer |
+| 212 | 423 | Staci George Fitzsimmons |
 | 213 | 417 | Edwin Calvillo Jr. |
 | 214 | 415 | ren |
 | 215 | 414 | Fran Lin |
