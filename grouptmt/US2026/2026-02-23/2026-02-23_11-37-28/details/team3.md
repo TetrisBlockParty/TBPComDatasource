@@ -417,8 +417,8 @@
 | 409 | 267 | April Matthew Kibble |
 | 410 | 267 | Jul |
 | 411 | 266 | Daring Builder |
-| 412 | 266 | Quirky Dropzone |
-| 413 | 266 | Sarah Muradyan |
+| 412 | 266 | Sarah Muradyan |
+| 413 | 266 | Quirky Dropzone |
 | 414 | 265 | Heather Davis |
 | 415 | 265 | Ashley Lynn Marchese |
 | 416 | 265 | AlsoJess |
@@ -521,8 +521,8 @@
 | 513 | 214 | Jumpy Curvebuilder |
 | 514 | 214 | Crystal Hine |
 | 515 | 213 | Linda Draper |
-| 516 | 213 | Flashy Rumbler |
-| 517 | 213 | Jack Bo |
+| 516 | 213 | Jack Bo |
+| 517 | 213 | Flashy Rumbler |
 | 518 | 213 | Ktfreeee |
 | 519 | 212 | Beth Ingham |
 | 520 | 212 | Boldy Blocker |

@@ -354,8 +354,8 @@
 | 346 | 907 | Gene Mills |
 | 347 | 904 | John Bednarik |
 | 348 | 904 | Bee |
-| 349 | 903 | Eric Castaneda |
-| 350 | 903 | Giggy Blocker |
+| 349 | 903 | Giggy Blocker |
+| 350 | 903 | Eric Castaneda |
 | 351 | 902 | Diallo Sparkman |
 | 352 | 901 | Kevin Sees |
 | 353 | 899 | Felicia Lynn |
@@ -440,8 +440,8 @@
 | 432 | 764 | Victoria Regina Girolami |
 | 433 | 763 | Dreamy Blast |
 | 434 | 763 | Heather Causey |
-| 435 | 761 | Jerilyn Andrina |
-| 436 | 761 | Elisheva Mizrachi |
+| 435 | 761 | Elisheva Mizrachi |
+| 436 | 761 | Jerilyn Andrina |
 | 437 | 760 | Ashley Guernsey-Martin |
 | 438 | 760 | Cheech Dta |
 | 439 | 760 | Allan Wayne Lamia |
@@ -469,8 +469,8 @@
 | 461 | 730 | Hoppy Brickmatch |
 | 462 | 729 | goofinoff |
 | 463 | 728 | Mikayala Szaz |
-| 464 | 728 | Tom Riefer |
-| 465 | 728 | Dylan Thomason |
+| 464 | 728 | Dylan Thomason |
+| 465 | 728 | Tom Riefer |
 | 466 | 727 | BeQuo |
 | 467 | 726 | Joce Lynn |
 | 468 | 726 | Crystal Greene |
@@ -1080,8 +1080,8 @@
 | 1072 | 363 | Tammy Mitchell |
 | 1073 | 363 | Veronica Martin Trinkle |
 | 1074 | 362 | Boldy Brickfit |
-| 1075 | 362 | Megan Phillips |
-| 1076 | 362 | Del Davis |
+| 1075 | 362 | Del Davis |
+| 1076 | 362 | Megan Phillips |
 | 1077 | 361 | Mary Boss |
 | 1078 | 361 | Byung Bae Park |
 | 1079 | 361 | Tosa Puvapiromquan |
@@ -1093,8 +1093,8 @@
 | 1085 | 358 | Nutty Slice |
 | 1086 | 358 | Gina Gina |
 | 1087 | 358 | Kiorah Blaze |
-| 1088 | 358 | Dapper Setter |
-| 1089 | 358 | Luke Califf |
+| 1088 | 358 | Luke Califf |
+| 1089 | 358 | Dapper Setter |
 | 1090 | 357 | Snippy Block |
 | 1091 | 357 | Shannon Byrd |
 | 1092 | 357 | Elena Vap |
@@ -1136,14 +1136,14 @@
 | 1128 | 347 | Ann Marie Davis |
 | 1129 | 347 | Persipnei Cuesta |
 | 1130 | 346 | Kelsey |
-| 1131 | 346 | Zappy Dropmatch |
-| 1132 | 346 | Loopy Brickmatch |
+| 1131 | 346 | Loopy Brickmatch |
+| 1132 | 346 | Zappy Dropmatch |
 | 1133 | 345 | Brandi Fuller Cason |
 | 1134 | 345 | Rhianna DiLorenzo |
 | 1135 | 344 | Glenn Cobbins |
 | 1136 | 344 | J.L. Roberts |
-| 1137 | 344 | Swanky Snap |
-| 1138 | 344 | Dean Glenn |
+| 1137 | 344 | Dean Glenn |
+| 1138 | 344 | Swanky Snap |
 | 1139 | 343 | Alexandrea |
 | 1140 | 343 | Scott |
 | 1141 | 343 | Kat |
@@ -1152,11 +1152,11 @@
 | 1144 | 343 | Joshua Mullings |
 | 1145 | 342 | Patrick Fleming |
 | 1146 | 342 | Emoniee Sa'niaya |
-| 1147 | 342 | SwifftFox |
-| 1148 | 342 | Theresa Sterrett |
+| 1147 | 342 | Theresa Sterrett |
+| 1148 | 342 | SwifftFox |
 | 1149 | 341 | Alphia Price |
-| 1150 | 341 | Joseph Jones |
-| 1151 | 341 | Robin L. Vial |
+| 1150 | 341 | Robin L. Vial |
+| 1151 | 341 | Joseph Jones |
 | 1152 | 341 | Tara Merrill |
 | 1153 | 341 | Bubbly Brickline |
 | 1154 | 340 | RetroLemur |
@@ -1192,8 +1192,8 @@
 | 1184 | 334 | Tina Wright-Quigley |
 | 1185 | 334 | Melinda Avriett |
 | 1186 | 334 | Katie Joy McCombs |
-| 1187 | 333 | Shilo Anderson |
-| 1188 | 333 | Paula Martinez |
+| 1187 | 333 | Paula Martinez |
+| 1188 | 333 | Shilo Anderson |
 | 1189 | 333 | Erika Deer Kauffman |
 | 1190 | 332 | Steve Webb |
 | 1191 | 331 | Islandlife456 |

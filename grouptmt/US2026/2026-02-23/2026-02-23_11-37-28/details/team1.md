@@ -1931,24 +1931,24 @@
 | 1923 | 7 | Harry Johnson |
 | 1924 | 7 | Rene Heifner |
 | 1925 | 6 | Marcellus Royal |
-| 1926 | 6 | Harry Matthew |
-| 1927 | 6 | Kyle Schwarcz |
-| 1928 | 6 | Scott Reynolds |
-| 1929 | 6 | ~Tintta~ |
-| 1930 | 6 | Vicky Meanor |
-| 1931 | 6 | Ryan Douglas Mitchell |
-| 1932 | 6 | Linda Nys |
-| 1933 | 6 | Betsi Pittman Wade |
-| 1934 | 6 | Fatty Davis |
-| 1935 | 6 | Cory Ford |
-| 1936 | 6 | Tammy |
-| 1937 | 6 | Manifold |
-| 1938 | 6 | Mia Real |
-| 1939 | 6 | Dreamy Linkblock |
-| 1940 | 6 | Clever Pivotfall |
-| 1941 | 6 | Maya Denae Myrick |
-| 1942 | 6 | Jason Perez |
-| 1943 | 6 | Lee Corum |
+| 1926 | 6 | Kyle Schwarcz |
+| 1927 | 6 | Cory Ford |
+| 1928 | 6 | Fatty Davis |
+| 1929 | 6 | Jason Perez |
+| 1930 | 6 | ~Tintta~ |
+| 1931 | 6 | Mia Real |
+| 1932 | 6 | Vicky Meanor |
+| 1933 | 6 | Jessica Lang |
+| 1934 | 6 | Clever Pivotfall |
+| 1935 | 6 | Scott Reynolds |
+| 1936 | 6 | Linda Nys |
+| 1937 | 6 | Ryan Douglas Mitchell |
+| 1938 | 6 | Dreamy Linkblock |
+| 1939 | 6 | Manifold |
+| 1940 | 6 | Lee Corum |
+| 1941 | 6 | Harry Matthew |
+| 1942 | 6 | Tammy |
+| 1943 | 6 | Betsi Pittman Wade |
 | 1944 | 6 | Jaime Sunshine |
 | 1945 | 6 | Maya Denae Myrick |
 | 1946 | 5 | Kimberly Berry |
