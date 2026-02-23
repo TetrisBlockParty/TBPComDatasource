@@ -178,8 +178,8 @@
 | 170 | 507 | Nick Gray |
 | 171 | 504 | Deanna Deckard |
 | 172 | 501 | Ericca Eldridge |
-| 173 | 499 | Berklie Apedaile |
-| 174 | 499 | Andria Lynn |
+| 173 | 499 | Andria Lynn |
+| 174 | 499 | Berklie Apedaile |
 | 175 | 497 | Brandon Crabbs |
 | 176 | 496 | Cindy Looper |
 | 177 | 495 | Carrie Brian |
@@ -235,8 +235,8 @@
 | 227 | 409 | Antony Dwayne Beasley |
 | 228 | 403 | TinyLegoRose |
 | 229 | 400 | Brickh4us |
-| 230 | 399 | Lindsay Ball |
-| 231 | 399 | Jeff Brian Gates |
+| 230 | 399 | Jeff Brian Gates |
+| 231 | 399 | Lindsay Ball |
 | 232 | 398 | Tyler Terrific |
 | 233 | 395 | 030Synner |
 | 234 | 394 | Nita Wells |
@@ -247,8 +247,8 @@
 | 239 | 383 | Lauren Scott |
 | 240 | 383 | blockstar |
 | 241 | 382 | Sue Joyce Staats |
-| 242 | 381 | Shiny Fit |
-| 243 | 381 | Plucky Patternblock |
+| 242 | 381 | Plucky Patternblock |
+| 243 | 381 | Shiny Fit |
 | 244 | 381 | JPW |
 | 245 | 380 | Rio Rocha |
 | 246 | 379 | Backoff Recupe |
@@ -280,8 +280,8 @@
 | 272 | 350 | Jen Caldwell |
 | 273 | 349 | jim |
 | 274 | 348 | blasterB |
-| 275 | 347 | @ |
-| 276 | 347 | Daria Rycewicz |
+| 275 | 347 | Daria Rycewicz |
+| 276 | 347 | @ |
 | 277 | 347 | Gdiguy |
 | 278 | 345 | Milan Markeisha |
 | 279 | 343 | HastyGrabber |
@@ -305,13 +305,13 @@
 | 297 | 317 | Madison Sweere |
 | 298 | 317 | O block |
 | 299 | 316 | Stella |
-| 300 | 315 | Heather Bruce |
-| 301 | 315 | Vic |
+| 300 | 315 | Vic |
+| 301 | 315 | Heather Bruce |
 | 302 | 314 | Lora |
 | 303 | 313 | Angie Schmidt |
 | 304 | 313 | DonMega |
-| 305 | 311 | Nikki Rae Gordon |
-| 306 | 311 | Ak Jones |
+| 305 | 311 | Ak Jones |
+| 306 | 311 | Nikki Rae Gordon |
 | 307 | 311 | Laura |
 | 308 | 308 | Leah Kutz Zirbel |
 | 309 | 307 | Dizzy Matchzone |
