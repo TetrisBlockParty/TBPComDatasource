@@ -88,8 +88,8 @@
 | 80 | 764 | Valerie Roberts |
 | 81 | 759 | Lisa Davis |
 | 82 | 753 | TheNeesh50 |
-| 83 | 752 | Carolyn Wallace |
-| 84 | 752 | Shane Kalamata Platoon |
+| 83 | 752 | Shane Kalamata Platoon |
+| 84 | 752 | Carolyn Wallace |
 | 85 | 729 | Klo |
 | 86 | 728 | D3TROITB0RN74 |
 | 87 | 722 | Rica Mitchell |
@@ -108,8 +108,8 @@
 | 100 | 664 | Nugget |
 | 101 | 659 | Jamie Gustafson |
 | 102 | 650 | KJ Pool |
-| 103 | 647 | KM8 |
-| 104 | 647 | Shauna Havard |
+| 103 | 647 | Shauna Havard |
+| 104 | 647 | KM8 |
 | 105 | 639 | Chris Hartig |
 | 106 | 637 | Lori Walker |
 | 107 | 635 | Adawna Swires |
@@ -372,15 +372,15 @@
 | 364 | 220 | Ziggy |
 | 365 | 220 | Kenna Gunderland |
 | 366 | 220 | Dustin York |
-| 367 | 219 | Orchislactea |
-| 368 | 219 | Shane Vick |
+| 367 | 219 | Shane Vick |
+| 368 | 219 | Orchislactea |
 | 369 | 218 | ĥuf |
 | 370 | 218 | Janita Parrish |
 | 371 | 217 | Cheery Fitline |
 | 372 | 217 | Paito |
 | 373 | 217 | Alexandra Karavias |
 | 374 | 216 | Funky Risepiece |
-| 375 | 215 | Jen Mattei |
+| 375 | 215 | Squeezy Pearsall |
 | 376 | 215 | 07VHVW |
 | 377 | 215 | Jen Mattei |
 | 378 | 215 | Tanya Abernathy Jackson |
@@ -819,8 +819,8 @@
 | 811 | 91 | Tabi Williams |
 | 812 | 91 | Paul Abono |
 | 813 | 91 | Demont Darius |
-| 814 | 90 | Kelli Steinmetz |
-| 815 | 90 | Walid Elsabee |
+| 814 | 90 | Walid Elsabee |
+| 815 | 90 | Kelli Steinmetz |
 | 816 | 90 | Steve Sperino |
 | 817 | 90 | Chassidy Martin |
 | 818 | 90 | Bussy Bay |
@@ -1226,7 +1226,7 @@
 | 1218 | 47 | Raw Jean |
 | 1219 | 47 | Jamie Smalling |
 | 1220 | 46 | emd |
-| 1221 | 46 | Kat |
+| 1221 | 46 | Natalie;) |
 | 1222 | 46 | Valerie Eileen |
 | 1223 | 46 | Kat |
 | 1224 | 46 | Connie Mitchell-Smith |

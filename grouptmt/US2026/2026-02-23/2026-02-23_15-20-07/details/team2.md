@@ -440,8 +440,8 @@
 | 432 | 808 | Connie Jimenez |
 | 433 | 808 | Jánine Riggs |
 | 434 | 804 | Sarah DeHart |
-| 435 | 804 | Barry Britt |
-| 436 | 804 | Becca Coronado |
+| 435 | 804 | Becca Coronado |
+| 436 | 804 | Barry Britt |
 | 437 | 803 | Tiara Elizabeth Baker |
 | 438 | 802 | Jessicah Myers |
 | 439 | 801 | Diana Fitzwater |
@@ -582,8 +582,8 @@
 | 574 | 647 | CC |
 | 575 | 645 | James Smith |
 | 576 | 643 | Michelle Pike |
-| 577 | 642 | Samantha Scibelli |
-| 578 | 642 | snkylnk |
+| 577 | 642 | snkylnk |
+| 578 | 642 | Samantha Scibelli |
 | 579 | 642 | Michelle Fields |
 | 580 | 641 | Andre Love |
 | 581 | 641 | Snazzy Basepiece |
@@ -672,8 +672,8 @@
 | 664 | 577 | Daring Caster |
 | 665 | 576 | Leslie Johnson Guinto |
 | 666 | 576 | Angela Yantz |
-| 667 | 573 | Giggly Snap |
-| 668 | 573 | Vaniel Glover |
+| 667 | 573 | Vaniel Glover |
+| 668 | 573 | Giggly Snap |
 | 669 | 572 | Rachael Senard |
 | 670 | 572 | Alexandra Lynn |
 | 671 | 571 | mshir |

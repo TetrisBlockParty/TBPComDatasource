@@ -321,8 +321,8 @@
 | 313 | 360 | Dee Pratt |
 | 314 | 359 | Kelly |
 | 315 | 359 | Steven Fulater |
-| 316 | 358 | Roary Danner |
-| 317 | 358 | Heather Davis |
+| 316 | 358 | Heather Davis |
+| 317 | 358 | Roary Danner |
 | 318 | 358 | KayB |
 | 319 | 356 | Christian Werndl |
 | 320 | 354 | Andrew Thorson |

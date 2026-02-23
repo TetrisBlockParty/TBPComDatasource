@@ -149,8 +149,8 @@
 | 141 | 456 | Dee Perry |
 | 142 | 454 | Desiree Deschaine Havee |
 | 143 | 453 | Brandi Huntington |
-| 144 | 451 | ALFD |
-| 145 | 451 | Plucky Ziggy |
+| 144 | 451 | Plucky Ziggy |
+| 145 | 451 | ALFD |
 | 146 | 450 | lil mickey |
 | 147 | 448 | Sweet Baker |
 | 148 | 448 | Jazzy Framezone |
@@ -179,9 +179,9 @@
 | 171 | 399 | phrmblk24 |
 | 172 | 397 | Erin Rosberg |
 | 173 | 394 | Lori Bales |
-| 174 | 393 | Wisa |
-| 175 | 393 | Lehrin Maria |
-| 176 | 393 | Kimmie Kimms |
+| 174 | 393 | Kimmie Kimms |
+| 175 | 393 | Wisa |
+| 176 | 393 | Lehrin Maria |
 | 177 | 391 | Basment Living |
 | 178 | 387 | Carrie Smith |
 | 179 | 387 | Monica Donato |
@@ -269,8 +269,8 @@
 | 261 | 298 | Sweetts |
 | 262 | 297 | Diane Byrd |
 | 263 | 292 | Clever Cascadepiece |
-| 264 | 290 | Hellsin |
-| 265 | 290 | Tavia |
+| 264 | 290 | Tavia |
+| 265 | 290 | Hellsin |
 | 266 | 289 | Alenoush Karimian |
 | 267 | 288 | Bird Person |
 | 268 | 287 | Larissa Marie Nelson |
@@ -324,7 +324,7 @@
 | 316 | 255 | Beazel75 |
 | 317 | 254 | Dizzy Slider |
 | 318 | 254 | Silly Align |
-| 319 | 254 | Dizzy Slider |
+| 319 | 254 | Al Smith Jr |
 | 320 | 253 | Jamie Jury |
 | 321 | 253 | Cece Ibarra |
 | 322 | 253 | LD1 |
