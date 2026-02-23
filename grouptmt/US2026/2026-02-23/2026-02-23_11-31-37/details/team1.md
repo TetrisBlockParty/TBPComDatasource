@@ -91,8 +91,8 @@
 | 83 | 648 | Evie Khalil |
 | 84 | 647 | Jason Jones |
 | 85 | 600 | Greg Hart |
-| 86 | 598 | Erin Hodges Plumb |
-| 87 | 598 | Kellie |
+| 86 | 598 | Kellie |
+| 87 | 598 | Erin Hodges Plumb |
 | 88 | 588 | Lori Sanders- Davis |
 | 89 | 584 | Jen Sartain |
 | 90 | 583 | Theo Pinnow |
@@ -119,8 +119,8 @@
 | 111 | 491 | cc |
 | 112 | 489 | Deanna L Hermanson |
 | 113 | 489 | April Carroll |
-| 114 | 483 | Tdub |
-| 115 | 483 | Trina Gee |
+| 114 | 483 | Trina Gee |
+| 115 | 483 | Tdub |
 | 116 | 480 | Ty Brown |
 | 117 | 478 | Stephanie Zahn |
 | 118 | 477 | Tonya Beasley |
@@ -284,11 +284,11 @@
 | 276 | 255 | Beazel75 |
 | 277 | 255 | Giggly Builderline |
 | 278 | 254 | Al Smith Jr |
-| 279 | 253 | Cece Ibarra |
-| 280 | 253 | Jamie Jury |
+| 279 | 253 | Jamie Jury |
+| 280 | 253 | Cece Ibarra |
 | 281 | 252 | Dena Kayy |
-| 282 | 251 | MRdot Rooski |
-| 283 | 251 | Angela Fairbank |
+| 282 | 251 | Angela Fairbank |
+| 283 | 251 | MRdot Rooski |
 | 284 | 250 | Silly Align |
 | 285 | 249 | Tiffany Smith |
 | 286 | 247 | DaRascal |
@@ -618,13 +618,13 @@
 | 610 | 125 | Brynn Elizabeth |
 | 611 | 124 | Margie Olivas |
 | 612 | 124 | Brandi Egbert |
-| 613 | 123 | Chirpy Liner |
-| 614 | 123 | Jill King Oldham |
-| 615 | 123 | Lisa Marie |
-| 616 | 122 | Crystal Cheresnowsky |
-| 617 | 122 | Paul Osborne |
-| 618 | 122 | Oliver Hollins |
-| 619 | 122 | Amanda Wharton |
+| 613 | 123 | Jill King Oldham |
+| 614 | 123 | Lisa Marie |
+| 615 | 123 | Chirpy Liner |
+| 616 | 122 | Paul Osborne |
+| 617 | 122 | Crystal Cheresnowsky |
+| 618 | 122 | Amanda Wharton |
+| 619 | 122 | Oliver Hollins |
 | 620 | 122 | Purple |
 | 621 | 121 | Erres Jones |
 | 622 | 121 | Gremb |
@@ -800,7 +800,7 @@
 | 792 | 90 | Peachy Cascader |
 | 793 | 90 | Maria Maloney |
 | 794 | 90 | Grace Gieroski |
-| 795 | 90 | Melanie Kelley |
+| 795 | 90 | Jam |
 | 796 | 90 | Loony Patternbuilder |
 | 797 | 90 | Sharon Warren |
 | 798 | 90 | Jolly Basepiece |

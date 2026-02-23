@@ -358,8 +358,8 @@
 | 350 | 903 | Eric Castaneda |
 | 351 | 902 | Diallo Sparkman |
 | 352 | 901 | Kevin Sees |
-| 353 | 899 | Chevy |
-| 354 | 899 | Patrick Bartlett |
+| 353 | 899 | Patrick Bartlett |
+| 354 | 899 | Chevy |
 | 355 | 895 | Lisa Ongtowasruk |
 | 356 | 895 | Donna Colby |
 | 357 | 894 | Adira Brown |
@@ -517,8 +517,8 @@
 | 509 | 677 | Paul Combs |
 | 510 | 677 | Kayleigh Wisse |
 | 511 | 677 | Amanda Woodruff |
-| 512 | 676 | Nicky Jackson |
-| 513 | 676 | Roseanna Peloso |
+| 512 | 676 | Roseanna Peloso |
+| 513 | 676 | Nicky Jackson |
 | 514 | 675 | Lonne Emade |
 | 515 | 675 | Katelynn Hollen |
 | 516 | 674 | Ashley Munn |
@@ -711,15 +711,15 @@
 | 703 | 515 | Adam Simmons |
 | 704 | 515 | Gina Bahn |
 | 705 | 513 | MrsCandyfine As Wine Truss |
-| 706 | 512 | Leslie Jorgenson |
-| 707 | 512 | Bonita Kee |
+| 706 | 512 | Bonita Kee |
+| 707 | 512 | Leslie Jorgenson |
 | 708 | 512 | Kelly |
 | 709 | 512 | Nicole Sanqui |
 | 710 | 512 | Sassy Linkroll |
 | 711 | 511 | Kristie Wilcox |
 | 712 | 509 | Jordan Kaiser |
-| 713 | 509 | Perky Rollfit |
-| 714 | 509 | Toni Whipple |
+| 713 | 509 | Toni Whipple |
+| 714 | 509 | Perky Rollfit |
 | 715 | 508 | Daphne Jordan |
 | 716 | 507 | Lina Sanders |
 | 717 | 507 | Funky Caster |
@@ -731,8 +731,8 @@
 | 723 | 500 | Ryan Meilleur |
 | 724 | 500 | Amy Reynolds |
 | 725 | 499 | Demitri Smith |
-| 726 | 499 | Besma Ao |
-| 727 | 499 | Martina Gabrielle LaPolla |
+| 726 | 499 | Martina Gabrielle LaPolla |
+| 727 | 499 | Besma Ao |
 | 728 | 498 | Abimbola Bimbo |
 | 729 | 498 | Chummy Blockbuilder |
 | 730 | 497 | June E Hanson |
@@ -746,8 +746,8 @@
 | 738 | 495 | Brandon Jones |
 | 739 | 494 | Melanie Csikortos |
 | 740 | 494 | Cat Thompson |
-| 741 | 494 | Min |
-| 742 | 494 | Quinn |
+| 741 | 494 | Quinn |
+| 742 | 494 | Min |
 | 743 | 493 | Sue Leard |
 | 744 | 493 | Skyler Morgan |
 | 745 | 492 | Jason Kelly |

@@ -217,8 +217,8 @@
 | 209 | 320 | Lauren Scott |
 | 210 | 319 | Googenheim |
 | 211 | 318 | Chris Hartig |
-| 212 | 317 | Adawna Swires |
-| 213 | 317 | Madison Sweere |
+| 212 | 317 | Madison Sweere |
+| 213 | 317 | Adawna Swires |
 | 214 | 316 | Autumn Kumzi |
 | 215 | 313 | Milan Markeisha |
 | 216 | 312 | Casey Grabner |
@@ -392,8 +392,8 @@
 | 384 | 189 | Lauren Lamb |
 | 385 | 189 | Berklie Apedaile |
 | 386 | 189 | Cool Towerbuilder |
-| 387 | 188 | Frilly Blocky |
-| 388 | 188 | Sharyn Lemire |
+| 387 | 188 | Sharyn Lemire |
+| 388 | 188 | Frilly Blocky |
 | 389 | 187 | Jenny Wells-Oakley |
 | 390 | 186 | Dandy Cascadefit |
 | 391 | 185 | Rebecca Blake |
@@ -438,8 +438,8 @@
 | 430 | 171 | Terrance Fung |
 | 431 | 170 | Joshua W. Benton |
 | 432 | 170 | Elie Pean |
-| 433 | 170 | Peppy Drop |
-| 434 | 170 | Joshua W. Benton |
+| 433 | 170 | ChasingZen |
+| 434 | 170 | Peppy Drop |
 | 435 | 170 | Vamp |
 | 436 | 169 | Jessica Atkinson |
 | 437 | 169 | Joseph Pace |
@@ -474,8 +474,8 @@
 | 466 | 160 | Sho Nuff |
 | 467 | 160 | icequeenx |
 | 468 | 159 | Groovy Brickmatch |
-| 469 | 158 | Jasmine S Caldwell |
-| 470 | 158 | Jen Mattei |
+| 469 | 158 | Jen Mattei |
+| 470 | 158 | Jasmine S Caldwell |
 | 471 | 158 | Grann8 |
 | 472 | 157 | David Boggs |
 | 473 | 157 | LunaMoon |

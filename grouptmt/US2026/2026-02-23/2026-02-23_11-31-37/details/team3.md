@@ -195,9 +195,9 @@
 | 187 | 556 | Elissa S-k |
 | 188 | 548 | Danielle Balcom |
 | 189 | 547 | Staci George Fitzsimmons |
-| 190 | 546 | Tasha Schriewer |
+| 190 | 546 | Cynthia Castros-Hampton |
 | 191 | 546 | Mykal Burton |
-| 192 | 546 | Cynthia Castros-Hampton |
+| 192 | 546 | Tasha Schriewer |
 | 193 | 540 | Shawn Miller |
 | 194 | 531 | Chauntee Alfrey-Cardinale |
 | 195 | 531 | Sarah Cowan Burgos |
@@ -316,8 +316,8 @@
 | 308 | 342 | Cynthia Herrmann Egland |
 | 309 | 341 | Rick Poppen |
 | 310 | 341 | Lys |
-| 311 | 340 | Erika Thornton |
-| 312 | 340 | KayB |
+| 311 | 340 | KayB |
+| 312 | 340 | Erika Thornton |
 | 313 | 338 | fraulila |
 | 314 | 336 | Foltz Lee Kelli |
 | 315 | 335 | victory |
@@ -408,9 +408,9 @@
 | 400 | 272 | Eboni Starr |
 | 401 | 272 | Tay |
 | 402 | 269 | Goofy Fall |
-| 403 | 269 | Juliana Dottore |
+| 403 | 269 | Jess Bissett |
 | 404 | 269 | Samantha Worley |
-| 405 | 269 | Jess Bissett |
+| 405 | 269 | Juliana Dottore |
 | 406 | 268 | Jessica Lynn French |
 | 407 | 268 | Julia Nicole |
 | 408 | 267 | Michael Kimbro |
@@ -478,8 +478,8 @@
 | 470 | 236 | Loopy Fallzone |
 | 471 | 234 | Cheeky Twisterfit |
 | 472 | 233 | Tony Waters |
-| 473 | 233 | Anna Moeller |
-| 474 | 233 | Criss |
+| 473 | 233 | Criss |
+| 474 | 233 | Anna Moeller |
 | 475 | 232 | Sunny Tiltgrid |
 | 476 | 232 | Stephanie Hill |
 | 477 | 232 | Melanie Sherwood |
