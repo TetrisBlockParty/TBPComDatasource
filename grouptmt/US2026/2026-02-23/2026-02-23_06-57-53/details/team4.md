@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | KM8 |
-| 93 | 647 | Shauna Havard |
+| 92 | 647 | Shauna Havard |
+| 93 | 647 | KM8 |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -140,8 +140,8 @@
 | 132 | 451 | Peachy Fall |
 | 133 | 448 | Kristin Manee |
 | 134 | 447 | Ericca Eldridge |
-| 135 | 435 | Leslie Thomas |
-| 136 | 435 | Kristina Black |
+| 135 | 435 | Kristina Black |
+| 136 | 435 | Leslie Thomas |
 | 137 | 434 | Monica Daley |
 | 138 | 432 | Zippy Block |
 | 139 | 431 | Courtney Cicoria |
@@ -153,8 +153,8 @@
 | 145 | 418 | Marie-Pier Desjardins |
 | 146 | 418 | Lush Linkfall |
 | 147 | 416 | Chaz Duncan |
-| 148 | 414 | Swanky Fitline |
-| 149 | 414 | Nope Young |
+| 148 | 414 | Nope Young |
+| 149 | 414 | Swanky Fitline |
 | 150 | 412 | Jessica Bohlken |
 | 151 | 408 | Amanda Pauldo-Ivy |
 | 152 | 406 | Livvy |
@@ -186,8 +186,8 @@
 | 178 | 349 | Twisty Cascadezone |
 | 179 | 349 | Rafael Valentin |
 | 180 | 348 | April Rondinone |
-| 181 | 347 | Crystal Nicolette Moore |
-| 182 | 347 | Daria Rycewicz |
+| 181 | 347 | Daria Rycewicz |
+| 182 | 347 | Crystal Nicolette Moore |
 | 183 | 339 | David Lay |
 | 184 | 336 | Bio Nelly |
 | 185 | 335 | James Hurley Jr. |
@@ -214,8 +214,8 @@
 | 206 | 305 | Melvin Baird |
 | 207 | 304 | Lindsay Ball |
 | 208 | 301 | Andria Lynn |
-| 209 | 300 | Dana Scott |
-| 210 | 300 | Zakia Monae |
+| 209 | 300 | Zakia Monae |
+| 210 | 300 | Dana Scott |
 | 211 | 295 | Keshia Lyons |
 | 212 | 294 | Porkobello |
 | 213 | 294 | Calvin Cannon |
