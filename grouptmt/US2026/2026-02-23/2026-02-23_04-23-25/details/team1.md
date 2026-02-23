@@ -193,9 +193,9 @@
 | 185 | 316 | Reesey Enyart |
 | 186 | 315 | Danielle Little-Daugherty |
 | 187 | 314 | Tana |
-| 188 | 312 | Mike Ames |
-| 189 | 312 | Jessi Sauer |
-| 190 | 312 | Kimberly Garcia |
+| 188 | 312 | Kimberly Garcia |
+| 189 | 312 | Mike Ames |
+| 190 | 312 | Jessi Sauer |
 | 191 | 310 | Bloknboy |
 | 192 | 307 | Witty Builderfit |
 | 193 | 307 | femmefatale |
@@ -211,8 +211,8 @@
 | 203 | 295 | Sleepysloath5745 |
 | 204 | 294 | Bindi |
 | 205 | 293 | John Kim |
-| 206 | 291 | Brave Wrecker |
-| 207 | 291 | Giddy Cascade |
+| 206 | 291 | Giddy Cascade |
+| 207 | 291 | Brave Wrecker |
 | 208 | 290 | Speedy Liney |
 | 209 | 285 | Shanae Grant |
 | 210 | 283 | Amanda Holibaugh |

@@ -249,8 +249,8 @@
 | 241 | 259 | Montiette Mcglown |
 | 242 | 259 | Allen Lloyd |
 | 243 | 257 | PeaceOs |
-| 244 | 256 | Mylo Lipscomb |
-| 245 | 256 | Metsfan |
+| 244 | 256 | Metsfan |
+| 245 | 256 | Mylo Lipscomb |
 | 246 | 255 | Zethra Prenisha Rahming |
 | 247 | 253 | Autum Leigh |
 | 248 | 252 | John Brunetti |
@@ -356,7 +356,7 @@
 | 348 | 185 | Rebecca Blake |
 | 349 | 185 | Morti |
 | 350 | 183 | Darrin Rubalcava |
-| 351 | 183 | Russ Attitude |
+| 351 | 183 | Cozy Balancer |
 | 352 | 182 | Neil Ingham |
 | 353 | 182 | Dandy Cascadefit |
 | 354 | 182 | Ellen Durfee |

@@ -163,8 +163,8 @@
 | 155 | 595 | Nicole Myers |
 | 156 | 588 | Justin Ritter |
 | 157 | 587 | Louise Stacy Sisson |
-| 158 | 585 | Annie Marie |
-| 159 | 585 | Happy Tetriblast |
+| 158 | 585 | Happy Tetriblast |
+| 159 | 585 | Annie Marie |
 | 160 | 582 | Natasha Jones |
 | 161 | 579 | Tasha Gillespie |
 | 162 | 577 | Domo Washington |
@@ -234,8 +234,8 @@
 | 226 | 408 | Tiffany Ford |
 | 227 | 404 | Chasity |
 | 228 | 404 | Kristal C Lee |
-| 229 | 403 | Scott Lindsay |
-| 230 | 403 | Denita Mungro |
+| 229 | 403 | Denita Mungro |
+| 230 | 403 | Scott Lindsay |
 | 231 | 399 | Rebecca Funderburk Kirby |
 | 232 | 391 | Scott Carleton |
 | 233 | 391 | Marci Mize Fandrich |
@@ -326,8 +326,8 @@
 | 318 | 289 | Salena Whitlock |
 | 319 | 289 | Troy |
 | 320 | 288 | Stephanie Bradley |
-| 321 | 287 | Sabrina Hardrick |
-| 322 | 287 | Carol Cain Thurman |
+| 321 | 287 | Carol Cain Thurman |
+| 322 | 287 | Sabrina Hardrick |
 | 323 | 287 | Hoppy Patternline |
 | 324 | 286 | Micayah Stevens |
 | 325 | 284 | Cheryl Hinch Tenbrook |

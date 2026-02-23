@@ -212,8 +212,8 @@
 | 204 | 1245 | Cody Nishimura |
 | 205 | 1243 | Anna Edwards |
 | 206 | 1237 | Megan Ferguson Leone |
-| 207 | 1232 | Ambyre Patterson |
-| 208 | 1232 | Groovy Puzzle |
+| 207 | 1232 | Groovy Puzzle |
+| 208 | 1232 | Ambyre Patterson |
 | 209 | 1230 | Megan Garrick |
 | 210 | 1217 | Lucky Ladybug |
 | 211 | 1217 | Brooks Brooks |
@@ -577,8 +577,8 @@
 | 569 | 562 | Sabrena Yeisley |
 | 570 | 562 | AISlop |
 | 571 | 560 | SwampRebel |
-| 572 | 559 | Slip |
-| 573 | 559 | Anthony Huebel |
+| 572 | 559 | Anthony Huebel |
+| 573 | 559 | Slip |
 | 574 | 558 | Libby Hicks |
 | 575 | 556 | Crystal Greene |
 | 576 | 554 | Party d |
