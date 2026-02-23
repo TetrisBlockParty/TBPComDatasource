@@ -185,8 +185,8 @@
 | 177 | 695 | Samantha Greco |
 | 178 | 690 | Patricia White |
 | 179 | 684 | Nicole Myers |
-| 180 | 675 | Edwin Calvillo Jr. |
-| 181 | 675 | Angela Scott |
+| 180 | 675 | Angela Scott |
+| 181 | 675 | Edwin Calvillo Jr. |
 | 182 | 657 | Chasity |
 | 183 | 655 | Rochelle Hazelett |
 | 184 | 647 | Jennifer Lynn Fahrenholtz-Summers |
@@ -430,8 +430,8 @@
 | 422 | 314 | Tipsy Zonebuilder |
 | 423 | 313 | Hoppy Buildout |
 | 424 | 312 | Eric Caccavale |
-| 425 | 309 | Block Baddie |
-| 426 | 309 | Cheeky Snapper |
+| 425 | 309 | Cheeky Snapper |
+| 426 | 309 | Block Baddie |
 | 427 | 308 | Katrina Turner |
 | 428 | 308 | Sassy Brickmatch |
 | 429 | 308 | Rainbow77375 |

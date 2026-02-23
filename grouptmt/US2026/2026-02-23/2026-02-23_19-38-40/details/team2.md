@@ -354,8 +354,8 @@
 | 346 | 1041 | Binyah-Binyah |
 | 347 | 1040 | Taylor Phillips |
 | 348 | 1037 | Jessica Wayne Cornwall |
-| 349 | 1036 | Allison Lockyer |
-| 350 | 1036 | Amber Shoemaker |
+| 349 | 1036 | Amber Shoemaker |
+| 350 | 1036 | Allison Lockyer |
 | 351 | 1031 | Barbra Miller |
 | 352 | 1029 | Crystal Hoffman |
 | 353 | 1024 | Susan Perraut Jones |
@@ -460,8 +460,8 @@
 | 452 | 838 | Sheronda Jackson |
 | 453 | 837 | Christine Coughlin |
 | 454 | 836 | KhaosLord |
-| 455 | 835 | William David Swallow |
-| 456 | 835 | Moni Foxe |
+| 455 | 835 | Moni Foxe |
+| 456 | 835 | William David Swallow |
 | 457 | 834 | Montez Mancil |
 | 458 | 833 | Christie |
 | 459 | 833 | Dennis McLaurin |
@@ -574,8 +574,8 @@
 | 566 | 708 | Irene Jones |
 | 567 | 706 | Poldo Ilano |
 | 568 | 704 | Tansaria Couch-Butler |
-| 569 | 703 | Funky Drop |
-| 570 | 703 | Dannette Goldberg-Richards |
+| 569 | 703 | Dannette Goldberg-Richards |
+| 570 | 703 | Funky Drop |
 | 571 | 701 | Aishah Brice |
 | 572 | 700 | Vincent Petrella |
 | 573 | 700 | Beverly Owens |
@@ -596,8 +596,8 @@
 | 588 | 684 | Sleepypanda67 |
 | 589 | 683 | Jennifer Leigh |
 | 590 | 681 | Gloria Liu |
-| 591 | 679 | Cynthia Louann Rose |
-| 592 | 679 | Prette Qui |
+| 591 | 679 | Prette Qui |
+| 592 | 679 | Cynthia Louann Rose |
 | 593 | 679 | Regina Knight |
 | 594 | 679 | Kassandra Hunt |
 | 595 | 679 | James Louie |
