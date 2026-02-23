@@ -54,13 +54,13 @@
 | 46 | 938 | Denny Shives |
 | 47 | 936 | Rebecca Moulton Pinciaro |
 | 48 | 932 | Marvin Lou Martin |
-| 49 | 911 | Jeremy Steines |
-| 50 | 911 | Anthony Bryan Riva |
+| 49 | 911 | Anthony Bryan Riva |
+| 50 | 911 | Jeremy Steines |
 | 51 | 870 | BertMofo |
 | 52 | 863 | Pee |
 | 53 | 853 | TeeJ |
-| 54 | 846 | Lucille Truesdale |
-| 55 | 846 | Christine Marie |
+| 54 | 846 | Christine Marie |
+| 55 | 846 | Lucille Truesdale |
 | 56 | 845 | LisaJo Picken Buchanan |
 | 57 | 843 | Shelly Chandler |
 | 58 | 834 | quicksand420 |
@@ -79,8 +79,8 @@
 | 71 | 749 | Dustee Craddock-Harrison |
 | 72 | 742 | Carolyn Wallace |
 | 73 | 740 | Avy Absol |
-| 74 | 736 | Goatimus Lombardi |
-| 75 | 736 | Crystal Carroll |
+| 74 | 736 | Crystal Carroll |
+| 75 | 736 | Goatimus Lombardi |
 | 76 | 728 | D3TROITB0RN74 |
 | 77 | 723 | TheNeesh50 |
 | 78 | 706 | Lisa Davis |
@@ -124,8 +124,8 @@
 | 116 | 514 | Scott Jameson |
 | 117 | 514 | Serena Goodridge |
 | 118 | 513 | Erin Thomas |
-| 119 | 512 | Casey Jeffcoat |
-| 120 | 512 | Cristy Duerksen |
+| 119 | 512 | Cristy Duerksen |
+| 120 | 512 | Casey Jeffcoat |
 | 121 | 511 | Lori Walker |
 | 122 | 495 | Chastity Mitchell |
 | 123 | 482 | Ren Mc |
@@ -138,8 +138,8 @@
 | 130 | 458 | Twisty Clicky |
 | 131 | 451 | Peachy Fall |
 | 132 | 448 | Kristin Manee |
-| 133 | 435 | Leslie Thomas |
-| 134 | 435 | Kristina Black |
+| 133 | 435 | Kristina Black |
+| 134 | 435 | Leslie Thomas |
 | 135 | 434 | Monica Daley |
 | 136 | 432 | Zippy Block |
 | 137 | 431 | Courtney Cicoria |
@@ -182,8 +182,8 @@
 | 174 | 356 | George Nutt |
 | 175 | 354 | TRCuse |
 | 176 | 352 | Sue Joyce Staats |
-| 177 | 349 | Rafael Valentin |
-| 178 | 349 | Twisty Cascadezone |
+| 177 | 349 | Twisty Cascadezone |
+| 178 | 349 | Rafael Valentin |
 | 179 | 348 | April Rondinone |
 | 180 | 347 | Crystal Nicolette Moore |
 | 181 | 347 | Daria Rycewicz |
@@ -202,19 +202,19 @@
 | 194 | 321 | Meagan Nicole |
 | 195 | 320 | Lauren Scott |
 | 196 | 318 | Chris Hartig |
-| 197 | 316 | Autumn Kumzi |
-| 198 | 316 | Cursed Hag |
+| 197 | 316 | Cursed Hag |
+| 198 | 316 | Autumn Kumzi |
 | 199 | 311 | Mary Ann Pabukis |
 | 200 | 310 | Holly Jolly |
-| 201 | 307 | Michele Plunkett |
-| 202 | 307 | Cheery Risebuilder |
+| 201 | 307 | Cheery Risebuilder |
+| 202 | 307 | Michele Plunkett |
 | 203 | 306 | blockstar |
 | 204 | 305 | Melvin Baird |
 | 205 | 304 | Lindsay Ball |
 | 206 | 303 | Dihcheese444 |
 | 207 | 301 | Andria Lynn |
-| 208 | 300 | Dana Scott |
-| 209 | 300 | Zakia Monae |
+| 208 | 300 | Zakia Monae |
+| 209 | 300 | Dana Scott |
 | 210 | 295 | Keshia Lyons |
 | 211 | 294 | Porkobello |
 | 212 | 294 | Calvin Cannon |
@@ -230,8 +230,8 @@
 | 222 | 284 | Mimi |
 | 223 | 282 | Matt Gooder |
 | 224 | 282 | Kim Klutz Olson |
-| 225 | 281 | Nikki Rae Gordon |
-| 226 | 281 | Laura |
+| 225 | 281 | Laura |
+| 226 | 281 | Nikki Rae Gordon |
 | 227 | 280 | Rio Rocha |
 | 228 | 278 | Angela Geist Jusinski |
 | 229 | 278 | Sarah Brown |
@@ -253,8 +253,8 @@
 | 245 | 264 | ZeeZee |
 | 246 | 264 | Stella |
 | 247 | 263 | rebel4lyfe |
-| 248 | 262 | Selena Shaw |
-| 249 | 262 | BigSammy420 |
+| 248 | 262 | BigSammy420 |
+| 249 | 262 | Selena Shaw |
 | 250 | 261 | Zethra Prenisha Rahming |
 | 251 | 260 | Lori |
 | 252 | 260 | Carter Jones |

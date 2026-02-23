@@ -126,8 +126,8 @@
 | 118 | 769 | Kristie |
 | 119 | 764 | Groovy Catcher |
 | 120 | 762 | Speedy Bridger |
-| 121 | 752 | Raya |
-| 122 | 752 | Logan Naccarato |
+| 121 | 752 | Logan Naccarato |
+| 122 | 752 | Raya |
 | 123 | 748 | Adrian Marcel Pate |
 | 124 | 747 | Whitney Manuel |
 | 125 | 745 | JerseyJess |
@@ -289,8 +289,8 @@
 | 281 | 347 | Tye Stovall |
 | 282 | 346 | Tamara Deherrera |
 | 283 | 345 | gremicx |
-| 284 | 343 | Ashley Raines |
-| 285 | 343 | Ashley Rufus Bythcez |
+| 284 | 343 | Ashley Rufus Bythcez |
+| 285 | 343 | Ashley Raines |
 | 286 | 341 | Ashley Tookes |
 | 287 | 340 | KayB |
 | 288 | 339 | Cynthia Herrmann Egland |
@@ -335,8 +335,8 @@
 | 327 | 301 | Dee Pratt |
 | 328 | 300 | Foltz Lee Kelli |
 | 329 | 299 | Angie Harper |
-| 330 | 298 | Grams |
-| 331 | 298 | Dannie Litchard |
+| 330 | 298 | Dannie Litchard |
+| 331 | 298 | Grams |
 | 332 | 297 | kacihall |
 | 333 | 296 | Tracy Martin |
 | 334 | 296 | Donna |
@@ -648,7 +648,7 @@
 | 640 | 166 | Armi |
 | 641 | 166 | Chenoa Urban Sophicated Redy |
 | 642 | 166 | FATTY |
-| 643 | 166 | Armi |
+| 643 | 166 | Moimyzean |
 | 644 | 166 | Misha Sanders |
 | 645 | 165 | Erica Anderson |
 | 646 | 165 | Autumn Phillimore |
@@ -664,8 +664,8 @@
 | 656 | 162 | Stephanie Whitefield |
 | 657 | 162 | gravelgrinder |
 | 658 | 162 | Tony Tran |
-| 659 | 162 | Cathy Leger |
-| 660 | 162 | Elisha L Allman |
+| 659 | 162 | Elisha L Allman |
+| 660 | 162 | Cathy Leger |
 | 661 | 161 | James Lykes |
 | 662 | 161 | Paul Larsen |
 | 663 | 161 | Patty White |
@@ -739,16 +739,16 @@
 | 731 | 146 | Sara Dunn |
 | 732 | 146 | Vikkye Vizaniaris |
 | 733 | 146 | Geronimo |
-| 734 | 145 | Rank Stranger |
-| 735 | 145 | Quirky Snapfit |
+| 734 | 145 | Quirky Snapfit |
+| 735 | 145 | Rank Stranger |
 | 736 | 145 | Karen Picaboo |
 | 737 | 144 | Susan A Kinsey |
 | 738 | 144 | Janay Darkstallion Robinson |
 | 739 | 144 | Tiffany's TwinsRus Thrifty |
 | 740 | 144 | Clever Edgepiece |
 | 741 | 143 | Russell Hankinson |
-| 742 | 143 | Melissa Parlow-Callaway |
-| 743 | 143 | Lisa Lisa |
+| 742 | 143 | Lisa Lisa |
+| 743 | 143 | Melissa Parlow-Callaway |
 | 744 | 142 | Michelle Allers |
 | 745 | 142 | get et |
 | 746 | 142 | Giddy Basepiece |
