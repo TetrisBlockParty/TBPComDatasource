@@ -346,8 +346,8 @@
 | 338 | 386 | Philip Rock |
 | 339 | 386 | Kelly Wolf |
 | 340 | 382 | Amanda J. Mcneil-Anderson |
-| 341 | 381 | Joy Petroski |
-| 342 | 381 | Noettín Kan Zasnemoore |
+| 341 | 381 | Noettín Kan Zasnemoore |
+| 342 | 381 | Joy Petroski |
 | 343 | 381 | gremicx |
 | 344 | 379 | Kaitie Oliver |
 | 345 | 379 | Kelly |
@@ -458,8 +458,8 @@
 | 450 | 308 | Sassy Brickmatch |
 | 451 | 308 | Beejangles |
 | 452 | 308 | Katrina Turner |
-| 453 | 307 | Kristina Gardner |
-| 454 | 307 | Kristian Thurman |
+| 453 | 307 | Kristian Thurman |
+| 454 | 307 | Kristina Gardner |
 | 455 | 306 | Funky Brickster |
 | 456 | 306 | Valerie Tarkington |
 | 457 | 306 | Joseph Vargas |

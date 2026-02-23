@@ -270,8 +270,8 @@
 | 262 | 1312 | Julie Kresal |
 | 263 | 1304 | Sarah Ridenour |
 | 264 | 1303 | Ronnie Nelson |
-| 265 | 1302 | Angie Marie |
-| 266 | 1302 | Maria Escobar |
+| 265 | 1302 | Maria Escobar |
+| 266 | 1302 | Angie Marie |
 | 267 | 1300 | Tacara Cummings |
 | 268 | 1294 | Eric Carlson |
 | 269 | 1292 | Arlene Joy Belicina |
@@ -703,8 +703,8 @@
 | 695 | 623 | Victor Obiakarije |
 | 696 | 622 | Ben Barkley |
 | 697 | 621 | Moua Ying |
-| 698 | 621 | Taren Cowan |
-| 699 | 621 | Lewis Sturgeon |
+| 698 | 621 | Lewis Sturgeon |
+| 699 | 621 | Taren Cowan |
 | 700 | 620 | Macy Jarrett |
 | 701 | 618 | Marella Petilo |
 | 702 | 617 | Jason H Baker |
@@ -1537,7 +1537,7 @@
 | 1529 | 335 | Zippy Tumbler |
 | 1530 | 335 | Greenshades00 |
 | 1531 | 334 | Sammy Bear |
-| 1532 | 334 | Brooklynn Huckaby |
+| 1532 | 334 | April Atkins |
 | 1533 | 334 | Katie Joy McCombs |
 | 1534 | 334 | Brooklynn Huckaby |
 | 1535 | 334 | Melinda Avriett |

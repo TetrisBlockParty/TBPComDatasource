@@ -60,8 +60,8 @@
 | 52 | 1155 | Jae Job |
 | 53 | 1150 | Kimyatta Cavin |
 | 54 | 1105 | Ashley Ingram |
-| 55 | 1082 | Avy Absol |
-| 56 | 1082 | Dion Crommarty |
+| 55 | 1082 | Dion Crommarty |
+| 56 | 1082 | Avy Absol |
 | 57 | 1065 | Dustee Craddock-Harrison |
 | 58 | 1049 | Heather Tushner |
 | 59 | 1046 | Johnathan Martinez |
@@ -140,8 +140,8 @@
 | 132 | 584 | Carlton Unfiltered |
 | 133 | 575 | Jenna Ingersoll |
 | 134 | 574 | Carmethia Clemons Haslerig |
-| 135 | 573 | shar |
-| 136 | 573 | Cursed Hag |
+| 135 | 573 | Cursed Hag |
+| 136 | 573 | shar |
 | 137 | 561 | YoMomma |
 | 138 | 560 | Chastity Mitchell |
 | 139 | 551 | Ren Mc |
@@ -1337,7 +1337,7 @@
 | 1329 | 44 | De'Chon Millender-Rogers |
 | 1330 | 44 | Twisty Towerpiece |
 | 1331 | 44 | Heather Hilferty |
-| 1332 | 44 | Francesco Bradshaw |
+| 1332 | 44 | Dawn Plumb |
 | 1333 | 44 | Matt Tackett |
 | 1334 | 44 | Francesco Bradshaw |
 | 1335 | 43 | Michelle Shimel |
