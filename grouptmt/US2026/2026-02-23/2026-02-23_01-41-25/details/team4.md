@@ -86,8 +86,8 @@
 | 78 | 664 | Valerie Roberts |
 | 79 | 661 | Lisa Davis |
 | 80 | 659 | Jonathan Kimbrough |
-| 81 | 647 | Shauna Havard |
-| 82 | 647 | KM8 |
+| 81 | 647 | KM8 |
+| 82 | 647 | Shauna Havard |
 | 83 | 646 | Eric Mcgaughy |
 | 84 | 642 | Diana Houts |
 | 85 | 641 | Savannah Overdorf |
@@ -131,8 +131,8 @@
 | 123 | 448 | Kristin Manee |
 | 124 | 442 | Peachy Fall |
 | 125 | 435 | Leslie Thomas |
-| 126 | 431 | Jolly Dashfit |
-| 127 | 431 | Courtney Cicoria |
+| 126 | 431 | Courtney Cicoria |
+| 127 | 431 | Jolly Dashfit |
 | 128 | 429 | Ren Mc |
 | 129 | 427 | KJ Pool |
 | 130 | 421 | JIGsaw ~(•¿°)~ |
@@ -228,8 +228,8 @@
 | 220 | 267 | Holly |
 | 221 | 266 | Mr. Party |
 | 222 | 265 | Sarah Neathery |
-| 223 | 264 | Carlos Ramirez |
-| 224 | 264 | scott |
+| 223 | 264 | scott |
+| 224 | 264 | Carlos Ramirez |
 | 225 | 261 | Dihcheese444 |
 | 226 | 259 | Cheery Risebuilder |
 | 227 | 259 | Montiette Mcglown |

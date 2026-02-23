@@ -24,8 +24,8 @@
 | 16 | 2728 | Lauren d |
 | 17 | 2697 | River |
 | 18 | 2503 | Clever Roll |
-| 19 | 2287 | Brandon Green |
-| 20 | 2287 | Tetris Master |
+| 19 | 2287 | Tetris Master |
+| 20 | 2287 | Brandon Green |
 | 21 | 2203 | Ashley Jones |
 | 22 | 2180 | Laura Melton |
 | 23 | 2144 | Zippy Strikesnap |
@@ -86,8 +86,8 @@
 | 78 | 951 | Katie Knaus |
 | 79 | 945 | Shonna Roberts |
 | 80 | 938 | Mandy Smith Oldham |
-| 81 | 926 | Angela M. Fletcher |
-| 82 | 926 | Judi Dobson |
+| 81 | 926 | Judi Dobson |
+| 82 | 926 | Angela M. Fletcher |
 | 83 | 923 | Christine Filson |
 | 84 | 921 | Michelle |
 | 85 | 910 | Jay Horn |
@@ -172,8 +172,8 @@
 | 164 | 529 | Michael Nowogorski |
 | 165 | 528 | Silly Twist |
 | 166 | 516 | Danielle Balcom |
-| 167 | 506 | Stephanie Blkpep Davidson |
-| 168 | 506 | Sashay Tapae Simpson |
+| 167 | 506 | Sashay Tapae Simpson |
+| 168 | 506 | Stephanie Blkpep Davidson |
 | 169 | 504 | Jennifer Lynn Fahrenholtz-Summers |
 | 170 | 502 | Snappy Balancer |
 | 171 | 501 | Patti Skiles |
@@ -258,8 +258,8 @@
 | 250 | 352 | Samantha Lynn |
 | 251 | 351 | Eon Harris |
 | 252 | 349 | Amanda J. Mcneil-Anderson |
-| 253 | 347 | Rania Zaqout |
-| 254 | 347 | Philip Rock |
+| 253 | 347 | Philip Rock |
+| 254 | 347 | Rania Zaqout |
 | 255 | 346 | Tamara Deherrera |
 | 256 | 345 | Kelly |
 | 257 | 344 | Roary Danner |
@@ -303,7 +303,7 @@
 | 295 | 298 | Grams |
 | 296 | 297 | Cheeky Snapper |
 | 297 | 297 | kacihall |
-| 298 | 296 | Snazzy Filler |
+| 298 | 296 | Tracy Martin |
 | 299 | 296 | Donna |
 | 300 | 296 | Snazzy Filler |
 | 301 | 294 | fraulila |
