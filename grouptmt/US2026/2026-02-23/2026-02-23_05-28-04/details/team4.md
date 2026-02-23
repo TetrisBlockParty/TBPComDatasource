@@ -58,8 +58,8 @@
 | 50 | 873 | Marvin Lou Martin |
 | 51 | 863 | Pee |
 | 52 | 853 | TeeJ |
-| 53 | 846 | Christine Marie |
-| 54 | 846 | Lucille Truesdale |
+| 53 | 846 | Lucille Truesdale |
+| 54 | 846 | Christine Marie |
 | 55 | 845 | LisaJo Picken Buchanan |
 | 56 | 843 | Shelly Chandler |
 | 57 | 834 | quicksand420 |
@@ -79,8 +79,8 @@
 | 71 | 749 | Dustee Craddock-Harrison |
 | 72 | 742 | Carolyn Wallace |
 | 73 | 740 | Avy Absol |
-| 74 | 736 | Crystal Carroll |
-| 75 | 736 | Goatimus Lombardi |
+| 74 | 736 | Goatimus Lombardi |
+| 75 | 736 | Crystal Carroll |
 | 76 | 721 | TheNeesh50 |
 | 77 | 717 | D3TROITB0RN74 |
 | 78 | 706 | Lisa Davis |
@@ -156,8 +156,8 @@
 | 148 | 399 | Swanky Fitline |
 | 149 | 398 | Tyler Terrific |
 | 150 | 397 | Livvy |
-| 151 | 393 | Girl |
-| 152 | 393 | Carlton Unfiltered |
+| 151 | 393 | Carlton Unfiltered |
+| 152 | 393 | Girl |
 | 153 | 391 | Ramel Rhodes |
 | 154 | 389 | Joseph Guthrie |
 | 155 | 387 | Lucas J Sutton |

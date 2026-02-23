@@ -44,8 +44,8 @@
 | 36 | 4199 | Claire Noland |
 | 37 | 4128 | Angela Pruitt |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Corrine Hawks Soriano |
-| 40 | 4120 | Kristen Sceurman |
+| 39 | 4120 | Kristen Sceurman |
+| 40 | 4120 | Corrine Hawks Soriano |
 | 41 | 3813 | Devin Lee |
 | 42 | 3778 | Brittany Alicia |
 | 43 | 3736 | Alisha |
@@ -207,19 +207,19 @@
 | 199 | 1306 | Isabela Shaw |
 | 200 | 1300 | Tacara Cummings |
 | 201 | 1286 | Altamirano Michael |
-| 202 | 1282 | Ashley Rose Frederick |
-| 203 | 1282 | Tanya Parsons |
+| 202 | 1282 | Tanya Parsons |
+| 203 | 1282 | Ashley Rose Frederick |
 | 204 | 1278 | Lemonaide |
 | 205 | 1259 | Foxxo |
 | 206 | 1258 | Joyce Johnson Vaughn |
 | 207 | 1252 | Angel |
 | 208 | 1245 | Cody Nishimura |
 | 209 | 1237 | Megan Ferguson Leone |
-| 210 | 1232 | Ambyre Patterson |
-| 211 | 1232 | Groovy Puzzle |
+| 210 | 1232 | Groovy Puzzle |
+| 211 | 1232 | Ambyre Patterson |
 | 212 | 1230 | Megan Garrick |
-| 213 | 1217 | Brooks Brooks |
-| 214 | 1217 | Lucky Ladybug |
+| 213 | 1217 | Lucky Ladybug |
+| 214 | 1217 | Brooks Brooks |
 | 215 | 1214 | David Cudicio-Hayden |
 | 216 | 1213 | Pacynthia Williams |
 | 217 | 1210 | Jane Fong |
@@ -252,8 +252,8 @@
 | 244 | 1121 | Tommy Tha Boss Gunz |
 | 245 | 1121 | Sarah Freitas |
 | 246 | 1114 | Maria Escobar |
-| 247 | 1114 | Ginnell Browner |
-| 248 | 1114 | Kevin Walp |
+| 247 | 1114 | Kevin Walp |
+| 248 | 1114 | Ginnell Browner |
 | 249 | 1111 | Julay |
 | 250 | 1110 | Robin Kerby |
 | 251 | 1105 | Nerdy Clearfit |
@@ -367,8 +367,8 @@
 | 359 | 831 | Christina Lewis-Vickers |
 | 360 | 830 | Diallo Sparkman |
 | 361 | 829 | Jessica Wayne Cornwall |
-| 362 | 824 | Khalil Lowe |
-| 363 | 824 | Danielle Johnson-Chandler |
+| 362 | 824 | Danielle Johnson-Chandler |
+| 363 | 824 | Khalil Lowe |
 | 364 | 823 | Alezandra Smith |
 | 365 | 822 | Lola Contreras |
 | 366 | 821 | Angie Bolton Workman |

@@ -96,8 +96,8 @@
 | 88 | 570 | Cody Slav |
 | 89 | 562 | Denice Dee |
 | 90 | 537 | Tee Sheree |
-| 91 | 534 | Loony Fitzone |
-| 92 | 534 | Veronica Eve |
+| 91 | 534 | Veronica Eve |
+| 92 | 534 | Loony Fitzone |
 | 93 | 532 | Robert Benito |
 | 94 | 529 | Ryan Lunnin |
 | 95 | 522 | Sarah Lombardo |
@@ -285,8 +285,8 @@
 | 277 | 229 | Dino |
 | 278 | 228 | Adele Rahman |
 | 279 | 227 | Happy Snapbuild |
-| 280 | 226 | Glitzy Buildsnap |
-| 281 | 226 | Snappy Brickbuilder |
+| 280 | 226 | Snappy Brickbuilder |
+| 281 | 226 | Glitzy Buildsnap |
 | 282 | 224 | Jumpy Rotate |
 | 283 | 223 | Layzietyme |
 | 284 | 223 | Christina Backer |
