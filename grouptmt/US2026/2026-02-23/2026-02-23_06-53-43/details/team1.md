@@ -155,8 +155,8 @@
 | 147 | 383 | pjbeta |
 | 148 | 383 | Margo Wagner |
 | 149 | 380 | phrmblk24 |
-| 150 | 379 | Kimmie Kimms |
-| 151 | 379 | Austin James |
+| 150 | 379 | Austin James |
+| 151 | 379 | Kimmie Kimms |
 | 152 | 378 | Carrie Smith |
 | 153 | 376 | Death |
 | 154 | 376 | Brian Richardsson |
@@ -206,8 +206,8 @@
 | 198 | 317 | Sarah Roberts |
 | 199 | 316 | Reesey Enyart |
 | 200 | 315 | Danielle Little-Daugherty |
-| 201 | 314 | Snippy Wipebuilder |
-| 202 | 314 | Tana |
+| 201 | 314 | Tana |
+| 202 | 314 | Snippy Wipebuilder |
 | 203 | 312 | Jessi Sauer |
 | 204 | 312 | Kimberly Garcia |
 | 205 | 310 | Bloknboy |

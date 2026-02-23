@@ -222,8 +222,8 @@
 | 214 | 1232 | Groovy Puzzle |
 | 215 | 1230 | Megan Garrick |
 | 216 | 1221 | Jane Fong |
-| 217 | 1217 | Lucky Ladybug |
-| 218 | 1217 | Brooks Brooks |
+| 217 | 1217 | Brooks Brooks |
+| 218 | 1217 | Lucky Ladybug |
 | 219 | 1214 | David Cudicio-Hayden |
 | 220 | 1213 | Pacynthia Williams |
 | 221 | 1211 | Ricardo Burton |
@@ -313,8 +313,8 @@
 | 305 | 969 | Em Chen |
 | 306 | 969 | Boldy Cascadepiece |
 | 307 | 961 | Angela Lynn |
-| 308 | 958 | Brenda Messer |
-| 309 | 958 | Doowop40 |
+| 308 | 958 | Doowop40 |
+| 309 | 958 | Brenda Messer |
 | 310 | 957 | Block Master |
 | 311 | 956 | Phil J. Grombliniak |
 | 312 | 955 | Angela Bonquiqui Dinish |
@@ -378,8 +378,8 @@
 | 370 | 824 | Khalil Lowe |
 | 371 | 822 | Lola Contreras |
 | 372 | 821 | Angie Bolton Workman |
-| 373 | 821 | Cassie Mercer |
-| 374 | 821 | Arkei Luster |
+| 373 | 821 | Arkei Luster |
+| 374 | 821 | Cassie Mercer |
 | 375 | 816 | Beth |
 | 376 | 816 | James Simms III |
 | 377 | 812 | Samantha Jo |

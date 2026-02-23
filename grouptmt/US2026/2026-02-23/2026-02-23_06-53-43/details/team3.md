@@ -173,8 +173,8 @@
 | 165 | 591 | Michael Nowogorski |
 | 166 | 588 | Justin Ritter |
 | 167 | 587 | Louise Stacy Sisson |
-| 168 | 585 | Annie Marie |
-| 169 | 585 | Happy Tetriblast |
+| 168 | 585 | Happy Tetriblast |
+| 169 | 585 | Annie Marie |
 | 170 | 583 | Tasha Gillespie |
 | 171 | 582 | Natasha Jones |
 | 172 | 577 | Domo Washington |
@@ -231,8 +231,8 @@
 | 223 | 448 | Scott Carleton |
 | 224 | 437 | Loopy Clusterer |
 | 225 | 432 | Luciana Braganca Vieira |
-| 226 | 431 | Ammmmmmy |
-| 227 | 431 | Wendy Dearden |
+| 226 | 431 | Wendy Dearden |
+| 227 | 431 | Ammmmmmy |
 | 228 | 430 | Jeni Dow |
 | 229 | 418 | Rebecca Funderburk Kirby |
 | 230 | 414 | Fran Lin |
@@ -268,11 +268,11 @@
 | 260 | 368 | Stephanie Woods |
 | 261 | 368 | Sheila M Frazier |
 | 262 | 367 | Kristin Delibac Corrigan |
-| 263 | 366 | Gumbo |
-| 264 | 366 | Randy Clevenger |
+| 263 | 366 | Randy Clevenger |
+| 264 | 366 | Gumbo |
 | 265 | 365 | Noyb Adam |
-| 266 | 364 | Steffi Chris Dacones |
-| 267 | 364 | Carrie Huskey |
+| 266 | 364 | Carrie Huskey |
+| 267 | 364 | Steffi Chris Dacones |
 | 268 | 362 | Brandon Givens |
 | 269 | 360 | Cesar Barraza |
 | 270 | 359 | Sleepy |
@@ -285,8 +285,8 @@
 | 277 | 353 | Cyd061769 |
 | 278 | 353 | Dee Franklin |
 | 279 | 352 | Christian Werndl |
-| 280 | 351 | Eon Harris |
-| 281 | 351 | Blocked |
+| 280 | 351 | Blocked |
+| 281 | 351 | Eon Harris |
 | 282 | 350 | LaShey Thompson |
 | 283 | 349 | Amanda J. Mcneil-Anderson |
 | 284 | 347 | Betty Bóò |
@@ -563,8 +563,8 @@
 | 555 | 191 | Sarah Tschee |
 | 556 | 191 | Becca Engle |
 | 557 | 191 | Morgan Cudo |
-| 558 | 191 | Peachy Tower |
-| 559 | 191 | Polopypy |
+| 558 | 191 | Polopypy |
+| 559 | 191 | Peachy Tower |
 | 560 | 190 | Smiley Zone |
 | 561 | 189 | Jason |
 | 562 | 189 | Deseree Ewing |
