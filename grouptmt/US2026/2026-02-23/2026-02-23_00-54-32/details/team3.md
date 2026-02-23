@@ -131,8 +131,8 @@
 | 123 | 696 | Christine Niles |
 | 124 | 693 | Hasty Cascadefit |
 | 125 | 683 | Samantha Greco |
-| 126 | 674 | Patty Allen |
-| 127 | 674 | Leah Barnett |
+| 126 | 674 | Leah Barnett |
+| 127 | 674 | Patty Allen |
 | 128 | 668 | Betty Ivy |
 | 129 | 657 | Denise Nardoni |
 | 130 | 650 | Jd Morris |
@@ -444,7 +444,7 @@
 | 436 | 206 | Tammy Rosenberry |
 | 437 | 205 | Rachel Napper |
 | 438 | 205 | Bouncy Blockbuilder |
-| 439 | 205 | Rachel Napper |
+| 439 | 205 | Trey Ward |
 | 440 | 203 | Beth Ingham |
 | 441 | 202 | Tipsy Zonebuilder |
 | 442 | 202 | Melanie Sherwood |

@@ -40,8 +40,8 @@
 | 32 | 4174 | Vistabrat |
 | 33 | 4130 | Robert Diddle |
 | 34 | 4128 | Angela Pruitt |
-| 35 | 4120 | Corrine Hawks Soriano |
-| 36 | 4120 | Kristen Sceurman |
+| 35 | 4120 | Kristen Sceurman |
+| 36 | 4120 | Corrine Hawks Soriano |
 | 37 | 3895 | Nickie Baby |
 | 38 | 3793 | Jill Stroehlein |
 | 39 | 3759 | Brittany Alicia |
@@ -268,8 +268,8 @@
 | 260 | 979 | Hillary Crawford |
 | 261 | 976 | Maria Escobar |
 | 262 | 972 | Della Hole |
-| 263 | 972 | Juliana Marques Do Nascimento Gordy |
-| 264 | 972 | Barbra Miller |
+| 263 | 972 | Barbra Miller |
+| 264 | 972 | Juliana Marques Do Nascimento Gordy |
 | 265 | 958 | Brenda Messer |
 | 266 | 957 | Block Master |
 | 267 | 957 | Peppy Zone |

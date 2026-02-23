@@ -104,8 +104,8 @@
 | 96 | 485 | Cartier |
 | 97 | 480 | cc |
 | 98 | 474 | Tdub |
-| 99 | 472 | April Carroll |
-| 100 | 472 | Kristen Gideon |
+| 99 | 472 | Kristen Gideon |
+| 100 | 472 | April Carroll |
 | 101 | 466 | Hasbro Bros |
 | 102 | 462 | Luciano Moreira |
 | 103 | 454 | Evan Richmond |
@@ -135,8 +135,8 @@
 | 127 | 391 | Lori Bales |
 | 128 | 390 | Goose egg |
 | 129 | 387 | Emily Adelaide Wheatley |
-| 130 | 386 | Ty Brown |
-| 131 | 386 | David Miller |
+| 130 | 386 | David Miller |
+| 131 | 386 | Ty Brown |
 | 132 | 383 | pjbeta |
 | 133 | 379 | Desiree Deschaine Havee |
 | 134 | 379 | Austin James |
@@ -242,8 +242,8 @@
 | 234 | 244 | Melissa Lemmon |
 | 235 | 242 | ParisandCory Champagne |
 | 236 | 241 | Tyler Hertzog |
-| 237 | 240 | DaRascal |
-| 238 | 240 | Daring Fitclear |
+| 237 | 240 | Daring Fitclear |
+| 238 | 240 | DaRascal |
 | 239 | 239 | Lacy Wolfe |
 | 240 | 238 | Tiffany Smith |
 | 241 | 238 | Sarah Somers Gray |
@@ -305,8 +305,8 @@
 | 297 | 201 | Colleen Wise |
 | 298 | 201 | Beau Galvan |
 | 299 | 200 | Silly Align |
-| 300 | 199 | Christina Norman |
-| 301 | 199 | Tina Englert |
+| 300 | 199 | Tina Englert |
+| 301 | 199 | Christina Norman |
 | 302 | 198 | Happy Snapbuild |
 | 303 | 197 | build master |
 | 304 | 196 | .running. |

@@ -117,8 +117,8 @@
 | 109 | 499 | Christina LR |
 | 110 | 486 | Lori Walker |
 | 111 | 483 | Chilly Crasher |
-| 112 | 481 | Serena Goodridge |
-| 113 | 481 | Jessica Lynn Cutlip |
+| 112 | 481 | Jessica Lynn Cutlip |
+| 113 | 481 | Serena Goodridge |
 | 114 | 476 | Matt Summer |
 | 115 | 474 | Jenna Ingersoll |
 | 116 | 468 | Chastity Mitchell |
