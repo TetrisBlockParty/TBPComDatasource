@@ -54,8 +54,8 @@
 | 46 | 938 | Denny Shives |
 | 47 | 936 | Rebecca Moulton Pinciaro |
 | 48 | 932 | Marvin Lou Martin |
-| 49 | 911 | Anthony Bryan Riva |
-| 50 | 911 | Jeremy Steines |
+| 49 | 911 | Jeremy Steines |
+| 50 | 911 | Anthony Bryan Riva |
 | 51 | 870 | BertMofo |
 | 52 | 863 | Pee |
 | 53 | 853 | TeeJ |
@@ -69,8 +69,8 @@
 | 61 | 803 | Amelpss |
 | 62 | 788 | Julian Garcia |
 | 63 | 787 | Edward White |
-| 64 | 781 | Ashley Ingram |
-| 65 | 781 | Chilly Line |
+| 64 | 781 | Chilly Line |
+| 65 | 781 | Ashley Ingram |
 | 66 | 767 | Shannon Ferrari |
 | 67 | 766 | Robin Watters |
 | 68 | 765 | Denise Carlson |
@@ -79,8 +79,8 @@
 | 71 | 749 | Dustee Craddock-Harrison |
 | 72 | 742 | Carolyn Wallace |
 | 73 | 740 | Avy Absol |
-| 74 | 736 | Crystal Carroll |
-| 75 | 736 | Goatimus Lombardi |
+| 74 | 736 | Goatimus Lombardi |
+| 75 | 736 | Crystal Carroll |
 | 76 | 728 | D3TROITB0RN74 |
 | 77 | 723 | TheNeesh50 |
 | 78 | 706 | Lisa Davis |
@@ -88,8 +88,8 @@
 | 80 | 697 | Alyssa Papen |
 | 81 | 696 | Shane Kalamata Platoon |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Jonathan Kimbrough |
-| 84 | 684 | Kimyatta Cavin |
+| 83 | 684 | Kimyatta Cavin |
+| 84 | 684 | Jonathan Kimbrough |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | KM8 |
-| 93 | 647 | Shauna Havard |
+| 92 | 647 | Shauna Havard |
+| 93 | 647 | KM8 |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -151,8 +151,8 @@
 | 143 | 418 | Marie-Pier Desjardins |
 | 144 | 418 | Lush Linkfall |
 | 145 | 416 | Chaz Duncan |
-| 146 | 414 | Nope Young |
-| 147 | 414 | Swanky Fitline |
+| 146 | 414 | Swanky Fitline |
+| 147 | 414 | Nope Young |
 | 148 | 412 | Jessica Bohlken |
 | 149 | 408 | Amanda Pauldo-Ivy |
 | 150 | 406 | Damn Libra |
@@ -185,8 +185,8 @@
 | 177 | 349 | Twisty Cascadezone |
 | 178 | 349 | Rafael Valentin |
 | 179 | 348 | April Rondinone |
-| 180 | 347 | Daria Rycewicz |
-| 181 | 347 | Crystal Nicolette Moore |
+| 180 | 347 | Crystal Nicolette Moore |
+| 181 | 347 | Daria Rycewicz |
 | 182 | 339 | David Lay |
 | 183 | 336 | Bio Nelly |
 | 184 | 335 | James Hurley Jr. |
@@ -202,19 +202,19 @@
 | 194 | 321 | Meagan Nicole |
 | 195 | 320 | Lauren Scott |
 | 196 | 318 | Chris Hartig |
-| 197 | 316 | Cursed Hag |
-| 198 | 316 | Autumn Kumzi |
+| 197 | 316 | Autumn Kumzi |
+| 198 | 316 | Cursed Hag |
 | 199 | 311 | Mary Ann Pabukis |
 | 200 | 310 | Holly Jolly |
-| 201 | 307 | Cheery Risebuilder |
-| 202 | 307 | Michele Plunkett |
+| 201 | 307 | Michele Plunkett |
+| 202 | 307 | Cheery Risebuilder |
 | 203 | 306 | blockstar |
 | 204 | 305 | Melvin Baird |
 | 205 | 304 | Lindsay Ball |
 | 206 | 303 | Dihcheese444 |
 | 207 | 301 | Andria Lynn |
-| 208 | 300 | Zakia Monae |
-| 209 | 300 | Dana Scott |
+| 208 | 300 | Dana Scott |
+| 209 | 300 | Zakia Monae |
 | 210 | 295 | Keshia Lyons |
 | 211 | 294 | Porkobello |
 | 212 | 294 | Calvin Cannon |
@@ -316,14 +316,14 @@
 | 308 | 216 | mike |
 | 309 | 216 | Chantilly Laace |
 | 310 | 215 | Stephme310 |
-| 311 | 214 | Patron Anderson |
-| 312 | 214 | Stacey Stano |
+| 311 | 214 | Stacey Stano |
+| 312 | 214 | Patron Anderson |
 | 313 | 213 | Jackie Marie |
 | 314 | 212 | Brave Spinbuilder |
 | 315 | 212 | Joseph Edmonson |
 | 316 | 212 | Zany Shatterer |
 | 317 | 212 | Jason Bosco |
-| 318 | 212 | Brave Spinbuilder |
+| 318 | 212 | Mike Solo |
 | 319 | 211 | Chris Alexinas |
 | 320 | 210 | Ari Droff |
 | 321 | 209 | Marcus Todd |

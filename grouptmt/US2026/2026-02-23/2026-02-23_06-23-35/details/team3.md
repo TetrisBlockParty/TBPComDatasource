@@ -173,8 +173,8 @@
 | 165 | 591 | Michael Nowogorski |
 | 166 | 588 | Justin Ritter |
 | 167 | 587 | Louise Stacy Sisson |
-| 168 | 585 | Annie Marie |
-| 169 | 585 | Happy Tetriblast |
+| 168 | 585 | Happy Tetriblast |
+| 169 | 585 | Annie Marie |
 | 170 | 583 | Tasha Gillespie |
 | 171 | 582 | Natasha Jones |
 | 172 | 577 | Domo Washington |
@@ -209,11 +209,11 @@
 | 201 | 489 | Poppy Splitter |
 | 202 | 488 | Melissa Orth Hunter |
 | 203 | 485 | Dapper Snap |
-| 204 | 480 | Michael Johnson |
-| 205 | 480 | Danielle Allison |
+| 204 | 480 | Danielle Allison |
+| 205 | 480 | Michael Johnson |
 | 206 | 475 | Tessina Dewey-Mancino |
-| 207 | 473 | Connie Mohler-Fair |
-| 208 | 473 | Rachel |
+| 207 | 473 | Rachel |
+| 208 | 473 | Connie Mohler-Fair |
 | 209 | 471 | Jacqueline Rodriguez |
 | 210 | 471 | Mendoza Lee Christy |
 | 211 | 469 | Fallorina Susana |
@@ -231,8 +231,8 @@
 | 223 | 448 | Scott Carleton |
 | 224 | 437 | Loopy Clusterer |
 | 225 | 432 | Luciana Braganca Vieira |
-| 226 | 431 | Ammmmmmy |
-| 227 | 431 | Wendy Dearden |
+| 226 | 431 | Wendy Dearden |
+| 227 | 431 | Ammmmmmy |
 | 228 | 430 | Jeni Dow |
 | 229 | 414 | Fran Lin |
 | 230 | 410 | Stephanie Simpson |
@@ -268,8 +268,8 @@
 | 260 | 368 | Stephanie Woods |
 | 261 | 368 | Sheila M Frazier |
 | 262 | 367 | Kristin Delibac Corrigan |
-| 263 | 366 | Randy Clevenger |
-| 264 | 366 | Gumbo |
+| 263 | 366 | Gumbo |
+| 264 | 366 | Randy Clevenger |
 | 265 | 365 | Noyb Adam |
 | 266 | 364 | Steffi Chris Dacones |
 | 267 | 362 | Brandon Givens |
@@ -384,8 +384,8 @@
 | 376 | 269 | Jess Bissett |
 | 377 | 269 | Juliana Dottore |
 | 378 | 268 | Jessica Lynn French |
-| 379 | 267 | April Matthew Kibble |
-| 380 | 267 | Jul |
+| 379 | 267 | Jul |
+| 380 | 267 | April Matthew Kibble |
 | 381 | 267 | Michael Kimbro |
 | 382 | 266 | Quirky Dropzone |
 | 383 | 265 | angieelyn |
@@ -501,7 +501,7 @@
 | 493 | 212 | Beth Ingham |
 | 494 | 211 | El Chapa |
 | 495 | 211 | MizzMonick Smith |
-| 496 | 211 | El Chapa |
+| 496 | 211 | Michael Pleasant |
 | 497 | 210 | Maia |
 | 498 | 210 | Megan Riggins |
 | 499 | 210 | Kristian Thurman |
@@ -747,8 +747,8 @@
 | 739 | 144 | Susan A Kinsey |
 | 740 | 144 | Clever Edgepiece |
 | 741 | 143 | Russell Hankinson |
-| 742 | 143 | Lisa Lisa |
-| 743 | 143 | Melissa Parlow-Callaway |
+| 742 | 143 | Melissa Parlow-Callaway |
+| 743 | 143 | Lisa Lisa |
 | 744 | 142 | Michelle Allers |
 | 745 | 142 | Giggy Balanceblock |
 | 746 | 142 | Giddy Basepiece |
