@@ -90,8 +90,8 @@
 | 82 | 1244 | Lori Barnaby |
 | 83 | 1240 | Betty Ivy |
 | 84 | 1221 | Logan Naccarato |
-| 85 | 1213 | Nerdy Riseclear |
-| 86 | 1213 | Snappy Glidepiece |
+| 85 | 1213 | Snappy Glidepiece |
+| 86 | 1213 | Nerdy Riseclear |
 | 87 | 1212 | Amanda Adkins |
 | 88 | 1198 | Jd Morris |
 | 89 | 1187 | Danielle Mogg |
@@ -286,8 +286,8 @@
 | 278 | 449 | Mcathen |
 | 279 | 448 | Charles Perrone |
 | 280 | 448 | Scott Carleton |
-| 281 | 443 | Fancy Curver |
-| 282 | 443 | Stefanie LaPointe |
+| 281 | 443 | Stefanie LaPointe |
+| 282 | 443 | Fancy Curver |
 | 283 | 443 | Randy Clevenger |
 | 284 | 438 | Sleepy |
 | 285 | 437 | Loopy Clusterer |
@@ -350,14 +350,14 @@
 | 342 | 368 | Sheila M Frazier |
 | 343 | 368 | Stephanie Woods |
 | 344 | 367 | Swanky Snapclear |
-| 345 | 366 | KayB |
-| 346 | 366 | Jul |
-| 347 | 365 | LaShey Thompson |
-| 348 | 365 | Breanna Marsden |
+| 345 | 366 | Jul |
+| 346 | 366 | KayB |
+| 347 | 365 | Breanna Marsden |
+| 348 | 365 | LaShey Thompson |
 | 349 | 364 | ROODBOY |
 | 350 | 362 | Foltz Lee Kelli |
-| 351 | 362 | Brandon Givens |
-| 352 | 362 | Chummy Rumbler |
+| 351 | 362 | Chummy Rumbler |
+| 352 | 362 | Brandon Givens |
 | 353 | 361 | neci |
 | 354 | 359 | Steven Fulater |
 | 355 | 359 | Kristen Weese |

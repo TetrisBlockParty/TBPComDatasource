@@ -99,8 +99,8 @@
 | 91 | 706 | Plucky Fallzone |
 | 92 | 706 | Denice Dee |
 | 93 | 704 | Karin Gillen |
-| 94 | 703 | Kellie |
-| 95 | 703 | Angel Fowler |
+| 94 | 703 | Angel Fowler |
+| 95 | 703 | Kellie |
 | 96 | 689 | Lexuriuos Lifestlye |
 | 97 | 671 | Chirpy Smasher |
 | 98 | 661 | Kristi Johnson |
@@ -156,8 +156,8 @@
 | 148 | 482 | Sarah Somers Gray |
 | 149 | 478 | Adrian Esteban |
 | 150 | 477 | Tonya Beasley |
-| 151 | 476 | phrmblk24 |
-| 152 | 476 | Ly Phethmany |
+| 151 | 476 | Ly Phethmany |
+| 152 | 476 | phrmblk24 |
 | 153 | 475 | Plucky Ziggy |
 | 154 | 470 | Candy Jones |
 | 155 | 468 | Steve Schneider |
@@ -193,8 +193,8 @@
 | 185 | 410 | Mike Ames |
 | 186 | 408 | John J. Cronin |
 | 187 | 406 | canbrick |
-| 188 | 404 | Tawnya Peltonen |
-| 189 | 404 | Basment Living |
+| 188 | 404 | Basment Living |
+| 189 | 404 | Tawnya Peltonen |
 | 190 | 402 | Chris K |
 | 191 | 401 | Michelle Beres |
 | 192 | 397 | Erin Rosberg |
@@ -401,13 +401,13 @@
 | 393 | 236 | Snappy Bridgepiece |
 | 394 | 236 | Marie White |
 | 395 | 235 | Nutty Glide |
-| 396 | 235 | Ariel Whittington |
-| 397 | 235 | Jumpy Rotate |
+| 396 | 235 | Jumpy Rotate |
+| 397 | 235 | Ariel Whittington |
 | 398 | 234 | Brandie Gallegos |
 | 399 | 233 | Melissa Bires Hussar |
-| 400 | 232 | Jennifer Olewnik Soborowski |
-| 401 | 232 | Itspaigebro |
-| 402 | 232 | Mary Sheets |
+| 400 | 232 | Itspaigebro |
+| 401 | 232 | Mary Sheets |
+| 402 | 232 | Jennifer Olewnik Soborowski |
 | 403 | 230 | Panda Thagreat |
 | 404 | 228 | Amber Dee |
 | 405 | 227 | Happy Snapbuild |

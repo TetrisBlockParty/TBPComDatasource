@@ -164,8 +164,8 @@
 | 156 | 508 | Twisty Clicky |
 | 157 | 502 | Ellen Durfee |
 | 158 | 499 | Ericca Eldridge |
-| 159 | 498 | Melissa Adams |
-| 160 | 498 | Nope Young |
+| 159 | 498 | Nope Young |
+| 160 | 498 | Melissa Adams |
 | 161 | 496 | Jessica Lynn Cutlip |
 | 162 | 491 | Carrie Brian |
 | 163 | 491 | Jade Rian |
@@ -376,8 +376,8 @@
 | 368 | 248 | Jose Dejesus |
 | 369 | 246 | giantslover514 |
 | 370 | 245 | Jen Mattei |
-| 371 | 244 | Elizabeth Tinoco |
-| 372 | 244 | Perky Piecegrid |
+| 371 | 244 | Perky Piecegrid |
+| 372 | 244 | Elizabeth Tinoco |
 | 373 | 243 | Val Erie |
 | 374 | 242 | PurpleMoonMa |
 | 375 | 242 | Jason Frehner |

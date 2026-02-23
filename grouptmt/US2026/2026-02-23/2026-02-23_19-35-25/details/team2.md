@@ -460,8 +460,8 @@
 | 452 | 838 | Sheronda Jackson |
 | 453 | 837 | Christine Coughlin |
 | 454 | 836 | KhaosLord |
-| 455 | 835 | William David Swallow |
-| 456 | 835 | Moni Foxe |
+| 455 | 835 | Moni Foxe |
+| 456 | 835 | William David Swallow |
 | 457 | 834 | Montez Mancil |
 | 458 | 833 | Christie |
 | 459 | 833 | Dennis McLaurin |
@@ -680,9 +680,9 @@
 | 672 | 621 | Taren Cowan |
 | 673 | 620 | Macy Jarrett |
 | 674 | 618 | Marella Petilo |
-| 675 | 617 | Kacee Conrad Bock |
-| 676 | 617 | Jason H Baker |
-| 677 | 617 | Biggest thing |
+| 675 | 617 | Biggest thing |
+| 676 | 617 | Kacee Conrad Bock |
+| 677 | 617 | Jason H Baker |
 | 678 | 616 | Polly Pritchard Chesler |
 | 679 | 615 | Julio A Laracuente |
 | 680 | 613 | Audrey Jones |
