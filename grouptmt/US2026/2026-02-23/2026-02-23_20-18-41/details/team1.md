@@ -55,8 +55,8 @@
 | 47 | 1126 | Tipsy Column |
 | 48 | 1126 | Tater |
 | 49 | 1122 | Kristen Gideon |
-| 50 | 1114 | Andrea Dañielle Ortiz |
-| 51 | 1114 | Jayme Sellers |
+| 50 | 1114 | Jayme Sellers |
+| 51 | 1114 | Andrea Dañielle Ortiz |
 | 52 | 1074 | Cheeky Twistslam |
 | 53 | 1061 | Carrie Beck Geartz |
 | 54 | 1032 | Kathi Snustad |
@@ -396,8 +396,8 @@
 | 388 | 245 | LC |
 | 389 | 244 | Sarah Marie |
 | 390 | 243 | Bouncy Grid |
-| 391 | 242 | Tamara Brown |
-| 392 | 242 | John Ramirez |
+| 391 | 242 | John Ramirez |
+| 392 | 242 | Tamara Brown |
 | 393 | 241 | Zesty Brickzone |
 | 394 | 240 | Nathan William |
 | 395 | 239 | Ed Franz Jr |

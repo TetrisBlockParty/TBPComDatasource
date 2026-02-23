@@ -59,8 +59,8 @@
 | 51 | 1147 | Jae Job |
 | 52 | 1099 | Ashley Ingram |
 | 53 | 1085 | Kimyatta Cavin |
-| 54 | 1082 | Dion Crommarty |
-| 55 | 1082 | Avy Absol |
+| 54 | 1082 | Avy Absol |
+| 55 | 1082 | Dion Crommarty |
 | 56 | 1082 | Dawn Alexander |
 | 57 | 1049 | Heather Tushner |
 | 58 | 1046 | Johnathan Martinez |
@@ -208,11 +208,11 @@
 | 200 | 423 | Lori |
 | 201 | 422 | Zakia Monae |
 | 202 | 422 | Berklie Apedaile |
-| 203 | 421 | Sam Bishop |
-| 204 | 421 | Kesha Brady |
+| 203 | 421 | Kesha Brady |
+| 204 | 421 | Sam Bishop |
 | 205 | 421 | JIGsaw ~(•¿°)~ |
-| 206 | 418 | Lush Linkfall |
-| 207 | 418 | Marie-Pier Desjardins |
+| 206 | 418 | Marie-Pier Desjardins |
+| 207 | 418 | Lush Linkfall |
 | 208 | 413 | Circuit8 |
 | 209 | 413 | John Brunetti |
 | 210 | 412 | Chris Bernstein |
@@ -264,8 +264,8 @@
 | 256 | 355 | David Lay |
 | 257 | 352 | scott |
 | 258 | 350 | Jen Caldwell |
-| 259 | 347 | Gdiguy |
-| 260 | 347 | Bio Nelly |
+| 259 | 347 | Bio Nelly |
+| 260 | 347 | Gdiguy |
 | 261 | 347 | Daria Rycewicz |
 | 262 | 345 | Chaz |
 | 263 | 343 | HastyGrabber |
@@ -617,8 +617,8 @@
 | 609 | 150 | Kristin Rose Nutter |
 | 610 | 150 | Glitzy Crasher |
 | 611 | 149 | Boldy Linkpiece |
-| 612 | 147 | Hasty Fitzone |
-| 613 | 147 | Mike |
+| 612 | 147 | Mike |
+| 613 | 147 | Hasty Fitzone |
 | 614 | 147 | Jay28 |
 | 615 | 146 | Groovy Gridlock |
 | 616 | 146 | Oleg Zakharskiy |
@@ -631,8 +631,8 @@
 | 623 | 143 | Sherri |
 | 624 | 142 | Frank Cook |
 | 625 | 142 | Hyper Matchclear |
-| 626 | 142 | Peace |
-| 627 | 142 | Katie Linneman-Rowland |
+| 626 | 142 | Katie Linneman-Rowland |
+| 627 | 142 | Peace |
 | 628 | 142 | GTxIrishman |
 | 629 | 141 | Courtney Angel |
 | 630 | 141 | Lori Goudy |
