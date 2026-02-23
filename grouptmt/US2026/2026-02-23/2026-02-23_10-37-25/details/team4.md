@@ -64,8 +64,8 @@
 | 56 | 863 | Pee |
 | 57 | 859 | Christina LR |
 | 58 | 859 | TeeJ |
-| 59 | 846 | Lucille Truesdale |
-| 60 | 846 | Christine Marie |
+| 59 | 846 | Christine Marie |
+| 60 | 846 | Lucille Truesdale |
 | 61 | 845 | LisaJo Picken Buchanan |
 | 62 | 834 | quicksand420 |
 | 63 | 807 | Amelpss |
@@ -163,8 +163,8 @@
 | 155 | 414 | Nope Young |
 | 156 | 413 | Circuit8 |
 | 157 | 412 | Jessica Bohlken |
-| 158 | 406 | Damn Libra |
-| 159 | 406 | Livvy |
+| 158 | 406 | Livvy |
+| 159 | 406 | Damn Libra |
 | 160 | 403 | Keith Kelley |
 | 161 | 402 | Lucas J Sutton |
 | 162 | 398 | Tyler Terrific |
@@ -194,8 +194,8 @@
 | 186 | 352 | Sue Joyce Staats |
 | 187 | 350 | Carly Alexis |
 | 188 | 349 | Rafael Valentin |
-| 189 | 348 | April Rondinone |
-| 190 | 348 | David Lay |
+| 189 | 348 | David Lay |
+| 190 | 348 | April Rondinone |
 | 191 | 347 | Crystal Nicolette Moore |
 | 192 | 347 | Daria Rycewicz |
 | 193 | 347 | Bio Nelly |
@@ -205,8 +205,8 @@
 | 197 | 336 | JPW |
 | 198 | 332 | HastyGrabber |
 | 199 | 331 | Alan George LaRage |
-| 200 | 330 | blockstar |
-| 201 | 330 | Kathy Brookins |
+| 200 | 330 | Kathy Brookins |
+| 201 | 330 | blockstar |
 | 202 | 328 | scott |
 | 203 | 327 | J-Rizzle |
 | 204 | 324 | TinyLegoRose |
@@ -220,15 +220,15 @@
 | 212 | 313 | Milan Markeisha |
 | 213 | 312 | Dihcheese444 |
 | 214 | 312 | Casey Grabner |
-| 215 | 311 | Nikki Rae Gordon |
-| 216 | 311 | Mary Ann Pabukis |
+| 215 | 311 | Mary Ann Pabukis |
+| 216 | 311 | Nikki Rae Gordon |
 | 217 | 310 | Holly Jolly |
 | 218 | 307 | Cheery Risebuilder |
 | 219 | 307 | Michele Plunkett |
 | 220 | 306 | mike |
 | 221 | 305 | Melvin Baird |
-| 222 | 304 | Gdiguy |
-| 223 | 304 | Lindsay Ball |
+| 222 | 304 | Lindsay Ball |
+| 223 | 304 | Gdiguy |
 | 224 | 301 | Andria Lynn |
 | 225 | 300 | Dana Scott |
 | 226 | 297 | Lori |
@@ -286,8 +286,8 @@
 | 278 | 253 | Autum Leigh |
 | 279 | 251 | Carol Ricks Raymond |
 | 280 | 249 | Ak Jones |
-| 281 | 248 | Angelito |
-| 282 | 248 | Chirpy Basepiece |
+| 281 | 248 | Chirpy Basepiece |
+| 282 | 248 | Angelito |
 | 283 | 248 | Jose Dejesus |
 | 284 | 245 | 23 |
 | 285 | 244 | Christina Black |
@@ -300,7 +300,7 @@
 | 292 | 240 | Kim Hunt |
 | 293 | 239 | Laura Hosford |
 | 294 | 239 | Joanna |
-| 295 | 239 | Laura Hosford |
+| 295 | 239 | Denise B |
 | 296 | 238 | 中山成巳 |
 | 297 | 237 | Christine Therrien |
 | 298 | 235 | LaDonna LovinmesomeMe Lambert |
@@ -561,19 +561,19 @@
 | 553 | 130 | Holly Tracey-Grimes |
 | 554 | 130 | Gigglelymomof2 |
 | 555 | 130 | KoolMom9907 |
-| 556 | 129 | Jessica Wells |
+| 556 | 129 | GTxIrishman |
 | 557 | 129 | Tamika Starkey |
-| 558 | 129 | Dreamy Snapgrid |
-| 559 | 129 | GTxIrishman |
+| 558 | 129 | Jessica Wells |
+| 559 | 129 | Dreamy Snapgrid |
 | 560 | 128 | Zesty Linkgrid |
 | 561 | 128 | Lazy Glidepiece |
 | 562 | 128 | Raymond Roberts |
 | 563 | 127 | Jay You |
-| 564 | 126 | Jennifer Renee |
-| 565 | 126 | PAPatty |
-| 566 | 126 | Spicy Cascadezone |
-| 567 | 125 | ImJustMe |
-| 568 | 125 | Kelly Adams Carnahan |
+| 564 | 126 | Spicy Cascadezone |
+| 565 | 126 | Jennifer Renee |
+| 566 | 126 | PAPatty |
+| 567 | 125 | Kelly Adams Carnahan |
+| 568 | 125 | ImJustMe |
 | 569 | 125 | Christina Nabrizny |
 | 570 | 124 | Raeann Gibson |
 | 571 | 124 | Cheery Towerzone |
@@ -720,7 +720,7 @@
 | 712 | 98 | Bob N Alisha Hinojosa |
 | 713 | 98 | Manuel Groleau |
 | 714 | 98 | Bad company |
-| 715 | 98 | Manuel Groleau |
+| 715 | 98 | Diamond Johnson |
 | 716 | 98 | Maurice Daniels |
 | 717 | 98 | Jessi Cinotto |
 | 718 | 97 | Rick SJ |

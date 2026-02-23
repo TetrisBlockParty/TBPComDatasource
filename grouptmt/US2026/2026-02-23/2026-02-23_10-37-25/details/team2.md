@@ -387,8 +387,8 @@
 | 379 | 832 | Nicole L Morelli |
 | 380 | 831 | Christina Lewis-Vickers |
 | 381 | 830 | Smashanator |
-| 382 | 829 | Jessica Wayne Cornwall |
-| 383 | 829 | Angie Bolton Workman |
+| 382 | 829 | Angie Bolton Workman |
+| 383 | 829 | Jessica Wayne Cornwall |
 | 384 | 828 | Kimmy Newman |
 | 385 | 825 | Jeremy Parodi |
 | 386 | 824 | Khalil Lowe |
@@ -638,8 +638,8 @@
 | 630 | 566 | Isabelle Bonneau |
 | 631 | 566 | SwampRebel |
 | 632 | 564 | Stacey Tranchida |
-| 633 | 563 | Frisky Clearpiece |
-| 634 | 563 | Nat |
+| 633 | 563 | Nat |
+| 634 | 563 | Frisky Clearpiece |
 | 635 | 562 | Sabrena Yeisley |
 | 636 | 559 | Alexx Anaya |
 | 637 | 559 | Anthony Huebel |
@@ -647,11 +647,11 @@
 | 639 | 556 | Joice Hansen |
 | 640 | 555 | Frisky Riserbuilder |
 | 641 | 555 | Misty Mitchell |
-| 642 | 554 | Bubbly Snapfit |
-| 643 | 554 | Dizzy Zone |
+| 642 | 554 | Dizzy Zone |
+| 643 | 554 | Bubbly Snapfit |
 | 644 | 554 | Tra Barnum |
-| 645 | 554 | Fi Ne |
-| 646 | 554 | Laquetta Royston |
+| 645 | 554 | Laquetta Royston |
+| 646 | 554 | Fi Ne |
 | 647 | 554 | Party d |
 | 648 | 553 | Kelli Wells |
 | 649 | 551 | Cynthia Louann Rose |
@@ -670,8 +670,8 @@
 | 662 | 544 | Armonie Smith |
 | 663 | 542 | Jarboe |
 | 664 | 540 | Lee Harper |
-| 665 | 538 | Jess Morrison |
-| 666 | 538 | Belle Mari |
+| 665 | 538 | Belle Mari |
+| 666 | 538 | Jess Morrison |
 | 667 | 538 | Mamachelle Eisweirth |
 | 668 | 537 | Kori Beth Babb |
 | 669 | 536 | Rhonda Petro |

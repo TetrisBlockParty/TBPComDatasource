@@ -76,8 +76,8 @@
 | 68 | 1264 | Amanda L Baker |
 | 69 | 1258 | Danielle Cutler |
 | 70 | 1256 | Jessica Bechler |
-| 71 | 1213 | Nerdy Riseclear |
-| 72 | 1213 | Snappy Glidepiece |
+| 71 | 1213 | Snappy Glidepiece |
+| 72 | 1213 | Nerdy Riseclear |
 | 73 | 1201 | Amanda Adkins |
 | 74 | 1186 | Christian A. Pollard |
 | 75 | 1162 | Gracie |
@@ -137,8 +137,8 @@
 | 129 | 752 | Logan Naccarato |
 | 130 | 748 | Adrian Marcel Pate |
 | 131 | 745 | JerseyJess |
-| 132 | 744 | Fancy Cascader |
-| 133 | 744 | Leah Barnett |
+| 132 | 744 | Leah Barnett |
+| 133 | 744 | Fancy Cascader |
 | 134 | 736 | mzcatzy |
 | 135 | 734 | Calista Jo Dickson |
 | 136 | 728 | Peppy Shifter |
@@ -187,8 +187,8 @@
 | 179 | 572 | CeceGeGe |
 | 180 | 568 | Rachael McClain Owens |
 | 181 | 566 | LaTanya GeminiondaRise Johnson |
-| 182 | 564 | Poppy Splitter |
-| 183 | 564 | Christine Trester |
+| 182 | 564 | Christine Trester |
+| 183 | 564 | Poppy Splitter |
 | 184 | 563 | Jim Mathews |
 | 185 | 562 | Dave Herzog |
 | 186 | 559 | Patti Skiles |
@@ -274,8 +274,8 @@
 | 266 | 381 | Charles Perrone |
 | 267 | 380 | Rebecca Bailey |
 | 268 | 379 | JessDrown |
-| 269 | 378 | MsBee |
-| 270 | 378 | Chris Bell |
+| 269 | 378 | Chris Bell |
+| 270 | 378 | MsBee |
 | 271 | 375 | Stephanie Burtin |
 | 272 | 374 | Rania Zaqout |
 | 273 | 374 | Ashley Tookes |
@@ -447,8 +447,8 @@
 | 439 | 245 | Latoya Mayne |
 | 440 | 245 | LaNette Morgan |
 | 441 | 244 | Beezwax |
-| 442 | 243 | Nicholas Roddy |
-| 443 | 243 | Paula Little |
+| 442 | 243 | Paula Little |
+| 443 | 243 | Nicholas Roddy |
 | 444 | 242 | Joy Petroski |
 | 445 | 242 | Fancy Curver |
 | 446 | 242 | Heather Bateman |
@@ -731,7 +731,7 @@
 | 723 | 157 | Kimberly Walker |
 | 724 | 157 | Benny Tyrrell |
 | 725 | 156 | Mandy Poynter-Wallace |
-| 726 | 156 | Courtney Conboy |
+| 726 | 156 | LIL BIT |
 | 727 | 156 | Brittany K Ward |
 | 728 | 156 | Courtney Conboy |
 | 729 | 155 | Brave Brickster |

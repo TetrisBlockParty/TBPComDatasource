@@ -147,14 +147,14 @@
 | 139 | 425 | Dandy Basegrid |
 | 140 | 423 | ALFD |
 | 141 | 417 | Phu ckalldems |
-| 142 | 406 | Candy Jones |
-| 143 | 406 | Desiree Deschaine Havee |
+| 142 | 406 | Desiree Deschaine Havee |
+| 143 | 406 | Candy Jones |
 | 144 | 405 | Mike Ames |
 | 145 | 404 | Jessie Lynn |
 | 146 | 402 | Chris K |
 | 147 | 399 | Nery Martinez |
-| 148 | 394 | Lori Bales |
-| 149 | 394 | Jennifer Hardman |
+| 148 | 394 | Jennifer Hardman |
+| 149 | 394 | Lori Bales |
 | 150 | 389 | David Miller |
 | 151 | 388 | Fmp |
 | 152 | 387 | Monica Donato |
@@ -243,10 +243,10 @@
 | 235 | 290 | Hellsin |
 | 236 | 290 | Tavia |
 | 237 | 287 | Sassy Builderline |
-| 238 | 285 | Shanae Grant |
-| 239 | 285 | Bird Person |
-| 240 | 284 | Sir-Franchise Drake |
-| 241 | 284 | Sam Williams |
+| 238 | 285 | Bird Person |
+| 239 | 285 | Shanae Grant |
+| 240 | 284 | Sam Williams |
+| 241 | 284 | Sir-Franchise Drake |
 | 242 | 283 | Franswa |
 | 243 | 282 | Timothy Dew |
 | 244 | 281 | Clever Cascadepiece |
@@ -289,8 +289,8 @@
 | 281 | 245 | LaFontaine Leslie |
 | 282 | 245 | Matt Iaccheo |
 | 283 | 244 | Sarah Marie |
-| 284 | 244 | Tami Luce Martin |
-| 285 | 244 | Eddie Dillon |
+| 284 | 244 | Eddie Dillon |
+| 285 | 244 | Tami Luce Martin |
 | 286 | 243 | Bouncy Grid |
 | 287 | 243 | Tyler L Hunt |
 | 288 | 242 | John Ramirez |
