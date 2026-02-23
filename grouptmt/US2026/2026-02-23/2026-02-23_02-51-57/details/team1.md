@@ -45,8 +45,8 @@
 | 37 | 966 | Shalene Frederick Autrey |
 | 38 | 964 | Carrie Beck Geartz |
 | 39 | 961 | Amanda Summey Schoemer |
-| 40 | 953 | Hyp James NObettadanluvarat |
-| 41 | 953 | Derek MF Blakey |
+| 40 | 953 | Derek MF Blakey |
+| 41 | 953 | Hyp James NObettadanluvarat |
 | 42 | 945 | Amber Stoker |
 | 43 | 923 | Bhelle Sumile |
 | 44 | 918 | Chipper Gridlock |
@@ -142,8 +142,8 @@
 | 134 | 386 | Ty Brown |
 | 135 | 383 | pjbeta |
 | 136 | 381 | Fmp |
-| 137 | 379 | Austin James |
-| 138 | 379 | Kimmie Kimms |
+| 137 | 379 | Kimmie Kimms |
+| 138 | 379 | Austin James |
 | 139 | 376 | Brian Richardsson |
 | 140 | 375 | Monica Donato |
 | 141 | 375 | Tanya Carpenter-Reynolds |
@@ -235,8 +235,8 @@
 | 227 | 264 | Standia Civil |
 | 228 | 263 | Jessie Lynn |
 | 229 | 261 | John J. Cronin |
-| 230 | 260 | Marianita Garcia |
-| 231 | 260 | Lacy Wolfe |
+| 230 | 260 | Lacy Wolfe |
+| 231 | 260 | Marianita Garcia |
 | 232 | 258 | Perky Shiftsnap |
 | 233 | 257 | Lakeisha Chapman |
 | 234 | 256 | Snappy Matcher |
@@ -252,8 +252,8 @@
 | 244 | 244 | Sarah Somers Gray |
 | 245 | 242 | ParisandCory Champagne |
 | 246 | 241 | Tyler Hertzog |
-| 247 | 240 | DaRascal |
-| 248 | 240 | Daring Fitclear |
+| 247 | 240 | Daring Fitclear |
+| 248 | 240 | DaRascal |
 | 249 | 238 | Tiffany Smith |
 | 250 | 234 | Paula Martin |
 | 251 | 233 | Shiny Gridmatch |
@@ -316,8 +316,8 @@
 | 308 | 205 | Tyler L Hunt |
 | 309 | 205 | Agustin Duarte Orozco |
 | 310 | 204 | Chris Sigurdson |
-| 311 | 204 | LD1 |
-| 312 | 204 | .running. |
+| 311 | 204 | .running. |
+| 312 | 204 | LD1 |
 | 313 | 201 | Tedashi |
 | 314 | 201 | Colleen Wise |
 | 315 | 201 | Beau Galvan |

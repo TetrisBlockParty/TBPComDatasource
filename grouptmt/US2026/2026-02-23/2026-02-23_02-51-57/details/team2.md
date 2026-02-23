@@ -40,8 +40,8 @@
 | 32 | 4274 | Vistabrat |
 | 33 | 4199 | Claire Noland |
 | 34 | 4128 | Angela Pruitt |
-| 35 | 4120 | Corrine Hawks Soriano |
-| 36 | 4120 | Kristen Sceurman |
+| 35 | 4120 | Kristen Sceurman |
+| 36 | 4120 | Corrine Hawks Soriano |
 | 37 | 4093 | Jill Stroehlein |
 | 38 | 3895 | Nickie Baby |
 | 39 | 3770 | Brittany Alicia |
@@ -197,8 +197,8 @@
 | 189 | 1300 | Tacara Cummings |
 | 190 | 1294 | Ashley House |
 | 191 | 1286 | Altamirano Michael |
-| 192 | 1282 | Ashley Rose Frederick |
-| 193 | 1282 | Tanya Parsons |
+| 192 | 1282 | Tanya Parsons |
+| 193 | 1282 | Ashley Rose Frederick |
 | 194 | 1258 | Joyce Johnson Vaughn |
 | 195 | 1257 | Michele Gabriel |
 | 196 | 1252 | Angel |
@@ -544,8 +544,8 @@
 | 536 | 572 | Joseph Musick |
 | 537 | 572 | Chris Wanner |
 | 538 | 572 | Alexandra Lynn |
-| 539 | 571 | Emily Lyric Converse |
-| 540 | 571 | Wendy Unsain |
+| 539 | 571 | Wendy Unsain |
+| 540 | 571 | Emily Lyric Converse |
 | 541 | 569 | Sparkles |
 | 542 | 569 | Ben Barkley |
 | 543 | 568 | Elisheva Mizrachi |
