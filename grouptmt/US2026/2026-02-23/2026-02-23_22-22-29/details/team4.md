@@ -102,8 +102,8 @@
 | 94 | 766 | Robin Watters |
 | 95 | 764 | Valerie Roberts |
 | 96 | 763 | TheNeesh50 |
-| 97 | 760 | Keith Kelley |
-| 98 | 760 | Lori Walker |
+| 97 | 760 | Lori Walker |
+| 98 | 760 | Keith Kelley |
 | 99 | 735 | Nugget |
 | 100 | 735 | Yoset Mejia |
 | 101 | 733 | D3TROITB0RN74 |
@@ -149,8 +149,8 @@
 | 141 | 554 | Carlos Ramirez |
 | 142 | 551 | Ren Mc |
 | 143 | 546 | Dizzy Tiley |
-| 144 | 545 | Livvy |
-| 145 | 545 | Desi Desporte |
+| 144 | 545 | Desi Desporte |
+| 145 | 545 | Livvy |
 | 146 | 542 | Austin Owens |
 | 147 | 540 | Rodney McMath Jr. |
 | 148 | 536 | Kimberlee Jan Beckstead |
@@ -178,8 +178,8 @@
 | 170 | 499 | Ernest Maxwell |
 | 171 | 497 | Brandon Crabbs |
 | 172 | 496 | Cindy Looper |
-| 173 | 491 | Jade Rian |
-| 174 | 491 | Carrie Brian |
+| 173 | 491 | Carrie Brian |
+| 174 | 491 | Jade Rian |
 | 175 | 489 | Swanky Fitline |
 | 176 | 487 | Sam Bishop |
 | 177 | 485 | Rico |
@@ -235,8 +235,8 @@
 | 227 | 398 | Tyler Terrific |
 | 228 | 394 | Nita Wells |
 | 229 | 390 | Kathy Brookins |
-| 230 | 389 | Joseph Guthrie |
-| 231 | 389 | Brickh4us |
+| 230 | 389 | Brickh4us |
+| 231 | 389 | Joseph Guthrie |
 | 232 | 388 | Calvin Cannon |
 | 233 | 385 | 030Synner |
 | 234 | 384 | Bio Nelly |
@@ -343,8 +343,8 @@
 | 335 | 280 | Brittany Little |
 | 336 | 279 | Brittany Marsh |
 | 337 | 279 | Jim Hart |
-| 338 | 278 | Sarah Brown |
-| 339 | 278 | Zethra Prenisha Rahming |
+| 338 | 278 | Zethra Prenisha Rahming |
+| 339 | 278 | Sarah Brown |
 | 340 | 278 | Angela Geist Jusinski |
 | 341 | 277 | Shiny Pivoty |
 | 342 | 276 | Silly SeaWeed |
@@ -371,8 +371,8 @@
 | 363 | 265 | Christine Therrien |
 | 364 | 265 | Lorena Guerrero-Barron |
 | 365 | 264 | AyeKay |
-| 366 | 262 | Ruben Wheeler |
-| 367 | 262 | Selena Shaw |
+| 366 | 262 | Selena Shaw |
+| 367 | 262 | Ruben Wheeler |
 | 368 | 261 | Jason Frehner |
 | 369 | 260 | Carter Jones |
 | 370 | 259 | Allen Lloyd |
@@ -388,17 +388,17 @@
 | 380 | 255 | Sallie Sanborn |
 | 381 | 253 | Chair |
 | 382 | 253 | Autum Leigh |
-| 383 | 252 | Dan Wold |
-| 384 | 252 | Gracie Ann Taylor |
-| 385 | 252 | Maureen Flanigan |
+| 383 | 252 | Gracie Ann Taylor |
+| 384 | 252 | Maureen Flanigan |
+| 385 | 252 | Dan Wold |
 | 386 | 251 | Carol Ricks Raymond |
 | 387 | 251 | Kathy Allen |
 | 388 | 249 | Dapper Frame |
 | 389 | 249 | Ak Jones |
 | 390 | 248 | Chirpy Basepiece |
 | 391 | 248 | Jose Dejesus |
-| 392 | 247 | tipsy tiger |
-| 393 | 247 | Tyler Bechtel |
+| 392 | 247 | Tyler Bechtel |
+| 393 | 247 | tipsy tiger |
 | 394 | 246 | giantslover514 |
 | 395 | 246 | Shanon Klair |
 | 396 | 244 | @ |
@@ -442,7 +442,7 @@
 | 434 | 223 | Brave Spinbuilder |
 | 435 | 223 | Jessica Atkinson |
 | 436 | 222 | Brandi Durig |
-| 437 | 222 | Alan Zukowski |
+| 437 | 222 | Tipsy Cascader |
 | 438 | 222 | Paito |
 | 439 | 222 | Alan Zukowski |
 | 440 | 222 | Rhys Morgan |
@@ -1345,7 +1345,7 @@
 | 1337 | 44 | Wendy De Kam |
 | 1338 | 44 | Francesco Bradshaw |
 | 1339 | 44 | Dawn Plumb |
-| 1340 | 44 | Francesco Bradshaw |
+| 1340 | 44 | Matt Tackett |
 | 1341 | 44 | Heather Hilferty |
 | 1342 | 43 | Charlotte Garczynski |
 | 1343 | 43 | James Yulich |

@@ -1,12 +1,12 @@
 # Standings for team1 as of 2026-02-23 22:22:29 UTC
 
-**Total Participants:** 2080
+**Total Participants:** 2079
 
 ## Participant Scores
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 9231 | TAZ-MF-NIZIL |
+| 1 | 9223 | TAZ-MF-NIZIL |
 | 2 | 8117 | Felicia Haynes |
 | 3 | 7110 | Izzie Ramirez-Ford |
 | 4 | 6387 | 'Gilberto Martinez' |
@@ -100,18 +100,18 @@
 | 92 | 744 | Greg Hart |
 | 93 | 742 | Susanna Guerry |
 | 94 | 740 | Lori Sanders- Davis |
-| 95 | 740 | Brenda Stewart |
-| 96 | 728 | Madison Wicks |
-| 97 | 722 | Kellie |
-| 98 | 706 | Plucky Fallzone |
-| 99 | 706 | Denice Dee |
-| 100 | 704 | Karin Gillen |
-| 101 | 703 | Angel Fowler |
-| 102 | 679 | Melissa Lemmon |
-| 103 | 671 | Chirpy Smasher |
-| 104 | 669 | Tdub |
-| 105 | 663 | Kristi Johnson |
-| 106 | 657 | Tee Sheree |
+| 95 | 722 | Kellie |
+| 96 | 717 | Madison Wicks |
+| 97 | 706 | Plucky Fallzone |
+| 98 | 706 | Denice Dee |
+| 99 | 704 | Karin Gillen |
+| 100 | 703 | Angel Fowler |
+| 101 | 679 | Melissa Lemmon |
+| 102 | 671 | Chirpy Smasher |
+| 103 | 669 | Tdub |
+| 104 | 663 | Kristi Johnson |
+| 105 | 657 | Tee Sheree |
+| 106 | 655 | Brenda Stewart |
 | 107 | 648 | Evie Khalil |
 | 108 | 642 | Mario Cab |
 | 109 | 626 | Damon J. Martin |
@@ -367,8 +367,8 @@
 | 359 | 273 | Nadine Velardo |
 | 360 | 272 | Brooke Elizabeth Antill |
 | 361 | 272 | Blaire Bruckoff |
-| 362 | 271 | Patty Lavigne Craddock |
-| 363 | 271 | Mighty Shatterfit |
+| 362 | 271 | Mighty Shatterfit |
+| 363 | 271 | Patty Lavigne Craddock |
 | 364 | 270 | Ariel Whittington |
 | 365 | 270 | Logan McFarland |
 | 366 | 270 | Brenda Alexander |

@@ -323,12 +323,12 @@
 | 315 | 1164 | Hillary Crawford |
 | 316 | 1163 | Erika Densmore |
 | 317 | 1158 | Brittany Clark |
-| 318 | 1156 | Alezandra Smith |
-| 319 | 1156 | Arkei Luster |
+| 318 | 1156 | Arkei Luster |
+| 319 | 1156 | Alezandra Smith |
 | 320 | 1155 | F-X |
 | 321 | 1145 | Deborah Miller |
-| 322 | 1142 | Sheniya Spurgeon |
-| 323 | 1142 | April Dawn Gussler |
+| 322 | 1142 | April Dawn Gussler |
+| 323 | 1142 | Sheniya Spurgeon |
 | 324 | 1140 | Kimberly Hauck-Rausch |
 | 325 | 1139 | Carl Bradshaw |
 | 326 | 1139 | Aireka Roman |
@@ -435,23 +435,23 @@
 | 427 | 917 | Bubbly Snapfit |
 | 428 | 916 | Jánine Riggs |
 | 429 | 916 | Butta |
-| 430 | 915 | Shuany Arias |
-| 431 | 915 | Kelly Trent |
+| 430 | 915 | Kelly Trent |
+| 431 | 914 | Shuany Arias |
 | 432 | 911 | Felicia Lynn |
 | 433 | 910 | Smashanator |
 | 434 | 909 | Valerie Brooke Lusk Armstrong |
 | 435 | 907 | Gene Mills |
 | 436 | 905 | Adam Simmons |
 | 437 | 903 | Ashle Scranton |
-| 438 | 903 | Sarah DeHart |
-| 439 | 903 | Eric Castaneda |
+| 438 | 903 | Eric Castaneda |
+| 439 | 903 | Sarah DeHart |
 | 440 | 902 | Brenda Utphall |
 | 441 | 899 | Patrick Bartlett |
 | 442 | 899 | Chevy |
 | 443 | 898 | Dylan Thomason |
 | 444 | 897 | Jamie Schmitt |
-| 445 | 895 | Lisa Ongtowasruk |
-| 446 | 895 | Donna Colby |
+| 445 | 895 | Donna Colby |
+| 446 | 895 | Lisa Ongtowasruk |
 | 447 | 894 | Adira Brown |
 | 448 | 892 | Samantha Scibelli |
 | 449 | 890 | Alex Stone LaRue |
@@ -504,20 +504,20 @@
 | 496 | 821 | Anthony Mignacca |
 | 497 | 820 | Laura McCarthey |
 | 498 | 819 | Sabrena Yeisley |
-| 499 | 816 | Beth |
-| 500 | 816 | James Simms III |
-| 501 | 813 | Lonne Emade |
-| 502 | 813 | Ganieda |
+| 499 | 816 | James Simms III |
+| 500 | 816 | Beth |
+| 501 | 813 | Ganieda |
+| 502 | 813 | Lonne Emade |
 | 503 | 812 | Samantha Jo |
-| 504 | 811 | Dreamy Blast |
-| 505 | 811 | Brenda Pierpoint |
+| 504 | 811 | Brenda Pierpoint |
+| 505 | 811 | Dreamy Blast |
 | 506 | 810 | Tracy Cowley |
 | 507 | 807 | Shaun Church |
-| 508 | 805 | Danielle Simmons |
-| 509 | 805 | Vanessa Moreno |
+| 508 | 805 | Vanessa Moreno |
+| 509 | 805 | Danielle Simmons |
 | 510 | 805 | Kennedy Sandifer |
-| 511 | 804 | DefaultUser |
-| 512 | 804 | Becca Coronado |
+| 511 | 804 | Becca Coronado |
+| 512 | 804 | DefaultUser |
 | 513 | 801 | Diana Fitzwater |
 | 514 | 801 | Lindsey Leigh |
 | 515 | 798 | Melissa Cole |
@@ -642,8 +642,8 @@
 | 634 | 674 | Iris Angelica Perez Cantos |
 | 635 | 673 | trabuco |
 | 636 | 672 | John Jubes |
-| 637 | 670 | Jennifer Monroe Kelly |
-| 638 | 670 | Jessica S Flecha |
+| 637 | 670 | Jessica S Flecha |
+| 638 | 670 | Jennifer Monroe Kelly |
 | 639 | 669 | Martina Gabrielle LaPolla |
 | 640 | 668 | Gloria Ininahazwe |
 | 641 | 668 | Jazzy Clusterline |
@@ -1316,8 +1316,8 @@
 | 1308 | 385 | Cheery Puzzler |
 | 1309 | 385 | Justin Hines |
 | 1310 | 384 | Nuggets |
-| 1311 | 384 | Laura Freeman Hagen |
-| 1312 | 384 | Trey Petty |
+| 1311 | 384 | Trey Petty |
+| 1312 | 384 | Laura Freeman Hagen |
 | 1313 | 384 | Melissa James |
 | 1314 | 383 | Heather Renee Jeffers |
 | 1315 | 383 | Eric Hall |

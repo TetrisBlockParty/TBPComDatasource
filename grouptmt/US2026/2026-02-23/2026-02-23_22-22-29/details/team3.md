@@ -39,13 +39,13 @@
 | 31 | 2317 | Brandon Green |
 | 32 | 2305 | Peggi Charon |
 | 33 | 2295 | Bjorn Neyt |
-| 34 | 2180 | Josiah Fam |
+| 34 | 2172 | Josiah Fam |
 | 35 | 2104 | Cheeky Rumbler |
 | 36 | 2097 | Kay |
 | 37 | 2059 | Beelow Bently |
 | 38 | 1992 | Shandrea Crawford |
-| 39 | 1978 | Ashley Kiara |
-| 40 | 1978 | Dan Rob |
+| 39 | 1978 | Dan Rob |
+| 40 | 1978 | Ashley Kiara |
 | 41 | 1949 | Calista Jo Dickson |
 | 42 | 1918 | Trezure Gonzalez |
 | 43 | 1907 | Jamie Furr |
@@ -130,14 +130,14 @@
 | 122 | 972 | Valerie Gendron |
 | 123 | 968 | Shavette |
 | 124 | 963 | Crystal Frey |
-| 125 | 960 | Loopy Fallmatch |
-| 126 | 946 | MissTaylor |
-| 127 | 945 | Shonna Roberts |
-| 128 | 940 | Stephanie Allmon |
-| 129 | 939 | Jamie Lang |
-| 130 | 936 | Giddy Drop |
-| 131 | 931 | Michelle |
-| 132 | 930 | Bea Miles |
+| 125 | 946 | MissTaylor |
+| 126 | 945 | Shonna Roberts |
+| 127 | 940 | Stephanie Allmon |
+| 128 | 939 | Jamie Lang |
+| 129 | 936 | Giddy Drop |
+| 130 | 931 | Michelle |
+| 131 | 930 | Bea Miles |
+| 132 | 926 | Loopy Fallmatch |
 | 133 | 899 | Jaime Monhaut-Reed |
 | 134 | 896 | Jesse Olive |
 | 135 | 878 | Shane Wilson Jr. |
@@ -264,8 +264,8 @@
 | 256 | 515 | Cozy Snaplink |
 | 257 | 514 | France Vézina |
 | 258 | 513 | Lizabeth Fox |
-| 259 | 513 | PrncssPJ |
-| 260 | 513 | Giggy Glidepiece |
+| 259 | 513 | Giggy Glidepiece |
+| 260 | 513 | PrncssPJ |
 | 261 | 508 | joz |
 | 262 | 507 | rosy |
 | 263 | 506 | Ammmmmmy |
