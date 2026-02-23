@@ -221,12 +221,12 @@
 | 213 | 1245 | Cody Nishimura |
 | 214 | 1240 | Brandon Armstrong |
 | 215 | 1237 | Megan Ferguson Leone |
-| 216 | 1232 | Groovy Puzzle |
-| 217 | 1232 | Ambyre Patterson |
+| 216 | 1232 | Ambyre Patterson |
+| 217 | 1232 | Groovy Puzzle |
 | 218 | 1230 | Megan Garrick |
 | 219 | 1221 | Jane Fong |
-| 220 | 1217 | Brooks Brooks |
-| 221 | 1217 | Lucky Ladybug |
+| 220 | 1217 | Lucky Ladybug |
+| 221 | 1217 | Brooks Brooks |
 | 222 | 1214 | David Cudicio-Hayden |
 | 223 | 1213 | Pacynthia Williams |
 | 224 | 1211 | Ricardo Burton |
@@ -396,11 +396,11 @@
 | 388 | 799 | Joy LaJeunesse |
 | 389 | 799 | Ronnie Nelson |
 | 390 | 798 | Kathryn Townsley |
-| 391 | 796 | Amber Gray |
-| 392 | 796 | AndrewandShela Gornik |
-| 393 | 793 | Arlene Joy Belicina |
-| 394 | 793 | Jaycee |
-| 395 | 793 | Heather Schelkopf |
+| 391 | 796 | AndrewandShela Gornik |
+| 392 | 796 | Amber Gray |
+| 393 | 793 | Jaycee |
+| 394 | 793 | Heather Schelkopf |
+| 395 | 793 | Arlene Joy Belicina |
 | 396 | 790 | Brenda Pierpoint |
 | 397 | 788 | Erika Densmore |
 | 398 | 787 | Tiara Elizabeth Baker |
@@ -425,16 +425,16 @@
 | 417 | 763 | Dreamy Blast |
 | 418 | 761 | Jerilyn Andrina |
 | 419 | 760 | Ashley Guernsey-Martin |
-| 420 | 760 | Allan Wayne Lamia |
-| 421 | 760 | Cheech Dta |
+| 420 | 760 | Cheech Dta |
+| 421 | 760 | Allan Wayne Lamia |
 | 422 | 760 | Andrew Willis |
 | 423 | 758 | Stephanie Neuburger |
 | 424 | 758 | Quirky Twistline |
 | 425 | 755 | Taryece Gause |
 | 426 | 751 | Loony Snapper |
 | 427 | 751 | Breezy Filler |
-| 428 | 748 | Ann Matzkanin |
-| 429 | 748 | Brenda Utphall |
+| 428 | 748 | Brenda Utphall |
+| 429 | 748 | Ann Matzkanin |
 | 430 | 748 | Spunkysmom |
 | 431 | 746 | Leslie Ann Carter |
 | 432 | 742 | tejas25 |
@@ -487,8 +487,8 @@
 | 479 | 689 | Gauri Shrotriya |
 | 480 | 686 | Christine Coughlin |
 | 481 | 684 | Sarah DeHart |
-| 482 | 684 | Ellie Jonas |
-| 483 | 684 | Ann Knutson Anderson |
+| 482 | 684 | Ann Knutson Anderson |
+| 483 | 684 | Ellie Jonas |
 | 484 | 682 | Antionette Sewell |
 | 485 | 681 | AgileDragon |
 | 486 | 680 | blume |
@@ -590,8 +590,8 @@
 | 582 | 589 | Kelly Templeton |
 | 583 | 588 | Kitybox |
 | 584 | 587 | Ben Barkley |
-| 585 | 585 | Sarah Berger |
-| 586 | 585 | Jessica Lamb |
+| 585 | 585 | Jessica Lamb |
+| 586 | 585 | Sarah Berger |
 | 587 | 585 | Wuntayk |
 | 588 | 583 | AISlop |
 | 589 | 582 | Ebony Deloach Bryant |
@@ -752,9 +752,9 @@
 | 744 | 478 | Kelly |
 | 745 | 477 | Catherine Marsh Gruda |
 | 746 | 476 | Mary Marie |
-| 747 | 474 | Jamie Carter Bierce |
-| 748 | 474 | Jennifer Scott |
-| 749 | 474 | Veronica Stevenson |
+| 747 | 474 | Jennifer Scott |
+| 748 | 474 | Veronica Stevenson |
+| 749 | 474 | Jamie Carter Bierce |
 | 750 | 474 | Calandra Shaya Robinson |
 | 751 | 473 | coleksquad |
 | 752 | 473 | Jenn Marie |
@@ -762,8 +762,8 @@
 | 754 | 472 | Connie Lepore-Mann |
 | 755 | 471 | Charming Leech |
 | 756 | 470 | Katie Marie |
-| 757 | 470 | ToShi |
-| 758 | 470 | Amanda Chamberlain |
+| 757 | 470 | Amanda Chamberlain |
+| 758 | 470 | ToShi |
 | 759 | 469 | Christy Long |
 | 760 | 468 | Niceday |
 | 761 | 468 | Brenda Annabel Smith |
@@ -1209,11 +1209,11 @@
 | 1201 | 312 | Jodi Mitnick |
 | 1202 | 311 | Chipper Basepiece |
 | 1203 | 311 | Kim McGrath |
-| 1204 | 311 | Audra Williams |
-| 1205 | 311 | Chummy Breaker |
-| 1206 | 311 | Chelsea Gutierrez |
-| 1207 | 310 | Erica Dale |
-| 1208 | 310 | David Rehse |
+| 1204 | 311 | Chelsea Gutierrez |
+| 1205 | 311 | Audra Williams |
+| 1206 | 311 | Chummy Breaker |
+| 1207 | 310 | David Rehse |
+| 1208 | 310 | Erica Dale |
 | 1209 | 310 | Wendy Ducheney |
 | 1210 | 310 | Kourtney Bradley |
 | 1211 | 310 | Jessica Sutter |
@@ -2532,8 +2532,8 @@
 | 2524 | 166 | Kerry Miller |
 | 2525 | 166 | Perry Martin |
 | 2526 | 166 | Rose Tripp |
-| 2527 | 166 | Hyper Wipepiece |
-| 2528 | 166 | Peppy Spinzone |
+| 2527 | 166 | Peppy Spinzone |
+| 2528 | 166 | Hyper Wipepiece |
 | 2529 | 165 | Oke Raph |
 | 2530 | 165 | Ashley Hill |
 | 2531 | 165 | Mikey |
@@ -2657,8 +2657,8 @@
 | 2649 | 158 | Ryley Laughlin |
 | 2650 | 158 | Mike Kilmer |
 | 2651 | 158 | Haiden Jessie Cheng-Smith |
-| 2652 | 157 | Samantha Tinder |
-| 2653 | 157 | Slinky Cascadebuilder |
+| 2652 | 157 | Slinky Cascadebuilder |
+| 2653 | 157 | Samantha Tinder |
 | 2654 | 157 | donkluminati |
 | 2655 | 157 | Heather Patrick |
 | 2656 | 157 | Chad Reeves |

@@ -26,8 +26,8 @@
 | 18 | 1636 | Cassie Michaux |
 | 19 | 1565 | GreenJeepGirl |
 | 20 | 1558 | Leah Gorsuch |
-| 21 | 1536 | Misty Hollibaugh |
-| 22 | 1536 | Roger Coulter |
+| 21 | 1536 | Roger Coulter |
+| 22 | 1536 | Misty Hollibaugh |
 | 23 | 1485 | Juggalo |
 | 24 | 1390 | Sammy Noguera |
 | 25 | 1382 | Tammi Crnza |
@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | KM8 |
-| 93 | 647 | Shauna Havard |
+| 92 | 647 | Shauna Havard |
+| 93 | 647 | KM8 |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -329,8 +329,8 @@
 | 321 | 214 | Stacey Stano |
 | 322 | 214 | Patron Anderson |
 | 323 | 213 | Jackie Marie |
-| 324 | 212 | Mike Solo |
-| 325 | 212 | Zany Shatterer |
+| 324 | 212 | Zany Shatterer |
+| 325 | 212 | Mike Solo |
 | 326 | 212 | Brave Spinbuilder |
 | 327 | 211 | Chris Alexinas |
 | 328 | 210 | Ari Droff |
@@ -582,7 +582,7 @@
 | 574 | 122 | Mike Burlingame |
 | 575 | 122 | Mary Therese Benden Cole |
 | 576 | 121 | Jeff Roberts |
-| 577 | 120 | Marcus TheeyoungWoe Gilmore |
+| 577 | 120 | Zołza 😈 |
 | 578 | 120 | Christina O'Dell-Ishau |
 | 579 | 120 | Verna Neal |
 | 580 | 120 | Joni Marie Flanary |

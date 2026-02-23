@@ -205,8 +205,8 @@
 | 197 | 324 | Rat666 |
 | 198 | 323 | Madison Wicks |
 | 199 | 322 | Letson Melissa |
-| 200 | 317 | Kimberly Garcia |
-| 201 | 317 | Sarah Roberts |
+| 200 | 317 | Sarah Roberts |
+| 201 | 317 | Kimberly Garcia |
 | 202 | 316 | Reesey Enyart |
 | 203 | 315 | Danielle Little-Daugherty |
 | 204 | 314 | Tana |
@@ -241,9 +241,9 @@
 | 233 | 282 | Mandyy Rae |
 | 234 | 281 | Clever Cascadepiece |
 | 235 | 280 | Billie Dawn Sparks |
-| 236 | 277 | Melissa Lemmon |
+| 236 | 277 | Glitzy Curvebuilder |
 | 237 | 277 | Nutty Spinblock |
-| 238 | 277 | Glitzy Curvebuilder |
+| 238 | 277 | Melissa Lemmon |
 | 239 | 276 | Sam Williams |
 | 240 | 275 | Cheeky Pop |
 | 241 | 275 | Chris65 |
@@ -303,8 +303,8 @@
 | 295 | 229 | Dino |
 | 296 | 228 | .running. |
 | 297 | 227 | Happy Snapbuild |
-| 298 | 226 | Snappy Brickbuilder |
-| 299 | 226 | Glitzy Buildsnap |
+| 298 | 226 | Glitzy Buildsnap |
+| 299 | 226 | Snappy Brickbuilder |
 | 300 | 225 | Angela Spann |
 | 301 | 224 | Jumpy Rotate |
 | 302 | 224 | Sunny Shift |
@@ -343,7 +343,7 @@
 | 335 | 213 | John Barron |
 | 336 | 212 | Michelle Beres |
 | 337 | 210 | Timothy Danaher |
-| 338 | 209 | Breanna Luna |
+| 338 | 209 | Beau Galvan |
 | 339 | 209 | Pauline Cortez |
 | 340 | 209 | Breanna Luna |
 | 341 | 208 | Andrew Boone |
@@ -366,8 +366,8 @@
 | 358 | 199 | Larissa Marie Nelson |
 | 359 | 199 | Tina Englert |
 | 360 | 198 | Marci Sanders |
-| 361 | 197 | Cool Towerzone |
-| 362 | 197 | Larry Tilton |
+| 361 | 197 | Larry Tilton |
+| 362 | 197 | Cool Towerzone |
 | 363 | 196 | Steph |
 | 364 | 196 | Rachel Copas |
 | 365 | 195 | Beazel75 |
@@ -413,9 +413,9 @@
 | 405 | 178 | Mel Fab |
 | 406 | 177 | Jacqueline Unique |
 | 407 | 177 | Irual Hctrab |
-| 408 | 177 | Jacqueline Unique |
+| 408 | 177 | DoodleBug |
 | 409 | 177 | ash |
-| 410 | 177 | DoodleBug |
+| 410 | 177 | Chase Collinsworth |
 | 411 | 176 | Наталья Солоид |
 | 412 | 176 | Damian Salem |
 | 413 | 176 | Jamie Catlett |

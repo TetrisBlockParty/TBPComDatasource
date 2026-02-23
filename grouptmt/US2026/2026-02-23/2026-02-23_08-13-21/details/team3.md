@@ -114,15 +114,15 @@
 | 106 | 869 | Araceli Parra |
 | 107 | 868 | Sarajane Lokan |
 | 108 | 860 | Sunny Rotater |
-| 109 | 851 | Danielle Becker |
-| 110 | 851 | Jd Morris |
+| 109 | 851 | Jd Morris |
+| 110 | 851 | Danielle Becker |
 | 111 | 850 | Danielle Mogg |
 | 112 | 848 | Patricia Gadsden |
 | 113 | 831 | Angeline Joseph |
 | 114 | 830 | Stephanie Allmon |
 | 115 | 826 | Shane Wilson Jr. |
-| 116 | 816 | Brenda Lee Vander Molen |
-| 117 | 816 | Jesse Olive |
+| 116 | 816 | Jesse Olive |
+| 117 | 816 | Brenda Lee Vander Molen |
 | 118 | 802 | Bobbi Moore |
 | 119 | 800 | Lauren Girouard |
 | 120 | 799 | Dolores Falco |
@@ -162,8 +162,8 @@
 | 154 | 634 | Amber Hughes |
 | 155 | 630 | yoyo |
 | 156 | 629 | Patricia White |
-| 157 | 621 | Cherry Parker |
-| 158 | 621 | Sashay Tapae Simpson |
+| 157 | 621 | Sashay Tapae Simpson |
+| 158 | 621 | Cherry Parker |
 | 159 | 616 | Kammy Hill |
 | 160 | 611 | Rochelle Hazelett |
 | 161 | 607 | Grego Daniel |
@@ -201,8 +201,8 @@
 | 193 | 528 | Silly Twist |
 | 194 | 525 | Stephanie Blkpep Davidson |
 | 195 | 524 | Bmo |
-| 196 | 519 | Terry Jo Jones |
-| 197 | 519 | rnr junky |
+| 196 | 519 | rnr junky |
+| 197 | 519 | Terry Jo Jones |
 | 198 | 515 | Cozy Snaplink |
 | 199 | 508 | Makelini Mausia |
 | 200 | 503 | Tye Stovall |
@@ -218,13 +218,13 @@
 | 210 | 480 | Michael Johnson |
 | 211 | 477 | Edwin Calvillo Jr. |
 | 212 | 475 | Tessina Dewey-Mancino |
-| 213 | 473 | Rachel |
-| 214 | 473 | Connie Mohler-Fair |
+| 213 | 473 | Connie Mohler-Fair |
+| 214 | 473 | Rachel |
 | 215 | 471 | Mendoza Lee Christy |
 | 216 | 467 | Sherry Ogden |
 | 217 | 465 | Annie Déè |
-| 218 | 464 | Danielle Weikel |
-| 219 | 464 | Shunta Jacobs |
+| 218 | 464 | Shunta Jacobs |
+| 219 | 464 | Danielle Weikel |
 | 220 | 461 | Tom Nault |
 | 221 | 458 | Danielle Rhoades |
 | 222 | 454 | Joye Sims Binion |
@@ -264,8 +264,8 @@
 | 256 | 375 | Stephanie Burtin |
 | 257 | 374 | Rania Zaqout |
 | 258 | 373 | Chummy Caster |
-| 259 | 372 | Rich LeBlanc |
-| 260 | 372 | Sarah Moyer |
+| 259 | 372 | Sarah Moyer |
+| 260 | 372 | Rich LeBlanc |
 | 261 | 371 | Marquita Sheard |
 | 262 | 371 | block chick |
 | 263 | 370 | Samantha Lynn |
@@ -285,8 +285,8 @@
 | 277 | 354 | Eileen Brady Thurber |
 | 278 | 354 | Roary Danner |
 | 279 | 354 | Kelly |
-| 280 | 353 | Dee Franklin |
-| 281 | 353 | Cyd061769 |
+| 280 | 353 | Cyd061769 |
+| 281 | 353 | Dee Franklin |
 | 282 | 352 | Christian Werndl |
 | 283 | 351 | Blocked |
 | 284 | 351 | Eon Harris |
@@ -308,8 +308,8 @@
 | 300 | 336 | Foltz Lee Kelli |
 | 301 | 336 | Jojo M |
 | 302 | 335 | victory |
-| 303 | 332 | Velma Mull |
-| 304 | 332 | Brittany |
+| 303 | 332 | Brittany |
+| 304 | 332 | Velma Mull |
 | 305 | 331 | Gray Hicks |
 | 306 | 329 | Angela Scott |
 | 307 | 328 | Desiree Soto |
@@ -702,8 +702,8 @@
 | 694 | 157 | Kimberly Walker |
 | 695 | 157 | Benny Tyrrell |
 | 696 | 156 | Mandy Poynter-Wallace |
-| 697 | 156 | LIL BIT |
-| 698 | 156 | Courtney Conboy |
+| 697 | 156 | Courtney Conboy |
+| 698 | 156 | LIL BIT |
 | 699 | 156 | Brittany K Ward |
 | 700 | 155 | TEDDY |
 | 701 | 155 | Brave Brickster |
@@ -2929,8 +2929,8 @@
 | 2921 | 7 | Melissa Dahman |
 | 2922 | 7 | Explosive Dee |
 | 2923 | 7 | Kelci Rae |
-| 2924 | 7 | Danitka Williams |
-| 2925 | 7 | Cheery Strikerpiece |
+| 2924 | 7 | Haylee Louise |
+| 2925 | 7 | Smiley Catcher |
 | 2926 | 7 | Sherrie Dondorfer |
 | 2927 | 7 | Quirky Slammer |
 | 2928 | 7 | Cheery Strikerpiece |
