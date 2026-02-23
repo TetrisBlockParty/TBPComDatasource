@@ -25,8 +25,8 @@
 | 17 | 2697 | River |
 | 18 | 2503 | Clever Roll |
 | 19 | 2302 | Laura Melton |
-| 20 | 2287 | Brandon Green |
-| 21 | 2287 | Tetris Master |
+| 20 | 2287 | Tetris Master |
+| 21 | 2287 | Brandon Green |
 | 22 | 2237 | Susan Valentino |
 | 23 | 2203 | Ashley Jones |
 | 24 | 2144 | Zippy Strikesnap |
@@ -90,8 +90,8 @@
 | 82 | 945 | Shonna Roberts |
 | 83 | 938 | Mandy Smith Oldham |
 | 84 | 935 | Snappy Glidepiece |
-| 85 | 926 | Angela M. Fletcher |
-| 86 | 926 | Judi Dobson |
+| 85 | 926 | Judi Dobson |
+| 86 | 926 | Angela M. Fletcher |
 | 87 | 923 | Christine Filson |
 | 88 | 921 | Michelle |
 | 89 | 918 | MissTaylor |
@@ -111,8 +111,8 @@
 | 103 | 831 | Angeline Joseph |
 | 104 | 830 | Stephanie Allmon |
 | 105 | 826 | Shane Wilson Jr. |
-| 106 | 816 | Araceli Parra |
-| 107 | 816 | Brenda Lee Vander Molen |
+| 106 | 816 | Brenda Lee Vander Molen |
+| 107 | 816 | Araceli Parra |
 | 108 | 800 | Lauren Girouard |
 | 109 | 799 | Dolores Falco |
 | 110 | 795 | Jesse Olive |
@@ -318,8 +318,8 @@
 | 310 | 292 | LaShey Thompson |
 | 311 | 291 | Geoffrey Nash |
 | 312 | 289 | DidIdothat |
-| 313 | 287 | Carol Cain Thurman |
-| 314 | 287 | Sabrina Hardrick |
+| 313 | 287 | Sabrina Hardrick |
+| 314 | 287 | Carol Cain Thurman |
 | 315 | 287 | Hoppy Patternline |
 | 316 | 286 | Lizabeth Fox |
 | 317 | 286 | Salena Whitlock |
@@ -426,8 +426,8 @@
 | 418 | 228 | Stephanie Hill |
 | 419 | 227 | Rebel124 |
 | 420 | 227 | Meowsa |
-| 421 | 226 | Danielle Beaunoyer Jean |
-| 422 | 226 | Jana Polk |
+| 421 | 226 | Jana Polk |
+| 422 | 226 | Danielle Beaunoyer Jean |
 | 423 | 225 | Beezwax |
 | 424 | 224 | Sarah Morris |
 | 425 | 222 | Eileen Brady Thurber |
@@ -475,8 +475,8 @@
 | 467 | 200 | Christina Marie Swisher |
 | 468 | 200 | Megan Riggins |
 | 469 | 199 | Dakota Graham |
-| 470 | 199 | Katheline Lazo Luizaga |
-| 471 | 199 | Cheeky Setter |
+| 470 | 199 | Cheeky Setter |
+| 471 | 199 | Katheline Lazo Luizaga |
 | 472 | 198 | Zac Hudak |
 | 473 | 198 | joz |
 | 474 | 197 | Nichol Graham |

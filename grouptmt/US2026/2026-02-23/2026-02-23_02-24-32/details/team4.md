@@ -55,8 +55,8 @@
 | 47 | 911 | Jeremy Steines |
 | 48 | 855 | Marvin Lou Martin |
 | 49 | 853 | TeeJ |
-| 50 | 846 | Lucille Truesdale |
-| 51 | 846 | Christine Marie |
+| 50 | 846 | Christine Marie |
+| 51 | 846 | Lucille Truesdale |
 | 52 | 845 | LisaJo Picken Buchanan |
 | 53 | 843 | Shelly Chandler |
 | 54 | 841 | Anthony Bryan Riva |
@@ -225,8 +225,8 @@
 | 217 | 276 | Matt Dell'Olio |
 | 218 | 276 | Joeliecea Cobb |
 | 219 | 273 | Casey Grabner |
-| 220 | 272 | Dennis Bradley |
-| 221 | 272 | Alan George LaRage |
+| 220 | 272 | Alan George LaRage |
+| 221 | 272 | Dennis Bradley |
 | 222 | 271 | Chris Hartig |
 | 223 | 271 | Sarah Brown |
 | 224 | 270 | Jen Caldwell |
