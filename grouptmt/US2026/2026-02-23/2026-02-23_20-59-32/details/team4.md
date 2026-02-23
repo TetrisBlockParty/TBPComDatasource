@@ -171,8 +171,8 @@
 | 163 | 501 | Ericca Eldridge |
 | 164 | 498 | Melissa Adams |
 | 165 | 496 | Cindy Looper |
-| 166 | 491 | Jade Rian |
-| 167 | 491 | Carrie Brian |
+| 166 | 491 | Carrie Brian |
+| 167 | 491 | Jade Rian |
 | 168 | 486 | Swanky Fitline |
 | 169 | 485 | Rico |
 | 170 | 482 | Adam Stephanie Parker |
@@ -235,8 +235,8 @@
 | 227 | 385 | 030Synner |
 | 228 | 383 | blockstar |
 | 229 | 381 | Plucky Patternblock |
-| 230 | 380 | Rio Rocha |
-| 231 | 380 | Zesty Twistbuilder |
+| 230 | 380 | Zesty Twistbuilder |
+| 231 | 380 | Rio Rocha |
 | 232 | 379 | Backoff Recupe |
 | 233 | 378 | shark tato |
 | 234 | 378 | Lauren Scott |
@@ -299,8 +299,8 @@
 | 291 | 305 | Sassy Pattern |
 | 292 | 304 | Shiny Fit |
 | 293 | 301 | Erin Sabol |
-| 294 | 300 | Kate |
-| 295 | 300 | Dana Scott |
+| 294 | 300 | Dana Scott |
+| 295 | 300 | Kate |
 | 296 | 298 | Chance Strickland |
 | 297 | 297 | Kenna Gunderland |
 | 298 | 297 | Kim Klutz Olson |
@@ -367,13 +367,13 @@
 | 359 | 259 | Montiette Mcglown |
 | 360 | 259 | Allen Lloyd |
 | 361 | 258 | Lilya Troutman |
-| 362 | 257 | Marcus TheeyoungWoe Gilmore |
-| 363 | 257 | Michael Snow |
-| 364 | 257 | Alexandra Karavias |
+| 362 | 257 | Michael Snow |
+| 363 | 257 | Alexandra Karavias |
+| 364 | 257 | Marcus TheeyoungWoe Gilmore |
 | 365 | 257 | ĥuf |
 | 366 | 256 | Jason Bosco |
-| 367 | 256 | Mackenzie Forrester |
-| 368 | 256 | Paige Kittles |
+| 367 | 256 | Paige Kittles |
+| 368 | 256 | Mackenzie Forrester |
 | 369 | 253 | Autum Leigh |
 | 370 | 253 | Jarred Falls |
 | 371 | 253 | Chair |
@@ -409,10 +409,10 @@
 | 401 | 235 | Stacy Jones |
 | 402 | 235 | Shainne Brewer |
 | 403 | 234 | Richard-April Kice |
-| 404 | 234 | Speedy Cascadeclear |
+| 404 | 234 | Amanda Christine |
 | 405 | 234 | Shanon Klair |
 | 406 | 234 | Diosa Ebalobo Magsael |
-| 407 | 234 | Amanda Christine |
+| 407 | 234 | Speedy Cascadeclear |
 | 408 | 233 | Joseph Edmonson |
 | 409 | 232 | Jenny Wells-Oakley |
 | 410 | 232 | Sallie Sanborn |
