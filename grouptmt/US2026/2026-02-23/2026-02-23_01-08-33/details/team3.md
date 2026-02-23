@@ -207,8 +207,8 @@
 | 199 | 432 | Jenny Hrndz |
 | 200 | 432 | Christine Trester |
 | 201 | 431 | Wendy Dearden |
-| 202 | 430 | Jeni Dow |
-| 203 | 430 | Joye Sims Binion |
+| 202 | 430 | Joye Sims Binion |
+| 203 | 430 | Jeni Dow |
 | 204 | 429 | Fallorina Susana |
 | 205 | 428 | Tom Nault |
 | 206 | 426 | Annie Déè |
@@ -250,8 +250,8 @@
 | 242 | 364 | Steffi Chris Dacones |
 | 243 | 362 | Brandon Givens |
 | 244 | 360 | Sheila M Frazier |
-| 245 | 357 | Stephanie Burtin |
-| 246 | 357 | Ammmmmmy |
+| 245 | 357 | Ammmmmmy |
+| 246 | 357 | Stephanie Burtin |
 | 247 | 352 | Christian Werndl |
 | 248 | 352 | Samantha Lynn |
 | 249 | 351 | Eon Harris |
@@ -266,8 +266,8 @@
 | 258 | 343 | Ashley Raines |
 | 259 | 341 | Ashley Tookes |
 | 260 | 341 | MsBee |
-| 261 | 339 | Danielle Weikel |
-| 262 | 339 | Cynthia Herrmann Egland |
+| 261 | 339 | Cynthia Herrmann Egland |
+| 262 | 339 | Danielle Weikel |
 | 263 | 338 | Gumbo |
 | 264 | 336 | Jojo M |
 | 265 | 332 | Velma Mull |

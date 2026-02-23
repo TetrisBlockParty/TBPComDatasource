@@ -190,8 +190,8 @@
 | 182 | 1294 | Ashley House |
 | 183 | 1292 | Mischelle Clay |
 | 184 | 1286 | Altamirano Michael |
-| 185 | 1282 | Tanya Parsons |
-| 186 | 1282 | Ashley Rose Frederick |
+| 185 | 1282 | Ashley Rose Frederick |
+| 186 | 1282 | Tanya Parsons |
 | 187 | 1277 | Desiree Harris Rosch |
 | 188 | 1270 | Cherica Taylor |
 | 189 | 1257 | Michele Gabriel |
@@ -331,8 +331,8 @@
 | 323 | 833 | Cody Nishimura |
 | 324 | 833 | Moni Foxe |
 | 325 | 826 | Diallo Sparkman |
-| 326 | 824 | Khalil Lowe |
-| 327 | 824 | Danielle Johnson-Chandler |
+| 326 | 824 | Danielle Johnson-Chandler |
+| 327 | 824 | Khalil Lowe |
 | 328 | 821 | Cassie Mercer |
 | 329 | 821 | Angie Bolton Workman |
 | 330 | 820 | Julie Kresal |
@@ -347,9 +347,9 @@
 | 339 | 808 | Desire Rice |
 | 340 | 801 | Diana Fitzwater |
 | 341 | 799 | Joy LaJeunesse |
-| 342 | 793 | Lisa Ongtowasruk |
-| 343 | 793 | Heather Schelkopf |
-| 344 | 793 | Arlene Joy Belicina |
+| 342 | 793 | Arlene Joy Belicina |
+| 343 | 793 | Lisa Ongtowasruk |
+| 344 | 793 | Heather Schelkopf |
 | 345 | 792 | Gold Rose |
 | 346 | 790 | Brenda Pierpoint |
 | 347 | 788 | Erika Densmore |
@@ -363,25 +363,25 @@
 | 355 | 769 | Melissa Cole |
 | 356 | 768 | Joshua Self |
 | 357 | 768 | Arkei Luster |
-| 358 | 767 | Ashley Lopez |
-| 359 | 767 | Fancy Twister |
+| 358 | 767 | Fancy Twister |
+| 359 | 767 | Ashley Lopez |
 | 360 | 765 | Kathryn Townsley |
 | 361 | 763 | Dreamy Blast |
 | 362 | 763 | Heather Causey |
 | 363 | 761 | Hyper Cluster |
 | 364 | 760 | Doowop40 |
-| 365 | 760 | Cheech Dta |
-| 366 | 760 | Andrew Willis |
+| 365 | 760 | Andrew Willis |
+| 366 | 760 | Cheech Dta |
 | 367 | 759 | Melissa Penelope Ann Dodge |
-| 368 | 758 | Stephanie Neuburger |
-| 369 | 758 | Quirky Twistline |
+| 368 | 758 | Quirky Twistline |
+| 369 | 758 | Stephanie Neuburger |
 | 370 | 755 | Johnny Yeates |
 | 371 | 751 | Loony Snapper |
 | 372 | 748 | Brenda Utphall |
 | 373 | 748 | Stephanie Lumanlan |
 | 374 | 747 | Kiely Tomaskovich |
-| 375 | 746 | Leslie Ann Carter |
-| 376 | 746 | Jerilyn Andrina |
+| 375 | 746 | Jerilyn Andrina |
+| 376 | 746 | Leslie Ann Carter |
 | 377 | 744 | Mandi Douglas Hilt |
 | 378 | 743 | Tiara Elizabeth Baker |
 | 379 | 741 | Jánine Riggs |

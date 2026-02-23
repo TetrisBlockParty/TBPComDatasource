@@ -54,8 +54,8 @@
 | 46 | 860 | Jae Job |
 | 47 | 855 | Marvin Lou Martin |
 | 48 | 850 | TeeJ |
-| 49 | 846 | Lucille Truesdale |
-| 50 | 846 | Christine Marie |
+| 49 | 846 | Christine Marie |
+| 50 | 846 | Lucille Truesdale |
 | 51 | 845 | LisaJo Picken Buchanan |
 | 52 | 843 | Shelly Chandler |
 | 53 | 834 | quicksand420 |
@@ -196,8 +196,8 @@
 | 188 | 300 | Zakia Monae |
 | 189 | 297 | Melvin Baird |
 | 190 | 294 | Calvin Cannon |
-| 191 | 293 | Kathy Brookins |
-| 192 | 293 | Michele Plunkett |
+| 191 | 293 | Michele Plunkett |
+| 192 | 293 | Kathy Brookins |
 | 193 | 292 | Epic Curvetile |
 | 194 | 290 | Keshia Lyons |
 | 195 | 288 | Leah Kutz Zirbel |
@@ -216,10 +216,10 @@
 | 208 | 272 | Dennis Bradley |
 | 209 | 272 | Alan George LaRage |
 | 210 | 272 | Porkobello |
-| 211 | 271 | Chris Hartig |
-| 212 | 271 | Sarah Brown |
-| 213 | 270 | Jen Caldwell |
-| 214 | 270 | Juls |
+| 211 | 271 | Sarah Brown |
+| 212 | 271 | Chris Hartig |
+| 213 | 270 | Juls |
+| 214 | 270 | Jen Caldwell |
 | 215 | 269 | Nikki Rae Gordon |
 | 216 | 268 | Mimi |
 | 217 | 267 | Holly |
@@ -253,8 +253,8 @@
 | 245 | 235 | LaDonna LovinmesomeMe Lambert |
 | 246 | 235 | Shainne Brewer |
 | 247 | 233 | Ruben Wheeler |
-| 248 | 232 | Joanna |
-| 249 | 232 | Rio Rocha |
+| 248 | 232 | Rio Rocha |
+| 249 | 232 | Joanna |
 | 250 | 230 | Jade Rian |
 | 251 | 228 | Antony Dwayne Beasley |
 | 252 | 227 | BigSammy420 |
@@ -314,10 +314,10 @@
 | 306 | 191 | Norman Klick |
 | 307 | 190 | wombat |
 | 308 | 189 | Berklie Apedaile |
-| 309 | 187 | Nita Wells |
-| 310 | 187 | Cynthia Boudreau |
-| 311 | 186 | Lauren Lamb |
-| 312 | 186 | Eri Kka |
+| 309 | 187 | Cynthia Boudreau |
+| 310 | 187 | Nita Wells |
+| 311 | 186 | Eri Kka |
+| 312 | 186 | Lauren Lamb |
 | 313 | 185 | Rebecca Blake |
 | 314 | 185 | Nubian1 |
 | 315 | 185 | Laura Hosford |
