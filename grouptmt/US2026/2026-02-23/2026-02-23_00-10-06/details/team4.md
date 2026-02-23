@@ -51,8 +51,8 @@
 | 43 | 908 | Misty Hollibaugh |
 | 44 | 855 | Marvin Lou Martin |
 | 45 | 851 | Jae Job |
-| 46 | 846 | Christine Marie |
-| 47 | 846 | Lucille Truesdale |
+| 46 | 846 | Lucille Truesdale |
+| 47 | 846 | Christine Marie |
 | 48 | 845 | LisaJo Picken Buchanan |
 | 49 | 843 | Shelly Chandler |
 | 50 | 840 | TeeJ |
@@ -82,8 +82,8 @@
 | 74 | 671 | Kimyatta Cavin |
 | 75 | 664 | Valerie Roberts |
 | 76 | 659 | Jonathan Kimbrough |
-| 77 | 647 | KM8 |
-| 78 | 647 | Shauna Havard |
+| 77 | 647 | Shauna Havard |
+| 78 | 647 | KM8 |
 | 79 | 646 | Jacqueline Helm |
 | 80 | 640 | Lisa Davis |
 | 81 | 626 | Brittney Griggs |
@@ -109,8 +109,8 @@
 | 101 | 512 | Casey Jeffcoat |
 | 102 | 510 | Scott Jameson |
 | 103 | 500 | Rodney McMath Jr. |
-| 104 | 499 | Trista Leah |
-| 105 | 499 | Christina LR |
+| 104 | 499 | Christina LR |
+| 105 | 499 | Trista Leah |
 | 106 | 488 | Jen Allison |
 | 107 | 487 | shar |
 | 108 | 487 | Alyssa Papen |
@@ -157,8 +157,8 @@
 | 149 | 356 | Livvy |
 | 150 | 353 | Tyler Terrific |
 | 151 | 349 | Desi Desporte |
-| 152 | 348 | 🥔🥔 Spudz |
-| 153 | 348 | Silly Zonebuilder |
+| 152 | 348 | Silly Zonebuilder |
+| 153 | 348 | 🥔🥔 Spudz |
 | 154 | 347 | Daria Rycewicz |
 | 155 | 343 | Latisha Davis |
 | 156 | 342 | Klo |
@@ -248,8 +248,8 @@
 | 240 | 235 | LaDonna LovinmesomeMe Lambert |
 | 241 | 233 | Ruben Wheeler |
 | 242 | 232 | Rio Rocha |
-| 243 | 230 | Jade Rian |
-| 244 | 230 | blockstar |
+| 243 | 230 | blockstar |
+| 244 | 230 | Jade Rian |
 | 245 | 228 | Antony Dwayne Beasley |
 | 246 | 227 | BigSammy420 |
 | 247 | 226 | Dizzy Matchzone |
@@ -259,8 +259,8 @@
 | 251 | 221 | PurpleMoonMa |
 | 252 | 221 | Rheanda Weaskus |
 | 253 | 220 | Joanna |
-| 254 | 219 | Lori |
-| 255 | 219 | Malakai Darien Fox |
+| 254 | 219 | Malakai Darien Fox |
+| 255 | 219 | Lori |
 | 256 | 219 | Christine Therrien |
 | 257 | 216 | Keith Kelley |
 | 258 | 216 | ZeeZee |
@@ -277,12 +277,12 @@
 | 269 | 212 | Orchislactea |
 | 270 | 211 | Christina Black |
 | 271 | 209 | Zany Shatterer |
-| 272 | 208 | Rebecca Morris |
-| 273 | 208 | Chantilly Laace |
+| 272 | 208 | Chantilly Laace |
+| 273 | 208 | Rebecca Morris |
 | 274 | 207 | Snippy Puzzle |
-| 275 | 205 | Stella |
+| 275 | 205 | KayM |
 | 276 | 205 | James Hurley Jr. |
-| 277 | 205 | KayM |
+| 277 | 205 | Stella |
 | 278 | 203 | Katherine Crane |
 | 279 | 202 | Shainne Brewer |
 | 280 | 202 | Angelito |
@@ -410,8 +410,8 @@
 | 402 | 148 | Mighty Edgepiece |
 | 403 | 148 | Bryan Hodgins |
 | 404 | 148 | Janita Parrish |
-| 405 | 147 | Ashlee Carnes |
-| 406 | 147 | Maureen Flanigan |
+| 405 | 147 | Maureen Flanigan |
+| 406 | 147 | Jay28 |
 | 407 | 147 | Ashlee Carnes |
 | 408 | 146 | Brave Spinbuilder |
 | 409 | 145 | Austin Trent Weaver |

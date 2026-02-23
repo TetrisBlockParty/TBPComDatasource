@@ -155,8 +155,8 @@
 | 147 | 571 | Nicole Myers |
 | 148 | 568 | Rachael McClain Owens |
 | 149 | 567 | Domo Washington |
-| 150 | 562 | Louise Stacy Sisson |
-| 151 | 562 | Dave Herzog |
+| 150 | 562 | Dave Herzog |
+| 151 | 562 | Louise Stacy Sisson |
 | 152 | 553 | LaTanya GeminiondaRise Johnson |
 | 153 | 546 | Cynthia Castros-Hampton |
 | 154 | 543 | Tasha Gillespie |

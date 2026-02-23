@@ -50,8 +50,8 @@
 | 42 | 864 | Adam Byrd |
 | 43 | 863 | Tipsy Column |
 | 44 | 862 | Christina Costantino |
-| 45 | 844 | Katie Daniels |
-| 46 | 844 | Amanda Summey Schoemer |
+| 45 | 844 | Amanda Summey Schoemer |
+| 46 | 844 | Katie Daniels |
 | 47 | 827 | Drew Magnus |
 | 48 | 805 | Sevens4L |
 | 49 | 797 | Lawrence Belanger |
@@ -85,8 +85,8 @@
 | 77 | 552 | Aaron Garnett |
 | 78 | 551 | Greg Hart |
 | 79 | 535 | Denice Dee |
-| 80 | 534 | Loony Fitzone |
-| 81 | 534 | Cynthia Bradley |
+| 80 | 534 | Cynthia Bradley |
+| 81 | 534 | Loony Fitzone |
 | 82 | 524 | Erin Hodges Plumb |
 | 83 | 522 | Robert Benito |
 | 84 | 519 | Ryan Lunnin |
@@ -143,8 +143,8 @@
 | 135 | 376 | lil mickey |
 | 136 | 376 | Brian Richardsson |
 | 137 | 368 | Death |
-| 138 | 364 | Serina Marie |
-| 139 | 364 | Shauna Loe |
+| 138 | 364 | Shauna Loe |
+| 139 | 364 | Serina Marie |
 | 140 | 363 | Sharon Reynolds |
 | 141 | 361 | Tanya Carpenter-Reynolds |
 | 142 | 360 | Wisa |
@@ -164,8 +164,8 @@
 | 156 | 333 | GATOR |
 | 157 | 332 | Lehrin Maria |
 | 158 | 325 | Dizzy Party |
-| 159 | 324 | Rat666 |
-| 160 | 324 | Ananda Mendez |
+| 159 | 324 | Ananda Mendez |
+| 160 | 324 | Rat666 |
 | 161 | 322 | Chelsea Dahlquist |
 | 162 | 318 | Constance Risner |
 | 163 | 318 | Virginia Gray Floyd |
@@ -192,8 +192,8 @@
 | 184 | 289 | Jerry Danowski |
 | 185 | 287 | Witty Builderfit |
 | 186 | 287 | Angela Renea Lester |
-| 187 | 286 | Carrie Smith |
-| 188 | 286 | BadG52 |
+| 187 | 286 | BadG52 |
+| 188 | 286 | Carrie Smith |
 | 189 | 283 | Franswa |
 | 190 | 282 | Timothy Dew |
 | 191 | 282 | Sassy Builderline |

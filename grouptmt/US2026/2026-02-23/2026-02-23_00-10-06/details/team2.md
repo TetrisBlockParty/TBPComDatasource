@@ -387,8 +387,8 @@
 | 379 | 728 | Tom Riefer |
 | 380 | 725 | Vonceial Boone |
 | 381 | 724 | goofinoff |
-| 382 | 724 | Dreamy Blast |
-| 383 | 724 | Melissa Holsinger |
+| 382 | 724 | Melissa Holsinger |
+| 383 | 724 | Dreamy Blast |
 | 384 | 722 | Arlene Joy Belicina |
 | 385 | 719 | Melissa Penelope Ann Dodge |
 | 386 | 715 | Denise Rickman |
@@ -470,8 +470,8 @@
 | 462 | 607 | Véronique Lévesque Sabourin |
 | 463 | 605 | Santana Miyagi |
 | 464 | 603 | Casper The Chonk |
-| 465 | 602 | KhaosLord |
-| 466 | 602 | Shaun Church |
+| 465 | 602 | Shaun Church |
+| 466 | 602 | KhaosLord |
 | 467 | 601 | Moua Ying |
 | 468 | 597 | Jamie Schmitt |
 | 469 | 595 | Bee |
@@ -503,8 +503,8 @@
 | 495 | 569 | Sparkles |
 | 496 | 567 | Snappy Matchbuilder |
 | 497 | 566 | Leah Keesling |
-| 498 | 565 | Blacc Blac |
-| 499 | 565 | Ann Knutson Anderson |
+| 498 | 565 | Ann Knutson Anderson |
+| 499 | 565 | Blacc Blac |
 | 500 | 564 | Koa N Sharon Chen |
 | 501 | 563 | Sarah Massey |
 | 502 | 563 | Frisky Clearpiece |
@@ -529,11 +529,11 @@
 | 521 | 543 | Misti Markijohn |
 | 522 | 542 | Jarboe |
 | 523 | 542 | Alexandra Weir |
-| 524 | 537 | Kori Beth Babb |
-| 525 | 537 | Sarah Berger |
+| 524 | 537 | Sarah Berger |
+| 525 | 537 | Kori Beth Babb |
 | 526 | 535 | Belle Mari |
-| 527 | 535 | Anthony Huebel |
-| 528 | 535 | Maddy Petersen |
+| 527 | 535 | Maddy Petersen |
+| 528 | 535 | Anthony Huebel |
 | 529 | 533 | Davetta Sanford |
 | 530 | 531 | Briana Alexander |
 | 531 | 531 | Aishah Brice |
@@ -786,8 +786,8 @@
 | 778 | 385 | Jennifer Leigh |
 | 779 | 384 | Party d |
 | 780 | 384 | Lawanda Forbes |
-| 781 | 383 | Jane Crew |
-| 782 | 383 | Savannah Alexander |
+| 781 | 383 | Savannah Alexander |
+| 782 | 383 | Jane Crew |
 | 783 | 382 | Amber Gray |
 | 784 | 382 | Lively Edgepiece |
 | 785 | 382 | David Holliday |
@@ -890,8 +890,8 @@
 | 882 | 343 | Victoria Marie Bunch |
 | 883 | 343 | Snappy Shatterfit |
 | 884 | 342 | Danielle DeLozier Plesec |
-| 885 | 342 | SwifftFox |
-| 886 | 342 | Theresa Sterrett |
+| 885 | 342 | Theresa Sterrett |
+| 886 | 342 | SwifftFox |
 | 887 | 342 | Patrick Fleming |
 | 888 | 341 | Angela Yantz |
 | 889 | 341 | Robin L. Vial |
@@ -902,8 +902,8 @@
 | 894 | 339 | Anthony Mignacca |
 | 895 | 339 | Heather Renee Jeffers |
 | 896 | 339 | Giggly Snap |
-| 897 | 339 | Jennifer Coe |
-| 898 | 339 | Taren Cowan |
+| 897 | 339 | Taren Cowan |
+| 898 | 339 | Jennifer Coe |
 | 899 | 338 | MamaBear11 |
 | 900 | 338 | Macy Jarrett |
 | 901 | 337 | Layla LS |
@@ -913,8 +913,8 @@
 | 905 | 336 | Gina Gina |
 | 906 | 336 | Colton Saupe |
 | 907 | 335 | Emoniee Sa'niaya |
-| 908 | 335 | Darla Silva |
-| 909 | 335 | Brooke Leigh Strube |
+| 908 | 335 | Brooke Leigh Strube |
+| 909 | 335 | Darla Silva |
 | 910 | 334 | Melissa James |
 | 911 | 334 | Cool Grabber |
 | 912 | 333 | Min |
