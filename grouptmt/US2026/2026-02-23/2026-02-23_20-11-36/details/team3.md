@@ -12,7 +12,7 @@
 | 4 | 10361 | Amy Dial Brown |
 | 5 | 8616 | Jackie's Soblessed |
 | 6 | 7931 | Ange Ptaszynski |
-| 7 | 7440 | Beverly Young |
+| 7 | 7411 | Beverly Young |
 | 8 | 6328 | Poppy Dashfit |
 | 9 | 5720 | Kathryn Keenan-Taggart |
 | 10 | 5481 | Laurie Allen |
@@ -218,12 +218,12 @@
 | 210 | 585 | Jim Mathews |
 | 211 | 582 | Natasha Jones |
 | 212 | 575 | Connie Mohler-Fair |
-| 213 | 569 | Juliana Dottore |
-| 214 | 569 | Michael Johnson |
+| 213 | 569 | Michael Johnson |
+| 214 | 569 | Juliana Dottore |
 | 215 | 568 | Rachael McClain Owens |
 | 216 | 566 | LaTanya GeminiondaRise Johnson |
-| 217 | 564 | Poppy Splitter |
-| 218 | 564 | Christine Trester |
+| 217 | 564 | Christine Trester |
+| 218 | 564 | Poppy Splitter |
 | 219 | 563 | FuzzyNavel |
 | 220 | 562 | Dave Herzog |
 | 221 | 561 | Silly Twist |
@@ -367,7 +367,7 @@
 | 359 | 360 | Goofy Fall |
 | 360 | 359 | Steven Fulater |
 | 361 | 359 | Rick Poppen |
-| 362 | 359 | Steven Fulater |
+| 362 | 359 | Kristen Weese |
 | 363 | 358 | Heather Davis |
 | 364 | 358 | Ashley Rufus Bythcez |
 | 365 | 356 | Tony Waters |
@@ -425,8 +425,8 @@
 | 417 | 320 | Taylor Hood |
 | 418 | 319 | Tay |
 | 419 | 318 | Christy Quick |
-| 420 | 318 | Beppy |
-| 421 | 318 | Ava Petito |
+| 420 | 318 | Ava Petito |
+| 421 | 318 | Beppy |
 | 422 | 317 | Funky Jumper |
 | 423 | 316 | Travis W |
 | 424 | 315 | Colton |
@@ -474,8 +474,8 @@
 | 466 | 291 | Niki Dalrymple |
 | 467 | 291 | Bryan Byrd |
 | 468 | 290 | Carrie Resler |
-| 469 | 290 | Tegan Chapman |
-| 470 | 290 | Justin Parker |
+| 469 | 290 | Justin Parker |
+| 470 | 290 | Tegan Chapman |
 | 471 | 289 | DidIdothat |
 | 472 | 288 | Irene Arreguin |
 | 473 | 287 | Carol Cain Thurman |

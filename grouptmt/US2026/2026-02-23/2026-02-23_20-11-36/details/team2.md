@@ -48,8 +48,8 @@
 | 40 | 4718 | Jill Stroehlein |
 | 41 | 4470 | Corrine Hawks Soriano |
 | 42 | 4390 | Maegan Beaule |
-| 43 | 4358 | YiFei |
-| 44 | 4347 | Mighty Patternzone |
+| 43 | 4347 | Mighty Patternzone |
+| 44 | 4304 | YiFei |
 | 45 | 4223 | Andea Beck |
 | 46 | 4121 | Nickie Baby |
 | 47 | 4120 | Kristen Sceurman |
@@ -221,7 +221,7 @@
 | 213 | 1484 | PsychKIRAtrist |
 | 214 | 1484 | Ginnell Browner |
 | 215 | 1471 | Tommy Tha Boss Gunz |
-| 216 | 1470 | Tonya Morgan |
+| 216 | 1461 | Tonya Morgan |
 | 217 | 1453 | Wendy Unsain |
 | 218 | 1452 | Cody Smith-Candelaria |
 | 219 | 1451 | Anna Edwards |

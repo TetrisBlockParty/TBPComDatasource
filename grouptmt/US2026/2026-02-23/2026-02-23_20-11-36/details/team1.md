@@ -72,8 +72,8 @@
 | 64 | 955 | Francesca Gee |
 | 65 | 951 | Zippy Align |
 | 66 | 936 | Veronica Eve |
-| 67 | 931 | Drew Magnus |
-| 68 | 923 | Erin Hodges Plumb |
+| 67 | 923 | Erin Hodges Plumb |
+| 68 | 918 | Drew Magnus |
 | 69 | 916 | Jacqueline Williams |
 | 70 | 904 | Fmp |
 | 71 | 898 | Dawn Sheppard |
@@ -293,11 +293,11 @@
 | 285 | 315 | Flashy Rotator |
 | 286 | 313 | Cody Gates |
 | 287 | 312 | Danielle S Kester |
-| 288 | 311 | Nathan Sealander |
-| 289 | 311 | Jumpy Dropper |
-| 290 | 310 | Mrs.Patrica |
+| 288 | 311 | Jumpy Dropper |
+| 289 | 311 | Nathan Sealander |
+| 290 | 310 | Matt Iaccheo |
 | 291 | 310 | Billie Ann Eason |
-| 292 | 310 | Matt Iaccheo |
+| 292 | 310 | Mrs.Patrica |
 | 293 | 308 | Speedy Liney |
 | 294 | 307 | Jessica Russell |
 | 295 | 306 | Cece Ibarra |
@@ -336,8 +336,8 @@
 | 328 | 280 | Billie Dawn Sparks |
 | 329 | 279 | Chris Dawson |
 | 330 | 278 | Bob |
-| 331 | 277 | Nutty Spinblock |
-| 332 | 277 | Agustin Duarte Orozco |
+| 331 | 277 | Agustin Duarte Orozco |
+| 332 | 277 | Nutty Spinblock |
 | 333 | 276 | Blake Mckay |
 | 334 | 275 | Shiny Snapline |
 | 335 | 274 | Allena Craft |
@@ -494,8 +494,8 @@
 | 486 | 196 | Vivienne Carter |
 | 487 | 196 | Kirk Torrey |
 | 488 | 195 | Herm Junior |
-| 489 | 194 | Nicole Meredith Flynn |
-| 490 | 194 | Amanda Wharton |
+| 489 | 194 | Amanda Wharton |
+| 490 | 194 | Nicole Meredith Flynn |
 | 491 | 194 | Sarah Henniker |
 | 492 | 193 | Rayshawn Beamer |
 | 493 | 193 | Giggly Rollfit |

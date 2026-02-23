@@ -82,8 +82,8 @@
 | 74 | 862 | Carolyn Wallace |
 | 75 | 855 | Peachy Fall |
 | 76 | 850 | Lucille Truesdale |
-| 77 | 846 | Amelpss |
-| 78 | 846 | Christine Marie |
+| 77 | 846 | Christine Marie |
+| 78 | 846 | Amelpss |
 | 79 | 841 | Shauna Havard |
 | 80 | 837 | Lisa Davis |
 | 81 | 834 | quicksand420 |
@@ -98,9 +98,9 @@
 | 90 | 764 | Valerie Roberts |
 | 91 | 753 | TheNeesh50 |
 | 92 | 737 | Lori Walker |
-| 93 | 735 | Nugget |
-| 94 | 731 | KJ Pool |
-| 95 | 730 | D3TROITB0RN74 |
+| 93 | 731 | KJ Pool |
+| 94 | 730 | D3TROITB0RN74 |
+| 95 | 728 | Nugget |
 | 96 | 724 | Destiney Carter |
 | 97 | 722 | Rica Mitchell |
 | 98 | 721 | Yoset Mejia |
@@ -156,17 +156,17 @@
 | 148 | 520 | Zippy Block |
 | 149 | 518 | Carly Alexis |
 | 150 | 516 | Trish |
-| 151 | 514 | Scott Jameson |
-| 152 | 514 | Lucas J Sutton |
+| 151 | 514 | Lucas J Sutton |
+| 152 | 514 | Scott Jameson |
 | 153 | 513 | Erin Thomas |
 | 154 | 512 | ThaEviLJeNiuZ |
 | 155 | 512 | Angela Srubar-Norman |
 | 156 | 512 | Casey Jeffcoat |
 | 157 | 508 | Twisty Clicky |
-| 158 | 507 | Nick Gray |
-| 159 | 502 | Ellen Durfee |
-| 160 | 501 | Ericca Eldridge |
-| 161 | 501 | Jessica Lynn Cutlip |
+| 158 | 502 | Ellen Durfee |
+| 159 | 501 | Ericca Eldridge |
+| 160 | 501 | Jessica Lynn Cutlip |
+| 161 | 498 | Nope Young |
 | 162 | 498 | Melissa Adams |
 | 163 | 491 | Jade Rian |
 | 164 | 491 | Carrie Brian |
@@ -567,8 +567,8 @@
 | 559 | 166 | Frank Joseph Epson |
 | 560 | 165 | Dapper Caster |
 | 561 | 165 | Zappy Buildgrid |
-| 562 | 164 | Bussy Bay |
-| 563 | 164 | Smiley Shifter |
+| 562 | 164 | Smiley Shifter |
+| 563 | 164 | Bussy Bay |
 | 564 | 164 | Marvetta Williams |
 | 565 | 163 | Chariss Newsom |
 | 566 | 163 | Ashlee Carnes |
