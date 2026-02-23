@@ -85,8 +85,8 @@
 | 77 | 646 | Susanna Guerry |
 | 78 | 612 | Hasbro Bros |
 | 79 | 599 | Cynthia Bradley |
-| 80 | 598 | Erin Hodges Plumb |
-| 81 | 598 | Kellie |
+| 80 | 598 | Kellie |
+| 81 | 598 | Erin Hodges Plumb |
 | 82 | 597 | Evie Khalil |
 | 83 | 588 | Greg Hart |
 | 84 | 584 | Jen Sartain |
@@ -242,8 +242,8 @@
 | 234 | 263 | Jessie Lynn |
 | 235 | 263 | Perky Shiftsnap |
 | 236 | 261 | John J. Cronin |
-| 237 | 260 | Marianita Garcia |
-| 238 | 260 | Lacy Wolfe |
+| 237 | 260 | Lacy Wolfe |
+| 238 | 260 | Marianita Garcia |
 | 239 | 257 | Sarah Somers Gray |
 | 240 | 255 | Giggly Builderline |
 | 241 | 254 | Al Smith Jr |

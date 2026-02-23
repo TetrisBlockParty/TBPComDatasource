@@ -116,8 +116,8 @@
 | 108 | 528 | Rodney McMath Jr. |
 | 109 | 527 | Dizzy Tiley |
 | 110 | 519 | Nugget |
-| 111 | 517 | Christina LR |
-| 112 | 517 | shar |
+| 111 | 517 | shar |
+| 112 | 517 | Christina LR |
 | 113 | 516 | Austin Owens |
 | 114 | 514 | Scott Jameson |
 | 115 | 514 | Serena Goodridge |
@@ -139,11 +139,11 @@
 | 131 | 435 | Kristina Black |
 | 132 | 431 | Courtney Cicoria |
 | 133 | 425 | Monica Daley |
-| 134 | 421 | Kesha Brady |
-| 135 | 421 | JIGsaw ~(•¿°)~ |
+| 134 | 421 | JIGsaw ~(•¿°)~ |
+| 135 | 421 | Kesha Brady |
 | 136 | 419 | Klo |
-| 137 | 418 | Marie-Pier Desjardins |
-| 138 | 418 | Lush Linkfall |
+| 137 | 418 | Lush Linkfall |
+| 138 | 418 | Marie-Pier Desjardins |
 | 139 | 416 | Chaz Duncan |
 | 140 | 414 | Nope Young |
 | 141 | 412 | Jessica Bohlken |
@@ -152,9 +152,9 @@
 | 144 | 402 | Ericca Eldridge |
 | 145 | 399 | Swanky Fitline |
 | 146 | 397 | Livvy |
-| 147 | 393 | Carlton Unfiltered |
+| 147 | 393 | Girl |
 | 148 | 393 | Trish |
-| 149 | 393 | Girl |
+| 149 | 393 | Carlton Unfiltered |
 | 150 | 391 | Ramel Rhodes |
 | 151 | 389 | Joseph Guthrie |
 | 152 | 387 | Lucas J Sutton |
@@ -328,8 +328,8 @@
 | 320 | 205 | James Hurley Jr. |
 | 321 | 204 | Russ Attitude |
 | 322 | 203 | Gilles Lanctot |
-| 323 | 203 | Andrew Dang |
-| 324 | 203 | Katherine Crane |
+| 323 | 203 | Katherine Crane |
+| 324 | 203 | Andrew Dang |
 | 325 | 200 | Googenheim |
 | 326 | 198 | Calvin Dennis |
 | 327 | 196 | Blessedmama |
