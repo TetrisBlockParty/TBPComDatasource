@@ -598,11 +598,11 @@
 | 590 | 166 | Moimyzean |
 | 591 | 166 | Armi |
 | 592 | 165 | Erica Anderson |
-| 593 | 165 | Giggy Glidepiece |
-| 594 | 165 | Chris Wallace |
-| 595 | 164 | TazB |
-| 596 | 164 | Eboni Starr |
-| 597 | 164 | Mindy Phelps |
+| 593 | 165 | Chris Wallace |
+| 594 | 165 | Giggy Glidepiece |
+| 595 | 164 | Mindy Phelps |
+| 596 | 164 | TazB |
+| 597 | 164 | Eboni Starr |
 | 598 | 164 | Tenisha Semidey |
 | 599 | 164 | Lesa Bartlett |
 | 600 | 163 | Jolly Dashpiece |
@@ -709,8 +709,8 @@
 | 701 | 139 | Melissa Parlow-Callaway |
 | 702 | 139 | Cesar Mendez |
 | 703 | 139 | Dapper Chiseler |
-| 704 | 138 | Amber Reeves-Buchanan |
-| 705 | 138 | FineMuva |
+| 704 | 138 | FineMuva |
+| 705 | 138 | Amber Reeves-Buchanan |
 | 706 | 138 | Chenoa Urban Sophicated Redy |
 | 707 | 138 | Paula Urlacher |
 | 708 | 137 | Patty White |

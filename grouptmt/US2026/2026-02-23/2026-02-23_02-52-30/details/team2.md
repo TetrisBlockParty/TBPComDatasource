@@ -40,8 +40,8 @@
 | 32 | 4274 | Vistabrat |
 | 33 | 4199 | Claire Noland |
 | 34 | 4128 | Angela Pruitt |
-| 35 | 4120 | Corrine Hawks Soriano |
-| 36 | 4120 | Kristen Sceurman |
+| 35 | 4120 | Kristen Sceurman |
+| 36 | 4120 | Corrine Hawks Soriano |
 | 37 | 4093 | Jill Stroehlein |
 | 38 | 3895 | Nickie Baby |
 | 39 | 3770 | Brittany Alicia |
@@ -149,8 +149,8 @@
 | 141 | 1599 | Dustin Rains |
 | 142 | 1581 | Brandy Andre |
 | 143 | 1580 | Heather Westrum |
-| 144 | 1578 | Loopy Clusterbuilder |
-| 145 | 1578 | Sally Dennis |
+| 144 | 1578 | Sally Dennis |
+| 145 | 1578 | Loopy Clusterbuilder |
 | 146 | 1566 | Alisa Lamb |
 | 147 | 1558 | Tim Dyer |
 | 148 | 1557 | blackq |
@@ -197,8 +197,8 @@
 | 189 | 1300 | Tacara Cummings |
 | 190 | 1294 | Ashley House |
 | 191 | 1286 | Altamirano Michael |
-| 192 | 1282 | Ashley Rose Frederick |
-| 193 | 1282 | Tanya Parsons |
+| 192 | 1282 | Tanya Parsons |
+| 193 | 1282 | Ashley Rose Frederick |
 | 194 | 1258 | Joyce Johnson Vaughn |
 | 195 | 1257 | Michele Gabriel |
 | 196 | 1252 | Angel |
@@ -293,8 +293,8 @@
 | 285 | 961 | Jojo Momma |
 | 286 | 958 | Brenda Messer |
 | 287 | 957 | Block Master |
-| 288 | 955 | Em Chen |
-| 289 | 955 | Angela Bonquiqui Dinish |
+| 288 | 955 | Angela Bonquiqui Dinish |
+| 289 | 955 | Em Chen |
 | 290 | 954 | Melissa McCall |
 | 291 | 953 | Phil J. Grombliniak |
 | 292 | 951 | Cynthia Ward |
