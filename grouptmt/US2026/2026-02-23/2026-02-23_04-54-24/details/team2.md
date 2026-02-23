@@ -315,8 +315,8 @@
 | 307 | 951 | Cynthia Ward |
 | 308 | 947 | Dedra Steward |
 | 309 | 941 | Cool Clearer |
-| 310 | 939 | SaraMarie Eveland |
-| 311 | 939 | Cindy Sechler Taninecz |
+| 310 | 939 | Cindy Sechler Taninecz |
+| 311 | 939 | SaraMarie Eveland |
 | 312 | 929 | Joshua Mandel |
 | 313 | 926 | Deborah Miller |
 | 314 | 919 | Isaac Trappiel IV |
@@ -400,14 +400,14 @@
 | 392 | 769 | Kimberly Hope Howell |
 | 393 | 768 | Arkei Luster |
 | 394 | 768 | Joshua Self |
-| 395 | 767 | Ashley Lopez |
-| 396 | 767 | Fancy Twister |
-| 397 | 763 | Heather Causey |
-| 398 | 763 | Dreamy Blast |
-| 399 | 760 | Cheech Dta |
-| 400 | 760 | Andrew Willis |
-| 401 | 758 | Stephanie Neuburger |
-| 402 | 758 | Quirky Twistline |
+| 395 | 767 | Fancy Twister |
+| 396 | 767 | Ashley Lopez |
+| 397 | 763 | Dreamy Blast |
+| 398 | 763 | Heather Causey |
+| 399 | 760 | Andrew Willis |
+| 400 | 760 | Cheech Dta |
+| 401 | 758 | Quirky Twistline |
+| 402 | 758 | Stephanie Neuburger |
 | 403 | 756 | Kiely Tomaskovich |
 | 404 | 755 | Taryece Gause |
 | 405 | 754 | Crystie Hicks |
@@ -416,9 +416,9 @@
 | 408 | 748 | Brenda Utphall |
 | 409 | 748 | Spunkysmom |
 | 410 | 746 | Aimee Campbell |
-| 411 | 746 | Jerilyn Andrina |
+| 411 | 746 | Mandi Douglas Hilt |
 | 412 | 746 | Leslie Ann Carter |
-| 413 | 746 | Mandi Douglas Hilt |
+| 413 | 746 | Jerilyn Andrina |
 | 414 | 741 | Jánine Riggs |
 | 415 | 740 | Jerry Tempelmeyer |
 | 416 | 737 | Chelle |
@@ -453,8 +453,8 @@
 | 445 | 707 | Mama T |
 | 446 | 706 | Kimberly Randesi |
 | 447 | 704 | Montez Mancil |
-| 448 | 703 | Funky Drop |
-| 449 | 703 | Ann Matzkanin |
+| 448 | 703 | Ann Matzkanin |
+| 449 | 703 | Funky Drop |
 | 450 | 700 | Vincent Petrella |
 | 451 | 700 | Beverly Owens |
 | 452 | 699 | Dannette Goldberg-Richards |
@@ -534,14 +534,14 @@
 | 526 | 612 | Briana Alexander |
 | 527 | 612 | Slinky Racker |
 | 528 | 610 | Michael Buckner |
-| 529 | 609 | Autumn Schaeffer |
-| 530 | 609 | Cecilia A Jenkins |
+| 529 | 609 | Cecilia A Jenkins |
+| 530 | 609 | Autumn Schaeffer |
 | 531 | 607 | Mo Shine On |
 | 532 | 606 | Lea Stewart |
 | 533 | 603 | Casper The Chonk |
 | 534 | 602 | KhaosLord |
-| 535 | 601 | Daniel Amos |
-| 536 | 601 | Moua Ying |
+| 535 | 601 | Moua Ying |
+| 536 | 601 | Daniel Amos |
 | 537 | 598 | Victoria Regina Girolami |
 | 538 | 598 | Arwa Fatimah |
 | 539 | 598 | Leah Keesling |

@@ -85,8 +85,8 @@
 | 77 | 646 | Susanna Guerry |
 | 78 | 612 | Hasbro Bros |
 | 79 | 599 | Cynthia Bradley |
-| 80 | 598 | Erin Hodges Plumb |
-| 81 | 598 | Kellie |
+| 80 | 598 | Kellie |
+| 81 | 598 | Erin Hodges Plumb |
 | 82 | 597 | Evie Khalil |
 | 83 | 588 | Greg Hart |
 | 84 | 584 | Jen Sartain |
@@ -134,8 +134,8 @@
 | 126 | 425 | Dandy Basegrid |
 | 127 | 417 | Lori Sanders- Davis |
 | 128 | 411 | BadG52 |
-| 129 | 409 | Sweet Baker |
-| 130 | 409 | Goose egg |
+| 129 | 409 | Goose egg |
+| 130 | 409 | Sweet Baker |
 | 131 | 406 | Desiree Deschaine Havee |
 | 132 | 406 | Candy Jones |
 | 133 | 403 | Rachael |
@@ -145,8 +145,8 @@
 | 137 | 392 | And |
 | 138 | 389 | David Miller |
 | 139 | 388 | Fmp |
-| 140 | 387 | Ananda Mendez |
-| 141 | 387 | Monica Donato |
+| 140 | 387 | Monica Donato |
+| 141 | 387 | Ananda Mendez |
 | 142 | 387 | Emily Adelaide Wheatley |
 | 143 | 383 | Margo Wagner |
 | 144 | 383 | pjbeta |
@@ -167,8 +167,8 @@
 | 159 | 357 | David Lutcher |
 | 160 | 356 | J.F. Fields |
 | 161 | 355 | Amanda Jarnagin |
-| 162 | 353 | Josh Riemer |
-| 163 | 353 | Jaimie Lynn |
+| 162 | 353 | Jaimie Lynn |
+| 163 | 353 | Josh Riemer |
 | 164 | 350 | Tipsy Strikerpiece |
 | 165 | 349 | Cool Shiftsnap |
 | 166 | 347 | Kristi Johnson |
@@ -219,8 +219,8 @@
 | 211 | 291 | Giddy Cascade |
 | 212 | 290 | Speedy Liney |
 | 213 | 285 | Shanae Grant |
-| 214 | 283 | Franswa |
-| 215 | 283 | Amanda Holibaugh |
+| 214 | 283 | Amanda Holibaugh |
+| 215 | 283 | Franswa |
 | 216 | 282 | Mandyy Rae |
 | 217 | 282 | Timothy Dew |
 | 218 | 282 | Sassy Builderline |
@@ -360,7 +360,7 @@
 | 352 | 190 | Sweetts |
 | 353 | 189 | Tawnya Peltonen |
 | 354 | 188 | Brian Taylor |
-| 355 | 187 | Jessica Weed |
+| 355 | 187 | Bob |
 | 356 | 187 | Mark Smith |
 | 357 | 187 | Jessica Weed |
 | 358 | 186 | Nikki Fridley |
@@ -369,7 +369,7 @@
 | 361 | 185 | Amh |
 | 362 | 185 | Hasty Columnbuilder |
 | 363 | 184 | Sonia Marquis |
-| 364 | 182 | Isaiah |
+| 364 | 182 | Nathan Sealander |
 | 365 | 182 | Test |
 | 366 | 182 | Glitzy Curvebuilder |
 | 367 | 182 | Isaiah |

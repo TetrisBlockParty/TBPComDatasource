@@ -57,8 +57,8 @@
 | 49 | 863 | Pee |
 | 50 | 855 | Marvin Lou Martin |
 | 51 | 853 | TeeJ |
-| 52 | 846 | Lucille Truesdale |
-| 53 | 846 | Christine Marie |
+| 52 | 846 | Christine Marie |
+| 53 | 846 | Lucille Truesdale |
 | 54 | 845 | LisaJo Picken Buchanan |
 | 55 | 843 | Shelly Chandler |
 | 56 | 841 | Anthony Bryan Riva |
@@ -87,8 +87,8 @@
 | 79 | 703 | Savannah Overdorf |
 | 80 | 697 | Alyssa Papen |
 | 81 | 696 | Shane Kalamata Platoon |
-| 82 | 684 | Kimyatta Cavin |
-| 83 | 684 | Jonathan Kimbrough |
+| 82 | 684 | Jonathan Kimbrough |
+| 83 | 684 | Kimyatta Cavin |
 | 84 | 677 | Trista Leah |
 | 85 | 673 | Jacqueline Helm |
 | 86 | 670 | Destiney Carter |
@@ -139,11 +139,11 @@
 | 131 | 435 | Kristina Black |
 | 132 | 431 | Courtney Cicoria |
 | 133 | 425 | Monica Daley |
-| 134 | 421 | Kesha Brady |
-| 135 | 421 | JIGsaw ~(•¿°)~ |
+| 134 | 421 | JIGsaw ~(•¿°)~ |
+| 135 | 421 | Kesha Brady |
 | 136 | 419 | Klo |
-| 137 | 418 | Marie-Pier Desjardins |
-| 138 | 418 | Lush Linkfall |
+| 137 | 418 | Lush Linkfall |
+| 138 | 418 | Marie-Pier Desjardins |
 | 139 | 416 | Chaz Duncan |
 | 140 | 414 | Nope Young |
 | 141 | 412 | Jessica Bohlken |
@@ -172,8 +172,8 @@
 | 164 | 368 | Chris Bernstein |
 | 165 | 368 | Raegan Lane-Ross |
 | 166 | 365 | Jeff Brian Gates |
-| 167 | 361 | Danielle Kollias |
-| 168 | 361 | Melissa Adams |
+| 167 | 361 | Melissa Adams |
+| 168 | 361 | Danielle Kollias |
 | 169 | 359 | Keith Kelley |
 | 170 | 358 | A5! |
 | 171 | 356 | George Nutt |
@@ -201,8 +201,8 @@
 | 193 | 313 | Zippy Block |
 | 194 | 310 | Holly Jolly |
 | 195 | 309 | Cursed Hag |
-| 196 | 307 | Michele Plunkett |
-| 197 | 307 | Cheery Risebuilder |
+| 196 | 307 | Cheery Risebuilder |
+| 197 | 307 | Michele Plunkett |
 | 198 | 306 | blockstar |
 | 199 | 306 | Mary Ann Pabukis |
 | 200 | 305 | Melvin Baird |
@@ -226,23 +226,23 @@
 | 218 | 284 | Mimi |
 | 219 | 282 | Kim Klutz Olson |
 | 220 | 282 | Matt Gooder |
-| 221 | 281 | Laura |
-| 222 | 281 | Nikki Rae Gordon |
+| 221 | 281 | Nikki Rae Gordon |
+| 222 | 281 | Laura |
 | 223 | 278 | Angela Geist Jusinski |
 | 224 | 278 | Sarah Brown |
 | 225 | 276 | Matt Dell'Olio |
 | 226 | 276 | Joeliecea Cobb |
 | 227 | 273 | Casey Grabner |
-| 228 | 272 | Carlos Ramirez |
-| 229 | 272 | Alan George LaRage |
-| 230 | 272 | Dennis Bradley |
+| 228 | 272 | Alan George LaRage |
+| 229 | 272 | Dennis Bradley |
+| 230 | 272 | Carlos Ramirez |
 | 231 | 271 | Holly |
-| 232 | 270 | Jen Caldwell |
-| 233 | 270 | Juls |
+| 232 | 270 | Juls |
+| 233 | 270 | Jen Caldwell |
 | 234 | 267 | JPW |
 | 235 | 266 | Mr. Party |
-| 236 | 265 | Sarah Neathery |
-| 237 | 265 | Silly SeaWeed |
+| 236 | 265 | Silly SeaWeed |
+| 237 | 265 | Sarah Neathery |
 | 238 | 264 | Stella |
 | 239 | 262 | BigSammy420 |
 | 240 | 262 | Selena Shaw |

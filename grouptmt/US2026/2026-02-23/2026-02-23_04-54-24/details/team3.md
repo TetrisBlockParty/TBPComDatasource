@@ -184,8 +184,8 @@
 | 176 | 541 | Tasha Schriewer |
 | 177 | 540 | Shawn Miller |
 | 178 | 535 | Jone |
-| 179 | 531 | Sarah Cowan Burgos |
-| 180 | 531 | Chauntee Alfrey-Cardinale |
+| 179 | 531 | Chauntee Alfrey-Cardinale |
+| 180 | 531 | Sarah Cowan Burgos |
 | 181 | 528 | Silly Twist |
 | 182 | 524 | Bmo |
 | 183 | 519 | rnr junky |
@@ -366,8 +366,8 @@
 | 358 | 274 | Mary Giorgenti |
 | 359 | 273 | France Vézina |
 | 360 | 273 | Brenda Schmid Wood |
-| 361 | 272 | Romeo |
-| 362 | 272 | Todd Hall |
+| 361 | 272 | Todd Hall |
+| 362 | 272 | Romeo |
 | 363 | 272 | Tay |
 | 364 | 270 | Dee Pratt |
 | 365 | 269 | Jess Bissett |
@@ -514,8 +514,8 @@
 | 506 | 200 | Emberblaze |
 | 507 | 200 | Christina Marie Swisher |
 | 508 | 199 | Cheeky Setter |
-| 509 | 198 | Zac Hudak |
-| 510 | 198 | Jodi Kaczynski-O'Dowd |
+| 509 | 198 | Jodi Kaczynski-O'Dowd |
+| 510 | 198 | Zac Hudak |
 | 511 | 198 | joz |
 | 512 | 197 | Johnny Berlin |
 | 513 | 197 | Fredd Thomas |
