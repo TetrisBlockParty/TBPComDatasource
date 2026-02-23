@@ -66,8 +66,8 @@
 | 58 | 892 | Seth Wesson |
 | 59 | 874 | Kristen Roles Robben |
 | 60 | 858 | Michelle Nicole |
-| 61 | 850 | comrade fish |
-| 62 | 850 | Andrea Dañielle Ortiz |
+| 61 | 850 | Andrea Dañielle Ortiz |
+| 62 | 850 | comrade fish |
 | 63 | 845 | Drew Magnus |
 | 64 | 829 | Sevens4L |
 | 65 | 818 | Patrick Luckenbill |
@@ -79,8 +79,8 @@
 | 71 | 760 | Seante Bullock |
 | 72 | 759 | Jacqueline Williams |
 | 73 | 750 | Cartier |
-| 74 | 713 | Robert Benito |
-| 75 | 713 | Snappy Swiper |
+| 74 | 713 | Snappy Swiper |
+| 75 | 713 | Robert Benito |
 | 76 | 704 | Karin Gillen |
 | 77 | 703 | Angel Fowler |
 | 78 | 689 | Susanna Guerry |
@@ -127,8 +127,8 @@
 | 119 | 477 | Tonya Beasley |
 | 120 | 475 | Sarah Somers Gray |
 | 121 | 471 | Hyper |
-| 122 | 467 | Candy Jones |
-| 123 | 467 | Constance Risner |
+| 122 | 467 | Constance Risner |
+| 123 | 467 | Candy Jones |
 | 124 | 463 | Lexuriuos Lifestlye |
 | 125 | 462 | Luciano Moreira |
 | 126 | 458 | Evan Richmond |
@@ -398,8 +398,8 @@
 | 390 | 202 | Brave Slice |
 | 391 | 202 | Krie |
 | 392 | 201 | Colleen Wise |
-| 393 | 201 | Tedashi |
-| 394 | 201 | Rico Rico |
+| 393 | 201 | Rico Rico |
+| 394 | 201 | Tedashi |
 | 395 | 200 | Zesty Brickzone |
 | 396 | 199 | Larissa Marie Nelson |
 | 397 | 199 | Tina Englert |
@@ -425,8 +425,8 @@
 | 417 | 191 | Amh |
 | 418 | 191 | Garcia Bailey |
 | 419 | 190 | yoyoluv |
-| 420 | 189 | Dizzy Rackham |
-| 421 | 189 | BettyAnn Savo |
+| 420 | 189 | BettyAnn Savo |
+| 421 | 189 | Dizzy Rackham |
 | 422 | 188 | Strig |
 | 423 | 188 | Brian Taylor |
 | 424 | 187 | Kimberly Davis |
@@ -436,8 +436,8 @@
 | 428 | 186 | Chummy Rollblock |
 | 429 | 186 | Nikki Fridley |
 | 430 | 185 | Hasty Columnbuilder |
-| 431 | 184 | Sonia Marquis |
-| 432 | 184 | Theeranart Mahawan |
+| 431 | 184 | Theeranart Mahawan |
+| 432 | 184 | Sonia Marquis |
 | 433 | 183 | MommaKFC |
 | 434 | 182 | Mrsbigdawg |
 | 435 | 182 | Nathan Sealander |
@@ -632,8 +632,8 @@
 | 624 | 125 | Tiffany Daboss Seymour |
 | 625 | 125 | Nicole Bryant |
 | 626 | 124 | Brandi Egbert |
-| 627 | 124 | Manley Smith |
-| 628 | 124 | Margie Olivas |
+| 627 | 124 | Margie Olivas |
+| 628 | 124 | Manley Smith |
 | 629 | 123 | Jill King Oldham |
 | 630 | 123 | Chirpy Liner |
 | 631 | 123 | Lisa Marie |

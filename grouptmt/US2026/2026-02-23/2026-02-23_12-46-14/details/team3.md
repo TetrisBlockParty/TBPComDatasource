@@ -118,8 +118,8 @@
 | 110 | 869 | Araceli Parra |
 | 111 | 868 | Sarajane Lokan |
 | 112 | 860 | Sunny Rotater |
-| 113 | 851 | Jd Morris |
-| 114 | 851 | Danielle Becker |
+| 113 | 851 | Danielle Becker |
+| 114 | 851 | Jd Morris |
 | 115 | 850 | Danielle Mogg |
 | 116 | 848 | Patricia Gadsden |
 | 117 | 839 | Angeline Joseph |

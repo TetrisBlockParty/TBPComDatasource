@@ -49,8 +49,8 @@
 | 41 | 1121 | Isabel Aguilar |
 | 42 | 1100 | Landon Keith Graffeo |
 | 43 | 1085 | Kimyatta Cavin |
-| 44 | 1082 | Dawn Alexander |
-| 45 | 1082 | Dion Crommarty |
+| 44 | 1082 | Dion Crommarty |
+| 45 | 1082 | Dawn Alexander |
 | 46 | 1071 | Cherrish Duren |
 | 47 | 1065 | Koshin Abdirahman |
 | 48 | 1046 | Johnathan Martinez |
@@ -69,8 +69,8 @@
 | 61 | 846 | Lucille Truesdale |
 | 62 | 846 | Christine Marie |
 | 63 | 834 | quicksand420 |
-| 64 | 807 | Amelpss |
-| 65 | 807 | Rachel Anne |
+| 64 | 807 | Rachel Anne |
+| 65 | 807 | Amelpss |
 | 66 | 790 | Avy Absol |
 | 67 | 788 | Julian Garcia |
 | 68 | 788 | Chilly Line |
@@ -134,8 +134,8 @@
 | 126 | 514 | Scott Jameson |
 | 127 | 513 | Chaz Duncan |
 | 128 | 513 | Erin Thomas |
-| 129 | 512 | Casey Jeffcoat |
-| 130 | 512 | Cristy Duerksen |
+| 129 | 512 | Cristy Duerksen |
+| 130 | 512 | Casey Jeffcoat |
 | 131 | 508 | Twisty Clicky |
 | 132 | 502 | Ellen Durfee |
 | 133 | 485 | Melissa Adams |
@@ -260,8 +260,8 @@
 | 252 | 284 | Matt Dell'Olio |
 | 253 | 282 | Kim Klutz Olson |
 | 254 | 282 | Matt Gooder |
-| 255 | 281 | Laura |
-| 256 | 281 | Morti |
+| 255 | 281 | Morti |
+| 256 | 281 | Laura |
 | 257 | 280 | Rio Rocha |
 | 258 | 279 | Malakai Darien Fox |
 | 259 | 278 | Angela Geist Jusinski |
