@@ -144,8 +144,8 @@
 | 136 | 1639 | Jessie McDougald |
 | 137 | 1631 | Speedy Spinblock |
 | 138 | 1629 | Mari Ac |
-| 139 | 1623 | Rebecca Doughman |
-| 140 | 1623 | Janel Turley-Garner |
+| 139 | 1623 | Janel Turley-Garner |
+| 140 | 1623 | Rebecca Doughman |
 | 141 | 1605 | Christi Hulet |
 | 142 | 1602 | blackq |
 | 143 | 1601 | Ray Ray Prado |
@@ -273,8 +273,8 @@
 | 265 | 1043 | Brave Dropmatch |
 | 266 | 1043 | nikki |
 | 267 | 1041 | Bri Lynn |
-| 268 | 1036 | Amber Shoemaker |
-| 269 | 1036 | Allison Lockyer |
+| 268 | 1036 | Allison Lockyer |
+| 269 | 1036 | Amber Shoemaker |
 | 270 | 1026 | Kristin Gower |
 | 271 | 1024 | Susan Perraut Jones |
 | 272 | 1024 | Taylor Phillips |
@@ -312,10 +312,10 @@
 | 304 | 951 | Cynthia Ward |
 | 305 | 947 | Dedra Steward |
 | 306 | 941 | Cool Clearer |
-| 307 | 939 | SaraMarie Eveland |
-| 308 | 939 | Cindy Sechler Taninecz |
-| 309 | 929 | Joshua Mandel |
-| 310 | 929 | Caitlin Schmid |
+| 307 | 939 | Cindy Sechler Taninecz |
+| 308 | 939 | SaraMarie Eveland |
+| 309 | 929 | Caitlin Schmid |
+| 310 | 929 | Joshua Mandel |
 | 311 | 926 | Deborah Miller |
 | 312 | 919 | Isaac Trappiel IV |
 | 313 | 916 | Butta |
@@ -449,8 +449,8 @@
 | 441 | 707 | Mama T |
 | 442 | 706 | Kimberly Randesi |
 | 443 | 704 | Montez Mancil |
-| 444 | 703 | Ann Matzkanin |
-| 445 | 703 | Funky Drop |
+| 444 | 703 | Funky Drop |
+| 445 | 703 | Ann Matzkanin |
 | 446 | 702 | John Rodriguez |
 | 447 | 700 | Beverly Owens |
 | 448 | 700 | Vincent Petrella |
@@ -465,16 +465,16 @@
 | 457 | 684 | Sarah DeHart |
 | 458 | 683 | Eric Castaneda |
 | 459 | 681 | AgileDragon |
-| 460 | 680 | blume |
-| 461 | 680 | Kenny Alvarado |
+| 460 | 680 | Kenny Alvarado |
+| 461 | 680 | blume |
 | 462 | 679 | Kassandra Hunt |
 | 463 | 677 | Kayleigh Wisse |
-| 464 | 677 | Ellie Jonas |
-| 465 | 677 | Amanda Woodruff |
+| 464 | 677 | Amanda Woodruff |
+| 465 | 677 | Ellie Jonas |
 | 466 | 676 | Roseanna Peloso |
 | 467 | 676 | Brandon Armstrong |
-| 468 | 675 | Lonne Emade |
-| 469 | 675 | Katelynn Hollen |
+| 468 | 675 | Katelynn Hollen |
+| 469 | 675 | Lonne Emade |
 | 470 | 674 | Mikayala Szaz |
 | 471 | 674 | Ashley Munn |
 | 472 | 673 | trabuco |
@@ -521,8 +521,8 @@
 | 513 | 617 | Darcy Mae |
 | 514 | 617 | Kacee Conrad Bock |
 | 515 | 616 | Lylymom |
-| 516 | 615 | Julio A Laracuente |
-| 517 | 615 | Lyndi Robinson Wakefield |
+| 516 | 615 | Lyndi Robinson Wakefield |
+| 517 | 615 | Julio A Laracuente |
 | 518 | 614 | Emilee Burke |
 | 519 | 613 | Biggest thing |
 | 520 | 612 | Briana Alexander |
@@ -554,8 +554,8 @@
 | 546 | 584 | Daniell Martinez |
 | 547 | 583 | Kitybox |
 | 548 | 581 | Angie Marie |
-| 549 | 580 | Paul Combs |
-| 550 | 580 | Cheery Matchzone |
+| 549 | 580 | Cheery Matchzone |
+| 550 | 580 | Paul Combs |
 | 551 | 579 | Roy Salyer |
 | 552 | 578 | Sarah Berger |
 | 553 | 577 | Victor Obiakarije |
@@ -574,8 +574,8 @@
 | 566 | 566 | Tina Marie |
 | 567 | 566 | Isabelle Bonneau |
 | 568 | 563 | Frisky Clearpiece |
-| 569 | 562 | AISlop |
-| 570 | 562 | Sabrena Yeisley |
+| 569 | 562 | Sabrena Yeisley |
+| 570 | 562 | AISlop |
 | 571 | 560 | SwampRebel |
 | 572 | 559 | Anthony Huebel |
 | 573 | 559 | Slip |
@@ -909,8 +909,8 @@
 | 901 | 380 | Lazy Builderfit |
 | 902 | 379 | stacey |
 | 903 | 378 | Kelly Walters |
-| 904 | 378 | Ubu |
-| 905 | 378 | Elizabeth Leinen |
+| 904 | 378 | Elizabeth Leinen |
+| 905 | 378 | Ubu |
 | 906 | 377 | NickyBrooks |
 | 907 | 377 | Frank Castle |
 | 908 | 376 | Brave Gridpiece |

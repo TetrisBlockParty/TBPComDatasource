@@ -117,8 +117,8 @@
 | 109 | 831 | Angeline Joseph |
 | 110 | 830 | Stephanie Allmon |
 | 111 | 826 | Shane Wilson Jr. |
-| 112 | 816 | Jesse Olive |
-| 113 | 816 | Brenda Lee Vander Molen |
+| 112 | 816 | Brenda Lee Vander Molen |
+| 113 | 816 | Jesse Olive |
 | 114 | 800 | Lauren Girouard |
 | 115 | 799 | Dolores Falco |
 | 116 | 769 | Kristie |
@@ -162,8 +162,8 @@
 | 154 | 595 | Nicole Myers |
 | 155 | 588 | Justin Ritter |
 | 156 | 587 | Louise Stacy Sisson |
-| 157 | 585 | Annie Marie |
-| 158 | 585 | Happy Tetriblast |
+| 157 | 585 | Happy Tetriblast |
+| 158 | 585 | Annie Marie |
 | 159 | 582 | Natasha Jones |
 | 160 | 579 | Tasha Gillespie |
 | 161 | 577 | Domo Washington |
@@ -257,8 +257,8 @@
 | 249 | 370 | Chummy Caster |
 | 250 | 369 | Keis |
 | 251 | 369 | Snazzy Filler |
-| 252 | 368 | Stephanie Woods |
-| 253 | 368 | Sheila M Frazier |
+| 252 | 368 | Sheila M Frazier |
+| 253 | 368 | Stephanie Woods |
 | 254 | 367 | Kristin Delibac Corrigan |
 | 255 | 366 | Randy Clevenger |
 | 256 | 365 | Noyb Adam |
@@ -322,9 +322,9 @@
 | 314 | 295 | Geoffrey Nash |
 | 315 | 294 | fraulila |
 | 316 | 292 | Lizabeth Fox |
-| 317 | 289 | Salena Whitlock |
+| 317 | 289 | DidIdothat |
 | 318 | 289 | Troy |
-| 319 | 289 | DidIdothat |
+| 319 | 289 | Salena Whitlock |
 | 320 | 288 | Stephanie Bradley |
 | 321 | 287 | Carol Cain Thurman |
 | 322 | 287 | Sabrina Hardrick |
@@ -357,8 +357,8 @@
 | 349 | 273 | Dannie Litchard |
 | 350 | 273 | France Vézina |
 | 351 | 273 | Brenda Schmid Wood |
-| 352 | 272 | Romeo |
-| 353 | 272 | Todd Hall |
+| 352 | 272 | Todd Hall |
+| 353 | 272 | Romeo |
 | 354 | 272 | Tay |
 | 355 | 271 | Grego Daniel |
 | 356 | 270 | Isabel Ocasio |

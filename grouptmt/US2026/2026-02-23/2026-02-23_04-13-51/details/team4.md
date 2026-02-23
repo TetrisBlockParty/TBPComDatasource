@@ -86,8 +86,8 @@
 | 78 | 704 | Crystal Carroll |
 | 79 | 703 | Savannah Overdorf |
 | 80 | 697 | Alyssa Papen |
-| 81 | 684 | Kimyatta Cavin |
-| 82 | 684 | Jonathan Kimbrough |
+| 81 | 684 | Jonathan Kimbrough |
+| 82 | 684 | Kimyatta Cavin |
 | 83 | 677 | Trista Leah |
 | 84 | 673 | Jacqueline Helm |
 | 85 | 672 | Shane Kalamata Platoon |
@@ -135,8 +135,8 @@
 | 127 | 458 | Twisty Clicky |
 | 128 | 451 | Peachy Fall |
 | 129 | 448 | Kristin Manee |
-| 130 | 435 | Kristina Black |
-| 131 | 435 | Leslie Thomas |
+| 130 | 435 | Leslie Thomas |
+| 131 | 435 | Kristina Black |
 | 132 | 431 | Courtney Cicoria |
 | 133 | 425 | Monica Daley |
 | 134 | 421 | JIGsaw ~(•¿°)~ |
@@ -166,7 +166,7 @@
 | 158 | 374 | Guy Incognito |
 | 159 | 373 | Tyler Terrific |
 | 160 | 370 | Oscar Alberto Perez |
-| 161 | 368 | Brandon Crabbs |
+| 161 | 368 | Silly Zonebuilder |
 | 162 | 368 | Raegan Lane-Ross |
 | 163 | 368 | Brandon Crabbs |
 | 164 | 365 | Lindsey Gonzalez |
@@ -236,8 +236,8 @@
 | 228 | 272 | Carlos Ramirez |
 | 229 | 272 | Dennis Bradley |
 | 230 | 271 | Holly |
-| 231 | 270 | Jen Caldwell |
-| 232 | 270 | Juls |
+| 231 | 270 | Juls |
+| 232 | 270 | Jen Caldwell |
 | 233 | 266 | Mr. Party |
 | 234 | 265 | Silly SeaWeed |
 | 235 | 265 | Sarah Neathery |
@@ -249,8 +249,8 @@
 | 241 | 259 | Montiette Mcglown |
 | 242 | 259 | Allen Lloyd |
 | 243 | 257 | PeaceOs |
-| 244 | 256 | Metsfan |
-| 245 | 256 | Mylo Lipscomb |
+| 244 | 256 | Mylo Lipscomb |
+| 245 | 256 | Metsfan |
 | 246 | 255 | Zethra Prenisha Rahming |
 | 247 | 253 | Autum Leigh |
 | 248 | 252 | John Brunetti |
@@ -321,8 +321,8 @@
 | 313 | 208 | Shukee Lo |
 | 314 | 208 | Heather Bruce |
 | 315 | 206 | Maureen Flanigan |
-| 316 | 205 | KayM |
-| 317 | 205 | James Hurley Jr. |
+| 316 | 205 | James Hurley Jr. |
+| 317 | 205 | KayM |
 | 318 | 203 | Andrew Dang |
 | 319 | 203 | Gilles Lanctot |
 | 320 | 203 | Katherine Crane |
@@ -333,11 +333,11 @@
 | 325 | 197 | Cynthia Boudreau |
 | 326 | 196 | Megan Cutshaw |
 | 327 | 196 | Blessedmama |
-| 328 | 194 | SammieJo Guy |
-| 329 | 194 | Zany Twisterfit |
+| 328 | 194 | Zany Twisterfit |
+| 329 | 194 | SammieJo Guy |
 | 330 | 192 | Twisty Risebuilder |
-| 331 | 191 | Earnest Thompson |
-| 332 | 191 | Norman Klick |
+| 331 | 191 | Norman Klick |
+| 332 | 191 | Earnest Thompson |
 | 333 | 190 | wombat |
 | 334 | 189 | Lauren Lamb |
 | 335 | 189 | Berklie Apedaile |
@@ -579,7 +579,7 @@
 | 571 | 115 | Susan Williams |
 | 572 | 115 | Nicole McMurray |
 | 573 | 114 | Rosemary Foster |
-| 574 | 113 | Hog Crankin |
+| 574 | 113 | Abigail Murphy |
 | 575 | 113 | Serena Butter |
 | 576 | 113 | Lilya Troutman |
 | 577 | 113 | Hog Crankin |
