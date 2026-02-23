@@ -97,8 +97,8 @@
 | 89 | 860 | Sunny Rotater |
 | 90 | 849 | Danielle Becker |
 | 91 | 848 | Patricia Gadsden |
-| 92 | 838 | MissTaylor |
-| 93 | 838 | Sarajane Lokan |
+| 92 | 838 | Sarajane Lokan |
+| 93 | 838 | MissTaylor |
 | 94 | 831 | Angeline Joseph |
 | 95 | 830 | Stephanie Allmon |
 | 96 | 826 | Shane Wilson Jr. |
@@ -117,8 +117,8 @@
 | 109 | 733 | mzcatzy |
 | 110 | 723 | Mandy Smith Oldham |
 | 111 | 720 | Raya |
-| 112 | 716 | Calista Jo Dickson |
-| 113 | 716 | Kristie |
+| 112 | 716 | Kristie |
+| 113 | 716 | Calista Jo Dickson |
 | 114 | 715 | Keith J Oshman Jr. |
 | 115 | 712 | Katrina Schroeder |
 | 116 | 704 | Suzieq |

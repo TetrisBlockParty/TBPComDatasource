@@ -482,8 +482,8 @@
 | 474 | 589 | Thomas Hedrick |
 | 475 | 589 | Shavonna Haynes |
 | 476 | 589 | Kelly Templeton |
-| 477 | 584 | snkylnk |
-| 478 | 584 | Ryan Stadel |
+| 477 | 584 | Ryan Stadel |
+| 478 | 584 | snkylnk |
 | 479 | 583 | Kitybox |
 | 480 | 582 | Gauri Shrotriya |
 | 481 | 581 | Angie Marie |

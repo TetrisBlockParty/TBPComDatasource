@@ -61,8 +61,8 @@
 | 53 | 770 | Zappy Curvetile |
 | 54 | 767 | Kristen Roles Robben |
 | 55 | 752 | Jacqueline Williams |
-| 56 | 746 | Stef Hu |
-| 57 | 746 | TSwag |
+| 56 | 746 | TSwag |
+| 57 | 746 | Stef Hu |
 | 58 | 738 | Michelle Nicole |
 | 59 | 735 | Spunky Piecebuilder |
 | 60 | 720 | Zippy Align |
@@ -214,8 +214,8 @@
 | 206 | 267 | Cody Gates |
 | 207 | 267 | Debbie Kane |
 | 208 | 265 | Kandae |
-| 209 | 264 | Jen Nystrom |
-| 210 | 264 | Jenny Gingrich Fuentes |
+| 209 | 264 | Jenny Gingrich Fuentes |
+| 210 | 264 | Jen Nystrom |
 | 211 | 263 | Jessie Lynn |
 | 212 | 260 | Cheeky Pop |
 | 213 | 256 | Chris65 |
@@ -240,8 +240,8 @@
 | 232 | 240 | DaRascal |
 | 233 | 240 | Daring Fitclear |
 | 234 | 239 | Lacy Wolfe |
-| 235 | 238 | Tiffany Smith |
-| 236 | 238 | Sarah Somers Gray |
+| 235 | 238 | Sarah Somers Gray |
+| 236 | 238 | Tiffany Smith |
 | 237 | 235 | Bindi |
 | 238 | 234 | Shanae Grant |
 | 239 | 234 | Paula Martin |
@@ -300,10 +300,10 @@
 | 292 | 201 | Beau Galvan |
 | 293 | 200 | Silly Align |
 | 294 | 199 | Christina Norman |
-| 295 | 198 | Colleen Pinette |
-| 296 | 198 | Happy Snapbuild |
-| 297 | 196 | Marci Sanders |
-| 298 | 196 | Perky Shiftsnap |
+| 295 | 198 | Happy Snapbuild |
+| 296 | 198 | Colleen Pinette |
+| 297 | 196 | Perky Shiftsnap |
+| 298 | 196 | Marci Sanders |
 | 299 | 195 | Beazel75 |
 | 300 | 194 | Poppy Riserpiece |
 | 301 | 193 | Lachelle Dillon |
@@ -615,7 +615,7 @@
 | 607 | 96 | Jana Hutcheson |
 | 608 | 96 | JaPria Rodgers |
 | 609 | 95 | Christine Smith |
-| 610 | 95 | Zany Gridclear |
+| 610 | 95 | Mavria Comeaux Hinton |
 | 611 | 95 | Shannon Guilloty |
 | 612 | 95 | Zany Gridclear |
 | 613 | 94 | Tim Mccrary |

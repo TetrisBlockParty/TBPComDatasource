@@ -74,8 +74,8 @@
 | 66 | 736 | Goatimus Lombardi |
 | 67 | 730 | Dustee Craddock-Harrison |
 | 68 | 728 | Julian Garcia |
-| 69 | 704 | D3TROITB0RN74 |
-| 70 | 704 | Crystal Carroll |
+| 69 | 704 | Crystal Carroll |
+| 70 | 704 | D3TROITB0RN74 |
 | 71 | 701 | Carolyn Wallace |
 | 72 | 693 | Dawn Alexander |
 | 73 | 677 | TheNeesh50 |
@@ -97,8 +97,8 @@
 | 89 | 590 | Denise Carlson |
 | 90 | 568 | Chris Baggett |
 | 91 | 566 | Amelpss |
-| 92 | 561 | Amy Suckarieh |
-| 93 | 561 | H.R. Block |
+| 92 | 561 | H.R. Block |
+| 93 | 561 | Amy Suckarieh |
 | 94 | 557 | Carmethia Clemons Haslerig |
 | 95 | 533 | Samantha Peterson |
 | 96 | 531 | Zippy Gridlock |
@@ -138,8 +138,8 @@
 | 130 | 408 | Amanda Pauldo-Ivy |
 | 131 | 400 | Ericca Eldridge |
 | 132 | 394 | Austin Owens |
-| 133 | 393 | Trish |
-| 134 | 393 | Carlton Unfiltered |
+| 133 | 393 | Carlton Unfiltered |
+| 134 | 393 | Trish |
 | 135 | 392 | Cristy Duerksen |
 | 136 | 391 | Ramel Rhodes |
 | 137 | 380 | Swanky Fitline |
