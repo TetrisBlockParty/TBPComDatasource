@@ -57,8 +57,8 @@
 | 49 | 863 | Pee |
 | 50 | 855 | Marvin Lou Martin |
 | 51 | 853 | TeeJ |
-| 52 | 846 | Christine Marie |
-| 53 | 846 | Lucille Truesdale |
+| 52 | 846 | Lucille Truesdale |
+| 53 | 846 | Christine Marie |
 | 54 | 845 | LisaJo Picken Buchanan |
 | 55 | 843 | Shelly Chandler |
 | 56 | 841 | Anthony Bryan Riva |
@@ -134,8 +134,8 @@
 | 126 | 458 | Twisty Clicky |
 | 127 | 451 | Peachy Fall |
 | 128 | 448 | Kristin Manee |
-| 129 | 435 | Kristina Black |
-| 130 | 435 | Leslie Thomas |
+| 129 | 435 | Leslie Thomas |
+| 130 | 435 | Kristina Black |
 | 131 | 431 | Courtney Cicoria |
 | 132 | 428 | Austin Owens |
 | 133 | 425 | Monica Daley |
@@ -162,13 +162,13 @@
 | 154 | 377 | Carrie Brian |
 | 155 | 375 | Desi Desporte |
 | 156 | 375 | ThaEviLJeNiuZ |
-| 157 | 374 | Leslie Nicole |
-| 158 | 374 | Guy Incognito |
+| 157 | 374 | Guy Incognito |
+| 158 | 374 | Leslie Nicole |
 | 159 | 373 | Tyler Terrific |
 | 160 | 370 | Oscar Alberto Perez |
 | 161 | 368 | Brandon Crabbs |
-| 162 | 368 | Silly Zonebuilder |
-| 163 | 368 | Raegan Lane-Ross |
+| 162 | 368 | Raegan Lane-Ross |
+| 163 | 368 | Silly Zonebuilder |
 | 164 | 365 | Lindsey Gonzalez |
 | 165 | 365 | Jeff Brian Gates |
 | 166 | 361 | Melissa Adams |
@@ -193,8 +193,8 @@
 | 185 | 324 | Antony Dwayne Beasley |
 | 186 | 321 | Bio Nelly |
 | 187 | 320 | Lauren Scott |
-| 188 | 318 | Chris Hartig |
-| 189 | 318 | Chris Bernstein |
+| 188 | 318 | Chris Bernstein |
+| 189 | 318 | Chris Hartig |
 | 190 | 316 | Meagan Nicole |
 | 191 | 314 | Andy Cabral |
 | 192 | 313 | Zippy Block |
@@ -227,8 +227,8 @@
 | 219 | 282 | Matt Gooder |
 | 220 | 281 | Nikki Rae Gordon |
 | 221 | 281 | Laura |
-| 222 | 278 | Angela Geist Jusinski |
-| 223 | 278 | Sarah Brown |
+| 222 | 278 | Sarah Brown |
+| 223 | 278 | Angela Geist Jusinski |
 | 224 | 276 | Joeliecea Cobb |
 | 225 | 276 | Matt Dell'Olio |
 | 226 | 273 | Casey Grabner |

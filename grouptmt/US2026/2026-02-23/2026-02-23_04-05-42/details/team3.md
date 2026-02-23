@@ -126,8 +126,8 @@
 | 118 | 752 | Raya |
 | 119 | 748 | Adrian Marcel Pate |
 | 120 | 745 | JerseyJess |
-| 121 | 744 | Fancy Cascader |
-| 122 | 744 | Leah Barnett |
+| 121 | 744 | Leah Barnett |
+| 122 | 744 | Fancy Cascader |
 | 123 | 742 | Groovy Catcher |
 | 124 | 736 | Katrina Schroeder |
 | 125 | 733 | mzcatzy |
@@ -257,8 +257,8 @@
 | 249 | 370 | Chummy Caster |
 | 250 | 369 | Keis |
 | 251 | 369 | Snazzy Filler |
-| 252 | 368 | Sheila M Frazier |
-| 253 | 368 | Stephanie Woods |
+| 252 | 368 | Stephanie Woods |
+| 253 | 368 | Sheila M Frazier |
 | 254 | 367 | Kristin Delibac Corrigan |
 | 255 | 366 | Randy Clevenger |
 | 256 | 365 | Noyb Adam |
@@ -281,14 +281,14 @@
 | 273 | 345 | MsBee |
 | 274 | 344 | Roary Danner |
 | 275 | 344 | Gumbo |
-| 276 | 343 | Ashley Raines |
-| 277 | 343 | Ashley Rufus Bythcez |
+| 276 | 343 | Ashley Rufus Bythcez |
+| 277 | 343 | Ashley Raines |
 | 278 | 341 | Ashley Tookes |
 | 279 | 339 | Cynthia Herrmann Egland |
 | 280 | 336 | Jojo M |
 | 281 | 335 | victory |
-| 282 | 332 | Brittany |
-| 283 | 332 | Velma Mull |
+| 282 | 332 | Velma Mull |
+| 283 | 332 | Brittany |
 | 284 | 331 | Gray Hicks |
 | 285 | 326 | Kerry Nowickshere |
 | 286 | 325 | Tasha Wesson-Torrence |

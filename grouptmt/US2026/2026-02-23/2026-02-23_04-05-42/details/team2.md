@@ -246,10 +246,10 @@
 | 238 | 1121 | Sarah Freitas |
 | 239 | 1120 | Chirpy Staggerpiece |
 | 240 | 1114 | Ginnell Browner |
-| 241 | 1114 | Kevin Walp |
-| 242 | 1114 | Maria Escobar |
-| 243 | 1111 | Julay |
-| 244 | 1111 | Moose Griffith |
+| 241 | 1114 | Maria Escobar |
+| 242 | 1114 | Kevin Walp |
+| 243 | 1111 | Moose Griffith |
+| 244 | 1111 | Julay |
 | 245 | 1109 | Eric Carlson |
 | 246 | 1105 | Nerdy Clearfit |
 | 247 | 1103 | William Meussner |
@@ -379,8 +379,8 @@
 | 371 | 799 | Joy LaJeunesse |
 | 372 | 796 | Amber Gray |
 | 373 | 793 | Heather Schelkopf |
-| 374 | 793 | Jaycee |
-| 375 | 793 | Arlene Joy Belicina |
+| 374 | 793 | Arlene Joy Belicina |
+| 375 | 793 | Jaycee |
 | 376 | 793 | Ashley Dow |
 | 377 | 791 | Hyper Cluster |
 | 378 | 790 | Brenda Pierpoint |
@@ -677,8 +677,8 @@
 | 669 | 485 | Regina Young |
 | 670 | 484 | Street Sweeper |
 | 671 | 483 | Britney M. |
-| 672 | 482 | RaeVan Worthington |
-| 673 | 482 | Drwatson187 |
+| 672 | 482 | Drwatson187 |
+| 673 | 482 | RaeVan Worthington |
 | 674 | 482 | Amélie Cadieux |
 | 675 | 481 | Austin Wilson |
 | 676 | 481 | Lucy Marshall |
@@ -986,8 +986,8 @@
 | 978 | 351 | Heather Renee Jeffers |
 | 979 | 351 | Queen |
 | 980 | 350 | Kyla Louise |
-| 981 | 350 | Tum |
-| 982 | 350 | Macy Jarrett |
+| 981 | 350 | Macy Jarrett |
+| 982 | 350 | Tum |
 | 983 | 350 | Chris Harr |
 | 984 | 350 | PlazTTV |
 | 985 | 349 | Manny Trindade |
@@ -1037,8 +1037,8 @@
 | 1029 | 335 | Brooke Leigh Strube |
 | 1030 | 334 | Tina Wright-Quigley |
 | 1031 | 334 | Toni Lynn |
-| 1032 | 333 | Erika Deer Kauffman |
-| 1033 | 333 | Dad |
+| 1032 | 333 | Dad |
+| 1033 | 333 | Erika Deer Kauffman |
 | 1034 | 333 | Paula Martinez |
 | 1035 | 333 | Snippy Block |
 | 1036 | 332 | Sunny Pusher |
