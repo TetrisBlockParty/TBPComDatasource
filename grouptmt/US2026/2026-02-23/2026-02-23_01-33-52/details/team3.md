@@ -61,8 +61,8 @@
 | 53 | 1276 | Aaron Pitkin |
 | 54 | 1268 | Amber Jones |
 | 55 | 1258 | Jennifer Petrie |
-| 56 | 1256 | Jessica Bechler |
-| 57 | 1256 | Mahman |
+| 56 | 1256 | Mahman |
+| 57 | 1256 | Jessica Bechler |
 | 58 | 1191 | Nate Burnside |
 | 59 | 1142 | Elaine Webb Graves |
 | 60 | 1141 | Queen Kam |
@@ -199,8 +199,8 @@
 | 191 | 460 | Danielle Allison |
 | 192 | 458 | Danielle Rhoades |
 | 193 | 457 | Jim Mathews |
-| 194 | 455 | Annie Déè |
-| 195 | 455 | Bmo |
+| 194 | 455 | Bmo |
+| 195 | 455 | Annie Déè |
 | 196 | 454 | Michael Johnson |
 | 197 | 452 | Jacqueline Rodriguez |
 | 198 | 451 | Sarah Cowan Burgos |
@@ -240,8 +240,8 @@
 | 232 | 375 | Duane Bright |
 | 233 | 375 | Kristal C Lee |
 | 234 | 373 | Rebecca Funderburk Kirby |
-| 235 | 372 | Sarah Moyer |
-| 236 | 372 | Rich LeBlanc |
+| 235 | 372 | Rich LeBlanc |
+| 236 | 372 | Sarah Moyer |
 | 237 | 370 | RickyG |
 | 238 | 369 | Marquita Sheard |
 | 239 | 369 | Keis |
@@ -318,8 +318,8 @@
 | 310 | 284 | Snazzy Filler |
 | 311 | 282 | Hanna Kim |
 | 312 | 280 | Kaycee Kay |
-| 313 | 279 | Foltz Lee Kelli |
-| 314 | 279 | Stephanie Bradley |
+| 313 | 279 | Stephanie Bradley |
+| 314 | 279 | Foltz Lee Kelli |
 | 315 | 279 | ROODBOY |
 | 316 | 278 | Carol Cain Thurman |
 | 317 | 278 | Rufus Lincoln |

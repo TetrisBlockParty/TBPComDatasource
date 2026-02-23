@@ -55,8 +55,8 @@
 | 47 | 860 | Jae Job |
 | 48 | 855 | Marvin Lou Martin |
 | 49 | 853 | TeeJ |
-| 50 | 846 | Lucille Truesdale |
-| 51 | 846 | Christine Marie |
+| 50 | 846 | Christine Marie |
+| 51 | 846 | Lucille Truesdale |
 | 52 | 845 | LisaJo Picken Buchanan |
 | 53 | 843 | Shelly Chandler |
 | 54 | 841 | Anthony Bryan Riva |
@@ -86,8 +86,8 @@
 | 78 | 664 | Valerie Roberts |
 | 79 | 661 | Lisa Davis |
 | 80 | 659 | Jonathan Kimbrough |
-| 81 | 647 | KM8 |
-| 82 | 647 | Shauna Havard |
+| 81 | 647 | Shauna Havard |
+| 82 | 647 | KM8 |
 | 83 | 646 | Eric Mcgaughy |
 | 84 | 641 | Savannah Overdorf |
 | 85 | 637 | Diana Houts |
@@ -131,8 +131,8 @@
 | 123 | 448 | Kristin Manee |
 | 124 | 442 | Peachy Fall |
 | 125 | 435 | Leslie Thomas |
-| 126 | 431 | Jolly Dashfit |
-| 127 | 431 | Courtney Cicoria |
+| 126 | 431 | Courtney Cicoria |
+| 127 | 431 | Jolly Dashfit |
 | 128 | 429 | Ren Mc |
 | 129 | 427 | KJ Pool |
 | 130 | 421 | Kesha Brady |
@@ -282,13 +282,13 @@
 | 274 | 214 | Chantilly Laace |
 | 275 | 214 | Patron Anderson |
 | 276 | 214 | Stacey Stano |
-| 277 | 213 | Angela Geist Jusinski |
-| 278 | 213 | Paito |
+| 277 | 213 | Paito |
+| 278 | 213 | Angela Geist Jusinski |
 | 279 | 212 | Orchislactea |
 | 280 | 212 | Zany Shatterer |
 | 281 | 212 | Mike Solo |
-| 282 | 210 | Rebecca Morris |
-| 283 | 210 | Ultramarine |
+| 282 | 210 | Ultramarine |
+| 283 | 210 | Rebecca Morris |
 | 284 | 209 | Snippy Puzzle |
 | 285 | 208 | Chris Alexinas |
 | 286 | 207 | Silly SeaWeed |

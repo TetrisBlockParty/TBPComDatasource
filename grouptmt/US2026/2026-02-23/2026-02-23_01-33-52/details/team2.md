@@ -126,8 +126,8 @@
 | 118 | 1732 | Mindy Leigh Head |
 | 119 | 1703 | Jumpy Gridpiece |
 | 120 | 1699 | Jamie Main |
-| 121 | 1681 | Nett |
-| 122 | 1681 | Shandrica Lowe |
+| 121 | 1681 | Shandrica Lowe |
+| 122 | 1681 | Nett |
 | 123 | 1652 | Kristopher Miller |
 | 124 | 1644 | Luna |
 | 125 | 1639 | Karen Martini-Stapleton |
@@ -224,13 +224,13 @@
 | 216 | 1138 | Megan Ferguson Leone |
 | 217 | 1135 | Samantha Roberts |
 | 218 | 1131 | Prado |
-| 219 | 1127 | Dee |
-| 220 | 1127 | Catina Hutchison |
+| 219 | 1127 | Catina Hutchison |
+| 220 | 1127 | Dee |
 | 221 | 1126 | Dolores Russworn |
 | 222 | 1121 | Tommy Tha Boss Gunz |
 | 223 | 1117 | Sarah Freitas |
-| 224 | 1114 | Kevin Walp |
-| 225 | 1114 | Ginnell Browner |
+| 224 | 1114 | Ginnell Browner |
+| 225 | 1114 | Kevin Walp |
 | 226 | 1111 | Julay |
 | 227 | 1110 | Sheniya Spurgeon |
 | 228 | 1105 | Nerdy Clearfit |
