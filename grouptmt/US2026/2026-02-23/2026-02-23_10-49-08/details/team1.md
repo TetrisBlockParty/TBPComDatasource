@@ -207,8 +207,8 @@
 | 199 | 341 | Nick R Montague |
 | 200 | 339 | Nicole Roseberry Weber |
 | 201 | 337 | Jamise Brown |
-| 202 | 333 | Tyler Hertzog |
-| 203 | 333 | Virginia Gray Floyd |
+| 202 | 333 | Virginia Gray Floyd |
+| 203 | 333 | Tyler Hertzog |
 | 204 | 333 | Gracie |
 | 205 | 332 | Happy Basegrid |
 | 206 | 328 | Snappy Matcher |

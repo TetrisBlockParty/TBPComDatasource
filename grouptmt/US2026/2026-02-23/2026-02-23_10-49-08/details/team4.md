@@ -64,8 +64,8 @@
 | 56 | 863 | Pee |
 | 57 | 859 | TeeJ |
 | 58 | 859 | Christina LR |
-| 59 | 846 | Christine Marie |
-| 60 | 846 | Lucille Truesdale |
+| 59 | 846 | Lucille Truesdale |
+| 60 | 846 | Christine Marie |
 | 61 | 845 | LisaJo Picken Buchanan |
 | 62 | 834 | quicksand420 |
 | 63 | 807 | Rachel Anne |
@@ -129,8 +129,8 @@
 | 121 | 514 | Serena Goodridge |
 | 122 | 514 | Scott Jameson |
 | 123 | 513 | Erin Thomas |
-| 124 | 512 | Casey Jeffcoat |
-| 125 | 512 | Cristy Duerksen |
+| 124 | 512 | Cristy Duerksen |
+| 125 | 512 | Casey Jeffcoat |
 | 126 | 509 | Leslie Nicole |
 | 127 | 483 | Angela Srubar-Norman |
 | 128 | 481 | Jessica Lynn Cutlip |
@@ -227,14 +227,14 @@
 | 219 | 307 | Michele Plunkett |
 | 220 | 306 | mike |
 | 221 | 305 | Melvin Baird |
-| 222 | 304 | Lindsay Ball |
-| 223 | 304 | Gdiguy |
+| 222 | 304 | Gdiguy |
+| 223 | 304 | Lindsay Ball |
 | 224 | 301 | Andria Lynn |
 | 225 | 300 | Dana Scott |
 | 226 | 297 | Lori |
 | 227 | 295 | Keshia Lyons |
-| 228 | 294 | Calvin Cannon |
-| 229 | 294 | Porkobello |
+| 228 | 294 | Porkobello |
+| 229 | 294 | Calvin Cannon |
 | 230 | 292 | Epic Curvetile |
 | 231 | 290 | Rebecca Morris |
 | 232 | 290 | Plucky Patternblock |
@@ -449,8 +449,8 @@
 | 441 | 166 | Gracie Ann Taylor |
 | 442 | 166 | Reds Bella |
 | 443 | 165 | Vic |
-| 444 | 165 | Stephanie Mico |
-| 445 | 165 | Zappy Buildgrid |
+| 444 | 165 | Zappy Buildgrid |
+| 445 | 165 | Stephanie Mico |
 | 446 | 165 | Joshua Cuellar |
 | 447 | 164 | Marvetta Williams |
 | 448 | 164 | Stacy Jones |
