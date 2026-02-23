@@ -103,8 +103,8 @@
 | 95 | 2170 | Steve Grotto |
 | 96 | 2165 | Tj Ball |
 | 97 | 2155 | Qiana Sanders |
-| 98 | 2148 | Roger Grabbit |
-| 99 | 2148 | ShinyRose |
+| 98 | 2148 | ShinyRose |
+| 99 | 2148 | Roger Grabbit |
 | 100 | 2146 | KellyDyan |
 | 101 | 2106 | Cool Rollpiece |
 | 102 | 2103 | Alisha Peoples |
@@ -285,8 +285,8 @@
 | 277 | 987 | Osun Anuket Esu |
 | 278 | 987 | Julie Kresal |
 | 279 | 984 | Crystal Hoffman |
-| 280 | 979 | Hillary Crawford |
-| 281 | 979 | Melissa Penelope Ann Dodge |
+| 280 | 979 | Melissa Penelope Ann Dodge |
+| 281 | 979 | Hillary Crawford |
 | 282 | 976 | Sam Joe |
 | 283 | 972 | Barbra Miller |
 | 284 | 972 | Juliana Marques Do Nascimento Gordy |
@@ -303,8 +303,8 @@
 | 295 | 951 | Cynthia Ward |
 | 296 | 947 | Dedra Steward |
 | 297 | 941 | Cool Clearer |
-| 298 | 939 | SaraMarie Eveland |
-| 299 | 939 | Cindy Sechler Taninecz |
+| 298 | 939 | Cindy Sechler Taninecz |
+| 299 | 939 | SaraMarie Eveland |
 | 300 | 934 | April Dawn Gussler |
 | 301 | 934 | Jane Fong |
 | 302 | 929 | Caitlin Schmid |
@@ -844,8 +844,8 @@
 | 836 | 396 | Lindsey Leigh |
 | 837 | 396 | Cassie Newton |
 | 838 | 395 | Jennie Lee Huntley |
-| 839 | 395 | Cassi Owens |
-| 840 | 395 | Vung Nguyen |
+| 839 | 395 | Vung Nguyen |
+| 840 | 395 | Cassi Owens |
 | 841 | 394 | Alicia Moreno |
 | 842 | 394 | Giggly Snap |
 | 843 | 393 | Jamie West |

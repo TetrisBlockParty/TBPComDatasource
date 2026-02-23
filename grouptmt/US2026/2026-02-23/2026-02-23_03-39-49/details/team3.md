@@ -161,8 +161,8 @@
 | 153 | 589 | Rochelle Hazelett |
 | 154 | 588 | Justin Ritter |
 | 155 | 587 | Louise Stacy Sisson |
-| 156 | 585 | Happy Tetriblast |
-| 157 | 585 | Annie Marie |
+| 156 | 585 | Annie Marie |
+| 157 | 585 | Happy Tetriblast |
 | 158 | 582 | Natasha Jones |
 | 159 | 579 | Tasha Gillespie |
 | 160 | 577 | Domo Washington |
@@ -173,8 +173,8 @@
 | 165 | 562 | Dave Herzog |
 | 166 | 557 | Michael Nowogorski |
 | 167 | 553 | LaTanya GeminiondaRise Johnson |
-| 168 | 546 | Mykal Burton |
-| 169 | 546 | Cynthia Castros-Hampton |
+| 168 | 546 | Cynthia Castros-Hampton |
+| 169 | 546 | Mykal Burton |
 | 170 | 540 | Elissa S-k |
 | 171 | 540 | Shawn Miller |
 | 172 | 535 | Jone |
@@ -208,8 +208,8 @@
 | 200 | 465 | Annie Déè |
 | 201 | 461 | Shunta Jacobs |
 | 202 | 458 | Danielle Rhoades |
-| 203 | 457 | Jim Mathews |
-| 204 | 457 | Edwin Calvillo Jr. |
+| 203 | 457 | Edwin Calvillo Jr. |
+| 204 | 457 | Jim Mathews |
 | 205 | 453 | Staci George Fitzsimmons |
 | 206 | 452 | Connie Mohler-Fair |
 | 207 | 452 | Tom Nault |
@@ -268,8 +268,8 @@
 | 260 | 357 | Ammmmmmy |
 | 261 | 354 | Kelly |
 | 262 | 353 | Dee Franklin |
-| 263 | 352 | Samantha Lynn |
-| 264 | 352 | Christian Werndl |
+| 263 | 352 | Christian Werndl |
+| 264 | 352 | Samantha Lynn |
 | 265 | 351 | Eon Harris |
 | 266 | 349 | Amanda J. Mcneil-Anderson |
 | 267 | 348 | Cyd061769 |
@@ -285,8 +285,8 @@
 | 277 | 338 | Gumbo |
 | 278 | 336 | Jojo M |
 | 279 | 335 | victory |
-| 280 | 332 | Brittany |
-| 281 | 332 | Velma Mull |
+| 280 | 332 | Velma Mull |
+| 281 | 332 | Brittany |
 | 282 | 331 | Gray Hicks |
 | 283 | 326 | Kerry Nowickshere |
 | 284 | 325 | Tasha Wesson-Torrence |
@@ -533,8 +533,8 @@
 | 525 | 187 | Sabrina Mansfield |
 | 526 | 186 | Funky Jumper |
 | 527 | 186 | Jack Bo |
-| 528 | 185 | Silver Marchán |
-| 529 | 185 | Morgan Cudo |
+| 528 | 185 | Morgan Cudo |
+| 529 | 185 | Silver Marchán |
 | 530 | 185 | Breezy Roll |
 | 531 | 184 | Shanon R Jackson |
 | 532 | 184 | Christian Luna |
@@ -543,7 +543,7 @@
 | 535 | 183 | Scott Doss |
 | 536 | 183 | Mel Murr |
 | 537 | 183 | Snarky McFace |
-| 538 | 182 | Alicia |
+| 538 | 182 | Kali Kelz Williams |
 | 539 | 182 | Johnathan Dowe |
 | 540 | 182 | Alicia |
 | 541 | 181 | Beth Smith |
@@ -695,8 +695,8 @@
 | 687 | 144 | Vikkye Vizaniaris |
 | 688 | 144 | Nelma |
 | 689 | 144 | Clever Edgepiece |
-| 690 | 143 | Russell Hankinson |
-| 691 | 143 | Sarah Muradyan |
+| 690 | 143 | Sarah Muradyan |
+| 691 | 143 | Russell Hankinson |
 | 692 | 143 | Lisa Lisa |
 | 693 | 142 | Jason-Ashley Ludlow |
 | 694 | 142 | Jennifer Neiman Gaal |

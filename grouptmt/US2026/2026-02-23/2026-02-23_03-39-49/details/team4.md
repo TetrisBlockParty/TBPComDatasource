@@ -57,8 +57,8 @@
 | 49 | 863 | Pee |
 | 50 | 855 | Marvin Lou Martin |
 | 51 | 853 | TeeJ |
-| 52 | 846 | Christine Marie |
-| 53 | 846 | Lucille Truesdale |
+| 52 | 846 | Lucille Truesdale |
+| 53 | 846 | Christine Marie |
 | 54 | 845 | LisaJo Picken Buchanan |
 | 55 | 843 | Shelly Chandler |
 | 56 | 841 | Anthony Bryan Riva |
@@ -159,24 +159,24 @@
 | 151 | 387 | 🥔🥔 Spudz |
 | 152 | 387 | Lucas J Sutton |
 | 153 | 377 | Carrie Brian |
-| 154 | 375 | ThaEviLJeNiuZ |
-| 155 | 375 | Desi Desporte |
+| 154 | 375 | Desi Desporte |
+| 155 | 375 | ThaEviLJeNiuZ |
 | 156 | 374 | Guy Incognito |
 | 157 | 374 | Leslie Nicole |
 | 158 | 373 | Tyler Terrific |
 | 159 | 370 | Oscar Alberto Perez |
 | 160 | 368 | Brandon Crabbs |
-| 161 | 368 | Raegan Lane-Ross |
-| 162 | 368 | Silly Zonebuilder |
+| 161 | 368 | Silly Zonebuilder |
+| 162 | 368 | Raegan Lane-Ross |
 | 163 | 365 | Lindsey Gonzalez |
-| 164 | 361 | Danielle Kollias |
-| 165 | 361 | Melissa Adams |
+| 164 | 361 | Melissa Adams |
+| 165 | 361 | Danielle Kollias |
 | 166 | 359 | Keith Kelley |
 | 167 | 358 | A5! |
 | 168 | 356 | George Nutt |
 | 169 | 352 | Sue Joyce Staats |
-| 170 | 349 | Twisty Cascadezone |
-| 171 | 349 | Rafael Valentin |
+| 170 | 349 | Rafael Valentin |
+| 171 | 349 | Twisty Cascadezone |
 | 172 | 348 | April Rondinone |
 | 173 | 348 | TRCuse |
 | 174 | 347 | Daria Rycewicz |
@@ -211,14 +211,14 @@
 | 203 | 294 | Porkobello |
 | 204 | 294 | Calvin Cannon |
 | 205 | 292 | Epic Curvetile |
-| 206 | 290 | Jared Gutwein |
-| 207 | 290 | Keshia Lyons |
-| 208 | 288 | Leah Kutz Zirbel |
-| 209 | 288 | Adam Stephanie Parker |
-| 210 | 288 | Brittney Orengo |
+| 206 | 290 | Keshia Lyons |
+| 207 | 290 | Jared Gutwein |
+| 208 | 288 | Brittney Orengo |
+| 209 | 288 | Leah Kutz Zirbel |
+| 210 | 288 | Adam Stephanie Parker |
 | 211 | 287 | Plucky Patternblock |
-| 212 | 286 | Zesty Twistbuilder |
-| 213 | 286 | Sam Bishop |
+| 212 | 286 | Sam Bishop |
+| 213 | 286 | Zesty Twistbuilder |
 | 214 | 284 | Mimi |
 | 215 | 282 | Kim Klutz Olson |
 | 216 | 282 | Matt Gooder |
@@ -248,8 +248,8 @@
 | 240 | 259 | Allen Lloyd |
 | 241 | 259 | Montiette Mcglown |
 | 242 | 257 | PeaceOs |
-| 243 | 256 | Mylo Lipscomb |
-| 244 | 256 | Metsfan |
+| 243 | 256 | Metsfan |
+| 244 | 256 | Mylo Lipscomb |
 | 245 | 253 | Autum Leigh |
 | 246 | 252 | Zethra Prenisha Rahming |
 | 247 | 252 | John Brunetti |
