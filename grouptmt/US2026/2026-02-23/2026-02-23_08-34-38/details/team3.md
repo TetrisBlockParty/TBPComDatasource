@@ -218,13 +218,13 @@
 | 210 | 480 | Danielle Allison |
 | 211 | 477 | Edwin Calvillo Jr. |
 | 212 | 475 | Tessina Dewey-Mancino |
-| 213 | 473 | Connie Mohler-Fair |
-| 214 | 473 | Rachel |
+| 213 | 473 | Rachel |
+| 214 | 473 | Connie Mohler-Fair |
 | 215 | 471 | Mendoza Lee Christy |
 | 216 | 467 | Sherry Ogden |
 | 217 | 465 | Annie Déè |
-| 218 | 464 | Shunta Jacobs |
-| 219 | 464 | Danielle Weikel |
+| 218 | 464 | Danielle Weikel |
+| 219 | 464 | Shunta Jacobs |
 | 220 | 461 | Tom Nault |
 | 221 | 458 | Danielle Rhoades |
 | 222 | 454 | Joye Sims Binion |
@@ -333,8 +333,8 @@
 | 325 | 311 | Troy |
 | 326 | 309 | Desiree Gold |
 | 327 | 309 | Cheeky Snapper |
-| 328 | 308 | Katrina Turner |
-| 329 | 308 | Tia |
+| 328 | 308 | Tia |
+| 329 | 308 | Katrina Turner |
 | 330 | 305 | Hyper Matchzone |
 | 331 | 304 | _melisa223_ |
 | 332 | 303 | Alexmac |
@@ -401,11 +401,11 @@
 | 393 | 265 | AlsoJess |
 | 394 | 264 | Reina Roth |
 | 395 | 264 | Danielle Beaunoyer Jean |
-| 396 | 263 | Jimmie Clemons |
-| 397 | 263 | Erika Thornton |
+| 396 | 263 | Erika Thornton |
+| 397 | 263 | Jimmie Clemons |
 | 398 | 261 | Swanky Snapclear |
-| 399 | 260 | Alice |
-| 400 | 260 | Tracey Cox |
+| 399 | 260 | Tracey Cox |
+| 400 | 260 | Alice |
 | 401 | 259 | Tegan Chapman |
 | 402 | 259 | Shania Vaine |
 | 403 | 259 | Dana Winters |
@@ -428,12 +428,12 @@
 | 420 | 250 | Eric Caccavale |
 | 421 | 249 | Willow |
 | 422 | 248 | Brian Battjes |
-| 423 | 247 | Kevin Russell |
-| 424 | 247 | Jessica |
+| 423 | 247 | Jessica |
+| 424 | 247 | Kevin Russell |
 | 425 | 245 | LaNette Morgan |
 | 426 | 245 | Latoya Mayne |
-| 427 | 244 | Beezwax |
-| 428 | 244 | Lys |
+| 427 | 244 | Lys |
+| 428 | 244 | Beezwax |
 | 429 | 244 | Quackers |
 | 430 | 243 | Jana Polk |
 | 431 | 243 | Nicholas Roddy |
@@ -472,8 +472,8 @@
 | 464 | 230 | BigE |
 | 465 | 229 | MizzMonick Smith |
 | 466 | 229 | Everret Maxine |
-| 467 | 228 | Dapper Liney |
-| 468 | 228 | Tipsy Zonebuilder |
+| 467 | 228 | Tipsy Zonebuilder |
+| 468 | 228 | Dapper Liney |
 | 469 | 227 | Meowsa |
 | 470 | 226 | Ryan Williams |
 | 471 | 226 | paranoid |
@@ -507,12 +507,12 @@
 | 499 | 213 | Linda Draper |
 | 500 | 213 | Flashy Rumbler |
 | 501 | 213 | Ktfreeee |
-| 502 | 212 | neci |
-| 503 | 212 | Beth Ingham |
-| 504 | 212 | Boldy Blocker |
-| 505 | 212 | Frilly Stackzone |
-| 506 | 211 | Michael Pleasant |
-| 507 | 211 | El Chapa |
+| 502 | 212 | Beth Ingham |
+| 503 | 212 | Boldy Blocker |
+| 504 | 212 | Frilly Stackzone |
+| 505 | 212 | neci |
+| 506 | 211 | El Chapa |
+| 507 | 211 | Michael Pleasant |
 | 508 | 210 | Maia |
 | 509 | 210 | Kristian Thurman |
 | 510 | 210 | Megan Riggins |
