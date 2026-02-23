@@ -135,8 +135,8 @@
 | 127 | 519 | April Carroll |
 | 128 | 518 | Rachael |
 | 129 | 514 | Tanya Carpenter-Reynolds |
-| 130 | 513 | Sweet Baker |
-| 131 | 513 | Colena Davenport |
+| 130 | 513 | Colena Davenport |
+| 131 | 513 | Sweet Baker |
 | 132 | 512 | BadG52 |
 | 133 | 511 | MomMom |
 | 134 | 502 | Anaid Sanchez |
@@ -209,8 +209,8 @@
 | 201 | 379 | Snappy Matcher |
 | 202 | 379 | Austin James |
 | 203 | 378 | Sleepysloath5745 |
-| 204 | 376 | Brian Richardsson |
-| 205 | 376 | Sassy Builderline |
+| 204 | 376 | Sassy Builderline |
+| 205 | 376 | Brian Richardsson |
 | 206 | 375 | Connie |
 | 207 | 374 | Howdi Duty |
 | 208 | 372 | Dizzy Party |
@@ -254,11 +254,11 @@
 | 246 | 335 | Eric DeSimone |
 | 247 | 334 | Tipsy Builder |
 | 248 | 333 | Jennifer Noe Chandler |
-| 249 | 332 | Eddie Dillon |
-| 250 | 332 | Happy Basegrid |
-| 251 | 332 | Plucky Stacky |
-| 252 | 329 | Larissa Marie Nelson |
-| 253 | 329 | Frothy Pattern |
+| 249 | 332 | Happy Basegrid |
+| 250 | 332 | Plucky Stacky |
+| 251 | 332 | Eddie Dillon |
+| 252 | 329 | Frothy Pattern |
+| 253 | 329 | Larissa Marie Nelson |
 | 254 | 328 | Daring Fitclear |
 | 255 | 325 | Chantelle Ceno |
 | 256 | 325 | GringaLinga |
@@ -277,8 +277,8 @@
 | 269 | 312 | Danielle S Kester |
 | 270 | 312 | Mitchel White |
 | 271 | 311 | Nathan Sealander |
-| 272 | 310 | Matt Iaccheo |
-| 273 | 310 | Christina Norman |
+| 272 | 310 | Christina Norman |
+| 273 | 310 | Matt Iaccheo |
 | 274 | 308 | Speedy Liney |
 | 275 | 306 | Cece Ibarra |
 | 276 | 305 | Larry Tilton |

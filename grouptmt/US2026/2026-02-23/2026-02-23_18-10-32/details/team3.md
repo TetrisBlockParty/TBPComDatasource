@@ -224,8 +224,8 @@
 | 216 | 549 | Sarah Cowan Burgos |
 | 217 | 548 | Danielle Balcom |
 | 218 | 547 | Staci George Fitzsimmons |
-| 219 | 546 | Mykal Burton |
-| 220 | 546 | Cynthia Castros-Hampton |
+| 219 | 546 | Cynthia Castros-Hampton |
+| 220 | 546 | Mykal Burton |
 | 221 | 545 | Trisha Balmer |
 | 222 | 539 | Betty Bóò |
 | 223 | 538 | Annie Déè |
@@ -371,8 +371,8 @@
 | 363 | 345 | gremicx |
 | 364 | 345 | victory |
 | 365 | 344 | Beaudie Stroebel |
-| 366 | 343 | Donna |
-| 367 | 343 | Ashley Rufus Bythcez |
+| 366 | 343 | Ashley Rufus Bythcez |
+| 367 | 343 | Donna |
 | 368 | 342 | 4girls |
 | 369 | 342 | ROODBOY |
 | 370 | 342 | Cynthia Herrmann Egland |

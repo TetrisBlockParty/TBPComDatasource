@@ -199,8 +199,8 @@
 | 191 | 418 | Lush Linkfall |
 | 192 | 417 | Amanda Pauldo-Ivy |
 | 193 | 415 | Berklie Apedaile |
-| 194 | 413 | Circuit8 |
-| 195 | 413 | John Brunetti |
+| 194 | 413 | John Brunetti |
+| 195 | 413 | Circuit8 |
 | 196 | 411 | Autumn Kumzi |
 | 197 | 410 | Oscar Alberto Perez |
 | 198 | 408 | April Rondinone |
@@ -547,8 +547,8 @@
 | 539 | 166 | Frank Joseph Epson |
 | 540 | 165 | Dapper Caster |
 | 541 | 165 | Zappy Buildgrid |
-| 542 | 164 | Stacy Jones |
-| 543 | 164 | Marvetta Williams |
+| 542 | 164 | Marvetta Williams |
+| 543 | 164 | Stacy Jones |
 | 544 | 163 | Sunny Filler |
 | 545 | 163 | Ashlee Carnes |
 | 546 | 163 | Michael Orris |
@@ -1065,9 +1065,9 @@
 | 1057 | 66 | Linda Wilbur Scott |
 | 1058 | 66 | Chilly Matchpiece |
 | 1059 | 66 | Anne-Marie Reyes |
-| 1060 | 66 | Coflowers |
-| 1061 | 66 | Erin Kushner |
-| 1062 | 66 | Joan Du |
+| 1060 | 66 | Joan Du |
+| 1061 | 66 | Coflowers |
+| 1062 | 66 | Erin Kushner |
 | 1063 | 65 | Katie McCabe |
 | 1064 | 65 | Tina Williams |
 | 1065 | 65 | Brittanny Simpson |

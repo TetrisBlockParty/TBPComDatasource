@@ -573,9 +573,9 @@
 | 565 | 682 | Anthony Mignacca |
 | 566 | 681 | Gloria Liu |
 | 567 | 680 | Frisky Clearpiece |
-| 568 | 679 | Regina Knight |
+| 568 | 679 | Kassandra Hunt |
 | 569 | 679 | Prette Qui |
-| 570 | 679 | Kassandra Hunt |
+| 570 | 679 | Regina Knight |
 | 571 | 678 | Shantel Kelley |
 | 572 | 677 | Kayleigh Wisse |
 | 573 | 677 | Cynthia Louann Rose |
@@ -595,12 +595,12 @@
 | 587 | 668 | Gloria Ininahazwe |
 | 588 | 668 | Jazzy Clusterline |
 | 589 | 667 | Rhonda Milstead |
-| 590 | 666 | Laura Mclean |
-| 591 | 666 | Wes Acton |
+| 590 | 666 | Wes Acton |
+| 591 | 666 | Laura Mclean |
 | 592 | 665 | Zak Dunn |
 | 593 | 663 | Jenn Marie |
-| 594 | 662 | Jennifer Monroe Kelly |
-| 595 | 662 | Samie Dayle |
+| 594 | 662 | Samie Dayle |
+| 595 | 662 | Jennifer Monroe Kelly |
 | 596 | 660 | Nadia Batista Garcia |
 | 597 | 659 | Trinity Oak |
 | 598 | 659 | Anthony Huebel |
@@ -722,8 +722,8 @@
 | 714 | 572 | Alexandra Lynn |
 | 715 | 571 | Niceday |
 | 716 | 570 | Sonya Back |
-| 717 | 569 | Sparkles |
-| 718 | 569 | Nat |
+| 717 | 569 | Nat |
+| 718 | 569 | Sparkles |
 | 719 | 568 | Shorty |
 | 720 | 568 | Stacey Tranchida |
 | 721 | 567 | Ryan Meilleur |
