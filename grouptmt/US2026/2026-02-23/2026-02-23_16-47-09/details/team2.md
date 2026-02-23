@@ -813,8 +813,8 @@
 | 805 | 506 | Quinn |
 | 806 | 506 | Lawanda Forbes |
 | 807 | 505 | Sam |
-| 808 | 505 | Casey Schumacher |
-| 809 | 505 | Paul Hinkle |
+| 808 | 505 | Paul Hinkle |
+| 809 | 505 | Casey Schumacher |
 | 810 | 505 | De'Jah Charncey |
 | 811 | 504 | Erica Dale |
 | 812 | 504 | Casaundra Little-Abeling |

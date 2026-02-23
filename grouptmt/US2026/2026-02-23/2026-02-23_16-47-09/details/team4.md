@@ -1085,8 +1085,8 @@
 | 1077 | 62 | Tarius Jackson |
 | 1078 | 62 | Nee |
 | 1079 | 62 | Jaycool |
-| 1080 | 61 | Saucy Brickfit |
-| 1081 | 61 | Mbeth Moore |
+| 1080 | 61 | Mbeth Moore |
+| 1081 | 61 | Saucy Brickfit |
 | 1082 | 61 | Priscilla Lewandowski |
 | 1083 | 61 | Mathew Dissinger |
 | 1084 | 61 | Carmen Maraj |

@@ -274,8 +274,8 @@
 | 266 | 437 | Loopy Clusterer |
 | 267 | 434 | Daring Builder |
 | 268 | 432 | Luciana Braganca Vieira |
-| 269 | 431 | Ammmmmmy |
-| 270 | 431 | Wendy Dearden |
+| 269 | 431 | Wendy Dearden |
+| 270 | 431 | Ammmmmmy |
 | 271 | 430 | Jeni Dow |
 | 272 | 429 | Carrie Huskey |
 | 273 | 428 | Sleepy |
