@@ -107,9 +107,9 @@
 | 99 | 533 | Samantha Peterson |
 | 100 | 519 | Nugget |
 | 101 | 518 | Rodney McMath Jr. |
-| 102 | 513 | Jamie Gustafson |
+| 102 | 513 | Erin Thomas |
 | 103 | 513 | YoMomma |
-| 104 | 513 | Erin Thomas |
+| 104 | 513 | Jamie Gustafson |
 | 105 | 512 | Casey Jeffcoat |
 | 106 | 510 | Scott Jameson |
 | 107 | 510 | Trista Leah |
@@ -202,12 +202,12 @@
 | 194 | 290 | Keshia Lyons |
 | 195 | 288 | Leah Kutz Zirbel |
 | 196 | 287 | Plucky Patternblock |
-| 197 | 286 | Brittney Orengo |
-| 198 | 286 | Sam Bishop |
-| 199 | 282 | Chris Bernstein |
-| 200 | 282 | Sue Joyce Staats |
-| 201 | 281 | Kim Klutz Olson |
-| 202 | 281 | Laura |
+| 197 | 286 | Sam Bishop |
+| 198 | 286 | Brittney Orengo |
+| 199 | 282 | Sue Joyce Staats |
+| 200 | 282 | Chris Bernstein |
+| 201 | 281 | Laura |
+| 202 | 281 | Kim Klutz Olson |
 | 203 | 277 | Matt Gooder |
 | 204 | 277 | Zesty Twistbuilder |
 | 205 | 276 | Joeliecea Cobb |
@@ -237,16 +237,16 @@
 | 229 | 252 | Selena Shaw |
 | 230 | 251 | Carol Ricks Raymond |
 | 231 | 249 | Ak Jones |
-| 232 | 248 | Jose Dejesus |
-| 233 | 248 | Chirpy Basepiece |
+| 232 | 248 | Chirpy Basepiece |
+| 233 | 248 | Jose Dejesus |
 | 234 | 247 | JPW |
 | 235 | 246 | Zethra Prenisha Rahming |
 | 236 | 245 | Adam Stephanie Parker |
 | 237 | 245 | Autum Leigh |
 | 238 | 245 | 23 |
 | 239 | 241 | Allen Lloyd |
-| 240 | 240 | Perky Patternblock |
-| 241 | 240 | Kim Hunt |
+| 240 | 240 | Kim Hunt |
+| 241 | 240 | Perky Patternblock |
 | 242 | 238 | Chaz |
 | 243 | 237 | Christine Therrien |
 | 244 | 237 | 030Synner |

@@ -238,8 +238,8 @@
 | 230 | 375 | Duane Bright |
 | 231 | 375 | Kristal C Lee |
 | 232 | 373 | Rebecca Funderburk Kirby |
-| 233 | 372 | Sarah Moyer |
-| 234 | 372 | Rich LeBlanc |
+| 233 | 372 | Rich LeBlanc |
+| 234 | 372 | Sarah Moyer |
 | 235 | 370 | RickyG |
 | 236 | 369 | Keis |
 | 237 | 368 | Stephanie Woods |
@@ -290,9 +290,9 @@
 | 282 | 308 | Katrina Turner |
 | 283 | 307 | Blocked |
 | 284 | 304 | _melisa223_ |
-| 285 | 303 | Beaudie Stroebel |
-| 286 | 303 | Alexmac |
-| 287 | 303 | Hoppy Buildout |
+| 285 | 303 | Alexmac |
+| 286 | 303 | Hoppy Buildout |
+| 287 | 303 | Beaudie Stroebel |
 | 288 | 302 | Gray Hicks |
 | 289 | 301 | Betty Rosas |
 | 290 | 301 | Tiffany Davie |
@@ -362,8 +362,8 @@
 | 354 | 252 | Blair Erin Waite |
 | 355 | 250 | Eric Caccavale |
 | 356 | 249 | Willow |
-| 357 | 247 | Daring Builder |
-| 358 | 247 | Jessica |
+| 357 | 247 | Jessica |
+| 358 | 247 | Daring Builder |
 | 359 | 245 | Latoya Mayne |
 | 360 | 244 | Tegan Chapman |
 | 361 | 244 | LaNette Morgan |

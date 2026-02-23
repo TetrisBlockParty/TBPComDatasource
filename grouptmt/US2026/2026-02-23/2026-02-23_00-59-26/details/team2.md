@@ -190,8 +190,8 @@
 | 182 | 1294 | Ashley House |
 | 183 | 1292 | Mischelle Clay |
 | 184 | 1286 | Altamirano Michael |
-| 185 | 1282 | Tanya Parsons |
-| 186 | 1282 | Ashley Rose Frederick |
+| 185 | 1282 | Ashley Rose Frederick |
+| 186 | 1282 | Tanya Parsons |
 | 187 | 1277 | Desiree Harris Rosch |
 | 188 | 1257 | Michele Gabriel |
 | 189 | 1243 | Anna Edwards |
