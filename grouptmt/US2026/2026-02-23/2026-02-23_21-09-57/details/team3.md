@@ -433,14 +433,14 @@
 | 425 | 320 | Or Reznitsky |
 | 426 | 320 | Taylor Hood |
 | 427 | 319 | Tay |
-| 428 | 318 | Christy Quick |
-| 429 | 318 | Christina Spa |
-| 430 | 318 | Funky Jumper |
-| 431 | 318 | Beppy |
+| 428 | 318 | Christina Spa |
+| 429 | 318 | Christy Quick |
+| 430 | 318 | Beppy |
+| 431 | 318 | Funky Jumper |
 | 432 | 317 | Jack Bo |
 | 433 | 316 | Travis W |
-| 434 | 315 | Julie Fratrik |
-| 435 | 315 | Colton |
+| 434 | 315 | Colton |
+| 435 | 315 | Julie Fratrik |
 | 436 | 314 | Tipsy Zonebuilder |
 | 437 | 313 | Hoppy Buildout |
 | 438 | 312 | Eric Caccavale |

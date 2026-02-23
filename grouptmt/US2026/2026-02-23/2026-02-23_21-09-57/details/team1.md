@@ -308,13 +308,13 @@
 | 300 | 305 | Amh |
 | 301 | 303 | DaRascal |
 | 302 | 302 | LaFontaine Leslie |
-| 303 | 301 | Brave Wrecker |
+| 303 | 301 | Chad Atchley |
 | 304 | 301 | Glitzy Curvebuilder |
-| 305 | 301 | Chad Atchley |
+| 305 | 301 | Brave Wrecker |
 | 306 | 300 | Giggly Builderline |
 | 307 | 299 | LD1 |
-| 308 | 298 | Kimberly Davis |
-| 309 | 298 | Sweetts |
+| 308 | 298 | Sweetts |
+| 309 | 298 | Kimberly Davis |
 | 310 | 297 | Diane Byrd |
 | 311 | 295 | Bird Person |
 | 312 | 294 | Наталья Солоид |

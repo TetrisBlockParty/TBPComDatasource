@@ -316,8 +316,8 @@
 | 308 | 1163 | Erika Densmore |
 | 309 | 1160 | Sarah block |
 | 310 | 1158 | Brittany Clark |
-| 311 | 1156 | Alezandra Smith |
-| 312 | 1156 | Arkei Luster |
+| 311 | 1156 | Arkei Luster |
+| 312 | 1156 | Alezandra Smith |
 | 313 | 1145 | Deborah Miller |
 | 314 | 1142 | April Dawn Gussler |
 | 315 | 1142 | Sheniya Spurgeon |
