@@ -26,8 +26,8 @@
 | 18 | 2697 | River |
 | 19 | 2494 | Ashley Jones |
 | 20 | 2302 | Laura Melton |
-| 21 | 2287 | Tetris Master |
-| 22 | 2287 | Brandon Green |
+| 21 | 2287 | Brandon Green |
+| 22 | 2287 | Tetris Master |
 | 23 | 2237 | Susan Valentino |
 | 24 | 2144 | Zippy Strikesnap |
 | 25 | 2015 | Chummy Shatterer |
@@ -709,8 +709,8 @@
 | 701 | 139 | Melissa Parlow-Callaway |
 | 702 | 139 | Cesar Mendez |
 | 703 | 139 | Dapper Chiseler |
-| 704 | 138 | FineMuva |
-| 705 | 138 | Amber Reeves-Buchanan |
+| 704 | 138 | Amber Reeves-Buchanan |
+| 705 | 138 | FineMuva |
 | 706 | 138 | Chenoa Urban Sophicated Redy |
 | 707 | 137 | Patty White |
 | 708 | 137 | Rynne Ellis |

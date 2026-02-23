@@ -149,8 +149,8 @@
 | 141 | 1599 | Dustin Rains |
 | 142 | 1581 | Brandy Andre |
 | 143 | 1580 | Heather Westrum |
-| 144 | 1578 | Sally Dennis |
-| 145 | 1578 | Loopy Clusterbuilder |
+| 144 | 1578 | Loopy Clusterbuilder |
+| 145 | 1578 | Sally Dennis |
 | 146 | 1566 | Alisa Lamb |
 | 147 | 1558 | Tim Dyer |
 | 148 | 1557 | blackq |
@@ -358,8 +358,8 @@
 | 350 | 808 | Laura McCarthey |
 | 351 | 808 | Desire Rice |
 | 352 | 804 | Becca Coronado |
-| 353 | 801 | Diana Fitzwater |
-| 354 | 801 | Gold Rose |
+| 353 | 801 | Gold Rose |
+| 354 | 801 | Diana Fitzwater |
 | 355 | 799 | Joy LaJeunesse |
 | 356 | 797 | Lisa Ongtowasruk |
 | 357 | 796 | Amber Gray |
