@@ -103,8 +103,8 @@
 | 95 | 562 | Denice Dee |
 | 96 | 553 | And |
 | 97 | 535 | Susan Ward |
-| 98 | 534 | Veronica Eve |
-| 99 | 534 | Loony Fitzone |
+| 98 | 534 | Loony Fitzone |
+| 99 | 534 | Veronica Eve |
 | 100 | 529 | Ryan Lunnin |
 | 101 | 522 | Sarah Lombardo |
 | 102 | 511 | Mario Cab |
@@ -126,8 +126,8 @@
 | 118 | 477 | Tonya Beasley |
 | 119 | 463 | Lexuriuos Lifestlye |
 | 120 | 462 | Luciano Moreira |
-| 121 | 458 | Goose egg |
-| 122 | 458 | Evan Richmond |
+| 121 | 458 | Evan Richmond |
+| 122 | 458 | Goose egg |
 | 123 | 454 | Desiree Deschaine Havee |
 | 124 | 453 | Brandi Huntington |
 | 125 | 452 | Hyper |
@@ -348,8 +348,8 @@
 | 340 | 220 | Gary Gobin |
 | 341 | 220 | Teri Oehlke |
 | 342 | 219 | Negan Mallory Knoxx Spence |
-| 343 | 219 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
-| 344 | 219 | Jeanna Dunn |
+| 343 | 219 | Jeanna Dunn |
+| 344 | 219 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 345 | 218 | Jason Benitez |
 | 346 | 217 | Speedy Snapfall |
 | 347 | 217 | Cheeky Crusher |

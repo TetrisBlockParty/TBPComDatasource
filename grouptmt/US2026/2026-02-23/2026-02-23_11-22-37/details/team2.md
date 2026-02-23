@@ -308,19 +308,19 @@
 | 300 | 1014 | Michele Morgan |
 | 301 | 1011 | Teresa Gillmore |
 | 302 | 1003 | Andrea Maher |
-| 303 | 998 | Shelley Thornburgh Wright |
-| 304 | 998 | Keri Womack |
+| 303 | 998 | Keri Womack |
+| 304 | 998 | Shelley Thornburgh Wright |
 | 305 | 996 | Ashie Ann |
 | 306 | 987 | Osun Anuket Esu |
-| 307 | 979 | Hillary Crawford |
-| 308 | 979 | Melissa Penelope Ann Dodge |
+| 307 | 979 | Melissa Penelope Ann Dodge |
+| 308 | 979 | Hillary Crawford |
 | 309 | 978 | April Dawn Gussler |
 | 310 | 976 | Sam Joe |
 | 311 | 976 | Della Hole |
 | 312 | 975 | Hyper Cluster |
 | 313 | 974 | Boldy Cascadepiece |
-| 314 | 972 | Barbra Miller |
-| 315 | 972 | Binyah-Binyah |
+| 314 | 972 | Binyah-Binyah |
+| 315 | 972 | Barbra Miller |
 | 316 | 971 | Jojo Momma |
 | 317 | 969 | Em Chen |
 | 318 | 961 | Angela Lynn |
@@ -583,13 +583,13 @@
 | 575 | 612 | Briana Alexander |
 | 576 | 612 | Slinky Racker |
 | 577 | 610 | Michael Buckner |
-| 578 | 609 | Autumn Schaeffer |
-| 579 | 609 | Cecilia A Jenkins |
+| 578 | 609 | Cecilia A Jenkins |
+| 579 | 609 | Autumn Schaeffer |
 | 580 | 607 | James Smith |
 | 581 | 607 | Miranda Morris |
 | 582 | 606 | Lea Stewart |
-| 583 | 605 | Mandi Marie Smith |
-| 584 | 605 | Jermaine Harris |
+| 583 | 605 | Jermaine Harris |
+| 584 | 605 | Mandi Marie Smith |
 | 585 | 604 | Rae Rae |
 | 586 | 603 | Dizzy Zone |
 | 587 | 603 | Casper The Chonk |
@@ -756,8 +756,8 @@
 | 748 | 490 | Juanita Lyons |
 | 749 | 489 | Britney M. |
 | 750 | 489 | Christy Krissie |
-| 751 | 487 | Morgan Easter |
-| 752 | 487 | Christy Long |
+| 751 | 487 | Christy Long |
+| 752 | 487 | Morgan Easter |
 | 753 | 487 | RaeVan Worthington |
 | 754 | 486 | Ashley Collins |
 | 755 | 485 | coleksquad |
@@ -765,10 +765,10 @@
 | 757 | 484 | Street Sweeper |
 | 758 | 483 | Austin Wilson |
 | 759 | 483 | Tabs Reichert |
-| 760 | 482 | Shyenn Gadsby |
+| 760 | 482 | Amélie Cadieux |
 | 761 | 482 | Drwatson187 |
-| 762 | 482 | Nate |
-| 763 | 482 | Samuel Labruno |
+| 762 | 482 | Samuel Labruno |
+| 763 | 482 | Nate |
 | 764 | 482 | Shyenn Gadsby |
 | 765 | 481 | Lucy Marshall |
 | 766 | 481 | Brittany Chapman |
@@ -788,8 +788,8 @@
 | 780 | 474 | Calandra Shaya Robinson |
 | 781 | 473 | Tara Lynn Janes |
 | 782 | 473 | Jenn Marie |
-| 783 | 472 | Cathleena Giusto |
-| 784 | 472 | Connie Lepore-Mann |
+| 783 | 472 | Connie Lepore-Mann |
+| 784 | 472 | Cathleena Giusto |
 | 785 | 471 | Jessica Hughes |
 | 786 | 471 | Charming Leech |
 | 787 | 470 | Katie Marie |

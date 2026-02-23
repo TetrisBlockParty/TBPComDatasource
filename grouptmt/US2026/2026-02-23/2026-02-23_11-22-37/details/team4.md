@@ -129,8 +129,8 @@
 | 121 | 514 | Serena Goodridge |
 | 122 | 514 | Scott Jameson |
 | 123 | 513 | Erin Thomas |
-| 124 | 512 | Cristy Duerksen |
-| 125 | 512 | Casey Jeffcoat |
+| 124 | 512 | Casey Jeffcoat |
+| 125 | 512 | Cristy Duerksen |
 | 126 | 509 | Leslie Nicole |
 | 127 | 493 | Carly Alexis |
 | 128 | 485 | Melissa Adams |
@@ -234,8 +234,8 @@
 | 226 | 301 | Andria Lynn |
 | 227 | 300 | Dana Scott |
 | 228 | 295 | Keshia Lyons |
-| 229 | 294 | Porkobello |
-| 230 | 294 | Calvin Cannon |
+| 229 | 294 | Calvin Cannon |
+| 230 | 294 | Porkobello |
 | 231 | 292 | Epic Curvetile |
 | 232 | 291 | Mimi |
 | 233 | 290 | Rebecca Morris |
@@ -248,8 +248,8 @@
 | 240 | 288 | Leah Kutz Zirbel |
 | 241 | 285 | 030Synner |
 | 242 | 284 | Matt Dell'Olio |
-| 243 | 282 | Matt Gooder |
-| 244 | 282 | Kim Klutz Olson |
+| 243 | 282 | Kim Klutz Olson |
+| 244 | 282 | Matt Gooder |
 | 245 | 281 | Laura |
 | 246 | 280 | Rio Rocha |
 | 247 | 279 | Malakai Darien Fox |
@@ -271,8 +271,8 @@
 | 263 | 264 | ZeeZee |
 | 264 | 264 | Stella |
 | 265 | 263 | rebel4lyfe |
-| 266 | 262 | Selena Shaw |
-| 267 | 262 | BigSammy420 |
+| 266 | 262 | BigSammy420 |
+| 267 | 262 | Selena Shaw |
 | 268 | 261 | Zethra Prenisha Rahming |
 | 269 | 260 | Carter Jones |
 | 270 | 259 | Allen Lloyd |
@@ -392,8 +392,8 @@
 | 384 | 189 | Berklie Apedaile |
 | 385 | 189 | Lauren Lamb |
 | 386 | 189 | Cool Towerbuilder |
-| 387 | 188 | Sharyn Lemire |
-| 388 | 188 | Frilly Blocky |
+| 387 | 188 | Frilly Blocky |
+| 388 | 188 | Sharyn Lemire |
 | 389 | 187 | Jenny Wells-Oakley |
 | 390 | 186 | Dandy Cascadefit |
 | 391 | 185 | Val Erie |
@@ -426,8 +426,8 @@
 | 418 | 176 | Jessica Wells |
 | 419 | 175 | Jim Hart |
 | 420 | 175 | Lorena Guerrero-Barron |
-| 421 | 174 | Chummy Towerzone |
-| 422 | 174 | Jason Frehner |
+| 421 | 174 | Jason Frehner |
+| 422 | 174 | Chummy Towerzone |
 | 423 | 173 | Tanner Lund |
 | 424 | 173 | Shiny Pivoty |
 | 425 | 172 | Undeniable Williams |
@@ -478,8 +478,8 @@
 | 470 | 158 | Jasmine S Caldwell |
 | 471 | 158 | Grann8 |
 | 472 | 157 | David Boggs |
-| 473 | 157 | LunaMoon |
-| 474 | 157 | Ryry |
+| 473 | 157 | Ryry |
+| 474 | 157 | LunaMoon |
 | 475 | 156 | Mighty Edgepiece |
 | 476 | 155 | tipsy tiger |
 | 477 | 155 | Shirl |
