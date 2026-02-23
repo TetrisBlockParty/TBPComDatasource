@@ -125,8 +125,8 @@
 | 117 | 527 | Dizzy Tiley |
 | 118 | 519 | Nugget |
 | 119 | 517 | shar |
-| 120 | 514 | Scott Jameson |
-| 121 | 514 | Serena Goodridge |
+| 120 | 514 | Serena Goodridge |
+| 121 | 514 | Scott Jameson |
 | 122 | 513 | Erin Thomas |
 | 123 | 512 | Casey Jeffcoat |
 | 124 | 512 | Cristy Duerksen |
@@ -176,8 +176,8 @@
 | 168 | 377 | Guy Incognito |
 | 169 | 375 | Desi Desporte |
 | 170 | 374 | Mylo Lipscomb |
-| 171 | 372 | George Nutt |
-| 172 | 372 | Antony Dwayne Beasley |
+| 171 | 372 | Antony Dwayne Beasley |
+| 172 | 372 | George Nutt |
 | 173 | 370 | Oscar Alberto Perez |
 | 174 | 369 | Lindsey Gonzalez |
 | 175 | 368 | Brandon Crabbs |
@@ -242,8 +242,8 @@
 | 234 | 288 | Leah Kutz Zirbel |
 | 235 | 285 | 030Synner |
 | 236 | 284 | Mimi |
-| 237 | 282 | Matt Gooder |
-| 238 | 282 | Kim Klutz Olson |
+| 237 | 282 | Kim Klutz Olson |
+| 238 | 282 | Matt Gooder |
 | 239 | 281 | Laura |
 | 240 | 280 | Rio Rocha |
 | 241 | 279 | Malakai Darien Fox |
@@ -277,8 +277,8 @@
 | 269 | 259 | Allen Lloyd |
 | 270 | 257 | PeaceOs |
 | 271 | 256 | Jade Rian |
-| 272 | 256 | Brittany Marsh |
-| 273 | 256 | Paige Kittles |
+| 272 | 256 | Paige Kittles |
+| 273 | 256 | Brittany Marsh |
 | 274 | 256 | Metsfan |
 | 275 | 253 | Autum Leigh |
 | 276 | 251 | Carol Ricks Raymond |
@@ -563,8 +563,8 @@
 | 555 | 129 | Jessica Wells |
 | 556 | 129 | Tamika Starkey |
 | 557 | 128 | Zesty Linkgrid |
-| 558 | 128 | Lazy Glidepiece |
-| 559 | 128 | Raymond Roberts |
+| 558 | 128 | Raymond Roberts |
+| 559 | 128 | Lazy Glidepiece |
 | 560 | 127 | Jay You |
 | 561 | 126 | Spicy Cascadezone |
 | 562 | 126 | Jennifer Renee |

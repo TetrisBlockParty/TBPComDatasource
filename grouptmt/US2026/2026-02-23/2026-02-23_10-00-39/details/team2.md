@@ -403,9 +403,9 @@
 | 395 | 801 | Diana Fitzwater |
 | 396 | 801 | Gold Rose |
 | 397 | 800 | Arlene Joy Belicina |
-| 398 | 799 | Kenny Alvarado |
-| 399 | 799 | Joy LaJeunesse |
-| 400 | 799 | Ronnie Nelson |
+| 398 | 799 | Ronnie Nelson |
+| 399 | 799 | Kenny Alvarado |
+| 400 | 799 | Joy LaJeunesse |
 | 401 | 796 | AndrewandShela Gornik |
 | 402 | 796 | Amber Gray |
 | 403 | 793 | Jaycee |
@@ -491,8 +491,8 @@
 | 483 | 695 | Lakeysha Dortch |
 | 484 | 693 | Ryan Stadel |
 | 485 | 692 | Shaun Church |
-| 486 | 691 | Arwa Fatimah |
-| 487 | 691 | Samuel Macon |
+| 486 | 691 | Samuel Macon |
+| 487 | 691 | Arwa Fatimah |
 | 488 | 689 | Gauri Shrotriya |
 | 489 | 686 | Christine Coughlin |
 | 490 | 684 | Sarah DeHart |
@@ -508,8 +508,8 @@
 | 500 | 677 | Paul Combs |
 | 501 | 677 | Kayleigh Wisse |
 | 502 | 677 | Amanda Woodruff |
-| 503 | 676 | Nicky Jackson |
-| 504 | 676 | Roseanna Peloso |
+| 503 | 676 | Roseanna Peloso |
+| 504 | 676 | Nicky Jackson |
 | 505 | 675 | Lonne Emade |
 | 506 | 675 | Katelynn Hollen |
 | 507 | 674 | Ashley Munn |
@@ -549,8 +549,8 @@
 | 541 | 634 | James Louie |
 | 542 | 634 | Quiksilver |
 | 543 | 629 | Breezy Clusterer |
-| 544 | 629 | snkylnk |
-| 545 | 629 | Maya June |
+| 544 | 629 | Maya June |
+| 545 | 629 | snkylnk |
 | 546 | 628 | g |
 | 547 | 628 | Brownie Sheena |
 | 548 | 626 | Chab |
@@ -771,8 +771,8 @@
 | 763 | 476 | Mary Marie |
 | 764 | 474 | Calandra Shaya Robinson |
 | 765 | 474 | Veronica Stevenson |
-| 766 | 474 | Jennifer Scott |
-| 767 | 474 | Jamie Carter Bierce |
+| 766 | 474 | Jamie Carter Bierce |
+| 767 | 474 | Jennifer Scott |
 | 768 | 473 | Tara Lynn Janes |
 | 769 | 473 | Jenn Marie |
 | 770 | 472 | Connie Lepore-Mann |
@@ -790,8 +790,8 @@
 | 782 | 466 | Shea Edison |
 | 783 | 466 | Miracle |
 | 784 | 464 | Saucy Fitzone |
-| 785 | 464 | Lively Edgepiece |
-| 786 | 464 | Natasha Edmonds |
+| 785 | 464 | Natasha Edmonds |
+| 786 | 464 | Lively Edgepiece |
 | 787 | 463 | Jaye EL Hunter |
 | 788 | 463 | Murray Marie |
 | 789 | 462 | Cleo Sims |
@@ -903,19 +903,19 @@
 | 895 | 411 | BabyBird |
 | 896 | 410 | Michelle Grant-Moncrieft |
 | 897 | 409 | Lush Snapzone |
-| 898 | 408 | Dad |
-| 899 | 408 | cornball |
+| 898 | 408 | cornball |
+| 899 | 408 | Dad |
 | 900 | 408 | Janitta Alvarez |
-| 901 | 407 | Christina Jarvis-Swarbrick |
-| 902 | 407 | Danielle DeLozier Plesec |
+| 901 | 407 | Danielle DeLozier Plesec |
+| 902 | 407 | Christina Jarvis-Swarbrick |
 | 903 | 406 | Susan Arnburg |
 | 904 | 406 | Lazy Builderfit |
 | 905 | 406 | Johanna Massaro |
 | 906 | 406 | Erin StFrancis |
 | 907 | 406 | Epic Stackbuilder |
 | 908 | 405 | Carrie Mitchell |
-| 909 | 405 | Marget Kay |
-| 910 | 405 | Dane Reing |
+| 909 | 405 | Dane Reing |
+| 910 | 405 | Marget Kay |
 | 911 | 405 | Swanky Columnbuilder |
 | 912 | 404 | Jannan Haimour |
 | 913 | 404 | Christy Green |
