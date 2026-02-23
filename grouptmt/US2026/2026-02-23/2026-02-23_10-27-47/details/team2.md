@@ -223,8 +223,8 @@
 | 215 | 1259 | Foxxo |
 | 216 | 1258 | Snappy Matchbuilder |
 | 217 | 1252 | Angel |
-| 218 | 1245 | Cody Nishimura |
-| 219 | 1245 | Missie Lawson Gebhardt |
+| 218 | 1245 | Missie Lawson Gebhardt |
+| 219 | 1245 | Cody Nishimura |
 | 220 | 1240 | Brandon Armstrong |
 | 221 | 1237 | Megan Ferguson Leone |
 | 222 | 1232 | Groovy Puzzle |
@@ -273,12 +273,12 @@
 | 265 | 1093 | Real Ri |
 | 266 | 1088 | Brainy Smurf |
 | 267 | 1080 | Tyler C. Jung |
-| 268 | 1079 | Jennifer Kistner |
-| 269 | 1079 | Kimberly Hauck-Rausch |
+| 268 | 1079 | Kimberly Hauck-Rausch |
+| 269 | 1079 | Jennifer Kistner |
 | 270 | 1073 | Jodi Blake |
 | 271 | 1071 | Kim Dean |
-| 272 | 1069 | Carl Bradshaw |
-| 273 | 1069 | Offonar Facey |
+| 272 | 1069 | Offonar Facey |
+| 273 | 1069 | Carl Bradshaw |
 | 274 | 1064 | BK Queen |
 | 275 | 1063 | Caitlin Schmid |
 | 276 | 1058 | Rickey Johnson |
@@ -405,13 +405,13 @@
 | 397 | 801 | Diana Fitzwater |
 | 398 | 801 | Gold Rose |
 | 399 | 800 | Arlene Joy Belicina |
-| 400 | 799 | Kenny Alvarado |
-| 401 | 799 | Joy LaJeunesse |
+| 400 | 799 | Joy LaJeunesse |
+| 401 | 799 | Kenny Alvarado |
 | 402 | 799 | Ronnie Nelson |
 | 403 | 796 | AndrewandShela Gornik |
 | 404 | 796 | Amber Gray |
-| 405 | 793 | Heather Schelkopf |
-| 406 | 793 | Jaycee |
+| 405 | 793 | Jaycee |
+| 406 | 793 | Heather Schelkopf |
 | 407 | 790 | Brenda Pierpoint |
 | 408 | 788 | Erika Densmore |
 | 409 | 787 | Tiara Elizabeth Baker |
@@ -448,8 +448,8 @@
 | 440 | 751 | Caitlyn Blackwell |
 | 441 | 750 | Draizen Montrell Thomas |
 | 442 | 748 | Spunkysmom |
-| 443 | 748 | Brenda Utphall |
-| 444 | 748 | Ann Matzkanin |
+| 443 | 748 | Ann Matzkanin |
+| 444 | 748 | Brenda Utphall |
 | 445 | 746 | Leslie Ann Carter |
 | 446 | 742 | tejas25 |
 | 447 | 741 | Jánine Riggs |
@@ -457,8 +457,8 @@
 | 449 | 737 | Ginger |
 | 450 | 737 | Chelle |
 | 451 | 732 | Victoria Moore-Smith |
-| 452 | 731 | Matthew Joseph Acevedo |
-| 453 | 731 | Charvi' Carter |
+| 452 | 731 | Charvi' Carter |
+| 453 | 731 | Matthew Joseph Acevedo |
 | 454 | 730 | Hoppy Brickmatch |
 | 455 | 729 | goofinoff |
 | 456 | 728 | Mikayala Szaz |
@@ -466,8 +466,8 @@
 | 458 | 728 | Tom Riefer |
 | 459 | 726 | Crystal Greene |
 | 460 | 725 | Ashle Scranton |
-| 461 | 725 | Vonceial Boone |
-| 462 | 725 | Karen Snyder Schrage |
+| 461 | 725 | Karen Snyder Schrage |
+| 462 | 725 | Vonceial Boone |
 | 463 | 724 | Melissa Holsinger |
 | 464 | 720 | BeQuo |
 | 465 | 720 | Giggy Mover |
@@ -624,8 +624,8 @@
 | 616 | 574 | Valerie Brooke Lusk Armstrong |
 | 617 | 573 | Vaniel Glover |
 | 618 | 573 | Mike Aprilliano |
-| 619 | 572 | Joseph Musick |
-| 620 | 572 | Rachael Senard |
+| 619 | 572 | Rachael Senard |
+| 620 | 572 | Joseph Musick |
 | 621 | 572 | Jason H Baker |
 | 622 | 572 | Alexandra Lynn |
 | 623 | 571 | Emily Lyric Converse |
@@ -775,8 +775,8 @@
 | 767 | 476 | Mary Marie |
 | 768 | 474 | Calandra Shaya Robinson |
 | 769 | 474 | Veronica Stevenson |
-| 770 | 474 | Jennifer Scott |
-| 771 | 474 | Jamie Carter Bierce |
+| 770 | 474 | Jamie Carter Bierce |
+| 771 | 474 | Jennifer Scott |
 | 772 | 473 | Tara Lynn Janes |
 | 773 | 473 | Jenn Marie |
 | 774 | 472 | Connie Lepore-Mann |
@@ -827,8 +827,8 @@
 | 819 | 451 | Stefanie Zonzini-Gagliardi |
 | 820 | 451 | Giggly Snap |
 | 821 | 450 | sup |
-| 822 | 449 | Heather Sawtelle-Mckenzie |
-| 823 | 449 | Jas |
+| 822 | 449 | Jas |
+| 823 | 449 | Heather Sawtelle-Mckenzie |
 | 824 | 449 | Kristi Biddinger |
 | 825 | 448 | Anastacio Hernandez |
 | 826 | 448 | Leah LaShomb |
@@ -1098,16 +1098,16 @@
 | 1090 | 352 | Jean FU Jagielski |
 | 1091 | 352 | MrsClaudette Will'sIam Matthews |
 | 1092 | 352 | Kimmie Zimmerman-Rocha |
-| 1093 | 351 | LeVeL27 |
-| 1094 | 351 | Queen |
-| 1095 | 351 | Heather Renee Jeffers |
-| 1096 | 351 | Sara Pennington |
-| 1097 | 350 | Takneesha Ellison |
-| 1098 | 350 | Macy Jarrett |
-| 1099 | 350 | Chris Harr |
-| 1100 | 350 | PlazTTV |
-| 1101 | 349 | Lisa Bare |
-| 1102 | 349 | Manny Trindade |
+| 1093 | 351 | Sara Pennington |
+| 1094 | 351 | Heather Renee Jeffers |
+| 1095 | 351 | Queen |
+| 1096 | 351 | LeVeL27 |
+| 1097 | 350 | Chris Harr |
+| 1098 | 350 | Takneesha Ellison |
+| 1099 | 350 | PlazTTV |
+| 1100 | 350 | Macy Jarrett |
+| 1101 | 349 | Manny Trindade |
+| 1102 | 349 | Lisa Bare |
 | 1103 | 348 | MamaBear11 |
 | 1104 | 348 | Richard Horton |
 | 1105 | 348 | Melissa Schulz |

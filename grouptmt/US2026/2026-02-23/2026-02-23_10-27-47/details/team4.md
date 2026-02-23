@@ -98,8 +98,8 @@
 | 90 | 659 | Jamie Gustafson |
 | 91 | 653 | Rica Mitchell |
 | 92 | 650 | KJ Pool |
-| 93 | 647 | Shauna Havard |
-| 94 | 647 | KM8 |
+| 93 | 647 | KM8 |
+| 94 | 647 | Shauna Havard |
 | 95 | 646 | Eric Mcgaughy |
 | 96 | 626 | Brittney Griggs |
 | 97 | 624 | Judy Cox |
@@ -157,8 +157,8 @@
 | 149 | 418 | Lush Linkfall |
 | 150 | 417 | Steph Marie |
 | 151 | 416 | Chaz Duncan |
-| 152 | 414 | Nope Young |
-| 153 | 414 | Swanky Fitline |
+| 152 | 414 | Swanky Fitline |
+| 153 | 414 | Nope Young |
 | 154 | 413 | Circuit8 |
 | 155 | 412 | Jessica Bohlken |
 | 156 | 408 | Amanda Pauldo-Ivy |
@@ -209,8 +209,8 @@
 | 201 | 330 | blockstar |
 | 202 | 328 | scott |
 | 203 | 327 | J-Rizzle |
-| 204 | 324 | jim |
-| 205 | 324 | TinyLegoRose |
+| 204 | 324 | TinyLegoRose |
+| 205 | 324 | jim |
 | 206 | 321 | Meagan Nicole |
 | 207 | 320 | Lauren Scott |
 | 208 | 319 | Googenheim |
@@ -313,9 +313,9 @@
 | 305 | 228 | Bethany Ison |
 | 306 | 227 | Jason Bosco |
 | 307 | 226 | Dizzy Matchzone |
-| 308 | 225 | Jenna McGeorge |
+| 308 | 225 | Kathy Allen |
 | 309 | 225 | Hyper Builder |
-| 310 | 225 | Kathy Allen |
+| 310 | 225 | Jenna McGeorge |
 | 311 | 225 | Ernest Maxwell |
 | 312 | 224 | Ultramarine |
 | 313 | 224 | AyeKay |
@@ -349,8 +349,8 @@
 | 341 | 208 | Shukee Lo |
 | 342 | 208 | Heather Bruce |
 | 343 | 207 | Squeezy Pearsall |
-| 344 | 206 | June Hoffman |
-| 345 | 206 | Maureen Flanigan |
+| 344 | 206 | Maureen Flanigan |
+| 345 | 206 | June Hoffman |
 | 346 | 205 | KayM |
 | 347 | 204 | Ruby Khalisadar |
 | 348 | 204 | Russ Attitude |
@@ -728,9 +728,9 @@
 | 720 | 97 | Frisky Matchgrid |
 | 721 | 96 | Bubbly Twistpiece |
 | 722 | 96 | Cozy Framezone |
-| 723 | 96 | RobinC |
-| 724 | 96 | KanVus |
-| 725 | 96 | Krs |
+| 723 | 96 | Krs |
+| 724 | 96 | RobinC |
+| 725 | 96 | KanVus |
 | 726 | 96 | Christy |
 | 727 | 95 | RedBoots82 |
 | 728 | 95 | Harper |

@@ -76,8 +76,8 @@
 | 68 | 1264 | Amanda L Baker |
 | 69 | 1258 | Danielle Cutler |
 | 70 | 1256 | Jessica Bechler |
-| 71 | 1213 | Snappy Glidepiece |
-| 72 | 1213 | Nerdy Riseclear |
+| 71 | 1213 | Nerdy Riseclear |
+| 72 | 1213 | Snappy Glidepiece |
 | 73 | 1201 | Amanda Adkins |
 | 74 | 1186 | Christian A. Pollard |
 | 75 | 1162 | Gracie |
@@ -187,25 +187,25 @@
 | 179 | 572 | CeceGeGe |
 | 180 | 568 | Rachael McClain Owens |
 | 181 | 566 | LaTanya GeminiondaRise Johnson |
-| 182 | 564 | Poppy Splitter |
-| 183 | 564 | Christine Trester |
+| 182 | 564 | Christine Trester |
+| 183 | 564 | Poppy Splitter |
 | 184 | 563 | Jim Mathews |
 | 185 | 562 | Dave Herzog |
 | 186 | 559 | Patti Skiles |
 | 187 | 556 | Elissa S-k |
 | 188 | 548 | Danielle Balcom |
-| 189 | 546 | Cynthia Castros-Hampton |
-| 190 | 546 | Mykal Burton |
-| 191 | 546 | Tasha Schriewer |
+| 189 | 546 | Mykal Burton |
+| 190 | 546 | Tasha Schriewer |
+| 191 | 546 | Cynthia Castros-Hampton |
 | 192 | 540 | Shawn Miller |
-| 193 | 531 | Sarah Cowan Burgos |
-| 194 | 531 | Chauntee Alfrey-Cardinale |
+| 193 | 531 | Chauntee Alfrey-Cardinale |
+| 194 | 531 | Sarah Cowan Burgos |
 | 195 | 528 | Silly Twist |
 | 196 | 525 | Stephanie Blkpep Davidson |
 | 197 | 524 | Bmo |
 | 198 | 521 | Shannon Matthew Byers |
-| 199 | 519 | Terry Jo Jones |
-| 200 | 519 | rnr junky |
+| 199 | 519 | rnr junky |
+| 200 | 519 | Terry Jo Jones |
 | 201 | 515 | Cozy Snaplink |
 | 202 | 513 | Lizabeth Fox |
 | 203 | 510 | Makelini Mausia |
@@ -218,8 +218,8 @@
 | 210 | 485 | Dapper Snap |
 | 211 | 484 | Fallorina Susana |
 | 212 | 481 | Connie Mohler-Fair |
-| 213 | 480 | Danielle Allison |
-| 214 | 480 | Michael Johnson |
+| 213 | 480 | Michael Johnson |
+| 214 | 480 | Danielle Allison |
 | 215 | 477 | Edwin Calvillo Jr. |
 | 216 | 475 | Tessina Dewey-Mancino |
 | 217 | 471 | Mendoza Lee Christy |
@@ -341,8 +341,8 @@
 | 333 | 311 | Troy |
 | 334 | 309 | Desiree Gold |
 | 335 | 309 | Cheeky Snapper |
-| 336 | 308 | Katrina Turner |
-| 337 | 308 | Tia |
+| 336 | 308 | Tia |
+| 337 | 308 | Katrina Turner |
 | 338 | 305 | Hyper Matchzone |
 | 339 | 304 | _melisa223_ |
 | 340 | 303 | Alexmac |
@@ -532,8 +532,8 @@
 | 524 | 209 | Jonathn Poindexter |
 | 525 | 208 | Jessica Christian |
 | 526 | 208 | Luccy Luxe |
-| 527 | 207 | Nichol Graham |
-| 528 | 207 | Misstery |
+| 527 | 207 | Misstery |
+| 528 | 207 | Nichol Graham |
 | 529 | 206 | Tammy Rosenberry |
 | 530 | 206 | Dakota Graham |
 | 531 | 205 | Jess Meyers |
@@ -569,9 +569,9 @@
 | 561 | 196 | Joshua David Huie |
 | 562 | 196 | Weerae |
 | 563 | 196 | Eboni Starr |
-| 564 | 195 | toony |
-| 565 | 195 | Nicha Hooker |
-| 566 | 195 | Carrie Resler |
+| 564 | 195 | Carrie Resler |
+| 565 | 195 | toony |
+| 566 | 195 | Nicha Hooker |
 | 567 | 194 | Shicken Nuggit |
 | 568 | 194 | Julia Nicole |
 | 569 | 193 | Stephanie Zahm |
@@ -794,7 +794,7 @@
 | 786 | 144 | Cheeky Blockline |
 | 787 | 144 | Crystal Frey |
 | 788 | 144 | Clever Edgepiece |
-| 789 | 144 | Crystal Frey |
+| 789 | 144 | Amber Reeves-Buchanan |
 | 790 | 143 | Russell Hankinson |
 | 791 | 143 | Melissa Ponder |
 | 792 | 143 | Bananna Anna |
