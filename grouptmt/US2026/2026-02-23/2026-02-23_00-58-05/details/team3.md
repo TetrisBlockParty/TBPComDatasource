@@ -171,8 +171,8 @@
 | 163 | 528 | Cass Mendoza |
 | 164 | 516 | Danielle Balcom |
 | 165 | 512 | Silly Twist |
-| 166 | 506 | Stephanie Blkpep Davidson |
-| 167 | 506 | Sashay Tapae Simpson |
+| 166 | 506 | Sashay Tapae Simpson |
+| 167 | 506 | Stephanie Blkpep Davidson |
 | 168 | 504 | Jennifer Lynn Fahrenholtz-Summers |
 | 169 | 502 | Snappy Balancer |
 | 170 | 501 | Patti Skiles |
@@ -224,11 +224,11 @@
 | 216 | 404 | Chasity |
 | 217 | 403 | Scott Lindsay |
 | 218 | 400 | Denita Mungro |
-| 219 | 390 | Trisha Balmer |
-| 220 | 390 | rosy |
+| 219 | 390 | rosy |
+| 220 | 390 | Trisha Balmer |
 | 221 | 384 | Marci Mize Fandrich |
-| 222 | 383 | Nicole Flippo |
-| 223 | 383 | Darlene McMillan |
+| 222 | 383 | Darlene McMillan |
+| 223 | 383 | Nicole Flippo |
 | 224 | 383 | Heather Green |
 | 225 | 382 | Scott Carleton |
 | 226 | 382 | Giddy Twistbuilder |
@@ -270,8 +270,8 @@
 | 262 | 339 | Cynthia Herrmann Egland |
 | 263 | 338 | Gumbo |
 | 264 | 332 | Velma Mull |
-| 265 | 330 | victory |
-| 266 | 330 | Brittany |
+| 265 | 330 | Brittany |
+| 266 | 330 | victory |
 | 267 | 329 | Tye Stovall |
 | 268 | 329 | block chick |
 | 269 | 327 | Gideon Walker |

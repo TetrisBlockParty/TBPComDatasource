@@ -111,8 +111,8 @@
 | 103 | 513 | YoMomma |
 | 104 | 513 | Erin Thomas |
 | 105 | 512 | Casey Jeffcoat |
-| 106 | 510 | Trista Leah |
-| 107 | 510 | Scott Jameson |
+| 106 | 510 | Scott Jameson |
+| 107 | 510 | Trista Leah |
 | 108 | 500 | shar |
 | 109 | 499 | Christina LR |
 | 110 | 488 | Serena Goodridge |
@@ -164,8 +164,8 @@
 | 156 | 353 | Tyler Terrific |
 | 157 | 349 | Rafael Valentin |
 | 158 | 348 | 🥔🥔 Spudz |
-| 159 | 347 | Girl |
-| 160 | 347 | Daria Rycewicz |
+| 159 | 347 | Daria Rycewicz |
+| 160 | 347 | Girl |
 | 161 | 342 | Klo |
 | 162 | 339 | David Lay |
 | 163 | 336 | Melissa Adams |
@@ -241,12 +241,12 @@
 | 233 | 248 | Chirpy Basepiece |
 | 234 | 247 | JPW |
 | 235 | 246 | Zethra Prenisha Rahming |
-| 236 | 245 | Autum Leigh |
-| 237 | 245 | Adam Stephanie Parker |
-| 238 | 245 | 23 |
+| 236 | 245 | Adam Stephanie Parker |
+| 237 | 245 | 23 |
+| 238 | 245 | Autum Leigh |
 | 239 | 241 | Allen Lloyd |
-| 240 | 240 | Perky Patternblock |
-| 241 | 240 | Kim Hunt |
+| 240 | 240 | Kim Hunt |
+| 241 | 240 | Perky Patternblock |
 | 242 | 238 | Chaz |
 | 243 | 237 | Christine Therrien |
 | 244 | 237 | 030Synner |
