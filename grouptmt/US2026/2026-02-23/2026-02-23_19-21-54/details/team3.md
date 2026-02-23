@@ -103,8 +103,8 @@
 | 95 | 1102 | Michelle Becker |
 | 96 | 1101 | Stephanie Rice |
 | 97 | 1094 | JerseyJess |
-| 98 | 1056 | joclisa |
-| 99 | 1056 | Ebony West-Cundiff |
+| 98 | 1056 | Ebony West-Cundiff |
+| 99 | 1056 | joclisa |
 | 100 | 1050 | Sherika C. McDaniels |
 | 101 | 1044 | Leah Barnett |
 | 102 | 1038 | Mandy Smith Oldham |
@@ -230,8 +230,8 @@
 | 222 | 549 | Sarah Cowan Burgos |
 | 223 | 548 | Danielle Balcom |
 | 224 | 547 | Staci George Fitzsimmons |
-| 225 | 546 | Cynthia Castros-Hampton |
-| 226 | 546 | Mykal Burton |
+| 225 | 546 | Mykal Burton |
+| 226 | 546 | Cynthia Castros-Hampton |
 | 227 | 541 | Fran Lin |
 | 228 | 539 | Betty Bóò |
 | 229 | 537 | Aerian Preston |
@@ -403,8 +403,8 @@
 | 395 | 328 | Desiree Soto |
 | 396 | 327 | Tiffanie Alley |
 | 397 | 327 | Jimmie Clemons |
-| 398 | 326 | Nelma |
-| 399 | 326 | Norma JulieMay |
+| 398 | 326 | Norma JulieMay |
+| 399 | 326 | Nelma |
 | 400 | 326 | Kerry Nowickshere |
 | 401 | 324 | Sissy Lowery Davis |
 | 402 | 323 | Wettnippz |
