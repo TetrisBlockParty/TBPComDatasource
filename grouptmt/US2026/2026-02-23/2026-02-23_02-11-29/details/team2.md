@@ -137,8 +137,8 @@
 | 129 | 1639 | Karen Martini-Stapleton |
 | 130 | 1632 | Qiana Sanders |
 | 131 | 1631 | Speedy Spinblock |
-| 132 | 1623 | Mr. Street Stack |
-| 133 | 1623 | Rebecca Doughman |
+| 132 | 1623 | Rebecca Doughman |
+| 133 | 1623 | Mr. Street Stack |
 | 134 | 1622 | Mari Ac |
 | 135 | 1614 | Janel Turley-Garner |
 | 136 | 1601 | Ray Ray Prado |
@@ -196,8 +196,8 @@
 | 188 | 1294 | Ashley House |
 | 189 | 1292 | Mischelle Clay |
 | 190 | 1286 | Altamirano Michael |
-| 191 | 1282 | Tanya Parsons |
-| 192 | 1282 | Ashley Rose Frederick |
+| 191 | 1282 | Ashley Rose Frederick |
+| 192 | 1282 | Tanya Parsons |
 | 193 | 1258 | Joyce Johnson Vaughn |
 | 194 | 1257 | Michele Gabriel |
 | 195 | 1252 | Angel |

@@ -55,8 +55,8 @@
 | 47 | 860 | Jae Job |
 | 48 | 855 | Marvin Lou Martin |
 | 49 | 853 | TeeJ |
-| 50 | 846 | Lucille Truesdale |
-| 51 | 846 | Christine Marie |
+| 50 | 846 | Christine Marie |
+| 51 | 846 | Lucille Truesdale |
 | 52 | 845 | LisaJo Picken Buchanan |
 | 53 | 843 | Shelly Chandler |
 | 54 | 841 | Anthony Bryan Riva |
@@ -75,8 +75,8 @@
 | 67 | 749 | Dustee Craddock-Harrison |
 | 68 | 748 | loulou |
 | 69 | 739 | Avy Absol |
-| 70 | 736 | Carolyn Wallace |
-| 71 | 736 | Goatimus Lombardi |
+| 70 | 736 | Goatimus Lombardi |
+| 71 | 736 | Carolyn Wallace |
 | 72 | 725 | Denise Carlson |
 | 73 | 704 | D3TROITB0RN74 |
 | 74 | 704 | Crystal Carroll |

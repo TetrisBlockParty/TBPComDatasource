@@ -120,8 +120,8 @@
 | 112 | 443 | Steve Schneider |
 | 113 | 442 | Veronica Eve |
 | 114 | 440 | Stephanie Zahn |
-| 115 | 439 | Trina Gee |
-| 116 | 439 | Dee Perry |
+| 115 | 439 | Dee Perry |
+| 116 | 439 | Trina Gee |
 | 117 | 436 | Tonya Beasley |
 | 118 | 432 | SkipTheSadSauce |
 | 119 | 427 | Ly Phethmany |
@@ -147,8 +147,8 @@
 | 139 | 371 | Jason Savage |
 | 140 | 368 | Death |
 | 141 | 367 | Sharon Reynolds |
-| 142 | 364 | Serina Marie |
-| 143 | 364 | Shauna Loe |
+| 142 | 364 | Shauna Loe |
+| 143 | 364 | Serina Marie |
 | 144 | 364 | Monica Donato |
 | 145 | 361 | Tanya Carpenter-Reynolds |
 | 146 | 361 | Amanda Johnson Huffman |
@@ -239,8 +239,8 @@
 | 231 | 256 | Snappy Matcher |
 | 232 | 255 | Giggly Builderline |
 | 233 | 254 | Al Smith Jr |
-| 234 | 253 | Lacy Wolfe |
-| 235 | 253 | Jamie Jury |
+| 234 | 253 | Jamie Jury |
+| 235 | 253 | Lacy Wolfe |
 | 236 | 252 | Dena Kayy |
 | 237 | 251 | MRdot Rooski |
 | 238 | 247 | Brenda Alexander |

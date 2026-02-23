@@ -61,8 +61,8 @@
 | 53 | 1276 | Aaron Pitkin |
 | 54 | 1269 | Amber Jones |
 | 55 | 1258 | Jennifer Petrie |
-| 56 | 1256 | Jessica Bechler |
-| 57 | 1256 | Mahman |
+| 56 | 1256 | Mahman |
+| 57 | 1256 | Jessica Bechler |
 | 58 | 1191 | Nate Burnside |
 | 59 | 1167 | Elaine Webb Graves |
 | 60 | 1141 | Queen Kam |
@@ -152,13 +152,13 @@
 | 144 | 590 | Santeria Trece Candles |
 | 145 | 589 | Logan Naccarato |
 | 146 | 588 | Justin Ritter |
-| 147 | 585 | Annie Marie |
-| 148 | 585 | Happy Tetriblast |
+| 147 | 585 | Happy Tetriblast |
+| 148 | 585 | Annie Marie |
 | 149 | 582 | Natasha Jones |
 | 150 | 579 | Tasha Gillespie |
 | 151 | 574 | Morgan Martinez |
-| 152 | 572 | CeceGeGe |
-| 153 | 572 | Domo Washington |
+| 152 | 572 | Domo Washington |
+| 153 | 572 | CeceGeGe |
 | 154 | 571 | Nicole Myers |
 | 155 | 568 | Rachael McClain Owens |
 | 156 | 562 | Dave Herzog |
@@ -212,8 +212,8 @@
 | 204 | 432 | Christine Trester |
 | 205 | 432 | Jenny Hrndz |
 | 206 | 431 | Wendy Dearden |
-| 207 | 430 | Jeni Dow |
-| 208 | 430 | Joye Sims Binion |
+| 207 | 430 | Joye Sims Binion |
+| 208 | 430 | Jeni Dow |
 | 209 | 429 | Sherry Ogden |
 | 210 | 426 | Rochelle Hazelett |
 | 211 | 423 | Loopy Clusterer |
@@ -254,10 +254,10 @@
 | 246 | 362 | Brandon Givens |
 | 247 | 361 | Shawn Miller |
 | 248 | 360 | Sheila M Frazier |
-| 249 | 357 | Stephanie Burtin |
-| 250 | 357 | Ammmmmmy |
-| 251 | 352 | Samantha Lynn |
-| 252 | 352 | Christian Werndl |
+| 249 | 357 | Ammmmmmy |
+| 250 | 357 | Stephanie Burtin |
+| 251 | 352 | Christian Werndl |
+| 252 | 352 | Samantha Lynn |
 | 253 | 351 | Eon Harris |
 | 254 | 349 | Amanda J. Mcneil-Anderson |
 | 255 | 347 | Philip Rock |
@@ -274,8 +274,8 @@
 | 266 | 339 | Cynthia Herrmann Egland |
 | 267 | 338 | Gumbo |
 | 268 | 336 | Jojo M |
-| 269 | 332 | Brittany |
-| 270 | 332 | Velma Mull |
+| 269 | 332 | Velma Mull |
+| 270 | 332 | Brittany |
 | 271 | 330 | victory |
 | 272 | 329 | Tye Stovall |
 | 273 | 329 | block chick |
@@ -364,8 +364,8 @@
 | 356 | 256 | KayB |
 | 357 | 255 | Sharisse Baltimore |
 | 358 | 254 | Desiree Gold |
-| 359 | 253 | Hyper Bridger |
-| 360 | 253 | Alice |
+| 359 | 253 | Alice |
+| 360 | 253 | Hyper Bridger |
 | 361 | 252 | Blair Erin Waite |
 | 362 | 252 | DeAnna Michelle Schlebach |
 | 363 | 251 | Dana Winters |
