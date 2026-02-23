@@ -173,8 +173,8 @@
 | 165 | 1804 | Chirpy Staggerpiece |
 | 166 | 1790 | Kara Gillen |
 | 167 | 1778 | bonsai |
-| 168 | 1771 | Eboni Banks |
-| 169 | 1771 | Heather Westrum |
+| 168 | 1771 | Heather Westrum |
+| 169 | 1771 | Eboni Banks |
 | 170 | 1767 | niecy |
 | 171 | 1763 | Juliana Marques Do Nascimento Gordy |
 | 172 | 1759 | Nerdy Pattern |
@@ -288,8 +288,8 @@
 | 280 | 1260 | Roman Lavochnik |
 | 281 | 1259 | Foxxo |
 | 282 | 1258 | Dimitra Zazara |
-| 283 | 1257 | Megan Garrick |
-| 284 | 1257 | Megan Ferguson Leone |
+| 283 | 1257 | Megan Ferguson Leone |
+| 284 | 1257 | Megan Garrick |
 | 285 | 1247 | Ericka Marie Smith |
 | 286 | 1241 | Jennifer Casey-Kay |
 | 287 | 1238 | Groovy Puzzle |
@@ -350,8 +350,8 @@
 | 342 | 1079 | Jennifer Kistner |
 | 343 | 1073 | Jodi Blake |
 | 344 | 1072 | BK Queen |
-| 345 | 1071 | Nashu |
-| 346 | 1071 | Kim Dean |
+| 345 | 1071 | Kim Dean |
+| 346 | 1071 | Nashu |
 | 347 | 1071 | Barbra Miller |
 | 348 | 1069 | Aireka Roman |
 | 349 | 1067 | Caitlin Schmid |
@@ -451,8 +451,8 @@
 | 443 | 895 | Lisa Ongtowasruk |
 | 444 | 894 | Adira Brown |
 | 445 | 890 | Alex Stone LaRue |
-| 446 | 888 | Leslie Ann Carter |
-| 447 | 888 | Elisheva Mizrachi |
+| 446 | 888 | Elisheva Mizrachi |
+| 447 | 888 | Leslie Ann Carter |
 | 448 | 883 | Hong Tang |
 | 449 | 882 | Samantha Scibelli |
 | 450 | 882 | Stephanie Sul |
@@ -521,8 +521,8 @@
 | 513 | 797 | Alex Dungo Hoang |
 | 514 | 797 | Mighty Spinbuilder |
 | 515 | 796 | AndrewandShela Gornik |
-| 516 | 793 | Eunique Griffin |
-| 517 | 793 | Alexandra Weir |
+| 516 | 793 | Alexandra Weir |
+| 517 | 793 | Eunique Griffin |
 | 518 | 793 | Heather Schelkopf |
 | 519 | 790 | Dawn L Washington-Feuquay |
 | 520 | 790 | Mama T |
@@ -533,8 +533,8 @@
 | 525 | 785 | Miranda Morris |
 | 526 | 781 | Sarah Berger |
 | 527 | 779 | Trinity Oak |
-| 528 | 778 | tejas25 |
-| 529 | 778 | Breezy Filler |
+| 528 | 778 | Breezy Filler |
+| 529 | 778 | tejas25 |
 | 530 | 777 | Tesha Oldaker |
 | 531 | 776 | Fancy Twister |
 | 532 | 774 | Cherrica Newman |

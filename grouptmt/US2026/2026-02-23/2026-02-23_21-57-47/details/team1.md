@@ -187,8 +187,8 @@
 | 179 | 432 | Lori Bales |
 | 180 | 430 | MIKOZ |
 | 181 | 426 | Maria C. Hernandez |
-| 182 | 425 | Tyler Werts |
-| 183 | 425 | Tana |
+| 182 | 425 | Tana |
+| 183 | 425 | Tyler Werts |
 | 184 | 424 | Emily Adelaide Wheatley |
 | 185 | 423 | Elaine Elaine |
 | 186 | 423 | Kimberly Garcia |
@@ -344,8 +344,8 @@
 | 336 | 284 | Mark Smith |
 | 337 | 283 | Franswa |
 | 338 | 282 | Timothy Dew |
-| 339 | 281 | Richard Corrado |
-| 340 | 281 | Barrbaric |
+| 339 | 281 | Barrbaric |
+| 340 | 281 | Richard Corrado |
 | 341 | 280 | Test |
 | 342 | 280 | Billie Dawn Sparks |
 | 343 | 279 | Chris Dawson |

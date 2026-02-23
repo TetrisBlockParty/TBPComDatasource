@@ -60,8 +60,8 @@
 | 52 | 1155 | Jae Job |
 | 53 | 1150 | Kimyatta Cavin |
 | 54 | 1105 | Ashley Ingram |
-| 55 | 1082 | Avy Absol |
-| 56 | 1082 | Dion Crommarty |
+| 55 | 1082 | Dion Crommarty |
+| 56 | 1082 | Avy Absol |
 | 57 | 1065 | Dustee Craddock-Harrison |
 | 58 | 1049 | Heather Tushner |
 | 59 | 1046 | Johnathan Martinez |
@@ -262,8 +262,8 @@
 | 254 | 363 | TRCuse |
 | 255 | 363 | KimoKoala |
 | 256 | 361 | Danielle Kollias |
-| 257 | 360 | James Hurley Jr. |
-| 258 | 360 | Ari Droff |
+| 257 | 360 | Ari Droff |
+| 258 | 360 | James Hurley Jr. |
 | 259 | 358 | Twisty Cascadezone |
 | 260 | 356 | mike |
 | 261 | 356 | Joeliecea Cobb |
@@ -316,7 +316,7 @@
 | 308 | 295 | Cool Gridzone |
 | 309 | 294 | BootsMcGee |
 | 310 | 293 | BigSammy420 |
-| 311 | 292 | Angel Raya |
+| 311 | 292 | Tracey Lehmann |
 | 312 | 292 | Epic Curvetile |
 | 313 | 292 | Aden Moss |
 | 314 | 292 | Angel Raya |
@@ -430,8 +430,8 @@
 | 422 | 228 | Jessica Petersen |
 | 423 | 228 | Bethany Ison |
 | 424 | 227 | Martha Lucinda Bishop |
-| 425 | 227 | Asher |
-| 426 | 227 | Maria Hammie |
+| 425 | 227 | Maria Hammie |
+| 426 | 227 | Asher |
 | 427 | 225 | Jennifer Renee |
 | 428 | 224 | Ultramarine |
 | 429 | 224 | Vanessa Smart |
@@ -610,7 +610,7 @@
 | 602 | 156 | Nicole McMurray |
 | 603 | 155 | Stormy Tomplait |
 | 604 | 155 | Faja |
-| 605 | 154 | Robert Rodriguez |
+| 605 | 154 | Ashley Danielle |
 | 606 | 154 | Holly Tracey-Grimes |
 | 607 | 154 | Robert Rodriguez |
 | 608 | 153 | Penny Dean |

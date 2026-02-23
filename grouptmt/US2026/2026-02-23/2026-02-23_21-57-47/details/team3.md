@@ -283,8 +283,8 @@
 | 275 | 479 | Stephanie Bradley |
 | 276 | 477 | Hyper Matchzone |
 | 277 | 476 | Shunta Jacobs |
-| 278 | 475 | Tasha Wesson-Torrence |
-| 279 | 475 | Rebecca Bailey |
+| 278 | 475 | Rebecca Bailey |
+| 279 | 475 | Tasha Wesson-Torrence |
 | 280 | 474 | Tiffanie Alley |
 | 281 | 473 | Rebecca Funderburk Kirby |
 | 282 | 471 | Mendoza Lee Christy |
@@ -393,8 +393,8 @@
 | 385 | 349 | Donna |
 | 386 | 348 | Ashley Raines |
 | 387 | 346 | AlsoJess |
-| 388 | 345 | Misha Sanders |
-| 389 | 345 | victory |
+| 388 | 345 | victory |
+| 389 | 345 | Misha Sanders |
 | 390 | 344 | Beaudie Stroebel |
 | 391 | 343 | Nikki White |
 | 392 | 342 | Cynthia Herrmann Egland |
@@ -1052,8 +1052,8 @@
 | 1044 | 145 | Loony Snapbuild |
 | 1045 | 145 | Ruben Gonzalez |
 | 1046 | 145 | Rank Stranger |
-| 1047 | 144 | Hyper Wipeout |
-| 1048 | 144 | Amy Vallieres |
+| 1047 | 144 | Amy Vallieres |
+| 1048 | 144 | Hyper Wipeout |
 | 1049 | 144 | Jennifer Palermo |
 | 1050 | 144 | Susan A Kinsey |
 | 1051 | 143 | Tipsy Dashgrid |
