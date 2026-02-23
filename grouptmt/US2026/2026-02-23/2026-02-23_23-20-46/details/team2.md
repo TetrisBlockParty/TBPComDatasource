@@ -166,12 +166,12 @@
 | 158 | 1949 | Angi Harrison |
 | 159 | 1932 | Gary Schaffner Jr. |
 | 160 | 1904 | Goofy Snapfit |
-| 161 | 1874 | Loopy Clusterbuilder |
-| 162 | 1874 | PsychKIRAtrist |
+| 161 | 1874 | PsychKIRAtrist |
+| 162 | 1874 | Loopy Clusterbuilder |
 | 163 | 1866 | Janel Turley-Garner |
 | 164 | 1845 | Jessie McDougald |
-| 165 | 1840 | blarg |
-| 166 | 1840 | Kristopher Miller |
+| 165 | 1840 | Kristopher Miller |
+| 166 | 1840 | blarg |
 | 167 | 1835 | Alisa Lamb |
 | 168 | 1829 | Mr. Street Stack |
 | 169 | 1828 | Laura Wyatt |
@@ -243,8 +243,8 @@
 | 235 | 1466 | Julay |
 | 236 | 1463 | Yvonne Wharton |
 | 237 | 1452 | Cody Smith-Candelaria |
-| 238 | 1451 | Catina Hutchison |
-| 239 | 1451 | Anna Edwards |
+| 238 | 1451 | Anna Edwards |
+| 239 | 1451 | Catina Hutchison |
 | 240 | 1450 | Shiny Rollzone |
 | 241 | 1443 | Teddi Notyalc |
 | 242 | 1418 | L3sli3 |
@@ -360,8 +360,8 @@
 | 352 | 1079 | Jennifer Kistner |
 | 353 | 1073 | Jodi Blake |
 | 354 | 1072 | BK Queen |
-| 355 | 1071 | Kim Dean |
-| 356 | 1071 | Nashu |
+| 355 | 1071 | Nashu |
+| 356 | 1071 | Kim Dean |
 | 357 | 1071 | Barbra Miller |
 | 358 | 1067 | Taylor Phillips |
 | 359 | 1067 | Caitlin Schmid |

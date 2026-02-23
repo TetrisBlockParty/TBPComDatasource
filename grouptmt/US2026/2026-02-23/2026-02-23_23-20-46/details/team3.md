@@ -290,8 +290,8 @@
 | 282 | 479 | Stephanie Bradley |
 | 283 | 479 | Hyper Matchzone |
 | 284 | 476 | Shunta Jacobs |
-| 285 | 475 | Rebecca Bailey |
-| 286 | 475 | Tasha Wesson-Torrence |
+| 285 | 475 | Tasha Wesson-Torrence |
+| 286 | 475 | Rebecca Bailey |
 | 287 | 474 | Tiffanie Alley |
 | 288 | 471 | Alexmac |
 | 289 | 471 | Mendoza Lee Christy |
@@ -553,7 +553,7 @@
 | 545 | 275 | Zesty Rotater |
 | 546 | 275 | Scott Doss |
 | 547 | 273 | Michael Latasha Gray |
-| 548 | 273 | BigE |
+| 548 | 273 | Jason |
 | 549 | 273 | Kevin Fountain |
 | 550 | 273 | BigE |
 | 551 | 272 | Megan Riggins |
@@ -601,7 +601,7 @@
 | 593 | 258 | Paul Daniel Quertermous |
 | 594 | 257 | Jana Polk |
 | 595 | 257 | Shiny Snapfit |
-| 596 | 257 | Jana Polk |
+| 596 | 257 | Chris Wallace |
 | 597 | 256 | Christina Rotz Shows |
 | 598 | 255 | Mariah Williams |
 | 599 | 255 | Lindsey Feuerabend |
@@ -686,7 +686,7 @@
 | 678 | 230 | lydynred |
 | 679 | 229 | Slick Sally |
 | 680 | 229 | MizzMonick Smith |
-| 681 | 229 | Flashy Rumbler |
+| 681 | 229 | Silly Curvetile |
 | 682 | 229 | Everret Maxine |
 | 683 | 229 | Flashy Rumbler |
 | 684 | 228 | Tyler Shoff |
