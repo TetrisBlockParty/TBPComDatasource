@@ -381,8 +381,8 @@
 | 373 | 737 | Jeremy Parodi |
 | 374 | 737 | Ginger |
 | 375 | 734 | Deborah Miller |
-| 376 | 728 | Dylan Thomason |
-| 377 | 728 | Allan Wayne Lamia |
+| 376 | 728 | Allan Wayne Lamia |
+| 377 | 728 | Dylan Thomason |
 | 378 | 728 | Charvi' Carter |
 | 379 | 728 | Tom Riefer |
 | 380 | 725 | Vonceial Boone |
@@ -454,8 +454,8 @@
 | 446 | 628 | g |
 | 447 | 626 | Demeka Dangerous-kisses Johnson |
 | 448 | 623 | Kimberly Hope Howell |
-| 449 | 620 | Traci Johnson |
-| 450 | 620 | Brandon Armstrong |
+| 449 | 620 | Brandon Armstrong |
+| 450 | 620 | Traci Johnson |
 | 451 | 618 | Vanessa Moreno |
 | 452 | 618 | Caitlyn Blackwell |
 | 453 | 617 | Darcy Mae |
@@ -466,8 +466,8 @@
 | 458 | 613 | Ann Matzkanin |
 | 459 | 612 | Slinky Racker |
 | 460 | 611 | Biggest thing |
-| 461 | 607 | Véronique Lévesque Sabourin |
-| 462 | 607 | Michelle Lee |
+| 461 | 607 | Michelle Lee |
+| 462 | 607 | Véronique Lévesque Sabourin |
 | 463 | 605 | Santana Miyagi |
 | 464 | 603 | Casper The Chonk |
 | 465 | 602 | Shaun Church |

@@ -26,8 +26,8 @@
 | 18 | 1408 | Mara Hilker |
 | 19 | 1234 | Jennifer Cates |
 | 20 | 1215 | LaQuetta Faith Hines |
-| 21 | 1191 | Nerdy Linkblock |
-| 22 | 1191 | Roger Aschbrenner |
+| 21 | 1191 | Roger Aschbrenner |
+| 22 | 1191 | Nerdy Linkblock |
 | 23 | 1177 | Carolyn Smith |
 | 24 | 1145 | Tyler Alcock |
 | 25 | 1136 | Rahna Underwood |
@@ -61,8 +61,8 @@
 | 53 | 770 | Zappy Curvetile |
 | 54 | 767 | Kristen Roles Robben |
 | 55 | 752 | Jacqueline Williams |
-| 56 | 746 | Stef Hu |
-| 57 | 746 | TSwag |
+| 56 | 746 | TSwag |
+| 57 | 746 | Stef Hu |
 | 58 | 738 | Michelle Nicole |
 | 59 | 735 | Spunky Piecebuilder |
 | 60 | 720 | Zippy Align |
@@ -211,15 +211,15 @@
 | 203 | 270 | Mandyy Rae |
 | 204 | 269 | Amanda Jarnagin |
 | 205 | 268 | Reesey Enyart |
-| 206 | 267 | Cody Gates |
-| 207 | 267 | Debbie Kane |
+| 206 | 267 | Debbie Kane |
+| 207 | 267 | Cody Gates |
 | 208 | 265 | Kandae |
 | 209 | 264 | Jen Nystrom |
 | 210 | 264 | Jenny Gingrich Fuentes |
 | 211 | 263 | Jessie Lynn |
 | 212 | 260 | Cheeky Pop |
-| 213 | 256 | Chris65 |
-| 214 | 256 | Standia Civil |
+| 213 | 256 | Standia Civil |
+| 214 | 256 | Chris65 |
 | 215 | 255 | Speedy Liney |
 | 216 | 254 | Giggly Builderline |
 | 217 | 254 | Al Smith Jr |
