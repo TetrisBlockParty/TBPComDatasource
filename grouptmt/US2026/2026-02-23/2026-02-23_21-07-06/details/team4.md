@@ -171,8 +171,8 @@
 | 163 | 501 | Ericca Eldridge |
 | 164 | 498 | Melissa Adams |
 | 165 | 496 | Cindy Looper |
-| 166 | 491 | Carrie Brian |
-| 167 | 491 | Jade Rian |
+| 166 | 491 | Jade Rian |
+| 167 | 491 | Carrie Brian |
 | 168 | 486 | Swanky Fitline |
 | 169 | 485 | Rico |
 | 170 | 482 | Adam Stephanie Parker |
@@ -506,8 +506,8 @@
 | 498 | 192 | Twisty Risebuilder |
 | 499 | 192 | Jacob Campbell |
 | 500 | 191 | Norman Klick |
-| 501 | 191 | Earnest Thompson |
-| 502 | 191 | Jobadia Steelerton |
+| 501 | 191 | Jobadia Steelerton |
+| 502 | 191 | Earnest Thompson |
 | 503 | 190 | wombat |
 | 504 | 190 | Robert Rangel |
 | 505 | 189 | Brandon Link |

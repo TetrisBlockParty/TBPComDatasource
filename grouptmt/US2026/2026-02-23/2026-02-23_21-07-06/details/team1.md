@@ -313,8 +313,8 @@
 | 305 | 301 | Brave Wrecker |
 | 306 | 300 | Giggly Builderline |
 | 307 | 299 | LD1 |
-| 308 | 298 | Kimberly Davis |
-| 309 | 298 | Sweetts |
+| 308 | 298 | Sweetts |
+| 309 | 298 | Kimberly Davis |
 | 310 | 297 | Diane Byrd |
 | 311 | 294 | Наталья Солоид |
 | 312 | 294 | Chummy Rollblock |
@@ -397,8 +397,8 @@
 | 389 | 251 | Debbie Davis |
 | 390 | 248 | Teresa |
 | 391 | 247 | Colleen Wise |
-| 392 | 246 | ken |
-| 393 | 246 | san |
+| 392 | 246 | san |
+| 393 | 246 | ken |
 | 394 | 245 | .running. |
 | 395 | 245 | LC |
 | 396 | 245 | Rico Rico |

@@ -255,8 +255,8 @@
 | 247 | 530 | Shannon Matthew Byers |
 | 248 | 529 | Terry Jo Jones |
 | 249 | 519 | Nichol Graham |
-| 250 | 516 | Cyd061769 |
-| 251 | 516 | Daring Brickzone |
+| 250 | 516 | Daring Brickzone |
+| 251 | 516 | Cyd061769 |
 | 252 | 515 | Cozy Snaplink |
 | 253 | 513 | Giggy Glidepiece |
 | 254 | 513 | Lizabeth Fox |
@@ -409,8 +409,8 @@
 | 401 | 332 | Michael Leblanc |
 | 402 | 331 | Eboni Starr |
 | 403 | 330 | Big T |
-| 404 | 328 | Krystal Gerstberger |
-| 405 | 328 | Norma JulieMay |
+| 404 | 328 | Norma JulieMay |
+| 405 | 328 | Krystal Gerstberger |
 | 406 | 328 | Cesar Mendez |
 | 407 | 328 | Desiree Soto |
 | 408 | 327 | Jimmie Clemons |
@@ -425,8 +425,8 @@
 | 417 | 323 | Spencer Nikki |
 | 418 | 323 | Wettnippz |
 | 419 | 323 | Jess Bissett |
-| 420 | 322 | Nena Somerville Kelly |
-| 421 | 322 | Beth Smith |
+| 420 | 322 | Beth Smith |
+| 421 | 322 | Nena Somerville Kelly |
 | 422 | 321 | Jl |
 | 423 | 320 | Or Reznitsky |
 | 424 | 320 | Ava Petito |
@@ -439,8 +439,8 @@
 | 431 | 318 | Funky Jumper |
 | 432 | 317 | Jack Bo |
 | 433 | 316 | Travis W |
-| 434 | 315 | Julie Fratrik |
-| 435 | 315 | Colton |
+| 434 | 315 | Colton |
+| 435 | 315 | Julie Fratrik |
 | 436 | 314 | Tipsy Zonebuilder |
 | 437 | 313 | Hoppy Buildout |
 | 438 | 312 | Eric Caccavale |
@@ -450,8 +450,8 @@
 | 442 | 310 | Trice Sodames |
 | 443 | 310 | Mindy Phelps |
 | 444 | 309 | Carol Cain Thurman |
-| 445 | 309 | Cheeky Snapper |
-| 446 | 309 | Block Baddie |
+| 445 | 309 | Block Baddie |
+| 446 | 309 | Cheeky Snapper |
 | 447 | 308 | Katrina Turner |
 | 448 | 308 | Sassy Brickmatch |
 | 449 | 308 | Bryan Byrd |

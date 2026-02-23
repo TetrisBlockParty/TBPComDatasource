@@ -158,8 +158,8 @@
 | 150 | 1960 | Aimee Campbell |
 | 151 | 1959 | Robin Kerby |
 | 152 | 1936 | Angi Harrison |
-| 153 | 1932 | Gary Schaffner Jr. |
-| 154 | 1932 | Angela Lynn |
+| 153 | 1932 | Angela Lynn |
+| 154 | 1932 | Gary Schaffner Jr. |
 | 155 | 1912 | Tonya Brooks-Johnson |
 | 156 | 1904 | Goofy Snapfit |
 | 157 | 1897 | Angel |
@@ -363,8 +363,8 @@
 | 355 | 1040 | Taylor Phillips |
 | 356 | 1038 | Sheronda Jackson |
 | 357 | 1037 | Jessica Wayne Cornwall |
-| 358 | 1036 | Amber Shoemaker |
-| 359 | 1036 | Allison Lockyer |
+| 358 | 1036 | Allison Lockyer |
+| 359 | 1036 | Amber Shoemaker |
 | 360 | 1029 | Crystal Hoffman |
 | 361 | 1026 | Joshua Mandel |
 | 362 | 1024 | Susan Perraut Jones |
@@ -495,8 +495,8 @@
 | 487 | 821 | Anthony Mignacca |
 | 488 | 820 | Laura McCarthey |
 | 489 | 819 | Sabrena Yeisley |
-| 490 | 816 | Beth |
-| 491 | 816 | James Simms III |
+| 490 | 816 | James Simms III |
+| 491 | 816 | Beth |
 | 492 | 812 | Samantha Jo |
 | 493 | 811 | Dreamy Blast |
 | 494 | 811 | Brenda Pierpoint |
@@ -555,8 +555,8 @@
 | 547 | 748 | Melissa Schulz |
 | 548 | 746 | Hoppy Brickmatch |
 | 549 | 743 | Frisky Clearpiece |
-| 550 | 742 | Ganieda |
-| 551 | 742 | Cassie Maynard |
+| 550 | 742 | Cassie Maynard |
+| 551 | 742 | Ganieda |
 | 552 | 741 | Giggy Mover |
 | 553 | 740 | Jerry Tempelmeyer |
 | 554 | 739 | Frisky Riserbuilder |
@@ -742,8 +742,8 @@
 | 734 | 590 | Maddy Petersen |
 | 735 | 589 | Thomas Hedrick |
 | 736 | 589 | Kelly Templeton |
-| 737 | 588 | Dandy Combo |
-| 738 | 588 | Mrs. New |
+| 737 | 588 | Mrs. New |
+| 738 | 588 | Dandy Combo |
 | 739 | 586 | Tra Barnum |
 | 740 | 585 | Nerdy Blockpiece |
 | 741 | 585 | Taylor Flowers |
