@@ -105,8 +105,8 @@
 | 97 | 667 | Amy Suckarieh |
 | 98 | 659 | Jamie Gustafson |
 | 99 | 650 | KJ Pool |
-| 100 | 647 | Shauna Havard |
-| 101 | 647 | KM8 |
+| 100 | 647 | KM8 |
+| 101 | 647 | Shauna Havard |
 | 102 | 637 | Lori Walker |
 | 103 | 635 | Adawna Swires |
 | 104 | 631 | H.R. Block |
@@ -411,8 +411,8 @@
 | 403 | 194 | Michelle Morris |
 | 404 | 194 | Eri Kka |
 | 405 | 193 | Jennifer Brown |
-| 406 | 192 | Twisty Risebuilder |
-| 407 | 192 | Meg |
+| 406 | 192 | Meg |
+| 407 | 192 | Twisty Risebuilder |
 | 408 | 191 | Earnest Thompson |
 | 409 | 191 | Riverdale |
 | 410 | 191 | Norman Klick |
