@@ -70,14 +70,14 @@
 | 62 | 834 | quicksand420 |
 | 63 | 807 | Amelpss |
 | 64 | 807 | Rachel Anne |
-| 65 | 788 | Julian Garcia |
-| 66 | 788 | Chilly Line |
-| 67 | 787 | Edward White |
-| 68 | 787 | loulou |
+| 65 | 788 | Chilly Line |
+| 66 | 788 | Julian Garcia |
+| 67 | 787 | loulou |
+| 68 | 787 | Edward White |
 | 69 | 767 | Shannon Ferrari |
 | 70 | 766 | Robin Watters |
-| 71 | 765 | Denise Carlson |
-| 72 | 765 | Robin Getchel |
+| 71 | 765 | Robin Getchel |
+| 72 | 765 | Denise Carlson |
 | 73 | 753 | TheNeesh50 |
 | 74 | 752 | Shane Kalamata Platoon |
 | 75 | 749 | Dustee Craddock-Harrison |
@@ -98,8 +98,8 @@
 | 90 | 659 | Jamie Gustafson |
 | 91 | 653 | Rica Mitchell |
 | 92 | 650 | KJ Pool |
-| 93 | 647 | Shauna Havard |
-| 94 | 647 | KM8 |
+| 93 | 647 | KM8 |
+| 94 | 647 | Shauna Havard |
 | 95 | 646 | Eric Mcgaughy |
 | 96 | 626 | Brittney Griggs |
 | 97 | 624 | Judy Cox |
@@ -205,12 +205,12 @@
 | 197 | 336 | JPW |
 | 198 | 332 | HastyGrabber |
 | 199 | 331 | Alan George LaRage |
-| 200 | 330 | Kathy Brookins |
-| 201 | 330 | blockstar |
+| 200 | 330 | blockstar |
+| 201 | 330 | Kathy Brookins |
 | 202 | 328 | scott |
 | 203 | 327 | J-Rizzle |
-| 204 | 324 | jim |
-| 205 | 324 | TinyLegoRose |
+| 204 | 324 | TinyLegoRose |
+| 205 | 324 | jim |
 | 206 | 321 | Meagan Nicole |
 | 207 | 320 | Lauren Scott |
 | 208 | 319 | Googenheim |
@@ -227,8 +227,8 @@
 | 219 | 307 | Michele Plunkett |
 | 220 | 306 | mike |
 | 221 | 305 | Melvin Baird |
-| 222 | 304 | Gdiguy |
-| 223 | 304 | Lindsay Ball |
+| 222 | 304 | Lindsay Ball |
+| 223 | 304 | Gdiguy |
 | 224 | 301 | Andria Lynn |
 | 225 | 300 | Dana Scott |
 | 226 | 297 | Lori |
@@ -270,8 +270,8 @@
 | 262 | 264 | ZeeZee |
 | 263 | 264 | Stella |
 | 264 | 263 | rebel4lyfe |
-| 265 | 262 | Selena Shaw |
-| 266 | 262 | BigSammy420 |
+| 265 | 262 | BigSammy420 |
+| 266 | 262 | Selena Shaw |
 | 267 | 261 | Zethra Prenisha Rahming |
 | 268 | 260 | Carter Jones |
 | 269 | 259 | Montiette Mcglown |
@@ -529,8 +529,8 @@
 | 521 | 142 | Bigeddie |
 | 522 | 141 | Red |
 | 523 | 141 | Lori Goudy |
-| 524 | 140 | Thomas Hettenhaus |
-| 525 | 140 | Smiley Tiltbuilder |
+| 524 | 140 | Smiley Tiltbuilder |
+| 525 | 140 | Thomas Hettenhaus |
 | 526 | 140 | Cheery Lift |
 | 527 | 139 | Ann G. Carrillo |
 | 528 | 139 | Angie Schmidt |
@@ -570,8 +570,8 @@
 | 562 | 128 | Lazy Glidepiece |
 | 563 | 127 | Jay You |
 | 564 | 126 | Spicy Cascadezone |
-| 565 | 126 | PAPatty |
-| 566 | 126 | Jennifer Renee |
+| 565 | 126 | Jennifer Renee |
+| 566 | 126 | PAPatty |
 | 567 | 125 | ImJustMe |
 | 568 | 125 | Kelly Adams Carnahan |
 | 569 | 125 | Christina Nabrizny |
@@ -601,7 +601,7 @@
 | 593 | 120 | Verna Neal |
 | 594 | 119 | Flashy Jumper |
 | 595 | 119 | River Shady Sr. |
-| 596 | 119 | Calen Torez |
+| 596 | 119 | Lee Silpe |
 | 597 | 119 | Kourtney Barnes |
 | 598 | 119 | Calen Torez |
 | 599 | 119 | George Tzouganos |

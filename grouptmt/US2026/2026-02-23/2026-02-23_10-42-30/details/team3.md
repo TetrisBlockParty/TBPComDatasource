@@ -380,13 +380,13 @@
 | 372 | 284 | Hanna Kim |
 | 373 | 281 | Ava Petito |
 | 374 | 280 | Aerian Preston |
-| 375 | 280 | ROODBOY |
-| 376 | 280 | Dirtgirl27 |
+| 375 | 280 | Dirtgirl27 |
+| 376 | 280 | ROODBOY |
 | 377 | 279 | Tosha Griffey |
 | 378 | 279 | Naur |
 | 379 | 278 | Rufus Lincoln |
-| 380 | 277 | Krystal Gerstberger |
-| 381 | 277 | France Vézina |
+| 380 | 277 | France Vézina |
+| 381 | 277 | Krystal Gerstberger |
 | 382 | 277 | Joe-Maggie Mathews |
 | 383 | 276 | Karent524 |
 | 384 | 276 | Crimson |
@@ -403,9 +403,9 @@
 | 395 | 272 | Todd Hall |
 | 396 | 272 | Tay |
 | 397 | 269 | Goofy Fall |
-| 398 | 269 | Jess Bissett |
+| 398 | 269 | Juliana Dottore |
 | 399 | 269 | Samantha Worley |
-| 400 | 269 | Juliana Dottore |
+| 400 | 269 | Jess Bissett |
 | 401 | 268 | Jessica Lynn French |
 | 402 | 267 | Jul |
 | 403 | 267 | April Matthew Kibble |
@@ -444,8 +444,8 @@
 | 436 | 248 | Brian Battjes |
 | 437 | 247 | Kevin Russell |
 | 438 | 247 | Jessica |
-| 439 | 245 | Latoya Mayne |
-| 440 | 245 | LaNette Morgan |
+| 439 | 245 | LaNette Morgan |
+| 440 | 245 | Latoya Mayne |
 | 441 | 244 | Beezwax |
 | 442 | 243 | Paula Little |
 | 443 | 243 | Nicholas Roddy |
@@ -717,12 +717,12 @@
 | 709 | 161 | bean |
 | 710 | 160 | Cheery Brickster |
 | 711 | 160 | Bastian Campbell |
-| 712 | 159 | Gina Marie |
-| 713 | 159 | Cameron Lovell |
-| 714 | 159 | Robin LaChe |
-| 715 | 159 | Giddy Basepiece |
-| 716 | 159 | Wetwet |
-| 717 | 159 | Angela VanOstrand |
+| 712 | 159 | Cameron Lovell |
+| 713 | 159 | Gina Marie |
+| 714 | 159 | Giddy Basepiece |
+| 715 | 159 | Robin LaChe |
+| 716 | 159 | Angela VanOstrand |
+| 717 | 159 | Wetwet |
 | 718 | 158 | Cameo Tweed |
 | 719 | 157 | Noel Hill Hoose |
 | 720 | 157 | Michelle Ramirez |
