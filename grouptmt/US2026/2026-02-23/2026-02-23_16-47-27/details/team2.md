@@ -364,8 +364,8 @@
 | 356 | 966 | Mandi Douglas Hilt |
 | 357 | 962 | Antionette Sewell |
 | 358 | 958 | Kathryn Townsley |
-| 359 | 958 | Brenda Messer |
-| 360 | 958 | Doowop40 |
+| 359 | 958 | Doowop40 |
+| 360 | 958 | Brenda Messer |
 | 361 | 957 | Block Master |
 | 362 | 954 | Melissa McCall |
 | 363 | 951 | Cynthia Ward |
@@ -383,8 +383,8 @@
 | 375 | 919 | Isaac Trappiel IV |
 | 376 | 916 | Butta |
 | 377 | 915 | Kelly Trent |
-| 378 | 914 | Shuany Arias |
-| 379 | 914 | William Hunt |
+| 378 | 914 | William Hunt |
+| 379 | 914 | Shuany Arias |
 | 380 | 913 | blume |
 | 381 | 909 | Valerie Brooke Lusk Armstrong |
 | 382 | 907 | Gene Mills |
@@ -759,8 +759,8 @@
 | 751 | 532 | Snappy Faller |
 | 752 | 531 | Beth Decker |
 | 753 | 530 | Tara Lynn Janes |
-| 754 | 530 | Samuel Labruno |
-| 755 | 530 | Nerdy Blockpiece |
+| 754 | 530 | Nerdy Blockpiece |
+| 755 | 530 | Samuel Labruno |
 | 756 | 529 | Marget Kay |
 | 757 | 528 | Megan Brianna |
 | 758 | 528 | CupCake |

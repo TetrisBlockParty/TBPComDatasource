@@ -124,8 +124,8 @@
 | 116 | 896 | Jesse Olive |
 | 117 | 878 | Shane Wilson Jr. |
 | 118 | 874 | Jessica Pineda-Lopez |
-| 119 | 868 | Felicia Rocha |
-| 120 | 868 | Sarajane Lokan |
+| 119 | 868 | Sarajane Lokan |
+| 120 | 868 | Felicia Rocha |
 | 121 | 864 | Sunny Rotater |
 | 122 | 848 | Patricia Gadsden |
 | 123 | 846 | Kristie |
@@ -134,7 +134,7 @@
 | 126 | 836 | Logan Naccarato |
 | 127 | 820 | Brenda Lee Vander Molen |
 | 128 | 812 | Katrina Schroeder |
-| 129 | 811 | Dolores Falco |
+| 129 | 809 | Dolores Falco |
 | 130 | 802 | Bobbi Moore |
 | 131 | 800 | Lauren Girouard |
 | 132 | 783 | Julian Murphy |
@@ -285,10 +285,10 @@
 | 277 | 421 | Snazzy Filler |
 | 278 | 421 | Chummy Caster |
 | 279 | 420 | Quackers |
-| 280 | 420 | Sarah Moyer |
-| 281 | 420 | Sabrina Hardrick |
-| 282 | 417 | Jennifer Alvey |
-| 283 | 417 | Giddy Twistbuilder |
+| 280 | 420 | Sabrina Hardrick |
+| 281 | 420 | Sarah Moyer |
+| 282 | 417 | Giddy Twistbuilder |
+| 283 | 417 | Jennifer Alvey |
 | 284 | 414 | RickyG |
 | 285 | 412 | Jojo M |
 | 286 | 411 | Megan Rathmanner |

@@ -86,8 +86,8 @@
 | 78 | 750 | Cartier |
 | 79 | 742 | Susanna Guerry |
 | 80 | 740 | Lori Sanders- Davis |
-| 81 | 713 | Snappy Swiper |
-| 82 | 713 | Robert Benito |
+| 81 | 713 | Robert Benito |
+| 82 | 713 | Snappy Swiper |
 | 83 | 710 | Jennifer ManWarren |
 | 84 | 706 | Plucky Fallzone |
 | 85 | 704 | Karin Gillen |
@@ -128,8 +128,8 @@
 | 120 | 533 | Sharon Reynolds |
 | 121 | 522 | Sarah Lombardo |
 | 122 | 515 | Death |
-| 123 | 513 | Colena Davenport |
-| 124 | 513 | April Carroll |
+| 123 | 513 | April Carroll |
+| 124 | 513 | Colena Davenport |
 | 125 | 509 | Rachael |
 | 126 | 502 | Anaid Sanchez |
 | 127 | 497 | Arianna O'Brien |
@@ -193,8 +193,8 @@
 | 185 | 390 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 186 | 388 | Jason Savage |
 | 187 | 387 | Monica Donato |
-| 188 | 387 | Carrie Smith |
-| 189 | 387 | Ananda Mendez |
+| 188 | 387 | Ananda Mendez |
+| 189 | 387 | Carrie Smith |
 | 190 | 386 | Brian Spotts |
 | 191 | 385 | John J. Cronin |
 | 192 | 383 | Margo Wagner |
