@@ -182,8 +182,8 @@
 | 174 | 357 | Shiny Snapfit |
 | 175 | 355 | Erin Rosberg |
 | 176 | 355 | Amanda Jarnagin |
-| 177 | 353 | Josh Riemer |
-| 178 | 353 | Jaimie Lynn |
+| 177 | 353 | Jaimie Lynn |
+| 178 | 353 | Josh Riemer |
 | 179 | 350 | Tipsy Strikerpiece |
 | 180 | 349 | Cool Shiftsnap |
 | 181 | 348 | Chelsea Dahlquist |
@@ -193,8 +193,8 @@
 | 185 | 341 | Nick R Montague |
 | 186 | 339 | Nicole Roseberry Weber |
 | 187 | 338 | Jennifer Hardman |
-| 188 | 337 | Jamise Brown |
-| 189 | 337 | Constance Risner |
+| 188 | 337 | Constance Risner |
+| 189 | 337 | Jamise Brown |
 | 190 | 336 | Dizzy Party |
 | 191 | 333 | Gracie |
 | 192 | 333 | Virginia Gray Floyd |
@@ -251,8 +251,8 @@
 | 243 | 272 | Tawnya Peltonen |
 | 244 | 272 | Barrbaric |
 | 245 | 271 | Frothy Pattern |
-| 246 | 270 | Brenda Alexander |
-| 247 | 270 | Debbie Kane |
+| 246 | 270 | Debbie Kane |
+| 247 | 270 | Brenda Alexander |
 | 248 | 268 | Standia Civil |
 | 249 | 267 | Daring Fitclear |
 | 250 | 267 | Eric DeSimone |
@@ -292,8 +292,8 @@
 | 284 | 234 | Paula Martin |
 | 285 | 234 | Sean Stallings |
 | 286 | 233 | Shiny Gridmatch |
-| 287 | 233 | Tipsy Riseclear |
-| 288 | 233 | Melissa Bires Hussar |
+| 287 | 233 | Melissa Bires Hussar |
+| 288 | 233 | Tipsy Riseclear |
 | 289 | 232 | Thorne Shumate |
 | 290 | 230 | BigWeenie69 |
 | 291 | 230 | Panda Thagreat |
@@ -305,8 +305,8 @@
 | 297 | 229 | Christina Norman |
 | 298 | 228 | .running. |
 | 299 | 227 | Happy Snapbuild |
-| 300 | 226 | Glitzy Buildsnap |
-| 301 | 226 | Snappy Brickbuilder |
+| 300 | 226 | Snappy Brickbuilder |
+| 301 | 226 | Glitzy Buildsnap |
 | 302 | 225 | Angela Spann |
 | 303 | 224 | Danielle Mae |
 | 304 | 224 | Jumpy Rotate |
@@ -679,7 +679,7 @@
 | 671 | 107 | Swanky Crasher |
 | 672 | 106 | Johnnette Kruse |
 | 673 | 106 | Tim Giacobone |
-| 674 | 106 | Johnnette Kruse |
+| 674 | 106 | Cozy Cascader |
 | 675 | 106 | Kelly Holland |
 | 676 | 106 | Jennifer Noe Chandler |
 | 677 | 105 | Carlos Floyd |

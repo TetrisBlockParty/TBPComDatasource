@@ -62,12 +62,12 @@
 | 54 | 864 | Shelly Chandler |
 | 55 | 863 | Pee |
 | 56 | 859 | TeeJ |
-| 57 | 846 | Christine Marie |
-| 58 | 846 | Lucille Truesdale |
+| 57 | 846 | Lucille Truesdale |
+| 58 | 846 | Christine Marie |
 | 59 | 845 | LisaJo Picken Buchanan |
 | 60 | 834 | quicksand420 |
-| 61 | 807 | Amelpss |
-| 62 | 807 | Rachel Anne |
+| 61 | 807 | Rachel Anne |
+| 62 | 807 | Amelpss |
 | 63 | 788 | Julian Garcia |
 | 64 | 787 | Edward White |
 | 65 | 787 | loulou |
@@ -125,8 +125,8 @@
 | 117 | 514 | Scott Jameson |
 | 118 | 514 | Serena Goodridge |
 | 119 | 513 | Erin Thomas |
-| 120 | 512 | Casey Jeffcoat |
-| 121 | 512 | Cristy Duerksen |
+| 120 | 512 | Cristy Duerksen |
+| 121 | 512 | Casey Jeffcoat |
 | 122 | 511 | Lori Walker |
 | 123 | 509 | Leslie Nicole |
 | 124 | 487 | Ren Mc |
@@ -153,21 +153,21 @@
 | 145 | 422 | Zakia Monae |
 | 146 | 421 | JIGsaw ~(•¿°)~ |
 | 147 | 421 | Kesha Brady |
-| 148 | 418 | Lush Linkfall |
-| 149 | 418 | Marie-Pier Desjardins |
+| 148 | 418 | Marie-Pier Desjardins |
+| 149 | 418 | Lush Linkfall |
 | 150 | 416 | Chaz Duncan |
 | 151 | 414 | Nope Young |
 | 152 | 414 | Swanky Fitline |
 | 153 | 413 | Circuit8 |
 | 154 | 412 | Jessica Bohlken |
 | 155 | 408 | Amanda Pauldo-Ivy |
-| 156 | 406 | Damn Libra |
-| 157 | 406 | Livvy |
+| 156 | 406 | Livvy |
+| 157 | 406 | Damn Libra |
 | 158 | 403 | Keith Kelley |
 | 159 | 402 | Lucas J Sutton |
 | 160 | 398 | Tyler Terrific |
-| 161 | 393 | Girl |
-| 162 | 393 | Carlton Unfiltered |
+| 161 | 393 | Carlton Unfiltered |
+| 162 | 393 | Girl |
 | 163 | 392 | Nick Gray |
 | 164 | 391 | Ramel Rhodes |
 | 165 | 389 | Joseph Guthrie |
@@ -192,10 +192,10 @@
 | 184 | 350 | Carly Alexis |
 | 185 | 349 | Rafael Valentin |
 | 186 | 348 | April Rondinone |
-| 187 | 347 | Daria Rycewicz |
-| 188 | 347 | Crystal Nicolette Moore |
-| 189 | 346 | shark tato |
-| 190 | 346 | Mylo Lipscomb |
+| 187 | 347 | Crystal Nicolette Moore |
+| 188 | 347 | Daria Rycewicz |
+| 189 | 346 | Mylo Lipscomb |
+| 190 | 346 | shark tato |
 | 191 | 339 | David Lay |
 | 192 | 337 | Sam Bishop |
 | 193 | 336 | JPW |
@@ -212,8 +212,8 @@
 | 204 | 318 | Chris Hartig |
 | 205 | 317 | Madison Sweere |
 | 206 | 316 | Autumn Kumzi |
-| 207 | 312 | Casey Grabner |
-| 208 | 312 | Dihcheese444 |
+| 207 | 312 | Dihcheese444 |
+| 208 | 312 | Casey Grabner |
 | 209 | 311 | Mary Ann Pabukis |
 | 210 | 310 | Holly Jolly |
 | 211 | 307 | Cheery Risebuilder |
@@ -224,8 +224,8 @@
 | 216 | 301 | Andria Lynn |
 | 217 | 300 | Dana Scott |
 | 218 | 295 | Keshia Lyons |
-| 219 | 294 | Calvin Cannon |
-| 220 | 294 | Porkobello |
+| 219 | 294 | Porkobello |
+| 220 | 294 | Calvin Cannon |
 | 221 | 292 | Epic Curvetile |
 | 222 | 291 | Nikki Rae Gordon |
 | 223 | 290 | Jared Gutwein |
@@ -546,9 +546,9 @@
 | 538 | 132 | Adam Randall |
 | 539 | 132 | Robert Rodriguez |
 | 540 | 131 | Cool Clusterfit |
-| 541 | 131 | Grann8 |
-| 542 | 131 | Cheryl Johnson |
-| 543 | 131 | Roseanna Anderson |
+| 541 | 131 | Roseanna Anderson |
+| 542 | 131 | Grann8 |
+| 543 | 131 | Cheryl Johnson |
 | 544 | 130 | Holly Tracey-Grimes |
 | 545 | 130 | KoolMom9907 |
 | 546 | 129 | Dreamy Snapgrid |
@@ -556,8 +556,8 @@
 | 548 | 129 | The Murphy |
 | 549 | 129 | Jessica Wells |
 | 550 | 128 | Zesty Linkgrid |
-| 551 | 128 | Lazy Glidepiece |
-| 552 | 128 | Raymond Roberts |
+| 551 | 128 | Raymond Roberts |
+| 552 | 128 | Lazy Glidepiece |
 | 553 | 127 | Jay You |
 | 554 | 126 | Spicy Cascadezone |
 | 555 | 126 | PAPatty |
@@ -618,8 +618,8 @@
 | 610 | 114 | Rosemary Foster |
 | 611 | 113 | Hog Crankin |
 | 612 | 113 | Lilya Troutman |
-| 613 | 113 | Abigail Murphy |
-| 614 | 113 | Hog Crankin |
+| 613 | 113 | Serena Butter |
+| 614 | 113 | Abigail Murphy |
 | 615 | 112 | Jazzy Slamdrop |
 | 616 | 112 | RogueRebel |
 | 617 | 112 | Ninaforever |
@@ -814,7 +814,7 @@
 | 806 | 84 | Beth Helms |
 | 807 | 84 | Glen Altomare II |
 | 808 | 83 | Ens21417 |
-| 809 | 83 | Dickie Rice |
+| 809 | 83 | Dottie Falco |
 | 810 | 83 | Takeshia Knowles |
 | 811 | 83 | KyngKliff |
 | 812 | 83 | Dickie Rice |

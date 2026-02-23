@@ -573,8 +573,8 @@
 | 565 | 603 | Casper The Chonk |
 | 566 | 602 | Tash Bell |
 | 567 | 602 | Stephanie Sul |
-| 568 | 601 | Moua Ying |
-| 569 | 601 | Daniel Amos |
+| 568 | 601 | Daniel Amos |
+| 569 | 601 | Moua Ying |
 | 570 | 599 | Gloria Liu |
 | 571 | 598 | Leah Keesling |
 | 572 | 597 | Jamie Schmitt |
@@ -766,8 +766,8 @@
 | 758 | 472 | Connie Lepore-Mann |
 | 759 | 471 | Charming Leech |
 | 760 | 470 | Katie Marie |
-| 761 | 470 | Amanda Chamberlain |
-| 762 | 470 | ToShi |
+| 761 | 470 | ToShi |
+| 762 | 470 | Amanda Chamberlain |
 | 763 | 469 | Christy Long |
 | 764 | 468 | Niceday |
 | 765 | 468 | Brenda Annabel Smith |
