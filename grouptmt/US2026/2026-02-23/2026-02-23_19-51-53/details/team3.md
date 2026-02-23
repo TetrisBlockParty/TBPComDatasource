@@ -543,8 +543,8 @@
 | 535 | 258 | Jolly Brick |
 | 536 | 258 | Paul Daniel Quertermous |
 | 537 | 257 | Chris Wallace |
-| 538 | 257 | Jana Polk |
-| 539 | 257 | Crystal Hine |
+| 538 | 257 | Crystal Hine |
+| 539 | 257 | Jana Polk |
 | 540 | 256 | Chenoa Urban Sophicated Redy |
 | 541 | 256 | Courtney Price |
 | 542 | 256 | Christina Rotz Shows |

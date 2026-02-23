@@ -311,11 +311,11 @@
 | 303 | 298 | Sweetts |
 | 304 | 297 | Giggly Builderline |
 | 305 | 297 | Diane Byrd |
-| 306 | 294 | Наталья Солоид |
-| 307 | 294 | Chummy Rollblock |
+| 306 | 294 | Chummy Rollblock |
+| 307 | 294 | Наталья Солоид |
 | 308 | 293 | Garrett Burket |
-| 309 | 292 | Damian Salem |
-| 310 | 292 | Clever Cascadepiece |
+| 309 | 292 | Clever Cascadepiece |
+| 310 | 292 | Damian Salem |
 | 311 | 291 | Sir-Franchise Drake |
 | 312 | 290 | Tavia |
 | 313 | 289 | Alenoush Karimian |

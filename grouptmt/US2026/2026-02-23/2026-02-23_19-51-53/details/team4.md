@@ -538,9 +538,9 @@
 | 530 | 173 | Groovy Brickmatch |
 | 531 | 173 | Joshua Cuellar |
 | 532 | 172 | Janis Brown |
-| 533 | 172 | Linda Alexander Downing |
-| 534 | 172 | Undeniable Williams |
-| 535 | 172 | Christine Simmons |
+| 533 | 172 | Christine Simmons |
+| 534 | 172 | Linda Alexander Downing |
+| 535 | 172 | Undeniable Williams |
 | 536 | 171 | Dapper Balancer |
 | 537 | 171 | Terrance Fung |
 | 538 | 170 | Bigeddie |
@@ -703,7 +703,7 @@
 | 695 | 123 | Dottie Falco |
 | 696 | 123 | MOCHA |
 | 697 | 123 | Cassandra Stewart |
-| 698 | 123 | Mike Nelson |
+| 698 | 123 | RobinC |
 | 699 | 123 | Lazy Column |
 | 700 | 123 | Mike Nelson |
 | 701 | 122 | Roy Simmons |

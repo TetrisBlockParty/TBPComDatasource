@@ -627,8 +627,8 @@
 | 619 | 660 | Santana Miyagi |
 | 620 | 660 | Nadia Batista Garcia |
 | 621 | 659 | Trinity Oak |
-| 622 | 659 | Anthony Huebel |
-| 623 | 659 | Andre Love |
+| 622 | 659 | Andre Love |
+| 623 | 659 | Anthony Huebel |
 | 624 | 658 | Demeka Dangerous-kisses Johnson |
 | 625 | 656 | Tonya Lee |
 | 626 | 655 | Silly Pivotfall |
@@ -1160,8 +1160,8 @@
 | 1152 | 407 | Witty Patternblock |
 | 1153 | 406 | Quirky Brickline |
 | 1154 | 406 | Jroc |
-| 1155 | 406 | Erin StFrancis |
-| 1156 | 406 | Lazy Builderfit |
+| 1155 | 406 | Lazy Builderfit |
+| 1156 | 406 | Erin StFrancis |
 | 1157 | 405 | Karra Lindsey |
 | 1158 | 405 | Christy Green |
 | 1159 | 405 | James Zaragoza |
