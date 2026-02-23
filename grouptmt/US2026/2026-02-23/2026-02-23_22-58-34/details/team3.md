@@ -44,8 +44,8 @@
 | 36 | 2097 | Kay |
 | 37 | 2059 | Beelow Bently |
 | 38 | 1992 | Shandrea Crawford |
-| 39 | 1978 | Ashley Kiara |
-| 40 | 1978 | Dan Rob |
+| 39 | 1978 | Dan Rob |
+| 40 | 1978 | Ashley Kiara |
 | 41 | 1949 | Calista Jo Dickson |
 | 42 | 1941 | Delilah belle |
 | 43 | 1919 | Trezure Gonzalez |
@@ -251,8 +251,8 @@
 | 243 | 541 | Sherry Ogden |
 | 244 | 540 | France Vézina |
 | 245 | 540 | Danielle Allison |
-| 246 | 539 | Aerian Preston |
-| 247 | 539 | Betty Bóò |
+| 246 | 539 | Betty Bóò |
+| 247 | 539 | Aerian Preston |
 | 248 | 537 | Tessina Dewey-Mancino |
 | 249 | 537 | Tamara Deherrera |
 | 250 | 536 | Shannon Matthew Byers |
@@ -336,8 +336,8 @@
 | 328 | 412 | Jojo M |
 | 329 | 411 | Christian Werndl |
 | 330 | 409 | Colton |
-| 331 | 408 | Ashley Muncey |
-| 332 | 408 | Tiffany Ford |
+| 331 | 408 | Tiffany Ford |
+| 332 | 408 | Ashley Muncey |
 | 333 | 407 | Steffi Chris Dacones |
 | 334 | 405 | Chris Bell |
 | 335 | 405 | Andrew Thorson |
@@ -372,8 +372,8 @@
 | 364 | 375 | neci |
 | 365 | 374 | Foltz Lee Kelli |
 | 366 | 373 | KayB |
-| 367 | 372 | Rich LeBlanc |
-| 368 | 372 | Breanna Marsden |
+| 367 | 372 | Breanna Marsden |
+| 368 | 372 | Rich LeBlanc |
 | 369 | 370 | Roary Danner |
 | 370 | 370 | Ashley Lynn Marchese |
 | 371 | 369 | Amber Glover |
@@ -410,13 +410,13 @@
 | 402 | 342 | Christina Marie Swisher |
 | 403 | 341 | Eboni Starr |
 | 404 | 341 | Lys |
-| 405 | 340 | Kerry Nowickshere |
-| 406 | 340 | Erika Thornton |
+| 405 | 340 | Erika Thornton |
+| 406 | 340 | Kerry Nowickshere |
 | 407 | 339 | Michael Lucado |
-| 408 | 338 | Michael Leblanc |
-| 409 | 338 | Troy |
-| 410 | 337 | AC Yeater |
-| 411 | 337 | Maggie |
+| 408 | 338 | Troy |
+| 409 | 338 | Michael Leblanc |
+| 410 | 337 | Maggie |
+| 411 | 337 | AC Yeater |
 | 412 | 337 | Funky Jumper |
 | 413 | 336 | Denise Marie |
 | 414 | 336 | luluraine |

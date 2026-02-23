@@ -331,8 +331,8 @@
 | 323 | 1156 | Alezandra Smith |
 | 324 | 1156 | Arkei Luster |
 | 325 | 1155 | F-X |
-| 326 | 1142 | April Dawn Gussler |
-| 327 | 1142 | Sheniya Spurgeon |
+| 326 | 1142 | Sheniya Spurgeon |
+| 327 | 1142 | April Dawn Gussler |
 | 328 | 1140 | Kimberly Hauck-Rausch |
 | 329 | 1139 | Carl Bradshaw |
 | 330 | 1139 | Aireka Roman |
@@ -543,8 +543,8 @@
 | 535 | 785 | Miranda Morris |
 | 536 | 783 | Sarah Berger |
 | 537 | 779 | Trinity Oak |
-| 538 | 778 | tejas25 |
-| 539 | 778 | Breezy Filler |
+| 538 | 778 | Breezy Filler |
+| 539 | 778 | tejas25 |
 | 540 | 777 | Tesha Oldaker |
 | 541 | 776 | Fancy Twister |
 | 542 | 776 | BeQuo |
@@ -622,8 +622,8 @@
 | 614 | 703 | Emilee Burke |
 | 615 | 702 | Brittney Jean |
 | 616 | 701 | Aishah Brice |
-| 617 | 700 | Beverly Owens |
-| 618 | 700 | Vincent Petrella |
+| 617 | 700 | Vincent Petrella |
+| 618 | 700 | Beverly Owens |
 | 619 | 695 | Diane P. Richardson |
 | 620 | 694 | Lyndi Robinson Wakefield |
 | 621 | 694 | Giggly Snap |
