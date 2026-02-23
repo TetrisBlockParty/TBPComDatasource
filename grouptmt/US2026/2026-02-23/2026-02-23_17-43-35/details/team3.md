@@ -124,8 +124,8 @@
 | 116 | 896 | Jesse Olive |
 | 117 | 878 | Shane Wilson Jr. |
 | 118 | 874 | Jessica Pineda-Lopez |
-| 119 | 868 | Felicia Rocha |
-| 120 | 868 | Sarajane Lokan |
+| 119 | 868 | Sarajane Lokan |
+| 120 | 868 | Felicia Rocha |
 | 121 | 864 | Sunny Rotater |
 | 122 | 856 | Kristie |
 | 123 | 848 | Patricia Gadsden |
@@ -212,11 +212,11 @@
 | 204 | 563 | Jim Mathews |
 | 205 | 562 | Dave Herzog |
 | 206 | 561 | Silly Twist |
-| 207 | 560 | FuzzyNavel |
-| 208 | 560 | Juliana Dottore |
+| 207 | 560 | Juliana Dottore |
+| 208 | 560 | FuzzyNavel |
 | 209 | 559 | Patti Skiles |
-| 210 | 558 | Bmo |
-| 211 | 558 | Chasity |
+| 210 | 558 | Chasity |
+| 211 | 558 | Bmo |
 | 212 | 549 | Sarah Cowan Burgos |
 | 213 | 548 | Danielle Balcom |
 | 214 | 547 | Staci George Fitzsimmons |
@@ -331,8 +331,8 @@
 | 323 | 370 | Samantha Lynn |
 | 324 | 369 | Amber Glover |
 | 325 | 369 | fraulila |
-| 326 | 368 | Sheila M Frazier |
-| 327 | 368 | Stephanie Woods |
+| 326 | 368 | Stephanie Woods |
+| 327 | 368 | Sheila M Frazier |
 | 328 | 366 | KayB |
 | 329 | 365 | LaShey Thompson |
 | 330 | 365 | Andrew Thorson |
@@ -955,9 +955,9 @@
 | 947 | 144 | Jennifer Palermo |
 | 948 | 144 | Susan A Kinsey |
 | 949 | 144 | Cheeky Blockline |
-| 950 | 143 | Bananna Anna |
+| 950 | 143 | Lisa Lisa |
 | 951 | 143 | Serenity |
-| 952 | 143 | Lisa Lisa |
+| 952 | 143 | Bananna Anna |
 | 953 | 143 | Loony Snapbuild |
 | 954 | 142 | Blokell |
 | 955 | 142 | Myriam Lapierre |

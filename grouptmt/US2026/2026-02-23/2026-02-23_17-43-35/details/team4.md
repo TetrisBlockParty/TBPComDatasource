@@ -259,9 +259,9 @@
 | 251 | 330 | Kathy Brookins |
 | 252 | 329 | Brickh4us |
 | 253 | 324 | jim |
-| 254 | 324 | Lauren Lamb |
-| 255 | 324 | Nubian1 |
-| 256 | 324 | TinyLegoRose |
+| 254 | 324 | Nubian1 |
+| 255 | 324 | TinyLegoRose |
+| 256 | 324 | Lauren Lamb |
 | 257 | 321 | Meagan Nicole |
 | 258 | 318 | Manny1 |
 | 259 | 317 | Madison Sweere |
@@ -1147,10 +1147,10 @@
 | 1139 | 56 | Amanda Slusser |
 | 1140 | 56 | Wacky Wendy |
 | 1141 | 56 | Izrahiah Yzaiah Israel |
-| 1142 | 56 | Dreamy Tiler |
-| 1143 | 56 | I'm sorry |
-| 1144 | 56 | Miranda Ozaeta |
-| 1145 | 55 | Cozy Rollzone |
+| 1142 | 56 | I'm sorry |
+| 1143 | 56 | Miranda Ozaeta |
+| 1144 | 56 | Dreamy Tiler |
+| 1145 | 55 | Christa Marie |
 | 1146 | 55 | Katrina Bradley |
 | 1147 | 55 | Poppy Brickmatch |
 | 1148 | 55 | Michelle McCutcheon |

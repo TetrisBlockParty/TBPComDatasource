@@ -256,8 +256,8 @@
 | 248 | 1259 | Foxxo |
 | 249 | 1258 | Brandon Armstrong |
 | 250 | 1258 | Eric Carlson |
-| 251 | 1257 | Megan Ferguson Leone |
-| 252 | 1257 | Megan Garrick |
+| 251 | 1257 | Megan Garrick |
+| 252 | 1257 | Megan Ferguson Leone |
 | 253 | 1256 | Missie Lawson Gebhardt |
 | 254 | 1253 | Roman Lavochnik |
 | 255 | 1241 | Jennifer Casey-Kay |
@@ -411,8 +411,8 @@
 | 403 | 894 | Adira Brown |
 | 404 | 888 | Brenda Utphall |
 | 405 | 883 | Hong Tang |
-| 406 | 881 | Johnny Yeates |
-| 407 | 881 | Aireka Roman |
+| 406 | 881 | Aireka Roman |
+| 407 | 881 | Johnny Yeates |
 | 408 | 880 | Arlene Joy Belicina |
 | 409 | 879 | Leslie Ann Carter |
 | 410 | 877 | Misti Markijohn |
