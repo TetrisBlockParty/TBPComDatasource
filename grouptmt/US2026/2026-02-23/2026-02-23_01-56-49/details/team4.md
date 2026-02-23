@@ -55,8 +55,8 @@
 | 47 | 860 | Jae Job |
 | 48 | 855 | Marvin Lou Martin |
 | 49 | 853 | TeeJ |
-| 50 | 846 | Christine Marie |
-| 51 | 846 | Lucille Truesdale |
+| 50 | 846 | Lucille Truesdale |
+| 51 | 846 | Christine Marie |
 | 52 | 845 | LisaJo Picken Buchanan |
 | 53 | 843 | Shelly Chandler |
 | 54 | 841 | Anthony Bryan Riva |
@@ -189,8 +189,8 @@
 | 181 | 314 | shark tato |
 | 182 | 314 | Andy Cabral |
 | 183 | 309 | Crystal Nicolette Moore |
-| 184 | 307 | Holly Jolly |
-| 185 | 307 | Bio Nelly |
+| 184 | 307 | Bio Nelly |
+| 185 | 307 | Holly Jolly |
 | 186 | 306 | blockstar |
 | 187 | 304 | Mary Ann Pabukis |
 | 188 | 304 | Lindsay Ball |
@@ -628,7 +628,7 @@
 | 620 | 97 | Shanon James |
 | 621 | 96 | Bigmamatetrisqueen |
 | 622 | 96 | Jessica Petersen |
-| 623 | 96 | Bigmamatetrisqueen |
+| 623 | 96 | Christy |
 | 624 | 95 | Tamika Starkey |
 | 625 | 95 | ImJustMe |
 | 626 | 95 | Quirky Puzzler |

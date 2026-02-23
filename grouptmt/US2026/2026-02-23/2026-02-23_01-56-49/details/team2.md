@@ -202,8 +202,8 @@
 | 194 | 1252 | Angel |
 | 195 | 1243 | Anna Edwards |
 | 196 | 1240 | Teddi Notyalc |
-| 197 | 1232 | Groovy Puzzle |
-| 198 | 1232 | Ambyre Patterson |
+| 197 | 1232 | Ambyre Patterson |
+| 198 | 1232 | Groovy Puzzle |
 | 199 | 1230 | Megan Garrick |
 | 200 | 1211 | Lucky Ladybug |
 | 201 | 1207 | David Cudicio-Hayden |
@@ -412,8 +412,8 @@
 | 404 | 717 | Breezy Filler |
 | 405 | 713 | Christie |
 | 406 | 711 | Narutofreak13 |
-| 407 | 709 | Marie Walker |
-| 408 | 709 | Draizen Montrell Thomas |
+| 407 | 709 | Draizen Montrell Thomas |
+| 408 | 709 | Marie Walker |
 | 409 | 708 | Jelly |
 | 410 | 704 | Mama T |
 | 411 | 704 | Montez Mancil |
@@ -549,8 +549,8 @@
 | 541 | 551 | Cynthia Louann Rose |
 | 542 | 550 | Frilly Fallzone |
 | 543 | 550 | Gloria Ininahazwe |
-| 544 | 549 | Melissa Kay Gibson |
-| 545 | 549 | Kaylee McCafferty |
+| 544 | 549 | Kaylee McCafferty |
+| 545 | 549 | Melissa Kay Gibson |
 | 546 | 548 | Elisheva Mizrachi |
 | 547 | 548 | Kayleigh Wisse |
 | 548 | 546 | Hannah Erskine |
