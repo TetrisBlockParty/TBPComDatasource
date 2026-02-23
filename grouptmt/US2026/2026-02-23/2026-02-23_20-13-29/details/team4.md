@@ -60,8 +60,8 @@
 | 52 | 1099 | Ashley Ingram |
 | 53 | 1085 | Kimyatta Cavin |
 | 54 | 1082 | Avy Absol |
-| 55 | 1082 | Dion Crommarty |
-| 56 | 1082 | Dawn Alexander |
+| 55 | 1082 | Dawn Alexander |
+| 56 | 1082 | Dion Crommarty |
 | 57 | 1049 | Heather Tushner |
 | 58 | 1046 | Johnathan Martinez |
 | 59 | 1030 | Dustee Craddock-Harrison |
@@ -82,8 +82,8 @@
 | 74 | 862 | Carolyn Wallace |
 | 75 | 855 | Peachy Fall |
 | 76 | 850 | Lucille Truesdale |
-| 77 | 846 | Amelpss |
-| 78 | 846 | Christine Marie |
+| 77 | 846 | Christine Marie |
+| 78 | 846 | Amelpss |
 | 79 | 841 | Shauna Havard |
 | 80 | 837 | Lisa Davis |
 | 81 | 834 | quicksand420 |
@@ -159,8 +159,8 @@
 | 151 | 514 | Scott Jameson |
 | 152 | 514 | Lucas J Sutton |
 | 153 | 513 | Erin Thomas |
-| 154 | 512 | ThaEviLJeNiuZ |
-| 155 | 512 | Angela Srubar-Norman |
+| 154 | 512 | Angela Srubar-Norman |
+| 155 | 512 | ThaEviLJeNiuZ |
 | 156 | 512 | Casey Jeffcoat |
 | 157 | 508 | Twisty Clicky |
 | 158 | 507 | Nick Gray |
@@ -285,8 +285,8 @@
 | 277 | 317 | Madison Sweere |
 | 278 | 315 | Stella |
 | 279 | 314 | Lora |
-| 280 | 313 | Milan Markeisha |
-| 281 | 313 | Angie Schmidt |
+| 280 | 313 | Angie Schmidt |
+| 281 | 313 | Milan Markeisha |
 | 282 | 312 | Dihcheese444 |
 | 283 | 311 | Jason Gibbs |
 | 284 | 311 | Nikki Rae Gordon |

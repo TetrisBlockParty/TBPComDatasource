@@ -312,8 +312,8 @@
 | 304 | 298 | Sweetts |
 | 305 | 298 | Kimberly Davis |
 | 306 | 297 | Diane Byrd |
-| 307 | 294 | Chummy Rollblock |
-| 308 | 294 | Наталья Солоид |
+| 307 | 294 | Наталья Солоид |
+| 308 | 294 | Chummy Rollblock |
 | 309 | 293 | Garrett Burket |
 | 310 | 292 | Damian Salem |
 | 311 | 292 | Clever Cascadepiece |
@@ -336,8 +336,8 @@
 | 328 | 280 | Billie Dawn Sparks |
 | 329 | 279 | Chris Dawson |
 | 330 | 278 | Bob |
-| 331 | 277 | Agustin Duarte Orozco |
-| 332 | 277 | Nutty Spinblock |
+| 331 | 277 | Nutty Spinblock |
+| 332 | 277 | Agustin Duarte Orozco |
 | 333 | 276 | Blake Mckay |
 | 334 | 275 | Shiny Snapline |
 | 335 | 274 | Jeremy Maubert |
@@ -415,8 +415,8 @@
 | 407 | 230 | Panda Thagreat |
 | 408 | 228 | Amber Dee |
 | 409 | 227 | Happy Snapbuild |
-| 410 | 226 | Krie |
-| 411 | 226 | Alex Nicol |
+| 410 | 226 | Alex Nicol |
+| 411 | 226 | Krie |
 | 412 | 226 | Snappy Brickbuilder |
 | 413 | 225 | Mel Hogan |
 | 414 | 225 | Angela Spann |

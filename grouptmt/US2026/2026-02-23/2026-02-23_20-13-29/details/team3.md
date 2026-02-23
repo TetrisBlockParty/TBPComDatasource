@@ -144,8 +144,8 @@
 | 136 | 864 | Sunny Rotater |
 | 137 | 841 | Loopy Fallmatch |
 | 138 | 837 | mzcatzy |
-| 139 | 834 | opf |
-| 140 | 834 | Kristin Delibac Corrigan |
+| 139 | 834 | Kristin Delibac Corrigan |
+| 140 | 834 | opf |
 | 141 | 833 | Crystal Frey |
 | 142 | 820 | Brenda Lee Vander Molen |
 | 143 | 815 | Dolores Falco |
@@ -185,8 +185,8 @@
 | 177 | 695 | Samantha Greco |
 | 178 | 690 | Patricia White |
 | 179 | 684 | Nicole Myers |
-| 180 | 675 | Edwin Calvillo Jr. |
-| 181 | 675 | Angela Scott |
+| 180 | 675 | Angela Scott |
+| 181 | 675 | Edwin Calvillo Jr. |
 | 182 | 657 | Chasity |
 | 183 | 655 | Rochelle Hazelett |
 | 184 | 647 | Jennifer Lynn Fahrenholtz-Summers |
@@ -380,8 +380,8 @@
 | 372 | 350 | angieelyn |
 | 373 | 348 | Ashley Raines |
 | 374 | 346 | AlsoJess |
-| 375 | 345 | victory |
-| 376 | 345 | gremicx |
+| 375 | 345 | gremicx |
+| 376 | 345 | victory |
 | 377 | 345 | Misha Sanders |
 | 378 | 344 | Beaudie Stroebel |
 | 379 | 343 | Donna |
