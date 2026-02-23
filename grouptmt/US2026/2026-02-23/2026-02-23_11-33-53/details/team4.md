@@ -63,8 +63,8 @@
 | 55 | 870 | BertMofo |
 | 56 | 864 | Shelly Chandler |
 | 57 | 863 | Pee |
-| 58 | 859 | TeeJ |
-| 59 | 859 | Christina LR |
+| 58 | 859 | Christina LR |
+| 59 | 859 | TeeJ |
 | 60 | 846 | Lucille Truesdale |
 | 61 | 846 | Christine Marie |
 | 62 | 834 | quicksand420 |
@@ -159,11 +159,11 @@
 | 151 | 421 | Kesha Brady |
 | 152 | 418 | Marie-Pier Desjardins |
 | 153 | 418 | Lush Linkfall |
-| 154 | 417 | Amanda Pauldo-Ivy |
-| 155 | 417 | Steph Marie |
+| 154 | 417 | Steph Marie |
+| 155 | 417 | Amanda Pauldo-Ivy |
 | 156 | 416 | Chaz Duncan |
-| 157 | 414 | Swanky Fitline |
-| 158 | 414 | Nope Young |
+| 157 | 414 | Nope Young |
+| 158 | 414 | Swanky Fitline |
 | 159 | 413 | Circuit8 |
 | 160 | 412 | Jessica Bohlken |
 | 161 | 406 | Damn Libra |
@@ -221,10 +221,10 @@
 | 213 | 317 | Madison Sweere |
 | 214 | 316 | Autumn Kumzi |
 | 215 | 313 | Milan Markeisha |
-| 216 | 312 | Casey Grabner |
-| 217 | 312 | Dihcheese444 |
-| 218 | 311 | Mary Ann Pabukis |
-| 219 | 311 | Nikki Rae Gordon |
+| 216 | 312 | Dihcheese444 |
+| 217 | 312 | Casey Grabner |
+| 218 | 311 | Nikki Rae Gordon |
+| 219 | 311 | Mary Ann Pabukis |
 | 220 | 310 | Holly Jolly |
 | 221 | 307 | Cheery Risebuilder |
 | 222 | 307 | Michele Plunkett |
@@ -249,15 +249,15 @@
 | 241 | 288 | Zesty Twistbuilder |
 | 242 | 285 | 030Synner |
 | 243 | 284 | Matt Dell'Olio |
-| 244 | 282 | Matt Gooder |
-| 245 | 282 | Kim Klutz Olson |
+| 244 | 282 | Kim Klutz Olson |
+| 245 | 282 | Matt Gooder |
 | 246 | 281 | Laura |
 | 247 | 280 | Rio Rocha |
 | 248 | 279 | Malakai Darien Fox |
-| 249 | 278 | Sarah Brown |
-| 250 | 278 | Angela Geist Jusinski |
-| 251 | 276 | Joeliecea Cobb |
-| 252 | 276 | Cynthia Boudreau |
+| 249 | 278 | Angela Geist Jusinski |
+| 250 | 278 | Sarah Brown |
+| 251 | 276 | Cynthia Boudreau |
+| 252 | 276 | Joeliecea Cobb |
 | 253 | 275 | Kimberlee Jan Beckstead |
 | 254 | 273 | Cranky Rollpiece |
 | 255 | 272 | Dennis Bradley |
@@ -277,17 +277,17 @@
 | 269 | 261 | Zethra Prenisha Rahming |
 | 270 | 260 | Carter Jones |
 | 271 | 259 | John Brunetti |
-| 272 | 259 | Ruben Wheeler |
+| 272 | 259 | Allen Lloyd |
 | 273 | 259 | Montiette Mcglown |
-| 274 | 259 | Allen Lloyd |
+| 274 | 259 | Ruben Wheeler |
 | 275 | 257 | PeaceOs |
 | 276 | 256 | Jade Rian |
 | 277 | 256 | Brittany Marsh |
 | 278 | 256 | Metsfan |
 | 279 | 256 | Paige Kittles |
 | 280 | 254 | Ari Droff |
-| 281 | 253 | Shiny Fit |
-| 282 | 253 | Autum Leigh |
+| 281 | 253 | Autum Leigh |
+| 282 | 253 | Shiny Fit |
 | 283 | 251 | Carol Ricks Raymond |
 | 284 | 249 | Ak Jones |
 | 285 | 249 | Deb Rubeck |
@@ -383,14 +383,14 @@
 | 375 | 194 | Michelle Morris |
 | 376 | 194 | Zany Twisterfit |
 | 377 | 194 | Eri Kka |
-| 378 | 192 | Twisty Risebuilder |
-| 379 | 192 | Meg |
-| 380 | 191 | Earnest Thompson |
-| 381 | 191 | Riverdale |
+| 378 | 192 | Meg |
+| 379 | 192 | Twisty Risebuilder |
+| 380 | 191 | Riverdale |
+| 381 | 191 | Earnest Thompson |
 | 382 | 191 | Norman Klick |
 | 383 | 190 | wombat |
-| 384 | 189 | Berklie Apedaile |
-| 385 | 189 | Lauren Lamb |
+| 384 | 189 | Lauren Lamb |
+| 385 | 189 | Berklie Apedaile |
 | 386 | 189 | Cool Towerbuilder |
 | 387 | 188 | Frilly Blocky |
 | 388 | 188 | Sharyn Lemire |
@@ -478,8 +478,8 @@
 | 470 | 158 | Jen Mattei |
 | 471 | 158 | Grann8 |
 | 472 | 157 | David Boggs |
-| 473 | 157 | Ryry |
-| 474 | 157 | LunaMoon |
+| 473 | 157 | LunaMoon |
+| 474 | 157 | Ryry |
 | 475 | 156 | Mighty Edgepiece |
 | 476 | 155 | tipsy tiger |
 | 477 | 155 | Faja |
@@ -745,8 +745,8 @@
 | 737 | 95 | Wacky Blockclear |
 | 738 | 95 | Alicia Falk |
 | 739 | 95 | Robert Bolden |
-| 740 | 94 | Susan Purnell |
-| 741 | 94 | moneybagz |
+| 740 | 94 | moneybagz |
+| 741 | 94 | Susan Purnell |
 | 742 | 94 | Myra LaTrice |
 | 743 | 93 | Lorinda Wixom |
 | 744 | 93 | Alo |

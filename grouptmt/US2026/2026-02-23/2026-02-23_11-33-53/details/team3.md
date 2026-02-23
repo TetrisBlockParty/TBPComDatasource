@@ -187,8 +187,8 @@
 | 179 | 572 | CeceGeGe |
 | 180 | 568 | Rachael McClain Owens |
 | 181 | 566 | LaTanya GeminiondaRise Johnson |
-| 182 | 564 | Poppy Splitter |
-| 183 | 564 | Christine Trester |
+| 182 | 564 | Christine Trester |
+| 183 | 564 | Poppy Splitter |
 | 184 | 563 | Jim Mathews |
 | 185 | 562 | Dave Herzog |
 | 186 | 559 | Patti Skiles |
@@ -264,8 +264,8 @@
 | 256 | 406 | Kristal C Lee |
 | 257 | 405 | Steffi Chris Dacones |
 | 258 | 404 | Chasity |
-| 259 | 403 | Denita Mungro |
-| 260 | 403 | Scott Lindsay |
+| 259 | 403 | Scott Lindsay |
+| 260 | 403 | Denita Mungro |
 | 261 | 401 | Ashley Tookes |
 | 262 | 399 | Rania Zaqout |
 | 263 | 399 | Keis |
@@ -417,8 +417,8 @@
 | 409 | 267 | April Matthew Kibble |
 | 410 | 267 | Jul |
 | 411 | 266 | Daring Builder |
-| 412 | 266 | Quirky Dropzone |
-| 413 | 266 | Sarah Muradyan |
+| 412 | 266 | Sarah Muradyan |
+| 413 | 266 | Quirky Dropzone |
 | 414 | 265 | Heather Davis |
 | 415 | 265 | Ashley Lynn Marchese |
 | 416 | 265 | AlsoJess |
@@ -432,8 +432,8 @@
 | 424 | 259 | Dana Winters |
 | 425 | 259 | Tegan Chapman |
 | 426 | 258 | IamJust Neyamijah Washington Sr. |
-| 427 | 257 | Chris Wallace |
-| 428 | 257 | Rachel Grant |
+| 427 | 257 | Rachel Grant |
+| 428 | 257 | Chris Wallace |
 | 429 | 257 | Jana Polk |
 | 430 | 257 | Saucy Buildout |
 | 431 | 255 | Mariah Williams |
@@ -1937,7 +1937,7 @@
 | 1929 | 46 | Hoppy Glidebuilder |
 | 1930 | 46 | Emily Alexander |
 | 1931 | 46 | Misty Henry |
-| 1932 | 45 | Carrie Fisher Stephens |
+| 1932 | 45 | Elisha Aglioti-Jordan |
 | 1933 | 45 | Pam Haldeman Wolfe |
 | 1934 | 45 | Carrie Fisher Stephens |
 | 1935 | 45 | Gayle Marie |

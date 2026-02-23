@@ -320,20 +320,20 @@
 | 312 | 976 | Della Hole |
 | 313 | 975 | Hyper Cluster |
 | 314 | 974 | Boldy Cascadepiece |
-| 315 | 972 | Barbra Miller |
-| 316 | 972 | Binyah-Binyah |
+| 315 | 972 | Binyah-Binyah |
+| 316 | 972 | Barbra Miller |
 | 317 | 971 | Jojo Momma |
 | 318 | 969 | Em Chen |
 | 319 | 961 | Angela Lynn |
 | 320 | 959 | Phil J. Grombliniak |
-| 321 | 958 | Brenda Messer |
-| 322 | 958 | Doowop40 |
+| 321 | 958 | Doowop40 |
+| 322 | 958 | Brenda Messer |
 | 323 | 957 | Block Master |
 | 324 | 955 | Angela Bonquiqui Dinish |
 | 325 | 954 | Melissa McCall |
 | 326 | 952 | Arkei Luster |
-| 327 | 951 | Cynthia Ward |
-| 328 | 951 | Wakanda Forever |
+| 327 | 951 | Wakanda Forever |
+| 328 | 951 | Cynthia Ward |
 | 329 | 949 | Steve Man |
 | 330 | 947 | Dedra Steward |
 | 331 | 942 | Cindy Sechler Taninecz |
@@ -358,8 +358,8 @@
 | 350 | 903 | Giggy Blocker |
 | 351 | 902 | Diallo Sparkman |
 | 352 | 901 | Kevin Sees |
-| 353 | 899 | Chevy |
-| 354 | 899 | Patrick Bartlett |
+| 353 | 899 | Patrick Bartlett |
+| 354 | 899 | Chevy |
 | 355 | 895 | Lisa Ongtowasruk |
 | 356 | 895 | Donna Colby |
 | 357 | 894 | Adira Brown |
@@ -445,15 +445,15 @@
 | 437 | 760 | Ashley Guernsey-Martin |
 | 438 | 760 | Cheech Dta |
 | 439 | 760 | Allan Wayne Lamia |
-| 440 | 758 | Stephanie Neuburger |
-| 441 | 758 | Quirky Twistline |
+| 440 | 758 | Quirky Twistline |
+| 441 | 758 | Stephanie Neuburger |
 | 442 | 755 | Taryece Gause |
 | 443 | 754 | tejas25 |
 | 444 | 753 | Alex Dungo Hoang |
 | 445 | 752 | Christina Wsn |
-| 446 | 751 | Loony Snapper |
-| 447 | 751 | Caitlyn Blackwell |
-| 448 | 751 | Breezy Filler |
+| 446 | 751 | Caitlyn Blackwell |
+| 447 | 751 | Breezy Filler |
+| 448 | 751 | Loony Snapper |
 | 449 | 750 | Draizen Montrell Thomas |
 | 450 | 748 | Ann Matzkanin |
 | 451 | 746 | Leslie Ann Carter |
