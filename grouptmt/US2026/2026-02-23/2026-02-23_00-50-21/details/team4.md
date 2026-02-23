@@ -126,8 +126,8 @@
 | 118 | 458 | Twisty Clicky |
 | 119 | 448 | Kristin Manee |
 | 120 | 435 | Leslie Thomas |
-| 121 | 431 | Courtney Cicoria |
-| 122 | 431 | Jolly Dashfit |
+| 121 | 431 | Jolly Dashfit |
+| 122 | 431 | Courtney Cicoria |
 | 123 | 429 | Ren Mc |
 | 124 | 427 | KJ Pool |
 | 125 | 424 | Latisha Davis |
@@ -141,8 +141,8 @@
 | 133 | 408 | Amanda Pauldo-Ivy |
 | 134 | 400 | Ericca Eldridge |
 | 135 | 394 | Austin Owens |
-| 136 | 393 | Carlton Unfiltered |
-| 137 | 393 | Trish |
+| 136 | 393 | Trish |
+| 137 | 393 | Carlton Unfiltered |
 | 138 | 392 | Cristy Duerksen |
 | 139 | 391 | Ramel Rhodes |
 | 140 | 384 | Lucas J Sutton |
@@ -175,11 +175,11 @@
 | 167 | 328 | Kris Bartlett |
 | 168 | 324 | jim |
 | 169 | 322 | J-Rizzle |
-| 170 | 320 | TRCuse |
-| 171 | 320 | Lauren Scott |
+| 170 | 320 | Lauren Scott |
+| 171 | 320 | TRCuse |
 | 172 | 316 | Meagan Nicole |
-| 173 | 314 | Andy Cabral |
-| 174 | 314 | shark tato |
+| 173 | 314 | shark tato |
+| 174 | 314 | Andy Cabral |
 | 175 | 312 | Lindsey Gonzalez |
 | 176 | 311 | A5! |
 | 177 | 309 | Crystal Nicolette Moore |

@@ -131,8 +131,8 @@
 | 123 | 694 | joclisa |
 | 124 | 693 | Hasty Cascadefit |
 | 125 | 683 | Samantha Greco |
-| 126 | 674 | Leah Barnett |
-| 127 | 674 | Patty Allen |
+| 126 | 674 | Patty Allen |
+| 127 | 674 | Leah Barnett |
 | 128 | 668 | Betty Ivy |
 | 129 | 650 | Jd Morris |
 | 130 | 649 | Shavette |
@@ -227,8 +227,8 @@
 | 219 | 390 | rosy |
 | 220 | 387 | Trisha Balmer |
 | 221 | 384 | Marci Mize Fandrich |
-| 222 | 383 | Darlene McMillan |
-| 223 | 383 | Nicole Flippo |
+| 222 | 383 | Nicole Flippo |
+| 223 | 383 | Darlene McMillan |
 | 224 | 383 | Heather Green |
 | 225 | 382 | Giddy Twistbuilder |
 | 226 | 382 | Scott Carleton |
@@ -244,8 +244,8 @@
 | 236 | 369 | Keis |
 | 237 | 368 | Stephanie Woods |
 | 238 | 366 | Marquita Sheard |
-| 239 | 365 | Chummy Caster |
-| 240 | 365 | Tiffany Ford |
+| 239 | 365 | Tiffany Ford |
+| 240 | 365 | Chummy Caster |
 | 241 | 364 | Steffi Chris Dacones |
 | 242 | 362 | Brandon Givens |
 | 243 | 360 | Sheila M Frazier |
@@ -460,8 +460,8 @@
 | 452 | 200 | Christina Marie Swisher |
 | 453 | 199 | Dakota Graham |
 | 454 | 199 | Katheline Lazo Luizaga |
-| 455 | 198 | Zac Hudak |
-| 456 | 198 | Linda Draper |
+| 455 | 198 | Linda Draper |
+| 456 | 198 | Zac Hudak |
 | 457 | 198 | joz |
 | 458 | 197 | TLM |
 | 459 | 197 | Rainbow77375 |

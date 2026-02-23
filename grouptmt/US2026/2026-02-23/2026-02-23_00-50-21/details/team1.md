@@ -50,8 +50,8 @@
 | 42 | 879 | Adam Byrd |
 | 43 | 863 | Tipsy Column |
 | 44 | 862 | Christina Costantino |
-| 45 | 844 | Amanda Summey Schoemer |
-| 46 | 844 | Katie Daniels |
+| 45 | 844 | Katie Daniels |
+| 46 | 844 | Amanda Summey Schoemer |
 | 47 | 828 | Drew Magnus |
 | 48 | 805 | Sevens4L |
 | 49 | 797 | Lawrence Belanger |
@@ -140,12 +140,12 @@
 | 132 | 383 | pjbeta |
 | 133 | 379 | Austin James |
 | 134 | 379 | Kimmie Kimms |
-| 135 | 376 | lil mickey |
-| 136 | 376 | Brian Richardsson |
+| 135 | 376 | Brian Richardsson |
+| 136 | 376 | lil mickey |
 | 137 | 368 | Death |
 | 138 | 367 | Sharon Reynolds |
-| 139 | 364 | Serina Marie |
-| 140 | 364 | Shauna Loe |
+| 139 | 364 | Shauna Loe |
+| 140 | 364 | Serina Marie |
 | 141 | 364 | Monica Donato |
 | 142 | 361 | Tanya Carpenter-Reynolds |
 | 143 | 361 | Amanda Johnson Huffman |
@@ -175,8 +175,8 @@
 | 167 | 320 | Madison Wicks |
 | 168 | 318 | Jessica Sheehan |
 | 169 | 318 | Virginia Gray Floyd |
-| 170 | 317 | Rachael |
-| 171 | 317 | Sarah Roberts |
+| 170 | 317 | Sarah Roberts |
+| 171 | 317 | Rachael |
 | 172 | 315 | Tyler Werts |
 | 173 | 315 | Danielle Little-Daugherty |
 | 174 | 312 | Jessi Sauer |
@@ -193,8 +193,8 @@
 | 185 | 301 | Damon J. Martin |
 | 186 | 296 | Cody Gates |
 | 187 | 294 | Margo Wagner |
-| 188 | 293 | John Kim |
-| 189 | 293 | Carrie Smith |
+| 188 | 293 | Carrie Smith |
+| 189 | 293 | John Kim |
 | 190 | 292 | Cool Shiftsnap |
 | 191 | 291 | BadG52 |
 | 192 | 290 | Speedy Liney |
@@ -238,8 +238,8 @@
 | 230 | 245 | LaFontaine Leslie |
 | 231 | 245 | Matt Iaccheo |
 | 232 | 244 | Marianita Garcia |
-| 233 | 244 | Melissa Lemmon |
-| 234 | 244 | Eddie Dillon |
+| 233 | 244 | Eddie Dillon |
+| 234 | 244 | Melissa Lemmon |
 | 235 | 242 | ParisandCory Champagne |
 | 236 | 241 | Tyler Hertzog |
 | 237 | 240 | Daring Fitclear |
@@ -488,7 +488,7 @@
 | 480 | 130 | Brandy Ann |
 | 481 | 129 | Chipper Piecefit |
 | 482 | 129 | MayMay Echevarria |
-| 483 | 129 | Chipper Piecefit |
+| 483 | 129 | Sherri E Woods Hess |
 | 484 | 129 | Lucinda Thacker |
 | 485 | 128 | Charlie Walker |
 | 486 | 128 | Dandy Towerbuilder |
