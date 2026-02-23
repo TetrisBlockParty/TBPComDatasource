@@ -808,8 +808,8 @@
 | 800 | 88 | Dyrtie1 |
 | 801 | 88 | Beezie |
 | 802 | 87 | Jason Punch |
-| 803 | 87 | b |
-| 804 | 87 | Kat |
+| 803 | 87 | Kat |
+| 804 | 87 | b |
 | 805 | 87 | Goofy Fitblock |
 | 806 | 87 | Derek Pendarvis |
 | 807 | 86 | Bigg Guy |

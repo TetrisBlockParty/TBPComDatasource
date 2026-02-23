@@ -27,8 +27,8 @@
 | 19 | 2840 | Chummy Shatterer |
 | 20 | 2697 | River |
 | 21 | 2387 | Susan Valentino |
-| 22 | 2353 | Tetris Master |
-| 23 | 2353 | Laura Melton |
+| 22 | 2353 | Laura Melton |
+| 23 | 2353 | Tetris Master |
 | 24 | 2319 | mjl574 |
 | 25 | 2311 | Brandon Green |
 | 26 | 2271 | Jeana Gilbert |
@@ -169,8 +169,8 @@
 | 161 | 634 | Amber Hughes |
 | 162 | 631 | Grego Daniel |
 | 163 | 630 | yoyo |
-| 164 | 621 | Cherry Parker |
-| 165 | 621 | Sashay Tapae Simpson |
+| 164 | 621 | Sashay Tapae Simpson |
+| 165 | 621 | Cherry Parker |
 | 166 | 616 | Kammy Hill |
 | 167 | 611 | Rochelle Hazelett |
 | 168 | 603 | Jone |
@@ -187,8 +187,8 @@
 | 179 | 572 | CeceGeGe |
 | 180 | 568 | Rachael McClain Owens |
 | 181 | 566 | LaTanya GeminiondaRise Johnson |
-| 182 | 564 | Poppy Splitter |
-| 183 | 564 | Christine Trester |
+| 182 | 564 | Christine Trester |
+| 183 | 564 | Poppy Splitter |
 | 184 | 563 | Jim Mathews |
 | 185 | 562 | Dave Herzog |
 | 186 | 559 | Patti Skiles |
@@ -353,8 +353,8 @@
 | 345 | 311 | Troy |
 | 346 | 309 | Desiree Gold |
 | 347 | 309 | Cheeky Snapper |
-| 348 | 308 | Katrina Turner |
-| 349 | 308 | Tia |
+| 348 | 308 | Tia |
+| 349 | 308 | Katrina Turner |
 | 350 | 305 | Hyper Matchzone |
 | 351 | 304 | _melisa223_ |
 | 352 | 303 | Alexmac |
@@ -602,10 +602,10 @@
 | 594 | 191 | lady lua |
 | 595 | 190 | Smiley Zone |
 | 596 | 189 | Jason |
-| 597 | 189 | Deseree Ewing |
-| 598 | 189 | Sameerah Smith |
+| 597 | 189 | Sameerah Smith |
+| 598 | 189 | Jada Cox |
 | 599 | 189 | Wacky Crasher |
-| 600 | 189 | Jada Cox |
+| 600 | 189 | Deseree Ewing |
 | 601 | 188 | Sara Dunn |
 | 602 | 188 | Amber Groover Taylor |
 | 603 | 188 | Bree Sexton |

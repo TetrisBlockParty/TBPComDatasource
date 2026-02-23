@@ -85,8 +85,8 @@
 | 77 | 703 | Angel Fowler |
 | 78 | 689 | Susanna Guerry |
 | 79 | 679 | Hasbro Bros |
-| 80 | 657 | Tee Sheree |
-| 81 | 657 | Cynthia Bradley |
+| 80 | 657 | Cynthia Bradley |
+| 81 | 657 | Tee Sheree |
 | 82 | 655 | Brenda Stewart |
 | 83 | 648 | Evie Khalil |
 | 84 | 647 | Jason Jones |
@@ -129,8 +129,8 @@
 | 121 | 467 | Candy Jones |
 | 122 | 463 | Lexuriuos Lifestlye |
 | 123 | 462 | Luciano Moreira |
-| 124 | 458 | Goose egg |
-| 125 | 458 | Evan Richmond |
+| 124 | 458 | Evan Richmond |
+| 125 | 458 | Goose egg |
 | 126 | 454 | Desiree Deschaine Havee |
 | 127 | 453 | Brandi Huntington |
 | 128 | 452 | Hyper |
@@ -147,8 +147,8 @@
 | 139 | 429 | Kristi Johnson |
 | 140 | 428 | Ly Phethmany |
 | 141 | 426 | Maria C. Hernandez |
-| 142 | 425 | Dandy Basegrid |
-| 143 | 425 | Tyler Werts |
+| 142 | 425 | Tyler Werts |
+| 143 | 425 | Dandy Basegrid |
 | 144 | 423 | ALFD |
 | 145 | 422 | Constance Risner |
 | 146 | 417 | Phu ckalldems |
@@ -440,8 +440,8 @@
 | 432 | 182 | Mrsbigdawg |
 | 433 | 182 | Isaiah |
 | 434 | 181 | David DeSantis |
-| 435 | 180 | Discovery Point |
-| 436 | 180 | MommaKFC |
+| 435 | 180 | MommaKFC |
+| 436 | 180 | Discovery Point |
 | 437 | 179 | Ward Leandrea |
 | 438 | 179 | Ryan White |
 | 439 | 179 | Amie Fields |

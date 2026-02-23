@@ -875,8 +875,8 @@
 | 867 | 436 | Christina Loftus |
 | 868 | 436 | Regina Knight |
 | 869 | 435 | Snappy snappers |
-| 870 | 435 | Janai Vrabel |
-| 871 | 435 | Taylor Flowers |
+| 870 | 435 | Taylor Flowers |
+| 871 | 435 | Janai Vrabel |
 | 872 | 435 | John |
 | 873 | 434 | Veronics |
 | 874 | 433 | Melissa Koria |
@@ -994,8 +994,8 @@
 | 986 | 390 | Karmabunny |
 | 987 | 390 | MauroPRM |
 | 988 | 390 | Smiley Strike |
-| 989 | 390 | Kyla Louise |
-| 990 | 390 | Tasia Stinson |
+| 989 | 390 | Tasia Stinson |
+| 990 | 390 | Kyla Louise |
 | 991 | 389 | Loony Basepiece |
 | 992 | 389 | Ning Quiambao |
 | 993 | 388 | Loopy Shatterfit |
