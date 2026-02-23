@@ -211,8 +211,8 @@
 | 203 | 1282 | Tanya Parsons |
 | 204 | 1282 | Ashley Rose Frederick |
 | 205 | 1259 | Foxxo |
-| 206 | 1258 | Snappy Matchbuilder |
-| 207 | 1258 | Joyce Johnson Vaughn |
+| 206 | 1258 | Joyce Johnson Vaughn |
+| 207 | 1258 | Snappy Matchbuilder |
 | 208 | 1252 | Angel |
 | 209 | 1245 | Cody Nishimura |
 | 210 | 1237 | Megan Ferguson Leone |
@@ -336,8 +336,8 @@
 | 328 | 903 | Giggy Blocker |
 | 329 | 902 | William Hunt |
 | 330 | 901 | Kevin Sees |
-| 331 | 899 | Patrick Bartlett |
-| 332 | 899 | Chevy |
+| 331 | 899 | Chevy |
+| 332 | 899 | Patrick Bartlett |
 | 333 | 898 | Jamie Otero |
 | 334 | 895 | Donna Colby |
 | 335 | 890 | Steve Man |
@@ -399,8 +399,8 @@
 | 391 | 788 | Erika Densmore |
 | 392 | 787 | Tiara Elizabeth Baker |
 | 393 | 779 | Kayla |
-| 394 | 777 | Jessicah Myers |
-| 395 | 777 | Tesha Oldaker |
+| 394 | 777 | Tesha Oldaker |
+| 395 | 777 | Jessicah Myers |
 | 396 | 776 | Fancy Twister |
 | 397 | 776 | Mighty Spinbuilder |
 | 398 | 772 | Danielle Simmons |
@@ -432,9 +432,9 @@
 | 424 | 746 | Aimee Campbell |
 | 425 | 741 | Jánine Riggs |
 | 426 | 740 | Jerry Tempelmeyer |
-| 427 | 737 | Ginger |
-| 428 | 737 | Jeremy Parodi |
-| 429 | 737 | Chelle |
+| 427 | 737 | Jeremy Parodi |
+| 428 | 737 | Chelle |
+| 429 | 737 | Ginger |
 | 430 | 736 | John Rodriguez |
 | 431 | 732 | Victoria Moore-Smith |
 | 432 | 731 | Charvi' Carter |

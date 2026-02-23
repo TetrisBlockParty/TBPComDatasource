@@ -88,8 +88,8 @@
 | 80 | 697 | Alyssa Papen |
 | 81 | 696 | Shane Kalamata Platoon |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Jonathan Kimbrough |
-| 84 | 684 | Kimyatta Cavin |
+| 83 | 684 | Kimyatta Cavin |
+| 84 | 684 | Jonathan Kimbrough |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -164,8 +164,8 @@
 | 156 | 391 | Ramel Rhodes |
 | 157 | 389 | Joseph Guthrie |
 | 158 | 387 | Lucas J Sutton |
-| 159 | 375 | ThaEviLJeNiuZ |
-| 160 | 375 | Desi Desporte |
+| 159 | 375 | Desi Desporte |
+| 160 | 375 | ThaEviLJeNiuZ |
 | 161 | 374 | Guy Incognito |
 | 162 | 370 | Oscar Alberto Perez |
 | 163 | 369 | Lindsey Gonzalez |
@@ -212,8 +212,8 @@
 | 204 | 304 | Lindsay Ball |
 | 205 | 301 | Andria Lynn |
 | 206 | 300 | Dihcheese444 |
-| 207 | 300 | Dana Scott |
-| 208 | 300 | Zakia Monae |
+| 207 | 300 | Zakia Monae |
+| 208 | 300 | Dana Scott |
 | 209 | 295 | Keshia Lyons |
 | 210 | 294 | Porkobello |
 | 211 | 294 | Calvin Cannon |
@@ -232,10 +232,10 @@
 | 224 | 282 | Matt Gooder |
 | 225 | 281 | Nikki Rae Gordon |
 | 226 | 281 | Laura |
-| 227 | 278 | Sarah Brown |
-| 228 | 278 | Angela Geist Jusinski |
-| 229 | 276 | Joeliecea Cobb |
-| 230 | 276 | Matt Dell'Olio |
+| 227 | 278 | Angela Geist Jusinski |
+| 228 | 278 | Sarah Brown |
+| 229 | 276 | Matt Dell'Olio |
+| 230 | 276 | Joeliecea Cobb |
 | 231 | 274 | JPW |
 | 232 | 273 | Casey Grabner |
 | 233 | 272 | Alan George LaRage |
@@ -310,11 +310,11 @@
 | 302 | 219 | Malakai Darien Fox |
 | 303 | 218 | Steph Marie |
 | 304 | 218 | Janita Parrish |
-| 305 | 217 | Paito |
-| 306 | 217 | Alexandra Karavias |
-| 307 | 217 | Cheery Fitline |
-| 308 | 216 | mike |
-| 309 | 216 | Chantilly Laace |
+| 305 | 217 | Alexandra Karavias |
+| 306 | 217 | Cheery Fitline |
+| 307 | 217 | Paito |
+| 308 | 216 | Chantilly Laace |
+| 309 | 216 | mike |
 | 310 | 215 | Stephme310 |
 | 311 | 214 | Stacey Stano |
 | 312 | 214 | Patron Anderson |
@@ -326,12 +326,12 @@
 | 318 | 212 | Zany Shatterer |
 | 319 | 211 | Chris Alexinas |
 | 320 | 210 | Ari Droff |
-| 321 | 209 | Marcus Todd |
-| 322 | 209 | Snippy Puzzle |
-| 323 | 208 | Heather Bruce |
-| 324 | 208 | Shukee Lo |
-| 325 | 206 | June Hoffman |
-| 326 | 206 | Maureen Flanigan |
+| 321 | 209 | Snippy Puzzle |
+| 322 | 209 | Marcus Todd |
+| 323 | 208 | Shukee Lo |
+| 324 | 208 | Heather Bruce |
+| 325 | 206 | Maureen Flanigan |
+| 326 | 206 | June Hoffman |
 | 327 | 205 | KayM |
 | 328 | 204 | Russ Attitude |
 | 329 | 203 | Courtney Halleck |

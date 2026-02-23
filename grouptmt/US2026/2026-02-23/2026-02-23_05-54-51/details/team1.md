@@ -123,19 +123,19 @@
 | 115 | 451 | Plucky Ziggy |
 | 116 | 450 | lil mickey |
 | 117 | 449 | Anaid Sanchez |
-| 118 | 448 | Sweet Baker |
-| 119 | 448 | Jazzy Framezone |
+| 118 | 448 | Jazzy Framezone |
+| 119 | 448 | Sweet Baker |
 | 120 | 446 | SkipTheSadSauce |
 | 121 | 443 | Steve Schneider |
 | 122 | 439 | Dee Perry |
 | 123 | 436 | Tonya Beasley |
-| 124 | 434 | Yvonne Marie |
-| 125 | 434 | Ty Brown |
+| 124 | 434 | Ty Brown |
+| 125 | 434 | Yvonne Marie |
 | 126 | 429 | Kristi Johnson |
 | 127 | 428 | Ly Phethmany |
 | 128 | 426 | Maria C. Hernandez |
-| 129 | 425 | Dandy Basegrid |
-| 130 | 425 | Lori Sanders- Davis |
+| 129 | 425 | Lori Sanders- Davis |
+| 130 | 425 | Dandy Basegrid |
 | 131 | 411 | BadG52 |
 | 132 | 409 | Goose egg |
 | 133 | 406 | Candy Jones |
@@ -170,8 +170,8 @@
 | 162 | 360 | Wisa |
 | 163 | 357 | David Lutcher |
 | 164 | 355 | Amanda Jarnagin |
-| 165 | 353 | Jaimie Lynn |
-| 166 | 353 | Josh Riemer |
+| 165 | 353 | Josh Riemer |
+| 166 | 353 | Jaimie Lynn |
 | 167 | 350 | Tipsy Strikerpiece |
 | 168 | 349 | Cool Shiftsnap |
 | 169 | 346 | GATOR |

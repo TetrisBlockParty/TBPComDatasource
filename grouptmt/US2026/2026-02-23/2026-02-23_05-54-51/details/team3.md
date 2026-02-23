@@ -125,8 +125,8 @@
 | 117 | 769 | Kristie |
 | 118 | 764 | Groovy Catcher |
 | 119 | 762 | Speedy Bridger |
-| 120 | 752 | Logan Naccarato |
-| 121 | 752 | Raya |
+| 120 | 752 | Raya |
+| 121 | 752 | Logan Naccarato |
 | 122 | 748 | Adrian Marcel Pate |
 | 123 | 745 | JerseyJess |
 | 124 | 744 | Leah Barnett |
@@ -287,8 +287,8 @@
 | 279 | 347 | Tye Stovall |
 | 280 | 346 | Tamara Deherrera |
 | 281 | 345 | gremicx |
-| 282 | 343 | Ashley Rufus Bythcez |
-| 283 | 343 | Ashley Raines |
+| 282 | 343 | Ashley Raines |
+| 283 | 343 | Ashley Rufus Bythcez |
 | 284 | 341 | Ashley Tookes |
 | 285 | 340 | KayB |
 | 286 | 339 | Cynthia Herrmann Egland |
@@ -460,8 +460,8 @@
 | 452 | 229 | Everret Maxine |
 | 453 | 228 | Stephanie Hill |
 | 454 | 227 | Meowsa |
-| 455 | 226 | Ryan Williams |
-| 456 | 226 | Jana Polk |
+| 455 | 226 | Jana Polk |
+| 456 | 226 | Ryan Williams |
 | 457 | 226 | paranoid |
 | 458 | 225 | Sassy Tiler |
 | 459 | 225 | sofaking |
@@ -518,8 +518,8 @@
 | 510 | 203 | TLM |
 | 511 | 202 | Sabrina Mansfield |
 | 512 | 201 | Denise Marie |
-| 513 | 201 | Katrina E Jelks |
-| 514 | 201 | Katheline Lazo Luizaga |
+| 513 | 201 | Katheline Lazo Luizaga |
+| 514 | 201 | Katrina E Jelks |
 | 515 | 200 | glichmod |
 | 516 | 200 | Sarah Whalen |
 | 517 | 200 | Christina Marie Swisher |
