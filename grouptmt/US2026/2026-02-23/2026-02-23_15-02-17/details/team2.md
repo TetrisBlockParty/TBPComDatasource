@@ -157,8 +157,8 @@
 | 149 | 1767 | niecy |
 | 150 | 1759 | Nerdy Pattern |
 | 151 | 1755 | Loopy Clusterbuilder |
-| 152 | 1751 | Bob |
-| 153 | 1751 | Woodys Glass |
+| 152 | 1751 | Woodys Glass |
+| 153 | 1751 | Bob |
 | 154 | 1720 | Morgue Chick |
 | 155 | 1709 | Dustin Rains |
 | 156 | 1706 | Janel Turley-Garner |
@@ -168,8 +168,8 @@
 | 160 | 1658 | Liberty |
 | 161 | 1653 | Michele Gabriel |
 | 162 | 1647 | Jessie McDougald |
-| 163 | 1644 | Speedy Spinblock |
-| 164 | 1644 | Luna |
+| 163 | 1644 | Luna |
+| 164 | 1644 | Speedy Spinblock |
 | 165 | 1640 | Scott Treadway |
 | 166 | 1639 | Mari Ac |
 | 167 | 1629 | Rickey Johnson |
@@ -366,8 +366,8 @@
 | 358 | 937 | Jessica Wayne Cornwall |
 | 359 | 937 | Andrew Willis |
 | 360 | 934 | Mighty Shatterfit |
-| 361 | 933 | Bee |
-| 362 | 933 | Nicole Cannon |
+| 361 | 933 | Nicole Cannon |
+| 362 | 933 | Bee |
 | 363 | 931 | Sinistah42o |
 | 364 | 929 | Ellie Jonas |
 | 365 | 928 | Elizabeth Wilbanks |
@@ -375,8 +375,8 @@
 | 367 | 917 | Nashu |
 | 368 | 916 | Butta |
 | 369 | 915 | Kelly Trent |
-| 370 | 914 | William Hunt |
-| 371 | 914 | Shuany Arias |
+| 370 | 914 | Shuany Arias |
+| 371 | 914 | William Hunt |
 | 372 | 913 | blume |
 | 373 | 909 | Valerie Brooke Lusk Armstrong |
 | 374 | 907 | Gene Mills |
@@ -440,8 +440,8 @@
 | 432 | 808 | Connie Jimenez |
 | 433 | 808 | Jánine Riggs |
 | 434 | 804 | Sarah DeHart |
-| 435 | 804 | Becca Coronado |
-| 436 | 804 | Barry Britt |
+| 435 | 804 | Barry Britt |
+| 436 | 804 | Becca Coronado |
 | 437 | 803 | Tiara Elizabeth Baker |
 | 438 | 802 | Jessicah Myers |
 | 439 | 801 | Diana Fitzwater |
@@ -487,8 +487,8 @@
 | 479 | 750 | Draizen Montrell Thomas |
 | 480 | 750 | Michael Buckner |
 | 481 | 748 | Ann Matzkanin |
-| 482 | 746 | Hoppy Brickmatch |
-| 483 | 746 | Ryan Stadel |
+| 482 | 746 | Ryan Stadel |
+| 483 | 746 | Hoppy Brickmatch |
 | 484 | 746 | Samuel Macon |
 | 485 | 742 | Ganieda |
 | 486 | 742 | Cassie Maynard |
@@ -756,8 +756,8 @@
 | 748 | 516 | Shea Edison |
 | 749 | 515 | Klee |
 | 750 | 515 | Epic Fitzone |
-| 751 | 515 | Shiny Twistfit |
-| 752 | 515 | Gina Bahn |
+| 751 | 515 | Gina Bahn |
+| 752 | 515 | Shiny Twistfit |
 | 753 | 513 | MrsCandyfine As Wine Truss |
 | 754 | 513 | Savannah Alexander |
 | 755 | 512 | Nicole Sanqui |

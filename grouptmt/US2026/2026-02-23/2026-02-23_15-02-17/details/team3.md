@@ -170,8 +170,8 @@
 | 162 | 647 | Jennifer Lynn Fahrenholtz-Summers |
 | 163 | 646 | Bea Miles |
 | 164 | 646 | Tina Kay |
-| 165 | 634 | Denita Mungro |
-| 166 | 634 | Amber Hughes |
+| 165 | 634 | Amber Hughes |
+| 166 | 634 | Denita Mungro |
 | 167 | 632 | Morgan Martinez |
 | 168 | 630 | yoyo |
 | 169 | 629 | rnr junky |
@@ -301,8 +301,8 @@
 | 293 | 382 | Salena Whitlock |
 | 294 | 382 | Desiree Gold |
 | 295 | 380 | Rebecca Bailey |
-| 296 | 379 | JessDrown |
-| 297 | 379 | Philip Rock |
+| 296 | 379 | Philip Rock |
+| 297 | 379 | JessDrown |
 | 298 | 378 | Chris Bell |
 | 299 | 378 | MsBee |
 | 300 | 376 | Sarah Moyer |
@@ -315,8 +315,8 @@
 | 307 | 368 | Stephanie Woods |
 | 308 | 368 | Sheila M Frazier |
 | 309 | 365 | LaShey Thompson |
-| 310 | 362 | Brandon Givens |
-| 311 | 362 | Foltz Lee Kelli |
+| 310 | 362 | Foltz Lee Kelli |
+| 311 | 362 | Brandon Givens |
 | 312 | 361 | Breanna Marsden |
 | 313 | 360 | Dee Pratt |
 | 314 | 359 | Steven Fulater |
@@ -445,8 +445,8 @@
 | 437 | 272 | Eboni Starr |
 | 438 | 272 | AC Yeater |
 | 439 | 271 | Scott Doss |
-| 440 | 269 | Aponk |
-| 441 | 269 | Samantha Worley |
+| 440 | 269 | Samantha Worley |
+| 441 | 269 | Aponk |
 | 442 | 269 | Goofy Fall |
 | 443 | 268 | Julia Nicole |
 | 444 | 268 | Jessica Lynn French |

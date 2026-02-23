@@ -243,8 +243,8 @@
 | 235 | 313 | Milan Markeisha |
 | 236 | 312 | Jen Caldwell |
 | 237 | 312 | Dihcheese444 |
-| 238 | 311 | Nikki Rae Gordon |
-| 239 | 311 | Mary Ann Pabukis |
+| 238 | 311 | Mary Ann Pabukis |
+| 239 | 311 | Nikki Rae Gordon |
 | 240 | 311 | Jason Gibbs |
 | 241 | 310 | Stacey Stano |
 | 242 | 308 | Leah Kutz Zirbel |
@@ -1463,7 +1463,7 @@
 | 1455 | 29 | Flashy Twister |
 | 1456 | 28 | Giggly Slammer |
 | 1457 | 28 | Cozy Tiley |
-| 1458 | 28 | Giggly Slammer |
+| 1458 | 28 | Jessi Gooch |
 | 1459 | 28 | Ashley Cooke |
 | 1460 | 28 | Veronica Chan |
 | 1461 | 28 | Rita Loucks |
