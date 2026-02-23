@@ -306,9 +306,9 @@
 | 298 | 305 | Larry Tilton |
 | 299 | 303 | DaRascal |
 | 300 | 302 | LaFontaine Leslie |
-| 301 | 301 | Brave Wrecker |
-| 302 | 301 | Chad Atchley |
-| 303 | 301 | Glitzy Curvebuilder |
+| 301 | 301 | Glitzy Curvebuilder |
+| 302 | 301 | Brave Wrecker |
+| 303 | 301 | Chad Atchley |
 | 304 | 300 | Giggly Builderline |
 | 305 | 299 | LD1 |
 | 306 | 298 | Kimberly Davis |
@@ -347,7 +347,7 @@
 | 339 | 276 | Llewej Rekab |
 | 340 | 276 | Blake Mckay |
 | 341 | 275 | Shiny Snapline |
-| 342 | 274 | Danielle Mae |
+| 342 | 274 | Allena Craft |
 | 343 | 274 | Michelle |
 | 344 | 274 | Danielle Mae |
 | 345 | 272 | Barrbaric |

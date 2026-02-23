@@ -202,8 +202,8 @@
 | 194 | 1601 | Ray Ray Prado |
 | 195 | 1600 | Mo Shine On |
 | 196 | 1592 | Dolores Russworn |
-| 197 | 1590 | Amy Sayers |
-| 198 | 1590 | Jaycee |
+| 197 | 1590 | Jaycee |
+| 198 | 1590 | Amy Sayers |
 | 199 | 1585 | Glitzy Stackzone |
 | 200 | 1580 | Sally Dennis |
 | 201 | 1571 | Tommy Tha Boss Gunz |
@@ -345,8 +345,8 @@
 | 337 | 1076 | Em Chen |
 | 338 | 1073 | Jodi Blake |
 | 339 | 1072 | BK Queen |
-| 340 | 1071 | Kim Dean |
-| 341 | 1071 | Nashu |
+| 340 | 1071 | Nashu |
+| 341 | 1071 | Kim Dean |
 | 342 | 1071 | Barbra Miller |
 | 343 | 1067 | Caitlin Schmid |
 | 344 | 1065 | Dany Murillo |
@@ -395,8 +395,8 @@
 | 387 | 962 | Antionette Sewell |
 | 388 | 960 | KhaosLord |
 | 389 | 958 | Nicole Cannon |
-| 390 | 958 | Brenda Messer |
-| 391 | 958 | Doowop40 |
+| 390 | 958 | Doowop40 |
+| 391 | 958 | Brenda Messer |
 | 392 | 958 | Megan Brianna |
 | 393 | 957 | Block Master |
 | 394 | 955 | Amanda Woodruff |
@@ -506,8 +506,8 @@
 | 498 | 804 | Becca Coronado |
 | 499 | 801 | Diana Fitzwater |
 | 500 | 798 | Melissa Cole |
-| 501 | 797 | Mighty Spinbuilder |
-| 502 | 797 | Alex Dungo Hoang |
+| 501 | 797 | Alex Dungo Hoang |
+| 502 | 797 | Mighty Spinbuilder |
 | 503 | 796 | AndrewandShela Gornik |
 | 504 | 794 | Lindsey Leigh |
 | 505 | 793 | Eunique Griffin |

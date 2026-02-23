@@ -1146,8 +1146,8 @@
 | 1138 | 61 | Mrsjcraw18 |
 | 1139 | 61 | Nancy Banning |
 | 1140 | 61 | Chirpy Rollbuilder |
-| 1141 | 60 | Gina Sexton Powell |
-| 1142 | 60 | Boldy Linkfall |
+| 1141 | 60 | Boldy Linkfall |
+| 1142 | 60 | Gina Sexton Powell |
 | 1143 | 60 | Natasha Crossley |
 | 1144 | 60 | Brian O'Neill |
 | 1145 | 60 | Chill Tetrisline |
