@@ -80,8 +80,8 @@
 | 72 | 970 | Rosalie Call Kehlenbeck |
 | 73 | 964 | Jennifer |
 | 74 | 945 | Christian A. Pollard |
-| 75 | 926 | Judi Dobson |
-| 76 | 926 | Angela M. Fletcher |
+| 75 | 926 | Angela M. Fletcher |
+| 76 | 926 | Judi Dobson |
 | 77 | 924 | Shonna Roberts |
 | 78 | 923 | Christine Filson |
 | 79 | 910 | Jay Horn |
@@ -200,8 +200,8 @@
 | 192 | 432 | Jenny Hrndz |
 | 193 | 432 | Luciana Braganca Vieira |
 | 194 | 431 | Wendy Dearden |
-| 195 | 430 | Joye Sims Binion |
-| 196 | 430 | Jeni Dow |
+| 195 | 430 | Jeni Dow |
+| 196 | 430 | Joye Sims Binion |
 | 197 | 426 | Rochelle Hazelett |
 | 198 | 423 | Tom Nault |
 | 199 | 422 | Fallorina Susana |

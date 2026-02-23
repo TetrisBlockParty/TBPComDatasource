@@ -51,8 +51,8 @@
 | 43 | 908 | Misty Hollibaugh |
 | 44 | 855 | Marvin Lou Martin |
 | 45 | 851 | Jae Job |
-| 46 | 846 | Christine Marie |
-| 47 | 846 | Lucille Truesdale |
+| 46 | 846 | Lucille Truesdale |
+| 47 | 846 | Christine Marie |
 | 48 | 845 | LisaJo Picken Buchanan |
 | 49 | 843 | Shelly Chandler |
 | 50 | 840 | TeeJ |
@@ -103,14 +103,14 @@
 | 95 | 557 | Carmethia Clemons Haslerig |
 | 96 | 533 | Samantha Peterson |
 | 97 | 519 | Nugget |
-| 98 | 513 | YoMomma |
-| 99 | 513 | Erin Thomas |
+| 98 | 513 | Erin Thomas |
+| 99 | 513 | YoMomma |
 | 100 | 512 | Casey Jeffcoat |
 | 101 | 512 | Diana Houts |
 | 102 | 510 | Scott Jameson |
 | 103 | 500 | Rodney McMath Jr. |
-| 104 | 499 | Trista Leah |
-| 105 | 499 | Christina LR |
+| 104 | 499 | Christina LR |
+| 105 | 499 | Trista Leah |
 | 106 | 488 | Jen Allison |
 | 107 | 487 | Alyssa Papen |
 | 108 | 487 | shar |
@@ -208,8 +208,8 @@
 | 200 | 276 | Joeliecea Cobb |
 | 201 | 276 | Matt Dell'Olio |
 | 202 | 273 | Casey Grabner |
-| 203 | 272 | Alan George LaRage |
-| 204 | 272 | Dennis Bradley |
+| 203 | 272 | Dennis Bradley |
+| 204 | 272 | Alan George LaRage |
 | 205 | 271 | Sarah Brown |
 | 206 | 270 | Juls |
 | 207 | 269 | Nikki Rae Gordon |
@@ -280,8 +280,8 @@
 | 272 | 208 | Chantilly Laace |
 | 273 | 208 | Rebecca Morris |
 | 274 | 207 | Snippy Puzzle |
-| 275 | 205 | KayM |
-| 276 | 205 | James Hurley Jr. |
+| 275 | 205 | James Hurley Jr. |
+| 276 | 205 | KayM |
 | 277 | 205 | Stella |
 | 278 | 203 | Katherine Crane |
 | 279 | 202 | Shainne Brewer |

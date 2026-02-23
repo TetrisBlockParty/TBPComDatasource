@@ -126,8 +126,8 @@
 | 118 | 1676 | Nett |
 | 119 | 1652 | Kristopher Miller |
 | 120 | 1644 | Luna |
-| 121 | 1639 | Karen Martini-Stapleton |
-| 122 | 1639 | Jessie McDougald |
+| 121 | 1639 | Jessie McDougald |
+| 122 | 1639 | Karen Martini-Stapleton |
 | 123 | 1623 | Mr. Street Stack |
 | 124 | 1606 | Janel Turley-Garner |
 | 125 | 1603 | Gabby Jenner |
@@ -311,15 +311,15 @@
 | 303 | 861 | F-X |
 | 304 | 858 | Porsche' Nicole |
 | 305 | 857 | Kara Gillen |
-| 306 | 856 | Jojo Momma |
-| 307 | 856 | Mighty Shatterfit |
+| 306 | 856 | Mighty Shatterfit |
+| 307 | 856 | Jojo Momma |
 | 308 | 853 | Meghan M |
 | 309 | 848 | Elizabeth Wilbanks |
 | 310 | 846 | Alyssa Hileman |
 | 311 | 845 | Steve Man |
 | 312 | 844 | Terri McKelvey McKinley |
-| 313 | 841 | Wakanda Forever |
-| 314 | 841 | Offonar Facey |
+| 313 | 841 | Offonar Facey |
+| 314 | 841 | Wakanda Forever |
 | 315 | 840 | Caitlin Schmid |
 | 316 | 837 | Chirpy Staggerpiece |
 | 317 | 833 | Cody Nishimura |
@@ -355,18 +355,18 @@
 | 347 | 773 | Diana Fitzwater |
 | 348 | 772 | Danielle Simmons |
 | 349 | 769 | Melissa Cole |
-| 350 | 768 | Joshua Self |
-| 351 | 768 | Arkei Luster |
+| 350 | 768 | Arkei Luster |
+| 351 | 768 | Joshua Self |
 | 352 | 767 | Ashley Lopez |
 | 353 | 767 | Fancy Twister |
 | 354 | 765 | Kathryn Townsley |
 | 355 | 763 | Heather Causey |
 | 356 | 761 | Hyper Cluster |
 | 357 | 760 | Doowop40 |
-| 358 | 760 | Andrew Willis |
-| 359 | 760 | Cheech Dta |
-| 360 | 758 | Quirky Twistline |
-| 361 | 758 | Stephanie Neuburger |
+| 358 | 760 | Cheech Dta |
+| 359 | 760 | Andrew Willis |
+| 360 | 758 | Stephanie Neuburger |
+| 361 | 758 | Quirky Twistline |
 | 362 | 751 | Loony Snapper |
 | 363 | 748 | Stephanie Lumanlan |
 | 364 | 748 | Brenda Utphall |
@@ -381,14 +381,14 @@
 | 373 | 737 | Jeremy Parodi |
 | 374 | 737 | Ginger |
 | 375 | 734 | Deborah Miller |
-| 376 | 728 | Allan Wayne Lamia |
-| 377 | 728 | Dylan Thomason |
+| 376 | 728 | Dylan Thomason |
+| 377 | 728 | Allan Wayne Lamia |
 | 378 | 728 | Charvi' Carter |
 | 379 | 728 | Tom Riefer |
 | 380 | 725 | Vonceial Boone |
 | 381 | 724 | goofinoff |
-| 382 | 724 | Dreamy Blast |
-| 383 | 724 | Melissa Holsinger |
+| 382 | 724 | Melissa Holsinger |
+| 383 | 724 | Dreamy Blast |
 | 384 | 722 | Arlene Joy Belicina |
 | 385 | 719 | Melissa Penelope Ann Dodge |
 | 386 | 715 | Denise Rickman |
@@ -443,8 +443,8 @@
 | 435 | 642 | Gary Stash |
 | 436 | 640 | Belle |
 | 437 | 640 | BYM4L |
-| 438 | 639 | Rebecca Miller |
-| 439 | 639 | Steven Marshaun |
+| 438 | 639 | Steven Marshaun |
+| 439 | 639 | Rebecca Miller |
 | 440 | 637 | Michelle Fields |
 | 441 | 637 | Mikayala Szaz |
 | 442 | 635 | Dennis McLaurin |
@@ -456,8 +456,8 @@
 | 448 | 623 | Kimberly Hope Howell |
 | 449 | 620 | Traci Johnson |
 | 450 | 620 | Brandon Armstrong |
-| 451 | 618 | Caitlyn Blackwell |
-| 452 | 618 | Vanessa Moreno |
+| 451 | 618 | Vanessa Moreno |
+| 452 | 618 | Caitlyn Blackwell |
 | 453 | 617 | Darcy Mae |
 | 454 | 617 | Nicole Cannon |
 | 455 | 615 | Julio A Laracuente |
@@ -503,8 +503,8 @@
 | 495 | 569 | Sparkles |
 | 496 | 567 | Snappy Matchbuilder |
 | 497 | 566 | Leah Keesling |
-| 498 | 565 | Blacc Blac |
-| 499 | 565 | Ann Knutson Anderson |
+| 498 | 565 | Ann Knutson Anderson |
+| 499 | 565 | Blacc Blac |
 | 500 | 564 | Koa N Sharon Chen |
 | 501 | 563 | Sarah Massey |
 | 502 | 563 | Frisky Clearpiece |
@@ -532,8 +532,8 @@
 | 524 | 537 | Sarah Berger |
 | 525 | 537 | Kori Beth Babb |
 | 526 | 535 | Belle Mari |
-| 527 | 535 | Maddy Petersen |
-| 528 | 535 | Anthony Huebel |
+| 527 | 535 | Anthony Huebel |
+| 528 | 535 | Maddy Petersen |
 | 529 | 533 | Davetta Sanford |
 | 530 | 531 | Briana Alexander |
 | 531 | 531 | Aishah Brice |
@@ -790,8 +790,8 @@
 | 782 | 383 | Savannah Alexander |
 | 783 | 382 | Amber Gray |
 | 784 | 382 | Alice Ball |
-| 785 | 382 | David Holliday |
-| 786 | 382 | Lively Edgepiece |
+| 785 | 382 | Lively Edgepiece |
+| 786 | 382 | David Holliday |
 | 787 | 381 | Maria Hammett |
 | 788 | 381 | Happy Caster |
 | 789 | 380 | Kelsey Sullivan |
@@ -1192,8 +1192,8 @@
 | 1184 | 269 | Brandy Boykin |
 | 1185 | 269 | John Carlin |
 | 1186 | 268 | Jana Stock |
-| 1187 | 268 | Kat |
-| 1188 | 268 | Crafty Climber |
+| 1187 | 268 | Crafty Climber |
+| 1188 | 268 | Kat |
 | 1189 | 267 | Renee Bowers |
 | 1190 | 267 | Sanaa Nounoussa |
 | 1191 | 267 | Wacky Cascade |

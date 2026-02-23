@@ -211,15 +211,15 @@
 | 203 | 270 | Mandyy Rae |
 | 204 | 269 | Amanda Jarnagin |
 | 205 | 268 | Reesey Enyart |
-| 206 | 267 | Debbie Kane |
-| 207 | 267 | Cody Gates |
+| 206 | 267 | Cody Gates |
+| 207 | 267 | Debbie Kane |
 | 208 | 265 | Kandae |
 | 209 | 264 | Jenny Gingrich Fuentes |
 | 210 | 264 | Jen Nystrom |
 | 211 | 263 | Jessie Lynn |
 | 212 | 260 | Cheeky Pop |
-| 213 | 256 | Standia Civil |
-| 214 | 256 | Chris65 |
+| 213 | 256 | Chris65 |
+| 214 | 256 | Standia Civil |
 | 215 | 255 | Speedy Liney |
 | 216 | 254 | Al Smith Jr |
 | 217 | 254 | Giggly Builderline |
@@ -237,8 +237,8 @@
 | 229 | 244 | Marianita Garcia |
 | 230 | 242 | ParisandCory Champagne |
 | 231 | 241 | Tyler Hertzog |
-| 232 | 240 | DaRascal |
-| 233 | 240 | Daring Fitclear |
+| 232 | 240 | Daring Fitclear |
+| 233 | 240 | DaRascal |
 | 234 | 239 | Lacy Wolfe |
 | 235 | 238 | Tiffany Smith |
 | 236 | 238 | Sarah Somers Gray |
@@ -296,8 +296,8 @@
 | 288 | 203 | Andrew Boone |
 | 289 | 203 | Spunky Builderpiece |
 | 290 | 202 | Amanda Holibaugh |
-| 291 | 201 | Beau Galvan |
-| 292 | 201 | Colleen Wise |
+| 291 | 201 | Colleen Wise |
+| 292 | 201 | Beau Galvan |
 | 293 | 200 | Silly Align |
 | 294 | 199 | Christina Norman |
 | 295 | 198 | Happy Snapbuild |
