@@ -201,8 +201,8 @@
 | 193 | 1567 | Juliana Marques Do Nascimento Gordy |
 | 194 | 1565 | Nancy Reid |
 | 195 | 1562 | Tony Lea |
-| 196 | 1558 | Tim Dyer |
-| 197 | 1558 | Crystal Slaughter |
+| 196 | 1558 | Crystal Slaughter |
+| 197 | 1558 | Tim Dyer |
 | 198 | 1552 | Cheeky Balancepiece |
 | 199 | 1534 | Rosa Franklin |
 | 200 | 1514 | Howard Forest |
@@ -331,8 +331,8 @@
 | 323 | 1073 | Jodi Blake |
 | 324 | 1072 | BK Queen |
 | 325 | 1072 | Kristin Gower |
-| 326 | 1071 | Nashu |
-| 327 | 1071 | Kim Dean |
+| 326 | 1071 | Kim Dean |
+| 327 | 1071 | Nashu |
 | 328 | 1067 | Caitlin Schmid |
 | 329 | 1066 | Em Chen |
 | 330 | 1065 | Dany Murillo |

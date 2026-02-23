@@ -119,8 +119,8 @@
 | 111 | 586 | Jessi Sauer |
 | 112 | 583 | Theo Pinnow |
 | 113 | 577 | Damon J. Martin |
-| 114 | 574 | Tiger Lily |
-| 115 | 574 | femmefatale |
+| 114 | 574 | femmefatale |
+| 115 | 574 | Tiger Lily |
 | 116 | 571 | Virginia Gray Floyd |
 | 117 | 570 | Cody Slav |
 | 118 | 558 | Jazzy Framezone |
@@ -171,8 +171,8 @@
 | 163 | 449 | Snappy Matcher |
 | 164 | 446 | SkipTheSadSauce |
 | 165 | 444 | Dandy Basegrid |
-| 166 | 440 | Kimmie Kimms |
-| 167 | 440 | Timothy Danaher |
+| 166 | 440 | Timothy Danaher |
+| 167 | 440 | Kimmie Kimms |
 | 168 | 434 | Yvonne Marie |
 | 169 | 432 | Lori Bales |
 | 170 | 428 | Amanda Jarnagin |
@@ -202,8 +202,8 @@
 | 194 | 391 | Monica Donato |
 | 195 | 390 | Elaine Elaine |
 | 196 | 387 | Carrie Smith |
-| 197 | 387 | Ananda Mendez |
-| 198 | 387 | Witty Builderfit |
+| 197 | 387 | Witty Builderfit |
+| 198 | 387 | Ananda Mendez |
 | 199 | 386 | Brian Spotts |
 | 200 | 385 | Debbie Kane |
 | 201 | 384 | Tami Luce Martin |

@@ -151,8 +151,8 @@
 | 143 | 520 | Zippy Block |
 | 144 | 518 | Carly Alexis |
 | 145 | 516 | Trish |
-| 146 | 514 | Lucas J Sutton |
-| 147 | 514 | Scott Jameson |
+| 146 | 514 | Scott Jameson |
+| 147 | 514 | Lucas J Sutton |
 | 148 | 513 | Erin Thomas |
 | 149 | 512 | Angela Srubar-Norman |
 | 150 | 512 | ThaEviLJeNiuZ |
@@ -251,8 +251,8 @@
 | 243 | 355 | Andrew Dang |
 | 244 | 354 | TRCuse |
 | 245 | 348 | David Lay |
-| 246 | 347 | Gdiguy |
-| 247 | 347 | Daria Rycewicz |
+| 246 | 347 | Daria Rycewicz |
+| 247 | 347 | Gdiguy |
 | 248 | 347 | Bio Nelly |
 | 249 | 347 | scott |
 | 250 | 347 | Hyper Builder |
@@ -300,8 +300,8 @@
 | 292 | 292 | Angel Raya |
 | 293 | 291 | Dizzy Matchzone |
 | 294 | 290 | Jared Gutwein |
-| 295 | 290 | Heather Bruce |
-| 296 | 290 | Neirrah B Olailjeel |
+| 295 | 290 | Neirrah B Olailjeel |
+| 296 | 290 | Heather Bruce |
 | 297 | 289 | Juls |
 | 298 | 288 | Brittney Orengo |
 | 299 | 287 | Kim Klutz Olson |

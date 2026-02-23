@@ -435,8 +435,8 @@
 | 427 | 306 | Jackie Miller |
 | 428 | 305 | Jack Bo |
 | 429 | 304 | _melisa223_ |
-| 430 | 304 | Ava Petito |
-| 431 | 304 | Stella |
+| 430 | 304 | Stella |
+| 431 | 304 | Ava Petito |
 | 432 | 302 | Jessica |
 | 433 | 302 | Willow |
 | 434 | 301 | Giggly Brickroll |
@@ -444,8 +444,8 @@
 | 436 | 299 | Hasty Gridpiece |
 | 437 | 299 | Antonia Russell |
 | 438 | 299 | Angie Harper |
-| 439 | 298 | Grams |
-| 440 | 298 | Dannie Litchard |
+| 439 | 298 | Dannie Litchard |
+| 440 | 298 | Grams |
 | 441 | 297 | Romeo |
 | 442 | 297 | Quirky Snapfit |
 | 443 | 296 | Amy Montz |
@@ -576,8 +576,8 @@
 | 568 | 241 | Jill Stickney |
 | 569 | 240 | Bambi Jones |
 | 570 | 240 | Rebel124 |
-| 571 | 239 | Ashley Parham |
-| 572 | 239 | Martin Bernier |
+| 571 | 239 | Martin Bernier |
+| 572 | 239 | Ashley Parham |
 | 573 | 238 | Jess Dearborn |
 | 574 | 237 | Bree Sexton |
 | 575 | 237 | Boldy Corner |
