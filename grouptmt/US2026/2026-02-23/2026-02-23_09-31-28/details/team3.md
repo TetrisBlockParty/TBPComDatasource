@@ -197,8 +197,8 @@
 | 189 | 546 | Cynthia Castros-Hampton |
 | 190 | 546 | Mykal Burton |
 | 191 | 540 | Shawn Miller |
-| 192 | 531 | Chauntee Alfrey-Cardinale |
-| 193 | 531 | Sarah Cowan Burgos |
+| 192 | 531 | Sarah Cowan Burgos |
+| 193 | 531 | Chauntee Alfrey-Cardinale |
 | 194 | 528 | Silly Twist |
 | 195 | 525 | Stephanie Blkpep Davidson |
 | 196 | 524 | Bmo |
@@ -424,12 +424,12 @@
 | 416 | 255 | Mariah Williams |
 | 417 | 254 | Blair Erin Waite |
 | 418 | 253 | crystal |
-| 419 | 253 | Jennifer Alvey |
-| 420 | 253 | Hyper Bridger |
-| 421 | 253 | Block Baddie |
-| 422 | 253 | Daring Builder |
-| 423 | 252 | Jl |
-| 424 | 252 | Josh Borquez |
+| 419 | 253 | Daring Builder |
+| 420 | 253 | Block Baddie |
+| 421 | 253 | Hyper Bridger |
+| 422 | 253 | Jennifer Alvey |
+| 423 | 252 | Josh Borquez |
+| 424 | 252 | Jl |
 | 425 | 251 | Colleen Phelps |
 | 426 | 250 | Dana Fox |
 | 427 | 249 | Willow |
@@ -516,8 +516,8 @@
 | 508 | 212 | Frilly Stackzone |
 | 509 | 211 | El Chapa |
 | 510 | 211 | Michael Pleasant |
-| 511 | 210 | Kristian Thurman |
-| 512 | 210 | Megan Riggins |
+| 511 | 210 | Megan Riggins |
+| 512 | 210 | Kristian Thurman |
 | 513 | 210 | Maia |
 | 514 | 209 | TazB |
 | 515 | 209 | Jonathn Poindexter |
@@ -526,8 +526,8 @@
 | 518 | 209 | Latoya Oneluv White |
 | 519 | 208 | Luccy Luxe |
 | 520 | 208 | Jessica Christian |
-| 521 | 207 | Nichol Graham |
-| 522 | 207 | Misstery |
+| 521 | 207 | Misstery |
+| 522 | 207 | Nichol Graham |
 | 523 | 206 | Tammy Rosenberry |
 | 524 | 206 | Dakota Graham |
 | 525 | 205 | Bouncy Blockbuilder |

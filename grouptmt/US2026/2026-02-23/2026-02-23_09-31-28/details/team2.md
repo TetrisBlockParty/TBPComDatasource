@@ -382,8 +382,8 @@
 | 374 | 829 | Angie Bolton Workman |
 | 375 | 828 | Kimmy Newman |
 | 376 | 825 | Jeremy Parodi |
-| 377 | 824 | Danielle Johnson-Chandler |
-| 378 | 824 | Khalil Lowe |
+| 377 | 824 | Khalil Lowe |
+| 378 | 824 | Danielle Johnson-Chandler |
 | 379 | 824 | Mandi Douglas Hilt |
 | 380 | 822 | Lola Contreras |
 | 381 | 821 | Cassie Mercer |
@@ -439,8 +439,8 @@
 | 431 | 751 | Breezy Filler |
 | 432 | 750 | Draizen Montrell Thomas |
 | 433 | 748 | Spunkysmom |
-| 434 | 748 | Ann Matzkanin |
-| 435 | 748 | Brenda Utphall |
+| 434 | 748 | Brenda Utphall |
+| 435 | 748 | Ann Matzkanin |
 | 436 | 746 | Leslie Ann Carter |
 | 437 | 742 | tejas25 |
 | 438 | 741 | Jánine Riggs |

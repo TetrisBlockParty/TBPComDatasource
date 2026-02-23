@@ -26,8 +26,8 @@
 | 18 | 1636 | Cassie Michaux |
 | 19 | 1565 | GreenJeepGirl |
 | 20 | 1558 | Leah Gorsuch |
-| 21 | 1536 | Misty Hollibaugh |
-| 22 | 1536 | Roger Coulter |
+| 21 | 1536 | Roger Coulter |
+| 22 | 1536 | Misty Hollibaugh |
 | 23 | 1485 | Juggalo |
 | 24 | 1390 | Sammy Noguera |
 | 25 | 1382 | Tammi Crnza |
@@ -62,8 +62,8 @@
 | 54 | 864 | Shelly Chandler |
 | 55 | 863 | Pee |
 | 56 | 859 | TeeJ |
-| 57 | 846 | Lucille Truesdale |
-| 58 | 846 | Christine Marie |
+| 57 | 846 | Christine Marie |
+| 58 | 846 | Lucille Truesdale |
 | 59 | 845 | LisaJo Picken Buchanan |
 | 60 | 834 | quicksand420 |
 | 61 | 811 | Ashley Ingram |
@@ -196,16 +196,16 @@
 | 188 | 349 | Rafael Valentin |
 | 189 | 348 | April Rondinone |
 | 190 | 348 | David Lay |
-| 191 | 347 | Daria Rycewicz |
-| 192 | 347 | Crystal Nicolette Moore |
+| 191 | 347 | Crystal Nicolette Moore |
+| 192 | 347 | Daria Rycewicz |
 | 193 | 346 | shark tato |
 | 194 | 337 | Sam Bishop |
 | 195 | 336 | JPW |
 | 196 | 336 | Bio Nelly |
 | 197 | 334 | Kris Bartlett |
 | 198 | 332 | HastyGrabber |
-| 199 | 330 | Kathy Brookins |
-| 200 | 330 | blockstar |
+| 199 | 330 | blockstar |
+| 200 | 330 | Kathy Brookins |
 | 201 | 328 | scott |
 | 202 | 327 | J-Rizzle |
 | 203 | 324 | jim |
@@ -267,8 +267,8 @@
 | 259 | 264 | ZeeZee |
 | 260 | 264 | Stella |
 | 261 | 263 | rebel4lyfe |
-| 262 | 262 | Selena Shaw |
-| 263 | 262 | BigSammy420 |
+| 262 | 262 | BigSammy420 |
+| 263 | 262 | Selena Shaw |
 | 264 | 261 | Zethra Prenisha Rahming |
 | 265 | 260 | Lori |
 | 266 | 260 | Carter Jones |

@@ -98,8 +98,8 @@
 | 90 | 575 | Nancy Green |
 | 91 | 570 | Cody Slav |
 | 92 | 562 | Denice Dee |
-| 93 | 534 | Loony Fitzone |
-| 94 | 534 | Veronica Eve |
+| 93 | 534 | Veronica Eve |
+| 94 | 534 | Loony Fitzone |
 | 95 | 529 | Ryan Lunnin |
 | 96 | 522 | Sarah Lombardo |
 | 97 | 511 | Mario Cab |
@@ -114,8 +114,8 @@
 | 106 | 491 | cc |
 | 107 | 489 | April Carroll |
 | 108 | 489 | Deanna L Hermanson |
-| 109 | 483 | Tdub |
-| 110 | 483 | Trina Gee |
+| 109 | 483 | Trina Gee |
+| 110 | 483 | Tdub |
 | 111 | 480 | Ty Brown |
 | 112 | 478 | Stephanie Zahn |
 | 113 | 477 | Tonya Beasley |
@@ -208,8 +208,8 @@
 | 200 | 324 | Rat666 |
 | 201 | 323 | Madison Wicks |
 | 202 | 322 | Letson Melissa |
-| 203 | 317 | Sarah Roberts |
-| 204 | 317 | Kimberly Garcia |
+| 203 | 317 | Kimberly Garcia |
+| 204 | 317 | Sarah Roberts |
 | 205 | 316 | Reesey Enyart |
 | 206 | 315 | Danielle Little-Daugherty |
 | 207 | 314 | Tana |
@@ -560,8 +560,8 @@
 | 552 | 135 | Giggly Rollfit |
 | 553 | 135 | Amanda Marie Sutton |
 | 554 | 134 | Angela Rena Brooks |
-| 555 | 133 | MayMay Echevarria |
-| 556 | 133 | Jason Cox |
+| 555 | 133 | Jason Cox |
+| 556 | 133 | MayMay Echevarria |
 | 557 | 132 | Angela Ellyson |
 | 558 | 132 | Mary Love |
 | 559 | 131 | Garrett Burket |
