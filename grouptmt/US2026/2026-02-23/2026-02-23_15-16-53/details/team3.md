@@ -137,8 +137,8 @@
 | 129 | 774 | Keith J Oshman Jr. |
 | 130 | 773 | Daira Largen |
 | 131 | 770 | Daryn Elliott |
-| 132 | 764 | Hasty Cascadefit |
-| 133 | 764 | Groovy Catcher |
+| 132 | 764 | Groovy Catcher |
+| 133 | 764 | Hasty Cascadefit |
 | 134 | 762 | Speedy Bridger |
 | 135 | 757 | Fancy Cascader |
 | 136 | 756 | Patty Allen |
@@ -175,8 +175,8 @@
 | 167 | 632 | Morgan Martinez |
 | 168 | 630 | yoyo |
 | 169 | 629 | rnr junky |
-| 170 | 621 | Sashay Tapae Simpson |
-| 171 | 621 | Cherry Parker |
+| 170 | 621 | Cherry Parker |
+| 171 | 621 | Sashay Tapae Simpson |
 | 172 | 616 | Kammy Hill |
 | 173 | 611 | Rochelle Hazelett |
 | 174 | 603 | Jone |
@@ -206,8 +206,8 @@
 | 198 | 549 | Sarah Cowan Burgos |
 | 199 | 548 | Danielle Balcom |
 | 200 | 547 | Staci George Fitzsimmons |
-| 201 | 546 | Cynthia Castros-Hampton |
-| 202 | 546 | Mykal Burton |
+| 201 | 546 | Mykal Burton |
+| 202 | 546 | Cynthia Castros-Hampton |
 | 203 | 543 | Silly Twist |
 | 204 | 540 | Shawn Miller |
 | 205 | 539 | Betty Bóò |
@@ -282,8 +282,8 @@
 | 274 | 412 | Jojo M |
 | 275 | 411 | Megan Rathmanner |
 | 276 | 410 | Duane Bright |
-| 277 | 408 | Marquita Sheard |
-| 278 | 408 | Tiffany Ford |
+| 277 | 408 | Tiffany Ford |
+| 278 | 408 | Marquita Sheard |
 | 279 | 406 | Kristal C Lee |
 | 280 | 405 | Steffi Chris Dacones |
 | 281 | 404 | Chasity |
@@ -312,8 +312,8 @@
 | 304 | 370 | Samantha Lynn |
 | 305 | 369 | Amber Glover |
 | 306 | 369 | Jennifer Alvey |
-| 307 | 368 | Stephanie Woods |
-| 308 | 368 | Sheila M Frazier |
+| 307 | 368 | Sheila M Frazier |
+| 308 | 368 | Stephanie Woods |
 | 309 | 365 | LaShey Thompson |
 | 310 | 362 | Foltz Lee Kelli |
 | 311 | 362 | Brandon Givens |

@@ -108,8 +108,8 @@
 | 100 | 664 | Nugget |
 | 101 | 659 | Jamie Gustafson |
 | 102 | 650 | KJ Pool |
-| 103 | 647 | KM8 |
-| 104 | 647 | Shauna Havard |
+| 103 | 647 | Shauna Havard |
+| 104 | 647 | KM8 |
 | 105 | 639 | Chris Hartig |
 | 106 | 637 | Lori Walker |
 | 107 | 635 | Adawna Swires |
@@ -242,10 +242,10 @@
 | 234 | 316 | Autumn Kumzi |
 | 235 | 314 | Lindsay Ball |
 | 236 | 313 | Milan Markeisha |
-| 237 | 312 | Jen Caldwell |
-| 238 | 312 | Dihcheese444 |
-| 239 | 311 | Nikki Rae Gordon |
-| 240 | 311 | Mary Ann Pabukis |
+| 237 | 312 | Dihcheese444 |
+| 238 | 312 | Jen Caldwell |
+| 239 | 311 | Mary Ann Pabukis |
+| 240 | 311 | Nikki Rae Gordon |
 | 241 | 311 | Jason Gibbs |
 | 242 | 310 | Stacey Stano |
 | 243 | 308 | Leah Kutz Zirbel |
@@ -362,9 +362,9 @@
 | 354 | 228 | Bethany Ison |
 | 355 | 227 | Maria Hammie |
 | 356 | 224 | Ultramarine |
-| 357 | 223 | Chance Strickland |
-| 358 | 223 | Brave Spinbuilder |
-| 359 | 223 | Gracie Ann Taylor |
+| 357 | 223 | Gracie Ann Taylor |
+| 358 | 223 | Chance Strickland |
+| 359 | 223 | Brave Spinbuilder |
 | 360 | 223 | Amanda Christine |
 | 361 | 222 | Brandi Durig |
 | 362 | 221 | Rheanda Weaskus |
@@ -372,8 +372,8 @@
 | 364 | 220 | Ziggy |
 | 365 | 220 | Kenna Gunderland |
 | 366 | 220 | Dustin York |
-| 367 | 219 | Orchislactea |
-| 368 | 219 | Shane Vick |
+| 367 | 219 | Shane Vick |
+| 368 | 219 | Orchislactea |
 | 369 | 218 | ĥuf |
 | 370 | 218 | Janita Parrish |
 | 371 | 217 | Paito |
@@ -383,8 +383,8 @@
 | 375 | 215 | Squeezy Pearsall |
 | 376 | 215 | 07VHVW |
 | 377 | 215 | Tanya Abernathy Jackson |
-| 378 | 214 | B Renee Desjardin |
-| 379 | 214 | Susan R. Wilson |
+| 378 | 214 | Susan R. Wilson |
+| 379 | 214 | B Renee Desjardin |
 | 380 | 214 | Patron Anderson |
 | 381 | 214 | Jim Hart |
 | 382 | 212 | Mike Solo |
@@ -685,8 +685,8 @@
 | 677 | 115 | Bonnie Hurlbrink |
 | 678 | 115 | Jayk |
 | 679 | 114 | Dan Wold |
-| 680 | 114 | Tammy Lewis |
-| 681 | 114 | Tiffany Tran |
+| 680 | 114 | Tiffany Tran |
+| 681 | 114 | Tammy Lewis |
 | 682 | 113 | Abigail Murphy |
 | 683 | 113 | Hog Crankin |
 | 684 | 112 | Ninaforever |
@@ -762,7 +762,7 @@
 | 754 | 102 | Saucy Stackbuilder |
 | 755 | 102 | Bryan Johnson |
 | 756 | 102 | k |
-| 757 | 102 | Bryan Johnson |
+| 757 | 102 | Blaze Butler |
 | 758 | 101 | Myra LaTrice |
 | 759 | 101 | Saulc1991 |
 | 760 | 101 | Kris Johnson |

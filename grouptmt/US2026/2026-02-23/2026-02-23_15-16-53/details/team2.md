@@ -185,8 +185,8 @@
 | 177 | 1580 | Sally Dennis |
 | 178 | 1567 | Juliana Marques Do Nascimento Gordy |
 | 179 | 1564 | Amy Sayers |
-| 180 | 1558 | Tim Dyer |
-| 181 | 1558 | Crystal Slaughter |
+| 180 | 1558 | Crystal Slaughter |
+| 181 | 1558 | Tim Dyer |
 | 182 | 1555 | blarg |
 | 183 | 1549 | Desiree Harris Rosch |
 | 184 | 1542 | Mo Shine On |
@@ -269,8 +269,8 @@
 | 261 | 1183 | Poppy Snap |
 | 262 | 1179 | Georgia Triblett |
 | 263 | 1171 | Loretta Brewer-Gage |
-| 264 | 1165 | Christina Wsn |
-| 265 | 1165 | Michelle Lee |
+| 264 | 1165 | Michelle Lee |
+| 265 | 1165 | Christina Wsn |
 | 266 | 1163 | Erika Densmore |
 | 267 | 1160 | Sarah Ridenour |
 | 268 | 1158 | Brittany Clark |
