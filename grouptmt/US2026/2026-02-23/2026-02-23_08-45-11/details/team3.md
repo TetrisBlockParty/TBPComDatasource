@@ -114,8 +114,8 @@
 | 106 | 869 | Araceli Parra |
 | 107 | 868 | Sarajane Lokan |
 | 108 | 860 | Sunny Rotater |
-| 109 | 851 | Jd Morris |
-| 110 | 851 | Danielle Becker |
+| 109 | 851 | Danielle Becker |
+| 110 | 851 | Jd Morris |
 | 111 | 850 | Danielle Mogg |
 | 112 | 848 | Patricia Gadsden |
 | 113 | 831 | Angeline Joseph |
@@ -130,8 +130,8 @@
 | 122 | 769 | Kristie |
 | 123 | 764 | Groovy Catcher |
 | 124 | 762 | Speedy Bridger |
-| 125 | 755 | Katrina Schroeder |
-| 126 | 755 | Raya |
+| 125 | 755 | Raya |
+| 126 | 755 | Katrina Schroeder |
 | 127 | 752 | Logan Naccarato |
 | 128 | 748 | Adrian Marcel Pate |
 | 129 | 745 | JerseyJess |
@@ -193,11 +193,11 @@
 | 185 | 553 | LaTanya GeminiondaRise Johnson |
 | 186 | 548 | Danielle Balcom |
 | 187 | 546 | Mykal Burton |
-| 188 | 546 | Cynthia Castros-Hampton |
-| 189 | 546 | Tasha Schriewer |
+| 188 | 546 | Tasha Schriewer |
+| 189 | 546 | Cynthia Castros-Hampton |
 | 190 | 540 | Shawn Miller |
-| 191 | 531 | Chauntee Alfrey-Cardinale |
-| 192 | 531 | Sarah Cowan Burgos |
+| 191 | 531 | Sarah Cowan Burgos |
+| 192 | 531 | Chauntee Alfrey-Cardinale |
 | 193 | 528 | Silly Twist |
 | 194 | 525 | Stephanie Blkpep Davidson |
 | 195 | 524 | Bmo |
@@ -291,8 +291,8 @@
 | 283 | 353 | Dee Franklin |
 | 284 | 353 | Cyd061769 |
 | 285 | 352 | Christian Werndl |
-| 286 | 351 | Blocked |
-| 287 | 351 | Eon Harris |
+| 286 | 351 | Eon Harris |
+| 287 | 351 | Blocked |
 | 288 | 350 | LaShey Thompson |
 | 289 | 349 | Amanda J. Mcneil-Anderson |
 | 290 | 348 | Ashley Raines |
@@ -364,22 +364,22 @@
 | 356 | 287 | Carol Cain Thurman |
 | 357 | 287 | Hoppy Patternline |
 | 358 | 284 | Hanna Kim |
-| 359 | 280 | ROODBOY |
-| 360 | 280 | Aerian Preston |
+| 359 | 280 | Aerian Preston |
+| 360 | 280 | ROODBOY |
 | 361 | 280 | Dirtgirl27 |
-| 362 | 279 | Naur |
-| 363 | 279 | Tosha Griffey |
+| 362 | 279 | Tosha Griffey |
+| 363 | 279 | Naur |
 | 364 | 278 | Rufus Lincoln |
-| 365 | 277 | France Vézina |
+| 365 | 277 | Ava Petito |
 | 366 | 277 | Krystal Gerstberger |
-| 367 | 277 | Ava Petito |
+| 367 | 277 | France Vézina |
 | 368 | 277 | Joe-Maggie Mathews |
 | 369 | 276 | Karent524 |
-| 370 | 276 | BugMansMom |
-| 371 | 276 | Heather De Vries Cobb |
+| 370 | 276 | Mikki Torres |
+| 371 | 276 | Crimson |
 | 372 | 276 | Noettín Kan Zasnemoore |
-| 373 | 276 | Mikki Torres |
-| 374 | 276 | Crimson |
+| 373 | 276 | BugMansMom |
+| 374 | 276 | Heather De Vries Cobb |
 | 375 | 275 | Michael Lucado |
 | 376 | 275 | Cassandra Bryant |
 | 377 | 274 | Mary Giorgenti |
@@ -393,8 +393,8 @@
 | 385 | 269 | Samantha Worley |
 | 386 | 269 | Jess Bissett |
 | 387 | 268 | Jessica Lynn French |
-| 388 | 267 | Jul |
-| 389 | 267 | April Matthew Kibble |
+| 388 | 267 | April Matthew Kibble |
+| 389 | 267 | Jul |
 | 390 | 267 | Michael Kimbro |
 | 391 | 266 | Sarah Muradyan |
 | 392 | 266 | Quirky Dropzone |
@@ -472,8 +472,8 @@
 | 464 | 230 | BigE |
 | 465 | 229 | MizzMonick Smith |
 | 466 | 229 | Everret Maxine |
-| 467 | 228 | Tipsy Zonebuilder |
-| 468 | 228 | Dapper Liney |
+| 467 | 228 | Dapper Liney |
+| 468 | 228 | Tipsy Zonebuilder |
 | 469 | 227 | Meowsa |
 | 470 | 226 | paranoid |
 | 471 | 226 | Ryan Williams |
@@ -495,11 +495,11 @@
 | 487 | 219 | TLM |
 | 488 | 219 | Trice Thomas |
 | 489 | 218 | Sabrina Mansfield |
-| 490 | 218 | Dapper Chiseler |
-| 491 | 218 | Tina Smith Roy |
+| 490 | 218 | Tina Smith Roy |
+| 491 | 218 | Dapper Chiseler |
 | 492 | 217 | Tia Moore |
-| 493 | 217 | Heather Bateman |
-| 494 | 217 | Katie Leigh Blankenship |
+| 493 | 217 | Katie Leigh Blankenship |
+| 494 | 217 | Heather Bateman |
 | 495 | 216 | Amanda Declue |
 | 496 | 214 | Crystal Hine |
 | 497 | 214 | Jumpy Curvebuilder |
