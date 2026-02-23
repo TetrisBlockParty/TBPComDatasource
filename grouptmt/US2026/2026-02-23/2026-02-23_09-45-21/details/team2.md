@@ -224,8 +224,8 @@
 | 216 | 1245 | Cody Nishimura |
 | 217 | 1240 | Brandon Armstrong |
 | 218 | 1237 | Megan Ferguson Leone |
-| 219 | 1232 | Ambyre Patterson |
-| 220 | 1232 | Groovy Puzzle |
+| 219 | 1232 | Groovy Puzzle |
+| 220 | 1232 | Ambyre Patterson |
 | 221 | 1230 | Megan Garrick |
 | 222 | 1221 | Jane Fong |
 | 223 | 1217 | Lucky Ladybug |
@@ -300,8 +300,8 @@
 | 292 | 1011 | Teresa Gillmore |
 | 293 | 1007 | Missie Lawson Gebhardt |
 | 294 | 1003 | Andrea Maher |
-| 295 | 998 | Shelley Thornburgh Wright |
-| 296 | 998 | Keri Womack |
+| 295 | 998 | Keri Womack |
+| 296 | 998 | Shelley Thornburgh Wright |
 | 297 | 996 | Ashie Ann |
 | 298 | 987 | Osun Anuket Esu |
 | 299 | 984 | Crystal Hoffman |
@@ -318,8 +318,8 @@
 | 310 | 969 | Boldy Cascadepiece |
 | 311 | 961 | Angela Lynn |
 | 312 | 959 | Phil J. Grombliniak |
-| 313 | 958 | Doowop40 |
-| 314 | 958 | Brenda Messer |
+| 313 | 958 | Brenda Messer |
+| 314 | 958 | Doowop40 |
 | 315 | 957 | Block Master |
 | 316 | 955 | Angela Bonquiqui Dinish |
 | 317 | 954 | Melissa McCall |

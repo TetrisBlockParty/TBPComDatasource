@@ -177,8 +177,8 @@
 | 169 | 595 | Nicole Myers |
 | 170 | 591 | Michael Nowogorski |
 | 171 | 587 | Louise Stacy Sisson |
-| 172 | 585 | Happy Tetriblast |
-| 173 | 585 | Annie Marie |
+| 172 | 585 | Annie Marie |
+| 173 | 585 | Happy Tetriblast |
 | 174 | 583 | Tasha Gillespie |
 | 175 | 582 | Natasha Jones |
 | 176 | 577 | Domo Washington |
@@ -378,8 +378,8 @@
 | 370 | 279 | Naur |
 | 371 | 279 | Tosha Griffey |
 | 372 | 278 | Rufus Lincoln |
-| 373 | 277 | Krystal Gerstberger |
-| 374 | 277 | France Vézina |
+| 373 | 277 | France Vézina |
+| 374 | 277 | Krystal Gerstberger |
 | 375 | 277 | Joe-Maggie Mathews |
 | 376 | 276 | Karent524 |
 | 377 | 276 | Noettín Kan Zasnemoore |
@@ -712,7 +712,7 @@
 | 704 | 159 | Giddy Basepiece |
 | 705 | 159 | Angela VanOstrand |
 | 706 | 159 | Wetwet |
-| 707 | 159 | Angela VanOstrand |
+| 707 | 159 | Robin LaChe |
 | 708 | 158 | Cameo Tweed |
 | 709 | 157 | Michelle Ramirez |
 | 710 | 157 | Angel Mendez |
@@ -757,8 +757,8 @@
 | 749 | 150 | Anastasia Williams |
 | 750 | 150 | demon14 |
 | 751 | 150 | Macaulay Logel |
-| 752 | 149 | Danette Marie |
-| 753 | 149 | Vikkye Vizaniaris |
+| 752 | 149 | Vikkye Vizaniaris |
+| 753 | 149 | Danette Marie |
 | 754 | 149 | Alexis Taylor |
 | 755 | 149 | Moneyvybz |
 | 756 | 149 | Timothy Townes |

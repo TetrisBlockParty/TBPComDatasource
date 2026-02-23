@@ -26,8 +26,8 @@
 | 18 | 1636 | Cassie Michaux |
 | 19 | 1565 | GreenJeepGirl |
 | 20 | 1558 | Leah Gorsuch |
-| 21 | 1536 | Misty Hollibaugh |
-| 22 | 1536 | Roger Coulter |
+| 21 | 1536 | Roger Coulter |
+| 22 | 1536 | Misty Hollibaugh |
 | 23 | 1485 | Juggalo |
 | 24 | 1390 | Sammy Noguera |
 | 25 | 1382 | Tammi Crnza |
@@ -75,8 +75,8 @@
 | 67 | 787 | Edward White |
 | 68 | 767 | Shannon Ferrari |
 | 69 | 766 | Robin Watters |
-| 70 | 765 | Robin Getchel |
-| 71 | 765 | Denise Carlson |
+| 70 | 765 | Denise Carlson |
+| 71 | 765 | Robin Getchel |
 | 72 | 753 | TheNeesh50 |
 | 73 | 752 | Shane Kalamata Platoon |
 | 74 | 749 | Dustee Craddock-Harrison |
@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | Shauna Havard |
-| 93 | 647 | KM8 |
+| 92 | 647 | KM8 |
+| 93 | 647 | Shauna Havard |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -162,8 +162,8 @@
 | 154 | 413 | Circuit8 |
 | 155 | 412 | Jessica Bohlken |
 | 156 | 408 | Amanda Pauldo-Ivy |
-| 157 | 406 | Damn Libra |
-| 158 | 406 | Livvy |
+| 157 | 406 | Livvy |
+| 158 | 406 | Damn Libra |
 | 159 | 403 | Keith Kelley |
 | 160 | 402 | Lucas J Sutton |
 | 161 | 398 | Tyler Terrific |
@@ -242,8 +242,8 @@
 | 234 | 288 | Brittney Orengo |
 | 235 | 285 | 030Synner |
 | 236 | 284 | Mimi |
-| 237 | 282 | Kim Klutz Olson |
-| 238 | 282 | Matt Gooder |
+| 237 | 282 | Matt Gooder |
+| 238 | 282 | Kim Klutz Olson |
 | 239 | 281 | Laura |
 | 240 | 280 | Rio Rocha |
 | 241 | 279 | Malakai Darien Fox |
@@ -251,7 +251,7 @@
 | 243 | 278 | Angela Geist Jusinski |
 | 244 | 276 | Joeliecea Cobb |
 | 245 | 276 | Matt Dell'Olio |
-| 246 | 276 | Joeliecea Cobb |
+| 246 | 276 | Cynthia Boudreau |
 | 247 | 275 | Kimberlee Jan Beckstead |
 | 248 | 273 | Cranky Rollpiece |
 | 249 | 272 | Dennis Bradley |
@@ -267,8 +267,8 @@
 | 259 | 264 | ZeeZee |
 | 260 | 264 | Stella |
 | 261 | 263 | rebel4lyfe |
-| 262 | 262 | Selena Shaw |
-| 263 | 262 | BigSammy420 |
+| 262 | 262 | BigSammy420 |
+| 263 | 262 | Selena Shaw |
 | 264 | 261 | Zethra Prenisha Rahming |
 | 265 | 260 | Carter Jones |
 | 266 | 260 | Lori |
@@ -567,10 +567,10 @@
 | 559 | 128 | Lazy Glidepiece |
 | 560 | 127 | Jay You |
 | 561 | 126 | Jennifer Renee |
-| 562 | 126 | PAPatty |
-| 563 | 126 | Spicy Cascadezone |
-| 564 | 125 | ImJustMe |
-| 565 | 125 | Kelly Adams Carnahan |
+| 562 | 126 | Spicy Cascadezone |
+| 563 | 126 | PAPatty |
+| 564 | 125 | Kelly Adams Carnahan |
+| 565 | 125 | ImJustMe |
 | 566 | 125 | Christina Nabrizny |
 | 567 | 124 | Laurel Coppess |
 | 568 | 124 | Atia Scott |
@@ -692,8 +692,8 @@
 | 684 | 103 | Courtney Angel |
 | 685 | 102 | Bryan Johnson |
 | 686 | 102 | Candice Carasiti |
-| 687 | 102 | Saucy Stackbuilder |
-| 688 | 102 | Bryan Johnson |
+| 687 | 102 | Dapper Caster |
+| 688 | 102 | Saucy Stackbuilder |
 | 689 | 102 | Jennifer Brown |
 | 690 | 102 | Blaze Butler |
 | 691 | 101 | Saulc1991 |
@@ -877,9 +877,9 @@
 | 869 | 76 | George Thomson Jr. |
 | 870 | 76 | Lisa Allen Frisk |
 | 871 | 76 | Albert Walker III |
-| 872 | 76 | Libby |
-| 873 | 76 | Jeannie Lee |
-| 874 | 76 | Ken Cheney |
+| 872 | 76 | Meli  Jackson |
+| 873 | 76 | Ken Cheney |
+| 874 | 76 | Jeannie Lee |
 | 875 | 76 | Nutty Lifter |
 | 876 | 75 | Jay-Remy Stringseer |
 | 877 | 75 | Dmpster Fire |
