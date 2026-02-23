@@ -40,8 +40,8 @@
 | 32 | 4199 | Claire Noland |
 | 33 | 4130 | Robert Diddle |
 | 34 | 4128 | Angela Pruitt |
-| 35 | 4120 | Corrine Hawks Soriano |
-| 36 | 4120 | Kristen Sceurman |
+| 35 | 4120 | Kristen Sceurman |
+| 36 | 4120 | Corrine Hawks Soriano |
 | 37 | 4033 | Jill Stroehlein |
 | 38 | 3895 | Nickie Baby |
 | 39 | 3770 | Brittany Alicia |
@@ -127,14 +127,14 @@
 | 119 | 1742 | Katrina Williams Balmir |
 | 120 | 1732 | Mindy Leigh Head |
 | 121 | 1699 | Jamie Main |
-| 122 | 1681 | Shandrica Lowe |
-| 123 | 1681 | Nett |
+| 122 | 1681 | Nett |
+| 123 | 1681 | Shandrica Lowe |
 | 124 | 1658 | Liberty |
-| 125 | 1656 | Kristopher Miller |
-| 126 | 1656 | Auntie B |
+| 125 | 1656 | Auntie B |
+| 126 | 1656 | Kristopher Miller |
 | 127 | 1644 | Luna |
-| 128 | 1639 | Karen Martini-Stapleton |
-| 129 | 1639 | Jessie McDougald |
+| 128 | 1639 | Jessie McDougald |
+| 129 | 1639 | Karen Martini-Stapleton |
 | 130 | 1632 | Qiana Sanders |
 | 131 | 1631 | Speedy Spinblock |
 | 132 | 1623 | Rebecca Doughman |
@@ -226,8 +226,8 @@
 | 218 | 1138 | Megan Ferguson Leone |
 | 219 | 1135 | Samantha Roberts |
 | 220 | 1131 | Prado |
-| 221 | 1127 | Catina Hutchison |
-| 222 | 1127 | Dee |
+| 221 | 1127 | Dee |
+| 222 | 1127 | Catina Hutchison |
 | 223 | 1126 | Dolores Russworn |
 | 224 | 1121 | Tommy Tha Boss Gunz |
 | 225 | 1117 | Sarah Freitas |
@@ -265,8 +265,8 @@
 | 257 | 1024 | Susan Perraut Jones |
 | 258 | 1024 | Taylor Phillips |
 | 259 | 1022 | Shannon Joslin |
-| 260 | 1011 | Teresa Gillmore |
-| 261 | 1011 | Glitzy Stackzone |
+| 260 | 1011 | Glitzy Stackzone |
+| 261 | 1011 | Teresa Gillmore |
 | 262 | 1003 | Andrea Maher |
 | 263 | 1002 | Foxxo |
 | 264 | 998 | Shelley Thornburgh Wright |
@@ -389,8 +389,8 @@
 | 381 | 748 | Brenda Utphall |
 | 382 | 748 | Stephanie Lumanlan |
 | 383 | 747 | Kiely Tomaskovich |
-| 384 | 746 | Jerilyn Andrina |
-| 385 | 746 | Leslie Ann Carter |
+| 384 | 746 | Leslie Ann Carter |
+| 385 | 746 | Jerilyn Andrina |
 | 386 | 744 | Mandi Douglas Hilt |
 | 387 | 743 | Tiara Elizabeth Baker |
 | 388 | 741 | Jánine Riggs |

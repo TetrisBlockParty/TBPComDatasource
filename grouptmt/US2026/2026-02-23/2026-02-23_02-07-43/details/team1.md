@@ -28,8 +28,8 @@
 | 20 | 1304 | Jennifer Cates |
 | 21 | 1276 | Izzie Ramirez-Ford |
 | 22 | 1236 | LaQuetta Faith Hines |
-| 23 | 1191 | Roger Aschbrenner |
-| 24 | 1191 | Nerdy Linkblock |
+| 23 | 1191 | Nerdy Linkblock |
+| 24 | 1191 | Roger Aschbrenner |
 | 25 | 1171 | Tyler Alcock |
 | 26 | 1136 | Rahna Underwood |
 | 27 | 1129 | Christina Graham |
@@ -193,8 +193,8 @@
 | 185 | 306 | Angela Renea Lester |
 | 186 | 306 | Bloknboy |
 | 187 | 304 | David Lutcher |
-| 188 | 303 | Letson Melissa |
-| 189 | 303 | ALFD |
+| 188 | 303 | ALFD |
+| 189 | 303 | Letson Melissa |
 | 190 | 302 | Erin Rosberg |
 | 191 | 301 | Damon J. Martin |
 | 192 | 296 | Cody Gates |

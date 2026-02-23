@@ -78,8 +78,8 @@
 | 70 | 736 | Carolyn Wallace |
 | 71 | 736 | Goatimus Lombardi |
 | 72 | 725 | Denise Carlson |
-| 73 | 704 | Crystal Carroll |
-| 74 | 704 | D3TROITB0RN74 |
+| 73 | 704 | D3TROITB0RN74 |
+| 74 | 704 | Crystal Carroll |
 | 75 | 697 | Alyssa Papen |
 | 76 | 684 | Jonathan Kimbrough |
 | 77 | 677 | TheNeesh50 |
@@ -463,7 +463,7 @@
 | 455 | 141 | Courtney Halleck |
 | 456 | 141 | Zach Kerbs |
 | 457 | 140 | Thomas Hettenhaus |
-| 458 | 140 | Shiny Fit |
+| 458 | 140 | Rico |
 | 459 | 140 | Sunny Filler |
 | 460 | 140 | Shiny Fit |
 | 461 | 139 | Ann G. Carrillo |
