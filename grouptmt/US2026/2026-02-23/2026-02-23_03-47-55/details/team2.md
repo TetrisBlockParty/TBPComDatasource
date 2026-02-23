@@ -556,8 +556,8 @@
 | 548 | 575 | Rae Rae |
 | 549 | 575 | Michael Artis |
 | 550 | 573 | Vaniel Glover |
-| 551 | 572 | Joseph Musick |
-| 552 | 572 | Rachael Senard |
+| 551 | 572 | Rachael Senard |
+| 552 | 572 | Joseph Musick |
 | 553 | 572 | Nerdy Pattern |
 | 554 | 572 | Alexandra Lynn |
 | 555 | 571 | Koa N Sharon Chen |
@@ -573,8 +573,8 @@
 | 565 | 563 | Frisky Clearpiece |
 | 566 | 562 | AISlop |
 | 567 | 560 | SwampRebel |
-| 568 | 559 | Slip |
-| 569 | 559 | Anthony Huebel |
+| 568 | 559 | Anthony Huebel |
+| 569 | 559 | Slip |
 | 570 | 558 | Libby Hicks |
 | 571 | 556 | Kacee Conrad Bock |
 | 572 | 554 | Party d |
@@ -605,10 +605,10 @@
 | 597 | 531 | Beth Decker |
 | 598 | 531 | Maricia Layolla Cason |
 | 599 | 529 | James Louie |
-| 600 | 528 | Mamachelle Eisweirth |
-| 601 | 528 | Kyle LeRoy Harris |
-| 602 | 527 | Heather M Purcell |
-| 603 | 527 | Ryan Gunther |
+| 600 | 528 | Kyle LeRoy Harris |
+| 601 | 528 | Mamachelle Eisweirth |
+| 602 | 527 | Ryan Gunther |
+| 603 | 527 | Heather M Purcell |
 | 604 | 525 | Kara Jennifer |
 | 605 | 524 | Wuntayk |
 | 606 | 523 | Audrey Jones |
@@ -680,7 +680,7 @@
 | 672 | 482 | RaeVan Worthington |
 | 673 | 481 | Jasmine Kenney |
 | 674 | 481 | Lucy Marshall |
-| 675 | 481 | Jasmine Kenney |
+| 675 | 481 | Austin Wilson |
 | 676 | 480 | Dar |
 | 677 | 479 | Emilie Desma |
 | 678 | 479 | Jason Garnatz |
@@ -729,16 +729,16 @@
 | 721 | 456 | Sabrina Burton |
 | 722 | 454 | ItsJennifer Neriss |
 | 723 | 453 | Polly Pritchard Chesler |
-| 724 | 453 | Epic Stackzone |
-| 725 | 453 | Ryan Chan |
+| 724 | 453 | Ryan Chan |
+| 725 | 453 | Epic Stackzone |
 | 726 | 452 | Ashley Taylor |
 | 727 | 452 | Cleo Sims |
 | 728 | 450 | sup |
 | 729 | 449 | Heather Sawtelle-Mckenzie |
 | 730 | 449 | Julie Hamilton |
 | 731 | 449 | Kristi Biddinger |
-| 732 | 448 | Anastacio Hernandez |
-| 733 | 448 | Ha Ab |
+| 732 | 448 | Ha Ab |
+| 733 | 448 | Anastacio Hernandez |
 | 734 | 448 | Darlene Bowman |
 | 735 | 448 | Leah LaShomb |
 | 736 | 448 | Miracle |
@@ -748,23 +748,23 @@
 | 740 | 445 | Mar Q Thomas |
 | 741 | 445 | Michelle Sager |
 | 742 | 445 | Sharon Mills |
-| 743 | 444 | Fi Ne |
-| 744 | 444 | Angela Murgia-Owen |
+| 743 | 444 | Angela Murgia-Owen |
+| 744 | 444 | Fi Ne |
 | 745 | 443 | Tipsy Filler |
 | 746 | 443 | Dimitra Zazara |
 | 747 | 443 | Giggy Grabber |
-| 748 | 442 | Juan Castillo |
-| 749 | 442 | Niceday |
+| 748 | 442 | Niceday |
+| 749 | 442 | Juan Castillo |
 | 750 | 441 | Goofy Catcher |
 | 751 | 439 | Sarah Sims |
 | 752 | 438 | Tom Steffen |
 | 753 | 438 | Deyawn Smith |
 | 754 | 438 | Lynda Toland |
 | 755 | 437 | Jason H Baker |
-| 756 | 437 | Shalisa Hill |
-| 757 | 437 | Oscar Bernie |
-| 758 | 436 | Stefanie Zonzini-Gagliardi |
-| 759 | 436 | Regina Knight |
+| 756 | 437 | Oscar Bernie |
+| 757 | 437 | Shalisa Hill |
+| 758 | 436 | Regina Knight |
+| 759 | 436 | Stefanie Zonzini-Gagliardi |
 | 760 | 435 | Taylor Flowers |
 | 761 | 435 | CupCake |
 | 762 | 435 | Joel Rosado |

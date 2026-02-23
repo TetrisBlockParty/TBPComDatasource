@@ -86,8 +86,8 @@
 | 78 | 704 | Crystal Carroll |
 | 79 | 703 | Savannah Overdorf |
 | 80 | 697 | Alyssa Papen |
-| 81 | 684 | Jonathan Kimbrough |
-| 82 | 684 | Kimyatta Cavin |
+| 81 | 684 | Kimyatta Cavin |
+| 82 | 684 | Jonathan Kimbrough |
 | 83 | 677 | Trista Leah |
 | 84 | 673 | Jacqueline Helm |
 | 85 | 664 | Valerie Roberts |
@@ -133,16 +133,16 @@
 | 125 | 452 | Jolly Dashfit |
 | 126 | 451 | Peachy Fall |
 | 127 | 448 | Kristin Manee |
-| 128 | 435 | Kristina Black |
-| 129 | 435 | Leslie Thomas |
+| 128 | 435 | Leslie Thomas |
+| 129 | 435 | Kristina Black |
 | 130 | 431 | Courtney Cicoria |
 | 131 | 425 | Monica Daley |
 | 132 | 423 | Austin Owens |
 | 133 | 421 | JIGsaw ~(•¿°)~ |
 | 134 | 421 | Kesha Brady |
 | 135 | 419 | Klo |
-| 136 | 418 | Marie-Pier Desjardins |
-| 137 | 418 | Lush Linkfall |
+| 136 | 418 | Lush Linkfall |
+| 137 | 418 | Marie-Pier Desjardins |
 | 138 | 416 | Chaz Duncan |
 | 139 | 414 | Nope Young |
 | 140 | 412 | Jessica Bohlken |
@@ -156,21 +156,21 @@
 | 148 | 393 | Girl |
 | 149 | 391 | Ramel Rhodes |
 | 150 | 389 | Joseph Guthrie |
-| 151 | 387 | Lucas J Sutton |
-| 152 | 387 | 🥔🥔 Spudz |
+| 151 | 387 | 🥔🥔 Spudz |
+| 152 | 387 | Lucas J Sutton |
 | 153 | 377 | Carrie Brian |
-| 154 | 375 | Desi Desporte |
-| 155 | 375 | ThaEviLJeNiuZ |
-| 156 | 374 | Guy Incognito |
-| 157 | 374 | Leslie Nicole |
+| 154 | 375 | ThaEviLJeNiuZ |
+| 155 | 375 | Desi Desporte |
+| 156 | 374 | Leslie Nicole |
+| 157 | 374 | Guy Incognito |
 | 158 | 373 | Tyler Terrific |
 | 159 | 370 | Oscar Alberto Perez |
-| 160 | 368 | Brandon Crabbs |
-| 161 | 368 | Silly Zonebuilder |
+| 160 | 368 | Silly Zonebuilder |
+| 161 | 368 | Brandon Crabbs |
 | 162 | 368 | Raegan Lane-Ross |
 | 163 | 365 | Lindsey Gonzalez |
-| 164 | 361 | Melissa Adams |
-| 165 | 361 | Danielle Kollias |
+| 164 | 361 | Danielle Kollias |
+| 165 | 361 | Melissa Adams |
 | 166 | 359 | Keith Kelley |
 | 167 | 358 | A5! |
 | 168 | 356 | George Nutt |
@@ -453,7 +453,7 @@
 | 445 | 150 | PennyCandee |
 | 446 | 150 | Kujuanna Hammon |
 | 447 | 150 | Moonsterix |
-| 448 | 150 | PennyCandee |
+| 448 | 150 | Jobadia Steelerton |
 | 449 | 149 | Reds Bella |
 | 450 | 149 | Melissa VanBourgondien |
 | 451 | 149 | Sallie Sanborn |

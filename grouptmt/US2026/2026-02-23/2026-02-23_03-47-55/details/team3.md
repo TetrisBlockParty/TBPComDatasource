@@ -95,8 +95,8 @@
 | 87 | 945 | Shonna Roberts |
 | 88 | 939 | Snappy Glidepiece |
 | 89 | 938 | Mandy Smith Oldham |
-| 90 | 926 | Angela M. Fletcher |
-| 91 | 926 | Judi Dobson |
+| 90 | 926 | Judi Dobson |
+| 91 | 926 | Angela M. Fletcher |
 | 92 | 923 | Christine Filson |
 | 93 | 921 | Michelle |
 | 94 | 918 | MissTaylor |
@@ -161,8 +161,8 @@
 | 153 | 595 | Rochelle Hazelett |
 | 154 | 588 | Justin Ritter |
 | 155 | 587 | Louise Stacy Sisson |
-| 156 | 585 | Annie Marie |
-| 157 | 585 | Happy Tetriblast |
+| 156 | 585 | Happy Tetriblast |
+| 157 | 585 | Annie Marie |
 | 158 | 582 | Natasha Jones |
 | 159 | 579 | Tasha Gillespie |
 | 160 | 577 | Domo Washington |
@@ -208,8 +208,8 @@
 | 200 | 465 | Annie Déè |
 | 201 | 461 | Shunta Jacobs |
 | 202 | 458 | Danielle Rhoades |
-| 203 | 457 | Jim Mathews |
-| 204 | 457 | Edwin Calvillo Jr. |
+| 203 | 457 | Edwin Calvillo Jr. |
+| 204 | 457 | Jim Mathews |
 | 205 | 453 | Staci George Fitzsimmons |
 | 206 | 452 | Tom Nault |
 | 207 | 452 | Connie Mohler-Fair |
@@ -370,8 +370,8 @@
 | 362 | 263 | Jimmie Clemons |
 | 363 | 263 | Erika Thornton |
 | 364 | 260 | Tracey Cox |
-| 365 | 259 | Alice |
-| 366 | 259 | Jessica Lynn French |
+| 365 | 259 | Jessica Lynn French |
+| 366 | 259 | Alice |
 | 367 | 259 | Dana Winters |
 | 368 | 258 | IamJust Neyamijah Washington Sr. |
 | 369 | 257 | Naur |
