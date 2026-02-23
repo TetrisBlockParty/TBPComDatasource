@@ -26,8 +26,8 @@
 | 18 | 1636 | Cassie Michaux |
 | 19 | 1565 | GreenJeepGirl |
 | 20 | 1558 | Leah Gorsuch |
-| 21 | 1536 | Roger Coulter |
-| 22 | 1536 | Misty Hollibaugh |
+| 21 | 1536 | Misty Hollibaugh |
+| 22 | 1536 | Roger Coulter |
 | 23 | 1485 | Juggalo |
 | 24 | 1390 | Sammy Noguera |
 | 25 | 1382 | Tammi Crnza |
@@ -55,8 +55,8 @@
 | 47 | 938 | Denny Shives |
 | 48 | 936 | Rebecca Moulton Pinciaro |
 | 49 | 932 | Marvin Lou Martin |
-| 50 | 911 | Jeremy Steines |
-| 51 | 911 | Anthony Bryan Riva |
+| 50 | 911 | Anthony Bryan Riva |
+| 51 | 911 | Jeremy Steines |
 | 52 | 870 | BertMofo |
 | 53 | 864 | Shelly Chandler |
 | 54 | 863 | Pee |
@@ -120,10 +120,10 @@
 | 112 | 528 | Rodney McMath Jr. |
 | 113 | 527 | Dizzy Tiley |
 | 114 | 519 | Nugget |
-| 115 | 517 | shar |
-| 116 | 517 | Christina LR |
-| 117 | 514 | Serena Goodridge |
-| 118 | 514 | Scott Jameson |
+| 115 | 517 | Christina LR |
+| 116 | 517 | shar |
+| 117 | 514 | Scott Jameson |
+| 118 | 514 | Serena Goodridge |
 | 119 | 513 | Erin Thomas |
 | 120 | 512 | Cristy Duerksen |
 | 121 | 512 | Casey Jeffcoat |
@@ -298,8 +298,8 @@
 | 290 | 229 | TinyLegoRose |
 | 291 | 228 | Bethany Ison |
 | 292 | 227 | Jason Bosco |
-| 293 | 226 | Nubian1 |
-| 294 | 226 | Dizzy Matchzone |
+| 293 | 226 | Dizzy Matchzone |
+| 294 | 226 | Nubian1 |
 | 295 | 225 | Ernest Maxwell |
 | 296 | 225 | Jenna McGeorge |
 | 297 | 224 | Ultramarine |
@@ -330,8 +330,8 @@
 | 322 | 212 | Zany Shatterer |
 | 323 | 211 | Chris Alexinas |
 | 324 | 210 | Ari Droff |
-| 325 | 209 | Marcus Todd |
-| 326 | 209 | Snippy Puzzle |
+| 325 | 209 | Snippy Puzzle |
+| 326 | 209 | Marcus Todd |
 | 327 | 208 | Heather Bruce |
 | 328 | 208 | Shukee Lo |
 | 329 | 207 | Squeezy Pearsall |
