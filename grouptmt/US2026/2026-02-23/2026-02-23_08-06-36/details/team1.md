@@ -200,8 +200,8 @@
 | 192 | 333 | Virginia Gray Floyd |
 | 193 | 332 | Happy Basegrid |
 | 194 | 328 | Snappy Matcher |
-| 195 | 325 | GringaLinga |
-| 196 | 325 | Jen Nystrom |
+| 195 | 325 | Jen Nystrom |
+| 196 | 325 | GringaLinga |
 | 197 | 324 | Rat666 |
 | 198 | 323 | Madison Wicks |
 | 199 | 322 | Letson Melissa |

@@ -66,18 +66,18 @@
 | 58 | 846 | Lucille Truesdale |
 | 59 | 845 | LisaJo Picken Buchanan |
 | 60 | 834 | quicksand420 |
-| 61 | 807 | Amelpss |
-| 62 | 807 | Rachel Anne |
+| 61 | 807 | Rachel Anne |
+| 62 | 807 | Amelpss |
 | 63 | 788 | Julian Garcia |
 | 64 | 787 | Edward White |
 | 65 | 783 | Ashley Ingram |
 | 66 | 781 | Chilly Line |
 | 67 | 767 | Shannon Ferrari |
 | 68 | 766 | Robin Watters |
-| 69 | 765 | Denise Carlson |
-| 70 | 765 | Robin Getchel |
-| 71 | 752 | Shane Kalamata Platoon |
-| 72 | 752 | loulou |
+| 69 | 765 | Robin Getchel |
+| 70 | 765 | Denise Carlson |
+| 71 | 752 | loulou |
+| 72 | 752 | Shane Kalamata Platoon |
 | 73 | 749 | Dustee Craddock-Harrison |
 | 74 | 742 | Carolyn Wallace |
 | 75 | 740 | Avy Absol |
@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Jonathan Kimbrough |
-| 84 | 684 | Kimyatta Cavin |
+| 83 | 684 | Kimyatta Cavin |
+| 84 | 684 | Jonathan Kimbrough |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -125,8 +125,8 @@
 | 117 | 514 | Serena Goodridge |
 | 118 | 514 | Scott Jameson |
 | 119 | 513 | Erin Thomas |
-| 120 | 512 | Cristy Duerksen |
-| 121 | 512 | Casey Jeffcoat |
+| 120 | 512 | Casey Jeffcoat |
+| 121 | 512 | Cristy Duerksen |
 | 122 | 511 | Lori Walker |
 | 123 | 509 | Leslie Nicole |
 | 124 | 482 | Ren Mc |
@@ -161,12 +161,12 @@
 | 153 | 413 | Circuit8 |
 | 154 | 412 | Jessica Bohlken |
 | 155 | 408 | Amanda Pauldo-Ivy |
-| 156 | 406 | Damn Libra |
-| 157 | 406 | Livvy |
+| 156 | 406 | Livvy |
+| 157 | 406 | Damn Libra |
 | 158 | 403 | Keith Kelley |
 | 159 | 398 | Tyler Terrific |
-| 160 | 393 | Girl |
-| 161 | 393 | Carlton Unfiltered |
+| 160 | 393 | Carlton Unfiltered |
+| 161 | 393 | Girl |
 | 162 | 391 | Ramel Rhodes |
 | 163 | 389 | Joseph Guthrie |
 | 164 | 387 | Lucas J Sutton |
@@ -248,11 +248,11 @@
 | 240 | 276 | Matt Dell'Olio |
 | 241 | 276 | Joeliecea Cobb |
 | 242 | 273 | Cranky Rollpiece |
-| 243 | 272 | Dennis Bradley |
-| 244 | 272 | Alan George LaRage |
+| 243 | 272 | Alan George LaRage |
+| 244 | 272 | Dennis Bradley |
 | 245 | 271 | Holly |
 | 246 | 270 | Jen Caldwell |
-| 247 | 266 | Nubian1 |
+| 247 | 266 | Tracey Lehmann |
 | 248 | 266 | Mr. Party |
 | 249 | 266 | Nubian1 |
 | 250 | 265 | Cynthia Boudreau |
@@ -296,8 +296,8 @@
 | 288 | 235 | Chair |
 | 289 | 235 | Shainne Brewer |
 | 290 | 234 | Richard-April Kice |
-| 291 | 233 | Joseph Edmonson |
-| 292 | 233 | Ruben Wheeler |
+| 291 | 233 | Ruben Wheeler |
+| 292 | 233 | Joseph Edmonson |
 | 293 | 231 | Angelito |
 | 294 | 229 | TinyLegoRose |
 | 295 | 228 | Bethany Ison |
@@ -320,11 +320,11 @@
 | 312 | 219 | Orchislactea |
 | 313 | 219 | Shane Vick |
 | 314 | 218 | Janita Parrish |
-| 315 | 217 | Cheery Fitline |
+| 315 | 217 | Alexandra Karavias |
 | 316 | 217 | Paito |
-| 317 | 217 | Alexandra Karavias |
-| 318 | 216 | Chantilly Laace |
-| 319 | 216 | mike |
+| 317 | 217 | Cheery Fitline |
+| 318 | 216 | mike |
+| 319 | 216 | Chantilly Laace |
 | 320 | 215 | Stephme310 |
 | 321 | 214 | Stacey Stano |
 | 322 | 214 | Patron Anderson |
@@ -464,11 +464,11 @@
 | 456 | 157 | David Boggs |
 | 457 | 156 | Funky Risepiece |
 | 458 | 156 | Mighty Edgepiece |
-| 459 | 155 | Shirl |
-| 460 | 155 | Faja |
+| 459 | 155 | Faja |
+| 460 | 155 | Shirl |
 | 461 | 155 | Sticherella |
-| 462 | 154 | Bryan Hodgins |
-| 463 | 154 | Happy Combo |
+| 462 | 154 | Happy Combo |
+| 463 | 154 | Bryan Hodgins |
 | 464 | 153 | icequeenx |
 | 465 | 152 | Michael Orris |
 | 466 | 152 | Vanessa Smart |
@@ -526,7 +526,7 @@
 | 518 | 138 | Shiny Pivoty |
 | 519 | 137 | April Spoelma |
 | 520 | 137 | Brianna Walker |
-| 521 | 136 | Tabitha Calvin |
+| 521 | 136 | Badatvs |
 | 522 | 136 | Zocko Ellet |
 | 523 | 136 | Tabitha Calvin |
 | 524 | 136 | Jennifer Perkins |
@@ -666,9 +666,9 @@
 | 658 | 106 | Nick Horn |
 | 659 | 106 | Cassandra Stewart |
 | 660 | 105 | Lakesha Johnson |
-| 661 | 105 | Jlmendillo |
-| 662 | 105 | Flavoredsausage |
-| 663 | 105 | MoP11 |
+| 661 | 105 | Flavoredsausage |
+| 662 | 105 | MoP11 |
+| 663 | 105 | Jlmendillo |
 | 664 | 104 | JoJo |
 | 665 | 103 | Morgan Patrick |
 | 666 | 103 | Eric Wren |
@@ -817,7 +817,7 @@
 | 809 | 83 | KyngKliff |
 | 810 | 83 | Pampam |
 | 811 | 82 | Jorge Hamoui |
-| 812 | 82 | Tara |
+| 812 | 82 | Steve |
 | 813 | 82 | Somnium Era |
 | 814 | 82 | Tara |
 | 815 | 82 | Krs |
@@ -829,7 +829,7 @@
 | 821 | 80 | Bubbly Setter |
 | 822 | 80 | juggernaut |
 | 823 | 80 | Angel Johnson |
-| 824 | 80 | Bold Towerpiece |
+| 824 | 80 | Rae Henderson |
 | 825 | 80 | Joey Riley |
 | 826 | 80 | Bold Towerpiece |
 | 827 | 79 | Giggy Bridgepiece |

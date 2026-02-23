@@ -44,8 +44,8 @@
 | 36 | 4199 | Claire Noland |
 | 37 | 4128 | Angela Pruitt |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Corrine Hawks Soriano |
-| 40 | 4120 | Kristen Sceurman |
+| 39 | 4120 | Kristen Sceurman |
+| 40 | 4120 | Corrine Hawks Soriano |
 | 41 | 3845 | jayjay |
 | 42 | 3813 | Devin Lee |
 | 43 | 3779 | Melinda Brown |
@@ -225,8 +225,8 @@
 | 217 | 1232 | Groovy Puzzle |
 | 218 | 1230 | Megan Garrick |
 | 219 | 1221 | Jane Fong |
-| 220 | 1217 | Lucky Ladybug |
-| 221 | 1217 | Brooks Brooks |
+| 220 | 1217 | Brooks Brooks |
+| 221 | 1217 | Lucky Ladybug |
 | 222 | 1214 | David Cudicio-Hayden |
 | 223 | 1213 | Pacynthia Williams |
 | 224 | 1211 | Ricardo Burton |
@@ -250,15 +250,15 @@
 | 242 | 1142 | Sheniya Spurgeon |
 | 243 | 1141 | Adam Erikson |
 | 244 | 1140 | Sarah Ridenour |
-| 245 | 1135 | Samantha Roberts |
-| 246 | 1135 | Chirpy Staggerpiece |
+| 245 | 1135 | Chirpy Staggerpiece |
+| 246 | 1135 | Samantha Roberts |
 | 247 | 1134 | Prado |
 | 248 | 1132 | Woodys Glass |
 | 249 | 1126 | Dolores Russworn |
 | 250 | 1121 | Tommy Tha Boss Gunz |
 | 251 | 1121 | Sarah Freitas |
-| 252 | 1114 | Kevin Walp |
-| 253 | 1114 | Ginnell Browner |
+| 252 | 1114 | Ginnell Browner |
+| 253 | 1114 | Kevin Walp |
 | 254 | 1111 | Julay |
 | 255 | 1110 | Robin Kerby |
 | 256 | 1106 | Ibiza Carolina LaRose |
@@ -377,8 +377,8 @@
 | 369 | 829 | Jessica Wayne Cornwall |
 | 370 | 828 | Kimmy Newman |
 | 371 | 825 | Jeremy Parodi |
-| 372 | 824 | Danielle Johnson-Chandler |
-| 373 | 824 | Khalil Lowe |
+| 372 | 824 | Khalil Lowe |
+| 373 | 824 | Danielle Johnson-Chandler |
 | 374 | 822 | KhaosLord |
 | 375 | 822 | Lola Contreras |
 | 376 | 821 | Angie Bolton Workman |
@@ -405,8 +405,8 @@
 | 397 | 788 | Erika Densmore |
 | 398 | 787 | Tiara Elizabeth Baker |
 | 399 | 783 | John Rodriguez |
-| 400 | 777 | Tesha Oldaker |
-| 401 | 777 | Jessicah Myers |
+| 400 | 777 | Jessicah Myers |
+| 401 | 777 | Tesha Oldaker |
 | 402 | 776 | Fancy Twister |
 | 403 | 776 | Mighty Spinbuilder |
 | 404 | 775 | Crystie Hicks |
@@ -425,8 +425,8 @@
 | 417 | 763 | Dreamy Blast |
 | 418 | 761 | Jerilyn Andrina |
 | 419 | 760 | Ashley Guernsey-Martin |
-| 420 | 760 | Cheech Dta |
-| 421 | 760 | Allan Wayne Lamia |
+| 420 | 760 | Allan Wayne Lamia |
+| 421 | 760 | Cheech Dta |
 | 422 | 760 | Andrew Willis |
 | 423 | 758 | Stephanie Neuburger |
 | 424 | 758 | Quirky Twistline |
@@ -561,11 +561,11 @@
 | 553 | 612 | Slinky Racker |
 | 554 | 610 | Michael Buckner |
 | 555 | 609 | Cecilia A Jenkins |
-| 556 | 609 | Autumn Schaeffer |
-| 557 | 609 | Smashanator |
+| 556 | 609 | Smashanator |
+| 557 | 609 | Autumn Schaeffer |
 | 558 | 608 | Marella Petilo |
-| 559 | 607 | Mo Shine On |
-| 560 | 607 | James Smith |
+| 559 | 607 | James Smith |
+| 560 | 607 | Mo Shine On |
 | 561 | 606 | Lea Stewart |
 | 562 | 605 | Jermaine Harris |
 | 563 | 604 | Rae Rae |
@@ -809,8 +809,8 @@
 | 801 | 447 | Boozi |
 | 802 | 446 | Colin Morgan |
 | 803 | 446 | Courtney Burcham |
-| 804 | 445 | Mar Q Thomas |
-| 805 | 445 | Beatboxxer |
+| 804 | 445 | Beatboxxer |
+| 805 | 445 | Mar Q Thomas |
 | 806 | 444 | Angela Murgia-Owen |
 | 807 | 443 | Giggy Grabber |
 | 808 | 443 | Dimitra Zazara |
