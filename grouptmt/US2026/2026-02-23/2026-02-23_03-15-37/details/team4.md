@@ -81,8 +81,8 @@
 | 73 | 736 | Goatimus Lombardi |
 | 74 | 725 | Denise Carlson |
 | 75 | 716 | TheNeesh50 |
-| 76 | 704 | D3TROITB0RN74 |
-| 77 | 704 | Crystal Carroll |
+| 76 | 704 | Crystal Carroll |
+| 77 | 704 | D3TROITB0RN74 |
 | 78 | 697 | Alyssa Papen |
 | 79 | 691 | Savannah Overdorf |
 | 80 | 691 | Lisa Davis |
@@ -216,8 +216,8 @@
 | 208 | 288 | Leah Kutz Zirbel |
 | 209 | 288 | Adam Stephanie Parker |
 | 210 | 287 | Plucky Patternblock |
-| 211 | 286 | Zesty Twistbuilder |
-| 212 | 286 | Sam Bishop |
+| 211 | 286 | Sam Bishop |
+| 212 | 286 | Zesty Twistbuilder |
 | 213 | 284 | Mimi |
 | 214 | 282 | Kim Klutz Olson |
 | 215 | 282 | Matt Gooder |
@@ -242,8 +242,8 @@
 | 234 | 262 | Selena Shaw |
 | 235 | 261 | JPW |
 | 236 | 260 | Carter Jones |
-| 237 | 259 | Montiette Mcglown |
-| 238 | 259 | Cheery Risebuilder |
+| 237 | 259 | Cheery Risebuilder |
+| 238 | 259 | Montiette Mcglown |
 | 239 | 257 | PeaceOs |
 | 240 | 256 | Mylo Lipscomb |
 | 241 | 253 | Autum Leigh |
@@ -292,8 +292,8 @@
 | 284 | 220 | TinyLegoRose |
 | 285 | 219 | Shane Vick |
 | 286 | 219 | Malakai Darien Fox |
-| 287 | 218 | Janita Parrish |
-| 288 | 218 | Steph Marie |
+| 287 | 218 | Steph Marie |
+| 288 | 218 | Janita Parrish |
 | 289 | 217 | Cheery Fitline |
 | 290 | 217 | Paito |
 | 291 | 216 | ZeeZee |

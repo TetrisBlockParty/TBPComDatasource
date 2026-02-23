@@ -97,8 +97,8 @@
 | 89 | 510 | Colena Davenport |
 | 90 | 501 | Nancy Green |
 | 91 | 500 | Evie Khalil |
-| 92 | 496 | Arianna O'Brien |
-| 93 | 496 | Sarah Lombardo |
+| 92 | 496 | Sarah Lombardo |
+| 93 | 496 | Arianna O'Brien |
 | 94 | 493 | Jennifer ManWarren |
 | 95 | 493 | MomMom |
 | 96 | 492 | Ash Galvan |

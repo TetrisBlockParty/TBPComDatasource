@@ -40,8 +40,8 @@
 | 32 | 4274 | Vistabrat |
 | 33 | 4199 | Claire Noland |
 | 34 | 4128 | Angela Pruitt |
-| 35 | 4120 | Kristen Sceurman |
-| 36 | 4120 | Corrine Hawks Soriano |
+| 35 | 4120 | Corrine Hawks Soriano |
+| 36 | 4120 | Kristen Sceurman |
 | 37 | 4093 | Jill Stroehlein |
 | 38 | 3895 | Nickie Baby |
 | 39 | 3778 | Brittany Alicia |
@@ -101,8 +101,8 @@
 | 93 | 2170 | Steve Grotto |
 | 94 | 2165 | Tj Ball |
 | 95 | 2155 | Qiana Sanders |
-| 96 | 2148 | ShinyRose |
-| 97 | 2148 | Roger Grabbit |
+| 96 | 2148 | Roger Grabbit |
+| 97 | 2148 | ShinyRose |
 | 98 | 2146 | KellyDyan |
 | 99 | 2106 | Cool Rollpiece |
 | 100 | 2103 | Alisha Peoples |
