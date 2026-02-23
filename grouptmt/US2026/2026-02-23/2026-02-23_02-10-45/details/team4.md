@@ -55,8 +55,8 @@
 | 47 | 860 | Jae Job |
 | 48 | 855 | Marvin Lou Martin |
 | 49 | 853 | TeeJ |
-| 50 | 846 | Lucille Truesdale |
-| 51 | 846 | Christine Marie |
+| 50 | 846 | Christine Marie |
+| 51 | 846 | Lucille Truesdale |
 | 52 | 845 | LisaJo Picken Buchanan |
 | 53 | 843 | Shelly Chandler |
 | 54 | 841 | Anthony Bryan Riva |
@@ -129,8 +129,8 @@
 | 121 | 471 | Chastity Mitchell |
 | 122 | 458 | Twisty Clicky |
 | 123 | 452 | Jolly Dashfit |
-| 124 | 451 | Angela Srubar-Norman |
-| 125 | 451 | Peachy Fall |
+| 124 | 451 | Peachy Fall |
+| 125 | 451 | Angela Srubar-Norman |
 | 126 | 448 | Kristin Manee |
 | 127 | 435 | Leslie Thomas |
 | 128 | 435 | Ren Mc |

@@ -260,8 +260,8 @@
 | 252 | 352 | Christian Werndl |
 | 253 | 351 | Eon Harris |
 | 254 | 349 | Amanda J. Mcneil-Anderson |
-| 255 | 347 | Rania Zaqout |
-| 256 | 347 | Philip Rock |
+| 255 | 347 | Philip Rock |
+| 256 | 347 | Rania Zaqout |
 | 257 | 346 | Tamara Deherrera |
 | 258 | 345 | Kelly |
 | 259 | 345 | Cyd061769 |
@@ -274,8 +274,8 @@
 | 266 | 339 | Cynthia Herrmann Egland |
 | 267 | 338 | Gumbo |
 | 268 | 336 | Jojo M |
-| 269 | 332 | Brittany |
-| 270 | 332 | Velma Mull |
+| 269 | 332 | Velma Mull |
+| 270 | 332 | Brittany |
 | 271 | 330 | victory |
 | 272 | 329 | Tye Stovall |
 | 273 | 329 | block chick |
