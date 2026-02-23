@@ -284,8 +284,8 @@
 | 276 | 338 | Gumbo |
 | 277 | 336 | Jojo M |
 | 278 | 335 | victory |
-| 279 | 332 | Velma Mull |
-| 280 | 332 | Brittany |
+| 279 | 332 | Brittany |
+| 280 | 332 | Velma Mull |
 | 281 | 331 | Gray Hicks |
 | 282 | 329 | Snazzy Filler |
 | 283 | 326 | Kerry Nowickshere |
@@ -309,8 +309,8 @@
 | 301 | 301 | Tiffany Davie |
 | 302 | 301 | Betty Rosas |
 | 303 | 299 | Angie Harper |
-| 304 | 298 | Grams |
-| 305 | 298 | LaShey Thompson |
+| 304 | 298 | LaShey Thompson |
+| 305 | 298 | Grams |
 | 306 | 297 | Cheeky Snapper |
 | 307 | 297 | kacihall |
 | 308 | 296 | Hasty Gridpiece |
@@ -320,8 +320,8 @@
 | 312 | 294 | fraulila |
 | 313 | 291 | Geoffrey Nash |
 | 314 | 289 | DidIdothat |
-| 315 | 287 | Carol Cain Thurman |
-| 316 | 287 | Sabrina Hardrick |
+| 315 | 287 | Sabrina Hardrick |
+| 316 | 287 | Carol Cain Thurman |
 | 317 | 287 | Hoppy Patternline |
 | 318 | 286 | Lizabeth Fox |
 | 319 | 286 | Micayah Stevens |
@@ -357,7 +357,7 @@
 | 349 | 272 | Todd Hall |
 | 350 | 272 | Tay |
 | 351 | 271 | Grego Daniel |
-| 352 | 269 | Samantha Worley |
+| 352 | 269 | Juliana Dottore |
 | 353 | 269 | Jess Bissett |
 | 354 | 269 | Samantha Worley |
 | 355 | 267 | Michael Kimbro |

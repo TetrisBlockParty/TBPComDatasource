@@ -145,8 +145,8 @@
 | 137 | 379 | Austin James |
 | 138 | 379 | Kimmie Kimms |
 | 139 | 376 | Brian Richardsson |
-| 140 | 375 | Tanya Carpenter-Reynolds |
-| 141 | 375 | Monica Donato |
+| 140 | 375 | Monica Donato |
+| 141 | 375 | Tanya Carpenter-Reynolds |
 | 142 | 371 | Jason Savage |
 | 143 | 368 | Tee Sheree |
 | 144 | 368 | Death |
@@ -200,10 +200,10 @@
 | 192 | 302 | Erin Rosberg |
 | 193 | 301 | Damon J. Martin |
 | 194 | 297 | Jen Nystrom |
-| 195 | 296 | Cody Gates |
-| 196 | 296 | Witty Builderfit |
-| 197 | 294 | Margo Wagner |
-| 198 | 294 | Bindi |
+| 195 | 296 | Witty Builderfit |
+| 196 | 296 | Cody Gates |
+| 197 | 294 | Bindi |
+| 198 | 294 | Margo Wagner |
 | 199 | 293 | John Kim |
 | 200 | 291 | Brave Wrecker |
 | 201 | 290 | Speedy Liney |
@@ -217,8 +217,8 @@
 | 209 | 282 | Sassy Builderline |
 | 210 | 282 | Timothy Dew |
 | 211 | 280 | Billie Dawn Sparks |
-| 212 | 279 | Bird Person |
-| 213 | 279 | Tana |
+| 212 | 279 | Tana |
+| 213 | 279 | Bird Person |
 | 214 | 278 | Amanda Jarnagin |
 | 215 | 277 | Sleepysloath5745 |
 | 216 | 277 | Melissa Lemmon |
@@ -231,8 +231,8 @@
 | 223 | 270 | Debbie Kane |
 | 224 | 268 | Reesey Enyart |
 | 225 | 265 | Kandae |
-| 226 | 264 | Standia Civil |
-| 227 | 264 | Jenny Gingrich Fuentes |
+| 226 | 264 | Jenny Gingrich Fuentes |
+| 227 | 264 | Standia Civil |
 | 228 | 263 | Jessie Lynn |
 | 229 | 261 | John J. Cronin |
 | 230 | 260 | Lacy Wolfe |
