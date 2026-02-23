@@ -68,13 +68,13 @@
 | 60 | 807 | Rachel Anne |
 | 61 | 803 | Amelpss |
 | 62 | 788 | Julian Garcia |
-| 63 | 781 | Ashley Ingram |
-| 64 | 781 | Chilly Line |
+| 63 | 781 | Chilly Line |
+| 64 | 781 | Ashley Ingram |
 | 65 | 767 | Shannon Ferrari |
 | 66 | 766 | Edward White |
 | 67 | 766 | Robin Watters |
-| 68 | 765 | Denise Carlson |
-| 69 | 765 | Robin Getchel |
+| 68 | 765 | Robin Getchel |
+| 69 | 765 | Denise Carlson |
 | 70 | 752 | loulou |
 | 71 | 749 | Dustee Craddock-Harrison |
 | 72 | 742 | Carolyn Wallace |
@@ -88,8 +88,8 @@
 | 80 | 697 | Alyssa Papen |
 | 81 | 696 | Shane Kalamata Platoon |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Kimyatta Cavin |
-| 84 | 684 | Jonathan Kimbrough |
+| 83 | 684 | Jonathan Kimbrough |
+| 84 | 684 | Kimyatta Cavin |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | KM8 |
-| 93 | 647 | Shauna Havard |
+| 92 | 647 | Shauna Havard |
+| 93 | 647 | KM8 |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -124,8 +124,8 @@
 | 116 | 514 | Scott Jameson |
 | 117 | 514 | Serena Goodridge |
 | 118 | 513 | Erin Thomas |
-| 119 | 512 | Cristy Duerksen |
-| 120 | 512 | Casey Jeffcoat |
+| 119 | 512 | Casey Jeffcoat |
+| 120 | 512 | Cristy Duerksen |
 | 121 | 511 | Lori Walker |
 | 122 | 482 | Ren Mc |
 | 123 | 481 | Jessica Lynn Cutlip |
@@ -182,8 +182,8 @@
 | 174 | 356 | George Nutt |
 | 175 | 354 | TRCuse |
 | 176 | 352 | Sue Joyce Staats |
-| 177 | 349 | Twisty Cascadezone |
-| 178 | 349 | Rafael Valentin |
+| 177 | 349 | Rafael Valentin |
+| 178 | 349 | Twisty Cascadezone |
 | 179 | 348 | April Rondinone |
 | 180 | 347 | Daria Rycewicz |
 | 181 | 347 | Crystal Nicolette Moore |
@@ -208,16 +208,16 @@
 | 200 | 307 | Cheery Risebuilder |
 | 201 | 307 | Michele Plunkett |
 | 202 | 306 | blockstar |
-| 203 | 305 | Sam Bishop |
-| 204 | 305 | Melvin Baird |
+| 203 | 305 | Melvin Baird |
+| 204 | 305 | Sam Bishop |
 | 205 | 304 | Lindsay Ball |
 | 206 | 303 | Dihcheese444 |
 | 207 | 301 | Andria Lynn |
 | 208 | 300 | Dana Scott |
 | 209 | 300 | Zakia Monae |
 | 210 | 295 | Keshia Lyons |
-| 211 | 294 | Porkobello |
-| 212 | 294 | Calvin Cannon |
+| 211 | 294 | Calvin Cannon |
+| 212 | 294 | Porkobello |
 | 213 | 292 | Epic Curvetile |
 | 214 | 290 | Plucky Patternblock |
 | 215 | 290 | Rebecca Morris |
@@ -349,8 +349,8 @@
 | 341 | 192 | Twisty Risebuilder |
 | 342 | 192 | Meg |
 | 343 | 191 | Michelle Morris |
-| 344 | 191 | Norman Klick |
-| 345 | 191 | Earnest Thompson |
+| 344 | 191 | Earnest Thompson |
+| 345 | 191 | Norman Klick |
 | 346 | 190 | wombat |
 | 347 | 189 | Berklie Apedaile |
 | 348 | 189 | Cool Towerbuilder |
@@ -412,9 +412,9 @@
 | 404 | 169 | Dante Korleon |
 | 405 | 169 | Jessica Atkinson |
 | 406 | 168 | Ruby Khalisadar |
-| 407 | 167 | Carla Harris |
-| 408 | 167 | Snippy Clearer |
-| 409 | 167 | Tyler Bechtel |
+| 407 | 167 | Snippy Clearer |
+| 408 | 167 | Tyler Bechtel |
+| 409 | 167 | Carla Harris |
 | 410 | 166 | Gracie Ann Taylor |
 | 411 | 166 | Reds Bella |
 | 412 | 165 | Zappy Buildgrid |

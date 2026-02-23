@@ -17,8 +17,8 @@
 | 9 | 9303 | yeap |
 | 10 | 9005 | Elizabeth Hinkens |
 | 11 | 8614 | Taylana Mincy |
-| 12 | 8268 | Cool Snapclear |
-| 13 | 8073 | Anthony G. Young |
+| 12 | 8073 | Anthony G. Young |
+| 13 | 8056 | Cool Snapclear |
 | 14 | 7597 | Diane Chenevert Shoemaker |
 | 15 | 6902 | Venechia Berry |
 | 16 | 6886 | Kyle Saunders |
@@ -93,8 +93,8 @@
 | 85 | 2515 | Crystalin Heath Lewis |
 | 86 | 2500 | Rosemadder |
 | 87 | 2438 | Rob Surace |
-| 88 | 2428 | Thomas Hughes |
-| 89 | 2428 | Deanna Morton |
+| 88 | 2428 | Deanna Morton |
+| 89 | 2428 | Thomas Hughes |
 | 90 | 2410 | RdRydnHd |
 | 91 | 2400 | Rich Sullivan |
 | 92 | 2375 | Megan Peckham |
@@ -216,8 +216,8 @@
 | 208 | 1252 | Angel |
 | 209 | 1245 | Cody Nishimura |
 | 210 | 1237 | Megan Ferguson Leone |
-| 211 | 1232 | Groovy Puzzle |
-| 212 | 1232 | Ambyre Patterson |
+| 211 | 1232 | Ambyre Patterson |
+| 212 | 1232 | Groovy Puzzle |
 | 213 | 1232 | Brandon Armstrong |
 | 214 | 1230 | Megan Garrick |
 | 215 | 1217 | Lucky Ladybug |
@@ -393,9 +393,9 @@
 | 385 | 796 | AndrewandShela Gornik |
 | 386 | 796 | Amber Gray |
 | 387 | 793 | Heather Schelkopf |
-| 388 | 793 | Arlene Joy Belicina |
-| 389 | 793 | Jaycee |
-| 390 | 793 | Ashley Dow |
+| 388 | 793 | Ashley Dow |
+| 389 | 793 | Arlene Joy Belicina |
+| 390 | 793 | Jaycee |
 | 391 | 790 | Kathryn Townsley |
 | 392 | 790 | Brenda Pierpoint |
 | 393 | 788 | Erika Densmore |
@@ -517,8 +517,8 @@
 | 509 | 642 | Cassie Maynard |
 | 510 | 642 | Michelle Fields |
 | 511 | 640 | Belle |
-| 512 | 639 | Rebecca Miller |
-| 513 | 639 | Alexandra Weir |
+| 512 | 639 | Alexandra Weir |
+| 513 | 639 | Rebecca Miller |
 | 514 | 639 | Jackie Avila |
 | 515 | 639 | Toni Roberson |
 | 516 | 637 | Shinette Dobson |
@@ -534,11 +534,11 @@
 | 526 | 620 | Brenna Ann |
 | 527 | 619 | Lylymom |
 | 528 | 618 | Vanessa Moreno |
-| 529 | 617 | Kacee Conrad Bock |
-| 530 | 617 | Darcy Mae |
+| 529 | 617 | Darcy Mae |
+| 530 | 617 | Kacee Conrad Bock |
 | 531 | 615 | Nerdy Pattern |
-| 532 | 615 | Lyndi Robinson Wakefield |
-| 533 | 615 | Julio A Laracuente |
+| 532 | 615 | Julio A Laracuente |
+| 533 | 615 | Lyndi Robinson Wakefield |
 | 534 | 614 | Emilee Burke |
 | 535 | 614 | Jessica S Flecha |
 | 536 | 613 | Biggest thing |

@@ -106,8 +106,8 @@
 | 98 | 510 | Chirpy Smasher |
 | 99 | 509 | Rachael |
 | 100 | 497 | Arianna O'Brien |
-| 101 | 493 | Jennifer ManWarren |
-| 102 | 493 | MomMom |
+| 101 | 493 | MomMom |
+| 102 | 493 | Jennifer ManWarren |
 | 103 | 492 | Ash Galvan |
 | 104 | 491 | cc |
 | 105 | 489 | April Carroll |
@@ -233,14 +233,14 @@
 | 225 | 282 | Mandyy Rae |
 | 226 | 281 | Clever Cascadepiece |
 | 227 | 280 | Billie Dawn Sparks |
-| 228 | 277 | Nutty Spinblock |
-| 229 | 277 | Melissa Lemmon |
+| 228 | 277 | Melissa Lemmon |
+| 229 | 277 | Nutty Spinblock |
 | 230 | 275 | Cheeky Pop |
 | 231 | 275 | Chris65 |
 | 232 | 274 | Lakeisha Chapman |
 | 233 | 273 | Shannon Marie Pitts |
-| 234 | 271 | Sam Williams |
-| 235 | 271 | Frothy Pattern |
+| 234 | 271 | Frothy Pattern |
+| 235 | 271 | Sam Williams |
 | 236 | 270 | Debbie Kane |
 | 237 | 268 | Standia Civil |
 | 238 | 267 | Daring Fitclear |
