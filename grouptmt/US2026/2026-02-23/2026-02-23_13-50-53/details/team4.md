@@ -67,17 +67,17 @@
 | 59 | 872 | Shelly Chandler |
 | 60 | 871 | Pee |
 | 61 | 870 | BertMofo |
-| 62 | 846 | Christine Marie |
-| 63 | 846 | Lucille Truesdale |
+| 62 | 846 | Lucille Truesdale |
+| 63 | 846 | Christine Marie |
 | 64 | 834 | quicksand420 |
 | 65 | 827 | Avy Absol |
 | 66 | 807 | Amelpss |
 | 67 | 807 | Rachel Anne |
 | 68 | 802 | Crystal Carroll |
-| 69 | 788 | Julian Garcia |
-| 70 | 788 | Chilly Line |
-| 71 | 787 | loulou |
-| 72 | 787 | Edward White |
+| 69 | 788 | Chilly Line |
+| 70 | 788 | Julian Garcia |
+| 71 | 787 | Edward White |
+| 72 | 787 | loulou |
 | 73 | 768 | Judy Cox |
 | 74 | 767 | Shannon Ferrari |
 | 75 | 766 | Robin Watters |

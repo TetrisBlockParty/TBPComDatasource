@@ -119,8 +119,8 @@
 | 111 | 869 | Araceli Parra |
 | 112 | 868 | Sarajane Lokan |
 | 113 | 860 | Sunny Rotater |
-| 114 | 851 | Jd Morris |
-| 115 | 851 | Danielle Becker |
+| 114 | 851 | Danielle Becker |
+| 115 | 851 | Jd Morris |
 | 116 | 850 | Danielle Mogg |
 | 117 | 848 | Patricia Gadsden |
 | 118 | 839 | Angeline Joseph |
@@ -133,8 +133,8 @@
 | 125 | 779 | Justin Ritter |
 | 126 | 774 | Keith J Oshman Jr. |
 | 127 | 773 | Daira Largen |
-| 128 | 764 | Groovy Catcher |
-| 129 | 764 | Hasty Cascadefit |
+| 128 | 764 | Hasty Cascadefit |
+| 129 | 764 | Groovy Catcher |
 | 130 | 762 | Speedy Bridger |
 | 131 | 761 | JerseyJess |
 | 132 | 757 | Fancy Cascader |
@@ -180,8 +180,8 @@
 | 172 | 602 | Jacqueline Rodriguez |
 | 173 | 599 | opf |
 | 174 | 598 | Makelini Mausia |
-| 175 | 597 | CeceGeGe |
-| 176 | 597 | Diana Ibarra |
+| 175 | 597 | Diana Ibarra |
+| 176 | 597 | CeceGeGe |
 | 177 | 591 | Michael Nowogorski |
 | 178 | 589 | Kaycee Kay |
 | 179 | 587 | Louise Stacy Sisson |
@@ -324,8 +324,8 @@
 | 316 | 352 | LadyTorad |
 | 317 | 351 | Blocked |
 | 318 | 351 | Eon Harris |
-| 319 | 349 | Amanda J. Mcneil-Anderson |
-| 320 | 349 | Num1hater |
+| 319 | 349 | Num1hater |
+| 320 | 349 | Amanda J. Mcneil-Anderson |
 | 321 | 348 | Ashley Raines |
 | 322 | 346 | Chummy Rumbler |
 | 323 | 345 | gremicx |
@@ -402,8 +402,8 @@
 | 394 | 289 | DidIdothat |
 | 395 | 289 | Cheryl Hinch Tenbrook |
 | 396 | 288 | Kristi Taylor |
-| 397 | 288 | Hoppy Patternline |
-| 398 | 288 | Stephanie Bradley |
+| 397 | 288 | Stephanie Bradley |
+| 398 | 288 | Hoppy Patternline |
 | 399 | 287 | Carol Cain Thurman |
 | 400 | 285 | Heather De Vries Cobb |
 | 401 | 284 | Hanna Kim |
@@ -603,7 +603,7 @@
 | 595 | 199 | PrncssPJ |
 | 596 | 199 | Morgan Cudo |
 | 597 | 199 | Sunny Lift |
-| 598 | 198 | toony |
+| 598 | 198 | xsiv |
 | 599 | 198 | Jodi Kaczynski-O'Dowd |
 | 600 | 198 | toony |
 | 601 | 197 | Monnie Parra |
