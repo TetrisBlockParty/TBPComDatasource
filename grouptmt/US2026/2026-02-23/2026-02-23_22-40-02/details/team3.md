@@ -294,8 +294,8 @@
 | 286 | 471 | Mendoza Lee Christy |
 | 287 | 470 | thekey |
 | 288 | 468 | Sarah Moyer |
-| 289 | 464 | Noyb Adam |
-| 290 | 464 | Danielle Weikel |
+| 289 | 464 | Danielle Weikel |
+| 290 | 464 | Noyb Adam |
 | 291 | 462 | Sleepy |
 | 292 | 461 | Tom Nault |
 | 293 | 461 | LaShey Thompson |
@@ -305,8 +305,8 @@
 | 297 | 455 | Megan Rathmanner |
 | 298 | 451 | Charles Perrone |
 | 299 | 450 | Antonia Russell |
-| 300 | 449 | Mcathen |
-| 301 | 449 | Stefanie LaPointe |
+| 300 | 449 | Stefanie LaPointe |
+| 301 | 449 | Mcathen |
 | 302 | 448 | Scott Carleton |
 | 303 | 443 | Randy Clevenger |
 | 304 | 438 | Betty Rosas |
@@ -660,7 +660,7 @@
 | 652 | 233 | Katrina E Jelks |
 | 653 | 233 | Anna Moeller |
 | 654 | 233 | Snippy Brickster |
-| 655 | 233 | Anna Moeller |
+| 655 | 233 | Criss |
 | 656 | 232 | Bhreagh Gentile |
 | 657 | 232 | Sunny Tiltgrid |
 | 658 | 232 | Stephanie Hill |

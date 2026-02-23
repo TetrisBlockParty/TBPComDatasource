@@ -165,8 +165,8 @@
 | 157 | 516 | Trish |
 | 158 | 516 | Twisty Clicky |
 | 159 | 514 | Scott Jameson |
-| 160 | 513 | Jessica Lynn Cutlip |
-| 161 | 513 | Erin Thomas |
+| 160 | 513 | Erin Thomas |
+| 161 | 513 | Jessica Lynn Cutlip |
 | 162 | 512 | ThaEviLJeNiuZ |
 | 163 | 512 | Angela Srubar-Norman |
 | 164 | 512 | Casey Jeffcoat |
@@ -195,8 +195,8 @@
 | 187 | 465 | Jolly Dashfit |
 | 188 | 464 | Sharyn Lemire |
 | 189 | 462 | Leslie Thomas |
-| 190 | 457 | June Hoffman |
-| 191 | 457 | Kristin Manee |
+| 190 | 457 | Kristin Manee |
+| 191 | 457 | June Hoffman |
 | 192 | 455 | Michele Plunkett |
 | 193 | 450 | Amanda Pauldo-Ivy |
 | 194 | 449 | Courtney Cicoria |
@@ -309,10 +309,10 @@
 | 301 | 307 | Kim Klutz Olson |
 | 302 | 306 | PeaceOs |
 | 303 | 305 | Sassy Pattern |
-| 304 | 305 | Kenna Gunderland |
-| 305 | 305 | Megan Cutshaw |
-| 306 | 300 | Kate |
-| 307 | 300 | Dana Scott |
+| 304 | 305 | Megan Cutshaw |
+| 305 | 305 | Kenna Gunderland |
+| 306 | 300 | Dana Scott |
+| 307 | 300 | Kate |
 | 308 | 296 | Sarah Hoffman |
 | 309 | 295 | Cool Gridzone |
 | 310 | 294 | BootsMcGee |
@@ -353,8 +353,8 @@
 | 345 | 276 | Susan Williams |
 | 346 | 275 | meowmew |
 | 347 | 274 | Jenna McGeorge |
-| 348 | 272 | Dennis Bradley |
-| 349 | 272 | Tony Pavelka |
+| 348 | 272 | Tony Pavelka |
+| 349 | 272 | Dennis Bradley |
 | 350 | 271 | Holly |
 | 351 | 270 | 07VHVW |
 | 352 | 270 | 23 |
