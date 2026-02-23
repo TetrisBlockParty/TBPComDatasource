@@ -113,8 +113,8 @@
 | 105 | 673 | Jacqueline Helm |
 | 106 | 667 | Amy Suckarieh |
 | 107 | 659 | Jamie Gustafson |
-| 108 | 658 | Zippy Gridlock |
-| 109 | 658 | Girl |
+| 108 | 658 | Girl |
+| 109 | 658 | Zippy Gridlock |
 | 110 | 657 | Lori Walker |
 | 111 | 652 | Leslie Nicole |
 | 112 | 647 | KM8 |
@@ -142,8 +142,8 @@
 | 134 | 545 | Desi Desporte |
 | 135 | 542 | Austin Owens |
 | 136 | 540 | Rodney McMath Jr. |
-| 137 | 538 | Carlos Ramirez |
-| 138 | 538 | shar |
+| 137 | 538 | shar |
+| 138 | 538 | Carlos Ramirez |
 | 139 | 531 | Serena Goodridge |
 | 140 | 529 | Cool Towerbuilder |
 | 141 | 528 | Kimberlee Jan Beckstead |
@@ -283,10 +283,10 @@
 | 275 | 307 | Angie Schmidt |
 | 276 | 307 | Tina Lopez |
 | 277 | 306 | PeaceOs |
-| 278 | 306 | Lora |
-| 279 | 306 | mike |
-| 280 | 304 | Joanna |
-| 281 | 304 | Shiny Fit |
+| 278 | 306 | mike |
+| 279 | 306 | Lora |
+| 280 | 304 | Shiny Fit |
+| 281 | 304 | Joanna |
 | 282 | 301 | Erin Sabol |
 | 283 | 300 | Dana Scott |
 | 284 | 297 | Kenna Gunderland |
@@ -298,8 +298,8 @@
 | 290 | 291 | Hyper Builder |
 | 291 | 291 | Dizzy Matchzone |
 | 292 | 290 | Jared Gutwein |
-| 293 | 290 | Heather Bruce |
-| 294 | 290 | Neirrah B Olailjeel |
+| 293 | 290 | Neirrah B Olailjeel |
+| 294 | 290 | Heather Bruce |
 | 295 | 289 | Juls |
 | 296 | 288 | Brittney Orengo |
 | 297 | 287 | Kim Klutz Olson |
@@ -317,10 +317,10 @@
 | 309 | 276 | Silly SeaWeed |
 | 310 | 276 | Cynthia Boudreau |
 | 311 | 275 | Jim Hart |
-| 312 | 274 | Amy Sanford |
-| 313 | 274 | Jenna McGeorge |
-| 314 | 272 | Tony Pavelka |
-| 315 | 272 | Dennis Bradley |
+| 312 | 274 | Jenna McGeorge |
+| 313 | 274 | Amy Sanford |
+| 314 | 272 | Dennis Bradley |
+| 315 | 272 | Tony Pavelka |
 | 316 | 271 | Holly |
 | 317 | 270 | Brittany Little |
 | 318 | 270 | 23 |
@@ -720,8 +720,8 @@
 | 712 | 116 | JEan Price |
 | 713 | 116 | Ben Nome |
 | 714 | 115 | Mona Touchine |
-| 715 | 115 | Jayk |
-| 716 | 115 | Brenda Bird |
+| 715 | 115 | Brenda Bird |
+| 716 | 115 | Jayk |
 | 717 | 114 | Bigmamatetrisqueen |
 | 718 | 114 | Eminem |
 | 719 | 114 | Tiffany Tran |
@@ -754,7 +754,7 @@
 | 746 | 109 | Tawna Curry |
 | 747 | 109 | Jessica Johnston |
 | 748 | 109 | Loyal |
-| 749 | 109 | Lisa Bush |
+| 749 | 109 | Crystal Lynn |
 | 750 | 109 | Nikisha Reed |
 | 751 | 109 | Lisa Bush |
 | 752 | 108 | Kevin Blevins |

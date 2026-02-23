@@ -164,8 +164,8 @@
 | 156 | 1767 | niecy |
 | 157 | 1759 | Nerdy Pattern |
 | 158 | 1755 | Loopy Clusterbuilder |
-| 159 | 1751 | Bob |
-| 160 | 1751 | Woodys Glass |
+| 159 | 1751 | Woodys Glass |
+| 160 | 1751 | Bob |
 | 161 | 1747 | Cody Nishimura |
 | 162 | 1740 | blarg |
 | 163 | 1720 | Morgue Chick |
