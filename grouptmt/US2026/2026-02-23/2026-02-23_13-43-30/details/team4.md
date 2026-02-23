@@ -49,8 +49,8 @@
 | 41 | 1121 | Isabel Aguilar |
 | 42 | 1100 | Landon Keith Graffeo |
 | 43 | 1085 | Kimyatta Cavin |
-| 44 | 1082 | Dawn Alexander |
-| 45 | 1082 | Dion Crommarty |
+| 44 | 1082 | Dion Crommarty |
+| 45 | 1082 | Dawn Alexander |
 | 46 | 1071 | Cherrish Duren |
 | 47 | 1065 | Koshin Abdirahman |
 | 48 | 1059 | Ashley Ingram |
@@ -67,8 +67,8 @@
 | 59 | 872 | Shelly Chandler |
 | 60 | 871 | Pee |
 | 61 | 870 | BertMofo |
-| 62 | 846 | Lucille Truesdale |
-| 63 | 846 | Christine Marie |
+| 62 | 846 | Christine Marie |
+| 63 | 846 | Lucille Truesdale |
 | 64 | 834 | quicksand420 |
 | 65 | 827 | Avy Absol |
 | 66 | 807 | Rachel Anne |
@@ -211,8 +211,8 @@
 | 203 | 348 | David Lay |
 | 204 | 348 | April Rondinone |
 | 205 | 347 | Crystal Nicolette Moore |
-| 206 | 347 | Daria Rycewicz |
-| 207 | 347 | Bio Nelly |
+| 206 | 347 | Bio Nelly |
+| 207 | 347 | Daria Rycewicz |
 | 208 | 346 | shark tato |
 | 209 | 341 | scott |
 | 210 | 337 | Sam Bishop |
@@ -373,14 +373,14 @@
 | 365 | 214 | Patron Anderson |
 | 366 | 214 | B Renee Desjardin |
 | 367 | 213 | Jackie Marie |
-| 368 | 212 | Zany Shatterer |
-| 369 | 212 | Mike Solo |
+| 368 | 212 | Mike Solo |
+| 369 | 212 | Zany Shatterer |
 | 370 | 211 | Neirrah B Olailjeel |
 | 371 | 210 | Vanessa Smart |
-| 372 | 209 | Marcus Todd |
-| 373 | 209 | Sarah Hoffman |
+| 372 | 209 | Sarah Hoffman |
+| 373 | 209 | Matthew Pate |
 | 374 | 209 | Snippy Puzzle |
-| 375 | 209 | Matthew Pate |
+| 375 | 209 | Marcus Todd |
 | 376 | 208 | Shukee Lo |
 | 377 | 207 | Jessica Wells |
 | 378 | 206 | The Murphy |

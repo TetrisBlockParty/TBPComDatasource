@@ -81,8 +81,8 @@
 | 73 | 1252 | Gracie |
 | 74 | 1244 | Lori Barnaby |
 | 75 | 1221 | Betty Ivy |
-| 76 | 1213 | Nerdy Riseclear |
-| 77 | 1213 | Snappy Glidepiece |
+| 76 | 1213 | Snappy Glidepiece |
+| 77 | 1213 | Nerdy Riseclear |
 | 78 | 1209 | Amanda Adkins |
 | 79 | 1186 | Christian A. Pollard |
 | 80 | 1134 | Denise Nardoni |
@@ -180,8 +180,8 @@
 | 172 | 602 | Jacqueline Rodriguez |
 | 173 | 599 | opf |
 | 174 | 598 | Makelini Mausia |
-| 175 | 597 | Diana Ibarra |
-| 176 | 597 | CeceGeGe |
+| 175 | 597 | CeceGeGe |
+| 176 | 597 | Diana Ibarra |
 | 177 | 591 | Michael Nowogorski |
 | 178 | 589 | Kaycee Kay |
 | 179 | 587 | Louise Stacy Sisson |
@@ -192,8 +192,8 @@
 | 184 | 574 | Morgan Martinez |
 | 185 | 568 | Rachael McClain Owens |
 | 186 | 566 | LaTanya GeminiondaRise Johnson |
-| 187 | 564 | Poppy Splitter |
-| 188 | 564 | Christine Trester |
+| 187 | 564 | Christine Trester |
+| 188 | 564 | Poppy Splitter |
 | 189 | 563 | Jim Mathews |
 | 190 | 562 | Dave Herzog |
 | 191 | 561 | Elissa S-k |
@@ -432,8 +432,8 @@
 | 424 | 272 | Eboni Starr |
 | 425 | 272 | Todd Hall |
 | 426 | 271 | Scott Doss |
-| 427 | 269 | Jess Bissett |
-| 428 | 269 | Samantha Worley |
+| 427 | 269 | Samantha Worley |
+| 428 | 269 | Jess Bissett |
 | 429 | 269 | Goofy Fall |
 | 430 | 268 | Julia Nicole |
 | 431 | 268 | Jessica Lynn French |

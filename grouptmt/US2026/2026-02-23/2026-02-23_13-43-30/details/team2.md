@@ -44,8 +44,8 @@
 | 36 | 4301 | Mighty Patternzone |
 | 37 | 4199 | Claire Noland |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Kristen Sceurman |
-| 40 | 4120 | Corrine Hawks Soriano |
+| 39 | 4120 | Corrine Hawks Soriano |
+| 40 | 4120 | Kristen Sceurman |
 | 41 | 4086 | PandaMama |
 | 42 | 4006 | CoolKat |
 | 43 | 3960 | Brittany Alicia |
@@ -363,8 +363,8 @@
 | 355 | 917 | Nashu |
 | 356 | 916 | Butta |
 | 357 | 915 | Kelly Trent |
-| 358 | 914 | William Hunt |
-| 359 | 914 | Shuany Arias |
+| 358 | 914 | Shuany Arias |
+| 359 | 914 | William Hunt |
 | 360 | 913 | blume |
 | 361 | 910 | Ashley Dow |
 | 362 | 907 | Gene Mills |
@@ -596,8 +596,8 @@
 | 588 | 621 | Taren Cowan |
 | 589 | 618 | Marella Petilo |
 | 590 | 617 | Kacee Conrad Bock |
-| 591 | 617 | Darcy Mae |
-| 592 | 617 | Biggest thing |
+| 591 | 617 | Biggest thing |
+| 592 | 617 | Darcy Mae |
 | 593 | 615 | Julio A Laracuente |
 | 594 | 614 | Jessica S Flecha |
 | 595 | 614 | Emilee Burke |
@@ -790,8 +790,8 @@
 | 782 | 489 | Christy Krissie |
 | 783 | 489 | Britney M. |
 | 784 | 488 | Jessica Hughes |
-| 785 | 487 | Christy Long |
-| 786 | 487 | Morgan Easter |
+| 785 | 487 | Morgan Easter |
+| 786 | 487 | Christy Long |
 | 787 | 487 | Mary Marie |
 | 788 | 487 | RaeVan Worthington |
 | 789 | 487 | Nate |
@@ -809,8 +809,8 @@
 | 801 | 480 | Cassi Owens |
 | 802 | 480 | Dar |
 | 803 | 479 | bbv |
-| 804 | 479 | Ashlee Cruz |
-| 805 | 479 | Emilie Desma |
+| 804 | 479 | Emilie Desma |
+| 805 | 479 | Ashlee Cruz |
 | 806 | 478 | Brenda Annabel Smith |
 | 807 | 477 | Annette Ross Clay |
 | 808 | 477 | Joel Rosado |

@@ -269,8 +269,8 @@
 | 261 | 286 | Sarahdactyl |
 | 262 | 285 | Shanae Grant |
 | 263 | 284 | Sam Williams |
-| 264 | 283 | Franswa |
-| 265 | 283 | Larry Tilton |
+| 264 | 283 | Larry Tilton |
+| 265 | 283 | Franswa |
 | 266 | 282 | Timothy Dew |
 | 267 | 281 | Clever Cascadepiece |
 | 268 | 280 | Billie Dawn Sparks |
@@ -478,8 +478,8 @@
 | 470 | 175 | Funky Piecebuilder |
 | 471 | 174 | Dawn Rannelli |
 | 472 | 174 | Alex Gauthier |
-| 473 | 173 | Shan Rock |
-| 474 | 173 | Mary Crisp |
+| 473 | 173 | Mary Crisp |
+| 474 | 173 | Shan Rock |
 | 475 | 172 | Ruthie Mahoney Saunders-Browne |
 | 476 | 171 | Bruce Cruz |
 | 477 | 171 | Megan Kradzinski Ferguson |
