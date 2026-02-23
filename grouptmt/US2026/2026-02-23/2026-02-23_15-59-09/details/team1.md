@@ -208,11 +208,11 @@
 | 200 | 365 | Amanda Holibaugh |
 | 201 | 365 | Shannon Marie Pitts |
 | 202 | 364 | Serina Marie |
-| 203 | 364 | Shauna Loe |
-| 204 | 364 | David Lutcher |
+| 203 | 364 | David Lutcher |
+| 204 | 364 | Shauna Loe |
 | 205 | 362 | Gracie |
-| 206 | 360 | Lakeisha Chapman |
-| 207 | 360 | MIKOZ |
+| 206 | 360 | MIKOZ |
+| 207 | 360 | Lakeisha Chapman |
 | 208 | 359 | Oscar Zamora |
 | 209 | 359 | Jo Kerley |
 | 210 | 359 | Witty Builderfit |

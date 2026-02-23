@@ -83,8 +83,8 @@
 | 75 | 1258 | Danielle Cutler |
 | 76 | 1244 | Lori Barnaby |
 | 77 | 1221 | Betty Ivy |
-| 78 | 1213 | Snappy Glidepiece |
-| 79 | 1213 | Nerdy Riseclear |
+| 78 | 1213 | Nerdy Riseclear |
+| 79 | 1213 | Snappy Glidepiece |
 | 80 | 1209 | Amanda Adkins |
 | 81 | 1209 | Araceli Parra |
 | 82 | 1186 | Christian A. Pollard |
@@ -140,8 +140,8 @@
 | 132 | 774 | Keith J Oshman Jr. |
 | 133 | 773 | Daira Largen |
 | 134 | 770 | Daryn Elliott |
-| 135 | 764 | Hasty Cascadefit |
-| 136 | 764 | Groovy Catcher |
+| 135 | 764 | Groovy Catcher |
+| 136 | 764 | Hasty Cascadefit |
 | 137 | 762 | Speedy Bridger |
 | 138 | 759 | yoyo |
 | 139 | 757 | Fancy Cascader |
@@ -198,8 +198,8 @@
 | 190 | 576 | Keis |
 | 191 | 568 | Rachael McClain Owens |
 | 192 | 566 | LaTanya GeminiondaRise Johnson |
-| 193 | 564 | Christine Trester |
-| 194 | 564 | Poppy Splitter |
+| 193 | 564 | Poppy Splitter |
+| 194 | 564 | Christine Trester |
 | 195 | 563 | Jim Mathews |
 | 196 | 562 | Dave Herzog |
 | 197 | 561 | Elissa S-k |
@@ -208,8 +208,8 @@
 | 200 | 549 | Sarah Cowan Burgos |
 | 201 | 548 | Danielle Balcom |
 | 202 | 547 | Staci George Fitzsimmons |
-| 203 | 546 | Cynthia Castros-Hampton |
-| 204 | 546 | Mykal Burton |
+| 203 | 546 | Mykal Burton |
+| 204 | 546 | Cynthia Castros-Hampton |
 | 205 | 543 | Silly Twist |
 | 206 | 540 | Trisha Balmer |
 | 207 | 540 | Shawn Miller |
@@ -229,15 +229,15 @@
 | 221 | 513 | kacihall |
 | 222 | 513 | Lizabeth Fox |
 | 223 | 512 | FuzzyNavel |
-| 224 | 508 | Fran Lin |
-| 225 | 508 | joz |
+| 224 | 508 | joz |
+| 225 | 508 | Fran Lin |
 | 226 | 506 | Twisty Brick LT |
 | 227 | 505 | Stephanie Simpson |
 | 228 | 504 | Daring Brickzone |
 | 229 | 503 | Tye Stovall |
 | 230 | 502 | Snappy Balancer |
-| 231 | 498 | Melissa Orth Hunter |
-| 232 | 498 | BugMansMom |
+| 231 | 498 | BugMansMom |
+| 232 | 498 | Melissa Orth Hunter |
 | 233 | 495 | Annie Déè |
 | 234 | 491 | Michael Johnson |
 | 235 | 487 | Dapper Snap |

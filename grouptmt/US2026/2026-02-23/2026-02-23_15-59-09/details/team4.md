@@ -329,8 +329,8 @@
 | 321 | 251 | Kathy Allen |
 | 322 | 251 | Carol Ricks Raymond |
 | 323 | 249 | Ak Jones |
-| 324 | 248 | Angelito |
-| 325 | 248 | Chirpy Basepiece |
+| 324 | 248 | Chirpy Basepiece |
+| 325 | 248 | Angelito |
 | 326 | 248 | Jose Dejesus |
 | 327 | 247 | Vic |
 | 328 | 247 | Stephme310 |
@@ -555,10 +555,10 @@
 | 547 | 149 | Boldy Linkpiece |
 | 548 | 149 | Smiley Shifter |
 | 549 | 148 | Bigeddie |
-| 550 | 148 | Backoff Recupe |
-| 551 | 148 | Will Chamberlain |
-| 552 | 147 | Hasty Fitzone |
-| 553 | 147 | Laurmarcar |
+| 550 | 148 | Will Chamberlain |
+| 551 | 148 | Backoff Recupe |
+| 552 | 147 | Laurmarcar |
+| 553 | 147 | Hasty Fitzone |
 | 554 | 147 | Jay28 |
 | 555 | 146 | giantslover514 |
 | 556 | 146 | Oleg Zakharskiy |

@@ -144,8 +144,8 @@
 | 136 | 1932 | Gary Schaffner Jr. |
 | 137 | 1918 | Rebecca Doughman |
 | 138 | 1902 | Goofy Snapfit |
-| 139 | 1899 | Robin Kerby |
-| 140 | 1899 | Jamie Main |
+| 139 | 1899 | Jamie Main |
+| 140 | 1899 | Robin Kerby |
 | 141 | 1899 | Jumpy Gridpiece |
 | 142 | 1887 | Tonya Brooks-Johnson |
 | 143 | 1873 | Michele Gabriel |
@@ -286,8 +286,8 @@
 | 278 | 1142 | Sheniya Spurgeon |
 | 279 | 1140 | Kimberly Hauck-Rausch |
 | 280 | 1139 | Rebecca Garland |
-| 281 | 1137 | Lakeysha Dortch |
-| 282 | 1137 | Hillary Crawford |
+| 281 | 1137 | Hillary Crawford |
+| 282 | 1137 | Lakeysha Dortch |
 | 283 | 1123 | Ronnie Nelson |
 | 284 | 1120 | F-X |
 | 285 | 1114 | Kevin Walp |
@@ -340,8 +340,8 @@
 | 332 | 1008 | Osun Anuket Esu |
 | 333 | 1007 | Em Chen |
 | 334 | 1003 | Andrea Maher |
-| 335 | 998 | Keri Womack |
-| 336 | 998 | Shelley Thornburgh Wright |
+| 335 | 998 | Shelley Thornburgh Wright |
+| 336 | 998 | Keri Womack |
 | 337 | 997 | SaraMarie Eveland |
 | 338 | 996 | Ashie Ann |
 | 339 | 991 | Della Hole |
@@ -695,8 +695,8 @@
 | 687 | 568 | Shorty |
 | 688 | 568 | Stacey Tranchida |
 | 689 | 563 | Frisky Clearpiece |
-| 690 | 559 | Kevin Luu |
-| 691 | 559 | Alexx Anaya |
+| 690 | 559 | Alexx Anaya |
+| 691 | 559 | Kevin Luu |
 | 692 | 559 | Shindee |
 | 693 | 557 | Megan Kitchner |
 | 694 | 556 | Rhonda Petro |
@@ -1292,10 +1292,10 @@
 | 1284 | 337 | Fancy Clusterline |
 | 1285 | 337 | Spicy Riser |
 | 1286 | 337 | Sassy Pattern |
-| 1287 | 336 | Katrina Willmon |
-| 1288 | 336 | Crystal Cornelius |
-| 1289 | 336 | Spunky Match |
-| 1290 | 336 | Colton Saupe |
+| 1287 | 336 | Crystal Cornelius |
+| 1288 | 336 | Katrina Willmon |
+| 1289 | 336 | Colton Saupe |
+| 1290 | 336 | Spunky Match |
 | 1291 | 336 | Jumpy Gridclear |
 | 1292 | 336 | Zany Clusterbuilder |
 | 1293 | 335 | Kim Yoder |
