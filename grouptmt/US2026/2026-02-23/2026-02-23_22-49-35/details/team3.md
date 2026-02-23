@@ -202,8 +202,8 @@
 | 194 | 655 | Rochelle Hazelett |
 | 195 | 653 | Domo Washington |
 | 196 | 642 | Rania Zaqout |
-| 197 | 641 | Makelini Mausia |
-| 198 | 641 | Kristal C Lee |
+| 197 | 641 | Kristal C Lee |
+| 198 | 641 | Makelini Mausia |
 | 199 | 640 | JessDrown |
 | 200 | 636 | Cesar Barraza |
 | 201 | 635 | Tasha Gillespie |
@@ -269,8 +269,8 @@
 | 261 | 513 | Lizabeth Fox |
 | 262 | 510 | Marquita Sheard |
 | 263 | 508 | joz |
-| 264 | 507 | Snappy Balancer |
-| 265 | 507 | rosy |
+| 264 | 507 | rosy |
+| 265 | 507 | Snappy Balancer |
 | 266 | 506 | Ammmmmmy |
 | 267 | 506 | Dana Winters |
 | 268 | 505 | Stephanie Simpson |
@@ -415,8 +415,8 @@
 | 407 | 339 | Michael Lucado |
 | 408 | 338 | Troy |
 | 409 | 338 | Michael Leblanc |
-| 410 | 337 | Maggie |
-| 411 | 337 | AC Yeater |
+| 410 | 337 | AC Yeater |
+| 411 | 337 | Maggie |
 | 412 | 337 | Funky Jumper |
 | 413 | 336 | luluraine |
 | 414 | 334 | Alice |
@@ -575,8 +575,8 @@
 | 567 | 266 | Reina Roth |
 | 568 | 266 | Quirky Dropzone |
 | 569 | 265 | Danielle Dani |
-| 570 | 264 | Danielle Beaunoyer Jean |
-| 571 | 264 | Morgan Cudo |
+| 570 | 264 | Morgan Cudo |
+| 571 | 264 | Danielle Beaunoyer Jean |
 | 572 | 264 | Crystal Hine |
 | 573 | 263 | Chilly Pop |
 | 574 | 263 | Paula Little |

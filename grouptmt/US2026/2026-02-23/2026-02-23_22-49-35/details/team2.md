@@ -308,11 +308,11 @@
 | 300 | 1221 | Diallo Sparkman |
 | 301 | 1217 | Christina Lewis-Vickers |
 | 302 | 1217 | Brooks Brooks |
-| 303 | 1216 | Ashie Ann |
-| 304 | 1216 | Pacynthia Williams |
+| 303 | 1216 | Pacynthia Williams |
+| 304 | 1216 | Ashie Ann |
 | 305 | 1214 | David Cudicio-Hayden |
-| 306 | 1211 | Ricardo Burton |
-| 307 | 1211 | Cynthia Ward |
+| 306 | 1211 | Cynthia Ward |
+| 307 | 1211 | Ricardo Burton |
 | 308 | 1210 | Amber Gray |
 | 309 | 1188 | Amber Brion |
 | 310 | 1184 | Jamie Otero |

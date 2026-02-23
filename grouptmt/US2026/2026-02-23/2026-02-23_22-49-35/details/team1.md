@@ -36,8 +36,8 @@
 | 28 | 1580 | Jennifer Cates |
 | 29 | 1554 | Carolyn Smith |
 | 30 | 1527 | Hyp James NObettadanluvarat |
-| 31 | 1520 | Lola Adkhambekovna |
-| 32 | 1520 | Ashley Elizabeth |
+| 31 | 1520 | Ashley Elizabeth |
+| 32 | 1520 | Lola Adkhambekovna |
 | 33 | 1515 | Felicia Lewis |
 | 34 | 1413 | Trippy Redd |
 | 35 | 1391 | Aaron Garnett |
@@ -159,13 +159,13 @@
 | 151 | 510 | Timothy Danaher |
 | 152 | 510 | Rat666 |
 | 153 | 501 | Dee Perry |
-| 154 | 497 | Arianna O'Brien |
-| 155 | 497 | MIKOZ |
+| 154 | 497 | MIKOZ |
+| 155 | 497 | Arianna O'Brien |
 | 156 | 495 | Adrian Esteban |
 | 157 | 494 | Sean Stallings |
 | 158 | 492 | Rebekah LeiAnn Bonsell |
-| 159 | 491 | cc |
-| 160 | 491 | Michelle Beres |
+| 159 | 491 | Michelle Beres |
+| 160 | 491 | cc |
 | 161 | 488 | Hyper |
 | 162 | 483 | Dandy Basegrid |
 | 163 | 483 | Trina Gee |
@@ -175,8 +175,8 @@
 | 167 | 476 | Snappy Matcher |
 | 168 | 470 | Candy Jones |
 | 169 | 468 | Steve Schneider |
-| 170 | 463 | Brandi Huntington |
-| 171 | 463 | Nicole Roseberry Weber |
+| 170 | 463 | Nicole Roseberry Weber |
+| 171 | 463 | Brandi Huntington |
 | 172 | 462 | Hasty Cascader |
 | 173 | 458 | Goose egg |
 | 174 | 458 | Dizzy Slider |
@@ -254,9 +254,9 @@
 | 246 | 359 | Jo Kerley |
 | 247 | 359 | Oscar Zamora |
 | 248 | 358 | Tipsy Strikerpiece |
-| 249 | 357 | Teri Oehlke |
-| 250 | 357 | Paula Martin |
-| 251 | 357 | Shiny Snapfit |
+| 249 | 357 | Shiny Snapfit |
+| 250 | 357 | Teri Oehlke |
+| 251 | 357 | Paula Martin |
 | 252 | 356 | Tyler Hertzog |
 | 253 | 355 | Plucky Stacky |
 | 254 | 354 | Dino |
