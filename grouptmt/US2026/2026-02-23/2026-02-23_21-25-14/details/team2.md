@@ -211,8 +211,8 @@
 | 203 | 1578 | Christine Egidio Morocco |
 | 204 | 1569 | Ashley Dow |
 | 205 | 1565 | Nancy Reid |
-| 206 | 1558 | Crystal Slaughter |
-| 207 | 1558 | Tim Dyer |
+| 206 | 1558 | Tim Dyer |
+| 207 | 1558 | Crystal Slaughter |
 | 208 | 1557 | Poppy Snap |
 | 209 | 1556 | Tonya Morgan |
 | 210 | 1554 | Howard Forest |
@@ -466,16 +466,16 @@
 | 458 | 858 | Lauren Fitzgerald Thomas |
 | 459 | 857 | Caitlyn Blackwell |
 | 460 | 853 | Meghan M |
-| 461 | 852 | AgileDragon |
-| 462 | 852 | Kimmy Newman |
+| 461 | 852 | Kimmy Newman |
+| 462 | 852 | AgileDragon |
 | 463 | 849 | Gold Rose |
 | 464 | 849 | Allan Wayne Lamia |
 | 465 | 849 | Ann Matzkanin |
 | 466 | 845 | Gauri Shrotriya |
 | 467 | 844 | Terri McKelvey McKinley |
 | 468 | 843 | Quirky Twistline |
-| 469 | 840 | Traci Johnson |
-| 470 | 840 | Kiana Boschh |
+| 469 | 840 | Kiana Boschh |
+| 470 | 840 | Traci Johnson |
 | 471 | 835 | William David Swallow |
 | 472 | 835 | Moni Foxe |
 | 473 | 834 | Montez Mancil |

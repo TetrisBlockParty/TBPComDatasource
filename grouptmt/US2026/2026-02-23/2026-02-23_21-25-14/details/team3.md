@@ -150,8 +150,8 @@
 | 142 | 837 | mzcatzy |
 | 143 | 834 | opf |
 | 144 | 820 | Brenda Lee Vander Molen |
-| 145 | 818 | Tasha Schriewer |
-| 146 | 818 | Dolores Falco |
+| 145 | 818 | Dolores Falco |
+| 146 | 818 | Tasha Schriewer |
 | 147 | 812 | Speedy Bridger |
 | 148 | 812 | Katrina Schroeder |
 | 149 | 810 | Keith J Oshman Jr. |
@@ -229,8 +229,8 @@
 | 221 | 568 | Rachael McClain Owens |
 | 222 | 567 | FuzzyNavel |
 | 223 | 566 | LaTanya GeminiondaRise Johnson |
-| 224 | 564 | Poppy Splitter |
-| 225 | 564 | Christine Trester |
+| 224 | 564 | Christine Trester |
+| 225 | 564 | Poppy Splitter |
 | 226 | 563 | Fallorina Susana |
 | 227 | 562 | Dave Herzog |
 | 228 | 561 | Silly Twist |

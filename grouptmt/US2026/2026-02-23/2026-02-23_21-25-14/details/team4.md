@@ -224,8 +224,8 @@
 | 216 | 411 | Mimi |
 | 217 | 411 | Autumn Kumzi |
 | 218 | 400 | Antony Dwayne Beasley |
-| 219 | 399 | Lindsay Ball |
-| 220 | 399 | Jeff Brian Gates |
+| 219 | 399 | Jeff Brian Gates |
+| 220 | 399 | Lindsay Ball |
 | 221 | 398 | Tyler Terrific |
 | 222 | 394 | TinyLegoRose |
 | 223 | 394 | Nita Wells |
@@ -303,10 +303,10 @@
 | 295 | 300 | Dana Scott |
 | 296 | 300 | Kate |
 | 297 | 298 | Chance Strickland |
-| 298 | 297 | Kenna Gunderland |
-| 299 | 297 | Kim Klutz Olson |
-| 300 | 296 | Sarah Hoffman |
-| 301 | 296 | Vic |
+| 298 | 297 | Kim Klutz Olson |
+| 299 | 297 | Kenna Gunderland |
+| 300 | 296 | Vic |
+| 301 | 296 | Sarah Hoffman |
 | 302 | 295 | Cool Gridzone |
 | 303 | 295 | Blessedmama |
 | 304 | 294 | BootsMcGee |
