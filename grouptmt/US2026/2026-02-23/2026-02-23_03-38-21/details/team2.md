@@ -285,8 +285,8 @@
 | 277 | 987 | Osun Anuket Esu |
 | 278 | 987 | Julie Kresal |
 | 279 | 984 | Crystal Hoffman |
-| 280 | 979 | Hillary Crawford |
-| 281 | 979 | Melissa Penelope Ann Dodge |
+| 280 | 979 | Melissa Penelope Ann Dodge |
+| 281 | 979 | Hillary Crawford |
 | 282 | 976 | Sam Joe |
 | 283 | 972 | Barbra Miller |
 | 284 | 972 | Juliana Marques Do Nascimento Gordy |
@@ -303,8 +303,8 @@
 | 295 | 951 | Cynthia Ward |
 | 296 | 947 | Dedra Steward |
 | 297 | 941 | Cool Clearer |
-| 298 | 939 | SaraMarie Eveland |
-| 299 | 939 | Cindy Sechler Taninecz |
+| 298 | 939 | Cindy Sechler Taninecz |
+| 299 | 939 | SaraMarie Eveland |
 | 300 | 934 | April Dawn Gussler |
 | 301 | 934 | Jane Fong |
 | 302 | 929 | Caitlin Schmid |
@@ -818,8 +818,8 @@
 | 810 | 406 | Erin StFrancis |
 | 811 | 405 | Carrie Mitchell |
 | 812 | 405 | Marget Kay |
-| 813 | 403 | Goofy Dasher |
-| 814 | 403 | Nate Skidmore |
+| 813 | 403 | Nate Skidmore |
+| 814 | 403 | Goofy Dasher |
 | 815 | 403 | Swanky Columnbuilder |
 | 816 | 403 | Susan Arnburg |
 | 817 | 402 | B |

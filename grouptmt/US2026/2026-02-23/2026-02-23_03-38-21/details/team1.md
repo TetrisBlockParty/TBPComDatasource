@@ -82,8 +82,8 @@
 | 74 | 646 | Susanna Guerry |
 | 75 | 644 | Snappy Swiper |
 | 76 | 641 | Cartier |
-| 77 | 598 | Erin Hodges Plumb |
-| 78 | 598 | Kellie |
+| 77 | 598 | Kellie |
+| 78 | 598 | Erin Hodges Plumb |
 | 79 | 588 | Greg Hart |
 | 80 | 584 | Jen Sartain |
 | 81 | 582 | Plucky Fallzone |
@@ -156,8 +156,8 @@
 | 148 | 371 | Basment Living |
 | 149 | 368 | Amanda Johnson Huffman |
 | 150 | 367 | Sharon Reynolds |
-| 151 | 364 | Shauna Loe |
-| 152 | 364 | Serina Marie |
+| 151 | 364 | Serina Marie |
+| 152 | 364 | Shauna Loe |
 | 153 | 360 | Wisa |
 | 154 | 355 | Carrie Smith |
 | 155 | 353 | Jaimie Lynn |
@@ -201,11 +201,11 @@
 | 193 | 304 | ALFD |
 | 194 | 301 | Damon J. Martin |
 | 195 | 297 | Jen Nystrom |
-| 196 | 296 | Witty Builderfit |
-| 197 | 296 | Cody Gates |
+| 196 | 296 | Cody Gates |
+| 197 | 296 | Witty Builderfit |
 | 198 | 295 | Sleepysloath5745 |
-| 199 | 294 | Bindi |
-| 200 | 294 | Margo Wagner |
+| 199 | 294 | Margo Wagner |
+| 200 | 294 | Bindi |
 | 201 | 293 | John Kim |
 | 202 | 291 | Brave Wrecker |
 | 203 | 290 | Speedy Liney |
@@ -390,7 +390,7 @@
 | 382 | 175 | Frisky Base |
 | 383 | 174 | Chantelle Ceno |
 | 384 | 174 | Tavia |
-| 385 | 174 | Chantelle Ceno |
+| 385 | 174 | Alex Gauthier |
 | 386 | 172 | Wayne Saunders |
 | 387 | 172 | Sylvia Vasquez |
 | 388 | 171 | Bruce Cruz |

@@ -249,8 +249,8 @@
 | 241 | 378 | Chris Bell |
 | 242 | 377 | Charles Perrone |
 | 243 | 374 | Rania Zaqout |
-| 244 | 372 | Rich LeBlanc |
-| 245 | 372 | Sarah Moyer |
+| 244 | 372 | Sarah Moyer |
+| 245 | 372 | Rich LeBlanc |
 | 246 | 371 | block chick |
 | 247 | 370 | Chummy Caster |
 | 248 | 369 | Keis |
@@ -285,8 +285,8 @@
 | 277 | 338 | Gumbo |
 | 278 | 336 | Jojo M |
 | 279 | 335 | victory |
-| 280 | 332 | Brittany |
-| 281 | 332 | Velma Mull |
+| 280 | 332 | Velma Mull |
+| 281 | 332 | Brittany |
 | 282 | 331 | Gray Hicks |
 | 283 | 326 | Kerry Nowickshere |
 | 284 | 325 | Tasha Wesson-Torrence |
@@ -650,7 +650,7 @@
 | 642 | 156 | Brittany K Ward |
 | 643 | 156 | Mandy Poynter-Wallace |
 | 644 | 156 | Silly Curvetile |
-| 645 | 156 | Mandy Poynter-Wallace |
+| 645 | 156 | Dapper Liney |
 | 646 | 155 | James Lykes |
 | 647 | 155 | Autumn Phillimore |
 | 648 | 155 | Amy Montz |
@@ -663,10 +663,10 @@
 | 655 | 154 | Rima Mackelburger |
 | 656 | 154 | Martin Bernier |
 | 657 | 154 | Lexi |
-| 658 | 153 | Jessie Chung |
-| 659 | 153 | Jada Cox |
-| 660 | 152 | Christine Vosburgh |
-| 661 | 152 | Louise Parker |
+| 658 | 153 | Jada Cox |
+| 659 | 153 | Jessie Chung |
+| 660 | 152 | Louise Parker |
+| 661 | 152 | Christine Vosburgh |
 | 662 | 151 | Lisa Bard |
 | 663 | 150 | Kiya Lynn |
 | 664 | 150 | Sapphire87 |
@@ -698,9 +698,9 @@
 | 690 | 143 | Russell Hankinson |
 | 691 | 143 | Sarah Muradyan |
 | 692 | 143 | Lisa Lisa |
-| 693 | 142 | Jason-Ashley Ludlow |
+| 693 | 142 | get et |
 | 694 | 142 | Jennifer Neiman Gaal |
-| 695 | 142 | get et |
+| 695 | 142 | Jason-Ashley Ludlow |
 | 696 | 142 | Giddy Basepiece |
 | 697 | 141 | Brave Brickster |
 | 698 | 141 | Plucky Bridger |
@@ -717,7 +717,7 @@
 | 709 | 139 | Justice 4 P |
 | 710 | 138 | Chenoa Urban Sophicated Redy |
 | 711 | 138 | Paula Urlacher |
-| 712 | 138 | Chenoa Urban Sophicated Redy |
+| 712 | 138 | Symantha Brott |
 | 713 | 138 | FineMuva |
 | 714 | 138 | Amber Reeves-Buchanan |
 | 715 | 137 | Cary M. Fong |

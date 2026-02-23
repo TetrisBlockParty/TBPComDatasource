@@ -86,8 +86,8 @@
 | 78 | 704 | Crystal Carroll |
 | 79 | 703 | Savannah Overdorf |
 | 80 | 697 | Alyssa Papen |
-| 81 | 684 | Jonathan Kimbrough |
-| 82 | 684 | Kimyatta Cavin |
+| 81 | 684 | Kimyatta Cavin |
+| 82 | 684 | Jonathan Kimbrough |
 | 83 | 677 | Trista Leah |
 | 84 | 673 | Jacqueline Helm |
 | 85 | 664 | Valerie Roberts |
@@ -156,8 +156,8 @@
 | 148 | 393 | Girl |
 | 149 | 391 | Ramel Rhodes |
 | 150 | 389 | Joseph Guthrie |
-| 151 | 387 | 🥔🥔 Spudz |
-| 152 | 387 | Lucas J Sutton |
+| 151 | 387 | Lucas J Sutton |
+| 152 | 387 | 🥔🥔 Spudz |
 | 153 | 377 | Carrie Brian |
 | 154 | 375 | ThaEviLJeNiuZ |
 | 155 | 375 | Desi Desporte |
@@ -200,16 +200,16 @@
 | 192 | 307 | Michele Plunkett |
 | 193 | 306 | blockstar |
 | 194 | 305 | Melvin Baird |
-| 195 | 304 | Lindsay Ball |
-| 196 | 304 | Mary Ann Pabukis |
+| 195 | 304 | Mary Ann Pabukis |
+| 196 | 304 | Lindsay Ball |
 | 197 | 302 | Cursed Hag |
 | 198 | 301 | Andria Lynn |
 | 199 | 300 | Zakia Monae |
 | 200 | 300 | Dihcheese444 |
 | 201 | 300 | Dana Scott |
 | 202 | 299 | Chris Hartig |
-| 203 | 294 | Porkobello |
-| 204 | 294 | Calvin Cannon |
+| 203 | 294 | Calvin Cannon |
+| 204 | 294 | Porkobello |
 | 205 | 292 | Epic Curvetile |
 | 206 | 290 | Jared Gutwein |
 | 207 | 290 | Keshia Lyons |
@@ -332,8 +332,8 @@
 | 324 | 194 | Zany Twisterfit |
 | 325 | 194 | SammieJo Guy |
 | 326 | 192 | Twisty Risebuilder |
-| 327 | 191 | Norman Klick |
-| 328 | 191 | Earnest Thompson |
+| 327 | 191 | Earnest Thompson |
+| 328 | 191 | Norman Klick |
 | 329 | 190 | wombat |
 | 330 | 189 | Berklie Apedaile |
 | 331 | 189 | Lauren Lamb |
