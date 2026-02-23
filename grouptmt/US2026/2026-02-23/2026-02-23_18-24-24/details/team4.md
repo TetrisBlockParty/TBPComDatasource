@@ -160,8 +160,8 @@
 | 152 | 502 | Ellen Durfee |
 | 153 | 501 | Kim Hunt |
 | 154 | 499 | Ericca Eldridge |
-| 155 | 498 | Nope Young |
-| 156 | 498 | Melissa Adams |
+| 155 | 498 | Melissa Adams |
+| 156 | 498 | Nope Young |
 | 157 | 496 | Jessica Lynn Cutlip |
 | 158 | 486 | Swanky Fitline |
 | 159 | 485 | Rico |
@@ -280,8 +280,8 @@
 | 272 | 310 | Stacey Stano |
 | 273 | 308 | Leah Kutz Zirbel |
 | 274 | 307 | Cheery Risebuilder |
-| 275 | 307 | Tina Lopez |
-| 276 | 307 | Angie Schmidt |
+| 275 | 307 | Angie Schmidt |
+| 276 | 307 | Tina Lopez |
 | 277 | 306 | PeaceOs |
 | 278 | 306 | Lora |
 | 279 | 306 | mike |
@@ -292,8 +292,8 @@
 | 284 | 297 | Kenna Gunderland |
 | 285 | 296 | Vic |
 | 286 | 293 | DonMega |
-| 287 | 292 | Epic Curvetile |
-| 288 | 292 | Angel Raya |
+| 287 | 292 | Angel Raya |
+| 288 | 292 | Epic Curvetile |
 | 289 | 292 | Blessedmama |
 | 290 | 291 | Hyper Builder |
 | 291 | 291 | Dizzy Matchzone |
@@ -394,8 +394,8 @@
 | 386 | 231 | SAP |
 | 387 | 230 | Chantilly Laace |
 | 388 | 228 | Bethany Ison |
-| 389 | 227 | Maria Hammie |
-| 390 | 227 | Asher |
+| 389 | 227 | Asher |
+| 390 | 227 | Maria Hammie |
 | 391 | 224 | Ultramarine |
 | 392 | 224 | The Murphy |
 | 393 | 223 | Brave Spinbuilder |
@@ -434,8 +434,8 @@
 | 426 | 210 | Jessica Atkinson |
 | 427 | 210 | Vanessa Smart |
 | 428 | 209 | Marcus Todd |
-| 429 | 209 | Snippy Puzzle |
-| 430 | 209 | PennyCandee |
+| 429 | 209 | PennyCandee |
+| 430 | 209 | Snippy Puzzle |
 | 431 | 209 | Matthew Pate |
 | 432 | 208 | Moonsterix |
 | 433 | 208 | Wacky Blockclear |
@@ -511,7 +511,7 @@
 | 503 | 178 | Daring Pivot |
 | 504 | 178 | Brandon Link |
 | 505 | 178 | Laurel Coppess |
-| 506 | 178 | Brandon Link |
+| 506 | 178 | Nerdy Linebuilder |
 | 507 | 177 | Chao Ma |
 | 508 | 177 | Stephanie Mico |
 | 509 | 176 | Walter Beltran |
@@ -532,9 +532,9 @@
 | 524 | 170 | Joshua W. Benton |
 | 525 | 170 | Bigeddie |
 | 526 | 169 | Frances Hui |
-| 527 | 169 | Dante Korleon |
-| 528 | 169 | James Philpot Ross |
-| 529 | 169 | Joseph Pace |
+| 527 | 169 | Joseph Pace |
+| 528 | 169 | Dante Korleon |
+| 529 | 169 | James Philpot Ross |
 | 530 | 168 | Melissa VanBourgondien |
 | 531 | 167 | Dapper Frame |
 | 532 | 167 | Tipsy Cascader |

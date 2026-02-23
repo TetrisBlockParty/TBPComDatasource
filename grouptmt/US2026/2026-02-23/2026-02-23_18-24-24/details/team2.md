@@ -397,8 +397,8 @@
 | 389 | 919 | Isaac Trappiel IV |
 | 390 | 916 | Butta |
 | 391 | 915 | Kelly Trent |
-| 392 | 914 | William Hunt |
-| 393 | 914 | Shuany Arias |
+| 392 | 914 | Shuany Arias |
+| 393 | 914 | William Hunt |
 | 394 | 913 | Angie Bolton Workman |
 | 395 | 909 | Valerie Brooke Lusk Armstrong |
 | 396 | 907 | Gene Mills |
@@ -513,16 +513,16 @@
 | 505 | 757 | Chelle |
 | 506 | 755 | Taryece Gause |
 | 507 | 751 | Loony Snapper |
-| 508 | 751 | Breezy Filler |
+| 508 | 751 | Briana Alexander |
 | 509 | 751 | Caitlyn Blackwell |
-| 510 | 751 | Briana Alexander |
+| 510 | 751 | Breezy Filler |
 | 511 | 750 | Draizen Montrell Thomas |
 | 512 | 750 | Michael Buckner |
 | 513 | 749 | Trisha J Schmidt |
 | 514 | 748 | Ann Matzkanin |
 | 515 | 746 | Hoppy Brickmatch |
-| 516 | 742 | Cassie Maynard |
-| 517 | 742 | Ganieda |
+| 516 | 742 | Ganieda |
+| 517 | 742 | Cassie Maynard |
 | 518 | 740 | Jerry Tempelmeyer |
 | 519 | 740 | Alexandra Weir |
 | 520 | 738 | Sheronda Jackson |
@@ -960,12 +960,12 @@
 | 952 | 462 | Muhammad |
 | 953 | 462 | Kia Humphery |
 | 954 | 461 | Amanda Segura |
-| 955 | 461 | Amanda West |
-| 956 | 461 | Kristen O'Neal |
+| 955 | 461 | Kristen O'Neal |
+| 956 | 461 | Amanda West |
 | 957 | 460 | Sharon Mills |
 | 958 | 460 | LaWanda Powell |
-| 959 | 459 | Boozi |
-| 960 | 459 | Jamie Bass |
+| 959 | 459 | Jamie Bass |
+| 960 | 459 | Boozi |
 | 961 | 459 | Pocho Zavala |
 | 962 | 459 | Stefanie Zonzini-Gagliardi |
 | 963 | 459 | Ericka Marie Smith |
@@ -980,8 +980,8 @@
 | 972 | 455 | Darlene Bowman |
 | 973 | 453 | Meganator42 |
 | 974 | 453 | Epic Stackzone |
-| 975 | 452 | Ashley Taylor |
-| 976 | 452 | Cranky Tower |
+| 975 | 452 | Cranky Tower |
+| 976 | 452 | Ashley Taylor |
 | 977 | 452 | Sunny Pusher |
 | 978 | 452 | Rain |
 | 979 | 452 | Tipsy Filler |
@@ -1004,8 +1004,8 @@
 | 996 | 446 | Courtney Burcham |
 | 997 | 446 | Marcus Ken Wilcox |
 | 998 | 445 | Jenny DelVescovo |
-| 999 | 445 | Beatboxxer |
-| 1000 | 445 | Mar Q Thomas |
+| 999 | 445 | Mar Q Thomas |
+| 1000 | 445 | Beatboxxer |
 | 1001 | 445 | Rolie Garcia |
 | 1002 | 444 | Angela Murgia-Owen |
 | 1003 | 444 | Twisty Tetriblast |
