@@ -40,8 +40,8 @@
 | 32 | 4274 | Vistabrat |
 | 33 | 4199 | Claire Noland |
 | 34 | 4128 | Angela Pruitt |
-| 35 | 4120 | Kristen Sceurman |
-| 36 | 4120 | Corrine Hawks Soriano |
+| 35 | 4120 | Corrine Hawks Soriano |
+| 36 | 4120 | Kristen Sceurman |
 | 37 | 4093 | Jill Stroehlein |
 | 38 | 3895 | Nickie Baby |
 | 39 | 3778 | Brittany Alicia |
@@ -719,8 +719,8 @@
 | 711 | 461 | Amanda West |
 | 712 | 461 | AsnPryBoy83 |
 | 713 | 460 | LaWanda Powell |
-| 714 | 459 | Pocho Zavala |
-| 715 | 459 | Jessica Lamb |
+| 714 | 459 | Jessica Lamb |
+| 715 | 459 | Pocho Zavala |
 | 716 | 459 | Connie Lepore-Mann |
 | 717 | 459 | Shyenn Gadsby |
 | 718 | 458 | Kia Humphery |
@@ -737,8 +737,8 @@
 | 729 | 449 | Heather Sawtelle-Mckenzie |
 | 730 | 449 | Julie Hamilton |
 | 731 | 449 | Kristi Biddinger |
-| 732 | 448 | Anastacio Hernandez |
-| 733 | 448 | Ha Ab |
+| 732 | 448 | Ha Ab |
+| 733 | 448 | Anastacio Hernandez |
 | 734 | 448 | Darlene Bowman |
 | 735 | 448 | Leah LaShomb |
 | 736 | 448 | Miracle |
@@ -1070,8 +1070,8 @@
 | 1062 | 322 | Scott |
 | 1063 | 322 | Anita Ortiz |
 | 1064 | 322 | Sunshine711 |
-| 1065 | 321 | Crystal Herndon |
-| 1066 | 321 | Claire |
+| 1065 | 321 | Claire |
+| 1066 | 321 | Crystal Herndon |
 | 1067 | 321 | Jennifer Monteleone |
 | 1068 | 321 | Swanky Snap |
 | 1069 | 321 | Yasmin Guzman |

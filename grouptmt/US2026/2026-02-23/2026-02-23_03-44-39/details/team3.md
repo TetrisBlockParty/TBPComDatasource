@@ -208,8 +208,8 @@
 | 200 | 465 | Annie Déè |
 | 201 | 461 | Shunta Jacobs |
 | 202 | 458 | Danielle Rhoades |
-| 203 | 457 | Edwin Calvillo Jr. |
-| 204 | 457 | Jim Mathews |
+| 203 | 457 | Jim Mathews |
+| 204 | 457 | Edwin Calvillo Jr. |
 | 205 | 453 | Staci George Fitzsimmons |
 | 206 | 452 | Connie Mohler-Fair |
 | 207 | 452 | Tom Nault |
@@ -236,9 +236,9 @@
 | 228 | 403 | Scott Lindsay |
 | 229 | 403 | Denita Mungro |
 | 230 | 393 | Rebecca Funderburk Kirby |
-| 231 | 391 | Trisha Balmer |
+| 231 | 391 | Nicole Flippo |
 | 232 | 391 | Scott Carleton |
-| 233 | 391 | Nicole Flippo |
+| 233 | 391 | Trisha Balmer |
 | 234 | 390 | rosy |
 | 235 | 389 | RickyG |
 | 236 | 387 | Gideon Walker |
@@ -263,13 +263,13 @@
 | 255 | 365 | Noyb Adam |
 | 256 | 364 | Steffi Chris Dacones |
 | 257 | 362 | Brandon Givens |
-| 258 | 357 | Stephanie Burtin |
-| 259 | 357 | Cesar Barraza |
+| 258 | 357 | Cesar Barraza |
+| 259 | 357 | Stephanie Burtin |
 | 260 | 357 | Ammmmmmy |
 | 261 | 354 | Kelly |
 | 262 | 353 | Dee Franklin |
-| 263 | 352 | Christian Werndl |
-| 264 | 352 | Samantha Lynn |
+| 263 | 352 | Samantha Lynn |
+| 264 | 352 | Christian Werndl |
 | 265 | 351 | Eon Harris |
 | 266 | 349 | Amanda J. Mcneil-Anderson |
 | 267 | 348 | Cyd061769 |
@@ -278,8 +278,8 @@
 | 270 | 346 | Tamara Deherrera |
 | 271 | 345 | MsBee |
 | 272 | 344 | Roary Danner |
-| 273 | 343 | Ashley Raines |
-| 274 | 343 | Ashley Rufus Bythcez |
+| 273 | 343 | Ashley Rufus Bythcez |
+| 274 | 343 | Ashley Raines |
 | 275 | 341 | Ashley Tookes |
 | 276 | 339 | Cynthia Herrmann Egland |
 | 277 | 338 | Gumbo |
@@ -500,8 +500,8 @@
 | 492 | 199 | Cheeky Setter |
 | 493 | 198 | Zac Hudak |
 | 494 | 198 | joz |
-| 495 | 197 | BabyTonj Evans |
-| 496 | 197 | Fredd Thomas |
+| 495 | 197 | Fredd Thomas |
+| 496 | 197 | BabyTonj Evans |
 | 497 | 197 | momo |
 | 498 | 196 | Jl |
 | 499 | 196 | Joshua David Huie |

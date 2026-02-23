@@ -160,8 +160,8 @@
 | 152 | 364 | Shauna Loe |
 | 153 | 360 | Wisa |
 | 154 | 355 | Carrie Smith |
-| 155 | 353 | Josh Riemer |
-| 156 | 353 | Jaimie Lynn |
+| 155 | 353 | Jaimie Lynn |
+| 156 | 353 | Josh Riemer |
 | 157 | 350 | Tipsy Strikerpiece |
 | 158 | 346 | GATOR |
 | 159 | 345 | Jerry Danowski |
@@ -304,7 +304,7 @@
 | 296 | 216 | Angela Spann |
 | 297 | 216 | Zany Tiler |
 | 298 | 216 | Chad Atchley |
-| 299 | 216 | Angela Spann |
+| 299 | 216 | Shauntina Burke |
 | 300 | 215 | Christina Norman |
 | 301 | 214 | Tiger Lily |
 | 302 | 213 | Itspaigebro |
