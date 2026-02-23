@@ -155,12 +155,12 @@
 | 147 | 579 | Tasha Gillespie |
 | 148 | 579 | Annie Marie |
 | 149 | 574 | Morgan Martinez |
-| 150 | 572 | Domo Washington |
-| 151 | 572 | CeceGeGe |
+| 150 | 572 | CeceGeGe |
+| 151 | 572 | Domo Washington |
 | 152 | 571 | Nicole Myers |
 | 153 | 568 | Rachael McClain Owens |
-| 154 | 562 | Louise Stacy Sisson |
-| 155 | 562 | Dave Herzog |
+| 154 | 562 | Dave Herzog |
+| 155 | 562 | Louise Stacy Sisson |
 | 156 | 553 | LaTanya GeminiondaRise Johnson |
 | 157 | 549 | Peppy Shifter |
 | 158 | 546 | Cynthia Castros-Hampton |
@@ -238,8 +238,8 @@
 | 230 | 375 | Duane Bright |
 | 231 | 375 | Kristal C Lee |
 | 232 | 373 | Rebecca Funderburk Kirby |
-| 233 | 372 | Sarah Moyer |
-| 234 | 372 | Rich LeBlanc |
+| 233 | 372 | Rich LeBlanc |
+| 234 | 372 | Sarah Moyer |
 | 235 | 370 | RickyG |
 | 236 | 369 | Keis |
 | 237 | 368 | Stephanie Woods |

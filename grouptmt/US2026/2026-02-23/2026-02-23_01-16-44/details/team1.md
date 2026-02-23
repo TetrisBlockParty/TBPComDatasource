@@ -140,8 +140,8 @@
 | 132 | 386 | David Miller |
 | 133 | 386 | Ty Brown |
 | 134 | 383 | pjbeta |
-| 135 | 379 | Austin James |
-| 136 | 379 | Kimmie Kimms |
+| 135 | 379 | Kimmie Kimms |
+| 136 | 379 | Austin James |
 | 137 | 376 | Brian Richardsson |
 | 138 | 371 | Jason Savage |
 | 139 | 368 | Death |
@@ -157,21 +157,21 @@
 | 149 | 353 | Josh Riemer |
 | 150 | 351 | Basment Living |
 | 151 | 350 | Tipsy Strikerpiece |
-| 152 | 343 | Elaine Elaine |
-| 153 | 343 | Chelsea Dahlquist |
+| 152 | 343 | Chelsea Dahlquist |
+| 153 | 343 | Elaine Elaine |
 | 154 | 341 | Shiny Snapfit |
 | 155 | 341 | Nick R Montague |
 | 156 | 338 | Jennifer Hardman |
-| 157 | 337 | Constance Risner |
-| 158 | 337 | Nicole Roseberry Weber |
+| 157 | 337 | Nicole Roseberry Weber |
+| 158 | 337 | Constance Risner |
 | 159 | 336 | Fmp |
 | 160 | 334 | Jaimie Lynn |
 | 161 | 333 | GATOR |
 | 162 | 333 | Gracie |
 | 163 | 332 | Lehrin Maria |
 | 164 | 325 | Dizzy Party |
-| 165 | 324 | Ananda Mendez |
-| 166 | 324 | Rat666 |
+| 165 | 324 | Rat666 |
+| 166 | 324 | Ananda Mendez |
 | 167 | 320 | Madison Wicks |
 | 168 | 318 | Jessica Sheehan |
 | 169 | 318 | Virginia Gray Floyd |
@@ -312,11 +312,11 @@
 | 304 | 199 | Tina Englert |
 | 305 | 199 | Christina Norman |
 | 306 | 197 | build master |
-| 307 | 196 | Marci Sanders |
+| 307 | 196 | .running. |
 | 308 | 196 | Perky Shiftsnap |
-| 309 | 196 | .running. |
-| 310 | 195 | Beazel75 |
-| 311 | 195 | Herm Junior |
+| 309 | 196 | Marci Sanders |
+| 310 | 195 | Herm Junior |
+| 311 | 195 | Beazel75 |
 | 312 | 193 | Lachelle Dillon |
 | 313 | 192 | Jessica Russell |
 | 314 | 191 | Oscar Zamora |
@@ -346,10 +346,10 @@
 | 338 | 183 | Chummy Rollblock |
 | 339 | 183 | Dino |
 | 340 | 182 | Nathan Sealander |
-| 341 | 181 | Mark Smith |
-| 342 | 181 | David DeSantis |
-| 343 | 180 | Rico Rico |
-| 344 | 180 | Discovery Point |
+| 341 | 181 | David DeSantis |
+| 342 | 181 | Mark Smith |
+| 343 | 180 | Discovery Point |
+| 344 | 180 | Rico Rico |
 | 345 | 179 | Ryan White |
 | 346 | 178 | Teri Oehlke |
 | 347 | 178 | Vivienne Carter |
