@@ -337,8 +337,8 @@
 | 329 | 289 | Lazy Glidepiece |
 | 330 | 289 | Juls |
 | 331 | 289 | Deb Rubeck |
-| 332 | 288 | Jumpy Zonepiece |
-| 333 | 288 | Amy Jean |
+| 332 | 288 | Amy Jean |
+| 333 | 288 | Jumpy Zonepiece |
 | 334 | 286 | Bradley Reeves |
 | 335 | 284 | Chair |
 | 336 | 284 | Johnny R |
@@ -429,7 +429,7 @@
 | 421 | 239 | Denise B |
 | 422 | 239 | Kevin Bush |
 | 423 | 238 | GBR |
-| 424 | 238 | Amanda Christine |
+| 424 | 238 | 中山成巳 |
 | 425 | 237 | Alan Zukowski |
 | 426 | 236 | Michelle Morris |
 | 427 | 236 | The Murphy |

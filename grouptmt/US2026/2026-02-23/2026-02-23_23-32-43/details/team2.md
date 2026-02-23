@@ -221,8 +221,8 @@
 | 213 | 1581 | Tommy Tha Boss Gunz |
 | 214 | 1580 | Sally Dennis |
 | 215 | 1569 | Ashley Dow |
-| 216 | 1558 | Tim Dyer |
-| 217 | 1558 | Crystal Slaughter |
+| 216 | 1558 | Crystal Slaughter |
+| 217 | 1558 | Tim Dyer |
 | 218 | 1557 | Poppy Snap |
 | 219 | 1556 | Tonya Morgan |
 | 220 | 1554 | Howard Forest |

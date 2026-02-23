@@ -57,8 +57,8 @@
 | 49 | 1815 | Rachel Bowers |
 | 50 | 1772 | Liv Whetson |
 | 51 | 1754 | Nate Burnside |
-| 52 | 1734 | Aaron Pitkin |
-| 53 | 1734 | Fancy Slam |
+| 52 | 1734 | Fancy Slam |
+| 53 | 1734 | Aaron Pitkin |
 | 54 | 1732 | Jessica Ann |
 | 55 | 1691 | Cass Mendoza |
 | 56 | 1677 | Tina Kay |
@@ -268,12 +268,12 @@
 | 260 | 520 | Cozy Snaplink |
 | 261 | 519 | Nichol Graham |
 | 262 | 516 | Daring Brickzone |
-| 263 | 513 | PrncssPJ |
-| 264 | 513 | Giggy Glidepiece |
+| 263 | 513 | Giggy Glidepiece |
+| 264 | 513 | PrncssPJ |
 | 265 | 513 | Lizabeth Fox |
 | 266 | 510 | Marquita Sheard |
-| 267 | 508 | rosy |
-| 268 | 508 | joz |
+| 267 | 508 | joz |
+| 268 | 508 | rosy |
 | 269 | 507 | Snappy Balancer |
 | 270 | 506 | Ammmmmmy |
 | 271 | 505 | Stephanie Simpson |
@@ -358,8 +358,8 @@
 | 350 | 389 | ROODBOY |
 | 351 | 388 | Michelle Allers |
 | 352 | 386 | Philip Rock |
-| 353 | 386 | Kellie Montgomery |
-| 354 | 386 | Kelly Wolf |
+| 353 | 386 | Kelly Wolf |
+| 354 | 386 | Kellie Montgomery |
 | 355 | 383 | Kirhonda Autmon |
 | 356 | 383 | Nikki White |
 | 357 | 382 | Amanda J. Mcneil-Anderson |
