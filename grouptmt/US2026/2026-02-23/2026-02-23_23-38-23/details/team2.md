@@ -335,8 +335,8 @@
 | 327 | 1156 | Alezandra Smith |
 | 328 | 1156 | Arkei Luster |
 | 329 | 1155 | F-X |
-| 330 | 1142 | Sheniya Spurgeon |
-| 331 | 1142 | April Dawn Gussler |
+| 330 | 1142 | April Dawn Gussler |
+| 331 | 1142 | Sheniya Spurgeon |
 | 332 | 1140 | Kimberly Hauck-Rausch |
 | 333 | 1139 | Carl Bradshaw |
 | 334 | 1139 | Aireka Roman |
@@ -446,15 +446,15 @@
 | 438 | 919 | Isaac Trappiel IV |
 | 439 | 918 | William Hunt |
 | 440 | 918 | Kori Beth Babb |
-| 441 | 916 | Jánine Riggs |
-| 442 | 916 | Butta |
+| 441 | 916 | Butta |
+| 442 | 916 | Jánine Riggs |
 | 443 | 915 | Kelly Trent |
 | 444 | 911 | Felicia Lynn |
 | 445 | 910 | Smashanator |
 | 446 | 909 | Valerie Brooke Lusk Armstrong |
 | 447 | 907 | Gene Mills |
-| 448 | 905 | Adam Simmons |
-| 449 | 905 | Lexie Burke |
+| 448 | 905 | Lexie Burke |
+| 449 | 905 | Adam Simmons |
 | 450 | 904 | Brenda Utphall |
 | 451 | 903 | Eric Castaneda |
 | 452 | 903 | Ashle Scranton |
@@ -506,8 +506,8 @@
 | 498 | 831 | Victoria Moore-Smith |
 | 499 | 831 | Victoria Regina Girolami |
 | 500 | 828 | Shantel Kelley |
-| 501 | 826 | Lola Contreras |
-| 502 | 826 | Angela Yantz |
+| 501 | 826 | Angela Yantz |
+| 502 | 826 | Lola Contreras |
 | 503 | 824 | Khalil Lowe |
 | 504 | 822 | Fancy Twister |
 | 505 | 821 | Anthony Mignacca |
@@ -606,12 +606,12 @@
 | 598 | 726 | Gloria Ininahazwe |
 | 599 | 725 | Vonceial Boone |
 | 600 | 720 | William Bresee |
-| 601 | 717 | Isabelle Bonneau |
+| 601 | 717 | Leticia Martinez Kelley |
 | 602 | 717 | Shinette Dobson |
-| 603 | 717 | Isabelle Bonneau |
-| 604 | 717 | Rhonda Milstead |
+| 603 | 717 | Rhonda Milstead |
+| 604 | 717 | Isabelle Bonneau |
 | 605 | 716 | Cc |
-| 606 | 715 | Daniell Martinez |
+| 606 | 715 | Julio A Laracuente |
 | 607 | 715 | Brenna Ann |
 | 608 | 715 | Daniell Martinez |
 | 609 | 714 | Jennifer Leigh |

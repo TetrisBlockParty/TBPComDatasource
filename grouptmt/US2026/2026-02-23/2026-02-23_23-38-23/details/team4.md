@@ -394,8 +394,8 @@
 | 386 | 257 | Dustin York |
 | 387 | 257 | Michael Snow |
 | 388 | 257 | Alexandra Karavias |
-| 389 | 256 | Mackenzie Forrester |
-| 390 | 256 | Gracie Ann Taylor |
+| 389 | 256 | Gracie Ann Taylor |
+| 390 | 256 | Mackenzie Forrester |
 | 391 | 255 | PennyCandee |
 | 392 | 254 | Laurmarcar |
 | 393 | 254 | Shainne Brewer |
@@ -513,8 +513,8 @@
 | 505 | 201 | Ashlee Carnes |
 | 506 | 199 | Eri Kka |
 | 507 | 198 | Helen Chao |
-| 508 | 197 | Jeff Roberts |
-| 509 | 197 | Jackson Karen |
+| 508 | 197 | Jackson Karen |
+| 509 | 197 | Sholom Fried |
 | 510 | 197 | Frisky Matchgrid |
 | 511 | 197 | Zippy Tilt |
 | 512 | 197 | Jeff Roberts |

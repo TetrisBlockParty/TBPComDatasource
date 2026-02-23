@@ -137,8 +137,8 @@
 | 129 | 945 | Shonna Roberts |
 | 130 | 940 | Stephanie Allmon |
 | 131 | 939 | Jamie Lang |
-| 132 | 936 | Dolores Falco |
-| 133 | 936 | Giddy Drop |
+| 132 | 936 | Giddy Drop |
+| 133 | 936 | Dolores Falco |
 | 134 | 932 | Katrina Schroeder |
 | 135 | 931 | Michelle |
 | 136 | 930 | Bea Miles |
@@ -229,8 +229,8 @@
 | 221 | 590 | Shawn Miller |
 | 222 | 588 | Salena Whitlock |
 | 223 | 587 | Louise Stacy Sisson |
-| 224 | 585 | Happy Tetriblast |
-| 225 | 585 | Jim Mathews |
+| 224 | 585 | Jim Mathews |
+| 225 | 585 | Happy Tetriblast |
 | 226 | 582 | Natasha Jones |
 | 227 | 580 | FuzzyNavel |
 | 228 | 569 | Michael Johnson |
@@ -268,12 +268,12 @@
 | 260 | 520 | Cozy Snaplink |
 | 261 | 519 | Nichol Graham |
 | 262 | 516 | Daring Brickzone |
-| 263 | 513 | PrncssPJ |
-| 264 | 513 | Giggy Glidepiece |
+| 263 | 513 | Giggy Glidepiece |
+| 264 | 513 | PrncssPJ |
 | 265 | 513 | Lizabeth Fox |
 | 266 | 510 | Marquita Sheard |
-| 267 | 508 | rosy |
-| 268 | 508 | joz |
+| 267 | 508 | joz |
+| 268 | 508 | rosy |
 | 269 | 507 | Snappy Balancer |
 | 270 | 506 | Ammmmmmy |
 | 271 | 505 | Stephanie Simpson |
@@ -349,8 +349,8 @@
 | 341 | 404 | Cheryl Hinch Tenbrook |
 | 342 | 403 | Stephanie Burtin |
 | 343 | 403 | Scott Lindsay |
-| 344 | 401 | block chick |
-| 345 | 401 | Tay |
+| 344 | 401 | Tay |
+| 345 | 401 | block chick |
 | 346 | 399 | Num1hater |
 | 347 | 398 | fraulila |
 | 348 | 396 | Kellie Montgomery |
