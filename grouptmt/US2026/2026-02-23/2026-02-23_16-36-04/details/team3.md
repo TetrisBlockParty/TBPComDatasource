@@ -617,8 +617,8 @@
 | 609 | 214 | Amy Fuller Heaton |
 | 610 | 214 | Shiny Snapfit |
 | 611 | 213 | Gina Marie |
-| 612 | 213 | Laaken Draper |
-| 613 | 213 | Clever Edgepiece |
+| 612 | 213 | Clever Edgepiece |
+| 613 | 213 | Laaken Draper |
 | 614 | 212 | Jm |
 | 615 | 212 | Frisky Stacker |
 | 616 | 212 | Kita A Jackson |

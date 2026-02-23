@@ -137,8 +137,8 @@
 | 129 | 545 | Desi Desporte |
 | 130 | 542 | Austin Owens |
 | 131 | 540 | Rodney McMath Jr. |
-| 132 | 538 | Carlos Ramirez |
-| 133 | 538 | shar |
+| 132 | 538 | shar |
+| 133 | 538 | Carlos Ramirez |
 | 134 | 533 | Samantha Peterson |
 | 135 | 531 | Serena Goodridge |
 | 136 | 524 | Cristy Duerksen |
@@ -180,8 +180,8 @@
 | 172 | 428 | Mona Sharma |
 | 173 | 427 | Steph Marie |
 | 174 | 426 | 🥔🥔 Spudz |
-| 175 | 423 | Carrie Brian |
-| 176 | 423 | Crystal Nicolette Moore |
+| 175 | 423 | Crystal Nicolette Moore |
+| 176 | 423 | Carrie Brian |
 | 177 | 422 | Zakia Monae |
 | 178 | 421 | JIGsaw ~(•¿°)~ |
 | 179 | 421 | Kesha Brady |
@@ -570,10 +570,10 @@
 | 562 | 146 | Groovy Gridlock |
 | 563 | 146 | Jen Hallin |
 | 564 | 145 | No Strings Attached Ra |
-| 565 | 145 | Austin Trent Weaver |
-| 566 | 145 | Glitzy Crasher |
-| 567 | 144 | Zach Kerbs |
-| 568 | 144 | KyngKliff |
+| 565 | 145 | Glitzy Crasher |
+| 566 | 145 | Austin Trent Weaver |
+| 567 | 144 | KyngKliff |
+| 568 | 144 | Zach Kerbs |
 | 569 | 144 | Bumpy Morris |
 | 570 | 143 | Sherri |
 | 571 | 143 | Kristin MacDonald |
