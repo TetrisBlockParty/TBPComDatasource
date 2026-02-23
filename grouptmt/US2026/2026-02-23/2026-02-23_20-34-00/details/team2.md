@@ -202,8 +202,8 @@
 | 194 | 1601 | Ray Ray Prado |
 | 195 | 1600 | Mo Shine On |
 | 196 | 1592 | Dolores Russworn |
-| 197 | 1590 | Amy Sayers |
-| 198 | 1590 | Jaycee |
+| 197 | 1590 | Jaycee |
+| 198 | 1590 | Amy Sayers |
 | 199 | 1585 | Glitzy Stackzone |
 | 200 | 1580 | Sally Dennis |
 | 201 | 1569 | Ashley Dow |
@@ -301,14 +301,14 @@
 | 293 | 1184 | Jamie Otero |
 | 294 | 1179 | Georgia Triblett |
 | 295 | 1178 | Dimitra Zazara |
-| 296 | 1172 | Stacey Clement |
-| 297 | 1172 | Lakeysha Dortch |
+| 296 | 1172 | Lakeysha Dortch |
+| 297 | 1172 | Stacey Clement |
 | 298 | 1171 | Loretta Brewer-Gage |
 | 299 | 1164 | Amber Brion |
 | 300 | 1163 | Erika Densmore |
 | 301 | 1158 | Brittany Clark |
-| 302 | 1156 | Arkei Luster |
-| 303 | 1156 | Alezandra Smith |
+| 302 | 1156 | Alezandra Smith |
+| 303 | 1156 | Arkei Luster |
 | 304 | 1154 | Rebecca Miller |
 | 305 | 1145 | Deborah Miller |
 | 306 | 1142 | Sheniya Spurgeon |
@@ -492,8 +492,8 @@
 | 484 | 821 | Anthony Mignacca |
 | 485 | 820 | Laura McCarthey |
 | 486 | 819 | Sabrena Yeisley |
-| 487 | 816 | Beth |
-| 488 | 816 | James Simms III |
+| 487 | 816 | James Simms III |
+| 488 | 816 | Beth |
 | 489 | 812 | Samantha Jo |
 | 490 | 811 | Brenda Pierpoint |
 | 491 | 811 | Dreamy Blast |
@@ -636,8 +636,8 @@
 | 628 | 660 | Santana Miyagi |
 | 629 | 659 | Anthony Huebel |
 | 630 | 658 | Demeka Dangerous-kisses Johnson |
-| 631 | 657 | Kia Humphery |
-| 632 | 657 | Angelina Marie |
+| 631 | 657 | Angelina Marie |
+| 632 | 657 | Kia Humphery |
 | 633 | 656 | Tonya Lee |
 | 634 | 655 | mshir |
 | 635 | 655 | Silly Pivotfall |
@@ -749,18 +749,18 @@
 | 741 | 578 | Josh N Corrine |
 | 742 | 576 | ItsJennifer Neriss |
 | 743 | 576 | Leslie Johnson Guinto |
-| 744 | 573 | Niceday |
-| 745 | 573 | Vaniel Glover |
+| 744 | 573 | Vaniel Glover |
+| 745 | 573 | Niceday |
 | 746 | 572 | Rachael Senard |
 | 747 | 572 | SwampRebel |
 | 748 | 572 | Alexandra Lynn |
 | 749 | 570 | Peppy Snapfall |
 | 750 | 570 | Sonya Back |
-| 751 | 569 | Nat |
-| 752 | 569 | Sparkles |
+| 751 | 569 | Sparkles |
+| 752 | 569 | Nat |
 | 753 | 568 | Snippy Rumbler |
 | 754 | 568 | Stacey Tranchida |
-| 755 | 567 | Ryan Meilleur |
+| 755 | 567 | Lathasa Newkirk |
 | 756 | 567 | Tracy Cowley |
 | 757 | 567 | Ryan Meilleur |
 | 758 | 566 | Shindee |

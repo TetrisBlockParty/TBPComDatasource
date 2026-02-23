@@ -160,8 +160,8 @@
 | 152 | 514 | Lucas J Sutton |
 | 153 | 514 | Scott Jameson |
 | 154 | 513 | Erin Thomas |
-| 155 | 512 | ThaEviLJeNiuZ |
-| 156 | 512 | Angela Srubar-Norman |
+| 155 | 512 | Angela Srubar-Norman |
+| 156 | 512 | ThaEviLJeNiuZ |
 | 157 | 512 | Casey Jeffcoat |
 | 158 | 508 | Twisty Clicky |
 | 159 | 507 | Nick Gray |
@@ -174,8 +174,8 @@
 | 166 | 491 | Carrie Brian |
 | 167 | 486 | Swanky Fitline |
 | 168 | 485 | Rico |
-| 169 | 480 | Brandon Crabbs |
-| 170 | 480 | Adam Stephanie Parker |
+| 169 | 480 | Adam Stephanie Parker |
+| 170 | 480 | Brandon Crabbs |
 | 171 | 479 | Christina Black |
 | 172 | 477 | Casey Grabner |
 | 173 | 476 | Matt Summer |
@@ -352,8 +352,8 @@
 | 344 | 267 | Metsfan |
 | 345 | 266 | Happy Combo |
 | 346 | 265 | Christine Therrien |
-| 347 | 265 | Sarah Neathery |
-| 348 | 265 | Lorena Guerrero-Barron |
+| 347 | 265 | Lorena Guerrero-Barron |
+| 348 | 265 | Sarah Neathery |
 | 349 | 265 | Degenerate |
 | 350 | 264 | AyeKay |
 | 351 | 263 | Jumpy Zonepiece |
@@ -363,8 +363,8 @@
 | 355 | 261 | Jason Frehner |
 | 356 | 260 | Angelito |
 | 357 | 260 | Carter Jones |
-| 358 | 259 | Montiette Mcglown |
-| 359 | 259 | Allen Lloyd |
+| 358 | 259 | Allen Lloyd |
+| 359 | 259 | Montiette Mcglown |
 | 360 | 258 | Lilya Troutman |
 | 361 | 257 | Alexandra Karavias |
 | 362 | 257 | Marcus TheeyoungWoe Gilmore |
@@ -390,9 +390,9 @@
 | 382 | 244 | Perky Piecegrid |
 | 383 | 243 | Val Erie |
 | 384 | 242 | PurpleMoonMa |
-| 385 | 240 | Perky Patternblock |
-| 386 | 240 | Zany Shatterer |
-| 387 | 240 | Jackie Marie |
+| 385 | 240 | Zany Shatterer |
+| 386 | 240 | Jackie Marie |
+| 387 | 240 | Perky Patternblock |
 | 388 | 239 | Laura Hosford |
 | 389 | 239 | Kevin Bush |
 | 390 | 239 | Denise B |
