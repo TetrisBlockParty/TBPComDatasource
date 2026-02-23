@@ -129,8 +129,8 @@
 | 121 | 477 | Tonya Beasley |
 | 122 | 475 | Sarah Somers Gray |
 | 123 | 471 | Hyper |
-| 124 | 467 | Constance Risner |
-| 125 | 467 | Candy Jones |
+| 124 | 467 | Candy Jones |
+| 125 | 467 | Constance Risner |
 | 126 | 466 | Adrian Esteban |
 | 127 | 465 | Kristi Johnson |
 | 128 | 463 | Lexuriuos Lifestlye |
@@ -239,8 +239,8 @@
 | 231 | 322 | Letson Melissa |
 | 232 | 320 | Danielle Little-Daugherty |
 | 233 | 319 | Frothy Pattern |
-| 234 | 317 | Sarah Roberts |
-| 235 | 317 | Melissa Lemmon |
+| 234 | 317 | Melissa Lemmon |
+| 235 | 317 | Sarah Roberts |
 | 236 | 316 | Sassy Builderline |
 | 237 | 316 | Reesey Enyart |
 | 238 | 315 | Mandyy Rae |

@@ -260,8 +260,8 @@
 | 252 | 290 | Plucky Patternblock |
 | 253 | 290 | Jared Gutwein |
 | 254 | 289 | Juls |
-| 255 | 288 | Adam Stephanie Parker |
-| 256 | 288 | Brittney Orengo |
+| 255 | 288 | Brittney Orengo |
+| 256 | 288 | Adam Stephanie Parker |
 | 257 | 286 | KimoKoala |
 | 258 | 284 | Kim Klutz Olson |
 | 259 | 284 | Matt Dell'Olio |

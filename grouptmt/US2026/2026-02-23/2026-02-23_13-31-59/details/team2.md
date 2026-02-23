@@ -44,8 +44,8 @@
 | 36 | 4301 | Mighty Patternzone |
 | 37 | 4199 | Claire Noland |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Corrine Hawks Soriano |
-| 40 | 4120 | Kristen Sceurman |
+| 39 | 4120 | Kristen Sceurman |
+| 40 | 4120 | Corrine Hawks Soriano |
 | 41 | 4086 | PandaMama |
 | 42 | 4006 | CoolKat |
 | 43 | 3960 | Brittany Alicia |
@@ -359,8 +359,8 @@
 | 351 | 926 | Deborah Miller |
 | 352 | 919 | Isaac Trappiel IV |
 | 353 | 918 | Amber Brion |
-| 354 | 917 | Nashu |
-| 355 | 917 | Jackie Burnett |
+| 354 | 917 | Jackie Burnett |
+| 355 | 917 | Nashu |
 | 356 | 916 | Butta |
 | 357 | 915 | Kelly Trent |
 | 358 | 914 | Shuany Arias |
@@ -392,8 +392,8 @@
 | 384 | 858 | Lauren Fitzgerald Thomas |
 | 385 | 856 | Jelly |
 | 386 | 856 | Mighty Shatterfit |
-| 387 | 853 | Mandi Douglas Hilt |
-| 388 | 853 | Meghan M |
+| 387 | 853 | Meghan M |
+| 388 | 853 | Mandi Douglas Hilt |
 | 389 | 851 | Johnny Yeates |
 | 390 | 848 | Misti Markijohn |
 | 391 | 846 | Kayla |
@@ -413,8 +413,8 @@
 | 405 | 828 | Desire Rice |
 | 406 | 828 | Kimmy Newman |
 | 407 | 825 | Jeremy Parodi |
-| 408 | 824 | Khalil Lowe |
-| 409 | 824 | Danielle Johnson-Chandler |
+| 408 | 824 | Danielle Johnson-Chandler |
+| 409 | 824 | Khalil Lowe |
 | 410 | 822 | Lola Contreras |
 | 411 | 819 | Victoria Regina Girolami |
 | 412 | 816 | Beth |
@@ -888,14 +888,14 @@
 | 880 | 438 | Deyawn Smith |
 | 881 | 438 | Kelly Amos |
 | 882 | 438 | Tom Steffen |
-| 883 | 437 | Shalisa Hill |
-| 884 | 437 | Dee Blokk |
-| 885 | 436 | Christina Loftus |
-| 886 | 436 | Regina Knight |
-| 887 | 435 | Snappy snappers |
+| 883 | 437 | Dee Blokk |
+| 884 | 437 | Shalisa Hill |
+| 885 | 436 | Regina Knight |
+| 886 | 436 | Christina Loftus |
+| 887 | 435 | Janai Vrabel |
 | 888 | 435 | Taylor Flowers |
-| 889 | 435 | Janai Vrabel |
-| 890 | 435 | John |
+| 889 | 435 | John |
+| 890 | 435 | Snappy snappers |
 | 891 | 434 | Veronics |
 | 892 | 433 | Snappy Shatterfit |
 | 893 | 433 | Melissa Koria |
@@ -903,14 +903,14 @@
 | 895 | 433 | David Scott |
 | 896 | 432 | Michelle Shrum |
 | 897 | 432 | Loopy Brickmatch |
-| 898 | 432 | Michelle Shrum |
+| 898 | 432 | Karen Schweyer |
 | 899 | 431 | Lewis Sturgeon |
 | 900 | 430 | De Hawkins |
 | 901 | 429 | Dandy Combo |
 | 902 | 429 | Ricky Fortune |
 | 903 | 429 | Angel Hunnewell |
-| 904 | 428 | Jenn Morin |
-| 905 | 428 | Mike73 |
+| 904 | 428 | Mike73 |
+| 905 | 428 | Jenn Morin |
 | 906 | 428 | Lisa Falcon |
 | 907 | 427 | Gina Caulder |
 | 908 | 427 | Destiny Cozier |

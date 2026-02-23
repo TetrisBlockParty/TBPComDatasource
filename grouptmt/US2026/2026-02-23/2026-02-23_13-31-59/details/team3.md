@@ -180,8 +180,8 @@
 | 172 | 602 | Jacqueline Rodriguez |
 | 173 | 599 | opf |
 | 174 | 598 | Makelini Mausia |
-| 175 | 597 | CeceGeGe |
-| 176 | 597 | Diana Ibarra |
+| 175 | 597 | Diana Ibarra |
+| 176 | 597 | CeceGeGe |
 | 177 | 591 | Michael Nowogorski |
 | 178 | 589 | Kaycee Kay |
 | 179 | 587 | Louise Stacy Sisson |
@@ -192,8 +192,8 @@
 | 184 | 574 | Morgan Martinez |
 | 185 | 568 | Rachael McClain Owens |
 | 186 | 566 | LaTanya GeminiondaRise Johnson |
-| 187 | 564 | Christine Trester |
-| 188 | 564 | Poppy Splitter |
+| 187 | 564 | Poppy Splitter |
+| 188 | 564 | Christine Trester |
 | 189 | 563 | Jim Mathews |
 | 190 | 562 | Dave Herzog |
 | 191 | 561 | Elissa S-k |
@@ -829,9 +829,9 @@
 | 821 | 151 | Brad Dimitroff |
 | 822 | 150 | Kiya Lynn |
 | 823 | 150 | Anastasia Williams |
-| 824 | 150 | Kiya Lynn |
-| 825 | 149 | Timothy Townes |
-| 826 | 149 | Moneyvybz |
+| 824 | 150 | Leticia Lynn Lowe |
+| 825 | 149 | Moneyvybz |
+| 826 | 149 | Timothy Townes |
 | 827 | 149 | Vikkye Vizaniaris |
 | 828 | 149 | Elena Sanchez Damian |
 | 829 | 149 | Alexis Taylor |
@@ -1288,7 +1288,7 @@
 | 1280 | 91 | Giggy Snapzone |
 | 1281 | 91 | Liendro |
 | 1282 | 91 | Dreamy Tumbler |
-| 1283 | 91 | Dee Dee |
+| 1283 | 91 | Dreamy Tetrisline |
 | 1284 | 91 | Daniel Davis |
 | 1285 | 91 | Dee Dee |
 | 1286 | 90 | Tammy Hubbard |
