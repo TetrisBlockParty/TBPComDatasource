@@ -104,8 +104,8 @@
 | 96 | 2170 | Steve Grotto |
 | 97 | 2165 | Tj Ball |
 | 98 | 2155 | Qiana Sanders |
-| 99 | 2148 | Roger Grabbit |
-| 100 | 2148 | ShinyRose |
+| 99 | 2148 | ShinyRose |
+| 100 | 2148 | Roger Grabbit |
 | 101 | 2146 | KellyDyan |
 | 102 | 2106 | Cool Rollpiece |
 | 103 | 2103 | Alisha Peoples |
@@ -335,8 +335,8 @@
 | 327 | 888 | Donna M Carter |
 | 328 | 888 | Felicia Lynn |
 | 329 | 885 | Wakanda Forever |
-| 330 | 884 | Adira Brown |
-| 331 | 884 | Steve Man |
+| 330 | 884 | Steve Man |
+| 331 | 884 | Adira Brown |
 | 332 | 883 | Hong Tang |
 | 333 | 882 | Nashu |
 | 334 | 879 | Lemonaide |

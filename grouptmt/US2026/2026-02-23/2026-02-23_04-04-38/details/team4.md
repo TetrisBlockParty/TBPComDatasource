@@ -57,8 +57,8 @@
 | 49 | 863 | Pee |
 | 50 | 855 | Marvin Lou Martin |
 | 51 | 853 | TeeJ |
-| 52 | 846 | Christine Marie |
-| 53 | 846 | Lucille Truesdale |
+| 52 | 846 | Lucille Truesdale |
+| 53 | 846 | Christine Marie |
 | 54 | 845 | LisaJo Picken Buchanan |
 | 55 | 843 | Shelly Chandler |
 | 56 | 841 | Anthony Bryan Riva |
@@ -86,16 +86,16 @@
 | 78 | 704 | Crystal Carroll |
 | 79 | 703 | Savannah Overdorf |
 | 80 | 697 | Alyssa Papen |
-| 81 | 684 | Jonathan Kimbrough |
-| 82 | 684 | Kimyatta Cavin |
+| 81 | 684 | Kimyatta Cavin |
+| 82 | 684 | Jonathan Kimbrough |
 | 83 | 677 | Trista Leah |
 | 84 | 673 | Jacqueline Helm |
 | 85 | 667 | Shane Kalamata Platoon |
 | 86 | 664 | Valerie Roberts |
 | 87 | 659 | Jamie Gustafson |
 | 88 | 647 | KM8 |
-| 89 | 647 | Shauna Havard |
-| 90 | 647 | Diana Houts |
+| 89 | 647 | Diana Houts |
+| 90 | 647 | Shauna Havard |
 | 91 | 646 | Eric Mcgaughy |
 | 92 | 626 | Brittney Griggs |
 | 93 | 620 | Judy Cox |
@@ -134,8 +134,8 @@
 | 126 | 458 | Twisty Clicky |
 | 127 | 451 | Peachy Fall |
 | 128 | 448 | Kristin Manee |
-| 129 | 435 | Kristina Black |
-| 130 | 435 | Leslie Thomas |
+| 129 | 435 | Leslie Thomas |
+| 130 | 435 | Kristina Black |
 | 131 | 431 | Courtney Cicoria |
 | 132 | 428 | Austin Owens |
 | 133 | 425 | Monica Daley |
@@ -162,8 +162,8 @@
 | 154 | 377 | Carrie Brian |
 | 155 | 375 | Desi Desporte |
 | 156 | 375 | ThaEviLJeNiuZ |
-| 157 | 374 | Leslie Nicole |
-| 158 | 374 | Guy Incognito |
+| 157 | 374 | Guy Incognito |
+| 158 | 374 | Leslie Nicole |
 | 159 | 373 | Tyler Terrific |
 | 160 | 370 | Oscar Alberto Perez |
 | 161 | 368 | Brandon Crabbs |
@@ -227,10 +227,10 @@
 | 219 | 282 | Kim Klutz Olson |
 | 220 | 281 | Nikki Rae Gordon |
 | 221 | 281 | Laura |
-| 222 | 278 | Angela Geist Jusinski |
-| 223 | 278 | Sarah Brown |
-| 224 | 276 | Joeliecea Cobb |
-| 225 | 276 | Matt Dell'Olio |
+| 222 | 278 | Sarah Brown |
+| 223 | 278 | Angela Geist Jusinski |
+| 224 | 276 | Matt Dell'Olio |
+| 225 | 276 | Joeliecea Cobb |
 | 226 | 273 | Casey Grabner |
 | 227 | 272 | Dennis Bradley |
 | 228 | 272 | Alan George LaRage |
@@ -243,11 +243,11 @@
 | 235 | 264 | Stella |
 | 236 | 264 | Silly SeaWeed |
 | 237 | 263 | JPW |
-| 238 | 262 | BigSammy420 |
-| 239 | 262 | Selena Shaw |
+| 238 | 262 | Selena Shaw |
+| 239 | 262 | BigSammy420 |
 | 240 | 260 | Carter Jones |
-| 241 | 259 | Allen Lloyd |
-| 242 | 259 | Montiette Mcglown |
+| 241 | 259 | Montiette Mcglown |
+| 242 | 259 | Allen Lloyd |
 | 243 | 257 | PeaceOs |
 | 244 | 256 | Mylo Lipscomb |
 | 245 | 256 | Metsfan |
@@ -267,10 +267,10 @@
 | 259 | 240 | Lori |
 | 260 | 240 | Perky Patternblock |
 | 261 | 239 | Joanna |
-| 262 | 238 | 中山成巳 |
-| 263 | 238 | Chaz |
-| 264 | 237 | 030Synner |
-| 265 | 237 | Christine Therrien |
+| 262 | 238 | Chaz |
+| 263 | 238 | 中山成巳 |
+| 264 | 237 | Christine Therrien |
+| 265 | 237 | 030Synner |
 | 266 | 236 | Degenerate |
 | 267 | 235 | Jade Rian |
 | 268 | 235 | Chair |
@@ -470,7 +470,7 @@
 | 462 | 146 | Jen Hallin |
 | 463 | 145 | Jackie Clark |
 | 464 | 145 | Glitzy Crasher |
-| 465 | 145 | Jackie Clark |
+| 465 | 145 | Austin Trent Weaver |
 | 466 | 144 | Zach Kerbs |
 | 467 | 143 | Sherri |
 | 468 | 143 | Smiley Shifter |
@@ -501,10 +501,10 @@
 | 493 | 137 | Brianna Walker |
 | 494 | 137 | Red |
 | 495 | 136 | Zocko Ellet |
-| 496 | 136 | Tipsy Cascader |
-| 497 | 136 | Tabitha Calvin |
-| 498 | 136 | Badatvs |
-| 499 | 136 | Jennifer Perkins |
+| 496 | 136 | Badatvs |
+| 497 | 136 | Tipsy Cascader |
+| 498 | 136 | Jennifer Perkins |
+| 499 | 136 | Tabitha Calvin |
 | 500 | 134 | Kevin Bush |
 | 501 | 133 | Jesus Garcia |
 | 502 | 133 | Wacky Blockclear |
@@ -530,8 +530,8 @@
 | 522 | 128 | Zesty Linkgrid |
 | 523 | 128 | Raymond Roberts |
 | 524 | 127 | Jay You |
-| 525 | 126 | Amy C Brown |
-| 526 | 126 | Cheryl Johnson |
+| 525 | 126 | Cheryl Johnson |
+| 526 | 126 | Spicy Cascadezone |
 | 527 | 126 | PAPatty |
 | 528 | 126 | Amy C Brown |
 | 529 | 125 | Frilly Blocky |

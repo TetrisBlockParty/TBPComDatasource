@@ -102,8 +102,8 @@
 | 94 | 519 | Ryan Lunnin |
 | 95 | 510 | Colena Davenport |
 | 96 | 496 | Arianna O'Brien |
-| 97 | 493 | MomMom |
-| 98 | 493 | Jennifer ManWarren |
+| 97 | 493 | Jennifer ManWarren |
+| 98 | 493 | MomMom |
 | 99 | 492 | Ash Galvan |
 | 100 | 489 | Deanna L Hermanson |
 | 101 | 488 | cc |
@@ -227,8 +227,8 @@
 | 219 | 279 | Bird Person |
 | 220 | 277 | Melissa Lemmon |
 | 221 | 277 | Nutty Spinblock |
-| 222 | 275 | Chris65 |
-| 223 | 275 | Cheeky Pop |
+| 222 | 275 | Cheeky Pop |
+| 223 | 275 | Chris65 |
 | 224 | 273 | Shannon Marie Pitts |
 | 225 | 272 | Lakeisha Chapman |
 | 226 | 271 | Sam Williams |
@@ -324,7 +324,7 @@
 | 316 | 207 | Jennifer Olewnik Soborowski |
 | 317 | 205 | Agustin Duarte Orozco |
 | 318 | 205 | Brooke Elizabeth Antill |
-| 319 | 204 | LD1 |
+| 319 | 204 | .running. |
 | 320 | 204 | Chris Sigurdson |
 | 321 | 204 | LD1 |
 | 322 | 201 | Tedashi |
@@ -469,7 +469,7 @@
 | 461 | 146 | Tazz |
 | 462 | 145 | Sunny Pivotfall |
 | 463 | 145 | Robert |
-| 464 | 145 | Sunny Pivotfall |
+| 464 | 145 | Andrew Backes |
 | 465 | 144 | Miguel Teixeira |
 | 466 | 144 | Nicole Meredith Flynn |
 | 467 | 144 | Khatia Sikharulidze |
