@@ -44,8 +44,8 @@
 | 36 | 4280 | Robert Diddle |
 | 37 | 4199 | Claire Noland |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Corrine Hawks Soriano |
-| 40 | 4120 | Kristen Sceurman |
+| 39 | 4120 | Kristen Sceurman |
+| 40 | 4120 | Corrine Hawks Soriano |
 | 41 | 4086 | PandaMama |
 | 42 | 3947 | Melinda Brown |
 | 43 | 3845 | jayjay |
@@ -332,8 +332,8 @@
 | 324 | 955 | Angela Bonquiqui Dinish |
 | 325 | 954 | Melissa McCall |
 | 326 | 952 | Arkei Luster |
-| 327 | 951 | Wakanda Forever |
-| 328 | 951 | Cynthia Ward |
+| 327 | 951 | Cynthia Ward |
+| 328 | 951 | Wakanda Forever |
 | 329 | 949 | Steve Man |
 | 330 | 947 | Dedra Steward |
 | 331 | 942 | Cindy Sechler Taninecz |
@@ -385,8 +385,8 @@
 | 377 | 846 | Kayla |
 | 378 | 844 | Terri McKelvey McKinley |
 | 379 | 840 | Traci Johnson |
-| 380 | 838 | Nicole Cannon |
-| 381 | 838 | Misti Markijohn |
+| 380 | 838 | Misti Markijohn |
+| 381 | 838 | Nicole Cannon |
 | 382 | 836 | KhaosLord |
 | 383 | 833 | Dennis McLaurin |
 | 384 | 833 | Moni Foxe |
@@ -431,13 +431,13 @@
 | 423 | 775 | Crystie Hicks |
 | 424 | 772 | Danielle Simmons |
 | 425 | 771 | Stephanie Lumanlan |
-| 426 | 769 | Melissa Cole |
-| 427 | 769 | Kimberly Hope Howell |
+| 426 | 769 | Kimberly Hope Howell |
+| 427 | 769 | Melissa Cole |
 | 428 | 768 | Joshua Self |
 | 429 | 767 | Ashley Lopez |
 | 430 | 766 | Jennie Lee Huntley |
-| 431 | 764 | Victoria Regina Girolami |
-| 432 | 764 | Kiely Tomaskovich |
+| 431 | 764 | Kiely Tomaskovich |
+| 432 | 764 | Victoria Regina Girolami |
 | 433 | 763 | Dreamy Blast |
 | 434 | 763 | Heather Causey |
 | 435 | 761 | Elisheva Mizrachi |

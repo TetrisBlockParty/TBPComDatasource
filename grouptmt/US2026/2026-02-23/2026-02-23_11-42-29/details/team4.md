@@ -196,10 +196,10 @@
 | 188 | 352 | Lori |
 | 189 | 352 | Sue Joyce Staats |
 | 190 | 349 | Rafael Valentin |
-| 191 | 348 | David Lay |
-| 192 | 348 | April Rondinone |
-| 193 | 347 | Crystal Nicolette Moore |
-| 194 | 347 | Daria Rycewicz |
+| 191 | 348 | April Rondinone |
+| 192 | 348 | David Lay |
+| 193 | 347 | Daria Rycewicz |
+| 194 | 347 | Crystal Nicolette Moore |
 | 195 | 347 | Bio Nelly |
 | 196 | 346 | shark tato |
 | 197 | 340 | Kris Bartlett |
@@ -249,8 +249,8 @@
 | 241 | 288 | Brittney Orengo |
 | 242 | 285 | 030Synner |
 | 243 | 284 | Matt Dell'Olio |
-| 244 | 282 | Kim Klutz Olson |
-| 245 | 282 | Matt Gooder |
+| 244 | 282 | Matt Gooder |
+| 245 | 282 | Kim Klutz Olson |
 | 246 | 281 | Laura |
 | 247 | 280 | Rio Rocha |
 | 248 | 279 | Malakai Darien Fox |
