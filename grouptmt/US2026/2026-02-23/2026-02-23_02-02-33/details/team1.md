@@ -98,8 +98,8 @@
 | 90 | 500 | Evie Khalil |
 | 91 | 496 | Sarah Lombardo |
 | 92 | 494 | Arianna O'Brien |
-| 93 | 493 | Jennifer ManWarren |
-| 94 | 493 | MomMom |
+| 93 | 493 | MomMom |
+| 94 | 493 | Jennifer ManWarren |
 | 95 | 492 | Ash Galvan |
 | 96 | 489 | Deanna L Hermanson |
 | 97 | 486 | Tater |
@@ -224,9 +224,9 @@
 | 216 | 269 | Amanda Jarnagin |
 | 217 | 268 | Reesey Enyart |
 | 218 | 265 | Kandae |
-| 219 | 264 | Brave Wrecker |
+| 219 | 264 | Jenny Gingrich Fuentes |
 | 220 | 264 | Standia Civil |
-| 221 | 264 | Jenny Gingrich Fuentes |
+| 221 | 264 | Brave Wrecker |
 | 222 | 263 | Jessie Lynn |
 | 223 | 261 | John J. Cronin |
 | 224 | 260 | Marianita Garcia |

@@ -40,8 +40,8 @@
 | 32 | 4199 | Claire Noland |
 | 33 | 4130 | Robert Diddle |
 | 34 | 4128 | Angela Pruitt |
-| 35 | 4120 | Kristen Sceurman |
-| 36 | 4120 | Corrine Hawks Soriano |
+| 35 | 4120 | Corrine Hawks Soriano |
+| 36 | 4120 | Kristen Sceurman |
 | 37 | 4033 | Jill Stroehlein |
 | 38 | 3895 | Nickie Baby |
 | 39 | 3770 | Brittany Alicia |
@@ -333,8 +333,8 @@
 | 325 | 846 | Alyssa Hileman |
 | 326 | 844 | Terri McKelvey McKinley |
 | 327 | 843 | Wakanda Forever |
-| 328 | 833 | Moni Foxe |
-| 329 | 833 | Cody Nishimura |
+| 328 | 833 | Cody Nishimura |
+| 329 | 833 | Moni Foxe |
 | 330 | 832 | Woodys Glass |
 | 331 | 831 | Johnny Yeates |
 | 332 | 826 | Diallo Sparkman |
@@ -376,8 +376,8 @@
 | 368 | 767 | Ashley Lopez |
 | 369 | 763 | Dreamy Blast |
 | 370 | 763 | Heather Causey |
-| 371 | 762 | Nicole Cannon |
-| 372 | 762 | Jaycee |
+| 371 | 762 | Jaycee |
+| 372 | 762 | Nicole Cannon |
 | 373 | 760 | Cheech Dta |
 | 374 | 760 | Doowop40 |
 | 375 | 760 | Andrew Willis |
@@ -396,15 +396,15 @@
 | 388 | 741 | Jánine Riggs |
 | 389 | 740 | Jerry Tempelmeyer |
 | 390 | 738 | Aimee Campbell |
-| 391 | 737 | Chelle |
-| 392 | 737 | Jeremy Parodi |
+| 391 | 737 | Jeremy Parodi |
+| 392 | 737 | Chelle |
 | 393 | 737 | Ginger |
 | 394 | 732 | Victoria Moore-Smith |
 | 395 | 731 | Allan Wayne Lamia |
 | 396 | 729 | goofinoff |
 | 397 | 728 | Charvi' Carter |
-| 398 | 728 | Dylan Thomason |
-| 399 | 728 | Tom Riefer |
+| 398 | 728 | Tom Riefer |
+| 399 | 728 | Dylan Thomason |
 | 400 | 725 | Vonceial Boone |
 | 401 | 724 | Melissa Holsinger |
 | 402 | 722 | tejas25 |

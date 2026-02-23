@@ -61,8 +61,8 @@
 | 53 | 1276 | Aaron Pitkin |
 | 54 | 1269 | Amber Jones |
 | 55 | 1258 | Jennifer Petrie |
-| 56 | 1256 | Jessica Bechler |
-| 57 | 1256 | Mahman |
+| 56 | 1256 | Mahman |
+| 57 | 1256 | Jessica Bechler |
 | 58 | 1191 | Nate Burnside |
 | 59 | 1167 | Elaine Webb Graves |
 | 60 | 1141 | Queen Kam |
@@ -152,8 +152,8 @@
 | 144 | 590 | Santeria Trece Candles |
 | 145 | 589 | Logan Naccarato |
 | 146 | 588 | Justin Ritter |
-| 147 | 585 | Annie Marie |
-| 148 | 585 | Happy Tetriblast |
+| 147 | 585 | Happy Tetriblast |
+| 148 | 585 | Annie Marie |
 | 149 | 582 | Natasha Jones |
 | 150 | 579 | Tasha Gillespie |
 | 151 | 574 | Morgan Martinez |
@@ -161,8 +161,8 @@
 | 153 | 572 | CeceGeGe |
 | 154 | 571 | Nicole Myers |
 | 155 | 568 | Rachael McClain Owens |
-| 156 | 562 | Dave Herzog |
-| 157 | 562 | Louise Stacy Sisson |
+| 156 | 562 | Louise Stacy Sisson |
+| 157 | 562 | Dave Herzog |
 | 158 | 553 | LaTanya GeminiondaRise Johnson |
 | 159 | 549 | Peppy Shifter |
 | 160 | 546 | Cynthia Castros-Hampton |
@@ -174,8 +174,8 @@
 | 166 | 528 | Silly Twist |
 | 167 | 521 | Kammy Hill |
 | 168 | 516 | Danielle Balcom |
-| 169 | 506 | Sashay Tapae Simpson |
-| 170 | 506 | Stephanie Blkpep Davidson |
+| 169 | 506 | Stephanie Blkpep Davidson |
+| 170 | 506 | Sashay Tapae Simpson |
 | 171 | 504 | Jennifer Lynn Fahrenholtz-Summers |
 | 172 | 502 | Snappy Balancer |
 | 173 | 501 | Patti Skiles |
@@ -212,8 +212,8 @@
 | 204 | 432 | Fallorina Susana |
 | 205 | 432 | Jenny Hrndz |
 | 206 | 431 | Wendy Dearden |
-| 207 | 430 | Jeni Dow |
-| 208 | 430 | Joye Sims Binion |
+| 207 | 430 | Joye Sims Binion |
+| 208 | 430 | Jeni Dow |
 | 209 | 429 | Sherry Ogden |
 | 210 | 426 | Rochelle Hazelett |
 | 211 | 417 | Edwin Calvillo Jr. |
@@ -242,14 +242,14 @@
 | 234 | 378 | Chris Bell |
 | 235 | 375 | Kristal C Lee |
 | 236 | 373 | Rebecca Funderburk Kirby |
-| 237 | 372 | Sarah Moyer |
-| 238 | 372 | Rich LeBlanc |
+| 237 | 372 | Rich LeBlanc |
+| 238 | 372 | Sarah Moyer |
 | 239 | 370 | RickyG |
 | 240 | 369 | Marquita Sheard |
 | 241 | 369 | Keis |
 | 242 | 368 | Stephanie Woods |
-| 243 | 365 | Chummy Caster |
-| 244 | 365 | Noyb Adam |
+| 243 | 365 | Noyb Adam |
+| 244 | 365 | Chummy Caster |
 | 245 | 364 | Steffi Chris Dacones |
 | 246 | 362 | Brandon Givens |
 | 247 | 361 | Shawn Miller |
@@ -307,7 +307,7 @@
 | 299 | 297 | kacihall |
 | 300 | 296 | Snazzy Filler |
 | 301 | 296 | Donna |
-| 302 | 296 | Snazzy Filler |
+| 302 | 296 | Tracy Martin |
 | 303 | 294 | Betty Bóò |
 | 304 | 294 | fraulila |
 | 305 | 294 | Wettnippz |
