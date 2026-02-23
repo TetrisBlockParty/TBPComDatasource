@@ -270,9 +270,9 @@
 | 262 | 237 | 030Synner |
 | 263 | 237 | Christine Therrien |
 | 264 | 236 | Degenerate |
-| 265 | 235 | Shainne Brewer |
-| 266 | 235 | LaDonna LovinmesomeMe Lambert |
-| 267 | 235 | Jade Rian |
+| 265 | 235 | Jade Rian |
+| 266 | 235 | Shainne Brewer |
+| 267 | 235 | LaDonna LovinmesomeMe Lambert |
 | 268 | 234 | Richard-April Kice |
 | 269 | 233 | Ruben Wheeler |
 | 270 | 232 | Rio Rocha |

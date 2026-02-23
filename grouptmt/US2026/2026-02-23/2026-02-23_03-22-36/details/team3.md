@@ -126,8 +126,8 @@
 | 118 | 747 | Kristie |
 | 119 | 746 | Raya |
 | 120 | 745 | JerseyJess |
-| 121 | 744 | Fancy Cascader |
-| 122 | 744 | Leah Barnett |
+| 121 | 744 | Leah Barnett |
+| 122 | 744 | Fancy Cascader |
 | 123 | 742 | Groovy Catcher |
 | 124 | 736 | Katrina Schroeder |
 | 125 | 733 | mzcatzy |
@@ -196,11 +196,11 @@
 | 188 | 489 | Poppy Splitter |
 | 189 | 489 | Shannon Matthew Byers |
 | 190 | 488 | Melissa Orth Hunter |
-| 191 | 485 | Dapper Snap |
-| 192 | 485 | FuzzyNavel |
+| 191 | 485 | FuzzyNavel |
+| 192 | 485 | Dapper Snap |
 | 193 | 485 | Terry Jo Jones |
-| 194 | 480 | Danielle Allison |
-| 195 | 480 | Michael Johnson |
+| 194 | 480 | Michael Johnson |
+| 195 | 480 | Danielle Allison |
 | 196 | 475 | Tessina Dewey-Mancino |
 | 197 | 473 | Rachel |
 | 198 | 471 | Mendoza Lee Christy |
@@ -293,8 +293,8 @@
 | 285 | 324 | Sissy Lowery Davis |
 | 286 | 322 | Nena Somerville Kelly |
 | 287 | 321 | Wettnippz |
-| 288 | 320 | Ashley Muncey |
-| 289 | 320 | Or Reznitsky |
+| 288 | 320 | Or Reznitsky |
+| 289 | 320 | Ashley Muncey |
 | 290 | 312 | Twisty Brick LT |
 | 291 | 312 | LadyTorad |
 | 292 | 309 | Felicia Rocha |
@@ -367,8 +367,8 @@
 | 359 | 263 | Jimmie Clemons |
 | 360 | 262 | Isabel Ocasio |
 | 361 | 260 | Tracey Cox |
-| 362 | 259 | Jessica Lynn French |
-| 363 | 259 | Alice |
+| 362 | 259 | Alice |
+| 363 | 259 | Jessica Lynn French |
 | 364 | 259 | Dana Winters |
 | 365 | 258 | IamJust Neyamijah Washington Sr. |
 | 366 | 258 | Sleepy |
