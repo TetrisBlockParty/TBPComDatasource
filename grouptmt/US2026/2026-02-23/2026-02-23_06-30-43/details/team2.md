@@ -255,8 +255,8 @@
 | 247 | 1126 | Dolores Russworn |
 | 248 | 1121 | Tommy Tha Boss Gunz |
 | 249 | 1121 | Sarah Freitas |
-| 250 | 1114 | Ginnell Browner |
-| 251 | 1114 | Kevin Walp |
+| 250 | 1114 | Kevin Walp |
+| 251 | 1114 | Ginnell Browner |
 | 252 | 1111 | Julay |
 | 253 | 1110 | Robin Kerby |
 | 254 | 1105 | Nerdy Clearfit |
@@ -300,8 +300,8 @@
 | 292 | 987 | Osun Anuket Esu |
 | 293 | 984 | Crystal Hoffman |
 | 294 | 981 | Ashlen Dorrell |
-| 295 | 979 | Melissa Penelope Ann Dodge |
-| 296 | 979 | Hillary Crawford |
+| 295 | 979 | Hillary Crawford |
+| 296 | 979 | Melissa Penelope Ann Dodge |
 | 297 | 978 | April Dawn Gussler |
 | 298 | 976 | Sam Joe |
 | 299 | 976 | Della Hole |
@@ -339,8 +339,8 @@
 | 331 | 903 | Giggy Blocker |
 | 332 | 902 | William Hunt |
 | 333 | 901 | Kevin Sees |
-| 334 | 899 | Patrick Bartlett |
-| 335 | 899 | Chevy |
+| 334 | 899 | Chevy |
+| 335 | 899 | Patrick Bartlett |
 | 336 | 898 | Jamie Otero |
 | 337 | 895 | Donna Colby |
 | 338 | 890 | Steve Man |
@@ -394,8 +394,8 @@
 | 386 | 796 | AndrewandShela Gornik |
 | 387 | 796 | Amber Gray |
 | 388 | 793 | Heather Schelkopf |
-| 389 | 793 | Jaycee |
-| 390 | 793 | Arlene Joy Belicina |
+| 389 | 793 | Arlene Joy Belicina |
+| 390 | 793 | Jaycee |
 | 391 | 790 | Kathryn Townsley |
 | 392 | 790 | Brenda Pierpoint |
 | 393 | 788 | Erika Densmore |
@@ -445,8 +445,8 @@
 | 437 | 728 | Tom Riefer |
 | 438 | 728 | Dylan Thomason |
 | 439 | 726 | Crystal Greene |
-| 440 | 725 | Ashle Scranton |
-| 441 | 725 | Jennie Lee Huntley |
+| 440 | 725 | Jennie Lee Huntley |
+| 441 | 725 | Ashle Scranton |
 | 442 | 725 | Karen Snyder Schrage |
 | 443 | 725 | Vonceial Boone |
 | 444 | 724 | Melissa Holsinger |
@@ -487,8 +487,8 @@
 | 479 | 677 | Kayleigh Wisse |
 | 480 | 677 | Paul Combs |
 | 481 | 677 | Amanda Woodruff |
-| 482 | 676 | Nicky Jackson |
-| 483 | 676 | Roseanna Peloso |
+| 482 | 676 | Roseanna Peloso |
+| 483 | 676 | Nicky Jackson |
 | 484 | 675 | Lonne Emade |
 | 485 | 675 | Katelynn Hollen |
 | 486 | 674 | Ashley Munn |
@@ -519,8 +519,8 @@
 | 511 | 642 | Michelle Fields |
 | 512 | 640 | Belle |
 | 513 | 639 | Alexandra Weir |
-| 514 | 639 | Rebecca Miller |
-| 515 | 639 | Jackie Avila |
+| 514 | 639 | Jackie Avila |
+| 515 | 639 | Rebecca Miller |
 | 516 | 639 | Toni Roberson |
 | 517 | 637 | Shinette Dobson |
 | 518 | 637 | Karen Posadas Centeno |
@@ -541,8 +541,8 @@
 | 533 | 617 | Darcy Mae |
 | 534 | 617 | Kacee Conrad Bock |
 | 535 | 615 | Nerdy Pattern |
-| 536 | 615 | Julio A Laracuente |
-| 537 | 615 | Lyndi Robinson Wakefield |
+| 536 | 615 | Lyndi Robinson Wakefield |
+| 537 | 615 | Julio A Laracuente |
 | 538 | 614 | Emilee Burke |
 | 539 | 614 | Jessica S Flecha |
 | 540 | 613 | Biggest thing |
@@ -719,11 +719,11 @@
 | 711 | 485 | Regina Young |
 | 712 | 484 | Joice Hansen |
 | 713 | 484 | Street Sweeper |
-| 714 | 483 | Tabs Reichert |
-| 715 | 483 | Austin Wilson |
+| 714 | 483 | Austin Wilson |
+| 715 | 483 | Tabs Reichert |
 | 716 | 482 | Amélie Cadieux |
-| 717 | 482 | Nate |
-| 718 | 482 | Drwatson187 |
+| 717 | 482 | Drwatson187 |
+| 718 | 482 | Nate |
 | 719 | 481 | Lucy Marshall |
 | 720 | 480 | Jennifer Leigh |
 | 721 | 480 | Dar |
@@ -732,8 +732,8 @@
 | 724 | 479 | Jason Garnatz |
 | 725 | 479 | Emilie Desma |
 | 726 | 479 | Shyenn Gadsby |
-| 727 | 478 | Dawn L Washington-Feuquay |
-| 728 | 478 | Shindee |
+| 727 | 478 | Shindee |
+| 728 | 478 | Dawn L Washington-Feuquay |
 | 729 | 478 | Kelly |
 | 730 | 477 | Catherine Marsh Gruda |
 | 731 | 476 | Mary Marie |
