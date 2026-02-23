@@ -44,8 +44,8 @@
 | 36 | 4199 | Claire Noland |
 | 37 | 4128 | Angela Pruitt |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Kristen Sceurman |
-| 40 | 4120 | Corrine Hawks Soriano |
+| 39 | 4120 | Corrine Hawks Soriano |
+| 40 | 4120 | Kristen Sceurman |
 | 41 | 3947 | Melinda Brown |
 | 42 | 3845 | jayjay |
 | 43 | 3813 | Devin Lee |
@@ -448,8 +448,8 @@
 | 440 | 737 | Ginger |
 | 441 | 737 | Chelle |
 | 442 | 732 | Victoria Moore-Smith |
-| 443 | 731 | Charvi' Carter |
-| 444 | 731 | Matthew Joseph Acevedo |
+| 443 | 731 | Matthew Joseph Acevedo |
+| 444 | 731 | Charvi' Carter |
 | 445 | 730 | Hoppy Brickmatch |
 | 446 | 729 | goofinoff |
 | 447 | 728 | Mikayala Szaz |
@@ -554,9 +554,9 @@
 | 546 | 620 | Brenna Ann |
 | 547 | 619 | Lylymom |
 | 548 | 618 | Marella Petilo |
-| 549 | 617 | Darcy Mae |
-| 550 | 617 | Kacee Conrad Bock |
-| 551 | 617 | Biggest thing |
+| 549 | 617 | Kacee Conrad Bock |
+| 550 | 617 | Biggest thing |
+| 551 | 617 | Darcy Mae |
 | 552 | 615 | Nerdy Pattern |
 | 553 | 615 | Lyndi Robinson Wakefield |
 | 554 | 615 | Julio A Laracuente |
@@ -575,8 +575,8 @@
 | 567 | 604 | Rae Rae |
 | 568 | 603 | Casper The Chonk |
 | 569 | 602 | Stephanie Sul |
-| 570 | 602 | Tash Bell |
-| 571 | 602 | Jedi |
+| 570 | 602 | Jedi |
+| 571 | 602 | Tash Bell |
 | 572 | 601 | Daniel Amos |
 | 573 | 601 | Moua Ying |
 | 574 | 601 | Kiana Boschh |
@@ -658,8 +658,8 @@
 | 650 | 544 | Deidre Shaffer |
 | 651 | 542 | Jarboe |
 | 652 | 540 | Lee Harper |
-| 653 | 538 | Belle Mari |
-| 654 | 538 | Jess Morrison |
+| 653 | 538 | Jess Morrison |
+| 654 | 538 | Belle Mari |
 | 655 | 538 | Mamachelle Eisweirth |
 | 656 | 537 | Kori Beth Babb |
 | 657 | 536 | Rhonda Petro |
@@ -747,10 +747,10 @@
 | 739 | 482 | Amélie Cadieux |
 | 740 | 482 | Drwatson187 |
 | 741 | 482 | Nate |
-| 742 | 481 | Lucy Marshall |
-| 743 | 481 | Brittany Chapman |
-| 744 | 480 | Dar |
-| 745 | 480 | Jennifer Leigh |
+| 742 | 481 | Brittany Chapman |
+| 743 | 481 | Lucy Marshall |
+| 744 | 480 | Jennifer Leigh |
+| 745 | 480 | Dar |
 | 746 | 479 | bbv |
 | 747 | 479 | Emilie Desma |
 | 748 | 479 | Ashlee Cruz |

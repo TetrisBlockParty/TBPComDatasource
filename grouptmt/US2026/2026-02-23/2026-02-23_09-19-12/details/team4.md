@@ -26,8 +26,8 @@
 | 18 | 1636 | Cassie Michaux |
 | 19 | 1565 | GreenJeepGirl |
 | 20 | 1558 | Leah Gorsuch |
-| 21 | 1536 | Roger Coulter |
-| 22 | 1536 | Misty Hollibaugh |
+| 21 | 1536 | Misty Hollibaugh |
+| 22 | 1536 | Roger Coulter |
 | 23 | 1485 | Juggalo |
 | 24 | 1390 | Sammy Noguera |
 | 25 | 1382 | Tammi Crnza |
@@ -62,8 +62,8 @@
 | 54 | 864 | Shelly Chandler |
 | 55 | 863 | Pee |
 | 56 | 859 | TeeJ |
-| 57 | 846 | Christine Marie |
-| 58 | 846 | Lucille Truesdale |
+| 57 | 846 | Lucille Truesdale |
+| 58 | 846 | Christine Marie |
 | 59 | 845 | LisaJo Picken Buchanan |
 | 60 | 834 | quicksand420 |
 | 61 | 811 | Ashley Ingram |
@@ -231,8 +231,8 @@
 | 223 | 294 | Porkobello |
 | 224 | 292 | Epic Curvetile |
 | 225 | 291 | Nikki Rae Gordon |
-| 226 | 290 | Plucky Patternblock |
-| 227 | 290 | Rebecca Morris |
+| 226 | 290 | Rebecca Morris |
+| 227 | 290 | Plucky Patternblock |
 | 228 | 290 | Jared Gutwein |
 | 229 | 289 | Juls |
 | 230 | 288 | Zesty Twistbuilder |
@@ -290,8 +290,8 @@
 | 282 | 244 | Perky Piecegrid |
 | 283 | 244 | Christina Black |
 | 284 | 243 | Chair |
-| 285 | 242 | PurpleMoonMa |
-| 286 | 242 | Chaz |
+| 285 | 242 | Chaz |
+| 286 | 242 | PurpleMoonMa |
 | 287 | 240 | Perky Patternblock |
 | 288 | 240 | Kim Hunt |
 | 289 | 239 | Denise B |
@@ -1770,7 +1770,7 @@
 | 1762 | 6 | Lively Blockline |
 | 1763 | 6 | Lazy Clusterfit |
 | 1764 | 6 | Lush Cascadeclear |
-| 1765 | 6 | Lively Blockline |
+| 1765 | 6 | Cool Stackbuilder |
 | 1766 | 6 | Slinky Lifter |
 | 1767 | 6 | Jennifer Hunt |
 | 1768 | 6 | April Washington |
