@@ -211,8 +211,8 @@
 | 203 | 1578 | Christine Egidio Morocco |
 | 204 | 1569 | Ashley Dow |
 | 205 | 1565 | Nancy Reid |
-| 206 | 1558 | Tim Dyer |
-| 207 | 1558 | Crystal Slaughter |
+| 206 | 1558 | Crystal Slaughter |
+| 207 | 1558 | Tim Dyer |
 | 208 | 1557 | Poppy Snap |
 | 209 | 1556 | Tonya Morgan |
 | 210 | 1554 | Howard Forest |
@@ -555,8 +555,8 @@
 | 547 | 748 | Melissa Schulz |
 | 548 | 746 | Hoppy Brickmatch |
 | 549 | 743 | Frisky Clearpiece |
-| 550 | 742 | Ganieda |
-| 551 | 742 | Cassie Maynard |
+| 550 | 742 | Cassie Maynard |
+| 551 | 742 | Ganieda |
 | 552 | 741 | Giggy Mover |
 | 553 | 740 | Jerry Tempelmeyer |
 | 554 | 739 | Nicky Jackson |

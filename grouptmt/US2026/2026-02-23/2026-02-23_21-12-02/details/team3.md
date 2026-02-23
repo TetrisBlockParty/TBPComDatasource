@@ -150,8 +150,8 @@
 | 142 | 837 | mzcatzy |
 | 143 | 834 | opf |
 | 144 | 820 | Brenda Lee Vander Molen |
-| 145 | 818 | Dolores Falco |
-| 146 | 818 | Tasha Schriewer |
+| 145 | 818 | Tasha Schriewer |
+| 146 | 818 | Dolores Falco |
 | 147 | 812 | Speedy Bridger |
 | 148 | 812 | Katrina Schroeder |
 | 149 | 810 | Keith J Oshman Jr. |
@@ -163,8 +163,8 @@
 | 155 | 774 | ren |
 | 156 | 773 | Daira Largen |
 | 157 | 773 | Daryn Elliott |
-| 158 | 764 | Hasty Cascadefit |
-| 159 | 764 | Groovy Catcher |
+| 158 | 764 | Groovy Catcher |
+| 159 | 764 | Hasty Cascadefit |
 | 160 | 762 | Santeria Trece Candles |
 | 161 | 761 | Denita Mungro |
 | 162 | 761 | Peppy Shifter |
@@ -446,8 +446,8 @@
 | 438 | 312 | Eric Caccavale |
 | 439 | 311 | Irene Arreguin |
 | 440 | 311 | Giggly Brickroll |
-| 441 | 310 | Kristi Taylor |
-| 442 | 310 | Trice Sodames |
+| 441 | 310 | Trice Sodames |
+| 442 | 310 | Kristi Taylor |
 | 443 | 310 | Mindy Phelps |
 | 444 | 309 | Carol Cain Thurman |
 | 445 | 309 | Cheeky Snapper |
