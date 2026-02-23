@@ -114,15 +114,15 @@
 | 106 | 869 | Araceli Parra |
 | 107 | 868 | Sarajane Lokan |
 | 108 | 860 | Sunny Rotater |
-| 109 | 851 | Jd Morris |
-| 110 | 851 | Danielle Becker |
+| 109 | 851 | Danielle Becker |
+| 110 | 851 | Jd Morris |
 | 111 | 850 | Danielle Mogg |
 | 112 | 848 | Patricia Gadsden |
 | 113 | 831 | Angeline Joseph |
 | 114 | 830 | Stephanie Allmon |
 | 115 | 826 | Shane Wilson Jr. |
-| 116 | 816 | Brenda Lee Vander Molen |
-| 117 | 816 | Jesse Olive |
+| 116 | 816 | Jesse Olive |
+| 117 | 816 | Brenda Lee Vander Molen |
 | 118 | 802 | Bobbi Moore |
 | 119 | 800 | Lauren Girouard |
 | 120 | 799 | Dolores Falco |
@@ -176,8 +176,8 @@
 | 168 | 591 | Michael Nowogorski |
 | 169 | 588 | Justin Ritter |
 | 170 | 587 | Louise Stacy Sisson |
-| 171 | 585 | Annie Marie |
-| 172 | 585 | Happy Tetriblast |
+| 171 | 585 | Happy Tetriblast |
+| 172 | 585 | Annie Marie |
 | 173 | 583 | Tasha Gillespie |
 | 174 | 582 | Natasha Jones |
 | 175 | 577 | Domo Washington |
@@ -218,13 +218,13 @@
 | 210 | 480 | Danielle Allison |
 | 211 | 477 | Edwin Calvillo Jr. |
 | 212 | 475 | Tessina Dewey-Mancino |
-| 213 | 473 | Rachel |
-| 214 | 473 | Connie Mohler-Fair |
+| 213 | 473 | Connie Mohler-Fair |
+| 214 | 473 | Rachel |
 | 215 | 471 | Mendoza Lee Christy |
 | 216 | 467 | Sherry Ogden |
 | 217 | 465 | Annie Déè |
-| 218 | 464 | Danielle Weikel |
-| 219 | 464 | Shunta Jacobs |
+| 218 | 464 | Shunta Jacobs |
+| 219 | 464 | Danielle Weikel |
 | 220 | 461 | Tom Nault |
 | 221 | 458 | Danielle Rhoades |
 | 222 | 454 | Joye Sims Binion |
@@ -240,8 +240,8 @@
 | 232 | 430 | Jeni Dow |
 | 233 | 418 | Rebecca Funderburk Kirby |
 | 234 | 414 | Fran Lin |
-| 235 | 410 | Duane Bright |
-| 236 | 410 | Stephanie Simpson |
+| 235 | 410 | Stephanie Simpson |
+| 236 | 410 | Duane Bright |
 | 237 | 408 | Tiffany Ford |
 | 238 | 406 | Kristal C Lee |
 | 239 | 404 | Chasity |
@@ -288,8 +288,8 @@
 | 280 | 353 | Dee Franklin |
 | 281 | 353 | Cyd061769 |
 | 282 | 352 | Christian Werndl |
-| 283 | 351 | Blocked |
-| 284 | 351 | Eon Harris |
+| 283 | 351 | Eon Harris |
+| 284 | 351 | Blocked |
 | 285 | 350 | LaShey Thompson |
 | 286 | 349 | Amanda J. Mcneil-Anderson |
 | 287 | 348 | Ashley Raines |
@@ -367,8 +367,8 @@
 | 359 | 280 | Aerian Preston |
 | 360 | 280 | ROODBOY |
 | 361 | 280 | Dirtgirl27 |
-| 362 | 279 | Naur |
-| 363 | 279 | Tosha Griffey |
+| 362 | 279 | Tosha Griffey |
+| 363 | 279 | Naur |
 | 364 | 278 | Rufus Lincoln |
 | 365 | 277 | France Vézina |
 | 366 | 277 | Krystal Gerstberger |
@@ -610,8 +610,8 @@
 | 602 | 181 | Rashad Green |
 | 603 | 180 | Chipper Piecefit |
 | 604 | 180 | Stella |
-| 605 | 179 | Alexi Pryor |
-| 606 | 179 | Boldy Corner |
+| 605 | 179 | Boldy Corner |
+| 606 | 179 | Alexi Pryor |
 | 607 | 179 | Ruchi Smit |
 | 608 | 178 | Jillian Ann |
 | 609 | 178 | Melissa Snyder |

@@ -221,8 +221,8 @@
 | 213 | 1245 | Cody Nishimura |
 | 214 | 1240 | Brandon Armstrong |
 | 215 | 1237 | Megan Ferguson Leone |
-| 216 | 1232 | Groovy Puzzle |
-| 217 | 1232 | Ambyre Patterson |
+| 216 | 1232 | Ambyre Patterson |
+| 217 | 1232 | Groovy Puzzle |
 | 218 | 1230 | Megan Garrick |
 | 219 | 1221 | Jane Fong |
 | 220 | 1217 | Brooks Brooks |
@@ -250,15 +250,15 @@
 | 242 | 1142 | Sheniya Spurgeon |
 | 243 | 1141 | Adam Erikson |
 | 244 | 1140 | Sarah Ridenour |
-| 245 | 1135 | Samantha Roberts |
-| 246 | 1135 | Chirpy Staggerpiece |
+| 245 | 1135 | Chirpy Staggerpiece |
+| 246 | 1135 | Samantha Roberts |
 | 247 | 1134 | Prado |
 | 248 | 1132 | Woodys Glass |
 | 249 | 1126 | Dolores Russworn |
 | 250 | 1121 | Tommy Tha Boss Gunz |
 | 251 | 1121 | Sarah Freitas |
-| 252 | 1114 | Kevin Walp |
-| 253 | 1114 | Ginnell Browner |
+| 252 | 1114 | Ginnell Browner |
+| 253 | 1114 | Kevin Walp |
 | 254 | 1111 | Julay |
 | 255 | 1110 | Robin Kerby |
 | 256 | 1106 | Ibiza Carolina LaRose |
@@ -298,8 +298,8 @@
 | 290 | 1010 | Brittany Radaszewski |
 | 291 | 1007 | Missie Lawson Gebhardt |
 | 292 | 1003 | Andrea Maher |
-| 293 | 998 | Keri Womack |
-| 294 | 998 | Shelley Thornburgh Wright |
+| 293 | 998 | Shelley Thornburgh Wright |
+| 294 | 998 | Keri Womack |
 | 295 | 996 | Ashie Ann |
 | 296 | 989 | Carl Bradshaw |
 | 297 | 987 | Osun Anuket Esu |
@@ -368,17 +368,17 @@
 | 360 | 844 | Terri McKelvey McKinley |
 | 361 | 841 | Ashley Dow |
 | 362 | 840 | Traci Johnson |
-| 363 | 838 | Misti Markijohn |
-| 364 | 838 | Nicole Cannon |
-| 365 | 833 | Arkei Luster |
-| 366 | 833 | Moni Foxe |
+| 363 | 838 | Nicole Cannon |
+| 364 | 838 | Misti Markijohn |
+| 365 | 833 | Moni Foxe |
+| 366 | 833 | Arkei Luster |
 | 367 | 831 | Christina Lewis-Vickers |
 | 368 | 830 | Diallo Sparkman |
 | 369 | 829 | Jessica Wayne Cornwall |
 | 370 | 828 | Kimmy Newman |
 | 371 | 825 | Jeremy Parodi |
-| 372 | 824 | Danielle Johnson-Chandler |
-| 373 | 824 | Khalil Lowe |
+| 372 | 824 | Khalil Lowe |
+| 373 | 824 | Danielle Johnson-Chandler |
 | 374 | 822 | KhaosLord |
 | 375 | 822 | Lola Contreras |
 | 376 | 821 | Angie Bolton Workman |
@@ -386,9 +386,9 @@
 | 378 | 816 | Beth |
 | 379 | 816 | James Simms III |
 | 380 | 812 | Samantha Jo |
-| 381 | 808 | Laura McCarthey |
+| 381 | 808 | Connie Jimenez |
 | 382 | 808 | Desire Rice |
-| 383 | 808 | Connie Jimenez |
+| 383 | 808 | Laura McCarthey |
 | 384 | 804 | Becca Coronado |
 | 385 | 801 | Diana Fitzwater |
 | 386 | 801 | Gold Rose |
@@ -433,8 +433,8 @@
 | 425 | 755 | Taryece Gause |
 | 426 | 751 | Loony Snapper |
 | 427 | 751 | Breezy Filler |
-| 428 | 748 | Ann Matzkanin |
-| 429 | 748 | Brenda Utphall |
+| 428 | 748 | Brenda Utphall |
+| 429 | 748 | Ann Matzkanin |
 | 430 | 748 | Spunkysmom |
 | 431 | 746 | Leslie Ann Carter |
 | 432 | 742 | tejas25 |
@@ -456,11 +456,11 @@
 | 448 | 725 | Jennie Lee Huntley |
 | 449 | 725 | Ashle Scranton |
 | 450 | 724 | Melissa Holsinger |
-| 451 | 720 | Giggy Mover |
-| 452 | 720 | BeQuo |
+| 451 | 720 | BeQuo |
+| 452 | 720 | Giggy Mover |
 | 453 | 714 | Caitlyn Blackwell |
-| 454 | 713 | Draizen Montrell Thomas |
-| 455 | 713 | Christie |
+| 454 | 713 | Christie |
+| 455 | 713 | Draizen Montrell Thomas |
 | 456 | 712 | Amanda Ferrell |
 | 457 | 711 | Narutofreak13 |
 | 458 | 710 | Mama T |
@@ -514,8 +514,8 @@
 | 506 | 660 | Nadia Batista Garcia |
 | 507 | 659 | Trinity Oak |
 | 508 | 658 | Demeka Dangerous-kisses Johnson |
-| 509 | 656 | Tonya Lee |
-| 510 | 656 | bonsai |
+| 509 | 656 | bonsai |
+| 510 | 656 | Tonya Lee |
 | 511 | 655 | Silly Pivotfall |
 | 512 | 651 | Unica Rector |
 | 513 | 651 | Elisheva Mizrachi |
@@ -553,8 +553,8 @@
 | 545 | 615 | Nerdy Pattern |
 | 546 | 615 | Lyndi Robinson Wakefield |
 | 547 | 615 | Julio A Laracuente |
-| 548 | 614 | Jessica S Flecha |
-| 549 | 614 | Emilee Burke |
+| 548 | 614 | Emilee Burke |
+| 549 | 614 | Jessica S Flecha |
 | 550 | 613 | Biggest thing |
 | 551 | 613 | Audrey Jones |
 | 552 | 612 | Briana Alexander |
@@ -597,16 +597,16 @@
 | 589 | 582 | Ebony Deloach Bryant |
 | 590 | 581 | Angie Marie |
 | 591 | 580 | Cheery Matchzone |
-| 592 | 579 | Barry Britt |
-| 593 | 579 | Roy Salyer |
+| 592 | 579 | Roy Salyer |
+| 593 | 579 | Barry Britt |
 | 594 | 577 | Victor Obiakarije |
 | 595 | 576 | Leslie Johnson Guinto |
 | 596 | 575 | Michael Artis |
 | 597 | 574 | Valerie Brooke Lusk Armstrong |
 | 598 | 573 | Vaniel Glover |
 | 599 | 573 | Mike Aprilliano |
-| 600 | 572 | Joseph Musick |
-| 601 | 572 | Rachael Senard |
+| 600 | 572 | Rachael Senard |
+| 601 | 572 | Joseph Musick |
 | 602 | 572 | Jason H Baker |
 | 603 | 572 | Alexandra Lynn |
 | 604 | 571 | Wendy Unsain |
@@ -809,11 +809,11 @@
 | 801 | 447 | Boozi |
 | 802 | 446 | Colin Morgan |
 | 803 | 446 | Courtney Burcham |
-| 804 | 445 | Mar Q Thomas |
-| 805 | 445 | Beatboxxer |
+| 804 | 445 | Beatboxxer |
+| 805 | 445 | Mar Q Thomas |
 | 806 | 444 | Angela Murgia-Owen |
-| 807 | 443 | Giggy Grabber |
-| 808 | 443 | Dimitra Zazara |
+| 807 | 443 | Dimitra Zazara |
+| 808 | 443 | Giggy Grabber |
 | 809 | 442 | Juan Castillo |
 | 810 | 442 | Rain |
 | 811 | 441 | Goofy Catcher |
@@ -2619,9 +2619,9 @@
 | 2611 | 160 | Scott Carpenter |
 | 2612 | 160 | Michelle LaMark Osorio |
 | 2613 | 160 | Angela Page |
-| 2614 | 159 | BabyGirl |
-| 2615 | 159 | Kyle Morris |
-| 2616 | 159 | Andrea Drews |
+| 2614 | 159 | Kyle Morris |
+| 2615 | 159 | Andrea Drews |
+| 2616 | 159 | BabyGirl |
 | 2617 | 159 | Tatiana Rae Robinson |
 | 2618 | 159 | Katia Johnson |
 | 2619 | 159 | Stephy Valencia |

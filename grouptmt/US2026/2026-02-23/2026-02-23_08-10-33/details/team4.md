@@ -26,8 +26,8 @@
 | 18 | 1636 | Cassie Michaux |
 | 19 | 1565 | GreenJeepGirl |
 | 20 | 1558 | Leah Gorsuch |
-| 21 | 1536 | Misty Hollibaugh |
-| 22 | 1536 | Roger Coulter |
+| 21 | 1536 | Roger Coulter |
+| 22 | 1536 | Misty Hollibaugh |
 | 23 | 1485 | Juggalo |
 | 24 | 1390 | Sammy Noguera |
 | 25 | 1382 | Tammi Crnza |
@@ -74,10 +74,10 @@
 | 66 | 781 | Chilly Line |
 | 67 | 767 | Shannon Ferrari |
 | 68 | 766 | Robin Watters |
-| 69 | 765 | Denise Carlson |
-| 70 | 765 | Robin Getchel |
-| 71 | 752 | Shane Kalamata Platoon |
-| 72 | 752 | loulou |
+| 69 | 765 | Robin Getchel |
+| 70 | 765 | Denise Carlson |
+| 71 | 752 | loulou |
+| 72 | 752 | Shane Kalamata Platoon |
 | 73 | 749 | Dustee Craddock-Harrison |
 | 74 | 742 | Carolyn Wallace |
 | 75 | 740 | Avy Absol |
@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | Shauna Havard |
-| 93 | 647 | KM8 |
+| 92 | 647 | KM8 |
+| 93 | 647 | Shauna Havard |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -125,8 +125,8 @@
 | 117 | 514 | Scott Jameson |
 | 118 | 514 | Serena Goodridge |
 | 119 | 513 | Erin Thomas |
-| 120 | 512 | Cristy Duerksen |
-| 121 | 512 | Casey Jeffcoat |
+| 120 | 512 | Casey Jeffcoat |
+| 121 | 512 | Cristy Duerksen |
 | 122 | 511 | Lori Walker |
 | 123 | 509 | Leslie Nicole |
 | 124 | 487 | Ren Mc |
@@ -161,8 +161,8 @@
 | 153 | 413 | Circuit8 |
 | 154 | 412 | Jessica Bohlken |
 | 155 | 408 | Amanda Pauldo-Ivy |
-| 156 | 406 | Damn Libra |
-| 157 | 406 | Livvy |
+| 156 | 406 | Livvy |
+| 157 | 406 | Damn Libra |
 | 158 | 403 | Keith Kelley |
 | 159 | 398 | Tyler Terrific |
 | 160 | 393 | Girl |
@@ -248,8 +248,8 @@
 | 240 | 276 | Matt Dell'Olio |
 | 241 | 276 | Joeliecea Cobb |
 | 242 | 273 | Cranky Rollpiece |
-| 243 | 272 | Alan George LaRage |
-| 244 | 272 | Dennis Bradley |
+| 243 | 272 | Dennis Bradley |
+| 244 | 272 | Alan George LaRage |
 | 245 | 271 | Holly |
 | 246 | 270 | Jen Caldwell |
 | 247 | 266 | Tracey Lehmann |
@@ -303,8 +303,8 @@
 | 295 | 228 | Bethany Ison |
 | 296 | 227 | Jason Bosco |
 | 297 | 226 | Dizzy Matchzone |
-| 298 | 225 | Jenna McGeorge |
-| 299 | 225 | Ernest Maxwell |
+| 298 | 225 | Ernest Maxwell |
+| 299 | 225 | Jenna McGeorge |
 | 300 | 224 | Ultramarine |
 | 301 | 224 | AyeKay |
 | 302 | 223 | Amanda Christine |
@@ -354,8 +354,8 @@
 | 346 | 200 | Googenheim |
 | 347 | 198 | Calvin Dennis |
 | 348 | 197 | Shiny Fit |
-| 349 | 196 | Megan Cutshaw |
-| 350 | 196 | Blessedmama |
+| 349 | 196 | Blessedmama |
+| 350 | 196 | Megan Cutshaw |
 | 351 | 195 | Dustin York |
 | 352 | 194 | Michelle Morris |
 | 353 | 194 | SammieJo Guy |
@@ -365,11 +365,11 @@
 | 357 | 191 | Earnest Thompson |
 | 358 | 191 | Riverdale |
 | 359 | 191 | Norman Klick |
-| 360 | 190 | Hyper Builder |
-| 361 | 190 | wombat |
-| 362 | 189 | Berklie Apedaile |
-| 363 | 189 | Cool Towerbuilder |
-| 364 | 189 | Lauren Lamb |
+| 360 | 190 | wombat |
+| 361 | 190 | Hyper Builder |
+| 362 | 189 | Lauren Lamb |
+| 363 | 189 | Berklie Apedaile |
+| 364 | 189 | Cool Towerbuilder |
 | 365 | 188 | Sharyn Lemire |
 | 366 | 187 | Jenny Wells-Oakley |
 | 367 | 187 | Cozy Balancer |
@@ -466,9 +466,9 @@
 | 458 | 156 | Mighty Edgepiece |
 | 459 | 155 | Sticherella |
 | 460 | 155 | Faja |
-| 461 | 155 | Sticherella |
-| 462 | 154 | Bryan Hodgins |
-| 463 | 154 | Happy Combo |
+| 461 | 155 | Shirl |
+| 462 | 154 | Happy Combo |
+| 463 | 154 | Bryan Hodgins |
 | 464 | 153 | icequeenx |
 | 465 | 152 | Michael Orris |
 | 466 | 152 | Vanessa Smart |
