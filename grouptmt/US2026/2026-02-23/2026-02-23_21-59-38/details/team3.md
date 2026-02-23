@@ -221,8 +221,8 @@
 | 213 | 590 | Shawn Miller |
 | 214 | 587 | Louise Stacy Sisson |
 | 215 | 585 | Happy Tetriblast |
-| 216 | 585 | Jim Mathews |
-| 217 | 585 | Salena Whitlock |
+| 216 | 585 | Salena Whitlock |
+| 217 | 585 | Jim Mathews |
 | 218 | 584 | Connie Mohler-Fair |
 | 219 | 582 | Natasha Jones |
 | 220 | 581 | Dee Pratt |
@@ -314,8 +314,8 @@
 | 306 | 433 | Skippy |
 | 307 | 432 | Luciana Braganca Vieira |
 | 308 | 431 | Wendy Dearden |
-| 309 | 430 | Jeni Dow |
-| 310 | 430 | Quackers |
+| 309 | 430 | Quackers |
+| 310 | 430 | Jeni Dow |
 | 311 | 430 | Jennifer Alvey |
 | 312 | 429 | Carrie Huskey |
 | 313 | 428 | Samantha Lynn |
@@ -379,8 +379,8 @@
 | 371 | 364 | TotoCherue |
 | 372 | 362 | Brandon Givens |
 | 373 | 360 | Goofy Fall |
-| 374 | 359 | Steven Fulater |
-| 375 | 359 | Ann Hammac |
+| 374 | 359 | Ann Hammac |
+| 375 | 359 | Steven Fulater |
 | 376 | 359 | 4girls |
 | 377 | 358 | Ashley Rufus Bythcez |
 | 378 | 356 | Tony Waters |
@@ -393,8 +393,8 @@
 | 385 | 349 | Donna |
 | 386 | 348 | Ashley Raines |
 | 387 | 346 | AlsoJess |
-| 388 | 345 | Misha Sanders |
-| 389 | 345 | victory |
+| 388 | 345 | victory |
+| 389 | 345 | Misha Sanders |
 | 390 | 344 | Beaudie Stroebel |
 | 391 | 343 | Nikki White |
 | 392 | 342 | Christina Marie Swisher |
@@ -411,7 +411,7 @@
 | 403 | 333 | Geoffrey Nash |
 | 404 | 332 | Michael Leblanc |
 | 405 | 332 | Brittany |
-| 406 | 330 | Funky Jumper |
+| 406 | 330 | Big T |
 | 407 | 330 | Nelma |
 | 408 | 330 | Funky Jumper |
 | 409 | 328 | Norma JulieMay |
@@ -433,8 +433,8 @@
 | 425 | 322 | Beth Smith |
 | 426 | 322 | Nena Somerville Kelly |
 | 427 | 321 | Jl |
-| 428 | 320 | Kevin Russell |
-| 429 | 320 | Or Reznitsky |
+| 428 | 320 | Or Reznitsky |
+| 429 | 320 | Kevin Russell |
 | 430 | 320 | Taylor Hood |
 | 431 | 320 | thekey |
 | 432 | 319 | Tay |

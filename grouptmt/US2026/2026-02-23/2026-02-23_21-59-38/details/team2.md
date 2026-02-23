@@ -101,7 +101,7 @@
 | 93 | 2789 | Stephanie Chapman |
 | 94 | 2768 | Eileen Hale |
 | 95 | 2755 | Crystalin Heath Lewis |
-| 96 | 2745 | Giddy Gridclear |
+| 96 | 2742 | Giddy Gridclear |
 | 97 | 2741 | Brandy M. Schaefer |
 | 98 | 2699 | Jennifer Malloy - Cardy |
 | 99 | 2670 | Rosemadder |
@@ -137,9 +137,9 @@
 | 129 | 2254 | Alicia Parrish |
 | 130 | 2217 | Christopher Sanders |
 | 131 | 2214 | Thalia Watkins |
-| 132 | 2179 | Mari Ac |
-| 133 | 2171 | Stephen Stephen |
-| 134 | 2170 | Steve Grotto |
+| 132 | 2171 | Stephen Stephen |
+| 133 | 2170 | Steve Grotto |
+| 134 | 2169 | Mari Ac |
 | 135 | 2155 | Qiana Sanders |
 | 136 | 2152 | Angela Lynn |
 | 137 | 2148 | Roger Grabbit |
@@ -165,15 +165,15 @@
 | 157 | 1904 | Goofy Snapfit |
 | 158 | 1897 | Angel |
 | 159 | 1874 | Loopy Clusterbuilder |
-| 160 | 1840 | blarg |
-| 161 | 1840 | Kristopher Miller |
+| 160 | 1840 | Kristopher Miller |
+| 161 | 1840 | blarg |
 | 162 | 1835 | Alisa Lamb |
 | 163 | 1829 | Mr. Street Stack |
-| 164 | 1828 | Laura Wyatt |
-| 165 | 1818 | Shandrica Lowe |
-| 166 | 1804 | Chirpy Staggerpiece |
-| 167 | 1790 | Kara Gillen |
-| 168 | 1778 | bonsai |
+| 164 | 1818 | Shandrica Lowe |
+| 165 | 1804 | Chirpy Staggerpiece |
+| 166 | 1790 | Kara Gillen |
+| 167 | 1778 | bonsai |
+| 168 | 1771 | Heather Westrum |
 | 169 | 1771 | Eboni Banks |
 | 170 | 1767 | niecy |
 | 171 | 1763 | Juliana Marques Do Nascimento Gordy |
@@ -288,8 +288,8 @@
 | 280 | 1260 | Roman Lavochnik |
 | 281 | 1259 | Foxxo |
 | 282 | 1258 | Dimitra Zazara |
-| 283 | 1257 | Megan Garrick |
-| 284 | 1257 | Megan Ferguson Leone |
+| 283 | 1257 | Megan Ferguson Leone |
+| 284 | 1257 | Megan Garrick |
 | 285 | 1247 | Ericka Marie Smith |
 | 286 | 1241 | Jennifer Casey-Kay |
 | 287 | 1238 | Groovy Puzzle |
@@ -326,8 +326,8 @@
 | 318 | 1156 | Alezandra Smith |
 | 319 | 1155 | F-X |
 | 320 | 1145 | Deborah Miller |
-| 321 | 1142 | Sheniya Spurgeon |
-| 322 | 1142 | April Dawn Gussler |
+| 321 | 1142 | April Dawn Gussler |
+| 322 | 1142 | Sheniya Spurgeon |
 | 323 | 1140 | Kimberly Hauck-Rausch |
 | 324 | 1139 | Carl Bradshaw |
 | 325 | 1134 | Kelsey Kyle Rhodes |
@@ -343,14 +343,14 @@
 | 335 | 1098 | Wakanda Forever |
 | 336 | 1096 | Brainy Smurf |
 | 337 | 1093 | Real Ri |
-| 338 | 1089 | Aireka Roman |
-| 339 | 1089 | Giggy Blocker |
-| 340 | 1083 | nikki |
-| 341 | 1080 | Cindy Sechler Taninecz |
-| 342 | 1079 | Angela Bonquiqui Dinish |
-| 343 | 1079 | Jennifer Kistner |
-| 344 | 1073 | Jodi Blake |
-| 345 | 1072 | BK Queen |
+| 338 | 1089 | Giggy Blocker |
+| 339 | 1083 | nikki |
+| 340 | 1080 | Cindy Sechler Taninecz |
+| 341 | 1079 | Angela Bonquiqui Dinish |
+| 342 | 1079 | Jennifer Kistner |
+| 343 | 1073 | Jodi Blake |
+| 344 | 1072 | BK Queen |
+| 345 | 1071 | Kim Dean |
 | 346 | 1071 | Nashu |
 | 347 | 1071 | Barbra Miller |
 | 348 | 1069 | Aireka Roman |
@@ -451,8 +451,8 @@
 | 443 | 895 | Lisa Ongtowasruk |
 | 444 | 894 | Adira Brown |
 | 445 | 890 | Alex Stone LaRue |
-| 446 | 888 | Leslie Ann Carter |
-| 447 | 888 | Elisheva Mizrachi |
+| 446 | 888 | Elisheva Mizrachi |
+| 447 | 888 | Leslie Ann Carter |
 | 448 | 883 | Hong Tang |
 | 449 | 882 | Samantha Scibelli |
 | 450 | 882 | Stephanie Sul |
@@ -521,8 +521,8 @@
 | 513 | 797 | Alex Dungo Hoang |
 | 514 | 797 | Mighty Spinbuilder |
 | 515 | 796 | AndrewandShela Gornik |
-| 516 | 793 | Eunique Griffin |
-| 517 | 793 | Alexandra Weir |
+| 516 | 793 | Alexandra Weir |
+| 517 | 793 | Eunique Griffin |
 | 518 | 793 | Heather Schelkopf |
 | 519 | 790 | Dawn L Washington-Feuquay |
 | 520 | 790 | Mama T |
@@ -533,8 +533,8 @@
 | 525 | 785 | Miranda Morris |
 | 526 | 781 | Sarah Berger |
 | 527 | 779 | Trinity Oak |
-| 528 | 778 | tejas25 |
-| 529 | 778 | Breezy Filler |
+| 528 | 778 | Breezy Filler |
+| 529 | 778 | tejas25 |
 | 530 | 777 | Tesha Oldaker |
 | 531 | 776 | Fancy Twister |
 | 532 | 774 | Cherrica Newman |

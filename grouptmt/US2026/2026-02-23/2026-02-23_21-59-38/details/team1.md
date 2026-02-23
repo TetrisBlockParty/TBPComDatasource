@@ -68,8 +68,8 @@
 | 60 | 991 | Adam Byrd |
 | 61 | 981 | Kristen Roles Robben |
 | 62 | 978 | Amber Stoker |
-| 63 | 974 | TSwag |
-| 64 | 974 | Veronica Eve |
+| 63 | 974 | Veronica Eve |
+| 64 | 974 | TSwag |
 | 65 | 966 | Shalene Frederick Autrey |
 | 66 | 963 | Francesca Gee |
 | 67 | 955 | Jason Jones |
@@ -92,18 +92,18 @@
 | 84 | 772 | Tinah Montanna |
 | 85 | 770 | Zappy Curvetile |
 | 86 | 765 | Cynthia Bradley |
-| 87 | 760 | Kandae |
-| 88 | 760 | Amanda Johnson Huffman |
+| 87 | 760 | Amanda Johnson Huffman |
+| 88 | 760 | Kandae |
 | 89 | 758 | Ash Galvan |
-| 90 | 756 | Cartier |
+| 90 | 750 | Cartier |
 | 91 | 747 | Robert Benito |
 | 92 | 744 | Greg Hart |
 | 93 | 742 | Susanna Guerry |
 | 94 | 740 | Lori Sanders- Davis |
 | 95 | 722 | Kellie |
 | 96 | 717 | Madison Wicks |
-| 97 | 706 | Plucky Fallzone |
-| 98 | 706 | Denice Dee |
+| 97 | 706 | Denice Dee |
+| 98 | 706 | Plucky Fallzone |
 | 99 | 704 | Karin Gillen |
 | 100 | 703 | Angel Fowler |
 | 101 | 679 | Melissa Lemmon |
@@ -117,8 +117,8 @@
 | 109 | 626 | Damon J. Martin |
 | 110 | 612 | femmefatale |
 | 111 | 604 | Ryan Lunnin |
-| 112 | 601 | Phu ckalldems |
-| 113 | 601 | Evan Richmond |
+| 112 | 601 | Evan Richmond |
+| 113 | 601 | Phu ckalldems |
 | 114 | 598 | Jessi Sauer |
 | 115 | 595 | Ty Brown |
 | 116 | 594 | Basment Living |
@@ -161,8 +161,8 @@
 | 153 | 495 | Adrian Esteban |
 | 154 | 494 | Sean Stallings |
 | 155 | 492 | Rebekah LeiAnn Bonsell |
-| 156 | 491 | Michelle Beres |
-| 157 | 491 | cc |
+| 156 | 491 | cc |
+| 157 | 491 | Michelle Beres |
 | 158 | 488 | Hyper |
 | 159 | 483 | Trina Gee |
 | 160 | 482 | Sarah Somers Gray |
@@ -190,13 +190,13 @@
 | 182 | 425 | Tyler Werts |
 | 183 | 425 | Tana |
 | 184 | 424 | Emily Adelaide Wheatley |
-| 185 | 423 | Elaine Elaine |
-| 186 | 423 | Kimberly Garcia |
-| 187 | 422 | Chelsea Dahlquist |
-| 188 | 422 | canbrick |
+| 185 | 423 | Kimberly Garcia |
+| 186 | 423 | Elaine Elaine |
+| 187 | 422 | canbrick |
+| 188 | 422 | Chelsea Dahlquist |
 | 189 | 418 | David Miller |
-| 190 | 417 | Debbie Kane |
-| 191 | 417 | Jessie Lynn |
+| 190 | 417 | Jessie Lynn |
+| 191 | 417 | Debbie Kane |
 | 192 | 416 | Jessica Sheehan |
 | 193 | 415 | Jennifer Hardman |
 | 194 | 414 | John J. Cronin |
@@ -344,8 +344,8 @@
 | 336 | 284 | Mark Smith |
 | 337 | 283 | Franswa |
 | 338 | 282 | Timothy Dew |
-| 339 | 281 | Richard Corrado |
-| 340 | 281 | Barrbaric |
+| 339 | 281 | Barrbaric |
+| 340 | 281 | Richard Corrado |
 | 341 | 280 | Test |
 | 342 | 280 | Billie Dawn Sparks |
 | 343 | 279 | Chris Dawson |

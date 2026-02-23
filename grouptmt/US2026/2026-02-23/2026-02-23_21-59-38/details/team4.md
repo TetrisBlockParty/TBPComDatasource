@@ -140,8 +140,8 @@
 | 132 | 584 | Carlton Unfiltered |
 | 133 | 575 | Jenna Ingersoll |
 | 134 | 574 | Carmethia Clemons Haslerig |
-| 135 | 573 | shar |
-| 136 | 573 | Cursed Hag |
+| 135 | 573 | Cursed Hag |
+| 136 | 573 | shar |
 | 137 | 561 | YoMomma |
 | 138 | 560 | Chastity Mitchell |
 | 139 | 554 | Carlos Ramirez |
@@ -259,11 +259,11 @@
 | 251 | 366 | Andrew Dang |
 | 252 | 366 | Cheery Risebuilder |
 | 253 | 365 | Hyper Builder |
-| 254 | 363 | TRCuse |
-| 255 | 363 | KimoKoala |
+| 254 | 363 | KimoKoala |
+| 255 | 363 | TRCuse |
 | 256 | 361 | Danielle Kollias |
-| 257 | 360 | James Hurley Jr. |
-| 258 | 360 | Ari Droff |
+| 257 | 360 | Ari Droff |
+| 258 | 360 | James Hurley Jr. |
 | 259 | 358 | Twisty Cascadezone |
 | 260 | 356 | Joeliecea Cobb |
 | 261 | 356 | mike |
@@ -391,8 +391,8 @@
 | 383 | 252 | Maureen Flanigan |
 | 384 | 252 | Dan Wold |
 | 385 | 252 | Gracie Ann Taylor |
-| 386 | 251 | Kathy Allen |
-| 387 | 251 | Carol Ricks Raymond |
+| 386 | 251 | Carol Ricks Raymond |
+| 387 | 251 | Kathy Allen |
 | 388 | 249 | Dapper Frame |
 | 389 | 249 | Ak Jones |
 | 390 | 248 | Chirpy Basepiece |
@@ -430,8 +430,8 @@
 | 422 | 228 | Jessica Petersen |
 | 423 | 228 | Bethany Ison |
 | 424 | 227 | Martha Lucinda Bishop |
-| 425 | 227 | Asher |
-| 426 | 227 | Maria Hammie |
+| 425 | 227 | Maria Hammie |
+| 426 | 227 | Asher |
 | 427 | 225 | Jennifer Renee |
 | 428 | 224 | Ultramarine |
 | 429 | 224 | Vanessa Smart |
@@ -457,8 +457,8 @@
 | 449 | 218 | Cheaneen Livingston |
 | 450 | 218 | Janita Parrish |
 | 451 | 218 | Allison Rose |
-| 452 | 217 | Perky Riser |
-| 453 | 217 | Cheery Fitline |
+| 452 | 217 | Cheery Fitline |
+| 453 | 217 | Perky Riser |
 | 454 | 216 | Ryry |
 | 455 | 215 | Dorian |
 | 456 | 215 | Tanya Abernathy Jackson |
@@ -1034,7 +1034,7 @@
 | 1026 | 77 | Noel Christa |
 | 1027 | 76 | Meli  Jackson |
 | 1028 | 76 | Saucy Brickfit |
-| 1029 | 76 | Beth Ann |
+| 1029 | 76 | Jeannie Lee |
 | 1030 | 76 | George Thomson Jr. |
 | 1031 | 76 | Beth Ann |
 | 1032 | 75 | unrewound |
