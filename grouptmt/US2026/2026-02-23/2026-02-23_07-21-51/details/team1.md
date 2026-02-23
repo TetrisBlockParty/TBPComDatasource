@@ -141,8 +141,8 @@
 | 133 | 411 | BadG52 |
 | 134 | 410 | ALFD |
 | 135 | 409 | Goose egg |
-| 136 | 406 | Candy Jones |
-| 137 | 406 | Desiree Deschaine Havee |
+| 136 | 406 | Desiree Deschaine Havee |
+| 137 | 406 | Candy Jones |
 | 138 | 402 | Chris K |
 | 139 | 399 | Nery Martinez |
 | 140 | 394 | Lori Bales |
@@ -155,8 +155,8 @@
 | 147 | 383 | pjbeta |
 | 148 | 383 | Margo Wagner |
 | 149 | 380 | phrmblk24 |
-| 150 | 379 | Kimmie Kimms |
-| 151 | 379 | Austin James |
+| 150 | 379 | Austin James |
+| 151 | 379 | Kimmie Kimms |
 | 152 | 378 | Carrie Smith |
 | 153 | 376 | Death |
 | 154 | 376 | Brian Richardsson |
@@ -168,8 +168,8 @@
 | 160 | 368 | Amanda Johnson Huffman |
 | 161 | 367 | Sharon Reynolds |
 | 162 | 366 | J.F. Fields |
-| 163 | 364 | Serina Marie |
-| 164 | 364 | Shauna Loe |
+| 163 | 364 | Shauna Loe |
+| 164 | 364 | Serina Marie |
 | 165 | 360 | Wisa |
 | 166 | 359 | Oscar Zamora |
 | 167 | 358 | Jessica Sheehan |
@@ -182,8 +182,8 @@
 | 174 | 350 | Tipsy Strikerpiece |
 | 175 | 349 | Cool Shiftsnap |
 | 176 | 348 | Chelsea Dahlquist |
-| 177 | 346 | GATOR |
-| 178 | 346 | Erin Rosberg |
+| 177 | 346 | Erin Rosberg |
+| 178 | 346 | GATOR |
 | 179 | 345 | Jerry Danowski |
 | 180 | 343 | Elaine Elaine |
 | 181 | 341 | Nick R Montague |
@@ -345,8 +345,8 @@
 | 337 | 209 | Pauline Cortez |
 | 338 | 208 | Donna Addison Williams |
 | 339 | 208 | Andrew Boone |
-| 340 | 207 | Leslie Bush Yarbrough |
-| 341 | 207 | Katie Martin |
+| 340 | 207 | Katie Martin |
+| 341 | 207 | Leslie Bush Yarbrough |
 | 342 | 207 | Fresno Beotoni |
 | 343 | 205 | build master |
 | 344 | 205 | Agustin Duarte Orozco |

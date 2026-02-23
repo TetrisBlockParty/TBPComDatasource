@@ -173,8 +173,8 @@
 | 165 | 591 | Michael Nowogorski |
 | 166 | 588 | Justin Ritter |
 | 167 | 587 | Louise Stacy Sisson |
-| 168 | 585 | Happy Tetriblast |
-| 169 | 585 | Annie Marie |
+| 168 | 585 | Annie Marie |
+| 169 | 585 | Happy Tetriblast |
 | 170 | 583 | Tasha Gillespie |
 | 171 | 582 | Natasha Jones |
 | 172 | 577 | Domo Washington |
@@ -273,8 +273,8 @@
 | 265 | 367 | Kristin Delibac Corrigan |
 | 266 | 366 | Gumbo |
 | 267 | 365 | Noyb Adam |
-| 268 | 364 | Steffi Chris Dacones |
-| 269 | 364 | Carrie Huskey |
+| 268 | 364 | Carrie Huskey |
+| 269 | 364 | Steffi Chris Dacones |
 | 270 | 362 | Brandon Givens |
 | 271 | 360 | Cesar Barraza |
 | 272 | 359 | Sleepy |
@@ -286,8 +286,8 @@
 | 278 | 353 | Dee Franklin |
 | 279 | 353 | Cyd061769 |
 | 280 | 352 | Christian Werndl |
-| 281 | 351 | Blocked |
-| 282 | 351 | Eon Harris |
+| 281 | 351 | Eon Harris |
+| 282 | 351 | Blocked |
 | 283 | 350 | LaShey Thompson |
 | 284 | 349 | Amanda J. Mcneil-Anderson |
 | 285 | 347 | Betty Bóò |
@@ -344,8 +344,8 @@
 | 336 | 298 | Grams |
 | 337 | 298 | Dannie Litchard |
 | 338 | 297 | kacihall |
-| 339 | 296 | Donna |
-| 340 | 296 | Tracy Martin |
+| 339 | 296 | Tracy Martin |
+| 340 | 296 | Donna |
 | 341 | 295 | Nikki Pags |
 | 342 | 294 | Antonia Russell |
 | 343 | 292 | Khaleada McGill Banks |
@@ -363,8 +363,8 @@
 | 355 | 280 | ROODBOY |
 | 356 | 280 | Aerian Preston |
 | 357 | 280 | Dirtgirl27 |
-| 358 | 279 | Naur |
-| 359 | 279 | Tosha Griffey |
+| 358 | 279 | Tosha Griffey |
+| 359 | 279 | Naur |
 | 360 | 278 | Rufus Lincoln |
 | 361 | 277 | Krystal Gerstberger |
 | 362 | 277 | Joe-Maggie Mathews |

@@ -380,8 +380,8 @@
 | 372 | 824 | Khalil Lowe |
 | 373 | 822 | Lola Contreras |
 | 374 | 821 | Angie Bolton Workman |
-| 375 | 821 | Cassie Mercer |
-| 376 | 821 | Arkei Luster |
+| 375 | 821 | Arkei Luster |
+| 376 | 821 | Cassie Mercer |
 | 377 | 816 | Beth |
 | 378 | 816 | James Simms III |
 | 379 | 812 | Samantha Jo |
@@ -449,8 +449,8 @@
 | 441 | 728 | Dylan Thomason |
 | 442 | 728 | Tom Riefer |
 | 443 | 726 | Crystal Greene |
-| 444 | 725 | Karen Snyder Schrage |
-| 445 | 725 | Vonceial Boone |
+| 444 | 725 | Vonceial Boone |
+| 445 | 725 | Karen Snyder Schrage |
 | 446 | 725 | Ashle Scranton |
 | 447 | 725 | Jennie Lee Huntley |
 | 448 | 724 | Melissa Holsinger |
@@ -805,8 +805,8 @@
 | 797 | 447 | Boozi |
 | 798 | 446 | Colin Morgan |
 | 799 | 446 | Courtney Burcham |
-| 800 | 445 | Beatboxxer |
-| 801 | 445 | Mar Q Thomas |
+| 800 | 445 | Mar Q Thomas |
+| 801 | 445 | Beatboxxer |
 | 802 | 444 | Angela Murgia-Owen |
 | 803 | 443 | Giggy Grabber |
 | 804 | 443 | Dimitra Zazara |
@@ -956,10 +956,10 @@
 | 948 | 384 | Savannah Alexander |
 | 949 | 383 | Jane Crew |
 | 950 | 383 | Ethan Stienbarger |
-| 951 | 383 | Jane Crew |
+| 951 | 383 | Alyssia Tancredi |
 | 952 | 382 | Brave Gridpiece |
-| 953 | 382 | Cathleena Giusto |
-| 954 | 382 | Tum |
+| 953 | 382 | Tum |
+| 954 | 382 | Cathleena Giusto |
 | 955 | 381 | Maria Hammett |
 | 956 | 381 | Cheyenne Donovan |
 | 957 | 381 | Happy Caster |
@@ -1002,8 +1002,8 @@
 | 994 | 368 | Bec |
 | 995 | 367 | Lush Snapzone |
 | 996 | 367 | Rachel Kaminski |
-| 997 | 366 | Ashley Criner |
-| 998 | 366 | Josh Webster |
+| 997 | 366 | Josh Webster |
+| 998 | 366 | Ashley Criner |
 | 999 | 366 | Monique Foster |
 | 1000 | 366 | KrisCynthia Lynette |
 | 1001 | 365 | Wes Acton |
@@ -1096,8 +1096,8 @@
 | 1088 | 339 | Nutty Cascade |
 | 1089 | 338 | Goofy Blockfall |
 | 1090 | 338 | Shelva Richard |
-| 1091 | 337 | Jennifer Mahon |
-| 1092 | 337 | Spicy Riser |
+| 1091 | 337 | Spicy Riser |
+| 1092 | 337 | Jennifer Mahon |
 | 1093 | 337 | Stanley Vanekelenburg |
 | 1094 | 337 | Sassy Pattern |
 | 1095 | 337 | Harrison Littrell |

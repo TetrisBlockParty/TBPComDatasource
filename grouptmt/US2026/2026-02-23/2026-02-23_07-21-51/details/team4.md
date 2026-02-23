@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | KM8 |
-| 93 | 647 | Shauna Havard |
+| 92 | 647 | Shauna Havard |
+| 93 | 647 | KM8 |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -157,8 +157,8 @@
 | 149 | 414 | Swanky Fitline |
 | 150 | 412 | Jessica Bohlken |
 | 151 | 408 | Amanda Pauldo-Ivy |
-| 152 | 406 | Damn Libra |
-| 153 | 406 | Livvy |
+| 152 | 406 | Livvy |
+| 153 | 406 | Damn Libra |
 | 154 | 398 | Tyler Terrific |
 | 155 | 395 | ThaEviLJeNiuZ |
 | 156 | 394 | Andy Cabral |
@@ -835,8 +835,8 @@
 | 827 | 79 | Giggy Bridgepiece |
 | 828 | 79 | Harold M. |
 | 829 | 79 | Jason M Cadreau |
-| 830 | 78 | Bromine |
-| 831 | 78 | Allen Johnson |
+| 830 | 78 | Allen Johnson |
+| 831 | 78 | Bromine |
 | 832 | 78 | Bob N Alisha Hinojosa |
 | 833 | 78 | Timothy Allen |
 | 834 | 78 | Jaime Ore Norcross |
