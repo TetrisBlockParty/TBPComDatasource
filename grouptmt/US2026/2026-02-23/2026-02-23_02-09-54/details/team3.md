@@ -25,8 +25,8 @@
 | 17 | 2697 | River |
 | 18 | 2503 | Clever Roll |
 | 19 | 2302 | Laura Melton |
-| 20 | 2287 | Tetris Master |
-| 21 | 2287 | Brandon Green |
+| 20 | 2287 | Brandon Green |
+| 21 | 2287 | Tetris Master |
 | 22 | 2203 | Ashley Jones |
 | 23 | 2177 | Susan Valentino |
 | 24 | 2144 | Zippy Strikesnap |
@@ -61,8 +61,8 @@
 | 53 | 1276 | Aaron Pitkin |
 | 54 | 1269 | Amber Jones |
 | 55 | 1258 | Jennifer Petrie |
-| 56 | 1256 | Mahman |
-| 57 | 1256 | Jessica Bechler |
+| 56 | 1256 | Jessica Bechler |
+| 57 | 1256 | Mahman |
 | 58 | 1191 | Nate Burnside |
 | 59 | 1167 | Elaine Webb Graves |
 | 60 | 1141 | Queen Kam |
@@ -157,8 +157,8 @@
 | 149 | 582 | Natasha Jones |
 | 150 | 579 | Tasha Gillespie |
 | 151 | 574 | Morgan Martinez |
-| 152 | 572 | CeceGeGe |
-| 153 | 572 | Domo Washington |
+| 152 | 572 | Domo Washington |
+| 153 | 572 | CeceGeGe |
 | 154 | 571 | Nicole Myers |
 | 155 | 568 | Rachael McClain Owens |
 | 156 | 562 | Dave Herzog |

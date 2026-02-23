@@ -116,8 +116,8 @@
 | 108 | 448 | Jazzy Framezone |
 | 109 | 447 | Lexuriuos Lifestlye |
 | 110 | 444 | Hyper |
-| 111 | 443 | lil mickey |
-| 112 | 443 | Steve Schneider |
+| 111 | 443 | Steve Schneider |
+| 112 | 443 | lil mickey |
 | 113 | 442 | Veronica Eve |
 | 114 | 440 | Stephanie Zahn |
 | 115 | 439 | Dee Perry |
@@ -193,8 +193,8 @@
 | 185 | 306 | Happy Basegrid |
 | 186 | 306 | J.F. Fields |
 | 187 | 304 | David Lutcher |
-| 188 | 303 | Letson Melissa |
-| 189 | 303 | ALFD |
+| 188 | 303 | ALFD |
+| 189 | 303 | Letson Melissa |
 | 190 | 302 | Erin Rosberg |
 | 191 | 301 | Damon J. Martin |
 | 192 | 296 | Cody Gates |

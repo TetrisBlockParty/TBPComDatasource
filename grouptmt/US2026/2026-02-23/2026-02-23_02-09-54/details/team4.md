@@ -55,8 +55,8 @@
 | 47 | 860 | Jae Job |
 | 48 | 855 | Marvin Lou Martin |
 | 49 | 853 | TeeJ |
-| 50 | 846 | Lucille Truesdale |
-| 51 | 846 | Christine Marie |
+| 50 | 846 | Christine Marie |
+| 51 | 846 | Lucille Truesdale |
 | 52 | 845 | LisaJo Picken Buchanan |
 | 53 | 843 | Shelly Chandler |
 | 54 | 841 | Anthony Bryan Riva |
@@ -75,11 +75,11 @@
 | 67 | 749 | Dustee Craddock-Harrison |
 | 68 | 748 | loulou |
 | 69 | 739 | Avy Absol |
-| 70 | 736 | Carolyn Wallace |
-| 71 | 736 | Goatimus Lombardi |
+| 70 | 736 | Goatimus Lombardi |
+| 71 | 736 | Carolyn Wallace |
 | 72 | 725 | Denise Carlson |
-| 73 | 704 | Crystal Carroll |
-| 74 | 704 | D3TROITB0RN74 |
+| 73 | 704 | D3TROITB0RN74 |
+| 74 | 704 | Crystal Carroll |
 | 75 | 697 | Alyssa Papen |
 | 76 | 684 | Jonathan Kimbrough |
 | 77 | 677 | TheNeesh50 |
@@ -162,8 +162,8 @@
 | 154 | 375 | Desi Desporte |
 | 155 | 374 | Guy Incognito |
 | 156 | 373 | Tyler Terrific |
-| 157 | 370 | ThaEviLJeNiuZ |
-| 158 | 370 | Oscar Alberto Perez |
+| 157 | 370 | Oscar Alberto Perez |
+| 158 | 370 | ThaEviLJeNiuZ |
 | 159 | 368 | Brandon Crabbs |
 | 160 | 368 | Silly Zonebuilder |
 | 161 | 365 | Leslie Nicole |

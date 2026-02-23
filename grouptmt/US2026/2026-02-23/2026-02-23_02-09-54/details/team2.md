@@ -40,8 +40,8 @@
 | 32 | 4199 | Claire Noland |
 | 33 | 4130 | Robert Diddle |
 | 34 | 4128 | Angela Pruitt |
-| 35 | 4120 | Corrine Hawks Soriano |
-| 36 | 4120 | Kristen Sceurman |
+| 35 | 4120 | Kristen Sceurman |
+| 36 | 4120 | Corrine Hawks Soriano |
 | 37 | 4033 | Jill Stroehlein |
 | 38 | 3895 | Nickie Baby |
 | 39 | 3770 | Brittany Alicia |
@@ -137,8 +137,8 @@
 | 129 | 1639 | Karen Martini-Stapleton |
 | 130 | 1632 | Qiana Sanders |
 | 131 | 1631 | Speedy Spinblock |
-| 132 | 1623 | Mr. Street Stack |
-| 133 | 1623 | Rebecca Doughman |
+| 132 | 1623 | Rebecca Doughman |
+| 133 | 1623 | Mr. Street Stack |
 | 134 | 1622 | Mari Ac |
 | 135 | 1614 | Janel Turley-Garner |
 | 136 | 1601 | Ray Ray Prado |
@@ -191,8 +191,8 @@
 | 183 | 1317 | Laura Wyatt |
 | 184 | 1316 | Rosa Franklin |
 | 185 | 1306 | Isabela Shaw |
-| 186 | 1300 | Rich Sullivan |
-| 187 | 1300 | Tacara Cummings |
+| 186 | 1300 | Tacara Cummings |
+| 187 | 1300 | Rich Sullivan |
 | 188 | 1294 | Ashley House |
 | 189 | 1292 | Mischelle Clay |
 | 190 | 1286 | Altamirano Michael |
@@ -389,8 +389,8 @@
 | 381 | 748 | Brenda Utphall |
 | 382 | 748 | Stephanie Lumanlan |
 | 383 | 747 | Kiely Tomaskovich |
-| 384 | 746 | Jerilyn Andrina |
-| 385 | 746 | Leslie Ann Carter |
+| 384 | 746 | Leslie Ann Carter |
+| 385 | 746 | Jerilyn Andrina |
 | 386 | 744 | Mandi Douglas Hilt |
 | 387 | 743 | Tiara Elizabeth Baker |
 | 388 | 741 | Jánine Riggs |
@@ -543,8 +543,8 @@
 | 535 | 562 | AISlop |
 | 536 | 561 | Daniell Martinez |
 | 537 | 560 | Gloria Ininahazwe |
-| 538 | 559 | Anthony Huebel |
-| 539 | 559 | Slip |
+| 538 | 559 | Slip |
+| 539 | 559 | Anthony Huebel |
 | 540 | 558 | Libby Hicks |
 | 541 | 557 | Victor Obiakarije |
 | 542 | 554 | Laquetta Royston |
