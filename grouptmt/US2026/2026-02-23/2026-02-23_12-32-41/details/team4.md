@@ -66,8 +66,8 @@
 | 58 | 864 | Shelly Chandler |
 | 59 | 863 | Pee |
 | 60 | 859 | TeeJ |
-| 61 | 846 | Christine Marie |
-| 62 | 846 | Lucille Truesdale |
+| 61 | 846 | Lucille Truesdale |
+| 62 | 846 | Christine Marie |
 | 63 | 834 | quicksand420 |
 | 64 | 807 | Amelpss |
 | 65 | 807 | Rachel Anne |
@@ -184,8 +184,8 @@
 | 176 | 383 | Chris Bernstein |
 | 177 | 377 | Guy Incognito |
 | 178 | 375 | Desi Desporte |
-| 179 | 372 | Antony Dwayne Beasley |
-| 180 | 372 | George Nutt |
+| 179 | 372 | George Nutt |
+| 180 | 372 | Antony Dwayne Beasley |
 | 181 | 370 | Oscar Alberto Perez |
 | 182 | 369 | Lindsey Gonzalez |
 | 183 | 369 | Andria Lynn |
