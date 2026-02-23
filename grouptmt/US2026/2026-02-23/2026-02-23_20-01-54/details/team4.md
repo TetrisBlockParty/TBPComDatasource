@@ -59,9 +59,9 @@
 | 51 | 1147 | Jae Job |
 | 52 | 1099 | Ashley Ingram |
 | 53 | 1085 | Kimyatta Cavin |
-| 54 | 1082 | Dawn Alexander |
-| 55 | 1082 | Avy Absol |
-| 56 | 1082 | Dion Crommarty |
+| 54 | 1082 | Dion Crommarty |
+| 55 | 1082 | Dawn Alexander |
+| 56 | 1082 | Avy Absol |
 | 57 | 1049 | Heather Tushner |
 | 58 | 1046 | Johnathan Martinez |
 | 59 | 1030 | Dustee Craddock-Harrison |
@@ -117,8 +117,8 @@
 | 109 | 667 | Amy Suckarieh |
 | 110 | 663 | H.R. Block |
 | 111 | 659 | Jamie Gustafson |
-| 112 | 658 | Zippy Gridlock |
-| 113 | 658 | Girl |
+| 112 | 658 | Girl |
+| 113 | 658 | Zippy Gridlock |
 | 114 | 652 | Leslie Nicole |
 | 115 | 649 | Chris Alexinas |
 | 116 | 647 | KM8 |
@@ -159,8 +159,8 @@
 | 151 | 514 | Lucas J Sutton |
 | 152 | 514 | Scott Jameson |
 | 153 | 513 | Erin Thomas |
-| 154 | 512 | Angela Srubar-Norman |
-| 155 | 512 | ThaEviLJeNiuZ |
+| 154 | 512 | ThaEviLJeNiuZ |
+| 155 | 512 | Angela Srubar-Norman |
 | 156 | 512 | Casey Jeffcoat |
 | 157 | 508 | Twisty Clicky |
 | 158 | 502 | Ellen Durfee |
@@ -371,10 +371,10 @@
 | 363 | 253 | Autum Leigh |
 | 364 | 253 | Chair |
 | 365 | 252 | Maureen Flanigan |
-| 366 | 252 | Dan Wold |
-| 367 | 252 | Gracie Ann Taylor |
-| 368 | 251 | Kathy Allen |
-| 369 | 251 | Carol Ricks Raymond |
+| 366 | 252 | Gracie Ann Taylor |
+| 367 | 252 | Dan Wold |
+| 368 | 251 | Carol Ricks Raymond |
+| 369 | 251 | Kathy Allen |
 | 370 | 250 | Stephme310 |
 | 371 | 249 | Ak Jones |
 | 372 | 248 | Chirpy Basepiece |

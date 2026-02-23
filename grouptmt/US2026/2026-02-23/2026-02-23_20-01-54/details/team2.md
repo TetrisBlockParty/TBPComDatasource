@@ -170,8 +170,8 @@
 | 162 | 1769 | Chirpy Staggerpiece |
 | 163 | 1767 | niecy |
 | 164 | 1759 | Nerdy Pattern |
-| 165 | 1751 | Woodys Glass |
-| 166 | 1751 | Bob |
+| 165 | 1751 | Bob |
+| 166 | 1751 | Woodys Glass |
 | 167 | 1740 | blarg |
 | 168 | 1730 | Angel |
 | 169 | 1729 | Eboni Banks |
@@ -309,8 +309,8 @@
 | 301 | 1156 | Arkei Luster |
 | 302 | 1156 | Alezandra Smith |
 | 303 | 1145 | Deborah Miller |
-| 304 | 1142 | April Dawn Gussler |
-| 305 | 1142 | Sheniya Spurgeon |
+| 304 | 1142 | Sheniya Spurgeon |
+| 305 | 1142 | April Dawn Gussler |
 | 306 | 1140 | Kimberly Hauck-Rausch |
 | 307 | 1139 | Carl Bradshaw |
 | 308 | 1137 | Hillary Crawford |
@@ -443,8 +443,8 @@
 | 435 | 877 | Misti Markijohn |
 | 436 | 876 | Jessicah Myers |
 | 437 | 870 | Joy LaJeunesse |
-| 438 | 869 | Venita Ray |
-| 439 | 869 | BYM4L |
+| 438 | 869 | BYM4L |
+| 439 | 869 | Venita Ray |
 | 440 | 868 | Jelly |
 | 441 | 865 | Kiely Tomaskovich |
 | 442 | 862 | Sarah Massey |
