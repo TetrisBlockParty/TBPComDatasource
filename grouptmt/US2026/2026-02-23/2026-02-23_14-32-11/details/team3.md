@@ -81,8 +81,8 @@
 | 73 | 1256 | Jessica Bechler |
 | 74 | 1244 | Lori Barnaby |
 | 75 | 1221 | Betty Ivy |
-| 76 | 1213 | Snappy Glidepiece |
-| 77 | 1213 | Nerdy Riseclear |
+| 76 | 1213 | Nerdy Riseclear |
+| 77 | 1213 | Snappy Glidepiece |
 | 78 | 1209 | Amanda Adkins |
 | 79 | 1190 | Jay Horn |
 | 80 | 1186 | Christian A. Pollard |
@@ -329,8 +329,8 @@
 | 321 | 352 | LadyTorad |
 | 322 | 351 | Blocked |
 | 323 | 351 | Eon Harris |
-| 324 | 349 | Amanda J. Mcneil-Anderson |
-| 325 | 349 | Num1hater |
+| 324 | 349 | Num1hater |
+| 325 | 349 | Amanda J. Mcneil-Anderson |
 | 326 | 348 | Ashley Raines |
 | 327 | 346 | Chummy Rumbler |
 | 328 | 345 | gremicx |
@@ -444,12 +444,12 @@
 | 436 | 269 | Samantha Worley |
 | 437 | 269 | Goofy Fall |
 | 438 | 268 | Julia Nicole |
-| 439 | 268 | Sdot |
-| 440 | 268 | Jessica Lynn French |
+| 439 | 268 | Jessica Lynn French |
+| 440 | 268 | Sdot |
 | 441 | 267 | April Matthew Kibble |
 | 442 | 267 | Michael Kimbro |
-| 443 | 266 | Quirky Dropzone |
-| 444 | 266 | Sarah Muradyan |
+| 443 | 266 | Sarah Muradyan |
+| 444 | 266 | Quirky Dropzone |
 | 445 | 265 | AlsoJess |
 | 446 | 265 | Jack Bo |
 | 447 | 264 | Funky Jumper |
@@ -504,8 +504,8 @@
 | 496 | 240 | Bambi Jones |
 | 497 | 239 | Martin Bernier |
 | 498 | 238 | Niki Dalrymple |
-| 499 | 238 | TLM |
-| 500 | 238 | Jess Dearborn |
+| 499 | 238 | Jess Dearborn |
+| 500 | 238 | TLM |
 | 501 | 237 | BŘŰŤİÇŨŚ |
 | 502 | 236 | Alexis Ford |
 | 503 | 236 | Frothy Snapper |
@@ -640,9 +640,9 @@
 | 632 | 193 | Billie Jean Cooper |
 | 633 | 193 | Stephanie Zahm |
 | 634 | 192 | Kelly Ann Child |
-| 635 | 192 | Sierra Spencer |
-| 636 | 192 | Laura Booth Wosko |
-| 637 | 192 | Cibf Ecihm |
+| 635 | 192 | Laura Booth Wosko |
+| 636 | 192 | Cibf Ecihm |
+| 637 | 192 | Sierra Spencer |
 | 638 | 192 | Draone Grayson |
 | 639 | 191 | lady lua |
 | 640 | 191 | Felicia Doxey |

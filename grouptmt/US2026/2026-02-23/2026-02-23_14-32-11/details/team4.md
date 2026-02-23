@@ -77,8 +77,8 @@
 | 69 | 802 | Crystal Carroll |
 | 70 | 794 | Julian Garcia |
 | 71 | 788 | Chilly Line |
-| 72 | 787 | Edward White |
-| 73 | 787 | loulou |
+| 72 | 787 | loulou |
+| 73 | 787 | Edward White |
 | 74 | 769 | Alyssa Papen |
 | 75 | 768 | Judy Cox |
 | 76 | 767 | Shannon Ferrari |
@@ -200,14 +200,14 @@
 | 192 | 374 | Chris Alexinas |
 | 193 | 372 | George Nutt |
 | 194 | 372 | Antony Dwayne Beasley |
-| 195 | 368 | Silly Zonebuilder |
-| 196 | 368 | Holly Jolly |
+| 195 | 368 | Holly Jolly |
+| 196 | 368 | Silly Zonebuilder |
 | 197 | 365 | Jeff Brian Gates |
 | 198 | 363 | Cindy Looper |
 | 199 | 361 | Danielle Kollias |
 | 200 | 361 | Rafael Valentin |
-| 201 | 358 | Twisty Cascadezone |
-| 202 | 358 | A5! |
+| 201 | 358 | A5! |
+| 202 | 358 | Twisty Cascadezone |
 | 203 | 355 | James Hurley Jr. |
 | 204 | 354 | TRCuse |
 | 205 | 354 | Kris Bartlett |

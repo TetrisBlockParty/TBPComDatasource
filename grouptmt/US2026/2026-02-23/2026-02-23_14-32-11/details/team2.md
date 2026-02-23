@@ -252,8 +252,8 @@
 | 244 | 1232 | Ambyre Patterson |
 | 245 | 1230 | Megan Garrick |
 | 246 | 1221 | Jane Fong |
-| 247 | 1217 | Brooks Brooks |
-| 248 | 1217 | Lucky Ladybug |
+| 247 | 1217 | Lucky Ladybug |
+| 248 | 1217 | Brooks Brooks |
 | 249 | 1216 | Pacynthia Williams |
 | 250 | 1214 | David Cudicio-Hayden |
 | 251 | 1211 | Ricardo Burton |
@@ -295,8 +295,8 @@
 | 287 | 1079 | Jennifer Kistner |
 | 288 | 1073 | Jodi Blake |
 | 289 | 1071 | Kim Dean |
-| 290 | 1069 | Carl Bradshaw |
-| 291 | 1069 | Offonar Facey |
+| 290 | 1069 | Offonar Facey |
+| 291 | 1069 | Carl Bradshaw |
 | 292 | 1068 | Cindy Sechler Taninecz |
 | 293 | 1064 | BK Queen |
 | 294 | 1063 | Caitlin Schmid |
@@ -541,8 +541,8 @@
 | 533 | 677 | Lylymom |
 | 534 | 677 | Kayleigh Wisse |
 | 535 | 676 | Brenna Ann |
-| 536 | 676 | Roseanna Peloso |
-| 537 | 676 | Nicky Jackson |
+| 536 | 676 | Nicky Jackson |
+| 537 | 676 | Roseanna Peloso |
 | 538 | 675 | Lonne Emade |
 | 539 | 675 | Katelynn Hollen |
 | 540 | 675 | Jennifer Leigh |
@@ -563,8 +563,8 @@
 | 555 | 659 | Anthony Huebel |
 | 556 | 659 | Trinity Oak |
 | 557 | 658 | Demeka Dangerous-kisses Johnson |
-| 558 | 656 | Rebecca Miller |
-| 559 | 656 | bonsai |
+| 558 | 656 | bonsai |
+| 559 | 656 | Rebecca Miller |
 | 560 | 656 | Tonya Lee |
 | 561 | 655 | Véronique Lévesque Sabourin |
 | 562 | 655 | Silly Pivotfall |

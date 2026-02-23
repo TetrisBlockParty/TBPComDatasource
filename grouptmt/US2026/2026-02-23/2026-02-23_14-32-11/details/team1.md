@@ -169,8 +169,8 @@
 | 161 | 403 | Tana |
 | 162 | 402 | Chris K |
 | 163 | 400 | Chelsea Dahlquist |
-| 164 | 399 | phrmblk24 |
-| 165 | 399 | Nery Martinez |
+| 164 | 399 | Nery Martinez |
+| 165 | 399 | phrmblk24 |
 | 166 | 397 | Erin Rosberg |
 | 167 | 394 | Lori Bales |
 | 168 | 393 | Kimmie Kimms |
@@ -265,8 +265,8 @@
 | 257 | 298 | Kimberly Davis |
 | 258 | 298 | Sweetts |
 | 259 | 297 | Diane Byrd |
-| 260 | 290 | Hellsin |
-| 261 | 290 | Tavia |
+| 260 | 290 | Tavia |
+| 261 | 290 | Hellsin |
 | 262 | 289 | Alenoush Karimian |
 | 263 | 288 | Bird Person |
 | 264 | 287 | Sir-Franchise Drake |
