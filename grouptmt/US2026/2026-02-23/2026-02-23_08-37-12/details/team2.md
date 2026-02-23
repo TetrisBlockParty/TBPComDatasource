@@ -287,8 +287,8 @@
 | 279 | 1044 | Jennifer Aiken |
 | 280 | 1043 | Brave Dropmatch |
 | 281 | 1043 | nikki |
-| 282 | 1036 | Allison Lockyer |
-| 283 | 1036 | Amber Shoemaker |
+| 282 | 1036 | Amber Shoemaker |
+| 283 | 1036 | Allison Lockyer |
 | 284 | 1026 | Kristin Gower |
 | 285 | 1026 | F-X |
 | 286 | 1024 | Susan Perraut Jones |
@@ -300,22 +300,22 @@
 | 292 | 1010 | Brittany Radaszewski |
 | 293 | 1007 | Missie Lawson Gebhardt |
 | 294 | 1003 | Andrea Maher |
-| 295 | 998 | Keri Womack |
-| 296 | 998 | Shelley Thornburgh Wright |
+| 295 | 998 | Shelley Thornburgh Wright |
+| 296 | 998 | Keri Womack |
 | 297 | 996 | Ashie Ann |
 | 298 | 987 | Osun Anuket Esu |
 | 299 | 984 | Crystal Hoffman |
-| 300 | 979 | Hillary Crawford |
-| 301 | 979 | Melissa Penelope Ann Dodge |
+| 300 | 979 | Melissa Penelope Ann Dodge |
+| 301 | 979 | Hillary Crawford |
 | 302 | 978 | April Dawn Gussler |
 | 303 | 976 | Sam Joe |
 | 304 | 976 | Della Hole |
 | 305 | 975 | Hyper Cluster |
-| 306 | 972 | Barbra Miller |
-| 307 | 972 | Binyah-Binyah |
+| 306 | 972 | Binyah-Binyah |
+| 307 | 972 | Barbra Miller |
 | 308 | 971 | Jojo Momma |
-| 309 | 969 | Boldy Cascadepiece |
-| 310 | 969 | Em Chen |
+| 309 | 969 | Em Chen |
+| 310 | 969 | Boldy Cascadepiece |
 | 311 | 961 | Angela Lynn |
 | 312 | 959 | Phil J. Grombliniak |
 | 313 | 958 | Brenda Messer |
@@ -484,8 +484,8 @@
 | 476 | 695 | Lakeysha Dortch |
 | 477 | 693 | Ryan Stadel |
 | 478 | 692 | Shaun Church |
-| 479 | 691 | Samuel Macon |
-| 480 | 691 | Arwa Fatimah |
+| 479 | 691 | Arwa Fatimah |
+| 480 | 691 | Samuel Macon |
 | 481 | 689 | Gauri Shrotriya |
 | 482 | 686 | Christine Coughlin |
 | 483 | 684 | Ann Knutson Anderson |
@@ -865,8 +865,8 @@
 | 857 | 420 | Krys |
 | 858 | 420 | Lathasa Newkirk |
 | 859 | 420 | Boogie SoAnimated Johnson |
-| 860 | 419 | Erin Reid |
-| 861 | 419 | Josh Dill |
+| 860 | 419 | Josh Dill |
+| 861 | 419 | Erin Reid |
 | 862 | 418 | Bold Brickster |
 | 863 | 417 | Tristan Szolek |
 | 864 | 417 | Rebecca Garland |
@@ -1020,8 +1020,8 @@
 | 1012 | 366 | Ashley Criner |
 | 1013 | 366 | Josh Webster |
 | 1014 | 366 | KrisCynthia Lynette |
-| 1015 | 365 | Dee Blokk |
-| 1016 | 365 | Wes Acton |
+| 1015 | 365 | Wes Acton |
+| 1016 | 365 | Dee Blokk |
 | 1017 | 365 | Nikki Nikki |
 | 1018 | 365 | Candace Noel |
 | 1019 | 364 | Jessica Galick |

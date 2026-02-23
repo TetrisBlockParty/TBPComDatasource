@@ -75,8 +75,8 @@
 | 67 | 781 | Chilly Line |
 | 68 | 767 | Shannon Ferrari |
 | 69 | 766 | Robin Watters |
-| 70 | 765 | Robin Getchel |
-| 71 | 765 | Denise Carlson |
+| 70 | 765 | Denise Carlson |
+| 71 | 765 | Robin Getchel |
 | 72 | 752 | Shane Kalamata Platoon |
 | 73 | 749 | Dustee Craddock-Harrison |
 | 74 | 747 | TheNeesh50 |
@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | KM8 |
-| 93 | 647 | Shauna Havard |
+| 92 | 647 | Shauna Havard |
+| 93 | 647 | KM8 |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -314,8 +314,8 @@
 | 306 | 223 | Adawna Swires |
 | 307 | 222 | Brandi Durig |
 | 308 | 221 | Rheanda Weaskus |
-| 309 | 220 | Tina Lopez |
-| 310 | 220 | Ziggy |
+| 309 | 220 | Ziggy |
+| 310 | 220 | Jumpy Zonepiece |
 | 311 | 220 | Nita Wells |
 | 312 | 220 | Tina Lopez |
 | 313 | 219 | Orchislactea |
@@ -324,8 +324,8 @@
 | 316 | 217 | Paito |
 | 317 | 217 | Cheery Fitline |
 | 318 | 217 | Alexandra Karavias |
-| 319 | 216 | mike |
-| 320 | 216 | Chantilly Laace |
+| 319 | 216 | Chantilly Laace |
+| 320 | 216 | mike |
 | 321 | 215 | Stephme310 |
 | 322 | 214 | Patron Anderson |
 | 323 | 214 | Stacey Stano |
@@ -340,9 +340,9 @@
 | 332 | 208 | Heather Bruce |
 | 333 | 208 | Shukee Lo |
 | 334 | 207 | Squeezy Pearsall |
-| 335 | 206 | June Hoffman |
-| 336 | 206 | Laura Hosford |
-| 337 | 206 | Maureen Flanigan |
+| 335 | 206 | Maureen Flanigan |
+| 336 | 206 | June Hoffman |
+| 337 | 206 | Laura Hosford |
 | 338 | 205 | KayM |
 | 339 | 204 | Ruby Khalisadar |
 | 340 | 204 | Russ Attitude |
@@ -355,8 +355,8 @@
 | 347 | 200 | Googenheim |
 | 348 | 198 | Calvin Dennis |
 | 349 | 197 | Shiny Fit |
-| 350 | 196 | Blessedmama |
-| 351 | 196 | Megan Cutshaw |
+| 350 | 196 | Megan Cutshaw |
+| 351 | 196 | Blessedmama |
 | 352 | 195 | Dustin York |
 | 353 | 194 | Zany Twisterfit |
 | 354 | 194 | SammieJo Guy |
@@ -378,7 +378,7 @@
 | 370 | 186 | Shanon Klair |
 | 371 | 186 | Eri Kka |
 | 372 | 185 | Rebecca Blake |
-| 373 | 185 | Val Erie |
+| 373 | 185 | Morti |
 | 374 | 185 | Moonsterix |
 | 375 | 185 | Val Erie |
 | 376 | 183 | Sarah Hoffman |
