@@ -104,8 +104,8 @@
 | 96 | 2170 | Steve Grotto |
 | 97 | 2165 | Tj Ball |
 | 98 | 2155 | Qiana Sanders |
-| 99 | 2148 | Roger Grabbit |
-| 100 | 2148 | ShinyRose |
+| 99 | 2148 | ShinyRose |
+| 100 | 2148 | Roger Grabbit |
 | 101 | 2146 | KellyDyan |
 | 102 | 2106 | Cool Rollpiece |
 | 103 | 2103 | Alisha Peoples |
@@ -144,8 +144,8 @@
 | 136 | 1639 | Jessie McDougald |
 | 137 | 1631 | Speedy Spinblock |
 | 138 | 1629 | Mari Ac |
-| 139 | 1623 | Janel Turley-Garner |
-| 140 | 1623 | Rebecca Doughman |
+| 139 | 1623 | Rebecca Doughman |
+| 140 | 1623 | Janel Turley-Garner |
 | 141 | 1605 | Christi Hulet |
 | 142 | 1602 | blackq |
 | 143 | 1601 | Ray Ray Prado |
@@ -212,8 +212,8 @@
 | 204 | 1245 | Cody Nishimura |
 | 205 | 1243 | Anna Edwards |
 | 206 | 1237 | Megan Ferguson Leone |
-| 207 | 1232 | Ambyre Patterson |
-| 208 | 1232 | Groovy Puzzle |
+| 207 | 1232 | Groovy Puzzle |
+| 208 | 1232 | Ambyre Patterson |
 | 209 | 1230 | Megan Garrick |
 | 210 | 1217 | Lucky Ladybug |
 | 211 | 1217 | Brooks Brooks |
@@ -577,19 +577,19 @@
 | 569 | 562 | Sabrena Yeisley |
 | 570 | 562 | AISlop |
 | 571 | 560 | SwampRebel |
-| 572 | 559 | Slip |
-| 573 | 559 | Anthony Huebel |
+| 572 | 559 | Anthony Huebel |
+| 573 | 559 | Slip |
 | 574 | 558 | Libby Hicks |
-| 575 | 554 | Dizzy Zone |
-| 576 | 554 | Tra Barnum |
+| 575 | 554 | Tra Barnum |
+| 576 | 554 | Dizzy Zone |
 | 577 | 554 | Party d |
 | 578 | 554 | Laquetta Royston |
 | 579 | 553 | Kelli Wells |
 | 580 | 551 | Matt Johnson |
 | 581 | 551 | Samuel Macon |
 | 582 | 551 | Cynthia Louann Rose |
-| 583 | 550 | Misty Mitchell |
-| 584 | 550 | Michelle Sager |
+| 583 | 550 | Michelle Sager |
+| 584 | 550 | Misty Mitchell |
 | 585 | 550 | Frilly Fallzone |
 | 586 | 549 | Kaylee McCafferty |
 | 587 | 549 | Melissa Kay Gibson |
@@ -1102,7 +1102,7 @@
 | 1094 | 317 | Zombi3 |
 | 1095 | 316 | Elena Vap |
 | 1096 | 316 | LeVeL27 |
-| 1097 | 316 | Elena Vap |
+| 1097 | 316 | Rebecca Edmund |
 | 1098 | 316 | Cozy Drop |
 | 1099 | 315 | Krys |
 | 1100 | 315 | Neaomi Favro |
