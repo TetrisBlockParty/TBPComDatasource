@@ -235,8 +235,8 @@
 | 227 | 409 | Antony Dwayne Beasley |
 | 228 | 403 | TinyLegoRose |
 | 229 | 400 | Brickh4us |
-| 230 | 399 | Lindsay Ball |
-| 231 | 399 | Jeff Brian Gates |
+| 230 | 399 | Jeff Brian Gates |
+| 231 | 399 | Lindsay Ball |
 | 232 | 398 | Tyler Terrific |
 | 233 | 395 | 030Synner |
 | 234 | 394 | Nita Wells |
@@ -302,8 +302,8 @@
 | 294 | 321 | Blessedmama |
 | 295 | 321 | Chance Strickland |
 | 296 | 318 | Duck |
-| 297 | 317 | O block |
-| 298 | 317 | Madison Sweere |
+| 297 | 317 | Madison Sweere |
+| 298 | 317 | O block |
 | 299 | 316 | Stella |
 | 300 | 315 | Vic |
 | 301 | 315 | Heather Bruce |

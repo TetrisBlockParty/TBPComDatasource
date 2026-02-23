@@ -178,8 +178,8 @@
 | 170 | 762 | Santeria Trece Candles |
 | 171 | 761 | Peppy Shifter |
 | 172 | 757 | Fancy Cascader |
-| 173 | 755 | Tye Stovall |
-| 174 | 755 | Laura Booth Wosko |
+| 173 | 755 | Laura Booth Wosko |
+| 174 | 755 | Tye Stovall |
 | 175 | 742 | Jennifer Lynn Fahrenholtz-Summers |
 | 176 | 740 | Kiki |
 | 177 | 738 | Naur |
@@ -323,8 +323,8 @@
 | 315 | 436 | Heather De Vries Cobb |
 | 316 | 434 | Daring Builder |
 | 317 | 432 | Luciana Braganca Vieira |
-| 318 | 431 | Tia |
-| 319 | 431 | Wendy Dearden |
+| 318 | 431 | Wendy Dearden |
+| 319 | 431 | Tia |
 | 320 | 430 | Quackers |
 | 321 | 429 | Carrie Huskey |
 | 322 | 428 | Samantha Lynn |
@@ -368,8 +368,8 @@
 | 360 | 382 | Tiffany Davie |
 | 361 | 381 | Christina Spa |
 | 362 | 381 | gremicx |
-| 363 | 379 | Kelly |
-| 364 | 379 | Kaitie Oliver |
+| 363 | 379 | Kaitie Oliver |
+| 364 | 379 | Kelly |
 | 365 | 378 | MsBee |
 | 366 | 377 | Hoppy Patternline |
 | 367 | 377 | Dee Franklin |
@@ -391,11 +391,11 @@
 | 383 | 365 | Romeo |
 | 384 | 362 | Brandon Givens |
 | 385 | 360 | Ashley Rufus Bythcez |
-| 386 | 360 | Heather Bateman |
-| 387 | 360 | Goofy Fall |
+| 386 | 360 | Goofy Fall |
+| 387 | 360 | Heather Bateman |
 | 388 | 360 | Dannie Litchard |
-| 389 | 359 | Ann Hammac |
-| 390 | 359 | Steven Fulater |
+| 389 | 359 | Steven Fulater |
+| 390 | 359 | Ann Hammac |
 | 391 | 359 | 4girls |
 | 392 | 356 | Tony Waters |
 | 393 | 356 | Brittany |
@@ -503,8 +503,8 @@
 | 495 | 302 | Hasty Pop |
 | 496 | 301 | Clever Edgepiece |
 | 497 | 300 | Tracey Cox |
-| 498 | 299 | Hasty Gridpiece |
-| 499 | 299 | Angie Harper |
+| 498 | 299 | Angie Harper |
+| 499 | 299 | Hasty Gridpiece |
 | 500 | 299 | Samantha Worley |
 | 501 | 298 | Grams |
 | 502 | 297 | Zac Hudak |

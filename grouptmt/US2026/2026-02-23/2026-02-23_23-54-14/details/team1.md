@@ -339,8 +339,8 @@
 | 331 | 292 | Fresno Beotoni |
 | 332 | 292 | Clever Cascadepiece |
 | 333 | 291 | Michael Espinosa Ulibarri Jr. |
-| 334 | 291 | Toph |
-| 335 | 291 | Sir-Franchise Drake |
+| 334 | 291 | Sir-Franchise Drake |
+| 335 | 291 | Toph |
 | 336 | 290 | Tavia |
 | 337 | 289 | Michael |
 | 338 | 289 | Nate Price |
@@ -561,7 +561,7 @@
 | 553 | 190 | yoyoluv |
 | 554 | 190 | Neely Janelle Stewart |
 | 555 | 189 | BettyAnn Savo |
-| 556 | 189 | Britney Marie Burton Cole |
+| 556 | 189 | Dizzy Rackham |
 | 557 | 189 | Jonathan Joshua |
 | 558 | 189 | Britney Marie Burton Cole |
 | 559 | 188 | Joshua Weeder |
