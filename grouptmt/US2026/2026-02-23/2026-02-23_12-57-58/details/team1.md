@@ -79,8 +79,8 @@
 | 71 | 760 | Seante Bullock |
 | 72 | 759 | Jacqueline Williams |
 | 73 | 750 | Cartier |
-| 74 | 713 | Snappy Swiper |
-| 75 | 713 | Robert Benito |
+| 74 | 713 | Robert Benito |
+| 75 | 713 | Snappy Swiper |
 | 76 | 704 | Karin Gillen |
 | 77 | 703 | Angel Fowler |
 | 78 | 689 | Susanna Guerry |
@@ -105,8 +105,8 @@
 | 97 | 553 | And |
 | 98 | 537 | Stephanie Zahn |
 | 99 | 535 | Susan Ward |
-| 100 | 534 | Veronica Eve |
-| 101 | 534 | Loony Fitzone |
+| 100 | 534 | Loony Fitzone |
+| 101 | 534 | Veronica Eve |
 | 102 | 529 | Ryan Lunnin |
 | 103 | 522 | Sarah Lombardo |
 | 104 | 522 | Tdub |
@@ -180,8 +180,8 @@
 | 172 | 380 | phrmblk24 |
 | 173 | 379 | Austin James |
 | 174 | 376 | Brian Richardsson |
-| 175 | 375 | Connie |
-| 176 | 375 | Tanya Carpenter-Reynolds |
+| 175 | 375 | Tanya Carpenter-Reynolds |
+| 176 | 375 | Connie |
 | 177 | 374 | Howdi Duty |
 | 178 | 372 | Dizzy Party |
 | 179 | 371 | Jason Savage |
@@ -228,8 +228,8 @@
 | 220 | 324 | Rat666 |
 | 221 | 323 | Eric DeSimone |
 | 222 | 323 | Madison Wicks |
-| 223 | 322 | Letson Melissa |
-| 224 | 322 | Angela Renea Lester |
+| 223 | 322 | Angela Renea Lester |
+| 224 | 322 | Letson Melissa |
 | 225 | 320 | Danielle Little-Daugherty |
 | 226 | 319 | Frothy Pattern |
 | 227 | 318 | Keith Mathis |

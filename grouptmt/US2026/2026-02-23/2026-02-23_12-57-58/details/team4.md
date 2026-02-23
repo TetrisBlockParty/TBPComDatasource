@@ -102,8 +102,8 @@
 | 94 | 659 | Jamie Gustafson |
 | 95 | 653 | Rica Mitchell |
 | 96 | 650 | KJ Pool |
-| 97 | 647 | Shauna Havard |
-| 98 | 647 | KM8 |
+| 97 | 647 | KM8 |
+| 98 | 647 | Shauna Havard |
 | 99 | 646 | Eric Mcgaughy |
 | 100 | 635 | Adawna Swires |
 | 101 | 631 | H.R. Block |
@@ -305,16 +305,16 @@
 | 297 | 253 | Autum Leigh |
 | 298 | 251 | Carol Ricks Raymond |
 | 299 | 249 | Ak Jones |
-| 300 | 248 | Chirpy Basepiece |
-| 301 | 248 | Angelito |
+| 300 | 248 | Angelito |
+| 301 | 248 | Chirpy Basepiece |
 | 302 | 248 | Jose Dejesus |
 | 303 | 245 | 23 |
 | 304 | 244 | Christina Black |
 | 305 | 244 | Perky Piecegrid |
 | 306 | 244 | Elizabeth Tinoco |
 | 307 | 243 | Chair |
-| 308 | 242 | Chaz |
-| 309 | 242 | PurpleMoonMa |
+| 308 | 242 | PurpleMoonMa |
+| 309 | 242 | Chaz |
 | 310 | 242 | Maureen Flanigan |
 | 311 | 240 | Perky Patternblock |
 | 312 | 239 | Susan Williams |
@@ -1514,7 +1514,7 @@
 | 1506 | 23 | Tracy Bohen |
 | 1507 | 23 | CheBrandNew |
 | 1508 | 23 | Hasty Balancer |
-| 1509 | 23 | Julie Lynn |
+| 1509 | 23 | Karolina Koolin |
 | 1510 | 23 | Shneef shnoggin |
 | 1511 | 23 | Julie Lynn |
 | 1512 | 23 | Nicholas Jordan |

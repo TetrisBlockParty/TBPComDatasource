@@ -200,9 +200,9 @@
 | 192 | 549 | Sarah Cowan Burgos |
 | 193 | 548 | Danielle Balcom |
 | 194 | 547 | Staci George Fitzsimmons |
-| 195 | 546 | Cynthia Castros-Hampton |
-| 196 | 546 | Mykal Burton |
-| 197 | 546 | Tasha Schriewer |
+| 195 | 546 | Mykal Burton |
+| 196 | 546 | Tasha Schriewer |
+| 197 | 546 | Cynthia Castros-Hampton |
 | 198 | 540 | Shawn Miller |
 | 199 | 533 | Rania Zaqout |
 | 200 | 531 | Chauntee Alfrey-Cardinale |
@@ -599,8 +599,8 @@
 | 591 | 195 | Paul Larsen |
 | 592 | 194 | Danette Marie |
 | 593 | 194 | Shicken Nuggit |
-| 594 | 193 | Clever Shiftsnap |
-| 595 | 193 | Billie Jean Cooper |
+| 594 | 193 | Billie Jean Cooper |
+| 595 | 193 | Clever Shiftsnap |
 | 596 | 193 | Stephanie Zahm |
 | 597 | 192 | Kelly Ann Child |
 | 598 | 192 | Laura Booth Wosko |

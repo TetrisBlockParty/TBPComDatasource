@@ -44,8 +44,8 @@
 | 36 | 4301 | Mighty Patternzone |
 | 37 | 4199 | Claire Noland |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Corrine Hawks Soriano |
-| 40 | 4120 | Kristen Sceurman |
+| 39 | 4120 | Kristen Sceurman |
+| 40 | 4120 | Corrine Hawks Soriano |
 | 41 | 4086 | PandaMama |
 | 42 | 4006 | CoolKat |
 | 43 | 3960 | Brittany Alicia |
@@ -608,7 +608,7 @@
 | 600 | 604 | Rae Rae |
 | 601 | 603 | Casper The Chonk |
 | 602 | 603 | Dizzy Zone |
-| 603 | 602 | Jason H Baker |
+| 603 | 602 | Stephanie Sul |
 | 604 | 602 | Tash Bell |
 | 605 | 602 | Jason H Baker |
 | 606 | 602 | Jedi |
@@ -620,8 +620,8 @@
 | 612 | 597 | TJ Nash |
 | 613 | 597 | Jamie Schmitt |
 | 614 | 596 | Davetta Sanford |
-| 615 | 595 | Anthony Mignacca |
-| 616 | 595 | Ha Ab |
+| 615 | 595 | Ha Ab |
+| 616 | 595 | Anthony Mignacca |
 | 617 | 594 | Laura Mclean |
 | 618 | 592 | Melissa Kay Gibson |
 | 619 | 592 | Sheronda Jackson |
