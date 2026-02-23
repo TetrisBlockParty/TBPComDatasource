@@ -200,14 +200,14 @@
 | 192 | 376 | Zesty Twistbuilder |
 | 193 | 372 | George Nutt |
 | 194 | 372 | Antony Dwayne Beasley |
-| 195 | 368 | Silly Zonebuilder |
-| 196 | 368 | Holly Jolly |
+| 195 | 368 | Holly Jolly |
+| 196 | 368 | Silly Zonebuilder |
 | 197 | 365 | Jeff Brian Gates |
 | 198 | 363 | Cindy Looper |
 | 199 | 361 | Danielle Kollias |
 | 200 | 361 | Rafael Valentin |
-| 201 | 358 | A5! |
-| 202 | 358 | Twisty Cascadezone |
+| 201 | 358 | Twisty Cascadezone |
+| 202 | 358 | A5! |
 | 203 | 355 | James Hurley Jr. |
 | 204 | 354 | Sharyn Lemire |
 | 205 | 354 | TRCuse |
@@ -320,8 +320,8 @@
 | 312 | 253 | Autum Leigh |
 | 313 | 251 | Carol Ricks Raymond |
 | 314 | 249 | Ak Jones |
-| 315 | 248 | Chirpy Basepiece |
-| 316 | 248 | Angelito |
+| 315 | 248 | Angelito |
+| 316 | 248 | Chirpy Basepiece |
 | 317 | 248 | Jose Dejesus |
 | 318 | 247 | Vic |
 | 319 | 246 | Jenna McGeorge |
@@ -369,8 +369,8 @@
 | 361 | 220 | Jumpy Zonepiece |
 | 362 | 220 | Ziggy |
 | 363 | 220 | Dustin York |
-| 364 | 219 | Shane Vick |
-| 365 | 219 | Orchislactea |
+| 364 | 219 | Orchislactea |
+| 365 | 219 | Shane Vick |
 | 366 | 218 | ĥuf |
 | 367 | 218 | Janita Parrish |
 | 368 | 217 | Paito |

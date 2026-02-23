@@ -168,11 +168,11 @@
 | 160 | 1658 | Liberty |
 | 161 | 1653 | Michele Gabriel |
 | 162 | 1647 | Jessie McDougald |
-| 163 | 1644 | Luna |
-| 164 | 1644 | Speedy Spinblock |
+| 163 | 1644 | Speedy Spinblock |
+| 164 | 1644 | Luna |
 | 165 | 1640 | Scott Treadway |
-| 166 | 1629 | Mari Ac |
-| 167 | 1629 | Rickey Johnson |
+| 166 | 1629 | Rickey Johnson |
+| 167 | 1629 | Mari Ac |
 | 168 | 1625 | Cambrie Schultz |
 | 169 | 1613 | blackq |
 | 170 | 1605 | Christi Hulet |
@@ -254,8 +254,8 @@
 | 246 | 1233 | Maria Escobar |
 | 247 | 1232 | Ambyre Patterson |
 | 248 | 1221 | Jane Fong |
-| 249 | 1217 | Lucky Ladybug |
-| 250 | 1217 | Brooks Brooks |
+| 249 | 1217 | Brooks Brooks |
+| 250 | 1217 | Lucky Ladybug |
 | 251 | 1216 | Pacynthia Williams |
 | 252 | 1214 | David Cudicio-Hayden |
 | 253 | 1211 | Ricardo Burton |
@@ -384,8 +384,8 @@
 | 376 | 903 | Eric Castaneda |
 | 377 | 902 | Diallo Sparkman |
 | 378 | 899 | Felicia Lynn |
-| 379 | 899 | Patrick Bartlett |
-| 380 | 899 | Chevy |
+| 379 | 899 | Chevy |
+| 380 | 899 | Patrick Bartlett |
 | 381 | 898 | Donna M Carter |
 | 382 | 895 | Donna Colby |
 | 383 | 895 | Lisa Ongtowasruk |
@@ -487,8 +487,8 @@
 | 479 | 750 | Draizen Montrell Thomas |
 | 480 | 750 | Michael Buckner |
 | 481 | 748 | Ann Matzkanin |
-| 482 | 746 | Ryan Stadel |
-| 483 | 746 | Hoppy Brickmatch |
+| 482 | 746 | Hoppy Brickmatch |
+| 483 | 746 | Ryan Stadel |
 | 484 | 746 | Samuel Macon |
 | 485 | 742 | Ganieda |
 | 486 | 742 | Cassie Maynard |
@@ -613,8 +613,8 @@
 | 605 | 614 | Emilee Burke |
 | 606 | 614 | Jessica S Flecha |
 | 607 | 613 | Audrey Jones |
-| 608 | 612 | Jenn Marie |
-| 609 | 612 | Briana Alexander |
+| 608 | 612 | Briana Alexander |
+| 609 | 612 | Jenn Marie |
 | 610 | 611 | Autumn Schaeffer |
 | 611 | 610 | Adam Simmons |
 | 612 | 609 | Cecilia A Jenkins |

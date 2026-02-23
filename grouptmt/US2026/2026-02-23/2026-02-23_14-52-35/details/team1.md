@@ -242,8 +242,8 @@
 | 234 | 325 | GringaLinga |
 | 235 | 324 | Rat666 |
 | 236 | 323 | Eric DeSimone |
-| 237 | 322 | Letson Melissa |
-| 238 | 322 | Angela Renea Lester |
+| 237 | 322 | Angela Renea Lester |
+| 238 | 322 | Letson Melissa |
 | 239 | 319 | Frothy Pattern |
 | 240 | 317 | Sarah Roberts |
 | 241 | 316 | Sassy Builderline |
@@ -252,8 +252,8 @@
 | 244 | 313 | Sylvia Vasquez |
 | 245 | 313 | Cody Gates |
 | 246 | 312 | Mitchel White |
-| 247 | 310 | Chantelle Ceno |
-| 248 | 310 | Bloknboy |
+| 247 | 310 | Bloknboy |
+| 248 | 310 | Chantelle Ceno |
 | 249 | 308 | Speedy Liney |
 | 250 | 305 | Plucky Stacky |
 | 251 | 303 | Νεφ Όνυξ |
@@ -348,8 +348,8 @@
 | 340 | 243 | Michael Espinosa Ulibarri Jr. |
 | 341 | 242 | Tamara Brown |
 | 342 | 242 | John Ramirez |
-| 343 | 239 | Colleen Wise |
-| 344 | 239 | Adele Rahman |
+| 343 | 239 | Adele Rahman |
+| 344 | 239 | Colleen Wise |
 | 345 | 238 | Michael |
 | 346 | 236 | Snappy Bridgepiece |
 | 347 | 235 | Ariel Whittington |
@@ -357,8 +357,8 @@
 | 349 | 233 | Shiny Gridmatch |
 | 350 | 233 | Melissa Bires Hussar |
 | 351 | 233 | Tipsy Riseclear |
-| 352 | 232 | Jennifer Olewnik Soborowski |
-| 353 | 232 | Thorne Shumate |
+| 352 | 232 | Thorne Shumate |
+| 353 | 232 | Jennifer Olewnik Soborowski |
 | 354 | 231 | Cheeky Crusher |
 | 355 | 230 | Layzietyme |
 | 356 | 230 | Jessica Russell |
@@ -513,8 +513,8 @@
 | 505 | 169 | Tyler Whitley |
 | 506 | 169 | Ashley Adams |
 | 507 | 168 | Logan McFarland |
-| 508 | 166 | Kendra Powell |
-| 509 | 166 | Gilbert Ortiz Jr. |
+| 508 | 166 | Gilbert Ortiz Jr. |
+| 509 | 166 | Kendra Powell |
 | 510 | 165 | Christy LaSure |
 | 511 | 165 | Stephanie Leday |
 | 512 | 165 | Rodney Schmerfeld |

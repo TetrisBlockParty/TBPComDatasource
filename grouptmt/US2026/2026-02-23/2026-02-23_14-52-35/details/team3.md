@@ -204,8 +204,8 @@
 | 196 | 549 | Tasha Schriewer |
 | 197 | 548 | Danielle Balcom |
 | 198 | 547 | Staci George Fitzsimmons |
-| 199 | 546 | Mykal Burton |
-| 200 | 546 | Cynthia Castros-Hampton |
+| 199 | 546 | Cynthia Castros-Hampton |
+| 200 | 546 | Mykal Burton |
 | 201 | 543 | Silly Twist |
 | 202 | 542 | Connie Mohler-Fair |
 | 203 | 540 | Shawn Miller |
@@ -392,8 +392,8 @@
 | 384 | 302 | Willow |
 | 385 | 301 | Betty Rosas |
 | 386 | 301 | Kaitie Oliver |
-| 387 | 301 | Michael Lucado |
-| 388 | 301 | Daring Brickzone |
+| 387 | 301 | Daring Brickzone |
+| 388 | 301 | Michael Lucado |
 | 389 | 299 | Hasty Gridpiece |
 | 390 | 299 | Antonia Russell |
 | 391 | 299 | Angie Harper |
