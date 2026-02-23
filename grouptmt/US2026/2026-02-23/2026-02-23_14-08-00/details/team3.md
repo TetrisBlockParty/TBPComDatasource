@@ -29,8 +29,8 @@
 | 21 | 2697 | River |
 | 22 | 2499 | mjl574 |
 | 23 | 2387 | Susan Valentino |
-| 24 | 2353 | Tetris Master |
-| 25 | 2353 | Laura Melton |
+| 24 | 2353 | Laura Melton |
+| 25 | 2353 | Tetris Master |
 | 26 | 2311 | Brandon Green |
 | 27 | 2271 | Jeana Gilbert |
 | 28 | 2235 | Ant Ant |
@@ -81,8 +81,8 @@
 | 73 | 1252 | Gracie |
 | 74 | 1244 | Lori Barnaby |
 | 75 | 1221 | Betty Ivy |
-| 76 | 1213 | Nerdy Riseclear |
-| 77 | 1213 | Snappy Glidepiece |
+| 76 | 1213 | Snappy Glidepiece |
+| 77 | 1213 | Nerdy Riseclear |
 | 78 | 1209 | Amanda Adkins |
 | 79 | 1186 | Christian A. Pollard |
 | 80 | 1154 | Carrie Jarvis Mohler |
@@ -119,8 +119,8 @@
 | 111 | 869 | Araceli Parra |
 | 112 | 868 | Sarajane Lokan |
 | 113 | 860 | Sunny Rotater |
-| 114 | 851 | Jd Morris |
-| 115 | 851 | Danielle Becker |
+| 114 | 851 | Danielle Becker |
+| 115 | 851 | Jd Morris |
 | 116 | 850 | Danielle Mogg |
 | 117 | 848 | Patricia Gadsden |
 | 118 | 839 | Angeline Joseph |
@@ -172,8 +172,8 @@
 | 164 | 630 | yoyo |
 | 165 | 629 | rnr junky |
 | 166 | 622 | Denita Mungro |
-| 167 | 621 | Sashay Tapae Simpson |
-| 168 | 621 | Cherry Parker |
+| 167 | 621 | Cherry Parker |
+| 168 | 621 | Sashay Tapae Simpson |
 | 169 | 616 | Kammy Hill |
 | 170 | 611 | Rochelle Hazelett |
 | 171 | 603 | Jone |
@@ -198,12 +198,12 @@
 | 190 | 562 | Dave Herzog |
 | 191 | 561 | Elissa S-k |
 | 192 | 559 | Patti Skiles |
-| 193 | 549 | Sarah Cowan Burgos |
-| 194 | 549 | Tasha Schriewer |
+| 193 | 549 | Tasha Schriewer |
+| 194 | 549 | Sarah Cowan Burgos |
 | 195 | 548 | Danielle Balcom |
 | 196 | 547 | Staci George Fitzsimmons |
-| 197 | 546 | Cynthia Castros-Hampton |
-| 198 | 546 | Mykal Burton |
+| 197 | 546 | Mykal Burton |
+| 198 | 546 | Cynthia Castros-Hampton |
 | 199 | 543 | Silly Twist |
 | 200 | 540 | Shawn Miller |
 | 201 | 533 | Rania Zaqout |
@@ -221,8 +221,8 @@
 | 213 | 502 | Snappy Balancer |
 | 214 | 498 | Melissa Orth Hunter |
 | 215 | 496 | Loopy Fallmatch |
-| 216 | 494 | FuzzyNavel |
-| 217 | 494 | Connie Mohler-Fair |
+| 216 | 494 | Connie Mohler-Fair |
+| 217 | 494 | FuzzyNavel |
 | 218 | 491 | Michael Johnson |
 | 219 | 488 | joz |
 | 220 | 485 | Dapper Snap |

@@ -125,8 +125,8 @@
 | 117 | 497 | Arianna O'Brien |
 | 118 | 493 | MomMom |
 | 119 | 491 | cc |
-| 120 | 489 | April Carroll |
-| 121 | 489 | Deanna L Hermanson |
+| 120 | 489 | Deanna L Hermanson |
+| 121 | 489 | April Carroll |
 | 122 | 483 | Trina Gee |
 | 123 | 477 | Tonya Beasley |
 | 124 | 475 | Sarah Somers Gray |

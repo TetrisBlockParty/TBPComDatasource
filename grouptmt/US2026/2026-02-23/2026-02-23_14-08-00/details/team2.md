@@ -173,8 +173,8 @@
 | 165 | 1629 | Rickey Johnson |
 | 166 | 1625 | Cambrie Schultz |
 | 167 | 1613 | blackq |
-| 168 | 1605 | Eboni Banks |
-| 169 | 1605 | Christi Hulet |
+| 168 | 1605 | Christi Hulet |
+| 169 | 1605 | Eboni Banks |
 | 170 | 1601 | Ray Ray Prado |
 | 171 | 1594 | Heather Westrum |
 | 172 | 1593 | Jose Mendoza |
@@ -391,8 +391,8 @@
 | 383 | 880 | Arlene Joy Belicina |
 | 384 | 876 | Brenda Utphall |
 | 385 | 872 | Ashle Scranton |
-| 386 | 869 | Venita Ray |
-| 387 | 869 | BYM4L |
+| 386 | 869 | BYM4L |
+| 387 | 869 | Venita Ray |
 | 388 | 862 | Sarah Massey |
 | 389 | 858 | Lauren Fitzgerald Thomas |
 | 390 | 856 | Mighty Shatterfit |
@@ -418,8 +418,8 @@
 | 410 | 829 | Angie Bolton Workman |
 | 411 | 828 | Kimmy Newman |
 | 412 | 825 | Jeremy Parodi |
-| 413 | 824 | Khalil Lowe |
-| 414 | 824 | Danielle Johnson-Chandler |
+| 413 | 824 | Danielle Johnson-Chandler |
+| 414 | 824 | Khalil Lowe |
 | 415 | 822 | Lola Contreras |
 | 416 | 819 | Victoria Regina Girolami |
 | 417 | 819 | Sabrena Yeisley |
@@ -464,10 +464,10 @@
 | 456 | 765 | Dylan Thomason |
 | 457 | 765 | Miranda Morris |
 | 458 | 764 | Kiely Tomaskovich |
-| 459 | 763 | Heather Causey |
-| 460 | 763 | Dreamy Blast |
-| 461 | 761 | Jerilyn Andrina |
-| 462 | 761 | Elisheva Mizrachi |
+| 459 | 763 | Dreamy Blast |
+| 460 | 763 | Heather Causey |
+| 461 | 761 | Elisheva Mizrachi |
+| 462 | 761 | Jerilyn Andrina |
 | 463 | 760 | Ashley Guernsey-Martin |
 | 464 | 760 | Allan Wayne Lamia |
 | 465 | 758 | Eunique Griffin |
@@ -509,8 +509,8 @@
 | 501 | 710 | Mama T |
 | 502 | 709 | Marie Walker |
 | 503 | 707 | Cc |
-| 504 | 706 | Irene Jones |
-| 505 | 706 | Poldo Ilano |
+| 504 | 706 | Poldo Ilano |
+| 505 | 706 | Irene Jones |
 | 506 | 704 | Tansaria Couch-Butler |
 | 507 | 704 | Montez Mancil |
 | 508 | 703 | Funky Drop |
@@ -738,7 +738,7 @@
 | 730 | 519 | Luke Califf |
 | 731 | 519 | CupCake |
 | 732 | 519 | Saucy Fitzone |
-| 733 | 519 | CupCake |
+| 733 | 519 | Rob Brown |
 | 734 | 518 | Ashley Collins |
 | 735 | 517 | Daring Caster |
 | 736 | 516 | Shea Edison |

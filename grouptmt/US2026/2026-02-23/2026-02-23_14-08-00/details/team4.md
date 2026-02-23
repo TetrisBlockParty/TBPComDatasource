@@ -126,8 +126,8 @@
 | 118 | 552 | Chilly Crasher |
 | 119 | 551 | Ren Mc |
 | 120 | 545 | Desi Desporte |
-| 121 | 542 | Chris Hartig |
-| 122 | 542 | Austin Owens |
+| 121 | 542 | Austin Owens |
+| 122 | 542 | Chris Hartig |
 | 123 | 540 | Rodney McMath Jr. |
 | 124 | 538 | shar |
 | 125 | 537 | Dizzy Tiley |
@@ -299,11 +299,11 @@
 | 291 | 262 | Selena Shaw |
 | 292 | 262 | Ruben Wheeler |
 | 293 | 262 | BigSammy420 |
-| 294 | 262 | Ruben Wheeler |
-| 295 | 261 | Zethra Prenisha Rahming |
-| 296 | 260 | Carter Jones |
-| 297 | 259 | Montiette Mcglown |
-| 298 | 259 | Allen Lloyd |
+| 294 | 261 | Zethra Prenisha Rahming |
+| 295 | 260 | Carter Jones |
+| 296 | 259 | Allen Lloyd |
+| 297 | 259 | Chummy Towerzone |
+| 298 | 259 | Montiette Mcglown |
 | 299 | 259 | John Brunetti |
 | 300 | 257 | PeaceOs |
 | 301 | 257 | Tina Lopez |
@@ -420,8 +420,8 @@
 | 412 | 189 | Duck |
 | 413 | 189 | Cool Towerbuilder |
 | 414 | 189 | Ryry |
-| 415 | 188 | Frilly Blocky |
-| 416 | 188 | Jarred Falls |
+| 415 | 188 | Jarred Falls |
+| 416 | 188 | Frilly Blocky |
 | 417 | 187 | Jenny Wells-Oakley |
 | 418 | 186 | Jesse Saville |
 | 419 | 186 | Dandy Cascadefit |
@@ -967,7 +967,7 @@
 | 959 | 71 | Dapper Climber |
 | 960 | 71 | DaRuler |
 | 961 | 71 | Speedy Wipeblock |
-| 962 | 71 | Chipper Strikerbuilder |
+| 962 | 71 | Emily Regan Wills |
 | 963 | 71 | Samantha Kimes |
 | 964 | 70 | Matthew Doyle |
 | 965 | 70 | Jenjen |
