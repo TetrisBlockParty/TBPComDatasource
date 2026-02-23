@@ -133,8 +133,8 @@
 | 125 | 545 | Desi Desporte |
 | 126 | 542 | Austin Owens |
 | 127 | 540 | Rodney McMath Jr. |
-| 128 | 538 | Carlos Ramirez |
-| 129 | 538 | shar |
+| 128 | 538 | shar |
+| 129 | 538 | Carlos Ramirez |
 | 130 | 537 | Dizzy Tiley |
 | 131 | 533 | Samantha Peterson |
 | 132 | 531 | Serena Goodridge |

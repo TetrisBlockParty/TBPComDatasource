@@ -177,8 +177,8 @@
 | 169 | 633 | Joye Sims Binion |
 | 170 | 632 | Morgan Martinez |
 | 171 | 629 | rnr junky |
-| 172 | 621 | Sashay Tapae Simpson |
-| 173 | 621 | Cherry Parker |
+| 172 | 621 | Cherry Parker |
+| 173 | 621 | Sashay Tapae Simpson |
 | 174 | 616 | Kammy Hill |
 | 175 | 611 | Rochelle Hazelett |
 | 176 | 603 | Jone |
@@ -225,8 +225,8 @@
 | 217 | 524 | Bmo |
 | 218 | 524 | Shannon Matthew Byers |
 | 219 | 515 | Cozy Snaplink |
-| 220 | 513 | Lizabeth Fox |
-| 221 | 513 | kacihall |
+| 220 | 513 | kacihall |
+| 221 | 513 | Lizabeth Fox |
 | 222 | 512 | FuzzyNavel |
 | 223 | 509 | Juliana Dottore |
 | 224 | 508 | joz |
@@ -314,8 +314,8 @@
 | 306 | 370 | Samantha Lynn |
 | 307 | 369 | Amber Glover |
 | 308 | 369 | Jennifer Alvey |
-| 309 | 368 | Sheila M Frazier |
-| 310 | 368 | Stephanie Woods |
+| 309 | 368 | Stephanie Woods |
+| 310 | 368 | Sheila M Frazier |
 | 311 | 368 | Christian Werndl |
 | 312 | 365 | LaShey Thompson |
 | 313 | 362 | Brandon Givens |
@@ -363,10 +363,10 @@
 | 355 | 325 | Tasha Wesson-Torrence |
 | 356 | 324 | neci |
 | 357 | 324 | Sissy Lowery Davis |
-| 358 | 323 | Rachel Grant |
+| 358 | 323 | Sharisse Baltimore |
 | 359 | 323 | Mary Giorgenti |
-| 360 | 323 | Spencer Nikki |
-| 361 | 323 | Sharisse Baltimore |
+| 360 | 323 | Rachel Grant |
+| 361 | 323 | Spencer Nikki |
 | 362 | 323 | Jul |
 | 363 | 323 | Jess Bissett |
 | 364 | 322 | Beth Smith |

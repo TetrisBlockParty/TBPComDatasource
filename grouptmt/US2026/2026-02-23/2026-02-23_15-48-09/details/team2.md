@@ -505,15 +505,15 @@
 | 497 | 731 | Trisha J Schmidt |
 | 498 | 729 | goofinoff |
 | 499 | 728 | Mikayala Szaz |
-| 500 | 728 | Tom Riefer |
-| 501 | 728 | Giggy Mover |
+| 500 | 728 | Giggy Mover |
+| 501 | 728 | Tom Riefer |
 | 502 | 727 | BeQuo |
 | 503 | 726 | Joce Lynn |
-| 504 | 726 | Ashley Munn |
-| 505 | 726 | Crystal Greene |
-| 506 | 725 | Darla Silva |
-| 507 | 725 | Vonceial Boone |
-| 508 | 725 | Karen Snyder Schrage |
+| 504 | 726 | Crystal Greene |
+| 505 | 726 | Ashley Munn |
+| 506 | 725 | Karen Snyder Schrage |
+| 507 | 725 | Darla Silva |
+| 508 | 725 | Vonceial Boone |
 | 509 | 724 | Melissa Holsinger |
 | 510 | 716 | Alexandra Weir |
 | 511 | 715 | Daniell Martinez |
@@ -527,8 +527,8 @@
 | 519 | 706 | Poldo Ilano |
 | 520 | 704 | Montez Mancil |
 | 521 | 704 | Tansaria Couch-Butler |
-| 522 | 703 | Funky Drop |
-| 523 | 703 | Dannette Goldberg-Richards |
+| 522 | 703 | Dannette Goldberg-Richards |
+| 523 | 703 | Funky Drop |
 | 524 | 702 | Lonne Emade |
 | 525 | 701 | Aishah Brice |
 | 526 | 700 | Vincent Petrella |
@@ -541,8 +541,8 @@
 | 533 | 689 | AISlop |
 | 534 | 688 | Tracy Wise |
 | 535 | 686 | Christine Coughlin |
-| 536 | 684 | Ann Knutson Anderson |
-| 537 | 684 | Amanda Woodruff |
+| 536 | 684 | Amanda Woodruff |
+| 537 | 684 | Ann Knutson Anderson |
 | 538 | 682 | Vanessa Moreno |
 | 539 | 681 | Gloria Liu |
 | 540 | 679 | Kassandra Hunt |
@@ -554,8 +554,8 @@
 | 546 | 676 | Nicky Jackson |
 | 547 | 676 | Roseanna Peloso |
 | 548 | 675 | Lyndi Robinson Wakefield |
-| 549 | 675 | Jennifer Leigh |
-| 550 | 675 | Katelynn Hollen |
+| 549 | 675 | Katelynn Hollen |
+| 550 | 675 | Jennifer Leigh |
 | 551 | 673 | Anthony Mignacca |
 | 552 | 673 | trabuco |
 | 553 | 670 | Blacc Blac |
