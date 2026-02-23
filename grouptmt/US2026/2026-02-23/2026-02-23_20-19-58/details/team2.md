@@ -179,8 +179,8 @@
 | 171 | 1726 | Denise Rickman |
 | 172 | 1724 | Tony Lea |
 | 173 | 1722 | Dustin Rains |
-| 174 | 1720 | Morgue Chick |
-| 175 | 1720 | Nett |
+| 174 | 1720 | Nett |
+| 175 | 1720 | Morgue Chick |
 | 176 | 1711 | Speedy Spinblock |
 | 177 | 1706 | Janel Turley-Garner |
 | 178 | 1705 | Steven Marshaun |

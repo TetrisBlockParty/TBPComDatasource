@@ -118,8 +118,8 @@
 | 110 | 667 | Amy Suckarieh |
 | 111 | 663 | H.R. Block |
 | 112 | 659 | Jamie Gustafson |
-| 113 | 658 | Zippy Gridlock |
-| 114 | 658 | Girl |
+| 113 | 658 | Girl |
+| 114 | 658 | Zippy Gridlock |
 | 115 | 652 | Leslie Nicole |
 | 116 | 649 | Chris Alexinas |
 | 117 | 647 | Lindsey Gonzalez |
@@ -211,8 +211,8 @@
 | 203 | 421 | Sam Bishop |
 | 204 | 421 | Kesha Brady |
 | 205 | 421 | JIGsaw ~(•¿°)~ |
-| 206 | 418 | Marie-Pier Desjardins |
-| 207 | 418 | Lush Linkfall |
+| 206 | 418 | Lush Linkfall |
+| 207 | 418 | Marie-Pier Desjardins |
 | 208 | 413 | Circuit8 |
 | 209 | 413 | John Brunetti |
 | 210 | 412 | Chris Bernstein |
@@ -221,8 +221,8 @@
 | 213 | 411 | Mimi |
 | 214 | 411 | Silly Zonebuilder |
 | 215 | 400 | Antony Dwayne Beasley |
-| 216 | 399 | Jeff Brian Gates |
-| 217 | 399 | Lindsay Ball |
+| 216 | 399 | Lindsay Ball |
+| 217 | 399 | Jeff Brian Gates |
 | 218 | 398 | Tyler Terrific |
 | 219 | 394 | Nita Wells |
 | 220 | 390 | Kathy Brookins |
@@ -242,8 +242,8 @@
 | 234 | 373 | JPW |
 | 235 | 372 | Holly Jolly |
 | 236 | 369 | Matt Dell'Olio |
-| 237 | 368 | Deanna Deckard |
-| 238 | 368 | Kris Bartlett |
+| 237 | 368 | Kris Bartlett |
+| 238 | 368 | Deanna Deckard |
 | 239 | 367 | Sue Joyce Staats |
 | 240 | 367 | Meg |
 | 241 | 365 | Hyper Builder |
@@ -260,8 +260,8 @@
 | 252 | 358 | Twisty Cascadezone |
 | 253 | 356 | mike |
 | 254 | 356 | Joeliecea Cobb |
-| 255 | 355 | David Lay |
-| 256 | 355 | Andrew Dang |
+| 255 | 355 | Andrew Dang |
+| 256 | 355 | David Lay |
 | 257 | 352 | scott |
 | 258 | 350 | Jen Caldwell |
 | 259 | 347 | Bio Nelly |
@@ -629,10 +629,10 @@
 | 621 | 144 | Zach Kerbs |
 | 622 | 144 | Bumpy Morris |
 | 623 | 143 | Sherri |
-| 624 | 142 | Frank Cook |
-| 625 | 142 | Hyper Matchclear |
-| 626 | 142 | Katie Linneman-Rowland |
-| 627 | 142 | GTxIrishman |
+| 624 | 142 | Hyper Matchclear |
+| 625 | 142 | Frank Cook |
+| 626 | 142 | GTxIrishman |
+| 627 | 142 | Katie Linneman-Rowland |
 | 628 | 142 | Peace |
 | 629 | 141 | Lori Goudy |
 | 630 | 141 | Courtney Angel |

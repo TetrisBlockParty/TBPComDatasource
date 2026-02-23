@@ -159,8 +159,8 @@
 | 151 | 779 | Justin Ritter |
 | 152 | 773 | Daryn Elliott |
 | 153 | 773 | Daira Largen |
-| 154 | 764 | Groovy Catcher |
-| 155 | 764 | Hasty Cascadefit |
+| 154 | 764 | Hasty Cascadefit |
+| 155 | 764 | Groovy Catcher |
 | 156 | 762 | Santeria Trece Candles |
 | 157 | 761 | Denita Mungro |
 | 158 | 761 | Peppy Shifter |
@@ -425,12 +425,12 @@
 | 417 | 320 | Taylor Hood |
 | 418 | 319 | Tay |
 | 419 | 318 | Christy Quick |
-| 420 | 318 | Ava Petito |
-| 421 | 318 | Beppy |
+| 420 | 318 | Beppy |
+| 421 | 318 | Ava Petito |
 | 422 | 317 | Funky Jumper |
 | 423 | 316 | Travis W |
-| 424 | 315 | Julie Fratrik |
-| 425 | 315 | Colton |
+| 424 | 315 | Colton |
+| 425 | 315 | Julie Fratrik |
 | 426 | 314 | Tipsy Zonebuilder |
 | 427 | 313 | Hoppy Buildout |
 | 428 | 312 | Eric Caccavale |
