@@ -380,8 +380,8 @@
 | 372 | 913 | blume |
 | 373 | 907 | Gene Mills |
 | 374 | 904 | John Bednarik |
-| 375 | 903 | Giggy Blocker |
-| 376 | 903 | Eric Castaneda |
+| 375 | 903 | Eric Castaneda |
+| 376 | 903 | Giggy Blocker |
 | 377 | 902 | Diallo Sparkman |
 | 378 | 899 | Felicia Lynn |
 | 379 | 899 | Chevy |
@@ -625,8 +625,8 @@
 | 617 | 605 | Mandi Marie Smith |
 | 618 | 605 | Jermaine Harris |
 | 619 | 604 | Rae Rae |
-| 620 | 603 | Casper The Chonk |
-| 621 | 603 | Dizzy Zone |
+| 620 | 603 | Dizzy Zone |
+| 621 | 603 | Casper The Chonk |
 | 622 | 602 | Jedi |
 | 623 | 602 | Jason H Baker |
 | 624 | 601 | Moua Ying |

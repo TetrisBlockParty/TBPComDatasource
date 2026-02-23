@@ -81,8 +81,8 @@
 | 73 | 1256 | Jessica Bechler |
 | 74 | 1244 | Lori Barnaby |
 | 75 | 1221 | Betty Ivy |
-| 76 | 1213 | Nerdy Riseclear |
-| 77 | 1213 | Snappy Glidepiece |
+| 76 | 1213 | Snappy Glidepiece |
+| 77 | 1213 | Nerdy Riseclear |
 | 78 | 1209 | Amanda Adkins |
 | 79 | 1190 | Jay Horn |
 | 80 | 1186 | Christian A. Pollard |
@@ -193,8 +193,8 @@
 | 185 | 582 | Natasha Jones |
 | 186 | 568 | Rachael McClain Owens |
 | 187 | 566 | LaTanya GeminiondaRise Johnson |
-| 188 | 564 | Christine Trester |
-| 189 | 564 | Poppy Splitter |
+| 188 | 564 | Poppy Splitter |
+| 189 | 564 | Christine Trester |
 | 190 | 563 | Jim Mathews |
 | 191 | 562 | Dave Herzog |
 | 192 | 561 | Elissa S-k |

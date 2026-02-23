@@ -206,8 +206,8 @@
 | 198 | 364 | Serina Marie |
 | 199 | 364 | Bindi |
 | 200 | 362 | Gracie |
-| 201 | 360 | MIKOZ |
-| 202 | 360 | Sleepysloath5745 |
+| 201 | 360 | Sleepysloath5745 |
+| 202 | 360 | MIKOZ |
 | 203 | 360 | Lakeisha Chapman |
 | 204 | 359 | Oscar Zamora |
 | 205 | 359 | Witty Builderfit |
@@ -256,8 +256,8 @@
 | 248 | 310 | Chantelle Ceno |
 | 249 | 308 | Speedy Liney |
 | 250 | 305 | Plucky Stacky |
-| 251 | 303 | DaRascal |
-| 252 | 303 | Νεφ Όνυξ |
+| 251 | 303 | Νεφ Όνυξ |
+| 252 | 303 | DaRascal |
 | 253 | 301 | John Kim |
 | 254 | 301 | Glitzy Curvebuilder |
 | 255 | 301 | Brave Wrecker |
