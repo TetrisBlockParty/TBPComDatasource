@@ -221,8 +221,8 @@
 | 213 | 1245 | Cody Nishimura |
 | 214 | 1240 | Brandon Armstrong |
 | 215 | 1237 | Megan Ferguson Leone |
-| 216 | 1232 | Groovy Puzzle |
-| 217 | 1232 | Ambyre Patterson |
+| 216 | 1232 | Ambyre Patterson |
+| 217 | 1232 | Groovy Puzzle |
 | 218 | 1230 | Megan Garrick |
 | 219 | 1221 | Jane Fong |
 | 220 | 1217 | Brooks Brooks |
@@ -298,8 +298,8 @@
 | 290 | 1010 | Brittany Radaszewski |
 | 291 | 1007 | Missie Lawson Gebhardt |
 | 292 | 1003 | Andrea Maher |
-| 293 | 998 | Keri Womack |
-| 294 | 998 | Shelley Thornburgh Wright |
+| 293 | 998 | Shelley Thornburgh Wright |
+| 294 | 998 | Keri Womack |
 | 295 | 996 | Ashie Ann |
 | 296 | 989 | Carl Bradshaw |
 | 297 | 987 | Osun Anuket Esu |
@@ -368,17 +368,17 @@
 | 360 | 844 | Terri McKelvey McKinley |
 | 361 | 841 | Ashley Dow |
 | 362 | 840 | Traci Johnson |
-| 363 | 838 | Misti Markijohn |
-| 364 | 838 | Nicole Cannon |
-| 365 | 833 | Arkei Luster |
-| 366 | 833 | Moni Foxe |
+| 363 | 838 | Nicole Cannon |
+| 364 | 838 | Misti Markijohn |
+| 365 | 833 | Moni Foxe |
+| 366 | 833 | Arkei Luster |
 | 367 | 831 | Christina Lewis-Vickers |
 | 368 | 830 | Diallo Sparkman |
 | 369 | 829 | Jessica Wayne Cornwall |
 | 370 | 828 | Kimmy Newman |
 | 371 | 825 | Jeremy Parodi |
-| 372 | 824 | Danielle Johnson-Chandler |
-| 373 | 824 | Khalil Lowe |
+| 372 | 824 | Khalil Lowe |
+| 373 | 824 | Danielle Johnson-Chandler |
 | 374 | 822 | KhaosLord |
 | 375 | 822 | Lola Contreras |
 | 376 | 821 | Angie Bolton Workman |
@@ -386,9 +386,9 @@
 | 378 | 816 | Beth |
 | 379 | 816 | James Simms III |
 | 380 | 812 | Samantha Jo |
-| 381 | 808 | Laura McCarthey |
+| 381 | 808 | Connie Jimenez |
 | 382 | 808 | Desire Rice |
-| 383 | 808 | Connie Jimenez |
+| 383 | 808 | Laura McCarthey |
 | 384 | 804 | Becca Coronado |
 | 385 | 801 | Diana Fitzwater |
 | 386 | 801 | Gold Rose |
@@ -433,8 +433,8 @@
 | 425 | 755 | Taryece Gause |
 | 426 | 751 | Loony Snapper |
 | 427 | 751 | Breezy Filler |
-| 428 | 748 | Ann Matzkanin |
-| 429 | 748 | Brenda Utphall |
+| 428 | 748 | Brenda Utphall |
+| 429 | 748 | Ann Matzkanin |
 | 430 | 748 | Spunkysmom |
 | 431 | 746 | Leslie Ann Carter |
 | 432 | 742 | tejas25 |
@@ -456,11 +456,11 @@
 | 448 | 725 | Jennie Lee Huntley |
 | 449 | 725 | Ashle Scranton |
 | 450 | 724 | Melissa Holsinger |
-| 451 | 720 | Giggy Mover |
-| 452 | 720 | BeQuo |
+| 451 | 720 | BeQuo |
+| 452 | 720 | Giggy Mover |
 | 453 | 714 | Caitlyn Blackwell |
-| 454 | 713 | Draizen Montrell Thomas |
-| 455 | 713 | Christie |
+| 454 | 713 | Christie |
+| 455 | 713 | Draizen Montrell Thomas |
 | 456 | 712 | Amanda Ferrell |
 | 457 | 711 | Narutofreak13 |
 | 458 | 710 | Mama T |
@@ -514,8 +514,8 @@
 | 506 | 660 | Nadia Batista Garcia |
 | 507 | 659 | Trinity Oak |
 | 508 | 658 | Demeka Dangerous-kisses Johnson |
-| 509 | 656 | Tonya Lee |
-| 510 | 656 | bonsai |
+| 509 | 656 | bonsai |
+| 510 | 656 | Tonya Lee |
 | 511 | 655 | Silly Pivotfall |
 | 512 | 651 | Unica Rector |
 | 513 | 651 | Elisheva Mizrachi |
@@ -548,8 +548,8 @@
 | 540 | 621 | Taren Cowan |
 | 541 | 620 | Brenna Ann |
 | 542 | 619 | Lylymom |
-| 543 | 617 | Darcy Mae |
-| 544 | 617 | Kacee Conrad Bock |
+| 543 | 617 | Kacee Conrad Bock |
+| 544 | 617 | Darcy Mae |
 | 545 | 615 | Nerdy Pattern |
 | 546 | 615 | Lyndi Robinson Wakefield |
 | 547 | 615 | Julio A Laracuente |
@@ -597,8 +597,8 @@
 | 589 | 582 | Ebony Deloach Bryant |
 | 590 | 581 | Angie Marie |
 | 591 | 580 | Cheery Matchzone |
-| 592 | 579 | Barry Britt |
-| 593 | 579 | Roy Salyer |
+| 592 | 579 | Roy Salyer |
+| 593 | 579 | Barry Britt |
 | 594 | 577 | Victor Obiakarije |
 | 595 | 576 | Leslie Johnson Guinto |
 | 596 | 575 | Michael Artis |
@@ -833,8 +833,8 @@
 | 825 | 435 | Taylor Flowers |
 | 826 | 435 | John |
 | 827 | 434 | Twisty Tetriblast |
-| 828 | 433 | Jessica Hughes |
-| 829 | 433 | Melissa Koria |
+| 828 | 433 | Melissa Koria |
+| 829 | 433 | Jessica Hughes |
 | 830 | 433 | Marisa Madge |
 | 831 | 432 | Michelle Shrum |
 | 832 | 431 | Lewis Sturgeon |
@@ -854,8 +854,8 @@
 | 846 | 426 | Rose Fx |
 | 847 | 425 | N00D3S |
 | 848 | 424 | Christine Egidio Morocco |
-| 849 | 422 | Kimberly Ann |
-| 850 | 422 | Moist_B-hole |
+| 849 | 422 | Moist_B-hole |
+| 850 | 422 | Kimberly Ann |
 | 851 | 421 | Nina Nav |
 | 852 | 420 | Krys |
 | 853 | 420 | Lathasa Newkirk |
@@ -2542,9 +2542,9 @@
 | 2534 | 165 | Greg Foulk |
 | 2535 | 165 | Matthew Bryant |
 | 2536 | 165 | Ellen Mae |
-| 2537 | 164 | Leticia Silva |
-| 2538 | 164 | Toni Gangelle |
-| 2539 | 164 | eightball119 |
+| 2537 | 164 | eightball119 |
+| 2538 | 164 | Leticia Silva |
+| 2539 | 164 | Toni Gangelle |
 | 2540 | 164 | Roberta Nelson |
 | 2541 | 164 | Natece Ceaser |
 | 2542 | 164 | Melissa Maples |
@@ -2680,9 +2680,9 @@
 | 2672 | 156 | Mollijoy Carter |
 | 2673 | 156 | Tara Creel |
 | 2674 | 156 | JianXiang Jimmy Lee |
-| 2675 | 156 | K. |
-| 2676 | 156 | Olfatas |
-| 2677 | 156 | Brett Campbell |
+| 2675 | 156 | Olfatas |
+| 2676 | 156 | Brett Campbell |
+| 2677 | 156 | K. |
 | 2678 | 156 | Lyndsey Crowe |
 | 2679 | 155 | Katie Lee |
 | 2680 | 155 | Mandi Adams |

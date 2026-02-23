@@ -26,8 +26,8 @@
 | 18 | 1636 | Cassie Michaux |
 | 19 | 1565 | GreenJeepGirl |
 | 20 | 1558 | Leah Gorsuch |
-| 21 | 1536 | Misty Hollibaugh |
-| 22 | 1536 | Roger Coulter |
+| 21 | 1536 | Roger Coulter |
+| 22 | 1536 | Misty Hollibaugh |
 | 23 | 1485 | Juggalo |
 | 24 | 1390 | Sammy Noguera |
 | 25 | 1382 | Tammi Crnza |
@@ -62,8 +62,8 @@
 | 54 | 864 | Shelly Chandler |
 | 55 | 863 | Pee |
 | 56 | 859 | TeeJ |
-| 57 | 846 | Christine Marie |
-| 58 | 846 | Lucille Truesdale |
+| 57 | 846 | Lucille Truesdale |
+| 58 | 846 | Christine Marie |
 | 59 | 845 | LisaJo Picken Buchanan |
 | 60 | 834 | quicksand420 |
 | 61 | 807 | Amelpss |
@@ -125,8 +125,8 @@
 | 117 | 514 | Scott Jameson |
 | 118 | 514 | Serena Goodridge |
 | 119 | 513 | Erin Thomas |
-| 120 | 512 | Cristy Duerksen |
-| 121 | 512 | Casey Jeffcoat |
+| 120 | 512 | Casey Jeffcoat |
+| 121 | 512 | Cristy Duerksen |
 | 122 | 511 | Lori Walker |
 | 123 | 509 | Leslie Nicole |
 | 124 | 487 | Ren Mc |
@@ -262,8 +262,8 @@
 | 254 | 264 | ZeeZee |
 | 255 | 264 | Stella |
 | 256 | 263 | rebel4lyfe |
-| 257 | 262 | Selena Shaw |
-| 258 | 262 | BigSammy420 |
+| 257 | 262 | BigSammy420 |
+| 258 | 262 | Selena Shaw |
 | 259 | 261 | Zethra Prenisha Rahming |
 | 260 | 260 | Lori |
 | 261 | 260 | Carter Jones |
@@ -283,7 +283,7 @@
 | 275 | 245 | 23 |
 | 276 | 244 | Elizabeth Tinoco |
 | 277 | 244 | Christina Black |
-| 278 | 242 | Paige Kittles |
+| 278 | 242 | Chaz |
 | 279 | 242 | PurpleMoonMa |
 | 280 | 242 | Paige Kittles |
 | 281 | 240 | Kim Hunt |
@@ -503,7 +503,7 @@
 | 495 | 145 | Rico |
 | 496 | 145 | Glitzy Crasher |
 | 497 | 145 | Austin Trent Weaver |
-| 498 | 145 | Rico |
+| 498 | 145 | Jackie Clark |
 | 499 | 144 | Zach Kerbs |
 | 500 | 143 | Kristin MacDonald |
 | 501 | 143 | Brad Campbell |

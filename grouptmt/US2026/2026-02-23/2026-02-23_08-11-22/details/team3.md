@@ -130,8 +130,8 @@
 | 122 | 769 | Kristie |
 | 123 | 764 | Groovy Catcher |
 | 124 | 762 | Speedy Bridger |
-| 125 | 755 | Raya |
-| 126 | 755 | Katrina Schroeder |
+| 125 | 755 | Katrina Schroeder |
+| 126 | 755 | Raya |
 | 127 | 752 | Logan Naccarato |
 | 128 | 748 | Adrian Marcel Pate |
 | 129 | 745 | JerseyJess |
@@ -162,8 +162,8 @@
 | 154 | 634 | Amber Hughes |
 | 155 | 630 | yoyo |
 | 156 | 629 | Patricia White |
-| 157 | 621 | Cherry Parker |
-| 158 | 621 | Sashay Tapae Simpson |
+| 157 | 621 | Sashay Tapae Simpson |
+| 158 | 621 | Cherry Parker |
 | 159 | 616 | Kammy Hill |
 | 160 | 611 | Rochelle Hazelett |
 | 161 | 607 | Grego Daniel |
@@ -196,8 +196,8 @@
 | 188 | 546 | Cynthia Castros-Hampton |
 | 189 | 546 | Tasha Schriewer |
 | 190 | 540 | Shawn Miller |
-| 191 | 531 | Chauntee Alfrey-Cardinale |
-| 192 | 531 | Sarah Cowan Burgos |
+| 191 | 531 | Sarah Cowan Burgos |
+| 192 | 531 | Chauntee Alfrey-Cardinale |
 | 193 | 528 | Silly Twist |
 | 194 | 525 | Stephanie Blkpep Davidson |
 | 195 | 524 | Bmo |
@@ -214,8 +214,8 @@
 | 206 | 488 | Melissa Orth Hunter |
 | 207 | 485 | Dapper Snap |
 | 208 | 484 | Fallorina Susana |
-| 209 | 480 | Michael Johnson |
-| 210 | 480 | Danielle Allison |
+| 209 | 480 | Danielle Allison |
+| 210 | 480 | Michael Johnson |
 | 211 | 477 | Edwin Calvillo Jr. |
 | 212 | 475 | Tessina Dewey-Mancino |
 | 213 | 473 | Rachel |
@@ -240,8 +240,8 @@
 | 232 | 430 | Jeni Dow |
 | 233 | 418 | Rebecca Funderburk Kirby |
 | 234 | 414 | Fran Lin |
-| 235 | 410 | Duane Bright |
-| 236 | 410 | Stephanie Simpson |
+| 235 | 410 | Stephanie Simpson |
+| 236 | 410 | Duane Bright |
 | 237 | 408 | Tiffany Ford |
 | 238 | 406 | Kristal C Lee |
 | 239 | 404 | Chasity |
@@ -258,8 +258,8 @@
 | 250 | 381 | Snazzy Filler |
 | 251 | 380 | Rebecca Bailey |
 | 252 | 379 | JessDrown |
-| 253 | 378 | MsBee |
-| 254 | 378 | Chris Bell |
+| 253 | 378 | Chris Bell |
+| 254 | 378 | MsBee |
 | 255 | 377 | Charles Perrone |
 | 256 | 375 | Stephanie Burtin |
 | 257 | 374 | Rania Zaqout |
@@ -271,8 +271,8 @@
 | 263 | 370 | Samantha Lynn |
 | 264 | 369 | Philip Rock |
 | 265 | 369 | Keis |
-| 266 | 368 | Sheila M Frazier |
-| 267 | 368 | Stephanie Woods |
+| 266 | 368 | Stephanie Woods |
+| 267 | 368 | Sheila M Frazier |
 | 268 | 367 | Kristin Delibac Corrigan |
 | 269 | 366 | Gumbo |
 | 270 | 365 | Noyb Adam |
@@ -610,8 +610,8 @@
 | 602 | 181 | krazibtch |
 | 603 | 180 | Chipper Piecefit |
 | 604 | 180 | Stella |
-| 605 | 179 | Alexi Pryor |
-| 606 | 179 | Boldy Corner |
+| 605 | 179 | Boldy Corner |
+| 606 | 179 | Alexi Pryor |
 | 607 | 179 | Ruchi Smit |
 | 608 | 178 | Jillian Ann |
 | 609 | 178 | Melissa Snyder |
