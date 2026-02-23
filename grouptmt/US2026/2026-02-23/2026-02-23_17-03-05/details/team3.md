@@ -140,8 +140,8 @@
 | 132 | 783 | Julian Murphy |
 | 133 | 779 | Justin Ritter |
 | 134 | 774 | Keith J Oshman Jr. |
-| 135 | 773 | Tasha Schriewer |
-| 136 | 773 | Daira Largen |
+| 135 | 773 | Daira Largen |
+| 136 | 773 | Tasha Schriewer |
 | 137 | 770 | Daryn Elliott |
 | 138 | 767 | Loopy Fallmatch |
 | 139 | 764 | Groovy Catcher |
@@ -218,8 +218,8 @@
 | 210 | 549 | Sarah Cowan Burgos |
 | 211 | 548 | Danielle Balcom |
 | 212 | 547 | Staci George Fitzsimmons |
-| 213 | 546 | Mykal Burton |
-| 214 | 546 | Cynthia Castros-Hampton |
+| 213 | 546 | Cynthia Castros-Hampton |
+| 214 | 546 | Mykal Burton |
 | 215 | 544 | Trisha Balmer |
 | 216 | 540 | Shawn Miller |
 | 217 | 539 | Betty Bóò |
@@ -268,8 +268,8 @@
 | 260 | 451 | Micayah Stevens |
 | 261 | 449 | Mcathen |
 | 262 | 448 | Scott Carleton |
-| 263 | 443 | Stefanie LaPointe |
-| 264 | 443 | Fancy Curver |
+| 263 | 443 | Fancy Curver |
+| 264 | 443 | Stefanie LaPointe |
 | 265 | 443 | Randy Clevenger |
 | 266 | 442 | Marquita Sheard |
 | 267 | 437 | Loopy Clusterer |
@@ -324,8 +324,8 @@
 | 316 | 371 | block chick |
 | 317 | 370 | Samantha Lynn |
 | 318 | 369 | Amber Glover |
-| 319 | 368 | Sheila M Frazier |
-| 320 | 368 | Stephanie Woods |
+| 319 | 368 | Stephanie Woods |
+| 320 | 368 | Sheila M Frazier |
 | 321 | 366 | KayB |
 | 322 | 365 | LaShey Thompson |
 | 323 | 365 | Andrew Thorson |
@@ -1303,7 +1303,7 @@
 | 1295 | 98 | Dapper Stackbuilder |
 | 1296 | 98 | Ryze |
 | 1297 | 97 | Queen |
-| 1298 | 97 | Morgan Cox |
+| 1298 | 97 | Courtney Roberge |
 | 1299 | 97 | Santana Symes |
 | 1300 | 97 | Morgan Cox |
 | 1301 | 97 | Kerri M. Timinski |

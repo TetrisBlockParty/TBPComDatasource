@@ -111,8 +111,8 @@
 | 103 | 667 | Amy Suckarieh |
 | 104 | 664 | Nugget |
 | 105 | 659 | Jamie Gustafson |
-| 106 | 658 | Zippy Gridlock |
-| 107 | 658 | Girl |
+| 106 | 658 | Girl |
+| 107 | 658 | Zippy Gridlock |
 | 108 | 657 | Lori Walker |
 | 109 | 656 | Yoset Mejia |
 | 110 | 652 | Leslie Nicole |
@@ -251,8 +251,8 @@
 | 243 | 330 | Kathy Brookins |
 | 244 | 329 | Brickh4us |
 | 245 | 324 | jim |
-| 246 | 324 | TinyLegoRose |
-| 247 | 324 | Lauren Lamb |
+| 246 | 324 | Lauren Lamb |
+| 247 | 324 | TinyLegoRose |
 | 248 | 321 | Meagan Nicole |
 | 249 | 317 | Madison Sweere |
 | 250 | 316 | Autumn Kumzi |

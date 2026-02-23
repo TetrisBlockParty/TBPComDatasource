@@ -86,8 +86,8 @@
 | 78 | 750 | Cartier |
 | 79 | 742 | Susanna Guerry |
 | 80 | 740 | Lori Sanders- Davis |
-| 81 | 713 | Snappy Swiper |
-| 82 | 713 | Robert Benito |
+| 81 | 713 | Robert Benito |
+| 82 | 713 | Snappy Swiper |
 | 83 | 710 | Jennifer ManWarren |
 | 84 | 706 | Denice Dee |
 | 85 | 706 | Plucky Fallzone |
@@ -171,13 +171,13 @@
 | 163 | 426 | Maria C. Hernandez |
 | 164 | 425 | Tyler Werts |
 | 165 | 419 | Christy Jones |
-| 166 | 417 | Jessie Lynn |
-| 167 | 417 | Phu ckalldems |
+| 166 | 417 | Phu ckalldems |
+| 167 | 417 | Jessie Lynn |
 | 168 | 416 | Jessica Sheehan |
-| 169 | 415 | Jennifer Hardman |
-| 170 | 415 | Kimberly Garcia |
-| 171 | 412 | David Miller |
-| 172 | 412 | Amanda Jarnagin |
+| 169 | 415 | Kimberly Garcia |
+| 170 | 415 | Jennifer Hardman |
+| 171 | 412 | Amanda Jarnagin |
+| 172 | 412 | David Miller |
 | 173 | 411 | Emily Adelaide Wheatley |
 | 174 | 410 | Mike Ames |
 | 175 | 404 | Tawnya Peltonen |
@@ -373,8 +373,8 @@
 | 365 | 241 | Zesty Brickzone |
 | 366 | 240 | Nathan William |
 | 367 | 239 | Colleen Wise |
-| 368 | 236 | Marie White |
-| 369 | 236 | Snappy Bridgepiece |
+| 368 | 236 | Snappy Bridgepiece |
+| 369 | 236 | Marie White |
 | 370 | 235 | Ariel Whittington |
 | 371 | 235 | Jumpy Rotate |
 | 372 | 234 | Brandie Gallegos |
