@@ -44,8 +44,8 @@
 | 36 | 4199 | Claire Noland |
 | 37 | 4128 | Angela Pruitt |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Corrine Hawks Soriano |
-| 40 | 4120 | Kristen Sceurman |
+| 39 | 4120 | Kristen Sceurman |
+| 40 | 4120 | Corrine Hawks Soriano |
 | 41 | 3813 | Devin Lee |
 | 42 | 3778 | Brittany Alicia |
 | 43 | 3736 | Alisha |
@@ -93,8 +93,8 @@
 | 85 | 2515 | Crystalin Heath Lewis |
 | 86 | 2500 | Rosemadder |
 | 87 | 2438 | Rob Surace |
-| 88 | 2428 | Thomas Hughes |
-| 89 | 2428 | Deanna Morton |
+| 88 | 2428 | Deanna Morton |
+| 89 | 2428 | Thomas Hughes |
 | 90 | 2410 | RdRydnHd |
 | 91 | 2400 | Rich Sullivan |
 | 92 | 2375 | Megan Peckham |
@@ -302,8 +302,8 @@
 | 294 | 979 | Hillary Crawford |
 | 295 | 979 | Melissa Penelope Ann Dodge |
 | 296 | 978 | April Dawn Gussler |
-| 297 | 976 | Della Hole |
-| 298 | 976 | Sam Joe |
+| 297 | 976 | Sam Joe |
+| 298 | 976 | Della Hole |
 | 299 | 972 | Binyah-Binyah |
 | 300 | 972 | Barbra Miller |
 | 301 | 971 | Jojo Momma |
@@ -432,8 +432,8 @@
 | 424 | 746 | Mandi Douglas Hilt |
 | 425 | 741 | Jánine Riggs |
 | 426 | 740 | Jerry Tempelmeyer |
-| 427 | 737 | Jeremy Parodi |
-| 428 | 737 | Chelle |
+| 427 | 737 | Chelle |
+| 428 | 737 | Jeremy Parodi |
 | 429 | 737 | Ginger |
 | 430 | 736 | John Rodriguez |
 | 431 | 732 | Victoria Moore-Smith |

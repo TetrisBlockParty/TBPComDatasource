@@ -102,12 +102,12 @@
 | 94 | 529 | Ryan Lunnin |
 | 95 | 522 | Sarah Lombardo |
 | 96 | 511 | Mario Cab |
-| 97 | 510 | Colena Davenport |
-| 98 | 510 | Chirpy Smasher |
+| 97 | 510 | Chirpy Smasher |
+| 98 | 510 | Colena Davenport |
 | 99 | 509 | Rachael |
 | 100 | 497 | Arianna O'Brien |
-| 101 | 493 | Jennifer ManWarren |
-| 102 | 493 | MomMom |
+| 101 | 493 | MomMom |
+| 102 | 493 | Jennifer ManWarren |
 | 103 | 492 | Ash Galvan |
 | 104 | 491 | cc |
 | 105 | 489 | Deanna L Hermanson |
@@ -169,8 +169,8 @@
 | 161 | 360 | Wisa |
 | 162 | 357 | David Lutcher |
 | 163 | 355 | Amanda Jarnagin |
-| 164 | 353 | Jaimie Lynn |
-| 165 | 353 | Josh Riemer |
+| 164 | 353 | Josh Riemer |
+| 165 | 353 | Jaimie Lynn |
 | 166 | 350 | Tipsy Strikerpiece |
 | 167 | 349 | Cool Shiftsnap |
 | 168 | 346 | GATOR |
@@ -403,8 +403,8 @@
 | 395 | 175 | Nadine Velardo |
 | 396 | 175 | Kellie Tunstall |
 | 397 | 174 | Alex Gauthier |
-| 398 | 172 | Ruthie Mahoney Saunders-Browne |
-| 399 | 172 | Wayne Saunders |
+| 398 | 172 | Wayne Saunders |
+| 399 | 172 | Ruthie Mahoney Saunders-Browne |
 | 400 | 172 | Sylvia Vasquez |
 | 401 | 171 | Greg Premoe |
 | 402 | 171 | Bruce Cruz |

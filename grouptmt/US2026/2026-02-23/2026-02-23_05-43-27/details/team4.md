@@ -88,8 +88,8 @@
 | 80 | 697 | Alyssa Papen |
 | 81 | 696 | Shane Kalamata Platoon |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Jonathan Kimbrough |
-| 84 | 684 | Kimyatta Cavin |
+| 83 | 684 | Kimyatta Cavin |
+| 84 | 684 | Jonathan Kimbrough |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -121,8 +121,8 @@
 | 113 | 519 | Nugget |
 | 114 | 517 | Christina LR |
 | 115 | 517 | shar |
-| 116 | 514 | Serena Goodridge |
-| 117 | 514 | Scott Jameson |
+| 116 | 514 | Scott Jameson |
+| 117 | 514 | Serena Goodridge |
 | 118 | 513 | Erin Thomas |
 | 119 | 512 | Cristy Duerksen |
 | 120 | 512 | Casey Jeffcoat |
@@ -137,17 +137,17 @@
 | 129 | 458 | Twisty Clicky |
 | 130 | 451 | Peachy Fall |
 | 131 | 448 | Kristin Manee |
-| 132 | 435 | Kristina Black |
-| 133 | 435 | Leslie Thomas |
+| 132 | 435 | Leslie Thomas |
+| 133 | 435 | Kristina Black |
 | 134 | 431 | Courtney Cicoria |
 | 135 | 426 | 🥔🥔 Spudz |
 | 136 | 425 | Monica Daley |
 | 137 | 423 | Carrie Brian |
-| 138 | 421 | Kesha Brady |
-| 139 | 421 | JIGsaw ~(•¿°)~ |
+| 138 | 421 | JIGsaw ~(•¿°)~ |
+| 139 | 421 | Kesha Brady |
 | 140 | 419 | Klo |
-| 141 | 418 | Lush Linkfall |
-| 142 | 418 | Marie-Pier Desjardins |
+| 141 | 418 | Marie-Pier Desjardins |
+| 142 | 418 | Lush Linkfall |
 | 143 | 416 | Chaz Duncan |
 | 144 | 414 | Nope Young |
 | 145 | 412 | Jessica Bohlken |
@@ -174,8 +174,8 @@
 | 166 | 368 | Brandon Crabbs |
 | 167 | 368 | Chris Bernstein |
 | 168 | 365 | Jeff Brian Gates |
-| 169 | 361 | Danielle Kollias |
-| 170 | 361 | Melissa Adams |
+| 169 | 361 | Melissa Adams |
+| 170 | 361 | Danielle Kollias |
 | 171 | 359 | Keith Kelley |
 | 172 | 358 | A5! |
 | 173 | 356 | George Nutt |
@@ -201,8 +201,8 @@
 | 193 | 321 | Bio Nelly |
 | 194 | 320 | Lauren Scott |
 | 195 | 318 | Chris Hartig |
-| 196 | 316 | Cursed Hag |
-| 197 | 316 | Autumn Kumzi |
+| 196 | 316 | Autumn Kumzi |
+| 197 | 316 | Cursed Hag |
 | 198 | 311 | Mary Ann Pabukis |
 | 199 | 310 | Holly Jolly |
 | 200 | 307 | Cheery Risebuilder |
@@ -211,14 +211,14 @@
 | 203 | 305 | Melvin Baird |
 | 204 | 304 | Lindsay Ball |
 | 205 | 301 | Andria Lynn |
-| 206 | 300 | Dihcheese444 |
-| 207 | 300 | Zakia Monae |
-| 208 | 300 | Dana Scott |
+| 206 | 300 | Zakia Monae |
+| 207 | 300 | Dana Scott |
+| 208 | 300 | Dihcheese444 |
 | 209 | 295 | Keshia Lyons |
 | 210 | 294 | Porkobello |
 | 211 | 294 | Calvin Cannon |
 | 212 | 292 | Epic Curvetile |
-| 213 | 290 | Rebecca Morris |
+| 213 | 290 | Jared Gutwein |
 | 214 | 290 | Plucky Patternblock |
 | 215 | 290 | Rebecca Morris |
 | 216 | 288 | Zesty Twistbuilder |
@@ -245,8 +245,8 @@
 | 237 | 270 | Jen Caldwell |
 | 238 | 270 | Juls |
 | 239 | 266 | Mr. Party |
-| 240 | 265 | Sarah Neathery |
-| 241 | 265 | Silly SeaWeed |
+| 240 | 265 | Silly SeaWeed |
+| 241 | 265 | Sarah Neathery |
 | 242 | 264 | ZeeZee |
 | 243 | 264 | Stella |
 | 244 | 262 | BigSammy420 |
@@ -268,12 +268,12 @@
 | 260 | 251 | Carol Ricks Raymond |
 | 261 | 249 | Ak Jones |
 | 262 | 249 | Nick Gray |
-| 263 | 248 | Brittany Marsh |
-| 264 | 248 | Jose Dejesus |
+| 263 | 248 | Jose Dejesus |
+| 264 | 248 | Brittany Marsh |
 | 265 | 248 | Chirpy Basepiece |
 | 266 | 245 | 23 |
-| 267 | 244 | Elizabeth Tinoco |
-| 268 | 244 | Christina Black |
+| 267 | 244 | Christina Black |
+| 268 | 244 | Elizabeth Tinoco |
 | 269 | 242 | Chaz |
 | 270 | 240 | Kim Hunt |
 | 271 | 240 | Perky Patternblock |
@@ -646,7 +646,7 @@
 | 638 | 106 | Zappy Snaplink |
 | 639 | 106 | Cassandra Stewart |
 | 640 | 106 | Nick Horn |
-| 641 | 106 | Jacob Richard |
+| 641 | 106 | amy |
 | 642 | 105 | Flavoredsausage |
 | 643 | 105 | Christine Simmons |
 | 644 | 105 | MoP11 |

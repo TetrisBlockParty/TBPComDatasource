@@ -111,8 +111,8 @@
 | 103 | 868 | Sarajane Lokan |
 | 104 | 866 | Ebony West-Cundiff |
 | 105 | 860 | Sunny Rotater |
-| 106 | 851 | Danielle Becker |
-| 107 | 851 | Jd Morris |
+| 106 | 851 | Jd Morris |
+| 107 | 851 | Danielle Becker |
 | 108 | 850 | Danielle Mogg |
 | 109 | 848 | Patricia Gadsden |
 | 110 | 831 | Angeline Joseph |
@@ -125,8 +125,8 @@
 | 117 | 769 | Kristie |
 | 118 | 764 | Groovy Catcher |
 | 119 | 762 | Speedy Bridger |
-| 120 | 752 | Raya |
-| 121 | 752 | Logan Naccarato |
+| 120 | 752 | Logan Naccarato |
+| 121 | 752 | Raya |
 | 122 | 748 | Adrian Marcel Pate |
 | 123 | 745 | JerseyJess |
 | 124 | 744 | Fancy Cascader |
@@ -202,8 +202,8 @@
 | 194 | 496 | Makelini Mausia |
 | 195 | 495 | Terry Jo Jones |
 | 196 | 494 | FuzzyNavel |
-| 197 | 489 | Poppy Splitter |
-| 198 | 489 | Shannon Matthew Byers |
+| 197 | 489 | Shannon Matthew Byers |
+| 198 | 489 | Poppy Splitter |
 | 199 | 488 | Melissa Orth Hunter |
 | 200 | 485 | Dapper Snap |
 | 201 | 480 | Michael Johnson |
@@ -228,8 +228,8 @@
 | 220 | 445 | Fallorina Susana |
 | 221 | 437 | Loopy Clusterer |
 | 222 | 432 | Luciana Braganca Vieira |
-| 223 | 431 | Ammmmmmy |
-| 224 | 431 | Wendy Dearden |
+| 223 | 431 | Wendy Dearden |
+| 224 | 431 | Ammmmmmy |
 | 225 | 430 | Jeni Dow |
 | 226 | 415 | ren |
 | 227 | 414 | Fran Lin |
@@ -256,8 +256,8 @@
 | 248 | 377 | Charles Perrone |
 | 249 | 374 | Rania Zaqout |
 | 250 | 373 | Chummy Caster |
-| 251 | 372 | Sarah Moyer |
-| 252 | 372 | Rich LeBlanc |
+| 251 | 372 | Rich LeBlanc |
+| 252 | 372 | Sarah Moyer |
 | 253 | 371 | Marquita Sheard |
 | 254 | 371 | block chick |
 | 255 | 370 | Samantha Lynn |
