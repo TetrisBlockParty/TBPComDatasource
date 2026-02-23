@@ -156,8 +156,8 @@
 | 148 | 383 | pjbeta |
 | 149 | 383 | Margo Wagner |
 | 150 | 380 | phrmblk24 |
-| 151 | 379 | Kimmie Kimms |
-| 152 | 379 | Austin James |
+| 151 | 379 | Austin James |
+| 152 | 379 | Kimmie Kimms |
 | 153 | 378 | Carrie Smith |
 | 154 | 378 | Jessica Sheehan |
 | 155 | 376 | Death |

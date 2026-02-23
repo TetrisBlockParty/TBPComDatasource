@@ -26,8 +26,8 @@
 | 18 | 1636 | Cassie Michaux |
 | 19 | 1565 | GreenJeepGirl |
 | 20 | 1558 | Leah Gorsuch |
-| 21 | 1536 | Roger Coulter |
-| 22 | 1536 | Misty Hollibaugh |
+| 21 | 1536 | Misty Hollibaugh |
+| 22 | 1536 | Roger Coulter |
 | 23 | 1485 | Juggalo |
 | 24 | 1390 | Sammy Noguera |
 | 25 | 1382 | Tammi Crnza |
@@ -55,8 +55,8 @@
 | 47 | 938 | Denny Shives |
 | 48 | 936 | Rebecca Moulton Pinciaro |
 | 49 | 932 | Marvin Lou Martin |
-| 50 | 911 | Jeremy Steines |
-| 51 | 911 | Anthony Bryan Riva |
+| 50 | 911 | Anthony Bryan Riva |
+| 51 | 911 | Jeremy Steines |
 | 52 | 870 | BertMofo |
 | 53 | 864 | Shelly Chandler |
 | 54 | 863 | Pee |
@@ -125,8 +125,8 @@
 | 117 | 514 | Scott Jameson |
 | 118 | 514 | Serena Goodridge |
 | 119 | 513 | Erin Thomas |
-| 120 | 512 | Cristy Duerksen |
-| 121 | 512 | Casey Jeffcoat |
+| 120 | 512 | Casey Jeffcoat |
+| 121 | 512 | Cristy Duerksen |
 | 122 | 511 | Lori Walker |
 | 123 | 509 | Leslie Nicole |
 | 124 | 482 | Ren Mc |
@@ -290,9 +290,9 @@
 | 282 | 239 | Denise B |
 | 283 | 238 | 中山成巳 |
 | 284 | 237 | Christine Therrien |
-| 285 | 235 | LaDonna LovinmesomeMe Lambert |
+| 285 | 235 | Shainne Brewer |
 | 286 | 235 | Chair |
-| 287 | 235 | Shainne Brewer |
+| 287 | 235 | LaDonna LovinmesomeMe Lambert |
 | 288 | 234 | Richard-April Kice |
 | 289 | 233 | Ruben Wheeler |
 | 290 | 233 | Joseph Edmonson |
@@ -719,8 +719,8 @@
 | 711 | 95 | Robert Bolden |
 | 712 | 95 | Wacky Blockclear |
 | 713 | 95 | Chirpy Slammer |
-| 714 | 95 | RedBoots82 |
-| 715 | 95 | Harper |
+| 714 | 95 | Harper |
+| 715 | 95 | RedBoots82 |
 | 716 | 94 | Myra LaTrice |
 | 717 | 94 | Brian Owens |
 | 718 | 94 | moneybagz |
