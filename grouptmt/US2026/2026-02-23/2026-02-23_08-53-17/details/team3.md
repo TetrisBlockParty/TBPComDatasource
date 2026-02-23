@@ -196,8 +196,8 @@
 | 188 | 546 | Tasha Schriewer |
 | 189 | 546 | Cynthia Castros-Hampton |
 | 190 | 540 | Shawn Miller |
-| 191 | 531 | Sarah Cowan Burgos |
-| 192 | 531 | Chauntee Alfrey-Cardinale |
+| 191 | 531 | Chauntee Alfrey-Cardinale |
+| 192 | 531 | Sarah Cowan Burgos |
 | 193 | 528 | Silly Twist |
 | 194 | 525 | Stephanie Blkpep Davidson |
 | 195 | 524 | Bmo |
@@ -214,8 +214,8 @@
 | 206 | 488 | Melissa Orth Hunter |
 | 207 | 485 | Dapper Snap |
 | 208 | 484 | Fallorina Susana |
-| 209 | 480 | Michael Johnson |
-| 210 | 480 | Danielle Allison |
+| 209 | 480 | Danielle Allison |
+| 210 | 480 | Michael Johnson |
 | 211 | 477 | Edwin Calvillo Jr. |
 | 212 | 475 | Tessina Dewey-Mancino |
 | 213 | 473 | Rachel |
@@ -310,8 +310,8 @@
 | 302 | 336 | Foltz Lee Kelli |
 | 303 | 336 | Jojo M |
 | 304 | 335 | victory |
-| 305 | 332 | Brittany |
-| 306 | 332 | Velma Mull |
+| 305 | 332 | Velma Mull |
+| 306 | 332 | Brittany |
 | 307 | 331 | Gray Hicks |
 | 308 | 329 | Angela Scott |
 | 309 | 328 | Desiree Soto |
@@ -333,8 +333,8 @@
 | 325 | 311 | Troy |
 | 326 | 309 | Desiree Gold |
 | 327 | 309 | Cheeky Snapper |
-| 328 | 308 | Tia |
-| 329 | 308 | Katrina Turner |
+| 328 | 308 | Katrina Turner |
+| 329 | 308 | Tia |
 | 330 | 305 | Hyper Matchzone |
 | 331 | 304 | _melisa223_ |
 | 332 | 303 | Alexmac |
@@ -356,8 +356,8 @@
 | 348 | 295 | Nikki Pags |
 | 349 | 292 | Kirhonda Autmon |
 | 350 | 292 | Khaleada McGill Banks |
-| 351 | 289 | Cheryl Hinch Tenbrook |
-| 352 | 289 | Salena Whitlock |
+| 351 | 289 | Salena Whitlock |
+| 352 | 289 | Cheryl Hinch Tenbrook |
 | 353 | 289 | DidIdothat |
 | 354 | 288 | Stephanie Bradley |
 | 355 | 288 | Arden White Kirsch |
@@ -386,12 +386,12 @@
 | 378 | 273 | Brenda Schmid Wood |
 | 379 | 273 | Kevin Fountain |
 | 380 | 272 | Romeo |
-| 381 | 272 | Tay |
-| 382 | 272 | Todd Hall |
+| 381 | 272 | Todd Hall |
+| 382 | 272 | Tay |
 | 383 | 269 | Goofy Fall |
-| 384 | 269 | Jess Bissett |
-| 385 | 269 | Juliana Dottore |
-| 386 | 269 | Samantha Worley |
+| 384 | 269 | Juliana Dottore |
+| 385 | 269 | Samantha Worley |
+| 386 | 269 | Jess Bissett |
 | 387 | 268 | Jessica Lynn French |
 | 388 | 268 | Quackers |
 | 389 | 267 | Michael Kimbro |
