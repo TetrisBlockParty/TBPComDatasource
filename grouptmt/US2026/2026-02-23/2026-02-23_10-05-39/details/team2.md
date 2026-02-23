@@ -44,8 +44,8 @@
 | 36 | 4199 | Claire Noland |
 | 37 | 4128 | Angela Pruitt |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Corrine Hawks Soriano |
-| 40 | 4120 | Kristen Sceurman |
+| 39 | 4120 | Kristen Sceurman |
+| 40 | 4120 | Corrine Hawks Soriano |
 | 41 | 3947 | Melinda Brown |
 | 42 | 3845 | jayjay |
 | 43 | 3813 | Devin Lee |
@@ -491,13 +491,13 @@
 | 483 | 695 | Lakeysha Dortch |
 | 484 | 693 | Ryan Stadel |
 | 485 | 692 | Shaun Church |
-| 486 | 691 | Samuel Macon |
-| 487 | 691 | Arwa Fatimah |
+| 486 | 691 | Arwa Fatimah |
+| 487 | 691 | Samuel Macon |
 | 488 | 689 | Gauri Shrotriya |
 | 489 | 686 | Christine Coughlin |
 | 490 | 684 | Sarah DeHart |
-| 491 | 684 | Ann Knutson Anderson |
-| 492 | 684 | Ellie Jonas |
+| 491 | 684 | Ellie Jonas |
+| 492 | 684 | Ann Knutson Anderson |
 | 493 | 682 | Vanessa Moreno |
 | 494 | 682 | Antionette Sewell |
 | 495 | 681 | Gloria Liu |
@@ -815,8 +815,8 @@
 | 807 | 455 | Darlene Bowman |
 | 808 | 453 | Polly Pritchard Chesler |
 | 809 | 453 | Epic Stackzone |
-| 810 | 452 | Ashley Taylor |
-| 811 | 452 | Cranky Tower |
+| 810 | 452 | Cranky Tower |
+| 811 | 452 | Ashley Taylor |
 | 812 | 452 | Tipsy Filler |
 | 813 | 451 | Sharon Mills |
 | 814 | 451 | Giggly Snap |

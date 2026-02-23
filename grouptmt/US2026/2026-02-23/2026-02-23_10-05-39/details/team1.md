@@ -141,8 +141,8 @@
 | 133 | 429 | Kristi Johnson |
 | 134 | 428 | Ly Phethmany |
 | 135 | 426 | Maria C. Hernandez |
-| 136 | 425 | Dandy Basegrid |
-| 137 | 425 | Tyler Werts |
+| 136 | 425 | Tyler Werts |
+| 137 | 425 | Dandy Basegrid |
 | 138 | 423 | ALFD |
 | 139 | 417 | Phu ckalldems |
 | 140 | 411 | BadG52 |
@@ -152,8 +152,8 @@
 | 144 | 404 | Mike Ames |
 | 145 | 402 | Chris K |
 | 146 | 399 | Nery Martinez |
-| 147 | 394 | Jennifer Hardman |
-| 148 | 394 | Lori Bales |
+| 147 | 394 | Lori Bales |
+| 148 | 394 | Jennifer Hardman |
 | 149 | 389 | David Miller |
 | 150 | 388 | Fmp |
 | 151 | 387 | Emily Adelaide Wheatley |
@@ -166,12 +166,12 @@
 | 158 | 379 | Austin James |
 | 159 | 379 | Kimmie Kimms |
 | 160 | 378 | Jessica Sheehan |
-| 161 | 376 | Brian Richardsson |
-| 162 | 376 | Death |
+| 161 | 376 | Death |
+| 162 | 376 | Brian Richardsson |
 | 163 | 375 | Tanya Carpenter-Reynolds |
 | 164 | 375 | Connie |
-| 165 | 371 | Jason Savage |
-| 166 | 371 | Basment Living |
+| 165 | 371 | Basment Living |
+| 166 | 371 | Jason Savage |
 | 167 | 369 | Christy Jones |
 | 168 | 368 | Amanda Johnson Huffman |
 | 169 | 367 | Sharon Reynolds |
@@ -182,8 +182,8 @@
 | 174 | 364 | Bindi |
 | 175 | 360 | MIKOZ |
 | 176 | 360 | Wisa |
-| 177 | 359 | Oscar Zamora |
-| 178 | 359 | Witty Builderfit |
+| 177 | 359 | Witty Builderfit |
+| 178 | 359 | Oscar Zamora |
 | 179 | 357 | David Lutcher |
 | 180 | 357 | Shiny Snapfit |
 | 181 | 355 | Amanda Jarnagin |

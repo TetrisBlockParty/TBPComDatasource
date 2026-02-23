@@ -114,8 +114,8 @@
 | 106 | 869 | Araceli Parra |
 | 107 | 868 | Sarajane Lokan |
 | 108 | 860 | Sunny Rotater |
-| 109 | 851 | Danielle Becker |
-| 110 | 851 | Jd Morris |
+| 109 | 851 | Jd Morris |
+| 110 | 851 | Danielle Becker |
 | 111 | 850 | Danielle Mogg |
 | 112 | 848 | Patricia Gadsden |
 | 113 | 839 | Angeline Joseph |
@@ -193,12 +193,12 @@
 | 185 | 559 | Patti Skiles |
 | 186 | 556 | Elissa S-k |
 | 187 | 548 | Danielle Balcom |
-| 188 | 546 | Mykal Burton |
-| 189 | 546 | Cynthia Castros-Hampton |
-| 190 | 546 | Tasha Schriewer |
+| 188 | 546 | Cynthia Castros-Hampton |
+| 189 | 546 | Tasha Schriewer |
+| 190 | 546 | Mykal Burton |
 | 191 | 540 | Shawn Miller |
-| 192 | 531 | Chauntee Alfrey-Cardinale |
-| 193 | 531 | Sarah Cowan Burgos |
+| 192 | 531 | Sarah Cowan Burgos |
+| 193 | 531 | Chauntee Alfrey-Cardinale |
 | 194 | 528 | Silly Twist |
 | 195 | 525 | Stephanie Blkpep Davidson |
 | 196 | 524 | Bmo |
@@ -226,8 +226,8 @@
 | 218 | 470 | Trisha Balmer |
 | 219 | 467 | Sherry Ogden |
 | 220 | 465 | Annie Déè |
-| 221 | 464 | Danielle Weikel |
-| 222 | 464 | Shunta Jacobs |
+| 221 | 464 | Shunta Jacobs |
+| 222 | 464 | Danielle Weikel |
 | 223 | 461 | Tom Nault |
 | 224 | 458 | Danielle Rhoades |
 | 225 | 455 | Rebecca Funderburk Kirby |
@@ -293,14 +293,14 @@
 | 285 | 359 | Betty Bóò |
 | 286 | 358 | Roary Danner |
 | 287 | 354 | Kelly |
-| 288 | 354 | Eileen Brady Thurber |
-| 289 | 354 | Andrew Thorson |
+| 288 | 354 | Andrew Thorson |
+| 289 | 354 | Eileen Brady Thurber |
 | 290 | 353 | Ashley Tookes |
 | 291 | 353 | Dee Franklin |
 | 292 | 353 | Cyd061769 |
 | 293 | 352 | Christian Werndl |
-| 294 | 351 | Blocked |
-| 295 | 351 | Eon Harris |
+| 294 | 351 | Eon Harris |
+| 295 | 351 | Blocked |
 | 296 | 350 | LaShey Thompson |
 | 297 | 349 | Amanda J. Mcneil-Anderson |
 | 298 | 348 | Ashley Raines |
@@ -311,8 +311,8 @@
 | 303 | 342 | Cynthia Herrmann Egland |
 | 304 | 341 | Rick Poppen |
 | 305 | 341 | Lys |
-| 306 | 340 | Erika Thornton |
-| 307 | 340 | KayB |
+| 306 | 340 | KayB |
+| 307 | 340 | Erika Thornton |
 | 308 | 338 | fraulila |
 | 309 | 336 | Foltz Lee Kelli |
 | 310 | 335 | victory |
@@ -333,8 +333,8 @@
 | 325 | 319 | Michael Leblanc |
 | 326 | 316 | Twisty Brick LT |
 | 327 | 314 | Geoffrey Nash |
-| 328 | 313 | Kaycee Kay |
-| 329 | 313 | Hoppy Buildout |
+| 328 | 313 | Hoppy Buildout |
+| 329 | 313 | Kaycee Kay |
 | 330 | 312 | Eric Caccavale |
 | 331 | 312 | LadyTorad |
 | 332 | 311 | Troy |
@@ -626,8 +626,8 @@
 | 618 | 180 | Stella |
 | 619 | 179 | Alexi Pryor |
 | 620 | 179 | Boldy Corner |
-| 621 | 179 | Ruchi Smit |
-| 622 | 179 | Num1hater |
+| 621 | 179 | Num1hater |
+| 622 | 179 | Ruchi Smit |
 | 623 | 178 | Jillian Ann |
 | 624 | 178 | Melissa Snyder |
 | 625 | 178 | Draone Grayson |
@@ -1185,8 +1185,8 @@
 | 1177 | 95 | Susan Ray Lewis |
 | 1178 | 95 | Victoria Lexis Dyer |
 | 1179 | 95 | Chantal Benee Gaines |
-| 1180 | 94 | Quteeonduty |
-| 1181 | 94 | Tim Amos |
+| 1180 | 94 | Tim Amos |
+| 1181 | 94 | Quteeonduty |
 | 1182 | 94 | Amy Bast |
 | 1183 | 94 | Julie Peters Fancher |
 | 1184 | 94 | Brysten Green |
