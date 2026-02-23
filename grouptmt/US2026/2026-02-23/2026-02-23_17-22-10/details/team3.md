@@ -185,8 +185,8 @@
 | 177 | 633 | Joye Sims Binion |
 | 178 | 632 | Morgan Martinez |
 | 179 | 629 | rnr junky |
-| 180 | 621 | Cherry Parker |
-| 181 | 621 | Sashay Tapae Simpson |
+| 180 | 621 | Sashay Tapae Simpson |
+| 181 | 621 | Cherry Parker |
 | 182 | 620 | Rania Zaqout |
 | 183 | 616 | Kammy Hill |
 | 184 | 606 | Tasha Gillespie |
@@ -219,8 +219,8 @@
 | 211 | 549 | Sarah Cowan Burgos |
 | 212 | 548 | Danielle Balcom |
 | 213 | 547 | Staci George Fitzsimmons |
-| 214 | 546 | Mykal Burton |
-| 215 | 546 | Cynthia Castros-Hampton |
+| 214 | 546 | Cynthia Castros-Hampton |
+| 215 | 546 | Mykal Burton |
 | 216 | 544 | Trisha Balmer |
 | 217 | 540 | Shawn Miller |
 | 218 | 539 | Betty Bóò |
@@ -438,8 +438,8 @@
 | 430 | 293 | Loopy Fallzone |
 | 431 | 292 | Khaleada McGill Banks |
 | 432 | 292 | Arden White Kirsch |
-| 433 | 291 | Niki Dalrymple |
-| 434 | 291 | Bryan Byrd |
+| 433 | 291 | Bryan Byrd |
+| 434 | 291 | Niki Dalrymple |
 | 435 | 290 | Kellie Montgomery |
 | 436 | 290 | Tegan Chapman |
 | 437 | 290 | Breezy Roll |

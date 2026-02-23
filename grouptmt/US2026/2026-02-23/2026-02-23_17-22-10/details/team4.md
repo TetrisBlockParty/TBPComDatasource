@@ -503,8 +503,8 @@
 | 495 | 178 | Daring Pivot |
 | 496 | 178 | Jackson Karen |
 | 497 | 178 | Nerdy Linebuilder |
-| 498 | 177 | Vamp |
-| 499 | 177 | Chao Ma |
+| 498 | 177 | Chao Ma |
+| 499 | 177 | Vamp |
 | 500 | 177 | Stephanie Mico |
 | 501 | 176 | Sholom Fried |
 | 502 | 176 | Jlmendillo |
