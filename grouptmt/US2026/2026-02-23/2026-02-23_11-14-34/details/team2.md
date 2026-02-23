@@ -229,8 +229,8 @@
 | 221 | 1245 | Missie Lawson Gebhardt |
 | 222 | 1240 | Brandon Armstrong |
 | 223 | 1237 | Megan Ferguson Leone |
-| 224 | 1232 | Ambyre Patterson |
-| 225 | 1232 | Groovy Puzzle |
+| 224 | 1232 | Groovy Puzzle |
+| 225 | 1232 | Ambyre Patterson |
 | 226 | 1230 | Megan Garrick |
 | 227 | 1221 | Jane Fong |
 | 228 | 1217 | Brooks Brooks |
@@ -419,8 +419,8 @@
 | 411 | 790 | Brenda Pierpoint |
 | 412 | 788 | Erika Densmore |
 | 413 | 783 | John Rodriguez |
-| 414 | 777 | Jessicah Myers |
-| 415 | 777 | Tesha Oldaker |
+| 414 | 777 | Tesha Oldaker |
+| 415 | 777 | Jessicah Myers |
 | 416 | 776 | Fancy Twister |
 | 417 | 776 | Mighty Spinbuilder |
 | 418 | 775 | Crystie Hicks |
@@ -448,8 +448,8 @@
 | 440 | 753 | Alex Dungo Hoang |
 | 441 | 752 | Christina Wsn |
 | 442 | 751 | Loony Snapper |
-| 443 | 751 | Breezy Filler |
-| 444 | 751 | Caitlyn Blackwell |
+| 443 | 751 | Caitlyn Blackwell |
+| 444 | 751 | Breezy Filler |
 | 445 | 750 | Draizen Montrell Thomas |
 | 446 | 748 | Ann Matzkanin |
 | 447 | 746 | Leslie Ann Carter |
@@ -460,8 +460,8 @@
 | 452 | 737 | Ginger |
 | 453 | 737 | Chelle |
 | 454 | 732 | Victoria Moore-Smith |
-| 455 | 731 | Matthew Joseph Acevedo |
-| 456 | 731 | Charvi' Carter |
+| 455 | 731 | Charvi' Carter |
+| 456 | 731 | Matthew Joseph Acevedo |
 | 457 | 730 | Hoppy Brickmatch |
 | 458 | 729 | goofinoff |
 | 459 | 728 | Mikayala Szaz |
@@ -878,7 +878,7 @@
 | 870 | 429 | Dandy Combo |
 | 871 | 429 | Ricky Fortune |
 | 872 | 429 | Angel Hunnewell |
-| 873 | 428 | Jenn Morin |
+| 873 | 428 | Anthony D Gritz Jr |
 | 874 | 428 | Lisa Falcon |
 | 875 | 428 | Jenn Morin |
 | 876 | 427 | Jo Nicole |
@@ -906,8 +906,8 @@
 | 898 | 416 | Alicia Moreno |
 | 899 | 416 | Veronics |
 | 900 | 416 | Christine Lockwood |
-| 901 | 415 | Noel Tarmy |
-| 902 | 415 | Allyson Marra |
+| 901 | 415 | Allyson Marra |
+| 902 | 415 | Noel Tarmy |
 | 903 | 414 | Cini |
 | 904 | 414 | Maria Louise |
 | 905 | 414 | Court |
@@ -915,9 +915,9 @@
 | 907 | 413 | Ashley Robbins |
 | 908 | 413 | Abby Klaski |
 | 909 | 411 | Peppy Snapfall |
-| 910 | 411 | BabyBird |
-| 911 | 411 | Candy Pitts |
-| 912 | 411 | Valerie Vigil |
+| 910 | 411 | Candy Pitts |
+| 911 | 411 | Valerie Vigil |
+| 912 | 411 | BabyBird |
 | 913 | 410 | Michelle Grant-Moncrieft |
 | 914 | 409 | Lush Snapzone |
 | 915 | 408 | Anthony McAlister |
@@ -1024,8 +1024,8 @@
 | 1016 | 378 | Tianee Eaton |
 | 1017 | 378 | Kelly Walters |
 | 1018 | 377 | NickyBrooks |
-| 1019 | 377 | Cheeky Balancepiece |
-| 1020 | 377 | Frank Castle |
+| 1019 | 377 | Frank Castle |
+| 1020 | 377 | Cheeky Balancepiece |
 | 1021 | 376 | Sydney Busse |
 | 1022 | 376 | Kristen Casale Berry |
 | 1023 | 375 | Ashley Marie |
@@ -1057,8 +1057,8 @@
 | 1049 | 368 | Bec |
 | 1050 | 367 | Rachel Kaminski |
 | 1051 | 366 | Josh Webster |
-| 1052 | 366 | Ashley Criner |
-| 1053 | 366 | Madysen Holt |
+| 1052 | 366 | Madysen Holt |
+| 1053 | 366 | Ashley Criner |
 | 1054 | 366 | KrisCynthia Lynette |
 | 1055 | 366 | Mike Schwob |
 | 1056 | 365 | Candace Noel |
@@ -1072,8 +1072,8 @@
 | 1064 | 364 | Epic Spinfit |
 | 1065 | 363 | Nikki Arlene |
 | 1066 | 363 | Tammy Mitchell |
-| 1067 | 362 | Megan Phillips |
-| 1068 | 362 | Del Davis |
+| 1067 | 362 | Del Davis |
+| 1068 | 362 | Megan Phillips |
 | 1069 | 362 | Boldy Brickfit |
 | 1070 | 361 | Mary Boss |
 | 1071 | 361 | Tosa Puvapiromquan |

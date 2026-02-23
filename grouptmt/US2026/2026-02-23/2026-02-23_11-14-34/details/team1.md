@@ -473,8 +473,8 @@
 | 465 | 169 | Josh Smith |
 | 466 | 168 | Mrs.Patrica |
 | 467 | 166 | Gilbert Ortiz Jr. |
-| 468 | 165 | Rodney Schmerfeld |
-| 469 | 165 | Stephanie Leday |
+| 468 | 165 | Stephanie Leday |
+| 469 | 165 | Rodney Schmerfeld |
 | 470 | 164 | Liliana Pena |
 | 471 | 163 | dhardy |
 | 472 | 163 | SavageBooty98 |

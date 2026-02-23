@@ -126,8 +126,8 @@
 | 118 | 521 | Andy Cabral |
 | 119 | 519 | Nugget |
 | 120 | 517 | shar |
-| 121 | 514 | Scott Jameson |
-| 122 | 514 | Serena Goodridge |
+| 121 | 514 | Serena Goodridge |
+| 122 | 514 | Scott Jameson |
 | 123 | 513 | Erin Thomas |
 | 124 | 512 | Casey Jeffcoat |
 | 125 | 512 | Cristy Duerksen |
@@ -426,8 +426,8 @@
 | 418 | 176 | Cindy Looper |
 | 419 | 175 | Jim Hart |
 | 420 | 175 | Lorena Guerrero-Barron |
-| 421 | 174 | Jason Frehner |
-| 422 | 174 | Chummy Towerzone |
+| 421 | 174 | Chummy Towerzone |
+| 422 | 174 | Jason Frehner |
 | 423 | 173 | Tanner Lund |
 | 424 | 172 | Undeniable Williams |
 | 425 | 172 | Janis Brown |
@@ -744,7 +744,7 @@
 | 736 | 95 | Alicia Falk |
 | 737 | 94 | Susan Purnell |
 | 738 | 94 | Quirky Clearfit |
-| 739 | 94 | Susan Purnell |
+| 739 | 94 | moneybagz |
 | 740 | 94 | Myra LaTrice |
 | 741 | 93 | Alo |
 | 742 | 93 | Lorinda Wixom |
@@ -762,7 +762,7 @@
 | 754 | 92 | Jasmine Castro |
 | 755 | 92 | Girldadtpa |
 | 756 | 92 | Sassy Gridzone |
-| 757 | 92 | Girldadtpa |
+| 757 | 92 | Robert Sch |
 | 758 | 91 | Demont Darius |
 | 759 | 91 | Paul Abono |
 | 760 | 91 | Josh Chapell |

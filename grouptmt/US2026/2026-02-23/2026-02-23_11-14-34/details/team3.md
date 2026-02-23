@@ -130,8 +130,8 @@
 | 122 | 775 | Kristie |
 | 123 | 774 | Keith J Oshman Jr. |
 | 124 | 773 | Daira Largen |
-| 125 | 764 | Groovy Catcher |
-| 126 | 764 | Hasty Cascadefit |
+| 125 | 764 | Hasty Cascadefit |
+| 126 | 764 | Groovy Catcher |
 | 127 | 762 | Speedy Bridger |
 | 128 | 755 | Katrina Schroeder |
 | 129 | 755 | Raya |
@@ -198,8 +198,8 @@
 | 190 | 546 | Tasha Schriewer |
 | 191 | 546 | Mykal Burton |
 | 192 | 540 | Shawn Miller |
-| 193 | 531 | Chauntee Alfrey-Cardinale |
-| 194 | 531 | Sarah Cowan Burgos |
+| 193 | 531 | Sarah Cowan Burgos |
+| 194 | 531 | Chauntee Alfrey-Cardinale |
 | 195 | 528 | Silly Twist |
 | 196 | 525 | Stephanie Blkpep Davidson |
 | 197 | 524 | Bmo |
@@ -266,8 +266,8 @@
 | 258 | 403 | Scott Lindsay |
 | 259 | 403 | Denita Mungro |
 | 260 | 396 | Randy Clevenger |
-| 261 | 395 | rosy |
-| 262 | 395 | Ashley Tookes |
+| 261 | 395 | Ashley Tookes |
+| 262 | 395 | rosy |
 | 263 | 387 | Gideon Walker |
 | 264 | 385 | Velma Mull |
 | 265 | 384 | Noyb Adam |
@@ -478,8 +478,8 @@
 | 470 | 236 | Scott Doss |
 | 471 | 234 | Cheeky Twisterfit |
 | 472 | 233 | Tony Waters |
-| 473 | 233 | Anna Moeller |
-| 474 | 233 | Criss |
+| 473 | 233 | Criss |
+| 474 | 233 | Anna Moeller |
 | 475 | 232 | Sunny Tiltgrid |
 | 476 | 232 | Melanie Sherwood |
 | 477 | 232 | Stephanie Hill |
