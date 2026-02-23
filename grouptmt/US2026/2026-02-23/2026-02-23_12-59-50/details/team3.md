@@ -140,8 +140,8 @@
 | 132 | 755 | Raya |
 | 133 | 748 | Adrian Marcel Pate |
 | 134 | 746 | Giddy Drop |
-| 135 | 745 | JerseyJess |
-| 136 | 745 | ren |
+| 135 | 745 | ren |
+| 136 | 745 | JerseyJess |
 | 137 | 744 | Fancy Cascader |
 | 138 | 736 | mzcatzy |
 | 139 | 734 | Calista Jo Dickson |
@@ -200,8 +200,8 @@
 | 192 | 549 | Sarah Cowan Burgos |
 | 193 | 548 | Danielle Balcom |
 | 194 | 547 | Staci George Fitzsimmons |
-| 195 | 546 | Mykal Burton |
-| 196 | 546 | Tasha Schriewer |
+| 195 | 546 | Tasha Schriewer |
+| 196 | 546 | Mykal Burton |
 | 197 | 546 | Cynthia Castros-Hampton |
 | 198 | 540 | Shawn Miller |
 | 199 | 533 | Rania Zaqout |

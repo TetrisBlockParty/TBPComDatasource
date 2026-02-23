@@ -102,8 +102,8 @@
 | 94 | 659 | Jamie Gustafson |
 | 95 | 653 | Rica Mitchell |
 | 96 | 650 | KJ Pool |
-| 97 | 647 | Shauna Havard |
-| 98 | 647 | KM8 |
+| 97 | 647 | KM8 |
+| 98 | 647 | Shauna Havard |
 | 99 | 646 | Eric Mcgaughy |
 | 100 | 635 | Adawna Swires |
 | 101 | 631 | H.R. Block |
@@ -255,8 +255,8 @@
 | 247 | 290 | Jared Gutwein |
 | 248 | 289 | Juls |
 | 249 | 288 | Adam Stephanie Parker |
-| 250 | 288 | Zesty Twistbuilder |
-| 251 | 288 | Brittney Orengo |
+| 250 | 288 | Brittney Orengo |
+| 251 | 288 | Zesty Twistbuilder |
 | 252 | 284 | Matt Dell'Olio |
 | 253 | 284 | Joanna |
 | 254 | 282 | Matt Gooder |

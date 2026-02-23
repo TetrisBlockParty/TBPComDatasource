@@ -366,8 +366,8 @@
 | 358 | 910 | Ashley Dow |
 | 359 | 907 | Gene Mills |
 | 360 | 904 | John Bednarik |
-| 361 | 903 | Eric Castaneda |
-| 362 | 903 | Giggy Blocker |
+| 361 | 903 | Giggy Blocker |
+| 362 | 903 | Eric Castaneda |
 | 363 | 902 | Diallo Sparkman |
 | 364 | 901 | Kevin Sees |
 | 365 | 899 | Patrick Bartlett |
@@ -569,8 +569,8 @@
 | 561 | 639 | Rebecca Miller |
 | 562 | 639 | Alexandra Weir |
 | 563 | 638 | Leah Keesling |
-| 564 | 637 | Koa N Sharon Chen |
-| 565 | 637 | Shinette Dobson |
+| 564 | 637 | Shinette Dobson |
+| 565 | 637 | Koa N Sharon Chen |
 | 566 | 637 | Karen Posadas Centeno |
 | 567 | 634 | James Louie |
 | 568 | 634 | Quiksilver |
@@ -620,8 +620,8 @@
 | 612 | 597 | Jamie Schmitt |
 | 613 | 597 | TJ Nash |
 | 614 | 596 | Davetta Sanford |
-| 615 | 595 | Anthony Mignacca |
-| 616 | 595 | Ha Ab |
+| 615 | 595 | Ha Ab |
+| 616 | 595 | Anthony Mignacca |
 | 617 | 594 | Laura Mclean |
 | 618 | 592 | Melissa Kay Gibson |
 | 619 | 592 | Sheronda Jackson |
