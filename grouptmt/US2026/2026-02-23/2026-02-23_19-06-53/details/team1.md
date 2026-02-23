@@ -480,8 +480,8 @@
 | 472 | 196 | Steven Collins |
 | 473 | 196 | Kirk Torrey |
 | 474 | 195 | Herm Junior |
-| 475 | 194 | Nicole Meredith Flynn |
-| 476 | 194 | Sarah Henniker |
+| 475 | 194 | Sarah Henniker |
+| 476 | 194 | Nicole Meredith Flynn |
 | 477 | 193 | Lachelle Dillon |
 | 478 | 193 | Giggly Rollfit |
 | 479 | 191 | Garcia Bailey |

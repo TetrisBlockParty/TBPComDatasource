@@ -80,8 +80,8 @@
 | 72 | 862 | Carolyn Wallace |
 | 73 | 847 | Peachy Fall |
 | 74 | 846 | Lucille Truesdale |
-| 75 | 846 | Christine Marie |
-| 76 | 846 | Amelpss |
+| 75 | 846 | Amelpss |
+| 76 | 846 | Christine Marie |
 | 77 | 841 | Shauna Havard |
 | 78 | 834 | quicksand420 |
 | 79 | 832 | Lisa Davis |
@@ -224,8 +224,8 @@
 | 216 | 388 | June Hoffman |
 | 217 | 385 | 030Synner |
 | 218 | 383 | blockstar |
-| 219 | 381 | Plucky Patternblock |
-| 220 | 381 | Mimi |
+| 219 | 381 | Mimi |
+| 220 | 381 | Plucky Patternblock |
 | 221 | 380 | Rio Rocha |
 | 222 | 379 | Backoff Recupe |
 | 223 | 378 | Lauren Scott |
@@ -397,8 +397,8 @@
 | 389 | 232 | Jenny Wells-Oakley |
 | 390 | 230 | Chantilly Laace |
 | 391 | 228 | Bethany Ison |
-| 392 | 227 | Asher |
-| 393 | 227 | Maria Hammie |
+| 392 | 227 | Maria Hammie |
+| 393 | 227 | Asher |
 | 394 | 225 | Jennifer Renee |
 | 395 | 224 | Ultramarine |
 | 396 | 223 | Brave Spinbuilder |

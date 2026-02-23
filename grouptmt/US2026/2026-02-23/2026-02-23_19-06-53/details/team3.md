@@ -89,8 +89,8 @@
 | 81 | 1264 | Amanda L Baker |
 | 82 | 1244 | Lori Barnaby |
 | 83 | 1240 | Betty Ivy |
-| 84 | 1213 | Snappy Glidepiece |
-| 85 | 1213 | Nerdy Riseclear |
+| 84 | 1213 | Nerdy Riseclear |
+| 85 | 1213 | Snappy Glidepiece |
 | 86 | 1212 | Amanda Adkins |
 | 87 | 1186 | Christian A. Pollard |
 | 88 | 1158 | Danielle Mogg |
@@ -307,16 +307,16 @@
 | 299 | 414 | RickyG |
 | 300 | 412 | Jojo M |
 | 301 | 411 | Megan Rathmanner |
-| 302 | 410 | Brian Battjes |
-| 303 | 410 | Duane Bright |
-| 304 | 408 | Tiffany Ford |
-| 305 | 408 | Ashley Muncey |
+| 302 | 410 | Duane Bright |
+| 303 | 410 | Brian Battjes |
+| 304 | 408 | Ashley Muncey |
+| 305 | 408 | Tiffany Ford |
 | 306 | 406 | Kristal C Lee |
 | 307 | 405 | Desiree Gold |
 | 308 | 405 | Steffi Chris Dacones |
 | 309 | 403 | lashanda |
-| 310 | 403 | Stephanie Burtin |
-| 311 | 403 | Scott Lindsay |
+| 310 | 403 | Scott Lindsay |
+| 311 | 403 | Stephanie Burtin |
 | 312 | 401 | Hyper Matchzone |
 | 313 | 400 | Dana Winters |
 | 314 | 398 | fraulila |
@@ -377,8 +377,8 @@
 | 369 | 345 | victory |
 | 370 | 345 | gremicx |
 | 371 | 344 | Beaudie Stroebel |
-| 372 | 343 | Ashley Rufus Bythcez |
-| 373 | 343 | Donna |
+| 372 | 343 | Donna |
+| 373 | 343 | Ashley Rufus Bythcez |
 | 374 | 342 | 4girls |
 | 375 | 342 | Cynthia Herrmann Egland |
 | 376 | 341 | Rick Poppen |
@@ -420,8 +420,8 @@
 | 412 | 318 | Blair Erin Waite |
 | 413 | 318 | Christy Quick |
 | 414 | 317 | Funky Jumper |
-| 415 | 316 | Tay |
-| 416 | 316 | Travis W |
+| 415 | 316 | Travis W |
+| 416 | 316 | Tay |
 | 417 | 314 | Tipsy Zonebuilder |
 | 418 | 313 | Hoppy Buildout |
 | 419 | 312 | Eric Caccavale |
@@ -477,8 +477,8 @@
 | 469 | 281 | Ktfreeee |
 | 470 | 281 | Kassie Dominique Rathbone |
 | 471 | 280 | Amanda Declue |
-| 472 | 280 | Sarah Muradyan |
-| 473 | 280 | Dirtgirl27 |
+| 472 | 280 | Dirtgirl27 |
+| 473 | 280 | Sarah Muradyan |
 | 474 | 280 | Jessica Christian |
 | 475 | 279 | Tosha Griffey |
 | 476 | 278 | IamJust Neyamijah Washington Sr. |
@@ -494,8 +494,8 @@
 | 486 | 275 | Scott Doss |
 | 487 | 275 | Carrie Resler |
 | 488 | 274 | Nerdy Lifter |
-| 489 | 273 | Kevin Fountain |
-| 490 | 273 | BigE |
+| 489 | 273 | BigE |
+| 490 | 273 | Kevin Fountain |
 | 491 | 273 | Michael Latasha Gray |
 | 492 | 272 | Todd Hall |
 | 493 | 271 | Hyper Twisterfit |
