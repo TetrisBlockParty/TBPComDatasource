@@ -380,8 +380,8 @@
 | 372 | 824 | Khalil Lowe |
 | 373 | 822 | Lola Contreras |
 | 374 | 821 | Angie Bolton Workman |
-| 375 | 821 | Cassie Mercer |
-| 376 | 821 | Arkei Luster |
+| 375 | 821 | Arkei Luster |
+| 376 | 821 | Cassie Mercer |
 | 377 | 816 | Beth |
 | 378 | 816 | James Simms III |
 | 379 | 812 | Samantha Jo |
@@ -805,8 +805,8 @@
 | 797 | 447 | Boozi |
 | 798 | 446 | Colin Morgan |
 | 799 | 446 | Courtney Burcham |
-| 800 | 445 | Beatboxxer |
-| 801 | 445 | Mar Q Thomas |
+| 800 | 445 | Mar Q Thomas |
+| 801 | 445 | Beatboxxer |
 | 802 | 444 | Angela Murgia-Owen |
 | 803 | 443 | Giggy Grabber |
 | 804 | 443 | Dimitra Zazara |
@@ -862,8 +862,8 @@
 | 854 | 417 | Rebecca Garland |
 | 855 | 417 | Janai Vrabel |
 | 856 | 417 | Mandy Kachenmeister |
-| 857 | 416 | Alicia Moreno |
-| 858 | 416 | Veronics |
+| 857 | 416 | Veronics |
+| 858 | 416 | Alicia Moreno |
 | 859 | 416 | Christine Lockwood |
 | 860 | 415 | Bonita Kee |
 | 861 | 415 | Noel Tarmy |
@@ -956,7 +956,7 @@
 | 948 | 384 | King Shamell Young |
 | 949 | 383 | Jane Crew |
 | 950 | 383 | Ethan Stienbarger |
-| 951 | 383 | Jane Crew |
+| 951 | 383 | Alyssia Tancredi |
 | 952 | 382 | Brave Gridpiece |
 | 953 | 382 | Cathleena Giusto |
 | 954 | 382 | Tum |
@@ -1002,8 +1002,8 @@
 | 994 | 368 | Bec |
 | 995 | 367 | Lush Snapzone |
 | 996 | 367 | Rachel Kaminski |
-| 997 | 366 | Ashley Criner |
-| 998 | 366 | Josh Webster |
+| 997 | 366 | Josh Webster |
+| 998 | 366 | Ashley Criner |
 | 999 | 366 | Monique Foster |
 | 1000 | 366 | KrisCynthia Lynette |
 | 1001 | 365 | Wes Acton |
@@ -1105,7 +1105,7 @@
 | 1097 | 336 | Katrina Willmon |
 | 1098 | 336 | Crystal Cornelius |
 | 1099 | 336 | Colton Saupe |
-| 1100 | 336 | Joseph Jones |
+| 1100 | 336 | Jumpy Gridclear |
 | 1101 | 336 | Zany Clusterbuilder |
 | 1102 | 336 | Joseph Jones |
 | 1103 | 335 | ToxicTrash |
@@ -1120,12 +1120,12 @@
 | 1112 | 334 | kcakes |
 | 1113 | 334 | Lianne Giandalone LaBounty |
 | 1114 | 334 | Tina Wright-Quigley |
-| 1115 | 333 | Dad |
-| 1116 | 333 | Erika Deer Kauffman |
+| 1115 | 333 | Erika Deer Kauffman |
+| 1116 | 333 | Dad |
 | 1117 | 333 | Paula Martinez |
 | 1118 | 332 | Spunky Match |
-| 1119 | 332 | Sunny Pusher |
-| 1120 | 332 | Elena Vap |
+| 1119 | 332 | Elena Vap |
+| 1120 | 332 | Sunny Pusher |
 | 1121 | 331 | April Dionne |
 | 1122 | 330 | Beautae |
 | 1123 | 330 | Kenan Catovic |
@@ -1319,8 +1319,8 @@
 | 1311 | 286 | William David Swallow |
 | 1312 | 286 | Wacky Cascade |
 | 1313 | 285 | Sharon Crawford |
-| 1314 | 285 | Shay Moore |
-| 1315 | 285 | Kimberly Bickling |
+| 1314 | 285 | Kimberly Bickling |
+| 1315 | 285 | Shay Moore |
 | 1316 | 284 | STLBatman |
 | 1317 | 284 | Clever Dashgrid |
 | 1318 | 284 | Amandacolle |

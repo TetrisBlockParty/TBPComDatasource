@@ -120,8 +120,8 @@
 | 112 | 831 | Angeline Joseph |
 | 113 | 830 | Stephanie Allmon |
 | 114 | 826 | Shane Wilson Jr. |
-| 115 | 816 | Jesse Olive |
-| 116 | 816 | Brenda Lee Vander Molen |
+| 115 | 816 | Brenda Lee Vander Molen |
+| 116 | 816 | Jesse Olive |
 | 117 | 802 | Bobbi Moore |
 | 118 | 800 | Lauren Girouard |
 | 119 | 799 | Dolores Falco |
@@ -173,8 +173,8 @@
 | 165 | 591 | Michael Nowogorski |
 | 166 | 588 | Justin Ritter |
 | 167 | 587 | Louise Stacy Sisson |
-| 168 | 585 | Happy Tetriblast |
-| 169 | 585 | Annie Marie |
+| 168 | 585 | Annie Marie |
+| 169 | 585 | Happy Tetriblast |
 | 170 | 583 | Tasha Gillespie |
 | 171 | 582 | Natasha Jones |
 | 172 | 577 | Domo Washington |
@@ -273,8 +273,8 @@
 | 265 | 367 | Kristin Delibac Corrigan |
 | 266 | 366 | Gumbo |
 | 267 | 365 | Noyb Adam |
-| 268 | 364 | Steffi Chris Dacones |
-| 269 | 364 | Carrie Huskey |
+| 268 | 364 | Carrie Huskey |
+| 269 | 364 | Steffi Chris Dacones |
 | 270 | 362 | Brandon Givens |
 | 271 | 360 | Cesar Barraza |
 | 272 | 359 | Sleepy |
@@ -286,8 +286,8 @@
 | 278 | 353 | Dee Franklin |
 | 279 | 353 | Cyd061769 |
 | 280 | 352 | Christian Werndl |
-| 281 | 351 | Blocked |
-| 282 | 351 | Eon Harris |
+| 281 | 351 | Eon Harris |
+| 282 | 351 | Blocked |
 | 283 | 350 | LaShey Thompson |
 | 284 | 349 | Amanda J. Mcneil-Anderson |
 | 285 | 347 | Betty Bóò |
@@ -341,11 +341,11 @@
 | 333 | 299 | TotoCherue |
 | 334 | 299 | Angie Harper |
 | 335 | 299 | Hasty Gridpiece |
-| 336 | 298 | Dannie Litchard |
-| 337 | 298 | Grams |
+| 336 | 298 | Grams |
+| 337 | 298 | Dannie Litchard |
 | 338 | 297 | kacihall |
-| 339 | 296 | Donna |
-| 340 | 296 | Tracy Martin |
+| 339 | 296 | Tracy Martin |
+| 340 | 296 | Donna |
 | 341 | 295 | Nikki Pags |
 | 342 | 294 | Antonia Russell |
 | 343 | 292 | Khaleada McGill Banks |
@@ -363,8 +363,8 @@
 | 355 | 280 | ROODBOY |
 | 356 | 280 | Aerian Preston |
 | 357 | 280 | Dirtgirl27 |
-| 358 | 279 | Naur |
-| 359 | 279 | Tosha Griffey |
+| 358 | 279 | Tosha Griffey |
+| 359 | 279 | Naur |
 | 360 | 278 | Rufus Lincoln |
 | 361 | 277 | Krystal Gerstberger |
 | 362 | 277 | Joe-Maggie Mathews |
@@ -399,8 +399,8 @@
 | 391 | 263 | Erika Thornton |
 | 392 | 263 | Jimmie Clemons |
 | 393 | 261 | Swanky Snapclear |
-| 394 | 260 | Tracey Cox |
-| 395 | 260 | Alice |
+| 394 | 260 | Alice |
+| 395 | 260 | Tracey Cox |
 | 396 | 259 | JessDrown |
 | 397 | 259 | Dana Winters |
 | 398 | 259 | Tegan Chapman |
@@ -420,8 +420,8 @@
 | 412 | 252 | Jl |
 | 413 | 252 | Josh Borquez |
 | 414 | 251 | Colleen Phelps |
-| 415 | 250 | Dana Fox |
-| 416 | 250 | joz |
+| 415 | 250 | joz |
+| 416 | 250 | Dana Fox |
 | 417 | 250 | Eric Caccavale |
 | 418 | 249 | Willow |
 | 419 | 248 | Brian Battjes |
@@ -500,8 +500,8 @@
 | 492 | 214 | Amy Fuller Heaton |
 | 493 | 214 | Jumpy Curvebuilder |
 | 494 | 214 | Crystal Hine |
-| 495 | 213 | Linda Draper |
-| 496 | 213 | Flashy Rumbler |
+| 495 | 213 | Flashy Rumbler |
+| 496 | 213 | Linda Draper |
 | 497 | 213 | Ktfreeee |
 | 498 | 212 | neci |
 | 499 | 212 | Frilly Stackzone |
@@ -520,12 +520,12 @@
 | 512 | 207 | Nichol Graham |
 | 513 | 206 | Tammy Rosenberry |
 | 514 | 206 | Dakota Graham |
-| 515 | 205 | Rachel Napper |
-| 516 | 205 | Emberblaze |
-| 517 | 205 | Rachel Napper |
+| 515 | 205 | Emberblaze |
+| 516 | 205 | Rachel Napper |
+| 517 | 205 | Bouncy Blockbuilder |
 | 518 | 204 | Daisy Rocha |
-| 519 | 204 | Lesley Perez |
-| 520 | 204 | Sassy Brickmatch |
+| 519 | 204 | Sassy Brickmatch |
+| 520 | 204 | Lesley Perez |
 | 521 | 203 | Sdot |
 | 522 | 201 | Katrina E Jelks |
 | 523 | 201 | Denise Marie |
@@ -537,7 +537,7 @@
 | 529 | 199 | Sunny Lift |
 | 530 | 199 | Christine Foley |
 | 531 | 199 | Cheeky Setter |
-| 532 | 198 | momo |
+| 532 | 198 | Jodi Kaczynski-O'Dowd |
 | 533 | 198 | Zac Hudak |
 | 534 | 198 | momo |
 | 535 | 197 | Jalissa Monique |
@@ -647,11 +647,11 @@
 | 639 | 169 | Christopher Woost |
 | 640 | 169 | Num1hater |
 | 641 | 168 | Groovy Blockclear |
-| 642 | 168 | Kristi Taylor |
-| 643 | 168 | Glenn Loving |
-| 644 | 167 | Pam Holt Powell |
-| 645 | 167 | Frothy Glider |
-| 646 | 167 | Alison Baus |
+| 642 | 168 | Glenn Loving |
+| 643 | 168 | Kristi Taylor |
+| 644 | 167 | Alison Baus |
+| 645 | 167 | Pam Holt Powell |
+| 646 | 167 | Frothy Glider |
 | 647 | 167 | Funky Brickster |
 | 648 | 167 | Jm |
 | 649 | 167 | Frisky Stacker |

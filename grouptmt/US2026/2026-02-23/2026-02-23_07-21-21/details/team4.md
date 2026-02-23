@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | KM8 |
-| 93 | 647 | Shauna Havard |
+| 92 | 647 | Shauna Havard |
+| 93 | 647 | KM8 |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -125,8 +125,8 @@
 | 117 | 514 | Serena Goodridge |
 | 118 | 514 | Scott Jameson |
 | 119 | 513 | Erin Thomas |
-| 120 | 512 | Cristy Duerksen |
-| 121 | 512 | Casey Jeffcoat |
+| 120 | 512 | Casey Jeffcoat |
+| 121 | 512 | Cristy Duerksen |
 | 122 | 511 | Lori Walker |
 | 123 | 509 | Leslie Nicole |
 | 124 | 482 | Ren Mc |
@@ -157,8 +157,8 @@
 | 149 | 414 | Swanky Fitline |
 | 150 | 412 | Jessica Bohlken |
 | 151 | 408 | Amanda Pauldo-Ivy |
-| 152 | 406 | Damn Libra |
-| 153 | 406 | Livvy |
+| 152 | 406 | Livvy |
+| 153 | 406 | Damn Libra |
 | 154 | 398 | Tyler Terrific |
 | 155 | 395 | ThaEviLJeNiuZ |
 | 156 | 393 | Carlton Unfiltered |
@@ -298,10 +298,10 @@
 | 290 | 229 | TinyLegoRose |
 | 291 | 228 | Bethany Ison |
 | 292 | 227 | Jason Bosco |
-| 293 | 226 | Nubian1 |
-| 294 | 226 | Dizzy Matchzone |
-| 295 | 225 | Ernest Maxwell |
-| 296 | 225 | Jenna McGeorge |
+| 293 | 226 | Dizzy Matchzone |
+| 294 | 226 | Nubian1 |
+| 295 | 225 | Jenna McGeorge |
+| 296 | 225 | Ernest Maxwell |
 | 297 | 224 | Ultramarine |
 | 298 | 223 | Chance Strickland |
 | 299 | 223 | Adawna Swires |
@@ -661,8 +661,8 @@
 | 653 | 107 | Carlos G Reyes |
 | 654 | 106 | amy |
 | 655 | 106 | Jacob Richard |
-| 656 | 106 | amy |
-| 657 | 106 | Zappy Snaplink |
+| 656 | 106 | Zappy Snaplink |
+| 657 | 106 | Cassandra Stewart |
 | 658 | 106 | Nick Horn |
 | 659 | 105 | Lakesha Johnson |
 | 660 | 105 | Flavoredsausage |
@@ -818,8 +818,8 @@
 | 810 | 82 | Krs |
 | 811 | 81 | Penny Dean |
 | 812 | 81 | Jamie Hirtle |
-| 813 | 81 | Molly Ananda Rickerson |
-| 814 | 81 | Tiffany Root |
+| 813 | 81 | Tiffany Root |
+| 814 | 81 | Molly Ananda Rickerson |
 | 815 | 81 | Zippy Stack |
 | 816 | 80 | Bubbly Setter |
 | 817 | 80 | Joey Riley |
@@ -1271,7 +1271,7 @@
 | 1263 | 38 | Alison Welsh |
 | 1264 | 37 | Patrick Cossette |
 | 1265 | 37 | Genne Scott |
-| 1266 | 37 | Cool Shatterclear |
+| 1266 | 37 | Sunny68 |
 | 1267 | 37 | Francis Fleurant |
 | 1268 | 37 | Cool Shatterclear |
 | 1269 | 37 | SloFut Mataryal BrownBwoy |

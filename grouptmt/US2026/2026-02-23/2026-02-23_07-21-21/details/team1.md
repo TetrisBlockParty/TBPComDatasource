@@ -112,8 +112,8 @@
 | 104 | 491 | cc |
 | 105 | 489 | April Carroll |
 | 106 | 489 | Deanna L Hermanson |
-| 107 | 483 | Tdub |
-| 108 | 483 | Trina Gee |
+| 107 | 483 | Trina Gee |
+| 108 | 483 | Tdub |
 | 109 | 480 | Ty Brown |
 | 110 | 478 | Stephanie Zahn |
 | 111 | 463 | Lexuriuos Lifestlye |
@@ -141,8 +141,8 @@
 | 133 | 411 | BadG52 |
 | 134 | 410 | ALFD |
 | 135 | 409 | Goose egg |
-| 136 | 406 | Candy Jones |
-| 137 | 406 | Desiree Deschaine Havee |
+| 136 | 406 | Desiree Deschaine Havee |
+| 137 | 406 | Candy Jones |
 | 138 | 402 | Chris K |
 | 139 | 399 | Nery Martinez |
 | 140 | 394 | Lori Bales |
@@ -237,8 +237,8 @@
 | 229 | 282 | Mandyy Rae |
 | 230 | 281 | Clever Cascadepiece |
 | 231 | 280 | Billie Dawn Sparks |
-| 232 | 277 | Melissa Lemmon |
-| 233 | 277 | Nutty Spinblock |
+| 232 | 277 | Nutty Spinblock |
+| 233 | 277 | Melissa Lemmon |
 | 234 | 275 | Chris65 |
 | 235 | 275 | Cheeky Pop |
 | 236 | 274 | Lakeisha Chapman |
