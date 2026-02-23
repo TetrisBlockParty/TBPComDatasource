@@ -82,8 +82,8 @@
 | 74 | 862 | Carolyn Wallace |
 | 75 | 855 | Peachy Fall |
 | 76 | 850 | Lucille Truesdale |
-| 77 | 846 | Amelpss |
-| 78 | 846 | Christine Marie |
+| 77 | 846 | Christine Marie |
+| 78 | 846 | Amelpss |
 | 79 | 841 | Shauna Havard |
 | 80 | 837 | Lisa Davis |
 | 81 | 834 | quicksand420 |
@@ -221,8 +221,8 @@
 | 213 | 411 | Autumn Kumzi |
 | 214 | 408 | April Rondinone |
 | 215 | 400 | Antony Dwayne Beasley |
-| 216 | 399 | Lindsay Ball |
-| 217 | 399 | Jeff Brian Gates |
+| 216 | 399 | Jeff Brian Gates |
+| 217 | 399 | Lindsay Ball |
 | 218 | 398 | Tyler Terrific |
 | 219 | 394 | Nita Wells |
 | 220 | 390 | Kathy Brookins |

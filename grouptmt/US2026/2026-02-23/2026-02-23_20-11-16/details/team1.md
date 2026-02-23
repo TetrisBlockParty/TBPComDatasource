@@ -336,8 +336,8 @@
 | 328 | 280 | Billie Dawn Sparks |
 | 329 | 279 | Chris Dawson |
 | 330 | 278 | Bob |
-| 331 | 277 | Nutty Spinblock |
-| 332 | 277 | Agustin Duarte Orozco |
+| 331 | 277 | Agustin Duarte Orozco |
+| 332 | 277 | Nutty Spinblock |
 | 333 | 276 | Blake Mckay |
 | 334 | 275 | Shiny Snapline |
 | 335 | 274 | Danielle Mae |
@@ -494,8 +494,8 @@
 | 486 | 196 | Vivienne Carter |
 | 487 | 196 | Kirk Torrey |
 | 488 | 195 | Herm Junior |
-| 489 | 194 | Nicole Meredith Flynn |
-| 490 | 194 | Amanda Wharton |
+| 489 | 194 | Amanda Wharton |
+| 490 | 194 | Nicole Meredith Flynn |
 | 491 | 194 | Sarah Henniker |
 | 492 | 193 | Rayshawn Beamer |
 | 493 | 193 | Giggly Rollfit |
