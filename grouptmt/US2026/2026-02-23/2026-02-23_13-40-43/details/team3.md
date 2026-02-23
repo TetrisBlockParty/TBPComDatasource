@@ -81,8 +81,8 @@
 | 73 | 1252 | Gracie |
 | 74 | 1244 | Lori Barnaby |
 | 75 | 1221 | Betty Ivy |
-| 76 | 1213 | Nerdy Riseclear |
-| 77 | 1213 | Snappy Glidepiece |
+| 76 | 1213 | Snappy Glidepiece |
+| 77 | 1213 | Nerdy Riseclear |
 | 78 | 1209 | Amanda Adkins |
 | 79 | 1186 | Christian A. Pollard |
 | 80 | 1134 | Denise Nardoni |
@@ -119,8 +119,8 @@
 | 111 | 869 | Araceli Parra |
 | 112 | 868 | Sarajane Lokan |
 | 113 | 860 | Sunny Rotater |
-| 114 | 851 | Danielle Becker |
-| 115 | 851 | Jd Morris |
+| 114 | 851 | Jd Morris |
+| 115 | 851 | Danielle Becker |
 | 116 | 850 | Danielle Mogg |
 | 117 | 848 | Patricia Gadsden |
 | 118 | 839 | Angeline Joseph |
@@ -172,28 +172,28 @@
 | 164 | 630 | yoyo |
 | 165 | 629 | rnr junky |
 | 166 | 622 | Denita Mungro |
-| 167 | 621 | Sashay Tapae Simpson |
-| 168 | 621 | Cherry Parker |
+| 167 | 621 | Cherry Parker |
+| 168 | 621 | Sashay Tapae Simpson |
 | 169 | 616 | Kammy Hill |
 | 170 | 611 | Rochelle Hazelett |
 | 171 | 603 | Jone |
 | 172 | 602 | Jacqueline Rodriguez |
 | 173 | 599 | opf |
 | 174 | 598 | Makelini Mausia |
-| 175 | 597 | Diana Ibarra |
-| 176 | 597 | CeceGeGe |
+| 175 | 597 | CeceGeGe |
+| 176 | 597 | Diana Ibarra |
 | 177 | 591 | Michael Nowogorski |
 | 178 | 589 | Kaycee Kay |
 | 179 | 587 | Louise Stacy Sisson |
-| 180 | 585 | Domo Washington |
-| 181 | 585 | Happy Tetriblast |
+| 180 | 585 | Happy Tetriblast |
+| 181 | 585 | Domo Washington |
 | 182 | 583 | Tasha Gillespie |
 | 183 | 582 | Natasha Jones |
 | 184 | 574 | Morgan Martinez |
 | 185 | 568 | Rachael McClain Owens |
 | 186 | 566 | LaTanya GeminiondaRise Johnson |
-| 187 | 564 | Poppy Splitter |
-| 188 | 564 | Christine Trester |
+| 187 | 564 | Christine Trester |
+| 188 | 564 | Poppy Splitter |
 | 189 | 563 | Jim Mathews |
 | 190 | 562 | Dave Herzog |
 | 191 | 561 | Elissa S-k |

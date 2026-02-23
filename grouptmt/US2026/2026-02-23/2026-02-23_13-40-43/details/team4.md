@@ -49,8 +49,8 @@
 | 41 | 1121 | Isabel Aguilar |
 | 42 | 1100 | Landon Keith Graffeo |
 | 43 | 1085 | Kimyatta Cavin |
-| 44 | 1082 | Dawn Alexander |
-| 45 | 1082 | Dion Crommarty |
+| 44 | 1082 | Dion Crommarty |
+| 45 | 1082 | Dawn Alexander |
 | 46 | 1071 | Cherrish Duren |
 | 47 | 1065 | Koshin Abdirahman |
 | 48 | 1051 | Ashley Ingram |
@@ -154,7 +154,7 @@
 | 146 | 448 | Kristin Manee |
 | 147 | 442 | ThaEviLJeNiuZ |
 | 148 | 435 | Kristina Black |
-| 149 | 434 | Nope Young |
+| 149 | 434 | Lindsey Gonzalez |
 | 150 | 434 | Mylo Lipscomb |
 | 151 | 434 | Nope Young |
 | 152 | 433 | Nick Gray |
@@ -221,9 +221,9 @@
 | 213 | 333 | Chris Alexinas |
 | 214 | 333 | Cranky Rollpiece |
 | 215 | 332 | HastyGrabber |
-| 216 | 331 | Lauren Scott |
-| 217 | 331 | Alan George LaRage |
-| 218 | 330 | J-Rizzle |
+| 216 | 331 | Alan George LaRage |
+| 217 | 331 | Lauren Scott |
+| 218 | 330 | Kathy Brookins |
 | 219 | 330 | blockstar |
 | 220 | 330 | J-Rizzle |
 | 221 | 324 | Lauren Lamb |
@@ -260,8 +260,8 @@
 | 252 | 290 | Rebecca Morris |
 | 253 | 290 | Jared Gutwein |
 | 254 | 289 | Juls |
-| 255 | 288 | Brittney Orengo |
-| 256 | 288 | Adam Stephanie Parker |
+| 255 | 288 | Adam Stephanie Parker |
+| 256 | 288 | Brittney Orengo |
 | 257 | 286 | KimoKoala |
 | 258 | 285 | Shiny Fit |
 | 259 | 285 | Kim Klutz Olson |

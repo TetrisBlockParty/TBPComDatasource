@@ -135,8 +135,8 @@
 | 127 | 466 | Adrian Esteban |
 | 128 | 463 | Lexuriuos Lifestlye |
 | 129 | 462 | Luciano Moreira |
-| 130 | 458 | Goose egg |
-| 131 | 458 | Evan Richmond |
+| 130 | 458 | Evan Richmond |
+| 131 | 458 | Goose egg |
 | 132 | 454 | Desiree Deschaine Havee |
 | 133 | 453 | Brandi Huntington |
 | 134 | 451 | Plucky Ziggy |
@@ -151,8 +151,8 @@
 | 143 | 434 | Yvonne Marie |
 | 144 | 428 | Ly Phethmany |
 | 145 | 426 | Maria C. Hernandez |
-| 146 | 425 | Tyler Werts |
-| 147 | 425 | Dandy Basegrid |
+| 146 | 425 | Dandy Basegrid |
+| 147 | 425 | Tyler Werts |
 | 148 | 423 | ALFD |
 | 149 | 417 | Phu ckalldems |
 | 150 | 416 | Jessica Sheehan |

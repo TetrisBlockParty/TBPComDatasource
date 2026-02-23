@@ -44,8 +44,8 @@
 | 36 | 4301 | Mighty Patternzone |
 | 37 | 4199 | Claire Noland |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Kristen Sceurman |
-| 40 | 4120 | Corrine Hawks Soriano |
+| 39 | 4120 | Corrine Hawks Soriano |
+| 40 | 4120 | Kristen Sceurman |
 | 41 | 4086 | PandaMama |
 | 42 | 4006 | CoolKat |
 | 43 | 3960 | Brittany Alicia |
@@ -374,8 +374,8 @@
 | 366 | 902 | Diallo Sparkman |
 | 367 | 901 | Kevin Sees |
 | 368 | 899 | Felicia Lynn |
-| 369 | 899 | Patrick Bartlett |
-| 370 | 899 | Chevy |
+| 369 | 899 | Chevy |
+| 370 | 899 | Patrick Bartlett |
 | 371 | 895 | Lisa Ongtowasruk |
 | 372 | 895 | Donna Colby |
 | 373 | 894 | Adira Brown |
@@ -413,8 +413,8 @@
 | 405 | 828 | Desire Rice |
 | 406 | 828 | Kimmy Newman |
 | 407 | 825 | Jeremy Parodi |
-| 408 | 824 | Danielle Johnson-Chandler |
-| 409 | 824 | Khalil Lowe |
+| 408 | 824 | Khalil Lowe |
+| 409 | 824 | Danielle Johnson-Chandler |
 | 410 | 822 | Lola Contreras |
 | 411 | 819 | Victoria Regina Girolami |
 | 412 | 816 | Beth |
@@ -476,8 +476,8 @@
 | 468 | 750 | Draizen Montrell Thomas |
 | 469 | 750 | Michael Buckner |
 | 470 | 748 | Ann Matzkanin |
-| 471 | 742 | Cassie Maynard |
-| 472 | 742 | Ganieda |
+| 471 | 742 | Ganieda |
+| 472 | 742 | Cassie Maynard |
 | 473 | 740 | Jerry Tempelmeyer |
 | 474 | 737 | Ginger |
 | 475 | 737 | Chelle |
@@ -664,8 +664,8 @@
 | 656 | 570 | Polly Pritchard Chesler |
 | 657 | 569 | Sparkles |
 | 658 | 566 | Lindsey Leigh |
-| 659 | 566 | SwampRebel |
-| 660 | 566 | Tina Marie |
+| 659 | 566 | Tina Marie |
+| 660 | 566 | SwampRebel |
 | 661 | 564 | Stacey Tranchida |
 | 662 | 563 | Lee Harper |
 | 663 | 563 | Nat |
@@ -686,15 +686,15 @@
 | 678 | 551 | Matt Johnson |
 | 679 | 550 | Michelle Sager |
 | 680 | 550 | Shorty |
-| 681 | 549 | Kaylee McCafferty |
-| 682 | 549 | Crystal Hodge Love |
+| 681 | 549 | Crystal Hodge Love |
+| 682 | 549 | Kaylee McCafferty |
 | 683 | 548 | Sunshine711 |
 | 684 | 547 | CC |
-| 685 | 547 | Sonya Back |
-| 686 | 547 | Hunter Connors |
+| 685 | 547 | Hunter Connors |
+| 686 | 547 | Sonya Back |
 | 687 | 546 | NanDa Cruzan VI |
-| 688 | 545 | Maxwell Escalera |
-| 689 | 545 | Angela Yantz |
+| 688 | 545 | Angela Yantz |
+| 689 | 545 | Maxwell Escalera |
 | 690 | 544 | Deidre Shaffer |
 | 691 | 544 | Armonie Smith |
 | 692 | 542 | Jarboe |
