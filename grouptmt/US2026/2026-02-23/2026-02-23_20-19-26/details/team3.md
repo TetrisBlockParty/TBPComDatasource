@@ -108,8 +108,8 @@
 | 100 | 1101 | Stephanie Rice |
 | 101 | 1094 | JerseyJess |
 | 102 | 1093 | Angela M. Fletcher |
-| 103 | 1056 | Ebony West-Cundiff |
-| 104 | 1056 | joclisa |
+| 103 | 1056 | joclisa |
+| 104 | 1056 | Ebony West-Cundiff |
 | 105 | 1050 | Sherika C. McDaniels |
 | 106 | 1041 | Patricia Gadsden |
 | 107 | 1038 | Mandy Smith Oldham |
@@ -429,8 +429,8 @@
 | 421 | 318 | Beppy |
 | 422 | 317 | Funky Jumper |
 | 423 | 316 | Travis W |
-| 424 | 315 | Julie Fratrik |
-| 425 | 315 | Colton |
+| 424 | 315 | Colton |
+| 425 | 315 | Julie Fratrik |
 | 426 | 314 | Tipsy Zonebuilder |
 | 427 | 313 | Hoppy Buildout |
 | 428 | 312 | Eric Caccavale |
@@ -511,8 +511,8 @@
 | 503 | 272 | Megan Riggins |
 | 504 | 272 | Todd Hall |
 | 505 | 271 | Hyper Twisterfit |
-| 506 | 270 | Rachel Napper |
-| 507 | 270 | LaNette Morgan |
+| 506 | 270 | LaNette Morgan |
+| 507 | 270 | Rachel Napper |
 | 508 | 270 | Hyper Bridger |
 | 509 | 269 | Sunny Lift |
 | 510 | 269 | Aponk |
@@ -1312,7 +1312,7 @@
 | 1304 | 108 | RedLego |
 | 1305 | 107 | Eboni-Jade Wooten |
 | 1306 | 107 | Endawg |
-| 1307 | 107 | Amanda Martinez |
+| 1307 | 107 | Christina Dawn Bowen |
 | 1308 | 107 | Ron Laliberte |
 | 1309 | 107 | Amanda Martinez |
 | 1310 | 106 | Kojo |

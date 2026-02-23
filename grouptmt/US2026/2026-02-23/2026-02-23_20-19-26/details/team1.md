@@ -52,8 +52,8 @@
 | 44 | 1166 | Felicia Lewis |
 | 45 | 1138 | june october |
 | 46 | 1127 | Jen Sartain |
-| 47 | 1126 | Tipsy Column |
-| 48 | 1126 | Tater |
+| 47 | 1126 | Tater |
+| 48 | 1126 | Tipsy Column |
 | 49 | 1122 | Kristen Gideon |
 | 50 | 1114 | Andrea Dañielle Ortiz |
 | 51 | 1114 | Jayme Sellers |
@@ -159,8 +159,8 @@
 | 151 | 483 | Trina Gee |
 | 152 | 482 | Sarah Somers Gray |
 | 153 | 478 | Adrian Esteban |
-| 154 | 476 | Ly Phethmany |
-| 155 | 476 | phrmblk24 |
+| 154 | 476 | phrmblk24 |
+| 155 | 476 | Ly Phethmany |
 | 156 | 475 | Plucky Ziggy |
 | 157 | 472 | Hellsin |
 | 158 | 470 | Candy Jones |
@@ -293,11 +293,11 @@
 | 285 | 315 | Flashy Rotator |
 | 286 | 313 | Cody Gates |
 | 287 | 312 | Danielle S Kester |
-| 288 | 311 | Jumpy Dropper |
-| 289 | 311 | Nathan Sealander |
-| 290 | 310 | Matt Iaccheo |
+| 288 | 311 | Nathan Sealander |
+| 289 | 311 | Jumpy Dropper |
+| 290 | 310 | Mrs.Patrica |
 | 291 | 310 | Billie Ann Eason |
-| 292 | 310 | Mrs.Patrica |
+| 292 | 310 | Matt Iaccheo |
 | 293 | 308 | Speedy Liney |
 | 294 | 307 | Jessica Russell |
 | 295 | 306 | Cece Ibarra |

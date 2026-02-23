@@ -59,9 +59,9 @@
 | 51 | 1147 | Jae Job |
 | 52 | 1099 | Ashley Ingram |
 | 53 | 1085 | Kimyatta Cavin |
-| 54 | 1082 | Dion Crommarty |
-| 55 | 1082 | Avy Absol |
-| 56 | 1082 | Dawn Alexander |
+| 54 | 1082 | Dawn Alexander |
+| 55 | 1082 | Dion Crommarty |
+| 56 | 1082 | Avy Absol |
 | 57 | 1049 | Heather Tushner |
 | 58 | 1046 | Johnathan Martinez |
 | 59 | 1030 | Dustee Craddock-Harrison |
@@ -82,8 +82,8 @@
 | 74 | 862 | Carolyn Wallace |
 | 75 | 855 | Peachy Fall |
 | 76 | 850 | Lucille Truesdale |
-| 77 | 846 | Christine Marie |
-| 78 | 846 | Amelpss |
+| 77 | 846 | Amelpss |
+| 78 | 846 | Christine Marie |
 | 79 | 841 | Shauna Havard |
 | 80 | 837 | Lisa Davis |
 | 81 | 834 | quicksand420 |
@@ -118,8 +118,8 @@
 | 110 | 667 | Amy Suckarieh |
 | 111 | 663 | H.R. Block |
 | 112 | 659 | Jamie Gustafson |
-| 113 | 658 | Zippy Gridlock |
-| 114 | 658 | Girl |
+| 113 | 658 | Girl |
+| 114 | 658 | Zippy Gridlock |
 | 115 | 652 | Leslie Nicole |
 | 116 | 649 | Chris Alexinas |
 | 117 | 647 | Lindsey Gonzalez |
@@ -221,8 +221,8 @@
 | 213 | 411 | Mimi |
 | 214 | 411 | Silly Zonebuilder |
 | 215 | 400 | Antony Dwayne Beasley |
-| 216 | 399 | Jeff Brian Gates |
-| 217 | 399 | Lindsay Ball |
+| 216 | 399 | Lindsay Ball |
+| 217 | 399 | Jeff Brian Gates |
 | 218 | 398 | Tyler Terrific |
 | 219 | 394 | Nita Wells |
 | 220 | 390 | Kathy Brookins |
@@ -242,8 +242,8 @@
 | 234 | 373 | JPW |
 | 235 | 372 | Holly Jolly |
 | 236 | 369 | Matt Dell'Olio |
-| 237 | 368 | Deanna Deckard |
-| 238 | 368 | Kris Bartlett |
+| 237 | 368 | Kris Bartlett |
+| 238 | 368 | Deanna Deckard |
 | 239 | 367 | Sue Joyce Staats |
 | 240 | 367 | Meg |
 | 241 | 365 | Hyper Builder |
@@ -256,8 +256,8 @@
 | 248 | 360 | Ari Droff |
 | 249 | 360 | James Hurley Jr. |
 | 250 | 358 | TinyLegoRose |
-| 251 | 358 | A5! |
-| 252 | 358 | Twisty Cascadezone |
+| 251 | 358 | Twisty Cascadezone |
+| 252 | 358 | A5! |
 | 253 | 356 | mike |
 | 254 | 356 | Joeliecea Cobb |
 | 255 | 355 | David Lay |
@@ -1655,7 +1655,7 @@
 | 1647 | 17 | Kyawt Sandi Thwe |
 | 1648 | 17 | Jenna Keen |
 | 1649 | 17 | Pat YaYa King |
-| 1650 | 17 | Jenna Keen |
+| 1650 | 17 | Stephanie Nash |
 | 1651 | 17 | Spicy T-spin |
 | 1652 | 17 | Dandre |
 | 1653 | 17 | Conni Brown |
