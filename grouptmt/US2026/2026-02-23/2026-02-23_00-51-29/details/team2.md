@@ -92,8 +92,8 @@
 | 84 | 2298 | Brent Bittenbender |
 | 85 | 2266 | Deanna Morton |
 | 86 | 2261 | CoolKat |
-| 87 | 2243 | Melissa Rebbe-Lehman |
-| 88 | 2243 | E_Money04 |
+| 87 | 2243 | E_Money04 |
+| 88 | 2243 | Melissa Rebbe-Lehman |
 | 89 | 2216 | Alicia Parrish |
 | 90 | 2165 | Tj Ball |
 | 91 | 2148 | Roger Grabbit |
@@ -388,8 +388,8 @@
 | 380 | 737 | Ginger |
 | 381 | 729 | goofinoff |
 | 382 | 728 | Charvi' Carter |
-| 383 | 728 | Allan Wayne Lamia |
-| 384 | 728 | Dylan Thomason |
+| 383 | 728 | Dylan Thomason |
+| 384 | 728 | Allan Wayne Lamia |
 | 385 | 728 | Tom Riefer |
 | 386 | 725 | Vonceial Boone |
 | 387 | 724 | Melissa Holsinger |

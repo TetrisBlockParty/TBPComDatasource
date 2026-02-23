@@ -52,8 +52,8 @@
 | 44 | 855 | Marvin Lou Martin |
 | 45 | 851 | Jae Job |
 | 46 | 848 | TeeJ |
-| 47 | 846 | Lucille Truesdale |
-| 48 | 846 | Christine Marie |
+| 47 | 846 | Christine Marie |
+| 48 | 846 | Lucille Truesdale |
 | 49 | 845 | LisaJo Picken Buchanan |
 | 50 | 843 | Shelly Chandler |
 | 51 | 834 | quicksand420 |
@@ -175,8 +175,8 @@
 | 167 | 328 | Kris Bartlett |
 | 168 | 324 | jim |
 | 169 | 322 | J-Rizzle |
-| 170 | 320 | TRCuse |
-| 171 | 320 | Lauren Scott |
+| 170 | 320 | Lauren Scott |
+| 171 | 320 | TRCuse |
 | 172 | 316 | Meagan Nicole |
 | 173 | 314 | Andy Cabral |
 | 174 | 314 | shark tato |
@@ -224,8 +224,8 @@
 | 216 | 266 | blockstar |
 | 217 | 265 | Sarah Neathery |
 | 218 | 264 | Carlos Ramirez |
-| 219 | 261 | Dihcheese444 |
-| 220 | 261 | scott |
+| 219 | 261 | scott |
+| 220 | 261 | Dihcheese444 |
 | 221 | 259 | Montiette Mcglown |
 | 222 | 258 | April Rondinone |
 | 223 | 257 | Matt Gooder |

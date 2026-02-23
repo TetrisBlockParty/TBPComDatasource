@@ -96,8 +96,8 @@
 | 88 | 500 | Evie Khalil |
 | 89 | 496 | Sarah Lombardo |
 | 90 | 494 | Arianna O'Brien |
-| 91 | 493 | MomMom |
-| 92 | 493 | Jennifer ManWarren |
+| 91 | 493 | Jennifer ManWarren |
+| 92 | 493 | MomMom |
 | 93 | 492 | Ash Galvan |
 | 94 | 489 | Deanna L Hermanson |
 | 95 | 486 | Tater |
@@ -149,8 +149,8 @@
 | 141 | 364 | Shauna Loe |
 | 142 | 361 | Tanya Carpenter-Reynolds |
 | 143 | 361 | Amanda Johnson Huffman |
-| 144 | 360 | Wisa |
-| 145 | 360 | phrmblk24 |
+| 144 | 360 | phrmblk24 |
+| 145 | 360 | Wisa |
 | 146 | 359 | Chirpy Smasher |
 | 147 | 357 | Jason Savage |
 | 148 | 353 | Josh Riemer |
@@ -242,8 +242,8 @@
 | 234 | 244 | Marianita Garcia |
 | 235 | 242 | ParisandCory Champagne |
 | 236 | 241 | Tyler Hertzog |
-| 237 | 240 | Daring Fitclear |
-| 238 | 240 | DaRascal |
+| 237 | 240 | DaRascal |
+| 238 | 240 | Daring Fitclear |
 | 239 | 239 | Lacy Wolfe |
 | 240 | 238 | Sarah Somers Gray |
 | 241 | 238 | Tiffany Smith |
@@ -252,13 +252,13 @@
 | 244 | 233 | LC |
 | 245 | 231 | Angela Fairbank |
 | 246 | 230 | Flashy Rotator |
-| 247 | 230 | Diane Byrd |
-| 248 | 230 | Thorne Shumate |
-| 249 | 230 | Michael |
-| 250 | 230 | BigWeenie69 |
-| 251 | 228 | Adele Rahman |
-| 252 | 228 | Shiny Gridmatch |
-| 253 | 228 | Giddy Cascade |
+| 247 | 230 | Michael |
+| 248 | 230 | Diane Byrd |
+| 249 | 230 | BigWeenie69 |
+| 250 | 230 | Thorne Shumate |
+| 251 | 228 | Shiny Gridmatch |
+| 252 | 228 | Giddy Cascade |
+| 253 | 228 | Adele Rahman |
 | 254 | 227 | Tipsy Riseclear |
 | 255 | 226 | Glitzy Buildsnap |
 | 256 | 223 | Christina Backer |
@@ -268,8 +268,8 @@
 | 260 | 222 | Snappy Bridgepiece |
 | 261 | 222 | Brave Wrecker |
 | 262 | 221 | Amy Hess |
-| 263 | 220 | Sarah Marie |
-| 264 | 220 | Cece Ibarra |
+| 263 | 220 | Cece Ibarra |
+| 264 | 220 | Sarah Marie |
 | 265 | 220 | Bouncy Grid |
 | 266 | 219 | Chuck Gannon |
 | 267 | 219 | Jumpy Rotate |
@@ -341,8 +341,8 @@
 | 333 | 183 | Dino |
 | 334 | 182 | Nathan Sealander |
 | 335 | 181 | David DeSantis |
-| 336 | 180 | Rico Rico |
-| 337 | 180 | Discovery Point |
+| 336 | 180 | Discovery Point |
+| 337 | 180 | Rico Rico |
 | 338 | 179 | Ryan White |
 | 339 | 178 | Vivienne Carter |
 | 340 | 178 | Teri Oehlke |
