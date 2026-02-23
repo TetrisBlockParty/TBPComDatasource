@@ -139,8 +139,8 @@
 | 131 | 584 | Carlton Unfiltered |
 | 132 | 575 | Jenna Ingersoll |
 | 133 | 574 | Carmethia Clemons Haslerig |
-| 134 | 573 | Cursed Hag |
-| 135 | 573 | shar |
+| 134 | 573 | shar |
+| 135 | 573 | Cursed Hag |
 | 136 | 561 | YoMomma |
 | 137 | 560 | Chastity Mitchell |
 | 138 | 557 | Chilly Crasher |
@@ -258,8 +258,8 @@
 | 250 | 363 | KimoKoala |
 | 251 | 361 | Danielle Kollias |
 | 252 | 361 | Rafael Valentin |
-| 253 | 360 | James Hurley Jr. |
-| 254 | 360 | Ari Droff |
+| 253 | 360 | Ari Droff |
+| 254 | 360 | James Hurley Jr. |
 | 255 | 358 | Twisty Cascadezone |
 | 256 | 356 | mike |
 | 257 | 356 | Joeliecea Cobb |
@@ -1090,8 +1090,8 @@
 | 1082 | 68 | Becky Irby |
 | 1083 | 68 | Snappy Combofall |
 | 1084 | 68 | Miriam Ruiz |
-| 1085 | 68 | Loopy Rollbuilder |
-| 1086 | 68 | zelda Morgan |
+| 1085 | 68 | zelda Morgan |
+| 1086 | 68 | Loopy Rollbuilder |
 | 1087 | 67 | Zappy Piecefit |
 | 1088 | 67 | sgt baby |
 | 1089 | 67 | Bruce Gal |

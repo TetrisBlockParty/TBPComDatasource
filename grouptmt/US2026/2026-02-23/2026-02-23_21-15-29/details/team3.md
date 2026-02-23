@@ -224,8 +224,8 @@
 | 216 | 576 | Nicole Flippo |
 | 217 | 571 | Salena Whitlock |
 | 218 | 570 | Twisty Brick LT |
-| 219 | 569 | Juliana Dottore |
-| 220 | 569 | Michael Johnson |
+| 219 | 569 | Michael Johnson |
+| 220 | 569 | Juliana Dottore |
 | 221 | 568 | Rachael McClain Owens |
 | 222 | 567 | FuzzyNavel |
 | 223 | 566 | LaTanya GeminiondaRise Johnson |
@@ -471,10 +471,10 @@
 | 463 | 302 | Willow |
 | 464 | 301 | Betty Rosas |
 | 465 | 299 | Hasty Gridpiece |
-| 466 | 299 | Samantha Worley |
-| 467 | 299 | Angie Harper |
-| 468 | 298 | Dannie Litchard |
-| 469 | 298 | Grams |
+| 466 | 299 | Angie Harper |
+| 467 | 299 | Samantha Worley |
+| 468 | 298 | Grams |
+| 469 | 298 | Dannie Litchard |
 | 470 | 298 | Hasty Pop |
 | 471 | 297 | Quirky Snapfit |
 | 472 | 297 | Zac Hudak |
@@ -1306,7 +1306,7 @@
 | 1298 | 110 | Jennifer Carpenter |
 | 1299 | 110 | Tara Taylor |
 | 1300 | 110 | JC99 |
-| 1301 | 109 | Peachy Patternblock |
+| 1301 | 109 | Kari Gibson Simmons |
 | 1302 | 109 | Me,Him,Yu |
 | 1303 | 109 | Peachy Patternblock |
 | 1304 | 109 | mommablock |
