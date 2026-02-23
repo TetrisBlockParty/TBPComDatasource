@@ -102,18 +102,18 @@
 | 94 | 529 | Ryan Lunnin |
 | 95 | 522 | Sarah Lombardo |
 | 96 | 511 | Mario Cab |
-| 97 | 510 | Chirpy Smasher |
-| 98 | 510 | Colena Davenport |
+| 97 | 510 | Colena Davenport |
+| 98 | 510 | Chirpy Smasher |
 | 99 | 509 | Rachael |
 | 100 | 497 | Arianna O'Brien |
-| 101 | 493 | MomMom |
-| 102 | 493 | Jennifer ManWarren |
+| 101 | 493 | Jennifer ManWarren |
+| 102 | 493 | MomMom |
 | 103 | 492 | Ash Galvan |
 | 104 | 491 | cc |
-| 105 | 489 | Deanna L Hermanson |
-| 106 | 489 | April Carroll |
-| 107 | 483 | Tdub |
-| 108 | 483 | Trina Gee |
+| 105 | 489 | April Carroll |
+| 106 | 489 | Deanna L Hermanson |
+| 107 | 483 | Trina Gee |
+| 108 | 483 | Tdub |
 | 109 | 480 | Ty Brown |
 | 110 | 478 | Stephanie Zahn |
 | 111 | 463 | Lexuriuos Lifestlye |
@@ -124,8 +124,8 @@
 | 116 | 451 | Plucky Ziggy |
 | 117 | 450 | lil mickey |
 | 118 | 449 | Anaid Sanchez |
-| 119 | 448 | Jazzy Framezone |
-| 120 | 448 | Sweet Baker |
+| 119 | 448 | Sweet Baker |
+| 120 | 448 | Jazzy Framezone |
 | 121 | 446 | SkipTheSadSauce |
 | 122 | 443 | Steve Schneider |
 | 123 | 439 | Dee Perry |
@@ -155,8 +155,8 @@
 | 147 | 383 | Margo Wagner |
 | 148 | 383 | pjbeta |
 | 149 | 380 | phrmblk24 |
-| 150 | 379 | Austin James |
-| 151 | 379 | Kimmie Kimms |
+| 150 | 379 | Kimmie Kimms |
+| 151 | 379 | Austin James |
 | 152 | 378 | Carrie Smith |
 | 153 | 376 | Brian Richardsson |
 | 154 | 376 | Death |
@@ -178,8 +178,8 @@
 | 170 | 353 | Josh Riemer |
 | 171 | 353 | Jaimie Lynn |
 | 172 | 350 | Tipsy Strikerpiece |
-| 173 | 349 | Cool Shiftsnap |
-| 174 | 349 | Oscar Zamora |
+| 173 | 349 | Oscar Zamora |
+| 174 | 349 | Cool Shiftsnap |
 | 175 | 348 | Chelsea Dahlquist |
 | 176 | 346 | Erin Rosberg |
 | 177 | 346 | GATOR |
@@ -213,8 +213,8 @@
 | 205 | 310 | Bloknboy |
 | 206 | 307 | femmefatale |
 | 207 | 306 | Angela Renea Lester |
-| 208 | 301 | Damon J. Martin |
-| 209 | 301 | Cody Gates |
+| 208 | 301 | Cody Gates |
+| 209 | 301 | Damon J. Martin |
 | 210 | 300 | Sleepysloath5745 |
 | 211 | 298 | Billie Ann Eason |
 | 212 | 295 | Sweetts |
@@ -238,8 +238,8 @@
 | 230 | 280 | Billie Dawn Sparks |
 | 231 | 277 | Melissa Lemmon |
 | 232 | 277 | Nutty Spinblock |
-| 233 | 275 | Chris65 |
-| 234 | 275 | Cheeky Pop |
+| 233 | 275 | Cheeky Pop |
+| 234 | 275 | Chris65 |
 | 235 | 274 | Lakeisha Chapman |
 | 236 | 273 | Shannon Marie Pitts |
 | 237 | 272 | Tawnya Peltonen |

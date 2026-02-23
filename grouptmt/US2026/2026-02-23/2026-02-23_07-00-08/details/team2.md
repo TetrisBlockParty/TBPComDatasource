@@ -44,8 +44,8 @@
 | 36 | 4199 | Claire Noland |
 | 37 | 4128 | Angela Pruitt |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Corrine Hawks Soriano |
-| 40 | 4120 | Kristen Sceurman |
+| 39 | 4120 | Kristen Sceurman |
+| 40 | 4120 | Corrine Hawks Soriano |
 | 41 | 3845 | jayjay |
 | 42 | 3813 | Devin Lee |
 | 43 | 3778 | Brittany Alicia |
@@ -93,8 +93,8 @@
 | 85 | 2515 | Crystalin Heath Lewis |
 | 86 | 2500 | Rosemadder |
 | 87 | 2438 | Rob Surace |
-| 88 | 2428 | Deanna Morton |
-| 89 | 2428 | Thomas Hughes |
+| 88 | 2428 | Thomas Hughes |
+| 89 | 2428 | Deanna Morton |
 | 90 | 2418 | Ashley House |
 | 91 | 2415 | Gabby Jenner |
 | 92 | 2410 | RdRydnHd |
@@ -313,8 +313,8 @@
 | 305 | 969 | Em Chen |
 | 306 | 969 | Boldy Cascadepiece |
 | 307 | 961 | Angela Lynn |
-| 308 | 958 | Doowop40 |
-| 309 | 958 | Brenda Messer |
+| 308 | 958 | Brenda Messer |
+| 309 | 958 | Doowop40 |
 | 310 | 957 | Block Master |
 | 311 | 956 | Phil J. Grombliniak |
 | 312 | 955 | Angela Bonquiqui Dinish |
@@ -682,8 +682,8 @@
 | 674 | 509 | Toni Whipple |
 | 675 | 509 | Jordan Kaiser |
 | 676 | 508 | Daphne Jordan |
-| 677 | 507 | Crystal Heller Gonzalez |
-| 678 | 507 | Funky Caster |
+| 677 | 507 | Funky Caster |
+| 678 | 507 | Crystal Heller Gonzalez |
 | 679 | 506 | Cblock |
 | 680 | 505 | Casey Schumacher |
 | 681 | 504 | Alyssa Nadine Medelez |
@@ -817,16 +817,16 @@
 | 809 | 438 | Kelly Amos |
 | 810 | 438 | Deyawn Smith |
 | 811 | 437 | Oscar Bernie |
-| 812 | 437 | Anthony |
-| 813 | 437 | Shalisa Hill |
+| 812 | 437 | Shalisa Hill |
+| 813 | 437 | Anthony |
 | 814 | 436 | Regina Knight |
 | 815 | 436 | Christina Loftus |
 | 816 | 435 | Taylor Flowers |
 | 817 | 435 | John |
 | 818 | 435 | Snappy snappers |
 | 819 | 434 | Twisty Tetriblast |
-| 820 | 433 | Jessica Hughes |
-| 821 | 433 | Melissa Koria |
+| 820 | 433 | Melissa Koria |
+| 821 | 433 | Jessica Hughes |
 | 822 | 432 | Michelle Shrum |
 | 823 | 431 | Quinn |
 | 824 | 431 | Lewis Sturgeon |
@@ -937,8 +937,8 @@
 | 929 | 390 | Kyla Louise |
 | 930 | 389 | Loony Basepiece |
 | 931 | 388 | Kristina Marie Hanna |
-| 932 | 388 | Tamara Bailey |
-| 933 | 388 | Alice Ball |
+| 932 | 388 | Alice Ball |
+| 933 | 388 | Tamara Bailey |
 | 934 | 387 | David Holliday |
 | 935 | 387 | Bryan Werleman |
 | 936 | 386 | Yasmin Guzman |
@@ -947,9 +947,9 @@
 | 939 | 385 | Kirsten Marie Lomupo |
 | 940 | 385 | Lola C Davis |
 | 941 | 385 | stacey |
-| 942 | 385 | Iris Angelica Perez Cantos |
-| 943 | 385 | Lawanda Forbes |
-| 944 | 385 | Samuel Labruno |
+| 942 | 385 | Samuel Labruno |
+| 943 | 385 | Iris Angelica Perez Cantos |
+| 944 | 385 | Lawanda Forbes |
 | 945 | 384 | King Shamell Young |
 | 946 | 384 | Savannah Alexander |
 | 947 | 383 | Jane Crew |

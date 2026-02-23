@@ -113,15 +113,15 @@
 | 105 | 868 | Sarajane Lokan |
 | 106 | 866 | Ebony West-Cundiff |
 | 107 | 860 | Sunny Rotater |
-| 108 | 851 | Danielle Becker |
-| 109 | 851 | Jd Morris |
+| 108 | 851 | Jd Morris |
+| 109 | 851 | Danielle Becker |
 | 110 | 850 | Danielle Mogg |
 | 111 | 848 | Patricia Gadsden |
 | 112 | 831 | Angeline Joseph |
 | 113 | 830 | Stephanie Allmon |
 | 114 | 826 | Shane Wilson Jr. |
-| 115 | 816 | Brenda Lee Vander Molen |
-| 116 | 816 | Jesse Olive |
+| 115 | 816 | Jesse Olive |
+| 116 | 816 | Brenda Lee Vander Molen |
 | 117 | 802 | Bobbi Moore |
 | 118 | 800 | Lauren Girouard |
 | 119 | 799 | Dolores Falco |
@@ -160,8 +160,8 @@
 | 152 | 634 | Amber Hughes |
 | 153 | 630 | yoyo |
 | 154 | 629 | Patricia White |
-| 155 | 621 | Sashay Tapae Simpson |
-| 156 | 621 | Cherry Parker |
+| 155 | 621 | Cherry Parker |
+| 156 | 621 | Sashay Tapae Simpson |
 | 157 | 616 | Kammy Hill |
 | 158 | 611 | Rochelle Hazelett |
 | 159 | 607 | Grego Daniel |
@@ -211,8 +211,8 @@
 | 203 | 488 | Melissa Orth Hunter |
 | 204 | 485 | Dapper Snap |
 | 205 | 484 | Fallorina Susana |
-| 206 | 480 | Michael Johnson |
-| 207 | 480 | Danielle Allison |
+| 206 | 480 | Danielle Allison |
+| 207 | 480 | Michael Johnson |
 | 208 | 475 | Tessina Dewey-Mancino |
 | 209 | 473 | Rachel |
 | 210 | 473 | Connie Mohler-Fair |
@@ -247,7 +247,7 @@
 | 239 | 395 | rosy |
 | 240 | 391 | Trisha Balmer |
 | 241 | 391 | Nicole Flippo |
-| 242 | 391 | Trisha Balmer |
+| 242 | 391 | RickyG |
 | 243 | 387 | Gideon Walker |
 | 244 | 383 | Darlene McMillan |
 | 245 | 382 | Giddy Twistbuilder |
@@ -268,8 +268,8 @@
 | 260 | 368 | Sheila M Frazier |
 | 261 | 368 | Stephanie Woods |
 | 262 | 367 | Kristin Delibac Corrigan |
-| 263 | 366 | Randy Clevenger |
-| 264 | 366 | Gumbo |
+| 263 | 366 | Gumbo |
+| 264 | 366 | Randy Clevenger |
 | 265 | 365 | Noyb Adam |
 | 266 | 364 | Steffi Chris Dacones |
 | 267 | 364 | Carrie Huskey |
@@ -515,8 +515,8 @@
 | 507 | 209 | Jumpy Wrecker |
 | 508 | 208 | Jessica Christian |
 | 509 | 208 | Luccy Luxe |
-| 510 | 207 | Misstery |
-| 511 | 207 | Nichol Graham |
+| 510 | 207 | Nichol Graham |
+| 511 | 207 | Misstery |
 | 512 | 206 | Tammy Rosenberry |
 | 513 | 206 | Dakota Graham |
 | 514 | 205 | Rachel Napper |

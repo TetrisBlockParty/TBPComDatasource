@@ -26,8 +26,8 @@
 | 18 | 1636 | Cassie Michaux |
 | 19 | 1565 | GreenJeepGirl |
 | 20 | 1558 | Leah Gorsuch |
-| 21 | 1536 | Roger Coulter |
-| 22 | 1536 | Misty Hollibaugh |
+| 21 | 1536 | Misty Hollibaugh |
+| 22 | 1536 | Roger Coulter |
 | 23 | 1485 | Juggalo |
 | 24 | 1390 | Sammy Noguera |
 | 25 | 1382 | Tammi Crnza |
@@ -157,8 +157,8 @@
 | 149 | 414 | Nope Young |
 | 150 | 412 | Jessica Bohlken |
 | 151 | 408 | Amanda Pauldo-Ivy |
-| 152 | 406 | Livvy |
-| 153 | 406 | Damn Libra |
+| 152 | 406 | Damn Libra |
+| 153 | 406 | Livvy |
 | 154 | 398 | Tyler Terrific |
 | 155 | 393 | Carlton Unfiltered |
 | 156 | 393 | Girl |
@@ -186,8 +186,8 @@
 | 178 | 349 | Twisty Cascadezone |
 | 179 | 349 | Rafael Valentin |
 | 180 | 348 | April Rondinone |
-| 181 | 347 | Crystal Nicolette Moore |
-| 182 | 347 | Daria Rycewicz |
+| 181 | 347 | Daria Rycewicz |
+| 182 | 347 | Crystal Nicolette Moore |
 | 183 | 339 | David Lay |
 | 184 | 336 | Bio Nelly |
 | 185 | 335 | James Hurley Jr. |
