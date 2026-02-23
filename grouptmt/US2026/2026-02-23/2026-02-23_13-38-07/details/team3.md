@@ -133,8 +133,8 @@
 | 125 | 779 | Justin Ritter |
 | 126 | 774 | Keith J Oshman Jr. |
 | 127 | 773 | Daira Largen |
-| 128 | 764 | Hasty Cascadefit |
-| 129 | 764 | Groovy Catcher |
+| 128 | 764 | Groovy Catcher |
+| 129 | 764 | Hasty Cascadefit |
 | 130 | 762 | Speedy Bridger |
 | 131 | 755 | Fancy Cascader |
 | 132 | 755 | Katrina Schroeder |
@@ -185,15 +185,15 @@
 | 177 | 591 | Michael Nowogorski |
 | 178 | 589 | Kaycee Kay |
 | 179 | 587 | Louise Stacy Sisson |
-| 180 | 585 | Domo Washington |
-| 181 | 585 | Happy Tetriblast |
+| 180 | 585 | Happy Tetriblast |
+| 181 | 585 | Domo Washington |
 | 182 | 583 | Tasha Gillespie |
 | 183 | 582 | Natasha Jones |
 | 184 | 574 | Morgan Martinez |
 | 185 | 568 | Rachael McClain Owens |
 | 186 | 566 | LaTanya GeminiondaRise Johnson |
-| 187 | 564 | Poppy Splitter |
-| 188 | 564 | Christine Trester |
+| 187 | 564 | Christine Trester |
+| 188 | 564 | Poppy Splitter |
 | 189 | 563 | Jim Mathews |
 | 190 | 562 | Dave Herzog |
 | 191 | 561 | Elissa S-k |
@@ -460,8 +460,8 @@
 | 452 | 256 | Christina Rotz Shows |
 | 453 | 255 | Mariah Williams |
 | 454 | 255 | Erykah |
-| 455 | 254 | Katheline Lazo Luizaga |
-| 456 | 254 | Blair Erin Waite |
+| 455 | 254 | Blair Erin Waite |
+| 456 | 254 | Katheline Lazo Luizaga |
 | 457 | 253 | crystal |
 | 458 | 253 | Hyper Bridger |
 | 459 | 253 | Bryan Byrd |

@@ -49,8 +49,8 @@
 | 41 | 1121 | Isabel Aguilar |
 | 42 | 1100 | Landon Keith Graffeo |
 | 43 | 1085 | Kimyatta Cavin |
-| 44 | 1082 | Dawn Alexander |
-| 45 | 1082 | Dion Crommarty |
+| 44 | 1082 | Dion Crommarty |
+| 45 | 1082 | Dawn Alexander |
 | 46 | 1071 | Cherrish Duren |
 | 47 | 1065 | Koshin Abdirahman |
 | 48 | 1049 | Heather Tushner |
@@ -157,8 +157,8 @@
 | 149 | 434 | Lindsey Gonzalez |
 | 150 | 434 | Mylo Lipscomb |
 | 151 | 433 | Nick Gray |
-| 152 | 432 | Livvy |
-| 153 | 432 | Zippy Block |
+| 152 | 432 | Zippy Block |
+| 153 | 432 | Livvy |
 | 154 | 431 | Courtney Cicoria |
 | 155 | 429 | Klo |
 | 156 | 428 | Carlos Ramirez |
@@ -173,8 +173,8 @@
 | 165 | 418 | Lush Linkfall |
 | 166 | 417 | Steph Marie |
 | 167 | 417 | Amanda Pauldo-Ivy |
-| 168 | 414 | Swanky Fitline |
-| 169 | 414 | Nope Young |
+| 168 | 414 | Nope Young |
+| 169 | 414 | Swanky Fitline |
 | 170 | 413 | Circuit8 |
 | 171 | 412 | Jessica Bohlken |
 | 172 | 410 | Oscar Alberto Perez |
@@ -218,8 +218,8 @@
 | 210 | 337 | Sam Bishop |
 | 211 | 336 | JPW |
 | 212 | 334 | June Hoffman |
-| 213 | 333 | Chris Alexinas |
-| 214 | 333 | Cranky Rollpiece |
+| 213 | 333 | Cranky Rollpiece |
+| 214 | 333 | Chris Alexinas |
 | 215 | 332 | HastyGrabber |
 | 216 | 331 | Lauren Scott |
 | 217 | 331 | Alan George LaRage |
@@ -252,8 +252,8 @@
 | 244 | 300 | Dana Scott |
 | 245 | 295 | Keshia Lyons |
 | 246 | 294 | Calvin Cannon |
-| 247 | 292 | Angel Raya |
-| 248 | 292 | Epic Curvetile |
+| 247 | 292 | Epic Curvetile |
+| 248 | 292 | Angel Raya |
 | 249 | 291 | Mimi |
 | 250 | 291 | Dizzy Matchzone |
 | 251 | 290 | Plucky Patternblock |
@@ -274,9 +274,9 @@
 | 266 | 279 | Malakai Darien Fox |
 | 267 | 278 | Angela Geist Jusinski |
 | 268 | 278 | Sarah Brown |
-| 269 | 276 | Cynthia Boudreau |
-| 270 | 276 | Susan Williams |
-| 271 | 276 | Joeliecea Cobb |
+| 269 | 276 | Joeliecea Cobb |
+| 270 | 276 | Cynthia Boudreau |
+| 271 | 276 | Susan Williams |
 | 272 | 275 | Kimberlee Jan Beckstead |
 | 273 | 273 | Brickh4us |
 | 274 | 272 | Dennis Bradley |
@@ -302,14 +302,14 @@
 | 294 | 259 | John Brunetti |
 | 295 | 259 | Montiette Mcglown |
 | 296 | 257 | PeaceOs |
-| 297 | 256 | Paige Kittles |
-| 298 | 256 | Jade Rian |
+| 297 | 256 | Jade Rian |
+| 298 | 256 | Paige Kittles |
 | 299 | 256 | Brittany Marsh |
 | 300 | 254 | Ari Droff |
 | 301 | 253 | Cool Buildout |
 | 302 | 253 | Autum Leigh |
 | 303 | 251 | Carol Ricks Raymond |
-| 304 | 249 | Lee Silpe |
+| 304 | 249 | Ak Jones |
 | 305 | 249 | Lora |
 | 306 | 249 | Lee Silpe |
 | 307 | 248 | Angelito |

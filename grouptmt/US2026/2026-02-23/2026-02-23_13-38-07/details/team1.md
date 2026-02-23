@@ -135,14 +135,14 @@
 | 127 | 466 | Adrian Esteban |
 | 128 | 463 | Lexuriuos Lifestlye |
 | 129 | 462 | Luciano Moreira |
-| 130 | 458 | Evan Richmond |
-| 131 | 458 | Goose egg |
+| 130 | 458 | Goose egg |
+| 131 | 458 | Evan Richmond |
 | 132 | 454 | Desiree Deschaine Havee |
 | 133 | 453 | Brandi Huntington |
 | 134 | 451 | Plucky Ziggy |
 | 135 | 450 | lil mickey |
-| 136 | 448 | Jazzy Framezone |
-| 137 | 448 | Sweet Baker |
+| 136 | 448 | Sweet Baker |
+| 137 | 448 | Jazzy Framezone |
 | 138 | 446 | SkipTheSadSauce |
 | 139 | 443 | Steve Schneider |
 | 140 | 440 | femmefatale |

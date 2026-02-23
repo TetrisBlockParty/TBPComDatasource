@@ -476,8 +476,8 @@
 | 468 | 750 | Draizen Montrell Thomas |
 | 469 | 750 | Michael Buckner |
 | 470 | 748 | Ann Matzkanin |
-| 471 | 742 | Ganieda |
-| 472 | 742 | Cassie Maynard |
+| 471 | 742 | Cassie Maynard |
+| 472 | 742 | Ganieda |
 | 473 | 740 | Jerry Tempelmeyer |
 | 474 | 737 | Ginger |
 | 475 | 737 | Chelle |
@@ -492,8 +492,8 @@
 | 484 | 726 | Joce Lynn |
 | 485 | 726 | Crystal Greene |
 | 486 | 725 | Miranda Morris |
-| 487 | 725 | Karen Snyder Schrage |
-| 488 | 725 | Vonceial Boone |
+| 487 | 725 | Vonceial Boone |
+| 488 | 725 | Karen Snyder Schrage |
 | 489 | 724 | Melissa Holsinger |
 | 490 | 721 | Darla Silva |
 | 491 | 715 | Daniell Martinez |
@@ -514,8 +514,8 @@
 | 506 | 698 | Emily Lyric Converse |
 | 507 | 697 | Isabelle Bonneau |
 | 508 | 693 | Ryan Stadel |
-| 509 | 692 | Bubbly Snapbuild |
-| 510 | 692 | Shaun Church |
+| 509 | 692 | Shaun Church |
+| 510 | 692 | Bubbly Snapbuild |
 | 511 | 691 | Arwa Fatimah |
 | 512 | 691 | Samuel Macon |
 | 513 | 689 | Gauri Shrotriya |
@@ -532,8 +532,8 @@
 | 524 | 679 | Prette Qui |
 | 525 | 677 | Paul Combs |
 | 526 | 677 | Kayleigh Wisse |
-| 527 | 676 | Roseanna Peloso |
-| 528 | 676 | Nicky Jackson |
+| 527 | 676 | Nicky Jackson |
+| 528 | 676 | Roseanna Peloso |
 | 529 | 675 | Lonne Emade |
 | 530 | 675 | Katelynn Hollen |
 | 531 | 675 | Jennifer Leigh |
@@ -664,8 +664,8 @@
 | 656 | 570 | Adam Simmons |
 | 657 | 569 | Sparkles |
 | 658 | 566 | Lindsey Leigh |
-| 659 | 566 | SwampRebel |
-| 660 | 566 | Tina Marie |
+| 659 | 566 | Tina Marie |
+| 660 | 566 | SwampRebel |
 | 661 | 564 | Stacey Tranchida |
 | 662 | 563 | Frisky Clearpiece |
 | 663 | 563 | Nat |
@@ -690,11 +690,11 @@
 | 682 | 549 | Crystal Hodge Love |
 | 683 | 548 | Sunshine711 |
 | 684 | 547 | CC |
-| 685 | 547 | Sonya Back |
-| 686 | 547 | Hunter Connors |
+| 685 | 547 | Hunter Connors |
+| 686 | 547 | Sonya Back |
 | 687 | 546 | NanDa Cruzan VI |
-| 688 | 545 | Maxwell Escalera |
-| 689 | 545 | Angela Yantz |
+| 688 | 545 | Angela Yantz |
+| 689 | 545 | Maxwell Escalera |
 | 690 | 544 | Deidre Shaffer |
 | 691 | 544 | Armonie Smith |
 | 692 | 542 | Jarboe |
