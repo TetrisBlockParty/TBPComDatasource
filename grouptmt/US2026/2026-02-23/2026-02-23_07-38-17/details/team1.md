@@ -102,8 +102,8 @@
 | 94 | 529 | Ryan Lunnin |
 | 95 | 522 | Sarah Lombardo |
 | 96 | 511 | Mario Cab |
-| 97 | 510 | Colena Davenport |
-| 98 | 510 | Chirpy Smasher |
+| 97 | 510 | Chirpy Smasher |
+| 98 | 510 | Colena Davenport |
 | 99 | 509 | Rachael |
 | 100 | 497 | Arianna O'Brien |
 | 101 | 493 | Jennifer ManWarren |
@@ -124,8 +124,8 @@
 | 116 | 452 | Hyper |
 | 117 | 451 | Plucky Ziggy |
 | 118 | 450 | lil mickey |
-| 119 | 448 | Sweet Baker |
-| 120 | 448 | Jazzy Framezone |
+| 119 | 448 | Jazzy Framezone |
+| 120 | 448 | Sweet Baker |
 | 121 | 446 | SkipTheSadSauce |
 | 122 | 443 | Steve Schneider |
 | 123 | 439 | Dee Perry |
@@ -204,12 +204,12 @@
 | 196 | 324 | Rat666 |
 | 197 | 323 | Madison Wicks |
 | 198 | 322 | Letson Melissa |
-| 199 | 317 | Kimberly Garcia |
-| 200 | 317 | Sarah Roberts |
+| 199 | 317 | Sarah Roberts |
+| 200 | 317 | Kimberly Garcia |
 | 201 | 316 | Reesey Enyart |
 | 202 | 315 | Danielle Little-Daugherty |
-| 203 | 314 | Tana |
-| 204 | 314 | Snippy Wipebuilder |
+| 203 | 314 | Snippy Wipebuilder |
+| 204 | 314 | Tana |
 | 205 | 312 | Jessi Sauer |
 | 206 | 310 | Bloknboy |
 | 207 | 308 | Speedy Liney |
@@ -218,14 +218,14 @@
 | 210 | 301 | Cody Gates |
 | 211 | 301 | Damon J. Martin |
 | 212 | 300 | Sleepysloath5745 |
-| 213 | 298 | Billie Ann Eason |
-| 214 | 298 | Sweetts |
+| 213 | 298 | Sweetts |
+| 214 | 298 | Billie Ann Eason |
 | 215 | 294 | Bindi |
 | 216 | 293 | John Kim |
-| 217 | 291 | Brave Wrecker |
-| 218 | 291 | Giddy Cascade |
-| 219 | 290 | Hellsin |
-| 220 | 290 | Tavia |
+| 217 | 291 | Giddy Cascade |
+| 218 | 291 | Brave Wrecker |
+| 219 | 290 | Tavia |
+| 220 | 290 | Hellsin |
 | 221 | 287 | Sassy Builderline |
 | 222 | 285 | Jessie Lynn |
 | 223 | 285 | Shanae Grant |
@@ -237,15 +237,15 @@
 | 229 | 282 | Mandyy Rae |
 | 230 | 281 | Clever Cascadepiece |
 | 231 | 280 | Billie Dawn Sparks |
-| 232 | 277 | Nutty Spinblock |
+| 232 | 277 | Melissa Lemmon |
 | 233 | 277 | Glitzy Curvebuilder |
 | 234 | 277 | Nutty Spinblock |
 | 235 | 275 | Chris65 |
 | 236 | 275 | Cheeky Pop |
 | 237 | 274 | Lakeisha Chapman |
 | 238 | 273 | Shannon Marie Pitts |
-| 239 | 272 | Barrbaric |
-| 240 | 272 | Tawnya Peltonen |
+| 239 | 272 | Tawnya Peltonen |
+| 240 | 272 | Barrbaric |
 | 241 | 271 | Frothy Pattern |
 | 242 | 271 | Sam Williams |
 | 243 | 270 | Debbie Kane |
@@ -578,7 +578,7 @@
 | 570 | 127 | Lively Slammer |
 | 571 | 127 | Laurie Sanderson |
 | 572 | 127 | Frisky Risebuilder |
-| 573 | 127 | Lively Slammer |
+| 573 | 127 | Marqs Mel |
 | 574 | 126 | Steven Schultheis |
 | 575 | 125 | Tiffany Daboss Seymour |
 | 576 | 125 | Nicole Bryant |

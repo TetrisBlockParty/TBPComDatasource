@@ -345,8 +345,8 @@
 | 337 | 904 | Bee |
 | 338 | 903 | Giggy Blocker |
 | 339 | 901 | Kevin Sees |
-| 340 | 899 | Patrick Bartlett |
-| 341 | 899 | Chevy |
+| 340 | 899 | Chevy |
+| 341 | 899 | Patrick Bartlett |
 | 342 | 898 | Jamie Otero |
 | 343 | 895 | Donna Colby |
 | 344 | 888 | Donna M Carter |
@@ -492,8 +492,8 @@
 | 484 | 680 | blume |
 | 485 | 679 | Kassandra Hunt |
 | 486 | 677 | Kayleigh Wisse |
-| 487 | 677 | Amanda Woodruff |
-| 488 | 677 | Paul Combs |
+| 487 | 677 | Paul Combs |
+| 488 | 677 | Amanda Woodruff |
 | 489 | 676 | Roseanna Peloso |
 | 490 | 676 | Nicky Jackson |
 | 491 | 675 | Lonne Emade |
@@ -522,8 +522,8 @@
 | 514 | 646 | Jazzy Clusterline |
 | 515 | 644 | Véronique Lévesque Sabourin |
 | 516 | 643 | Michelle Pike |
-| 517 | 642 | Michelle Fields |
-| 518 | 642 | Cassie Maynard |
+| 517 | 642 | Cassie Maynard |
+| 518 | 642 | Michelle Fields |
 | 519 | 640 | Belle |
 | 520 | 639 | Jackie Avila |
 | 521 | 639 | Alexandra Weir |
@@ -768,8 +768,8 @@
 | 760 | 467 | ruth |
 | 761 | 466 | Miracle |
 | 762 | 466 | Shea Edison |
-| 763 | 464 | Natasha Edmonds |
-| 764 | 464 | Lively Edgepiece |
+| 763 | 464 | Lively Edgepiece |
+| 764 | 464 | Natasha Edmonds |
 | 765 | 464 | Saucy Fitzone |
 | 766 | 463 | Jaye EL Hunter |
 | 767 | 462 | Darla Silva |
@@ -889,8 +889,8 @@
 | 881 | 406 | Lazy Builderfit |
 | 882 | 406 | Susan Arnburg |
 | 883 | 405 | Carrie Mitchell |
-| 884 | 405 | Marget Kay |
-| 885 | 405 | Dane Reing |
+| 884 | 405 | Dane Reing |
+| 885 | 405 | Marget Kay |
 | 886 | 405 | Swanky Columnbuilder |
 | 887 | 404 | Jannan Haimour |
 | 888 | 404 | Jes Norris |

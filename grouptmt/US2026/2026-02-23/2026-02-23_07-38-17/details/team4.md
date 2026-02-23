@@ -26,8 +26,8 @@
 | 18 | 1636 | Cassie Michaux |
 | 19 | 1565 | GreenJeepGirl |
 | 20 | 1558 | Leah Gorsuch |
-| 21 | 1536 | Misty Hollibaugh |
-| 22 | 1536 | Roger Coulter |
+| 21 | 1536 | Roger Coulter |
+| 22 | 1536 | Misty Hollibaugh |
 | 23 | 1485 | Juggalo |
 | 24 | 1390 | Sammy Noguera |
 | 25 | 1382 | Tammi Crnza |
@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Kimyatta Cavin |
-| 84 | 684 | Jonathan Kimbrough |
+| 83 | 684 | Jonathan Kimbrough |
+| 84 | 684 | Kimyatta Cavin |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | KM8 |
-| 93 | 647 | Shauna Havard |
+| 92 | 647 | Shauna Havard |
+| 93 | 647 | KM8 |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -125,8 +125,8 @@
 | 117 | 514 | Serena Goodridge |
 | 118 | 514 | Scott Jameson |
 | 119 | 513 | Erin Thomas |
-| 120 | 512 | Casey Jeffcoat |
-| 121 | 512 | Cristy Duerksen |
+| 120 | 512 | Cristy Duerksen |
+| 121 | 512 | Casey Jeffcoat |
 | 122 | 511 | Lori Walker |
 | 123 | 509 | Leslie Nicole |
 | 124 | 482 | Ren Mc |
@@ -207,8 +207,8 @@
 | 199 | 320 | Lauren Scott |
 | 200 | 318 | Chris Hartig |
 | 201 | 316 | Autumn Kumzi |
-| 202 | 312 | Dihcheese444 |
-| 203 | 312 | Casey Grabner |
+| 202 | 312 | Casey Grabner |
+| 203 | 312 | Dihcheese444 |
 | 204 | 311 | Mary Ann Pabukis |
 | 205 | 310 | Holly Jolly |
 | 206 | 307 | Cheery Risebuilder |
@@ -304,8 +304,8 @@
 | 296 | 225 | Jenna McGeorge |
 | 297 | 224 | Ultramarine |
 | 298 | 223 | Amanda Christine |
-| 299 | 223 | Adawna Swires |
-| 300 | 223 | Chance Strickland |
+| 299 | 223 | Chance Strickland |
+| 300 | 223 | Adawna Swires |
 | 301 | 222 | Brandi Durig |
 | 302 | 221 | Rheanda Weaskus |
 | 303 | 221 | Joseph Edmonson |
