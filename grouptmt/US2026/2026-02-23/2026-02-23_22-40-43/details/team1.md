@@ -218,11 +218,11 @@
 | 210 | 392 | Kathy Langham |
 | 211 | 387 | Witty Builderfit |
 | 212 | 387 | Ananda Mendez |
-| 213 | 387 | Witty Builderfit |
+| 213 | 387 | Carrie Smith |
 | 214 | 386 | Brian Spotts |
 | 215 | 384 | Tami Luce Martin |
-| 216 | 383 | Margo Wagner |
-| 217 | 383 | pjbeta |
+| 216 | 383 | pjbeta |
+| 217 | 383 | Margo Wagner |
 | 218 | 382 | David Lutcher |
 | 219 | 381 | Alenoush Karimian |
 | 220 | 380 | Bindi |

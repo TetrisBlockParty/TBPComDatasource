@@ -269,8 +269,8 @@
 | 261 | 513 | Lizabeth Fox |
 | 262 | 510 | Marquita Sheard |
 | 263 | 508 | joz |
-| 264 | 507 | rosy |
-| 265 | 507 | Snappy Balancer |
+| 264 | 507 | Snappy Balancer |
+| 265 | 507 | rosy |
 | 266 | 506 | Ammmmmmy |
 | 267 | 505 | Stephanie Simpson |
 | 268 | 500 | Ashley Tookes |
@@ -294,8 +294,8 @@
 | 286 | 471 | Mendoza Lee Christy |
 | 287 | 470 | thekey |
 | 288 | 468 | Sarah Moyer |
-| 289 | 464 | Noyb Adam |
-| 290 | 464 | Danielle Weikel |
+| 289 | 464 | Danielle Weikel |
+| 290 | 464 | Noyb Adam |
 | 291 | 462 | Sleepy |
 | 292 | 461 | Tom Nault |
 | 293 | 461 | LaShey Thompson |
@@ -376,8 +376,8 @@
 | 368 | 370 | Roary Danner |
 | 369 | 370 | Ashley Lynn Marchese |
 | 370 | 369 | Amber Glover |
-| 371 | 368 | Stephanie Woods |
-| 372 | 368 | Sheila M Frazier |
+| 371 | 368 | Sheila M Frazier |
+| 372 | 368 | Stephanie Woods |
 | 373 | 368 | Nikki Pags |
 | 374 | 367 | Swanky Snapclear |
 | 375 | 366 | Rick Poppen |
@@ -387,7 +387,7 @@
 | 379 | 360 | Ashley Rufus Bythcez |
 | 380 | 360 | Dannie Litchard |
 | 381 | 360 | Goofy Fall |
-| 382 | 359 | Niki Dalrymple |
+| 382 | 359 | Ann Hammac |
 | 383 | 359 | Steven Fulater |
 | 384 | 359 | Niki Dalrymple |
 | 385 | 359 | 4girls |
@@ -595,8 +595,8 @@
 | 587 | 257 | Jana Polk |
 | 588 | 257 | Chris Wallace |
 | 589 | 257 | Shiny Snapfit |
-| 590 | 256 | Christina Rotz Shows |
-| 591 | 256 | Rynne Ellis |
+| 590 | 256 | Rynne Ellis |
+| 591 | 256 | Christina Rotz Shows |
 | 592 | 255 | Mariah Williams |
 | 593 | 254 | Katheline Lazo Luizaga |
 | 594 | 254 | Landycandii |
@@ -638,10 +638,10 @@
 | 630 | 240 | Bambi Jones |
 | 631 | 240 | JustGiGi |
 | 632 | 239 | Martin Bernier |
-| 633 | 238 | Jess Dearborn |
-| 634 | 238 | Serena Jarrell |
-| 635 | 237 | Ryan Williams |
-| 636 | 237 | Christopher Mastropietro |
+| 633 | 238 | Serena Jarrell |
+| 634 | 238 | Jess Dearborn |
+| 635 | 237 | Christopher Mastropietro |
+| 636 | 237 | Ryan Williams |
 | 637 | 237 | Smiley Clearpiece |
 | 638 | 236 | Alexis Ford |
 | 639 | 236 | Jumpy Curvebuilder |
@@ -660,7 +660,7 @@
 | 652 | 233 | Katrina E Jelks |
 | 653 | 233 | Anna Moeller |
 | 654 | 233 | Snippy Brickster |
-| 655 | 233 | Anna Moeller |
+| 655 | 233 | Criss |
 | 656 | 232 | Bhreagh Gentile |
 | 657 | 232 | Sunny Tiltgrid |
 | 658 | 232 | Stephanie Hill |
