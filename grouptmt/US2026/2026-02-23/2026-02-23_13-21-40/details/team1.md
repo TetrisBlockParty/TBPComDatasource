@@ -128,8 +128,8 @@
 | 120 | 477 | Tonya Beasley |
 | 121 | 475 | Sarah Somers Gray |
 | 122 | 471 | Hyper |
-| 123 | 467 | Candy Jones |
-| 124 | 467 | Constance Risner |
+| 123 | 467 | Constance Risner |
+| 124 | 467 | Candy Jones |
 | 125 | 466 | Adrian Esteban |
 | 126 | 463 | Lexuriuos Lifestlye |
 | 127 | 462 | Luciano Moreira |
@@ -395,8 +395,8 @@
 | 387 | 205 | Agustin Duarte Orozco |
 | 388 | 205 | Elizabeth Kubli |
 | 389 | 205 | build master |
-| 390 | 204 | Dizzy Slider |
-| 391 | 204 | Cranky Pattern |
+| 390 | 204 | Cranky Pattern |
+| 391 | 204 | Dizzy Slider |
 | 392 | 203 | Rebekah LeiAnn Bonsell |
 | 393 | 202 | Krie |
 | 394 | 202 | Brave Slice |
@@ -405,8 +405,8 @@
 | 397 | 201 | Tedashi |
 | 398 | 201 | Rico Rico |
 | 399 | 200 | Zesty Brickzone |
-| 400 | 199 | Larissa Marie Nelson |
-| 401 | 199 | Tina Englert |
+| 400 | 199 | Tina Englert |
+| 401 | 199 | Larissa Marie Nelson |
 | 402 | 198 | Marci Sanders |
 | 403 | 197 | Cool Towerzone |
 | 404 | 196 | Amie Fields |

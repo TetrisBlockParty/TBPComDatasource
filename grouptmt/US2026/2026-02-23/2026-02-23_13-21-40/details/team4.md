@@ -67,8 +67,8 @@
 | 59 | 872 | Shelly Chandler |
 | 60 | 871 | Pee |
 | 61 | 870 | BertMofo |
-| 62 | 846 | Lucille Truesdale |
-| 63 | 846 | Christine Marie |
+| 62 | 846 | Christine Marie |
+| 63 | 846 | Lucille Truesdale |
 | 64 | 834 | quicksand420 |
 | 65 | 827 | Avy Absol |
 | 66 | 807 | Amelpss |
@@ -608,7 +608,7 @@
 | 600 | 123 | mini |
 | 601 | 122 | Mike Burlingame |
 | 602 | 122 | Martha Lucinda Bishop |
-| 603 | 122 | Mike Burlingame |
+| 603 | 122 | bloat princess |
 | 604 | 122 | meowmew |
 | 605 | 122 | Mary Therese Benden Cole |
 | 606 | 121 | Brittany Price |

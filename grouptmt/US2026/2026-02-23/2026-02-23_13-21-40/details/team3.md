@@ -118,8 +118,8 @@
 | 110 | 869 | Araceli Parra |
 | 111 | 868 | Sarajane Lokan |
 | 112 | 860 | Sunny Rotater |
-| 113 | 851 | Danielle Becker |
-| 114 | 851 | Jd Morris |
+| 113 | 851 | Jd Morris |
+| 114 | 851 | Danielle Becker |
 | 115 | 850 | Danielle Mogg |
 | 116 | 848 | Patricia Gadsden |
 | 117 | 839 | Angeline Joseph |
@@ -133,8 +133,8 @@
 | 125 | 779 | Justin Ritter |
 | 126 | 774 | Keith J Oshman Jr. |
 | 127 | 773 | Daira Largen |
-| 128 | 764 | Hasty Cascadefit |
-| 129 | 764 | Groovy Catcher |
+| 128 | 764 | Groovy Catcher |
+| 129 | 764 | Hasty Cascadefit |
 | 130 | 762 | Speedy Bridger |
 | 131 | 755 | Katrina Schroeder |
 | 132 | 755 | Raya |
@@ -220,8 +220,8 @@
 | 212 | 500 | Trisha Balmer |
 | 213 | 498 | Melissa Orth Hunter |
 | 214 | 496 | Loopy Fallmatch |
-| 215 | 494 | Connie Mohler-Fair |
-| 216 | 494 | FuzzyNavel |
+| 215 | 494 | FuzzyNavel |
+| 216 | 494 | Connie Mohler-Fair |
 | 217 | 491 | Michael Johnson |
 | 218 | 488 | joz |
 | 219 | 485 | Dapper Snap |

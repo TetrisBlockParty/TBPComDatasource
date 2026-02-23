@@ -44,8 +44,8 @@
 | 36 | 4301 | Mighty Patternzone |
 | 37 | 4199 | Claire Noland |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Kristen Sceurman |
-| 40 | 4120 | Corrine Hawks Soriano |
+| 39 | 4120 | Corrine Hawks Soriano |
+| 40 | 4120 | Kristen Sceurman |
 | 41 | 4086 | PandaMama |
 | 42 | 4006 | CoolKat |
 | 43 | 3960 | Brittany Alicia |
@@ -413,8 +413,8 @@
 | 405 | 828 | Desire Rice |
 | 406 | 828 | Kimmy Newman |
 | 407 | 825 | Jeremy Parodi |
-| 408 | 824 | Danielle Johnson-Chandler |
-| 409 | 824 | Khalil Lowe |
+| 408 | 824 | Khalil Lowe |
+| 409 | 824 | Danielle Johnson-Chandler |
 | 410 | 822 | Lola Contreras |
 | 411 | 819 | Victoria Regina Girolami |
 | 412 | 816 | Beth |
@@ -458,13 +458,13 @@
 | 450 | 764 | Kiely Tomaskovich |
 | 451 | 763 | Dreamy Blast |
 | 452 | 763 | Heather Causey |
-| 453 | 761 | Elisheva Mizrachi |
-| 454 | 761 | Jerilyn Andrina |
+| 453 | 761 | Jerilyn Andrina |
+| 454 | 761 | Elisheva Mizrachi |
 | 455 | 760 | Ashley Guernsey-Martin |
 | 456 | 760 | Cheech Dta |
 | 457 | 760 | Allan Wayne Lamia |
-| 458 | 758 | Stephanie Neuburger |
-| 459 | 758 | Quirky Twistline |
+| 458 | 758 | Quirky Twistline |
+| 459 | 758 | Stephanie Neuburger |
 | 460 | 755 | Taryece Gause |
 | 461 | 754 | tejas25 |
 | 462 | 753 | Alex Dungo Hoang |
@@ -513,8 +513,8 @@
 | 505 | 697 | Isabelle Bonneau |
 | 506 | 697 | Poldo Ilano |
 | 507 | 693 | Ryan Stadel |
-| 508 | 692 | Bubbly Snapbuild |
-| 509 | 692 | Shaun Church |
+| 508 | 692 | Shaun Church |
+| 509 | 692 | Bubbly Snapbuild |
 | 510 | 691 | Arwa Fatimah |
 | 511 | 691 | Samuel Macon |
 | 512 | 689 | Gauri Shrotriya |
@@ -592,8 +592,8 @@
 | 584 | 624 | Belle Mari |
 | 585 | 621 | Taren Cowan |
 | 586 | 618 | Marella Petilo |
-| 587 | 617 | Kacee Conrad Bock |
-| 588 | 617 | Darcy Mae |
+| 587 | 617 | Darcy Mae |
+| 588 | 617 | Kacee Conrad Bock |
 | 589 | 617 | Biggest thing |
 | 590 | 615 | Julio A Laracuente |
 | 591 | 614 | Emilee Burke |
@@ -663,8 +663,8 @@
 | 655 | 566 | SwampRebel |
 | 656 | 566 | Tina Marie |
 | 657 | 564 | Stacey Tranchida |
-| 658 | 563 | Nat |
-| 659 | 563 | Frisky Clearpiece |
+| 658 | 563 | Frisky Clearpiece |
+| 659 | 563 | Nat |
 | 660 | 559 | Kelli Wells |
 | 661 | 559 | Alexx Anaya |
 | 662 | 558 | Lee Harper |
