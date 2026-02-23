@@ -278,8 +278,8 @@
 | 270 | 1079 | Kimberly Hauck-Rausch |
 | 271 | 1073 | Jodi Blake |
 | 272 | 1071 | Kim Dean |
-| 273 | 1069 | Offonar Facey |
-| 274 | 1069 | Carl Bradshaw |
+| 273 | 1069 | Carl Bradshaw |
+| 274 | 1069 | Offonar Facey |
 | 275 | 1064 | BK Queen |
 | 276 | 1063 | Caitlin Schmid |
 | 277 | 1058 | Rickey Johnson |
@@ -356,8 +356,8 @@
 | 348 | 903 | Giggy Blocker |
 | 349 | 902 | Diallo Sparkman |
 | 350 | 901 | Kevin Sees |
-| 351 | 899 | Chevy |
-| 352 | 899 | Patrick Bartlett |
+| 351 | 899 | Patrick Bartlett |
+| 352 | 899 | Chevy |
 | 353 | 898 | Jamie Otero |
 | 354 | 895 | Donna Colby |
 | 355 | 895 | Lisa Ongtowasruk |
@@ -419,8 +419,8 @@
 | 411 | 790 | Brenda Pierpoint |
 | 412 | 788 | Erika Densmore |
 | 413 | 783 | John Rodriguez |
-| 414 | 777 | Tesha Oldaker |
-| 415 | 777 | Jessicah Myers |
+| 414 | 777 | Jessicah Myers |
+| 415 | 777 | Tesha Oldaker |
 | 416 | 776 | Fancy Twister |
 | 417 | 776 | Mighty Spinbuilder |
 | 418 | 775 | Crystie Hicks |
@@ -460,8 +460,8 @@
 | 452 | 737 | Ginger |
 | 453 | 737 | Chelle |
 | 454 | 732 | Victoria Moore-Smith |
-| 455 | 731 | Charvi' Carter |
-| 456 | 731 | Matthew Joseph Acevedo |
+| 455 | 731 | Matthew Joseph Acevedo |
+| 456 | 731 | Charvi' Carter |
 | 457 | 730 | Hoppy Brickmatch |
 | 458 | 729 | goofinoff |
 | 459 | 728 | Mikayala Szaz |
@@ -514,8 +514,8 @@
 | 506 | 677 | Jackie Burnett |
 | 507 | 677 | Kayleigh Wisse |
 | 508 | 677 | Amanda Woodruff |
-| 509 | 676 | Roseanna Peloso |
-| 510 | 676 | Nicky Jackson |
+| 509 | 676 | Nicky Jackson |
+| 510 | 676 | Roseanna Peloso |
 | 511 | 675 | Lonne Emade |
 | 512 | 675 | Katelynn Hollen |
 | 513 | 674 | Ashley Munn |
@@ -551,8 +551,8 @@
 | 543 | 639 | Toni Roberson |
 | 544 | 639 | Libby Hicks |
 | 545 | 638 | Leah Keesling |
-| 546 | 637 | Shinette Dobson |
-| 547 | 637 | Koa N Sharon Chen |
+| 546 | 637 | Koa N Sharon Chen |
+| 547 | 637 | Shinette Dobson |
 | 548 | 637 | Karen Posadas Centeno |
 | 549 | 634 | James Louie |
 | 550 | 634 | Quiksilver |
@@ -581,8 +581,8 @@
 | 573 | 612 | Briana Alexander |
 | 574 | 612 | Slinky Racker |
 | 575 | 610 | Michael Buckner |
-| 576 | 609 | Autumn Schaeffer |
-| 577 | 609 | Cecilia A Jenkins |
+| 576 | 609 | Cecilia A Jenkins |
+| 577 | 609 | Autumn Schaeffer |
 | 578 | 607 | James Smith |
 | 579 | 607 | Miranda Morris |
 | 580 | 606 | Lea Stewart |
@@ -598,9 +598,9 @@
 | 590 | 600 | Nicole Cox |
 | 591 | 599 | Cc |
 | 592 | 597 | Sarah Berger |
-| 593 | 597 | Magic steve |
+| 593 | 597 | TJ Nash |
 | 594 | 597 | Jamie Schmitt |
-| 595 | 597 | TJ Nash |
+| 595 | 597 | Magic steve |
 | 596 | 596 | Davetta Sanford |
 | 597 | 595 | Dapper Dasher |
 | 598 | 594 | Laura Mclean |

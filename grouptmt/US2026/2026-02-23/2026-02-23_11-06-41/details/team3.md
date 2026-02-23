@@ -121,8 +121,8 @@
 | 113 | 839 | Angeline Joseph |
 | 114 | 830 | Stephanie Allmon |
 | 115 | 826 | Shane Wilson Jr. |
-| 116 | 816 | Jesse Olive |
-| 117 | 816 | Brenda Lee Vander Molen |
+| 116 | 816 | Brenda Lee Vander Molen |
+| 117 | 816 | Jesse Olive |
 | 118 | 802 | Bobbi Moore |
 | 119 | 800 | Lauren Girouard |
 | 120 | 799 | Dolores Falco |
@@ -166,8 +166,8 @@
 | 158 | 646 | Bea Miles |
 | 159 | 634 | Amber Hughes |
 | 160 | 630 | yoyo |
-| 161 | 621 | Cherry Parker |
-| 162 | 621 | Sashay Tapae Simpson |
+| 161 | 621 | Sashay Tapae Simpson |
+| 162 | 621 | Cherry Parker |
 | 163 | 616 | Kammy Hill |
 | 164 | 611 | Rochelle Hazelett |
 | 165 | 607 | Nicole Myers |
@@ -280,8 +280,8 @@
 | 272 | 378 | MsBee |
 | 273 | 375 | Stephanie Burtin |
 | 274 | 374 | Rania Zaqout |
-| 275 | 372 | Sarah Moyer |
-| 276 | 372 | Rich LeBlanc |
+| 275 | 372 | Rich LeBlanc |
+| 276 | 372 | Sarah Moyer |
 | 277 | 371 | Marquita Sheard |
 | 278 | 371 | block chick |
 | 279 | 370 | Samantha Lynn |
@@ -345,8 +345,8 @@
 | 337 | 311 | Troy |
 | 338 | 309 | Desiree Gold |
 | 339 | 309 | Cheeky Snapper |
-| 340 | 308 | Tia |
-| 341 | 308 | Katrina Turner |
+| 340 | 308 | Katrina Turner |
+| 341 | 308 | Tia |
 | 342 | 305 | Hyper Matchzone |
 | 343 | 304 | _melisa223_ |
 | 344 | 303 | Alexmac |
@@ -532,9 +532,9 @@
 | 524 | 210 | Maia |
 | 525 | 210 | Kristian Thurman |
 | 526 | 209 | Latoya Oneluv White |
-| 527 | 209 | Jonathn Poindexter |
+| 527 | 209 | TazB |
 | 528 | 209 | Jumpy Wrecker |
-| 529 | 209 | TazB |
+| 529 | 209 | Jonathn Poindexter |
 | 530 | 208 | Jessica Christian |
 | 531 | 208 | Luccy Luxe |
 | 532 | 207 | Misstery |
