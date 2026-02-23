@@ -377,8 +377,8 @@
 | 369 | 829 | Jessica Wayne Cornwall |
 | 370 | 828 | Kimmy Newman |
 | 371 | 825 | Jeremy Parodi |
-| 372 | 824 | Danielle Johnson-Chandler |
-| 373 | 824 | Khalil Lowe |
+| 372 | 824 | Khalil Lowe |
+| 373 | 824 | Danielle Johnson-Chandler |
 | 374 | 822 | KhaosLord |
 | 375 | 822 | Lola Contreras |
 | 376 | 821 | Angie Bolton Workman |
@@ -392,9 +392,9 @@
 | 384 | 804 | Becca Coronado |
 | 385 | 801 | Diana Fitzwater |
 | 386 | 801 | Gold Rose |
-| 387 | 799 | Ronnie Nelson |
-| 388 | 799 | Joy LaJeunesse |
-| 389 | 799 | Kenny Alvarado |
+| 387 | 799 | Joy LaJeunesse |
+| 388 | 799 | Kenny Alvarado |
+| 389 | 799 | Ronnie Nelson |
 | 390 | 798 | Kathryn Townsley |
 | 391 | 796 | AndrewandShela Gornik |
 | 392 | 796 | Amber Gray |
@@ -415,8 +415,8 @@
 | 407 | 771 | Stephanie Lumanlan |
 | 408 | 769 | Melissa Cole |
 | 409 | 769 | Kimberly Hope Howell |
-| 410 | 768 | Joshua Self |
-| 411 | 768 | Eric Castaneda |
+| 410 | 768 | Eric Castaneda |
+| 411 | 768 | Joshua Self |
 | 412 | 767 | Ashley Lopez |
 | 413 | 766 | Aimee Campbell |
 | 414 | 764 | Victoria Regina Girolami |
@@ -927,8 +927,8 @@
 | 919 | 398 | Kendall Fullerton |
 | 920 | 398 | Witty Piecebuilder |
 | 921 | 398 | Juan Killyoselfifudontlikeme Ronaldo |
-| 922 | 397 | Maxwell Escalera |
-| 923 | 397 | Dawn Woosley Bowes |
+| 922 | 397 | Dawn Woosley Bowes |
+| 923 | 397 | Maxwell Escalera |
 | 924 | 397 | Jessica Conaway |
 | 925 | 396 | Debbie Gerlib-Molinari Leigh |
 | 926 | 396 | Cassie Newton |
@@ -1052,8 +1052,8 @@
 | 1044 | 357 | Pam Doughty |
 | 1045 | 356 | ToxicTrash |
 | 1046 | 356 | Neko Preston |
-| 1047 | 355 | Jaime E. Rodriguez |
-| 1048 | 355 | Himothy |
+| 1047 | 355 | Himothy |
+| 1048 | 355 | Jaime E. Rodriguez |
 | 1049 | 355 | Rolie Garcia |
 | 1050 | 355 | Layla LS |
 | 1051 | 354 | Tanya Eubanks |
@@ -1502,7 +1502,7 @@
 | 1494 | 262 | Andrea Devery Beck |
 | 1495 | 262 | Nicole RareGarnet Sykes-Hill |
 | 1496 | 262 | Carol Hurley |
-| 1497 | 261 | Kay Perkins |
+| 1497 | 261 | Breezy Tilt |
 | 1498 | 261 | Shayla Lamartina |
 | 1499 | 261 | Kay Perkins |
 | 1500 | 261 | teo1 |

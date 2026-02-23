@@ -54,20 +54,20 @@
 | 46 | 960 | Dustin Robert |
 | 47 | 956 | Jeremy Steines |
 | 48 | 938 | Denny Shives |
-| 49 | 936 | Rebecca Moulton Pinciaro |
-| 50 | 936 | Dawn Alexander |
+| 49 | 936 | Dawn Alexander |
+| 50 | 936 | Rebecca Moulton Pinciaro |
 | 51 | 932 | Marvin Lou Martin |
 | 52 | 911 | Anthony Bryan Riva |
 | 53 | 870 | BertMofo |
 | 54 | 864 | Shelly Chandler |
 | 55 | 863 | Pee |
 | 56 | 859 | TeeJ |
-| 57 | 846 | Lucille Truesdale |
-| 58 | 846 | Christine Marie |
+| 57 | 846 | Christine Marie |
+| 58 | 846 | Lucille Truesdale |
 | 59 | 845 | LisaJo Picken Buchanan |
 | 60 | 834 | quicksand420 |
-| 61 | 807 | Rachel Anne |
-| 62 | 807 | Amelpss |
+| 61 | 807 | Amelpss |
+| 62 | 807 | Rachel Anne |
 | 63 | 788 | Julian Garcia |
 | 64 | 787 | Edward White |
 | 65 | 783 | Ashley Ingram |
@@ -125,8 +125,8 @@
 | 117 | 514 | Scott Jameson |
 | 118 | 514 | Serena Goodridge |
 | 119 | 513 | Erin Thomas |
-| 120 | 512 | Cristy Duerksen |
-| 121 | 512 | Casey Jeffcoat |
+| 120 | 512 | Casey Jeffcoat |
+| 121 | 512 | Cristy Duerksen |
 | 122 | 511 | Lori Walker |
 | 123 | 509 | Leslie Nicole |
 | 124 | 487 | Ren Mc |
@@ -161,8 +161,8 @@
 | 153 | 413 | Circuit8 |
 | 154 | 412 | Jessica Bohlken |
 | 155 | 408 | Amanda Pauldo-Ivy |
-| 156 | 406 | Livvy |
-| 157 | 406 | Damn Libra |
+| 156 | 406 | Damn Libra |
+| 157 | 406 | Livvy |
 | 158 | 403 | Keith Kelley |
 | 159 | 402 | Lucas J Sutton |
 | 160 | 398 | Tyler Terrific |
@@ -239,13 +239,13 @@
 | 231 | 286 | Steph Marie |
 | 232 | 285 | 030Synner |
 | 233 | 284 | Mimi |
-| 234 | 282 | Kim Klutz Olson |
-| 235 | 282 | Matt Gooder |
+| 234 | 282 | Matt Gooder |
+| 235 | 282 | Kim Klutz Olson |
 | 236 | 281 | Laura |
 | 237 | 280 | Rio Rocha |
 | 238 | 279 | Malakai Darien Fox |
-| 239 | 278 | Sarah Brown |
-| 240 | 278 | Angela Geist Jusinski |
+| 239 | 278 | Angela Geist Jusinski |
+| 240 | 278 | Sarah Brown |
 | 241 | 276 | Joeliecea Cobb |
 | 242 | 276 | Matt Dell'Olio |
 | 243 | 275 | Kimberlee Jan Beckstead |
@@ -308,9 +308,9 @@
 | 300 | 225 | Jenna McGeorge |
 | 301 | 224 | AyeKay |
 | 302 | 224 | Ultramarine |
-| 303 | 223 | Chance Strickland |
+| 303 | 223 | Amanda Christine |
 | 304 | 223 | Adawna Swires |
-| 305 | 223 | Amanda Christine |
+| 305 | 223 | Chance Strickland |
 | 306 | 222 | Brandi Durig |
 | 307 | 221 | Rheanda Weaskus |
 | 308 | 220 | Nita Wells |
@@ -326,8 +326,8 @@
 | 318 | 216 | mike |
 | 319 | 216 | Chantilly Laace |
 | 320 | 215 | Stephme310 |
-| 321 | 214 | Stacey Stano |
-| 322 | 214 | Patron Anderson |
+| 321 | 214 | Patron Anderson |
+| 322 | 214 | Stacey Stano |
 | 323 | 213 | Jackie Marie |
 | 324 | 212 | Mike Solo |
 | 325 | 212 | Brave Spinbuilder |
@@ -709,7 +709,7 @@
 | 701 | 98 | Diamond Johnson |
 | 702 | 98 | Maurice Daniels |
 | 703 | 98 | Bad company |
-| 704 | 98 | Diamond Johnson |
+| 704 | 98 | Manuel Groleau |
 | 705 | 98 | Jessi Cinotto |
 | 706 | 97 | Frisky Matchgrid |
 | 707 | 97 | Shanon James |
