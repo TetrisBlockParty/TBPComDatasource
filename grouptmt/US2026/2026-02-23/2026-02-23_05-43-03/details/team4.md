@@ -68,8 +68,8 @@
 | 60 | 807 | Rachel Anne |
 | 61 | 803 | Amelpss |
 | 62 | 788 | Julian Garcia |
-| 63 | 781 | Chilly Line |
-| 64 | 781 | Ashley Ingram |
+| 63 | 781 | Ashley Ingram |
+| 64 | 781 | Chilly Line |
 | 65 | 767 | Shannon Ferrari |
 | 66 | 766 | Edward White |
 | 67 | 766 | Robin Watters |
@@ -121,8 +121,8 @@
 | 113 | 519 | Nugget |
 | 114 | 517 | Christina LR |
 | 115 | 517 | shar |
-| 116 | 514 | Serena Goodridge |
-| 117 | 514 | Scott Jameson |
+| 116 | 514 | Scott Jameson |
+| 117 | 514 | Serena Goodridge |
 | 118 | 513 | Erin Thomas |
 | 119 | 512 | Cristy Duerksen |
 | 120 | 512 | Casey Jeffcoat |
@@ -137,8 +137,8 @@
 | 129 | 458 | Twisty Clicky |
 | 130 | 451 | Peachy Fall |
 | 131 | 448 | Kristin Manee |
-| 132 | 435 | Kristina Black |
-| 133 | 435 | Leslie Thomas |
+| 132 | 435 | Leslie Thomas |
+| 133 | 435 | Kristina Black |
 | 134 | 431 | Courtney Cicoria |
 | 135 | 426 | 🥔🥔 Spudz |
 | 136 | 425 | Monica Daley |
@@ -174,8 +174,8 @@
 | 166 | 368 | Brandon Crabbs |
 | 167 | 368 | Raegan Lane-Ross |
 | 168 | 365 | Jeff Brian Gates |
-| 169 | 361 | Danielle Kollias |
-| 170 | 361 | Melissa Adams |
+| 169 | 361 | Melissa Adams |
+| 170 | 361 | Danielle Kollias |
 | 171 | 359 | Keith Kelley |
 | 172 | 358 | A5! |
 | 173 | 356 | George Nutt |
@@ -242,15 +242,15 @@
 | 234 | 272 | Dennis Bradley |
 | 235 | 272 | Alan George LaRage |
 | 236 | 271 | Holly |
-| 237 | 270 | Jen Caldwell |
-| 238 | 270 | Juls |
+| 237 | 270 | Juls |
+| 238 | 270 | Jen Caldwell |
 | 239 | 266 | Mr. Party |
 | 240 | 265 | Sarah Neathery |
 | 241 | 265 | Silly SeaWeed |
 | 242 | 264 | ZeeZee |
 | 243 | 264 | Stella |
-| 244 | 262 | BigSammy420 |
-| 245 | 262 | Selena Shaw |
+| 244 | 262 | Selena Shaw |
+| 245 | 262 | BigSammy420 |
 | 246 | 260 | Rio Rocha |
 | 247 | 260 | Carter Jones |
 | 248 | 259 | Allen Lloyd |
@@ -272,8 +272,8 @@
 | 264 | 248 | Jose Dejesus |
 | 265 | 248 | Chirpy Basepiece |
 | 266 | 245 | 23 |
-| 267 | 244 | Elizabeth Tinoco |
-| 268 | 244 | Christina Black |
+| 267 | 244 | Christina Black |
+| 268 | 244 | Elizabeth Tinoco |
 | 269 | 242 | Chaz |
 | 270 | 240 | Perky Patternblock |
 | 271 | 240 | Kim Hunt |
@@ -539,8 +539,8 @@
 | 531 | 129 | The Murphy |
 | 532 | 129 | Dreamy Snapgrid |
 | 533 | 128 | Lazy Glidepiece |
-| 534 | 128 | Raymond Roberts |
-| 535 | 128 | Zesty Linkgrid |
+| 534 | 128 | Zesty Linkgrid |
+| 535 | 128 | Raymond Roberts |
 | 536 | 127 | Jay You |
 | 537 | 126 | Amy C Brown |
 | 538 | 126 | Spicy Cascadezone |

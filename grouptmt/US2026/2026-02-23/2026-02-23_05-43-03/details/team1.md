@@ -102,12 +102,12 @@
 | 94 | 529 | Ryan Lunnin |
 | 95 | 522 | Sarah Lombardo |
 | 96 | 511 | Mario Cab |
-| 97 | 510 | Colena Davenport |
-| 98 | 510 | Chirpy Smasher |
+| 97 | 510 | Chirpy Smasher |
+| 98 | 510 | Colena Davenport |
 | 99 | 509 | Rachael |
 | 100 | 497 | Arianna O'Brien |
-| 101 | 493 | Jennifer ManWarren |
-| 102 | 493 | MomMom |
+| 101 | 493 | MomMom |
+| 102 | 493 | Jennifer ManWarren |
 | 103 | 492 | Ash Galvan |
 | 104 | 491 | cc |
 | 105 | 489 | April Carroll |
@@ -221,8 +221,8 @@
 | 213 | 290 | Speedy Liney |
 | 214 | 290 | Hellsin |
 | 215 | 287 | Sassy Builderline |
-| 216 | 285 | Bird Person |
-| 217 | 285 | Shanae Grant |
+| 216 | 285 | Shanae Grant |
+| 217 | 285 | Bird Person |
 | 218 | 283 | Franswa |
 | 219 | 283 | Amanda Holibaugh |
 | 220 | 282 | Timothy Dew |
@@ -245,8 +245,8 @@
 | 237 | 264 | Jenny Gingrich Fuentes |
 | 238 | 263 | Jessie Lynn |
 | 239 | 263 | Perky Shiftsnap |
-| 240 | 261 | Brooke Elizabeth Antill |
-| 241 | 261 | John J. Cronin |
+| 240 | 261 | John J. Cronin |
+| 241 | 261 | Brooke Elizabeth Antill |
 | 242 | 260 | Lacy Wolfe |
 | 243 | 260 | Marianita Garcia |
 | 244 | 256 | Francesca Gee |
