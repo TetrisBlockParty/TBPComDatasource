@@ -166,8 +166,8 @@
 | 158 | 591 | Michael Nowogorski |
 | 159 | 588 | Justin Ritter |
 | 160 | 587 | Louise Stacy Sisson |
-| 161 | 585 | Happy Tetriblast |
-| 162 | 585 | Annie Marie |
+| 161 | 585 | Annie Marie |
+| 162 | 585 | Happy Tetriblast |
 | 163 | 582 | Natasha Jones |
 | 164 | 579 | Tasha Gillespie |
 | 165 | 577 | Domo Washington |
@@ -179,8 +179,8 @@
 | 171 | 558 | Patti Skiles |
 | 172 | 556 | Elissa S-k |
 | 173 | 553 | LaTanya GeminiondaRise Johnson |
-| 174 | 546 | Mykal Burton |
-| 175 | 546 | Cynthia Castros-Hampton |
+| 174 | 546 | Cynthia Castros-Hampton |
+| 175 | 546 | Mykal Burton |
 | 176 | 541 | Tasha Schriewer |
 | 177 | 540 | Shawn Miller |
 | 178 | 535 | Jone |
@@ -195,8 +195,8 @@
 | 187 | 507 | Jim Mathews |
 | 188 | 502 | Snappy Balancer |
 | 189 | 500 | Sherika C. McDaniels |
-| 190 | 496 | Makelini Mausia |
-| 191 | 496 | Loopy Fallmatch |
+| 190 | 496 | Loopy Fallmatch |
+| 191 | 496 | Makelini Mausia |
 | 192 | 494 | FuzzyNavel |
 | 193 | 489 | Shannon Matthew Byers |
 | 194 | 489 | Poppy Splitter |
@@ -260,8 +260,8 @@
 | 252 | 369 | Keis |
 | 253 | 368 | Sheila M Frazier |
 | 254 | 368 | Stephanie Woods |
-| 255 | 367 | Kristin Delibac Corrigan |
-| 256 | 367 | Grego Daniel |
+| 255 | 367 | Grego Daniel |
+| 256 | 367 | Kristin Delibac Corrigan |
 | 257 | 366 | Randy Clevenger |
 | 258 | 366 | Gumbo |
 | 259 | 365 | Noyb Adam |
@@ -284,8 +284,8 @@
 | 276 | 346 | Tamara Deherrera |
 | 277 | 345 | MsBee |
 | 278 | 344 | Roary Danner |
-| 279 | 343 | Ashley Rufus Bythcez |
-| 280 | 343 | Ashley Raines |
+| 279 | 343 | Ashley Raines |
+| 280 | 343 | Ashley Rufus Bythcez |
 | 281 | 341 | Ashley Tookes |
 | 282 | 339 | Cynthia Herrmann Egland |
 | 283 | 338 | fraulila |
@@ -335,8 +335,8 @@
 | 327 | 289 | DidIdothat |
 | 328 | 289 | Salena Whitlock |
 | 329 | 288 | Stephanie Bradley |
-| 330 | 287 | Sabrina Hardrick |
-| 331 | 287 | Carol Cain Thurman |
+| 330 | 287 | Carol Cain Thurman |
+| 331 | 287 | Sabrina Hardrick |
 | 332 | 287 | Hoppy Patternline |
 | 333 | 286 | Micayah Stevens |
 | 334 | 284 | Cheryl Hinch Tenbrook |

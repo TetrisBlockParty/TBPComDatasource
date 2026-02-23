@@ -217,8 +217,8 @@
 | 209 | 1232 | Ambyre Patterson |
 | 210 | 1232 | Groovy Puzzle |
 | 211 | 1230 | Megan Garrick |
-| 212 | 1217 | Lucky Ladybug |
-| 213 | 1217 | Brooks Brooks |
+| 212 | 1217 | Brooks Brooks |
+| 213 | 1217 | Lucky Ladybug |
 | 214 | 1214 | David Cudicio-Hayden |
 | 215 | 1210 | Jane Fong |
 | 216 | 1205 | Tony Lea |
@@ -273,8 +273,8 @@
 | 265 | 1047 | Dany Murillo |
 | 266 | 1045 | Bri Lynn |
 | 267 | 1045 | Lourisha |
-| 268 | 1043 | nikki |
-| 269 | 1043 | Brave Dropmatch |
+| 268 | 1043 | Brave Dropmatch |
+| 269 | 1043 | nikki |
 | 270 | 1036 | Amber Shoemaker |
 | 271 | 1036 | Allison Lockyer |
 | 272 | 1026 | Kristin Gower |
@@ -416,9 +416,9 @@
 | 408 | 748 | Brenda Utphall |
 | 409 | 748 | Spunkysmom |
 | 410 | 746 | Aimee Campbell |
-| 411 | 746 | Jerilyn Andrina |
-| 412 | 746 | Leslie Ann Carter |
-| 413 | 746 | Mandi Douglas Hilt |
+| 411 | 746 | Mandi Douglas Hilt |
+| 412 | 746 | Jerilyn Andrina |
+| 413 | 746 | Leslie Ann Carter |
 | 414 | 741 | Jánine Riggs |
 | 415 | 740 | Jerry Tempelmeyer |
 | 416 | 737 | Jeremy Parodi |
@@ -500,8 +500,8 @@
 | 492 | 650 | Gary Stash |
 | 493 | 648 | Brittney Jean |
 | 494 | 646 | Jazzy Clusterline |
-| 495 | 644 | Véronique Lévesque Sabourin |
-| 496 | 644 | Demeka Dangerous-kisses Johnson |
+| 495 | 644 | Demeka Dangerous-kisses Johnson |
+| 496 | 644 | Véronique Lévesque Sabourin |
 | 497 | 643 | Michelle Pike |
 | 498 | 642 | Cassie Maynard |
 | 499 | 642 | Michelle Fields |
@@ -592,9 +592,9 @@
 | 584 | 555 | Misty Mitchell |
 | 585 | 554 | Tra Barnum |
 | 586 | 554 | Dizzy Zone |
-| 587 | 554 | Party d |
-| 588 | 554 | Laquetta Royston |
-| 589 | 554 | Fi Ne |
+| 587 | 554 | Laquetta Royston |
+| 588 | 554 | Fi Ne |
+| 589 | 554 | Party d |
 | 590 | 553 | Kelli Wells |
 | 591 | 551 | Matt Johnson |
 | 592 | 551 | Cynthia Louann Rose |
@@ -623,8 +623,8 @@
 | 615 | 531 | Matthew Joseph Acevedo |
 | 616 | 531 | Maricia Layolla Cason |
 | 617 | 530 | James Louie |
-| 618 | 528 | Kyle LeRoy Harris |
-| 619 | 528 | Mamachelle Eisweirth |
+| 618 | 528 | Mamachelle Eisweirth |
+| 619 | 528 | Kyle LeRoy Harris |
 | 620 | 527 | Ryan Gunther |
 | 621 | 527 | Heather M Purcell |
 | 622 | 523 | NanDa Cruzan VI |

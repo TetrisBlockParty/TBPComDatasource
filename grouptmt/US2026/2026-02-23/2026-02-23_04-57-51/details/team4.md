@@ -79,8 +79,8 @@
 | 71 | 749 | Dustee Craddock-Harrison |
 | 72 | 742 | Carolyn Wallace |
 | 73 | 740 | Avy Absol |
-| 74 | 736 | Crystal Carroll |
-| 75 | 736 | Goatimus Lombardi |
+| 74 | 736 | Goatimus Lombardi |
+| 75 | 736 | Crystal Carroll |
 | 76 | 721 | TheNeesh50 |
 | 77 | 717 | D3TROITB0RN74 |
 | 78 | 706 | Lisa Davis |
@@ -241,8 +241,8 @@
 | 233 | 270 | Juls |
 | 234 | 267 | JPW |
 | 235 | 266 | Mr. Party |
-| 236 | 265 | Silly SeaWeed |
-| 237 | 265 | Sarah Neathery |
+| 236 | 265 | Sarah Neathery |
+| 237 | 265 | Silly SeaWeed |
 | 238 | 264 | Stella |
 | 239 | 262 | Selena Shaw |
 | 240 | 262 | BigSammy420 |
@@ -251,8 +251,8 @@
 | 243 | 259 | Allen Lloyd |
 | 244 | 259 | Montiette Mcglown |
 | 245 | 257 | PeaceOs |
-| 246 | 256 | Mylo Lipscomb |
-| 247 | 256 | Metsfan |
+| 246 | 256 | Metsfan |
+| 247 | 256 | Mylo Lipscomb |
 | 248 | 255 | Zethra Prenisha Rahming |
 | 249 | 253 | Autum Leigh |
 | 250 | 252 | John Brunetti |
@@ -283,8 +283,8 @@
 | 275 | 233 | Ruben Wheeler |
 | 276 | 230 | Denise B |
 | 277 | 228 | Bethany Ison |
-| 278 | 226 | Dizzy Matchzone |
-| 279 | 226 | Cranky Rollpiece |
+| 278 | 226 | Cranky Rollpiece |
+| 279 | 226 | Dizzy Matchzone |
 | 280 | 225 | Jenna McGeorge |
 | 281 | 225 | ZeeZee |
 | 282 | 224 | Ultramarine |
