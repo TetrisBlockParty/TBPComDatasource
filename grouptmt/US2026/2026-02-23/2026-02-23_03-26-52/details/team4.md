@@ -133,8 +133,8 @@
 | 125 | 452 | Jolly Dashfit |
 | 126 | 451 | Peachy Fall |
 | 127 | 448 | Kristin Manee |
-| 128 | 435 | Leslie Thomas |
-| 129 | 435 | Kristina Black |
+| 128 | 435 | Kristina Black |
+| 129 | 435 | Leslie Thomas |
 | 130 | 431 | Courtney Cicoria |
 | 131 | 421 | Kesha Brady |
 | 132 | 421 | JIGsaw ~(•¿°)~ |
@@ -156,8 +156,8 @@
 | 148 | 393 | Girl |
 | 149 | 391 | Ramel Rhodes |
 | 150 | 389 | Joseph Guthrie |
-| 151 | 387 | 🥔🥔 Spudz |
-| 152 | 387 | Lucas J Sutton |
+| 151 | 387 | Lucas J Sutton |
+| 152 | 387 | 🥔🥔 Spudz |
 | 153 | 377 | Carrie Brian |
 | 154 | 375 | Desi Desporte |
 | 155 | 375 | ThaEviLJeNiuZ |
@@ -200,8 +200,8 @@
 | 192 | 307 | Michele Plunkett |
 | 193 | 306 | blockstar |
 | 194 | 305 | Melvin Baird |
-| 195 | 304 | Mary Ann Pabukis |
-| 196 | 304 | Lindsay Ball |
+| 195 | 304 | Lindsay Ball |
+| 196 | 304 | Mary Ann Pabukis |
 | 197 | 302 | Cursed Hag |
 | 198 | 301 | Andria Lynn |
 | 199 | 300 | Zakia Monae |
@@ -229,15 +229,15 @@
 | 221 | 276 | Joeliecea Cobb |
 | 222 | 276 | Matt Dell'Olio |
 | 223 | 273 | Casey Grabner |
-| 224 | 272 | Alan George LaRage |
-| 225 | 272 | Dennis Bradley |
+| 224 | 272 | Dennis Bradley |
+| 225 | 272 | Alan George LaRage |
 | 226 | 271 | Holly |
 | 227 | 270 | Jen Caldwell |
 | 228 | 270 | Juls |
 | 229 | 266 | Mr. Party |
 | 230 | 265 | Sarah Neathery |
-| 231 | 264 | Carlos Ramirez |
-| 232 | 264 | Stella |
+| 231 | 264 | Stella |
+| 232 | 264 | Carlos Ramirez |
 | 233 | 263 | JPW |
 | 234 | 262 | BigSammy420 |
 | 235 | 262 | Selena Shaw |

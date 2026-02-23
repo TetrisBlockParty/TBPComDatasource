@@ -207,8 +207,8 @@
 | 199 | 1244 | Teddi Notyalc |
 | 200 | 1243 | Anna Edwards |
 | 201 | 1237 | Megan Ferguson Leone |
-| 202 | 1232 | Groovy Puzzle |
-| 203 | 1232 | Ambyre Patterson |
+| 202 | 1232 | Ambyre Patterson |
+| 203 | 1232 | Groovy Puzzle |
 | 204 | 1230 | Megan Garrick |
 | 205 | 1217 | Lucky Ladybug |
 | 206 | 1217 | Brooks Brooks |
@@ -406,8 +406,8 @@
 | 398 | 748 | Brenda Utphall |
 | 399 | 748 | Spunkysmom |
 | 400 | 747 | Kiely Tomaskovich |
-| 401 | 746 | Jerilyn Andrina |
-| 402 | 746 | Leslie Ann Carter |
+| 401 | 746 | Leslie Ann Carter |
+| 402 | 746 | Jerilyn Andrina |
 | 403 | 746 | Aimee Campbell |
 | 404 | 744 | Mandi Douglas Hilt |
 | 405 | 743 | Tiara Elizabeth Baker |
@@ -444,8 +444,8 @@
 | 436 | 703 | Ann Matzkanin |
 | 437 | 703 | Funky Drop |
 | 438 | 702 | Kimberly Randesi |
-| 439 | 700 | Beverly Owens |
-| 440 | 700 | Vincent Petrella |
+| 439 | 700 | Vincent Petrella |
+| 440 | 700 | Beverly Owens |
 | 441 | 699 | Dannette Goldberg-Richards |
 | 442 | 698 | Joce Lynn |
 | 443 | 697 | Snappy Matchbuilder |

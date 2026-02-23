@@ -278,8 +278,8 @@
 | 270 | 346 | Tamara Deherrera |
 | 271 | 345 | MsBee |
 | 272 | 344 | Roary Danner |
-| 273 | 343 | Ashley Raines |
-| 274 | 343 | Ashley Rufus Bythcez |
+| 273 | 343 | Ashley Rufus Bythcez |
+| 274 | 343 | Ashley Raines |
 | 275 | 341 | Ashley Tookes |
 | 276 | 339 | Cynthia Herrmann Egland |
 | 277 | 338 | Gumbo |
@@ -367,11 +367,11 @@
 | 359 | 263 | Jimmie Clemons |
 | 360 | 262 | Isabel Ocasio |
 | 361 | 260 | Tracey Cox |
-| 362 | 259 | Alice |
-| 363 | 259 | Jessica Lynn French |
+| 362 | 259 | Jessica Lynn French |
+| 363 | 259 | Alice |
 | 364 | 259 | Dana Winters |
-| 365 | 258 | IamJust Neyamijah Washington Sr. |
-| 366 | 258 | Sleepy |
+| 365 | 258 | Sleepy |
+| 366 | 258 | IamJust Neyamijah Washington Sr. |
 | 367 | 257 | Naur |
 | 368 | 257 | Rachel Grant |
 | 369 | 256 | KayB |
@@ -612,8 +612,8 @@
 | 604 | 164 | TazB |
 | 605 | 164 | Mindy Phelps |
 | 606 | 164 | Lesa Bartlett |
-| 607 | 164 | Tenisha Semidey |
-| 608 | 164 | Eboni Starr |
+| 607 | 164 | Eboni Starr |
+| 608 | 164 | Tenisha Semidey |
 | 609 | 163 | Spencer Nikki |
 | 610 | 163 | Crystal Johnson |
 | 611 | 163 | Diana Ibarra |
@@ -663,10 +663,10 @@
 | 655 | 154 | Rima Mackelburger |
 | 656 | 154 | Steph Arcari |
 | 657 | 154 | Lexi |
-| 658 | 153 | Jada Cox |
-| 659 | 153 | Jessie Chung |
-| 660 | 152 | Louise Parker |
-| 661 | 152 | Christine Vosburgh |
+| 658 | 153 | Jessie Chung |
+| 659 | 153 | Jada Cox |
+| 660 | 152 | Christine Vosburgh |
+| 661 | 152 | Louise Parker |
 | 662 | 151 | Lisa Bard |
 | 663 | 150 | Sapphire87 |
 | 664 | 150 | Leticia Lynn Lowe |
