@@ -345,8 +345,8 @@
 | 337 | 904 | Bee |
 | 338 | 903 | Giggy Blocker |
 | 339 | 901 | Kevin Sees |
-| 340 | 899 | Patrick Bartlett |
-| 341 | 899 | Chevy |
+| 340 | 899 | Chevy |
+| 341 | 899 | Patrick Bartlett |
 | 342 | 898 | Jamie Otero |
 | 343 | 895 | Donna Colby |
 | 344 | 888 | Donna M Carter |
@@ -544,8 +544,8 @@
 | 536 | 620 | Brenna Ann |
 | 537 | 619 | Lylymom |
 | 538 | 618 | Vanessa Moreno |
-| 539 | 617 | Kacee Conrad Bock |
-| 540 | 617 | Darcy Mae |
+| 539 | 617 | Darcy Mae |
+| 540 | 617 | Kacee Conrad Bock |
 | 541 | 615 | Nerdy Pattern |
 | 542 | 615 | Julio A Laracuente |
 | 543 | 615 | Lyndi Robinson Wakefield |

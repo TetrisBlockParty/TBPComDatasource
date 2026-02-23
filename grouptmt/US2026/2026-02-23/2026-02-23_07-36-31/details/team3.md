@@ -212,8 +212,8 @@
 | 204 | 488 | Melissa Orth Hunter |
 | 205 | 485 | Dapper Snap |
 | 206 | 484 | Fallorina Susana |
-| 207 | 480 | Michael Johnson |
-| 208 | 480 | Danielle Allison |
+| 207 | 480 | Danielle Allison |
+| 208 | 480 | Michael Johnson |
 | 209 | 475 | Tessina Dewey-Mancino |
 | 210 | 473 | Rachel |
 | 211 | 473 | Connie Mohler-Fair |
@@ -280,8 +280,8 @@
 | 272 | 359 | Sleepy |
 | 273 | 357 | Stephanie Burtin |
 | 274 | 354 | Eileen Brady Thurber |
-| 275 | 354 | Andrew Thorson |
-| 276 | 354 | Roary Danner |
+| 275 | 354 | Roary Danner |
+| 276 | 354 | Andrew Thorson |
 | 277 | 354 | Kelly |
 | 278 | 353 | Cyd061769 |
 | 279 | 353 | Dee Franklin |
@@ -303,8 +303,8 @@
 | 295 | 338 | fraulila |
 | 296 | 337 | Sabrina Hardrick |
 | 297 | 336 | Foltz Lee Kelli |
-| 298 | 336 | Jojo M |
-| 299 | 336 | Isabel Ocasio |
+| 298 | 336 | Isabel Ocasio |
+| 299 | 336 | Jojo M |
 | 300 | 335 | victory |
 | 301 | 332 | Velma Mull |
 | 302 | 332 | Brittany |
@@ -364,8 +364,8 @@
 | 356 | 280 | ROODBOY |
 | 357 | 280 | Aerian Preston |
 | 358 | 280 | Dirtgirl27 |
-| 359 | 279 | Naur |
-| 360 | 279 | Tosha Griffey |
+| 359 | 279 | Tosha Griffey |
+| 360 | 279 | Naur |
 | 361 | 278 | Rufus Lincoln |
 | 362 | 277 | Krystal Gerstberger |
 | 363 | 277 | Joe-Maggie Mathews |
@@ -403,9 +403,9 @@
 | 395 | 260 | Alice |
 | 396 | 260 | Tracey Cox |
 | 397 | 259 | JessDrown |
-| 398 | 259 | Tegan Chapman |
+| 398 | 259 | Dana Winters |
 | 399 | 259 | Shania Vaine |
-| 400 | 259 | Dana Winters |
+| 400 | 259 | Tegan Chapman |
 | 401 | 258 | IamJust Neyamijah Washington Sr. |
 | 402 | 257 | Rachel Grant |
 | 403 | 257 | Chris Wallace |
@@ -459,8 +459,8 @@
 | 451 | 234 | Cheeky Twisterfit |
 | 452 | 233 | Criss |
 | 453 | 233 | Tony Waters |
-| 454 | 232 | Melanie Sherwood |
-| 455 | 232 | Stephanie Hill |
+| 454 | 232 | Stephanie Hill |
+| 455 | 232 | Melanie Sherwood |
 | 456 | 232 | Sunny Tiltgrid |
 | 457 | 231 | Giggly Brickroll |
 | 458 | 231 | Frothy Snapper |
@@ -468,8 +468,8 @@
 | 460 | 230 | BigE |
 | 461 | 229 | MizzMonick Smith |
 | 462 | 229 | Everret Maxine |
-| 463 | 228 | Dapper Liney |
-| 464 | 228 | Tipsy Zonebuilder |
+| 463 | 228 | Tipsy Zonebuilder |
+| 464 | 228 | Dapper Liney |
 | 465 | 227 | Meowsa |
 | 466 | 226 | paranoid |
 | 467 | 226 | Jana Polk |
@@ -516,8 +516,8 @@
 | 508 | 209 | TazB |
 | 509 | 208 | Jessica Christian |
 | 510 | 208 | Luccy Luxe |
-| 511 | 207 | Nichol Graham |
-| 512 | 207 | Misstery |
+| 511 | 207 | Misstery |
+| 512 | 207 | Nichol Graham |
 | 513 | 206 | Tammy Rosenberry |
 | 514 | 206 | Dakota Graham |
 | 515 | 205 | Emberblaze |
@@ -555,8 +555,8 @@
 | 547 | 195 | Carrie Resler |
 | 548 | 194 | Kevin Fountain |
 | 549 | 194 | Shicken Nuggit |
-| 550 | 193 | Bryan Byrd |
-| 551 | 193 | Clever Shiftsnap |
+| 550 | 193 | Clever Shiftsnap |
+| 551 | 193 | Bryan Byrd |
 | 552 | 193 | Ginger Gray |
 | 553 | 192 | Laura Booth Wosko |
 | 554 | 192 | Jennifer Neiman Gaal |

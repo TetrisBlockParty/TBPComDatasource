@@ -204,8 +204,8 @@
 | 196 | 324 | Rat666 |
 | 197 | 323 | Madison Wicks |
 | 198 | 322 | Letson Melissa |
-| 199 | 317 | Kimberly Garcia |
-| 200 | 317 | Sarah Roberts |
+| 199 | 317 | Sarah Roberts |
+| 200 | 317 | Kimberly Garcia |
 | 201 | 316 | Reesey Enyart |
 | 202 | 315 | Danielle Little-Daugherty |
 | 203 | 314 | Tana |

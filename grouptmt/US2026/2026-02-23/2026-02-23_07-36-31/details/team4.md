@@ -55,8 +55,8 @@
 | 47 | 938 | Denny Shives |
 | 48 | 936 | Rebecca Moulton Pinciaro |
 | 49 | 932 | Marvin Lou Martin |
-| 50 | 911 | Jeremy Steines |
-| 51 | 911 | Anthony Bryan Riva |
+| 50 | 911 | Anthony Bryan Riva |
+| 51 | 911 | Jeremy Steines |
 | 52 | 870 | BertMofo |
 | 53 | 864 | Shelly Chandler |
 | 54 | 863 | Pee |
@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Kimyatta Cavin |
-| 84 | 684 | Jonathan Kimbrough |
+| 83 | 684 | Jonathan Kimbrough |
+| 84 | 684 | Kimyatta Cavin |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -125,8 +125,8 @@
 | 117 | 514 | Serena Goodridge |
 | 118 | 514 | Scott Jameson |
 | 119 | 513 | Erin Thomas |
-| 120 | 512 | Casey Jeffcoat |
-| 121 | 512 | Cristy Duerksen |
+| 120 | 512 | Cristy Duerksen |
+| 121 | 512 | Casey Jeffcoat |
 | 122 | 511 | Lori Walker |
 | 123 | 509 | Leslie Nicole |
 | 124 | 482 | Ren Mc |
@@ -235,13 +235,13 @@
 | 227 | 286 | Steph Marie |
 | 228 | 285 | 030Synner |
 | 229 | 284 | Mimi |
-| 230 | 282 | Matt Gooder |
-| 231 | 282 | Kim Klutz Olson |
+| 230 | 282 | Kim Klutz Olson |
+| 231 | 282 | Matt Gooder |
 | 232 | 281 | Laura |
 | 233 | 280 | Rio Rocha |
 | 234 | 279 | Malakai Darien Fox |
-| 235 | 278 | Sarah Brown |
-| 236 | 278 | Angela Geist Jusinski |
+| 235 | 278 | Angela Geist Jusinski |
+| 236 | 278 | Sarah Brown |
 | 237 | 276 | Joeliecea Cobb |
 | 238 | 276 | Matt Dell'Olio |
 | 239 | 273 | Cranky Rollpiece |
@@ -249,8 +249,8 @@
 | 241 | 272 | Alan George LaRage |
 | 242 | 272 | Carlos Ramirez |
 | 243 | 271 | Holly |
-| 244 | 270 | Juls |
-| 245 | 270 | Jen Caldwell |
+| 244 | 270 | Jen Caldwell |
+| 245 | 270 | Juls |
 | 246 | 266 | Tracey Lehmann |
 | 247 | 266 | Mr. Party |
 | 248 | 265 | Degenerate |
@@ -269,9 +269,9 @@
 | 261 | 259 | John Brunetti |
 | 262 | 259 | Montiette Mcglown |
 | 263 | 257 | PeaceOs |
-| 264 | 256 | Metsfan |
+| 264 | 256 | Brittany Marsh |
 | 265 | 256 | Jade Rian |
-| 266 | 256 | Brittany Marsh |
+| 266 | 256 | Metsfan |
 | 267 | 253 | Autum Leigh |
 | 268 | 251 | Carol Ricks Raymond |
 | 269 | 249 | Nick Gray |
@@ -303,9 +303,9 @@
 | 295 | 225 | Ernest Maxwell |
 | 296 | 225 | Jenna McGeorge |
 | 297 | 224 | Ultramarine |
-| 298 | 223 | Amanda Christine |
-| 299 | 223 | Adawna Swires |
-| 300 | 223 | Chance Strickland |
+| 298 | 223 | Adawna Swires |
+| 299 | 223 | Chance Strickland |
+| 300 | 223 | Amanda Christine |
 | 301 | 222 | Brandi Durig |
 | 302 | 221 | Rheanda Weaskus |
 | 303 | 221 | Joseph Edmonson |
@@ -322,8 +322,8 @@
 | 314 | 216 | Chantilly Laace |
 | 315 | 216 | mike |
 | 316 | 215 | Stephme310 |
-| 317 | 214 | Patron Anderson |
-| 318 | 214 | Stacey Stano |
+| 317 | 214 | Stacey Stano |
+| 318 | 214 | Patron Anderson |
 | 319 | 213 | Jackie Marie |
 | 320 | 212 | Zany Shatterer |
 | 321 | 212 | Brave Spinbuilder |
