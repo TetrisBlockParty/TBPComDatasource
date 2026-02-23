@@ -98,8 +98,8 @@
 | 90 | 575 | Nancy Green |
 | 91 | 570 | Cody Slav |
 | 92 | 562 | Denice Dee |
-| 93 | 534 | Loony Fitzone |
-| 94 | 534 | Veronica Eve |
+| 93 | 534 | Veronica Eve |
+| 94 | 534 | Loony Fitzone |
 | 95 | 529 | Ryan Lunnin |
 | 96 | 522 | Sarah Lombardo |
 | 97 | 511 | Mario Cab |
@@ -126,8 +126,8 @@
 | 118 | 452 | Hyper |
 | 119 | 451 | Plucky Ziggy |
 | 120 | 450 | lil mickey |
-| 121 | 448 | Jazzy Framezone |
-| 122 | 448 | Sweet Baker |
+| 121 | 448 | Sweet Baker |
+| 122 | 448 | Jazzy Framezone |
 | 123 | 446 | SkipTheSadSauce |
 | 124 | 443 | Steve Schneider |
 | 125 | 439 | Dee Perry |
@@ -182,8 +182,8 @@
 | 174 | 357 | David Lutcher |
 | 175 | 355 | Erin Rosberg |
 | 176 | 355 | Amanda Jarnagin |
-| 177 | 353 | Josh Riemer |
-| 178 | 353 | Jaimie Lynn |
+| 177 | 353 | Jaimie Lynn |
+| 178 | 353 | Josh Riemer |
 | 179 | 350 | Tipsy Strikerpiece |
 | 180 | 349 | Cool Shiftsnap |
 | 181 | 348 | Chelsea Dahlquist |
@@ -193,8 +193,8 @@
 | 185 | 341 | Nick R Montague |
 | 186 | 339 | Nicole Roseberry Weber |
 | 187 | 338 | Jennifer Hardman |
-| 188 | 337 | Jamise Brown |
-| 189 | 337 | Constance Risner |
+| 188 | 337 | Constance Risner |
+| 189 | 337 | Jamise Brown |
 | 190 | 336 | Dizzy Party |
 | 191 | 333 | Gracie |
 | 192 | 333 | Virginia Gray Floyd |

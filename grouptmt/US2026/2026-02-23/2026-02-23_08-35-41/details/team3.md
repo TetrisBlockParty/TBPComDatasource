@@ -114,8 +114,8 @@
 | 106 | 869 | Araceli Parra |
 | 107 | 868 | Sarajane Lokan |
 | 108 | 860 | Sunny Rotater |
-| 109 | 851 | Danielle Becker |
-| 110 | 851 | Jd Morris |
+| 109 | 851 | Jd Morris |
+| 110 | 851 | Danielle Becker |
 | 111 | 850 | Danielle Mogg |
 | 112 | 848 | Patricia Gadsden |
 | 113 | 831 | Angeline Joseph |
@@ -135,8 +135,8 @@
 | 127 | 752 | Logan Naccarato |
 | 128 | 748 | Adrian Marcel Pate |
 | 129 | 745 | JerseyJess |
-| 130 | 744 | Leah Barnett |
-| 131 | 744 | Fancy Cascader |
+| 130 | 744 | Fancy Cascader |
+| 131 | 744 | Leah Barnett |
 | 132 | 736 | mzcatzy |
 | 133 | 734 | Calista Jo Dickson |
 | 134 | 728 | Peppy Shifter |
@@ -196,8 +196,8 @@
 | 188 | 546 | Tasha Schriewer |
 | 189 | 546 | Mykal Burton |
 | 190 | 540 | Shawn Miller |
-| 191 | 531 | Sarah Cowan Burgos |
-| 192 | 531 | Chauntee Alfrey-Cardinale |
+| 191 | 531 | Chauntee Alfrey-Cardinale |
+| 192 | 531 | Sarah Cowan Burgos |
 | 193 | 528 | Silly Twist |
 | 194 | 525 | Stephanie Blkpep Davidson |
 | 195 | 524 | Bmo |
@@ -223,8 +223,8 @@
 | 215 | 471 | Mendoza Lee Christy |
 | 216 | 467 | Sherry Ogden |
 | 217 | 465 | Annie Déè |
-| 218 | 464 | Shunta Jacobs |
-| 219 | 464 | Danielle Weikel |
+| 218 | 464 | Danielle Weikel |
+| 219 | 464 | Shunta Jacobs |
 | 220 | 461 | Tom Nault |
 | 221 | 458 | Danielle Rhoades |
 | 222 | 454 | Joye Sims Binion |
@@ -333,8 +333,8 @@
 | 325 | 311 | Troy |
 | 326 | 309 | Desiree Gold |
 | 327 | 309 | Cheeky Snapper |
-| 328 | 308 | Tia |
-| 329 | 308 | Katrina Turner |
+| 328 | 308 | Katrina Turner |
+| 329 | 308 | Tia |
 | 330 | 305 | Hyper Matchzone |
 | 331 | 304 | _melisa223_ |
 | 332 | 303 | Alexmac |
@@ -349,8 +349,8 @@
 | 341 | 298 | Grams |
 | 342 | 298 | Dannie Litchard |
 | 343 | 297 | kacihall |
-| 344 | 296 | Tracy Martin |
-| 345 | 296 | Donna |
+| 344 | 296 | Donna |
+| 345 | 296 | Tracy Martin |
 | 346 | 295 | Nikki Pags |
 | 347 | 294 | Antonia Russell |
 | 348 | 292 | Kirhonda Autmon |
@@ -367,8 +367,8 @@
 | 359 | 280 | ROODBOY |
 | 360 | 280 | Aerian Preston |
 | 361 | 280 | Dirtgirl27 |
-| 362 | 279 | Tosha Griffey |
-| 363 | 279 | Naur |
+| 362 | 279 | Naur |
+| 363 | 279 | Tosha Griffey |
 | 364 | 278 | Rufus Lincoln |
 | 365 | 277 | Ava Petito |
 | 366 | 277 | France Vézina |
@@ -393,21 +393,21 @@
 | 385 | 269 | Juliana Dottore |
 | 386 | 269 | Samantha Worley |
 | 387 | 268 | Jessica Lynn French |
-| 388 | 267 | April Matthew Kibble |
-| 389 | 267 | Jul |
+| 388 | 267 | Jul |
+| 389 | 267 | April Matthew Kibble |
 | 390 | 267 | Michael Kimbro |
 | 391 | 266 | Quirky Dropzone |
 | 392 | 265 | Heather Davis |
 | 393 | 265 | AlsoJess |
 | 394 | 264 | Reina Roth |
 | 395 | 264 | Danielle Beaunoyer Jean |
-| 396 | 263 | Erika Thornton |
-| 397 | 263 | Jimmie Clemons |
+| 396 | 263 | Jimmie Clemons |
+| 397 | 263 | Erika Thornton |
 | 398 | 261 | Swanky Snapclear |
-| 399 | 260 | Tracey Cox |
-| 400 | 260 | Alice |
-| 401 | 259 | Tegan Chapman |
-| 402 | 259 | Shania Vaine |
+| 399 | 260 | Alice |
+| 400 | 260 | Tracey Cox |
+| 401 | 259 | Shania Vaine |
+| 402 | 259 | Tegan Chapman |
 | 403 | 259 | Dana Winters |
 | 404 | 258 | IamJust Neyamijah Washington Sr. |
 | 405 | 257 | Rachel Grant |
@@ -472,13 +472,13 @@
 | 464 | 230 | DanceLuvLaugh |
 | 465 | 229 | MizzMonick Smith |
 | 466 | 229 | Everret Maxine |
-| 467 | 228 | Tipsy Zonebuilder |
-| 468 | 228 | Dapper Liney |
+| 467 | 228 | Dapper Liney |
+| 468 | 228 | Tipsy Zonebuilder |
 | 469 | 227 | Meowsa |
-| 470 | 226 | Ryan Williams |
-| 471 | 226 | paranoid |
-| 472 | 225 | Sassy Tiler |
-| 473 | 225 | sofaking |
+| 470 | 226 | paranoid |
+| 471 | 226 | Ryan Williams |
+| 472 | 225 | sofaking |
+| 473 | 225 | Sassy Tiler |
 | 474 | 224 | Christina Rotz Shows |
 | 475 | 224 | Cranky Corner |
 | 476 | 224 | Sarah Morris |
@@ -492,8 +492,8 @@
 | 484 | 221 | Vaners |
 | 485 | 221 | Glitzy Rotate |
 | 486 | 220 | Bhreagh Gentile |
-| 487 | 219 | Trice Thomas |
-| 488 | 219 | TLM |
+| 487 | 219 | TLM |
+| 488 | 219 | Trice Thomas |
 | 489 | 218 | Sabrina Mansfield |
 | 490 | 218 | Tina Smith Roy |
 | 491 | 218 | Dapper Chiseler |
@@ -517,8 +517,8 @@
 | 509 | 210 | Megan Riggins |
 | 510 | 210 | Kristian Thurman |
 | 511 | 209 | Ginger Gray |
-| 512 | 209 | Jumpy Wrecker |
-| 513 | 209 | TazB |
+| 512 | 209 | TazB |
+| 513 | 209 | Jumpy Wrecker |
 | 514 | 208 | Jessica Christian |
 | 515 | 208 | Luccy Luxe |
 | 516 | 207 | Misstery |

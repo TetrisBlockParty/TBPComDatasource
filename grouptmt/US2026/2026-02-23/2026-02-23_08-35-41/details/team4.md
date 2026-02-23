@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | KM8 |
-| 93 | 647 | Shauna Havard |
+| 92 | 647 | Shauna Havard |
+| 93 | 647 | KM8 |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -556,8 +556,8 @@
 | 548 | 129 | The Murphy |
 | 549 | 129 | Tamika Starkey |
 | 550 | 128 | Zesty Linkgrid |
-| 551 | 128 | Lazy Glidepiece |
-| 552 | 128 | Raymond Roberts |
+| 551 | 128 | Raymond Roberts |
+| 552 | 128 | Lazy Glidepiece |
 | 553 | 127 | Jay You |
 | 554 | 126 | Jennifer Renee |
 | 555 | 126 | Spicy Cascadezone |
