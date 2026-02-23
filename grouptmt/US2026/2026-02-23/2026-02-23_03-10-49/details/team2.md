@@ -150,8 +150,8 @@
 | 142 | 1589 | blackq |
 | 143 | 1581 | Brandy Andre |
 | 144 | 1580 | Heather Westrum |
-| 145 | 1578 | Sally Dennis |
-| 146 | 1578 | Loopy Clusterbuilder |
+| 145 | 1578 | Loopy Clusterbuilder |
+| 146 | 1578 | Sally Dennis |
 | 147 | 1566 | Alisa Lamb |
 | 148 | 1558 | Tim Dyer |
 | 149 | 1555 | blarg |
@@ -282,8 +282,8 @@
 | 274 | 985 | Keri Womack |
 | 275 | 984 | Crystal Hoffman |
 | 276 | 982 | Porsche' Nicole |
-| 277 | 979 | Hillary Crawford |
-| 278 | 979 | Melissa Penelope Ann Dodge |
+| 277 | 979 | Melissa Penelope Ann Dodge |
+| 278 | 979 | Hillary Crawford |
 | 279 | 977 | Osun Anuket Esu |
 | 280 | 976 | Sam Joe |
 | 281 | 972 | Binyah-Binyah |

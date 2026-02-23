@@ -130,11 +130,11 @@
 | 122 | 471 | Chastity Mitchell |
 | 123 | 458 | Twisty Clicky |
 | 124 | 452 | Jolly Dashfit |
-| 125 | 451 | Peachy Fall |
-| 126 | 451 | Angela Srubar-Norman |
+| 125 | 451 | Angela Srubar-Norman |
+| 126 | 451 | Peachy Fall |
 | 127 | 448 | Kristin Manee |
-| 128 | 435 | Leslie Thomas |
-| 129 | 435 | Kristina Black |
+| 128 | 435 | Kristina Black |
+| 129 | 435 | Leslie Thomas |
 | 130 | 431 | Courtney Cicoria |
 | 131 | 421 | JIGsaw ~(•¿°)~ |
 | 132 | 421 | Kesha Brady |
@@ -150,8 +150,8 @@
 | 142 | 402 | Ericca Eldridge |
 | 143 | 399 | Swanky Fitline |
 | 144 | 394 | Austin Owens |
-| 145 | 393 | Girl |
-| 146 | 393 | Carlton Unfiltered |
+| 145 | 393 | Carlton Unfiltered |
+| 146 | 393 | Girl |
 | 147 | 393 | Trish |
 | 148 | 391 | Livvy |
 | 149 | 391 | Ramel Rhodes |
@@ -159,8 +159,8 @@
 | 151 | 387 | 🥔🥔 Spudz |
 | 152 | 387 | Lucas J Sutton |
 | 153 | 377 | Carrie Brian |
-| 154 | 375 | ThaEviLJeNiuZ |
-| 155 | 375 | Desi Desporte |
+| 154 | 375 | Desi Desporte |
+| 155 | 375 | ThaEviLJeNiuZ |
 | 156 | 374 | Guy Incognito |
 | 157 | 373 | Tyler Terrific |
 | 158 | 370 | Oscar Alberto Perez |
@@ -254,8 +254,8 @@
 | 246 | 248 | Metsfan |
 | 247 | 246 | Zethra Prenisha Rahming |
 | 248 | 245 | 23 |
-| 249 | 244 | Christina Black |
-| 250 | 244 | Elizabeth Tinoco |
+| 249 | 244 | Elizabeth Tinoco |
+| 250 | 244 | Christina Black |
 | 251 | 243 | Nick Gray |
 | 252 | 241 | Allen Lloyd |
 | 253 | 241 | Silly SeaWeed |

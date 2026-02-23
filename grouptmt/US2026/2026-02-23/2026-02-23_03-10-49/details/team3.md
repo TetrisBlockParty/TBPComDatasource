@@ -50,8 +50,8 @@
 | 42 | 1538 | Briarblack |
 | 43 | 1514 | Jeana Gilbert |
 | 44 | 1479 | Mary Pellegrino |
-| 45 | 1474 | Delilah belle |
-| 46 | 1474 | Jennie Beranek |
+| 45 | 1474 | Jennie Beranek |
+| 46 | 1474 | Delilah belle |
 | 47 | 1441 | Jessica Ann |
 | 48 | 1402 | cowboy25469 |
 | 49 | 1398 | Josiah Fam |
@@ -363,8 +363,8 @@
 | 355 | 267 | April Matthew Kibble |
 | 356 | 267 | Michael Kimbro |
 | 357 | 266 | Quirky Dropzone |
-| 358 | 263 | Jimmie Clemons |
-| 359 | 263 | Erika Thornton |
+| 358 | 263 | Erika Thornton |
+| 359 | 263 | Jimmie Clemons |
 | 360 | 260 | Tracey Cox |
 | 361 | 259 | Jessica Lynn French |
 | 362 | 259 | Alice |
@@ -385,7 +385,7 @@
 | 377 | 247 | Jessica |
 | 378 | 247 | Daring Builder |
 | 379 | 246 | gremicx |
-| 380 | 245 | Colleen Phelps |
+| 380 | 245 | Latoya Mayne |
 | 381 | 245 | AlsoJess |
 | 382 | 245 | Colleen Phelps |
 | 383 | 244 | Quackers |
