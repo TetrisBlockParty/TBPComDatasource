@@ -135,8 +135,8 @@
 | 127 | 1681 | Nett |
 | 128 | 1681 | Shandrica Lowe |
 | 129 | 1658 | Liberty |
-| 130 | 1656 | Kristopher Miller |
-| 131 | 1656 | Auntie B |
+| 130 | 1656 | Auntie B |
+| 131 | 1656 | Kristopher Miller |
 | 132 | 1644 | Luna |
 | 133 | 1639 | Jessie McDougald |
 | 134 | 1631 | Speedy Spinblock |
@@ -311,8 +311,8 @@
 | 303 | 915 | Kelly Trent |
 | 304 | 914 | Shuany Arias |
 | 305 | 909 | Ashlen Dorrell |
-| 306 | 907 | Michelle Lee |
-| 307 | 907 | Gene Mills |
+| 306 | 907 | Gene Mills |
+| 307 | 907 | Michelle Lee |
 | 308 | 906 | Deborah Miller |
 | 309 | 905 | F-X |
 | 310 | 904 | Jennifer Aiken |

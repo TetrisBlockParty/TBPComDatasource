@@ -142,8 +142,8 @@
 | 134 | 386 | Ty Brown |
 | 135 | 383 | pjbeta |
 | 136 | 381 | Fmp |
-| 137 | 379 | Kimmie Kimms |
-| 138 | 379 | Austin James |
+| 137 | 379 | Austin James |
+| 138 | 379 | Kimmie Kimms |
 | 139 | 376 | Brian Richardsson |
 | 140 | 375 | Monica Donato |
 | 141 | 375 | Tanya Carpenter-Reynolds |

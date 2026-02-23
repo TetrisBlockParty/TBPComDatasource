@@ -56,8 +56,8 @@
 | 48 | 878 | Rebecca Moulton Pinciaro |
 | 49 | 855 | Marvin Lou Martin |
 | 50 | 853 | TeeJ |
-| 51 | 846 | Christine Marie |
-| 52 | 846 | Lucille Truesdale |
+| 51 | 846 | Lucille Truesdale |
+| 52 | 846 | Christine Marie |
 | 53 | 845 | LisaJo Picken Buchanan |
 | 54 | 843 | Shelly Chandler |
 | 55 | 841 | Anthony Bryan Riva |
@@ -133,10 +133,10 @@
 | 125 | 451 | Peachy Fall |
 | 126 | 451 | Angela Srubar-Norman |
 | 127 | 448 | Kristin Manee |
-| 128 | 435 | Leslie Thomas |
-| 129 | 435 | Kristina Black |
+| 128 | 435 | Kristina Black |
+| 129 | 435 | Leslie Thomas |
 | 130 | 431 | Courtney Cicoria |
-| 131 | 421 | Kesha Brady |
+| 131 | 421 | JIGsaw ~(•¿°)~ |
 | 132 | 421 | Monica Daley |
 | 133 | 421 | Kesha Brady |
 | 134 | 418 | Marie-Pier Desjardins |

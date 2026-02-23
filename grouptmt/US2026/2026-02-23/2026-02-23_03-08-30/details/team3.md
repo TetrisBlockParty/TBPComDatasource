@@ -125,8 +125,8 @@
 | 117 | 747 | Kristie |
 | 118 | 746 | Raya |
 | 119 | 745 | JerseyJess |
-| 120 | 744 | Leah Barnett |
-| 121 | 744 | Fancy Cascader |
+| 120 | 744 | Fancy Cascader |
+| 121 | 744 | Leah Barnett |
 | 122 | 742 | Groovy Catcher |
 | 123 | 733 | mzcatzy |
 | 124 | 728 | Peppy Shifter |
@@ -236,8 +236,8 @@
 | 228 | 400 | Denita Mungro |
 | 229 | 399 | Kristal C Lee |
 | 230 | 393 | Rebecca Funderburk Kirby |
-| 231 | 391 | Trisha Balmer |
-| 232 | 391 | Nicole Flippo |
+| 231 | 391 | Nicole Flippo |
+| 232 | 391 | Trisha Balmer |
 | 233 | 390 | rosy |
 | 234 | 387 | Gideon Walker |
 | 235 | 384 | Marci Mize Fandrich |
@@ -320,8 +320,8 @@
 | 312 | 294 | Betty Bóò |
 | 313 | 291 | Geoffrey Nash |
 | 314 | 289 | DidIdothat |
-| 315 | 287 | Sabrina Hardrick |
-| 316 | 287 | Carol Cain Thurman |
+| 315 | 287 | Carol Cain Thurman |
+| 316 | 287 | Sabrina Hardrick |
 | 317 | 287 | Hoppy Patternline |
 | 318 | 286 | Micayah Stevens |
 | 319 | 286 | Lizabeth Fox |
@@ -344,8 +344,8 @@
 | 336 | 276 | Karent524 |
 | 337 | 275 | Michael Lucado |
 | 338 | 275 | Nikki Pags |
-| 339 | 275 | Antonia Russell |
-| 340 | 275 | Cassandra Bryant |
+| 339 | 275 | Cassandra Bryant |
+| 340 | 275 | Antonia Russell |
 | 341 | 274 | Mary Giorgenti |
 | 342 | 274 | Angela Scott |
 | 343 | 273 | France Vézina |
