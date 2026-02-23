@@ -26,8 +26,8 @@
 | 18 | 1636 | Cassie Michaux |
 | 19 | 1565 | GreenJeepGirl |
 | 20 | 1558 | Leah Gorsuch |
-| 21 | 1536 | Misty Hollibaugh |
-| 22 | 1536 | Roger Coulter |
+| 21 | 1536 | Roger Coulter |
+| 22 | 1536 | Misty Hollibaugh |
 | 23 | 1485 | Juggalo |
 | 24 | 1390 | Sammy Noguera |
 | 25 | 1382 | Tammi Crnza |
@@ -204,8 +204,8 @@
 | 196 | 336 | Bio Nelly |
 | 197 | 334 | Kris Bartlett |
 | 198 | 332 | HastyGrabber |
-| 199 | 330 | Kathy Brookins |
-| 200 | 330 | blockstar |
+| 199 | 330 | blockstar |
+| 200 | 330 | Kathy Brookins |
 | 201 | 328 | scott |
 | 202 | 327 | J-Rizzle |
 | 203 | 324 | jim |
