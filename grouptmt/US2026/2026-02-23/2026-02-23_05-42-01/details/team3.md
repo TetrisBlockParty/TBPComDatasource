@@ -111,8 +111,8 @@
 | 103 | 868 | Sarajane Lokan |
 | 104 | 866 | Ebony West-Cundiff |
 | 105 | 860 | Sunny Rotater |
-| 106 | 851 | Danielle Becker |
-| 107 | 851 | Jd Morris |
+| 106 | 851 | Jd Morris |
+| 107 | 851 | Danielle Becker |
 | 108 | 850 | Danielle Mogg |
 | 109 | 848 | Patricia Gadsden |
 | 110 | 831 | Angeline Joseph |
@@ -125,8 +125,8 @@
 | 117 | 769 | Kristie |
 | 118 | 764 | Groovy Catcher |
 | 119 | 762 | Speedy Bridger |
-| 120 | 752 | Logan Naccarato |
-| 121 | 752 | Raya |
+| 120 | 752 | Raya |
+| 121 | 752 | Logan Naccarato |
 | 122 | 748 | Adrian Marcel Pate |
 | 123 | 745 | JerseyJess |
 | 124 | 744 | Fancy Cascader |
@@ -182,8 +182,8 @@
 | 174 | 558 | Patti Skiles |
 | 175 | 556 | Elissa S-k |
 | 176 | 553 | LaTanya GeminiondaRise Johnson |
-| 177 | 546 | Mykal Burton |
-| 178 | 546 | Cynthia Castros-Hampton |
+| 177 | 546 | Cynthia Castros-Hampton |
+| 178 | 546 | Mykal Burton |
 | 179 | 541 | Tasha Schriewer |
 | 180 | 540 | Shawn Miller |
 | 181 | 535 | Jone |
@@ -202,8 +202,8 @@
 | 194 | 496 | Makelini Mausia |
 | 195 | 495 | Terry Jo Jones |
 | 196 | 494 | FuzzyNavel |
-| 197 | 489 | Poppy Splitter |
-| 198 | 489 | Shannon Matthew Byers |
+| 197 | 489 | Shannon Matthew Byers |
+| 198 | 489 | Poppy Splitter |
 | 199 | 488 | Melissa Orth Hunter |
 | 200 | 485 | Dapper Snap |
 | 201 | 480 | Danielle Allison |

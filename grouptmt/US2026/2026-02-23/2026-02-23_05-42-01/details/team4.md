@@ -53,8 +53,8 @@
 | 45 | 960 | Dustin Robert |
 | 46 | 938 | Denny Shives |
 | 47 | 936 | Rebecca Moulton Pinciaro |
-| 48 | 911 | Anthony Bryan Riva |
-| 49 | 911 | Jeremy Steines |
+| 48 | 911 | Jeremy Steines |
+| 49 | 911 | Anthony Bryan Riva |
 | 50 | 873 | Marvin Lou Martin |
 | 51 | 870 | BertMofo |
 | 52 | 863 | Pee |
@@ -71,8 +71,8 @@
 | 63 | 781 | Chilly Line |
 | 64 | 781 | Ashley Ingram |
 | 65 | 767 | Shannon Ferrari |
-| 66 | 766 | Edward White |
-| 67 | 766 | Robin Watters |
+| 66 | 766 | Robin Watters |
+| 67 | 766 | Edward White |
 | 68 | 765 | Robin Getchel |
 | 69 | 765 | Denise Carlson |
 | 70 | 752 | loulou |
@@ -96,8 +96,8 @@
 | 88 | 664 | Valerie Roberts |
 | 89 | 659 | Jamie Gustafson |
 | 90 | 650 | KJ Pool |
-| 91 | 647 | Shauna Havard |
-| 92 | 647 | KM8 |
+| 91 | 647 | KM8 |
+| 92 | 647 | Shauna Havard |
 | 93 | 646 | Eric Mcgaughy |
 | 94 | 626 | Brittney Griggs |
 | 95 | 624 | Judy Cox |
@@ -174,8 +174,8 @@
 | 166 | 368 | Raegan Lane-Ross |
 | 167 | 368 | Chris Bernstein |
 | 168 | 365 | Jeff Brian Gates |
-| 169 | 361 | Danielle Kollias |
-| 170 | 361 | Melissa Adams |
+| 169 | 361 | Melissa Adams |
+| 170 | 361 | Danielle Kollias |
 | 171 | 359 | Keith Kelley |
 | 172 | 358 | A5! |
 | 173 | 356 | George Nutt |
@@ -215,8 +215,8 @@
 | 207 | 300 | Zakia Monae |
 | 208 | 300 | Dihcheese444 |
 | 209 | 295 | Keshia Lyons |
-| 210 | 294 | Porkobello |
-| 211 | 294 | Calvin Cannon |
+| 210 | 294 | Calvin Cannon |
+| 211 | 294 | Porkobello |
 | 212 | 292 | Epic Curvetile |
 | 213 | 290 | Rebecca Morris |
 | 214 | 290 | Plucky Patternblock |

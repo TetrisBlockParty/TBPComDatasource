@@ -151,8 +151,8 @@
 | 143 | 1639 | Jessie McDougald |
 | 144 | 1638 | Speedy Spinblock |
 | 145 | 1629 | Mari Ac |
-| 146 | 1623 | Janel Turley-Garner |
-| 147 | 1623 | Rebecca Doughman |
+| 146 | 1623 | Rebecca Doughman |
+| 147 | 1623 | Janel Turley-Garner |
 | 148 | 1605 | Christi Hulet |
 | 149 | 1602 | blackq |
 | 150 | 1601 | Ray Ray Prado |
@@ -299,11 +299,11 @@
 | 291 | 987 | Osun Anuket Esu |
 | 292 | 984 | Crystal Hoffman |
 | 293 | 981 | Ashlen Dorrell |
-| 294 | 979 | Hillary Crawford |
-| 295 | 979 | Melissa Penelope Ann Dodge |
+| 294 | 979 | Melissa Penelope Ann Dodge |
+| 295 | 979 | Hillary Crawford |
 | 296 | 978 | April Dawn Gussler |
-| 297 | 976 | Della Hole |
-| 298 | 976 | Sam Joe |
+| 297 | 976 | Sam Joe |
+| 298 | 976 | Della Hole |
 | 299 | 972 | Binyah-Binyah |
 | 300 | 972 | Barbra Miller |
 | 301 | 971 | Jojo Momma |
@@ -336,8 +336,8 @@
 | 328 | 903 | Giggy Blocker |
 | 329 | 902 | William Hunt |
 | 330 | 901 | Kevin Sees |
-| 331 | 899 | Patrick Bartlett |
-| 332 | 899 | Chevy |
+| 331 | 899 | Chevy |
+| 332 | 899 | Patrick Bartlett |
 | 333 | 898 | Jamie Otero |
 | 334 | 895 | Donna Colby |
 | 335 | 890 | Steve Man |
@@ -432,9 +432,9 @@
 | 424 | 746 | Mandi Douglas Hilt |
 | 425 | 741 | Jánine Riggs |
 | 426 | 740 | Jerry Tempelmeyer |
-| 427 | 737 | Ginger |
-| 428 | 737 | Jeremy Parodi |
-| 429 | 737 | Chelle |
+| 427 | 737 | Jeremy Parodi |
+| 428 | 737 | Chelle |
+| 429 | 737 | Ginger |
 | 430 | 736 | John Rodriguez |
 | 431 | 732 | Victoria Moore-Smith |
 | 432 | 731 | Charvi' Carter |
@@ -449,8 +449,8 @@
 | 441 | 720 | BeQuo |
 | 442 | 720 | Giggy Mover |
 | 443 | 714 | Caitlyn Blackwell |
-| 444 | 713 | Christie |
-| 445 | 713 | Draizen Montrell Thomas |
+| 444 | 713 | Draizen Montrell Thomas |
+| 445 | 713 | Christie |
 | 446 | 712 | Amanda Ferrell |
 | 447 | 711 | Narutofreak13 |
 | 448 | 710 | Mama T |

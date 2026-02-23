@@ -102,12 +102,12 @@
 | 94 | 529 | Ryan Lunnin |
 | 95 | 522 | Sarah Lombardo |
 | 96 | 511 | Mario Cab |
-| 97 | 510 | Colena Davenport |
-| 98 | 510 | Chirpy Smasher |
+| 97 | 510 | Chirpy Smasher |
+| 98 | 510 | Colena Davenport |
 | 99 | 509 | Rachael |
 | 100 | 497 | Arianna O'Brien |
-| 101 | 493 | Jennifer ManWarren |
-| 102 | 493 | MomMom |
+| 101 | 493 | MomMom |
+| 102 | 493 | Jennifer ManWarren |
 | 103 | 492 | Ash Galvan |
 | 104 | 491 | cc |
 | 105 | 489 | April Carroll |
@@ -123,8 +123,8 @@
 | 115 | 451 | Plucky Ziggy |
 | 116 | 450 | lil mickey |
 | 117 | 449 | Anaid Sanchez |
-| 118 | 448 | Sweet Baker |
-| 119 | 448 | Jazzy Framezone |
+| 118 | 448 | Jazzy Framezone |
+| 119 | 448 | Sweet Baker |
 | 120 | 446 | SkipTheSadSauce |
 | 121 | 443 | Steve Schneider |
 | 122 | 439 | Dee Perry |
@@ -164,8 +164,8 @@
 | 156 | 367 | Sharon Reynolds |
 | 157 | 366 | J.F. Fields |
 | 158 | 365 | Carrie Smith |
-| 159 | 364 | Shauna Loe |
-| 160 | 364 | Serina Marie |
+| 159 | 364 | Serina Marie |
+| 160 | 364 | Shauna Loe |
 | 161 | 360 | Wisa |
 | 162 | 357 | David Lutcher |
 | 163 | 355 | Amanda Jarnagin |
