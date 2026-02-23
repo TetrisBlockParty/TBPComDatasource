@@ -44,8 +44,8 @@
 | 36 | 4301 | Mighty Patternzone |
 | 37 | 4199 | Claire Noland |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Corrine Hawks Soriano |
-| 40 | 4120 | Kristen Sceurman |
+| 39 | 4120 | Kristen Sceurman |
+| 40 | 4120 | Corrine Hawks Soriano |
 | 41 | 4086 | PandaMama |
 | 42 | 4006 | CoolKat |
 | 43 | 3960 | Brittany Alicia |
@@ -1128,8 +1128,8 @@
 | 1120 | 355 | Macy Jarrett |
 | 1121 | 354 | Katherin Camacho |
 | 1122 | 354 | Sherri Morgan |
-| 1123 | 353 | ElizabethAnn Dickinson |
-| 1124 | 353 | Courtney Clark |
+| 1123 | 353 | Courtney Clark |
+| 1124 | 353 | ElizabethAnn Dickinson |
 | 1125 | 353 | Jenny Weidman Perrotta |
 | 1126 | 353 | Kena T. Tanner |
 | 1127 | 353 | Mine |

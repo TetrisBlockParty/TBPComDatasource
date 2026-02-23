@@ -132,16 +132,16 @@
 | 124 | 775 | Kristie |
 | 125 | 774 | Keith J Oshman Jr. |
 | 126 | 773 | Daira Largen |
-| 127 | 764 | Groovy Catcher |
-| 128 | 764 | Hasty Cascadefit |
+| 127 | 764 | Hasty Cascadefit |
+| 128 | 764 | Groovy Catcher |
 | 129 | 762 | Speedy Bridger |
 | 130 | 755 | Katrina Schroeder |
 | 131 | 755 | Raya |
 | 132 | 752 | Logan Naccarato |
 | 133 | 748 | Adrian Marcel Pate |
 | 134 | 746 | Giddy Drop |
-| 135 | 745 | JerseyJess |
-| 136 | 745 | ren |
+| 135 | 745 | ren |
+| 136 | 745 | JerseyJess |
 | 137 | 744 | Fancy Cascader |
 | 138 | 736 | mzcatzy |
 | 139 | 734 | Calista Jo Dickson |
@@ -250,8 +250,8 @@
 | 242 | 431 | Wendy Dearden |
 | 243 | 430 | Jeni Dow |
 | 244 | 429 | Carrie Huskey |
-| 245 | 428 | Sleepy |
-| 246 | 428 | Randy Clevenger |
+| 245 | 428 | Randy Clevenger |
+| 246 | 428 | Sleepy |
 | 247 | 424 | Brenda Schmid Wood |
 | 248 | 421 | Chummy Caster |
 | 249 | 419 | Marci Mize Fandrich |
