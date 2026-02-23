@@ -60,8 +60,8 @@
 | 52 | 1155 | Jae Job |
 | 53 | 1150 | Kimyatta Cavin |
 | 54 | 1105 | Ashley Ingram |
-| 55 | 1082 | Dion Crommarty |
-| 56 | 1082 | Avy Absol |
+| 55 | 1082 | Avy Absol |
+| 56 | 1082 | Dion Crommarty |
 | 57 | 1065 | Dustee Craddock-Harrison |
 | 58 | 1049 | Heather Tushner |
 | 59 | 1046 | Johnathan Martinez |
@@ -147,8 +147,8 @@
 | 139 | 551 | Ren Mc |
 | 140 | 549 | Carlos Ramirez |
 | 141 | 546 | Dizzy Tiley |
-| 142 | 545 | Desi Desporte |
-| 143 | 545 | Livvy |
+| 142 | 545 | Livvy |
+| 143 | 545 | Desi Desporte |
 | 144 | 542 | Austin Owens |
 | 145 | 540 | Rodney McMath Jr. |
 | 146 | 536 | Kimberlee Jan Beckstead |
@@ -415,8 +415,8 @@
 | 407 | 238 | GBR |
 | 408 | 236 | The Murphy |
 | 409 | 235 | LaDonna LovinmesomeMe Lambert |
-| 410 | 235 | Stacy Jones |
-| 411 | 235 | Shainne Brewer |
+| 410 | 235 | Shainne Brewer |
+| 411 | 235 | Stacy Jones |
 | 412 | 234 | Richard-April Kice |
 | 413 | 234 | Amanda Christine |
 | 414 | 234 | Speedy Cascadeclear |
@@ -469,12 +469,12 @@
 | 461 | 213 | Derick |
 | 462 | 212 | Mike Solo |
 | 463 | 211 | Becky Shimko |
-| 464 | 209 | Matthew Pate |
+| 464 | 209 | Calvin Dennis |
 | 465 | 209 | Snippy Puzzle |
-| 466 | 209 | Calvin Dennis |
+| 466 | 209 | Matthew Pate |
 | 467 | 209 | Marcus Todd |
-| 468 | 208 | Moonsterix |
-| 469 | 208 | Wacky Blockclear |
+| 468 | 208 | Wacky Blockclear |
+| 469 | 208 | Moonsterix |
 | 470 | 208 | Stacy |
 | 471 | 207 | SammieJo Guy |
 | 472 | 207 | Jessica Wells |
@@ -553,9 +553,9 @@
 | 545 | 176 | Jlmendillo |
 | 546 | 176 | Red |
 | 547 | 175 | Veronica Garza |
-| 548 | 173 | Christine Simmons |
+| 548 | 173 | Chariss Newsom |
 | 549 | 173 | Groovy Brickmatch |
-| 550 | 173 | Chariss Newsom |
+| 550 | 173 | Christine Simmons |
 | 551 | 173 | Joshua Cuellar |
 | 552 | 172 | Janis Brown |
 | 553 | 172 | Mary Miller |

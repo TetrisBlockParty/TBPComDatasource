@@ -350,8 +350,8 @@
 | 342 | 1079 | Jennifer Kistner |
 | 343 | 1073 | Jodi Blake |
 | 344 | 1072 | BK Queen |
-| 345 | 1071 | Kim Dean |
-| 346 | 1071 | Nashu |
+| 345 | 1071 | Nashu |
+| 346 | 1071 | Kim Dean |
 | 347 | 1071 | Barbra Miller |
 | 348 | 1067 | Caitlin Schmid |
 | 349 | 1065 | Dany Murillo |
@@ -391,8 +391,8 @@
 | 383 | 983 | Crystie Hicks |
 | 384 | 978 | Barry Britt |
 | 385 | 976 | Sam Joe |
-| 386 | 975 | Hyper Cluster |
-| 387 | 975 | Mandi Douglas Hilt |
+| 386 | 975 | Mandi Douglas Hilt |
+| 387 | 975 | Hyper Cluster |
 | 388 | 974 | Boldy Cascadepiece |
 | 389 | 974 | Jeremy Parodi |
 | 390 | 971 | Jojo Momma |
@@ -780,15 +780,15 @@
 | 772 | 572 | SwampRebel |
 | 773 | 572 | Alexandra Lynn |
 | 774 | 571 | Anthony |
-| 775 | 570 | Peppy Snapfall |
-| 776 | 570 | Lathasa Newkirk |
+| 775 | 570 | Lathasa Newkirk |
+| 776 | 570 | Peppy Snapfall |
 | 777 | 570 | Sonya Back |
-| 778 | 569 | Nat |
-| 779 | 569 | Sparkles |
+| 778 | 569 | Sparkles |
+| 779 | 569 | Nat |
 | 780 | 568 | Stacey Tranchida |
 | 781 | 568 | Snippy Rumbler |
-| 782 | 567 | Epic Fitzone |
-| 783 | 567 | Ryan Meilleur |
+| 782 | 567 | Ryan Meilleur |
+| 783 | 567 | Epic Fitzone |
 | 784 | 567 | Lisa Moone |
 | 785 | 566 | Cathleena Giusto |
 | 786 | 566 | Lively Piecebuilder |
@@ -796,20 +796,20 @@
 | 788 | 565 | Alice Ball |
 | 789 | 564 | Rackemwillie34 |
 | 790 | 564 | Ashley Taylor |
-| 791 | 562 | Smiley Strike |
-| 792 | 562 | Joel Rosado |
+| 791 | 562 | Joel Rosado |
+| 792 | 562 | Smiley Strike |
 | 793 | 561 | Dane Reing |
 | 794 | 560 | Rose Fx |
-| 795 | 560 | Timothy Robert |
-| 796 | 560 | Jc Gilk |
-| 797 | 560 | Crystal Heller Gonzalez |
+| 795 | 560 | Crystal Heller Gonzalez |
+| 796 | 560 | Timothy Robert |
+| 797 | 560 | Jc Gilk |
 | 798 | 559 | Kaylee McCafferty |
-| 799 | 559 | Kevin Luu |
-| 800 | 559 | Alexx Anaya |
+| 799 | 559 | Alexx Anaya |
+| 800 | 559 | Kevin Luu |
 | 801 | 558 | NanDa Cruzan VI |
 | 802 | 558 | Alicia Moreno |
-| 803 | 557 | Samuel Labruno |
-| 804 | 557 | Sassy Linkroll |
+| 803 | 557 | Sassy Linkroll |
+| 804 | 557 | Samuel Labruno |
 | 805 | 557 | Anita Rose Green |
 | 806 | 556 | Kamilya Rembert |
 | 807 | 556 | Rhonda Petro |
@@ -823,16 +823,16 @@
 | 815 | 554 | Party d |
 | 816 | 553 | ruth |
 | 817 | 553 | De Hawkins |
-| 818 | 553 | ruth |
-| 819 | 553 | Bec |
-| 820 | 552 | Heather M Purcell |
-| 821 | 552 | Jenelle Case |
-| 822 | 551 | B |
-| 823 | 551 | Matt Johnson |
+| 818 | 553 | Bec |
+| 819 | 553 | Juanita Lyons |
+| 820 | 552 | Jenelle Case |
+| 821 | 552 | Heather M Purcell |
+| 822 | 551 | Matt Johnson |
+| 823 | 551 | B |
 | 824 | 550 | Katie Marie |
 | 825 | 549 | Crystal Hodge Love |
-| 826 | 549 | Candy Pitts |
-| 827 | 549 | Demitri Smith |
+| 826 | 549 | Demitri Smith |
+| 827 | 549 | Candy Pitts |
 | 828 | 548 | Sunshine711 |
 | 829 | 547 | John Carlin |
 | 830 | 547 | Tori Bowers |
