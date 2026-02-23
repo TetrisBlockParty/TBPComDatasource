@@ -195,8 +195,8 @@
 | 187 | 465 | Jolly Dashfit |
 | 188 | 464 | Sharyn Lemire |
 | 189 | 462 | Leslie Thomas |
-| 190 | 457 | Kristin Manee |
-| 191 | 457 | June Hoffman |
+| 190 | 457 | June Hoffman |
+| 191 | 457 | Kristin Manee |
 | 192 | 455 | Michele Plunkett |
 | 193 | 450 | Amanda Pauldo-Ivy |
 | 194 | 449 | Rebecca Morris |
@@ -230,8 +230,8 @@
 | 222 | 411 | Mimi |
 | 223 | 409 | Antony Dwayne Beasley |
 | 224 | 400 | TinyLegoRose |
-| 225 | 399 | Jeff Brian Gates |
-| 226 | 399 | Lindsay Ball |
+| 225 | 399 | Lindsay Ball |
+| 226 | 399 | Jeff Brian Gates |
 | 227 | 398 | Tyler Terrific |
 | 228 | 394 | Nita Wells |
 | 229 | 390 | Kathy Brookins |
@@ -769,8 +769,8 @@
 | 761 | 119 | Calen Torez |
 | 762 | 119 | George Tzouganos |
 | 763 | 118 | Robert Bolden |
-| 764 | 118 | Jennifer Dineen |
-| 765 | 118 | Frisky Column |
+| 764 | 118 | Frisky Column |
+| 765 | 118 | Jennifer Dineen |
 | 766 | 117 | Lane Wasson |
 | 767 | 117 | MzChocolate |
 | 768 | 117 | Serena Butter |
@@ -1050,8 +1050,8 @@
 | 1042 | 75 | Dmpster Fire |
 | 1043 | 75 | Hoppy Combo |
 | 1044 | 75 | Allison Judith |
-| 1045 | 74 | Lush Cluster |
-| 1046 | 74 | Kevin L Cafleux |
+| 1045 | 74 | Kevin L Cafleux |
+| 1046 | 74 | Patrick Watkins |
 | 1047 | 74 | Mark Morgan |
 | 1048 | 74 | Lush Cluster |
 | 1049 | 73 | Serene Martell |
@@ -1681,7 +1681,7 @@
 | 1673 | 17 | Kyawt Sandi Thwe |
 | 1674 | 17 | Conni Brown |
 | 1675 | 17 | Spicy T-spin |
-| 1676 | 17 | Kyawt Sandi Thwe |
+| 1676 | 17 | Pat YaYa King |
 | 1677 | 17 | Nutty Grid |
 | 1678 | 16 | Megan Crane |
 | 1679 | 16 | Dizzy Crawler |

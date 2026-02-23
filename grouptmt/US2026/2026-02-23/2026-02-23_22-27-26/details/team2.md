@@ -166,8 +166,8 @@
 | 158 | 1904 | Goofy Snapfit |
 | 159 | 1897 | Angel |
 | 160 | 1874 | Loopy Clusterbuilder |
-| 161 | 1840 | blarg |
-| 162 | 1840 | Kristopher Miller |
+| 161 | 1840 | Kristopher Miller |
+| 162 | 1840 | blarg |
 | 163 | 1835 | Alisa Lamb |
 | 164 | 1829 | Janel Turley-Garner |
 | 165 | 1829 | Mr. Street Stack |
@@ -476,8 +476,8 @@
 | 468 | 858 | Lauren Fitzgerald Thomas |
 | 469 | 857 | Caitlyn Blackwell |
 | 470 | 853 | Meghan M |
-| 471 | 852 | Kimmy Newman |
-| 472 | 852 | Layla LS |
+| 471 | 852 | Layla LS |
+| 472 | 852 | Kimmy Newman |
 | 473 | 849 | Gold Rose |
 | 474 | 849 | Allan Wayne Lamia |
 | 475 | 849 | Ann Matzkanin |
@@ -633,8 +633,8 @@
 | 625 | 679 | Kassandra Hunt |
 | 626 | 677 | Kayleigh Wisse |
 | 627 | 677 | Paul Combs |
-| 628 | 677 | Blacc Blac |
-| 629 | 677 | LuckyChopstix |
+| 628 | 677 | LuckyChopstix |
+| 629 | 677 | Blacc Blac |
 | 630 | 676 | Melissa Kay Gibson |
 | 631 | 676 | Roseanna Peloso |
 | 632 | 675 | Katelynn Hollen |
@@ -642,8 +642,8 @@
 | 634 | 674 | Iris Angelica Perez Cantos |
 | 635 | 673 | trabuco |
 | 636 | 672 | John Jubes |
-| 637 | 670 | Jessica S Flecha |
-| 638 | 670 | Jennifer Monroe Kelly |
+| 637 | 670 | Jennifer Monroe Kelly |
+| 638 | 670 | Jessica S Flecha |
 | 639 | 669 | Martina Gabrielle LaPolla |
 | 640 | 668 | Gloria Ininahazwe |
 | 641 | 668 | Jazzy Clusterline |
