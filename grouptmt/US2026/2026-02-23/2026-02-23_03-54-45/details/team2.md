@@ -217,8 +217,8 @@
 | 209 | 1217 | Lucky Ladybug |
 | 210 | 1217 | Brooks Brooks |
 | 211 | 1214 | David Cudicio-Hayden |
-| 212 | 1205 | Tony Lea |
-| 213 | 1205 | Tralonda Weeks |
+| 212 | 1205 | Tralonda Weeks |
+| 213 | 1205 | Tony Lea |
 | 214 | 1198 | Carrie Trigg |
 | 215 | 1197 | Ricardo Burton |
 | 216 | 1192 | Denisha Dawkins |
@@ -262,8 +262,8 @@
 | 254 | 1073 | Jodi Blake |
 | 255 | 1071 | Kim Dean |
 | 256 | 1064 | BK Queen |
-| 257 | 1058 | Offonar Facey |
-| 258 | 1058 | Rickey Johnson |
+| 257 | 1058 | Rickey Johnson |
+| 258 | 1058 | Offonar Facey |
 | 259 | 1055 | Robin Kerby |
 | 260 | 1048 | Desiree Anderson |
 | 261 | 1047 | Dany Murillo |
@@ -281,8 +281,8 @@
 | 273 | 1014 | Michele Morgan |
 | 274 | 1011 | Teresa Gillmore |
 | 275 | 1003 | Andrea Maher |
-| 276 | 998 | Keri Womack |
-| 277 | 998 | Shelley Thornburgh Wright |
+| 276 | 998 | Shelley Thornburgh Wright |
+| 277 | 998 | Keri Womack |
 | 278 | 996 | Ashie Ann |
 | 279 | 987 | Osun Anuket Esu |
 | 280 | 987 | Julie Kresal |
@@ -364,10 +364,10 @@
 | 356 | 821 | Cassie Mercer |
 | 357 | 818 | Jessica Wayne Cornwall |
 | 358 | 816 | James Simms III |
-| 359 | 812 | Jackie Lucas |
-| 360 | 812 | Samantha Jo |
-| 361 | 808 | Laura McCarthey |
-| 362 | 808 | Amber Brion |
+| 359 | 812 | Samantha Jo |
+| 360 | 812 | Jackie Lucas |
+| 361 | 808 | Amber Brion |
+| 362 | 808 | Laura McCarthey |
 | 363 | 808 | Desire Rice |
 | 364 | 804 | Becca Coronado |
 | 365 | 802 | Denise Rickman |
@@ -748,8 +748,8 @@
 | 740 | 446 | Courtney Burcham |
 | 741 | 445 | Mar Q Thomas |
 | 742 | 445 | Sharon Mills |
-| 743 | 444 | Angela Murgia-Owen |
-| 744 | 444 | Fi Ne |
+| 743 | 444 | Fi Ne |
+| 744 | 444 | Angela Murgia-Owen |
 | 745 | 443 | Tipsy Filler |
 | 746 | 443 | Giggy Grabber |
 | 747 | 443 | Dimitra Zazara |

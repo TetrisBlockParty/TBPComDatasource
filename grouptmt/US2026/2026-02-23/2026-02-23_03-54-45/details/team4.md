@@ -229,8 +229,8 @@
 | 221 | 281 | Nikki Rae Gordon |
 | 222 | 278 | Sarah Brown |
 | 223 | 278 | Angela Geist Jusinski |
-| 224 | 276 | Matt Dell'Olio |
-| 225 | 276 | Joeliecea Cobb |
+| 224 | 276 | Joeliecea Cobb |
+| 225 | 276 | Matt Dell'Olio |
 | 226 | 273 | Casey Grabner |
 | 227 | 272 | Alan George LaRage |
 | 228 | 272 | Dennis Bradley |
