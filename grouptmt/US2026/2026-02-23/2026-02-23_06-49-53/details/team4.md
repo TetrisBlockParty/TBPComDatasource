@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | Shauna Havard |
-| 93 | 647 | KM8 |
+| 92 | 647 | KM8 |
+| 93 | 647 | Shauna Havard |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -125,8 +125,8 @@
 | 117 | 514 | Serena Goodridge |
 | 118 | 514 | Scott Jameson |
 | 119 | 513 | Erin Thomas |
-| 120 | 512 | Cristy Duerksen |
-| 121 | 512 | Casey Jeffcoat |
+| 120 | 512 | Casey Jeffcoat |
+| 121 | 512 | Cristy Duerksen |
 | 122 | 511 | Lori Walker |
 | 123 | 509 | Leslie Nicole |
 | 124 | 482 | Ren Mc |
@@ -140,8 +140,8 @@
 | 132 | 451 | Peachy Fall |
 | 133 | 448 | Kristin Manee |
 | 134 | 447 | Ericca Eldridge |
-| 135 | 435 | Kristina Black |
-| 136 | 435 | Leslie Thomas |
+| 135 | 435 | Leslie Thomas |
+| 136 | 435 | Kristina Black |
 | 137 | 434 | Monica Daley |
 | 138 | 432 | Zippy Block |
 | 139 | 431 | Courtney Cicoria |
@@ -160,8 +160,8 @@
 | 152 | 406 | Damn Libra |
 | 153 | 406 | Livvy |
 | 154 | 398 | Tyler Terrific |
-| 155 | 393 | Carlton Unfiltered |
-| 156 | 393 | Girl |
+| 155 | 393 | Girl |
+| 156 | 393 | Carlton Unfiltered |
 | 157 | 391 | Ramel Rhodes |
 | 158 | 389 | Joseph Guthrie |
 | 159 | 387 | Lucas J Sutton |
@@ -183,11 +183,11 @@
 | 175 | 356 | George Nutt |
 | 176 | 354 | TRCuse |
 | 177 | 352 | Sue Joyce Staats |
-| 178 | 349 | Rafael Valentin |
-| 179 | 349 | Twisty Cascadezone |
+| 178 | 349 | Twisty Cascadezone |
+| 179 | 349 | Rafael Valentin |
 | 180 | 348 | April Rondinone |
-| 181 | 347 | Daria Rycewicz |
-| 182 | 347 | Crystal Nicolette Moore |
+| 181 | 347 | Crystal Nicolette Moore |
+| 182 | 347 | Daria Rycewicz |
 | 183 | 339 | David Lay |
 | 184 | 336 | Bio Nelly |
 | 185 | 335 | James Hurley Jr. |
@@ -221,9 +221,9 @@
 | 213 | 294 | Calvin Cannon |
 | 214 | 292 | Epic Curvetile |
 | 215 | 291 | Nikki Rae Gordon |
-| 216 | 290 | Jared Gutwein |
-| 217 | 290 | Plucky Patternblock |
-| 218 | 290 | Rebecca Morris |
+| 216 | 290 | Rebecca Morris |
+| 217 | 290 | Jared Gutwein |
+| 218 | 290 | Plucky Patternblock |
 | 219 | 288 | Leah Kutz Zirbel |
 | 220 | 288 | Brittney Orengo |
 | 221 | 288 | Zesty Twistbuilder |
@@ -356,9 +356,9 @@
 | 348 | 191 | Norman Klick |
 | 349 | 191 | Earnest Thompson |
 | 350 | 190 | wombat |
-| 351 | 189 | Cool Towerbuilder |
-| 352 | 189 | Berklie Apedaile |
-| 353 | 189 | Lauren Lamb |
+| 351 | 189 | Berklie Apedaile |
+| 352 | 189 | Lauren Lamb |
+| 353 | 189 | Cool Towerbuilder |
 | 354 | 188 | Sharyn Lemire |
 | 355 | 187 | Jenny Wells-Oakley |
 | 356 | 187 | Hyper Builder |
@@ -392,8 +392,8 @@
 | 384 | 178 | Zippy Tilt |
 | 385 | 178 | Daring Pivot |
 | 386 | 177 | Lora |
-| 387 | 176 | B Renee Desjardin |
-| 388 | 176 | Cindy Looper |
+| 387 | 176 | Cindy Looper |
+| 388 | 176 | B Renee Desjardin |
 | 389 | 176 | Brickh4us |
 | 390 | 175 | Lorena Guerrero-Barron |
 | 391 | 175 | Neirrah B Olailjeel |
@@ -819,8 +819,8 @@
 | 811 | 81 | Tiffany Root |
 | 812 | 81 | Zippy Stack |
 | 813 | 80 | Bubbly Setter |
-| 814 | 80 | Angel Johnson |
-| 815 | 80 | Bold Towerpiece |
+| 814 | 80 | Bold Towerpiece |
+| 815 | 80 | Angel Johnson |
 | 816 | 80 | Rae Henderson |
 | 817 | 80 | Joey Riley |
 | 818 | 79 | Phyllis Mitchell |

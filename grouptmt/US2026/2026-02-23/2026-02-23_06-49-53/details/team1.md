@@ -97,8 +97,8 @@
 | 89 | 575 | Nancy Green |
 | 90 | 570 | Cody Slav |
 | 91 | 562 | Denice Dee |
-| 92 | 534 | Veronica Eve |
-| 93 | 534 | Loony Fitzone |
+| 92 | 534 | Loony Fitzone |
+| 93 | 534 | Veronica Eve |
 | 94 | 529 | Ryan Lunnin |
 | 95 | 522 | Sarah Lombardo |
 | 96 | 511 | Mario Cab |
@@ -106,8 +106,8 @@
 | 98 | 510 | Chirpy Smasher |
 | 99 | 509 | Rachael |
 | 100 | 497 | Arianna O'Brien |
-| 101 | 493 | Jennifer ManWarren |
-| 102 | 493 | MomMom |
+| 101 | 493 | MomMom |
+| 102 | 493 | Jennifer ManWarren |
 | 103 | 492 | Ash Galvan |
 | 104 | 491 | cc |
 | 105 | 489 | Deanna L Hermanson |

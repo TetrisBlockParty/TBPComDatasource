@@ -222,8 +222,8 @@
 | 214 | 1232 | Groovy Puzzle |
 | 215 | 1230 | Megan Garrick |
 | 216 | 1221 | Jane Fong |
-| 217 | 1217 | Brooks Brooks |
-| 218 | 1217 | Lucky Ladybug |
+| 217 | 1217 | Lucky Ladybug |
+| 218 | 1217 | Brooks Brooks |
 | 219 | 1214 | David Cudicio-Hayden |
 | 220 | 1213 | Pacynthia Williams |
 | 221 | 1211 | Ricardo Burton |
@@ -306,8 +306,8 @@
 | 298 | 976 | Sam Joe |
 | 299 | 976 | Della Hole |
 | 300 | 975 | Hyper Cluster |
-| 301 | 972 | Binyah-Binyah |
-| 302 | 972 | Barbra Miller |
+| 301 | 972 | Barbra Miller |
+| 302 | 972 | Binyah-Binyah |
 | 303 | 971 | Jojo Momma |
 | 304 | 969 | Em Chen |
 | 305 | 969 | Boldy Cascadepiece |
@@ -333,8 +333,8 @@
 | 325 | 915 | Kelly Trent |
 | 326 | 914 | Shuany Arias |
 | 327 | 907 | Gene Mills |
-| 328 | 904 | John Bednarik |
-| 329 | 904 | Jennifer Aiken |
+| 328 | 904 | Jennifer Aiken |
+| 329 | 904 | John Bednarik |
 | 330 | 904 | Bee |
 | 331 | 903 | Giggy Blocker |
 | 332 | 902 | William Hunt |
@@ -431,8 +431,8 @@
 | 423 | 748 | Brenda Utphall |
 | 424 | 748 | Ann Matzkanin |
 | 425 | 748 | Spunkysmom |
-| 426 | 746 | Jerilyn Andrina |
-| 427 | 746 | Leslie Ann Carter |
+| 426 | 746 | Leslie Ann Carter |
+| 427 | 746 | Jerilyn Andrina |
 | 428 | 741 | Jánine Riggs |
 | 429 | 740 | Jerry Tempelmeyer |
 | 430 | 737 | Ginger |
