@@ -55,8 +55,8 @@
 | 47 | 938 | Denny Shives |
 | 48 | 936 | Rebecca Moulton Pinciaro |
 | 49 | 932 | Marvin Lou Martin |
-| 50 | 911 | Jeremy Steines |
-| 51 | 911 | Anthony Bryan Riva |
+| 50 | 911 | Anthony Bryan Riva |
+| 51 | 911 | Jeremy Steines |
 | 52 | 870 | BertMofo |
 | 53 | 864 | Shelly Chandler |
 | 54 | 863 | Pee |
@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Jonathan Kimbrough |
-| 84 | 684 | Kimyatta Cavin |
+| 83 | 684 | Kimyatta Cavin |
+| 84 | 684 | Jonathan Kimbrough |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -125,8 +125,8 @@
 | 117 | 514 | Scott Jameson |
 | 118 | 514 | Serena Goodridge |
 | 119 | 513 | Erin Thomas |
-| 120 | 512 | Cristy Duerksen |
-| 121 | 512 | Casey Jeffcoat |
+| 120 | 512 | Casey Jeffcoat |
+| 121 | 512 | Cristy Duerksen |
 | 122 | 511 | Lori Walker |
 | 123 | 509 | Leslie Nicole |
 | 124 | 482 | Ren Mc |
@@ -207,8 +207,8 @@
 | 199 | 320 | Lauren Scott |
 | 200 | 318 | Chris Hartig |
 | 201 | 316 | Autumn Kumzi |
-| 202 | 312 | Casey Grabner |
-| 203 | 312 | Dihcheese444 |
+| 202 | 312 | Dihcheese444 |
+| 203 | 312 | Casey Grabner |
 | 204 | 311 | Mary Ann Pabukis |
 | 205 | 310 | Holly Jolly |
 | 206 | 307 | Cheery Risebuilder |
@@ -246,8 +246,8 @@
 | 238 | 276 | Joeliecea Cobb |
 | 239 | 273 | Cranky Rollpiece |
 | 240 | 272 | Carlos Ramirez |
-| 241 | 272 | Dennis Bradley |
-| 242 | 272 | Alan George LaRage |
+| 241 | 272 | Alan George LaRage |
+| 242 | 272 | Dennis Bradley |
 | 243 | 271 | Holly |
 | 244 | 270 | Juls |
 | 245 | 270 | Jen Caldwell |
@@ -263,8 +263,8 @@
 | 255 | 262 | BigSammy420 |
 | 256 | 262 | Selena Shaw |
 | 257 | 261 | Zethra Prenisha Rahming |
-| 258 | 260 | Lori |
-| 259 | 260 | Carter Jones |
+| 258 | 260 | Carter Jones |
+| 259 | 260 | Lori |
 | 260 | 259 | John Brunetti |
 | 261 | 259 | Allen Lloyd |
 | 262 | 259 | Montiette Mcglown |
@@ -274,8 +274,8 @@
 | 266 | 256 | Brittany Marsh |
 | 267 | 253 | Autum Leigh |
 | 268 | 251 | Carol Ricks Raymond |
-| 269 | 249 | Nick Gray |
-| 270 | 249 | Ak Jones |
+| 269 | 249 | Ak Jones |
+| 270 | 249 | Nick Gray |
 | 271 | 248 | Chirpy Basepiece |
 | 272 | 248 | Jose Dejesus |
 | 273 | 245 | 23 |
@@ -304,8 +304,8 @@
 | 296 | 225 | Ernest Maxwell |
 | 297 | 224 | Ultramarine |
 | 298 | 223 | Amanda Christine |
-| 299 | 223 | Adawna Swires |
-| 300 | 223 | Chance Strickland |
+| 299 | 223 | Chance Strickland |
+| 300 | 223 | Adawna Swires |
 | 301 | 222 | Brandi Durig |
 | 302 | 221 | Rheanda Weaskus |
 | 303 | 221 | Joseph Edmonson |
@@ -561,7 +561,7 @@
 | 553 | 126 | Jennifer Renee |
 | 554 | 125 | Kelly Adams Carnahan |
 | 555 | 125 | ImJustMe |
-| 556 | 125 | Kelly Adams Carnahan |
+| 556 | 125 | Frilly Blocky |
 | 557 | 125 | Christina Nabrizny |
 | 558 | 124 | Cheery Towerzone |
 | 559 | 124 | Peppy Strike |

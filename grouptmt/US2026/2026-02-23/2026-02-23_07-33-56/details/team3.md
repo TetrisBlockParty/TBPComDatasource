@@ -113,8 +113,8 @@
 | 105 | 869 | Araceli Parra |
 | 106 | 868 | Sarajane Lokan |
 | 107 | 860 | Sunny Rotater |
-| 108 | 851 | Danielle Becker |
-| 109 | 851 | Jd Morris |
+| 108 | 851 | Jd Morris |
+| 109 | 851 | Danielle Becker |
 | 110 | 850 | Danielle Mogg |
 | 111 | 848 | Patricia Gadsden |
 | 112 | 831 | Angeline Joseph |
@@ -215,14 +215,14 @@
 | 207 | 480 | Danielle Allison |
 | 208 | 480 | Michael Johnson |
 | 209 | 475 | Tessina Dewey-Mancino |
-| 210 | 473 | Connie Mohler-Fair |
-| 211 | 473 | Rachel |
+| 210 | 473 | Rachel |
+| 211 | 473 | Connie Mohler-Fair |
 | 212 | 471 | Mendoza Lee Christy |
 | 213 | 467 | Sherry Ogden |
 | 214 | 467 | Edwin Calvillo Jr. |
 | 215 | 465 | Annie Déè |
-| 216 | 464 | Shunta Jacobs |
-| 217 | 464 | Danielle Weikel |
+| 216 | 464 | Danielle Weikel |
+| 217 | 464 | Shunta Jacobs |
 | 218 | 461 | Tom Nault |
 | 219 | 458 | Danielle Rhoades |
 | 220 | 454 | Joye Sims Binion |
@@ -249,15 +249,15 @@
 | 241 | 396 | Randy Clevenger |
 | 242 | 396 | Marci Mize Fandrich |
 | 243 | 395 | rosy |
-| 244 | 391 | Nicole Flippo |
-| 245 | 391 | RickyG |
+| 244 | 391 | RickyG |
+| 245 | 391 | Nicole Flippo |
 | 246 | 387 | Gideon Walker |
 | 247 | 383 | Darlene McMillan |
 | 248 | 382 | Giddy Twistbuilder |
 | 249 | 381 | Snazzy Filler |
 | 250 | 380 | Rebecca Bailey |
-| 251 | 378 | Chris Bell |
-| 252 | 378 | MsBee |
+| 251 | 378 | MsBee |
+| 252 | 378 | Chris Bell |
 | 253 | 377 | Charles Perrone |
 | 254 | 374 | Rania Zaqout |
 | 255 | 373 | Chummy Caster |
@@ -273,8 +273,8 @@
 | 265 | 367 | Kristin Delibac Corrigan |
 | 266 | 366 | Gumbo |
 | 267 | 365 | Noyb Adam |
-| 268 | 364 | Carrie Huskey |
-| 269 | 364 | Steffi Chris Dacones |
+| 268 | 364 | Steffi Chris Dacones |
+| 269 | 364 | Carrie Huskey |
 | 270 | 362 | Brandon Givens |
 | 271 | 360 | Cesar Barraza |
 | 272 | 359 | Sleepy |
@@ -283,8 +283,8 @@
 | 275 | 354 | Eileen Brady Thurber |
 | 276 | 354 | Andrew Thorson |
 | 277 | 354 | Kelly |
-| 278 | 353 | Cyd061769 |
-| 279 | 353 | Dee Franklin |
+| 278 | 353 | Dee Franklin |
+| 279 | 353 | Cyd061769 |
 | 280 | 352 | Christian Werndl |
 | 281 | 351 | Eon Harris |
 | 282 | 351 | Blocked |
@@ -349,8 +349,8 @@
 | 341 | 296 | Tracy Martin |
 | 342 | 295 | Nikki Pags |
 | 343 | 294 | Antonia Russell |
-| 344 | 292 | Lizabeth Fox |
-| 345 | 292 | Khaleada McGill Banks |
+| 344 | 292 | Khaleada McGill Banks |
+| 345 | 292 | Lizabeth Fox |
 | 346 | 289 | Cheryl Hinch Tenbrook |
 | 347 | 289 | Salena Whitlock |
 | 348 | 289 | DidIdothat |
@@ -397,11 +397,11 @@
 | 389 | 265 | AlsoJess |
 | 390 | 264 | Reina Roth |
 | 391 | 264 | Danielle Beaunoyer Jean |
-| 392 | 263 | Erika Thornton |
-| 393 | 263 | Jimmie Clemons |
+| 392 | 263 | Jimmie Clemons |
+| 393 | 263 | Erika Thornton |
 | 394 | 261 | Swanky Snapclear |
-| 395 | 260 | Tracey Cox |
-| 396 | 260 | Alice |
+| 395 | 260 | Alice |
+| 396 | 260 | Tracey Cox |
 | 397 | 259 | JessDrown |
 | 398 | 259 | Tegan Chapman |
 | 399 | 259 | Shania Vaine |
@@ -430,8 +430,8 @@
 | 422 | 247 | Kevin Russell |
 | 423 | 245 | Latoya Mayne |
 | 424 | 245 | LaNette Morgan |
-| 425 | 244 | Lys |
-| 426 | 244 | Beezwax |
+| 425 | 244 | Beezwax |
+| 426 | 244 | Lys |
 | 427 | 244 | Quackers |
 | 428 | 243 | Nicholas Roddy |
 | 429 | 243 | Paula Little |
@@ -459,8 +459,8 @@
 | 451 | 234 | Cheeky Twisterfit |
 | 452 | 233 | Criss |
 | 453 | 233 | Tony Waters |
-| 454 | 232 | Melanie Sherwood |
-| 455 | 232 | Stephanie Hill |
+| 454 | 232 | Stephanie Hill |
+| 455 | 232 | Melanie Sherwood |
 | 456 | 232 | Sunny Tiltgrid |
 | 457 | 231 | Giggly Brickroll |
 | 458 | 231 | Frothy Snapper |
@@ -529,8 +529,8 @@
 | 521 | 203 | Sdot |
 | 522 | 201 | Denise Marie |
 | 523 | 201 | Katrina E Jelks |
-| 524 | 200 | Sarah Whalen |
-| 525 | 200 | Michell Hendershott Jackson |
+| 524 | 200 | Michell Hendershott Jackson |
+| 525 | 200 | Sarah Whalen |
 | 526 | 200 | glichmod |
 | 527 | 200 | Christina Marie Swisher |
 | 528 | 199 | PrncssPJ |
@@ -580,8 +580,8 @@
 | 572 | 187 | luluraine |
 | 573 | 187 | Crystal Johnson |
 | 574 | 186 | Jack Bo |
-| 575 | 186 | Funky Jumper |
-| 576 | 186 | Rayzer |
+| 575 | 186 | Rayzer |
+| 576 | 186 | Funky Jumper |
 | 577 | 185 | Ashley Kennedy |
 | 578 | 185 | Breezy Roll |
 | 579 | 184 | Shanon R Jackson |
