@@ -135,8 +135,8 @@
 | 127 | 931 | Michelle |
 | 128 | 930 | Bea Miles |
 | 129 | 926 | Giddy Drop |
-| 130 | 899 | Jaime Monhaut-Reed |
-| 131 | 899 | Marcie Bressler |
+| 130 | 899 | Marcie Bressler |
+| 131 | 899 | Jaime Monhaut-Reed |
 | 132 | 896 | Jesse Olive |
 | 133 | 878 | Shane Wilson Jr. |
 | 134 | 874 | Jessica Pineda-Lopez |
@@ -218,8 +218,8 @@
 | 210 | 590 | Shawn Miller |
 | 211 | 587 | Louise Stacy Sisson |
 | 212 | 585 | Happy Tetriblast |
-| 213 | 585 | Salena Whitlock |
-| 214 | 585 | Jim Mathews |
+| 213 | 585 | Jim Mathews |
+| 214 | 585 | Salena Whitlock |
 | 215 | 584 | Connie Mohler-Fair |
 | 216 | 582 | Natasha Jones |
 | 217 | 578 | Twisty Brick LT |

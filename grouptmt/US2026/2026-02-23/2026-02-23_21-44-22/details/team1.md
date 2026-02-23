@@ -102,8 +102,8 @@
 | 94 | 740 | Lori Sanders- Davis |
 | 95 | 722 | Kellie |
 | 96 | 717 | Madison Wicks |
-| 97 | 706 | Plucky Fallzone |
-| 98 | 706 | Denice Dee |
+| 97 | 706 | Denice Dee |
+| 98 | 706 | Plucky Fallzone |
 | 99 | 704 | Karin Gillen |
 | 100 | 703 | Angel Fowler |
 | 101 | 679 | Melissa Lemmon |
@@ -195,8 +195,8 @@
 | 187 | 422 | Chelsea Dahlquist |
 | 188 | 422 | canbrick |
 | 189 | 418 | David Miller |
-| 190 | 417 | Debbie Kane |
-| 191 | 417 | Jessie Lynn |
+| 190 | 417 | Jessie Lynn |
+| 191 | 417 | Debbie Kane |
 | 192 | 416 | Jessica Sheehan |
 | 193 | 415 | Jennifer Hardman |
 | 194 | 414 | John J. Cronin |

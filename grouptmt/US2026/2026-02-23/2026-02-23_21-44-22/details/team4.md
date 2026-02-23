@@ -60,8 +60,8 @@
 | 52 | 1155 | Jae Job |
 | 53 | 1150 | Kimyatta Cavin |
 | 54 | 1105 | Ashley Ingram |
-| 55 | 1082 | Dion Crommarty |
-| 56 | 1082 | Avy Absol |
+| 55 | 1082 | Avy Absol |
+| 56 | 1082 | Dion Crommarty |
 | 57 | 1065 | Dustee Craddock-Harrison |
 | 58 | 1049 | Heather Tushner |
 | 59 | 1046 | Johnathan Martinez |
@@ -469,9 +469,9 @@
 | 461 | 213 | Derick |
 | 462 | 212 | Mike Solo |
 | 463 | 211 | Becky Shimko |
-| 464 | 209 | Calvin Dennis |
-| 465 | 209 | Snippy Puzzle |
-| 466 | 209 | Matthew Pate |
+| 464 | 209 | Snippy Puzzle |
+| 465 | 209 | Matthew Pate |
+| 466 | 209 | Calvin Dennis |
 | 467 | 209 | Marcus Todd |
 | 468 | 208 | Wacky Blockclear |
 | 469 | 208 | Moonsterix |
@@ -511,8 +511,8 @@
 | 503 | 192 | Jacob Campbell |
 | 504 | 192 | Rebecca A Rit |
 | 505 | 191 | Norman Klick |
-| 506 | 191 | Earnest Thompson |
-| 507 | 191 | Jobadia Steelerton |
+| 506 | 191 | Jobadia Steelerton |
+| 507 | 191 | Earnest Thompson |
 | 508 | 190 | wombat |
 | 509 | 190 | Robert Rangel |
 | 510 | 189 | Brandon Link |

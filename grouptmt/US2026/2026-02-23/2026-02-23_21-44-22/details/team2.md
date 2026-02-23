@@ -350,8 +350,8 @@
 | 342 | 1079 | Jennifer Kistner |
 | 343 | 1073 | Jodi Blake |
 | 344 | 1072 | BK Queen |
-| 345 | 1071 | Nashu |
-| 346 | 1071 | Kim Dean |
+| 345 | 1071 | Kim Dean |
+| 346 | 1071 | Nashu |
 | 347 | 1071 | Barbra Miller |
 | 348 | 1067 | Caitlin Schmid |
 | 349 | 1065 | Dany Murillo |
@@ -635,8 +635,8 @@
 | 627 | 673 | trabuco |
 | 628 | 672 | John Jubes |
 | 629 | 671 | Iris Angelica Perez Cantos |
-| 630 | 670 | Jennifer Monroe Kelly |
-| 631 | 670 | Jessica S Flecha |
+| 630 | 670 | Jessica S Flecha |
+| 631 | 670 | Jennifer Monroe Kelly |
 | 632 | 669 | Martina Gabrielle LaPolla |
 | 633 | 668 | Gloria Ininahazwe |
 | 634 | 668 | Jazzy Clusterline |
@@ -796,8 +796,8 @@
 | 788 | 565 | Alice Ball |
 | 789 | 564 | Rackemwillie34 |
 | 790 | 564 | Ashley Taylor |
-| 791 | 562 | Joel Rosado |
-| 792 | 562 | Smiley Strike |
+| 791 | 562 | Smiley Strike |
+| 792 | 562 | Joel Rosado |
 | 793 | 561 | Dane Reing |
 | 794 | 560 | Rose Fx |
 | 795 | 560 | Jc Gilk |
