@@ -282,13 +282,13 @@
 | 274 | 1103 | RAEPR05 |
 | 275 | 1093 | Real Ri |
 | 276 | 1088 | Brainy Smurf |
-| 277 | 1080 | Cassie Mercer |
-| 278 | 1080 | Tyler C. Jung |
+| 277 | 1080 | Tyler C. Jung |
+| 278 | 1080 | Cassie Mercer |
 | 279 | 1079 | Jennifer Kistner |
 | 280 | 1073 | Jodi Blake |
 | 281 | 1071 | Kim Dean |
-| 282 | 1069 | Offonar Facey |
-| 283 | 1069 | Carl Bradshaw |
+| 282 | 1069 | Carl Bradshaw |
+| 283 | 1069 | Offonar Facey |
 | 284 | 1064 | BK Queen |
 | 285 | 1063 | Caitlin Schmid |
 | 286 | 1053 | Michelle Lee |
@@ -297,27 +297,27 @@
 | 289 | 1047 | Dany Murillo |
 | 290 | 1046 | Lola C Davis |
 | 291 | 1046 | Cindy Sechler Taninecz |
-| 292 | 1045 | Lourisha |
-| 293 | 1045 | Bri Lynn |
+| 292 | 1045 | Bri Lynn |
+| 293 | 1045 | Lourisha |
 | 294 | 1044 | Jennifer Aiken |
-| 295 | 1043 | nikki |
-| 296 | 1043 | Brave Dropmatch |
+| 295 | 1043 | Brave Dropmatch |
+| 296 | 1043 | nikki |
 | 297 | 1042 | Mcintosh Brian Shalonda |
 | 298 | 1040 | Rebecca Garland |
-| 299 | 1036 | Amber Shoemaker |
-| 300 | 1036 | Allison Lockyer |
+| 299 | 1036 | Allison Lockyer |
+| 300 | 1036 | Amber Shoemaker |
 | 301 | 1032 | Kristin Gower |
 | 302 | 1029 | Crystal Hoffman |
-| 303 | 1024 | Taylor Phillips |
-| 304 | 1024 | Susan Perraut Jones |
+| 303 | 1024 | Susan Perraut Jones |
+| 304 | 1024 | Taylor Phillips |
 | 305 | 1022 | Shannon Joslin |
 | 306 | 1019 | Julie Kresal |
 | 307 | 1015 | Brittany Radaszewski |
 | 308 | 1014 | Michele Morgan |
 | 309 | 1011 | Teresa Gillmore |
 | 310 | 1003 | Andrea Maher |
-| 311 | 998 | Shelley Thornburgh Wright |
-| 312 | 998 | Keri Womack |
+| 311 | 998 | Keri Womack |
+| 312 | 998 | Shelley Thornburgh Wright |
 | 313 | 996 | Ashie Ann |
 | 314 | 994 | Spunkysmom |
 | 315 | 987 | Osun Anuket Esu |
@@ -1320,8 +1320,8 @@
 | 1312 | 310 | David Rehse |
 | 1313 | 309 | Emily Valentine |
 | 1314 | 309 | Richard Hunt |
-| 1315 | 309 | LintFunk |
-| 1316 | 309 | Nutty Matchline |
+| 1315 | 309 | Nutty Matchline |
+| 1316 | 309 | LintFunk |
 | 1317 | 308 | Poppy Matcher |
 | 1318 | 308 | Alishac Marie |
 | 1319 | 308 | Brian Baesler |
@@ -10882,7 +10882,7 @@
 | 10874 | 8 | Amy Horne |
 | 10875 | 8 | Joseph Clark |
 | 10876 | 8 | Elizabeth Flores |
-| 10877 | 8 | Fame |
+| 10877 | 8 | Megan Harper |
 | 10878 | 8 | Lazy Blockline |
 | 10879 | 8 | Ashley |
 | 10880 | 8 | Kaitlin Melendez |

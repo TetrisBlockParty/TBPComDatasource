@@ -79,8 +79,8 @@
 | 71 | 760 | Seante Bullock |
 | 72 | 759 | Jacqueline Williams |
 | 73 | 750 | Cartier |
-| 74 | 713 | Robert Benito |
-| 75 | 713 | Snappy Swiper |
+| 74 | 713 | Snappy Swiper |
+| 75 | 713 | Robert Benito |
 | 76 | 704 | Karin Gillen |
 | 77 | 703 | Angel Fowler |
 | 78 | 689 | Susanna Guerry |
@@ -105,11 +105,11 @@
 | 97 | 553 | And |
 | 98 | 537 | Stephanie Zahn |
 | 99 | 535 | Susan Ward |
-| 100 | 534 | Loony Fitzone |
-| 101 | 534 | Veronica Eve |
+| 100 | 534 | Veronica Eve |
+| 101 | 534 | Loony Fitzone |
 | 102 | 529 | Ryan Lunnin |
-| 103 | 522 | Tdub |
-| 104 | 522 | Sarah Lombardo |
+| 103 | 522 | Sarah Lombardo |
+| 104 | 522 | Tdub |
 | 105 | 515 | Death |
 | 106 | 513 | Colena Davenport |
 | 107 | 511 | Mario Cab |
@@ -121,14 +121,14 @@
 | 113 | 493 | MomMom |
 | 114 | 492 | Ash Galvan |
 | 115 | 491 | cc |
-| 116 | 489 | Deanna L Hermanson |
-| 117 | 489 | April Carroll |
+| 116 | 489 | April Carroll |
+| 117 | 489 | Deanna L Hermanson |
 | 118 | 483 | Trina Gee |
 | 119 | 477 | Tonya Beasley |
 | 120 | 475 | Sarah Somers Gray |
 | 121 | 471 | Hyper |
-| 122 | 467 | Candy Jones |
-| 123 | 467 | Constance Risner |
+| 122 | 467 | Constance Risner |
+| 123 | 467 | Candy Jones |
 | 124 | 466 | Adrian Esteban |
 | 125 | 463 | Lexuriuos Lifestlye |
 | 126 | 462 | Luciano Moreira |

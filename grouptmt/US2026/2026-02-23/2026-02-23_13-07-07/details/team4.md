@@ -49,8 +49,8 @@
 | 41 | 1121 | Isabel Aguilar |
 | 42 | 1100 | Landon Keith Graffeo |
 | 43 | 1085 | Kimyatta Cavin |
-| 44 | 1082 | Dawn Alexander |
-| 45 | 1082 | Dion Crommarty |
+| 44 | 1082 | Dion Crommarty |
+| 45 | 1082 | Dawn Alexander |
 | 46 | 1071 | Cherrish Duren |
 | 47 | 1065 | Koshin Abdirahman |
 | 48 | 1046 | Johnathan Martinez |
@@ -582,9 +582,9 @@
 | 574 | 130 | Gigglelymomof2 |
 | 575 | 130 | KoolMom9907 |
 | 576 | 129 | Alan Zukowski |
-| 577 | 129 | RIFATSIKDER |
-| 578 | 129 | Dreamy Snapgrid |
-| 579 | 129 | Tamika Starkey |
+| 577 | 129 | Dreamy Snapgrid |
+| 578 | 129 | Tamika Starkey |
+| 579 | 129 | RIFATSIKDER |
 | 580 | 128 | Zesty Linkgrid |
 | 581 | 128 | Raymond Roberts |
 | 582 | 128 | Lazy Glidepiece |
