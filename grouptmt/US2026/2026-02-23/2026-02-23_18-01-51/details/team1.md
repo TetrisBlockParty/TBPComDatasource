@@ -92,8 +92,8 @@
 | 84 | 735 | Cynthia Bradley |
 | 85 | 713 | Robert Benito |
 | 86 | 710 | Jennifer ManWarren |
-| 87 | 706 | Plucky Fallzone |
-| 88 | 706 | Denice Dee |
+| 87 | 706 | Denice Dee |
+| 88 | 706 | Plucky Fallzone |
 | 89 | 704 | Jason Jones |
 | 90 | 704 | Karin Gillen |
 | 91 | 703 | Kellie |
@@ -274,8 +274,8 @@
 | 266 | 316 | DoodleBug |
 | 267 | 315 | Hellsin |
 | 268 | 313 | Cody Gates |
-| 269 | 312 | Mitchel White |
-| 270 | 312 | Danielle S Kester |
+| 269 | 312 | Danielle S Kester |
+| 270 | 312 | Mitchel White |
 | 271 | 311 | Nathan Sealander |
 | 272 | 310 | Matt Iaccheo |
 | 273 | 310 | Christina Norman |
@@ -389,8 +389,8 @@
 | 381 | 232 | Mary Sheets |
 | 382 | 232 | Jennifer Olewnik Soborowski |
 | 383 | 232 | Itspaigebro |
-| 384 | 230 | Panda Thagreat |
-| 385 | 230 | Jessica Russell |
+| 384 | 230 | Jessica Russell |
+| 385 | 230 | Panda Thagreat |
 | 386 | 229 | Bob |
 | 387 | 229 | Ed Franz Jr |
 | 388 | 228 | Amber Dee |

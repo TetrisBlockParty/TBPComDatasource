@@ -142,8 +142,8 @@
 | 134 | 545 | Desi Desporte |
 | 135 | 542 | Austin Owens |
 | 136 | 540 | Rodney McMath Jr. |
-| 137 | 538 | shar |
-| 138 | 538 | Carlos Ramirez |
+| 137 | 538 | Carlos Ramirez |
+| 138 | 538 | shar |
 | 139 | 531 | Serena Goodridge |
 | 140 | 528 | Kimberlee Jan Beckstead |
 | 141 | 521 | Andy Cabral |
@@ -290,9 +290,9 @@
 | 282 | 297 | Kenna Gunderland |
 | 283 | 296 | Vic |
 | 284 | 293 | DonMega |
-| 285 | 292 | Angel Raya |
-| 286 | 292 | Epic Curvetile |
-| 287 | 292 | Blessedmama |
+| 285 | 292 | Blessedmama |
+| 286 | 292 | Angel Raya |
+| 287 | 292 | Epic Curvetile |
 | 288 | 291 | Hyper Builder |
 | 289 | 291 | Dizzy Matchzone |
 | 290 | 290 | Jared Gutwein |
@@ -305,11 +305,11 @@
 | 297 | 284 | Matt Dell'Olio |
 | 298 | 284 | Malakai Darien Fox |
 | 299 | 281 | rebel4lyfe |
-| 300 | 281 | Morti |
-| 301 | 281 | Laura |
+| 300 | 281 | Laura |
+| 301 | 281 | Morti |
 | 302 | 280 | Nerdy Twisterfit |
-| 303 | 278 | Angela Geist Jusinski |
-| 304 | 278 | Sarah Brown |
+| 303 | 278 | Sarah Brown |
+| 304 | 278 | Angela Geist Jusinski |
 | 305 | 277 | Brittany Marsh |
 | 306 | 276 | Lee Silpe |
 | 307 | 276 | Silly SeaWeed |
@@ -426,16 +426,16 @@
 | 418 | 212 | Mike Solo |
 | 419 | 211 | Shiny Pivoty |
 | 420 | 211 | Becky Shimko |
-| 421 | 210 | Jessica Atkinson |
-| 422 | 210 | Cool Gridzone |
+| 421 | 210 | Cool Gridzone |
+| 422 | 210 | Jessica Atkinson |
 | 423 | 210 | Vanessa Smart |
 | 424 | 209 | Snippy Puzzle |
 | 425 | 209 | Marcus Todd |
 | 426 | 209 | PennyCandee |
 | 427 | 209 | Matthew Pate |
 | 428 | 208 | Wacky Blockclear |
-| 429 | 207 | Sam Middleton |
-| 430 | 207 | Jessica Wells |
+| 429 | 207 | Jessica Wells |
+| 430 | 207 | Sam Middleton |
 | 431 | 206 | The Murphy |
 | 432 | 206 | Dorian |
 | 433 | 206 | Sticherella |
@@ -445,8 +445,8 @@
 | 437 | 205 | Mackenzie Forrester |
 | 438 | 204 | Jason Frehner |
 | 439 | 204 | Gwendolyn Pitcairn |
-| 440 | 204 | Ruby Khalisadar |
-| 441 | 204 | Russ Attitude |
+| 440 | 204 | Russ Attitude |
+| 441 | 204 | Ruby Khalisadar |
 | 442 | 203 | Katherine Crane |
 | 443 | 203 | Gilles Lanctot |
 | 444 | 203 | Laurmarcar |
