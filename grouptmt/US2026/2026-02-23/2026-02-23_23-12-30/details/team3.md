@@ -2908,8 +2908,8 @@
 | 2900 | 15 | Frisky Snapper |
 | 2901 | 15 | Star Shingoose |
 | 2902 | 15 | Summer |
-| 2903 | 14 | Lisa Perry |
-| 2904 | 14 | Sandra Parker |
+| 2903 | 14 | Sandra Parker |
+| 2904 | 14 | Lisa Perry |
 | 2905 | 14 | Tre |
 | 2906 | 14 | Minnie |
 | 2907 | 14 | Trice Frost |

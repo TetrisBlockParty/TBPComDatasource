@@ -62,8 +62,8 @@
 | 54 | 1156 | Goatimus Lombardi |
 | 55 | 1150 | Kimyatta Cavin |
 | 56 | 1106 | Ashley Ingram |
-| 57 | 1082 | Dion Crommarty |
-| 58 | 1082 | Avy Absol |
+| 57 | 1082 | Avy Absol |
+| 58 | 1082 | Dion Crommarty |
 | 59 | 1073 | Dustee Craddock-Harrison |
 | 60 | 1072 | Rachel Anne |
 | 61 | 1049 | Heather Tushner |
@@ -214,8 +214,8 @@
 | 206 | 438 | Melvin Baird |
 | 207 | 438 | Jen Mattei |
 | 208 | 434 | Ramel Rhodes |
-| 209 | 433 | Circuit8 |
-| 210 | 433 | Damn Libra |
+| 209 | 433 | Damn Libra |
+| 210 | 433 | Circuit8 |
 | 211 | 431 | Zesty Twistbuilder |
 | 212 | 427 | Steph Marie |
 | 213 | 427 | Chao Ma |
@@ -225,8 +225,8 @@
 | 217 | 421 | JIGsaw ~(•¿°)~ |
 | 218 | 419 | Manny1 |
 | 219 | 419 | Chris Bernstein |
-| 220 | 418 | Marie-Pier Desjardins |
-| 221 | 418 | Lush Linkfall |
+| 220 | 418 | Lush Linkfall |
+| 221 | 418 | Marie-Pier Desjardins |
 | 222 | 414 | Silly Zonebuilder |
 | 223 | 413 | John Brunetti |
 | 224 | 411 | Autumn Kumzi |

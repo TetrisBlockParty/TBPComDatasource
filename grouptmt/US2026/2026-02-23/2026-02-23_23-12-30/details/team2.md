@@ -170,8 +170,8 @@
 | 162 | 1874 | PsychKIRAtrist |
 | 163 | 1866 | Janel Turley-Garner |
 | 164 | 1845 | Jessie McDougald |
-| 165 | 1840 | blarg |
-| 166 | 1840 | Kristopher Miller |
+| 165 | 1840 | Kristopher Miller |
+| 166 | 1840 | blarg |
 | 167 | 1835 | Alisa Lamb |
 | 168 | 1829 | Mr. Street Stack |
 | 169 | 1828 | Laura Wyatt |
@@ -360,8 +360,8 @@
 | 352 | 1079 | Jennifer Kistner |
 | 353 | 1073 | Jodi Blake |
 | 354 | 1072 | BK Queen |
-| 355 | 1071 | Nashu |
-| 356 | 1071 | Kim Dean |
+| 355 | 1071 | Kim Dean |
+| 356 | 1071 | Nashu |
 | 357 | 1071 | Barbra Miller |
 | 358 | 1067 | Taylor Phillips |
 | 359 | 1067 | Caitlin Schmid |
@@ -611,8 +611,8 @@
 | 603 | 715 | Daniell Martinez |
 | 604 | 715 | Brenna Ann |
 | 605 | 715 | Julio A Laracuente |
-| 606 | 714 | Jennifer Leigh |
-| 607 | 714 | Irene Jones |
+| 606 | 714 | Irene Jones |
+| 607 | 714 | Jennifer Leigh |
 | 608 | 714 | Snazzy Basepiece |
 | 609 | 714 | Frilly Fallzone |
 | 610 | 711 | Narutofreak13 |

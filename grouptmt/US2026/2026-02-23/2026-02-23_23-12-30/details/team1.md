@@ -167,8 +167,8 @@
 | 159 | 491 | cc |
 | 160 | 491 | Michelle Beres |
 | 161 | 488 | Hyper |
-| 162 | 483 | Trina Gee |
-| 163 | 483 | Dandy Basegrid |
+| 162 | 483 | Dandy Basegrid |
+| 163 | 483 | Trina Gee |
 | 164 | 482 | Sarah Somers Gray |
 | 165 | 479 | Ly Phethmany |
 | 166 | 476 | phrmblk24 |
@@ -456,9 +456,9 @@
 | 448 | 225 | Angela Spann |
 | 449 | 224 | Tipsy Tiltpiece |
 | 450 | 223 | Erez Yosef |
-| 451 | 222 | Nicole Nikki |
+| 451 | 222 | Laurie Sanderson |
 | 452 | 222 | Shaykmia |
-| 453 | 222 | Laurie Sanderson |
+| 453 | 222 | Nicole Nikki |
 | 454 | 221 | Stephanie Leday |
 | 455 | 221 | Spunky Builderpiece |
 | 456 | 221 | Amy Hess |
@@ -502,8 +502,8 @@
 | 494 | 208 | Donna Addison Williams |
 | 495 | 207 | Leslie Bush Yarbrough |
 | 496 | 205 | Elizabeth Kubli |
-| 497 | 204 | Jill King Oldham |
-| 498 | 204 | Jason Cox |
+| 497 | 204 | Jason Cox |
+| 498 | 204 | Jill King Oldham |
 | 499 | 203 | Ashley Rodriguez |
 | 500 | 202 | Barry Mac'Ockner |
 | 501 | 202 | grizzly |
@@ -652,8 +652,8 @@
 | 644 | 162 | Hyper Tilemaker |
 | 645 | 161 | Mavria Comeaux Hinton |
 | 646 | 160 | Ruf Lowman |
-| 647 | 160 | Sunny Catcher |
-| 648 | 160 | Crystal Cheresnowsky |
+| 647 | 160 | Crystal Cheresnowsky |
+| 648 | 160 | Sunny Catcher |
 | 649 | 159 | Sarah Cassese |
 | 650 | 158 | Daring Roll |
 | 651 | 157 | Donna Taliger Brigante |
