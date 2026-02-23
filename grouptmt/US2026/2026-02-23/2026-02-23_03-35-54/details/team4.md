@@ -92,9 +92,9 @@
 | 84 | 673 | Jacqueline Helm |
 | 85 | 664 | Valerie Roberts |
 | 86 | 654 | Jamie Gustafson |
-| 87 | 647 | Shauna Havard |
-| 88 | 647 | KM8 |
-| 89 | 647 | Diana Houts |
+| 87 | 647 | Diana Houts |
+| 88 | 647 | Shauna Havard |
+| 89 | 647 | KM8 |
 | 90 | 646 | Eric Mcgaughy |
 | 91 | 626 | Brittney Griggs |
 | 92 | 620 | Judy Cox |
@@ -133,8 +133,8 @@
 | 125 | 452 | Jolly Dashfit |
 | 126 | 451 | Peachy Fall |
 | 127 | 448 | Kristin Manee |
-| 128 | 435 | Kristina Black |
-| 129 | 435 | Leslie Thomas |
+| 128 | 435 | Leslie Thomas |
+| 129 | 435 | Kristina Black |
 | 130 | 431 | Courtney Cicoria |
 | 131 | 423 | Austin Owens |
 | 132 | 421 | JIGsaw ~(•¿°)~ |
@@ -169,8 +169,8 @@
 | 161 | 368 | Brandon Crabbs |
 | 162 | 368 | Raegan Lane-Ross |
 | 163 | 365 | Lindsey Gonzalez |
-| 164 | 361 | Melissa Adams |
-| 165 | 361 | Danielle Kollias |
+| 164 | 361 | Danielle Kollias |
+| 165 | 361 | Melissa Adams |
 | 166 | 359 | Keith Kelley |
 | 167 | 358 | A5! |
 | 168 | 356 | George Nutt |
@@ -220,8 +220,8 @@
 | 212 | 286 | Zesty Twistbuilder |
 | 213 | 286 | Sam Bishop |
 | 214 | 284 | Mimi |
-| 215 | 282 | Matt Gooder |
-| 216 | 282 | Kim Klutz Olson |
+| 215 | 282 | Kim Klutz Olson |
+| 216 | 282 | Matt Gooder |
 | 217 | 281 | Laura |
 | 218 | 281 | Nikki Rae Gordon |
 | 219 | 278 | Sarah Brown |
@@ -279,8 +279,8 @@
 | 271 | 233 | Ruben Wheeler |
 | 272 | 232 | Rio Rocha |
 | 273 | 228 | Bethany Ison |
-| 274 | 226 | Cranky Rollpiece |
-| 275 | 226 | Dizzy Matchzone |
+| 274 | 226 | Dizzy Matchzone |
+| 275 | 226 | Cranky Rollpiece |
 | 276 | 225 | Jenna McGeorge |
 | 277 | 223 | Amanda Christine |
 | 278 | 223 | Adawna Swires |
@@ -308,8 +308,8 @@
 | 300 | 214 | Stacey Stano |
 | 301 | 213 | Jackie Marie |
 | 302 | 212 | Zany Shatterer |
-| 303 | 212 | Orchislactea |
-| 304 | 212 | Brave Spinbuilder |
+| 303 | 212 | Brave Spinbuilder |
+| 304 | 212 | Orchislactea |
 | 305 | 212 | Mike Solo |
 | 306 | 211 | Chris Alexinas |
 | 307 | 210 | Ari Droff |
@@ -332,8 +332,8 @@
 | 324 | 194 | SammieJo Guy |
 | 325 | 194 | Denise B |
 | 326 | 192 | Twisty Risebuilder |
-| 327 | 191 | Norman Klick |
-| 328 | 191 | Earnest Thompson |
+| 327 | 191 | Earnest Thompson |
+| 328 | 191 | Norman Klick |
 | 329 | 190 | wombat |
 | 330 | 189 | Lauren Lamb |
 | 331 | 189 | Berklie Apedaile |

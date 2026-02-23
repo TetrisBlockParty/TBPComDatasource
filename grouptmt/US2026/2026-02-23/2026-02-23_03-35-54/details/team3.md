@@ -27,8 +27,8 @@
 | 19 | 2494 | Ashley Jones |
 | 20 | 2387 | Susan Valentino |
 | 21 | 2302 | Laura Melton |
-| 22 | 2287 | Tetris Master |
-| 23 | 2287 | Brandon Green |
+| 22 | 2287 | Brandon Green |
+| 23 | 2287 | Tetris Master |
 | 24 | 2179 | mjl574 |
 | 25 | 2144 | Zippy Strikesnap |
 | 26 | 2095 | Chummy Shatterer |
@@ -197,8 +197,8 @@
 | 189 | 489 | Poppy Splitter |
 | 190 | 489 | FuzzyNavel |
 | 191 | 488 | Melissa Orth Hunter |
-| 192 | 485 | Dapper Snap |
-| 193 | 485 | Terry Jo Jones |
+| 192 | 485 | Terry Jo Jones |
+| 193 | 485 | Dapper Snap |
 | 194 | 480 | Danielle Allison |
 | 195 | 480 | Michael Johnson |
 | 196 | 475 | Tessina Dewey-Mancino |
@@ -236,9 +236,9 @@
 | 228 | 403 | Scott Lindsay |
 | 229 | 400 | Denita Mungro |
 | 230 | 393 | Rebecca Funderburk Kirby |
-| 231 | 391 | Nicole Flippo |
+| 231 | 391 | Trisha Balmer |
 | 232 | 391 | Scott Carleton |
-| 233 | 391 | Trisha Balmer |
+| 233 | 391 | Nicole Flippo |
 | 234 | 390 | rosy |
 | 235 | 389 | RickyG |
 | 236 | 387 | Gideon Walker |
@@ -285,8 +285,8 @@
 | 277 | 338 | Gumbo |
 | 278 | 336 | Jojo M |
 | 279 | 335 | victory |
-| 280 | 332 | Brittany |
-| 281 | 332 | Velma Mull |
+| 280 | 332 | Velma Mull |
+| 281 | 332 | Brittany |
 | 282 | 331 | Gray Hicks |
 | 283 | 326 | Kerry Nowickshere |
 | 284 | 325 | Tasha Wesson-Torrence |
@@ -397,7 +397,7 @@
 | 389 | 244 | Tegan Chapman |
 | 390 | 243 | Nicholas Roddy |
 | 391 | 243 | Paula Little |
-| 392 | 243 | Nicholas Roddy |
+| 392 | 243 | Josh Borquez |
 | 393 | 242 | Michael Latasha Gray |
 | 394 | 241 | JessDrown |
 | 395 | 241 | Skinny Baldez |
@@ -553,16 +553,16 @@
 | 545 | 180 | Rayzer |
 | 546 | 180 | Jumpy Curvebuilder |
 | 547 | 179 | Alexi Pryor |
-| 548 | 178 | Melissa Snyder |
-| 549 | 178 | Flashy Rumbler |
+| 548 | 178 | Flashy Rumbler |
+| 549 | 178 | Melissa Snyder |
 | 550 | 178 | Weerae |
 | 551 | 178 | Kellie Montgomery |
 | 552 | 178 | Jillian Ann |
 | 553 | 178 | Ginger Gray |
 | 554 | 177 | Chad |
-| 555 | 177 | Megan Rathmanner |
+| 555 | 177 | Sdot |
 | 556 | 177 | Anna Moeller |
-| 557 | 177 | Sdot |
+| 557 | 177 | Megan Rathmanner |
 | 558 | 177 | Matty Ray |
 | 559 | 176 | Boldy Corner |
 | 560 | 175 | sofaking |
@@ -711,8 +711,8 @@
 | 703 | 140 | Anna Fuerstenau |
 | 704 | 140 | Amy Cunningham Mitchell |
 | 705 | 140 | Brooke Bauer |
-| 706 | 140 | Jennifer Caputo |
-| 707 | 140 | Anabela Ruiz |
+| 706 | 140 | Anabela Ruiz |
+| 707 | 140 | Jennifer Caputo |
 | 708 | 139 | Cesar Mendez |
 | 709 | 139 | Justice 4 P |
 | 710 | 138 | Paula Urlacher |
