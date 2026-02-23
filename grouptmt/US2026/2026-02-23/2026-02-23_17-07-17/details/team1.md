@@ -65,8 +65,8 @@
 | 57 | 966 | Shalene Frederick Autrey |
 | 58 | 965 | Kristen Roles Robben |
 | 59 | 961 | Adam Byrd |
-| 60 | 949 | Francesca Gee |
-| 61 | 949 | TSwag |
+| 60 | 949 | TSwag |
+| 61 | 949 | Francesca Gee |
 | 62 | 937 | Zippy Align |
 | 63 | 931 | Michelle Nicole |
 | 64 | 899 | Fmp |
@@ -86,8 +86,8 @@
 | 78 | 750 | Cartier |
 | 79 | 742 | Susanna Guerry |
 | 80 | 740 | Lori Sanders- Davis |
-| 81 | 713 | Snappy Swiper |
-| 82 | 713 | Robert Benito |
+| 81 | 713 | Robert Benito |
+| 82 | 713 | Snappy Swiper |
 | 83 | 710 | Jennifer ManWarren |
 | 84 | 706 | Denice Dee |
 | 85 | 706 | Plucky Fallzone |
@@ -164,8 +164,8 @@
 | 156 | 448 | Sweet Baker |
 | 157 | 446 | SkipTheSadSauce |
 | 158 | 443 | femmefatale |
-| 159 | 440 | Kimmie Kimms |
-| 160 | 440 | Timothy Danaher |
+| 159 | 440 | Timothy Danaher |
+| 160 | 440 | Kimmie Kimms |
 | 161 | 435 | Dandy Basegrid |
 | 162 | 434 | Yvonne Marie |
 | 163 | 426 | Maria C. Hernandez |
@@ -193,9 +193,9 @@
 | 185 | 391 | Basment Living |
 | 186 | 390 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 187 | 388 | Jason Savage |
-| 188 | 387 | Ananda Mendez |
-| 189 | 387 | Monica Donato |
-| 190 | 387 | Carrie Smith |
+| 188 | 387 | Monica Donato |
+| 189 | 387 | Carrie Smith |
+| 190 | 387 | Ananda Mendez |
 | 191 | 386 | Brian Spotts |
 | 192 | 385 | John J. Cronin |
 | 193 | 383 | Margo Wagner |
@@ -211,7 +211,7 @@
 | 203 | 372 | Dizzy Party |
 | 204 | 369 | Angela Renea Lester |
 | 205 | 366 | J.F. Fields |
-| 206 | 365 | Jen Nystrom |
+| 206 | 365 | Amanda Holibaugh |
 | 207 | 365 | Shannon Marie Pitts |
 | 208 | 365 | Jen Nystrom |
 | 209 | 364 | Shauna Loe |
@@ -472,12 +472,12 @@
 | 464 | 191 | Dandy Towerbuilder |
 | 465 | 191 | Vivienne Carter |
 | 466 | 190 | yoyoluv |
-| 467 | 189 | BettyAnn Savo |
-| 468 | 189 | Dizzy Rackham |
+| 467 | 189 | Dizzy Rackham |
+| 468 | 189 | BettyAnn Savo |
 | 469 | 188 | Brian Taylor |
 | 470 | 188 | Strig |
-| 471 | 187 | Matthew Foley |
-| 472 | 187 | Jessica Weed |
+| 471 | 187 | Jessica Weed |
+| 472 | 187 | Matthew Foley |
 | 473 | 186 | Nikki Fridley |
 | 474 | 184 | Sonia Marquis |
 | 475 | 184 | Carl Claunch |

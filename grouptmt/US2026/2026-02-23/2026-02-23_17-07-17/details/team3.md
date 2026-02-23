@@ -124,8 +124,8 @@
 | 116 | 896 | Jesse Olive |
 | 117 | 878 | Shane Wilson Jr. |
 | 118 | 874 | Jessica Pineda-Lopez |
-| 119 | 868 | Felicia Rocha |
-| 120 | 868 | Sarajane Lokan |
+| 119 | 868 | Sarajane Lokan |
+| 120 | 868 | Felicia Rocha |
 | 121 | 864 | Sunny Rotater |
 | 122 | 856 | Kristie |
 | 123 | 848 | Patricia Gadsden |
@@ -205,8 +205,8 @@
 | 197 | 576 | Keis |
 | 198 | 568 | Rachael McClain Owens |
 | 199 | 566 | LaTanya GeminiondaRise Johnson |
-| 200 | 564 | Poppy Splitter |
-| 201 | 564 | Christine Trester |
+| 200 | 564 | Christine Trester |
+| 201 | 564 | Poppy Splitter |
 | 202 | 563 | Jim Mathews |
 | 203 | 563 | Connie Mohler-Fair |
 | 204 | 562 | Dave Herzog |
@@ -288,16 +288,16 @@
 | 280 | 420 | Quackers |
 | 281 | 420 | Sarah Moyer |
 | 282 | 420 | Sabrina Hardrick |
-| 283 | 417 | Jennifer Alvey |
-| 284 | 417 | Giddy Twistbuilder |
+| 283 | 417 | Giddy Twistbuilder |
+| 284 | 417 | Jennifer Alvey |
 | 285 | 414 | RickyG |
 | 286 | 412 | Jojo M |
 | 287 | 411 | Megan Rathmanner |
 | 288 | 410 | Brian Battjes |
 | 289 | 410 | Duane Bright |
 | 290 | 408 | Tiffany Ford |
-| 291 | 408 | Cyd061769 |
-| 292 | 408 | Ashley Muncey |
+| 291 | 408 | Ashley Muncey |
+| 292 | 408 | Cyd061769 |
 | 293 | 406 | Kristal C Lee |
 | 294 | 405 | Desiree Gold |
 | 295 | 405 | Steffi Chris Dacones |
@@ -377,8 +377,8 @@
 | 369 | 332 | Michael Leblanc |
 | 370 | 331 | Noettín Kan Zasnemoore |
 | 371 | 330 | angieelyn |
-| 372 | 328 | Desiree Soto |
-| 373 | 328 | Maggie |
+| 372 | 328 | Maggie |
+| 373 | 328 | Desiree Soto |
 | 374 | 328 | Krystal Gerstberger |
 | 375 | 328 | Joy Petroski |
 | 376 | 326 | Kerry Nowickshere |

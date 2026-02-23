@@ -242,8 +242,8 @@
 | 234 | 342 | blasterB |
 | 235 | 341 | scott |
 | 236 | 340 | Cranky Rollpiece |
-| 237 | 339 | Jade Rian |
-| 238 | 339 | Melvin Baird |
+| 237 | 339 | Melvin Baird |
+| 238 | 339 | Jade Rian |
 | 239 | 337 | Sam Bishop |
 | 240 | 334 | June Hoffman |
 | 241 | 331 | Alan George LaRage |
@@ -251,8 +251,8 @@
 | 243 | 330 | Kathy Brookins |
 | 244 | 329 | Brickh4us |
 | 245 | 324 | jim |
-| 246 | 324 | TinyLegoRose |
-| 247 | 324 | Lauren Lamb |
+| 246 | 324 | Lauren Lamb |
+| 247 | 324 | TinyLegoRose |
 | 248 | 321 | Meagan Nicole |
 | 249 | 317 | Madison Sweere |
 | 250 | 316 | Mary Ann Pabukis |
@@ -267,8 +267,8 @@
 | 259 | 308 | Leah Kutz Zirbel |
 | 260 | 307 | Cheery Risebuilder |
 | 261 | 307 | Tina Lopez |
-| 262 | 307 | Angie Schmidt |
-| 263 | 307 | Tina Lopez |
+| 262 | 307 | Michele Plunkett |
+| 263 | 307 | Angie Schmidt |
 | 264 | 306 | mike |
 | 265 | 306 | Nubian1 |
 | 266 | 304 | Shiny Fit |
@@ -280,9 +280,9 @@
 | 272 | 295 | Lora |
 | 273 | 295 | Keshia Lyons |
 | 274 | 294 | Calvin Cannon |
-| 275 | 292 | Epic Curvetile |
-| 276 | 292 | Blessedmama |
-| 277 | 292 | Angel Raya |
+| 275 | 292 | Blessedmama |
+| 276 | 292 | Angel Raya |
+| 277 | 292 | Epic Curvetile |
 | 278 | 291 | Dizzy Matchzone |
 | 279 | 291 | Erin Sabol |
 | 280 | 290 | Jared Gutwein |
