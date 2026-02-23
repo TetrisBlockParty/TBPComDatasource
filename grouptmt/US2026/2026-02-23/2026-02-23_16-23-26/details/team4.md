@@ -135,8 +135,8 @@
 | 127 | 545 | Desi Desporte |
 | 128 | 542 | Austin Owens |
 | 129 | 540 | Rodney McMath Jr. |
-| 130 | 538 | shar |
-| 131 | 538 | Carlos Ramirez |
+| 130 | 538 | Carlos Ramirez |
+| 131 | 538 | shar |
 | 132 | 533 | Samantha Peterson |
 | 133 | 531 | Serena Goodridge |
 | 134 | 526 | Guy Incognito |
@@ -265,8 +265,8 @@
 | 257 | 307 | Angie Schmidt |
 | 258 | 306 | mike |
 | 259 | 305 | Brickh4us |
-| 260 | 304 | Joanna |
-| 261 | 304 | Shiny Fit |
+| 260 | 304 | Shiny Fit |
+| 261 | 304 | Joanna |
 | 262 | 304 | Gdiguy |
 | 263 | 303 | blasterB |
 | 264 | 300 | Dana Scott |
@@ -311,8 +311,8 @@
 | 303 | 265 | Sarah Neathery |
 | 304 | 264 | ZeeZee |
 | 305 | 263 | rebel4lyfe |
-| 306 | 262 | Selena Shaw |
-| 307 | 262 | Ruben Wheeler |
+| 306 | 262 | Ruben Wheeler |
+| 307 | 262 | Selena Shaw |
 | 308 | 262 | BigSammy420 |
 | 309 | 261 | Zethra Prenisha Rahming |
 | 310 | 260 | Carter Jones |
