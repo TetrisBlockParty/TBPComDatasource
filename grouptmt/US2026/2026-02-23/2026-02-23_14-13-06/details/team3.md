@@ -198,12 +198,12 @@
 | 190 | 562 | Dave Herzog |
 | 191 | 561 | Elissa S-k |
 | 192 | 559 | Patti Skiles |
-| 193 | 549 | Tasha Schriewer |
-| 194 | 549 | Sarah Cowan Burgos |
+| 193 | 549 | Sarah Cowan Burgos |
+| 194 | 549 | Tasha Schriewer |
 | 195 | 548 | Danielle Balcom |
 | 196 | 547 | Staci George Fitzsimmons |
-| 197 | 546 | Cynthia Castros-Hampton |
-| 198 | 546 | Mykal Burton |
+| 197 | 546 | Mykal Burton |
+| 198 | 546 | Cynthia Castros-Hampton |
 | 199 | 543 | Silly Twist |
 | 200 | 540 | Shawn Miller |
 | 201 | 533 | Rania Zaqout |
@@ -226,8 +226,8 @@
 | 218 | 491 | Michael Johnson |
 | 219 | 488 | joz |
 | 220 | 485 | Dapper Snap |
-| 221 | 484 | Kristin Delibac Corrigan |
-| 222 | 484 | Fallorina Susana |
+| 221 | 484 | Fallorina Susana |
+| 222 | 484 | Kristin Delibac Corrigan |
 | 223 | 480 | Danielle Allison |
 | 224 | 478 | Keis |
 | 225 | 477 | Edwin Calvillo Jr. |
@@ -536,8 +536,8 @@
 | 528 | 222 | Aeh |
 | 529 | 221 | Glitzy Rotate |
 | 530 | 221 | Vaners |
-| 531 | 221 | Spicy Cascadepiece |
-| 532 | 221 | Christen Cannon Layhew |
+| 531 | 221 | Christen Cannon Layhew |
+| 532 | 221 | Spicy Cascadepiece |
 | 533 | 221 | Bleu Sun Beams |
 | 534 | 220 | Bhreagh Gentile |
 | 535 | 220 | Sarah Tschee |

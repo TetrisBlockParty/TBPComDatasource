@@ -126,8 +126,8 @@
 | 118 | 552 | Chilly Crasher |
 | 119 | 551 | Ren Mc |
 | 120 | 545 | Desi Desporte |
-| 121 | 542 | Chris Hartig |
-| 122 | 542 | Austin Owens |
+| 121 | 542 | Austin Owens |
+| 122 | 542 | Chris Hartig |
 | 123 | 540 | Rodney McMath Jr. |
 | 124 | 538 | shar |
 | 125 | 537 | Dizzy Tiley |
@@ -199,8 +199,8 @@
 | 191 | 374 | Chris Alexinas |
 | 192 | 372 | George Nutt |
 | 193 | 372 | Antony Dwayne Beasley |
-| 194 | 368 | Silly Zonebuilder |
-| 195 | 368 | Holly Jolly |
+| 194 | 368 | Holly Jolly |
+| 195 | 368 | Silly Zonebuilder |
 | 196 | 365 | Jeff Brian Gates |
 | 197 | 364 | Adam Stephanie Parker |
 | 198 | 363 | Cindy Looper |
@@ -271,8 +271,8 @@
 | 263 | 284 | Glitzy Corner |
 | 264 | 284 | Matt Dell'Olio |
 | 265 | 282 | Matt Gooder |
-| 266 | 281 | Laura |
-| 267 | 281 | Morti |
+| 266 | 281 | Morti |
+| 267 | 281 | Laura |
 | 268 | 280 | Rio Rocha |
 | 269 | 279 | Malakai Darien Fox |
 | 270 | 278 | Angela Geist Jusinski |
