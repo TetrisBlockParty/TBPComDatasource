@@ -440,15 +440,15 @@
 | 432 | 907 | Gene Mills |
 | 433 | 905 | Adam Simmons |
 | 434 | 903 | Ashle Scranton |
-| 435 | 903 | Eric Castaneda |
-| 436 | 903 | Sarah DeHart |
+| 435 | 903 | Sarah DeHart |
+| 436 | 903 | Eric Castaneda |
 | 437 | 902 | Brenda Utphall |
 | 438 | 899 | Patrick Bartlett |
 | 439 | 899 | Chevy |
 | 440 | 898 | Dylan Thomason |
 | 441 | 897 | Jamie Schmitt |
-| 442 | 895 | Donna Colby |
-| 443 | 895 | Lisa Ongtowasruk |
+| 442 | 895 | Lisa Ongtowasruk |
+| 443 | 895 | Donna Colby |
 | 444 | 894 | Adira Brown |
 | 445 | 890 | Alex Stone LaRue |
 | 446 | 888 | Leslie Ann Carter |

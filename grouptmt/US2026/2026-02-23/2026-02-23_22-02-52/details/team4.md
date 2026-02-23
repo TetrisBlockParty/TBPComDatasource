@@ -259,8 +259,8 @@
 | 251 | 366 | Cheery Risebuilder |
 | 252 | 366 | Andrew Dang |
 | 253 | 365 | Hyper Builder |
-| 254 | 363 | TRCuse |
-| 255 | 363 | KimoKoala |
+| 254 | 363 | KimoKoala |
+| 255 | 363 | TRCuse |
 | 256 | 361 | Danielle Kollias |
 | 257 | 360 | James Hurley Jr. |
 | 258 | 360 | Ari Droff |
@@ -323,10 +323,10 @@
 | 315 | 291 | Dizzy Matchzone |
 | 316 | 291 | ZeeZee |
 | 317 | 291 | Brittney Orengo |
-| 318 | 290 | Jared Gutwein |
-| 319 | 290 | Neirrah B Olailjeel |
-| 320 | 289 | Lazy Glidepiece |
-| 321 | 289 | Juls |
+| 318 | 290 | Neirrah B Olailjeel |
+| 319 | 290 | Jared Gutwein |
+| 320 | 289 | Juls |
+| 321 | 289 | Lazy Glidepiece |
 | 322 | 289 | Deb Rubeck |
 | 323 | 288 | Amy Jean |
 | 324 | 287 | Duck |
@@ -518,8 +518,8 @@
 | 510 | 190 | wombat |
 | 511 | 190 | Robert Rangel |
 | 512 | 189 | Brandon Link |
-| 513 | 188 | Daring Pivot |
-| 514 | 188 | Tanner Lund |
+| 513 | 188 | Tanner Lund |
+| 514 | 188 | Daring Pivot |
 | 515 | 188 | Frilly Blocky |
 | 516 | 187 | Jason Punch |
 | 517 | 186 | Kelly Adams Carnahan |

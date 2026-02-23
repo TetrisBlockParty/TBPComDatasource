@@ -259,8 +259,8 @@
 | 251 | 530 | Stephanie Blkpep Davidson |
 | 252 | 529 | Terry Jo Jones |
 | 253 | 519 | Nichol Graham |
-| 254 | 516 | Cyd061769 |
-| 255 | 516 | Daring Brickzone |
+| 254 | 516 | Daring Brickzone |
+| 255 | 516 | Cyd061769 |
 | 256 | 515 | Cozy Snaplink |
 | 257 | 514 | France Vézina |
 | 258 | 513 | Lizabeth Fox |
@@ -314,8 +314,8 @@
 | 306 | 433 | Skippy |
 | 307 | 432 | Luciana Braganca Vieira |
 | 308 | 431 | Wendy Dearden |
-| 309 | 430 | Jeni Dow |
-| 310 | 430 | Quackers |
+| 309 | 430 | Quackers |
+| 310 | 430 | Jeni Dow |
 | 311 | 430 | Jennifer Alvey |
 | 312 | 429 | Carrie Huskey |
 | 313 | 428 | Samantha Lynn |
@@ -334,8 +334,8 @@
 | 326 | 405 | Steffi Chris Dacones |
 | 327 | 405 | Chris Bell |
 | 328 | 404 | Cheryl Hinch Tenbrook |
-| 329 | 403 | Stephanie Burtin |
-| 330 | 403 | Scott Lindsay |
+| 329 | 403 | Scott Lindsay |
+| 330 | 403 | Stephanie Burtin |
 | 331 | 403 | lashanda |
 | 332 | 399 | Num1hater |
 | 333 | 398 | fraulila |
