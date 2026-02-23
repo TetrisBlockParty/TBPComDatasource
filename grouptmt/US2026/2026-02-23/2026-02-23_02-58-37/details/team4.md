@@ -197,8 +197,8 @@
 | 189 | 309 | Crystal Nicolette Moore |
 | 190 | 307 | Michele Plunkett |
 | 191 | 306 | blockstar |
-| 192 | 304 | Lindsay Ball |
-| 193 | 304 | Mary Ann Pabukis |
+| 192 | 304 | Mary Ann Pabukis |
+| 193 | 304 | Lindsay Ball |
 | 194 | 302 | Cursed Hag |
 | 195 | 301 | Andria Lynn |
 | 196 | 300 | Dana Scott |
@@ -325,9 +325,9 @@
 | 317 | 200 | Googenheim |
 | 318 | 198 | Calvin Dennis |
 | 319 | 196 | Megan Cutshaw |
-| 320 | 194 | SammieJo Guy |
+| 320 | 194 | Zany Twisterfit |
 | 321 | 194 | Denise B |
-| 322 | 194 | Zany Twisterfit |
+| 322 | 194 | SammieJo Guy |
 | 323 | 192 | Twisty Risebuilder |
 | 324 | 191 | Earnest Thompson |
 | 325 | 191 | Norman Klick |
