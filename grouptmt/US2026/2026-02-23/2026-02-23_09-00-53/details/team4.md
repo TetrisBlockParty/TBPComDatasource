@@ -62,8 +62,8 @@
 | 54 | 864 | Shelly Chandler |
 | 55 | 863 | Pee |
 | 56 | 859 | TeeJ |
-| 57 | 846 | Christine Marie |
-| 58 | 846 | Lucille Truesdale |
+| 57 | 846 | Lucille Truesdale |
+| 58 | 846 | Christine Marie |
 | 59 | 845 | LisaJo Picken Buchanan |
 | 60 | 834 | quicksand420 |
 | 61 | 811 | Ashley Ingram |
@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Jonathan Kimbrough |
-| 84 | 684 | Kimyatta Cavin |
+| 83 | 684 | Kimyatta Cavin |
+| 84 | 684 | Jonathan Kimbrough |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -153,16 +153,16 @@
 | 145 | 422 | Zakia Monae |
 | 146 | 421 | JIGsaw ~(•¿°)~ |
 | 147 | 421 | Kesha Brady |
-| 148 | 418 | Lush Linkfall |
-| 149 | 418 | Marie-Pier Desjardins |
+| 148 | 418 | Marie-Pier Desjardins |
+| 149 | 418 | Lush Linkfall |
 | 150 | 416 | Chaz Duncan |
 | 151 | 414 | Swanky Fitline |
 | 152 | 414 | Nope Young |
 | 153 | 413 | Circuit8 |
 | 154 | 412 | Jessica Bohlken |
 | 155 | 408 | Amanda Pauldo-Ivy |
-| 156 | 406 | Livvy |
-| 157 | 406 | Damn Libra |
+| 156 | 406 | Damn Libra |
+| 157 | 406 | Livvy |
 | 158 | 403 | Keith Kelley |
 | 159 | 402 | Lucas J Sutton |
 | 160 | 398 | Tyler Terrific |
@@ -203,8 +203,8 @@
 | 195 | 336 | Bio Nelly |
 | 196 | 334 | Kris Bartlett |
 | 197 | 332 | HastyGrabber |
-| 198 | 330 | Kathy Brookins |
-| 199 | 330 | blockstar |
+| 198 | 330 | blockstar |
+| 199 | 330 | Kathy Brookins |
 | 200 | 328 | scott |
 | 201 | 327 | J-Rizzle |
 | 202 | 324 | TinyLegoRose |
@@ -462,8 +462,8 @@
 | 454 | 159 | Groovy Brickmatch |
 | 455 | 158 | Dapper Frame |
 | 456 | 158 | Jasmine S Caldwell |
-| 457 | 157 | Ryry |
-| 458 | 157 | LunaMoon |
+| 457 | 157 | LunaMoon |
+| 458 | 157 | Ryry |
 | 459 | 157 | David Boggs |
 | 460 | 156 | Mighty Edgepiece |
 | 461 | 156 | Funky Risepiece |

@@ -195,8 +195,8 @@
 | 187 | 345 | Jerry Danowski |
 | 188 | 341 | Nick R Montague |
 | 189 | 339 | Nicole Roseberry Weber |
-| 190 | 337 | Jamise Brown |
-| 191 | 337 | Constance Risner |
+| 190 | 337 | Constance Risner |
+| 191 | 337 | Jamise Brown |
 | 192 | 336 | Dizzy Party |
 | 193 | 333 | Virginia Gray Floyd |
 | 194 | 333 | Gracie |
@@ -225,8 +225,8 @@
 | 217 | 298 | Sweetts |
 | 218 | 298 | Billie Ann Eason |
 | 219 | 295 | Lakeisha Chapman |
-| 220 | 294 | Chuck Gannon |
-| 221 | 294 | Bindi |
+| 220 | 294 | Bindi |
+| 221 | 294 | Chuck Gannon |
 | 222 | 293 | John Kim |
 | 223 | 291 | Giddy Cascade |
 | 224 | 291 | Brave Wrecker |
