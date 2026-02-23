@@ -62,8 +62,8 @@
 | 54 | 1156 | Goatimus Lombardi |
 | 55 | 1150 | Kimyatta Cavin |
 | 56 | 1106 | Ashley Ingram |
-| 57 | 1082 | Avy Absol |
-| 58 | 1082 | Dion Crommarty |
+| 57 | 1082 | Dion Crommarty |
+| 58 | 1082 | Avy Absol |
 | 59 | 1073 | Dustee Craddock-Harrison |
 | 60 | 1072 | Rachel Anne |
 | 61 | 1049 | Heather Tushner |
@@ -207,8 +207,8 @@
 | 199 | 444 | J-Rizzle |
 | 200 | 444 | Mylo Lipscomb |
 | 201 | 443 | Kristina Black |
-| 202 | 442 | SAP |
-| 203 | 442 | 🥔🥔 Spudz |
+| 202 | 442 | 🥔🥔 Spudz |
+| 203 | 442 | SAP |
 | 204 | 441 | George Nutt |
 | 205 | 440 | Mr. Party |
 | 206 | 438 | Melvin Baird |
@@ -265,11 +265,11 @@
 | 257 | 365 | Hyper Builder |
 | 258 | 363 | KimoKoala |
 | 259 | 361 | Danielle Kollias |
-| 260 | 360 | Ari Droff |
-| 261 | 360 | James Hurley Jr. |
+| 260 | 360 | James Hurley Jr. |
+| 261 | 360 | Ari Droff |
 | 262 | 358 | Twisty Cascadezone |
-| 263 | 356 | Joeliecea Cobb |
-| 264 | 356 | mike |
+| 263 | 356 | mike |
+| 264 | 356 | Joeliecea Cobb |
 | 265 | 355 | David Lay |
 | 266 | 353 | Chaz |
 | 267 | 352 | scott |
@@ -277,8 +277,8 @@
 | 269 | 350 | Jen Caldwell |
 | 270 | 349 | jim |
 | 271 | 348 | blasterB |
-| 272 | 347 | Daria Rycewicz |
-| 273 | 347 | Gdiguy |
+| 272 | 347 | Gdiguy |
+| 273 | 347 | Daria Rycewicz |
 | 274 | 343 | HastyGrabber |
 | 275 | 340 | Lauren Lamb |
 | 276 | 340 | Cranky Rollpiece |
@@ -566,8 +566,8 @@
 | 558 | 176 | Walid Elsabee |
 | 559 | 175 | Veronica Garza |
 | 560 | 174 | Christina Hyde |
-| 561 | 173 | Groovy Brickmatch |
-| 562 | 173 | Chariss Newsom |
+| 561 | 173 | Chariss Newsom |
+| 562 | 173 | Groovy Brickmatch |
 | 563 | 173 | Joshua Cuellar |
 | 564 | 172 | Janis Brown |
 | 565 | 172 | Mary Miller |
@@ -596,7 +596,7 @@
 | 588 | 166 | Reds Bella |
 | 589 | 165 | Zappy Buildgrid |
 | 590 | 165 | Dapper Caster |
-| 591 | 164 | Bussy Bay |
+| 591 | 164 | Smiley Shifter |
 | 592 | 164 | Marvetta Williams |
 | 593 | 164 | Bussy Bay |
 | 594 | 163 | Michael Orris |

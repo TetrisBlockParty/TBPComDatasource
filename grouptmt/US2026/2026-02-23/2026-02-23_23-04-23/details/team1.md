@@ -121,8 +121,8 @@
 | 113 | 612 | femmefatale |
 | 114 | 604 | Ryan Lunnin |
 | 115 | 603 | Ty Brown |
-| 116 | 601 | Evan Richmond |
-| 117 | 601 | Phu ckalldems |
+| 116 | 601 | Phu ckalldems |
+| 117 | 601 | Evan Richmond |
 | 118 | 598 | Jessi Sauer |
 | 119 | 594 | Basment Living |
 | 120 | 589 | Giddy Cascade |
@@ -164,15 +164,15 @@
 | 156 | 497 | Arianna O'Brien |
 | 157 | 494 | Sean Stallings |
 | 158 | 492 | Rebekah LeiAnn Bonsell |
-| 159 | 491 | Michelle Beres |
-| 160 | 491 | cc |
+| 159 | 491 | cc |
+| 160 | 491 | Michelle Beres |
 | 161 | 488 | Hyper |
 | 162 | 483 | Dandy Basegrid |
 | 163 | 483 | Trina Gee |
 | 164 | 482 | Sarah Somers Gray |
 | 165 | 479 | Ly Phethmany |
-| 166 | 476 | Snappy Matcher |
-| 167 | 476 | phrmblk24 |
+| 166 | 476 | phrmblk24 |
+| 167 | 476 | Snappy Matcher |
 | 168 | 470 | Candy Jones |
 | 169 | 468 | Steve Schneider |
 | 170 | 464 | canbrick |
@@ -190,8 +190,8 @@
 | 182 | 432 | Lori Bales |
 | 183 | 430 | David Miller |
 | 184 | 426 | Maria C. Hernandez |
-| 185 | 425 | Tyler Werts |
-| 186 | 425 | Tana |
+| 185 | 425 | Tana |
+| 186 | 425 | Tyler Werts |
 | 187 | 424 | Emily Adelaide Wheatley |
 | 188 | 423 | Kimberly Garcia |
 | 189 | 423 | Elaine Elaine |
@@ -207,8 +207,8 @@
 | 199 | 414 | John J. Cronin |
 | 200 | 412 | Connie |
 | 201 | 408 | Lindsay Glover |
-| 202 | 404 | Tawnya Peltonen |
-| 203 | 404 | Sleepysloath5745 |
+| 202 | 404 | Sleepysloath5745 |
+| 203 | 404 | Tawnya Peltonen |
 | 204 | 398 | Tyler L Hunt |
 | 205 | 398 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 206 | 397 | Erin Rosberg |
@@ -223,8 +223,8 @@
 | 215 | 387 | Ananda Mendez |
 | 216 | 386 | Brian Spotts |
 | 217 | 384 | Tami Luce Martin |
-| 218 | 383 | Margo Wagner |
-| 219 | 383 | pjbeta |
+| 218 | 383 | pjbeta |
+| 219 | 383 | Margo Wagner |
 | 220 | 382 | David Lutcher |
 | 221 | 381 | Alenoush Karimian |
 | 222 | 380 | Jen Nystrom |
@@ -651,9 +651,9 @@
 | 643 | 162 | Manley Smith |
 | 644 | 162 | Jay Tressler |
 | 645 | 161 | Mavria Comeaux Hinton |
-| 646 | 160 | Ruf Lowman |
-| 647 | 160 | Crystal Cheresnowsky |
-| 648 | 160 | Sunny Catcher |
+| 646 | 160 | Crystal Cheresnowsky |
+| 647 | 160 | Sunny Catcher |
+| 648 | 160 | Ruf Lowman |
 | 649 | 159 | Sarah Cassese |
 | 650 | 158 | Daring Roll |
 | 651 | 157 | Heather Martin |
