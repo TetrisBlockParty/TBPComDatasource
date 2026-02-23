@@ -593,8 +593,8 @@
 | 585 | 691 | Arwa Fatimah |
 | 586 | 688 | Tracy Wise |
 | 587 | 687 | Shinette Dobson |
-| 588 | 686 | Véronique Lévesque Sabourin |
-| 589 | 686 | Lyndi Robinson Wakefield |
+| 588 | 686 | Lyndi Robinson Wakefield |
+| 589 | 686 | Véronique Lévesque Sabourin |
 | 590 | 686 | De'Jah Charncey |
 | 591 | 685 | James Louie |
 | 592 | 684 | Sleepypanda67 |
@@ -1123,12 +1123,12 @@
 | 1115 | 417 | Tristan Szolek |
 | 1116 | 417 | Anthony McAlister |
 | 1117 | 417 | Steve Lane |
-| 1118 | 417 | Victoria Marie Bunch |
-| 1119 | 417 | Valerie Vigil |
+| 1118 | 417 | Valerie Vigil |
+| 1119 | 417 | Victoria Marie Bunch |
 | 1120 | 416 | Lush Snapzone |
 | 1121 | 416 | Christine Lockwood |
-| 1122 | 415 | Aletha Williams |
-| 1123 | 415 | Stanislav Petkov |
+| 1122 | 415 | Jake |
+| 1123 | 415 | Christina Jarvis-Swarbrick |
 | 1124 | 415 | Loopy Shatterfit |
 | 1125 | 415 | Aletha Williams |
 | 1126 | 415 | Stanislav Petkov |

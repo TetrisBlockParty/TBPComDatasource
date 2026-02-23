@@ -297,8 +297,8 @@
 | 289 | 434 | Daring Builder |
 | 290 | 432 | Luciana Braganca Vieira |
 | 291 | 431 | Wendy Dearden |
-| 292 | 430 | Quackers |
-| 293 | 430 | Jeni Dow |
+| 292 | 430 | Jeni Dow |
+| 293 | 430 | Quackers |
 | 294 | 429 | Carrie Huskey |
 | 295 | 428 | Gumbo |
 | 296 | 425 | Jennifer Alvey |
@@ -336,8 +336,8 @@
 | 328 | 383 | Skippy |
 | 329 | 382 | Amanda J. Mcneil-Anderson |
 | 330 | 381 | Noettín Kan Zasnemoore |
-| 331 | 379 | Kelly |
-| 332 | 379 | Kaitie Oliver |
+| 331 | 379 | Kaitie Oliver |
+| 332 | 379 | Kelly |
 | 333 | 378 | MsBee |
 | 334 | 377 | Hoppy Patternline |
 | 335 | 375 | Joy Petroski |
@@ -401,8 +401,8 @@
 | 393 | 330 | Big T |
 | 394 | 328 | Norma JulieMay |
 | 395 | 328 | Krystal Gerstberger |
-| 396 | 328 | Cesar Mendez |
-| 397 | 328 | Desiree Soto |
+| 396 | 328 | Desiree Soto |
+| 397 | 328 | Cesar Mendez |
 | 398 | 327 | Tiffanie Alley |
 | 399 | 327 | Jimmie Clemons |
 | 400 | 326 | Nelma |
@@ -416,8 +416,8 @@
 | 408 | 323 | Troy |
 | 409 | 323 | Spencer Nikki |
 | 410 | 323 | Jess Bissett |
-| 411 | 322 | Beth Smith |
-| 412 | 322 | Nena Somerville Kelly |
+| 411 | 322 | Nena Somerville Kelly |
+| 412 | 322 | Beth Smith |
 | 413 | 321 | Jl |
 | 414 | 321 | Romeo |
 | 415 | 320 | Or Reznitsky |
@@ -534,10 +534,10 @@
 | 526 | 262 | Bdhdj |
 | 527 | 261 | Cibf Ecihm |
 | 528 | 260 | Christen Cannon Layhew |
-| 529 | 260 | Nikkie Bucciano |
+| 529 | 260 | Tracey Cox |
 | 530 | 260 | Kristen McAlpine |
-| 531 | 260 | Tracey Cox |
-| 532 | 260 | Alice |
+| 531 | 260 | Alice |
+| 532 | 260 | Nikkie Bucciano |
 | 533 | 259 | Moimyzean |
 | 534 | 259 | Shania Vaine |
 | 535 | 258 | Jolly Brick |

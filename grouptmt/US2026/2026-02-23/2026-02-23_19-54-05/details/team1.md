@@ -243,8 +243,8 @@
 | 235 | 357 | Paula Martin |
 | 236 | 357 | Teri Oehlke |
 | 237 | 354 | Dino |
-| 238 | 353 | Jaimie Lynn |
-| 239 | 353 | Reesey Enyart |
+| 238 | 353 | Reesey Enyart |
+| 239 | 353 | Jaimie Lynn |
 | 240 | 353 | Josh Riemer |
 | 241 | 351 | Tyler Hertzog |
 | 242 | 350 | Tipsy Strikerpiece |
@@ -311,11 +311,11 @@
 | 303 | 298 | Kimberly Davis |
 | 304 | 298 | Sweetts |
 | 305 | 297 | Diane Byrd |
-| 306 | 294 | Наталья Солоид |
-| 307 | 294 | Chummy Rollblock |
+| 306 | 294 | Chummy Rollblock |
+| 307 | 294 | Наталья Солоид |
 | 308 | 293 | Garrett Burket |
-| 309 | 292 | Damian Salem |
-| 310 | 292 | Clever Cascadepiece |
+| 309 | 292 | Clever Cascadepiece |
+| 310 | 292 | Damian Salem |
 | 311 | 291 | Sir-Franchise Drake |
 | 312 | 290 | Tavia |
 | 313 | 289 | Alenoush Karimian |
