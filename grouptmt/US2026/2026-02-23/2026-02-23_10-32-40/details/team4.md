@@ -98,8 +98,8 @@
 | 90 | 659 | Jamie Gustafson |
 | 91 | 653 | Rica Mitchell |
 | 92 | 650 | KJ Pool |
-| 93 | 647 | KM8 |
-| 94 | 647 | Shauna Havard |
+| 93 | 647 | Shauna Havard |
+| 94 | 647 | KM8 |
 | 95 | 646 | Eric Mcgaughy |
 | 96 | 626 | Brittney Griggs |
 | 97 | 624 | Judy Cox |
@@ -176,8 +176,8 @@
 | 168 | 383 | Chris Bernstein |
 | 169 | 377 | Guy Incognito |
 | 170 | 375 | Desi Desporte |
-| 171 | 372 | Antony Dwayne Beasley |
-| 172 | 372 | George Nutt |
+| 171 | 372 | George Nutt |
+| 172 | 372 | Antony Dwayne Beasley |
 | 173 | 370 | Oscar Alberto Perez |
 | 174 | 369 | Lindsey Gonzalez |
 | 175 | 368 | Brandon Crabbs |
@@ -205,8 +205,8 @@
 | 197 | 334 | Kris Bartlett |
 | 198 | 332 | HastyGrabber |
 | 199 | 331 | Alan George LaRage |
-| 200 | 330 | blockstar |
-| 201 | 330 | Kathy Brookins |
+| 200 | 330 | Kathy Brookins |
+| 201 | 330 | blockstar |
 | 202 | 328 | scott |
 | 203 | 327 | J-Rizzle |
 | 204 | 324 | TinyLegoRose |
@@ -286,8 +286,8 @@
 | 278 | 253 | Autum Leigh |
 | 279 | 251 | Carol Ricks Raymond |
 | 280 | 249 | Ak Jones |
-| 281 | 248 | Chirpy Basepiece |
-| 282 | 248 | Angelito |
+| 281 | 248 | Angelito |
+| 282 | 248 | Chirpy Basepiece |
 | 283 | 248 | Jose Dejesus |
 | 284 | 245 | 23 |
 | 285 | 244 | Christina Black |
@@ -305,8 +305,8 @@
 | 297 | 237 | Christine Therrien |
 | 298 | 235 | LaDonna LovinmesomeMe Lambert |
 | 299 | 235 | Shainne Brewer |
-| 300 | 234 | Shanon Klair |
-| 301 | 234 | Richard-April Kice |
+| 300 | 234 | Richard-April Kice |
+| 301 | 234 | Shanon Klair |
 | 302 | 234 | Diosa Ebalobo Magsael |
 | 303 | 233 | Joseph Edmonson |
 | 304 | 230 | Chantilly Laace |
@@ -723,8 +723,8 @@
 | 715 | 98 | Bad company |
 | 716 | 98 | Maurice Daniels |
 | 717 | 98 | Jessi Cinotto |
-| 718 | 97 | Rick SJ |
-| 719 | 97 | Shanon James |
+| 718 | 97 | Shanon James |
+| 719 | 97 | Rick SJ |
 | 720 | 97 | Frisky Matchgrid |
 | 721 | 96 | KanVus |
 | 722 | 96 | Krs |
@@ -734,7 +734,7 @@
 | 726 | 96 | Christy |
 | 727 | 95 | RedBoots82 |
 | 728 | 95 | Harper |
-| 729 | 95 | Wacky Blockclear |
+| 729 | 95 | Chirpy Slammer |
 | 730 | 95 | Robert Bolden |
 | 731 | 95 | Alicia Falk |
 | 732 | 95 | Wacky Blockclear |

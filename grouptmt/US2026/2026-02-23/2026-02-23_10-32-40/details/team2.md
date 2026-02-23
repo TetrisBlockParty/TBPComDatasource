@@ -402,8 +402,8 @@
 | 394 | 808 | Desire Rice |
 | 395 | 808 | Connie Jimenez |
 | 396 | 804 | Becca Coronado |
-| 397 | 801 | Gold Rose |
-| 398 | 801 | Diana Fitzwater |
+| 397 | 801 | Diana Fitzwater |
+| 398 | 801 | Gold Rose |
 | 399 | 800 | Arlene Joy Belicina |
 | 400 | 799 | Kenny Alvarado |
 | 401 | 799 | Joy LaJeunesse |
@@ -416,8 +416,8 @@
 | 408 | 788 | Erika Densmore |
 | 409 | 787 | Tiara Elizabeth Baker |
 | 410 | 783 | John Rodriguez |
-| 411 | 777 | Jessicah Myers |
-| 412 | 777 | Tesha Oldaker |
+| 411 | 777 | Tesha Oldaker |
+| 412 | 777 | Jessicah Myers |
 | 413 | 776 | Fancy Twister |
 | 414 | 776 | Mighty Spinbuilder |
 | 415 | 775 | Crystie Hicks |
