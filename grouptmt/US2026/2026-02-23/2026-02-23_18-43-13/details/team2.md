@@ -219,8 +219,8 @@
 | 211 | 1461 | Tonya Morgan |
 | 212 | 1453 | Wendy Unsain |
 | 213 | 1452 | Cody Smith-Candelaria |
-| 214 | 1450 | Mischelle Clay |
-| 215 | 1450 | Shiny Rollzone |
+| 214 | 1450 | Shiny Rollzone |
+| 215 | 1450 | Mischelle Clay |
 | 216 | 1438 | Ashley Dow |
 | 217 | 1425 | Anna Edwards |
 | 218 | 1425 | John Rodriguez |
@@ -235,8 +235,8 @@
 | 227 | 1383 | Ladyrainbootz |
 | 228 | 1381 | Stacy Stickle |
 | 229 | 1370 | Lemonaide |
-| 230 | 1351 | Denisha Dawkins |
-| 231 | 1351 | Marie Boyd Faulk |
+| 230 | 1351 | Marie Boyd Faulk |
+| 231 | 1351 | Denisha Dawkins |
 | 232 | 1344 | Rebecca Garland |
 | 233 | 1342 | Kelly A Green-Leach |
 | 234 | 1340 | LordZophar |
@@ -712,8 +712,8 @@
 | 704 | 587 | Kelli Wells |
 | 705 | 586 | Tra Barnum |
 | 706 | 585 | Taylor Flowers |
-| 707 | 585 | Laquetta Royston |
-| 708 | 585 | Shelva Richard |
+| 707 | 585 | Shelva Richard |
+| 708 | 585 | Laquetta Royston |
 | 709 | 582 | Joseph Musick |
 | 710 | 582 | Kat Mfm Kaul |
 | 711 | 581 | AsnPryBoy83 |

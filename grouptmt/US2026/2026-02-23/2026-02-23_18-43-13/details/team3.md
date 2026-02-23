@@ -102,8 +102,8 @@
 | 94 | 1102 | Michelle Becker |
 | 95 | 1101 | Stephanie Rice |
 | 96 | 1094 | JerseyJess |
-| 97 | 1056 | Ebony West-Cundiff |
-| 98 | 1056 | joclisa |
+| 97 | 1056 | joclisa |
+| 98 | 1056 | Ebony West-Cundiff |
 | 99 | 1050 | Sherika C. McDaniels |
 | 100 | 1044 | Leah Barnett |
 | 101 | 1038 | Mandy Smith Oldham |
@@ -220,8 +220,8 @@
 | 212 | 564 | Poppy Splitter |
 | 213 | 562 | Dave Herzog |
 | 214 | 561 | Silly Twist |
-| 215 | 560 | Juliana Dottore |
-| 216 | 560 | FuzzyNavel |
+| 215 | 560 | FuzzyNavel |
+| 216 | 560 | Juliana Dottore |
 | 217 | 559 | Patti Skiles |
 | 218 | 557 | JessDrown |
 | 219 | 549 | Sarah Cowan Burgos |
@@ -264,8 +264,8 @@
 | 256 | 480 | Isabel Ocasio |
 | 257 | 476 | Shunta Jacobs |
 | 258 | 471 | Mendoza Lee Christy |
-| 259 | 471 | Rebecca Bailey |
-| 260 | 471 | Gray Hicks |
+| 259 | 471 | Gray Hicks |
+| 260 | 471 | Rebecca Bailey |
 | 261 | 470 | Marci Mize Fandrich |
 | 262 | 470 | Rebecca Funderburk Kirby |
 | 263 | 464 | Danielle Weikel |
@@ -330,8 +330,8 @@
 | 322 | 385 | Samantha Lynn |
 | 323 | 384 | Noyb Adam |
 | 324 | 382 | Amanda J. Mcneil-Anderson |
-| 325 | 379 | Kelly |
-| 326 | 379 | Kaitie Oliver |
+| 325 | 379 | Kaitie Oliver |
+| 326 | 379 | Kelly |
 | 327 | 378 | MsBee |
 | 328 | 378 | Chris Bell |
 | 329 | 377 | Hoppy Patternline |
@@ -364,14 +364,14 @@
 | 356 | 356 | Ashley Lynn Marchese |
 | 357 | 355 | Dana Fox |
 | 358 | 353 | Dee Franklin |
-| 359 | 352 | Tiffany Davie |
-| 360 | 352 | Nikki Pags |
+| 359 | 352 | Nikki Pags |
+| 360 | 352 | Tiffany Davie |
 | 361 | 352 | LadyTorad |
 | 362 | 351 | Blocked |
 | 363 | 351 | Eon Harris |
 | 364 | 349 | Num1hater |
-| 365 | 348 | Kelly Wolf |
-| 366 | 348 | Ashley Raines |
+| 365 | 348 | Ashley Raines |
+| 366 | 348 | Kelly Wolf |
 | 367 | 346 | AlsoJess |
 | 368 | 345 | gremicx |
 | 369 | 345 | victory |
@@ -395,8 +395,8 @@
 | 387 | 330 | angieelyn |
 | 388 | 330 | Big T |
 | 389 | 328 | Krystal Gerstberger |
-| 390 | 328 | Desiree Soto |
-| 391 | 328 | Cesar Mendez |
+| 390 | 328 | Cesar Mendez |
+| 391 | 328 | Desiree Soto |
 | 392 | 327 | Tiffanie Alley |
 | 393 | 326 | Kerry Nowickshere |
 | 394 | 326 | Norma JulieMay |
@@ -434,8 +434,8 @@
 | 426 | 304 | _melisa223_ |
 | 427 | 304 | Ava Petito |
 | 428 | 304 | Stella |
-| 429 | 302 | Jessica |
-| 430 | 302 | Willow |
+| 429 | 302 | Willow |
+| 430 | 302 | Jessica |
 | 431 | 301 | Giggly Brickroll |
 | 432 | 301 | Betty Rosas |
 | 433 | 299 | Antonia Russell |
@@ -504,13 +504,13 @@
 | 496 | 269 | Goofy Fall |
 | 497 | 268 | Sabrina Mansfield |
 | 498 | 268 | Sarah Mayson |
-| 499 | 268 | Sabrina Mansfield |
+| 499 | 268 | Julia Nicole |
 | 500 | 268 | Sdot |
 | 501 | 267 | Fredd Thomas |
 | 502 | 267 | Omega |
 | 503 | 267 | April Matthew Kibble |
-| 504 | 266 | Reina Roth |
-| 505 | 266 | Quirky Dropzone |
+| 504 | 266 | Quirky Dropzone |
+| 505 | 266 | Reina Roth |
 | 506 | 265 | Justin Parker |
 | 507 | 265 | Danielle Dani |
 | 508 | 264 | Danielle Beaunoyer Jean |

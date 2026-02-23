@@ -151,8 +151,8 @@
 | 143 | 520 | Zippy Block |
 | 144 | 518 | Carly Alexis |
 | 145 | 516 | Trish |
-| 146 | 514 | Lucas J Sutton |
-| 147 | 514 | Scott Jameson |
+| 146 | 514 | Scott Jameson |
+| 147 | 514 | Lucas J Sutton |
 | 148 | 513 | Erin Thomas |
 | 149 | 512 | ThaEviLJeNiuZ |
 | 150 | 512 | Casey Jeffcoat |
@@ -335,15 +335,15 @@
 | 327 | 266 | Deb Rubeck |
 | 328 | 266 | Happy Combo |
 | 329 | 266 | Tracey Lehmann |
-| 330 | 265 | Christine Therrien |
-| 331 | 265 | Sarah Neathery |
+| 330 | 265 | Sarah Neathery |
+| 331 | 265 | Christine Therrien |
 | 332 | 265 | Degenerate |
 | 333 | 264 | ZeeZee |
 | 334 | 264 | AyeKay |
 | 335 | 264 | Zethra Prenisha Rahming |
 | 336 | 262 | Ruben Wheeler |
-| 337 | 262 | BigSammy420 |
-| 338 | 262 | Selena Shaw |
+| 337 | 262 | Selena Shaw |
+| 338 | 262 | BigSammy420 |
 | 339 | 260 | Carter Jones |
 | 340 | 260 | Angelito |
 | 341 | 259 | Allen Lloyd |
@@ -357,8 +357,8 @@
 | 349 | 253 | Cool Buildout |
 | 350 | 253 | Chair |
 | 351 | 252 | Maureen Flanigan |
-| 352 | 252 | Dan Wold |
-| 353 | 252 | Gracie Ann Taylor |
+| 352 | 252 | Gracie Ann Taylor |
+| 353 | 252 | Dan Wold |
 | 354 | 251 | Kathy Allen |
 | 355 | 251 | Carol Ricks Raymond |
 | 356 | 250 | Stephme310 |
@@ -377,8 +377,8 @@
 | 369 | 240 | Tyler Bechtel |
 | 370 | 240 | Zany Shatterer |
 | 371 | 240 | Perky Patternblock |
-| 372 | 239 | Kevin Bush |
-| 373 | 239 | Laura Hosford |
+| 372 | 239 | Laura Hosford |
+| 373 | 239 | Kevin Bush |
 | 374 | 239 | Denise B |
 | 375 | 239 | Jackie Clark |
 | 376 | 238 | 中山成巳 |
@@ -395,8 +395,8 @@
 | 387 | 232 | Jenny Wells-Oakley |
 | 388 | 230 | Chantilly Laace |
 | 389 | 228 | Bethany Ison |
-| 390 | 227 | Asher |
-| 391 | 227 | Maria Hammie |
+| 390 | 227 | Maria Hammie |
+| 391 | 227 | Asher |
 | 392 | 225 | Jennifer Renee |
 | 393 | 224 | Ultramarine |
 | 394 | 223 | Brave Spinbuilder |
@@ -425,17 +425,17 @@
 | 417 | 215 | Tanya Abernathy Jackson |
 | 418 | 215 | Squeezy Pearsall |
 | 419 | 214 | Victoria Faniel |
-| 420 | 214 | B Renee Desjardin |
-| 421 | 214 | Susan R. Wilson |
+| 420 | 214 | Susan R. Wilson |
+| 421 | 214 | B Renee Desjardin |
 | 422 | 213 | Derick |
 | 423 | 212 | Mike Solo |
 | 424 | 211 | Shiny Pivoty |
 | 425 | 211 | Becky Shimko |
-| 426 | 210 | Cool Gridzone |
-| 427 | 210 | Jessica Atkinson |
+| 426 | 210 | Jessica Atkinson |
+| 427 | 210 | Cool Gridzone |
 | 428 | 210 | Vanessa Smart |
-| 429 | 209 | Marcus Todd |
-| 430 | 209 | PennyCandee |
+| 429 | 209 | PennyCandee |
+| 430 | 209 | Marcus Todd |
 | 431 | 209 | Snippy Puzzle |
 | 432 | 209 | Matthew Pate |
 | 433 | 208 | Moonsterix |
@@ -1483,7 +1483,7 @@
 | 1475 | 30 | Apryl Lia |
 | 1476 | 30 | canglem |
 | 1477 | 30 | Khrystyna Lukaniuk |
-| 1478 | 29 | Chris Williams |
+| 1478 | 29 | EMSquire |
 | 1479 | 29 | Interesting |
 | 1480 | 29 | Chris Williams |
 | 1481 | 29 | Flashy Twister |
