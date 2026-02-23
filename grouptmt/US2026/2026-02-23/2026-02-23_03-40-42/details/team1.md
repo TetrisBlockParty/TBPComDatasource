@@ -46,8 +46,8 @@
 | 38 | 994 | Amanda Summey Schoemer |
 | 39 | 966 | Shalene Frederick Autrey |
 | 40 | 964 | Carrie Beck Geartz |
-| 41 | 953 | Hyp James NObettadanluvarat |
-| 42 | 953 | Derek MF Blakey |
+| 41 | 953 | Derek MF Blakey |
+| 42 | 953 | Hyp James NObettadanluvarat |
 | 43 | 945 | Amber Stoker |
 | 44 | 919 | Chipper Gridlock |
 | 45 | 915 | Katie Daniels |
@@ -97,8 +97,8 @@
 | 89 | 519 | Ryan Lunnin |
 | 90 | 510 | Colena Davenport |
 | 91 | 500 | Evie Khalil |
-| 92 | 496 | Sarah Lombardo |
-| 93 | 496 | Arianna O'Brien |
+| 92 | 496 | Arianna O'Brien |
+| 93 | 496 | Sarah Lombardo |
 | 94 | 493 | Jennifer ManWarren |
 | 95 | 493 | MomMom |
 | 96 | 492 | Ash Galvan |
@@ -156,8 +156,8 @@
 | 148 | 371 | Jason Savage |
 | 149 | 368 | Amanda Johnson Huffman |
 | 150 | 367 | Sharon Reynolds |
-| 151 | 364 | Shauna Loe |
-| 152 | 364 | Serina Marie |
+| 151 | 364 | Serina Marie |
+| 152 | 364 | Shauna Loe |
 | 153 | 360 | Wisa |
 | 154 | 355 | Carrie Smith |
 | 155 | 353 | Jaimie Lynn |
@@ -173,8 +173,8 @@
 | 165 | 341 | Nick R Montague |
 | 166 | 339 | Nicole Roseberry Weber |
 | 167 | 338 | Jennifer Hardman |
-| 168 | 337 | Jamise Brown |
-| 169 | 337 | Constance Risner |
+| 168 | 337 | Constance Risner |
+| 169 | 337 | Jamise Brown |
 | 170 | 336 | Dizzy Party |
 | 171 | 336 | Erin Rosberg |
 | 172 | 333 | Gracie |
@@ -204,8 +204,8 @@
 | 196 | 296 | Cody Gates |
 | 197 | 296 | Witty Builderfit |
 | 198 | 295 | Sleepysloath5745 |
-| 199 | 294 | Bindi |
-| 200 | 294 | Margo Wagner |
+| 199 | 294 | Margo Wagner |
+| 200 | 294 | Bindi |
 | 201 | 293 | John Kim |
 | 202 | 291 | Brave Wrecker |
 | 203 | 290 | Speedy Liney |
@@ -220,22 +220,22 @@
 | 212 | 282 | Timothy Dew |
 | 213 | 281 | Clever Cascadepiece |
 | 214 | 280 | Billie Dawn Sparks |
-| 215 | 279 | Tana |
-| 216 | 279 | Bird Person |
+| 215 | 279 | Bird Person |
+| 216 | 279 | Tana |
 | 217 | 278 | Amanda Jarnagin |
-| 218 | 277 | Melissa Lemmon |
-| 219 | 277 | Nutty Spinblock |
+| 218 | 277 | Nutty Spinblock |
+| 219 | 277 | Melissa Lemmon |
 | 220 | 275 | Chris65 |
 | 221 | 275 | Cheeky Pop |
 | 222 | 273 | Shannon Marie Pitts |
-| 223 | 271 | Sam Williams |
-| 224 | 271 | Frothy Pattern |
+| 223 | 271 | Frothy Pattern |
+| 224 | 271 | Sam Williams |
 | 225 | 270 | Debbie Kane |
 | 226 | 265 | Kandae |
 | 227 | 264 | Standia Civil |
 | 228 | 264 | Jenny Gingrich Fuentes |
-| 229 | 263 | Jessie Lynn |
-| 230 | 263 | Perky Shiftsnap |
+| 229 | 263 | Perky Shiftsnap |
+| 230 | 263 | Jessie Lynn |
 | 231 | 261 | John J. Cronin |
 | 232 | 260 | Marianita Garcia |
 | 233 | 260 | Lacy Wolfe |

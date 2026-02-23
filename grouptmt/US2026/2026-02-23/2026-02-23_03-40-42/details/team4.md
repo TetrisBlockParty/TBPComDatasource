@@ -82,8 +82,8 @@
 | 74 | 735 | Denise Carlson |
 | 75 | 716 | TheNeesh50 |
 | 76 | 706 | Lisa Davis |
-| 77 | 704 | Crystal Carroll |
-| 78 | 704 | D3TROITB0RN74 |
+| 77 | 704 | D3TROITB0RN74 |
+| 78 | 704 | Crystal Carroll |
 | 79 | 703 | Savannah Overdorf |
 | 80 | 697 | Alyssa Papen |
 | 81 | 684 | Kimyatta Cavin |
@@ -159,18 +159,18 @@
 | 151 | 387 | 🥔🥔 Spudz |
 | 152 | 387 | Lucas J Sutton |
 | 153 | 377 | Carrie Brian |
-| 154 | 375 | ThaEviLJeNiuZ |
-| 155 | 375 | Desi Desporte |
-| 156 | 374 | Guy Incognito |
-| 157 | 374 | Leslie Nicole |
+| 154 | 375 | Desi Desporte |
+| 155 | 375 | ThaEviLJeNiuZ |
+| 156 | 374 | Leslie Nicole |
+| 157 | 374 | Guy Incognito |
 | 158 | 373 | Tyler Terrific |
 | 159 | 370 | Oscar Alberto Perez |
 | 160 | 368 | Silly Zonebuilder |
 | 161 | 368 | Raegan Lane-Ross |
 | 162 | 368 | Brandon Crabbs |
 | 163 | 365 | Lindsey Gonzalez |
-| 164 | 361 | Danielle Kollias |
-| 165 | 361 | Melissa Adams |
+| 164 | 361 | Melissa Adams |
+| 165 | 361 | Danielle Kollias |
 | 166 | 359 | Keith Kelley |
 | 167 | 358 | A5! |
 | 168 | 356 | George Nutt |
@@ -200,8 +200,8 @@
 | 192 | 307 | Michele Plunkett |
 | 193 | 306 | blockstar |
 | 194 | 305 | Melvin Baird |
-| 195 | 304 | Lindsay Ball |
-| 196 | 304 | Mary Ann Pabukis |
+| 195 | 304 | Mary Ann Pabukis |
+| 196 | 304 | Lindsay Ball |
 | 197 | 302 | Cursed Hag |
 | 198 | 301 | Andria Lynn |
 | 199 | 300 | Dana Scott |
@@ -217,8 +217,8 @@
 | 209 | 288 | Adam Stephanie Parker |
 | 210 | 288 | Leah Kutz Zirbel |
 | 211 | 287 | Plucky Patternblock |
-| 212 | 286 | Zesty Twistbuilder |
-| 213 | 286 | Sam Bishop |
+| 212 | 286 | Sam Bishop |
+| 213 | 286 | Zesty Twistbuilder |
 | 214 | 284 | Mimi |
 | 215 | 282 | Kim Klutz Olson |
 | 216 | 282 | Matt Gooder |
@@ -262,9 +262,9 @@
 | 254 | 244 | Elizabeth Tinoco |
 | 255 | 244 | Christina Black |
 | 256 | 243 | Nick Gray |
-| 257 | 240 | Kim Hunt |
-| 258 | 240 | Lori |
-| 259 | 240 | Perky Patternblock |
+| 257 | 240 | Lori |
+| 258 | 240 | Perky Patternblock |
+| 259 | 240 | Kim Hunt |
 | 260 | 239 | Joanna |
 | 261 | 238 | Chaz |
 | 262 | 238 | 中山成巳 |
@@ -1364,7 +1364,7 @@
 | 1356 | 27 | Gregory Mock |
 | 1357 | 26 | Kari Rose Haché |
 | 1358 | 26 | Dreamy Tiler |
-| 1359 | 26 | Giddy Dropmatch |
+| 1359 | 26 | Frothy Twisterfit |
 | 1360 | 26 | Jamie Mclean |
 | 1361 | 26 | Daring Strike |
 | 1362 | 26 | Giddy Dropmatch |

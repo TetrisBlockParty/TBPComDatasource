@@ -27,8 +27,8 @@
 | 19 | 2494 | Ashley Jones |
 | 20 | 2387 | Susan Valentino |
 | 21 | 2302 | Laura Melton |
-| 22 | 2287 | Tetris Master |
-| 23 | 2287 | Brandon Green |
+| 22 | 2287 | Brandon Green |
+| 23 | 2287 | Tetris Master |
 | 24 | 2179 | mjl574 |
 | 25 | 2144 | Zippy Strikesnap |
 | 26 | 2105 | Chummy Shatterer |
@@ -161,8 +161,8 @@
 | 153 | 595 | Nicole Myers |
 | 154 | 588 | Justin Ritter |
 | 155 | 587 | Louise Stacy Sisson |
-| 156 | 585 | Happy Tetriblast |
-| 157 | 585 | Annie Marie |
+| 156 | 585 | Annie Marie |
+| 157 | 585 | Happy Tetriblast |
 | 158 | 582 | Natasha Jones |
 | 159 | 579 | Tasha Gillespie |
 | 160 | 577 | Domo Washington |
@@ -254,8 +254,8 @@
 | 246 | 371 | block chick |
 | 247 | 370 | Chummy Caster |
 | 248 | 369 | Keis |
-| 249 | 369 | Snazzy Filler |
-| 250 | 369 | Marquita Sheard |
+| 249 | 369 | Marquita Sheard |
+| 250 | 369 | Snazzy Filler |
 | 251 | 368 | Stephanie Woods |
 | 252 | 368 | Sheila M Frazier |
 | 253 | 367 | Kristin Delibac Corrigan |

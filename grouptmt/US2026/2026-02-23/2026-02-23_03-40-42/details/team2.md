@@ -103,8 +103,8 @@
 | 95 | 2170 | Steve Grotto |
 | 96 | 2165 | Tj Ball |
 | 97 | 2155 | Qiana Sanders |
-| 98 | 2148 | Roger Grabbit |
-| 99 | 2148 | ShinyRose |
+| 98 | 2148 | ShinyRose |
+| 99 | 2148 | Roger Grabbit |
 | 100 | 2146 | KellyDyan |
 | 101 | 2106 | Cool Rollpiece |
 | 102 | 2103 | Alisha Peoples |
@@ -288,10 +288,10 @@
 | 280 | 979 | Hillary Crawford |
 | 281 | 979 | Melissa Penelope Ann Dodge |
 | 282 | 976 | Sam Joe |
-| 283 | 972 | Barbra Miller |
-| 284 | 972 | Juliana Marques Do Nascimento Gordy |
-| 285 | 972 | Binyah-Binyah |
-| 286 | 972 | Della Hole |
+| 283 | 972 | Della Hole |
+| 284 | 972 | Barbra Miller |
+| 285 | 972 | Juliana Marques Do Nascimento Gordy |
+| 286 | 972 | Binyah-Binyah |
 | 287 | 969 | Missie Lawson Gebhardt |
 | 288 | 966 | Jojo Momma |
 | 289 | 959 | Em Chen |
@@ -834,8 +834,8 @@
 | 826 | 400 | Deana |
 | 827 | 399 | Heather Johnson |
 | 828 | 399 | Trista Carter |
-| 829 | 398 | Christina Jarvis-Swarbrick |
-| 830 | 398 | TF Dyer |
+| 829 | 398 | TF Dyer |
+| 830 | 398 | Christina Jarvis-Swarbrick |
 | 831 | 398 | Witty Piecebuilder |
 | 832 | 398 | Juan Killyoselfifudontlikeme Ronaldo |
 | 833 | 397 | Dawn Woosley Bowes |
@@ -844,8 +844,8 @@
 | 836 | 396 | Lindsey Leigh |
 | 837 | 396 | Cassie Newton |
 | 838 | 395 | Jennie Lee Huntley |
-| 839 | 395 | Cassi Owens |
-| 840 | 395 | Vung Nguyen |
+| 839 | 395 | Vung Nguyen |
+| 840 | 395 | Cassi Owens |
 | 841 | 394 | Alicia Moreno |
 | 842 | 394 | Giggly Snap |
 | 843 | 393 | Jamie West |
@@ -998,7 +998,7 @@
 | 990 | 342 | SwifftFox |
 | 991 | 342 | Patrick Fleming |
 | 992 | 342 | Emoniee Sa'niaya |
-| 993 | 342 | Patrick Fleming |
+| 993 | 342 | Danielle DeLozier Plesec |
 | 994 | 341 | Robin L. Vial |
 | 995 | 341 | Queen |
 | 996 | 340 | RetroLemur |
