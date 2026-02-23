@@ -218,8 +218,8 @@
 | 210 | 1245 | Cody Nishimura |
 | 211 | 1240 | Brandon Armstrong |
 | 212 | 1237 | Megan Ferguson Leone |
-| 213 | 1232 | Ambyre Patterson |
-| 214 | 1232 | Groovy Puzzle |
+| 213 | 1232 | Groovy Puzzle |
+| 214 | 1232 | Ambyre Patterson |
 | 215 | 1230 | Megan Garrick |
 | 216 | 1221 | Jane Fong |
 | 217 | 1217 | Lucky Ladybug |
@@ -402,8 +402,8 @@
 | 394 | 787 | Tiara Elizabeth Baker |
 | 395 | 783 | John Rodriguez |
 | 396 | 779 | Kayla |
-| 397 | 777 | Jessicah Myers |
-| 398 | 777 | Tesha Oldaker |
+| 397 | 777 | Tesha Oldaker |
+| 398 | 777 | Jessicah Myers |
 | 399 | 776 | Fancy Twister |
 | 400 | 776 | Kelly A Green-Leach |
 | 401 | 776 | Mighty Spinbuilder |
