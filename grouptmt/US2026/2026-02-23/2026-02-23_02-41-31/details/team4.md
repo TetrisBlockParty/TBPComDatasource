@@ -201,9 +201,9 @@
 | 193 | 304 | Mary Ann Pabukis |
 | 194 | 302 | Cursed Hag |
 | 195 | 301 | Andria Lynn |
-| 196 | 300 | Dana Scott |
-| 197 | 300 | Dihcheese444 |
-| 198 | 300 | Zakia Monae |
+| 196 | 300 | Dihcheese444 |
+| 197 | 300 | Zakia Monae |
+| 198 | 300 | Dana Scott |
 | 199 | 297 | Melvin Baird |
 | 200 | 296 | scott |
 | 201 | 294 | Calvin Cannon |
@@ -238,8 +238,8 @@
 | 230 | 264 | Carlos Ramirez |
 | 231 | 261 | JPW |
 | 232 | 260 | Selena Shaw |
-| 233 | 259 | Cheery Risebuilder |
-| 234 | 259 | Montiette Mcglown |
+| 233 | 259 | Montiette Mcglown |
+| 234 | 259 | Cheery Risebuilder |
 | 235 | 258 | Stella |
 | 236 | 257 | PeaceOs |
 | 237 | 256 | Mylo Lipscomb |

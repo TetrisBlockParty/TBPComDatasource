@@ -219,8 +219,8 @@
 | 211 | 1169 | Pacynthia Williams |
 | 212 | 1169 | Steven Marshaun |
 | 213 | 1159 | Carrie Trigg |
-| 214 | 1158 | Amy Sayers |
-| 215 | 1158 | Brittany Clark |
+| 214 | 1158 | Brittany Clark |
+| 215 | 1158 | Amy Sayers |
 | 216 | 1151 | Stacey Clement |
 | 217 | 1141 | Adam Erikson |
 | 218 | 1140 | Sarah Ridenour |
@@ -248,8 +248,8 @@
 | 240 | 1079 | Jennifer Kistner |
 | 241 | 1079 | Kimberly Hauck-Rausch |
 | 242 | 1078 | Moose Griffith |
-| 243 | 1073 | Eric Carlson |
-| 244 | 1073 | Jodi Blake |
+| 243 | 1073 | Jodi Blake |
+| 244 | 1073 | Eric Carlson |
 | 245 | 1071 | Kim Dean |
 | 246 | 1064 | BK Queen |
 | 247 | 1058 | Rickey Johnson |

@@ -189,7 +189,7 @@
 | 181 | 490 | Loopy Fallmatch |
 | 182 | 489 | Shannon Matthew Byers |
 | 183 | 488 | Melissa Orth Hunter |
-| 184 | 485 | FuzzyNavel |
+| 184 | 485 | Terry Jo Jones |
 | 185 | 485 | Dapper Snap |
 | 186 | 485 | FuzzyNavel |
 | 187 | 480 | Michael Johnson |
@@ -214,8 +214,8 @@
 | 206 | 432 | Jenny Hrndz |
 | 207 | 432 | Christine Trester |
 | 208 | 431 | Wendy Dearden |
-| 209 | 430 | Joye Sims Binion |
-| 210 | 430 | Jeni Dow |
+| 209 | 430 | Jeni Dow |
+| 210 | 430 | Joye Sims Binion |
 | 211 | 429 | Sherry Ogden |
 | 212 | 423 | Loopy Clusterer |
 | 213 | 423 | Staci George Fitzsimmons |

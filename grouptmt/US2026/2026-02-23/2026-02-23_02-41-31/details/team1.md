@@ -59,8 +59,8 @@
 | 51 | 829 | Sevens4L |
 | 52 | 812 | Patrick Luckenbill |
 | 53 | 797 | Lawrence Belanger |
-| 54 | 783 | Redlicious 1 |
-| 55 | 783 | TSwag |
+| 54 | 783 | TSwag |
+| 55 | 783 | Redlicious 1 |
 | 56 | 779 | Andrea Dañielle Ortiz |
 | 57 | 772 | Tinah Montanna |
 | 58 | 770 | Zappy Curvetile |
@@ -230,8 +230,8 @@
 | 222 | 270 | Debbie Kane |
 | 223 | 268 | Reesey Enyart |
 | 224 | 265 | Kandae |
-| 225 | 264 | Standia Civil |
-| 226 | 264 | Jenny Gingrich Fuentes |
+| 225 | 264 | Jenny Gingrich Fuentes |
+| 226 | 264 | Standia Civil |
 | 227 | 263 | Jessie Lynn |
 | 228 | 261 | John J. Cronin |
 | 229 | 260 | Melissa Lemmon |
@@ -248,12 +248,12 @@
 | 240 | 247 | Brenda Alexander |
 | 241 | 245 | Matt Iaccheo |
 | 242 | 245 | LaFontaine Leslie |
-| 243 | 244 | Sarah Somers Gray |
-| 244 | 244 | Eddie Dillon |
+| 243 | 244 | Eddie Dillon |
+| 244 | 244 | Sarah Somers Gray |
 | 245 | 242 | ParisandCory Champagne |
 | 246 | 241 | Tyler Hertzog |
-| 247 | 240 | Daring Fitclear |
-| 248 | 240 | DaRascal |
+| 247 | 240 | DaRascal |
+| 248 | 240 | Daring Fitclear |
 | 249 | 238 | Tiffany Smith |
 | 250 | 234 | Paula Martin |
 | 251 | 233 | Shiny Gridmatch |
@@ -333,8 +333,8 @@
 | 325 | 195 | Beazel75 |
 | 326 | 193 | Lachelle Dillon |
 | 327 | 192 | Jessica Russell |
-| 328 | 191 | John Garza |
-| 329 | 191 | Slinky Rotater |
+| 328 | 191 | Slinky Rotater |
+| 329 | 191 | John Garza |
 | 330 | 191 | Νεφ Όνυξ |
 | 331 | 190 | Sweetts |
 | 332 | 190 | Pauline Cortez |
