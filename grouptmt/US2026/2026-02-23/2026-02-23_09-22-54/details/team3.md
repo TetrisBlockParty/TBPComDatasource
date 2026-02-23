@@ -121,15 +121,15 @@
 | 113 | 839 | Angeline Joseph |
 | 114 | 830 | Stephanie Allmon |
 | 115 | 826 | Shane Wilson Jr. |
-| 116 | 816 | Brenda Lee Vander Molen |
-| 117 | 816 | Jesse Olive |
+| 116 | 816 | Jesse Olive |
+| 117 | 816 | Brenda Lee Vander Molen |
 | 118 | 802 | Bobbi Moore |
 | 119 | 800 | Lauren Girouard |
 | 120 | 799 | Dolores Falco |
 | 121 | 773 | Daira Largen |
 | 122 | 769 | Kristie |
-| 123 | 764 | Hasty Cascadefit |
-| 124 | 764 | Groovy Catcher |
+| 123 | 764 | Groovy Catcher |
+| 124 | 764 | Hasty Cascadefit |
 | 125 | 762 | Speedy Bridger |
 | 126 | 755 | Raya |
 | 127 | 755 | Katrina Schroeder |
@@ -163,8 +163,8 @@
 | 155 | 646 | Bea Miles |
 | 156 | 634 | Amber Hughes |
 | 157 | 630 | yoyo |
-| 158 | 621 | Cherry Parker |
-| 159 | 621 | Sashay Tapae Simpson |
+| 158 | 621 | Sashay Tapae Simpson |
+| 159 | 621 | Cherry Parker |
 | 160 | 616 | Kammy Hill |
 | 161 | 611 | Rochelle Hazelett |
 | 162 | 607 | Grego Daniel |
@@ -194,11 +194,11 @@
 | 186 | 556 | Elissa S-k |
 | 187 | 548 | Danielle Balcom |
 | 188 | 546 | Cynthia Castros-Hampton |
-| 189 | 546 | Mykal Burton |
-| 190 | 546 | Tasha Schriewer |
+| 189 | 546 | Tasha Schriewer |
+| 190 | 546 | Mykal Burton |
 | 191 | 540 | Shawn Miller |
-| 192 | 531 | Sarah Cowan Burgos |
-| 193 | 531 | Chauntee Alfrey-Cardinale |
+| 192 | 531 | Chauntee Alfrey-Cardinale |
+| 193 | 531 | Sarah Cowan Burgos |
 | 194 | 528 | Silly Twist |
 | 195 | 525 | Stephanie Blkpep Davidson |
 | 196 | 524 | Bmo |
@@ -428,8 +428,8 @@
 | 420 | 253 | Block Baddie |
 | 421 | 253 | Hyper Bridger |
 | 422 | 253 | Jennifer Alvey |
-| 423 | 252 | Josh Borquez |
-| 424 | 252 | Jl |
+| 423 | 252 | Jl |
+| 424 | 252 | Josh Borquez |
 | 425 | 251 | Colleen Phelps |
 | 426 | 250 | Dana Fox |
 | 427 | 249 | Willow |
@@ -566,8 +566,8 @@
 | 558 | 195 | toony |
 | 559 | 195 | Nicha Hooker |
 | 560 | 194 | Shicken Nuggit |
-| 561 | 193 | Bryan Byrd |
-| 562 | 193 | Clever Shiftsnap |
+| 561 | 193 | Clever Shiftsnap |
+| 562 | 193 | Bryan Byrd |
 | 563 | 192 | Jennifer Neiman Gaal |
 | 564 | 192 | Laura Booth Wosko |
 | 565 | 192 | Kelly Ann Child |
@@ -589,8 +589,8 @@
 | 581 | 187 | luluraine |
 | 582 | 187 | Tiffany Marler |
 | 583 | 187 | Crystal Johnson |
-| 584 | 186 | Rayzer |
-| 585 | 186 | Funky Jumper |
+| 584 | 186 | Funky Jumper |
+| 585 | 186 | Rayzer |
 | 586 | 185 | Ashley Kennedy |
 | 587 | 185 | Breezy Roll |
 | 588 | 184 | Shanon R Jackson |

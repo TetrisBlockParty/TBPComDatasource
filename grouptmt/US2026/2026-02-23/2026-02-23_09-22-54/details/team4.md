@@ -62,8 +62,8 @@
 | 54 | 864 | Shelly Chandler |
 | 55 | 863 | Pee |
 | 56 | 859 | TeeJ |
-| 57 | 846 | Christine Marie |
-| 58 | 846 | Lucille Truesdale |
+| 57 | 846 | Lucille Truesdale |
+| 58 | 846 | Christine Marie |
 | 59 | 845 | LisaJo Picken Buchanan |
 | 60 | 834 | quicksand420 |
 | 61 | 811 | Ashley Ingram |
@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Kimyatta Cavin |
-| 84 | 684 | Jonathan Kimbrough |
+| 83 | 684 | Jonathan Kimbrough |
+| 84 | 684 | Kimyatta Cavin |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -125,8 +125,8 @@
 | 117 | 514 | Scott Jameson |
 | 118 | 514 | Serena Goodridge |
 | 119 | 513 | Erin Thomas |
-| 120 | 512 | Casey Jeffcoat |
-| 121 | 512 | Cristy Duerksen |
+| 120 | 512 | Cristy Duerksen |
+| 121 | 512 | Casey Jeffcoat |
 | 122 | 511 | Lori Walker |
 | 123 | 509 | Leslie Nicole |
 | 124 | 493 | Ren Mc |
@@ -156,8 +156,8 @@
 | 148 | 418 | Marie-Pier Desjardins |
 | 149 | 418 | Lush Linkfall |
 | 150 | 416 | Chaz Duncan |
-| 151 | 414 | Nope Young |
-| 152 | 414 | Swanky Fitline |
+| 151 | 414 | Swanky Fitline |
+| 152 | 414 | Nope Young |
 | 153 | 413 | Circuit8 |
 | 154 | 412 | Jessica Bohlken |
 | 155 | 408 | Amanda Pauldo-Ivy |
@@ -166,8 +166,8 @@
 | 158 | 403 | Keith Kelley |
 | 159 | 402 | Lucas J Sutton |
 | 160 | 398 | Tyler Terrific |
-| 161 | 393 | Girl |
-| 162 | 393 | Carlton Unfiltered |
+| 161 | 393 | Carlton Unfiltered |
+| 162 | 393 | Girl |
 | 163 | 392 | Nick Gray |
 | 164 | 391 | Ramel Rhodes |
 | 165 | 390 | Steph Marie |
@@ -208,8 +208,8 @@
 | 200 | 330 | Kathy Brookins |
 | 201 | 328 | scott |
 | 202 | 327 | J-Rizzle |
-| 203 | 324 | TinyLegoRose |
-| 204 | 324 | jim |
+| 203 | 324 | jim |
+| 204 | 324 | TinyLegoRose |
 | 205 | 321 | Meagan Nicole |
 | 206 | 320 | Lauren Scott |
 | 207 | 318 | Chris Hartig |

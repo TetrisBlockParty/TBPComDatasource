@@ -273,8 +273,8 @@
 | 265 | 1076 | Alezandra Smith |
 | 266 | 1073 | Jodi Blake |
 | 267 | 1071 | Kim Dean |
-| 268 | 1069 | Carl Bradshaw |
-| 269 | 1069 | Offonar Facey |
+| 268 | 1069 | Offonar Facey |
+| 269 | 1069 | Carl Bradshaw |
 | 270 | 1064 | BK Queen |
 | 271 | 1063 | Caitlin Schmid |
 | 272 | 1058 | Rickey Johnson |
@@ -305,8 +305,8 @@
 | 297 | 996 | Ashie Ann |
 | 298 | 987 | Osun Anuket Esu |
 | 299 | 984 | Crystal Hoffman |
-| 300 | 979 | Melissa Penelope Ann Dodge |
-| 301 | 979 | Hillary Crawford |
+| 300 | 979 | Hillary Crawford |
+| 301 | 979 | Melissa Penelope Ann Dodge |
 | 302 | 978 | April Dawn Gussler |
 | 303 | 976 | Sam Joe |
 | 304 | 976 | Della Hole |
@@ -347,8 +347,8 @@
 | 339 | 903 | Giggy Blocker |
 | 340 | 903 | Eric Castaneda |
 | 341 | 901 | Kevin Sees |
-| 342 | 899 | Patrick Bartlett |
-| 343 | 899 | Chevy |
+| 342 | 899 | Chevy |
+| 343 | 899 | Patrick Bartlett |
 | 344 | 898 | Jamie Otero |
 | 345 | 895 | Donna Colby |
 | 346 | 894 | Adira Brown |
@@ -439,8 +439,8 @@
 | 431 | 751 | Caitlyn Blackwell |
 | 432 | 750 | Draizen Montrell Thomas |
 | 433 | 748 | Spunkysmom |
-| 434 | 748 | Brenda Utphall |
-| 435 | 748 | Ann Matzkanin |
+| 434 | 748 | Ann Matzkanin |
+| 435 | 748 | Brenda Utphall |
 | 436 | 746 | Leslie Ann Carter |
 | 437 | 742 | tejas25 |
 | 438 | 741 | Jánine Riggs |
@@ -456,8 +456,8 @@
 | 448 | 728 | Dylan Thomason |
 | 449 | 728 | Tom Riefer |
 | 450 | 726 | Crystal Greene |
-| 451 | 725 | Jennie Lee Huntley |
-| 452 | 725 | Ashle Scranton |
+| 451 | 725 | Ashle Scranton |
+| 452 | 725 | Jennie Lee Huntley |
 | 453 | 725 | Karen Snyder Schrage |
 | 454 | 725 | Vonceial Boone |
 | 455 | 724 | Melissa Holsinger |
@@ -567,8 +567,8 @@
 | 559 | 612 | Slinky Racker |
 | 560 | 610 | Michael Buckner |
 | 561 | 609 | Cecilia A Jenkins |
-| 562 | 609 | Autumn Schaeffer |
-| 563 | 609 | Smashanator |
+| 562 | 609 | Smashanator |
+| 563 | 609 | Autumn Schaeffer |
 | 564 | 607 | James Smith |
 | 565 | 606 | Lea Stewart |
 | 566 | 605 | Jermaine Harris |
