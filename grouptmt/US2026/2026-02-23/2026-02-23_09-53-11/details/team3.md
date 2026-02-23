@@ -121,8 +121,8 @@
 | 113 | 839 | Angeline Joseph |
 | 114 | 830 | Stephanie Allmon |
 | 115 | 826 | Shane Wilson Jr. |
-| 116 | 816 | Jesse Olive |
-| 117 | 816 | Brenda Lee Vander Molen |
+| 116 | 816 | Brenda Lee Vander Molen |
+| 117 | 816 | Jesse Olive |
 | 118 | 802 | Bobbi Moore |
 | 119 | 800 | Lauren Girouard |
 | 120 | 799 | Dolores Falco |
@@ -164,8 +164,8 @@
 | 156 | 646 | Bea Miles |
 | 157 | 634 | Amber Hughes |
 | 158 | 630 | yoyo |
-| 159 | 621 | Sashay Tapae Simpson |
-| 160 | 621 | Cherry Parker |
+| 159 | 621 | Cherry Parker |
+| 160 | 621 | Sashay Tapae Simpson |
 | 161 | 616 | Kammy Hill |
 | 162 | 611 | Rochelle Hazelett |
 | 163 | 607 | Grego Daniel |
@@ -186,8 +186,8 @@
 | 178 | 572 | CeceGeGe |
 | 179 | 568 | Rachael McClain Owens |
 | 180 | 566 | LaTanya GeminiondaRise Johnson |
-| 181 | 564 | Christine Trester |
-| 182 | 564 | Poppy Splitter |
+| 181 | 564 | Poppy Splitter |
+| 182 | 564 | Christine Trester |
 | 183 | 563 | Jim Mathews |
 | 184 | 562 | Dave Herzog |
 | 185 | 559 | Patti Skiles |
@@ -202,8 +202,8 @@
 | 194 | 528 | Silly Twist |
 | 195 | 525 | Stephanie Blkpep Davidson |
 | 196 | 524 | Bmo |
-| 197 | 519 | rnr junky |
-| 198 | 519 | Terry Jo Jones |
+| 197 | 519 | Terry Jo Jones |
+| 198 | 519 | rnr junky |
 | 199 | 515 | Cozy Snaplink |
 | 200 | 510 | Makelini Mausia |
 | 201 | 506 | Shannon Matthew Byers |
@@ -226,8 +226,8 @@
 | 218 | 470 | Trisha Balmer |
 | 219 | 467 | Sherry Ogden |
 | 220 | 465 | Annie Déè |
-| 221 | 464 | Shunta Jacobs |
-| 222 | 464 | Danielle Weikel |
+| 221 | 464 | Danielle Weikel |
+| 222 | 464 | Shunta Jacobs |
 | 223 | 461 | Tom Nault |
 | 224 | 458 | Danielle Rhoades |
 | 225 | 455 | Rebecca Funderburk Kirby |
@@ -299,8 +299,8 @@
 | 291 | 353 | Ashley Tookes |
 | 292 | 353 | Dee Franklin |
 | 293 | 352 | Christian Werndl |
-| 294 | 351 | Eon Harris |
-| 295 | 351 | Blocked |
+| 294 | 351 | Blocked |
+| 295 | 351 | Eon Harris |
 | 296 | 350 | LaShey Thompson |
 | 297 | 349 | Amanda J. Mcneil-Anderson |
 | 298 | 348 | Ashley Raines |
@@ -375,8 +375,8 @@
 | 367 | 280 | Aerian Preston |
 | 368 | 280 | ROODBOY |
 | 369 | 280 | Dirtgirl27 |
-| 370 | 279 | Tosha Griffey |
-| 371 | 279 | Naur |
+| 370 | 279 | Naur |
+| 371 | 279 | Tosha Griffey |
 | 372 | 278 | Rufus Lincoln |
 | 373 | 277 | France Vézina |
 | 374 | 277 | Krystal Gerstberger |

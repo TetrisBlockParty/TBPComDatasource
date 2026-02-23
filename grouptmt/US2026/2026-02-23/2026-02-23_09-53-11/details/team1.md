@@ -146,8 +146,8 @@
 | 138 | 423 | ALFD |
 | 139 | 417 | Phu ckalldems |
 | 140 | 411 | BadG52 |
-| 141 | 406 | Candy Jones |
-| 142 | 406 | Desiree Deschaine Havee |
+| 141 | 406 | Desiree Deschaine Havee |
+| 142 | 406 | Candy Jones |
 | 143 | 404 | Jessie Lynn |
 | 144 | 402 | Chris K |
 | 145 | 401 | Mike Ames |
@@ -365,13 +365,13 @@
 | 357 | 207 | Ric Hard Hernandez |
 | 358 | 207 | Katie Martin |
 | 359 | 205 | build master |
-| 360 | 205 | Elizabeth Kubli |
-| 361 | 205 | Agustin Duarte Orozco |
+| 360 | 205 | Agustin Duarte Orozco |
+| 361 | 205 | Elizabeth Kubli |
 | 362 | 204 | LD1 |
 | 363 | 204 | Cranky Pattern |
 | 364 | 203 | Rebekah LeiAnn Bonsell |
-| 365 | 202 | Amber Dee |
-| 366 | 202 | Andrew Backes |
+| 365 | 202 | Andrew Backes |
+| 366 | 202 | Amber Dee |
 | 367 | 202 | Krie |
 | 368 | 201 | Tedashi |
 | 369 | 201 | Colleen Wise |

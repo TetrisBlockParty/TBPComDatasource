@@ -71,8 +71,8 @@
 | 63 | 807 | Amelpss |
 | 64 | 788 | Julian Garcia |
 | 65 | 788 | Chilly Line |
-| 66 | 787 | Edward White |
-| 67 | 787 | loulou |
+| 66 | 787 | loulou |
+| 67 | 787 | Edward White |
 | 68 | 767 | Shannon Ferrari |
 | 69 | 766 | Robin Watters |
 | 70 | 765 | Denise Carlson |
@@ -228,8 +228,8 @@
 | 220 | 301 | Andria Lynn |
 | 221 | 300 | Dana Scott |
 | 222 | 295 | Keshia Lyons |
-| 223 | 294 | Porkobello |
-| 224 | 294 | Calvin Cannon |
+| 223 | 294 | Calvin Cannon |
+| 224 | 294 | Porkobello |
 | 225 | 292 | Epic Curvetile |
 | 226 | 291 | Nikki Rae Gordon |
 | 227 | 290 | Plucky Patternblock |
@@ -283,8 +283,8 @@
 | 275 | 253 | Autum Leigh |
 | 276 | 251 | Carol Ricks Raymond |
 | 277 | 249 | Ak Jones |
-| 278 | 248 | Angelito |
-| 279 | 248 | Chirpy Basepiece |
+| 278 | 248 | Chirpy Basepiece |
+| 279 | 248 | Angelito |
 | 280 | 248 | Jose Dejesus |
 | 281 | 245 | 23 |
 | 282 | 244 | Elizabeth Tinoco |
@@ -435,9 +435,9 @@
 | 427 | 169 | Dante Korleon |
 | 428 | 169 | Duck |
 | 429 | 169 | Jessica Atkinson |
-| 430 | 167 | Tipsy Cascader |
-| 431 | 167 | Tyler Bechtel |
-| 432 | 167 | Carla Harris |
+| 430 | 167 | Carla Harris |
+| 431 | 167 | Tipsy Cascader |
+| 432 | 167 | Tyler Bechtel |
 | 433 | 167 | Snippy Clearer |
 | 434 | 166 | Gracie Ann Taylor |
 | 435 | 166 | Gdiguy |
@@ -696,9 +696,9 @@
 | 688 | 102 | Candice Carasiti |
 | 689 | 102 | Dapper Caster |
 | 690 | 102 | Blaze Butler |
-| 691 | 101 | RIFATSIKDER |
-| 692 | 101 | Jacob Campbell |
-| 693 | 101 | RIFATSIKDER |
+| 691 | 101 | Saulc1991 |
+| 692 | 101 | RIFATSIKDER |
+| 693 | 101 | Jacob Campbell |
 | 694 | 101 | Kris Johnson |
 | 695 | 100 | Joyce Fees |
 | 696 | 100 | Hediyuda |
@@ -713,8 +713,8 @@
 | 705 | 99 | Kenna Gunderland |
 | 706 | 99 | Megan Boyce |
 | 707 | 98 | Diamond Johnson |
-| 708 | 98 | Manuel Groleau |
-| 709 | 98 | Bad company |
+| 708 | 98 | Bad company |
+| 709 | 98 | Manuel Groleau |
 | 710 | 98 | Jessi Cinotto |
 | 711 | 98 | Maurice Daniels |
 | 712 | 97 | Shanon James |
