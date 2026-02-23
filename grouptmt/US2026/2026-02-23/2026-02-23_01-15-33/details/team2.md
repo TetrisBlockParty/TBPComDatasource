@@ -363,8 +363,8 @@
 | 355 | 769 | Melissa Cole |
 | 356 | 768 | Joshua Self |
 | 357 | 768 | Arkei Luster |
-| 358 | 767 | Fancy Twister |
-| 359 | 767 | Ashley Lopez |
+| 358 | 767 | Ashley Lopez |
+| 359 | 767 | Fancy Twister |
 | 360 | 765 | Kathryn Townsley |
 | 361 | 763 | Dreamy Blast |
 | 362 | 763 | Johnny Yeates |
@@ -377,8 +377,8 @@
 | 369 | 758 | Stephanie Neuburger |
 | 370 | 758 | Quirky Twistline |
 | 371 | 751 | Loony Snapper |
-| 372 | 748 | Stephanie Lumanlan |
-| 373 | 748 | Brenda Utphall |
+| 372 | 748 | Brenda Utphall |
+| 373 | 748 | Stephanie Lumanlan |
 | 374 | 747 | Kiely Tomaskovich |
 | 375 | 746 | Leslie Ann Carter |
 | 376 | 746 | Jerilyn Andrina |

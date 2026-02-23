@@ -160,8 +160,8 @@
 | 152 | 374 | Guy Incognito |
 | 153 | 370 | Oscar Alberto Perez |
 | 154 | 369 | Livvy |
-| 155 | 368 | Brandon Crabbs |
-| 156 | 368 | Silly Zonebuilder |
+| 155 | 368 | Silly Zonebuilder |
+| 156 | 368 | Brandon Crabbs |
 | 157 | 365 | Leslie Nicole |
 | 158 | 361 | Danielle Kollias |
 | 159 | 358 | ThaEviLJeNiuZ |
@@ -273,8 +273,8 @@
 | 265 | 219 | Malakai Darien Fox |
 | 266 | 219 | John Brunetti |
 | 267 | 218 | Chance Strickland |
-| 268 | 216 | Keith Kelley |
-| 269 | 216 | ZeeZee |
+| 268 | 216 | ZeeZee |
+| 269 | 216 | Keith Kelley |
 | 270 | 215 | Ziggy |
 | 271 | 214 | Chantilly Laace |
 | 272 | 214 | Shane Vick |

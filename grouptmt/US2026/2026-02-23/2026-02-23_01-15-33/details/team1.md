@@ -140,8 +140,8 @@
 | 132 | 386 | David Miller |
 | 133 | 386 | Ty Brown |
 | 134 | 383 | pjbeta |
-| 135 | 379 | Austin James |
-| 136 | 379 | Kimmie Kimms |
+| 135 | 379 | Kimmie Kimms |
+| 136 | 379 | Austin James |
 | 137 | 376 | Brian Richardsson |
 | 138 | 371 | Jason Savage |
 | 139 | 368 | Death |
@@ -151,8 +151,8 @@
 | 143 | 364 | Monica Donato |
 | 144 | 361 | Amanda Johnson Huffman |
 | 145 | 361 | Tanya Carpenter-Reynolds |
-| 146 | 360 | phrmblk24 |
-| 147 | 360 | Wisa |
+| 146 | 360 | Wisa |
+| 147 | 360 | phrmblk24 |
 | 148 | 359 | Chirpy Smasher |
 | 149 | 353 | Josh Riemer |
 | 150 | 351 | Basment Living |
@@ -170,8 +170,8 @@
 | 162 | 333 | GATOR |
 | 163 | 332 | Lehrin Maria |
 | 164 | 325 | Dizzy Party |
-| 165 | 324 | Ananda Mendez |
-| 166 | 324 | Rat666 |
+| 165 | 324 | Rat666 |
+| 166 | 324 | Ananda Mendez |
 | 167 | 320 | Madison Wicks |
 | 168 | 318 | Jessica Sheehan |
 | 169 | 318 | Virginia Gray Floyd |

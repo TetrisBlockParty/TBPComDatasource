@@ -82,8 +82,8 @@
 | 74 | 945 | Christian A. Pollard |
 | 75 | 945 | Shonna Roberts |
 | 76 | 938 | Mandy Smith Oldham |
-| 77 | 926 | Judi Dobson |
-| 78 | 926 | Angela M. Fletcher |
+| 77 | 926 | Angela M. Fletcher |
+| 78 | 926 | Judi Dobson |
 | 79 | 923 | Christine Filson |
 | 80 | 910 | Jay Horn |
 | 81 | 907 | Michelle Becker |
@@ -132,8 +132,8 @@
 | 124 | 696 | Christine Niles |
 | 125 | 693 | Hasty Cascadefit |
 | 126 | 683 | Samantha Greco |
-| 127 | 674 | Leah Barnett |
-| 128 | 674 | Patty Allen |
+| 127 | 674 | Patty Allen |
+| 128 | 674 | Leah Barnett |
 | 129 | 668 | Betty Ivy |
 | 130 | 650 | Jd Morris |
 | 131 | 649 | Shavette |
@@ -155,12 +155,12 @@
 | 147 | 579 | Tasha Gillespie |
 | 148 | 579 | Annie Marie |
 | 149 | 574 | Morgan Martinez |
-| 150 | 572 | Domo Washington |
-| 151 | 572 | CeceGeGe |
+| 150 | 572 | CeceGeGe |
+| 151 | 572 | Domo Washington |
 | 152 | 571 | Nicole Myers |
 | 153 | 568 | Rachael McClain Owens |
-| 154 | 562 | Louise Stacy Sisson |
-| 155 | 562 | Dave Herzog |
+| 154 | 562 | Dave Herzog |
+| 155 | 562 | Louise Stacy Sisson |
 | 156 | 553 | LaTanya GeminiondaRise Johnson |
 | 157 | 549 | Peppy Shifter |
 | 158 | 546 | Cynthia Castros-Hampton |
@@ -238,8 +238,8 @@
 | 230 | 375 | Duane Bright |
 | 231 | 375 | Kristal C Lee |
 | 232 | 373 | Rebecca Funderburk Kirby |
-| 233 | 372 | Sarah Moyer |
-| 234 | 372 | Rich LeBlanc |
+| 233 | 372 | Rich LeBlanc |
+| 234 | 372 | Sarah Moyer |
 | 235 | 370 | RickyG |
 | 236 | 369 | Keis |
 | 237 | 368 | Stephanie Woods |
@@ -673,8 +673,8 @@
 | 665 | 139 | Cesar Mendez |
 | 666 | 139 | Jack Bo |
 | 667 | 139 | Dapper Chiseler |
-| 668 | 138 | Skippy |
-| 669 | 138 | Cathy Leger |
+| 668 | 138 | Cathy Leger |
+| 669 | 138 | Skippy |
 | 670 | 138 | Chenoa Urban Sophicated Redy |
 | 671 | 137 | Patty White |
 | 672 | 137 | Giggly Brickroll |
