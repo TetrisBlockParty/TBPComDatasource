@@ -242,8 +242,8 @@
 | 234 | 244 | Melissa Lemmon |
 | 235 | 242 | ParisandCory Champagne |
 | 236 | 241 | Tyler Hertzog |
-| 237 | 240 | DaRascal |
-| 238 | 240 | Daring Fitclear |
+| 237 | 240 | Daring Fitclear |
+| 238 | 240 | DaRascal |
 | 239 | 239 | Lacy Wolfe |
 | 240 | 238 | Tiffany Smith |
 | 241 | 238 | Sarah Somers Gray |
@@ -297,9 +297,9 @@
 | 289 | 207 | Andrew Boone |
 | 290 | 207 | Alenoush Karimian |
 | 291 | 206 | Angela Spann |
-| 292 | 205 | Agustin Duarte Orozco |
-| 293 | 205 | Jennifer Olewnik Soborowski |
-| 294 | 205 | Tyler L Hunt |
+| 292 | 205 | Tyler L Hunt |
+| 293 | 205 | Agustin Duarte Orozco |
+| 294 | 205 | Jennifer Olewnik Soborowski |
 | 295 | 204 | Chris Sigurdson |
 | 296 | 203 | Layzietyme |
 | 297 | 202 | Amanda Holibaugh |
@@ -590,7 +590,7 @@
 | 582 | 104 | Phredda Compton |
 | 583 | 104 | Jamie Farrar |
 | 584 | 103 | Adriansoky |
-| 585 | 102 | Kanesha Jackson |
+| 585 | 102 | osodabear |
 | 586 | 102 | Twisty Wobbler |
 | 587 | 102 | Kanesha Jackson |
 | 588 | 101 | Lindsay Glover |

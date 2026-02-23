@@ -130,8 +130,8 @@
 | 122 | 1677 | ShinyRose |
 | 123 | 1652 | Kristopher Miller |
 | 124 | 1644 | Luna |
-| 125 | 1639 | Jessie McDougald |
-| 126 | 1639 | Karen Martini-Stapleton |
+| 125 | 1639 | Karen Martini-Stapleton |
+| 126 | 1639 | Jessie McDougald |
 | 127 | 1632 | Qiana Sanders |
 | 128 | 1631 | Speedy Spinblock |
 | 129 | 1623 | Mr. Street Stack |
@@ -223,8 +223,8 @@
 | 215 | 1127 | Catina Hutchison |
 | 216 | 1126 | Dolores Russworn |
 | 217 | 1121 | Tommy Tha Boss Gunz |
-| 218 | 1117 | Ricardo Burton |
-| 219 | 1117 | Sarah Freitas |
+| 218 | 1117 | Sarah Freitas |
+| 219 | 1117 | Ricardo Burton |
 | 220 | 1114 | Kevin Walp |
 | 221 | 1105 | Nerdy Clearfit |
 | 222 | 1103 | William Meussner |

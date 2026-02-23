@@ -17,9 +17,9 @@
 | 9 | 2165 | Alicia Bass |
 | 10 | 1982 | Anthony Magaraci |
 | 11 | 1775 | Ash |
-| 12 | 1738 | Elizabeth Sallas |
-| 13 | 1706 | Ayanna Soto |
-| 14 | 1689 | Michelle Pearman |
+| 12 | 1739 | Michelle Pearman |
+| 13 | 1738 | Elizabeth Sallas |
+| 14 | 1706 | Ayanna Soto |
 | 15 | 1636 | Cassie Michaux |
 | 16 | 1536 | Roger Coulter |
 | 17 | 1512 | Breannah Grafe |
@@ -77,8 +77,8 @@
 | 69 | 736 | Goatimus Lombardi |
 | 70 | 734 | Carolyn Wallace |
 | 71 | 728 | Julian Garcia |
-| 72 | 704 | Crystal Carroll |
-| 73 | 704 | D3TROITB0RN74 |
+| 72 | 704 | D3TROITB0RN74 |
+| 73 | 704 | Crystal Carroll |
 | 74 | 677 | TheNeesh50 |
 | 75 | 673 | Jacqueline Helm |
 | 76 | 671 | Kimyatta Cavin |
@@ -98,8 +98,8 @@
 | 90 | 594 | Jamie Mann-Deichmann |
 | 91 | 591 | Amelpss |
 | 92 | 568 | Chris Baggett |
-| 93 | 561 | Amy Suckarieh |
-| 94 | 561 | Zippy Gridlock |
+| 93 | 561 | Zippy Gridlock |
+| 94 | 561 | Amy Suckarieh |
 | 95 | 561 | H.R. Block |
 | 96 | 557 | Carmethia Clemons Haslerig |
 | 97 | 541 | Alyssa Papen |
@@ -267,8 +267,8 @@
 | 259 | 221 | PurpleMoonMa |
 | 260 | 221 | Rheanda Weaskus |
 | 261 | 220 | TinyLegoRose |
-| 262 | 219 | John Brunetti |
-| 263 | 219 | Malakai Darien Fox |
+| 262 | 219 | Malakai Darien Fox |
+| 263 | 219 | John Brunetti |
 | 264 | 218 | Chance Strickland |
 | 265 | 216 | Keith Kelley |
 | 266 | 216 | ZeeZee |

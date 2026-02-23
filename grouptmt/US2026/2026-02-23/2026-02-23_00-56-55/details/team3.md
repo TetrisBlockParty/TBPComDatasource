@@ -131,8 +131,8 @@
 | 123 | 696 | Christine Niles |
 | 124 | 693 | Hasty Cascadefit |
 | 125 | 683 | Samantha Greco |
-| 126 | 674 | Patty Allen |
-| 127 | 674 | Leah Barnett |
+| 126 | 674 | Leah Barnett |
+| 127 | 674 | Patty Allen |
 | 128 | 668 | Betty Ivy |
 | 129 | 657 | Denise Nardoni |
 | 130 | 650 | Jd Morris |
@@ -230,8 +230,8 @@
 | 222 | 383 | Nicole Flippo |
 | 223 | 383 | Darlene McMillan |
 | 224 | 383 | Heather Green |
-| 225 | 382 | Scott Carleton |
-| 226 | 382 | Giddy Twistbuilder |
+| 225 | 382 | Giddy Twistbuilder |
+| 226 | 382 | Scott Carleton |
 | 227 | 380 | Rebecca Bailey |
 | 228 | 378 | Chris Bell |
 | 229 | 376 | Connie Mohler-Fair |
@@ -460,8 +460,8 @@
 | 452 | 200 | Christina Marie Swisher |
 | 453 | 199 | Dakota Graham |
 | 454 | 199 | Katheline Lazo Luizaga |
-| 455 | 198 | Linda Draper |
-| 456 | 198 | Zac Hudak |
+| 455 | 198 | Zac Hudak |
+| 456 | 198 | Linda Draper |
 | 457 | 198 | joz |
 | 458 | 197 | Rainbow77375 |
 | 459 | 197 | Nichol Graham |
