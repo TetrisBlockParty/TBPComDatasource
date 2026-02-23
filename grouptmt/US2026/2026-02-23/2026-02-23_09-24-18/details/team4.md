@@ -67,16 +67,16 @@
 | 59 | 845 | LisaJo Picken Buchanan |
 | 60 | 834 | quicksand420 |
 | 61 | 811 | Ashley Ingram |
-| 62 | 807 | Rachel Anne |
-| 63 | 807 | Amelpss |
+| 62 | 807 | Amelpss |
+| 63 | 807 | Rachel Anne |
 | 64 | 788 | Chilly Line |
 | 65 | 788 | Julian Garcia |
-| 66 | 787 | Edward White |
-| 67 | 787 | loulou |
+| 66 | 787 | loulou |
+| 67 | 787 | Edward White |
 | 68 | 767 | Shannon Ferrari |
 | 69 | 766 | Robin Watters |
-| 70 | 765 | Robin Getchel |
-| 71 | 765 | Denise Carlson |
+| 70 | 765 | Denise Carlson |
+| 71 | 765 | Robin Getchel |
 | 72 | 752 | Shane Kalamata Platoon |
 | 73 | 749 | Dustee Craddock-Harrison |
 | 74 | 747 | TheNeesh50 |
@@ -1043,8 +1043,8 @@
 | 1035 | 58 | Gio Santiago |
 | 1036 | 58 | Joe Beardslee |
 | 1037 | 58 | heatheryblue |
-| 1038 | 57 | Milly Johnson |
-| 1039 | 57 | Miguel Rodriguez |
+| 1038 | 57 | Miguel Rodriguez |
+| 1039 | 57 | Milly Johnson |
 | 1040 | 57 | Clever Tilefall |
 | 1041 | 57 | Patrick Cookson |
 | 1042 | 57 | Shelly Matthews |
