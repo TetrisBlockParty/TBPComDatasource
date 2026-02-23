@@ -267,8 +267,8 @@
 | 259 | 451 | Micayah Stevens |
 | 260 | 449 | Mcathen |
 | 261 | 448 | Scott Carleton |
-| 262 | 443 | Fancy Curver |
-| 263 | 443 | Stefanie LaPointe |
+| 262 | 443 | Stefanie LaPointe |
+| 263 | 443 | Fancy Curver |
 | 264 | 443 | Randy Clevenger |
 | 265 | 442 | Marquita Sheard |
 | 266 | 437 | Loopy Clusterer |

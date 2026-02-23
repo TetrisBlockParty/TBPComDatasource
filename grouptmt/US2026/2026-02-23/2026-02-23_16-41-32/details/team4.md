@@ -202,8 +202,8 @@
 | 194 | 398 | Tyler Terrific |
 | 195 | 393 | Carlton Unfiltered |
 | 196 | 391 | Ramel Rhodes |
-| 197 | 389 | Joseph Guthrie |
-| 198 | 389 | Cool Towerbuilder |
+| 197 | 389 | Cool Towerbuilder |
+| 198 | 389 | Joseph Guthrie |
 | 199 | 385 | 030Synner |
 | 200 | 383 | Chris Bernstein |
 | 201 | 380 | Rio Rocha |

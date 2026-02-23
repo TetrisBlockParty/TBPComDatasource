@@ -86,8 +86,8 @@
 | 78 | 750 | Cartier |
 | 79 | 742 | Susanna Guerry |
 | 80 | 740 | Lori Sanders- Davis |
-| 81 | 713 | Robert Benito |
-| 82 | 713 | Snappy Swiper |
+| 81 | 713 | Snappy Swiper |
+| 82 | 713 | Robert Benito |
 | 83 | 710 | Jennifer ManWarren |
 | 84 | 706 | Plucky Fallzone |
 | 85 | 704 | Karin Gillen |
@@ -137,8 +137,8 @@
 | 129 | 491 | cc |
 | 130 | 489 | Deanna L Hermanson |
 | 131 | 488 | Hyper |
-| 132 | 487 | Damon J. Martin |
-| 133 | 487 | Kandae |
+| 132 | 487 | Kandae |
+| 133 | 487 | Damon J. Martin |
 | 134 | 483 | Trina Gee |
 | 135 | 477 | Dee Perry |
 | 136 | 477 | Tonya Beasley |
@@ -443,8 +443,8 @@
 | 435 | 203 | Amie Fields |
 | 436 | 202 | Krie |
 | 437 | 201 | Tedashi |
-| 438 | 200 | Jason Cox |
-| 439 | 200 | Alphonza Keyes Jr. |
+| 438 | 200 | Alphonza Keyes Jr. |
+| 439 | 200 | Jason Cox |
 | 440 | 199 | Tina Englert |
 | 441 | 198 | Larry Oaks |
 | 442 | 198 | Dizzy Riseclear |
@@ -455,8 +455,8 @@
 | 447 | 196 | Rachel Copas |
 | 448 | 196 | Anita Jack |
 | 449 | 196 | Steph |
-| 450 | 195 | Herm Junior |
-| 451 | 195 | Renata Mabie |
+| 450 | 195 | Renata Mabie |
+| 451 | 195 | Herm Junior |
 | 452 | 194 | Nicole Meredith Flynn |
 | 453 | 193 | Lachelle Dillon |
 | 454 | 192 | Ramona Shaver |
@@ -689,8 +689,8 @@
 | 681 | 125 | Phredda Compton |
 | 682 | 125 | Brynn Elizabeth |
 | 683 | 125 | Tiffany Daboss Seymour |
-| 684 | 125 | Phredda Compton |
-| 685 | 125 | Brynn Elizabeth |
+| 684 | 125 | Nicole Bryant |
+| 685 | 125 | MomOf2Angels |
 | 686 | 124 | Rivkah |
 | 687 | 124 | Brandi Egbert |
 | 688 | 123 | Jill King Oldham |
