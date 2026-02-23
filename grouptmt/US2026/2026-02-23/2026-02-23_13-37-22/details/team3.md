@@ -172,8 +172,8 @@
 | 164 | 630 | yoyo |
 | 165 | 629 | rnr junky |
 | 166 | 622 | Denita Mungro |
-| 167 | 621 | Sashay Tapae Simpson |
-| 168 | 621 | Cherry Parker |
+| 167 | 621 | Cherry Parker |
+| 168 | 621 | Sashay Tapae Simpson |
 | 169 | 616 | Kammy Hill |
 | 170 | 611 | Rochelle Hazelett |
 | 171 | 603 | Jone |
@@ -185,15 +185,15 @@
 | 177 | 591 | Michael Nowogorski |
 | 178 | 589 | Kaycee Kay |
 | 179 | 587 | Louise Stacy Sisson |
-| 180 | 585 | Domo Washington |
-| 181 | 585 | Happy Tetriblast |
+| 180 | 585 | Happy Tetriblast |
+| 181 | 585 | Domo Washington |
 | 182 | 583 | Tasha Gillespie |
 | 183 | 582 | Natasha Jones |
 | 184 | 574 | Morgan Martinez |
 | 185 | 568 | Rachael McClain Owens |
 | 186 | 566 | LaTanya GeminiondaRise Johnson |
-| 187 | 564 | Poppy Splitter |
-| 188 | 564 | Christine Trester |
+| 187 | 564 | Christine Trester |
+| 188 | 564 | Poppy Splitter |
 | 189 | 563 | Jim Mathews |
 | 190 | 562 | Dave Herzog |
 | 191 | 561 | Elissa S-k |

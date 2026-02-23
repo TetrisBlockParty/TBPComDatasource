@@ -154,8 +154,8 @@
 | 146 | 448 | Kristin Manee |
 | 147 | 442 | ThaEviLJeNiuZ |
 | 148 | 435 | Kristina Black |
-| 149 | 434 | Lindsey Gonzalez |
-| 150 | 434 | Mylo Lipscomb |
+| 149 | 434 | Mylo Lipscomb |
+| 150 | 434 | Lindsey Gonzalez |
 | 151 | 433 | Nick Gray |
 | 152 | 432 | Livvy |
 | 153 | 432 | Zippy Block |
@@ -173,8 +173,8 @@
 | 165 | 418 | Lush Linkfall |
 | 166 | 417 | Steph Marie |
 | 167 | 417 | Amanda Pauldo-Ivy |
-| 168 | 414 | Swanky Fitline |
-| 169 | 414 | Nope Young |
+| 168 | 414 | Nope Young |
+| 169 | 414 | Swanky Fitline |
 | 170 | 413 | Circuit8 |
 | 171 | 412 | Jessica Bohlken |
 | 172 | 407 | Berklie Apedaile |
@@ -235,10 +235,10 @@
 | 227 | 316 | Autumn Kumzi |
 | 228 | 314 | Lindsay Ball |
 | 229 | 313 | Milan Markeisha |
-| 230 | 312 | Dihcheese444 |
-| 231 | 312 | Casey Grabner |
-| 232 | 311 | Nikki Rae Gordon |
-| 233 | 311 | Mary Ann Pabukis |
+| 230 | 312 | Casey Grabner |
+| 231 | 312 | Dihcheese444 |
+| 232 | 311 | Mary Ann Pabukis |
+| 233 | 311 | Nikki Rae Gordon |
 | 234 | 310 | Stacey Stano |
 | 235 | 308 | Leah Kutz Zirbel |
 | 236 | 307 | Cheery Risebuilder |
@@ -293,8 +293,8 @@
 | 285 | 264 | ZeeZee |
 | 286 | 264 | Stella |
 | 287 | 263 | rebel4lyfe |
-| 288 | 262 | Selena Shaw |
-| 289 | 262 | Ruben Wheeler |
+| 288 | 262 | Ruben Wheeler |
+| 289 | 262 | Selena Shaw |
 | 290 | 262 | BigSammy420 |
 | 291 | 261 | Zethra Prenisha Rahming |
 | 292 | 260 | Carter Jones |
@@ -302,9 +302,9 @@
 | 294 | 259 | Allen Lloyd |
 | 295 | 259 | Montiette Mcglown |
 | 296 | 257 | PeaceOs |
-| 297 | 256 | Paige Kittles |
-| 298 | 256 | Jade Rian |
-| 299 | 256 | Brittany Marsh |
+| 297 | 256 | Brittany Marsh |
+| 298 | 256 | Paige Kittles |
+| 299 | 256 | Jade Rian |
 | 300 | 254 | Ari Droff |
 | 301 | 253 | Cool Buildout |
 | 302 | 253 | Autum Leigh |
