@@ -197,8 +197,8 @@
 | 189 | 507 | Jim Mathews |
 | 190 | 502 | Snappy Balancer |
 | 191 | 500 | Sherika C. McDaniels |
-| 192 | 496 | Loopy Fallmatch |
-| 193 | 496 | Makelini Mausia |
+| 192 | 496 | Makelini Mausia |
+| 193 | 496 | Loopy Fallmatch |
 | 194 | 494 | FuzzyNavel |
 | 195 | 489 | Poppy Splitter |
 | 196 | 489 | Terry Jo Jones |
@@ -254,8 +254,8 @@
 | 246 | 377 | Charles Perrone |
 | 247 | 374 | Rania Zaqout |
 | 248 | 373 | Chummy Caster |
-| 249 | 372 | Rich LeBlanc |
-| 250 | 372 | Sarah Moyer |
+| 249 | 372 | Sarah Moyer |
+| 250 | 372 | Rich LeBlanc |
 | 251 | 371 | Marquita Sheard |
 | 252 | 371 | block chick |
 | 253 | 369 | Keis |
@@ -273,8 +273,8 @@
 | 265 | 357 | Stephanie Burtin |
 | 266 | 354 | Kelly |
 | 267 | 353 | Dee Franklin |
-| 268 | 352 | Christian Werndl |
-| 269 | 352 | Samantha Lynn |
+| 268 | 352 | Samantha Lynn |
+| 269 | 352 | Christian Werndl |
 | 270 | 351 | Eon Harris |
 | 271 | 350 | LaShey Thompson |
 | 272 | 349 | Amanda J. Mcneil-Anderson |
@@ -284,8 +284,8 @@
 | 276 | 346 | Tamara Deherrera |
 | 277 | 345 | MsBee |
 | 278 | 344 | Roary Danner |
-| 279 | 343 | Ashley Rufus Bythcez |
-| 280 | 343 | Ashley Raines |
+| 279 | 343 | Ashley Raines |
+| 280 | 343 | Ashley Rufus Bythcez |
 | 281 | 341 | Ashley Tookes |
 | 282 | 340 | KayB |
 | 283 | 339 | Cynthia Herrmann Egland |
@@ -363,8 +363,8 @@
 | 355 | 276 | Ivan Del Toro |
 | 356 | 276 | Karent524 |
 | 357 | 275 | Cassandra Bryant |
-| 358 | 275 | Nikki Pags |
-| 359 | 275 | Michael Lucado |
+| 358 | 275 | Michael Lucado |
+| 359 | 275 | Nikki Pags |
 | 360 | 274 | Mary Giorgenti |
 | 361 | 273 | France Vézina |
 | 362 | 273 | Brenda Schmid Wood |
@@ -725,8 +725,8 @@
 | 717 | 145 | Quirky Snapfit |
 | 718 | 145 | Karen Picaboo |
 | 719 | 145 | Vikkye Vizaniaris |
-| 720 | 144 | Tiffany's TwinsRus Thrifty |
-| 721 | 144 | Janay Darkstallion Robinson |
+| 720 | 144 | Janay Darkstallion Robinson |
+| 721 | 144 | Tiffany's TwinsRus Thrifty |
 | 722 | 144 | Clever Edgepiece |
 | 723 | 143 | Russell Hankinson |
 | 724 | 143 | Lisa Lisa |

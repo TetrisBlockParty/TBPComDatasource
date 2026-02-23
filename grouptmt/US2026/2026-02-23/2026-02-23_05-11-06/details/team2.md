@@ -62,8 +62,8 @@
 | 54 | 3359 | jayjay |
 | 55 | 3321 | Kelly Crook |
 | 56 | 3289 | Jennifer Peachey |
-| 57 | 3288 | Maegan Beaule |
-| 58 | 3288 | YiFei |
+| 57 | 3288 | YiFei |
+| 58 | 3288 | Maegan Beaule |
 | 59 | 3265 | Melinda Brown |
 | 60 | 3241 | Dineisha Carpenter |
 | 61 | 3203 | Sam McKenzie |
@@ -295,8 +295,8 @@
 | 287 | 987 | Osun Anuket Esu |
 | 288 | 984 | Crystal Hoffman |
 | 289 | 981 | Ashlen Dorrell |
-| 290 | 979 | Hillary Crawford |
-| 291 | 979 | Melissa Penelope Ann Dodge |
+| 290 | 979 | Melissa Penelope Ann Dodge |
+| 291 | 979 | Hillary Crawford |
 | 292 | 978 | April Dawn Gussler |
 | 293 | 976 | Sam Joe |
 | 294 | 976 | Della Hole |
@@ -462,8 +462,8 @@
 | 454 | 699 | Dannette Goldberg-Richards |
 | 455 | 698 | Joce Lynn |
 | 456 | 697 | Ashle Scranton |
-| 457 | 695 | Lakeysha Dortch |
-| 458 | 695 | Irene Jones |
+| 457 | 695 | Irene Jones |
+| 458 | 695 | Lakeysha Dortch |
 | 459 | 693 | Ryan Stadel |
 | 460 | 692 | Shaun Church |
 | 461 | 691 | Poldo Ilano |
@@ -734,8 +734,8 @@
 | 726 | 468 | Brenda Annabel Smith |
 | 727 | 467 | ruth |
 | 728 | 466 | Ebony Deloach Bryant |
-| 729 | 464 | Lively Edgepiece |
-| 730 | 464 | Saucy Fitzone |
+| 729 | 464 | Saucy Fitzone |
+| 730 | 464 | Lively Edgepiece |
 | 731 | 463 | Jaye EL Hunter |
 | 732 | 462 | Darla Silva |
 | 733 | 462 | Kia Humphery |

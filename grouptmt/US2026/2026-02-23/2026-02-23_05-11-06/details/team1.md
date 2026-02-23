@@ -318,8 +318,8 @@
 | 310 | 215 | Christina Norman |
 | 311 | 215 | Alenoush Karimian |
 | 312 | 213 | Itspaigebro |
-| 313 | 213 | John Barron |
-| 314 | 213 | Poppy Riserpiece |
+| 313 | 213 | Poppy Riserpiece |
+| 314 | 213 | John Barron |
 | 315 | 212 | Michelle Beres |
 | 316 | 210 | Timothy Danaher |
 | 317 | 209 | Breanna Luna |

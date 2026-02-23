@@ -179,11 +179,11 @@
 | 171 | 356 | George Nutt |
 | 172 | 352 | Sue Joyce Staats |
 | 173 | 350 | TRCuse |
-| 174 | 349 | Twisty Cascadezone |
-| 175 | 349 | Rafael Valentin |
+| 174 | 349 | Rafael Valentin |
+| 175 | 349 | Twisty Cascadezone |
 | 176 | 348 | April Rondinone |
-| 177 | 347 | Crystal Nicolette Moore |
-| 178 | 347 | Daria Rycewicz |
+| 177 | 347 | Daria Rycewicz |
+| 178 | 347 | Crystal Nicolette Moore |
 | 179 | 339 | David Lay |
 | 180 | 334 | Kris Bartlett |
 | 181 | 333 | Andy Cabral |
@@ -192,18 +192,18 @@
 | 184 | 330 | Kathy Brookins |
 | 185 | 328 | scott |
 | 186 | 327 | J-Rizzle |
-| 187 | 324 | jim |
-| 188 | 324 | Antony Dwayne Beasley |
-| 189 | 321 | Bio Nelly |
-| 190 | 321 | Meagan Nicole |
+| 187 | 324 | Antony Dwayne Beasley |
+| 188 | 324 | jim |
+| 189 | 321 | Meagan Nicole |
+| 190 | 321 | Bio Nelly |
 | 191 | 320 | Lauren Scott |
 | 192 | 318 | Chris Hartig |
 | 193 | 316 | Cursed Hag |
 | 194 | 313 | Zippy Block |
 | 195 | 311 | Mary Ann Pabukis |
 | 196 | 310 | Holly Jolly |
-| 197 | 307 | Cheery Risebuilder |
-| 198 | 307 | Michele Plunkett |
+| 197 | 307 | Michele Plunkett |
+| 198 | 307 | Cheery Risebuilder |
 | 199 | 306 | blockstar |
 | 200 | 305 | Melvin Baird |
 | 201 | 304 | Lindsay Ball |
