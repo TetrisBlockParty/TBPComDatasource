@@ -232,8 +232,8 @@
 | 224 | 569 | Michael Johnson |
 | 225 | 568 | Rachael McClain Owens |
 | 226 | 566 | LaTanya GeminiondaRise Johnson |
-| 227 | 564 | Poppy Splitter |
-| 228 | 564 | Christine Trester |
+| 227 | 564 | Christine Trester |
+| 228 | 564 | Poppy Splitter |
 | 229 | 563 | Fallorina Susana |
 | 230 | 562 | Dave Herzog |
 | 231 | 561 | Silly Twist |
@@ -248,9 +248,9 @@
 | 240 | 541 | Gray Hicks |
 | 241 | 541 | Sherry Ogden |
 | 242 | 540 | Danielle Allison |
-| 243 | 539 | Aerian Preston |
-| 244 | 539 | Betty Bóò |
-| 245 | 539 | Micayah Stevens |
+| 243 | 539 | Micayah Stevens |
+| 244 | 539 | Aerian Preston |
+| 245 | 539 | Betty Bóò |
 | 246 | 537 | Tessina Dewey-Mancino |
 | 247 | 537 | Tamara Deherrera |
 | 248 | 536 | Shannon Matthew Byers |
@@ -264,8 +264,8 @@
 | 256 | 515 | Cozy Snaplink |
 | 257 | 514 | France Vézina |
 | 258 | 513 | Lizabeth Fox |
-| 259 | 513 | PrncssPJ |
-| 260 | 513 | Giggy Glidepiece |
+| 259 | 513 | Giggy Glidepiece |
+| 260 | 513 | PrncssPJ |
 | 261 | 508 | joz |
 | 262 | 507 | rosy |
 | 263 | 506 | Ammmmmmy |
@@ -285,8 +285,8 @@
 | 277 | 479 | Stephanie Bradley |
 | 278 | 477 | Hyper Matchzone |
 | 279 | 476 | Shunta Jacobs |
-| 280 | 475 | Rebecca Bailey |
-| 281 | 475 | Tasha Wesson-Torrence |
+| 280 | 475 | Tasha Wesson-Torrence |
+| 281 | 475 | Rebecca Bailey |
 | 282 | 474 | Tiffanie Alley |
 | 283 | 473 | Rebecca Funderburk Kirby |
 | 284 | 471 | Mendoza Lee Christy |

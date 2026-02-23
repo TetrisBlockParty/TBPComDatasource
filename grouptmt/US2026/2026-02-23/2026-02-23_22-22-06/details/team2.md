@@ -323,8 +323,8 @@
 | 315 | 1164 | Hillary Crawford |
 | 316 | 1163 | Erika Densmore |
 | 317 | 1158 | Brittany Clark |
-| 318 | 1156 | Alezandra Smith |
-| 319 | 1156 | Arkei Luster |
+| 318 | 1156 | Arkei Luster |
+| 319 | 1156 | Alezandra Smith |
 | 320 | 1155 | F-X |
 | 321 | 1145 | Deborah Miller |
 | 322 | 1142 | Sheniya Spurgeon |
@@ -443,8 +443,8 @@
 | 435 | 907 | Gene Mills |
 | 436 | 905 | Adam Simmons |
 | 437 | 903 | Ashle Scranton |
-| 438 | 903 | Sarah DeHart |
-| 439 | 903 | Eric Castaneda |
+| 438 | 903 | Eric Castaneda |
+| 439 | 903 | Sarah DeHart |
 | 440 | 902 | Brenda Utphall |
 | 441 | 899 | Patrick Bartlett |
 | 442 | 899 | Chevy |
@@ -581,8 +581,8 @@
 | 573 | 737 | Breezy Clusterer |
 | 574 | 736 | Ashley Munn |
 | 575 | 734 | Emily Lyric Converse |
-| 576 | 733 | Lylymom |
-| 577 | 733 | Joce Lynn |
+| 576 | 733 | Joce Lynn |
+| 577 | 733 | Lylymom |
 | 578 | 733 | Christine Bollig |
 | 579 | 731 | Melissa Holsinger |
 | 580 | 729 | goofinoff |
@@ -633,17 +633,17 @@
 | 625 | 679 | Kassandra Hunt |
 | 626 | 677 | Kayleigh Wisse |
 | 627 | 677 | Paul Combs |
-| 628 | 677 | LuckyChopstix |
-| 629 | 677 | Blacc Blac |
-| 630 | 676 | Melissa Kay Gibson |
-| 631 | 676 | Roseanna Peloso |
+| 628 | 677 | Blacc Blac |
+| 629 | 677 | LuckyChopstix |
+| 630 | 676 | Roseanna Peloso |
+| 631 | 676 | Melissa Kay Gibson |
 | 632 | 675 | Katelynn Hollen |
-| 633 | 674 | Johanna Massaro |
-| 634 | 674 | Iris Angelica Perez Cantos |
+| 633 | 674 | Iris Angelica Perez Cantos |
+| 634 | 674 | Johanna Massaro |
 | 635 | 673 | trabuco |
 | 636 | 672 | John Jubes |
-| 637 | 670 | Jennifer Monroe Kelly |
-| 638 | 670 | Jessica S Flecha |
+| 637 | 670 | Jessica S Flecha |
+| 638 | 670 | Jennifer Monroe Kelly |
 | 639 | 669 | Martina Gabrielle LaPolla |
 | 640 | 668 | Gloria Ininahazwe |
 | 641 | 668 | Jazzy Clusterline |
@@ -1267,10 +1267,10 @@
 | 1259 | 396 | Amy Humphreys |
 | 1260 | 396 | Cassie Newton |
 | 1261 | 395 | Daring Matchfit |
-| 1262 | 395 | Alphia Price |
-| 1263 | 395 | Ashley McCarthy-Arnone |
-| 1264 | 395 | Treshell Boyd |
-| 1265 | 395 | Edna Combs |
+| 1262 | 395 | Ashley McCarthy-Arnone |
+| 1263 | 395 | Alphia Price |
+| 1264 | 395 | Edna Combs |
+| 1265 | 395 | Treshell Boyd |
 | 1266 | 394 | Sar Mo |
 | 1267 | 394 | LML |
 | 1268 | 394 | Tanya Eubanks |
@@ -1324,8 +1324,8 @@
 | 1316 | 383 | Alyssia Tancredi |
 | 1317 | 383 | Dennis Bennett |
 | 1318 | 382 | Bigg Meezy |
-| 1319 | 382 | Andrew Nicholas Wall |
-| 1320 | 382 | mel |
+| 1319 | 382 | mel |
+| 1320 | 382 | Andrew Nicholas Wall |
 | 1321 | 382 | Bathymaas |
 | 1322 | 382 | Nikki Arlene |
 | 1323 | 382 | Umm E Rubab |

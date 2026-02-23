@@ -102,8 +102,8 @@
 | 94 | 766 | Robin Watters |
 | 95 | 764 | Valerie Roberts |
 | 96 | 763 | TheNeesh50 |
-| 97 | 760 | Keith Kelley |
-| 98 | 760 | Lori Walker |
+| 97 | 760 | Lori Walker |
+| 98 | 760 | Keith Kelley |
 | 99 | 735 | Nugget |
 | 100 | 735 | Yoset Mejia |
 | 101 | 733 | D3TROITB0RN74 |
@@ -178,8 +178,8 @@
 | 170 | 499 | Ernest Maxwell |
 | 171 | 497 | Brandon Crabbs |
 | 172 | 496 | Cindy Looper |
-| 173 | 491 | Jade Rian |
-| 174 | 491 | Carrie Brian |
+| 173 | 491 | Carrie Brian |
+| 174 | 491 | Jade Rian |
 | 175 | 489 | Swanky Fitline |
 | 176 | 487 | Sam Bishop |
 | 177 | 485 | Rico |
@@ -209,8 +209,8 @@
 | 201 | 440 | Mr. Party |
 | 202 | 438 | Melvin Baird |
 | 203 | 438 | Jen Mattei |
-| 204 | 434 | Ramel Rhodes |
-| 205 | 434 | 🥔🥔 Spudz |
+| 204 | 434 | 🥔🥔 Spudz |
+| 205 | 434 | Ramel Rhodes |
 | 206 | 433 | Circuit8 |
 | 207 | 431 | Courtney Cicoria |
 | 208 | 428 | Crystal Nicolette Moore |
@@ -222,8 +222,8 @@
 | 214 | 422 | Zakia Monae |
 | 215 | 421 | JIGsaw ~(•¿°)~ |
 | 216 | 419 | Chris Bernstein |
-| 217 | 418 | Lush Linkfall |
-| 218 | 418 | Marie-Pier Desjardins |
+| 217 | 418 | Marie-Pier Desjardins |
+| 218 | 418 | Lush Linkfall |
 | 219 | 413 | John Brunetti |
 | 220 | 411 | Autumn Kumzi |
 | 221 | 411 | Silly Zonebuilder |
@@ -243,8 +243,8 @@
 | 235 | 383 | blockstar |
 | 236 | 382 | Sue Joyce Staats |
 | 237 | 381 | Plucky Patternblock |
-| 238 | 380 | Rio Rocha |
-| 239 | 380 | Zesty Twistbuilder |
+| 238 | 380 | Zesty Twistbuilder |
+| 239 | 380 | Rio Rocha |
 | 240 | 379 | Backoff Recupe |
 | 241 | 378 | Lauren Scott |
 | 242 | 378 | Holly Jolly |
@@ -363,7 +363,7 @@
 | 355 | 268 | Shukee Lo |
 | 356 | 267 | Marcus TheeyoungWoe Gilmore |
 | 357 | 267 | Jarred Falls |
-| 358 | 267 | Marcus TheeyoungWoe Gilmore |
+| 358 | 267 | Metsfan |
 | 359 | 266 | Happy Combo |
 | 360 | 266 | Paige Kittles |
 | 361 | 265 | Degenerate |
@@ -519,8 +519,8 @@
 | 511 | 191 | Norman Klick |
 | 512 | 191 | Earnest Thompson |
 | 513 | 191 | Jobadia Steelerton |
-| 514 | 190 | wombat |
-| 515 | 190 | Robert Rangel |
+| 514 | 190 | Robert Rangel |
+| 515 | 190 | wombat |
 | 516 | 189 | Brandon Link |
 | 517 | 188 | Tanner Lund |
 | 518 | 188 | Daring Pivot |

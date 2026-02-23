@@ -316,10 +316,10 @@
 | 308 | 305 | Amh |
 | 309 | 305 | Chase Collinsworth |
 | 310 | 303 | DaRascal |
-| 311 | 302 | LaFontaine Leslie |
-| 312 | 302 | Bird Person |
-| 313 | 301 | Brave Wrecker |
-| 314 | 301 | Chad Atchley |
+| 311 | 302 | Bird Person |
+| 312 | 302 | LaFontaine Leslie |
+| 313 | 301 | Chad Atchley |
+| 314 | 301 | Brave Wrecker |
 | 315 | 300 | Giggly Builderline |
 | 316 | 299 | LD1 |
 | 317 | 298 | Sweetts |
