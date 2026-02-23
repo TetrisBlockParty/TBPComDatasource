@@ -608,8 +608,8 @@
 | 600 | 150 | Kujuanna Hammon |
 | 601 | 149 | Boldy Linkpiece |
 | 602 | 148 | Will Chamberlain |
-| 603 | 147 | Mike |
-| 604 | 147 | Hasty Fitzone |
+| 603 | 147 | Hasty Fitzone |
+| 604 | 147 | Mike |
 | 605 | 147 | Jay28 |
 | 606 | 146 | Oleg Zakharskiy |
 | 607 | 146 | Groovy Gridlock |

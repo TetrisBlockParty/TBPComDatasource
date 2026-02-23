@@ -407,8 +407,8 @@
 | 399 | 929 | Ellie Jonas |
 | 400 | 928 | Elizabeth Wilbanks |
 | 401 | 923 | blume |
-| 402 | 919 | John Bednarik |
-| 403 | 919 | Isaac Trappiel IV |
+| 402 | 919 | Isaac Trappiel IV |
+| 403 | 919 | John Bednarik |
 | 404 | 918 | William Hunt |
 | 405 | 917 | Bubbly Snapfit |
 | 406 | 916 | Butta |
@@ -421,12 +421,12 @@
 | 413 | 903 | Ashle Scranton |
 | 414 | 903 | Sarah DeHart |
 | 415 | 902 | Felicia Lynn |
-| 416 | 899 | Chevy |
-| 417 | 899 | Patrick Bartlett |
+| 416 | 899 | Patrick Bartlett |
+| 417 | 899 | Chevy |
 | 418 | 898 | Donna M Carter |
 | 419 | 897 | Jamie Schmitt |
-| 420 | 895 | Brenda Utphall |
-| 421 | 895 | Lisa Ongtowasruk |
+| 420 | 895 | Lisa Ongtowasruk |
+| 421 | 895 | Brenda Utphall |
 | 422 | 895 | Donna Colby |
 | 423 | 894 | Adira Brown |
 | 424 | 890 | Smashanator |
@@ -534,8 +534,8 @@
 | 526 | 755 | Taryece Gause |
 | 527 | 751 | Breezy Filler |
 | 528 | 751 | Briana Alexander |
-| 529 | 750 | Darla Silva |
-| 530 | 750 | Draizen Montrell Thomas |
+| 529 | 750 | Draizen Montrell Thomas |
+| 530 | 750 | Darla Silva |
 | 531 | 750 | Michael Buckner |
 | 532 | 749 | Trisha J Schmidt |
 | 533 | 748 | Melissa Schulz |

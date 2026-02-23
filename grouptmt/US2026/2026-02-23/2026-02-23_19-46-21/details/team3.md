@@ -235,8 +235,8 @@
 | 227 | 546 | Cynthia Castros-Hampton |
 | 228 | 541 | Fran Lin |
 | 229 | 539 | Betty Bóò |
-| 230 | 537 | Aerian Preston |
-| 231 | 537 | Tessina Dewey-Mancino |
+| 230 | 537 | Tessina Dewey-Mancino |
+| 231 | 537 | Aerian Preston |
 | 232 | 537 | Tamara Deherrera |
 | 233 | 533 | kacihall |
 | 234 | 531 | Chauntee Alfrey-Cardinale |
@@ -344,8 +344,8 @@
 | 336 | 374 | Dana Fox |
 | 337 | 372 | Rich LeBlanc |
 | 338 | 371 | block chick |
-| 339 | 370 | Roary Danner |
-| 340 | 370 | Tasha Wesson-Torrence |
+| 339 | 370 | Tasha Wesson-Torrence |
+| 340 | 370 | Roary Danner |
 | 341 | 370 | Kirhonda Autmon |
 | 342 | 369 | Amber Glover |
 | 343 | 368 | Sheila M Frazier |
