@@ -26,8 +26,8 @@
 | 18 | 1636 | Cassie Michaux |
 | 19 | 1565 | GreenJeepGirl |
 | 20 | 1558 | Leah Gorsuch |
-| 21 | 1536 | Misty Hollibaugh |
-| 22 | 1536 | Roger Coulter |
+| 21 | 1536 | Roger Coulter |
+| 22 | 1536 | Misty Hollibaugh |
 | 23 | 1485 | Juggalo |
 | 24 | 1390 | Sammy Noguera |
 | 25 | 1382 | Tammi Crnza |
@@ -229,8 +229,8 @@
 | 221 | 294 | Calvin Cannon |
 | 222 | 292 | Epic Curvetile |
 | 223 | 291 | Nikki Rae Gordon |
-| 224 | 290 | Rebecca Morris |
-| 225 | 290 | Plucky Patternblock |
+| 224 | 290 | Plucky Patternblock |
+| 225 | 290 | Rebecca Morris |
 | 226 | 290 | Jared Gutwein |
 | 227 | 289 | Juls |
 | 228 | 288 | Adam Stephanie Parker |
@@ -252,8 +252,8 @@
 | 244 | 275 | Kimberlee Jan Beckstead |
 | 245 | 273 | Cynthia Boudreau |
 | 246 | 273 | Cranky Rollpiece |
-| 247 | 272 | Alan George LaRage |
-| 248 | 272 | Dennis Bradley |
+| 247 | 272 | Dennis Bradley |
+| 248 | 272 | Alan George LaRage |
 | 249 | 271 | Holly |
 | 250 | 270 | Jen Caldwell |
 | 251 | 266 | Nubian1 |
@@ -603,9 +603,9 @@
 | 595 | 118 | Sassy Pattern |
 | 596 | 118 | Mackenzie Forrester |
 | 597 | 118 | Jonathan Mahfood |
-| 598 | 118 | Mackenzie Forrester |
-| 599 | 117 | David V. Bowers |
-| 600 | 117 | Kelly Duncan |
+| 598 | 118 | Lou Ie |
+| 599 | 117 | Kelly Duncan |
+| 600 | 117 | David V. Bowers |
 | 601 | 117 | Lane Wasson |
 | 602 | 116 | Tianna Frey |
 | 603 | 116 | Rebecca A Rit |

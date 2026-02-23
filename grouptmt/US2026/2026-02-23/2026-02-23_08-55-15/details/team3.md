@@ -121,8 +121,8 @@
 | 113 | 831 | Angeline Joseph |
 | 114 | 830 | Stephanie Allmon |
 | 115 | 826 | Shane Wilson Jr. |
-| 116 | 816 | Jesse Olive |
-| 117 | 816 | Brenda Lee Vander Molen |
+| 116 | 816 | Brenda Lee Vander Molen |
+| 117 | 816 | Jesse Olive |
 | 118 | 802 | Bobbi Moore |
 | 119 | 800 | Lauren Girouard |
 | 120 | 799 | Dolores Falco |
@@ -135,8 +135,8 @@
 | 127 | 752 | Logan Naccarato |
 | 128 | 748 | Adrian Marcel Pate |
 | 129 | 745 | JerseyJess |
-| 130 | 744 | Leah Barnett |
-| 131 | 744 | Fancy Cascader |
+| 130 | 744 | Fancy Cascader |
+| 131 | 744 | Leah Barnett |
 | 132 | 736 | mzcatzy |
 | 133 | 734 | Calista Jo Dickson |
 | 134 | 728 | Peppy Shifter |
@@ -162,8 +162,8 @@
 | 154 | 646 | Bea Miles |
 | 155 | 634 | Amber Hughes |
 | 156 | 630 | yoyo |
-| 157 | 621 | Sashay Tapae Simpson |
-| 158 | 621 | Cherry Parker |
+| 157 | 621 | Cherry Parker |
+| 158 | 621 | Sashay Tapae Simpson |
 | 159 | 616 | Kammy Hill |
 | 160 | 611 | Rochelle Hazelett |
 | 161 | 607 | Grego Daniel |
@@ -201,8 +201,8 @@
 | 193 | 528 | Silly Twist |
 | 194 | 525 | Stephanie Blkpep Davidson |
 | 195 | 524 | Bmo |
-| 196 | 519 | rnr junky |
-| 197 | 519 | Terry Jo Jones |
+| 196 | 519 | Terry Jo Jones |
+| 197 | 519 | rnr junky |
 | 198 | 515 | Cozy Snaplink |
 | 199 | 510 | Makelini Mausia |
 | 200 | 503 | Tye Stovall |
@@ -310,8 +310,8 @@
 | 302 | 336 | Foltz Lee Kelli |
 | 303 | 336 | Jojo M |
 | 304 | 335 | victory |
-| 305 | 332 | Brittany |
-| 306 | 332 | Velma Mull |
+| 305 | 332 | Velma Mull |
+| 306 | 332 | Brittany |
 | 307 | 331 | Gray Hicks |
 | 308 | 329 | Angela Scott |
 | 309 | 328 | Desiree Soto |
@@ -347,8 +347,8 @@
 | 339 | 299 | TotoCherue |
 | 340 | 299 | Angie Harper |
 | 341 | 299 | Hasty Gridpiece |
-| 342 | 298 | Grams |
-| 343 | 298 | Dannie Litchard |
+| 342 | 298 | Dannie Litchard |
+| 343 | 298 | Grams |
 | 344 | 297 | kacihall |
 | 345 | 296 | Donna |
 | 346 | 296 | Tracy Martin |
@@ -386,8 +386,8 @@
 | 378 | 273 | Brenda Schmid Wood |
 | 379 | 273 | Kevin Fountain |
 | 380 | 272 | Romeo |
-| 381 | 272 | Tay |
-| 382 | 272 | Todd Hall |
+| 381 | 272 | Todd Hall |
+| 382 | 272 | Tay |
 | 383 | 269 | Goofy Fall |
 | 384 | 269 | Samantha Worley |
 | 385 | 269 | Jess Bissett |
@@ -472,8 +472,8 @@
 | 464 | 230 | DanceLuvLaugh |
 | 465 | 229 | MizzMonick Smith |
 | 466 | 229 | Everret Maxine |
-| 467 | 228 | Tipsy Zonebuilder |
-| 468 | 228 | Dapper Liney |
+| 467 | 228 | Dapper Liney |
+| 468 | 228 | Tipsy Zonebuilder |
 | 469 | 227 | Meowsa |
 | 470 | 226 | Ryan Williams |
 | 471 | 226 | paranoid |
@@ -593,8 +593,8 @@
 | 585 | 185 | Ashley Kennedy |
 | 586 | 185 | Breezy Roll |
 | 587 | 184 | Shanon R Jackson |
-| 588 | 184 | Barb Wensink Johnson |
-| 589 | 184 | Christian Luna |
+| 588 | 184 | Christian Luna |
+| 589 | 184 | Barb Wensink Johnson |
 | 590 | 183 | AC Yeater |
 | 591 | 183 | Scott Doss |
 | 592 | 183 | Mel Murr |
