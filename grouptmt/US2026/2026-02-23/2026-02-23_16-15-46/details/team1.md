@@ -85,8 +85,8 @@
 | 77 | 750 | Cartier |
 | 78 | 742 | Susanna Guerry |
 | 79 | 740 | Lori Sanders- Davis |
-| 80 | 713 | Robert Benito |
-| 81 | 713 | Snappy Swiper |
+| 80 | 713 | Snappy Swiper |
+| 81 | 713 | Robert Benito |
 | 82 | 710 | Jennifer ManWarren |
 | 83 | 706 | Plucky Fallzone |
 | 84 | 704 | Karin Gillen |
@@ -97,8 +97,8 @@
 | 89 | 689 | Lexuriuos Lifestlye |
 | 90 | 683 | Nancy Green |
 | 91 | 679 | Hasbro Bros |
-| 92 | 657 | Tee Sheree |
-| 93 | 657 | Cynthia Bradley |
+| 92 | 657 | Cynthia Bradley |
+| 93 | 657 | Tee Sheree |
 | 94 | 655 | Brenda Stewart |
 | 95 | 654 | Ashley Elizabeth |
 | 96 | 650 | Kristi Johnson |
@@ -170,9 +170,9 @@
 | 162 | 417 | Jessie Lynn |
 | 163 | 417 | Phu ckalldems |
 | 164 | 416 | Jessica Sheehan |
-| 165 | 415 | Tanya Carpenter-Reynolds |
-| 166 | 415 | Jennifer Hardman |
-| 167 | 415 | Kimberly Garcia |
+| 165 | 415 | Kimberly Garcia |
+| 166 | 415 | Tanya Carpenter-Reynolds |
+| 167 | 415 | Jennifer Hardman |
 | 168 | 413 | Nicole Roseberry Weber |
 | 169 | 412 | Amanda Jarnagin |
 | 170 | 411 | Emily Adelaide Wheatley |
@@ -306,11 +306,11 @@
 | 298 | 274 | Eddie Dillon |
 | 299 | 274 | Allena Craft |
 | 300 | 273 | Test |
-| 301 | 272 | Michelle Beres |
-| 302 | 272 | Barrbaric |
+| 301 | 272 | Barrbaric |
+| 302 | 272 | Michelle Beres |
 | 303 | 271 | Robert |
-| 304 | 270 | Brenda Alexander |
-| 305 | 270 | Debbie Kane |
+| 304 | 270 | Debbie Kane |
+| 305 | 270 | Brenda Alexander |
 | 306 | 269 | LD1 |
 | 307 | 268 | Wayne Saunders |
 | 308 | 268 | Standia Civil |
@@ -416,10 +416,10 @@
 | 408 | 213 | Divaaa |
 | 409 | 213 | Chase Collinsworth |
 | 410 | 212 | Amber Dee |
-| 411 | 211 | Natasha Hollowell Causey |
+| 411 | 211 | Hasty Columnbuilder |
 | 412 | 211 | Lynn Adams |
 | 413 | 211 | Bucketsmasher |
-| 414 | 211 | Hasty Columnbuilder |
+| 414 | 211 | Natasha Hollowell Causey |
 | 415 | 210 | Brave Slice |
 | 416 | 209 | Breanna Luna |
 | 417 | 209 | Beau Galvan |
@@ -440,8 +440,8 @@
 | 432 | 201 | Tedashi |
 | 433 | 201 | Rico Rico |
 | 434 | 200 | Alphonza Keyes Jr. |
-| 435 | 199 | Tina Englert |
-| 436 | 199 | Nathan William |
+| 435 | 199 | Nathan William |
+| 436 | 199 | Tina Englert |
 | 437 | 198 | Marci Sanders |
 | 438 | 198 | Jason Cox |
 | 439 | 197 | Lindsay Glover |
@@ -500,7 +500,7 @@
 | 492 | 175 | Funky Piecebuilder |
 | 493 | 175 | Madbull |
 | 494 | 175 | Kellie Tunstall |
-| 495 | 175 | Funky Piecebuilder |
+| 495 | 175 | Rayline M Bradshaw |
 | 496 | 174 | Alex Gauthier |
 | 497 | 174 | Dawn Rannelli |
 | 498 | 173 | Mary Crisp |
@@ -560,8 +560,8 @@
 | 552 | 158 | Joyce Harrell-chavis |
 | 553 | 158 | Jordan Brooks |
 | 554 | 157 | Shiny Snapline |
-| 555 | 157 | davis13 |
-| 556 | 157 | Craig Mcgonigle |
+| 555 | 157 | Craig Mcgonigle |
+| 556 | 157 | davis13 |
 | 557 | 156 | Rachel Rogers |
 | 558 | 155 | poopypants |
 | 559 | 154 | Tazz |
@@ -583,8 +583,8 @@
 | 575 | 151 | Oliver Hollins |
 | 576 | 151 | Plucky Wrecker |
 | 577 | 150 | Steven Collins |
-| 578 | 149 | Dandy Towerbuilder |
-| 579 | 149 | Collette Frank |
+| 578 | 149 | Collette Frank |
+| 579 | 149 | Dandy Towerbuilder |
 | 580 | 148 | MamaB24 |
 | 581 | 147 | Javyjavz |
 | 582 | 147 | Jodee Woods |
@@ -854,7 +854,7 @@
 | 846 | 94 | Chilly Glidezone |
 | 847 | 94 | Heather Coleman |
 | 848 | 93 | Erik Hesner |
-| 849 | 93 | Thia Gibson |
+| 849 | 93 | Jean Graziano |
 | 850 | 93 | Jazzy Clicker |
 | 851 | 93 | Ty Meach |
 | 852 | 93 | Thia Gibson |

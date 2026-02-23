@@ -52,8 +52,8 @@
 | 44 | 1116 | Koshin Abdirahman |
 | 45 | 1093 | Ashley Ingram |
 | 46 | 1085 | Kimyatta Cavin |
-| 47 | 1082 | Dion Crommarty |
-| 48 | 1082 | Dawn Alexander |
+| 47 | 1082 | Dawn Alexander |
+| 48 | 1082 | Dion Crommarty |
 | 49 | 1071 | Cherrish Duren |
 | 50 | 1049 | Heather Tushner |
 | 51 | 1046 | Johnathan Martinez |
@@ -424,8 +424,8 @@
 | 416 | 204 | Russ Attitude |
 | 417 | 203 | Gilles Lanctot |
 | 418 | 203 | Courtney Halleck |
-| 419 | 203 | Katherine Crane |
-| 420 | 203 | Gilles Lanctot |
+| 419 | 203 | Kevin Bush |
+| 420 | 203 | Katherine Crane |
 | 421 | 202 | Lilya Troutman |
 | 422 | 201 | O block |
 | 423 | 201 | Manny1 |
@@ -1594,7 +1594,7 @@
 | 1586 | 19 | Bienlis Paulino |
 | 1587 | 19 | Saucy Snapper |
 | 1588 | 19 | Swift |
-| 1589 | 19 | Finn |
+| 1589 | 19 | Crafty Snapline |
 | 1590 | 19 | Justin Petty |
 | 1591 | 19 | Finn |
 | 1592 | 19 | Loony Rotater |
@@ -1838,7 +1838,7 @@
 | 1830 | 5 | Cannonfodda81 |
 | 1831 | 5 | Amanda Perez |
 | 1832 | 5 | Quirky Dash |
-| 1833 | 5 | Cannonfodda81 |
+| 1833 | 5 | Nolegs Tukikit |
 
 ---
 *Standings created by tournaments datasource generation tool*

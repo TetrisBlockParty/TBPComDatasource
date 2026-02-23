@@ -140,8 +140,8 @@
 | 132 | 774 | Keith J Oshman Jr. |
 | 133 | 773 | Daira Largen |
 | 134 | 770 | Daryn Elliott |
-| 135 | 764 | Hasty Cascadefit |
-| 136 | 764 | Groovy Catcher |
+| 135 | 764 | Groovy Catcher |
+| 136 | 764 | Hasty Cascadefit |
 | 137 | 762 | Speedy Bridger |
 | 138 | 759 | yoyo |
 | 139 | 757 | Fancy Cascader |
@@ -890,7 +890,7 @@
 | 882 | 152 | Kate Farok |
 | 883 | 152 | Louise Parker |
 | 884 | 151 | Marie Vanbrocklin |
-| 885 | 151 | Justplain Killacam Phillips |
+| 885 | 151 | Spicy Caster |
 | 886 | 151 | Happy Winder |
 | 887 | 151 | Justplain Killacam Phillips |
 | 888 | 151 | Brad Dimitroff |
