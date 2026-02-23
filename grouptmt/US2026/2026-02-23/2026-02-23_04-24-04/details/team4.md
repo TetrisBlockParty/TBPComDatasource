@@ -139,11 +139,11 @@
 | 131 | 435 | Leslie Thomas |
 | 132 | 431 | Courtney Cicoria |
 | 133 | 425 | Monica Daley |
-| 134 | 421 | Kesha Brady |
-| 135 | 421 | JIGsaw ~(•¿°)~ |
+| 134 | 421 | JIGsaw ~(•¿°)~ |
+| 135 | 421 | Kesha Brady |
 | 136 | 419 | Klo |
-| 137 | 418 | Marie-Pier Desjardins |
-| 138 | 418 | Lush Linkfall |
+| 137 | 418 | Lush Linkfall |
+| 138 | 418 | Marie-Pier Desjardins |
 | 139 | 416 | Chaz Duncan |
 | 140 | 414 | Nope Young |
 | 141 | 412 | Jessica Bohlken |
@@ -195,8 +195,8 @@
 | 187 | 321 | Meagan Nicole |
 | 188 | 321 | Bio Nelly |
 | 189 | 320 | Lauren Scott |
-| 190 | 318 | Chris Bernstein |
-| 191 | 318 | Chris Hartig |
+| 190 | 318 | Chris Hartig |
+| 191 | 318 | Chris Bernstein |
 | 192 | 314 | Andy Cabral |
 | 193 | 313 | Zippy Block |
 | 194 | 310 | Holly Jolly |
@@ -214,8 +214,8 @@
 | 206 | 294 | Calvin Cannon |
 | 207 | 294 | Porkobello |
 | 208 | 292 | Epic Curvetile |
-| 209 | 290 | Jared Gutwein |
-| 210 | 290 | Keshia Lyons |
+| 209 | 290 | Keshia Lyons |
+| 210 | 290 | Jared Gutwein |
 | 211 | 290 | Plucky Patternblock |
 | 212 | 288 | Zesty Twistbuilder |
 | 213 | 288 | Adam Stephanie Parker |
@@ -236,8 +236,8 @@
 | 228 | 272 | Carlos Ramirez |
 | 229 | 272 | Alan George LaRage |
 | 230 | 271 | Holly |
-| 231 | 270 | Jen Caldwell |
-| 232 | 270 | Juls |
+| 231 | 270 | Juls |
+| 232 | 270 | Jen Caldwell |
 | 233 | 266 | Mr. Party |
 | 234 | 265 | Sarah Neathery |
 | 235 | 265 | Silly SeaWeed |
@@ -259,10 +259,10 @@
 | 251 | 248 | Chirpy Basepiece |
 | 252 | 248 | Jose Dejesus |
 | 253 | 247 | Nick Gray |
-| 254 | 245 | 23 |
-| 255 | 245 | rebel4lyfe |
-| 256 | 244 | Elizabeth Tinoco |
-| 257 | 244 | Christina Black |
+| 254 | 245 | rebel4lyfe |
+| 255 | 245 | 23 |
+| 256 | 244 | Christina Black |
+| 257 | 244 | Elizabeth Tinoco |
 | 258 | 242 | Chaz |
 | 259 | 240 | Lori |
 | 260 | 240 | Kim Hunt |

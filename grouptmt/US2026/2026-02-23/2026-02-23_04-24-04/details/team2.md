@@ -104,8 +104,8 @@
 | 96 | 2170 | Steve Grotto |
 | 97 | 2165 | Tj Ball |
 | 98 | 2155 | Qiana Sanders |
-| 99 | 2148 | ShinyRose |
-| 100 | 2148 | Roger Grabbit |
+| 99 | 2148 | Roger Grabbit |
+| 100 | 2148 | ShinyRose |
 | 101 | 2146 | KellyDyan |
 | 102 | 2106 | Cool Rollpiece |
 | 103 | 2103 | Alisha Peoples |
@@ -204,16 +204,16 @@
 | 196 | 1300 | Tacara Cummings |
 | 197 | 1294 | Ashley House |
 | 198 | 1286 | Altamirano Michael |
-| 199 | 1282 | Ashley Rose Frederick |
-| 200 | 1282 | Tanya Parsons |
+| 199 | 1282 | Tanya Parsons |
+| 200 | 1282 | Ashley Rose Frederick |
 | 201 | 1277 | Michele Gabriel |
 | 202 | 1258 | Joyce Johnson Vaughn |
 | 203 | 1252 | Angel |
 | 204 | 1245 | Cody Nishimura |
 | 205 | 1243 | Anna Edwards |
 | 206 | 1237 | Megan Ferguson Leone |
-| 207 | 1232 | Ambyre Patterson |
-| 208 | 1232 | Groovy Puzzle |
+| 207 | 1232 | Groovy Puzzle |
+| 208 | 1232 | Ambyre Patterson |
 | 209 | 1230 | Megan Garrick |
 | 210 | 1217 | Lucky Ladybug |
 | 211 | 1217 | Brooks Brooks |
@@ -422,8 +422,8 @@
 | 414 | 741 | Jánine Riggs |
 | 415 | 740 | Jerry Tempelmeyer |
 | 416 | 737 | Ginger |
-| 417 | 737 | Jeremy Parodi |
-| 418 | 737 | Chelle |
+| 417 | 737 | Chelle |
+| 418 | 737 | Jeremy Parodi |
 | 419 | 734 | Allan Wayne Lamia |
 | 420 | 734 | Ashley Guernsey-Martin |
 | 421 | 732 | Victoria Moore-Smith |
@@ -536,8 +536,8 @@
 | 528 | 606 | Lea Stewart |
 | 529 | 603 | Casper The Chonk |
 | 530 | 602 | KhaosLord |
-| 531 | 601 | Moua Ying |
-| 532 | 601 | Daniel Amos |
+| 531 | 601 | Daniel Amos |
+| 532 | 601 | Moua Ying |
 | 533 | 598 | Victoria Regina Girolami |
 | 534 | 598 | Leah Keesling |
 | 535 | 597 | snkylnk |
@@ -805,8 +805,8 @@
 | 797 | 419 | Josh Dill |
 | 798 | 419 | Erin Reid |
 | 799 | 418 | Bold Brickster |
-| 800 | 417 | Tristan Szolek |
-| 801 | 417 | Rebecca Garland |
+| 800 | 417 | Rebecca Garland |
+| 801 | 417 | Tristan Szolek |
 | 802 | 417 | Janai Vrabel |
 | 803 | 417 | Mandy Kachenmeister |
 | 804 | 416 | Veronics |
@@ -814,8 +814,8 @@
 | 806 | 416 | Gina Caulder |
 | 807 | 415 | Noel Tarmy |
 | 808 | 414 | Cini |
-| 809 | 414 | Rose Fx |
-| 810 | 414 | Court |
+| 809 | 414 | Court |
+| 810 | 414 | Rose Fx |
 | 811 | 413 | Ashley Robbins |
 | 812 | 413 | Moist_B-hole |
 | 813 | 413 | Abby Klaski |
