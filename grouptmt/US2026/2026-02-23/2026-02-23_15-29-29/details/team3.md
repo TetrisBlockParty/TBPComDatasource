@@ -266,8 +266,8 @@
 | 258 | 431 | Ammmmmmy |
 | 259 | 430 | Jeni Dow |
 | 260 | 429 | Carrie Huskey |
-| 261 | 428 | Sleepy |
-| 262 | 428 | Randy Clevenger |
+| 261 | 428 | Randy Clevenger |
+| 262 | 428 | Sleepy |
 | 263 | 426 | Gumbo |
 | 264 | 425 | Nicole Flippo |
 | 265 | 424 | Cesar Barraza |
@@ -396,8 +396,8 @@
 | 388 | 301 | Betty Rosas |
 | 389 | 301 | Kaitie Oliver |
 | 390 | 301 | Michael Lucado |
-| 391 | 299 | Antonia Russell |
-| 392 | 299 | Hasty Gridpiece |
+| 391 | 299 | Hasty Gridpiece |
+| 392 | 299 | Antonia Russell |
 | 393 | 299 | TotoCherue |
 | 394 | 299 | Angie Harper |
 | 395 | 298 | Dannie Litchard |
