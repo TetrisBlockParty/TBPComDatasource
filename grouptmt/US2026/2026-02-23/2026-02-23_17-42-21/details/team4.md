@@ -113,8 +113,8 @@
 | 105 | 672 | Nugget |
 | 106 | 667 | Amy Suckarieh |
 | 107 | 659 | Jamie Gustafson |
-| 108 | 658 | Girl |
-| 109 | 658 | Zippy Gridlock |
+| 108 | 658 | Zippy Gridlock |
+| 109 | 658 | Girl |
 | 110 | 657 | Lori Walker |
 | 111 | 652 | Leslie Nicole |
 | 112 | 647 | KM8 |
@@ -271,8 +271,8 @@
 | 263 | 312 | Jen Caldwell |
 | 264 | 312 | Dihcheese444 |
 | 265 | 311 | Nikki Rae Gordon |
-| 266 | 311 | Jason Gibbs |
-| 267 | 311 | Stella |
+| 266 | 311 | Stella |
+| 267 | 311 | Jason Gibbs |
 | 268 | 310 | Stacey Stano |
 | 269 | 308 | Leah Kutz Zirbel |
 | 270 | 307 | Cheery Risebuilder |

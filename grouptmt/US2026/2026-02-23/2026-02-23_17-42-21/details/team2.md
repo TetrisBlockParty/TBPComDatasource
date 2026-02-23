@@ -472,8 +472,8 @@
 | 464 | 801 | Dreamy Blast |
 | 465 | 799 | Kenny Alvarado |
 | 466 | 798 | Melissa Cole |
-| 467 | 797 | Alex Dungo Hoang |
-| 468 | 797 | Mighty Spinbuilder |
+| 467 | 797 | Mighty Spinbuilder |
+| 468 | 797 | Alex Dungo Hoang |
 | 469 | 796 | AndrewandShela Gornik |
 | 470 | 796 | Amber Gray |
 | 471 | 794 | Lindsey Leigh |
@@ -517,8 +517,8 @@
 | 509 | 746 | Hoppy Brickmatch |
 | 510 | 742 | Ganieda |
 | 511 | 742 | Cassie Maynard |
-| 512 | 740 | Samantha Scibelli |
-| 513 | 740 | Jerry Tempelmeyer |
+| 512 | 740 | Jerry Tempelmeyer |
+| 513 | 740 | Samantha Scibelli |
 | 514 | 740 | Alexandra Weir |
 | 515 | 737 | Ginger |
 | 516 | 737 | Chelle |

@@ -124,8 +124,8 @@
 | 116 | 896 | Jesse Olive |
 | 117 | 878 | Shane Wilson Jr. |
 | 118 | 874 | Jessica Pineda-Lopez |
-| 119 | 868 | Felicia Rocha |
-| 120 | 868 | Sarajane Lokan |
+| 119 | 868 | Sarajane Lokan |
+| 120 | 868 | Felicia Rocha |
 | 121 | 864 | Sunny Rotater |
 | 122 | 856 | Kristie |
 | 123 | 848 | Patricia Gadsden |
@@ -192,8 +192,8 @@
 | 184 | 616 | Kammy Hill |
 | 185 | 606 | Tasha Gillespie |
 | 186 | 602 | Jacqueline Rodriguez |
-| 187 | 600 | Makelini Mausia |
-| 188 | 600 | Domo Washington |
+| 187 | 600 | Domo Washington |
+| 188 | 600 | Makelini Mausia |
 | 189 | 599 | opf |
 | 190 | 597 | CeceGeGe |
 | 191 | 597 | Diana Ibarra |
