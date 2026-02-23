@@ -124,8 +124,8 @@
 | 116 | 514 | Serena Goodridge |
 | 117 | 514 | Scott Jameson |
 | 118 | 513 | Erin Thomas |
-| 119 | 512 | Cristy Duerksen |
-| 120 | 512 | Casey Jeffcoat |
+| 119 | 512 | Casey Jeffcoat |
+| 120 | 512 | Cristy Duerksen |
 | 121 | 511 | Lori Walker |
 | 122 | 482 | Ren Mc |
 | 123 | 481 | Jessica Lynn Cutlip |
@@ -164,8 +164,8 @@
 | 156 | 391 | Ramel Rhodes |
 | 157 | 389 | Joseph Guthrie |
 | 158 | 387 | Lucas J Sutton |
-| 159 | 375 | Desi Desporte |
-| 160 | 375 | ThaEviLJeNiuZ |
+| 159 | 375 | ThaEviLJeNiuZ |
+| 160 | 375 | Desi Desporte |
 | 161 | 374 | Guy Incognito |
 | 162 | 370 | Oscar Alberto Perez |
 | 163 | 369 | Lindsey Gonzalez |
@@ -185,8 +185,8 @@
 | 177 | 349 | Rafael Valentin |
 | 178 | 349 | Twisty Cascadezone |
 | 179 | 348 | April Rondinone |
-| 180 | 347 | Crystal Nicolette Moore |
-| 181 | 347 | Daria Rycewicz |
+| 180 | 347 | Daria Rycewicz |
+| 181 | 347 | Crystal Nicolette Moore |
 | 182 | 339 | David Lay |
 | 183 | 336 | Bio Nelly |
 | 184 | 335 | James Hurley Jr. |
@@ -205,8 +205,8 @@
 | 197 | 316 | Cursed Hag |
 | 198 | 311 | Mary Ann Pabukis |
 | 199 | 310 | Holly Jolly |
-| 200 | 307 | Cheery Risebuilder |
-| 201 | 307 | Michele Plunkett |
+| 200 | 307 | Michele Plunkett |
+| 201 | 307 | Cheery Risebuilder |
 | 202 | 306 | blockstar |
 | 203 | 305 | Sam Bishop |
 | 204 | 305 | Melvin Baird |

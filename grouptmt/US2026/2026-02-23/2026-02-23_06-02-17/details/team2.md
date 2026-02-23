@@ -151,8 +151,8 @@
 | 143 | 1639 | Jessie McDougald |
 | 144 | 1638 | Speedy Spinblock |
 | 145 | 1629 | Mari Ac |
-| 146 | 1623 | Janel Turley-Garner |
-| 147 | 1623 | Rebecca Doughman |
+| 146 | 1623 | Rebecca Doughman |
+| 147 | 1623 | Janel Turley-Garner |
 | 148 | 1605 | Christi Hulet |
 | 149 | 1602 | blackq |
 | 150 | 1601 | Ray Ray Prado |
@@ -211,13 +211,13 @@
 | 203 | 1282 | Ashley Rose Frederick |
 | 204 | 1282 | Tanya Parsons |
 | 205 | 1259 | Foxxo |
-| 206 | 1258 | Joyce Johnson Vaughn |
-| 207 | 1258 | Snappy Matchbuilder |
+| 206 | 1258 | Snappy Matchbuilder |
+| 207 | 1258 | Joyce Johnson Vaughn |
 | 208 | 1252 | Angel |
 | 209 | 1245 | Cody Nishimura |
 | 210 | 1237 | Megan Ferguson Leone |
-| 211 | 1232 | Ambyre Patterson |
-| 212 | 1232 | Groovy Puzzle |
+| 211 | 1232 | Groovy Puzzle |
+| 212 | 1232 | Ambyre Patterson |
 | 213 | 1232 | Brandon Armstrong |
 | 214 | 1230 | Megan Garrick |
 | 215 | 1217 | Lucky Ladybug |
@@ -292,8 +292,8 @@
 | 284 | 1010 | Brittany Radaszewski |
 | 285 | 1007 | Missie Lawson Gebhardt |
 | 286 | 1003 | Andrea Maher |
-| 287 | 998 | Shelley Thornburgh Wright |
-| 288 | 998 | Keri Womack |
+| 287 | 998 | Keri Womack |
+| 288 | 998 | Shelley Thornburgh Wright |
 | 289 | 996 | Ashie Ann |
 | 290 | 988 | Juliana Marques Do Nascimento Gordy |
 | 291 | 987 | Osun Anuket Esu |
@@ -517,9 +517,9 @@
 | 509 | 642 | Cassie Maynard |
 | 510 | 642 | Michelle Fields |
 | 511 | 640 | Belle |
-| 512 | 639 | Jackie Avila |
+| 512 | 639 | Rebecca Miller |
 | 513 | 639 | Alexandra Weir |
-| 514 | 639 | Rebecca Miller |
+| 514 | 639 | Jackie Avila |
 | 515 | 639 | Toni Roberson |
 | 516 | 637 | Shinette Dobson |
 | 517 | 637 | Karen Posadas Centeno |
@@ -567,8 +567,8 @@
 | 559 | 592 | Sheronda Jackson |
 | 560 | 590 | Maddy Petersen |
 | 561 | 589 | Thomas Hedrick |
-| 562 | 589 | Kelly Templeton |
-| 563 | 589 | Shavonna Haynes |
+| 562 | 589 | Shavonna Haynes |
+| 563 | 589 | Kelly Templeton |
 | 564 | 588 | Kitybox |
 | 565 | 587 | Ben Barkley |
 | 566 | 586 | Christina Ashley |
@@ -705,8 +705,8 @@
 | 697 | 489 | Christy Krissie |
 | 698 | 488 | Funky Caster |
 | 699 | 488 | Eunique Griffin |
-| 700 | 487 | Morgan Easter |
-| 701 | 487 | Lina Sanders |
+| 700 | 487 | Lina Sanders |
+| 701 | 487 | Morgan Easter |
 | 702 | 486 | Ashley Collins |
 | 703 | 486 | Britney M. |
 | 704 | 485 | Regina Young |
@@ -733,7 +733,7 @@
 | 725 | 474 | Jennifer Scott |
 | 726 | 474 | Sarah block |
 | 727 | 474 | Joice Hansen |
-| 728 | 474 | Sarah block |
+| 728 | 474 | Calandra Shaya Robinson |
 | 729 | 473 | Tara Lynn Janes |
 | 730 | 473 | coleksquad |
 | 731 | 472 | Connie Lepore-Mann |

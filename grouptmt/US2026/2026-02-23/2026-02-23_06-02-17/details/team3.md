@@ -156,8 +156,8 @@
 | 148 | 631 | Daira Largen |
 | 149 | 630 | yoyo |
 | 150 | 629 | Patricia White |
-| 151 | 621 | Sashay Tapae Simpson |
-| 152 | 621 | Cherry Parker |
+| 151 | 621 | Cherry Parker |
+| 152 | 621 | Sashay Tapae Simpson |
 | 153 | 616 | Kammy Hill |
 | 154 | 611 | Rochelle Hazelett |
 | 155 | 607 | Grego Daniel |
@@ -257,8 +257,8 @@
 | 249 | 377 | Charles Perrone |
 | 250 | 374 | Rania Zaqout |
 | 251 | 373 | Chummy Caster |
-| 252 | 372 | Sarah Moyer |
-| 253 | 372 | Rich LeBlanc |
+| 252 | 372 | Rich LeBlanc |
+| 253 | 372 | Sarah Moyer |
 | 254 | 371 | Marquita Sheard |
 | 255 | 371 | block chick |
 | 256 | 370 | Samantha Lynn |
@@ -356,8 +356,8 @@
 | 348 | 286 | Micayah Stevens |
 | 349 | 284 | Hanna Kim |
 | 350 | 281 | Kaycee Kay |
-| 351 | 280 | Dirtgirl27 |
-| 352 | 280 | ROODBOY |
+| 351 | 280 | ROODBOY |
+| 352 | 280 | Dirtgirl27 |
 | 353 | 280 | Aerian Preston |
 | 354 | 280 | Ivan Del Toro |
 | 355 | 279 | Naur |
