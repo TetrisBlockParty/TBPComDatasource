@@ -146,8 +146,8 @@
 | 138 | 486 | Dee Perry |
 | 139 | 483 | Trina Gee |
 | 140 | 477 | Tonya Beasley |
-| 141 | 475 | Sarah Somers Gray |
-| 142 | 475 | Plucky Ziggy |
+| 141 | 475 | Plucky Ziggy |
+| 142 | 475 | Sarah Somers Gray |
 | 143 | 470 | Candy Jones |
 | 144 | 467 | Constance Risner |
 | 145 | 466 | Adrian Esteban |
@@ -248,8 +248,8 @@
 | 240 | 339 | Tyler Hertzog |
 | 241 | 338 | Layzietyme |
 | 242 | 337 | Jamise Brown |
-| 243 | 335 | Eric DeSimone |
-| 244 | 335 | Keith Mathis |
+| 243 | 335 | Keith Mathis |
+| 244 | 335 | Eric DeSimone |
 | 245 | 334 | Tipsy Builder |
 | 246 | 333 | Jennifer Noe Chandler |
 | 247 | 332 | Eddie Dillon |
@@ -297,8 +297,8 @@
 | 289 | 285 | Shanae Grant |
 | 290 | 284 | Michael |
 | 291 | 284 | Colleen Pinette |
-| 292 | 283 | Irv |
-| 293 | 283 | Franswa |
+| 292 | 283 | Franswa |
+| 293 | 283 | Irv |
 | 294 | 282 | Timothy Dew |
 | 295 | 280 | Billie Dawn Sparks |
 | 296 | 280 | Наталья Солоид |
@@ -387,8 +387,8 @@
 | 379 | 232 | Thorne Shumate |
 | 380 | 230 | Panda Thagreat |
 | 381 | 230 | Jessica Russell |
-| 382 | 229 | Ed Franz Jr |
-| 383 | 229 | Bob |
+| 382 | 229 | Bob |
+| 383 | 229 | Ed Franz Jr |
 | 384 | 227 | Happy Snapbuild |
 | 385 | 226 | Alex Nicol |
 | 386 | 226 | Snappy Brickbuilder |
@@ -462,8 +462,8 @@
 | 454 | 196 | Steph |
 | 455 | 195 | Herm Junior |
 | 456 | 194 | Nicole Meredith Flynn |
-| 457 | 193 | Lachelle Dillon |
-| 458 | 193 | Giggly Rollfit |
+| 457 | 193 | Giggly Rollfit |
+| 458 | 193 | Lachelle Dillon |
 | 459 | 192 | Ramona Shaver |
 | 460 | 191 | Jasmine Riley |
 | 461 | 191 | Dandy Towerbuilder |
