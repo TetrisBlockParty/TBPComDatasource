@@ -133,8 +133,8 @@
 | 125 | 451 | Peachy Fall |
 | 126 | 451 | Angela Srubar-Norman |
 | 127 | 448 | Kristin Manee |
-| 128 | 435 | Leslie Thomas |
-| 129 | 435 | Kristina Black |
+| 128 | 435 | Kristina Black |
+| 129 | 435 | Leslie Thomas |
 | 130 | 431 | Courtney Cicoria |
 | 131 | 421 | Kesha Brady |
 | 132 | 421 | Monica Daley |
@@ -156,8 +156,8 @@
 | 148 | 391 | Livvy |
 | 149 | 391 | Ramel Rhodes |
 | 150 | 389 | Joseph Guthrie |
-| 151 | 387 | 🥔🥔 Spudz |
-| 152 | 387 | Lucas J Sutton |
+| 151 | 387 | Lucas J Sutton |
+| 152 | 387 | 🥔🥔 Spudz |
 | 153 | 377 | Carrie Brian |
 | 154 | 375 | ThaEviLJeNiuZ |
 | 155 | 375 | Desi Desporte |
@@ -223,8 +223,8 @@
 | 215 | 281 | Laura |
 | 216 | 281 | Nikki Rae Gordon |
 | 217 | 277 | Zesty Twistbuilder |
-| 218 | 276 | Matt Dell'Olio |
-| 219 | 276 | Joeliecea Cobb |
+| 218 | 276 | Joeliecea Cobb |
+| 219 | 276 | Matt Dell'Olio |
 | 220 | 273 | Casey Grabner |
 | 221 | 272 | Alan George LaRage |
 | 222 | 272 | Dennis Bradley |
@@ -1431,7 +1431,7 @@
 | 1423 | 21 | Sweetblast |
 | 1424 | 21 | Zappy Brick |
 | 1425 | 21 | Chill Gridmatch |
-| 1426 | 21 | Cool Cascadefit |
+| 1426 | 21 | Holly Baxley |
 | 1427 | 21 | Chasinglight |
 | 1428 | 21 | Cool Cascadefit |
 | 1429 | 20 | Charli Vinson |

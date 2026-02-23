@@ -309,23 +309,23 @@
 | 301 | 301 | Tiffany Davie |
 | 302 | 301 | Betty Rosas |
 | 303 | 299 | Angie Harper |
-| 304 | 298 | LaShey Thompson |
-| 305 | 298 | Grams |
+| 304 | 298 | Grams |
+| 305 | 298 | LaShey Thompson |
 | 306 | 297 | kacihall |
 | 307 | 297 | Cheeky Snapper |
-| 308 | 296 | Hasty Gridpiece |
+| 308 | 296 | Donna |
 | 309 | 296 | Tracy Martin |
-| 310 | 296 | Donna |
-| 311 | 294 | Betty Bóò |
-| 312 | 294 | fraulila |
+| 310 | 296 | Hasty Gridpiece |
+| 311 | 294 | fraulila |
+| 312 | 294 | Betty Bóò |
 | 313 | 291 | Geoffrey Nash |
 | 314 | 289 | DidIdothat |
 | 315 | 287 | Sabrina Hardrick |
 | 316 | 287 | Carol Cain Thurman |
 | 317 | 287 | Hoppy Patternline |
 | 318 | 286 | Micayah Stevens |
-| 319 | 286 | Lizabeth Fox |
-| 320 | 286 | Salena Whitlock |
+| 319 | 286 | Salena Whitlock |
+| 320 | 286 | Lizabeth Fox |
 | 321 | 284 | Hanna Kim |
 | 322 | 281 | Kaycee Kay |
 | 323 | 280 | Stephanie Bradley |
@@ -435,8 +435,8 @@
 | 427 | 227 | Meowsa |
 | 428 | 226 | Danielle Beaunoyer Jean |
 | 429 | 226 | Jana Polk |
-| 430 | 225 | Beezwax |
-| 431 | 225 | Sassy Tiler |
+| 430 | 225 | Sassy Tiler |
+| 431 | 225 | Beezwax |
 | 432 | 224 | Sarah Morris |
 | 433 | 222 | Eileen Brady Thurber |
 | 434 | 221 | Ryan Williams |
@@ -450,9 +450,9 @@
 | 442 | 218 | Khaleada McGill Banks |
 | 443 | 218 | Andrew Thorson |
 | 444 | 218 | Tina Smith Roy |
-| 445 | 217 | Goofy Fall |
-| 446 | 217 | Katie Leigh Blankenship |
-| 447 | 217 | Heather Bateman |
+| 445 | 217 | Heather Bateman |
+| 446 | 217 | Goofy Fall |
+| 447 | 217 | Katie Leigh Blankenship |
 | 448 | 214 | Amy Fuller Heaton |
 | 449 | 213 | Arden White Kirsch |
 | 450 | 213 | Linda Draper |

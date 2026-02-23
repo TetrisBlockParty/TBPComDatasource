@@ -40,8 +40,8 @@
 | 32 | 4274 | Vistabrat |
 | 33 | 4199 | Claire Noland |
 | 34 | 4128 | Angela Pruitt |
-| 35 | 4120 | Corrine Hawks Soriano |
-| 36 | 4120 | Kristen Sceurman |
+| 35 | 4120 | Kristen Sceurman |
+| 36 | 4120 | Corrine Hawks Soriano |
 | 37 | 4093 | Jill Stroehlein |
 | 38 | 3895 | Nickie Baby |
 | 39 | 3770 | Brittany Alicia |
@@ -135,8 +135,8 @@
 | 127 | 1681 | Nett |
 | 128 | 1681 | Shandrica Lowe |
 | 129 | 1658 | Liberty |
-| 130 | 1656 | Kristopher Miller |
-| 131 | 1656 | Auntie B |
+| 130 | 1656 | Auntie B |
+| 131 | 1656 | Kristopher Miller |
 | 132 | 1644 | Luna |
 | 133 | 1639 | Jessie McDougald |
 | 134 | 1631 | Speedy Spinblock |
@@ -294,8 +294,8 @@
 | 286 | 961 | Jojo Momma |
 | 287 | 958 | Brenda Messer |
 | 288 | 957 | Block Master |
-| 289 | 955 | Em Chen |
-| 290 | 955 | Angela Bonquiqui Dinish |
+| 289 | 955 | Angela Bonquiqui Dinish |
+| 290 | 955 | Em Chen |
 | 291 | 954 | Melissa McCall |
 | 292 | 953 | Phil J. Grombliniak |
 | 293 | 951 | Cynthia Ward |
