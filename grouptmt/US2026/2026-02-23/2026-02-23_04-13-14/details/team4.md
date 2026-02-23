@@ -86,8 +86,8 @@
 | 78 | 704 | Crystal Carroll |
 | 79 | 703 | Savannah Overdorf |
 | 80 | 697 | Alyssa Papen |
-| 81 | 684 | Kimyatta Cavin |
-| 82 | 684 | Jonathan Kimbrough |
+| 81 | 684 | Jonathan Kimbrough |
+| 82 | 684 | Kimyatta Cavin |
 | 83 | 677 | Trista Leah |
 | 84 | 673 | Jacqueline Helm |
 | 85 | 672 | Shane Kalamata Platoon |
@@ -246,8 +246,8 @@
 | 238 | 262 | Selena Shaw |
 | 239 | 262 | BigSammy420 |
 | 240 | 260 | Carter Jones |
-| 241 | 259 | Montiette Mcglown |
-| 242 | 259 | Allen Lloyd |
+| 241 | 259 | Allen Lloyd |
+| 242 | 259 | Montiette Mcglown |
 | 243 | 257 | PeaceOs |
 | 244 | 256 | Metsfan |
 | 245 | 256 | Mylo Lipscomb |
@@ -280,8 +280,8 @@
 | 272 | 233 | Ruben Wheeler |
 | 273 | 232 | Rio Rocha |
 | 274 | 228 | Bethany Ison |
-| 275 | 226 | Dizzy Matchzone |
-| 276 | 226 | Cranky Rollpiece |
+| 275 | 226 | Cranky Rollpiece |
+| 276 | 226 | Dizzy Matchzone |
 | 277 | 225 | Jenna McGeorge |
 | 278 | 223 | Amanda Christine |
 | 279 | 223 | Adawna Swires |
@@ -309,9 +309,9 @@
 | 301 | 214 | Chantilly Laace |
 | 302 | 213 | Jackie Marie |
 | 303 | 212 | Mike Solo |
-| 304 | 212 | Brave Spinbuilder |
+| 304 | 212 | Zany Shatterer |
 | 305 | 212 | Orchislactea |
-| 306 | 212 | Zany Shatterer |
+| 306 | 212 | Brave Spinbuilder |
 | 307 | 211 | Chris Alexinas |
 | 308 | 210 | Ari Droff |
 | 309 | 210 | Rebecca Morris |
@@ -470,7 +470,7 @@
 | 462 | 146 | Groovy Gridlock |
 | 463 | 145 | Austin Trent Weaver |
 | 464 | 145 | Jackie Clark |
-| 465 | 145 | Austin Trent Weaver |
+| 465 | 145 | Glitzy Crasher |
 | 466 | 144 | Zach Kerbs |
 | 467 | 143 | Smiley Shifter |
 | 468 | 143 | Sherri |
@@ -543,8 +543,8 @@
 | 535 | 124 | Laurel Coppess |
 | 536 | 124 | Cheery Towerzone |
 | 537 | 123 | Lazy Column |
-| 538 | 123 | MOCHA |
-| 539 | 123 | mini |
+| 538 | 123 | mini |
+| 539 | 123 | MOCHA |
 | 540 | 122 | Jennifer Renee |
 | 541 | 122 | bloat princess |
 | 542 | 122 | @ |

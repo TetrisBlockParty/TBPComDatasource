@@ -125,8 +125,8 @@
 | 117 | 440 | Stephanie Zahn |
 | 118 | 439 | Dee Perry |
 | 119 | 436 | Tonya Beasley |
-| 120 | 434 | Ty Brown |
-| 121 | 434 | Yvonne Marie |
+| 120 | 434 | Yvonne Marie |
+| 121 | 434 | Ty Brown |
 | 122 | 431 | Chirpy Smasher |
 | 123 | 428 | Ly Phethmany |
 | 124 | 426 | Maria C. Hernandez |
@@ -147,8 +147,8 @@
 | 139 | 387 | Ananda Mendez |
 | 140 | 383 | pjbeta |
 | 141 | 380 | phrmblk24 |
-| 142 | 379 | Austin James |
-| 143 | 379 | Kimmie Kimms |
+| 142 | 379 | Kimmie Kimms |
+| 143 | 379 | Austin James |
 | 144 | 376 | Brian Richardsson |
 | 145 | 376 | Death |
 | 146 | 375 | Tanya Carpenter-Reynolds |
@@ -162,8 +162,8 @@
 | 154 | 364 | Serina Marie |
 | 155 | 360 | Wisa |
 | 156 | 355 | Amanda Jarnagin |
-| 157 | 353 | Jaimie Lynn |
-| 158 | 353 | Josh Riemer |
+| 157 | 353 | Josh Riemer |
+| 158 | 353 | Jaimie Lynn |
 | 159 | 350 | Tipsy Strikerpiece |
 | 160 | 346 | GATOR |
 | 161 | 345 | Jerry Danowski |
@@ -424,8 +424,8 @@
 | 416 | 162 | Nerdy Curvebuilder |
 | 417 | 161 | Danielle S Kester |
 | 418 | 161 | Tamara Brown |
-| 419 | 161 | Danielle S Kester |
-| 420 | 160 | Jeremy Maubert |
+| 419 | 161 | Kayla Marie Stevenson |
+| 420 | 160 | Plucky Stacky |
 | 421 | 160 | Barry Mac'Ockner |
 | 422 | 160 | Jeremy Maubert |
 | 423 | 160 | Sunny Catcher |
@@ -484,9 +484,9 @@
 | 476 | 141 | Brandie Gallegos |
 | 477 | 141 | Richard Corrado |
 | 478 | 140 | Terri Rodela |
-| 479 | 140 | Owicked1 |
-| 480 | 140 | Edgar Algiere |
-| 481 | 140 | Nathan William |
+| 479 | 140 | Nathan William |
+| 480 | 140 | Owicked1 |
+| 481 | 140 | Edgar Algiere |
 | 482 | 140 | Ashley Rodriguez |
 | 483 | 139 | Lisa Reynolds Adair |
 | 484 | 139 | Ramona Shaver |

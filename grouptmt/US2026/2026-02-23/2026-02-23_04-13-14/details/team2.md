@@ -312,10 +312,10 @@
 | 304 | 951 | Cynthia Ward |
 | 305 | 947 | Dedra Steward |
 | 306 | 941 | Cool Clearer |
-| 307 | 939 | SaraMarie Eveland |
-| 308 | 939 | Cindy Sechler Taninecz |
-| 309 | 929 | Joshua Mandel |
-| 310 | 929 | Caitlin Schmid |
+| 307 | 939 | Cindy Sechler Taninecz |
+| 308 | 939 | SaraMarie Eveland |
+| 309 | 929 | Caitlin Schmid |
+| 310 | 929 | Joshua Mandel |
 | 311 | 926 | Deborah Miller |
 | 312 | 919 | Isaac Trappiel IV |
 | 313 | 916 | Butta |
@@ -465,16 +465,16 @@
 | 457 | 684 | Sarah DeHart |
 | 458 | 683 | Eric Castaneda |
 | 459 | 681 | AgileDragon |
-| 460 | 680 | blume |
-| 461 | 680 | Kenny Alvarado |
+| 460 | 680 | Kenny Alvarado |
+| 461 | 680 | blume |
 | 462 | 679 | Kassandra Hunt |
 | 463 | 677 | Kayleigh Wisse |
-| 464 | 677 | Ellie Jonas |
-| 465 | 677 | Amanda Woodruff |
+| 464 | 677 | Amanda Woodruff |
+| 465 | 677 | Ellie Jonas |
 | 466 | 676 | Roseanna Peloso |
 | 467 | 676 | Brandon Armstrong |
-| 468 | 675 | Lonne Emade |
-| 469 | 675 | Katelynn Hollen |
+| 468 | 675 | Katelynn Hollen |
+| 469 | 675 | Lonne Emade |
 | 470 | 674 | Mikayala Szaz |
 | 471 | 674 | Ashley Munn |
 | 472 | 673 | trabuco |
@@ -554,8 +554,8 @@
 | 546 | 584 | Daniell Martinez |
 | 547 | 583 | Kitybox |
 | 548 | 581 | Angie Marie |
-| 549 | 580 | Paul Combs |
-| 550 | 580 | Cheery Matchzone |
+| 549 | 580 | Cheery Matchzone |
+| 550 | 580 | Paul Combs |
 | 551 | 579 | Roy Salyer |
 | 552 | 578 | Sarah Berger |
 | 553 | 577 | Victor Obiakarije |
@@ -580,10 +580,10 @@
 | 572 | 559 | Anthony Huebel |
 | 573 | 559 | Slip |
 | 574 | 558 | Libby Hicks |
-| 575 | 554 | Tra Barnum |
-| 576 | 554 | Dizzy Zone |
-| 577 | 554 | Laquetta Royston |
-| 578 | 554 | Party d |
+| 575 | 554 | Dizzy Zone |
+| 576 | 554 | Tra Barnum |
+| 577 | 554 | Party d |
+| 578 | 554 | Laquetta Royston |
 | 579 | 553 | Kelli Wells |
 | 580 | 551 | Matt Johnson |
 | 581 | 551 | Samuel Macon |
@@ -909,8 +909,8 @@
 | 901 | 380 | Lazy Builderfit |
 | 902 | 379 | stacey |
 | 903 | 378 | Kelly Walters |
-| 904 | 378 | Ubu |
-| 905 | 378 | Elizabeth Leinen |
+| 904 | 378 | Elizabeth Leinen |
+| 905 | 378 | Ubu |
 | 906 | 377 | NickyBrooks |
 | 907 | 377 | Frank Castle |
 | 908 | 376 | Snappy Shatterfit |
