@@ -76,8 +76,8 @@
 | 68 | 1264 | Amanda L Baker |
 | 69 | 1258 | Danielle Cutler |
 | 70 | 1256 | Jessica Bechler |
-| 71 | 1213 | Nerdy Riseclear |
-| 72 | 1213 | Snappy Glidepiece |
+| 71 | 1213 | Snappy Glidepiece |
+| 72 | 1213 | Nerdy Riseclear |
 | 73 | 1201 | Amanda Adkins |
 | 74 | 1186 | Christian A. Pollard |
 | 75 | 1162 | Gracie |
@@ -114,15 +114,15 @@
 | 106 | 869 | Araceli Parra |
 | 107 | 868 | Sarajane Lokan |
 | 108 | 860 | Sunny Rotater |
-| 109 | 851 | Danielle Becker |
-| 110 | 851 | Jd Morris |
+| 109 | 851 | Jd Morris |
+| 110 | 851 | Danielle Becker |
 | 111 | 850 | Danielle Mogg |
 | 112 | 848 | Patricia Gadsden |
 | 113 | 839 | Angeline Joseph |
 | 114 | 830 | Stephanie Allmon |
 | 115 | 826 | Shane Wilson Jr. |
-| 116 | 816 | Brenda Lee Vander Molen |
-| 117 | 816 | Jesse Olive |
+| 116 | 816 | Jesse Olive |
+| 117 | 816 | Brenda Lee Vander Molen |
 | 118 | 802 | Bobbi Moore |
 | 119 | 800 | Lauren Girouard |
 | 120 | 799 | Dolores Falco |
@@ -187,8 +187,8 @@
 | 179 | 572 | CeceGeGe |
 | 180 | 568 | Rachael McClain Owens |
 | 181 | 566 | LaTanya GeminiondaRise Johnson |
-| 182 | 564 | Poppy Splitter |
-| 183 | 564 | Christine Trester |
+| 182 | 564 | Christine Trester |
+| 183 | 564 | Poppy Splitter |
 | 184 | 563 | Jim Mathews |
 | 185 | 562 | Dave Herzog |
 | 186 | 559 | Patti Skiles |
@@ -198,8 +198,8 @@
 | 190 | 546 | Tasha Schriewer |
 | 191 | 546 | Cynthia Castros-Hampton |
 | 192 | 540 | Shawn Miller |
-| 193 | 531 | Sarah Cowan Burgos |
-| 194 | 531 | Chauntee Alfrey-Cardinale |
+| 193 | 531 | Chauntee Alfrey-Cardinale |
+| 194 | 531 | Sarah Cowan Burgos |
 | 195 | 528 | Silly Twist |
 | 196 | 525 | Stephanie Blkpep Davidson |
 | 197 | 524 | Bmo |
@@ -218,8 +218,8 @@
 | 210 | 485 | Dapper Snap |
 | 211 | 484 | Fallorina Susana |
 | 212 | 481 | Connie Mohler-Fair |
-| 213 | 480 | Danielle Allison |
-| 214 | 480 | Michael Johnson |
+| 213 | 480 | Michael Johnson |
+| 214 | 480 | Danielle Allison |
 | 215 | 477 | Edwin Calvillo Jr. |
 | 216 | 475 | Tessina Dewey-Mancino |
 | 217 | 471 | Mendoza Lee Christy |
@@ -504,9 +504,9 @@
 | 496 | 219 | Trice Thomas |
 | 497 | 219 | TLM |
 | 498 | 218 | Sabrina Mansfield |
-| 499 | 218 | Tina Smith Roy |
-| 500 | 218 | Ginger Gray |
-| 501 | 218 | Dapper Chiseler |
+| 499 | 218 | Dapper Chiseler |
+| 500 | 218 | Tina Smith Roy |
+| 501 | 218 | Ginger Gray |
 | 502 | 217 | Jazzy Spinfit |
 | 503 | 217 | Katie Leigh Blankenship |
 | 504 | 217 | Tia Moore |
@@ -558,8 +558,8 @@
 | 550 | 199 | Christine Foley |
 | 551 | 199 | Cheeky Setter |
 | 552 | 198 | xsiv |
-| 553 | 198 | Zac Hudak |
-| 554 | 198 | Jodi Kaczynski-O'Dowd |
+| 553 | 198 | Jodi Kaczynski-O'Dowd |
+| 554 | 198 | Zac Hudak |
 | 555 | 198 | momo |
 | 556 | 197 | BabyTonj Evans |
 | 557 | 197 | Giggy Glidepiece |
@@ -794,7 +794,7 @@
 | 786 | 144 | Tiffany's TwinsRus Thrifty |
 | 787 | 144 | Clever Edgepiece |
 | 788 | 144 | Amber Reeves-Buchanan |
-| 789 | 144 | Clever Edgepiece |
+| 789 | 144 | Crystal Frey |
 | 790 | 143 | Russell Hankinson |
 | 791 | 143 | Lisa Lisa |
 | 792 | 143 | Melissa Ponder |
@@ -902,8 +902,8 @@
 | 894 | 127 | lydynred |
 | 895 | 127 | Jill Stickney |
 | 896 | 127 | Lazy Matchfit |
-| 897 | 126 | Uluvfai |
-| 898 | 126 | Mainhia Thao |
+| 897 | 126 | Mainhia Thao |
+| 898 | 126 | Uluvfai |
 | 899 | 126 | Crystal Martin |
 | 900 | 126 | Brittany Smith Brown |
 | 901 | 125 | Rena Wells |

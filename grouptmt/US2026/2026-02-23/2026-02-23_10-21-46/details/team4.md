@@ -89,8 +89,8 @@
 | 81 | 703 | Savannah Overdorf |
 | 82 | 697 | Alyssa Papen |
 | 83 | 694 | Diana Houts |
-| 84 | 684 | Jonathan Kimbrough |
-| 85 | 684 | Kimyatta Cavin |
+| 84 | 684 | Kimyatta Cavin |
+| 85 | 684 | Jonathan Kimbrough |
 | 86 | 678 | Trista Leah |
 | 87 | 673 | Jacqueline Helm |
 | 88 | 670 | Destiney Carter |
@@ -125,8 +125,8 @@
 | 117 | 527 | Dizzy Tiley |
 | 118 | 519 | Nugget |
 | 119 | 517 | shar |
-| 120 | 514 | Scott Jameson |
-| 121 | 514 | Serena Goodridge |
+| 120 | 514 | Serena Goodridge |
+| 121 | 514 | Scott Jameson |
 | 122 | 513 | Erin Thomas |
 | 123 | 512 | Cristy Duerksen |
 | 124 | 512 | Casey Jeffcoat |
@@ -157,8 +157,8 @@
 | 149 | 418 | Lush Linkfall |
 | 150 | 417 | Steph Marie |
 | 151 | 416 | Chaz Duncan |
-| 152 | 414 | Nope Young |
-| 153 | 414 | Swanky Fitline |
+| 152 | 414 | Swanky Fitline |
+| 153 | 414 | Nope Young |
 | 154 | 413 | Circuit8 |
 | 155 | 412 | Jessica Bohlken |
 | 156 | 408 | Amanda Pauldo-Ivy |
@@ -464,7 +464,7 @@
 | 456 | 162 | Victoria Faniel |
 | 457 | 160 | Sho Nuff |
 | 458 | 160 | Heather Layne Smith |
-| 459 | 160 | Sho Nuff |
+| 459 | 160 | Sam Middleton |
 | 460 | 160 | icequeenx |
 | 461 | 159 | Groovy Brickmatch |
 | 462 | 158 | Jasmine S Caldwell |

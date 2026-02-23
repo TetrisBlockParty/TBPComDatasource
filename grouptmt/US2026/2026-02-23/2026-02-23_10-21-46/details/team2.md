@@ -273,12 +273,12 @@
 | 265 | 1093 | Real Ri |
 | 266 | 1088 | Brainy Smurf |
 | 267 | 1080 | Tyler C. Jung |
-| 268 | 1079 | Jennifer Kistner |
-| 269 | 1079 | Kimberly Hauck-Rausch |
+| 268 | 1079 | Kimberly Hauck-Rausch |
+| 269 | 1079 | Jennifer Kistner |
 | 270 | 1073 | Jodi Blake |
 | 271 | 1071 | Kim Dean |
-| 272 | 1069 | Carl Bradshaw |
-| 273 | 1069 | Offonar Facey |
+| 272 | 1069 | Offonar Facey |
+| 273 | 1069 | Carl Bradshaw |
 | 274 | 1064 | BK Queen |
 | 275 | 1063 | Caitlin Schmid |
 | 276 | 1058 | Rickey Johnson |
@@ -353,8 +353,8 @@
 | 345 | 903 | Eric Castaneda |
 | 346 | 903 | Giggy Blocker |
 | 347 | 901 | Kevin Sees |
-| 348 | 899 | Patrick Bartlett |
-| 349 | 899 | Chevy |
+| 348 | 899 | Chevy |
+| 349 | 899 | Patrick Bartlett |
 | 350 | 898 | Jamie Otero |
 | 351 | 895 | Donna Colby |
 | 352 | 894 | Adira Brown |
@@ -398,9 +398,9 @@
 | 390 | 816 | Beth |
 | 391 | 816 | James Simms III |
 | 392 | 812 | Samantha Jo |
-| 393 | 808 | Laura McCarthey |
-| 394 | 808 | Connie Jimenez |
-| 395 | 808 | Desire Rice |
+| 393 | 808 | Connie Jimenez |
+| 394 | 808 | Desire Rice |
+| 395 | 808 | Laura McCarthey |
 | 396 | 804 | Becca Coronado |
 | 397 | 801 | Diana Fitzwater |
 | 398 | 801 | Gold Rose |
@@ -416,8 +416,8 @@
 | 408 | 788 | Erika Densmore |
 | 409 | 787 | Tiara Elizabeth Baker |
 | 410 | 783 | John Rodriguez |
-| 411 | 777 | Tesha Oldaker |
-| 412 | 777 | Jessicah Myers |
+| 411 | 777 | Jessicah Myers |
+| 412 | 777 | Tesha Oldaker |
 | 413 | 776 | Fancy Twister |
 | 414 | 776 | Mighty Spinbuilder |
 | 415 | 775 | Crystie Hicks |
@@ -496,8 +496,8 @@
 | 488 | 689 | Gauri Shrotriya |
 | 489 | 686 | Christine Coughlin |
 | 490 | 684 | Sarah DeHart |
-| 491 | 684 | Ann Knutson Anderson |
-| 492 | 684 | Ellie Jonas |
+| 491 | 684 | Ellie Jonas |
+| 492 | 684 | Ann Knutson Anderson |
 | 493 | 682 | Vanessa Moreno |
 | 494 | 682 | Antionette Sewell |
 | 495 | 681 | Gloria Liu |
@@ -727,8 +727,8 @@
 | 719 | 498 | Chummy Blockbuilder |
 | 720 | 497 | June E Hanson |
 | 721 | 497 | Sam |
-| 722 | 496 | Angelina Marie |
-| 723 | 496 | Tracy Cowley |
+| 722 | 496 | Tracy Cowley |
+| 723 | 496 | Angelina Marie |
 | 724 | 496 | Eunique Griffin |
 | 725 | 496 | Shyne Sun |
 | 726 | 496 | Anthony Mignacca |
