@@ -79,16 +79,16 @@
 | 71 | 749 | Dustee Craddock-Harrison |
 | 72 | 742 | Carolyn Wallace |
 | 73 | 740 | Avy Absol |
-| 74 | 736 | Crystal Carroll |
-| 75 | 736 | Goatimus Lombardi |
+| 74 | 736 | Goatimus Lombardi |
+| 75 | 736 | Crystal Carroll |
 | 76 | 721 | TheNeesh50 |
 | 77 | 717 | D3TROITB0RN74 |
 | 78 | 706 | Lisa Davis |
 | 79 | 703 | Savannah Overdorf |
 | 80 | 697 | Alyssa Papen |
 | 81 | 696 | Shane Kalamata Platoon |
-| 82 | 684 | Jonathan Kimbrough |
-| 83 | 684 | Kimyatta Cavin |
+| 82 | 684 | Kimyatta Cavin |
+| 83 | 684 | Jonathan Kimbrough |
 | 84 | 677 | Trista Leah |
 | 85 | 673 | Jacqueline Helm |
 | 86 | 670 | Destiney Carter |
@@ -136,8 +136,8 @@
 | 128 | 458 | Twisty Clicky |
 | 129 | 451 | Peachy Fall |
 | 130 | 448 | Kristin Manee |
-| 131 | 435 | Kristina Black |
-| 132 | 435 | Leslie Thomas |
+| 131 | 435 | Leslie Thomas |
+| 132 | 435 | Kristina Black |
 | 133 | 431 | Courtney Cicoria |
 | 134 | 426 | 🥔🥔 Spudz |
 | 135 | 425 | Monica Daley |
@@ -212,8 +212,8 @@
 | 204 | 300 | Dihcheese444 |
 | 205 | 300 | Zakia Monae |
 | 206 | 295 | Keshia Lyons |
-| 207 | 294 | Calvin Cannon |
-| 208 | 294 | Porkobello |
+| 207 | 294 | Porkobello |
+| 208 | 294 | Calvin Cannon |
 | 209 | 292 | Epic Curvetile |
 | 210 | 290 | Jared Gutwein |
 | 211 | 290 | Plucky Patternblock |
@@ -224,14 +224,14 @@
 | 216 | 286 | Sam Bishop |
 | 217 | 285 | 030Synner |
 | 218 | 284 | Mimi |
-| 219 | 282 | Matt Gooder |
-| 220 | 282 | Kim Klutz Olson |
-| 221 | 281 | Laura |
-| 222 | 281 | Nikki Rae Gordon |
-| 223 | 278 | Sarah Brown |
-| 224 | 278 | Angela Geist Jusinski |
-| 225 | 276 | Matt Dell'Olio |
-| 226 | 276 | Joeliecea Cobb |
+| 219 | 282 | Kim Klutz Olson |
+| 220 | 282 | Matt Gooder |
+| 221 | 281 | Nikki Rae Gordon |
+| 222 | 281 | Laura |
+| 223 | 278 | Angela Geist Jusinski |
+| 224 | 278 | Sarah Brown |
+| 225 | 276 | Joeliecea Cobb |
+| 226 | 276 | Matt Dell'Olio |
 | 227 | 273 | Casey Grabner |
 | 228 | 272 | Alan George LaRage |
 | 229 | 272 | Dennis Bradley |
