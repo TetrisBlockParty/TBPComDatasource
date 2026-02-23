@@ -259,11 +259,11 @@
 | 251 | 366 | Cheery Risebuilder |
 | 252 | 366 | Andrew Dang |
 | 253 | 365 | Hyper Builder |
-| 254 | 363 | TRCuse |
-| 255 | 363 | KimoKoala |
+| 254 | 363 | KimoKoala |
+| 255 | 363 | TRCuse |
 | 256 | 361 | Danielle Kollias |
-| 257 | 360 | James Hurley Jr. |
-| 258 | 360 | Ari Droff |
+| 257 | 360 | Ari Droff |
+| 258 | 360 | James Hurley Jr. |
 | 259 | 358 | Twisty Cascadezone |
 | 260 | 356 | Joeliecea Cobb |
 | 261 | 356 | mike |
@@ -274,8 +274,8 @@
 | 266 | 349 | jim |
 | 267 | 348 | blasterB |
 | 268 | 347 | Gdiguy |
-| 269 | 347 | Daria Rycewicz |
-| 270 | 347 | Nerdy Twisterfit |
+| 269 | 347 | Nerdy Twisterfit |
+| 270 | 347 | Daria Rycewicz |
 | 271 | 343 | HastyGrabber |
 | 272 | 341 | Mary Ann Pabukis |
 | 273 | 340 | Amanda Maciel Clarke |
@@ -388,7 +388,7 @@
 | 380 | 255 | Sallie Sanborn |
 | 381 | 253 | Chair |
 | 382 | 253 | Autum Leigh |
-| 383 | 252 | Dan Wold |
+| 383 | 252 | Gracie Ann Taylor |
 | 384 | 252 | Maureen Flanigan |
 | 385 | 252 | Dan Wold |
 | 386 | 251 | Kathy Allen |
@@ -570,8 +570,8 @@
 | 562 | 170 | Bigeddie |
 | 563 | 170 | Peppy Drop |
 | 564 | 170 | Elie Pean |
-| 565 | 169 | Dante Korleon |
-| 566 | 169 | Joseph Pace |
+| 565 | 169 | Joseph Pace |
+| 566 | 169 | Dante Korleon |
 | 567 | 168 | LunaMoon |
 | 568 | 168 | Melissa VanBourgondien |
 | 569 | 167 | Carla Harris |
@@ -604,8 +604,8 @@
 | 596 | 158 | Kristin MacDonald |
 | 597 | 158 | Jasmine S Caldwell |
 | 598 | 158 | Shirl |
-| 599 | 157 | Jazzy Slamdrop |
-| 600 | 157 | Cheery Lift |
+| 599 | 157 | Cheery Lift |
+| 600 | 157 | Jazzy Slamdrop |
 | 601 | 157 | David Boggs |
 | 602 | 156 | Nicole McMurray |
 | 603 | 155 | Zołza 😈 |

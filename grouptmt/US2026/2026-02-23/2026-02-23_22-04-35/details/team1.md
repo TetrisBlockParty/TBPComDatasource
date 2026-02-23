@@ -141,8 +141,8 @@
 | 133 | 537 | Stephanie Zahn |
 | 134 | 535 | Susan Ward |
 | 135 | 534 | Loony Fitzone |
-| 136 | 527 | Tonya Beasley |
-| 137 | 527 | Christy Jones |
+| 136 | 527 | Christy Jones |
+| 137 | 527 | Tonya Beasley |
 | 138 | 524 | Tipsy Riseclear |
 | 139 | 524 | ALFD |
 | 140 | 523 | BadG52 |
@@ -154,8 +154,8 @@
 | 146 | 515 | Constance Risner |
 | 147 | 513 | Colena Davenport |
 | 148 | 511 | MomMom |
-| 149 | 510 | Rat666 |
-| 150 | 510 | Timothy Danaher |
+| 149 | 510 | Timothy Danaher |
+| 150 | 510 | Rat666 |
 | 151 | 501 | Dee Perry |
 | 152 | 497 | Arianna O'Brien |
 | 153 | 495 | Adrian Esteban |
@@ -195,8 +195,8 @@
 | 187 | 422 | canbrick |
 | 188 | 422 | Chelsea Dahlquist |
 | 189 | 418 | David Miller |
-| 190 | 417 | Jessie Lynn |
-| 191 | 417 | Debbie Kane |
+| 190 | 417 | Debbie Kane |
+| 191 | 417 | Jessie Lynn |
 | 192 | 416 | Jessica Sheehan |
 | 193 | 415 | Jennifer Hardman |
 | 194 | 414 | John J. Cronin |
@@ -325,8 +325,8 @@
 | 317 | 298 | Sweetts |
 | 318 | 297 | Diane Byrd |
 | 319 | 296 | Sunny Shift |
-| 320 | 294 | Chummy Rollblock |
-| 321 | 294 | Наталья Солоид |
+| 320 | 294 | Наталья Солоид |
+| 321 | 294 | Chummy Rollblock |
 | 322 | 293 | Garrett Burket |
 | 323 | 292 | Clever Cascadepiece |
 | 324 | 292 | Damian Salem |
@@ -540,7 +540,7 @@
 | 532 | 189 | Jonathan Joshua |
 | 533 | 189 | BettyAnn Savo |
 | 534 | 188 | Joshua Weeder |
-| 535 | 188 | Brian Taylor |
+| 535 | 188 | Mel Fab |
 | 536 | 188 | Toni Sagenbrecht |
 | 537 | 188 | Brian Taylor |
 | 538 | 187 | Jessica Weed |

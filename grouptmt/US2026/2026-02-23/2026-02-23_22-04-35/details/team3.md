@@ -152,8 +152,8 @@
 | 144 | 837 | mzcatzy |
 | 145 | 834 | opf |
 | 146 | 820 | Brenda Lee Vander Molen |
-| 147 | 818 | Dolores Falco |
-| 148 | 818 | Tasha Schriewer |
+| 147 | 818 | Tasha Schriewer |
+| 148 | 818 | Dolores Falco |
 | 149 | 814 | Groovy Catcher |
 | 150 | 812 | Katrina Schroeder |
 | 151 | 810 | Keith J Oshman Jr. |
@@ -248,8 +248,8 @@
 | 240 | 541 | Gray Hicks |
 | 241 | 541 | Sherry Ogden |
 | 242 | 540 | Danielle Allison |
-| 243 | 539 | Micayah Stevens |
-| 244 | 539 | Betty Bóò |
+| 243 | 539 | Betty Bóò |
+| 244 | 539 | Micayah Stevens |
 | 245 | 539 | Aerian Preston |
 | 246 | 537 | Tessina Dewey-Mancino |
 | 247 | 537 | Tamara Deherrera |
@@ -345,8 +345,8 @@
 | 337 | 389 | ROODBOY |
 | 338 | 388 | Michelle Allers |
 | 339 | 387 | Andrew Thorson |
-| 340 | 386 | Philip Rock |
-| 341 | 386 | Darlene McMillan |
+| 340 | 386 | Darlene McMillan |
+| 341 | 386 | Philip Rock |
 | 342 | 386 | Kelly Wolf |
 | 343 | 385 | Ava Petito |
 | 344 | 383 | Kirhonda Autmon |
