@@ -115,8 +115,8 @@
 | 107 | 1041 | Patricia Gadsden |
 | 108 | 1038 | Mandy Smith Oldham |
 | 109 | 1033 | DaBigGuy |
-| 110 | 1032 | Jennifer |
-| 111 | 1019 | Sarah Fehring |
+| 110 | 1019 | Sarah Fehring |
+| 111 | 1018 | Jennifer |
 | 112 | 1013 | Grego Daniel |
 | 113 | 1009 | Chelsea Hall |
 | 114 | 994 | Suzieq |
@@ -224,8 +224,8 @@
 | 216 | 576 | Nicole Flippo |
 | 217 | 571 | Salena Whitlock |
 | 218 | 570 | Twisty Brick LT |
-| 219 | 569 | Michael Johnson |
-| 220 | 569 | Juliana Dottore |
+| 219 | 569 | Juliana Dottore |
+| 220 | 569 | Michael Johnson |
 | 221 | 568 | Rachael McClain Owens |
 | 222 | 567 | FuzzyNavel |
 | 223 | 566 | LaTanya GeminiondaRise Johnson |
@@ -234,7 +234,7 @@
 | 226 | 563 | Fallorina Susana |
 | 227 | 562 | Dave Herzog |
 | 228 | 561 | Silly Twist |
-| 229 | 556 | Trisha Balmer |
+| 229 | 554 | Trisha Balmer |
 | 230 | 549 | Sarah Cowan Burgos |
 | 231 | 548 | Danielle Balcom |
 | 232 | 547 | Staci George Fitzsimmons |

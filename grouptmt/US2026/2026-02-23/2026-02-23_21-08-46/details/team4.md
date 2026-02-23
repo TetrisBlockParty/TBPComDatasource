@@ -171,8 +171,8 @@
 | 163 | 501 | Ericca Eldridge |
 | 164 | 498 | Melissa Adams |
 | 165 | 496 | Cindy Looper |
-| 166 | 491 | Carrie Brian |
-| 167 | 491 | Jade Rian |
+| 166 | 491 | Jade Rian |
+| 167 | 491 | Carrie Brian |
 | 168 | 486 | Swanky Fitline |
 | 169 | 485 | Rico |
 | 170 | 482 | Adam Stephanie Parker |

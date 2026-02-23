@@ -158,16 +158,16 @@
 | 150 | 1960 | Aimee Campbell |
 | 151 | 1959 | Robin Kerby |
 | 152 | 1936 | Angi Harrison |
-| 153 | 1932 | Gary Schaffner Jr. |
-| 154 | 1932 | Angela Lynn |
+| 153 | 1932 | Angela Lynn |
+| 154 | 1932 | Gary Schaffner Jr. |
 | 155 | 1912 | Tonya Brooks-Johnson |
 | 156 | 1904 | Goofy Snapfit |
 | 157 | 1897 | Angel |
 | 158 | 1874 | Loopy Clusterbuilder |
 | 159 | 1859 | Desiree Harris Rosch |
 | 160 | 1840 | blarg |
-| 161 | 1840 | Kristopher Miller |
-| 162 | 1835 | Alisa Lamb |
+| 161 | 1835 | Alisa Lamb |
+| 162 | 1831 | Kristopher Miller |
 | 163 | 1829 | Mr. Street Stack |
 | 164 | 1818 | Shandrica Lowe |
 | 165 | 1790 | Kara Gillen |
