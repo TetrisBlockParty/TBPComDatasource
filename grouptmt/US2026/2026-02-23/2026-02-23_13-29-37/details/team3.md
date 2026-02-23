@@ -140,8 +140,8 @@
 | 132 | 755 | Raya |
 | 133 | 748 | Adrian Marcel Pate |
 | 134 | 746 | Giddy Drop |
-| 135 | 745 | ren |
-| 136 | 745 | JerseyJess |
+| 135 | 745 | JerseyJess |
+| 136 | 745 | ren |
 | 137 | 744 | Fancy Cascader |
 | 138 | 739 | Daryn Elliott |
 | 139 | 736 | mzcatzy |
@@ -185,15 +185,15 @@
 | 177 | 591 | Michael Nowogorski |
 | 178 | 589 | Kaycee Kay |
 | 179 | 587 | Louise Stacy Sisson |
-| 180 | 585 | Happy Tetriblast |
-| 181 | 585 | Domo Washington |
+| 180 | 585 | Domo Washington |
+| 181 | 585 | Happy Tetriblast |
 | 182 | 583 | Tasha Gillespie |
 | 183 | 582 | Natasha Jones |
 | 184 | 574 | Morgan Martinez |
 | 185 | 568 | Rachael McClain Owens |
 | 186 | 566 | LaTanya GeminiondaRise Johnson |
-| 187 | 564 | Christine Trester |
-| 188 | 564 | Poppy Splitter |
+| 187 | 564 | Poppy Splitter |
+| 188 | 564 | Christine Trester |
 | 189 | 563 | Jim Mathews |
 | 190 | 562 | Dave Herzog |
 | 191 | 561 | Elissa S-k |
@@ -220,8 +220,8 @@
 | 212 | 502 | Snappy Balancer |
 | 213 | 498 | Melissa Orth Hunter |
 | 214 | 496 | Loopy Fallmatch |
-| 215 | 494 | FuzzyNavel |
-| 216 | 494 | Connie Mohler-Fair |
+| 215 | 494 | Connie Mohler-Fair |
+| 216 | 494 | FuzzyNavel |
 | 217 | 491 | Michael Johnson |
 | 218 | 488 | joz |
 | 219 | 485 | Dapper Snap |
@@ -2740,7 +2740,7 @@
 | 2732 | 15 | MusicMaster |
 | 2733 | 15 | Drusilla Capps |
 | 2734 | 15 | Jeremy Anthony Kelch |
-| 2735 | 14 | IsaLynn Roberta Sequeira |
+| 2735 | 14 | Sandra Parker |
 | 2736 | 14 | Trice Frost |
 | 2737 | 14 | Tre |
 | 2738 | 14 | IsaLynn Roberta Sequeira |

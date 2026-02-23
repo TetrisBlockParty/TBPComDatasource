@@ -267,8 +267,8 @@
 | 259 | 284 | Kim Klutz Olson |
 | 260 | 284 | Matt Dell'Olio |
 | 261 | 282 | Matt Gooder |
-| 262 | 281 | Laura |
-| 263 | 281 | Morti |
+| 262 | 281 | Morti |
+| 263 | 281 | Laura |
 | 264 | 280 | Rio Rocha |
 | 265 | 279 | Malakai Darien Fox |
 | 266 | 278 | Sarah Brown |
@@ -474,12 +474,12 @@
 | 466 | 166 | Reds Bella |
 | 467 | 166 | Grann8 |
 | 468 | 165 | Vic |
-| 469 | 165 | Joshua Cuellar |
-| 470 | 165 | Stephanie Mico |
-| 471 | 165 | Zappy Buildgrid |
-| 472 | 164 | Marvetta Williams |
-| 473 | 164 | Stacy Jones |
-| 474 | 164 | DonMega |
+| 469 | 165 | Zappy Buildgrid |
+| 470 | 165 | Joshua Cuellar |
+| 471 | 165 | Stephanie Mico |
+| 472 | 164 | Stacy Jones |
+| 473 | 164 | DonMega |
+| 474 | 164 | Marvetta Williams |
 | 475 | 164 | Sholom Fried |
 | 476 | 163 | Brandon Link |
 | 477 | 163 | Cheaneen Livingston |
@@ -496,16 +496,16 @@
 | 488 | 160 | Sam Middleton |
 | 489 | 160 | icequeenx |
 | 490 | 159 | Groovy Brickmatch |
-| 491 | 158 | Jasmine S Caldwell |
-| 492 | 158 | Jen Mattei |
-| 493 | 158 | Jackie Clark |
+| 491 | 158 | Jackie Clark |
+| 492 | 158 | Jasmine S Caldwell |
+| 493 | 158 | Jen Mattei |
 | 494 | 157 | LunaMoon |
 | 495 | 157 | Ryry |
 | 496 | 157 | David Boggs |
 | 497 | 156 | Mighty Edgepiece |
-| 498 | 155 | Shirl |
-| 499 | 155 | tipsy tiger |
-| 500 | 155 | Faja |
+| 498 | 155 | Faja |
+| 499 | 155 | Shirl |
+| 500 | 155 | tipsy tiger |
 | 501 | 154 | Bryan Hodgins |
 | 502 | 154 | Happy Combo |
 | 503 | 153 | Ahleek Mitchell |

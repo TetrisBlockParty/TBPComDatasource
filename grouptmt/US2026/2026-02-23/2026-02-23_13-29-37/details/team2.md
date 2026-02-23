@@ -100,8 +100,8 @@
 | 92 | 2515 | Crystalin Heath Lewis |
 | 93 | 2500 | Rosemadder |
 | 94 | 2495 | Cherica Taylor |
-| 95 | 2437 | Adam Erikson |
-| 96 | 2437 | Ashley House |
+| 95 | 2437 | Ashley House |
+| 96 | 2437 | Adam Erikson |
 | 97 | 2432 | Thomas Hughes |
 | 98 | 2415 | Gabby Jenner |
 | 99 | 2412 | Mindy Leigh Head |
@@ -180,8 +180,8 @@
 | 172 | 1574 | Stephen Stephen |
 | 173 | 1567 | Juliana Marques Do Nascimento Gordy |
 | 174 | 1564 | Amy Sayers |
-| 175 | 1558 | Crystal Slaughter |
-| 176 | 1558 | Tim Dyer |
+| 175 | 1558 | Tim Dyer |
+| 176 | 1558 | Crystal Slaughter |
 | 177 | 1555 | blarg |
 | 178 | 1537 | Desiree Harris Rosch |
 | 179 | 1532 | Kara Gillen |
@@ -359,8 +359,8 @@
 | 351 | 926 | Deborah Miller |
 | 352 | 919 | Isaac Trappiel IV |
 | 353 | 918 | Amber Brion |
-| 354 | 917 | Nashu |
-| 355 | 917 | Jackie Burnett |
+| 354 | 917 | Jackie Burnett |
+| 355 | 917 | Nashu |
 | 356 | 916 | Butta |
 | 357 | 915 | Kelly Trent |
 | 358 | 914 | Shuany Arias |
@@ -885,8 +885,8 @@
 | 877 | 441 | Twisty Tetriblast |
 | 878 | 440 | Anthony D Gritz Jr |
 | 879 | 439 | Klaudia Figaszewska |
-| 880 | 438 | Deyawn Smith |
-| 881 | 438 | Kelly Amos |
+| 880 | 438 | Kelly Amos |
+| 881 | 438 | Deyawn Smith |
 | 882 | 438 | Tom Steffen |
 | 883 | 437 | Shalisa Hill |
 | 884 | 437 | Dee Blokk |
