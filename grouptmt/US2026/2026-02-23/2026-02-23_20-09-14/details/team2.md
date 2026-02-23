@@ -309,8 +309,8 @@
 | 301 | 1156 | Arkei Luster |
 | 302 | 1156 | Alezandra Smith |
 | 303 | 1145 | Deborah Miller |
-| 304 | 1142 | Sheniya Spurgeon |
-| 305 | 1142 | April Dawn Gussler |
+| 304 | 1142 | April Dawn Gussler |
+| 305 | 1142 | Sheniya Spurgeon |
 | 306 | 1140 | Kimberly Hauck-Rausch |
 | 307 | 1139 | Carl Bradshaw |
 | 308 | 1137 | Hillary Crawford |
@@ -318,8 +318,8 @@
 | 310 | 1131 | Tyler C. Jung |
 | 311 | 1120 | F-X |
 | 312 | 1115 | Sinistah42o |
-| 313 | 1114 | Julie Kresal |
-| 314 | 1114 | Kevin Walp |
+| 313 | 1114 | Kevin Walp |
+| 314 | 1114 | Julie Kresal |
 | 315 | 1110 | Ibiza Carolina LaRose |
 | 316 | 1109 | Melissa McCall |
 | 317 | 1105 | Sarah block |

@@ -323,9 +323,9 @@
 | 315 | 284 | Glitzy Corner |
 | 316 | 283 | Jackie Clark |
 | 317 | 282 | DQ Martin |
-| 318 | 281 | Morti |
-| 319 | 281 | rebel4lyfe |
-| 320 | 281 | Laura |
+| 318 | 281 | rebel4lyfe |
+| 319 | 281 | Laura |
+| 320 | 281 | Morti |
 | 321 | 279 | Brittany Marsh |
 | 322 | 278 | Angela Geist Jusinski |
 | 323 | 278 | Zethra Prenisha Rahming |
@@ -341,8 +341,8 @@
 | 333 | 272 | Tony Pavelka |
 | 334 | 272 | Dennis Bradley |
 | 335 | 271 | Holly |
-| 336 | 270 | 23 |
-| 337 | 270 | 07VHVW |
+| 336 | 270 | 07VHVW |
+| 337 | 270 | 23 |
 | 338 | 270 | Brittany Little |
 | 339 | 269 | Chummy Towerzone |
 | 340 | 268 | Shukee Lo |

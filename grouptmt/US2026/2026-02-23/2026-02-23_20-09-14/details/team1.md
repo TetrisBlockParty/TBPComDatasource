@@ -257,8 +257,8 @@
 | 249 | 344 | dhardy |
 | 250 | 341 | Nick R Montague |
 | 251 | 341 | DoodleBug |
-| 252 | 340 | Robert |
-| 253 | 340 | Danielle Little-Daugherty |
+| 252 | 340 | Danielle Little-Daugherty |
+| 253 | 340 | Robert |
 | 254 | 339 | Keith Mathis |
 | 255 | 338 | Layzietyme |
 | 256 | 337 | Jamise Brown |
@@ -336,8 +336,8 @@
 | 328 | 280 | Billie Dawn Sparks |
 | 329 | 279 | Chris Dawson |
 | 330 | 278 | Bob |
-| 331 | 277 | Nutty Spinblock |
-| 332 | 277 | Agustin Duarte Orozco |
+| 331 | 277 | Agustin Duarte Orozco |
+| 332 | 277 | Nutty Spinblock |
 | 333 | 276 | Blake Mckay |
 | 334 | 275 | Shiny Snapline |
 | 335 | 274 | Allena Craft |
@@ -354,8 +354,8 @@
 | 346 | 269 | Ric Hard Hernandez |
 | 347 | 269 | Speedy Snapfall |
 | 348 | 267 | Willy Michael |
-| 349 | 266 | Mary Love |
-| 350 | 266 | Thorne Shumate |
+| 349 | 266 | Thorne Shumate |
+| 350 | 266 | Mary Love |
 | 351 | 265 | Llewej Rekab |
 | 352 | 265 | Yahowah |
 | 353 | 264 | Frisky Base |
@@ -472,8 +472,8 @@
 | 464 | 207 | Liliana Pena |
 | 465 | 205 | Elizabeth Kubli |
 | 466 | 204 | Cranky Pattern |
-| 467 | 203 | Ashley Rodriguez |
-| 468 | 203 | Amie Fields |
+| 467 | 203 | Amie Fields |
+| 468 | 203 | Ashley Rodriguez |
 | 469 | 202 | grizzly |
 | 470 | 202 | Buttons Stemm |
 | 471 | 201 | Tedashi |

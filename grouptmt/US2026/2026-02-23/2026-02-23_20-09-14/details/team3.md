@@ -159,8 +159,8 @@
 | 151 | 779 | Justin Ritter |
 | 152 | 773 | Daryn Elliott |
 | 153 | 773 | Daira Largen |
-| 154 | 764 | Hasty Cascadefit |
-| 155 | 764 | Groovy Catcher |
+| 154 | 764 | Groovy Catcher |
+| 155 | 764 | Hasty Cascadefit |
 | 156 | 762 | Santeria Trece Candles |
 | 157 | 761 | Denita Mungro |
 | 158 | 761 | Peppy Shifter |
@@ -314,8 +314,8 @@
 | 306 | 409 | Desiree Gold |
 | 307 | 408 | Ashley Muncey |
 | 308 | 408 | Tiffany Ford |
-| 309 | 405 | Chris Bell |
-| 310 | 405 | Steffi Chris Dacones |
+| 309 | 405 | Steffi Chris Dacones |
+| 310 | 405 | Chris Bell |
 | 311 | 403 | lashanda |
 | 312 | 403 | Scott Lindsay |
 | 313 | 403 | Stephanie Burtin |
