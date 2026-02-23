@@ -155,11 +155,11 @@
 | 147 | 520 | Zippy Block |
 | 148 | 518 | Carly Alexis |
 | 149 | 516 | Trish |
-| 150 | 514 | Lucas J Sutton |
-| 151 | 514 | Scott Jameson |
+| 150 | 514 | Scott Jameson |
+| 151 | 514 | Lucas J Sutton |
 | 152 | 513 | Erin Thomas |
-| 153 | 512 | ThaEviLJeNiuZ |
-| 154 | 512 | Angela Srubar-Norman |
+| 153 | 512 | Angela Srubar-Norman |
+| 154 | 512 | ThaEviLJeNiuZ |
 | 155 | 512 | Casey Jeffcoat |
 | 156 | 508 | Twisty Clicky |
 | 157 | 502 | Ellen Durfee |
@@ -167,8 +167,8 @@
 | 159 | 498 | Melissa Adams |
 | 160 | 498 | Nope Young |
 | 161 | 496 | Jessica Lynn Cutlip |
-| 162 | 491 | Jade Rian |
-| 163 | 491 | Carrie Brian |
+| 162 | 491 | Carrie Brian |
+| 163 | 491 | Jade Rian |
 | 164 | 486 | Swanky Fitline |
 | 165 | 485 | Rico |
 | 166 | 480 | Brandon Crabbs |
@@ -394,8 +394,8 @@
 | 386 | 235 | LaDonna LovinmesomeMe Lambert |
 | 387 | 234 | Amanda Christine |
 | 388 | 234 | Diosa Ebalobo Magsael |
-| 389 | 234 | Richard-April Kice |
-| 390 | 234 | Shanon Klair |
+| 389 | 234 | Shanon Klair |
+| 390 | 234 | Richard-April Kice |
 | 391 | 233 | Joseph Edmonson |
 | 392 | 232 | Jenny Wells-Oakley |
 | 393 | 232 | Sallie Sanborn |

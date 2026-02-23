@@ -90,8 +90,8 @@
 | 82 | 1244 | Lori Barnaby |
 | 83 | 1240 | Betty Ivy |
 | 84 | 1221 | Logan Naccarato |
-| 85 | 1213 | Nerdy Riseclear |
-| 86 | 1213 | Snappy Glidepiece |
+| 85 | 1213 | Snappy Glidepiece |
+| 86 | 1213 | Nerdy Riseclear |
 | 87 | 1212 | Amanda Adkins |
 | 88 | 1187 | Danielle Mogg |
 | 89 | 1186 | Christian A. Pollard |
@@ -302,8 +302,8 @@
 | 294 | 426 | Gumbo |
 | 295 | 425 | Jennifer Alvey |
 | 296 | 421 | Snazzy Filler |
-| 297 | 420 | Sarah Moyer |
-| 298 | 420 | Sabrina Hardrick |
+| 297 | 420 | Sabrina Hardrick |
+| 298 | 420 | Sarah Moyer |
 | 299 | 417 | Giddy Twistbuilder |
 | 300 | 414 | RickyG |
 | 301 | 412 | Jojo M |
@@ -316,8 +316,8 @@
 | 308 | 408 | Ashley Muncey |
 | 309 | 405 | Steffi Chris Dacones |
 | 310 | 403 | lashanda |
-| 311 | 403 | Scott Lindsay |
-| 312 | 403 | Stephanie Burtin |
+| 311 | 403 | Stephanie Burtin |
+| 312 | 403 | Scott Lindsay |
 | 313 | 400 | Dana Winters |
 | 314 | 398 | France Vézina |
 | 315 | 398 | fraulila |
@@ -343,21 +343,21 @@
 | 335 | 375 | Joy Petroski |
 | 336 | 372 | Rich LeBlanc |
 | 337 | 371 | block chick |
-| 338 | 370 | Tasha Wesson-Torrence |
-| 339 | 370 | Roary Danner |
+| 338 | 370 | Roary Danner |
+| 339 | 370 | Tasha Wesson-Torrence |
 | 340 | 370 | Kirhonda Autmon |
 | 341 | 369 | Amber Glover |
 | 342 | 368 | Sheila M Frazier |
 | 343 | 368 | Stephanie Woods |
 | 344 | 367 | Swanky Snapclear |
-| 345 | 366 | Jul |
-| 346 | 366 | KayB |
-| 347 | 365 | Breanna Marsden |
-| 348 | 365 | LaShey Thompson |
+| 345 | 366 | KayB |
+| 346 | 366 | Jul |
+| 347 | 365 | LaShey Thompson |
+| 348 | 365 | Breanna Marsden |
 | 349 | 364 | ROODBOY |
 | 350 | 362 | Foltz Lee Kelli |
-| 351 | 362 | Brandon Givens |
-| 352 | 362 | Chummy Rumbler |
+| 351 | 362 | Chummy Rumbler |
+| 352 | 362 | Brandon Givens |
 | 353 | 361 | neci |
 | 354 | 359 | Kristen Weese |
 | 355 | 359 | Steven Fulater |
@@ -399,12 +399,12 @@
 | 391 | 331 | Maggie |
 | 392 | 330 | Big T |
 | 393 | 328 | Krystal Gerstberger |
-| 394 | 328 | Desiree Soto |
-| 395 | 328 | Cesar Mendez |
+| 394 | 328 | Cesar Mendez |
+| 395 | 328 | Desiree Soto |
 | 396 | 327 | Tiffanie Alley |
 | 397 | 327 | Jimmie Clemons |
-| 398 | 326 | Norma JulieMay |
-| 399 | 326 | Nelma |
+| 398 | 326 | Nelma |
+| 399 | 326 | Norma JulieMay |
 | 400 | 326 | Kerry Nowickshere |
 | 401 | 324 | Goofy Fall |
 | 402 | 324 | Blair Erin Waite |
@@ -561,8 +561,8 @@
 | 553 | 251 | Jennifer Neiman Gaal |
 | 554 | 251 | Valerie Tarkington |
 | 555 | 251 | Colleen Phelps |
-| 556 | 250 | Beck Nicole |
-| 557 | 250 | Marcus Payton |
+| 556 | 250 | Marcus Payton |
+| 557 | 250 | Beck Nicole |
 | 558 | 250 | Bekah Dietrich |
 | 559 | 249 | Sarah Tschee |
 | 560 | 248 | Trey Ward |
