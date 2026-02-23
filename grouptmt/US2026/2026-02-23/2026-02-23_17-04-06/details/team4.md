@@ -251,8 +251,8 @@
 | 243 | 330 | Kathy Brookins |
 | 244 | 329 | Brickh4us |
 | 245 | 324 | jim |
-| 246 | 324 | TinyLegoRose |
-| 247 | 324 | Lauren Lamb |
+| 246 | 324 | Lauren Lamb |
+| 247 | 324 | TinyLegoRose |
 | 248 | 321 | Meagan Nicole |
 | 249 | 317 | Madison Sweere |
 | 250 | 316 | Autumn Kumzi |
@@ -276,9 +276,9 @@
 | 268 | 303 | Rebecca Morris |
 | 269 | 300 | Dana Scott |
 | 270 | 297 | Kenna Gunderland |
-| 271 | 295 | Keshia Lyons |
-| 272 | 295 | Lora |
-| 273 | 295 | Joeliecea Cobb |
+| 271 | 295 | Lora |
+| 272 | 295 | Joeliecea Cobb |
+| 273 | 295 | Keshia Lyons |
 | 274 | 294 | Calvin Cannon |
 | 275 | 292 | Epic Curvetile |
 | 276 | 292 | Angel Raya |

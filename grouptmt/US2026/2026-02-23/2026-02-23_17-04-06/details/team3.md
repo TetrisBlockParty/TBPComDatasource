@@ -124,8 +124,8 @@
 | 116 | 896 | Jesse Olive |
 | 117 | 878 | Shane Wilson Jr. |
 | 118 | 874 | Jessica Pineda-Lopez |
-| 119 | 868 | Felicia Rocha |
-| 120 | 868 | Sarajane Lokan |
+| 119 | 868 | Sarajane Lokan |
+| 120 | 868 | Felicia Rocha |
 | 121 | 864 | Sunny Rotater |
 | 122 | 856 | Kristie |
 | 123 | 848 | Patricia Gadsden |
@@ -140,8 +140,8 @@
 | 132 | 783 | Julian Murphy |
 | 133 | 779 | Justin Ritter |
 | 134 | 774 | Keith J Oshman Jr. |
-| 135 | 773 | Tasha Schriewer |
-| 136 | 773 | Daira Largen |
+| 135 | 773 | Daira Largen |
+| 136 | 773 | Tasha Schriewer |
 | 137 | 770 | Daryn Elliott |
 | 138 | 767 | Loopy Fallmatch |
 | 139 | 764 | Groovy Catcher |
@@ -218,8 +218,8 @@
 | 210 | 549 | Sarah Cowan Burgos |
 | 211 | 548 | Danielle Balcom |
 | 212 | 547 | Staci George Fitzsimmons |
-| 213 | 546 | Mykal Burton |
-| 214 | 546 | Cynthia Castros-Hampton |
+| 213 | 546 | Cynthia Castros-Hampton |
+| 214 | 546 | Mykal Burton |
 | 215 | 544 | Trisha Balmer |
 | 216 | 540 | Shawn Miller |
 | 217 | 539 | Betty Bóò |
@@ -228,8 +228,8 @@
 | 220 | 531 | Chauntee Alfrey-Cardinale |
 | 221 | 531 | Aerian Preston |
 | 222 | 530 | Stephanie Blkpep Davidson |
-| 223 | 524 | Terry Jo Jones |
-| 224 | 524 | Shannon Matthew Byers |
+| 223 | 524 | Shannon Matthew Byers |
+| 224 | 524 | Terry Jo Jones |
 | 225 | 519 | Nichol Graham |
 | 226 | 516 | Daring Brickzone |
 | 227 | 515 | Cozy Snaplink |
@@ -293,11 +293,11 @@
 | 285 | 414 | RickyG |
 | 286 | 412 | Jojo M |
 | 287 | 411 | Megan Rathmanner |
-| 288 | 410 | Brian Battjes |
-| 289 | 410 | Duane Bright |
+| 288 | 410 | Duane Bright |
+| 289 | 410 | Brian Battjes |
 | 290 | 408 | Tiffany Ford |
-| 291 | 408 | Cyd061769 |
-| 292 | 408 | Ashley Muncey |
+| 291 | 408 | Ashley Muncey |
+| 292 | 408 | Cyd061769 |
 | 293 | 406 | Kristal C Lee |
 | 294 | 405 | Desiree Gold |
 | 295 | 405 | Steffi Chris Dacones |
@@ -319,13 +319,13 @@
 | 311 | 378 | Chris Bell |
 | 312 | 378 | MsBee |
 | 313 | 375 | Stephanie Burtin |
-| 314 | 372 | Christian Werndl |
-| 315 | 372 | Rich LeBlanc |
+| 314 | 372 | Rich LeBlanc |
+| 315 | 372 | Christian Werndl |
 | 316 | 371 | block chick |
 | 317 | 370 | Samantha Lynn |
 | 318 | 369 | Amber Glover |
-| 319 | 368 | Sheila M Frazier |
-| 320 | 368 | Stephanie Woods |
+| 319 | 368 | Stephanie Woods |
+| 320 | 368 | Sheila M Frazier |
 | 321 | 366 | KayB |
 | 322 | 365 | Andrew Thorson |
 | 323 | 365 | Dee Pratt |
@@ -499,14 +499,14 @@
 | 491 | 262 | Kevin Russell |
 | 492 | 261 | Giggly Brickroll |
 | 493 | 261 | Kassie Dominique Rathbone |
-| 494 | 260 | Alice |
-| 495 | 260 | Tracey Cox |
+| 494 | 260 | Tracey Cox |
+| 495 | 260 | Alice |
 | 496 | 259 | Shania Vaine |
-| 497 | 258 | Dana Fox |
-| 498 | 258 | Paul Daniel Quertermous |
+| 497 | 258 | Paul Daniel Quertermous |
+| 498 | 258 | Dana Fox |
 | 499 | 258 | Jl |
-| 500 | 257 | Saucy Buildout |
-| 501 | 257 | Jana Polk |
+| 500 | 257 | Jana Polk |
+| 501 | 257 | Saucy Buildout |
 | 502 | 257 | Rachel Napper |
 | 503 | 257 | Funky Brickster |
 | 504 | 257 | Chris Wallace |

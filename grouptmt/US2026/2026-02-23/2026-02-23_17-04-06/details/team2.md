@@ -202,8 +202,8 @@
 | 194 | 1532 | Dee |
 | 195 | 1513 | Offonar Facey |
 | 196 | 1511 | Melissa Penelope Ann Dodge |
-| 197 | 1509 | Whitney Nicole Waterman |
-| 198 | 1509 | Howard Forest |
+| 197 | 1509 | Howard Forest |
+| 198 | 1509 | Whitney Nicole Waterman |
 | 199 | 1507 | Kiok |
 | 200 | 1504 | Hannah Erskine |
 | 201 | 1488 | Sommer Shope |
@@ -309,8 +309,8 @@
 | 301 | 1089 | Tyler C. Jung |
 | 302 | 1089 | Wakanda Forever |
 | 303 | 1086 | Deborah Miller |
-| 304 | 1079 | Angela Bonquiqui Dinish |
-| 305 | 1079 | Jennifer Kistner |
+| 304 | 1079 | Jennifer Kistner |
+| 305 | 1079 | Angela Bonquiqui Dinish |
 | 306 | 1076 | Cindy Sechler Taninecz |
 | 307 | 1073 | Jodi Blake |
 | 308 | 1072 | BK Queen |
@@ -321,8 +321,8 @@
 | 313 | 1065 | Dany Murillo |
 | 314 | 1059 | Bri Lynn |
 | 315 | 1052 | Desiree Anderson |
-| 316 | 1050 | Amber Brion |
-| 317 | 1050 | Jennifer Aiken |
+| 316 | 1050 | Jennifer Aiken |
+| 317 | 1050 | Amber Brion |
 | 318 | 1049 | Ashlen Dorrell |
 | 319 | 1047 | Tiffany Branham |
 | 320 | 1045 | Lourisha |
@@ -376,8 +376,8 @@
 | 368 | 941 | Cool Clearer |
 | 369 | 939 | Mighty Shatterfit |
 | 370 | 937 | Andrew Willis |
-| 371 | 933 | Nicole Cannon |
-| 372 | 933 | Bee |
+| 371 | 933 | Bee |
+| 372 | 933 | Nicole Cannon |
 | 373 | 929 | Ellie Jonas |
 | 374 | 928 | Elizabeth Wilbanks |
 | 375 | 927 | Christine Egidio Morocco |
@@ -426,8 +426,8 @@
 | 418 | 844 | Terri McKelvey McKinley |
 | 419 | 843 | Quirky Twistline |
 | 420 | 841 | AgileDragon |
-| 421 | 840 | Kiana Boschh |
-| 422 | 840 | Traci Johnson |
+| 421 | 840 | Traci Johnson |
+| 422 | 840 | Kiana Boschh |
 | 423 | 836 | KhaosLord |
 | 424 | 835 | Moni Foxe |
 | 425 | 834 | Montez Mancil |
@@ -564,8 +564,8 @@
 | 556 | 679 | Prette Qui |
 | 557 | 679 | Kassandra Hunt |
 | 558 | 677 | Kayleigh Wisse |
-| 559 | 677 | Cynthia Louann Rose |
-| 560 | 677 | Paul Combs |
+| 559 | 677 | Paul Combs |
+| 560 | 677 | Cynthia Louann Rose |
 | 561 | 676 | Roseanna Peloso |
 | 562 | 676 | Nicky Jackson |
 | 563 | 675 | Lyndi Robinson Wakefield |
@@ -599,14 +599,14 @@
 | 591 | 651 | Unica Rector |
 | 592 | 649 | Hunter Connors |
 | 593 | 648 | Emilee Burke |
-| 594 | 647 | Jackie Avila |
-| 595 | 647 | CC |
+| 594 | 647 | CC |
+| 595 | 647 | Jackie Avila |
 | 596 | 647 | Jenn Marie |
 | 597 | 645 | Shiny Twistfit |
 | 598 | 645 | James Smith |
 | 599 | 645 | Andre Love |
-| 600 | 643 | Michelle Pike |
-| 601 | 643 | Stephanie Fortune |
+| 600 | 643 | Stephanie Fortune |
+| 601 | 643 | Michelle Pike |
 | 602 | 642 | snkylnk |
 | 603 | 642 | Michelle Fields |
 | 604 | 641 | Snazzy Basepiece |
