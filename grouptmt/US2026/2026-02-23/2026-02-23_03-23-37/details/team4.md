@@ -133,8 +133,8 @@
 | 125 | 452 | Jolly Dashfit |
 | 126 | 451 | Peachy Fall |
 | 127 | 448 | Kristin Manee |
-| 128 | 435 | Leslie Thomas |
-| 129 | 435 | Kristina Black |
+| 128 | 435 | Kristina Black |
+| 129 | 435 | Leslie Thomas |
 | 130 | 431 | Courtney Cicoria |
 | 131 | 421 | Kesha Brady |
 | 132 | 421 | Monica Daley |
@@ -156,8 +156,8 @@
 | 148 | 391 | Livvy |
 | 149 | 391 | Ramel Rhodes |
 | 150 | 389 | Joseph Guthrie |
-| 151 | 387 | 🥔🥔 Spudz |
-| 152 | 387 | Lucas J Sutton |
+| 151 | 387 | Lucas J Sutton |
+| 152 | 387 | 🥔🥔 Spudz |
 | 153 | 377 | Carrie Brian |
 | 154 | 375 | ThaEviLJeNiuZ |
 | 155 | 375 | Desi Desporte |
@@ -169,8 +169,8 @@
 | 161 | 368 | Raegan Lane-Ross |
 | 162 | 368 | Silly Zonebuilder |
 | 163 | 365 | Lindsey Gonzalez |
-| 164 | 361 | Melissa Adams |
-| 165 | 361 | Danielle Kollias |
+| 164 | 361 | Danielle Kollias |
+| 165 | 361 | Melissa Adams |
 | 166 | 358 | A5! |
 | 167 | 356 | George Nutt |
 | 168 | 352 | Sue Joyce Staats |
