@@ -44,8 +44,8 @@
 | 36 | 4199 | Claire Noland |
 | 37 | 4128 | Angela Pruitt |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Kristen Sceurman |
-| 40 | 4120 | Corrine Hawks Soriano |
+| 39 | 4120 | Corrine Hawks Soriano |
+| 40 | 4120 | Kristen Sceurman |
 | 41 | 3813 | Devin Lee |
 | 42 | 3778 | Brittany Alicia |
 | 43 | 3736 | Alisha |
@@ -207,23 +207,23 @@
 | 199 | 1306 | Isabela Shaw |
 | 200 | 1300 | Tacara Cummings |
 | 201 | 1286 | Altamirano Michael |
-| 202 | 1282 | Tanya Parsons |
-| 203 | 1282 | Ashley Rose Frederick |
+| 202 | 1282 | Ashley Rose Frederick |
+| 203 | 1282 | Tanya Parsons |
 | 204 | 1278 | Lemonaide |
 | 205 | 1259 | Foxxo |
 | 206 | 1258 | Joyce Johnson Vaughn |
 | 207 | 1252 | Angel |
 | 208 | 1245 | Cody Nishimura |
 | 209 | 1237 | Megan Ferguson Leone |
-| 210 | 1232 | Groovy Puzzle |
-| 211 | 1232 | Ambyre Patterson |
+| 210 | 1232 | Ambyre Patterson |
+| 211 | 1232 | Groovy Puzzle |
 | 212 | 1230 | Megan Garrick |
-| 213 | 1217 | Lucky Ladybug |
-| 214 | 1217 | Brooks Brooks |
+| 213 | 1217 | Brooks Brooks |
+| 214 | 1217 | Lucky Ladybug |
 | 215 | 1214 | David Cudicio-Hayden |
 | 216 | 1210 | Jane Fong |
-| 217 | 1205 | Tony Lea |
-| 218 | 1205 | Tralonda Weeks |
+| 217 | 1205 | Tralonda Weeks |
+| 218 | 1205 | Tony Lea |
 | 219 | 1202 | Brandon Armstrong |
 | 220 | 1198 | Carrie Trigg |
 | 221 | 1198 | Pacynthia Williams |
@@ -462,8 +462,8 @@
 | 454 | 699 | Dannette Goldberg-Richards |
 | 455 | 698 | Joce Lynn |
 | 456 | 697 | Ashle Scranton |
-| 457 | 695 | Irene Jones |
-| 458 | 695 | Lakeysha Dortch |
+| 457 | 695 | Lakeysha Dortch |
+| 458 | 695 | Irene Jones |
 | 459 | 693 | Ryan Stadel |
 | 460 | 692 | Shaun Church |
 | 461 | 691 | Poldo Ilano |
@@ -902,8 +902,8 @@
 | 894 | 391 | Poppy Gridder |
 | 895 | 390 | Smiley Strike |
 | 896 | 390 | MauroPRM |
-| 897 | 390 | Tasia Stinson |
-| 898 | 390 | Aireka Roman |
+| 897 | 390 | Aireka Roman |
+| 898 | 390 | Tasia Stinson |
 | 899 | 390 | Sonya Back |
 | 900 | 389 | Denisse Avilez |
 | 901 | 389 | Loony Basepiece |

@@ -58,8 +58,8 @@
 | 50 | 863 | Pee |
 | 51 | 855 | Marvin Lou Martin |
 | 52 | 853 | TeeJ |
-| 53 | 846 | Lucille Truesdale |
-| 54 | 846 | Christine Marie |
+| 53 | 846 | Christine Marie |
+| 54 | 846 | Lucille Truesdale |
 | 55 | 845 | LisaJo Picken Buchanan |
 | 56 | 843 | Shelly Chandler |
 | 57 | 834 | quicksand420 |
@@ -87,8 +87,8 @@
 | 79 | 703 | Savannah Overdorf |
 | 80 | 697 | Alyssa Papen |
 | 81 | 696 | Shane Kalamata Platoon |
-| 82 | 684 | Jonathan Kimbrough |
-| 83 | 684 | Kimyatta Cavin |
+| 82 | 684 | Kimyatta Cavin |
+| 83 | 684 | Jonathan Kimbrough |
 | 84 | 677 | Trista Leah |
 | 85 | 673 | Jacqueline Helm |
 | 86 | 670 | Destiney Carter |
@@ -123,8 +123,8 @@
 | 115 | 514 | Scott Jameson |
 | 116 | 514 | Serena Goodridge |
 | 117 | 513 | Erin Thomas |
-| 118 | 512 | Casey Jeffcoat |
-| 119 | 512 | Cristy Duerksen |
+| 118 | 512 | Cristy Duerksen |
+| 119 | 512 | Casey Jeffcoat |
 | 120 | 511 | Lori Walker |
 | 121 | 482 | Ren Mc |
 | 122 | 481 | Jessica Lynn Cutlip |
@@ -156,8 +156,8 @@
 | 148 | 399 | Swanky Fitline |
 | 149 | 398 | Tyler Terrific |
 | 150 | 397 | Livvy |
-| 151 | 393 | Carlton Unfiltered |
-| 152 | 393 | Girl |
+| 151 | 393 | Girl |
+| 152 | 393 | Carlton Unfiltered |
 | 153 | 391 | Ramel Rhodes |
 | 154 | 389 | Joseph Guthrie |
 | 155 | 387 | Lucas J Sutton |
@@ -182,8 +182,8 @@
 | 174 | 349 | Twisty Cascadezone |
 | 175 | 349 | Rafael Valentin |
 | 176 | 348 | April Rondinone |
-| 177 | 347 | Daria Rycewicz |
-| 178 | 347 | Crystal Nicolette Moore |
+| 177 | 347 | Crystal Nicolette Moore |
+| 178 | 347 | Daria Rycewicz |
 | 179 | 339 | David Lay |
 | 180 | 338 | Andy Cabral |
 | 181 | 334 | Kris Bartlett |
@@ -288,8 +288,8 @@
 | 280 | 234 | Richard-April Kice |
 | 281 | 233 | Ruben Wheeler |
 | 282 | 228 | Bethany Ison |
-| 283 | 226 | Cranky Rollpiece |
-| 284 | 226 | Dizzy Matchzone |
+| 283 | 226 | Dizzy Matchzone |
+| 284 | 226 | Cranky Rollpiece |
 | 285 | 225 | Jenna McGeorge |
 | 286 | 224 | Ultramarine |
 | 287 | 223 | Amanda Christine |

@@ -35,8 +35,8 @@
 | 27 | 1191 | Nerdy Linkblock |
 | 28 | 1171 | Tyler Alcock |
 | 29 | 1132 | Christina Graham |
-| 30 | 1126 | Felicia Lewis |
-| 31 | 1126 | Tater |
+| 30 | 1126 | Tater |
+| 31 | 1126 | Felicia Lewis |
 | 32 | 1119 | june october |
 | 33 | 1114 | Jayme Sellers |
 | 34 | 1069 | Bhelle Sumile |

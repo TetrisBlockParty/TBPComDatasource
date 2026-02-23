@@ -167,8 +167,8 @@
 | 159 | 591 | Michael Nowogorski |
 | 160 | 588 | Justin Ritter |
 | 161 | 587 | Louise Stacy Sisson |
-| 162 | 585 | Happy Tetriblast |
-| 163 | 585 | Annie Marie |
+| 162 | 585 | Annie Marie |
+| 163 | 585 | Happy Tetriblast |
 | 164 | 582 | Natasha Jones |
 | 165 | 579 | Tasha Gillespie |
 | 166 | 577 | Domo Washington |
@@ -181,13 +181,13 @@
 | 173 | 558 | Patti Skiles |
 | 174 | 556 | Elissa S-k |
 | 175 | 553 | LaTanya GeminiondaRise Johnson |
-| 176 | 546 | Mykal Burton |
-| 177 | 546 | Cynthia Castros-Hampton |
+| 176 | 546 | Cynthia Castros-Hampton |
+| 177 | 546 | Mykal Burton |
 | 178 | 541 | Tasha Schriewer |
 | 179 | 540 | Shawn Miller |
 | 180 | 535 | Jone |
-| 181 | 531 | Sarah Cowan Burgos |
-| 182 | 531 | Chauntee Alfrey-Cardinale |
+| 181 | 531 | Chauntee Alfrey-Cardinale |
+| 182 | 531 | Sarah Cowan Burgos |
 | 183 | 528 | Silly Twist |
 | 184 | 524 | Bmo |
 | 185 | 519 | rnr junky |
@@ -197,8 +197,8 @@
 | 189 | 507 | Jim Mathews |
 | 190 | 502 | Snappy Balancer |
 | 191 | 500 | Sherika C. McDaniels |
-| 192 | 496 | Makelini Mausia |
-| 193 | 496 | Loopy Fallmatch |
+| 192 | 496 | Loopy Fallmatch |
+| 193 | 496 | Makelini Mausia |
 | 194 | 494 | FuzzyNavel |
 | 195 | 489 | Terry Jo Jones |
 | 196 | 489 | Poppy Splitter |
