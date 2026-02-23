@@ -314,8 +314,8 @@
 | 306 | 201 | Colleen Wise |
 | 307 | 201 | Beau Galvan |
 | 308 | 200 | Silly Align |
-| 309 | 199 | Christina Norman |
-| 310 | 199 | Tina Englert |
+| 309 | 199 | Tina Englert |
+| 310 | 199 | Christina Norman |
 | 311 | 197 | build master |
 | 312 | 196 | Marci Sanders |
 | 313 | 196 | .running. |

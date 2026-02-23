@@ -103,8 +103,8 @@
 | 95 | 586 | Latisha Davis |
 | 96 | 585 | Jamie Gustafson |
 | 97 | 568 | Chris Baggett |
-| 98 | 561 | H.R. Block |
-| 99 | 561 | Amy Suckarieh |
+| 98 | 561 | Amy Suckarieh |
+| 99 | 561 | H.R. Block |
 | 100 | 557 | Carmethia Clemons Haslerig |
 | 101 | 556 | Trista Leah |
 | 102 | 533 | Samantha Peterson |
@@ -206,8 +206,8 @@
 | 198 | 290 | Keshia Lyons |
 | 199 | 288 | Leah Kutz Zirbel |
 | 200 | 287 | Plucky Patternblock |
-| 201 | 286 | Sam Bishop |
-| 202 | 286 | Brittney Orengo |
+| 201 | 286 | Brittney Orengo |
+| 202 | 286 | Sam Bishop |
 | 203 | 285 | Chris Bernstein |
 | 204 | 282 | Matt Gooder |
 | 205 | 281 | Nikki Rae Gordon |
@@ -240,16 +240,16 @@
 | 232 | 251 | Adam Stephanie Parker |
 | 233 | 251 | Carol Ricks Raymond |
 | 234 | 249 | Ak Jones |
-| 235 | 248 | Jose Dejesus |
-| 236 | 248 | Chirpy Basepiece |
+| 235 | 248 | Chirpy Basepiece |
+| 236 | 248 | Jose Dejesus |
 | 237 | 246 | Metsfan |
 | 238 | 246 | Zethra Prenisha Rahming |
 | 239 | 245 | Autum Leigh |
 | 240 | 245 | 23 |
 | 241 | 243 | Nick Gray |
 | 242 | 241 | Allen Lloyd |
-| 243 | 240 | Perky Patternblock |
-| 244 | 240 | Kim Hunt |
+| 243 | 240 | Kim Hunt |
+| 244 | 240 | Perky Patternblock |
 | 245 | 238 | Chaz |
 | 246 | 237 | 030Synner |
 | 247 | 237 | Christine Therrien |
@@ -656,8 +656,8 @@
 | 648 | 92 | Sho Nuff |
 | 649 | 92 | mitch |
 | 650 | 91 | Tawna Curry |
-| 651 | 91 | Rhys Morgan |
-| 652 | 91 | Josh Chapell |
+| 651 | 91 | Josh Chapell |
+| 652 | 91 | Rhys Morgan |
 | 653 | 91 | Paul Abono |
 | 654 | 90 | Christian Torres |
 | 655 | 90 | Laurie McGregor |
