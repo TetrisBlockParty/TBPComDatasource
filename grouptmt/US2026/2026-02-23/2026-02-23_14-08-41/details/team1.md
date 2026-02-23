@@ -81,8 +81,8 @@
 | 73 | 760 | Seante Bullock |
 | 74 | 750 | Cartier |
 | 75 | 740 | Lori Sanders- Davis |
-| 76 | 713 | Snappy Swiper |
-| 77 | 713 | Robert Benito |
+| 76 | 713 | Robert Benito |
+| 77 | 713 | Snappy Swiper |
 | 78 | 704 | Karin Gillen |
 | 79 | 703 | Angel Fowler |
 | 80 | 700 | Jason Jones |
@@ -169,8 +169,8 @@
 | 161 | 399 | Nery Martinez |
 | 162 | 397 | Erin Rosberg |
 | 163 | 394 | Lori Bales |
-| 164 | 393 | Kimmie Kimms |
-| 165 | 393 | Lehrin Maria |
+| 164 | 393 | Lehrin Maria |
+| 165 | 393 | Kimmie Kimms |
 | 166 | 391 | Basment Living |
 | 167 | 387 | Kimberly Garcia |
 | 168 | 387 | Carrie Smith |

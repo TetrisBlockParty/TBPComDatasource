@@ -105,8 +105,8 @@
 | 97 | 667 | Amy Suckarieh |
 | 98 | 659 | Jamie Gustafson |
 | 99 | 650 | KJ Pool |
-| 100 | 647 | Shauna Havard |
-| 101 | 647 | KM8 |
+| 100 | 647 | KM8 |
+| 101 | 647 | Shauna Havard |
 | 102 | 637 | Lori Walker |
 | 103 | 635 | Adawna Swires |
 | 104 | 631 | H.R. Block |
@@ -126,8 +126,8 @@
 | 118 | 552 | Chilly Crasher |
 | 119 | 551 | Ren Mc |
 | 120 | 545 | Desi Desporte |
-| 121 | 542 | Chris Hartig |
-| 122 | 542 | Austin Owens |
+| 121 | 542 | Austin Owens |
+| 122 | 542 | Chris Hartig |
 | 123 | 540 | Rodney McMath Jr. |
 | 124 | 538 | shar |
 | 125 | 537 | Dizzy Tiley |

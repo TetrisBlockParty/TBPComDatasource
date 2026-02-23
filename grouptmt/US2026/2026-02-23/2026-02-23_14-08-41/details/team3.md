@@ -152,8 +152,8 @@
 | 144 | 717 | Alaina Lee |
 | 145 | 716 | Annie Marie |
 | 146 | 714 | Jenny Hrndz |
-| 147 | 710 | Grego Daniel |
-| 148 | 710 | Santeria Trece Candles |
+| 147 | 710 | Santeria Trece Candles |
+| 148 | 710 | Grego Daniel |
 | 149 | 706 | Kiki |
 | 150 | 702 | Patty Allen |
 | 151 | 696 | Christine Niles |
@@ -172,8 +172,8 @@
 | 164 | 630 | yoyo |
 | 165 | 629 | rnr junky |
 | 166 | 622 | Denita Mungro |
-| 167 | 621 | Sashay Tapae Simpson |
-| 168 | 621 | Cherry Parker |
+| 167 | 621 | Cherry Parker |
+| 168 | 621 | Sashay Tapae Simpson |
 | 169 | 616 | Kammy Hill |
 | 170 | 611 | Rochelle Hazelett |
 | 171 | 603 | Jone |
@@ -221,8 +221,8 @@
 | 213 | 502 | Snappy Balancer |
 | 214 | 498 | Melissa Orth Hunter |
 | 215 | 496 | Loopy Fallmatch |
-| 216 | 494 | FuzzyNavel |
-| 217 | 494 | Connie Mohler-Fair |
+| 216 | 494 | Connie Mohler-Fair |
+| 217 | 494 | FuzzyNavel |
 | 218 | 491 | Michael Johnson |
 | 219 | 488 | joz |
 | 220 | 485 | Dapper Snap |
@@ -355,8 +355,8 @@
 | 347 | 325 | Tasha Wesson-Torrence |
 | 348 | 324 | neci |
 | 349 | 324 | Sissy Lowery Davis |
-| 350 | 323 | Sharisse Baltimore |
-| 351 | 323 | Spencer Nikki |
+| 350 | 323 | Spencer Nikki |
+| 351 | 323 | Sharisse Baltimore |
 | 352 | 322 | Nena Somerville Kelly |
 | 353 | 322 | Beth Smith |
 | 354 | 321 | Wettnippz |
