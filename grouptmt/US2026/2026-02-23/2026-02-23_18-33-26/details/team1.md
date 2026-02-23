@@ -92,8 +92,8 @@
 | 84 | 735 | Cynthia Bradley |
 | 85 | 713 | Robert Benito |
 | 86 | 710 | Jennifer ManWarren |
-| 87 | 706 | Denice Dee |
-| 88 | 706 | Plucky Fallzone |
+| 87 | 706 | Plucky Fallzone |
+| 88 | 706 | Denice Dee |
 | 89 | 704 | Karin Gillen |
 | 90 | 704 | Jason Jones |
 | 91 | 703 | Kellie |
@@ -153,8 +153,8 @@
 | 145 | 483 | Trina Gee |
 | 146 | 478 | Sarah Somers Gray |
 | 147 | 477 | Tonya Beasley |
-| 148 | 475 | Plucky Ziggy |
-| 149 | 475 | Adrian Esteban |
+| 148 | 475 | Adrian Esteban |
+| 149 | 475 | Plucky Ziggy |
 | 150 | 473 | Nery Martinez |
 | 151 | 470 | Candy Jones |
 | 152 | 467 | Constance Risner |

@@ -334,8 +334,8 @@
 | 326 | 1063 | Em Chen |
 | 327 | 1059 | Bri Lynn |
 | 328 | 1052 | Desiree Anderson |
-| 329 | 1050 | Amber Brion |
-| 330 | 1050 | Jennifer Aiken |
+| 329 | 1050 | Jennifer Aiken |
+| 330 | 1050 | Amber Brion |
 | 331 | 1049 | Ashlen Dorrell |
 | 332 | 1047 | Tiffany Branham |
 | 333 | 1045 | Lourisha |
@@ -870,8 +870,8 @@
 | 862 | 496 | Shyenn Gadsby |
 | 863 | 496 | Shyne Sun |
 | 864 | 495 | Brandon Jones |
-| 865 | 495 | Giggy Grabber |
-| 866 | 495 | Kamilya Rembert |
+| 865 | 495 | Kamilya Rembert |
+| 866 | 495 | Giggy Grabber |
 | 867 | 495 | cel505♡ |
 | 868 | 494 | Cat Thompson |
 | 869 | 494 | Mike73 |
@@ -1157,11 +1157,11 @@
 | 1149 | 398 | Candace Noel |
 | 1150 | 398 | Kendall Fullerton |
 | 1151 | 398 | David Standry |
-| 1152 | 397 | Janessa Pafford |
-| 1153 | 397 | Jessica Conaway |
+| 1152 | 397 | Jessica Conaway |
+| 1153 | 397 | Janessa Pafford |
 | 1154 | 397 | Megan Nevarez |
-| 1155 | 396 | Monique Foster |
-| 1156 | 396 | Cassie Newton |
+| 1155 | 396 | Cassie Newton |
+| 1156 | 396 | Monique Foster |
 | 1157 | 396 | Debbie Gerlib-Molinari Leigh |
 | 1158 | 396 | Amy Humphreys |
 | 1159 | 395 | Ashley McCarthy-Arnone |

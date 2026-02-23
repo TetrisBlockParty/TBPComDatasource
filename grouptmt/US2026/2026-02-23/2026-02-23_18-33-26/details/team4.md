@@ -192,8 +192,8 @@
 | 184 | 426 | Rebecca Morris |
 | 185 | 426 | 🥔🥔 Spudz |
 | 186 | 425 | Damn Libra |
-| 187 | 424 | J-Rizzle |
-| 188 | 424 | Keshia Lyons |
+| 187 | 424 | Keshia Lyons |
+| 188 | 424 | J-Rizzle |
 | 189 | 423 | Crystal Nicolette Moore |
 | 190 | 422 | Zakia Monae |
 | 191 | 421 | JIGsaw ~(•¿°)~ |
@@ -223,10 +223,10 @@
 | 215 | 381 | Plucky Patternblock |
 | 216 | 380 | Rio Rocha |
 | 217 | 379 | Backoff Recupe |
-| 218 | 378 | Silly Zonebuilder |
-| 219 | 378 | Lauren Scott |
-| 220 | 376 | Zesty Twistbuilder |
-| 221 | 376 | shark tato |
+| 218 | 378 | Lauren Scott |
+| 219 | 378 | Silly Zonebuilder |
+| 220 | 376 | shark tato |
+| 221 | 376 | Zesty Twistbuilder |
 | 222 | 374 | Mr. Party |
 | 223 | 372 | JPW |
 | 224 | 368 | Holly Jolly |
@@ -238,14 +238,14 @@
 | 230 | 361 | Mimi |
 | 231 | 361 | Rafael Valentin |
 | 232 | 361 | Danielle Kollias |
-| 233 | 358 | A5! |
-| 234 | 358 | Twisty Cascadezone |
+| 233 | 358 | Twisty Cascadezone |
+| 234 | 358 | A5! |
 | 235 | 357 | KimoKoala |
 | 236 | 356 | Joeliecea Cobb |
 | 237 | 355 | James Hurley Jr. |
 | 238 | 355 | Andrew Dang |
-| 239 | 354 | TRCuse |
-| 240 | 354 | Kris Bartlett |
+| 239 | 354 | Kris Bartlett |
+| 240 | 354 | TRCuse |
 | 241 | 351 | Lindsay Ball |
 | 242 | 348 | David Lay |
 | 243 | 347 | scott |
@@ -480,8 +480,8 @@
 | 472 | 191 | Earnest Thompson |
 | 473 | 191 | Jobadia Steelerton |
 | 474 | 191 | Norman Klick |
-| 475 | 190 | Jacob Campbell |
-| 476 | 190 | wombat |
+| 475 | 190 | wombat |
+| 476 | 190 | Jacob Campbell |
 | 477 | 190 | Robert Rangel |
 | 478 | 189 | Marcus TheeyoungWoe Gilmore |
 | 479 | 188 | Frilly Blocky |
