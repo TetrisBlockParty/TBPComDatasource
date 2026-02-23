@@ -135,8 +135,8 @@
 | 127 | 752 | Logan Naccarato |
 | 128 | 748 | Adrian Marcel Pate |
 | 129 | 745 | JerseyJess |
-| 130 | 744 | Leah Barnett |
-| 131 | 744 | Fancy Cascader |
+| 130 | 744 | Fancy Cascader |
+| 131 | 744 | Leah Barnett |
 | 132 | 736 | mzcatzy |
 | 133 | 734 | Calista Jo Dickson |
 | 134 | 728 | Peppy Shifter |
@@ -202,8 +202,8 @@
 | 194 | 528 | Silly Twist |
 | 195 | 525 | Stephanie Blkpep Davidson |
 | 196 | 524 | Bmo |
-| 197 | 519 | Terry Jo Jones |
-| 198 | 519 | rnr junky |
+| 197 | 519 | rnr junky |
+| 198 | 519 | Terry Jo Jones |
 | 199 | 515 | Cozy Snaplink |
 | 200 | 510 | Makelini Mausia |
 | 201 | 503 | Tye Stovall |
@@ -575,8 +575,8 @@
 | 567 | 191 | Becca Engle |
 | 568 | 191 | Peachy Tower |
 | 569 | 191 | Sarah Tschee |
-| 570 | 191 | lady lua |
-| 571 | 191 | Silver Marchán |
+| 570 | 191 | Silver Marchán |
+| 571 | 191 | lady lua |
 | 572 | 190 | Smiley Zone |
 | 573 | 189 | Jason |
 | 574 | 189 | Deseree Ewing |
@@ -589,13 +589,13 @@
 | 581 | 187 | Stephanie Sanchez |
 | 582 | 187 | Tiffany Marler |
 | 583 | 187 | Crystal Johnson |
-| 584 | 186 | Rayzer |
-| 585 | 186 | Funky Jumper |
+| 584 | 186 | Funky Jumper |
+| 585 | 186 | Rayzer |
 | 586 | 185 | Ashley Kennedy |
 | 587 | 185 | Breezy Roll |
 | 588 | 184 | Shanon R Jackson |
-| 589 | 184 | Christian Luna |
-| 590 | 184 | Barb Wensink Johnson |
+| 589 | 184 | Barb Wensink Johnson |
+| 590 | 184 | Christian Luna |
 | 591 | 183 | Mel Murr |
 | 592 | 183 | AC Yeater |
 | 593 | 183 | Snarky McFace |
@@ -630,7 +630,7 @@
 | 622 | 177 | Chad |
 | 623 | 176 | Jackie-Lynne Goertzen |
 | 624 | 176 | Bekah Dietrich |
-| 625 | 175 | Spunky Racker |
+| 625 | 175 | Muk |
 | 626 | 175 | Giggy Balanceblock |
 | 627 | 175 | Spunky Racker |
 | 628 | 175 | JustGiGi |
@@ -858,8 +858,8 @@
 | 850 | 131 | Eboni G. |
 | 851 | 131 | Bnoom |
 | 852 | 130 | Carla Hoffman |
-| 853 | 129 | Heather Watson |
-| 854 | 129 | Crystel b520 |
+| 853 | 129 | Crystel b520 |
+| 854 | 129 | Heather Watson |
 | 855 | 129 | Hasty Pop |
 | 856 | 129 | Amanda Neal |
 | 857 | 128 | LaMonsherrie Maddox |

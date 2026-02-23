@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | KM8 |
-| 93 | 647 | Shauna Havard |
+| 92 | 647 | Shauna Havard |
+| 93 | 647 | KM8 |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -125,8 +125,8 @@
 | 117 | 514 | Serena Goodridge |
 | 118 | 514 | Scott Jameson |
 | 119 | 513 | Erin Thomas |
-| 120 | 512 | Cristy Duerksen |
-| 121 | 512 | Casey Jeffcoat |
+| 120 | 512 | Casey Jeffcoat |
+| 121 | 512 | Cristy Duerksen |
 | 122 | 511 | Lori Walker |
 | 123 | 509 | Leslie Nicole |
 | 124 | 487 | Ren Mc |
@@ -143,8 +143,8 @@
 | 135 | 448 | Kristin Manee |
 | 136 | 444 | Andy Cabral |
 | 137 | 442 | ThaEviLJeNiuZ |
-| 138 | 435 | Kristina Black |
-| 139 | 435 | Monica Daley |
+| 138 | 435 | Monica Daley |
+| 139 | 435 | Kristina Black |
 | 140 | 432 | Zippy Block |
 | 141 | 431 | Courtney Cicoria |
 | 142 | 429 | Klo |
@@ -156,8 +156,8 @@
 | 148 | 418 | Marie-Pier Desjardins |
 | 149 | 418 | Lush Linkfall |
 | 150 | 416 | Chaz Duncan |
-| 151 | 414 | Nope Young |
-| 152 | 414 | Swanky Fitline |
+| 151 | 414 | Swanky Fitline |
+| 152 | 414 | Nope Young |
 | 153 | 413 | Circuit8 |
 | 154 | 412 | Jessica Bohlken |
 | 155 | 408 | Amanda Pauldo-Ivy |
@@ -166,8 +166,8 @@
 | 158 | 403 | Keith Kelley |
 | 159 | 402 | Lucas J Sutton |
 | 160 | 398 | Tyler Terrific |
-| 161 | 393 | Girl |
-| 162 | 393 | Carlton Unfiltered |
+| 161 | 393 | Carlton Unfiltered |
+| 162 | 393 | Girl |
 | 163 | 392 | Nick Gray |
 | 164 | 391 | Ramel Rhodes |
 | 165 | 389 | Joseph Guthrie |
@@ -179,9 +179,9 @@
 | 171 | 372 | Antony Dwayne Beasley |
 | 172 | 370 | Oscar Alberto Perez |
 | 173 | 369 | Lindsey Gonzalez |
-| 174 | 368 | Silly Zonebuilder |
-| 175 | 368 | Brandon Crabbs |
-| 176 | 368 | Raegan Lane-Ross |
+| 174 | 368 | Brandon Crabbs |
+| 175 | 368 | Raegan Lane-Ross |
+| 176 | 368 | Silly Zonebuilder |
 | 177 | 365 | Jeff Brian Gates |
 | 178 | 361 | Danielle Kollias |
 | 179 | 361 | Melissa Adams |
@@ -203,8 +203,8 @@
 | 195 | 336 | Bio Nelly |
 | 196 | 334 | Kris Bartlett |
 | 197 | 332 | HastyGrabber |
-| 198 | 330 | blockstar |
-| 199 | 330 | Kathy Brookins |
+| 198 | 330 | Kathy Brookins |
+| 199 | 330 | blockstar |
 | 200 | 328 | scott |
 | 201 | 327 | J-Rizzle |
 | 202 | 324 | TinyLegoRose |
@@ -240,8 +240,8 @@
 | 232 | 288 | Brittney Orengo |
 | 233 | 285 | 030Synner |
 | 234 | 284 | Mimi |
-| 235 | 282 | Kim Klutz Olson |
-| 236 | 282 | Matt Gooder |
+| 235 | 282 | Matt Gooder |
+| 236 | 282 | Kim Klutz Olson |
 | 237 | 281 | Laura |
 | 238 | 280 | Milan Markeisha |
 | 239 | 280 | Rio Rocha |
@@ -465,8 +465,8 @@
 | 457 | 157 | Ryry |
 | 458 | 157 | LunaMoon |
 | 459 | 157 | David Boggs |
-| 460 | 156 | Funky Risepiece |
-| 461 | 156 | Mighty Edgepiece |
+| 460 | 156 | Mighty Edgepiece |
+| 461 | 156 | Funky Risepiece |
 | 462 | 155 | Shirl |
 | 463 | 155 | tipsy tiger |
 | 464 | 155 | Faja |
@@ -537,9 +537,9 @@
 | 529 | 136 | Tabitha Calvin |
 | 530 | 135 | Groovy Shiftspin |
 | 531 | 134 | Tabitha Henson |
-| 532 | 133 | Amy C Brown |
-| 533 | 133 | Wacky Blockclear |
-| 534 | 133 | Jesus Garcia |
+| 532 | 133 | Jesus Garcia |
+| 533 | 133 | Amy C Brown |
+| 534 | 133 | Wacky Blockclear |
 | 535 | 133 | ThriftySpice |
 | 536 | 132 | Melissa Priest Sellers |
 | 537 | 132 | Jessica Cagle |

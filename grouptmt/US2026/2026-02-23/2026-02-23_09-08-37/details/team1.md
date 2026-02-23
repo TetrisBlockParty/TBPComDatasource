@@ -219,8 +219,8 @@
 | 211 | 308 | Speedy Liney |
 | 212 | 306 | Angela Renea Lester |
 | 213 | 304 | Sarah Somers Gray |
-| 214 | 301 | Damon J. Martin |
-| 215 | 301 | Cody Gates |
+| 214 | 301 | Cody Gates |
+| 215 | 301 | Damon J. Martin |
 | 216 | 300 | Sleepysloath5745 |
 | 217 | 298 | Billie Ann Eason |
 | 218 | 298 | Sweetts |
@@ -591,8 +591,8 @@
 | 583 | 127 | Laurie Sanderson |
 | 584 | 126 | Steven Schultheis |
 | 585 | 125 | MomOf2Angels |
-| 586 | 125 | Nicole Bryant |
-| 587 | 125 | Tiffany Daboss Seymour |
+| 586 | 125 | Tiffany Daboss Seymour |
+| 587 | 125 | Nicole Bryant |
 | 588 | 124 | Margie Olivas |
 | 589 | 124 | Brandi Egbert |
 | 590 | 123 | Chirpy Liner |
