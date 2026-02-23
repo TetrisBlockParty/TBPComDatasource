@@ -25,8 +25,8 @@
 | 17 | 1979 | Misty Hollibaugh |
 | 18 | 1958 | Leah Gorsuch |
 | 19 | 1775 | Ash |
-| 20 | 1747 | Dustin Robert |
-| 21 | 1738 | Ancient Intuition |
+| 20 | 1738 | Ancient Intuition |
+| 21 | 1721 | Dustin Robert |
 | 22 | 1706 | Ayanna Soto |
 | 23 | 1643 | Cassie Michaux |
 | 24 | 1606 | Jason Allen |
@@ -95,8 +95,8 @@
 | 87 | 766 | Robin Watters |
 | 88 | 764 | Valerie Roberts |
 | 89 | 753 | TheNeesh50 |
-| 90 | 746 | Klo |
-| 91 | 731 | KJ Pool |
+| 90 | 731 | KJ Pool |
+| 91 | 729 | Klo |
 | 92 | 728 | D3TROITB0RN74 |
 | 93 | 724 | Destiney Carter |
 | 94 | 722 | Rica Mitchell |
@@ -243,8 +243,8 @@
 | 235 | 361 | Mimi |
 | 236 | 361 | Rafael Valentin |
 | 237 | 361 | Danielle Kollias |
-| 238 | 358 | Twisty Cascadezone |
-| 239 | 358 | A5! |
+| 238 | 358 | A5! |
+| 239 | 358 | Twisty Cascadezone |
 | 240 | 357 | KimoKoala |
 | 241 | 356 | Joeliecea Cobb |
 | 242 | 355 | James Hurley Jr. |
@@ -258,8 +258,8 @@
 | 250 | 343 | HastyGrabber |
 | 251 | 342 | blasterB |
 | 252 | 341 | Mary Ann Pabukis |
-| 253 | 340 | Cranky Rollpiece |
-| 254 | 340 | Jen Caldwell |
+| 253 | 340 | Jen Caldwell |
+| 254 | 340 | Cranky Rollpiece |
 | 255 | 340 | Amanda Maciel Clarke |
 | 256 | 339 | Melvin Baird |
 | 257 | 338 | Nerdy Twisterfit |
@@ -300,19 +300,19 @@
 | 292 | 292 | Epic Curvetile |
 | 293 | 291 | Dizzy Matchzone |
 | 294 | 290 | Jared Gutwein |
-| 295 | 290 | Neirrah B Olailjeel |
-| 296 | 290 | Heather Bruce |
+| 295 | 290 | Heather Bruce |
+| 296 | 290 | Neirrah B Olailjeel |
 | 297 | 289 | Juls |
 | 298 | 288 | Brittney Orengo |
 | 299 | 287 | Kim Klutz Olson |
-| 300 | 284 | Malakai Darien Fox |
-| 301 | 284 | Glitzy Corner |
-| 302 | 284 | Matt Dell'Olio |
+| 300 | 284 | Glitzy Corner |
+| 301 | 284 | Matt Dell'Olio |
+| 302 | 284 | Malakai Darien Fox |
 | 303 | 281 | rebel4lyfe |
 | 304 | 281 | Laura |
 | 305 | 281 | Morti |
-| 306 | 278 | Sarah Brown |
-| 307 | 278 | Angela Geist Jusinski |
+| 306 | 278 | Angela Geist Jusinski |
+| 307 | 278 | Sarah Brown |
 | 308 | 277 | Brittany Marsh |
 | 309 | 276 | Lee Silpe |
 | 310 | 276 | Susan Williams |
@@ -335,8 +335,8 @@
 | 327 | 266 | Deb Rubeck |
 | 328 | 266 | Happy Combo |
 | 329 | 266 | Tracey Lehmann |
-| 330 | 265 | Sarah Neathery |
-| 331 | 265 | Christine Therrien |
+| 330 | 265 | Christine Therrien |
+| 331 | 265 | Sarah Neathery |
 | 332 | 265 | Degenerate |
 | 333 | 264 | ZeeZee |
 | 334 | 264 | AyeKay |
@@ -353,8 +353,8 @@
 | 345 | 256 | Mackenzie Forrester |
 | 346 | 256 | Paige Kittles |
 | 347 | 254 | Ari Droff |
-| 348 | 253 | Cool Buildout |
-| 349 | 253 | Autum Leigh |
+| 348 | 253 | Autum Leigh |
+| 349 | 253 | Cool Buildout |
 | 350 | 253 | Chair |
 | 351 | 252 | Maureen Flanigan |
 | 352 | 252 | Gracie Ann Taylor |
@@ -389,8 +389,8 @@
 | 381 | 235 | LaDonna LovinmesomeMe Lambert |
 | 382 | 234 | Diosa Ebalobo Magsael |
 | 383 | 234 | Amanda Christine |
-| 384 | 234 | Shanon Klair |
-| 385 | 234 | Richard-April Kice |
+| 384 | 234 | Richard-April Kice |
+| 385 | 234 | Shanon Klair |
 | 386 | 233 | Joseph Edmonson |
 | 387 | 232 | Jenny Wells-Oakley |
 | 388 | 230 | Chantilly Laace |
@@ -402,7 +402,7 @@
 | 394 | 223 | Brave Spinbuilder |
 | 395 | 222 | Alan Zukowski |
 | 396 | 222 | Paito |
-| 397 | 222 | Badatvs |
+| 397 | 222 | Rhys Morgan |
 | 398 | 222 | Brandi Durig |
 | 399 | 222 | Badatvs |
 | 400 | 221 | Rheanda Weaskus |
@@ -431,8 +431,8 @@
 | 423 | 212 | Mike Solo |
 | 424 | 211 | Shiny Pivoty |
 | 425 | 211 | Becky Shimko |
-| 426 | 210 | Jessica Atkinson |
-| 427 | 210 | Cool Gridzone |
+| 426 | 210 | Cool Gridzone |
+| 427 | 210 | Jessica Atkinson |
 | 428 | 210 | Vanessa Smart |
 | 429 | 209 | PennyCandee |
 | 430 | 209 | Marcus Todd |

@@ -228,8 +228,8 @@
 | 220 | 548 | Danielle Balcom |
 | 221 | 548 | Annie Déè |
 | 222 | 547 | Staci George Fitzsimmons |
-| 223 | 546 | Cynthia Castros-Hampton |
-| 224 | 546 | Mykal Burton |
+| 223 | 546 | Mykal Burton |
+| 224 | 546 | Cynthia Castros-Hampton |
 | 225 | 545 | Trisha Balmer |
 | 226 | 539 | Betty Bóò |
 | 227 | 537 | Aerian Preston |
@@ -237,8 +237,8 @@
 | 229 | 537 | Tamara Deherrera |
 | 230 | 531 | Chauntee Alfrey-Cardinale |
 | 231 | 530 | Stephanie Blkpep Davidson |
-| 232 | 530 | Shannon Matthew Byers |
-| 233 | 530 | Cesar Barraza |
+| 232 | 530 | Cesar Barraza |
+| 233 | 526 | Shannon Matthew Byers |
 | 234 | 524 | Terry Jo Jones |
 | 235 | 519 | Nichol Graham |
 | 236 | 516 | Daring Brickzone |
@@ -247,8 +247,8 @@
 | 239 | 513 | Lizabeth Fox |
 | 240 | 513 | Twisty Brick LT |
 | 241 | 508 | Sherry Ogden |
-| 242 | 508 | Fran Lin |
-| 243 | 508 | joz |
+| 242 | 508 | joz |
+| 243 | 508 | Fran Lin |
 | 244 | 505 | Giggy Glidepiece |
 | 245 | 505 | Stephanie Simpson |
 | 246 | 503 | Tye Stovall |
