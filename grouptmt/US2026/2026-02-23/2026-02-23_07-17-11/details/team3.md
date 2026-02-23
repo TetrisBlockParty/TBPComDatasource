@@ -120,8 +120,8 @@
 | 112 | 831 | Angeline Joseph |
 | 113 | 830 | Stephanie Allmon |
 | 114 | 826 | Shane Wilson Jr. |
-| 115 | 816 | Jesse Olive |
-| 116 | 816 | Brenda Lee Vander Molen |
+| 115 | 816 | Brenda Lee Vander Molen |
+| 116 | 816 | Jesse Olive |
 | 117 | 802 | Bobbi Moore |
 | 118 | 800 | Lauren Girouard |
 | 119 | 799 | Dolores Falco |
@@ -199,8 +199,8 @@
 | 191 | 528 | Silly Twist |
 | 192 | 525 | Stephanie Blkpep Davidson |
 | 193 | 524 | Bmo |
-| 194 | 519 | Terry Jo Jones |
-| 195 | 519 | rnr junky |
+| 194 | 519 | rnr junky |
+| 195 | 519 | Terry Jo Jones |
 | 196 | 515 | Cozy Snaplink |
 | 197 | 508 | Makelini Mausia |
 | 198 | 502 | Snappy Balancer |
@@ -348,8 +348,8 @@
 | 340 | 296 | Tracy Martin |
 | 341 | 295 | Nikki Pags |
 | 342 | 294 | Antonia Russell |
-| 343 | 292 | Khaleada McGill Banks |
-| 344 | 292 | Lizabeth Fox |
+| 343 | 292 | Lizabeth Fox |
+| 344 | 292 | Khaleada McGill Banks |
 | 345 | 289 | Salena Whitlock |
 | 346 | 289 | Cheryl Hinch Tenbrook |
 | 347 | 289 | DidIdothat |
@@ -360,8 +360,8 @@
 | 352 | 286 | Micayah Stevens |
 | 353 | 284 | Hanna Kim |
 | 354 | 283 | Kaycee Kay |
-| 355 | 280 | ROODBOY |
-| 356 | 280 | Aerian Preston |
+| 355 | 280 | Aerian Preston |
+| 356 | 280 | ROODBOY |
 | 357 | 280 | Dirtgirl27 |
 | 358 | 279 | Naur |
 | 359 | 279 | Tosha Griffey |
@@ -388,12 +388,12 @@
 | 380 | 269 | Jess Bissett |
 | 381 | 269 | Goofy Fall |
 | 382 | 268 | Jessica Lynn French |
-| 383 | 267 | April Matthew Kibble |
-| 384 | 267 | Jul |
+| 383 | 267 | Jul |
+| 384 | 267 | April Matthew Kibble |
 | 385 | 267 | Michael Kimbro |
 | 386 | 266 | Quirky Dropzone |
-| 387 | 265 | Heather Davis |
-| 388 | 265 | AlsoJess |
+| 387 | 265 | AlsoJess |
+| 388 | 265 | Heather Davis |
 | 389 | 264 | Reina Roth |
 | 390 | 264 | Danielle Beaunoyer Jean |
 | 391 | 263 | Jimmie Clemons |
@@ -571,13 +571,13 @@
 | 563 | 191 | Polopypy |
 | 564 | 190 | Smiley Zone |
 | 565 | 189 | Jason |
-| 566 | 189 | Sameerah Smith |
-| 567 | 189 | Wacky Crasher |
+| 566 | 189 | Wacky Crasher |
+| 567 | 189 | Sameerah Smith |
 | 568 | 189 | Deseree Ewing |
-| 569 | 188 | Bree Sexton |
-| 570 | 188 | Amber Groover Taylor |
-| 571 | 187 | Kelly Koenig |
-| 572 | 187 | luluraine |
+| 569 | 188 | Amber Groover Taylor |
+| 570 | 188 | Bree Sexton |
+| 571 | 187 | luluraine |
+| 572 | 187 | Kelly Koenig |
 | 573 | 187 | Crystal Johnson |
 | 574 | 186 | Rayzer |
 | 575 | 186 | Jack Bo |
@@ -647,8 +647,8 @@
 | 639 | 169 | Peachy Rollfit |
 | 640 | 169 | Num1hater |
 | 641 | 168 | Groovy Blockclear |
-| 642 | 168 | Kristi Taylor |
-| 643 | 168 | Glenn Loving |
+| 642 | 168 | Glenn Loving |
+| 643 | 168 | Kristi Taylor |
 | 644 | 167 | Frothy Glider |
 | 645 | 167 | Pam Holt Powell |
 | 646 | 167 | Alison Baus |
@@ -889,12 +889,12 @@
 | 881 | 122 | Christopher Mastropietro |
 | 882 | 122 | Will Miller |
 | 883 | 122 | Keayn Smith |
-| 884 | 121 | Alexsandran Valdivia |
-| 885 | 121 | Nerdy Snapbuild |
+| 884 | 121 | Nerdy Snapbuild |
+| 885 | 121 | Alexsandran Valdivia |
 | 886 | 121 | Happy Strikesnap |
-| 887 | 120 | Tyler Shoff |
-| 888 | 120 | Chilly Wipegrid |
-| 889 | 120 | fred |
+| 887 | 120 | Chilly Wipegrid |
+| 888 | 120 | Tyler Shoff |
+| 889 | 120 | Santana Lantana |
 | 890 | 120 | Amanda Brooke |
 | 891 | 120 | Betsey Hayes-Solano |
 | 892 | 120 | fred |

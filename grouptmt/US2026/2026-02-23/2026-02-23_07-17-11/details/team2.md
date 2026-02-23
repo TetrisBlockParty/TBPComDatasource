@@ -666,8 +666,8 @@
 | 658 | 522 | Leah |
 | 659 | 521 | Mia Muse Best |
 | 660 | 520 | Armonie Smith |
-| 661 | 519 | Rob Brown |
-| 662 | 519 | CupCake |
+| 661 | 519 | CupCake |
+| 662 | 519 | Rob Brown |
 | 663 | 519 | Mandi Marie Smith |
 | 664 | 518 | Tash Bell |
 | 665 | 518 | Kiana Boschh |
@@ -694,24 +694,24 @@
 | 686 | 505 | Casey Schumacher |
 | 687 | 502 | Jasmine Kenney |
 | 688 | 502 | Enha |
-| 689 | 500 | Ryan Meilleur |
-| 690 | 500 | Amy Reynolds |
+| 689 | 500 | Amy Reynolds |
+| 690 | 500 | Ryan Meilleur |
 | 691 | 499 | Besma Ao |
 | 692 | 498 | Chummy Blockbuilder |
 | 693 | 497 | Sam |
-| 694 | 497 | Ha Ab |
-| 695 | 497 | June E Hanson |
-| 696 | 496 | Tracy Cowley |
-| 697 | 496 | Anthony Mignacca |
-| 698 | 496 | Shyne Sun |
-| 699 | 495 | Brandon Jones |
-| 700 | 495 | Bubbly Snapbuild |
-| 701 | 494 | Cat Thompson |
-| 702 | 494 | Melanie Csikortos |
-| 703 | 494 | Snippy Rumbler |
-| 704 | 493 | Kristie Wilcox |
+| 694 | 497 | June E Hanson |
+| 695 | 497 | Ha Ab |
+| 696 | 496 | Anthony Mignacca |
+| 697 | 496 | Shyne Sun |
+| 698 | 496 | Tracy Cowley |
+| 699 | 495 | Bubbly Snapbuild |
+| 700 | 495 | Brandon Jones |
+| 701 | 494 | Melanie Csikortos |
+| 702 | 494 | Snippy Rumbler |
+| 703 | 494 | Cat Thompson |
+| 704 | 493 | Sue Leard |
 | 705 | 493 | Skyler Morgan |
-| 706 | 493 | Sue Leard |
+| 706 | 493 | Kristie Wilcox |
 | 707 | 492 | Christina Wsn |
 | 708 | 491 | Jedi |
 | 709 | 491 | KayLynn Ogden McClelland |
@@ -724,8 +724,8 @@
 | 716 | 487 | Morgan Easter |
 | 717 | 486 | Ashley Collins |
 | 718 | 485 | Regina Young |
-| 719 | 484 | Joice Hansen |
-| 720 | 484 | Street Sweeper |
+| 719 | 484 | Street Sweeper |
+| 720 | 484 | Joice Hansen |
 | 721 | 483 | Austin Wilson |
 | 722 | 483 | Tabs Reichert |
 | 723 | 482 | Amélie Cadieux |
@@ -739,9 +739,9 @@
 | 731 | 479 | Emilie Desma |
 | 732 | 479 | Jason Garnatz |
 | 733 | 479 | Shyenn Gadsby |
-| 734 | 478 | Shindee |
-| 735 | 478 | Dawn L Washington-Feuquay |
-| 736 | 478 | Kelly |
+| 734 | 478 | Kelly |
+| 735 | 478 | Shindee |
+| 736 | 478 | Dawn L Washington-Feuquay |
 | 737 | 477 | Catherine Marsh Gruda |
 | 738 | 476 | AsnPryBoy83 |
 | 739 | 476 | Abimbola Bimbo |
@@ -853,10 +853,10 @@
 | 845 | 422 | Moist_B-hole |
 | 846 | 422 | Kimberly Ann |
 | 847 | 421 | Nina Nav |
-| 848 | 420 | Lathasa Newkirk |
-| 849 | 420 | Boogie SoAnimated Johnson |
-| 850 | 419 | Erin Reid |
-| 851 | 419 | Josh Dill |
+| 848 | 420 | Boogie SoAnimated Johnson |
+| 849 | 420 | Lathasa Newkirk |
+| 850 | 419 | Josh Dill |
+| 851 | 419 | Erin Reid |
 | 852 | 418 | Bold Brickster |
 | 853 | 417 | Rebecca Garland |
 | 854 | 417 | Tristan Szolek |
@@ -930,11 +930,11 @@
 | 922 | 392 | Jroc |
 | 923 | 391 | Poppy Gridder |
 | 924 | 391 | Chilly Bridgepiece |
-| 925 | 390 | Karmabunny |
-| 926 | 390 | MauroPRM |
+| 925 | 390 | MauroPRM |
+| 926 | 390 | Karmabunny |
 | 927 | 390 | Smiley Strike |
-| 928 | 390 | Tasia Stinson |
-| 929 | 390 | Kyla Louise |
+| 928 | 390 | Kyla Louise |
+| 929 | 390 | Tasia Stinson |
 | 930 | 389 | Loony Basepiece |
 | 931 | 388 | Kristina Marie Hanna |
 | 932 | 388 | Tamara Bailey |
@@ -1002,8 +1002,8 @@
 | 994 | 368 | Bec |
 | 995 | 367 | Lush Snapzone |
 | 996 | 367 | Rachel Kaminski |
-| 997 | 366 | Josh Webster |
-| 998 | 366 | Ashley Criner |
+| 997 | 366 | Ashley Criner |
+| 998 | 366 | Josh Webster |
 | 999 | 366 | Monique Foster |
 | 1000 | 366 | KrisCynthia Lynette |
 | 1001 | 365 | Dee Blokk |
@@ -1015,8 +1015,8 @@
 | 1007 | 364 | Epic Spinfit |
 | 1008 | 363 | Tammy Mitchell |
 | 1009 | 363 | Casaundra Little-Abeling |
-| 1010 | 362 | Megan Phillips |
-| 1011 | 362 | Del Davis |
+| 1010 | 362 | Del Davis |
+| 1011 | 362 | Megan Phillips |
 | 1012 | 362 | Dione |
 | 1013 | 361 | Mike73 |
 | 1014 | 361 | Tosa Puvapiromquan |
@@ -1025,8 +1025,8 @@
 | 1017 | 360 | Kat Mfm Kaul |
 | 1018 | 359 | Antonio Mckoy Sr. |
 | 1019 | 359 | Toni Lynn |
-| 1020 | 358 | Nutty Slice |
-| 1021 | 358 | Alyssaaelena |
+| 1020 | 358 | Alyssaaelena |
+| 1021 | 358 | Nutty Slice |
 | 1022 | 358 | Gina Gina |
 | 1023 | 358 | Dapper Setter |
 | 1024 | 358 | Sydney Busse |
@@ -1036,8 +1036,8 @@
 | 1028 | 357 | Shannon Byrd |
 | 1029 | 357 | Pam Doughty |
 | 1030 | 356 | Neko Preston |
-| 1031 | 355 | Jaime E. Rodriguez |
-| 1032 | 355 | Himothy |
+| 1031 | 355 | Himothy |
+| 1032 | 355 | Jaime E. Rodriguez |
 | 1033 | 355 | Layla LS |
 | 1034 | 354 | Loopy Shatterfit |
 | 1035 | 354 | Katherin Camacho |
@@ -1057,19 +1057,19 @@
 | 1049 | 351 | Sara Pennington |
 | 1050 | 351 | Heather Renee Jeffers |
 | 1051 | 350 | Takneesha Ellison |
-| 1052 | 350 | PlazTTV |
+| 1052 | 350 | Macy Jarrett |
 | 1053 | 350 | Chris Harr |
-| 1054 | 350 | Macy Jarrett |
+| 1054 | 350 | PlazTTV |
 | 1055 | 349 | Lisa Bare |
 | 1056 | 349 | Manny Trindade |
 | 1057 | 348 | MamaBear11 |
-| 1058 | 348 | Richard Horton |
-| 1059 | 348 | Melissa Schulz |
+| 1058 | 348 | Melissa Schulz |
+| 1059 | 348 | Richard Horton |
 | 1060 | 347 | Zak Dunn |
 | 1061 | 347 | Persipnei Cuesta |
 | 1062 | 346 | Kelsey |
-| 1063 | 346 | Zappy Dropmatch |
-| 1064 | 346 | Loopy Brickmatch |
+| 1063 | 346 | Loopy Brickmatch |
+| 1064 | 346 | Zappy Dropmatch |
 | 1065 | 345 | Brandi Fuller Cason |
 | 1066 | 345 | David Duncan |
 | 1067 | 345 | Rhianna DiLorenzo |
@@ -2029,8 +2029,8 @@
 | 2021 | 200 | Abram Wersig |
 | 2022 | 200 | Kyky SoLoved Mclean |
 | 2023 | 200 | Carrie Pike |
-| 2024 | 199 | Jacob Huffman |
-| 2025 | 199 | Barry Allan |
+| 2024 | 199 | Barry Allan |
+| 2025 | 199 | Jacob Huffman |
 | 2026 | 199 | Rose Rossi |
 | 2027 | 199 | Jenny Castro |
 | 2028 | 199 | Jacques London Taylor |

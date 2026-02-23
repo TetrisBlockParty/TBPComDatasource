@@ -227,9 +227,9 @@
 | 219 | 290 | Hellsin |
 | 220 | 290 | Tavia |
 | 221 | 287 | Sassy Builderline |
-| 222 | 285 | Jessie Lynn |
+| 222 | 285 | Shanae Grant |
 | 223 | 285 | Bird Person |
-| 224 | 285 | Shanae Grant |
+| 224 | 285 | Jessie Lynn |
 | 225 | 284 | Sarah Somers Gray |
 | 226 | 283 | Amanda Holibaugh |
 | 227 | 283 | Franswa |
@@ -773,7 +773,7 @@
 | 765 | 89 | Brave Stacky |
 | 766 | 89 | forevernght |
 | 767 | 88 | ken |
-| 768 | 88 | Gewb |
+| 768 | 88 | Donna Taliger Brigante |
 | 769 | 88 | OneCrazyGator |
 | 770 | 88 | Gewb |
 | 771 | 88 | Kathryn Chiles Anderson |

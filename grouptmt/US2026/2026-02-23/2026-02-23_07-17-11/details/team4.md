@@ -140,8 +140,8 @@
 | 132 | 454 | Ericca Eldridge |
 | 133 | 451 | Peachy Fall |
 | 134 | 448 | Kristin Manee |
-| 135 | 435 | Kristina Black |
-| 136 | 435 | Leslie Thomas |
+| 135 | 435 | Leslie Thomas |
+| 136 | 435 | Kristina Black |
 | 137 | 434 | Monica Daley |
 | 138 | 432 | Zippy Block |
 | 139 | 431 | Courtney Cicoria |
@@ -150,8 +150,8 @@
 | 142 | 423 | Carrie Brian |
 | 143 | 421 | Kesha Brady |
 | 144 | 421 | JIGsaw ~(•¿°)~ |
-| 145 | 418 | Marie-Pier Desjardins |
-| 146 | 418 | Lush Linkfall |
+| 145 | 418 | Lush Linkfall |
+| 146 | 418 | Marie-Pier Desjardins |
 | 147 | 416 | Chaz Duncan |
 | 148 | 414 | Swanky Fitline |
 | 149 | 414 | Nope Young |
@@ -187,8 +187,8 @@
 | 179 | 352 | Sue Joyce Staats |
 | 180 | 349 | Rafael Valentin |
 | 181 | 348 | April Rondinone |
-| 182 | 347 | Daria Rycewicz |
-| 183 | 347 | Crystal Nicolette Moore |
+| 182 | 347 | Crystal Nicolette Moore |
+| 183 | 347 | Daria Rycewicz |
 | 184 | 346 | Mylo Lipscomb |
 | 185 | 339 | David Lay |
 | 186 | 336 | Bio Nelly |
@@ -206,8 +206,8 @@
 | 198 | 320 | Lauren Scott |
 | 199 | 318 | Chris Hartig |
 | 200 | 316 | Autumn Kumzi |
-| 201 | 312 | Dihcheese444 |
-| 202 | 312 | Casey Grabner |
+| 201 | 312 | Casey Grabner |
+| 202 | 312 | Dihcheese444 |
 | 203 | 311 | Mary Ann Pabukis |
 | 204 | 310 | Holly Jolly |
 | 205 | 307 | Cheery Risebuilder |
@@ -219,8 +219,8 @@
 | 211 | 300 | Dana Scott |
 | 212 | 300 | Zakia Monae |
 | 213 | 295 | Keshia Lyons |
-| 214 | 294 | Porkobello |
-| 215 | 294 | Calvin Cannon |
+| 214 | 294 | Calvin Cannon |
+| 215 | 294 | Porkobello |
 | 216 | 292 | Epic Curvetile |
 | 217 | 291 | Nikki Rae Gordon |
 | 218 | 290 | Plucky Patternblock |
@@ -303,8 +303,8 @@
 | 295 | 225 | Ernest Maxwell |
 | 296 | 225 | Jenna McGeorge |
 | 297 | 224 | Ultramarine |
-| 298 | 223 | Adawna Swires |
-| 299 | 223 | Chance Strickland |
+| 298 | 223 | Chance Strickland |
+| 299 | 223 | Adawna Swires |
 | 300 | 223 | Amanda Christine |
 | 301 | 222 | Brandi Durig |
 | 302 | 221 | Rheanda Weaskus |
@@ -336,8 +336,8 @@
 | 328 | 208 | Shukee Lo |
 | 329 | 207 | Squeezy Pearsall |
 | 330 | 206 | Laura Hosford |
-| 331 | 206 | June Hoffman |
-| 332 | 206 | Maureen Flanigan |
+| 331 | 206 | Maureen Flanigan |
+| 332 | 206 | June Hoffman |
 | 333 | 205 | KayM |
 | 334 | 204 | Russ Attitude |
 | 335 | 203 | Andrew Dang |
@@ -605,8 +605,8 @@
 | 597 | 116 | Rebecca A Rit |
 | 598 | 116 | Tianna Frey |
 | 599 | 115 | Nicole McMurray |
-| 600 | 115 | Amanda Maciel Clarke |
-| 601 | 115 | Brenda Bird |
+| 600 | 115 | Brenda Bird |
+| 601 | 115 | Amanda Maciel Clarke |
 | 602 | 115 | Jayk |
 | 603 | 115 | Mona Touchine |
 | 604 | 114 | Rosemary Foster |
