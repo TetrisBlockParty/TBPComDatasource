@@ -116,8 +116,8 @@
 | 108 | 488 | Jen Allison |
 | 109 | 487 | shar |
 | 110 | 483 | Chilly Crasher |
-| 111 | 481 | Jessica Lynn Cutlip |
-| 112 | 481 | Serena Goodridge |
+| 111 | 481 | Serena Goodridge |
+| 112 | 481 | Jessica Lynn Cutlip |
 | 113 | 476 | Matt Summer |
 | 114 | 474 | Jenna Ingersoll |
 | 115 | 470 | Lori Walker |
@@ -138,8 +138,8 @@
 | 130 | 408 | Amanda Pauldo-Ivy |
 | 131 | 400 | Ericca Eldridge |
 | 132 | 394 | Austin Owens |
-| 133 | 393 | Trish |
-| 134 | 393 | Carlton Unfiltered |
+| 133 | 393 | Carlton Unfiltered |
+| 134 | 393 | Trish |
 | 135 | 392 | Cristy Duerksen |
 | 136 | 391 | Ramel Rhodes |
 | 137 | 391 | Angela Srubar-Norman |
@@ -298,8 +298,8 @@
 | 290 | 197 | Gilles Lanctot |
 | 291 | 196 | rebel4lyfe |
 | 292 | 195 | 中山成巳 |
-| 293 | 194 | Zany Twisterfit |
-| 294 | 194 | Brittany Marsh |
+| 293 | 194 | Brittany Marsh |
+| 294 | 194 | Zany Twisterfit |
 | 295 | 193 | Chris Alexinas |
 | 296 | 192 | Jackie Marie |
 | 297 | 192 | Andrew Dang |

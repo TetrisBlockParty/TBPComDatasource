@@ -50,8 +50,8 @@
 | 42 | 879 | Adam Byrd |
 | 43 | 863 | Tipsy Column |
 | 44 | 862 | Christina Costantino |
-| 45 | 844 | Amanda Summey Schoemer |
-| 46 | 844 | Katie Daniels |
+| 45 | 844 | Katie Daniels |
+| 46 | 844 | Amanda Summey Schoemer |
 | 47 | 828 | Drew Magnus |
 | 48 | 805 | Sevens4L |
 | 49 | 797 | Lawrence Belanger |

@@ -142,8 +142,8 @@
 | 134 | 621 | Cherry Parker |
 | 135 | 611 | Kiki |
 | 136 | 610 | Daryn Elliott |
-| 137 | 595 | Patricia White |
-| 138 | 595 | Giddy Drop |
+| 137 | 595 | Giddy Drop |
+| 138 | 595 | Patricia White |
 | 139 | 590 | Santeria Trece Candles |
 | 140 | 588 | Justin Ritter |
 | 141 | 585 | opf |
@@ -199,9 +199,9 @@
 | 191 | 452 | Jacqueline Rodriguez |
 | 192 | 451 | Sarah Cowan Burgos |
 | 193 | 445 | Terry Jo Jones |
-| 194 | 432 | Jenny Hrndz |
-| 195 | 432 | Christine Trester |
-| 196 | 432 | Luciana Braganca Vieira |
+| 194 | 432 | Christine Trester |
+| 195 | 432 | Luciana Braganca Vieira |
+| 196 | 432 | Jenny Hrndz |
 | 197 | 431 | Wendy Dearden |
 | 198 | 430 | Jeni Dow |
 | 199 | 430 | Joye Sims Binion |
@@ -279,8 +279,8 @@
 | 271 | 324 | Sissy Lowery Davis |
 | 272 | 322 | Nena Somerville Kelly |
 | 273 | 321 | Charles Perrone |
-| 274 | 320 | Ashley Muncey |
-| 275 | 320 | Or Reznitsky |
+| 274 | 320 | Or Reznitsky |
+| 275 | 320 | Ashley Muncey |
 | 276 | 312 | Twisty Brick LT |
 | 277 | 312 | LadyTorad |
 | 278 | 309 | Felicia Rocha |
@@ -297,16 +297,16 @@
 | 289 | 299 | Angie Harper |
 | 290 | 299 | Ray Lader |
 | 291 | 298 | Grams |
-| 292 | 297 | Cheeky Snapper |
+| 292 | 297 | Jojo M |
 | 293 | 297 | kacihall |
-| 294 | 297 | Jojo M |
+| 294 | 297 | Cheeky Snapper |
 | 295 | 296 | Donna |
 | 296 | 294 | fraulila |
 | 297 | 294 | Betty Bóò |
 | 298 | 291 | Carrie Huskey |
 | 299 | 289 | DidIdothat |
-| 300 | 287 | Gideon Walker |
-| 301 | 287 | Sabrina Hardrick |
+| 300 | 287 | Sabrina Hardrick |
+| 301 | 287 | Gideon Walker |
 | 302 | 286 | Lizabeth Fox |
 | 303 | 286 | Hoppy Patternline |
 | 304 | 285 | LaShey Thompson |
@@ -567,7 +567,7 @@
 | 559 | 163 | Diana Ibarra |
 | 560 | 162 | Sarah Morris |
 | 561 | 162 | Stephanie Whitefield |
-| 562 | 161 | Paul Larsen |
+| 562 | 161 | Whitney Manuel |
 | 563 | 161 | Julia Nicole |
 | 564 | 161 | Paul Larsen |
 | 565 | 160 | Bastian Campbell |
@@ -590,7 +590,7 @@
 | 582 | 157 | Emberblaze |
 | 583 | 157 | Michelle Ramirez |
 | 584 | 157 | Angel Mendez |
-| 585 | 156 | Courtney Conboy |
+| 585 | 156 | Silly Curvetile |
 | 586 | 156 | Brittany K Ward |
 | 587 | 156 | Courtney Conboy |
 | 588 | 155 | Nichol Graham |

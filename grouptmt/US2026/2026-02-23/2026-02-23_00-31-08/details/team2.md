@@ -193,8 +193,8 @@
 | 185 | 1282 | Ashley Rose Frederick |
 | 186 | 1257 | Michele Gabriel |
 | 187 | 1243 | Anna Edwards |
-| 188 | 1232 | Groovy Puzzle |
-| 189 | 1232 | Ambyre Patterson |
+| 188 | 1232 | Ambyre Patterson |
+| 189 | 1232 | Groovy Puzzle |
 | 190 | 1230 | Megan Garrick |
 | 191 | 1224 | Liberty |
 | 192 | 1211 | Lucky Ladybug |
