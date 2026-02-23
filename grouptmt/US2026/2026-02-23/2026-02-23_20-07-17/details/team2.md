@@ -306,11 +306,11 @@
 | 298 | 1164 | Amber Brion |
 | 299 | 1163 | Erika Densmore |
 | 300 | 1158 | Brittany Clark |
-| 301 | 1156 | Arkei Luster |
-| 302 | 1156 | Alezandra Smith |
+| 301 | 1156 | Alezandra Smith |
+| 302 | 1156 | Arkei Luster |
 | 303 | 1145 | Deborah Miller |
-| 304 | 1142 | Sheniya Spurgeon |
-| 305 | 1142 | April Dawn Gussler |
+| 304 | 1142 | April Dawn Gussler |
+| 305 | 1142 | Sheniya Spurgeon |
 | 306 | 1140 | Kimberly Hauck-Rausch |
 | 307 | 1139 | Carl Bradshaw |
 | 308 | 1137 | Hillary Crawford |
