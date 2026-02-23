@@ -232,8 +232,8 @@
 | 224 | 339 | Tyler Hertzog |
 | 225 | 337 | Jamise Brown |
 | 226 | 335 | Keith Mathis |
-| 227 | 333 | Virginia Gray Floyd |
-| 228 | 333 | Jennifer Noe Chandler |
+| 227 | 333 | Jennifer Noe Chandler |
+| 228 | 333 | Virginia Gray Floyd |
 | 229 | 332 | Happy Basegrid |
 | 230 | 328 | Snappy Matcher |
 | 231 | 327 | Jen Nystrom |

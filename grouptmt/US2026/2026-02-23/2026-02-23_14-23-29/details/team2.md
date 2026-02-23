@@ -325,8 +325,8 @@
 | 317 | 1009 | Joshua Mandel |
 | 318 | 1003 | Andrea Maher |
 | 319 | 1001 | Angela Lynn |
-| 320 | 998 | Shelley Thornburgh Wright |
-| 321 | 998 | Keri Womack |
+| 320 | 998 | Keri Womack |
+| 321 | 998 | Shelley Thornburgh Wright |
 | 322 | 996 | Ashie Ann |
 | 323 | 994 | Tiffany Branham |
 | 324 | 987 | Osun Anuket Esu |
@@ -369,8 +369,8 @@
 | 361 | 917 | Nashu |
 | 362 | 916 | Butta |
 | 363 | 915 | Kelly Trent |
-| 364 | 914 | Shuany Arias |
-| 365 | 914 | William Hunt |
+| 364 | 914 | William Hunt |
+| 365 | 914 | Shuany Arias |
 | 366 | 913 | blume |
 | 367 | 910 | Ashley Dow |
 | 368 | 907 | Gene Mills |
@@ -494,8 +494,8 @@
 | 486 | 730 | Hoppy Brickmatch |
 | 487 | 729 | goofinoff |
 | 488 | 728 | Mikayala Szaz |
-| 489 | 728 | Tom Riefer |
-| 490 | 728 | Giggy Mover |
+| 489 | 728 | Giggy Mover |
+| 490 | 728 | Tom Riefer |
 | 491 | 727 | BeQuo |
 | 492 | 726 | Joce Lynn |
 | 493 | 726 | Crystal Greene |
@@ -512,8 +512,8 @@
 | 504 | 709 | Marie Walker |
 | 505 | 708 | Emily Lyric Converse |
 | 506 | 707 | Cc |
-| 507 | 706 | Irene Jones |
-| 508 | 706 | Poldo Ilano |
+| 507 | 706 | Poldo Ilano |
+| 508 | 706 | Irene Jones |
 | 509 | 704 | Montez Mancil |
 | 510 | 704 | Tansaria Couch-Butler |
 | 511 | 703 | Funky Drop |
@@ -571,11 +571,11 @@
 | 563 | 653 | Brittney Jean |
 | 564 | 651 | Belle |
 | 565 | 651 | Unica Rector |
-| 566 | 647 | CC |
-| 567 | 647 | Jackie Avila |
+| 566 | 647 | Jackie Avila |
+| 567 | 647 | CC |
 | 568 | 643 | Michelle Pike |
-| 569 | 642 | snkylnk |
-| 570 | 642 | Samantha Scibelli |
+| 569 | 642 | Samantha Scibelli |
+| 570 | 642 | snkylnk |
 | 571 | 642 | Michelle Fields |
 | 572 | 639 | Belle Mari |
 | 573 | 639 | James Smith |

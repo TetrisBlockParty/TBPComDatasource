@@ -215,8 +215,8 @@
 | 207 | 350 | April Rondinone |
 | 208 | 348 | David Lay |
 | 209 | 347 | Crystal Nicolette Moore |
-| 210 | 347 | Daria Rycewicz |
-| 211 | 347 | Bio Nelly |
+| 210 | 347 | Bio Nelly |
+| 211 | 347 | Daria Rycewicz |
 | 212 | 346 | shark tato |
 | 213 | 343 | HastyGrabber |
 | 214 | 341 | scott |

@@ -120,8 +120,8 @@
 | 112 | 869 | Araceli Parra |
 | 113 | 868 | Sarajane Lokan |
 | 114 | 860 | Sunny Rotater |
-| 115 | 851 | Danielle Becker |
-| 116 | 851 | Jd Morris |
+| 115 | 851 | Jd Morris |
+| 116 | 851 | Danielle Becker |
 | 117 | 848 | Patricia Gadsden |
 | 118 | 839 | Angeline Joseph |
 | 119 | 820 | Brenda Lee Vander Molen |
@@ -135,8 +135,8 @@
 | 127 | 774 | Keith J Oshman Jr. |
 | 128 | 773 | Daira Largen |
 | 129 | 770 | Daryn Elliott |
-| 130 | 764 | Groovy Catcher |
-| 131 | 764 | Hasty Cascadefit |
+| 130 | 764 | Hasty Cascadefit |
+| 131 | 764 | Groovy Catcher |
 | 132 | 762 | Speedy Bridger |
 | 133 | 757 | Fancy Cascader |
 | 134 | 755 | Katrina Schroeder |
@@ -152,8 +152,8 @@
 | 144 | 717 | Alaina Lee |
 | 145 | 716 | Annie Marie |
 | 146 | 714 | Jenny Hrndz |
-| 147 | 710 | Grego Daniel |
-| 148 | 710 | Santeria Trece Candles |
+| 147 | 710 | Santeria Trece Candles |
+| 148 | 710 | Grego Daniel |
 | 149 | 706 | Kiki |
 | 150 | 702 | Patty Allen |
 | 151 | 696 | Christine Niles |
@@ -172,8 +172,8 @@
 | 164 | 630 | yoyo |
 | 165 | 629 | rnr junky |
 | 166 | 622 | Denita Mungro |
-| 167 | 621 | Sashay Tapae Simpson |
-| 168 | 621 | Cherry Parker |
+| 167 | 621 | Cherry Parker |
+| 168 | 621 | Sashay Tapae Simpson |
 | 169 | 616 | Kammy Hill |
 | 170 | 611 | Rochelle Hazelett |
 | 171 | 603 | Jone |
@@ -182,8 +182,8 @@
 | 174 | 598 | Makelini Mausia |
 | 175 | 597 | CeceGeGe |
 | 176 | 597 | Diana Ibarra |
-| 177 | 591 | Michael Nowogorski |
-| 178 | 591 | Kaycee Kay |
+| 177 | 591 | Kaycee Kay |
+| 178 | 591 | Michael Nowogorski |
 | 179 | 587 | Louise Stacy Sisson |
 | 180 | 585 | Domo Washington |
 | 181 | 585 | Happy Tetriblast |
@@ -198,8 +198,8 @@
 | 190 | 562 | Dave Herzog |
 | 191 | 561 | Elissa S-k |
 | 192 | 559 | Patti Skiles |
-| 193 | 549 | Sarah Cowan Burgos |
-| 194 | 549 | Tasha Schriewer |
+| 193 | 549 | Tasha Schriewer |
+| 194 | 549 | Sarah Cowan Burgos |
 | 195 | 548 | Danielle Balcom |
 | 196 | 547 | Staci George Fitzsimmons |
 | 197 | 546 | Cynthia Castros-Hampton |
@@ -293,8 +293,8 @@
 | 285 | 386 | Darlene McMillan |
 | 286 | 385 | Velma Mull |
 | 287 | 384 | Noyb Adam |
-| 288 | 382 | Salena Whitlock |
-| 289 | 382 | Desiree Gold |
+| 288 | 382 | Desiree Gold |
+| 289 | 382 | Salena Whitlock |
 | 290 | 380 | Rebecca Bailey |
 | 291 | 379 | JessDrown |
 | 292 | 379 | Philip Rock |
@@ -312,8 +312,8 @@
 | 304 | 367 | Cyd061769 |
 | 305 | 366 | Gumbo |
 | 306 | 365 | LaShey Thompson |
-| 307 | 362 | Brandon Givens |
-| 308 | 362 | Foltz Lee Kelli |
+| 307 | 362 | Foltz Lee Kelli |
+| 308 | 362 | Brandon Givens |
 | 309 | 361 | Breanna Marsden |
 | 310 | 360 | Dee Pratt |
 | 311 | 359 | Steven Fulater |
