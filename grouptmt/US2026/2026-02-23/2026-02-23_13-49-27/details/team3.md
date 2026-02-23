@@ -185,15 +185,15 @@
 | 177 | 591 | Michael Nowogorski |
 | 178 | 589 | Kaycee Kay |
 | 179 | 587 | Louise Stacy Sisson |
-| 180 | 585 | Happy Tetriblast |
-| 181 | 585 | Domo Washington |
+| 180 | 585 | Domo Washington |
+| 181 | 585 | Happy Tetriblast |
 | 182 | 583 | Tasha Gillespie |
 | 183 | 582 | Natasha Jones |
 | 184 | 574 | Morgan Martinez |
 | 185 | 568 | Rachael McClain Owens |
 | 186 | 566 | LaTanya GeminiondaRise Johnson |
-| 187 | 564 | Christine Trester |
-| 188 | 564 | Poppy Splitter |
+| 187 | 564 | Poppy Splitter |
+| 188 | 564 | Christine Trester |
 | 189 | 563 | Jim Mathews |
 | 190 | 562 | Dave Herzog |
 | 191 | 561 | Elissa S-k |
@@ -220,8 +220,8 @@
 | 212 | 502 | Snappy Balancer |
 | 213 | 498 | Melissa Orth Hunter |
 | 214 | 496 | Loopy Fallmatch |
-| 215 | 494 | FuzzyNavel |
-| 216 | 494 | Connie Mohler-Fair |
+| 215 | 494 | Connie Mohler-Fair |
+| 216 | 494 | FuzzyNavel |
 | 217 | 491 | Michael Johnson |
 | 218 | 488 | joz |
 | 219 | 485 | Dapper Snap |
@@ -255,8 +255,8 @@
 | 247 | 431 | Wendy Dearden |
 | 248 | 430 | Jeni Dow |
 | 249 | 429 | Carrie Huskey |
-| 250 | 428 | Sleepy |
-| 251 | 428 | Randy Clevenger |
+| 250 | 428 | Randy Clevenger |
+| 251 | 428 | Sleepy |
 | 252 | 421 | Snazzy Filler |
 | 253 | 421 | Nicole Flippo |
 | 254 | 421 | Chummy Caster |
@@ -300,8 +300,8 @@
 | 292 | 371 | block chick |
 | 293 | 370 | Samantha Lynn |
 | 294 | 369 | Amber Glover |
-| 295 | 369 | Jennifer Alvey |
-| 296 | 369 | Philip Rock |
+| 295 | 369 | Philip Rock |
+| 296 | 369 | Jennifer Alvey |
 | 297 | 368 | Sheila M Frazier |
 | 298 | 368 | Stephanie Woods |
 | 299 | 367 | Desiree Gold |
@@ -324,8 +324,8 @@
 | 316 | 352 | LadyTorad |
 | 317 | 351 | Blocked |
 | 318 | 351 | Eon Harris |
-| 319 | 349 | Amanda J. Mcneil-Anderson |
-| 320 | 349 | Num1hater |
+| 319 | 349 | Num1hater |
+| 320 | 349 | Amanda J. Mcneil-Anderson |
 | 321 | 348 | Ashley Raines |
 | 322 | 346 | Chummy Rumbler |
 | 323 | 345 | gremicx |
@@ -437,8 +437,8 @@
 | 429 | 269 | Goofy Fall |
 | 430 | 268 | Julia Nicole |
 | 431 | 268 | Jessica Lynn French |
-| 432 | 267 | April Matthew Kibble |
-| 433 | 267 | Michael Kimbro |
+| 432 | 267 | Michael Kimbro |
+| 433 | 267 | April Matthew Kibble |
 | 434 | 266 | Sarah Muradyan |
 | 435 | 266 | Quirky Dropzone |
 | 436 | 265 | AlsoJess |
