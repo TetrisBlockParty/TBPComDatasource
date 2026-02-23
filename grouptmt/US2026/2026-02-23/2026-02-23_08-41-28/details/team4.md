@@ -69,14 +69,14 @@
 | 61 | 807 | Rachel Anne |
 | 62 | 807 | Amelpss |
 | 63 | 788 | Julian Garcia |
-| 64 | 787 | loulou |
-| 65 | 787 | Edward White |
+| 64 | 787 | Edward White |
+| 65 | 787 | loulou |
 | 66 | 783 | Ashley Ingram |
 | 67 | 781 | Chilly Line |
 | 68 | 767 | Shannon Ferrari |
 | 69 | 766 | Robin Watters |
-| 70 | 765 | Denise Carlson |
-| 71 | 765 | Robin Getchel |
+| 70 | 765 | Robin Getchel |
+| 71 | 765 | Denise Carlson |
 | 72 | 752 | Shane Kalamata Platoon |
 | 73 | 749 | Dustee Craddock-Harrison |
 | 74 | 747 | TheNeesh50 |
@@ -125,8 +125,8 @@
 | 117 | 514 | Scott Jameson |
 | 118 | 514 | Serena Goodridge |
 | 119 | 513 | Erin Thomas |
-| 120 | 512 | Cristy Duerksen |
-| 121 | 512 | Casey Jeffcoat |
+| 120 | 512 | Casey Jeffcoat |
+| 121 | 512 | Cristy Duerksen |
 | 122 | 511 | Lori Walker |
 | 123 | 509 | Leslie Nicole |
 | 124 | 487 | Ren Mc |
@@ -142,8 +142,8 @@
 | 134 | 451 | Peachy Fall |
 | 135 | 448 | Kristin Manee |
 | 136 | 442 | ThaEviLJeNiuZ |
-| 137 | 435 | Monica Daley |
-| 138 | 435 | Kristina Black |
+| 137 | 435 | Kristina Black |
+| 138 | 435 | Monica Daley |
 | 139 | 432 | Zippy Block |
 | 140 | 431 | Courtney Cicoria |
 | 141 | 429 | Klo |
@@ -161,13 +161,13 @@
 | 153 | 413 | Circuit8 |
 | 154 | 412 | Jessica Bohlken |
 | 155 | 408 | Amanda Pauldo-Ivy |
-| 156 | 406 | Livvy |
-| 157 | 406 | Damn Libra |
+| 156 | 406 | Damn Libra |
+| 157 | 406 | Livvy |
 | 158 | 403 | Keith Kelley |
 | 159 | 402 | Lucas J Sutton |
 | 160 | 398 | Tyler Terrific |
-| 161 | 393 | Carlton Unfiltered |
-| 162 | 393 | Girl |
+| 161 | 393 | Girl |
+| 162 | 393 | Carlton Unfiltered |
 | 163 | 392 | Nick Gray |
 | 164 | 391 | Ramel Rhodes |
 | 165 | 389 | Joseph Guthrie |
@@ -224,8 +224,8 @@
 | 216 | 301 | Andria Lynn |
 | 217 | 300 | Dana Scott |
 | 218 | 295 | Keshia Lyons |
-| 219 | 294 | Porkobello |
-| 220 | 294 | Calvin Cannon |
+| 219 | 294 | Calvin Cannon |
+| 220 | 294 | Porkobello |
 | 221 | 292 | Epic Curvetile |
 | 222 | 291 | Nikki Rae Gordon |
 | 223 | 290 | Rebecca Morris |
@@ -321,7 +321,7 @@
 | 313 | 219 | Orchislactea |
 | 314 | 219 | Shane Vick |
 | 315 | 218 | Janita Parrish |
-| 316 | 217 | Alexandra Karavias |
+| 316 | 217 | Paito |
 | 317 | 217 | Cheery Fitline |
 | 318 | 217 | Alexandra Karavias |
 | 319 | 216 | Chantilly Laace |
@@ -340,8 +340,8 @@
 | 332 | 208 | Heather Bruce |
 | 333 | 208 | Shukee Lo |
 | 334 | 207 | Squeezy Pearsall |
-| 335 | 206 | Laura Hosford |
-| 336 | 206 | June Hoffman |
+| 335 | 206 | June Hoffman |
+| 336 | 206 | Laura Hosford |
 | 337 | 206 | Maureen Flanigan |
 | 338 | 205 | KayM |
 | 339 | 204 | Ruby Khalisadar |

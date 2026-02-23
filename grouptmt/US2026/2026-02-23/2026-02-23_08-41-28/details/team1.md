@@ -108,8 +108,8 @@
 | 100 | 509 | Rachael |
 | 101 | 502 | Anaid Sanchez |
 | 102 | 497 | Arianna O'Brien |
-| 103 | 493 | Jennifer ManWarren |
-| 104 | 493 | MomMom |
+| 103 | 493 | MomMom |
+| 104 | 493 | Jennifer ManWarren |
 | 105 | 492 | Ash Galvan |
 | 106 | 491 | cc |
 | 107 | 489 | Deanna L Hermanson |
@@ -176,8 +176,8 @@
 | 168 | 364 | Lehrin Maria |
 | 169 | 364 | Serina Marie |
 | 170 | 360 | Wisa |
-| 171 | 359 | Oscar Zamora |
-| 172 | 359 | Witty Builderfit |
+| 171 | 359 | Witty Builderfit |
+| 172 | 359 | Oscar Zamora |
 | 173 | 357 | Shiny Snapfit |
 | 174 | 357 | David Lutcher |
 | 175 | 355 | Erin Rosberg |
@@ -225,8 +225,8 @@
 | 217 | 298 | Sweetts |
 | 218 | 298 | Billie Ann Eason |
 | 219 | 295 | Lakeisha Chapman |
-| 220 | 294 | Chuck Gannon |
-| 221 | 294 | Bindi |
+| 220 | 294 | Bindi |
+| 221 | 294 | Chuck Gannon |
 | 222 | 293 | John Kim |
 | 223 | 291 | Giddy Cascade |
 | 224 | 291 | Brave Wrecker |
@@ -246,8 +246,8 @@
 | 238 | 277 | Glitzy Curvebuilder |
 | 239 | 277 | Nutty Spinblock |
 | 240 | 276 | Sam Williams |
-| 241 | 275 | Chris65 |
-| 242 | 275 | Cheeky Pop |
+| 241 | 275 | Cheeky Pop |
+| 242 | 275 | Chris65 |
 | 243 | 273 | Shannon Marie Pitts |
 | 244 | 272 | Tawnya Peltonen |
 | 245 | 272 | Barrbaric |
@@ -260,8 +260,8 @@
 | 252 | 264 | Jenny Gingrich Fuentes |
 | 253 | 261 | John J. Cronin |
 | 254 | 261 | Brooke Elizabeth Antill |
-| 255 | 260 | Lacy Wolfe |
-| 256 | 260 | Marianita Garcia |
+| 255 | 260 | Marianita Garcia |
+| 256 | 260 | Lacy Wolfe |
 | 257 | 256 | Chris Sigurdson |
 | 258 | 255 | Giggly Builderline |
 | 259 | 254 | Al Smith Jr |
@@ -305,8 +305,8 @@
 | 297 | 229 | Christina Norman |
 | 298 | 228 | .running. |
 | 299 | 227 | Happy Snapbuild |
-| 300 | 226 | Snappy Brickbuilder |
-| 301 | 226 | Glitzy Buildsnap |
+| 300 | 226 | Glitzy Buildsnap |
+| 301 | 226 | Snappy Brickbuilder |
 | 302 | 225 | Angela Spann |
 | 303 | 224 | Jumpy Rotate |
 | 304 | 224 | Danielle Mae |
@@ -330,9 +330,9 @@
 | 322 | 219 | Negan Mallory Knoxx Spence |
 | 323 | 219 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 324 | 218 | Jason Benitez |
-| 325 | 217 | Betsy |
-| 326 | 217 | Speedy Snapfall |
-| 327 | 217 | Cheeky Crusher |
+| 325 | 217 | Speedy Snapfall |
+| 326 | 217 | Cheeky Crusher |
+| 327 | 217 | Betsy |
 | 328 | 216 | Shauntina Burke |
 | 329 | 216 | Chad Atchley |
 | 330 | 215 | Alenoush Karimian |
@@ -696,8 +696,8 @@
 | 688 | 104 | Amie Fields |
 | 689 | 104 | Renee Tucker |
 | 690 | 104 | Llewej Rekab |
-| 691 | 103 | Camelia Trevillion |
-| 692 | 103 | Adriansoky |
+| 691 | 103 | Adriansoky |
+| 692 | 103 | Camelia Trevillion |
 | 693 | 103 | Christa Ybarra |
 | 694 | 102 | Lil H |
 | 695 | 102 | Christina Gutierrez |

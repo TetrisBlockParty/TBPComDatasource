@@ -287,8 +287,8 @@
 | 279 | 1044 | Jennifer Aiken |
 | 280 | 1043 | Brave Dropmatch |
 | 281 | 1043 | nikki |
-| 282 | 1036 | Amber Shoemaker |
-| 283 | 1036 | Allison Lockyer |
+| 282 | 1036 | Allison Lockyer |
+| 283 | 1036 | Amber Shoemaker |
 | 284 | 1026 | Kristin Gower |
 | 285 | 1026 | F-X |
 | 286 | 1024 | Susan Perraut Jones |
@@ -311,11 +311,11 @@
 | 303 | 976 | Sam Joe |
 | 304 | 976 | Della Hole |
 | 305 | 975 | Hyper Cluster |
-| 306 | 972 | Binyah-Binyah |
-| 307 | 972 | Barbra Miller |
+| 306 | 972 | Barbra Miller |
+| 307 | 972 | Binyah-Binyah |
 | 308 | 971 | Jojo Momma |
-| 309 | 969 | Em Chen |
-| 310 | 969 | Boldy Cascadepiece |
+| 309 | 969 | Boldy Cascadepiece |
+| 310 | 969 | Em Chen |
 | 311 | 961 | Angela Lynn |
 | 312 | 959 | Phil J. Grombliniak |
 | 313 | 958 | Doowop40 |
@@ -345,8 +345,8 @@
 | 337 | 904 | Bee |
 | 338 | 903 | Giggy Blocker |
 | 339 | 901 | Kevin Sees |
-| 340 | 899 | Patrick Bartlett |
-| 341 | 899 | Chevy |
+| 340 | 899 | Chevy |
+| 341 | 899 | Patrick Bartlett |
 | 342 | 898 | Jamie Otero |
 | 343 | 895 | Donna Colby |
 | 344 | 894 | Adira Brown |
@@ -488,9 +488,9 @@
 | 480 | 691 | Arwa Fatimah |
 | 481 | 689 | Gauri Shrotriya |
 | 482 | 686 | Christine Coughlin |
-| 483 | 684 | Ellie Jonas |
+| 483 | 684 | Sarah DeHart |
 | 484 | 684 | Ann Knutson Anderson |
-| 485 | 684 | Sarah DeHart |
+| 485 | 684 | Ellie Jonas |
 | 486 | 682 | Vanessa Moreno |
 | 487 | 682 | Antionette Sewell |
 | 488 | 681 | AgileDragon |
@@ -500,8 +500,8 @@
 | 492 | 677 | Paul Combs |
 | 493 | 677 | Kayleigh Wisse |
 | 494 | 677 | Amanda Woodruff |
-| 495 | 676 | Nicky Jackson |
-| 496 | 676 | Roseanna Peloso |
+| 495 | 676 | Roseanna Peloso |
+| 496 | 676 | Nicky Jackson |
 | 497 | 675 | Lonne Emade |
 | 498 | 675 | Katelynn Hollen |
 | 499 | 674 | Ashley Munn |
@@ -675,8 +675,8 @@
 | 667 | 527 | Heather M Purcell |
 | 668 | 527 | Ryan Gunther |
 | 669 | 525 | Cris cris |
-| 670 | 523 | AsnPryBoy83 |
-| 671 | 523 | NanDa Cruzan VI |
+| 670 | 523 | NanDa Cruzan VI |
+| 671 | 523 | AsnPryBoy83 |
 | 672 | 522 | Snippy Rumbler |
 | 673 | 522 | Kathleen Driskell |
 | 674 | 522 | Leah |
@@ -757,9 +757,9 @@
 | 749 | 477 | Danielle Ayoub |
 | 750 | 476 | Mary Marie |
 | 751 | 474 | Calandra Shaya Robinson |
-| 752 | 474 | Jamie Carter Bierce |
+| 752 | 474 | Veronica Stevenson |
 | 753 | 474 | Jennifer Scott |
-| 754 | 474 | Veronica Stevenson |
+| 754 | 474 | Jamie Carter Bierce |
 | 755 | 473 | Tara Lynn Janes |
 | 756 | 473 | coleksquad |
 | 757 | 473 | Jenn Marie |
@@ -791,8 +791,8 @@
 | 783 | 460 | LaWanda Powell |
 | 784 | 459 | Pocho Zavala |
 | 785 | 457 | Kelly Meredeith |
-| 786 | 457 | Ryan Chan |
-| 787 | 457 | Jennifer Coe |
+| 786 | 457 | Jennifer Coe |
+| 787 | 457 | Ryan Chan |
 | 788 | 456 | Sabrina Burton |
 | 789 | 456 | ItsJennifer Neriss |
 | 790 | 453 | Polly Pritchard Chesler |
@@ -833,8 +833,8 @@
 | 825 | 438 | Kelly Amos |
 | 826 | 438 | Lynda Toland |
 | 827 | 438 | AkaLefty |
-| 828 | 437 | Anthony |
-| 829 | 437 | Shalisa Hill |
+| 828 | 437 | Shalisa Hill |
+| 829 | 437 | Anthony |
 | 830 | 437 | Oscar Bernie |
 | 831 | 436 | Regina Knight |
 | 832 | 436 | Christina Loftus |
@@ -941,13 +941,13 @@
 | 933 | 394 | Snappy Shatterfit |
 | 934 | 394 | Nerdy Blockpiece |
 | 935 | 393 | Jamie West |
-| 936 | 393 | Bing |
-| 937 | 393 | CC |
+| 936 | 393 | CC |
+| 937 | 393 | Bing |
 | 938 | 392 | Jroc |
 | 939 | 391 | Poppy Gridder |
 | 940 | 391 | Chilly Bridgepiece |
-| 941 | 390 | Karmabunny |
-| 942 | 390 | MauroPRM |
+| 941 | 390 | MauroPRM |
+| 942 | 390 | Karmabunny |
 | 943 | 390 | Smiley Strike |
 | 944 | 390 | Kyla Louise |
 | 945 | 390 | Tasia Stinson |
@@ -973,8 +973,8 @@
 | 965 | 382 | Brave Gridpiece |
 | 966 | 382 | Cathleena Giusto |
 | 967 | 382 | Tum |
-| 968 | 381 | Maria Hammett |
-| 969 | 381 | Cheyenne Donovan |
+| 968 | 381 | Cheyenne Donovan |
+| 969 | 381 | Maria Hammett |
 | 970 | 381 | Happy Caster |
 | 971 | 380 | bru |
 | 972 | 380 | Zesty Pivot |
@@ -992,7 +992,7 @@
 | 984 | 376 | Diona Burns |
 | 985 | 376 | Kristen Casale Berry |
 | 986 | 375 | Ashley Marie |
-| 987 | 374 | Sassy Linkbuilder |
+| 987 | 374 | Nate Lee |
 | 988 | 374 | Lively Catcher |
 | 989 | 374 | SpaceCase085 |
 | 990 | 374 | Sassy Linkbuilder |
@@ -1020,8 +1020,8 @@
 | 1012 | 366 | Ashley Criner |
 | 1013 | 366 | Madysen Holt |
 | 1014 | 366 | KrisCynthia Lynette |
-| 1015 | 365 | Dee Blokk |
-| 1016 | 365 | Wes Acton |
+| 1015 | 365 | Wes Acton |
+| 1016 | 365 | Dee Blokk |
 | 1017 | 365 | Nikki Nikki |
 | 1018 | 365 | Candace Noel |
 | 1019 | 364 | Jessica Galick |

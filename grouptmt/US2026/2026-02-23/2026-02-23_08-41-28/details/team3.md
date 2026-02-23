@@ -130,13 +130,13 @@
 | 122 | 769 | Kristie |
 | 123 | 764 | Groovy Catcher |
 | 124 | 762 | Speedy Bridger |
-| 125 | 755 | Raya |
-| 126 | 755 | Katrina Schroeder |
+| 125 | 755 | Katrina Schroeder |
+| 126 | 755 | Raya |
 | 127 | 752 | Logan Naccarato |
 | 128 | 748 | Adrian Marcel Pate |
 | 129 | 745 | JerseyJess |
-| 130 | 744 | Leah Barnett |
-| 131 | 744 | Fancy Cascader |
+| 130 | 744 | Fancy Cascader |
+| 131 | 744 | Leah Barnett |
 | 132 | 736 | mzcatzy |
 | 133 | 734 | Calista Jo Dickson |
 | 134 | 728 | Peppy Shifter |
@@ -162,8 +162,8 @@
 | 154 | 646 | Bea Miles |
 | 155 | 634 | Amber Hughes |
 | 156 | 630 | yoyo |
-| 157 | 621 | Sashay Tapae Simpson |
-| 158 | 621 | Cherry Parker |
+| 157 | 621 | Cherry Parker |
+| 158 | 621 | Sashay Tapae Simpson |
 | 159 | 616 | Kammy Hill |
 | 160 | 611 | Rochelle Hazelett |
 | 161 | 607 | Grego Daniel |
@@ -192,17 +192,17 @@
 | 184 | 556 | Elissa S-k |
 | 185 | 553 | LaTanya GeminiondaRise Johnson |
 | 186 | 548 | Danielle Balcom |
-| 187 | 546 | Mykal Burton |
-| 188 | 546 | Cynthia Castros-Hampton |
-| 189 | 546 | Tasha Schriewer |
+| 187 | 546 | Tasha Schriewer |
+| 188 | 546 | Mykal Burton |
+| 189 | 546 | Cynthia Castros-Hampton |
 | 190 | 540 | Shawn Miller |
-| 191 | 531 | Chauntee Alfrey-Cardinale |
-| 192 | 531 | Sarah Cowan Burgos |
+| 191 | 531 | Sarah Cowan Burgos |
+| 192 | 531 | Chauntee Alfrey-Cardinale |
 | 193 | 528 | Silly Twist |
 | 194 | 525 | Stephanie Blkpep Davidson |
 | 195 | 524 | Bmo |
-| 196 | 519 | rnr junky |
-| 197 | 519 | Terry Jo Jones |
+| 196 | 519 | Terry Jo Jones |
+| 197 | 519 | rnr junky |
 | 198 | 515 | Cozy Snaplink |
 | 199 | 508 | Makelini Mausia |
 | 200 | 503 | Tye Stovall |
@@ -214,8 +214,8 @@
 | 206 | 488 | Melissa Orth Hunter |
 | 207 | 485 | Dapper Snap |
 | 208 | 484 | Fallorina Susana |
-| 209 | 480 | Danielle Allison |
-| 210 | 480 | Michael Johnson |
+| 209 | 480 | Michael Johnson |
+| 210 | 480 | Danielle Allison |
 | 211 | 477 | Edwin Calvillo Jr. |
 | 212 | 475 | Tessina Dewey-Mancino |
 | 213 | 473 | Rachel |
@@ -349,8 +349,8 @@
 | 341 | 298 | Grams |
 | 342 | 298 | Dannie Litchard |
 | 343 | 297 | kacihall |
-| 344 | 296 | Donna |
-| 345 | 296 | Tracy Martin |
+| 344 | 296 | Tracy Martin |
+| 345 | 296 | Donna |
 | 346 | 295 | Nikki Pags |
 | 347 | 294 | Kaycee Kay |
 | 348 | 294 | Antonia Russell |
@@ -401,8 +401,8 @@
 | 393 | 265 | AlsoJess |
 | 394 | 264 | Reina Roth |
 | 395 | 264 | Danielle Beaunoyer Jean |
-| 396 | 263 | Erika Thornton |
-| 397 | 263 | Jimmie Clemons |
+| 396 | 263 | Jimmie Clemons |
+| 397 | 263 | Erika Thornton |
 | 398 | 261 | Swanky Snapclear |
 | 399 | 260 | Tracey Cox |
 | 400 | 260 | Alice |
@@ -472,8 +472,8 @@
 | 464 | 230 | BigE |
 | 465 | 229 | MizzMonick Smith |
 | 466 | 229 | Everret Maxine |
-| 467 | 228 | Tipsy Zonebuilder |
-| 468 | 228 | Dapper Liney |
+| 467 | 228 | Dapper Liney |
+| 468 | 228 | Tipsy Zonebuilder |
 | 469 | 227 | Meowsa |
 | 470 | 226 | paranoid |
 | 471 | 226 | Ryan Williams |
@@ -514,11 +514,11 @@
 | 506 | 211 | El Chapa |
 | 507 | 211 | Michael Pleasant |
 | 508 | 210 | Maia |
-| 509 | 210 | Megan Riggins |
-| 510 | 210 | Kristian Thurman |
+| 509 | 210 | Kristian Thurman |
+| 510 | 210 | Megan Riggins |
 | 511 | 209 | Ginger Gray |
-| 512 | 209 | TazB |
-| 513 | 209 | Jumpy Wrecker |
+| 512 | 209 | Jumpy Wrecker |
+| 513 | 209 | TazB |
 | 514 | 208 | Jessica Christian |
 | 515 | 208 | Luccy Luxe |
 | 516 | 207 | Misstery |
@@ -526,10 +526,10 @@
 | 518 | 206 | Tammy Rosenberry |
 | 519 | 206 | Dakota Graham |
 | 520 | 205 | Rachel Napper |
-| 521 | 205 | Bouncy Blockbuilder |
-| 522 | 205 | Emberblaze |
-| 523 | 204 | Daisy Rocha |
-| 524 | 204 | Sassy Brickmatch |
+| 521 | 205 | Emberblaze |
+| 522 | 205 | Bouncy Blockbuilder |
+| 523 | 204 | Sassy Brickmatch |
+| 524 | 204 | Daisy Rocha |
 | 525 | 204 | Lesley Perez |
 | 526 | 203 | Irene Arreguin |
 | 527 | 203 | Sdot |
@@ -561,8 +561,8 @@
 | 553 | 195 | Nicha Hooker |
 | 554 | 195 | toony |
 | 555 | 194 | Shicken Nuggit |
-| 556 | 193 | Clever Shiftsnap |
-| 557 | 193 | Bryan Byrd |
+| 556 | 193 | Bryan Byrd |
+| 557 | 193 | Clever Shiftsnap |
 | 558 | 192 | Jennifer Neiman Gaal |
 | 559 | 192 | Laura Booth Wosko |
 | 560 | 192 | Kelly Ann Child |
@@ -1303,8 +1303,8 @@
 | 1295 | 83 | Loopy Glide |
 | 1296 | 83 | Brave Builderline |
 | 1297 | 83 | Draw |
-| 1298 | 83 | Dorothy Schetzel |
-| 1299 | 83 | Lush Balancepiece |
+| 1298 | 83 | Lush Balancepiece |
+| 1299 | 83 | Dorothy Schetzel |
 | 1300 | 82 | Tiffanie Alley |
 | 1301 | 82 | Citysprout |
 | 1302 | 82 | Janessa Nicholson |
