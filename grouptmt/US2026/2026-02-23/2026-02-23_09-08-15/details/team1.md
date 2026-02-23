@@ -219,14 +219,14 @@
 | 211 | 308 | Speedy Liney |
 | 212 | 306 | Angela Renea Lester |
 | 213 | 304 | Sarah Somers Gray |
-| 214 | 301 | Damon J. Martin |
-| 215 | 301 | Cody Gates |
+| 214 | 301 | Cody Gates |
+| 215 | 301 | Damon J. Martin |
 | 216 | 300 | Sleepysloath5745 |
 | 217 | 298 | Billie Ann Eason |
 | 218 | 298 | Sweetts |
 | 219 | 295 | Lakeisha Chapman |
-| 220 | 294 | Bindi |
-| 221 | 294 | Chuck Gannon |
+| 220 | 294 | Chuck Gannon |
+| 221 | 294 | Bindi |
 | 222 | 293 | John Kim |
 | 223 | 291 | Brave Wrecker |
 | 224 | 291 | Giddy Cascade |
@@ -236,10 +236,10 @@
 | 228 | 285 | Bird Person |
 | 229 | 285 | Shanae Grant |
 | 230 | 284 | Sam Williams |
-| 231 | 283 | Amanda Holibaugh |
-| 232 | 283 | Franswa |
-| 233 | 282 | Mandyy Rae |
-| 234 | 282 | Timothy Dew |
+| 231 | 283 | Franswa |
+| 232 | 283 | Amanda Holibaugh |
+| 233 | 282 | Timothy Dew |
+| 234 | 282 | Mandyy Rae |
 | 235 | 281 | Clever Cascadepiece |
 | 236 | 280 | Eric DeSimone |
 | 237 | 280 | MIKOZ |
@@ -259,10 +259,10 @@
 | 251 | 267 | Daring Fitclear |
 | 252 | 265 | Kandae |
 | 253 | 264 | Jenny Gingrich Fuentes |
-| 254 | 261 | John J. Cronin |
-| 255 | 261 | Brooke Elizabeth Antill |
-| 256 | 260 | Marianita Garcia |
-| 257 | 260 | Lacy Wolfe |
+| 254 | 261 | Brooke Elizabeth Antill |
+| 255 | 261 | John J. Cronin |
+| 256 | 260 | Lacy Wolfe |
+| 257 | 260 | Marianita Garcia |
 | 258 | 256 | Chris Sigurdson |
 | 259 | 255 | Giggly Builderline |
 | 260 | 255 | Beazel75 |
@@ -591,8 +591,8 @@
 | 583 | 127 | Laurie Sanderson |
 | 584 | 126 | Steven Schultheis |
 | 585 | 125 | MomOf2Angels |
-| 586 | 125 | Nicole Bryant |
-| 587 | 125 | Tiffany Daboss Seymour |
+| 586 | 125 | Tiffany Daboss Seymour |
+| 587 | 125 | Nicole Bryant |
 | 588 | 124 | Margie Olivas |
 | 589 | 124 | Brandi Egbert |
 | 590 | 123 | Chirpy Liner |

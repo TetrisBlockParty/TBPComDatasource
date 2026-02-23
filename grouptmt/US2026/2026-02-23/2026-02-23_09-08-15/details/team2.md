@@ -305,8 +305,8 @@
 | 297 | 996 | Ashie Ann |
 | 298 | 987 | Osun Anuket Esu |
 | 299 | 984 | Crystal Hoffman |
-| 300 | 979 | Melissa Penelope Ann Dodge |
-| 301 | 979 | Hillary Crawford |
+| 300 | 979 | Hillary Crawford |
+| 301 | 979 | Melissa Penelope Ann Dodge |
 | 302 | 978 | April Dawn Gussler |
 | 303 | 976 | Sam Joe |
 | 304 | 976 | Della Hole |
@@ -323,8 +323,8 @@
 | 315 | 957 | Block Master |
 | 316 | 955 | Angela Bonquiqui Dinish |
 | 317 | 954 | Melissa McCall |
-| 318 | 951 | Cynthia Ward |
-| 319 | 951 | Wakanda Forever |
+| 318 | 951 | Wakanda Forever |
+| 319 | 951 | Cynthia Ward |
 | 320 | 949 | Steve Man |
 | 321 | 947 | Dedra Steward |
 | 322 | 942 | Cindy Sechler Taninecz |
@@ -346,8 +346,8 @@
 | 338 | 903 | Eric Castaneda |
 | 339 | 903 | Giggy Blocker |
 | 340 | 901 | Kevin Sees |
-| 341 | 899 | Patrick Bartlett |
-| 342 | 899 | Chevy |
+| 341 | 899 | Chevy |
+| 342 | 899 | Patrick Bartlett |
 | 343 | 898 | Jamie Otero |
 | 344 | 895 | Donna Colby |
 | 345 | 894 | Adira Brown |
@@ -439,8 +439,8 @@
 | 431 | 751 | Breezy Filler |
 | 432 | 750 | Draizen Montrell Thomas |
 | 433 | 748 | Spunkysmom |
-| 434 | 748 | Brenda Utphall |
-| 435 | 748 | Ann Matzkanin |
+| 434 | 748 | Ann Matzkanin |
+| 435 | 748 | Brenda Utphall |
 | 436 | 746 | Leslie Ann Carter |
 | 437 | 742 | tejas25 |
 | 438 | 741 | Jánine Riggs |
@@ -624,8 +624,8 @@
 | 616 | 566 | Tina Marie |
 | 617 | 566 | Lindsey Leigh |
 | 618 | 564 | Stacey Tranchida |
-| 619 | 563 | Frisky Clearpiece |
-| 620 | 563 | Nat |
+| 619 | 563 | Nat |
+| 620 | 563 | Frisky Clearpiece |
 | 621 | 562 | Sabrena Yeisley |
 | 622 | 559 | Anthony Huebel |
 | 623 | 559 | Alexx Anaya |
@@ -669,8 +669,8 @@
 | 661 | 532 | Snappy Faller |
 | 662 | 531 | Maricia Layolla Cason |
 | 663 | 531 | Beth Decker |
-| 664 | 529 | Snazzy Basepiece |
-| 665 | 529 | Ganieda |
+| 664 | 529 | Ganieda |
+| 665 | 529 | Snazzy Basepiece |
 | 666 | 528 | Kyle LeRoy Harris |
 | 667 | 528 | Ha Ab |
 | 668 | 527 | Heather M Purcell |
@@ -689,8 +689,8 @@
 | 681 | 517 | Daring Caster |
 | 682 | 516 | Diamond Scott |
 | 683 | 515 | Gina Bahn |
-| 684 | 515 | Klee |
-| 685 | 515 | Adam Simmons |
+| 684 | 515 | Adam Simmons |
+| 685 | 515 | Klee |
 | 686 | 514 | DefaultUser |
 | 687 | 513 | MrsCandyfine As Wine Truss |
 | 688 | 512 | Leslie Jorgenson |
@@ -770,8 +770,8 @@
 | 762 | 472 | Connie Lepore-Mann |
 | 763 | 471 | Charming Leech |
 | 764 | 470 | Katie Marie |
-| 765 | 470 | ToShi |
-| 766 | 470 | Amanda Chamberlain |
+| 765 | 470 | Amanda Chamberlain |
+| 766 | 470 | ToShi |
 | 767 | 468 | Brenda Annabel Smith |
 | 768 | 468 | Niceday |
 | 769 | 467 | ruth |
@@ -817,8 +817,8 @@
 | 809 | 447 | Boozi |
 | 810 | 446 | Colin Morgan |
 | 811 | 446 | Courtney Burcham |
-| 812 | 445 | Mar Q Thomas |
-| 813 | 445 | Beatboxxer |
+| 812 | 445 | Beatboxxer |
+| 813 | 445 | Mar Q Thomas |
 | 814 | 444 | Angela Murgia-Owen |
 | 815 | 443 | Giggy Grabber |
 | 816 | 443 | N00D3S |
@@ -899,7 +899,7 @@
 | 891 | 406 | Johanna Massaro |
 | 892 | 406 | Epic Stackbuilder |
 | 893 | 406 | Lazy Builderfit |
-| 894 | 406 | Epic Stackbuilder |
+| 894 | 406 | Erin StFrancis |
 | 895 | 406 | Susan Arnburg |
 | 896 | 405 | Dane Reing |
 | 897 | 405 | Marget Kay |
@@ -1178,8 +1178,8 @@
 | 1170 | 321 | Claire |
 | 1171 | 321 | Swanky Snap |
 | 1172 | 321 | Frilly Tilemaker |
-| 1173 | 321 | Crystal Herndon |
-| 1174 | 321 | Jennifer Monteleone |
+| 1173 | 321 | Jennifer Monteleone |
+| 1174 | 321 | Crystal Herndon |
 | 1175 | 320 | Reece Smith |
 | 1176 | 320 | Peachy Blockbuilder |
 | 1177 | 320 | Renee Bowers |
@@ -1228,8 +1228,8 @@
 | 1220 | 310 | Angelica |
 | 1221 | 310 | Jessica Sutter |
 | 1222 | 309 | Richard Hunt |
-| 1223 | 309 | LintFunk |
-| 1224 | 309 | Nutty Matchline |
+| 1223 | 309 | Nutty Matchline |
+| 1224 | 309 | LintFunk |
 | 1225 | 309 | Funky Liney |
 | 1226 | 308 | Hyper Riseclear |
 | 1227 | 308 | Chilly Linkfall |
@@ -1240,8 +1240,8 @@
 | 1232 | 307 | Chirpy Tilt |
 | 1233 | 307 | Lazy Riseclear |
 | 1234 | 307 | Fancy Smasher |
-| 1235 | 306 | Chill Strike |
-| 1236 | 306 | Alison Emmons |
+| 1235 | 306 | Alison Emmons |
+| 1236 | 306 | Chill Strike |
 | 1237 | 306 | Angela Nguyen |
 | 1238 | 306 | Sedo |
 | 1239 | 305 | Tonya Goetze-Micheli |
@@ -1470,9 +1470,9 @@
 | 1462 | 268 | GgReignz |
 | 1463 | 268 | Anne White |
 | 1464 | 268 | lady |
-| 1465 | 267 | Nicole Sanqui |
-| 1466 | 267 | Veronica Martin Trinkle |
-| 1467 | 267 | Sanaa Nounoussa |
+| 1465 | 267 | Sanaa Nounoussa |
+| 1466 | 267 | Nicole Sanqui |
+| 1467 | 267 | Veronica Martin Trinkle |
 | 1468 | 267 | LC Hamilton |
 | 1469 | 267 | Goofy Cascadeclear |
 | 1470 | 267 | Dorinda Palato |

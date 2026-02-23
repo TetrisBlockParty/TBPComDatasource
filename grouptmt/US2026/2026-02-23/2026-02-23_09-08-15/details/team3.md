@@ -492,8 +492,8 @@
 | 484 | 221 | Vaners |
 | 485 | 221 | Glitzy Rotate |
 | 486 | 220 | Bhreagh Gentile |
-| 487 | 219 | Trice Thomas |
-| 488 | 219 | TLM |
+| 487 | 219 | TLM |
+| 488 | 219 | Trice Thomas |
 | 489 | 218 | Sabrina Mansfield |
 | 490 | 218 | Dapper Chiseler |
 | 491 | 218 | Tina Smith Roy |
@@ -594,8 +594,8 @@
 | 586 | 185 | Ashley Kennedy |
 | 587 | 185 | Breezy Roll |
 | 588 | 184 | Shanon R Jackson |
-| 589 | 184 | Christian Luna |
-| 590 | 184 | Barb Wensink Johnson |
+| 589 | 184 | Barb Wensink Johnson |
+| 590 | 184 | Christian Luna |
 | 591 | 183 | Mel Murr |
 | 592 | 183 | AC Yeater |
 | 593 | 183 | Silly Curvetile |
@@ -615,8 +615,8 @@
 | 607 | 181 | Julia Nicole |
 | 608 | 180 | Chipper Piecefit |
 | 609 | 180 | Stella |
-| 610 | 179 | Alexi Pryor |
-| 611 | 179 | Boldy Corner |
+| 610 | 179 | Boldy Corner |
+| 611 | 179 | Alexi Pryor |
 | 612 | 179 | Num1hater |
 | 613 | 179 | Ruchi Smit |
 | 614 | 178 | Jillian Ann |
