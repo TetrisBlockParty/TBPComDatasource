@@ -147,14 +147,14 @@
 | 139 | 425 | Tyler Werts |
 | 140 | 423 | ALFD |
 | 141 | 417 | Phu ckalldems |
-| 142 | 406 | Desiree Deschaine Havee |
-| 143 | 406 | Candy Jones |
+| 142 | 406 | Candy Jones |
+| 143 | 406 | Desiree Deschaine Havee |
 | 144 | 405 | Mike Ames |
 | 145 | 404 | Jessie Lynn |
 | 146 | 402 | Chris K |
 | 147 | 399 | Nery Martinez |
-| 148 | 394 | Jennifer Hardman |
-| 149 | 394 | Lori Bales |
+| 148 | 394 | Lori Bales |
+| 149 | 394 | Jennifer Hardman |
 | 150 | 389 | David Miller |
 | 151 | 388 | Fmp |
 | 152 | 387 | Monica Donato |
@@ -164,8 +164,8 @@
 | 156 | 383 | pjbeta |
 | 157 | 383 | Margo Wagner |
 | 158 | 380 | phrmblk24 |
-| 159 | 379 | Austin James |
-| 160 | 379 | Kimmie Kimms |
+| 159 | 379 | Kimmie Kimms |
+| 160 | 379 | Austin James |
 | 161 | 378 | Jessica Sheehan |
 | 162 | 376 | Death |
 | 163 | 376 | Brian Richardsson |

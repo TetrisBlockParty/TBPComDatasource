@@ -114,8 +114,8 @@
 | 106 | 869 | Araceli Parra |
 | 107 | 868 | Sarajane Lokan |
 | 108 | 860 | Sunny Rotater |
-| 109 | 851 | Jd Morris |
-| 110 | 851 | Danielle Becker |
+| 109 | 851 | Danielle Becker |
+| 110 | 851 | Jd Morris |
 | 111 | 850 | Danielle Mogg |
 | 112 | 848 | Patricia Gadsden |
 | 113 | 839 | Angeline Joseph |
@@ -129,11 +129,11 @@
 | 121 | 779 | Justin Ritter |
 | 122 | 773 | Daira Largen |
 | 123 | 769 | Kristie |
-| 124 | 764 | Groovy Catcher |
-| 125 | 764 | Hasty Cascadefit |
+| 124 | 764 | Hasty Cascadefit |
+| 125 | 764 | Groovy Catcher |
 | 126 | 762 | Speedy Bridger |
-| 127 | 755 | Katrina Schroeder |
-| 128 | 755 | Raya |
+| 127 | 755 | Raya |
+| 128 | 755 | Katrina Schroeder |
 | 129 | 752 | Logan Naccarato |
 | 130 | 748 | Adrian Marcel Pate |
 | 131 | 745 | JerseyJess |
@@ -300,8 +300,8 @@
 | 292 | 353 | Dee Franklin |
 | 293 | 353 | Cyd061769 |
 | 294 | 352 | Christian Werndl |
-| 295 | 351 | Eon Harris |
-| 296 | 351 | Blocked |
+| 295 | 351 | Blocked |
+| 296 | 351 | Eon Harris |
 | 297 | 350 | LaShey Thompson |
 | 298 | 349 | Amanda J. Mcneil-Anderson |
 | 299 | 349 | Jennifer Alvey |
@@ -403,13 +403,13 @@
 | 395 | 272 | Tay |
 | 396 | 272 | Todd Hall |
 | 397 | 269 | Goofy Fall |
-| 398 | 269 | Juliana Dottore |
-| 399 | 269 | Samantha Worley |
+| 398 | 269 | Samantha Worley |
+| 399 | 269 | Juliana Dottore |
 | 400 | 269 | Jess Bissett |
 | 401 | 268 | Jessica Lynn French |
 | 402 | 267 | Jul |
-| 403 | 267 | April Matthew Kibble |
-| 404 | 267 | Michael Kimbro |
+| 403 | 267 | Michael Kimbro |
+| 404 | 267 | April Matthew Kibble |
 | 405 | 266 | Sarah Muradyan |
 | 406 | 266 | Quirky Dropzone |
 | 407 | 265 | Heather Davis |
@@ -501,15 +501,15 @@
 | 493 | 221 | Vaners |
 | 494 | 221 | Glitzy Rotate |
 | 495 | 220 | Bhreagh Gentile |
-| 496 | 219 | TLM |
-| 497 | 219 | Trice Thomas |
+| 496 | 219 | Trice Thomas |
+| 497 | 219 | TLM |
 | 498 | 218 | Sabrina Mansfield |
 | 499 | 218 | Ginger Gray |
 | 500 | 218 | Tina Smith Roy |
 | 501 | 218 | Dapper Chiseler |
 | 502 | 217 | Jazzy Spinfit |
-| 503 | 217 | Tia Moore |
-| 504 | 217 | Katie Leigh Blankenship |
+| 503 | 217 | Katie Leigh Blankenship |
+| 504 | 217 | Tia Moore |
 | 505 | 216 | Amanda Declue |
 | 506 | 215 | Julia Nicole |
 | 507 | 214 | Crystal Hine |

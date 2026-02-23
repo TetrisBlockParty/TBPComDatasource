@@ -76,8 +76,8 @@
 | 68 | 787 | Edward White |
 | 69 | 767 | Shannon Ferrari |
 | 70 | 766 | Robin Watters |
-| 71 | 765 | Robin Getchel |
-| 72 | 765 | Denise Carlson |
+| 71 | 765 | Denise Carlson |
+| 72 | 765 | Robin Getchel |
 | 73 | 753 | TheNeesh50 |
 | 74 | 752 | Shane Kalamata Platoon |
 | 75 | 749 | Dustee Craddock-Harrison |
@@ -98,8 +98,8 @@
 | 90 | 659 | Jamie Gustafson |
 | 91 | 653 | Rica Mitchell |
 | 92 | 650 | KJ Pool |
-| 93 | 647 | KM8 |
-| 94 | 647 | Shauna Havard |
+| 93 | 647 | Shauna Havard |
+| 94 | 647 | KM8 |
 | 95 | 646 | Eric Mcgaughy |
 | 96 | 626 | Brittney Griggs |
 | 97 | 624 | Judy Cox |
@@ -125,11 +125,11 @@
 | 117 | 527 | Dizzy Tiley |
 | 118 | 519 | Nugget |
 | 119 | 517 | shar |
-| 120 | 514 | Serena Goodridge |
-| 121 | 514 | Scott Jameson |
+| 120 | 514 | Scott Jameson |
+| 121 | 514 | Serena Goodridge |
 | 122 | 513 | Erin Thomas |
-| 123 | 512 | Casey Jeffcoat |
-| 124 | 512 | Cristy Duerksen |
+| 123 | 512 | Cristy Duerksen |
+| 124 | 512 | Casey Jeffcoat |
 | 125 | 509 | Leslie Nicole |
 | 126 | 498 | Andy Cabral |
 | 127 | 483 | Angela Srubar-Norman |
@@ -205,12 +205,12 @@
 | 197 | 336 | JPW |
 | 198 | 332 | HastyGrabber |
 | 199 | 331 | Alan George LaRage |
-| 200 | 330 | blockstar |
-| 201 | 330 | Kathy Brookins |
+| 200 | 330 | Kathy Brookins |
+| 201 | 330 | blockstar |
 | 202 | 328 | scott |
 | 203 | 327 | J-Rizzle |
-| 204 | 324 | TinyLegoRose |
-| 205 | 324 | jim |
+| 204 | 324 | jim |
+| 205 | 324 | TinyLegoRose |
 | 206 | 321 | Meagan Nicole |
 | 207 | 320 | Lauren Scott |
 | 208 | 319 | Googenheim |
@@ -286,8 +286,8 @@
 | 278 | 253 | Autum Leigh |
 | 279 | 251 | Carol Ricks Raymond |
 | 280 | 249 | Ak Jones |
-| 281 | 248 | Chirpy Basepiece |
-| 282 | 248 | Angelito |
+| 281 | 248 | Angelito |
+| 282 | 248 | Chirpy Basepiece |
 | 283 | 248 | Jose Dejesus |
 | 284 | 245 | 23 |
 | 285 | 244 | Perky Piecegrid |
@@ -328,8 +328,8 @@
 | 320 | 220 | Ziggy |
 | 321 | 220 | Jumpy Zonepiece |
 | 322 | 220 | Tina Lopez |
-| 323 | 219 | Shane Vick |
-| 324 | 219 | Orchislactea |
+| 323 | 219 | Orchislactea |
+| 324 | 219 | Shane Vick |
 | 325 | 218 | Janita Parrish |
 | 326 | 218 | Stephme310 |
 | 327 | 217 | Alexandra Karavias |

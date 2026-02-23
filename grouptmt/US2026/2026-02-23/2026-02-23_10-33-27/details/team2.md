@@ -231,8 +231,8 @@
 | 223 | 1232 | Ambyre Patterson |
 | 224 | 1230 | Megan Garrick |
 | 225 | 1221 | Jane Fong |
-| 226 | 1217 | Lucky Ladybug |
-| 227 | 1217 | Brooks Brooks |
+| 226 | 1217 | Brooks Brooks |
+| 227 | 1217 | Lucky Ladybug |
 | 228 | 1216 | Pacynthia Williams |
 | 229 | 1214 | David Cudicio-Hayden |
 | 230 | 1211 | Ricardo Burton |
@@ -387,8 +387,8 @@
 | 379 | 832 | Nicole L Morelli |
 | 380 | 831 | Christina Lewis-Vickers |
 | 381 | 830 | Smashanator |
-| 382 | 829 | Jessica Wayne Cornwall |
-| 383 | 829 | Angie Bolton Workman |
+| 382 | 829 | Angie Bolton Workman |
+| 383 | 829 | Jessica Wayne Cornwall |
 | 384 | 828 | Kimmy Newman |
 | 385 | 825 | Jeremy Parodi |
 | 386 | 824 | Danielle Johnson-Chandler |
@@ -402,8 +402,8 @@
 | 394 | 808 | Desire Rice |
 | 395 | 808 | Laura McCarthey |
 | 396 | 804 | Becca Coronado |
-| 397 | 801 | Gold Rose |
-| 398 | 801 | Diana Fitzwater |
+| 397 | 801 | Diana Fitzwater |
+| 398 | 801 | Gold Rose |
 | 399 | 800 | Arlene Joy Belicina |
 | 400 | 799 | Kenny Alvarado |
 | 401 | 799 | Joy LaJeunesse |
@@ -416,8 +416,8 @@
 | 408 | 788 | Erika Densmore |
 | 409 | 787 | Tiara Elizabeth Baker |
 | 410 | 783 | John Rodriguez |
-| 411 | 777 | Jessicah Myers |
-| 412 | 777 | Tesha Oldaker |
+| 411 | 777 | Tesha Oldaker |
+| 412 | 777 | Jessicah Myers |
 | 413 | 776 | Fancy Twister |
 | 414 | 776 | Mighty Spinbuilder |
 | 415 | 775 | Crystie Hicks |
@@ -492,8 +492,8 @@
 | 484 | 695 | Lakeysha Dortch |
 | 485 | 693 | Ryan Stadel |
 | 486 | 692 | Shaun Church |
-| 487 | 691 | Samuel Macon |
-| 488 | 691 | Arwa Fatimah |
+| 487 | 691 | Arwa Fatimah |
+| 488 | 691 | Samuel Macon |
 | 489 | 689 | Gauri Shrotriya |
 | 490 | 688 | Darla Silva |
 | 491 | 686 | Christine Coughlin |
@@ -638,8 +638,8 @@
 | 630 | 566 | Tina Marie |
 | 631 | 566 | Lindsey Leigh |
 | 632 | 564 | Stacey Tranchida |
-| 633 | 563 | Frisky Clearpiece |
-| 634 | 563 | Nat |
+| 633 | 563 | Nat |
+| 634 | 563 | Frisky Clearpiece |
 | 635 | 562 | Sabrena Yeisley |
 | 636 | 559 | Alexx Anaya |
 | 637 | 559 | Anthony Huebel |
@@ -879,8 +879,8 @@
 | 871 | 427 | Jo Nicole |
 | 872 | 426 | Rose Fx |
 | 873 | 425 | Stephanie Fortune |
-| 874 | 424 | Christine Egidio Morocco |
-| 875 | 424 | ToxicTrash |
+| 874 | 424 | ToxicTrash |
+| 875 | 424 | Christine Egidio Morocco |
 | 876 | 423 | Lawanda Forbes |
 | 877 | 422 | Kimberly Ann |
 | 878 | 422 | Ys Muhammed |
