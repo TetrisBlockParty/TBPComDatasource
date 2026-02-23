@@ -128,8 +128,8 @@
 | 120 | 769 | Kristie |
 | 121 | 764 | Groovy Catcher |
 | 122 | 762 | Speedy Bridger |
-| 123 | 752 | Raya |
-| 124 | 752 | Logan Naccarato |
+| 123 | 752 | Logan Naccarato |
+| 124 | 752 | Raya |
 | 125 | 748 | Adrian Marcel Pate |
 | 126 | 745 | JerseyJess |
 | 127 | 744 | Fancy Cascader |
@@ -211,11 +211,11 @@
 | 203 | 488 | Melissa Orth Hunter |
 | 204 | 485 | Dapper Snap |
 | 205 | 484 | Fallorina Susana |
-| 206 | 480 | Danielle Allison |
-| 207 | 480 | Michael Johnson |
+| 206 | 480 | Michael Johnson |
+| 207 | 480 | Danielle Allison |
 | 208 | 475 | Tessina Dewey-Mancino |
-| 209 | 473 | Connie Mohler-Fair |
-| 210 | 473 | Rachel |
+| 209 | 473 | Rachel |
+| 210 | 473 | Connie Mohler-Fair |
 | 211 | 471 | Mendoza Lee Christy |
 | 212 | 467 | Sherry Ogden |
 | 213 | 465 | Annie Déè |
@@ -231,13 +231,13 @@
 | 223 | 448 | Scott Carleton |
 | 224 | 437 | Loopy Clusterer |
 | 225 | 432 | Luciana Braganca Vieira |
-| 226 | 431 | Ammmmmmy |
-| 227 | 431 | Wendy Dearden |
+| 226 | 431 | Wendy Dearden |
+| 227 | 431 | Ammmmmmy |
 | 228 | 430 | Jeni Dow |
 | 229 | 418 | Rebecca Funderburk Kirby |
 | 230 | 414 | Fran Lin |
-| 231 | 410 | Stephanie Simpson |
-| 232 | 410 | Duane Bright |
+| 231 | 410 | Duane Bright |
+| 232 | 410 | Stephanie Simpson |
 | 233 | 408 | Tiffany Ford |
 | 234 | 406 | Kristal C Lee |
 | 235 | 404 | Chasity |
@@ -344,8 +344,8 @@
 | 336 | 298 | Dannie Litchard |
 | 337 | 298 | Grams |
 | 338 | 297 | kacihall |
-| 339 | 296 | Donna |
-| 340 | 296 | Tracy Martin |
+| 339 | 296 | Tracy Martin |
+| 340 | 296 | Donna |
 | 341 | 295 | Nikki Pags |
 | 342 | 294 | Antonia Russell |
 | 343 | 292 | Lizabeth Fox |
@@ -721,7 +721,7 @@
 | 713 | 152 | Aponk |
 | 714 | 152 | Lisa Ann |
 | 715 | 152 | Kate Farok |
-| 716 | 152 | Lisa Ann |
+| 716 | 152 | Christine Vosburgh |
 | 717 | 151 | Lisa Bard |
 | 718 | 151 | Brad Dimitroff |
 | 719 | 150 | Macaulay Logel |

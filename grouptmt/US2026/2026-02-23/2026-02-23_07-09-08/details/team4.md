@@ -153,12 +153,12 @@
 | 145 | 418 | Marie-Pier Desjardins |
 | 146 | 418 | Lush Linkfall |
 | 147 | 416 | Chaz Duncan |
-| 148 | 414 | Swanky Fitline |
-| 149 | 414 | Nope Young |
+| 148 | 414 | Nope Young |
+| 149 | 414 | Swanky Fitline |
 | 150 | 412 | Jessica Bohlken |
 | 151 | 408 | Amanda Pauldo-Ivy |
-| 152 | 406 | Damn Libra |
-| 153 | 406 | Livvy |
+| 152 | 406 | Livvy |
+| 153 | 406 | Damn Libra |
 | 154 | 398 | Tyler Terrific |
 | 155 | 393 | Girl |
 | 156 | 393 | Carlton Unfiltered |
@@ -176,8 +176,8 @@
 | 168 | 368 | Chris Bernstein |
 | 169 | 368 | Raegan Lane-Ross |
 | 170 | 365 | Jeff Brian Gates |
-| 171 | 361 | Melissa Adams |
-| 172 | 361 | Danielle Kollias |
+| 171 | 361 | Danielle Kollias |
+| 172 | 361 | Melissa Adams |
 | 173 | 359 | Keith Kelley |
 | 174 | 358 | A5! |
 | 175 | 358 | Circuit8 |
@@ -259,8 +259,8 @@
 | 251 | 264 | ZeeZee |
 | 252 | 264 | Stella |
 | 253 | 263 | rebel4lyfe |
-| 254 | 262 | Selena Shaw |
-| 255 | 262 | BigSammy420 |
+| 254 | 262 | BigSammy420 |
+| 255 | 262 | Selena Shaw |
 | 256 | 261 | Zethra Prenisha Rahming |
 | 257 | 260 | Carly Alexis |
 | 258 | 260 | Lori |

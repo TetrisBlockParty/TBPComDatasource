@@ -255,8 +255,8 @@
 | 247 | 1126 | Dolores Russworn |
 | 248 | 1121 | Tommy Tha Boss Gunz |
 | 249 | 1121 | Sarah Freitas |
-| 250 | 1114 | Ginnell Browner |
-| 251 | 1114 | Kevin Walp |
+| 250 | 1114 | Kevin Walp |
+| 251 | 1114 | Ginnell Browner |
 | 252 | 1111 | Julay |
 | 253 | 1110 | Robin Kerby |
 | 254 | 1105 | Nerdy Clearfit |
@@ -580,8 +580,8 @@
 | 572 | 589 | Kelly Templeton |
 | 573 | 588 | Kitybox |
 | 574 | 587 | Ben Barkley |
-| 575 | 585 | Sarah Berger |
-| 576 | 585 | Jessica Lamb |
+| 575 | 585 | Jessica Lamb |
+| 576 | 585 | Sarah Berger |
 | 577 | 584 | Daniell Martinez |
 | 578 | 583 | AISlop |
 | 579 | 583 | Koa N Sharon Chen |
