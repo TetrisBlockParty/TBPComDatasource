@@ -59,9 +59,9 @@
 | 51 | 1147 | Jae Job |
 | 52 | 1105 | Ashley Ingram |
 | 53 | 1085 | Kimyatta Cavin |
-| 54 | 1082 | Dion Crommarty |
+| 54 | 1082 | Dawn Alexander |
 | 55 | 1082 | Avy Absol |
-| 56 | 1082 | Dawn Alexander |
+| 56 | 1082 | Dion Crommarty |
 | 57 | 1065 | Dustee Craddock-Harrison |
 | 58 | 1049 | Heather Tushner |
 | 59 | 1046 | Johnathan Martinez |
@@ -175,8 +175,8 @@
 | 167 | 491 | Jade Rian |
 | 168 | 486 | Swanky Fitline |
 | 169 | 485 | Rico |
-| 170 | 480 | Brandon Crabbs |
-| 171 | 480 | Adam Stephanie Parker |
+| 170 | 480 | Adam Stephanie Parker |
+| 171 | 480 | Brandon Crabbs |
 | 172 | 479 | Christina Black |
 | 173 | 477 | Casey Grabner |
 | 174 | 476 | Matt Summer |
@@ -326,14 +326,14 @@
 | 318 | 284 | Glitzy Corner |
 | 319 | 283 | Jackie Clark |
 | 320 | 282 | DQ Martin |
-| 321 | 281 | rebel4lyfe |
+| 321 | 281 | Morti |
 | 322 | 281 | Laura |
-| 323 | 281 | Morti |
+| 323 | 281 | rebel4lyfe |
 | 324 | 280 | Amy Sanford |
 | 325 | 279 | Brittany Marsh |
 | 326 | 279 | Jim Hart |
-| 327 | 278 | Zethra Prenisha Rahming |
-| 328 | 278 | Sarah Brown |
+| 327 | 278 | Sarah Brown |
+| 328 | 278 | Zethra Prenisha Rahming |
 | 329 | 278 | Angela Geist Jusinski |
 | 330 | 276 | Silly SeaWeed |
 | 331 | 276 | Susan Williams |
@@ -352,8 +352,8 @@
 | 344 | 267 | Metsfan |
 | 345 | 266 | Happy Combo |
 | 346 | 265 | Sarah Neathery |
-| 347 | 265 | Lorena Guerrero-Barron |
-| 348 | 265 | Christine Therrien |
+| 347 | 265 | Christine Therrien |
+| 348 | 265 | Lorena Guerrero-Barron |
 | 349 | 265 | Degenerate |
 | 350 | 264 | AyeKay |
 | 351 | 263 | Jumpy Zonepiece |
@@ -715,7 +715,7 @@
 | 707 | 124 | Jim Gray |
 | 708 | 124 | Atia Scott |
 | 709 | 123 | Cassandra Stewart |
-| 710 | 123 | Lazy Column |
+| 710 | 123 | Mike Nelson |
 | 711 | 123 | RobinC |
 | 712 | 123 | Lazy Column |
 | 713 | 123 | mini |

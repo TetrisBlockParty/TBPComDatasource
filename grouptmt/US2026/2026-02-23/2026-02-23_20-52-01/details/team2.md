@@ -345,8 +345,8 @@
 | 337 | 1076 | Em Chen |
 | 338 | 1073 | Jodi Blake |
 | 339 | 1072 | BK Queen |
-| 340 | 1071 | Kim Dean |
-| 341 | 1071 | Nashu |
+| 340 | 1071 | Nashu |
+| 341 | 1071 | Kim Dean |
 | 342 | 1071 | Barbra Miller |
 | 343 | 1067 | Caitlin Schmid |
 | 344 | 1065 | Dany Murillo |
@@ -363,8 +363,8 @@
 | 355 | 1040 | Taylor Phillips |
 | 356 | 1038 | Sheronda Jackson |
 | 357 | 1037 | Jessica Wayne Cornwall |
-| 358 | 1036 | Allison Lockyer |
-| 359 | 1036 | Amber Shoemaker |
+| 358 | 1036 | Amber Shoemaker |
+| 359 | 1036 | Allison Lockyer |
 | 360 | 1029 | Crystal Hoffman |
 | 361 | 1026 | Joshua Mandel |
 | 362 | 1024 | Susan Perraut Jones |
@@ -416,8 +416,8 @@
 | 408 | 929 | Ellie Jonas |
 | 409 | 928 | Elizabeth Wilbanks |
 | 410 | 923 | blume |
-| 411 | 919 | John Bednarik |
-| 412 | 919 | Isaac Trappiel IV |
+| 411 | 919 | Isaac Trappiel IV |
+| 412 | 919 | John Bednarik |
 | 413 | 918 | William Hunt |
 | 414 | 917 | Bubbly Snapfit |
 | 415 | 917 | Amber Gray |
