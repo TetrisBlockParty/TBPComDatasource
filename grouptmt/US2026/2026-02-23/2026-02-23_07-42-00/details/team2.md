@@ -522,8 +522,8 @@
 | 514 | 646 | Jazzy Clusterline |
 | 515 | 644 | Véronique Lévesque Sabourin |
 | 516 | 643 | Michelle Pike |
-| 517 | 642 | Michelle Fields |
-| 518 | 642 | Cassie Maynard |
+| 517 | 642 | Cassie Maynard |
+| 518 | 642 | Michelle Fields |
 | 519 | 640 | Belle |
 | 520 | 639 | Rebecca Miller |
 | 521 | 639 | Jackie Avila |
@@ -695,8 +695,8 @@
 | 687 | 507 | Funky Caster |
 | 688 | 506 | Cblock |
 | 689 | 505 | Casey Schumacher |
-| 690 | 502 | Enha |
-| 691 | 502 | Jasmine Kenney |
+| 690 | 502 | Jasmine Kenney |
+| 691 | 502 | Enha |
 | 692 | 500 | Amy Reynolds |
 | 693 | 500 | Ryan Meilleur |
 | 694 | 499 | Besma Ao |
@@ -759,8 +759,8 @@
 | 751 | 472 | Connie Lepore-Mann |
 | 752 | 471 | Charming Leech |
 | 753 | 470 | Katie Marie |
-| 754 | 470 | ToShi |
-| 755 | 470 | Amanda Chamberlain |
+| 754 | 470 | Amanda Chamberlain |
+| 755 | 470 | ToShi |
 | 756 | 469 | Christy Long |
 | 757 | 468 | Niceday |
 | 758 | 468 | Brenda Annabel Smith |
@@ -782,8 +782,8 @@
 | 774 | 461 | Alexis Richardson |
 | 775 | 461 | Danielle Ayoub |
 | 776 | 460 | LaWanda Powell |
-| 777 | 459 | Pocho Zavala |
-| 778 | 459 | Sonya Back |
+| 777 | 459 | Sonya Back |
+| 778 | 459 | Pocho Zavala |
 | 779 | 457 | Kelly Meredeith |
 | 780 | 457 | Jennifer Coe |
 | 781 | 457 | Ryan Chan |

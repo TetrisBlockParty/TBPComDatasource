@@ -55,8 +55,8 @@
 | 47 | 938 | Denny Shives |
 | 48 | 936 | Rebecca Moulton Pinciaro |
 | 49 | 932 | Marvin Lou Martin |
-| 50 | 911 | Anthony Bryan Riva |
-| 51 | 911 | Jeremy Steines |
+| 50 | 911 | Jeremy Steines |
+| 51 | 911 | Anthony Bryan Riva |
 | 52 | 870 | BertMofo |
 | 53 | 864 | Shelly Chandler |
 | 54 | 863 | Pee |
@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Jonathan Kimbrough |
-| 84 | 684 | Kimyatta Cavin |
+| 83 | 684 | Kimyatta Cavin |
+| 84 | 684 | Jonathan Kimbrough |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | KM8 |
-| 93 | 647 | Shauna Havard |
+| 92 | 647 | Shauna Havard |
+| 93 | 647 | KM8 |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -122,8 +122,8 @@
 | 114 | 519 | Nugget |
 | 115 | 517 | Christina LR |
 | 116 | 517 | shar |
-| 117 | 514 | Serena Goodridge |
-| 118 | 514 | Scott Jameson |
+| 117 | 514 | Scott Jameson |
+| 118 | 514 | Serena Goodridge |
 | 119 | 513 | Erin Thomas |
 | 120 | 512 | Cristy Duerksen |
 | 121 | 512 | Casey Jeffcoat |
