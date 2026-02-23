@@ -81,8 +81,8 @@
 | 73 | 736 | Goatimus Lombardi |
 | 74 | 725 | Denise Carlson |
 | 75 | 716 | TheNeesh50 |
-| 76 | 704 | D3TROITB0RN74 |
-| 77 | 704 | Crystal Carroll |
+| 76 | 704 | Crystal Carroll |
+| 77 | 704 | D3TROITB0RN74 |
 | 78 | 697 | Alyssa Papen |
 | 79 | 691 | Savannah Overdorf |
 | 80 | 691 | Lisa Davis |
@@ -92,8 +92,8 @@
 | 84 | 673 | Jacqueline Helm |
 | 85 | 664 | Valerie Roberts |
 | 86 | 647 | Shauna Havard |
-| 87 | 647 | KM8 |
-| 88 | 647 | Diana Houts |
+| 87 | 647 | Diana Houts |
+| 88 | 647 | KM8 |
 | 89 | 646 | Eric Mcgaughy |
 | 90 | 633 | Jamie Gustafson |
 | 91 | 626 | Brittney Griggs |

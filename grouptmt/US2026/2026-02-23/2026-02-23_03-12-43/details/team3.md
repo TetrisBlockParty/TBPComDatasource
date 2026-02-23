@@ -226,9 +226,9 @@
 | 218 | 417 | Edwin Calvillo Jr. |
 | 219 | 415 | ren |
 | 220 | 414 | Fran Lin |
-| 221 | 410 | Mcathen |
-| 222 | 410 | Duane Bright |
-| 223 | 410 | Stephanie Simpson |
+| 221 | 410 | Stephanie Simpson |
+| 222 | 410 | Mcathen |
+| 223 | 410 | Duane Bright |
 | 224 | 408 | Tiffany Ford |
 | 225 | 406 | Heather Green |
 | 226 | 404 | Kristal C Lee |
@@ -323,12 +323,12 @@
 | 315 | 287 | Carol Cain Thurman |
 | 316 | 287 | Sabrina Hardrick |
 | 317 | 287 | Hoppy Patternline |
-| 318 | 286 | Salena Whitlock |
+| 318 | 286 | Micayah Stevens |
 | 319 | 286 | Lizabeth Fox |
-| 320 | 286 | Micayah Stevens |
+| 320 | 286 | Salena Whitlock |
 | 321 | 284 | Hanna Kim |
 | 322 | 281 | Kaycee Kay |
-| 323 | 280 | Aerian Preston |
+| 323 | 280 | Stephanie Bradley |
 | 324 | 280 | ROODBOY |
 | 325 | 280 | Aerian Preston |
 | 326 | 279 | Foltz Lee Kelli |
@@ -735,8 +735,8 @@
 | 727 | 135 | Preston |
 | 728 | 135 | Lenora Price |
 | 729 | 135 | MariahG |
-| 730 | 134 | Ruchi Smit |
-| 731 | 134 | Sharon Dudley Lawson |
+| 730 | 134 | Sharon Dudley Lawson |
+| 731 | 134 | Ruchi Smit |
 | 732 | 134 | Jess Reppert |
 | 733 | 134 | Chyrl Gerke |
 | 734 | 134 | G |

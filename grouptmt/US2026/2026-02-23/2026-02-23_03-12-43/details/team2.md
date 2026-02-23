@@ -206,8 +206,8 @@
 | 198 | 1244 | Teddi Notyalc |
 | 199 | 1243 | Anna Edwards |
 | 200 | 1237 | Megan Ferguson Leone |
-| 201 | 1232 | Groovy Puzzle |
-| 202 | 1232 | Ambyre Patterson |
+| 201 | 1232 | Ambyre Patterson |
+| 202 | 1232 | Groovy Puzzle |
 | 203 | 1230 | Megan Garrick |
 | 204 | 1217 | Lucky Ladybug |
 | 205 | 1207 | David Cudicio-Hayden |
@@ -311,12 +311,12 @@
 | 303 | 915 | Kelly Trent |
 | 304 | 914 | Shuany Arias |
 | 305 | 909 | Ashlen Dorrell |
-| 306 | 907 | Gene Mills |
-| 307 | 907 | Michelle Lee |
+| 306 | 907 | Michelle Lee |
+| 307 | 907 | Gene Mills |
 | 308 | 906 | Deborah Miller |
 | 309 | 905 | F-X |
-| 310 | 904 | Jennifer Aiken |
-| 311 | 904 | John Bednarik |
+| 310 | 904 | John Bednarik |
+| 311 | 904 | Jennifer Aiken |
 | 312 | 902 | William Hunt |
 | 313 | 901 | Kevin Sees |
 | 314 | 899 | Boldy Cascadepiece |
