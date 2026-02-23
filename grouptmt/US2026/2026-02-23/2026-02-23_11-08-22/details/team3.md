@@ -133,8 +133,8 @@
 | 125 | 764 | Groovy Catcher |
 | 126 | 764 | Hasty Cascadefit |
 | 127 | 762 | Speedy Bridger |
-| 128 | 755 | Raya |
-| 129 | 755 | Katrina Schroeder |
+| 128 | 755 | Katrina Schroeder |
+| 129 | 755 | Raya |
 | 130 | 752 | Logan Naccarato |
 | 131 | 748 | Adrian Marcel Pate |
 | 132 | 745 | JerseyJess |
@@ -187,8 +187,8 @@
 | 179 | 572 | CeceGeGe |
 | 180 | 568 | Rachael McClain Owens |
 | 181 | 566 | LaTanya GeminiondaRise Johnson |
-| 182 | 564 | Christine Trester |
-| 183 | 564 | Poppy Splitter |
+| 182 | 564 | Poppy Splitter |
+| 183 | 564 | Christine Trester |
 | 184 | 563 | Jim Mathews |
 | 185 | 562 | Dave Herzog |
 | 186 | 559 | Patti Skiles |
@@ -198,14 +198,14 @@
 | 190 | 546 | Cynthia Castros-Hampton |
 | 191 | 546 | Mykal Burton |
 | 192 | 540 | Shawn Miller |
-| 193 | 531 | Chauntee Alfrey-Cardinale |
-| 194 | 531 | Sarah Cowan Burgos |
+| 193 | 531 | Sarah Cowan Burgos |
+| 194 | 531 | Chauntee Alfrey-Cardinale |
 | 195 | 528 | Silly Twist |
 | 196 | 525 | Stephanie Blkpep Davidson |
 | 197 | 524 | Bmo |
 | 198 | 521 | Shannon Matthew Byers |
-| 199 | 519 | rnr junky |
-| 200 | 519 | Terry Jo Jones |
+| 199 | 519 | Terry Jo Jones |
+| 200 | 519 | rnr junky |
 | 201 | 515 | Cozy Snaplink |
 | 202 | 513 | Lizabeth Fox |
 | 203 | 510 | Makelini Mausia |
@@ -263,11 +263,11 @@
 | 255 | 406 | Kristal C Lee |
 | 256 | 405 | Steffi Chris Dacones |
 | 257 | 404 | Chasity |
-| 258 | 403 | Denita Mungro |
-| 259 | 403 | Scott Lindsay |
+| 258 | 403 | Scott Lindsay |
+| 259 | 403 | Denita Mungro |
 | 260 | 396 | Randy Clevenger |
-| 261 | 395 | Ashley Tookes |
-| 262 | 395 | rosy |
+| 261 | 395 | rosy |
+| 262 | 395 | Ashley Tookes |
 | 263 | 387 | Gideon Walker |
 | 264 | 385 | Velma Mull |
 | 265 | 384 | Noyb Adam |
@@ -276,8 +276,8 @@
 | 268 | 381 | Snazzy Filler |
 | 269 | 380 | Rebecca Bailey |
 | 270 | 379 | JessDrown |
-| 271 | 378 | Chris Bell |
-| 272 | 378 | MsBee |
+| 271 | 378 | MsBee |
+| 272 | 378 | Chris Bell |
 | 273 | 375 | Stephanie Burtin |
 | 274 | 374 | Rania Zaqout |
 | 275 | 372 | Sarah Moyer |
@@ -287,8 +287,8 @@
 | 279 | 370 | Samantha Lynn |
 | 280 | 369 | Jennifer Alvey |
 | 281 | 369 | Philip Rock |
-| 282 | 369 | Keis |
-| 283 | 369 | Amber Glover |
+| 282 | 369 | Amber Glover |
+| 283 | 369 | Keis |
 | 284 | 368 | Stephanie Woods |
 | 285 | 368 | Sheila M Frazier |
 | 286 | 366 | Gumbo |
@@ -523,8 +523,8 @@
 | 515 | 213 | Flashy Rumbler |
 | 516 | 213 | Linda Draper |
 | 517 | 213 | Ktfreeee |
-| 518 | 212 | Beth Ingham |
-| 519 | 212 | Frilly Stackzone |
+| 518 | 212 | Frilly Stackzone |
+| 519 | 212 | Beth Ingham |
 | 520 | 212 | Boldy Blocker |
 | 521 | 211 | Michael Pleasant |
 | 522 | 211 | El Chapa |

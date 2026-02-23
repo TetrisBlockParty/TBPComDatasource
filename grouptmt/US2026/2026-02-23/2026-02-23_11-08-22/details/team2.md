@@ -44,8 +44,8 @@
 | 36 | 4280 | Robert Diddle |
 | 37 | 4199 | Claire Noland |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Kristen Sceurman |
-| 40 | 4120 | Corrine Hawks Soriano |
+| 39 | 4120 | Corrine Hawks Soriano |
+| 40 | 4120 | Kristen Sceurman |
 | 41 | 3947 | Melinda Brown |
 | 42 | 3845 | jayjay |
 | 43 | 3827 | Karen Kman Van Heirseele |
@@ -278,8 +278,8 @@
 | 270 | 1079 | Kimberly Hauck-Rausch |
 | 271 | 1073 | Jodi Blake |
 | 272 | 1071 | Kim Dean |
-| 273 | 1069 | Offonar Facey |
-| 274 | 1069 | Carl Bradshaw |
+| 273 | 1069 | Carl Bradshaw |
+| 274 | 1069 | Offonar Facey |
 | 275 | 1064 | BK Queen |
 | 276 | 1063 | Caitlin Schmid |
 | 277 | 1058 | Rickey Johnson |
@@ -291,8 +291,8 @@
 | 283 | 1045 | Bri Lynn |
 | 284 | 1045 | Lourisha |
 | 285 | 1044 | Jennifer Aiken |
-| 286 | 1043 | nikki |
-| 287 | 1043 | Brave Dropmatch |
+| 286 | 1043 | Brave Dropmatch |
+| 287 | 1043 | nikki |
 | 288 | 1042 | Mcintosh Brian Shalonda |
 | 289 | 1040 | Rebecca Garland |
 | 290 | 1036 | Amber Shoemaker |
@@ -324,8 +324,8 @@
 | 316 | 969 | Em Chen |
 | 317 | 961 | Angela Lynn |
 | 318 | 959 | Phil J. Grombliniak |
-| 319 | 958 | Doowop40 |
-| 320 | 958 | Brenda Messer |
+| 319 | 958 | Brenda Messer |
+| 320 | 958 | Doowop40 |
 | 321 | 957 | Block Master |
 | 322 | 955 | Angela Bonquiqui Dinish |
 | 323 | 954 | Melissa McCall |
@@ -460,8 +460,8 @@
 | 452 | 737 | Ginger |
 | 453 | 737 | Chelle |
 | 454 | 732 | Victoria Moore-Smith |
-| 455 | 731 | Charvi' Carter |
-| 456 | 731 | Matthew Joseph Acevedo |
+| 455 | 731 | Matthew Joseph Acevedo |
+| 456 | 731 | Charvi' Carter |
 | 457 | 730 | Hoppy Brickmatch |
 | 458 | 729 | goofinoff |
 | 459 | 728 | Mikayala Szaz |
@@ -557,8 +557,8 @@
 | 549 | 634 | James Louie |
 | 550 | 634 | Quiksilver |
 | 551 | 629 | Breezy Clusterer |
-| 552 | 629 | Maya June |
-| 553 | 629 | snkylnk |
+| 552 | 629 | snkylnk |
+| 553 | 629 | Maya June |
 | 554 | 628 | g |
 | 555 | 628 | Brownie Sheena |
 | 556 | 626 | Chab |

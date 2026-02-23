@@ -108,8 +108,8 @@
 | 100 | 529 | Ryan Lunnin |
 | 101 | 522 | Sarah Lombardo |
 | 102 | 511 | Mario Cab |
-| 103 | 510 | Colena Davenport |
-| 104 | 510 | Chirpy Smasher |
+| 103 | 510 | Chirpy Smasher |
+| 104 | 510 | Colena Davenport |
 | 105 | 509 | Rachael |
 | 106 | 502 | Anaid Sanchez |
 | 107 | 497 | Arianna O'Brien |
@@ -133,8 +133,8 @@
 | 125 | 452 | Hyper |
 | 126 | 451 | Plucky Ziggy |
 | 127 | 450 | lil mickey |
-| 128 | 448 | Jazzy Framezone |
-| 129 | 448 | Sweet Baker |
+| 128 | 448 | Sweet Baker |
+| 129 | 448 | Jazzy Framezone |
 | 130 | 446 | SkipTheSadSauce |
 | 131 | 443 | Steve Schneider |
 | 132 | 440 | femmefatale |
@@ -202,8 +202,8 @@
 | 194 | 347 | Elaine Elaine |
 | 195 | 346 | GATOR |
 | 196 | 345 | Jerry Danowski |
-| 197 | 342 | Dino |
-| 198 | 342 | Snippy Wipebuilder |
+| 197 | 342 | Snippy Wipebuilder |
+| 198 | 342 | Dino |
 | 199 | 341 | Nick R Montague |
 | 200 | 339 | Nicole Roseberry Weber |
 | 201 | 337 | Jamise Brown |
@@ -476,7 +476,7 @@
 | 468 | 165 | Rodney Schmerfeld |
 | 469 | 165 | Stephanie Leday |
 | 470 | 164 | Liliana Pena |
-| 471 | 163 | SavageBooty98 |
+| 471 | 163 | Barry Mac'Ockner |
 | 472 | 163 | dhardy |
 | 473 | 163 | SavageBooty98 |
 | 474 | 162 | Charla Pross-Fugleberg |
