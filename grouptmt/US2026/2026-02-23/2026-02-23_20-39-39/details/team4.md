@@ -82,8 +82,8 @@
 | 74 | 862 | Carolyn Wallace |
 | 75 | 855 | Peachy Fall |
 | 76 | 850 | Lucille Truesdale |
-| 77 | 846 | Christine Marie |
-| 78 | 846 | Amelpss |
+| 77 | 846 | Amelpss |
+| 78 | 846 | Christine Marie |
 | 79 | 841 | Shauna Havard |
 | 80 | 837 | Lisa Davis |
 | 81 | 834 | quicksand420 |
@@ -157,8 +157,8 @@
 | 149 | 520 | Zippy Block |
 | 150 | 518 | Carly Alexis |
 | 151 | 516 | Trish |
-| 152 | 514 | Scott Jameson |
-| 153 | 514 | Lucas J Sutton |
+| 152 | 514 | Lucas J Sutton |
+| 153 | 514 | Scott Jameson |
 | 154 | 513 | Erin Thomas |
 | 155 | 512 | Angela Srubar-Norman |
 | 156 | 512 | ThaEviLJeNiuZ |
@@ -209,16 +209,16 @@
 | 201 | 422 | Zakia Monae |
 | 202 | 422 | Berklie Apedaile |
 | 203 | 421 | Sam Bishop |
-| 204 | 421 | JIGsaw ~(•¿°)~ |
-| 205 | 421 | Kesha Brady |
+| 204 | 421 | Kesha Brady |
+| 205 | 421 | JIGsaw ~(•¿°)~ |
 | 206 | 418 | Lush Linkfall |
 | 207 | 418 | Marie-Pier Desjardins |
 | 208 | 415 | April Rondinone |
 | 209 | 413 | Circuit8 |
 | 210 | 413 | John Brunetti |
 | 211 | 412 | Chris Bernstein |
-| 212 | 411 | Silly Zonebuilder |
-| 213 | 411 | Mimi |
+| 212 | 411 | Mimi |
+| 213 | 411 | Silly Zonebuilder |
 | 214 | 411 | Autumn Kumzi |
 | 215 | 400 | Antony Dwayne Beasley |
 | 216 | 399 | Jeff Brian Gates |

@@ -216,12 +216,12 @@
 | 208 | 387 | Carrie Smith |
 | 209 | 386 | Brian Spotts |
 | 210 | 384 | Tami Luce Martin |
-| 211 | 383 | pjbeta |
-| 212 | 383 | Margo Wagner |
-| 213 | 380 | David Lutcher |
-| 214 | 380 | Bindi |
-| 215 | 379 | Austin James |
-| 216 | 379 | Daring Fitclear |
+| 211 | 383 | Margo Wagner |
+| 212 | 383 | pjbeta |
+| 213 | 380 | Bindi |
+| 214 | 380 | David Lutcher |
+| 215 | 379 | Daring Fitclear |
+| 216 | 379 | Austin James |
 | 217 | 378 | Angela Renea Lester |
 | 218 | 377 | Howdi Duty |
 | 219 | 377 | Νεφ Όνυξ |
@@ -263,8 +263,8 @@
 | 255 | 340 | Danielle Little-Daugherty |
 | 256 | 340 | Robert |
 | 257 | 338 | Layzietyme |
-| 258 | 337 | Jamise Brown |
-| 259 | 337 | Lindsay Glover |
+| 258 | 337 | Lindsay Glover |
+| 259 | 337 | Jamise Brown |
 | 260 | 336 | Adele Rahman |
 | 261 | 335 | Eric DeSimone |
 | 262 | 334 | Colleen Pinette |
@@ -278,8 +278,8 @@
 | 270 | 332 | Eddie Dillon |
 | 271 | 332 | Happy Basegrid |
 | 272 | 331 | Larissa Marie Nelson |
-| 273 | 329 | Marianita Garcia |
-| 274 | 329 | Frothy Pattern |
+| 273 | 329 | Frothy Pattern |
+| 274 | 329 | Marianita Garcia |
 | 275 | 328 | Jeremy Maubert |
 | 276 | 325 | GringaLinga |
 | 277 | 324 | Sylvia Vasquez |
@@ -305,21 +305,21 @@
 | 297 | 305 | Larry Tilton |
 | 298 | 303 | DaRascal |
 | 299 | 302 | LaFontaine Leslie |
-| 300 | 301 | Chad Atchley |
-| 301 | 301 | Brave Wrecker |
-| 302 | 301 | Glitzy Curvebuilder |
+| 300 | 301 | Brave Wrecker |
+| 301 | 301 | Glitzy Curvebuilder |
+| 302 | 301 | Chad Atchley |
 | 303 | 300 | Giggly Builderline |
 | 304 | 299 | LD1 |
 | 305 | 298 | Kimberly Davis |
 | 306 | 298 | Sweetts |
 | 307 | 297 | Diane Byrd |
-| 308 | 294 | Наталья Солоид |
-| 309 | 294 | Chummy Rollblock |
+| 308 | 294 | Chummy Rollblock |
+| 309 | 294 | Наталья Солоид |
 | 310 | 293 | Garrett Burket |
 | 311 | 292 | Damian Salem |
 | 312 | 292 | Clever Cascadepiece |
-| 313 | 291 | Michael Espinosa Ulibarri Jr. |
-| 314 | 291 | Sir-Franchise Drake |
+| 313 | 291 | Sir-Franchise Drake |
+| 314 | 291 | Michael Espinosa Ulibarri Jr. |
 | 315 | 290 | Tavia |
 | 316 | 289 | Alenoush Karimian |
 | 317 | 289 | Bob |

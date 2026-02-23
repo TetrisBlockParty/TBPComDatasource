@@ -393,8 +393,8 @@
 | 385 | 340 | Erika Thornton |
 | 386 | 339 | Heather Bateman |
 | 387 | 339 | Michael Lucado |
-| 388 | 337 | Michelle Allers |
-| 389 | 337 | AC Yeater |
+| 388 | 337 | AC Yeater |
+| 389 | 337 | Michelle Allers |
 | 390 | 335 | Maggie |
 | 391 | 333 | Nikki White |
 | 392 | 333 | Geoffrey Nash |
