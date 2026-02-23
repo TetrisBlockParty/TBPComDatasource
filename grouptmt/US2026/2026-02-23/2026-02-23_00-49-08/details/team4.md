@@ -117,8 +117,8 @@
 | 109 | 499 | Christina LR |
 | 110 | 486 | Lori Walker |
 | 111 | 483 | Chilly Crasher |
-| 112 | 481 | Jessica Lynn Cutlip |
-| 113 | 481 | Serena Goodridge |
+| 112 | 481 | Serena Goodridge |
+| 113 | 481 | Jessica Lynn Cutlip |
 | 114 | 476 | Matt Summer |
 | 115 | 474 | Jenna Ingersoll |
 | 116 | 468 | Chastity Mitchell |
@@ -126,8 +126,8 @@
 | 118 | 458 | Twisty Clicky |
 | 119 | 448 | Kristin Manee |
 | 120 | 435 | Leslie Thomas |
-| 121 | 431 | Courtney Cicoria |
-| 122 | 431 | Jolly Dashfit |
+| 121 | 431 | Jolly Dashfit |
+| 122 | 431 | Courtney Cicoria |
 | 123 | 429 | Ren Mc |
 | 124 | 427 | KJ Pool |
 | 125 | 424 | Latisha Davis |
@@ -175,8 +175,8 @@
 | 167 | 328 | Kris Bartlett |
 | 168 | 324 | jim |
 | 169 | 322 | J-Rizzle |
-| 170 | 320 | TRCuse |
-| 171 | 320 | Lauren Scott |
+| 170 | 320 | Lauren Scott |
+| 171 | 320 | TRCuse |
 | 172 | 316 | Meagan Nicole |
 | 173 | 314 | Andy Cabral |
 | 174 | 314 | shark tato |

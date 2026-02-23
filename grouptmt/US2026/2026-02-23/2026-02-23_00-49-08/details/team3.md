@@ -131,8 +131,8 @@
 | 123 | 694 | joclisa |
 | 124 | 693 | Hasty Cascadefit |
 | 125 | 683 | Samantha Greco |
-| 126 | 674 | Leah Barnett |
-| 127 | 674 | Patty Allen |
+| 126 | 674 | Patty Allen |
+| 127 | 674 | Leah Barnett |
 | 128 | 668 | Betty Ivy |
 | 129 | 650 | Jd Morris |
 | 130 | 649 | Shavette |
@@ -296,14 +296,14 @@
 | 288 | 302 | Jojo M |
 | 289 | 301 | Tiffany Davie |
 | 290 | 301 | Betty Rosas |
-| 291 | 299 | Ray Lader |
-| 292 | 299 | Angie Harper |
+| 291 | 299 | Angie Harper |
+| 292 | 299 | Ray Lader |
 | 293 | 298 | Grams |
-| 294 | 297 | Cheeky Snapper |
-| 295 | 297 | kacihall |
+| 294 | 297 | kacihall |
+| 295 | 297 | Cheeky Snapper |
 | 296 | 296 | Donna |
-| 297 | 294 | fraulila |
-| 298 | 294 | Betty Bóò |
+| 297 | 294 | Betty Bóò |
+| 298 | 294 | fraulila |
 | 299 | 291 | Carrie Huskey |
 | 300 | 289 | DidIdothat |
 | 301 | 287 | Sabrina Hardrick |
@@ -361,8 +361,8 @@
 | 353 | 250 | Eric Caccavale |
 | 354 | 250 | Tosha Griffey |
 | 355 | 249 | Willow |
-| 356 | 247 | Daring Builder |
-| 357 | 247 | Jessica |
+| 356 | 247 | Jessica |
+| 357 | 247 | Daring Builder |
 | 358 | 245 | Latoya Mayne |
 | 359 | 244 | LaNette Morgan |
 | 360 | 244 | Quackers |
@@ -460,8 +460,8 @@
 | 452 | 200 | Christina Marie Swisher |
 | 453 | 199 | Dakota Graham |
 | 454 | 199 | Katheline Lazo Luizaga |
-| 455 | 198 | Zac Hudak |
-| 456 | 198 | Linda Draper |
+| 455 | 198 | Linda Draper |
+| 456 | 198 | Zac Hudak |
 | 457 | 198 | joz |
 | 458 | 197 | TLM |
 | 459 | 197 | Rainbow77375 |

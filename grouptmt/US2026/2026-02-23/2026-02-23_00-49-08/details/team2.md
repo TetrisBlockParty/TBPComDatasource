@@ -223,8 +223,8 @@
 | 215 | 1127 | Catina Hutchison |
 | 216 | 1126 | Dolores Russworn |
 | 217 | 1121 | Tommy Tha Boss Gunz |
-| 218 | 1117 | Sarah Freitas |
-| 219 | 1117 | Ricardo Burton |
+| 218 | 1117 | Ricardo Burton |
+| 219 | 1117 | Sarah Freitas |
 | 220 | 1114 | Kevin Walp |
 | 221 | 1105 | Nerdy Clearfit |
 | 222 | 1103 | William Meussner |
@@ -304,8 +304,8 @@
 | 296 | 889 | Giggy Blocker |
 | 297 | 885 | Felicia Lynn |
 | 298 | 884 | Adira Brown |
-| 299 | 883 | nikki |
-| 300 | 883 | Hong Tang |
+| 299 | 883 | Hong Tang |
+| 300 | 883 | nikki |
 | 301 | 882 | Nashu |
 | 302 | 880 | Sam Joe |
 | 303 | 875 | Jamie Otero |
@@ -319,8 +319,8 @@
 | 311 | 856 | Mighty Shatterfit |
 | 312 | 853 | Meghan M |
 | 313 | 848 | Elizabeth Wilbanks |
-| 314 | 846 | Alyssa Hileman |
-| 315 | 846 | Em Chen |
+| 314 | 846 | Em Chen |
+| 315 | 846 | Alyssa Hileman |
 | 316 | 845 | Steve Man |
 | 317 | 844 | Terri McKelvey McKinley |
 | 318 | 843 | Wakanda Forever |
@@ -643,8 +643,8 @@
 | 635 | 471 | Tina Marie |
 | 636 | 471 | Rae Rae |
 | 637 | 470 | Amanda Chamberlain |
-| 638 | 470 | Emilie Desma |
-| 639 | 470 | Mo Shine On |
+| 638 | 470 | Mo Shine On |
+| 639 | 470 | Emilie Desma |
 | 640 | 470 | Samuel Macon |
 | 641 | 469 | Christy Long |
 | 642 | 467 | Kelly |
@@ -679,16 +679,16 @@
 | 671 | 446 | Cleo Sims |
 | 672 | 446 | Courtney Burcham |
 | 673 | 445 | AsnPryBoy83 |
-| 674 | 445 | Mar Q Thomas |
-| 675 | 445 | Michelle Sager |
+| 674 | 445 | Michelle Sager |
+| 675 | 445 | Mar Q Thomas |
 | 676 | 445 | Sharon Mills |
 | 677 | 444 | Chab |
 | 678 | 444 | Crystal Heller Gonzalez |
-| 679 | 444 | Fi Ne |
-| 680 | 444 | Angela Murgia-Owen |
+| 679 | 444 | Angela Murgia-Owen |
+| 680 | 444 | Fi Ne |
 | 681 | 443 | Jasmine Kenney |
-| 682 | 442 | Niceday |
-| 683 | 442 | Juan Castillo |
+| 682 | 442 | Juan Castillo |
+| 683 | 442 | Niceday |
 | 684 | 440 | ItsJennifer Neriss |
 | 685 | 438 | Deyawn Smith |
 | 686 | 438 | Lynda Toland |
