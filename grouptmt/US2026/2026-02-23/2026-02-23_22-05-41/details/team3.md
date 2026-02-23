@@ -314,8 +314,8 @@
 | 306 | 433 | Skippy |
 | 307 | 432 | Luciana Braganca Vieira |
 | 308 | 431 | Wendy Dearden |
-| 309 | 430 | Jeni Dow |
-| 310 | 430 | Quackers |
+| 309 | 430 | Quackers |
+| 310 | 430 | Jeni Dow |
 | 311 | 430 | Jennifer Alvey |
 | 312 | 429 | Carrie Huskey |
 | 313 | 428 | Samantha Lynn |
