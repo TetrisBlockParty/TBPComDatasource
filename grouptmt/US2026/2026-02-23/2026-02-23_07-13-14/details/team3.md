@@ -160,8 +160,8 @@
 | 152 | 634 | Amber Hughes |
 | 153 | 630 | yoyo |
 | 154 | 629 | Patricia White |
-| 155 | 621 | Cherry Parker |
-| 156 | 621 | Sashay Tapae Simpson |
+| 155 | 621 | Sashay Tapae Simpson |
+| 156 | 621 | Cherry Parker |
 | 157 | 616 | Kammy Hill |
 | 158 | 611 | Rochelle Hazelett |
 | 159 | 607 | Grego Daniel |
@@ -173,8 +173,8 @@
 | 165 | 591 | Michael Nowogorski |
 | 166 | 588 | Justin Ritter |
 | 167 | 587 | Louise Stacy Sisson |
-| 168 | 585 | Annie Marie |
-| 169 | 585 | Happy Tetriblast |
+| 168 | 585 | Happy Tetriblast |
+| 169 | 585 | Annie Marie |
 | 170 | 583 | Tasha Gillespie |
 | 171 | 582 | Natasha Jones |
 | 172 | 577 | Domo Washington |
@@ -211,8 +211,8 @@
 | 203 | 488 | Melissa Orth Hunter |
 | 204 | 485 | Dapper Snap |
 | 205 | 484 | Fallorina Susana |
-| 206 | 480 | Danielle Allison |
-| 207 | 480 | Michael Johnson |
+| 206 | 480 | Michael Johnson |
+| 207 | 480 | Danielle Allison |
 | 208 | 475 | Tessina Dewey-Mancino |
 | 209 | 473 | Connie Mohler-Fair |
 | 210 | 473 | Rachel |
@@ -231,13 +231,13 @@
 | 223 | 448 | Scott Carleton |
 | 224 | 437 | Loopy Clusterer |
 | 225 | 432 | Luciana Braganca Vieira |
-| 226 | 431 | Ammmmmmy |
-| 227 | 431 | Wendy Dearden |
+| 226 | 431 | Wendy Dearden |
+| 227 | 431 | Ammmmmmy |
 | 228 | 430 | Jeni Dow |
 | 229 | 418 | Rebecca Funderburk Kirby |
 | 230 | 414 | Fran Lin |
-| 231 | 410 | Stephanie Simpson |
-| 232 | 410 | Duane Bright |
+| 231 | 410 | Duane Bright |
+| 232 | 410 | Stephanie Simpson |
 | 233 | 408 | Tiffany Ford |
 | 234 | 406 | Kristal C Lee |
 | 235 | 404 | Chasity |
@@ -283,8 +283,8 @@
 | 275 | 354 | Eileen Brady Thurber |
 | 276 | 354 | Andrew Thorson |
 | 277 | 354 | Kelly |
-| 278 | 353 | Cyd061769 |
-| 279 | 353 | Dee Franklin |
+| 278 | 353 | Dee Franklin |
+| 279 | 353 | Cyd061769 |
 | 280 | 352 | Christian Werndl |
 | 281 | 351 | Eon Harris |
 | 282 | 351 | Blocked |
@@ -363,8 +363,8 @@
 | 355 | 280 | Aerian Preston |
 | 356 | 280 | ROODBOY |
 | 357 | 280 | Dirtgirl27 |
-| 358 | 279 | Tosha Griffey |
-| 359 | 279 | Naur |
+| 358 | 279 | Naur |
+| 359 | 279 | Tosha Griffey |
 | 360 | 278 | Rufus Lincoln |
 | 361 | 277 | Krystal Gerstberger |
 | 362 | 277 | Joe-Maggie Mathews |

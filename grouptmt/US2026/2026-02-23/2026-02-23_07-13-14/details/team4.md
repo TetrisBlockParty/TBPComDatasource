@@ -120,13 +120,13 @@
 | 112 | 528 | Rodney McMath Jr. |
 | 113 | 527 | Dizzy Tiley |
 | 114 | 519 | Nugget |
-| 115 | 517 | Christina LR |
-| 116 | 517 | shar |
-| 117 | 514 | Scott Jameson |
-| 118 | 514 | Serena Goodridge |
+| 115 | 517 | shar |
+| 116 | 517 | Christina LR |
+| 117 | 514 | Serena Goodridge |
+| 118 | 514 | Scott Jameson |
 | 119 | 513 | Erin Thomas |
-| 120 | 512 | Casey Jeffcoat |
-| 121 | 512 | Cristy Duerksen |
+| 120 | 512 | Cristy Duerksen |
+| 121 | 512 | Casey Jeffcoat |
 | 122 | 511 | Lori Walker |
 | 123 | 509 | Leslie Nicole |
 | 124 | 482 | Ren Mc |
@@ -157,8 +157,8 @@
 | 149 | 414 | Nope Young |
 | 150 | 412 | Jessica Bohlken |
 | 151 | 408 | Amanda Pauldo-Ivy |
-| 152 | 406 | Livvy |
-| 153 | 406 | Damn Libra |
+| 152 | 406 | Damn Libra |
+| 153 | 406 | Livvy |
 | 154 | 398 | Tyler Terrific |
 | 155 | 393 | Carlton Unfiltered |
 | 156 | 393 | Girl |
@@ -229,7 +229,7 @@
 | 221 | 288 | Brittney Orengo |
 | 222 | 288 | Adam Stephanie Parker |
 | 223 | 288 | Zesty Twistbuilder |
-| 224 | 288 | Brittney Orengo |
+| 224 | 288 | Leah Kutz Zirbel |
 | 225 | 286 | Steph Marie |
 | 226 | 285 | 030Synner |
 | 227 | 284 | JPW |

@@ -141,8 +141,8 @@
 | 133 | 411 | BadG52 |
 | 134 | 410 | ALFD |
 | 135 | 409 | Goose egg |
-| 136 | 406 | Desiree Deschaine Havee |
-| 137 | 406 | Candy Jones |
+| 136 | 406 | Candy Jones |
+| 137 | 406 | Desiree Deschaine Havee |
 | 138 | 402 | Chris K |
 | 139 | 399 | Nery Martinez |
 | 140 | 394 | Lori Bales |
@@ -158,8 +158,8 @@
 | 150 | 379 | Austin James |
 | 151 | 379 | Kimmie Kimms |
 | 152 | 378 | Carrie Smith |
-| 153 | 376 | Death |
-| 154 | 376 | Brian Richardsson |
+| 153 | 376 | Brian Richardsson |
+| 154 | 376 | Death |
 | 155 | 375 | Tanya Carpenter-Reynolds |
 | 156 | 375 | Connie |
 | 157 | 371 | Jason Savage |
@@ -171,15 +171,15 @@
 | 163 | 364 | Shauna Loe |
 | 164 | 364 | Serina Marie |
 | 165 | 360 | Wisa |
-| 166 | 357 | Shiny Snapfit |
-| 167 | 357 | David Lutcher |
+| 166 | 357 | David Lutcher |
+| 167 | 357 | Shiny Snapfit |
 | 168 | 355 | Amanda Jarnagin |
 | 169 | 355 | Mike Ames |
 | 170 | 353 | Josh Riemer |
 | 171 | 353 | Jaimie Lynn |
 | 172 | 350 | Tipsy Strikerpiece |
-| 173 | 349 | Cool Shiftsnap |
-| 174 | 349 | Oscar Zamora |
+| 173 | 349 | Oscar Zamora |
+| 174 | 349 | Cool Shiftsnap |
 | 175 | 348 | Chelsea Dahlquist |
 | 176 | 346 | Erin Rosberg |
 | 177 | 346 | GATOR |
@@ -299,8 +299,8 @@
 | 291 | 228 | .running. |
 | 292 | 227 | Happy Snapbuild |
 | 293 | 227 | John Ramirez |
-| 294 | 226 | Glitzy Buildsnap |
-| 295 | 226 | Snappy Brickbuilder |
+| 294 | 226 | Snappy Brickbuilder |
+| 295 | 226 | Glitzy Buildsnap |
 | 296 | 225 | Angela Spann |
 | 297 | 224 | Jumpy Rotate |
 | 298 | 224 | Danielle Mae |
@@ -360,8 +360,8 @@
 | 352 | 199 | Larissa Marie Nelson |
 | 353 | 199 | Tina Englert |
 | 354 | 198 | Marci Sanders |
-| 355 | 197 | Larry Tilton |
-| 356 | 197 | Cool Towerzone |
+| 355 | 197 | Cool Towerzone |
+| 356 | 197 | Larry Tilton |
 | 357 | 196 | Rachel Copas |
 | 358 | 196 | Steph |
 | 359 | 195 | Blaire Bruckoff |
@@ -450,7 +450,7 @@
 | 442 | 162 | Jennifer Corrado |
 | 443 | 161 | Danielle S Kester |
 | 444 | 161 | Matthew Foley |
-| 445 | 160 | Sunny Catcher |
+| 445 | 160 | Hasty Cascader |
 | 446 | 160 | Jeremy Maubert |
 | 447 | 160 | Sunny Catcher |
 | 448 | 159 | Uhog SF |
@@ -486,7 +486,7 @@
 | 478 | 149 | Kimberly Davis |
 | 479 | 149 | MIKOZ |
 | 480 | 148 | Sir-Franchise Drake |
-| 481 | 147 | Jodee Woods |
+| 481 | 147 | Carl Claunch |
 | 482 | 147 | Javyjavz |
 | 483 | 147 | Jodee Woods |
 | 484 | 146 | Elizabeth Kubli |

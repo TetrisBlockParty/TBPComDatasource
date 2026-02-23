@@ -218,8 +218,8 @@
 | 210 | 1245 | Cody Nishimura |
 | 211 | 1240 | Brandon Armstrong |
 | 212 | 1237 | Megan Ferguson Leone |
-| 213 | 1232 | Ambyre Patterson |
-| 214 | 1232 | Groovy Puzzle |
+| 213 | 1232 | Groovy Puzzle |
+| 214 | 1232 | Ambyre Patterson |
 | 215 | 1230 | Megan Garrick |
 | 216 | 1221 | Jane Fong |
 | 217 | 1217 | Brooks Brooks |
@@ -478,8 +478,8 @@
 | 470 | 693 | Ryan Stadel |
 | 471 | 692 | Shaun Church |
 | 472 | 691 | Poldo Ilano |
-| 473 | 691 | Samuel Macon |
-| 474 | 691 | Arwa Fatimah |
+| 473 | 691 | Arwa Fatimah |
+| 474 | 691 | Samuel Macon |
 | 475 | 689 | Gauri Shrotriya |
 | 476 | 686 | Christine Coughlin |
 | 477 | 684 | Sarah DeHart |
@@ -567,8 +567,8 @@
 | 559 | 601 | Moua Ying |
 | 560 | 599 | Marella Petilo |
 | 561 | 598 | Leah Keesling |
-| 562 | 597 | Jamie Schmitt |
-| 563 | 597 | Magic steve |
+| 562 | 597 | Magic steve |
+| 563 | 597 | Jamie Schmitt |
 | 564 | 596 | Davetta Sanford |
 | 565 | 595 | Tracy Wise |
 | 566 | 595 | Dapper Dasher |
@@ -1406,8 +1406,8 @@
 | 1398 | 273 | Michele Moren |
 | 1399 | 273 | Crafty Climber |
 | 1400 | 272 | Loopy Shatterblock |
-| 1401 | 272 | Sammy |
-| 1402 | 272 | Murray Marie |
+| 1401 | 272 | Murray Marie |
+| 1402 | 272 | Sammy |
 | 1403 | 272 | Tash |
 | 1404 | 272 | David Standry |
 | 1405 | 271 | Sara |
