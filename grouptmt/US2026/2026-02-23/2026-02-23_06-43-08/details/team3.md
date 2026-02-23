@@ -128,8 +128,8 @@
 | 120 | 769 | Kristie |
 | 121 | 764 | Groovy Catcher |
 | 122 | 762 | Speedy Bridger |
-| 123 | 752 | Logan Naccarato |
-| 124 | 752 | Raya |
+| 123 | 752 | Raya |
+| 124 | 752 | Logan Naccarato |
 | 125 | 748 | Adrian Marcel Pate |
 | 126 | 745 | JerseyJess |
 | 127 | 744 | Leah Barnett |
@@ -160,8 +160,8 @@
 | 152 | 631 | Daira Largen |
 | 153 | 630 | yoyo |
 | 154 | 629 | Patricia White |
-| 155 | 621 | Cherry Parker |
-| 156 | 621 | Sashay Tapae Simpson |
+| 155 | 621 | Sashay Tapae Simpson |
+| 156 | 621 | Cherry Parker |
 | 157 | 616 | Kammy Hill |
 | 158 | 611 | Rochelle Hazelett |
 | 159 | 607 | Grego Daniel |
@@ -265,8 +265,8 @@
 | 257 | 370 | Samantha Lynn |
 | 258 | 369 | Philip Rock |
 | 259 | 369 | Keis |
-| 260 | 368 | Sheila M Frazier |
-| 261 | 368 | Stephanie Woods |
+| 260 | 368 | Stephanie Woods |
+| 261 | 368 | Sheila M Frazier |
 | 262 | 367 | Kristin Delibac Corrigan |
 | 263 | 366 | Randy Clevenger |
 | 264 | 366 | Gumbo |
@@ -403,10 +403,10 @@
 | 395 | 259 | Shania Vaine |
 | 396 | 258 | IamJust Neyamijah Washington Sr. |
 | 397 | 257 | Rachel Grant |
-| 398 | 257 | Chris Wallace |
-| 399 | 257 | Saucy Buildout |
-| 400 | 255 | Mariah Williams |
-| 401 | 255 | Erykah |
+| 398 | 257 | Saucy Buildout |
+| 399 | 257 | Chris Wallace |
+| 400 | 255 | Erykah |
+| 401 | 255 | Mariah Williams |
 | 402 | 255 | Sharisse Baltimore |
 | 403 | 254 | Blair Erin Waite |
 | 404 | 253 | Jennifer Alvey |

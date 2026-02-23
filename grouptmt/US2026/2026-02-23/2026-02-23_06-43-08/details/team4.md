@@ -54,13 +54,13 @@
 | 46 | 938 | Denny Shives |
 | 47 | 936 | Rebecca Moulton Pinciaro |
 | 48 | 932 | Marvin Lou Martin |
-| 49 | 911 | Anthony Bryan Riva |
-| 50 | 911 | Jeremy Steines |
+| 49 | 911 | Jeremy Steines |
+| 50 | 911 | Anthony Bryan Riva |
 | 51 | 870 | BertMofo |
 | 52 | 863 | Pee |
 | 53 | 853 | TeeJ |
-| 54 | 846 | Christine Marie |
-| 55 | 846 | Lucille Truesdale |
+| 54 | 846 | Lucille Truesdale |
+| 55 | 846 | Christine Marie |
 | 56 | 845 | LisaJo Picken Buchanan |
 | 57 | 843 | Shelly Chandler |
 | 58 | 834 | quicksand420 |
@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Jonathan Kimbrough |
-| 84 | 684 | Kimyatta Cavin |
+| 83 | 684 | Kimyatta Cavin |
+| 84 | 684 | Jonathan Kimbrough |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | KM8 |
-| 93 | 647 | Shauna Havard |
+| 92 | 647 | Shauna Havard |
+| 93 | 647 | KM8 |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -125,8 +125,8 @@
 | 117 | 514 | Scott Jameson |
 | 118 | 514 | Serena Goodridge |
 | 119 | 513 | Erin Thomas |
-| 120 | 512 | Casey Jeffcoat |
-| 121 | 512 | Cristy Duerksen |
+| 120 | 512 | Cristy Duerksen |
+| 121 | 512 | Casey Jeffcoat |
 | 122 | 511 | Lori Walker |
 | 123 | 509 | Leslie Nicole |
 | 124 | 482 | Ren Mc |
@@ -257,8 +257,8 @@
 | 249 | 264 | ZeeZee |
 | 250 | 264 | Stella |
 | 251 | 263 | rebel4lyfe |
-| 252 | 262 | Selena Shaw |
-| 253 | 262 | BigSammy420 |
+| 252 | 262 | BigSammy420 |
+| 253 | 262 | Selena Shaw |
 | 254 | 261 | Zethra Prenisha Rahming |
 | 255 | 260 | Carter Jones |
 | 256 | 260 | Lori |

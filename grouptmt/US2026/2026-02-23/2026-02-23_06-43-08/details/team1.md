@@ -183,13 +183,13 @@
 | 175 | 346 | GATOR |
 | 176 | 346 | Erin Rosberg |
 | 177 | 345 | Jerry Danowski |
-| 178 | 343 | Chelsea Dahlquist |
-| 179 | 343 | Elaine Elaine |
+| 178 | 343 | Elaine Elaine |
+| 179 | 343 | Chelsea Dahlquist |
 | 180 | 341 | Nick R Montague |
 | 181 | 339 | Nicole Roseberry Weber |
 | 182 | 338 | Jennifer Hardman |
-| 183 | 337 | Constance Risner |
-| 184 | 337 | Jamise Brown |
+| 183 | 337 | Jamise Brown |
+| 184 | 337 | Constance Risner |
 | 185 | 336 | Dizzy Party |
 | 186 | 333 | Gracie |
 | 187 | 333 | Virginia Gray Floyd |
