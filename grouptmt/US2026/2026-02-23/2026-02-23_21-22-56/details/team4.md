@@ -147,8 +147,8 @@
 | 139 | 551 | Ren Mc |
 | 140 | 549 | Carlos Ramirez |
 | 141 | 546 | Dizzy Tiley |
-| 142 | 545 | Livvy |
-| 143 | 545 | Desi Desporte |
+| 142 | 545 | Desi Desporte |
+| 143 | 545 | Livvy |
 | 144 | 542 | Austin Owens |
 | 145 | 540 | Rodney McMath Jr. |
 | 146 | 536 | Kimberlee Jan Beckstead |
@@ -300,8 +300,8 @@
 | 292 | 305 | Megan Cutshaw |
 | 293 | 304 | Shiny Fit |
 | 294 | 301 | Erin Sabol |
-| 295 | 300 | Dana Scott |
-| 296 | 300 | Kate |
+| 295 | 300 | Kate |
+| 296 | 300 | Dana Scott |
 | 297 | 298 | Chance Strickland |
 | 298 | 297 | Kenna Gunderland |
 | 299 | 297 | Kim Klutz Olson |
@@ -325,8 +325,8 @@
 | 317 | 289 | Deb Rubeck |
 | 318 | 288 | Amy Jean |
 | 319 | 287 | Duck |
-| 320 | 284 | Malakai Darien Fox |
-| 321 | 284 | Glitzy Corner |
+| 320 | 284 | Glitzy Corner |
+| 321 | 284 | Malakai Darien Fox |
 | 322 | 283 | Jackie Clark |
 | 323 | 282 | DQ Martin |
 | 324 | 282 | rebel4lyfe |

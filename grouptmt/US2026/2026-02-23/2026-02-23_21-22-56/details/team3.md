@@ -150,8 +150,8 @@
 | 142 | 837 | mzcatzy |
 | 143 | 834 | opf |
 | 144 | 820 | Brenda Lee Vander Molen |
-| 145 | 818 | Tasha Schriewer |
-| 146 | 818 | Dolores Falco |
+| 145 | 818 | Dolores Falco |
+| 146 | 818 | Tasha Schriewer |
 | 147 | 812 | Speedy Bridger |
 | 148 | 812 | Katrina Schroeder |
 | 149 | 810 | Keith J Oshman Jr. |
@@ -224,8 +224,8 @@
 | 216 | 576 | Nicole Flippo |
 | 217 | 571 | Salena Whitlock |
 | 218 | 570 | Twisty Brick LT |
-| 219 | 569 | Michael Johnson |
-| 220 | 569 | Juliana Dottore |
+| 219 | 569 | Juliana Dottore |
+| 220 | 569 | Michael Johnson |
 | 221 | 568 | Rachael McClain Owens |
 | 222 | 567 | FuzzyNavel |
 | 223 | 566 | LaTanya GeminiondaRise Johnson |
@@ -394,8 +394,8 @@
 | 386 | 345 | victory |
 | 387 | 345 | Misha Sanders |
 | 388 | 344 | Beaudie Stroebel |
-| 389 | 342 | Christina Marie Swisher |
-| 390 | 342 | Cynthia Herrmann Egland |
+| 389 | 342 | Cynthia Herrmann Egland |
+| 390 | 342 | Christina Marie Swisher |
 | 391 | 341 | Lys |
 | 392 | 340 | Erika Thornton |
 | 393 | 340 | Kerry Nowickshere |
@@ -465,8 +465,8 @@
 | 457 | 306 | Saucy Buildout |
 | 458 | 305 | Breezy Roll |
 | 459 | 304 | _melisa223_ |
-| 460 | 304 | Loopy Fallzone |
-| 461 | 304 | Stella |
+| 460 | 304 | Stella |
+| 461 | 304 | Loopy Fallzone |
 | 462 | 302 | Jessica |
 | 463 | 302 | Willow |
 | 464 | 301 | Betty Rosas |
@@ -759,8 +759,8 @@
 | 751 | 200 | Sarah Whalen |
 | 752 | 200 | glichmod |
 | 753 | 199 | Cheeky Setter |
-| 754 | 199 | Draone Grayson |
-| 755 | 199 | Angie King |
+| 754 | 199 | Angie King |
+| 755 | 199 | Draone Grayson |
 | 756 | 198 | lydynred |
 | 757 | 198 | Dizzy Risepiece |
 | 758 | 198 | Mike Spritzer |
@@ -2595,7 +2595,7 @@
 | 2587 | 25 | Blove |
 | 2588 | 25 | Venna Cooper |
 | 2589 | 24 | dom |
-| 2590 | 24 | Plork |
+| 2590 | 24 | Nikki J Taylor |
 | 2591 | 24 | Frances Edwards |
 | 2592 | 24 | Plork |
 | 2593 | 24 | Andre Simpson |

@@ -203,16 +203,16 @@
 | 195 | 1601 | Ray Ray Prado |
 | 196 | 1600 | Mo Shine On |
 | 197 | 1592 | Dolores Russworn |
-| 198 | 1590 | Amy Sayers |
-| 199 | 1590 | Jaycee |
+| 198 | 1590 | Jaycee |
+| 199 | 1590 | Amy Sayers |
 | 200 | 1585 | Glitzy Stackzone |
 | 201 | 1581 | Tommy Tha Boss Gunz |
 | 202 | 1580 | Sally Dennis |
 | 203 | 1578 | Christine Egidio Morocco |
 | 204 | 1569 | Ashley Dow |
 | 205 | 1565 | Nancy Reid |
-| 206 | 1558 | Crystal Slaughter |
-| 207 | 1558 | Tim Dyer |
+| 206 | 1558 | Tim Dyer |
+| 207 | 1558 | Crystal Slaughter |
 | 208 | 1557 | Poppy Snap |
 | 209 | 1556 | Tonya Morgan |
 | 210 | 1554 | Howard Forest |
@@ -286,8 +286,8 @@
 | 278 | 1264 | Missie Lawson Gebhardt |
 | 279 | 1259 | Foxxo |
 | 280 | 1258 | Dimitra Zazara |
-| 281 | 1257 | Megan Ferguson Leone |
-| 282 | 1257 | Megan Garrick |
+| 281 | 1257 | Megan Garrick |
+| 282 | 1257 | Megan Ferguson Leone |
 | 283 | 1256 | Roman Lavochnik |
 | 284 | 1247 | Ericka Marie Smith |
 | 285 | 1241 | Jennifer Casey-Kay |
@@ -301,8 +301,8 @@
 | 293 | 1221 | Diallo Sparkman |
 | 294 | 1221 | Jane Fong |
 | 295 | 1217 | Brooks Brooks |
-| 296 | 1216 | Pacynthia Williams |
-| 297 | 1216 | Ashie Ann |
+| 296 | 1216 | Ashie Ann |
+| 297 | 1216 | Pacynthia Williams |
 | 298 | 1214 | David Cudicio-Hayden |
 | 299 | 1211 | Ricardo Burton |
 | 300 | 1201 | Ryan Stadel |
@@ -466,8 +466,8 @@
 | 458 | 858 | Lauren Fitzgerald Thomas |
 | 459 | 857 | Caitlyn Blackwell |
 | 460 | 853 | Meghan M |
-| 461 | 852 | AgileDragon |
-| 462 | 852 | Kimmy Newman |
+| 461 | 852 | Kimmy Newman |
+| 462 | 852 | AgileDragon |
 | 463 | 849 | Gold Rose |
 | 464 | 849 | Allan Wayne Lamia |
 | 465 | 849 | Ann Matzkanin |
@@ -476,8 +476,8 @@
 | 468 | 843 | Quirky Twistline |
 | 469 | 840 | Kiana Boschh |
 | 470 | 840 | Traci Johnson |
-| 471 | 835 | William David Swallow |
-| 472 | 835 | Moni Foxe |
+| 471 | 835 | Moni Foxe |
+| 472 | 835 | William David Swallow |
 | 473 | 834 | Montez Mancil |
 | 474 | 833 | Christie |
 | 475 | 832 | Catherine Marsh Gruda |

@@ -285,8 +285,8 @@
 | 277 | 329 | Frothy Pattern |
 | 278 | 328 | Jeremy Maubert |
 | 279 | 325 | GringaLinga |
-| 280 | 324 | Mandyy Rae |
-| 281 | 324 | Sylvia Vasquez |
+| 280 | 324 | Sylvia Vasquez |
+| 281 | 324 | Mandyy Rae |
 | 282 | 323 | Irv |
 | 283 | 322 | Sarah Roberts |
 | 284 | 322 | Christina Norman |
@@ -665,7 +665,7 @@
 | 657 | 147 | Javyjavz |
 | 658 | 147 | Jodee Woods |
 | 659 | 146 | Robert Young |
-| 660 | 146 | Alex Ipad |
+| 660 | 146 | Ali Ward |
 | 661 | 146 | Playtray |
 | 662 | 146 | Alex Ipad |
 | 663 | 145 | Sunny Pivotfall |
