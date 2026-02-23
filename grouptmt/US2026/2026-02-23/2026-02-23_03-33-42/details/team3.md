@@ -236,9 +236,9 @@
 | 228 | 403 | Scott Lindsay |
 | 229 | 400 | Denita Mungro |
 | 230 | 393 | Rebecca Funderburk Kirby |
-| 231 | 391 | Scott Carleton |
-| 232 | 391 | Nicole Flippo |
-| 233 | 391 | Trisha Balmer |
+| 231 | 391 | Trisha Balmer |
+| 232 | 391 | Scott Carleton |
+| 233 | 391 | Nicole Flippo |
 | 234 | 390 | rosy |
 | 235 | 389 | RickyG |
 | 236 | 387 | Gideon Walker |
@@ -273,8 +273,8 @@
 | 265 | 351 | Eon Harris |
 | 266 | 349 | Amanda J. Mcneil-Anderson |
 | 267 | 348 | Cyd061769 |
-| 268 | 347 | Philip Rock |
-| 269 | 347 | Tye Stovall |
+| 268 | 347 | Tye Stovall |
+| 269 | 347 | Philip Rock |
 | 270 | 346 | Tamara Deherrera |
 | 271 | 345 | MsBee |
 | 272 | 344 | Roary Danner |

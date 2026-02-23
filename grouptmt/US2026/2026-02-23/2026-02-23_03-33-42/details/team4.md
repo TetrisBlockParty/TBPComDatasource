@@ -169,8 +169,8 @@
 | 161 | 368 | Silly Zonebuilder |
 | 162 | 368 | Brandon Crabbs |
 | 163 | 365 | Lindsey Gonzalez |
-| 164 | 361 | Melissa Adams |
-| 165 | 361 | Danielle Kollias |
+| 164 | 361 | Danielle Kollias |
+| 165 | 361 | Melissa Adams |
 | 166 | 359 | Keith Kelley |
 | 167 | 358 | A5! |
 | 168 | 356 | George Nutt |
@@ -297,8 +297,8 @@
 | 289 | 218 | Janita Parrish |
 | 290 | 217 | Cheery Fitline |
 | 291 | 217 | Paito |
-| 292 | 216 | mike |
-| 293 | 216 | ZeeZee |
+| 292 | 216 | ZeeZee |
+| 293 | 216 | mike |
 | 294 | 216 | Destiney Carter |
 | 295 | 215 | Brittany Marsh |
 | 296 | 215 | Stephme310 |
@@ -332,8 +332,8 @@
 | 324 | 194 | SammieJo Guy |
 | 325 | 194 | Denise B |
 | 326 | 192 | Twisty Risebuilder |
-| 327 | 191 | Norman Klick |
-| 328 | 191 | Earnest Thompson |
+| 327 | 191 | Earnest Thompson |
+| 328 | 191 | Norman Klick |
 | 329 | 190 | wombat |
 | 330 | 189 | Berklie Apedaile |
 | 331 | 189 | Lauren Lamb |

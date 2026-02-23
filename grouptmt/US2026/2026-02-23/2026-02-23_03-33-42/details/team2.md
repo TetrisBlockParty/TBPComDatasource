@@ -318,8 +318,8 @@
 | 310 | 907 | Michelle Lee |
 | 311 | 907 | Gene Mills |
 | 312 | 905 | F-X |
-| 313 | 904 | Jennifer Aiken |
-| 314 | 904 | John Bednarik |
+| 313 | 904 | John Bednarik |
+| 314 | 904 | Jennifer Aiken |
 | 315 | 902 | William Hunt |
 | 316 | 901 | Kevin Sees |
 | 317 | 899 | Chevy |
@@ -367,8 +367,8 @@
 | 359 | 804 | Becca Coronado |
 | 360 | 802 | Denise Rickman |
 | 361 | 801 | Gold Rose |
-| 362 | 801 | Lisa Ongtowasruk |
-| 363 | 801 | Diana Fitzwater |
+| 362 | 801 | Diana Fitzwater |
+| 363 | 801 | Lisa Ongtowasruk |
 | 364 | 799 | Joy LaJeunesse |
 | 365 | 796 | Amber Gray |
 | 366 | 795 | Lemonaide |
@@ -450,10 +450,10 @@
 | 442 | 698 | Joce Lynn |
 | 443 | 697 | Snappy Matchbuilder |
 | 444 | 697 | Ashle Scranton |
-| 445 | 695 | Irene Jones |
-| 446 | 695 | Lakeysha Dortch |
-| 447 | 693 | Ryan Stadel |
-| 448 | 693 | Bee |
+| 445 | 695 | Lakeysha Dortch |
+| 446 | 695 | Irene Jones |
+| 447 | 693 | Bee |
+| 448 | 693 | Ryan Stadel |
 | 449 | 692 | Shaun Church |
 | 450 | 691 | Poldo Ilano |
 | 451 | 690 | John Rodriguez |

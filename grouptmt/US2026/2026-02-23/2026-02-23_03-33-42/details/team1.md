@@ -370,8 +370,8 @@
 | 362 | 182 | Barrbaric |
 | 363 | 182 | Glitzy Curvebuilder |
 | 364 | 181 | David DeSantis |
-| 365 | 180 | Discovery Point |
-| 366 | 180 | Rico Rico |
+| 365 | 180 | Rico Rico |
+| 366 | 180 | Discovery Point |
 | 367 | 179 | Ryan White |
 | 368 | 178 | Gabrielle Louise Malloch |
 | 369 | 178 | Vivienne Carter |
