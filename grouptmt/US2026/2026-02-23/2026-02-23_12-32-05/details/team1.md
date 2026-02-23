@@ -66,8 +66,8 @@
 | 58 | 892 | Seth Wesson |
 | 59 | 874 | Kristen Roles Robben |
 | 60 | 858 | Michelle Nicole |
-| 61 | 850 | comrade fish |
-| 62 | 850 | Andrea Dañielle Ortiz |
+| 61 | 850 | Andrea Dañielle Ortiz |
+| 62 | 850 | comrade fish |
 | 63 | 845 | Drew Magnus |
 | 64 | 829 | Sevens4L |
 | 65 | 818 | Patrick Luckenbill |
@@ -79,8 +79,8 @@
 | 71 | 760 | Seante Bullock |
 | 72 | 759 | Jacqueline Williams |
 | 73 | 750 | Cartier |
-| 74 | 713 | Robert Benito |
-| 75 | 713 | Snappy Swiper |
+| 74 | 713 | Snappy Swiper |
+| 75 | 713 | Robert Benito |
 | 76 | 704 | Karin Gillen |
 | 77 | 703 | Angel Fowler |
 | 78 | 689 | Susanna Guerry |
@@ -104,11 +104,11 @@
 | 96 | 562 | Denice Dee |
 | 97 | 553 | And |
 | 98 | 535 | Susan Ward |
-| 99 | 534 | Loony Fitzone |
-| 100 | 534 | Veronica Eve |
+| 99 | 534 | Veronica Eve |
+| 100 | 534 | Loony Fitzone |
 | 101 | 529 | Ryan Lunnin |
-| 102 | 522 | Sarah Lombardo |
-| 103 | 522 | Tdub |
+| 102 | 522 | Tdub |
+| 103 | 522 | Sarah Lombardo |
 | 104 | 515 | Death |
 | 105 | 513 | Colena Davenport |
 | 106 | 511 | Mario Cab |
@@ -121,8 +121,8 @@
 | 113 | 493 | MomMom |
 | 114 | 492 | Ash Galvan |
 | 115 | 491 | cc |
-| 116 | 489 | April Carroll |
-| 117 | 489 | Deanna L Hermanson |
+| 116 | 489 | Deanna L Hermanson |
+| 117 | 489 | April Carroll |
 | 118 | 483 | Trina Gee |
 | 119 | 477 | Tonya Beasley |
 | 120 | 475 | Sarah Somers Gray |
@@ -486,8 +486,8 @@
 | 478 | 169 | Abbey Crespo |
 | 479 | 168 | Mrs.Patrica |
 | 480 | 166 | Gilbert Ortiz Jr. |
-| 481 | 165 | Stephanie Leday |
-| 482 | 165 | Rodney Schmerfeld |
+| 481 | 165 | Rodney Schmerfeld |
+| 482 | 165 | Stephanie Leday |
 | 483 | 164 | Brenda L. Bunce |
 | 484 | 163 | Patty Lavigne Craddock |
 | 485 | 163 | Cozy Shatterer |

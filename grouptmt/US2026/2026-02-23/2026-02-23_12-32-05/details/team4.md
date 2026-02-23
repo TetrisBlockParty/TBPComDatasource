@@ -166,8 +166,8 @@
 | 158 | 418 | Lush Linkfall |
 | 159 | 417 | Steph Marie |
 | 160 | 417 | Amanda Pauldo-Ivy |
-| 161 | 414 | Nope Young |
-| 162 | 414 | Swanky Fitline |
+| 161 | 414 | Swanky Fitline |
+| 162 | 414 | Nope Young |
 | 163 | 413 | Circuit8 |
 | 164 | 412 | Jessica Bohlken |
 | 165 | 412 | Nick Gray |
@@ -184,8 +184,8 @@
 | 176 | 383 | Chris Bernstein |
 | 177 | 377 | Guy Incognito |
 | 178 | 375 | Desi Desporte |
-| 179 | 372 | Antony Dwayne Beasley |
-| 180 | 372 | George Nutt |
+| 179 | 372 | George Nutt |
+| 180 | 372 | Antony Dwayne Beasley |
 | 181 | 370 | Oscar Alberto Perez |
 | 182 | 369 | Lindsey Gonzalez |
 | 183 | 369 | Andria Lynn |
