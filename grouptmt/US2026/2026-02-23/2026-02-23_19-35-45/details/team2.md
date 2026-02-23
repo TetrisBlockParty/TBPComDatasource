@@ -460,8 +460,8 @@
 | 452 | 838 | Sheronda Jackson |
 | 453 | 837 | Christine Coughlin |
 | 454 | 836 | KhaosLord |
-| 455 | 835 | William David Swallow |
-| 456 | 835 | Moni Foxe |
+| 455 | 835 | Moni Foxe |
+| 456 | 835 | William David Swallow |
 | 457 | 834 | Montez Mancil |
 | 458 | 833 | Christie |
 | 459 | 833 | Dennis McLaurin |

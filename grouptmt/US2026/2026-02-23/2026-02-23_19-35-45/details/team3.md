@@ -308,8 +308,8 @@
 | 300 | 414 | RickyG |
 | 301 | 412 | Jojo M |
 | 302 | 411 | Megan Rathmanner |
-| 303 | 410 | Duane Bright |
-| 304 | 410 | Brian Battjes |
+| 303 | 410 | Brian Battjes |
+| 304 | 410 | Duane Bright |
 | 305 | 409 | Desiree Gold |
 | 306 | 409 | Hyper Matchzone |
 | 307 | 408 | Ashley Muncey |
@@ -350,14 +350,14 @@
 | 342 | 368 | Sheila M Frazier |
 | 343 | 368 | Stephanie Woods |
 | 344 | 367 | Swanky Snapclear |
-| 345 | 366 | KayB |
-| 346 | 366 | Jul |
-| 347 | 365 | LaShey Thompson |
-| 348 | 365 | Breanna Marsden |
+| 345 | 366 | Jul |
+| 346 | 366 | KayB |
+| 347 | 365 | Breanna Marsden |
+| 348 | 365 | LaShey Thompson |
 | 349 | 364 | ROODBOY |
 | 350 | 362 | Foltz Lee Kelli |
-| 351 | 362 | Brandon Givens |
-| 352 | 362 | Chummy Rumbler |
+| 351 | 362 | Chummy Rumbler |
+| 352 | 362 | Brandon Givens |
 | 353 | 361 | neci |
 | 354 | 359 | Steven Fulater |
 | 355 | 359 | Kristen Weese |
@@ -368,8 +368,8 @@
 | 360 | 355 | Dana Fox |
 | 361 | 354 | TotoCherue |
 | 362 | 353 | Dee Franklin |
-| 363 | 352 | Nikki Pags |
-| 364 | 352 | Tiffany Davie |
+| 363 | 352 | Tiffany Davie |
+| 364 | 352 | Nikki Pags |
 | 365 | 352 | LadyTorad |
 | 366 | 351 | Blocked |
 | 367 | 351 | Eon Harris |
@@ -399,8 +399,8 @@
 | 391 | 331 | Eboni Starr |
 | 392 | 330 | Big T |
 | 393 | 328 | Krystal Gerstberger |
-| 394 | 328 | Desiree Soto |
-| 395 | 328 | Cesar Mendez |
+| 394 | 328 | Cesar Mendez |
+| 395 | 328 | Desiree Soto |
 | 396 | 327 | Tiffanie Alley |
 | 397 | 327 | Jimmie Clemons |
 | 398 | 326 | Nelma |
@@ -469,8 +469,8 @@
 | 461 | 291 | Niki Dalrymple |
 | 462 | 291 | Bryan Byrd |
 | 463 | 290 | Carrie Resler |
-| 464 | 290 | Justin Parker |
-| 465 | 290 | Tegan Chapman |
+| 464 | 290 | Tegan Chapman |
+| 465 | 290 | Justin Parker |
 | 466 | 289 | DidIdothat |
 | 467 | 288 | Kristi Taylor |
 | 468 | 287 | Jessica Lynn French |

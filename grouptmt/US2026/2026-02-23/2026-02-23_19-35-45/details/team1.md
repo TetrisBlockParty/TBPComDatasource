@@ -156,8 +156,8 @@
 | 148 | 482 | Sarah Somers Gray |
 | 149 | 478 | Adrian Esteban |
 | 150 | 477 | Tonya Beasley |
-| 151 | 476 | phrmblk24 |
-| 152 | 476 | Ly Phethmany |
+| 151 | 476 | Ly Phethmany |
+| 152 | 476 | phrmblk24 |
 | 153 | 475 | Plucky Ziggy |
 | 154 | 470 | Candy Jones |
 | 155 | 468 | Steve Schneider |
@@ -366,8 +366,8 @@
 | 358 | 257 | Marc Abney |
 | 359 | 256 | Chris Sigurdson |
 | 360 | 256 | Joe Coon |
-| 361 | 255 | Speedy Snapfall |
-| 362 | 255 | Beazel75 |
+| 361 | 255 | Beazel75 |
+| 362 | 255 | Speedy Snapfall |
 | 363 | 254 | Al Smith Jr |
 | 364 | 253 | Carlos Floyd |
 | 365 | 253 | Shiny Gridmatch |
@@ -392,16 +392,16 @@
 | 384 | 244 | Sarah Marie |
 | 385 | 243 | Bouncy Grid |
 | 386 | 243 | Michael Espinosa Ulibarri Jr. |
-| 387 | 242 | John Ramirez |
-| 388 | 242 | Tamara Brown |
+| 387 | 242 | Tamara Brown |
+| 388 | 242 | John Ramirez |
 | 389 | 241 | Zesty Brickzone |
 | 390 | 240 | Nathan William |
 | 391 | 239 | Ed Franz Jr |
 | 392 | 238 | ash |
 | 393 | 236 | Snappy Bridgepiece |
 | 394 | 236 | Marie White |
-| 395 | 235 | Nutty Glide |
-| 396 | 235 | Ariel Whittington |
+| 395 | 235 | Ariel Whittington |
+| 396 | 235 | Nutty Glide |
 | 397 | 235 | Jumpy Rotate |
 | 398 | 234 | Brandie Gallegos |
 | 399 | 233 | Melissa Bires Hussar |
