@@ -75,8 +75,8 @@
 | 67 | 787 | Edward White |
 | 68 | 767 | Shannon Ferrari |
 | 69 | 766 | Robin Watters |
-| 70 | 765 | Robin Getchel |
-| 71 | 765 | Denise Carlson |
+| 70 | 765 | Denise Carlson |
+| 71 | 765 | Robin Getchel |
 | 72 | 752 | Shane Kalamata Platoon |
 | 73 | 749 | Dustee Craddock-Harrison |
 | 74 | 747 | TheNeesh50 |
@@ -166,8 +166,8 @@
 | 158 | 403 | Keith Kelley |
 | 159 | 402 | Lucas J Sutton |
 | 160 | 398 | Tyler Terrific |
-| 161 | 393 | Girl |
-| 162 | 393 | Carlton Unfiltered |
+| 161 | 393 | Carlton Unfiltered |
+| 162 | 393 | Girl |
 | 163 | 392 | Nick Gray |
 | 164 | 391 | Ramel Rhodes |
 | 165 | 389 | Joseph Guthrie |
@@ -183,9 +183,9 @@
 | 175 | 368 | Silly Zonebuilder |
 | 176 | 368 | Brandon Crabbs |
 | 177 | 365 | Jeff Brian Gates |
-| 178 | 361 | Carlos Ramirez |
-| 179 | 361 | Danielle Kollias |
-| 180 | 361 | Melissa Adams |
+| 178 | 361 | Melissa Adams |
+| 179 | 361 | Carlos Ramirez |
+| 180 | 361 | Danielle Kollias |
 | 181 | 358 | A5! |
 | 182 | 358 | Twisty Cascadezone |
 | 183 | 354 | TRCuse |
@@ -203,8 +203,8 @@
 | 195 | 335 | James Hurley Jr. |
 | 196 | 334 | Kris Bartlett |
 | 197 | 332 | HastyGrabber |
-| 198 | 330 | blockstar |
-| 199 | 330 | Kathy Brookins |
+| 198 | 330 | Kathy Brookins |
+| 199 | 330 | blockstar |
 | 200 | 328 | scott |
 | 201 | 327 | J-Rizzle |
 | 202 | 324 | jim |
@@ -314,8 +314,8 @@
 | 306 | 223 | Adawna Swires |
 | 307 | 222 | Brandi Durig |
 | 308 | 221 | Rheanda Weaskus |
-| 309 | 220 | Ziggy |
-| 310 | 220 | Nita Wells |
+| 309 | 220 | Nita Wells |
+| 310 | 220 | Ziggy |
 | 311 | 220 | Tina Lopez |
 | 312 | 220 | Jumpy Zonepiece |
 | 313 | 219 | Orchislactea |
@@ -330,9 +330,9 @@
 | 322 | 214 | Patron Anderson |
 | 323 | 214 | Stacey Stano |
 | 324 | 213 | Jackie Marie |
-| 325 | 212 | Brave Spinbuilder |
-| 326 | 212 | Mike Solo |
-| 327 | 212 | Zany Shatterer |
+| 325 | 212 | Zany Shatterer |
+| 326 | 212 | Brave Spinbuilder |
+| 327 | 212 | Mike Solo |
 | 328 | 211 | Chris Alexinas |
 | 329 | 210 | Ari Droff |
 | 330 | 209 | Snippy Puzzle |
@@ -372,8 +372,8 @@
 | 364 | 189 | Berklie Apedaile |
 | 365 | 189 | Cool Towerbuilder |
 | 366 | 188 | Sharyn Lemire |
-| 367 | 187 | Jenny Wells-Oakley |
-| 368 | 187 | Cozy Balancer |
+| 367 | 187 | Cozy Balancer |
+| 368 | 187 | Jenny Wells-Oakley |
 | 369 | 186 | Shanon Klair |
 | 370 | 186 | Dandy Cascadefit |
 | 371 | 186 | Eri Kka |

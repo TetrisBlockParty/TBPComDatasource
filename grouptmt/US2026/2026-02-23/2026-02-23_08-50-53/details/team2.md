@@ -226,8 +226,8 @@
 | 218 | 1232 | Ambyre Patterson |
 | 219 | 1230 | Megan Garrick |
 | 220 | 1221 | Jane Fong |
-| 221 | 1217 | Brooks Brooks |
-| 222 | 1217 | Lucky Ladybug |
+| 221 | 1217 | Lucky Ladybug |
+| 222 | 1217 | Brooks Brooks |
 | 223 | 1214 | David Cudicio-Hayden |
 | 224 | 1213 | Pacynthia Williams |
 | 225 | 1211 | Ricardo Burton |
@@ -273,8 +273,8 @@
 | 265 | 1076 | Alezandra Smith |
 | 266 | 1073 | Jodi Blake |
 | 267 | 1071 | Kim Dean |
-| 268 | 1069 | Offonar Facey |
-| 269 | 1069 | Carl Bradshaw |
+| 268 | 1069 | Carl Bradshaw |
+| 269 | 1069 | Offonar Facey |
 | 270 | 1064 | BK Queen |
 | 271 | 1063 | Caitlin Schmid |
 | 272 | 1058 | Rickey Johnson |
@@ -289,8 +289,8 @@
 | 281 | 1043 | nikki |
 | 282 | 1036 | Allison Lockyer |
 | 283 | 1036 | Amber Shoemaker |
-| 284 | 1026 | Kristin Gower |
-| 285 | 1026 | F-X |
+| 284 | 1026 | F-X |
+| 285 | 1026 | Kristin Gower |
 | 286 | 1024 | Susan Perraut Jones |
 | 287 | 1024 | Taylor Phillips |
 | 288 | 1022 | Shannon Joslin |
@@ -305,8 +305,8 @@
 | 297 | 996 | Ashie Ann |
 | 298 | 987 | Osun Anuket Esu |
 | 299 | 984 | Crystal Hoffman |
-| 300 | 979 | Melissa Penelope Ann Dodge |
-| 301 | 979 | Hillary Crawford |
+| 300 | 979 | Hillary Crawford |
+| 301 | 979 | Melissa Penelope Ann Dodge |
 | 302 | 978 | April Dawn Gussler |
 | 303 | 976 | Sam Joe |
 | 304 | 976 | Della Hole |
@@ -345,8 +345,8 @@
 | 337 | 904 | Bee |
 | 338 | 903 | Giggy Blocker |
 | 339 | 901 | Kevin Sees |
-| 340 | 899 | Chevy |
-| 341 | 899 | Patrick Bartlett |
+| 340 | 899 | Patrick Bartlett |
+| 341 | 899 | Chevy |
 | 342 | 898 | Jamie Otero |
 | 343 | 895 | Donna Colby |
 | 344 | 894 | Adira Brown |
@@ -500,8 +500,8 @@
 | 492 | 677 | Paul Combs |
 | 493 | 677 | Kayleigh Wisse |
 | 494 | 677 | Amanda Woodruff |
-| 495 | 676 | Nicky Jackson |
-| 496 | 676 | Roseanna Peloso |
+| 495 | 676 | Roseanna Peloso |
+| 496 | 676 | Nicky Jackson |
 | 497 | 675 | Lonne Emade |
 | 498 | 675 | Katelynn Hollen |
 | 499 | 674 | Ashley Munn |
@@ -619,9 +619,9 @@
 | 611 | 569 | Sparkles |
 | 612 | 569 | Maya June |
 | 613 | 569 | Slip |
-| 614 | 566 | Isabelle Bonneau |
+| 614 | 566 | SwampRebel |
 | 615 | 566 | Tina Marie |
-| 616 | 566 | SwampRebel |
+| 616 | 566 | Isabelle Bonneau |
 | 617 | 566 | Lindsey Leigh |
 | 618 | 564 | Stacey Tranchida |
 | 619 | 563 | Frisky Clearpiece |
@@ -709,8 +709,8 @@
 | 701 | 501 | Darla Silva |
 | 702 | 500 | Amy Reynolds |
 | 703 | 500 | Ryan Meilleur |
-| 704 | 499 | Besma Ao |
-| 705 | 499 | Martina Gabrielle LaPolla |
+| 704 | 499 | Martina Gabrielle LaPolla |
+| 705 | 499 | Besma Ao |
 | 706 | 498 | Abimbola Bimbo |
 | 707 | 498 | Chummy Blockbuilder |
 | 708 | 497 | Sam |
@@ -938,16 +938,16 @@
 | 930 | 395 | Treshell Boyd |
 | 931 | 395 | Donald Nowland |
 | 932 | 394 | Kristina Marie Hanna |
-| 933 | 394 | Nerdy Blockpiece |
-| 934 | 394 | Snappy Shatterfit |
+| 933 | 394 | Snappy Shatterfit |
+| 934 | 394 | Nerdy Blockpiece |
 | 935 | 393 | Jamie West |
 | 936 | 393 | CC |
 | 937 | 393 | Bing |
 | 938 | 392 | Jroc |
 | 939 | 391 | Poppy Gridder |
 | 940 | 391 | Chilly Bridgepiece |
-| 941 | 390 | Karmabunny |
-| 942 | 390 | MauroPRM |
+| 941 | 390 | MauroPRM |
+| 942 | 390 | Karmabunny |
 | 943 | 390 | Smiley Strike |
 | 944 | 390 | Kyla Louise |
 | 945 | 390 | Tasia Stinson |
@@ -1287,9 +1287,9 @@
 | 1279 | 298 | Patti Rone |
 | 1280 | 298 | Chill Rotater |
 | 1281 | 297 | Klaudia Figaszewska |
-| 1282 | 297 | Ocean-Brianna McGregor |
-| 1283 | 297 | Kimberly Mitchell |
-| 1284 | 297 | Ronald Broad |
+| 1282 | 297 | Ronald Broad |
+| 1283 | 297 | Ocean-Brianna McGregor |
+| 1284 | 297 | Kimberly Mitchell |
 | 1285 | 296 | Crafty Blockmatch |
 | 1286 | 296 | Dottie Turbeville Creel |
 | 1287 | 296 | Jennifer Darby |
