@@ -35,8 +35,8 @@
 | 27 | 1212 | Christina Graham |
 | 28 | 1191 | Nerdy Linkblock |
 | 29 | 1171 | Tyler Alcock |
-| 30 | 1126 | Felicia Lewis |
-| 31 | 1126 | Tater |
+| 30 | 1126 | Tater |
+| 31 | 1126 | Felicia Lewis |
 | 32 | 1122 | Amanda Summey Schoemer |
 | 33 | 1119 | june october |
 | 34 | 1114 | Jayme Sellers |
@@ -102,8 +102,8 @@
 | 94 | 529 | Ryan Lunnin |
 | 95 | 522 | Sarah Lombardo |
 | 96 | 511 | Mario Cab |
-| 97 | 510 | Colena Davenport |
-| 98 | 510 | Chirpy Smasher |
+| 97 | 510 | Chirpy Smasher |
+| 98 | 510 | Colena Davenport |
 | 99 | 509 | Rachael |
 | 100 | 497 | Arianna O'Brien |
 | 101 | 493 | Jennifer ManWarren |
@@ -112,8 +112,8 @@
 | 104 | 491 | cc |
 | 105 | 489 | April Carroll |
 | 106 | 489 | Deanna L Hermanson |
-| 107 | 483 | Trina Gee |
-| 108 | 483 | Tdub |
+| 107 | 483 | Tdub |
+| 108 | 483 | Trina Gee |
 | 109 | 480 | Ty Brown |
 | 110 | 478 | Stephanie Zahn |
 | 111 | 463 | Lexuriuos Lifestlye |
@@ -213,8 +213,8 @@
 | 205 | 307 | femmefatale |
 | 206 | 307 | Snappy Matcher |
 | 207 | 306 | Angela Renea Lester |
-| 208 | 301 | Damon J. Martin |
-| 209 | 301 | Cody Gates |
+| 208 | 301 | Cody Gates |
+| 209 | 301 | Damon J. Martin |
 | 210 | 300 | Sleepysloath5745 |
 | 211 | 298 | Billie Ann Eason |
 | 212 | 294 | Bindi |
@@ -353,8 +353,8 @@
 | 345 | 201 | Rico Rico |
 | 346 | 200 | Cranky Pattern |
 | 347 | 199 | Tina Englert |
-| 348 | 198 | Tawnya Peltonen |
-| 349 | 198 | Marci Sanders |
+| 348 | 198 | Marci Sanders |
+| 349 | 198 | Tawnya Peltonen |
 | 350 | 197 | Larry Tilton |
 | 351 | 197 | Cool Towerzone |
 | 352 | 196 | Steph |
@@ -368,8 +368,8 @@
 | 360 | 192 | Νεφ Όνυξ |
 | 361 | 192 | Tipsy Tiltpiece |
 | 362 | 191 | Slinky Rotater |
-| 363 | 191 | John Garza |
-| 364 | 191 | Garcia Bailey |
+| 363 | 191 | Garcia Bailey |
+| 364 | 191 | John Garza |
 | 365 | 188 | Brian Taylor |
 | 366 | 187 | Mark Smith |
 | 367 | 187 | Bob |
@@ -462,7 +462,7 @@
 | 454 | 155 | Rachel Nichole Henry |
 | 455 | 155 | Shiny Rotate |
 | 456 | 154 | TristansDad |
-| 457 | 154 | Lyn Sibayan |
+| 457 | 154 | Lush Zoney |
 | 458 | 154 | Chyna Mae |
 | 459 | 154 | Lyn Sibayan |
 | 460 | 154 | Brian Spotts |

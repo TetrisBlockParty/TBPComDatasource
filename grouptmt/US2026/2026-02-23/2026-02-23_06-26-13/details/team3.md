@@ -173,8 +173,8 @@
 | 165 | 591 | Michael Nowogorski |
 | 166 | 588 | Justin Ritter |
 | 167 | 587 | Louise Stacy Sisson |
-| 168 | 585 | Annie Marie |
-| 169 | 585 | Happy Tetriblast |
+| 168 | 585 | Happy Tetriblast |
+| 169 | 585 | Annie Marie |
 | 170 | 583 | Tasha Gillespie |
 | 171 | 582 | Natasha Jones |
 | 172 | 577 | Domo Washington |
@@ -231,8 +231,8 @@
 | 223 | 448 | Scott Carleton |
 | 224 | 437 | Loopy Clusterer |
 | 225 | 432 | Luciana Braganca Vieira |
-| 226 | 431 | Wendy Dearden |
-| 227 | 431 | Ammmmmmy |
+| 226 | 431 | Ammmmmmy |
+| 227 | 431 | Wendy Dearden |
 | 228 | 430 | Jeni Dow |
 | 229 | 418 | Rebecca Funderburk Kirby |
 | 230 | 414 | Fran Lin |
@@ -253,8 +253,8 @@
 | 245 | 382 | Giddy Twistbuilder |
 | 246 | 381 | Snazzy Filler |
 | 247 | 380 | Rebecca Bailey |
-| 248 | 378 | MsBee |
-| 249 | 378 | Chris Bell |
+| 248 | 378 | Chris Bell |
+| 249 | 378 | MsBee |
 | 250 | 377 | Charles Perrone |
 | 251 | 374 | Rania Zaqout |
 | 252 | 373 | Chummy Caster |
@@ -384,8 +384,8 @@
 | 376 | 269 | Jess Bissett |
 | 377 | 269 | Juliana Dottore |
 | 378 | 268 | Jessica Lynn French |
-| 379 | 267 | April Matthew Kibble |
-| 380 | 267 | Jul |
+| 379 | 267 | Jul |
+| 380 | 267 | April Matthew Kibble |
 | 381 | 267 | Michael Kimbro |
 | 382 | 266 | Quirky Dropzone |
 | 383 | 265 | angieelyn |
@@ -734,17 +734,17 @@
 | 726 | 147 | Nelma |
 | 727 | 147 | Snippy Brickster |
 | 728 | 147 | Erin Ervin |
-| 729 | 147 | Nelma |
-| 730 | 146 | Spicy Caster |
-| 731 | 146 | Sara Dunn |
-| 732 | 146 | Geronimo |
-| 733 | 146 | Vikkye Vizaniaris |
+| 729 | 147 | Richard Saunders |
+| 730 | 146 | Sara Dunn |
+| 731 | 146 | Spicy Caster |
+| 732 | 146 | Vikkye Vizaniaris |
+| 733 | 146 | Geronimo |
 | 734 | 145 | Rank Stranger |
 | 735 | 145 | Quirky Snapfit |
 | 736 | 145 | Karen Picaboo |
 | 737 | 144 | Janay Darkstallion Robinson |
-| 738 | 144 | Tiffany's TwinsRus Thrifty |
-| 739 | 144 | Susan A Kinsey |
+| 738 | 144 | Susan A Kinsey |
+| 739 | 144 | Tiffany's TwinsRus Thrifty |
 | 740 | 144 | Clever Edgepiece |
 | 741 | 143 | Russell Hankinson |
 | 742 | 143 | Lisa Lisa |

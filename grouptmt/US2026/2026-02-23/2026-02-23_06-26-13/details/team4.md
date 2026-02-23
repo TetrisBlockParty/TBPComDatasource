@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | KM8 |
-| 93 | 647 | Shauna Havard |
+| 92 | 647 | Shauna Havard |
+| 93 | 647 | KM8 |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -146,13 +146,13 @@
 | 138 | 429 | Klo |
 | 139 | 426 | 🥔🥔 Spudz |
 | 140 | 423 | Carrie Brian |
-| 141 | 421 | JIGsaw ~(•¿°)~ |
-| 142 | 421 | Kesha Brady |
+| 141 | 421 | Kesha Brady |
+| 142 | 421 | JIGsaw ~(•¿°)~ |
 | 143 | 418 | Marie-Pier Desjardins |
 | 144 | 418 | Lush Linkfall |
 | 145 | 416 | Chaz Duncan |
-| 146 | 414 | Nope Young |
-| 147 | 414 | Swanky Fitline |
+| 146 | 414 | Swanky Fitline |
+| 147 | 414 | Nope Young |
 | 148 | 412 | Jessica Bohlken |
 | 149 | 408 | Amanda Pauldo-Ivy |
 | 150 | 406 | Ericca Eldridge |
@@ -185,8 +185,8 @@
 | 177 | 349 | Rafael Valentin |
 | 178 | 349 | Twisty Cascadezone |
 | 179 | 348 | April Rondinone |
-| 180 | 347 | Daria Rycewicz |
-| 181 | 347 | Crystal Nicolette Moore |
+| 180 | 347 | Crystal Nicolette Moore |
+| 181 | 347 | Daria Rycewicz |
 | 182 | 339 | David Lay |
 | 183 | 336 | Bio Nelly |
 | 184 | 335 | James Hurley Jr. |
@@ -213,8 +213,8 @@
 | 205 | 304 | Lindsay Ball |
 | 206 | 303 | Dihcheese444 |
 | 207 | 301 | Andria Lynn |
-| 208 | 300 | Zakia Monae |
-| 209 | 300 | Dana Scott |
+| 208 | 300 | Dana Scott |
+| 209 | 300 | Zakia Monae |
 | 210 | 295 | Keshia Lyons |
 | 211 | 294 | Calvin Cannon |
 | 212 | 294 | Porkobello |
@@ -298,10 +298,10 @@
 | 290 | 225 | Jenna McGeorge |
 | 291 | 224 | Ultramarine |
 | 292 | 223 | Adawna Swires |
-| 293 | 223 | Amanda Christine |
-| 294 | 223 | Chance Strickland |
-| 295 | 222 | Brandi Durig |
-| 296 | 222 | TinyLegoRose |
+| 293 | 223 | Chance Strickland |
+| 294 | 223 | Amanda Christine |
+| 295 | 222 | TinyLegoRose |
+| 296 | 222 | Brandi Durig |
 | 297 | 221 | Rheanda Weaskus |
 | 298 | 220 | Tina Lopez |
 | 299 | 220 | Nita Wells |
@@ -310,14 +310,14 @@
 | 302 | 219 | Orchislactea |
 | 303 | 219 | Shane Vick |
 | 304 | 218 | Janita Parrish |
-| 305 | 217 | Alexandra Karavias |
+| 305 | 217 | Paito |
 | 306 | 217 | Cheery Fitline |
-| 307 | 217 | Paito |
-| 308 | 216 | mike |
-| 309 | 216 | Chantilly Laace |
+| 307 | 217 | Alexandra Karavias |
+| 308 | 216 | Chantilly Laace |
+| 309 | 216 | mike |
 | 310 | 215 | Stephme310 |
-| 311 | 214 | Patron Anderson |
-| 312 | 214 | Stacey Stano |
+| 311 | 214 | Stacey Stano |
+| 312 | 214 | Patron Anderson |
 | 313 | 213 | Jackie Marie |
 | 314 | 212 | Mike Solo |
 | 315 | 212 | Zany Shatterer |
@@ -355,9 +355,9 @@
 | 347 | 191 | Norman Klick |
 | 348 | 191 | Michelle Morris |
 | 349 | 190 | wombat |
-| 350 | 189 | Cool Towerbuilder |
-| 351 | 189 | Berklie Apedaile |
-| 352 | 189 | Lauren Lamb |
+| 350 | 189 | Berklie Apedaile |
+| 351 | 189 | Lauren Lamb |
+| 352 | 189 | Cool Towerbuilder |
 | 353 | 188 | Sharyn Lemire |
 | 354 | 187 | Jenny Wells-Oakley |
 | 355 | 187 | Hyper Builder |
