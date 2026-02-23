@@ -86,8 +86,8 @@
 | 78 | 750 | Cartier |
 | 79 | 742 | Susanna Guerry |
 | 80 | 740 | Lori Sanders- Davis |
-| 81 | 713 | Robert Benito |
-| 82 | 713 | Snappy Swiper |
+| 81 | 713 | Snappy Swiper |
+| 82 | 713 | Robert Benito |
 | 83 | 710 | Jennifer ManWarren |
 | 84 | 706 | Plucky Fallzone |
 | 85 | 706 | Denice Dee |
@@ -164,8 +164,8 @@
 | 156 | 448 | Sweet Baker |
 | 157 | 446 | SkipTheSadSauce |
 | 158 | 443 | femmefatale |
-| 159 | 440 | Timothy Danaher |
-| 160 | 440 | Kimmie Kimms |
+| 159 | 440 | Kimmie Kimms |
+| 160 | 440 | Timothy Danaher |
 | 161 | 435 | Dandy Basegrid |
 | 162 | 434 | Yvonne Marie |
 | 163 | 426 | Maria C. Hernandez |
@@ -287,8 +287,8 @@
 | 279 | 291 | LaFontaine Leslie |
 | 280 | 290 | Tavia |
 | 281 | 289 | Alenoush Karimian |
-| 282 | 288 | Bird Person |
-| 283 | 288 | Larry Tilton |
+| 282 | 288 | Larry Tilton |
+| 283 | 288 | Bird Person |
 | 284 | 287 | Sir-Franchise Drake |
 | 285 | 286 | Sarahdactyl |
 | 286 | 286 | Adele Rahman |
@@ -418,9 +418,9 @@
 | 410 | 216 | Terri Rodela |
 | 411 | 215 | Quirky Pusher |
 | 412 | 214 | Kayla Marie Stevenson |
-| 413 | 213 | John Barron |
+| 413 | 213 | Divaaa |
 | 414 | 213 | Poppy Riserpiece |
-| 415 | 213 | Divaaa |
+| 415 | 213 | John Barron |
 | 416 | 212 | Amber Dee |
 | 417 | 211 | Lynn Adams |
 | 418 | 211 | Hasty Columnbuilder |
@@ -512,8 +512,8 @@
 | 504 | 175 | Kellie Tunstall |
 | 505 | 174 | Dawn Rannelli |
 | 506 | 174 | Alex Gauthier |
-| 507 | 173 | Shan Rock |
-| 508 | 173 | Mary Crisp |
+| 507 | 173 | Mary Crisp |
+| 508 | 173 | Shan Rock |
 | 509 | 172 | Toni Sagenbrecht |
 | 510 | 171 | Megan Kradzinski Ferguson |
 | 511 | 171 | Greg Premoe |

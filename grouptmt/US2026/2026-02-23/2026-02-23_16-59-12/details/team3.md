@@ -293,8 +293,8 @@
 | 285 | 414 | RickyG |
 | 286 | 412 | Jojo M |
 | 287 | 411 | Megan Rathmanner |
-| 288 | 410 | Brian Battjes |
-| 289 | 410 | Duane Bright |
+| 288 | 410 | Duane Bright |
+| 289 | 410 | Brian Battjes |
 | 290 | 408 | Tiffany Ford |
 | 291 | 408 | Ashley Muncey |
 | 292 | 408 | Cyd061769 |
@@ -428,8 +428,8 @@
 | 420 | 298 | Tay |
 | 421 | 297 | Quirky Snapfit |
 | 422 | 296 | Amy Montz |
-| 423 | 296 | Cheryl Hinch Tenbrook |
-| 424 | 296 | Tracy Martin |
+| 423 | 296 | Tracy Martin |
+| 424 | 296 | Cheryl Hinch Tenbrook |
 | 425 | 295 | Dakota Graham |
 | 426 | 294 | toony |
 | 427 | 293 | Loopy Fallzone |
@@ -618,8 +618,8 @@
 | 610 | 216 | Stephanie Whitefield |
 | 611 | 216 | Zaza Lewis |
 | 612 | 216 | Clever Edgepiece |
-| 613 | 215 | Beck Nicole |
-| 614 | 215 | Michell Hendershott Jackson |
+| 613 | 215 | Michell Hendershott Jackson |
+| 614 | 215 | Beck Nicole |
 | 615 | 214 | Shiny Snapfit |
 | 616 | 214 | Amy Fuller Heaton |
 | 617 | 213 | Gina Marie |

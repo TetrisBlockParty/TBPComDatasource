@@ -53,8 +53,8 @@
 | 45 | 1116 | Koshin Abdirahman |
 | 46 | 1093 | Ashley Ingram |
 | 47 | 1085 | Kimyatta Cavin |
-| 48 | 1082 | Dawn Alexander |
-| 49 | 1082 | Dion Crommarty |
+| 48 | 1082 | Dion Crommarty |
+| 49 | 1082 | Dawn Alexander |
 | 50 | 1071 | Cherrish Duren |
 | 51 | 1049 | Heather Tushner |
 | 52 | 1046 | Johnathan Martinez |
@@ -251,8 +251,8 @@
 | 243 | 330 | Kathy Brookins |
 | 244 | 329 | Brickh4us |
 | 245 | 324 | jim |
-| 246 | 324 | Lauren Lamb |
-| 247 | 324 | TinyLegoRose |
+| 246 | 324 | TinyLegoRose |
+| 247 | 324 | Lauren Lamb |
 | 248 | 321 | Meagan Nicole |
 | 249 | 317 | Madison Sweere |
 | 250 | 316 | Autumn Kumzi |
