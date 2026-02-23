@@ -269,8 +269,8 @@
 | 261 | 351 | Eon Harris |
 | 262 | 349 | Amanda J. Mcneil-Anderson |
 | 263 | 348 | Cyd061769 |
-| 264 | 347 | Philip Rock |
-| 265 | 347 | Rania Zaqout |
+| 264 | 347 | Rania Zaqout |
+| 265 | 347 | Philip Rock |
 | 266 | 346 | Tamara Deherrera |
 | 267 | 344 | Roary Danner |
 | 268 | 344 | Dee Franklin |
@@ -434,9 +434,9 @@
 | 426 | 225 | Beezwax |
 | 427 | 224 | Sarah Morris |
 | 428 | 222 | Eileen Brady Thurber |
-| 429 | 221 | Ryan Williams |
-| 430 | 221 | Vaners |
-| 431 | 221 | Bleu Sun Beams |
+| 429 | 221 | Vaners |
+| 430 | 221 | Bleu Sun Beams |
+| 431 | 221 | Ryan Williams |
 | 432 | 221 | Emma |
 | 433 | 221 | Glitzy Rotate |
 | 434 | 219 | Trice Thomas |

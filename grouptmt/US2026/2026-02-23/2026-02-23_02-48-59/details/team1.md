@@ -142,8 +142,8 @@
 | 134 | 386 | Ty Brown |
 | 135 | 383 | pjbeta |
 | 136 | 381 | Fmp |
-| 137 | 379 | Kimmie Kimms |
-| 138 | 379 | Austin James |
+| 137 | 379 | Austin James |
+| 138 | 379 | Kimmie Kimms |
 | 139 | 376 | Brian Richardsson |
 | 140 | 375 | Monica Donato |
 | 141 | 375 | Tanya Carpenter-Reynolds |
@@ -151,10 +151,10 @@
 | 143 | 368 | Death |
 | 144 | 368 | Amanda Johnson Huffman |
 | 145 | 367 | Sharon Reynolds |
-| 146 | 364 | Serina Marie |
-| 147 | 364 | Shauna Loe |
-| 148 | 360 | phrmblk24 |
-| 149 | 360 | Wisa |
+| 146 | 364 | Shauna Loe |
+| 147 | 364 | Serina Marie |
+| 148 | 360 | Wisa |
+| 149 | 360 | phrmblk24 |
 | 150 | 359 | Chirpy Smasher |
 | 151 | 358 | Tee Sheree |
 | 152 | 353 | Josh Riemer |
@@ -272,10 +272,10 @@
 | 264 | 229 | Dino |
 | 265 | 228 | Adele Rahman |
 | 266 | 227 | Happy Snapbuild |
-| 267 | 226 | Glitzy Buildsnap |
-| 268 | 226 | Snappy Brickbuilder |
-| 269 | 223 | Erez Yosef |
-| 270 | 223 | Layzietyme |
+| 267 | 226 | Snappy Brickbuilder |
+| 268 | 226 | Glitzy Buildsnap |
+| 269 | 223 | Layzietyme |
+| 270 | 223 | Erez Yosef |
 | 271 | 223 | Christina Backer |
 | 272 | 222 | Snappy Bridgepiece |
 | 273 | 222 | Jessie Welch |
@@ -437,8 +437,8 @@
 | 429 | 154 | Brian Spotts |
 | 430 | 154 | Jordan Brooks |
 | 431 | 153 | Toph |
-| 432 | 152 | Cree |
-| 433 | 152 | Doris Hall |
+| 432 | 152 | Doris Hall |
+| 433 | 152 | Cree |
 | 434 | 151 | Lush Zoney |
 | 435 | 151 | Michelle |
 | 436 | 151 | Chyna Mae |

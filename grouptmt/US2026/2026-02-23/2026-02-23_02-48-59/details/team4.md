@@ -79,8 +79,8 @@
 | 71 | 740 | Avy Absol |
 | 72 | 736 | Goatimus Lombardi |
 | 73 | 725 | Denise Carlson |
-| 74 | 704 | D3TROITB0RN74 |
-| 75 | 704 | Crystal Carroll |
+| 74 | 704 | Crystal Carroll |
+| 75 | 704 | D3TROITB0RN74 |
 | 76 | 697 | Alyssa Papen |
 | 77 | 694 | TheNeesh50 |
 | 78 | 684 | Jonathan Kimbrough |
@@ -159,8 +159,8 @@
 | 151 | 387 | Lucas J Sutton |
 | 152 | 387 | 🥔🥔 Spudz |
 | 153 | 377 | Carrie Brian |
-| 154 | 375 | Desi Desporte |
-| 155 | 375 | ThaEviLJeNiuZ |
+| 154 | 375 | ThaEviLJeNiuZ |
+| 155 | 375 | Desi Desporte |
 | 156 | 374 | Guy Incognito |
 | 157 | 373 | Tyler Terrific |
 | 158 | 370 | Oscar Alberto Perez |
@@ -201,15 +201,15 @@
 | 193 | 304 | Lindsay Ball |
 | 194 | 302 | Cursed Hag |
 | 195 | 301 | Andria Lynn |
-| 196 | 300 | Zakia Monae |
-| 197 | 300 | Dana Scott |
-| 198 | 300 | Dihcheese444 |
+| 196 | 300 | Dana Scott |
+| 197 | 300 | Dihcheese444 |
+| 198 | 300 | Zakia Monae |
 | 199 | 297 | Melvin Baird |
 | 200 | 296 | scott |
 | 201 | 294 | Calvin Cannon |
 | 202 | 292 | Epic Curvetile |
-| 203 | 290 | Keshia Lyons |
-| 204 | 290 | Keith Kelley |
+| 203 | 290 | Keith Kelley |
+| 204 | 290 | Keshia Lyons |
 | 205 | 290 | Jared Gutwein |
 | 206 | 288 | Porkobello |
 | 207 | 288 | Brittney Orengo |

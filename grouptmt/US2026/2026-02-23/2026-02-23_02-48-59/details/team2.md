@@ -149,8 +149,8 @@
 | 141 | 1599 | Dustin Rains |
 | 142 | 1581 | Brandy Andre |
 | 143 | 1580 | Heather Westrum |
-| 144 | 1578 | Loopy Clusterbuilder |
-| 145 | 1578 | Sally Dennis |
+| 144 | 1578 | Sally Dennis |
+| 145 | 1578 | Loopy Clusterbuilder |
 | 146 | 1566 | Alisa Lamb |
 | 147 | 1558 | Tim Dyer |
 | 148 | 1557 | blackq |
@@ -312,9 +312,9 @@
 | 304 | 907 | Gene Mills |
 | 305 | 906 | Deborah Miller |
 | 306 | 905 | F-X |
-| 307 | 904 | Jennifer Aiken |
-| 308 | 904 | John Bednarik |
-| 309 | 904 | Ashlen Dorrell |
+| 307 | 904 | Ashlen Dorrell |
+| 308 | 904 | Jennifer Aiken |
+| 309 | 904 | John Bednarik |
 | 310 | 902 | William Hunt |
 | 311 | 901 | Kevin Sees |
 | 312 | 899 | Chevy |
