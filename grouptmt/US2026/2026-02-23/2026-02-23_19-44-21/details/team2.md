@@ -354,8 +354,8 @@
 | 346 | 1041 | Binyah-Binyah |
 | 347 | 1040 | Taylor Phillips |
 | 348 | 1037 | Jessica Wayne Cornwall |
-| 349 | 1036 | Allison Lockyer |
-| 350 | 1036 | Amber Shoemaker |
+| 349 | 1036 | Amber Shoemaker |
+| 350 | 1036 | Allison Lockyer |
 | 351 | 1031 | Barbra Miller |
 | 352 | 1029 | Crystal Hoffman |
 | 353 | 1024 | Susan Perraut Jones |
@@ -378,8 +378,8 @@
 | 370 | 978 | Barry Britt |
 | 371 | 977 | Christina Lewis-Vickers |
 | 372 | 976 | Sam Joe |
-| 373 | 975 | Hyper Cluster |
-| 374 | 975 | Mandi Douglas Hilt |
+| 373 | 975 | Mandi Douglas Hilt |
+| 374 | 975 | Hyper Cluster |
 | 375 | 974 | Boldy Cascadepiece |
 | 376 | 971 | Jojo Momma |
 | 377 | 971 | Tiara Elizabeth Baker |
@@ -440,8 +440,8 @@
 | 432 | 877 | Misti Markijohn |
 | 433 | 876 | Jessicah Myers |
 | 434 | 870 | Joy LaJeunesse |
-| 435 | 869 | BYM4L |
-| 436 | 869 | Venita Ray |
+| 435 | 869 | Venita Ray |
+| 436 | 869 | BYM4L |
 | 437 | 868 | Jelly |
 | 438 | 865 | Kiely Tomaskovich |
 | 439 | 862 | Sarah Massey |
@@ -534,8 +534,8 @@
 | 526 | 755 | Taryece Gause |
 | 527 | 751 | Breezy Filler |
 | 528 | 751 | Briana Alexander |
-| 529 | 750 | Darla Silva |
-| 530 | 750 | Draizen Montrell Thomas |
+| 529 | 750 | Draizen Montrell Thomas |
+| 530 | 750 | Darla Silva |
 | 531 | 750 | Michael Buckner |
 | 532 | 749 | Trisha J Schmidt |
 | 533 | 748 | Melissa Schulz |

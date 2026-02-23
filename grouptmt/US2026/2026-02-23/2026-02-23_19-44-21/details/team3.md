@@ -185,8 +185,8 @@
 | 177 | 695 | Samantha Greco |
 | 178 | 690 | Patricia White |
 | 179 | 684 | Nicole Myers |
-| 180 | 675 | Edwin Calvillo Jr. |
-| 181 | 675 | Angela Scott |
+| 180 | 675 | Angela Scott |
+| 181 | 675 | Edwin Calvillo Jr. |
 | 182 | 657 | Chasity |
 | 183 | 655 | Rochelle Hazelett |
 | 184 | 647 | Jennifer Lynn Fahrenholtz-Summers |
@@ -368,8 +368,8 @@
 | 360 | 356 | Alexmac |
 | 361 | 354 | TotoCherue |
 | 362 | 353 | Dee Franklin |
-| 363 | 352 | Tiffany Davie |
-| 364 | 352 | Nikki Pags |
+| 363 | 352 | Nikki Pags |
+| 364 | 352 | Tiffany Davie |
 | 365 | 352 | LadyTorad |
 | 366 | 351 | Blocked |
 | 367 | 351 | Rick Poppen |

@@ -116,8 +116,8 @@
 | 108 | 667 | Amy Suckarieh |
 | 109 | 663 | H.R. Block |
 | 110 | 659 | Jamie Gustafson |
-| 111 | 658 | Girl |
-| 112 | 658 | Zippy Gridlock |
+| 111 | 658 | Zippy Gridlock |
+| 112 | 658 | Girl |
 | 113 | 652 | Leslie Nicole |
 | 114 | 649 | Chris Alexinas |
 | 115 | 647 | KM8 |
@@ -216,8 +216,8 @@
 | 208 | 411 | Autumn Kumzi |
 | 209 | 408 | April Rondinone |
 | 210 | 400 | Antony Dwayne Beasley |
-| 211 | 399 | Jeff Brian Gates |
-| 212 | 399 | Lindsay Ball |
+| 211 | 399 | Lindsay Ball |
+| 212 | 399 | Jeff Brian Gates |
 | 213 | 398 | Tyler Terrific |
 | 214 | 394 | Nita Wells |
 | 215 | 389 | Joseph Guthrie |
@@ -529,8 +529,8 @@
 | 521 | 178 | Jackson Karen |
 | 522 | 177 | Stephanie Mico |
 | 523 | 177 | Snippy Clearer |
-| 524 | 176 | Jlmendillo |
-| 525 | 176 | Walid Elsabee |
+| 524 | 176 | Walid Elsabee |
+| 525 | 176 | Jlmendillo |
 | 526 | 176 | @ |
 | 527 | 175 | Veronica Garza |
 | 528 | 175 | Lazy Glidepiece |
