@@ -169,8 +169,8 @@
 | 161 | 634 | Amber Hughes |
 | 162 | 631 | Grego Daniel |
 | 163 | 630 | yoyo |
-| 164 | 621 | Sashay Tapae Simpson |
-| 165 | 621 | Cherry Parker |
+| 164 | 621 | Cherry Parker |
+| 165 | 621 | Sashay Tapae Simpson |
 | 166 | 616 | Kammy Hill |
 | 167 | 611 | Rochelle Hazelett |
 | 168 | 603 | Jone |
@@ -269,8 +269,8 @@
 | 261 | 406 | Kristal C Lee |
 | 262 | 405 | Steffi Chris Dacones |
 | 263 | 404 | Chasity |
-| 264 | 403 | lashanda |
-| 265 | 403 | Denita Mungro |
+| 264 | 403 | Denita Mungro |
+| 265 | 403 | lashanda |
 | 266 | 403 | Scott Lindsay |
 | 267 | 401 | Ashley Tookes |
 | 268 | 400 | Quackers |
@@ -409,7 +409,7 @@
 | 401 | 273 | Kevin Fountain |
 | 402 | 272 | Todd Hall |
 | 403 | 272 | Tay |
-| 404 | 272 | Todd Hall |
+| 404 | 272 | Eboni Starr |
 | 405 | 269 | Goofy Fall |
 | 406 | 269 | Jess Bissett |
 | 407 | 269 | Michael Latasha Gray |

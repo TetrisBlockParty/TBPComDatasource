@@ -44,8 +44,8 @@
 | 36 | 4280 | Robert Diddle |
 | 37 | 4199 | Claire Noland |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Kristen Sceurman |
-| 40 | 4120 | Corrine Hawks Soriano |
+| 39 | 4120 | Corrine Hawks Soriano |
+| 40 | 4120 | Kristen Sceurman |
 | 41 | 4086 | PandaMama |
 | 42 | 3963 | CoolKat |
 | 43 | 3947 | Melinda Brown |
@@ -675,8 +675,8 @@
 | 667 | 550 | Shorty |
 | 668 | 549 | Kaylee McCafferty |
 | 669 | 549 | Crystal Hodge Love |
-| 670 | 548 | Shindee |
-| 671 | 548 | Sunshine711 |
+| 670 | 548 | Sunshine711 |
+| 671 | 548 | Shindee |
 | 672 | 547 | Hunter Connors |
 | 673 | 547 | Sonya Back |
 | 674 | 546 | NanDa Cruzan VI |

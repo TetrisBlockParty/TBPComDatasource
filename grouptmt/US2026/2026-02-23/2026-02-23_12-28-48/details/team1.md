@@ -66,8 +66,8 @@
 | 58 | 892 | Seth Wesson |
 | 59 | 874 | Kristen Roles Robben |
 | 60 | 858 | Michelle Nicole |
-| 61 | 850 | comrade fish |
-| 62 | 850 | Andrea Dañielle Ortiz |
+| 61 | 850 | Andrea Dañielle Ortiz |
+| 62 | 850 | comrade fish |
 | 63 | 845 | Drew Magnus |
 | 64 | 829 | Sevens4L |
 | 65 | 818 | Patrick Luckenbill |
@@ -130,14 +130,14 @@
 | 122 | 467 | Candy Jones |
 | 123 | 463 | Lexuriuos Lifestlye |
 | 124 | 462 | Luciano Moreira |
-| 125 | 458 | Goose egg |
-| 126 | 458 | Evan Richmond |
+| 125 | 458 | Evan Richmond |
+| 126 | 458 | Goose egg |
 | 127 | 454 | Desiree Deschaine Havee |
 | 128 | 453 | Brandi Huntington |
 | 129 | 451 | Plucky Ziggy |
 | 130 | 450 | lil mickey |
-| 131 | 448 | Sweet Baker |
-| 132 | 448 | Jazzy Framezone |
+| 131 | 448 | Jazzy Framezone |
+| 132 | 448 | Sweet Baker |
 | 133 | 446 | SkipTheSadSauce |
 | 134 | 443 | Steve Schneider |
 | 135 | 440 | femmefatale |
