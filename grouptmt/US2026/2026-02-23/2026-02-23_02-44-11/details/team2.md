@@ -40,8 +40,8 @@
 | 32 | 4210 | Robert Diddle |
 | 33 | 4199 | Claire Noland |
 | 34 | 4128 | Angela Pruitt |
-| 35 | 4120 | Kristen Sceurman |
-| 36 | 4120 | Corrine Hawks Soriano |
+| 35 | 4120 | Corrine Hawks Soriano |
+| 36 | 4120 | Kristen Sceurman |
 | 37 | 4093 | Jill Stroehlein |
 | 38 | 3895 | Nickie Baby |
 | 39 | 3770 | Brittany Alicia |
@@ -98,8 +98,8 @@
 | 90 | 2237 | Jen Tramack |
 | 91 | 2216 | Alicia Parrish |
 | 92 | 2165 | Tj Ball |
-| 93 | 2148 | ShinyRose |
-| 94 | 2148 | Roger Grabbit |
+| 93 | 2148 | Roger Grabbit |
+| 94 | 2148 | ShinyRose |
 | 95 | 2146 | KellyDyan |
 | 96 | 2127 | Qiana Sanders |
 | 97 | 2106 | Steve Grotto |
@@ -134,8 +134,8 @@
 | 126 | 1681 | Nett |
 | 127 | 1681 | Shandrica Lowe |
 | 128 | 1658 | Liberty |
-| 129 | 1656 | Auntie B |
-| 130 | 1656 | Kristopher Miller |
+| 129 | 1656 | Kristopher Miller |
+| 130 | 1656 | Auntie B |
 | 131 | 1644 | Luna |
 | 132 | 1640 | Murrae Lynn Rebarchek |
 | 133 | 1639 | Jessie McDougald |
@@ -205,8 +205,8 @@
 | 197 | 1244 | Teddi Notyalc |
 | 198 | 1243 | Anna Edwards |
 | 199 | 1237 | Megan Ferguson Leone |
-| 200 | 1232 | Ambyre Patterson |
-| 201 | 1232 | Groovy Puzzle |
+| 200 | 1232 | Groovy Puzzle |
+| 201 | 1232 | Ambyre Patterson |
 | 202 | 1230 | Megan Garrick |
 | 203 | 1217 | Lucky Ladybug |
 | 204 | 1207 | David Cudicio-Hayden |
@@ -219,8 +219,8 @@
 | 211 | 1169 | Pacynthia Williams |
 | 212 | 1169 | Steven Marshaun |
 | 213 | 1159 | Carrie Trigg |
-| 214 | 1158 | Amy Sayers |
-| 215 | 1158 | Brittany Clark |
+| 214 | 1158 | Brittany Clark |
+| 215 | 1158 | Amy Sayers |
 | 216 | 1151 | Stacey Clement |
 | 217 | 1141 | Adam Erikson |
 | 218 | 1140 | Sarah Ridenour |

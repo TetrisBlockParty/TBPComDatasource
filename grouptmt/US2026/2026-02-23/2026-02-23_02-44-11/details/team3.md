@@ -205,8 +205,8 @@
 | 197 | 461 | Shunta Jacobs |
 | 198 | 458 | Danielle Rhoades |
 | 199 | 457 | Jim Mathews |
-| 200 | 452 | Tom Nault |
-| 201 | 452 | Jacqueline Rodriguez |
+| 200 | 452 | Jacqueline Rodriguez |
+| 201 | 452 | Tom Nault |
 | 202 | 451 | Sarah Cowan Burgos |
 | 203 | 436 | Danielle Weikel |
 | 204 | 434 | rnr junky |
@@ -240,8 +240,8 @@
 | 232 | 387 | Gideon Walker |
 | 233 | 384 | Marci Mize Fandrich |
 | 234 | 383 | Darlene McMillan |
-| 235 | 382 | Scott Carleton |
-| 236 | 382 | Giddy Twistbuilder |
+| 235 | 382 | Giddy Twistbuilder |
+| 236 | 382 | Scott Carleton |
 | 237 | 380 | Rebecca Bailey |
 | 238 | 378 | Chris Bell |
 | 239 | 377 | RickyG |

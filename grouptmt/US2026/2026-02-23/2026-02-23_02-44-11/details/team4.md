@@ -55,8 +55,8 @@
 | 47 | 911 | Jeremy Steines |
 | 48 | 855 | Marvin Lou Martin |
 | 49 | 853 | TeeJ |
-| 50 | 846 | Lucille Truesdale |
-| 51 | 846 | Christine Marie |
+| 50 | 846 | Christine Marie |
+| 51 | 846 | Lucille Truesdale |
 | 52 | 845 | LisaJo Picken Buchanan |
 | 53 | 843 | Shelly Chandler |
 | 54 | 841 | Anthony Bryan Riva |
@@ -130,8 +130,8 @@
 | 122 | 471 | Chastity Mitchell |
 | 123 | 458 | Twisty Clicky |
 | 124 | 452 | Jolly Dashfit |
-| 125 | 451 | Angela Srubar-Norman |
-| 126 | 451 | Peachy Fall |
+| 125 | 451 | Peachy Fall |
+| 126 | 451 | Angela Srubar-Norman |
 | 127 | 448 | Kristin Manee |
 | 128 | 435 | Kristina Black |
 | 129 | 435 | Leslie Thomas |
@@ -202,8 +202,8 @@
 | 194 | 302 | Cursed Hag |
 | 195 | 301 | Andria Lynn |
 | 196 | 300 | Zakia Monae |
-| 197 | 300 | Dana Scott |
-| 198 | 300 | Dihcheese444 |
+| 197 | 300 | Dihcheese444 |
+| 198 | 300 | Dana Scott |
 | 199 | 297 | Melvin Baird |
 | 200 | 296 | scott |
 | 201 | 294 | Calvin Cannon |
@@ -223,8 +223,8 @@
 | 215 | 281 | Laura |
 | 216 | 281 | Nikki Rae Gordon |
 | 217 | 277 | Zesty Twistbuilder |
-| 218 | 276 | Joeliecea Cobb |
-| 219 | 276 | Matt Dell'Olio |
+| 218 | 276 | Matt Dell'Olio |
+| 219 | 276 | Joeliecea Cobb |
 | 220 | 273 | Casey Grabner |
 | 221 | 272 | Dennis Bradley |
 | 222 | 272 | Alan George LaRage |
