@@ -281,8 +281,8 @@
 | 273 | 1045 | Lourisha |
 | 274 | 1043 | nikki |
 | 275 | 1043 | Brave Dropmatch |
-| 276 | 1036 | Allison Lockyer |
-| 277 | 1036 | Amber Shoemaker |
+| 276 | 1036 | Amber Shoemaker |
+| 277 | 1036 | Allison Lockyer |
 | 278 | 1026 | Kristin Gower |
 | 279 | 1024 | Susan Perraut Jones |
 | 280 | 1024 | Taylor Phillips |
@@ -402,8 +402,8 @@
 | 394 | 787 | Tiara Elizabeth Baker |
 | 395 | 783 | John Rodriguez |
 | 396 | 779 | Kayla |
-| 397 | 777 | Jessicah Myers |
-| 398 | 777 | Tesha Oldaker |
+| 397 | 777 | Tesha Oldaker |
+| 398 | 777 | Jessicah Myers |
 | 399 | 776 | Fancy Twister |
 | 400 | 776 | Kelly A Green-Leach |
 | 401 | 776 | Mighty Spinbuilder |
@@ -1365,8 +1365,8 @@
 | 1357 | 277 | Kristin1001 |
 | 1358 | 277 | Beverly Hodge |
 | 1359 | 277 | Lisa Yuen Small |
-| 1360 | 277 | Amanda Fullerton |
-| 1361 | 277 | Gael |
+| 1360 | 277 | Gael |
+| 1361 | 277 | Wha |
 | 1362 | 277 | Amanda Michelle Pigeon |
 | 1363 | 277 | Amanda Fullerton |
 | 1364 | 276 | Cool Slam |

@@ -89,8 +89,8 @@
 | 81 | 645 | Robert Benito |
 | 82 | 637 | Evie Khalil |
 | 83 | 600 | Greg Hart |
-| 84 | 598 | Erin Hodges Plumb |
-| 85 | 598 | Kellie |
+| 84 | 598 | Kellie |
+| 85 | 598 | Erin Hodges Plumb |
 | 86 | 584 | Jen Sartain |
 | 87 | 583 | Theo Pinnow |
 | 88 | 582 | Plucky Fallzone |
@@ -124,8 +124,8 @@
 | 116 | 451 | Plucky Ziggy |
 | 117 | 450 | lil mickey |
 | 118 | 449 | Anaid Sanchez |
-| 119 | 448 | Sweet Baker |
-| 120 | 448 | Jazzy Framezone |
+| 119 | 448 | Jazzy Framezone |
+| 120 | 448 | Sweet Baker |
 | 121 | 446 | SkipTheSadSauce |
 | 122 | 443 | Steve Schneider |
 | 123 | 439 | Dee Perry |
@@ -168,15 +168,15 @@
 | 160 | 368 | Amanda Johnson Huffman |
 | 161 | 367 | Sharon Reynolds |
 | 162 | 366 | J.F. Fields |
-| 163 | 364 | Shauna Loe |
-| 164 | 364 | Serina Marie |
+| 163 | 364 | Serina Marie |
+| 164 | 364 | Shauna Loe |
 | 165 | 360 | Wisa |
-| 166 | 357 | David Lutcher |
-| 167 | 357 | Shiny Snapfit |
-| 168 | 355 | Mike Ames |
-| 169 | 355 | Amanda Jarnagin |
-| 170 | 353 | Jaimie Lynn |
-| 171 | 353 | Josh Riemer |
+| 166 | 357 | Shiny Snapfit |
+| 167 | 357 | David Lutcher |
+| 168 | 355 | Amanda Jarnagin |
+| 169 | 355 | Mike Ames |
+| 170 | 353 | Josh Riemer |
+| 171 | 353 | Jaimie Lynn |
 | 172 | 350 | Tipsy Strikerpiece |
 | 173 | 349 | Cool Shiftsnap |
 | 174 | 349 | Oscar Zamora |
@@ -188,8 +188,8 @@
 | 180 | 341 | Nick R Montague |
 | 181 | 339 | Nicole Roseberry Weber |
 | 182 | 338 | Jennifer Hardman |
-| 183 | 337 | Constance Risner |
-| 184 | 337 | Jamise Brown |
+| 183 | 337 | Jamise Brown |
+| 184 | 337 | Constance Risner |
 | 185 | 336 | Dizzy Party |
 | 186 | 333 | Gracie |
 | 187 | 333 | Virginia Gray Floyd |
@@ -252,8 +252,8 @@
 | 244 | 265 | Kandae |
 | 245 | 264 | Jenny Gingrich Fuentes |
 | 246 | 263 | Perky Shiftsnap |
-| 247 | 261 | John J. Cronin |
-| 248 | 261 | Brooke Elizabeth Antill |
+| 247 | 261 | Brooke Elizabeth Antill |
+| 248 | 261 | John J. Cronin |
 | 249 | 260 | Lacy Wolfe |
 | 250 | 260 | Marianita Garcia |
 | 251 | 260 | Barrbaric |
@@ -361,10 +361,10 @@
 | 353 | 197 | Cool Towerzone |
 | 354 | 197 | Larry Tilton |
 | 355 | 196 | Steph |
-| 356 | 195 | Renata Mabie |
-| 357 | 195 | Blaire Bruckoff |
-| 358 | 195 | Herm Junior |
-| 359 | 195 | Beazel75 |
+| 356 | 195 | Blaire Bruckoff |
+| 357 | 195 | Herm Junior |
+| 358 | 195 | Beazel75 |
+| 359 | 195 | Renata Mabie |
 | 360 | 194 | Susan Ward |
 | 361 | 193 | Lachelle Dillon |
 | 362 | 192 | Ramona Shaver |
