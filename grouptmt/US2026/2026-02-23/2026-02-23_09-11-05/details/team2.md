@@ -300,13 +300,13 @@
 | 292 | 1011 | Teresa Gillmore |
 | 293 | 1007 | Missie Lawson Gebhardt |
 | 294 | 1003 | Andrea Maher |
-| 295 | 998 | Keri Womack |
-| 296 | 998 | Shelley Thornburgh Wright |
+| 295 | 998 | Shelley Thornburgh Wright |
+| 296 | 998 | Keri Womack |
 | 297 | 996 | Ashie Ann |
 | 298 | 987 | Osun Anuket Esu |
 | 299 | 984 | Crystal Hoffman |
-| 300 | 979 | Melissa Penelope Ann Dodge |
-| 301 | 979 | Hillary Crawford |
+| 300 | 979 | Hillary Crawford |
+| 301 | 979 | Melissa Penelope Ann Dodge |
 | 302 | 978 | April Dawn Gussler |
 | 303 | 976 | Sam Joe |
 | 304 | 976 | Della Hole |
@@ -314,8 +314,8 @@
 | 306 | 972 | Barbra Miller |
 | 307 | 972 | Binyah-Binyah |
 | 308 | 971 | Jojo Momma |
-| 309 | 969 | Boldy Cascadepiece |
-| 310 | 969 | Em Chen |
+| 309 | 969 | Em Chen |
+| 310 | 969 | Boldy Cascadepiece |
 | 311 | 961 | Angela Lynn |
 | 312 | 959 | Phil J. Grombliniak |
 | 313 | 958 | Doowop40 |
@@ -378,8 +378,8 @@
 | 370 | 832 | Nicole L Morelli |
 | 371 | 831 | Christina Lewis-Vickers |
 | 372 | 830 | Diallo Sparkman |
-| 373 | 829 | Jessica Wayne Cornwall |
-| 374 | 829 | Angie Bolton Workman |
+| 373 | 829 | Angie Bolton Workman |
+| 374 | 829 | Jessica Wayne Cornwall |
 | 375 | 828 | Kimmy Newman |
 | 376 | 825 | Jeremy Parodi |
 | 377 | 824 | Danielle Johnson-Chandler |
@@ -817,11 +817,11 @@
 | 809 | 447 | Boozi |
 | 810 | 446 | Colin Morgan |
 | 811 | 446 | Courtney Burcham |
-| 812 | 445 | Mar Q Thomas |
-| 813 | 445 | Beatboxxer |
+| 812 | 445 | Beatboxxer |
+| 813 | 445 | Mar Q Thomas |
 | 814 | 444 | Angela Murgia-Owen |
-| 815 | 443 | Giggy Grabber |
-| 816 | 443 | N00D3S |
+| 815 | 443 | N00D3S |
+| 816 | 443 | Giggy Grabber |
 | 817 | 442 | Juan Castillo |
 | 818 | 442 | Rain |
 | 819 | 441 | Goofy Catcher |
@@ -891,8 +891,8 @@
 | 883 | 411 | Valerie Vigil |
 | 884 | 411 | BabyBird |
 | 885 | 409 | Lush Snapzone |
-| 886 | 408 | cornball |
-| 887 | 408 | Dad |
+| 886 | 408 | Dad |
+| 887 | 408 | cornball |
 | 888 | 408 | Janitta Alvarez |
 | 889 | 407 | Danielle DeLozier Plesec |
 | 890 | 407 | Christina Jarvis-Swarbrick |
@@ -1397,9 +1397,9 @@
 | 1389 | 279 | Brandy Boykin |
 | 1390 | 278 | Jennifer Rajek |
 | 1391 | 278 | Jacqueline Muellerleile |
-| 1392 | 277 | Wha |
+| 1392 | 277 | Amanda Fullerton |
 | 1393 | 277 | Amanda Michelle Pigeon |
-| 1394 | 277 | Amanda Fullerton |
+| 1394 | 277 | Wha |
 | 1395 | 277 | Kevin Luu |
 | 1396 | 277 | Kristin1001 |
 | 1397 | 277 | Beverly Hodge |
@@ -1601,8 +1601,8 @@
 | 1593 | 251 | Meghan Sallee-Downs |
 | 1594 | 251 | Happy Tilebuilder |
 | 1595 | 250 | Melissa Moat |
-| 1596 | 250 | Kay Stevenson |
-| 1597 | 250 | Caai Ac |
+| 1596 | 250 | Caai Ac |
+| 1597 | 250 | Kay Stevenson |
 | 1598 | 250 | Kelli Ragland |
 | 1599 | 249 | Lynda Leigh Lockman |
 | 1600 | 249 | Sunny Frame |

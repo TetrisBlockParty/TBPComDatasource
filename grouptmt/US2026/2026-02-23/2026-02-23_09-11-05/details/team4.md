@@ -26,8 +26,8 @@
 | 18 | 1636 | Cassie Michaux |
 | 19 | 1565 | GreenJeepGirl |
 | 20 | 1558 | Leah Gorsuch |
-| 21 | 1536 | Misty Hollibaugh |
-| 22 | 1536 | Roger Coulter |
+| 21 | 1536 | Roger Coulter |
+| 22 | 1536 | Misty Hollibaugh |
 | 23 | 1485 | Juggalo |
 | 24 | 1390 | Sammy Noguera |
 | 25 | 1382 | Tammi Crnza |
@@ -75,8 +75,8 @@
 | 67 | 787 | loulou |
 | 68 | 767 | Shannon Ferrari |
 | 69 | 766 | Robin Watters |
-| 70 | 765 | Denise Carlson |
-| 71 | 765 | Robin Getchel |
+| 70 | 765 | Robin Getchel |
+| 71 | 765 | Denise Carlson |
 | 72 | 752 | Shane Kalamata Platoon |
 | 73 | 749 | Dustee Craddock-Harrison |
 | 74 | 747 | TheNeesh50 |
@@ -156,8 +156,8 @@
 | 148 | 418 | Lush Linkfall |
 | 149 | 418 | Marie-Pier Desjardins |
 | 150 | 416 | Chaz Duncan |
-| 151 | 414 | Nope Young |
-| 152 | 414 | Swanky Fitline |
+| 151 | 414 | Swanky Fitline |
+| 152 | 414 | Nope Young |
 | 153 | 413 | Circuit8 |
 | 154 | 412 | Jessica Bohlken |
 | 155 | 408 | Amanda Pauldo-Ivy |
@@ -214,8 +214,8 @@
 | 206 | 318 | Chris Hartig |
 | 207 | 317 | Madison Sweere |
 | 208 | 316 | Autumn Kumzi |
-| 209 | 312 | Casey Grabner |
-| 210 | 312 | Dihcheese444 |
+| 209 | 312 | Dihcheese444 |
+| 210 | 312 | Casey Grabner |
 | 211 | 311 | Mary Ann Pabukis |
 | 212 | 310 | Holly Jolly |
 | 213 | 308 | Steph Marie |
@@ -290,8 +290,8 @@
 | 282 | 244 | Elizabeth Tinoco |
 | 283 | 244 | Christina Black |
 | 284 | 243 | Chair |
-| 285 | 242 | PurpleMoonMa |
-| 286 | 242 | Chaz |
+| 285 | 242 | Chaz |
+| 286 | 242 | PurpleMoonMa |
 | 287 | 240 | Kim Hunt |
 | 288 | 240 | Perky Patternblock |
 | 289 | 239 | Joanna |
@@ -301,8 +301,8 @@
 | 293 | 235 | LaDonna LovinmesomeMe Lambert |
 | 294 | 235 | Shainne Brewer |
 | 295 | 234 | Richard-April Kice |
-| 296 | 233 | Joseph Edmonson |
-| 297 | 233 | Ruben Wheeler |
+| 296 | 233 | Ruben Wheeler |
+| 297 | 233 | Joseph Edmonson |
 | 298 | 228 | Bethany Ison |
 | 299 | 227 | Jason Bosco |
 | 300 | 226 | Dizzy Matchzone |
@@ -331,9 +331,9 @@
 | 323 | 214 | Patron Anderson |
 | 324 | 214 | Stacey Stano |
 | 325 | 213 | Jackie Marie |
-| 326 | 212 | Zany Shatterer |
-| 327 | 212 | Brave Spinbuilder |
-| 328 | 212 | Mike Solo |
+| 326 | 212 | Mike Solo |
+| 327 | 212 | Zany Shatterer |
+| 328 | 212 | Brave Spinbuilder |
 | 329 | 211 | Chris Alexinas |
 | 330 | 210 | Ari Droff |
 | 331 | 209 | Marcus Todd |
@@ -370,9 +370,9 @@
 | 362 | 191 | Norman Klick |
 | 363 | 190 | wombat |
 | 364 | 190 | Hyper Builder |
-| 365 | 189 | Lauren Lamb |
-| 366 | 189 | Berklie Apedaile |
-| 367 | 189 | Cool Towerbuilder |
+| 365 | 189 | Berklie Apedaile |
+| 366 | 189 | Cool Towerbuilder |
+| 367 | 189 | Lauren Lamb |
 | 368 | 188 | Sharyn Lemire |
 | 369 | 187 | Jenny Wells-Oakley |
 | 370 | 186 | Dandy Cascadefit |
@@ -531,10 +531,10 @@
 | 523 | 138 | Lynn Marie |
 | 524 | 137 | April Spoelma |
 | 525 | 137 | Brianna Walker |
-| 526 | 136 | Badatvs |
-| 527 | 136 | Zocko Ellet |
-| 528 | 136 | Jennifer Perkins |
-| 529 | 136 | Tabitha Calvin |
+| 526 | 136 | Zocko Ellet |
+| 527 | 136 | Badatvs |
+| 528 | 136 | Tabitha Calvin |
+| 529 | 136 | Jennifer Perkins |
 | 530 | 135 | Groovy Shiftspin |
 | 531 | 134 | Tabitha Henson |
 | 532 | 133 | Wacky Blockclear |
@@ -559,8 +559,8 @@
 | 551 | 129 | Jessica Wells |
 | 552 | 129 | Tamika Starkey |
 | 553 | 128 | Zesty Linkgrid |
-| 554 | 128 | Lazy Glidepiece |
-| 555 | 128 | Raymond Roberts |
+| 554 | 128 | Raymond Roberts |
+| 555 | 128 | Lazy Glidepiece |
 | 556 | 127 | Jay You |
 | 557 | 127 | Cheery Lift |
 | 558 | 126 | PAPatty |
