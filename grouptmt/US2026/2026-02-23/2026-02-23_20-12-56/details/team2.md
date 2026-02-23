@@ -318,8 +318,8 @@
 | 310 | 1131 | Tyler C. Jung |
 | 311 | 1120 | F-X |
 | 312 | 1115 | Sinistah42o |
-| 313 | 1114 | Kevin Walp |
-| 314 | 1114 | Julie Kresal |
+| 313 | 1114 | Julie Kresal |
+| 314 | 1114 | Kevin Walp |
 | 315 | 1110 | Ibiza Carolina LaRose |
 | 316 | 1109 | Melissa McCall |
 | 317 | 1105 | Sarah block |

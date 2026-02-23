@@ -312,8 +312,8 @@
 | 304 | 298 | Kimberly Davis |
 | 305 | 298 | Sweetts |
 | 306 | 297 | Diane Byrd |
-| 307 | 294 | Chummy Rollblock |
-| 308 | 294 | Наталья Солоид |
+| 307 | 294 | Наталья Солоид |
+| 308 | 294 | Chummy Rollblock |
 | 309 | 293 | Garrett Burket |
 | 310 | 292 | Damian Salem |
 | 311 | 292 | Clever Cascadepiece |
@@ -396,8 +396,8 @@
 | 388 | 245 | .running. |
 | 389 | 244 | Sarah Marie |
 | 390 | 243 | Bouncy Grid |
-| 391 | 242 | Tamara Brown |
-| 392 | 242 | John Ramirez |
+| 391 | 242 | John Ramirez |
+| 392 | 242 | Tamara Brown |
 | 393 | 241 | Zesty Brickzone |
 | 394 | 240 | Nathan William |
 | 395 | 239 | Ed Franz Jr |
@@ -409,9 +409,9 @@
 | 401 | 235 | Ariel Whittington |
 | 402 | 234 | Brandie Gallegos |
 | 403 | 233 | Melissa Bires Hussar |
-| 404 | 232 | Jennifer Olewnik Soborowski |
-| 405 | 232 | Itspaigebro |
-| 406 | 232 | Mary Sheets |
+| 404 | 232 | Itspaigebro |
+| 405 | 232 | Mary Sheets |
+| 406 | 232 | Jennifer Olewnik Soborowski |
 | 407 | 230 | Panda Thagreat |
 | 408 | 228 | Amber Dee |
 | 409 | 227 | Happy Snapbuild |

@@ -156,8 +156,8 @@
 | 148 | 520 | Zippy Block |
 | 149 | 518 | Carly Alexis |
 | 150 | 516 | Trish |
-| 151 | 514 | Scott Jameson |
-| 152 | 514 | Lucas J Sutton |
+| 151 | 514 | Lucas J Sutton |
+| 152 | 514 | Scott Jameson |
 | 153 | 513 | Erin Thomas |
 | 154 | 512 | ThaEviLJeNiuZ |
 | 155 | 512 | Angela Srubar-Norman |
@@ -221,8 +221,8 @@
 | 213 | 411 | Autumn Kumzi |
 | 214 | 408 | April Rondinone |
 | 215 | 400 | Antony Dwayne Beasley |
-| 216 | 399 | Lindsay Ball |
-| 217 | 399 | Jeff Brian Gates |
+| 216 | 399 | Jeff Brian Gates |
+| 217 | 399 | Lindsay Ball |
 | 218 | 398 | Tyler Terrific |
 | 219 | 394 | Nita Wells |
 | 220 | 390 | Kathy Brookins |
@@ -233,8 +233,8 @@
 | 225 | 383 | Brickh4us |
 | 226 | 383 | blockstar |
 | 227 | 381 | Plucky Patternblock |
-| 228 | 380 | Rio Rocha |
-| 229 | 380 | Zesty Twistbuilder |
+| 228 | 380 | Zesty Twistbuilder |
+| 229 | 380 | Rio Rocha |
 | 230 | 379 | Backoff Recupe |
 | 231 | 378 | Lauren Scott |
 | 232 | 376 | shark tato |
@@ -285,8 +285,8 @@
 | 277 | 317 | Madison Sweere |
 | 278 | 315 | Stella |
 | 279 | 314 | Lora |
-| 280 | 313 | Milan Markeisha |
-| 281 | 313 | Angie Schmidt |
+| 280 | 313 | Angie Schmidt |
+| 281 | 313 | Milan Markeisha |
 | 282 | 312 | Dihcheese444 |
 | 283 | 311 | Jason Gibbs |
 | 284 | 311 | Nikki Rae Gordon |
