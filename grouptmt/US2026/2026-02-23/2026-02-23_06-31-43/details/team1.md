@@ -35,8 +35,8 @@
 | 27 | 1220 | Christina Graham |
 | 28 | 1191 | Nerdy Linkblock |
 | 29 | 1171 | Tyler Alcock |
-| 30 | 1126 | Tater |
-| 31 | 1126 | Felicia Lewis |
+| 30 | 1126 | Felicia Lewis |
+| 31 | 1126 | Tater |
 | 32 | 1122 | Amanda Summey Schoemer |
 | 33 | 1119 | june october |
 | 34 | 1114 | Jayme Sellers |
@@ -188,8 +188,8 @@
 | 180 | 341 | Nick R Montague |
 | 181 | 339 | Nicole Roseberry Weber |
 | 182 | 338 | Jennifer Hardman |
-| 183 | 337 | Jamise Brown |
-| 184 | 337 | Constance Risner |
+| 183 | 337 | Constance Risner |
+| 184 | 337 | Jamise Brown |
 | 185 | 336 | Dizzy Party |
 | 186 | 333 | Gracie |
 | 187 | 332 | Happy Basegrid |
@@ -234,8 +234,8 @@
 | 226 | 282 | Timothy Dew |
 | 227 | 281 | Clever Cascadepiece |
 | 228 | 280 | Billie Dawn Sparks |
-| 229 | 277 | Melissa Lemmon |
-| 230 | 277 | Nutty Spinblock |
+| 229 | 277 | Nutty Spinblock |
+| 230 | 277 | Melissa Lemmon |
 | 231 | 275 | Chris65 |
 | 232 | 275 | Cheeky Pop |
 | 233 | 274 | Lakeisha Chapman |
@@ -358,10 +358,10 @@
 | 350 | 197 | Larry Tilton |
 | 351 | 197 | Cool Towerzone |
 | 352 | 196 | Steph |
-| 353 | 195 | Herm Junior |
-| 354 | 195 | Blaire Bruckoff |
-| 355 | 195 | Renata Mabie |
-| 356 | 195 | Beazel75 |
+| 353 | 195 | Blaire Bruckoff |
+| 354 | 195 | Renata Mabie |
+| 355 | 195 | Beazel75 |
+| 356 | 195 | Herm Junior |
 | 357 | 194 | Susan Ward |
 | 358 | 193 | Lachelle Dillon |
 | 359 | 192 | Ramona Shaver |
@@ -455,8 +455,8 @@
 | 447 | 158 | Marc Abney |
 | 448 | 158 | Doris Hall |
 | 449 | 157 | Mel Fab |
-| 450 | 156 | Liliana Pena |
-| 451 | 156 | Rachel Rogers |
+| 450 | 156 | Rachel Rogers |
+| 451 | 156 | Liliana Pena |
 | 452 | 155 | Shiny Rotate |
 | 453 | 155 | Nate Price |
 | 454 | 155 | Rachel Nichole Henry |

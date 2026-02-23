@@ -69,8 +69,8 @@
 | 61 | 803 | Amelpss |
 | 62 | 788 | Julian Garcia |
 | 63 | 787 | Edward White |
-| 64 | 781 | Chilly Line |
-| 65 | 781 | Ashley Ingram |
+| 64 | 781 | Ashley Ingram |
+| 65 | 781 | Chilly Line |
 | 66 | 767 | Shannon Ferrari |
 | 67 | 766 | Robin Watters |
 | 68 | 765 | Robin Getchel |
@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Kimyatta Cavin |
-| 84 | 684 | Jonathan Kimbrough |
+| 83 | 684 | Jonathan Kimbrough |
+| 84 | 684 | Kimyatta Cavin |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | Shauna Havard |
-| 93 | 647 | KM8 |
+| 92 | 647 | KM8 |
+| 93 | 647 | Shauna Havard |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -138,8 +138,8 @@
 | 130 | 458 | Twisty Clicky |
 | 131 | 451 | Peachy Fall |
 | 132 | 448 | Kristin Manee |
-| 133 | 435 | Leslie Thomas |
-| 134 | 435 | Kristina Black |
+| 133 | 435 | Kristina Black |
+| 134 | 435 | Leslie Thomas |
 | 135 | 434 | Monica Daley |
 | 136 | 432 | Zippy Block |
 | 137 | 431 | Ericca Eldridge |
@@ -213,8 +213,8 @@
 | 205 | 305 | Melvin Baird |
 | 206 | 304 | Lindsay Ball |
 | 207 | 301 | Andria Lynn |
-| 208 | 300 | Dana Scott |
-| 209 | 300 | Zakia Monae |
+| 208 | 300 | Zakia Monae |
+| 209 | 300 | Dana Scott |
 | 210 | 295 | Keshia Lyons |
 | 211 | 294 | Calvin Cannon |
 | 212 | 294 | Porkobello |
@@ -287,8 +287,8 @@
 | 279 | 238 | 中山成巳 |
 | 280 | 237 | Christine Therrien |
 | 281 | 236 | Degenerate |
-| 282 | 235 | LaDonna LovinmesomeMe Lambert |
-| 283 | 235 | Chair |
+| 282 | 235 | Chair |
+| 283 | 235 | LaDonna LovinmesomeMe Lambert |
 | 284 | 235 | Shainne Brewer |
 | 285 | 234 | Richard-April Kice |
 | 286 | 233 | Ruben Wheeler |
@@ -316,8 +316,8 @@
 | 308 | 216 | mike |
 | 309 | 216 | Chantilly Laace |
 | 310 | 215 | Stephme310 |
-| 311 | 214 | Stacey Stano |
-| 312 | 214 | Patron Anderson |
+| 311 | 214 | Patron Anderson |
+| 312 | 214 | Stacey Stano |
 | 313 | 213 | Jackie Marie |
 | 314 | 212 | Brave Spinbuilder |
 | 315 | 212 | Zany Shatterer |
@@ -417,9 +417,9 @@
 | 409 | 169 | Jessica Atkinson |
 | 410 | 169 | Dante Korleon |
 | 411 | 168 | Ruby Khalisadar |
-| 412 | 167 | Tyler Bechtel |
+| 412 | 167 | Carla Harris |
 | 413 | 167 | Snippy Clearer |
-| 414 | 167 | Carla Harris |
+| 414 | 167 | Tyler Bechtel |
 | 415 | 166 | Gracie Ann Taylor |
 | 416 | 166 | Reds Bella |
 | 417 | 165 | Perky Piecegrid |

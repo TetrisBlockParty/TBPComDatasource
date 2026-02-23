@@ -255,8 +255,8 @@
 | 247 | 1126 | Dolores Russworn |
 | 248 | 1121 | Tommy Tha Boss Gunz |
 | 249 | 1121 | Sarah Freitas |
-| 250 | 1114 | Ginnell Browner |
-| 251 | 1114 | Kevin Walp |
+| 250 | 1114 | Kevin Walp |
+| 251 | 1114 | Ginnell Browner |
 | 252 | 1111 | Julay |
 | 253 | 1110 | Robin Kerby |
 | 254 | 1105 | Nerdy Clearfit |
@@ -445,8 +445,8 @@
 | 437 | 728 | Tom Riefer |
 | 438 | 728 | Dylan Thomason |
 | 439 | 726 | Crystal Greene |
-| 440 | 725 | Ashle Scranton |
-| 441 | 725 | Jennie Lee Huntley |
+| 440 | 725 | Jennie Lee Huntley |
+| 441 | 725 | Ashle Scranton |
 | 442 | 725 | Karen Snyder Schrage |
 | 443 | 725 | Vonceial Boone |
 | 444 | 724 | Melissa Holsinger |
@@ -478,8 +478,8 @@
 | 470 | 689 | Gauri Shrotriya |
 | 471 | 686 | Christine Coughlin |
 | 472 | 684 | Sarah DeHart |
-| 473 | 684 | Ann Knutson Anderson |
-| 474 | 684 | Ellie Jonas |
+| 473 | 684 | Ellie Jonas |
+| 474 | 684 | Ann Knutson Anderson |
 | 475 | 683 | Eric Castaneda |
 | 476 | 681 | AgileDragon |
 | 477 | 680 | blume |
@@ -487,8 +487,8 @@
 | 479 | 677 | Kayleigh Wisse |
 | 480 | 677 | Paul Combs |
 | 481 | 677 | Amanda Woodruff |
-| 482 | 676 | Nicky Jackson |
-| 483 | 676 | Roseanna Peloso |
+| 482 | 676 | Roseanna Peloso |
+| 483 | 676 | Nicky Jackson |
 | 484 | 675 | Lonne Emade |
 | 485 | 675 | Katelynn Hollen |
 | 486 | 674 | Ashley Munn |
@@ -541,8 +541,8 @@
 | 533 | 617 | Darcy Mae |
 | 534 | 617 | Kacee Conrad Bock |
 | 535 | 615 | Nerdy Pattern |
-| 536 | 615 | Julio A Laracuente |
-| 537 | 615 | Lyndi Robinson Wakefield |
+| 536 | 615 | Lyndi Robinson Wakefield |
+| 537 | 615 | Julio A Laracuente |
 | 538 | 614 | Emilee Burke |
 | 539 | 614 | Jessica S Flecha |
 | 540 | 613 | Biggest thing |
@@ -665,8 +665,8 @@
 | 657 | 516 | Diamond Scott |
 | 658 | 515 | Gina Bahn |
 | 659 | 515 | Klee |
-| 660 | 515 | Frisky Riserbuilder |
-| 661 | 515 | Adam Simmons |
+| 660 | 515 | Adam Simmons |
+| 661 | 515 | Frisky Riserbuilder |
 | 662 | 514 | DefaultUser |
 | 663 | 513 | MrsCandyfine As Wine Truss |
 | 664 | 512 | Leslie Jorgenson |
@@ -719,8 +719,8 @@
 | 711 | 485 | Regina Young |
 | 712 | 484 | Joice Hansen |
 | 713 | 484 | Street Sweeper |
-| 714 | 483 | Tabs Reichert |
-| 715 | 483 | Austin Wilson |
+| 714 | 483 | Austin Wilson |
+| 715 | 483 | Tabs Reichert |
 | 716 | 482 | Amélie Cadieux |
 | 717 | 482 | Drwatson187 |
 | 718 | 482 | Nate |
