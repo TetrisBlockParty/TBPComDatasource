@@ -218,14 +218,14 @@
 | 210 | 1286 | Altamirano Michael |
 | 211 | 1282 | Tanya Parsons |
 | 212 | 1259 | Foxxo |
-| 213 | 1258 | Snappy Matchbuilder |
-| 214 | 1258 | Joyce Johnson Vaughn |
+| 213 | 1258 | Joyce Johnson Vaughn |
+| 214 | 1258 | Snappy Matchbuilder |
 | 215 | 1252 | Angel |
 | 216 | 1245 | Cody Nishimura |
 | 217 | 1240 | Brandon Armstrong |
 | 218 | 1237 | Megan Ferguson Leone |
-| 219 | 1232 | Groovy Puzzle |
-| 220 | 1232 | Ambyre Patterson |
+| 219 | 1232 | Ambyre Patterson |
+| 220 | 1232 | Groovy Puzzle |
 | 221 | 1230 | Megan Garrick |
 | 222 | 1221 | Jane Fong |
 | 223 | 1217 | Lucky Ladybug |
@@ -311,15 +311,15 @@
 | 303 | 976 | Sam Joe |
 | 304 | 976 | Della Hole |
 | 305 | 975 | Hyper Cluster |
-| 306 | 972 | Binyah-Binyah |
-| 307 | 972 | Barbra Miller |
+| 306 | 972 | Barbra Miller |
+| 307 | 972 | Binyah-Binyah |
 | 308 | 971 | Jojo Momma |
-| 309 | 969 | Boldy Cascadepiece |
-| 310 | 969 | Em Chen |
+| 309 | 969 | Em Chen |
+| 310 | 969 | Boldy Cascadepiece |
 | 311 | 961 | Angela Lynn |
 | 312 | 959 | Phil J. Grombliniak |
-| 313 | 958 | Brenda Messer |
-| 314 | 958 | Doowop40 |
+| 313 | 958 | Doowop40 |
+| 314 | 958 | Brenda Messer |
 | 315 | 957 | Block Master |
 | 316 | 955 | Angela Bonquiqui Dinish |
 | 317 | 954 | Melissa McCall |
