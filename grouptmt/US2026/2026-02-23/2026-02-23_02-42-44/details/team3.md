@@ -205,8 +205,8 @@
 | 197 | 461 | Shunta Jacobs |
 | 198 | 458 | Danielle Rhoades |
 | 199 | 457 | Jim Mathews |
-| 200 | 452 | Jacqueline Rodriguez |
-| 201 | 452 | Tom Nault |
+| 200 | 452 | Tom Nault |
+| 201 | 452 | Jacqueline Rodriguez |
 | 202 | 451 | Sarah Cowan Burgos |
 | 203 | 436 | Danielle Weikel |
 | 204 | 434 | rnr junky |

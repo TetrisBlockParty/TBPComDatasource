@@ -98,8 +98,8 @@
 | 90 | 2237 | Jen Tramack |
 | 91 | 2216 | Alicia Parrish |
 | 92 | 2165 | Tj Ball |
-| 93 | 2148 | ShinyRose |
-| 94 | 2148 | Roger Grabbit |
+| 93 | 2148 | Roger Grabbit |
+| 94 | 2148 | ShinyRose |
 | 95 | 2146 | KellyDyan |
 | 96 | 2106 | Cool Rollpiece |
 | 97 | 2103 | Alisha Peoples |
@@ -134,8 +134,8 @@
 | 126 | 1681 | Shandrica Lowe |
 | 127 | 1681 | Nett |
 | 128 | 1658 | Liberty |
-| 129 | 1656 | Auntie B |
-| 130 | 1656 | Kristopher Miller |
+| 129 | 1656 | Kristopher Miller |
+| 130 | 1656 | Auntie B |
 | 131 | 1644 | Luna |
 | 132 | 1640 | Murrae Lynn Rebarchek |
 | 133 | 1639 | Jessie McDougald |
@@ -219,8 +219,8 @@
 | 211 | 1169 | Pacynthia Williams |
 | 212 | 1169 | Steven Marshaun |
 | 213 | 1159 | Carrie Trigg |
-| 214 | 1158 | Amy Sayers |
-| 215 | 1158 | Brittany Clark |
+| 214 | 1158 | Brittany Clark |
+| 215 | 1158 | Amy Sayers |
 | 216 | 1151 | Stacey Clement |
 | 217 | 1141 | Adam Erikson |
 | 218 | 1140 | Sarah Ridenour |

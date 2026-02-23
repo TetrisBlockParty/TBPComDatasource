@@ -230,8 +230,8 @@
 | 222 | 270 | Debbie Kane |
 | 223 | 268 | Reesey Enyart |
 | 224 | 265 | Kandae |
-| 225 | 264 | Standia Civil |
-| 226 | 264 | Jenny Gingrich Fuentes |
+| 225 | 264 | Jenny Gingrich Fuentes |
+| 226 | 264 | Standia Civil |
 | 227 | 263 | Jessie Lynn |
 | 228 | 262 | Melissa Lemmon |
 | 229 | 261 | John J. Cronin |
@@ -252,8 +252,8 @@
 | 244 | 244 | Sarah Somers Gray |
 | 245 | 242 | ParisandCory Champagne |
 | 246 | 241 | Tyler Hertzog |
-| 247 | 240 | Daring Fitclear |
-| 248 | 240 | DaRascal |
+| 247 | 240 | DaRascal |
+| 248 | 240 | Daring Fitclear |
 | 249 | 238 | Tiffany Smith |
 | 250 | 234 | Paula Martin |
 | 251 | 233 | Shiny Gridmatch |
