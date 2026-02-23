@@ -407,8 +407,8 @@
 | 399 | 313 | Hoppy Buildout |
 | 400 | 312 | Eric Caccavale |
 | 401 | 311 | Troy |
-| 402 | 309 | Cheeky Snapper |
-| 403 | 309 | Block Baddie |
+| 402 | 309 | Block Baddie |
+| 403 | 309 | Cheeky Snapper |
 | 404 | 308 | Katrina Turner |
 | 405 | 308 | Tia |
 | 406 | 308 | Beejangles |
@@ -431,8 +431,8 @@
 | 423 | 298 | Tay |
 | 424 | 297 | Quirky Snapfit |
 | 425 | 296 | Amy Montz |
-| 426 | 296 | Tracy Martin |
-| 427 | 296 | Cheryl Hinch Tenbrook |
+| 426 | 296 | Cheryl Hinch Tenbrook |
+| 427 | 296 | Tracy Martin |
 | 428 | 295 | Dakota Graham |
 | 429 | 294 | toony |
 | 430 | 293 | Loopy Fallzone |

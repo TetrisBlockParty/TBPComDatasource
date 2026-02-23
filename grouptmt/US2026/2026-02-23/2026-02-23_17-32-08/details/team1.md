@@ -87,11 +87,11 @@
 | 79 | 742 | Susanna Guerry |
 | 80 | 741 | Nancy Green |
 | 81 | 740 | Lori Sanders- Davis |
-| 82 | 713 | Robert Benito |
-| 83 | 713 | Snappy Swiper |
+| 82 | 713 | Snappy Swiper |
+| 83 | 713 | Robert Benito |
 | 84 | 710 | Jennifer ManWarren |
-| 85 | 706 | Denice Dee |
-| 86 | 706 | Plucky Fallzone |
+| 85 | 706 | Plucky Fallzone |
+| 86 | 706 | Denice Dee |
 | 87 | 704 | Karin Gillen |
 | 88 | 703 | Kellie |
 | 89 | 703 | Angel Fowler |
@@ -207,8 +207,8 @@
 | 199 | 379 | Snappy Matcher |
 | 200 | 379 | Austin James |
 | 201 | 378 | Sleepysloath5745 |
-| 202 | 376 | Sassy Builderline |
-| 203 | 376 | Brian Richardsson |
+| 202 | 376 | Brian Richardsson |
+| 203 | 376 | Sassy Builderline |
 | 204 | 375 | Connie |
 | 205 | 374 | Howdi Duty |
 | 206 | 372 | Dizzy Party |
@@ -255,8 +255,8 @@
 | 247 | 332 | Happy Basegrid |
 | 248 | 332 | Eddie Dillon |
 | 249 | 332 | Plucky Stacky |
-| 250 | 329 | Larissa Marie Nelson |
-| 251 | 329 | Frothy Pattern |
+| 250 | 329 | Frothy Pattern |
+| 251 | 329 | Larissa Marie Nelson |
 | 252 | 328 | Daring Fitclear |
 | 253 | 325 | Chantelle Ceno |
 | 254 | 325 | GringaLinga |

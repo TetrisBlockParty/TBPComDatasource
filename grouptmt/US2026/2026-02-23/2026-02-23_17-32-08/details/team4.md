@@ -56,8 +56,8 @@
 | 48 | 1147 | Jae Job |
 | 49 | 1093 | Ashley Ingram |
 | 50 | 1085 | Kimyatta Cavin |
-| 51 | 1082 | Dion Crommarty |
-| 52 | 1082 | Dawn Alexander |
+| 51 | 1082 | Dawn Alexander |
+| 52 | 1082 | Dion Crommarty |
 | 53 | 1049 | Heather Tushner |
 | 54 | 1046 | Johnathan Martinez |
 | 55 | 1042 | Avy Absol |
@@ -318,8 +318,8 @@
 | 310 | 272 | Tony Pavelka |
 | 311 | 271 | Holly |
 | 312 | 270 | 23 |
-| 313 | 269 | Amy Sanford |
-| 314 | 269 | Bradley Reeves |
+| 313 | 269 | Bradley Reeves |
+| 314 | 269 | Amy Sanford |
 | 315 | 268 | Shukee Lo |
 | 316 | 268 | Chance Strickland |
 | 317 | 267 | Metsfan |
@@ -331,9 +331,9 @@
 | 323 | 265 | Degenerate |
 | 324 | 264 | rebel4lyfe |
 | 325 | 264 | ZeeZee |
-| 326 | 262 | Ruben Wheeler |
+| 326 | 262 | Selena Shaw |
 | 327 | 262 | BigSammy420 |
-| 328 | 262 | Selena Shaw |
+| 328 | 262 | Ruben Wheeler |
 | 329 | 261 | Zethra Prenisha Rahming |
 | 330 | 260 | Angelito |
 | 331 | 260 | Carter Jones |
