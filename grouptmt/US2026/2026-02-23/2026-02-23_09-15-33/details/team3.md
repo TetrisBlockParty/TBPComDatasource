@@ -177,8 +177,8 @@
 | 169 | 591 | Michael Nowogorski |
 | 170 | 588 | Justin Ritter |
 | 171 | 587 | Louise Stacy Sisson |
-| 172 | 585 | Happy Tetriblast |
-| 173 | 585 | Annie Marie |
+| 172 | 585 | Annie Marie |
+| 173 | 585 | Happy Tetriblast |
 | 174 | 583 | Tasha Gillespie |
 | 175 | 582 | Natasha Jones |
 | 176 | 577 | Domo Washington |
@@ -492,8 +492,8 @@
 | 484 | 221 | Vaners |
 | 485 | 221 | Glitzy Rotate |
 | 486 | 220 | Bhreagh Gentile |
-| 487 | 219 | TLM |
-| 488 | 219 | Trice Thomas |
+| 487 | 219 | Trice Thomas |
+| 488 | 219 | TLM |
 | 489 | 218 | Sabrina Mansfield |
 | 490 | 218 | Tina Smith Roy |
 | 491 | 218 | Dapper Chiseler |
@@ -566,8 +566,8 @@
 | 558 | 195 | Nicha Hooker |
 | 559 | 195 | toony |
 | 560 | 194 | Shicken Nuggit |
-| 561 | 193 | Clever Shiftsnap |
-| 562 | 193 | Bryan Byrd |
+| 561 | 193 | Bryan Byrd |
+| 562 | 193 | Clever Shiftsnap |
 | 563 | 192 | Jennifer Neiman Gaal |
 | 564 | 192 | Kelly Ann Child |
 | 565 | 192 | Laura Booth Wosko |
@@ -617,8 +617,8 @@
 | 609 | 180 | Stella |
 | 610 | 179 | Boldy Corner |
 | 611 | 179 | Alexi Pryor |
-| 612 | 179 | Num1hater |
-| 613 | 179 | Ruchi Smit |
+| 612 | 179 | Ruchi Smit |
+| 613 | 179 | Num1hater |
 | 614 | 178 | Jillian Ann |
 | 615 | 178 | Melissa Snyder |
 | 616 | 178 | Kathleen Taylor |
@@ -632,8 +632,8 @@
 | 624 | 176 | Bekah Dietrich |
 | 625 | 175 | Muk |
 | 626 | 175 | Giggy Balanceblock |
-| 627 | 175 | Muk |
-| 628 | 175 | Cranky Slam |
+| 627 | 175 | Spunky Racker |
+| 628 | 175 | JustGiGi |
 | 629 | 175 | Speedy Crusher |
 | 630 | 175 | Hanul |
 | 631 | 175 | Cranky Slam |

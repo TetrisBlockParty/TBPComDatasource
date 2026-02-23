@@ -120,8 +120,8 @@
 | 112 | 528 | Rodney McMath Jr. |
 | 113 | 527 | Dizzy Tiley |
 | 114 | 519 | Nugget |
-| 115 | 517 | shar |
-| 116 | 517 | Christina LR |
+| 115 | 517 | Christina LR |
+| 116 | 517 | shar |
 | 117 | 514 | Serena Goodridge |
 | 118 | 514 | Scott Jameson |
 | 119 | 513 | Erin Thomas |
@@ -166,8 +166,8 @@
 | 158 | 403 | Keith Kelley |
 | 159 | 402 | Lucas J Sutton |
 | 160 | 398 | Tyler Terrific |
-| 161 | 393 | Carlton Unfiltered |
-| 162 | 393 | Girl |
+| 161 | 393 | Girl |
+| 162 | 393 | Carlton Unfiltered |
 | 163 | 392 | Nick Gray |
 | 164 | 391 | Ramel Rhodes |
 | 165 | 389 | Joseph Guthrie |
@@ -271,9 +271,9 @@
 | 263 | 261 | Zethra Prenisha Rahming |
 | 264 | 260 | Carter Jones |
 | 265 | 260 | Lori |
-| 266 | 259 | Allen Lloyd |
-| 267 | 259 | Montiette Mcglown |
-| 268 | 259 | John Brunetti |
+| 266 | 259 | John Brunetti |
+| 267 | 259 | Allen Lloyd |
+| 268 | 259 | Montiette Mcglown |
 | 269 | 257 | PeaceOs |
 | 270 | 256 | Jade Rian |
 | 271 | 256 | Paige Kittles |
@@ -282,8 +282,8 @@
 | 274 | 253 | Autum Leigh |
 | 275 | 251 | Carol Ricks Raymond |
 | 276 | 249 | Ak Jones |
-| 277 | 248 | Angelito |
-| 278 | 248 | Chirpy Basepiece |
+| 277 | 248 | Chirpy Basepiece |
+| 278 | 248 | Angelito |
 | 279 | 248 | Jose Dejesus |
 | 280 | 245 | 23 |
 | 281 | 244 | Elizabeth Tinoco |
@@ -432,17 +432,17 @@
 | 424 | 169 | Dante Korleon |
 | 425 | 169 | Duck |
 | 426 | 169 | Jessica Atkinson |
-| 427 | 167 | Carla Harris |
-| 428 | 167 | Snippy Clearer |
-| 429 | 167 | Tipsy Cascader |
-| 430 | 167 | Tyler Bechtel |
+| 427 | 167 | Tipsy Cascader |
+| 428 | 167 | Tyler Bechtel |
+| 429 | 167 | Snippy Clearer |
+| 430 | 167 | Carla Harris |
 | 431 | 166 | Gracie Ann Taylor |
 | 432 | 166 | Reds Bella |
 | 433 | 165 | Zappy Buildgrid |
 | 434 | 165 | Vic |
 | 435 | 165 | Stephanie Mico |
 | 436 | 165 | Joshua Cuellar |
-| 437 | 164 | Stacy Jones |
+| 437 | 164 | Marvetta Williams |
 | 438 | 164 | DonMega |
 | 439 | 164 | Stacy Jones |
 | 440 | 163 | Jarred Falls |
@@ -460,8 +460,8 @@
 | 452 | 160 | Heather Layne Smith |
 | 453 | 160 | Sam Middleton |
 | 454 | 159 | Groovy Brickmatch |
-| 455 | 158 | Jasmine S Caldwell |
-| 456 | 158 | Dapper Frame |
+| 455 | 158 | Dapper Frame |
+| 456 | 158 | Jasmine S Caldwell |
 | 457 | 157 | Ryry |
 | 458 | 157 | LunaMoon |
 | 459 | 157 | David Boggs |
@@ -792,8 +792,8 @@
 | 784 | 87 | b |
 | 785 | 87 | Jason Punch |
 | 786 | 87 | Derek Pendarvis |
-| 787 | 87 | GTxIrishman |
-| 788 | 87 | Kat |
+| 787 | 87 | Kat |
+| 788 | 87 | GTxIrishman |
 | 789 | 86 | Bigg Guy |
 | 790 | 85 | Cheery Shatterclear |
 | 791 | 85 | Tiffany Tran |

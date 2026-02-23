@@ -305,8 +305,8 @@
 | 297 | 996 | Ashie Ann |
 | 298 | 987 | Osun Anuket Esu |
 | 299 | 984 | Crystal Hoffman |
-| 300 | 979 | Hillary Crawford |
-| 301 | 979 | Melissa Penelope Ann Dodge |
+| 300 | 979 | Melissa Penelope Ann Dodge |
+| 301 | 979 | Hillary Crawford |
 | 302 | 978 | April Dawn Gussler |
 | 303 | 976 | Sam Joe |
 | 304 | 976 | Della Hole |
@@ -427,16 +427,16 @@
 | 419 | 763 | Heather Causey |
 | 420 | 761 | Jerilyn Andrina |
 | 421 | 760 | Ashley Guernsey-Martin |
-| 422 | 760 | Cheech Dta |
-| 423 | 760 | Allan Wayne Lamia |
-| 424 | 760 | Andrew Willis |
-| 425 | 758 | Stephanie Neuburger |
-| 426 | 758 | Quirky Twistline |
+| 422 | 760 | Andrew Willis |
+| 423 | 760 | Cheech Dta |
+| 424 | 760 | Allan Wayne Lamia |
+| 425 | 758 | Quirky Twistline |
+| 426 | 758 | Stephanie Neuburger |
 | 427 | 755 | Taryece Gause |
 | 428 | 752 | Christina Wsn |
 | 429 | 751 | Loony Snapper |
-| 430 | 751 | Breezy Filler |
-| 431 | 751 | Caitlyn Blackwell |
+| 430 | 751 | Caitlyn Blackwell |
+| 431 | 751 | Breezy Filler |
 | 432 | 750 | Draizen Montrell Thomas |
 | 433 | 748 | Spunkysmom |
 | 434 | 748 | Ann Matzkanin |
@@ -558,8 +558,8 @@
 | 550 | 617 | Kacee Conrad Bock |
 | 551 | 617 | Biggest thing |
 | 552 | 615 | Nerdy Pattern |
-| 553 | 615 | Lyndi Robinson Wakefield |
-| 554 | 615 | Julio A Laracuente |
+| 553 | 615 | Julio A Laracuente |
+| 554 | 615 | Lyndi Robinson Wakefield |
 | 555 | 614 | Jessica S Flecha |
 | 556 | 614 | Emilee Burke |
 | 557 | 613 | Audrey Jones |
@@ -702,8 +702,8 @@
 | 694 | 509 | Perky Rollfit |
 | 695 | 509 | Toni Whipple |
 | 696 | 508 | Daphne Jordan |
-| 697 | 507 | Crystal Heller Gonzalez |
-| 698 | 507 | Funky Caster |
+| 697 | 507 | Funky Caster |
+| 698 | 507 | Crystal Heller Gonzalez |
 | 699 | 506 | Cblock |
 | 700 | 505 | Casey Schumacher |
 | 701 | 503 | Darla Silva |
@@ -711,8 +711,8 @@
 | 703 | 502 | Jasmine Kenney |
 | 704 | 500 | Amy Reynolds |
 | 705 | 500 | Ryan Meilleur |
-| 706 | 499 | Besma Ao |
-| 707 | 499 | Martina Gabrielle LaPolla |
+| 706 | 499 | Martina Gabrielle LaPolla |
+| 707 | 499 | Besma Ao |
 | 708 | 498 | Abimbola Bimbo |
 | 709 | 498 | Chummy Blockbuilder |
 | 710 | 497 | June E Hanson |
@@ -783,8 +783,8 @@
 | 775 | 464 | Natasha Edmonds |
 | 776 | 463 | Jaye EL Hunter |
 | 777 | 463 | Murray Marie |
-| 778 | 462 | Kia Humphery |
-| 779 | 462 | Samantha Scibelli |
+| 778 | 462 | Samantha Scibelli |
+| 779 | 462 | Kia Humphery |
 | 780 | 461 | Julie Hamilton |
 | 781 | 461 | Amanda Segura |
 | 782 | 461 | Kristen O'Neal |
@@ -906,8 +906,8 @@
 | 898 | 405 | Marget Kay |
 | 899 | 405 | Swanky Columnbuilder |
 | 900 | 404 | Jannan Haimour |
-| 901 | 404 | Christy Green |
-| 902 | 404 | Jes Norris |
+| 901 | 404 | Jes Norris |
+| 902 | 404 | Christy Green |
 | 903 | 404 | Shylee Tilman |
 | 904 | 404 | Denisse Avilez |
 | 905 | 403 | Goofy Dasher |
@@ -941,8 +941,8 @@
 | 933 | 394 | Nerdy Blockpiece |
 | 934 | 394 | Snappy Shatterfit |
 | 935 | 393 | Jamie West |
-| 936 | 393 | CC |
-| 937 | 393 | Bing |
+| 936 | 393 | Bing |
+| 937 | 393 | CC |
 | 938 | 392 | Jroc |
 | 939 | 391 | Poppy Gridder |
 | 940 | 391 | Chilly Bridgepiece |
