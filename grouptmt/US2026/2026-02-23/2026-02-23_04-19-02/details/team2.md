@@ -104,8 +104,8 @@
 | 96 | 2170 | Steve Grotto |
 | 97 | 2165 | Tj Ball |
 | 98 | 2155 | Qiana Sanders |
-| 99 | 2148 | Roger Grabbit |
-| 100 | 2148 | ShinyRose |
+| 99 | 2148 | ShinyRose |
+| 100 | 2148 | Roger Grabbit |
 | 101 | 2146 | KellyDyan |
 | 102 | 2106 | Cool Rollpiece |
 | 103 | 2103 | Alisha Peoples |
@@ -136,16 +136,16 @@
 | 128 | 1769 | Katrina Williams Balmir |
 | 129 | 1749 | Auntie B |
 | 130 | 1728 | Mr. Street Stack |
-| 131 | 1681 | Shandrica Lowe |
-| 132 | 1681 | Nett |
+| 131 | 1681 | Nett |
+| 132 | 1681 | Shandrica Lowe |
 | 133 | 1658 | Liberty |
 | 134 | 1656 | Kristopher Miller |
 | 135 | 1644 | Luna |
 | 136 | 1639 | Jessie McDougald |
 | 137 | 1631 | Speedy Spinblock |
 | 138 | 1629 | Mari Ac |
-| 139 | 1623 | Janel Turley-Garner |
-| 140 | 1623 | Rebecca Doughman |
+| 139 | 1623 | Rebecca Doughman |
+| 140 | 1623 | Janel Turley-Garner |
 | 141 | 1605 | Christi Hulet |
 | 142 | 1602 | blackq |
 | 143 | 1601 | Ray Ray Prado |
@@ -153,8 +153,8 @@
 | 145 | 1588 | Mema |
 | 146 | 1581 | Brandy Andre |
 | 147 | 1580 | Heather Westrum |
-| 148 | 1578 | Sally Dennis |
-| 149 | 1578 | Loopy Clusterbuilder |
+| 148 | 1578 | Loopy Clusterbuilder |
+| 149 | 1578 | Sally Dennis |
 | 150 | 1571 | Alisa Lamb |
 | 151 | 1560 | Donnie Hunt |
 | 152 | 1558 | Stephen Stephen |
@@ -204,24 +204,24 @@
 | 196 | 1300 | Tacara Cummings |
 | 197 | 1294 | Ashley House |
 | 198 | 1286 | Altamirano Michael |
-| 199 | 1282 | Ashley Rose Frederick |
-| 200 | 1282 | Tanya Parsons |
+| 199 | 1282 | Tanya Parsons |
+| 200 | 1282 | Ashley Rose Frederick |
 | 201 | 1277 | Michele Gabriel |
 | 202 | 1258 | Joyce Johnson Vaughn |
 | 203 | 1252 | Angel |
 | 204 | 1245 | Cody Nishimura |
 | 205 | 1243 | Anna Edwards |
 | 206 | 1237 | Megan Ferguson Leone |
-| 207 | 1232 | Ambyre Patterson |
-| 208 | 1232 | Groovy Puzzle |
+| 207 | 1232 | Groovy Puzzle |
+| 208 | 1232 | Ambyre Patterson |
 | 209 | 1230 | Megan Garrick |
 | 210 | 1217 | Brooks Brooks |
 | 211 | 1217 | Lucky Ladybug |
 | 212 | 1214 | David Cudicio-Hayden |
 | 213 | 1213 | Foxxo |
 | 214 | 1210 | Jane Fong |
-| 215 | 1205 | Tony Lea |
-| 216 | 1205 | Tralonda Weeks |
+| 215 | 1205 | Tralonda Weeks |
+| 216 | 1205 | Tony Lea |
 | 217 | 1198 | Carrie Trigg |
 | 218 | 1197 | Ricardo Burton |
 | 219 | 1192 | Denisha Dawkins |
@@ -270,8 +270,8 @@
 | 262 | 1048 | Desiree Anderson |
 | 263 | 1047 | Dany Murillo |
 | 264 | 1045 | Lourisha |
-| 265 | 1043 | nikki |
-| 266 | 1043 | Brave Dropmatch |
+| 265 | 1043 | Brave Dropmatch |
+| 266 | 1043 | nikki |
 | 267 | 1041 | Bri Lynn |
 | 268 | 1040 | Tyler C. Jung |
 | 269 | 1036 | Amber Shoemaker |
@@ -563,8 +563,8 @@
 | 555 | 575 | Rae Rae |
 | 556 | 575 | Michael Artis |
 | 557 | 573 | Vaniel Glover |
-| 558 | 572 | Rachael Senard |
-| 559 | 572 | Joseph Musick |
+| 558 | 572 | Joseph Musick |
+| 559 | 572 | Rachael Senard |
 | 560 | 572 | Alexandra Lynn |
 | 561 | 571 | Wendy Unsain |
 | 562 | 571 | Emily Lyric Converse |
@@ -814,8 +814,8 @@
 | 806 | 416 | Gina Caulder |
 | 807 | 415 | Noel Tarmy |
 | 808 | 414 | Cini |
-| 809 | 414 | Court |
-| 810 | 414 | Rose Fx |
+| 809 | 414 | Rose Fx |
+| 810 | 414 | Court |
 | 811 | 413 | Ashley Robbins |
 | 812 | 413 | Moist_B-hole |
 | 813 | 413 | Abby Klaski |
@@ -1009,8 +1009,8 @@
 | 1001 | 344 | Glenn Cobbins |
 | 1002 | 344 | Gina Gina |
 | 1003 | 343 | Alexandrea |
-| 1004 | 342 | SwifftFox |
-| 1005 | 342 | Theresa Sterrett |
+| 1004 | 342 | Theresa Sterrett |
+| 1005 | 342 | SwifftFox |
 | 1006 | 342 | Danielle DeLozier Plesec |
 | 1007 | 342 | Patrick Fleming |
 | 1008 | 342 | Emoniee Sa'niaya |

@@ -71,8 +71,8 @@
 | 63 | 776 | Rachel Anne |
 | 64 | 772 | Ashley Ingram |
 | 65 | 767 | Shannon Ferrari |
-| 66 | 766 | Robin Watters |
-| 67 | 766 | Edward White |
+| 66 | 766 | Edward White |
+| 67 | 766 | Robin Watters |
 | 68 | 765 | Robin Getchel |
 | 69 | 765 | Denise Carlson |
 | 70 | 752 | loulou |
@@ -135,8 +135,8 @@
 | 127 | 458 | Twisty Clicky |
 | 128 | 451 | Peachy Fall |
 | 129 | 448 | Kristin Manee |
-| 130 | 435 | Leslie Thomas |
-| 131 | 435 | Kristina Black |
+| 130 | 435 | Kristina Black |
+| 131 | 435 | Leslie Thomas |
 | 132 | 431 | Courtney Cicoria |
 | 133 | 425 | Monica Daley |
 | 134 | 421 | JIGsaw ~(•¿°)~ |
@@ -157,13 +157,13 @@
 | 149 | 393 | Carlton Unfiltered |
 | 150 | 391 | Ramel Rhodes |
 | 151 | 389 | Joseph Guthrie |
-| 152 | 387 | 🥔🥔 Spudz |
-| 153 | 387 | Lucas J Sutton |
+| 152 | 387 | Lucas J Sutton |
+| 153 | 387 | 🥔🥔 Spudz |
 | 154 | 377 | Carrie Brian |
-| 155 | 375 | Desi Desporte |
-| 156 | 375 | ThaEviLJeNiuZ |
-| 157 | 374 | Guy Incognito |
-| 158 | 374 | Leslie Nicole |
+| 155 | 375 | ThaEviLJeNiuZ |
+| 156 | 375 | Desi Desporte |
+| 157 | 374 | Leslie Nicole |
+| 158 | 374 | Guy Incognito |
 | 159 | 373 | Tyler Terrific |
 | 160 | 370 | Oscar Alberto Perez |
 | 161 | 368 | Raegan Lane-Ross |
@@ -239,8 +239,8 @@
 | 231 | 270 | Juls |
 | 232 | 270 | Jen Caldwell |
 | 233 | 266 | Mr. Party |
-| 234 | 265 | Silly SeaWeed |
-| 235 | 265 | Sarah Neathery |
+| 234 | 265 | Sarah Neathery |
+| 235 | 265 | Silly SeaWeed |
 | 236 | 264 | Stella |
 | 237 | 263 | JPW |
 | 238 | 262 | BigSammy420 |
@@ -264,9 +264,9 @@
 | 256 | 244 | Christina Black |
 | 257 | 244 | Elizabeth Tinoco |
 | 258 | 242 | Chaz |
-| 259 | 240 | Lori |
+| 259 | 240 | Perky Patternblock |
 | 260 | 240 | Kim Hunt |
-| 261 | 240 | Perky Patternblock |
+| 261 | 240 | Lori |
 | 262 | 239 | Joanna |
 | 263 | 238 | 中山成巳 |
 | 264 | 237 | 030Synner |
@@ -642,7 +642,7 @@
 | 634 | 103 | Jake Roberts |
 | 635 | 103 | Courtney Angel |
 | 636 | 102 | Bryan Johnson |
-| 637 | 102 | Jennifer Brown |
+| 637 | 102 | Candice Carasiti |
 | 638 | 102 | Dapper Caster |
 | 639 | 102 | Jennifer Brown |
 | 640 | 101 | Jacob Campbell |

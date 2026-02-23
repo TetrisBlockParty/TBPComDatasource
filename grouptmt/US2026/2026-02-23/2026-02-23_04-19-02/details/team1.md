@@ -133,8 +133,8 @@
 | 125 | 425 | Dandy Basegrid |
 | 126 | 417 | Lori Sanders- Davis |
 | 127 | 411 | BadG52 |
-| 128 | 409 | Goose egg |
-| 129 | 409 | Sweet Baker |
+| 128 | 409 | Sweet Baker |
+| 129 | 409 | Goose egg |
 | 130 | 406 | Candy Jones |
 | 131 | 406 | Desiree Deschaine Havee |
 | 132 | 402 | Chris K |
@@ -158,8 +158,8 @@
 | 150 | 368 | Amanda Johnson Huffman |
 | 151 | 367 | Sharon Reynolds |
 | 152 | 365 | Carrie Smith |
-| 153 | 364 | Serina Marie |
-| 154 | 364 | Shauna Loe |
+| 153 | 364 | Shauna Loe |
+| 154 | 364 | Serina Marie |
 | 155 | 360 | Wisa |
 | 156 | 357 | David Lutcher |
 | 157 | 355 | Amanda Jarnagin |
@@ -193,9 +193,9 @@
 | 185 | 316 | Reesey Enyart |
 | 186 | 315 | Danielle Little-Daugherty |
 | 187 | 314 | Tana |
-| 188 | 312 | Kimberly Garcia |
-| 189 | 312 | Mike Ames |
-| 190 | 312 | Jessi Sauer |
+| 188 | 312 | Mike Ames |
+| 189 | 312 | Jessi Sauer |
+| 190 | 312 | Kimberly Garcia |
 | 191 | 310 | Bloknboy |
 | 192 | 307 | Witty Builderfit |
 | 193 | 307 | femmefatale |
@@ -348,10 +348,10 @@
 | 340 | 195 | Gary Gobin |
 | 341 | 195 | Renata Mabie |
 | 342 | 193 | Lachelle Dillon |
-| 343 | 192 | Νεφ Όνυξ |
-| 344 | 192 | Tipsy Tiltpiece |
-| 345 | 191 | John Garza |
-| 346 | 191 | Slinky Rotater |
+| 343 | 192 | Tipsy Tiltpiece |
+| 344 | 192 | Νεφ Όνυξ |
+| 345 | 191 | Slinky Rotater |
+| 346 | 191 | John Garza |
 | 347 | 191 | Garcia Bailey |
 | 348 | 190 | Pauline Cortez |
 | 349 | 190 | Sweetts |
