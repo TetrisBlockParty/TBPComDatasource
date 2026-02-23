@@ -128,8 +128,8 @@
 | 120 | 1937 | Adam Erikson |
 | 121 | 1932 | Gary Schaffner Jr. |
 | 122 | 1931 | Angi Harrison |
-| 123 | 1899 | Jumpy Gridpiece |
-| 124 | 1899 | Jamie Main |
+| 123 | 1899 | Jamie Main |
+| 124 | 1899 | Jumpy Gridpiece |
 | 125 | 1890 | Aimee Byrom |
 | 126 | 1887 | Tonya Brooks-Johnson |
 | 127 | 1872 | Karen Martini-Stapleton |
@@ -224,8 +224,8 @@
 | 216 | 1245 | Cody Nishimura |
 | 217 | 1240 | Brandon Armstrong |
 | 218 | 1237 | Megan Ferguson Leone |
-| 219 | 1232 | Groovy Puzzle |
-| 220 | 1232 | Ambyre Patterson |
+| 219 | 1232 | Ambyre Patterson |
+| 220 | 1232 | Groovy Puzzle |
 | 221 | 1230 | Megan Garrick |
 | 222 | 1221 | Jane Fong |
 | 223 | 1217 | Brooks Brooks |
@@ -404,8 +404,8 @@
 | 396 | 801 | Gold Rose |
 | 397 | 800 | Arlene Joy Belicina |
 | 398 | 799 | Ronnie Nelson |
-| 399 | 799 | Kenny Alvarado |
-| 400 | 799 | Joy LaJeunesse |
+| 399 | 799 | Joy LaJeunesse |
+| 400 | 799 | Kenny Alvarado |
 | 401 | 796 | AndrewandShela Gornik |
 | 402 | 796 | Amber Gray |
 | 403 | 793 | Jaycee |
@@ -1507,8 +1507,8 @@
 | 1499 | 266 | BbqGuru |
 | 1500 | 266 | Fancy Setter |
 | 1501 | 265 | Katlyn Joyce Bateman |
-| 1502 | 265 | Paul Antic |
-| 1503 | 265 | Alphia Price |
+| 1502 | 265 | Alphia Price |
+| 1503 | 265 | Paul Antic |
 | 1504 | 264 | Michelle Lee Tackett |
 | 1505 | 264 | Sonya Munoz |
 | 1506 | 264 | Edna Combs |

@@ -146,8 +146,8 @@
 | 138 | 423 | ALFD |
 | 139 | 417 | Phu ckalldems |
 | 140 | 411 | BadG52 |
-| 141 | 406 | Candy Jones |
-| 142 | 406 | Desiree Deschaine Havee |
+| 141 | 406 | Desiree Deschaine Havee |
+| 142 | 406 | Candy Jones |
 | 143 | 404 | Jessie Lynn |
 | 144 | 403 | Mike Ames |
 | 145 | 402 | Chris K |
@@ -458,8 +458,8 @@
 | 450 | 169 | Josh Smith |
 | 451 | 169 | Abbey Crespo |
 | 452 | 168 | Mrs.Patrica |
-| 453 | 166 | Ashley Adams |
-| 454 | 166 | Gilbert Ortiz Jr. |
+| 453 | 166 | Gilbert Ortiz Jr. |
+| 454 | 166 | Ashley Adams |
 | 455 | 165 | Stephanie Leday |
 | 456 | 165 | Rodney Schmerfeld |
 | 457 | 164 | Liliana Pena |
