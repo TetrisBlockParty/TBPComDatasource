@@ -251,8 +251,8 @@
 | 243 | 348 | John Kim |
 | 244 | 346 | GATOR |
 | 245 | 344 | dhardy |
-| 246 | 341 | Nick R Montague |
-| 247 | 341 | DoodleBug |
+| 246 | 341 | DoodleBug |
+| 247 | 341 | Nick R Montague |
 | 248 | 340 | Danielle Little-Daugherty |
 | 249 | 339 | Keith Mathis |
 | 250 | 338 | Layzietyme |
@@ -369,7 +369,7 @@
 | 361 | 255 | Speedy Snapfall |
 | 362 | 254 | Al Smith Jr |
 | 363 | 253 | Carlos Floyd |
-| 364 | 252 | SavageBooty98 |
+| 364 | 252 | Frisky Base |
 | 365 | 252 | Dena Kayy |
 | 366 | 252 | Katie Martin |
 | 367 | 252 | SavageBooty98 |
@@ -1000,7 +1000,7 @@
 | 992 | 81 | Linda Williams |
 | 993 | 81 | Lark |
 | 994 | 81 | Ajayy Carlson |
-| 995 | 81 | Linda Williams |
+| 995 | 81 | Olivia Ornella Rubinski |
 | 996 | 81 | Zippy Buildsnap |
 | 997 | 80 | Kelly Marie Hennig |
 | 998 | 80 | Geralene Murphree |

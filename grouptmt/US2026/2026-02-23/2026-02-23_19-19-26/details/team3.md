@@ -154,8 +154,8 @@
 | 146 | 777 | Tasha Schriewer |
 | 147 | 773 | Daryn Elliott |
 | 148 | 773 | Daira Largen |
-| 149 | 764 | Hasty Cascadefit |
-| 150 | 764 | Groovy Catcher |
+| 149 | 764 | Groovy Catcher |
+| 150 | 764 | Hasty Cascadefit |
 | 151 | 762 | Santeria Trece Candles |
 | 152 | 761 | Peppy Shifter |
 | 153 | 759 | yoyo |
@@ -219,8 +219,8 @@
 | 211 | 568 | Rachael McClain Owens |
 | 212 | 566 | Connie Mohler-Fair |
 | 213 | 566 | LaTanya GeminiondaRise Johnson |
-| 214 | 564 | Poppy Splitter |
-| 215 | 564 | Christine Trester |
+| 214 | 564 | Christine Trester |
+| 215 | 564 | Poppy Splitter |
 | 216 | 564 | Juliana Dottore |
 | 217 | 563 | FuzzyNavel |
 | 218 | 562 | Dave Herzog |
@@ -295,8 +295,8 @@
 | 287 | 434 | Sleepy |
 | 288 | 432 | Luciana Braganca Vieira |
 | 289 | 431 | Wendy Dearden |
-| 290 | 430 | Jeni Dow |
-| 291 | 430 | Quackers |
+| 290 | 430 | Quackers |
+| 291 | 430 | Jeni Dow |
 | 292 | 429 | Carrie Huskey |
 | 293 | 426 | Gumbo |
 | 294 | 425 | Jennifer Alvey |
@@ -315,8 +315,8 @@
 | 307 | 406 | Desiree Gold |
 | 308 | 405 | Steffi Chris Dacones |
 | 309 | 403 | lashanda |
-| 310 | 403 | Scott Lindsay |
-| 311 | 403 | Stephanie Burtin |
+| 310 | 403 | Stephanie Burtin |
+| 311 | 403 | Scott Lindsay |
 | 312 | 401 | Hyper Matchzone |
 | 313 | 400 | Dana Winters |
 | 314 | 398 | fraulila |
@@ -343,8 +343,8 @@
 | 335 | 375 | Joy Petroski |
 | 336 | 372 | Rich LeBlanc |
 | 337 | 371 | block chick |
-| 338 | 370 | Roary Danner |
-| 339 | 370 | Tasha Wesson-Torrence |
+| 338 | 370 | Tasha Wesson-Torrence |
+| 339 | 370 | Roary Danner |
 | 340 | 370 | Kirhonda Autmon |
 | 341 | 369 | Amber Glover |
 | 342 | 368 | Sheila M Frazier |
@@ -414,15 +414,15 @@
 | 406 | 323 | Erykah |
 | 407 | 323 | Wettnippz |
 | 408 | 323 | Jess Bissett |
-| 409 | 322 | Beth Smith |
-| 410 | 322 | Nena Somerville Kelly |
+| 409 | 322 | Nena Somerville Kelly |
+| 410 | 322 | Beth Smith |
 | 411 | 320 | Taylor Hood |
 | 412 | 320 | Or Reznitsky |
-| 413 | 318 | Christy Quick |
-| 414 | 318 | Blair Erin Waite |
+| 413 | 318 | Blair Erin Waite |
+| 414 | 318 | Christy Quick |
 | 415 | 317 | Funky Jumper |
-| 416 | 316 | Tay |
-| 417 | 316 | Travis W |
+| 416 | 316 | Travis W |
+| 417 | 316 | Tay |
 | 418 | 314 | Tipsy Zonebuilder |
 | 419 | 313 | Hoppy Buildout |
 | 420 | 313 | Beppy |

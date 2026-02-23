@@ -240,8 +240,8 @@
 | 232 | 367 | Sue Joyce Staats |
 | 233 | 365 | Hyper Builder |
 | 234 | 363 | Googenheim |
-| 235 | 363 | Cindy Looper |
-| 236 | 363 | Cheery Risebuilder |
+| 235 | 363 | Cheery Risebuilder |
+| 236 | 363 | Cindy Looper |
 | 237 | 362 | Meg |
 | 238 | 361 | Rafael Valentin |
 | 239 | 361 | Danielle Kollias |
@@ -295,8 +295,8 @@
 | 287 | 300 | Dana Scott |
 | 288 | 298 | Chance Strickland |
 | 289 | 297 | Kenna Gunderland |
-| 290 | 296 | Sarah Hoffman |
-| 291 | 296 | Vic |
+| 290 | 296 | Vic |
+| 291 | 296 | Sarah Hoffman |
 | 292 | 295 | Blessedmama |
 | 293 | 295 | Kim Klutz Olson |
 | 294 | 293 | DonMega |
@@ -314,8 +314,8 @@
 | 306 | 285 | Chaz |
 | 307 | 284 | Malakai Darien Fox |
 | 308 | 284 | Glitzy Corner |
-| 309 | 281 | Laura |
-| 310 | 281 | Morti |
+| 309 | 281 | Morti |
+| 310 | 281 | Laura |
 | 311 | 281 | rebel4lyfe |
 | 312 | 278 | Angela Geist Jusinski |
 | 313 | 278 | Sarah Brown |
@@ -970,7 +970,7 @@
 | 962 | 80 | juggernaut |
 | 963 | 80 | Rae Henderson |
 | 964 | 80 | Bold Towerpiece |
-| 965 | 79 | Jason M Cadreau |
+| 965 | 79 | Garrett G-luv Kyser |
 | 966 | 79 | MistyBayou |
 | 967 | 79 | Jason M Cadreau |
 | 968 | 79 | Phyllis Mitchell |

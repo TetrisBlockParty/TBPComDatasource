@@ -168,8 +168,8 @@
 | 160 | 1769 | Chirpy Staggerpiece |
 | 161 | 1767 | niecy |
 | 162 | 1759 | Nerdy Pattern |
-| 163 | 1751 | Bob |
-| 164 | 1751 | Woodys Glass |
+| 163 | 1751 | Woodys Glass |
+| 164 | 1751 | Bob |
 | 165 | 1740 | blarg |
 | 166 | 1720 | Morgue Chick |
 | 167 | 1720 | Nett |
@@ -228,8 +228,8 @@
 | 220 | 1418 | Poppy Snap |
 | 221 | 1418 | L3sli3 |
 | 222 | 1408 | Becca Widmer |
-| 223 | 1397 | Matthew Joseph Acevedo |
-| 224 | 1397 | Joyce Johnson Vaughn |
+| 223 | 1397 | Joyce Johnson Vaughn |
+| 224 | 1397 | Matthew Joseph Acevedo |
 | 225 | 1396 | Julay |
 | 226 | 1395 | Katrina Weston |
 | 227 | 1393 | Samantha Roberts |
@@ -300,8 +300,8 @@
 | 292 | 1163 | Erika Densmore |
 | 293 | 1161 | Sarah Freitas |
 | 294 | 1158 | Brittany Clark |
-| 295 | 1156 | Alezandra Smith |
-| 296 | 1156 | Arkei Luster |
+| 295 | 1156 | Arkei Luster |
+| 296 | 1156 | Alezandra Smith |
 | 297 | 1150 | Prado |
 | 298 | 1142 | April Dawn Gussler |
 | 299 | 1142 | Sheniya Spurgeon |
@@ -325,8 +325,8 @@
 | 317 | 1089 | Giggy Blocker |
 | 318 | 1086 | Deborah Miller |
 | 319 | 1086 | Kimberly Hope Howell |
-| 320 | 1079 | Angela Bonquiqui Dinish |
-| 321 | 1079 | Jennifer Kistner |
+| 320 | 1079 | Jennifer Kistner |
+| 321 | 1079 | Angela Bonquiqui Dinish |
 | 322 | 1076 | Cindy Sechler Taninecz |
 | 323 | 1076 | Christine Egidio Morocco |
 | 324 | 1073 | Jodi Blake |
