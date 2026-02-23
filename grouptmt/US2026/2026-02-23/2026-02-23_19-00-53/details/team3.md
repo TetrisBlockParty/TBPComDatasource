@@ -89,8 +89,8 @@
 | 81 | 1264 | Amanda L Baker |
 | 82 | 1244 | Lori Barnaby |
 | 83 | 1240 | Betty Ivy |
-| 84 | 1213 | Nerdy Riseclear |
-| 85 | 1213 | Snappy Glidepiece |
+| 84 | 1213 | Snappy Glidepiece |
+| 85 | 1213 | Nerdy Riseclear |
 | 86 | 1212 | Amanda Adkins |
 | 87 | 1186 | Christian A. Pollard |
 | 88 | 1158 | Danielle Mogg |
@@ -238,8 +238,8 @@
 | 230 | 537 | Tamara Deherrera |
 | 231 | 531 | Chauntee Alfrey-Cardinale |
 | 232 | 530 | Stephanie Blkpep Davidson |
-| 233 | 530 | Cesar Barraza |
-| 234 | 530 | Shannon Matthew Byers |
+| 233 | 530 | Shannon Matthew Byers |
+| 234 | 530 | Cesar Barraza |
 | 235 | 524 | Terry Jo Jones |
 | 236 | 519 | Nichol Graham |
 | 237 | 516 | Daring Brickzone |

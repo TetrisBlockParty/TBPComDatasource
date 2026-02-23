@@ -57,8 +57,8 @@
 | 49 | 1105 | Mona Sharma |
 | 50 | 1099 | Ashley Ingram |
 | 51 | 1085 | Kimyatta Cavin |
-| 52 | 1082 | Avy Absol |
-| 53 | 1082 | Dion Crommarty |
+| 52 | 1082 | Dion Crommarty |
+| 53 | 1082 | Avy Absol |
 | 54 | 1082 | Dawn Alexander |
 | 55 | 1049 | Heather Tushner |
 | 56 | 1046 | Johnathan Martinez |
@@ -80,8 +80,8 @@
 | 72 | 862 | Carolyn Wallace |
 | 73 | 847 | Peachy Fall |
 | 74 | 846 | Lucille Truesdale |
-| 75 | 846 | Amelpss |
-| 76 | 846 | Christine Marie |
+| 75 | 846 | Christine Marie |
+| 76 | 846 | Amelpss |
 | 77 | 841 | Shauna Havard |
 | 78 | 834 | quicksand420 |
 | 79 | 832 | Lisa Davis |
@@ -142,8 +142,8 @@
 | 134 | 545 | Desi Desporte |
 | 135 | 542 | Austin Owens |
 | 136 | 540 | Rodney McMath Jr. |
-| 137 | 538 | Carlos Ramirez |
-| 138 | 538 | shar |
+| 137 | 538 | shar |
+| 138 | 538 | Carlos Ramirez |
 | 139 | 536 | Kimberlee Jan Beckstead |
 | 140 | 531 | Serena Goodridge |
 | 141 | 529 | Cool Towerbuilder |
@@ -434,13 +434,13 @@
 | 426 | 211 | Shiny Pivoty |
 | 427 | 211 | Becky Shimko |
 | 428 | 210 | Vanessa Smart |
-| 429 | 210 | Cool Gridzone |
-| 430 | 210 | Jessica Atkinson |
-| 431 | 209 | Snippy Puzzle |
-| 432 | 209 | Matthew Pate |
+| 429 | 210 | Jessica Atkinson |
+| 430 | 210 | Cool Gridzone |
+| 431 | 209 | Matthew Pate |
+| 432 | 209 | Snippy Puzzle |
 | 433 | 209 | PennyCandee |
 | 434 | 209 | Marcus Todd |
-| 435 | 208 | Stacy |
+| 435 | 208 | Moonsterix |
 | 436 | 208 | Wacky Blockclear |
 | 437 | 208 | Stacy |
 | 438 | 207 | Jessica Wells |

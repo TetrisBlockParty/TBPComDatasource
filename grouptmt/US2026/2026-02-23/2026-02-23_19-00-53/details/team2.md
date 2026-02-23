@@ -257,8 +257,8 @@
 | 249 | 1292 | Arlene Joy Belicina |
 | 250 | 1289 | Tanya Parsons |
 | 251 | 1285 | Karen Snyder Schrage |
-| 252 | 1278 | Eric Carlson |
-| 253 | 1278 | Moose Griffith |
+| 252 | 1278 | Moose Griffith |
+| 253 | 1278 | Eric Carlson |
 | 254 | 1277 | Snappy Matchbuilder |
 | 255 | 1272 | Christina Wsn |
 | 256 | 1261 | Sarah Ridenour |
@@ -331,8 +331,8 @@
 | 323 | 1073 | Jodi Blake |
 | 324 | 1072 | BK Queen |
 | 325 | 1072 | Kristin Gower |
-| 326 | 1071 | Nashu |
-| 327 | 1071 | Kim Dean |
+| 326 | 1071 | Kim Dean |
+| 327 | 1071 | Nashu |
 | 328 | 1067 | Caitlin Schmid |
 | 329 | 1066 | Em Chen |
 | 330 | 1065 | Dany Murillo |
@@ -380,8 +380,8 @@
 | 372 | 969 | Cheech Dta |
 | 373 | 963 | Kathryn Townsley |
 | 374 | 962 | Antionette Sewell |
-| 375 | 958 | Brenda Messer |
-| 376 | 958 | Doowop40 |
+| 375 | 958 | Doowop40 |
+| 376 | 958 | Brenda Messer |
 | 377 | 957 | Block Master |
 | 378 | 955 | Amanda Woodruff |
 | 379 | 951 | Cynthia Ward |
@@ -631,8 +631,8 @@
 | 623 | 651 | Unica Rector |
 | 624 | 649 | Hunter Connors |
 | 625 | 648 | Emilee Burke |
-| 626 | 647 | CC |
-| 627 | 647 | Jackie Avila |
+| 626 | 647 | Jackie Avila |
+| 627 | 647 | CC |
 | 628 | 647 | Magic steve |
 | 629 | 645 | James Smith |
 | 630 | 645 | Shiny Twistfit |
@@ -3424,7 +3424,7 @@
 | 3416 | 155 | Harrmoni |
 | 3417 | 155 | Etienne Swain |
 | 3418 | 155 | SunnyBunny |
-| 3419 | 155 | Etienne Swain |
+| 3419 | 155 | Nina English |
 | 3420 | 155 | Marsha Howat |
 | 3421 | 155 | BlBlBaBuBuBo |
 | 3422 | 155 | Kat Sproule |

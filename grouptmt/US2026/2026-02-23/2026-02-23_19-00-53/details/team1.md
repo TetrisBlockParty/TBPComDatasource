@@ -119,8 +119,8 @@
 | 111 | 586 | Jessi Sauer |
 | 112 | 583 | Theo Pinnow |
 | 113 | 577 | Damon J. Martin |
-| 114 | 574 | Tiger Lily |
-| 115 | 574 | femmefatale |
+| 114 | 574 | femmefatale |
+| 115 | 574 | Tiger Lily |
 | 116 | 571 | Virginia Gray Floyd |
 | 117 | 570 | Cody Slav |
 | 118 | 558 | Jazzy Framezone |
@@ -196,14 +196,14 @@
 | 188 | 399 | phrmblk24 |
 | 189 | 397 | Erin Rosberg |
 | 190 | 394 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
-| 191 | 393 | Wisa |
-| 192 | 393 | Lehrin Maria |
+| 191 | 393 | Lehrin Maria |
+| 192 | 393 | Wisa |
 | 193 | 392 | Kathy Langham |
 | 194 | 391 | Monica Donato |
 | 195 | 390 | Elaine Elaine |
-| 196 | 387 | Witty Builderfit |
+| 196 | 387 | Carrie Smith |
 | 197 | 387 | Ananda Mendez |
-| 198 | 387 | Carrie Smith |
+| 198 | 387 | Witty Builderfit |
 | 199 | 386 | Brian Spotts |
 | 200 | 385 | Debbie Kane |
 | 201 | 384 | Tami Luce Martin |
@@ -217,8 +217,8 @@
 | 209 | 376 | Brian Richardsson |
 | 210 | 375 | Connie |
 | 211 | 374 | Howdi Duty |
-| 212 | 372 | Dizzy Party |
-| 213 | 372 | Snippy Wipebuilder |
+| 212 | 372 | Snippy Wipebuilder |
+| 213 | 372 | Dizzy Party |
 | 214 | 371 | David Lutcher |
 | 215 | 370 | Gracie |
 | 216 | 370 | Cheeky Crusher |
