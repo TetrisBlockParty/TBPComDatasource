@@ -77,8 +77,8 @@
 | 69 | 736 | Goatimus Lombardi |
 | 70 | 734 | Carolyn Wallace |
 | 71 | 728 | Julian Garcia |
-| 72 | 704 | Crystal Carroll |
-| 73 | 704 | D3TROITB0RN74 |
+| 72 | 704 | D3TROITB0RN74 |
+| 73 | 704 | Crystal Carroll |
 | 74 | 695 | Denise Carlson |
 | 75 | 677 | TheNeesh50 |
 | 76 | 673 | Jacqueline Helm |
@@ -86,8 +86,8 @@
 | 78 | 664 | Valerie Roberts |
 | 79 | 661 | Lisa Davis |
 | 80 | 659 | Jonathan Kimbrough |
-| 81 | 647 | KM8 |
-| 82 | 647 | Shauna Havard |
+| 81 | 647 | Shauna Havard |
+| 82 | 647 | KM8 |
 | 83 | 646 | Eric Mcgaughy |
 | 84 | 641 | Savannah Overdorf |
 | 85 | 637 | Diana Houts |
@@ -187,8 +187,8 @@
 | 179 | 314 | shark tato |
 | 180 | 314 | Andy Cabral |
 | 181 | 309 | Crystal Nicolette Moore |
-| 182 | 307 | Holly Jolly |
-| 183 | 307 | Bio Nelly |
+| 182 | 307 | Bio Nelly |
+| 183 | 307 | Holly Jolly |
 | 184 | 306 | blockstar |
 | 185 | 304 | Lindsay Ball |
 | 186 | 302 | Mary Ann Pabukis |
@@ -238,12 +238,12 @@
 | 230 | 252 | Selena Shaw |
 | 231 | 251 | Carol Ricks Raymond |
 | 232 | 249 | Ak Jones |
-| 233 | 248 | Chirpy Basepiece |
-| 234 | 248 | Jose Dejesus |
+| 233 | 248 | Jose Dejesus |
+| 234 | 248 | Chirpy Basepiece |
 | 235 | 247 | JPW |
 | 236 | 246 | Zethra Prenisha Rahming |
-| 237 | 245 | Adam Stephanie Parker |
-| 238 | 245 | Autum Leigh |
+| 237 | 245 | Autum Leigh |
+| 238 | 245 | Adam Stephanie Parker |
 | 239 | 245 | 23 |
 | 240 | 241 | Allen Lloyd |
 | 241 | 240 | Perky Patternblock |
