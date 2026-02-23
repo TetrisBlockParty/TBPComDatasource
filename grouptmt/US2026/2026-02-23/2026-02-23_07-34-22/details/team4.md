@@ -55,8 +55,8 @@
 | 47 | 938 | Denny Shives |
 | 48 | 936 | Rebecca Moulton Pinciaro |
 | 49 | 932 | Marvin Lou Martin |
-| 50 | 911 | Jeremy Steines |
-| 51 | 911 | Anthony Bryan Riva |
+| 50 | 911 | Anthony Bryan Riva |
+| 51 | 911 | Jeremy Steines |
 | 52 | 870 | BertMofo |
 | 53 | 864 | Shelly Chandler |
 | 54 | 863 | Pee |
@@ -125,8 +125,8 @@
 | 117 | 514 | Scott Jameson |
 | 118 | 514 | Serena Goodridge |
 | 119 | 513 | Erin Thomas |
-| 120 | 512 | Cristy Duerksen |
-| 121 | 512 | Casey Jeffcoat |
+| 120 | 512 | Casey Jeffcoat |
+| 121 | 512 | Cristy Duerksen |
 | 122 | 511 | Lori Walker |
 | 123 | 509 | Leslie Nicole |
 | 124 | 482 | Ren Mc |

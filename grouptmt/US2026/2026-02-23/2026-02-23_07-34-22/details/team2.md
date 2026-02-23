@@ -376,8 +376,8 @@
 | 368 | 829 | Jessica Wayne Cornwall |
 | 369 | 828 | Kimmy Newman |
 | 370 | 825 | Jeremy Parodi |
-| 371 | 824 | Khalil Lowe |
-| 372 | 824 | Danielle Johnson-Chandler |
+| 371 | 824 | Danielle Johnson-Chandler |
+| 372 | 824 | Khalil Lowe |
 | 373 | 822 | Lola Contreras |
 | 374 | 821 | Angie Bolton Workman |
 | 375 | 821 | Arkei Luster |
@@ -544,8 +544,8 @@
 | 536 | 620 | Brenna Ann |
 | 537 | 619 | Lylymom |
 | 538 | 618 | Vanessa Moreno |
-| 539 | 617 | Kacee Conrad Bock |
-| 540 | 617 | Darcy Mae |
+| 539 | 617 | Darcy Mae |
+| 540 | 617 | Kacee Conrad Bock |
 | 541 | 615 | Nerdy Pattern |
 | 542 | 615 | Lyndi Robinson Wakefield |
 | 543 | 615 | Julio A Laracuente |
@@ -773,8 +773,8 @@
 | 765 | 464 | Lively Edgepiece |
 | 766 | 463 | Jaye EL Hunter |
 | 767 | 462 | Darla Silva |
-| 768 | 462 | Kia Humphery |
-| 769 | 462 | Samantha Scibelli |
+| 768 | 462 | Samantha Scibelli |
+| 769 | 462 | Kia Humphery |
 | 770 | 461 | Julie Hamilton |
 | 771 | 461 | Amanda Segura |
 | 772 | 461 | Kristen O'Neal |
