@@ -133,8 +133,8 @@
 | 125 | 452 | Jolly Dashfit |
 | 126 | 451 | Peachy Fall |
 | 127 | 448 | Kristin Manee |
-| 128 | 435 | Kristina Black |
-| 129 | 435 | Leslie Thomas |
+| 128 | 435 | Leslie Thomas |
+| 129 | 435 | Kristina Black |
 | 130 | 431 | Courtney Cicoria |
 | 131 | 423 | Austin Owens |
 | 132 | 421 | JIGsaw ~(•¿°)~ |
@@ -156,17 +156,17 @@
 | 148 | 393 | Carlton Unfiltered |
 | 149 | 391 | Ramel Rhodes |
 | 150 | 389 | Joseph Guthrie |
-| 151 | 387 | Lucas J Sutton |
-| 152 | 387 | 🥔🥔 Spudz |
+| 151 | 387 | 🥔🥔 Spudz |
+| 152 | 387 | Lucas J Sutton |
 | 153 | 377 | Carrie Brian |
 | 154 | 375 | Desi Desporte |
 | 155 | 375 | ThaEviLJeNiuZ |
-| 156 | 374 | Guy Incognito |
-| 157 | 374 | Leslie Nicole |
+| 156 | 374 | Leslie Nicole |
+| 157 | 374 | Guy Incognito |
 | 158 | 373 | Tyler Terrific |
 | 159 | 370 | Oscar Alberto Perez |
-| 160 | 368 | Brandon Crabbs |
-| 161 | 368 | Silly Zonebuilder |
+| 160 | 368 | Silly Zonebuilder |
+| 161 | 368 | Brandon Crabbs |
 | 162 | 368 | Raegan Lane-Ross |
 | 163 | 365 | Lindsey Gonzalez |
 | 164 | 361 | Melissa Adams |
@@ -497,8 +497,8 @@
 | 489 | 138 | Hasty Fitzone |
 | 490 | 138 | Lynn Marie |
 | 491 | 137 | April Spoelma |
-| 492 | 137 | Brianna Walker |
-| 493 | 137 | Red |
+| 492 | 137 | Red |
+| 493 | 137 | Brianna Walker |
 | 494 | 136 | Badatvs |
 | 495 | 134 | Kevin Bush |
 | 496 | 133 | Wacky Blockclear |
