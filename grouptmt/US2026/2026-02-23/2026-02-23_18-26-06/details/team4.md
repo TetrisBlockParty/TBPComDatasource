@@ -78,8 +78,8 @@
 | 70 | 862 | Carolyn Wallace |
 | 71 | 847 | Peachy Fall |
 | 72 | 846 | Lucille Truesdale |
-| 73 | 846 | Christine Marie |
-| 74 | 846 | Amelpss |
+| 73 | 846 | Amelpss |
+| 74 | 846 | Christine Marie |
 | 75 | 841 | Shauna Havard |
 | 76 | 834 | quicksand420 |
 | 77 | 832 | Lisa Davis |
@@ -280,8 +280,8 @@
 | 272 | 310 | Stacey Stano |
 | 273 | 308 | Leah Kutz Zirbel |
 | 274 | 307 | Cheery Risebuilder |
-| 275 | 307 | Tina Lopez |
-| 276 | 307 | Angie Schmidt |
+| 275 | 307 | Angie Schmidt |
+| 276 | 307 | Tina Lopez |
 | 277 | 306 | PeaceOs |
 | 278 | 306 | mike |
 | 279 | 306 | Lora |
@@ -298,8 +298,8 @@
 | 290 | 291 | Hyper Builder |
 | 291 | 291 | Dizzy Matchzone |
 | 292 | 290 | Jared Gutwein |
-| 293 | 290 | Neirrah B Olailjeel |
-| 294 | 290 | Heather Bruce |
+| 293 | 290 | Heather Bruce |
+| 294 | 290 | Neirrah B Olailjeel |
 | 295 | 289 | Juls |
 | 296 | 288 | Brittney Orengo |
 | 297 | 287 | Kim Klutz Olson |
@@ -394,8 +394,8 @@
 | 386 | 232 | Jenny Wells-Oakley |
 | 387 | 230 | Chantilly Laace |
 | 388 | 228 | Bethany Ison |
-| 389 | 227 | Maria Hammie |
-| 390 | 227 | Asher |
+| 389 | 227 | Asher |
+| 390 | 227 | Maria Hammie |
 | 391 | 224 | Ultramarine |
 | 392 | 224 | The Murphy |
 | 393 | 223 | Brave Spinbuilder |
@@ -446,8 +446,8 @@
 | 438 | 206 | Dorian |
 | 439 | 205 | KayM |
 | 440 | 205 | Sallie Sanborn |
-| 441 | 204 | Jason Frehner |
-| 442 | 204 | Gwendolyn Pitcairn |
+| 441 | 204 | Gwendolyn Pitcairn |
+| 442 | 204 | Jason Frehner |
 | 443 | 204 | Russ Attitude |
 | 444 | 204 | Ruby Khalisadar |
 | 445 | 203 | Gilles Lanctot |
@@ -489,8 +489,8 @@
 | 481 | 187 | Jason Punch |
 | 482 | 186 | Dandy Cascadefit |
 | 483 | 186 | Jesse Saville |
-| 484 | 185 | Joshua Guess |
-| 485 | 185 | Rebecca Blake |
+| 484 | 185 | Rebecca Blake |
+| 485 | 185 | Joshua Guess |
 | 486 | 185 | Eric Wren |
 | 487 | 183 | Darrin Rubalcava |
 | 488 | 183 | Sholom Fried |
@@ -507,11 +507,11 @@
 | 499 | 179 | Vamp |
 | 500 | 179 | Joseph Gray |
 | 501 | 179 | Elle Joe |
-| 502 | 178 | Jackson Karen |
-| 503 | 178 | Daring Pivot |
+| 502 | 178 | Daring Pivot |
+| 503 | 178 | Jackson Karen |
 | 504 | 178 | Brandon Link |
 | 505 | 178 | Laurel Coppess |
-| 506 | 178 | Brandon Link |
+| 506 | 178 | Nerdy Linebuilder |
 | 507 | 177 | Chao Ma |
 | 508 | 177 | Stephanie Mico |
 | 509 | 176 | Walter Beltran |

@@ -397,8 +397,8 @@
 | 389 | 919 | Isaac Trappiel IV |
 | 390 | 916 | Butta |
 | 391 | 915 | Kelly Trent |
-| 392 | 914 | William Hunt |
-| 393 | 914 | Shuany Arias |
+| 392 | 914 | Shuany Arias |
+| 393 | 914 | William Hunt |
 | 394 | 913 | Angie Bolton Workman |
 | 395 | 909 | Valerie Brooke Lusk Armstrong |
 | 396 | 907 | Gene Mills |
@@ -419,8 +419,8 @@
 | 411 | 881 | Aireka Roman |
 | 412 | 881 | Johnny Yeates |
 | 413 | 880 | Adam Simmons |
-| 414 | 877 | Misti Markijohn |
-| 415 | 877 | Bubbly Snapfit |
+| 414 | 877 | Bubbly Snapfit |
+| 415 | 877 | Misti Markijohn |
 | 416 | 876 | Jessicah Myers |
 | 417 | 870 | Joy LaJeunesse |
 | 418 | 869 | Venita Ray |
@@ -513,16 +513,16 @@
 | 505 | 757 | Chelle |
 | 506 | 755 | Taryece Gause |
 | 507 | 751 | Loony Snapper |
-| 508 | 751 | Breezy Filler |
+| 508 | 751 | Briana Alexander |
 | 509 | 751 | Caitlyn Blackwell |
-| 510 | 751 | Briana Alexander |
+| 510 | 751 | Breezy Filler |
 | 511 | 750 | Draizen Montrell Thomas |
 | 512 | 750 | Michael Buckner |
 | 513 | 749 | Trisha J Schmidt |
 | 514 | 748 | Ann Matzkanin |
 | 515 | 746 | Hoppy Brickmatch |
-| 516 | 742 | Cassie Maynard |
-| 517 | 742 | Ganieda |
+| 516 | 742 | Ganieda |
+| 517 | 742 | Cassie Maynard |
 | 518 | 740 | Jerry Tempelmeyer |
 | 519 | 740 | Alexandra Weir |
 | 520 | 738 | Sheronda Jackson |
@@ -907,8 +907,8 @@
 | 899 | 481 | Brittany Chapman |
 | 900 | 481 | Erika Deer Kauffman |
 | 901 | 481 | Brenda Annabel Smith |
-| 902 | 480 | Cassi Owens |
-| 903 | 480 | Dar |
+| 902 | 480 | Dar |
+| 903 | 480 | Cassi Owens |
 | 904 | 479 | bbv |
 | 905 | 479 | Ashlee Cruz |
 | 906 | 478 | Elizabeth Pearson |
@@ -921,8 +921,8 @@
 | 913 | 475 | Josh N Corrine |
 | 914 | 474 | Calandra Shaya Robinson |
 | 915 | 474 | Veronica Stevenson |
-| 916 | 474 | Jennifer Scott |
-| 917 | 474 | calcap |
+| 916 | 474 | calcap |
+| 917 | 474 | Jennifer Scott |
 | 918 | 472 | Linda Miltenburg |
 | 919 | 472 | Witty Piecebuilder |
 | 920 | 472 | Connie Lepore-Mann |
@@ -964,11 +964,11 @@
 | 956 | 461 | Kristen O'Neal |
 | 957 | 460 | Sharon Mills |
 | 958 | 460 | LaWanda Powell |
-| 959 | 459 | Boozi |
-| 960 | 459 | Jamie Bass |
+| 959 | 459 | Jamie Bass |
+| 960 | 459 | Boozi |
 | 961 | 459 | Pocho Zavala |
-| 962 | 459 | Stefanie Zonzini-Gagliardi |
-| 963 | 459 | Ericka Marie Smith |
+| 962 | 459 | Ericka Marie Smith |
+| 963 | 459 | Stefanie Zonzini-Gagliardi |
 | 964 | 458 | Ys Muhammed |
 | 965 | 458 | Jannan Haimour |
 | 966 | 458 | Chill Rotater |
