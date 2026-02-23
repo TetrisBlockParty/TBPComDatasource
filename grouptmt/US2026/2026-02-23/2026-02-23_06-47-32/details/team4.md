@@ -26,8 +26,8 @@
 | 18 | 1630 | Tina Martinez |
 | 19 | 1565 | GreenJeepGirl |
 | 20 | 1558 | Leah Gorsuch |
-| 21 | 1536 | Roger Coulter |
-| 22 | 1536 | Misty Hollibaugh |
+| 21 | 1536 | Misty Hollibaugh |
+| 22 | 1536 | Roger Coulter |
 | 23 | 1485 | Juggalo |
 | 24 | 1390 | Sammy Noguera |
 | 25 | 1382 | Tammi Crnza |
@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Kimyatta Cavin |
-| 84 | 684 | Jonathan Kimbrough |
+| 83 | 684 | Jonathan Kimbrough |
+| 84 | 684 | Kimyatta Cavin |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -125,8 +125,8 @@
 | 117 | 514 | Serena Goodridge |
 | 118 | 514 | Scott Jameson |
 | 119 | 513 | Erin Thomas |
-| 120 | 512 | Cristy Duerksen |
-| 121 | 512 | Casey Jeffcoat |
+| 120 | 512 | Casey Jeffcoat |
+| 121 | 512 | Cristy Duerksen |
 | 122 | 511 | Lori Walker |
 | 123 | 509 | Leslie Nicole |
 | 124 | 482 | Ren Mc |
@@ -171,13 +171,13 @@
 | 163 | 374 | Guy Incognito |
 | 164 | 370 | Oscar Alberto Perez |
 | 165 | 369 | Lindsey Gonzalez |
-| 166 | 368 | Brandon Crabbs |
+| 166 | 368 | Raegan Lane-Ross |
 | 167 | 368 | Chris Bernstein |
 | 168 | 368 | Silly Zonebuilder |
 | 169 | 368 | Brandon Crabbs |
 | 170 | 365 | Jeff Brian Gates |
-| 171 | 361 | Danielle Kollias |
-| 172 | 361 | Melissa Adams |
+| 171 | 361 | Melissa Adams |
+| 172 | 361 | Danielle Kollias |
 | 173 | 359 | Keith Kelley |
 | 174 | 358 | A5! |
 | 175 | 356 | George Nutt |
@@ -186,8 +186,8 @@
 | 178 | 349 | Rafael Valentin |
 | 179 | 349 | Twisty Cascadezone |
 | 180 | 348 | April Rondinone |
-| 181 | 347 | Daria Rycewicz |
-| 182 | 347 | Crystal Nicolette Moore |
+| 181 | 347 | Crystal Nicolette Moore |
+| 182 | 347 | Daria Rycewicz |
 | 183 | 339 | David Lay |
 | 184 | 336 | Bio Nelly |
 | 185 | 335 | James Hurley Jr. |
@@ -231,8 +231,8 @@
 | 223 | 286 | Steph Marie |
 | 224 | 285 | 030Synner |
 | 225 | 284 | Mimi |
-| 226 | 282 | Kim Klutz Olson |
-| 227 | 282 | Matt Gooder |
+| 226 | 282 | Matt Gooder |
+| 227 | 282 | Kim Klutz Olson |
 | 228 | 281 | Laura |
 | 229 | 280 | Rio Rocha |
 | 230 | 279 | Malakai Darien Fox |
@@ -260,11 +260,11 @@
 | 252 | 262 | Selena Shaw |
 | 253 | 262 | BigSammy420 |
 | 254 | 261 | Zethra Prenisha Rahming |
-| 255 | 260 | Lori |
-| 256 | 260 | Carter Jones |
-| 257 | 259 | Allen Lloyd |
-| 258 | 259 | Montiette Mcglown |
-| 259 | 259 | John Brunetti |
+| 255 | 260 | Carter Jones |
+| 256 | 260 | Lori |
+| 257 | 259 | Montiette Mcglown |
+| 258 | 259 | John Brunetti |
+| 259 | 259 | Allen Lloyd |
 | 260 | 257 | PeaceOs |
 | 261 | 256 | Jade Rian |
 | 262 | 256 | Brittany Marsh |
@@ -280,10 +280,10 @@
 | 272 | 244 | Elizabeth Tinoco |
 | 273 | 242 | Chaz |
 | 274 | 242 | PurpleMoonMa |
-| 275 | 240 | Kim Hunt |
-| 276 | 240 | Perky Patternblock |
-| 277 | 239 | Joanna |
-| 278 | 239 | Denise B |
+| 275 | 240 | Perky Patternblock |
+| 276 | 240 | Kim Hunt |
+| 277 | 239 | Denise B |
+| 278 | 239 | Joanna |
 | 279 | 238 | 中山成巳 |
 | 280 | 237 | Christine Therrien |
 | 281 | 236 | Degenerate |

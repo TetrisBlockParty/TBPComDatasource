@@ -160,8 +160,8 @@
 | 152 | 631 | Daira Largen |
 | 153 | 630 | yoyo |
 | 154 | 629 | Patricia White |
-| 155 | 621 | Sashay Tapae Simpson |
-| 156 | 621 | Cherry Parker |
+| 155 | 621 | Cherry Parker |
+| 156 | 621 | Sashay Tapae Simpson |
 | 157 | 616 | Kammy Hill |
 | 158 | 611 | Rochelle Hazelett |
 | 159 | 607 | Grego Daniel |
@@ -192,8 +192,8 @@
 | 184 | 546 | Mykal Burton |
 | 185 | 546 | Tasha Schriewer |
 | 186 | 540 | Shawn Miller |
-| 187 | 531 | Sarah Cowan Burgos |
-| 188 | 531 | Chauntee Alfrey-Cardinale |
+| 187 | 531 | Chauntee Alfrey-Cardinale |
+| 188 | 531 | Sarah Cowan Burgos |
 | 189 | 528 | Silly Twist |
 | 190 | 525 | Stephanie Blkpep Davidson |
 | 191 | 524 | Bmo |
@@ -231,18 +231,18 @@
 | 223 | 448 | Scott Carleton |
 | 224 | 437 | Loopy Clusterer |
 | 225 | 432 | Luciana Braganca Vieira |
-| 226 | 431 | Wendy Dearden |
-| 227 | 431 | Ammmmmmy |
+| 226 | 431 | Ammmmmmy |
+| 227 | 431 | Wendy Dearden |
 | 228 | 430 | Jeni Dow |
 | 229 | 418 | Rebecca Funderburk Kirby |
 | 230 | 414 | Fran Lin |
-| 231 | 410 | Duane Bright |
-| 232 | 410 | Stephanie Simpson |
+| 231 | 410 | Stephanie Simpson |
+| 232 | 410 | Duane Bright |
 | 233 | 408 | Tiffany Ford |
 | 234 | 406 | Kristal C Lee |
 | 235 | 404 | Chasity |
-| 236 | 403 | Denita Mungro |
-| 237 | 403 | Scott Lindsay |
+| 236 | 403 | Scott Lindsay |
+| 237 | 403 | Denita Mungro |
 | 238 | 395 | rosy |
 | 239 | 391 | Nicole Flippo |
 | 240 | 391 | Marci Mize Fandrich |
@@ -265,8 +265,8 @@
 | 257 | 370 | Samantha Lynn |
 | 258 | 369 | Philip Rock |
 | 259 | 369 | Keis |
-| 260 | 368 | Stephanie Woods |
-| 261 | 368 | Sheila M Frazier |
+| 260 | 368 | Sheila M Frazier |
+| 261 | 368 | Stephanie Woods |
 | 262 | 367 | Kristin Delibac Corrigan |
 | 263 | 366 | Gumbo |
 | 264 | 366 | Randy Clevenger |
@@ -282,8 +282,8 @@
 | 274 | 354 | Eileen Brady Thurber |
 | 275 | 354 | Andrew Thorson |
 | 276 | 354 | Kelly |
-| 277 | 353 | Dee Franklin |
-| 278 | 353 | Cyd061769 |
+| 277 | 353 | Cyd061769 |
+| 278 | 353 | Dee Franklin |
 | 279 | 352 | Christian Werndl |
 | 280 | 351 | Eon Harris |
 | 281 | 351 | Blocked |
@@ -292,8 +292,8 @@
 | 284 | 347 | Betty Bóò |
 | 285 | 346 | Tamara Deherrera |
 | 286 | 345 | gremicx |
-| 287 | 343 | Ashley Raines |
-| 288 | 343 | Ashley Rufus Bythcez |
+| 287 | 343 | Ashley Rufus Bythcez |
+| 288 | 343 | Ashley Raines |
 | 289 | 342 | Cynthia Herrmann Egland |
 | 290 | 341 | Ashley Tookes |
 | 291 | 341 | Rick Poppen |
@@ -362,8 +362,8 @@
 | 354 | 280 | Aerian Preston |
 | 355 | 280 | ROODBOY |
 | 356 | 280 | Dirtgirl27 |
-| 357 | 279 | Tosha Griffey |
-| 358 | 279 | Naur |
+| 357 | 279 | Naur |
+| 358 | 279 | Tosha Griffey |
 | 359 | 278 | Rufus Lincoln |
 | 360 | 277 | Krystal Gerstberger |
 | 361 | 277 | Joe-Maggie Mathews |
@@ -379,8 +379,8 @@
 | 371 | 274 | Ava Petito |
 | 372 | 273 | France Vézina |
 | 373 | 273 | Brenda Schmid Wood |
-| 374 | 272 | Todd Hall |
-| 375 | 272 | Tay |
+| 374 | 272 | Tay |
+| 375 | 272 | Todd Hall |
 | 376 | 272 | Romeo |
 | 377 | 269 | Samantha Worley |
 | 378 | 269 | Jess Bissett |
@@ -526,8 +526,8 @@
 | 518 | 203 | Sdot |
 | 519 | 201 | Denise Marie |
 | 520 | 201 | Katrina E Jelks |
-| 521 | 200 | Sarah Whalen |
-| 522 | 200 | glichmod |
+| 521 | 200 | glichmod |
+| 522 | 200 | Sarah Whalen |
 | 523 | 200 | Christina Marie Swisher |
 | 524 | 199 | PrncssPJ |
 | 525 | 199 | Cheeky Setter |
@@ -602,8 +602,8 @@
 | 594 | 181 | Julia Nicole |
 | 595 | 180 | Chipper Piecefit |
 | 596 | 180 | Stella |
-| 597 | 179 | Alexi Pryor |
-| 598 | 179 | Boldy Corner |
+| 597 | 179 | Boldy Corner |
+| 598 | 179 | Alexi Pryor |
 | 599 | 179 | Ruchi Smit |
 | 600 | 178 | Jillian Ann |
 | 601 | 178 | Kathleen Taylor |
