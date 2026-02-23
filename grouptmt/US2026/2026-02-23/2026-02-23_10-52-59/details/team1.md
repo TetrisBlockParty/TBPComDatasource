@@ -154,8 +154,8 @@
 | 146 | 402 | Chris K |
 | 147 | 399 | Nery Martinez |
 | 148 | 397 | Chelsea Dahlquist |
-| 149 | 394 | Lori Bales |
-| 150 | 394 | Jennifer Hardman |
+| 149 | 394 | Jennifer Hardman |
+| 150 | 394 | Lori Bales |
 | 151 | 389 | David Miller |
 | 152 | 388 | Fmp |
 | 153 | 387 | Ananda Mendez |
@@ -263,8 +263,8 @@
 | 255 | 272 | Tawnya Peltonen |
 | 256 | 272 | Michelle Beres |
 | 257 | 271 | Frothy Pattern |
-| 258 | 270 | Brenda Alexander |
-| 259 | 270 | Debbie Kane |
+| 258 | 270 | Debbie Kane |
+| 259 | 270 | Brenda Alexander |
 | 260 | 268 | Standia Civil |
 | 261 | 267 | Daring Fitclear |
 | 262 | 265 | Kandae |
@@ -514,7 +514,7 @@
 | 506 | 151 | Glitzy Grid |
 | 507 | 151 | Michelle |
 | 508 | 151 | Plucky Wrecker |
-| 509 | 151 | Michelle |
+| 509 | 151 | Cozy Shatterer |
 | 510 | 149 | Logan McFarland |
 | 511 | 147 | Javyjavz |
 | 512 | 147 | Jodee Woods |

@@ -76,8 +76,8 @@
 | 68 | 1264 | Amanda L Baker |
 | 69 | 1258 | Danielle Cutler |
 | 70 | 1256 | Jessica Bechler |
-| 71 | 1213 | Nerdy Riseclear |
-| 72 | 1213 | Snappy Glidepiece |
+| 71 | 1213 | Snappy Glidepiece |
+| 72 | 1213 | Nerdy Riseclear |
 | 73 | 1201 | Amanda Adkins |
 | 74 | 1186 | Christian A. Pollard |
 | 75 | 1162 | Gracie |
@@ -121,8 +121,8 @@
 | 113 | 839 | Angeline Joseph |
 | 114 | 830 | Stephanie Allmon |
 | 115 | 826 | Shane Wilson Jr. |
-| 116 | 816 | Jesse Olive |
-| 117 | 816 | Brenda Lee Vander Molen |
+| 116 | 816 | Brenda Lee Vander Molen |
+| 117 | 816 | Jesse Olive |
 | 118 | 802 | Bobbi Moore |
 | 119 | 800 | Lauren Girouard |
 | 120 | 799 | Dolores Falco |
@@ -132,8 +132,8 @@
 | 124 | 764 | Groovy Catcher |
 | 125 | 764 | Hasty Cascadefit |
 | 126 | 762 | Speedy Bridger |
-| 127 | 755 | Raya |
-| 128 | 755 | Katrina Schroeder |
+| 127 | 755 | Katrina Schroeder |
+| 128 | 755 | Raya |
 | 129 | 752 | Logan Naccarato |
 | 130 | 748 | Adrian Marcel Pate |
 | 131 | 745 | JerseyJess |
@@ -198,8 +198,8 @@
 | 190 | 546 | Tasha Schriewer |
 | 191 | 546 | Cynthia Castros-Hampton |
 | 192 | 540 | Shawn Miller |
-| 193 | 531 | Chauntee Alfrey-Cardinale |
-| 194 | 531 | Sarah Cowan Burgos |
+| 193 | 531 | Sarah Cowan Burgos |
+| 194 | 531 | Chauntee Alfrey-Cardinale |
 | 195 | 528 | Silly Twist |
 | 196 | 525 | Stephanie Blkpep Davidson |
 | 197 | 524 | Bmo |
@@ -218,8 +218,8 @@
 | 210 | 485 | Dapper Snap |
 | 211 | 484 | Fallorina Susana |
 | 212 | 481 | Connie Mohler-Fair |
-| 213 | 480 | Michael Johnson |
-| 214 | 480 | Danielle Allison |
+| 213 | 480 | Danielle Allison |
+| 214 | 480 | Michael Johnson |
 | 215 | 477 | Edwin Calvillo Jr. |
 | 216 | 475 | Tessina Dewey-Mancino |
 | 217 | 471 | Mendoza Lee Christy |
@@ -297,8 +297,8 @@
 | 289 | 359 | Betty Bóò |
 | 290 | 358 | Roary Danner |
 | 291 | 354 | Kelly |
-| 292 | 354 | Andrew Thorson |
-| 293 | 354 | Eileen Brady Thurber |
+| 292 | 354 | Eileen Brady Thurber |
+| 293 | 354 | Andrew Thorson |
 | 294 | 353 | Cyd061769 |
 | 295 | 353 | Dee Franklin |
 | 296 | 352 | Christian Werndl |
@@ -314,8 +314,8 @@
 | 306 | 342 | Cynthia Herrmann Egland |
 | 307 | 341 | Rick Poppen |
 | 308 | 341 | Lys |
-| 309 | 340 | Erika Thornton |
-| 310 | 340 | KayB |
+| 309 | 340 | KayB |
+| 310 | 340 | Erika Thornton |
 | 311 | 338 | fraulila |
 | 312 | 336 | Foltz Lee Kelli |
 | 313 | 335 | victory |
@@ -410,8 +410,8 @@
 | 402 | 267 | Jul |
 | 403 | 267 | April Matthew Kibble |
 | 404 | 267 | Michael Kimbro |
-| 405 | 266 | Sarah Muradyan |
-| 406 | 266 | Quirky Dropzone |
+| 405 | 266 | Quirky Dropzone |
+| 406 | 266 | Sarah Muradyan |
 | 407 | 265 | Heather Davis |
 | 408 | 265 | AlsoJess |
 | 409 | 264 | Reina Roth |
@@ -535,8 +535,8 @@
 | 527 | 209 | TazB |
 | 528 | 208 | Jessica Christian |
 | 529 | 208 | Luccy Luxe |
-| 530 | 207 | Misstery |
-| 531 | 207 | Nichol Graham |
+| 530 | 207 | Nichol Graham |
+| 531 | 207 | Misstery |
 | 532 | 206 | Tammy Rosenberry |
 | 533 | 206 | Dakota Graham |
 | 534 | 205 | Emberblaze |
