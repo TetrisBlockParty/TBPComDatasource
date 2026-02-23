@@ -69,8 +69,8 @@
 | 61 | 846 | Lucille Truesdale |
 | 62 | 846 | Christine Marie |
 | 63 | 834 | quicksand420 |
-| 64 | 807 | Rachel Anne |
-| 65 | 807 | Amelpss |
+| 64 | 807 | Amelpss |
+| 65 | 807 | Rachel Anne |
 | 66 | 788 | Julian Garcia |
 | 67 | 788 | Chilly Line |
 | 68 | 787 | loulou |
@@ -169,8 +169,8 @@
 | 161 | 414 | Swanky Fitline |
 | 162 | 413 | Circuit8 |
 | 163 | 412 | Jessica Bohlken |
-| 164 | 406 | Damn Libra |
-| 165 | 406 | Livvy |
+| 164 | 406 | Livvy |
+| 165 | 406 | Damn Libra |
 | 166 | 404 | Carlos Ramirez |
 | 167 | 402 | Lucas J Sutton |
 | 168 | 398 | Tyler Terrific |
@@ -183,12 +183,12 @@
 | 175 | 383 | Chris Bernstein |
 | 176 | 377 | Guy Incognito |
 | 177 | 375 | Desi Desporte |
-| 178 | 372 | George Nutt |
-| 179 | 372 | Antony Dwayne Beasley |
+| 178 | 372 | Antony Dwayne Beasley |
+| 179 | 372 | George Nutt |
 | 180 | 370 | Oscar Alberto Perez |
 | 181 | 369 | Lindsey Gonzalez |
-| 182 | 368 | Silly Zonebuilder |
-| 183 | 368 | Raegan Lane-Ross |
+| 182 | 368 | Raegan Lane-Ross |
+| 183 | 368 | Silly Zonebuilder |
 | 184 | 365 | Jeff Brian Gates |
 | 185 | 361 | Rafael Valentin |
 | 186 | 361 | Danielle Kollias |
@@ -308,8 +308,8 @@
 | 300 | 244 | Perky Piecegrid |
 | 301 | 244 | Elizabeth Tinoco |
 | 302 | 243 | Chair |
-| 303 | 242 | PurpleMoonMa |
-| 304 | 242 | Chaz |
+| 303 | 242 | Chaz |
+| 304 | 242 | PurpleMoonMa |
 | 305 | 240 | Perky Patternblock |
 | 306 | 239 | AyeKay |
 | 307 | 239 | Denise B |
@@ -623,8 +623,8 @@
 | 615 | 117 | Jacob Richard |
 | 616 | 117 | Kelly Duncan |
 | 617 | 116 | Beenbreto |
-| 618 | 116 | JEan Price |
-| 619 | 116 | Rebecca A Rit |
+| 618 | 116 | Rebecca A Rit |
+| 619 | 116 | JEan Price |
 | 620 | 116 | Mcg |
 | 621 | 115 | Mona Touchine |
 | 622 | 115 | Brenda Bird |
@@ -708,12 +708,12 @@
 | 700 | 102 | Jennifer Brown |
 | 701 | 102 | Candice Carasiti |
 | 702 | 102 | blasterB |
-| 703 | 102 | Bryan Johnson |
-| 704 | 102 | Blaze Butler |
-| 705 | 101 | Kris Johnson |
+| 703 | 102 | Blaze Butler |
+| 704 | 102 | Bryan Johnson |
+| 705 | 101 | Jacob Campbell |
 | 706 | 101 | Saulc1991 |
-| 707 | 101 | Jacob Campbell |
-| 708 | 100 | Vanita M Hemphill |
+| 707 | 101 | Kris Johnson |
+| 708 | 100 | Joyce Fees |
 | 709 | 100 | Hediyuda |
 | 710 | 100 | James Philpot Ross |
 | 711 | 100 | Vanita M Hemphill |

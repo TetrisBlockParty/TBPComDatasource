@@ -145,8 +145,8 @@
 | 137 | 1818 | Shandrica Lowe |
 | 138 | 1812 | Shameika Trail |
 | 139 | 1774 | Crystal Elam |
-| 140 | 1769 | Chirpy Staggerpiece |
-| 141 | 1769 | Katrina Williams Balmir |
+| 140 | 1769 | Katrina Williams Balmir |
+| 141 | 1769 | Chirpy Staggerpiece |
 | 142 | 1767 | niecy |
 | 143 | 1755 | Loopy Clusterbuilder |
 | 144 | 1755 | Rebecca Doughman |
@@ -352,8 +352,8 @@
 | 344 | 926 | Deborah Miller |
 | 345 | 919 | Isaac Trappiel IV |
 | 346 | 918 | Amber Brion |
-| 347 | 917 | Nashu |
-| 348 | 917 | Jackie Burnett |
+| 347 | 917 | Jackie Burnett |
+| 348 | 917 | Nashu |
 | 349 | 916 | Butta |
 | 350 | 915 | Kelly Trent |
 | 351 | 914 | Shuany Arias |
@@ -524,8 +524,8 @@
 | 516 | 677 | Paul Combs |
 | 517 | 677 | Kayleigh Wisse |
 | 518 | 677 | Amanda Woodruff |
-| 519 | 676 | Roseanna Peloso |
-| 520 | 676 | Nicky Jackson |
+| 519 | 676 | Nicky Jackson |
+| 520 | 676 | Roseanna Peloso |
 | 521 | 675 | Lonne Emade |
 | 522 | 675 | Katelynn Hollen |
 | 523 | 674 | Ashley Munn |
@@ -542,8 +542,8 @@
 | 534 | 659 | Trinity Oak |
 | 535 | 658 | Demeka Dangerous-kisses Johnson |
 | 536 | 656 | Kiana Boschh |
-| 537 | 656 | bonsai |
-| 538 | 656 | Tonya Lee |
+| 537 | 656 | Tonya Lee |
+| 538 | 656 | bonsai |
 | 539 | 655 | Silly Pivotfall |
 | 540 | 654 | Cc |
 | 541 | 651 | Unica Rector |
@@ -606,8 +606,8 @@
 | 598 | 602 | Jedi |
 | 599 | 602 | Tash Bell |
 | 600 | 602 | Stephanie Sul |
-| 601 | 601 | Daniel Amos |
-| 602 | 601 | Moua Ying |
+| 601 | 601 | Moua Ying |
+| 602 | 601 | Daniel Amos |
 | 603 | 600 | Nicole Cox |
 | 604 | 597 | TJ Nash |
 | 605 | 597 | Jamie Schmitt |
@@ -641,8 +641,8 @@
 | 633 | 576 | Leslie Johnson Guinto |
 | 634 | 574 | Boldy Wiper |
 | 635 | 574 | Valerie Brooke Lusk Armstrong |
-| 636 | 573 | Vaniel Glover |
-| 637 | 573 | Giggly Snap |
+| 636 | 573 | Giggly Snap |
+| 637 | 573 | Vaniel Glover |
 | 638 | 573 | Mike Aprilliano |
 | 639 | 572 | Rachael Senard |
 | 640 | 572 | Alexandra Lynn |

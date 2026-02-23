@@ -27,8 +27,8 @@
 | 19 | 2840 | Chummy Shatterer |
 | 20 | 2697 | River |
 | 21 | 2387 | Susan Valentino |
-| 22 | 2353 | Laura Melton |
-| 23 | 2353 | Tetris Master |
+| 22 | 2353 | Tetris Master |
+| 23 | 2353 | Laura Melton |
 | 24 | 2319 | mjl574 |
 | 25 | 2311 | Brandon Green |
 | 26 | 2271 | Jeana Gilbert |
@@ -117,8 +117,8 @@
 | 109 | 869 | Araceli Parra |
 | 110 | 868 | Sarajane Lokan |
 | 111 | 860 | Sunny Rotater |
-| 112 | 851 | Jd Morris |
-| 113 | 851 | Danielle Becker |
+| 112 | 851 | Danielle Becker |
+| 113 | 851 | Jd Morris |
 | 114 | 850 | Danielle Mogg |
 | 115 | 848 | Patricia Gadsden |
 | 116 | 839 | Angeline Joseph |
@@ -169,8 +169,8 @@
 | 161 | 634 | Amber Hughes |
 | 162 | 631 | Grego Daniel |
 | 163 | 630 | yoyo |
-| 164 | 621 | Sashay Tapae Simpson |
-| 165 | 621 | Cherry Parker |
+| 164 | 621 | Cherry Parker |
+| 165 | 621 | Sashay Tapae Simpson |
 | 166 | 616 | Kammy Hill |
 | 167 | 611 | Rochelle Hazelett |
 | 168 | 603 | Jone |
@@ -179,8 +179,8 @@
 | 171 | 597 | Diana Ibarra |
 | 172 | 591 | Michael Nowogorski |
 | 173 | 587 | Louise Stacy Sisson |
-| 174 | 585 | Domo Washington |
-| 175 | 585 | Happy Tetriblast |
+| 174 | 585 | Happy Tetriblast |
+| 175 | 585 | Domo Washington |
 | 176 | 583 | Tasha Gillespie |
 | 177 | 582 | Natasha Jones |
 | 178 | 574 | Morgan Martinez |
@@ -268,8 +268,8 @@
 | 260 | 406 | Kristal C Lee |
 | 261 | 405 | Steffi Chris Dacones |
 | 262 | 404 | Chasity |
-| 263 | 403 | Scott Lindsay |
-| 264 | 403 | Denita Mungro |
+| 263 | 403 | Denita Mungro |
+| 264 | 403 | Scott Lindsay |
 | 265 | 401 | Ashley Tookes |
 | 266 | 400 | Quackers |
 | 267 | 395 | rosy |
@@ -286,8 +286,8 @@
 | 278 | 378 | Chris Bell |
 | 279 | 378 | MsBee |
 | 280 | 375 | Stephanie Burtin |
-| 281 | 372 | Sarah Moyer |
-| 282 | 372 | Rich LeBlanc |
+| 281 | 372 | Rich LeBlanc |
+| 282 | 372 | Sarah Moyer |
 | 283 | 371 | Marquita Sheard |
 | 284 | 371 | Salena Whitlock |
 | 285 | 371 | block chick |
@@ -323,8 +323,8 @@
 | 315 | 342 | Cynthia Herrmann Egland |
 | 316 | 341 | Rick Poppen |
 | 317 | 341 | Lys |
-| 318 | 340 | Erika Thornton |
-| 319 | 340 | KayB |
+| 318 | 340 | KayB |
+| 319 | 340 | Erika Thornton |
 | 320 | 338 | fraulila |
 | 321 | 338 | Heather Davis |
 | 322 | 336 | Nikki Pags |
@@ -422,8 +422,8 @@
 | 414 | 266 | Daring Builder |
 | 415 | 266 | Sarah Muradyan |
 | 416 | 266 | Quirky Dropzone |
-| 417 | 265 | Ashley Lynn Marchese |
-| 418 | 265 | AlsoJess |
+| 417 | 265 | AlsoJess |
+| 418 | 265 | Ashley Lynn Marchese |
 | 419 | 264 | Reina Roth |
 | 420 | 264 | Danielle Beaunoyer Jean |
 | 421 | 261 | Swanky Snapclear |
