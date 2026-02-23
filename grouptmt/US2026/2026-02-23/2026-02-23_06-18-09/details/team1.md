@@ -96,8 +96,8 @@
 | 88 | 570 | Cody Slav |
 | 89 | 562 | Denice Dee |
 | 90 | 554 | Tee Sheree |
-| 91 | 534 | Loony Fitzone |
-| 92 | 534 | Veronica Eve |
+| 91 | 534 | Veronica Eve |
+| 92 | 534 | Loony Fitzone |
 | 93 | 532 | Robert Benito |
 | 94 | 529 | Ryan Lunnin |
 | 95 | 522 | Sarah Lombardo |
@@ -124,8 +124,8 @@
 | 116 | 451 | Plucky Ziggy |
 | 117 | 450 | lil mickey |
 | 118 | 449 | Anaid Sanchez |
-| 119 | 448 | Jazzy Framezone |
-| 120 | 448 | Sweet Baker |
+| 119 | 448 | Sweet Baker |
+| 120 | 448 | Jazzy Framezone |
 | 121 | 446 | SkipTheSadSauce |
 | 122 | 443 | Steve Schneider |
 | 123 | 439 | Dee Perry |
@@ -213,20 +213,20 @@
 | 205 | 307 | femmefatale |
 | 206 | 307 | Snappy Matcher |
 | 207 | 306 | Angela Renea Lester |
-| 208 | 301 | Cody Gates |
-| 209 | 301 | Damon J. Martin |
+| 208 | 301 | Damon J. Martin |
+| 209 | 301 | Cody Gates |
 | 210 | 300 | Sleepysloath5745 |
 | 211 | 298 | Billie Ann Eason |
 | 212 | 294 | Bindi |
 | 213 | 293 | John Kim |
 | 214 | 291 | Giddy Cascade |
 | 215 | 291 | Brave Wrecker |
-| 216 | 290 | Hellsin |
-| 217 | 290 | Speedy Liney |
-| 218 | 290 | Tavia |
+| 216 | 290 | Tavia |
+| 217 | 290 | Hellsin |
+| 218 | 290 | Speedy Liney |
 | 219 | 287 | Sassy Builderline |
-| 220 | 285 | Bird Person |
-| 221 | 285 | Shanae Grant |
+| 220 | 285 | Shanae Grant |
+| 221 | 285 | Bird Person |
 | 222 | 284 | Sarah Somers Gray |
 | 223 | 283 | Amanda Holibaugh |
 | 224 | 283 | Franswa |
@@ -236,12 +236,12 @@
 | 228 | 280 | Billie Dawn Sparks |
 | 229 | 277 | Melissa Lemmon |
 | 230 | 277 | Nutty Spinblock |
-| 231 | 275 | Cheeky Pop |
-| 232 | 275 | Chris65 |
+| 231 | 275 | Chris65 |
+| 232 | 275 | Cheeky Pop |
 | 233 | 274 | Lakeisha Chapman |
 | 234 | 273 | Shannon Marie Pitts |
-| 235 | 271 | Frothy Pattern |
-| 236 | 271 | Sam Williams |
+| 235 | 271 | Sam Williams |
+| 236 | 271 | Frothy Pattern |
 | 237 | 270 | Debbie Kane |
 | 238 | 268 | Standia Civil |
 | 239 | 267 | Daring Fitclear |
@@ -268,9 +268,9 @@
 | 260 | 244 | Tami Luce Martin |
 | 261 | 243 | Bouncy Grid |
 | 262 | 243 | Tyler L Hunt |
-| 263 | 242 | Colleen Pinette |
+| 263 | 242 | Tyler Hertzog |
 | 264 | 242 | ParisandCory Champagne |
-| 265 | 242 | Tyler Hertzog |
+| 265 | 242 | Colleen Pinette |
 | 266 | 240 | Barrbaric |
 | 267 | 239 | Adele Rahman |
 | 268 | 238 | Tiffany Smith |

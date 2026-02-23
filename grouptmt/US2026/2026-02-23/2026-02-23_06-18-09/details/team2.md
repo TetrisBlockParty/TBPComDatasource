@@ -211,8 +211,8 @@
 | 203 | 1286 | Altamirano Michael |
 | 204 | 1282 | Tanya Parsons |
 | 205 | 1259 | Foxxo |
-| 206 | 1258 | Joyce Johnson Vaughn |
-| 207 | 1258 | Snappy Matchbuilder |
+| 206 | 1258 | Snappy Matchbuilder |
+| 207 | 1258 | Joyce Johnson Vaughn |
 | 208 | 1252 | Angel |
 | 209 | 1245 | Cody Nishimura |
 | 210 | 1237 | Megan Ferguson Leone |
@@ -444,8 +444,8 @@
 | 436 | 728 | Dylan Thomason |
 | 437 | 728 | Tom Riefer |
 | 438 | 726 | Crystal Greene |
-| 439 | 725 | Karen Snyder Schrage |
-| 440 | 725 | Vonceial Boone |
+| 439 | 725 | Vonceial Boone |
+| 440 | 725 | Karen Snyder Schrage |
 | 441 | 725 | Jennie Lee Huntley |
 | 442 | 725 | Ashle Scranton |
 | 443 | 724 | Melissa Holsinger |

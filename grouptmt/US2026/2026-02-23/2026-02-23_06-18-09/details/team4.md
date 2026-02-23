@@ -73,14 +73,14 @@
 | 65 | 781 | Ashley Ingram |
 | 66 | 767 | Shannon Ferrari |
 | 67 | 766 | Robin Watters |
-| 68 | 765 | Denise Carlson |
-| 69 | 765 | Robin Getchel |
+| 68 | 765 | Robin Getchel |
+| 69 | 765 | Denise Carlson |
 | 70 | 752 | loulou |
 | 71 | 749 | Dustee Craddock-Harrison |
 | 72 | 742 | Carolyn Wallace |
 | 73 | 740 | Avy Absol |
-| 74 | 736 | Goatimus Lombardi |
-| 75 | 736 | Crystal Carroll |
+| 74 | 736 | Crystal Carroll |
+| 75 | 736 | Goatimus Lombardi |
 | 76 | 728 | D3TROITB0RN74 |
 | 77 | 723 | TheNeesh50 |
 | 78 | 706 | Lisa Davis |
@@ -146,13 +146,13 @@
 | 138 | 429 | Klo |
 | 139 | 426 | 🥔🥔 Spudz |
 | 140 | 423 | Carrie Brian |
-| 141 | 421 | Kesha Brady |
-| 142 | 421 | JIGsaw ~(•¿°)~ |
+| 141 | 421 | JIGsaw ~(•¿°)~ |
+| 142 | 421 | Kesha Brady |
 | 143 | 418 | Marie-Pier Desjardins |
 | 144 | 418 | Lush Linkfall |
 | 145 | 416 | Chaz Duncan |
-| 146 | 414 | Swanky Fitline |
-| 147 | 414 | Nope Young |
+| 146 | 414 | Nope Young |
+| 147 | 414 | Swanky Fitline |
 | 148 | 412 | Jessica Bohlken |
 | 149 | 408 | Amanda Pauldo-Ivy |
 | 150 | 406 | Damn Libra |
@@ -185,8 +185,8 @@
 | 177 | 349 | Twisty Cascadezone |
 | 178 | 349 | Rafael Valentin |
 | 179 | 348 | April Rondinone |
-| 180 | 347 | Crystal Nicolette Moore |
-| 181 | 347 | Daria Rycewicz |
+| 180 | 347 | Daria Rycewicz |
+| 181 | 347 | Crystal Nicolette Moore |
 | 182 | 339 | David Lay |
 | 183 | 336 | Bio Nelly |
 | 184 | 335 | James Hurley Jr. |
@@ -213,11 +213,11 @@
 | 205 | 304 | Lindsay Ball |
 | 206 | 303 | Dihcheese444 |
 | 207 | 301 | Andria Lynn |
-| 208 | 300 | Dana Scott |
-| 209 | 300 | Zakia Monae |
+| 208 | 300 | Zakia Monae |
+| 209 | 300 | Dana Scott |
 | 210 | 295 | Keshia Lyons |
-| 211 | 294 | Porkobello |
-| 212 | 294 | Calvin Cannon |
+| 211 | 294 | Calvin Cannon |
+| 212 | 294 | Porkobello |
 | 213 | 292 | Epic Curvetile |
 | 214 | 290 | Rebecca Morris |
 | 215 | 290 | Plucky Patternblock |
@@ -233,10 +233,10 @@
 | 225 | 281 | Nikki Rae Gordon |
 | 226 | 281 | Laura |
 | 227 | 280 | Rio Rocha |
-| 228 | 278 | Sarah Brown |
-| 229 | 278 | Angela Geist Jusinski |
-| 230 | 276 | Joeliecea Cobb |
-| 231 | 276 | Matt Dell'Olio |
+| 228 | 278 | Angela Geist Jusinski |
+| 229 | 278 | Sarah Brown |
+| 230 | 276 | Matt Dell'Olio |
+| 231 | 276 | Joeliecea Cobb |
 | 232 | 274 | JPW |
 | 233 | 273 | Cranky Rollpiece |
 | 234 | 273 | Casey Grabner |
@@ -253,8 +253,8 @@
 | 245 | 264 | ZeeZee |
 | 246 | 264 | Stella |
 | 247 | 263 | rebel4lyfe |
-| 248 | 262 | BigSammy420 |
-| 249 | 262 | Selena Shaw |
+| 248 | 262 | Selena Shaw |
+| 249 | 262 | BigSammy420 |
 | 250 | 261 | Zethra Prenisha Rahming |
 | 251 | 260 | Lori |
 | 252 | 260 | Carter Jones |
@@ -393,7 +393,7 @@
 | 385 | 175 | Jim Hart |
 | 386 | 175 | Lorena Guerrero-Barron |
 | 387 | 174 | Chummy Towerzone |
-| 388 | 174 | Mona Sharma |
+| 388 | 174 | Kathy Allen |
 | 389 | 174 | Jason Frehner |
 | 390 | 174 | Mona Sharma |
 | 391 | 173 | Tanner Lund |
@@ -539,11 +539,11 @@
 | 531 | 131 | Cheryl Johnson |
 | 532 | 130 | Holly Tracey-Grimes |
 | 533 | 130 | KoolMom9907 |
-| 534 | 129 | The Murphy |
-| 535 | 129 | Tamika Starkey |
-| 536 | 129 | Jessica Wells |
-| 537 | 129 | Dreamy Snapgrid |
-| 538 | 128 | Raymond Roberts |
+| 534 | 129 | Dreamy Snapgrid |
+| 535 | 129 | The Murphy |
+| 536 | 129 | Tamika Starkey |
+| 537 | 129 | Jessica Wells |
+| 538 | 128 | Lazy Glidepiece |
 | 539 | 128 | Zesty Linkgrid |
 | 540 | 128 | Raymond Roberts |
 | 541 | 127 | Roseanna Anderson |

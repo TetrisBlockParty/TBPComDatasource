@@ -111,8 +111,8 @@
 | 103 | 868 | Sarajane Lokan |
 | 104 | 866 | Ebony West-Cundiff |
 | 105 | 860 | Sunny Rotater |
-| 106 | 851 | Danielle Becker |
-| 107 | 851 | Jd Morris |
+| 106 | 851 | Jd Morris |
+| 107 | 851 | Danielle Becker |
 | 108 | 850 | Danielle Mogg |
 | 109 | 848 | Patricia Gadsden |
 | 110 | 831 | Angeline Joseph |
@@ -173,8 +173,8 @@
 | 165 | 591 | Michael Nowogorski |
 | 166 | 588 | Justin Ritter |
 | 167 | 587 | Louise Stacy Sisson |
-| 168 | 585 | Happy Tetriblast |
-| 169 | 585 | Annie Marie |
+| 168 | 585 | Annie Marie |
+| 169 | 585 | Happy Tetriblast |
 | 170 | 583 | Tasha Gillespie |
 | 171 | 582 | Natasha Jones |
 | 172 | 577 | Domo Washington |
@@ -205,8 +205,8 @@
 | 197 | 496 | Loopy Fallmatch |
 | 198 | 495 | Terry Jo Jones |
 | 199 | 494 | FuzzyNavel |
-| 200 | 489 | Shannon Matthew Byers |
-| 201 | 489 | Poppy Splitter |
+| 200 | 489 | Poppy Splitter |
+| 201 | 489 | Shannon Matthew Byers |
 | 202 | 488 | Melissa Orth Hunter |
 | 203 | 485 | Dapper Snap |
 | 204 | 480 | Danielle Allison |
@@ -268,8 +268,8 @@
 | 260 | 368 | Stephanie Woods |
 | 261 | 368 | Sheila M Frazier |
 | 262 | 367 | Kristin Delibac Corrigan |
-| 263 | 366 | Gumbo |
-| 264 | 366 | Randy Clevenger |
+| 263 | 366 | Randy Clevenger |
+| 264 | 366 | Gumbo |
 | 265 | 365 | Noyb Adam |
 | 266 | 364 | Steffi Chris Dacones |
 | 267 | 362 | Brandon Givens |
@@ -279,8 +279,8 @@
 | 271 | 354 | Roary Danner |
 | 272 | 354 | Andrew Thorson |
 | 273 | 354 | Kelly |
-| 274 | 353 | Dee Franklin |
-| 275 | 353 | Cyd061769 |
+| 274 | 353 | Cyd061769 |
+| 275 | 353 | Dee Franklin |
 | 276 | 352 | Christian Werndl |
 | 277 | 351 | Eon Harris |
 | 278 | 351 | Blocked |
@@ -380,12 +380,12 @@
 | 372 | 272 | Romeo |
 | 373 | 272 | Todd Hall |
 | 374 | 272 | Tay |
-| 375 | 269 | Juliana Dottore |
-| 376 | 269 | Samantha Worley |
-| 377 | 269 | Jess Bissett |
+| 375 | 269 | Samantha Worley |
+| 376 | 269 | Jess Bissett |
+| 377 | 269 | Juliana Dottore |
 | 378 | 268 | Jessica Lynn French |
-| 379 | 267 | Jul |
-| 380 | 267 | April Matthew Kibble |
+| 379 | 267 | April Matthew Kibble |
+| 380 | 267 | Jul |
 | 381 | 267 | Michael Kimbro |
 | 382 | 266 | Quirky Dropzone |
 | 383 | 265 | angieelyn |
