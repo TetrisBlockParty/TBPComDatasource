@@ -197,8 +197,8 @@
 | 189 | 465 | Jolly Dashfit |
 | 190 | 464 | Sharyn Lemire |
 | 191 | 462 | Leslie Thomas |
-| 192 | 457 | June Hoffman |
-| 193 | 457 | Kristin Manee |
+| 192 | 457 | Kristin Manee |
+| 193 | 457 | June Hoffman |
 | 194 | 455 | Michele Plunkett |
 | 195 | 450 | Amanda Pauldo-Ivy |
 | 196 | 449 | Courtney Cicoria |
@@ -225,8 +225,8 @@
 | 217 | 421 | JIGsaw ~(•¿°)~ |
 | 218 | 419 | Manny1 |
 | 219 | 419 | Chris Bernstein |
-| 220 | 418 | Lush Linkfall |
-| 221 | 418 | Marie-Pier Desjardins |
+| 220 | 418 | Marie-Pier Desjardins |
+| 221 | 418 | Lush Linkfall |
 | 222 | 414 | Silly Zonebuilder |
 | 223 | 413 | John Brunetti |
 | 224 | 411 | Autumn Kumzi |
@@ -403,9 +403,9 @@
 | 395 | 251 | Carol Ricks Raymond |
 | 396 | 251 | Kathy Allen |
 | 397 | 249 | Dapper Frame |
-| 398 | 248 | tipsy tiger |
-| 399 | 248 | Chirpy Basepiece |
-| 400 | 248 | Jose Dejesus |
+| 398 | 248 | Jose Dejesus |
+| 399 | 248 | tipsy tiger |
+| 400 | 248 | Chirpy Basepiece |
 | 401 | 247 | Tyler Bechtel |
 | 402 | 246 | Paito |
 | 403 | 246 | Shanon Klair |
@@ -526,8 +526,8 @@
 | 518 | 192 | Twisty Risebuilder |
 | 519 | 192 | Jacob Campbell |
 | 520 | 191 | Norman Klick |
-| 521 | 191 | Jobadia Steelerton |
-| 522 | 191 | Earnest Thompson |
+| 521 | 191 | Earnest Thompson |
+| 522 | 191 | Jobadia Steelerton |
 | 523 | 190 | Robert Rangel |
 | 524 | 190 | wombat |
 | 525 | 189 | Brandon Link |

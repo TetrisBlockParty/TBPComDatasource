@@ -290,8 +290,8 @@
 | 282 | 479 | Stephanie Bradley |
 | 283 | 479 | Hyper Matchzone |
 | 284 | 476 | Shunta Jacobs |
-| 285 | 475 | Rebecca Bailey |
-| 286 | 475 | Tasha Wesson-Torrence |
+| 285 | 475 | Tasha Wesson-Torrence |
+| 286 | 475 | Rebecca Bailey |
 | 287 | 474 | Tiffanie Alley |
 | 288 | 471 | Alexmac |
 | 289 | 471 | Mendoza Lee Christy |
@@ -601,7 +601,7 @@
 | 593 | 258 | Paul Daniel Quertermous |
 | 594 | 257 | Jana Polk |
 | 595 | 257 | Shiny Snapfit |
-| 596 | 257 | Jana Polk |
+| 596 | 257 | Chris Wallace |
 | 597 | 256 | Christina Rotz Shows |
 | 598 | 255 | Mariah Williams |
 | 599 | 255 | Lindsey Feuerabend |
@@ -1070,8 +1070,8 @@
 | 1062 | 148 | Tatiana Lopez |
 | 1063 | 147 | Betsey Hayes-Solano |
 | 1064 | 146 | Crystal Byram |
-| 1065 | 146 | Ash Smith |
-| 1066 | 146 | Yall Sukk |
+| 1065 | 146 | Yall Sukk |
+| 1066 | 146 | Ash Smith |
 | 1067 | 146 | Corie Prosser |
 | 1068 | 146 | Preston |
 | 1069 | 146 | Dreamy Zone |

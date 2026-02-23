@@ -164,11 +164,11 @@
 | 156 | 497 | MIKOZ |
 | 157 | 494 | Sean Stallings |
 | 158 | 492 | Rebekah LeiAnn Bonsell |
-| 159 | 491 | cc |
-| 160 | 491 | Michelle Beres |
+| 159 | 491 | Michelle Beres |
+| 160 | 491 | cc |
 | 161 | 488 | Hyper |
-| 162 | 483 | Trina Gee |
-| 163 | 483 | Dandy Basegrid |
+| 162 | 483 | Dandy Basegrid |
+| 163 | 483 | Trina Gee |
 | 164 | 482 | Sarah Somers Gray |
 | 165 | 479 | Snappy Matcher |
 | 166 | 479 | Ly Phethmany |
