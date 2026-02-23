@@ -11,7 +11,7 @@
 | 3 | 7110 | Izzie Ramirez-Ford |
 | 4 | 6387 | 'Gilberto Martinez' |
 | 5 | 5535 | Jessica Rabon |
-| 6 | 4914 | Wei Ching Fang |
+| 6 | 4603 | Wei Ching Fang |
 | 7 | 4537 | Matt |
 | 8 | 4272 | Fancy Shuffler |
 | 9 | 4049 | Alexis Cor |
@@ -43,8 +43,8 @@
 | 35 | 1413 | Trippy Redd |
 | 36 | 1405 | Chipper Gridlock |
 | 37 | 1391 | Aaron Garnett |
-| 38 | 1338 | Derek MF Blakey |
-| 39 | 1334 | june october |
+| 38 | 1334 | june october |
+| 39 | 1312 | Derek MF Blakey |
 | 40 | 1263 | Marianne Louise West |
 | 41 | 1250 | Stef Hu |
 | 42 | 1240 | Tyler Alcock |
@@ -136,8 +136,8 @@
 | 128 | 568 | Jason Savage |
 | 129 | 560 | Jazzy Framezone |
 | 130 | 556 | Susan Ward |
-| 131 | 552 | Tanya Carpenter-Reynolds |
-| 132 | 552 | Hellsin |
+| 131 | 552 | Hellsin |
+| 132 | 552 | Tanya Carpenter-Reynolds |
 | 133 | 550 | Sarah Lombardo |
 | 134 | 548 | Luciano Moreira |
 | 135 | 546 | Loony Fitzone |
@@ -149,8 +149,8 @@
 | 141 | 531 | Plucky Ziggy |
 | 142 | 528 | ALFD |
 | 143 | 527 | Tonya Beasley |
-| 144 | 523 | April Carroll |
-| 145 | 523 | BadG52 |
+| 144 | 523 | BadG52 |
+| 145 | 523 | April Carroll |
 | 146 | 522 | Adrian Esteban |
 | 147 | 521 | Nery Martinez |
 | 148 | 519 | Anaid Sanchez |
@@ -217,9 +217,9 @@
 | 209 | 398 | Tyler L Hunt |
 | 210 | 397 | Erin Rosberg |
 | 211 | 395 | Monica Donato |
-| 212 | 393 | Happy Snapbuild |
-| 213 | 393 | Lehrin Maria |
-| 214 | 393 | Wisa |
+| 212 | 393 | Lehrin Maria |
+| 213 | 393 | Wisa |
+| 214 | 393 | Happy Snapbuild |
 | 215 | 392 | Kathy Langham |
 | 216 | 387 | Carrie Smith |
 | 217 | 386 | Brian Spotts |
@@ -335,11 +335,11 @@
 | 327 | 296 | Sunny Shift |
 | 328 | 294 | Наталья Солоид |
 | 329 | 293 | Garrett Burket |
-| 330 | 292 | Fresno Beotoni |
-| 331 | 292 | Damian Salem |
-| 332 | 292 | Clever Cascadepiece |
-| 333 | 291 | Michael Espinosa Ulibarri Jr. |
-| 334 | 291 | Sir-Franchise Drake |
+| 330 | 292 | Damian Salem |
+| 331 | 292 | Clever Cascadepiece |
+| 332 | 292 | Fresno Beotoni |
+| 333 | 291 | Sir-Franchise Drake |
+| 334 | 291 | Michael Espinosa Ulibarri Jr. |
 | 335 | 291 | Toph |
 | 336 | 290 | Tavia |
 | 337 | 289 | Nate Price |

@@ -178,8 +178,8 @@
 | 170 | 762 | Santeria Trece Candles |
 | 171 | 761 | Peppy Shifter |
 | 172 | 757 | Fancy Cascader |
-| 173 | 755 | Laura Booth Wosko |
-| 174 | 755 | Tye Stovall |
+| 173 | 755 | Tye Stovall |
+| 174 | 755 | Laura Booth Wosko |
 | 175 | 742 | Jennifer Lynn Fahrenholtz-Summers |
 | 176 | 740 | Kiki |
 | 177 | 738 | Naur |
@@ -287,7 +287,7 @@
 | 279 | 490 | Marci Mize Fandrich |
 | 280 | 486 | Eileen Brady Thurber |
 | 281 | 482 | Chummy Rumbler |
-| 282 | 482 | Rebecca Bailey |
+| 282 | 482 | Fancy Curver |
 | 283 | 482 | Isabel Ocasio |
 | 284 | 481 | Rebecca Bailey |
 | 285 | 479 | Stephanie Bradley |
@@ -297,8 +297,8 @@
 | 289 | 476 | Shunta Jacobs |
 | 290 | 475 | Tasha Wesson-Torrence |
 | 291 | 474 | Tiffanie Alley |
-| 292 | 471 | Mendoza Lee Christy |
-| 293 | 471 | Alexmac |
+| 292 | 471 | Alexmac |
+| 293 | 471 | Mendoza Lee Christy |
 | 294 | 470 | thekey |
 | 295 | 468 | Betty Rosas |
 | 296 | 468 | Sarah Moyer |
