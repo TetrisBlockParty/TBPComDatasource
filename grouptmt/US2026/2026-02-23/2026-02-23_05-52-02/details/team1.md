@@ -129,8 +129,8 @@
 | 121 | 443 | Steve Schneider |
 | 122 | 439 | Dee Perry |
 | 123 | 436 | Tonya Beasley |
-| 124 | 434 | Yvonne Marie |
-| 125 | 434 | Ty Brown |
+| 124 | 434 | Ty Brown |
+| 125 | 434 | Yvonne Marie |
 | 126 | 429 | Kristi Johnson |
 | 127 | 428 | Ly Phethmany |
 | 128 | 426 | Maria C. Hernandez |
@@ -138,8 +138,8 @@
 | 130 | 425 | Dandy Basegrid |
 | 131 | 411 | BadG52 |
 | 132 | 409 | Goose egg |
-| 133 | 406 | Candy Jones |
-| 134 | 406 | Desiree Deschaine Havee |
+| 133 | 406 | Desiree Deschaine Havee |
+| 134 | 406 | Candy Jones |
 | 135 | 402 | Chris K |
 | 136 | 399 | Nery Martinez |
 | 137 | 394 | Lori Bales |
@@ -183,21 +183,21 @@
 | 175 | 341 | Nick R Montague |
 | 176 | 339 | Nicole Roseberry Weber |
 | 177 | 338 | Jennifer Hardman |
-| 178 | 337 | Jamise Brown |
-| 179 | 337 | Constance Risner |
+| 178 | 337 | Constance Risner |
+| 179 | 337 | Jamise Brown |
 | 180 | 336 | Dizzy Party |
 | 181 | 333 | Gracie |
-| 182 | 332 | Lehrin Maria |
-| 183 | 332 | Happy Basegrid |
-| 184 | 325 | GringaLinga |
-| 185 | 325 | Tyler Werts |
+| 182 | 332 | Happy Basegrid |
+| 183 | 332 | Lehrin Maria |
+| 184 | 325 | Tyler Werts |
+| 185 | 325 | GringaLinga |
 | 186 | 324 | Rat666 |
 | 187 | 323 | Madison Wicks |
 | 188 | 322 | Letson Melissa |
 | 189 | 321 | Jen Nystrom |
 | 190 | 319 | Witty Builderfit |
-| 191 | 318 | Virginia Gray Floyd |
-| 192 | 318 | Jessica Sheehan |
+| 191 | 318 | Jessica Sheehan |
+| 192 | 318 | Virginia Gray Floyd |
 | 193 | 317 | Sarah Roberts |
 | 194 | 316 | Reesey Enyart |
 | 195 | 315 | Danielle Little-Daugherty |
@@ -207,8 +207,8 @@
 | 199 | 312 | Jessi Sauer |
 | 200 | 312 | Snippy Wipebuilder |
 | 201 | 310 | Bloknboy |
-| 202 | 307 | Snappy Matcher |
-| 203 | 307 | femmefatale |
+| 202 | 307 | femmefatale |
+| 203 | 307 | Snappy Matcher |
 | 204 | 306 | Angela Renea Lester |
 | 205 | 301 | Damon J. Martin |
 | 206 | 301 | Cody Gates |

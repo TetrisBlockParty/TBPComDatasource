@@ -211,8 +211,8 @@
 | 203 | 1282 | Tanya Parsons |
 | 204 | 1282 | Ashley Rose Frederick |
 | 205 | 1259 | Foxxo |
-| 206 | 1258 | Snappy Matchbuilder |
-| 207 | 1258 | Joyce Johnson Vaughn |
+| 206 | 1258 | Joyce Johnson Vaughn |
+| 207 | 1258 | Snappy Matchbuilder |
 | 208 | 1252 | Angel |
 | 209 | 1245 | Cody Nishimura |
 | 210 | 1237 | Megan Ferguson Leone |
@@ -304,8 +304,8 @@
 | 296 | 978 | April Dawn Gussler |
 | 297 | 976 | Della Hole |
 | 298 | 976 | Sam Joe |
-| 299 | 972 | Barbra Miller |
-| 300 | 972 | Binyah-Binyah |
+| 299 | 972 | Binyah-Binyah |
+| 300 | 972 | Barbra Miller |
 | 301 | 971 | Jojo Momma |
 | 302 | 969 | Em Chen |
 | 303 | 969 | Boldy Cascadepiece |
@@ -427,8 +427,8 @@
 | 419 | 748 | Ann Matzkanin |
 | 420 | 748 | Spunkysmom |
 | 421 | 746 | Aimee Campbell |
-| 422 | 746 | Leslie Ann Carter |
-| 423 | 746 | Jerilyn Andrina |
+| 422 | 746 | Jerilyn Andrina |
+| 423 | 746 | Leslie Ann Carter |
 | 424 | 746 | Mandi Douglas Hilt |
 | 425 | 741 | Jánine Riggs |
 | 426 | 740 | Jerry Tempelmeyer |

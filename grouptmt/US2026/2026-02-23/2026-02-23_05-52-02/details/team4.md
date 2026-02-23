@@ -68,8 +68,8 @@
 | 60 | 807 | Rachel Anne |
 | 61 | 803 | Amelpss |
 | 62 | 788 | Julian Garcia |
-| 63 | 781 | Ashley Ingram |
-| 64 | 781 | Chilly Line |
+| 63 | 781 | Chilly Line |
+| 64 | 781 | Ashley Ingram |
 | 65 | 767 | Shannon Ferrari |
 | 66 | 766 | Edward White |
 | 67 | 766 | Robin Watters |
@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | KM8 |
-| 93 | 647 | Shauna Havard |
+| 92 | 647 | Shauna Havard |
+| 93 | 647 | KM8 |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -164,8 +164,8 @@
 | 156 | 391 | Ramel Rhodes |
 | 157 | 389 | Joseph Guthrie |
 | 158 | 387 | Lucas J Sutton |
-| 159 | 375 | ThaEviLJeNiuZ |
-| 160 | 375 | Desi Desporte |
+| 159 | 375 | Desi Desporte |
+| 160 | 375 | ThaEviLJeNiuZ |
 | 161 | 374 | Guy Incognito |
 | 162 | 370 | Oscar Alberto Perez |
 | 163 | 369 | Lindsey Gonzalez |
@@ -215,11 +215,11 @@
 | 207 | 300 | Zakia Monae |
 | 208 | 300 | Dihcheese444 |
 | 209 | 295 | Keshia Lyons |
-| 210 | 294 | Calvin Cannon |
-| 211 | 294 | Porkobello |
+| 210 | 294 | Porkobello |
+| 211 | 294 | Calvin Cannon |
 | 212 | 292 | Epic Curvetile |
-| 213 | 290 | Plucky Patternblock |
-| 214 | 290 | Rebecca Morris |
+| 213 | 290 | Rebecca Morris |
+| 214 | 290 | Plucky Patternblock |
 | 215 | 290 | Jared Gutwein |
 | 216 | 288 | Leah Kutz Zirbel |
 | 217 | 288 | Adam Stephanie Parker |
@@ -276,8 +276,8 @@
 | 268 | 244 | Christina Black |
 | 269 | 244 | Elizabeth Tinoco |
 | 270 | 242 | Chaz |
-| 271 | 240 | Kim Hunt |
-| 272 | 240 | Perky Patternblock |
+| 271 | 240 | Perky Patternblock |
+| 272 | 240 | Kim Hunt |
 | 273 | 239 | Denise B |
 | 274 | 239 | Joanna |
 | 275 | 238 | 中山成巳 |
@@ -319,10 +319,10 @@
 | 311 | 214 | Stacey Stano |
 | 312 | 214 | Patron Anderson |
 | 313 | 213 | Jackie Marie |
-| 314 | 212 | Brave Spinbuilder |
-| 315 | 212 | Joseph Edmonson |
-| 316 | 212 | Mike Solo |
-| 317 | 212 | Jason Bosco |
+| 314 | 212 | Joseph Edmonson |
+| 315 | 212 | Jason Bosco |
+| 316 | 212 | Brave Spinbuilder |
+| 317 | 212 | Mike Solo |
 | 318 | 212 | Zany Shatterer |
 | 319 | 211 | Chris Alexinas |
 | 320 | 210 | Ari Droff |
@@ -1043,7 +1043,7 @@
 | 1035 | 55 | BenLane |
 | 1036 | 55 | Deanna Deckard |
 | 1037 | 55 | Tanya Abernathy Jackson |
-| 1038 | 55 | Deanna Deckard |
+| 1038 | 55 | Michelle McCutcheon |
 | 1039 | 54 | Sassy Gridzone |
 | 1040 | 54 | Derick |
 | 1041 | 54 | AuDra Renee Dupre |
@@ -1278,7 +1278,7 @@
 | 1270 | 36 | Cashmere |
 | 1271 | 35 | Jessi Cinotto |
 | 1272 | 35 | netzwrk |
-| 1273 | 35 | Maria N Manuel Mendoza |
+| 1273 | 35 | Cj Austin |
 | 1274 | 35 | Sha Ta Nay Mitchell |
 | 1275 | 35 | Maria N Manuel Mendoza |
 | 1276 | 35 | Katy Schuster |

@@ -118,8 +118,8 @@
 | 110 | 831 | Angeline Joseph |
 | 111 | 830 | Stephanie Allmon |
 | 112 | 826 | Shane Wilson Jr. |
-| 113 | 816 | Brenda Lee Vander Molen |
-| 114 | 816 | Jesse Olive |
+| 113 | 816 | Jesse Olive |
+| 114 | 816 | Brenda Lee Vander Molen |
 | 115 | 800 | Lauren Girouard |
 | 116 | 799 | Dolores Falco |
 | 117 | 769 | Kristie |
@@ -168,8 +168,8 @@
 | 160 | 591 | Michael Nowogorski |
 | 161 | 588 | Justin Ritter |
 | 162 | 587 | Louise Stacy Sisson |
-| 163 | 585 | Happy Tetriblast |
-| 164 | 585 | Annie Marie |
+| 163 | 585 | Annie Marie |
+| 164 | 585 | Happy Tetriblast |
 | 165 | 582 | Natasha Jones |
 | 166 | 579 | Tasha Gillespie |
 | 167 | 577 | Domo Washington |
@@ -482,7 +482,7 @@
 | 474 | 218 | Dapper Chiseler |
 | 475 | 217 | Heather Bateman |
 | 476 | 217 | Katie Leigh Blankenship |
-| 477 | 217 | Heather Bateman |
+| 477 | 217 | Tia Moore |
 | 478 | 216 | Jl |
 | 479 | 214 | Amy Fuller Heaton |
 | 480 | 213 | Linda Draper |
