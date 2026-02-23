@@ -54,8 +54,8 @@
 | 46 | 938 | Denny Shives |
 | 47 | 936 | Rebecca Moulton Pinciaro |
 | 48 | 932 | Marvin Lou Martin |
-| 49 | 911 | Anthony Bryan Riva |
-| 50 | 911 | Jeremy Steines |
+| 49 | 911 | Jeremy Steines |
+| 50 | 911 | Anthony Bryan Riva |
 | 51 | 870 | BertMofo |
 | 52 | 863 | Pee |
 | 53 | 853 | TeeJ |
@@ -183,8 +183,8 @@
 | 175 | 356 | George Nutt |
 | 176 | 354 | TRCuse |
 | 177 | 352 | Sue Joyce Staats |
-| 178 | 349 | Rafael Valentin |
-| 179 | 349 | Twisty Cascadezone |
+| 178 | 349 | Twisty Cascadezone |
+| 179 | 349 | Rafael Valentin |
 | 180 | 348 | April Rondinone |
 | 181 | 347 | Crystal Nicolette Moore |
 | 182 | 347 | Daria Rycewicz |
@@ -312,8 +312,8 @@
 | 304 | 219 | Orchislactea |
 | 305 | 219 | Shane Vick |
 | 306 | 218 | Janita Parrish |
-| 307 | 217 | Cheery Fitline |
-| 308 | 217 | Paito |
+| 307 | 217 | Paito |
+| 308 | 217 | Cheery Fitline |
 | 309 | 217 | Alexandra Karavias |
 | 310 | 216 | Chantilly Laace |
 | 311 | 216 | mike |
@@ -1393,7 +1393,7 @@
 | 1385 | 28 | Rita Loucks |
 | 1386 | 28 | Robin Visintainer |
 | 1387 | 28 | AjJess |
-| 1388 | 28 | Ashley Cooke |
+| 1388 | 28 | Frisky Twistslam |
 | 1389 | 28 | Bryson Peebles |
 | 1390 | 28 | Ashley Cooke |
 | 1391 | 28 | Shiny Brickline |

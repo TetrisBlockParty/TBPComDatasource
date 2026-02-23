@@ -44,8 +44,8 @@
 | 36 | 4199 | Claire Noland |
 | 37 | 4128 | Angela Pruitt |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Kristen Sceurman |
-| 40 | 4120 | Corrine Hawks Soriano |
+| 39 | 4120 | Corrine Hawks Soriano |
+| 40 | 4120 | Kristen Sceurman |
 | 41 | 3845 | jayjay |
 | 42 | 3813 | Devin Lee |
 | 43 | 3778 | Brittany Alicia |
@@ -151,8 +151,8 @@
 | 143 | 1644 | Speedy Spinblock |
 | 144 | 1639 | Jessie McDougald |
 | 145 | 1629 | Mari Ac |
-| 146 | 1623 | Rebecca Doughman |
-| 147 | 1623 | Janel Turley-Garner |
+| 146 | 1623 | Janel Turley-Garner |
+| 147 | 1623 | Rebecca Doughman |
 | 148 | 1605 | Christi Hulet |
 | 149 | 1602 | blackq |
 | 150 | 1601 | Ray Ray Prado |
@@ -212,8 +212,8 @@
 | 204 | 1286 | Altamirano Michael |
 | 205 | 1282 | Tanya Parsons |
 | 206 | 1259 | Foxxo |
-| 207 | 1258 | Joyce Johnson Vaughn |
-| 208 | 1258 | Snappy Matchbuilder |
+| 207 | 1258 | Snappy Matchbuilder |
+| 208 | 1258 | Joyce Johnson Vaughn |
 | 209 | 1252 | Angel |
 | 210 | 1245 | Cody Nishimura |
 | 211 | 1240 | Brandon Armstrong |
@@ -313,8 +313,8 @@
 | 305 | 969 | Boldy Cascadepiece |
 | 306 | 965 | F-X |
 | 307 | 961 | Angela Lynn |
-| 308 | 958 | Doowop40 |
-| 309 | 958 | Brenda Messer |
+| 308 | 958 | Brenda Messer |
+| 309 | 958 | Doowop40 |
 | 310 | 957 | Block Master |
 | 311 | 956 | Phil J. Grombliniak |
 | 312 | 955 | Angela Bonquiqui Dinish |
@@ -339,8 +339,8 @@
 | 331 | 903 | Giggy Blocker |
 | 332 | 902 | William Hunt |
 | 333 | 901 | Kevin Sees |
-| 334 | 899 | Patrick Bartlett |
-| 335 | 899 | Chevy |
+| 334 | 899 | Chevy |
+| 335 | 899 | Patrick Bartlett |
 | 336 | 898 | Jamie Otero |
 | 337 | 895 | Donna Colby |
 | 338 | 890 | Carl Bradshaw |
@@ -383,9 +383,9 @@
 | 375 | 816 | Beth |
 | 376 | 816 | James Simms III |
 | 377 | 812 | Samantha Jo |
-| 378 | 808 | Connie Jimenez |
-| 379 | 808 | Desire Rice |
-| 380 | 808 | Laura McCarthey |
+| 378 | 808 | Desire Rice |
+| 379 | 808 | Laura McCarthey |
+| 380 | 808 | Connie Jimenez |
 | 381 | 804 | Becca Coronado |
 | 382 | 801 | Diana Fitzwater |
 | 383 | 801 | Gold Rose |
@@ -402,8 +402,8 @@
 | 394 | 787 | Tiara Elizabeth Baker |
 | 395 | 783 | John Rodriguez |
 | 396 | 779 | Kayla |
-| 397 | 777 | Tesha Oldaker |
-| 398 | 777 | Jessicah Myers |
+| 397 | 777 | Jessicah Myers |
+| 398 | 777 | Tesha Oldaker |
 | 399 | 776 | Fancy Twister |
 | 400 | 776 | Mighty Spinbuilder |
 | 401 | 775 | Crystie Hicks |
@@ -428,8 +428,8 @@
 | 420 | 751 | Loony Snapper |
 | 421 | 751 | Breezy Filler |
 | 422 | 750 | Mandi Douglas Hilt |
-| 423 | 748 | Ann Matzkanin |
-| 424 | 748 | Brenda Utphall |
+| 423 | 748 | Brenda Utphall |
+| 424 | 748 | Ann Matzkanin |
 | 425 | 748 | Spunkysmom |
 | 426 | 746 | Leslie Ann Carter |
 | 427 | 746 | Jerilyn Andrina |

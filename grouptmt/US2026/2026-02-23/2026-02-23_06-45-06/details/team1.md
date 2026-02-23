@@ -183,8 +183,8 @@
 | 175 | 346 | GATOR |
 | 176 | 346 | Erin Rosberg |
 | 177 | 345 | Jerry Danowski |
-| 178 | 343 | Chelsea Dahlquist |
-| 179 | 343 | Elaine Elaine |
+| 178 | 343 | Elaine Elaine |
+| 179 | 343 | Chelsea Dahlquist |
 | 180 | 341 | Nick R Montague |
 | 181 | 339 | Nicole Roseberry Weber |
 | 182 | 338 | Jennifer Hardman |
@@ -296,10 +296,10 @@
 | 288 | 229 | Dino |
 | 289 | 229 | Tamara Brown |
 | 290 | 228 | .running. |
-| 291 | 227 | John Ramirez |
-| 292 | 227 | Happy Snapbuild |
-| 293 | 226 | Glitzy Buildsnap |
-| 294 | 226 | Snappy Brickbuilder |
+| 291 | 227 | Happy Snapbuild |
+| 292 | 227 | John Ramirez |
+| 293 | 226 | Snappy Brickbuilder |
+| 294 | 226 | Glitzy Buildsnap |
 | 295 | 225 | Angela Spann |
 | 296 | 224 | Danielle Mae |
 | 297 | 224 | Jumpy Rotate |
