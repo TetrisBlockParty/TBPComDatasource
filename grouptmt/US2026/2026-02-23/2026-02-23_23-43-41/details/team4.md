@@ -492,8 +492,8 @@
 | 484 | 208 | Stacy |
 | 485 | 208 | Moonsterix |
 | 486 | 208 | Wacky Blockclear |
-| 487 | 207 | Sam Middleton |
-| 488 | 207 | Jessica Wells |
+| 487 | 207 | Jessica Wells |
+| 488 | 207 | Sam Middleton |
 | 489 | 207 | SammieJo Guy |
 | 490 | 206 | Grann8 |
 | 491 | 206 | James Philpot Ross |
