@@ -311,11 +311,11 @@
 | 303 | 976 | Sam Joe |
 | 304 | 976 | Della Hole |
 | 305 | 975 | Hyper Cluster |
-| 306 | 972 | Barbra Miller |
-| 307 | 972 | Binyah-Binyah |
+| 306 | 972 | Binyah-Binyah |
+| 307 | 972 | Barbra Miller |
 | 308 | 971 | Jojo Momma |
-| 309 | 969 | Boldy Cascadepiece |
-| 310 | 969 | Em Chen |
+| 309 | 969 | Em Chen |
+| 310 | 969 | Boldy Cascadepiece |
 | 311 | 961 | Angela Lynn |
 | 312 | 959 | Phil J. Grombliniak |
 | 313 | 958 | Brenda Messer |
@@ -345,8 +345,8 @@
 | 337 | 904 | Bee |
 | 338 | 903 | Giggy Blocker |
 | 339 | 901 | Kevin Sees |
-| 340 | 899 | Chevy |
-| 341 | 899 | Patrick Bartlett |
+| 340 | 899 | Patrick Bartlett |
+| 341 | 899 | Chevy |
 | 342 | 898 | Jamie Otero |
 | 343 | 895 | Donna Colby |
 | 344 | 894 | Adira Brown |
@@ -421,8 +421,8 @@
 | 413 | 766 | Aimee Campbell |
 | 414 | 764 | Victoria Regina Girolami |
 | 415 | 764 | Kiely Tomaskovich |
-| 416 | 763 | Dreamy Blast |
-| 417 | 763 | Heather Causey |
+| 416 | 763 | Heather Causey |
+| 417 | 763 | Dreamy Blast |
 | 418 | 761 | Jerilyn Andrina |
 | 419 | 760 | Ashley Guernsey-Martin |
 | 420 | 760 | Cheech Dta |
@@ -814,8 +814,8 @@
 | 806 | 447 | Boozi |
 | 807 | 446 | Colin Morgan |
 | 808 | 446 | Courtney Burcham |
-| 809 | 445 | Mar Q Thomas |
-| 810 | 445 | Beatboxxer |
+| 809 | 445 | Beatboxxer |
+| 810 | 445 | Mar Q Thomas |
 | 811 | 444 | Angela Murgia-Owen |
 | 812 | 443 | Giggy Grabber |
 | 813 | 443 | Dimitra Zazara |
@@ -865,8 +865,8 @@
 | 857 | 420 | Krys |
 | 858 | 420 | Lathasa Newkirk |
 | 859 | 420 | Boogie SoAnimated Johnson |
-| 860 | 419 | Erin Reid |
-| 861 | 419 | Josh Dill |
+| 860 | 419 | Josh Dill |
+| 861 | 419 | Erin Reid |
 | 862 | 418 | Bold Brickster |
 | 863 | 417 | Tristan Szolek |
 | 864 | 417 | Rebecca Garland |
@@ -1100,8 +1100,8 @@
 | 1092 | 344 | Dean Glenn |
 | 1093 | 344 | J.L. Roberts |
 | 1094 | 343 | Kat |
-| 1095 | 343 | Ovk Manman |
-| 1096 | 343 | Joshua Mullings |
+| 1095 | 343 | Joshua Mullings |
+| 1096 | 343 | Ovk Manman |
 | 1097 | 343 | Scott |
 | 1098 | 343 | Alexandrea |
 | 1099 | 342 | SwifftFox |

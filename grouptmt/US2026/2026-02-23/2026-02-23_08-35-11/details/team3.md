@@ -114,15 +114,15 @@
 | 106 | 869 | Araceli Parra |
 | 107 | 868 | Sarajane Lokan |
 | 108 | 860 | Sunny Rotater |
-| 109 | 851 | Danielle Becker |
-| 110 | 851 | Jd Morris |
+| 109 | 851 | Jd Morris |
+| 110 | 851 | Danielle Becker |
 | 111 | 850 | Danielle Mogg |
 | 112 | 848 | Patricia Gadsden |
 | 113 | 831 | Angeline Joseph |
 | 114 | 830 | Stephanie Allmon |
 | 115 | 826 | Shane Wilson Jr. |
-| 116 | 816 | Jesse Olive |
-| 117 | 816 | Brenda Lee Vander Molen |
+| 116 | 816 | Brenda Lee Vander Molen |
+| 117 | 816 | Jesse Olive |
 | 118 | 802 | Bobbi Moore |
 | 119 | 800 | Lauren Girouard |
 | 120 | 799 | Dolores Falco |
@@ -346,8 +346,8 @@
 | 338 | 299 | Angie Harper |
 | 339 | 299 | TotoCherue |
 | 340 | 299 | Hasty Gridpiece |
-| 341 | 298 | Grams |
-| 342 | 298 | Dannie Litchard |
+| 341 | 298 | Dannie Litchard |
+| 342 | 298 | Grams |
 | 343 | 297 | kacihall |
 | 344 | 296 | Tracy Martin |
 | 345 | 296 | Donna |
@@ -517,12 +517,12 @@
 | 509 | 210 | Kristian Thurman |
 | 510 | 210 | Megan Riggins |
 | 511 | 209 | Ginger Gray |
-| 512 | 209 | Jumpy Wrecker |
-| 513 | 209 | TazB |
+| 512 | 209 | TazB |
+| 513 | 209 | Jumpy Wrecker |
 | 514 | 208 | Jessica Christian |
 | 515 | 208 | Luccy Luxe |
-| 516 | 207 | Misstery |
-| 517 | 207 | Nichol Graham |
+| 516 | 207 | Nichol Graham |
+| 517 | 207 | Misstery |
 | 518 | 206 | Tammy Rosenberry |
 | 519 | 206 | Dakota Graham |
 | 520 | 205 | Emberblaze |
