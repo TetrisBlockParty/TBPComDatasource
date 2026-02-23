@@ -224,7 +224,7 @@
 | 216 | 268 | Reesey Enyart |
 | 217 | 267 | Debbie Kane |
 | 218 | 265 | Kandae |
-| 219 | 264 | Brave Wrecker |
+| 219 | 264 | Standia Civil |
 | 220 | 264 | Jenny Gingrich Fuentes |
 | 221 | 264 | Brave Wrecker |
 | 222 | 263 | Jessie Lynn |
@@ -244,8 +244,8 @@
 | 236 | 251 | MRdot Rooski |
 | 237 | 249 | Sam Williams |
 | 238 | 247 | Brenda Alexander |
-| 239 | 245 | LaFontaine Leslie |
-| 240 | 245 | Matt Iaccheo |
+| 239 | 245 | Matt Iaccheo |
+| 240 | 245 | LaFontaine Leslie |
 | 241 | 244 | Eddie Dillon |
 | 242 | 242 | ParisandCory Champagne |
 | 243 | 241 | Tyler Hertzog |
@@ -293,8 +293,8 @@
 | 285 | 215 | Panda Thagreat |
 | 286 | 215 | Shaykmia |
 | 287 | 214 | Tiger Lily |
-| 288 | 213 | Poppy Riserpiece |
-| 289 | 213 | John Barron |
+| 288 | 213 | John Barron |
+| 289 | 213 | Poppy Riserpiece |
 | 290 | 212 | Michelle Beres |
 | 291 | 211 | Jeanna Dunn |
 | 292 | 209 | Breanna Luna |
@@ -317,8 +317,8 @@
 | 309 | 199 | Tina Englert |
 | 310 | 199 | Christina Norman |
 | 311 | 197 | build master |
-| 312 | 196 | Marci Sanders |
-| 313 | 196 | .running. |
+| 312 | 196 | .running. |
+| 313 | 196 | Marci Sanders |
 | 314 | 195 | Herm Junior |
 | 315 | 195 | Beazel75 |
 | 316 | 193 | Snappy Brickbuilder |

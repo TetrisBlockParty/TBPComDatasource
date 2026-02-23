@@ -61,8 +61,8 @@
 | 53 | 1276 | Aaron Pitkin |
 | 54 | 1269 | Amber Jones |
 | 55 | 1258 | Jennifer Petrie |
-| 56 | 1256 | Jessica Bechler |
-| 57 | 1256 | Mahman |
+| 56 | 1256 | Mahman |
+| 57 | 1256 | Jessica Bechler |
 | 58 | 1191 | Nate Burnside |
 | 59 | 1167 | Elaine Webb Graves |
 | 60 | 1141 | Queen Kam |
@@ -157,12 +157,12 @@
 | 149 | 582 | Natasha Jones |
 | 150 | 579 | Tasha Gillespie |
 | 151 | 574 | Morgan Martinez |
-| 152 | 572 | CeceGeGe |
-| 153 | 572 | Domo Washington |
+| 152 | 572 | Domo Washington |
+| 153 | 572 | CeceGeGe |
 | 154 | 571 | Nicole Myers |
 | 155 | 568 | Rachael McClain Owens |
-| 156 | 562 | Louise Stacy Sisson |
-| 157 | 562 | Dave Herzog |
+| 156 | 562 | Dave Herzog |
+| 157 | 562 | Louise Stacy Sisson |
 | 158 | 553 | LaTanya GeminiondaRise Johnson |
 | 159 | 549 | Peppy Shifter |
 | 160 | 546 | Cynthia Castros-Hampton |
@@ -235,21 +235,21 @@
 | 227 | 387 | Gideon Walker |
 | 228 | 384 | Marci Mize Fandrich |
 | 229 | 383 | Darlene McMillan |
-| 230 | 382 | Scott Carleton |
-| 231 | 382 | Giddy Twistbuilder |
+| 230 | 382 | Giddy Twistbuilder |
+| 231 | 382 | Scott Carleton |
 | 232 | 380 | Rebecca Bailey |
 | 233 | 378 | Chris Bell |
 | 234 | 375 | Duane Bright |
 | 235 | 375 | Kristal C Lee |
 | 236 | 373 | Rebecca Funderburk Kirby |
-| 237 | 372 | Sarah Moyer |
-| 238 | 372 | Rich LeBlanc |
+| 237 | 372 | Rich LeBlanc |
+| 238 | 372 | Sarah Moyer |
 | 239 | 370 | RickyG |
 | 240 | 369 | Marquita Sheard |
 | 241 | 369 | Keis |
 | 242 | 368 | Stephanie Woods |
-| 243 | 365 | Chummy Caster |
-| 244 | 365 | Noyb Adam |
+| 243 | 365 | Noyb Adam |
+| 244 | 365 | Chummy Caster |
 | 245 | 364 | Steffi Chris Dacones |
 | 246 | 362 | Brandon Givens |
 | 247 | 361 | Shawn Miller |
@@ -513,7 +513,7 @@
 | 505 | 183 | Scott Doss |
 | 506 | 182 | BabyTonj Evans |
 | 507 | 182 | Kali Kelz Williams |
-| 508 | 182 | Johnathan Dowe |
+| 508 | 182 | Silver Marchán |
 | 509 | 182 | Alicia |
 | 510 | 182 | Sarah Whalen |
 | 511 | 182 | Johnathan Dowe |
