@@ -345,8 +345,8 @@
 | 337 | 904 | Bee |
 | 338 | 903 | Giggy Blocker |
 | 339 | 901 | Kevin Sees |
-| 340 | 899 | Patrick Bartlett |
-| 341 | 899 | Chevy |
+| 340 | 899 | Chevy |
+| 341 | 899 | Patrick Bartlett |
 | 342 | 898 | Jamie Otero |
 | 343 | 895 | Donna Colby |
 | 344 | 888 | Donna M Carter |
@@ -492,8 +492,8 @@
 | 484 | 680 | blume |
 | 485 | 679 | Kassandra Hunt |
 | 486 | 677 | Kayleigh Wisse |
-| 487 | 677 | Amanda Woodruff |
-| 488 | 677 | Paul Combs |
+| 487 | 677 | Paul Combs |
+| 488 | 677 | Amanda Woodruff |
 | 489 | 676 | Roseanna Peloso |
 | 490 | 676 | Nicky Jackson |
 | 491 | 675 | Lonne Emade |
@@ -522,8 +522,8 @@
 | 514 | 646 | Jazzy Clusterline |
 | 515 | 644 | Véronique Lévesque Sabourin |
 | 516 | 643 | Michelle Pike |
-| 517 | 642 | Michelle Fields |
-| 518 | 642 | Cassie Maynard |
+| 517 | 642 | Cassie Maynard |
+| 518 | 642 | Michelle Fields |
 | 519 | 640 | Belle |
 | 520 | 639 | Jackie Avila |
 | 521 | 639 | Alexandra Weir |
@@ -860,8 +860,8 @@
 | 852 | 419 | Josh Dill |
 | 853 | 419 | Erin Reid |
 | 854 | 418 | Bold Brickster |
-| 855 | 417 | Tristan Szolek |
-| 856 | 417 | Rebecca Garland |
+| 855 | 417 | Rebecca Garland |
+| 856 | 417 | Tristan Szolek |
 | 857 | 417 | Janai Vrabel |
 | 858 | 417 | Mandy Kachenmeister |
 | 859 | 416 | Alicia Moreno |
@@ -1538,8 +1538,8 @@
 | 1530 | 254 | Elizabeth Diraffaele |
 | 1531 | 254 | Plucky Dashy |
 | 1532 | 253 | Kim King |
-| 1533 | 253 | Snazzy Crawler |
-| 1534 | 253 | Lynzekwi |
+| 1533 | 253 | Lynzekwi |
+| 1534 | 253 | Snazzy Crawler |
 | 1535 | 253 | D5wag2014 |
 | 1536 | 253 | Cynthia Knox |
 | 1537 | 253 | 2 kool |

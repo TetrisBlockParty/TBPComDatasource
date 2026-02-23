@@ -36,8 +36,8 @@
 | 28 | 1237 | Christina Graham |
 | 29 | 1191 | Nerdy Linkblock |
 | 30 | 1175 | Tyler Alcock |
-| 31 | 1126 | Tater |
-| 32 | 1126 | Felicia Lewis |
+| 31 | 1126 | Felicia Lewis |
+| 32 | 1126 | Tater |
 | 33 | 1122 | Amanda Summey Schoemer |
 | 34 | 1119 | june october |
 | 35 | 1114 | Jayme Sellers |
@@ -82,8 +82,8 @@
 | 74 | 703 | Angel Fowler |
 | 75 | 689 | Susanna Guerry |
 | 76 | 679 | Hasbro Bros |
-| 77 | 657 | Tee Sheree |
-| 78 | 657 | Cynthia Bradley |
+| 77 | 657 | Cynthia Bradley |
+| 78 | 657 | Tee Sheree |
 | 79 | 655 | Brenda Stewart |
 | 80 | 647 | Jason Jones |
 | 81 | 645 | Robert Benito |
@@ -97,13 +97,13 @@
 | 89 | 575 | Nancy Green |
 | 90 | 570 | Cody Slav |
 | 91 | 562 | Denice Dee |
-| 92 | 534 | Loony Fitzone |
-| 93 | 534 | Veronica Eve |
+| 92 | 534 | Veronica Eve |
+| 93 | 534 | Loony Fitzone |
 | 94 | 529 | Ryan Lunnin |
 | 95 | 522 | Sarah Lombardo |
 | 96 | 511 | Mario Cab |
-| 97 | 510 | Colena Davenport |
-| 98 | 510 | Chirpy Smasher |
+| 97 | 510 | Chirpy Smasher |
+| 98 | 510 | Colena Davenport |
 | 99 | 509 | Rachael |
 | 100 | 497 | Arianna O'Brien |
 | 101 | 493 | Jennifer ManWarren |
@@ -124,8 +124,8 @@
 | 116 | 452 | Hyper |
 | 117 | 451 | Plucky Ziggy |
 | 118 | 450 | lil mickey |
-| 119 | 448 | Sweet Baker |
-| 120 | 448 | Jazzy Framezone |
+| 119 | 448 | Jazzy Framezone |
+| 120 | 448 | Sweet Baker |
 | 121 | 446 | SkipTheSadSauce |
 | 122 | 443 | Steve Schneider |
 | 123 | 439 | Dee Perry |
@@ -191,8 +191,8 @@
 | 183 | 341 | Nick R Montague |
 | 184 | 339 | Nicole Roseberry Weber |
 | 185 | 338 | Jennifer Hardman |
-| 186 | 337 | Jamise Brown |
-| 187 | 337 | Constance Risner |
+| 186 | 337 | Constance Risner |
+| 187 | 337 | Jamise Brown |
 | 188 | 336 | Dizzy Party |
 | 189 | 333 | Gracie |
 | 190 | 333 | Virginia Gray Floyd |
@@ -305,8 +305,8 @@
 | 297 | 226 | Glitzy Buildsnap |
 | 298 | 226 | Snappy Brickbuilder |
 | 299 | 225 | Angela Spann |
-| 300 | 224 | Jumpy Rotate |
-| 301 | 224 | Danielle Mae |
+| 300 | 224 | Danielle Mae |
+| 301 | 224 | Jumpy Rotate |
 | 302 | 223 | Christina Backer |
 | 303 | 223 | Erez Yosef |
 | 304 | 223 | Chris Dawson |
@@ -453,9 +453,9 @@
 | 445 | 162 | Jo Kerley |
 | 446 | 162 | Nerdy Curvebuilder |
 | 447 | 161 | Matthew Foley |
-| 448 | 160 | Hasty Cascader |
-| 449 | 160 | Jeremy Maubert |
-| 450 | 160 | Sunny Catcher |
+| 448 | 160 | Sunny Catcher |
+| 449 | 160 | Hasty Cascader |
+| 450 | 160 | Jeremy Maubert |
 | 451 | 159 | Uhog SF |
 | 452 | 159 | Krista Young |
 | 453 | 158 | Teddy Alexander |
@@ -490,8 +490,8 @@
 | 482 | 149 | MIKOZ |
 | 483 | 149 | Kimberly Davis |
 | 484 | 148 | Sir-Franchise Drake |
-| 485 | 147 | Jodee Woods |
-| 486 | 147 | Javyjavz |
+| 485 | 147 | Javyjavz |
+| 486 | 147 | Jodee Woods |
 | 487 | 147 | Carl Claunch |
 | 488 | 146 | Brad MG |
 | 489 | 146 | Nathan William |

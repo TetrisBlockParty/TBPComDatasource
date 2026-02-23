@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | KM8 |
-| 93 | 647 | Shauna Havard |
+| 92 | 647 | Shauna Havard |
+| 93 | 647 | KM8 |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -122,8 +122,8 @@
 | 114 | 519 | Nugget |
 | 115 | 517 | Christina LR |
 | 116 | 517 | shar |
-| 117 | 514 | Serena Goodridge |
-| 118 | 514 | Scott Jameson |
+| 117 | 514 | Scott Jameson |
+| 118 | 514 | Serena Goodridge |
 | 119 | 513 | Erin Thomas |
 | 120 | 512 | Casey Jeffcoat |
 | 121 | 512 | Cristy Duerksen |
@@ -311,7 +311,7 @@
 | 303 | 221 | Joseph Edmonson |
 | 304 | 220 | Jumpy Zonepiece |
 | 305 | 220 | Tina Lopez |
-| 306 | 220 | Jumpy Zonepiece |
+| 306 | 220 | Ziggy |
 | 307 | 220 | Nita Wells |
 | 308 | 219 | Shane Vick |
 | 309 | 219 | Orchislactea |
@@ -457,10 +457,10 @@
 | 449 | 160 | Heather Layne Smith |
 | 450 | 159 | Groovy Brickmatch |
 | 451 | 159 | Stacy |
-| 452 | 158 | Dapper Frame |
-| 453 | 158 | Jasmine S Caldwell |
-| 454 | 157 | Ryry |
-| 455 | 157 | LunaMoon |
+| 452 | 158 | Jasmine S Caldwell |
+| 453 | 158 | Dapper Frame |
+| 454 | 157 | LunaMoon |
+| 455 | 157 | Ryry |
 | 456 | 157 | David Boggs |
 | 457 | 156 | Funky Risepiece |
 | 458 | 156 | Mighty Edgepiece |
@@ -571,9 +571,9 @@
 | 563 | 124 | Cj Lewis-haut |
 | 564 | 123 | Mike Nelson |
 | 565 | 123 | MOCHA |
-| 566 | 123 | Mike Nelson |
-| 567 | 123 | Lazy Column |
-| 568 | 122 | Mike Burlingame |
+| 566 | 123 | Lazy Column |
+| 567 | 123 | mini |
+| 568 | 122 | meowmew |
 | 569 | 122 | bloat princess |
 | 570 | 122 | Martha Lucinda Bishop |
 | 571 | 122 | Mike Burlingame |
