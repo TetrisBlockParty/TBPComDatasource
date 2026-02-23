@@ -51,8 +51,8 @@
 | 43 | 1116 | Koshin Abdirahman |
 | 44 | 1085 | Kimyatta Cavin |
 | 45 | 1085 | Ashley Ingram |
-| 46 | 1082 | Dawn Alexander |
-| 47 | 1082 | Dion Crommarty |
+| 46 | 1082 | Dion Crommarty |
+| 47 | 1082 | Dawn Alexander |
 | 48 | 1071 | Cherrish Duren |
 | 49 | 1049 | Heather Tushner |
 | 50 | 1046 | Johnathan Martinez |
@@ -905,7 +905,7 @@
 | 897 | 81 | Tiffany Root |
 | 898 | 81 | Jess |
 | 899 | 81 | Molly Ananda Rickerson |
-| 900 | 81 | Jay-Remy Stringseer |
+| 900 | 81 | Bold Buildsnap |
 | 901 | 81 | Jamie Hirtle |
 | 902 | 81 | Zippy Stack |
 | 903 | 81 | Jay-Remy Stringseer |

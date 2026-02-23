@@ -82,8 +82,8 @@
 | 74 | 1258 | Danielle Cutler |
 | 75 | 1244 | Lori Barnaby |
 | 76 | 1221 | Betty Ivy |
-| 77 | 1213 | Nerdy Riseclear |
-| 78 | 1213 | Snappy Glidepiece |
+| 77 | 1213 | Snappy Glidepiece |
+| 78 | 1213 | Nerdy Riseclear |
 | 79 | 1209 | Amanda Adkins |
 | 80 | 1186 | Christian A. Pollard |
 | 81 | 1184 | Calista Jo Dickson |
@@ -139,8 +139,8 @@
 | 131 | 774 | Keith J Oshman Jr. |
 | 132 | 773 | Daira Largen |
 | 133 | 770 | Daryn Elliott |
-| 134 | 764 | Groovy Catcher |
-| 135 | 764 | Hasty Cascadefit |
+| 134 | 764 | Hasty Cascadefit |
+| 135 | 764 | Groovy Catcher |
 | 136 | 762 | Speedy Bridger |
 | 137 | 757 | Fancy Cascader |
 | 138 | 756 | Patty Allen |
@@ -318,8 +318,8 @@
 | 310 | 368 | Sheila M Frazier |
 | 311 | 368 | Christian Werndl |
 | 312 | 365 | LaShey Thompson |
-| 313 | 362 | Foltz Lee Kelli |
-| 314 | 362 | Brandon Givens |
+| 313 | 362 | Brandon Givens |
+| 314 | 362 | Foltz Lee Kelli |
 | 315 | 361 | Breanna Marsden |
 | 316 | 360 | Dee Pratt |
 | 317 | 359 | Steven Fulater |

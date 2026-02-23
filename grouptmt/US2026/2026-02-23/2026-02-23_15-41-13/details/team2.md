@@ -383,8 +383,8 @@
 | 375 | 907 | Gene Mills |
 | 376 | 907 | Kayla |
 | 377 | 904 | John Bednarik |
-| 378 | 903 | Giggy Blocker |
-| 379 | 903 | Eric Castaneda |
+| 378 | 903 | Eric Castaneda |
+| 379 | 903 | Giggy Blocker |
 | 380 | 902 | Diallo Sparkman |
 | 381 | 899 | Felicia Lynn |
 | 382 | 899 | Patrick Bartlett |
@@ -587,14 +587,14 @@
 | 579 | 645 | James Smith |
 | 580 | 645 | Andre Love |
 | 581 | 643 | Michelle Pike |
-| 582 | 642 | snkylnk |
-| 583 | 642 | Samantha Scibelli |
+| 582 | 642 | Samantha Scibelli |
+| 583 | 642 | snkylnk |
 | 584 | 642 | Michelle Fields |
 | 585 | 641 | Snazzy Basepiece |
 | 586 | 640 | Slinky Racker |
 | 587 | 639 | Belle Mari |
-| 588 | 639 | Toni Roberson |
-| 589 | 639 | Libby Hicks |
+| 588 | 639 | Libby Hicks |
+| 589 | 639 | Toni Roberson |
 | 590 | 638 | Maya June |
 | 591 | 638 | Leah Keesling |
 | 592 | 637 | Koa N Sharon Chen |
