@@ -443,15 +443,15 @@
 | 435 | 907 | Gene Mills |
 | 436 | 905 | Adam Simmons |
 | 437 | 903 | Ashle Scranton |
-| 438 | 903 | Sarah DeHart |
-| 439 | 903 | Eric Castaneda |
+| 438 | 903 | Eric Castaneda |
+| 439 | 903 | Sarah DeHart |
 | 440 | 902 | Brenda Utphall |
 | 441 | 899 | Patrick Bartlett |
 | 442 | 899 | Chevy |
 | 443 | 898 | Dylan Thomason |
 | 444 | 897 | Jamie Schmitt |
-| 445 | 895 | Lisa Ongtowasruk |
-| 446 | 895 | Donna Colby |
+| 445 | 895 | Donna Colby |
+| 446 | 895 | Lisa Ongtowasruk |
 | 447 | 894 | Adira Brown |
 | 448 | 892 | Samantha Scibelli |
 | 449 | 890 | Alex Stone LaRue |
@@ -531,8 +531,8 @@
 | 523 | 790 | Dawn L Washington-Feuquay |
 | 524 | 789 | Leslie Jorgenson |
 | 525 | 788 | Samuel Macon |
-| 526 | 786 | Kimberly Randesi |
-| 527 | 786 | Charvi' Carter |
+| 526 | 786 | Charvi' Carter |
+| 527 | 786 | Kimberly Randesi |
 | 528 | 785 | Miranda Morris |
 | 529 | 781 | Sarah Berger |
 | 530 | 779 | Trinity Oak |
@@ -581,8 +581,8 @@
 | 573 | 737 | Breezy Clusterer |
 | 574 | 736 | Ashley Munn |
 | 575 | 734 | Emily Lyric Converse |
-| 576 | 733 | Lylymom |
-| 577 | 733 | Joce Lynn |
+| 576 | 733 | Joce Lynn |
+| 577 | 733 | Lylymom |
 | 578 | 733 | Christine Bollig |
 | 579 | 731 | Melissa Holsinger |
 | 580 | 729 | goofinoff |
@@ -642,8 +642,8 @@
 | 634 | 674 | Iris Angelica Perez Cantos |
 | 635 | 673 | trabuco |
 | 636 | 672 | John Jubes |
-| 637 | 670 | Jennifer Monroe Kelly |
-| 638 | 670 | Jessica S Flecha |
+| 637 | 670 | Jessica S Flecha |
+| 638 | 670 | Jennifer Monroe Kelly |
 | 639 | 669 | Martina Gabrielle LaPolla |
 | 640 | 668 | Gloria Ininahazwe |
 | 641 | 668 | Jazzy Clusterline |
@@ -1267,10 +1267,10 @@
 | 1259 | 396 | Amy Humphreys |
 | 1260 | 396 | Cassie Newton |
 | 1261 | 395 | Daring Matchfit |
-| 1262 | 395 | Alphia Price |
-| 1263 | 395 | Ashley McCarthy-Arnone |
-| 1264 | 395 | Treshell Boyd |
-| 1265 | 395 | Edna Combs |
+| 1262 | 395 | Ashley McCarthy-Arnone |
+| 1263 | 395 | Alphia Price |
+| 1264 | 395 | Edna Combs |
+| 1265 | 395 | Treshell Boyd |
 | 1266 | 394 | Sar Mo |
 | 1267 | 394 | LML |
 | 1268 | 394 | Tanya Eubanks |

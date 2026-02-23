@@ -44,8 +44,8 @@
 | 36 | 2097 | Kay |
 | 37 | 2059 | Beelow Bently |
 | 38 | 1992 | Shandrea Crawford |
-| 39 | 1978 | Ashley Kiara |
-| 40 | 1978 | Dan Rob |
+| 39 | 1978 | Dan Rob |
+| 40 | 1978 | Ashley Kiara |
 | 41 | 1949 | Calista Jo Dickson |
 | 42 | 1918 | Trezure Gonzalez |
 | 43 | 1907 | Jamie Furr |
@@ -222,8 +222,8 @@
 | 214 | 590 | Shawn Miller |
 | 215 | 587 | Louise Stacy Sisson |
 | 216 | 586 | Connie Mohler-Fair |
-| 217 | 585 | Salena Whitlock |
-| 218 | 585 | Jim Mathews |
+| 217 | 585 | Jim Mathews |
+| 218 | 585 | Salena Whitlock |
 | 219 | 585 | Happy Tetriblast |
 | 220 | 582 | Natasha Jones |
 | 221 | 581 | Dee Pratt |
@@ -232,8 +232,8 @@
 | 224 | 569 | Michael Johnson |
 | 225 | 568 | Rachael McClain Owens |
 | 226 | 566 | LaTanya GeminiondaRise Johnson |
-| 227 | 564 | Poppy Splitter |
-| 228 | 564 | Christine Trester |
+| 227 | 564 | Christine Trester |
+| 228 | 564 | Poppy Splitter |
 | 229 | 563 | Fallorina Susana |
 | 230 | 562 | Dave Herzog |
 | 231 | 561 | Silly Twist |
@@ -264,8 +264,8 @@
 | 256 | 515 | Cozy Snaplink |
 | 257 | 514 | France Vézina |
 | 258 | 513 | Lizabeth Fox |
-| 259 | 513 | PrncssPJ |
-| 260 | 513 | Giggy Glidepiece |
+| 259 | 513 | Giggy Glidepiece |
+| 260 | 513 | PrncssPJ |
 | 261 | 508 | joz |
 | 262 | 507 | rosy |
 | 263 | 506 | Ammmmmmy |
@@ -285,8 +285,8 @@
 | 277 | 479 | Stephanie Bradley |
 | 278 | 477 | Hyper Matchzone |
 | 279 | 476 | Shunta Jacobs |
-| 280 | 475 | Rebecca Bailey |
-| 281 | 475 | Tasha Wesson-Torrence |
+| 280 | 475 | Tasha Wesson-Torrence |
+| 281 | 475 | Rebecca Bailey |
 | 282 | 474 | Tiffanie Alley |
 | 283 | 473 | Rebecca Funderburk Kirby |
 | 284 | 471 | Mendoza Lee Christy |

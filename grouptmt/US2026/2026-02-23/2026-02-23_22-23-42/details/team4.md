@@ -178,8 +178,8 @@
 | 170 | 499 | Ernest Maxwell |
 | 171 | 497 | Brandon Crabbs |
 | 172 | 496 | Cindy Looper |
-| 173 | 491 | Jade Rian |
-| 174 | 491 | Carrie Brian |
+| 173 | 491 | Carrie Brian |
+| 174 | 491 | Jade Rian |
 | 175 | 489 | Swanky Fitline |
 | 176 | 487 | Sam Bishop |
 | 177 | 485 | Rico |
@@ -252,8 +252,8 @@
 | 244 | 378 | Googenheim |
 | 245 | 378 | JPW |
 | 246 | 376 | Nig |
-| 247 | 369 | Matt Dell'Olio |
-| 248 | 369 | Rafael Valentin |
+| 247 | 369 | Rafael Valentin |
+| 248 | 369 | Matt Dell'Olio |
 | 249 | 368 | Kris Bartlett |
 | 250 | 367 | Meg |
 | 251 | 366 | Andrew Dang |
@@ -359,8 +359,8 @@
 | 351 | 270 | 07VHVW |
 | 352 | 270 | 23 |
 | 353 | 269 | Chummy Towerzone |
-| 354 | 268 | Riverdale |
-| 355 | 268 | Shukee Lo |
+| 354 | 268 | Shukee Lo |
+| 355 | 268 | Riverdale |
 | 356 | 267 | Marcus TheeyoungWoe Gilmore |
 | 357 | 267 | Jarred Falls |
 | 358 | 267 | Metsfan |
@@ -371,8 +371,8 @@
 | 363 | 265 | Christine Therrien |
 | 364 | 265 | Degenerate |
 | 365 | 264 | AyeKay |
-| 366 | 262 | Ruben Wheeler |
-| 367 | 262 | Selena Shaw |
+| 366 | 262 | Selena Shaw |
+| 367 | 262 | Ruben Wheeler |
 | 368 | 261 | Jason Frehner |
 | 369 | 260 | Carter Jones |
 | 370 | 259 | Allen Lloyd |
@@ -397,8 +397,8 @@
 | 389 | 249 | Ak Jones |
 | 390 | 248 | Chirpy Basepiece |
 | 391 | 248 | Jose Dejesus |
-| 392 | 247 | tipsy tiger |
-| 393 | 247 | Tyler Bechtel |
+| 392 | 247 | Tyler Bechtel |
+| 393 | 247 | tipsy tiger |
 | 394 | 246 | giantslover514 |
 | 395 | 246 | Shanon Klair |
 | 396 | 244 | @ |
@@ -519,11 +519,11 @@
 | 511 | 191 | Norman Klick |
 | 512 | 191 | Earnest Thompson |
 | 513 | 191 | Jobadia Steelerton |
-| 514 | 190 | wombat |
-| 515 | 190 | Robert Rangel |
+| 514 | 190 | Robert Rangel |
+| 515 | 190 | wombat |
 | 516 | 189 | Brandon Link |
-| 517 | 188 | Tanner Lund |
-| 518 | 188 | Daring Pivot |
+| 517 | 188 | Daring Pivot |
+| 518 | 188 | Tanner Lund |
 | 519 | 188 | Frilly Blocky |
 | 520 | 187 | Jason Punch |
 | 521 | 186 | Dandy Cascadefit |
