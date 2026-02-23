@@ -206,8 +206,8 @@
 | 198 | 1244 | Teddi Notyalc |
 | 199 | 1243 | Anna Edwards |
 | 200 | 1237 | Megan Ferguson Leone |
-| 201 | 1232 | Groovy Puzzle |
-| 202 | 1232 | Ambyre Patterson |
+| 201 | 1232 | Ambyre Patterson |
+| 202 | 1232 | Groovy Puzzle |
 | 203 | 1230 | Megan Garrick |
 | 204 | 1217 | Lucky Ladybug |
 | 205 | 1217 | Brooks Brooks |

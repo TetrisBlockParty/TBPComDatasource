@@ -104,8 +104,8 @@
 | 96 | 492 | Ash Galvan |
 | 97 | 489 | Deanna L Hermanson |
 | 98 | 486 | Tater |
-| 99 | 483 | cc |
-| 100 | 483 | Tdub |
+| 99 | 483 | Tdub |
+| 100 | 483 | cc |
 | 101 | 477 | April Carroll |
 | 102 | 472 | Hasbro Bros |
 | 103 | 462 | Luciano Moreira |
@@ -227,8 +227,8 @@
 | 219 | 275 | Cheeky Pop |
 | 220 | 275 | Chris65 |
 | 221 | 273 | Shannon Marie Pitts |
-| 222 | 271 | Sam Williams |
-| 223 | 271 | Frothy Pattern |
+| 222 | 271 | Frothy Pattern |
+| 223 | 271 | Sam Williams |
 | 224 | 270 | Debbie Kane |
 | 225 | 265 | Kandae |
 | 226 | 264 | Jenny Gingrich Fuentes |
