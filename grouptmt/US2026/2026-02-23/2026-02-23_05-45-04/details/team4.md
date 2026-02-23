@@ -79,8 +79,8 @@
 | 71 | 749 | Dustee Craddock-Harrison |
 | 72 | 742 | Carolyn Wallace |
 | 73 | 740 | Avy Absol |
-| 74 | 736 | Crystal Carroll |
-| 75 | 736 | Goatimus Lombardi |
+| 74 | 736 | Goatimus Lombardi |
+| 75 | 736 | Crystal Carroll |
 | 76 | 721 | TheNeesh50 |
 | 77 | 717 | D3TROITB0RN74 |
 | 78 | 706 | Lisa Davis |
@@ -143,8 +143,8 @@
 | 135 | 426 | 🥔🥔 Spudz |
 | 136 | 425 | Monica Daley |
 | 137 | 423 | Carrie Brian |
-| 138 | 421 | Kesha Brady |
-| 139 | 421 | JIGsaw ~(•¿°)~ |
+| 138 | 421 | JIGsaw ~(•¿°)~ |
+| 139 | 421 | Kesha Brady |
 | 140 | 419 | Klo |
 | 141 | 418 | Lush Linkfall |
 | 142 | 418 | Marie-Pier Desjardins |
@@ -242,8 +242,8 @@
 | 234 | 272 | Dennis Bradley |
 | 235 | 272 | Alan George LaRage |
 | 236 | 271 | Holly |
-| 237 | 270 | Jen Caldwell |
-| 238 | 270 | Juls |
+| 237 | 270 | Juls |
+| 238 | 270 | Jen Caldwell |
 | 239 | 266 | Mr. Party |
 | 240 | 265 | Sarah Neathery |
 | 241 | 265 | Silly SeaWeed |
@@ -316,8 +316,8 @@
 | 308 | 216 | Chantilly Laace |
 | 309 | 216 | mike |
 | 310 | 215 | Stephme310 |
-| 311 | 214 | Patron Anderson |
-| 312 | 214 | Stacey Stano |
+| 311 | 214 | Stacey Stano |
+| 312 | 214 | Patron Anderson |
 | 313 | 213 | Jackie Marie |
 | 314 | 212 | Joseph Edmonson |
 | 315 | 212 | Jason Bosco |

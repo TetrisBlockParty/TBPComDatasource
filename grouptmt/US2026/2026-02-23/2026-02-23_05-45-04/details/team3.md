@@ -125,8 +125,8 @@
 | 117 | 769 | Kristie |
 | 118 | 764 | Groovy Catcher |
 | 119 | 762 | Speedy Bridger |
-| 120 | 752 | Raya |
-| 121 | 752 | Logan Naccarato |
+| 120 | 752 | Logan Naccarato |
+| 121 | 752 | Raya |
 | 122 | 748 | Adrian Marcel Pate |
 | 123 | 745 | JerseyJess |
 | 124 | 744 | Fancy Cascader |
@@ -187,8 +187,8 @@
 | 179 | 545 | Tasha Schriewer |
 | 180 | 540 | Shawn Miller |
 | 181 | 535 | Jone |
-| 182 | 531 | Chauntee Alfrey-Cardinale |
-| 183 | 531 | Sarah Cowan Burgos |
+| 182 | 531 | Sarah Cowan Burgos |
+| 183 | 531 | Chauntee Alfrey-Cardinale |
 | 184 | 528 | Silly Twist |
 | 185 | 524 | Bmo |
 | 186 | 519 | rnr junky |
@@ -202,8 +202,8 @@
 | 194 | 496 | Makelini Mausia |
 | 195 | 495 | Terry Jo Jones |
 | 196 | 494 | FuzzyNavel |
-| 197 | 489 | Poppy Splitter |
-| 198 | 489 | Shannon Matthew Byers |
+| 197 | 489 | Shannon Matthew Byers |
+| 198 | 489 | Poppy Splitter |
 | 199 | 488 | Melissa Orth Hunter |
 | 200 | 485 | Dapper Snap |
 | 201 | 480 | Michael Johnson |
@@ -228,8 +228,8 @@
 | 220 | 445 | Fallorina Susana |
 | 221 | 437 | Loopy Clusterer |
 | 222 | 432 | Luciana Braganca Vieira |
-| 223 | 431 | Ammmmmmy |
-| 224 | 431 | Wendy Dearden |
+| 223 | 431 | Wendy Dearden |
+| 224 | 431 | Ammmmmmy |
 | 225 | 430 | Jeni Dow |
 | 226 | 415 | ren |
 | 227 | 414 | Fran Lin |
@@ -617,8 +617,8 @@
 | 609 | 171 | Kathleen Taylor |
 | 610 | 171 | Tammy |
 | 611 | 170 | David Bardo |
-| 612 | 170 | Kelly Wolf |
-| 613 | 170 | Pizzi |
+| 612 | 170 | Pizzi |
+| 613 | 170 | Kelly Wolf |
 | 614 | 170 | Cranky Gridder |
 | 615 | 170 | Stephanie Sanchez |
 | 616 | 170 | Spencer Nikki |

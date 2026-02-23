@@ -44,8 +44,8 @@
 | 36 | 4199 | Claire Noland |
 | 37 | 4128 | Angela Pruitt |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Corrine Hawks Soriano |
-| 40 | 4120 | Kristen Sceurman |
+| 39 | 4120 | Kristen Sceurman |
+| 40 | 4120 | Corrine Hawks Soriano |
 | 41 | 3813 | Devin Lee |
 | 42 | 3778 | Brittany Alicia |
 | 43 | 3736 | Alisha |
@@ -302,8 +302,8 @@
 | 294 | 979 | Hillary Crawford |
 | 295 | 979 | Melissa Penelope Ann Dodge |
 | 296 | 978 | April Dawn Gussler |
-| 297 | 976 | Della Hole |
-| 298 | 976 | Sam Joe |
+| 297 | 976 | Sam Joe |
+| 298 | 976 | Della Hole |
 | 299 | 972 | Binyah-Binyah |
 | 300 | 972 | Barbra Miller |
 | 301 | 971 | Jojo Momma |
@@ -532,8 +532,8 @@
 | 524 | 620 | Brenna Ann |
 | 525 | 619 | Lylymom |
 | 526 | 618 | Vanessa Moreno |
-| 527 | 617 | Kacee Conrad Bock |
-| 528 | 617 | Darcy Mae |
+| 527 | 617 | Darcy Mae |
+| 528 | 617 | Kacee Conrad Bock |
 | 529 | 615 | Nerdy Pattern |
 | 530 | 615 | Lyndi Robinson Wakefield |
 | 531 | 615 | Julio A Laracuente |
