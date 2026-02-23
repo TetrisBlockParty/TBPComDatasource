@@ -114,31 +114,31 @@
 | 106 | 869 | Araceli Parra |
 | 107 | 868 | Sarajane Lokan |
 | 108 | 860 | Sunny Rotater |
-| 109 | 851 | Danielle Becker |
-| 110 | 851 | Jd Morris |
+| 109 | 851 | Jd Morris |
+| 110 | 851 | Danielle Becker |
 | 111 | 850 | Danielle Mogg |
 | 112 | 848 | Patricia Gadsden |
 | 113 | 839 | Angeline Joseph |
 | 114 | 830 | Stephanie Allmon |
 | 115 | 826 | Shane Wilson Jr. |
-| 116 | 816 | Brenda Lee Vander Molen |
-| 117 | 816 | Jesse Olive |
+| 116 | 816 | Jesse Olive |
+| 117 | 816 | Brenda Lee Vander Molen |
 | 118 | 802 | Bobbi Moore |
 | 119 | 800 | Lauren Girouard |
 | 120 | 799 | Dolores Falco |
 | 121 | 779 | Justin Ritter |
 | 122 | 773 | Daira Largen |
 | 123 | 769 | Kristie |
-| 124 | 764 | Hasty Cascadefit |
-| 125 | 764 | Groovy Catcher |
+| 124 | 764 | Groovy Catcher |
+| 125 | 764 | Hasty Cascadefit |
 | 126 | 762 | Speedy Bridger |
 | 127 | 755 | Raya |
 | 128 | 755 | Katrina Schroeder |
 | 129 | 752 | Logan Naccarato |
 | 130 | 748 | Adrian Marcel Pate |
 | 131 | 745 | JerseyJess |
-| 132 | 744 | Leah Barnett |
-| 133 | 744 | Fancy Cascader |
+| 132 | 744 | Fancy Cascader |
+| 133 | 744 | Leah Barnett |
 | 134 | 736 | mzcatzy |
 | 135 | 734 | Calista Jo Dickson |
 | 136 | 728 | Peppy Shifter |
@@ -164,8 +164,8 @@
 | 156 | 646 | Bea Miles |
 | 157 | 634 | Amber Hughes |
 | 158 | 630 | yoyo |
-| 159 | 621 | Cherry Parker |
-| 160 | 621 | Sashay Tapae Simpson |
+| 159 | 621 | Sashay Tapae Simpson |
+| 160 | 621 | Cherry Parker |
 | 161 | 616 | Kammy Hill |
 | 162 | 611 | Rochelle Hazelett |
 | 163 | 607 | Grego Daniel |
@@ -187,8 +187,8 @@
 | 179 | 572 | CeceGeGe |
 | 180 | 568 | Rachael McClain Owens |
 | 181 | 566 | LaTanya GeminiondaRise Johnson |
-| 182 | 564 | Poppy Splitter |
-| 183 | 564 | Christine Trester |
+| 182 | 564 | Christine Trester |
+| 183 | 564 | Poppy Splitter |
 | 184 | 563 | Jim Mathews |
 | 185 | 562 | Dave Herzog |
 | 186 | 559 | Patti Skiles |
@@ -501,8 +501,8 @@
 | 493 | 221 | Glitzy Rotate |
 | 494 | 221 | Vaners |
 | 495 | 220 | Bhreagh Gentile |
-| 496 | 219 | Trice Thomas |
-| 497 | 219 | TLM |
+| 496 | 219 | TLM |
+| 497 | 219 | Trice Thomas |
 | 498 | 218 | Sabrina Mansfield |
 | 499 | 218 | Ginger Gray |
 | 500 | 218 | Dapper Chiseler |
@@ -558,8 +558,8 @@
 | 550 | 199 | Morgan Cudo |
 | 551 | 199 | Cheeky Setter |
 | 552 | 198 | xsiv |
-| 553 | 198 | Zac Hudak |
-| 554 | 198 | Jodi Kaczynski-O'Dowd |
+| 553 | 198 | Jodi Kaczynski-O'Dowd |
+| 554 | 198 | Zac Hudak |
 | 555 | 198 | momo |
 | 556 | 197 | Giggy Glidepiece |
 | 557 | 197 | BabyTonj Evans |
@@ -794,10 +794,10 @@
 | 786 | 144 | Tiffany's TwinsRus Thrifty |
 | 787 | 144 | Clever Edgepiece |
 | 788 | 144 | Amber Reeves-Buchanan |
-| 789 | 144 | Clever Edgepiece |
+| 789 | 144 | Crystal Frey |
 | 790 | 143 | Russell Hankinson |
-| 791 | 143 | Lisa Lisa |
-| 792 | 143 | Melissa Ponder |
+| 791 | 143 | Melissa Ponder |
+| 792 | 143 | Lisa Lisa |
 | 793 | 143 | Bananna Anna |
 | 794 | 142 | Myriam Lapierre |
 | 795 | 142 | Michelle Allers |

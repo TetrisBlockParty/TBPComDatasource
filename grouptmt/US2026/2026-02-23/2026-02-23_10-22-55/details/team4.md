@@ -62,10 +62,10 @@
 | 54 | 870 | BertMofo |
 | 55 | 864 | Shelly Chandler |
 | 56 | 863 | Pee |
-| 57 | 859 | TeeJ |
-| 58 | 859 | Christina LR |
-| 59 | 846 | Christine Marie |
-| 60 | 846 | Lucille Truesdale |
+| 57 | 859 | Christina LR |
+| 58 | 859 | TeeJ |
+| 59 | 846 | Lucille Truesdale |
+| 60 | 846 | Christine Marie |
 | 61 | 845 | LisaJo Picken Buchanan |
 | 62 | 834 | quicksand420 |
 | 63 | 807 | Amelpss |
@@ -76,8 +76,8 @@
 | 68 | 787 | loulou |
 | 69 | 767 | Shannon Ferrari |
 | 70 | 766 | Robin Watters |
-| 71 | 765 | Denise Carlson |
-| 72 | 765 | Robin Getchel |
+| 71 | 765 | Robin Getchel |
+| 72 | 765 | Denise Carlson |
 | 73 | 753 | TheNeesh50 |
 | 74 | 752 | Shane Kalamata Platoon |
 | 75 | 749 | Dustee Craddock-Harrison |
@@ -98,8 +98,8 @@
 | 90 | 659 | Jamie Gustafson |
 | 91 | 653 | Rica Mitchell |
 | 92 | 650 | KJ Pool |
-| 93 | 647 | Shauna Havard |
-| 94 | 647 | KM8 |
+| 93 | 647 | KM8 |
+| 94 | 647 | Shauna Havard |
 | 95 | 646 | Eric Mcgaughy |
 | 96 | 626 | Brittney Griggs |
 | 97 | 624 | Judy Cox |
@@ -157,8 +157,8 @@
 | 149 | 418 | Lush Linkfall |
 | 150 | 417 | Steph Marie |
 | 151 | 416 | Chaz Duncan |
-| 152 | 414 | Nope Young |
-| 153 | 414 | Swanky Fitline |
+| 152 | 414 | Swanky Fitline |
+| 153 | 414 | Nope Young |
 | 154 | 413 | Circuit8 |
 | 155 | 412 | Jessica Bohlken |
 | 156 | 408 | Amanda Pauldo-Ivy |
@@ -205,8 +205,8 @@
 | 197 | 334 | Kris Bartlett |
 | 198 | 332 | HastyGrabber |
 | 199 | 331 | Alan George LaRage |
-| 200 | 330 | Kathy Brookins |
-| 201 | 330 | blockstar |
+| 200 | 330 | blockstar |
+| 201 | 330 | Kathy Brookins |
 | 202 | 328 | scott |
 | 203 | 327 | J-Rizzle |
 | 204 | 324 | jim |
@@ -377,8 +377,8 @@
 | 369 | 194 | Eri Kka |
 | 370 | 192 | Meg |
 | 371 | 192 | Twisty Risebuilder |
-| 372 | 191 | Riverdale |
-| 373 | 191 | Earnest Thompson |
+| 372 | 191 | Earnest Thompson |
+| 373 | 191 | Riverdale |
 | 374 | 191 | Norman Klick |
 | 375 | 190 | wombat |
 | 376 | 189 | Berklie Apedaile |
@@ -468,11 +468,11 @@
 | 460 | 160 | icequeenx |
 | 461 | 159 | Groovy Brickmatch |
 | 462 | 158 | Jasmine S Caldwell |
-| 463 | 157 | Ryry |
-| 464 | 157 | LunaMoon |
+| 463 | 157 | LunaMoon |
+| 464 | 157 | Ryry |
 | 465 | 157 | David Boggs |
-| 466 | 156 | Funky Risepiece |
-| 467 | 156 | Mighty Edgepiece |
+| 466 | 156 | Mighty Edgepiece |
+| 467 | 156 | Funky Risepiece |
 | 468 | 155 | tipsy tiger |
 | 469 | 155 | Shirl |
 | 470 | 155 | Faja |
@@ -719,8 +719,8 @@
 | 711 | 99 | Megan Boyce |
 | 712 | 98 | Bad company |
 | 713 | 98 | Bob N Alisha Hinojosa |
-| 714 | 98 | Diamond Johnson |
-| 715 | 98 | Bad company |
+| 714 | 98 | Manuel Groleau |
+| 715 | 98 | Diamond Johnson |
 | 716 | 98 | Maurice Daniels |
 | 717 | 98 | Jessi Cinotto |
 | 718 | 97 | Rick SJ |
@@ -833,7 +833,7 @@
 | 825 | 83 | Pampam |
 | 826 | 82 | Ashley Kerr |
 | 827 | 82 | Jorge Hamoui |
-| 828 | 82 | Tara |
+| 828 | 82 | Somnium Era |
 | 829 | 82 | Steve |
 | 830 | 82 | Tara |
 | 831 | 81 | Penny Dean |
