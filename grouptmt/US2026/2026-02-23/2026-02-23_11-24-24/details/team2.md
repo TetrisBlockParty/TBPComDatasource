@@ -229,12 +229,12 @@
 | 221 | 1245 | Missie Lawson Gebhardt |
 | 222 | 1240 | Brandon Armstrong |
 | 223 | 1237 | Megan Ferguson Leone |
-| 224 | 1232 | Groovy Puzzle |
-| 225 | 1232 | Ambyre Patterson |
+| 224 | 1232 | Ambyre Patterson |
+| 225 | 1232 | Groovy Puzzle |
 | 226 | 1230 | Megan Garrick |
 | 227 | 1221 | Jane Fong |
-| 228 | 1217 | Lucky Ladybug |
-| 229 | 1217 | Brooks Brooks |
+| 228 | 1217 | Brooks Brooks |
+| 229 | 1217 | Lucky Ladybug |
 | 230 | 1216 | Pacynthia Williams |
 | 231 | 1214 | David Cudicio-Hayden |
 | 232 | 1211 | Ricardo Burton |
@@ -1926,8 +1926,8 @@
 | 1918 | 220 | ນາງ ບີ ລາດຊະຈັກ |
 | 1919 | 220 | Shakena Tuggle |
 | 1920 | 220 | Abram Wersig |
-| 1921 | 219 | Paula TexasMomma |
-| 1922 | 219 | Lee Marko |
+| 1921 | 219 | Lee Marko |
+| 1922 | 219 | Paula TexasMomma |
 | 1923 | 219 | Shana Ydln |
 | 1924 | 219 | Poppy Bricky |
 | 1925 | 219 | Tracie |

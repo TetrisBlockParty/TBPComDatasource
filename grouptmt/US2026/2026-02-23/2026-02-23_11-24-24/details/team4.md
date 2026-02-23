@@ -129,8 +129,8 @@
 | 121 | 514 | Serena Goodridge |
 | 122 | 514 | Scott Jameson |
 | 123 | 513 | Erin Thomas |
-| 124 | 512 | Cristy Duerksen |
-| 125 | 512 | Casey Jeffcoat |
+| 124 | 512 | Casey Jeffcoat |
+| 125 | 512 | Cristy Duerksen |
 | 126 | 509 | Leslie Nicole |
 | 127 | 493 | Carly Alexis |
 | 128 | 485 | Melissa Adams |
@@ -183,8 +183,8 @@
 | 175 | 372 | George Nutt |
 | 176 | 370 | Oscar Alberto Perez |
 | 177 | 369 | Lindsey Gonzalez |
-| 178 | 368 | Silly Zonebuilder |
-| 179 | 368 | Brandon Crabbs |
+| 178 | 368 | Brandon Crabbs |
+| 179 | 368 | Silly Zonebuilder |
 | 180 | 368 | Raegan Lane-Ross |
 | 181 | 365 | Jeff Brian Gates |
 | 182 | 361 | Carlos Ramirez |
@@ -196,10 +196,10 @@
 | 188 | 352 | Lori |
 | 189 | 352 | Sue Joyce Staats |
 | 190 | 349 | Rafael Valentin |
-| 191 | 348 | David Lay |
-| 192 | 348 | April Rondinone |
-| 193 | 347 | Daria Rycewicz |
-| 194 | 347 | Crystal Nicolette Moore |
+| 191 | 348 | April Rondinone |
+| 192 | 348 | David Lay |
+| 193 | 347 | Crystal Nicolette Moore |
+| 194 | 347 | Daria Rycewicz |
 | 195 | 347 | Bio Nelly |
 | 196 | 346 | shark tato |
 | 197 | 340 | Kris Bartlett |
@@ -211,8 +211,8 @@
 | 203 | 330 | Kathy Brookins |
 | 204 | 328 | scott |
 | 205 | 327 | J-Rizzle |
-| 206 | 324 | TinyLegoRose |
-| 207 | 324 | jim |
+| 206 | 324 | jim |
+| 207 | 324 | TinyLegoRose |
 | 208 | 321 | Meagan Nicole |
 | 209 | 320 | Lauren Scott |
 | 210 | 319 | Googenheim |
@@ -426,8 +426,8 @@
 | 418 | 176 | Jessica Wells |
 | 419 | 175 | Jim Hart |
 | 420 | 175 | Lorena Guerrero-Barron |
-| 421 | 174 | Jason Frehner |
-| 422 | 174 | Chummy Towerzone |
+| 421 | 174 | Chummy Towerzone |
+| 422 | 174 | Jason Frehner |
 | 423 | 173 | Tanner Lund |
 | 424 | 173 | Shiny Pivoty |
 | 425 | 172 | Undeniable Williams |
@@ -481,8 +481,8 @@
 | 473 | 157 | LunaMoon |
 | 474 | 157 | Ryry |
 | 475 | 156 | Mighty Edgepiece |
-| 476 | 155 | tipsy tiger |
-| 477 | 155 | Shirl |
+| 476 | 155 | Shirl |
+| 477 | 155 | tipsy tiger |
 | 478 | 155 | Faja |
 | 479 | 154 | Bryan Hodgins |
 | 480 | 154 | Happy Combo |
