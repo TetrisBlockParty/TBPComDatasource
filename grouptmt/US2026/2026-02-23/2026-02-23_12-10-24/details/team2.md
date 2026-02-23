@@ -145,8 +145,8 @@
 | 137 | 1818 | Shandrica Lowe |
 | 138 | 1812 | Shameika Trail |
 | 139 | 1774 | Crystal Elam |
-| 140 | 1769 | Chirpy Staggerpiece |
-| 141 | 1769 | Katrina Williams Balmir |
+| 140 | 1769 | Katrina Williams Balmir |
+| 141 | 1769 | Chirpy Staggerpiece |
 | 142 | 1767 | niecy |
 | 143 | 1755 | Loopy Clusterbuilder |
 | 144 | 1755 | Rebecca Doughman |

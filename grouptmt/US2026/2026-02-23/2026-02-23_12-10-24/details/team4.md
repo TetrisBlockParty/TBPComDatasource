@@ -131,8 +131,8 @@
 | 123 | 514 | Serena Goodridge |
 | 124 | 514 | Scott Jameson |
 | 125 | 513 | Erin Thomas |
-| 126 | 512 | Casey Jeffcoat |
-| 127 | 512 | Cristy Duerksen |
+| 126 | 512 | Cristy Duerksen |
+| 127 | 512 | Casey Jeffcoat |
 | 128 | 508 | Twisty Clicky |
 | 129 | 493 | Carly Alexis |
 | 130 | 485 | Melissa Adams |
@@ -205,15 +205,15 @@
 | 197 | 347 | Bio Nelly |
 | 198 | 346 | shark tato |
 | 199 | 340 | Kris Bartlett |
-| 200 | 337 | Sam Bishop |
-| 201 | 337 | Porkobello |
+| 200 | 337 | Porkobello |
+| 201 | 337 | Sam Bishop |
 | 202 | 336 | JPW |
 | 203 | 333 | Chris Alexinas |
 | 204 | 332 | HastyGrabber |
 | 205 | 332 | Kim Hunt |
 | 206 | 331 | Alan George LaRage |
-| 207 | 330 | blockstar |
-| 208 | 330 | Kathy Brookins |
+| 207 | 330 | Kathy Brookins |
+| 208 | 330 | blockstar |
 | 209 | 328 | scott |
 | 210 | 327 | J-Rizzle |
 | 211 | 324 | jim |
@@ -285,8 +285,8 @@
 | 277 | 261 | Stacey Stano |
 | 278 | 261 | Zethra Prenisha Rahming |
 | 279 | 260 | Carter Jones |
-| 280 | 259 | Montiette Mcglown |
-| 281 | 259 | Allen Lloyd |
+| 280 | 259 | Allen Lloyd |
+| 281 | 259 | Montiette Mcglown |
 | 282 | 259 | John Brunetti |
 | 283 | 258 | June Hoffman |
 | 284 | 257 | PeaceOs |
@@ -319,8 +319,8 @@
 | 311 | 237 | Christine Therrien |
 | 312 | 235 | LaDonna LovinmesomeMe Lambert |
 | 313 | 235 | Shainne Brewer |
-| 314 | 234 | Richard-April Kice |
-| 315 | 234 | Shanon Klair |
+| 314 | 234 | Shanon Klair |
+| 315 | 234 | Richard-April Kice |
 | 316 | 234 | Diosa Ebalobo Magsael |
 | 317 | 233 | Joseph Edmonson |
 | 318 | 230 | Chantilly Laace |

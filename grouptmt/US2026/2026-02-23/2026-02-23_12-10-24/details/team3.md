@@ -117,8 +117,8 @@
 | 109 | 869 | Araceli Parra |
 | 110 | 868 | Sarajane Lokan |
 | 111 | 860 | Sunny Rotater |
-| 112 | 851 | Jd Morris |
-| 113 | 851 | Danielle Becker |
+| 112 | 851 | Danielle Becker |
+| 113 | 851 | Jd Morris |
 | 114 | 850 | Danielle Mogg |
 | 115 | 848 | Patricia Gadsden |
 | 116 | 839 | Angeline Joseph |
@@ -292,11 +292,11 @@
 | 284 | 371 | Salena Whitlock |
 | 285 | 371 | block chick |
 | 286 | 370 | Samantha Lynn |
-| 287 | 369 | Jennifer Alvey |
-| 288 | 369 | Philip Rock |
+| 287 | 369 | Philip Rock |
+| 288 | 369 | Jennifer Alvey |
 | 289 | 369 | Amber Glover |
-| 290 | 368 | Sheila M Frazier |
-| 291 | 368 | Stephanie Woods |
+| 290 | 368 | Stephanie Woods |
+| 291 | 368 | Sheila M Frazier |
 | 292 | 366 | Betty Bóò |
 | 293 | 366 | Gumbo |
 | 294 | 362 | Brandon Givens |
@@ -323,8 +323,8 @@
 | 315 | 342 | Cynthia Herrmann Egland |
 | 316 | 341 | Rick Poppen |
 | 317 | 341 | Lys |
-| 318 | 340 | KayB |
-| 319 | 340 | Erika Thornton |
+| 318 | 340 | Erika Thornton |
+| 319 | 340 | KayB |
 | 320 | 338 | fraulila |
 | 321 | 338 | Heather Davis |
 | 322 | 336 | Foltz Lee Kelli |
@@ -416,8 +416,8 @@
 | 408 | 269 | Jess Bissett |
 | 409 | 268 | Jessica Lynn French |
 | 410 | 268 | Julia Nicole |
-| 411 | 267 | Michael Kimbro |
-| 412 | 267 | April Matthew Kibble |
+| 411 | 267 | April Matthew Kibble |
+| 412 | 267 | Michael Kimbro |
 | 413 | 267 | Jul |
 | 414 | 266 | Daring Builder |
 | 415 | 266 | Sarah Muradyan |
@@ -431,7 +431,7 @@
 | 423 | 260 | Alice |
 | 424 | 259 | Tegan Chapman |
 | 425 | 259 | Dana Winters |
-| 426 | 259 | Tegan Chapman |
+| 426 | 259 | Shania Vaine |
 | 427 | 258 | IamJust Neyamijah Washington Sr. |
 | 428 | 257 | Chris Wallace |
 | 429 | 257 | Rachel Grant |
@@ -521,8 +521,8 @@
 | 513 | 216 | Amanda Declue |
 | 514 | 216 | Stephanie Whitefield |
 | 515 | 214 | Jumpy Curvebuilder |
-| 516 | 214 | Amy Fuller Heaton |
-| 517 | 214 | Crystal Hine |
+| 516 | 214 | Crystal Hine |
+| 517 | 214 | Amy Fuller Heaton |
 | 518 | 213 | AC Yeater |
 | 519 | 213 | Jack Bo |
 | 520 | 213 | Linda Draper |
@@ -535,8 +535,8 @@
 | 527 | 211 | Laaken Draper |
 | 528 | 211 | El Chapa |
 | 529 | 210 | Maia |
-| 530 | 210 | Megan Riggins |
-| 531 | 210 | Kristian Thurman |
+| 530 | 210 | Kristian Thurman |
+| 531 | 210 | Megan Riggins |
 | 532 | 209 | Latoya Oneluv White |
 | 533 | 209 | TazB |
 | 534 | 209 | Jonathn Poindexter |
