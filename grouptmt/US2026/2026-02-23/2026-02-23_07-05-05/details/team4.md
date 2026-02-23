@@ -26,8 +26,8 @@
 | 18 | 1636 | Cassie Michaux |
 | 19 | 1565 | GreenJeepGirl |
 | 20 | 1558 | Leah Gorsuch |
-| 21 | 1536 | Roger Coulter |
-| 22 | 1536 | Misty Hollibaugh |
+| 21 | 1536 | Misty Hollibaugh |
+| 22 | 1536 | Roger Coulter |
 | 23 | 1485 | Juggalo |
 | 24 | 1390 | Sammy Noguera |
 | 25 | 1382 | Tammi Crnza |
@@ -55,8 +55,8 @@
 | 47 | 938 | Denny Shives |
 | 48 | 936 | Rebecca Moulton Pinciaro |
 | 49 | 932 | Marvin Lou Martin |
-| 50 | 911 | Anthony Bryan Riva |
-| 51 | 911 | Jeremy Steines |
+| 50 | 911 | Jeremy Steines |
+| 51 | 911 | Anthony Bryan Riva |
 | 52 | 870 | BertMofo |
 | 53 | 863 | Pee |
 | 54 | 853 | TeeJ |
@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Kimyatta Cavin |
-| 84 | 684 | Jonathan Kimbrough |
+| 83 | 684 | Jonathan Kimbrough |
+| 84 | 684 | Kimyatta Cavin |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -125,8 +125,8 @@
 | 117 | 514 | Serena Goodridge |
 | 118 | 514 | Scott Jameson |
 | 119 | 513 | Erin Thomas |
-| 120 | 512 | Cristy Duerksen |
-| 121 | 512 | Casey Jeffcoat |
+| 120 | 512 | Casey Jeffcoat |
+| 121 | 512 | Cristy Duerksen |
 | 122 | 511 | Lori Walker |
 | 123 | 509 | Leslie Nicole |
 | 124 | 482 | Ren Mc |
@@ -150,8 +150,8 @@
 | 142 | 423 | Carrie Brian |
 | 143 | 421 | Kesha Brady |
 | 144 | 421 | JIGsaw ~(•¿°)~ |
-| 145 | 418 | Marie-Pier Desjardins |
-| 146 | 418 | Lush Linkfall |
+| 145 | 418 | Lush Linkfall |
+| 146 | 418 | Marie-Pier Desjardins |
 | 147 | 416 | Chaz Duncan |
 | 148 | 414 | Nope Young |
 | 149 | 414 | Swanky Fitline |
@@ -176,8 +176,8 @@
 | 168 | 368 | Silly Zonebuilder |
 | 169 | 368 | Raegan Lane-Ross |
 | 170 | 365 | Jeff Brian Gates |
-| 171 | 361 | Danielle Kollias |
-| 172 | 361 | Melissa Adams |
+| 171 | 361 | Melissa Adams |
+| 172 | 361 | Danielle Kollias |
 | 173 | 359 | Keith Kelley |
 | 174 | 358 | Twisty Cascadezone |
 | 175 | 358 | A5! |
@@ -233,8 +233,8 @@
 | 225 | 286 | Steph Marie |
 | 226 | 285 | 030Synner |
 | 227 | 284 | Mimi |
-| 228 | 282 | Matt Gooder |
-| 229 | 282 | Kim Klutz Olson |
+| 228 | 282 | Kim Klutz Olson |
+| 229 | 282 | Matt Gooder |
 | 230 | 281 | Laura |
 | 231 | 280 | Rio Rocha |
 | 232 | 279 | Malakai Darien Fox |
@@ -255,7 +255,7 @@
 | 247 | 265 | Cynthia Boudreau |
 | 248 | 265 | Sarah Neathery |
 | 249 | 265 | Degenerate |
-| 250 | 265 | Cynthia Boudreau |
+| 250 | 265 | Silly SeaWeed |
 | 251 | 264 | ZeeZee |
 | 252 | 264 | Stella |
 | 253 | 263 | rebel4lyfe |

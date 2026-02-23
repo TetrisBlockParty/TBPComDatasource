@@ -218,8 +218,8 @@
 | 210 | 1245 | Cody Nishimura |
 | 211 | 1240 | Brandon Armstrong |
 | 212 | 1237 | Megan Ferguson Leone |
-| 213 | 1232 | Groovy Puzzle |
-| 214 | 1232 | Ambyre Patterson |
+| 213 | 1232 | Ambyre Patterson |
+| 214 | 1232 | Groovy Puzzle |
 | 215 | 1230 | Megan Garrick |
 | 216 | 1221 | Jane Fong |
 | 217 | 1217 | Brooks Brooks |
@@ -255,8 +255,8 @@
 | 247 | 1126 | Dolores Russworn |
 | 248 | 1121 | Tommy Tha Boss Gunz |
 | 249 | 1121 | Sarah Freitas |
-| 250 | 1114 | Ginnell Browner |
-| 251 | 1114 | Kevin Walp |
+| 250 | 1114 | Kevin Walp |
+| 251 | 1114 | Ginnell Browner |
 | 252 | 1111 | Julay |
 | 253 | 1110 | Robin Kerby |
 | 254 | 1105 | Nerdy Clearfit |
@@ -279,8 +279,8 @@
 | 271 | 1047 | Dany Murillo |
 | 272 | 1045 | Bri Lynn |
 | 273 | 1045 | Lourisha |
-| 274 | 1043 | nikki |
-| 275 | 1043 | Brave Dropmatch |
+| 274 | 1043 | Brave Dropmatch |
+| 275 | 1043 | nikki |
 | 276 | 1036 | Allison Lockyer |
 | 277 | 1036 | Amber Shoemaker |
 | 278 | 1026 | Kristin Gower |
@@ -300,8 +300,8 @@
 | 292 | 996 | Ashie Ann |
 | 293 | 987 | Osun Anuket Esu |
 | 294 | 984 | Crystal Hoffman |
-| 295 | 979 | Hillary Crawford |
-| 296 | 979 | Melissa Penelope Ann Dodge |
+| 295 | 979 | Melissa Penelope Ann Dodge |
+| 296 | 979 | Hillary Crawford |
 | 297 | 978 | April Dawn Gussler |
 | 298 | 976 | Sam Joe |
 | 299 | 976 | Della Hole |
@@ -580,8 +580,8 @@
 | 572 | 589 | Kelly Templeton |
 | 573 | 588 | Kitybox |
 | 574 | 587 | Ben Barkley |
-| 575 | 585 | Sarah Berger |
-| 576 | 585 | Jessica Lamb |
+| 575 | 585 | Jessica Lamb |
+| 576 | 585 | Sarah Berger |
 | 577 | 584 | Daniell Martinez |
 | 578 | 583 | AISlop |
 | 579 | 582 | Ebony Deloach Bryant |
@@ -790,8 +790,8 @@
 | 782 | 452 | Cleo Sims |
 | 783 | 452 | Tipsy Filler |
 | 784 | 451 | Sharon Mills |
-| 785 | 451 | Stefanie Zonzini-Gagliardi |
-| 786 | 451 | Giggly Snap |
+| 785 | 451 | Giggly Snap |
+| 786 | 451 | Stefanie Zonzini-Gagliardi |
 | 787 | 450 | sup |
 | 788 | 449 | Heather Sawtelle-Mckenzie |
 | 789 | 449 | Kristi Biddinger |
