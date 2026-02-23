@@ -392,8 +392,8 @@
 | 384 | 858 | Lauren Fitzgerald Thomas |
 | 385 | 856 | Jelly |
 | 386 | 856 | Mighty Shatterfit |
-| 387 | 853 | Mandi Douglas Hilt |
-| 388 | 853 | Meghan M |
+| 387 | 853 | Meghan M |
+| 388 | 853 | Mandi Douglas Hilt |
 | 389 | 851 | Johnny Yeates |
 | 390 | 848 | Misti Markijohn |
 | 391 | 846 | Kayla |
@@ -476,8 +476,8 @@
 | 468 | 750 | Draizen Montrell Thomas |
 | 469 | 750 | Michael Buckner |
 | 470 | 748 | Ann Matzkanin |
-| 471 | 742 | Ganieda |
-| 472 | 742 | Cassie Maynard |
+| 471 | 742 | Cassie Maynard |
+| 472 | 742 | Ganieda |
 | 473 | 740 | Jerry Tempelmeyer |
 | 474 | 737 | Ginger |
 | 475 | 737 | Chelle |
@@ -486,14 +486,14 @@
 | 478 | 730 | Hoppy Brickmatch |
 | 479 | 729 | goofinoff |
 | 480 | 728 | Mikayala Szaz |
-| 481 | 728 | Tom Riefer |
-| 482 | 728 | Giggy Mover |
+| 481 | 728 | Giggy Mover |
+| 482 | 728 | Tom Riefer |
 | 483 | 727 | BeQuo |
 | 484 | 726 | Joce Lynn |
 | 485 | 726 | Crystal Greene |
 | 486 | 725 | Miranda Morris |
-| 487 | 725 | Karen Snyder Schrage |
-| 488 | 725 | Vonceial Boone |
+| 487 | 725 | Vonceial Boone |
+| 488 | 725 | Karen Snyder Schrage |
 | 489 | 724 | Melissa Holsinger |
 | 490 | 721 | Darla Silva |
 | 491 | 715 | Daniell Martinez |
@@ -503,8 +503,8 @@
 | 495 | 709 | Marie Walker |
 | 496 | 707 | Cc |
 | 497 | 706 | Kimberly Randesi |
-| 498 | 706 | Poldo Ilano |
-| 499 | 706 | Irene Jones |
+| 498 | 706 | Irene Jones |
+| 499 | 706 | Poldo Ilano |
 | 500 | 704 | Tansaria Couch-Butler |
 | 501 | 704 | Montez Mancil |
 | 502 | 703 | Funky Drop |
@@ -532,14 +532,14 @@
 | 524 | 679 | Prette Qui |
 | 525 | 677 | Paul Combs |
 | 526 | 677 | Kayleigh Wisse |
-| 527 | 676 | Roseanna Peloso |
-| 528 | 676 | Nicky Jackson |
+| 527 | 676 | Nicky Jackson |
+| 528 | 676 | Roseanna Peloso |
 | 529 | 675 | Lonne Emade |
 | 530 | 675 | Katelynn Hollen |
 | 531 | 675 | Jennifer Leigh |
 | 532 | 674 | Ashley Munn |
-| 533 | 673 | Anthony Mignacca |
-| 534 | 673 | trabuco |
+| 533 | 673 | trabuco |
+| 534 | 670 | Blacc Blac |
 | 535 | 670 | Christine Bollig |
 | 536 | 670 | Anthony Mignacca |
 | 537 | 669 | Tiffany Branham |
