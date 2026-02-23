@@ -195,17 +195,17 @@
 | 187 | 393 | Wisa |
 | 188 | 393 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 189 | 388 | Jason Savage |
-| 190 | 387 | Ananda Mendez |
+| 190 | 387 | Monica Donato |
 | 191 | 387 | Carrie Smith |
-| 192 | 387 | Monica Donato |
+| 192 | 387 | Ananda Mendez |
 | 193 | 386 | Brian Spotts |
 | 194 | 385 | Debbie Kane |
 | 195 | 385 | John J. Cronin |
 | 196 | 383 | pjbeta |
 | 197 | 383 | Margo Wagner |
 | 198 | 380 | Bindi |
-| 199 | 379 | Snappy Matcher |
-| 200 | 379 | Austin James |
+| 199 | 379 | Austin James |
+| 200 | 379 | Snappy Matcher |
 | 201 | 378 | Sleepysloath5745 |
 | 202 | 376 | Brian Richardsson |
 | 203 | 376 | Sassy Builderline |
@@ -221,8 +221,8 @@
 | 213 | 364 | Shauna Loe |
 | 214 | 364 | Serina Marie |
 | 215 | 362 | Gracie |
-| 216 | 360 | MIKOZ |
-| 217 | 360 | Lakeisha Chapman |
+| 216 | 360 | Lakeisha Chapman |
+| 217 | 360 | MIKOZ |
 | 218 | 359 | Witty Builderfit |
 | 219 | 359 | Oscar Zamora |
 | 220 | 359 | Jo Kerley |
@@ -234,8 +234,8 @@
 | 226 | 354 | Dino |
 | 227 | 354 | Snippy Wipebuilder |
 | 228 | 353 | Jaimie Lynn |
-| 229 | 353 | Reesey Enyart |
-| 230 | 353 | Josh Riemer |
+| 229 | 353 | Josh Riemer |
+| 230 | 353 | Reesey Enyart |
 | 231 | 350 | Tipsy Strikerpiece |
 | 232 | 349 | Cool Shiftsnap |
 | 233 | 348 | John Kim |
@@ -302,8 +302,8 @@
 | 294 | 283 | Franswa |
 | 295 | 283 | Irv |
 | 296 | 282 | Timothy Dew |
-| 297 | 280 | Наталья Солоид |
-| 298 | 280 | Billie Dawn Sparks |
+| 297 | 280 | Billie Dawn Sparks |
+| 298 | 280 | Наталья Солоид |
 | 299 | 279 | Chris Dawson |
 | 300 | 277 | Nutty Spinblock |
 | 301 | 277 | Agustin Duarte Orozco |
@@ -322,8 +322,8 @@
 | 314 | 271 | Standia Civil |
 | 315 | 270 | Brenda Alexander |
 | 316 | 270 | Blake Mckay |
-| 317 | 269 | LD1 |
-| 318 | 269 | Flashy Rotator |
+| 317 | 269 | Flashy Rotator |
+| 318 | 269 | LD1 |
 | 319 | 267 | Patty Lavigne Craddock |
 | 320 | 266 | Giggly Builderline |
 | 321 | 266 | Thorne Shumate |
