@@ -580,8 +580,8 @@
 | 572 | 701 | Aishah Brice |
 | 573 | 700 | Vincent Petrella |
 | 574 | 700 | Beverly Owens |
-| 575 | 699 | Frothy Rumbler |
-| 576 | 699 | Brenna Ann |
+| 575 | 699 | Brenna Ann |
+| 576 | 699 | Frothy Rumbler |
 | 577 | 698 | Shannon Jackson |
 | 578 | 697 | Brittney Jean |
 | 579 | 696 | Gloria Liu |
@@ -1127,8 +1127,8 @@
 | 1119 | 417 | Valerie Vigil |
 | 1120 | 416 | Lush Snapzone |
 | 1121 | 416 | Christine Lockwood |
-| 1122 | 415 | Aletha Williams |
-| 1123 | 415 | Stanislav Petkov |
+| 1122 | 415 | Jake |
+| 1123 | 415 | Christina Jarvis-Swarbrick |
 | 1124 | 415 | Loopy Shatterfit |
 | 1125 | 415 | Aletha Williams |
 | 1126 | 415 | Stanislav Petkov |

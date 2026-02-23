@@ -587,8 +587,8 @@
 | 579 | 157 | Jazzy Slamdrop |
 | 580 | 157 | David Boggs |
 | 581 | 156 | Nicole McMurray |
-| 582 | 155 | Shirl |
-| 583 | 155 | Stormy Tomplait |
+| 582 | 155 | Stormy Tomplait |
+| 583 | 155 | Shirl |
 | 584 | 155 | Faja |
 | 585 | 154 | Holly Tracey-Grimes |
 | 586 | 154 | Ashley Danielle |
@@ -1019,8 +1019,8 @@
 | 1011 | 74 | David Emmanuel George |
 | 1012 | 74 | Mark Morgan |
 | 1013 | 73 | KnCson |
-| 1014 | 73 | Serene Martell |
-| 1015 | 73 | April Swinney |
+| 1014 | 73 | April Swinney |
+| 1015 | 73 | Serene Martell |
 | 1016 | 73 | Seraphim |
 | 1017 | 73 | Thomas R. Phillips |
 | 1018 | 73 | Rachel Nicole |
