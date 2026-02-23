@@ -247,8 +247,8 @@
 | 239 | 1079 | Jennifer Kistner |
 | 240 | 1079 | Kimberly Hauck-Rausch |
 | 241 | 1078 | Moose Griffith |
-| 242 | 1073 | Eric Carlson |
-| 243 | 1073 | Jodi Blake |
+| 242 | 1073 | Jodi Blake |
+| 243 | 1073 | Eric Carlson |
 | 244 | 1071 | Kim Dean |
 | 245 | 1064 | BK Queen |
 | 246 | 1058 | Rickey Johnson |
@@ -268,8 +268,8 @@
 | 260 | 1021 | Glitzy Stackzone |
 | 261 | 1014 | Michele Morgan |
 | 262 | 1011 | Teresa Gillmore |
-| 263 | 1003 | nikki |
-| 264 | 1003 | Andrea Maher |
+| 263 | 1003 | Andrea Maher |
+| 264 | 1003 | nikki |
 | 265 | 1002 | Foxxo |
 | 266 | 998 | Shelley Thornburgh Wright |
 | 267 | 996 | Ashie Ann |
@@ -398,8 +398,8 @@
 | 390 | 741 | Jánine Riggs |
 | 391 | 740 | Jerry Tempelmeyer |
 | 392 | 738 | Aimee Campbell |
-| 393 | 737 | Chelle |
-| 394 | 737 | Jeremy Parodi |
+| 393 | 737 | Jeremy Parodi |
+| 394 | 737 | Chelle |
 | 395 | 737 | Ginger |
 | 396 | 734 | Amber Gray |
 | 397 | 732 | Victoria Moore-Smith |

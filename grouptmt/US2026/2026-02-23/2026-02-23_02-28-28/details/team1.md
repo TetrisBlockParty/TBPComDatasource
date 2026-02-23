@@ -86,8 +86,8 @@
 | 78 | 584 | Jen Sartain |
 | 79 | 582 | Plucky Fallzone |
 | 80 | 570 | Cody Slav |
-| 81 | 569 | Greg Hart |
-| 82 | 569 | Theo Pinnow |
+| 81 | 569 | Theo Pinnow |
+| 82 | 569 | Greg Hart |
 | 83 | 566 | Cynthia Bradley |
 | 84 | 552 | Aaron Garnett |
 | 85 | 535 | Denice Dee |
@@ -104,8 +104,8 @@
 | 96 | 492 | Ash Galvan |
 | 97 | 489 | Deanna L Hermanson |
 | 98 | 486 | Tater |
-| 99 | 483 | Tdub |
-| 100 | 483 | cc |
+| 99 | 483 | cc |
+| 100 | 483 | Tdub |
 | 101 | 477 | April Carroll |
 | 102 | 472 | Hasbro Bros |
 | 103 | 462 | Luciano Moreira |
@@ -153,8 +153,8 @@
 | 145 | 364 | Serina Marie |
 | 146 | 361 | Tanya Carpenter-Reynolds |
 | 147 | 361 | Amanda Johnson Huffman |
-| 148 | 360 | phrmblk24 |
-| 149 | 360 | Wisa |
+| 148 | 360 | Wisa |
+| 149 | 360 | phrmblk24 |
 | 150 | 359 | Chirpy Smasher |
 | 151 | 353 | Josh Riemer |
 | 152 | 351 | Basment Living |
@@ -169,8 +169,8 @@
 | 161 | 337 | Nicole Roseberry Weber |
 | 162 | 337 | Jamise Brown |
 | 163 | 334 | Jaimie Lynn |
-| 164 | 333 | Gracie |
-| 165 | 333 | GATOR |
+| 164 | 333 | GATOR |
+| 165 | 333 | Gracie |
 | 166 | 332 | Lehrin Maria |
 | 167 | 327 | Jerry Danowski |
 | 168 | 326 | BadG52 |

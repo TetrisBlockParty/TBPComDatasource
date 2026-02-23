@@ -472,7 +472,7 @@
 | 464 | 140 | Sunny Filler |
 | 465 | 140 | Thomas Hettenhaus |
 | 466 | 140 | Rico |
-| 467 | 140 | Sunny Filler |
+| 467 | 140 | Shiny Fit |
 | 468 | 139 | Ann G. Carrillo |
 | 469 | 138 | Gdiguy |
 | 470 | 138 | Lynn Marie |

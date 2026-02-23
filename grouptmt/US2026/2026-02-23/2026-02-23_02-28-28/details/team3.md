@@ -90,8 +90,8 @@
 | 82 | 945 | Shonna Roberts |
 | 83 | 938 | Mandy Smith Oldham |
 | 84 | 935 | Snappy Glidepiece |
-| 85 | 926 | Judi Dobson |
-| 86 | 926 | Angela M. Fletcher |
+| 85 | 926 | Angela M. Fletcher |
+| 86 | 926 | Judi Dobson |
 | 87 | 923 | Christine Filson |
 | 88 | 921 | Michelle |
 | 89 | 918 | MissTaylor |
@@ -111,8 +111,8 @@
 | 103 | 831 | Angeline Joseph |
 | 104 | 830 | Stephanie Allmon |
 | 105 | 826 | Shane Wilson Jr. |
-| 106 | 816 | Brenda Lee Vander Molen |
-| 107 | 816 | Araceli Parra |
+| 106 | 816 | Araceli Parra |
+| 107 | 816 | Brenda Lee Vander Molen |
 | 108 | 800 | Lauren Girouard |
 | 109 | 799 | Dolores Falco |
 | 110 | 795 | Jesse Olive |
@@ -426,8 +426,8 @@
 | 418 | 228 | Stephanie Hill |
 | 419 | 227 | Rebel124 |
 | 420 | 227 | Meowsa |
-| 421 | 226 | Danielle Beaunoyer Jean |
-| 422 | 226 | Jana Polk |
+| 421 | 226 | Jana Polk |
+| 422 | 226 | Danielle Beaunoyer Jean |
 | 423 | 225 | Beezwax |
 | 424 | 224 | Sarah Morris |
 | 425 | 222 | Eileen Brady Thurber |
