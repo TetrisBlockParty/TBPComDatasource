@@ -52,8 +52,8 @@
 | 44 | 1116 | Koshin Abdirahman |
 | 45 | 1093 | Ashley Ingram |
 | 46 | 1085 | Kimyatta Cavin |
-| 47 | 1082 | Dion Crommarty |
-| 48 | 1082 | Dawn Alexander |
+| 47 | 1082 | Dawn Alexander |
+| 48 | 1082 | Dion Crommarty |
 | 49 | 1071 | Cherrish Duren |
 | 50 | 1049 | Heather Tushner |
 | 51 | 1046 | Johnathan Martinez |
@@ -1065,7 +1065,7 @@
 | 1057 | 64 | Jocelyn L. Williams |
 | 1058 | 64 | Phyllis Wilson |
 | 1059 | 64 | Hyper Shatterbuilder |
-| 1060 | 64 | Jocelyn L. Williams |
+| 1060 | 64 | Deanna Mc |
 | 1061 | 64 | Ace317 |
 | 1062 | 64 | Loopy Rollbuilder |
 | 1063 | 64 | Bentley Welsh |

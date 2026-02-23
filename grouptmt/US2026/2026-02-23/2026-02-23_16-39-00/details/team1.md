@@ -64,8 +64,8 @@
 | 56 | 965 | Kristen Roles Robben |
 | 57 | 961 | Adam Byrd |
 | 58 | 955 | Spunky Piecebuilder |
-| 59 | 949 | TSwag |
-| 60 | 949 | Francesca Gee |
+| 59 | 949 | Francesca Gee |
+| 60 | 949 | TSwag |
 | 61 | 937 | Zippy Align |
 | 62 | 931 | Michelle Nicole |
 | 63 | 899 | Fmp |
@@ -193,8 +193,8 @@
 | 185 | 390 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 186 | 388 | Jason Savage |
 | 187 | 387 | Monica Donato |
-| 188 | 387 | Ananda Mendez |
-| 189 | 387 | Carrie Smith |
+| 188 | 387 | Carrie Smith |
+| 189 | 387 | Ananda Mendez |
 | 190 | 386 | Brian Spotts |
 | 191 | 385 | John J. Cronin |
 | 192 | 383 | pjbeta |

@@ -84,8 +84,8 @@
 | 76 | 1244 | Lori Barnaby |
 | 77 | 1229 | Araceli Parra |
 | 78 | 1221 | Betty Ivy |
-| 79 | 1213 | Snappy Glidepiece |
-| 80 | 1213 | Nerdy Riseclear |
+| 79 | 1213 | Nerdy Riseclear |
+| 80 | 1213 | Snappy Glidepiece |
 | 81 | 1212 | Amanda Adkins |
 | 82 | 1186 | Christian A. Pollard |
 | 83 | 1158 | Danielle Mogg |
@@ -195,8 +195,8 @@
 | 187 | 594 | Kristin Delibac Corrigan |
 | 188 | 591 | Michael Nowogorski |
 | 189 | 587 | Louise Stacy Sisson |
-| 190 | 585 | Happy Tetriblast |
-| 191 | 585 | Domo Washington |
+| 190 | 585 | Domo Washington |
+| 191 | 585 | Happy Tetriblast |
 | 192 | 582 | Natasha Jones |
 | 193 | 579 | Elissa S-k |
 | 194 | 576 | Keis |
@@ -230,8 +230,8 @@
 | 222 | 519 | Melissa Orth Hunter |
 | 223 | 516 | Daring Brickzone |
 | 224 | 515 | Cozy Snaplink |
-| 225 | 513 | Twisty Brick LT |
-| 226 | 513 | Lizabeth Fox |
+| 225 | 513 | Lizabeth Fox |
+| 226 | 513 | Twisty Brick LT |
 | 227 | 513 | kacihall |
 | 228 | 512 | FuzzyNavel |
 | 229 | 508 | Fran Lin |
@@ -267,15 +267,15 @@
 | 259 | 451 | Micayah Stevens |
 | 260 | 449 | Mcathen |
 | 261 | 448 | Scott Carleton |
-| 262 | 443 | Fancy Curver |
-| 263 | 443 | Stefanie LaPointe |
+| 262 | 443 | Stefanie LaPointe |
+| 263 | 443 | Fancy Curver |
 | 264 | 443 | Randy Clevenger |
 | 265 | 442 | Marquita Sheard |
 | 266 | 437 | Loopy Clusterer |
 | 267 | 434 | Daring Builder |
 | 268 | 432 | Luciana Braganca Vieira |
-| 269 | 431 | Wendy Dearden |
-| 270 | 431 | Ammmmmmy |
+| 269 | 431 | Ammmmmmy |
+| 270 | 431 | Wendy Dearden |
 | 271 | 430 | Jeni Dow |
 | 272 | 429 | Carrie Huskey |
 | 273 | 428 | Sleepy |
@@ -287,13 +287,13 @@
 | 279 | 420 | Quackers |
 | 280 | 420 | Sabrina Hardrick |
 | 281 | 420 | Sarah Moyer |
-| 282 | 417 | Giddy Twistbuilder |
-| 283 | 417 | Jennifer Alvey |
+| 282 | 417 | Jennifer Alvey |
+| 283 | 417 | Giddy Twistbuilder |
 | 284 | 414 | RickyG |
 | 285 | 412 | Jojo M |
 | 286 | 411 | Megan Rathmanner |
-| 287 | 410 | Duane Bright |
-| 288 | 410 | Brian Battjes |
+| 287 | 410 | Brian Battjes |
+| 288 | 410 | Duane Bright |
 | 289 | 408 | Tiffany Ford |
 | 290 | 408 | Cyd061769 |
 | 291 | 406 | Kristal C Lee |
@@ -426,8 +426,8 @@
 | 418 | 296 | Cheryl Hinch Tenbrook |
 | 419 | 295 | Dakota Graham |
 | 420 | 293 | Loopy Fallzone |
-| 421 | 292 | Khaleada McGill Banks |
-| 422 | 292 | Kirhonda Autmon |
+| 421 | 292 | Kirhonda Autmon |
+| 422 | 292 | Khaleada McGill Banks |
 | 423 | 292 | Arden White Kirsch |
 | 424 | 291 | Hoppy Patternline |
 | 425 | 291 | Swanky Snapclear |
