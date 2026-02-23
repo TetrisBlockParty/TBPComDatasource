@@ -91,8 +91,8 @@
 | 83 | 648 | Evie Khalil |
 | 84 | 647 | Jason Jones |
 | 85 | 600 | Greg Hart |
-| 86 | 598 | Kellie |
-| 87 | 598 | Erin Hodges Plumb |
+| 86 | 598 | Erin Hodges Plumb |
+| 87 | 598 | Kellie |
 | 88 | 588 | Lori Sanders- Davis |
 | 89 | 584 | Jen Sartain |
 | 90 | 583 | Theo Pinnow |
@@ -284,8 +284,8 @@
 | 276 | 255 | Giggly Builderline |
 | 277 | 255 | Beazel75 |
 | 278 | 254 | Al Smith Jr |
-| 279 | 253 | Jamie Jury |
-| 280 | 253 | Cece Ibarra |
+| 279 | 253 | Cece Ibarra |
+| 280 | 253 | Jamie Jury |
 | 281 | 252 | Dena Kayy |
 | 282 | 251 | Angela Fairbank |
 | 283 | 251 | MRdot Rooski |
@@ -330,9 +330,9 @@
 | 322 | 226 | Snappy Brickbuilder |
 | 323 | 226 | Glitzy Buildsnap |
 | 324 | 225 | Angela Spann |
-| 325 | 224 | Jumpy Rotate |
+| 325 | 224 | Sunny Shift |
 | 326 | 224 | Danielle Mae |
-| 327 | 224 | Sunny Shift |
+| 327 | 224 | Jumpy Rotate |
 | 328 | 223 | Christina Backer |
 | 329 | 223 | Erez Yosef |
 | 330 | 222 | Debbie Davis |

@@ -229,12 +229,12 @@
 | 221 | 1245 | Missie Lawson Gebhardt |
 | 222 | 1240 | Brandon Armstrong |
 | 223 | 1237 | Megan Ferguson Leone |
-| 224 | 1232 | Groovy Puzzle |
-| 225 | 1232 | Ambyre Patterson |
+| 224 | 1232 | Ambyre Patterson |
+| 225 | 1232 | Groovy Puzzle |
 | 226 | 1230 | Megan Garrick |
 | 227 | 1221 | Jane Fong |
-| 228 | 1217 | Lucky Ladybug |
-| 229 | 1217 | Brooks Brooks |
+| 228 | 1217 | Brooks Brooks |
+| 229 | 1217 | Lucky Ladybug |
 | 230 | 1216 | Pacynthia Williams |
 | 231 | 1214 | David Cudicio-Hayden |
 | 232 | 1211 | Ricardo Burton |
@@ -319,8 +319,8 @@
 | 311 | 976 | Della Hole |
 | 312 | 975 | Hyper Cluster |
 | 313 | 974 | Boldy Cascadepiece |
-| 314 | 972 | Barbra Miller |
-| 315 | 972 | Binyah-Binyah |
+| 314 | 972 | Binyah-Binyah |
+| 315 | 972 | Barbra Miller |
 | 316 | 971 | Jojo Momma |
 | 317 | 969 | Em Chen |
 | 318 | 965 | Jamie Otero |
@@ -390,12 +390,12 @@
 | 382 | 832 | Nicole L Morelli |
 | 383 | 831 | Christina Lewis-Vickers |
 | 384 | 830 | Smashanator |
-| 385 | 829 | Jessica Wayne Cornwall |
-| 386 | 829 | Angie Bolton Workman |
+| 385 | 829 | Angie Bolton Workman |
+| 386 | 829 | Jessica Wayne Cornwall |
 | 387 | 828 | Kimmy Newman |
 | 388 | 825 | Jeremy Parodi |
-| 389 | 824 | Khalil Lowe |
-| 390 | 824 | Danielle Johnson-Chandler |
+| 389 | 824 | Danielle Johnson-Chandler |
+| 390 | 824 | Khalil Lowe |
 | 391 | 822 | Lola Contreras |
 | 392 | 821 | Cassie Mercer |
 | 393 | 818 | Dennis McLaurin |
@@ -601,9 +601,9 @@
 | 593 | 601 | Moua Ying |
 | 594 | 600 | Nicole Cox |
 | 595 | 599 | Cc |
-| 596 | 597 | Magic steve |
+| 596 | 597 | TJ Nash |
 | 597 | 597 | Jamie Schmitt |
-| 598 | 597 | TJ Nash |
+| 598 | 597 | Magic steve |
 | 599 | 596 | Davetta Sanford |
 | 600 | 595 | Dapper Dasher |
 | 601 | 594 | Laura Mclean |
@@ -613,12 +613,12 @@
 | 605 | 589 | Shavonna Haynes |
 | 606 | 589 | Kelly Templeton |
 | 607 | 588 | Kitybox |
-| 608 | 587 | Slip |
-| 609 | 587 | Ben Barkley |
+| 608 | 587 | Ben Barkley |
+| 609 | 587 | Slip |
 | 610 | 586 | Michael Artis |
 | 611 | 585 | Wuntayk |
-| 612 | 585 | Shelva Richard |
-| 613 | 585 | Jessica Lamb |
+| 612 | 585 | Jessica Lamb |
+| 613 | 585 | Shelva Richard |
 | 614 | 582 | Dawn L Washington-Feuquay |
 | 615 | 582 | Ebony Deloach Bryant |
 | 616 | 581 | Angie Marie |
@@ -711,8 +711,8 @@
 | 703 | 515 | Adam Simmons |
 | 704 | 515 | Gina Bahn |
 | 705 | 513 | MrsCandyfine As Wine Truss |
-| 706 | 512 | Bonita Kee |
-| 707 | 512 | Leslie Jorgenson |
+| 706 | 512 | Leslie Jorgenson |
+| 707 | 512 | Bonita Kee |
 | 708 | 512 | Kelly |
 | 709 | 512 | Nicole Sanqui |
 | 710 | 512 | Sassy Linkroll |
@@ -756,8 +756,8 @@
 | 748 | 490 | Juanita Lyons |
 | 749 | 489 | Britney M. |
 | 750 | 489 | Christy Krissie |
-| 751 | 487 | Christy Long |
-| 752 | 487 | Morgan Easter |
+| 751 | 487 | Morgan Easter |
+| 752 | 487 | Christy Long |
 | 753 | 487 | RaeVan Worthington |
 | 754 | 486 | Ashley Collins |
 | 755 | 485 | coleksquad |
@@ -795,8 +795,8 @@
 | 787 | 470 | Katie Marie |
 | 788 | 470 | Stephanie Fortune |
 | 789 | 470 | AkaLefty |
-| 790 | 470 | Amanda Chamberlain |
-| 791 | 470 | ToShi |
+| 790 | 470 | ToShi |
+| 791 | 470 | Amanda Chamberlain |
 | 792 | 469 | Moist_B-hole |
 | 793 | 468 | Niceday |
 | 794 | 468 | Brenda Annabel Smith |

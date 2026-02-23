@@ -129,8 +129,8 @@
 | 121 | 514 | Serena Goodridge |
 | 122 | 514 | Scott Jameson |
 | 123 | 513 | Erin Thomas |
-| 124 | 512 | Cristy Duerksen |
-| 125 | 512 | Casey Jeffcoat |
+| 124 | 512 | Casey Jeffcoat |
+| 125 | 512 | Cristy Duerksen |
 | 126 | 509 | Leslie Nicole |
 | 127 | 493 | Carly Alexis |
 | 128 | 485 | Melissa Adams |
@@ -183,8 +183,8 @@
 | 175 | 372 | George Nutt |
 | 176 | 370 | Oscar Alberto Perez |
 | 177 | 369 | Lindsey Gonzalez |
-| 178 | 368 | Silly Zonebuilder |
-| 179 | 368 | Brandon Crabbs |
+| 178 | 368 | Brandon Crabbs |
+| 179 | 368 | Silly Zonebuilder |
 | 180 | 368 | Raegan Lane-Ross |
 | 181 | 365 | Jeff Brian Gates |
 | 182 | 361 | Carlos Ramirez |
@@ -389,8 +389,8 @@
 | 381 | 191 | Earnest Thompson |
 | 382 | 191 | Norman Klick |
 | 383 | 190 | wombat |
-| 384 | 189 | Lauren Lamb |
-| 385 | 189 | Berklie Apedaile |
+| 384 | 189 | Berklie Apedaile |
+| 385 | 189 | Lauren Lamb |
 | 386 | 189 | Cool Towerbuilder |
 | 387 | 188 | Sharyn Lemire |
 | 388 | 188 | Frilly Blocky |
@@ -439,7 +439,7 @@
 | 431 | 170 | Joshua W. Benton |
 | 432 | 170 | Peppy Drop |
 | 433 | 170 | ChasingZen |
-| 434 | 170 | Peppy Drop |
+| 434 | 170 | Elie Pean |
 | 435 | 170 | Vamp |
 | 436 | 169 | Jessica Atkinson |
 | 437 | 169 | Duck |
@@ -478,8 +478,8 @@
 | 470 | 158 | Jasmine S Caldwell |
 | 471 | 158 | Grann8 |
 | 472 | 157 | David Boggs |
-| 473 | 157 | LunaMoon |
-| 474 | 157 | Ryry |
+| 473 | 157 | Ryry |
+| 474 | 157 | LunaMoon |
 | 475 | 156 | Mighty Edgepiece |
 | 476 | 155 | Faja |
 | 477 | 155 | Shirl |
@@ -805,8 +805,8 @@
 | 797 | 88 | Buttlicker |
 | 798 | 88 | Beezie |
 | 799 | 87 | Jason Punch |
-| 800 | 87 | b |
-| 801 | 87 | Kat |
+| 800 | 87 | Kat |
+| 801 | 87 | b |
 | 802 | 87 | Derek Pendarvis |
 | 803 | 86 | Bigg Guy |
 | 804 | 85 | Christina Nycol |

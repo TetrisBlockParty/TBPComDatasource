@@ -114,15 +114,15 @@
 | 106 | 869 | Araceli Parra |
 | 107 | 868 | Sarajane Lokan |
 | 108 | 860 | Sunny Rotater |
-| 109 | 851 | Danielle Becker |
-| 110 | 851 | Jd Morris |
+| 109 | 851 | Jd Morris |
+| 110 | 851 | Danielle Becker |
 | 111 | 850 | Danielle Mogg |
 | 112 | 848 | Patricia Gadsden |
 | 113 | 839 | Angeline Joseph |
 | 114 | 830 | Stephanie Allmon |
 | 115 | 826 | Shane Wilson Jr. |
-| 116 | 816 | Jesse Olive |
-| 117 | 816 | Brenda Lee Vander Molen |
+| 116 | 816 | Brenda Lee Vander Molen |
+| 117 | 816 | Jesse Olive |
 | 118 | 802 | Bobbi Moore |
 | 119 | 800 | Lauren Girouard |
 | 120 | 799 | Dolores Falco |
@@ -137,8 +137,8 @@
 | 129 | 755 | Katrina Schroeder |
 | 130 | 752 | Logan Naccarato |
 | 131 | 748 | Adrian Marcel Pate |
-| 132 | 745 | JerseyJess |
-| 133 | 745 | ren |
+| 132 | 745 | ren |
+| 133 | 745 | JerseyJess |
 | 134 | 744 | Fancy Cascader |
 | 135 | 744 | Leah Barnett |
 | 136 | 736 | mzcatzy |
@@ -495,8 +495,8 @@
 | 487 | 225 | Sassy Tiler |
 | 488 | 225 | sofaking |
 | 489 | 224 | Sarah Morris |
-| 490 | 224 | Christina Rotz Shows |
-| 491 | 224 | Cranky Corner |
+| 490 | 224 | Cranky Corner |
+| 491 | 224 | Christina Rotz Shows |
 | 492 | 222 | Angel Miller |
 | 493 | 221 | Christen Cannon Layhew |
 | 494 | 221 | Bleu Sun Beams |
@@ -648,8 +648,8 @@
 | 640 | 178 | Draone Grayson |
 | 641 | 177 | Matty Ray |
 | 642 | 177 | Elizabeth Renee |
-| 643 | 177 | Jm |
-| 644 | 177 | Chad |
+| 643 | 177 | Chad |
+| 644 | 177 | Jm |
 | 645 | 176 | Jackie-Lynne Goertzen |
 | 646 | 176 | Bekah Dietrich |
 | 647 | 175 | Giggy Balanceblock |
