@@ -162,8 +162,8 @@
 | 154 | 376 | Death |
 | 155 | 375 | Connie |
 | 156 | 375 | Tanya Carpenter-Reynolds |
-| 157 | 371 | Jason Savage |
-| 158 | 371 | Basment Living |
+| 157 | 371 | Basment Living |
+| 158 | 371 | Jason Savage |
 | 159 | 369 | Christy Jones |
 | 160 | 368 | Amanda Johnson Huffman |
 | 161 | 367 | Sharon Reynolds |
@@ -183,13 +183,13 @@
 | 175 | 346 | GATOR |
 | 176 | 346 | Erin Rosberg |
 | 177 | 345 | Jerry Danowski |
-| 178 | 343 | Elaine Elaine |
-| 179 | 343 | Chelsea Dahlquist |
+| 178 | 343 | Chelsea Dahlquist |
+| 179 | 343 | Elaine Elaine |
 | 180 | 341 | Nick R Montague |
 | 181 | 339 | Nicole Roseberry Weber |
 | 182 | 338 | Jennifer Hardman |
-| 183 | 337 | Constance Risner |
-| 184 | 337 | Jamise Brown |
+| 183 | 337 | Jamise Brown |
+| 184 | 337 | Constance Risner |
 | 185 | 336 | Dizzy Party |
 | 186 | 333 | Virginia Gray Floyd |
 | 187 | 333 | Gracie |
@@ -225,8 +225,8 @@
 | 217 | 290 | Speedy Liney |
 | 218 | 290 | Hellsin |
 | 219 | 287 | Sassy Builderline |
-| 220 | 285 | Shanae Grant |
-| 221 | 285 | Bird Person |
+| 220 | 285 | Bird Person |
+| 221 | 285 | Shanae Grant |
 | 222 | 284 | Sarah Somers Gray |
 | 223 | 283 | Franswa |
 | 224 | 283 | Amanda Holibaugh |
@@ -443,10 +443,10 @@
 | 435 | 162 | Nerdy Curvebuilder |
 | 436 | 162 | Jennifer Corrado |
 | 437 | 162 | Hector Cruz |
-| 438 | 161 | Matthew Foley |
-| 439 | 161 | Danielle S Kester |
-| 440 | 160 | Hasty Cascader |
-| 441 | 160 | Sunny Catcher |
+| 438 | 161 | Danielle S Kester |
+| 439 | 161 | Matthew Foley |
+| 440 | 160 | Sunny Catcher |
+| 441 | 160 | Hasty Cascader |
 | 442 | 160 | Jeremy Maubert |
 | 443 | 159 | Krista Young |
 | 444 | 159 | Uhog SF |

@@ -26,8 +26,8 @@
 | 18 | 1630 | Tina Martinez |
 | 19 | 1565 | GreenJeepGirl |
 | 20 | 1558 | Leah Gorsuch |
-| 21 | 1536 | Roger Coulter |
-| 22 | 1536 | Misty Hollibaugh |
+| 21 | 1536 | Misty Hollibaugh |
+| 22 | 1536 | Roger Coulter |
 | 23 | 1485 | Juggalo |
 | 24 | 1390 | Sammy Noguera |
 | 25 | 1382 | Tammi Crnza |
@@ -69,8 +69,8 @@
 | 61 | 803 | Amelpss |
 | 62 | 788 | Julian Garcia |
 | 63 | 787 | Edward White |
-| 64 | 781 | Ashley Ingram |
-| 65 | 781 | Chilly Line |
+| 64 | 781 | Chilly Line |
+| 65 | 781 | Ashley Ingram |
 | 66 | 767 | Shannon Ferrari |
 | 67 | 766 | Robin Watters |
 | 68 | 765 | Robin Getchel |
@@ -122,11 +122,11 @@
 | 114 | 519 | Nugget |
 | 115 | 517 | Christina LR |
 | 116 | 517 | shar |
-| 117 | 514 | Serena Goodridge |
-| 118 | 514 | Scott Jameson |
+| 117 | 514 | Scott Jameson |
+| 118 | 514 | Serena Goodridge |
 | 119 | 513 | Erin Thomas |
-| 120 | 512 | Casey Jeffcoat |
-| 121 | 512 | Cristy Duerksen |
+| 120 | 512 | Cristy Duerksen |
+| 121 | 512 | Casey Jeffcoat |
 | 122 | 511 | Lori Walker |
 | 123 | 509 | Leslie Nicole |
 | 124 | 482 | Ren Mc |
@@ -176,8 +176,8 @@
 | 168 | 368 | Brandon Crabbs |
 | 169 | 368 | Raegan Lane-Ross |
 | 170 | 365 | Jeff Brian Gates |
-| 171 | 361 | Melissa Adams |
-| 172 | 361 | Danielle Kollias |
+| 171 | 361 | Danielle Kollias |
+| 172 | 361 | Melissa Adams |
 | 173 | 359 | Keith Kelley |
 | 174 | 358 | A5! |
 | 175 | 356 | George Nutt |
@@ -242,8 +242,8 @@
 | 234 | 276 | Joeliecea Cobb |
 | 235 | 274 | JPW |
 | 236 | 273 | Cranky Rollpiece |
-| 237 | 272 | Dennis Bradley |
-| 238 | 272 | Alan George LaRage |
+| 237 | 272 | Alan George LaRage |
+| 238 | 272 | Dennis Bradley |
 | 239 | 272 | Carlos Ramirez |
 | 240 | 271 | Holly |
 | 241 | 270 | Jen Caldwell |
@@ -273,8 +273,8 @@
 | 265 | 251 | Carol Ricks Raymond |
 | 266 | 249 | Nick Gray |
 | 267 | 249 | Ak Jones |
-| 268 | 248 | Chirpy Basepiece |
-| 269 | 248 | Jose Dejesus |
+| 268 | 248 | Jose Dejesus |
+| 269 | 248 | Chirpy Basepiece |
 | 270 | 245 | 23 |
 | 271 | 244 | Christina Black |
 | 272 | 244 | Elizabeth Tinoco |
@@ -813,12 +813,12 @@
 | 805 | 82 | Danielle Love |
 | 806 | 82 | Jorge Hamoui |
 | 807 | 81 | Zippy Stack |
-| 808 | 81 | Tiffany Root |
-| 809 | 81 | Jamie Hirtle |
-| 810 | 81 | Penny Dean |
-| 811 | 81 | Molly Ananda Rickerson |
-| 812 | 80 | Rae Henderson |
-| 813 | 80 | Angel Johnson |
+| 808 | 81 | Penny Dean |
+| 809 | 81 | Molly Ananda Rickerson |
+| 810 | 81 | Jamie Hirtle |
+| 811 | 81 | Tiffany Root |
+| 812 | 80 | Angel Johnson |
+| 813 | 80 | Rae Henderson |
 | 814 | 80 | Joey Riley |
 | 815 | 80 | Bold Towerpiece |
 | 816 | 80 | Bubbly Setter |

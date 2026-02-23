@@ -402,8 +402,8 @@
 | 394 | 787 | Tiara Elizabeth Baker |
 | 395 | 783 | John Rodriguez |
 | 396 | 779 | Kayla |
-| 397 | 777 | Jessicah Myers |
-| 398 | 777 | Tesha Oldaker |
+| 397 | 777 | Tesha Oldaker |
+| 398 | 777 | Jessicah Myers |
 | 399 | 776 | Fancy Twister |
 | 400 | 776 | Mighty Spinbuilder |
 | 401 | 775 | Crystie Hicks |
@@ -609,8 +609,8 @@
 | 601 | 564 | Stacey Tranchida |
 | 602 | 563 | Frisky Clearpiece |
 | 603 | 562 | Sabrena Yeisley |
-| 604 | 559 | Anthony Huebel |
-| 605 | 559 | Alexx Anaya |
+| 604 | 559 | Alexx Anaya |
+| 605 | 559 | Anthony Huebel |
 | 606 | 558 | Libby Hicks |
 | 607 | 557 | Megan Kitchner |
 | 608 | 556 | Venita Ray |

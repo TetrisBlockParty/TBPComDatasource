@@ -134,8 +134,8 @@
 | 126 | 745 | JerseyJess |
 | 127 | 744 | Leah Barnett |
 | 128 | 744 | Fancy Cascader |
-| 129 | 736 | Katrina Schroeder |
-| 130 | 736 | mzcatzy |
+| 129 | 736 | mzcatzy |
+| 130 | 736 | Katrina Schroeder |
 | 131 | 734 | Calista Jo Dickson |
 | 132 | 728 | Peppy Shifter |
 | 133 | 727 | Hasty Cascadefit |
@@ -173,8 +173,8 @@
 | 165 | 591 | Michael Nowogorski |
 | 166 | 588 | Justin Ritter |
 | 167 | 587 | Louise Stacy Sisson |
-| 168 | 585 | Annie Marie |
-| 169 | 585 | Happy Tetriblast |
+| 168 | 585 | Happy Tetriblast |
+| 169 | 585 | Annie Marie |
 | 170 | 583 | Tasha Gillespie |
 | 171 | 582 | Natasha Jones |
 | 172 | 577 | Domo Washington |
@@ -192,8 +192,8 @@
 | 184 | 546 | Cynthia Castros-Hampton |
 | 185 | 546 | Tasha Schriewer |
 | 186 | 540 | Shawn Miller |
-| 187 | 531 | Chauntee Alfrey-Cardinale |
-| 188 | 531 | Sarah Cowan Burgos |
+| 187 | 531 | Sarah Cowan Burgos |
+| 188 | 531 | Chauntee Alfrey-Cardinale |
 | 189 | 528 | Silly Twist |
 | 190 | 525 | Stephanie Blkpep Davidson |
 | 191 | 524 | Bmo |
@@ -231,8 +231,8 @@
 | 223 | 448 | Scott Carleton |
 | 224 | 437 | Loopy Clusterer |
 | 225 | 432 | Luciana Braganca Vieira |
-| 226 | 431 | Ammmmmmy |
-| 227 | 431 | Wendy Dearden |
+| 226 | 431 | Wendy Dearden |
+| 227 | 431 | Ammmmmmy |
 | 228 | 430 | Jeni Dow |
 | 229 | 418 | Rebecca Funderburk Kirby |
 | 230 | 414 | Fran Lin |
@@ -258,8 +258,8 @@
 | 250 | 377 | Charles Perrone |
 | 251 | 374 | Rania Zaqout |
 | 252 | 373 | Chummy Caster |
-| 253 | 372 | Sarah Moyer |
-| 254 | 372 | Rich LeBlanc |
+| 253 | 372 | Rich LeBlanc |
+| 254 | 372 | Sarah Moyer |
 | 255 | 371 | Marquita Sheard |
 | 256 | 371 | block chick |
 | 257 | 370 | Samantha Lynn |
@@ -598,7 +598,7 @@
 | 590 | 181 | Shiny Zonebuilder |
 | 591 | 181 | Julia Nicole |
 | 592 | 181 | Rashad Green |
-| 593 | 181 | Julia Nicole |
+| 593 | 181 | krazibtch |
 | 594 | 180 | Chipper Piecefit |
 | 595 | 180 | Michell Hendershott Jackson |
 | 596 | 180 | Stella |
