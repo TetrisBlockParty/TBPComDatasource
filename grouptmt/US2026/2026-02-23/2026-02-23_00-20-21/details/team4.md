@@ -126,8 +126,8 @@
 | 118 | 458 | Twisty Clicky |
 | 119 | 448 | Kristin Manee |
 | 120 | 435 | Leslie Thomas |
-| 121 | 431 | Courtney Cicoria |
-| 122 | 431 | Jolly Dashfit |
+| 121 | 431 | Jolly Dashfit |
+| 122 | 431 | Courtney Cicoria |
 | 123 | 429 | Ren Mc |
 | 124 | 427 | KJ Pool |
 | 125 | 418 | Marie-Pier Desjardins |
@@ -138,8 +138,8 @@
 | 130 | 408 | Amanda Pauldo-Ivy |
 | 131 | 400 | Ericca Eldridge |
 | 132 | 394 | Austin Owens |
-| 133 | 393 | Trish |
-| 134 | 393 | Carlton Unfiltered |
+| 133 | 393 | Carlton Unfiltered |
+| 134 | 393 | Trish |
 | 135 | 392 | Cristy Duerksen |
 | 136 | 391 | Ramel Rhodes |
 | 137 | 384 | Lucas J Sutton |
@@ -225,8 +225,8 @@
 | 217 | 261 | scott |
 | 218 | 259 | Montiette Mcglown |
 | 219 | 258 | April Rondinone |
-| 220 | 257 | Cheery Risebuilder |
-| 221 | 257 | PeaceOs |
+| 220 | 257 | PeaceOs |
+| 221 | 257 | Cheery Risebuilder |
 | 222 | 256 | Mylo Lipscomb |
 | 223 | 252 | Mr. Party |
 | 224 | 252 | Selena Shaw |
@@ -393,7 +393,7 @@
 | 385 | 152 | Sticherella |
 | 386 | 152 | Cheery Fitline |
 | 387 | 152 | Faja |
-| 388 | 152 | Funky Risepiece |
+| 388 | 152 | Cranky Rollpiece |
 | 389 | 152 | Vanessa Smart |
 | 390 | 152 | Funky Risepiece |
 | 391 | 152 | Michael Orris |

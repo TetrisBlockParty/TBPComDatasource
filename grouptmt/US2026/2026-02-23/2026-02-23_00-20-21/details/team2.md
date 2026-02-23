@@ -456,8 +456,8 @@
 | 448 | 626 | Demeka Dangerous-kisses Johnson |
 | 449 | 623 | Kimberly Hope Howell |
 | 450 | 620 | Traci Johnson |
-| 451 | 618 | Vanessa Moreno |
-| 452 | 618 | Caitlyn Blackwell |
+| 451 | 618 | Caitlyn Blackwell |
+| 452 | 618 | Vanessa Moreno |
 | 453 | 617 | Darcy Mae |
 | 454 | 617 | Nicole Cannon |
 | 455 | 615 | Julio A Laracuente |

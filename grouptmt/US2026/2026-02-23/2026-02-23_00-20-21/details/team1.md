@@ -160,8 +160,8 @@
 | 152 | 336 | Fmp |
 | 153 | 334 | Jaimie Lynn |
 | 154 | 333 | GATOR |
-| 155 | 333 | Jennifer Hardman |
-| 156 | 333 | Gracie |
+| 155 | 333 | Gracie |
+| 156 | 333 | Jennifer Hardman |
 | 157 | 332 | Lehrin Maria |
 | 158 | 329 | Chelsea Dahlquist |
 | 159 | 325 | Dizzy Party |
@@ -169,7 +169,7 @@
 | 161 | 324 | Rat666 |
 | 162 | 318 | Constance Risner |
 | 163 | 318 | Jessica Sheehan |
-| 164 | 318 | Constance Risner |
+| 164 | 318 | Virginia Gray Floyd |
 | 165 | 317 | Rachael |
 | 166 | 316 | Nicole Roseberry Weber |
 | 167 | 315 | Tyler Werts |

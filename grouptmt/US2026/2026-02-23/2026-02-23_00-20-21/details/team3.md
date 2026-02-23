@@ -97,8 +97,8 @@
 | 89 | 860 | Sunny Rotater |
 | 90 | 849 | Danielle Becker |
 | 91 | 848 | Patricia Gadsden |
-| 92 | 838 | MissTaylor |
-| 93 | 838 | Sarajane Lokan |
+| 92 | 838 | Sarajane Lokan |
+| 93 | 838 | MissTaylor |
 | 94 | 831 | Angeline Joseph |
 | 95 | 830 | Stephanie Allmon |
 | 96 | 829 | Chelsea Hall |
@@ -142,8 +142,8 @@
 | 134 | 621 | Cherry Parker |
 | 135 | 611 | Kiki |
 | 136 | 610 | Daryn Elliott |
-| 137 | 595 | Patricia White |
-| 138 | 595 | Giddy Drop |
+| 137 | 595 | Giddy Drop |
+| 138 | 595 | Patricia White |
 | 139 | 590 | Santeria Trece Candles |
 | 140 | 588 | Justin Ritter |
 | 141 | 585 | opf |
@@ -155,8 +155,8 @@
 | 147 | 571 | Nicole Myers |
 | 148 | 568 | Rachael McClain Owens |
 | 149 | 567 | Domo Washington |
-| 150 | 562 | Dave Herzog |
-| 151 | 562 | Louise Stacy Sisson |
+| 150 | 562 | Louise Stacy Sisson |
+| 151 | 562 | Dave Herzog |
 | 152 | 553 | LaTanya GeminiondaRise Johnson |
 | 153 | 548 | Tasha Gillespie |
 | 154 | 546 | Cynthia Castros-Hampton |
@@ -229,8 +229,8 @@
 | 221 | 383 | Darlene McMillan |
 | 222 | 383 | Nicole Flippo |
 | 223 | 383 | Heather Green |
-| 224 | 382 | Scott Carleton |
-| 225 | 382 | Giddy Twistbuilder |
+| 224 | 382 | Giddy Twistbuilder |
+| 225 | 382 | Scott Carleton |
 | 226 | 378 | Chris Bell |
 | 227 | 375 | Duane Bright |
 | 228 | 375 | Kristal C Lee |
@@ -342,8 +342,8 @@
 | 334 | 266 | Donna |
 | 335 | 266 | Quirky Dropzone |
 | 336 | 265 | Michael Kimbro |
-| 337 | 263 | Jimmie Clemons |
-| 338 | 263 | Erika Thornton |
+| 337 | 263 | Erika Thornton |
+| 338 | 263 | Jimmie Clemons |
 | 339 | 262 | Kristin Delibac Corrigan |
 | 340 | 262 | Shawn Miller |
 | 341 | 261 | Angela Scott |
@@ -486,8 +486,8 @@
 | 478 | 188 | Sunny Lift |
 | 479 | 187 | Sabrina Mansfield |
 | 480 | 185 | Funky Jumper |
-| 481 | 184 | Shanon R Jackson |
-| 482 | 184 | Cheeky Setter |
+| 481 | 184 | Cheeky Setter |
+| 482 | 184 | Shanon R Jackson |
 | 483 | 183 | AC Yeater |
 | 484 | 182 | Kali Kelz Williams |
 | 485 | 182 | Dee Pratt |
