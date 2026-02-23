@@ -126,8 +126,8 @@
 | 118 | 458 | Twisty Clicky |
 | 119 | 448 | Kristin Manee |
 | 120 | 435 | Leslie Thomas |
-| 121 | 431 | Courtney Cicoria |
-| 122 | 431 | Jolly Dashfit |
+| 121 | 431 | Jolly Dashfit |
+| 122 | 431 | Courtney Cicoria |
 | 123 | 429 | Ren Mc |
 | 124 | 427 | KJ Pool |
 | 125 | 418 | Monica Daley |
@@ -146,7 +146,7 @@
 | 138 | 380 | Swanky Fitline |
 | 139 | 377 | Jessica Bohlken |
 | 140 | 377 | Kristina Black |
-| 141 | 377 | Jessica Bohlken |
+| 141 | 377 | Carrie Brian |
 | 142 | 376 | Kesha Brady |
 | 143 | 374 | Guy Incognito |
 | 144 | 373 | Joseph Guthrie |
@@ -164,8 +164,8 @@
 | 156 | 344 | Rafael Valentin |
 | 157 | 342 | Klo |
 | 158 | 339 | David Lay |
-| 159 | 336 | Peachy Fall |
-| 160 | 336 | Melissa Adams |
+| 159 | 336 | Melissa Adams |
+| 160 | 336 | Peachy Fall |
 | 161 | 333 | Twisty Cascadezone |
 | 162 | 332 | Leslie Nicole |
 | 163 | 332 | HastyGrabber |
@@ -318,8 +318,8 @@
 | 310 | 183 | Cozy Balancer |
 | 311 | 183 | Twisty Risebuilder |
 | 312 | 181 | Nikki Wilson |
-| 313 | 179 | AyeKay |
-| 314 | 179 | Denise B |
+| 313 | 179 | Denise B |
+| 314 | 179 | AyeKay |
 | 315 | 178 | Zippy Tilt |
 | 316 | 177 | Ernest Maxwell |
 | 317 | 177 | Michelle Morris |

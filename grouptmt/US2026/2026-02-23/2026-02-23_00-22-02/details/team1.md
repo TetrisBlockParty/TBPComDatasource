@@ -135,8 +135,8 @@
 | 127 | 391 | Lori Bales |
 | 128 | 390 | Goose egg |
 | 129 | 387 | Emily Adelaide Wheatley |
-| 130 | 386 | Ty Brown |
-| 131 | 386 | David Miller |
+| 130 | 386 | David Miller |
+| 131 | 386 | Ty Brown |
 | 132 | 383 | pjbeta |
 | 133 | 379 | Austin James |
 | 134 | 379 | Kimmie Kimms |
@@ -240,8 +240,8 @@
 | 232 | 244 | Melissa Lemmon |
 | 233 | 242 | ParisandCory Champagne |
 | 234 | 241 | Tyler Hertzog |
-| 235 | 240 | DaRascal |
-| 236 | 240 | Daring Fitclear |
+| 235 | 240 | Daring Fitclear |
+| 236 | 240 | DaRascal |
 | 237 | 239 | Lacy Wolfe |
 | 238 | 238 | Sarah Somers Gray |
 | 239 | 238 | Tiffany Smith |

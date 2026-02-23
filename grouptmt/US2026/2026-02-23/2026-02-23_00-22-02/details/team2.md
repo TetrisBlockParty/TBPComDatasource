@@ -343,8 +343,8 @@
 | 335 | 808 | Desire Rice |
 | 336 | 807 | Khalil Lowe |
 | 337 | 799 | Joy LaJeunesse |
-| 338 | 793 | Lisa Ongtowasruk |
-| 339 | 793 | Heather Schelkopf |
+| 338 | 793 | Heather Schelkopf |
+| 339 | 793 | Lisa Ongtowasruk |
 | 340 | 792 | Gold Rose |
 | 341 | 790 | Brenda Pierpoint |
 | 342 | 788 | Erika Densmore |
@@ -364,10 +364,10 @@
 | 356 | 763 | Heather Causey |
 | 357 | 761 | Hyper Cluster |
 | 358 | 760 | Doowop40 |
-| 359 | 760 | Andrew Willis |
-| 360 | 760 | Cheech Dta |
-| 361 | 758 | Quirky Twistline |
-| 362 | 758 | Stephanie Neuburger |
+| 359 | 760 | Cheech Dta |
+| 360 | 760 | Andrew Willis |
+| 361 | 758 | Stephanie Neuburger |
+| 362 | 758 | Quirky Twistline |
 | 363 | 751 | Loony Snapper |
 | 364 | 748 | Brenda Utphall |
 | 365 | 748 | Stephanie Lumanlan |
@@ -419,8 +419,8 @@
 | 411 | 680 | Kenny Alvarado |
 | 412 | 679 | Kassandra Hunt |
 | 413 | 677 | Crystie Hicks |
-| 414 | 677 | Ellie Jonas |
-| 415 | 677 | Amanda Woodruff |
+| 414 | 677 | Amanda Woodruff |
+| 415 | 677 | Ellie Jonas |
 | 416 | 676 | Roseanna Peloso |
 | 417 | 674 | Lonne Emade |
 | 418 | 674 | Connie Jimenez |
@@ -466,8 +466,8 @@
 | 458 | 613 | Ann Matzkanin |
 | 459 | 612 | Slinky Racker |
 | 460 | 611 | Biggest thing |
-| 461 | 607 | Michelle Lee |
-| 462 | 607 | Véronique Lévesque Sabourin |
+| 461 | 607 | Véronique Lévesque Sabourin |
+| 462 | 607 | Michelle Lee |
 | 463 | 605 | Santana Miyagi |
 | 464 | 603 | Casper The Chonk |
 | 465 | 602 | KhaosLord |

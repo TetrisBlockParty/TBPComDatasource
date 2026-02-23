@@ -129,8 +129,8 @@
 | 121 | 693 | Hasty Cascadefit |
 | 122 | 688 | Jesse Olive |
 | 123 | 683 | Samantha Greco |
-| 124 | 674 | Patty Allen |
-| 125 | 674 | Leah Barnett |
+| 124 | 674 | Leah Barnett |
+| 125 | 674 | Patty Allen |
 | 126 | 668 | Betty Ivy |
 | 127 | 650 | Jd Morris |
 | 128 | 649 | Shavette |
@@ -337,13 +337,13 @@
 | 329 | 269 | Brenda Schmid Wood |
 | 330 | 269 | Micayah Stevens |
 | 331 | 268 | Dirtgirl27 |
-| 332 | 268 | Krystal Gerstberger |
+| 332 | 268 | Michael Lucado |
 | 333 | 267 | April Matthew Kibble |
 | 334 | 266 | Donna |
 | 335 | 266 | Quirky Dropzone |
 | 336 | 265 | Michael Kimbro |
-| 337 | 263 | Jimmie Clemons |
-| 338 | 263 | Erika Thornton |
+| 337 | 263 | Erika Thornton |
+| 338 | 263 | Jimmie Clemons |
 | 339 | 262 | Kristin Delibac Corrigan |
 | 340 | 262 | Shawn Miller |
 | 341 | 261 | Angela Scott |
@@ -361,9 +361,9 @@
 | 353 | 247 | Jessica |
 | 354 | 247 | Daring Builder |
 | 355 | 245 | Latoya Mayne |
-| 356 | 244 | Quackers |
-| 357 | 244 | LaNette Morgan |
-| 358 | 244 | Tegan Chapman |
+| 356 | 244 | LaNette Morgan |
+| 357 | 244 | Tegan Chapman |
+| 358 | 244 | Quackers |
 | 359 | 243 | Josh Borquez |
 | 360 | 242 | Randy Clevenger |
 | 361 | 240 | Rachel Grant |
