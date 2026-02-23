@@ -163,8 +163,8 @@
 | 155 | 417 | Steph Marie |
 | 156 | 417 | Amanda Pauldo-Ivy |
 | 157 | 416 | Chaz Duncan |
-| 158 | 414 | Swanky Fitline |
-| 159 | 414 | Nope Young |
+| 158 | 414 | Nope Young |
+| 159 | 414 | Swanky Fitline |
 | 160 | 413 | Circuit8 |
 | 161 | 412 | Jessica Bohlken |
 | 162 | 406 | Damn Libra |
@@ -184,11 +184,11 @@
 | 176 | 372 | George Nutt |
 | 177 | 370 | Oscar Alberto Perez |
 | 178 | 369 | Lindsey Gonzalez |
-| 179 | 368 | Raegan Lane-Ross |
-| 180 | 368 | Silly Zonebuilder |
+| 179 | 368 | Silly Zonebuilder |
+| 180 | 368 | Raegan Lane-Ross |
 | 181 | 365 | Jeff Brian Gates |
-| 182 | 361 | Danielle Kollias |
-| 183 | 361 | Carlos Ramirez |
+| 182 | 361 | Carlos Ramirez |
+| 183 | 361 | Danielle Kollias |
 | 184 | 358 | Twisty Cascadezone |
 | 185 | 358 | A5! |
 | 186 | 355 | James Hurley Jr. |
@@ -494,7 +494,7 @@
 | 486 | 151 | Walter Beltran |
 | 487 | 151 | Daresha Fair |
 | 488 | 151 | Tony Pavelka |
-| 489 | 151 | Walter Beltran |
+| 489 | 151 | Joshua Guess |
 | 490 | 151 | Brad Campbell |
 | 491 | 151 | Katie Alexander |
 | 492 | 150 | Nerdy Linebuilder |

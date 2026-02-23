@@ -303,8 +303,8 @@
 | 295 | 360 | Cesar Barraza |
 | 296 | 358 | Roary Danner |
 | 297 | 354 | Kelly |
-| 298 | 354 | Eileen Brady Thurber |
-| 299 | 354 | Andrew Thorson |
+| 298 | 354 | Andrew Thorson |
+| 299 | 354 | Eileen Brady Thurber |
 | 300 | 353 | Dee Franklin |
 | 301 | 353 | Cyd061769 |
 | 302 | 352 | Christian Werndl |
