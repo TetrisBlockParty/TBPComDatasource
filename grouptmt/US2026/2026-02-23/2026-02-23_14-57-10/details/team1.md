@@ -249,8 +249,8 @@
 | 241 | 316 | Sassy Builderline |
 | 242 | 315 | Mandyy Rae |
 | 243 | 314 | Daring Fitclear |
-| 244 | 313 | Sylvia Vasquez |
-| 245 | 313 | Cody Gates |
+| 244 | 313 | Cody Gates |
+| 245 | 313 | Sylvia Vasquez |
 | 246 | 312 | Mitchel White |
 | 247 | 310 | Bloknboy |
 | 248 | 310 | Chantelle Ceno |
@@ -307,14 +307,14 @@
 | 299 | 263 | Nadine Velardo |
 | 300 | 263 | Sunny Shift |
 | 301 | 262 | Mary Love |
-| 302 | 261 | Angela Fairbank |
-| 303 | 261 | Yahowah |
-| 304 | 261 | Brooke Elizabeth Antill |
+| 302 | 261 | Yahowah |
+| 303 | 261 | Brooke Elizabeth Antill |
+| 304 | 261 | Angela Fairbank |
 | 305 | 260 | Marianita Garcia |
 | 306 | 260 | Lacy Wolfe |
 | 307 | 258 | Danielle S Kester |
-| 308 | 256 | Joe Coon |
-| 309 | 256 | Chris Sigurdson |
+| 308 | 256 | Chris Sigurdson |
+| 309 | 256 | Joe Coon |
 | 310 | 256 | Richard Corrado |
 | 311 | 255 | Beazel75 |
 | 312 | 255 | Glitzy Buildsnap |

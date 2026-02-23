@@ -188,8 +188,8 @@
 | 180 | 591 | Kaycee Kay |
 | 181 | 591 | Michael Nowogorski |
 | 182 | 587 | Louise Stacy Sisson |
-| 183 | 585 | Domo Washington |
-| 184 | 585 | Happy Tetriblast |
+| 183 | 585 | Happy Tetriblast |
+| 184 | 585 | Domo Washington |
 | 185 | 583 | Tasha Gillespie |
 | 186 | 582 | Natasha Jones |
 | 187 | 568 | Rachael McClain Owens |
@@ -343,8 +343,8 @@
 | 335 | 342 | Cynthia Herrmann Egland |
 | 336 | 341 | Rick Poppen |
 | 337 | 341 | Lys |
-| 338 | 340 | Erika Thornton |
-| 339 | 340 | Nikki Pags |
+| 338 | 340 | Nikki Pags |
+| 339 | 340 | Erika Thornton |
 | 340 | 338 | fraulila |
 | 341 | 335 | victory |
 | 342 | 333 | Nikki White |
@@ -512,8 +512,8 @@
 | 504 | 239 | Big T |
 | 505 | 239 | Martin Bernier |
 | 506 | 238 | Niki Dalrymple |
-| 507 | 238 | Jess Dearborn |
-| 508 | 238 | TLM |
+| 507 | 238 | TLM |
+| 508 | 238 | Jess Dearborn |
 | 509 | 237 | BŘŰŤİÇŨŚ |
 | 510 | 236 | Zac Hudak |
 | 511 | 236 | Alexis Ford |
@@ -529,8 +529,8 @@
 | 521 | 232 | Melanie Sherwood |
 | 522 | 231 | Becca Engle |
 | 523 | 231 | Giggly Brickroll |
-| 524 | 230 | DanceLuvLaugh |
-| 525 | 230 | Crystal Hine |
+| 524 | 230 | Crystal Hine |
+| 525 | 230 | DanceLuvLaugh |
 | 526 | 230 | Peachy Tower |
 | 527 | 229 | Everret Maxine |
 | 528 | 229 | MizzMonick Smith |
@@ -569,9 +569,9 @@
 | 561 | 217 | Alexi Pryor |
 | 562 | 217 | Jazzy Spinfit |
 | 563 | 217 | momo |
-| 564 | 216 | Skippy |
+| 564 | 216 | Amanda Declue |
 | 565 | 216 | Stephanie Whitefield |
-| 566 | 216 | Amanda Declue |
+| 566 | 216 | Skippy |
 | 567 | 215 | Michell Hendershott Jackson |
 | 568 | 215 | Justice 4 P |
 | 569 | 214 | Amy Fuller Heaton |
