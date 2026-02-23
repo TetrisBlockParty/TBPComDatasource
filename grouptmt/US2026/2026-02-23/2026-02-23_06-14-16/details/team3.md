@@ -111,8 +111,8 @@
 | 103 | 868 | Sarajane Lokan |
 | 104 | 866 | Ebony West-Cundiff |
 | 105 | 860 | Sunny Rotater |
-| 106 | 851 | Jd Morris |
-| 107 | 851 | Danielle Becker |
+| 106 | 851 | Danielle Becker |
+| 107 | 851 | Jd Morris |
 | 108 | 850 | Danielle Mogg |
 | 109 | 848 | Patricia Gadsden |
 | 110 | 831 | Angeline Joseph |
@@ -279,8 +279,8 @@
 | 271 | 354 | Andrew Thorson |
 | 272 | 354 | Roary Danner |
 | 273 | 354 | Kelly |
-| 274 | 353 | Cyd061769 |
-| 275 | 353 | Dee Franklin |
+| 274 | 353 | Dee Franklin |
+| 275 | 353 | Cyd061769 |
 | 276 | 352 | Christian Werndl |
 | 277 | 351 | Eon Harris |
 | 278 | 351 | Blocked |
@@ -422,8 +422,8 @@
 | 414 | 247 | Reina Roth |
 | 415 | 245 | LaNette Morgan |
 | 416 | 245 | Latoya Mayne |
-| 417 | 244 | Beezwax |
-| 418 | 244 | Lys |
+| 417 | 244 | Lys |
+| 418 | 244 | Beezwax |
 | 419 | 244 | Quackers |
 | 420 | 243 | Paula Little |
 | 421 | 243 | Nicholas Roddy |

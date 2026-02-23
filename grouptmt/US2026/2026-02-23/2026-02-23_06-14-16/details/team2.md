@@ -151,8 +151,8 @@
 | 143 | 1639 | Jessie McDougald |
 | 144 | 1638 | Speedy Spinblock |
 | 145 | 1629 | Mari Ac |
-| 146 | 1623 | Rebecca Doughman |
-| 147 | 1623 | Janel Turley-Garner |
+| 146 | 1623 | Janel Turley-Garner |
+| 147 | 1623 | Rebecca Doughman |
 | 148 | 1605 | Christi Hulet |
 | 149 | 1602 | blackq |
 | 150 | 1601 | Ray Ray Prado |
@@ -216,8 +216,8 @@
 | 208 | 1252 | Angel |
 | 209 | 1245 | Cody Nishimura |
 | 210 | 1237 | Megan Ferguson Leone |
-| 211 | 1232 | Ambyre Patterson |
-| 212 | 1232 | Groovy Puzzle |
+| 211 | 1232 | Groovy Puzzle |
+| 212 | 1232 | Ambyre Patterson |
 | 213 | 1232 | Brandon Armstrong |
 | 214 | 1230 | Megan Garrick |
 | 215 | 1221 | Jane Fong |
@@ -293,15 +293,15 @@
 | 285 | 1010 | Brittany Radaszewski |
 | 286 | 1007 | Missie Lawson Gebhardt |
 | 287 | 1003 | Andrea Maher |
-| 288 | 998 | Shelley Thornburgh Wright |
-| 289 | 998 | Keri Womack |
+| 288 | 998 | Keri Womack |
+| 289 | 998 | Shelley Thornburgh Wright |
 | 290 | 996 | Ashie Ann |
 | 291 | 988 | Juliana Marques Do Nascimento Gordy |
 | 292 | 987 | Osun Anuket Esu |
 | 293 | 984 | Crystal Hoffman |
 | 294 | 981 | Ashlen Dorrell |
-| 295 | 979 | Melissa Penelope Ann Dodge |
-| 296 | 979 | Hillary Crawford |
+| 295 | 979 | Hillary Crawford |
+| 296 | 979 | Melissa Penelope Ann Dodge |
 | 297 | 978 | April Dawn Gussler |
 | 298 | 976 | Sam Joe |
 | 299 | 976 | Della Hole |
@@ -484,8 +484,8 @@
 | 476 | 680 | blume |
 | 477 | 679 | Kassandra Hunt |
 | 478 | 677 | Kayleigh Wisse |
-| 479 | 677 | Amanda Woodruff |
-| 480 | 677 | Paul Combs |
+| 479 | 677 | Paul Combs |
+| 480 | 677 | Amanda Woodruff |
 | 481 | 676 | Nicky Jackson |
 | 482 | 676 | Roseanna Peloso |
 | 483 | 675 | Lonne Emade |
@@ -496,16 +496,16 @@
 | 488 | 670 | Christine Bollig |
 | 489 | 668 | Gloria Ininahazwe |
 | 490 | 667 | Rhonda Milstead |
-| 491 | 666 | Aishah Brice |
-| 492 | 666 | Alex Dungo Hoang |
+| 491 | 666 | Alex Dungo Hoang |
+| 492 | 666 | Aishah Brice |
 | 493 | 665 | Prette Qui |
 | 494 | 664 | Sleepypanda67 |
 | 495 | 662 | Samie Dayle |
 | 496 | 662 | Jennifer Monroe Kelly |
 | 497 | 660 | Nadia Batista Garcia |
 | 498 | 658 | Demeka Dangerous-kisses Johnson |
-| 499 | 656 | Tonya Lee |
-| 500 | 656 | bonsai |
+| 499 | 656 | bonsai |
+| 500 | 656 | Tonya Lee |
 | 501 | 655 | Silly Pivotfall |
 | 502 | 651 | Unica Rector |
 | 503 | 651 | Elisheva Mizrachi |
@@ -526,8 +526,8 @@
 | 518 | 635 | Dennis McLaurin |
 | 519 | 629 | Breezy Clusterer |
 | 520 | 629 | snkylnk |
-| 521 | 628 | Brownie Sheena |
-| 522 | 628 | g |
+| 521 | 628 | g |
+| 522 | 628 | Brownie Sheena |
 | 523 | 626 | Chab |
 | 524 | 626 | Christina Ashley |
 | 525 | 625 | James Louie |

@@ -73,14 +73,14 @@
 | 65 | 781 | Ashley Ingram |
 | 66 | 767 | Shannon Ferrari |
 | 67 | 766 | Robin Watters |
-| 68 | 765 | Robin Getchel |
-| 69 | 765 | Denise Carlson |
+| 68 | 765 | Denise Carlson |
+| 69 | 765 | Robin Getchel |
 | 70 | 752 | loulou |
 | 71 | 749 | Dustee Craddock-Harrison |
 | 72 | 742 | Carolyn Wallace |
 | 73 | 740 | Avy Absol |
-| 74 | 736 | Goatimus Lombardi |
-| 75 | 736 | Crystal Carroll |
+| 74 | 736 | Crystal Carroll |
+| 75 | 736 | Goatimus Lombardi |
 | 76 | 728 | D3TROITB0RN74 |
 | 77 | 721 | TheNeesh50 |
 | 78 | 706 | Lisa Davis |
@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | Shauna Havard |
-| 93 | 647 | KM8 |
+| 92 | 647 | KM8 |
+| 93 | 647 | Shauna Havard |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -124,8 +124,8 @@
 | 116 | 514 | Serena Goodridge |
 | 117 | 514 | Scott Jameson |
 | 118 | 513 | Erin Thomas |
-| 119 | 512 | Casey Jeffcoat |
-| 120 | 512 | Cristy Duerksen |
+| 119 | 512 | Cristy Duerksen |
+| 120 | 512 | Casey Jeffcoat |
 | 121 | 511 | Lori Walker |
 | 122 | 482 | Ren Mc |
 | 123 | 481 | Jessica Lynn Cutlip |
@@ -138,8 +138,8 @@
 | 130 | 458 | Twisty Clicky |
 | 131 | 451 | Peachy Fall |
 | 132 | 448 | Kristin Manee |
-| 133 | 435 | Kristina Black |
-| 134 | 435 | Leslie Thomas |
+| 133 | 435 | Leslie Thomas |
+| 134 | 435 | Kristina Black |
 | 135 | 434 | Monica Daley |
 | 136 | 432 | Zippy Block |
 | 137 | 431 | Courtney Cicoria |
@@ -151,8 +151,8 @@
 | 143 | 418 | Marie-Pier Desjardins |
 | 144 | 418 | Lush Linkfall |
 | 145 | 416 | Chaz Duncan |
-| 146 | 414 | Nope Young |
-| 147 | 414 | Swanky Fitline |
+| 146 | 414 | Swanky Fitline |
+| 147 | 414 | Nope Young |
 | 148 | 412 | Jessica Bohlken |
 | 149 | 408 | Amanda Pauldo-Ivy |
 | 150 | 406 | Damn Libra |
@@ -182,11 +182,11 @@
 | 174 | 356 | George Nutt |
 | 175 | 354 | TRCuse |
 | 176 | 352 | Sue Joyce Staats |
-| 177 | 349 | Rafael Valentin |
-| 178 | 349 | Twisty Cascadezone |
+| 177 | 349 | Twisty Cascadezone |
+| 178 | 349 | Rafael Valentin |
 | 179 | 348 | April Rondinone |
-| 180 | 347 | Crystal Nicolette Moore |
-| 181 | 347 | Daria Rycewicz |
+| 180 | 347 | Daria Rycewicz |
+| 181 | 347 | Crystal Nicolette Moore |
 | 182 | 339 | David Lay |
 | 183 | 336 | Bio Nelly |
 | 184 | 335 | James Hurley Jr. |
@@ -194,8 +194,8 @@
 | 186 | 333 | shark tato |
 | 187 | 332 | HastyGrabber |
 | 188 | 330 | Kathy Brookins |
-| 189 | 329 | Sam Bishop |
-| 190 | 329 | Antony Dwayne Beasley |
+| 189 | 329 | Antony Dwayne Beasley |
+| 190 | 329 | Sam Bishop |
 | 191 | 328 | scott |
 | 192 | 327 | J-Rizzle |
 | 193 | 324 | jim |
@@ -206,15 +206,15 @@
 | 198 | 316 | Cursed Hag |
 | 199 | 311 | Mary Ann Pabukis |
 | 200 | 310 | Holly Jolly |
-| 201 | 307 | Michele Plunkett |
-| 202 | 307 | Cheery Risebuilder |
+| 201 | 307 | Cheery Risebuilder |
+| 202 | 307 | Michele Plunkett |
 | 203 | 306 | blockstar |
 | 204 | 305 | Melvin Baird |
 | 205 | 304 | Lindsay Ball |
 | 206 | 303 | Dihcheese444 |
 | 207 | 301 | Andria Lynn |
-| 208 | 300 | Dana Scott |
-| 209 | 300 | Zakia Monae |
+| 208 | 300 | Zakia Monae |
+| 209 | 300 | Dana Scott |
 | 210 | 295 | Keshia Lyons |
 | 211 | 294 | Calvin Cannon |
 | 212 | 294 | Porkobello |
