@@ -215,11 +215,11 @@
 | 207 | 1252 | Angel |
 | 208 | 1245 | Cody Nishimura |
 | 209 | 1237 | Megan Ferguson Leone |
-| 210 | 1232 | Ambyre Patterson |
-| 211 | 1232 | Groovy Puzzle |
+| 210 | 1232 | Groovy Puzzle |
+| 211 | 1232 | Ambyre Patterson |
 | 212 | 1230 | Megan Garrick |
-| 213 | 1217 | Brooks Brooks |
-| 214 | 1217 | Lucky Ladybug |
+| 213 | 1217 | Lucky Ladybug |
+| 214 | 1217 | Brooks Brooks |
 | 215 | 1214 | David Cudicio-Hayden |
 | 216 | 1213 | Pacynthia Williams |
 | 217 | 1210 | Jane Fong |
@@ -252,8 +252,8 @@
 | 244 | 1121 | Tommy Tha Boss Gunz |
 | 245 | 1121 | Sarah Freitas |
 | 246 | 1114 | Maria Escobar |
-| 247 | 1114 | Ginnell Browner |
-| 248 | 1114 | Kevin Walp |
+| 247 | 1114 | Kevin Walp |
+| 248 | 1114 | Ginnell Browner |
 | 249 | 1111 | Julay |
 | 250 | 1110 | Robin Kerby |
 | 251 | 1105 | Nerdy Clearfit |

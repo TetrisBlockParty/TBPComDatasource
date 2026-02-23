@@ -118,8 +118,8 @@
 | 110 | 831 | Angeline Joseph |
 | 111 | 830 | Stephanie Allmon |
 | 112 | 826 | Shane Wilson Jr. |
-| 113 | 816 | Brenda Lee Vander Molen |
-| 114 | 816 | Jesse Olive |
+| 113 | 816 | Jesse Olive |
+| 114 | 816 | Brenda Lee Vander Molen |
 | 115 | 800 | Lauren Girouard |
 | 116 | 799 | Dolores Falco |
 | 117 | 769 | Kristie |
@@ -167,8 +167,8 @@
 | 159 | 591 | Michael Nowogorski |
 | 160 | 588 | Justin Ritter |
 | 161 | 587 | Louise Stacy Sisson |
-| 162 | 585 | Annie Marie |
-| 163 | 585 | Happy Tetriblast |
+| 162 | 585 | Happy Tetriblast |
+| 163 | 585 | Annie Marie |
 | 164 | 582 | Natasha Jones |
 | 165 | 579 | Tasha Gillespie |
 | 166 | 577 | Domo Washington |
@@ -392,8 +392,8 @@
 | 384 | 259 | Shania Vaine |
 | 385 | 259 | Dana Winters |
 | 386 | 258 | IamJust Neyamijah Washington Sr. |
-| 387 | 257 | Chris Wallace |
-| 388 | 257 | Saucy Buildout |
+| 387 | 257 | Saucy Buildout |
+| 388 | 257 | Chris Wallace |
 | 389 | 257 | Rachel Grant |
 | 390 | 255 | Sharisse Baltimore |
 | 391 | 255 | Mariah Williams |
@@ -404,9 +404,9 @@
 | 396 | 253 | Daring Builder |
 | 397 | 252 | Josh Borquez |
 | 398 | 251 | Colleen Phelps |
-| 399 | 250 | angieelyn |
+| 399 | 250 | Eric Caccavale |
 | 400 | 250 | Tegan Chapman |
-| 401 | 250 | Eric Caccavale |
+| 401 | 250 | angieelyn |
 | 402 | 249 | Willow |
 | 403 | 248 | Brian Battjes |
 | 404 | 247 | Reina Roth |

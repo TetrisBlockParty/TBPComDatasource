@@ -96,8 +96,8 @@
 | 88 | 570 | Cody Slav |
 | 89 | 562 | Denice Dee |
 | 90 | 537 | Tee Sheree |
-| 91 | 534 | Loony Fitzone |
-| 92 | 534 | Veronica Eve |
+| 91 | 534 | Veronica Eve |
+| 92 | 534 | Loony Fitzone |
 | 93 | 532 | Robert Benito |
 | 94 | 529 | Ryan Lunnin |
 | 95 | 522 | Sarah Lombardo |
@@ -200,14 +200,14 @@
 | 192 | 315 | Danielle Little-Daugherty |
 | 193 | 314 | Tana |
 | 194 | 313 | Jen Nystrom |
-| 195 | 312 | Jessi Sauer |
+| 195 | 312 | Snippy Wipebuilder |
 | 196 | 312 | Kimberly Garcia |
-| 197 | 312 | Mike Ames |
-| 198 | 312 | Snippy Wipebuilder |
+| 197 | 312 | Jessi Sauer |
+| 198 | 312 | Mike Ames |
 | 199 | 311 | ALFD |
 | 200 | 310 | Bloknboy |
-| 201 | 307 | Witty Builderfit |
-| 202 | 307 | femmefatale |
+| 201 | 307 | femmefatale |
+| 202 | 307 | Witty Builderfit |
 | 203 | 306 | Angela Renea Lester |
 | 204 | 304 | Snappy Matcher |
 | 205 | 301 | Damon J. Martin |
@@ -285,8 +285,8 @@
 | 277 | 229 | Dino |
 | 278 | 228 | Adele Rahman |
 | 279 | 227 | Happy Snapbuild |
-| 280 | 226 | Glitzy Buildsnap |
-| 281 | 226 | Snappy Brickbuilder |
+| 280 | 226 | Snappy Brickbuilder |
+| 281 | 226 | Glitzy Buildsnap |
 | 282 | 224 | Jumpy Rotate |
 | 283 | 223 | Layzietyme |
 | 284 | 223 | Christina Backer |

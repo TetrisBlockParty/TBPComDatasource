@@ -58,8 +58,8 @@
 | 50 | 863 | Pee |
 | 51 | 855 | Marvin Lou Martin |
 | 52 | 853 | TeeJ |
-| 53 | 846 | Christine Marie |
-| 54 | 846 | Lucille Truesdale |
+| 53 | 846 | Lucille Truesdale |
+| 54 | 846 | Christine Marie |
 | 55 | 845 | LisaJo Picken Buchanan |
 | 56 | 843 | Shelly Chandler |
 | 57 | 834 | quicksand420 |
@@ -113,8 +113,8 @@
 | 105 | 561 | YoMomma |
 | 106 | 557 | Carmethia Clemons Haslerig |
 | 107 | 542 | Austin Owens |
-| 108 | 533 | Chilly Crasher |
-| 109 | 533 | Samantha Peterson |
+| 108 | 533 | Samantha Peterson |
+| 109 | 533 | Chilly Crasher |
 | 110 | 528 | Rodney McMath Jr. |
 | 111 | 527 | Dizzy Tiley |
 | 112 | 519 | Nugget |
