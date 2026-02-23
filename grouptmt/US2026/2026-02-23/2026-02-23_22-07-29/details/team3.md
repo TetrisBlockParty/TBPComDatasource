@@ -152,8 +152,8 @@
 | 144 | 837 | mzcatzy |
 | 145 | 834 | opf |
 | 146 | 820 | Brenda Lee Vander Molen |
-| 147 | 818 | Dolores Falco |
-| 148 | 818 | Tasha Schriewer |
+| 147 | 818 | Tasha Schriewer |
+| 148 | 818 | Dolores Falco |
 | 149 | 814 | Groovy Catcher |
 | 150 | 812 | Katrina Schroeder |
 | 151 | 810 | Keith J Oshman Jr. |
@@ -227,12 +227,12 @@
 | 219 | 582 | Natasha Jones |
 | 220 | 581 | Dee Pratt |
 | 221 | 572 | FuzzyNavel |
-| 222 | 569 | Michael Johnson |
-| 223 | 569 | Juliana Dottore |
+| 222 | 569 | Juliana Dottore |
+| 223 | 569 | Michael Johnson |
 | 224 | 568 | Rachael McClain Owens |
 | 225 | 566 | LaTanya GeminiondaRise Johnson |
-| 226 | 564 | Christine Trester |
-| 227 | 564 | Poppy Splitter |
+| 226 | 564 | Poppy Splitter |
+| 227 | 564 | Christine Trester |
 | 228 | 563 | Fallorina Susana |
 | 229 | 562 | Dave Herzog |
 | 230 | 561 | Silly Twist |
@@ -248,8 +248,8 @@
 | 240 | 541 | Gray Hicks |
 | 241 | 541 | Sherry Ogden |
 | 242 | 540 | Danielle Allison |
-| 243 | 539 | Betty Bóò |
-| 244 | 539 | Micayah Stevens |
+| 243 | 539 | Micayah Stevens |
+| 244 | 539 | Betty Bóò |
 | 245 | 539 | Aerian Preston |
 | 246 | 537 | Tessina Dewey-Mancino |
 | 247 | 537 | Tamara Deherrera |
