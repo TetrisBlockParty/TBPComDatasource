@@ -108,8 +108,8 @@
 | 100 | 1101 | Stephanie Rice |
 | 101 | 1094 | JerseyJess |
 | 102 | 1093 | Angela M. Fletcher |
-| 103 | 1056 | joclisa |
-| 104 | 1056 | Ebony West-Cundiff |
+| 103 | 1056 | Ebony West-Cundiff |
+| 104 | 1056 | joclisa |
 | 105 | 1050 | Sherika C. McDaniels |
 | 106 | 1041 | Patricia Gadsden |
 | 107 | 1038 | Mandy Smith Oldham |
@@ -144,8 +144,8 @@
 | 136 | 864 | Sunny Rotater |
 | 137 | 851 | Loopy Fallmatch |
 | 138 | 837 | mzcatzy |
-| 139 | 834 | opf |
-| 140 | 834 | Kristin Delibac Corrigan |
+| 139 | 834 | Kristin Delibac Corrigan |
+| 140 | 834 | opf |
 | 141 | 833 | Crystal Frey |
 | 142 | 820 | Brenda Lee Vander Molen |
 | 143 | 815 | Dolores Falco |
