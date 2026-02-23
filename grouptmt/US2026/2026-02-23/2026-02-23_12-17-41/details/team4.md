@@ -175,9 +175,9 @@
 | 167 | 402 | Lucas J Sutton |
 | 168 | 398 | Tyler Terrific |
 | 169 | 397 | Nick Gray |
-| 170 | 393 | Brandon Crabbs |
-| 171 | 393 | Carlton Unfiltered |
-| 172 | 393 | Girl |
+| 170 | 393 | Girl |
+| 171 | 393 | Brandon Crabbs |
+| 172 | 393 | Carlton Unfiltered |
 | 173 | 391 | Ramel Rhodes |
 | 174 | 389 | Joseph Guthrie |
 | 175 | 383 | Chris Bernstein |
@@ -225,8 +225,8 @@
 | 217 | 317 | Madison Sweere |
 | 218 | 316 | Autumn Kumzi |
 | 219 | 313 | Milan Markeisha |
-| 220 | 312 | Dihcheese444 |
-| 221 | 312 | Casey Grabner |
+| 220 | 312 | Casey Grabner |
+| 221 | 312 | Dihcheese444 |
 | 222 | 311 | Mary Ann Pabukis |
 | 223 | 311 | Nikki Rae Gordon |
 | 224 | 310 | Holly Jolly |
@@ -243,10 +243,10 @@
 | 235 | 294 | Calvin Cannon |
 | 236 | 292 | Angel Raya |
 | 237 | 292 | Epic Curvetile |
-| 238 | 291 | Dizzy Matchzone |
-| 239 | 291 | Mimi |
-| 240 | 290 | Rebecca Morris |
-| 241 | 290 | Plucky Patternblock |
+| 238 | 291 | Mimi |
+| 239 | 291 | Dizzy Matchzone |
+| 240 | 290 | Plucky Patternblock |
+| 241 | 290 | Rebecca Morris |
 | 242 | 290 | Jared Gutwein |
 | 243 | 289 | Juls |
 | 244 | 288 | Zesty Twistbuilder |

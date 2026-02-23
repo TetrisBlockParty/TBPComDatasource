@@ -27,8 +27,8 @@
 | 19 | 2840 | Chummy Shatterer |
 | 20 | 2697 | River |
 | 21 | 2387 | Susan Valentino |
-| 22 | 2353 | Laura Melton |
-| 23 | 2353 | Tetris Master |
+| 22 | 2353 | Tetris Master |
+| 23 | 2353 | Laura Melton |
 | 24 | 2319 | mjl574 |
 | 25 | 2311 | Brandon Green |
 | 26 | 2271 | Jeana Gilbert |
@@ -117,8 +117,8 @@
 | 109 | 869 | Araceli Parra |
 | 110 | 868 | Sarajane Lokan |
 | 111 | 860 | Sunny Rotater |
-| 112 | 851 | Danielle Becker |
-| 113 | 851 | Jd Morris |
+| 112 | 851 | Jd Morris |
+| 113 | 851 | Danielle Becker |
 | 114 | 850 | Danielle Mogg |
 | 115 | 848 | Patricia Gadsden |
 | 116 | 839 | Angeline Joseph |
@@ -128,19 +128,19 @@
 | 120 | 800 | Lauren Girouard |
 | 121 | 799 | Dolores Falco |
 | 122 | 779 | Justin Ritter |
-| 123 | 775 | Leah Barnett |
-| 124 | 775 | Kristie |
+| 123 | 775 | Kristie |
+| 124 | 775 | Leah Barnett |
 | 125 | 774 | Keith J Oshman Jr. |
 | 126 | 773 | Daira Largen |
-| 127 | 764 | Groovy Catcher |
-| 128 | 764 | Hasty Cascadefit |
+| 127 | 764 | Hasty Cascadefit |
+| 128 | 764 | Groovy Catcher |
 | 129 | 762 | Speedy Bridger |
 | 130 | 755 | Raya |
 | 131 | 755 | Katrina Schroeder |
 | 132 | 752 | Logan Naccarato |
 | 133 | 748 | Adrian Marcel Pate |
-| 134 | 745 | ren |
-| 135 | 745 | JerseyJess |
+| 134 | 745 | JerseyJess |
+| 135 | 745 | ren |
 | 136 | 744 | Fancy Cascader |
 | 137 | 736 | mzcatzy |
 | 138 | 736 | Giddy Drop |
@@ -187,8 +187,8 @@
 | 179 | 572 | CeceGeGe |
 | 180 | 568 | Rachael McClain Owens |
 | 181 | 566 | LaTanya GeminiondaRise Johnson |
-| 182 | 564 | Christine Trester |
-| 183 | 564 | Poppy Splitter |
+| 182 | 564 | Poppy Splitter |
+| 183 | 564 | Christine Trester |
 | 184 | 563 | Jim Mathews |
 | 185 | 562 | Dave Herzog |
 | 186 | 559 | Patti Skiles |
@@ -252,10 +252,10 @@
 | 244 | 428 | Randy Clevenger |
 | 245 | 428 | Sleepy |
 | 246 | 421 | Chummy Caster |
-| 247 | 419 | Kristin Delibac Corrigan |
-| 248 | 419 | Marci Mize Fandrich |
-| 249 | 417 | Nicole Flippo |
-| 250 | 417 | Giddy Twistbuilder |
+| 247 | 419 | Marci Mize Fandrich |
+| 248 | 419 | Kristin Delibac Corrigan |
+| 249 | 417 | Giddy Twistbuilder |
+| 250 | 417 | Nicole Flippo |
 | 251 | 414 | RickyG |
 | 252 | 414 | Fran Lin |
 | 253 | 413 | Micayah Stevens |
@@ -411,19 +411,19 @@
 | 403 | 272 | Eboni Starr |
 | 404 | 272 | Tay |
 | 405 | 269 | Goofy Fall |
-| 406 | 269 | Jess Bissett |
+| 406 | 269 | Juliana Dottore |
 | 407 | 269 | Samantha Worley |
-| 408 | 269 | Juliana Dottore |
+| 408 | 269 | Jess Bissett |
 | 409 | 268 | Jessica Lynn French |
 | 410 | 268 | Julia Nicole |
-| 411 | 267 | April Matthew Kibble |
-| 412 | 267 | Michael Kimbro |
+| 411 | 267 | Michael Kimbro |
+| 412 | 267 | April Matthew Kibble |
 | 413 | 267 | Jul |
 | 414 | 266 | Daring Builder |
 | 415 | 266 | Sarah Muradyan |
 | 416 | 266 | Quirky Dropzone |
-| 417 | 265 | AlsoJess |
-| 418 | 265 | Ashley Lynn Marchese |
+| 417 | 265 | Ashley Lynn Marchese |
+| 418 | 265 | AlsoJess |
 | 419 | 264 | Reina Roth |
 | 420 | 264 | Beppy |
 | 421 | 264 | Danielle Beaunoyer Jean |

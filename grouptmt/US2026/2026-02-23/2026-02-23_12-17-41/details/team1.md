@@ -242,8 +242,8 @@
 | 234 | 310 | Bloknboy |
 | 235 | 308 | Speedy Liney |
 | 236 | 303 | Νεφ Όνυξ |
-| 237 | 301 | John Kim |
-| 238 | 301 | Damon J. Martin |
+| 237 | 301 | Damon J. Martin |
+| 238 | 301 | John Kim |
 | 239 | 300 | Sleepysloath5745 |
 | 240 | 298 | Sweetts |
 | 241 | 298 | Billie Ann Eason |
