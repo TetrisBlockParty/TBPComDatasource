@@ -169,8 +169,8 @@
 | 161 | 634 | Amber Hughes |
 | 162 | 631 | Grego Daniel |
 | 163 | 630 | yoyo |
-| 164 | 621 | Cherry Parker |
-| 165 | 621 | Sashay Tapae Simpson |
+| 164 | 621 | Sashay Tapae Simpson |
+| 165 | 621 | Cherry Parker |
 | 166 | 616 | Kammy Hill |
 | 167 | 611 | Rochelle Hazelett |
 | 168 | 603 | Jone |
@@ -427,16 +427,16 @@
 | 419 | 264 | Reina Roth |
 | 420 | 264 | Danielle Beaunoyer Jean |
 | 421 | 261 | Swanky Snapclear |
-| 422 | 260 | Alice |
-| 423 | 260 | Tracey Cox |
-| 424 | 259 | Tegan Chapman |
-| 425 | 259 | Shania Vaine |
-| 426 | 259 | Dana Winters |
+| 422 | 260 | Tracey Cox |
+| 423 | 260 | Alice |
+| 424 | 259 | Shania Vaine |
+| 425 | 259 | Dana Winters |
+| 426 | 259 | Tegan Chapman |
 | 427 | 258 | IamJust Neyamijah Washington Sr. |
-| 428 | 257 | Rachel Grant |
-| 429 | 257 | Chris Wallace |
-| 430 | 257 | Saucy Buildout |
-| 431 | 257 | Jana Polk |
+| 428 | 257 | Chris Wallace |
+| 429 | 257 | Rachel Grant |
+| 430 | 257 | Jana Polk |
+| 431 | 257 | Saucy Buildout |
 | 432 | 255 | Erykah |
 | 433 | 255 | Mariah Williams |
 | 434 | 254 | Blair Erin Waite |
@@ -571,9 +571,9 @@
 | 563 | 199 | Cheeky Setter |
 | 564 | 199 | PrncssPJ |
 | 565 | 199 | Sunny Lift |
-| 566 | 198 | Jodi Kaczynski-O'Dowd |
-| 567 | 198 | Zac Hudak |
-| 568 | 198 | xsiv |
+| 566 | 198 | Zac Hudak |
+| 567 | 198 | xsiv |
+| 568 | 198 | Jodi Kaczynski-O'Dowd |
 | 569 | 198 | momo |
 | 570 | 197 | BabyTonj Evans |
 | 571 | 197 | Giggy Glidepiece |

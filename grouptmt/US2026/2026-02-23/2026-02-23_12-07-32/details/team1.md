@@ -85,14 +85,14 @@
 | 77 | 703 | Angel Fowler |
 | 78 | 689 | Susanna Guerry |
 | 79 | 679 | Hasbro Bros |
-| 80 | 657 | Tee Sheree |
-| 81 | 657 | Cynthia Bradley |
+| 80 | 657 | Cynthia Bradley |
+| 81 | 657 | Tee Sheree |
 | 82 | 655 | Brenda Stewart |
 | 83 | 648 | Evie Khalil |
 | 84 | 647 | Jason Jones |
 | 85 | 600 | Greg Hart |
-| 86 | 598 | Kellie |
-| 87 | 598 | Erin Hodges Plumb |
+| 86 | 598 | Erin Hodges Plumb |
+| 87 | 598 | Kellie |
 | 88 | 588 | Lori Sanders- Davis |
 | 89 | 584 | Jen Sartain |
 | 90 | 583 | Theo Pinnow |
@@ -120,8 +120,8 @@
 | 112 | 493 | MomMom |
 | 113 | 492 | Ash Galvan |
 | 114 | 491 | cc |
-| 115 | 489 | April Carroll |
-| 116 | 489 | Deanna L Hermanson |
+| 115 | 489 | Deanna L Hermanson |
+| 116 | 489 | April Carroll |
 | 117 | 483 | Trina Gee |
 | 118 | 478 | Stephanie Zahn |
 | 119 | 477 | Tonya Beasley |
@@ -147,8 +147,8 @@
 | 139 | 429 | Kristi Johnson |
 | 140 | 428 | Ly Phethmany |
 | 141 | 426 | Maria C. Hernandez |
-| 142 | 425 | Dandy Basegrid |
-| 143 | 425 | Tyler Werts |
+| 142 | 425 | Tyler Werts |
+| 143 | 425 | Dandy Basegrid |
 | 144 | 423 | ALFD |
 | 145 | 422 | Constance Risner |
 | 146 | 417 | Phu ckalldems |
@@ -249,8 +249,8 @@
 | 241 | 294 | Chuck Gannon |
 | 242 | 291 | Giddy Cascade |
 | 243 | 291 | Brave Wrecker |
-| 244 | 290 | Tavia |
-| 245 | 290 | Hellsin |
+| 244 | 290 | Hellsin |
+| 245 | 290 | Tavia |
 | 246 | 289 | Alenoush Karimian |
 | 247 | 288 | Bird Person |
 | 248 | 287 | Sassy Builderline |

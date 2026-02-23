@@ -1212,8 +1212,8 @@
 | 1204 | 44 | Twisty Towerpiece |
 | 1205 | 44 | Francesco Bradshaw |
 | 1206 | 44 | Daoxed |
-| 1207 | 44 | Cozy Rollzone |
-| 1208 | 44 | Swanky Blockline |
+| 1207 | 44 | Swanky Blockline |
+| 1208 | 44 | Cozy Rollzone |
 | 1209 | 44 | Gage |
 | 1210 | 44 | Melton Jmcm |
 | 1211 | 44 | De'Chon Millender-Rogers |
