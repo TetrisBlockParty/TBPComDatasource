@@ -44,8 +44,8 @@
 | 36 | 2097 | Kay |
 | 37 | 2059 | Beelow Bently |
 | 38 | 1992 | Shandrea Crawford |
-| 39 | 1978 | Ashley Kiara |
-| 40 | 1978 | Dan Rob |
+| 39 | 1978 | Dan Rob |
+| 40 | 1978 | Ashley Kiara |
 | 41 | 1949 | Calista Jo Dickson |
 | 42 | 1927 | Delilah belle |
 | 43 | 1919 | Trezure Gonzalez |
@@ -269,16 +269,16 @@
 | 261 | 513 | Lizabeth Fox |
 | 262 | 510 | Marquita Sheard |
 | 263 | 508 | joz |
-| 264 | 507 | rosy |
-| 265 | 507 | Snappy Balancer |
+| 264 | 507 | Snappy Balancer |
+| 265 | 507 | rosy |
 | 266 | 506 | Ammmmmmy |
 | 267 | 505 | Stephanie Simpson |
 | 268 | 500 | Ashley Tookes |
 | 269 | 498 | Chummy Caster |
 | 270 | 497 | Dapper Snap |
 | 271 | 494 | MCV |
-| 272 | 490 | Marci Mize Fandrich |
-| 273 | 490 | Rebecca Funderburk Kirby |
+| 272 | 490 | Rebecca Funderburk Kirby |
+| 273 | 490 | Marci Mize Fandrich |
 | 274 | 486 | Eileen Brady Thurber |
 | 275 | 482 | Chummy Rumbler |
 | 276 | 482 | Fancy Curver |
@@ -305,8 +305,8 @@
 | 297 | 455 | Megan Rathmanner |
 | 298 | 451 | Charles Perrone |
 | 299 | 450 | Antonia Russell |
-| 300 | 449 | Mcathen |
-| 301 | 449 | Stefanie LaPointe |
+| 300 | 449 | Stefanie LaPointe |
+| 301 | 449 | Mcathen |
 | 302 | 448 | Scott Carleton |
 | 303 | 443 | Randy Clevenger |
 | 304 | 438 | Betty Rosas |
@@ -573,7 +573,7 @@
 | 565 | 267 | April Matthew Kibble |
 | 566 | 266 | Reina Roth |
 | 567 | 266 | Frothy Snapper |
-| 568 | 266 | Reina Roth |
+| 568 | 266 | Quirky Dropzone |
 | 569 | 265 | Danielle Dani |
 | 570 | 264 | Morgan Cudo |
 | 571 | 264 | Danielle Beaunoyer Jean |
@@ -584,8 +584,8 @@
 | 576 | 262 | Loony Slider |
 | 577 | 261 | Jillian Ann |
 | 578 | 261 | Christen Cannon Layhew |
-| 579 | 260 | Tracey Cox |
-| 580 | 260 | Kristen McAlpine |
+| 579 | 260 | Kristen McAlpine |
+| 580 | 260 | Tracey Cox |
 | 581 | 260 | Nikkie Bucciano |
 | 582 | 259 | Moimyzean |
 | 583 | 259 | Shania Vaine |

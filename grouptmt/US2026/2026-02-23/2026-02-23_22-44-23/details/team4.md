@@ -169,8 +169,8 @@
 | 161 | 513 | Jessica Lynn Cutlip |
 | 162 | 512 | ThaEviLJeNiuZ |
 | 163 | 512 | Angela Srubar-Norman |
-| 164 | 512 | Casey Jeffcoat |
-| 165 | 512 | Ellen Durfee |
+| 164 | 512 | Ellen Durfee |
+| 165 | 512 | Casey Jeffcoat |
 | 166 | 507 | Nick Gray |
 | 167 | 504 | Deanna Deckard |
 | 168 | 501 | Ericca Eldridge |
@@ -293,8 +293,8 @@
 | 285 | 321 | Stacey Stano |
 | 286 | 317 | Madison Sweere |
 | 287 | 316 | Stella |
-| 288 | 315 | Vic |
-| 289 | 315 | Heather Bruce |
+| 288 | 315 | Heather Bruce |
+| 289 | 315 | Vic |
 | 290 | 314 | Lora |
 | 291 | 313 | Angie Schmidt |
 | 292 | 313 | Milan Markeisha |

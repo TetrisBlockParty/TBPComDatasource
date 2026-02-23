@@ -103,8 +103,8 @@
 | 95 | 742 | Susanna Guerry |
 | 96 | 740 | Lori Sanders- Davis |
 | 97 | 722 | Kellie |
-| 98 | 706 | Plucky Fallzone |
-| 99 | 706 | Denice Dee |
+| 98 | 706 | Denice Dee |
+| 99 | 706 | Plucky Fallzone |
 | 100 | 704 | Karin Gillen |
 | 101 | 703 | Angel Fowler |
 | 102 | 679 | Melissa Lemmon |
@@ -125,8 +125,8 @@
 | 117 | 601 | Phu ckalldems |
 | 118 | 598 | Jessi Sauer |
 | 119 | 594 | Basment Living |
-| 120 | 589 | Giddy Cascade |
-| 121 | 589 | Chris K |
+| 120 | 589 | Chris K |
+| 121 | 589 | Giddy Cascade |
 | 122 | 583 | Theo Pinnow |
 | 123 | 581 | Desiree Deschaine Havee |
 | 124 | 578 | Virginia Gray Floyd |
@@ -150,8 +150,8 @@
 | 142 | 524 | Tipsy Riseclear |
 | 143 | 523 | BadG52 |
 | 144 | 521 | Nery Martinez |
-| 145 | 519 | Anaid Sanchez |
-| 146 | 519 | April Carroll |
+| 145 | 519 | April Carroll |
+| 146 | 519 | Anaid Sanchez |
 | 147 | 516 | Plucky Ziggy |
 | 148 | 515 | Constance Risner |
 | 149 | 513 | Colena Davenport |
@@ -159,8 +159,8 @@
 | 151 | 510 | Timothy Danaher |
 | 152 | 510 | Rat666 |
 | 153 | 501 | Dee Perry |
-| 154 | 497 | Arianna O'Brien |
-| 155 | 497 | MIKOZ |
+| 154 | 497 | MIKOZ |
+| 155 | 497 | Arianna O'Brien |
 | 156 | 495 | Adrian Esteban |
 | 157 | 494 | Sean Stallings |
 | 158 | 492 | Rebekah LeiAnn Bonsell |
@@ -178,8 +178,8 @@
 | 170 | 463 | Brandi Huntington |
 | 171 | 463 | Nicole Roseberry Weber |
 | 172 | 462 | Hasty Cascader |
-| 173 | 458 | Dizzy Slider |
-| 174 | 458 | Goose egg |
+| 173 | 458 | Goose egg |
+| 174 | 458 | Dizzy Slider |
 | 175 | 451 | Amanda Jarnagin |
 | 176 | 450 | lil mickey |
 | 177 | 446 | SkipTheSadSauce |
@@ -188,8 +188,8 @@
 | 180 | 434 | Yvonne Marie |
 | 181 | 432 | Lori Bales |
 | 182 | 426 | Maria C. Hernandez |
-| 183 | 425 | Tana |
-| 184 | 425 | Tyler Werts |
+| 183 | 425 | Tyler Werts |
+| 184 | 425 | Tana |
 | 185 | 424 | Emily Adelaide Wheatley |
 | 186 | 423 | Kimberly Garcia |
 | 187 | 423 | Elaine Elaine |
@@ -289,8 +289,8 @@
 | 281 | 333 | Wayne Saunders |
 | 282 | 333 | Rodney Schmerfeld |
 | 283 | 332 | Eddie Dillon |
-| 284 | 330 | Rebecca Apley Mielke |
-| 285 | 330 | Jeremy Maubert |
+| 284 | 330 | Jeremy Maubert |
+| 285 | 330 | Rebecca Apley Mielke |
 | 286 | 329 | Marianita Garcia |
 | 287 | 328 | Buttons Stemm |
 | 288 | 325 | Snappy Brickbuilder |
@@ -412,13 +412,13 @@
 | 404 | 251 | Terri Rodela |
 | 405 | 251 | ParisandCory Champagne |
 | 406 | 248 | Sunflower |
-| 407 | 248 | Teresa |
+| 407 | 248 | LC |
 | 408 | 248 | John Barron |
-| 409 | 248 | LC |
+| 409 | 248 | Teresa |
 | 410 | 247 | Colleen Wise |
 | 411 | 247 | Chilly Riserpiece |
-| 412 | 246 | ken |
-| 413 | 246 | san |
+| 412 | 246 | san |
+| 413 | 246 | ken |
 | 414 | 245 | Rico Rico |
 | 415 | 244 | Scott Betson |
 | 416 | 243 | Bouncy Grid |

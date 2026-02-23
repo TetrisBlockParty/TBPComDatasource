@@ -291,8 +291,8 @@
 | 283 | 1264 | Missie Lawson Gebhardt |
 | 284 | 1260 | Roman Lavochnik |
 | 285 | 1259 | Foxxo |
-| 286 | 1257 | Megan Ferguson Leone |
-| 287 | 1257 | Megan Garrick |
+| 286 | 1257 | Megan Garrick |
+| 287 | 1257 | Megan Ferguson Leone |
 | 288 | 1247 | Ericka Marie Smith |
 | 289 | 1241 | Jennifer Casey-Kay |
 | 290 | 1241 | Jackie Lucas |
