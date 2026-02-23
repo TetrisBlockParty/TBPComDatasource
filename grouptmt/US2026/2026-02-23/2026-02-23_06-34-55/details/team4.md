@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | Shauna Havard |
-| 93 | 647 | KM8 |
+| 92 | 647 | KM8 |
+| 93 | 647 | Shauna Havard |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -125,8 +125,8 @@
 | 117 | 514 | Serena Goodridge |
 | 118 | 514 | Scott Jameson |
 | 119 | 513 | Erin Thomas |
-| 120 | 512 | Cristy Duerksen |
-| 121 | 512 | Casey Jeffcoat |
+| 120 | 512 | Casey Jeffcoat |
+| 121 | 512 | Cristy Duerksen |
 | 122 | 511 | Lori Walker |
 | 123 | 509 | Leslie Nicole |
 | 124 | 482 | Ren Mc |
@@ -152,8 +152,8 @@
 | 144 | 418 | Lush Linkfall |
 | 145 | 418 | Marie-Pier Desjardins |
 | 146 | 416 | Chaz Duncan |
-| 147 | 414 | Nope Young |
-| 148 | 414 | Swanky Fitline |
+| 147 | 414 | Swanky Fitline |
+| 148 | 414 | Nope Young |
 | 149 | 412 | Jessica Bohlken |
 | 150 | 408 | Amanda Pauldo-Ivy |
 | 151 | 406 | Damn Libra |
@@ -248,7 +248,7 @@
 | 240 | 271 | Holly |
 | 241 | 270 | Juls |
 | 242 | 270 | Jen Caldwell |
-| 243 | 266 | Mylo Lipscomb |
+| 243 | 266 | Mr. Party |
 | 244 | 266 | Tracey Lehmann |
 | 245 | 266 | Mylo Lipscomb |
 | 246 | 265 | Cynthia Boudreau |
@@ -257,8 +257,8 @@
 | 249 | 264 | ZeeZee |
 | 250 | 264 | Stella |
 | 251 | 263 | rebel4lyfe |
-| 252 | 262 | BigSammy420 |
-| 253 | 262 | Selena Shaw |
+| 252 | 262 | Selena Shaw |
+| 253 | 262 | BigSammy420 |
 | 254 | 261 | Zethra Prenisha Rahming |
 | 255 | 260 | Carter Jones |
 | 256 | 260 | Lori |
@@ -271,10 +271,10 @@
 | 263 | 256 | Brittany Marsh |
 | 264 | 253 | Autum Leigh |
 | 265 | 251 | Carol Ricks Raymond |
-| 266 | 249 | Ak Jones |
-| 267 | 249 | Nick Gray |
-| 268 | 248 | Chirpy Basepiece |
-| 269 | 248 | Jose Dejesus |
+| 266 | 249 | Nick Gray |
+| 267 | 249 | Ak Jones |
+| 268 | 248 | Jose Dejesus |
+| 269 | 248 | Chirpy Basepiece |
 | 270 | 245 | 23 |
 | 271 | 244 | Christina Black |
 | 272 | 244 | Elizabeth Tinoco |
@@ -458,8 +458,8 @@
 | 450 | 154 | Happy Combo |
 | 451 | 154 | Bryan Hodgins |
 | 452 | 153 | icequeenx |
-| 453 | 153 | Nerdy Twisterfit |
-| 454 | 153 | Shiny Fit |
+| 453 | 153 | Shiny Fit |
+| 454 | 153 | Nerdy Twisterfit |
 | 455 | 152 | Sho Nuff |
 | 456 | 152 | Vanessa Smart |
 | 457 | 152 | Michael Orris |

@@ -128,8 +128,8 @@
 | 120 | 769 | Kristie |
 | 121 | 764 | Groovy Catcher |
 | 122 | 762 | Speedy Bridger |
-| 123 | 752 | Raya |
-| 124 | 752 | Logan Naccarato |
+| 123 | 752 | Logan Naccarato |
+| 124 | 752 | Raya |
 | 125 | 748 | Adrian Marcel Pate |
 | 126 | 745 | JerseyJess |
 | 127 | 744 | Leah Barnett |
@@ -160,8 +160,8 @@
 | 152 | 631 | Daira Largen |
 | 153 | 630 | yoyo |
 | 154 | 629 | Patricia White |
-| 155 | 621 | Sashay Tapae Simpson |
-| 156 | 621 | Cherry Parker |
+| 155 | 621 | Cherry Parker |
+| 156 | 621 | Sashay Tapae Simpson |
 | 157 | 616 | Kammy Hill |
 | 158 | 611 | Rochelle Hazelett |
 | 159 | 607 | Grego Daniel |
@@ -173,8 +173,8 @@
 | 165 | 591 | Michael Nowogorski |
 | 166 | 588 | Justin Ritter |
 | 167 | 587 | Louise Stacy Sisson |
-| 168 | 585 | Happy Tetriblast |
-| 169 | 585 | Annie Marie |
+| 168 | 585 | Annie Marie |
+| 169 | 585 | Happy Tetriblast |
 | 170 | 583 | Tasha Gillespie |
 | 171 | 582 | Natasha Jones |
 | 172 | 577 | Domo Washington |
@@ -192,8 +192,8 @@
 | 184 | 546 | Cynthia Castros-Hampton |
 | 185 | 546 | Mykal Burton |
 | 186 | 540 | Shawn Miller |
-| 187 | 531 | Sarah Cowan Burgos |
-| 188 | 531 | Chauntee Alfrey-Cardinale |
+| 187 | 531 | Chauntee Alfrey-Cardinale |
+| 188 | 531 | Sarah Cowan Burgos |
 | 189 | 528 | Silly Twist |
 | 190 | 525 | Stephanie Blkpep Davidson |
 | 191 | 524 | Bmo |
@@ -205,8 +205,8 @@
 | 197 | 496 | Makelini Mausia |
 | 198 | 496 | Loopy Fallmatch |
 | 199 | 494 | FuzzyNavel |
-| 200 | 489 | Shannon Matthew Byers |
-| 201 | 489 | Poppy Splitter |
+| 200 | 489 | Poppy Splitter |
+| 201 | 489 | Shannon Matthew Byers |
 | 202 | 488 | Melissa Orth Hunter |
 | 203 | 485 | Dapper Snap |
 | 204 | 482 | Jacqueline Rodriguez |
@@ -253,8 +253,8 @@
 | 245 | 382 | Giddy Twistbuilder |
 | 246 | 381 | Snazzy Filler |
 | 247 | 380 | Rebecca Bailey |
-| 248 | 378 | Chris Bell |
-| 249 | 378 | MsBee |
+| 248 | 378 | MsBee |
+| 249 | 378 | Chris Bell |
 | 250 | 377 | Charles Perrone |
 | 251 | 374 | Rania Zaqout |
 | 252 | 373 | Chummy Caster |
@@ -268,8 +268,8 @@
 | 260 | 368 | Stephanie Woods |
 | 261 | 368 | Sheila M Frazier |
 | 262 | 367 | Kristin Delibac Corrigan |
-| 263 | 366 | Gumbo |
-| 264 | 366 | Randy Clevenger |
+| 263 | 366 | Randy Clevenger |
+| 264 | 366 | Gumbo |
 | 265 | 365 | Noyb Adam |
 | 266 | 364 | Steffi Chris Dacones |
 | 267 | 362 | Brandon Givens |
@@ -420,8 +420,8 @@
 | 412 | 248 | Brian Battjes |
 | 413 | 247 | Jessica |
 | 414 | 247 | Kevin Russell |
-| 415 | 245 | Latoya Mayne |
-| 416 | 245 | LaNette Morgan |
+| 415 | 245 | LaNette Morgan |
+| 416 | 245 | Latoya Mayne |
 | 417 | 244 | Lys |
 | 418 | 244 | Beezwax |
 | 419 | 244 | Quackers |
@@ -606,8 +606,8 @@
 | 598 | 179 | Boldy Corner |
 | 599 | 179 | Ruchi Smit |
 | 600 | 178 | Jillian Ann |
-| 601 | 178 | Melissa Snyder |
-| 602 | 178 | Kathleen Taylor |
+| 601 | 178 | Kathleen Taylor |
+| 602 | 178 | Melissa Snyder |
 | 603 | 177 | Elizabeth Renee |
 | 604 | 177 | Anna Moeller |
 | 605 | 177 | Matty Ray |

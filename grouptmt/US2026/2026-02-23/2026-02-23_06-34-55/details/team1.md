@@ -106,14 +106,14 @@
 | 98 | 510 | Colena Davenport |
 | 99 | 509 | Rachael |
 | 100 | 497 | Arianna O'Brien |
-| 101 | 493 | MomMom |
-| 102 | 493 | Jennifer ManWarren |
+| 101 | 493 | Jennifer ManWarren |
+| 102 | 493 | MomMom |
 | 103 | 492 | Ash Galvan |
 | 104 | 491 | cc |
 | 105 | 489 | April Carroll |
 | 106 | 489 | Deanna L Hermanson |
-| 107 | 483 | Tdub |
-| 108 | 483 | Trina Gee |
+| 107 | 483 | Trina Gee |
+| 108 | 483 | Tdub |
 | 109 | 480 | Ty Brown |
 | 110 | 478 | Stephanie Zahn |
 | 111 | 463 | Lexuriuos Lifestlye |
@@ -183,8 +183,8 @@
 | 175 | 346 | Erin Rosberg |
 | 176 | 346 | GATOR |
 | 177 | 345 | Jerry Danowski |
-| 178 | 343 | Elaine Elaine |
-| 179 | 343 | Chelsea Dahlquist |
+| 178 | 343 | Chelsea Dahlquist |
+| 179 | 343 | Elaine Elaine |
 | 180 | 341 | Nick R Montague |
 | 181 | 339 | Nicole Roseberry Weber |
 | 182 | 338 | Jennifer Hardman |
@@ -225,8 +225,8 @@
 | 217 | 290 | Speedy Liney |
 | 218 | 290 | Hellsin |
 | 219 | 287 | Sassy Builderline |
-| 220 | 285 | Bird Person |
-| 221 | 285 | Shanae Grant |
+| 220 | 285 | Shanae Grant |
+| 221 | 285 | Bird Person |
 | 222 | 284 | Sarah Somers Gray |
 | 223 | 283 | Amanda Holibaugh |
 | 224 | 283 | Franswa |

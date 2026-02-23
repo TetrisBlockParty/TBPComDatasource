@@ -44,8 +44,8 @@
 | 36 | 4199 | Claire Noland |
 | 37 | 4128 | Angela Pruitt |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Corrine Hawks Soriano |
-| 40 | 4120 | Kristen Sceurman |
+| 39 | 4120 | Kristen Sceurman |
+| 40 | 4120 | Corrine Hawks Soriano |
 | 41 | 3845 | jayjay |
 | 42 | 3813 | Devin Lee |
 | 43 | 3778 | Brittany Alicia |
@@ -93,8 +93,8 @@
 | 85 | 2515 | Crystalin Heath Lewis |
 | 86 | 2500 | Rosemadder |
 | 87 | 2438 | Rob Surace |
-| 88 | 2428 | Thomas Hughes |
-| 89 | 2428 | Deanna Morton |
+| 88 | 2428 | Deanna Morton |
+| 89 | 2428 | Thomas Hughes |
 | 90 | 2410 | RdRydnHd |
 | 91 | 2400 | Rich Sullivan |
 | 92 | 2375 | Megan Peckham |
@@ -218,8 +218,8 @@
 | 210 | 1245 | Cody Nishimura |
 | 211 | 1240 | Brandon Armstrong |
 | 212 | 1237 | Megan Ferguson Leone |
-| 213 | 1232 | Ambyre Patterson |
-| 214 | 1232 | Groovy Puzzle |
+| 213 | 1232 | Groovy Puzzle |
+| 214 | 1232 | Ambyre Patterson |
 | 215 | 1230 | Megan Garrick |
 | 216 | 1221 | Jane Fong |
 | 217 | 1217 | Lucky Ladybug |
@@ -333,8 +333,8 @@
 | 325 | 915 | Kelly Trent |
 | 326 | 914 | Shuany Arias |
 | 327 | 907 | Gene Mills |
-| 328 | 904 | Jennifer Aiken |
-| 329 | 904 | John Bednarik |
+| 328 | 904 | John Bednarik |
+| 329 | 904 | Jennifer Aiken |
 | 330 | 904 | Bee |
 | 331 | 903 | Giggy Blocker |
 | 332 | 902 | William Hunt |
@@ -383,14 +383,14 @@
 | 375 | 816 | James Simms III |
 | 376 | 816 | Beth |
 | 377 | 812 | Samantha Jo |
-| 378 | 808 | Desire Rice |
+| 378 | 808 | Connie Jimenez |
 | 379 | 808 | Laura McCarthey |
-| 380 | 808 | Connie Jimenez |
+| 380 | 808 | Desire Rice |
 | 381 | 804 | Becca Coronado |
 | 382 | 801 | Diana Fitzwater |
 | 383 | 801 | Gold Rose |
-| 384 | 799 | Joy LaJeunesse |
-| 385 | 799 | Kenny Alvarado |
+| 384 | 799 | Kenny Alvarado |
+| 385 | 799 | Joy LaJeunesse |
 | 386 | 796 | AndrewandShela Gornik |
 | 387 | 796 | Amber Gray |
 | 388 | 793 | Heather Schelkopf |
@@ -478,8 +478,8 @@
 | 470 | 689 | Gauri Shrotriya |
 | 471 | 686 | Christine Coughlin |
 | 472 | 684 | Sarah DeHart |
-| 473 | 684 | Ann Knutson Anderson |
-| 474 | 684 | Ellie Jonas |
+| 473 | 684 | Ellie Jonas |
+| 474 | 684 | Ann Knutson Anderson |
 | 475 | 683 | Eric Castaneda |
 | 476 | 681 | AgileDragon |
 | 477 | 680 | blume |
@@ -657,15 +657,15 @@
 | 649 | 522 | Kathleen Driskell |
 | 650 | 522 | Leah |
 | 651 | 520 | Armonie Smith |
-| 652 | 519 | Rob Brown |
-| 653 | 519 | CupCake |
+| 652 | 519 | CupCake |
+| 653 | 519 | Rob Brown |
 | 654 | 519 | Mandi Marie Smith |
 | 655 | 518 | Tash Bell |
 | 656 | 517 | Daring Caster |
 | 657 | 516 | Diamond Scott |
 | 658 | 515 | Gina Bahn |
-| 659 | 515 | Klee |
-| 660 | 515 | Frisky Riserbuilder |
+| 659 | 515 | Frisky Riserbuilder |
+| 660 | 515 | Klee |
 | 661 | 515 | Adam Simmons |
 | 662 | 514 | DefaultUser |
 | 663 | 513 | MrsCandyfine As Wine Truss |
@@ -3374,7 +3374,7 @@
 | 3366 | 120 | Melissa Bloom |
 | 3367 | 119 | Dez Walker |
 | 3368 | 119 | Jaquie |
-| 3369 | 119 | QueenieBlock |
+| 3369 | 119 | Rhonda Marie |
 | 3370 | 119 | AjandBryan Surprenant |
 | 3371 | 119 | bigskyeffect |
 | 3372 | 119 | QueenieBlock |
