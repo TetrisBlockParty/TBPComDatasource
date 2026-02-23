@@ -226,8 +226,8 @@
 | 218 | 491 | Michael Johnson |
 | 219 | 488 | joz |
 | 220 | 485 | Dapper Snap |
-| 221 | 484 | Fallorina Susana |
-| 222 | 484 | Kristin Delibac Corrigan |
+| 221 | 484 | Kristin Delibac Corrigan |
+| 222 | 484 | Fallorina Susana |
 | 223 | 480 | Danielle Allison |
 | 224 | 478 | Keis |
 | 225 | 477 | Edwin Calvillo Jr. |
@@ -922,8 +922,8 @@
 | 914 | 135 | CuteSharkz |
 | 915 | 135 | Mari Thompson Cooper |
 | 916 | 135 | Hyper Shuffler |
-| 917 | 135 | Peachy Westbrook |
-| 918 | 135 | Lenora Price |
+| 917 | 135 | Jae Grisham |
+| 918 | 135 | Crow |
 | 919 | 135 | Patti Esterline Larr |
 | 920 | 135 | Lenora Price |
 | 921 | 135 | Peachy Westbrook |

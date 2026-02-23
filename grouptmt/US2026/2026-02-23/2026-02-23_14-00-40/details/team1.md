@@ -45,8 +45,8 @@
 | 37 | 1128 | june october |
 | 38 | 1126 | Tater |
 | 39 | 1122 | Amanda Summey Schoemer |
-| 40 | 1114 | Marianne Louise West |
-| 41 | 1114 | Jayme Sellers |
+| 40 | 1114 | Jayme Sellers |
+| 41 | 1114 | Marianne Louise West |
 | 42 | 1112 | Chipper Gridlock |
 | 43 | 1100 | Derek MF Blakey |
 | 44 | 1096 | Aaron Garnett |
@@ -136,8 +136,8 @@
 | 128 | 466 | Adrian Esteban |
 | 129 | 463 | Lexuriuos Lifestlye |
 | 130 | 462 | Luciano Moreira |
-| 131 | 458 | Evan Richmond |
-| 132 | 458 | Goose egg |
+| 131 | 458 | Goose egg |
+| 132 | 458 | Evan Richmond |
 | 133 | 454 | Desiree Deschaine Havee |
 | 134 | 453 | Brandi Huntington |
 | 135 | 451 | Plucky Ziggy |
@@ -375,8 +375,8 @@
 | 367 | 220 | Bay Marie |
 | 368 | 220 | Gary Gobin |
 | 369 | 219 | Jeanna Dunn |
-| 370 | 219 | Negan Mallory Knoxx Spence |
-| 371 | 219 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
+| 370 | 219 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
+| 371 | 219 | Negan Mallory Knoxx Spence |
 | 372 | 218 | Jason Benitez |
 | 373 | 217 | Betsy |
 | 374 | 217 | Cheeky Crusher |
@@ -385,8 +385,8 @@
 | 377 | 216 | Shauntina Burke |
 | 378 | 215 | Quirky Pusher |
 | 379 | 214 | Kayla Marie Stevenson |
-| 380 | 213 | Poppy Riserpiece |
-| 381 | 213 | John Barron |
+| 380 | 213 | John Barron |
+| 381 | 213 | Poppy Riserpiece |
 | 382 | 213 | Ed Franz Jr |
 | 383 | 211 | Lynn Adams |
 | 384 | 211 | Natasha Hollowell Causey |
