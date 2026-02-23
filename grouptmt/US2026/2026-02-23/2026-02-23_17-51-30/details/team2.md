@@ -370,8 +370,8 @@
 | 362 | 966 | Mandi Douglas Hilt |
 | 363 | 962 | Antionette Sewell |
 | 364 | 958 | Kathryn Townsley |
-| 365 | 958 | Doowop40 |
-| 366 | 958 | Brenda Messer |
+| 365 | 958 | Brenda Messer |
+| 366 | 958 | Doowop40 |
 | 367 | 957 | Block Master |
 | 368 | 955 | Amanda Woodruff |
 | 369 | 951 | Cynthia Ward |
@@ -433,8 +433,8 @@
 | 425 | 844 | Terri McKelvey McKinley |
 | 426 | 843 | Quirky Twistline |
 | 427 | 841 | AgileDragon |
-| 428 | 840 | Kiana Boschh |
-| 429 | 840 | Traci Johnson |
+| 428 | 840 | Traci Johnson |
+| 429 | 840 | Kiana Boschh |
 | 430 | 836 | KhaosLord |
 | 431 | 836 | Christina Walker |
 | 432 | 835 | Moni Foxe |
@@ -576,8 +576,8 @@
 | 568 | 679 | Prette Qui |
 | 569 | 678 | Shantel Kelley |
 | 570 | 677 | Kayleigh Wisse |
-| 571 | 677 | Cynthia Louann Rose |
-| 572 | 677 | Paul Combs |
+| 571 | 677 | Paul Combs |
+| 572 | 677 | Cynthia Louann Rose |
 | 573 | 676 | Roseanna Peloso |
 | 574 | 676 | Nicky Jackson |
 | 575 | 675 | Lyndi Robinson Wakefield |

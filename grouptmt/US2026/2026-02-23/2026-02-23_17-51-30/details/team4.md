@@ -416,8 +416,8 @@
 | 408 | 217 | Perky Riser |
 | 409 | 217 | GBR |
 | 410 | 216 | Funky Risepiece |
-| 411 | 216 | Jen Hallin |
-| 412 | 216 | Ryry |
+| 411 | 216 | Ryry |
+| 412 | 216 | Jen Hallin |
 | 413 | 215 | Tanya Abernathy Jackson |
 | 414 | 215 | Squeezy Pearsall |
 | 415 | 214 | B Renee Desjardin |
