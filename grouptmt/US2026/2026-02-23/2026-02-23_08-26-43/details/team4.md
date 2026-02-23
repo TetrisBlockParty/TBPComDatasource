@@ -26,8 +26,8 @@
 | 18 | 1636 | Cassie Michaux |
 | 19 | 1565 | GreenJeepGirl |
 | 20 | 1558 | Leah Gorsuch |
-| 21 | 1536 | Misty Hollibaugh |
-| 22 | 1536 | Roger Coulter |
+| 21 | 1536 | Roger Coulter |
+| 22 | 1536 | Misty Hollibaugh |
 | 23 | 1485 | Juggalo |
 | 24 | 1390 | Sammy Noguera |
 | 25 | 1382 | Tammi Crnza |
@@ -62,8 +62,8 @@
 | 54 | 864 | Shelly Chandler |
 | 55 | 863 | Pee |
 | 56 | 859 | TeeJ |
-| 57 | 846 | Lucille Truesdale |
-| 58 | 846 | Christine Marie |
+| 57 | 846 | Christine Marie |
+| 58 | 846 | Lucille Truesdale |
 | 59 | 845 | LisaJo Picken Buchanan |
 | 60 | 834 | quicksand420 |
 | 61 | 807 | Amelpss |
@@ -125,8 +125,8 @@
 | 117 | 514 | Scott Jameson |
 | 118 | 514 | Serena Goodridge |
 | 119 | 513 | Erin Thomas |
-| 120 | 512 | Cristy Duerksen |
-| 121 | 512 | Casey Jeffcoat |
+| 120 | 512 | Casey Jeffcoat |
+| 121 | 512 | Cristy Duerksen |
 | 122 | 511 | Lori Walker |
 | 123 | 509 | Leslie Nicole |
 | 124 | 487 | Ren Mc |
@@ -212,8 +212,8 @@
 | 204 | 318 | Chris Hartig |
 | 205 | 317 | Madison Sweere |
 | 206 | 316 | Autumn Kumzi |
-| 207 | 312 | Dihcheese444 |
-| 208 | 312 | Casey Grabner |
+| 207 | 312 | Casey Grabner |
+| 208 | 312 | Dihcheese444 |
 | 209 | 311 | Mary Ann Pabukis |
 | 210 | 310 | Holly Jolly |
 | 211 | 307 | Cheery Risebuilder |
@@ -244,8 +244,8 @@
 | 236 | 281 | Laura |
 | 237 | 280 | Rio Rocha |
 | 238 | 279 | Malakai Darien Fox |
-| 239 | 278 | Sarah Brown |
-| 240 | 278 | Angela Geist Jusinski |
+| 239 | 278 | Angela Geist Jusinski |
+| 240 | 278 | Sarah Brown |
 | 241 | 276 | Joeliecea Cobb |
 | 242 | 276 | Matt Dell'Olio |
 | 243 | 275 | Kimberlee Jan Beckstead |
@@ -326,8 +326,8 @@
 | 318 | 216 | Chantilly Laace |
 | 319 | 216 | mike |
 | 320 | 215 | Stephme310 |
-| 321 | 214 | Stacey Stano |
-| 322 | 214 | Patron Anderson |
+| 321 | 214 | Patron Anderson |
+| 322 | 214 | Stacey Stano |
 | 323 | 213 | Jackie Marie |
 | 324 | 212 | Zany Shatterer |
 | 325 | 212 | Brave Spinbuilder |

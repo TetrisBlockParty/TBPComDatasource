@@ -112,8 +112,8 @@
 | 104 | 493 | MomMom |
 | 105 | 492 | Ash Galvan |
 | 106 | 491 | cc |
-| 107 | 489 | Deanna L Hermanson |
-| 108 | 489 | April Carroll |
+| 107 | 489 | April Carroll |
+| 108 | 489 | Deanna L Hermanson |
 | 109 | 483 | Tdub |
 | 110 | 483 | Trina Gee |
 | 111 | 480 | Ty Brown |
@@ -182,8 +182,8 @@
 | 174 | 357 | Shiny Snapfit |
 | 175 | 355 | Erin Rosberg |
 | 176 | 355 | Amanda Jarnagin |
-| 177 | 353 | Jaimie Lynn |
-| 178 | 353 | Josh Riemer |
+| 177 | 353 | Josh Riemer |
+| 178 | 353 | Jaimie Lynn |
 | 179 | 350 | Tipsy Strikerpiece |
 | 180 | 349 | Cool Shiftsnap |
 | 181 | 348 | Chelsea Dahlquist |
@@ -193,11 +193,11 @@
 | 185 | 341 | Nick R Montague |
 | 186 | 339 | Nicole Roseberry Weber |
 | 187 | 338 | Jennifer Hardman |
-| 188 | 337 | Constance Risner |
-| 189 | 337 | Jamise Brown |
+| 188 | 337 | Jamise Brown |
+| 189 | 337 | Constance Risner |
 | 190 | 336 | Dizzy Party |
-| 191 | 333 | Virginia Gray Floyd |
-| 192 | 333 | Gracie |
+| 191 | 333 | Gracie |
+| 192 | 333 | Virginia Gray Floyd |
 | 193 | 332 | Happy Basegrid |
 | 194 | 328 | Snappy Matcher |
 | 195 | 326 | Jen Nystrom |
@@ -241,8 +241,8 @@
 | 233 | 282 | Mandyy Rae |
 | 234 | 281 | Clever Cascadepiece |
 | 235 | 280 | Billie Dawn Sparks |
-| 236 | 277 | Melissa Lemmon |
-| 237 | 277 | Glitzy Curvebuilder |
+| 236 | 277 | Glitzy Curvebuilder |
+| 237 | 277 | Melissa Lemmon |
 | 238 | 277 | Nutty Spinblock |
 | 239 | 276 | Sam Williams |
 | 240 | 275 | Chris65 |
@@ -251,8 +251,8 @@
 | 243 | 272 | Barrbaric |
 | 244 | 272 | Tawnya Peltonen |
 | 245 | 271 | Frothy Pattern |
-| 246 | 270 | Debbie Kane |
-| 247 | 270 | Brenda Alexander |
+| 246 | 270 | Brenda Alexander |
+| 247 | 270 | Debbie Kane |
 | 248 | 268 | Standia Civil |
 | 249 | 267 | Eric DeSimone |
 | 250 | 267 | Daring Fitclear |
@@ -355,8 +355,8 @@
 | 347 | 207 | Katie Martin |
 | 348 | 205 | build master |
 | 349 | 205 | Agustin Duarte Orozco |
-| 350 | 204 | LD1 |
-| 351 | 204 | Cranky Pattern |
+| 350 | 204 | Cranky Pattern |
+| 351 | 204 | LD1 |
 | 352 | 203 | Rebekah LeiAnn Bonsell |
 | 353 | 202 | Amber Dee |
 | 354 | 202 | Krie |
