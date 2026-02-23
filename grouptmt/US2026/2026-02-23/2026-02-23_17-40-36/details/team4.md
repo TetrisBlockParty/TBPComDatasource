@@ -56,8 +56,8 @@
 | 48 | 1147 | Jae Job |
 | 49 | 1099 | Ashley Ingram |
 | 50 | 1085 | Kimyatta Cavin |
-| 51 | 1082 | Dawn Alexander |
-| 52 | 1082 | Dion Crommarty |
+| 51 | 1082 | Dion Crommarty |
+| 52 | 1082 | Dawn Alexander |
 | 53 | 1049 | Heather Tushner |
 | 54 | 1046 | Johnathan Martinez |
 | 55 | 1042 | Avy Absol |
@@ -460,9 +460,9 @@
 | 452 | 197 | Zippy Tilt |
 | 453 | 197 | Cozy Balancer |
 | 454 | 196 | Megan Cutshaw |
-| 455 | 194 | Zany Twisterfit |
+| 455 | 194 | SammieJo Guy |
 | 456 | 194 | ChasingZen |
-| 457 | 194 | SammieJo Guy |
+| 457 | 194 | Zany Twisterfit |
 | 458 | 194 | Carlos Hernandez |
 | 459 | 194 | Eri Kka |
 | 460 | 193 | Jennifer Brown |

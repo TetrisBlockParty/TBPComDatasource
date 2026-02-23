@@ -402,8 +402,8 @@
 | 394 | 902 | Diallo Sparkman |
 | 395 | 901 | Ryan Stadel |
 | 396 | 899 | Felicia Lynn |
-| 397 | 899 | Chevy |
-| 398 | 899 | Patrick Bartlett |
+| 397 | 899 | Patrick Bartlett |
+| 398 | 899 | Chevy |
 | 399 | 898 | Donna M Carter |
 | 400 | 896 | Alyssa Hileman |
 | 401 | 895 | Donna Colby |
@@ -466,8 +466,8 @@
 | 458 | 806 | Sarah block |
 | 459 | 805 | Vanessa Moreno |
 | 460 | 804 | Sarah DeHart |
-| 461 | 804 | Becca Coronado |
-| 462 | 804 | Barry Britt |
+| 461 | 804 | Barry Britt |
+| 462 | 804 | Becca Coronado |
 | 463 | 801 | Diana Fitzwater |
 | 464 | 801 | Dreamy Blast |
 | 465 | 799 | Kenny Alvarado |
@@ -509,8 +509,8 @@
 | 501 | 755 | Taryece Gause |
 | 502 | 751 | Loony Snapper |
 | 503 | 751 | Briana Alexander |
-| 504 | 751 | Breezy Filler |
-| 505 | 751 | Caitlyn Blackwell |
+| 504 | 751 | Caitlyn Blackwell |
+| 505 | 751 | Breezy Filler |
 | 506 | 750 | Draizen Montrell Thomas |
 | 507 | 750 | Michael Buckner |
 | 508 | 748 | Ann Matzkanin |
@@ -530,11 +530,11 @@
 | 522 | 731 | Trisha J Schmidt |
 | 523 | 729 | goofinoff |
 | 524 | 728 | Mikayala Szaz |
-| 525 | 728 | Tom Riefer |
-| 526 | 728 | Giggy Mover |
+| 525 | 728 | Giggy Mover |
+| 526 | 728 | Tom Riefer |
 | 527 | 726 | Joce Lynn |
-| 528 | 726 | Ashley Munn |
-| 529 | 726 | Crystal Greene |
+| 528 | 726 | Crystal Greene |
+| 529 | 726 | Ashley Munn |
 | 530 | 725 | Darla Silva |
 | 531 | 725 | Vonceial Boone |
 | 532 | 724 | Melissa Holsinger |
@@ -754,8 +754,8 @@
 | 746 | 544 | Armonie Smith |
 | 747 | 544 | Snappy snappers |
 | 748 | 543 | Demitri Smith |
-| 749 | 543 | Lathasa Newkirk |
-| 750 | 543 | coleksquad |
+| 749 | 543 | coleksquad |
+| 750 | 543 | Lathasa Newkirk |
 | 751 | 542 | Ethan Stienbarger |
 | 752 | 542 | Jarboe |
 | 753 | 542 | Bec |

@@ -294,8 +294,8 @@
 | 286 | 421 | Chummy Caster |
 | 287 | 420 | Sarah Moyer |
 | 288 | 420 | Sabrina Hardrick |
-| 289 | 417 | Jennifer Alvey |
-| 290 | 417 | Giddy Twistbuilder |
+| 289 | 417 | Giddy Twistbuilder |
+| 290 | 417 | Jennifer Alvey |
 | 291 | 414 | RickyG |
 | 292 | 412 | Jojo M |
 | 293 | 411 | Megan Rathmanner |
@@ -331,8 +331,8 @@
 | 323 | 370 | Samantha Lynn |
 | 324 | 369 | Amber Glover |
 | 325 | 369 | fraulila |
-| 326 | 368 | Sheila M Frazier |
-| 327 | 368 | Stephanie Woods |
+| 326 | 368 | Stephanie Woods |
+| 327 | 368 | Sheila M Frazier |
 | 328 | 366 | KayB |
 | 329 | 365 | Andrew Thorson |
 | 330 | 365 | LaShey Thompson |
