@@ -173,8 +173,8 @@
 | 165 | 341 | Shiny Snapfit |
 | 166 | 339 | Nicole Roseberry Weber |
 | 167 | 338 | Jennifer Hardman |
-| 168 | 337 | Jamise Brown |
-| 169 | 337 | Constance Risner |
+| 168 | 337 | Constance Risner |
+| 169 | 337 | Jamise Brown |
 | 170 | 336 | Dizzy Party |
 | 171 | 336 | Erin Rosberg |
 | 172 | 333 | Gracie |

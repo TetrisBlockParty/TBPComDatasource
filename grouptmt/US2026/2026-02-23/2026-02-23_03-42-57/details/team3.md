@@ -173,8 +173,8 @@
 | 165 | 562 | Dave Herzog |
 | 166 | 557 | Michael Nowogorski |
 | 167 | 553 | LaTanya GeminiondaRise Johnson |
-| 168 | 546 | Cynthia Castros-Hampton |
-| 169 | 546 | Mykal Burton |
+| 168 | 546 | Mykal Burton |
+| 169 | 546 | Cynthia Castros-Hampton |
 | 170 | 540 | Elissa S-k |
 | 171 | 540 | Shawn Miller |
 | 172 | 539 | Patti Skiles |
@@ -212,8 +212,8 @@
 | 204 | 457 | Jim Mathews |
 | 205 | 453 | Staci George Fitzsimmons |
 | 206 | 452 | Tom Nault |
-| 207 | 452 | Connie Mohler-Fair |
-| 208 | 452 | Jacqueline Rodriguez |
+| 207 | 452 | Jacqueline Rodriguez |
+| 208 | 452 | Connie Mohler-Fair |
 | 209 | 451 | Sarah Cowan Burgos |
 | 210 | 437 | Loopy Clusterer |
 | 211 | 436 | Danielle Weikel |
@@ -263,13 +263,13 @@
 | 255 | 365 | Noyb Adam |
 | 256 | 364 | Steffi Chris Dacones |
 | 257 | 362 | Brandon Givens |
-| 258 | 357 | Cesar Barraza |
-| 259 | 357 | Stephanie Burtin |
-| 260 | 357 | Ammmmmmy |
+| 258 | 357 | Stephanie Burtin |
+| 259 | 357 | Ammmmmmy |
+| 260 | 357 | Cesar Barraza |
 | 261 | 354 | Kelly |
 | 262 | 353 | Dee Franklin |
-| 263 | 352 | Christian Werndl |
-| 264 | 352 | Samantha Lynn |
+| 263 | 352 | Samantha Lynn |
+| 264 | 352 | Christian Werndl |
 | 265 | 351 | Eon Harris |
 | 266 | 349 | Amanda J. Mcneil-Anderson |
 | 267 | 348 | Cyd061769 |
@@ -306,11 +306,11 @@
 | 298 | 304 | _melisa223_ |
 | 299 | 304 | Betty Bóò |
 | 300 | 303 | Alexmac |
-| 301 | 303 | Carrie Huskey |
+| 301 | 303 | Hoppy Buildout |
 | 302 | 303 | Beaudie Stroebel |
-| 303 | 303 | Hoppy Buildout |
-| 304 | 301 | Tiffany Davie |
-| 305 | 301 | Betty Rosas |
+| 303 | 303 | Carrie Huskey |
+| 304 | 301 | Betty Rosas |
+| 305 | 301 | Tiffany Davie |
 | 306 | 300 | Sleepy |
 | 307 | 299 | Angie Harper |
 | 308 | 298 | Grams |
@@ -365,8 +365,8 @@
 | 357 | 267 | April Matthew Kibble |
 | 358 | 267 | Michael Kimbro |
 | 359 | 266 | Quirky Dropzone |
-| 360 | 263 | Jimmie Clemons |
-| 361 | 263 | Erika Thornton |
+| 360 | 263 | Erika Thornton |
+| 361 | 263 | Jimmie Clemons |
 | 362 | 262 | Isabel Ocasio |
 | 363 | 261 | Ivan Del Toro |
 | 364 | 260 | Tracey Cox |
@@ -698,8 +698,8 @@
 | 690 | 143 | Sarah Muradyan |
 | 691 | 143 | Russell Hankinson |
 | 692 | 143 | Lisa Lisa |
-| 693 | 142 | Jason-Ashley Ludlow |
-| 694 | 142 | get et |
+| 693 | 142 | get et |
+| 694 | 142 | Jason-Ashley Ludlow |
 | 695 | 142 | Jennifer Neiman Gaal |
 | 696 | 142 | Giddy Basepiece |
 | 697 | 141 | Carri |

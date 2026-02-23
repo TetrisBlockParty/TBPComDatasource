@@ -285,8 +285,8 @@
 | 277 | 987 | Osun Anuket Esu |
 | 278 | 987 | Julie Kresal |
 | 279 | 984 | Crystal Hoffman |
-| 280 | 979 | Melissa Penelope Ann Dodge |
-| 281 | 979 | Hillary Crawford |
+| 280 | 979 | Hillary Crawford |
+| 281 | 979 | Melissa Penelope Ann Dodge |
 | 282 | 976 | Sam Joe |
 | 283 | 972 | Della Hole |
 | 284 | 972 | Binyah-Binyah |
@@ -786,8 +786,8 @@
 | 778 | 427 | Destiny Cozier |
 | 779 | 426 | Kelly Meredeith |
 | 780 | 425 | N00D3S |
-| 781 | 424 | Christine Egidio Morocco |
-| 782 | 424 | ruth |
+| 781 | 424 | ruth |
+| 782 | 424 | Christine Egidio Morocco |
 | 783 | 423 | Smashanator |
 | 784 | 422 | Kimberly Ann |
 | 785 | 422 | Shinette Dobson |
@@ -912,8 +912,8 @@
 | 904 | 374 | Lively Catcher |
 | 905 | 374 | Sassy Linkbuilder |
 | 906 | 373 | Michelle Shrum |
-| 907 | 373 | Janitta Alvarez |
-| 908 | 373 | Natasha Edmonds |
+| 907 | 373 | Natasha Edmonds |
+| 908 | 373 | Janitta Alvarez |
 | 909 | 372 | calcap |
 | 910 | 372 | Adrian Benitez |
 | 911 | 372 | Trisha Miller |

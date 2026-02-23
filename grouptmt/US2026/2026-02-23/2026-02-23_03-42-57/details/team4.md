@@ -57,8 +57,8 @@
 | 49 | 863 | Pee |
 | 50 | 855 | Marvin Lou Martin |
 | 51 | 853 | TeeJ |
-| 52 | 846 | Lucille Truesdale |
-| 53 | 846 | Christine Marie |
+| 52 | 846 | Christine Marie |
+| 53 | 846 | Lucille Truesdale |
 | 54 | 845 | LisaJo Picken Buchanan |
 | 55 | 843 | Shelly Chandler |
 | 56 | 841 | Anthony Bryan Riva |
@@ -151,9 +151,9 @@
 | 143 | 402 | Ericca Eldridge |
 | 144 | 399 | Swanky Fitline |
 | 145 | 394 | Livvy |
-| 146 | 393 | Carlton Unfiltered |
+| 146 | 393 | Trish |
 | 147 | 393 | Girl |
-| 148 | 393 | Trish |
+| 148 | 393 | Carlton Unfiltered |
 | 149 | 391 | Ramel Rhodes |
 | 150 | 389 | Joseph Guthrie |
 | 151 | 387 | Lucas J Sutton |
@@ -208,8 +208,8 @@
 | 200 | 300 | Zakia Monae |
 | 201 | 300 | Dana Scott |
 | 202 | 299 | Chris Hartig |
-| 203 | 294 | Calvin Cannon |
-| 204 | 294 | Porkobello |
+| 203 | 294 | Porkobello |
+| 204 | 294 | Calvin Cannon |
 | 205 | 292 | Epic Curvetile |
 | 206 | 290 | Keshia Lyons |
 | 207 | 290 | Jared Gutwein |
@@ -332,8 +332,8 @@
 | 324 | 194 | Zany Twisterfit |
 | 325 | 194 | SammieJo Guy |
 | 326 | 192 | Twisty Risebuilder |
-| 327 | 191 | Earnest Thompson |
-| 328 | 191 | Norman Klick |
+| 327 | 191 | Norman Klick |
+| 328 | 191 | Earnest Thompson |
 | 329 | 190 | wombat |
 | 330 | 189 | Lauren Lamb |
 | 331 | 189 | Berklie Apedaile |
@@ -360,8 +360,8 @@
 | 352 | 180 | Bradley Reeves |
 | 353 | 180 | Carlos Hernandez |
 | 354 | 179 | AyeKay |
-| 355 | 178 | Zippy Tilt |
-| 356 | 178 | Daring Pivot |
+| 355 | 178 | Daring Pivot |
+| 356 | 178 | Zippy Tilt |
 | 357 | 177 | Ernest Maxwell |
 | 358 | 176 | Cindy Looper |
 | 359 | 175 | Neirrah B Olailjeel |
@@ -493,7 +493,7 @@
 | 485 | 140 | Joshua Guess |
 | 486 | 139 | Ann G. Carrillo |
 | 487 | 139 | Angie Schmidt |
-| 488 | 138 | Lynn Marie |
+| 488 | 138 | Gdiguy |
 | 489 | 138 | Hasty Fitzone |
 | 490 | 138 | Lynn Marie |
 | 491 | 137 | Red |
