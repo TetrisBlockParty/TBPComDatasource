@@ -136,8 +136,8 @@
 | 128 | 752 | Logan Naccarato |
 | 129 | 748 | Adrian Marcel Pate |
 | 130 | 745 | JerseyJess |
-| 131 | 744 | Leah Barnett |
-| 132 | 744 | Fancy Cascader |
+| 131 | 744 | Fancy Cascader |
+| 132 | 744 | Leah Barnett |
 | 133 | 736 | mzcatzy |
 | 134 | 734 | Calista Jo Dickson |
 | 135 | 728 | Peppy Shifter |
@@ -202,8 +202,8 @@
 | 194 | 528 | Silly Twist |
 | 195 | 525 | Stephanie Blkpep Davidson |
 | 196 | 524 | Bmo |
-| 197 | 519 | Terry Jo Jones |
-| 198 | 519 | rnr junky |
+| 197 | 519 | rnr junky |
+| 198 | 519 | Terry Jo Jones |
 | 199 | 515 | Cozy Snaplink |
 | 200 | 510 | Makelini Mausia |
 | 201 | 503 | Tye Stovall |
@@ -1141,8 +1141,8 @@
 | 1133 | 99 | Bernadette Dawson Benoit |
 | 1134 | 99 | Peachy Crawler |
 | 1135 | 99 | Yall Sukk |
-| 1136 | 99 | Slinky Blocker |
-| 1137 | 99 | Gimmegimmebeer |
+| 1136 | 99 | Gimmegimmebeer |
+| 1137 | 99 | Slinky Blocker |
 | 1138 | 98 | Attie Majerus |
 | 1139 | 98 | Mimi Pidou |
 | 1140 | 98 | Jocelyne Baca |

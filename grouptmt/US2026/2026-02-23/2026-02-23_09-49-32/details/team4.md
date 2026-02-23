@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Kimyatta Cavin |
-| 84 | 684 | Jonathan Kimbrough |
+| 83 | 684 | Jonathan Kimbrough |
+| 84 | 684 | Kimyatta Cavin |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -153,8 +153,8 @@
 | 145 | 422 | Zakia Monae |
 | 146 | 421 | JIGsaw ~(•¿°)~ |
 | 147 | 421 | Kesha Brady |
-| 148 | 418 | Marie-Pier Desjardins |
-| 149 | 418 | Lush Linkfall |
+| 148 | 418 | Lush Linkfall |
+| 149 | 418 | Marie-Pier Desjardins |
 | 150 | 417 | Steph Marie |
 | 151 | 416 | Chaz Duncan |
 | 152 | 414 | Nope Young |
@@ -167,8 +167,8 @@
 | 159 | 403 | Keith Kelley |
 | 160 | 402 | Lucas J Sutton |
 | 161 | 398 | Tyler Terrific |
-| 162 | 393 | Girl |
-| 163 | 393 | Carlton Unfiltered |
+| 162 | 393 | Carlton Unfiltered |
+| 163 | 393 | Girl |
 | 164 | 392 | Nick Gray |
 | 165 | 391 | Ramel Rhodes |
 | 166 | 389 | Joseph Guthrie |
@@ -176,8 +176,8 @@
 | 168 | 377 | Guy Incognito |
 | 169 | 375 | Desi Desporte |
 | 170 | 374 | Mylo Lipscomb |
-| 171 | 372 | Antony Dwayne Beasley |
-| 172 | 372 | George Nutt |
+| 171 | 372 | George Nutt |
+| 172 | 372 | Antony Dwayne Beasley |
 | 173 | 370 | Oscar Alberto Perez |
 | 174 | 369 | Lindsey Gonzalez |
 | 175 | 368 | Silly Zonebuilder |
@@ -254,8 +254,8 @@
 | 246 | 276 | Matt Dell'Olio |
 | 247 | 275 | Kimberlee Jan Beckstead |
 | 248 | 273 | Cranky Rollpiece |
-| 249 | 272 | Dennis Bradley |
-| 250 | 272 | Alan George LaRage |
+| 249 | 272 | Alan George LaRage |
+| 250 | 272 | Dennis Bradley |
 | 251 | 271 | Holly |
 | 252 | 270 | Jen Caldwell |
 | 253 | 266 | Nubian1 |
@@ -296,8 +296,8 @@
 | 288 | 242 | PurpleMoonMa |
 | 289 | 240 | Perky Patternblock |
 | 290 | 240 | Kim Hunt |
-| 291 | 239 | Denise B |
-| 292 | 239 | Joanna |
+| 291 | 239 | Joanna |
+| 292 | 239 | Denise B |
 | 293 | 238 | 中山成巳 |
 | 294 | 237 | Christine Therrien |
 | 295 | 235 | LaDonna LovinmesomeMe Lambert |
@@ -372,8 +372,8 @@
 | 364 | 194 | Eri Kka |
 | 365 | 192 | Meg |
 | 366 | 192 | Twisty Risebuilder |
-| 367 | 191 | Earnest Thompson |
-| 368 | 191 | Riverdale |
+| 367 | 191 | Riverdale |
+| 368 | 191 | Earnest Thompson |
 | 369 | 191 | Norman Klick |
 | 370 | 190 | wombat |
 | 371 | 189 | Lauren Lamb |
@@ -470,9 +470,9 @@
 | 462 | 157 | David Boggs |
 | 463 | 156 | Funky Risepiece |
 | 464 | 156 | Mighty Edgepiece |
-| 465 | 155 | tipsy tiger |
-| 466 | 155 | Shirl |
-| 467 | 155 | Faja |
+| 465 | 155 | Faja |
+| 466 | 155 | tipsy tiger |
+| 467 | 155 | Shirl |
 | 468 | 154 | Bryan Hodgins |
 | 469 | 154 | Happy Combo |
 | 470 | 153 | icequeenx |
@@ -1577,7 +1577,7 @@
 | 1569 | 17 | Nutty Grid |
 | 1570 | 17 | Conni Brown |
 | 1571 | 17 | Dandre |
-| 1572 | 17 | Conni Brown |
+| 1572 | 17 | Christina Nycol |
 | 1573 | 17 | Blockin88 |
 | 1574 | 16 | StayC |
 | 1575 | 16 | Amy La Violette |

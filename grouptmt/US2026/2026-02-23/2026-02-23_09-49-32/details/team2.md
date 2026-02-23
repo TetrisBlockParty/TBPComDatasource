@@ -218,14 +218,14 @@
 | 210 | 1286 | Altamirano Michael |
 | 211 | 1282 | Tanya Parsons |
 | 212 | 1259 | Foxxo |
-| 213 | 1258 | Joyce Johnson Vaughn |
-| 214 | 1258 | Snappy Matchbuilder |
+| 213 | 1258 | Snappy Matchbuilder |
+| 214 | 1258 | Joyce Johnson Vaughn |
 | 215 | 1252 | Angel |
 | 216 | 1245 | Cody Nishimura |
 | 217 | 1240 | Brandon Armstrong |
 | 218 | 1237 | Megan Ferguson Leone |
-| 219 | 1232 | Ambyre Patterson |
-| 220 | 1232 | Groovy Puzzle |
+| 219 | 1232 | Groovy Puzzle |
+| 220 | 1232 | Ambyre Patterson |
 | 221 | 1230 | Megan Garrick |
 | 222 | 1221 | Jane Fong |
 | 223 | 1217 | Brooks Brooks |
@@ -305,8 +305,8 @@
 | 297 | 996 | Ashie Ann |
 | 298 | 987 | Osun Anuket Esu |
 | 299 | 984 | Crystal Hoffman |
-| 300 | 979 | Hillary Crawford |
-| 301 | 979 | Melissa Penelope Ann Dodge |
+| 300 | 979 | Melissa Penelope Ann Dodge |
+| 301 | 979 | Hillary Crawford |
 | 302 | 978 | April Dawn Gussler |
 | 303 | 976 | Della Hole |
 | 304 | 976 | Sam Joe |
@@ -344,8 +344,8 @@
 | 336 | 907 | Gene Mills |
 | 337 | 904 | John Bednarik |
 | 338 | 904 | Bee |
-| 339 | 903 | Giggy Blocker |
-| 340 | 903 | Eric Castaneda |
+| 339 | 903 | Eric Castaneda |
+| 340 | 903 | Giggy Blocker |
 | 341 | 901 | Kevin Sees |
 | 342 | 899 | Chevy |
 | 343 | 899 | Patrick Bartlett |
@@ -616,8 +616,8 @@
 | 608 | 574 | Valerie Brooke Lusk Armstrong |
 | 609 | 573 | Vaniel Glover |
 | 610 | 573 | Mike Aprilliano |
-| 611 | 572 | Rachael Senard |
-| 612 | 572 | Joseph Musick |
+| 611 | 572 | Joseph Musick |
+| 612 | 572 | Rachael Senard |
 | 613 | 572 | Jason H Baker |
 | 614 | 572 | Alexandra Lynn |
 | 615 | 571 | Emily Lyric Converse |
