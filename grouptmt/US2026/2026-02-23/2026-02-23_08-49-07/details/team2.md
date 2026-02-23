@@ -328,8 +328,8 @@
 | 320 | 949 | Steve Man |
 | 321 | 947 | Dedra Steward |
 | 322 | 941 | Cool Clearer |
-| 323 | 939 | SaraMarie Eveland |
-| 324 | 939 | Cindy Sechler Taninecz |
+| 323 | 939 | Cindy Sechler Taninecz |
+| 324 | 939 | SaraMarie Eveland |
 | 325 | 929 | Joshua Mandel |
 | 326 | 928 | Elizabeth Wilbanks |
 | 327 | 926 | Deborah Miller |
@@ -637,8 +637,8 @@
 | 629 | 554 | Tra Barnum |
 | 630 | 554 | Bubbly Snapfit |
 | 631 | 554 | Dizzy Zone |
-| 632 | 554 | Fi Ne |
-| 633 | 554 | Laquetta Royston |
+| 632 | 554 | Laquetta Royston |
+| 633 | 554 | Fi Ne |
 | 634 | 554 | Party d |
 | 635 | 553 | Alyssa Nadine Medelez |
 | 636 | 553 | Kelli Wells |
@@ -805,8 +805,8 @@
 | 797 | 451 | Sharon Mills |
 | 798 | 451 | Angela Yantz |
 | 799 | 450 | sup |
-| 800 | 449 | Heather Sawtelle-Mckenzie |
-| 801 | 449 | Jas |
+| 800 | 449 | Jas |
+| 801 | 449 | Heather Sawtelle-Mckenzie |
 | 802 | 449 | Kristi Biddinger |
 | 803 | 448 | Anastacio Hernandez |
 | 804 | 448 | Darlene Bowman |
@@ -814,14 +814,14 @@
 | 806 | 447 | Boozi |
 | 807 | 446 | Colin Morgan |
 | 808 | 446 | Courtney Burcham |
-| 809 | 445 | Mar Q Thomas |
-| 810 | 445 | Beatboxxer |
+| 809 | 445 | Beatboxxer |
+| 810 | 445 | Mar Q Thomas |
 | 811 | 444 | Angela Murgia-Owen |
-| 812 | 443 | Giggy Grabber |
-| 813 | 443 | Dimitra Zazara |
+| 812 | 443 | Dimitra Zazara |
+| 813 | 443 | Giggy Grabber |
 | 814 | 443 | N00D3S |
-| 815 | 442 | Juan Castillo |
-| 816 | 442 | Moist_B-hole |
+| 815 | 442 | Moist_B-hole |
+| 816 | 442 | Juan Castillo |
 | 817 | 442 | Rain |
 | 818 | 441 | Goofy Catcher |
 | 819 | 441 | Twisty Tetriblast |
@@ -865,8 +865,8 @@
 | 857 | 420 | Krys |
 | 858 | 420 | Lathasa Newkirk |
 | 859 | 420 | Boogie SoAnimated Johnson |
-| 860 | 419 | Josh Dill |
-| 861 | 419 | Stephanie Fortune |
+| 860 | 419 | Stephanie Fortune |
+| 861 | 419 | Josh Dill |
 | 862 | 419 | Erin Reid |
 | 863 | 418 | Bold Brickster |
 | 864 | 418 | Lawanda Forbes |
@@ -874,8 +874,8 @@
 | 866 | 417 | Janai Vrabel |
 | 867 | 417 | Rebecca Garland |
 | 868 | 417 | Tristan Szolek |
-| 869 | 416 | Alicia Moreno |
-| 870 | 416 | Veronics |
+| 869 | 416 | Veronics |
+| 870 | 416 | Alicia Moreno |
 | 871 | 416 | Christine Lockwood |
 | 872 | 415 | Cranky Tower |
 | 873 | 415 | Allyson Marra |
@@ -951,8 +951,8 @@
 | 943 | 390 | Smiley Strike |
 | 944 | 390 | Kyla Louise |
 | 945 | 390 | Tasia Stinson |
-| 946 | 389 | Monique Foster |
-| 947 | 389 | Loony Basepiece |
+| 946 | 389 | Loony Basepiece |
+| 947 | 389 | Monique Foster |
 | 948 | 388 | Alice Ball |
 | 949 | 388 | Tamara Bailey |
 | 950 | 387 | David Holliday |
@@ -962,8 +962,8 @@
 | 954 | 385 | Kirsten Marie Lomupo |
 | 955 | 385 | Cheery Puzzler |
 | 956 | 385 | stacey |
-| 957 | 385 | Iris Angelica Perez Cantos |
-| 958 | 385 | Samuel Labruno |
+| 957 | 385 | Samuel Labruno |
+| 958 | 385 | Iris Angelica Perez Cantos |
 | 959 | 384 | King Shamell Young |
 | 960 | 384 | Timothy Jesuwole |
 | 961 | 384 | Savannah Alexander |
@@ -1020,12 +1020,12 @@
 | 1012 | 366 | Ashley Criner |
 | 1013 | 366 | Madysen Holt |
 | 1014 | 366 | KrisCynthia Lynette |
-| 1015 | 365 | Wes Acton |
-| 1016 | 365 | Dee Blokk |
+| 1015 | 365 | Dee Blokk |
+| 1016 | 365 | Wes Acton |
 | 1017 | 365 | Nikki Nikki |
 | 1018 | 365 | Candace Noel |
-| 1019 | 364 | Jamie Willis |
-| 1020 | 364 | Jessica Galick |
+| 1019 | 364 | Jessica Galick |
+| 1020 | 364 | Jamie Willis |
 | 1021 | 364 | Epic Spinfit |
 | 1022 | 364 | Miranda Morris |
 | 1023 | 364 | Marina Linda |
@@ -1239,8 +1239,8 @@
 | 1231 | 307 | Chirpy Tilt |
 | 1232 | 307 | Carlos Javier Del Toro |
 | 1233 | 307 | Fancy Smasher |
-| 1234 | 306 | Chill Strike |
-| 1235 | 306 | Alison Emmons |
+| 1234 | 306 | Alison Emmons |
+| 1235 | 306 | Chill Strike |
 | 1236 | 306 | Sedo |
 | 1237 | 306 | Angela Nguyen |
 | 1238 | 305 | Tonya Goetze-Micheli |
@@ -1301,9 +1301,9 @@
 | 1293 | 294 | Marcie McLain Dodd |
 | 1294 | 294 | Tammy Coppoletta |
 | 1295 | 294 | Shannon Jackson |
-| 1296 | 293 | P. D. Paige |
+| 1296 | 293 | Snappy Slamdrop |
 | 1297 | 293 | Kim Yoder |
-| 1298 | 293 | Snappy Slamdrop |
+| 1298 | 293 | P. D. Paige |
 | 1299 | 293 | Denisha Williams |
 | 1300 | 293 | Lisa Skaggs |
 | 1301 | 292 | Atara James |
@@ -1322,8 +1322,8 @@
 | 1314 | 290 | Wungun Shun |
 | 1315 | 290 | Tim Jacoby |
 | 1316 | 290 | Joy Marie |
-| 1317 | 289 | Cathy Bitters |
-| 1318 | 289 | Robin |
+| 1317 | 289 | Robin |
+| 1318 | 289 | Cathy Bitters |
 | 1319 | 289 | Ian Anderson |
 | 1320 | 289 | Paul Hinkle |
 | 1321 | 289 | Poppy |

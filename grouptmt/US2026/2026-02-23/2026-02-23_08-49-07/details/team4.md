@@ -12,7 +12,7 @@
 | 4 | 3491 | East Mamba |
 | 5 | 3388 | Kat |
 | 6 | 3128 | Alyssa Cox |
-| 7 | 3092 | Devinlee Brown |
+| 7 | 3032 | Devinlee Brown |
 | 8 | 2492 | Anthony Magaraci |
 | 9 | 2397 | Clarence Patawaran |
 | 10 | 2179 | Michelle Pearman |
@@ -26,8 +26,8 @@
 | 18 | 1636 | Cassie Michaux |
 | 19 | 1565 | GreenJeepGirl |
 | 20 | 1558 | Leah Gorsuch |
-| 21 | 1536 | Roger Coulter |
-| 22 | 1536 | Misty Hollibaugh |
+| 21 | 1536 | Misty Hollibaugh |
+| 22 | 1536 | Roger Coulter |
 | 23 | 1485 | Juggalo |
 | 24 | 1390 | Sammy Noguera |
 | 25 | 1382 | Tammi Crnza |
@@ -75,8 +75,8 @@
 | 67 | 787 | loulou |
 | 68 | 767 | Shannon Ferrari |
 | 69 | 766 | Robin Watters |
-| 70 | 765 | Robin Getchel |
-| 71 | 765 | Denise Carlson |
+| 70 | 765 | Denise Carlson |
+| 71 | 765 | Robin Getchel |
 | 72 | 752 | Shane Kalamata Platoon |
 | 73 | 749 | Dustee Craddock-Harrison |
 | 74 | 747 | TheNeesh50 |
@@ -125,8 +125,8 @@
 | 117 | 514 | Scott Jameson |
 | 118 | 514 | Serena Goodridge |
 | 119 | 513 | Erin Thomas |
-| 120 | 512 | Casey Jeffcoat |
-| 121 | 512 | Cristy Duerksen |
+| 120 | 512 | Cristy Duerksen |
+| 121 | 512 | Casey Jeffcoat |
 | 122 | 511 | Lori Walker |
 | 123 | 509 | Leslie Nicole |
 | 124 | 487 | Ren Mc |
@@ -156,8 +156,8 @@
 | 148 | 418 | Marie-Pier Desjardins |
 | 149 | 418 | Lush Linkfall |
 | 150 | 416 | Chaz Duncan |
-| 151 | 414 | Nope Young |
-| 152 | 414 | Swanky Fitline |
+| 151 | 414 | Swanky Fitline |
+| 152 | 414 | Nope Young |
 | 153 | 413 | Circuit8 |
 | 154 | 412 | Jessica Bohlken |
 | 155 | 408 | Amanda Pauldo-Ivy |
@@ -166,8 +166,8 @@
 | 158 | 403 | Keith Kelley |
 | 159 | 402 | Lucas J Sutton |
 | 160 | 398 | Tyler Terrific |
-| 161 | 393 | Girl |
-| 162 | 393 | Carlton Unfiltered |
+| 161 | 393 | Carlton Unfiltered |
+| 162 | 393 | Girl |
 | 163 | 392 | Nick Gray |
 | 164 | 391 | Ramel Rhodes |
 | 165 | 389 | Joseph Guthrie |
@@ -203,8 +203,8 @@
 | 195 | 335 | James Hurley Jr. |
 | 196 | 334 | Kris Bartlett |
 | 197 | 332 | HastyGrabber |
-| 198 | 330 | blockstar |
-| 199 | 330 | Kathy Brookins |
+| 198 | 330 | Kathy Brookins |
+| 199 | 330 | blockstar |
 | 200 | 328 | scott |
 | 201 | 327 | J-Rizzle |
 | 202 | 324 | jim |
@@ -213,8 +213,8 @@
 | 205 | 318 | Chris Hartig |
 | 206 | 317 | Madison Sweere |
 | 207 | 316 | Autumn Kumzi |
-| 208 | 312 | Dihcheese444 |
-| 209 | 312 | Casey Grabner |
+| 208 | 312 | Casey Grabner |
+| 209 | 312 | Dihcheese444 |
 | 210 | 311 | Mary Ann Pabukis |
 | 211 | 310 | Holly Jolly |
 | 212 | 307 | Cheery Risebuilder |
@@ -265,8 +265,8 @@
 | 257 | 264 | ZeeZee |
 | 258 | 264 | Stella |
 | 259 | 263 | rebel4lyfe |
-| 260 | 262 | BigSammy420 |
-| 261 | 262 | Selena Shaw |
+| 260 | 262 | Selena Shaw |
+| 261 | 262 | BigSammy420 |
 | 262 | 261 | Zethra Prenisha Rahming |
 | 263 | 260 | Lori |
 | 264 | 260 | Carter Jones |

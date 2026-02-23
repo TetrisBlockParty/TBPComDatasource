@@ -63,8 +63,8 @@
 | 55 | 892 | Seth Wesson |
 | 56 | 874 | Kristen Roles Robben |
 | 57 | 850 | Andrea Dañielle Ortiz |
-| 58 | 847 | Marianne Louise West |
-| 59 | 845 | Drew Magnus |
+| 58 | 845 | Drew Magnus |
+| 59 | 839 | Marianne Louise West |
 | 60 | 829 | Sevens4L |
 | 61 | 818 | Patrick Luckenbill |
 | 62 | 806 | Michelle Nicole |
