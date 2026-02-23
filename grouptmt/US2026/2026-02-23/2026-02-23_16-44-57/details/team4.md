@@ -381,10 +381,10 @@
 | 373 | 227 | Maria Hammie |
 | 374 | 224 | Ultramarine |
 | 375 | 223 | Amanda Christine |
-| 376 | 223 | Gracie Ann Taylor |
-| 377 | 223 | Brave Spinbuilder |
-| 378 | 222 | Badatvs |
-| 379 | 222 | Brandi Durig |
+| 376 | 223 | Brave Spinbuilder |
+| 377 | 223 | Gracie Ann Taylor |
+| 378 | 222 | Brandi Durig |
+| 379 | 222 | Badatvs |
 | 380 | 222 | Alan Zukowski |
 | 381 | 222 | Paito |
 | 382 | 221 | Rheanda Weaskus |

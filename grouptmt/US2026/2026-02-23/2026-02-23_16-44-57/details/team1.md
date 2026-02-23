@@ -443,12 +443,12 @@
 | 435 | 203 | ash |
 | 436 | 202 | Krie |
 | 437 | 201 | Tedashi |
-| 438 | 200 | Jason Cox |
-| 439 | 200 | Alphonza Keyes Jr. |
+| 438 | 200 | Alphonza Keyes Jr. |
+| 439 | 200 | Jason Cox |
 | 440 | 199 | Tina Englert |
 | 441 | 198 | Dizzy Riseclear |
-| 442 | 198 | Larry Oaks |
-| 443 | 198 | Marci Sanders |
+| 442 | 198 | Marci Sanders |
+| 443 | 198 | Larry Oaks |
 | 444 | 197 | san |
 | 445 | 197 | Lindsay Glover |
 | 446 | 197 | Cool Towerzone |

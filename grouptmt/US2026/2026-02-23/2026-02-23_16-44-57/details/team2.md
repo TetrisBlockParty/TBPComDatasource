@@ -364,8 +364,8 @@
 | 356 | 966 | Mandi Douglas Hilt |
 | 357 | 962 | Antionette Sewell |
 | 358 | 958 | Kathryn Townsley |
-| 359 | 958 | Brenda Messer |
-| 360 | 958 | Doowop40 |
+| 359 | 958 | Doowop40 |
+| 360 | 958 | Brenda Messer |
 | 361 | 957 | Block Master |
 | 362 | 954 | Melissa McCall |
 | 363 | 951 | Cynthia Ward |
