@@ -393,8 +393,8 @@
 | 385 | 732 | Nicole Cannon |
 | 386 | 729 | goofinoff |
 | 387 | 728 | Charvi' Carter |
-| 388 | 728 | Dylan Thomason |
-| 389 | 728 | Allan Wayne Lamia |
+| 388 | 728 | Allan Wayne Lamia |
+| 389 | 728 | Dylan Thomason |
 | 390 | 728 | Tom Riefer |
 | 391 | 725 | Vonceial Boone |
 | 392 | 724 | Melissa Holsinger |
@@ -642,17 +642,17 @@
 | 634 | 476 | Kiana Boschh |
 | 635 | 474 | Jennifer Scott |
 | 636 | 474 | Veronica Stevenson |
-| 637 | 474 | KayLynn Ogden McClelland |
+| 637 | 474 | Calandra Shaya Robinson |
 | 638 | 474 | Joice Hansen |
-| 639 | 474 | Calandra Shaya Robinson |
-| 640 | 473 | coleksquad |
-| 641 | 473 | Mary Marie |
+| 639 | 474 | KayLynn Ogden McClelland |
+| 640 | 473 | Mary Marie |
+| 641 | 473 | coleksquad |
 | 642 | 472 | Arwa Fatimah |
 | 643 | 471 | Tina Marie |
 | 644 | 471 | Rae Rae |
 | 645 | 470 | Amanda Chamberlain |
-| 646 | 470 | Mo Shine On |
-| 647 | 470 | Emilie Desma |
+| 646 | 470 | Emilie Desma |
+| 647 | 470 | Mo Shine On |
 | 648 | 469 | Christy Long |
 | 649 | 467 | Kelly |
 | 650 | 466 | Crystal Greene |

@@ -132,8 +132,8 @@
 | 124 | 696 | Christine Niles |
 | 125 | 693 | Hasty Cascadefit |
 | 126 | 683 | Samantha Greco |
-| 127 | 674 | Leah Barnett |
-| 128 | 674 | Patty Allen |
+| 127 | 674 | Patty Allen |
+| 128 | 674 | Leah Barnett |
 | 129 | 668 | Betty Ivy |
 | 130 | 650 | Jd Morris |
 | 131 | 649 | Shavette |

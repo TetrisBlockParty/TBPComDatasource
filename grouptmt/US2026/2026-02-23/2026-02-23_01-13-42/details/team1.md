@@ -140,8 +140,8 @@
 | 132 | 386 | David Miller |
 | 133 | 386 | Ty Brown |
 | 134 | 383 | pjbeta |
-| 135 | 379 | Austin James |
-| 136 | 379 | Kimmie Kimms |
+| 135 | 379 | Kimmie Kimms |
+| 136 | 379 | Austin James |
 | 137 | 376 | Brian Richardsson |
 | 138 | 371 | Jason Savage |
 | 139 | 368 | Death |
@@ -166,8 +166,8 @@
 | 158 | 337 | Nicole Roseberry Weber |
 | 159 | 336 | Fmp |
 | 160 | 334 | Jaimie Lynn |
-| 161 | 333 | Gracie |
-| 162 | 333 | GATOR |
+| 161 | 333 | GATOR |
+| 162 | 333 | Gracie |
 | 163 | 332 | Lehrin Maria |
 | 164 | 325 | Dizzy Party |
 | 165 | 324 | Ananda Mendez |
@@ -188,8 +188,8 @@
 | 180 | 306 | Happy Basegrid |
 | 181 | 306 | Angela Renea Lester |
 | 182 | 304 | David Lutcher |
-| 183 | 303 | Letson Melissa |
-| 184 | 303 | ALFD |
+| 183 | 303 | ALFD |
+| 184 | 303 | Letson Melissa |
 | 185 | 301 | Damon J. Martin |
 | 186 | 296 | J.F. Fields |
 | 187 | 296 | Cody Gates |
@@ -309,8 +309,8 @@
 | 301 | 201 | Colleen Wise |
 | 302 | 201 | Beau Galvan |
 | 303 | 200 | Silly Align |
-| 304 | 199 | Tina Englert |
-| 305 | 199 | Christina Norman |
+| 304 | 199 | Christina Norman |
+| 305 | 199 | Tina Englert |
 | 306 | 197 | build master |
 | 307 | 196 | Marci Sanders |
 | 308 | 196 | .running. |
@@ -346,8 +346,8 @@
 | 338 | 183 | Dino |
 | 339 | 183 | Chummy Rollblock |
 | 340 | 182 | Nathan Sealander |
-| 341 | 181 | David DeSantis |
-| 342 | 181 | Mark Smith |
+| 341 | 181 | Mark Smith |
+| 342 | 181 | David DeSantis |
 | 343 | 180 | Discovery Point |
 | 344 | 180 | Rico Rico |
 | 345 | 179 | Ryan White |
