@@ -294,8 +294,8 @@
 | 286 | 1008 | Ashlen Dorrell |
 | 287 | 1007 | Missie Lawson Gebhardt |
 | 288 | 1003 | Andrea Maher |
-| 289 | 998 | Shelley Thornburgh Wright |
-| 290 | 998 | Keri Womack |
+| 289 | 998 | Keri Womack |
+| 290 | 998 | Shelley Thornburgh Wright |
 | 291 | 996 | Ashie Ann |
 | 292 | 988 | Juliana Marques Do Nascimento Gordy |
 | 293 | 987 | Osun Anuket Esu |
@@ -313,8 +313,8 @@
 | 305 | 969 | Em Chen |
 | 306 | 969 | Boldy Cascadepiece |
 | 307 | 961 | Angela Lynn |
-| 308 | 958 | Doowop40 |
-| 309 | 958 | Brenda Messer |
+| 308 | 958 | Brenda Messer |
+| 309 | 958 | Doowop40 |
 | 310 | 957 | Block Master |
 | 311 | 956 | Phil J. Grombliniak |
 | 312 | 955 | Angela Bonquiqui Dinish |
@@ -926,8 +926,8 @@
 | 918 | 393 | Jannan Haimour |
 | 919 | 392 | Jroc |
 | 920 | 391 | Poppy Gridder |
-| 921 | 391 | Chilly Bridgepiece |
-| 922 | 391 | Jes Norris |
+| 921 | 391 | Jes Norris |
+| 922 | 391 | Chilly Bridgepiece |
 | 923 | 390 | MauroPRM |
 | 924 | 390 | Karmabunny |
 | 925 | 390 | Smiley Strike |

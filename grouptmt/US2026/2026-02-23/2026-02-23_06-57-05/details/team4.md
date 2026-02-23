@@ -26,8 +26,8 @@
 | 18 | 1636 | Cassie Michaux |
 | 19 | 1565 | GreenJeepGirl |
 | 20 | 1558 | Leah Gorsuch |
-| 21 | 1536 | Misty Hollibaugh |
-| 22 | 1536 | Roger Coulter |
+| 21 | 1536 | Roger Coulter |
+| 22 | 1536 | Misty Hollibaugh |
 | 23 | 1485 | Juggalo |
 | 24 | 1390 | Sammy Noguera |
 | 25 | 1382 | Tammi Crnza |
@@ -125,8 +125,8 @@
 | 117 | 514 | Scott Jameson |
 | 118 | 514 | Serena Goodridge |
 | 119 | 513 | Erin Thomas |
-| 120 | 512 | Casey Jeffcoat |
-| 121 | 512 | Cristy Duerksen |
+| 120 | 512 | Cristy Duerksen |
+| 121 | 512 | Casey Jeffcoat |
 | 122 | 511 | Lori Walker |
 | 123 | 509 | Leslie Nicole |
 | 124 | 482 | Ren Mc |
@@ -140,8 +140,8 @@
 | 132 | 451 | Peachy Fall |
 | 133 | 448 | Kristin Manee |
 | 134 | 447 | Ericca Eldridge |
-| 135 | 435 | Leslie Thomas |
-| 136 | 435 | Kristina Black |
+| 135 | 435 | Kristina Black |
+| 136 | 435 | Leslie Thomas |
 | 137 | 434 | Monica Daley |
 | 138 | 432 | Zippy Block |
 | 139 | 431 | Courtney Cicoria |
@@ -150,8 +150,8 @@
 | 142 | 423 | Carrie Brian |
 | 143 | 421 | Kesha Brady |
 | 144 | 421 | JIGsaw ~(•¿°)~ |
-| 145 | 418 | Lush Linkfall |
-| 146 | 418 | Marie-Pier Desjardins |
+| 145 | 418 | Marie-Pier Desjardins |
+| 146 | 418 | Lush Linkfall |
 | 147 | 416 | Chaz Duncan |
 | 148 | 414 | Swanky Fitline |
 | 149 | 414 | Nope Young |
@@ -214,8 +214,8 @@
 | 206 | 305 | Melvin Baird |
 | 207 | 304 | Lindsay Ball |
 | 208 | 301 | Andria Lynn |
-| 209 | 300 | Dana Scott |
-| 210 | 300 | Zakia Monae |
+| 209 | 300 | Zakia Monae |
+| 210 | 300 | Dana Scott |
 | 211 | 295 | Keshia Lyons |
 | 212 | 294 | Porkobello |
 | 213 | 294 | Calvin Cannon |
@@ -346,10 +346,10 @@
 | 338 | 200 | Googenheim |
 | 339 | 199 | Paige Kittles |
 | 340 | 198 | Calvin Dennis |
-| 341 | 196 | Megan Cutshaw |
-| 342 | 196 | Blessedmama |
-| 343 | 194 | Zany Twisterfit |
-| 344 | 194 | SammieJo Guy |
+| 341 | 196 | Blessedmama |
+| 342 | 196 | Megan Cutshaw |
+| 343 | 194 | SammieJo Guy |
+| 344 | 194 | Zany Twisterfit |
 | 345 | 192 | Twisty Risebuilder |
 | 346 | 192 | Meg |
 | 347 | 191 | Norman Klick |
