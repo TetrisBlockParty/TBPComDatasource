@@ -166,8 +166,8 @@
 | 158 | 462 | Leslie Thomas |
 | 159 | 460 | Cursed Hag |
 | 160 | 457 | Keith Kelley |
-| 161 | 448 | Swanky Fitline |
-| 162 | 448 | Kristin Manee |
+| 161 | 448 | Kristin Manee |
+| 162 | 448 | Swanky Fitline |
 | 163 | 444 | Mylo Lipscomb |
 | 164 | 435 | Kristina Black |
 | 165 | 433 | Nick Gray |
@@ -202,8 +202,8 @@
 | 194 | 383 | Chris Bernstein |
 | 195 | 376 | Zesty Twistbuilder |
 | 196 | 372 | George Nutt |
-| 197 | 368 | Holly Jolly |
-| 198 | 368 | Silly Zonebuilder |
+| 197 | 368 | Silly Zonebuilder |
+| 198 | 368 | Holly Jolly |
 | 199 | 367 | Sue Joyce Staats |
 | 200 | 365 | Jeff Brian Gates |
 | 201 | 363 | Cindy Looper |
@@ -212,8 +212,8 @@
 | 204 | 358 | A5! |
 | 205 | 358 | Twisty Cascadezone |
 | 206 | 355 | James Hurley Jr. |
-| 207 | 354 | TRCuse |
-| 208 | 354 | Sharyn Lemire |
+| 207 | 354 | Sharyn Lemire |
+| 208 | 354 | TRCuse |
 | 209 | 354 | Kris Bartlett |
 | 210 | 352 | April Rondinone |
 | 211 | 348 | David Lay |
@@ -659,10 +659,10 @@
 | 651 | 119 | George Tzouganos |
 | 652 | 119 | River Shady Sr. |
 | 653 | 118 | Lou Ie |
-| 654 | 118 | Jennifer Dineen |
-| 655 | 118 | Krash |
-| 656 | 118 | Sassy Pattern |
-| 657 | 118 | Mackenzie Forrester |
+| 654 | 118 | Krash |
+| 655 | 118 | Jennifer Dineen |
+| 656 | 118 | Mackenzie Forrester |
+| 657 | 118 | Sassy Pattern |
 | 658 | 118 | Kametsunoyaiba |
 | 659 | 118 | Jonathan Mahfood |
 | 660 | 117 | Serena Butter |
@@ -685,8 +685,8 @@
 | 677 | 115 | Bonnie Hurlbrink |
 | 678 | 115 | Brenda Bird |
 | 679 | 114 | Dan Wold |
-| 680 | 114 | Tammy Lewis |
-| 681 | 114 | Tiffany Tran |
+| 680 | 114 | Tiffany Tran |
+| 681 | 114 | Tammy Lewis |
 | 682 | 113 | Abigail Murphy |
 | 683 | 113 | Hog Crankin |
 | 684 | 112 | Ninaforever |

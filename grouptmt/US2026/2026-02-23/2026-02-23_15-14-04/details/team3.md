@@ -170,13 +170,13 @@
 | 162 | 649 | Shavette |
 | 163 | 647 | Jennifer Lynn Fahrenholtz-Summers |
 | 164 | 646 | Tina Kay |
-| 165 | 634 | Amber Hughes |
-| 166 | 634 | Denita Mungro |
+| 165 | 634 | Denita Mungro |
+| 166 | 634 | Amber Hughes |
 | 167 | 632 | Morgan Martinez |
 | 168 | 630 | yoyo |
 | 169 | 629 | rnr junky |
-| 170 | 621 | Sashay Tapae Simpson |
-| 171 | 621 | Cherry Parker |
+| 170 | 621 | Cherry Parker |
+| 171 | 621 | Sashay Tapae Simpson |
 | 172 | 616 | Kammy Hill |
 | 173 | 611 | Rochelle Hazelett |
 | 174 | 603 | Jone |
@@ -189,8 +189,8 @@
 | 181 | 591 | Michael Nowogorski |
 | 182 | 589 | Tasha Gillespie |
 | 183 | 587 | Louise Stacy Sisson |
-| 184 | 585 | Happy Tetriblast |
-| 185 | 585 | Domo Washington |
+| 184 | 585 | Domo Washington |
+| 185 | 585 | Happy Tetriblast |
 | 186 | 582 | Natasha Jones |
 | 187 | 576 | Keis |
 | 188 | 568 | Rachael McClain Owens |
@@ -282,8 +282,8 @@
 | 274 | 412 | Jojo M |
 | 275 | 411 | Megan Rathmanner |
 | 276 | 410 | Duane Bright |
-| 277 | 408 | Marquita Sheard |
-| 278 | 408 | Tiffany Ford |
+| 277 | 408 | Tiffany Ford |
+| 278 | 408 | Marquita Sheard |
 | 279 | 406 | Kristal C Lee |
 | 280 | 405 | Steffi Chris Dacones |
 | 281 | 404 | Chasity |

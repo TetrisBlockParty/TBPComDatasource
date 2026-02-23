@@ -175,8 +175,8 @@
 | 167 | 403 | Tana |
 | 168 | 402 | Chris K |
 | 169 | 400 | Chelsea Dahlquist |
-| 170 | 399 | Nery Martinez |
-| 171 | 399 | phrmblk24 |
+| 170 | 399 | phrmblk24 |
+| 171 | 399 | Nery Martinez |
 | 172 | 397 | Erin Rosberg |
 | 173 | 394 | Lori Bales |
 | 174 | 393 | Lehrin Maria |
@@ -220,8 +220,8 @@
 | 212 | 354 | Chuck Gannon |
 | 213 | 354 | Dino |
 | 214 | 353 | Reesey Enyart |
-| 215 | 353 | Jaimie Lynn |
-| 216 | 353 | Josh Riemer |
+| 215 | 353 | Josh Riemer |
+| 216 | 353 | Jaimie Lynn |
 | 217 | 351 | Sean Stallings |
 | 218 | 350 | Tipsy Strikerpiece |
 | 219 | 349 | Cool Shiftsnap |
@@ -265,8 +265,8 @@
 | 257 | 301 | Glitzy Curvebuilder |
 | 258 | 301 | Brave Wrecker |
 | 259 | 298 | Billie Ann Eason |
-| 260 | 298 | Kimberly Davis |
-| 261 | 298 | Sweetts |
+| 260 | 298 | Sweetts |
+| 261 | 298 | Kimberly Davis |
 | 262 | 297 | Diane Byrd |
 | 263 | 292 | Clever Cascadepiece |
 | 264 | 290 | Tavia |
@@ -294,19 +294,19 @@
 | 286 | 275 | Cheeky Pop |
 | 287 | 274 | Allena Craft |
 | 288 | 273 | Test |
-| 289 | 272 | Michelle Beres |
-| 290 | 272 | Barrbaric |
+| 289 | 272 | Barrbaric |
+| 290 | 272 | Michelle Beres |
 | 291 | 271 | Robert |
-| 292 | 270 | Brenda Alexander |
-| 293 | 270 | Debbie Kane |
+| 292 | 270 | Debbie Kane |
+| 293 | 270 | Brenda Alexander |
 | 294 | 269 | Colleen Pinette |
-| 295 | 268 | Wayne Saunders |
-| 296 | 268 | Standia Civil |
+| 295 | 268 | Standia Civil |
+| 296 | 268 | Wayne Saunders |
 | 297 | 267 | Patty Lavigne Craddock |
 | 298 | 265 | Flashy Rotator |
 | 299 | 264 | Jenny Gingrich Fuentes |
-| 300 | 263 | Nadine Velardo |
-| 301 | 263 | Sunny Shift |
+| 300 | 263 | Sunny Shift |
+| 301 | 263 | Nadine Velardo |
 | 302 | 262 | Mary Love |
 | 303 | 261 | Yahowah |
 | 304 | 261 | Brooke Elizabeth Antill |
