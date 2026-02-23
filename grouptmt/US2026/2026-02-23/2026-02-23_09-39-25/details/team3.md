@@ -216,8 +216,8 @@
 | 208 | 485 | Dapper Snap |
 | 209 | 484 | Fallorina Susana |
 | 210 | 481 | Connie Mohler-Fair |
-| 211 | 480 | Danielle Allison |
-| 212 | 480 | Michael Johnson |
+| 211 | 480 | Michael Johnson |
+| 212 | 480 | Danielle Allison |
 | 213 | 477 | Edwin Calvillo Jr. |
 | 214 | 475 | Tessina Dewey-Mancino |
 | 215 | 473 | Rachel |
@@ -226,8 +226,8 @@
 | 218 | 468 | Lizabeth Fox |
 | 219 | 467 | Sherry Ogden |
 | 220 | 465 | Annie Déè |
-| 221 | 464 | Danielle Weikel |
-| 222 | 464 | Shunta Jacobs |
+| 221 | 464 | Shunta Jacobs |
+| 222 | 464 | Danielle Weikel |
 | 223 | 461 | Tom Nault |
 | 224 | 458 | Danielle Rhoades |
 | 225 | 455 | Rebecca Funderburk Kirby |

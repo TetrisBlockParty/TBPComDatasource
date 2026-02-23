@@ -83,8 +83,8 @@
 | 75 | 703 | Angel Fowler |
 | 76 | 689 | Susanna Guerry |
 | 77 | 679 | Hasbro Bros |
-| 78 | 657 | Tee Sheree |
-| 79 | 657 | Cynthia Bradley |
+| 78 | 657 | Cynthia Bradley |
+| 79 | 657 | Tee Sheree |
 | 80 | 655 | Brenda Stewart |
 | 81 | 648 | Evie Khalil |
 | 82 | 647 | Jason Jones |
@@ -108,8 +108,8 @@
 | 100 | 509 | Rachael |
 | 101 | 502 | Anaid Sanchez |
 | 102 | 497 | Arianna O'Brien |
-| 103 | 493 | Jennifer ManWarren |
-| 104 | 493 | MomMom |
+| 103 | 493 | MomMom |
+| 104 | 493 | Jennifer ManWarren |
 | 105 | 492 | Ash Galvan |
 | 106 | 491 | cc |
 | 107 | 489 | April Carroll |
@@ -122,14 +122,14 @@
 | 114 | 464 | Lori Sanders- Davis |
 | 115 | 463 | Lexuriuos Lifestlye |
 | 116 | 462 | Luciano Moreira |
-| 117 | 458 | Goose egg |
-| 118 | 458 | Evan Richmond |
+| 117 | 458 | Evan Richmond |
+| 118 | 458 | Goose egg |
 | 119 | 453 | Brandi Huntington |
 | 120 | 452 | Hyper |
 | 121 | 451 | Plucky Ziggy |
 | 122 | 450 | lil mickey |
-| 123 | 448 | Jazzy Framezone |
-| 124 | 448 | Sweet Baker |
+| 123 | 448 | Sweet Baker |
+| 124 | 448 | Jazzy Framezone |
 | 125 | 446 | SkipTheSadSauce |
 | 126 | 443 | Steve Schneider |
 | 127 | 440 | femmefatale |
@@ -502,7 +502,7 @@
 | 494 | 151 | Glitzy Grid |
 | 495 | 151 | Michelle |
 | 496 | 151 | Cozy Shatterer |
-| 497 | 151 | Glitzy Grid |
+| 497 | 151 | Plucky Wrecker |
 | 498 | 149 | Logan McFarland |
 | 499 | 147 | Donna Taliger Brigante |
 | 500 | 147 | Carl Claunch |

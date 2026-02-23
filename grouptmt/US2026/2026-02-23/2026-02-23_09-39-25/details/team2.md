@@ -218,8 +218,8 @@
 | 210 | 1286 | Altamirano Michael |
 | 211 | 1282 | Tanya Parsons |
 | 212 | 1259 | Foxxo |
-| 213 | 1258 | Snappy Matchbuilder |
-| 214 | 1258 | Joyce Johnson Vaughn |
+| 213 | 1258 | Joyce Johnson Vaughn |
+| 214 | 1258 | Snappy Matchbuilder |
 | 215 | 1252 | Angel |
 | 216 | 1245 | Cody Nishimura |
 | 217 | 1240 | Brandon Armstrong |
@@ -323,8 +323,8 @@
 | 315 | 957 | Block Master |
 | 316 | 955 | Angela Bonquiqui Dinish |
 | 317 | 954 | Melissa McCall |
-| 318 | 951 | Cynthia Ward |
-| 319 | 951 | Wakanda Forever |
+| 318 | 951 | Wakanda Forever |
+| 319 | 951 | Cynthia Ward |
 | 320 | 949 | Steve Man |
 | 321 | 947 | Dedra Steward |
 | 322 | 942 | Cindy Sechler Taninecz |
@@ -344,8 +344,8 @@
 | 336 | 907 | Gene Mills |
 | 337 | 904 | John Bednarik |
 | 338 | 904 | Bee |
-| 339 | 903 | Eric Castaneda |
-| 340 | 903 | Giggy Blocker |
+| 339 | 903 | Giggy Blocker |
+| 340 | 903 | Eric Castaneda |
 | 341 | 901 | Kevin Sees |
 | 342 | 899 | Patrick Bartlett |
 | 343 | 899 | Chevy |
@@ -427,11 +427,11 @@
 | 419 | 763 | Heather Causey |
 | 420 | 761 | Jerilyn Andrina |
 | 421 | 760 | Ashley Guernsey-Martin |
-| 422 | 760 | Cheech Dta |
-| 423 | 760 | Allan Wayne Lamia |
-| 424 | 760 | Andrew Willis |
-| 425 | 758 | Stephanie Neuburger |
-| 426 | 758 | Quirky Twistline |
+| 422 | 760 | Andrew Willis |
+| 423 | 760 | Cheech Dta |
+| 424 | 760 | Allan Wayne Lamia |
+| 425 | 758 | Quirky Twistline |
+| 426 | 758 | Stephanie Neuburger |
 | 427 | 755 | Taryece Gause |
 | 428 | 752 | Christina Wsn |
 | 429 | 751 | Loony Snapper |

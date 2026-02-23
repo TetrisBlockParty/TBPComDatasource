@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | KM8 |
-| 93 | 647 | Shauna Havard |
+| 92 | 647 | Shauna Havard |
+| 93 | 647 | KM8 |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -162,8 +162,8 @@
 | 154 | 413 | Circuit8 |
 | 155 | 412 | Jessica Bohlken |
 | 156 | 408 | Amanda Pauldo-Ivy |
-| 157 | 406 | Livvy |
-| 158 | 406 | Damn Libra |
+| 157 | 406 | Damn Libra |
+| 158 | 406 | Livvy |
 | 159 | 403 | Keith Kelley |
 | 160 | 402 | Lucas J Sutton |
 | 161 | 398 | Tyler Terrific |
@@ -176,8 +176,8 @@
 | 168 | 377 | Guy Incognito |
 | 169 | 375 | Desi Desporte |
 | 170 | 374 | Mylo Lipscomb |
-| 171 | 372 | George Nutt |
-| 172 | 372 | Antony Dwayne Beasley |
+| 171 | 372 | Antony Dwayne Beasley |
+| 172 | 372 | George Nutt |
 | 173 | 370 | Oscar Alberto Perez |
 | 174 | 369 | Lindsey Gonzalez |
 | 175 | 368 | Brandon Crabbs |
@@ -232,8 +232,8 @@
 | 224 | 294 | Calvin Cannon |
 | 225 | 292 | Epic Curvetile |
 | 226 | 291 | Nikki Rae Gordon |
-| 227 | 290 | Plucky Patternblock |
-| 228 | 290 | Rebecca Morris |
+| 227 | 290 | Rebecca Morris |
+| 228 | 290 | Plucky Patternblock |
 | 229 | 290 | Jared Gutwein |
 | 230 | 289 | Juls |
 | 231 | 288 | Brittney Orengo |
@@ -254,8 +254,8 @@
 | 246 | 276 | Cynthia Boudreau |
 | 247 | 275 | Kimberlee Jan Beckstead |
 | 248 | 273 | Cranky Rollpiece |
-| 249 | 272 | Alan George LaRage |
-| 250 | 272 | Dennis Bradley |
+| 249 | 272 | Dennis Bradley |
+| 250 | 272 | Alan George LaRage |
 | 251 | 271 | Holly |
 | 252 | 270 | Jen Caldwell |
 | 253 | 266 | Mr. Party |
