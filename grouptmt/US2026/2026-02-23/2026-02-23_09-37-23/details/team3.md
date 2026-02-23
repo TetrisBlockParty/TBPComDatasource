@@ -121,8 +121,8 @@
 | 113 | 839 | Angeline Joseph |
 | 114 | 830 | Stephanie Allmon |
 | 115 | 826 | Shane Wilson Jr. |
-| 116 | 816 | Jesse Olive |
-| 117 | 816 | Brenda Lee Vander Molen |
+| 116 | 816 | Brenda Lee Vander Molen |
+| 117 | 816 | Jesse Olive |
 | 118 | 802 | Bobbi Moore |
 | 119 | 800 | Lauren Girouard |
 | 120 | 799 | Dolores Falco |
@@ -136,8 +136,8 @@
 | 128 | 752 | Logan Naccarato |
 | 129 | 748 | Adrian Marcel Pate |
 | 130 | 745 | JerseyJess |
-| 131 | 744 | Fancy Cascader |
-| 132 | 744 | Leah Barnett |
+| 131 | 744 | Leah Barnett |
+| 132 | 744 | Fancy Cascader |
 | 133 | 736 | mzcatzy |
 | 134 | 734 | Calista Jo Dickson |
 | 135 | 728 | Peppy Shifter |
@@ -337,8 +337,8 @@
 | 329 | 311 | Troy |
 | 330 | 309 | Desiree Gold |
 | 331 | 309 | Cheeky Snapper |
-| 332 | 308 | Tia |
-| 333 | 308 | Katrina Turner |
+| 332 | 308 | Katrina Turner |
+| 333 | 308 | Tia |
 | 334 | 305 | Hyper Matchzone |
 | 335 | 304 | _melisa223_ |
 | 336 | 303 | Alexmac |
@@ -353,8 +353,8 @@
 | 345 | 298 | Dannie Litchard |
 | 346 | 298 | Grams |
 | 347 | 297 | kacihall |
-| 348 | 296 | Donna |
-| 349 | 296 | Tracy Martin |
+| 348 | 296 | Tracy Martin |
+| 349 | 296 | Donna |
 | 350 | 296 | Antonia Russell |
 | 351 | 295 | Nikki Pags |
 | 352 | 292 | Khaleada McGill Banks |
@@ -476,8 +476,8 @@
 | 468 | 228 | Dapper Liney |
 | 469 | 228 | Tipsy Zonebuilder |
 | 470 | 227 | Meowsa |
-| 471 | 226 | Ryan Williams |
-| 472 | 226 | paranoid |
+| 471 | 226 | paranoid |
+| 472 | 226 | Ryan Williams |
 | 473 | 225 | sofaking |
 | 474 | 225 | Sassy Tiler |
 | 475 | 224 | Sarah Morris |

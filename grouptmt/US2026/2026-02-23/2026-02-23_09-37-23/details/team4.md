@@ -26,8 +26,8 @@
 | 18 | 1636 | Cassie Michaux |
 | 19 | 1565 | GreenJeepGirl |
 | 20 | 1558 | Leah Gorsuch |
-| 21 | 1536 | Roger Coulter |
-| 22 | 1536 | Misty Hollibaugh |
+| 21 | 1536 | Misty Hollibaugh |
+| 22 | 1536 | Roger Coulter |
 | 23 | 1485 | Juggalo |
 | 24 | 1390 | Sammy Noguera |
 | 25 | 1382 | Tammi Crnza |
@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Jonathan Kimbrough |
-| 84 | 684 | Kimyatta Cavin |
+| 83 | 684 | Kimyatta Cavin |
+| 84 | 684 | Jonathan Kimbrough |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -162,8 +162,8 @@
 | 154 | 413 | Circuit8 |
 | 155 | 412 | Jessica Bohlken |
 | 156 | 408 | Amanda Pauldo-Ivy |
-| 157 | 406 | Livvy |
-| 158 | 406 | Damn Libra |
+| 157 | 406 | Damn Libra |
+| 158 | 406 | Livvy |
 | 159 | 403 | Keith Kelley |
 | 160 | 402 | Lucas J Sutton |
 | 161 | 398 | Tyler Terrific |
@@ -194,10 +194,10 @@
 | 186 | 352 | Sue Joyce Staats |
 | 187 | 350 | Carly Alexis |
 | 188 | 349 | Rafael Valentin |
-| 189 | 348 | David Lay |
-| 190 | 348 | April Rondinone |
-| 191 | 347 | Crystal Nicolette Moore |
-| 192 | 347 | Daria Rycewicz |
+| 189 | 348 | April Rondinone |
+| 190 | 348 | David Lay |
+| 191 | 347 | Daria Rycewicz |
+| 192 | 347 | Crystal Nicolette Moore |
 | 193 | 346 | shark tato |
 | 194 | 337 | Sam Bishop |
 | 195 | 336 | JPW |
@@ -254,8 +254,8 @@
 | 246 | 276 | Matt Dell'Olio |
 | 247 | 275 | Kimberlee Jan Beckstead |
 | 248 | 273 | Cranky Rollpiece |
-| 249 | 272 | Alan George LaRage |
-| 250 | 272 | Dennis Bradley |
+| 249 | 272 | Dennis Bradley |
+| 250 | 272 | Alan George LaRage |
 | 251 | 271 | Holly |
 | 252 | 270 | Jen Caldwell |
 | 253 | 266 | Nubian1 |
@@ -464,8 +464,8 @@
 | 456 | 159 | Groovy Brickmatch |
 | 457 | 158 | Jasmine S Caldwell |
 | 458 | 158 | Dapper Frame |
-| 459 | 157 | Ryry |
-| 460 | 157 | LunaMoon |
+| 459 | 157 | LunaMoon |
+| 460 | 157 | Ryry |
 | 461 | 157 | David Boggs |
 | 462 | 156 | Funky Risepiece |
 | 463 | 156 | Mighty Edgepiece |
