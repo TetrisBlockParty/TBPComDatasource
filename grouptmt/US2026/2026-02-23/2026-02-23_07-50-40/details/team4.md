@@ -122,8 +122,8 @@
 | 114 | 519 | Nugget |
 | 115 | 517 | Christina LR |
 | 116 | 517 | shar |
-| 117 | 514 | Scott Jameson |
-| 118 | 514 | Serena Goodridge |
+| 117 | 514 | Serena Goodridge |
+| 118 | 514 | Scott Jameson |
 | 119 | 513 | Erin Thomas |
 | 120 | 512 | Cristy Duerksen |
 | 121 | 512 | Casey Jeffcoat |
@@ -155,8 +155,8 @@
 | 147 | 418 | Marie-Pier Desjardins |
 | 148 | 418 | Lush Linkfall |
 | 149 | 416 | Chaz Duncan |
-| 150 | 414 | Nope Young |
-| 151 | 414 | Swanky Fitline |
+| 150 | 414 | Swanky Fitline |
+| 151 | 414 | Nope Young |
 | 152 | 413 | Circuit8 |
 | 153 | 412 | Jessica Bohlken |
 | 154 | 408 | Amanda Pauldo-Ivy |
@@ -236,8 +236,8 @@
 | 228 | 286 | Steph Marie |
 | 229 | 285 | 030Synner |
 | 230 | 284 | Mimi |
-| 231 | 282 | Kim Klutz Olson |
-| 232 | 282 | Matt Gooder |
+| 231 | 282 | Matt Gooder |
+| 232 | 282 | Kim Klutz Olson |
 | 233 | 281 | Laura |
 | 234 | 280 | Rio Rocha |
 | 235 | 279 | Malakai Darien Fox |
@@ -353,8 +353,8 @@
 | 345 | 201 | O block |
 | 346 | 200 | Googenheim |
 | 347 | 198 | Calvin Dennis |
-| 348 | 196 | Megan Cutshaw |
-| 349 | 196 | Blessedmama |
+| 348 | 196 | Blessedmama |
+| 349 | 196 | Megan Cutshaw |
 | 350 | 195 | Dustin York |
 | 351 | 194 | SammieJo Guy |
 | 352 | 194 | Michelle Morris |
@@ -403,8 +403,8 @@
 | 395 | 177 | Lora |
 | 396 | 177 | Helen Chao |
 | 397 | 177 | Chao Ma |
-| 398 | 176 | Cindy Looper |
-| 399 | 176 | B Renee Desjardin |
+| 398 | 176 | B Renee Desjardin |
+| 399 | 176 | Cindy Looper |
 | 400 | 176 | Brickh4us |
 | 401 | 175 | Lorena Guerrero-Barron |
 | 402 | 175 | Neirrah B Olailjeel |

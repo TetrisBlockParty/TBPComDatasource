@@ -135,9 +135,9 @@
 | 127 | 429 | Kristi Johnson |
 | 128 | 428 | Ly Phethmany |
 | 129 | 426 | Maria C. Hernandez |
-| 130 | 425 | Dandy Basegrid |
-| 131 | 425 | Lori Sanders- Davis |
-| 132 | 425 | Tyler Werts |
+| 130 | 425 | Lori Sanders- Davis |
+| 131 | 425 | Tyler Werts |
+| 132 | 425 | Dandy Basegrid |
 | 133 | 411 | BadG52 |
 | 134 | 410 | ALFD |
 | 135 | 409 | Goose egg |
@@ -439,7 +439,7 @@
 | 431 | 169 | Davery Spencer Adair |
 | 432 | 168 | Mrs.Patrica |
 | 433 | 168 | Dizzy Riseclear |
-| 434 | 166 | Howdi Duty |
+| 434 | 166 | Ashley Adams |
 | 435 | 166 | Gilbert Ortiz Jr. |
 | 436 | 166 | Howdi Duty |
 | 437 | 165 | Stephanie Leday |

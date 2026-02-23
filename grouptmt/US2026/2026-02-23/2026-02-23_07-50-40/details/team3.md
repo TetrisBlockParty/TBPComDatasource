@@ -113,15 +113,15 @@
 | 105 | 869 | Araceli Parra |
 | 106 | 868 | Sarajane Lokan |
 | 107 | 860 | Sunny Rotater |
-| 108 | 851 | Jd Morris |
-| 109 | 851 | Danielle Becker |
+| 108 | 851 | Danielle Becker |
+| 109 | 851 | Jd Morris |
 | 110 | 850 | Danielle Mogg |
 | 111 | 848 | Patricia Gadsden |
 | 112 | 831 | Angeline Joseph |
 | 113 | 830 | Stephanie Allmon |
 | 114 | 826 | Shane Wilson Jr. |
-| 115 | 816 | Brenda Lee Vander Molen |
-| 116 | 816 | Jesse Olive |
+| 115 | 816 | Jesse Olive |
+| 116 | 816 | Brenda Lee Vander Molen |
 | 117 | 802 | Bobbi Moore |
 | 118 | 800 | Lauren Girouard |
 | 119 | 799 | Dolores Falco |
@@ -175,8 +175,8 @@
 | 167 | 591 | Michael Nowogorski |
 | 168 | 588 | Justin Ritter |
 | 169 | 587 | Louise Stacy Sisson |
-| 170 | 585 | Annie Marie |
-| 171 | 585 | Happy Tetriblast |
+| 170 | 585 | Happy Tetriblast |
+| 171 | 585 | Annie Marie |
 | 172 | 583 | Tasha Gillespie |
 | 173 | 582 | Natasha Jones |
 | 174 | 577 | Domo Washington |
@@ -195,8 +195,8 @@
 | 187 | 546 | Cynthia Castros-Hampton |
 | 188 | 546 | Mykal Burton |
 | 189 | 540 | Shawn Miller |
-| 190 | 531 | Sarah Cowan Burgos |
-| 191 | 531 | Chauntee Alfrey-Cardinale |
+| 190 | 531 | Chauntee Alfrey-Cardinale |
+| 191 | 531 | Sarah Cowan Burgos |
 | 192 | 528 | Silly Twist |
 | 193 | 525 | Stephanie Blkpep Davidson |
 | 194 | 524 | Bmo |
@@ -222,8 +222,8 @@
 | 214 | 471 | Mendoza Lee Christy |
 | 215 | 467 | Sherry Ogden |
 | 216 | 465 | Annie Déè |
-| 217 | 464 | Shunta Jacobs |
-| 218 | 464 | Danielle Weikel |
+| 217 | 464 | Danielle Weikel |
+| 218 | 464 | Shunta Jacobs |
 | 219 | 461 | Tom Nault |
 | 220 | 458 | Danielle Rhoades |
 | 221 | 454 | Joye Sims Binion |
@@ -454,19 +454,19 @@
 | 446 | 237 | Jolly Dashpiece |
 | 447 | 237 | Rainbow77375 |
 | 448 | 237 | Angella Lyons |
-| 449 | 236 | Loopy Fallzone |
+| 449 | 236 | Alexis Ford |
 | 450 | 236 | lashanda |
-| 451 | 236 | Alexis Ford |
+| 451 | 236 | Loopy Fallzone |
 | 452 | 234 | Cheeky Twisterfit |
 | 453 | 233 | Criss |
 | 454 | 233 | Tony Waters |
-| 455 | 232 | Melanie Sherwood |
-| 456 | 232 | Stephanie Hill |
+| 455 | 232 | Stephanie Hill |
+| 456 | 232 | Melanie Sherwood |
 | 457 | 232 | Sunny Tiltgrid |
 | 458 | 231 | Frothy Snapper |
 | 459 | 231 | Giggly Brickroll |
-| 460 | 230 | DanceLuvLaugh |
-| 461 | 230 | BigE |
+| 460 | 230 | BigE |
+| 461 | 230 | DanceLuvLaugh |
 | 462 | 229 | MizzMonick Smith |
 | 463 | 229 | Everret Maxine |
 | 464 | 228 | Tipsy Zonebuilder |
@@ -490,8 +490,8 @@
 | 482 | 221 | Vaners |
 | 483 | 220 | Bhreagh Gentile |
 | 484 | 219 | Angel Miller |
-| 485 | 219 | TLM |
-| 486 | 219 | Trice Thomas |
+| 485 | 219 | Trice Thomas |
+| 486 | 219 | TLM |
 | 487 | 218 | Sabrina Mansfield |
 | 488 | 218 | Tina Smith Roy |
 | 489 | 218 | Dapper Chiseler |
