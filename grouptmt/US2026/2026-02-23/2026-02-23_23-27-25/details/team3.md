@@ -491,8 +491,8 @@
 | 483 | 306 | Valerie Tarkington |
 | 484 | 306 | Cathy Leger |
 | 485 | 305 | Breezy Roll |
-| 486 | 304 | _melisa223_ |
-| 487 | 304 | Courtney Price |
+| 486 | 304 | Courtney Price |
+| 487 | 304 | _melisa223_ |
 | 488 | 304 | Loopy Fallzone |
 | 489 | 303 | Trey Ward |
 | 490 | 303 | Sameerah Smith |

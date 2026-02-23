@@ -74,8 +74,8 @@
 | 66 | 978 | Amber Stoker |
 | 67 | 975 | TSwag |
 | 68 | 974 | Veronica Eve |
-| 69 | 966 | Shalene Frederick Autrey |
-| 70 | 966 | Francesca Gee |
+| 69 | 966 | Francesca Gee |
+| 70 | 966 | Shalene Frederick Autrey |
 | 71 | 951 | Zippy Align |
 | 72 | 948 | Jacqueline Williams |
 | 73 | 936 | Redlicious 1 |
@@ -121,8 +121,8 @@
 | 113 | 612 | femmefatale |
 | 114 | 604 | Ryan Lunnin |
 | 115 | 603 | Ty Brown |
-| 116 | 601 | Evan Richmond |
-| 117 | 601 | Phu ckalldems |
+| 116 | 601 | Phu ckalldems |
+| 117 | 601 | Evan Richmond |
 | 118 | 598 | Jessi Sauer |
 | 119 | 594 | Basment Living |
 | 120 | 589 | Giddy Cascade |
@@ -176,11 +176,11 @@
 | 168 | 470 | Candy Jones |
 | 169 | 468 | Steve Schneider |
 | 170 | 464 | canbrick |
-| 171 | 463 | Brandi Huntington |
-| 172 | 463 | Nicole Roseberry Weber |
+| 171 | 463 | Nicole Roseberry Weber |
+| 172 | 463 | Brandi Huntington |
 | 173 | 462 | Hasty Cascader |
-| 174 | 458 | Dizzy Slider |
-| 175 | 458 | Goose egg |
+| 174 | 458 | Goose egg |
+| 175 | 458 | Dizzy Slider |
 | 176 | 456 | Maria C. Hernandez |
 | 177 | 453 | Debbie Kane |
 | 178 | 452 | lil mickey |
@@ -285,10 +285,10 @@
 | 277 | 336 | Sarah Roberts |
 | 278 | 336 | Adele Rahman |
 | 279 | 335 | Flashy Rotator |
-| 280 | 334 | Tipsy Builder |
-| 281 | 334 | Colleen Pinette |
-| 282 | 333 | Wayne Saunders |
-| 283 | 333 | Rodney Schmerfeld |
+| 280 | 334 | Colleen Pinette |
+| 281 | 334 | Tipsy Builder |
+| 282 | 333 | Rodney Schmerfeld |
+| 283 | 333 | Wayne Saunders |
 | 284 | 332 | Eddie Dillon |
 | 285 | 330 | Rebecca Apley Mielke |
 | 286 | 330 | Jeremy Maubert |
@@ -350,7 +350,7 @@
 | 342 | 287 | Itspaigebro |
 | 343 | 286 | Sarahdactyl |
 | 344 | 286 | build master |
-| 345 | 286 | Sarahdactyl |
+| 345 | 286 | Marci Sanders |
 | 346 | 285 | Jessie Welch |
 | 347 | 284 | Mark Smith |
 | 348 | 283 | Franswa |

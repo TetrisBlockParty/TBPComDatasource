@@ -259,8 +259,8 @@
 | 251 | 1373 | Hillary Crawford |
 | 252 | 1358 | Arlene Joy Belicina |
 | 253 | 1357 | Marie Boyd Faulk |
-| 254 | 1351 | Ashie Ann |
-| 255 | 1351 | Denisha Dawkins |
+| 254 | 1351 | Denisha Dawkins |
+| 255 | 1351 | Ashie Ann |
 | 256 | 1348 | Sarah Freitas |
 | 257 | 1344 | Rebecca Garland |
 | 258 | 1342 | Kelly A Green-Leach |
@@ -271,8 +271,8 @@
 | 263 | 1332 | Julie Kresal |
 | 264 | 1330 | Ann Knutson Anderson |
 | 265 | 1330 | Cassie Mercer |
-| 266 | 1324 | Tralonda Weeks |
-| 267 | 1324 | Lola C Davis |
+| 266 | 1324 | Lola C Davis |
+| 267 | 1324 | Tralonda Weeks |
 | 268 | 1321 | Ryan Stadel |
 | 269 | 1319 | Joshua Sommerville |
 | 270 | 1316 | Jennifer Casey-Kay |

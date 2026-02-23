@@ -98,8 +98,8 @@
 | 90 | 783 | Denise Carlson |
 | 91 | 775 | TheNeesh50 |
 | 92 | 775 | Klo |
-| 93 | 768 | Judy Cox |
-| 94 | 768 | Trista Leah |
+| 93 | 768 | Trista Leah |
+| 94 | 768 | Judy Cox |
 | 95 | 768 | Lori Walker |
 | 96 | 767 | Shannon Ferrari |
 | 97 | 766 | Robin Watters |
@@ -197,8 +197,8 @@
 | 189 | 465 | Jolly Dashfit |
 | 190 | 464 | Sharyn Lemire |
 | 191 | 462 | Leslie Thomas |
-| 192 | 457 | Kristin Manee |
-| 193 | 457 | June Hoffman |
+| 192 | 457 | June Hoffman |
+| 193 | 457 | Kristin Manee |
 | 194 | 455 | Michele Plunkett |
 | 195 | 450 | Amanda Pauldo-Ivy |
 | 196 | 449 | Courtney Cicoria |
@@ -207,15 +207,15 @@
 | 199 | 444 | J-Rizzle |
 | 200 | 444 | Mylo Lipscomb |
 | 201 | 443 | Kristina Black |
-| 202 | 442 | SAP |
-| 203 | 442 | 🥔🥔 Spudz |
+| 202 | 442 | 🥔🥔 Spudz |
+| 203 | 442 | SAP |
 | 204 | 441 | George Nutt |
 | 205 | 440 | Mr. Party |
 | 206 | 438 | Melvin Baird |
 | 207 | 438 | Jen Mattei |
 | 208 | 434 | Ramel Rhodes |
-| 209 | 433 | Damn Libra |
-| 210 | 433 | Circuit8 |
+| 209 | 433 | Circuit8 |
+| 210 | 433 | Damn Libra |
 | 211 | 431 | Zesty Twistbuilder |
 | 212 | 427 | Steph Marie |
 | 213 | 427 | Chao Ma |
@@ -505,8 +505,8 @@
 | 497 | 204 | ChasingZen |
 | 498 | 204 | Gwendolyn Pitcairn |
 | 499 | 203 | Courtney Halleck |
-| 500 | 203 | Gilles Lanctot |
-| 501 | 203 | Sho Nuff |
+| 500 | 203 | Sho Nuff |
+| 501 | 203 | Gilles Lanctot |
 | 502 | 202 | Jennifer Brown |
 | 503 | 201 | Carla Harris |
 | 504 | 201 | Jake Roberts |
