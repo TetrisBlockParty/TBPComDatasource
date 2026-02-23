@@ -496,8 +496,8 @@
 | 488 | 689 | Gauri Shrotriya |
 | 489 | 686 | Christine Coughlin |
 | 490 | 684 | Sarah DeHart |
-| 491 | 684 | Ann Knutson Anderson |
-| 492 | 684 | Ellie Jonas |
+| 491 | 684 | Ellie Jonas |
+| 492 | 684 | Ann Knutson Anderson |
 | 493 | 682 | Vanessa Moreno |
 | 494 | 682 | Antionette Sewell |
 | 495 | 681 | Gloria Liu |
@@ -721,12 +721,12 @@
 | 713 | 502 | Jasmine Kenney |
 | 714 | 500 | Ryan Meilleur |
 | 715 | 500 | Amy Reynolds |
-| 716 | 499 | Martina Gabrielle LaPolla |
-| 717 | 499 | Besma Ao |
+| 716 | 499 | Besma Ao |
+| 717 | 499 | Martina Gabrielle LaPolla |
 | 718 | 498 | Abimbola Bimbo |
 | 719 | 498 | Chummy Blockbuilder |
-| 720 | 497 | June E Hanson |
-| 721 | 497 | Sam |
+| 720 | 497 | Sam |
+| 721 | 497 | June E Hanson |
 | 722 | 496 | Tracy Cowley |
 | 723 | 496 | Angelina Marie |
 | 724 | 496 | Eunique Griffin |

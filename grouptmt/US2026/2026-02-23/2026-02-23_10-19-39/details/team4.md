@@ -128,8 +128,8 @@
 | 120 | 514 | Scott Jameson |
 | 121 | 514 | Serena Goodridge |
 | 122 | 513 | Erin Thomas |
-| 123 | 512 | Casey Jeffcoat |
-| 124 | 512 | Cristy Duerksen |
+| 123 | 512 | Cristy Duerksen |
+| 124 | 512 | Casey Jeffcoat |
 | 125 | 509 | Leslie Nicole |
 | 126 | 487 | Andy Cabral |
 | 127 | 483 | Angela Srubar-Norman |
@@ -176,8 +176,8 @@
 | 168 | 383 | Chris Bernstein |
 | 169 | 377 | Guy Incognito |
 | 170 | 375 | Desi Desporte |
-| 171 | 372 | George Nutt |
-| 172 | 372 | Antony Dwayne Beasley |
+| 171 | 372 | Antony Dwayne Beasley |
+| 172 | 372 | George Nutt |
 | 173 | 370 | Oscar Alberto Perez |
 | 174 | 369 | Lindsey Gonzalez |
 | 175 | 368 | Raegan Lane-Ross |
@@ -243,8 +243,8 @@
 | 235 | 288 | Leah Kutz Zirbel |
 | 236 | 285 | 030Synner |
 | 237 | 284 | Mimi |
-| 238 | 282 | Matt Gooder |
-| 239 | 282 | Kim Klutz Olson |
+| 238 | 282 | Kim Klutz Olson |
+| 239 | 282 | Matt Gooder |
 | 240 | 281 | Laura |
 | 241 | 280 | Rio Rocha |
 | 242 | 280 | Gdiguy |
@@ -328,8 +328,8 @@
 | 320 | 220 | Nita Wells |
 | 321 | 220 | Jumpy Zonepiece |
 | 322 | 220 | Tina Lopez |
-| 323 | 219 | Orchislactea |
-| 324 | 219 | Shane Vick |
+| 323 | 219 | Shane Vick |
+| 324 | 219 | Orchislactea |
 | 325 | 218 | Janita Parrish |
 | 326 | 217 | Cheery Fitline |
 | 327 | 217 | Paito |
@@ -360,8 +360,8 @@
 | 352 | 203 | Andrew Dang |
 | 353 | 203 | Kevin Bush |
 | 354 | 201 | O block |
-| 355 | 198 | Mona Sharma |
-| 356 | 198 | Calvin Dennis |
+| 355 | 198 | Calvin Dennis |
+| 356 | 198 | Mona Sharma |
 | 357 | 197 | Cozy Balancer |
 | 358 | 196 | Dustin York |
 | 359 | 196 | Maria Hammie |
@@ -381,9 +381,9 @@
 | 373 | 191 | Earnest Thompson |
 | 374 | 191 | Norman Klick |
 | 375 | 190 | wombat |
-| 376 | 189 | Berklie Apedaile |
-| 377 | 189 | Lauren Lamb |
-| 378 | 189 | Cool Towerbuilder |
+| 376 | 189 | Lauren Lamb |
+| 377 | 189 | Cool Towerbuilder |
+| 378 | 189 | Berklie Apedaile |
 | 379 | 188 | Sharyn Lemire |
 | 380 | 187 | Jenny Wells-Oakley |
 | 381 | 186 | Dandy Cascadefit |

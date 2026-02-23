@@ -234,8 +234,8 @@
 | 226 | 295 | Lakeisha Chapman |
 | 227 | 294 | Chuck Gannon |
 | 228 | 293 | John Kim |
-| 229 | 291 | Giddy Cascade |
-| 230 | 291 | Brave Wrecker |
+| 229 | 291 | Brave Wrecker |
+| 230 | 291 | Giddy Cascade |
 | 231 | 290 | Tavia |
 | 232 | 290 | Hellsin |
 | 233 | 287 | Sassy Builderline |
@@ -671,7 +671,7 @@
 | 663 | 111 | Billie Garrett |
 | 664 | 111 | Carol Rogers |
 | 665 | 110 | Robert Benitez |
-| 666 | 110 | Dafna Kaplan-Garrahy |
+| 666 | 110 | Tasha McCormack |
 | 667 | 110 | Susie Loo |
 | 668 | 110 | Dafna Kaplan-Garrahy |
 | 669 | 110 | Sam Rosado |
@@ -680,7 +680,7 @@
 | 672 | 109 | Craig Mcgonigle |
 | 673 | 109 | Shannon Guilloty |
 | 674 | 109 | Bustin’ Blocks |
-| 675 | 108 | Nicole Little |
+| 675 | 108 | Meechie |
 | 676 | 108 | Stoney Smith |
 | 677 | 108 | Cool Combo |
 | 678 | 108 | Camelia Trevillion |

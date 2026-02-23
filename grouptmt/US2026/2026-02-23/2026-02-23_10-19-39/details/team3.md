@@ -132,8 +132,8 @@
 | 124 | 764 | Hasty Cascadefit |
 | 125 | 764 | Groovy Catcher |
 | 126 | 762 | Speedy Bridger |
-| 127 | 755 | Katrina Schroeder |
-| 128 | 755 | Raya |
+| 127 | 755 | Raya |
+| 128 | 755 | Katrina Schroeder |
 | 129 | 752 | Logan Naccarato |
 | 130 | 748 | Adrian Marcel Pate |
 | 131 | 745 | JerseyJess |
@@ -164,8 +164,8 @@
 | 156 | 646 | Bea Miles |
 | 157 | 634 | Amber Hughes |
 | 158 | 630 | yoyo |
-| 159 | 621 | Cherry Parker |
-| 160 | 621 | Sashay Tapae Simpson |
+| 159 | 621 | Sashay Tapae Simpson |
+| 160 | 621 | Cherry Parker |
 | 161 | 616 | Kammy Hill |
 | 162 | 611 | Rochelle Hazelett |
 | 163 | 607 | Grego Daniel |
@@ -218,8 +218,8 @@
 | 210 | 485 | Dapper Snap |
 | 211 | 484 | Fallorina Susana |
 | 212 | 481 | Connie Mohler-Fair |
-| 213 | 480 | Michael Johnson |
-| 214 | 480 | Danielle Allison |
+| 213 | 480 | Danielle Allison |
+| 214 | 480 | Michael Johnson |
 | 215 | 477 | Edwin Calvillo Jr. |
 | 216 | 475 | Tessina Dewey-Mancino |
 | 217 | 471 | Mendoza Lee Christy |
@@ -794,7 +794,7 @@
 | 786 | 144 | Tiffany's TwinsRus Thrifty |
 | 787 | 144 | Amber Reeves-Buchanan |
 | 788 | 144 | Clever Edgepiece |
-| 789 | 144 | Amber Reeves-Buchanan |
+| 789 | 144 | Crystal Frey |
 | 790 | 143 | Russell Hankinson |
 | 791 | 143 | Lisa Lisa |
 | 792 | 143 | Bananna Anna |
@@ -816,8 +816,8 @@
 | 808 | 140 | Jennifer Caputo |
 | 809 | 140 | Timothy Troy Frazier |
 | 810 | 140 | Katie Morton |
-| 811 | 140 | Bdhdj |
-| 812 | 140 | Cibf Ecihm |
+| 811 | 140 | Cibf Ecihm |
+| 812 | 140 | Bdhdj |
 | 813 | 139 | Justice 4 P |
 | 814 | 139 | Cesar Mendez |
 | 815 | 139 | Kita A Jackson |
