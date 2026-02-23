@@ -152,8 +152,8 @@
 | 144 | 716 | Annie Marie |
 | 145 | 714 | Jenny Hrndz |
 | 146 | 710 | Santeria Trece Candles |
-| 147 | 706 | Kiki |
-| 148 | 706 | Daryn Elliott |
+| 147 | 706 | Daryn Elliott |
+| 148 | 706 | Kiki |
 | 149 | 702 | Patty Allen |
 | 150 | 696 | Christine Niles |
 | 151 | 695 | Samantha Greco |
@@ -170,8 +170,8 @@
 | 162 | 631 | Grego Daniel |
 | 163 | 630 | yoyo |
 | 164 | 629 | rnr junky |
-| 165 | 621 | Sashay Tapae Simpson |
-| 166 | 621 | Cherry Parker |
+| 165 | 621 | Cherry Parker |
+| 166 | 621 | Sashay Tapae Simpson |
 | 167 | 616 | Kammy Hill |
 | 168 | 611 | Rochelle Hazelett |
 | 169 | 603 | Jone |

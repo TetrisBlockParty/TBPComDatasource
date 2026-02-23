@@ -49,8 +49,8 @@
 | 41 | 1121 | Isabel Aguilar |
 | 42 | 1100 | Landon Keith Graffeo |
 | 43 | 1085 | Kimyatta Cavin |
-| 44 | 1082 | Dion Crommarty |
-| 45 | 1082 | Dawn Alexander |
+| 44 | 1082 | Dawn Alexander |
+| 45 | 1082 | Dion Crommarty |
 | 46 | 1071 | Cherrish Duren |
 | 47 | 1065 | Koshin Abdirahman |
 | 48 | 1046 | Johnathan Martinez |
@@ -233,8 +233,8 @@
 | 225 | 313 | Milan Markeisha |
 | 226 | 312 | Casey Grabner |
 | 227 | 312 | Dihcheese444 |
-| 228 | 311 | Nikki Rae Gordon |
-| 229 | 311 | Mary Ann Pabukis |
+| 228 | 311 | Mary Ann Pabukis |
+| 229 | 311 | Nikki Rae Gordon |
 | 230 | 310 | Holly Jolly |
 | 231 | 308 | Leah Kutz Zirbel |
 | 232 | 307 | Cheery Risebuilder |
@@ -344,9 +344,9 @@
 | 336 | 222 | Brandi Durig |
 | 337 | 221 | Rheanda Weaskus |
 | 338 | 220 | Jumpy Zonepiece |
-| 339 | 220 | Dustin York |
-| 340 | 220 | Nita Wells |
-| 341 | 220 | Ziggy |
+| 339 | 220 | Ziggy |
+| 340 | 220 | Dustin York |
+| 341 | 220 | Nita Wells |
 | 342 | 220 | Tina Lopez |
 | 343 | 219 | Stephme310 |
 | 344 | 219 | Orchislactea |
@@ -1245,8 +1245,8 @@
 | 1237 | 42 | Natasha Crossley |
 | 1238 | 42 | Aleasha Haukenfrers |
 | 1239 | 42 | Simiara Robotham |
-| 1240 | 42 | JulioBookworm |
-| 1241 | 42 | Ann Poulson |
+| 1240 | 42 | Michele Badgwell |
+| 1241 | 42 | JulioBookworm |
 | 1242 | 42 | Dreamy Rollpiece |
 | 1243 | 42 | Ann Poulson |
 | 1244 | 41 | Dragon De Fuego |

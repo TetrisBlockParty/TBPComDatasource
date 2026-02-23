@@ -138,8 +138,8 @@
 | 130 | 453 | Brandi Huntington |
 | 131 | 451 | Plucky Ziggy |
 | 132 | 450 | lil mickey |
-| 133 | 448 | Jazzy Framezone |
-| 134 | 448 | Sweet Baker |
+| 133 | 448 | Sweet Baker |
+| 134 | 448 | Jazzy Framezone |
 | 135 | 446 | SkipTheSadSauce |
 | 136 | 443 | Steve Schneider |
 | 137 | 440 | femmefatale |
@@ -149,8 +149,8 @@
 | 141 | 429 | Kristi Johnson |
 | 142 | 428 | Ly Phethmany |
 | 143 | 426 | Maria C. Hernandez |
-| 144 | 425 | Tyler Werts |
-| 145 | 425 | Dandy Basegrid |
+| 144 | 425 | Dandy Basegrid |
+| 145 | 425 | Tyler Werts |
 | 146 | 423 | ALFD |
 | 147 | 417 | Phu ckalldems |
 | 148 | 416 | Jessica Sheehan |
@@ -228,8 +228,8 @@
 | 220 | 324 | Rat666 |
 | 221 | 323 | Eric DeSimone |
 | 222 | 323 | Madison Wicks |
-| 223 | 322 | Angela Renea Lester |
-| 224 | 322 | Letson Melissa |
+| 223 | 322 | Letson Melissa |
+| 224 | 322 | Angela Renea Lester |
 | 225 | 320 | Danielle Little-Daugherty |
 | 226 | 319 | Frothy Pattern |
 | 227 | 317 | Melissa Lemmon |
