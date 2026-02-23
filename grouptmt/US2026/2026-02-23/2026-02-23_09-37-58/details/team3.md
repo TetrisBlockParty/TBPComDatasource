@@ -128,8 +128,8 @@
 | 120 | 799 | Dolores Falco |
 | 121 | 773 | Daira Largen |
 | 122 | 769 | Kristie |
-| 123 | 764 | Groovy Catcher |
-| 124 | 764 | Hasty Cascadefit |
+| 123 | 764 | Hasty Cascadefit |
+| 124 | 764 | Groovy Catcher |
 | 125 | 762 | Speedy Bridger |
 | 126 | 755 | Katrina Schroeder |
 | 127 | 755 | Raya |
@@ -197,13 +197,13 @@
 | 189 | 546 | Mykal Burton |
 | 190 | 546 | Tasha Schriewer |
 | 191 | 540 | Shawn Miller |
-| 192 | 531 | Sarah Cowan Burgos |
-| 193 | 531 | Chauntee Alfrey-Cardinale |
+| 192 | 531 | Chauntee Alfrey-Cardinale |
+| 193 | 531 | Sarah Cowan Burgos |
 | 194 | 528 | Silly Twist |
 | 195 | 525 | Stephanie Blkpep Davidson |
 | 196 | 524 | Bmo |
-| 197 | 519 | Terry Jo Jones |
-| 198 | 519 | rnr junky |
+| 197 | 519 | rnr junky |
+| 198 | 519 | Terry Jo Jones |
 | 199 | 515 | Cozy Snaplink |
 | 200 | 510 | Makelini Mausia |
 | 201 | 503 | Tye Stovall |
@@ -216,8 +216,8 @@
 | 208 | 485 | Dapper Snap |
 | 209 | 484 | Fallorina Susana |
 | 210 | 481 | Connie Mohler-Fair |
-| 211 | 480 | Danielle Allison |
-| 212 | 480 | Michael Johnson |
+| 211 | 480 | Michael Johnson |
+| 212 | 480 | Danielle Allison |
 | 213 | 477 | Edwin Calvillo Jr. |
 | 214 | 475 | Tessina Dewey-Mancino |
 | 215 | 473 | Rachel |
@@ -226,8 +226,8 @@
 | 218 | 468 | Lizabeth Fox |
 | 219 | 467 | Sherry Ogden |
 | 220 | 465 | Annie Déè |
-| 221 | 464 | Danielle Weikel |
-| 222 | 464 | Shunta Jacobs |
+| 221 | 464 | Shunta Jacobs |
+| 222 | 464 | Danielle Weikel |
 | 223 | 461 | Tom Nault |
 | 224 | 458 | Danielle Rhoades |
 | 225 | 455 | Rebecca Funderburk Kirby |

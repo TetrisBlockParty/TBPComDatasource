@@ -62,8 +62,8 @@
 | 54 | 864 | Shelly Chandler |
 | 55 | 863 | Pee |
 | 56 | 859 | TeeJ |
-| 57 | 846 | Christine Marie |
-| 58 | 846 | Lucille Truesdale |
+| 57 | 846 | Lucille Truesdale |
+| 58 | 846 | Christine Marie |
 | 59 | 845 | LisaJo Picken Buchanan |
 | 60 | 834 | quicksand420 |
 | 61 | 813 | Ashley Ingram |
@@ -75,8 +75,8 @@
 | 67 | 787 | loulou |
 | 68 | 767 | Shannon Ferrari |
 | 69 | 766 | Robin Watters |
-| 70 | 765 | Denise Carlson |
-| 71 | 765 | Robin Getchel |
+| 70 | 765 | Robin Getchel |
+| 71 | 765 | Denise Carlson |
 | 72 | 753 | TheNeesh50 |
 | 73 | 752 | Shane Kalamata Platoon |
 | 74 | 749 | Dustee Craddock-Harrison |
@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | KM8 |
-| 93 | 647 | Shauna Havard |
+| 92 | 647 | Shauna Havard |
+| 93 | 647 | KM8 |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -126,8 +126,8 @@
 | 118 | 514 | Scott Jameson |
 | 119 | 514 | Serena Goodridge |
 | 120 | 513 | Erin Thomas |
-| 121 | 512 | Cristy Duerksen |
-| 122 | 512 | Casey Jeffcoat |
+| 121 | 512 | Casey Jeffcoat |
+| 122 | 512 | Cristy Duerksen |
 | 123 | 511 | Lori Walker |
 | 124 | 509 | Leslie Nicole |
 | 125 | 487 | Monica Daley |
@@ -162,8 +162,8 @@
 | 154 | 413 | Circuit8 |
 | 155 | 412 | Jessica Bohlken |
 | 156 | 408 | Amanda Pauldo-Ivy |
-| 157 | 406 | Livvy |
-| 158 | 406 | Damn Libra |
+| 157 | 406 | Damn Libra |
+| 158 | 406 | Livvy |
 | 159 | 403 | Keith Kelley |
 | 160 | 402 | Lucas J Sutton |
 | 161 | 398 | Tyler Terrific |
@@ -176,8 +176,8 @@
 | 168 | 377 | Guy Incognito |
 | 169 | 375 | Desi Desporte |
 | 170 | 374 | Mylo Lipscomb |
-| 171 | 372 | George Nutt |
-| 172 | 372 | Antony Dwayne Beasley |
+| 171 | 372 | Antony Dwayne Beasley |
+| 172 | 372 | George Nutt |
 | 173 | 370 | Oscar Alberto Perez |
 | 174 | 369 | Lindsey Gonzalez |
 | 175 | 368 | Brandon Crabbs |
@@ -194,10 +194,10 @@
 | 186 | 352 | Sue Joyce Staats |
 | 187 | 350 | Carly Alexis |
 | 188 | 349 | Rafael Valentin |
-| 189 | 348 | David Lay |
-| 190 | 348 | April Rondinone |
-| 191 | 347 | Crystal Nicolette Moore |
-| 192 | 347 | Daria Rycewicz |
+| 189 | 348 | April Rondinone |
+| 190 | 348 | David Lay |
+| 191 | 347 | Daria Rycewicz |
+| 192 | 347 | Crystal Nicolette Moore |
 | 193 | 346 | shark tato |
 | 194 | 337 | Sam Bishop |
 | 195 | 336 | JPW |
@@ -232,8 +232,8 @@
 | 224 | 294 | Calvin Cannon |
 | 225 | 292 | Epic Curvetile |
 | 226 | 291 | Nikki Rae Gordon |
-| 227 | 290 | Plucky Patternblock |
-| 228 | 290 | Rebecca Morris |
+| 227 | 290 | Rebecca Morris |
+| 228 | 290 | Plucky Patternblock |
 | 229 | 290 | Jared Gutwein |
 | 230 | 289 | Juls |
 | 231 | 288 | Brittney Orengo |
@@ -254,8 +254,8 @@
 | 246 | 276 | Cynthia Boudreau |
 | 247 | 275 | Kimberlee Jan Beckstead |
 | 248 | 273 | Cranky Rollpiece |
-| 249 | 272 | Alan George LaRage |
-| 250 | 272 | Dennis Bradley |
+| 249 | 272 | Dennis Bradley |
+| 250 | 272 | Alan George LaRage |
 | 251 | 271 | Holly |
 | 252 | 270 | Jen Caldwell |
 | 253 | 266 | Mr. Party |
@@ -728,7 +728,7 @@
 | 720 | 96 | Christy |
 | 721 | 95 | Harper |
 | 722 | 95 | RedBoots82 |
-| 723 | 95 | Robert Bolden |
+| 723 | 95 | Alicia Falk |
 | 724 | 95 | Chirpy Slammer |
 | 725 | 95 | Wacky Blockclear |
 | 726 | 95 | Robert Bolden |
@@ -1195,7 +1195,7 @@
 | 1187 | 44 | T |
 | 1188 | 44 | Twisty Towerpiece |
 | 1189 | 44 | Matt Tackett |
-| 1190 | 44 | T |
+| 1190 | 44 | Francesco Bradshaw |
 | 1191 | 44 | Heather Hilferty |
 | 1192 | 44 | Daoxed |
 | 1193 | 44 | De'Chon Millender-Rogers |
