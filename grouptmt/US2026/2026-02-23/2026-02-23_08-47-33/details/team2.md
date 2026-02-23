@@ -166,8 +166,8 @@
 | 158 | 1580 | Sally Dennis |
 | 159 | 1574 | Stephen Stephen |
 | 160 | 1571 | Alisa Lamb |
-| 161 | 1558 | Crystal Slaughter |
-| 162 | 1558 | Tim Dyer |
+| 161 | 1558 | Tim Dyer |
+| 162 | 1558 | Crystal Slaughter |
 | 163 | 1555 | blarg |
 | 164 | 1543 | Amy Sayers |
 | 165 | 1541 | Cherica Taylor |
@@ -226,8 +226,8 @@
 | 218 | 1232 | Ambyre Patterson |
 | 219 | 1230 | Megan Garrick |
 | 220 | 1221 | Jane Fong |
-| 221 | 1217 | Lucky Ladybug |
-| 222 | 1217 | Brooks Brooks |
+| 221 | 1217 | Brooks Brooks |
+| 222 | 1217 | Lucky Ladybug |
 | 223 | 1214 | David Cudicio-Hayden |
 | 224 | 1213 | Pacynthia Williams |
 | 225 | 1211 | Ricardo Burton |
@@ -268,13 +268,13 @@
 | 260 | 1093 | Real Ri |
 | 261 | 1088 | Brainy Smurf |
 | 262 | 1080 | Tyler C. Jung |
-| 263 | 1079 | Jennifer Kistner |
-| 264 | 1079 | Kimberly Hauck-Rausch |
+| 263 | 1079 | Kimberly Hauck-Rausch |
+| 264 | 1079 | Jennifer Kistner |
 | 265 | 1076 | Alezandra Smith |
 | 266 | 1073 | Jodi Blake |
 | 267 | 1071 | Kim Dean |
-| 268 | 1069 | Carl Bradshaw |
-| 269 | 1069 | Offonar Facey |
+| 268 | 1069 | Offonar Facey |
+| 269 | 1069 | Carl Bradshaw |
 | 270 | 1064 | BK Queen |
 | 271 | 1063 | Caitlin Schmid |
 | 272 | 1058 | Rickey Johnson |
@@ -328,8 +328,8 @@
 | 320 | 949 | Steve Man |
 | 321 | 947 | Dedra Steward |
 | 322 | 941 | Cool Clearer |
-| 323 | 939 | SaraMarie Eveland |
-| 324 | 939 | Cindy Sechler Taninecz |
+| 323 | 939 | Cindy Sechler Taninecz |
+| 324 | 939 | SaraMarie Eveland |
 | 325 | 929 | Joshua Mandel |
 | 326 | 928 | Elizabeth Wilbanks |
 | 327 | 926 | Deborah Miller |
@@ -447,14 +447,14 @@
 | 439 | 737 | Ginger |
 | 440 | 737 | Chelle |
 | 441 | 732 | Victoria Moore-Smith |
-| 442 | 731 | Matthew Joseph Acevedo |
-| 443 | 731 | Charvi' Carter |
+| 442 | 731 | Charvi' Carter |
+| 443 | 731 | Matthew Joseph Acevedo |
 | 444 | 730 | Hoppy Brickmatch |
 | 445 | 729 | goofinoff |
 | 446 | 728 | Mikayala Szaz |
 | 447 | 728 | Dylan Thomason |
-| 448 | 728 | Christina Wsn |
-| 449 | 728 | Tom Riefer |
+| 448 | 728 | Tom Riefer |
+| 449 | 728 | Christina Wsn |
 | 450 | 726 | Crystal Greene |
 | 451 | 725 | Ashle Scranton |
 | 452 | 725 | Jennie Lee Huntley |
@@ -500,8 +500,8 @@
 | 492 | 677 | Paul Combs |
 | 493 | 677 | Kayleigh Wisse |
 | 494 | 677 | Amanda Woodruff |
-| 495 | 676 | Roseanna Peloso |
-| 496 | 676 | Nicky Jackson |
+| 495 | 676 | Nicky Jackson |
+| 496 | 676 | Roseanna Peloso |
 | 497 | 675 | Lonne Emade |
 | 498 | 675 | Katelynn Hollen |
 | 499 | 674 | Ashley Munn |
@@ -635,8 +635,8 @@
 | 627 | 555 | Frisky Riserbuilder |
 | 628 | 555 | Misty Mitchell |
 | 629 | 554 | Tra Barnum |
-| 630 | 554 | Bubbly Snapfit |
-| 631 | 554 | Dizzy Zone |
+| 630 | 554 | Dizzy Zone |
+| 631 | 554 | Bubbly Snapfit |
 | 632 | 554 | Laquetta Royston |
 | 633 | 554 | Fi Ne |
 | 634 | 554 | Party d |
@@ -800,13 +800,13 @@
 | 792 | 452 | Ashley Taylor |
 | 793 | 452 | Cleo Sims |
 | 794 | 452 | Tipsy Filler |
-| 795 | 451 | Stefanie Zonzini-Gagliardi |
-| 796 | 451 | Giggly Snap |
+| 795 | 451 | Giggly Snap |
+| 796 | 451 | Stefanie Zonzini-Gagliardi |
 | 797 | 451 | Sharon Mills |
 | 798 | 451 | Angela Yantz |
 | 799 | 450 | sup |
-| 800 | 449 | Heather Sawtelle-Mckenzie |
-| 801 | 449 | Jas |
+| 800 | 449 | Jas |
+| 801 | 449 | Heather Sawtelle-Mckenzie |
 | 802 | 449 | Kristi Biddinger |
 | 803 | 448 | Anastacio Hernandez |
 | 804 | 448 | Darlene Bowman |
@@ -814,8 +814,8 @@
 | 806 | 447 | Boozi |
 | 807 | 446 | Colin Morgan |
 | 808 | 446 | Courtney Burcham |
-| 809 | 445 | Mar Q Thomas |
-| 810 | 445 | Beatboxxer |
+| 809 | 445 | Beatboxxer |
+| 810 | 445 | Mar Q Thomas |
 | 811 | 444 | Angela Murgia-Owen |
 | 812 | 443 | Giggy Grabber |
 | 813 | 443 | Dimitra Zazara |
@@ -841,8 +841,8 @@
 | 833 | 435 | Taylor Flowers |
 | 834 | 435 | Snappy snappers |
 | 835 | 435 | John |
-| 836 | 433 | Melissa Koria |
-| 837 | 433 | Jessica Hughes |
+| 836 | 433 | Jessica Hughes |
+| 837 | 433 | Melissa Koria |
 | 838 | 433 | Marisa Madge |
 | 839 | 432 | Michelle Shrum |
 | 840 | 431 | Lewis Sturgeon |
@@ -865,8 +865,8 @@
 | 857 | 420 | Lathasa Newkirk |
 | 858 | 420 | Krys |
 | 859 | 420 | Boogie SoAnimated Johnson |
-| 860 | 419 | Josh Dill |
-| 861 | 419 | Stephanie Fortune |
+| 860 | 419 | Stephanie Fortune |
+| 861 | 419 | Josh Dill |
 | 862 | 419 | Erin Reid |
 | 863 | 418 | Bold Brickster |
 | 864 | 418 | Lawanda Forbes |
@@ -930,8 +930,8 @@
 | 922 | 398 | TF Dyer |
 | 923 | 398 | Kendall Fullerton |
 | 924 | 398 | Juan Killyoselfifudontlikeme Ronaldo |
-| 925 | 397 | Maxwell Escalera |
-| 926 | 397 | Dawn Woosley Bowes |
+| 925 | 397 | Dawn Woosley Bowes |
+| 926 | 397 | Maxwell Escalera |
 | 927 | 397 | Jessica Conaway |
 | 928 | 396 | Debbie Gerlib-Molinari Leigh |
 | 929 | 396 | Cassie Newton |
@@ -1020,8 +1020,8 @@
 | 1012 | 366 | Ashley Criner |
 | 1013 | 366 | Madysen Holt |
 | 1014 | 366 | KrisCynthia Lynette |
-| 1015 | 365 | Wes Acton |
-| 1016 | 365 | Dee Blokk |
+| 1015 | 365 | Dee Blokk |
+| 1016 | 365 | Wes Acton |
 | 1017 | 365 | Nikki Nikki |
 | 1018 | 365 | Candace Noel |
 | 1019 | 364 | Jamie Willis |
