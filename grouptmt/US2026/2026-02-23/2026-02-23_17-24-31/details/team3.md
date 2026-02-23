@@ -124,8 +124,8 @@
 | 116 | 896 | Jesse Olive |
 | 117 | 878 | Shane Wilson Jr. |
 | 118 | 874 | Jessica Pineda-Lopez |
-| 119 | 868 | Felicia Rocha |
-| 120 | 868 | Sarajane Lokan |
+| 119 | 868 | Sarajane Lokan |
+| 120 | 868 | Felicia Rocha |
 | 121 | 864 | Sunny Rotater |
 | 122 | 856 | Kristie |
 | 123 | 848 | Patricia Gadsden |
@@ -219,8 +219,8 @@
 | 211 | 549 | Sarah Cowan Burgos |
 | 212 | 548 | Danielle Balcom |
 | 213 | 547 | Staci George Fitzsimmons |
-| 214 | 546 | Mykal Burton |
-| 215 | 546 | Cynthia Castros-Hampton |
+| 214 | 546 | Cynthia Castros-Hampton |
+| 215 | 546 | Mykal Burton |
 | 216 | 544 | Trisha Balmer |
 | 217 | 540 | Shawn Miller |
 | 218 | 539 | Betty Bóò |
@@ -363,10 +363,10 @@
 | 355 | 345 | victory |
 | 356 | 345 | gremicx |
 | 357 | 344 | Beaudie Stroebel |
-| 358 | 343 | Ashley Rufus Bythcez |
-| 359 | 343 | Donna |
-| 360 | 342 | Cynthia Herrmann Egland |
-| 361 | 342 | ROODBOY |
+| 358 | 343 | Donna |
+| 359 | 343 | Ashley Rufus Bythcez |
+| 360 | 342 | ROODBOY |
+| 361 | 342 | Cynthia Herrmann Egland |
 | 362 | 341 | Rick Poppen |
 | 363 | 341 | Lys |
 | 364 | 340 | Kirhonda Autmon |
@@ -409,12 +409,12 @@
 | 401 | 311 | Troy |
 | 402 | 309 | Block Baddie |
 | 403 | 309 | Cheeky Snapper |
-| 404 | 308 | Katrina Turner |
-| 405 | 308 | Tia |
+| 404 | 308 | Tia |
+| 405 | 308 | Katrina Turner |
 | 406 | 308 | Beejangles |
 | 407 | 307 | TotoCherue |
-| 408 | 307 | Kristian Thurman |
-| 409 | 307 | Kristina Gardner |
+| 408 | 307 | Kristina Gardner |
+| 409 | 307 | Kristian Thurman |
 | 410 | 306 | Jackie Miller |
 | 411 | 305 | Jack Bo |
 | 412 | 304 | _melisa223_ |
