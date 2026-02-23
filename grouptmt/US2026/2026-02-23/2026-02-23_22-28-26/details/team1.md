@@ -188,8 +188,8 @@
 | 180 | 434 | Yvonne Marie |
 | 181 | 432 | Lori Bales |
 | 182 | 426 | Maria C. Hernandez |
-| 183 | 425 | Tyler Werts |
-| 184 | 425 | Tana |
+| 183 | 425 | Tana |
+| 184 | 425 | Tyler Werts |
 | 185 | 424 | Emily Adelaide Wheatley |
 | 186 | 423 | Elaine Elaine |
 | 187 | 423 | Kimberly Garcia |
@@ -248,8 +248,8 @@
 | 240 | 363 | Jerry Danowski |
 | 241 | 361 | Chantelle Ceno |
 | 242 | 360 | Speedy Liney |
-| 243 | 359 | Oscar Zamora |
-| 244 | 359 | Jo Kerley |
+| 243 | 359 | Jo Kerley |
+| 244 | 359 | Oscar Zamora |
 | 245 | 358 | Tipsy Strikerpiece |
 | 246 | 357 | Paula Martin |
 | 247 | 357 | Teri Oehlke |
@@ -313,8 +313,8 @@
 | 305 | 309 | Larry Tilton |
 | 306 | 308 | Glitzy Curvebuilder |
 | 307 | 306 | Cece Ibarra |
-| 308 | 305 | Chase Collinsworth |
-| 309 | 305 | Amh |
+| 308 | 305 | Amh |
+| 309 | 305 | Chase Collinsworth |
 | 310 | 303 | DaRascal |
 | 311 | 302 | Bird Person |
 | 312 | 302 | LaFontaine Leslie |

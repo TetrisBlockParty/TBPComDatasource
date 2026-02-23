@@ -166,8 +166,8 @@
 | 158 | 1904 | Goofy Snapfit |
 | 159 | 1897 | Angel |
 | 160 | 1874 | Loopy Clusterbuilder |
-| 161 | 1840 | blarg |
-| 162 | 1840 | Kristopher Miller |
+| 161 | 1840 | Kristopher Miller |
+| 162 | 1840 | blarg |
 | 163 | 1835 | Alisa Lamb |
 | 164 | 1829 | Janel Turley-Garner |
 | 165 | 1829 | Mr. Street Stack |
@@ -476,8 +476,8 @@
 | 468 | 858 | Lauren Fitzgerald Thomas |
 | 469 | 857 | Caitlyn Blackwell |
 | 470 | 853 | Meghan M |
-| 471 | 852 | Kimmy Newman |
-| 472 | 852 | Layla LS |
+| 471 | 852 | Layla LS |
+| 472 | 852 | Kimmy Newman |
 | 473 | 849 | Gold Rose |
 | 474 | 849 | Allan Wayne Lamia |
 | 475 | 849 | Ann Matzkanin |
