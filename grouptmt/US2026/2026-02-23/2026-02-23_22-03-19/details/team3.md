@@ -334,8 +334,8 @@
 | 326 | 405 | Steffi Chris Dacones |
 | 327 | 405 | Chris Bell |
 | 328 | 404 | Cheryl Hinch Tenbrook |
-| 329 | 403 | Stephanie Burtin |
-| 330 | 403 | Scott Lindsay |
+| 329 | 403 | Scott Lindsay |
+| 330 | 403 | Stephanie Burtin |
 | 331 | 403 | lashanda |
 | 332 | 399 | Num1hater |
 | 333 | 398 | fraulila |

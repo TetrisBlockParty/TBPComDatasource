@@ -102,8 +102,8 @@
 | 94 | 740 | Lori Sanders- Davis |
 | 95 | 722 | Kellie |
 | 96 | 717 | Madison Wicks |
-| 97 | 706 | Plucky Fallzone |
-| 98 | 706 | Denice Dee |
+| 97 | 706 | Denice Dee |
+| 98 | 706 | Plucky Fallzone |
 | 99 | 704 | Karin Gillen |
 | 100 | 703 | Angel Fowler |
 | 101 | 679 | Melissa Lemmon |
@@ -348,9 +348,9 @@
 | 340 | 281 | Barrbaric |
 | 341 | 280 | Test |
 | 342 | 280 | Billie Dawn Sparks |
-| 343 | 279 | Chris Dawson |
-| 344 | 279 | Ric Hard Hernandez |
-| 345 | 279 | Sarah Marie |
+| 343 | 279 | Sarah Marie |
+| 344 | 279 | Chris Dawson |
+| 345 | 279 | Ric Hard Hernandez |
 | 346 | 278 | Shiny Snapline |
 | 347 | 278 | Thorne Shumate |
 | 348 | 278 | Michelle |
@@ -412,8 +412,8 @@
 | 404 | 247 | Colleen Wise |
 | 405 | 246 | ken |
 | 406 | 246 | san |
-| 407 | 245 | LC |
-| 408 | 245 | Rico Rico |
+| 407 | 245 | Rico Rico |
+| 408 | 245 | LC |
 | 409 | 244 | Scott Betson |
 | 410 | 243 | Charlie Walker |
 | 411 | 243 | Bouncy Grid |

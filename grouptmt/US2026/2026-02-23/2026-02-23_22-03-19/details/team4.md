@@ -259,8 +259,8 @@
 | 251 | 366 | Cheery Risebuilder |
 | 252 | 366 | Andrew Dang |
 | 253 | 365 | Hyper Builder |
-| 254 | 363 | TRCuse |
-| 255 | 363 | KimoKoala |
+| 254 | 363 | KimoKoala |
+| 255 | 363 | TRCuse |
 | 256 | 361 | Danielle Kollias |
 | 257 | 360 | James Hurley Jr. |
 | 258 | 360 | Ari Droff |
