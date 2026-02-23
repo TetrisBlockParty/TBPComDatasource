@@ -350,8 +350,8 @@
 | 342 | 1079 | Jennifer Kistner |
 | 343 | 1073 | Jodi Blake |
 | 344 | 1072 | BK Queen |
-| 345 | 1071 | Kim Dean |
-| 346 | 1071 | Nashu |
+| 345 | 1071 | Nashu |
+| 346 | 1071 | Kim Dean |
 | 347 | 1071 | Barbra Miller |
 | 348 | 1067 | Caitlin Schmid |
 | 349 | 1065 | Dany Murillo |
@@ -440,15 +440,15 @@
 | 432 | 907 | Gene Mills |
 | 433 | 905 | Adam Simmons |
 | 434 | 903 | Ashle Scranton |
-| 435 | 903 | Sarah DeHart |
-| 436 | 903 | Eric Castaneda |
+| 435 | 903 | Eric Castaneda |
+| 436 | 903 | Sarah DeHart |
 | 437 | 902 | Brenda Utphall |
 | 438 | 899 | Chevy |
 | 439 | 899 | Patrick Bartlett |
 | 440 | 898 | Dylan Thomason |
 | 441 | 897 | Jamie Schmitt |
-| 442 | 895 | Lisa Ongtowasruk |
-| 443 | 895 | Donna Colby |
+| 442 | 895 | Donna Colby |
+| 443 | 895 | Lisa Ongtowasruk |
 | 444 | 894 | Adira Brown |
 | 445 | 890 | Alex Stone LaRue |
 | 446 | 888 | Elisheva Mizrachi |
@@ -939,8 +939,8 @@
 | 931 | 501 | Zesty Pivot |
 | 932 | 501 | Gael |
 | 933 | 500 | Britney M. |
-| 934 | 499 | Besma Ao |
-| 935 | 499 | Danielle DeLozier Plesec |
+| 934 | 499 | Danielle DeLozier Plesec |
+| 935 | 499 | Besma Ao |
 | 936 | 499 | Mike73 |
 | 937 | 498 | KrisCynthia Lynette |
 | 938 | 498 | Chummy Blockbuilder |
@@ -1116,8 +1116,8 @@
 | 1108 | 436 | Christina Loftus |
 | 1109 | 436 | Gabbrielle Sutton |
 | 1110 | 436 | John Cleland |
-| 1111 | 435 | David Rehse |
-| 1112 | 435 | John |
+| 1111 | 435 | John |
+| 1112 | 435 | David Rehse |
 | 1113 | 435 | Shelly Eckert-Rawlins |
 | 1114 | 434 | Diona Burns |
 | 1115 | 434 | Denisha Williams |
@@ -1144,13 +1144,13 @@
 | 1136 | 427 | Shinel Richardson |
 | 1137 | 427 | Destiny Cozier |
 | 1138 | 427 | Steve Lane |
-| 1139 | 426 | Kim McGrath |
-| 1140 | 426 | Kimberly Ann |
+| 1139 | 426 | Kimberly Ann |
+| 1140 | 426 | Kim McGrath |
 | 1141 | 426 | Juan Killyoselfifudontlikeme Ronaldo |
 | 1142 | 426 | Linds |
 | 1143 | 425 | Shay Moore |
-| 1144 | 425 | Christina Jarvis-Swarbrick |
-| 1145 | 425 | Karmabunny |
+| 1144 | 425 | Karmabunny |
+| 1145 | 425 | Christina Jarvis-Swarbrick |
 | 1146 | 424 | ToxicTrash |
 | 1147 | 424 | Goofy Bridger |
 | 1148 | 422 | Patrick Fleming |

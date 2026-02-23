@@ -60,8 +60,8 @@
 | 52 | 1155 | Jae Job |
 | 53 | 1150 | Kimyatta Cavin |
 | 54 | 1105 | Ashley Ingram |
-| 55 | 1082 | Dion Crommarty |
-| 56 | 1082 | Avy Absol |
+| 55 | 1082 | Avy Absol |
+| 56 | 1082 | Dion Crommarty |
 | 57 | 1065 | Dustee Craddock-Harrison |
 | 58 | 1049 | Heather Tushner |
 | 59 | 1046 | Johnathan Martinez |
@@ -90,8 +90,8 @@
 | 82 | 826 | Rica Mitchell |
 | 83 | 802 | Crystal Carroll |
 | 84 | 794 | Chilly Line |
-| 85 | 783 | Guy Incognito |
-| 86 | 783 | Denise Carlson |
+| 85 | 783 | Denise Carlson |
+| 86 | 783 | Guy Incognito |
 | 87 | 775 | Klo |
 | 88 | 768 | Judy Cox |
 | 89 | 767 | Shannon Ferrari |
@@ -147,8 +147,8 @@
 | 139 | 551 | Ren Mc |
 | 140 | 549 | Carlos Ramirez |
 | 141 | 546 | Dizzy Tiley |
-| 142 | 545 | Desi Desporte |
-| 143 | 545 | Livvy |
+| 142 | 545 | Livvy |
+| 143 | 545 | Desi Desporte |
 | 144 | 542 | Austin Owens |
 | 145 | 540 | Rodney McMath Jr. |
 | 146 | 536 | Kimberlee Jan Beckstead |
@@ -454,11 +454,11 @@
 | 446 | 219 | Shane Vick |
 | 447 | 219 | Russ Attitude |
 | 448 | 218 | Cheaneen Livingston |
-| 449 | 218 | Thomas Hettenhaus |
-| 450 | 218 | Janita Parrish |
+| 449 | 218 | Janita Parrish |
+| 450 | 218 | Thomas Hettenhaus |
 | 451 | 218 | Allison Rose |
-| 452 | 217 | Cheery Fitline |
-| 453 | 217 | Perky Riser |
+| 452 | 217 | Perky Riser |
+| 453 | 217 | Cheery Fitline |
 | 454 | 216 | Ryry |
 | 455 | 215 | Tanya Abernathy Jackson |
 | 456 | 215 | Squeezy Pearsall |
@@ -647,8 +647,8 @@
 | 639 | 143 | Richard |
 | 640 | 143 | Sherri |
 | 641 | 143 | Kelly Duncan |
-| 642 | 142 | Hyper Matchclear |
-| 643 | 142 | Frank Cook |
+| 642 | 142 | Frank Cook |
+| 643 | 142 | Hyper Matchclear |
 | 644 | 142 | Peace |
 | 645 | 142 | Ronald Brown Jr. |
 | 646 | 142 | Katie Linneman-Rowland |
