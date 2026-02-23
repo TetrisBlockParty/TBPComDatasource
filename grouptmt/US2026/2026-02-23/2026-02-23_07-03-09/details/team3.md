@@ -160,8 +160,8 @@
 | 152 | 634 | Amber Hughes |
 | 153 | 630 | yoyo |
 | 154 | 629 | Patricia White |
-| 155 | 621 | Sashay Tapae Simpson |
-| 156 | 621 | Cherry Parker |
+| 155 | 621 | Cherry Parker |
+| 156 | 621 | Sashay Tapae Simpson |
 | 157 | 616 | Kammy Hill |
 | 158 | 611 | Rochelle Hazelett |
 | 159 | 607 | Grego Daniel |
@@ -173,8 +173,8 @@
 | 165 | 591 | Michael Nowogorski |
 | 166 | 588 | Justin Ritter |
 | 167 | 587 | Louise Stacy Sisson |
-| 168 | 585 | Happy Tetriblast |
-| 169 | 585 | Annie Marie |
+| 168 | 585 | Annie Marie |
+| 169 | 585 | Happy Tetriblast |
 | 170 | 583 | Tasha Gillespie |
 | 171 | 582 | Natasha Jones |
 | 172 | 577 | Domo Washington |
@@ -214,13 +214,13 @@
 | 206 | 480 | Michael Johnson |
 | 207 | 480 | Danielle Allison |
 | 208 | 475 | Tessina Dewey-Mancino |
-| 209 | 473 | Rachel |
-| 210 | 473 | Connie Mohler-Fair |
+| 209 | 473 | Connie Mohler-Fair |
+| 210 | 473 | Rachel |
 | 211 | 471 | Mendoza Lee Christy |
 | 212 | 467 | Sherry Ogden |
 | 213 | 465 | Annie Déè |
-| 214 | 464 | Danielle Weikel |
-| 215 | 464 | Shunta Jacobs |
+| 214 | 464 | Shunta Jacobs |
+| 215 | 464 | Danielle Weikel |
 | 216 | 461 | Tom Nault |
 | 217 | 458 | Danielle Rhoades |
 | 218 | 457 | Edwin Calvillo Jr. |
@@ -231,13 +231,13 @@
 | 223 | 448 | Scott Carleton |
 | 224 | 437 | Loopy Clusterer |
 | 225 | 432 | Luciana Braganca Vieira |
-| 226 | 431 | Wendy Dearden |
-| 227 | 431 | Ammmmmmy |
+| 226 | 431 | Ammmmmmy |
+| 227 | 431 | Wendy Dearden |
 | 228 | 430 | Jeni Dow |
 | 229 | 418 | Rebecca Funderburk Kirby |
 | 230 | 414 | Fran Lin |
-| 231 | 410 | Duane Bright |
-| 232 | 410 | Stephanie Simpson |
+| 231 | 410 | Stephanie Simpson |
+| 232 | 410 | Duane Bright |
 | 233 | 408 | Tiffany Ford |
 | 234 | 406 | Kristal C Lee |
 | 235 | 404 | Chasity |
@@ -253,8 +253,8 @@
 | 245 | 382 | Giddy Twistbuilder |
 | 246 | 381 | Snazzy Filler |
 | 247 | 380 | Rebecca Bailey |
-| 248 | 378 | MsBee |
-| 249 | 378 | Chris Bell |
+| 248 | 378 | Chris Bell |
+| 249 | 378 | MsBee |
 | 250 | 377 | Charles Perrone |
 | 251 | 374 | Rania Zaqout |
 | 252 | 373 | Chummy Caster |
@@ -265,8 +265,8 @@
 | 257 | 370 | Samantha Lynn |
 | 258 | 369 | Philip Rock |
 | 259 | 369 | Keis |
-| 260 | 368 | Stephanie Woods |
-| 261 | 368 | Sheila M Frazier |
+| 260 | 368 | Sheila M Frazier |
+| 261 | 368 | Stephanie Woods |
 | 262 | 367 | Kristin Delibac Corrigan |
 | 263 | 366 | Randy Clevenger |
 | 264 | 366 | Gumbo |
@@ -283,8 +283,8 @@
 | 275 | 354 | Andrew Thorson |
 | 276 | 354 | Eileen Brady Thurber |
 | 277 | 354 | Kelly |
-| 278 | 353 | Dee Franklin |
-| 279 | 353 | Cyd061769 |
+| 278 | 353 | Cyd061769 |
+| 279 | 353 | Dee Franklin |
 | 280 | 352 | Christian Werndl |
 | 281 | 351 | Blocked |
 | 282 | 351 | Eon Harris |
@@ -391,8 +391,8 @@
 | 383 | 267 | Jul |
 | 384 | 267 | Michael Kimbro |
 | 385 | 266 | Quirky Dropzone |
-| 386 | 265 | Heather Davis |
-| 387 | 265 | AlsoJess |
+| 386 | 265 | AlsoJess |
+| 387 | 265 | Heather Davis |
 | 388 | 264 | Reina Roth |
 | 389 | 264 | Danielle Beaunoyer Jean |
 | 390 | 263 | Erika Thornton |
@@ -478,8 +478,8 @@
 | 470 | 224 | Christina Rotz Shows |
 | 471 | 224 | Cranky Corner |
 | 472 | 223 | MizzMonick Smith |
-| 473 | 223 | Breanna Marsden |
-| 474 | 223 | Megan Rathmanner |
+| 473 | 223 | Megan Rathmanner |
+| 474 | 223 | Breanna Marsden |
 | 475 | 221 | Spicy Cascadepiece |
 | 476 | 221 | Emma |
 | 477 | 221 | Bleu Sun Beams |
@@ -515,8 +515,8 @@
 | 507 | 209 | TazB |
 | 508 | 208 | Jessica Christian |
 | 509 | 208 | Luccy Luxe |
-| 510 | 207 | Nichol Graham |
-| 511 | 207 | Misstery |
+| 510 | 207 | Misstery |
+| 511 | 207 | Nichol Graham |
 | 512 | 206 | Tammy Rosenberry |
 | 513 | 206 | Dakota Graham |
 | 514 | 205 | Emberblaze |
@@ -1050,9 +1050,9 @@
 | 1042 | 104 | Marketa McClaster |
 | 1043 | 104 | Fancy Racker |
 | 1044 | 104 | Ebony Holbrook |
-| 1045 | 104 | Frisky Linkbuilder |
+| 1045 | 104 | BadManSheLove |
 | 1046 | 104 | James Boosie Gordon |
-| 1047 | 104 | BadManSheLove |
+| 1047 | 104 | Frisky Linkbuilder |
 | 1048 | 103 | Loony Snapbuild |
 | 1049 | 103 | Clever Wobbler |
 | 1050 | 103 | Heyska |
@@ -1104,7 +1104,7 @@
 | 1096 | 99 | Bernadette Dawson Benoit |
 | 1097 | 98 | Tipsy Rumbler |
 | 1098 | 98 | Dawn Jacobs |
-| 1099 | 98 | Tipsy Rumbler |
+| 1099 | 98 | Jackie-Lynne Goertzen |
 | 1100 | 98 | Justplain Killacam Phillips |
 | 1101 | 98 | Adrea Ann |
 | 1102 | 98 | Mimi Pidou |

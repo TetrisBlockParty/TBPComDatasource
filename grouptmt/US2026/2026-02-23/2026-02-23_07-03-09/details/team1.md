@@ -102,8 +102,8 @@
 | 94 | 529 | Ryan Lunnin |
 | 95 | 522 | Sarah Lombardo |
 | 96 | 511 | Mario Cab |
-| 97 | 510 | Chirpy Smasher |
-| 98 | 510 | Colena Davenport |
+| 97 | 510 | Colena Davenport |
+| 98 | 510 | Chirpy Smasher |
 | 99 | 509 | Rachael |
 | 100 | 497 | Arianna O'Brien |
 | 101 | 493 | Jennifer ManWarren |
@@ -124,8 +124,8 @@
 | 116 | 451 | Plucky Ziggy |
 | 117 | 450 | lil mickey |
 | 118 | 449 | Anaid Sanchez |
-| 119 | 448 | Jazzy Framezone |
-| 120 | 448 | Sweet Baker |
+| 119 | 448 | Sweet Baker |
+| 120 | 448 | Jazzy Framezone |
 | 121 | 446 | SkipTheSadSauce |
 | 122 | 443 | Steve Schneider |
 | 123 | 439 | Dee Perry |

@@ -26,8 +26,8 @@
 | 18 | 1636 | Cassie Michaux |
 | 19 | 1565 | GreenJeepGirl |
 | 20 | 1558 | Leah Gorsuch |
-| 21 | 1536 | Roger Coulter |
-| 22 | 1536 | Misty Hollibaugh |
+| 21 | 1536 | Misty Hollibaugh |
+| 22 | 1536 | Roger Coulter |
 | 23 | 1485 | Juggalo |
 | 24 | 1390 | Sammy Noguera |
 | 25 | 1382 | Tammi Crnza |
@@ -148,13 +148,13 @@
 | 140 | 429 | Klo |
 | 141 | 426 | 🥔🥔 Spudz |
 | 142 | 423 | Carrie Brian |
-| 143 | 421 | JIGsaw ~(•¿°)~ |
-| 144 | 421 | Kesha Brady |
+| 143 | 421 | Kesha Brady |
+| 144 | 421 | JIGsaw ~(•¿°)~ |
 | 145 | 418 | Lush Linkfall |
 | 146 | 418 | Marie-Pier Desjardins |
 | 147 | 416 | Chaz Duncan |
-| 148 | 414 | Nope Young |
-| 149 | 414 | Swanky Fitline |
+| 148 | 414 | Swanky Fitline |
+| 149 | 414 | Nope Young |
 | 150 | 412 | Jessica Bohlken |
 | 151 | 408 | Amanda Pauldo-Ivy |
 | 152 | 406 | Damn Libra |
@@ -176,8 +176,8 @@
 | 168 | 368 | Raegan Lane-Ross |
 | 169 | 368 | Brandon Crabbs |
 | 170 | 365 | Jeff Brian Gates |
-| 171 | 361 | Danielle Kollias |
-| 172 | 361 | Melissa Adams |
+| 171 | 361 | Melissa Adams |
+| 172 | 361 | Danielle Kollias |
 | 173 | 359 | Keith Kelley |
 | 174 | 358 | A5! |
 | 175 | 358 | Twisty Cascadezone |
@@ -259,8 +259,8 @@
 | 251 | 264 | ZeeZee |
 | 252 | 264 | Stella |
 | 253 | 263 | rebel4lyfe |
-| 254 | 262 | BigSammy420 |
-| 255 | 262 | Selena Shaw |
+| 254 | 262 | Selena Shaw |
+| 255 | 262 | BigSammy420 |
 | 256 | 261 | Zethra Prenisha Rahming |
 | 257 | 260 | Lori |
 | 258 | 260 | Carter Jones |
@@ -278,12 +278,12 @@
 | 270 | 248 | Chirpy Basepiece |
 | 271 | 248 | Jose Dejesus |
 | 272 | 245 | 23 |
-| 273 | 244 | Elizabeth Tinoco |
-| 274 | 244 | Christina Black |
+| 273 | 244 | Christina Black |
+| 274 | 244 | Elizabeth Tinoco |
 | 275 | 242 | Chaz |
 | 276 | 242 | PurpleMoonMa |
-| 277 | 240 | Kim Hunt |
-| 278 | 240 | Perky Patternblock |
+| 277 | 240 | Perky Patternblock |
+| 278 | 240 | Kim Hunt |
 | 279 | 239 | Joanna |
 | 280 | 239 | Denise B |
 | 281 | 238 | 中山成巳 |

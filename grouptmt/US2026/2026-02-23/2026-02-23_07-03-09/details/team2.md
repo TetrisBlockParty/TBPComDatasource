@@ -127,8 +127,8 @@
 | 119 | 1932 | Gary Schaffner Jr. |
 | 120 | 1931 | Auntie B |
 | 121 | 1917 | Angi Harrison |
-| 122 | 1899 | Jamie Main |
-| 123 | 1899 | Jumpy Gridpiece |
+| 122 | 1899 | Jumpy Gridpiece |
+| 123 | 1899 | Jamie Main |
 | 124 | 1890 | Aimee Byrom |
 | 125 | 1887 | Tonya Brooks-Johnson |
 | 126 | 1872 | Karen Martini-Stapleton |
@@ -151,8 +151,8 @@
 | 143 | 1644 | Speedy Spinblock |
 | 144 | 1639 | Jessie McDougald |
 | 145 | 1629 | Mari Ac |
-| 146 | 1623 | Rebecca Doughman |
-| 147 | 1623 | Janel Turley-Garner |
+| 146 | 1623 | Janel Turley-Garner |
+| 147 | 1623 | Rebecca Doughman |
 | 148 | 1605 | Christi Hulet |
 | 149 | 1602 | blackq |
 | 150 | 1601 | Ray Ray Prado |
@@ -218,12 +218,12 @@
 | 210 | 1245 | Cody Nishimura |
 | 211 | 1240 | Brandon Armstrong |
 | 212 | 1237 | Megan Ferguson Leone |
-| 213 | 1232 | Groovy Puzzle |
-| 214 | 1232 | Ambyre Patterson |
+| 213 | 1232 | Ambyre Patterson |
+| 214 | 1232 | Groovy Puzzle |
 | 215 | 1230 | Megan Garrick |
 | 216 | 1221 | Jane Fong |
-| 217 | 1217 | Brooks Brooks |
-| 218 | 1217 | Lucky Ladybug |
+| 217 | 1217 | Lucky Ladybug |
+| 218 | 1217 | Brooks Brooks |
 | 219 | 1214 | David Cudicio-Hayden |
 | 220 | 1213 | Pacynthia Williams |
 | 221 | 1211 | Ricardo Burton |
@@ -300,8 +300,8 @@
 | 292 | 996 | Ashie Ann |
 | 293 | 987 | Osun Anuket Esu |
 | 294 | 984 | Crystal Hoffman |
-| 295 | 979 | Hillary Crawford |
-| 296 | 979 | Melissa Penelope Ann Dodge |
+| 295 | 979 | Melissa Penelope Ann Dodge |
+| 296 | 979 | Hillary Crawford |
 | 297 | 978 | April Dawn Gussler |
 | 298 | 976 | Sam Joe |
 | 299 | 976 | Della Hole |
@@ -825,8 +825,8 @@
 | 817 | 435 | John |
 | 818 | 435 | Snappy snappers |
 | 819 | 434 | Twisty Tetriblast |
-| 820 | 433 | Jessica Hughes |
-| 821 | 433 | Melissa Koria |
+| 820 | 433 | Melissa Koria |
+| 821 | 433 | Jessica Hughes |
 | 822 | 432 | Michelle Shrum |
 | 823 | 431 | Quinn |
 | 824 | 431 | Lewis Sturgeon |
@@ -1005,8 +1005,8 @@
 | 997 | 366 | Ashley Criner |
 | 998 | 366 | Monique Foster |
 | 999 | 366 | KrisCynthia Lynette |
-| 1000 | 365 | Wes Acton |
-| 1001 | 365 | Dee Blokk |
+| 1000 | 365 | Dee Blokk |
+| 1001 | 365 | Wes Acton |
 | 1002 | 364 | Jessica Galick |
 | 1003 | 364 | Jamie Willis |
 | 1004 | 364 | Miranda Morris |
