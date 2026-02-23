@@ -29,7 +29,7 @@
 | 21 | 2095 | Brandon Green |
 | 22 | 2015 | Chummy Shatterer |
 | 23 | 2000 | Susan Valentino |
-| 24 | 1991 | Zippy Strikesnap |
+| 24 | 1981 | Zippy Strikesnap |
 | 25 | 1959 | Bjorn Neyt |
 | 26 | 1948 | Dan Rob |
 | 27 | 1879 | Jamie Furr |
@@ -51,7 +51,7 @@
 | 43 | 1479 | Mary Pellegrino |
 | 44 | 1474 | Jennie Beranek |
 | 45 | 1441 | Jessica Ann |
-| 46 | 1427 | Delilah belle |
+| 46 | 1410 | Delilah belle |
 | 47 | 1402 | cowboy25469 |
 | 48 | 1368 | Josiah Fam |
 | 49 | 1358 | Raven Dudley |
@@ -270,8 +270,8 @@
 | 262 | 339 | Danielle Weikel |
 | 263 | 338 | Gumbo |
 | 264 | 332 | Velma Mull |
-| 265 | 330 | Brittany |
-| 266 | 330 | victory |
+| 265 | 330 | victory |
+| 266 | 330 | Brittany |
 | 267 | 329 | Tye Stovall |
 | 268 | 329 | block chick |
 | 269 | 327 | Gideon Walker |

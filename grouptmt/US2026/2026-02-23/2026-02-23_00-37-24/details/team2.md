@@ -54,7 +54,7 @@
 | 46 | 3288 | YiFei |
 | 47 | 3271 | Alisha |
 | 48 | 3265 | Melinda Brown |
-| 49 | 3139 | Nika Bee |
+| 49 | 3089 | Nika Bee |
 | 50 | 3082 | Jai Jackson |
 | 51 | 3065 | PandaMama |
 | 52 | 3043 | Sam McKenzie |
@@ -189,12 +189,12 @@
 | 181 | 1294 | Ashley House |
 | 182 | 1292 | Mischelle Clay |
 | 183 | 1286 | Altamirano Michael |
-| 184 | 1282 | Tanya Parsons |
-| 185 | 1282 | Ashley Rose Frederick |
+| 184 | 1282 | Ashley Rose Frederick |
+| 185 | 1282 | Tanya Parsons |
 | 186 | 1257 | Michele Gabriel |
 | 187 | 1243 | Anna Edwards |
-| 188 | 1232 | Ambyre Patterson |
-| 189 | 1232 | Groovy Puzzle |
+| 188 | 1232 | Groovy Puzzle |
+| 189 | 1232 | Ambyre Patterson |
 | 190 | 1230 | Megan Garrick |
 | 191 | 1224 | Liberty |
 | 192 | 1211 | Lucky Ladybug |
@@ -344,8 +344,8 @@
 | 336 | 807 | Khalil Lowe |
 | 337 | 799 | Joy LaJeunesse |
 | 338 | 793 | Arlene Joy Belicina |
-| 339 | 793 | Heather Schelkopf |
-| 340 | 793 | Lisa Ongtowasruk |
+| 339 | 793 | Lisa Ongtowasruk |
+| 340 | 793 | Heather Schelkopf |
 | 341 | 792 | Gold Rose |
 | 342 | 790 | Brenda Pierpoint |
 | 343 | 788 | Erika Densmore |

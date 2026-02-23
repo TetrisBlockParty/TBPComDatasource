@@ -73,8 +73,8 @@
 | 65 | 696 | Bhelle Sumile |
 | 66 | 687 | comrade fish |
 | 67 | 655 | Brenda Stewart |
-| 68 | 647 | Jason Jones |
-| 69 | 646 | Susanna Guerry |
+| 68 | 646 | Susanna Guerry |
+| 69 | 643 | Jason Jones |
 | 70 | 641 | Karin Gillen |
 | 71 | 634 | Snappy Swiper |
 | 72 | 584 | Jen Sartain |
@@ -83,7 +83,7 @@
 | 75 | 569 | Theo Pinnow |
 | 76 | 568 | Kellie |
 | 77 | 566 | Cynthia Bradley |
-| 78 | 562 | Lola Adkhambekovna |
+| 78 | 556 | Lola Adkhambekovna |
 | 79 | 552 | Aaron Garnett |
 | 80 | 551 | Greg Hart |
 | 81 | 535 | Denice Dee |
