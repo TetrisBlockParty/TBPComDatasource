@@ -51,8 +51,8 @@
 | 43 | 908 | Misty Hollibaugh |
 | 44 | 855 | Marvin Lou Martin |
 | 45 | 851 | Jae Job |
-| 46 | 846 | Christine Marie |
-| 47 | 846 | Lucille Truesdale |
+| 46 | 846 | Lucille Truesdale |
+| 47 | 846 | Christine Marie |
 | 48 | 845 | LisaJo Picken Buchanan |
 | 49 | 843 | Shelly Chandler |
 | 50 | 842 | TeeJ |
@@ -126,8 +126,8 @@
 | 118 | 458 | Twisty Clicky |
 | 119 | 448 | Kristin Manee |
 | 120 | 435 | Leslie Thomas |
-| 121 | 431 | Jolly Dashfit |
-| 122 | 431 | Courtney Cicoria |
+| 121 | 431 | Courtney Cicoria |
+| 122 | 431 | Jolly Dashfit |
 | 123 | 429 | Ren Mc |
 | 124 | 427 | KJ Pool |
 | 125 | 418 | Marie-Pier Desjardins |
@@ -216,8 +216,8 @@
 | 208 | 270 | Juls |
 | 209 | 270 | Jen Caldwell |
 | 210 | 269 | Nikki Rae Gordon |
-| 211 | 268 | Mimi |
-| 212 | 268 | Porkobello |
+| 211 | 268 | Porkobello |
+| 212 | 268 | Mimi |
 | 213 | 267 | Holly |
 | 214 | 266 | blockstar |
 | 215 | 265 | Sarah Neathery |
@@ -229,8 +229,8 @@
 | 221 | 257 | Cheery Risebuilder |
 | 222 | 257 | PeaceOs |
 | 223 | 256 | Mylo Lipscomb |
-| 224 | 252 | Mr. Party |
-| 225 | 252 | Selena Shaw |
+| 224 | 252 | Selena Shaw |
+| 225 | 252 | Mr. Party |
 | 226 | 251 | Carol Ricks Raymond |
 | 227 | 250 | Matt Gooder |
 | 228 | 249 | Ak Jones |
@@ -308,8 +308,8 @@
 | 300 | 190 | wombat |
 | 301 | 190 | Amanda Christine |
 | 302 | 189 | Berklie Apedaile |
-| 303 | 187 | Nita Wells |
-| 304 | 187 | Cynthia Boudreau |
+| 303 | 187 | Cynthia Boudreau |
+| 304 | 187 | Nita Wells |
 | 305 | 186 | Lauren Lamb |
 | 306 | 185 | Denise B |
 | 307 | 185 | Morti |

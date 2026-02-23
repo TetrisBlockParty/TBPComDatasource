@@ -40,8 +40,8 @@
 | 32 | 4174 | Vistabrat |
 | 33 | 4130 | Robert Diddle |
 | 34 | 4128 | Angela Pruitt |
-| 35 | 4120 | Kristen Sceurman |
-| 36 | 4120 | Corrine Hawks Soriano |
+| 35 | 4120 | Corrine Hawks Soriano |
+| 36 | 4120 | Kristen Sceurman |
 | 37 | 3895 | Nickie Baby |
 | 38 | 3793 | Jill Stroehlein |
 | 39 | 3759 | Brittany Alicia |
@@ -193,8 +193,8 @@
 | 185 | 1282 | Tanya Parsons |
 | 186 | 1257 | Michele Gabriel |
 | 187 | 1243 | Anna Edwards |
-| 188 | 1232 | Ambyre Patterson |
-| 189 | 1232 | Groovy Puzzle |
+| 188 | 1232 | Groovy Puzzle |
+| 189 | 1232 | Ambyre Patterson |
 | 190 | 1230 | Megan Garrick |
 | 191 | 1224 | Liberty |
 | 192 | 1211 | Lucky Ladybug |
@@ -518,8 +518,8 @@
 | 510 | 559 | Slip |
 | 511 | 558 | Libby Hicks |
 | 512 | 557 | Victor Obiakarije |
-| 513 | 554 | Laquetta Royston |
-| 514 | 554 | Tra Barnum |
+| 513 | 554 | Tra Barnum |
+| 514 | 554 | Laquetta Royston |
 | 515 | 554 | Dizzy Zone |
 | 516 | 553 | Kelli Wells |
 | 517 | 551 | Cynthia Louann Rose |

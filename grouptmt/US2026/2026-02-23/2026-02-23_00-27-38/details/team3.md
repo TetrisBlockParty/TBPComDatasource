@@ -142,8 +142,8 @@
 | 134 | 621 | Cherry Parker |
 | 135 | 611 | Kiki |
 | 136 | 610 | Daryn Elliott |
-| 137 | 595 | Giddy Drop |
-| 138 | 595 | Patricia White |
+| 137 | 595 | Patricia White |
+| 138 | 595 | Giddy Drop |
 | 139 | 590 | Santeria Trece Candles |
 | 140 | 588 | Justin Ritter |
 | 141 | 585 | opf |
@@ -203,8 +203,8 @@
 | 195 | 432 | Luciana Braganca Vieira |
 | 196 | 432 | Christine Trester |
 | 197 | 431 | Wendy Dearden |
-| 198 | 430 | Joye Sims Binion |
-| 199 | 430 | Jeni Dow |
+| 198 | 430 | Jeni Dow |
+| 199 | 430 | Joye Sims Binion |
 | 200 | 426 | Rochelle Hazelett |
 | 201 | 423 | Tom Nault |
 | 202 | 422 | Fallorina Susana |
@@ -229,8 +229,8 @@
 | 221 | 383 | Darlene McMillan |
 | 222 | 383 | Nicole Flippo |
 | 223 | 383 | Heather Green |
-| 224 | 382 | Giddy Twistbuilder |
-| 225 | 382 | Scott Carleton |
+| 224 | 382 | Scott Carleton |
+| 225 | 382 | Giddy Twistbuilder |
 | 226 | 378 | Chris Bell |
 | 227 | 376 | Kammy Hill |
 | 228 | 375 | Duane Bright |
@@ -248,8 +248,8 @@
 | 240 | 365 | Chummy Caster |
 | 241 | 362 | Brandon Givens |
 | 242 | 360 | Sheila M Frazier |
-| 243 | 357 | Stephanie Burtin |
-| 244 | 357 | Ammmmmmy |
+| 243 | 357 | Ammmmmmy |
+| 244 | 357 | Stephanie Burtin |
 | 245 | 352 | Christian Werndl |
 | 246 | 352 | Samantha Lynn |
 | 247 | 351 | Eon Harris |
@@ -279,8 +279,8 @@
 | 271 | 324 | Sissy Lowery Davis |
 | 272 | 322 | Nena Somerville Kelly |
 | 273 | 321 | Charles Perrone |
-| 274 | 320 | Or Reznitsky |
-| 275 | 320 | Ashley Muncey |
+| 274 | 320 | Ashley Muncey |
+| 275 | 320 | Or Reznitsky |
 | 276 | 312 | Twisty Brick LT |
 | 277 | 312 | LadyTorad |
 | 278 | 309 | Felicia Rocha |
