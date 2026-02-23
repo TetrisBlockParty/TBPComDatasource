@@ -162,8 +162,8 @@
 | 154 | 634 | Amber Hughes |
 | 155 | 630 | yoyo |
 | 156 | 629 | Patricia White |
-| 157 | 621 | Sashay Tapae Simpson |
-| 158 | 621 | Cherry Parker |
+| 157 | 621 | Cherry Parker |
+| 158 | 621 | Sashay Tapae Simpson |
 | 159 | 616 | Kammy Hill |
 | 160 | 611 | Rochelle Hazelett |
 | 161 | 607 | Grego Daniel |
@@ -214,8 +214,8 @@
 | 206 | 488 | Melissa Orth Hunter |
 | 207 | 485 | Dapper Snap |
 | 208 | 484 | Fallorina Susana |
-| 209 | 480 | Michael Johnson |
-| 210 | 480 | Danielle Allison |
+| 209 | 480 | Danielle Allison |
+| 210 | 480 | Michael Johnson |
 | 211 | 477 | Edwin Calvillo Jr. |
 | 212 | 475 | Tessina Dewey-Mancino |
 | 213 | 473 | Connie Mohler-Fair |
@@ -282,9 +282,9 @@
 | 274 | 362 | Brandon Givens |
 | 275 | 360 | Cesar Barraza |
 | 276 | 359 | Sleepy |
-| 277 | 354 | Roary Danner |
+| 277 | 354 | Eileen Brady Thurber |
 | 278 | 354 | Andrew Thorson |
-| 279 | 354 | Eileen Brady Thurber |
+| 279 | 354 | Roary Danner |
 | 280 | 354 | Kelly |
 | 281 | 353 | Dee Franklin |
 | 282 | 353 | Cyd061769 |
@@ -309,8 +309,8 @@
 | 301 | 336 | Foltz Lee Kelli |
 | 302 | 336 | Jojo M |
 | 303 | 335 | victory |
-| 304 | 332 | Velma Mull |
-| 305 | 332 | Brittany |
+| 304 | 332 | Brittany |
+| 305 | 332 | Velma Mull |
 | 306 | 331 | Gray Hicks |
 | 307 | 329 | Angela Scott |
 | 308 | 328 | Desiree Soto |
@@ -367,8 +367,8 @@
 | 359 | 280 | ROODBOY |
 | 360 | 280 | Aerian Preston |
 | 361 | 280 | Dirtgirl27 |
-| 362 | 279 | Naur |
-| 363 | 279 | Tosha Griffey |
+| 362 | 279 | Tosha Griffey |
+| 363 | 279 | Naur |
 | 364 | 278 | Rufus Lincoln |
 | 365 | 277 | France Vézina |
 | 366 | 277 | Krystal Gerstberger |
@@ -410,8 +410,8 @@
 | 402 | 259 | Tegan Chapman |
 | 403 | 259 | Dana Winters |
 | 404 | 258 | IamJust Neyamijah Washington Sr. |
-| 405 | 257 | Chris Wallace |
-| 406 | 257 | Rachel Grant |
+| 405 | 257 | Rachel Grant |
+| 406 | 257 | Chris Wallace |
 | 407 | 257 | Saucy Buildout |
 | 408 | 255 | Erykah |
 | 409 | 255 | Mariah Williams |
@@ -501,11 +501,11 @@
 | 493 | 217 | Katie Leigh Blankenship |
 | 494 | 217 | Tia Moore |
 | 495 | 216 | Amanda Declue |
-| 496 | 214 | Amy Fuller Heaton |
-| 497 | 214 | Jumpy Curvebuilder |
-| 498 | 214 | Crystal Hine |
-| 499 | 213 | Linda Draper |
-| 500 | 213 | Flashy Rumbler |
+| 496 | 214 | Jumpy Curvebuilder |
+| 497 | 214 | Crystal Hine |
+| 498 | 214 | Amy Fuller Heaton |
+| 499 | 213 | Flashy Rumbler |
+| 500 | 213 | Linda Draper |
 | 501 | 213 | Ktfreeee |
 | 502 | 212 | neci |
 | 503 | 212 | Frilly Stackzone |
@@ -521,8 +521,8 @@
 | 513 | 209 | Jumpy Wrecker |
 | 514 | 208 | Jessica Christian |
 | 515 | 208 | Luccy Luxe |
-| 516 | 207 | Nichol Graham |
-| 517 | 207 | Misstery |
+| 516 | 207 | Misstery |
+| 517 | 207 | Nichol Graham |
 | 518 | 206 | Tammy Rosenberry |
 | 519 | 206 | Dakota Graham |
 | 520 | 205 | Emberblaze |
@@ -561,8 +561,8 @@
 | 553 | 195 | Carrie Resler |
 | 554 | 195 | toony |
 | 555 | 194 | Shicken Nuggit |
-| 556 | 193 | Bryan Byrd |
-| 557 | 193 | Clever Shiftsnap |
+| 556 | 193 | Clever Shiftsnap |
+| 557 | 193 | Bryan Byrd |
 | 558 | 192 | Jennifer Neiman Gaal |
 | 559 | 192 | Laura Booth Wosko |
 | 560 | 192 | Kelly Ann Child |

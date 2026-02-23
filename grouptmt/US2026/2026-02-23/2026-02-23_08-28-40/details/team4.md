@@ -254,8 +254,8 @@
 | 246 | 272 | Alan George LaRage |
 | 247 | 271 | Holly |
 | 248 | 270 | Jen Caldwell |
-| 249 | 266 | Tracey Lehmann |
-| 250 | 266 | Nubian1 |
+| 249 | 266 | Nubian1 |
+| 250 | 266 | Tracey Lehmann |
 | 251 | 266 | Mr. Party |
 | 252 | 265 | Cynthia Boudreau |
 | 253 | 265 | Sarah Neathery |
@@ -404,8 +404,8 @@
 | 396 | 178 | Daring Pivot |
 | 397 | 177 | Chao Ma |
 | 398 | 177 | Lora |
-| 399 | 176 | B Renee Desjardin |
-| 400 | 176 | Cindy Looper |
+| 399 | 176 | Cindy Looper |
+| 400 | 176 | B Renee Desjardin |
 | 401 | 176 | Brickh4us |
 | 402 | 175 | Lorena Guerrero-Barron |
 | 403 | 175 | Jim Hart |
@@ -563,8 +563,8 @@
 | 555 | 126 | Spicy Cascadezone |
 | 556 | 126 | PAPatty |
 | 557 | 125 | Kelly Adams Carnahan |
-| 558 | 125 | Frilly Blocky |
-| 559 | 125 | ImJustMe |
+| 558 | 125 | ImJustMe |
+| 559 | 125 | Frilly Blocky |
 | 560 | 125 | Christina Nabrizny |
 | 561 | 124 | Cheery Towerzone |
 | 562 | 124 | Peppy Strike |

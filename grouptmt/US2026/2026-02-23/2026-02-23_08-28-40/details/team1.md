@@ -182,8 +182,8 @@
 | 174 | 357 | Shiny Snapfit |
 | 175 | 355 | Erin Rosberg |
 | 176 | 355 | Amanda Jarnagin |
-| 177 | 353 | Jaimie Lynn |
-| 178 | 353 | Josh Riemer |
+| 177 | 353 | Josh Riemer |
+| 178 | 353 | Jaimie Lynn |
 | 179 | 350 | Tipsy Strikerpiece |
 | 180 | 349 | Cool Shiftsnap |
 | 181 | 348 | Chelsea Dahlquist |
@@ -193,8 +193,8 @@
 | 185 | 341 | Nick R Montague |
 | 186 | 339 | Nicole Roseberry Weber |
 | 187 | 338 | Jennifer Hardman |
-| 188 | 337 | Constance Risner |
-| 189 | 337 | Jamise Brown |
+| 188 | 337 | Jamise Brown |
+| 189 | 337 | Constance Risner |
 | 190 | 336 | Dizzy Party |
 | 191 | 333 | Gracie |
 | 192 | 333 | Virginia Gray Floyd |
