@@ -161,8 +161,8 @@
 | 153 | 572 | CeceGeGe |
 | 154 | 571 | Nicole Myers |
 | 155 | 568 | Rachael McClain Owens |
-| 156 | 562 | Dave Herzog |
-| 157 | 562 | Louise Stacy Sisson |
+| 156 | 562 | Louise Stacy Sisson |
+| 157 | 562 | Dave Herzog |
 | 158 | 553 | LaTanya GeminiondaRise Johnson |
 | 159 | 549 | Peppy Shifter |
 | 160 | 546 | Cynthia Castros-Hampton |

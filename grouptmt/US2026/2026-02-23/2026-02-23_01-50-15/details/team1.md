@@ -128,8 +128,8 @@
 | 120 | 416 | Dandy Basegrid |
 | 121 | 409 | Yvonne Marie |
 | 122 | 409 | Goose egg |
-| 123 | 406 | Desiree Deschaine Havee |
-| 124 | 406 | Candy Jones |
+| 123 | 406 | Candy Jones |
+| 124 | 406 | Desiree Deschaine Havee |
 | 125 | 402 | Chris K |
 | 126 | 400 | Maria C. Hernandez |
 | 127 | 399 | Nery Martinez |
@@ -140,8 +140,8 @@
 | 132 | 387 | Emily Adelaide Wheatley |
 | 133 | 386 | Ty Brown |
 | 134 | 383 | pjbeta |
-| 135 | 379 | Austin James |
-| 136 | 379 | Kimmie Kimms |
+| 135 | 379 | Kimmie Kimms |
+| 136 | 379 | Austin James |
 | 137 | 376 | Brian Richardsson |
 | 138 | 371 | Jason Savage |
 | 139 | 368 | Death |
@@ -172,8 +172,8 @@
 | 164 | 329 | Rachael |
 | 165 | 326 | BadG52 |
 | 166 | 325 | Dizzy Party |
-| 167 | 324 | Ananda Mendez |
-| 168 | 324 | Rat666 |
+| 167 | 324 | Rat666 |
+| 168 | 324 | Ananda Mendez |
 | 169 | 320 | Madison Wicks |
 | 170 | 318 | Virginia Gray Floyd |
 | 171 | 318 | Jessica Sheehan |

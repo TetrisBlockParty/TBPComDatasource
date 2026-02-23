@@ -209,7 +209,7 @@
 | 201 | 286 | Brittney Orengo |
 | 202 | 286 | Sam Bishop |
 | 203 | 285 | Chris Bernstein |
-| 204 | 281 | Nikki Rae Gordon |
+| 204 | 281 | Kim Klutz Olson |
 | 205 | 281 | Laura |
 | 206 | 281 | Nikki Rae Gordon |
 | 207 | 277 | Matt Gooder |
@@ -228,8 +228,8 @@
 | 220 | 267 | Holly |
 | 221 | 266 | Mr. Party |
 | 222 | 265 | Sarah Neathery |
-| 223 | 264 | scott |
-| 224 | 264 | Carlos Ramirez |
+| 223 | 264 | Carlos Ramirez |
+| 224 | 264 | scott |
 | 225 | 261 | Dihcheese444 |
 | 226 | 259 | Montiette Mcglown |
 | 227 | 259 | Cheery Risebuilder |
@@ -237,8 +237,8 @@
 | 229 | 256 | Mylo Lipscomb |
 | 230 | 253 | JPW |
 | 231 | 252 | Selena Shaw |
-| 232 | 251 | Adam Stephanie Parker |
-| 233 | 251 | Carol Ricks Raymond |
+| 232 | 251 | Carol Ricks Raymond |
+| 233 | 251 | Adam Stephanie Parker |
 | 234 | 249 | Ak Jones |
 | 235 | 248 | Jose Dejesus |
 | 236 | 248 | Chirpy Basepiece |
