@@ -92,8 +92,8 @@
 | 84 | 2500 | Rosemadder |
 | 85 | 2443 | Melissa Rebbe-Lehman |
 | 86 | 2438 | Rob Surace |
-| 87 | 2428 | Thomas Hughes |
-| 88 | 2428 | Deanna Morton |
+| 87 | 2428 | Deanna Morton |
+| 88 | 2428 | Thomas Hughes |
 | 89 | 2410 | RdRydnHd |
 | 90 | 2400 | Rich Sullivan |
 | 91 | 2375 | Megan Peckham |

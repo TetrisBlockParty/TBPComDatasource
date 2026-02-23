@@ -57,8 +57,8 @@
 | 49 | 863 | Pee |
 | 50 | 855 | Marvin Lou Martin |
 | 51 | 853 | TeeJ |
-| 52 | 846 | Christine Marie |
-| 53 | 846 | Lucille Truesdale |
+| 52 | 846 | Lucille Truesdale |
+| 53 | 846 | Christine Marie |
 | 54 | 845 | LisaJo Picken Buchanan |
 | 55 | 843 | Shelly Chandler |
 | 56 | 841 | Anthony Bryan Riva |
@@ -139,8 +139,8 @@
 | 131 | 435 | Kristina Black |
 | 132 | 431 | Courtney Cicoria |
 | 133 | 425 | Monica Daley |
-| 134 | 421 | JIGsaw ~(•¿°)~ |
-| 135 | 421 | Kesha Brady |
+| 134 | 421 | Kesha Brady |
+| 135 | 421 | JIGsaw ~(•¿°)~ |
 | 136 | 419 | Klo |
 | 137 | 418 | Lush Linkfall |
 | 138 | 418 | Marie-Pier Desjardins |
@@ -160,9 +160,9 @@
 | 152 | 387 | Lucas J Sutton |
 | 153 | 387 | 🥔🥔 Spudz |
 | 154 | 377 | Carrie Brian |
-| 155 | 375 | ThaEviLJeNiuZ |
+| 155 | 375 | Desi Desporte |
 | 156 | 375 | Tyler Terrific |
-| 157 | 375 | Desi Desporte |
+| 157 | 375 | ThaEviLJeNiuZ |
 | 158 | 374 | Guy Incognito |
 | 159 | 374 | Leslie Nicole |
 | 160 | 370 | Oscar Alberto Perez |
@@ -229,8 +229,8 @@
 | 221 | 281 | Laura |
 | 222 | 278 | Angela Geist Jusinski |
 | 223 | 278 | Sarah Brown |
-| 224 | 276 | Matt Dell'Olio |
-| 225 | 276 | Joeliecea Cobb |
+| 224 | 276 | Joeliecea Cobb |
+| 225 | 276 | Matt Dell'Olio |
 | 226 | 273 | Casey Grabner |
 | 227 | 272 | Carlos Ramirez |
 | 228 | 272 | Alan George LaRage |
@@ -265,7 +265,7 @@
 | 257 | 244 | Elizabeth Tinoco |
 | 258 | 242 | Chaz |
 | 259 | 240 | Lori |
-| 260 | 240 | Brittany Marsh |
+| 260 | 240 | Kim Hunt |
 | 261 | 240 | Perky Patternblock |
 | 262 | 240 | Brittany Marsh |
 | 263 | 239 | Joanna |
@@ -314,8 +314,8 @@
 | 306 | 212 | Orchislactea |
 | 307 | 212 | Zany Shatterer |
 | 308 | 211 | Chris Alexinas |
-| 309 | 210 | Rebecca Morris |
-| 310 | 210 | Ari Droff |
+| 309 | 210 | Ari Droff |
+| 310 | 210 | Rebecca Morris |
 | 311 | 210 | Ultramarine |
 | 312 | 209 | Snippy Puzzle |
 | 313 | 209 | Denise B |

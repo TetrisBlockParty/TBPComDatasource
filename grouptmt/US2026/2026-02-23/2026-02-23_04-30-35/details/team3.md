@@ -117,8 +117,8 @@
 | 109 | 831 | Angeline Joseph |
 | 110 | 830 | Stephanie Allmon |
 | 111 | 826 | Shane Wilson Jr. |
-| 112 | 816 | Jesse Olive |
-| 113 | 816 | Brenda Lee Vander Molen |
+| 112 | 816 | Brenda Lee Vander Molen |
+| 113 | 816 | Jesse Olive |
 | 114 | 800 | Lauren Girouard |
 | 115 | 799 | Dolores Falco |
 | 116 | 769 | Kristie |
@@ -178,8 +178,8 @@
 | 170 | 562 | Dave Herzog |
 | 171 | 558 | Patti Skiles |
 | 172 | 553 | LaTanya GeminiondaRise Johnson |
-| 173 | 546 | Cynthia Castros-Hampton |
-| 174 | 546 | Mykal Burton |
+| 173 | 546 | Mykal Burton |
+| 174 | 546 | Cynthia Castros-Hampton |
 | 175 | 540 | Elissa S-k |
 | 176 | 540 | Shawn Miller |
 | 177 | 535 | Tasha Schriewer |
@@ -195,8 +195,8 @@
 | 187 | 507 | Jim Mathews |
 | 188 | 502 | Snappy Balancer |
 | 189 | 500 | Sherika C. McDaniels |
-| 190 | 496 | Makelini Mausia |
-| 191 | 496 | Loopy Fallmatch |
+| 190 | 496 | Loopy Fallmatch |
+| 191 | 496 | Makelini Mausia |
 | 192 | 494 | FuzzyNavel |
 | 193 | 489 | Terry Jo Jones |
 | 194 | 489 | Shannon Matthew Byers |
@@ -282,8 +282,8 @@
 | 274 | 346 | Tamara Deherrera |
 | 275 | 345 | MsBee |
 | 276 | 344 | Roary Danner |
-| 277 | 343 | Ashley Raines |
-| 278 | 343 | Ashley Rufus Bythcez |
+| 277 | 343 | Ashley Rufus Bythcez |
+| 278 | 343 | Ashley Raines |
 | 279 | 341 | Ashley Tookes |
 | 280 | 339 | Cynthia Herrmann Egland |
 | 281 | 336 | Jojo M |
