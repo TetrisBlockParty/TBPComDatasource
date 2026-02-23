@@ -113,8 +113,8 @@
 | 105 | 672 | Nugget |
 | 106 | 667 | Amy Suckarieh |
 | 107 | 659 | Jamie Gustafson |
-| 108 | 658 | Girl |
-| 109 | 658 | Zippy Gridlock |
+| 108 | 658 | Zippy Gridlock |
+| 109 | 658 | Girl |
 | 110 | 657 | Lori Walker |
 | 111 | 652 | Leslie Nicole |
 | 112 | 647 | KM8 |
@@ -1340,7 +1340,7 @@
 | 1332 | 39 | Frilly Wipefit |
 | 1333 | 39 | Lucky2Guns |
 | 1334 | 39 | Scarlet Sunset |
-| 1335 | 39 | Kellie Tacuban |
+| 1335 | 39 | Rollinsmokes |
 | 1336 | 39 | Sabby |
 | 1337 | 39 | Evan DeWeese |
 | 1338 | 39 | RickyBobby |

@@ -205,18 +205,18 @@
 | 197 | 579 | Elissa S-k |
 | 198 | 576 | Keis |
 | 199 | 568 | Rachael McClain Owens |
-| 200 | 566 | LaTanya GeminiondaRise Johnson |
-| 201 | 566 | Connie Mohler-Fair |
-| 202 | 564 | Poppy Splitter |
-| 203 | 564 | Christine Trester |
+| 200 | 566 | Connie Mohler-Fair |
+| 201 | 566 | LaTanya GeminiondaRise Johnson |
+| 202 | 564 | Christine Trester |
+| 203 | 564 | Poppy Splitter |
 | 204 | 563 | Jim Mathews |
 | 205 | 562 | Dave Herzog |
 | 206 | 561 | Silly Twist |
-| 207 | 560 | FuzzyNavel |
-| 208 | 560 | Juliana Dottore |
+| 207 | 560 | Juliana Dottore |
+| 208 | 560 | FuzzyNavel |
 | 209 | 559 | Patti Skiles |
-| 210 | 558 | Bmo |
-| 211 | 558 | Chasity |
+| 210 | 558 | Chasity |
+| 211 | 558 | Bmo |
 | 212 | 549 | Sarah Cowan Burgos |
 | 213 | 548 | Danielle Balcom |
 | 214 | 547 | Staci George Fitzsimmons |
@@ -331,8 +331,8 @@
 | 323 | 370 | Samantha Lynn |
 | 324 | 369 | Amber Glover |
 | 325 | 369 | fraulila |
-| 326 | 368 | Sheila M Frazier |
-| 327 | 368 | Stephanie Woods |
+| 326 | 368 | Stephanie Woods |
+| 327 | 368 | Sheila M Frazier |
 | 328 | 366 | KayB |
 | 329 | 365 | Andrew Thorson |
 | 330 | 365 | LaShey Thompson |

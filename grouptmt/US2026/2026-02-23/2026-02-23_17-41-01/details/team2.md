@@ -466,8 +466,8 @@
 | 458 | 806 | Sarah block |
 | 459 | 805 | Vanessa Moreno |
 | 460 | 804 | Sarah DeHart |
-| 461 | 804 | Becca Coronado |
-| 462 | 804 | Barry Britt |
+| 461 | 804 | Barry Britt |
+| 462 | 804 | Becca Coronado |
 | 463 | 801 | Diana Fitzwater |
 | 464 | 801 | Dreamy Blast |
 | 465 | 799 | Kenny Alvarado |
@@ -530,11 +530,11 @@
 | 522 | 731 | Trisha J Schmidt |
 | 523 | 729 | goofinoff |
 | 524 | 728 | Mikayala Szaz |
-| 525 | 728 | Tom Riefer |
-| 526 | 728 | Giggy Mover |
+| 525 | 728 | Giggy Mover |
+| 526 | 728 | Tom Riefer |
 | 527 | 726 | Joce Lynn |
-| 528 | 726 | Ashley Munn |
-| 529 | 726 | Crystal Greene |
+| 528 | 726 | Crystal Greene |
+| 529 | 726 | Ashley Munn |
 | 530 | 725 | Darla Silva |
 | 531 | 725 | Vonceial Boone |
 | 532 | 724 | Melissa Holsinger |
@@ -626,9 +626,9 @@
 | 618 | 642 | snkylnk |
 | 619 | 642 | Michelle Fields |
 | 620 | 640 | Slinky Racker |
-| 621 | 639 | Libby Hicks |
-| 622 | 639 | Toni Roberson |
-| 623 | 639 | Belle Mari |
+| 621 | 639 | Belle Mari |
+| 622 | 639 | Libby Hicks |
+| 623 | 639 | Toni Roberson |
 | 624 | 638 | Leah Keesling |
 | 625 | 638 | Maya June |
 | 626 | 638 | Magic steve |
@@ -754,8 +754,8 @@
 | 746 | 544 | Armonie Smith |
 | 747 | 544 | Snappy snappers |
 | 748 | 543 | Demitri Smith |
-| 749 | 543 | Lathasa Newkirk |
-| 750 | 543 | coleksquad |
+| 749 | 543 | coleksquad |
+| 750 | 543 | Lathasa Newkirk |
 | 751 | 542 | Ethan Stienbarger |
 | 752 | 542 | Jarboe |
 | 753 | 542 | Bec |
