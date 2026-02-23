@@ -86,8 +86,8 @@
 | 78 | 1244 | Lori Barnaby |
 | 79 | 1229 | Araceli Parra |
 | 80 | 1221 | Betty Ivy |
-| 81 | 1213 | Snappy Glidepiece |
-| 82 | 1213 | Nerdy Riseclear |
+| 81 | 1213 | Nerdy Riseclear |
+| 82 | 1213 | Snappy Glidepiece |
 | 83 | 1212 | Amanda Adkins |
 | 84 | 1186 | Christian A. Pollard |
 | 85 | 1158 | Danielle Mogg |
@@ -235,11 +235,11 @@
 | 227 | 516 | Daring Brickzone |
 | 228 | 515 | Cozy Snaplink |
 | 229 | 515 | Annie Déè |
-| 230 | 513 | Twisty Brick LT |
-| 231 | 513 | Lizabeth Fox |
-| 232 | 513 | kacihall |
-| 233 | 508 | Fran Lin |
-| 234 | 508 | joz |
+| 230 | 513 | kacihall |
+| 231 | 513 | Twisty Brick LT |
+| 232 | 513 | Lizabeth Fox |
+| 233 | 508 | joz |
+| 234 | 508 | Fran Lin |
 | 235 | 505 | Stephanie Simpson |
 | 236 | 503 | Tye Stovall |
 | 237 | 502 | Snappy Balancer |
@@ -253,8 +253,8 @@
 | 245 | 477 | Edwin Calvillo Jr. |
 | 246 | 471 | Rebecca Bailey |
 | 247 | 471 | Mendoza Lee Christy |
-| 248 | 470 | Rebecca Funderburk Kirby |
-| 249 | 470 | Marci Mize Fandrich |
+| 248 | 470 | Marci Mize Fandrich |
+| 249 | 470 | Rebecca Funderburk Kirby |
 | 250 | 468 | Shunta Jacobs |
 | 251 | 467 | Sherry Ogden |
 | 252 | 466 | Eileen Brady Thurber |

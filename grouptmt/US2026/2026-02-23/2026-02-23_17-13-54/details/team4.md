@@ -139,8 +139,8 @@
 | 131 | 545 | Desi Desporte |
 | 132 | 542 | Austin Owens |
 | 133 | 540 | Rodney McMath Jr. |
-| 134 | 538 | Carlos Ramirez |
-| 135 | 538 | shar |
+| 134 | 538 | shar |
+| 135 | 538 | Carlos Ramirez |
 | 136 | 531 | Serena Goodridge |
 | 137 | 524 | Cristy Duerksen |
 | 138 | 521 | Andy Cabral |
