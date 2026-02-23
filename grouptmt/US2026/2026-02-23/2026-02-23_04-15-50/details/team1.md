@@ -238,8 +238,8 @@
 | 230 | 267 | Daring Fitclear |
 | 231 | 265 | Kandae |
 | 232 | 264 | Jenny Gingrich Fuentes |
-| 233 | 263 | Perky Shiftsnap |
-| 234 | 263 | Jessie Lynn |
+| 233 | 263 | Jessie Lynn |
+| 234 | 263 | Perky Shiftsnap |
 | 235 | 261 | John J. Cronin |
 | 236 | 260 | Lacy Wolfe |
 | 237 | 260 | Marianita Garcia |

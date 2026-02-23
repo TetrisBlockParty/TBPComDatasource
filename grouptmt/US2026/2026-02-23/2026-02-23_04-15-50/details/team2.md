@@ -136,8 +136,8 @@
 | 128 | 1762 | Katrina Williams Balmir |
 | 129 | 1749 | Auntie B |
 | 130 | 1728 | Mr. Street Stack |
-| 131 | 1681 | Shandrica Lowe |
-| 132 | 1681 | Nett |
+| 131 | 1681 | Nett |
+| 132 | 1681 | Shandrica Lowe |
 | 133 | 1658 | Liberty |
 | 134 | 1656 | Kristopher Miller |
 | 135 | 1644 | Luna |
@@ -457,24 +457,24 @@
 | 449 | 699 | Dannette Goldberg-Richards |
 | 450 | 698 | Joce Lynn |
 | 451 | 697 | Ashle Scranton |
-| 452 | 695 | Lakeysha Dortch |
-| 453 | 695 | Irene Jones |
+| 452 | 695 | Irene Jones |
+| 453 | 695 | Lakeysha Dortch |
 | 454 | 693 | Ryan Stadel |
 | 455 | 692 | Shaun Church |
 | 456 | 691 | Poldo Ilano |
 | 457 | 684 | Sarah DeHart |
 | 458 | 683 | Eric Castaneda |
 | 459 | 681 | AgileDragon |
-| 460 | 680 | blume |
-| 461 | 680 | Kenny Alvarado |
+| 460 | 680 | Kenny Alvarado |
+| 461 | 680 | blume |
 | 462 | 679 | Kassandra Hunt |
 | 463 | 677 | Kayleigh Wisse |
 | 464 | 677 | Ellie Jonas |
 | 465 | 677 | Amanda Woodruff |
 | 466 | 676 | Roseanna Peloso |
 | 467 | 676 | Brandon Armstrong |
-| 468 | 675 | Lonne Emade |
-| 469 | 675 | Katelynn Hollen |
+| 468 | 675 | Katelynn Hollen |
+| 469 | 675 | Lonne Emade |
 | 470 | 674 | Mikayala Szaz |
 | 471 | 674 | Ashley Munn |
 | 472 | 673 | trabuco |
@@ -580,8 +580,8 @@
 | 572 | 559 | Anthony Huebel |
 | 573 | 559 | Slip |
 | 574 | 558 | Libby Hicks |
-| 575 | 554 | Tra Barnum |
-| 576 | 554 | Dizzy Zone |
+| 575 | 554 | Dizzy Zone |
+| 576 | 554 | Tra Barnum |
 | 577 | 554 | Party d |
 | 578 | 554 | Laquetta Royston |
 | 579 | 553 | Kelli Wells |
@@ -591,8 +591,8 @@
 | 583 | 550 | Misty Mitchell |
 | 584 | 550 | Michelle Sager |
 | 585 | 550 | Frilly Fallzone |
-| 586 | 549 | Kaylee McCafferty |
-| 587 | 549 | Melissa Kay Gibson |
+| 586 | 549 | Melissa Kay Gibson |
+| 587 | 549 | Kaylee McCafferty |
 | 588 | 547 | Hunter Connors |
 | 589 | 545 | Venita Ray |
 | 590 | 544 | Deidre Shaffer |
@@ -793,8 +793,8 @@
 | 785 | 427 | Destiny Cozier |
 | 786 | 426 | Kelly Meredeith |
 | 787 | 425 | N00D3S |
-| 788 | 424 | Christine Egidio Morocco |
-| 789 | 424 | ruth |
+| 788 | 424 | ruth |
+| 789 | 424 | Christine Egidio Morocco |
 | 790 | 423 | Smashanator |
 | 791 | 422 | Kimberly Ann |
 | 792 | 421 | Kelly Amos |
@@ -833,10 +833,10 @@
 | 825 | 403 | Swanky Columnbuilder |
 | 826 | 403 | Susan Arnburg |
 | 827 | 402 | B |
-| 828 | 402 | BlaqSupaMan |
-| 829 | 402 | AkaLefty |
-| 830 | 401 | James Zaragoza |
-| 831 | 401 | Victoria Marie Bunch |
+| 828 | 402 | AkaLefty |
+| 829 | 402 | BlaqSupaMan |
+| 830 | 401 | Victoria Marie Bunch |
+| 831 | 401 | James Zaragoza |
 | 832 | 401 | Emoney Sanchez |
 | 833 | 400 | Tammy Allen |
 | 834 | 400 | Deana |
