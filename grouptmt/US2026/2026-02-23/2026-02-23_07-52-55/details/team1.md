@@ -490,8 +490,8 @@
 | 482 | 151 | Ma stoken |
 | 483 | 151 | Plucky Wrecker |
 | 484 | 149 | MIKOZ |
-| 485 | 149 | Kimberly Davis |
-| 486 | 149 | Logan McFarland |
+| 485 | 149 | Logan McFarland |
+| 486 | 149 | Kimberly Davis |
 | 487 | 148 | Sir-Franchise Drake |
 | 488 | 147 | Rachel Nilles |
 | 489 | 147 | Javyjavz |
