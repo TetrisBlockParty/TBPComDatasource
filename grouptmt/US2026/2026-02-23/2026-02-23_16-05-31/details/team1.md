@@ -147,8 +147,8 @@
 | 139 | 462 | Luciano Moreira |
 | 140 | 461 | Ly Phethmany |
 | 141 | 460 | Steve Schneider |
-| 142 | 458 | Goose egg |
-| 143 | 458 | Plucky Ziggy |
+| 142 | 458 | Plucky Ziggy |
+| 143 | 458 | Goose egg |
 | 144 | 456 | Dee Perry |
 | 145 | 454 | Desiree Deschaine Havee |
 | 146 | 453 | Brandi Huntington |

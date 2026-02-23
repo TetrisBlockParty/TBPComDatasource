@@ -470,8 +470,8 @@
 | 462 | 267 | Michael Kimbro |
 | 463 | 266 | Quirky Dropzone |
 | 464 | 266 | Sarah Muradyan |
-| 465 | 264 | Colton |
-| 466 | 264 | Danielle Beaunoyer Jean |
+| 465 | 264 | Danielle Beaunoyer Jean |
+| 466 | 264 | Colton |
 | 467 | 264 | Reina Roth |
 | 468 | 262 | Kevin Russell |
 | 469 | 261 | Giggly Brickroll |
@@ -481,17 +481,17 @@
 | 473 | 259 | Shania Vaine |
 | 474 | 259 | Tegan Chapman |
 | 475 | 258 | Dana Fox |
-| 476 | 257 | Funky Brickster |
-| 477 | 257 | Chris Wallace |
-| 478 | 257 | Jana Polk |
-| 479 | 257 | Saucy Buildout |
+| 476 | 257 | Chris Wallace |
+| 477 | 257 | Funky Brickster |
+| 478 | 257 | Saucy Buildout |
+| 479 | 257 | Jana Polk |
 | 480 | 256 | Chenoa Urban Sophicated Redy |
 | 481 | 256 | Christina Rotz Shows |
 | 482 | 256 | Brysten Green |
 | 483 | 255 | Jolly Dashpiece |
 | 484 | 255 | Mariah Williams |
-| 485 | 254 | Blair Erin Waite |
-| 486 | 254 | Katheline Lazo Luizaga |
+| 485 | 254 | Katheline Lazo Luizaga |
+| 486 | 254 | Blair Erin Waite |
 | 487 | 253 | crystal |
 | 488 | 253 | Boldy Blocker |
 | 489 | 253 | Hyper Bridger |

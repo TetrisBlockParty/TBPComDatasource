@@ -295,8 +295,8 @@
 | 287 | 276 | Cynthia Boudreau |
 | 288 | 275 | Kimberlee Jan Beckstead |
 | 289 | 274 | Mr. Party |
-| 290 | 272 | Dennis Bradley |
-| 291 | 272 | Tony Pavelka |
+| 290 | 272 | Tony Pavelka |
+| 291 | 272 | Dennis Bradley |
 | 292 | 271 | Holly |
 | 293 | 270 | 23 |
 | 294 | 269 | Silly SeaWeed |
@@ -309,9 +309,9 @@
 | 301 | 265 | Sarah Neathery |
 | 302 | 264 | ZeeZee |
 | 303 | 263 | rebel4lyfe |
-| 304 | 262 | BigSammy420 |
+| 304 | 262 | Ruben Wheeler |
 | 305 | 262 | Selena Shaw |
-| 306 | 262 | Ruben Wheeler |
+| 306 | 262 | BigSammy420 |
 | 307 | 261 | Zethra Prenisha Rahming |
 | 308 | 260 | Carter Jones |
 | 309 | 259 | Allen Lloyd |
@@ -400,8 +400,8 @@
 | 392 | 214 | Susan R. Wilson |
 | 393 | 213 | Derick |
 | 394 | 212 | Mike Solo |
-| 395 | 211 | Shiny Pivoty |
-| 396 | 211 | Neirrah B Olailjeel |
+| 395 | 211 | Neirrah B Olailjeel |
+| 396 | 211 | Shiny Pivoty |
 | 397 | 210 | Vanessa Smart |
 | 398 | 210 | Cool Gridzone |
 | 399 | 210 | Jessica Atkinson |
@@ -623,8 +623,8 @@
 | 615 | 129 | Tamika Starkey |
 | 616 | 129 | Dreamy Snapgrid |
 | 617 | 129 | RIFATSIKDER |
-| 618 | 128 | Raymond Roberts |
-| 619 | 128 | Lazy Glidepiece |
+| 618 | 128 | Lazy Glidepiece |
+| 619 | 128 | Raymond Roberts |
 | 620 | 128 | Zesty Linkgrid |
 | 621 | 127 | Jay You |
 | 622 | 127 | Joe Lonnemann |

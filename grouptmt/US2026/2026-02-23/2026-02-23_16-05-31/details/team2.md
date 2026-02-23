@@ -377,8 +377,8 @@
 | 369 | 919 | Isaac Trappiel IV |
 | 370 | 916 | Butta |
 | 371 | 915 | Kelly Trent |
-| 372 | 914 | William Hunt |
-| 373 | 914 | Shuany Arias |
+| 372 | 914 | Shuany Arias |
+| 373 | 914 | William Hunt |
 | 374 | 913 | blume |
 | 375 | 909 | Valerie Brooke Lusk Armstrong |
 | 376 | 907 | Gene Mills |
@@ -919,8 +919,8 @@
 | 911 | 455 | Darlene Bowman |
 | 912 | 455 | Witty Piecebuilder |
 | 913 | 453 | Epic Stackzone |
-| 914 | 452 | Ashley Taylor |
-| 915 | 452 | Cranky Tower |
+| 914 | 452 | Cranky Tower |
+| 915 | 452 | Ashley Taylor |
 | 916 | 452 | Nerdy Blockpiece |
 | 917 | 452 | Tipsy Filler |
 | 918 | 452 | Rain |
