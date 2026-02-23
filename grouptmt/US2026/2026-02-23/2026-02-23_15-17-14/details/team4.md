@@ -108,8 +108,8 @@
 | 100 | 664 | Nugget |
 | 101 | 659 | Jamie Gustafson |
 | 102 | 650 | KJ Pool |
-| 103 | 647 | KM8 |
-| 104 | 647 | Shauna Havard |
+| 103 | 647 | Shauna Havard |
+| 104 | 647 | KM8 |
 | 105 | 639 | Chris Hartig |
 | 106 | 637 | Lori Walker |
 | 107 | 635 | Adawna Swires |
@@ -207,8 +207,8 @@
 | 199 | 367 | Sue Joyce Staats |
 | 200 | 365 | Jeff Brian Gates |
 | 201 | 363 | Cindy Looper |
-| 202 | 361 | Danielle Kollias |
-| 203 | 361 | Rafael Valentin |
+| 202 | 361 | Rafael Valentin |
+| 203 | 361 | Danielle Kollias |
 | 204 | 358 | A5! |
 | 205 | 358 | Twisty Cascadezone |
 | 206 | 355 | James Hurley Jr. |
@@ -217,8 +217,8 @@
 | 209 | 354 | Kris Bartlett |
 | 210 | 352 | April Rondinone |
 | 211 | 348 | David Lay |
-| 212 | 347 | Bio Nelly |
-| 213 | 347 | Daria Rycewicz |
+| 212 | 347 | Daria Rycewicz |
+| 213 | 347 | Bio Nelly |
 | 214 | 346 | shark tato |
 | 215 | 343 | HastyGrabber |
 | 216 | 341 | scott |
@@ -242,17 +242,17 @@
 | 234 | 316 | Autumn Kumzi |
 | 235 | 314 | Lindsay Ball |
 | 236 | 313 | Milan Markeisha |
-| 237 | 312 | Jen Caldwell |
-| 238 | 312 | Dihcheese444 |
-| 239 | 311 | Nikki Rae Gordon |
-| 240 | 311 | Mary Ann Pabukis |
+| 237 | 312 | Dihcheese444 |
+| 238 | 312 | Jen Caldwell |
+| 239 | 311 | Mary Ann Pabukis |
+| 240 | 311 | Nikki Rae Gordon |
 | 241 | 311 | Jason Gibbs |
 | 242 | 310 | Stacey Stano |
 | 243 | 308 | Leah Kutz Zirbel |
 | 244 | 307 | Cheery Risebuilder |
-| 245 | 307 | Michele Plunkett |
-| 246 | 307 | Tina Lopez |
-| 247 | 307 | Angie Schmidt |
+| 245 | 307 | Tina Lopez |
+| 246 | 307 | Angie Schmidt |
+| 247 | 307 | Michele Plunkett |
 | 248 | 306 | mike |
 | 249 | 305 | Melvin Baird |
 | 250 | 304 | Gdiguy |
@@ -372,8 +372,8 @@
 | 364 | 220 | Kenna Gunderland |
 | 365 | 220 | Ziggy |
 | 366 | 220 | Dustin York |
-| 367 | 219 | Orchislactea |
-| 368 | 219 | Shane Vick |
+| 367 | 219 | Shane Vick |
+| 368 | 219 | Orchislactea |
 | 369 | 218 | ĥuf |
 | 370 | 218 | Janita Parrish |
 | 371 | 217 | Cheery Fitline |
@@ -685,8 +685,8 @@
 | 677 | 115 | Jayk |
 | 678 | 115 | Mona Touchine |
 | 679 | 114 | Dan Wold |
-| 680 | 114 | Tammy Lewis |
-| 681 | 114 | Tiffany Tran |
+| 680 | 114 | Tiffany Tran |
+| 681 | 114 | Tammy Lewis |
 | 682 | 113 | Abigail Murphy |
 | 683 | 113 | Hog Crankin |
 | 684 | 112 | Ninaforever |
@@ -717,7 +717,7 @@
 | 709 | 109 | Bigmamatetrisqueen |
 | 710 | 109 | Nikisha Reed |
 | 711 | 108 | Willa Anne Nold Kay |
-| 712 | 108 | Stormy Tomplait |
+| 712 | 108 | Ali Ian |
 | 713 | 108 | Saundra Miller |
 | 714 | 108 | Stormy Tomplait |
 | 715 | 108 | Kevin Blevins |
@@ -774,8 +774,8 @@
 | 766 | 100 | Frances Hui |
 | 767 | 99 | Robert Everett |
 | 768 | 99 | Cranky Pivoty |
-| 769 | 99 | Kelly Williams |
-| 770 | 99 | Kanci McKnight |
+| 769 | 99 | Kanci McKnight |
+| 770 | 99 | Kelly Williams |
 | 771 | 98 | Bob N Alisha Hinojosa |
 | 772 | 98 | Diamond Johnson |
 | 773 | 98 | Jessi Cinotto |

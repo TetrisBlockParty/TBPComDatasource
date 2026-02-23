@@ -78,7 +78,7 @@
 | 70 | 3197 | Happy Blockroll |
 | 71 | 3116 | Izabel Herrera |
 | 72 | 3099 | Charie Holland |
-| 73 | 3095 | Macy Williams |
+| 73 | 3094 | Macy Williams |
 | 74 | 3074 | Becky Weeks-Garry |
 | 75 | 2909 | Paul Huber |
 | 76 | 2901 | RdRydnHd |
@@ -185,8 +185,8 @@
 | 177 | 1580 | Sally Dennis |
 | 178 | 1567 | Juliana Marques Do Nascimento Gordy |
 | 179 | 1564 | Amy Sayers |
-| 180 | 1558 | Tim Dyer |
-| 181 | 1558 | Crystal Slaughter |
+| 180 | 1558 | Crystal Slaughter |
+| 181 | 1558 | Tim Dyer |
 | 182 | 1555 | blarg |
 | 183 | 1549 | Desiree Harris Rosch |
 | 184 | 1542 | Mo Shine On |
@@ -269,8 +269,8 @@
 | 261 | 1183 | Poppy Snap |
 | 262 | 1179 | Georgia Triblett |
 | 263 | 1171 | Loretta Brewer-Gage |
-| 264 | 1165 | Christina Wsn |
-| 265 | 1165 | Michelle Lee |
+| 264 | 1165 | Michelle Lee |
+| 265 | 1165 | Christina Wsn |
 | 266 | 1163 | Erika Densmore |
 | 267 | 1160 | Sarah Ridenour |
 | 268 | 1158 | Brittany Clark |
@@ -702,16 +702,16 @@
 | 694 | 550 | Michelle Sager |
 | 695 | 550 | Bonita Kee |
 | 696 | 550 | Shorty |
-| 697 | 549 | Crystal Hodge Love |
-| 698 | 549 | Kaylee McCafferty |
+| 697 | 549 | Kaylee McCafferty |
+| 698 | 549 | Crystal Hodge Love |
 | 699 | 548 | Sunshine711 |
-| 700 | 547 | Sonya Back |
-| 701 | 547 | Heather M Purcell |
+| 700 | 547 | Heather M Purcell |
+| 701 | 547 | Sonya Back |
 | 702 | 546 | NanDa Cruzan VI |
 | 703 | 545 | Maxwell Escalera |
 | 704 | 544 | Deidre Shaffer |
-| 705 | 544 | Armonie Smith |
-| 706 | 544 | Snappy snappers |
+| 705 | 544 | Snappy snappers |
+| 706 | 544 | Armonie Smith |
 | 707 | 543 | Demitri Smith |
 | 708 | 543 | Lathasa Newkirk |
 | 709 | 542 | Christy Long |
