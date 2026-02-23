@@ -496,8 +496,8 @@
 | 488 | 689 | Gauri Shrotriya |
 | 489 | 686 | Christine Coughlin |
 | 490 | 684 | Sarah DeHart |
-| 491 | 684 | Ellie Jonas |
-| 492 | 684 | Ann Knutson Anderson |
+| 491 | 684 | Ann Knutson Anderson |
+| 492 | 684 | Ellie Jonas |
 | 493 | 682 | Vanessa Moreno |
 | 494 | 682 | Antionette Sewell |
 | 495 | 681 | Gloria Liu |
@@ -540,8 +540,8 @@
 | 532 | 642 | Michelle Fields |
 | 533 | 642 | Cassie Maynard |
 | 534 | 640 | Belle |
-| 535 | 639 | Rebecca Miller |
-| 536 | 639 | Alexandra Weir |
+| 535 | 639 | Alexandra Weir |
+| 536 | 639 | Rebecca Miller |
 | 537 | 639 | Libby Hicks |
 | 538 | 639 | Toni Roberson |
 | 539 | 638 | Leah Keesling |
@@ -1096,8 +1096,8 @@
 | 1088 | 352 | apokolypse |
 | 1089 | 352 | MrsClaudette Will'sIam Matthews |
 | 1090 | 352 | Kimmie Zimmerman-Rocha |
-| 1091 | 351 | Sara Pennington |
-| 1092 | 351 | Heather Renee Jeffers |
+| 1091 | 351 | Heather Renee Jeffers |
+| 1092 | 351 | Sara Pennington |
 | 1093 | 351 | Queen |
 | 1094 | 351 | LeVeL27 |
 | 1095 | 350 | Chris Harr |
@@ -1186,8 +1186,8 @@
 | 1178 | 325 | Kamilya Rembert |
 | 1179 | 325 | Laura Morrison |
 | 1180 | 325 | Virginia LaTour |
-| 1181 | 325 | MA Camacho |
-| 1182 | 325 | Diane P. Richardson |
+| 1181 | 325 | Diane P. Richardson |
+| 1182 | 325 | MA Camacho |
 | 1183 | 325 | Justin Hines |
 | 1184 | 324 | R |
 | 1185 | 324 | Juana Fokme |
