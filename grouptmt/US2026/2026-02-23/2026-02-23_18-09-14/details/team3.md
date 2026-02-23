@@ -219,8 +219,8 @@
 | 211 | 560 | Juliana Dottore |
 | 212 | 560 | FuzzyNavel |
 | 213 | 559 | Patti Skiles |
-| 214 | 558 | Chasity |
-| 215 | 558 | Bmo |
+| 214 | 558 | Bmo |
+| 215 | 558 | Chasity |
 | 216 | 549 | Sarah Cowan Burgos |
 | 217 | 548 | Danielle Balcom |
 | 218 | 547 | Staci George Fitzsimmons |
@@ -301,16 +301,16 @@
 | 293 | 414 | RickyG |
 | 294 | 412 | Jojo M |
 | 295 | 411 | Megan Rathmanner |
-| 296 | 410 | Brian Battjes |
-| 297 | 410 | Duane Bright |
-| 298 | 408 | Tiffany Ford |
-| 299 | 408 | Ashley Muncey |
+| 296 | 410 | Duane Bright |
+| 297 | 410 | Brian Battjes |
+| 298 | 408 | Ashley Muncey |
+| 299 | 408 | Tiffany Ford |
 | 300 | 406 | Kristal C Lee |
 | 301 | 405 | Desiree Gold |
 | 302 | 405 | Steffi Chris Dacones |
 | 303 | 403 | lashanda |
-| 304 | 403 | Scott Lindsay |
-| 305 | 403 | Stephanie Burtin |
+| 304 | 403 | Stephanie Burtin |
+| 305 | 403 | Scott Lindsay |
 | 306 | 400 | Dana Winters |
 | 307 | 398 | fraulila |
 | 308 | 397 | Heather De Vries Cobb |
@@ -550,8 +550,8 @@
 | 542 | 245 | Latoya Mayne |
 | 543 | 245 | Fredd Thomas |
 | 544 | 245 | Peachy Tower |
-| 545 | 244 | TLM |
-| 546 | 244 | Beezwax |
+| 545 | 244 | Beezwax |
+| 546 | 244 | TLM |
 | 547 | 244 | Amanda Fulton |
 | 548 | 243 | Nicholas Roddy |
 | 549 | 243 | Kristy Manley |

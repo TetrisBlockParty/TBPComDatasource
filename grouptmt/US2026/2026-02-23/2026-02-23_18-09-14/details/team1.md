@@ -96,8 +96,8 @@
 | 88 | 706 | Plucky Fallzone |
 | 89 | 704 | Jason Jones |
 | 90 | 704 | Karin Gillen |
-| 91 | 703 | Angel Fowler |
-| 92 | 703 | Kellie |
+| 91 | 703 | Kellie |
+| 92 | 703 | Angel Fowler |
 | 93 | 689 | Lexuriuos Lifestlye |
 | 94 | 679 | Hasbro Bros |
 | 95 | 671 | Chirpy Smasher |
@@ -146,8 +146,8 @@
 | 138 | 491 | cc |
 | 139 | 489 | Deanna L Hermanson |
 | 140 | 488 | Hyper |
-| 141 | 487 | Rebekah LeiAnn Bonsell |
-| 142 | 487 | Kandae |
+| 141 | 487 | Kandae |
+| 142 | 487 | Rebekah LeiAnn Bonsell |
 | 143 | 486 | Dee Perry |
 | 144 | 483 | Trina Gee |
 | 145 | 478 | Sarah Somers Gray |
@@ -232,11 +232,11 @@
 | 224 | 357 | Shiny Snapfit |
 | 225 | 357 | Paula Martin |
 | 226 | 357 | Teri Oehlke |
-| 227 | 354 | Dino |
-| 228 | 354 | Chuck Gannon |
+| 227 | 354 | Chuck Gannon |
+| 228 | 354 | Dino |
 | 229 | 354 | Tami Luce Martin |
-| 230 | 353 | Reesey Enyart |
-| 231 | 353 | Josh Riemer |
+| 230 | 353 | Josh Riemer |
+| 231 | 353 | Reesey Enyart |
 | 232 | 353 | Jaimie Lynn |
 | 233 | 350 | Tipsy Strikerpiece |
 | 234 | 350 | Dizzy Slider |
@@ -250,8 +250,8 @@
 | 242 | 339 | Tyler Hertzog |
 | 243 | 338 | Layzietyme |
 | 244 | 337 | Jamise Brown |
-| 245 | 335 | Keith Mathis |
-| 246 | 335 | Eric DeSimone |
+| 245 | 335 | Eric DeSimone |
+| 246 | 335 | Keith Mathis |
 | 247 | 334 | Tipsy Builder |
 | 248 | 333 | Jennifer Noe Chandler |
 | 249 | 332 | Eddie Dillon |

@@ -706,11 +706,11 @@
 | 698 | 586 | Tra Barnum |
 | 699 | 585 | Taylor Flowers |
 | 700 | 585 | Wuntayk |
-| 701 | 585 | Shelva Richard |
-| 702 | 585 | Laquetta Royston |
+| 701 | 585 | Laquetta Royston |
+| 702 | 585 | Shelva Richard |
 | 703 | 582 | Joseph Musick |
-| 704 | 581 | AsnPryBoy83 |
-| 705 | 581 | Frisky Riserbuilder |
+| 704 | 581 | Frisky Riserbuilder |
+| 705 | 581 | AsnPryBoy83 |
 | 706 | 580 | Cheery Matchzone |
 | 707 | 580 | Kristie Wilcox |
 | 708 | 579 | Roy Salyer |

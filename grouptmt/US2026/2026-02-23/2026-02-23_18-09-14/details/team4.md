@@ -199,8 +199,8 @@
 | 191 | 418 | Lush Linkfall |
 | 192 | 417 | Amanda Pauldo-Ivy |
 | 193 | 415 | Berklie Apedaile |
-| 194 | 413 | John Brunetti |
-| 195 | 413 | Circuit8 |
+| 194 | 413 | Circuit8 |
+| 195 | 413 | John Brunetti |
 | 196 | 411 | Autumn Kumzi |
 | 197 | 410 | Oscar Alberto Perez |
 | 198 | 408 | April Rondinone |
