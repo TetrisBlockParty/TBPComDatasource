@@ -137,8 +137,8 @@
 | 129 | 1639 | Karen Martini-Stapleton |
 | 130 | 1632 | Qiana Sanders |
 | 131 | 1631 | Speedy Spinblock |
-| 132 | 1623 | Mr. Street Stack |
-| 133 | 1623 | Rebecca Doughman |
+| 132 | 1623 | Rebecca Doughman |
+| 133 | 1623 | Mr. Street Stack |
 | 134 | 1622 | Mari Ac |
 | 135 | 1614 | Janel Turley-Garner |
 | 136 | 1601 | Ray Ray Prado |
@@ -386,8 +386,8 @@
 | 378 | 757 | Misti Markijohn |
 | 379 | 755 | Taryece Gause |
 | 380 | 751 | Loony Snapper |
-| 381 | 748 | Stephanie Lumanlan |
-| 382 | 748 | Brenda Utphall |
+| 381 | 748 | Brenda Utphall |
+| 382 | 748 | Stephanie Lumanlan |
 | 383 | 747 | Kiely Tomaskovich |
 | 384 | 746 | Leslie Ann Carter |
 | 385 | 746 | Jerilyn Andrina |

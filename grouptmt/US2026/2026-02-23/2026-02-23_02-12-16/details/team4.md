@@ -132,17 +132,17 @@
 | 124 | 451 | Peachy Fall |
 | 125 | 451 | Angela Srubar-Norman |
 | 126 | 448 | Kristin Manee |
-| 127 | 435 | Leslie Thomas |
-| 128 | 435 | Ren Mc |
+| 127 | 435 | Ren Mc |
+| 128 | 435 | Leslie Thomas |
 | 129 | 431 | Courtney Cicoria |
 | 130 | 421 | Kesha Brady |
 | 131 | 421 | JIGsaw ~(•¿°)~ |
 | 132 | 418 | Marie-Pier Desjardins |
 | 133 | 418 | Monica Daley |
-| 134 | 418 | Marie-Pier Desjardins |
+| 134 | 418 | Lush Linkfall |
 | 135 | 414 | Nope Young |
-| 136 | 413 | Kristina Black |
-| 137 | 413 | Chaz Duncan |
+| 136 | 413 | Chaz Duncan |
+| 137 | 413 | Kristina Black |
 | 138 | 412 | Jessica Bohlken |
 | 139 | 408 | Amanda Pauldo-Ivy |
 | 140 | 402 | Ericca Eldridge |
@@ -236,8 +236,8 @@
 | 228 | 265 | Sarah Neathery |
 | 229 | 264 | Carlos Ramirez |
 | 230 | 260 | Selena Shaw |
-| 231 | 259 | Cheery Risebuilder |
-| 232 | 259 | Montiette Mcglown |
+| 231 | 259 | Montiette Mcglown |
+| 232 | 259 | Cheery Risebuilder |
 | 233 | 257 | PeaceOs |
 | 234 | 256 | Mylo Lipscomb |
 | 235 | 253 | JPW |
@@ -247,9 +247,9 @@
 | 239 | 248 | Chirpy Basepiece |
 | 240 | 246 | Metsfan |
 | 241 | 246 | Stella |
-| 242 | 246 | Metsfan |
-| 243 | 245 | 23 |
-| 244 | 245 | Autum Leigh |
+| 242 | 246 | Zethra Prenisha Rahming |
+| 243 | 245 | Autum Leigh |
+| 244 | 245 | 23 |
 | 245 | 244 | Christina Black |
 | 246 | 243 | Nick Gray |
 | 247 | 241 | Allen Lloyd |

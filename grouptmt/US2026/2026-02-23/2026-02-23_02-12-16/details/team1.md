@@ -185,8 +185,8 @@
 | 177 | 315 | Tyler Werts |
 | 178 | 313 | Jerry Danowski |
 | 179 | 312 | Kimberly Garcia |
-| 180 | 312 | Jessi Sauer |
-| 181 | 312 | Mike Ames |
+| 180 | 312 | Mike Ames |
+| 181 | 312 | Jessi Sauer |
 | 182 | 307 | femmefatale |
 | 183 | 306 | J.F. Fields |
 | 184 | 306 | Bloknboy |

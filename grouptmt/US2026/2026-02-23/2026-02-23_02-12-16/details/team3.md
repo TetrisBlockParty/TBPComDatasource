@@ -61,8 +61,8 @@
 | 53 | 1276 | Aaron Pitkin |
 | 54 | 1269 | Amber Jones |
 | 55 | 1258 | Jennifer Petrie |
-| 56 | 1256 | Jessica Bechler |
-| 57 | 1256 | Mahman |
+| 56 | 1256 | Mahman |
+| 57 | 1256 | Jessica Bechler |
 | 58 | 1191 | Nate Burnside |
 | 59 | 1167 | Elaine Webb Graves |
 | 60 | 1141 | Queen Kam |
@@ -254,8 +254,8 @@
 | 246 | 362 | Brandon Givens |
 | 247 | 361 | Shawn Miller |
 | 248 | 360 | Sheila M Frazier |
-| 249 | 357 | Stephanie Burtin |
-| 250 | 357 | Ammmmmmy |
+| 249 | 357 | Ammmmmmy |
+| 250 | 357 | Stephanie Burtin |
 | 251 | 352 | Samantha Lynn |
 | 252 | 352 | Christian Werndl |
 | 253 | 351 | Eon Harris |
@@ -285,8 +285,8 @@
 | 277 | 325 | Tasha Wesson-Torrence |
 | 278 | 324 | Sissy Lowery Davis |
 | 279 | 322 | Nena Somerville Kelly |
-| 280 | 320 | Ashley Muncey |
-| 281 | 320 | Or Reznitsky |
+| 280 | 320 | Or Reznitsky |
+| 281 | 320 | Ashley Muncey |
 | 282 | 312 | Twisty Brick LT |
 | 283 | 312 | LadyTorad |
 | 284 | 309 | Felicia Rocha |
