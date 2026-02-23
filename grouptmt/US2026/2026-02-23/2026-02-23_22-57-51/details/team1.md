@@ -36,8 +36,8 @@
 | 28 | 1582 | Joe Smith |
 | 29 | 1580 | Jennifer Cates |
 | 30 | 1527 | Hyp James NObettadanluvarat |
-| 31 | 1520 | Ashley Elizabeth |
-| 32 | 1520 | Lola Adkhambekovna |
+| 31 | 1520 | Lola Adkhambekovna |
+| 32 | 1520 | Ashley Elizabeth |
 | 33 | 1515 | Felicia Lewis |
 | 34 | 1467 | Christina Graham |
 | 35 | 1413 | Trippy Redd |
@@ -94,8 +94,8 @@
 | 86 | 789 | Cynthia Bradley |
 | 87 | 772 | Tinah Montanna |
 | 88 | 770 | Zappy Curvetile |
-| 89 | 760 | Kandae |
-| 90 | 760 | Amanda Johnson Huffman |
+| 89 | 760 | Amanda Johnson Huffman |
+| 90 | 760 | Kandae |
 | 91 | 758 | Ash Galvan |
 | 92 | 756 | Cartier |
 | 93 | 747 | Robert Benito |
@@ -103,8 +103,8 @@
 | 95 | 742 | Susanna Guerry |
 | 96 | 740 | Lori Sanders- Davis |
 | 97 | 722 | Kellie |
-| 98 | 706 | Denice Dee |
-| 99 | 706 | Plucky Fallzone |
+| 98 | 706 | Plucky Fallzone |
+| 99 | 706 | Denice Dee |
 | 100 | 704 | Karin Gillen |
 | 101 | 703 | Angel Fowler |
 | 102 | 679 | Melissa Lemmon |
@@ -175,8 +175,8 @@
 | 167 | 476 | Snappy Matcher |
 | 168 | 470 | Candy Jones |
 | 169 | 468 | Steve Schneider |
-| 170 | 463 | Nicole Roseberry Weber |
-| 171 | 463 | Brandi Huntington |
+| 170 | 463 | Brandi Huntington |
+| 171 | 463 | Nicole Roseberry Weber |
 | 172 | 462 | Hasty Cascader |
 | 173 | 459 | canbrick |
 | 174 | 458 | Dizzy Slider |
@@ -289,8 +289,8 @@
 | 281 | 333 | Rodney Schmerfeld |
 | 282 | 333 | Wayne Saunders |
 | 283 | 332 | Eddie Dillon |
-| 284 | 330 | Jeremy Maubert |
-| 285 | 330 | Rebecca Apley Mielke |
+| 284 | 330 | Rebecca Apley Mielke |
+| 285 | 330 | Jeremy Maubert |
 | 286 | 329 | Marianita Garcia |
 | 287 | 328 | Buttons Stemm |
 | 288 | 325 | Snappy Brickbuilder |
@@ -680,9 +680,9 @@
 | 672 | 151 | Chummy Risebuilder |
 | 673 | 150 | Prometheus |
 | 674 | 149 | Goobette |
-| 675 | 148 | Krazykat💋❤️💋 |
-| 676 | 148 | MamaB24 |
-| 677 | 148 | Krazykat💋❤️💋 |
+| 675 | 148 | MamaB24 |
+| 676 | 148 | Krazykat💋❤️💋 |
+| 677 | 148 | Daniel Lorquet |
 | 678 | 147 | Jodee Woods |
 | 679 | 147 | Lil H |
 | 680 | 147 | Javyjavz |

@@ -265,11 +265,11 @@
 | 257 | 365 | Hyper Builder |
 | 258 | 363 | KimoKoala |
 | 259 | 361 | Danielle Kollias |
-| 260 | 360 | James Hurley Jr. |
-| 261 | 360 | Ari Droff |
+| 260 | 360 | Ari Droff |
+| 261 | 360 | James Hurley Jr. |
 | 262 | 358 | Twisty Cascadezone |
-| 263 | 356 | mike |
-| 264 | 356 | Joeliecea Cobb |
+| 263 | 356 | Joeliecea Cobb |
+| 264 | 356 | mike |
 | 265 | 355 | David Lay |
 | 266 | 353 | Chaz |
 | 267 | 352 | scott |
@@ -277,11 +277,11 @@
 | 269 | 350 | Jen Caldwell |
 | 270 | 349 | jim |
 | 271 | 348 | blasterB |
-| 272 | 347 | Gdiguy |
-| 273 | 347 | Daria Rycewicz |
+| 272 | 347 | Daria Rycewicz |
+| 273 | 347 | Gdiguy |
 | 274 | 343 | HastyGrabber |
-| 275 | 340 | Lauren Lamb |
-| 276 | 340 | Cranky Rollpiece |
+| 275 | 340 | Cranky Rollpiece |
+| 276 | 340 | Lauren Lamb |
 | 277 | 340 | Amanda Maciel Clarke |
 | 278 | 330 | Sandra Safford |
 | 279 | 329 | Joanna |

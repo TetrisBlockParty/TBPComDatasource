@@ -546,8 +546,8 @@
 | 538 | 778 | tejas25 |
 | 539 | 778 | Breezy Filler |
 | 540 | 777 | Tesha Oldaker |
-| 541 | 776 | Fancy Twister |
-| 542 | 776 | BeQuo |
+| 541 | 776 | BeQuo |
+| 542 | 776 | Fancy Twister |
 | 543 | 774 | Cherrica Newman |
 | 544 | 771 | Stephanie Lumanlan |
 | 545 | 771 | Darla Silva |
@@ -622,8 +622,8 @@
 | 614 | 703 | Emilee Burke |
 | 615 | 702 | Brittney Jean |
 | 616 | 701 | Aishah Brice |
-| 617 | 700 | Beverly Owens |
-| 618 | 700 | Vincent Petrella |
+| 617 | 700 | Vincent Petrella |
+| 618 | 700 | Beverly Owens |
 | 619 | 695 | Diane P. Richardson |
 | 620 | 694 | Giggly Snap |
 | 621 | 694 | Lyndi Robinson Wakefield |
