@@ -85,8 +85,8 @@
 | 77 | 646 | Susanna Guerry |
 | 78 | 612 | Hasbro Bros |
 | 79 | 599 | Cynthia Bradley |
-| 80 | 598 | Kellie |
-| 81 | 598 | Erin Hodges Plumb |
+| 80 | 598 | Erin Hodges Plumb |
+| 81 | 598 | Kellie |
 | 82 | 597 | Evie Khalil |
 | 83 | 588 | Greg Hart |
 | 84 | 584 | Jen Sartain |

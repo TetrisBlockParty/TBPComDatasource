@@ -122,8 +122,8 @@
 | 114 | 514 | Scott Jameson |
 | 115 | 514 | Serena Goodridge |
 | 116 | 513 | Erin Thomas |
-| 117 | 512 | Cristy Duerksen |
-| 118 | 512 | Casey Jeffcoat |
+| 117 | 512 | Casey Jeffcoat |
+| 118 | 512 | Cristy Duerksen |
 | 119 | 511 | Lori Walker |
 | 120 | 489 | Chilly Crasher |
 | 121 | 482 | Ren Mc |
@@ -139,11 +139,11 @@
 | 131 | 435 | Leslie Thomas |
 | 132 | 431 | Courtney Cicoria |
 | 133 | 425 | Monica Daley |
-| 134 | 421 | Kesha Brady |
-| 135 | 421 | JIGsaw ~(•¿°)~ |
+| 134 | 421 | JIGsaw ~(•¿°)~ |
+| 135 | 421 | Kesha Brady |
 | 136 | 419 | Klo |
-| 137 | 418 | Marie-Pier Desjardins |
-| 138 | 418 | Lush Linkfall |
+| 137 | 418 | Lush Linkfall |
+| 138 | 418 | Marie-Pier Desjardins |
 | 139 | 416 | Chaz Duncan |
 | 140 | 414 | Nope Young |
 | 141 | 412 | Jessica Bohlken |
@@ -163,8 +163,8 @@
 | 155 | 377 | Carrie Brian |
 | 156 | 375 | ThaEviLJeNiuZ |
 | 157 | 375 | Desi Desporte |
-| 158 | 374 | Leslie Nicole |
-| 159 | 374 | Guy Incognito |
+| 158 | 374 | Guy Incognito |
+| 159 | 374 | Leslie Nicole |
 | 160 | 370 | Oscar Alberto Perez |
 | 161 | 369 | Lindsey Gonzalez |
 | 162 | 368 | Brandon Crabbs |
@@ -461,7 +461,7 @@
 | 453 | 150 | Kujuanna Hammon |
 | 454 | 149 | Melissa VanBourgondien |
 | 455 | 149 | Boldy Linkpiece |
-| 456 | 149 | Melissa VanBourgondien |
+| 456 | 149 | Sallie Sanborn |
 | 457 | 148 | Gdiguy |
 | 458 | 147 | Shirl |
 | 459 | 147 | Jay28 |

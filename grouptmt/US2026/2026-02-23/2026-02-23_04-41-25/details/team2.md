@@ -107,8 +107,8 @@
 | 99 | 2155 | Qiana Sanders |
 | 100 | 2148 | Roger Grabbit |
 | 101 | 2146 | KellyDyan |
-| 102 | 2132 | Christopher Sanders |
-| 103 | 2132 | Giddy Gridclear |
+| 102 | 2132 | Giddy Gridclear |
+| 103 | 2132 | Christopher Sanders |
 | 104 | 2118 | Zappy Cascade |
 | 105 | 2106 | Cool Rollpiece |
 | 106 | 2103 | Alisha Peoples |
@@ -248,10 +248,10 @@
 | 240 | 1121 | Sarah Freitas |
 | 241 | 1120 | Chirpy Staggerpiece |
 | 242 | 1114 | Ginnell Browner |
-| 243 | 1114 | Kevin Walp |
-| 244 | 1114 | Maria Escobar |
-| 245 | 1111 | Julay |
-| 246 | 1111 | Moose Griffith |
+| 243 | 1114 | Maria Escobar |
+| 244 | 1114 | Kevin Walp |
+| 245 | 1111 | Moose Griffith |
+| 246 | 1111 | Julay |
 | 247 | 1109 | Eric Carlson |
 | 248 | 1105 | Nerdy Clearfit |
 | 249 | 1103 | William Meussner |
@@ -312,8 +312,8 @@
 | 304 | 955 | Angela Bonquiqui Dinish |
 | 305 | 954 | Melissa McCall |
 | 306 | 951 | Cynthia Ward |
-| 307 | 947 | Dedra Steward |
-| 308 | 947 | Brittany Radaszewski |
+| 307 | 947 | Brittany Radaszewski |
+| 308 | 947 | Dedra Steward |
 | 309 | 941 | Cool Clearer |
 | 310 | 939 | SaraMarie Eveland |
 | 311 | 939 | Cindy Sechler Taninecz |
@@ -325,8 +325,8 @@
 | 317 | 914 | Shuany Arias |
 | 318 | 907 | Gene Mills |
 | 319 | 907 | Michelle Lee |
-| 320 | 904 | Jennifer Aiken |
-| 321 | 904 | John Bednarik |
+| 320 | 904 | John Bednarik |
+| 321 | 904 | Jennifer Aiken |
 | 322 | 904 | Bee |
 | 323 | 902 | William Hunt |
 | 324 | 901 | Kevin Sees |
@@ -639,9 +639,9 @@
 | 631 | 517 | Daring Caster |
 | 632 | 516 | Diamond Scott |
 | 633 | 515 | Gina Bahn |
-| 634 | 515 | Klee |
-| 635 | 515 | Adam Simmons |
-| 636 | 515 | Frisky Riserbuilder |
+| 634 | 515 | Adam Simmons |
+| 635 | 515 | Frisky Riserbuilder |
+| 636 | 515 | Klee |
 | 637 | 514 | DefaultUser |
 | 638 | 514 | Karen Posadas Centeno |
 | 639 | 513 | MrsCandyfine As Wine Truss |

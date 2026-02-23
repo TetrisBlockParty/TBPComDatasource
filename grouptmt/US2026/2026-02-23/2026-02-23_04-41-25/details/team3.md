@@ -272,8 +272,8 @@
 | 264 | 357 | Ammmmmmy |
 | 265 | 354 | Kelly |
 | 266 | 353 | Dee Franklin |
-| 267 | 352 | Christian Werndl |
-| 268 | 352 | Samantha Lynn |
+| 267 | 352 | Samantha Lynn |
+| 268 | 352 | Christian Werndl |
 | 269 | 351 | Eon Harris |
 | 270 | 350 | LaShey Thompson |
 | 271 | 349 | Amanda J. Mcneil-Anderson |
@@ -443,14 +443,14 @@
 | 435 | 231 | Frothy Snapper |
 | 436 | 230 | BigE |
 | 437 | 230 | DanceLuvLaugh |
-| 438 | 230 | BigE |
+| 438 | 230 | Angella Lyons |
 | 439 | 229 | Everret Maxine |
 | 440 | 228 | Stephanie Hill |
 | 441 | 228 | Tia |
 | 442 | 227 | Meowsa |
 | 443 | 227 | Rebel124 |
-| 444 | 226 | Jana Polk |
-| 445 | 226 | Ryan Williams |
+| 444 | 226 | Ryan Williams |
+| 445 | 226 | Jana Polk |
 | 446 | 225 | Goofy Fall |
 | 447 | 225 | Sassy Tiler |
 | 448 | 224 | Christina Rotz Shows |
