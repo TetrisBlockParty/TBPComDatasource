@@ -218,8 +218,8 @@
 | 210 | 1245 | Cody Nishimura |
 | 211 | 1240 | Brandon Armstrong |
 | 212 | 1237 | Megan Ferguson Leone |
-| 213 | 1232 | Ambyre Patterson |
-| 214 | 1232 | Groovy Puzzle |
+| 213 | 1232 | Groovy Puzzle |
+| 214 | 1232 | Ambyre Patterson |
 | 215 | 1230 | Megan Garrick |
 | 216 | 1221 | Jane Fong |
 | 217 | 1217 | Lucky Ladybug |
@@ -306,8 +306,8 @@
 | 298 | 976 | Sam Joe |
 | 299 | 976 | Della Hole |
 | 300 | 975 | Hyper Cluster |
-| 301 | 972 | Binyah-Binyah |
-| 302 | 972 | Barbra Miller |
+| 301 | 972 | Barbra Miller |
+| 302 | 972 | Binyah-Binyah |
 | 303 | 971 | Jojo Momma |
 | 304 | 969 | Em Chen |
 | 305 | 969 | Boldy Cascadepiece |
@@ -333,8 +333,8 @@
 | 325 | 915 | Kelly Trent |
 | 326 | 914 | Shuany Arias |
 | 327 | 907 | Gene Mills |
-| 328 | 904 | John Bednarik |
-| 329 | 904 | Jennifer Aiken |
+| 328 | 904 | Jennifer Aiken |
+| 329 | 904 | John Bednarik |
 | 330 | 904 | Bee |
 | 331 | 903 | Giggy Blocker |
 | 332 | 902 | William Hunt |
@@ -544,17 +544,17 @@
 | 536 | 617 | Kacee Conrad Bock |
 | 537 | 617 | Darcy Mae |
 | 538 | 615 | Nerdy Pattern |
-| 539 | 615 | Julio A Laracuente |
-| 540 | 615 | Lyndi Robinson Wakefield |
-| 541 | 614 | Jessica S Flecha |
-| 542 | 614 | Emilee Burke |
+| 539 | 615 | Lyndi Robinson Wakefield |
+| 540 | 615 | Julio A Laracuente |
+| 541 | 614 | Emilee Burke |
+| 542 | 614 | Jessica S Flecha |
 | 543 | 613 | Biggest thing |
 | 544 | 612 | Briana Alexander |
 | 545 | 612 | Slinky Racker |
 | 546 | 610 | Michael Buckner |
-| 547 | 609 | Cecilia A Jenkins |
-| 548 | 609 | Smashanator |
-| 549 | 609 | Autumn Schaeffer |
+| 547 | 609 | Smashanator |
+| 548 | 609 | Autumn Schaeffer |
+| 549 | 609 | Cecilia A Jenkins |
 | 550 | 607 | Mo Shine On |
 | 551 | 606 | Lea Stewart |
 | 552 | 605 | Jermaine Harris |
@@ -575,8 +575,8 @@
 | 567 | 592 | Sheronda Jackson |
 | 568 | 590 | Maddy Petersen |
 | 569 | 589 | Thomas Hedrick |
-| 570 | 589 | Shavonna Haynes |
-| 571 | 589 | Kelly Templeton |
+| 570 | 589 | Kelly Templeton |
+| 571 | 589 | Shavonna Haynes |
 | 572 | 588 | Kitybox |
 | 573 | 587 | Ben Barkley |
 | 574 | 585 | Sarah Berger |
@@ -917,8 +917,8 @@
 | 909 | 396 | Debbie Gerlib-Molinari Leigh |
 | 910 | 395 | Treshell Boyd |
 | 911 | 395 | Donald Nowland |
-| 912 | 394 | Snappy Shatterfit |
-| 913 | 394 | Nerdy Blockpiece |
+| 912 | 394 | Nerdy Blockpiece |
+| 913 | 394 | Snappy Shatterfit |
 | 914 | 393 | Jamie West |
 | 915 | 393 | Bing |
 | 916 | 393 | Jannan Haimour |
