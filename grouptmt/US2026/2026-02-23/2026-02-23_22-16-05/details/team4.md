@@ -195,8 +195,8 @@
 | 187 | 465 | Jolly Dashfit |
 | 188 | 464 | Sharyn Lemire |
 | 189 | 462 | Leslie Thomas |
-| 190 | 457 | June Hoffman |
-| 191 | 457 | Kristin Manee |
+| 190 | 457 | Kristin Manee |
+| 191 | 457 | June Hoffman |
 | 192 | 455 | Michele Plunkett |
 | 193 | 450 | Amanda Pauldo-Ivy |
 | 194 | 449 | Rebecca Morris |
@@ -226,8 +226,8 @@
 | 218 | 418 | Marie-Pier Desjardins |
 | 219 | 413 | John Brunetti |
 | 220 | 411 | Mimi |
-| 221 | 411 | Silly Zonebuilder |
-| 222 | 411 | Autumn Kumzi |
+| 221 | 411 | Autumn Kumzi |
+| 222 | 411 | Silly Zonebuilder |
 | 223 | 409 | Antony Dwayne Beasley |
 | 224 | 400 | TinyLegoRose |
 | 225 | 399 | Lindsay Ball |
@@ -235,8 +235,8 @@
 | 227 | 398 | Tyler Terrific |
 | 228 | 394 | Nita Wells |
 | 229 | 390 | Kathy Brookins |
-| 230 | 389 | Brickh4us |
-| 231 | 389 | Joseph Guthrie |
+| 230 | 389 | Joseph Guthrie |
+| 231 | 389 | Brickh4us |
 | 232 | 388 | Calvin Cannon |
 | 233 | 385 | 030Synner |
 | 234 | 384 | Bio Nelly |
@@ -256,8 +256,8 @@
 | 248 | 369 | Rafael Valentin |
 | 249 | 368 | Kris Bartlett |
 | 250 | 367 | Meg |
-| 251 | 366 | Andrew Dang |
-| 252 | 366 | Cheery Risebuilder |
+| 251 | 366 | Cheery Risebuilder |
+| 252 | 366 | Andrew Dang |
 | 253 | 365 | Hyper Builder |
 | 254 | 363 | KimoKoala |
 | 255 | 363 | TRCuse |
@@ -295,7 +295,7 @@
 | 287 | 316 | Stella |
 | 288 | 315 | Vic |
 | 289 | 314 | Lora |
-| 290 | 313 | Milan Markeisha |
+| 290 | 313 | DonMega |
 | 291 | 313 | Jason Gibbs |
 | 292 | 313 | Angie Schmidt |
 | 293 | 313 | Milan Markeisha |
@@ -306,8 +306,8 @@
 | 298 | 307 | Tina Lopez |
 | 299 | 307 | Kim Klutz Olson |
 | 300 | 306 | PeaceOs |
-| 301 | 305 | Sassy Pattern |
-| 302 | 305 | Heather Bruce |
+| 301 | 305 | Heather Bruce |
+| 302 | 305 | Sassy Pattern |
 | 303 | 305 | Megan Cutshaw |
 | 304 | 300 | Kate |
 | 305 | 300 | Dana Scott |
@@ -347,9 +347,9 @@
 | 339 | 278 | Zethra Prenisha Rahming |
 | 340 | 278 | Angela Geist Jusinski |
 | 341 | 276 | Silly SeaWeed |
-| 342 | 276 | Cynthia Boudreau |
-| 343 | 276 | Susan Williams |
-| 344 | 276 | Lee Silpe |
+| 342 | 276 | Susan Williams |
+| 343 | 276 | Lee Silpe |
+| 344 | 276 | Cynthia Boudreau |
 | 345 | 275 | meowmew |
 | 346 | 274 | Jenna McGeorge |
 | 347 | 273 | Shiny Pivoty |
@@ -384,8 +384,8 @@
 | 376 | 257 | Michael Snow |
 | 377 | 256 | Mackenzie Forrester |
 | 378 | 256 | Jason Bosco |
-| 379 | 255 | Sallie Sanborn |
-| 380 | 255 | PennyCandee |
+| 379 | 255 | PennyCandee |
+| 380 | 255 | Sallie Sanborn |
 | 381 | 253 | Chair |
 | 382 | 253 | Autum Leigh |
 | 383 | 252 | Maureen Flanigan |

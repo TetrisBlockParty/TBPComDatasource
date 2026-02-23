@@ -280,13 +280,13 @@
 | 272 | 490 | Marci Mize Fandrich |
 | 273 | 486 | Eileen Brady Thurber |
 | 274 | 482 | Chummy Rumbler |
-| 275 | 482 | Fancy Curver |
-| 276 | 482 | Isabel Ocasio |
+| 275 | 482 | Isabel Ocasio |
+| 276 | 482 | Fancy Curver |
 | 277 | 479 | Stephanie Bradley |
 | 278 | 477 | Hyper Matchzone |
 | 279 | 476 | Shunta Jacobs |
-| 280 | 475 | Tasha Wesson-Torrence |
-| 281 | 475 | Rebecca Bailey |
+| 280 | 475 | Rebecca Bailey |
+| 281 | 475 | Tasha Wesson-Torrence |
 | 282 | 474 | Tiffanie Alley |
 | 283 | 473 | Rebecca Funderburk Kirby |
 | 284 | 471 | Mendoza Lee Christy |
@@ -304,8 +304,8 @@
 | 296 | 453 | Sarah Moyer |
 | 297 | 451 | Charles Perrone |
 | 298 | 450 | Antonia Russell |
-| 299 | 449 | Mcathen |
-| 300 | 449 | Stefanie LaPointe |
+| 299 | 449 | Stefanie LaPointe |
+| 300 | 449 | Mcathen |
 | 301 | 448 | Scott Carleton |
 | 302 | 443 | Randy Clevenger |
 | 303 | 437 | Loopy Clusterer |
@@ -426,15 +426,15 @@
 | 418 | 328 | Desiree Soto |
 | 419 | 327 | Jimmie Clemons |
 | 420 | 326 | Beppy |
-| 421 | 324 | Blair Erin Waite |
-| 422 | 324 | Sissy Lowery Davis |
+| 421 | 324 | Sissy Lowery Davis |
+| 422 | 324 | Blair Erin Waite |
 | 423 | 323 | Mary Giorgenti |
 | 424 | 323 | Spencer Nikki |
 | 425 | 323 | Erykah |
 | 426 | 323 | Sharisse Baltimore |
 | 427 | 323 | Jess Bissett |
-| 428 | 322 | Beth Smith |
-| 429 | 322 | Nena Somerville Kelly |
+| 428 | 322 | Nena Somerville Kelly |
+| 429 | 322 | Beth Smith |
 | 430 | 321 | Jl |
 | 431 | 320 | Or Reznitsky |
 | 432 | 320 | Kevin Russell |

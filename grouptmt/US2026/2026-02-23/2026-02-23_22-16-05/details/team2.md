@@ -327,8 +327,8 @@
 | 319 | 1156 | Arkei Luster |
 | 320 | 1155 | F-X |
 | 321 | 1145 | Deborah Miller |
-| 322 | 1142 | April Dawn Gussler |
-| 323 | 1142 | Sheniya Spurgeon |
+| 322 | 1142 | Sheniya Spurgeon |
+| 323 | 1142 | April Dawn Gussler |
 | 324 | 1140 | Kimberly Hauck-Rausch |
 | 325 | 1139 | Carl Bradshaw |
 | 326 | 1139 | Aireka Roman |
@@ -490,8 +490,8 @@
 | 482 | 833 | Christie |
 | 483 | 832 | Catherine Marsh Gruda |
 | 484 | 831 | Lexie Burke |
-| 485 | 831 | Victoria Moore-Smith |
-| 486 | 831 | Gary Stash |
+| 485 | 831 | Gary Stash |
+| 486 | 831 | Victoria Moore-Smith |
 | 487 | 831 | Victoria Regina Girolami |
 | 488 | 830 | Sabrina Burton |
 | 489 | 830 | Connie Jimenez |
@@ -571,8 +571,8 @@
 | 563 | 749 | Frothy Rumbler |
 | 564 | 747 | Frisky Clearpiece |
 | 565 | 744 | Mikayala Szaz |
-| 566 | 742 | Frisky Riserbuilder |
-| 567 | 742 | Cassie Maynard |
+| 566 | 742 | Cassie Maynard |
+| 567 | 742 | Frisky Riserbuilder |
 | 568 | 741 | Davetta Sanford |
 | 569 | 741 | Giggy Mover |
 | 570 | 740 | Jerry Tempelmeyer |
@@ -796,8 +796,8 @@
 | 788 | 569 | Nat |
 | 789 | 568 | Snippy Rumbler |
 | 790 | 568 | Stacey Tranchida |
-| 791 | 567 | Epic Fitzone |
-| 792 | 567 | Ryan Meilleur |
+| 791 | 567 | Ryan Meilleur |
+| 792 | 567 | Epic Fitzone |
 | 793 | 567 | Lisa Moone |
 | 794 | 566 | Cathleena Giusto |
 | 795 | 565 | Alice Ball |

@@ -247,8 +247,8 @@
 | 239 | 363 | Jerry Danowski |
 | 240 | 361 | Chantelle Ceno |
 | 241 | 360 | Speedy Liney |
-| 242 | 359 | Jo Kerley |
-| 243 | 359 | Oscar Zamora |
+| 242 | 359 | Oscar Zamora |
+| 243 | 359 | Jo Kerley |
 | 244 | 358 | Tipsy Strikerpiece |
 | 245 | 357 | Shiny Snapfit |
 | 246 | 357 | Teri Oehlke |
@@ -316,10 +316,10 @@
 | 308 | 305 | Amh |
 | 309 | 305 | Chase Collinsworth |
 | 310 | 303 | DaRascal |
-| 311 | 302 | Bird Person |
-| 312 | 302 | LaFontaine Leslie |
-| 313 | 301 | Chad Atchley |
-| 314 | 301 | Brave Wrecker |
+| 311 | 302 | LaFontaine Leslie |
+| 312 | 302 | Bird Person |
+| 313 | 301 | Brave Wrecker |
+| 314 | 301 | Chad Atchley |
 | 315 | 300 | Giggly Builderline |
 | 316 | 299 | LD1 |
 | 317 | 298 | Sweetts |
