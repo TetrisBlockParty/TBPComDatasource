@@ -98,8 +98,8 @@
 | 90 | 2237 | Jen Tramack |
 | 91 | 2216 | Alicia Parrish |
 | 92 | 2165 | Tj Ball |
-| 93 | 2148 | Roger Grabbit |
-| 94 | 2148 | ShinyRose |
+| 93 | 2148 | ShinyRose |
+| 94 | 2148 | Roger Grabbit |
 | 95 | 2146 | KellyDyan |
 | 96 | 2106 | Cool Rollpiece |
 | 97 | 2103 | Alisha Peoples |

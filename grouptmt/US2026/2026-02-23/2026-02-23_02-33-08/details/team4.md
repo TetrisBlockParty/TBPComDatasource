@@ -142,8 +142,8 @@
 | 134 | 418 | Lush Linkfall |
 | 135 | 415 | Klo |
 | 136 | 414 | Nope Young |
-| 137 | 413 | Chaz Duncan |
-| 138 | 413 | Kristina Black |
+| 137 | 413 | Kristina Black |
+| 138 | 413 | Chaz Duncan |
 | 139 | 412 | Jessica Bohlken |
 | 140 | 408 | Amanda Pauldo-Ivy |
 | 141 | 402 | Ericca Eldridge |
@@ -173,8 +173,8 @@
 | 165 | 358 | A5! |
 | 166 | 356 | George Nutt |
 | 167 | 352 | Sue Joyce Staats |
-| 168 | 349 | Rafael Valentin |
-| 169 | 349 | Twisty Cascadezone |
+| 168 | 349 | Twisty Cascadezone |
+| 169 | 349 | Rafael Valentin |
 | 170 | 348 | TRCuse |
 | 171 | 347 | Daria Rycewicz |
 | 172 | 339 | David Lay |
@@ -340,7 +340,7 @@
 | 332 | 185 | Morti |
 | 333 | 183 | Cozy Balancer |
 | 334 | 182 | Ellen Durfee |
-| 335 | 181 | Nikki Wilson |
+| 335 | 181 | KimoKoala |
 | 336 | 181 | Jason Bosco |
 | 337 | 181 | Nikki Wilson |
 | 338 | 180 | Maureen Flanigan |

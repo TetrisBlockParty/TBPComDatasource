@@ -159,11 +159,11 @@
 | 151 | 353 | Josh Riemer |
 | 152 | 351 | Basment Living |
 | 153 | 350 | Tipsy Strikerpiece |
-| 154 | 343 | Chelsea Dahlquist |
-| 155 | 343 | Elaine Elaine |
+| 154 | 343 | Elaine Elaine |
+| 155 | 343 | Chelsea Dahlquist |
 | 156 | 342 | Rachael |
-| 157 | 341 | Shiny Snapfit |
-| 158 | 341 | Nick R Montague |
+| 157 | 341 | Nick R Montague |
+| 158 | 341 | Shiny Snapfit |
 | 159 | 338 | Jennifer Hardman |
 | 160 | 337 | Jamise Brown |
 | 161 | 337 | Nicole Roseberry Weber |
@@ -272,8 +272,8 @@
 | 264 | 227 | Happy Snapbuild |
 | 265 | 226 | Glitzy Buildsnap |
 | 266 | 226 | Snappy Brickbuilder |
-| 267 | 223 | Erez Yosef |
-| 268 | 223 | Layzietyme |
+| 267 | 223 | Layzietyme |
+| 268 | 223 | Erez Yosef |
 | 269 | 223 | Christina Backer |
 | 270 | 222 | Jessie Welch |
 | 271 | 222 | Debbie Davis |

@@ -216,8 +216,8 @@
 | 208 | 430 | Jeni Dow |
 | 209 | 430 | Joye Sims Binion |
 | 210 | 429 | Sherry Ogden |
-| 211 | 423 | Loopy Clusterer |
-| 212 | 423 | Staci George Fitzsimmons |
+| 211 | 423 | Staci George Fitzsimmons |
+| 212 | 423 | Loopy Clusterer |
 | 213 | 417 | Edwin Calvillo Jr. |
 | 214 | 415 | ren |
 | 215 | 414 | Fran Lin |
@@ -389,9 +389,9 @@
 | 381 | 243 | Paula Little |
 | 382 | 243 | Josh Borquez |
 | 383 | 242 | Michael Latasha Gray |
-| 384 | 240 | Beppy |
+| 384 | 240 | Ashley Lynn Marchese |
 | 385 | 240 | Brian Battjes |
-| 386 | 240 | Ashley Lynn Marchese |
+| 386 | 240 | Beppy |
 | 387 | 240 | Rachel Grant |
 | 388 | 239 | Hyper Matchzone |
 | 389 | 239 | Joy Petroski |
