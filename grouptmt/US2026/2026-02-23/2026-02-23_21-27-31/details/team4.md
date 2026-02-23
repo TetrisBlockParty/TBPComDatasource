@@ -568,8 +568,8 @@
 | 560 | 170 | Joshua W. Benton |
 | 561 | 170 | Bigeddie |
 | 562 | 170 | Elie Pean |
-| 563 | 169 | Dante Korleon |
-| 564 | 169 | Joseph Pace |
+| 563 | 169 | Joseph Pace |
+| 564 | 169 | Dante Korleon |
 | 565 | 168 | LunaMoon |
 | 566 | 168 | Melissa VanBourgondien |
 | 567 | 167 | Carla Harris |
@@ -604,8 +604,8 @@
 | 596 | 157 | David Boggs |
 | 597 | 157 | Cheery Lift |
 | 598 | 156 | Nicole McMurray |
-| 599 | 155 | Stormy Tomplait |
-| 600 | 155 | Shirl |
+| 599 | 155 | Shirl |
+| 600 | 155 | Stormy Tomplait |
 | 601 | 155 | Faja |
 | 602 | 154 | Ashley Danielle |
 | 603 | 154 | Robert Rodriguez |
