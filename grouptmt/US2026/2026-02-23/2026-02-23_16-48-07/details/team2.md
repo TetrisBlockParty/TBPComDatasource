@@ -805,8 +805,8 @@
 | 797 | 509 | Jason Garnatz |
 | 798 | 508 | Austin Wilson |
 | 799 | 508 | Daphne Jordan |
-| 800 | 507 | Lina Sanders |
-| 801 | 507 | Crystal Heller Gonzalez |
+| 800 | 507 | Crystal Heller Gonzalez |
+| 801 | 507 | Lina Sanders |
 | 802 | 507 | Funky Caster |
 | 803 | 507 | Carrie Mitchell |
 | 804 | 506 | Cblock |

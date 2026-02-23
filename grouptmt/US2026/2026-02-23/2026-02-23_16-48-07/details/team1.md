@@ -86,8 +86,8 @@
 | 78 | 750 | Cartier |
 | 79 | 742 | Susanna Guerry |
 | 80 | 740 | Lori Sanders- Davis |
-| 81 | 713 | Snappy Swiper |
-| 82 | 713 | Robert Benito |
+| 81 | 713 | Robert Benito |
+| 82 | 713 | Snappy Swiper |
 | 83 | 710 | Jennifer ManWarren |
 | 84 | 706 | Plucky Fallzone |
 | 85 | 704 | Karin Gillen |
@@ -128,8 +128,8 @@
 | 120 | 533 | Sharon Reynolds |
 | 121 | 522 | Sarah Lombardo |
 | 122 | 515 | Death |
-| 123 | 513 | Colena Davenport |
-| 124 | 513 | April Carroll |
+| 123 | 513 | April Carroll |
+| 124 | 513 | Colena Davenport |
 | 125 | 509 | Rachael |
 | 126 | 502 | Anaid Sanchez |
 | 127 | 497 | Arianna O'Brien |
@@ -187,8 +187,8 @@
 | 179 | 399 | phrmblk24 |
 | 180 | 397 | Erin Rosberg |
 | 181 | 394 | Lori Bales |
-| 182 | 393 | Lehrin Maria |
-| 183 | 393 | Wisa |
+| 182 | 393 | Wisa |
+| 183 | 393 | Lehrin Maria |
 | 184 | 391 | Basment Living |
 | 185 | 390 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 186 | 388 | Jason Savage |
@@ -264,10 +264,10 @@
 | 256 | 317 | Bloknboy |
 | 257 | 317 | Sam Williams |
 | 258 | 315 | Mandyy Rae |
-| 259 | 314 | Zany Tiler |
-| 260 | 314 | Daring Fitclear |
-| 261 | 313 | Cody Gates |
-| 262 | 313 | Sylvia Vasquez |
+| 259 | 314 | Daring Fitclear |
+| 260 | 314 | Zany Tiler |
+| 261 | 313 | Sylvia Vasquez |
+| 262 | 313 | Cody Gates |
 | 263 | 312 | Mitchel White |
 | 264 | 311 | Nathan Sealander |
 | 265 | 310 | Christina Norman |
