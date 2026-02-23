@@ -62,8 +62,8 @@
 | 54 | 3359 | jayjay |
 | 55 | 3321 | Kelly Crook |
 | 56 | 3289 | Jennifer Peachey |
-| 57 | 3288 | Maegan Beaule |
-| 58 | 3288 | YiFei |
+| 57 | 3288 | YiFei |
+| 58 | 3288 | Maegan Beaule |
 | 59 | 3265 | Melinda Brown |
 | 60 | 3241 | Dineisha Carpenter |
 | 61 | 3203 | Sam McKenzie |
@@ -218,8 +218,8 @@
 | 210 | 1232 | Ambyre Patterson |
 | 211 | 1232 | Groovy Puzzle |
 | 212 | 1230 | Megan Garrick |
-| 213 | 1217 | Brooks Brooks |
-| 214 | 1217 | Lucky Ladybug |
+| 213 | 1217 | Lucky Ladybug |
+| 214 | 1217 | Brooks Brooks |
 | 215 | 1214 | David Cudicio-Hayden |
 | 216 | 1210 | Jane Fong |
 | 217 | 1205 | Tralonda Weeks |
@@ -295,8 +295,8 @@
 | 287 | 987 | Osun Anuket Esu |
 | 288 | 984 | Crystal Hoffman |
 | 289 | 981 | Ashlen Dorrell |
-| 290 | 979 | Hillary Crawford |
-| 291 | 979 | Melissa Penelope Ann Dodge |
+| 290 | 979 | Melissa Penelope Ann Dodge |
+| 291 | 979 | Hillary Crawford |
 | 292 | 978 | April Dawn Gussler |
 | 293 | 976 | Sam Joe |
 | 294 | 976 | Della Hole |
@@ -462,8 +462,8 @@
 | 454 | 699 | Dannette Goldberg-Richards |
 | 455 | 698 | Joce Lynn |
 | 456 | 697 | Ashle Scranton |
-| 457 | 695 | Lakeysha Dortch |
-| 458 | 695 | Irene Jones |
+| 457 | 695 | Irene Jones |
+| 458 | 695 | Lakeysha Dortch |
 | 459 | 693 | Ryan Stadel |
 | 460 | 692 | Shaun Church |
 | 461 | 691 | Poldo Ilano |

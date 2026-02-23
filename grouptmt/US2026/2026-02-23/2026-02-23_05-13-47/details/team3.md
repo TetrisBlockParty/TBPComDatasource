@@ -212,8 +212,8 @@
 | 204 | 471 | Mendoza Lee Christy |
 | 205 | 467 | Sherry Ogden |
 | 206 | 465 | Annie Déè |
-| 207 | 464 | Danielle Weikel |
-| 208 | 464 | Shunta Jacobs |
+| 207 | 464 | Shunta Jacobs |
+| 208 | 464 | Danielle Weikel |
 | 209 | 462 | Connie Mohler-Fair |
 | 210 | 458 | Danielle Rhoades |
 | 211 | 458 | Tom Nault |
@@ -226,8 +226,8 @@
 | 218 | 435 | Fallorina Susana |
 | 219 | 432 | Luciana Braganca Vieira |
 | 220 | 432 | Heather Green |
-| 221 | 431 | Ammmmmmy |
-| 222 | 431 | Wendy Dearden |
+| 221 | 431 | Wendy Dearden |
+| 222 | 431 | Ammmmmmy |
 | 223 | 430 | Jeni Dow |
 | 224 | 415 | ren |
 | 225 | 414 | Fran Lin |
@@ -284,8 +284,8 @@
 | 276 | 346 | Tamara Deherrera |
 | 277 | 345 | MsBee |
 | 278 | 344 | Roary Danner |
-| 279 | 343 | Ashley Rufus Bythcez |
-| 280 | 343 | Ashley Raines |
+| 279 | 343 | Ashley Raines |
+| 280 | 343 | Ashley Rufus Bythcez |
 | 281 | 341 | Ashley Tookes |
 | 282 | 340 | KayB |
 | 283 | 339 | Cynthia Herrmann Egland |
@@ -602,8 +602,8 @@
 | 594 | 175 | Hanul |
 | 595 | 175 | Sarah Muradyan |
 | 596 | 174 | Sierra Spencer |
-| 597 | 173 | Beejangles |
-| 598 | 173 | Samantha Lohmeyer |
+| 597 | 173 | Samantha Lohmeyer |
+| 598 | 173 | Beejangles |
 | 599 | 172 | Nichole Greene |
 | 600 | 172 | Miranda Taylor |
 | 601 | 171 | Norma JulieMay |

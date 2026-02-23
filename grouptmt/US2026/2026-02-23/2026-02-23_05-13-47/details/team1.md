@@ -78,15 +78,15 @@
 | 70 | 706 | Seante Bullock |
 | 71 | 705 | comrade fish |
 | 72 | 704 | Karin Gillen |
-| 73 | 703 | Snappy Swiper |
-| 74 | 703 | Angel Fowler |
+| 73 | 703 | Angel Fowler |
+| 74 | 703 | Snappy Swiper |
 | 75 | 655 | Brenda Stewart |
 | 76 | 647 | Jason Jones |
 | 77 | 646 | Susanna Guerry |
 | 78 | 612 | Hasbro Bros |
 | 79 | 599 | Cynthia Bradley |
-| 80 | 598 | Erin Hodges Plumb |
-| 81 | 598 | Kellie |
+| 80 | 598 | Kellie |
+| 81 | 598 | Erin Hodges Plumb |
 | 82 | 597 | Evie Khalil |
 | 83 | 588 | Greg Hart |
 | 84 | 584 | Jen Sartain |
@@ -96,16 +96,16 @@
 | 88 | 570 | Cody Slav |
 | 89 | 562 | Denice Dee |
 | 90 | 537 | Tee Sheree |
-| 91 | 534 | Loony Fitzone |
-| 92 | 534 | Veronica Eve |
+| 91 | 534 | Veronica Eve |
+| 92 | 534 | Loony Fitzone |
 | 93 | 532 | Robert Benito |
 | 94 | 529 | Ryan Lunnin |
 | 95 | 522 | Sarah Lombardo |
 | 96 | 511 | Mario Cab |
 | 97 | 510 | Colena Davenport |
 | 98 | 497 | Arianna O'Brien |
-| 99 | 493 | MomMom |
-| 100 | 493 | Jennifer ManWarren |
+| 99 | 493 | Jennifer ManWarren |
+| 100 | 493 | MomMom |
 | 101 | 492 | Ash Galvan |
 | 102 | 489 | Deanna L Hermanson |
 | 103 | 488 | cc |
@@ -162,8 +162,8 @@
 | 154 | 367 | Sharon Reynolds |
 | 155 | 366 | J.F. Fields |
 | 156 | 365 | Carrie Smith |
-| 157 | 364 | Shauna Loe |
-| 158 | 364 | Serina Marie |
+| 157 | 364 | Serina Marie |
+| 158 | 364 | Shauna Loe |
 | 159 | 360 | Wisa |
 | 160 | 359 | Kristi Johnson |
 | 161 | 357 | David Lutcher |
@@ -242,10 +242,10 @@
 | 234 | 266 | Sarah Somers Gray |
 | 235 | 265 | Kandae |
 | 236 | 264 | Jenny Gingrich Fuentes |
-| 237 | 263 | Perky Shiftsnap |
-| 238 | 263 | Jessie Lynn |
-| 239 | 261 | John J. Cronin |
-| 240 | 261 | Brooke Elizabeth Antill |
+| 237 | 263 | Jessie Lynn |
+| 238 | 263 | Perky Shiftsnap |
+| 239 | 261 | Brooke Elizabeth Antill |
+| 240 | 261 | John J. Cronin |
 | 241 | 260 | Marianita Garcia |
 | 242 | 260 | Lacy Wolfe |
 | 243 | 255 | Giggly Builderline |
