@@ -171,8 +171,8 @@
 | 163 | 528 | Cass Mendoza |
 | 164 | 516 | Danielle Balcom |
 | 165 | 512 | Silly Twist |
-| 166 | 506 | Stephanie Blkpep Davidson |
-| 167 | 506 | Sashay Tapae Simpson |
+| 166 | 506 | Sashay Tapae Simpson |
+| 167 | 506 | Stephanie Blkpep Davidson |
 | 168 | 504 | Jennifer Lynn Fahrenholtz-Summers |
 | 169 | 502 | Snappy Balancer |
 | 170 | 501 | Patti Skiles |
@@ -227,11 +227,11 @@
 | 219 | 390 | Trisha Balmer |
 | 220 | 390 | rosy |
 | 221 | 384 | Marci Mize Fandrich |
-| 222 | 383 | Nicole Flippo |
-| 223 | 383 | Darlene McMillan |
+| 222 | 383 | Darlene McMillan |
+| 223 | 383 | Nicole Flippo |
 | 224 | 383 | Heather Green |
-| 225 | 382 | Scott Carleton |
-| 226 | 382 | Giddy Twistbuilder |
+| 225 | 382 | Giddy Twistbuilder |
+| 226 | 382 | Scott Carleton |
 | 227 | 380 | Rebecca Bailey |
 | 228 | 378 | Chris Bell |
 | 229 | 376 | Connie Mohler-Fair |
@@ -302,8 +302,8 @@
 | 294 | 297 | kacihall |
 | 295 | 297 | Cheeky Snapper |
 | 296 | 296 | Donna |
-| 297 | 294 | Betty Bóò |
-| 298 | 294 | fraulila |
+| 297 | 294 | fraulila |
+| 298 | 294 | Betty Bóò |
 | 299 | 291 | Carrie Huskey |
 | 300 | 289 | DidIdothat |
 | 301 | 289 | Cyd061769 |

@@ -338,8 +338,8 @@
 | 330 | 818 | Jessica Wayne Cornwall |
 | 331 | 818 | Lola Contreras |
 | 332 | 816 | James Simms III |
-| 333 | 812 | Jackie Lucas |
-| 334 | 812 | Samantha Jo |
+| 333 | 812 | Samantha Jo |
+| 334 | 812 | Jackie Lucas |
 | 335 | 808 | Melissa McCall |
 | 336 | 808 | Desire Rice |
 | 337 | 808 | Laura McCarthey |

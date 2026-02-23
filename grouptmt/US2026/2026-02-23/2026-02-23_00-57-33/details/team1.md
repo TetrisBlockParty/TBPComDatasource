@@ -242,8 +242,8 @@
 | 234 | 244 | Marianita Garcia |
 | 235 | 242 | ParisandCory Champagne |
 | 236 | 241 | Tyler Hertzog |
-| 237 | 240 | DaRascal |
-| 238 | 240 | Daring Fitclear |
+| 237 | 240 | Daring Fitclear |
+| 238 | 240 | DaRascal |
 | 239 | 239 | Lacy Wolfe |
 | 240 | 238 | Tiffany Smith |
 | 241 | 238 | Sarah Somers Gray |

@@ -17,9 +17,9 @@
 | 9 | 2165 | Alicia Bass |
 | 10 | 1982 | Anthony Magaraci |
 | 11 | 1775 | Ash |
-| 12 | 1738 | Elizabeth Sallas |
-| 13 | 1706 | Ayanna Soto |
-| 14 | 1689 | Michelle Pearman |
+| 12 | 1739 | Michelle Pearman |
+| 13 | 1738 | Elizabeth Sallas |
+| 14 | 1706 | Ayanna Soto |
 | 15 | 1636 | Cassie Michaux |
 | 16 | 1536 | Roger Coulter |
 | 17 | 1512 | Breannah Grafe |
@@ -292,8 +292,8 @@
 | 284 | 205 | James Hurley Jr. |
 | 285 | 203 | Katherine Crane |
 | 286 | 202 | Stephme310 |
-| 287 | 202 | Shukee Lo |
-| 288 | 202 | Angelito |
+| 287 | 202 | Angelito |
+| 288 | 202 | Shukee Lo |
 | 289 | 201 | Silly SeaWeed |
 | 290 | 201 | June Hoffman |
 | 291 | 200 | Googenheim |
