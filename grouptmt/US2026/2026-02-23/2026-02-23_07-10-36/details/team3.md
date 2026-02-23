@@ -120,8 +120,8 @@
 | 112 | 831 | Angeline Joseph |
 | 113 | 830 | Stephanie Allmon |
 | 114 | 826 | Shane Wilson Jr. |
-| 115 | 816 | Brenda Lee Vander Molen |
-| 116 | 816 | Jesse Olive |
+| 115 | 816 | Jesse Olive |
+| 116 | 816 | Brenda Lee Vander Molen |
 | 117 | 802 | Bobbi Moore |
 | 118 | 800 | Lauren Girouard |
 | 119 | 799 | Dolores Falco |
@@ -160,8 +160,8 @@
 | 152 | 634 | Amber Hughes |
 | 153 | 630 | yoyo |
 | 154 | 629 | Patricia White |
-| 155 | 621 | Cherry Parker |
-| 156 | 621 | Sashay Tapae Simpson |
+| 155 | 621 | Sashay Tapae Simpson |
+| 156 | 621 | Cherry Parker |
 | 157 | 616 | Kammy Hill |
 | 158 | 611 | Rochelle Hazelett |
 | 159 | 607 | Grego Daniel |
@@ -231,13 +231,13 @@
 | 223 | 448 | Scott Carleton |
 | 224 | 437 | Loopy Clusterer |
 | 225 | 432 | Luciana Braganca Vieira |
-| 226 | 431 | Ammmmmmy |
-| 227 | 431 | Wendy Dearden |
+| 226 | 431 | Wendy Dearden |
+| 227 | 431 | Ammmmmmy |
 | 228 | 430 | Jeni Dow |
 | 229 | 418 | Rebecca Funderburk Kirby |
 | 230 | 414 | Fran Lin |
-| 231 | 410 | Stephanie Simpson |
-| 232 | 410 | Duane Bright |
+| 231 | 410 | Duane Bright |
+| 232 | 410 | Stephanie Simpson |
 | 233 | 408 | Tiffany Ford |
 | 234 | 406 | Kristal C Lee |
 | 235 | 404 | Chasity |
@@ -283,11 +283,11 @@
 | 275 | 354 | Eileen Brady Thurber |
 | 276 | 354 | Andrew Thorson |
 | 277 | 354 | Kelly |
-| 278 | 353 | Cyd061769 |
-| 279 | 353 | Dee Franklin |
+| 278 | 353 | Dee Franklin |
+| 279 | 353 | Cyd061769 |
 | 280 | 352 | Christian Werndl |
-| 281 | 351 | Eon Harris |
-| 282 | 351 | Blocked |
+| 281 | 351 | Blocked |
+| 282 | 351 | Eon Harris |
 | 283 | 350 | LaShey Thompson |
 | 284 | 349 | Amanda J. Mcneil-Anderson |
 | 285 | 347 | Betty Bóò |
@@ -461,8 +461,8 @@
 | 453 | 232 | Melanie Sherwood |
 | 454 | 232 | Stephanie Hill |
 | 455 | 232 | Sunny Tiltgrid |
-| 456 | 231 | Giggly Brickroll |
-| 457 | 231 | Frothy Snapper |
+| 456 | 231 | Frothy Snapper |
+| 457 | 231 | Giggly Brickroll |
 | 458 | 230 | DanceLuvLaugh |
 | 459 | 230 | BigE |
 | 460 | 229 | MizzMonick Smith |
@@ -490,11 +490,11 @@
 | 482 | 219 | Trice Thomas |
 | 483 | 219 | TLM |
 | 484 | 218 | Sabrina Mansfield |
-| 485 | 218 | Tina Smith Roy |
-| 486 | 218 | Dapper Chiseler |
+| 485 | 218 | Dapper Chiseler |
+| 486 | 218 | Tina Smith Roy |
 | 487 | 217 | Heather Bateman |
-| 488 | 217 | Katie Leigh Blankenship |
-| 489 | 217 | Tia Moore |
+| 488 | 217 | Tia Moore |
+| 489 | 217 | Katie Leigh Blankenship |
 | 490 | 215 | Angel Miller |
 | 491 | 214 | Crystal Hine |
 | 492 | 214 | Amy Fuller Heaton |
@@ -753,11 +753,11 @@
 | 745 | 145 | Quirky Snapfit |
 | 746 | 144 | Clever Edgepiece |
 | 747 | 144 | Crystal Frey |
-| 748 | 144 | Tiffany's TwinsRus Thrifty |
-| 749 | 144 | Susan A Kinsey |
+| 748 | 144 | Susan A Kinsey |
+| 749 | 144 | Tiffany's TwinsRus Thrifty |
 | 750 | 144 | Janay Darkstallion Robinson |
-| 751 | 143 | Lisa Lisa |
-| 752 | 143 | Melissa Parlow-Callaway |
+| 751 | 143 | Melissa Parlow-Callaway |
+| 752 | 143 | Lisa Lisa |
 | 753 | 143 | Russell Hankinson |
 | 754 | 142 | get et |
 | 755 | 142 | Giddy Basepiece |

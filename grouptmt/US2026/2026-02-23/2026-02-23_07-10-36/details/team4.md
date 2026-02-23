@@ -125,8 +125,8 @@
 | 117 | 514 | Scott Jameson |
 | 118 | 514 | Serena Goodridge |
 | 119 | 513 | Erin Thomas |
-| 120 | 512 | Casey Jeffcoat |
-| 121 | 512 | Cristy Duerksen |
+| 120 | 512 | Cristy Duerksen |
+| 121 | 512 | Casey Jeffcoat |
 | 122 | 511 | Lori Walker |
 | 123 | 509 | Leslie Nicole |
 | 124 | 482 | Ren Mc |
@@ -150,18 +150,18 @@
 | 142 | 423 | Carrie Brian |
 | 143 | 421 | Kesha Brady |
 | 144 | 421 | JIGsaw ~(•¿°)~ |
-| 145 | 418 | Lush Linkfall |
-| 146 | 418 | Marie-Pier Desjardins |
+| 145 | 418 | Marie-Pier Desjardins |
+| 146 | 418 | Lush Linkfall |
 | 147 | 416 | Chaz Duncan |
-| 148 | 414 | Swanky Fitline |
-| 149 | 414 | Nope Young |
+| 148 | 414 | Nope Young |
+| 149 | 414 | Swanky Fitline |
 | 150 | 412 | Jessica Bohlken |
 | 151 | 408 | Amanda Pauldo-Ivy |
 | 152 | 406 | Livvy |
 | 153 | 406 | Damn Libra |
 | 154 | 398 | Tyler Terrific |
-| 155 | 393 | Girl |
-| 156 | 393 | Carlton Unfiltered |
+| 155 | 393 | Carlton Unfiltered |
+| 156 | 393 | Girl |
 | 157 | 391 | Ramel Rhodes |
 | 158 | 389 | Joseph Guthrie |
 | 159 | 388 | Andy Cabral |
@@ -206,8 +206,8 @@
 | 198 | 320 | Lauren Scott |
 | 199 | 318 | Chris Hartig |
 | 200 | 316 | Autumn Kumzi |
-| 201 | 312 | Casey Grabner |
-| 202 | 312 | Dihcheese444 |
+| 201 | 312 | Dihcheese444 |
+| 202 | 312 | Casey Grabner |
 | 203 | 311 | Mary Ann Pabukis |
 | 204 | 310 | Holly Jolly |
 | 205 | 307 | Cheery Risebuilder |

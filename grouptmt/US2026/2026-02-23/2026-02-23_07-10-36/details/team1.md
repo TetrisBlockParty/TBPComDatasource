@@ -603,8 +603,8 @@
 | 595 | 120 | Katie Bell |
 | 596 | 120 | Steven Collins |
 | 597 | 119 | sassy |
-| 598 | 119 | Aleea Six |
-| 599 | 119 | Francine-frankie Ritzio-Rizzo |
+| 598 | 119 | Francine-frankie Ritzio-Rizzo |
+| 599 | 119 | Aleea Six |
 | 600 | 118 | Jade |
 | 601 | 118 | Kerry Lee Powell |
 | 602 | 118 | Mighty Shatterfit |

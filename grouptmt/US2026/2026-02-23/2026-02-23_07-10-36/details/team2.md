@@ -478,8 +478,8 @@
 | 470 | 693 | Ryan Stadel |
 | 471 | 692 | Shaun Church |
 | 472 | 691 | Poldo Ilano |
-| 473 | 691 | Samuel Macon |
-| 474 | 691 | Arwa Fatimah |
+| 473 | 691 | Arwa Fatimah |
+| 474 | 691 | Samuel Macon |
 | 475 | 689 | Gauri Shrotriya |
 | 476 | 686 | Christine Coughlin |
 | 477 | 684 | Sarah DeHart |
@@ -563,12 +563,12 @@
 | 555 | 604 | Rae Rae |
 | 556 | 603 | Casper The Chonk |
 | 557 | 602 | Stephanie Sul |
-| 558 | 601 | Moua Ying |
-| 559 | 601 | Daniel Amos |
+| 558 | 601 | Daniel Amos |
+| 559 | 601 | Moua Ying |
 | 560 | 599 | Marella Petilo |
 | 561 | 598 | Leah Keesling |
-| 562 | 597 | Jamie Schmitt |
-| 563 | 597 | Magic steve |
+| 562 | 597 | Magic steve |
+| 563 | 597 | Jamie Schmitt |
 | 564 | 596 | Davetta Sanford |
 | 565 | 595 | Tracy Wise |
 | 566 | 595 | Dapper Dasher |
