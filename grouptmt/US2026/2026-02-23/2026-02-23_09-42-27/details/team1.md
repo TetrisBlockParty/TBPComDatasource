@@ -128,8 +128,8 @@
 | 120 | 452 | Hyper |
 | 121 | 451 | Plucky Ziggy |
 | 122 | 450 | lil mickey |
-| 123 | 448 | Sweet Baker |
-| 124 | 448 | Jazzy Framezone |
+| 123 | 448 | Jazzy Framezone |
+| 124 | 448 | Sweet Baker |
 | 125 | 446 | SkipTheSadSauce |
 | 126 | 443 | Steve Schneider |
 | 127 | 440 | femmefatale |
@@ -269,11 +269,11 @@
 | 261 | 260 | Marianita Garcia |
 | 262 | 260 | Lacy Wolfe |
 | 263 | 256 | Chris Sigurdson |
-| 264 | 255 | Giggly Builderline |
-| 265 | 255 | Beazel75 |
+| 264 | 255 | Beazel75 |
+| 265 | 255 | Giggly Builderline |
 | 266 | 254 | Al Smith Jr |
-| 267 | 253 | Cece Ibarra |
-| 268 | 253 | Jamie Jury |
+| 267 | 253 | Jamie Jury |
+| 268 | 253 | Cece Ibarra |
 | 269 | 252 | Dena Kayy |
 | 270 | 251 | MRdot Rooski |
 | 271 | 250 | Silly Align |
@@ -303,8 +303,8 @@
 | 295 | 233 | Melissa Bires Hussar |
 | 296 | 233 | Tipsy Riseclear |
 | 297 | 232 | Thorne Shumate |
-| 298 | 230 | BigWeenie69 |
-| 299 | 230 | Danielle S Kester |
+| 298 | 230 | Panda Thagreat |
+| 299 | 230 | BigWeenie69 |
 | 300 | 230 | Jessica Russell |
 | 301 | 230 | Flashy Rotator |
 | 302 | 230 | Danielle S Kester |
@@ -317,9 +317,9 @@
 | 309 | 226 | Snappy Brickbuilder |
 | 310 | 226 | Glitzy Buildsnap |
 | 311 | 225 | Angela Spann |
-| 312 | 224 | Danielle Mae |
-| 313 | 224 | Sunny Shift |
-| 314 | 224 | Jumpy Rotate |
+| 312 | 224 | Sunny Shift |
+| 313 | 224 | Jumpy Rotate |
+| 314 | 224 | Danielle Mae |
 | 315 | 223 | Erez Yosef |
 | 316 | 223 | Christina Backer |
 | 317 | 222 | Jessie Welch |

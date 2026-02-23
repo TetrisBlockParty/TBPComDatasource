@@ -305,8 +305,8 @@
 | 297 | 996 | Ashie Ann |
 | 298 | 987 | Osun Anuket Esu |
 | 299 | 984 | Crystal Hoffman |
-| 300 | 979 | Melissa Penelope Ann Dodge |
-| 301 | 979 | Hillary Crawford |
+| 300 | 979 | Hillary Crawford |
+| 301 | 979 | Melissa Penelope Ann Dodge |
 | 302 | 978 | April Dawn Gussler |
 | 303 | 976 | Sam Joe |
 | 304 | 976 | Della Hole |
@@ -318,13 +318,13 @@
 | 310 | 969 | Em Chen |
 | 311 | 961 | Angela Lynn |
 | 312 | 959 | Phil J. Grombliniak |
-| 313 | 958 | Doowop40 |
-| 314 | 958 | Brenda Messer |
+| 313 | 958 | Brenda Messer |
+| 314 | 958 | Doowop40 |
 | 315 | 957 | Block Master |
 | 316 | 955 | Angela Bonquiqui Dinish |
 | 317 | 954 | Melissa McCall |
-| 318 | 951 | Cynthia Ward |
-| 319 | 951 | Wakanda Forever |
+| 318 | 951 | Wakanda Forever |
+| 319 | 951 | Cynthia Ward |
 | 320 | 949 | Steve Man |
 | 321 | 947 | Dedra Steward |
 | 322 | 942 | Cindy Sechler Taninecz |

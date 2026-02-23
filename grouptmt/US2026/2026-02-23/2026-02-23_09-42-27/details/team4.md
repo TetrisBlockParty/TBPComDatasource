@@ -71,12 +71,12 @@
 | 63 | 807 | Rachel Anne |
 | 64 | 788 | Julian Garcia |
 | 65 | 788 | Chilly Line |
-| 66 | 787 | Edward White |
-| 67 | 787 | loulou |
+| 66 | 787 | loulou |
+| 67 | 787 | Edward White |
 | 68 | 767 | Shannon Ferrari |
 | 69 | 766 | Robin Watters |
-| 70 | 765 | Robin Getchel |
-| 71 | 765 | Denise Carlson |
+| 70 | 765 | Denise Carlson |
+| 71 | 765 | Robin Getchel |
 | 72 | 753 | TheNeesh50 |
 | 73 | 752 | Shane Kalamata Platoon |
 | 74 | 749 | Dustee Craddock-Harrison |
@@ -176,8 +176,8 @@
 | 168 | 377 | Guy Incognito |
 | 169 | 375 | Desi Desporte |
 | 170 | 374 | Mylo Lipscomb |
-| 171 | 372 | George Nutt |
-| 172 | 372 | Antony Dwayne Beasley |
+| 171 | 372 | Antony Dwayne Beasley |
+| 172 | 372 | George Nutt |
 | 173 | 370 | Oscar Alberto Perez |
 | 174 | 369 | Lindsey Gonzalez |
 | 175 | 368 | Silly Zonebuilder |
@@ -242,8 +242,8 @@
 | 234 | 288 | Adam Stephanie Parker |
 | 235 | 285 | 030Synner |
 | 236 | 284 | Mimi |
-| 237 | 282 | Matt Gooder |
-| 238 | 282 | Kim Klutz Olson |
+| 237 | 282 | Kim Klutz Olson |
+| 238 | 282 | Matt Gooder |
 | 239 | 281 | Laura |
 | 240 | 280 | Rio Rocha |
 | 241 | 279 | Malakai Darien Fox |
@@ -258,12 +258,12 @@
 | 250 | 272 | Dennis Bradley |
 | 251 | 271 | Holly |
 | 252 | 270 | Jen Caldwell |
-| 253 | 266 | Nubian1 |
+| 253 | 266 | Mr. Party |
 | 254 | 266 | Tracey Lehmann |
-| 255 | 266 | Mr. Party |
-| 256 | 265 | Degenerate |
-| 257 | 265 | Silly SeaWeed |
-| 258 | 265 | Sarah Neathery |
+| 255 | 266 | Nubian1 |
+| 256 | 265 | Silly SeaWeed |
+| 257 | 265 | Sarah Neathery |
+| 258 | 265 | Degenerate |
 | 259 | 264 | ZeeZee |
 | 260 | 264 | Stella |
 | 261 | 263 | rebel4lyfe |
@@ -359,8 +359,8 @@
 | 351 | 203 | Kevin Bush |
 | 352 | 201 | O block |
 | 353 | 198 | Calvin Dennis |
-| 354 | 198 | Mona Sharma |
-| 355 | 198 | Shiny Fit |
+| 354 | 198 | Shiny Fit |
+| 355 | 198 | Mona Sharma |
 | 356 | 197 | Cozy Balancer |
 | 357 | 196 | Dustin York |
 | 358 | 196 | Megan Cutshaw |
@@ -572,7 +572,7 @@
 | 564 | 125 | ImJustMe |
 | 565 | 125 | Kelly Adams Carnahan |
 | 566 | 125 | Christina Nabrizny |
-| 567 | 124 | Peppy Strike |
+| 567 | 124 | Jackson Karen |
 | 568 | 124 | Cheery Towerzone |
 | 569 | 124 | Laurel Coppess |
 | 570 | 124 | Cj Lewis-haut |
@@ -796,8 +796,8 @@
 | 788 | 87 | Jason Punch |
 | 789 | 87 | b |
 | 790 | 87 | GTxIrishman |
-| 791 | 87 | Derek Pendarvis |
-| 792 | 87 | Kat |
+| 791 | 87 | Kat |
+| 792 | 87 | Derek Pendarvis |
 | 793 | 86 | Bigg Guy |
 | 794 | 85 | Jim Gray |
 | 795 | 85 | Tim Knight-ten |
