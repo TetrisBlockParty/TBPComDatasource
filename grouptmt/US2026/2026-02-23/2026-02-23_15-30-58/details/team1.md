@@ -46,8 +46,8 @@
 | 38 | 1128 | june october |
 | 39 | 1126 | Tater |
 | 40 | 1122 | Amanda Summey Schoemer |
-| 41 | 1114 | Jayme Sellers |
-| 42 | 1114 | Marianne Louise West |
+| 41 | 1114 | Marianne Louise West |
+| 42 | 1114 | Jayme Sellers |
 | 43 | 1112 | Chipper Gridlock |
 | 44 | 1100 | Derek MF Blakey |
 | 45 | 1092 | Tipsy Column |
@@ -84,8 +84,8 @@
 | 76 | 758 | Ash Galvan |
 | 77 | 750 | Cartier |
 | 78 | 740 | Lori Sanders- Davis |
-| 79 | 713 | Robert Benito |
-| 80 | 713 | Snappy Swiper |
+| 79 | 713 | Snappy Swiper |
+| 80 | 713 | Robert Benito |
 | 81 | 710 | Jennifer ManWarren |
 | 82 | 706 | Plucky Fallzone |
 | 83 | 704 | Karin Gillen |
@@ -96,8 +96,8 @@
 | 88 | 689 | Susanna Guerry |
 | 89 | 683 | Nancy Green |
 | 90 | 679 | Hasbro Bros |
-| 91 | 657 | Tee Sheree |
-| 92 | 657 | Cynthia Bradley |
+| 91 | 657 | Cynthia Bradley |
+| 92 | 657 | Tee Sheree |
 | 93 | 655 | Brenda Stewart |
 | 94 | 650 | Kristi Johnson |
 | 95 | 648 | Evie Khalil |
@@ -152,8 +152,8 @@
 | 144 | 451 | Plucky Ziggy |
 | 145 | 451 | ALFD |
 | 146 | 450 | lil mickey |
-| 147 | 448 | Jazzy Framezone |
-| 148 | 448 | Sweet Baker |
+| 147 | 448 | Sweet Baker |
+| 148 | 448 | Jazzy Framezone |
 | 149 | 446 | SkipTheSadSauce |
 | 150 | 443 | femmefatale |
 | 151 | 440 | Timothy Danaher |

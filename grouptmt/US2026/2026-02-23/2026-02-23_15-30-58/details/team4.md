@@ -49,8 +49,8 @@
 | 41 | 1156 | Goatimus Lombardi |
 | 42 | 1124 | Jae Job |
 | 43 | 1116 | Koshin Abdirahman |
-| 44 | 1085 | Kimyatta Cavin |
-| 45 | 1085 | Ashley Ingram |
+| 44 | 1085 | Ashley Ingram |
+| 45 | 1085 | Kimyatta Cavin |
 | 46 | 1082 | Dion Crommarty |
 | 47 | 1082 | Dawn Alexander |
 | 48 | 1071 | Cherrish Duren |
@@ -132,8 +132,8 @@
 | 124 | 545 | Desi Desporte |
 | 125 | 542 | Austin Owens |
 | 126 | 540 | Rodney McMath Jr. |
-| 127 | 538 | shar |
-| 128 | 538 | Carlos Ramirez |
+| 127 | 538 | Carlos Ramirez |
+| 128 | 538 | shar |
 | 129 | 537 | Dizzy Tiley |
 | 130 | 533 | Samantha Peterson |
 | 131 | 531 | Serena Goodridge |
@@ -338,8 +338,8 @@
 | 330 | 244 | Christina Black |
 | 331 | 244 | Elizabeth Tinoco |
 | 332 | 243 | Chair |
-| 333 | 242 | Chaz |
-| 334 | 242 | PurpleMoonMa |
+| 333 | 242 | PurpleMoonMa |
+| 334 | 242 | Chaz |
 | 335 | 242 | Maureen Flanigan |
 | 336 | 240 | Kenna Gunderland |
 | 337 | 240 | Perky Patternblock |

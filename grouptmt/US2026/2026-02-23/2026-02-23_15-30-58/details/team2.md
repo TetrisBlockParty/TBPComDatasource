@@ -383,8 +383,8 @@
 | 375 | 907 | Gene Mills |
 | 376 | 907 | Kayla |
 | 377 | 904 | John Bednarik |
-| 378 | 903 | Eric Castaneda |
-| 379 | 903 | Giggy Blocker |
+| 378 | 903 | Giggy Blocker |
+| 379 | 903 | Eric Castaneda |
 | 380 | 902 | Diallo Sparkman |
 | 381 | 899 | Felicia Lynn |
 | 382 | 899 | Chevy |
@@ -1712,8 +1712,8 @@
 | 1704 | 268 | GgReignz |
 | 1705 | 268 | Jennifer Crystal Fernald |
 | 1706 | 268 | Purple durple |
-| 1707 | 267 | Stacy Figuracion |
-| 1708 | 267 | Loony Blockmatch |
+| 1707 | 267 | Loony Blockmatch |
+| 1708 | 267 | Stacy Figuracion |
 | 1709 | 267 | Bloxy |
 | 1710 | 267 | LC Hamilton |
 | 1711 | 267 | Goofy Cascadeclear |

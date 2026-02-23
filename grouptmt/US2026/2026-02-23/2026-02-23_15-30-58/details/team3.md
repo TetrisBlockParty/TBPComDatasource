@@ -82,8 +82,8 @@
 | 74 | 1258 | Danielle Cutler |
 | 75 | 1244 | Lori Barnaby |
 | 76 | 1221 | Betty Ivy |
-| 77 | 1213 | Snappy Glidepiece |
-| 78 | 1213 | Nerdy Riseclear |
+| 77 | 1213 | Nerdy Riseclear |
+| 78 | 1213 | Snappy Glidepiece |
 | 79 | 1209 | Amanda Adkins |
 | 80 | 1186 | Christian A. Pollard |
 | 81 | 1169 | Araceli Parra |
@@ -196,8 +196,8 @@
 | 188 | 576 | Keis |
 | 189 | 568 | Rachael McClain Owens |
 | 190 | 566 | LaTanya GeminiondaRise Johnson |
-| 191 | 564 | Christine Trester |
-| 192 | 564 | Poppy Splitter |
+| 191 | 564 | Poppy Splitter |
+| 192 | 564 | Christine Trester |
 | 193 | 563 | Jim Mathews |
 | 194 | 562 | Dave Herzog |
 | 195 | 561 | Elissa S-k |
@@ -266,8 +266,8 @@
 | 258 | 431 | Ammmmmmy |
 | 259 | 430 | Jeni Dow |
 | 260 | 429 | Carrie Huskey |
-| 261 | 428 | Randy Clevenger |
-| 262 | 428 | Sleepy |
+| 261 | 428 | Sleepy |
+| 262 | 428 | Randy Clevenger |
 | 263 | 426 | Gumbo |
 | 264 | 425 | Nicole Flippo |
 | 265 | 424 | Cesar Barraza |
@@ -372,8 +372,8 @@
 | 364 | 322 | Beth Smith |
 | 365 | 321 | Wettnippz |
 | 366 | 320 | Or Reznitsky |
-| 367 | 320 | Taylor Hood |
-| 368 | 320 | Ashley Muncey |
+| 367 | 320 | Ashley Muncey |
+| 368 | 320 | Taylor Hood |
 | 369 | 318 | Christy Quick |
 | 370 | 316 | Travis W |
 | 371 | 315 | Kristen Weese |
@@ -381,8 +381,8 @@
 | 373 | 313 | Hoppy Buildout |
 | 374 | 313 | Erykah |
 | 375 | 312 | Eric Caccavale |
-| 376 | 311 | Troy |
-| 377 | 311 | Noettín Kan Zasnemoore |
+| 376 | 311 | Noettín Kan Zasnemoore |
+| 377 | 311 | Troy |
 | 378 | 309 | Block Baddie |
 | 379 | 309 | Cheeky Snapper |
 | 380 | 308 | Tia |
@@ -396,8 +396,8 @@
 | 388 | 301 | Betty Rosas |
 | 389 | 301 | Kaitie Oliver |
 | 390 | 301 | Michael Lucado |
-| 391 | 299 | Hasty Gridpiece |
-| 392 | 299 | Antonia Russell |
+| 391 | 299 | Antonia Russell |
+| 392 | 299 | Hasty Gridpiece |
 | 393 | 299 | TotoCherue |
 | 394 | 299 | Angie Harper |
 | 395 | 299 | Krystal Gerstberger |
