@@ -49,10 +49,10 @@
 | 41 | 1156 | Goatimus Lombardi |
 | 42 | 1124 | Jae Job |
 | 43 | 1116 | Koshin Abdirahman |
-| 44 | 1085 | Ashley Ingram |
-| 45 | 1085 | Kimyatta Cavin |
-| 46 | 1082 | Dawn Alexander |
-| 47 | 1082 | Dion Crommarty |
+| 44 | 1085 | Kimyatta Cavin |
+| 45 | 1085 | Ashley Ingram |
+| 46 | 1082 | Dion Crommarty |
+| 47 | 1082 | Dawn Alexander |
 | 48 | 1071 | Cherrish Duren |
 | 49 | 1049 | Heather Tushner |
 | 50 | 1046 | Johnathan Martinez |
@@ -108,8 +108,8 @@
 | 100 | 664 | Nugget |
 | 101 | 659 | Jamie Gustafson |
 | 102 | 650 | KJ Pool |
-| 103 | 647 | KM8 |
-| 104 | 647 | Shauna Havard |
+| 103 | 647 | Shauna Havard |
+| 104 | 647 | KM8 |
 | 105 | 639 | Chris Hartig |
 | 106 | 637 | Lori Walker |
 | 107 | 635 | Adawna Swires |
@@ -328,8 +328,8 @@
 | 320 | 251 | Kathy Allen |
 | 321 | 251 | Carol Ricks Raymond |
 | 322 | 249 | Ak Jones |
-| 323 | 248 | Angelito |
-| 324 | 248 | Chirpy Basepiece |
+| 323 | 248 | Chirpy Basepiece |
+| 324 | 248 | Angelito |
 | 325 | 248 | Jose Dejesus |
 | 326 | 247 | Vic |
 | 327 | 247 | Stephme310 |

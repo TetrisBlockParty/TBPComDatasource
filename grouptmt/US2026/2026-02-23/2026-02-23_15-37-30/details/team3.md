@@ -82,8 +82,8 @@
 | 74 | 1258 | Danielle Cutler |
 | 75 | 1244 | Lori Barnaby |
 | 76 | 1221 | Betty Ivy |
-| 77 | 1213 | Nerdy Riseclear |
-| 78 | 1213 | Snappy Glidepiece |
+| 77 | 1213 | Snappy Glidepiece |
+| 78 | 1213 | Nerdy Riseclear |
 | 79 | 1209 | Amanda Adkins |
 | 80 | 1186 | Christian A. Pollard |
 | 81 | 1169 | Araceli Parra |
@@ -139,8 +139,8 @@
 | 131 | 774 | Keith J Oshman Jr. |
 | 132 | 773 | Daira Largen |
 | 133 | 770 | Daryn Elliott |
-| 134 | 764 | Hasty Cascadefit |
-| 135 | 764 | Groovy Catcher |
+| 134 | 764 | Groovy Catcher |
+| 135 | 764 | Hasty Cascadefit |
 | 136 | 762 | Speedy Bridger |
 | 137 | 757 | Fancy Cascader |
 | 138 | 756 | Patty Allen |
@@ -339,8 +339,8 @@
 | 331 | 348 | Ashley Raines |
 | 332 | 346 | Tiffany Davie |
 | 333 | 346 | Chummy Rumbler |
-| 334 | 345 | gremicx |
-| 335 | 345 | victory |
+| 334 | 345 | victory |
+| 335 | 345 | gremicx |
 | 336 | 344 | Beaudie Stroebel |
 | 337 | 343 | Ashley Rufus Bythcez |
 | 338 | 342 | Cynthia Herrmann Egland |
@@ -559,8 +559,8 @@
 | 551 | 223 | Katie Leigh Blankenship |
 | 552 | 223 | Carrie Resler |
 | 553 | 223 | Jumpy Curvebuilder |
-| 554 | 222 | Aeh |
-| 555 | 222 | Janay Darkstallion Robinson |
+| 554 | 222 | Janay Darkstallion Robinson |
+| 555 | 222 | Aeh |
 | 556 | 222 | Angel Miller |
 | 557 | 222 | Ashley Parham |
 | 558 | 221 | Christen Cannon Layhew |
@@ -594,12 +594,12 @@
 | 586 | 213 | Clever Edgepiece |
 | 587 | 213 | Laaken Draper |
 | 588 | 213 | Ktfreeee |
-| 589 | 212 | Frisky Stacker |
+| 589 | 212 | Jm |
 | 590 | 212 | Misstery |
-| 591 | 212 | Jm |
+| 591 | 212 | Frisky Stacker |
 | 592 | 212 | Beth Ingham |
-| 593 | 211 | El Chapa |
-| 594 | 211 | Michael Pleasant |
+| 593 | 211 | Michael Pleasant |
+| 594 | 211 | El Chapa |
 | 595 | 211 | Lazy Matchfit |
 | 596 | 210 | Maia |
 | 597 | 210 | Megan Riggins |
