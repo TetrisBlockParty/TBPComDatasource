@@ -305,8 +305,8 @@
 | 297 | 996 | Ashie Ann |
 | 298 | 987 | Osun Anuket Esu |
 | 299 | 984 | Crystal Hoffman |
-| 300 | 979 | Melissa Penelope Ann Dodge |
-| 301 | 979 | Hillary Crawford |
+| 300 | 979 | Hillary Crawford |
+| 301 | 979 | Melissa Penelope Ann Dodge |
 | 302 | 978 | April Dawn Gussler |
 | 303 | 976 | Sam Joe |
 | 304 | 976 | Della Hole |
@@ -347,8 +347,8 @@
 | 339 | 903 | Giggy Blocker |
 | 340 | 903 | Eric Castaneda |
 | 341 | 901 | Kevin Sees |
-| 342 | 899 | Patrick Bartlett |
-| 343 | 899 | Chevy |
+| 342 | 899 | Chevy |
+| 343 | 899 | Patrick Bartlett |
 | 344 | 898 | Jamie Otero |
 | 345 | 895 | Donna Colby |
 | 346 | 894 | Adira Brown |
@@ -567,8 +567,8 @@
 | 559 | 612 | Slinky Racker |
 | 560 | 610 | Michael Buckner |
 | 561 | 609 | Cecilia A Jenkins |
-| 562 | 609 | Autumn Schaeffer |
-| 563 | 609 | Smashanator |
+| 562 | 609 | Smashanator |
+| 563 | 609 | Autumn Schaeffer |
 | 564 | 607 | James Smith |
 | 565 | 606 | Lea Stewart |
 | 566 | 605 | Jermaine Harris |
@@ -781,8 +781,8 @@
 | 773 | 467 | ruth |
 | 774 | 466 | Miracle |
 | 775 | 466 | Shea Edison |
-| 776 | 464 | Natasha Edmonds |
-| 777 | 464 | Lively Edgepiece |
+| 776 | 464 | Lively Edgepiece |
+| 777 | 464 | Natasha Edmonds |
 | 778 | 464 | Saucy Fitzone |
 | 779 | 463 | Murray Marie |
 | 780 | 463 | Jaye EL Hunter |
@@ -808,8 +808,8 @@
 | 800 | 452 | Tipsy Filler |
 | 801 | 451 | Giggly Snap |
 | 802 | 451 | Stefanie Zonzini-Gagliardi |
-| 803 | 451 | Angela Yantz |
-| 804 | 451 | Sharon Mills |
+| 803 | 451 | Sharon Mills |
+| 804 | 451 | Angela Yantz |
 | 805 | 450 | sup |
 | 806 | 449 | Heather Sawtelle-Mckenzie |
 | 807 | 449 | Jas |
@@ -886,8 +886,8 @@
 | 878 | 414 | Cini |
 | 879 | 414 | Maria Louise |
 | 880 | 414 | Court |
-| 881 | 413 | Ashley Robbins |
-| 882 | 413 | Kat Mfm Kaul |
+| 881 | 413 | Kat Mfm Kaul |
+| 882 | 413 | Ashley Robbins |
 | 883 | 413 | Abby Klaski |
 | 884 | 411 | Peppy Snapfall |
 | 885 | 411 | BabyBird |
@@ -908,14 +908,14 @@
 | 900 | 405 | Marget Kay |
 | 901 | 405 | Swanky Columnbuilder |
 | 902 | 405 | Carrie Mitchell |
-| 903 | 404 | Shylee Tilman |
-| 904 | 404 | Denisse Avilez |
+| 903 | 404 | Denisse Avilez |
+| 904 | 404 | Shylee Tilman |
 | 905 | 404 | Jes Norris |
 | 906 | 404 | Christy Green |
 | 907 | 404 | Jannan Haimour |
 | 908 | 403 | mshir |
-| 909 | 403 | Nate Skidmore |
-| 910 | 403 | Goofy Dasher |
+| 909 | 403 | Goofy Dasher |
+| 910 | 403 | Nate Skidmore |
 | 911 | 402 | B |
 | 912 | 402 | LuckyChopstix |
 | 913 | 402 | BlaqSupaMan |

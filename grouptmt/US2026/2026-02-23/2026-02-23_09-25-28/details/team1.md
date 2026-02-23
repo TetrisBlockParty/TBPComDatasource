@@ -83,8 +83,8 @@
 | 75 | 703 | Angel Fowler |
 | 76 | 689 | Susanna Guerry |
 | 77 | 679 | Hasbro Bros |
-| 78 | 657 | Tee Sheree |
-| 79 | 657 | Cynthia Bradley |
+| 78 | 657 | Cynthia Bradley |
+| 79 | 657 | Tee Sheree |
 | 80 | 655 | Brenda Stewart |
 | 81 | 648 | Evie Khalil |
 | 82 | 647 | Jason Jones |
@@ -108,8 +108,8 @@
 | 100 | 509 | Rachael |
 | 101 | 502 | Anaid Sanchez |
 | 102 | 497 | Arianna O'Brien |
-| 103 | 493 | Jennifer ManWarren |
-| 104 | 493 | MomMom |
+| 103 | 493 | MomMom |
+| 104 | 493 | Jennifer ManWarren |
 | 105 | 492 | Ash Galvan |
 | 106 | 491 | cc |
 | 107 | 489 | April Carroll |
@@ -222,8 +222,8 @@
 | 214 | 301 | Damon J. Martin |
 | 215 | 301 | Cody Gates |
 | 216 | 300 | Sleepysloath5745 |
-| 217 | 298 | Billie Ann Eason |
-| 218 | 298 | Sweetts |
+| 217 | 298 | Sweetts |
+| 218 | 298 | Billie Ann Eason |
 | 219 | 295 | Lakeisha Chapman |
 | 220 | 294 | Chuck Gannon |
 | 221 | 294 | Bindi |
@@ -233,8 +233,8 @@
 | 225 | 290 | Tavia |
 | 226 | 290 | Hellsin |
 | 227 | 287 | Sassy Builderline |
-| 228 | 285 | Bird Person |
-| 229 | 285 | Shanae Grant |
+| 228 | 285 | Shanae Grant |
+| 229 | 285 | Bird Person |
 | 230 | 284 | Sam Williams |
 | 231 | 283 | Amanda Holibaugh |
 | 232 | 283 | Franswa |
