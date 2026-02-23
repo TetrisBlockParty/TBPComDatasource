@@ -114,8 +114,8 @@
 | 106 | 869 | Araceli Parra |
 | 107 | 868 | Sarajane Lokan |
 | 108 | 860 | Sunny Rotater |
-| 109 | 851 | Jd Morris |
-| 110 | 851 | Danielle Becker |
+| 109 | 851 | Danielle Becker |
+| 110 | 851 | Jd Morris |
 | 111 | 850 | Danielle Mogg |
 | 112 | 848 | Patricia Gadsden |
 | 113 | 831 | Angeline Joseph |
@@ -196,8 +196,8 @@
 | 188 | 546 | Cynthia Castros-Hampton |
 | 189 | 546 | Mykal Burton |
 | 190 | 540 | Shawn Miller |
-| 191 | 531 | Chauntee Alfrey-Cardinale |
-| 192 | 531 | Sarah Cowan Burgos |
+| 191 | 531 | Sarah Cowan Burgos |
+| 192 | 531 | Chauntee Alfrey-Cardinale |
 | 193 | 528 | Silly Twist |
 | 194 | 525 | Stephanie Blkpep Davidson |
 | 195 | 524 | Bmo |
@@ -349,8 +349,8 @@
 | 341 | 298 | Dannie Litchard |
 | 342 | 298 | Grams |
 | 343 | 297 | kacihall |
-| 344 | 296 | Donna |
-| 345 | 296 | Tracy Martin |
+| 344 | 296 | Tracy Martin |
+| 345 | 296 | Donna |
 | 346 | 295 | Nikki Pags |
 | 347 | 294 | Kaycee Kay |
 | 348 | 294 | Antonia Russell |
@@ -393,8 +393,8 @@
 | 385 | 269 | Juliana Dottore |
 | 386 | 269 | Jess Bissett |
 | 387 | 268 | Jessica Lynn French |
-| 388 | 267 | Jul |
-| 389 | 267 | April Matthew Kibble |
+| 388 | 267 | April Matthew Kibble |
+| 389 | 267 | Jul |
 | 390 | 267 | Michael Kimbro |
 | 391 | 266 | Quirky Dropzone |
 | 392 | 265 | Heather Davis |
@@ -468,8 +468,8 @@
 | 460 | 232 | Melanie Sherwood |
 | 461 | 232 | Stephanie Hill |
 | 462 | 231 | Giggly Brickroll |
-| 463 | 230 | DanceLuvLaugh |
-| 464 | 230 | BigE |
+| 463 | 230 | BigE |
+| 464 | 230 | DanceLuvLaugh |
 | 465 | 229 | MizzMonick Smith |
 | 466 | 229 | Everret Maxine |
 | 467 | 228 | Tipsy Zonebuilder |
@@ -593,11 +593,11 @@
 | 585 | 184 | Shanon R Jackson |
 | 586 | 184 | Barb Wensink Johnson |
 | 587 | 184 | Christian Luna |
-| 588 | 183 | AC Yeater |
-| 589 | 183 | Mel Murr |
+| 588 | 183 | Mel Murr |
+| 589 | 183 | AC Yeater |
 | 590 | 183 | Scott Doss |
-| 591 | 183 | Jana Fagg |
-| 592 | 183 | Snarky McFace |
+| 591 | 183 | Snarky McFace |
+| 592 | 183 | Jana Fagg |
 | 593 | 183 | Silly Curvetile |
 | 594 | 182 | Alicia |
 | 595 | 182 | Kali Kelz Williams |

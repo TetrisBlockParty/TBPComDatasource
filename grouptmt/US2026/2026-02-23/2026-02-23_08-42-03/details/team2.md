@@ -311,11 +311,11 @@
 | 303 | 976 | Sam Joe |
 | 304 | 976 | Della Hole |
 | 305 | 975 | Hyper Cluster |
-| 306 | 972 | Binyah-Binyah |
-| 307 | 972 | Barbra Miller |
+| 306 | 972 | Barbra Miller |
+| 307 | 972 | Binyah-Binyah |
 | 308 | 971 | Jojo Momma |
-| 309 | 969 | Em Chen |
-| 310 | 969 | Boldy Cascadepiece |
+| 309 | 969 | Boldy Cascadepiece |
+| 310 | 969 | Em Chen |
 | 311 | 961 | Angela Lynn |
 | 312 | 959 | Phil J. Grombliniak |
 | 313 | 958 | Doowop40 |
@@ -345,8 +345,8 @@
 | 337 | 904 | Bee |
 | 338 | 903 | Giggy Blocker |
 | 339 | 901 | Kevin Sees |
-| 340 | 899 | Patrick Bartlett |
-| 341 | 899 | Chevy |
+| 340 | 899 | Chevy |
+| 341 | 899 | Patrick Bartlett |
 | 342 | 898 | Jamie Otero |
 | 343 | 895 | Donna Colby |
 | 344 | 894 | Adira Brown |
@@ -488,9 +488,9 @@
 | 480 | 691 | Arwa Fatimah |
 | 481 | 689 | Gauri Shrotriya |
 | 482 | 686 | Christine Coughlin |
-| 483 | 684 | Ellie Jonas |
+| 483 | 684 | Sarah DeHart |
 | 484 | 684 | Ann Knutson Anderson |
-| 485 | 684 | Sarah DeHart |
+| 485 | 684 | Ellie Jonas |
 | 486 | 682 | Vanessa Moreno |
 | 487 | 682 | Antionette Sewell |
 | 488 | 681 | AgileDragon |
@@ -675,8 +675,8 @@
 | 667 | 527 | Heather M Purcell |
 | 668 | 527 | Ryan Gunther |
 | 669 | 525 | Cris cris |
-| 670 | 523 | AsnPryBoy83 |
-| 671 | 523 | NanDa Cruzan VI |
+| 670 | 523 | NanDa Cruzan VI |
+| 671 | 523 | AsnPryBoy83 |
 | 672 | 522 | Snippy Rumbler |
 | 673 | 522 | Kathleen Driskell |
 | 674 | 522 | Leah |
@@ -833,8 +833,8 @@
 | 825 | 438 | Kelly Amos |
 | 826 | 438 | Lynda Toland |
 | 827 | 438 | AkaLefty |
-| 828 | 437 | Anthony |
-| 829 | 437 | Shalisa Hill |
+| 828 | 437 | Shalisa Hill |
+| 829 | 437 | Anthony |
 | 830 | 437 | Oscar Bernie |
 | 831 | 436 | Regina Knight |
 | 832 | 436 | Christina Loftus |
@@ -941,8 +941,8 @@
 | 933 | 394 | Snappy Shatterfit |
 | 934 | 394 | Nerdy Blockpiece |
 | 935 | 393 | Jamie West |
-| 936 | 393 | Bing |
-| 937 | 393 | CC |
+| 936 | 393 | CC |
+| 937 | 393 | Bing |
 | 938 | 392 | Jroc |
 | 939 | 391 | Poppy Gridder |
 | 940 | 391 | Chilly Bridgepiece |
@@ -2415,8 +2415,8 @@
 | 2407 | 174 | Yvette Cooper |
 | 2408 | 174 | Chilly Rollblock |
 | 2409 | 174 | Henny Confydence |
-| 2410 | 174 | Michael Watson |
-| 2411 | 174 | Sarah Violet |
+| 2410 | 174 | Sarah Violet |
+| 2411 | 174 | Michael Watson |
 | 2412 | 173 | Melissa Guerrero |
 | 2413 | 173 | Avasha Gonzalez |
 | 2414 | 173 | Britney Volz |

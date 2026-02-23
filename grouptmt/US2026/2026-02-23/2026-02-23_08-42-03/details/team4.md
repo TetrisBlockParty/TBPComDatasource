@@ -26,8 +26,8 @@
 | 18 | 1636 | Cassie Michaux |
 | 19 | 1565 | GreenJeepGirl |
 | 20 | 1558 | Leah Gorsuch |
-| 21 | 1536 | Misty Hollibaugh |
-| 22 | 1536 | Roger Coulter |
+| 21 | 1536 | Roger Coulter |
+| 22 | 1536 | Misty Hollibaugh |
 | 23 | 1485 | Juggalo |
 | 24 | 1390 | Sammy Noguera |
 | 25 | 1382 | Tammi Crnza |
@@ -62,21 +62,21 @@
 | 54 | 864 | Shelly Chandler |
 | 55 | 863 | Pee |
 | 56 | 859 | TeeJ |
-| 57 | 846 | Lucille Truesdale |
-| 58 | 846 | Christine Marie |
+| 57 | 846 | Christine Marie |
+| 58 | 846 | Lucille Truesdale |
 | 59 | 845 | LisaJo Picken Buchanan |
 | 60 | 834 | quicksand420 |
-| 61 | 807 | Rachel Anne |
-| 62 | 807 | Amelpss |
+| 61 | 807 | Amelpss |
+| 62 | 807 | Rachel Anne |
 | 63 | 788 | Julian Garcia |
-| 64 | 787 | loulou |
-| 65 | 787 | Edward White |
+| 64 | 787 | Edward White |
+| 65 | 787 | loulou |
 | 66 | 783 | Ashley Ingram |
 | 67 | 781 | Chilly Line |
 | 68 | 767 | Shannon Ferrari |
 | 69 | 766 | Robin Watters |
-| 70 | 765 | Denise Carlson |
-| 71 | 765 | Robin Getchel |
+| 70 | 765 | Robin Getchel |
+| 71 | 765 | Denise Carlson |
 | 72 | 752 | Shane Kalamata Platoon |
 | 73 | 749 | Dustee Craddock-Harrison |
 | 74 | 747 | TheNeesh50 |
@@ -88,8 +88,8 @@
 | 80 | 703 | Savannah Overdorf |
 | 81 | 697 | Alyssa Papen |
 | 82 | 694 | Diana Houts |
-| 83 | 684 | Jonathan Kimbrough |
-| 84 | 684 | Kimyatta Cavin |
+| 83 | 684 | Kimyatta Cavin |
+| 84 | 684 | Jonathan Kimbrough |
 | 85 | 678 | Trista Leah |
 | 86 | 673 | Jacqueline Helm |
 | 87 | 670 | Destiney Carter |
@@ -97,8 +97,8 @@
 | 89 | 659 | Jamie Gustafson |
 | 90 | 653 | Rica Mitchell |
 | 91 | 650 | KJ Pool |
-| 92 | 647 | Shauna Havard |
-| 93 | 647 | KM8 |
+| 92 | 647 | KM8 |
+| 93 | 647 | Shauna Havard |
 | 94 | 646 | Eric Mcgaughy |
 | 95 | 626 | Brittney Griggs |
 | 96 | 624 | Judy Cox |
@@ -142,8 +142,8 @@
 | 134 | 451 | Peachy Fall |
 | 135 | 448 | Kristin Manee |
 | 136 | 442 | ThaEviLJeNiuZ |
-| 137 | 435 | Monica Daley |
-| 138 | 435 | Kristina Black |
+| 137 | 435 | Kristina Black |
+| 138 | 435 | Monica Daley |
 | 139 | 432 | Zippy Block |
 | 140 | 431 | Courtney Cicoria |
 | 141 | 429 | Klo |
@@ -153,11 +153,11 @@
 | 145 | 422 | Zakia Monae |
 | 146 | 421 | JIGsaw ~(•¿°)~ |
 | 147 | 421 | Kesha Brady |
-| 148 | 418 | Lush Linkfall |
-| 149 | 418 | Marie-Pier Desjardins |
+| 148 | 418 | Marie-Pier Desjardins |
+| 149 | 418 | Lush Linkfall |
 | 150 | 416 | Chaz Duncan |
-| 151 | 414 | Swanky Fitline |
-| 152 | 414 | Nope Young |
+| 151 | 414 | Nope Young |
+| 152 | 414 | Swanky Fitline |
 | 153 | 413 | Circuit8 |
 | 154 | 412 | Jessica Bohlken |
 | 155 | 408 | Amanda Pauldo-Ivy |
@@ -228,8 +228,8 @@
 | 220 | 294 | Calvin Cannon |
 | 221 | 292 | Epic Curvetile |
 | 222 | 291 | Nikki Rae Gordon |
-| 223 | 290 | Rebecca Morris |
-| 224 | 290 | Plucky Patternblock |
+| 223 | 290 | Plucky Patternblock |
+| 224 | 290 | Rebecca Morris |
 | 225 | 290 | Jared Gutwein |
 | 226 | 289 | Juls |
 | 227 | 288 | Brittney Orengo |
@@ -239,8 +239,8 @@
 | 231 | 286 | Steph Marie |
 | 232 | 285 | 030Synner |
 | 233 | 284 | Mimi |
-| 234 | 282 | Kim Klutz Olson |
-| 235 | 282 | Matt Gooder |
+| 234 | 282 | Matt Gooder |
+| 235 | 282 | Kim Klutz Olson |
 | 236 | 281 | Laura |
 | 237 | 280 | Rio Rocha |
 | 238 | 279 | Malakai Darien Fox |
@@ -250,8 +250,8 @@
 | 242 | 276 | Matt Dell'Olio |
 | 243 | 275 | Kimberlee Jan Beckstead |
 | 244 | 273 | Cranky Rollpiece |
-| 245 | 272 | Alan George LaRage |
-| 246 | 272 | Dennis Bradley |
+| 245 | 272 | Dennis Bradley |
+| 246 | 272 | Alan George LaRage |
 | 247 | 271 | Holly |
 | 248 | 270 | Jen Caldwell |
 | 249 | 266 | Nubian1 |
@@ -330,9 +330,9 @@
 | 322 | 214 | Stacey Stano |
 | 323 | 214 | Patron Anderson |
 | 324 | 213 | Jackie Marie |
-| 325 | 212 | Mike Solo |
-| 326 | 212 | Brave Spinbuilder |
-| 327 | 212 | Zany Shatterer |
+| 325 | 212 | Zany Shatterer |
+| 326 | 212 | Mike Solo |
+| 327 | 212 | Brave Spinbuilder |
 | 328 | 211 | Chris Alexinas |
 | 329 | 210 | Ari Droff |
 | 330 | 209 | Snippy Puzzle |
@@ -340,8 +340,8 @@
 | 332 | 208 | Heather Bruce |
 | 333 | 208 | Shukee Lo |
 | 334 | 207 | Squeezy Pearsall |
-| 335 | 206 | Laura Hosford |
-| 336 | 206 | June Hoffman |
+| 335 | 206 | June Hoffman |
+| 336 | 206 | Laura Hosford |
 | 337 | 206 | Maureen Flanigan |
 | 338 | 205 | KayM |
 | 339 | 204 | Ruby Khalisadar |

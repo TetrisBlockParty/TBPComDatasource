@@ -108,8 +108,8 @@
 | 100 | 509 | Rachael |
 | 101 | 502 | Anaid Sanchez |
 | 102 | 497 | Arianna O'Brien |
-| 103 | 493 | Jennifer ManWarren |
-| 104 | 493 | MomMom |
+| 103 | 493 | MomMom |
+| 104 | 493 | Jennifer ManWarren |
 | 105 | 492 | Ash Galvan |
 | 106 | 491 | cc |
 | 107 | 489 | Deanna L Hermanson |
@@ -196,8 +196,8 @@
 | 188 | 337 | Constance Risner |
 | 189 | 337 | Jamise Brown |
 | 190 | 336 | Dizzy Party |
-| 191 | 333 | Virginia Gray Floyd |
-| 192 | 333 | Gracie |
+| 191 | 333 | Gracie |
+| 192 | 333 | Virginia Gray Floyd |
 | 193 | 332 | Happy Basegrid |
 | 194 | 330 | femmefatale |
 | 195 | 328 | Snappy Matcher |
@@ -222,8 +222,8 @@
 | 214 | 301 | Damon J. Martin |
 | 215 | 301 | Cody Gates |
 | 216 | 300 | Sleepysloath5745 |
-| 217 | 298 | Sweetts |
-| 218 | 298 | Billie Ann Eason |
+| 217 | 298 | Billie Ann Eason |
+| 218 | 298 | Sweetts |
 | 219 | 295 | Lakeisha Chapman |
 | 220 | 294 | Chuck Gannon |
 | 221 | 294 | Bindi |
@@ -285,8 +285,8 @@
 | 277 | 242 | ParisandCory Champagne |
 | 278 | 239 | LC |
 | 279 | 239 | Adele Rahman |
-| 280 | 238 | Tiffany Smith |
-| 281 | 238 | Michael |
+| 280 | 238 | Michael |
+| 281 | 238 | Tiffany Smith |
 | 282 | 235 | Ariel Whittington |
 | 283 | 235 | Angela Fairbank |
 | 284 | 234 | Paula Martin |
@@ -305,8 +305,8 @@
 | 297 | 229 | Dino |
 | 298 | 228 | .running. |
 | 299 | 227 | Happy Snapbuild |
-| 300 | 226 | Snappy Brickbuilder |
-| 301 | 226 | Glitzy Buildsnap |
+| 300 | 226 | Glitzy Buildsnap |
+| 301 | 226 | Snappy Brickbuilder |
 | 302 | 225 | Angela Spann |
 | 303 | 224 | Sunny Shift |
 | 304 | 224 | Danielle Mae |
@@ -328,7 +328,7 @@
 | 320 | 220 | Teri Oehlke |
 | 321 | 219 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 322 | 219 | Negan Mallory Knoxx Spence |
-| 323 | 219 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
+| 323 | 219 | Jeanna Dunn |
 | 324 | 218 | Jason Benitez |
 | 325 | 217 | Cheeky Crusher |
 | 326 | 217 | Speedy Snapfall |
