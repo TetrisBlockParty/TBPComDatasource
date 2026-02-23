@@ -144,8 +144,8 @@
 | 136 | 1932 | Gary Schaffner Jr. |
 | 137 | 1918 | Rebecca Doughman |
 | 138 | 1902 | Goofy Snapfit |
-| 139 | 1899 | Robin Kerby |
-| 140 | 1899 | Jamie Main |
+| 139 | 1899 | Jamie Main |
+| 140 | 1899 | Robin Kerby |
 | 141 | 1899 | Jumpy Gridpiece |
 | 142 | 1893 | Michele Gabriel |
 | 143 | 1887 | Tonya Brooks-Johnson |
@@ -1271,8 +1271,8 @@
 | 1263 | 343 | Kat |
 | 1264 | 342 | Elyse Rivera |
 | 1265 | 342 | Theresa Sterrett |
-| 1266 | 342 | Stanley Vanekelenburg |
-| 1267 | 342 | Patrick Fleming |
+| 1266 | 342 | Patrick Fleming |
+| 1267 | 342 | Stanley Vanekelenburg |
 | 1268 | 342 | Emoniee Sa'niaya |
 | 1269 | 341 | Bubbly Brickline |
 | 1270 | 341 | Chummy Caster |
@@ -1325,8 +1325,8 @@
 | 1317 | 331 | Lakeela Wise |
 | 1318 | 331 | Tina Elliott |
 | 1319 | 331 | Islandlife456 |
-| 1320 | 331 | April Dionne |
-| 1321 | 331 | Brittani Jones |
+| 1320 | 331 | Brittani Jones |
+| 1321 | 331 | April Dionne |
 | 1322 | 330 | Wungun Shun |
 | 1323 | 330 | Gemini Washington |
 | 1324 | 330 | Kenan Catovic |

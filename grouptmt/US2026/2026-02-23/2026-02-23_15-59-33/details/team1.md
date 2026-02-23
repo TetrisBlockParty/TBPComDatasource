@@ -211,8 +211,8 @@
 | 203 | 364 | Serina Marie |
 | 204 | 364 | Shauna Loe |
 | 205 | 362 | Gracie |
-| 206 | 360 | Lakeisha Chapman |
-| 207 | 360 | MIKOZ |
+| 206 | 360 | MIKOZ |
+| 207 | 360 | Lakeisha Chapman |
 | 208 | 359 | Oscar Zamora |
 | 209 | 359 | Jo Kerley |
 | 210 | 359 | Witty Builderfit |

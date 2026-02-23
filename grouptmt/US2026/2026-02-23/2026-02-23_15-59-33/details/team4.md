@@ -199,8 +199,8 @@
 | 191 | 398 | Tyler Terrific |
 | 192 | 393 | Carlton Unfiltered |
 | 193 | 391 | Ramel Rhodes |
-| 194 | 389 | Cool Towerbuilder |
-| 195 | 389 | Joseph Guthrie |
+| 194 | 389 | Joseph Guthrie |
+| 195 | 389 | Cool Towerbuilder |
 | 196 | 385 | 030Synner |
 | 197 | 383 | Chris Bernstein |
 | 198 | 380 | Rio Rocha |
@@ -268,16 +268,16 @@
 | 260 | 304 | Gdiguy |
 | 261 | 303 | blasterB |
 | 262 | 300 | Dana Scott |
-| 263 | 295 | Lora |
-| 264 | 295 | Keshia Lyons |
+| 263 | 295 | Keshia Lyons |
+| 264 | 295 | Lora |
 | 265 | 294 | Calvin Cannon |
 | 266 | 293 | Joeliecea Cobb |
 | 267 | 292 | Angel Raya |
 | 268 | 292 | Epic Curvetile |
 | 269 | 291 | Dizzy Matchzone |
 | 270 | 291 | Nubian1 |
-| 271 | 290 | Rebecca Morris |
-| 272 | 290 | Plucky Patternblock |
+| 271 | 290 | Plucky Patternblock |
+| 272 | 290 | Rebecca Morris |
 | 273 | 290 | Jared Gutwein |
 | 274 | 289 | Juls |
 | 275 | 289 | John Brunetti |
@@ -288,8 +288,8 @@
 | 280 | 284 | Matt Dell'Olio |
 | 281 | 281 | Laura |
 | 282 | 281 | Morti |
-| 283 | 278 | Angela Geist Jusinski |
-| 284 | 278 | Sarah Brown |
+| 283 | 278 | Sarah Brown |
+| 284 | 278 | Angela Geist Jusinski |
 | 285 | 276 | Susan Williams |
 | 286 | 276 | Lee Silpe |
 | 287 | 276 | Cynthia Boudreau |
@@ -329,8 +329,8 @@
 | 321 | 251 | Kathy Allen |
 | 322 | 251 | Carol Ricks Raymond |
 | 323 | 249 | Ak Jones |
-| 324 | 248 | Angelito |
-| 325 | 248 | Chirpy Basepiece |
+| 324 | 248 | Chirpy Basepiece |
+| 325 | 248 | Angelito |
 | 326 | 248 | Jose Dejesus |
 | 327 | 247 | Vic |
 | 328 | 247 | Stephme310 |
@@ -1573,7 +1573,7 @@
 | 1565 | 21 | Leslie Ann Galvan |
 | 1566 | 21 | Zappy Brick |
 | 1567 | 21 | Sweetblast |
-| 1568 | 21 | Metrice |
+| 1568 | 21 | Cool Cascadefit |
 | 1569 | 20 | Amy Anderson-Franks |
 | 1570 | 20 | Malisa Brookins |
 | 1571 | 20 | Paco Gonzalez |

@@ -177,8 +177,8 @@
 | 169 | 633 | Joye Sims Binion |
 | 170 | 632 | Morgan Martinez |
 | 171 | 629 | rnr junky |
-| 172 | 621 | Cherry Parker |
-| 173 | 621 | Sashay Tapae Simpson |
+| 172 | 621 | Sashay Tapae Simpson |
+| 173 | 621 | Cherry Parker |
 | 174 | 616 | Kammy Hill |
 | 175 | 611 | Rochelle Hazelett |
 | 176 | 603 | Jone |
@@ -198,8 +198,8 @@
 | 190 | 576 | Keis |
 | 191 | 568 | Rachael McClain Owens |
 | 192 | 566 | LaTanya GeminiondaRise Johnson |
-| 193 | 564 | Christine Trester |
-| 194 | 564 | Poppy Splitter |
+| 193 | 564 | Poppy Splitter |
+| 194 | 564 | Christine Trester |
 | 195 | 563 | Jim Mathews |
 | 196 | 562 | Dave Herzog |
 | 197 | 561 | Elissa S-k |
@@ -208,8 +208,8 @@
 | 200 | 549 | Sarah Cowan Burgos |
 | 201 | 548 | Danielle Balcom |
 | 202 | 547 | Staci George Fitzsimmons |
-| 203 | 546 | Cynthia Castros-Hampton |
-| 204 | 546 | Mykal Burton |
+| 203 | 546 | Mykal Burton |
+| 204 | 546 | Cynthia Castros-Hampton |
 | 205 | 543 | Silly Twist |
 | 206 | 540 | Trisha Balmer |
 | 207 | 540 | Juliana Dottore |
@@ -229,8 +229,8 @@
 | 221 | 513 | kacihall |
 | 222 | 513 | Lizabeth Fox |
 | 223 | 512 | FuzzyNavel |
-| 224 | 508 | Fran Lin |
-| 225 | 508 | joz |
+| 224 | 508 | joz |
+| 225 | 508 | Fran Lin |
 | 226 | 506 | Twisty Brick LT |
 | 227 | 505 | Stephanie Simpson |
 | 228 | 504 | Daring Brickzone |
