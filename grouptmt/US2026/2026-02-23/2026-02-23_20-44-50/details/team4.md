@@ -123,8 +123,8 @@
 | 115 | 658 | Zippy Gridlock |
 | 116 | 658 | Girl |
 | 117 | 656 | Leslie Nicole |
-| 118 | 647 | Lindsey Gonzalez |
-| 119 | 647 | KM8 |
+| 118 | 647 | KM8 |
+| 119 | 647 | Lindsey Gonzalez |
 | 120 | 646 | Adawna Swires |
 | 121 | 644 | Chris Hartig |
 | 122 | 639 | Patron Anderson |
@@ -261,8 +261,8 @@
 | 253 | 358 | Twisty Cascadezone |
 | 254 | 356 | mike |
 | 255 | 356 | Joeliecea Cobb |
-| 256 | 355 | Andrew Dang |
-| 257 | 355 | David Lay |
+| 256 | 355 | David Lay |
+| 257 | 355 | Andrew Dang |
 | 258 | 352 | scott |
 | 259 | 350 | Jen Caldwell |
 | 260 | 349 | jim |
@@ -299,8 +299,8 @@
 | 291 | 305 | Sassy Pattern |
 | 292 | 304 | Shiny Fit |
 | 293 | 301 | Erin Sabol |
-| 294 | 300 | Dana Scott |
-| 295 | 300 | Kate |
+| 294 | 300 | Kate |
+| 295 | 300 | Dana Scott |
 | 296 | 298 | Chance Strickland |
 | 297 | 297 | Kim Klutz Olson |
 | 298 | 297 | Kenna Gunderland |
@@ -316,8 +316,8 @@
 | 308 | 291 | Dizzy Matchzone |
 | 309 | 291 | Brittney Orengo |
 | 310 | 290 | Heather Bruce |
-| 311 | 290 | Neirrah B Olailjeel |
-| 312 | 290 | Jared Gutwein |
+| 311 | 290 | Jared Gutwein |
+| 312 | 290 | Neirrah B Olailjeel |
 | 313 | 289 | Juls |
 | 314 | 289 | Deb Rubeck |
 | 315 | 288 | Amy Jean |
@@ -344,8 +344,8 @@
 | 336 | 272 | Tony Pavelka |
 | 337 | 272 | Dennis Bradley |
 | 338 | 271 | Holly |
-| 339 | 270 | 07VHVW |
-| 340 | 270 | 23 |
+| 339 | 270 | 23 |
+| 340 | 270 | 07VHVW |
 | 341 | 270 | Brittany Little |
 | 342 | 269 | Chummy Towerzone |
 | 343 | 268 | Shukee Lo |

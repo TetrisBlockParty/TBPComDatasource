@@ -429,11 +429,11 @@
 | 421 | 907 | Gene Mills |
 | 422 | 905 | Adam Simmons |
 | 423 | 903 | Ashle Scranton |
-| 424 | 903 | Sarah DeHart |
-| 425 | 903 | Eric Castaneda |
+| 424 | 903 | Eric Castaneda |
+| 425 | 903 | Sarah DeHart |
 | 426 | 902 | Felicia Lynn |
-| 427 | 899 | Patrick Bartlett |
-| 428 | 899 | Chevy |
+| 427 | 899 | Chevy |
+| 428 | 899 | Patrick Bartlett |
 | 429 | 898 | Donna M Carter |
 | 430 | 897 | Jamie Schmitt |
 | 431 | 897 | Jánine Riggs |
@@ -678,8 +678,8 @@
 | 670 | 630 | Cecilia A Jenkins |
 | 671 | 629 | Mia Muse Best |
 | 672 | 628 | Brownie Sheena |
-| 673 | 628 | Ronald Higgins |
-| 674 | 628 | Christina Ashley |
+| 673 | 628 | Christina Ashley |
+| 674 | 628 | Ronald Higgins |
 | 675 | 626 | Autumn Schaeffer |
 | 676 | 626 | Toni Whipple |
 | 677 | 626 | Daring Caster |

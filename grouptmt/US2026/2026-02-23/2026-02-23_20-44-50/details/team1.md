@@ -263,8 +263,8 @@
 | 255 | 340 | Danielle Little-Daugherty |
 | 256 | 340 | Robert |
 | 257 | 338 | Layzietyme |
-| 258 | 337 | Lindsay Glover |
-| 259 | 337 | Jamise Brown |
+| 258 | 337 | Jamise Brown |
+| 259 | 337 | Lindsay Glover |
 | 260 | 336 | Adele Rahman |
 | 261 | 335 | Eric DeSimone |
 | 262 | 334 | Tipsy Builder |
@@ -278,19 +278,19 @@
 | 270 | 332 | Letson Melissa |
 | 271 | 332 | Standia Civil |
 | 272 | 331 | Larissa Marie Nelson |
-| 273 | 329 | Frothy Pattern |
-| 274 | 329 | Marianita Garcia |
+| 273 | 329 | Marianita Garcia |
+| 274 | 329 | Frothy Pattern |
 | 275 | 328 | Jeremy Maubert |
 | 276 | 325 | GringaLinga |
-| 277 | 324 | Mandyy Rae |
-| 278 | 324 | Sylvia Vasquez |
+| 277 | 324 | Sylvia Vasquez |
+| 278 | 324 | Mandyy Rae |
 | 279 | 323 | Irv |
 | 280 | 322 | Sarah Roberts |
 | 281 | 322 | Christina Norman |
 | 282 | 318 | Mitchel White |
-| 283 | 317 | Zany Tiler |
+| 283 | 317 | Bloknboy |
 | 284 | 317 | Sam Williams |
-| 285 | 317 | Bloknboy |
+| 285 | 317 | Zany Tiler |
 | 286 | 316 | Cheeky Pop |
 | 287 | 315 | Flashy Rotator |
 | 288 | 313 | Cody Gates |
