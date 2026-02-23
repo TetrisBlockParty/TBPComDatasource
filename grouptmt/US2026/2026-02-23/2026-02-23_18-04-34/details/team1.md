@@ -146,8 +146,8 @@
 | 138 | 491 | cc |
 | 139 | 489 | Deanna L Hermanson |
 | 140 | 488 | Hyper |
-| 141 | 487 | Kandae |
-| 142 | 487 | Rebekah LeiAnn Bonsell |
+| 141 | 487 | Rebekah LeiAnn Bonsell |
+| 142 | 487 | Kandae |
 | 143 | 486 | Dee Perry |
 | 144 | 483 | Trina Gee |
 | 145 | 477 | Tonya Beasley |
@@ -274,8 +274,8 @@
 | 266 | 316 | DoodleBug |
 | 267 | 315 | Hellsin |
 | 268 | 313 | Cody Gates |
-| 269 | 312 | Mitchel White |
-| 270 | 312 | Danielle S Kester |
+| 269 | 312 | Danielle S Kester |
+| 270 | 312 | Mitchel White |
 | 271 | 311 | Nathan Sealander |
 | 272 | 310 | Christina Norman |
 | 273 | 310 | Matt Iaccheo |

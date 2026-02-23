@@ -125,8 +125,8 @@
 | 117 | 896 | Jesse Olive |
 | 118 | 878 | Shane Wilson Jr. |
 | 119 | 874 | Jessica Pineda-Lopez |
-| 120 | 868 | Sarajane Lokan |
-| 121 | 868 | Felicia Rocha |
+| 120 | 868 | Felicia Rocha |
+| 121 | 868 | Sarajane Lokan |
 | 122 | 864 | Sunny Rotater |
 | 123 | 861 | Bobbi Moore |
 | 124 | 860 | Kristie |
@@ -148,8 +148,8 @@
 | 140 | 776 | Tasha Schriewer |
 | 141 | 773 | Daira Largen |
 | 142 | 770 | Daryn Elliott |
-| 143 | 764 | Groovy Catcher |
-| 144 | 764 | Hasty Cascadefit |
+| 143 | 764 | Hasty Cascadefit |
+| 144 | 764 | Groovy Catcher |
 | 145 | 759 | yoyo |
 | 146 | 757 | Fancy Cascader |
 | 147 | 756 | Patty Allen |
@@ -240,7 +240,7 @@
 | 232 | 519 | Nichol Graham |
 | 233 | 516 | Daring Brickzone |
 | 234 | 515 | Cozy Snaplink |
-| 235 | 513 | kacihall |
+| 235 | 513 | Lizabeth Fox |
 | 236 | 513 | Twisty Brick LT |
 | 237 | 513 | kacihall |
 | 238 | 508 | joz |
@@ -309,8 +309,8 @@
 | 301 | 405 | Desiree Gold |
 | 302 | 405 | Steffi Chris Dacones |
 | 303 | 403 | lashanda |
-| 304 | 403 | Stephanie Burtin |
-| 305 | 403 | Scott Lindsay |
+| 304 | 403 | Scott Lindsay |
+| 305 | 403 | Stephanie Burtin |
 | 306 | 400 | Dana Winters |
 | 307 | 398 | fraulila |
 | 308 | 397 | Heather De Vries Cobb |
@@ -489,7 +489,7 @@
 | 481 | 271 | Hyper Twisterfit |
 | 482 | 270 | Hyper Bridger |
 | 483 | 269 | Samantha Worley |
-| 484 | 269 | Tomoe |
+| 484 | 269 | Aponk |
 | 485 | 269 | Goofy Fall |
 | 486 | 269 | Tomoe |
 | 487 | 268 | Jessica Lynn French |
@@ -529,8 +529,8 @@
 | 521 | 255 | LaNette Morgan |
 | 522 | 255 | Mariah Williams |
 | 523 | 255 | Jolly Dashpiece |
-| 524 | 254 | Landycandii |
-| 525 | 254 | Katheline Lazo Luizaga |
+| 524 | 254 | Katheline Lazo Luizaga |
+| 525 | 254 | Landycandii |
 | 526 | 254 | atomictrin |
 | 527 | 253 | Kristen McAlpine |
 | 528 | 253 | Boldy Blocker |

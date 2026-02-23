@@ -142,8 +142,8 @@
 | 134 | 545 | Desi Desporte |
 | 135 | 542 | Austin Owens |
 | 136 | 540 | Rodney McMath Jr. |
-| 137 | 538 | shar |
-| 138 | 538 | Carlos Ramirez |
+| 137 | 538 | Carlos Ramirez |
+| 138 | 538 | shar |
 | 139 | 531 | Serena Goodridge |
 | 140 | 528 | Kimberlee Jan Beckstead |
 | 141 | 521 | Andy Cabral |
@@ -231,8 +231,8 @@
 | 223 | 363 | Cindy Looper |
 | 224 | 363 | Googenheim |
 | 225 | 362 | Meg |
-| 226 | 361 | Mimi |
-| 227 | 361 | Rafael Valentin |
+| 226 | 361 | Rafael Valentin |
+| 227 | 361 | Mimi |
 | 228 | 361 | Danielle Kollias |
 | 229 | 359 | Plucky Patternblock |
 | 230 | 358 | Twisty Cascadezone |
@@ -382,10 +382,10 @@
 | 374 | 237 | Jewell Urban |
 | 375 | 235 | LaDonna LovinmesomeMe Lambert |
 | 376 | 235 | Shainne Brewer |
-| 377 | 234 | Richard-April Kice |
-| 378 | 234 | Shanon Klair |
-| 379 | 234 | Diosa Ebalobo Magsael |
-| 380 | 234 | Amanda Christine |
+| 377 | 234 | Shanon Klair |
+| 378 | 234 | Richard-April Kice |
+| 379 | 234 | Amanda Christine |
+| 380 | 234 | Diosa Ebalobo Magsael |
 | 381 | 233 | Joseph Edmonson |
 | 382 | 232 | Jenny Wells-Oakley |
 | 383 | 231 | SAP |
@@ -416,8 +416,8 @@
 | 408 | 217 | Cheery Fitline |
 | 409 | 217 | GBR |
 | 410 | 216 | Funky Risepiece |
-| 411 | 216 | Jen Hallin |
-| 412 | 216 | Ryry |
+| 411 | 216 | Ryry |
+| 412 | 216 | Jen Hallin |
 | 413 | 215 | Tanya Abernathy Jackson |
 | 414 | 215 | Squeezy Pearsall |
 | 415 | 214 | Susan R. Wilson |
@@ -426,12 +426,12 @@
 | 418 | 212 | Mike Solo |
 | 419 | 211 | Shiny Pivoty |
 | 420 | 211 | Becky Shimko |
-| 421 | 210 | Jessica Atkinson |
-| 422 | 210 | Cool Gridzone |
+| 421 | 210 | Cool Gridzone |
+| 422 | 210 | Jessica Atkinson |
 | 423 | 210 | Vanessa Smart |
-| 424 | 209 | Marcus Todd |
-| 425 | 209 | PennyCandee |
-| 426 | 209 | Snippy Puzzle |
+| 424 | 209 | Snippy Puzzle |
+| 425 | 209 | Marcus Todd |
+| 426 | 209 | PennyCandee |
 | 427 | 209 | Matthew Pate |
 | 428 | 208 | Wacky Blockclear |
 | 429 | 207 | Jessica Wells |
@@ -482,8 +482,8 @@
 | 474 | 190 | wombat |
 | 475 | 190 | Robert Rangel |
 | 476 | 189 | Marcus TheeyoungWoe Gilmore |
-| 477 | 188 | Frilly Blocky |
-| 478 | 188 | Stacy |
+| 477 | 188 | Stacy |
+| 478 | 188 | Frilly Blocky |
 | 479 | 187 | Jason Punch |
 | 480 | 186 | Jesse Saville |
 | 481 | 186 | Dandy Cascadefit |
