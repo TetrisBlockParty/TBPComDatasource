@@ -197,8 +197,8 @@
 | 189 | 465 | Jolly Dashfit |
 | 190 | 464 | Sharyn Lemire |
 | 191 | 462 | Leslie Thomas |
-| 192 | 457 | June Hoffman |
-| 193 | 457 | Kristin Manee |
+| 192 | 457 | Kristin Manee |
+| 193 | 457 | June Hoffman |
 | 194 | 455 | Michele Plunkett |
 | 195 | 453 | SAP |
 | 196 | 450 | Amanda Pauldo-Ivy |
@@ -337,8 +337,8 @@
 | 329 | 289 | Juls |
 | 330 | 289 | Lazy Glidepiece |
 | 331 | 289 | Deb Rubeck |
-| 332 | 288 | Jumpy Zonepiece |
-| 333 | 288 | Amy Jean |
+| 332 | 288 | Amy Jean |
+| 333 | 288 | Jumpy Zonepiece |
 | 334 | 286 | Bradley Reeves |
 | 335 | 284 | Chair |
 | 336 | 284 | Malakai Darien Fox |

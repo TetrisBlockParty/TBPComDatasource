@@ -137,8 +137,8 @@
 | 129 | 945 | Shonna Roberts |
 | 130 | 940 | Stephanie Allmon |
 | 131 | 939 | Jamie Lang |
-| 132 | 936 | Dolores Falco |
-| 133 | 936 | Giddy Drop |
+| 132 | 936 | Giddy Drop |
+| 133 | 936 | Dolores Falco |
 | 134 | 932 | Katrina Schroeder |
 | 135 | 931 | Michelle |
 | 136 | 930 | Bea Miles |
@@ -233,13 +233,13 @@
 | 225 | 585 | Jim Mathews |
 | 226 | 582 | Natasha Jones |
 | 227 | 580 | FuzzyNavel |
-| 228 | 569 | Juliana Dottore |
-| 229 | 569 | Michael Johnson |
+| 228 | 569 | Michael Johnson |
+| 229 | 569 | Juliana Dottore |
 | 230 | 568 | Rachael McClain Owens |
 | 231 | 567 | Trisha Balmer |
 | 232 | 566 | LaTanya GeminiondaRise Johnson |
-| 233 | 564 | Poppy Splitter |
-| 234 | 564 | Christine Trester |
+| 233 | 564 | Christine Trester |
+| 234 | 564 | Poppy Splitter |
 | 235 | 563 | Fallorina Susana |
 | 236 | 562 | Dave Herzog |
 | 237 | 561 | Silly Twist |
@@ -272,8 +272,8 @@
 | 264 | 513 | Giggy Glidepiece |
 | 265 | 513 | Lizabeth Fox |
 | 266 | 510 | Marquita Sheard |
-| 267 | 508 | rosy |
-| 268 | 508 | joz |
+| 267 | 508 | joz |
+| 268 | 508 | rosy |
 | 269 | 507 | Snappy Balancer |
 | 270 | 506 | Ammmmmmy |
 | 271 | 505 | Stephanie Simpson |
