@@ -85,8 +85,8 @@
 | 77 | 646 | Susanna Guerry |
 | 78 | 612 | Hasbro Bros |
 | 79 | 599 | Cynthia Bradley |
-| 80 | 598 | Erin Hodges Plumb |
-| 81 | 598 | Kellie |
+| 80 | 598 | Kellie |
+| 81 | 598 | Erin Hodges Plumb |
 | 82 | 597 | Evie Khalil |
 | 83 | 588 | Greg Hart |
 | 84 | 584 | Jen Sartain |
@@ -96,8 +96,8 @@
 | 88 | 570 | Cody Slav |
 | 89 | 562 | Denice Dee |
 | 90 | 537 | Tee Sheree |
-| 91 | 534 | Loony Fitzone |
-| 92 | 534 | Veronica Eve |
+| 91 | 534 | Veronica Eve |
+| 92 | 534 | Loony Fitzone |
 | 93 | 532 | Robert Benito |
 | 94 | 529 | Ryan Lunnin |
 | 95 | 522 | Sarah Lombardo |
@@ -151,13 +151,13 @@
 | 143 | 383 | pjbeta |
 | 144 | 383 | Margo Wagner |
 | 145 | 380 | phrmblk24 |
-| 146 | 379 | Austin James |
-| 147 | 379 | Kimmie Kimms |
+| 146 | 379 | Kimmie Kimms |
+| 147 | 379 | Austin James |
 | 148 | 376 | Death |
 | 149 | 376 | Brian Richardsson |
 | 150 | 375 | Tanya Carpenter-Reynolds |
-| 151 | 371 | Basment Living |
-| 152 | 371 | Jason Savage |
+| 151 | 371 | Jason Savage |
+| 152 | 371 | Basment Living |
 | 153 | 368 | Amanda Johnson Huffman |
 | 154 | 367 | Sharon Reynolds |
 | 155 | 366 | J.F. Fields |
@@ -167,8 +167,8 @@
 | 159 | 360 | Wisa |
 | 160 | 357 | David Lutcher |
 | 161 | 355 | Amanda Jarnagin |
-| 162 | 353 | Jaimie Lynn |
-| 163 | 353 | Josh Riemer |
+| 162 | 353 | Josh Riemer |
+| 163 | 353 | Jaimie Lynn |
 | 164 | 350 | Tipsy Strikerpiece |
 | 165 | 349 | Cool Shiftsnap |
 | 166 | 347 | Kristi Johnson |
@@ -191,8 +191,8 @@
 | 183 | 324 | Rat666 |
 | 184 | 323 | Madison Wicks |
 | 185 | 322 | Letson Melissa |
-| 186 | 318 | Virginia Gray Floyd |
-| 187 | 318 | Jessica Sheehan |
+| 186 | 318 | Jessica Sheehan |
+| 187 | 318 | Virginia Gray Floyd |
 | 188 | 317 | Sarah Roberts |
 | 189 | 316 | Reesey Enyart |
 | 190 | 315 | Danielle Little-Daugherty |

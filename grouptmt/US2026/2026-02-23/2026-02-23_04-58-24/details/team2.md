@@ -207,8 +207,8 @@
 | 199 | 1300 | Tacara Cummings |
 | 200 | 1293 | Anna Edwards |
 | 201 | 1286 | Altamirano Michael |
-| 202 | 1282 | Tanya Parsons |
-| 203 | 1282 | Ashley Rose Frederick |
+| 202 | 1282 | Ashley Rose Frederick |
+| 203 | 1282 | Tanya Parsons |
 | 204 | 1259 | Foxxo |
 | 205 | 1258 | Joyce Johnson Vaughn |
 | 206 | 1252 | Angel |
@@ -315,8 +315,8 @@
 | 307 | 951 | Cynthia Ward |
 | 308 | 947 | Dedra Steward |
 | 309 | 941 | Cool Clearer |
-| 310 | 939 | SaraMarie Eveland |
-| 311 | 939 | Cindy Sechler Taninecz |
+| 310 | 939 | Cindy Sechler Taninecz |
+| 311 | 939 | SaraMarie Eveland |
 | 312 | 929 | Joshua Mandel |
 | 313 | 926 | Deborah Miller |
 | 314 | 919 | Isaac Trappiel IV |
@@ -500,8 +500,8 @@
 | 492 | 650 | Gary Stash |
 | 493 | 648 | Brittney Jean |
 | 494 | 646 | Jazzy Clusterline |
-| 495 | 644 | Véronique Lévesque Sabourin |
-| 496 | 644 | Demeka Dangerous-kisses Johnson |
+| 495 | 644 | Demeka Dangerous-kisses Johnson |
+| 496 | 644 | Véronique Lévesque Sabourin |
 | 497 | 643 | Michelle Pike |
 | 498 | 642 | Cassie Maynard |
 | 499 | 642 | Michelle Fields |
@@ -509,8 +509,8 @@
 | 501 | 640 | BYM4L |
 | 502 | 639 | Toni Roberson |
 | 503 | 639 | Alexandra Weir |
-| 504 | 639 | Rebecca Miller |
-| 505 | 639 | Jackie Avila |
+| 504 | 639 | Jackie Avila |
+| 505 | 639 | Rebecca Miller |
 | 506 | 637 | Paul Combs |
 | 507 | 635 | Dennis McLaurin |
 | 508 | 635 | Gauri Shrotriya |

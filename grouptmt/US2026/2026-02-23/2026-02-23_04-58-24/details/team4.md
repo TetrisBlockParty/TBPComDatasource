@@ -95,8 +95,8 @@
 | 87 | 664 | Valerie Roberts |
 | 88 | 659 | Jamie Gustafson |
 | 89 | 650 | KJ Pool |
-| 90 | 647 | Shauna Havard |
-| 91 | 647 | KM8 |
+| 90 | 647 | KM8 |
+| 91 | 647 | Shauna Havard |
 | 92 | 647 | Diana Houts |
 | 93 | 646 | Eric Mcgaughy |
 | 94 | 626 | Brittney Griggs |
@@ -135,8 +135,8 @@
 | 127 | 458 | Twisty Clicky |
 | 128 | 451 | Peachy Fall |
 | 129 | 448 | Kristin Manee |
-| 130 | 435 | Kristina Black |
-| 131 | 435 | Leslie Thomas |
+| 130 | 435 | Leslie Thomas |
+| 131 | 435 | Kristina Black |
 | 132 | 431 | Courtney Cicoria |
 | 133 | 425 | Monica Daley |
 | 134 | 421 | JIGsaw ~(•¿°)~ |
@@ -163,8 +163,8 @@
 | 155 | 377 | Carrie Brian |
 | 156 | 375 | Desi Desporte |
 | 157 | 375 | ThaEviLJeNiuZ |
-| 158 | 374 | Guy Incognito |
-| 159 | 374 | Leslie Nicole |
+| 158 | 374 | Leslie Nicole |
+| 159 | 374 | Guy Incognito |
 | 160 | 370 | Oscar Alberto Perez |
 | 161 | 369 | Lindsey Gonzalez |
 | 162 | 368 | Silly Zonebuilder |
@@ -241,8 +241,8 @@
 | 233 | 270 | Jen Caldwell |
 | 234 | 267 | JPW |
 | 235 | 266 | Mr. Party |
-| 236 | 265 | Silly SeaWeed |
-| 237 | 265 | Sarah Neathery |
+| 236 | 265 | Sarah Neathery |
+| 237 | 265 | Silly SeaWeed |
 | 238 | 264 | Stella |
 | 239 | 262 | Selena Shaw |
 | 240 | 262 | BigSammy420 |
@@ -251,8 +251,8 @@
 | 243 | 259 | Montiette Mcglown |
 | 244 | 259 | Allen Lloyd |
 | 245 | 257 | PeaceOs |
-| 246 | 256 | Mylo Lipscomb |
-| 247 | 256 | Metsfan |
+| 246 | 256 | Metsfan |
+| 247 | 256 | Mylo Lipscomb |
 | 248 | 255 | Zethra Prenisha Rahming |
 | 249 | 253 | Autum Leigh |
 | 250 | 252 | John Brunetti |
