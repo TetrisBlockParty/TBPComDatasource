@@ -62,8 +62,8 @@
 | 54 | 1156 | Goatimus Lombardi |
 | 55 | 1150 | Kimyatta Cavin |
 | 56 | 1106 | Ashley Ingram |
-| 57 | 1082 | Dion Crommarty |
-| 58 | 1082 | Avy Absol |
+| 57 | 1082 | Avy Absol |
+| 58 | 1082 | Dion Crommarty |
 | 59 | 1073 | Dustee Craddock-Harrison |
 | 60 | 1072 | Rachel Anne |
 | 61 | 1049 | Heather Tushner |
@@ -182,8 +182,8 @@
 | 174 | 497 | Brandon Crabbs |
 | 175 | 496 | Cindy Looper |
 | 176 | 492 | Rico |
-| 177 | 491 | Jade Rian |
-| 178 | 491 | Carrie Brian |
+| 177 | 491 | Carrie Brian |
+| 178 | 491 | Jade Rian |
 | 179 | 489 | Swanky Fitline |
 | 180 | 487 | April Rondinone |
 | 181 | 487 | Sam Bishop |
@@ -260,8 +260,8 @@
 | 252 | 369 | Matt Dell'Olio |
 | 253 | 368 | Kris Bartlett |
 | 254 | 367 | Meg |
-| 255 | 366 | Andrew Dang |
-| 256 | 366 | Cheery Risebuilder |
+| 255 | 366 | Cheery Risebuilder |
+| 256 | 366 | Andrew Dang |
 | 257 | 365 | Hyper Builder |
 | 258 | 363 | KimoKoala |
 | 259 | 361 | Danielle Kollias |
