@@ -78,8 +78,8 @@
 | 70 | 1264 | Amanda L Baker |
 | 71 | 1258 | Danielle Cutler |
 | 72 | 1256 | Jessica Bechler |
-| 73 | 1213 | Snappy Glidepiece |
-| 74 | 1213 | Nerdy Riseclear |
+| 73 | 1213 | Nerdy Riseclear |
+| 74 | 1213 | Snappy Glidepiece |
 | 75 | 1209 | Amanda Adkins |
 | 76 | 1186 | Christian A. Pollard |
 | 77 | 1162 | Gracie |
@@ -117,8 +117,8 @@
 | 109 | 869 | Araceli Parra |
 | 110 | 868 | Sarajane Lokan |
 | 111 | 860 | Sunny Rotater |
-| 112 | 851 | Jd Morris |
-| 113 | 851 | Danielle Becker |
+| 112 | 851 | Danielle Becker |
+| 113 | 851 | Jd Morris |
 | 114 | 850 | Danielle Mogg |
 | 115 | 848 | Patricia Gadsden |
 | 116 | 839 | Angeline Joseph |
@@ -135,8 +135,8 @@
 | 127 | 764 | Groovy Catcher |
 | 128 | 764 | Hasty Cascadefit |
 | 129 | 762 | Speedy Bridger |
-| 130 | 755 | Raya |
-| 131 | 755 | Katrina Schroeder |
+| 130 | 755 | Katrina Schroeder |
+| 131 | 755 | Raya |
 | 132 | 752 | Logan Naccarato |
 | 133 | 748 | Adrian Marcel Pate |
 | 134 | 746 | Giddy Drop |
@@ -198,9 +198,9 @@
 | 190 | 549 | Sarah Cowan Burgos |
 | 191 | 548 | Danielle Balcom |
 | 192 | 547 | Staci George Fitzsimmons |
-| 193 | 546 | Mykal Burton |
+| 193 | 546 | Cynthia Castros-Hampton |
 | 194 | 546 | Tasha Schriewer |
-| 195 | 546 | Cynthia Castros-Hampton |
+| 195 | 546 | Mykal Burton |
 | 196 | 540 | Shawn Miller |
 | 197 | 536 | Makelini Mausia |
 | 198 | 533 | Rania Zaqout |
@@ -355,8 +355,8 @@
 | 347 | 311 | Troy |
 | 348 | 309 | Desiree Gold |
 | 349 | 309 | Cheeky Snapper |
-| 350 | 308 | Katrina Turner |
-| 351 | 308 | Tia |
+| 350 | 308 | Tia |
+| 351 | 308 | Katrina Turner |
 | 352 | 305 | Hyper Matchzone |
 | 353 | 304 | _melisa223_ |
 | 354 | 303 | Alexmac |
@@ -372,8 +372,8 @@
 | 364 | 298 | Grams |
 | 365 | 298 | Dannie Litchard |
 | 366 | 297 | kacihall |
-| 367 | 296 | Donna |
-| 368 | 296 | Tracy Martin |
+| 367 | 296 | Tracy Martin |
+| 368 | 296 | Donna |
 | 369 | 296 | Amy Montz |
 | 370 | 295 | Spencer Nikki |
 | 371 | 292 | Dakota Graham |
@@ -480,7 +480,7 @@
 | 472 | 237 | Jolly Dashpiece |
 | 473 | 236 | Frothy Snapper |
 | 474 | 236 | Alexis Ford |
-| 475 | 236 | Frothy Snapper |
+| 475 | 236 | Loopy Fallzone |
 | 476 | 234 | Cheeky Twisterfit |
 | 477 | 233 | Tony Waters |
 | 478 | 233 | Anna Moeller |
@@ -717,7 +717,7 @@
 | 709 | 167 | Frothy Glider |
 | 710 | 167 | Kell Cinn |
 | 711 | 167 | Pam Holt Powell |
-| 712 | 167 | Kell Cinn |
+| 712 | 167 | Timea Popladek |
 | 713 | 167 | Funky Brickster |
 | 714 | 166 | Bigz |
 | 715 | 166 | Misha Sanders |

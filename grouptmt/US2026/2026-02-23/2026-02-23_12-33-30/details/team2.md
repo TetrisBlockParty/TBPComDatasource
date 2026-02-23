@@ -44,8 +44,8 @@
 | 36 | 4301 | Mighty Patternzone |
 | 37 | 4199 | Claire Noland |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Kristen Sceurman |
-| 40 | 4120 | Corrine Hawks Soriano |
+| 39 | 4120 | Corrine Hawks Soriano |
+| 40 | 4120 | Kristen Sceurman |
 | 41 | 4086 | PandaMama |
 | 42 | 3963 | CoolKat |
 | 43 | 3947 | Melinda Brown |
@@ -381,8 +381,8 @@
 | 373 | 883 | Hong Tang |
 | 374 | 878 | Sinistah42o |
 | 375 | 872 | Brenda Utphall |
-| 376 | 869 | Venita Ray |
-| 377 | 869 | BYM4L |
+| 376 | 869 | BYM4L |
+| 377 | 869 | Venita Ray |
 | 378 | 862 | Sarah Massey |
 | 379 | 858 | Lauren Fitzgerald Thomas |
 | 380 | 856 | Mighty Shatterfit |
@@ -591,8 +591,8 @@
 | 583 | 614 | Jessica S Flecha |
 | 584 | 614 | Emilee Burke |
 | 585 | 613 | Audrey Jones |
-| 586 | 612 | Slinky Racker |
-| 587 | 612 | Briana Alexander |
+| 586 | 612 | Briana Alexander |
+| 587 | 612 | Slinky Racker |
 | 588 | 611 | Autumn Schaeffer |
 | 589 | 609 | Cecilia A Jenkins |
 | 590 | 609 | Anthony Huebel |
