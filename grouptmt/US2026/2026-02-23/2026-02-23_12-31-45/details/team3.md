@@ -169,8 +169,8 @@
 | 161 | 634 | Amber Hughes |
 | 162 | 631 | Grego Daniel |
 | 163 | 630 | yoyo |
-| 164 | 621 | Sashay Tapae Simpson |
-| 165 | 621 | Cherry Parker |
+| 164 | 621 | Cherry Parker |
+| 165 | 621 | Sashay Tapae Simpson |
 | 166 | 616 | Kammy Hill |
 | 167 | 611 | Rochelle Hazelett |
 | 168 | 603 | Jone |
@@ -217,8 +217,8 @@
 | 209 | 498 | Melissa Orth Hunter |
 | 210 | 496 | Loopy Fallmatch |
 | 211 | 494 | FuzzyNavel |
-| 212 | 491 | Michael Johnson |
-| 213 | 491 | Angela Scott |
+| 212 | 491 | Angela Scott |
+| 213 | 491 | Michael Johnson |
 | 214 | 488 | joz |
 | 215 | 485 | Dapper Snap |
 | 216 | 484 | Fallorina Susana |
@@ -355,8 +355,8 @@
 | 347 | 311 | Troy |
 | 348 | 309 | Desiree Gold |
 | 349 | 309 | Cheeky Snapper |
-| 350 | 308 | Katrina Turner |
-| 351 | 308 | Tia |
+| 350 | 308 | Tia |
+| 351 | 308 | Katrina Turner |
 | 352 | 305 | Hyper Matchzone |
 | 353 | 304 | _melisa223_ |
 | 354 | 303 | Alexmac |
@@ -372,8 +372,8 @@
 | 364 | 298 | Dannie Litchard |
 | 365 | 298 | Grams |
 | 366 | 297 | kacihall |
-| 367 | 296 | Donna |
-| 368 | 296 | Tracy Martin |
+| 367 | 296 | Tracy Martin |
+| 368 | 296 | Donna |
 | 369 | 296 | Amy Montz |
 | 370 | 295 | Spencer Nikki |
 | 371 | 292 | Arden White Kirsch |
@@ -500,8 +500,8 @@
 | 492 | 226 | Ryan Williams |
 | 493 | 225 | sofaking |
 | 494 | 225 | Sassy Tiler |
-| 495 | 224 | Cranky Corner |
-| 496 | 224 | Sarah Morris |
+| 495 | 224 | Sarah Morris |
+| 496 | 224 | Cranky Corner |
 | 497 | 222 | Angel Miller |
 | 498 | 221 | Spicy Cascadepiece |
 | 499 | 221 | Emma |
