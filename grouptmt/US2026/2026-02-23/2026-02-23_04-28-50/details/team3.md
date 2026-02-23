@@ -117,8 +117,8 @@
 | 109 | 831 | Angeline Joseph |
 | 110 | 830 | Stephanie Allmon |
 | 111 | 826 | Shane Wilson Jr. |
-| 112 | 816 | Jesse Olive |
-| 113 | 816 | Brenda Lee Vander Molen |
+| 112 | 816 | Brenda Lee Vander Molen |
+| 113 | 816 | Jesse Olive |
 | 114 | 800 | Lauren Girouard |
 | 115 | 799 | Dolores Falco |
 | 116 | 769 | Kristie |
@@ -271,8 +271,8 @@
 | 263 | 357 | Stephanie Burtin |
 | 264 | 354 | Kelly |
 | 265 | 353 | Dee Franklin |
-| 266 | 352 | Samantha Lynn |
-| 267 | 352 | Christian Werndl |
+| 266 | 352 | Christian Werndl |
+| 267 | 352 | Samantha Lynn |
 | 268 | 351 | Eon Harris |
 | 269 | 350 | LaShey Thompson |
 | 270 | 349 | Amanda J. Mcneil-Anderson |
@@ -308,7 +308,7 @@
 | 300 | 304 | Betty Bóò |
 | 301 | 304 | _melisa223_ |
 | 302 | 303 | Carrie Huskey |
-| 303 | 303 | Hoppy Buildout |
+| 303 | 303 | Alexmac |
 | 304 | 303 | Beaudie Stroebel |
 | 305 | 303 | Hoppy Buildout |
 | 306 | 301 | Tiffany Davie |

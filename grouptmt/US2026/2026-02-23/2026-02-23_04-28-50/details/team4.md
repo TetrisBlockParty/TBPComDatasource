@@ -57,8 +57,8 @@
 | 49 | 863 | Pee |
 | 50 | 855 | Marvin Lou Martin |
 | 51 | 853 | TeeJ |
-| 52 | 846 | Christine Marie |
-| 53 | 846 | Lucille Truesdale |
+| 52 | 846 | Lucille Truesdale |
+| 53 | 846 | Christine Marie |
 | 54 | 845 | LisaJo Picken Buchanan |
 | 55 | 843 | Shelly Chandler |
 | 56 | 841 | Anthony Bryan Riva |
@@ -118,12 +118,12 @@
 | 110 | 519 | Nugget |
 | 111 | 517 | Christina LR |
 | 112 | 516 | Austin Owens |
-| 113 | 514 | Serena Goodridge |
-| 114 | 514 | Scott Jameson |
-| 115 | 513 | shar |
-| 116 | 513 | Erin Thomas |
-| 117 | 512 | Cristy Duerksen |
-| 118 | 512 | Casey Jeffcoat |
+| 113 | 514 | Scott Jameson |
+| 114 | 514 | Serena Goodridge |
+| 115 | 513 | Erin Thomas |
+| 116 | 513 | shar |
+| 117 | 512 | Casey Jeffcoat |
+| 118 | 512 | Cristy Duerksen |
 | 119 | 511 | Lori Walker |
 | 120 | 489 | Chilly Crasher |
 | 121 | 482 | Ren Mc |
@@ -135,8 +135,8 @@
 | 127 | 458 | Twisty Clicky |
 | 128 | 451 | Peachy Fall |
 | 129 | 448 | Kristin Manee |
-| 130 | 435 | Kristina Black |
-| 131 | 435 | Leslie Thomas |
+| 130 | 435 | Leslie Thomas |
+| 131 | 435 | Kristina Black |
 | 132 | 431 | Courtney Cicoria |
 | 133 | 425 | Monica Daley |
 | 134 | 421 | JIGsaw ~(•¿°)~ |
@@ -190,8 +190,8 @@
 | 182 | 330 | Kathy Brookins |
 | 183 | 328 | scott |
 | 184 | 327 | J-Rizzle |
-| 185 | 324 | jim |
-| 186 | 324 | Antony Dwayne Beasley |
+| 185 | 324 | Antony Dwayne Beasley |
+| 186 | 324 | jim |
 | 187 | 321 | Bio Nelly |
 | 188 | 321 | Meagan Nicole |
 | 189 | 320 | Lauren Scott |
@@ -229,8 +229,8 @@
 | 221 | 281 | Laura |
 | 222 | 278 | Angela Geist Jusinski |
 | 223 | 278 | Sarah Brown |
-| 224 | 276 | Matt Dell'Olio |
-| 225 | 276 | Joeliecea Cobb |
+| 224 | 276 | Joeliecea Cobb |
+| 225 | 276 | Matt Dell'Olio |
 | 226 | 273 | Casey Grabner |
 | 227 | 272 | Dennis Bradley |
 | 228 | 272 | Alan George LaRage |
@@ -246,11 +246,11 @@
 | 238 | 262 | BigSammy420 |
 | 239 | 262 | Selena Shaw |
 | 240 | 260 | Carter Jones |
-| 241 | 259 | Montiette Mcglown |
-| 242 | 259 | Allen Lloyd |
+| 241 | 259 | Allen Lloyd |
+| 242 | 259 | Montiette Mcglown |
 | 243 | 257 | PeaceOs |
-| 244 | 256 | Metsfan |
-| 245 | 256 | Mylo Lipscomb |
+| 244 | 256 | Mylo Lipscomb |
+| 245 | 256 | Metsfan |
 | 246 | 255 | Zethra Prenisha Rahming |
 | 247 | 253 | Autum Leigh |
 | 248 | 252 | John Brunetti |
@@ -334,8 +334,8 @@
 | 326 | 198 | Calvin Dennis |
 | 327 | 196 | Megan Cutshaw |
 | 328 | 196 | Blessedmama |
-| 329 | 194 | SammieJo Guy |
-| 330 | 194 | Zany Twisterfit |
+| 329 | 194 | Zany Twisterfit |
+| 330 | 194 | SammieJo Guy |
 | 331 | 192 | Twisty Risebuilder |
 | 332 | 192 | Meg |
 | 333 | 191 | Earnest Thompson |

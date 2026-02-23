@@ -136,8 +136,8 @@
 | 128 | 1769 | Katrina Williams Balmir |
 | 129 | 1749 | Auntie B |
 | 130 | 1728 | Mr. Street Stack |
-| 131 | 1681 | Nett |
-| 132 | 1681 | Shandrica Lowe |
+| 131 | 1681 | Shandrica Lowe |
+| 132 | 1681 | Nett |
 | 133 | 1658 | Liberty |
 | 134 | 1656 | Kristopher Miller |
 | 135 | 1644 | Luna |
@@ -399,8 +399,8 @@
 | 391 | 769 | Kimberly Hope Howell |
 | 392 | 768 | Arkei Luster |
 | 393 | 768 | Joshua Self |
-| 394 | 767 | Fancy Twister |
-| 395 | 767 | Ashley Lopez |
+| 394 | 767 | Ashley Lopez |
+| 395 | 767 | Fancy Twister |
 | 396 | 763 | Dreamy Blast |
 | 397 | 763 | Heather Causey |
 | 398 | 762 | Bee |
@@ -708,8 +708,8 @@
 | 700 | 474 | Calandra Shaya Robinson |
 | 701 | 473 | coleksquad |
 | 702 | 472 | bbv |
-| 703 | 472 | Arwa Fatimah |
-| 704 | 472 | Connie Lepore-Mann |
+| 703 | 472 | Connie Lepore-Mann |
+| 704 | 472 | Arwa Fatimah |
 | 705 | 471 | Charming Leech |
 | 706 | 470 | Katie Marie |
 | 707 | 470 | Amanda Chamberlain |

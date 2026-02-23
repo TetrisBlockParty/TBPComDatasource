@@ -239,19 +239,19 @@
 | 231 | 267 | Daring Fitclear |
 | 232 | 265 | Kandae |
 | 233 | 264 | Jenny Gingrich Fuentes |
-| 234 | 263 | Jessie Lynn |
-| 235 | 263 | Perky Shiftsnap |
+| 234 | 263 | Perky Shiftsnap |
+| 235 | 263 | Jessie Lynn |
 | 236 | 261 | John J. Cronin |
-| 237 | 260 | Lacy Wolfe |
-| 238 | 260 | Marianita Garcia |
+| 237 | 260 | Marianita Garcia |
+| 238 | 260 | Lacy Wolfe |
 | 239 | 257 | Sarah Somers Gray |
 | 240 | 255 | Giggly Builderline |
 | 241 | 254 | Al Smith Jr |
 | 242 | 253 | Jamie Jury |
 | 243 | 252 | Dena Kayy |
 | 244 | 251 | MRdot Rooski |
-| 245 | 247 | Brenda Alexander |
-| 246 | 247 | DaRascal |
+| 245 | 247 | DaRascal |
+| 246 | 247 | Brenda Alexander |
 | 247 | 245 | Matt Iaccheo |
 | 248 | 245 | LaFontaine Leslie |
 | 249 | 244 | Eddie Dillon |
