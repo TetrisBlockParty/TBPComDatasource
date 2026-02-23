@@ -62,8 +62,8 @@
 | 54 | 864 | Shelly Chandler |
 | 55 | 863 | Pee |
 | 56 | 859 | TeeJ |
-| 57 | 846 | Christine Marie |
-| 58 | 846 | Lucille Truesdale |
+| 57 | 846 | Lucille Truesdale |
+| 58 | 846 | Christine Marie |
 | 59 | 845 | LisaJo Picken Buchanan |
 | 60 | 834 | quicksand420 |
 | 61 | 811 | Ashley Ingram |
@@ -71,8 +71,8 @@
 | 63 | 807 | Amelpss |
 | 64 | 788 | Julian Garcia |
 | 65 | 788 | Chilly Line |
-| 66 | 787 | loulou |
-| 67 | 787 | Edward White |
+| 66 | 787 | Edward White |
+| 67 | 787 | loulou |
 | 68 | 767 | Shannon Ferrari |
 | 69 | 766 | Robin Watters |
 | 70 | 765 | Robin Getchel |
@@ -125,8 +125,8 @@
 | 117 | 514 | Serena Goodridge |
 | 118 | 514 | Scott Jameson |
 | 119 | 513 | Erin Thomas |
-| 120 | 512 | Casey Jeffcoat |
-| 121 | 512 | Cristy Duerksen |
+| 120 | 512 | Cristy Duerksen |
+| 121 | 512 | Casey Jeffcoat |
 | 122 | 511 | Lori Walker |
 | 123 | 509 | Leslie Nicole |
 | 124 | 487 | Ren Mc |
@@ -156,13 +156,13 @@
 | 148 | 418 | Marie-Pier Desjardins |
 | 149 | 418 | Lush Linkfall |
 | 150 | 416 | Chaz Duncan |
-| 151 | 414 | Nope Young |
-| 152 | 414 | Swanky Fitline |
+| 151 | 414 | Swanky Fitline |
+| 152 | 414 | Nope Young |
 | 153 | 413 | Circuit8 |
 | 154 | 412 | Jessica Bohlken |
 | 155 | 408 | Amanda Pauldo-Ivy |
-| 156 | 406 | Damn Libra |
-| 157 | 406 | Livvy |
+| 156 | 406 | Livvy |
+| 157 | 406 | Damn Libra |
 | 158 | 403 | Keith Kelley |
 | 159 | 402 | Lucas J Sutton |
 | 160 | 398 | Tyler Terrific |
@@ -248,8 +248,8 @@
 | 240 | 279 | Malakai Darien Fox |
 | 241 | 278 | Sarah Brown |
 | 242 | 278 | Angela Geist Jusinski |
-| 243 | 276 | Joeliecea Cobb |
-| 244 | 276 | Cynthia Boudreau |
+| 243 | 276 | Cynthia Boudreau |
+| 244 | 276 | Joeliecea Cobb |
 | 245 | 276 | Matt Dell'Olio |
 | 246 | 275 | Kimberlee Jan Beckstead |
 | 247 | 273 | Cranky Rollpiece |
@@ -282,8 +282,8 @@
 | 274 | 253 | Autum Leigh |
 | 275 | 251 | Carol Ricks Raymond |
 | 276 | 249 | Ak Jones |
-| 277 | 248 | Angelito |
-| 278 | 248 | Chirpy Basepiece |
+| 277 | 248 | Chirpy Basepiece |
+| 278 | 248 | Angelito |
 | 279 | 248 | Jose Dejesus |
 | 280 | 245 | 23 |
 | 281 | 244 | Elizabeth Tinoco |
@@ -329,8 +329,8 @@
 | 321 | 216 | mike |
 | 322 | 216 | Chantilly Laace |
 | 323 | 215 | Stephme310 |
-| 324 | 214 | Patron Anderson |
-| 325 | 214 | Stacey Stano |
+| 324 | 214 | Stacey Stano |
+| 325 | 214 | Patron Anderson |
 | 326 | 213 | Jackie Marie |
 | 327 | 212 | Brave Spinbuilder |
 | 328 | 212 | Mike Solo |

@@ -83,15 +83,15 @@
 | 75 | 703 | Angel Fowler |
 | 76 | 689 | Susanna Guerry |
 | 77 | 679 | Hasbro Bros |
-| 78 | 657 | Cynthia Bradley |
-| 79 | 657 | Tee Sheree |
+| 78 | 657 | Tee Sheree |
+| 79 | 657 | Cynthia Bradley |
 | 80 | 655 | Brenda Stewart |
 | 81 | 648 | Evie Khalil |
 | 82 | 647 | Jason Jones |
 | 83 | 645 | Robert Benito |
 | 84 | 600 | Greg Hart |
-| 85 | 598 | Kellie |
-| 86 | 598 | Erin Hodges Plumb |
+| 85 | 598 | Erin Hodges Plumb |
+| 86 | 598 | Kellie |
 | 87 | 584 | Jen Sartain |
 | 88 | 583 | Theo Pinnow |
 | 89 | 582 | Plucky Fallzone |
@@ -246,9 +246,9 @@
 | 238 | 280 | Eric DeSimone |
 | 239 | 277 | Glitzy Curvebuilder |
 | 240 | 277 | Melissa Lemmon |
-| 241 | 277 | Glitzy Curvebuilder |
-| 242 | 275 | Cheeky Pop |
-| 243 | 275 | Chris65 |
+| 241 | 277 | Nutty Spinblock |
+| 242 | 275 | Chris65 |
+| 243 | 275 | Cheeky Pop |
 | 244 | 273 | Shannon Marie Pitts |
 | 245 | 272 | Barrbaric |
 | 246 | 272 | Tawnya Peltonen |

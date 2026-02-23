@@ -44,8 +44,8 @@
 | 36 | 4199 | Claire Noland |
 | 37 | 4128 | Angela Pruitt |
 | 38 | 4121 | Nickie Baby |
-| 39 | 4120 | Kristen Sceurman |
-| 40 | 4120 | Corrine Hawks Soriano |
+| 39 | 4120 | Corrine Hawks Soriano |
+| 40 | 4120 | Kristen Sceurman |
 | 41 | 3947 | Melinda Brown |
 | 42 | 3845 | jayjay |
 | 43 | 3813 | Devin Lee |
@@ -427,11 +427,11 @@
 | 419 | 763 | Heather Causey |
 | 420 | 761 | Jerilyn Andrina |
 | 421 | 760 | Ashley Guernsey-Martin |
-| 422 | 760 | Andrew Willis |
+| 422 | 760 | Cheech Dta |
 | 423 | 760 | Allan Wayne Lamia |
-| 424 | 760 | Cheech Dta |
-| 425 | 758 | Quirky Twistline |
-| 426 | 758 | Stephanie Neuburger |
+| 424 | 760 | Andrew Willis |
+| 425 | 758 | Stephanie Neuburger |
+| 426 | 758 | Quirky Twistline |
 | 427 | 755 | Taryece Gause |
 | 428 | 752 | Christina Wsn |
 | 429 | 751 | Loony Snapper |
@@ -448,8 +448,8 @@
 | 440 | 737 | Ginger |
 | 441 | 737 | Chelle |
 | 442 | 732 | Victoria Moore-Smith |
-| 443 | 731 | Charvi' Carter |
-| 444 | 731 | Matthew Joseph Acevedo |
+| 443 | 731 | Matthew Joseph Acevedo |
+| 444 | 731 | Charvi' Carter |
 | 445 | 730 | Hoppy Brickmatch |
 | 446 | 729 | goofinoff |
 | 447 | 728 | Mikayala Szaz |
@@ -489,8 +489,8 @@
 | 481 | 689 | Gauri Shrotriya |
 | 482 | 686 | Christine Coughlin |
 | 483 | 684 | Sarah DeHart |
-| 484 | 684 | Ann Knutson Anderson |
-| 485 | 684 | Ellie Jonas |
+| 484 | 684 | Ellie Jonas |
+| 485 | 684 | Ann Knutson Anderson |
 | 486 | 682 | Vanessa Moreno |
 | 487 | 682 | Antionette Sewell |
 | 488 | 681 | Gloria Liu |
@@ -554,9 +554,9 @@
 | 546 | 620 | Brenna Ann |
 | 547 | 619 | Lylymom |
 | 548 | 618 | Marella Petilo |
-| 549 | 617 | Darcy Mae |
-| 550 | 617 | Kacee Conrad Bock |
-| 551 | 617 | Biggest thing |
+| 549 | 617 | Kacee Conrad Bock |
+| 550 | 617 | Biggest thing |
+| 551 | 617 | Darcy Mae |
 | 552 | 615 | Nerdy Pattern |
 | 553 | 615 | Lyndi Robinson Wakefield |
 | 554 | 615 | Julio A Laracuente |
@@ -567,16 +567,16 @@
 | 559 | 612 | Slinky Racker |
 | 560 | 610 | Michael Buckner |
 | 561 | 609 | Cecilia A Jenkins |
-| 562 | 609 | Smashanator |
-| 563 | 609 | Autumn Schaeffer |
+| 562 | 609 | Autumn Schaeffer |
+| 563 | 609 | Smashanator |
 | 564 | 607 | James Smith |
 | 565 | 606 | Lea Stewart |
 | 566 | 605 | Jermaine Harris |
 | 567 | 604 | Rae Rae |
 | 568 | 603 | Casper The Chonk |
 | 569 | 602 | Stephanie Sul |
-| 570 | 602 | Tash Bell |
-| 571 | 602 | Jedi |
+| 570 | 602 | Jedi |
+| 571 | 602 | Tash Bell |
 | 572 | 601 | Daniel Amos |
 | 573 | 601 | Moua Ying |
 | 574 | 601 | Kiana Boschh |
@@ -747,10 +747,10 @@
 | 739 | 482 | Amélie Cadieux |
 | 740 | 482 | Drwatson187 |
 | 741 | 482 | Nate |
-| 742 | 481 | Lucy Marshall |
-| 743 | 481 | Brittany Chapman |
-| 744 | 480 | Dar |
-| 745 | 480 | Jennifer Leigh |
+| 742 | 481 | Brittany Chapman |
+| 743 | 481 | Lucy Marshall |
+| 744 | 480 | Jennifer Leigh |
+| 745 | 480 | Dar |
 | 746 | 479 | bbv |
 | 747 | 479 | Emilie Desma |
 | 748 | 479 | Ashlee Cruz |
