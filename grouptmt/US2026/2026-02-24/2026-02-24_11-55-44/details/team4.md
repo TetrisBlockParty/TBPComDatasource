@@ -217,8 +217,8 @@
 | 209 | 508 | June Hoffman |
 | 210 | 507 | Andria Lynn |
 | 211 | 504 | Deanna Deckard |
-| 212 | 502 | Ericca Eldridge |
-| 213 | 502 | Christina Black |
+| 212 | 502 | Christina Black |
+| 213 | 502 | Ericca Eldridge |
 | 214 | 501 | Sharyn Lemire |
 | 215 | 499 | Kesha Brady |
 | 216 | 499 | DonMega |
@@ -268,11 +268,11 @@
 | 260 | 431 | Brickh4us |
 | 261 | 430 | 030Synner |
 | 262 | 428 | Gdiguy |
-| 263 | 427 | Cheery Risebuilder |
+| 263 | 427 | Chao Ma |
 | 264 | 427 | Jeff Brian Gates |
-| 265 | 427 | Chao Ma |
-| 266 | 425 | Lee Silpe |
-| 267 | 425 | mike |
+| 265 | 427 | Cheery Risebuilder |
+| 266 | 425 | mike |
+| 267 | 425 | Lee Silpe |
 | 268 | 424 | Andrew Dang |
 | 269 | 421 | TinyLegoRose |
 | 270 | 421 | JIGsaw ~(•¿°)~ |
@@ -310,8 +310,8 @@
 | 302 | 376 | Nig |
 | 303 | 375 | George Tzouganos |
 | 304 | 373 | Russ Attitude |
-| 305 | 370 | Kris Bartlett |
-| 306 | 370 | Twisty Risebuilder |
+| 305 | 370 | Twisty Risebuilder |
+| 306 | 370 | Kris Bartlett |
 | 307 | 368 | Dan Wold |
 | 308 | 367 | Meg |
 | 309 | 366 | Ak Jones |
@@ -364,8 +364,8 @@
 | 356 | 327 | Jessica Petersen |
 | 357 | 327 | Jim Hart |
 | 358 | 325 | Dustin York |
-| 359 | 324 | tipsy tiger |
-| 360 | 324 | Sarah Hoffman |
+| 359 | 324 | Sarah Hoffman |
+| 360 | 324 | tipsy tiger |
 | 361 | 322 | Bryan Hodgins |
 | 362 | 321 | Paige Kittles |
 | 363 | 321 | Sarah Brown |
@@ -387,8 +387,8 @@
 | 379 | 314 | Marcus TheeyoungWoe Gilmore |
 | 380 | 313 | Lazy Glidepiece |
 | 381 | 312 | Tawna Curry |
-| 382 | 311 | Reds Bella |
-| 383 | 311 | KayM |
+| 382 | 311 | KayM |
+| 383 | 311 | Reds Bella |
 | 384 | 308 | Angela Geist Jusinski |
 | 385 | 307 | Eri Kka |
 | 386 | 307 | Susan Williams |
@@ -563,8 +563,8 @@
 | 555 | 223 | Shane Vick |
 | 556 | 222 | Cozy Balancer |
 | 557 | 222 | Squeezy Pearsall |
-| 558 | 221 | Peppy Drop |
-| 559 | 221 | Rheanda Weaskus |
+| 558 | 221 | Rheanda Weaskus |
+| 559 | 221 | Peppy Drop |
 | 560 | 220 | Mighty Edgepiece |
 | 561 | 219 | Dapper Balancer |
 | 562 | 219 | Brandon Link |

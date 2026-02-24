@@ -246,10 +246,10 @@
 | 238 | 1670 | L3sli3 |
 | 239 | 1668 | Cambrie Schultz |
 | 240 | 1663 | Alex Stone LaRue |
-| 241 | 1661 | Danielle Johnson-Chandler |
-| 242 | 1661 | Scott Treadway |
-| 243 | 1656 | Binyah-Binyah |
-| 244 | 1656 | Lemonaide |
+| 241 | 1661 | Scott Treadway |
+| 242 | 1661 | Danielle Johnson-Chandler |
+| 243 | 1656 | Lemonaide |
+| 244 | 1656 | Binyah-Binyah |
 | 245 | 1655 | Glitzy Stackzone |
 | 246 | 1652 | Tim Dyer |
 | 247 | 1651 | Luna |
@@ -367,8 +367,8 @@
 | 359 | 1257 | Megan Ferguson Leone |
 | 360 | 1257 | Megan Garrick |
 | 361 | 1257 | Jackie Lucas |
-| 362 | 1256 | Belle |
-| 363 | 1256 | Phil J. Grombliniak |
+| 362 | 1256 | Phil J. Grombliniak |
+| 363 | 1256 | Belle |
 | 364 | 1255 | Ambyre Patterson |
 | 365 | 1254 | Erika Densmore |
 | 366 | 1252 | AgileDragon |
@@ -401,8 +401,8 @@
 | 393 | 1178 | Dany Murillo |
 | 394 | 1176 | Misti Markijohn |
 | 395 | 1173 | Giggy Blocker |
-| 396 | 1172 | Lakeysha Dortch |
-| 397 | 1172 | Min |
+| 396 | 1172 | Min |
+| 397 | 1172 | Lakeysha Dortch |
 | 398 | 1171 | Loretta Brewer-Gage |
 | 399 | 1170 | Shelley Thornburgh Wright |
 | 400 | 1163 | Sarah DeHart |
@@ -493,11 +493,11 @@
 | 485 | 1003 | Amanda Deitrick |
 | 486 | 1002 | Lexie Burke |
 | 487 | 1000 | Emmmz |
-| 488 | 1000 | Ashley Guernsey-Martin |
+| 488 | 1000 | Tonya Lee |
 | 489 | 1000 | Victoria Moore-Smith |
-| 490 | 1000 | Tonya Lee |
-| 491 | 999 | Lola Contreras |
-| 492 | 999 | Tansaria Couch-Butler |
+| 490 | 1000 | Ashley Guernsey-Martin |
+| 491 | 999 | Tansaria Couch-Butler |
+| 492 | 999 | Lola Contreras |
 | 493 | 998 | Dedra Steward |
 | 494 | 997 | Ellie Jonas |
 | 495 | 995 | Gauri Shrotriya |
@@ -1353,9 +1353,9 @@
 | 1345 | 460 | LaWanda Powell |
 | 1346 | 460 | Ghassan Seba |
 | 1347 | 460 | Spunky Match |
-| 1348 | 460 | Ghassan Seba |
-| 1349 | 460 | Crafty Blockmatch |
-| 1350 | 460 | LaWanda Powell |
+| 1348 | 460 | Kim Yoder |
+| 1349 | 460 | Wendy Ducheney |
+| 1350 | 460 | Manny Trindade |
 | 1351 | 459 | Happy Cluster |
 | 1352 | 459 | Gabby Devant |
 | 1353 | 458 | STLBatman |

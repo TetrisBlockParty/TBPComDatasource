@@ -70,8 +70,8 @@
 | 62 | 1858 | Kristie McFarland |
 | 63 | 1836 | Tina Kay |
 | 64 | 1825 | Nora Rogers |
-| 65 | 1824 | Nate Burnside |
-| 66 | 1824 | Jessica Ann |
+| 65 | 1824 | Jessica Ann |
+| 66 | 1824 | Nate Burnside |
 | 67 | 1791 | Leah Barnett |
 | 68 | 1776 | Whitney Manuel |
 | 69 | 1774 | Liv Whetson |
@@ -127,8 +127,8 @@
 | 119 | 1152 | Julian Murphy |
 | 120 | 1124 | Stephanie Rice |
 | 121 | 1121 | Corie A. Brinson |
-| 122 | 1114 | Groovy Catcher |
-| 123 | 1114 | Loopy Fallmatch |
+| 122 | 1114 | Loopy Fallmatch |
+| 123 | 1114 | Groovy Catcher |
 | 124 | 1105 | Adrian Marcel Pate |
 | 125 | 1101 | Valerie Gendron |
 | 126 | 1093 | Angela M. Fletcher |
@@ -179,8 +179,8 @@
 | 171 | 875 | Chasity |
 | 172 | 874 | Jessica Pineda-Lopez |
 | 173 | 871 | Rochelle Hazelett |
-| 174 | 868 | Nicole Flippo |
-| 175 | 868 | Cranky Gridder |
+| 174 | 868 | Cranky Gridder |
+| 175 | 868 | Nicole Flippo |
 | 176 | 866 | Domo Washington |
 | 177 | 864 | Sunny Rotater |
 | 178 | 862 | Santeria Trece Candles |
@@ -235,8 +235,8 @@
 | 227 | 721 | Karon Griffin |
 | 228 | 714 | Jenny Hrndz |
 | 229 | 713 | Stephanie Blkpep Davidson |
-| 230 | 709 | Christine Niles |
-| 231 | 709 | Cynthia Castros-Hampton |
+| 230 | 709 | Cynthia Castros-Hampton |
+| 231 | 709 | Christine Niles |
 | 232 | 708 | Stephanie Bradley |
 | 233 | 707 | Snappy Balancer |
 | 234 | 704 | Betty Bóò |
@@ -282,8 +282,8 @@
 | 274 | 618 | Kaitie Oliver |
 | 275 | 609 | Connie Mohler-Fair |
 | 276 | 608 | Noyb Adam |
-| 277 | 604 | Sherry Ogden |
-| 278 | 604 | Bmo |
+| 277 | 604 | Bmo |
+| 278 | 604 | Sherry Ogden |
 | 279 | 600 | Natasha Jones |
 | 280 | 594 | Cozy Snaplink |
 | 281 | 591 | Crystal Hine |
@@ -296,8 +296,8 @@
 | 288 | 578 | James Mitchell |
 | 289 | 572 | Tessina Dewey-Mancino |
 | 290 | 570 | thekey |
-| 291 | 569 | Silly Twist |
-| 292 | 569 | Gray Hicks |
+| 291 | 569 | Gray Hicks |
+| 292 | 569 | Silly Twist |
 | 293 | 567 | Stephanie Burtin |
 | 294 | 566 | Tyler Shoff |
 | 295 | 566 | Eileen Brady Thurber |
@@ -397,10 +397,10 @@
 | 389 | 432 | Sabrina Mansfield |
 | 390 | 431 | Goofy Fall |
 | 391 | 431 | Donna Esbensen-Alpini |
-| 392 | 430 | AlsoJess |
-| 393 | 430 | Quackers |
-| 394 | 428 | Samantha Lynn |
-| 395 | 428 | Skinny Baldez |
+| 392 | 430 | Quackers |
+| 393 | 430 | AlsoJess |
+| 394 | 428 | Skinny Baldez |
+| 395 | 428 | Samantha Lynn |
 | 396 | 428 | keni |
 | 397 | 427 | Darlene McMillan |
 | 398 | 426 | Heather Bateman |
@@ -440,8 +440,8 @@
 | 432 | 391 | gremicx |
 | 433 | 391 | Ashley Lynn Marchese |
 | 434 | 390 | ROODBOY |
-| 435 | 389 | Kirhonda Autmon |
-| 436 | 389 | Amanda J. Mcneil-Anderson |
+| 435 | 389 | Amanda J. Mcneil-Anderson |
+| 436 | 389 | Kirhonda Autmon |
 | 437 | 387 | Brittany K Ward |
 | 438 | 386 | Geoffrey Nash |
 | 439 | 384 | Tiffany Davie |
@@ -721,8 +721,8 @@
 | 713 | 270 | Nicole Eastman |
 | 714 | 270 | Crafty Tilemaker |
 | 715 | 269 | Serena Jarrell |
-| 716 | 268 | Wacky Crasher |
-| 717 | 268 | DanceLuvLaugh |
+| 716 | 268 | DanceLuvLaugh |
+| 717 | 268 | Wacky Crasher |
 | 718 | 267 | April Matthew Kibble |
 | 719 | 266 | Erica Burk |
 | 720 | 266 | paranoid |
@@ -796,8 +796,8 @@
 | 788 | 247 | Barbara Bennett |
 | 789 | 247 | Melanie Sherwood |
 | 790 | 247 | Taylor |
-| 791 | 246 | MomOnBreak |
-| 792 | 246 | Erica Anderson |
+| 791 | 246 | Erica Anderson |
+| 792 | 246 | MomOnBreak |
 | 793 | 246 | Quteeonduty |
 | 794 | 245 | Carie Ferchaud |
 | 795 | 245 | Martin Bernier |

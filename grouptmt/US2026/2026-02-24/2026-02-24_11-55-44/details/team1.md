@@ -144,8 +144,8 @@
 | 136 | 647 | Theo Pinnow |
 | 137 | 643 | Erin Rosberg |
 | 138 | 642 | Mario Cab |
-| 139 | 629 | Death |
-| 140 | 629 | Tanya Carpenter-Reynolds |
+| 139 | 629 | Tanya Carpenter-Reynolds |
+| 140 | 629 | Death |
 | 141 | 628 | femmefatale |
 | 142 | 628 | Trina Gee |
 | 143 | 626 | Damon J. Martin |
@@ -514,8 +514,8 @@
 | 506 | 251 | Larry Jackson |
 | 507 | 251 | Randy Broadwater |
 | 508 | 250 | Emmarieta Mendez |
-| 509 | 249 | Toni Sagenbrecht |
-| 510 | 249 | Sassy Towerer |
+| 509 | 249 | Sassy Towerer |
+| 510 | 249 | Toni Sagenbrecht |
 | 511 | 248 | Liliana Pena |
 | 512 | 248 | Teresa |
 | 513 | 248 | LC |
