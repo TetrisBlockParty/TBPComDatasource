@@ -157,8 +157,8 @@
 | 149 | 875 | Chasity |
 | 150 | 874 | Jessica Pineda-Lopez |
 | 151 | 873 | BadManSheLove |
-| 152 | 868 | Felicia Rocha |
-| 153 | 868 | Cranky Gridder |
+| 152 | 868 | Cranky Gridder |
+| 153 | 868 | Felicia Rocha |
 | 154 | 868 | Nicole Flippo |
 | 155 | 864 | Sunny Rotater |
 | 156 | 862 | Santeria Trece Candles |
@@ -252,8 +252,8 @@
 | 244 | 578 | James Mitchell |
 | 245 | 573 | Donna |
 | 246 | 572 | Tessina Dewey-Mancino |
-| 247 | 570 | LaTanya GeminiondaRise Johnson |
-| 248 | 570 | thekey |
+| 247 | 570 | thekey |
+| 248 | 570 | LaTanya GeminiondaRise Johnson |
 | 249 | 569 | Michael Johnson |
 | 250 | 569 | Silly Twist |
 | 251 | 568 | Fallorina Susana |

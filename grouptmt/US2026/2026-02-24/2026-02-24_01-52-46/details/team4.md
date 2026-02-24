@@ -118,8 +118,8 @@
 | 110 | 725 | Diana Houts |
 | 111 | 724 | Destiney Carter |
 | 112 | 723 | Chris Alexinas |
-| 113 | 719 | Sam Bishop |
-| 114 | 719 | Jamie Mann-Deichmann |
+| 113 | 719 | Jamie Mann-Deichmann |
+| 114 | 719 | Sam Bishop |
 | 115 | 716 | Savannah Overdorf |
 | 116 | 702 | Amy Suckarieh |
 | 117 | 701 | SAP |
@@ -566,12 +566,12 @@
 | 558 | 188 | Tanner Lund |
 | 559 | 187 | Nikki Wilson |
 | 560 | 187 | Jason Punch |
-| 561 | 186 | b |
-| 562 | 186 | Dandy Cascadefit |
-| 563 | 185 | Deanna Mc |
-| 564 | 185 | Eric Wren |
+| 561 | 186 | Dandy Cascadefit |
+| 562 | 186 | b |
+| 563 | 185 | Jonathan Mahfood |
+| 564 | 185 | Deanna Mc |
 | 565 | 185 | Joshua Guess |
-| 566 | 185 | Jonathan Mahfood |
+| 566 | 185 | Eric Wren |
 | 567 | 184 | Marcela Johnson |
 | 568 | 183 | Elie Pean |
 | 569 | 183 | Will Chamberlain |
