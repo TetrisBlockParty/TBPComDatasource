@@ -127,8 +127,8 @@
 | 119 | 1084 | Santana Lantana |
 | 120 | 1082 | Valerie Gendron |
 | 121 | 1067 | DaBigGuy |
-| 122 | 1066 | Demetrious Shaw Sr. |
-| 123 | 1066 | Jennifer |
+| 122 | 1066 | Jennifer |
+| 123 | 1066 | Demetrious Shaw Sr. |
 | 124 | 1065 | Rachel |
 | 125 | 1055 | Christine Trester |
 | 126 | 1050 | Sherika C. McDaniels |
@@ -147,11 +147,11 @@
 | 139 | 987 | Happy Tetriblast |
 | 140 | 963 | Crystal Frey |
 | 141 | 957 | mzcatzy |
-| 142 | 950 | Giddy Drop |
-| 143 | 950 | MissTaylor |
+| 142 | 950 | MissTaylor |
+| 143 | 950 | Giddy Drop |
 | 144 | 943 | Katrina Schroeder |
-| 145 | 940 | Stephanie Allmon |
-| 146 | 940 | Patty Allen |
+| 145 | 940 | Patty Allen |
+| 146 | 940 | Stephanie Allmon |
 | 147 | 939 | Jamie Lang |
 | 148 | 936 | Dolores Falco |
 | 149 | 925 | Cherry Parker |
@@ -165,8 +165,8 @@
 | 157 | 874 | Jessica Pineda-Lopez |
 | 158 | 873 | BadManSheLove |
 | 159 | 871 | Rochelle Hazelett |
-| 160 | 868 | Cranky Gridder |
-| 161 | 868 | Nicole Flippo |
+| 160 | 868 | Nicole Flippo |
+| 161 | 868 | Cranky Gridder |
 | 162 | 864 | Sunny Rotater |
 | 163 | 862 | Santeria Trece Candles |
 | 164 | 860 | Sashay Tapae Simpson |

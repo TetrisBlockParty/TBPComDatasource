@@ -134,7 +134,7 @@
 | 126 | 690 | Denia Deni |
 | 127 | 682 | Jamie Gustafson |
 | 128 | 682 | Raegan Lane-Ross |
-| 129 | 667 | Leslie Nicole |
+| 129 | 667 | Matt Gooder |
 | 130 | 667 | Lindsey Gonzalez |
 | 131 | 667 | Leslie Nicole |
 | 132 | 662 | George Nutt |
@@ -148,15 +148,15 @@
 | 140 | 619 | April Rondinone |
 | 141 | 618 | Ernest Maxwell |
 | 142 | 616 | Samantha Peterson |
-| 143 | 615 | Kim Hunt |
-| 144 | 615 | Angelito |
+| 143 | 615 | Angelito |
+| 144 | 615 | Kim Hunt |
 | 145 | 611 | Chris Baggett |
 | 146 | 608 | Swanky Fitline |
 | 147 | 602 | Cristy Duerksen |
 | 148 | 600 | Carrie Brian |
 | 149 | 599 | Adam Stephanie Parker |
-| 150 | 595 | shar |
-| 151 | 595 | Rodney McMath Jr. |
+| 150 | 595 | Rodney McMath Jr. |
+| 151 | 595 | shar |
 | 152 | 587 | YoMomma |
 | 153 | 586 | Cursed Hag |
 | 154 | 586 | Latisha Davis |
@@ -207,16 +207,16 @@
 | 199 | 496 | Lori |
 | 200 | 495 | Joeliecea Cobb |
 | 201 | 493 | Amanda Pauldo-Ivy |
-| 202 | 481 | Joanna |
-| 203 | 481 | Rebecca Morris |
+| 202 | 481 | Rebecca Morris |
+| 203 | 481 | Joanna |
 | 204 | 478 | Casey Grabner |
 | 205 | 476 | Mylo Lipscomb |
 | 206 | 475 | Silly Zonebuilder |
 | 207 | 473 | Jolly Dashfit |
 | 208 | 473 | Cranky Rollpiece |
 | 209 | 465 | June Hoffman |
-| 210 | 462 | Crystal Nicolette Moore |
-| 211 | 462 | Leslie Thomas |
+| 210 | 462 | Leslie Thomas |
+| 211 | 462 | Crystal Nicolette Moore |
 | 212 | 461 | TRCuse |
 | 213 | 460 | Kathy Brookins |
 | 214 | 457 | Kristin Manee |
@@ -228,16 +228,16 @@
 | 220 | 448 | Mike Solo |
 | 221 | 447 | Jen Mattei |
 | 222 | 446 | Mr. Party |
-| 223 | 444 | Calvin Cannon |
-| 224 | 444 | Shiny Fit |
+| 223 | 444 | Shiny Fit |
+| 224 | 444 | Calvin Cannon |
 | 225 | 443 | Kristina Black |
 | 226 | 442 | 🥔🥔 Spudz |
 | 227 | 441 | Lush Linkfall |
 | 228 | 438 | Melvin Baird |
 | 229 | 436 | Selena Shaw |
 | 230 | 434 | Ramel Rhodes |
-| 231 | 433 | Circuit8 |
-| 232 | 433 | Damn Libra |
+| 231 | 433 | Damn Libra |
+| 232 | 433 | Circuit8 |
 | 233 | 432 | scott |
 | 234 | 431 | Manny1 |
 | 235 | 430 | Plucky Patternblock |
@@ -345,8 +345,8 @@
 | 337 | 311 | KayM |
 | 338 | 311 | Ak Jones |
 | 339 | 308 | Angela Geist Jusinski |
-| 340 | 307 | Shukee Lo |
-| 341 | 307 | Kim Klutz Olson |
+| 340 | 307 | Kim Klutz Olson |
+| 341 | 307 | Shukee Lo |
 | 342 | 306 | PeaceOs |
 | 343 | 304 | Sarah Neathery |
 | 344 | 302 | Jenna McGeorge |

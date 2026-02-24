@@ -252,8 +252,8 @@
 | 244 | 1552 | Julay |
 | 245 | 1543 | Alyssa Nadine Medelez |
 | 246 | 1513 | Kiok |
-| 247 | 1509 | Whitney Nicole Waterman |
-| 248 | 1509 | Stacey Clement |
+| 247 | 1509 | Stacey Clement |
+| 248 | 1509 | Whitney Nicole Waterman |
 | 249 | 1481 | Jamie Schmitt |
 | 250 | 1477 | Hillary Crawford |
 | 251 | 1477 | Prado |
