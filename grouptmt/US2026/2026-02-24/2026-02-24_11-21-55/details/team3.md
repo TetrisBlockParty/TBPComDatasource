@@ -160,8 +160,8 @@
 | 152 | 963 | Crystal Frey |
 | 153 | 961 | Danielle Allison |
 | 154 | 951 | Betty Rosas |
-| 155 | 950 | Giddy Drop |
-| 156 | 950 | MissTaylor |
+| 155 | 950 | MissTaylor |
+| 156 | 950 | Giddy Drop |
 | 157 | 947 | Kellie Montgomery |
 | 158 | 940 | Stephanie Allmon |
 | 159 | 936 | Dolores Falco |
@@ -187,8 +187,8 @@
 | 179 | 857 | Dana Fox |
 | 180 | 856 | Dana Winters |
 | 181 | 854 | Speedy Bridger |
-| 182 | 847 | Daira Largen |
-| 183 | 847 | Daring Brickzone |
+| 182 | 847 | Daring Brickzone |
+| 183 | 847 | Daira Largen |
 | 184 | 846 | Nicole Myers |
 | 185 | 842 | Alexmac |
 | 186 | 829 | Patricia White |
@@ -234,8 +234,8 @@
 | 226 | 719 | Brandon Givens |
 | 227 | 714 | Jenny Hrndz |
 | 228 | 713 | Stephanie Blkpep Davidson |
-| 229 | 709 | Cynthia Castros-Hampton |
-| 230 | 709 | Christine Niles |
+| 229 | 709 | Christine Niles |
+| 230 | 709 | Cynthia Castros-Hampton |
 | 231 | 708 | Stephanie Bradley |
 | 232 | 707 | Snappy Balancer |
 | 233 | 704 | Betty Bóò |
@@ -262,8 +262,8 @@
 | 254 | 639 | Marci Mize Fandrich |
 | 255 | 637 | Giddy Twistbuilder |
 | 256 | 635 | Amber Hughes |
-| 257 | 633 | Rebecca Funderburk Kirby |
-| 258 | 633 | Jillian Symons |
+| 257 | 633 | Jillian Symons |
+| 258 | 633 | Rebecca Funderburk Kirby |
 | 259 | 632 | Rebecca Bailey |
 | 260 | 630 | Jackie Miller |
 | 261 | 629 | rnr junky |
@@ -324,8 +324,8 @@
 | 316 | 527 | Dapper Snap |
 | 317 | 518 | Marquita Sheard |
 | 318 | 514 | Nikki White |
-| 319 | 506 | Ammmmmmy |
-| 320 | 506 | Tiffanie Alley |
+| 319 | 506 | Tiffanie Alley |
+| 320 | 506 | Ammmmmmy |
 | 321 | 505 | Stephanie Simpson |
 | 322 | 504 | Daring Builder |
 | 323 | 500 | Ashley Tookes |
@@ -343,10 +343,10 @@
 | 335 | 486 | Sleepy |
 | 336 | 485 | Charles Perrone |
 | 337 | 485 | Steffi Chris Dacones |
-| 338 | 485 | Charles Perrone |
-| 339 | 483 | Tegan Chapman |
+| 338 | 483 | Tegan Chapman |
+| 339 | 482 | Chummy Rumbler |
 | 340 | 482 | Travis W |
-| 341 | 482 | Chummy Rumbler |
+| 341 | 480 | Dee Franklin |
 | 342 | 480 | TLM |
 | 343 | 476 | Shunta Jacobs |
 | 344 | 476 | Stefanie LaPointe |
@@ -402,8 +402,8 @@
 | 394 | 428 | Samantha Lynn |
 | 395 | 428 | keni |
 | 396 | 427 | Darlene McMillan |
-| 397 | 426 | Christina Rotz Shows |
-| 398 | 426 | Heather Bateman |
+| 397 | 426 | Heather Bateman |
+| 398 | 426 | Christina Rotz Shows |
 | 399 | 425 | Ava Petito |
 | 400 | 421 | Angel Miller |
 | 401 | 419 | Desiree Gold |
@@ -425,8 +425,8 @@
 | 417 | 404 | Karent524 |
 | 418 | 404 | Giggy Balanceblock |
 | 419 | 403 | Scott Lindsay |
-| 420 | 401 | Velma Mull |
-| 421 | 401 | block chick |
+| 420 | 401 | block chick |
+| 421 | 401 | Velma Mull |
 | 422 | 400 | Joy Petroski |
 | 423 | 399 | Ann Hammac |
 | 424 | 398 | Breezy Roll |
@@ -754,8 +754,8 @@
 | 746 | 258 | Traci Galitz |
 | 747 | 257 | Kristy Manley |
 | 748 | 257 | Kristy Brown |
-| 749 | 257 | Kristy Manley |
-| 750 | 257 | Trissy Collins |
+| 749 | 257 | Trissy Collins |
+| 750 | 257 | Justin Ernst |
 | 751 | 256 | Amy Cunningham Mitchell |
 | 752 | 255 | Lindsey Feuerabend |
 | 753 | 255 | Stormy Anguish |
@@ -795,7 +795,7 @@
 | 787 | 247 | Jennifer Evans |
 | 788 | 247 | Barbara Bennett |
 | 789 | 247 | Taylor |
-| 790 | 246 | Erica Anderson |
+| 790 | 246 | Quteeonduty |
 | 791 | 246 | MomOnBreak |
 | 792 | 246 | Erica Anderson |
 | 793 | 245 | Carie Ferchaud |

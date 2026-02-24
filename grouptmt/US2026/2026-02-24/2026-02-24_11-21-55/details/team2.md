@@ -280,8 +280,8 @@
 | 272 | 1509 | Stacey Clement |
 | 273 | 1506 | Shiny Twistfit |
 | 274 | 1501 | Ashle Scranton |
-| 275 | 1498 | Ericka Marie Smith |
-| 276 | 1498 | Amber Gray |
+| 275 | 1498 | Amber Gray |
+| 276 | 1498 | Ericka Marie Smith |
 | 277 | 1481 | Jamie Schmitt |
 | 278 | 1480 | Dimitra Zazara |
 | 279 | 1479 | Pacynthia Williams |
@@ -593,8 +593,8 @@
 | 585 | 866 | Tammie Siegfried |
 | 586 | 866 | Mishka Upchurch |
 | 587 | 865 | Lilia Gomez |
-| 588 | 861 | Beth |
-| 589 | 861 | Shavonna Haynes |
+| 588 | 861 | Shavonna Haynes |
+| 589 | 861 | Beth |
 | 590 | 861 | Anthony |
 | 591 | 858 | Joshua Self |
 | 592 | 857 | Marella Petilo |
@@ -758,8 +758,8 @@
 | 750 | 725 | Shylee Tilman |
 | 751 | 725 | Vonceial Boone |
 | 752 | 724 | Brenna Ann |
-| 753 | 724 | Epic Fitzone |
-| 754 | 724 | ນາງ ບີ ລາດຊະຈັກ |
+| 753 | 724 | ນາງ ບີ ລາດຊະຈັກ |
+| 754 | 724 | Epic Fitzone |
 | 755 | 723 | Jannan Haimour |
 | 756 | 722 | Sassy Racker |
 | 757 | 720 | Poldo Ilano |
@@ -808,15 +808,15 @@
 | 800 | 691 | Melissa Kay Gibson |
 | 801 | 690 | Lawanda Forbes |
 | 802 | 690 | Latasha Love |
-| 803 | 689 | SpaceCase085 |
-| 804 | 689 | Martina Gabrielle LaPolla |
+| 803 | 689 | Martina Gabrielle LaPolla |
+| 804 | 689 | SpaceCase085 |
 | 805 | 688 | Tracy Wise |
 | 806 | 688 | Newni Bayb |
 | 807 | 687 | Candy Pitts |
 | 808 | 686 | Christina Ashley |
 | 809 | 685 | Rose Fx |
-| 810 | 684 | Atara James |
-| 811 | 684 | Sleepypanda67 |
+| 810 | 684 | Sleepypanda67 |
+| 811 | 684 | Atara James |
 | 812 | 684 | Jazzy Clusterline |
 | 813 | 683 | Nicole Sanqui |
 | 814 | 683 | Audrey Jones |
@@ -954,16 +954,16 @@
 | 946 | 612 | Bec |
 | 947 | 612 | Marget Kay |
 | 948 | 612 | Goofy Catcher |
-| 949 | 611 | Tristan Snowden |
-| 950 | 611 | Robin L. Vial |
+| 949 | 611 | Robin L. Vial |
+| 950 | 611 | Tristan Snowden |
 | 951 | 611 | Sharon Mills |
 | 952 | 611 | Josh N Corrine |
 | 953 | 611 | Tom Steffen |
 | 954 | 610 | Shiny Snapmatch |
 | 955 | 610 | Crystal Hodge Love |
 | 956 | 609 | AsnPryBoy83 |
-| 957 | 607 | Slip |
-| 958 | 607 | Tipsy Filler |
+| 957 | 607 | Tipsy Filler |
+| 958 | 607 | Slip |
 | 959 | 607 | Lucero Ramirez |
 | 960 | 606 | Ebony Deloach Bryant |
 | 961 | 606 | Stanislav Petkov |
@@ -1061,9 +1061,9 @@
 | 1053 | 562 | Klee |
 | 1054 | 561 | Jenelle Case |
 | 1055 | 560 | De Hawkins |
-| 1056 | 559 | Britney M. |
-| 1057 | 559 | Bing |
-| 1058 | 559 | Kaylee McCafferty |
+| 1056 | 559 | Kaylee McCafferty |
+| 1057 | 559 | Britney M. |
+| 1058 | 559 | Bing |
 | 1059 | 558 | Treshell Boyd |
 | 1060 | 558 | David Scott |
 | 1061 | 558 | Linda Miltenburg |
@@ -1199,8 +1199,8 @@
 | 1191 | 506 | Stelleana Cook |
 | 1192 | 505 | Sammie |
 | 1193 | 504 | Veronica Stevenson |
-| 1194 | 504 | Richard Hunt |
-| 1195 | 504 | Randall Sykes |
+| 1194 | 504 | Randall Sykes |
+| 1195 | 504 | Richard Hunt |
 | 1196 | 504 | Mary Boss |
 | 1197 | 503 | Aleasha M Brown |
 | 1198 | 503 | Twisty Tetriblast |

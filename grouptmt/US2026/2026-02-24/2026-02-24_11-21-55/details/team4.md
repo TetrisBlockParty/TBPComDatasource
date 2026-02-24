@@ -51,8 +51,8 @@
 | 43 | 1497 | Juggalo |
 | 44 | 1478 | Sammy Noguera |
 | 45 | 1469 | Kimberly Love |
-| 46 | 1461 | Shane Kalamata Platoon |
-| 47 | 1461 | Yoset Mejia |
+| 46 | 1461 | Yoset Mejia |
+| 47 | 1461 | Shane Kalamata Platoon |
 | 48 | 1456 | Michelle Marie |
 | 49 | 1430 | Landon Keith Graffeo |
 | 50 | 1386 | Jen Allison |
@@ -112,13 +112,13 @@
 | 104 | 834 | quicksand420 |
 | 105 | 818 | Lori Walker |
 | 106 | 815 | Diana Houts |
-| 107 | 813 | Klo |
-| 108 | 813 | Amy Suckarieh |
+| 107 | 813 | Amy Suckarieh |
+| 108 | 813 | Klo |
 | 109 | 811 | Sassy Pattern |
 | 110 | 806 | Zippy Gridlock |
 | 111 | 805 | Mylo Lipscomb |
-| 112 | 802 | Crystal Carroll |
-| 113 | 802 | Denise Carlson |
+| 112 | 802 | Denise Carlson |
+| 113 | 802 | Crystal Carroll |
 | 114 | 801 | D3TROITB0RN74 |
 | 115 | 798 | Jewell Urban |
 | 116 | 784 | TheNeesh50 |
@@ -134,8 +134,8 @@
 | 126 | 729 | Jamie Mann-Deichmann |
 | 127 | 726 | Jamie Gustafson |
 | 128 | 725 | Brandon Crabbs |
-| 129 | 719 | Leslie Nicole |
-| 130 | 719 | George Nutt |
+| 129 | 719 | George Nutt |
+| 130 | 719 | Leslie Nicole |
 | 131 | 712 | H.R. Block |
 | 132 | 708 | Jacqueline Helm |
 | 133 | 704 | Austin Owens |
@@ -148,8 +148,8 @@
 | 140 | 667 | Swanky Fitline |
 | 141 | 667 | Matt Gooder |
 | 142 | 662 | Nerdy Twisterfit |
-| 143 | 661 | Rodney McMath Jr. |
-| 144 | 661 | shar |
+| 143 | 661 | shar |
+| 144 | 661 | Rodney McMath Jr. |
 | 145 | 651 | Adawna Swires |
 | 146 | 650 | Chris Hartig |
 | 147 | 647 | KM8 |
@@ -251,8 +251,8 @@
 | 243 | 454 | meowmew |
 | 244 | 450 | Genne Scott |
 | 245 | 449 | Danielle Kollias |
-| 246 | 448 | Mike Solo |
-| 247 | 448 | Mr. Party |
+| 246 | 448 | Mr. Party |
+| 247 | 448 | Mike Solo |
 | 248 | 447 | Jen Mattei |
 | 249 | 444 | Selena Shaw |
 | 250 | 442 | John Brunetti |
@@ -386,8 +386,8 @@
 | 378 | 314 | KoolMom9907 |
 | 379 | 313 | Lazy Glidepiece |
 | 380 | 312 | Tawna Curry |
-| 381 | 311 | Reds Bella |
-| 382 | 311 | KayM |
+| 381 | 311 | KayM |
+| 382 | 311 | Reds Bella |
 | 383 | 308 | Angela Geist Jusinski |
 | 384 | 307 | Eri Kka |
 | 385 | 307 | Susan Williams |
@@ -403,8 +403,8 @@
 | 395 | 300 | Carter Jones |
 | 396 | 299 | Michael Snow |
 | 397 | 298 | Val Erie |
-| 398 | 297 | Brittany Marsh |
-| 399 | 297 | Allison Rose |
+| 398 | 297 | Allison Rose |
+| 399 | 297 | Brittany Marsh |
 | 400 | 296 | Deb Rubeck |
 | 401 | 294 | BootsMcGee |
 | 402 | 292 | Jumpy Zonepiece |
@@ -624,8 +624,8 @@
 | 616 | 198 | Bubbly Setter |
 | 617 | 198 | Zocko Ellet |
 | 618 | 197 | Mcg |
-| 619 | 197 | Satinleader |
-| 620 | 197 | Colton Stamper |
+| 619 | 197 | Colton Stamper |
+| 620 | 197 | Satinleader |
 | 621 | 196 | Julie McAfoos Swanson |
 | 622 | 195 | Tianna Frey |
 | 623 | 195 | Adrian Pawlusinski |

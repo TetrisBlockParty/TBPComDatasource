@@ -91,8 +91,8 @@
 | 83 | 973 | Francesca Gee |
 | 84 | 971 | Lexuriuos Lifestlye |
 | 85 | 961 | Jacqueline Williams |
-| 86 | 957 | Erin Hodges Plumb |
-| 87 | 957 | Zippy Align |
+| 86 | 957 | Zippy Align |
+| 87 | 957 | Erin Hodges Plumb |
 | 88 | 944 | Sweet Baker |
 | 89 | 920 | Tee Sheree |
 | 90 | 916 | Chirpy Smasher |
