@@ -91,8 +91,8 @@
 | 83 | 973 | Francesca Gee |
 | 84 | 971 | Lexuriuos Lifestlye |
 | 85 | 961 | Jacqueline Williams |
-| 86 | 957 | Erin Hodges Plumb |
-| 87 | 957 | Zippy Align |
+| 86 | 957 | Zippy Align |
+| 87 | 957 | Erin Hodges Plumb |
 | 88 | 944 | Sweet Baker |
 | 89 | 920 | Tee Sheree |
 | 90 | 916 | Chirpy Smasher |
@@ -194,20 +194,20 @@
 | 186 | 519 | Cool Shiftsnap |
 | 187 | 517 | Eric DeSimone |
 | 188 | 514 | Mike Ames |
-| 189 | 513 | Colena Davenport |
-| 190 | 513 | Rebekah LeiAnn Bonsell |
+| 189 | 513 | Rebekah LeiAnn Bonsell |
+| 190 | 513 | Colena Davenport |
 | 191 | 511 | MomMom |
 | 192 | 510 | Rat666 |
 | 193 | 501 | Jessica Russell |
-| 194 | 497 | Daring Fitclear |
+| 194 | 497 | MIKOZ |
 | 195 | 497 | Steve Schneider |
-| 196 | 497 | MIKOZ |
+| 196 | 497 | Daring Fitclear |
 | 197 | 496 | Sarah Somers Gray |
 | 198 | 495 | Connie |
 | 199 | 494 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 200 | 494 | Sean Stallings |
-| 201 | 493 | Chuck Gannon |
-| 202 | 493 | Speedy Liney |
+| 201 | 493 | Speedy Liney |
+| 202 | 493 | Chuck Gannon |
 | 203 | 492 | Happy Snapbuild |
 | 204 | 488 | Ly Phethmany |
 | 205 | 488 | Jessie Welch |

@@ -32,8 +32,8 @@
 | 24 | 3221 | Ashley Jones |
 | 25 | 3118 | Jamie Lang |
 | 26 | 3042 | Nerdy Spinblock |
-| 27 | 2933 | Grego Daniel |
-| 28 | 2933 | Dan Rob |
+| 27 | 2933 | Dan Rob |
+| 28 | 2933 | Grego Daniel |
 | 29 | 2874 | Zippy Strikesnap |
 | 30 | 2873 | Chummy Shatterer |
 | 31 | 2816 | Fancy Slam |
@@ -78,13 +78,13 @@
 | 70 | 1695 | Nora Rogers |
 | 71 | 1691 | Cass Mendoza |
 | 72 | 1681 | Gracie |
-| 73 | 1663 | Angeline Joseph |
-| 74 | 1663 | Mahman |
+| 73 | 1663 | Mahman |
+| 74 | 1663 | Angeline Joseph |
 | 75 | 1633 | cowboy25469 |
 | 76 | 1625 | Queen Kam |
 | 77 | 1615 | joclisa |
-| 78 | 1566 | Nerdy Riseclear |
-| 79 | 1566 | Marcie Bressler |
+| 78 | 1566 | Marcie Bressler |
+| 79 | 1566 | Nerdy Riseclear |
 | 80 | 1560 | Logan Naccarato |
 | 81 | 1555 | Snappy Glidepiece |
 | 82 | 1527 | Elaine Webb Graves |
@@ -111,8 +111,8 @@
 | 103 | 1309 | yoyo |
 | 104 | 1297 | Shelby Michelle |
 | 105 | 1290 | JerseyJess |
-| 106 | 1282 | Peppy Shifter |
-| 107 | 1282 | Amanda L Baker |
+| 106 | 1282 | Amanda L Baker |
+| 107 | 1282 | Peppy Shifter |
 | 108 | 1276 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1248 | Lori Barnaby |
@@ -168,8 +168,8 @@
 | 160 | 928 | Edwin Calvillo Jr. |
 | 161 | 925 | Cherry Parker |
 | 162 | 914 | BadManSheLove |
-| 163 | 910 | Staci George Fitzsimmons |
-| 164 | 910 | opf |
+| 163 | 910 | opf |
+| 164 | 910 | Staci George Fitzsimmons |
 | 165 | 906 | Patti Skiles |
 | 166 | 899 | Jaime Monhaut-Reed |
 | 167 | 894 | Denita Mungro |
@@ -179,16 +179,16 @@
 | 171 | 875 | Chasity |
 | 172 | 874 | Jessica Pineda-Lopez |
 | 173 | 871 | Rochelle Hazelett |
-| 174 | 868 | Cranky Gridder |
-| 175 | 868 | Nicole Flippo |
+| 174 | 868 | Nicole Flippo |
+| 175 | 868 | Cranky Gridder |
 | 176 | 866 | Domo Washington |
 | 177 | 864 | Sunny Rotater |
 | 178 | 862 | Santeria Trece Candles |
 | 179 | 857 | Dana Fox |
 | 180 | 856 | Dana Winters |
 | 181 | 854 | Speedy Bridger |
-| 182 | 847 | Daira Largen |
-| 183 | 847 | Daring Brickzone |
+| 182 | 847 | Daring Brickzone |
+| 183 | 847 | Daira Largen |
 | 184 | 846 | Nicole Myers |
 | 185 | 842 | Alexmac |
 | 186 | 829 | Patricia White |
@@ -199,8 +199,8 @@
 | 191 | 815 | Justin Ritter |
 | 192 | 813 | JessDrown |
 | 193 | 808 | Raya |
-| 194 | 804 | Gideon Walker |
-| 195 | 804 | Alaina Lee |
+| 194 | 804 | Alaina Lee |
+| 195 | 804 | Gideon Walker |
 | 196 | 800 | Lauren Girouard |
 | 197 | 799 | Trisha Balmer |
 | 198 | 792 | Rachel Grant |
@@ -210,8 +210,8 @@
 | 202 | 784 | Jone |
 | 203 | 777 | Daryn Elliott |
 | 204 | 774 | ren |
-| 205 | 772 | Hasty Cascadefit |
-| 206 | 772 | Cyd061769 |
+| 205 | 772 | Cyd061769 |
+| 206 | 772 | Hasty Cascadefit |
 | 207 | 766 | Tasha Gillespie |
 | 208 | 763 | Khaleada McGill Banks |
 | 209 | 762 | Naur |
@@ -258,12 +258,12 @@
 | 250 | 642 | Rania Zaqout |
 | 251 | 641 | Tom Nault |
 | 252 | 640 | Dee Pratt |
-| 253 | 639 | Nichol Graham |
-| 254 | 639 | Marci Mize Fandrich |
+| 253 | 639 | Marci Mize Fandrich |
+| 254 | 639 | Nichol Graham |
 | 255 | 637 | Giddy Twistbuilder |
 | 256 | 635 | Amber Hughes |
-| 257 | 633 | Rebecca Funderburk Kirby |
-| 258 | 633 | Jillian Symons |
+| 257 | 633 | Jillian Symons |
+| 258 | 633 | Rebecca Funderburk Kirby |
 | 259 | 632 | Rebecca Bailey |
 | 260 | 630 | Jackie Miller |
 | 261 | 629 | rnr junky |
@@ -306,13 +306,13 @@
 | 298 | 556 | Shiny Zonebuilder |
 | 299 | 555 | Danielle Weikel |
 | 300 | 552 | Scott Carleton |
-| 301 | 548 | Chris Bell |
-| 302 | 548 | Shannon Matthew Byers |
+| 301 | 548 | Shannon Matthew Byers |
+| 302 | 548 | Chris Bell |
 | 303 | 547 | Aerian Preston |
 | 304 | 542 | France Vézina |
 | 305 | 541 | Mcathen |
-| 306 | 540 | rosy |
-| 307 | 540 | Tanya Kittrell |
+| 306 | 540 | Tanya Kittrell |
+| 307 | 540 | rosy |
 | 308 | 539 | Fancy Curver |
 | 309 | 539 | Kate M. Murdock |
 | 310 | 538 | Chummy Caster |
@@ -369,9 +369,9 @@
 | 361 | 460 | Hasty Gridpiece |
 | 362 | 460 | Antonia Russell |
 | 363 | 459 | Randy Clevenger |
-| 364 | 456 | RickyG |
-| 365 | 456 | Cynthia Herrmann Egland |
-| 366 | 456 | Kelly |
+| 364 | 456 | Cynthia Herrmann Egland |
+| 365 | 456 | Kelly |
+| 366 | 456 | RickyG |
 | 367 | 455 | Kelly Wolf |
 | 368 | 451 | Swanky Frame |
 | 369 | 450 | Luciana Braganca Vieira |
@@ -665,7 +665,7 @@
 | 657 | 282 | Karla Phillips |
 | 658 | 281 | Nerdy Lifter |
 | 659 | 281 | Jenna Baker |
-| 660 | 281 | Nerdy Lifter |
+| 660 | 281 | Boldy Blocker |
 | 661 | 280 | Myoshia Norwood |
 | 662 | 279 | Mikey Lewis |
 | 663 | 279 | Ryan Williams |
