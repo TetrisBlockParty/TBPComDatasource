@@ -237,8 +237,8 @@
 | 229 | 594 | Connie Mohler-Fair |
 | 230 | 590 | Shawn Miller |
 | 231 | 588 | Jackie Miller |
-| 232 | 588 | Juliana Dottore |
-| 233 | 588 | Salena Whitlock |
+| 232 | 588 | Salena Whitlock |
+| 233 | 588 | Juliana Dottore |
 | 234 | 586 | Betty Rosas |
 | 235 | 585 | Happy Tetriblast |
 | 236 | 580 | FuzzyNavel |

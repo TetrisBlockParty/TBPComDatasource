@@ -44,8 +44,8 @@
 | 36 | 1413 | Trippy Redd |
 | 37 | 1405 | Chipper Gridlock |
 | 38 | 1391 | Aaron Garnett |
-| 39 | 1334 | june october |
-| 40 | 1334 | Tyler Alcock |
+| 39 | 1334 | Tyler Alcock |
+| 40 | 1334 | june october |
 | 41 | 1277 | Marianne Louise West |
 | 42 | 1250 | Stef Hu |
 | 43 | 1239 | Brenda Stewart |
@@ -201,8 +201,8 @@
 | 193 | 438 | Jerry Danowski |
 | 194 | 437 | David Miller |
 | 195 | 434 | Yvonne Marie |
-| 196 | 432 | Elaine Elaine |
-| 197 | 432 | Lori Bales |
+| 196 | 432 | Lori Bales |
+| 197 | 432 | Elaine Elaine |
 | 198 | 429 | Tana |
 | 199 | 427 | Teri Oehlke |
 | 200 | 426 | Shiny Snapfit |
@@ -215,8 +215,8 @@
 | 207 | 422 | Reesey Enyart |
 | 208 | 422 | Jamise Brown |
 | 209 | 420 | Jennifer Noe Chandler |
-| 210 | 419 | John J. Cronin |
-| 211 | 419 | Daring Fitclear |
+| 210 | 419 | Daring Fitclear |
+| 211 | 419 | John J. Cronin |
 | 212 | 417 | Jessie Lynn |
 | 213 | 416 | Jessica Sheehan |
 | 214 | 413 | Ananda Mendez |
@@ -303,9 +303,9 @@
 | 295 | 334 | Tipsy Builder |
 | 296 | 333 | Wayne Saunders |
 | 297 | 333 | Irv |
-| 298 | 330 | Rebecca Apley Mielke |
+| 298 | 330 | Jeremy Maubert |
 | 299 | 330 | Mandyy Rae |
-| 300 | 330 | Jeremy Maubert |
+| 300 | 330 | Rebecca Apley Mielke |
 | 301 | 330 | Mrs.Patrica |
 | 302 | 329 | Marianita Garcia |
 | 303 | 329 | Larry Tilton |
