@@ -176,8 +176,8 @@
 | 168 | 548 | Luciano Moreira |
 | 169 | 547 | Sharon Reynolds |
 | 170 | 545 | .running. |
-| 171 | 543 | Adrian Esteban |
-| 172 | 543 | Nicole Roseberry Weber |
+| 171 | 543 | Nicole Roseberry Weber |
+| 172 | 543 | Adrian Esteban |
 | 173 | 542 | BadG52 |
 | 174 | 540 | Tonya Beasley |
 | 175 | 537 | Stephanie Zahn |
@@ -191,15 +191,15 @@
 | 183 | 519 | Cool Shiftsnap |
 | 184 | 519 | Anaid Sanchez |
 | 185 | 517 | Eric DeSimone |
-| 186 | 513 | Colena Davenport |
-| 187 | 513 | Rebekah LeiAnn Bonsell |
+| 186 | 513 | Rebekah LeiAnn Bonsell |
+| 187 | 513 | Colena Davenport |
 | 188 | 511 | MomMom |
 | 189 | 510 | Rat666 |
 | 190 | 501 | Jessica Russell |
 | 191 | 497 | Steve Schneider |
 | 192 | 497 | MIKOZ |
-| 193 | 496 | Sarah Somers Gray |
-| 194 | 496 | Michelle Beres |
+| 193 | 496 | Michelle Beres |
+| 194 | 496 | Sarah Somers Gray |
 | 195 | 495 | Connie |
 | 196 | 494 | Sean Stallings |
 | 197 | 494 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
@@ -259,8 +259,8 @@
 | 251 | 414 | Bird Person |
 | 252 | 412 | Sleepysloath5745 |
 | 253 | 410 | Paula Martin |
-| 254 | 409 | Lehrin Maria |
-| 255 | 409 | poopypants |
+| 254 | 409 | poopypants |
+| 255 | 409 | Lehrin Maria |
 | 256 | 405 | Tyler L Hunt |
 | 257 | 403 | Tami Luce Martin |
 | 258 | 403 | Jen Nystrom |

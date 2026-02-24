@@ -83,8 +83,8 @@
 | 75 | 1633 | cowboy25469 |
 | 76 | 1625 | Queen Kam |
 | 77 | 1615 | joclisa |
-| 78 | 1566 | Marcie Bressler |
-| 79 | 1566 | Nerdy Riseclear |
+| 78 | 1566 | Nerdy Riseclear |
+| 79 | 1566 | Marcie Bressler |
 | 80 | 1560 | Logan Naccarato |
 | 81 | 1555 | Snappy Glidepiece |
 | 82 | 1518 | Christine Filson |
@@ -111,8 +111,8 @@
 | 103 | 1309 | yoyo |
 | 104 | 1297 | Shelby Michelle |
 | 105 | 1290 | JerseyJess |
-| 106 | 1282 | Amanda L Baker |
-| 107 | 1282 | Peppy Shifter |
+| 106 | 1282 | Peppy Shifter |
+| 107 | 1282 | Amanda L Baker |
 | 108 | 1276 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1248 | Lori Barnaby |
@@ -156,8 +156,8 @@
 | 148 | 971 | Tasha Schriewer |
 | 149 | 963 | Crystal Frey |
 | 150 | 961 | Danielle Allison |
-| 151 | 950 | Giddy Drop |
-| 152 | 950 | MissTaylor |
+| 151 | 950 | MissTaylor |
+| 152 | 950 | Giddy Drop |
 | 153 | 947 | Kellie Montgomery |
 | 154 | 940 | Stephanie Allmon |
 | 155 | 940 | Patty Allen |
@@ -207,8 +207,8 @@
 | 199 | 784 | Jone |
 | 200 | 783 | Julian Murphy |
 | 201 | 777 | Daryn Elliott |
-| 202 | 774 | Twisty Brick LT |
-| 203 | 774 | ren |
+| 202 | 774 | ren |
+| 203 | 774 | Twisty Brick LT |
 | 204 | 772 | Hasty Cascadefit |
 | 205 | 768 | Cyd061769 |
 | 206 | 766 | Tasha Gillespie |
@@ -290,8 +290,8 @@
 | 282 | 582 | FuzzyNavel |
 | 283 | 581 | Crystal Hine |
 | 284 | 578 | James Mitchell |
-| 285 | 574 | Rachael McClain Owens |
-| 286 | 574 | Danielle Balcom |
+| 285 | 574 | Danielle Balcom |
+| 286 | 574 | Rachael McClain Owens |
 | 287 | 572 | Tessina Dewey-Mancino |
 | 288 | 570 | thekey |
 | 289 | 569 | Michael Johnson |
@@ -324,8 +324,8 @@
 | 316 | 523 | Ktfreeee |
 | 317 | 518 | Marquita Sheard |
 | 318 | 514 | Nikki White |
-| 319 | 506 | Tiffanie Alley |
-| 320 | 506 | Ammmmmmy |
+| 319 | 506 | Ammmmmmy |
+| 320 | 506 | Tiffanie Alley |
 | 321 | 505 | Stephanie Simpson |
 | 322 | 504 | Daring Builder |
 | 323 | 500 | Ashley Tookes |
@@ -343,8 +343,8 @@
 | 335 | 486 | Skippy |
 | 336 | 483 | Tegan Chapman |
 | 337 | 482 | Chummy Rumbler |
-| 338 | 480 | Dee Franklin |
-| 339 | 480 | TLM |
+| 338 | 480 | TLM |
+| 339 | 480 | Dee Franklin |
 | 340 | 479 | Charles Perrone |
 | 341 | 476 | Shunta Jacobs |
 | 342 | 474 | Troy |
@@ -431,8 +431,8 @@
 | 423 | 391 | Rebel124 |
 | 424 | 391 | gremicx |
 | 425 | 390 | ROODBOY |
-| 426 | 389 | Amanda J. Mcneil-Anderson |
-| 427 | 389 | Kirhonda Autmon |
+| 426 | 389 | Kirhonda Autmon |
+| 427 | 389 | Amanda J. Mcneil-Anderson |
 | 428 | 387 | Brittany K Ward |
 | 429 | 386 | Geoffrey Nash |
 | 430 | 384 | Tiffany Davie |

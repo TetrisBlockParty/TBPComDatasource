@@ -213,8 +213,8 @@
 | 205 | 509 | Mimi |
 | 206 | 507 | Andria Lynn |
 | 207 | 504 | Deanna Deckard |
-| 208 | 502 | Christina Black |
-| 209 | 502 | Ericca Eldridge |
+| 208 | 502 | Ericca Eldridge |
+| 209 | 502 | Christina Black |
 | 210 | 501 | Sharyn Lemire |
 | 211 | 499 | Kesha Brady |
 | 212 | 499 | DonMega |
@@ -283,8 +283,8 @@
 | 275 | 399 | Twisty Cascadezone |
 | 276 | 398 | Tyler Terrific |
 | 277 | 397 | blockstar |
-| 278 | 395 | Denise B |
-| 279 | 395 | BigSammy420 |
+| 278 | 395 | BigSammy420 |
+| 279 | 395 | Denise B |
 | 280 | 394 | Nikki Rae Gordon |
 | 281 | 393 | Montiette Mcglown |
 | 282 | 392 | Neirrah B Olailjeel |
@@ -503,10 +503,10 @@
 | 495 | 242 | PurpleMoonMa |
 | 496 | 242 | Badatvs |
 | 497 | 241 | Katherine Crane |
-| 498 | 240 | Zany Shatterer |
-| 499 | 240 | Orchislactea |
-| 500 | 239 | Krash |
-| 501 | 239 | Christina Nabrizny |
+| 498 | 240 | Orchislactea |
+| 499 | 240 | Zany Shatterer |
+| 500 | 239 | Christina Nabrizny |
+| 501 | 239 | Krash |
 | 502 | 238 | Mary Miller |
 | 503 | 238 | 中山成巳 |
 | 504 | 237 | Oleg Zakharskiy |
@@ -670,8 +670,8 @@
 | 662 | 181 | Caitlyn Brown |
 | 663 | 179 | Janis Brown |
 | 664 | 179 | Girldadtpa |
-| 665 | 179 | Joseph Gray |
-| 666 | 179 | Vamp |
+| 665 | 179 | Vamp |
+| 666 | 179 | Joseph Gray |
 | 667 | 178 | Tetrina |
 | 668 | 178 | Nerdy Linebuilder |
 | 669 | 178 | Somnium Era |

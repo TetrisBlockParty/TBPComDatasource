@@ -448,8 +448,8 @@
 | 440 | 1075 | SaraMarie Eveland |
 | 441 | 1074 | Diana Ayers |
 | 442 | 1073 | Jodi Blake |
-| 443 | 1071 | Kim Dean |
-| 444 | 1071 | Nashu |
+| 443 | 1071 | Nashu |
+| 444 | 1071 | Kim Dean |
 | 445 | 1068 | Tiffany Branham |
 | 446 | 1067 | Taylor Phillips |
 | 447 | 1067 | Lourisha |
@@ -519,8 +519,8 @@
 | 511 | 962 | Kathleen Driskell |
 | 512 | 962 | Antionette Sewell |
 | 513 | 960 | Smashanator |
-| 514 | 958 | Lisa Ongtowasruk |
-| 515 | 958 | Jc Gilk |
+| 514 | 958 | Jc Gilk |
+| 515 | 958 | Lisa Ongtowasruk |
 | 516 | 957 | Maria Louise |
 | 517 | 956 | Kiana Boschh |
 | 518 | 951 | Silly Pivotfall |
@@ -599,8 +599,8 @@
 | 591 | 854 | Dawn L Washington-Feuquay |
 | 592 | 854 | Gold Rose |
 | 593 | 852 | Polly Pritchard Chesler |
-| 594 | 852 | Alexandra Lynn |
-| 595 | 852 | Catherine Marsh Gruda |
+| 594 | 852 | Catherine Marsh Gruda |
+| 595 | 852 | Alexandra Lynn |
 | 596 | 851 | Melissa Schulz |
 | 597 | 851 | James Louie |
 | 598 | 850 | Sabrina Burton |
@@ -704,8 +704,8 @@
 | 696 | 758 | John Jubes |
 | 697 | 758 | Stephanie Neuburger |
 | 698 | 757 | Frisky Clearpiece |
-| 699 | 755 | Marcia Jones |
-| 700 | 755 | Antonio Mckoy Sr. |
+| 699 | 755 | Antonio Mckoy Sr. |
+| 700 | 755 | Marcia Jones |
 | 701 | 752 | Adrian Benitez |
 | 702 | 751 | Tom Riefer |
 | 703 | 751 | Swanky Strikerpiece |
@@ -862,8 +862,8 @@
 | 854 | 662 | Amanda Segura |
 | 855 | 662 | Niceday |
 | 856 | 662 | Casaundra Little-Abeling |
-| 857 | 662 | Belle Mari |
-| 858 | 662 | Magic steve |
+| 857 | 662 | Magic steve |
+| 858 | 662 | Belle Mari |
 | 859 | 661 | Kristina Marie Hanna |
 | 860 | 661 | Monica Galli |
 | 861 | 661 | Chab |
@@ -3915,8 +3915,8 @@
 | 3907 | 186 | Rose Copeland |
 | 3908 | 186 | Brittany Sizemore |
 | 3909 | 186 | Sherri Shelton |
-| 3910 | 186 | Nicole Bou |
-| 3911 | 186 | Tracey Lynn |
+| 3910 | 186 | Tracey Lynn |
+| 3911 | 186 | Nicole Bou |
 | 3912 | 186 | Riley Grimmett |
 | 3913 | 186 | Sarah Jensen |
 | 3914 | 185 | Chewyx001 |
