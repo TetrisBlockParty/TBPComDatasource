@@ -124,8 +124,8 @@
 | 116 | 751 | Kellie |
 | 117 | 725 | Debbie Kane |
 | 118 | 716 | Kristi Johnson |
-| 119 | 706 | Plucky Fallzone |
-| 120 | 706 | Denice Dee |
+| 119 | 706 | Denice Dee |
+| 120 | 706 | Plucky Fallzone |
 | 121 | 702 | lil mickey |
 | 122 | 699 | cc |
 | 123 | 696 | Carrie Smith |
@@ -139,15 +139,15 @@
 | 131 | 666 | Virginia Gray Floyd |
 | 132 | 652 | Evie Khalil |
 | 133 | 651 | Dandy Basegrid |
-| 134 | 650 | April Carroll |
-| 135 | 650 | Bob |
+| 134 | 650 | Bob |
+| 135 | 650 | April Carroll |
 | 136 | 647 | Theo Pinnow |
 | 137 | 643 | Erin Rosberg |
 | 138 | 642 | Mario Cab |
-| 139 | 629 | Death |
-| 140 | 629 | Tanya Carpenter-Reynolds |
-| 141 | 628 | femmefatale |
-| 142 | 628 | Trina Gee |
+| 139 | 629 | Tanya Carpenter-Reynolds |
+| 140 | 629 | Death |
+| 141 | 628 | Trina Gee |
+| 142 | 628 | femmefatale |
 | 143 | 626 | Damon J. Martin |
 | 144 | 620 | Ty Brown |
 | 145 | 611 | Evan Richmond |
@@ -193,8 +193,8 @@
 | 185 | 519 | Cool Shiftsnap |
 | 186 | 517 | Eric DeSimone |
 | 187 | 514 | Mike Ames |
-| 188 | 513 | Rebekah LeiAnn Bonsell |
-| 189 | 513 | Colena Davenport |
+| 188 | 513 | Colena Davenport |
+| 189 | 513 | Rebekah LeiAnn Bonsell |
 | 190 | 511 | MomMom |
 | 191 | 510 | Rat666 |
 | 192 | 501 | Jessica Russell |

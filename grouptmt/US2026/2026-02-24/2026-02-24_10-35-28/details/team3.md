@@ -69,8 +69,8 @@
 | 61 | 1920 | Trezure Gonzalez |
 | 62 | 1858 | Kristie McFarland |
 | 63 | 1836 | Tina Kay |
-| 64 | 1824 | Nate Burnside |
-| 65 | 1824 | Jessica Ann |
+| 64 | 1824 | Jessica Ann |
+| 65 | 1824 | Nate Burnside |
 | 66 | 1791 | Leah Barnett |
 | 67 | 1776 | Whitney Manuel |
 | 68 | 1774 | Liv Whetson |
@@ -78,8 +78,8 @@
 | 70 | 1695 | Nora Rogers |
 | 71 | 1691 | Cass Mendoza |
 | 72 | 1681 | Gracie |
-| 73 | 1663 | Mahman |
-| 74 | 1663 | Angeline Joseph |
+| 73 | 1663 | Angeline Joseph |
+| 74 | 1663 | Mahman |
 | 75 | 1633 | cowboy25469 |
 | 76 | 1625 | Queen Kam |
 | 77 | 1615 | joclisa |
@@ -111,8 +111,8 @@
 | 103 | 1309 | yoyo |
 | 104 | 1297 | Shelby Michelle |
 | 105 | 1290 | JerseyJess |
-| 106 | 1282 | Peppy Shifter |
-| 107 | 1282 | Amanda L Baker |
+| 106 | 1282 | Amanda L Baker |
+| 107 | 1282 | Peppy Shifter |
 | 108 | 1276 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1248 | Lori Barnaby |
@@ -127,8 +127,8 @@
 | 119 | 1134 | Melissa Orth Hunter |
 | 120 | 1124 | Stephanie Rice |
 | 121 | 1121 | Corie A. Brinson |
-| 122 | 1114 | Loopy Fallmatch |
-| 123 | 1114 | Groovy Catcher |
+| 122 | 1114 | Groovy Catcher |
+| 123 | 1114 | Loopy Fallmatch |
 | 124 | 1105 | Adrian Marcel Pate |
 | 125 | 1093 | Angela M. Fletcher |
 | 126 | 1091 | Jennifer |
@@ -218,8 +218,8 @@
 | 210 | 760 | Kiki |
 | 211 | 759 | Mykal Burton |
 | 212 | 757 | Fancy Cascader |
-| 213 | 755 | Colton |
-| 214 | 755 | Laura Booth Wosko |
+| 213 | 755 | Laura Booth Wosko |
+| 214 | 755 | Colton |
 | 215 | 754 | CeceGeGe |
 | 216 | 753 | Morgan Martinez |
 | 217 | 752 | Joye Sims Binion |
@@ -266,8 +266,8 @@
 | 258 | 632 | Rebecca Bailey |
 | 259 | 630 | Jackie Miller |
 | 260 | 629 | rnr junky |
-| 261 | 627 | Louise Stacy Sisson |
-| 262 | 627 | Juliana Dottore |
+| 261 | 627 | Juliana Dottore |
+| 262 | 627 | Louise Stacy Sisson |
 | 263 | 626 | Cheryl Hinch Tenbrook |
 | 264 | 625 | Jacqueline Rodriguez |
 | 265 | 624 | Hyper Matchzone |
@@ -310,8 +310,8 @@
 | 302 | 547 | Aerian Preston |
 | 303 | 542 | France Vézina |
 | 304 | 541 | Mcathen |
-| 305 | 540 | Tanya Kittrell |
-| 306 | 540 | rosy |
+| 305 | 540 | rosy |
+| 306 | 540 | Tanya Kittrell |
 | 307 | 539 | Fancy Curver |
 | 308 | 539 | Kate M. Murdock |
 | 309 | 538 | Chummy Caster |
@@ -329,18 +329,18 @@
 | 321 | 505 | Stephanie Simpson |
 | 322 | 504 | Daring Builder |
 | 323 | 500 | Ashley Tookes |
-| 324 | 499 | Gumbo |
-| 325 | 499 | Megan Rathmanner |
+| 324 | 499 | Megan Rathmanner |
+| 325 | 499 | Gumbo |
 | 326 | 496 | Brenda Schmid Wood |
 | 327 | 494 | fraulila |
 | 328 | 494 | MCV |
 | 329 | 492 | Tasha Wesson-Torrence |
-| 330 | 490 | Cassandra Bryant |
-| 331 | 490 | TotoCherue |
+| 330 | 490 | TotoCherue |
+| 331 | 490 | Cassandra Bryant |
 | 332 | 489 | Isabel Ocasio |
 | 333 | 487 | MsBee |
-| 334 | 486 | Skippy |
-| 335 | 486 | Sleepy |
+| 334 | 486 | Sleepy |
+| 335 | 486 | Skippy |
 | 336 | 485 | Charles Perrone |
 | 337 | 483 | Tegan Chapman |
 | 338 | 482 | Travis W |
@@ -383,8 +383,8 @@
 | 375 | 444 | Heather De Vries Cobb |
 | 376 | 442 | Loopy Fallzone |
 | 377 | 438 | Dannie Litchard |
-| 378 | 436 | Julie Fratrik |
-| 379 | 436 | AC Yeater |
+| 378 | 436 | AC Yeater |
+| 379 | 436 | Julie Fratrik |
 | 380 | 435 | Sabrina Hardrick |
 | 381 | 434 | Criss |
 | 382 | 434 | Ginger Gray |
@@ -445,8 +445,8 @@
 | 437 | 382 | Theresa Opell Gartner |
 | 438 | 382 | Katheline Lazo Luizaga |
 | 439 | 381 | Mary Giorgenti |
-| 440 | 380 | neci |
-| 441 | 380 | Foltz Lee Kelli |
+| 440 | 380 | Foltz Lee Kelli |
+| 441 | 380 | neci |
 | 442 | 379 | Krish Shah |
 | 443 | 378 | Ashley Lynn Marchese |
 | 444 | 378 | Nikki Pags |
@@ -479,12 +479,12 @@
 | 471 | 363 | Katrina Turner |
 | 472 | 360 | Cathy Leger |
 | 473 | 360 | Alexi Pryor |
-| 474 | 359 | Kathleen Taylor |
-| 475 | 359 | Ann Hammac |
+| 474 | 359 | Ann Hammac |
+| 475 | 359 | Kathleen Taylor |
 | 476 | 359 | Steven Fulater |
 | 477 | 358 | Hyper Twisterfit |
-| 478 | 358 | Beejangles |
-| 479 | 358 | Taylor Culver |
+| 478 | 358 | Taylor Culver |
+| 479 | 358 | Beejangles |
 | 480 | 356 | Trice Sodames |
 | 481 | 355 | Eboni Starr |
 | 482 | 354 | Norma JulieMay |
@@ -546,9 +546,9 @@
 | 538 | 328 | Cesar Mendez |
 | 539 | 327 | Jess Bissett |
 | 540 | 327 | Taylor Hood |
-| 541 | 326 | Natalie Augustus |
-| 542 | 326 | Eric Caccavale |
-| 543 | 326 | Beppy |
+| 541 | 326 | Beppy |
+| 542 | 326 | Natalie Augustus |
+| 543 | 326 | Eric Caccavale |
 | 544 | 324 | Paul Daniel Quertermous |
 | 545 | 323 | Carla Hoffman |
 | 546 | 323 | sofaking |
@@ -591,8 +591,8 @@
 | 583 | 313 | Emberblaze |
 | 584 | 313 | Joseph Vargas |
 | 585 | 313 | Dakota Graham |
-| 586 | 312 | Elizabeth Renee |
-| 587 | 312 | Trice Thomas |
+| 586 | 312 | Trice Thomas |
+| 587 | 312 | Elizabeth Renee |
 | 588 | 311 | Irene Arreguin |
 | 589 | 311 | Sunny Lift |
 | 590 | 309 | Daisy Rocha |
@@ -656,14 +656,14 @@
 | 648 | 284 | Hanna Kim |
 | 649 | 284 | Maria Ramos |
 | 650 | 283 | Dirtgirl27 |
-| 651 | 282 | Lisa Ann |
-| 652 | 282 | Cheeky Twisterfit |
-| 653 | 282 | Karla Phillips |
-| 654 | 281 | Boldy Blocker |
-| 655 | 281 | Jenna Baker |
+| 651 | 282 | Karla Phillips |
+| 652 | 282 | Lisa Ann |
+| 653 | 282 | Cheeky Twisterfit |
+| 654 | 281 | Jenna Baker |
+| 655 | 281 | Boldy Blocker |
 | 656 | 281 | Nerdy Lifter |
-| 657 | 279 | John Barb Padron |
-| 658 | 279 | Mikey Lewis |
+| 657 | 279 | Mikey Lewis |
+| 658 | 279 | John Barb Padron |
 | 659 | 279 | Ryan Williams |
 | 660 | 279 | Myoshia Norwood |
 | 661 | 278 | Erin Ervin |
@@ -1150,8 +1150,8 @@
 | 1142 | 172 | Jennifer Blake |
 | 1143 | 171 | Mango |
 | 1144 | 171 | Pam Holt Powell |
-| 1145 | 171 | Rachelle-Marshall Foreman |
-| 1146 | 171 | Kobe Artis |
+| 1145 | 171 | Kobe Artis |
+| 1146 | 171 | Rachelle-Marshall Foreman |
 | 1147 | 170 | Chenelle Ashley |
 | 1148 | 170 | PrincessSquare |
 | 1149 | 170 | Jessica Rose-Morgan |
@@ -1454,7 +1454,7 @@
 | 1446 | 128 | Twister mcnugget |
 | 1447 | 128 | Sheila Segura |
 | 1448 | 128 | MsSassy Williams |
-| 1449 | 128 | Sheila Segura |
+| 1449 | 128 | LaMonsherrie Maddox |
 | 1450 | 127 | MattieT |
 | 1451 | 127 | Big No |
 | 1452 | 127 | Jodee Brown |
