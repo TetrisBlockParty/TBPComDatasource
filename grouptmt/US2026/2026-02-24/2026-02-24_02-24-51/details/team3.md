@@ -186,10 +186,10 @@
 | 178 | 777 | Daryn Elliott |
 | 179 | 776 | JessDrown |
 | 180 | 774 | ren |
-| 181 | 773 | Sashay Tapae Simpson |
-| 182 | 773 | Daira Largen |
-| 183 | 772 | Tye Stovall |
-| 184 | 772 | Twisty Brick LT |
+| 181 | 773 | Daira Largen |
+| 182 | 773 | Sashay Tapae Simpson |
+| 183 | 772 | Twisty Brick LT |
+| 184 | 772 | Tye Stovall |
 | 185 | 770 | Raya |
 | 186 | 768 | Hasty Cascadefit |
 | 187 | 765 | Happy Tetriblast |

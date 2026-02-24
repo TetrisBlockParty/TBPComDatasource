@@ -76,8 +76,8 @@
 | 68 | 1031 | LisaJo Picken Buchanan |
 | 69 | 1030 | Anthony Bryan Riva |
 | 70 | 999 | Jeremy Steines |
-| 71 | 985 | Shannon Ferrari |
-| 72 | 985 | Shelly Chandler |
+| 71 | 985 | Shelly Chandler |
+| 72 | 985 | Shannon Ferrari |
 | 73 | 983 | Julian Garcia |
 | 74 | 954 | loulou |
 | 75 | 947 | TeeJ |
@@ -94,8 +94,8 @@
 | 86 | 850 | Lucille Truesdale |
 | 87 | 850 | Lisa Davis |
 | 88 | 846 | Christine Marie |
-| 89 | 841 | Shauna Havard |
-| 90 | 841 | Judy Cox |
+| 89 | 841 | Judy Cox |
+| 90 | 841 | Shauna Havard |
 | 91 | 840 | Chaz Duncan |
 | 92 | 834 | quicksand420 |
 | 93 | 826 | Rica Mitchell |
@@ -223,12 +223,12 @@
 | 215 | 448 | Mike Solo |
 | 216 | 447 | J-Rizzle |
 | 217 | 446 | Mr. Party |
-| 218 | 444 | Calvin Cannon |
-| 219 | 444 | Shiny Fit |
+| 218 | 444 | Shiny Fit |
+| 219 | 444 | Calvin Cannon |
 | 220 | 443 | Kristina Black |
 | 221 | 442 | 🥔🥔 Spudz |
-| 222 | 441 | Jen Mattei |
-| 223 | 441 | Lush Linkfall |
+| 222 | 441 | Lush Linkfall |
+| 223 | 441 | Jen Mattei |
 | 224 | 438 | Melvin Baird |
 | 225 | 436 | Selena Shaw |
 | 226 | 434 | Ramel Rhodes |
@@ -252,11 +252,11 @@
 | 244 | 408 | Lauren Scott |
 | 245 | 403 | TinyLegoRose |
 | 246 | 400 | Brickh4us |
-| 247 | 398 | Tyler Terrific |
-| 248 | 398 | Nerdy Twisterfit |
+| 247 | 398 | Nerdy Twisterfit |
+| 248 | 398 | Tyler Terrific |
 | 249 | 397 | blockstar |
-| 250 | 395 | BigSammy420 |
-| 251 | 395 | 030Synner |
+| 250 | 395 | 030Synner |
+| 251 | 395 | BigSammy420 |
 | 252 | 394 | Nita Wells |
 | 253 | 391 | mike |
 | 254 | 390 | Ari Droff |
@@ -333,8 +333,8 @@
 | 325 | 314 | Kenna Gunderland |
 | 326 | 313 | DonMega |
 | 327 | 312 | Tawna Curry |
-| 328 | 311 | Ak Jones |
-| 329 | 311 | Laura |
+| 328 | 311 | Laura |
+| 329 | 311 | Ak Jones |
 | 330 | 308 | Angela Geist Jusinski |
 | 331 | 307 | Kim Klutz Olson |
 | 332 | 307 | Shukee Lo |
@@ -404,8 +404,8 @@
 | 396 | 265 | Christine Therrien |
 | 397 | 265 | Degenerate |
 | 398 | 265 | Lorena Guerrero-Barron |
-| 399 | 264 | Shh |
-| 400 | 264 | AyeKay |
+| 399 | 264 | AyeKay |
+| 400 | 264 | Shh |
 | 401 | 263 | Laurmarcar |
 | 402 | 262 | Brave Spinbuilder |
 | 403 | 262 | Ruben Wheeler |
@@ -600,7 +600,7 @@
 | 592 | 179 | Vamp |
 | 593 | 178 | JoJo |
 | 594 | 178 | Nerdy Linebuilder |
-| 595 | 178 | JoJo |
+| 595 | 178 | Sunny Filler |
 | 596 | 177 | Tina Williams |
 | 597 | 177 | Veronica Garza |
 | 598 | 177 | Snippy Clearer |
