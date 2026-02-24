@@ -258,11 +258,11 @@
 | 250 | 613 | Rebecca Funderburk Kirby |
 | 251 | 609 | Dee Pratt |
 | 252 | 605 | Sarah Cowan Burgos |
-| 253 | 604 | Bmo |
-| 254 | 604 | Sherry Ogden |
+| 253 | 604 | Sherry Ogden |
+| 254 | 604 | Bmo |
 | 255 | 601 | Betty Rosas |
-| 256 | 600 | Natasha Jones |
-| 257 | 600 | Connie Mohler-Fair |
+| 256 | 600 | Connie Mohler-Fair |
+| 257 | 600 | Natasha Jones |
 | 258 | 599 | Noyb Adam |
 | 259 | 598 | Kaycee Kay |
 | 260 | 594 | Cozy Snaplink |
@@ -320,8 +320,8 @@
 | 312 | 499 | Gumbo |
 | 313 | 499 | Rebecca Bailey |
 | 314 | 495 | Daring Builder |
-| 315 | 494 | Megan Rathmanner |
-| 316 | 494 | MCV |
+| 315 | 494 | MCV |
+| 316 | 494 | Megan Rathmanner |
 | 317 | 492 | Tasha Wesson-Torrence |
 | 318 | 491 | Mcathen |
 | 319 | 490 | Brenda Schmid Wood |

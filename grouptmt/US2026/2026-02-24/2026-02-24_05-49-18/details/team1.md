@@ -136,8 +136,8 @@
 | 128 | 642 | Mario Cab |
 | 129 | 639 | Theo Pinnow |
 | 130 | 634 | Carrie Smith |
-| 131 | 629 | Tanya Carpenter-Reynolds |
-| 132 | 629 | Death |
+| 131 | 629 | Death |
+| 132 | 629 | Tanya Carpenter-Reynolds |
 | 133 | 628 | Trina Gee |
 | 134 | 626 | Damon J. Martin |
 | 135 | 622 | Chris K |
@@ -167,8 +167,8 @@
 | 159 | 548 | Luciano Moreira |
 | 160 | 547 | Sharon Reynolds |
 | 161 | 546 | Loony Fitzone |
-| 162 | 543 | Nicole Roseberry Weber |
-| 163 | 543 | Adrian Esteban |
+| 162 | 543 | Adrian Esteban |
+| 163 | 543 | Nicole Roseberry Weber |
 | 164 | 540 | Tonya Beasley |
 | 165 | 538 | .running. |
 | 166 | 537 | BadG52 |
