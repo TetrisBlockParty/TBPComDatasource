@@ -68,8 +68,8 @@
 | 60 | 1106 | Ashley Ingram |
 | 61 | 1098 | BertMofo |
 | 62 | 1089 | Alyssa Papen |
-| 63 | 1082 | Dion Crommarty |
-| 64 | 1082 | Avy Absol |
+| 63 | 1082 | Avy Absol |
+| 64 | 1082 | Dion Crommarty |
 | 65 | 1075 | Dustee Craddock-Harrison |
 | 66 | 1064 | Heather Tushner |
 | 67 | 1047 | Julian Garcia |
@@ -125,8 +125,8 @@
 | 117 | 716 | Savannah Overdorf |
 | 118 | 712 | H.R. Block |
 | 119 | 710 | SAP |
-| 120 | 708 | Zippy Gridlock |
-| 121 | 708 | Jacqueline Helm |
+| 120 | 708 | Jacqueline Helm |
+| 121 | 708 | Zippy Gridlock |
 | 122 | 704 | Austin Owens |
 | 123 | 702 | Amy Suckarieh |
 | 124 | 698 | Chilly Crasher |
@@ -206,8 +206,8 @@
 | 198 | 493 | Amanda Pauldo-Ivy |
 | 199 | 478 | Casey Grabner |
 | 200 | 477 | Rebecca Morris |
-| 201 | 476 | Matt Summer |
-| 202 | 476 | Mylo Lipscomb |
+| 201 | 476 | Mylo Lipscomb |
+| 202 | 476 | Matt Summer |
 | 203 | 474 | Joanna |
 | 204 | 473 | Jolly Dashfit |
 | 205 | 464 | Silly Zonebuilder |
@@ -254,8 +254,8 @@
 | 246 | 408 | Lauren Scott |
 | 247 | 406 | TinyLegoRose |
 | 248 | 400 | Brickh4us |
-| 249 | 398 | Nerdy Twisterfit |
-| 250 | 398 | Tyler Terrific |
+| 249 | 398 | Tyler Terrific |
+| 250 | 398 | Nerdy Twisterfit |
 | 251 | 397 | blockstar |
 | 252 | 397 | blasterB |
 | 253 | 395 | BigSammy420 |
