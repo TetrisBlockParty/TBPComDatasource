@@ -70,8 +70,8 @@
 | 62 | 1059 | Alyssa Papen |
 | 63 | 1049 | Heather Tushner |
 | 64 | 1046 | Johnathan Martinez |
-| 65 | 1030 | LisaJo Picken Buchanan |
-| 66 | 1030 | Anthony Bryan Riva |
+| 65 | 1030 | Anthony Bryan Riva |
+| 66 | 1030 | LisaJo Picken Buchanan |
 | 67 | 998 | Jeremy Steines |
 | 68 | 985 | Shelly Chandler |
 | 69 | 977 | Amelpss |
@@ -172,10 +172,10 @@
 | 164 | 524 | Erin Sabol |
 | 165 | 522 | Carly Alexis |
 | 166 | 521 | Andy Cabral |
-| 167 | 520 | Oscar Alberto Perez |
-| 168 | 520 | Zippy Block |
-| 169 | 516 | Twisty Clicky |
-| 170 | 516 | Trish |
+| 167 | 520 | Zippy Block |
+| 168 | 520 | Oscar Alberto Perez |
+| 169 | 516 | Trish |
+| 170 | 516 | Twisty Clicky |
 | 171 | 514 | Scott Jameson |
 | 172 | 513 | Erin Thomas |
 | 173 | 512 | ThaEviLJeNiuZ |
@@ -221,8 +221,8 @@
 | 213 | 439 | Jen Mattei |
 | 214 | 438 | Melvin Baird |
 | 215 | 434 | Ramel Rhodes |
-| 216 | 433 | Damn Libra |
-| 217 | 433 | Circuit8 |
+| 216 | 433 | Circuit8 |
+| 217 | 433 | Damn Libra |
 | 218 | 431 | Zesty Twistbuilder |
 | 219 | 427 | Chao Ma |
 | 220 | 426 | John Brunetti |

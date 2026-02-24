@@ -44,8 +44,8 @@
 | 36 | 1405 | Chipper Gridlock |
 | 37 | 1396 | Derek MF Blakey |
 | 38 | 1391 | Aaron Garnett |
-| 39 | 1334 | Tyler Alcock |
-| 40 | 1334 | june october |
+| 39 | 1334 | june october |
+| 40 | 1334 | Tyler Alcock |
 | 41 | 1277 | Marianne Louise West |
 | 42 | 1250 | Stef Hu |
 | 43 | 1239 | Brenda Stewart |
@@ -214,8 +214,8 @@
 | 206 | 419 | Daring Fitclear |
 | 207 | 417 | Jessie Lynn |
 | 208 | 416 | Jessica Sheehan |
-| 209 | 412 | Connie |
-| 210 | 412 | Witty Builderfit |
+| 209 | 412 | Witty Builderfit |
+| 210 | 412 | Connie |
 | 211 | 408 | Lindsay Glover |
 | 212 | 407 | Ananda Mendez |
 | 213 | 405 | Jerry Danowski |
@@ -245,8 +245,8 @@
 | 237 | 380 | Snippy Wipebuilder |
 | 238 | 380 | Bindi |
 | 239 | 379 | Austin James |
-| 240 | 376 | Brian Richardsson |
-| 241 | 376 | Sassy Builderline |
+| 240 | 376 | Sassy Builderline |
+| 241 | 376 | Brian Richardsson |
 | 242 | 375 | DaRascal |
 | 243 | 373 | Frothy Pattern |
 | 244 | 372 | Dizzy Party |
@@ -407,8 +407,8 @@
 | 399 | 261 | Angela Fairbank |
 | 400 | 260 | Lacy Wolfe |
 | 401 | 259 | Tiffany Smith |
-| 402 | 258 | Christina Backer |
-| 403 | 258 | Silly Align |
+| 402 | 258 | Silly Align |
+| 403 | 258 | Katie Martin |
 | 404 | 258 | Gary Gobin |
 | 405 | 258 | Christina Backer |
 | 406 | 257 | Marc Abney |
@@ -419,7 +419,7 @@
 | 411 | 256 | Joe Coon |
 | 412 | 255 | Sunshine |
 | 413 | 255 | Beazel75 |
-| 414 | 255 | Sunshine |
+| 414 | 255 | SavageBooty98 |
 | 415 | 254 | Kipoi |
 | 416 | 253 | Shiny Gridmatch |
 | 417 | 252 | Dena Kayy |

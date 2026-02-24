@@ -176,8 +176,8 @@
 | 168 | 1871 | Christi Hulet |
 | 169 | 1866 | Janel Turley-Garner |
 | 170 | 1845 | Jessie McDougald |
-| 171 | 1840 | Kristopher Miller |
-| 172 | 1840 | blarg |
+| 171 | 1840 | blarg |
+| 172 | 1840 | Kristopher Miller |
 | 173 | 1839 | bonsai |
 | 174 | 1829 | Mr. Street Stack |
 | 175 | 1818 | Shandrica Lowe |
@@ -569,8 +569,8 @@
 | 561 | 780 | Amy Reynolds |
 | 562 | 779 | Trinity Oak |
 | 563 | 778 | tejas25 |
-| 564 | 777 | Tesha Oldaker |
-| 565 | 777 | Ashley Lopez |
+| 564 | 777 | Ashley Lopez |
+| 565 | 777 | Tesha Oldaker |
 | 566 | 776 | BeQuo |
 | 567 | 774 | Cherrica Newman |
 | 568 | 771 | Maya June |
@@ -616,14 +616,14 @@
 | 608 | 731 | Melissa Holsinger |
 | 609 | 730 | Shannon Jackson |
 | 610 | 730 | Cathleena Giusto |
-| 611 | 729 | goofinoff |
-| 612 | 729 | Anthony Huebel |
-| 613 | 726 | Gloria Ininahazwe |
-| 614 | 726 | Crystal Greene |
-| 615 | 725 | Cheyenne Donovan |
-| 616 | 725 | Vonceial Boone |
-| 617 | 724 | teo1 |
-| 618 | 724 | Emmmz |
+| 611 | 729 | Anthony Huebel |
+| 612 | 729 | goofinoff |
+| 613 | 726 | Crystal Greene |
+| 614 | 726 | Gloria Ininahazwe |
+| 615 | 725 | Vonceial Boone |
+| 616 | 725 | Cheyenne Donovan |
+| 617 | 724 | Emmmz |
+| 618 | 724 | teo1 |
 | 619 | 723 | Leticia Martinez Kelley |
 | 620 | 720 | Jo Nicole |
 | 621 | 720 | William Bresee |
@@ -658,8 +658,8 @@
 | 650 | 691 | Daniel Amos |
 | 651 | 689 | Shiny Twistfit |
 | 652 | 688 | BIG BABY |
-| 653 | 688 | Tracy Wise |
-| 654 | 688 | Andre Love |
+| 653 | 688 | Andre Love |
+| 654 | 688 | Tracy Wise |
 | 655 | 687 | SwampRebel |
 | 656 | 686 | De'Jah Charncey |
 | 657 | 685 | James Louie |
