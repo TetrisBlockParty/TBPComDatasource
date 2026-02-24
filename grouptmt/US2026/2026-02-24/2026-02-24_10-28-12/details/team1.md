@@ -173,8 +173,8 @@
 | 165 | 553 | Flashy Rotator |
 | 166 | 551 | Loony Fitzone |
 | 167 | 549 | Jerry Danowski |
-| 168 | 548 | Luciano Moreira |
-| 169 | 548 | Stephanie Zahn |
+| 168 | 548 | Stephanie Zahn |
+| 169 | 548 | Luciano Moreira |
 | 170 | 547 | Sharon Reynolds |
 | 171 | 546 | Adrian Esteban |
 | 172 | 545 | .running. |
