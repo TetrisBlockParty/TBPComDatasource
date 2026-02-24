@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-24 17:00:43 UTC
+# Standings for team1 as of 2026-02-24 17:01:23 UTC
 
 **Total Participants:** 2280
 
@@ -53,15 +53,15 @@
 | 45 | 1404 | Tyler Alcock |
 | 46 | 1388 | Jen Sartain |
 | 47 | 1387 | june october |
-| 48 | 1370 | Spunky Piecebuilder |
+| 48 | 1375 | Spunky Piecebuilder |
 | 49 | 1332 | Michelle Nicole |
 | 50 | 1331 | Hasbro Bros |
 | 51 | 1327 | Drew Magnus |
 | 52 | 1306 | Brenda Stewart |
-| 53 | 1281 | Lori Sanders- Davis |
-| 54 | 1267 | Rachael |
-| 55 | 1267 | Stef Hu |
-| 56 | 1265 | Cheeky Twistslam |
+| 53 | 1283 | Cheeky Twistslam |
+| 54 | 1281 | Lori Sanders- Davis |
+| 55 | 1267 | Rachael |
+| 56 | 1267 | Stef Hu |
 | 57 | 1259 | Patrick Luckenbill |
 | 58 | 1254 | Lawrence Belanger |
 | 59 | 1254 | Adam Byrd |
@@ -113,13 +113,13 @@
 | 105 | 892 | Seth Wesson |
 | 106 | 890 | Kellie |
 | 107 | 884 | Sevens4L |
-| 108 | 872 | Kathy Langham |
-| 109 | 872 | Madison Wicks |
-| 110 | 842 | Chris K |
-| 111 | 827 | Robert Benito |
-| 112 | 816 | Melissa Lemmon |
-| 113 | 812 | Angel Fowler |
-| 114 | 802 | Jessica Sheehan |
+| 108 | 872 | Madison Wicks |
+| 109 | 872 | Kathy Langham |
+| 110 | 855 | Jessica Sheehan |
+| 111 | 842 | Chris K |
+| 112 | 827 | Robert Benito |
+| 113 | 816 | Melissa Lemmon |
+| 114 | 812 | Angel Fowler |
 | 115 | 791 | Greg Hart |
 | 116 | 784 | Jazzy Framezone |
 | 117 | 782 | Karin Gillen |
@@ -130,14 +130,14 @@
 | 122 | 770 | Zappy Curvetile |
 | 123 | 760 | Elaine Elaine |
 | 124 | 756 | Chuck Gannon |
-| 125 | 737 | Debbie Kane |
-| 126 | 732 | Basment Living |
-| 127 | 728 | Denice Dee |
-| 128 | 726 | Krista Young |
-| 129 | 719 | phrmblk24 |
-| 130 | 716 | Bob |
-| 131 | 716 | Dandy Basegrid |
-| 132 | 712 | Hellsin |
+| 125 | 742 | Hellsin |
+| 126 | 737 | Debbie Kane |
+| 127 | 732 | Basment Living |
+| 128 | 728 | Denice Dee |
+| 129 | 726 | Krista Young |
+| 130 | 719 | phrmblk24 |
+| 131 | 716 | Bob |
+| 132 | 716 | Dandy Basegrid |
 | 133 | 709 | Virginia Gray Floyd |
 | 134 | 702 | lil mickey |
 | 135 | 699 | cc |
@@ -525,10 +525,10 @@
 | 517 | 260 | Lacy Wolfe |
 | 518 | 260 | JaPria Rodgers |
 | 519 | 260 | Mathew Harris |
-| 520 | 258 | Marc Abney |
-| 521 | 258 | Teresa |
-| 522 | 258 | Tedashi |
-| 523 | 258 | Vivienne Carter |
+| 520 | 259 | Vivienne Carter |
+| 521 | 258 | Marc Abney |
+| 522 | 258 | Teresa |
+| 523 | 258 | Tedashi |
 | 524 | 257 | Angel Marie |
 | 525 | 257 | Andrew Backes |
 | 526 | 256 | whocares |
