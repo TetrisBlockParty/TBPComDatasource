@@ -563,8 +563,8 @@
 | 555 | 223 | Shane Vick |
 | 556 | 222 | Cozy Balancer |
 | 557 | 222 | Squeezy Pearsall |
-| 558 | 221 | Peppy Drop |
-| 559 | 221 | Rheanda Weaskus |
+| 558 | 221 | Rheanda Weaskus |
+| 559 | 221 | Peppy Drop |
 | 560 | 220 | Mighty Edgepiece |
 | 561 | 219 | Dapper Balancer |
 | 562 | 219 | Brandon Link |

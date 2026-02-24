@@ -139,8 +139,8 @@
 | 131 | 666 | Virginia Gray Floyd |
 | 132 | 652 | Evie Khalil |
 | 133 | 651 | Dandy Basegrid |
-| 134 | 650 | April Carroll |
-| 135 | 650 | Bob |
+| 134 | 650 | Bob |
+| 135 | 650 | April Carroll |
 | 136 | 647 | Theo Pinnow |
 | 137 | 643 | Erin Rosberg |
 | 138 | 642 | Mario Cab |
@@ -241,14 +241,14 @@
 | 233 | 438 | Chelsea Dahlquist |
 | 234 | 436 | Sylvia Vasquez |
 | 235 | 433 | Richard Corrado |
-| 236 | 431 | Shiny Snapfit |
-| 237 | 431 | Tipsy Strikerpiece |
+| 236 | 431 | Tipsy Strikerpiece |
+| 237 | 431 | Shiny Snapfit |
 | 238 | 430 | Jennifer Noe Chandler |
 | 239 | 429 | Tana |
 | 240 | 429 | pjbeta |
 | 241 | 427 | Ananda Mendez |
-| 242 | 426 | Betsy |
-| 243 | 426 | Brenda Alexander |
+| 242 | 426 | Brenda Alexander |
+| 243 | 426 | Betsy |
 | 244 | 425 | Tyler Werts |
 | 245 | 424 | Plucky Stacky |
 | 246 | 424 | Emily Adelaide Wheatley |
@@ -265,8 +265,8 @@
 | 257 | 410 | Paula Martin |
 | 258 | 409 | Lehrin Maria |
 | 259 | 409 | poopypants |
-| 260 | 408 | Sweetts |
-| 261 | 408 | Dino |
+| 260 | 408 | Dino |
+| 261 | 408 | Sweetts |
 | 262 | 405 | Tyler L Hunt |
 | 263 | 404 | Angela Renea Lester |
 | 264 | 403 | Tami Luce Martin |
@@ -526,7 +526,7 @@
 | 518 | 247 | Christy LaSure |
 | 519 | 247 | Chilly Riserpiece |
 | 520 | 247 | Bay Marie |
-| 521 | 247 | Nate Carter |
+| 521 | 247 | Colleen Wise |
 | 522 | 246 | Frothy Blockbuilder |
 | 523 | 246 | ken |
 | 524 | 245 | Theeranart Mahawan |

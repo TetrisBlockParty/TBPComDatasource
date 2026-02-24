@@ -246,10 +246,10 @@
 | 238 | 1670 | L3sli3 |
 | 239 | 1668 | Cambrie Schultz |
 | 240 | 1663 | Alex Stone LaRue |
-| 241 | 1661 | Danielle Johnson-Chandler |
-| 242 | 1661 | Scott Treadway |
-| 243 | 1656 | Binyah-Binyah |
-| 244 | 1656 | Lemonaide |
+| 241 | 1661 | Scott Treadway |
+| 242 | 1661 | Danielle Johnson-Chandler |
+| 243 | 1656 | Lemonaide |
+| 244 | 1656 | Binyah-Binyah |
 | 245 | 1655 | Glitzy Stackzone |
 | 246 | 1652 | Tim Dyer |
 | 247 | 1651 | Luna |
@@ -367,8 +367,8 @@
 | 359 | 1257 | Megan Ferguson Leone |
 | 360 | 1257 | Megan Garrick |
 | 361 | 1257 | Jackie Lucas |
-| 362 | 1256 | Belle |
-| 363 | 1256 | Phil J. Grombliniak |
+| 362 | 1256 | Phil J. Grombliniak |
+| 363 | 1256 | Belle |
 | 364 | 1255 | Ambyre Patterson |
 | 365 | 1254 | Erika Densmore |
 | 366 | 1252 | AgileDragon |
@@ -401,12 +401,12 @@
 | 393 | 1178 | Dany Murillo |
 | 394 | 1176 | Misti Markijohn |
 | 395 | 1173 | Giggy Blocker |
-| 396 | 1172 | Lakeysha Dortch |
-| 397 | 1172 | Min |
+| 396 | 1172 | Min |
+| 397 | 1172 | Lakeysha Dortch |
 | 398 | 1171 | Loretta Brewer-Gage |
 | 399 | 1170 | Shelley Thornburgh Wright |
-| 400 | 1163 | Sarah DeHart |
-| 401 | 1163 | Caitlin Schmid |
+| 400 | 1163 | Caitlin Schmid |
+| 401 | 1163 | Sarah DeHart |
 | 402 | 1158 | Brittany Clark |
 | 403 | 1150 | Sheniya Spurgeon |
 | 404 | 1149 | Hoppy Brickmatch |
@@ -493,11 +493,11 @@
 | 485 | 1003 | Amanda Deitrick |
 | 486 | 1002 | Lexie Burke |
 | 487 | 1000 | Emmmz |
-| 488 | 1000 | Ashley Guernsey-Martin |
+| 488 | 1000 | Tonya Lee |
 | 489 | 1000 | Victoria Moore-Smith |
-| 490 | 1000 | Tonya Lee |
-| 491 | 999 | Lola Contreras |
-| 492 | 999 | Tansaria Couch-Butler |
+| 490 | 1000 | Ashley Guernsey-Martin |
+| 491 | 999 | Tansaria Couch-Butler |
+| 492 | 999 | Lola Contreras |
 | 493 | 998 | Dedra Steward |
 | 494 | 997 | Ellie Jonas |
 | 495 | 995 | Gauri Shrotriya |
@@ -890,8 +890,8 @@
 | 882 | 652 | Court |
 | 883 | 652 | Lively Edgepiece |
 | 884 | 652 | Irna |
-| 885 | 651 | Lazy Builderfit |
-| 886 | 651 | Unica Rector |
+| 885 | 651 | Unica Rector |
+| 886 | 651 | Lazy Builderfit |
 | 887 | 650 | Pfc Monei Rivera |
 | 888 | 650 | Brittany Chapman |
 | 889 | 650 | Peppy Snapfall |
@@ -1073,7 +1073,7 @@
 | 1065 | 559 | Bing |
 | 1066 | 558 | David Scott |
 | 1067 | 558 | Linda Miltenburg |
-| 1068 | 558 | David Scott |
+| 1068 | 558 | Byung Bae Park |
 | 1069 | 558 | Treshell Boyd |
 | 1070 | 557 | Bridgette Sargent |
 | 1071 | 557 | Cheery Puzzler |
@@ -1263,8 +1263,8 @@
 | 1255 | 489 | Jennifer Mahon |
 | 1256 | 489 | Michael David Hollis |
 | 1257 | 489 | Chenchun Ma |
-| 1258 | 488 | Batu |
-| 1259 | 488 | Lauren Forlenza |
+| 1258 | 488 | Lauren Forlenza |
+| 1259 | 488 | Batu |
 | 1260 | 488 | Murray Marie |
 | 1261 | 488 | Lou Mar |
 | 1262 | 488 | Kim McGrath |
@@ -1308,10 +1308,10 @@
 | 1300 | 473 | PlazTTV |
 | 1301 | 472 | Bold Clusterfit |
 | 1302 | 472 | Beautiful |
-| 1303 | 472 | Kena T. Tanner |
-| 1304 | 472 | Sarah Dean |
-| 1305 | 471 | Joshua Vargeson |
-| 1306 | 471 | Brea Nycole |
+| 1303 | 472 | Sarah Dean |
+| 1304 | 472 | Kena T. Tanner |
+| 1305 | 471 | Brea Nycole |
+| 1306 | 471 | Joshua Vargeson |
 | 1307 | 471 | Keyloni Duvall |
 | 1308 | 471 | Emoniee Sa'niaya |
 | 1309 | 470 | Zappy Jumper |
