@@ -91,8 +91,8 @@
 | 83 | 864 | Guy Incognito |
 | 84 | 861 | Peachy Fall |
 | 85 | 855 | Chilly Line |
-| 86 | 850 | Lisa Davis |
-| 87 | 850 | Lucille Truesdale |
+| 86 | 850 | Lucille Truesdale |
+| 87 | 850 | Lisa Davis |
 | 88 | 846 | Christine Marie |
 | 89 | 841 | Shauna Havard |
 | 90 | 841 | Judy Cox |
@@ -238,8 +238,8 @@
 | 230 | 430 | Plucky Patternblock |
 | 231 | 427 | Chao Ma |
 | 232 | 426 | John Brunetti |
-| 233 | 424 | Keshia Lyons |
-| 234 | 424 | Chris Bernstein |
+| 233 | 424 | Chris Bernstein |
+| 234 | 424 | Keshia Lyons |
 | 235 | 422 | Zakia Monae |
 | 236 | 421 | JIGsaw ~(•¿°)~ |
 | 237 | 421 | Joeliecea Cobb |
@@ -350,8 +350,8 @@
 | 342 | 300 | Jason Frehner |
 | 343 | 297 | Brittany Marsh |
 | 344 | 296 | Zethra Prenisha Rahming |
-| 345 | 295 | Deb Rubeck |
-| 346 | 295 | Cool Gridzone |
+| 345 | 295 | Cool Gridzone |
+| 346 | 295 | Deb Rubeck |
 | 347 | 294 | BootsMcGee |
 | 348 | 292 | Epic Curvetile |
 | 349 | 292 | Jumpy Zonepiece |

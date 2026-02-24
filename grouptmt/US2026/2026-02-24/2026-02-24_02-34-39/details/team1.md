@@ -110,11 +110,11 @@
 | 102 | 737 | Karin Gillen |
 | 103 | 729 | Kellie |
 | 104 | 712 | Kristi Johnson |
-| 105 | 706 | Plucky Fallzone |
-| 106 | 706 | Denice Dee |
+| 105 | 706 | Denice Dee |
+| 106 | 706 | Plucky Fallzone |
 | 107 | 703 | Angel Fowler |
-| 108 | 691 | Krista Young |
-| 109 | 691 | Rachael |
+| 108 | 691 | Rachael |
+| 109 | 691 | Krista Young |
 | 110 | 690 | Melissa Lemmon |
 | 111 | 677 | lil mickey |
 | 112 | 672 | Tdub |
@@ -257,21 +257,21 @@
 | 249 | 380 | Snippy Wipebuilder |
 | 250 | 379 | Austin James |
 | 251 | 377 | GATOR |
-| 252 | 376 | Billie Ann Eason |
-| 253 | 376 | Brian Richardsson |
+| 252 | 376 | Brian Richardsson |
+| 253 | 376 | Billie Ann Eason |
 | 254 | 376 | Sassy Builderline |
 | 255 | 375 | DaRascal |
 | 256 | 374 | Snappy Brickbuilder |
 | 257 | 373 | Frothy Pattern |
 | 258 | 372 | Dizzy Party |
-| 259 | 371 | Jaimie Lynn |
-| 260 | 371 | Eddie Dillon |
-| 261 | 370 | Gracie |
-| 262 | 370 | Chantelle Ceno |
+| 259 | 371 | Eddie Dillon |
+| 260 | 371 | Jaimie Lynn |
+| 261 | 370 | Chantelle Ceno |
+| 262 | 370 | Gracie |
 | 263 | 367 | Jamie Jury |
 | 264 | 366 | J.F. Fields |
-| 265 | 365 | Danielle S Kester |
-| 266 | 365 | Shannon Marie Pitts |
+| 265 | 365 | Shannon Marie Pitts |
+| 266 | 365 | Danielle S Kester |
 | 267 | 365 | Amanda Holibaugh |
 | 268 | 364 | Dino |
 | 269 | 364 | John Kim |
