@@ -190,8 +190,8 @@
 | 182 | 503 | Andria Lynn |
 | 183 | 502 | Ericca Eldridge |
 | 184 | 499 | Berklie Apedaile |
-| 185 | 496 | Cindy Looper |
-| 186 | 496 | Lori |
+| 185 | 496 | Lori |
+| 186 | 496 | Cindy Looper |
 | 187 | 495 | Jessica Bohlken |
 | 188 | 493 | April Rondinone |
 | 189 | 491 | Jade Rian |
@@ -365,8 +365,8 @@
 | 357 | 283 | Angela Geist Jusinski |
 | 358 | 283 | Jackie Clark |
 | 359 | 282 | Susan Williams |
-| 360 | 281 | Morti |
-| 361 | 281 | Paige Kittles |
+| 360 | 281 | Paige Kittles |
+| 361 | 281 | Morti |
 | 362 | 279 | Jim Hart |
 | 363 | 278 | Sarah Brown |
 | 364 | 276 | Dennis Bradley |
@@ -380,8 +380,8 @@
 | 372 | 273 | Tyler Bechtel |
 | 373 | 272 | Tony Pavelka |
 | 374 | 270 | 07VHVW |
-| 375 | 270 | Stephme310 |
-| 376 | 270 | Chummy Towerzone |
+| 375 | 270 | Chummy Towerzone |
+| 376 | 270 | Stephme310 |
 | 377 | 268 | Sallie Sanborn |
 | 378 | 268 | Riverdale |
 | 379 | 267 | Marcus TheeyoungWoe Gilmore |

@@ -188,11 +188,11 @@
 | 180 | 470 | Candy Jones |
 | 181 | 468 | Steve Schneider |
 | 182 | 464 | canbrick |
-| 183 | 463 | Brandi Huntington |
-| 184 | 463 | Nicole Roseberry Weber |
+| 183 | 463 | Nicole Roseberry Weber |
+| 184 | 463 | Brandi Huntington |
 | 185 | 462 | Hasty Cascader |
-| 186 | 458 | Goose egg |
-| 187 | 458 | Dizzy Slider |
+| 186 | 458 | Dizzy Slider |
+| 187 | 458 | Goose egg |
 | 188 | 446 | Cheeky Crusher |
 | 189 | 446 | SkipTheSadSauce |
 | 190 | 442 | Kimmie Kimms |
@@ -244,8 +244,8 @@
 | 236 | 382 | David Lutcher |
 | 237 | 382 | Angela Renea Lester |
 | 238 | 381 | Alenoush Karimian |
-| 239 | 380 | Snippy Wipebuilder |
-| 240 | 380 | Bindi |
+| 239 | 380 | Bindi |
+| 240 | 380 | Snippy Wipebuilder |
 | 241 | 379 | Austin James |
 | 242 | 377 | Eric DeSimone |
 | 243 | 377 | Teri Oehlke |
