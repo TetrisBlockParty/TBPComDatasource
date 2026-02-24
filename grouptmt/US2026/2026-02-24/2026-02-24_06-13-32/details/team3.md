@@ -237,8 +237,8 @@
 | 229 | 662 | Jim Mathews |
 | 230 | 661 | LaShey Thompson |
 | 231 | 655 | Keis |
-| 232 | 650 | Makelini Mausia |
-| 233 | 650 | Cesar Barraza |
+| 232 | 650 | Cesar Barraza |
+| 233 | 650 | Makelini Mausia |
 | 234 | 647 | Wendy Dearden |
 | 235 | 646 | Duane Bright |
 | 236 | 644 | Dawn Williams |
@@ -251,8 +251,8 @@
 | 243 | 633 | Jillian Symons |
 | 244 | 630 | Jackie Miller |
 | 245 | 629 | rnr junky |
-| 246 | 627 | Juliana Dottore |
-| 247 | 627 | Louise Stacy Sisson |
+| 246 | 627 | Louise Stacy Sisson |
+| 247 | 627 | Juliana Dottore |
 | 248 | 625 | Jacqueline Rodriguez |
 | 249 | 623 | Giggy Glidepiece |
 | 250 | 620 | Tamara Deherrera |
@@ -469,8 +469,8 @@
 | 461 | 353 | Cheeky Snapper |
 | 462 | 353 | Eboni G. |
 | 463 | 352 | LadyTorad |
-| 464 | 351 | Eon Harris |
-| 465 | 351 | Nelma |
+| 464 | 351 | Nelma |
+| 465 | 351 | Eon Harris |
 | 466 | 350 | Norma JulieMay |
 | 467 | 348 | Ashley Raines |
 | 468 | 348 | Jimmie Clemons |

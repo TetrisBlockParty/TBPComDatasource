@@ -70,8 +70,8 @@
 | 62 | 1106 | BertMofo |
 | 63 | 1094 | Shelly Chandler |
 | 64 | 1089 | Alyssa Papen |
-| 65 | 1082 | Dion Crommarty |
-| 66 | 1082 | Avy Absol |
+| 65 | 1082 | Avy Absol |
+| 66 | 1082 | Dion Crommarty |
 | 67 | 1081 | Dustee Craddock-Harrison |
 | 68 | 1069 | Heather Tushner |
 | 69 | 1056 | Keith Kelley |
@@ -210,8 +210,8 @@
 | 202 | 502 | Ericca Eldridge |
 | 203 | 501 | Sharyn Lemire |
 | 204 | 499 | Kesha Brady |
-| 205 | 496 | Lori |
-| 206 | 496 | Jessica Bohlken |
+| 205 | 496 | Jessica Bohlken |
+| 206 | 496 | Lori |
 | 207 | 495 | Joeliecea Cobb |
 | 208 | 493 | Amanda Pauldo-Ivy |
 | 209 | 484 | 🥔🥔 Spudz |
@@ -254,8 +254,8 @@
 | 246 | 427 | Cheery Risebuilder |
 | 247 | 427 | Chao Ma |
 | 248 | 424 | Andrew Dang |
-| 249 | 421 | Brickh4us |
-| 250 | 421 | JIGsaw ~(•¿°)~ |
+| 249 | 421 | JIGsaw ~(•¿°)~ |
+| 250 | 421 | Brickh4us |
 | 251 | 420 | Jeff Brian Gates |
 | 252 | 419 | Gdiguy |
 | 253 | 413 | Rio Rocha |
@@ -264,7 +264,7 @@
 | 256 | 409 | Joseph Guthrie |
 | 257 | 409 | Antony Dwayne Beasley |
 | 258 | 409 | Bio Nelly |
-| 259 | 409 | Joseph Guthrie |
+| 259 | 409 | TinyLegoRose |
 | 260 | 408 | Dihcheese444 |
 | 261 | 408 | Lauren Scott |
 | 262 | 407 | Laura |
@@ -502,8 +502,8 @@
 | 494 | 233 | conceptCollector |
 | 495 | 233 | Joseph Edmonson |
 | 496 | 232 | Dandy Cascadefit |
-| 497 | 232 | Becky Shimko |
-| 498 | 232 | Sticherella |
+| 497 | 232 | Sticherella |
+| 498 | 232 | Becky Shimko |
 | 499 | 231 | Loony Rotater |
 | 500 | 230 | Joey Riley |
 | 501 | 230 | Martha Lucinda Bishop |
@@ -703,8 +703,8 @@
 | 695 | 165 | Wacky Twister |
 | 696 | 164 | Marvetta Williams |
 | 697 | 164 | Stephanie Jones |
-| 698 | 163 | Manuel Groleau |
-| 699 | 163 | Cozy Strikerbuilder |
+| 698 | 163 | Cozy Strikerbuilder |
+| 699 | 163 | Manuel Groleau |
 | 700 | 163 | kaeliwyn |
 | 701 | 162 | Mike Kremen |
 | 702 | 162 | Cheery Gridlock |

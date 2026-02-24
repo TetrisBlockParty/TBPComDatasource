@@ -454,8 +454,8 @@
 | 446 | 1033 | Andrea Maher |
 | 447 | 1025 | Ann Matzkanin |
 | 448 | 1024 | Tiara Elizabeth Baker |
-| 449 | 1024 | KrisCynthia Lynette |
-| 450 | 1024 | Susan Perraut Jones |
+| 449 | 1024 | Susan Perraut Jones |
+| 450 | 1024 | KrisCynthia Lynette |
 | 451 | 1018 | Eric Castaneda |
 | 452 | 1018 | Donna M Carter |
 | 453 | 1012 | Alyssa Hileman |
@@ -569,8 +569,8 @@
 | 561 | 854 | Dawn L Washington-Feuquay |
 | 562 | 854 | Gold Rose |
 | 563 | 852 | Polly Pritchard Chesler |
-| 564 | 852 | Alexandra Lynn |
-| 565 | 852 | Catherine Marsh Gruda |
+| 564 | 852 | Catherine Marsh Gruda |
+| 565 | 852 | Alexandra Lynn |
 | 566 | 851 | Melissa Schulz |
 | 567 | 851 | James Louie |
 | 568 | 850 | Sabrina Burton |
@@ -1077,8 +1077,8 @@
 | 1069 | 539 | Dizzy Clicker |
 | 1070 | 538 | Tristan Snowden |
 | 1071 | 538 | Shiny Snapmatch |
-| 1072 | 537 | Robin |
-| 1073 | 537 | Austin Wilson |
+| 1072 | 537 | Austin Wilson |
+| 1073 | 537 | Robin |
 | 1074 | 537 | Epic Spinfit |
 | 1075 | 536 | Paul Hinkle |
 | 1076 | 536 | Enha |
