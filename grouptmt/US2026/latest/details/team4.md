@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-24 19:16:43 UTC
+# Standings for team4 as of 2026-02-24 19:17:22 UTC
 
 **Total Participants:** 2070
 
@@ -157,10 +157,10 @@
 | 149 | 690 | shar |
 | 150 | 687 | Carmethia Clemons Haslerig |
 | 151 | 684 | Lucas J Sutton |
-| 152 | 678 | Adam Stephanie Parker |
-| 153 | 678 | TRCuse |
-| 154 | 671 | Lori |
-| 155 | 669 | Ernest Maxwell |
+| 152 | 678 | TRCuse |
+| 153 | 678 | Adam Stephanie Parker |
+| 154 | 677 | Ernest Maxwell |
+| 155 | 671 | Lori |
 | 156 | 669 | Rebecca Morris |
 | 157 | 668 | Desi Desporte |
 | 158 | 664 | Kim Hunt |
@@ -177,7 +177,7 @@
 | 169 | 622 | Berklie Apedaile |
 | 170 | 621 | Angelito |
 | 171 | 618 | YoMomma |
-| 172 | 615 | Shiny Fit |
+| 172 | 616 | Shiny Fit |
 | 173 | 613 | 🥔🥔 Spudz |
 | 174 | 608 | Alan George LaRage |
 | 175 | 602 | Nita Wells |
@@ -581,14 +581,14 @@
 | 573 | 235 | Petty |
 | 574 | 235 | LaDonna LovinmesomeMe Lambert |
 | 575 | 235 | Mighty Edgepiece |
-| 576 | 234 | Nicole Serio |
-| 577 | 234 | Lou Ie |
-| 578 | 234 | B Renee Desjardin |
-| 579 | 234 | Darrin Rubalcava |
-| 580 | 233 | Stacy |
-| 581 | 233 | Robert Rodriguez |
-| 582 | 233 | Heidi Jo Hill |
-| 583 | 232 | ChasingZen |
+| 576 | 235 | ChasingZen |
+| 577 | 234 | Nicole Serio |
+| 578 | 234 | Lou Ie |
+| 579 | 234 | B Renee Desjardin |
+| 580 | 234 | Darrin Rubalcava |
+| 581 | 233 | Stacy |
+| 582 | 233 | Robert Rodriguez |
+| 583 | 233 | Heidi Jo Hill |
 | 584 | 232 | Dandy Cascadefit |
 | 585 | 231 | Loony Rotater |
 | 586 | 231 | Shane Vick |
@@ -1127,19 +1127,19 @@
 | 1119 | 95 | Ashlee Johnson |
 | 1120 | 94 | Paco Gonzalez |
 | 1121 | 94 | JulieAna Morales |
-| 1122 | 94 | evil wonton |
-| 1123 | 94 | Cozy Rollzone |
-| 1124 | 94 | Allison Judith |
-| 1125 | 93 | Nicole Silvers |
-| 1126 | 93 | Wendy De Kam |
-| 1127 | 93 | Mousey406 |
-| 1128 | 93 | Becky Irby |
-| 1129 | 93 | Austin |
+| 1122 | 94 | Austin |
+| 1123 | 94 | evil wonton |
+| 1124 | 94 | Cozy Rollzone |
+| 1125 | 94 | Allison Judith |
+| 1126 | 93 | Nicole Silvers |
+| 1127 | 93 | Wendy De Kam |
+| 1128 | 93 | Mousey406 |
+| 1129 | 93 | Becky Irby |
 | 1130 | 93 | Krystal McPherson |
 | 1131 | 93 | Travis Poe |
 | 1132 | 93 | Zippy Stack |
-| 1133 | 93 | Haddiyah Bilal |
-| 1134 | 93 | Lush Cluster |
+| 1133 | 93 | Lush Cluster |
+| 1134 | 93 | Haddiyah Bilal |
 | 1135 | 92 | Peppy Tilebuilder |
 | 1136 | 92 | QueenLis |
 | 1137 | 92 | Denye |
@@ -1150,9 +1150,9 @@
 | 1142 | 91 | Baleria Ruedas Pantoja |
 | 1143 | 91 | MistyBayou |
 | 1144 | 91 | Angela Roper-Melvin |
-| 1145 | 91 | Mighty Blockzone |
-| 1146 | 91 | Rob Chebetar |
-| 1147 | 91 | Kat Agosto-Wisor |
+| 1145 | 91 | Rob Chebetar |
+| 1146 | 91 | Kat Agosto-Wisor |
+| 1147 | 91 | Mighty Blockzone |
 | 1148 | 90 | Giggy Glide |
 | 1149 | 90 | Kelli Steinmetz |
 | 1150 | 89 | Kayley Kara Gaudin |
@@ -1211,8 +1211,8 @@
 | 1203 | 82 | Ashley Kerr |
 | 1204 | 82 | Wacky Fitzone |
 | 1205 | 82 | Thomas R. Phillips |
-| 1206 | 82 | Jorge Hamoui |
-| 1207 | 82 | Jennifer Dresser |
+| 1206 | 82 | Jennifer Dresser |
+| 1207 | 82 | Jorge Hamoui |
 | 1208 | 81 | Jay-Remy Stringseer |
 | 1209 | 81 | Taco Taco |
 | 1210 | 81 | Dreamy Tiler |
@@ -1226,16 +1226,16 @@
 | 1218 | 80 | Boldy Linkfall |
 | 1219 | 80 | Cozy Tiley |
 | 1220 | 80 | Jr McQue |
-| 1221 | 80 | Tonya |
-| 1222 | 80 | Erin DeArman |
-| 1223 | 80 | Joshua A Bea |
-| 1224 | 80 | Leslie Parker |
-| 1225 | 80 | jay |
-| 1226 | 80 | Arthur Reeves Jr. |
-| 1227 | 79 | Jessalyn Jordan Davis |
-| 1228 | 79 | Joleeoleeooo |
-| 1229 | 79 | Brian O'Neill |
-| 1230 | 79 | Jason M Cadreau |
+| 1221 | 80 | Joshua A Bea |
+| 1222 | 80 | Tonya |
+| 1223 | 80 | jay |
+| 1224 | 80 | Erin DeArman |
+| 1225 | 80 | Arthur Reeves Jr. |
+| 1226 | 80 | Leslie Parker |
+| 1227 | 79 | Joleeoleeooo |
+| 1228 | 79 | Jason M Cadreau |
+| 1229 | 79 | Jessalyn Jordan Davis |
+| 1230 | 79 | Brian O'Neill |
 | 1231 | 79 | Beth Ann |
 | 1232 | 79 | AnitaMann |
 | 1233 | 79 | Bubbly Edge |
@@ -1256,9 +1256,9 @@
 | 1248 | 76 | Heather Hilferty |
 | 1249 | 76 | Denver |
 | 1250 | 75 | Dena Shoop |
-| 1251 | 75 | Nee |
-| 1252 | 75 | Dizzy Tetrisline |
-| 1253 | 75 | Brandi Arwood |
+| 1251 | 75 | Dizzy Tetrisline |
+| 1252 | 75 | Brandi Arwood |
+| 1253 | 75 | Nee |
 | 1254 | 75 | Jeffrey Carl Carter |
 | 1255 | 75 | Twisty Towerpiece |
 | 1256 | 75 | Dmpster Fire |
@@ -1267,11 +1267,11 @@
 | 1259 | 74 | Mark Morgan |
 | 1260 | 74 | Kevin L Cafleux |
 | 1261 | 74 | Eric Quan |
-| 1262 | 74 | Nerdy Clicker |
-| 1263 | 74 | Jocelyn L. Williams |
-| 1264 | 73 | Zhulma Velasco |
-| 1265 | 73 | April Washington |
-| 1266 | 73 | De'Chon Millender-Rogers |
+| 1262 | 74 | Jocelyn L. Williams |
+| 1263 | 74 | Nerdy Clicker |
+| 1264 | 73 | April Washington |
+| 1265 | 73 | De'Chon Millender-Rogers |
+| 1266 | 73 | Zhulma Velasco |
 | 1267 | 73 | Ohmatae |
 | 1268 | 73 | Michele Lauer |
 | 1269 | 73 | canglem |
@@ -1287,10 +1287,10 @@
 | 1279 | 72 | Giddy Swiper |
 | 1280 | 72 | Reggie |
 | 1281 | 72 | Frothy Shatter |
-| 1282 | 72 | Pikake Medeiros |
-| 1283 | 72 | aned |
-| 1284 | 71 | Ashley Cooke |
-| 1285 | 71 | Lozuna |
+| 1282 | 72 | aned |
+| 1283 | 72 | Pikake Medeiros |
+| 1284 | 71 | Lozuna |
+| 1285 | 71 | Ashley Cooke |
 | 1286 | 71 | Valerie J. Potero |
 | 1287 | 71 | Amy La Violette |
 | 1288 | 71 | Jessica Graham |
@@ -1307,11 +1307,11 @@
 | 1299 | 70 | Aaron Wilkins |
 | 1300 | 70 | PlatinumRose |
 | 1301 | 70 | Donnie Istillwill Straub |
-| 1302 | 70 | Jumpy Shatterline |
+| 1302 | 70 | Ruben Perez |
 | 1303 | 70 | Br23klyn |
-| 1304 | 70 | Ruben Perez |
-| 1305 | 70 | Boldy Twistline |
-| 1306 | 70 | Mighty Blockroll |
+| 1304 | 70 | Jumpy Shatterline |
+| 1305 | 70 | Mighty Blockroll |
+| 1306 | 70 | Boldy Twistline |
 | 1307 | 69 | Dragon De Fuego |
 | 1308 | 69 | SUPREME |
 | 1309 | 69 | ZZZZZZZ |
@@ -1326,11 +1326,11 @@
 | 1318 | 68 | OneBuke FollowMe |
 | 1319 | 68 | I'm sorry |
 | 1320 | 68 | zelda Morgan |
-| 1321 | 68 | Tara Karen |
-| 1322 | 68 | Lowkey24 |
+| 1321 | 68 | Roberta Arnold |
+| 1322 | 68 | Tara Karen |
 | 1323 | 68 | Crissygirl |
-| 1324 | 68 | Roberta Arnold |
-| 1325 | 68 | combatmac |
+| 1324 | 68 | combatmac |
+| 1325 | 68 | Lowkey24 |
 | 1326 | 67 | Rae |
 | 1327 | 67 | Daring Matchfit |
 | 1328 | 67 | Anita Kramer |
@@ -1344,11 +1344,11 @@
 | 1336 | 65 | Alison Welsh |
 | 1337 | 65 | Shelly Matthews |
 | 1338 | 65 | Barcelos |
-| 1339 | 65 | Juanita Tia Beckler |
-| 1340 | 65 | Rita Loucks |
+| 1339 | 65 | Rita Loucks |
+| 1340 | 65 | Juanita Tia Beckler |
 | 1341 | 64 | Kemal Topko |
-| 1342 | 64 | Phyllis Wilson |
-| 1343 | 64 | Perky Towerpiece |
+| 1342 | 64 | Perky Towerpiece |
+| 1343 | 64 | Phyllis Wilson |
 | 1344 | 64 | Kenny Hutchens |
 | 1345 | 64 | Angela |
 | 1346 | 63 | Willow Rose |
