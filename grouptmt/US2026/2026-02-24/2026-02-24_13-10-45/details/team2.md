@@ -367,8 +367,8 @@
 | 359 | 1257 | Megan Ferguson Leone |
 | 360 | 1257 | Megan Garrick |
 | 361 | 1257 | Jackie Lucas |
-| 362 | 1256 | Phil J. Grombliniak |
-| 363 | 1256 | Belle |
+| 362 | 1256 | Belle |
+| 363 | 1256 | Phil J. Grombliniak |
 | 364 | 1255 | Ambyre Patterson |
 | 365 | 1254 | Erika Densmore |
 | 366 | 1252 | AgileDragon |
@@ -408,8 +408,8 @@
 | 400 | 1172 | Lakeysha Dortch |
 | 401 | 1171 | Loretta Brewer-Gage |
 | 402 | 1170 | Shelley Thornburgh Wright |
-| 403 | 1163 | Sarah DeHart |
-| 404 | 1163 | Caitlin Schmid |
+| 403 | 1163 | Caitlin Schmid |
+| 404 | 1163 | Sarah DeHart |
 | 405 | 1160 | Ashley Guernsey-Martin |
 | 406 | 1158 | Brittany Clark |
 | 407 | 1153 | Spunkysmom |
@@ -479,10 +479,10 @@
 | 471 | 1036 | trabuco |
 | 472 | 1034 | Jackie Burnett |
 | 473 | 1033 | Andrea Maher |
-| 474 | 1032 | Bold Splitter |
-| 475 | 1032 | Alyssa Hileman |
-| 476 | 1031 | Darla Silva |
-| 477 | 1031 | William Bresee |
+| 474 | 1032 | Alyssa Hileman |
+| 475 | 1032 | Bold Splitter |
+| 476 | 1031 | William Bresee |
+| 477 | 1031 | Darla Silva |
 | 478 | 1027 | Lexie Burke |
 | 479 | 1026 | Kiana Boschh |
 | 480 | 1025 | Ann Matzkanin |

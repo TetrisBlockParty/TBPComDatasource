@@ -111,8 +111,8 @@
 | 103 | 1311 | JerseyJess |
 | 104 | 1309 | yoyo |
 | 105 | 1297 | Shelby Michelle |
-| 106 | 1282 | Peppy Shifter |
-| 107 | 1282 | Amanda L Baker |
+| 106 | 1282 | Amanda L Baker |
+| 107 | 1282 | Peppy Shifter |
 | 108 | 1280 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1251 | Suzieq |
@@ -411,8 +411,8 @@
 | 403 | 425 | Ava Petito |
 | 404 | 422 | Rainbow77375 |
 | 405 | 420 | Jana Polk |
-| 406 | 419 | Philip Rock |
-| 407 | 419 | Desiree Gold |
+| 406 | 419 | Desiree Gold |
+| 407 | 419 | Philip Rock |
 | 408 | 419 | Maggie |
 | 409 | 417 | Krish Shah |
 | 410 | 416 | Scott Lindsay |
@@ -446,8 +446,8 @@
 | 438 | 394 | Jalissa Monique |
 | 439 | 391 | Ashley Lynn Marchese |
 | 440 | 390 | ROODBOY |
-| 441 | 389 | Kirhonda Autmon |
-| 442 | 389 | Amanda J. Mcneil-Anderson |
+| 441 | 389 | Amanda J. Mcneil-Anderson |
+| 442 | 389 | Kirhonda Autmon |
 | 443 | 387 | Brittany K Ward |
 | 444 | 386 | Geoffrey Nash |
 | 445 | 384 | Tiffany Davie |

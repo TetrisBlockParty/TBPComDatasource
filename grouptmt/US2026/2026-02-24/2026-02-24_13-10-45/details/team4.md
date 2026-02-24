@@ -81,8 +81,8 @@
 | 73 | 1080 | Chilly Line |
 | 74 | 1069 | Heather Tushner |
 | 75 | 1056 | Keith Kelley |
-| 76 | 1046 | Johnathan Martinez |
-| 77 | 1046 | Anthony Bryan Riva |
+| 76 | 1046 | Anthony Bryan Riva |
+| 77 | 1046 | Johnathan Martinez |
 | 78 | 1028 | TeeJ |
 | 79 | 1024 | Valerie Roberts |
 | 80 | 1017 | Jeremy Steines |
@@ -147,14 +147,14 @@
 | 139 | 683 | Swanky Fitline |
 | 140 | 668 | Desi Desporte |
 | 141 | 667 | Lindsey Gonzalez |
-| 142 | 667 | Swanky Fitline |
+| 142 | 667 | Matt Gooder |
 | 143 | 664 | Porkobello |
 | 144 | 662 | Nerdy Twisterfit |
 | 145 | 661 | shar |
 | 146 | 661 | Rodney McMath Jr. |
 | 147 | 651 | Adawna Swires |
-| 148 | 650 | Chris Hartig |
-| 149 | 650 | April Rondinone |
+| 148 | 650 | April Rondinone |
+| 149 | 650 | Chris Hartig |
 | 150 | 647 | KM8 |
 | 151 | 646 | Kim Hunt |
 | 152 | 639 | Serena Goodridge |
@@ -176,8 +176,8 @@
 | 168 | 590 | Crystal Lynn |
 | 169 | 586 | Rebecca Morris |
 | 170 | 586 | Latisha Davis |
-| 171 | 585 | Tracey Lehmann |
-| 172 | 585 | Lori |
+| 171 | 585 | Lori |
+| 172 | 585 | Tracey Lehmann |
 | 173 | 584 | Carlton Unfiltered |
 | 174 | 576 | Ren Mc |
 | 175 | 576 | Jade Rian |
@@ -210,9 +210,9 @@
 | 202 | 520 | Zippy Block |
 | 203 | 520 | Oscar Alberto Perez |
 | 204 | 517 | DonMega |
-| 205 | 516 | Ericca Eldridge |
-| 206 | 516 | Trish |
-| 207 | 516 | Nick Gray |
+| 205 | 516 | Nick Gray |
+| 206 | 516 | Ericca Eldridge |
+| 207 | 516 | Trish |
 | 208 | 515 | Joanna |
 | 209 | 513 | Zesty Twistbuilder |
 | 210 | 513 | Milan Markeisha |
@@ -256,8 +256,8 @@
 | 248 | 454 | David Lay |
 | 249 | 450 | Genne Scott |
 | 250 | 449 | Danielle Kollias |
-| 251 | 448 | Mr. Party |
-| 252 | 448 | Mike Solo |
+| 251 | 448 | Mike Solo |
+| 252 | 448 | Mr. Party |
 | 253 | 447 | Chris Bernstein |
 | 254 | 444 | Selena Shaw |
 | 255 | 444 | 23 |
@@ -269,9 +269,9 @@
 | 261 | 432 | Jason Gibbs |
 | 262 | 430 | 030Synner |
 | 263 | 428 | Gdiguy |
-| 264 | 427 | Cheery Risebuilder |
-| 265 | 427 | Jeff Brian Gates |
-| 266 | 427 | Chao Ma |
+| 264 | 427 | Chao Ma |
+| 265 | 427 | Cheery Risebuilder |
+| 266 | 427 | Jeff Brian Gates |
 | 267 | 425 | mike |
 | 268 | 425 | Lee Silpe |
 | 269 | 424 | Andrew Dang |
