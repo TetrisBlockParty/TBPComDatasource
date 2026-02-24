@@ -194,8 +194,8 @@
 | 186 | 1763 | Juliana Marques Do Nascimento Gordy |
 | 187 | 1759 | Nerdy Pattern |
 | 188 | 1756 | Hannah Erskine |
-| 189 | 1751 | Melissa Penelope Ann Dodge |
-| 190 | 1751 | Bob |
+| 189 | 1751 | Bob |
+| 190 | 1751 | Melissa Penelope Ann Dodge |
 | 191 | 1750 | Crystal Slaughter |
 | 192 | 1746 | Dee |
 | 193 | 1745 | Dustin Rains |
@@ -330,8 +330,8 @@
 | 322 | 1222 | Nuke Morris |
 | 323 | 1220 | Ricardo Burton |
 | 324 | 1218 | LaKisha Anderson |
-| 325 | 1217 | Brooks Brooks |
-| 326 | 1217 | Christina Lewis-Vickers |
+| 325 | 1217 | Christina Lewis-Vickers |
+| 326 | 1217 | Brooks Brooks |
 | 327 | 1216 | Pacynthia Williams |
 | 328 | 1214 | David Cudicio-Hayden |
 | 329 | 1211 | Cynthia Ward |
@@ -354,8 +354,8 @@
 | 346 | 1164 | Kori Beth Babb |
 | 347 | 1159 | Michelle Pike |
 | 348 | 1158 | Brittany Clark |
-| 349 | 1156 | Carl Bradshaw |
-| 350 | 1156 | Alezandra Smith |
+| 349 | 1156 | Alezandra Smith |
+| 350 | 1156 | Carl Bradshaw |
 | 351 | 1156 | Arkei Luster |
 | 352 | 1154 | Sarah DeHart |
 | 353 | 1150 | Sheniya Spurgeon |
@@ -4127,7 +4127,7 @@
 | 4119 | 153 | Will Boyd |
 | 4120 | 153 | Bold Matchline |
 | 4121 | 152 | Jean Kusant |
-| 4122 | 152 | Shaley Dye |
+| 4122 | 152 | Speedy Balancepiece |
 | 4123 | 152 | Zany Combo |
 | 4124 | 152 | Jessica Prewitt |
 | 4125 | 152 | Hasty Glidezone |

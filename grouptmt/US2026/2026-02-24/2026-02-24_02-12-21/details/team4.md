@@ -91,8 +91,8 @@
 | 83 | 864 | Guy Incognito |
 | 84 | 861 | Peachy Fall |
 | 85 | 855 | Chilly Line |
-| 86 | 850 | Lisa Davis |
-| 87 | 850 | Lucille Truesdale |
+| 86 | 850 | Lucille Truesdale |
+| 87 | 850 | Lisa Davis |
 | 88 | 846 | Christine Marie |
 | 89 | 841 | Shauna Havard |
 | 90 | 841 | Judy Cox |
@@ -144,8 +144,8 @@
 | 136 | 633 | Jessica Lynn Cutlip |
 | 137 | 620 | Porkobello |
 | 138 | 616 | Samantha Peterson |
-| 139 | 615 | Kim Hunt |
-| 140 | 615 | Ernest Maxwell |
+| 139 | 615 | Ernest Maxwell |
+| 140 | 615 | Kim Hunt |
 | 141 | 611 | Chris Baggett |
 | 142 | 602 | Cristy Duerksen |
 | 143 | 600 | Carrie Brian |
@@ -277,8 +277,8 @@
 | 269 | 369 | Matt Dell'Olio |
 | 270 | 368 | Kris Bartlett |
 | 271 | 367 | Meg |
-| 272 | 366 | Hyper Builder |
-| 273 | 366 | Andrew Dang |
+| 272 | 366 | Andrew Dang |
+| 273 | 366 | Hyper Builder |
 | 274 | 365 | Chaz |
 | 275 | 360 | James Hurley Jr. |
 | 276 | 359 | KimoKoala |

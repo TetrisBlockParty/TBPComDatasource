@@ -441,12 +441,12 @@
 | 433 | 346 | Maggie |
 | 434 | 346 | AlsoJess |
 | 435 | 345 | victory |
-| 436 | 345 | Misha Sanders |
-| 437 | 345 | Big T |
-| 438 | 344 | Lys |
-| 439 | 344 | Beaudie Stroebel |
-| 440 | 343 | Eboni Starr |
-| 441 | 343 | Christina Marie Swisher |
+| 436 | 345 | Big T |
+| 437 | 345 | Misha Sanders |
+| 438 | 344 | Beaudie Stroebel |
+| 439 | 344 | Lys |
+| 440 | 343 | Christina Marie Swisher |
+| 441 | 343 | Eboni Starr |
 | 442 | 342 | Nelma |
 | 443 | 340 | Kerry Nowickshere |
 | 444 | 340 | Funky Jumper |
@@ -459,7 +459,7 @@
 | 451 | 334 | Stella |
 | 452 | 334 | Blair Erin Waite |
 | 453 | 334 | Spencer Nikki |
-| 454 | 334 | Blair Erin Waite |
+| 454 | 334 | Misstery |
 | 455 | 333 | Giggly Brickroll |
 | 456 | 332 | Loony Slider |
 | 457 | 332 | Criss |
