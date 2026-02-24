@@ -211,8 +211,8 @@
 | 203 | 1861 | Juliana Marques Do Nascimento Gordy |
 | 204 | 1855 | Missie Lawson Gebhardt |
 | 205 | 1853 | Kristopher Miller |
-| 206 | 1845 | Katrina Weston |
-| 207 | 1845 | Jessie McDougald |
+| 206 | 1845 | Jessie McDougald |
+| 207 | 1845 | Katrina Weston |
 | 208 | 1840 | blarg |
 | 209 | 1833 | Joyce Johnson Vaughn |
 | 210 | 1826 | Dee |
@@ -317,8 +317,8 @@
 | 309 | 1380 | Jerilyn Andrina |
 | 310 | 1376 | Kevin Sees |
 | 311 | 1376 | Megan Brianna |
-| 312 | 1374 | Kori Beth Babb |
-| 313 | 1374 | Sarah Berger |
+| 312 | 1374 | Sarah Berger |
+| 313 | 1374 | Kori Beth Babb |
 | 314 | 1362 | Angie Marie |
 | 315 | 1357 | Tanya Parsons |
 | 316 | 1353 | Deborah Miller |
@@ -526,10 +526,10 @@
 | 518 | 965 | Lonne Emade |
 | 519 | 964 | John Bednarik |
 | 520 | 963 | Casper The Chonk |
-| 521 | 962 | Kathleen Driskell |
-| 522 | 962 | Antionette Sewell |
-| 523 | 958 | Lisa Ongtowasruk |
-| 524 | 958 | Jc Gilk |
+| 521 | 962 | Antionette Sewell |
+| 522 | 962 | Kathleen Driskell |
+| 523 | 958 | Jc Gilk |
+| 524 | 958 | Lisa Ongtowasruk |
 | 525 | 957 | Maria Louise |
 | 526 | 956 | Blacc Blac |
 | 527 | 951 | Silly Pivotfall |
@@ -728,8 +728,8 @@
 | 720 | 746 | Emily Lyric Converse |
 | 721 | 743 | Gloria Ininahazwe |
 | 722 | 743 | Véronique Lévesque Sabourin |
-| 723 | 743 | Danielle Ayoub |
-| 724 | 743 | Clever Dashgrid |
+| 723 | 743 | Clever Dashgrid |
+| 724 | 743 | Danielle Ayoub |
 | 725 | 742 | Rhonda Petro |
 | 726 | 741 | Ashley Munn |
 | 727 | 741 | Leah Keesling |
@@ -737,8 +737,8 @@
 | 729 | 740 | Joice Hansen |
 | 730 | 740 | Lylymom |
 | 731 | 738 | Jessica S Flecha |
-| 732 | 737 | Breezy Clusterer |
-| 733 | 737 | Ginger |
+| 732 | 737 | Ginger |
+| 733 | 737 | Breezy Clusterer |
 | 734 | 736 | Kenan Catovic |
 | 735 | 734 | Michelle Sager |
 | 736 | 734 | goofinoff |
@@ -781,9 +781,9 @@
 | 773 | 711 | Alicia Moreno |
 | 774 | 711 | Narutofreak13 |
 | 775 | 707 | Giggy Grabber |
-| 776 | 706 | Karen Posadas Centeno |
-| 777 | 706 | Roseanna Peloso |
-| 778 | 706 | Josh Webster |
+| 776 | 706 | Roseanna Peloso |
+| 777 | 706 | Josh Webster |
+| 778 | 706 | Karen Posadas Centeno |
 | 779 | 705 | Chelsea Gutierrez |
 | 780 | 703 | Stacey Tranchida |
 | 781 | 703 | Funky Drop |
@@ -803,8 +803,8 @@
 | 795 | 694 | Rackemwillie34 |
 | 796 | 693 | Nessie Zamora |
 | 797 | 692 | LuckyChopstix |
-| 798 | 692 | SwampRebel |
-| 799 | 692 | Bubbly Snapbuild |
+| 798 | 692 | Bubbly Snapbuild |
+| 799 | 692 | SwampRebel |
 | 800 | 691 | Melissa Kay Gibson |
 | 801 | 690 | Lawanda Forbes |
 | 802 | 690 | Latasha Love |
@@ -815,8 +815,8 @@
 | 807 | 687 | Candy Pitts |
 | 808 | 686 | Christina Ashley |
 | 809 | 685 | Rose Fx |
-| 810 | 684 | Atara James |
-| 811 | 684 | Sleepypanda67 |
+| 810 | 684 | Sleepypanda67 |
+| 811 | 684 | Atara James |
 | 812 | 684 | Jazzy Clusterline |
 | 813 | 683 | Nicole Sanqui |
 | 814 | 683 | Audrey Jones |
@@ -1061,9 +1061,9 @@
 | 1053 | 562 | Klee |
 | 1054 | 561 | Jenelle Case |
 | 1055 | 560 | De Hawkins |
-| 1056 | 559 | Britney M. |
-| 1057 | 559 | Bing |
-| 1058 | 559 | Kaylee McCafferty |
+| 1056 | 559 | Kaylee McCafferty |
+| 1057 | 559 | Britney M. |
+| 1058 | 559 | Bing |
 | 1059 | 558 | Treshell Boyd |
 | 1060 | 558 | David Scott |
 | 1061 | 558 | Linda Miltenburg |
@@ -1077,8 +1077,8 @@
 | 1069 | 556 | Kamilya Rembert |
 | 1070 | 555 | Noel Tarmy |
 | 1071 | 555 | Amy Roche |
-| 1072 | 554 | Asha Nichols-Collins |
-| 1073 | 554 | Hoppy Glidebuilder |
+| 1072 | 554 | Hoppy Glidebuilder |
+| 1073 | 554 | Asha Nichols-Collins |
 | 1074 | 554 | Dusti Rose Bingham |
 | 1075 | 553 | Sar Mo |
 | 1076 | 553 | ruth |
@@ -1100,8 +1100,8 @@
 | 1092 | 545 | Street Sweeper |
 | 1093 | 545 | Elena Vap |
 | 1094 | 544 | Deidre Shaffer |
-| 1095 | 544 | Barry Allan |
-| 1096 | 544 | A Rainbolt |
+| 1095 | 544 | A Rainbolt |
+| 1096 | 544 | Barry Allan |
 | 1097 | 543 | Patti Rone |
 | 1098 | 543 | Janai Vrabel |
 | 1099 | 543 | Jennifer Rose |
@@ -1204,8 +1204,8 @@
 | 1196 | 504 | Mary Boss |
 | 1197 | 503 | Aleasha M Brown |
 | 1198 | 503 | Twisty Tetriblast |
-| 1199 | 503 | Rhiannon Elizabeth Tucker |
-| 1200 | 503 | Jennifer Scott |
+| 1199 | 503 | Jennifer Scott |
+| 1200 | 503 | Rhiannon Elizabeth Tucker |
 | 1201 | 502 | Leandra Obermeyer |
 | 1202 | 501 | Witty Piecebuilder |
 | 1203 | 501 | Libni |
@@ -1433,8 +1433,8 @@
 | 1425 | 436 | John Cleland |
 | 1426 | 436 | Angela Nguyen |
 | 1427 | 436 | Hoppy Patternbuilder |
-| 1428 | 435 | Alyssia Tancredi |
-| 1429 | 435 | Mandy Bolia |
+| 1428 | 435 | Mandy Bolia |
+| 1429 | 435 | Alyssia Tancredi |
 | 1430 | 435 | Shelly Eckert-Rawlins |
 | 1431 | 435 | John |
 | 1432 | 434 | Christine Lockwood |

@@ -51,8 +51,8 @@
 | 43 | 1497 | Juggalo |
 | 44 | 1478 | Sammy Noguera |
 | 45 | 1469 | Kimberly Love |
-| 46 | 1461 | Shane Kalamata Platoon |
-| 47 | 1461 | Yoset Mejia |
+| 46 | 1461 | Yoset Mejia |
+| 47 | 1461 | Shane Kalamata Platoon |
 | 48 | 1456 | Michelle Marie |
 | 49 | 1430 | Landon Keith Graffeo |
 | 50 | 1386 | Jen Allison |
@@ -134,8 +134,8 @@
 | 126 | 729 | Jamie Mann-Deichmann |
 | 127 | 726 | Jamie Gustafson |
 | 128 | 725 | Brandon Crabbs |
-| 129 | 719 | George Nutt |
-| 130 | 719 | Leslie Nicole |
+| 129 | 719 | Leslie Nicole |
+| 130 | 719 | George Nutt |
 | 131 | 712 | H.R. Block |
 | 132 | 708 | Jacqueline Helm |
 | 133 | 704 | Chilly Crasher |
@@ -232,8 +232,8 @@
 | 224 | 482 | Laura |
 | 225 | 481 | Joanna |
 | 226 | 475 | Silly Zonebuilder |
-| 227 | 473 | Cranky Rollpiece |
-| 228 | 473 | Jolly Dashfit |
+| 227 | 473 | Jolly Dashfit |
+| 228 | 473 | Cranky Rollpiece |
 | 229 | 472 | Plucky Patternblock |
 | 230 | 465 | Leslie Thomas |
 | 231 | 464 | Calvin Cannon |

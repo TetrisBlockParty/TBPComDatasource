@@ -91,8 +91,8 @@
 | 83 | 973 | Francesca Gee |
 | 84 | 971 | Lexuriuos Lifestlye |
 | 85 | 961 | Jacqueline Williams |
-| 86 | 957 | Erin Hodges Plumb |
-| 87 | 957 | Zippy Align |
+| 86 | 957 | Zippy Align |
+| 87 | 957 | Erin Hodges Plumb |
 | 88 | 944 | Sweet Baker |
 | 89 | 920 | Tee Sheree |
 | 90 | 916 | Chirpy Smasher |
@@ -175,8 +175,8 @@
 | 167 | 553 | Flashy Rotator |
 | 168 | 551 | Loony Fitzone |
 | 169 | 549 | Jerry Danowski |
-| 170 | 548 | Luciano Moreira |
-| 171 | 548 | Stephanie Zahn |
+| 170 | 548 | Stephanie Zahn |
+| 171 | 548 | Luciano Moreira |
 | 172 | 547 | Sharon Reynolds |
 | 173 | 545 | .running. |
 | 174 | 543 | Nicole Roseberry Weber |
@@ -767,7 +767,7 @@
 | 759 | 166 | Dafna Kaplan-Garrahy |
 | 760 | 164 | Paul Osborne |
 | 761 | 164 | William Touzin |
-| 762 | 164 | Paul Osborne |
+| 762 | 164 | Christina |
 | 763 | 163 | Elizabeth Coover |
 | 764 | 162 | Piffy |
 | 765 | 162 | Charla Pross-Fugleberg |
