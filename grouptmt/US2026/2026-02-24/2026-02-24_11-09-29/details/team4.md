@@ -51,8 +51,8 @@
 | 43 | 1497 | Juggalo |
 | 44 | 1478 | Sammy Noguera |
 | 45 | 1469 | Kimberly Love |
-| 46 | 1461 | Yoset Mejia |
-| 47 | 1461 | Shane Kalamata Platoon |
+| 46 | 1461 | Shane Kalamata Platoon |
+| 47 | 1461 | Yoset Mejia |
 | 48 | 1456 | Michelle Marie |
 | 49 | 1430 | Landon Keith Graffeo |
 | 50 | 1386 | Jen Allison |
@@ -74,8 +74,8 @@
 | 66 | 1119 | Amelpss |
 | 67 | 1109 | BertMofo |
 | 68 | 1089 | Alyssa Papen |
-| 69 | 1082 | Dion Crommarty |
-| 70 | 1082 | Avy Absol |
+| 69 | 1082 | Avy Absol |
+| 70 | 1082 | Dion Crommarty |
 | 71 | 1081 | Dustee Craddock-Harrison |
 | 72 | 1080 | Chilly Line |
 | 73 | 1069 | Heather Tushner |
@@ -108,17 +108,17 @@
 | 100 | 846 | Christine Marie |
 | 101 | 840 | SAP |
 | 102 | 837 | Rica Mitchell |
-| 103 | 834 | quicksand420 |
-| 104 | 834 | Brittney Orengo |
+| 103 | 834 | Brittney Orengo |
+| 104 | 834 | quicksand420 |
 | 105 | 818 | Lori Walker |
 | 106 | 815 | Diana Houts |
-| 107 | 813 | Amy Suckarieh |
-| 108 | 813 | Klo |
+| 107 | 813 | Klo |
+| 108 | 813 | Amy Suckarieh |
 | 109 | 811 | Sassy Pattern |
 | 110 | 806 | Zippy Gridlock |
 | 111 | 805 | Mylo Lipscomb |
-| 112 | 802 | Denise Carlson |
-| 113 | 802 | Crystal Carroll |
+| 112 | 802 | Crystal Carroll |
+| 113 | 802 | Denise Carlson |
 | 114 | 801 | D3TROITB0RN74 |
 | 115 | 798 | Jewell Urban |
 | 116 | 784 | TheNeesh50 |
@@ -138,8 +138,8 @@
 | 130 | 719 | Leslie Nicole |
 | 131 | 712 | H.R. Block |
 | 132 | 708 | Jacqueline Helm |
-| 133 | 704 | Chilly Crasher |
-| 134 | 704 | Austin Owens |
+| 133 | 704 | Austin Owens |
+| 134 | 704 | Chilly Crasher |
 | 135 | 687 | Carmethia Clemons Haslerig |
 | 136 | 686 | Angela Srubar-Norman |
 | 137 | 682 | Raegan Lane-Ross |
@@ -157,8 +157,8 @@
 | 149 | 638 | Porkobello |
 | 150 | 635 | Kim Hunt |
 | 151 | 634 | Carrie Brian |
-| 152 | 633 | Jessica Lynn Cutlip |
-| 153 | 633 | Adam Stephanie Parker |
+| 152 | 633 | Adam Stephanie Parker |
+| 153 | 633 | Jessica Lynn Cutlip |
 | 154 | 629 | Chris Baggett |
 | 155 | 623 | ku5hkween |
 | 156 | 622 | Ernest Maxwell |
@@ -196,8 +196,8 @@
 | 188 | 536 | JPW |
 | 189 | 535 | Berklie Apedaile |
 | 190 | 534 | Lucas J Sutton |
-| 191 | 532 | Matt Summer |
-| 192 | 532 | Alan George LaRage |
+| 191 | 532 | Alan George LaRage |
+| 192 | 532 | Matt Summer |
 | 193 | 532 | Carly Alexis |
 | 194 | 528 | Erin Sabol |
 | 195 | 525 | Crystal Lynn |
@@ -309,8 +309,8 @@
 | 301 | 375 | George Tzouganos |
 | 302 | 373 | Russ Attitude |
 | 303 | 371 | Jessi Cinotto |
-| 304 | 370 | Kris Bartlett |
-| 305 | 370 | Twisty Risebuilder |
+| 304 | 370 | Twisty Risebuilder |
+| 305 | 370 | Kris Bartlett |
 | 306 | 368 | Dan Wold |
 | 307 | 367 | Meg |
 | 308 | 366 | Ak Jones |
@@ -389,8 +389,8 @@
 | 381 | 311 | KayM |
 | 382 | 311 | Reds Bella |
 | 383 | 308 | Angela Geist Jusinski |
-| 384 | 307 | Susan Williams |
-| 385 | 307 | Eri Kka |
+| 384 | 307 | Eri Kka |
+| 385 | 307 | Susan Williams |
 | 386 | 306 | PeaceOs |
 | 387 | 305 | Groovy Shiftspin |
 | 388 | 305 | Frances Hui |
@@ -403,13 +403,13 @@
 | 395 | 300 | Carter Jones |
 | 396 | 299 | Michael Snow |
 | 397 | 298 | Val Erie |
-| 398 | 297 | Allison Rose |
-| 399 | 297 | Brittany Marsh |
+| 398 | 297 | Brittany Marsh |
+| 399 | 297 | Allison Rose |
 | 400 | 296 | Deb Rubeck |
 | 401 | 294 | BootsMcGee |
 | 402 | 292 | Epic Curvetile |
 | 403 | 292 | Jumpy Zonepiece |
-| 404 | 291 | Ronald Brown Jr. |
+| 404 | 291 | DQ Martin |
 | 405 | 291 | Malakai Darien Fox |
 | 406 | 291 | Ronald Brown Jr. |
 | 407 | 290 | Amy Sanford |

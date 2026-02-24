@@ -50,8 +50,8 @@
 | 42 | 1405 | Chipper Gridlock |
 | 43 | 1391 | Aaron Garnett |
 | 44 | 1388 | Jen Sartain |
-| 45 | 1334 | june october |
-| 46 | 1334 | Tyler Alcock |
+| 45 | 1334 | Tyler Alcock |
+| 46 | 1334 | june october |
 | 47 | 1325 | Drew Magnus |
 | 48 | 1305 | Michelle Nicole |
 | 49 | 1290 | Spunky Piecebuilder |
@@ -175,8 +175,8 @@
 | 167 | 553 | Flashy Rotator |
 | 168 | 551 | Loony Fitzone |
 | 169 | 549 | Jerry Danowski |
-| 170 | 548 | Stephanie Zahn |
-| 171 | 548 | Luciano Moreira |
+| 170 | 548 | Luciano Moreira |
+| 171 | 548 | Stephanie Zahn |
 | 172 | 547 | Sharon Reynolds |
 | 173 | 545 | .running. |
 | 174 | 543 | Nicole Roseberry Weber |
@@ -194,8 +194,8 @@
 | 186 | 519 | Cool Shiftsnap |
 | 187 | 517 | Eric DeSimone |
 | 188 | 514 | Mike Ames |
-| 189 | 513 | Rebekah LeiAnn Bonsell |
-| 190 | 513 | Colena Davenport |
+| 189 | 513 | Colena Davenport |
+| 190 | 513 | Rebekah LeiAnn Bonsell |
 | 191 | 511 | MomMom |
 | 192 | 510 | Rat666 |
 | 193 | 501 | Jessica Russell |
@@ -257,8 +257,8 @@
 | 249 | 420 | Jennifer Noe Chandler |
 | 250 | 419 | Barrbaric |
 | 251 | 419 | John J. Cronin |
-| 252 | 416 | Jessica Sheehan |
-| 253 | 416 | Larissa Marie Nelson |
+| 252 | 416 | Larissa Marie Nelson |
+| 253 | 416 | Jessica Sheehan |
 | 254 | 414 | Bird Person |
 | 255 | 412 | Sleepysloath5745 |
 | 256 | 410 | Paula Martin |
@@ -273,8 +273,8 @@
 | 265 | 399 | Lakeisha Chapman |
 | 266 | 398 | Cece Ibarra |
 | 267 | 398 | MommaKFC |
-| 268 | 394 | Lynn Adams |
-| 269 | 394 | Nick R Montague |
+| 268 | 394 | Nick R Montague |
+| 269 | 394 | Lynn Adams |
 | 270 | 393 | Wisa |
 | 271 | 392 | Amanda Holibaugh |
 | 272 | 392 | Renee Tucker |
@@ -346,8 +346,8 @@
 | 338 | 340 | Danielle Little-Daugherty |
 | 339 | 338 | Layzietyme |
 | 340 | 338 | Tipsy Builder |
-| 341 | 337 | Chaste Minor |
-| 342 | 337 | Jeremy Maubert |
+| 341 | 337 | Jeremy Maubert |
+| 342 | 337 | Chaste Minor |
 | 343 | 336 | Mrs.Patrica |
 | 344 | 335 | Dreamy Drop |
 | 345 | 335 | Glitzy Curvebuilder |
@@ -357,8 +357,8 @@
 | 349 | 332 | Gina Bettikofer |
 | 350 | 331 | Teddy Alexander |
 | 351 | 331 | Lisa Miller |
-| 352 | 330 | LaFontaine Leslie |
-| 353 | 330 | Rebecca Apley Mielke |
+| 352 | 330 | Rebecca Apley Mielke |
+| 353 | 330 | LaFontaine Leslie |
 | 354 | 329 | Sarah Marie |
 | 355 | 327 | Christina Norman |
 | 356 | 327 | Amber Dee |
@@ -366,16 +366,16 @@
 | 358 | 325 | Mitchel White |
 | 359 | 324 | Brave Wrecker |
 | 360 | 323 | Nadine Velardo |
-| 361 | 322 | Chris65 |
-| 362 | 322 | Hasty Columnbuilder |
-| 363 | 321 | LD1 |
-| 364 | 321 | Sunny Shift |
-| 365 | 320 | ESC |
-| 366 | 320 | Zany Tiler |
-| 367 | 319 | Fresno Beotoni |
-| 368 | 319 | Crystal Cheresnowsky |
-| 369 | 317 | Amh |
-| 370 | 317 | Bloknboy |
+| 361 | 322 | Hasty Columnbuilder |
+| 362 | 322 | Chris65 |
+| 363 | 321 | Sunny Shift |
+| 364 | 321 | LD1 |
+| 365 | 320 | Zany Tiler |
+| 366 | 320 | ESC |
+| 367 | 319 | Crystal Cheresnowsky |
+| 368 | 319 | Fresno Beotoni |
+| 369 | 317 | Bloknboy |
+| 370 | 317 | Amh |
 | 371 | 316 | Giggly Builderline |
 | 372 | 315 | san |
 | 373 | 315 | Joe Coon |
@@ -680,7 +680,7 @@
 | 672 | 190 | Amber Dollak-Smith |
 | 673 | 189 | BettyAnn Savo |
 | 674 | 189 | Britney Marie Burton Cole |
-| 675 | 189 | BettyAnn Savo |
+| 675 | 189 | Jonathan Joshua |
 | 676 | 189 | Vivian Bush |
 | 677 | 188 | V VIN |
 | 678 | 188 | Ramona Mittelstadt |

@@ -140,7 +140,7 @@
 | 132 | 2613 | Jen Tramack |
 | 133 | 2607 | Rob Surace |
 | 134 | 2601 | Lexi Tschappatt |
-| 135 | 2599 | Mema |
+| 135 | 2596 | Mema |
 | 136 | 2515 | KellyDyan |
 | 137 | 2510 | Gabby Jenner |
 | 138 | 2507 | Poppy Snapper |
@@ -270,8 +270,8 @@
 | 262 | 1561 | Howard Forest |
 | 263 | 1557 | Poppy Snap |
 | 264 | 1556 | Julay |
-| 265 | 1553 | Sarah Freitas |
-| 266 | 1553 | Wendy Unsain |
+| 265 | 1553 | Wendy Unsain |
+| 266 | 1553 | Sarah Freitas |
 | 267 | 1553 | Boldy Cascadepiece |
 | 268 | 1539 | Nadia Batista Garcia |
 | 269 | 1528 | Stacy Stickle |
@@ -360,8 +360,8 @@
 | 352 | 1270 | Angela KaplaSchwahn |
 | 353 | 1264 | Mama T |
 | 354 | 1261 | Becca Coronado |
-| 355 | 1257 | Megan Garrick |
-| 356 | 1257 | Megan Ferguson Leone |
+| 355 | 1257 | Megan Ferguson Leone |
+| 356 | 1257 | Megan Garrick |
 | 357 | 1257 | Jackie Lucas |
 | 358 | 1256 | Belle |
 | 359 | 1256 | Phil J. Grombliniak |
@@ -976,8 +976,8 @@
 | 968 | 602 | Christina Loftus |
 | 969 | 602 | Jedi |
 | 970 | 600 | Juanita Lyons |
-| 971 | 599 | Abby Klaski |
-| 972 | 599 | Samuel Labruno |
+| 971 | 599 | Samuel Labruno |
+| 972 | 599 | Abby Klaski |
 | 973 | 599 | Groovy Tilefall |
 | 974 | 599 | Plucky Matchclear |
 | 975 | 599 | Crystal Heller Gonzalez |
@@ -3597,7 +3597,7 @@
 | 3589 | 206 | Craig William |
 | 3590 | 206 | Stretch girl |
 | 3591 | 206 | Bob-omb Myers |
-| 3592 | 205 | Nishadha Perera |
+| 3592 | 205 | Julie Love |
 | 3593 | 205 | Cool Balancer |
 | 3594 | 205 | Nishadha Perera |
 | 3595 | 205 | Saucy Slide |
