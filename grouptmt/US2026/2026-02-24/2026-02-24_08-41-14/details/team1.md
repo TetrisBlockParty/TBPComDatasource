@@ -173,8 +173,8 @@
 | 165 | 548 | Luciano Moreira |
 | 166 | 547 | Sharon Reynolds |
 | 167 | 545 | .running. |
-| 168 | 543 | Adrian Esteban |
-| 169 | 543 | Nicole Roseberry Weber |
+| 168 | 543 | Nicole Roseberry Weber |
+| 169 | 543 | Adrian Esteban |
 | 170 | 542 | BadG52 |
 | 171 | 540 | Tonya Beasley |
 | 172 | 537 | Stephanie Zahn |
@@ -200,12 +200,12 @@
 | 192 | 496 | Michelle Beres |
 | 193 | 496 | Sarah Somers Gray |
 | 194 | 495 | Connie |
-| 195 | 494 | Sean Stallings |
-| 196 | 494 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
+| 195 | 494 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
+| 196 | 494 | Sean Stallings |
 | 197 | 493 | Speedy Liney |
 | 198 | 492 | Happy Snapbuild |
-| 199 | 488 | Ly Phethmany |
-| 200 | 488 | Jessie Welch |
+| 199 | 488 | Jessie Welch |
+| 200 | 488 | Ly Phethmany |
 | 201 | 485 | Mike Ames |
 | 202 | 484 | Chuck Gannon |
 | 203 | 482 | Adele Rahman |
@@ -263,8 +263,8 @@
 | 255 | 403 | Alenoush Karimian |
 | 256 | 403 | Jen Nystrom |
 | 257 | 399 | Lakeisha Chapman |
-| 258 | 398 | Cece Ibarra |
-| 259 | 398 | MommaKFC |
+| 258 | 398 | MommaKFC |
+| 259 | 398 | Cece Ibarra |
 | 260 | 396 | Sam Williams |
 | 261 | 394 | Nick R Montague |
 | 262 | 393 | Wisa |
@@ -276,8 +276,8 @@
 | 268 | 387 | Snippy Wipebuilder |
 | 269 | 386 | Melissa Bires Hussar |
 | 270 | 386 | Angela Renea Lester |
-| 271 | 384 | Colleen Pinette |
-| 272 | 384 | Irv |
+| 271 | 384 | Irv |
+| 272 | 384 | Colleen Pinette |
 | 273 | 383 | Margo Wagner |
 | 274 | 382 | Jamie Jury |
 | 275 | 379 | Austin James |
@@ -292,11 +292,11 @@
 | 284 | 375 | DaRascal |
 | 285 | 374 | Snappy Brickbuilder |
 | 286 | 373 | Frothy Pattern |
-| 287 | 372 | Dizzy Party |
-| 288 | 372 | Wayne Saunders |
+| 287 | 372 | Wayne Saunders |
+| 288 | 372 | Dizzy Party |
 | 289 | 371 | Jaimie Lynn |
-| 290 | 371 | Danielle S Kester |
-| 291 | 371 | Cody Gates |
+| 290 | 371 | Cody Gates |
+| 291 | 371 | Danielle S Kester |
 | 292 | 370 | Gracie |
 | 293 | 369 | Keith Mathis |
 | 294 | 367 | April Jones |
@@ -493,8 +493,8 @@
 | 485 | 255 | SavageBooty98 |
 | 486 | 254 | Kipoi |
 | 487 | 252 | Angela Dawn Torres-Tarrants |
-| 488 | 251 | MRdot Rooski |
-| 489 | 251 | Randy Broadwater |
+| 488 | 251 | Randy Broadwater |
+| 489 | 251 | MRdot Rooski |
 | 490 | 250 | Emmarieta Mendez |
 | 491 | 249 | Sassy Towerer |
 | 492 | 249 | Toni Sagenbrecht |
@@ -563,8 +563,8 @@
 | 555 | 225 | Neely Janelle Stewart |
 | 556 | 224 | Jake Mcnabb |
 | 557 | 224 | Gerald Richard Franke |
-| 558 | 223 | Erez Yosef |
-| 559 | 223 | Renata Mabie |
+| 558 | 223 | Renata Mabie |
+| 559 | 223 | Erez Yosef |
 | 560 | 223 | Daniel Lorquet |
 | 561 | 222 | Nicole Nikki |
 | 562 | 222 | Laurie Sanderson |
