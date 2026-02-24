@@ -70,8 +70,8 @@
 | 62 | 1108 | BertMofo |
 | 63 | 1094 | Shelly Chandler |
 | 64 | 1089 | Alyssa Papen |
-| 65 | 1082 | Avy Absol |
-| 66 | 1082 | Dion Crommarty |
+| 65 | 1082 | Dion Crommarty |
+| 66 | 1082 | Avy Absol |
 | 67 | 1081 | Dustee Craddock-Harrison |
 | 68 | 1069 | Heather Tushner |
 | 69 | 1056 | Keith Kelley |
@@ -130,8 +130,8 @@
 | 122 | 731 | KJ Pool |
 | 123 | 729 | Jamie Mann-Deichmann |
 | 124 | 728 | Zippy Gridlock |
-| 125 | 726 | Jamie Gustafson |
-| 126 | 726 | Amy Suckarieh |
+| 125 | 726 | Amy Suckarieh |
+| 126 | 726 | Jamie Gustafson |
 | 127 | 725 | Brandon Crabbs |
 | 128 | 712 | Leslie Nicole |
 | 129 | 712 | H.R. Block |
@@ -205,17 +205,17 @@
 | 197 | 513 | Erin Thomas |
 | 198 | 512 | ThaEviLJeNiuZ |
 | 199 | 512 | Casey Jeffcoat |
-| 200 | 512 | ThaEviLJeNiuZ |
+| 200 | 512 | Ellen Durfee |
 | 201 | 509 | Mimi |
 | 202 | 508 | Milan Markeisha |
 | 203 | 507 | Andria Lynn |
 | 204 | 504 | Deanna Deckard |
-| 205 | 502 | Ericca Eldridge |
-| 206 | 502 | Christina Black |
+| 205 | 502 | Christina Black |
+| 206 | 502 | Ericca Eldridge |
 | 207 | 501 | Sharyn Lemire |
 | 208 | 499 | Kesha Brady |
-| 209 | 496 | Lori |
-| 210 | 496 | Jessica Bohlken |
+| 209 | 496 | Jessica Bohlken |
+| 210 | 496 | Lori |
 | 211 | 495 | Joeliecea Cobb |
 | 212 | 493 | Amanda Pauldo-Ivy |
 | 213 | 491 | Manny1 |
@@ -247,24 +247,24 @@
 | 239 | 444 | Selena Shaw |
 | 240 | 442 | John Brunetti |
 | 241 | 441 | Lush Linkfall |
-| 242 | 438 | 23 |
-| 243 | 438 | Melvin Baird |
+| 242 | 438 | Melvin Baird |
+| 243 | 438 | 23 |
 | 244 | 434 | Ramel Rhodes |
 | 245 | 433 | Damn Libra |
 | 246 | 433 | Circuit8 |
 | 247 | 432 | Plucky Patternblock |
 | 248 | 432 | scott |
 | 249 | 430 | Chris Bernstein |
-| 250 | 427 | Cheery Risebuilder |
-| 251 | 427 | Chao Ma |
+| 250 | 427 | Chao Ma |
+| 251 | 427 | Cheery Risebuilder |
 | 252 | 424 | Andrew Dang |
 | 253 | 423 | Gdiguy |
 | 254 | 421 | JIGsaw ~(•¿°)~ |
 | 255 | 421 | Brickh4us |
 | 256 | 420 | Jeff Brian Gates |
 | 257 | 413 | Rio Rocha |
-| 258 | 411 | TinyLegoRose |
-| 259 | 411 | Autumn Kumzi |
+| 258 | 411 | Autumn Kumzi |
+| 259 | 411 | TinyLegoRose |
 | 260 | 410 | Lindsay Ball |
 | 261 | 409 | Bio Nelly |
 | 262 | 409 | Antony Dwayne Beasley |
@@ -346,8 +346,8 @@
 | 338 | 328 | Leah Kutz Zirbel |
 | 339 | 327 | Jim Hart |
 | 340 | 325 | Cool Gridzone |
-| 341 | 324 | Sarah Hoffman |
-| 342 | 324 | Vic |
+| 341 | 324 | Vic |
+| 342 | 324 | Sarah Hoffman |
 | 343 | 322 | Bryan Hodgins |
 | 344 | 321 | Stacey Stano |
 | 345 | 321 | Sarah Brown |
@@ -383,8 +383,8 @@
 | 375 | 300 | Jason Frehner |
 | 376 | 299 | Michael Snow |
 | 377 | 298 | Val Erie |
-| 378 | 297 | Brittany Marsh |
-| 379 | 297 | Allison Rose |
+| 378 | 297 | Allison Rose |
+| 379 | 297 | Brittany Marsh |
 | 380 | 296 | Dapper Frame |
 | 381 | 295 | Deb Rubeck |
 | 382 | 294 | BootsMcGee |
@@ -430,8 +430,8 @@
 | 422 | 266 | ĥuf |
 | 423 | 266 | Happy Combo |
 | 424 | 265 | Degenerate |
-| 425 | 265 | Christine Therrien |
-| 426 | 265 | Lorena Guerrero-Barron |
+| 425 | 265 | Lorena Guerrero-Barron |
+| 426 | 265 | Christine Therrien |
 | 427 | 264 | Shh |
 | 428 | 263 | Laurmarcar |
 | 429 | 262 | Lilya Troutman |

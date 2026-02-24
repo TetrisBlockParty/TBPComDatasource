@@ -104,8 +104,8 @@
 | 96 | 1361 | Patricia Gadsden |
 | 97 | 1343 | Joey Banks |
 | 98 | 1320 | Kristie |
-| 99 | 1318 | Diana Ibarra |
-| 100 | 1318 | Tiff Vs Tiffany |
+| 99 | 1318 | Tiff Vs Tiffany |
+| 100 | 1318 | Diana Ibarra |
 | 101 | 1309 | yoyo |
 | 102 | 1297 | Shelby Michelle |
 | 103 | 1290 | JerseyJess |
@@ -544,9 +544,9 @@
 | 536 | 320 | Victoria Lexis Dyer |
 | 537 | 320 | Taylor Hood |
 | 538 | 320 | Or Reznitsky |
-| 539 | 319 | Matty Ray |
-| 540 | 319 | Moneyvybz |
-| 541 | 319 | Tracey Cox |
+| 539 | 319 | Moneyvybz |
+| 540 | 319 | Tracey Cox |
+| 541 | 319 | Matty Ray |
 | 542 | 319 | Jayme |
 | 543 | 318 | Trey Ward |
 | 544 | 318 | Earlanda Holland |
@@ -604,8 +604,8 @@
 | 596 | 297 | Zac Hudak |
 | 597 | 297 | Cameo Tweed |
 | 598 | 296 | JoshAllenfan17 |
-| 599 | 296 | Tracy Martin |
-| 600 | 296 | Angel Miller |
+| 599 | 296 | Angel Miller |
+| 600 | 296 | Tracy Martin |
 | 601 | 295 | Omega |
 | 602 | 294 | Jazzy Spinfit |
 | 603 | 293 | Anna Moeller |

@@ -119,8 +119,8 @@
 | 111 | 725 | Debbie Kane |
 | 112 | 719 | Bindi |
 | 113 | 716 | Kristi Johnson |
-| 114 | 706 | Denice Dee |
-| 115 | 706 | Plucky Fallzone |
+| 114 | 706 | Plucky Fallzone |
+| 115 | 706 | Denice Dee |
 | 116 | 702 | lil mickey |
 | 117 | 699 | cc |
 | 118 | 692 | Melissa Lemmon |
@@ -331,8 +331,8 @@
 | 323 | 338 | Layzietyme |
 | 324 | 338 | Michael Espinosa Ulibarri Jr. |
 | 325 | 337 | Chaste Minor |
-| 326 | 336 | Sarah Roberts |
-| 327 | 336 | Toya Lynn |
+| 326 | 336 | Toya Lynn |
+| 327 | 336 | Sarah Roberts |
 | 328 | 335 | Dreamy Drop |
 | 329 | 335 | Rachel Nilles |
 | 330 | 334 | Nate Price |
