@@ -73,8 +73,8 @@
 | 65 | 1109 | BertMofo |
 | 66 | 1101 | Denia Deni |
 | 67 | 1089 | Alyssa Papen |
-| 68 | 1082 | Dion Crommarty |
-| 69 | 1082 | Avy Absol |
+| 68 | 1082 | Avy Absol |
+| 69 | 1082 | Dion Crommarty |
 | 70 | 1081 | Dustee Craddock-Harrison |
 | 71 | 1080 | Chilly Line |
 | 72 | 1069 | Heather Tushner |
@@ -135,8 +135,8 @@
 | 127 | 726 | Jamie Gustafson |
 | 128 | 725 | Brandon Crabbs |
 | 129 | 719 | George Nutt |
-| 130 | 712 | H.R. Block |
-| 131 | 712 | Leslie Nicole |
+| 130 | 712 | Leslie Nicole |
+| 131 | 712 | H.R. Block |
 | 132 | 708 | Jacqueline Helm |
 | 133 | 704 | Austin Owens |
 | 134 | 704 | Chilly Crasher |
@@ -217,8 +217,8 @@
 | 209 | 502 | Ericca Eldridge |
 | 210 | 501 | Sharyn Lemire |
 | 211 | 499 | Kesha Brady |
-| 212 | 496 | Jessica Bohlken |
-| 213 | 496 | Lori |
+| 212 | 496 | Lori |
+| 213 | 496 | Jessica Bohlken |
 | 214 | 495 | Joeliecea Cobb |
 | 215 | 494 | Bio Nelly |
 | 216 | 493 | Amanda Pauldo-Ivy |
@@ -232,8 +232,8 @@
 | 224 | 472 | Plucky Patternblock |
 | 225 | 468 | June Hoffman |
 | 226 | 465 | Leslie Thomas |
-| 227 | 464 | Calvin Cannon |
-| 228 | 464 | Zakia Monae |
+| 227 | 464 | Zakia Monae |
+| 228 | 464 | Calvin Cannon |
 | 229 | 463 | shark tato |
 | 230 | 462 | Crystal Nicolette Moore |
 | 231 | 460 | Kathy Brookins |
@@ -813,7 +813,7 @@
 | 805 | 144 | Adam Randall |
 | 806 | 144 | Zach Kerbs |
 | 807 | 143 | Kelly Duncan |
-| 808 | 143 | Sherri |
+| 808 | 143 | Jenna Keen |
 | 809 | 143 | sgt baby |
 | 810 | 143 | Sherri |
 | 811 | 142 | Frank Cook |
