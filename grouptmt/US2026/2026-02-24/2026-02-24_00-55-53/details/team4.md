@@ -64,8 +64,8 @@
 | 56 | 1106 | Ashley Ingram |
 | 57 | 1092 | Rachel Anne |
 | 58 | 1088 | BertMofo |
-| 59 | 1082 | Dion Crommarty |
-| 60 | 1082 | Avy Absol |
+| 59 | 1082 | Avy Absol |
+| 60 | 1082 | Dion Crommarty |
 | 61 | 1075 | Dustee Craddock-Harrison |
 | 62 | 1059 | Alyssa Papen |
 | 63 | 1049 | Heather Tushner |
@@ -190,8 +190,8 @@
 | 182 | 503 | Andria Lynn |
 | 183 | 502 | Ericca Eldridge |
 | 184 | 499 | Berklie Apedaile |
-| 185 | 496 | Lori |
-| 186 | 496 | Cindy Looper |
+| 185 | 496 | Cindy Looper |
+| 186 | 496 | Lori |
 | 187 | 495 | Jessica Bohlken |
 | 188 | 493 | April Rondinone |
 | 189 | 491 | Jade Rian |
@@ -394,8 +394,8 @@
 | 386 | 264 | Groovy Shiftspin |
 | 387 | 264 | AyeKay |
 | 388 | 263 | Laurmarcar |
-| 389 | 262 | Lilya Troutman |
-| 390 | 262 | Ruben Wheeler |
+| 389 | 262 | Ruben Wheeler |
+| 390 | 262 | Lilya Troutman |
 | 391 | 261 | Laura McPheeters |
 | 392 | 260 | Snippy Puzzle |
 | 393 | 259 | Allen Lloyd |
@@ -435,7 +435,7 @@
 | 427 | 242 | Badatvs |
 | 428 | 241 | Amanda Christine |
 | 429 | 241 | Laurel Coppess |
-| 430 | 240 | Orchislactea |
+| 430 | 240 | KayM |
 | 431 | 240 | Zany Shatterer |
 | 432 | 240 | Orchislactea |
 | 433 | 239 | Denise B |
@@ -445,8 +445,8 @@
 | 437 | 238 | 中山成巳 |
 | 438 | 237 | Alan Zukowski |
 | 439 | 236 | The Murphy |
-| 440 | 236 | Melissa VanBourgondien |
-| 441 | 236 | Michelle Morris |
+| 440 | 236 | Michelle Morris |
+| 441 | 236 | Melissa VanBourgondien |
 | 442 | 235 | Jessica Petersen |
 | 443 | 235 | LaDonna LovinmesomeMe Lambert |
 | 444 | 235 | Stacy Jones |
