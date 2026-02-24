@@ -336,8 +336,8 @@
 | 328 | 322 | Chris65 |
 | 329 | 321 | LD1 |
 | 330 | 320 | Zany Tiler |
-| 331 | 319 | Crystal Cheresnowsky |
-| 332 | 319 | Fresno Beotoni |
+| 331 | 319 | Fresno Beotoni |
+| 332 | 319 | Crystal Cheresnowsky |
 | 333 | 317 | Bloknboy |
 | 334 | 317 | Shanae Grant |
 | 335 | 317 | Angela Spann |
