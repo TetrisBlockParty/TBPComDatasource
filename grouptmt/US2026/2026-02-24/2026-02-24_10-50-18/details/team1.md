@@ -262,8 +262,8 @@
 | 254 | 414 | Bird Person |
 | 255 | 412 | Sleepysloath5745 |
 | 256 | 410 | Paula Martin |
-| 257 | 409 | poopypants |
-| 258 | 409 | Lehrin Maria |
+| 257 | 409 | Lehrin Maria |
+| 258 | 409 | poopypants |
 | 259 | 408 | Dino |
 | 260 | 408 | Sweetts |
 | 261 | 405 | Tyler L Hunt |
@@ -293,11 +293,11 @@
 | 285 | 382 | Jamie Jury |
 | 286 | 379 | Austin James |
 | 287 | 378 | Eddie Dillon |
-| 288 | 377 | DoodleBug |
-| 289 | 377 | Rayline M Bradshaw |
+| 288 | 377 | Rayline M Bradshaw |
+| 289 | 377 | DoodleBug |
 | 290 | 377 | GATOR |
-| 291 | 376 | Sassy Builderline |
-| 292 | 376 | Brian Richardsson |
+| 291 | 376 | Brian Richardsson |
+| 292 | 376 | Sassy Builderline |
 | 293 | 375 | DaRascal |
 | 294 | 374 | Snappy Brickbuilder |
 | 295 | 373 | Frothy Pattern |
@@ -324,8 +324,8 @@
 | 316 | 357 | Jasmine Riley |
 | 317 | 356 | build master |
 | 318 | 356 | Brave Linkmatch |
-| 319 | 355 | Shanae Grant |
-| 320 | 355 | Toya Lynn |
+| 319 | 355 | Toya Lynn |
+| 320 | 355 | Shanae Grant |
 | 321 | 354 | Kimberly Davis |
 | 322 | 353 | Josh Riemer |
 | 323 | 352 | Lachelle Dillon |
@@ -530,8 +530,8 @@
 | 522 | 245 | Theeranart Mahawan |
 | 523 | 244 | Kristen Meehan Wangerien |
 | 524 | 243 | Gerald Richard Franke |
-| 525 | 242 | Pauline Cortez |
-| 526 | 242 | Stephanie Leday |
+| 525 | 242 | Stephanie Leday |
+| 526 | 242 | Pauline Cortez |
 | 527 | 242 | Joshua Weeder |
 | 528 | 241 | Josh Smith |
 | 529 | 241 | Abbey Crespo |
@@ -550,7 +550,7 @@
 | 542 | 234 | Burnnetter Sisk |
 | 543 | 234 | Shannon Guilloty |
 | 544 | 234 | Dee Doris Ewald Flynn |
-| 545 | 234 | Shannon Guilloty |
+| 545 | 234 | Aaron Green |
 | 546 | 233 | Jonah Dunn |
 | 547 | 232 | Nerdy Curvebuilder |
 | 548 | 231 | Alex Nicol |

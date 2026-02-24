@@ -223,8 +223,8 @@
 | 215 | 1813 | Catina Hutchison |
 | 216 | 1807 | Osun Anuket Esu |
 | 217 | 1784 | Matthew Joseph Acevedo |
-| 218 | 1775 | Eboni Banks |
-| 219 | 1775 | Sommer Shope |
+| 218 | 1775 | Sommer Shope |
+| 219 | 1775 | Eboni Banks |
 | 220 | 1774 | Nerdy Pattern |
 | 221 | 1761 | Rosa Franklin |
 | 222 | 1751 | Melissa Penelope Ann Dodge |
@@ -341,15 +341,15 @@
 | 333 | 1315 | Desiree Anderson |
 | 334 | 1313 | Jermaine Harris |
 | 335 | 1312 | Tinishia Amie |
-| 336 | 1308 | Snappy Matchbuilder |
-| 337 | 1308 | Laura Morrison |
+| 336 | 1308 | Laura Morrison |
+| 337 | 1308 | Snappy Matchbuilder |
 | 338 | 1308 | Christina Lewis-Vickers |
 | 339 | 1305 | Roman Lavochnik |
 | 340 | 1304 | Sarah Ridenour |
 | 341 | 1303 | Michele Morgan |
 | 342 | 1301 | Mandy Cekine |
-| 343 | 1300 | Shinel Richardson |
-| 344 | 1300 | Tacara Cummings |
+| 343 | 1300 | Tacara Cummings |
+| 344 | 1300 | Shinel Richardson |
 | 345 | 1295 | Jess Morrison |
 | 346 | 1292 | Joshua Mandel |
 | 347 | 1288 | Nicole Cannon |
@@ -731,8 +731,8 @@
 | 723 | 742 | Rhonda Petro |
 | 724 | 741 | Leah Keesling |
 | 725 | 741 | Ashley Munn |
-| 726 | 740 | Joice Hansen |
-| 727 | 740 | Lee Harper |
+| 726 | 740 | Lee Harper |
+| 727 | 740 | Joice Hansen |
 | 728 | 740 | Lylymom |
 | 729 | 738 | Jessica S Flecha |
 | 730 | 737 | Ginger |
@@ -759,7 +759,7 @@
 | 751 | 725 | Cheyenne Donovan |
 | 752 | 724 | Brenna Ann |
 | 753 | 724 | ນາງ ບີ ລາດຊະຈັກ |
-| 754 | 724 | teo1 |
+| 754 | 724 | Epic Fitzone |
 | 755 | 723 | Jannan Haimour |
 | 756 | 722 | Sassy Racker |
 | 757 | 720 | Poldo Ilano |
@@ -780,8 +780,8 @@
 | 772 | 711 | Narutofreak13 |
 | 773 | 710 | Alexis Richardson |
 | 774 | 707 | Giggy Grabber |
-| 775 | 706 | Josh Webster |
-| 776 | 706 | Roseanna Peloso |
+| 775 | 706 | Roseanna Peloso |
+| 776 | 706 | Josh Webster |
 | 777 | 706 | Karen Posadas Centeno |
 | 778 | 705 | Chelsea Gutierrez |
 | 779 | 703 | cornball |
@@ -807,22 +807,22 @@
 | 799 | 691 | Melissa Kay Gibson |
 | 800 | 690 | Lawanda Forbes |
 | 801 | 690 | Latasha Love |
-| 802 | 689 | Martina Gabrielle LaPolla |
-| 803 | 689 | SpaceCase085 |
+| 802 | 689 | SpaceCase085 |
+| 803 | 689 | Martina Gabrielle LaPolla |
 | 804 | 688 | Tracy Wise |
 | 805 | 688 | Newni Bayb |
 | 806 | 687 | Candy Pitts |
 | 807 | 686 | Christina Ashley |
 | 808 | 685 | Rose Fx |
-| 809 | 684 | Atara James |
-| 810 | 684 | Sleepypanda67 |
+| 809 | 684 | Sleepypanda67 |
+| 810 | 684 | Atara James |
 | 811 | 684 | Jazzy Clusterline |
 | 812 | 683 | Nicole Sanqui |
 | 813 | 683 | Audrey Jones |
 | 814 | 682 | Jacob Tri |
 | 815 | 680 | Nutty Cascade |
-| 816 | 680 | Paul Combs |
-| 817 | 680 | Stephanie Lafalce |
+| 816 | 680 | Stephanie Lafalce |
+| 817 | 680 | Paul Combs |
 | 818 | 680 | mshir |
 | 819 | 679 | Regina Knight |
 | 820 | 679 | DLOCC1056 |

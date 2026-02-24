@@ -80,8 +80,8 @@
 | 72 | 1080 | Chilly Line |
 | 73 | 1069 | Heather Tushner |
 | 74 | 1056 | Keith Kelley |
-| 75 | 1046 | Johnathan Martinez |
-| 76 | 1046 | Anthony Bryan Riva |
+| 75 | 1046 | Anthony Bryan Riva |
+| 76 | 1046 | Johnathan Martinez |
 | 77 | 1031 | LisaJo Picken Buchanan |
 | 78 | 1028 | TeeJ |
 | 79 | 1024 | Valerie Roberts |
@@ -138,8 +138,8 @@
 | 130 | 712 | Leslie Nicole |
 | 131 | 712 | H.R. Block |
 | 132 | 708 | Jacqueline Helm |
-| 133 | 704 | Chilly Crasher |
-| 134 | 704 | Austin Owens |
+| 133 | 704 | Austin Owens |
+| 134 | 704 | Chilly Crasher |
 | 135 | 687 | Carmethia Clemons Haslerig |
 | 136 | 686 | Angela Srubar-Norman |
 | 137 | 682 | Raegan Lane-Ross |
@@ -185,8 +185,8 @@
 | 177 | 561 | Steph Marie |
 | 178 | 558 | Marie-Pier Desjardins |
 | 179 | 555 | Lori |
-| 180 | 552 | Circuit8 |
-| 181 | 552 | Angel Raya |
+| 180 | 552 | Angel Raya |
+| 181 | 552 | Circuit8 |
 | 182 | 550 | James Hurley Jr. |
 | 183 | 549 | Cool Towerbuilder |
 | 184 | 546 | Dizzy Tiley |
@@ -215,11 +215,11 @@
 | 207 | 509 | Mimi |
 | 208 | 507 | Andria Lynn |
 | 209 | 504 | Deanna Deckard |
-| 210 | 502 | Ericca Eldridge |
-| 211 | 502 | Christina Black |
+| 210 | 502 | Christina Black |
+| 211 | 502 | Ericca Eldridge |
 | 212 | 501 | Sharyn Lemire |
-| 213 | 499 | Kesha Brady |
-| 214 | 499 | DonMega |
+| 213 | 499 | DonMega |
+| 214 | 499 | Kesha Brady |
 | 215 | 497 | Damn Libra |
 | 216 | 496 | Jessica Bohlken |
 | 217 | 495 | Joeliecea Cobb |
@@ -242,11 +242,11 @@
 | 234 | 460 | Kathy Brookins |
 | 235 | 458 | Kristina Black |
 | 236 | 458 | Luis Martinez |
-| 237 | 457 | J-Rizzle |
-| 238 | 457 | Kristin Manee |
+| 237 | 457 | Kristin Manee |
+| 238 | 457 | J-Rizzle |
 | 239 | 455 | Michele Plunkett |
-| 240 | 454 | Keshia Lyons |
-| 241 | 454 | David Lay |
+| 240 | 454 | David Lay |
+| 241 | 454 | Keshia Lyons |
 | 242 | 450 | Genne Scott |
 | 243 | 449 | Danielle Kollias |
 | 244 | 448 | Mr. Party |
@@ -293,8 +293,8 @@
 | 285 | 393 | Montiette Mcglown |
 | 286 | 392 | Neirrah B Olailjeel |
 | 287 | 390 | Ari Droff |
-| 288 | 387 | Backoff Recupe |
-| 289 | 387 | Sandra Safford |
+| 288 | 387 | Sandra Safford |
+| 289 | 387 | Backoff Recupe |
 | 290 | 386 | Vic |
 | 291 | 382 | Sue Joyce Staats |
 | 292 | 380 | Chaz |
@@ -318,8 +318,8 @@
 | 310 | 362 | Nubian1 |
 | 311 | 359 | Allen Lloyd |
 | 312 | 359 | Holly |
-| 313 | 354 | Perky Piecegrid |
-| 314 | 354 | @ |
+| 313 | 354 | @ |
+| 314 | 354 | Perky Piecegrid |
 | 315 | 352 | Kate |
 | 316 | 351 | Dana Scott |
 | 317 | 351 | Jackie Clark |
@@ -533,8 +533,8 @@
 | 525 | 233 | Gigglelymomof2 |
 | 526 | 233 | Robert Rodriguez |
 | 527 | 232 | Becky Shimko |
-| 528 | 232 | Lou Ie |
-| 529 | 232 | Dandy Cascadefit |
+| 528 | 232 | Dandy Cascadefit |
+| 529 | 232 | Lou Ie |
 | 530 | 231 | Loony Rotater |
 | 531 | 230 | Martha Lucinda Bishop |
 | 532 | 230 | Joey Riley |
