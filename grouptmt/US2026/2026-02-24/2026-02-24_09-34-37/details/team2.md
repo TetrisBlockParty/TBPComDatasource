@@ -221,8 +221,8 @@
 | 213 | 1813 | Catina Hutchison |
 | 214 | 1807 | Osun Anuket Esu |
 | 215 | 1784 | Matthew Joseph Acevedo |
-| 216 | 1775 | Sommer Shope |
-| 217 | 1775 | Eboni Banks |
+| 216 | 1775 | Eboni Banks |
+| 217 | 1775 | Sommer Shope |
 | 218 | 1770 | Nerdy Pattern |
 | 219 | 1761 | Rosa Franklin |
 | 220 | 1751 | Melissa Penelope Ann Dodge |
@@ -282,8 +282,8 @@
 | 274 | 1480 | Dimitra Zazara |
 | 275 | 1479 | Pacynthia Williams |
 | 276 | 1478 | Misty Walker |
-| 277 | 1477 | Prado |
-| 278 | 1477 | Hillary Crawford |
+| 277 | 1477 | Hillary Crawford |
+| 278 | 1477 | Prado |
 | 279 | 1469 | Carrie Trigg |
 | 280 | 1463 | Yvonne Wharton |
 | 281 | 1459 | Shiny Rollzone |
@@ -358,8 +358,8 @@
 | 350 | 1268 | Keri Womack |
 | 351 | 1264 | Mama T |
 | 352 | 1261 | Becca Coronado |
-| 353 | 1257 | Megan Garrick |
-| 354 | 1257 | Megan Ferguson Leone |
+| 353 | 1257 | Megan Ferguson Leone |
+| 354 | 1257 | Megan Garrick |
 | 355 | 1257 | Jackie Lucas |
 | 356 | 1256 | Belle |
 | 357 | 1254 | Erika Densmore |
@@ -425,8 +425,8 @@
 | 417 | 1101 | Kathryn Townsley |
 | 418 | 1099 | Loony Snapper |
 | 419 | 1096 | Amber Shoemaker |
-| 420 | 1093 | Adira Brown |
-| 421 | 1093 | Real Ri |
+| 420 | 1093 | Real Ri |
+| 421 | 1093 | Adira Brown |
 | 422 | 1092 | Jánine Riggs |
 | 423 | 1090 | McLeod Shana |
 | 424 | 1089 | Jerilyn Andrina |
@@ -889,8 +889,8 @@
 | 881 | 647 | Wuntayk |
 | 882 | 647 | Joseph Jones |
 | 883 | 647 | Kendall Fullerton |
-| 884 | 647 | Tori Bowers |
-| 885 | 647 | Bob Vu |
+| 884 | 647 | Bob Vu |
+| 885 | 647 | Tori Bowers |
 | 886 | 645 | Kacee Conrad Bock |
 | 887 | 645 | Veronics |
 | 888 | 645 | NanDa Cruzan VI |

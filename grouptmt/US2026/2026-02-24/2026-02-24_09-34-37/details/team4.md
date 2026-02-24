@@ -1,6 +1,6 @@
 # Standings for team4 as of 2026-02-24 09:34:37 UTC
 
-**Total Participants:** 2023
+**Total Participants:** 2021
 
 ## Participant Scores
 
@@ -108,8 +108,8 @@
 | 100 | 846 | Christine Marie |
 | 101 | 840 | SAP |
 | 102 | 837 | Rica Mitchell |
-| 103 | 834 | Brittney Orengo |
-| 104 | 834 | quicksand420 |
+| 103 | 834 | quicksand420 |
+| 104 | 834 | Brittney Orengo |
 | 105 | 815 | Diana Houts |
 | 106 | 813 | Amy Suckarieh |
 | 107 | 813 | Klo |
@@ -135,8 +135,8 @@
 | 127 | 726 | Jamie Gustafson |
 | 128 | 725 | Brandon Crabbs |
 | 129 | 719 | George Nutt |
-| 130 | 712 | Leslie Nicole |
-| 131 | 712 | H.R. Block |
+| 130 | 712 | H.R. Block |
+| 131 | 712 | Leslie Nicole |
 | 132 | 708 | Jacqueline Helm |
 | 133 | 704 | Chilly Crasher |
 | 134 | 704 | Austin Owens |
@@ -233,8 +233,8 @@
 | 225 | 473 | Jolly Dashfit |
 | 226 | 472 | Plucky Patternblock |
 | 227 | 465 | Leslie Thomas |
-| 228 | 464 | Zakia Monae |
-| 229 | 464 | Calvin Cannon |
+| 228 | 464 | Calvin Cannon |
+| 229 | 464 | Zakia Monae |
 | 230 | 463 | shark tato |
 | 231 | 462 | Crystal Nicolette Moore |
 | 232 | 460 | Kathy Brookins |
@@ -247,8 +247,8 @@
 | 239 | 454 | David Lay |
 | 240 | 450 | Genne Scott |
 | 241 | 449 | Danielle Kollias |
-| 242 | 448 | Mike Solo |
-| 243 | 448 | Mr. Party |
+| 242 | 448 | Mr. Party |
+| 243 | 448 | Mike Solo |
 | 244 | 447 | Jen Mattei |
 | 245 | 444 | Selena Shaw |
 | 246 | 442 | John Brunetti |

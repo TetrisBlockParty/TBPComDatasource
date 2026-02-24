@@ -176,8 +176,8 @@
 | 168 | 875 | Chasity |
 | 169 | 874 | Jessica Pineda-Lopez |
 | 170 | 871 | Rochelle Hazelett |
-| 171 | 868 | Nicole Flippo |
-| 172 | 868 | Cranky Gridder |
+| 171 | 868 | Cranky Gridder |
+| 172 | 868 | Nicole Flippo |
 | 173 | 866 | Domo Washington |
 | 174 | 864 | Sunny Rotater |
 | 175 | 862 | Santeria Trece Candles |
@@ -231,8 +231,8 @@
 | 223 | 715 | Karon Griffin |
 | 224 | 714 | Jenny Hrndz |
 | 225 | 713 | Stephanie Blkpep Davidson |
-| 226 | 709 | Christine Niles |
-| 227 | 709 | Cynthia Castros-Hampton |
+| 226 | 709 | Cynthia Castros-Hampton |
+| 227 | 709 | Christine Niles |
 | 228 | 708 | Stephanie Bradley |
 | 229 | 704 | Betty Bóò |
 | 230 | 703 | Shawn Miller |
@@ -278,8 +278,8 @@
 | 270 | 604 | Sherry Ogden |
 | 271 | 604 | Bmo |
 | 272 | 601 | Betty Rosas |
-| 273 | 600 | Rynne Ellis |
-| 274 | 600 | Natasha Jones |
+| 273 | 600 | Natasha Jones |
+| 274 | 600 | Rynne Ellis |
 | 275 | 599 | Noyb Adam |
 | 276 | 598 | Kaycee Kay |
 | 277 | 594 | Cozy Snaplink |
@@ -310,8 +310,8 @@
 | 302 | 547 | Aerian Preston |
 | 303 | 542 | France Vézina |
 | 304 | 541 | Mcathen |
-| 305 | 540 | rosy |
-| 306 | 540 | Tanya Kittrell |
+| 305 | 540 | Tanya Kittrell |
+| 306 | 540 | rosy |
 | 307 | 539 | Fancy Curver |
 | 308 | 539 | Kate M. Murdock |
 | 309 | 538 | Chummy Caster |
@@ -789,8 +789,8 @@
 | 781 | 245 | Latoya Mayne |
 | 782 | 245 | Bhreagh Gentile |
 | 783 | 245 | Danette Marie |
-| 784 | 244 | Amanda Fulton |
-| 785 | 244 | MizzMonick Smith |
+| 784 | 244 | MizzMonick Smith |
+| 785 | 244 | Amanda Fulton |
 | 786 | 244 | LaJeanna Lee Lee |
 | 787 | 242 | Tanesha BigBabby Darling |
 | 788 | 242 | Matty Pope |

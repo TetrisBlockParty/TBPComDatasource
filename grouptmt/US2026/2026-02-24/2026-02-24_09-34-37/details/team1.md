@@ -137,13 +137,13 @@
 | 129 | 666 | Virginia Gray Floyd |
 | 130 | 652 | Evie Khalil |
 | 131 | 651 | Dandy Basegrid |
-| 132 | 650 | Bob |
-| 133 | 650 | April Carroll |
+| 132 | 650 | April Carroll |
+| 133 | 650 | Bob |
 | 134 | 647 | Theo Pinnow |
 | 135 | 643 | Erin Rosberg |
 | 136 | 642 | Mario Cab |
-| 137 | 629 | Death |
-| 138 | 629 | Tanya Carpenter-Reynolds |
+| 137 | 629 | Tanya Carpenter-Reynolds |
+| 138 | 629 | Death |
 | 139 | 628 | Trina Gee |
 | 140 | 626 | Damon J. Martin |
 | 141 | 620 | Ty Brown |
@@ -271,8 +271,8 @@
 | 263 | 396 | Sam Williams |
 | 264 | 394 | Nick R Montague |
 | 265 | 393 | Wisa |
-| 266 | 392 | Renee Tucker |
-| 267 | 392 | Poppy Riserpiece |
+| 266 | 392 | Poppy Riserpiece |
+| 267 | 392 | Renee Tucker |
 | 268 | 391 | Happy Basegrid |
 | 269 | 390 | David Lutcher |
 | 270 | 388 | Test |
