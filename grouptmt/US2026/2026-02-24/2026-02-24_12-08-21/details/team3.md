@@ -70,8 +70,8 @@
 | 62 | 1858 | Kristie McFarland |
 | 63 | 1836 | Tina Kay |
 | 64 | 1825 | Nora Rogers |
-| 65 | 1824 | Jessica Ann |
-| 66 | 1824 | Nate Burnside |
+| 65 | 1824 | Nate Burnside |
+| 66 | 1824 | Jessica Ann |
 | 67 | 1791 | Leah Barnett |
 | 68 | 1776 | Whitney Manuel |
 | 69 | 1774 | Liv Whetson |
@@ -111,8 +111,8 @@
 | 103 | 1311 | JerseyJess |
 | 104 | 1309 | yoyo |
 | 105 | 1297 | Shelby Michelle |
-| 106 | 1282 | Peppy Shifter |
-| 107 | 1282 | Amanda L Baker |
+| 106 | 1282 | Amanda L Baker |
+| 107 | 1282 | Peppy Shifter |
 | 108 | 1280 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1248 | Lori Barnaby |
@@ -160,15 +160,15 @@
 | 152 | 963 | Crystal Frey |
 | 153 | 961 | Danielle Allison |
 | 154 | 951 | Betty Rosas |
-| 155 | 950 | MissTaylor |
-| 156 | 950 | Giddy Drop |
+| 155 | 950 | Giddy Drop |
+| 156 | 950 | MissTaylor |
 | 157 | 947 | Kellie Montgomery |
 | 158 | 940 | Stephanie Allmon |
 | 159 | 936 | Dolores Falco |
 | 160 | 928 | Edwin Calvillo Jr. |
 | 161 | 925 | Cherry Parker |
-| 162 | 914 | BadManSheLove |
-| 163 | 914 | Staci George Fitzsimmons |
+| 162 | 914 | Staci George Fitzsimmons |
+| 163 | 914 | BadManSheLove |
 | 164 | 910 | opf |
 | 165 | 906 | Patti Skiles |
 | 166 | 899 | Jaime Monhaut-Reed |
@@ -219,8 +219,8 @@
 | 211 | 760 | Kiki |
 | 212 | 758 | Shawn Miller |
 | 213 | 757 | Fancy Cascader |
-| 214 | 755 | Laura Booth Wosko |
-| 215 | 755 | Colton |
+| 214 | 755 | Colton |
+| 215 | 755 | Laura Booth Wosko |
 | 216 | 754 | CeceGeGe |
 | 217 | 753 | Morgan Martinez |
 | 218 | 752 | Joye Sims Binion |
@@ -287,8 +287,8 @@
 | 279 | 600 | Natasha Jones |
 | 280 | 594 | Cozy Snaplink |
 | 281 | 591 | Crystal Hine |
-| 282 | 586 | Brian Battjes |
-| 283 | 586 | Donna |
+| 282 | 586 | Donna |
+| 283 | 586 | Brian Battjes |
 | 284 | 584 | Michael Johnson |
 | 285 | 583 | Michael Lucado |
 | 286 | 582 | FuzzyNavel |
@@ -362,8 +362,8 @@
 | 354 | 470 | Jazzy Spinfit |
 | 355 | 468 | Bigmack |
 | 356 | 467 | Danielle Rhoades |
-| 357 | 465 | Blocked |
-| 358 | 465 | Noettín Kan Zasnemoore |
+| 357 | 465 | Noettín Kan Zasnemoore |
+| 358 | 465 | Blocked |
 | 359 | 464 | Snazzy Filler |
 | 360 | 464 | Snippy Wipeout |
 | 361 | 463 | Hoài Quắt |
@@ -418,8 +418,8 @@
 | 410 | 413 | Rick Poppen |
 | 411 | 411 | Beaudie Stroebel |
 | 412 | 409 | Rich LeBlanc |
-| 413 | 408 | Tiffany Ford |
-| 414 | 408 | Ashley Muncey |
+| 413 | 408 | Ashley Muncey |
+| 414 | 408 | Tiffany Ford |
 | 415 | 407 | Christina Spa |
 | 416 | 406 | Kristen Weese |
 | 417 | 405 | Andrew Thorson |

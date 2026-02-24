@@ -51,8 +51,8 @@
 | 43 | 1497 | Juggalo |
 | 44 | 1478 | Sammy Noguera |
 | 45 | 1469 | Kimberly Love |
-| 46 | 1461 | Yoset Mejia |
-| 47 | 1461 | Shane Kalamata Platoon |
+| 46 | 1461 | Shane Kalamata Platoon |
+| 47 | 1461 | Yoset Mejia |
 | 48 | 1456 | Michelle Marie |
 | 49 | 1430 | Landon Keith Graffeo |
 | 50 | 1386 | Jen Allison |
@@ -117,8 +117,8 @@
 | 109 | 811 | Sassy Pattern |
 | 110 | 806 | Zippy Gridlock |
 | 111 | 805 | Mylo Lipscomb |
-| 112 | 802 | Crystal Carroll |
-| 113 | 802 | Denise Carlson |
+| 112 | 802 | Denise Carlson |
+| 113 | 802 | Crystal Carroll |
 | 114 | 801 | D3TROITB0RN74 |
 | 115 | 798 | Jewell Urban |
 | 116 | 784 | TheNeesh50 |
@@ -233,12 +233,12 @@
 | 225 | 482 | Laura |
 | 226 | 481 | Joanna |
 | 227 | 475 | Silly Zonebuilder |
-| 228 | 473 | Cranky Rollpiece |
-| 229 | 473 | Jolly Dashfit |
+| 228 | 473 | Jolly Dashfit |
+| 229 | 473 | Cranky Rollpiece |
 | 230 | 472 | Plucky Patternblock |
 | 231 | 465 | Leslie Thomas |
-| 232 | 464 | Calvin Cannon |
-| 233 | 464 | Zakia Monae |
+| 232 | 464 | Zakia Monae |
+| 233 | 464 | Calvin Cannon |
 | 234 | 463 | shark tato |
 | 235 | 462 | Crystal Nicolette Moore |
 | 236 | 462 | scott |
@@ -439,8 +439,8 @@
 | 431 | 277 | Silly SeaWeed |
 | 432 | 276 | Dennis Bradley |
 | 433 | 275 | Jarred Falls |
-| 434 | 274 | Cheery Fitline |
-| 435 | 274 | Kourtney Barnes |
+| 434 | 274 | Kourtney Barnes |
+| 435 | 274 | Cheery Fitline |
 | 436 | 273 | Lane Wasson |
 | 437 | 272 | ChuckBuck Copeland |
 | 438 | 271 | ImJustMe |
@@ -672,7 +672,7 @@
 | 664 | 185 | Marcela Johnson |
 | 665 | 183 | FallenStar |
 | 666 | 183 | Will Chamberlain |
-| 667 | 183 | FallenStar |
+| 667 | 183 | Elle Joe |
 | 668 | 183 | Shiny Twistpiece |
 | 669 | 183 | Dapper Caster |
 | 670 | 182 | Tamika Starkey |

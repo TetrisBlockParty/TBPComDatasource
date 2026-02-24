@@ -98,8 +98,8 @@
 | 90 | 916 | Chirpy Smasher |
 | 91 | 912 | comrade fish |
 | 92 | 904 | Fmp |
-| 93 | 898 | Dawn Sheppard |
-| 94 | 898 | Cheeky Crusher |
+| 93 | 898 | Cheeky Crusher |
+| 94 | 898 | Dawn Sheppard |
 | 95 | 892 | Seth Wesson |
 | 96 | 889 | Amanda Johnson Huffman |
 | 97 | 884 | Sevens4L |
