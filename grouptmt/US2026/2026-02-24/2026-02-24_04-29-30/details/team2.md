@@ -166,8 +166,8 @@
 | 158 | 2093 | Michele Gabriel |
 | 159 | 2068 | PsychKIRAtrist |
 | 160 | 2060 | Shameika Trail |
-| 161 | 2056 | Tonya Brooks-Johnson |
-| 162 | 2056 | Alisa Lamb |
+| 161 | 2056 | Alisa Lamb |
+| 162 | 2056 | Tonya Brooks-Johnson |
 | 163 | 2048 | Jose Mendoza |
 | 164 | 2007 | Hannah Erskine |
 | 165 | 2005 | Cody Nishimura |
@@ -652,8 +652,8 @@
 | 644 | 751 | Swanky Strikerpiece |
 | 645 | 751 | Tom Riefer |
 | 646 | 750 | Samie Dayle |
-| 647 | 749 | Trisha J Schmidt |
-| 648 | 749 | ToxicTrash |
+| 647 | 749 | ToxicTrash |
+| 648 | 749 | Trisha J Schmidt |
 | 649 | 743 | Véronique Lévesque Sabourin |
 | 650 | 743 | Gloria Ininahazwe |
 | 651 | 742 | Rhonda Petro |

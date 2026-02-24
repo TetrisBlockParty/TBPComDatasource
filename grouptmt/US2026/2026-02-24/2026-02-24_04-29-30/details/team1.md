@@ -249,8 +249,8 @@
 | 241 | 399 | Lakeisha Chapman |
 | 242 | 398 | MommaKFC |
 | 243 | 397 | Alenoush Karimian |
-| 244 | 396 | Monica Donato |
-| 245 | 396 | Sam Williams |
+| 244 | 396 | Sam Williams |
+| 245 | 396 | Monica Donato |
 | 246 | 395 | Tami Luce Martin |
 | 247 | 393 | Wisa |
 | 248 | 391 | Happy Basegrid |
@@ -274,8 +274,8 @@
 | 266 | 375 | DaRascal |
 | 267 | 374 | Snappy Brickbuilder |
 | 268 | 373 | Frothy Pattern |
-| 269 | 372 | Wayne Saunders |
-| 270 | 372 | Dizzy Party |
+| 269 | 372 | Dizzy Party |
+| 270 | 372 | Wayne Saunders |
 | 271 | 371 | Jaimie Lynn |
 | 272 | 370 | Gracie |
 | 273 | 370 | Chantelle Ceno |
@@ -352,7 +352,7 @@
 | 344 | 311 | Nathan Sealander |
 | 345 | 310 | Marci Sanders |
 | 346 | 309 | Isaiah |
-| 347 | 308 | Rico Rico |
+| 347 | 308 | Katie Martin |
 | 348 | 308 | Agustin Duarte Orozco |
 | 349 | 308 | Rico Rico |
 | 350 | 306 | Sunny Shift |

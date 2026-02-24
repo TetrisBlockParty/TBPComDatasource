@@ -80,8 +80,8 @@
 | 72 | 1003 | Destiney Carter |
 | 73 | 999 | Jeremy Steines |
 | 74 | 986 | TeeJ |
-| 75 | 985 | Shelly Chandler |
-| 76 | 985 | Shannon Ferrari |
+| 75 | 985 | Shannon Ferrari |
+| 76 | 985 | Shelly Chandler |
 | 77 | 956 | loulou |
 | 78 | 949 | Patron Anderson |
 | 79 | 941 | Chilly Line |
@@ -231,8 +231,8 @@
 | 223 | 448 | Mike Solo |
 | 224 | 447 | Jen Mattei |
 | 225 | 446 | Mr. Party |
-| 226 | 444 | Calvin Cannon |
-| 227 | 444 | Shiny Fit |
+| 226 | 444 | Shiny Fit |
+| 227 | 444 | Calvin Cannon |
 | 228 | 442 | 🥔🥔 Spudz |
 | 229 | 441 | Lush Linkfall |
 | 230 | 438 | Melvin Baird |
@@ -326,8 +326,8 @@
 | 318 | 329 | Meagan Nicole |
 | 319 | 328 | Leah Kutz Zirbel |
 | 320 | 328 | Angie Schmidt |
-| 321 | 324 | Nubian1 |
-| 322 | 324 | Vic |
+| 321 | 324 | Vic |
+| 322 | 324 | Nubian1 |
 | 323 | 322 | Bryan Hodgins |
 | 324 | 321 | Stacey Stano |
 | 325 | 321 | Heather Bruce |

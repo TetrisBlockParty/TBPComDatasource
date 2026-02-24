@@ -148,8 +148,8 @@
 | 140 | 963 | Crystal Frey |
 | 141 | 959 | Sashay Tapae Simpson |
 | 142 | 957 | mzcatzy |
-| 143 | 950 | Giddy Drop |
-| 144 | 950 | MissTaylor |
+| 143 | 950 | MissTaylor |
+| 144 | 950 | Giddy Drop |
 | 145 | 943 | Katrina Schroeder |
 | 146 | 940 | Patty Allen |
 | 147 | 940 | Stephanie Allmon |
@@ -204,16 +204,16 @@
 | 196 | 763 | Khaleada McGill Banks |
 | 197 | 760 | Kiki |
 | 198 | 757 | Fancy Cascader |
-| 199 | 755 | Laura Booth Wosko |
-| 200 | 755 | Alexmac |
+| 199 | 755 | Alexmac |
+| 200 | 755 | Laura Booth Wosko |
 | 201 | 753 | Morgan Martinez |
 | 202 | 750 | Michael Nowogorski |
 | 203 | 746 | Joye Sims Binion |
 | 204 | 742 | Jennifer Lynn Fahrenholtz-Summers |
 | 205 | 738 | Naur |
 | 206 | 736 | Elissa S-k |
-| 207 | 733 | Annie Déè |
-| 208 | 733 | Annie Marie |
+| 207 | 733 | Annie Marie |
+| 208 | 733 | Annie Déè |
 | 209 | 731 | Samantha Greco |
 | 210 | 729 | CeceGeGe |
 | 211 | 724 | LaTanya GeminiondaRise Johnson |
@@ -257,8 +257,8 @@
 | 249 | 602 | Dee Pratt |
 | 250 | 600 | Natasha Jones |
 | 251 | 600 | Connie Mohler-Fair |
-| 252 | 599 | Sherry Ogden |
-| 253 | 599 | Noyb Adam |
+| 252 | 599 | Noyb Adam |
+| 253 | 599 | Sherry Ogden |
 | 254 | 598 | Kaycee Kay |
 | 255 | 595 | Betty Rosas |
 | 256 | 588 | Salena Whitlock |
@@ -325,8 +325,8 @@
 | 317 | 481 | Tiffanie Alley |
 | 318 | 480 | Dee Franklin |
 | 319 | 480 | TLM |
-| 320 | 476 | Scott Carleton |
-| 321 | 476 | Shunta Jacobs |
+| 320 | 476 | Shunta Jacobs |
+| 321 | 476 | Scott Carleton |
 | 322 | 471 | Mendoza Lee Christy |
 | 323 | 471 | Sarah Moyer |
 | 324 | 467 | Danielle Rhoades |
