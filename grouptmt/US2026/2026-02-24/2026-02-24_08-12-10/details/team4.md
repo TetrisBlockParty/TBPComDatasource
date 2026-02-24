@@ -131,8 +131,8 @@
 | 123 | 735 | Nugget |
 | 124 | 731 | KJ Pool |
 | 125 | 729 | Jamie Mann-Deichmann |
-| 126 | 726 | Jamie Gustafson |
-| 127 | 726 | Amy Suckarieh |
+| 126 | 726 | Amy Suckarieh |
+| 127 | 726 | Jamie Gustafson |
 | 128 | 725 | Brandon Crabbs |
 | 129 | 712 | Leslie Nicole |
 | 130 | 712 | H.R. Block |
@@ -195,8 +195,8 @@
 | 187 | 534 | Lucas J Sutton |
 | 188 | 532 | Matt Summer |
 | 189 | 532 | Alan George LaRage |
-| 190 | 528 | Carly Alexis |
-| 191 | 528 | Erin Sabol |
+| 190 | 528 | Erin Sabol |
+| 191 | 528 | Carly Alexis |
 | 192 | 525 | 🥔🥔 Spudz |
 | 193 | 521 | Andy Cabral |
 | 194 | 520 | Zippy Block |
@@ -362,8 +362,8 @@
 | 354 | 319 | Jessica Fredericks |
 | 355 | 319 | Bradley Reeves |
 | 356 | 317 | Paito |
-| 357 | 317 | Madison Sweere |
-| 358 | 317 | Kim Klutz Olson |
+| 357 | 317 | Kim Klutz Olson |
+| 358 | 317 | Madison Sweere |
 | 359 | 316 | Shukee Lo |
 | 360 | 315 | Maureen Flanigan |
 | 361 | 315 | Ultramarine |
@@ -387,8 +387,8 @@
 | 379 | 300 | Jason Frehner |
 | 380 | 299 | Michael Snow |
 | 381 | 298 | Val Erie |
-| 382 | 297 | Brittany Marsh |
-| 383 | 297 | Allison Rose |
+| 382 | 297 | Allison Rose |
+| 383 | 297 | Brittany Marsh |
 | 384 | 296 | Dapper Frame |
 | 385 | 295 | Deb Rubeck |
 | 386 | 294 | Kevin Bush |

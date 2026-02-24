@@ -157,8 +157,8 @@
 | 149 | 961 | Danielle Allison |
 | 150 | 950 | MissTaylor |
 | 151 | 950 | Giddy Drop |
-| 152 | 940 | Stephanie Allmon |
-| 153 | 940 | Patty Allen |
+| 152 | 940 | Patty Allen |
+| 153 | 940 | Stephanie Allmon |
 | 154 | 936 | Dolores Falco |
 | 155 | 925 | Cherry Parker |
 | 156 | 914 | Sarajane Lokan |
@@ -328,8 +328,8 @@
 | 320 | 499 | Megan Rathmanner |
 | 321 | 496 | Brenda Schmid Wood |
 | 322 | 495 | Daring Builder |
-| 323 | 494 | MCV |
-| 324 | 494 | fraulila |
+| 323 | 494 | fraulila |
+| 324 | 494 | MCV |
 | 325 | 492 | Tasha Wesson-Torrence |
 | 326 | 490 | Cassandra Bryant |
 | 327 | 489 | Isabel Ocasio |
@@ -368,8 +368,8 @@
 | 360 | 447 | Carrie Huskey |
 | 361 | 447 | Num1hater |
 | 362 | 446 | Swanky Frame |
-| 363 | 446 | Shiny Zonebuilder |
-| 364 | 446 | Jennifer Alvey |
+| 363 | 446 | Jennifer Alvey |
+| 364 | 446 | Shiny Zonebuilder |
 | 365 | 445 | Loopy Clusterer |
 | 366 | 444 | Heather De Vries Cobb |
 | 367 | 443 | Christian Werndl |
@@ -384,8 +384,8 @@
 | 376 | 432 | Justice 4 P |
 | 377 | 431 | Goofy Fall |
 | 378 | 431 | Donna Esbensen-Alpini |
-| 379 | 430 | Quackers |
-| 380 | 430 | AlsoJess |
+| 379 | 430 | AlsoJess |
+| 380 | 430 | Quackers |
 | 381 | 428 | Skinny Baldez |
 | 382 | 428 | Samantha Lynn |
 | 383 | 427 | Darlene McMillan |
@@ -398,14 +398,14 @@
 | 390 | 418 | Rainbow77375 |
 | 391 | 416 | Tay |
 | 392 | 415 | Steffi Chris Dacones |
-| 393 | 414 | Arden White Kirsch |
-| 394 | 414 | RickyG |
+| 393 | 414 | RickyG |
+| 394 | 414 | Arden White Kirsch |
 | 395 | 413 | Rick Poppen |
 | 396 | 411 | Beaudie Stroebel |
-| 397 | 409 | Roary Danner |
-| 398 | 409 | Rich LeBlanc |
-| 399 | 408 | Tiffany Ford |
-| 400 | 408 | Ashley Muncey |
+| 397 | 409 | Rich LeBlanc |
+| 398 | 409 | Roary Danner |
+| 399 | 408 | Ashley Muncey |
+| 400 | 408 | Tiffany Ford |
 | 401 | 407 | Christina Spa |
 | 402 | 406 | Kristen Weese |
 | 403 | 405 | Andrew Thorson |
@@ -424,8 +424,8 @@
 | 416 | 391 | gremicx |
 | 417 | 391 | Rebel124 |
 | 418 | 390 | ROODBOY |
-| 419 | 389 | Amanda J. Mcneil-Anderson |
-| 420 | 389 | Kirhonda Autmon |
+| 419 | 389 | Kirhonda Autmon |
+| 420 | 389 | Amanda J. Mcneil-Anderson |
 | 421 | 387 | Brittany K Ward |
 | 422 | 386 | Geoffrey Nash |
 | 423 | 384 | Tiffany Davie |
@@ -555,7 +555,7 @@
 | 547 | 320 | Victoria Lexis Dyer |
 | 548 | 319 | Matty Ray |
 | 549 | 319 | Tracey Cox |
-| 550 | 319 | Matty Ray |
+| 550 | 319 | Moneyvybz |
 | 551 | 319 | Jayme |
 | 552 | 318 | Trey Ward |
 | 553 | 318 | Earlanda Holland |
@@ -613,7 +613,7 @@
 | 605 | 299 | Six |
 | 606 | 297 | Angel Miller |
 | 607 | 297 | Zac Hudak |
-| 608 | 297 | Angel Miller |
+| 608 | 297 | Cameo Tweed |
 | 609 | 296 | JoshAllenfan17 |
 | 610 | 295 | Omega |
 | 611 | 294 | Kita A Jackson |
@@ -640,7 +640,7 @@
 | 632 | 285 | Jumpy Wrecker |
 | 633 | 284 | Nikita Ainsworth |
 | 634 | 284 | Hanna Kim |
-| 635 | 284 | Nikita Ainsworth |
+| 635 | 284 | Maria Ramos |
 | 636 | 283 | Dirtgirl27 |
 | 637 | 282 | Cheeky Twisterfit |
 | 638 | 282 | Karla Phillips |
@@ -863,7 +863,7 @@
 | 855 | 225 | Sara McDaniel |
 | 856 | 224 | Jodi Kaczynski-O'Dowd |
 | 857 | 224 | Elaykayeewhyay Fyfield |
-| 858 | 224 | Jodi Kaczynski-O'Dowd |
+| 858 | 224 | Speedy Crusher |
 | 859 | 224 | Michael Pleasant |
 | 860 | 223 | Katelyn Dorman |
 | 861 | 223 | Jessie Chung |
