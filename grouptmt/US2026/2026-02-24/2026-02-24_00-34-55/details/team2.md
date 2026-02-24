@@ -170,8 +170,8 @@
 | 162 | 1949 | Angi Harrison |
 | 163 | 1932 | Gary Schaffner Jr. |
 | 164 | 1904 | Goofy Snapfit |
-| 165 | 1874 | Loopy Clusterbuilder |
-| 166 | 1874 | PsychKIRAtrist |
+| 165 | 1874 | PsychKIRAtrist |
+| 166 | 1874 | Loopy Clusterbuilder |
 | 167 | 1871 | Christi Hulet |
 | 168 | 1866 | Janel Turley-Garner |
 | 169 | 1864 | Alisa Lamb |

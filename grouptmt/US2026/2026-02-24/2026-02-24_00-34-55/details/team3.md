@@ -242,8 +242,8 @@
 | 234 | 574 | Trisha Balmer |
 | 235 | 572 | Tessina Dewey-Mancino |
 | 236 | 572 | Duane Bright |
-| 237 | 569 | Silly Twist |
-| 238 | 569 | Michael Johnson |
+| 237 | 569 | Michael Johnson |
+| 238 | 569 | Silly Twist |
 | 239 | 568 | Rachael McClain Owens |
 | 240 | 566 | LaTanya GeminiondaRise Johnson |
 | 241 | 564 | Poppy Splitter |
@@ -373,8 +373,8 @@
 | 365 | 382 | Tiffany Davie |
 | 366 | 381 | Christina Spa |
 | 367 | 381 | gremicx |
-| 368 | 379 | Kelly |
-| 369 | 379 | Kaitie Oliver |
+| 368 | 379 | Kaitie Oliver |
+| 369 | 379 | Kelly |
 | 370 | 378 | MsBee |
 | 371 | 377 | Hoppy Patternline |
 | 372 | 377 | Dee Franklin |
@@ -467,8 +467,8 @@
 | 459 | 321 | Sdot |
 | 460 | 320 | Kevin Russell |
 | 461 | 320 | Or Reznitsky |
-| 462 | 320 | Taylor Hood |
-| 463 | 320 | Julie Fratrik |
+| 462 | 320 | Julie Fratrik |
+| 463 | 320 | Taylor Hood |
 | 464 | 319 | Boldy Corner |
 | 465 | 318 | Rainbow77375 |
 | 466 | 318 | Christy Quick |
