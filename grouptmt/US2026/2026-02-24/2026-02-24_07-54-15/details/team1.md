@@ -491,8 +491,8 @@
 | 483 | 255 | Adan Reyes |
 | 484 | 254 | Kipoi |
 | 485 | 252 | Angela Dawn Torres-Tarrants |
-| 486 | 251 | Randy Broadwater |
-| 487 | 251 | MRdot Rooski |
+| 486 | 251 | MRdot Rooski |
+| 487 | 251 | Randy Broadwater |
 | 488 | 250 | Emmarieta Mendez |
 | 489 | 249 | Mary Cerciello |
 | 490 | 249 | Toni Sagenbrecht |
@@ -751,7 +751,7 @@
 | 743 | 164 | William Touzin |
 | 744 | 164 | Christina |
 | 745 | 164 | Paul Osborne |
-| 746 | 164 | Christina |
+| 746 | 164 | Jordan Brooks |
 | 747 | 163 | Elizabeth Coover |
 | 748 | 162 | Jay Tressler |
 | 749 | 162 | Lucinda Thacker |

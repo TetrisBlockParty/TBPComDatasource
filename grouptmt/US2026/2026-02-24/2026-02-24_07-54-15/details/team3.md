@@ -104,8 +104,8 @@
 | 96 | 1361 | Patricia Gadsden |
 | 97 | 1343 | Joey Banks |
 | 98 | 1320 | Kristie |
-| 99 | 1318 | Tiff Vs Tiffany |
-| 100 | 1318 | Diana Ibarra |
+| 99 | 1318 | Diana Ibarra |
+| 100 | 1318 | Tiff Vs Tiffany |
 | 101 | 1309 | yoyo |
 | 102 | 1297 | Shelby Michelle |
 | 103 | 1290 | JerseyJess |
@@ -172,16 +172,16 @@
 | 164 | 875 | Chasity |
 | 165 | 874 | Jessica Pineda-Lopez |
 | 166 | 871 | Rochelle Hazelett |
-| 167 | 868 | Nicole Flippo |
-| 168 | 868 | Cranky Gridder |
+| 167 | 868 | Cranky Gridder |
+| 168 | 868 | Nicole Flippo |
 | 169 | 866 | Domo Washington |
 | 170 | 864 | Sunny Rotater |
 | 171 | 862 | Santeria Trece Candles |
 | 172 | 857 | Dana Fox |
 | 173 | 856 | Dana Winters |
 | 174 | 854 | Speedy Bridger |
-| 175 | 847 | Daira Largen |
-| 176 | 847 | Daring Brickzone |
+| 175 | 847 | Daring Brickzone |
+| 176 | 847 | Daira Largen |
 | 177 | 846 | Nicole Myers |
 | 178 | 845 | Edwin Calvillo Jr. |
 | 179 | 842 | Tye Stovall |
@@ -213,8 +213,8 @@
 | 205 | 760 | Kiki |
 | 206 | 759 | Mykal Burton |
 | 207 | 757 | Fancy Cascader |
-| 208 | 755 | Colton |
-| 209 | 755 | Laura Booth Wosko |
+| 208 | 755 | Laura Booth Wosko |
+| 209 | 755 | Colton |
 | 210 | 753 | Morgan Martinez |
 | 211 | 752 | Joye Sims Binion |
 | 212 | 750 | Michael Nowogorski |
@@ -228,8 +228,8 @@
 | 220 | 715 | Karon Griffin |
 | 221 | 714 | Jenny Hrndz |
 | 222 | 713 | Stephanie Blkpep Davidson |
-| 223 | 709 | Cynthia Castros-Hampton |
-| 224 | 709 | Christine Niles |
+| 223 | 709 | Christine Niles |
+| 224 | 709 | Cynthia Castros-Hampton |
 | 225 | 708 | Stephanie Bradley |
 | 226 | 703 | Shawn Miller |
 | 227 | 691 | Tia |
@@ -298,9 +298,9 @@
 | 290 | 555 | Danielle Weikel |
 | 291 | 553 | Stephanie Burtin |
 | 292 | 552 | Scott Carleton |
-| 293 | 548 | Chris Bell |
-| 294 | 547 | Aerian Preston |
-| 295 | 546 | lashanda |
+| 293 | 547 | Aerian Preston |
+| 294 | 546 | lashanda |
+| 295 | 544 | Chris Bell |
 | 296 | 542 | France Vézina |
 | 297 | 541 | Mcathen |
 | 298 | 540 | Tanya Kittrell |
@@ -368,8 +368,8 @@
 | 360 | 447 | Carrie Huskey |
 | 361 | 447 | Num1hater |
 | 362 | 446 | Swanky Frame |
-| 363 | 446 | Jennifer Alvey |
-| 364 | 446 | Shiny Zonebuilder |
+| 363 | 446 | Shiny Zonebuilder |
+| 364 | 446 | Jennifer Alvey |
 | 365 | 445 | Loopy Clusterer |
 | 366 | 444 | Heather De Vries Cobb |
 | 367 | 443 | Christian Werndl |
@@ -418,8 +418,8 @@
 | 410 | 398 | Breezy Roll |
 | 411 | 397 | Hasty Gridpiece |
 | 412 | 393 | keni |
-| 413 | 392 | Michelle Allers |
-| 414 | 392 | Linda Draper |
+| 413 | 392 | Linda Draper |
+| 414 | 392 | Michelle Allers |
 | 415 | 391 | gremicx |
 | 416 | 391 | Rebel124 |
 | 417 | 390 | ROODBOY |
