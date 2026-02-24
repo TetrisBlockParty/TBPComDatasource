@@ -132,10 +132,10 @@
 | 124 | 704 | Austin Owens |
 | 125 | 704 | Chilly Crasher |
 | 126 | 690 | Denia Deni |
-| 127 | 682 | Jamie Gustafson |
-| 128 | 682 | Raegan Lane-Ross |
-| 129 | 667 | Matt Gooder |
-| 130 | 667 | Lindsey Gonzalez |
+| 127 | 682 | Raegan Lane-Ross |
+| 128 | 682 | Jamie Gustafson |
+| 129 | 667 | Lindsey Gonzalez |
+| 130 | 667 | Matt Gooder |
 | 131 | 664 | Leslie Nicole |
 | 132 | 662 | George Nutt |
 | 133 | 660 | Desi Desporte |
@@ -155,8 +155,8 @@
 | 147 | 602 | Cristy Duerksen |
 | 148 | 600 | Carrie Brian |
 | 149 | 599 | Adam Stephanie Parker |
-| 150 | 595 | Rodney McMath Jr. |
-| 151 | 595 | shar |
+| 150 | 595 | shar |
+| 151 | 595 | Rodney McMath Jr. |
 | 152 | 587 | YoMomma |
 | 153 | 586 | Latisha Davis |
 | 154 | 584 | Carlton Unfiltered |
@@ -236,8 +236,8 @@
 | 228 | 438 | Melvin Baird |
 | 229 | 436 | Selena Shaw |
 | 230 | 434 | Ramel Rhodes |
-| 231 | 433 | Circuit8 |
-| 232 | 433 | Damn Libra |
+| 231 | 433 | Damn Libra |
+| 232 | 433 | Circuit8 |
 | 233 | 432 | scott |
 | 234 | 431 | Manny1 |
 | 235 | 430 | Plucky Patternblock |
