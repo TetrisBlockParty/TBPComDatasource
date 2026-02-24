@@ -106,8 +106,8 @@
 | 98 | 800 | Desiree Deschaine Havee |
 | 99 | 791 | Greg Hart |
 | 100 | 781 | Ash Galvan |
-| 101 | 773 | Cartier |
-| 102 | 773 | Susanna Guerry |
+| 101 | 773 | Susanna Guerry |
+| 102 | 773 | Cartier |
 | 103 | 772 | Kathy Langham |
 | 104 | 770 | Zappy Curvetile |
 | 105 | 769 | Robert Benito |
@@ -261,12 +261,12 @@
 | 253 | 395 | Tami Luce Martin |
 | 254 | 394 | Nick R Montague |
 | 255 | 393 | Wisa |
-| 256 | 392 | Poppy Riserpiece |
-| 257 | 392 | Renee Tucker |
+| 256 | 392 | Renee Tucker |
+| 257 | 392 | Poppy Riserpiece |
 | 258 | 391 | Happy Basegrid |
 | 259 | 390 | David Lutcher |
-| 260 | 386 | Melissa Bires Hussar |
-| 261 | 386 | Angela Renea Lester |
+| 260 | 386 | Angela Renea Lester |
+| 261 | 386 | Melissa Bires Hussar |
 | 262 | 384 | Colleen Pinette |
 | 263 | 384 | Irv |
 | 264 | 383 | Margo Wagner |

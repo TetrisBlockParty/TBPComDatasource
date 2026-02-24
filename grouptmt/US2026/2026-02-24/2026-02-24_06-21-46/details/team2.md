@@ -232,8 +232,8 @@
 | 224 | 1693 | Ashley Dow |
 | 225 | 1679 | Mischelle Clay |
 | 226 | 1663 | Alex Stone LaRue |
-| 227 | 1661 | Danielle Johnson-Chandler |
-| 228 | 1661 | Scott Treadway |
+| 227 | 1661 | Scott Treadway |
+| 228 | 1661 | Danielle Johnson-Chandler |
 | 229 | 1656 | Binyah-Binyah |
 | 230 | 1655 | Glitzy Stackzone |
 | 231 | 1651 | Luna |
@@ -433,8 +433,8 @@
 | 425 | 1075 | SaraMarie Eveland |
 | 426 | 1074 | Diana Ayers |
 | 427 | 1073 | Jodi Blake |
-| 428 | 1071 | Kim Dean |
-| 429 | 1071 | Nashu |
+| 428 | 1071 | Nashu |
+| 429 | 1071 | Kim Dean |
 | 430 | 1068 | Tiffany Branham |
 | 431 | 1067 | Lourisha |
 | 432 | 1067 | Taylor Phillips |
@@ -454,8 +454,8 @@
 | 446 | 1033 | Andrea Maher |
 | 447 | 1025 | Ann Matzkanin |
 | 448 | 1024 | Tiara Elizabeth Baker |
-| 449 | 1024 | KrisCynthia Lynette |
-| 450 | 1024 | Susan Perraut Jones |
+| 449 | 1024 | Susan Perraut Jones |
+| 450 | 1024 | KrisCynthia Lynette |
 | 451 | 1018 | Eric Castaneda |
 | 452 | 1018 | Donna M Carter |
 | 453 | 1016 | Jennie Lee Huntley |
@@ -602,8 +602,8 @@
 | 594 | 823 | Rhonda Milstead |
 | 595 | 822 | KayLynn Ogden McClelland |
 | 596 | 821 | Anthony Mignacca |
-| 597 | 820 | Brenda Pierpoint |
-| 598 | 820 | Mighty Spinbuilder |
+| 597 | 820 | Mighty Spinbuilder |
+| 598 | 820 | Brenda Pierpoint |
 | 599 | 820 | Laura McCarthey |
 | 600 | 819 | BeQuo |
 | 601 | 816 | Melissa Cole |
@@ -1035,8 +1035,8 @@
 | 1027 | 557 | Anita Rose Green |
 | 1028 | 557 | Marina Linda |
 | 1029 | 556 | Kamilya Rembert |
-| 1030 | 555 | Glitzy Rollblock |
-| 1031 | 555 | Noel Tarmy |
+| 1030 | 555 | Noel Tarmy |
+| 1031 | 555 | Glitzy Rollblock |
 | 1032 | 555 | Amy Roche |
 | 1033 | 554 | Cheery Puzzler |
 | 1034 | 554 | Hoppy Glidebuilder |
