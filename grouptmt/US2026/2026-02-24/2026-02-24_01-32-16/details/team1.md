@@ -109,8 +109,8 @@
 | 101 | 706 | Plucky Fallzone |
 | 102 | 706 | Denice Dee |
 | 103 | 703 | Angel Fowler |
-| 104 | 691 | Krista Young |
-| 105 | 691 | Rachael |
+| 104 | 691 | Rachael |
+| 105 | 691 | Krista Young |
 | 106 | 690 | Melissa Lemmon |
 | 107 | 672 | Tdub |
 | 108 | 671 | Chirpy Smasher |
@@ -234,8 +234,8 @@
 | 226 | 398 | MommaKFC |
 | 227 | 396 | Sam Williams |
 | 228 | 395 | Monica Donato |
-| 229 | 393 | Lehrin Maria |
-| 230 | 393 | Wisa |
+| 229 | 393 | Wisa |
+| 230 | 393 | Lehrin Maria |
 | 231 | 389 | Howdi Duty |
 | 232 | 386 | Brian Spotts |
 | 233 | 384 | Tami Luce Martin |

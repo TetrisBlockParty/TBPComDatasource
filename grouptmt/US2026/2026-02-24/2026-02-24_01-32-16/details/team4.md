@@ -90,8 +90,8 @@
 | 82 | 865 | Carolyn Wallace |
 | 83 | 864 | Guy Incognito |
 | 84 | 861 | Peachy Fall |
-| 85 | 850 | Lucille Truesdale |
-| 86 | 850 | Lisa Davis |
+| 85 | 850 | Lisa Davis |
+| 86 | 850 | Lucille Truesdale |
 | 87 | 847 | Chilly Line |
 | 88 | 846 | Christine Marie |
 | 89 | 841 | Shauna Havard |
@@ -450,7 +450,7 @@
 | 442 | 238 | GBR |
 | 443 | 237 | Alan Zukowski |
 | 444 | 236 | The Murphy |
-| 445 | 236 | Frisky Matchgrid |
+| 445 | 236 | Michelle Morris |
 | 446 | 236 | Melissa VanBourgondien |
 | 447 | 236 | Frisky Matchgrid |
 | 448 | 235 | Bryan Hodgins |

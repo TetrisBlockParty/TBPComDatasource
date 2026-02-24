@@ -547,10 +547,10 @@
 | 539 | 815 | Shea Edison |
 | 540 | 813 | Ganieda |
 | 541 | 812 | Samantha Jo |
-| 542 | 811 | Dreamy Blast |
-| 543 | 811 | Brenda Pierpoint |
-| 544 | 809 | Lilia Gomez |
-| 545 | 809 | Melissa Cole |
+| 542 | 811 | Brenda Pierpoint |
+| 543 | 811 | Dreamy Blast |
+| 544 | 809 | Melissa Cole |
+| 545 | 809 | Lilia Gomez |
 | 546 | 808 | Justin Edwards |
 | 547 | 807 | Shaun Church |
 | 548 | 806 | Mikayala Szaz |
