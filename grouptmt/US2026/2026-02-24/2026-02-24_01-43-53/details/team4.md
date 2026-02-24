@@ -135,8 +135,8 @@
 | 127 | 662 | George Nutt |
 | 128 | 659 | Matt Gooder |
 | 129 | 658 | Zippy Gridlock |
-| 130 | 647 | KM8 |
-| 131 | 647 | Chris Hartig |
+| 130 | 647 | Chris Hartig |
+| 131 | 647 | KM8 |
 | 132 | 646 | Adawna Swires |
 | 133 | 639 | Serena Goodridge |
 | 134 | 633 | Jessica Lynn Cutlip |
@@ -260,8 +260,8 @@
 | 252 | 383 | JPW |
 | 253 | 382 | Sue Joyce Staats |
 | 254 | 381 | Rafael Valentin |
-| 255 | 380 | Rio Rocha |
-| 256 | 380 | shark tato |
+| 255 | 380 | shark tato |
+| 256 | 380 | Rio Rocha |
 | 257 | 379 | Backoff Recupe |
 | 258 | 378 | Mary Ann Pabukis |
 | 259 | 378 | Googenheim |
@@ -280,8 +280,8 @@
 | 272 | 362 | Gdiguy |
 | 273 | 360 | James Hurley Jr. |
 | 274 | 359 | KimoKoala |
-| 275 | 358 | David Lay |
-| 276 | 358 | Twisty Cascadezone |
+| 275 | 358 | Twisty Cascadezone |
+| 276 | 358 | David Lay |
 | 277 | 353 | Jen Caldwell |
 | 278 | 352 | scott |
 | 279 | 352 | Montiette Mcglown |
@@ -295,9 +295,9 @@
 | 287 | 343 | HastyGrabber |
 | 288 | 342 | Lauren Lamb |
 | 289 | 340 | Cranky Rollpiece |
-| 290 | 339 | Jason Gibbs |
-| 291 | 339 | Chance Strickland |
-| 292 | 339 | Blessedmama |
+| 290 | 339 | Blessedmama |
+| 291 | 339 | Jason Gibbs |
+| 292 | 339 | Chance Strickland |
 | 293 | 336 | Tina Lopez |
 | 294 | 334 | 23 |
 | 295 | 332 | Holly |
@@ -327,8 +327,8 @@
 | 319 | 312 | Tawna Curry |
 | 320 | 311 | Ak Jones |
 | 321 | 311 | Laura |
-| 322 | 307 | Shukee Lo |
-| 323 | 307 | Kim Klutz Olson |
+| 322 | 307 | Kim Klutz Olson |
+| 323 | 307 | Shukee Lo |
 | 324 | 306 | PeaceOs |
 | 325 | 305 | Juls |
 | 326 | 305 | Paige Kittles |

@@ -62,8 +62,8 @@
 | 54 | 1772 | Liv Whetson |
 | 55 | 1754 | Nate Burnside |
 | 56 | 1739 | Tina Kay |
-| 57 | 1734 | Aaron Pitkin |
-| 58 | 1734 | Fancy Slam |
+| 57 | 1734 | Fancy Slam |
+| 58 | 1734 | Aaron Pitkin |
 | 59 | 1732 | Jessica Ann |
 | 60 | 1724 | Jennie Beranek |
 | 61 | 1709 | Jd Morris |

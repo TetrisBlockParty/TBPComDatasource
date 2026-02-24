@@ -76,8 +76,8 @@
 | 68 | 996 | Amber Stoker |
 | 69 | 987 | TSwag |
 | 70 | 980 | Veronica Eve |
-| 71 | 966 | Francesca Gee |
-| 72 | 966 | Shalene Frederick Autrey |
+| 71 | 966 | Shalene Frederick Autrey |
+| 72 | 966 | Francesca Gee |
 | 73 | 961 | Jacqueline Williams |
 | 74 | 957 | Zippy Align |
 | 75 | 934 | Erin Hodges Plumb |
@@ -323,8 +323,8 @@
 | 315 | 322 | Christina Norman |
 | 316 | 322 | Cheeky Pop |
 | 317 | 319 | Fresno Beotoni |
-| 318 | 317 | Zany Tiler |
-| 319 | 317 | Bloknboy |
+| 318 | 317 | Bloknboy |
+| 319 | 317 | Zany Tiler |
 | 320 | 316 | Giggly Builderline |
 | 321 | 314 | Amh |
 | 322 | 312 | Diane Byrd |
