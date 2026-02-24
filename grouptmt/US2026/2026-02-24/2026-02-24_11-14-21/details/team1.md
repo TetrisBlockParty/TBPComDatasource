@@ -206,8 +206,8 @@
 | 198 | 495 | Connie |
 | 199 | 494 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 200 | 494 | Sean Stallings |
-| 201 | 493 | Speedy Liney |
-| 202 | 493 | Chuck Gannon |
+| 201 | 493 | Chuck Gannon |
+| 202 | 493 | Speedy Liney |
 | 203 | 492 | Happy Snapbuild |
 | 204 | 488 | Jessie Welch |
 | 205 | 488 | Ly Phethmany |
@@ -225,8 +225,8 @@
 | 217 | 460 | Sam Williams |
 | 218 | 458 | Goose egg |
 | 219 | 457 | Kimberly Garcia |
-| 220 | 453 | Kimmie Kimms |
-| 221 | 453 | Angela Spann |
+| 220 | 453 | Angela Spann |
+| 221 | 453 | Kimmie Kimms |
 | 222 | 449 | Tawnya Peltonen |
 | 223 | 448 | Yvonne Marie |
 | 224 | 446 | Monica Donato |
@@ -314,10 +314,10 @@
 | 306 | 367 | Cheeky Pop |
 | 307 | 366 | J.F. Fields |
 | 308 | 365 | Shannon Marie Pitts |
-| 309 | 364 | Dawn Michelle Scheible |
-| 310 | 364 | Shauna Loe |
-| 311 | 364 | Jo Kerley |
-| 312 | 364 | Tyler Hertzog |
+| 309 | 364 | Shauna Loe |
+| 310 | 364 | Dawn Michelle Scheible |
+| 311 | 364 | Tyler Hertzog |
+| 312 | 364 | Jo Kerley |
 | 313 | 363 | Shiny Gridmatch |
 | 314 | 362 | Brooke Elizabeth Antill |
 | 315 | 360 | Mandyy Rae |

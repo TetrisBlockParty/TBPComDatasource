@@ -74,8 +74,8 @@
 | 66 | 1119 | Amelpss |
 | 67 | 1109 | BertMofo |
 | 68 | 1089 | Alyssa Papen |
-| 69 | 1082 | Dion Crommarty |
-| 70 | 1082 | Avy Absol |
+| 69 | 1082 | Avy Absol |
+| 70 | 1082 | Dion Crommarty |
 | 71 | 1081 | Dustee Craddock-Harrison |
 | 72 | 1080 | Chilly Line |
 | 73 | 1069 | Heather Tushner |
@@ -154,10 +154,10 @@
 | 146 | 650 | Chris Hartig |
 | 147 | 647 | KM8 |
 | 148 | 639 | Serena Goodridge |
-| 149 | 638 | Jessica Lynn Cutlip |
-| 150 | 638 | Porkobello |
-| 151 | 635 | Kim Hunt |
-| 152 | 634 | Carrie Brian |
+| 149 | 638 | Porkobello |
+| 150 | 635 | Kim Hunt |
+| 151 | 634 | Carrie Brian |
+| 152 | 633 | Jessica Lynn Cutlip |
 | 153 | 633 | Adam Stephanie Parker |
 | 154 | 629 | Chris Baggett |
 | 155 | 623 | ku5hkween |
@@ -322,8 +322,8 @@
 | 314 | 354 | @ |
 | 315 | 354 | Perky Piecegrid |
 | 316 | 352 | Kate |
-| 317 | 351 | Jackie Clark |
-| 318 | 351 | Dana Scott |
+| 317 | 351 | Dana Scott |
+| 318 | 351 | Jackie Clark |
 | 319 | 350 | Dizzy Matchzone |
 | 320 | 349 | jim |
 | 321 | 349 | Richard-April Kice |
@@ -379,11 +379,11 @@
 | 371 | 317 | Paito |
 | 372 | 317 | Kim Klutz Olson |
 | 373 | 316 | Shukee Lo |
-| 374 | 315 | Maureen Flanigan |
-| 375 | 315 | Ultramarine |
+| 374 | 315 | Ultramarine |
+| 375 | 315 | Maureen Flanigan |
 | 376 | 314 | KoolMom9907 |
-| 377 | 314 | Marcus TheeyoungWoe Gilmore |
-| 378 | 314 | Kenna Gunderland |
+| 377 | 314 | Kenna Gunderland |
+| 378 | 314 | Marcus TheeyoungWoe Gilmore |
 | 379 | 313 | Lazy Glidepiece |
 | 380 | 312 | Tawna Curry |
 | 381 | 311 | KayM |
@@ -403,8 +403,8 @@
 | 395 | 300 | Dapper Frame |
 | 396 | 299 | Michael Snow |
 | 397 | 298 | Val Erie |
-| 398 | 297 | Allison Rose |
-| 399 | 297 | Brittany Marsh |
+| 398 | 297 | Brittany Marsh |
+| 399 | 297 | Allison Rose |
 | 400 | 296 | Deb Rubeck |
 | 401 | 294 | BootsMcGee |
 | 402 | 292 | Epic Curvetile |
@@ -562,8 +562,8 @@
 | 554 | 223 | Funky Risepiece |
 | 555 | 222 | Cozy Balancer |
 | 556 | 222 | Squeezy Pearsall |
-| 557 | 221 | Rheanda Weaskus |
-| 558 | 221 | Peppy Drop |
+| 557 | 221 | Peppy Drop |
+| 558 | 221 | Rheanda Weaskus |
 | 559 | 220 | Mighty Edgepiece |
 | 560 | 219 | Brandon Link |
 | 561 | 219 | Dapper Balancer |
@@ -873,7 +873,7 @@
 | 865 | 132 | Jessica Cagle |
 | 866 | 131 | Albert Walker III |
 | 867 | 131 | Jennifer Dineen |
-| 868 | 131 | Albert Walker III |
+| 868 | 131 | Roseanna Anderson |
 | 869 | 130 | Christina O'Dell-Ishau |
 | 870 | 129 | Angel Johnson |
 | 871 | 129 | Aloradexplora |
