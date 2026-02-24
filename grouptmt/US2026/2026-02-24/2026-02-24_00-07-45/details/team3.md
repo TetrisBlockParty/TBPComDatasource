@@ -273,8 +273,8 @@
 | 265 | 516 | Daring Brickzone |
 | 266 | 513 | PrncssPJ |
 | 267 | 512 | Marquita Sheard |
-| 268 | 508 | joz |
-| 269 | 508 | rosy |
+| 268 | 508 | rosy |
+| 269 | 508 | joz |
 | 270 | 507 | Snappy Balancer |
 | 271 | 506 | Ammmmmmy |
 | 272 | 505 | Stephanie Simpson |

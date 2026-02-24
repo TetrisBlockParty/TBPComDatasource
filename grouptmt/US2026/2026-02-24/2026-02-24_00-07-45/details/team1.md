@@ -117,8 +117,8 @@
 | 109 | 648 | Evie Khalil |
 | 110 | 642 | Mario Cab |
 | 111 | 633 | Krista Young |
-| 112 | 626 | Debbie Kane |
-| 113 | 626 | Damon J. Martin |
+| 112 | 626 | Damon J. Martin |
+| 113 | 626 | Debbie Kane |
 | 114 | 612 | femmefatale |
 | 115 | 604 | Ryan Lunnin |
 | 116 | 603 | Ty Brown |
@@ -273,8 +273,8 @@
 | 265 | 353 | Jaimie Lynn |
 | 266 | 349 | Cool Shiftsnap |
 | 267 | 348 | DoodleBug |
-| 268 | 348 | Jamie Jury |
-| 269 | 348 | John Kim |
+| 268 | 348 | John Kim |
+| 269 | 348 | Jamie Jury |
 | 270 | 347 | ParisandCory Champagne |
 | 271 | 346 | GATOR |
 | 272 | 345 | Keith Mathis |
@@ -317,8 +317,8 @@
 | 309 | 311 | Nathan Sealander |
 | 310 | 310 | Mrs.Patrica |
 | 311 | 309 | Larry Tilton |
-| 312 | 308 | LD1 |
-| 313 | 308 | Glitzy Curvebuilder |
+| 312 | 308 | Glitzy Curvebuilder |
+| 313 | 308 | LD1 |
 | 314 | 306 | Cece Ibarra |
 | 315 | 305 | Amh |
 | 316 | 305 | Chase Collinsworth |
