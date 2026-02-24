@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-24 14:04:41 UTC
+# Standings for team1 as of 2026-02-24 14:05:22 UTC
 
 **Total Participants:** 2255
 
@@ -352,10 +352,10 @@
 | 344 | 347 | Glitzy Grid |
 | 345 | 346 | Gary Gobin |
 | 346 | 346 | Tanya Banks |
-| 347 | 345 | Nathan Sealander |
-| 348 | 344 | Buttons Stemm |
-| 349 | 344 | dhardy |
-| 350 | 344 | LaFontaine Leslie |
+| 347 | 345 | LaFontaine Leslie |
+| 348 | 345 | Nathan Sealander |
+| 349 | 344 | Buttons Stemm |
+| 350 | 344 | dhardy |
 | 351 | 343 | ESC |
 | 352 | 342 | Matt Iaccheo |
 | 353 | 342 | Michael |
@@ -384,9 +384,9 @@
 | 376 | 325 | GringaLinga |
 | 377 | 325 | Mitchel White |
 | 378 | 324 | Quirky Pusher |
-| 379 | 323 | Nadine Velardo |
-| 380 | 322 | Chris65 |
-| 381 | 322 | Joe Coon |
+| 379 | 324 | Joe Coon |
+| 380 | 323 | Nadine Velardo |
+| 381 | 322 | Chris65 |
 | 382 | 322 | Hasty Columnbuilder |
 | 383 | 320 | Zany Tiler |
 | 384 | 319 | Crystal Cheresnowsky |
@@ -813,42 +813,42 @@
 | 805 | 155 | Brave Stacky |
 | 806 | 155 | Fat fred |
 | 807 | 155 | Steven Schultheis |
-| 808 | 154 | ply |
-| 809 | 154 | EverPi |
-| 810 | 154 | Althaea Frost Ambrose |
-| 811 | 154 | Tazz |
+| 808 | 155 | Jazzmin Queen |
+| 809 | 154 | ply |
+| 810 | 154 | EverPi |
+| 811 | 154 | Althaea Frost Ambrose |
 | 812 | 154 | TristansDad |
-| 813 | 153 | Tate Blondin |
-| 814 | 153 | Sherri E Woods Hess |
-| 815 | 153 | SweetSunshower |
-| 816 | 152 | Natiera Catrece |
-| 817 | 152 | Dawon Ksk Capers |
-| 818 | 152 | Cree |
-| 819 | 152 | Zhang EN |
-| 820 | 152 | 윤이나 |
-| 821 | 152 | Speedy Balancepiece |
-| 822 | 152 | Jen Justus |
-| 823 | 152 | Cozy Cascader |
-| 824 | 151 | Alex Ipad |
-| 825 | 151 | Christina Torres |
-| 826 | 151 | Mary M Brion |
+| 813 | 154 | Tazz |
+| 814 | 153 | Tate Blondin |
+| 815 | 153 | Sherri E Woods Hess |
+| 816 | 153 | SweetSunshower |
+| 817 | 152 | Natiera Catrece |
+| 818 | 152 | Dawon Ksk Capers |
+| 819 | 152 | Cree |
+| 820 | 152 | Zhang EN |
+| 821 | 152 | 윤이나 |
+| 822 | 152 | Speedy Balancepiece |
+| 823 | 152 | Jen Justus |
+| 824 | 152 | Cozy Cascader |
+| 825 | 151 | Alex Ipad |
+| 826 | 151 | Christina Torres |
 | 827 | 151 | Jodee Woods |
 | 828 | 151 | Shannon Jones |
-| 829 | 150 | Lisa Marie |
-| 830 | 150 | Ali Ward |
-| 831 | 150 | Melissa Marckini |
-| 832 | 150 | Dante Jennings |
-| 833 | 150 | Toespixe |
-| 834 | 150 | monstermutt |
-| 835 | 150 | Shannon Elizabeth |
-| 836 | 150 | Brian |
-| 837 | 149 | Jenn |
-| 838 | 149 | Sherrick Edwards |
-| 839 | 149 | nm1289 |
-| 840 | 149 | elijahbih |
-| 841 | 149 | Mary Pelley |
-| 842 | 149 | Lili Pad |
-| 843 | 149 | Jazzmin Queen |
+| 829 | 151 | Mary M Brion |
+| 830 | 150 | Lisa Marie |
+| 831 | 150 | Brian |
+| 832 | 150 | Ali Ward |
+| 833 | 150 | Melissa Marckini |
+| 834 | 150 | Dante Jennings |
+| 835 | 150 | Toespixe |
+| 836 | 150 | monstermutt |
+| 837 | 150 | Shannon Elizabeth |
+| 838 | 149 | Jenn |
+| 839 | 149 | Sherrick Edwards |
+| 840 | 149 | nm1289 |
+| 841 | 149 | elijahbih |
+| 842 | 149 | Mary Pelley |
+| 843 | 149 | Lili Pad |
 | 844 | 148 | Abusive |
 | 845 | 148 | Lin |
 | 846 | 148 | Angel Albright |
