@@ -138,8 +138,8 @@
 | 130 | 712 | Leslie Nicole |
 | 131 | 712 | H.R. Block |
 | 132 | 708 | Jacqueline Helm |
-| 133 | 704 | Austin Owens |
-| 134 | 704 | Chilly Crasher |
+| 133 | 704 | Chilly Crasher |
+| 134 | 704 | Austin Owens |
 | 135 | 682 | Raegan Lane-Ross |
 | 136 | 668 | Desi Desporte |
 | 137 | 667 | Matt Gooder |
@@ -155,8 +155,8 @@
 | 147 | 639 | Serena Goodridge |
 | 148 | 638 | Porkobello |
 | 149 | 634 | Carrie Brian |
-| 150 | 633 | Adam Stephanie Parker |
-| 151 | 633 | Jessica Lynn Cutlip |
+| 150 | 633 | Jessica Lynn Cutlip |
+| 151 | 633 | Adam Stephanie Parker |
 | 152 | 629 | Chris Baggett |
 | 153 | 628 | Kim Hunt |
 | 154 | 623 | ku5hkween |
@@ -183,8 +183,8 @@
 | 175 | 561 | Steph Marie |
 | 176 | 560 | Chastity Mitchell |
 | 177 | 558 | Marie-Pier Desjardins |
-| 178 | 552 | Angel Raya |
-| 179 | 552 | Circuit8 |
+| 178 | 552 | Circuit8 |
+| 179 | 552 | Angel Raya |
 | 180 | 550 | James Hurley Jr. |
 | 181 | 549 | Cool Towerbuilder |
 | 182 | 546 | Dizzy Tiley |

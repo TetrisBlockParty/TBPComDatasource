@@ -83,8 +83,8 @@
 | 75 | 1633 | cowboy25469 |
 | 76 | 1625 | Queen Kam |
 | 77 | 1615 | joclisa |
-| 78 | 1566 | Nerdy Riseclear |
-| 79 | 1566 | Marcie Bressler |
+| 78 | 1566 | Marcie Bressler |
+| 79 | 1566 | Nerdy Riseclear |
 | 80 | 1560 | Logan Naccarato |
 | 81 | 1555 | Snappy Glidepiece |
 | 82 | 1518 | Christine Filson |
@@ -156,8 +156,8 @@
 | 148 | 971 | Tasha Schriewer |
 | 149 | 963 | Crystal Frey |
 | 150 | 961 | Danielle Allison |
-| 151 | 950 | Giddy Drop |
-| 152 | 950 | MissTaylor |
+| 151 | 950 | MissTaylor |
+| 152 | 950 | Giddy Drop |
 | 153 | 947 | Kellie Montgomery |
 | 154 | 940 | Patty Allen |
 | 155 | 940 | Stephanie Allmon |
@@ -184,8 +184,8 @@
 | 176 | 857 | Dana Fox |
 | 177 | 856 | Dana Winters |
 | 178 | 854 | Speedy Bridger |
-| 179 | 847 | Daira Largen |
-| 180 | 847 | Daring Brickzone |
+| 179 | 847 | Daring Brickzone |
+| 180 | 847 | Daira Largen |
 | 181 | 846 | Nicole Myers |
 | 182 | 832 | Alexmac |
 | 183 | 829 | Patricia White |
@@ -207,8 +207,8 @@
 | 199 | 784 | Jone |
 | 200 | 783 | Julian Murphy |
 | 201 | 777 | Daryn Elliott |
-| 202 | 774 | Twisty Brick LT |
-| 203 | 774 | ren |
+| 202 | 774 | ren |
+| 203 | 774 | Twisty Brick LT |
 | 204 | 772 | Hasty Cascadefit |
 | 205 | 768 | Cyd061769 |
 | 206 | 766 | Tasha Gillespie |
@@ -363,10 +363,10 @@
 | 355 | 456 | Cynthia Herrmann Egland |
 | 356 | 456 | Kelly |
 | 357 | 455 | Kelly Wolf |
-| 358 | 450 | Luciana Braganca Vieira |
-| 359 | 450 | Stefanie LaPointe |
-| 360 | 449 | Lively Caster |
-| 361 | 449 | Jojo M |
+| 358 | 450 | Stefanie LaPointe |
+| 359 | 450 | Luciana Braganca Vieira |
+| 360 | 449 | Jojo M |
+| 361 | 449 | Lively Caster |
 | 362 | 447 | Carrie Huskey |
 | 363 | 447 | Num1hater |
 | 364 | 446 | Swanky Frame |
