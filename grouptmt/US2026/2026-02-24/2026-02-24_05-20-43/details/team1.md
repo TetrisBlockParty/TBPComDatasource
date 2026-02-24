@@ -108,8 +108,8 @@
 | 100 | 773 | Susanna Guerry |
 | 101 | 772 | Kathy Langham |
 | 102 | 770 | Zappy Curvetile |
-| 103 | 769 | Angel Fowler |
-| 104 | 769 | Robert Benito |
+| 103 | 769 | Robert Benito |
+| 104 | 769 | Angel Fowler |
 | 105 | 768 | Jazzy Framezone |
 | 106 | 756 | Cartier |
 | 107 | 751 | Kellie |
@@ -119,8 +119,8 @@
 | 111 | 725 | Phu ckalldems |
 | 112 | 719 | Bindi |
 | 113 | 716 | Kristi Johnson |
-| 114 | 706 | Plucky Fallzone |
-| 115 | 706 | Denice Dee |
+| 114 | 706 | Denice Dee |
+| 115 | 706 | Plucky Fallzone |
 | 116 | 702 | lil mickey |
 | 117 | 699 | cc |
 | 118 | 692 | Melissa Lemmon |
@@ -166,8 +166,8 @@
 | 158 | 548 | Luciano Moreira |
 | 159 | 547 | Sharon Reynolds |
 | 160 | 546 | Loony Fitzone |
-| 161 | 543 | Adrian Esteban |
-| 162 | 543 | Nicole Roseberry Weber |
+| 161 | 543 | Nicole Roseberry Weber |
+| 162 | 543 | Adrian Esteban |
 | 163 | 540 | Tonya Beasley |
 | 164 | 538 | .running. |
 | 165 | 537 | Stephanie Zahn |
@@ -193,8 +193,8 @@
 | 185 | 496 | Michelle Beres |
 | 186 | 494 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 187 | 494 | Sean Stallings |
-| 188 | 492 | Happy Snapbuild |
-| 189 | 492 | Rebekah LeiAnn Bonsell |
+| 188 | 492 | Rebekah LeiAnn Bonsell |
+| 189 | 492 | Happy Snapbuild |
 | 190 | 489 | Speedy Liney |
 | 191 | 488 | Ly Phethmany |
 | 192 | 488 | Jessie Welch |
@@ -278,14 +278,14 @@
 | 270 | 374 | Snappy Brickbuilder |
 | 271 | 373 | Jamie Jury |
 | 272 | 373 | Frothy Pattern |
-| 273 | 372 | Wayne Saunders |
-| 274 | 372 | Dizzy Party |
+| 273 | 372 | Dizzy Party |
+| 274 | 372 | Wayne Saunders |
 | 275 | 371 | Jaimie Lynn |
 | 276 | 370 | Chantelle Ceno |
 | 277 | 370 | Gracie |
 | 278 | 367 | Cheeky Pop |
-| 279 | 366 | J.F. Fields |
-| 280 | 366 | Danielle S Kester |
+| 279 | 366 | Danielle S Kester |
+| 280 | 366 | J.F. Fields |
 | 281 | 365 | Shannon Marie Pitts |
 | 282 | 365 | Amanda Holibaugh |
 | 283 | 364 | Shauna Loe |

@@ -198,8 +198,8 @@
 | 190 | 1872 | Janel Turley-Garner |
 | 191 | 1855 | Missie Lawson Gebhardt |
 | 192 | 1851 | Kristopher Miller |
-| 193 | 1845 | Jessie McDougald |
-| 194 | 1845 | Katrina Weston |
+| 193 | 1845 | Katrina Weston |
+| 194 | 1845 | Jessie McDougald |
 | 195 | 1840 | blarg |
 | 196 | 1829 | Mr. Street Stack |
 | 197 | 1823 | Lauren Fitzgerald Thomas |
@@ -744,8 +744,8 @@
 | 736 | 693 | CC |
 | 737 | 693 | Nessie Zamora |
 | 738 | 692 | LuckyChopstix |
-| 739 | 692 | SwampRebel |
-| 740 | 692 | AkaLefty |
+| 739 | 692 | AkaLefty |
+| 740 | 692 | SwampRebel |
 | 741 | 692 | Bubbly Snapbuild |
 | 742 | 691 | James Smith |
 | 743 | 691 | Melissa Kay Gibson |

@@ -80,8 +80,8 @@
 | 72 | 1646 | Gracie |
 | 73 | 1633 | cowboy25469 |
 | 74 | 1620 | Queen Kam |
-| 75 | 1566 | Marcie Bressler |
-| 76 | 1566 | Nerdy Riseclear |
+| 75 | 1566 | Nerdy Riseclear |
+| 76 | 1566 | Marcie Bressler |
 | 77 | 1560 | Logan Naccarato |
 | 78 | 1555 | Snappy Glidepiece |
 | 79 | 1552 | joclisa |
@@ -206,8 +206,8 @@
 | 198 | 763 | Tasha Gillespie |
 | 199 | 760 | Kiki |
 | 200 | 757 | Fancy Cascader |
-| 201 | 755 | Laura Booth Wosko |
-| 202 | 755 | Alexmac |
+| 201 | 755 | Alexmac |
+| 202 | 755 | Laura Booth Wosko |
 | 203 | 753 | Morgan Martinez |
 | 204 | 750 | Michael Nowogorski |
 | 205 | 749 | Mykal Burton |
@@ -427,10 +427,10 @@
 | 419 | 378 | Ashley Lynn Marchese |
 | 420 | 377 | Foltz Lee Kelli |
 | 421 | 377 | Hoppy Patternline |
-| 422 | 376 | Romeo |
-| 423 | 376 | Breanna Marsden |
-| 424 | 375 | TotoCherue |
-| 425 | 375 | Denise Marie |
+| 422 | 376 | Breanna Marsden |
+| 423 | 376 | Romeo |
+| 424 | 375 | Denise Marie |
+| 425 | 375 | TotoCherue |
 | 426 | 370 | Brittany |
 | 427 | 370 | Roary Danner |
 | 428 | 369 | Amber Glover |
