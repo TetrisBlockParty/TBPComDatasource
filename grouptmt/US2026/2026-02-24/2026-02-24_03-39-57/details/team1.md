@@ -45,8 +45,8 @@
 | 37 | 1408 | Amanda Summey Schoemer |
 | 38 | 1405 | Chipper Gridlock |
 | 39 | 1391 | Aaron Garnett |
-| 40 | 1334 | Tyler Alcock |
-| 41 | 1334 | june october |
+| 40 | 1334 | june october |
+| 41 | 1334 | Tyler Alcock |
 | 42 | 1321 | Drew Magnus |
 | 43 | 1284 | Marianne Louise West |
 | 44 | 1261 | Hasbro Bros |
