@@ -108,8 +108,8 @@
 | 100 | 846 | Christine Marie |
 | 101 | 840 | SAP |
 | 102 | 837 | Rica Mitchell |
-| 103 | 834 | Brittney Orengo |
-| 104 | 834 | quicksand420 |
+| 103 | 834 | quicksand420 |
+| 104 | 834 | Brittney Orengo |
 | 105 | 818 | Lori Walker |
 | 106 | 815 | Diana Houts |
 | 107 | 813 | Klo |
@@ -157,8 +157,8 @@
 | 149 | 638 | Porkobello |
 | 150 | 635 | Kim Hunt |
 | 151 | 634 | Carrie Brian |
-| 152 | 633 | Adam Stephanie Parker |
-| 153 | 633 | Jessica Lynn Cutlip |
+| 152 | 633 | Jessica Lynn Cutlip |
+| 153 | 633 | Adam Stephanie Parker |
 | 154 | 629 | Chris Baggett |
 | 155 | 623 | ku5hkween |
 | 156 | 622 | Ernest Maxwell |
@@ -254,8 +254,8 @@
 | 246 | 444 | Selena Shaw |
 | 247 | 442 | John Brunetti |
 | 248 | 441 | Lush Linkfall |
-| 249 | 438 | Melvin Baird |
-| 250 | 438 | 23 |
+| 249 | 438 | 23 |
+| 250 | 438 | Melvin Baird |
 | 251 | 435 | Chris Bernstein |
 | 252 | 434 | Ramel Rhodes |
 | 253 | 432 | scott |
@@ -320,8 +320,8 @@
 | 312 | 354 | Perky Piecegrid |
 | 313 | 354 | @ |
 | 314 | 352 | Kate |
-| 315 | 351 | Dana Scott |
-| 316 | 351 | Jackie Clark |
+| 315 | 351 | Jackie Clark |
+| 316 | 351 | Dana Scott |
 | 317 | 350 | Dizzy Matchzone |
 | 318 | 349 | Richard-April Kice |
 | 319 | 349 | jim |
