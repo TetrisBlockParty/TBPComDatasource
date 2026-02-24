@@ -76,8 +76,8 @@
 | 68 | 978 | Amber Stoker |
 | 69 | 975 | TSwag |
 | 70 | 974 | Veronica Eve |
-| 71 | 966 | Francesca Gee |
-| 72 | 966 | Shalene Frederick Autrey |
+| 71 | 966 | Shalene Frederick Autrey |
+| 72 | 966 | Francesca Gee |
 | 73 | 961 | Jacqueline Williams |
 | 74 | 951 | Zippy Align |
 | 75 | 929 | Erin Hodges Plumb |
@@ -105,8 +105,8 @@
 | 97 | 744 | Greg Hart |
 | 98 | 737 | Karin Gillen |
 | 99 | 722 | Kellie |
-| 100 | 706 | Denice Dee |
-| 101 | 706 | Plucky Fallzone |
+| 100 | 706 | Plucky Fallzone |
+| 101 | 706 | Denice Dee |
 | 102 | 703 | Angel Fowler |
 | 103 | 691 | Rachael |
 | 104 | 683 | Melissa Lemmon |
@@ -117,8 +117,8 @@
 | 109 | 648 | Evie Khalil |
 | 110 | 642 | Mario Cab |
 | 111 | 633 | Krista Young |
-| 112 | 626 | Debbie Kane |
-| 113 | 626 | Damon J. Martin |
+| 112 | 626 | Damon J. Martin |
+| 113 | 626 | Debbie Kane |
 | 114 | 612 | femmefatale |
 | 115 | 604 | Ryan Lunnin |
 | 116 | 603 | Ty Brown |
@@ -386,7 +386,7 @@
 | 378 | 272 | Lyn Sibayan |
 | 379 | 272 | Renee Tucker |
 | 380 | 271 | Patty Lavigne Craddock |
-| 381 | 271 | Amanda Wharton |
+| 381 | 271 | Al Smith Jr |
 | 382 | 271 | Mighty Shatterfit |
 | 383 | 271 | Amanda Wharton |
 | 384 | 270 | Brenda Alexander |

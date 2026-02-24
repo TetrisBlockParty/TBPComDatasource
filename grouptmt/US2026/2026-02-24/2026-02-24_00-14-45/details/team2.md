@@ -303,8 +303,8 @@
 | 295 | 1264 | Missie Lawson Gebhardt |
 | 296 | 1260 | Roman Lavochnik |
 | 297 | 1259 | Foxxo |
-| 298 | 1257 | Megan Garrick |
-| 299 | 1257 | Megan Ferguson Leone |
+| 298 | 1257 | Megan Ferguson Leone |
+| 299 | 1257 | Megan Garrick |
 | 300 | 1254 | Amber Brion |
 | 301 | 1241 | Jackie Lucas |
 | 302 | 1239 | Christina Walker |
@@ -777,8 +777,8 @@
 | 769 | 611 | Robin L. Vial |
 | 770 | 610 | Kristie Wilcox |
 | 771 | 610 | Katie Marie |
-| 772 | 607 | Slip |
-| 773 | 607 | Dizzy Zone |
+| 772 | 607 | Dizzy Zone |
+| 773 | 607 | Slip |
 | 774 | 605 | Mandi Marie Smith |
 | 775 | 605 | Klaudia Figaszewska |
 | 776 | 605 | Jermaine Harris |

@@ -260,8 +260,8 @@
 | 252 | 376 | Nig |
 | 253 | 374 | Ari Droff |
 | 254 | 372 | Aden Moss |
-| 255 | 371 | TRCuse |
-| 256 | 371 | Joeliecea Cobb |
+| 255 | 371 | Joeliecea Cobb |
+| 256 | 371 | TRCuse |
 | 257 | 369 | Matt Dell'Olio |
 | 258 | 368 | Kris Bartlett |
 | 259 | 367 | Meg |
