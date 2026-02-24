@@ -148,15 +148,15 @@
 | 140 | 619 | April Rondinone |
 | 141 | 618 | Ernest Maxwell |
 | 142 | 616 | Samantha Peterson |
-| 143 | 615 | Kim Hunt |
-| 144 | 615 | Angelito |
+| 143 | 615 | Angelito |
+| 144 | 615 | Kim Hunt |
 | 145 | 611 | Chris Baggett |
 | 146 | 608 | Swanky Fitline |
 | 147 | 602 | Cristy Duerksen |
 | 148 | 600 | Carrie Brian |
 | 149 | 599 | Adam Stephanie Parker |
-| 150 | 595 | shar |
-| 151 | 595 | Rodney McMath Jr. |
+| 150 | 595 | Rodney McMath Jr. |
+| 151 | 595 | shar |
 | 152 | 587 | YoMomma |
 | 153 | 586 | Cursed Hag |
 | 154 | 586 | Latisha Davis |
@@ -187,12 +187,12 @@
 | 179 | 521 | Andy Cabral |
 | 180 | 520 | Zippy Block |
 | 181 | 520 | Oscar Alberto Perez |
-| 182 | 516 | Trish |
+| 182 | 516 | Nick Gray |
 | 183 | 516 | Twisty Clicky |
-| 184 | 516 | Nick Gray |
+| 184 | 516 | Trish |
 | 185 | 513 | Erin Thomas |
-| 186 | 512 | Casey Jeffcoat |
-| 187 | 512 | ThaEviLJeNiuZ |
+| 186 | 512 | ThaEviLJeNiuZ |
+| 187 | 512 | Casey Jeffcoat |
 | 188 | 512 | Ellen Durfee |
 | 189 | 509 | Mimi |
 | 190 | 508 | Zesty Twistbuilder |
@@ -203,8 +203,8 @@
 | 195 | 499 | Sharyn Lemire |
 | 196 | 499 | Kesha Brady |
 | 197 | 499 | Christina Black |
-| 198 | 496 | Lori |
-| 199 | 496 | Jessica Bohlken |
+| 198 | 496 | Jessica Bohlken |
+| 199 | 496 | Lori |
 | 200 | 495 | Joeliecea Cobb |
 | 201 | 493 | Amanda Pauldo-Ivy |
 | 202 | 481 | Joanna |
@@ -215,8 +215,8 @@
 | 207 | 473 | Cranky Rollpiece |
 | 208 | 473 | Jolly Dashfit |
 | 209 | 465 | June Hoffman |
-| 210 | 462 | Crystal Nicolette Moore |
-| 211 | 462 | Leslie Thomas |
+| 210 | 462 | Leslie Thomas |
+| 211 | 462 | Crystal Nicolette Moore |
 | 212 | 461 | TRCuse |
 | 213 | 460 | Kathy Brookins |
 | 214 | 457 | Kristin Manee |

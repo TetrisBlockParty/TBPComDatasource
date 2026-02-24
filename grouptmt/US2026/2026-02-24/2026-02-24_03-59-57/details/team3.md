@@ -127,8 +127,8 @@
 | 119 | 1084 | Santana Lantana |
 | 120 | 1082 | Valerie Gendron |
 | 121 | 1067 | DaBigGuy |
-| 122 | 1066 | Demetrious Shaw Sr. |
-| 123 | 1066 | Jennifer |
+| 122 | 1066 | Jennifer |
+| 123 | 1066 | Demetrious Shaw Sr. |
 | 124 | 1065 | Rachel |
 | 125 | 1055 | Christine Trester |
 | 126 | 1050 | Sherika C. McDaniels |
@@ -181,8 +181,8 @@
 | 173 | 820 | Brenda Lee Vander Molen |
 | 174 | 817 | Niki Dalrymple |
 | 175 | 815 | Justin Ritter |
-| 176 | 804 | Gideon Walker |
-| 177 | 804 | Alaina Lee |
+| 176 | 804 | Alaina Lee |
+| 177 | 804 | Gideon Walker |
 | 178 | 800 | Lauren Girouard |
 | 179 | 792 | Rachel Grant |
 | 180 | 790 | JessDrown |
@@ -474,8 +474,8 @@
 | 466 | 340 | Erika Thornton |
 | 467 | 340 | Becca Engle |
 | 468 | 340 | Kerry Nowickshere |
-| 469 | 338 | Loony Slider |
-| 470 | 338 | Michael Leblanc |
+| 469 | 338 | Michael Leblanc |
+| 470 | 338 | Loony Slider |
 | 471 | 337 | Mindy Phelps |
 | 472 | 337 | Evelyn Ortega |
 | 473 | 336 | Saucy Buildout |

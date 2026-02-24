@@ -117,8 +117,8 @@
 | 109 | 719 | Bindi |
 | 110 | 716 | Kristi Johnson |
 | 111 | 711 | Debbie Kane |
-| 112 | 706 | Plucky Fallzone |
-| 113 | 706 | Denice Dee |
+| 112 | 706 | Denice Dee |
+| 113 | 706 | Plucky Fallzone |
 | 114 | 702 | lil mickey |
 | 115 | 699 | cc |
 | 116 | 693 | Jason Cox |
@@ -181,10 +181,10 @@
 | 173 | 513 | Colena Davenport |
 | 174 | 511 | MomMom |
 | 175 | 510 | Rat666 |
-| 176 | 497 | Steve Schneider |
-| 177 | 497 | MIKOZ |
-| 178 | 496 | Michelle Beres |
-| 179 | 496 | Sarah Somers Gray |
+| 176 | 497 | MIKOZ |
+| 177 | 497 | Steve Schneider |
+| 178 | 496 | Sarah Somers Gray |
+| 179 | 496 | Michelle Beres |
 | 180 | 494 | Sean Stallings |
 | 181 | 492 | Rebekah LeiAnn Bonsell |
 | 182 | 492 | Jennifer Hardman |
@@ -310,8 +310,8 @@
 | 302 | 342 | Marianita Garcia |
 | 303 | 342 | Matt Iaccheo |
 | 304 | 341 | Nick R Montague |
-| 305 | 340 | Danielle Little-Daugherty |
-| 306 | 340 | Robert |
+| 305 | 340 | Robert |
+| 306 | 340 | Danielle Little-Daugherty |
 | 307 | 338 | Tipsy Builder |
 | 308 | 338 | Layzietyme |
 | 309 | 336 | Sarah Roberts |
