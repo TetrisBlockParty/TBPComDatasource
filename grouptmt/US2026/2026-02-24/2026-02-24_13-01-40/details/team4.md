@@ -122,8 +122,8 @@
 | 114 | 802 | Crystal Carroll |
 | 115 | 801 | D3TROITB0RN74 |
 | 116 | 784 | TheNeesh50 |
-| 117 | 781 | Savannah Overdorf |
-| 118 | 781 | Brittney Griggs |
+| 117 | 781 | Brittney Griggs |
+| 118 | 781 | Savannah Overdorf |
 | 119 | 779 | Nope Young |
 | 120 | 777 | Chris Alexinas |
 | 121 | 768 | Trista Leah |
@@ -286,8 +286,8 @@
 | 278 | 410 | Lindsay Ball |
 | 279 | 410 | KimoKoala |
 | 280 | 409 | Antony Dwayne Beasley |
-| 281 | 408 | Neirrah B Olailjeel |
-| 282 | 408 | Dihcheese444 |
+| 281 | 408 | Dihcheese444 |
+| 282 | 408 | Neirrah B Olailjeel |
 | 283 | 407 | Hyper Builder |
 | 284 | 402 | Maria Hammie |
 | 285 | 402 | Nita Wells |

@@ -111,8 +111,8 @@
 | 103 | 1311 | JerseyJess |
 | 104 | 1309 | yoyo |
 | 105 | 1297 | Shelby Michelle |
-| 106 | 1282 | Amanda L Baker |
-| 107 | 1282 | Peppy Shifter |
+| 106 | 1282 | Peppy Shifter |
+| 107 | 1282 | Amanda L Baker |
 | 108 | 1280 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1251 | Suzieq |
@@ -169,8 +169,8 @@
 | 161 | 928 | Edwin Calvillo Jr. |
 | 162 | 927 | Rochelle Hazelett |
 | 163 | 925 | Cherry Parker |
-| 164 | 914 | BadManSheLove |
-| 165 | 914 | Staci George Fitzsimmons |
+| 164 | 914 | Staci George Fitzsimmons |
+| 165 | 914 | BadManSheLove |
 | 166 | 910 | opf |
 | 167 | 906 | Patti Skiles |
 | 168 | 899 | Jaime Monhaut-Reed |
@@ -182,8 +182,8 @@
 | 174 | 876 | Kiki |
 | 175 | 875 | Chasity |
 | 176 | 874 | Jessica Pineda-Lopez |
-| 177 | 868 | Cranky Gridder |
-| 178 | 868 | Nicole Flippo |
+| 177 | 868 | Nicole Flippo |
+| 178 | 868 | Cranky Gridder |
 | 179 | 866 | Domo Washington |
 | 180 | 862 | Santeria Trece Candles |
 | 181 | 858 | Nicole Myers |
@@ -270,8 +270,8 @@
 | 262 | 637 | Giddy Twistbuilder |
 | 263 | 636 | Salena Whitlock |
 | 264 | 635 | Amber Hughes |
-| 265 | 633 | Jillian Symons |
-| 266 | 633 | Rebecca Funderburk Kirby |
+| 265 | 633 | Rebecca Funderburk Kirby |
+| 266 | 633 | Jillian Symons |
 | 267 | 632 | Rebecca Bailey |
 | 268 | 629 | rnr junky |
 | 269 | 627 | Louise Stacy Sisson |
@@ -2019,7 +2019,7 @@
 | 2011 | 74 | Ann Smith |
 | 2012 | 74 | Giddy Patternbuilder |
 | 2013 | 74 | Swanky Lifter |
-| 2014 | 74 | Giddy Patternbuilder |
+| 2014 | 74 | Dsay Yates |
 | 2015 | 74 | Emily Jane |
 | 2016 | 74 | Magnificent |
 | 2017 | 74 | EBZIE0891 |

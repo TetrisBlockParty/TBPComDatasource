@@ -121,8 +121,8 @@
 | 113 | 2876 | John Rodriguez |
 | 114 | 2851 | Erica Williams |
 | 115 | 2840 | F-X |
-| 116 | 2823 | Dawn Geist-Weasner |
-| 117 | 2823 | Angela Lynn |
+| 116 | 2823 | Angela Lynn |
+| 117 | 2823 | Dawn Geist-Weasner |
 | 118 | 2777 | Zappy Cascade |
 | 119 | 2765 | Shameika Trail |
 | 120 | 2758 | Nickole Andrews |
@@ -364,8 +364,8 @@
 | 356 | 1262 | Toni Roberson |
 | 357 | 1261 | Becca Coronado |
 | 358 | 1259 | AkaLefty |
-| 359 | 1257 | Megan Garrick |
-| 360 | 1257 | Megan Ferguson Leone |
+| 359 | 1257 | Megan Ferguson Leone |
+| 360 | 1257 | Megan Garrick |
 | 361 | 1257 | Jackie Lucas |
 | 362 | 1256 | Phil J. Grombliniak |
 | 363 | 1256 | Belle |
@@ -375,8 +375,8 @@
 | 367 | 1252 | Brainy Smurf |
 | 368 | 1249 | Tristan Szolek |
 | 369 | 1247 | LaKisha Anderson |
-| 370 | 1245 | DefaultUser |
-| 371 | 1245 | Angel Hunnewell |
+| 370 | 1245 | Angel Hunnewell |
+| 371 | 1245 | DefaultUser |
 | 372 | 1237 | Christine Coughlin |
 | 373 | 1237 | Cheech Dta |
 | 374 | 1233 | Shannon Joslin |
@@ -404,8 +404,8 @@
 | 396 | 1176 | Misti Markijohn |
 | 397 | 1173 | Giggy Blocker |
 | 398 | 1173 | Cindy Sechler Taninecz |
-| 399 | 1172 | Min |
-| 400 | 1172 | Lakeysha Dortch |
+| 399 | 1172 | Lakeysha Dortch |
+| 400 | 1172 | Min |
 | 401 | 1171 | Loretta Brewer-Gage |
 | 402 | 1170 | Shelley Thornburgh Wright |
 | 403 | 1163 | Sarah DeHart |
@@ -871,8 +871,8 @@
 | 863 | 666 | Laura Mclean |
 | 864 | 665 | Zak Dunn |
 | 865 | 664 | Jarboe |
-| 866 | 664 | Trista Carter |
-| 867 | 664 | Julie Hamilton |
+| 866 | 664 | Julie Hamilton |
+| 867 | 664 | Trista Carter |
 | 868 | 663 | Christy Long |
 | 869 | 663 | snkylnk |
 | 870 | 662 | Niceday |
@@ -911,8 +911,8 @@
 | 903 | 644 | Kevin Luu |
 | 904 | 643 | Rae Rae |
 | 905 | 642 | Lewis Sturgeon |
-| 906 | 641 | Snappy Faller |
-| 907 | 641 | Happy Tile |
+| 906 | 641 | Happy Tile |
+| 907 | 641 | Snappy Faller |
 | 908 | 640 | Taylor Flowers |
 | 909 | 639 | Shindee |
 | 910 | 639 | Tina Marie |

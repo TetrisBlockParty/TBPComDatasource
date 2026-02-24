@@ -187,8 +187,8 @@
 | 179 | 545 | .running. |
 | 180 | 544 | Sean Stallings |
 | 181 | 543 | Nicole Roseberry Weber |
-| 182 | 542 | BadG52 |
-| 183 | 542 | Ly Phethmany |
+| 182 | 542 | Ly Phethmany |
+| 183 | 542 | BadG52 |
 | 184 | 541 | Snippy Wipebuilder |
 | 185 | 539 | Tana |
 | 186 | 535 | Plucky Ziggy |
@@ -230,14 +230,14 @@
 | 222 | 466 | Lori Bales |
 | 223 | 460 | Sam Williams |
 | 224 | 458 | Goose egg |
-| 225 | 453 | Angela Spann |
-| 226 | 453 | Kimmie Kimms |
-| 227 | 453 | Chantelle Ceno |
+| 225 | 453 | Kimmie Kimms |
+| 226 | 453 | Chantelle Ceno |
+| 227 | 453 | Angela Spann |
 | 228 | 449 | Tawnya Peltonen |
 | 229 | 448 | Yvonne Marie |
 | 230 | 447 | Monica Donato |
-| 231 | 446 | Spencer Lent |
-| 232 | 446 | SkipTheSadSauce |
+| 231 | 446 | SkipTheSadSauce |
+| 232 | 446 | Spencer Lent |
 | 233 | 444 | Angela Renea Lester |
 | 234 | 441 | Billie Ann Eason |
 | 235 | 439 | David Miller |
@@ -303,8 +303,8 @@
 | 295 | 379 | Austin James |
 | 296 | 378 | Eddie Dillon |
 | 297 | 377 | GATOR |
-| 298 | 376 | Brian Richardsson |
-| 299 | 376 | Sassy Builderline |
+| 298 | 376 | Sassy Builderline |
+| 299 | 376 | Brian Richardsson |
 | 300 | 374 | Snappy Brickbuilder |
 | 301 | 372 | Strig |
 | 302 | 372 | Dizzy Party |
@@ -553,8 +553,8 @@
 | 545 | 236 | Marie White |
 | 546 | 236 | whocares |
 | 547 | 236 | Lark |
-| 548 | 235 | Miguel Teixeira |
-| 549 | 235 | Sabrina Coleman |
+| 548 | 235 | Sabrina Coleman |
+| 549 | 235 | Miguel Teixeira |
 | 550 | 235 | Nutty Glide |
 | 551 | 234 | Burnnetter Sisk |
 | 552 | 234 | Aaron Green |
