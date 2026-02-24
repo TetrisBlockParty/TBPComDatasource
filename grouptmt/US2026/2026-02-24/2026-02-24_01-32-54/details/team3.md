@@ -591,8 +591,8 @@
 | 583 | 275 | Mariah Williams |
 | 584 | 275 | Bnoom |
 | 585 | 274 | Gina Marie |
-| 586 | 273 | Kevin Fountain |
-| 587 | 273 | Jason |
+| 586 | 273 | Jason |
+| 587 | 273 | Kevin Fountain |
 | 588 | 273 | Michael Latasha Gray |
 | 589 | 272 | James Lykes |
 | 590 | 272 | Todd Hall |
