@@ -80,8 +80,8 @@
 | 72 | 1003 | Destiney Carter |
 | 73 | 999 | Jeremy Steines |
 | 74 | 986 | TeeJ |
-| 75 | 985 | Shelly Chandler |
-| 76 | 985 | Shannon Ferrari |
+| 75 | 985 | Shannon Ferrari |
+| 76 | 985 | Shelly Chandler |
 | 77 | 956 | loulou |
 | 78 | 949 | Patron Anderson |
 | 79 | 941 | Chilly Line |
@@ -180,8 +180,8 @@
 | 172 | 538 | Steph Marie |
 | 173 | 537 | Scott Jameson |
 | 174 | 535 | Berklie Apedaile |
-| 175 | 532 | Alan George LaRage |
-| 176 | 532 | Matt Summer |
+| 175 | 532 | Matt Summer |
+| 176 | 532 | Alan George LaRage |
 | 177 | 528 | Erin Sabol |
 | 178 | 525 | Lucas J Sutton |
 | 179 | 522 | Carly Alexis |

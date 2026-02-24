@@ -127,8 +127,8 @@
 | 119 | 1084 | Santana Lantana |
 | 120 | 1082 | Valerie Gendron |
 | 121 | 1067 | DaBigGuy |
-| 122 | 1066 | Demetrious Shaw Sr. |
-| 123 | 1066 | Jennifer |
+| 122 | 1066 | Jennifer |
+| 123 | 1066 | Demetrious Shaw Sr. |
 | 124 | 1065 | Rachel |
 | 125 | 1055 | Christine Trester |
 | 126 | 1050 | Sherika C. McDaniels |
@@ -496,8 +496,8 @@
 | 488 | 330 | Willow |
 | 489 | 330 | Christy Quick |
 | 490 | 330 | Emma |
-| 491 | 329 | Krystal Gerstberger |
-| 492 | 329 | Sharisse Baltimore |
+| 491 | 329 | Sharisse Baltimore |
+| 492 | 329 | Krystal Gerstberger |
 | 493 | 329 | Erykah |
 | 494 | 329 | Jalissa Monique |
 | 495 | 328 | Cesar Mendez |
