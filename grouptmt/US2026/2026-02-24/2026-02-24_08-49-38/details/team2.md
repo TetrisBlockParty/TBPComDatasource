@@ -267,8 +267,8 @@
 | 259 | 1558 | Tim Dyer |
 | 260 | 1557 | Poppy Snap |
 | 261 | 1556 | Julay |
-| 262 | 1553 | Sarah Freitas |
-| 263 | 1553 | Wendy Unsain |
+| 262 | 1553 | Wendy Unsain |
+| 263 | 1553 | Sarah Freitas |
 | 264 | 1553 | Boldy Cascadepiece |
 | 265 | 1552 | Mcintosh Brian Shalonda |
 | 266 | 1539 | Nadia Batista Garcia |
@@ -281,8 +281,8 @@
 | 273 | 1480 | Dimitra Zazara |
 | 274 | 1479 | Pacynthia Williams |
 | 275 | 1478 | Misty Walker |
-| 276 | 1477 | Hillary Crawford |
-| 277 | 1477 | Prado |
+| 276 | 1477 | Prado |
+| 277 | 1477 | Hillary Crawford |
 | 278 | 1469 | Carrie Trigg |
 | 279 | 1463 | Yvonne Wharton |
 | 280 | 1459 | Shiny Rollzone |
@@ -358,8 +358,8 @@
 | 350 | 1264 | Mama T |
 | 351 | 1261 | Becca Coronado |
 | 352 | 1257 | Jackie Lucas |
-| 353 | 1257 | Megan Garrick |
-| 354 | 1257 | Megan Ferguson Leone |
+| 353 | 1257 | Megan Ferguson Leone |
+| 354 | 1257 | Megan Garrick |
 | 355 | 1256 | Belle |
 | 356 | 1254 | Erika Densmore |
 | 357 | 1252 | AgileDragon |
@@ -540,8 +540,8 @@
 | 532 | 925 | Cris cris |
 | 533 | 923 | Chevy |
 | 534 | 922 | Butta |
-| 535 | 921 | Elisheva Mizrachi |
-| 536 | 921 | Dannette Goldberg-Richards |
+| 535 | 921 | Dannette Goldberg-Richards |
+| 536 | 921 | Elisheva Mizrachi |
 | 537 | 920 | Arwa Fatimah |
 | 538 | 919 | Isaac Trappiel IV |
 | 539 | 918 | Draizen Montrell Thomas |
@@ -645,8 +645,8 @@
 | 637 | 798 | Daniell Martinez |
 | 638 | 797 | Moist_B-hole |
 | 639 | 796 | Brianna Cerney |
-| 640 | 795 | Aletha Williams |
-| 641 | 795 | Alexandra Weir |
+| 640 | 795 | Alexandra Weir |
+| 641 | 795 | Aletha Williams |
 | 642 | 793 | Heather Anspaugh |
 | 643 | 792 | Beatboxxer |
 | 644 | 789 | De'Jah Charncey |
