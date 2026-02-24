@@ -105,8 +105,8 @@
 | 97 | 744 | Greg Hart |
 | 98 | 737 | Karin Gillen |
 | 99 | 722 | Kellie |
-| 100 | 706 | Denice Dee |
-| 101 | 706 | Plucky Fallzone |
+| 100 | 706 | Plucky Fallzone |
+| 101 | 706 | Denice Dee |
 | 102 | 703 | Angel Fowler |
 | 103 | 691 | Rachael |
 | 104 | 690 | Melissa Lemmon |
@@ -214,8 +214,8 @@
 | 206 | 419 | John J. Cronin |
 | 207 | 417 | Jessie Lynn |
 | 208 | 416 | Jessica Sheehan |
-| 209 | 412 | Witty Builderfit |
-| 210 | 412 | Connie |
+| 209 | 412 | Connie |
+| 210 | 412 | Witty Builderfit |
 | 211 | 408 | Lindsay Glover |
 | 212 | 407 | Ananda Mendez |
 | 213 | 404 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
@@ -245,8 +245,8 @@
 | 237 | 380 | Bindi |
 | 238 | 380 | Snippy Wipebuilder |
 | 239 | 379 | Austin James |
-| 240 | 376 | Brian Richardsson |
-| 241 | 376 | Sassy Builderline |
+| 240 | 376 | Sassy Builderline |
+| 241 | 376 | Brian Richardsson |
 | 242 | 375 | DaRascal |
 | 243 | 373 | Frothy Pattern |
 | 244 | 372 | Dizzy Party |
@@ -265,9 +265,9 @@
 | 257 | 361 | Danielle S Kester |
 | 258 | 359 | Jo Kerley |
 | 259 | 358 | Tipsy Strikerpiece |
-| 260 | 357 | Teri Oehlke |
-| 261 | 357 | Shiny Snapfit |
-| 262 | 357 | Paula Martin |
+| 260 | 357 | Paula Martin |
+| 261 | 357 | Teri Oehlke |
+| 262 | 357 | Shiny Snapfit |
 | 263 | 356 | Tyler Hertzog |
 | 264 | 354 | GATOR |
 | 265 | 354 | Kimberly Davis |
