@@ -98,8 +98,8 @@
 | 90 | 791 | Guy Incognito |
 | 91 | 787 | Jason Hart |
 | 92 | 781 | Brittney Griggs |
-| 93 | 775 | TheNeesh50 |
-| 94 | 775 | Klo |
+| 93 | 775 | Klo |
+| 94 | 775 | TheNeesh50 |
 | 95 | 769 | Yoset Mejia |
 | 96 | 768 | Lori Walker |
 | 97 | 768 | Trista Leah |

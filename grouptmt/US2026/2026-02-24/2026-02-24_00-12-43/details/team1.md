@@ -76,8 +76,8 @@
 | 68 | 978 | Amber Stoker |
 | 69 | 975 | TSwag |
 | 70 | 974 | Veronica Eve |
-| 71 | 966 | Francesca Gee |
-| 72 | 966 | Shalene Frederick Autrey |
+| 71 | 966 | Shalene Frederick Autrey |
+| 72 | 966 | Francesca Gee |
 | 73 | 961 | Jacqueline Williams |
 | 74 | 951 | Zippy Align |
 | 75 | 929 | Erin Hodges Plumb |
@@ -122,8 +122,8 @@
 | 114 | 612 | femmefatale |
 | 115 | 604 | Ryan Lunnin |
 | 116 | 603 | Ty Brown |
-| 117 | 601 | Phu ckalldems |
-| 118 | 601 | Evan Richmond |
+| 117 | 601 | Evan Richmond |
+| 118 | 601 | Phu ckalldems |
 | 119 | 598 | Jessi Sauer |
 | 120 | 594 | Basment Living |
 | 121 | 591 | Giddy Cascade |

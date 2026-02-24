@@ -169,8 +169,8 @@
 | 161 | 1940 | Michelle Lee |
 | 162 | 1932 | Gary Schaffner Jr. |
 | 163 | 1904 | Goofy Snapfit |
-| 164 | 1874 | Loopy Clusterbuilder |
-| 165 | 1874 | PsychKIRAtrist |
+| 164 | 1874 | PsychKIRAtrist |
+| 165 | 1874 | Loopy Clusterbuilder |
 | 166 | 1871 | Christi Hulet |
 | 167 | 1866 | Janel Turley-Garner |
 | 168 | 1863 | Heather Westrum |
