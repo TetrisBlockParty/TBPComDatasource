@@ -80,8 +80,8 @@
 | 72 | 1646 | Gracie |
 | 73 | 1633 | cowboy25469 |
 | 74 | 1620 | Queen Kam |
-| 75 | 1566 | Nerdy Riseclear |
-| 76 | 1566 | Marcie Bressler |
+| 75 | 1566 | Marcie Bressler |
+| 76 | 1566 | Nerdy Riseclear |
 | 77 | 1560 | Logan Naccarato |
 | 78 | 1555 | Snappy Glidepiece |
 | 79 | 1552 | joclisa |
@@ -129,8 +129,8 @@
 | 121 | 1084 | Santana Lantana |
 | 122 | 1082 | Valerie Gendron |
 | 123 | 1067 | DaBigGuy |
-| 124 | 1066 | Demetrious Shaw Sr. |
-| 125 | 1066 | Jennifer |
+| 124 | 1066 | Jennifer |
+| 125 | 1066 | Demetrious Shaw Sr. |
 | 126 | 1065 | Rachel |
 | 127 | 1058 | Katrina Schroeder |
 | 128 | 1055 | Christine Trester |
@@ -186,8 +186,8 @@
 | 178 | 821 | Kammy Hill |
 | 179 | 817 | Niki Dalrymple |
 | 180 | 815 | Justin Ritter |
-| 181 | 804 | Gideon Walker |
-| 182 | 804 | Alaina Lee |
+| 181 | 804 | Alaina Lee |
+| 182 | 804 | Gideon Walker |
 | 183 | 800 | Lauren Girouard |
 | 184 | 799 | Trisha Balmer |
 | 185 | 792 | Rachel Grant |

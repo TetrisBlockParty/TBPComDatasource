@@ -426,7 +426,7 @@
 | 418 | 266 | Happy Combo |
 | 419 | 265 | Degenerate |
 | 420 | 265 | Christine Therrien |
-| 421 | 265 | Degenerate |
+| 421 | 265 | Lorena Guerrero-Barron |
 | 422 | 264 | Shh |
 | 423 | 263 | Laurmarcar |
 | 424 | 262 | Lilya Troutman |
