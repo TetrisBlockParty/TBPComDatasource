@@ -235,8 +235,8 @@
 | 227 | 1534 | Rosa Franklin |
 | 228 | 1530 | Mischelle Clay |
 | 229 | 1525 | Catina Hutchison |
-| 230 | 1509 | Whitney Nicole Waterman |
-| 231 | 1509 | Stacey Clement |
+| 230 | 1509 | Stacey Clement |
+| 231 | 1509 | Whitney Nicole Waterman |
 | 232 | 1507 | Kiok |
 | 233 | 1498 | Isabela Shaw |
 | 234 | 1494 | Binyah-Binyah |
@@ -349,8 +349,8 @@
 | 341 | 1134 | Kelsey Kyle Rhodes |
 | 342 | 1127 | Mama T |
 | 343 | 1118 | Ibiza Carolina LaRose |
-| 344 | 1116 | Em Chen |
-| 345 | 1116 | Belle |
+| 344 | 1116 | Belle |
+| 345 | 1116 | Em Chen |
 | 346 | 1114 | Kevin Walp |
 | 347 | 1109 | Melissa McCall |
 | 348 | 1105 | Nerdy Clearfit |

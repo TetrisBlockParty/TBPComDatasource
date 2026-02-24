@@ -124,8 +124,8 @@
 | 116 | 682 | Raegan Lane-Ross |
 | 117 | 675 | Chris Alexinas |
 | 118 | 673 | Jacqueline Helm |
-| 119 | 667 | Lindsey Gonzalez |
-| 120 | 667 | Amy Suckarieh |
+| 119 | 667 | Amy Suckarieh |
+| 120 | 667 | Lindsey Gonzalez |
 | 121 | 664 | Leslie Nicole |
 | 122 | 659 | Jamie Gustafson |
 | 123 | 659 | Matt Gooder |
@@ -361,8 +361,8 @@
 | 353 | 283 | Angela Geist Jusinski |
 | 354 | 282 | DQ Martin |
 | 355 | 282 | Susan Williams |
-| 356 | 281 | Paige Kittles |
-| 357 | 281 | Morti |
+| 356 | 281 | Morti |
+| 357 | 281 | Paige Kittles |
 | 358 | 279 | Jim Hart |
 | 359 | 278 | Sarah Brown |
 | 360 | 276 | Cynthia Boudreau |
@@ -371,8 +371,8 @@
 | 363 | 276 | Dennis Bradley |
 | 364 | 276 | Silly SeaWeed |
 | 365 | 275 | Jarred Falls |
-| 366 | 275 | meowmew |
-| 367 | 275 | Allison Rose |
+| 366 | 275 | Allison Rose |
+| 367 | 275 | meowmew |
 | 368 | 273 | Tyler Bechtel |
 | 369 | 272 | Tony Pavelka |
 | 370 | 270 | 07VHVW |
@@ -666,8 +666,8 @@
 | 658 | 150 | Kristin Rose Nutter |
 | 659 | 150 | Michelle McCutcheon |
 | 660 | 150 | moneybagz |
-| 661 | 149 | Petty |
-| 662 | 149 | Boldy Linkpiece |
+| 661 | 149 | Boldy Linkpiece |
+| 662 | 149 | Petty |
 | 663 | 148 | McKayla Breanne |
 | 664 | 148 | Zany Mover |
 | 665 | 148 | Tawna Curry |

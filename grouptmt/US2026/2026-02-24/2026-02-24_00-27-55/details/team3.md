@@ -1831,8 +1831,8 @@
 | 1823 | 70 | Mandie Alexandra Adones |
 | 1824 | 70 | toast |
 | 1825 | 69 | Crystal Alden |
-| 1826 | 69 | Tyrhonda Thompson |
-| 1827 | 69 | Twisty Slider |
+| 1826 | 69 | Twisty Slider |
+| 1827 | 69 | Tyrhonda Thompson |
 | 1828 | 69 | Briaa Williams |
 | 1829 | 69 | Tonya J Cox |
 | 1830 | 69 | Cierra Liz Rigby |
