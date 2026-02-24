@@ -123,8 +123,8 @@
 | 115 | 1134 | Melissa Orth Hunter |
 | 116 | 1124 | Stephanie Rice |
 | 117 | 1121 | Corie A. Brinson |
-| 118 | 1114 | Groovy Catcher |
-| 119 | 1114 | Loopy Fallmatch |
+| 118 | 1114 | Loopy Fallmatch |
+| 119 | 1114 | Groovy Catcher |
 | 120 | 1105 | Adrian Marcel Pate |
 | 121 | 1093 | Angela M. Fletcher |
 | 122 | 1091 | Jennifer |
@@ -198,8 +198,8 @@
 | 190 | 784 | Jone |
 | 191 | 783 | Julian Murphy |
 | 192 | 777 | Daryn Elliott |
-| 193 | 774 | Twisty Brick LT |
-| 194 | 774 | ren |
+| 193 | 774 | ren |
+| 194 | 774 | Twisty Brick LT |
 | 195 | 772 | Tye Stovall |
 | 196 | 769 | Hasty Cascadefit |
 | 197 | 768 | Cyd061769 |
@@ -225,8 +225,8 @@
 | 217 | 715 | Karon Griffin |
 | 218 | 714 | Jenny Hrndz |
 | 219 | 713 | Stephanie Blkpep Davidson |
-| 220 | 709 | Christine Niles |
-| 221 | 709 | Cynthia Castros-Hampton |
+| 220 | 709 | Cynthia Castros-Hampton |
+| 221 | 709 | Christine Niles |
 | 222 | 708 | Stephanie Bradley |
 | 223 | 704 | Patti Skiles |
 | 224 | 703 | Shawn Miller |
@@ -335,8 +335,8 @@
 | 327 | 486 | Skippy |
 | 328 | 482 | Chummy Rumbler |
 | 329 | 481 | Tiffanie Alley |
-| 330 | 480 | TLM |
-| 331 | 480 | Dee Franklin |
+| 330 | 480 | Dee Franklin |
+| 331 | 480 | TLM |
 | 332 | 479 | Charles Perrone |
 | 333 | 479 | Kate M. Murdock |
 | 334 | 476 | Shunta Jacobs |
@@ -435,8 +435,8 @@
 | 427 | 376 | Breanna Marsden |
 | 428 | 376 | Brittany |
 | 429 | 376 | Romeo |
-| 430 | 375 | Denise Marie |
-| 431 | 375 | NeeCee |
+| 430 | 375 | NeeCee |
+| 431 | 375 | Denise Marie |
 | 432 | 370 | Roary Danner |
 | 433 | 369 | Hoppy Buildout |
 | 434 | 369 | Bekah Dietrich |
@@ -448,7 +448,7 @@
 | 440 | 368 | Tony Waters |
 | 441 | 366 | Erykah |
 | 442 | 365 | Frothy Glider |
-| 443 | 363 | 4girls |
+| 443 | 363 | angieelyn |
 | 444 | 363 | Nena Somerville Kelly |
 | 445 | 363 | 4girls |
 | 446 | 363 | Giggly Brickroll |

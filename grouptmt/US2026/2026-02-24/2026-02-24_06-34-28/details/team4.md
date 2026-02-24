@@ -286,9 +286,9 @@
 | 278 | 390 | Ari Droff |
 | 279 | 384 | Nikki Rae Gordon |
 | 280 | 382 | Sue Joyce Staats |
-| 281 | 380 | Holly Jolly |
-| 282 | 380 | Jen Caldwell |
-| 283 | 380 | Chaz |
+| 281 | 380 | Chaz |
+| 282 | 380 | Holly Jolly |
+| 283 | 380 | Jen Caldwell |
 | 284 | 379 | Backoff Recupe |
 | 285 | 378 | Jason Gibbs |
 | 286 | 378 | Googenheim |
