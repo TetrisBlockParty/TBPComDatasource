@@ -162,8 +162,8 @@
 | 154 | 875 | Chasity |
 | 155 | 874 | Jessica Pineda-Lopez |
 | 156 | 873 | BadManSheLove |
-| 157 | 868 | Cranky Gridder |
-| 158 | 868 | Felicia Rocha |
+| 157 | 868 | Felicia Rocha |
+| 158 | 868 | Cranky Gridder |
 | 159 | 868 | Nicole Flippo |
 | 160 | 864 | Sunny Rotater |
 | 161 | 862 | Santeria Trece Candles |
@@ -194,8 +194,8 @@
 | 186 | 770 | Raya |
 | 187 | 769 | Hasty Cascadefit |
 | 188 | 764 | Cyd061769 |
-| 189 | 763 | Patricia White |
-| 190 | 763 | Tasha Gillespie |
+| 189 | 763 | Tasha Gillespie |
+| 190 | 763 | Patricia White |
 | 191 | 760 | Kiki |
 | 192 | 757 | Fancy Cascader |
 | 193 | 755 | Alexmac |
@@ -448,10 +448,10 @@
 | 440 | 345 | victory |
 | 441 | 345 | Misha Sanders |
 | 442 | 344 | Lys |
-| 443 | 343 | Christina Marie Swisher |
-| 444 | 343 | Eboni Starr |
-| 445 | 342 | Nelma |
-| 446 | 342 | Criss |
+| 443 | 343 | Eboni Starr |
+| 444 | 343 | Christina Marie Swisher |
+| 445 | 342 | Criss |
+| 446 | 342 | Nelma |
 | 447 | 341 | Shiny Zonebuilder |
 | 448 | 341 | Donna Esbensen-Alpini |
 | 449 | 340 | Funky Jumper |

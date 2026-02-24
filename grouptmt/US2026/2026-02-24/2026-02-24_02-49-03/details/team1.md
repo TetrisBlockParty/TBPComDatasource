@@ -1323,7 +1323,7 @@
 | 1315 | 60 | Ron |
 | 1316 | 59 | Kaitlyn Sheldon |
 | 1317 | 59 | Tiffany Laura |
-| 1318 | 59 | Bouncy Fitzone |
+| 1318 | 59 | Tom Sackett |
 | 1319 | 59 | Mia Ballard |
 | 1320 | 59 | 杜庭維 |
 | 1321 | 59 | Dropitliktithot |

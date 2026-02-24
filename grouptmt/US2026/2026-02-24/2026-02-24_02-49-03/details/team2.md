@@ -487,8 +487,8 @@
 | 479 | 929 | William Hunt |
 | 480 | 928 | Elizabeth Wilbanks |
 | 481 | 927 | Wes Acton |
-| 482 | 923 | Chevy |
-| 483 | 923 | blume |
+| 482 | 923 | blume |
+| 483 | 923 | Chevy |
 | 484 | 922 | Butta |
 | 485 | 921 | Dannette Goldberg-Richards |
 | 486 | 919 | Isaac Trappiel IV |
@@ -1245,8 +1245,8 @@
 | 1237 | 446 | Scott |
 | 1238 | 446 | Bold Brickster |
 | 1239 | 446 | Thomas Smith |
-| 1240 | 445 | Ning Quiambao |
-| 1241 | 445 | Kena T. Tanner |
+| 1240 | 445 | Kena T. Tanner |
+| 1241 | 445 | Ning Quiambao |
 | 1242 | 445 | Mar Q Thomas |
 | 1243 | 445 | Zappy Jumper |
 | 1244 | 444 | Sandra Link-Gable |

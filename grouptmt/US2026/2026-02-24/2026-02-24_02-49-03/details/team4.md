@@ -68,8 +68,8 @@
 | 60 | 1098 | BertMofo |
 | 61 | 1092 | Rachel Anne |
 | 62 | 1089 | Alyssa Papen |
-| 63 | 1082 | Dion Crommarty |
-| 64 | 1082 | Avy Absol |
+| 63 | 1082 | Avy Absol |
+| 64 | 1082 | Dion Crommarty |
 | 65 | 1075 | Dustee Craddock-Harrison |
 | 66 | 1064 | Heather Tushner |
 | 67 | 1046 | Johnathan Martinez |
@@ -94,8 +94,8 @@
 | 86 | 855 | Chilly Line |
 | 87 | 850 | Lucille Truesdale |
 | 88 | 846 | Christine Marie |
-| 89 | 841 | Shauna Havard |
-| 90 | 841 | Judy Cox |
+| 89 | 841 | Judy Cox |
+| 90 | 841 | Shauna Havard |
 | 91 | 840 | Chaz Duncan |
 | 92 | 834 | quicksand420 |
 | 93 | 826 | Rica Mitchell |
