@@ -592,8 +592,8 @@
 | 584 | 851 | Melissa Schulz |
 | 585 | 851 | James Louie |
 | 586 | 850 | Sabrina Burton |
-| 587 | 848 | Happy Wipeblock |
-| 588 | 848 | Jasmine Kenney |
+| 587 | 848 | Jasmine Kenney |
+| 588 | 848 | Happy Wipeblock |
 | 589 | 847 | Megan Kitchner |
 | 590 | 844 | Terri McKelvey McKinley |
 | 591 | 843 | Quirky Twistline |
@@ -801,8 +801,8 @@
 | 793 | 682 | ນາງ ບີ ລາດຊະຈັກ |
 | 794 | 682 | Jacob Tri |
 | 795 | 681 | Latasha Love |
-| 796 | 680 | Danielle Ayoub |
-| 797 | 680 | mshir |
+| 796 | 680 | mshir |
+| 797 | 680 | Danielle Ayoub |
 | 798 | 680 | Nutty Cascade |
 | 799 | 680 | Paul Combs |
 | 800 | 680 | Stephanie Lafalce |

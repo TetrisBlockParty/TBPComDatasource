@@ -72,8 +72,8 @@
 | 64 | 1101 | Denia Deni |
 | 65 | 1094 | Shelly Chandler |
 | 66 | 1089 | Alyssa Papen |
-| 67 | 1082 | Avy Absol |
-| 68 | 1082 | Dion Crommarty |
+| 67 | 1082 | Dion Crommarty |
+| 68 | 1082 | Avy Absol |
 | 69 | 1081 | Dustee Craddock-Harrison |
 | 70 | 1080 | Chilly Line |
 | 71 | 1069 | Heather Tushner |
@@ -113,8 +113,8 @@
 | 105 | 813 | Klo |
 | 106 | 811 | Sassy Pattern |
 | 107 | 806 | Lori Walker |
-| 108 | 802 | Denise Carlson |
-| 109 | 802 | Crystal Carroll |
+| 108 | 802 | Crystal Carroll |
+| 109 | 802 | Denise Carlson |
 | 110 | 801 | D3TROITB0RN74 |
 | 111 | 798 | Jewell Urban |
 | 112 | 784 | TheNeesh50 |
@@ -122,8 +122,8 @@
 | 114 | 779 | Nope Young |
 | 115 | 776 | Savannah Overdorf |
 | 116 | 768 | Trista Leah |
-| 117 | 766 | Robin Watters |
-| 118 | 766 | Zippy Gridlock |
+| 117 | 766 | Zippy Gridlock |
+| 118 | 766 | Robin Watters |
 | 119 | 764 | Valerie Roberts |
 | 120 | 754 | Chris Alexinas |
 | 121 | 742 | Sam Bishop |
@@ -212,8 +212,8 @@
 | 204 | 509 | Mimi |
 | 205 | 507 | Andria Lynn |
 | 206 | 504 | Deanna Deckard |
-| 207 | 502 | Ericca Eldridge |
-| 208 | 502 | Christina Black |
+| 207 | 502 | Christina Black |
+| 208 | 502 | Ericca Eldridge |
 | 209 | 501 | Sharyn Lemire |
 | 210 | 499 | Kesha Brady |
 | 211 | 496 | Lori |
@@ -276,9 +276,9 @@
 | 268 | 407 | Hyper Builder |
 | 269 | 407 | Rafael Valentin |
 | 270 | 402 | Nita Wells |
-| 271 | 399 | Twisty Cascadezone |
-| 272 | 399 | 030Synner |
-| 273 | 399 | Brittany Little |
+| 271 | 399 | 030Synner |
+| 272 | 399 | Brittany Little |
+| 273 | 399 | Twisty Cascadezone |
 | 274 | 398 | Tyler Terrific |
 | 275 | 397 | blockstar |
 | 276 | 395 | BigSammy420 |
@@ -381,8 +381,8 @@
 | 373 | 307 | tipsy tiger |
 | 374 | 306 | PeaceOs |
 | 375 | 304 | Sarah Neathery |
-| 376 | 302 | Koral Hanke |
-| 377 | 302 | Jenna McGeorge |
+| 376 | 302 | Jenna McGeorge |
+| 377 | 302 | Koral Hanke |
 | 378 | 300 | Jason Frehner |
 | 379 | 300 | Carter Jones |
 | 380 | 299 | Michael Snow |
@@ -391,12 +391,12 @@
 | 383 | 297 | Brittany Marsh |
 | 384 | 296 | Dapper Frame |
 | 385 | 295 | Deb Rubeck |
-| 386 | 294 | Kevin Bush |
-| 387 | 294 | BootsMcGee |
-| 388 | 292 | Jumpy Zonepiece |
-| 389 | 292 | Epic Curvetile |
-| 390 | 291 | DQ Martin |
-| 391 | 291 | Ronald Brown Jr. |
+| 386 | 294 | BootsMcGee |
+| 387 | 294 | Kevin Bush |
+| 388 | 292 | Epic Curvetile |
+| 389 | 292 | Jumpy Zonepiece |
+| 390 | 291 | Ronald Brown Jr. |
+| 391 | 291 | DQ Martin |
 | 392 | 290 | Amy Sanford |
 | 393 | 290 | Jared Gutwein |
 | 394 | 289 | Jenny Wells-Oakley |

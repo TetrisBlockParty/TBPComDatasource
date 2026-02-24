@@ -68,8 +68,8 @@
 | 60 | 1931 | Denise Nardoni |
 | 61 | 1920 | Trezure Gonzalez |
 | 62 | 1858 | Kristie McFarland |
-| 63 | 1824 | Jessica Ann |
-| 64 | 1824 | Nate Burnside |
+| 63 | 1824 | Nate Burnside |
+| 64 | 1824 | Jessica Ann |
 | 65 | 1804 | Tina Kay |
 | 66 | 1791 | Leah Barnett |
 | 67 | 1776 | Whitney Manuel |
@@ -109,8 +109,8 @@
 | 101 | 1309 | yoyo |
 | 102 | 1297 | Shelby Michelle |
 | 103 | 1290 | JerseyJess |
-| 104 | 1282 | Amanda L Baker |
-| 105 | 1282 | Peppy Shifter |
+| 104 | 1282 | Peppy Shifter |
+| 105 | 1282 | Amanda L Baker |
 | 106 | 1276 | Jessica Bechler |
 | 107 | 1274 | Sarah Fehring |
 | 108 | 1248 | Lori Barnaby |
@@ -266,8 +266,8 @@
 | 258 | 618 | Kaitie Oliver |
 | 259 | 606 | Connie Mohler-Fair |
 | 260 | 605 | Sarah Cowan Burgos |
-| 261 | 604 | Bmo |
-| 262 | 604 | Sherry Ogden |
+| 261 | 604 | Sherry Ogden |
+| 262 | 604 | Bmo |
 | 263 | 601 | Betty Rosas |
 | 264 | 600 | Natasha Jones |
 | 265 | 599 | Noyb Adam |
@@ -276,8 +276,8 @@
 | 268 | 594 | Cozy Snaplink |
 | 269 | 590 | Marci Mize Fandrich |
 | 270 | 588 | Salena Whitlock |
-| 271 | 586 | Donna |
-| 272 | 586 | Brian Battjes |
+| 271 | 586 | Brian Battjes |
+| 272 | 586 | Donna |
 | 273 | 582 | FuzzyNavel |
 | 274 | 581 | Crystal Hine |
 | 275 | 578 | James Mitchell |
@@ -307,8 +307,8 @@
 | 299 | 540 | rosy |
 | 300 | 539 | Fancy Curver |
 | 301 | 539 | Kate M. Murdock |
-| 302 | 536 | Giddy Twistbuilder |
-| 303 | 536 | Shannon Matthew Byers |
+| 302 | 536 | Shannon Matthew Byers |
+| 303 | 536 | Giddy Twistbuilder |
 | 304 | 535 | kacihall |
 | 305 | 533 | BugMansMom |
 | 306 | 532 | Sarah Muradyan |
@@ -339,8 +339,8 @@
 | 331 | 483 | Tegan Chapman |
 | 332 | 482 | Chummy Rumbler |
 | 333 | 481 | Tiffanie Alley |
-| 334 | 480 | Dee Franklin |
-| 335 | 480 | TLM |
+| 334 | 480 | TLM |
+| 335 | 480 | Dee Franklin |
 | 336 | 479 | Charles Perrone |
 | 337 | 476 | Shunta Jacobs |
 | 338 | 474 | Troy |
@@ -358,11 +358,11 @@
 | 350 | 459 | TotoCherue |
 | 351 | 459 | Randy Clevenger |
 | 352 | 457 | Snippy Wipeout |
-| 353 | 456 | Cynthia Herrmann Egland |
-| 354 | 456 | Kelly |
+| 353 | 456 | Kelly |
+| 354 | 456 | Cynthia Herrmann Egland |
 | 355 | 455 | Kelly Wolf |
-| 356 | 450 | Stefanie LaPointe |
-| 357 | 450 | Luciana Braganca Vieira |
+| 356 | 450 | Luciana Braganca Vieira |
+| 357 | 450 | Stefanie LaPointe |
 | 358 | 449 | Lively Caster |
 | 359 | 449 | Jojo M |
 | 360 | 447 | Carrie Huskey |
@@ -375,8 +375,8 @@
 | 367 | 443 | Christian Werndl |
 | 368 | 442 | Loopy Fallzone |
 | 369 | 438 | Dannie Litchard |
-| 370 | 436 | Julie Fratrik |
-| 371 | 436 | AC Yeater |
+| 370 | 436 | AC Yeater |
+| 371 | 436 | Julie Fratrik |
 | 372 | 435 | Sabrina Hardrick |
 | 373 | 434 | Criss |
 | 374 | 432 | Justice 4 P |
@@ -386,8 +386,8 @@
 | 378 | 431 | Donna Esbensen-Alpini |
 | 379 | 430 | AlsoJess |
 | 380 | 430 | Quackers |
-| 381 | 428 | Skinny Baldez |
-| 382 | 428 | Samantha Lynn |
+| 381 | 428 | Samantha Lynn |
+| 382 | 428 | Skinny Baldez |
 | 383 | 427 | Darlene McMillan |
 | 384 | 426 | Christina Rotz Shows |
 | 385 | 425 | Ava Petito |
@@ -557,10 +557,10 @@
 | 549 | 319 | Tracey Cox |
 | 550 | 319 | Moneyvybz |
 | 551 | 319 | Jayme |
-| 552 | 318 | Trey Ward |
+| 552 | 318 | Earlanda Holland |
 | 553 | 318 | Tina Smith Roy |
-| 554 | 318 | Earlanda Holland |
-| 555 | 317 | Shiny Snapfit |
+| 554 | 318 | Trey Ward |
+| 555 | 317 | Michael Kimbro |
 | 556 | 317 | Sassy Tiler |
 | 557 | 317 | Jack Bo |
 | 558 | 317 | Shiny Snapfit |
