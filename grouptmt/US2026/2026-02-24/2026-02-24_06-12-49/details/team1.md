@@ -83,8 +83,8 @@
 | 75 | 973 | Francesca Gee |
 | 76 | 966 | Shalene Frederick Autrey |
 | 77 | 961 | Jacqueline Williams |
-| 78 | 957 | Zippy Align |
-| 79 | 957 | Erin Hodges Plumb |
+| 78 | 957 | Erin Hodges Plumb |
+| 79 | 957 | Zippy Align |
 | 80 | 944 | Sweet Baker |
 | 81 | 922 | Jason Cox |
 | 82 | 920 | Tee Sheree |

@@ -237,8 +237,8 @@
 | 229 | 662 | Jim Mathews |
 | 230 | 661 | LaShey Thompson |
 | 231 | 655 | Keis |
-| 232 | 650 | Makelini Mausia |
-| 233 | 650 | Cesar Barraza |
+| 232 | 650 | Cesar Barraza |
+| 233 | 650 | Makelini Mausia |
 | 234 | 647 | Wendy Dearden |
 | 235 | 646 | Duane Bright |
 | 236 | 644 | Dawn Williams |
@@ -461,7 +461,7 @@
 | 453 | 358 | Hyper Twisterfit |
 | 454 | 358 | Taylor Culver |
 | 455 | 358 | Beejangles |
-| 456 | 358 | Taylor Culver |
+| 456 | 358 | Block Baddie |
 | 457 | 357 | Hoài Quắt |
 | 458 | 356 | Trice Sodames |
 | 459 | 355 | Kevin Russell |
@@ -469,8 +469,8 @@
 | 461 | 353 | Cheeky Snapper |
 | 462 | 353 | Eboni G. |
 | 463 | 352 | LadyTorad |
-| 464 | 351 | Eon Harris |
-| 465 | 351 | Nelma |
+| 464 | 351 | Nelma |
+| 465 | 351 | Eon Harris |
 | 466 | 350 | Norma JulieMay |
 | 467 | 348 | Ashley Raines |
 | 468 | 348 | Jimmie Clemons |

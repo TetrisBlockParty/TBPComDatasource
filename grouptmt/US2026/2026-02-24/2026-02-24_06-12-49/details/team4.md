@@ -70,8 +70,8 @@
 | 62 | 1106 | BertMofo |
 | 63 | 1094 | Shelly Chandler |
 | 64 | 1089 | Alyssa Papen |
-| 65 | 1082 | Dion Crommarty |
-| 66 | 1082 | Avy Absol |
+| 65 | 1082 | Avy Absol |
+| 66 | 1082 | Dion Crommarty |
 | 67 | 1081 | Dustee Craddock-Harrison |
 | 68 | 1069 | Heather Tushner |
 | 69 | 1056 | Keith Kelley |
@@ -126,8 +126,8 @@
 | 118 | 735 | Nugget |
 | 119 | 731 | KJ Pool |
 | 120 | 729 | Jamie Mann-Deichmann |
-| 121 | 726 | Amy Suckarieh |
-| 122 | 726 | Jamie Gustafson |
+| 121 | 726 | Jamie Gustafson |
+| 122 | 726 | Amy Suckarieh |
 | 123 | 725 | Brandon Crabbs |
 | 124 | 718 | Zippy Gridlock |
 | 125 | 712 | H.R. Block |
@@ -210,8 +210,8 @@
 | 202 | 502 | Christina Black |
 | 203 | 501 | Sharyn Lemire |
 | 204 | 499 | Kesha Brady |
-| 205 | 496 | Lori |
-| 206 | 496 | Jessica Bohlken |
+| 205 | 496 | Jessica Bohlken |
+| 206 | 496 | Lori |
 | 207 | 495 | Joeliecea Cobb |
 | 208 | 493 | Amanda Pauldo-Ivy |
 | 209 | 484 | 🥔🥔 Spudz |
@@ -251,8 +251,8 @@
 | 243 | 432 | Plucky Patternblock |
 | 244 | 432 | scott |
 | 245 | 430 | Chris Bernstein |
-| 246 | 427 | Cheery Risebuilder |
-| 247 | 427 | Chao Ma |
+| 246 | 427 | Chao Ma |
+| 247 | 427 | Cheery Risebuilder |
 | 248 | 424 | Andrew Dang |
 | 249 | 421 | Brickh4us |
 | 250 | 421 | JIGsaw ~(•¿°)~ |
@@ -294,10 +294,10 @@
 | 286 | 377 | Matt Dell'Olio |
 | 287 | 376 | Nig |
 | 288 | 375 | George Tzouganos |
-| 289 | 373 | Russ Attitude |
-| 290 | 373 | Nikki Rae Gordon |
-| 291 | 370 | Twisty Risebuilder |
-| 292 | 370 | Kris Bartlett |
+| 289 | 373 | Nikki Rae Gordon |
+| 290 | 373 | Russ Attitude |
+| 291 | 370 | Kris Bartlett |
+| 292 | 370 | Twisty Risebuilder |
 | 293 | 367 | Meg |
 | 294 | 365 | David Lay |
 | 295 | 364 | Lora |
@@ -316,9 +316,9 @@
 | 308 | 347 | Daria Rycewicz |
 | 309 | 346 | Metsfan |
 | 310 | 344 | Amanda Maciel Clarke |
-| 311 | 343 | HastyGrabber |
+| 311 | 343 | Perky Piecegrid |
 | 312 | 343 | Blessedmama |
-| 313 | 343 | Perky Piecegrid |
+| 313 | 343 | HastyGrabber |
 | 314 | 342 | Lauren Lamb |
 | 315 | 339 | Chance Strickland |
 | 316 | 338 | Nubian1 |
@@ -329,8 +329,8 @@
 | 321 | 335 | Chair |
 | 322 | 335 | Snippy Puzzle |
 | 323 | 332 | Jason Bosco |
-| 324 | 331 | Kate |
-| 325 | 331 | Angie Schmidt |
+| 324 | 331 | Angie Schmidt |
+| 325 | 331 | Kate |
 | 326 | 330 | Juls |
 | 327 | 330 | Brittany Little |
 | 328 | 330 | Sandra Safford |
@@ -530,8 +530,8 @@
 | 522 | 222 | Rhys Morgan |
 | 523 | 221 | Peppy Drop |
 | 524 | 221 | Rheanda Weaskus |
-| 525 | 220 | Mighty Edgepiece |
-| 526 | 220 | Helen Chao |
+| 525 | 220 | Helen Chao |
+| 526 | 220 | Mighty Edgepiece |
 | 527 | 219 | Dapper Balancer |
 | 528 | 219 | Brandon Link |
 | 529 | 218 | Janita Parrish |
@@ -595,8 +595,8 @@
 | 587 | 195 | Tabi Williams |
 | 588 | 195 | Christine Simmons |
 | 589 | 194 | Katie Alexander |
-| 590 | 194 | Zany Twisterfit |
-| 591 | 194 | Carlos Hernandez |
+| 590 | 194 | Carlos Hernandez |
+| 591 | 194 | Zany Twisterfit |
 | 592 | 193 | Mcg |
 | 593 | 193 | Stormy Tomplait |
 | 594 | 192 | Jacob Campbell |
@@ -605,7 +605,7 @@
 | 597 | 191 | Earnest Thompson |
 | 598 | 191 | Cece |
 | 599 | 191 | Jobadia Steelerton |
-| 600 | 191 | Cece |
+| 600 | 191 | RamboBanana |
 | 601 | 190 | wombat |
 | 602 | 190 | Robert Rangel |
 | 603 | 190 | Tanner Lund |

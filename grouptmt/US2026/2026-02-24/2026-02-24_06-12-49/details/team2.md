@@ -1052,8 +1052,8 @@
 | 1044 | 551 | B |
 | 1045 | 551 | Edralin Custodio |
 | 1046 | 549 | Ashley Collins |
-| 1047 | 548 | Synn |
-| 1048 | 548 | Maxwell Escalera |
+| 1047 | 548 | Maxwell Escalera |
+| 1048 | 548 | Synn |
 | 1049 | 547 | Monique Foster |
 | 1050 | 546 | Drew Berkelbach |
 | 1051 | 545 | Street Sweeper |
@@ -2111,7 +2111,7 @@
 | 2103 | 314 | Elizabeth Hawkins |
 | 2104 | 313 | Kim Stevens |
 | 2105 | 313 | Adelina Roth |
-| 2106 | 313 | Kim Stevens |
+| 2106 | 313 | Amanda Mae |
 | 2107 | 313 | D5wag2014 |
 | 2108 | 313 | Etienne Swain |
 | 2109 | 313 | Poppy Matcher |
