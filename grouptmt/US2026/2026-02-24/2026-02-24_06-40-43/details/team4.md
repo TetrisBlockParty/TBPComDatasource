@@ -140,8 +140,8 @@
 | 132 | 704 | Austin Owens |
 | 133 | 682 | Raegan Lane-Ross |
 | 134 | 668 | Desi Desporte |
-| 135 | 667 | Lindsey Gonzalez |
-| 136 | 667 | Matt Gooder |
+| 135 | 667 | Matt Gooder |
+| 136 | 667 | Lindsey Gonzalez |
 | 137 | 662 | George Nutt |
 | 138 | 662 | Nerdy Twisterfit |
 | 139 | 661 | Rodney McMath Jr. |
@@ -291,8 +291,8 @@
 | 283 | 380 | Chaz |
 | 284 | 379 | Backoff Recupe |
 | 285 | 378 | Jason Gibbs |
-| 286 | 378 | Mary Ann Pabukis |
-| 287 | 378 | Googenheim |
+| 286 | 378 | Googenheim |
+| 287 | 378 | Mary Ann Pabukis |
 | 288 | 377 | Matt Dell'Olio |
 | 289 | 376 | Nig |
 | 290 | 375 | George Tzouganos |

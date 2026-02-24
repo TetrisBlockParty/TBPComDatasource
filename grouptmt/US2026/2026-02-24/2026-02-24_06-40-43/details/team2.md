@@ -408,8 +408,8 @@
 | 400 | 1116 | Belle |
 | 401 | 1116 | Wakanda Forever |
 | 402 | 1110 | Nadia Batista Garcia |
-| 403 | 1109 | BYM4L |
-| 404 | 1109 | Melissa McCall |
+| 403 | 1109 | Melissa McCall |
+| 404 | 1109 | BYM4L |
 | 405 | 1108 | Kimmy Newman |
 | 406 | 1105 | Nerdy Clearfit |
 | 407 | 1104 | Kimberly Hope Howell |
@@ -810,10 +810,10 @@
 | 802 | 672 | Lathasa Newkirk |
 | 803 | 672 | Christina Jarvis-Swarbrick |
 | 804 | 671 | Ryan Parson |
-| 805 | 670 | Santana Miyagi |
-| 806 | 670 | Anita Ortiz |
-| 807 | 670 | Amanda Chamberlain |
-| 808 | 670 | Harrison Littrell |
+| 805 | 670 | Anita Ortiz |
+| 806 | 670 | Santana Miyagi |
+| 807 | 670 | Harrison Littrell |
+| 808 | 670 | Amanda Chamberlain |
 | 809 | 669 | Swanky Columnbuilder |
 | 810 | 668 | Brownie Sheena |
 | 811 | 668 | Michelle Fields |

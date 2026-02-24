@@ -84,8 +84,8 @@
 | 76 | 973 | Francesca Gee |
 | 77 | 966 | Shalene Frederick Autrey |
 | 78 | 961 | Jacqueline Williams |
-| 79 | 957 | Zippy Align |
-| 80 | 957 | Erin Hodges Plumb |
+| 79 | 957 | Erin Hodges Plumb |
+| 80 | 957 | Zippy Align |
 | 81 | 944 | Sweet Baker |
 | 82 | 922 | Jason Cox |
 | 83 | 920 | Tee Sheree |
@@ -110,8 +110,8 @@
 | 102 | 773 | Susanna Guerry |
 | 103 | 772 | Kathy Langham |
 | 104 | 770 | Zappy Curvetile |
-| 105 | 769 | Angel Fowler |
-| 106 | 769 | Robert Benito |
+| 105 | 769 | Robert Benito |
+| 106 | 769 | Angel Fowler |
 | 107 | 768 | Jazzy Framezone |
 | 108 | 761 | Karin Gillen |
 | 109 | 751 | Kellie |
@@ -119,8 +119,8 @@
 | 111 | 725 | Phu ckalldems |
 | 112 | 719 | Bindi |
 | 113 | 716 | Kristi Johnson |
-| 114 | 706 | Plucky Fallzone |
-| 115 | 706 | Denice Dee |
+| 114 | 706 | Denice Dee |
+| 115 | 706 | Plucky Fallzone |
 | 116 | 702 | lil mickey |
 | 117 | 699 | cc |
 | 118 | 692 | Melissa Lemmon |
@@ -195,13 +195,13 @@
 | 187 | 496 | Michelle Beres |
 | 188 | 496 | Sarah Somers Gray |
 | 189 | 495 | Connie |
-| 190 | 494 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
-| 191 | 494 | Sean Stallings |
-| 192 | 492 | Rebekah LeiAnn Bonsell |
-| 193 | 492 | Happy Snapbuild |
+| 190 | 494 | Sean Stallings |
+| 191 | 494 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
+| 192 | 492 | Happy Snapbuild |
+| 193 | 492 | Rebekah LeiAnn Bonsell |
 | 194 | 489 | Speedy Liney |
-| 195 | 488 | Jessie Welch |
-| 196 | 488 | Ly Phethmany |
+| 195 | 488 | Ly Phethmany |
+| 196 | 488 | Jessie Welch |
 | 197 | 487 | Eric DeSimone |
 | 198 | 484 | Bouncy Grid |
 | 199 | 479 | canbrick |
@@ -257,8 +257,8 @@
 | 249 | 399 | Jen Nystrom |
 | 250 | 398 | MommaKFC |
 | 251 | 397 | Alenoush Karimian |
-| 252 | 396 | Monica Donato |
-| 253 | 396 | Sam Williams |
+| 252 | 396 | Sam Williams |
+| 253 | 396 | Monica Donato |
 | 254 | 394 | Nick R Montague |
 | 255 | 393 | Wisa |
 | 256 | 392 | Renee Tucker |
@@ -368,8 +368,8 @@
 | 360 | 312 | Diane Byrd |
 | 361 | 311 | Rico Rico |
 | 362 | 311 | Nathan Sealander |
-| 363 | 310 | Lynn Adams |
-| 364 | 310 | Marci Sanders |
+| 363 | 310 | Marci Sanders |
+| 364 | 310 | Lynn Adams |
 | 365 | 309 | Isaiah |
 | 366 | 308 | Agustin Duarte Orozco |
 | 367 | 308 | Katie Martin |
@@ -398,8 +398,8 @@
 | 390 | 294 | Mary Love |
 | 391 | 294 | Наталья Солоид |
 | 392 | 293 | Sunny Pivotfall |
-| 393 | 292 | Mark Smith |
-| 394 | 292 | Clever Cascadepiece |
+| 393 | 292 | Clever Cascadepiece |
+| 394 | 292 | Mark Smith |
 | 395 | 291 | Toph |
 | 396 | 291 | Sir-Franchise Drake |
 | 397 | 290 | Nate Funk |
