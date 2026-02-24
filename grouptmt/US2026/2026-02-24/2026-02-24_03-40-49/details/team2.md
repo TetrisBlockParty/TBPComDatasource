@@ -423,9 +423,9 @@
 | 415 | 1044 | Hunter Connors |
 | 416 | 1043 | Brave Dropmatch |
 | 417 | 1042 | Kia Humphery |
-| 418 | 1042 | Mcintosh Brian Shalonda |
-| 419 | 1042 | Matthew Barry |
-| 420 | 1042 | Spunkysmom |
+| 418 | 1042 | Spunkysmom |
+| 419 | 1042 | Mcintosh Brian Shalonda |
+| 420 | 1042 | Matthew Barry |
 | 421 | 1041 | Crystal Hoffman |
 | 422 | 1039 | Laura Morrison |
 | 423 | 1039 | Jodi Mitnick |
@@ -464,10 +464,10 @@
 | 456 | 975 | AgileDragon |
 | 457 | 974 | Jeremy Parodi |
 | 458 | 970 | Iris Angelica Perez Cantos |
-| 459 | 969 | Steve Man |
-| 460 | 969 | Shuany Arias |
-| 461 | 969 | Gauri Shrotriya |
-| 462 | 969 | Andrew Willis |
+| 459 | 969 | Gauri Shrotriya |
+| 460 | 969 | Andrew Willis |
+| 461 | 969 | Shuany Arias |
+| 462 | 969 | Steve Man |
 | 463 | 964 | John Bednarik |
 | 464 | 962 | Antionette Sewell |
 | 465 | 962 | Kathleen Driskell |
@@ -715,8 +715,8 @@
 | 707 | 696 | Bree Mackie |
 | 708 | 695 | Giggy Grabber |
 | 709 | 694 | Lyndi Robinson Wakefield |
-| 710 | 694 | Courtney Burcham |
-| 711 | 694 | Rackemwillie34 |
+| 710 | 694 | Rackemwillie34 |
+| 711 | 694 | Courtney Burcham |
 | 712 | 692 | LuckyChopstix |
 | 713 | 692 | Brianna Cerney |
 | 714 | 692 | Bubbly Snapbuild |
@@ -794,7 +794,7 @@
 | 786 | 654 | David Duncan |
 | 787 | 654 | g |
 | 788 | 652 | Tim Galle |
-| 789 | 652 | Dane Reing |
+| 789 | 652 | Court |
 | 790 | 652 | Lively Edgepiece |
 | 791 | 652 | Dane Reing |
 | 792 | 652 | CC |

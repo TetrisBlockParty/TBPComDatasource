@@ -109,8 +109,8 @@
 | 101 | 798 | Klo |
 | 102 | 792 | Denise Carlson |
 | 103 | 781 | Brittney Griggs |
-| 104 | 780 | Keith Kelley |
-| 105 | 780 | TheNeesh50 |
+| 104 | 780 | TheNeesh50 |
+| 105 | 780 | Keith Kelley |
 | 106 | 779 | Nope Young |
 | 107 | 768 | Trista Leah |
 | 108 | 766 | Robin Watters |
@@ -285,8 +285,8 @@
 | 277 | 370 | Kris Bartlett |
 | 278 | 370 | Cheery Risebuilder |
 | 279 | 367 | Meg |
-| 280 | 366 | Hyper Builder |
-| 281 | 366 | Andrew Dang |
+| 280 | 366 | Andrew Dang |
+| 281 | 366 | Hyper Builder |
 | 282 | 360 | James Hurley Jr. |
 | 283 | 359 | Holly |
 | 284 | 359 | KimoKoala |
@@ -438,8 +438,8 @@
 | 430 | 251 | Carol Ricks Raymond |
 | 431 | 250 | Ruby Khalisadar |
 | 432 | 250 | Moonsterix |
-| 433 | 249 | Stacy Jones |
-| 434 | 249 | SHL |
+| 433 | 249 | SHL |
+| 434 | 249 | Stacy Jones |
 | 435 | 249 | Chantilly Laace |
 | 436 | 248 | Jose Dejesus |
 | 437 | 248 | Chirpy Basepiece |
