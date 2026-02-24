@@ -131,13 +131,13 @@
 | 123 | 718 | Zippy Gridlock |
 | 124 | 712 | H.R. Block |
 | 125 | 708 | Jacqueline Helm |
-| 126 | 704 | Chilly Crasher |
-| 127 | 704 | Austin Owens |
+| 126 | 704 | Austin Owens |
+| 127 | 704 | Chilly Crasher |
 | 128 | 690 | Denia Deni |
 | 129 | 682 | Raegan Lane-Ross |
 | 130 | 669 | Leslie Nicole |
-| 131 | 667 | Matt Gooder |
-| 132 | 667 | Lindsey Gonzalez |
+| 131 | 667 | Lindsey Gonzalez |
+| 132 | 667 | Matt Gooder |
 | 133 | 662 | George Nutt |
 | 134 | 660 | Desi Desporte |
 | 135 | 651 | Adawna Swires |
@@ -322,8 +322,8 @@
 | 314 | 332 | Jason Bosco |
 | 315 | 331 | Kate |
 | 316 | 330 | Sandra Safford |
-| 317 | 330 | Brittany Little |
-| 318 | 330 | Duck |
+| 317 | 330 | Duck |
+| 318 | 330 | Brittany Little |
 | 319 | 329 | Meagan Nicole |
 | 320 | 329 | Chair |
 | 321 | 328 | Angie Schmidt |

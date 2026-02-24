@@ -80,8 +80,8 @@
 | 72 | 1646 | Gracie |
 | 73 | 1633 | cowboy25469 |
 | 74 | 1620 | Queen Kam |
-| 75 | 1566 | Nerdy Riseclear |
-| 76 | 1566 | Marcie Bressler |
+| 75 | 1566 | Marcie Bressler |
+| 76 | 1566 | Nerdy Riseclear |
 | 77 | 1560 | Logan Naccarato |
 | 78 | 1555 | Snappy Glidepiece |
 | 79 | 1552 | joclisa |
@@ -102,8 +102,8 @@
 | 94 | 1361 | Patricia Gadsden |
 | 95 | 1343 | Joey Banks |
 | 96 | 1320 | Kristie |
-| 97 | 1318 | Tiff Vs Tiffany |
-| 98 | 1318 | Diana Ibarra |
+| 97 | 1318 | Diana Ibarra |
+| 98 | 1318 | Tiff Vs Tiffany |
 | 99 | 1309 | yoyo |
 | 100 | 1297 | Shelby Michelle |
 | 101 | 1290 | JerseyJess |
@@ -195,8 +195,8 @@
 | 187 | 783 | Julian Murphy |
 | 188 | 780 | Raya |
 | 189 | 777 | Daryn Elliott |
-| 190 | 774 | ren |
-| 191 | 774 | Twisty Brick LT |
+| 190 | 774 | Twisty Brick LT |
+| 191 | 774 | ren |
 | 192 | 773 | Daira Largen |
 | 193 | 772 | Tye Stovall |
 | 194 | 769 | Hasty Cascadefit |
@@ -214,8 +214,8 @@
 | 206 | 742 | Jennifer Lynn Fahrenholtz-Summers |
 | 207 | 738 | Naur |
 | 208 | 736 | Elissa S-k |
-| 209 | 733 | Annie Déè |
-| 210 | 733 | Annie Marie |
+| 209 | 733 | Annie Marie |
+| 210 | 733 | Annie Déè |
 | 211 | 731 | Samantha Greco |
 | 212 | 729 | Lizabeth Fox |
 | 213 | 729 | CeceGeGe |
@@ -246,8 +246,8 @@
 | 238 | 630 | Jackie Miller |
 | 239 | 629 | rnr junky |
 | 240 | 628 | Jeni Dow |
-| 241 | 627 | Juliana Dottore |
-| 242 | 627 | Louise Stacy Sisson |
+| 241 | 627 | Louise Stacy Sisson |
+| 242 | 627 | Juliana Dottore |
 | 243 | 625 | Jacqueline Rodriguez |
 | 244 | 623 | Giggy Glidepiece |
 | 245 | 619 | Swanky Snapclear |
@@ -363,8 +363,8 @@
 | 355 | 442 | Loopy Fallzone |
 | 356 | 438 | Dannie Litchard |
 | 357 | 436 | AC Yeater |
-| 358 | 435 | Julie Fratrik |
-| 359 | 435 | Sabrina Hardrick |
+| 358 | 435 | Sabrina Hardrick |
+| 359 | 435 | Julie Fratrik |
 | 360 | 432 | Jojo M |
 | 361 | 431 | Donna Esbensen-Alpini |
 | 362 | 430 | Quackers |
@@ -778,9 +778,9 @@
 | 770 | 234 | Sarah Morris |
 | 771 | 234 | Maple |
 | 772 | 233 | Brian Quigley |
-| 773 | 233 | Jaimie Thomas |
-| 774 | 233 | Sarah Whalen |
-| 775 | 232 | Stephanie Hill |
+| 773 | 233 | Sarah Whalen |
+| 774 | 233 | Jaimie Thomas |
+| 775 | 232 | Sunny Tiltgrid |
 | 776 | 232 | Emi |
 | 777 | 232 | Stephanie Hill |
 | 778 | 231 | Janay Darkstallion Robinson |

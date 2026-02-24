@@ -421,8 +421,8 @@
 | 413 | 1074 | Diana Ayers |
 | 414 | 1074 | William Hunt |
 | 415 | 1073 | Jodi Blake |
-| 416 | 1071 | Nashu |
-| 417 | 1071 | Kim Dean |
+| 416 | 1071 | Kim Dean |
+| 417 | 1071 | Nashu |
 | 418 | 1068 | Tiffany Branham |
 | 419 | 1067 | Taylor Phillips |
 | 420 | 1067 | Lourisha |
@@ -434,8 +434,8 @@
 | 426 | 1049 | Ashlen Dorrell |
 | 427 | 1048 | Sheronda Jackson |
 | 428 | 1043 | Brave Dropmatch |
-| 429 | 1042 | Spunkysmom |
-| 430 | 1042 | Matthew Barry |
+| 429 | 1042 | Matthew Barry |
+| 430 | 1042 | Spunkysmom |
 | 431 | 1041 | Crystal Hoffman |
 | 432 | 1037 | Allan Wayne Lamia |
 | 433 | 1036 | trabuco |
@@ -466,17 +466,17 @@
 | 458 | 982 | Jackie Burnett |
 | 459 | 981 | Block Master |
 | 460 | 979 | Fae-Bulous |
-| 461 | 978 | Barry Britt |
-| 462 | 978 | Kennedy Sandifer |
+| 461 | 978 | Kennedy Sandifer |
+| 462 | 978 | Barry Britt |
 | 463 | 976 | Sam Joe |
 | 464 | 975 | Amanda Woodruff |
 | 465 | 975 | Kelly Trent |
 | 466 | 974 | Jeremy Parodi |
 | 467 | 970 | Darla Silva |
 | 468 | 970 | Iris Angelica Perez Cantos |
-| 469 | 969 | Steve Man |
-| 470 | 969 | Shuany Arias |
-| 471 | 969 | Andrew Willis |
+| 469 | 969 | Andrew Willis |
+| 470 | 969 | Steve Man |
+| 471 | 969 | Shuany Arias |
 | 472 | 966 | Kayla |
 | 473 | 966 | Victoria Moore-Smith |
 | 474 | 965 | Desire Rice |
@@ -620,8 +620,8 @@
 | 612 | 786 | Ashe Corso |
 | 613 | 785 | Daniel Amos |
 | 614 | 781 | Amanda Ferrell |
-| 615 | 780 | Breezy Filler |
-| 616 | 780 | Megan Kitchner |
+| 615 | 780 | Megan Kitchner |
+| 616 | 780 | Breezy Filler |
 | 617 | 780 | Amy Reynolds |
 | 618 | 779 | Trinity Oak |
 | 619 | 777 | Tesha Oldaker |
@@ -629,12 +629,12 @@
 | 621 | 776 | Jerilyn Andrina |
 | 622 | 775 | Maya June |
 | 623 | 775 | g |
-| 624 | 774 | Shanae Dillahunty |
-| 625 | 774 | Ryan Gunther |
+| 624 | 774 | Ryan Gunther |
+| 625 | 774 | Shanae Dillahunty |
 | 626 | 773 | Chummy Blockbuilder |
 | 627 | 771 | Ronald Higgins |
-| 628 | 770 | Michael Buckner |
-| 629 | 770 | Frilly Fallzone |
+| 628 | 770 | Frilly Fallzone |
+| 629 | 770 | Michael Buckner |
 | 630 | 768 | Mia Muse Best |
 | 631 | 766 | Frisky Riserbuilder |
 | 632 | 766 | Angela Cagle Silmon |
