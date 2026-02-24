@@ -105,8 +105,8 @@
 | 97 | 744 | Greg Hart |
 | 98 | 737 | Karin Gillen |
 | 99 | 722 | Kellie |
-| 100 | 706 | Denice Dee |
-| 101 | 706 | Plucky Fallzone |
+| 100 | 706 | Plucky Fallzone |
+| 101 | 706 | Denice Dee |
 | 102 | 703 | Angel Fowler |
 | 103 | 691 | Rachael |
 | 104 | 690 | Melissa Lemmon |
@@ -214,11 +214,11 @@
 | 206 | 419 | John J. Cronin |
 | 207 | 417 | Jessie Lynn |
 | 208 | 416 | Jessica Sheehan |
-| 209 | 412 | Witty Builderfit |
-| 210 | 412 | Connie |
+| 209 | 412 | Connie |
+| 210 | 412 | Witty Builderfit |
 | 211 | 408 | Lindsay Glover |
 | 212 | 407 | Ananda Mendez |
-| 213 | 404 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
+| 213 | 404 | Tawnya Peltonen |
 | 214 | 404 | Sleepysloath5745 |
 | 215 | 404 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 216 | 402 | Jerry Danowski |
