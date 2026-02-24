@@ -111,8 +111,8 @@
 | 103 | 1311 | JerseyJess |
 | 104 | 1309 | yoyo |
 | 105 | 1297 | Shelby Michelle |
-| 106 | 1282 | Peppy Shifter |
-| 107 | 1282 | Amanda L Baker |
+| 106 | 1282 | Amanda L Baker |
+| 107 | 1282 | Peppy Shifter |
 | 108 | 1280 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1251 | Suzieq |
@@ -126,8 +126,8 @@
 | 118 | 1154 | Carrie Jarvis Mohler |
 | 119 | 1152 | Julian Murphy |
 | 120 | 1124 | Stephanie Rice |
-| 121 | 1121 | Corie A. Brinson |
-| 122 | 1121 | Loopy Fallmatch |
+| 121 | 1121 | Loopy Fallmatch |
+| 122 | 1121 | Corie A. Brinson |
 | 123 | 1114 | Groovy Catcher |
 | 124 | 1108 | Rachel |
 | 125 | 1105 | Adrian Marcel Pate |
@@ -182,8 +182,8 @@
 | 174 | 876 | Kiki |
 | 175 | 875 | Chasity |
 | 176 | 874 | Jessica Pineda-Lopez |
-| 177 | 868 | Cranky Gridder |
-| 178 | 868 | Nicole Flippo |
+| 177 | 868 | Nicole Flippo |
+| 178 | 868 | Cranky Gridder |
 | 179 | 866 | Domo Washington |
 | 180 | 862 | Santeria Trece Candles |
 | 181 | 858 | Nicole Myers |
@@ -219,8 +219,8 @@
 | 211 | 772 | Fancy Cascader |
 | 212 | 767 | Heather Davis |
 | 213 | 766 | Mykal Burton |
-| 214 | 763 | Jim Mathews |
-| 215 | 763 | Khaleada McGill Banks |
+| 214 | 763 | Khaleada McGill Banks |
+| 215 | 763 | Jim Mathews |
 | 216 | 762 | Naur |
 | 217 | 758 | Shawn Miller |
 | 218 | 755 | Colton |
@@ -270,12 +270,12 @@
 | 262 | 637 | Giddy Twistbuilder |
 | 263 | 636 | Salena Whitlock |
 | 264 | 635 | Amber Hughes |
-| 265 | 633 | Jillian Symons |
-| 266 | 633 | Rebecca Funderburk Kirby |
+| 265 | 633 | Rebecca Funderburk Kirby |
+| 266 | 633 | Jillian Symons |
 | 267 | 632 | Rebecca Bailey |
 | 268 | 629 | rnr junky |
-| 269 | 627 | Louise Stacy Sisson |
-| 270 | 627 | Juliana Dottore |
+| 269 | 627 | Juliana Dottore |
+| 270 | 627 | Louise Stacy Sisson |
 | 271 | 626 | Cheryl Hinch Tenbrook |
 | 272 | 625 | Jacqueline Rodriguez |
 | 273 | 624 | Hyper Matchzone |
@@ -455,7 +455,7 @@
 | 447 | 383 | Jessica Christian |
 | 448 | 382 | Katheline Lazo Luizaga |
 | 449 | 382 | Theresa Opell Gartner |
-| 450 | 382 | Katheline Lazo Luizaga |
+| 450 | 382 | Amanda Martinez |
 | 451 | 381 | Romeo |
 | 452 | 381 | Mary Giorgenti |
 | 453 | 380 | neci |
@@ -464,7 +464,7 @@
 | 456 | 378 | Brittany |
 | 457 | 377 | Paula Little |
 | 458 | 376 | Tracy Martin |
-| 459 | 375 | Denise Marie |
+| 459 | 375 | NeeCee |
 | 460 | 375 | Christy Quick |
 | 461 | 375 | Denise Marie |
 | 462 | 373 | Bekah Dietrich |

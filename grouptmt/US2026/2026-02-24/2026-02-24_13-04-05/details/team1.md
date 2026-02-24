@@ -236,8 +236,8 @@
 | 228 | 449 | Tawnya Peltonen |
 | 229 | 448 | Yvonne Marie |
 | 230 | 447 | Monica Donato |
-| 231 | 446 | Spencer Lent |
-| 232 | 446 | SkipTheSadSauce |
+| 231 | 446 | SkipTheSadSauce |
+| 232 | 446 | Spencer Lent |
 | 233 | 444 | Angela Renea Lester |
 | 234 | 441 | Billie Ann Eason |
 | 235 | 439 | David Miller |
@@ -291,8 +291,8 @@
 | 283 | 392 | Poppy Riserpiece |
 | 284 | 391 | Happy Basegrid |
 | 285 | 390 | David Lutcher |
-| 286 | 388 | John Kim |
-| 287 | 388 | Test |
+| 286 | 388 | Test |
+| 287 | 388 | John Kim |
 | 288 | 386 | Melissa Bires Hussar |
 | 289 | 384 | Colleen Pinette |
 | 290 | 384 | Al Smith Jr |

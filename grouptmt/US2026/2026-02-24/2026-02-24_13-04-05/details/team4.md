@@ -207,8 +207,8 @@
 | 199 | 528 | Ellen Durfee |
 | 200 | 525 | Andria Lynn |
 | 201 | 525 | 🥔🥔 Spudz |
-| 202 | 520 | Zippy Block |
-| 203 | 520 | Oscar Alberto Perez |
+| 202 | 520 | Oscar Alberto Perez |
+| 203 | 520 | Zippy Block |
 | 204 | 517 | DonMega |
 | 205 | 516 | Trish |
 | 206 | 516 | Nick Gray |
@@ -250,10 +250,10 @@
 | 242 | 458 | Kristina Black |
 | 243 | 458 | Luis Martinez |
 | 244 | 457 | Kristin Manee |
-| 245 | 454 | Jessi Cinotto |
-| 246 | 454 | Keshia Lyons |
-| 247 | 454 | Lauren Scott |
-| 248 | 454 | David Lay |
+| 245 | 454 | David Lay |
+| 246 | 454 | Lauren Scott |
+| 247 | 454 | Jessi Cinotto |
+| 248 | 454 | Keshia Lyons |
 | 249 | 450 | Genne Scott |
 | 250 | 449 | Danielle Kollias |
 | 251 | 448 | Mike Solo |
@@ -293,8 +293,8 @@
 | 285 | 402 | Nita Wells |
 | 286 | 398 | Tyler Terrific |
 | 287 | 397 | blockstar |
-| 288 | 395 | BigSammy420 |
-| 289 | 395 | Denise B |
+| 288 | 395 | Denise B |
+| 289 | 395 | BigSammy420 |
 | 290 | 394 | Nikki Rae Gordon |
 | 291 | 393 | Montiette Mcglown |
 | 292 | 390 | Ari Droff |
@@ -517,8 +517,8 @@
 | 509 | 242 | PurpleMoonMa |
 | 510 | 242 | Brian Owens |
 | 511 | 241 | Katherine Crane |
-| 512 | 240 | Zany Shatterer |
-| 513 | 240 | Orchislactea |
+| 512 | 240 | Orchislactea |
+| 513 | 240 | Zany Shatterer |
 | 514 | 239 | Krash |
 | 515 | 239 | Christina Nabrizny |
 | 516 | 238 | 中山成巳 |
