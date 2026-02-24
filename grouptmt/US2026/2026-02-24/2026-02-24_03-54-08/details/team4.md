@@ -148,8 +148,8 @@
 | 140 | 619 | April Rondinone |
 | 141 | 618 | Ernest Maxwell |
 | 142 | 616 | Samantha Peterson |
-| 143 | 615 | Angelito |
-| 144 | 615 | Kim Hunt |
+| 143 | 615 | Kim Hunt |
+| 144 | 615 | Angelito |
 | 145 | 611 | Chris Baggett |
 | 146 | 608 | Swanky Fitline |
 | 147 | 602 | Cristy Duerksen |
@@ -236,8 +236,8 @@
 | 228 | 438 | Melvin Baird |
 | 229 | 436 | Selena Shaw |
 | 230 | 434 | Ramel Rhodes |
-| 231 | 433 | Damn Libra |
-| 232 | 433 | Circuit8 |
+| 231 | 433 | Circuit8 |
+| 232 | 433 | Damn Libra |
 | 233 | 432 | scott |
 | 234 | 431 | Manny1 |
 | 235 | 430 | Plucky Patternblock |

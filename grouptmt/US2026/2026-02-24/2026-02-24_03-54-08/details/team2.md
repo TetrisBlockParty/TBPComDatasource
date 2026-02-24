@@ -119,8 +119,8 @@
 | 111 | 2687 | Kelsey Kyle Rhodes |
 | 112 | 2670 | Rosemadder |
 | 113 | 2666 | ShinyRose |
-| 114 | 2651 | Desiree Harris Rosch |
-| 115 | 2651 | Rebecca Doughman |
+| 114 | 2651 | Rebecca Doughman |
+| 115 | 2651 | Desiree Harris Rosch |
 | 116 | 2641 | Freya |
 | 117 | 2631 | bonsai |
 | 118 | 2613 | Jen Tramack |
