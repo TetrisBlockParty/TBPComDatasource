@@ -715,8 +715,8 @@
 | 707 | 696 | Bree Mackie |
 | 708 | 695 | Giggy Grabber |
 | 709 | 694 | Lyndi Robinson Wakefield |
-| 710 | 694 | Courtney Burcham |
-| 711 | 694 | Rackemwillie34 |
+| 710 | 694 | Rackemwillie34 |
+| 711 | 694 | Courtney Burcham |
 | 712 | 692 | LuckyChopstix |
 | 713 | 692 | Bubbly Snapbuild |
 | 714 | 692 | Brianna Cerney |

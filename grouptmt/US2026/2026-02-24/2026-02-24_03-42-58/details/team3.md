@@ -314,8 +314,8 @@
 | 306 | 492 | Tasha Wesson-Torrence |
 | 307 | 490 | Brenda Schmid Wood |
 | 308 | 489 | Isabel Ocasio |
-| 309 | 486 | Skippy |
-| 310 | 486 | Sleepy |
+| 309 | 486 | Sleepy |
+| 310 | 486 | Skippy |
 | 311 | 484 | Daring Builder |
 | 312 | 482 | Fancy Curver |
 | 313 | 482 | Chummy Rumbler |
