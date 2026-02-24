@@ -108,11 +108,11 @@
 | 100 | 846 | Christine Marie |
 | 101 | 840 | SAP |
 | 102 | 837 | Rica Mitchell |
-| 103 | 834 | Brittney Orengo |
-| 104 | 834 | quicksand420 |
+| 103 | 834 | quicksand420 |
+| 104 | 834 | Brittney Orengo |
 | 105 | 815 | Diana Houts |
-| 106 | 813 | Amy Suckarieh |
-| 107 | 813 | Klo |
+| 106 | 813 | Klo |
+| 107 | 813 | Amy Suckarieh |
 | 108 | 811 | Sassy Pattern |
 | 109 | 806 | Lori Walker |
 | 110 | 806 | Zippy Gridlock |
@@ -138,8 +138,8 @@
 | 130 | 712 | Leslie Nicole |
 | 131 | 712 | H.R. Block |
 | 132 | 708 | Jacqueline Helm |
-| 133 | 704 | Austin Owens |
-| 134 | 704 | Chilly Crasher |
+| 133 | 704 | Chilly Crasher |
+| 134 | 704 | Austin Owens |
 | 135 | 682 | Raegan Lane-Ross |
 | 136 | 668 | Desi Desporte |
 | 137 | 667 | Swanky Fitline |
@@ -147,8 +147,8 @@
 | 139 | 667 | Matt Gooder |
 | 140 | 664 | Carmethia Clemons Haslerig |
 | 141 | 662 | Nerdy Twisterfit |
-| 142 | 661 | Rodney McMath Jr. |
-| 143 | 661 | shar |
+| 142 | 661 | shar |
+| 143 | 661 | Rodney McMath Jr. |
 | 144 | 651 | Adawna Swires |
 | 145 | 650 | Chris Hartig |
 | 146 | 647 | KM8 |
@@ -169,8 +169,8 @@
 | 161 | 602 | Cristy Duerksen |
 | 162 | 595 | TRCuse |
 | 163 | 587 | YoMomma |
-| 164 | 586 | Latisha Davis |
-| 165 | 586 | Carlos Ramirez |
+| 164 | 586 | Carlos Ramirez |
+| 165 | 586 | Latisha Davis |
 | 166 | 585 | Tracey Lehmann |
 | 167 | 584 | Carlton Unfiltered |
 | 168 | 576 | Jade Rian |
@@ -216,10 +216,10 @@
 | 208 | 502 | Christina Black |
 | 209 | 502 | Ericca Eldridge |
 | 210 | 501 | Sharyn Lemire |
-| 211 | 499 | Kesha Brady |
-| 212 | 499 | DonMega |
-| 213 | 496 | Jessica Bohlken |
-| 214 | 496 | Lori |
+| 211 | 499 | DonMega |
+| 212 | 499 | Kesha Brady |
+| 213 | 496 | Lori |
+| 214 | 496 | Jessica Bohlken |
 | 215 | 495 | Joeliecea Cobb |
 | 216 | 494 | Bio Nelly |
 | 217 | 493 | Amanda Pauldo-Ivy |
@@ -243,18 +243,18 @@
 | 235 | 457 | J-Rizzle |
 | 236 | 457 | Kristin Manee |
 | 237 | 455 | Michele Plunkett |
-| 238 | 454 | Keshia Lyons |
-| 239 | 454 | David Lay |
+| 238 | 454 | David Lay |
+| 239 | 454 | Keshia Lyons |
 | 240 | 450 | Genne Scott |
 | 241 | 449 | Danielle Kollias |
-| 242 | 448 | Mr. Party |
-| 243 | 448 | Mike Solo |
+| 242 | 448 | Mike Solo |
+| 243 | 448 | Mr. Party |
 | 244 | 447 | Jen Mattei |
 | 245 | 444 | Selena Shaw |
 | 246 | 442 | John Brunetti |
 | 247 | 441 | Lush Linkfall |
-| 248 | 438 | 23 |
-| 249 | 438 | Melvin Baird |
+| 248 | 438 | Melvin Baird |
+| 249 | 438 | 23 |
 | 250 | 435 | Chris Bernstein |
 | 251 | 434 | Ramel Rhodes |
 | 252 | 433 | Damn Libra |
@@ -279,8 +279,8 @@
 | 271 | 407 | Rafael Valentin |
 | 272 | 407 | Hyper Builder |
 | 273 | 402 | Nita Wells |
-| 274 | 399 | Twisty Cascadezone |
-| 275 | 399 | Brittany Little |
+| 274 | 399 | Brittany Little |
+| 275 | 399 | Twisty Cascadezone |
 | 276 | 398 | Tyler Terrific |
 | 277 | 397 | blockstar |
 | 278 | 395 | BigSammy420 |
@@ -294,7 +294,7 @@
 | 286 | 387 | Backoff Recupe |
 | 287 | 386 | Vic |
 | 288 | 382 | Sue Joyce Staats |
-| 289 | 380 | Chaz |
+| 289 | 380 | Jen Caldwell |
 | 290 | 380 | Holly Jolly |
 | 291 | 380 | Chaz |
 | 292 | 378 | Googenheim |
@@ -446,12 +446,12 @@
 | 438 | 266 | Happy Combo |
 | 439 | 266 | ĥuf |
 | 440 | 265 | Christine Therrien |
-| 441 | 265 | Lorena Guerrero-Barron |
-| 442 | 265 | Degenerate |
-| 443 | 265 | Sticherella |
-| 444 | 264 | Chantilly Laace |
+| 441 | 265 | Sticherella |
+| 442 | 265 | Lorena Guerrero-Barron |
+| 443 | 265 | Degenerate |
+| 444 | 264 | Brandi Durig |
 | 445 | 264 | Shh |
-| 446 | 264 | Brandi Durig |
+| 446 | 264 | Chantilly Laace |
 | 447 | 263 | Laurmarcar |
 | 448 | 262 | Walter Beltran |
 | 449 | 262 | Ruben Wheeler |

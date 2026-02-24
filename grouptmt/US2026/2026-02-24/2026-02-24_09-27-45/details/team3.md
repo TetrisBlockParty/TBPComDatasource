@@ -68,8 +68,8 @@
 | 60 | 1931 | Denise Nardoni |
 | 61 | 1920 | Trezure Gonzalez |
 | 62 | 1858 | Kristie McFarland |
-| 63 | 1824 | Nate Burnside |
-| 64 | 1824 | Jessica Ann |
+| 63 | 1824 | Jessica Ann |
+| 64 | 1824 | Nate Burnside |
 | 65 | 1804 | Tina Kay |
 | 66 | 1791 | Leah Barnett |
 | 67 | 1776 | Whitney Manuel |
@@ -111,8 +111,8 @@
 | 103 | 1309 | yoyo |
 | 104 | 1297 | Shelby Michelle |
 | 105 | 1290 | JerseyJess |
-| 106 | 1282 | Peppy Shifter |
-| 107 | 1282 | Amanda L Baker |
+| 106 | 1282 | Amanda L Baker |
+| 107 | 1282 | Peppy Shifter |
 | 108 | 1276 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1248 | Lori Barnaby |
@@ -184,14 +184,14 @@
 | 176 | 857 | Dana Fox |
 | 177 | 856 | Dana Winters |
 | 178 | 854 | Speedy Bridger |
-| 179 | 847 | Daira Largen |
-| 180 | 847 | Daring Brickzone |
+| 179 | 847 | Daring Brickzone |
+| 180 | 847 | Daira Largen |
 | 181 | 846 | Nicole Myers |
 | 182 | 842 | Alexmac |
 | 183 | 829 | Patricia White |
 | 184 | 825 | Lizabeth Fox |
-| 185 | 821 | Kammy Hill |
-| 186 | 821 | Angella Lyons |
+| 185 | 821 | Angella Lyons |
+| 186 | 821 | Kammy Hill |
 | 187 | 817 | Niki Dalrymple |
 | 188 | 815 | Justin Ritter |
 | 189 | 813 | JessDrown |
@@ -231,13 +231,13 @@
 | 223 | 715 | Karon Griffin |
 | 224 | 714 | Jenny Hrndz |
 | 225 | 713 | Stephanie Blkpep Davidson |
-| 226 | 709 | Christine Niles |
-| 227 | 709 | Cynthia Castros-Hampton |
+| 226 | 709 | Cynthia Castros-Hampton |
+| 227 | 709 | Christine Niles |
 | 228 | 708 | Stephanie Bradley |
 | 229 | 704 | Betty Bóò |
 | 230 | 703 | Shawn Miller |
-| 231 | 693 | lashanda |
-| 232 | 693 | Heather Davis |
+| 231 | 693 | Heather Davis |
+| 232 | 693 | lashanda |
 | 233 | 691 | Tia |
 | 234 | 691 | Snappy Balancer |
 | 235 | 687 | joz |
@@ -347,8 +347,8 @@
 | 339 | 479 | Charles Perrone |
 | 340 | 476 | Shunta Jacobs |
 | 341 | 474 | Troy |
-| 342 | 471 | Sarah Moyer |
-| 343 | 471 | Mendoza Lee Christy |
+| 342 | 471 | Mendoza Lee Christy |
+| 343 | 471 | Sarah Moyer |
 | 344 | 467 | Jul |
 | 345 | 467 | Danielle Rhoades |
 | 346 | 465 | Blocked |
@@ -388,8 +388,8 @@
 | 380 | 432 | Justice 4 P |
 | 381 | 431 | Goofy Fall |
 | 382 | 431 | Donna Esbensen-Alpini |
-| 383 | 430 | AlsoJess |
-| 384 | 430 | Quackers |
+| 383 | 430 | Quackers |
+| 384 | 430 | AlsoJess |
 | 385 | 428 | Samantha Lynn |
 | 386 | 428 | Skinny Baldez |
 | 387 | 427 | Darlene McMillan |
@@ -525,8 +525,8 @@
 | 517 | 335 | Sassy Brickmatch |
 | 518 | 335 | Johnathan Dowe |
 | 519 | 334 | Sharisse Baltimore |
-| 520 | 334 | Stella |
-| 521 | 334 | Carol Cain Thurman |
+| 520 | 334 | Carol Cain Thurman |
+| 521 | 334 | Stella |
 | 522 | 333 | Heather Ferrara |
 | 523 | 333 | Hyper Wipeout |
 | 524 | 332 | Clever Edgepiece |
@@ -538,8 +538,8 @@
 | 530 | 329 | Krystal Gerstberger |
 | 531 | 329 | Bree Sexton |
 | 532 | 328 | Desiree Soto |
-| 533 | 328 | Sdot |
-| 534 | 328 | Cesar Mendez |
+| 533 | 328 | Cesar Mendez |
+| 534 | 328 | Sdot |
 | 535 | 327 | Taylor Hood |
 | 536 | 327 | Jess Bissett |
 | 537 | 326 | Beppy |
@@ -786,8 +786,8 @@
 | 778 | 246 | MomOnBreak |
 | 779 | 246 | Erica Anderson |
 | 780 | 245 | Latoya Mayne |
-| 781 | 245 | Bhreagh Gentile |
-| 782 | 245 | Martin Bernier |
+| 781 | 245 | Martin Bernier |
+| 782 | 245 | Bhreagh Gentile |
 | 783 | 245 | Danette Marie |
 | 784 | 244 | Amanda Fulton |
 | 785 | 244 | MizzMonick Smith |
@@ -1331,7 +1331,7 @@
 | 1323 | 143 | Mari Thompson Cooper |
 | 1324 | 143 | sapphomet |
 | 1325 | 143 | Serenity |
-| 1326 | 143 | Mari Thompson Cooper |
+| 1326 | 143 | Chilly Wipegrid |
 | 1327 | 143 | Jared Craddox |
 | 1328 | 143 | Cozy Matchfit |
 | 1329 | 142 | Beeshbo |

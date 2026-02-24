@@ -325,8 +325,8 @@
 | 317 | 1342 | Kelly A Green-Leach |
 | 318 | 1342 | Groovy Puzzle |
 | 319 | 1341 | Cassie Mercer |
-| 320 | 1338 | Meghan M |
-| 321 | 1338 | Diallo Sparkman |
+| 320 | 1338 | Diallo Sparkman |
+| 321 | 1338 | Meghan M |
 | 322 | 1337 | Christina Walker |
 | 323 | 1336 | Frothy Rumbler |
 | 324 | 1334 | Jamie Otero |
@@ -433,8 +433,8 @@
 | 425 | 1089 | Jerilyn Andrina |
 | 426 | 1088 | Angelina Marie |
 | 427 | 1088 | BK Queen |
-| 428 | 1087 | Cindy Sechler Taninecz |
-| 429 | 1087 | Jenn Marie |
+| 428 | 1087 | Jenn Marie |
+| 429 | 1087 | Cindy Sechler Taninecz |
 | 430 | 1085 | Bee |
 | 431 | 1085 | Barbra Miller |
 | 432 | 1084 | Emilee Burke |
@@ -563,12 +563,12 @@
 | 555 | 903 | Dylan Thomason |
 | 556 | 903 | Stephanie Lumanlan |
 | 557 | 902 | Stephanie Sul |
-| 558 | 899 | Caitlyn Blackwell |
-| 559 | 899 | Patrick Bartlett |
+| 558 | 899 | Patrick Bartlett |
+| 559 | 899 | Caitlyn Blackwell |
 | 560 | 895 | Donna Colby |
 | 561 | 893 | Shantel Kelley |
-| 562 | 890 | Venita Ray |
-| 563 | 890 | Traci Johnson |
+| 562 | 890 | Traci Johnson |
+| 563 | 890 | Venita Ray |
 | 564 | 888 | Leslie Ann Carter |
 | 565 | 886 | Bold Splitter |
 | 566 | 886 | Cherrica Newman |
@@ -579,8 +579,8 @@
 | 571 | 881 | BIG BABY |
 | 572 | 881 | Layla LS |
 | 573 | 876 | Jelly |
-| 574 | 876 | Carrie Mitchell |
-| 575 | 876 | Jessicah Myers |
+| 574 | 876 | Jessicah Myers |
+| 575 | 876 | Carrie Mitchell |
 | 576 | 875 | Amanda Ferrell |
 | 577 | 874 | Cathleena Giusto |
 | 578 | 871 | Dennis McLaurin |
@@ -910,8 +910,8 @@
 | 902 | 638 | DLOCC1056 |
 | 903 | 637 | Darcy Mae |
 | 904 | 636 | Tash Bell |
-| 905 | 635 | Pamela Babisky |
-| 906 | 635 | John Carlin |
+| 905 | 635 | John Carlin |
+| 906 | 635 | Pamela Babisky |
 | 907 | 634 | Jessica Galick |
 | 908 | 632 | Lea Stewart |
 | 909 | 631 | Autumn Schaeffer |
@@ -928,8 +928,8 @@
 | 920 | 622 | Ryan Meilleur |
 | 921 | 622 | Ben Barkley |
 | 922 | 621 | Moua Ying |
-| 923 | 621 | Erica Dale |
-| 924 | 621 | Kitybox |
+| 923 | 621 | Kitybox |
+| 924 | 621 | Erica Dale |
 | 925 | 620 | Gael |
 | 926 | 620 | Beth Decker |
 | 927 | 619 | Allie Leedom |
