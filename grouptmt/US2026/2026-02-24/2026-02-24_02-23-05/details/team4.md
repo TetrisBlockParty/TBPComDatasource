@@ -255,8 +255,8 @@
 | 247 | 398 | Nerdy Twisterfit |
 | 248 | 398 | Tyler Terrific |
 | 249 | 397 | blockstar |
-| 250 | 395 | BigSammy420 |
-| 251 | 395 | 030Synner |
+| 250 | 395 | 030Synner |
+| 251 | 395 | BigSammy420 |
 | 252 | 394 | Nita Wells |
 | 253 | 391 | mike |
 | 254 | 390 | Ari Droff |
@@ -557,7 +557,7 @@
 | 549 | 194 | Nicole Serio |
 | 550 | 194 | Cranky Glidebuilder |
 | 551 | 193 | Stormy Tomplait |
-| 552 | 192 | Jacob Campbell |
+| 552 | 192 | Rebecca A Rit |
 | 553 | 192 | Twisty Risebuilder |
 | 554 | 192 | Jacob Campbell |
 | 555 | 191 | Earnest Thompson |
@@ -606,8 +606,8 @@
 | 598 | 177 | Snippy Clearer |
 | 599 | 177 | Tina Williams |
 | 600 | 176 | Walid Elsabee |
-| 601 | 174 | Katie McCabe |
-| 602 | 174 | David Boggs |
+| 601 | 174 | David Boggs |
+| 602 | 174 | Katie McCabe |
 | 603 | 174 | Christina Hyde |
 | 604 | 173 | Groovy Brickmatch |
 | 605 | 173 | Nijmeh Hinchsliff |
@@ -673,7 +673,7 @@
 | 665 | 157 | Hanh Pham |
 | 666 | 157 | Matt Rawls |
 | 667 | 156 | MOCHA |
-| 668 | 155 | Faja |
+| 668 | 155 | Patrick Cookson |
 | 669 | 155 | Marcus Cooper |
 | 670 | 155 | Faja |
 | 671 | 154 | Holly Tracey-Grimes |

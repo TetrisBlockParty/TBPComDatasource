@@ -65,8 +65,8 @@
 | 57 | 1103 | Drew Magnus |
 | 58 | 1100 | Carrie Beck Geartz |
 | 59 | 1091 | Adam Byrd |
-| 60 | 1076 | Redlicious 1 |
-| 61 | 1076 | Cheeky Twistslam |
+| 60 | 1076 | Cheeky Twistslam |
+| 61 | 1076 | Redlicious 1 |
 | 62 | 1046 | Kristen Roles Robben |
 | 63 | 1032 | Kathi Snustad |
 | 64 | 1027 | Robert Beck |
@@ -218,11 +218,11 @@
 | 210 | 424 | Lindsay Glover |
 | 211 | 424 | Emily Adelaide Wheatley |
 | 212 | 423 | Chelsea Dahlquist |
-| 213 | 422 | Reesey Enyart |
-| 214 | 422 | Jamise Brown |
+| 213 | 422 | Jamise Brown |
+| 214 | 422 | Reesey Enyart |
 | 215 | 420 | Jennifer Noe Chandler |
-| 216 | 419 | John J. Cronin |
-| 217 | 419 | Daring Fitclear |
+| 216 | 419 | Daring Fitclear |
+| 217 | 419 | John J. Cronin |
 | 218 | 417 | Jessie Lynn |
 | 219 | 416 | Jessica Sheehan |
 | 220 | 413 | Ananda Mendez |

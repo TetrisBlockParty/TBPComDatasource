@@ -534,8 +534,8 @@
 | 526 | 843 | Lilia Gomez |
 | 527 | 843 | Quirky Twistline |
 | 528 | 841 | Leslie Jorgenson |
-| 529 | 840 | Traci Johnson |
-| 530 | 840 | Kiana Boschh |
+| 529 | 840 | Kiana Boschh |
+| 530 | 840 | Traci Johnson |
 | 531 | 839 | Gary Stash |
 | 532 | 836 | James Simms III |
 | 533 | 836 | Iris Angelica Perez Cantos |
@@ -4685,7 +4685,7 @@
 | 4677 | 130 | Mandy Mckissick |
 | 4678 | 130 | Ruby Rose |
 | 4679 | 130 | Erica Messina |
-| 4680 | 130 | Josue Rivera |
+| 4680 | 130 | Plucky Blockclear |
 | 4681 | 130 | Rosemary Springs |
 | 4682 | 130 | Josue Rivera |
 | 4683 | 130 | Amber |
