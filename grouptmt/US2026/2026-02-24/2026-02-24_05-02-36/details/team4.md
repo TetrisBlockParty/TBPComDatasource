@@ -238,8 +238,8 @@
 | 230 | 442 | John Brunetti |
 | 231 | 442 | 🥔🥔 Spudz |
 | 232 | 441 | Lush Linkfall |
-| 233 | 438 | Melvin Baird |
-| 234 | 438 | 23 |
+| 233 | 438 | 23 |
+| 234 | 438 | Melvin Baird |
 | 235 | 437 | Selena Shaw |
 | 236 | 436 | Brittney Orengo |
 | 237 | 434 | Ramel Rhodes |
@@ -285,8 +285,8 @@
 | 277 | 378 | Jason Gibbs |
 | 278 | 378 | Mary Ann Pabukis |
 | 279 | 377 | Matt Dell'Olio |
-| 280 | 376 | Montiette Mcglown |
-| 281 | 376 | Nig |
+| 280 | 376 | Nig |
+| 281 | 376 | Montiette Mcglown |
 | 282 | 373 | Russ Attitude |
 | 283 | 372 | Hyper Builder |
 | 284 | 370 | Twisty Risebuilder |
@@ -304,10 +304,10 @@
 | 296 | 350 | Dizzy Matchzone |
 | 297 | 349 | jim |
 | 298 | 349 | Richard-April Kice |
-| 299 | 347 | Megan Cutshaw |
-| 300 | 347 | Zołza 😈 |
-| 301 | 347 | Perky Patternblock |
-| 302 | 347 | Daria Rycewicz |
+| 299 | 347 | Daria Rycewicz |
+| 300 | 347 | Megan Cutshaw |
+| 301 | 347 | Zołza 😈 |
+| 302 | 347 | Perky Patternblock |
 | 303 | 346 | Metsfan |
 | 304 | 344 | Amanda Maciel Clarke |
 | 305 | 343 | HastyGrabber |

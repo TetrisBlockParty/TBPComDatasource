@@ -102,8 +102,8 @@
 | 94 | 1361 | Patricia Gadsden |
 | 95 | 1343 | Joey Banks |
 | 96 | 1320 | Kristie |
-| 97 | 1318 | Tiff Vs Tiffany |
-| 98 | 1318 | Diana Ibarra |
+| 97 | 1318 | Diana Ibarra |
+| 98 | 1318 | Tiff Vs Tiffany |
 | 99 | 1309 | yoyo |
 | 100 | 1297 | Shelby Michelle |
 | 101 | 1290 | JerseyJess |
@@ -246,8 +246,8 @@
 | 238 | 630 | Jackie Miller |
 | 239 | 629 | rnr junky |
 | 240 | 628 | Jeni Dow |
-| 241 | 627 | Juliana Dottore |
-| 242 | 627 | Louise Stacy Sisson |
+| 241 | 627 | Louise Stacy Sisson |
+| 242 | 627 | Juliana Dottore |
 | 243 | 625 | Jacqueline Rodriguez |
 | 244 | 623 | Giggy Glidepiece |
 | 245 | 619 | Swanky Snapclear |
@@ -263,8 +263,8 @@
 | 255 | 598 | Kaycee Kay |
 | 256 | 595 | Betty Rosas |
 | 257 | 588 | Salena Whitlock |
-| 258 | 586 | Donna |
-| 259 | 586 | Brian Battjes |
+| 258 | 586 | Brian Battjes |
+| 259 | 586 | Donna |
 | 260 | 582 | FuzzyNavel |
 | 261 | 578 | James Mitchell |
 | 262 | 574 | Rachael McClain Owens |
