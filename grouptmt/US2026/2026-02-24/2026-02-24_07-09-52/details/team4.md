@@ -106,8 +106,8 @@
 | 98 | 846 | Christine Marie |
 | 99 | 840 | SAP |
 | 100 | 837 | Rica Mitchell |
-| 101 | 834 | quicksand420 |
-| 102 | 834 | Brittney Orengo |
+| 101 | 834 | Brittney Orengo |
+| 102 | 834 | quicksand420 |
 | 103 | 815 | Diana Houts |
 | 104 | 813 | Klo |
 | 105 | 811 | Sassy Pattern |
@@ -167,8 +167,8 @@
 | 159 | 590 | Angela Srubar-Norman |
 | 160 | 589 | Livvy |
 | 161 | 587 | YoMomma |
-| 162 | 586 | Carlos Ramirez |
-| 163 | 586 | Latisha Davis |
+| 162 | 586 | Latisha Davis |
+| 163 | 586 | Carlos Ramirez |
 | 164 | 585 | Tracey Lehmann |
 | 165 | 584 | Carlton Unfiltered |
 | 166 | 576 | Jade Rian |
@@ -247,8 +247,8 @@
 | 239 | 444 | Selena Shaw |
 | 240 | 442 | John Brunetti |
 | 241 | 441 | Lush Linkfall |
-| 242 | 438 | 23 |
-| 243 | 438 | Melvin Baird |
+| 242 | 438 | Melvin Baird |
+| 243 | 438 | 23 |
 | 244 | 434 | Ramel Rhodes |
 | 245 | 433 | Circuit8 |
 | 246 | 433 | Damn Libra |
@@ -259,8 +259,8 @@
 | 251 | 427 | Chao Ma |
 | 252 | 424 | Andrew Dang |
 | 253 | 423 | Gdiguy |
-| 254 | 421 | JIGsaw ~(•¿°)~ |
-| 255 | 421 | Brickh4us |
+| 254 | 421 | Brickh4us |
+| 255 | 421 | JIGsaw ~(•¿°)~ |
 | 256 | 420 | Jeff Brian Gates |
 | 257 | 419 | Hyper Matchclear |
 | 258 | 413 | Rio Rocha |
@@ -292,8 +292,8 @@
 | 284 | 380 | Chaz |
 | 285 | 379 | Backoff Recupe |
 | 286 | 378 | Googenheim |
-| 287 | 378 | Jason Gibbs |
-| 288 | 378 | Mary Ann Pabukis |
+| 287 | 378 | Mary Ann Pabukis |
+| 288 | 378 | Jason Gibbs |
 | 289 | 377 | Matt Dell'Olio |
 | 290 | 376 | Nig |
 | 291 | 375 | George Tzouganos |
@@ -384,8 +384,8 @@
 | 376 | 299 | Dan Wold |
 | 377 | 299 | Michael Snow |
 | 378 | 298 | Val Erie |
-| 379 | 297 | Allison Rose |
-| 380 | 297 | Brittany Marsh |
+| 379 | 297 | Brittany Marsh |
+| 380 | 297 | Allison Rose |
 | 381 | 296 | Dapper Frame |
 | 382 | 295 | Deb Rubeck |
 | 383 | 294 | Kevin Bush |

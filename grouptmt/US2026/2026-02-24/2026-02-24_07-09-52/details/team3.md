@@ -155,10 +155,10 @@
 | 147 | 966 | Sashay Tapae Simpson |
 | 148 | 963 | Crystal Frey |
 | 149 | 961 | Danielle Allison |
-| 150 | 950 | Giddy Drop |
-| 151 | 950 | MissTaylor |
-| 152 | 940 | Patty Allen |
-| 153 | 940 | Stephanie Allmon |
+| 150 | 950 | MissTaylor |
+| 151 | 950 | Giddy Drop |
+| 152 | 940 | Stephanie Allmon |
+| 153 | 940 | Patty Allen |
 | 154 | 936 | Dolores Falco |
 | 155 | 925 | Cherry Parker |
 | 156 | 914 | BadManSheLove |
@@ -207,8 +207,8 @@
 | 199 | 772 | Tye Stovall |
 | 200 | 769 | Hasty Cascadefit |
 | 201 | 768 | Cyd061769 |
-| 202 | 763 | Khaleada McGill Banks |
-| 203 | 763 | Tasha Gillespie |
+| 202 | 763 | Tasha Gillespie |
+| 203 | 763 | Khaleada McGill Banks |
 | 204 | 760 | Kiki |
 | 205 | 759 | Mykal Burton |
 | 206 | 757 | Fancy Cascader |
@@ -324,8 +324,8 @@
 | 316 | 505 | Stephanie Simpson |
 | 317 | 500 | Ashley Tookes |
 | 318 | 499 | Gumbo |
-| 319 | 499 | Rebecca Bailey |
-| 320 | 499 | Megan Rathmanner |
+| 319 | 499 | Megan Rathmanner |
+| 320 | 499 | Rebecca Bailey |
 | 321 | 496 | Brenda Schmid Wood |
 | 322 | 495 | Daring Builder |
 | 323 | 494 | fraulila |
@@ -347,8 +347,8 @@
 | 339 | 471 | Sarah Moyer |
 | 340 | 467 | Jul |
 | 341 | 467 | Danielle Rhoades |
-| 342 | 465 | Noettín Kan Zasnemoore |
-| 343 | 465 | Blocked |
+| 342 | 465 | Blocked |
+| 343 | 465 | Noettín Kan Zasnemoore |
 | 344 | 464 | Snazzy Filler |
 | 345 | 462 | Brandon Givens |
 | 346 | 462 | Tegan Chapman |
@@ -358,8 +358,8 @@
 | 350 | 459 | TotoCherue |
 | 351 | 459 | Randy Clevenger |
 | 352 | 457 | Snippy Wipeout |
-| 353 | 456 | Kelly |
-| 354 | 456 | Cynthia Herrmann Egland |
+| 353 | 456 | Cynthia Herrmann Egland |
+| 354 | 456 | Kelly |
 | 355 | 455 | Kelly Wolf |
 | 356 | 450 | Stefanie LaPointe |
 | 357 | 450 | Luciana Braganca Vieira |
@@ -396,8 +396,8 @@
 | 388 | 418 | Rainbow77375 |
 | 389 | 416 | Tay |
 | 390 | 415 | Steffi Chris Dacones |
-| 391 | 414 | RickyG |
-| 392 | 414 | Arden White Kirsch |
+| 391 | 414 | Arden White Kirsch |
+| 392 | 414 | RickyG |
 | 393 | 413 | Rick Poppen |
 | 394 | 411 | Beaudie Stroebel |
 | 395 | 409 | Rich LeBlanc |

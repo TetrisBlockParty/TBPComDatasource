@@ -214,8 +214,8 @@
 | 206 | 1815 | Chirpy Staggerpiece |
 | 207 | 1813 | Catina Hutchison |
 | 208 | 1807 | Osun Anuket Esu |
-| 209 | 1775 | Sommer Shope |
-| 210 | 1775 | Eboni Banks |
+| 209 | 1775 | Eboni Banks |
+| 210 | 1775 | Sommer Shope |
 | 211 | 1763 | Nerdy Pattern |
 | 212 | 1761 | Rosa Franklin |
 | 213 | 1751 | Melissa Penelope Ann Dodge |
@@ -304,15 +304,15 @@
 | 296 | 1374 | Kori Beth Babb |
 | 297 | 1362 | Angie Marie |
 | 298 | 1358 | Arlene Joy Belicina |
-| 299 | 1353 | Deborah Miller |
-| 300 | 1353 | Heather Hoffman Disharoon |
+| 299 | 1353 | Heather Hoffman Disharoon |
+| 300 | 1353 | Deborah Miller |
 | 301 | 1351 | Lucky Ladybug |
 | 302 | 1351 | Ashie Ann |
-| 303 | 1351 | Denisha Dawkins |
-| 304 | 1351 | Johnny Yeates |
+| 303 | 1351 | Johnny Yeates |
+| 304 | 1351 | Denisha Dawkins |
 | 305 | 1343 | Sarah Berger |
-| 306 | 1342 | Groovy Puzzle |
-| 307 | 1342 | Kelly A Green-Leach |
+| 306 | 1342 | Kelly A Green-Leach |
+| 307 | 1342 | Groovy Puzzle |
 | 308 | 1341 | Cassie Mercer |
 | 309 | 1340 | Tralonda Weeks |
 | 310 | 1338 | Diallo Sparkman |
@@ -351,15 +351,15 @@
 | 343 | 1264 | Mama T |
 | 344 | 1261 | Becca Coronado |
 | 345 | 1257 | Jackie Lucas |
-| 346 | 1257 | Megan Garrick |
-| 347 | 1257 | Megan Ferguson Leone |
+| 346 | 1257 | Megan Ferguson Leone |
+| 347 | 1257 | Megan Garrick |
 | 348 | 1256 | Belle |
 | 349 | 1254 | Erika Densmore |
 | 350 | 1252 | Brainy Smurf |
 | 351 | 1249 | Tristan Szolek |
 | 352 | 1245 | Angel Hunnewell |
-| 353 | 1237 | Cheech Dta |
-| 354 | 1237 | Christine Coughlin |
+| 353 | 1237 | Christine Coughlin |
+| 354 | 1237 | Cheech Dta |
 | 355 | 1233 | Shannon Joslin |
 | 356 | 1232 | Ambyre Patterson |
 | 357 | 1229 | Brenda Messer |
@@ -6787,7 +6787,7 @@
 | 6779 | 81 | Vincent Yanez |
 | 6780 | 81 | Leslie Piggs |
 | 6781 | 81 | Rodney Jackson |
-| 6782 | 81 | Leslie Piggs |
+| 6782 | 81 | Mary Haviland |
 | 6783 | 81 | dmoney |
 | 6784 | 81 | Kritrina Humble |
 | 6785 | 81 | BLACMOON34 |
