@@ -330,8 +330,8 @@
 | 322 | 1342 | Groovy Puzzle |
 | 323 | 1342 | Kelly A Green-Leach |
 | 324 | 1341 | Cassie Mercer |
-| 325 | 1338 | Meghan M |
-| 326 | 1338 | Diallo Sparkman |
+| 325 | 1338 | Diallo Sparkman |
+| 326 | 1338 | Meghan M |
 | 327 | 1336 | Frothy Rumbler |
 | 328 | 1334 | Jamie Otero |
 | 329 | 1333 | nikki |
@@ -348,8 +348,8 @@
 | 340 | 1304 | Sarah Ridenour |
 | 341 | 1303 | Michele Morgan |
 | 342 | 1301 | Mandy Cekine |
-| 343 | 1300 | Tacara Cummings |
-| 344 | 1300 | Shinel Richardson |
+| 343 | 1300 | Shinel Richardson |
+| 344 | 1300 | Tacara Cummings |
 | 345 | 1295 | Jess Morrison |
 | 346 | 1292 | Joshua Mandel |
 | 347 | 1288 | Nicole Cannon |
@@ -622,8 +622,8 @@
 | 614 | 837 | Julio A Laracuente |
 | 615 | 836 | James Simms III |
 | 616 | 835 | Jo Nicole |
-| 617 | 835 | TJ Nash |
-| 618 | 835 | Diane P. Richardson |
+| 617 | 835 | Diane P. Richardson |
+| 618 | 835 | TJ Nash |
 | 619 | 834 | Montez Mancil |
 | 620 | 834 | Tracy Cowley |
 | 621 | 834 | NanDa Cruzan VI |
@@ -646,11 +646,11 @@
 | 638 | 813 | Neko Preston |
 | 639 | 813 | Krys |
 | 640 | 812 | Samantha Jo |
-| 641 | 812 | CC |
-| 642 | 812 | bbv |
-| 643 | 811 | Vanessa Moreno |
-| 644 | 811 | Kimberly Randesi |
-| 645 | 811 | Dreamy Blast |
+| 641 | 812 | bbv |
+| 642 | 812 | CC |
+| 643 | 811 | Dreamy Blast |
+| 644 | 811 | Vanessa Moreno |
+| 645 | 811 | Kimberly Randesi |
 | 646 | 809 | Melissa Holsinger |
 | 647 | 808 | Leslie Johnson Guinto |
 | 648 | 808 | Justin Edwards |
@@ -660,15 +660,15 @@
 | 652 | 797 | Moist_B-hole |
 | 653 | 796 | Trevor Jordan |
 | 654 | 796 | Brianna Cerney |
-| 655 | 795 | Aletha Williams |
-| 656 | 795 | Alexandra Weir |
-| 657 | 793 | Joseph Musick |
-| 658 | 793 | Heather Anspaugh |
+| 655 | 795 | Alexandra Weir |
+| 656 | 795 | Aletha Williams |
+| 657 | 793 | Heather Anspaugh |
+| 658 | 793 | Joseph Musick |
 | 659 | 792 | Beatboxxer |
 | 660 | 790 | Cassie Maynard |
 | 661 | 789 | Johanna Massaro |
-| 662 | 789 | Bonita Kee |
-| 663 | 789 | De'Jah Charncey |
+| 662 | 789 | De'Jah Charncey |
+| 663 | 789 | Bonita Kee |
 | 664 | 787 | Maya June |
 | 665 | 786 | Charvi' Carter |
 | 666 | 786 | tejas25 |
@@ -696,11 +696,11 @@
 | 688 | 770 | Michael Buckner |
 | 689 | 770 | Nakiiya Dreamcatcher Gore |
 | 690 | 769 | Roderick Allen |
-| 691 | 768 | Mia Muse Best |
-| 692 | 768 | Terry Paulson |
-| 693 | 766 | Diamond Scott |
-| 694 | 766 | Angela Cagle Silmon |
-| 695 | 766 | Frisky Riserbuilder |
+| 691 | 768 | Terry Paulson |
+| 692 | 768 | Mia Muse Best |
+| 693 | 766 | Frisky Riserbuilder |
+| 694 | 766 | Diamond Scott |
+| 695 | 766 | Angela Cagle Silmon |
 | 696 | 764 | Shannon Jackson |
 | 697 | 763 | Chelle |
 | 698 | 763 | Heather Causey |
@@ -821,8 +821,8 @@
 | 813 | 683 | Audrey Jones |
 | 814 | 682 | Jacob Tri |
 | 815 | 680 | Nutty Cascade |
-| 816 | 680 | Stephanie Lafalce |
-| 817 | 680 | Paul Combs |
+| 816 | 680 | Paul Combs |
+| 817 | 680 | Stephanie Lafalce |
 | 818 | 680 | mshir |
 | 819 | 679 | Regina Knight |
 | 820 | 679 | DLOCC1056 |

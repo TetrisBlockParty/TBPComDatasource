@@ -69,8 +69,8 @@
 | 61 | 1920 | Trezure Gonzalez |
 | 62 | 1858 | Kristie McFarland |
 | 63 | 1836 | Tina Kay |
-| 64 | 1824 | Nate Burnside |
-| 65 | 1824 | Jessica Ann |
+| 64 | 1824 | Jessica Ann |
+| 65 | 1824 | Nate Burnside |
 | 66 | 1791 | Leah Barnett |
 | 67 | 1776 | Whitney Manuel |
 | 68 | 1774 | Liv Whetson |
@@ -83,8 +83,8 @@
 | 75 | 1633 | cowboy25469 |
 | 76 | 1625 | Queen Kam |
 | 77 | 1615 | joclisa |
-| 78 | 1566 | Nerdy Riseclear |
-| 79 | 1566 | Marcie Bressler |
+| 78 | 1566 | Marcie Bressler |
+| 79 | 1566 | Nerdy Riseclear |
 | 80 | 1560 | Logan Naccarato |
 | 81 | 1555 | Snappy Glidepiece |
 | 82 | 1518 | Christine Filson |
@@ -111,8 +111,8 @@
 | 103 | 1309 | yoyo |
 | 104 | 1297 | Shelby Michelle |
 | 105 | 1290 | JerseyJess |
-| 106 | 1282 | Peppy Shifter |
-| 107 | 1282 | Amanda L Baker |
+| 106 | 1282 | Amanda L Baker |
+| 107 | 1282 | Peppy Shifter |
 | 108 | 1276 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1248 | Lori Barnaby |
@@ -127,8 +127,8 @@
 | 119 | 1134 | Melissa Orth Hunter |
 | 120 | 1124 | Stephanie Rice |
 | 121 | 1121 | Corie A. Brinson |
-| 122 | 1114 | Groovy Catcher |
-| 123 | 1114 | Loopy Fallmatch |
+| 122 | 1114 | Loopy Fallmatch |
+| 123 | 1114 | Groovy Catcher |
 | 124 | 1105 | Adrian Marcel Pate |
 | 125 | 1093 | Angela M. Fletcher |
 | 126 | 1091 | Jennifer |
@@ -199,8 +199,8 @@
 | 191 | 815 | Justin Ritter |
 | 192 | 813 | JessDrown |
 | 193 | 808 | Raya |
-| 194 | 804 | Gideon Walker |
-| 195 | 804 | Alaina Lee |
+| 194 | 804 | Alaina Lee |
+| 195 | 804 | Gideon Walker |
 | 196 | 800 | Lauren Girouard |
 | 197 | 799 | Trisha Balmer |
 | 198 | 792 | Rachel Grant |
@@ -210,8 +210,8 @@
 | 202 | 784 | Jone |
 | 203 | 777 | Daryn Elliott |
 | 204 | 774 | ren |
-| 205 | 772 | Hasty Cascadefit |
-| 206 | 772 | Cyd061769 |
+| 205 | 772 | Cyd061769 |
+| 206 | 772 | Hasty Cascadefit |
 | 207 | 766 | Tasha Gillespie |
 | 208 | 763 | Khaleada McGill Banks |
 | 209 | 762 | Naur |
@@ -324,16 +324,16 @@
 | 316 | 526 | Ktfreeee |
 | 317 | 518 | Marquita Sheard |
 | 318 | 514 | Nikki White |
-| 319 | 506 | Tiffanie Alley |
-| 320 | 506 | Ammmmmmy |
+| 319 | 506 | Ammmmmmy |
+| 320 | 506 | Tiffanie Alley |
 | 321 | 505 | Stephanie Simpson |
 | 322 | 504 | Daring Builder |
 | 323 | 500 | Ashley Tookes |
 | 324 | 499 | Megan Rathmanner |
 | 325 | 499 | Gumbo |
 | 326 | 496 | Brenda Schmid Wood |
-| 327 | 494 | fraulila |
-| 328 | 494 | MCV |
+| 327 | 494 | MCV |
+| 328 | 494 | fraulila |
 | 329 | 492 | Tasha Wesson-Torrence |
 | 330 | 490 | TotoCherue |
 | 331 | 490 | Cassandra Bryant |
@@ -352,12 +352,12 @@
 | 344 | 476 | Shunta Jacobs |
 | 345 | 474 | Troy |
 | 346 | 473 | Christian Werndl |
-| 347 | 471 | Mendoza Lee Christy |
-| 348 | 471 | Sarah Moyer |
+| 347 | 471 | Sarah Moyer |
+| 348 | 471 | Mendoza Lee Christy |
 | 349 | 467 | Danielle Rhoades |
 | 350 | 467 | Jul |
-| 351 | 465 | Blocked |
-| 352 | 465 | Noettín Kan Zasnemoore |
+| 351 | 465 | Noettín Kan Zasnemoore |
+| 352 | 465 | Blocked |
 | 353 | 464 | Snazzy Filler |
 | 354 | 464 | Snippy Wipeout |
 | 355 | 463 | Hoài Quắt |
@@ -548,7 +548,7 @@
 | 540 | 327 | Jess Bissett |
 | 541 | 326 | Eric Caccavale |
 | 542 | 326 | Beppy |
-| 543 | 326 | Eric Caccavale |
+| 543 | 326 | Natalie Augustus |
 | 544 | 324 | Paul Daniel Quertermous |
 | 545 | 323 | sofaking |
 | 546 | 323 | Carla Hoffman |
@@ -716,8 +716,8 @@
 | 708 | 270 | Crafty Tilemaker |
 | 709 | 269 | Serena Jarrell |
 | 710 | 269 | Bigmack |
-| 711 | 268 | Wacky Crasher |
-| 712 | 268 | DanceLuvLaugh |
+| 711 | 268 | DanceLuvLaugh |
+| 712 | 268 | Wacky Crasher |
 | 713 | 267 | April Matthew Kibble |
 | 714 | 266 | Cathy Reeves |
 | 715 | 266 | Reina Roth |
@@ -1051,7 +1051,7 @@
 | 1043 | 188 | Happy Clear |
 | 1044 | 188 | Coolata |
 | 1045 | 188 | Sara Dunn |
-| 1046 | 188 | Happy Clear |
+| 1046 | 188 | Emily Kirkman Greenwood |
 | 1047 | 188 | Elaine Rodbell |
 | 1048 | 187 | Chill Patternfit |
 | 1049 | 187 | Emily Hale |
@@ -1153,9 +1153,9 @@
 | 1145 | 171 | Rachelle-Marshall Foreman |
 | 1146 | 171 | Kobe Artis |
 | 1147 | 170 | Chenelle Ashley |
-| 1148 | 170 | Alan Falconer |
-| 1149 | 170 | PrincessSquare |
-| 1150 | 170 | Erica Netherland |
+| 1148 | 170 | PrincessSquare |
+| 1149 | 170 | Erica Netherland |
+| 1150 | 170 | Alan Falconer |
 | 1151 | 170 | Jessica Rose-Morgan |
 | 1152 | 169 | Carina Ortega |
 | 1153 | 169 | Rachael Hamelers |
@@ -1636,8 +1636,8 @@
 | 1628 | 109 | Sassy Riserfit |
 | 1629 | 109 | Yusuf Abdu |
 | 1630 | 109 | Loony Puzzle |
-| 1631 | 108 | Frisky Balancefit |
-| 1632 | 108 | Psi Duk |
+| 1631 | 108 | Psi Duk |
+| 1632 | 108 | Frisky Balancefit |
 | 1633 | 108 | RedLego |
 | 1634 | 108 | Robert Harold Bowling |
 | 1635 | 107 | Endawg |

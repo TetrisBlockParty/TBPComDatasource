@@ -51,8 +51,8 @@
 | 43 | 1497 | Juggalo |
 | 44 | 1478 | Sammy Noguera |
 | 45 | 1469 | Kimberly Love |
-| 46 | 1461 | Yoset Mejia |
-| 47 | 1461 | Shane Kalamata Platoon |
+| 46 | 1461 | Shane Kalamata Platoon |
+| 47 | 1461 | Yoset Mejia |
 | 48 | 1456 | Michelle Marie |
 | 49 | 1430 | Landon Keith Graffeo |
 | 50 | 1386 | Jen Allison |
@@ -108,8 +108,8 @@
 | 100 | 846 | Christine Marie |
 | 101 | 840 | SAP |
 | 102 | 837 | Rica Mitchell |
-| 103 | 834 | Brittney Orengo |
-| 104 | 834 | quicksand420 |
+| 103 | 834 | quicksand420 |
+| 104 | 834 | Brittney Orengo |
 | 105 | 818 | Lori Walker |
 | 106 | 815 | Diana Houts |
 | 107 | 813 | Amy Suckarieh |
@@ -138,8 +138,8 @@
 | 130 | 719 | Leslie Nicole |
 | 131 | 712 | H.R. Block |
 | 132 | 708 | Jacqueline Helm |
-| 133 | 704 | Austin Owens |
-| 134 | 704 | Chilly Crasher |
+| 133 | 704 | Chilly Crasher |
+| 134 | 704 | Austin Owens |
 | 135 | 687 | Carmethia Clemons Haslerig |
 | 136 | 686 | Angela Srubar-Norman |
 | 137 | 682 | Raegan Lane-Ross |
@@ -231,8 +231,8 @@
 | 223 | 482 | Laura |
 | 224 | 481 | Joanna |
 | 225 | 475 | Silly Zonebuilder |
-| 226 | 473 | Cranky Rollpiece |
-| 227 | 473 | Jolly Dashfit |
+| 226 | 473 | Jolly Dashfit |
+| 227 | 473 | Cranky Rollpiece |
 | 228 | 472 | Plucky Patternblock |
 | 229 | 465 | Leslie Thomas |
 | 230 | 464 | Calvin Cannon |
@@ -790,14 +790,14 @@
 | 782 | 151 | Bigmamatetrisqueen |
 | 783 | 151 | Daresha Fair |
 | 784 | 150 | Bad company |
-| 785 | 150 | Glitzy Crasher |
-| 786 | 150 | David V. Bowers |
-| 787 | 150 | Kristin Rose Nutter |
+| 785 | 150 | David V. Bowers |
+| 786 | 150 | Kristin Rose Nutter |
+| 787 | 150 | Glitzy Crasher |
 | 788 | 149 | Boldy Linkpiece |
 | 789 | 149 | Leila |
 | 790 | 149 | Heather Stratos |
 | 791 | 148 | Richard |
-| 792 | 148 | Mary Therese Benden Cole |
+| 792 | 148 | Flashy Blockpiece |
 | 793 | 148 | McKayla Breanne |
 | 794 | 148 | Mary Therese Benden Cole |
 | 795 | 147 | David Emmanuel George |
@@ -1017,7 +1017,7 @@
 | 1009 | 104 | Elizabeth Lansou |
 | 1010 | 104 | Jessi Mayfield |
 | 1011 | 103 | Snappy Combofall |
-| 1012 | 102 | Amber bamber |
+| 1012 | 102 | Kristina Renea Day |
 | 1013 | 102 | Bryan Johnson |
 | 1014 | 102 | Amber bamber |
 | 1015 | 102 | Blaze Butler |
