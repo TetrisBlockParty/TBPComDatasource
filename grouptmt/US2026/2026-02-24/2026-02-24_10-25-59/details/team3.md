@@ -233,8 +233,8 @@
 | 225 | 714 | Jenny Hrndz |
 | 226 | 713 | Stephanie Blkpep Davidson |
 | 227 | 712 | Brandon Givens |
-| 228 | 709 | Christine Niles |
-| 229 | 709 | Cynthia Castros-Hampton |
+| 228 | 709 | Cynthia Castros-Hampton |
+| 229 | 709 | Christine Niles |
 | 230 | 708 | Stephanie Bradley |
 | 231 | 704 | Betty Bóò |
 | 232 | 703 | Shawn Miller |
@@ -266,8 +266,8 @@
 | 258 | 632 | Rebecca Bailey |
 | 259 | 630 | Jackie Miller |
 | 260 | 629 | rnr junky |
-| 261 | 627 | Juliana Dottore |
-| 262 | 627 | Louise Stacy Sisson |
+| 261 | 627 | Louise Stacy Sisson |
+| 262 | 627 | Juliana Dottore |
 | 263 | 626 | Cheryl Hinch Tenbrook |
 | 264 | 625 | Jacqueline Rodriguez |
 | 265 | 624 | Hyper Matchzone |
@@ -324,13 +324,13 @@
 | 316 | 523 | Ktfreeee |
 | 317 | 518 | Marquita Sheard |
 | 318 | 514 | Nikki White |
-| 319 | 506 | Ammmmmmy |
-| 320 | 506 | Tiffanie Alley |
+| 319 | 506 | Tiffanie Alley |
+| 320 | 506 | Ammmmmmy |
 | 321 | 505 | Stephanie Simpson |
 | 322 | 504 | Daring Builder |
 | 323 | 500 | Ashley Tookes |
-| 324 | 499 | Megan Rathmanner |
-| 325 | 499 | Gumbo |
+| 324 | 499 | Gumbo |
+| 325 | 499 | Megan Rathmanner |
 | 326 | 496 | Brenda Schmid Wood |
 | 327 | 494 | MCV |
 | 328 | 494 | fraulila |
@@ -383,8 +383,8 @@
 | 375 | 443 | Christian Werndl |
 | 376 | 442 | Loopy Fallzone |
 | 377 | 438 | Dannie Litchard |
-| 378 | 436 | AC Yeater |
-| 379 | 436 | Julie Fratrik |
+| 378 | 436 | Julie Fratrik |
+| 379 | 436 | AC Yeater |
 | 380 | 435 | Sabrina Hardrick |
 | 381 | 434 | Criss |
 | 382 | 434 | Ginger Gray |
@@ -402,8 +402,8 @@
 | 394 | 426 | Christina Rotz Shows |
 | 395 | 425 | Ava Petito |
 | 396 | 423 | Dapper Liney |
-| 397 | 419 | Philip Rock |
-| 398 | 419 | Desiree Gold |
+| 397 | 419 | Desiree Gold |
+| 398 | 419 | Philip Rock |
 | 399 | 419 | Maggie |
 | 400 | 418 | Rainbow77375 |
 | 401 | 416 | Tay |
@@ -479,8 +479,8 @@
 | 471 | 363 | 4girls |
 | 472 | 360 | Cathy Leger |
 | 473 | 360 | Alexi Pryor |
-| 474 | 359 | Ann Hammac |
-| 475 | 359 | Kathleen Taylor |
+| 474 | 359 | Kathleen Taylor |
+| 475 | 359 | Ann Hammac |
 | 476 | 359 | Steven Fulater |
 | 477 | 358 | Hyper Twisterfit |
 | 478 | 358 | Beejangles |
@@ -632,13 +632,13 @@
 | 624 | 296 | JoshAllenfan17 |
 | 625 | 295 | Omega |
 | 626 | 294 | Kita A Jackson |
-| 627 | 293 | Rufus Lincoln |
-| 628 | 293 | Tommy Proctor |
+| 627 | 293 | Tommy Proctor |
+| 628 | 293 | Rufus Lincoln |
 | 629 | 292 | Scouty |
 | 630 | 292 | Aeh |
-| 631 | 291 | Jess Dearborn |
-| 632 | 291 | Autumn Phillimore |
-| 633 | 291 | Jessica Lynn French |
+| 631 | 291 | Jessica Lynn French |
+| 632 | 291 | Jess Dearborn |
+| 633 | 291 | Autumn Phillimore |
 | 634 | 290 | Justin Parker |
 | 635 | 290 | Rayzer |
 | 636 | 290 | Zesty Rotater |
@@ -766,8 +766,8 @@
 | 758 | 252 | Lazy Matchfit |
 | 759 | 252 | Ashley Parham |
 | 760 | 252 | Lenora Price |
-| 761 | 251 | Sassy Align |
-| 762 | 251 | Doddie Marie |
+| 761 | 251 | Doddie Marie |
+| 762 | 251 | Sassy Align |
 | 763 | 251 | Colleen Phelps |
 | 764 | 251 | Adrian Massey |
 | 765 | 250 | Crystal Johnson |

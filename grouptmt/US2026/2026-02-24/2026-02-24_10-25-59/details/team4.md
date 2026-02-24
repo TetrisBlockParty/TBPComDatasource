@@ -50,8 +50,8 @@
 | 42 | 1494 | Juggalo |
 | 43 | 1478 | Sammy Noguera |
 | 44 | 1469 | Kimberly Love |
-| 45 | 1461 | Yoset Mejia |
-| 46 | 1461 | Shane Kalamata Platoon |
+| 45 | 1461 | Shane Kalamata Platoon |
+| 46 | 1461 | Yoset Mejia |
 | 47 | 1456 | Michelle Marie |
 | 48 | 1430 | Landon Keith Graffeo |
 | 49 | 1407 | Jayna Anoc |
@@ -366,8 +366,8 @@
 | 358 | 322 | Bryan Hodgins |
 | 359 | 321 | Stacey Stano |
 | 360 | 321 | Sarah Brown |
-| 361 | 320 | Alan Zukowski |
-| 362 | 320 | Cynthia Boudreau |
+| 361 | 320 | Cynthia Boudreau |
+| 362 | 320 | Alan Zukowski |
 | 363 | 320 | O block |
 | 364 | 319 | Jessica Fredericks |
 | 365 | 319 | Bradley Reeves |

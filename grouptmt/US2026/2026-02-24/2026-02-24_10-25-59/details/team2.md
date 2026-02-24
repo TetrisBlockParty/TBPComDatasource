@@ -575,8 +575,8 @@
 | 567 | 890 | Traci Johnson |
 | 568 | 888 | Leslie Ann Carter |
 | 569 | 886 | Cherrica Newman |
-| 570 | 885 | Miranda Morris |
-| 571 | 885 | Giggy Mover |
+| 570 | 885 | Giggy Mover |
+| 571 | 885 | Miranda Morris |
 | 572 | 883 | Hong Tang |
 | 573 | 882 | Sarah Massey |
 | 574 | 881 | BIG BABY |
@@ -927,8 +927,8 @@
 | 919 | 628 | Macy Jarrett |
 | 920 | 627 | Kristie Wilcox |
 | 921 | 624 | Elizabeth Perterson |
-| 922 | 622 | Ryan Meilleur |
-| 923 | 622 | Michael Artis |
+| 922 | 622 | Michael Artis |
+| 923 | 622 | Ryan Meilleur |
 | 924 | 622 | Ben Barkley |
 | 925 | 621 | Moua Ying |
 | 926 | 621 | Kitybox |
@@ -991,8 +991,8 @@
 | 983 | 593 | Keila Adames |
 | 984 | 592 | Elizabeth Nieto |
 | 985 | 591 | Ahtavia Watkins |
-| 986 | 591 | Mrs. New |
-| 987 | 591 | Quinn |
+| 986 | 591 | Quinn |
+| 987 | 591 | Mrs. New |
 | 988 | 590 | NickyBrooks |
 | 989 | 589 | Kelly Templeton |
 | 990 | 589 | Sharon Madeiros |
