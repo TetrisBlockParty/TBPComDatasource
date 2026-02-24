@@ -82,8 +82,8 @@
 | 74 | 1633 | cowboy25469 |
 | 75 | 1625 | Queen Kam |
 | 76 | 1615 | joclisa |
-| 77 | 1566 | Nerdy Riseclear |
-| 78 | 1566 | Marcie Bressler |
+| 77 | 1566 | Marcie Bressler |
+| 78 | 1566 | Nerdy Riseclear |
 | 79 | 1560 | Logan Naccarato |
 | 80 | 1555 | Snappy Glidepiece |
 | 81 | 1518 | Christine Filson |
@@ -109,8 +109,8 @@
 | 101 | 1309 | yoyo |
 | 102 | 1297 | Shelby Michelle |
 | 103 | 1290 | JerseyJess |
-| 104 | 1282 | Peppy Shifter |
-| 105 | 1282 | Amanda L Baker |
+| 104 | 1282 | Amanda L Baker |
+| 105 | 1282 | Peppy Shifter |
 | 106 | 1276 | Jessica Bechler |
 | 107 | 1274 | Sarah Fehring |
 | 108 | 1268 | Angeline Joseph |
@@ -125,8 +125,8 @@
 | 117 | 1134 | Melissa Orth Hunter |
 | 118 | 1124 | Stephanie Rice |
 | 119 | 1121 | Corie A. Brinson |
-| 120 | 1114 | Loopy Fallmatch |
-| 121 | 1114 | Groovy Catcher |
+| 120 | 1114 | Groovy Catcher |
+| 121 | 1114 | Loopy Fallmatch |
 | 122 | 1105 | Adrian Marcel Pate |
 | 123 | 1093 | Angela M. Fletcher |
 | 124 | 1091 | Jennifer |
@@ -157,8 +157,8 @@
 | 149 | 961 | Danielle Allison |
 | 150 | 950 | MissTaylor |
 | 151 | 950 | Giddy Drop |
-| 152 | 940 | Stephanie Allmon |
-| 153 | 940 | Patty Allen |
+| 152 | 940 | Patty Allen |
+| 153 | 940 | Stephanie Allmon |
 | 154 | 936 | Dolores Falco |
 | 155 | 925 | Cherry Parker |
 | 156 | 914 | BadManSheLove |
@@ -229,8 +229,8 @@
 | 221 | 715 | Karon Griffin |
 | 222 | 714 | Jenny Hrndz |
 | 223 | 713 | Stephanie Blkpep Davidson |
-| 224 | 709 | Cynthia Castros-Hampton |
-| 225 | 709 | Christine Niles |
+| 224 | 709 | Christine Niles |
+| 225 | 709 | Cynthia Castros-Hampton |
 | 226 | 708 | Stephanie Bradley |
 | 227 | 704 | Betty Bóò |
 | 228 | 703 | Shawn Miller |
@@ -328,8 +328,8 @@
 | 320 | 499 | Megan Rathmanner |
 | 321 | 496 | Brenda Schmid Wood |
 | 322 | 495 | Daring Builder |
-| 323 | 494 | MCV |
-| 324 | 494 | fraulila |
+| 323 | 494 | fraulila |
+| 324 | 494 | MCV |
 | 325 | 492 | Tasha Wesson-Torrence |
 | 326 | 490 | Cassandra Bryant |
 | 327 | 489 | Isabel Ocasio |
@@ -355,8 +355,8 @@
 | 347 | 461 | Hyper Bridger |
 | 348 | 461 | Briana Wellman |
 | 349 | 460 | Antonia Russell |
-| 350 | 459 | TotoCherue |
-| 351 | 459 | Randy Clevenger |
+| 350 | 459 | Randy Clevenger |
+| 351 | 459 | TotoCherue |
 | 352 | 457 | Snippy Wipeout |
 | 353 | 456 | Cynthia Herrmann Egland |
 | 354 | 456 | Kelly |
@@ -398,8 +398,8 @@
 | 390 | 418 | Rainbow77375 |
 | 391 | 416 | Tay |
 | 392 | 415 | Steffi Chris Dacones |
-| 393 | 414 | Arden White Kirsch |
-| 394 | 414 | RickyG |
+| 393 | 414 | RickyG |
+| 394 | 414 | Arden White Kirsch |
 | 395 | 413 | Rick Poppen |
 | 396 | 411 | Beaudie Stroebel |
 | 397 | 409 | Rich LeBlanc |
@@ -416,16 +416,16 @@
 | 408 | 401 | block chick |
 | 409 | 400 | Joy Petroski |
 | 410 | 398 | Breezy Roll |
-| 411 | 397 | Kevin Russell |
-| 412 | 397 | Hasty Gridpiece |
+| 411 | 397 | Hasty Gridpiece |
+| 412 | 397 | Kevin Russell |
 | 413 | 393 | keni |
 | 414 | 392 | Linda Draper |
 | 415 | 392 | Michelle Allers |
 | 416 | 391 | Rebel124 |
 | 417 | 391 | gremicx |
 | 418 | 390 | ROODBOY |
-| 419 | 389 | Amanda J. Mcneil-Anderson |
-| 420 | 389 | Kirhonda Autmon |
+| 419 | 389 | Kirhonda Autmon |
+| 420 | 389 | Amanda J. Mcneil-Anderson |
 | 421 | 387 | Brittany K Ward |
 | 422 | 386 | Geoffrey Nash |
 | 423 | 384 | Tiffany Davie |

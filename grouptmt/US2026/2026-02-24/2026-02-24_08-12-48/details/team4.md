@@ -107,14 +107,14 @@
 | 99 | 846 | Christine Marie |
 | 100 | 840 | SAP |
 | 101 | 837 | Rica Mitchell |
-| 102 | 834 | quicksand420 |
-| 103 | 834 | Brittney Orengo |
+| 102 | 834 | Brittney Orengo |
+| 103 | 834 | quicksand420 |
 | 104 | 815 | Diana Houts |
 | 105 | 813 | Klo |
 | 106 | 811 | Sassy Pattern |
 | 107 | 806 | Lori Walker |
-| 108 | 802 | Crystal Carroll |
-| 109 | 802 | Denise Carlson |
+| 108 | 802 | Denise Carlson |
+| 109 | 802 | Crystal Carroll |
 | 110 | 801 | D3TROITB0RN74 |
 | 111 | 798 | Jewell Urban |
 | 112 | 786 | Zippy Gridlock |
@@ -387,8 +387,8 @@
 | 379 | 300 | Carter Jones |
 | 380 | 299 | Michael Snow |
 | 381 | 298 | Val Erie |
-| 382 | 297 | Brittany Marsh |
-| 383 | 297 | Allison Rose |
+| 382 | 297 | Allison Rose |
+| 383 | 297 | Brittany Marsh |
 | 384 | 296 | Dapper Frame |
 | 385 | 295 | Deb Rubeck |
 | 386 | 294 | Kevin Bush |
