@@ -275,8 +275,8 @@
 | 267 | 398 | MommaKFC |
 | 268 | 398 | Cece Ibarra |
 | 269 | 396 | Sarahdactyl |
-| 270 | 394 | Nick R Montague |
-| 271 | 394 | Lynn Adams |
+| 270 | 394 | Lynn Adams |
+| 271 | 394 | Nick R Montague |
 | 272 | 393 | Wisa |
 | 273 | 392 | Renee Tucker |
 | 274 | 392 | Poppy Riserpiece |
