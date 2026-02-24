@@ -110,8 +110,8 @@
 | 102 | 773 | Cartier |
 | 103 | 772 | Kathy Langham |
 | 104 | 770 | Zappy Curvetile |
-| 105 | 769 | Robert Benito |
-| 106 | 769 | Angel Fowler |
+| 105 | 769 | Angel Fowler |
+| 106 | 769 | Robert Benito |
 | 107 | 768 | Jazzy Framezone |
 | 108 | 761 | Karin Gillen |
 | 109 | 751 | Kellie |

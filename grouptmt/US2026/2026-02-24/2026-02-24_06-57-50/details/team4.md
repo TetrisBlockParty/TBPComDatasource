@@ -167,8 +167,8 @@
 | 159 | 590 | Angela Srubar-Norman |
 | 160 | 589 | Livvy |
 | 161 | 587 | YoMomma |
-| 162 | 586 | Latisha Davis |
-| 163 | 586 | Carlos Ramirez |
+| 162 | 586 | Carlos Ramirez |
+| 163 | 586 | Latisha Davis |
 | 164 | 585 | Tracey Lehmann |
 | 165 | 584 | Carlton Unfiltered |
 | 166 | 576 | Jade Rian |
@@ -241,14 +241,14 @@
 | 233 | 455 | Michele Plunkett |
 | 234 | 454 | Keshia Lyons |
 | 235 | 449 | Danielle Kollias |
-| 236 | 448 | Mr. Party |
-| 237 | 448 | Mike Solo |
+| 236 | 448 | Mike Solo |
+| 237 | 448 | Mr. Party |
 | 238 | 447 | Jen Mattei |
 | 239 | 444 | Selena Shaw |
 | 240 | 442 | John Brunetti |
 | 241 | 441 | Lush Linkfall |
-| 242 | 438 | Melvin Baird |
-| 243 | 438 | 23 |
+| 242 | 438 | 23 |
+| 243 | 438 | Melvin Baird |
 | 244 | 434 | Ramel Rhodes |
 | 245 | 433 | Circuit8 |
 | 246 | 433 | Damn Libra |
@@ -346,8 +346,8 @@
 | 338 | 328 | Leah Kutz Zirbel |
 | 339 | 327 | Jim Hart |
 | 340 | 325 | Cool Gridzone |
-| 341 | 324 | Vic |
-| 342 | 324 | Sarah Hoffman |
+| 341 | 324 | Sarah Hoffman |
+| 342 | 324 | Vic |
 | 343 | 322 | Bryan Hodgins |
 | 344 | 321 | Stacey Stano |
 | 345 | 321 | Sarah Brown |
@@ -623,7 +623,7 @@
 | 615 | 187 | Jason Punch |
 | 616 | 186 | Veronica Garza |
 | 617 | 186 | Jlmendillo |
-| 618 | 186 | Veronica Garza |
+| 618 | 186 | b |
 | 619 | 186 | Myra LaTrice |
 | 620 | 185 | Deanna Mc |
 | 621 | 185 | Jonathan Mahfood |

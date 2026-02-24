@@ -202,8 +202,8 @@
 | 194 | 783 | Julian Murphy |
 | 195 | 777 | Daryn Elliott |
 | 196 | 775 | Lizabeth Fox |
-| 197 | 774 | Twisty Brick LT |
-| 198 | 774 | ren |
+| 197 | 774 | ren |
+| 198 | 774 | Twisty Brick LT |
 | 199 | 772 | Tye Stovall |
 | 200 | 769 | Hasty Cascadefit |
 | 201 | 768 | Cyd061769 |
@@ -231,8 +231,8 @@
 | 223 | 709 | Christine Niles |
 | 224 | 708 | Stephanie Bradley |
 | 225 | 703 | Shawn Miller |
-| 226 | 691 | Snappy Balancer |
-| 227 | 691 | Tia |
+| 226 | 691 | Tia |
+| 227 | 691 | Snappy Balancer |
 | 228 | 687 | joz |
 | 229 | 675 | Terry Jo Jones |
 | 230 | 662 | Jim Mathews |
@@ -264,8 +264,8 @@
 | 256 | 618 | Betty Bóò |
 | 257 | 606 | Connie Mohler-Fair |
 | 258 | 605 | Sarah Cowan Burgos |
-| 259 | 604 | Bmo |
-| 260 | 604 | Sherry Ogden |
+| 259 | 604 | Sherry Ogden |
+| 260 | 604 | Bmo |
 | 261 | 601 | Betty Rosas |
 | 262 | 600 | Natasha Jones |
 | 263 | 599 | Noyb Adam |
@@ -361,8 +361,8 @@
 | 353 | 456 | Cynthia Herrmann Egland |
 | 354 | 456 | Kelly |
 | 355 | 455 | Kelly Wolf |
-| 356 | 450 | Stefanie LaPointe |
-| 357 | 450 | Luciana Braganca Vieira |
+| 356 | 450 | Luciana Braganca Vieira |
+| 357 | 450 | Stefanie LaPointe |
 | 358 | 449 | Lively Caster |
 | 359 | 447 | Carrie Huskey |
 | 360 | 447 | Num1hater |
@@ -383,10 +383,10 @@
 | 375 | 432 | Justice 4 P |
 | 376 | 431 | Donna Esbensen-Alpini |
 | 377 | 430 | Quackers |
-| 378 | 428 | Samantha Lynn |
-| 379 | 428 | Skinny Baldez |
-| 380 | 427 | Darlene McMillan |
-| 381 | 427 | AlsoJess |
+| 378 | 428 | Skinny Baldez |
+| 379 | 428 | Samantha Lynn |
+| 380 | 427 | AlsoJess |
+| 381 | 427 | Darlene McMillan |
 | 382 | 426 | Christina Rotz Shows |
 | 383 | 425 | Ava Petito |
 | 384 | 423 | Dapper Liney |
@@ -704,7 +704,7 @@
 | 696 | 264 | Aeh |
 | 697 | 264 | Katheline Lazo Luizaga |
 | 698 | 263 | JustGiGi |
-| 699 | 261 | Ashley Kennedy |
+| 699 | 261 | CuteSharkz |
 | 700 | 261 | Jillian Ann |
 | 701 | 261 | BŘŰŤİÇŨŚ |
 | 702 | 261 | Timea Popladek |
