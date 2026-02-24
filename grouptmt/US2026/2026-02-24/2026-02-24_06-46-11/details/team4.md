@@ -98,8 +98,8 @@
 | 90 | 873 | Courtney Cicoria |
 | 91 | 870 | Lucille Truesdale |
 | 92 | 869 | Judy Cox |
-| 93 | 864 | Guy Incognito |
-| 94 | 864 | Samantha Peterson |
+| 93 | 864 | Samantha Peterson |
+| 94 | 864 | Guy Incognito |
 | 95 | 854 | Shauna Havard |
 | 96 | 851 | Jason Hart |
 | 97 | 846 | Christine Marie |
@@ -203,8 +203,8 @@
 | 195 | 516 | Twisty Clicky |
 | 196 | 513 | Zesty Twistbuilder |
 | 197 | 513 | Erin Thomas |
-| 198 | 512 | Ellen Durfee |
-| 199 | 512 | Casey Jeffcoat |
+| 198 | 512 | Casey Jeffcoat |
+| 199 | 512 | Ellen Durfee |
 | 200 | 512 | ThaEviLJeNiuZ |
 | 201 | 509 | Mimi |
 | 202 | 508 | Milan Markeisha |
@@ -255,16 +255,16 @@
 | 247 | 432 | Plucky Patternblock |
 | 248 | 432 | scott |
 | 249 | 430 | Chris Bernstein |
-| 250 | 427 | Cheery Risebuilder |
-| 251 | 427 | Chao Ma |
+| 250 | 427 | Chao Ma |
+| 251 | 427 | Cheery Risebuilder |
 | 252 | 424 | Andrew Dang |
 | 253 | 423 | Gdiguy |
 | 254 | 421 | Brickh4us |
 | 255 | 421 | JIGsaw ~(•¿°)~ |
 | 256 | 420 | Jeff Brian Gates |
 | 257 | 413 | Rio Rocha |
-| 258 | 411 | TinyLegoRose |
-| 259 | 411 | Autumn Kumzi |
+| 258 | 411 | Autumn Kumzi |
+| 259 | 411 | TinyLegoRose |
 | 260 | 410 | Lindsay Ball |
 | 261 | 409 | Joseph Guthrie |
 | 262 | 409 | Antony Dwayne Beasley |

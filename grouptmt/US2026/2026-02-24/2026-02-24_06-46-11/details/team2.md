@@ -267,8 +267,8 @@
 | 259 | 1552 | Mcintosh Brian Shalonda |
 | 260 | 1546 | Alyssa Nadine Medelez |
 | 261 | 1528 | Stacy Stickle |
-| 262 | 1509 | Whitney Nicole Waterman |
-| 263 | 1509 | Stacey Clement |
+| 262 | 1509 | Stacey Clement |
+| 263 | 1509 | Whitney Nicole Waterman |
 | 264 | 1501 | Ashle Scranton |
 | 265 | 1498 | Ericka Marie Smith |
 | 266 | 1481 | Jamie Schmitt |
@@ -356,8 +356,8 @@
 | 348 | 1252 | Brainy Smurf |
 | 349 | 1249 | Tristan Szolek |
 | 350 | 1245 | Angel Hunnewell |
-| 351 | 1237 | Cheech Dta |
-| 352 | 1237 | Christine Coughlin |
+| 351 | 1237 | Christine Coughlin |
+| 352 | 1237 | Cheech Dta |
 | 353 | 1235 | Bri Lynn |
 | 354 | 1233 | Shannon Joslin |
 | 355 | 1232 | Ambyre Patterson |
@@ -368,8 +368,8 @@
 | 360 | 1222 | Kristin Gower |
 | 361 | 1218 | LaKisha Anderson |
 | 362 | 1217 | Brooks Brooks |
-| 363 | 1215 | Hyper Cluster |
-| 364 | 1215 | Toni Roberson |
+| 363 | 1215 | Toni Roberson |
+| 364 | 1215 | Hyper Cluster |
 | 365 | 1214 | David Cudicio-Hayden |
 | 366 | 1211 | Cynthia Ward |
 | 367 | 1210 | Amber Gray |
@@ -388,8 +388,8 @@
 | 380 | 1170 | Shelley Thornburgh Wright |
 | 381 | 1167 | Min |
 | 382 | 1164 | DefaultUser |
-| 383 | 1163 | Sarah DeHart |
-| 384 | 1163 | Caitlin Schmid |
+| 383 | 1163 | Caitlin Schmid |
+| 384 | 1163 | Sarah DeHart |
 | 385 | 1158 | Brittany Clark |
 | 386 | 1150 | Sheniya Spurgeon |
 | 387 | 1149 | Hoppy Brickmatch |
@@ -723,12 +723,12 @@
 | 715 | 725 | Jennifer Coe |
 | 716 | 725 | AISlop |
 | 717 | 724 | Brenna Ann |
-| 718 | 724 | Epic Fitzone |
-| 719 | 724 | teo1 |
+| 718 | 724 | teo1 |
+| 719 | 724 | Epic Fitzone |
 | 720 | 722 | Sassy Racker |
 | 721 | 720 | Crystal EatableCupcake Stepney |
-| 722 | 719 | Isabelle Bonneau |
-| 723 | 719 | Maddy Petersen |
+| 722 | 719 | Maddy Petersen |
+| 723 | 719 | Isabelle Bonneau |
 | 724 | 718 | Andre Love |
 | 725 | 717 | Shinette Dobson |
 | 726 | 717 | Yoan Boulanger |

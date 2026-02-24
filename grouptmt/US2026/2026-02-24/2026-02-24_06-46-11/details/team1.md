@@ -47,8 +47,8 @@
 | 39 | 1411 | Snappy Swiper |
 | 40 | 1405 | Chipper Gridlock |
 | 41 | 1391 | Aaron Garnett |
-| 42 | 1334 | Tyler Alcock |
-| 43 | 1334 | june october |
+| 42 | 1334 | june october |
+| 43 | 1334 | Tyler Alcock |
 | 44 | 1323 | Drew Magnus |
 | 45 | 1305 | Michelle Nicole |
 | 46 | 1291 | Marianne Louise West |
@@ -230,8 +230,8 @@
 | 222 | 429 | pjbeta |
 | 223 | 429 | Tana |
 | 224 | 427 | Jessie Lynn |
-| 225 | 426 | Betsy |
-| 226 | 426 | Brenda Alexander |
+| 225 | 426 | Brenda Alexander |
+| 226 | 426 | Betsy |
 | 227 | 425 | Tyler Werts |
 | 228 | 424 | Emily Adelaide Wheatley |
 | 229 | 424 | Serina Marie |
@@ -393,10 +393,10 @@
 | 385 | 298 | Glitzy Buildsnap |
 | 386 | 297 | Billie Dawn Sparks |
 | 387 | 296 | Jeanna Dunn |
-| 388 | 295 | Joe Coon |
-| 389 | 295 | ESC |
-| 390 | 294 | Mary Love |
-| 391 | 294 | Наталья Солоид |
+| 388 | 295 | ESC |
+| 389 | 295 | Joe Coon |
+| 390 | 294 | Наталья Солоид |
+| 391 | 294 | Mary Love |
 | 392 | 293 | Sunny Pivotfall |
 | 393 | 292 | Clever Cascadepiece |
 | 394 | 292 | Mark Smith |

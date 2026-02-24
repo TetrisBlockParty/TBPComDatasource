@@ -157,12 +157,12 @@
 | 149 | 961 | Danielle Allison |
 | 150 | 950 | Giddy Drop |
 | 151 | 950 | MissTaylor |
-| 152 | 940 | Patty Allen |
-| 153 | 940 | Stephanie Allmon |
+| 152 | 940 | Stephanie Allmon |
+| 153 | 940 | Patty Allen |
 | 154 | 936 | Dolores Falco |
 | 155 | 925 | Cherry Parker |
-| 156 | 914 | Sarajane Lokan |
-| 157 | 914 | BadManSheLove |
+| 156 | 914 | BadManSheLove |
+| 157 | 914 | Sarajane Lokan |
 | 158 | 910 | opf |
 | 159 | 910 | Staci George Fitzsimmons |
 | 160 | 899 | Jaime Monhaut-Reed |
@@ -179,8 +179,8 @@
 | 171 | 857 | Dana Fox |
 | 172 | 856 | Dana Winters |
 | 173 | 854 | Speedy Bridger |
-| 174 | 847 | Daring Brickzone |
-| 175 | 847 | Daira Largen |
+| 174 | 847 | Daira Largen |
+| 175 | 847 | Daring Brickzone |
 | 176 | 846 | Nicole Myers |
 | 177 | 845 | Edwin Calvillo Jr. |
 | 178 | 821 | Kammy Hill |
@@ -188,8 +188,8 @@
 | 180 | 817 | Niki Dalrymple |
 | 181 | 815 | Justin Ritter |
 | 182 | 813 | JessDrown |
-| 183 | 804 | Alaina Lee |
-| 184 | 804 | Gideon Walker |
+| 183 | 804 | Gideon Walker |
+| 184 | 804 | Alaina Lee |
 | 185 | 800 | Lauren Girouard |
 | 186 | 799 | Trisha Balmer |
 | 187 | 794 | Alexmac |
@@ -582,10 +582,10 @@
 | 574 | 308 | Quirky Dropzone |
 | 575 | 308 | Danetta McCadden |
 | 576 | 307 | Kristina Gardner |
-| 577 | 306 | Dapper Chiseler |
-| 578 | 306 | Valerie Tarkington |
-| 579 | 306 | Alexis Ford |
-| 580 | 306 | BigE |
+| 577 | 306 | Alexis Ford |
+| 578 | 306 | BigE |
+| 579 | 306 | Dapper Chiseler |
+| 580 | 306 | Valerie Tarkington |
 | 581 | 305 | Frisky Stacker |
 | 582 | 304 | Carrie Resler |
 | 583 | 304 | Julie Peters Fancher |
