@@ -350,8 +350,8 @@
 | 342 | 300 | Jason Frehner |
 | 343 | 297 | Brittany Marsh |
 | 344 | 296 | Zethra Prenisha Rahming |
-| 345 | 295 | Cool Gridzone |
-| 346 | 295 | Deb Rubeck |
+| 345 | 295 | Deb Rubeck |
+| 346 | 295 | Cool Gridzone |
 | 347 | 294 | BootsMcGee |
 | 348 | 292 | Epic Curvetile |
 | 349 | 292 | Tracey Lehmann |
@@ -399,8 +399,8 @@
 | 391 | 268 | Sallie Sanborn |
 | 392 | 267 | Marcus TheeyoungWoe Gilmore |
 | 393 | 266 | Happy Combo |
-| 394 | 266 | ĥuf |
-| 395 | 266 | Paito |
+| 394 | 266 | Paito |
+| 395 | 266 | ĥuf |
 | 396 | 265 | Lorena Guerrero-Barron |
 | 397 | 265 | Degenerate |
 | 398 | 265 | Christine Therrien |
@@ -566,7 +566,7 @@
 | 558 | 190 | wombat |
 | 559 | 190 | Robert Rangel |
 | 560 | 190 | Jesse Saville |
-| 561 | 188 | Tanner Lund |
+| 561 | 188 | Frilly Blocky |
 | 562 | 188 | Daring Pivot |
 | 563 | 188 | Tanner Lund |
 | 564 | 187 | Jason Punch |
