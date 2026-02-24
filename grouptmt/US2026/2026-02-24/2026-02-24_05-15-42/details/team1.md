@@ -166,8 +166,8 @@
 | 158 | 548 | Luciano Moreira |
 | 159 | 547 | Sharon Reynolds |
 | 160 | 546 | Loony Fitzone |
-| 161 | 543 | Nicole Roseberry Weber |
-| 162 | 543 | Adrian Esteban |
+| 161 | 543 | Adrian Esteban |
+| 162 | 543 | Nicole Roseberry Weber |
 | 163 | 540 | Tonya Beasley |
 | 164 | 537 | BadG52 |
 | 165 | 537 | Stephanie Zahn |
@@ -211,8 +211,8 @@
 | 203 | 457 | Lori Bales |
 | 204 | 453 | Kimmie Kimms |
 | 205 | 448 | Yvonne Marie |
-| 206 | 446 | SkipTheSadSauce |
-| 207 | 446 | Spencer Lent |
+| 206 | 446 | Spencer Lent |
+| 207 | 446 | SkipTheSadSauce |
 | 208 | 442 | Reesey Enyart |
 | 209 | 441 | Kimberly Garcia |
 | 210 | 439 | David Miller |
@@ -317,8 +317,8 @@
 | 309 | 342 | Marianita Garcia |
 | 310 | 340 | Robert |
 | 311 | 340 | Danielle Little-Daugherty |
-| 312 | 338 | Layzietyme |
-| 313 | 338 | Tipsy Builder |
+| 312 | 338 | Tipsy Builder |
+| 313 | 338 | Layzietyme |
 | 314 | 336 | Sarah Roberts |
 | 315 | 335 | Dreamy Drop |
 | 316 | 334 | Nate Price |

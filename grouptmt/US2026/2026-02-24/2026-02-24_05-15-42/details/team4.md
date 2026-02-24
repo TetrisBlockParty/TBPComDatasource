@@ -39,7 +39,7 @@
 | 31 | 1649 | Cassie Michaux |
 | 32 | 1631 | Goatimus Lombardi |
 | 33 | 1619 | Isabella Blanco |
-| 34 | 1575 | Tammi Crnza |
+| 34 | 1574 | Tammi Crnza |
 | 35 | 1571 | Koshin Abdirahman |
 | 36 | 1535 | Rebecca Moulton Pinciaro |
 | 37 | 1518 | Cherrish Duren |
@@ -109,8 +109,8 @@
 | 101 | 804 | SAP |
 | 102 | 803 | Diana Houts |
 | 103 | 802 | Crystal Carroll |
-| 104 | 798 | Klo |
-| 105 | 798 | Jewell Urban |
+| 104 | 798 | Jewell Urban |
+| 105 | 798 | Klo |
 | 106 | 796 | Denise Carlson |
 | 107 | 781 | Brittney Griggs |
 | 108 | 780 | TheNeesh50 |
@@ -125,8 +125,8 @@
 | 117 | 735 | Nugget |
 | 118 | 731 | KJ Pool |
 | 119 | 729 | Jamie Mann-Deichmann |
-| 120 | 726 | Amy Suckarieh |
-| 121 | 726 | Jamie Gustafson |
+| 120 | 726 | Jamie Gustafson |
+| 121 | 726 | Amy Suckarieh |
 | 122 | 725 | Brandon Crabbs |
 | 123 | 718 | Zippy Gridlock |
 | 124 | 712 | H.R. Block |
@@ -196,8 +196,8 @@
 | 188 | 516 | Trish |
 | 189 | 513 | Erin Thomas |
 | 190 | 512 | ThaEviLJeNiuZ |
-| 191 | 512 | Ellen Durfee |
-| 192 | 512 | Casey Jeffcoat |
+| 191 | 512 | Casey Jeffcoat |
+| 192 | 512 | Ellen Durfee |
 | 193 | 509 | Mimi |
 | 194 | 508 | Milan Markeisha |
 | 195 | 508 | Zesty Twistbuilder |
@@ -221,8 +221,8 @@
 | 213 | 473 | Jolly Dashfit |
 | 214 | 465 | June Hoffman |
 | 215 | 464 | Zakia Monae |
-| 216 | 462 | Crystal Nicolette Moore |
-| 217 | 462 | Leslie Thomas |
+| 216 | 462 | Leslie Thomas |
+| 217 | 462 | Crystal Nicolette Moore |
 | 218 | 460 | Kathy Brookins |
 | 219 | 458 | Kristina Black |
 | 220 | 457 | J-Rizzle |
@@ -296,18 +296,18 @@
 | 288 | 367 | Meg |
 | 289 | 360 | David Lay |
 | 290 | 360 | Lee Silpe |
-| 291 | 359 | Holly |
-| 292 | 359 | KimoKoala |
+| 291 | 359 | KimoKoala |
+| 292 | 359 | Holly |
 | 293 | 358 | Lora |
 | 294 | 354 | @ |
 | 295 | 351 | Dana Scott |
 | 296 | 350 | Dizzy Matchzone |
 | 297 | 349 | jim |
 | 298 | 349 | Richard-April Kice |
-| 299 | 347 | Daria Rycewicz |
-| 300 | 347 | Megan Cutshaw |
-| 301 | 347 | Perky Patternblock |
-| 302 | 347 | Zołza 😈 |
+| 299 | 347 | Zołza 😈 |
+| 300 | 347 | Perky Patternblock |
+| 301 | 347 | Megan Cutshaw |
+| 302 | 347 | Daria Rycewicz |
 | 303 | 346 | Metsfan |
 | 304 | 344 | Laura |
 | 305 | 344 | Amanda Maciel Clarke |
