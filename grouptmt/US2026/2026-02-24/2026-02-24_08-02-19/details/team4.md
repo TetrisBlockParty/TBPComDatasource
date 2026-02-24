@@ -107,14 +107,14 @@
 | 99 | 846 | Christine Marie |
 | 100 | 840 | SAP |
 | 101 | 837 | Rica Mitchell |
-| 102 | 834 | Brittney Orengo |
-| 103 | 834 | quicksand420 |
+| 102 | 834 | quicksand420 |
+| 103 | 834 | Brittney Orengo |
 | 104 | 815 | Diana Houts |
 | 105 | 813 | Klo |
 | 106 | 811 | Sassy Pattern |
 | 107 | 806 | Lori Walker |
-| 108 | 802 | Denise Carlson |
-| 109 | 802 | Crystal Carroll |
+| 108 | 802 | Crystal Carroll |
+| 109 | 802 | Denise Carlson |
 | 110 | 801 | D3TROITB0RN74 |
 | 111 | 798 | Jewell Urban |
 | 112 | 784 | TheNeesh50 |
@@ -122,8 +122,8 @@
 | 114 | 779 | Nope Young |
 | 115 | 776 | Savannah Overdorf |
 | 116 | 768 | Trista Leah |
-| 117 | 766 | Robin Watters |
-| 118 | 766 | Zippy Gridlock |
+| 117 | 766 | Zippy Gridlock |
+| 118 | 766 | Robin Watters |
 | 119 | 764 | Valerie Roberts |
 | 120 | 754 | Chris Alexinas |
 | 121 | 742 | Sam Bishop |
@@ -195,8 +195,8 @@
 | 187 | 534 | Lucas J Sutton |
 | 188 | 532 | Matt Summer |
 | 189 | 532 | Alan George LaRage |
-| 190 | 528 | Erin Sabol |
-| 191 | 528 | Carly Alexis |
+| 190 | 528 | Carly Alexis |
+| 191 | 528 | Erin Sabol |
 | 192 | 525 | 🥔🥔 Spudz |
 | 193 | 521 | Andy Cabral |
 | 194 | 520 | Zippy Block |
@@ -225,8 +225,8 @@
 | 217 | 482 | Laura |
 | 218 | 481 | Joanna |
 | 219 | 475 | Silly Zonebuilder |
-| 220 | 473 | Cranky Rollpiece |
-| 221 | 473 | Jolly Dashfit |
+| 220 | 473 | Jolly Dashfit |
+| 221 | 473 | Cranky Rollpiece |
 | 222 | 472 | Plucky Patternblock |
 | 223 | 468 | June Hoffman |
 | 224 | 465 | Leslie Thomas |
@@ -243,8 +243,8 @@
 | 235 | 454 | Keshia Lyons |
 | 236 | 450 | Genne Scott |
 | 237 | 449 | Danielle Kollias |
-| 238 | 448 | Mike Solo |
-| 239 | 448 | Mr. Party |
+| 238 | 448 | Mr. Party |
+| 239 | 448 | Mike Solo |
 | 240 | 447 | Jen Mattei |
 | 241 | 444 | Selena Shaw |
 | 242 | 442 | John Brunetti |
@@ -257,8 +257,8 @@
 | 249 | 433 | Damn Libra |
 | 250 | 432 | scott |
 | 251 | 431 | Brickh4us |
-| 252 | 427 | Cheery Risebuilder |
-| 253 | 427 | Chao Ma |
+| 252 | 427 | Chao Ma |
+| 253 | 427 | Cheery Risebuilder |
 | 254 | 427 | Jeff Brian Gates |
 | 255 | 426 | Bio Nelly |
 | 256 | 424 | Andrew Dang |
@@ -281,8 +281,8 @@
 | 273 | 399 | Brittany Little |
 | 274 | 398 | Tyler Terrific |
 | 275 | 397 | blockstar |
-| 276 | 395 | Denise B |
-| 277 | 395 | BigSammy420 |
+| 276 | 395 | BigSammy420 |
+| 277 | 395 | Denise B |
 | 278 | 394 | Nikki Rae Gordon |
 | 279 | 393 | Montiette Mcglown |
 | 280 | 392 | Neirrah B Olailjeel |
@@ -301,8 +301,8 @@
 | 293 | 375 | George Tzouganos |
 | 294 | 373 | Russ Attitude |
 | 295 | 371 | Jessi Cinotto |
-| 296 | 370 | Kris Bartlett |
-| 297 | 370 | Twisty Risebuilder |
+| 296 | 370 | Twisty Risebuilder |
+| 297 | 370 | Kris Bartlett |
 | 298 | 368 | Dan Wold |
 | 299 | 367 | Meg |
 | 300 | 365 | David Lay |
@@ -315,8 +315,8 @@
 | 307 | 354 | Perky Piecegrid |
 | 308 | 354 | @ |
 | 309 | 352 | Kate |
-| 310 | 351 | Jackie Clark |
-| 311 | 351 | Dana Scott |
+| 310 | 351 | Dana Scott |
+| 311 | 351 | Jackie Clark |
 | 312 | 350 | Dizzy Matchzone |
 | 313 | 349 | jim |
 | 314 | 349 | Richard-April Kice |

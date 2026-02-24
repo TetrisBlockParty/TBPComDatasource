@@ -109,8 +109,8 @@
 | 101 | 1309 | yoyo |
 | 102 | 1297 | Shelby Michelle |
 | 103 | 1290 | JerseyJess |
-| 104 | 1282 | Amanda L Baker |
-| 105 | 1282 | Peppy Shifter |
+| 104 | 1282 | Peppy Shifter |
+| 105 | 1282 | Amanda L Baker |
 | 106 | 1276 | Jessica Bechler |
 | 107 | 1274 | Sarah Fehring |
 | 108 | 1248 | Lori Barnaby |
@@ -125,8 +125,8 @@
 | 117 | 1134 | Melissa Orth Hunter |
 | 118 | 1124 | Stephanie Rice |
 | 119 | 1121 | Corie A. Brinson |
-| 120 | 1114 | Groovy Catcher |
-| 121 | 1114 | Loopy Fallmatch |
+| 120 | 1114 | Loopy Fallmatch |
+| 121 | 1114 | Groovy Catcher |
 | 122 | 1105 | Adrian Marcel Pate |
 | 123 | 1093 | Angela M. Fletcher |
 | 124 | 1091 | Jennifer |
@@ -161,10 +161,10 @@
 | 153 | 940 | Stephanie Allmon |
 | 154 | 936 | Dolores Falco |
 | 155 | 925 | Cherry Parker |
-| 156 | 914 | BadManSheLove |
-| 157 | 914 | Sarajane Lokan |
-| 158 | 910 | Staci George Fitzsimmons |
-| 159 | 910 | opf |
+| 156 | 914 | Sarajane Lokan |
+| 157 | 914 | BadManSheLove |
+| 158 | 910 | opf |
+| 159 | 910 | Staci George Fitzsimmons |
 | 160 | 906 | Patti Skiles |
 | 161 | 899 | Jaime Monhaut-Reed |
 | 162 | 894 | Denita Mungro |
@@ -194,8 +194,8 @@
 | 186 | 815 | Justin Ritter |
 | 187 | 813 | JessDrown |
 | 188 | 808 | Raya |
-| 189 | 804 | Gideon Walker |
-| 190 | 804 | Alaina Lee |
+| 189 | 804 | Alaina Lee |
+| 190 | 804 | Gideon Walker |
 | 191 | 800 | Lauren Girouard |
 | 192 | 799 | Trisha Balmer |
 | 193 | 792 | Rachel Grant |
@@ -213,8 +213,8 @@
 | 205 | 760 | Kiki |
 | 206 | 759 | Mykal Burton |
 | 207 | 757 | Fancy Cascader |
-| 208 | 755 | Laura Booth Wosko |
-| 209 | 755 | Colton |
+| 208 | 755 | Colton |
+| 209 | 755 | Laura Booth Wosko |
 | 210 | 753 | Morgan Martinez |
 | 211 | 752 | Joye Sims Binion |
 | 212 | 750 | Michael Nowogorski |
@@ -259,8 +259,8 @@
 | 251 | 626 | Cheryl Hinch Tenbrook |
 | 252 | 625 | Jacqueline Rodriguez |
 | 253 | 624 | Hyper Matchzone |
-| 254 | 623 | Giggy Glidepiece |
-| 255 | 623 | Rebecca Funderburk Kirby |
+| 254 | 623 | Rebecca Funderburk Kirby |
+| 255 | 623 | Giggy Glidepiece |
 | 256 | 620 | Tamara Deherrera |
 | 257 | 619 | Swanky Snapclear |
 | 258 | 618 | Kaitie Oliver |
@@ -303,8 +303,8 @@
 | 295 | 546 | lashanda |
 | 296 | 542 | France Vézina |
 | 297 | 541 | Mcathen |
-| 298 | 540 | rosy |
-| 299 | 540 | Tanya Kittrell |
+| 298 | 540 | Tanya Kittrell |
+| 299 | 540 | rosy |
 | 300 | 539 | Fancy Curver |
 | 301 | 539 | Kate M. Murdock |
 | 302 | 536 | Shannon Matthew Byers |
@@ -368,8 +368,8 @@
 | 360 | 447 | Carrie Huskey |
 | 361 | 447 | Num1hater |
 | 362 | 446 | Swanky Frame |
-| 363 | 446 | Jennifer Alvey |
-| 364 | 446 | Shiny Zonebuilder |
+| 363 | 446 | Shiny Zonebuilder |
+| 364 | 446 | Jennifer Alvey |
 | 365 | 445 | Loopy Clusterer |
 | 366 | 444 | Heather De Vries Cobb |
 | 367 | 443 | Christian Werndl |
@@ -379,9 +379,9 @@
 | 371 | 436 | AC Yeater |
 | 372 | 435 | Sabrina Hardrick |
 | 373 | 434 | Criss |
-| 374 | 432 | Hoppy Patternline |
-| 375 | 432 | Justice 4 P |
-| 376 | 432 | Sabrina Mansfield |
+| 374 | 432 | Justice 4 P |
+| 375 | 432 | Sabrina Mansfield |
+| 376 | 432 | Hoppy Patternline |
 | 377 | 431 | Goofy Fall |
 | 378 | 431 | Donna Esbensen-Alpini |
 | 379 | 430 | AlsoJess |
@@ -392,20 +392,20 @@
 | 384 | 426 | Christina Rotz Shows |
 | 385 | 425 | Ava Petito |
 | 386 | 423 | Dapper Liney |
-| 387 | 419 | Philip Rock |
-| 388 | 419 | Desiree Gold |
+| 387 | 419 | Desiree Gold |
+| 388 | 419 | Philip Rock |
 | 389 | 419 | Maggie |
 | 390 | 418 | Rainbow77375 |
 | 391 | 416 | Tay |
 | 392 | 415 | Steffi Chris Dacones |
-| 393 | 414 | RickyG |
-| 394 | 414 | Arden White Kirsch |
+| 393 | 414 | Arden White Kirsch |
+| 394 | 414 | RickyG |
 | 395 | 413 | Rick Poppen |
 | 396 | 411 | Beaudie Stroebel |
 | 397 | 409 | Rich LeBlanc |
 | 398 | 409 | Roary Danner |
-| 399 | 408 | Ashley Muncey |
-| 400 | 408 | Tiffany Ford |
+| 399 | 408 | Tiffany Ford |
+| 400 | 408 | Ashley Muncey |
 | 401 | 407 | Christina Spa |
 | 402 | 406 | Kristen Weese |
 | 403 | 405 | Andrew Thorson |
@@ -698,8 +698,8 @@
 | 690 | 270 | Crafty Tilemaker |
 | 691 | 269 | Bigmack |
 | 692 | 268 | Julia Nicole |
-| 693 | 268 | Wacky Crasher |
-| 694 | 268 | DanceLuvLaugh |
+| 693 | 268 | DanceLuvLaugh |
+| 694 | 268 | Wacky Crasher |
 | 695 | 267 | April Matthew Kibble |
 | 696 | 266 | paranoid |
 | 697 | 266 | Reina Roth |
@@ -893,10 +893,10 @@
 | 885 | 217 | Krystal Kampagnola |
 | 886 | 217 | Kim Forehand |
 | 887 | 217 | Jessica Quinn |
-| 888 | 216 | Peachy Rollfit |
-| 889 | 216 | Heyska |
-| 890 | 216 | Timothy Troy Frazier |
-| 891 | 216 | Heyska |
+| 888 | 216 | Zaza Lewis |
+| 889 | 216 | Timothy Troy Frazier |
+| 890 | 216 | Heyska |
+| 891 | 216 | Peachy Rollfit |
 | 892 | 216 | Tabbi Wilson |
 | 893 | 215 | Anabela Ruiz |
 | 894 | 215 | Michell Hendershott Jackson |
@@ -1631,7 +1631,7 @@
 | 1623 | 107 | Lizzie Sprague |
 | 1624 | 107 | Laurel |
 | 1625 | 106 | Tabatha Eskridge |
-| 1626 | 106 | Alan Falconer |
+| 1626 | 106 | Ashley Logan |
 | 1627 | 106 | Carrie Moran |
 | 1628 | 106 | Alan Falconer |
 | 1629 | 106 | Tracy Marino |
