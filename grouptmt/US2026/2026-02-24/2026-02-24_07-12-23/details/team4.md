@@ -99,21 +99,21 @@
 | 91 | 878 | Lucille Truesdale |
 | 92 | 873 | Courtney Cicoria |
 | 93 | 869 | Judy Cox |
-| 94 | 864 | Guy Incognito |
-| 95 | 864 | Samantha Peterson |
+| 94 | 864 | Samantha Peterson |
+| 95 | 864 | Guy Incognito |
 | 96 | 854 | Shauna Havard |
 | 97 | 851 | Jason Hart |
 | 98 | 846 | Christine Marie |
 | 99 | 840 | SAP |
 | 100 | 837 | Rica Mitchell |
-| 101 | 834 | Brittney Orengo |
-| 102 | 834 | quicksand420 |
+| 101 | 834 | quicksand420 |
+| 102 | 834 | Brittney Orengo |
 | 103 | 815 | Diana Houts |
 | 104 | 813 | Klo |
 | 105 | 811 | Sassy Pattern |
 | 106 | 806 | Lori Walker |
-| 107 | 802 | Crystal Carroll |
-| 108 | 802 | Denise Carlson |
+| 107 | 802 | Denise Carlson |
+| 108 | 802 | Crystal Carroll |
 | 109 | 801 | D3TROITB0RN74 |
 | 110 | 798 | Jewell Urban |
 | 111 | 781 | Brittney Griggs |
@@ -133,8 +133,8 @@
 | 125 | 726 | Jamie Gustafson |
 | 126 | 726 | Amy Suckarieh |
 | 127 | 725 | Brandon Crabbs |
-| 128 | 712 | Leslie Nicole |
-| 129 | 712 | H.R. Block |
+| 128 | 712 | H.R. Block |
+| 129 | 712 | Leslie Nicole |
 | 130 | 708 | Jacqueline Helm |
 | 131 | 704 | Chilly Crasher |
 | 132 | 704 | Austin Owens |
@@ -167,8 +167,8 @@
 | 159 | 590 | Angela Srubar-Norman |
 | 160 | 589 | Livvy |
 | 161 | 587 | YoMomma |
-| 162 | 586 | Latisha Davis |
-| 163 | 586 | Carlos Ramirez |
+| 162 | 586 | Carlos Ramirez |
+| 163 | 586 | Latisha Davis |
 | 164 | 585 | Tracey Lehmann |
 | 165 | 584 | Carlton Unfiltered |
 | 166 | 576 | Jade Rian |
@@ -241,8 +241,8 @@
 | 233 | 455 | Michele Plunkett |
 | 234 | 454 | Keshia Lyons |
 | 235 | 449 | Danielle Kollias |
-| 236 | 448 | Mr. Party |
-| 237 | 448 | Mike Solo |
+| 236 | 448 | Mike Solo |
+| 237 | 448 | Mr. Party |
 | 238 | 447 | Jen Mattei |
 | 239 | 444 | Selena Shaw |
 | 240 | 442 | John Brunetti |
@@ -275,8 +275,8 @@
 | 267 | 407 | Hyper Builder |
 | 268 | 407 | Rafael Valentin |
 | 269 | 402 | Nita Wells |
-| 270 | 399 | 030Synner |
-| 271 | 399 | Twisty Cascadezone |
+| 270 | 399 | Twisty Cascadezone |
+| 271 | 399 | 030Synner |
 | 272 | 398 | Tyler Terrific |
 | 273 | 397 | blockstar |
 | 274 | 395 | BigSammy420 |
@@ -468,9 +468,9 @@
 | 460 | 248 | Victoria Faniel |
 | 461 | 248 | Speedy Cascadeclear |
 | 462 | 247 | Sam Middleton |
-| 463 | 246 | GBR |
-| 464 | 246 | giantslover514 |
-| 465 | 246 | Shanon Klair |
+| 463 | 246 | giantslover514 |
+| 464 | 246 | Shanon Klair |
+| 465 | 246 | GBR |
 | 466 | 245 | Brooke Kaune |
 | 467 | 244 | Amanda Christine |
 | 468 | 244 | Penny Dean |

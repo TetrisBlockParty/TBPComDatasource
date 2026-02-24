@@ -133,8 +133,8 @@
 | 125 | 652 | Evie Khalil |
 | 126 | 651 | Dandy Basegrid |
 | 127 | 650 | Bob |
-| 128 | 647 | Theo Pinnow |
-| 129 | 647 | April Carroll |
+| 128 | 647 | April Carroll |
+| 129 | 647 | Theo Pinnow |
 | 130 | 643 | Erin Rosberg |
 | 131 | 642 | Mario Cab |
 | 132 | 638 | Carrie Smith |
@@ -201,8 +201,8 @@
 | 193 | 494 | Sean Stallings |
 | 194 | 492 | Happy Snapbuild |
 | 195 | 489 | Speedy Liney |
-| 196 | 488 | Jessie Welch |
-| 197 | 488 | Ly Phethmany |
+| 196 | 488 | Ly Phethmany |
+| 197 | 488 | Jessie Welch |
 | 198 | 487 | Eric DeSimone |
 | 199 | 482 | Mike Ames |
 | 200 | 479 | canbrick |
@@ -245,10 +245,10 @@
 | 237 | 421 | Plucky Stacky |
 | 238 | 421 | Letson Melissa |
 | 239 | 420 | Jennifer Noe Chandler |
-| 240 | 419 | Daring Fitclear |
-| 241 | 419 | John J. Cronin |
-| 242 | 416 | Larissa Marie Nelson |
-| 243 | 416 | Jessica Sheehan |
+| 240 | 419 | John J. Cronin |
+| 241 | 419 | Daring Fitclear |
+| 242 | 416 | Jessica Sheehan |
+| 243 | 416 | Larissa Marie Nelson |
 | 244 | 414 | Bird Person |
 | 245 | 412 | Sleepysloath5745 |
 | 246 | 410 | Paula Martin |
@@ -264,14 +264,14 @@
 | 256 | 396 | Sam Williams |
 | 257 | 394 | Nick R Montague |
 | 258 | 393 | Wisa |
-| 259 | 392 | Renee Tucker |
-| 260 | 392 | Poppy Riserpiece |
+| 259 | 392 | Poppy Riserpiece |
+| 260 | 392 | Renee Tucker |
 | 261 | 391 | Happy Basegrid |
 | 262 | 390 | David Lutcher |
 | 263 | 386 | Melissa Bires Hussar |
 | 264 | 386 | Angela Renea Lester |
-| 265 | 384 | Colleen Pinette |
-| 266 | 384 | Irv |
+| 265 | 384 | Irv |
+| 266 | 384 | Colleen Pinette |
 | 267 | 383 | Margo Wagner |
 | 268 | 382 | Jamie Jury |
 | 269 | 380 | Snippy Wipebuilder |
@@ -475,9 +475,9 @@
 | 467 | 260 | Lacy Wolfe |
 | 468 | 260 | Silly Align |
 | 469 | 259 | Lisa Reynolds Adair |
-| 470 | 258 | Tedashi |
-| 471 | 258 | Vivienne Carter |
-| 472 | 258 | Marc Abney |
+| 470 | 258 | Vivienne Carter |
+| 471 | 258 | Marc Abney |
+| 472 | 258 | Tedashi |
 | 473 | 257 | Funky Piecebuilder |
 | 474 | 257 | Frisky Risebuilder |
 | 475 | 257 | Andrew Backes |

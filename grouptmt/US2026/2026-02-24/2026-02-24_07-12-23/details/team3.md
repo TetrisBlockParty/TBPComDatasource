@@ -82,8 +82,8 @@
 | 74 | 1633 | cowboy25469 |
 | 75 | 1625 | Queen Kam |
 | 76 | 1615 | joclisa |
-| 77 | 1566 | Marcie Bressler |
-| 78 | 1566 | Nerdy Riseclear |
+| 77 | 1566 | Nerdy Riseclear |
+| 78 | 1566 | Marcie Bressler |
 | 79 | 1560 | Logan Naccarato |
 | 80 | 1555 | Snappy Glidepiece |
 | 81 | 1518 | Christine Filson |
@@ -104,8 +104,8 @@
 | 96 | 1361 | Patricia Gadsden |
 | 97 | 1343 | Joey Banks |
 | 98 | 1320 | Kristie |
-| 99 | 1318 | Diana Ibarra |
-| 100 | 1318 | Tiff Vs Tiffany |
+| 99 | 1318 | Tiff Vs Tiffany |
+| 100 | 1318 | Diana Ibarra |
 | 101 | 1309 | yoyo |
 | 102 | 1297 | Shelby Michelle |
 | 103 | 1290 | JerseyJess |
@@ -155,10 +155,10 @@
 | 147 | 966 | Sashay Tapae Simpson |
 | 148 | 963 | Crystal Frey |
 | 149 | 961 | Danielle Allison |
-| 150 | 950 | Giddy Drop |
-| 151 | 950 | MissTaylor |
-| 152 | 940 | Patty Allen |
-| 153 | 940 | Stephanie Allmon |
+| 150 | 950 | MissTaylor |
+| 151 | 950 | Giddy Drop |
+| 152 | 940 | Stephanie Allmon |
+| 153 | 940 | Patty Allen |
 | 154 | 936 | Dolores Falco |
 | 155 | 925 | Cherry Parker |
 | 156 | 914 | Sarajane Lokan |
@@ -190,8 +190,8 @@
 | 182 | 817 | Niki Dalrymple |
 | 183 | 815 | Justin Ritter |
 | 184 | 813 | JessDrown |
-| 185 | 804 | Alaina Lee |
-| 186 | 804 | Gideon Walker |
+| 185 | 804 | Gideon Walker |
+| 186 | 804 | Alaina Lee |
 | 187 | 800 | Lauren Girouard |
 | 188 | 799 | Trisha Balmer |
 | 189 | 797 | Raya |
@@ -207,8 +207,8 @@
 | 199 | 772 | Tye Stovall |
 | 200 | 769 | Hasty Cascadefit |
 | 201 | 768 | Cyd061769 |
-| 202 | 763 | Khaleada McGill Banks |
-| 203 | 763 | Tasha Gillespie |
+| 202 | 763 | Tasha Gillespie |
+| 203 | 763 | Khaleada McGill Banks |
 | 204 | 760 | Kiki |
 | 205 | 759 | Mykal Burton |
 | 206 | 757 | Fancy Cascader |
@@ -231,8 +231,8 @@
 | 223 | 709 | Christine Niles |
 | 224 | 708 | Stephanie Bradley |
 | 225 | 703 | Shawn Miller |
-| 226 | 691 | Snappy Balancer |
-| 227 | 691 | Tia |
+| 226 | 691 | Tia |
+| 227 | 691 | Snappy Balancer |
 | 228 | 687 | joz |
 | 229 | 675 | Terry Jo Jones |
 | 230 | 662 | Jim Mathews |
@@ -328,14 +328,14 @@
 | 320 | 499 | Megan Rathmanner |
 | 321 | 496 | Brenda Schmid Wood |
 | 322 | 495 | Daring Builder |
-| 323 | 494 | MCV |
-| 324 | 494 | fraulila |
+| 323 | 494 | fraulila |
+| 324 | 494 | MCV |
 | 325 | 492 | Tasha Wesson-Torrence |
 | 326 | 490 | Cassandra Bryant |
 | 327 | 489 | Isabel Ocasio |
 | 328 | 487 | MsBee |
-| 329 | 486 | Sleepy |
-| 330 | 486 | Skippy |
+| 329 | 486 | Skippy |
+| 330 | 486 | Sleepy |
 | 331 | 482 | Chummy Rumbler |
 | 332 | 481 | Tiffanie Alley |
 | 333 | 480 | TLM |
@@ -358,11 +358,11 @@
 | 350 | 459 | Randy Clevenger |
 | 351 | 459 | TotoCherue |
 | 352 | 457 | Snippy Wipeout |
-| 353 | 456 | Kelly |
-| 354 | 456 | Cynthia Herrmann Egland |
+| 353 | 456 | Cynthia Herrmann Egland |
+| 354 | 456 | Kelly |
 | 355 | 455 | Kelly Wolf |
-| 356 | 450 | Luciana Braganca Vieira |
-| 357 | 450 | Stefanie LaPointe |
+| 356 | 450 | Stefanie LaPointe |
+| 357 | 450 | Luciana Braganca Vieira |
 | 358 | 449 | Lively Caster |
 | 359 | 447 | Carrie Huskey |
 | 360 | 447 | Num1hater |
@@ -401,8 +401,8 @@
 | 393 | 413 | Rick Poppen |
 | 394 | 411 | Beaudie Stroebel |
 | 395 | 409 | Rich LeBlanc |
-| 396 | 408 | Tiffany Ford |
-| 397 | 408 | Ashley Muncey |
+| 396 | 408 | Ashley Muncey |
+| 397 | 408 | Tiffany Ford |
 | 398 | 407 | Christina Spa |
 | 399 | 407 | Criss |
 | 400 | 406 | Kristen Weese |
@@ -468,11 +468,11 @@
 | 460 | 356 | Trice Sodames |
 | 461 | 356 | Christy Quick |
 | 462 | 355 | Kevin Russell |
-| 463 | 354 | Norma JulieMay |
-| 464 | 354 | Jana Polk |
+| 463 | 354 | Jana Polk |
+| 464 | 354 | Norma JulieMay |
 | 465 | 353 | Eboni G. |
-| 466 | 353 | Cheeky Snapper |
-| 467 | 353 | Nikkie Bucciano |
+| 466 | 353 | Nikkie Bucciano |
+| 467 | 353 | Cheeky Snapper |
 | 468 | 352 | LadyTorad |
 | 469 | 351 | Eon Harris |
 | 470 | 351 | Nelma |
@@ -584,10 +584,10 @@
 | 576 | 308 | Grams |
 | 577 | 308 | Danetta McCadden |
 | 578 | 307 | Kristina Gardner |
-| 579 | 306 | BigE |
-| 580 | 306 | Valerie Tarkington |
-| 581 | 306 | Dapper Chiseler |
-| 582 | 306 | Alexis Ford |
+| 579 | 306 | Dapper Chiseler |
+| 580 | 306 | BigE |
+| 581 | 306 | Alexis Ford |
+| 582 | 306 | Valerie Tarkington |
 | 583 | 305 | Frisky Stacker |
 | 584 | 304 | Carrie Resler |
 | 585 | 304 | Courtney Price |

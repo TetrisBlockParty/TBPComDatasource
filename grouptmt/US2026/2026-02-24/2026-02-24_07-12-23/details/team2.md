@@ -308,8 +308,8 @@
 | 300 | 1353 | Heather Hoffman Disharoon |
 | 301 | 1351 | Lucky Ladybug |
 | 302 | 1351 | Ashie Ann |
-| 303 | 1351 | Denisha Dawkins |
-| 304 | 1351 | Johnny Yeates |
+| 303 | 1351 | Johnny Yeates |
+| 304 | 1351 | Denisha Dawkins |
 | 305 | 1343 | Sarah Berger |
 | 306 | 1342 | Groovy Puzzle |
 | 307 | 1342 | Kelly A Green-Leach |
