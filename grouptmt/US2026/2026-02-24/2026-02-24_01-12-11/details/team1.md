@@ -291,8 +291,8 @@
 | 283 | 344 | Letson Melissa |
 | 284 | 344 | dhardy |
 | 285 | 342 | Matt Iaccheo |
-| 286 | 341 | Colleen Pinette |
-| 287 | 341 | Nick R Montague |
+| 286 | 341 | Nick R Montague |
+| 287 | 341 | Colleen Pinette |
 | 288 | 341 | Standia Civil |
 | 289 | 340 | Danielle Little-Daugherty |
 | 290 | 340 | Robert |
@@ -352,9 +352,9 @@
 | 344 | 291 | Sir-Franchise Drake |
 | 345 | 291 | Toph |
 | 346 | 290 | Shanae Grant |
-| 347 | 289 | Speedy Snapfall |
-| 348 | 289 | Michael |
-| 349 | 289 | Nate Price |
+| 347 | 289 | Nate Price |
+| 348 | 289 | Speedy Snapfall |
+| 349 | 289 | Michael |
 | 350 | 288 | Tanya Banks |
 | 351 | 287 | Itspaigebro |
 | 352 | 286 | Marci Sanders |
@@ -391,7 +391,7 @@
 | 383 | 272 | Renee Tucker |
 | 384 | 272 | Lyn Sibayan |
 | 385 | 271 | Mighty Shatterfit |
-| 386 | 271 | Patty Lavigne Craddock |
+| 386 | 271 | Amanda Wharton |
 | 387 | 271 | Al Smith Jr |
 | 388 | 271 | Patty Lavigne Craddock |
 | 389 | 270 | Ariel Whittington |

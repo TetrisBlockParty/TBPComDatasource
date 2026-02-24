@@ -26,8 +26,8 @@
 | 18 | 2365 | Elizabeth Sallas |
 | 19 | 2002 | Misty Hollibaugh |
 | 20 | 1962 | Cool Buildout |
-| 21 | 1775 | Dustin Robert |
-| 22 | 1775 | Ash |
+| 21 | 1775 | Ash |
+| 22 | 1775 | Dustin Robert |
 | 23 | 1764 | Jason Allen |
 | 24 | 1742 | Ancient Intuition |
 | 25 | 1706 | Ayanna Soto |
@@ -64,8 +64,8 @@
 | 56 | 1106 | Ashley Ingram |
 | 57 | 1092 | Rachel Anne |
 | 58 | 1088 | BertMofo |
-| 59 | 1082 | Avy Absol |
-| 60 | 1082 | Dion Crommarty |
+| 59 | 1082 | Dion Crommarty |
+| 60 | 1082 | Avy Absol |
 | 61 | 1075 | Dustee Craddock-Harrison |
 | 62 | 1059 | Alyssa Papen |
 | 63 | 1049 | Heather Tushner |
@@ -142,8 +142,8 @@
 | 134 | 616 | Samantha Peterson |
 | 135 | 615 | Kim Hunt |
 | 136 | 613 | Porkobello |
-| 137 | 611 | Chris Baggett |
-| 138 | 611 | Ernest Maxwell |
+| 137 | 611 | Ernest Maxwell |
+| 138 | 611 | Chris Baggett |
 | 139 | 602 | Cristy Duerksen |
 | 140 | 600 | Carrie Brian |
 | 141 | 596 | Jewell Urban |
@@ -175,16 +175,16 @@
 | 167 | 525 | Lucas J Sutton |
 | 168 | 522 | Carly Alexis |
 | 169 | 521 | Andy Cabral |
-| 170 | 520 | Oscar Alberto Perez |
-| 171 | 520 | Zippy Block |
-| 172 | 516 | Twisty Clicky |
-| 173 | 516 | Trish |
+| 170 | 520 | Zippy Block |
+| 171 | 520 | Oscar Alberto Perez |
+| 172 | 516 | Trish |
+| 173 | 516 | Twisty Clicky |
 | 174 | 514 | Scott Jameson |
 | 175 | 513 | Erin Thomas |
-| 176 | 512 | Nick Gray |
+| 176 | 512 | Angela Srubar-Norman |
 | 177 | 512 | Casey Jeffcoat |
-| 178 | 512 | ThaEviLJeNiuZ |
-| 179 | 512 | Angela Srubar-Norman |
+| 178 | 512 | Nick Gray |
+| 179 | 512 | ThaEviLJeNiuZ |
 | 180 | 512 | Ellen Durfee |
 | 181 | 504 | Deanna Deckard |
 | 182 | 503 | Andria Lynn |
