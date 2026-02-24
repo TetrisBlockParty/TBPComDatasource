@@ -112,8 +112,8 @@
 | 104 | 813 | Klo |
 | 105 | 811 | Sassy Pattern |
 | 106 | 806 | Lori Walker |
-| 107 | 802 | Denise Carlson |
-| 108 | 802 | Crystal Carroll |
+| 107 | 802 | Crystal Carroll |
+| 108 | 802 | Denise Carlson |
 | 109 | 801 | D3TROITB0RN74 |
 | 110 | 798 | Jewell Urban |
 | 111 | 781 | Brittney Griggs |
@@ -133,11 +133,11 @@
 | 125 | 726 | Amy Suckarieh |
 | 126 | 726 | Jamie Gustafson |
 | 127 | 725 | Brandon Crabbs |
-| 128 | 712 | H.R. Block |
-| 129 | 712 | Leslie Nicole |
+| 128 | 712 | Leslie Nicole |
+| 129 | 712 | H.R. Block |
 | 130 | 708 | Jacqueline Helm |
-| 131 | 704 | Austin Owens |
-| 132 | 704 | Chilly Crasher |
+| 131 | 704 | Chilly Crasher |
+| 132 | 704 | Austin Owens |
 | 133 | 682 | Raegan Lane-Ross |
 | 134 | 668 | Desi Desporte |
 | 135 | 667 | Lindsey Gonzalez |
@@ -158,10 +158,10 @@
 | 150 | 622 | Ernest Maxwell |
 | 151 | 621 | Angelito |
 | 152 | 619 | April Rondinone |
-| 153 | 616 | Adam Stephanie Parker |
-| 154 | 616 | Carrie Brian |
-| 155 | 615 | Kim Hunt |
-| 156 | 602 | Cristy Duerksen |
+| 153 | 616 | Carrie Brian |
+| 154 | 615 | Kim Hunt |
+| 155 | 602 | Cristy Duerksen |
+| 156 | 599 | Adam Stephanie Parker |
 | 157 | 595 | TRCuse |
 | 158 | 591 | Cursed Hag |
 | 159 | 590 | Carmethia Clemons Haslerig |
@@ -279,13 +279,13 @@
 | 271 | 399 | Twisty Cascadezone |
 | 272 | 398 | Tyler Terrific |
 | 273 | 397 | blockstar |
-| 274 | 395 | Denise B |
-| 275 | 395 | BigSammy420 |
+| 274 | 395 | BigSammy420 |
+| 275 | 395 | Denise B |
 | 276 | 393 | Montiette Mcglown |
 | 277 | 392 | Neirrah B Olailjeel |
 | 278 | 391 | mike |
 | 279 | 390 | Ari Droff |
-| 280 | 389 | Nikki Rae Gordon |
+| 280 | 384 | Nikki Rae Gordon |
 | 281 | 382 | Sue Joyce Staats |
 | 282 | 380 | Chaz |
 | 283 | 380 | Jen Caldwell |
@@ -306,11 +306,11 @@
 | 298 | 364 | Lora |
 | 299 | 362 | Nubian1 |
 | 300 | 360 | Lee Silpe |
-| 301 | 359 | Allen Lloyd |
+| 301 | 359 | Holly |
 | 302 | 359 | KimoKoala |
-| 303 | 359 | Holly |
-| 304 | 354 | @ |
-| 305 | 354 | Perky Piecegrid |
+| 303 | 359 | Allen Lloyd |
+| 304 | 354 | Perky Piecegrid |
+| 305 | 354 | @ |
 | 306 | 352 | Kate |
 | 307 | 351 | Dana Scott |
 | 308 | 351 | Jackie Clark |

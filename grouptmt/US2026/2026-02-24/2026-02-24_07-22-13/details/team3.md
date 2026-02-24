@@ -82,8 +82,8 @@
 | 74 | 1633 | cowboy25469 |
 | 75 | 1625 | Queen Kam |
 | 76 | 1615 | joclisa |
-| 77 | 1566 | Nerdy Riseclear |
-| 78 | 1566 | Marcie Bressler |
+| 77 | 1566 | Marcie Bressler |
+| 78 | 1566 | Nerdy Riseclear |
 | 79 | 1560 | Logan Naccarato |
 | 80 | 1555 | Snappy Glidepiece |
 | 81 | 1518 | Christine Filson |
@@ -172,8 +172,8 @@
 | 164 | 875 | Chasity |
 | 165 | 874 | Jessica Pineda-Lopez |
 | 166 | 871 | Rochelle Hazelett |
-| 167 | 868 | Cranky Gridder |
-| 168 | 868 | Nicole Flippo |
+| 167 | 868 | Nicole Flippo |
+| 168 | 868 | Cranky Gridder |
 | 169 | 866 | Domo Washington |
 | 170 | 864 | Sunny Rotater |
 | 171 | 862 | Santeria Trece Candles |
@@ -190,11 +190,11 @@
 | 182 | 817 | Niki Dalrymple |
 | 183 | 815 | Justin Ritter |
 | 184 | 813 | JessDrown |
-| 185 | 805 | Raya |
-| 186 | 804 | Alaina Lee |
-| 187 | 804 | Gideon Walker |
-| 188 | 800 | Lauren Girouard |
-| 189 | 799 | Trisha Balmer |
+| 185 | 804 | Alaina Lee |
+| 186 | 804 | Gideon Walker |
+| 187 | 800 | Lauren Girouard |
+| 188 | 799 | Trisha Balmer |
+| 189 | 797 | Raya |
 | 190 | 794 | Alexmac |
 | 191 | 792 | Rachel Grant |
 | 192 | 785 | Jeni Dow |
@@ -285,8 +285,8 @@
 | 277 | 574 | Fallorina Susana |
 | 278 | 572 | Tessina Dewey-Mancino |
 | 279 | 570 | thekey |
-| 280 | 569 | Michael Johnson |
-| 281 | 569 | Silly Twist |
+| 280 | 569 | Silly Twist |
+| 281 | 569 | Michael Johnson |
 | 282 | 566 | Eileen Brady Thurber |
 | 283 | 565 | Michael Lucado |
 | 284 | 564 | Micayah Stevens |
@@ -306,8 +306,8 @@
 | 298 | 540 | rosy |
 | 299 | 539 | Fancy Curver |
 | 300 | 539 | Kate M. Murdock |
-| 301 | 536 | Shannon Matthew Byers |
-| 302 | 536 | Giddy Twistbuilder |
+| 301 | 536 | Giddy Twistbuilder |
+| 302 | 536 | Shannon Matthew Byers |
 | 303 | 535 | kacihall |
 | 304 | 533 | BugMansMom |
 | 305 | 532 | Sarah Muradyan |
@@ -334,8 +334,8 @@
 | 326 | 490 | Cassandra Bryant |
 | 327 | 489 | Isabel Ocasio |
 | 328 | 487 | MsBee |
-| 329 | 486 | Skippy |
-| 330 | 486 | Sleepy |
+| 329 | 486 | Sleepy |
+| 330 | 486 | Skippy |
 | 331 | 482 | Chummy Rumbler |
 | 332 | 481 | Tiffanie Alley |
 | 333 | 480 | Dee Franklin |
@@ -358,8 +358,8 @@
 | 350 | 459 | Randy Clevenger |
 | 351 | 459 | TotoCherue |
 | 352 | 457 | Snippy Wipeout |
-| 353 | 456 | Cynthia Herrmann Egland |
-| 354 | 456 | Kelly |
+| 353 | 456 | Kelly |
+| 354 | 456 | Cynthia Herrmann Egland |
 | 355 | 455 | Kelly Wolf |
 | 356 | 450 | Stefanie LaPointe |
 | 357 | 450 | Luciana Braganca Vieira |
@@ -367,16 +367,16 @@
 | 359 | 447 | Carrie Huskey |
 | 360 | 447 | Num1hater |
 | 361 | 446 | Swanky Frame |
-| 362 | 446 | Shiny Zonebuilder |
-| 363 | 446 | Jojo M |
+| 362 | 446 | Jojo M |
+| 363 | 446 | Shiny Zonebuilder |
 | 364 | 446 | Jennifer Alvey |
 | 365 | 445 | Loopy Clusterer |
 | 366 | 444 | Heather De Vries Cobb |
 | 367 | 443 | Christian Werndl |
 | 368 | 442 | Loopy Fallzone |
 | 369 | 438 | Dannie Litchard |
-| 370 | 436 | Julie Fratrik |
-| 371 | 436 | AC Yeater |
+| 370 | 436 | AC Yeater |
+| 371 | 436 | Julie Fratrik |
 | 372 | 435 | Sabrina Hardrick |
 | 373 | 434 | Criss |
 | 374 | 432 | Hoppy Patternline |

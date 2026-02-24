@@ -441,8 +441,8 @@
 | 433 | 1074 | Diana Ayers |
 | 434 | 1073 | Jodi Blake |
 | 435 | 1072 | Mandi Douglas Hilt |
-| 436 | 1071 | Kim Dean |
-| 437 | 1071 | Nashu |
+| 436 | 1071 | Nashu |
+| 437 | 1071 | Kim Dean |
 | 438 | 1068 | Tiffany Branham |
 | 439 | 1067 | Lourisha |
 | 440 | 1067 | Taylor Phillips |
@@ -611,8 +611,8 @@
 | 603 | 823 | Rhonda Milstead |
 | 604 | 822 | KayLynn Ogden McClelland |
 | 605 | 821 | Anthony Mignacca |
-| 606 | 820 | Mighty Spinbuilder |
-| 607 | 820 | Brenda Pierpoint |
+| 606 | 820 | Brenda Pierpoint |
+| 607 | 820 | Mighty Spinbuilder |
 | 608 | 820 | Laura McCarthey |
 | 609 | 819 | BeQuo |
 | 610 | 816 | Stephanie Fortune |
@@ -1004,8 +1004,8 @@
 | 996 | 577 | GinRox88 |
 | 997 | 575 | Cini |
 | 998 | 575 | Joel Rosado |
-| 999 | 575 | Kira Krause |
-| 1000 | 575 | Vung Nguyen |
+| 999 | 575 | Vung Nguyen |
+| 1000 | 575 | Kira Krause |
 | 1001 | 574 | Chris Emanuel |
 | 1002 | 574 | Shyenn Gadsby |
 | 1003 | 574 | Shannon Gerbis |
@@ -1047,11 +1047,11 @@
 | 1039 | 557 | Jason Garnatz |
 | 1040 | 557 | Marina Linda |
 | 1041 | 556 | Kamilya Rembert |
-| 1042 | 555 | Glitzy Rollblock |
-| 1043 | 555 | Noel Tarmy |
+| 1042 | 555 | Noel Tarmy |
+| 1043 | 555 | Glitzy Rollblock |
 | 1044 | 555 | Amy Roche |
-| 1045 | 554 | Hoppy Glidebuilder |
-| 1046 | 554 | Cheery Puzzler |
+| 1045 | 554 | Cheery Puzzler |
+| 1046 | 554 | Hoppy Glidebuilder |
 | 1047 | 554 | Dusti Rose Bingham |
 | 1048 | 553 | ruth |
 | 1049 | 553 | Tum |
