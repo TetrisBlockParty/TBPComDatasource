@@ -127,8 +127,8 @@
 | 119 | 1140 | Melissa Orth Hunter |
 | 120 | 1124 | Stephanie Rice |
 | 121 | 1121 | Corie A. Brinson |
-| 122 | 1114 | Groovy Catcher |
-| 123 | 1114 | Loopy Fallmatch |
+| 122 | 1114 | Loopy Fallmatch |
+| 123 | 1114 | Groovy Catcher |
 | 124 | 1105 | Adrian Marcel Pate |
 | 125 | 1101 | Valerie Gendron |
 | 126 | 1093 | Angela M. Fletcher |
@@ -199,8 +199,8 @@
 | 191 | 815 | Justin Ritter |
 | 192 | 813 | JessDrown |
 | 193 | 808 | Raya |
-| 194 | 804 | Gideon Walker |
-| 195 | 804 | Alaina Lee |
+| 194 | 804 | Alaina Lee |
+| 195 | 804 | Gideon Walker |
 | 196 | 800 | Lauren Girouard |
 | 197 | 799 | Trisha Balmer |
 | 198 | 792 | Rachel Grant |
@@ -270,13 +270,13 @@
 | 262 | 627 | Juliana Dottore |
 | 263 | 627 | Louise Stacy Sisson |
 | 264 | 626 | Cheryl Hinch Tenbrook |
-| 265 | 625 | Salena Whitlock |
-| 266 | 625 | Jacqueline Rodriguez |
+| 265 | 625 | Jacqueline Rodriguez |
+| 266 | 625 | Salena Whitlock |
 | 267 | 624 | Hyper Matchzone |
 | 268 | 623 | Giggy Glidepiece |
 | 269 | 619 | Swanky Snapclear |
-| 270 | 618 | Kaitie Oliver |
-| 271 | 618 | Rynne Ellis |
+| 270 | 618 | Rynne Ellis |
+| 271 | 618 | Kaitie Oliver |
 | 272 | 613 | Kaycee Kay |
 | 273 | 609 | Connie Mohler-Fair |
 | 274 | 608 | Noyb Adam |
@@ -306,8 +306,8 @@
 | 298 | 556 | Shiny Zonebuilder |
 | 299 | 555 | Danielle Weikel |
 | 300 | 552 | Scott Carleton |
-| 301 | 548 | Shannon Matthew Byers |
-| 302 | 548 | Chris Bell |
+| 301 | 548 | Chris Bell |
+| 302 | 548 | Shannon Matthew Byers |
 | 303 | 547 | Aerian Preston |
 | 304 | 542 | France Vézina |
 | 305 | 541 | Mcathen |
@@ -436,8 +436,8 @@
 | 428 | 394 | Jalissa Monique |
 | 429 | 392 | Linda Draper |
 | 430 | 391 | gremicx |
-| 431 | 391 | Rebel124 |
-| 432 | 391 | Ashley Lynn Marchese |
+| 431 | 391 | Ashley Lynn Marchese |
+| 432 | 391 | Rebel124 |
 | 433 | 390 | ROODBOY |
 | 434 | 390 | Steven Fulater |
 | 435 | 389 | Kirhonda Autmon |
@@ -597,8 +597,8 @@
 | 589 | 313 | Cibf Ecihm |
 | 590 | 313 | Joseph Vargas |
 | 591 | 313 | Dakota Graham |
-| 592 | 312 | Trice Thomas |
-| 593 | 312 | Elizabeth Renee |
+| 592 | 312 | Elizabeth Renee |
+| 593 | 312 | Trice Thomas |
 | 594 | 311 | Irene Arreguin |
 | 595 | 309 | Daisy Rocha |
 | 596 | 309 | Jumpy Curvebuilder |
@@ -792,8 +792,8 @@
 | 784 | 248 | Samantha Lohmeyer |
 | 785 | 248 | Amie Hendrickson |
 | 786 | 247 | Melanie Sherwood |
-| 787 | 247 | Barbara Bennett |
-| 788 | 247 | Jennifer Evans |
+| 787 | 247 | Jennifer Evans |
+| 788 | 247 | Barbara Bennett |
 | 789 | 247 | Taylor |
 | 790 | 246 | MomOnBreak |
 | 791 | 246 | Erica Anderson |
@@ -920,8 +920,8 @@
 | 912 | 216 | Zaza Lewis |
 | 913 | 216 | Timothy Troy Frazier |
 | 914 | 216 | Tabbi Wilson |
-| 915 | 215 | Anabela Ruiz |
-| 916 | 215 | Agata Sawicka |
+| 915 | 215 | Agata Sawicka |
+| 916 | 215 | Anabela Ruiz |
 | 917 | 214 | krazibtch |
 | 918 | 214 | Draone Grayson |
 | 919 | 213 | Quinn Missouridog |

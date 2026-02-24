@@ -74,15 +74,15 @@
 | 66 | 1119 | Amelpss |
 | 67 | 1109 | BertMofo |
 | 68 | 1089 | Alyssa Papen |
-| 69 | 1082 | Avy Absol |
-| 70 | 1082 | Dion Crommarty |
+| 69 | 1082 | Dion Crommarty |
+| 70 | 1082 | Avy Absol |
 | 71 | 1081 | Dustee Craddock-Harrison |
 | 72 | 1080 | Chilly Line |
 | 73 | 1071 | LisaJo Picken Buchanan |
 | 74 | 1069 | Heather Tushner |
 | 75 | 1056 | Keith Kelley |
-| 76 | 1046 | Johnathan Martinez |
-| 77 | 1046 | Anthony Bryan Riva |
+| 76 | 1046 | Anthony Bryan Riva |
+| 77 | 1046 | Johnathan Martinez |
 | 78 | 1028 | TeeJ |
 | 79 | 1024 | Valerie Roberts |
 | 80 | 1017 | Jeremy Steines |
@@ -117,8 +117,8 @@
 | 109 | 811 | Sassy Pattern |
 | 110 | 806 | Zippy Gridlock |
 | 111 | 805 | Mylo Lipscomb |
-| 112 | 802 | Denise Carlson |
-| 113 | 802 | Crystal Carroll |
+| 112 | 802 | Crystal Carroll |
+| 113 | 802 | Denise Carlson |
 | 114 | 801 | D3TROITB0RN74 |
 | 115 | 798 | Jewell Urban |
 | 116 | 784 | TheNeesh50 |
@@ -134,8 +134,8 @@
 | 126 | 729 | Jamie Mann-Deichmann |
 | 127 | 726 | Jamie Gustafson |
 | 128 | 725 | Brandon Crabbs |
-| 129 | 719 | George Nutt |
-| 130 | 719 | Leslie Nicole |
+| 129 | 719 | Leslie Nicole |
+| 130 | 719 | George Nutt |
 | 131 | 712 | H.R. Block |
 | 132 | 708 | Jacqueline Helm |
 | 133 | 704 | Chilly Crasher |
@@ -217,8 +217,8 @@
 | 209 | 508 | June Hoffman |
 | 210 | 507 | Andria Lynn |
 | 211 | 504 | Deanna Deckard |
-| 212 | 502 | Ericca Eldridge |
-| 213 | 502 | Christina Black |
+| 212 | 502 | Christina Black |
+| 213 | 502 | Ericca Eldridge |
 | 214 | 501 | Sharyn Lemire |
 | 215 | 499 | Kesha Brady |
 | 216 | 499 | DonMega |
@@ -251,8 +251,8 @@
 | 243 | 454 | Keshia Lyons |
 | 244 | 450 | Genne Scott |
 | 245 | 449 | Danielle Kollias |
-| 246 | 448 | Mr. Party |
-| 247 | 448 | Mike Solo |
+| 246 | 448 | Mike Solo |
+| 247 | 448 | Mr. Party |
 | 248 | 447 | Jen Mattei |
 | 249 | 445 | Jessi Cinotto |
 | 250 | 444 | Twisty Cascadezone |
@@ -498,8 +498,8 @@
 | 490 | 247 | RIFATSIKDER |
 | 491 | 247 | Sam Middleton |
 | 492 | 246 | Shanon Klair |
-| 493 | 246 | giantslover514 |
-| 494 | 246 | GBR |
+| 493 | 246 | GBR |
+| 494 | 246 | giantslover514 |
 | 495 | 245 | Brooke Kaune |
 | 496 | 244 | Elizabeth Tinoco |
 | 497 | 244 | Penny Dean |
@@ -604,9 +604,9 @@
 | 596 | 209 | Ann G. Carrillo |
 | 597 | 208 | JoAnna Zalkovsky |
 | 598 | 208 | Sholom Fried |
-| 599 | 207 | Chariss Newsom |
-| 600 | 207 | Rebecca Blake |
-| 601 | 207 | ChasingZen |
+| 599 | 207 | Rebecca Blake |
+| 600 | 207 | ChasingZen |
+| 601 | 207 | Chariss Newsom |
 | 602 | 206 | Matt Morrow |
 | 603 | 204 | Gwendolyn Pitcairn |
 | 604 | 204 | icequeenx |
@@ -677,8 +677,8 @@
 | 669 | 182 | Bigeddie |
 | 670 | 182 | Maria Larsen |
 | 671 | 181 | Caitlyn Brown |
-| 672 | 181 | Cool Clusterfit |
-| 673 | 181 | Tisha Cammack |
+| 672 | 181 | Tisha Cammack |
+| 673 | 181 | Cool Clusterfit |
 | 674 | 180 | Jazzy Slamdrop |
 | 675 | 179 | Vamp |
 | 676 | 179 | Janis Brown |

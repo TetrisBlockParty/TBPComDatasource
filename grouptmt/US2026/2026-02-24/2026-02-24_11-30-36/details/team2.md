@@ -315,16 +315,16 @@
 | 307 | 1381 | Christie |
 | 308 | 1381 | Dapper Dasher |
 | 309 | 1380 | Jerilyn Andrina |
-| 310 | 1376 | Megan Brianna |
-| 311 | 1376 | Kevin Sees |
+| 310 | 1376 | Kevin Sees |
+| 311 | 1376 | Megan Brianna |
 | 312 | 1374 | Sarah Berger |
 | 313 | 1374 | Kori Beth Babb |
 | 314 | 1362 | Angie Marie |
 | 315 | 1357 | Tanya Parsons |
 | 316 | 1353 | Deborah Miller |
 | 317 | 1353 | Heather Hoffman Disharoon |
-| 318 | 1351 | Ashie Ann |
-| 319 | 1351 | Lucky Ladybug |
+| 318 | 1351 | Lucky Ladybug |
+| 319 | 1351 | Ashie Ann |
 | 320 | 1351 | Johnny Yeates |
 | 321 | 1351 | Denisha Dawkins |
 | 322 | 1342 | Groovy Puzzle |
@@ -422,8 +422,8 @@
 | 414 | 1116 | Em Chen |
 | 415 | 1116 | Wakanda Forever |
 | 416 | 1112 | Spunkysmom |
-| 417 | 1109 | BYM4L |
-| 418 | 1109 | Melissa McCall |
+| 417 | 1109 | Melissa McCall |
+| 418 | 1109 | BYM4L |
 | 419 | 1106 | Jessica Redmond |
 | 420 | 1105 | Nerdy Clearfit |
 | 421 | 1105 | Miranda Morris |
@@ -585,8 +585,8 @@
 | 577 | 881 | Layla LS |
 | 578 | 881 | BIG BABY |
 | 579 | 876 | Carrie Mitchell |
-| 580 | 876 | Jelly |
-| 581 | 876 | Jessicah Myers |
+| 580 | 876 | Jessicah Myers |
+| 581 | 876 | Jelly |
 | 582 | 875 | Amanda Ferrell |
 | 583 | 871 | Ashe Corso |
 | 584 | 871 | Dennis McLaurin |
@@ -808,15 +808,15 @@
 | 800 | 691 | Melissa Kay Gibson |
 | 801 | 690 | Lawanda Forbes |
 | 802 | 690 | Latasha Love |
-| 803 | 689 | Martina Gabrielle LaPolla |
-| 804 | 689 | SpaceCase085 |
+| 803 | 689 | SpaceCase085 |
+| 804 | 689 | Martina Gabrielle LaPolla |
 | 805 | 688 | Tracy Wise |
 | 806 | 688 | Newni Bayb |
 | 807 | 687 | Candy Pitts |
 | 808 | 686 | Christina Ashley |
 | 809 | 685 | Rose Fx |
-| 810 | 684 | Sleepypanda67 |
-| 811 | 684 | Atara James |
+| 810 | 684 | Atara James |
+| 811 | 684 | Sleepypanda67 |
 | 812 | 684 | Jazzy Clusterline |
 | 813 | 683 | Nicole Sanqui |
 | 814 | 683 | Audrey Jones |
