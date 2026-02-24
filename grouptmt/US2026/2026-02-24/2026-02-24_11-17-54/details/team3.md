@@ -69,8 +69,8 @@
 | 61 | 1920 | Trezure Gonzalez |
 | 62 | 1858 | Kristie McFarland |
 | 63 | 1836 | Tina Kay |
-| 64 | 1824 | Jessica Ann |
-| 65 | 1824 | Nate Burnside |
+| 64 | 1824 | Nate Burnside |
+| 65 | 1824 | Jessica Ann |
 | 66 | 1791 | Leah Barnett |
 | 67 | 1776 | Whitney Manuel |
 | 68 | 1774 | Liv Whetson |
@@ -83,8 +83,8 @@
 | 75 | 1633 | cowboy25469 |
 | 76 | 1625 | Queen Kam |
 | 77 | 1615 | joclisa |
-| 78 | 1566 | Marcie Bressler |
-| 79 | 1566 | Nerdy Riseclear |
+| 78 | 1566 | Nerdy Riseclear |
+| 79 | 1566 | Marcie Bressler |
 | 80 | 1560 | Logan Naccarato |
 | 81 | 1555 | Snappy Glidepiece |
 | 82 | 1527 | Elaine Webb Graves |
@@ -210,8 +210,8 @@
 | 202 | 784 | Jone |
 | 203 | 777 | Daryn Elliott |
 | 204 | 774 | ren |
-| 205 | 772 | Cyd061769 |
-| 206 | 772 | Hasty Cascadefit |
+| 205 | 772 | Hasty Cascadefit |
+| 206 | 772 | Cyd061769 |
 | 207 | 766 | Tasha Gillespie |
 | 208 | 763 | Khaleada McGill Banks |
 | 209 | 762 | Naur |
@@ -234,8 +234,8 @@
 | 226 | 719 | Brandon Givens |
 | 227 | 714 | Jenny Hrndz |
 | 228 | 713 | Stephanie Blkpep Davidson |
-| 229 | 709 | Christine Niles |
-| 230 | 709 | Cynthia Castros-Hampton |
+| 229 | 709 | Cynthia Castros-Hampton |
+| 230 | 709 | Christine Niles |
 | 231 | 708 | Stephanie Bradley |
 | 232 | 707 | Snappy Balancer |
 | 233 | 704 | Betty Bóò |
@@ -258,8 +258,8 @@
 | 250 | 642 | Rania Zaqout |
 | 251 | 641 | Tom Nault |
 | 252 | 640 | Dee Pratt |
-| 253 | 639 | Marci Mize Fandrich |
-| 254 | 639 | Nichol Graham |
+| 253 | 639 | Nichol Graham |
+| 254 | 639 | Marci Mize Fandrich |
 | 255 | 637 | Giddy Twistbuilder |
 | 256 | 635 | Amber Hughes |
 | 257 | 633 | Rebecca Funderburk Kirby |
@@ -299,8 +299,8 @@
 | 291 | 569 | Michael Johnson |
 | 292 | 569 | Gray Hicks |
 | 293 | 567 | Stephanie Burtin |
-| 294 | 566 | Eileen Brady Thurber |
-| 295 | 566 | Tyler Shoff |
+| 294 | 566 | Tyler Shoff |
+| 295 | 566 | Eileen Brady Thurber |
 | 296 | 562 | Dave Herzog |
 | 297 | 561 | Chauntee Alfrey-Cardinale |
 | 298 | 556 | Shiny Zonebuilder |
@@ -335,8 +335,8 @@
 | 327 | 494 | fraulila |
 | 328 | 494 | MCV |
 | 329 | 492 | Tasha Wesson-Torrence |
-| 330 | 490 | Cassandra Bryant |
-| 331 | 490 | TotoCherue |
+| 330 | 490 | TotoCherue |
+| 331 | 490 | Cassandra Bryant |
 | 332 | 489 | Isabel Ocasio |
 | 333 | 487 | MsBee |
 | 334 | 486 | Sleepy |
@@ -362,8 +362,8 @@
 | 354 | 464 | Snazzy Filler |
 | 355 | 464 | Snippy Wipeout |
 | 356 | 463 | Hoài Quắt |
-| 357 | 461 | Hyper Bridger |
-| 358 | 461 | Breanna Marsden |
+| 357 | 461 | Breanna Marsden |
+| 358 | 461 | Hyper Bridger |
 | 359 | 461 | Briana Wellman |
 | 360 | 460 | Antonia Russell |
 | 361 | 460 | Hasty Gridpiece |
@@ -391,9 +391,9 @@
 | 383 | 434 | Criss |
 | 384 | 434 | Ginger Gray |
 | 385 | 433 | Dapper Liney |
-| 386 | 432 | Sabrina Mansfield |
-| 387 | 432 | Justice 4 P |
-| 388 | 432 | Hoppy Patternline |
+| 386 | 432 | Justice 4 P |
+| 387 | 432 | Hoppy Patternline |
+| 388 | 432 | Sabrina Mansfield |
 | 389 | 431 | Goofy Fall |
 | 390 | 431 | Donna Esbensen-Alpini |
 | 391 | 430 | AlsoJess |
@@ -402,8 +402,8 @@
 | 394 | 428 | Samantha Lynn |
 | 395 | 428 | keni |
 | 396 | 427 | Darlene McMillan |
-| 397 | 426 | Heather Bateman |
-| 398 | 426 | Christina Rotz Shows |
+| 397 | 426 | Christina Rotz Shows |
+| 398 | 426 | Heather Bateman |
 | 399 | 425 | Ava Petito |
 | 400 | 421 | Angel Miller |
 | 401 | 419 | Philip Rock |
@@ -411,13 +411,13 @@
 | 403 | 419 | Maggie |
 | 404 | 418 | Rainbow77375 |
 | 405 | 416 | Tay |
-| 406 | 414 | Michelle Allers |
-| 407 | 414 | Arden White Kirsch |
+| 406 | 414 | Arden White Kirsch |
+| 407 | 414 | Michelle Allers |
 | 408 | 413 | Rick Poppen |
 | 409 | 411 | Beaudie Stroebel |
 | 410 | 409 | Rich LeBlanc |
-| 411 | 408 | Tiffany Ford |
-| 412 | 408 | Ashley Muncey |
+| 411 | 408 | Ashley Muncey |
+| 412 | 408 | Tiffany Ford |
 | 413 | 407 | Christina Spa |
 | 414 | 406 | Kristen Weese |
 | 415 | 405 | Andrew Thorson |
@@ -425,8 +425,8 @@
 | 417 | 404 | Karent524 |
 | 418 | 404 | Alice |
 | 419 | 403 | Scott Lindsay |
-| 420 | 401 | Velma Mull |
-| 421 | 401 | block chick |
+| 420 | 401 | block chick |
+| 421 | 401 | Velma Mull |
 | 422 | 400 | Joy Petroski |
 | 423 | 399 | Ann Hammac |
 | 424 | 398 | Breezy Roll |

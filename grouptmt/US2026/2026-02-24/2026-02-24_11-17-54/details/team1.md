@@ -162,8 +162,8 @@
 | 154 | 582 | Jennifer Hardman |
 | 155 | 582 | Hellsin |
 | 156 | 574 | Bouncy Grid |
-| 157 | 570 | Cody Slav |
-| 158 | 570 | Dee Perry |
+| 157 | 570 | Dee Perry |
+| 158 | 570 | Cody Slav |
 | 159 | 569 | Michelle Beres |
 | 160 | 568 | Jason Savage |
 | 161 | 564 | Νεφ Όνυξ |
@@ -194,8 +194,8 @@
 | 186 | 519 | Cool Shiftsnap |
 | 187 | 517 | Eric DeSimone |
 | 188 | 514 | Mike Ames |
-| 189 | 513 | Rebekah LeiAnn Bonsell |
-| 190 | 513 | Colena Davenport |
+| 189 | 513 | Colena Davenport |
+| 190 | 513 | Rebekah LeiAnn Bonsell |
 | 191 | 511 | MomMom |
 | 192 | 510 | Rat666 |
 | 193 | 501 | Jessica Russell |
@@ -206,8 +206,8 @@
 | 198 | 495 | Connie |
 | 199 | 494 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 200 | 494 | Sean Stallings |
-| 201 | 493 | Speedy Liney |
-| 202 | 493 | Chuck Gannon |
+| 201 | 493 | Chuck Gannon |
+| 202 | 493 | Speedy Liney |
 | 203 | 492 | Happy Snapbuild |
 | 204 | 488 | Jessie Welch |
 | 205 | 488 | Ly Phethmany |
@@ -225,8 +225,8 @@
 | 217 | 460 | Sam Williams |
 | 218 | 458 | Goose egg |
 | 219 | 457 | Kimberly Garcia |
-| 220 | 453 | Kimmie Kimms |
-| 221 | 453 | Angela Spann |
+| 220 | 453 | Angela Spann |
+| 221 | 453 | Kimmie Kimms |
 | 222 | 449 | Tawnya Peltonen |
 | 223 | 448 | Yvonne Marie |
 | 224 | 446 | Monica Donato |
@@ -295,11 +295,11 @@
 | 287 | 382 | Jamie Jury |
 | 288 | 379 | Austin James |
 | 289 | 378 | Eddie Dillon |
-| 290 | 377 | Rayline M Bradshaw |
+| 290 | 377 | DoodleBug |
 | 291 | 377 | GATOR |
-| 292 | 377 | DoodleBug |
-| 293 | 376 | Brian Richardsson |
-| 294 | 376 | Sassy Builderline |
+| 292 | 377 | Rayline M Bradshaw |
+| 293 | 376 | Sassy Builderline |
+| 294 | 376 | Brian Richardsson |
 | 295 | 375 | DaRascal |
 | 296 | 374 | Snappy Brickbuilder |
 | 297 | 372 | Wayne Saunders |
@@ -325,11 +325,11 @@
 | 317 | 357 | Jasmine Riley |
 | 318 | 356 | Brave Linkmatch |
 | 319 | 356 | build master |
-| 320 | 355 | Toya Lynn |
-| 321 | 355 | Shanae Grant |
+| 320 | 355 | Shanae Grant |
+| 321 | 355 | Toya Lynn |
 | 322 | 354 | Kimberly Davis |
-| 323 | 353 | Avelyn Calamba |
-| 324 | 353 | Josh Riemer |
+| 323 | 353 | Josh Riemer |
+| 324 | 353 | Avelyn Calamba |
 | 325 | 352 | Lachelle Dillon |
 | 326 | 350 | Bouncy Line |
 | 327 | 347 | Michael Espinosa Ulibarri Jr. |
@@ -503,7 +503,7 @@
 | 495 | 256 | Amie Fields |
 | 496 | 255 | Goobette |
 | 497 | 255 | Zesty Brickzone |
-| 498 | 255 | Goobette |
+| 498 | 255 | SavageBooty98 |
 | 499 | 255 | Adan Reyes |
 | 500 | 254 | Kipoi |
 | 501 | 252 | Angela Dawn Torres-Tarrants |
@@ -540,8 +540,8 @@
 | 532 | 240 | Jumpy Rotate |
 | 533 | 239 | Tipsy Tiltpiece |
 | 534 | 239 | Jennifer Corrado |
-| 535 | 238 | ash |
-| 536 | 238 | Lush Zoney |
+| 535 | 238 | Lush Zoney |
+| 536 | 238 | ash |
 | 537 | 237 | Brad MG |
 | 538 | 236 | whocares |
 | 539 | 236 | Marie White |

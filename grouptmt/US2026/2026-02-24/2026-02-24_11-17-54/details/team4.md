@@ -112,8 +112,8 @@
 | 104 | 834 | Brittney Orengo |
 | 105 | 818 | Lori Walker |
 | 106 | 815 | Diana Houts |
-| 107 | 813 | Klo |
-| 108 | 813 | Amy Suckarieh |
+| 107 | 813 | Amy Suckarieh |
+| 108 | 813 | Klo |
 | 109 | 811 | Sassy Pattern |
 | 110 | 806 | Zippy Gridlock |
 | 111 | 805 | Mylo Lipscomb |
@@ -309,8 +309,8 @@
 | 301 | 375 | George Tzouganos |
 | 302 | 373 | Russ Attitude |
 | 303 | 371 | Jessi Cinotto |
-| 304 | 370 | Twisty Risebuilder |
-| 305 | 370 | Kris Bartlett |
+| 304 | 370 | Kris Bartlett |
+| 305 | 370 | Twisty Risebuilder |
 | 306 | 368 | Dan Wold |
 | 307 | 367 | Meg |
 | 308 | 366 | Ak Jones |
@@ -381,8 +381,8 @@
 | 373 | 316 | Shukee Lo |
 | 374 | 315 | Maureen Flanigan |
 | 375 | 315 | Ultramarine |
-| 376 | 314 | KoolMom9907 |
-| 377 | 314 | Kenna Gunderland |
+| 376 | 314 | Kenna Gunderland |
+| 377 | 314 | KoolMom9907 |
 | 378 | 314 | Marcus TheeyoungWoe Gilmore |
 | 379 | 313 | Lazy Glidepiece |
 | 380 | 312 | Tawna Curry |

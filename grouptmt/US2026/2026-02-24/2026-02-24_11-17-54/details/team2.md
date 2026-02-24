@@ -136,8 +136,8 @@
 | 128 | 2651 | Rebecca Doughman |
 | 129 | 2640 | bonsai |
 | 130 | 2629 | Altamirano Michael |
-| 131 | 2613 | Jen Tramack |
-| 132 | 2613 | Gloria Liu |
+| 131 | 2613 | Gloria Liu |
+| 132 | 2613 | Jen Tramack |
 | 133 | 2607 | Rob Surace |
 | 134 | 2604 | Mema |
 | 135 | 2601 | Lexi Tschappatt |
@@ -341,8 +341,8 @@
 | 333 | 1315 | Desiree Anderson |
 | 334 | 1313 | Jermaine Harris |
 | 335 | 1312 | Tinishia Amie |
-| 336 | 1308 | Snappy Matchbuilder |
-| 337 | 1308 | Laura Morrison |
+| 336 | 1308 | Laura Morrison |
+| 337 | 1308 | Snappy Matchbuilder |
 | 338 | 1308 | Christina Lewis-Vickers |
 | 339 | 1305 | Roman Lavochnik |
 | 340 | 1304 | Sarah Ridenour |
@@ -454,8 +454,8 @@
 | 446 | 1071 | Nashu |
 | 447 | 1071 | Kim Dean |
 | 448 | 1068 | Tiffany Branham |
-| 449 | 1067 | Taylor Phillips |
-| 450 | 1067 | Lourisha |
+| 449 | 1067 | Lourisha |
+| 450 | 1067 | Taylor Phillips |
 | 451 | 1063 | Allan Wayne Lamia |
 | 452 | 1059 | Chris Gonzales Bulante |
 | 453 | 1058 | Jessica Wayne Cornwall |
@@ -593,8 +593,8 @@
 | 585 | 866 | Tammie Siegfried |
 | 586 | 866 | Mishka Upchurch |
 | 587 | 865 | Lilia Gomez |
-| 588 | 861 | Beth |
-| 589 | 861 | Shavonna Haynes |
+| 588 | 861 | Shavonna Haynes |
+| 589 | 861 | Beth |
 | 590 | 861 | Anthony |
 | 591 | 858 | Joshua Self |
 | 592 | 857 | Marella Petilo |
@@ -607,8 +607,8 @@
 | 599 | 851 | Melissa Schulz |
 | 600 | 851 | Jerry Tempelmeyer |
 | 601 | 851 | James Louie |
-| 602 | 850 | Sabrina Burton |
-| 603 | 850 | Gary Stash |
+| 602 | 850 | Gary Stash |
+| 603 | 850 | Sabrina Burton |
 | 604 | 849 | Jasmine Kenney |
 | 605 | 848 | Happy Wipeblock |
 | 606 | 847 | Megan Kitchner |
@@ -625,8 +625,8 @@
 | 617 | 835 | Diane P. Richardson |
 | 618 | 835 | TJ Nash |
 | 619 | 834 | Montez Mancil |
-| 620 | 834 | NanDa Cruzan VI |
-| 621 | 834 | Tracy Cowley |
+| 620 | 834 | Tracy Cowley |
+| 621 | 834 | NanDa Cruzan VI |
 | 622 | 831 | Victoria Regina Girolami |
 | 623 | 830 | Chelle Vintson |
 | 624 | 826 | Demitri Smith |
@@ -699,8 +699,8 @@
 | 691 | 768 | Mia Muse Best |
 | 692 | 768 | Terry Paulson |
 | 693 | 766 | Frisky Riserbuilder |
-| 694 | 766 | Angela Cagle Silmon |
-| 695 | 766 | Diamond Scott |
+| 694 | 766 | Diamond Scott |
+| 695 | 766 | Angela Cagle Silmon |
 | 696 | 764 | Shannon Jackson |
 | 697 | 764 | Boldy Wiper |
 | 698 | 763 | Chelle |
@@ -778,11 +778,11 @@
 | 770 | 714 | Snazzy Basepiece |
 | 771 | 712 | ItsJennifer Neriss |
 | 772 | 711 | Alicia Moreno |
-| 773 | 711 | Timothy Robert |
-| 774 | 711 | Narutofreak13 |
+| 773 | 711 | Narutofreak13 |
+| 774 | 711 | Timothy Robert |
 | 775 | 707 | Giggy Grabber |
-| 776 | 706 | Roseanna Peloso |
-| 777 | 706 | Josh Webster |
+| 776 | 706 | Josh Webster |
+| 777 | 706 | Roseanna Peloso |
 | 778 | 706 | Karen Posadas Centeno |
 | 779 | 705 | Chelsea Gutierrez |
 | 780 | 703 | Stacey Tranchida |
@@ -822,8 +822,8 @@
 | 814 | 683 | Audrey Jones |
 | 815 | 682 | Jacob Tri |
 | 816 | 680 | Nutty Cascade |
-| 817 | 680 | Stephanie Lafalce |
-| 818 | 680 | Paul Combs |
+| 817 | 680 | Paul Combs |
+| 818 | 680 | Stephanie Lafalce |
 | 819 | 680 | mshir |
 | 820 | 679 | Regina Knight |
 | 821 | 679 | DLOCC1056 |
@@ -840,8 +840,8 @@
 | 832 | 672 | Abimbola Bimbo |
 | 833 | 672 | Christina Jarvis-Swarbrick |
 | 834 | 671 | Ryan Parson |
-| 835 | 670 | Anita Ortiz |
-| 836 | 670 | Santana Miyagi |
+| 835 | 670 | Santana Miyagi |
+| 836 | 670 | Anita Ortiz |
 | 837 | 670 | Amanda Chamberlain |
 | 838 | 670 | Harrison Littrell |
 | 839 | 669 | Swanky Columnbuilder |
@@ -915,9 +915,9 @@
 | 907 | 637 | Darcy Mae |
 | 908 | 637 | Jason H Baker |
 | 909 | 636 | Tash Bell |
-| 910 | 635 | Pamela Babisky |
-| 911 | 635 | John Carlin |
-| 912 | 635 | Shindee |
+| 910 | 635 | John Carlin |
+| 911 | 635 | Shindee |
+| 912 | 635 | Pamela Babisky |
 | 913 | 634 | Jessica Galick |
 | 914 | 633 | Theresa Sterrett |
 | 915 | 632 | Lea Stewart |
@@ -943,8 +943,8 @@
 | 935 | 619 | Lisa Moone |
 | 936 | 619 | Dawn Woosley Bowes |
 | 937 | 618 | Jordan Kaiser |
-| 938 | 617 | Biggest thing |
-| 939 | 617 | Annette Ross Clay |
+| 938 | 617 | Annette Ross Clay |
+| 939 | 617 | Biggest thing |
 | 940 | 617 | Dizzy Zone |
 | 941 | 616 | Carol Hurley |
 | 942 | 615 | King Shamell Young |
@@ -962,14 +962,14 @@
 | 954 | 610 | Shiny Snapmatch |
 | 955 | 610 | Crystal Hodge Love |
 | 956 | 609 | AsnPryBoy83 |
-| 957 | 607 | Slip |
-| 958 | 607 | Tipsy Filler |
+| 957 | 607 | Tipsy Filler |
+| 958 | 607 | Slip |
 | 959 | 607 | Lucero Ramirez |
 | 960 | 606 | Ebony Deloach Bryant |
 | 961 | 606 | Stanislav Petkov |
 | 962 | 606 | cel505♡ |
-| 963 | 605 | Klaudia Figaszewska |
-| 964 | 605 | Saucy Fitzone |
+| 963 | 605 | Saucy Fitzone |
+| 964 | 605 | Klaudia Figaszewska |
 | 965 | 605 | Mandi Marie Smith |
 | 966 | 604 | Jessica Hughes |
 | 967 | 603 | Trisha Miller |
@@ -978,9 +978,9 @@
 | 970 | 600 | Juanita Lyons |
 | 971 | 599 | Samuel Labruno |
 | 972 | 599 | Abby Klaski |
-| 973 | 599 | Crystal Heller Gonzalez |
+| 973 | 599 | Groovy Tilefall |
 | 974 | 599 | Plucky Matchclear |
-| 975 | 599 | Groovy Tilefall |
+| 975 | 599 | Crystal Heller Gonzalez |
 | 976 | 598 | Veronica Martin Trinkle |
 | 977 | 598 | Lucy Marshall |
 | 978 | 598 | Tiki |
@@ -1057,8 +1057,8 @@
 | 1049 | 563 | David Rehse |
 | 1050 | 562 | Klee |
 | 1051 | 562 | Smiley Strike |
-| 1052 | 562 | Dan Kulhanek |
-| 1053 | 562 | Angie Winch |
+| 1052 | 562 | Angie Winch |
+| 1053 | 562 | Dan Kulhanek |
 | 1054 | 561 | Jenelle Case |
 | 1055 | 560 | De Hawkins |
 | 1056 | 559 | Kaylee McCafferty |
@@ -1113,8 +1113,8 @@
 | 1105 | 542 | Megan Nevarez |
 | 1106 | 541 | Samantha Rojo |
 | 1107 | 541 | Misty |
-| 1108 | 540 | Amanda Canterbury |
-| 1109 | 540 | Melisa Marvin |
+| 1108 | 540 | Melisa Marvin |
+| 1109 | 540 | Amanda Canterbury |
 | 1110 | 540 | Boldy Block |
 | 1111 | 540 | Pam Doughty |
 | 1112 | 539 | Nutty Slice |
@@ -1203,9 +1203,9 @@
 | 1195 | 504 | Richard Hunt |
 | 1196 | 504 | Mary Boss |
 | 1197 | 503 | Aleasha M Brown |
-| 1198 | 503 | Twisty Tetriblast |
-| 1199 | 503 | Jennifer Scott |
-| 1200 | 503 | Rhiannon Elizabeth Tucker |
+| 1198 | 503 | Rhiannon Elizabeth Tucker |
+| 1199 | 503 | Twisty Tetriblast |
+| 1200 | 503 | Jennifer Scott |
 | 1201 | 502 | Leandra Obermeyer |
 | 1202 | 501 | Witty Piecebuilder |
 | 1203 | 501 | Libni |
