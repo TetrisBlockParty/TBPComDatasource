@@ -192,8 +192,8 @@
 | 184 | 777 | Daryn Elliott |
 | 185 | 774 | ren |
 | 186 | 773 | Daira Largen |
-| 187 | 772 | Tye Stovall |
-| 188 | 772 | Twisty Brick LT |
+| 187 | 772 | Twisty Brick LT |
+| 188 | 772 | Tye Stovall |
 | 189 | 769 | Hasty Cascadefit |
 | 190 | 764 | Cyd061769 |
 | 191 | 763 | Tasha Gillespie |
@@ -288,8 +288,8 @@
 | 280 | 536 | Giddy Twistbuilder |
 | 281 | 536 | Shannon Matthew Byers |
 | 282 | 535 | kacihall |
-| 283 | 533 | BugMansMom |
-| 284 | 533 | Cheryl Hinch Tenbrook |
+| 283 | 533 | Cheryl Hinch Tenbrook |
+| 284 | 533 | BugMansMom |
 | 285 | 531 | rosy |
 | 286 | 529 | Michael Lucado |
 | 287 | 528 | Lizabeth Fox |

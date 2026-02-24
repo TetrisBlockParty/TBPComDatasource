@@ -236,8 +236,8 @@
 | 228 | 438 | Melvin Baird |
 | 229 | 436 | Selena Shaw |
 | 230 | 434 | Ramel Rhodes |
-| 231 | 433 | Damn Libra |
-| 232 | 433 | Circuit8 |
+| 231 | 433 | Circuit8 |
+| 232 | 433 | Damn Libra |
 | 233 | 432 | scott |
 | 234 | 431 | Manny1 |
 | 235 | 430 | Plucky Patternblock |
