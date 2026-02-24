@@ -179,8 +179,8 @@
 | 171 | 857 | Dana Fox |
 | 172 | 856 | Dana Winters |
 | 173 | 854 | Speedy Bridger |
-| 174 | 847 | Daira Largen |
-| 175 | 847 | Daring Brickzone |
+| 174 | 847 | Daring Brickzone |
+| 175 | 847 | Daira Largen |
 | 176 | 846 | Nicole Myers |
 | 177 | 845 | Edwin Calvillo Jr. |
 | 178 | 821 | Kammy Hill |
@@ -192,14 +192,14 @@
 | 184 | 804 | Alaina Lee |
 | 185 | 800 | Lauren Girouard |
 | 186 | 799 | Trisha Balmer |
-| 187 | 794 | Alexmac |
-| 188 | 794 | Raya |
+| 187 | 794 | Raya |
+| 188 | 794 | Alexmac |
 | 189 | 792 | Rachel Grant |
 | 190 | 784 | Jone |
 | 191 | 783 | Julian Murphy |
 | 192 | 777 | Daryn Elliott |
-| 193 | 774 | ren |
-| 194 | 774 | Twisty Brick LT |
+| 193 | 774 | Twisty Brick LT |
+| 194 | 774 | ren |
 | 195 | 772 | Tye Stovall |
 | 196 | 769 | Hasty Cascadefit |
 | 197 | 768 | Cyd061769 |
@@ -220,13 +220,13 @@
 | 212 | 733 | Annie Marie |
 | 213 | 732 | Angela Scott |
 | 214 | 731 | Samantha Greco |
-| 215 | 729 | Lizabeth Fox |
-| 216 | 729 | CeceGeGe |
+| 215 | 729 | CeceGeGe |
+| 216 | 729 | Lizabeth Fox |
 | 217 | 715 | Karon Griffin |
 | 218 | 714 | Jenny Hrndz |
 | 219 | 713 | Stephanie Blkpep Davidson |
-| 220 | 709 | Christine Niles |
-| 221 | 709 | Cynthia Castros-Hampton |
+| 220 | 709 | Cynthia Castros-Hampton |
+| 221 | 709 | Christine Niles |
 | 222 | 708 | Stephanie Bradley |
 | 223 | 703 | Shawn Miller |
 | 224 | 699 | Patti Skiles |
@@ -243,16 +243,16 @@
 | 235 | 646 | Duane Bright |
 | 236 | 644 | Dawn Williams |
 | 237 | 642 | Rania Zaqout |
-| 238 | 641 | Kristal C Lee |
-| 239 | 641 | Tom Nault |
+| 238 | 641 | Tom Nault |
+| 239 | 641 | Kristal C Lee |
 | 240 | 640 | Dee Pratt |
 | 241 | 639 | Nichol Graham |
 | 242 | 635 | Amber Hughes |
 | 243 | 633 | Jillian Symons |
 | 244 | 630 | Jackie Miller |
 | 245 | 629 | rnr junky |
-| 246 | 627 | Juliana Dottore |
-| 247 | 627 | Louise Stacy Sisson |
+| 246 | 627 | Louise Stacy Sisson |
+| 247 | 627 | Juliana Dottore |
 | 248 | 625 | Jacqueline Rodriguez |
 | 249 | 624 | Hyper Matchzone |
 | 250 | 623 | Giggy Glidepiece |
@@ -471,8 +471,8 @@
 | 463 | 353 | Eboni G. |
 | 464 | 353 | Nikkie Bucciano |
 | 465 | 352 | LadyTorad |
-| 466 | 351 | Eon Harris |
-| 467 | 351 | Nelma |
+| 466 | 351 | Nelma |
+| 467 | 351 | Eon Harris |
 | 468 | 350 | Norma JulieMay |
 | 469 | 348 | Jimmie Clemons |
 | 470 | 348 | Ashley Raines |
@@ -492,8 +492,8 @@
 | 484 | 340 | Loony Slider |
 | 485 | 340 | Becca Engle |
 | 486 | 339 | Evelyn Ortega |
-| 487 | 338 | Alice |
-| 488 | 338 | Michael Leblanc |
+| 487 | 338 | Michael Leblanc |
+| 488 | 338 | Alice |
 | 489 | 337 | Mindy Phelps |
 | 490 | 337 | Blair Erin Waite |
 | 491 | 336 | Misstery |
