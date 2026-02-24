@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-24 22:00:43 UTC
+# Standings for team1 as of 2026-02-24 22:01:23 UTC
 
 **Total Participants:** 2329
 
@@ -71,7 +71,7 @@
 | 63 | 1267 | Stef Hu |
 | 64 | 1266 | Veronica Eve |
 | 65 | 1261 | Adam Byrd |
-| 66 | 1249 | TSwag |
+| 66 | 1252 | TSwag |
 | 67 | 1229 | Kristen Roles Robben |
 | 68 | 1224 | Tipsy Column |
 | 69 | 1214 | Amy Griffith |
@@ -323,10 +323,10 @@
 | 315 | 393 | Frothy Pattern |
 | 316 | 393 | Wisa |
 | 317 | 392 | Shiny Gridmatch |
-| 318 | 388 | Test |
-| 319 | 386 | Marie Bremner |
-| 320 | 386 | Bloknboy |
-| 321 | 385 | Toya Lynn |
+| 318 | 390 | Toya Lynn |
+| 319 | 388 | Test |
+| 320 | 386 | Marie Bremner |
+| 321 | 386 | Bloknboy |
 | 322 | 384 | Cody Gates |
 | 323 | 384 | Mandyy Rae |
 | 324 | 383 | Margo Wagner |
@@ -388,20 +388,20 @@
 | 380 | 347 | Giggly Builderline |
 | 381 | 346 | Tanya Banks |
 | 382 | 345 | san |
-| 383 | 344 | Buttons Stemm |
-| 384 | 343 | ESC |
-| 385 | 343 | Gina Bettikofer |
-| 386 | 343 | Silly Align |
-| 387 | 342 | Christina Norman |
-| 388 | 342 | Mary Love |
-| 389 | 342 | Chummy Rollblock |
-| 390 | 342 | Marianita Garcia |
-| 391 | 341 | Amh |
-| 392 | 340 | Tavia |
-| 393 | 340 | Nutty Spinblock |
-| 394 | 339 | Yahowah |
-| 395 | 339 | Crystal Cheresnowsky |
-| 396 | 339 | whocares |
+| 383 | 344 | whocares |
+| 384 | 344 | Buttons Stemm |
+| 385 | 343 | ESC |
+| 386 | 343 | Gina Bettikofer |
+| 387 | 343 | Silly Align |
+| 388 | 342 | Christina Norman |
+| 389 | 342 | Mary Love |
+| 390 | 342 | Chummy Rollblock |
+| 391 | 342 | Marianita Garcia |
+| 392 | 341 | Amh |
+| 393 | 340 | Tavia |
+| 394 | 340 | Nutty Spinblock |
+| 395 | 339 | Yahowah |
+| 396 | 339 | Crystal Cheresnowsky |
 | 397 | 337 | Jeremy Maubert |
 | 398 | 337 | Mighty Shatterfit |
 | 399 | 337 | Katie Martin |
@@ -1031,9 +1031,9 @@
 | 1023 | 126 | Wanda Rodriguez |
 | 1024 | 126 | Mizzledagod |
 | 1025 | 126 | Dreamy Brickclear |
-| 1026 | 126 | Natasha |
-| 1027 | 125 | Shanna Outen |
-| 1028 | 125 | Brahim Amara |
+| 1026 | 126 | Brahim Amara |
+| 1027 | 126 | Natasha |
+| 1028 | 125 | Shanna Outen |
 | 1029 | 125 | Mar |
 | 1030 | 125 | Amyinahs |
 | 1031 | 125 | Bold Glide |

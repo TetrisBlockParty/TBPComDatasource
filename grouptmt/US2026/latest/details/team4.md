@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-24 22:00:43 UTC
+# Standings for team4 as of 2026-02-24 22:01:23 UTC
 
 **Total Participants:** 2090
 
@@ -9,7 +9,7 @@
 | 1 | 8804 | Devinlee Brown |
 | 2 | 8598 | Bubbly Puzzler |
 | 3 | 8070 | sierrabeth |
-| 4 | 6105 | Kat |
+| 4 | 6110 | Kat |
 | 5 | 5371 | Breannah Grafe |
 | 6 | 5108 | East Mamba |
 | 7 | 5027 | Alyssa Cox |
@@ -45,8 +45,8 @@
 | 37 | 1673 | Cassie Michaux |
 | 38 | 1655 | Cherrish Duren |
 | 39 | 1647 | Koshin Abdirahman |
-| 40 | 1631 | Goatimus Lombardi |
-| 41 | 1621 | Shane Kalamata Platoon |
+| 40 | 1639 | Shane Kalamata Platoon |
+| 41 | 1631 | Goatimus Lombardi |
 | 42 | 1616 | Dee Kay |
 | 43 | 1615 | Dawn Alexander |
 | 44 | 1594 | Rebecca Moulton Pinciaro |
@@ -60,7 +60,7 @@
 | 52 | 1464 | Lisa Davis |
 | 53 | 1445 | Shelly Chandler |
 | 54 | 1436 | Jen Allison |
-| 55 | 1403 | Pee |
+| 55 | 1408 | Pee |
 | 56 | 1386 | Aden Moss |
 | 57 | 1350 | Toots |
 | 58 | 1313 | Mona Sharma |
@@ -227,13 +227,13 @@
 | 219 | 522 | Kristina Black |
 | 220 | 519 | Calvin Cannon |
 | 221 | 517 | DonMega |
-| 222 | 516 | Nick Gray |
-| 223 | 516 | Trish |
-| 224 | 516 | Damn Libra |
-| 225 | 515 | Joanna |
-| 226 | 513 | Milan Markeisha |
-| 227 | 513 | Plucky Patternblock |
-| 228 | 513 | Casey Grabner |
+| 222 | 517 | Casey Grabner |
+| 223 | 516 | Nick Gray |
+| 224 | 516 | Trish |
+| 225 | 516 | Damn Libra |
+| 226 | 515 | Joanna |
+| 227 | 513 | Milan Markeisha |
+| 228 | 513 | Plucky Patternblock |
 | 229 | 512 | Casey Jeffcoat |
 | 230 | 510 | scott |
 | 231 | 508 | June Hoffman |
@@ -505,8 +505,8 @@
 | 497 | 270 | 07VHVW |
 | 498 | 269 | moneybagz |
 | 499 | 268 | The Murphy |
-| 500 | 268 | Riverdale |
-| 501 | 267 | Bubbly Twistpiece |
+| 500 | 268 | Bubbly Twistpiece |
+| 501 | 268 | Riverdale |
 | 502 | 267 | Ron |
 | 503 | 266 | Petty |
 | 504 | 266 | Daring Pivot |
@@ -580,22 +580,22 @@
 | 572 | 239 | Christina Nabrizny |
 | 573 | 239 | Krash |
 | 574 | 239 | Joey Riley |
-| 575 | 238 | Lisa Bush |
-| 576 | 238 | Will Chamberlain |
-| 577 | 237 | Kaung San |
-| 578 | 237 | Courtney Halleck |
-| 579 | 236 | Melissa VanBourgondien |
-| 580 | 235 | Mighty Edgepiece |
-| 581 | 235 | Shirl |
-| 582 | 235 | LaDonna LovinmesomeMe Lambert |
-| 583 | 234 | Nicole Serio |
-| 584 | 234 | Lou Ie |
-| 585 | 234 | B Renee Desjardin |
-| 586 | 234 | Darrin Rubalcava |
-| 587 | 233 | Stacy |
-| 588 | 233 | Wacky Blockclear |
-| 589 | 233 | Robert Rodriguez |
-| 590 | 233 | Heidi Jo Hill |
+| 575 | 238 | Heidi Jo Hill |
+| 576 | 238 | Lisa Bush |
+| 577 | 238 | Will Chamberlain |
+| 578 | 237 | Kaung San |
+| 579 | 237 | Courtney Halleck |
+| 580 | 236 | Melissa VanBourgondien |
+| 581 | 235 | Mighty Edgepiece |
+| 582 | 235 | Shirl |
+| 583 | 235 | LaDonna LovinmesomeMe Lambert |
+| 584 | 234 | Nicole Serio |
+| 585 | 234 | Lou Ie |
+| 586 | 234 | B Renee Desjardin |
+| 587 | 234 | Darrin Rubalcava |
+| 588 | 233 | Stacy |
+| 589 | 233 | Wacky Blockclear |
+| 590 | 233 | Robert Rodriguez |
 | 591 | 233 | sgt baby |
 | 592 | 232 | Dandy Cascadefit |
 | 593 | 231 | Shane Vick |
@@ -817,38 +817,38 @@
 | 809 | 163 | Mike Burlingame |
 | 810 | 163 | LunarCat |
 | 811 | 163 | Cheryl Johnson |
-| 812 | 162 | Beenbreto |
-| 813 | 162 | Smiley Tiltbuilder |
+| 812 | 162 | MOCHA |
+| 813 | 162 | Beenbreto |
 | 814 | 162 | mini |
-| 815 | 161 | Nicole McMurray |
+| 815 | 162 | Smiley Tiltbuilder |
 | 816 | 161 | Clinton Jacob |
 | 817 | 161 | IDK |
-| 818 | 161 | Bigmamatetrisqueen |
-| 819 | 161 | Spunky Framezone |
-| 820 | 161 | Buttlicker |
-| 821 | 159 | Niome Encinias |
+| 818 | 161 | Nicole McMurray |
+| 819 | 161 | Bigmamatetrisqueen |
+| 820 | 161 | Spunky Framezone |
+| 821 | 161 | Buttlicker |
 | 822 | 159 | Jennifer Perkins |
-| 823 | 159 | Laura Chase-Amara |
-| 824 | 158 | Loopy Rollbuilder |
-| 825 | 158 | Jenn Tyler |
-| 826 | 158 | Jenna Keen |
-| 827 | 157 | Frisky Twistslam |
-| 828 | 157 | Richard Bradley |
-| 829 | 157 | Brad Caldwell |
+| 823 | 159 | Niome Encinias |
+| 824 | 159 | Laura Chase-Amara |
+| 825 | 158 | Loopy Rollbuilder |
+| 826 | 158 | Jenn Tyler |
+| 827 | 158 | Jenna Keen |
+| 828 | 157 | Frisky Twistslam |
+| 829 | 157 | Richard Bradley |
 | 830 | 157 | Matt Rawls |
 | 831 | 157 | April |
-| 832 | 156 | MOCHA |
-| 833 | 156 | Jasmine Castro |
-| 834 | 156 | Jaime Ore Norcross |
+| 832 | 157 | Brad Caldwell |
+| 833 | 156 | Jaime Ore Norcross |
+| 834 | 156 | Jasmine Castro |
 | 835 | 156 | Witty Link |
 | 836 | 156 | Sha Ta Nay Mitchell |
 | 837 | 155 | Faja |
 | 838 | 154 | Jelly |
 | 839 | 154 | Alicia Lux Arnst |
-| 840 | 153 | Mike |
-| 841 | 153 | Kelly Williams |
+| 840 | 153 | Jamie Mclean |
+| 841 | 153 | Mike |
 | 842 | 153 | Saucy Stackbuilder |
-| 843 | 153 | Jamie Mclean |
+| 843 | 153 | Kelly Williams |
 | 844 | 153 | Shane Hicks |
 | 845 | 153 | Blue |
 | 846 | 153 | Peace |
