@@ -232,8 +232,8 @@
 | 224 | 1693 | Ashley Dow |
 | 225 | 1679 | Mischelle Clay |
 | 226 | 1663 | Alex Stone LaRue |
-| 227 | 1661 | Danielle Johnson-Chandler |
-| 228 | 1661 | Scott Treadway |
+| 227 | 1661 | Scott Treadway |
+| 228 | 1661 | Danielle Johnson-Chandler |
 | 229 | 1656 | Binyah-Binyah |
 | 230 | 1655 | Glitzy Stackzone |
 | 231 | 1654 | Cambrie Schultz |
@@ -248,8 +248,8 @@
 | 240 | 1610 | Ray Ray Prado |
 | 241 | 1609 | Ryan Stadel |
 | 242 | 1601 | Peppy Zone |
-| 243 | 1600 | Jojo Momma |
-| 244 | 1600 | Mo Shine On |
+| 243 | 1600 | Mo Shine On |
+| 244 | 1600 | Jojo Momma |
 | 245 | 1596 | Christine Egidio Morocco |
 | 246 | 1595 | Joyce Johnson Vaughn |
 | 247 | 1592 | Dolores Russworn |
@@ -267,14 +267,14 @@
 | 259 | 1552 | Mcintosh Brian Shalonda |
 | 260 | 1546 | Alyssa Nadine Medelez |
 | 261 | 1528 | Stacy Stickle |
-| 262 | 1509 | Whitney Nicole Waterman |
-| 263 | 1509 | Stacey Clement |
+| 262 | 1509 | Stacey Clement |
+| 263 | 1509 | Whitney Nicole Waterman |
 | 264 | 1501 | Ashle Scranton |
 | 265 | 1498 | Ericka Marie Smith |
 | 266 | 1481 | Jamie Schmitt |
 | 267 | 1478 | Misty Walker |
-| 268 | 1477 | Prado |
-| 269 | 1477 | Hillary Crawford |
+| 268 | 1477 | Hillary Crawford |
+| 269 | 1477 | Prado |
 | 270 | 1469 | Carrie Trigg |
 | 271 | 1463 | Yvonne Wharton |
 | 272 | 1459 | Shiny Rollzone |
@@ -303,10 +303,10 @@
 | 295 | 1358 | Arlene Joy Belicina |
 | 296 | 1353 | Deborah Miller |
 | 297 | 1353 | Heather Hoffman Disharoon |
-| 298 | 1351 | Lucky Ladybug |
-| 299 | 1351 | Ashie Ann |
-| 300 | 1351 | Denisha Dawkins |
-| 301 | 1351 | Johnny Yeates |
+| 298 | 1351 | Johnny Yeates |
+| 299 | 1351 | Denisha Dawkins |
+| 300 | 1351 | Lucky Ladybug |
+| 301 | 1351 | Ashie Ann |
 | 302 | 1342 | Groovy Puzzle |
 | 303 | 1342 | Kelly A Green-Leach |
 | 304 | 1341 | Cassie Mercer |
@@ -368,8 +368,8 @@
 | 360 | 1222 | Kristin Gower |
 | 361 | 1218 | LaKisha Anderson |
 | 362 | 1217 | Brooks Brooks |
-| 363 | 1215 | Toni Roberson |
-| 364 | 1215 | Hyper Cluster |
+| 363 | 1215 | Hyper Cluster |
+| 364 | 1215 | Toni Roberson |
 | 365 | 1214 | David Cudicio-Hayden |
 | 366 | 1211 | Cynthia Ward |
 | 367 | 1210 | Amber Gray |
@@ -571,11 +571,11 @@
 | 563 | 858 | Joshua Self |
 | 564 | 854 | Dawn L Washington-Feuquay |
 | 565 | 854 | Gold Rose |
-| 566 | 852 | Catherine Marsh Gruda |
-| 567 | 852 | Alexandra Lynn |
-| 568 | 852 | Polly Pritchard Chesler |
-| 569 | 851 | James Louie |
-| 570 | 851 | Melissa Schulz |
+| 566 | 852 | Polly Pritchard Chesler |
+| 567 | 852 | Catherine Marsh Gruda |
+| 568 | 852 | Alexandra Lynn |
+| 569 | 851 | Melissa Schulz |
+| 570 | 851 | James Louie |
 | 571 | 850 | Sabrina Burton |
 | 572 | 848 | Jasmine Kenney |
 | 573 | 848 | Happy Wipeblock |
@@ -1251,8 +1251,8 @@
 | 1243 | 471 | Joshua Vargeson |
 | 1244 | 471 | Courtney Clark |
 | 1245 | 471 | Keyloni Duvall |
-| 1246 | 471 | Tara Merrill |
-| 1247 | 471 | Emoniee Sa'niaya |
+| 1246 | 471 | Emoniee Sa'niaya |
+| 1247 | 471 | Tara Merrill |
 | 1248 | 470 | Zappy Jumper |
 | 1249 | 470 | Linds |
 | 1250 | 470 | Boogie SoAnimated Johnson |

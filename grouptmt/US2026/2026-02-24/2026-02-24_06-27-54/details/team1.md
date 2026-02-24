@@ -137,8 +137,8 @@
 | 129 | 642 | Mario Cab |
 | 130 | 639 | Theo Pinnow |
 | 131 | 634 | Carrie Smith |
-| 132 | 629 | Tanya Carpenter-Reynolds |
-| 133 | 629 | Death |
+| 132 | 629 | Death |
+| 133 | 629 | Tanya Carpenter-Reynolds |
 | 134 | 628 | Trina Gee |
 | 135 | 626 | Damon J. Martin |
 | 136 | 622 | Chris K |
@@ -283,8 +283,8 @@
 | 275 | 375 | DaRascal |
 | 276 | 374 | Snappy Brickbuilder |
 | 277 | 373 | Frothy Pattern |
-| 278 | 372 | Chantelle Ceno |
-| 279 | 372 | Wayne Saunders |
+| 278 | 372 | Wayne Saunders |
+| 279 | 372 | Chantelle Ceno |
 | 280 | 372 | Dizzy Party |
 | 281 | 371 | Jaimie Lynn |
 | 282 | 371 | Danielle S Kester |
@@ -512,8 +512,8 @@
 | 504 | 240 | Liliana Pena |
 | 505 | 240 | Jumpy Rotate |
 | 506 | 239 | Tipsy Tiltpiece |
-| 507 | 238 | ash |
-| 508 | 238 | Shaykmia |
+| 507 | 238 | Shaykmia |
+| 508 | 238 | ash |
 | 509 | 237 | Brad MG |
 | 510 | 236 | Marie White |
 | 511 | 236 | whocares |

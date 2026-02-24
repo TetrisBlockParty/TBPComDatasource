@@ -70,8 +70,8 @@
 | 62 | 1106 | BertMofo |
 | 63 | 1094 | Shelly Chandler |
 | 64 | 1089 | Alyssa Papen |
-| 65 | 1082 | Avy Absol |
-| 66 | 1082 | Dion Crommarty |
+| 65 | 1082 | Dion Crommarty |
+| 66 | 1082 | Avy Absol |
 | 67 | 1081 | Dustee Craddock-Harrison |
 | 68 | 1069 | Heather Tushner |
 | 69 | 1056 | Keith Kelley |
@@ -317,9 +317,9 @@
 | 309 | 347 | Daria Rycewicz |
 | 310 | 346 | Metsfan |
 | 311 | 344 | Amanda Maciel Clarke |
-| 312 | 343 | Perky Piecegrid |
+| 312 | 343 | HastyGrabber |
 | 313 | 343 | Blessedmama |
-| 314 | 343 | HastyGrabber |
+| 314 | 343 | Perky Piecegrid |
 | 315 | 342 | Lauren Lamb |
 | 316 | 339 | Chance Strickland |
 | 317 | 338 | Nubian1 |

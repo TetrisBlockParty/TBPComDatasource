@@ -198,13 +198,13 @@
 | 190 | 784 | Jone |
 | 191 | 783 | Julian Murphy |
 | 192 | 777 | Daryn Elliott |
-| 193 | 774 | ren |
-| 194 | 774 | Twisty Brick LT |
+| 193 | 774 | Twisty Brick LT |
+| 194 | 774 | ren |
 | 195 | 772 | Tye Stovall |
 | 196 | 769 | Hasty Cascadefit |
 | 197 | 768 | Cyd061769 |
-| 198 | 763 | Tasha Gillespie |
-| 199 | 763 | Khaleada McGill Banks |
+| 198 | 763 | Khaleada McGill Banks |
+| 199 | 763 | Tasha Gillespie |
 | 200 | 760 | Kiki |
 | 201 | 759 | Mykal Burton |
 | 202 | 757 | Fancy Cascader |
@@ -220,8 +220,8 @@
 | 212 | 733 | Annie Déè |
 | 213 | 732 | Angela Scott |
 | 214 | 731 | Samantha Greco |
-| 215 | 729 | Lizabeth Fox |
-| 216 | 729 | CeceGeGe |
+| 215 | 729 | CeceGeGe |
+| 216 | 729 | Lizabeth Fox |
 | 217 | 715 | Karon Griffin |
 | 218 | 714 | Jenny Hrndz |
 | 219 | 713 | Stephanie Blkpep Davidson |
@@ -243,8 +243,8 @@
 | 235 | 646 | Duane Bright |
 | 236 | 644 | Dawn Williams |
 | 237 | 642 | Rania Zaqout |
-| 238 | 641 | Kristal C Lee |
-| 239 | 641 | Tom Nault |
+| 238 | 641 | Tom Nault |
+| 239 | 641 | Kristal C Lee |
 | 240 | 640 | Dee Pratt |
 | 241 | 639 | Nichol Graham |
 | 242 | 635 | Amber Hughes |
@@ -386,8 +386,8 @@
 | 378 | 426 | Christina Rotz Shows |
 | 379 | 424 | Ava Petito |
 | 380 | 423 | Dapper Liney |
-| 381 | 419 | Philip Rock |
-| 382 | 419 | Desiree Gold |
+| 381 | 419 | Desiree Gold |
+| 382 | 419 | Philip Rock |
 | 383 | 419 | Maggie |
 | 384 | 418 | Rainbow77375 |
 | 385 | 416 | Tay |
@@ -467,9 +467,9 @@
 | 459 | 356 | Trice Sodames |
 | 460 | 355 | Kevin Russell |
 | 461 | 354 | Jana Polk |
-| 462 | 353 | Eboni G. |
-| 463 | 353 | Cheeky Snapper |
-| 464 | 353 | Nikkie Bucciano |
+| 462 | 353 | Nikkie Bucciano |
+| 463 | 353 | Eboni G. |
+| 464 | 353 | Cheeky Snapper |
 | 465 | 352 | LadyTorad |
 | 466 | 351 | Eon Harris |
 | 467 | 351 | Nelma |
