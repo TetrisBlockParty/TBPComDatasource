@@ -272,8 +272,8 @@
 | 264 | 548 | Brian Battjes |
 | 265 | 546 | Cynthia Castros-Hampton |
 | 266 | 545 | Aerian Preston |
-| 267 | 544 | Tamara Deherrera |
-| 268 | 544 | Angella Lyons |
+| 267 | 544 | Angella Lyons |
+| 268 | 544 | Tamara Deherrera |
 | 269 | 541 | Gray Hicks |
 | 270 | 540 | Danielle Allison |
 | 271 | 540 | France Vézina |
@@ -550,8 +550,8 @@
 | 542 | 297 | Zac Hudak |
 | 543 | 296 | Amy Montz |
 | 544 | 296 | Tracy Martin |
-| 545 | 294 | Chenoa Urban Sophicated Redy |
-| 546 | 294 | Fredd Thomas |
+| 545 | 294 | Fredd Thomas |
+| 546 | 294 | Chenoa Urban Sophicated Redy |
 | 547 | 293 | Omega |
 | 548 | 293 | Anna Moeller |
 | 549 | 293 | Tommy Proctor |

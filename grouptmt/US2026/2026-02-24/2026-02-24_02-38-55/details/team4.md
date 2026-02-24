@@ -253,8 +253,8 @@
 | 245 | 403 | TinyLegoRose |
 | 246 | 400 | Brickh4us |
 | 247 | 399 | Joseph Guthrie |
-| 248 | 398 | Nerdy Twisterfit |
-| 249 | 398 | Tyler Terrific |
+| 248 | 398 | Tyler Terrific |
+| 249 | 398 | Nerdy Twisterfit |
 | 250 | 397 | blockstar |
 | 251 | 397 | blasterB |
 | 252 | 395 | 030Synner |
@@ -271,17 +271,17 @@
 | 263 | 380 | Rio Rocha |
 | 264 | 380 | shark tato |
 | 265 | 379 | Backoff Recupe |
-| 266 | 378 | Mary Ann Pabukis |
-| 267 | 378 | Googenheim |
-| 268 | 378 | Holly Jolly |
+| 266 | 378 | Holly Jolly |
+| 267 | 378 | Mary Ann Pabukis |
+| 268 | 378 | Googenheim |
 | 269 | 376 | Nig |
 | 270 | 374 | Chaz |
 | 271 | 370 | Cheery Risebuilder |
 | 272 | 369 | Matt Dell'Olio |
 | 273 | 368 | Kris Bartlett |
 | 274 | 367 | Meg |
-| 275 | 366 | Andrew Dang |
-| 276 | 366 | Hyper Builder |
+| 275 | 366 | Hyper Builder |
+| 276 | 366 | Andrew Dang |
 | 277 | 360 | James Hurley Jr. |
 | 278 | 359 | Montiette Mcglown |
 | 279 | 359 | KimoKoala |
@@ -299,8 +299,8 @@
 | 291 | 343 | HastyGrabber |
 | 292 | 342 | Lauren Lamb |
 | 293 | 340 | Cranky Rollpiece |
-| 294 | 339 | Blessedmama |
-| 295 | 339 | Jason Gibbs |
+| 294 | 339 | Jason Gibbs |
+| 295 | 339 | Blessedmama |
 | 296 | 339 | Chance Strickland |
 | 297 | 336 | Stella |
 | 298 | 336 | ZeeZee |

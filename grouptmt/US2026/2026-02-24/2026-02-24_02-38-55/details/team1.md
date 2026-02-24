@@ -158,8 +158,8 @@
 | 150 | 548 | Luciano Moreira |
 | 151 | 547 | Sharon Reynolds |
 | 152 | 546 | Loony Fitzone |
-| 153 | 543 | Adrian Esteban |
-| 154 | 543 | Tipsy Riseclear |
+| 153 | 543 | Tipsy Riseclear |
+| 154 | 543 | Adrian Esteban |
 | 155 | 543 | Nicole Roseberry Weber |
 | 156 | 540 | Tonya Beasley |
 | 157 | 537 | Stephanie Zahn |
@@ -642,7 +642,7 @@
 | 634 | 177 | Jacqueline Unique |
 | 635 | 177 | Lark |
 | 636 | 176 | Manley Smith |
-| 637 | 175 | Kellie Tunstall |
+| 637 | 175 | Rachel Nilles |
 | 638 | 175 | Donna Horoszewski-Dilgen |
 | 639 | 175 | Johnson Aryonda |
 | 640 | 175 | Kellie Tunstall |
@@ -1754,7 +1754,7 @@
 | 1746 | 26 | Meranda Varney |
 | 1747 | 25 | Jumpy Curvebuilder |
 | 1748 | 25 | Dora Greer |
-| 1749 | 25 | Zappy Builderpiece |
+| 1749 | 25 | Bravo |
 | 1750 | 25 | Hasty Wipebuilder |
 | 1751 | 25 | Cheryl Harker |
 | 1752 | 25 | Leshay Brooks |
