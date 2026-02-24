@@ -58,8 +58,8 @@
 | 50 | 1772 | Liv Whetson |
 | 51 | 1754 | Nate Burnside |
 | 52 | 1739 | Tina Kay |
-| 53 | 1734 | Aaron Pitkin |
-| 54 | 1734 | Fancy Slam |
+| 53 | 1734 | Fancy Slam |
+| 54 | 1734 | Aaron Pitkin |
 | 55 | 1732 | Jessica Ann |
 | 56 | 1691 | Cass Mendoza |
 | 57 | 1665 | Whitney Manuel |
@@ -291,8 +291,8 @@
 | 283 | 482 | Fancy Curver |
 | 284 | 482 | Isabel Ocasio |
 | 285 | 482 | Chummy Rumbler |
-| 286 | 479 | Hyper Matchzone |
-| 287 | 479 | Stephanie Bradley |
+| 286 | 479 | Stephanie Bradley |
+| 287 | 479 | Hyper Matchzone |
 | 288 | 478 | Jeni Dow |
 | 289 | 477 | Gumbo |
 | 290 | 476 | Shunta Jacobs |
@@ -323,8 +323,8 @@
 | 315 | 436 | Heather De Vries Cobb |
 | 316 | 434 | Daring Builder |
 | 317 | 432 | Luciana Braganca Vieira |
-| 318 | 431 | Wendy Dearden |
-| 319 | 431 | Tia |
+| 318 | 431 | Tia |
+| 319 | 431 | Wendy Dearden |
 | 320 | 430 | Quackers |
 | 321 | 429 | Carrie Huskey |
 | 322 | 428 | Samantha Lynn |
@@ -637,8 +637,8 @@
 | 629 | 250 | Ashley Parham |
 | 630 | 249 | Emberblaze |
 | 631 | 249 | Sarah Tschee |
-| 632 | 248 | Stormy Anguish |
-| 633 | 248 | Frothy Glider |
+| 632 | 248 | Frothy Glider |
+| 633 | 248 | Stormy Anguish |
 | 634 | 248 | Smiley Zone |
 | 635 | 247 | Cameron Lovell |
 | 636 | 247 | Melanie Sherwood |
@@ -1098,9 +1098,9 @@
 | 1090 | 146 | Ash Smith |
 | 1091 | 146 | Dreamy Zone |
 | 1092 | 146 | Corie Prosser |
-| 1093 | 146 | Trissy Collins |
-| 1094 | 146 | lema ean |
-| 1095 | 146 | Shelby Crawford |
+| 1093 | 146 | Crystal Byram |
+| 1094 | 146 | Shelby Crawford |
+| 1095 | 146 | lema ean |
 | 1096 | 145 | JezzyBelle |
 | 1097 | 145 | Ruben Gonzalez |
 | 1098 | 145 | Amanda Jean Stafford |
@@ -2920,7 +2920,7 @@
 | 2912 | 15 | Andrea Quinn Mahling |
 | 2913 | 15 | Star Shingoose |
 | 2914 | 15 | Summer |
-| 2915 | 14 | Lisa Perry |
+| 2915 | 14 | Sandra Parker |
 | 2916 | 14 | Tre |
 | 2917 | 14 | Lisa Perry |
 | 2918 | 14 | Cynthia K. Garcia |
