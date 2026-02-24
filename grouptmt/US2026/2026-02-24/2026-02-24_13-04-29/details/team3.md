@@ -126,8 +126,8 @@
 | 118 | 1154 | Carrie Jarvis Mohler |
 | 119 | 1152 | Julian Murphy |
 | 120 | 1124 | Stephanie Rice |
-| 121 | 1121 | Corie A. Brinson |
-| 122 | 1121 | Loopy Fallmatch |
+| 121 | 1121 | Loopy Fallmatch |
+| 122 | 1121 | Corie A. Brinson |
 | 123 | 1114 | Groovy Catcher |
 | 124 | 1108 | Rachel |
 | 125 | 1105 | Adrian Marcel Pate |
@@ -169,8 +169,8 @@
 | 161 | 928 | Edwin Calvillo Jr. |
 | 162 | 927 | Rochelle Hazelett |
 | 163 | 925 | Cherry Parker |
-| 164 | 914 | BadManSheLove |
-| 165 | 914 | Staci George Fitzsimmons |
+| 164 | 914 | Staci George Fitzsimmons |
+| 165 | 914 | BadManSheLove |
 | 166 | 910 | opf |
 | 167 | 906 | Patti Skiles |
 | 168 | 899 | Jaime Monhaut-Reed |
@@ -182,15 +182,15 @@
 | 174 | 876 | Kiki |
 | 175 | 875 | Chasity |
 | 176 | 874 | Jessica Pineda-Lopez |
-| 177 | 868 | Cranky Gridder |
-| 178 | 868 | Nicole Flippo |
+| 177 | 868 | Nicole Flippo |
+| 178 | 868 | Cranky Gridder |
 | 179 | 866 | Domo Washington |
 | 180 | 862 | Santeria Trece Candles |
 | 181 | 858 | Nicole Myers |
 | 182 | 856 | Dana Winters |
 | 183 | 854 | Speedy Bridger |
-| 184 | 847 | Daira Largen |
-| 185 | 847 | Daring Brickzone |
+| 184 | 847 | Daring Brickzone |
+| 185 | 847 | Daira Largen |
 | 186 | 842 | Alexmac |
 | 187 | 830 | Trisha Balmer |
 | 188 | 829 | Patricia White |
@@ -219,8 +219,8 @@
 | 211 | 772 | Hasty Cascadefit |
 | 212 | 767 | Heather Davis |
 | 213 | 766 | Mykal Burton |
-| 214 | 763 | Jim Mathews |
-| 215 | 763 | Khaleada McGill Banks |
+| 214 | 763 | Khaleada McGill Banks |
+| 215 | 763 | Jim Mathews |
 | 216 | 762 | Naur |
 | 217 | 758 | Shawn Miller |
 | 218 | 755 | Colton |
@@ -238,8 +238,8 @@
 | 230 | 715 | Betty Bóò |
 | 231 | 714 | Jenny Hrndz |
 | 232 | 713 | Stephanie Blkpep Davidson |
-| 233 | 709 | Christine Niles |
-| 234 | 709 | Cynthia Castros-Hampton |
+| 233 | 709 | Cynthia Castros-Hampton |
+| 234 | 709 | Christine Niles |
 | 235 | 708 | Stephanie Bradley |
 | 236 | 707 | Snappy Balancer |
 | 237 | 705 | Jackie Miller |
@@ -265,8 +265,8 @@
 | 257 | 642 | Rania Zaqout |
 | 258 | 641 | Tom Nault |
 | 259 | 640 | Dee Pratt |
-| 260 | 639 | Marci Mize Fandrich |
-| 261 | 639 | Nichol Graham |
+| 260 | 639 | Nichol Graham |
+| 261 | 639 | Marci Mize Fandrich |
 | 262 | 637 | Giddy Twistbuilder |
 | 263 | 636 | Salena Whitlock |
 | 264 | 635 | Amber Hughes |
@@ -274,8 +274,8 @@
 | 266 | 633 | Rebecca Funderburk Kirby |
 | 267 | 632 | Rebecca Bailey |
 | 268 | 629 | rnr junky |
-| 269 | 627 | Louise Stacy Sisson |
-| 270 | 627 | Juliana Dottore |
+| 269 | 627 | Juliana Dottore |
+| 270 | 627 | Louise Stacy Sisson |
 | 271 | 626 | Cheryl Hinch Tenbrook |
 | 272 | 625 | Jacqueline Rodriguez |
 | 273 | 624 | Hyper Matchzone |
@@ -375,8 +375,8 @@
 | 367 | 460 | Antonia Russell |
 | 368 | 460 | Hasty Gridpiece |
 | 369 | 458 | Jennifer Alvey |
-| 370 | 456 | RickyG |
-| 371 | 456 | Kelly |
+| 370 | 456 | Kelly |
+| 371 | 456 | RickyG |
 | 372 | 456 | Cynthia Herrmann Egland |
 | 373 | 455 | Kelly Wolf |
 | 374 | 454 | Swanky Frame |
@@ -464,7 +464,7 @@
 | 456 | 378 | Brittany |
 | 457 | 377 | Paula Little |
 | 458 | 376 | Tracy Martin |
-| 459 | 375 | Denise Marie |
+| 459 | 375 | NeeCee |
 | 460 | 375 | Christy Quick |
 | 461 | 375 | Denise Marie |
 | 462 | 373 | Bekah Dietrich |
@@ -1297,10 +1297,10 @@
 | 1289 | 153 | Tipsy Dashgrid |
 | 1290 | 153 | Robert Sibigtroth |
 | 1291 | 153 | Marketa McClaster |
-| 1292 | 153 | Tipsy Dashgrid |
-| 1293 | 152 | Crystel b520 |
-| 1294 | 152 | Amanda Mooney |
-| 1295 | 152 | Louise Parker |
+| 1292 | 153 | Cheeky Blockline |
+| 1293 | 152 | Louise Parker |
+| 1294 | 152 | Crystel b520 |
+| 1295 | 152 | Amanda Mooney |
 | 1296 | 152 | Chilly Wipegrid |
 | 1297 | 151 | Nanyamka LeosRule Patterson |
 | 1298 | 151 | Brad Dimitroff |

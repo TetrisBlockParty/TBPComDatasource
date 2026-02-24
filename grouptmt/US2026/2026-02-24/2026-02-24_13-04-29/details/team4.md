@@ -51,8 +51,8 @@
 | 43 | 1497 | Juggalo |
 | 44 | 1484 | Sammy Noguera |
 | 45 | 1469 | Kimberly Love |
-| 46 | 1461 | Shane Kalamata Platoon |
-| 47 | 1461 | Yoset Mejia |
+| 46 | 1461 | Yoset Mejia |
+| 47 | 1461 | Shane Kalamata Platoon |
 | 48 | 1456 | Michelle Marie |
 | 49 | 1430 | Landon Keith Graffeo |
 | 50 | 1426 | Jen Allison |
@@ -122,8 +122,8 @@
 | 114 | 802 | Denise Carlson |
 | 115 | 801 | D3TROITB0RN74 |
 | 116 | 784 | TheNeesh50 |
-| 117 | 781 | Savannah Overdorf |
-| 118 | 781 | Brittney Griggs |
+| 117 | 781 | Brittney Griggs |
+| 118 | 781 | Savannah Overdorf |
 | 119 | 779 | Nope Young |
 | 120 | 777 | Chris Alexinas |
 | 121 | 768 | Trista Leah |
@@ -174,10 +174,10 @@
 | 166 | 597 | Berklie Apedaile |
 | 167 | 595 | TRCuse |
 | 168 | 590 | Crystal Lynn |
-| 169 | 586 | Rebecca Morris |
-| 170 | 586 | Latisha Davis |
-| 171 | 585 | Tracey Lehmann |
-| 172 | 585 | Lori |
+| 169 | 586 | Latisha Davis |
+| 170 | 586 | Rebecca Morris |
+| 171 | 585 | Lori |
+| 172 | 585 | Tracey Lehmann |
 | 173 | 584 | Carlton Unfiltered |
 | 174 | 576 | Jade Rian |
 | 175 | 575 | Jenna Ingersoll |
@@ -293,8 +293,8 @@
 | 285 | 402 | Nita Wells |
 | 286 | 398 | Tyler Terrific |
 | 287 | 397 | blockstar |
-| 288 | 395 | BigSammy420 |
-| 289 | 395 | Denise B |
+| 288 | 395 | Denise B |
+| 289 | 395 | BigSammy420 |
 | 290 | 394 | Nikki Rae Gordon |
 | 291 | 393 | Montiette Mcglown |
 | 292 | 390 | Ari Droff |
@@ -513,9 +513,9 @@
 | 505 | 244 | Jesse Saville |
 | 506 | 244 | Amanda Christine |
 | 507 | 243 | Jackie Marie |
-| 508 | 242 | Badatvs |
-| 509 | 242 | PurpleMoonMa |
-| 510 | 242 | Brian Owens |
+| 508 | 242 | Brian Owens |
+| 509 | 242 | Badatvs |
+| 510 | 242 | PurpleMoonMa |
 | 511 | 241 | Katherine Crane |
 | 512 | 240 | Zany Shatterer |
 | 513 | 240 | Orchislactea |
