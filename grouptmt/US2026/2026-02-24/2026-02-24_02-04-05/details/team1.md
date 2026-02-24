@@ -163,8 +163,8 @@
 | 155 | 531 | Plucky Ziggy |
 | 156 | 529 | BadG52 |
 | 157 | 528 | ALFD |
-| 158 | 527 | April Carroll |
-| 159 | 527 | Nery Martinez |
+| 158 | 527 | Nery Martinez |
+| 159 | 527 | April Carroll |
 | 160 | 524 | .running. |
 | 161 | 522 | Constance Risner |
 | 162 | 519 | Anaid Sanchez |

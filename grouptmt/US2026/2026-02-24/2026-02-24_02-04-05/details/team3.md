@@ -314,8 +314,8 @@
 | 306 | 481 | Tiffanie Alley |
 | 307 | 476 | Shunta Jacobs |
 | 308 | 475 | Tasha Wesson-Torrence |
-| 309 | 471 | Mendoza Lee Christy |
-| 310 | 471 | Skippy |
+| 309 | 471 | Skippy |
+| 310 | 471 | Mendoza Lee Christy |
 | 311 | 468 | Sarah Moyer |
 | 312 | 468 | Kellie Montgomery |
 | 313 | 467 | Danielle Rhoades |

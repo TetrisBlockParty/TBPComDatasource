@@ -118,8 +118,8 @@
 | 110 | 725 | Diana Houts |
 | 111 | 724 | Destiney Carter |
 | 112 | 723 | Chris Alexinas |
-| 113 | 719 | Jamie Mann-Deichmann |
-| 114 | 719 | Sam Bishop |
+| 113 | 719 | Sam Bishop |
+| 114 | 719 | Jamie Mann-Deichmann |
 | 115 | 716 | Savannah Overdorf |
 | 116 | 712 | H.R. Block |
 | 117 | 710 | SAP |
@@ -177,8 +177,8 @@
 | 169 | 525 | Lucas J Sutton |
 | 170 | 522 | Carly Alexis |
 | 171 | 521 | Andy Cabral |
-| 172 | 520 | Zippy Block |
-| 173 | 520 | Oscar Alberto Perez |
+| 172 | 520 | Oscar Alberto Perez |
+| 173 | 520 | Zippy Block |
 | 174 | 516 | Twisty Clicky |
 | 175 | 516 | Trish |
 | 176 | 514 | Scott Jameson |

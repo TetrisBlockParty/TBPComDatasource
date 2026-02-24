@@ -285,8 +285,8 @@
 | 277 | 1348 | Sarah Freitas |
 | 278 | 1342 | Groovy Puzzle |
 | 279 | 1342 | Kelly A Green-Leach |
-| 280 | 1341 | Moose Griffith |
-| 281 | 1341 | Cassie Mercer |
+| 280 | 1341 | Cassie Mercer |
+| 281 | 1341 | Moose Griffith |
 | 282 | 1338 | Diallo Sparkman |
 | 283 | 1333 | Tralonda Weeks |
 | 284 | 1331 | Christina Walker |
