@@ -201,8 +201,8 @@
 | 193 | 763 | Tasha Gillespie |
 | 194 | 760 | Kiki |
 | 195 | 757 | Fancy Cascader |
-| 196 | 755 | Alexmac |
-| 197 | 755 | Laura Booth Wosko |
+| 196 | 755 | Laura Booth Wosko |
+| 197 | 755 | Alexmac |
 | 198 | 750 | Michael Nowogorski |
 | 199 | 742 | Jennifer Lynn Fahrenholtz-Summers |
 | 200 | 738 | Naur |

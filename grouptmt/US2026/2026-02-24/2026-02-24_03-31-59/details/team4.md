@@ -132,8 +132,8 @@
 | 124 | 704 | Chilly Crasher |
 | 125 | 702 | Amy Suckarieh |
 | 126 | 690 | Denia Deni |
-| 127 | 682 | Raegan Lane-Ross |
-| 128 | 682 | Jamie Gustafson |
+| 127 | 682 | Jamie Gustafson |
+| 128 | 682 | Raegan Lane-Ross |
 | 129 | 667 | Lindsey Gonzalez |
 | 130 | 664 | Leslie Nicole |
 | 131 | 663 | Matt Gooder |
@@ -235,8 +235,8 @@
 | 227 | 438 | Melvin Baird |
 | 228 | 436 | Selena Shaw |
 | 229 | 434 | Ramel Rhodes |
-| 230 | 433 | Damn Libra |
-| 231 | 433 | Circuit8 |
+| 230 | 433 | Circuit8 |
+| 231 | 433 | Damn Libra |
 | 232 | 431 | Manny1 |
 | 233 | 430 | Plucky Patternblock |
 | 234 | 429 | Cranky Rollpiece |
