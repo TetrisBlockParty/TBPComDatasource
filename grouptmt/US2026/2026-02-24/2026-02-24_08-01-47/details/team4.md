@@ -41,8 +41,8 @@
 | 33 | 1631 | Goatimus Lombardi |
 | 34 | 1619 | Isabella Blanco |
 | 35 | 1571 | Koshin Abdirahman |
-| 36 | 1535 | Dawn Alexander |
-| 37 | 1535 | Rebecca Moulton Pinciaro |
+| 36 | 1535 | Rebecca Moulton Pinciaro |
+| 37 | 1535 | Dawn Alexander |
 | 38 | 1518 | Cherrish Duren |
 | 39 | 1507 | A5! |
 | 40 | 1504 | LS |
@@ -72,8 +72,8 @@
 | 64 | 1101 | Denia Deni |
 | 65 | 1094 | Shelly Chandler |
 | 66 | 1089 | Alyssa Papen |
-| 67 | 1082 | Dion Crommarty |
-| 68 | 1082 | Avy Absol |
+| 67 | 1082 | Avy Absol |
+| 68 | 1082 | Dion Crommarty |
 | 69 | 1081 | Dustee Craddock-Harrison |
 | 70 | 1080 | Chilly Line |
 | 71 | 1069 | Heather Tushner |
@@ -137,8 +137,8 @@
 | 129 | 712 | Leslie Nicole |
 | 130 | 712 | H.R. Block |
 | 131 | 708 | Jacqueline Helm |
-| 132 | 704 | Chilly Crasher |
-| 133 | 704 | Austin Owens |
+| 132 | 704 | Austin Owens |
+| 133 | 704 | Chilly Crasher |
 | 134 | 682 | Raegan Lane-Ross |
 | 135 | 668 | Desi Desporte |
 | 136 | 667 | Matt Gooder |
@@ -301,22 +301,22 @@
 | 293 | 375 | George Tzouganos |
 | 294 | 373 | Russ Attitude |
 | 295 | 371 | Jessi Cinotto |
-| 296 | 370 | Kris Bartlett |
-| 297 | 370 | Twisty Risebuilder |
+| 296 | 370 | Twisty Risebuilder |
+| 297 | 370 | Kris Bartlett |
 | 298 | 368 | Dan Wold |
 | 299 | 367 | Meg |
 | 300 | 365 | David Lay |
 | 301 | 364 | Lora |
 | 302 | 362 | Nubian1 |
 | 303 | 360 | Lee Silpe |
-| 304 | 359 | Holly |
-| 305 | 359 | Allen Lloyd |
-| 306 | 359 | KimoKoala |
-| 307 | 354 | @ |
-| 308 | 354 | Perky Piecegrid |
+| 304 | 359 | KimoKoala |
+| 305 | 359 | Holly |
+| 306 | 359 | Allen Lloyd |
+| 307 | 354 | Perky Piecegrid |
+| 308 | 354 | @ |
 | 309 | 352 | Kate |
-| 310 | 351 | Jackie Clark |
-| 311 | 351 | Dana Scott |
+| 310 | 351 | Dana Scott |
+| 311 | 351 | Jackie Clark |
 | 312 | 350 | Dizzy Matchzone |
 | 313 | 349 | Richard-April Kice |
 | 314 | 349 | jim |
@@ -387,8 +387,8 @@
 | 379 | 300 | Carter Jones |
 | 380 | 299 | Michael Snow |
 | 381 | 298 | Val Erie |
-| 382 | 297 | Allison Rose |
-| 383 | 297 | Brittany Marsh |
+| 382 | 297 | Brittany Marsh |
+| 383 | 297 | Allison Rose |
 | 384 | 296 | Dapper Frame |
 | 385 | 295 | Deb Rubeck |
 | 386 | 294 | Kevin Bush |
@@ -440,11 +440,11 @@
 | 432 | 264 | Chantilly Laace |
 | 433 | 264 | Shh |
 | 434 | 263 | Laurmarcar |
-| 435 | 262 | Walter Beltran |
+| 435 | 262 | Lilya Troutman |
 | 436 | 262 | Ruben Wheeler |
-| 437 | 262 | Lilya Troutman |
-| 438 | 261 | Laura McPheeters |
-| 439 | 261 | Jen Hallin |
+| 437 | 262 | Walter Beltran |
+| 438 | 261 | Jen Hallin |
+| 439 | 261 | Laura McPheeters |
 | 440 | 260 | Dustin York |
 | 441 | 260 | Bussy Bay |
 | 442 | 260 | PennyCandee |
@@ -1666,8 +1666,8 @@
 | 1658 | 28 | Keith Watson |
 | 1659 | 27 | ocean |
 | 1660 | 27 | Bold Builderpiece |
-| 1661 | 27 | Lynn Anne |
-| 1662 | 27 | Perach Alima Shoa |
+| 1661 | 27 | Julie Foulks Porter |
+| 1662 | 27 | Kim Houston Vickrey |
 | 1663 | 27 | Nutty Gridclear |
 | 1664 | 27 | Perach Alima Shoa |
 | 1665 | 27 | Lynn Anne |
