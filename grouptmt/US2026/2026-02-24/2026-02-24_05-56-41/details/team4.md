@@ -133,8 +133,8 @@
 | 125 | 712 | H.R. Block |
 | 126 | 712 | Leslie Nicole |
 | 127 | 708 | Jacqueline Helm |
-| 128 | 704 | Austin Owens |
-| 129 | 704 | Chilly Crasher |
+| 128 | 704 | Chilly Crasher |
+| 129 | 704 | Austin Owens |
 | 130 | 690 | Denia Deni |
 | 131 | 682 | Raegan Lane-Ross |
 | 132 | 668 | Desi Desporte |
@@ -233,8 +233,8 @@
 | 225 | 454 | Keshia Lyons |
 | 226 | 454 | Shiny Fit |
 | 227 | 449 | Danielle Kollias |
-| 228 | 448 | Mike Solo |
-| 229 | 448 | Mr. Party |
+| 228 | 448 | Mr. Party |
+| 229 | 448 | Mike Solo |
 | 230 | 447 | Jen Mattei |
 | 231 | 444 | Selena Shaw |
 | 232 | 444 | Calvin Cannon |
@@ -286,9 +286,9 @@
 | 278 | 380 | Holly Jolly |
 | 279 | 380 | Jen Caldwell |
 | 280 | 379 | Backoff Recupe |
-| 281 | 378 | Mary Ann Pabukis |
-| 282 | 378 | Jason Gibbs |
-| 283 | 378 | Googenheim |
+| 281 | 378 | Jason Gibbs |
+| 282 | 378 | Googenheim |
+| 283 | 378 | Mary Ann Pabukis |
 | 284 | 377 | Matt Dell'Olio |
 | 285 | 376 | Nig |
 | 286 | 375 | George Tzouganos |
@@ -317,7 +317,7 @@
 | 309 | 344 | Amanda Maciel Clarke |
 | 310 | 343 | HastyGrabber |
 | 311 | 343 | Perky Piecegrid |
-| 312 | 343 | HastyGrabber |
+| 312 | 343 | Blessedmama |
 | 313 | 342 | Lauren Lamb |
 | 314 | 339 | Chance Strickland |
 | 315 | 336 | Stella |

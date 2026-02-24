@@ -357,8 +357,8 @@
 | 349 | 455 | Kelly Wolf |
 | 350 | 452 | Tyler Shoff |
 | 351 | 452 | Snippy Wipeout |
-| 352 | 450 | Stefanie LaPointe |
-| 353 | 450 | Luciana Braganca Vieira |
+| 352 | 450 | Luciana Braganca Vieira |
+| 353 | 450 | Stefanie LaPointe |
 | 354 | 449 | Lively Caster |
 | 355 | 447 | Num1hater |
 | 356 | 447 | Carrie Huskey |

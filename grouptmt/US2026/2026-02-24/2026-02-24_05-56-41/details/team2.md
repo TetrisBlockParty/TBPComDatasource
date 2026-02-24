@@ -212,8 +212,8 @@
 | 204 | 1813 | Catina Hutchison |
 | 205 | 1807 | Osun Anuket Esu |
 | 206 | 1799 | Juliana Marques Do Nascimento Gordy |
-| 207 | 1775 | Eboni Banks |
-| 208 | 1775 | Sommer Shope |
+| 207 | 1775 | Sommer Shope |
+| 208 | 1775 | Eboni Banks |
 | 209 | 1761 | Rosa Franklin |
 | 210 | 1759 | Nerdy Pattern |
 | 211 | 1751 | Melissa Penelope Ann Dodge |
