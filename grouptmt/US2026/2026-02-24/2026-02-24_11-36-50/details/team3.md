@@ -83,8 +83,8 @@
 | 75 | 1633 | cowboy25469 |
 | 76 | 1625 | Queen Kam |
 | 77 | 1615 | joclisa |
-| 78 | 1566 | Marcie Bressler |
-| 79 | 1566 | Nerdy Riseclear |
+| 78 | 1566 | Nerdy Riseclear |
+| 79 | 1566 | Marcie Bressler |
 | 80 | 1560 | Logan Naccarato |
 | 81 | 1555 | Snappy Glidepiece |
 | 82 | 1555 | Elaine Webb Graves |
@@ -179,8 +179,8 @@
 | 171 | 875 | Chasity |
 | 172 | 874 | Jessica Pineda-Lopez |
 | 173 | 871 | Rochelle Hazelett |
-| 174 | 868 | Nicole Flippo |
-| 175 | 868 | Cranky Gridder |
+| 174 | 868 | Cranky Gridder |
+| 175 | 868 | Nicole Flippo |
 | 176 | 866 | Domo Washington |
 | 177 | 864 | Sunny Rotater |
 | 178 | 862 | Santeria Trece Candles |
@@ -199,8 +199,8 @@
 | 191 | 815 | Justin Ritter |
 | 192 | 813 | JessDrown |
 | 193 | 808 | Raya |
-| 194 | 804 | Alaina Lee |
-| 195 | 804 | Gideon Walker |
+| 194 | 804 | Gideon Walker |
+| 195 | 804 | Alaina Lee |
 | 196 | 800 | Lauren Girouard |
 | 197 | 799 | Trisha Balmer |
 | 198 | 792 | Rachel Grant |
@@ -359,8 +359,8 @@
 | 351 | 471 | Mendoza Lee Christy |
 | 352 | 468 | Bigmack |
 | 353 | 467 | Danielle Rhoades |
-| 354 | 465 | Noettín Kan Zasnemoore |
-| 355 | 465 | Blocked |
+| 354 | 465 | Blocked |
+| 355 | 465 | Noettín Kan Zasnemoore |
 | 356 | 464 | Snazzy Filler |
 | 357 | 464 | Snippy Wipeout |
 | 358 | 463 | Hoài Quắt |
@@ -489,10 +489,10 @@
 | 481 | 358 | Hyper Twisterfit |
 | 482 | 356 | Trice Sodames |
 | 483 | 355 | Eboni Starr |
-| 484 | 354 | Jana Polk |
-| 485 | 354 | Norma JulieMay |
-| 486 | 353 | Cheeky Snapper |
-| 487 | 353 | Erika Apodaca |
+| 484 | 354 | Norma JulieMay |
+| 485 | 354 | Jana Polk |
+| 486 | 353 | Erika Apodaca |
+| 487 | 353 | Cheeky Snapper |
 | 488 | 353 | Nikkie Bucciano |
 | 489 | 353 | Eboni G. |
 | 490 | 352 | LadyTorad |

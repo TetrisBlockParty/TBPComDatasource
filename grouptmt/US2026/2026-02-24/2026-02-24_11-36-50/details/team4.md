@@ -51,8 +51,8 @@
 | 43 | 1497 | Juggalo |
 | 44 | 1478 | Sammy Noguera |
 | 45 | 1469 | Kimberly Love |
-| 46 | 1461 | Yoset Mejia |
-| 47 | 1461 | Shane Kalamata Platoon |
+| 46 | 1461 | Shane Kalamata Platoon |
+| 47 | 1461 | Yoset Mejia |
 | 48 | 1456 | Michelle Marie |
 | 49 | 1430 | Landon Keith Graffeo |
 | 50 | 1386 | Jen Allison |
@@ -81,8 +81,8 @@
 | 73 | 1071 | LisaJo Picken Buchanan |
 | 74 | 1069 | Heather Tushner |
 | 75 | 1056 | Keith Kelley |
-| 76 | 1046 | Anthony Bryan Riva |
-| 77 | 1046 | Johnathan Martinez |
+| 76 | 1046 | Johnathan Martinez |
+| 77 | 1046 | Anthony Bryan Riva |
 | 78 | 1028 | TeeJ |
 | 79 | 1024 | Valerie Roberts |
 | 80 | 1017 | Jeremy Steines |
@@ -117,8 +117,8 @@
 | 109 | 811 | Sassy Pattern |
 | 110 | 806 | Zippy Gridlock |
 | 111 | 805 | Mylo Lipscomb |
-| 112 | 802 | Crystal Carroll |
-| 113 | 802 | Denise Carlson |
+| 112 | 802 | Denise Carlson |
+| 113 | 802 | Crystal Carroll |
 | 114 | 801 | D3TROITB0RN74 |
 | 115 | 798 | Jewell Urban |
 | 116 | 784 | TheNeesh50 |
@@ -134,17 +134,17 @@
 | 126 | 729 | Jamie Mann-Deichmann |
 | 127 | 726 | Jamie Gustafson |
 | 128 | 725 | Brandon Crabbs |
-| 129 | 719 | Leslie Nicole |
-| 130 | 719 | George Nutt |
+| 129 | 719 | George Nutt |
+| 130 | 719 | Leslie Nicole |
 | 131 | 712 | H.R. Block |
 | 132 | 708 | Jacqueline Helm |
-| 133 | 704 | Chilly Crasher |
-| 134 | 704 | Austin Owens |
+| 133 | 704 | Austin Owens |
+| 134 | 704 | Chilly Crasher |
 | 135 | 701 | Angela Srubar-Norman |
 | 136 | 687 | Carmethia Clemons Haslerig |
 | 137 | 682 | Raegan Lane-Ross |
 | 138 | 668 | Desi Desporte |
-| 139 | 667 | Matt Gooder |
+| 139 | 667 | Lindsey Gonzalez |
 | 140 | 667 | Swanky Fitline |
 | 141 | 667 | Matt Gooder |
 | 142 | 663 | Jessica Lynn Cutlip |
@@ -317,11 +317,11 @@
 | 309 | 366 | Ak Jones |
 | 310 | 364 | Lora |
 | 311 | 362 | Nubian1 |
-| 312 | 359 | Allen Lloyd |
-| 313 | 359 | Sho Nuff |
-| 314 | 359 | Holly |
-| 315 | 354 | @ |
-| 316 | 354 | Perky Piecegrid |
+| 312 | 359 | Sho Nuff |
+| 313 | 359 | Holly |
+| 314 | 359 | Allen Lloyd |
+| 315 | 354 | Perky Piecegrid |
+| 316 | 354 | @ |
 | 317 | 352 | Kate |
 | 318 | 351 | Dana Scott |
 | 319 | 351 | Jackie Clark |
@@ -438,9 +438,9 @@
 | 430 | 277 | Silly SeaWeed |
 | 431 | 276 | Dennis Bradley |
 | 432 | 275 | Jarred Falls |
-| 433 | 274 | Hector Duran |
+| 433 | 274 | Cheery Fitline |
 | 434 | 274 | Kourtney Barnes |
-| 435 | 274 | Cheery Fitline |
+| 435 | 274 | Hector Duran |
 | 436 | 273 | Lane Wasson |
 | 437 | 272 | ChuckBuck Copeland |
 | 438 | 271 | ImJustMe |
@@ -563,8 +563,8 @@
 | 555 | 223 | Jessica Atkinson |
 | 556 | 222 | Squeezy Pearsall |
 | 557 | 222 | Cozy Balancer |
-| 558 | 221 | Peppy Drop |
-| 559 | 221 | Rheanda Weaskus |
+| 558 | 221 | Rheanda Weaskus |
+| 559 | 221 | Peppy Drop |
 | 560 | 220 | Mighty Edgepiece |
 | 561 | 219 | Brandon Link |
 | 562 | 219 | Dapper Balancer |

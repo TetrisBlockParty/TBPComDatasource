@@ -270,8 +270,8 @@
 | 262 | 1561 | Howard Forest |
 | 263 | 1557 | Poppy Snap |
 | 264 | 1556 | Julay |
-| 265 | 1553 | Wendy Unsain |
-| 266 | 1553 | Sarah Freitas |
+| 265 | 1553 | Sarah Freitas |
+| 266 | 1553 | Wendy Unsain |
 | 267 | 1553 | Boldy Cascadepiece |
 | 268 | 1539 | Nadia Batista Garcia |
 | 269 | 1533 | Prado |
@@ -330,8 +330,8 @@
 | 322 | 1342 | Groovy Puzzle |
 | 323 | 1342 | Kelly A Green-Leach |
 | 324 | 1341 | Cassie Mercer |
-| 325 | 1338 | Diallo Sparkman |
-| 326 | 1338 | Meghan M |
+| 325 | 1338 | Meghan M |
+| 326 | 1338 | Diallo Sparkman |
 | 327 | 1336 | Frothy Rumbler |
 | 328 | 1334 | Jamie Otero |
 | 329 | 1333 | Keri Womack |
@@ -384,8 +384,8 @@
 | 376 | 1225 | RAEPR05 |
 | 377 | 1224 | Kennedy Sandifer |
 | 378 | 1222 | Nuke Morris |
-| 379 | 1218 | LaKisha Anderson |
-| 380 | 1218 | Hyper Cluster |
+| 379 | 1218 | Hyper Cluster |
+| 380 | 1218 | LaKisha Anderson |
 | 381 | 1217 | Brooks Brooks |
 | 382 | 1214 | David Cudicio-Hayden |
 | 383 | 1211 | Cynthia Ward |
@@ -400,8 +400,8 @@
 | 392 | 1179 | Georgia Triblett |
 | 393 | 1178 | Dany Murillo |
 | 394 | 1173 | Giggy Blocker |
-| 395 | 1172 | Min |
-| 396 | 1172 | Lakeysha Dortch |
+| 395 | 1172 | Lakeysha Dortch |
+| 396 | 1172 | Min |
 | 397 | 1171 | Loretta Brewer-Gage |
 | 398 | 1170 | Shelley Thornburgh Wright |
 | 399 | 1163 | Caitlin Schmid |
