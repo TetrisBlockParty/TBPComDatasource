@@ -361,7 +361,7 @@
 | 353 | 319 | Jessica Fredericks |
 | 354 | 317 | Paito |
 | 355 | 317 | Kim Klutz Olson |
-| 356 | 317 | Paito |
+| 356 | 317 | Madison Sweere |
 | 357 | 316 | Shukee Lo |
 | 358 | 315 | Glitzy Corner |
 | 359 | 315 | Maureen Flanigan |
@@ -382,8 +382,8 @@
 | 374 | 304 | Sarah Neathery |
 | 375 | 302 | Jenna McGeorge |
 | 376 | 302 | Koral Hanke |
-| 377 | 300 | Jason Frehner |
-| 378 | 300 | Carter Jones |
+| 377 | 300 | Carter Jones |
+| 378 | 300 | Jason Frehner |
 | 379 | 299 | Michael Snow |
 | 380 | 298 | Val Erie |
 | 381 | 297 | Brittany Marsh |

@@ -82,8 +82,8 @@
 | 74 | 1633 | cowboy25469 |
 | 75 | 1625 | Queen Kam |
 | 76 | 1615 | joclisa |
-| 77 | 1566 | Nerdy Riseclear |
-| 78 | 1566 | Marcie Bressler |
+| 77 | 1566 | Marcie Bressler |
+| 78 | 1566 | Nerdy Riseclear |
 | 79 | 1560 | Logan Naccarato |
 | 80 | 1555 | Snappy Glidepiece |
 | 81 | 1518 | Christine Filson |
@@ -180,14 +180,14 @@
 | 172 | 857 | Dana Fox |
 | 173 | 856 | Dana Winters |
 | 174 | 854 | Speedy Bridger |
-| 175 | 847 | Daring Brickzone |
-| 176 | 847 | Daira Largen |
+| 175 | 847 | Daira Largen |
+| 176 | 847 | Daring Brickzone |
 | 177 | 846 | Nicole Myers |
 | 178 | 845 | Edwin Calvillo Jr. |
 | 179 | 832 | Alexmac |
 | 180 | 829 | Patricia White |
-| 181 | 821 | Kammy Hill |
-| 182 | 821 | Angella Lyons |
+| 181 | 821 | Angella Lyons |
+| 182 | 821 | Kammy Hill |
 | 183 | 817 | Niki Dalrymple |
 | 184 | 815 | Justin Ritter |
 | 185 | 813 | JessDrown |
@@ -307,8 +307,8 @@
 | 299 | 540 | rosy |
 | 300 | 539 | Fancy Curver |
 | 301 | 539 | Kate M. Murdock |
-| 302 | 536 | Giddy Twistbuilder |
-| 303 | 536 | Shannon Matthew Byers |
+| 302 | 536 | Shannon Matthew Byers |
+| 303 | 536 | Giddy Twistbuilder |
 | 304 | 535 | kacihall |
 | 305 | 533 | BugMansMom |
 | 306 | 532 | Sarah Muradyan |
@@ -328,8 +328,8 @@
 | 320 | 499 | Rebecca Bailey |
 | 321 | 496 | Brenda Schmid Wood |
 | 322 | 495 | Daring Builder |
-| 323 | 494 | MCV |
-| 324 | 494 | fraulila |
+| 323 | 494 | fraulila |
+| 324 | 494 | MCV |
 | 325 | 492 | Tasha Wesson-Torrence |
 | 326 | 490 | Cassandra Bryant |
 | 327 | 489 | Isabel Ocasio |
@@ -355,8 +355,8 @@
 | 347 | 461 | Hyper Bridger |
 | 348 | 461 | Briana Wellman |
 | 349 | 460 | Antonia Russell |
-| 350 | 459 | TotoCherue |
-| 351 | 459 | Randy Clevenger |
+| 350 | 459 | Randy Clevenger |
+| 351 | 459 | TotoCherue |
 | 352 | 457 | Snippy Wipeout |
 | 353 | 456 | Kelly |
 | 354 | 456 | Cynthia Herrmann Egland |
@@ -375,8 +375,8 @@
 | 367 | 443 | Christian Werndl |
 | 368 | 442 | Loopy Fallzone |
 | 369 | 438 | Dannie Litchard |
-| 370 | 436 | Julie Fratrik |
-| 371 | 436 | AC Yeater |
+| 370 | 436 | AC Yeater |
+| 371 | 436 | Julie Fratrik |
 | 372 | 435 | Sabrina Hardrick |
 | 373 | 434 | Criss |
 | 374 | 432 | Hoppy Patternline |
@@ -401,11 +401,11 @@
 | 393 | 414 | RickyG |
 | 394 | 413 | Rick Poppen |
 | 395 | 411 | Beaudie Stroebel |
-| 396 | 409 | Rich LeBlanc |
-| 397 | 409 | Goofy Fall |
+| 396 | 409 | Goofy Fall |
+| 397 | 409 | Rich LeBlanc |
 | 398 | 409 | Roary Danner |
-| 399 | 408 | Ashley Muncey |
-| 400 | 408 | Tiffany Ford |
+| 399 | 408 | Tiffany Ford |
+| 400 | 408 | Ashley Muncey |
 | 401 | 407 | Christina Spa |
 | 402 | 406 | Kristen Weese |
 | 403 | 405 | Andrew Thorson |
@@ -1755,9 +1755,9 @@
 | 1747 | 94 | Amy Bast |
 | 1748 | 94 | Epic Fitzone |
 | 1749 | 94 | squarish |
-| 1750 | 94 | Giddy Dropzone |
-| 1751 | 94 | Trisha Lyn Lopez |
-| 1752 | 94 | Cassandra Johnson |
+| 1750 | 94 | Cassandra Johnson |
+| 1751 | 94 | Giddy Dropzone |
+| 1752 | 94 | Trisha Lyn Lopez |
 | 1753 | 93 | Kayla Galicia |
 | 1754 | 93 | Taylor Olson |
 | 1755 | 93 | Jumel Ruffin |
