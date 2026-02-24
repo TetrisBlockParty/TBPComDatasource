@@ -108,8 +108,8 @@
 | 100 | 846 | Christine Marie |
 | 101 | 840 | SAP |
 | 102 | 837 | Rica Mitchell |
-| 103 | 834 | Brittney Orengo |
-| 104 | 834 | quicksand420 |
+| 103 | 834 | quicksand420 |
+| 104 | 834 | Brittney Orengo |
 | 105 | 818 | Lori Walker |
 | 106 | 815 | Diana Houts |
 | 107 | 813 | Klo |
@@ -147,8 +147,8 @@
 | 139 | 667 | Lindsey Gonzalez |
 | 140 | 667 | Swanky Fitline |
 | 141 | 662 | Nerdy Twisterfit |
-| 142 | 661 | Rodney McMath Jr. |
-| 143 | 661 | shar |
+| 142 | 661 | shar |
+| 143 | 661 | Rodney McMath Jr. |
 | 144 | 651 | Adawna Swires |
 | 145 | 650 | Chris Hartig |
 | 146 | 649 | Angela Srubar-Norman |
@@ -320,8 +320,8 @@
 | 312 | 354 | Perky Piecegrid |
 | 313 | 354 | @ |
 | 314 | 352 | Kate |
-| 315 | 351 | Dana Scott |
-| 316 | 351 | Jackie Clark |
+| 315 | 351 | Jackie Clark |
+| 316 | 351 | Dana Scott |
 | 317 | 350 | Dizzy Matchzone |
 | 318 | 349 | Richard-April Kice |
 | 319 | 349 | jim |
@@ -405,8 +405,8 @@
 | 397 | 293 | Groovy Shiftspin |
 | 398 | 292 | Jumpy Zonepiece |
 | 399 | 292 | Epic Curvetile |
-| 400 | 291 | Malakai Darien Fox |
-| 401 | 291 | Ronald Brown Jr. |
+| 400 | 291 | Ronald Brown Jr. |
+| 401 | 291 | Malakai Darien Fox |
 | 402 | 291 | DQ Martin |
 | 403 | 290 | Amy Sanford |
 | 404 | 290 | Jared Gutwein |
