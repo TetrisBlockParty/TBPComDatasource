@@ -140,8 +140,8 @@
 | 132 | 598 | Jessi Sauer |
 | 133 | 593 | Maria C. Hernandez |
 | 134 | 591 | Giddy Cascade |
-| 135 | 589 | April Carroll |
-| 136 | 589 | Virginia Gray Floyd |
+| 135 | 589 | Virginia Gray Floyd |
+| 136 | 589 | April Carroll |
 | 137 | 582 | Hellsin |
 | 138 | 577 | Tiger Lily |
 | 139 | 575 | cc |
@@ -215,8 +215,8 @@
 | 207 | 432 | Lori Bales |
 | 208 | 431 | Shiny Snapfit |
 | 209 | 429 | Tana |
-| 210 | 427 | Jessie Welch |
-| 211 | 427 | Jessie Lynn |
+| 210 | 427 | Jessie Lynn |
+| 211 | 427 | Jessie Welch |
 | 212 | 426 | Betsy |
 | 213 | 425 | Tyler Werts |
 | 214 | 425 | Bindi |
@@ -328,8 +328,8 @@
 | 320 | 324 | Brave Wrecker |
 | 321 | 324 | Sylvia Vasquez |
 | 322 | 323 | Barrbaric |
-| 323 | 322 | Chris65 |
-| 324 | 322 | Christina Norman |
+| 323 | 322 | Christina Norman |
+| 324 | 322 | Chris65 |
 | 325 | 321 | LD1 |
 | 326 | 319 | Fresno Beotoni |
 | 327 | 319 | Crystal Cheresnowsky |

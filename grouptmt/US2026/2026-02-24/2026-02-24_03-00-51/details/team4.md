@@ -223,8 +223,8 @@
 | 215 | 448 | Mike Solo |
 | 216 | 447 | J-Rizzle |
 | 217 | 446 | Mr. Party |
-| 218 | 444 | Calvin Cannon |
-| 219 | 444 | Shiny Fit |
+| 218 | 444 | Shiny Fit |
+| 219 | 444 | Calvin Cannon |
 | 220 | 443 | Kristina Black |
 | 221 | 442 | Jen Mattei |
 | 222 | 442 | 🥔🥔 Spudz |
@@ -239,8 +239,8 @@
 | 231 | 430 | Plucky Patternblock |
 | 232 | 427 | Chao Ma |
 | 233 | 426 | John Brunetti |
-| 234 | 424 | Chris Bernstein |
-| 235 | 424 | Keshia Lyons |
+| 234 | 424 | Keshia Lyons |
+| 235 | 424 | Chris Bernstein |
 | 236 | 422 | Zakia Monae |
 | 237 | 421 | JIGsaw ~(•¿°)~ |
 | 238 | 419 | Silly Zonebuilder |
@@ -248,8 +248,8 @@
 | 240 | 413 | Jeff Brian Gates |
 | 241 | 411 | Autumn Kumzi |
 | 242 | 410 | Lindsay Ball |
-| 243 | 409 | Antony Dwayne Beasley |
-| 244 | 409 | Joseph Guthrie |
+| 243 | 409 | Joseph Guthrie |
+| 244 | 409 | Antony Dwayne Beasley |
 | 245 | 408 | Lauren Scott |
 | 246 | 406 | TinyLegoRose |
 | 247 | 400 | Brickh4us |
@@ -258,8 +258,8 @@
 | 250 | 397 | blasterB |
 | 251 | 397 | blockstar |
 | 252 | 396 | scott |
-| 253 | 395 | BigSammy420 |
-| 254 | 395 | 030Synner |
+| 253 | 395 | 030Synner |
+| 254 | 395 | BigSammy420 |
 | 255 | 394 | Nita Wells |
 | 256 | 392 | Neirrah B Olailjeel |
 | 257 | 391 | mike |
@@ -278,8 +278,8 @@
 | 270 | 376 | Nig |
 | 271 | 376 | Montiette Mcglown |
 | 272 | 374 | Chaz |
-| 273 | 370 | Cheery Risebuilder |
-| 274 | 370 | Kris Bartlett |
+| 273 | 370 | Kris Bartlett |
+| 274 | 370 | Cheery Risebuilder |
 | 275 | 369 | Matt Dell'Olio |
 | 276 | 367 | Meg |
 | 277 | 366 | Hyper Builder |
