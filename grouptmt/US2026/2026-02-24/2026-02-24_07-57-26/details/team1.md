@@ -47,8 +47,8 @@
 | 39 | 1411 | Snappy Swiper |
 | 40 | 1405 | Chipper Gridlock |
 | 41 | 1391 | Aaron Garnett |
-| 42 | 1334 | Tyler Alcock |
-| 43 | 1334 | june october |
+| 42 | 1334 | june october |
+| 43 | 1334 | Tyler Alcock |
 | 44 | 1325 | Drew Magnus |
 | 45 | 1305 | Michelle Nicole |
 | 46 | 1292 | Marianne Louise West |
@@ -65,8 +65,8 @@
 | 57 | 1173 | Adam Byrd |
 | 58 | 1170 | Tater |
 | 59 | 1150 | Cynthia Bradley |
-| 60 | 1137 | Jen Sartain |
-| 61 | 1137 | TSwag |
+| 60 | 1137 | TSwag |
+| 61 | 1137 | Jen Sartain |
 | 62 | 1127 | Andrea Dañielle Ortiz |
 | 63 | 1122 | Kristen Gideon |
 | 64 | 1117 | Shalene Frederick Autrey |
@@ -87,8 +87,8 @@
 | 79 | 994 | Lori Sanders- Davis |
 | 80 | 973 | Francesca Gee |
 | 81 | 961 | Jacqueline Williams |
-| 82 | 957 | Zippy Align |
-| 83 | 957 | Erin Hodges Plumb |
+| 82 | 957 | Erin Hodges Plumb |
+| 83 | 957 | Zippy Align |
 | 84 | 944 | Sweet Baker |
 | 85 | 920 | Tee Sheree |
 | 86 | 916 | Chirpy Smasher |
@@ -155,8 +155,8 @@
 | 147 | 598 | Jessi Sauer |
 | 148 | 593 | Giddy Cascade |
 | 149 | 587 | Deanna L Hermanson |
-| 150 | 586 | Tiger Lily |
-| 151 | 586 | Christy Jones |
+| 150 | 586 | Christy Jones |
+| 151 | 586 | Tiger Lily |
 | 152 | 582 | Hellsin |
 | 153 | 581 | Jennifer Hardman |
 | 154 | 574 | Bouncy Grid |
@@ -172,8 +172,8 @@
 | 164 | 547 | Sharon Reynolds |
 | 165 | 546 | Loony Fitzone |
 | 166 | 545 | .running. |
-| 167 | 543 | Adrian Esteban |
-| 168 | 543 | Nicole Roseberry Weber |
+| 167 | 543 | Nicole Roseberry Weber |
+| 168 | 543 | Adrian Esteban |
 | 169 | 542 | BadG52 |
 | 170 | 540 | Tonya Beasley |
 | 171 | 537 | Stephanie Zahn |
@@ -245,8 +245,8 @@
 | 237 | 424 | Emily Adelaide Wheatley |
 | 238 | 423 | Howdi Duty |
 | 239 | 422 | Jamise Brown |
-| 240 | 421 | Letson Melissa |
-| 241 | 421 | Plucky Stacky |
+| 240 | 421 | Plucky Stacky |
+| 241 | 421 | Letson Melissa |
 | 242 | 420 | Jennifer Noe Chandler |
 | 243 | 419 | John J. Cronin |
 | 244 | 419 | Daring Fitclear |
@@ -339,8 +339,8 @@
 | 331 | 337 | Chaste Minor |
 | 332 | 336 | Sarah Roberts |
 | 333 | 335 | Rachel Nilles |
-| 334 | 335 | Glitzy Curvebuilder |
-| 335 | 335 | Dreamy Drop |
+| 334 | 335 | Dreamy Drop |
+| 335 | 335 | Glitzy Curvebuilder |
 | 336 | 334 | Nate Price |
 | 337 | 331 | Lisa Miller |
 | 338 | 330 | Mandyy Rae |
@@ -351,15 +351,15 @@
 | 343 | 329 | Larry Tilton |
 | 344 | 329 | Sarah Marie |
 | 345 | 328 | Richard Corrado |
-| 346 | 327 | Christina Norman |
-| 347 | 327 | Gina Bettikofer |
+| 346 | 327 | Gina Bettikofer |
+| 347 | 327 | Christina Norman |
 | 348 | 326 | Jasmine Riley |
 | 349 | 325 | Mitchel White |
 | 350 | 325 | GringaLinga |
 | 351 | 324 | Brave Wrecker |
 | 352 | 323 | Nadine Velardo |
-| 353 | 322 | Hasty Columnbuilder |
-| 354 | 322 | Chris65 |
+| 353 | 322 | Chris65 |
+| 354 | 322 | Hasty Columnbuilder |
 | 355 | 321 | LD1 |
 | 356 | 320 | Zany Tiler |
 | 357 | 319 | Crystal Cheresnowsky |
@@ -400,10 +400,10 @@
 | 392 | 298 | Glitzy Buildsnap |
 | 393 | 297 | Billie Dawn Sparks |
 | 394 | 296 | Jeanna Dunn |
-| 395 | 295 | ESC |
-| 396 | 295 | Joe Coon |
-| 397 | 294 | Mary Love |
-| 398 | 294 | Наталья Солоид |
+| 395 | 295 | Joe Coon |
+| 396 | 295 | ESC |
+| 397 | 294 | Наталья Солоид |
+| 398 | 294 | Mary Love |
 | 399 | 293 | Sunny Pivotfall |
 | 400 | 292 | Mark Smith |
 | 401 | 292 | Clever Cascadepiece |
@@ -578,10 +578,10 @@
 | 570 | 219 | Negan Mallory Knoxx Spence |
 | 571 | 219 | MamaB24 |
 | 572 | 217 | Jamie Catlett |
-| 573 | 217 | Sarah Bersano |
-| 574 | 217 | Rikki Jo Creech |
-| 575 | 216 | Nicolette Ivory Chastain |
-| 576 | 216 | Shauntina Burke |
+| 573 | 217 | Rikki Jo Creech |
+| 574 | 217 | Sarah Bersano |
+| 575 | 216 | Shauntina Burke |
+| 576 | 216 | Nicolette Ivory Chastain |
 | 577 | 216 | Marqs Mel |
 | 578 | 215 | Spicy Rollfit |
 | 579 | 215 | Jenny Hughes |
@@ -601,8 +601,8 @@
 | 593 | 210 | Khatia Sikharulidze |
 | 594 | 209 | Lively Wipeout |
 | 595 | 209 | Beau Galvan |
-| 596 | 208 | Donna Addison Williams |
-| 597 | 208 | Jason Landon Sexton |
+| 596 | 208 | Jason Landon Sexton |
+| 597 | 208 | Donna Addison Williams |
 | 598 | 207 | Leslie Bush Yarbrough |
 | 599 | 206 | Mindy Gloska |
 | 600 | 206 | Angela Ellyson |

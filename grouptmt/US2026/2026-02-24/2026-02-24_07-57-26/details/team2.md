@@ -442,8 +442,8 @@
 | 434 | 1075 | SaraMarie Eveland |
 | 435 | 1074 | Diana Ayers |
 | 436 | 1073 | Jodi Blake |
-| 437 | 1071 | Kim Dean |
-| 438 | 1071 | Nashu |
+| 437 | 1071 | Nashu |
+| 438 | 1071 | Kim Dean |
 | 439 | 1068 | Tiffany Branham |
 | 440 | 1067 | Lourisha |
 | 441 | 1067 | Taylor Phillips |
@@ -456,8 +456,8 @@
 | 448 | 1049 | Giggly Snap |
 | 449 | 1048 | Sheronda Jackson |
 | 450 | 1043 | Brave Dropmatch |
-| 451 | 1042 | Matthew Barry |
-| 452 | 1042 | Spunkysmom |
+| 451 | 1042 | Spunkysmom |
+| 452 | 1042 | Matthew Barry |
 | 453 | 1041 | Crystal Hoffman |
 | 454 | 1037 | Steve Man |
 | 455 | 1036 | trabuco |
@@ -933,8 +933,8 @@
 | 925 | 612 | Goofy Catcher |
 | 926 | 612 | Marget Kay |
 | 927 | 611 | Robin L. Vial |
-| 928 | 611 | Roderick Allen |
-| 929 | 611 | Sharon Mills |
+| 928 | 611 | Sharon Mills |
+| 929 | 611 | Roderick Allen |
 | 930 | 611 | Tom Steffen |
 | 931 | 611 | Josh N Corrine |
 | 932 | 607 | Slip |
@@ -1376,7 +1376,7 @@
 | 1368 | 441 | Swanky Stacker |
 | 1369 | 441 | Nikki Eaton |
 | 1370 | 440 | Esther Hsu |
-| 1371 | 440 | Lauren Forlenza |
+| 1371 | 440 | Kelly Walters |
 | 1372 | 440 | Jackie Beddow |
 | 1373 | 440 | Lauren Forlenza |
 | 1374 | 439 | Chirpy Tilt |
@@ -3218,7 +3218,7 @@
 | 3210 | 225 | Fancy Chiseler |
 | 3211 | 225 | Ryan Ennis |
 | 3212 | 225 | Samantha Morgan |
-| 3213 | 225 | Joshua Carl |
+| 3213 | 225 | Jade E. Leigh Vaudrin |
 | 3214 | 225 | Jennifer Hackmann |
 | 3215 | 225 | Joshua Carl |
 | 3216 | 225 | Susie Bolin |

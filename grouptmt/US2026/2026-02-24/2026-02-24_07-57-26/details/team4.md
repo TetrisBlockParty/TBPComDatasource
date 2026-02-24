@@ -41,8 +41,8 @@
 | 33 | 1631 | Goatimus Lombardi |
 | 34 | 1619 | Isabella Blanco |
 | 35 | 1571 | Koshin Abdirahman |
-| 36 | 1535 | Dawn Alexander |
-| 37 | 1535 | Rebecca Moulton Pinciaro |
+| 36 | 1535 | Rebecca Moulton Pinciaro |
+| 37 | 1535 | Dawn Alexander |
 | 38 | 1518 | Cherrish Duren |
 | 39 | 1507 | A5! |
 | 40 | 1504 | LS |
@@ -72,8 +72,8 @@
 | 64 | 1101 | Denia Deni |
 | 65 | 1094 | Shelly Chandler |
 | 66 | 1089 | Alyssa Papen |
-| 67 | 1082 | Dion Crommarty |
-| 68 | 1082 | Avy Absol |
+| 67 | 1082 | Avy Absol |
+| 68 | 1082 | Dion Crommarty |
 | 69 | 1081 | Dustee Craddock-Harrison |
 | 70 | 1080 | Chilly Line |
 | 71 | 1069 | Heather Tushner |
@@ -100,8 +100,8 @@
 | 92 | 878 | Lucille Truesdale |
 | 93 | 873 | Courtney Cicoria |
 | 94 | 869 | Judy Cox |
-| 95 | 864 | Samantha Peterson |
-| 96 | 864 | Guy Incognito |
+| 95 | 864 | Guy Incognito |
+| 96 | 864 | Samantha Peterson |
 | 97 | 854 | Shauna Havard |
 | 98 | 851 | Jason Hart |
 | 99 | 846 | Christine Marie |
@@ -113,8 +113,8 @@
 | 105 | 813 | Klo |
 | 106 | 811 | Sassy Pattern |
 | 107 | 806 | Lori Walker |
-| 108 | 802 | Crystal Carroll |
-| 109 | 802 | Denise Carlson |
+| 108 | 802 | Denise Carlson |
+| 109 | 802 | Crystal Carroll |
 | 110 | 801 | D3TROITB0RN74 |
 | 111 | 798 | Jewell Urban |
 | 112 | 784 | TheNeesh50 |
@@ -122,8 +122,8 @@
 | 114 | 779 | Nope Young |
 | 115 | 776 | Savannah Overdorf |
 | 116 | 768 | Trista Leah |
-| 117 | 766 | Zippy Gridlock |
-| 118 | 766 | Robin Watters |
+| 117 | 766 | Robin Watters |
+| 118 | 766 | Zippy Gridlock |
 | 119 | 764 | Valerie Roberts |
 | 120 | 754 | Chris Alexinas |
 | 121 | 742 | Sam Bishop |
@@ -137,8 +137,8 @@
 | 129 | 712 | Leslie Nicole |
 | 130 | 712 | H.R. Block |
 | 131 | 708 | Jacqueline Helm |
-| 132 | 704 | Chilly Crasher |
-| 133 | 704 | Austin Owens |
+| 132 | 704 | Austin Owens |
+| 133 | 704 | Chilly Crasher |
 | 134 | 682 | Raegan Lane-Ross |
 | 135 | 668 | Desi Desporte |
 | 136 | 667 | Swanky Fitline |
@@ -207,13 +207,13 @@
 | 199 | 513 | Milan Markeisha |
 | 200 | 513 | Zesty Twistbuilder |
 | 201 | 512 | ThaEviLJeNiuZ |
-| 202 | 512 | Ellen Durfee |
-| 203 | 512 | Casey Jeffcoat |
+| 202 | 512 | Casey Jeffcoat |
+| 203 | 512 | Ellen Durfee |
 | 204 | 509 | Mimi |
 | 205 | 507 | Andria Lynn |
 | 206 | 504 | Deanna Deckard |
-| 207 | 502 | Christina Black |
-| 208 | 502 | Ericca Eldridge |
+| 207 | 502 | Ericca Eldridge |
+| 208 | 502 | Christina Black |
 | 209 | 501 | Sharyn Lemire |
 | 210 | 499 | Kesha Brady |
 | 211 | 496 | Jessica Bohlken |
@@ -225,16 +225,16 @@
 | 217 | 482 | Laura |
 | 218 | 481 | Joanna |
 | 219 | 475 | Silly Zonebuilder |
-| 220 | 473 | Cranky Rollpiece |
-| 221 | 473 | Jolly Dashfit |
+| 220 | 473 | Jolly Dashfit |
+| 221 | 473 | Cranky Rollpiece |
 | 222 | 472 | Plucky Patternblock |
 | 223 | 468 | June Hoffman |
 | 224 | 465 | Leslie Thomas |
 | 225 | 464 | Zakia Monae |
 | 226 | 463 | shark tato |
 | 227 | 462 | Crystal Nicolette Moore |
-| 228 | 460 | Calvin Cannon |
-| 229 | 460 | Kathy Brookins |
+| 228 | 460 | Kathy Brookins |
+| 229 | 460 | Calvin Cannon |
 | 230 | 458 | Luis Martinez |
 | 231 | 458 | Kristina Black |
 | 232 | 457 | J-Rizzle |
@@ -265,8 +265,8 @@
 | 257 | 421 | JIGsaw ~(•¿°)~ |
 | 258 | 419 | Hyper Matchclear |
 | 259 | 413 | Rio Rocha |
-| 260 | 411 | TinyLegoRose |
-| 261 | 411 | Autumn Kumzi |
+| 260 | 411 | Autumn Kumzi |
+| 261 | 411 | TinyLegoRose |
 | 262 | 410 | Lindsay Ball |
 | 263 | 409 | Antony Dwayne Beasley |
 | 264 | 409 | Bio Nelly |
@@ -315,8 +315,8 @@
 | 307 | 354 | Perky Piecegrid |
 | 308 | 354 | @ |
 | 309 | 352 | Kate |
-| 310 | 351 | Jackie Clark |
-| 311 | 351 | Dana Scott |
+| 310 | 351 | Dana Scott |
+| 311 | 351 | Jackie Clark |
 | 312 | 350 | Dizzy Matchzone |
 | 313 | 349 | Richard-April Kice |
 | 314 | 349 | jim |
@@ -326,8 +326,8 @@
 | 318 | 347 | Daria Rycewicz |
 | 319 | 346 | Metsfan |
 | 320 | 344 | Amanda Maciel Clarke |
-| 321 | 343 | HastyGrabber |
-| 322 | 343 | Blessedmama |
+| 321 | 343 | Blessedmama |
+| 322 | 343 | HastyGrabber |
 | 323 | 342 | Lauren Lamb |
 | 324 | 341 | Jason Bosco |
 | 325 | 340 | Juls |
@@ -350,8 +350,8 @@
 | 342 | 327 | Jessica Petersen |
 | 343 | 327 | Jim Hart |
 | 344 | 325 | Cool Gridzone |
-| 345 | 324 | Sarah Hoffman |
-| 346 | 324 | Vic |
+| 345 | 324 | Vic |
+| 346 | 324 | Sarah Hoffman |
 | 347 | 322 | Bryan Hodgins |
 | 348 | 321 | Sarah Brown |
 | 349 | 321 | Stacey Stano |
@@ -428,10 +428,10 @@
 | 420 | 273 | Lane Wasson |
 | 421 | 272 | ChuckBuck Copeland |
 | 422 | 271 | ImJustMe |
-| 423 | 270 | 07VHVW |
-| 424 | 270 | Stephme310 |
-| 425 | 268 | Sallie Sanborn |
-| 426 | 268 | Riverdale |
+| 423 | 270 | Stephme310 |
+| 424 | 270 | 07VHVW |
+| 425 | 268 | Riverdale |
+| 426 | 268 | Sallie Sanborn |
 | 427 | 266 | Happy Combo |
 | 428 | 266 | ĥuf |
 | 429 | 265 | Degenerate |
