@@ -154,8 +154,8 @@
 | 146 | 875 | Chasity |
 | 147 | 874 | Jessica Pineda-Lopez |
 | 148 | 873 | BadManSheLove |
-| 149 | 868 | Cranky Gridder |
-| 150 | 868 | Felicia Rocha |
+| 149 | 868 | Felicia Rocha |
+| 150 | 868 | Cranky Gridder |
 | 151 | 868 | Nicole Flippo |
 | 152 | 864 | Sunny Rotater |
 | 153 | 860 | Demetrious Shaw Sr. |
@@ -264,8 +264,8 @@
 | 256 | 541 | Sherry Ogden |
 | 257 | 540 | France Vézina |
 | 258 | 540 | Danielle Allison |
-| 259 | 539 | Swanky Snapclear |
-| 260 | 539 | Hyper Matchzone |
+| 259 | 539 | Hyper Matchzone |
+| 260 | 539 | Swanky Snapclear |
 | 261 | 539 | Betty Bóò |
 | 262 | 539 | Aerian Preston |
 | 263 | 537 | Tamara Deherrera |
@@ -294,8 +294,8 @@
 | 286 | 498 | Chummy Caster |
 | 287 | 497 | Rebecca Bailey |
 | 288 | 495 | Marci Mize Fandrich |
-| 289 | 494 | MCV |
-| 290 | 494 | Megan Rathmanner |
+| 289 | 494 | Megan Rathmanner |
+| 290 | 494 | MCV |
 | 291 | 490 | thekey |
 | 292 | 484 | Daring Builder |
 | 293 | 482 | Chummy Rumbler |
@@ -317,8 +317,8 @@
 | 309 | 462 | Sleepy |
 | 310 | 461 | Tom Nault |
 | 311 | 458 | Danielle Rhoades |
-| 312 | 456 | Brenda Schmid Wood |
-| 313 | 456 | Cynthia Herrmann Egland |
+| 312 | 456 | Cynthia Herrmann Egland |
+| 313 | 456 | Brenda Schmid Wood |
 | 314 | 451 | Charles Perrone |
 | 315 | 450 | Antonia Russell |
 | 316 | 449 | Stefanie LaPointe |
@@ -396,8 +396,8 @@
 | 388 | 368 | Stephanie Woods |
 | 389 | 368 | Dannie Litchard |
 | 390 | 368 | Sheila M Frazier |
-| 391 | 368 | Nikki Pags |
-| 392 | 368 | Skinny Baldez |
+| 391 | 368 | Skinny Baldez |
+| 392 | 368 | Nikki Pags |
 | 393 | 366 | Rick Poppen |
 | 394 | 365 | Romeo |
 | 395 | 362 | Geoffrey Nash |
