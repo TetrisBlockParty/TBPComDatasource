@@ -108,8 +108,8 @@
 | 100 | 846 | Christine Marie |
 | 101 | 840 | SAP |
 | 102 | 837 | Rica Mitchell |
-| 103 | 834 | Brittney Orengo |
-| 104 | 834 | quicksand420 |
+| 103 | 834 | quicksand420 |
+| 104 | 834 | Brittney Orengo |
 | 105 | 818 | Lori Walker |
 | 106 | 815 | Diana Houts |
 | 107 | 813 | Klo |
@@ -135,8 +135,8 @@
 | 127 | 726 | Jamie Gustafson |
 | 128 | 725 | Brandon Crabbs |
 | 129 | 719 | George Nutt |
-| 130 | 712 | H.R. Block |
-| 131 | 712 | Leslie Nicole |
+| 130 | 712 | Leslie Nicole |
+| 131 | 712 | H.R. Block |
 | 132 | 708 | Jacqueline Helm |
 | 133 | 704 | Austin Owens |
 | 134 | 704 | Chilly Crasher |
@@ -157,8 +157,8 @@
 | 149 | 638 | Porkobello |
 | 150 | 635 | Kim Hunt |
 | 151 | 634 | Carrie Brian |
-| 152 | 633 | Adam Stephanie Parker |
-| 153 | 633 | Jessica Lynn Cutlip |
+| 152 | 633 | Jessica Lynn Cutlip |
+| 153 | 633 | Adam Stephanie Parker |
 | 154 | 629 | Chris Baggett |
 | 155 | 623 | ku5hkween |
 | 156 | 622 | Ernest Maxwell |
@@ -177,15 +177,15 @@
 | 169 | 576 | Jade Rian |
 | 170 | 575 | Jenna Ingersoll |
 | 171 | 573 | Rico |
-| 172 | 571 | Rebecca Morris |
-| 173 | 571 | Andy Cabral |
+| 172 | 571 | Andy Cabral |
+| 173 | 571 | Rebecca Morris |
 | 174 | 568 | Cindy Looper |
 | 175 | 565 | Ren Mc |
 | 176 | 561 | Steph Marie |
 | 177 | 560 | Chastity Mitchell |
 | 178 | 558 | Marie-Pier Desjardins |
-| 179 | 552 | Circuit8 |
-| 180 | 552 | Angel Raya |
+| 179 | 552 | Angel Raya |
+| 180 | 552 | Circuit8 |
 | 181 | 550 | James Hurley Jr. |
 | 182 | 549 | Cool Towerbuilder |
 | 183 | 546 | Dizzy Tiley |
@@ -231,8 +231,8 @@
 | 223 | 481 | Joanna |
 | 224 | 479 | June Hoffman |
 | 225 | 475 | Silly Zonebuilder |
-| 226 | 473 | Cranky Rollpiece |
-| 227 | 473 | Jolly Dashfit |
+| 226 | 473 | Jolly Dashfit |
+| 227 | 473 | Cranky Rollpiece |
 | 228 | 472 | Plucky Patternblock |
 | 229 | 465 | Leslie Thomas |
 | 230 | 464 | Calvin Cannon |
@@ -240,8 +240,8 @@
 | 232 | 463 | shark tato |
 | 233 | 462 | Crystal Nicolette Moore |
 | 234 | 460 | Kathy Brookins |
-| 235 | 458 | Kristina Black |
-| 236 | 458 | Luis Martinez |
+| 235 | 458 | Luis Martinez |
+| 236 | 458 | Kristina Black |
 | 237 | 457 | Kristin Manee |
 | 238 | 457 | J-Rizzle |
 | 239 | 455 | Michele Plunkett |
@@ -249,8 +249,8 @@
 | 241 | 454 | Keshia Lyons |
 | 242 | 450 | Genne Scott |
 | 243 | 449 | Danielle Kollias |
-| 244 | 448 | Mike Solo |
-| 245 | 448 | Mr. Party |
+| 244 | 448 | Mr. Party |
+| 245 | 448 | Mike Solo |
 | 246 | 447 | Jen Mattei |
 | 247 | 444 | Selena Shaw |
 | 248 | 442 | John Brunetti |
@@ -293,8 +293,8 @@
 | 285 | 393 | Montiette Mcglown |
 | 286 | 392 | Neirrah B Olailjeel |
 | 287 | 390 | Ari Droff |
-| 288 | 387 | Sandra Safford |
-| 289 | 387 | Backoff Recupe |
+| 288 | 387 | Backoff Recupe |
+| 289 | 387 | Sandra Safford |
 | 290 | 386 | Vic |
 | 291 | 382 | Sue Joyce Staats |
 | 292 | 380 | Chaz |
@@ -398,8 +398,8 @@
 | 390 | 300 | Carter Jones |
 | 391 | 299 | Michael Snow |
 | 392 | 298 | Val Erie |
-| 393 | 297 | Allison Rose |
-| 394 | 297 | Brittany Marsh |
+| 393 | 297 | Brittany Marsh |
+| 394 | 297 | Allison Rose |
 | 395 | 295 | Deb Rubeck |
 | 396 | 294 | BootsMcGee |
 | 397 | 293 | Groovy Shiftspin |
@@ -430,11 +430,11 @@
 | 422 | 280 | Chummy Towerzone |
 | 423 | 280 | Frances Hui |
 | 424 | 279 | Ziggy |
-| 425 | 278 | L Bear Champion |
-| 426 | 278 | Shainne Brewer |
-| 427 | 277 | Jess Reyes |
+| 425 | 278 | Shainne Brewer |
+| 426 | 278 | L Bear Champion |
+| 427 | 277 | Silly SeaWeed |
 | 428 | 277 | Maria Hammie |
-| 429 | 277 | Silly SeaWeed |
+| 429 | 277 | Jess Reyes |
 | 430 | 276 | Dennis Bradley |
 | 431 | 275 | Jarred Falls |
 | 432 | 274 | Kourtney Barnes |
