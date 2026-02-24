@@ -848,8 +848,8 @@
 | 840 | 625 | Kacee Conrad Bock |
 | 841 | 624 | Elizabeth Perterson |
 | 842 | 623 | cornball |
-| 843 | 623 | Luke Califf |
-| 844 | 623 | Victor Obiakarije |
+| 843 | 623 | Victor Obiakarije |
+| 844 | 623 | Luke Califf |
 | 845 | 622 | Ben Barkley |
 | 846 | 622 | Ryan Meilleur |
 | 847 | 621 | Taren Cowan |
