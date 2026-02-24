@@ -44,8 +44,8 @@
 | 36 | 1413 | Trippy Redd |
 | 37 | 1405 | Chipper Gridlock |
 | 38 | 1391 | Aaron Garnett |
-| 39 | 1334 | june october |
-| 40 | 1334 | Tyler Alcock |
+| 39 | 1334 | Tyler Alcock |
+| 40 | 1334 | june october |
 | 41 | 1277 | Marianne Louise West |
 | 42 | 1250 | Stef Hu |
 | 43 | 1239 | Brenda Stewart |
@@ -109,8 +109,8 @@
 | 101 | 706 | Denice Dee |
 | 102 | 706 | Plucky Fallzone |
 | 103 | 703 | Angel Fowler |
-| 104 | 691 | Krista Young |
-| 105 | 691 | Rachael |
+| 104 | 691 | Rachael |
+| 105 | 691 | Krista Young |
 | 106 | 690 | Melissa Lemmon |
 | 107 | 672 | Tdub |
 | 108 | 671 | Chirpy Smasher |
@@ -201,8 +201,8 @@
 | 193 | 442 | Kimmie Kimms |
 | 194 | 441 | Kimberly Garcia |
 | 195 | 437 | David Miller |
-| 196 | 432 | Lori Bales |
-| 197 | 432 | Elaine Elaine |
+| 196 | 432 | Elaine Elaine |
+| 197 | 432 | Lori Bales |
 | 198 | 431 | Shiny Snapfit |
 | 199 | 429 | Tana |
 | 200 | 427 | Teri Oehlke |

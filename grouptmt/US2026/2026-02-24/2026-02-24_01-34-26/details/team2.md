@@ -238,8 +238,8 @@
 | 230 | 1553 | Wendy Unsain |
 | 231 | 1552 | Cheeky Balancepiece |
 | 232 | 1543 | Alyssa Nadine Medelez |
-| 233 | 1509 | Stacey Clement |
-| 234 | 1509 | Whitney Nicole Waterman |
+| 233 | 1509 | Whitney Nicole Waterman |
+| 234 | 1509 | Stacey Clement |
 | 235 | 1507 | Kiok |
 | 236 | 1498 | Binyah-Binyah |
 | 237 | 1498 | Isabela Shaw |
@@ -279,8 +279,8 @@
 | 271 | 1351 | Ashie Ann |
 | 272 | 1351 | Denisha Dawkins |
 | 273 | 1348 | Sarah Freitas |
-| 274 | 1342 | Groovy Puzzle |
-| 275 | 1342 | Kelly A Green-Leach |
+| 274 | 1342 | Kelly A Green-Leach |
+| 275 | 1342 | Groovy Puzzle |
 | 276 | 1341 | Moose Griffith |
 | 277 | 1341 | Cassie Mercer |
 | 278 | 1340 | Ryan Stadel |
@@ -289,8 +289,8 @@
 | 281 | 1331 | Christina Walker |
 | 282 | 1330 | Ann Knutson Anderson |
 | 283 | 1319 | Joshua Sommerville |
-| 284 | 1315 | Desiree Anderson |
-| 285 | 1315 | Lucky Ladybug |
+| 284 | 1315 | Lucky Ladybug |
+| 285 | 1315 | Desiree Anderson |
 | 286 | 1312 | Tinishia Amie |
 | 287 | 1309 | Nicole L Morelli |
 | 288 | 1308 | Ronnie Nelson |
