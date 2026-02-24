@@ -258,8 +258,8 @@
 | 250 | 541 | Sherry Ogden |
 | 251 | 540 | France Vézina |
 | 252 | 540 | Danielle Allison |
-| 253 | 539 | Betty Bóò |
-| 254 | 539 | Aerian Preston |
+| 253 | 539 | Aerian Preston |
+| 254 | 539 | Betty Bóò |
 | 255 | 537 | Tamara Deherrera |
 | 256 | 536 | Shannon Matthew Byers |
 | 257 | 535 | kacihall |

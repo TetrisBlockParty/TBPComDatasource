@@ -124,8 +124,8 @@
 | 116 | 682 | Raegan Lane-Ross |
 | 117 | 675 | Chris Alexinas |
 | 118 | 673 | Jacqueline Helm |
-| 119 | 667 | Amy Suckarieh |
-| 120 | 667 | Lindsey Gonzalez |
+| 119 | 667 | Lindsey Gonzalez |
+| 120 | 667 | Amy Suckarieh |
 | 121 | 664 | Leslie Nicole |
 | 122 | 659 | Jamie Gustafson |
 | 123 | 658 | Zippy Gridlock |
@@ -210,8 +210,8 @@
 | 202 | 450 | Amanda Pauldo-Ivy |
 | 203 | 449 | Courtney Cicoria |
 | 204 | 448 | Kesha Brady |
-| 205 | 444 | J-Rizzle |
-| 206 | 444 | Mylo Lipscomb |
+| 205 | 444 | Mylo Lipscomb |
+| 206 | 444 | J-Rizzle |
 | 207 | 443 | Kristina Black |
 | 208 | 442 | 🥔🥔 Spudz |
 | 209 | 441 | Lush Linkfall |

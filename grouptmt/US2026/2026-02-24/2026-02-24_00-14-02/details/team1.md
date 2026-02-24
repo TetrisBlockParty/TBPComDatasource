@@ -105,8 +105,8 @@
 | 97 | 744 | Greg Hart |
 | 98 | 737 | Karin Gillen |
 | 99 | 722 | Kellie |
-| 100 | 706 | Denice Dee |
-| 101 | 706 | Plucky Fallzone |
+| 100 | 706 | Plucky Fallzone |
+| 101 | 706 | Denice Dee |
 | 102 | 703 | Angel Fowler |
 | 103 | 691 | Rachael |
 | 104 | 683 | Melissa Lemmon |
@@ -117,8 +117,8 @@
 | 109 | 648 | Evie Khalil |
 | 110 | 642 | Mario Cab |
 | 111 | 633 | Krista Young |
-| 112 | 626 | Debbie Kane |
-| 113 | 626 | Damon J. Martin |
+| 112 | 626 | Damon J. Martin |
+| 113 | 626 | Debbie Kane |
 | 114 | 612 | femmefatale |
 | 115 | 604 | Ryan Lunnin |
 | 116 | 603 | Ty Brown |
