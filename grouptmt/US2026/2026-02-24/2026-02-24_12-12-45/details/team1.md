@@ -394,8 +394,8 @@
 | 386 | 313 | Delvison Rosario |
 | 387 | 312 | Diane Byrd |
 | 388 | 312 | Nicole Meredith Flynn |
-| 389 | 311 | Chummy Rollblock |
-| 390 | 311 | Rico Rico |
+| 389 | 311 | Rico Rico |
+| 390 | 311 | Chummy Rollblock |
 | 391 | 311 | John Ramirez |
 | 392 | 310 | Marci Sanders |
 | 393 | 309 | Isaiah |

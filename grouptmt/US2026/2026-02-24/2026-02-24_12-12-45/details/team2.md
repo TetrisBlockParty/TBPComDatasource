@@ -317,8 +317,8 @@
 | 309 | 1381 | Christie |
 | 310 | 1381 | Dapper Dasher |
 | 311 | 1380 | Jerilyn Andrina |
-| 312 | 1376 | Megan Brianna |
-| 313 | 1376 | Kevin Sees |
+| 312 | 1376 | Kevin Sees |
+| 313 | 1376 | Megan Brianna |
 | 314 | 1374 | Sarah Berger |
 | 315 | 1362 | Angie Marie |
 | 316 | 1357 | Tanya Parsons |
@@ -333,8 +333,8 @@
 | 325 | 1342 | Groovy Puzzle |
 | 326 | 1342 | Kelly A Green-Leach |
 | 327 | 1341 | Cassie Mercer |
-| 328 | 1338 | Meghan M |
-| 329 | 1338 | Diallo Sparkman |
+| 328 | 1338 | Diallo Sparkman |
+| 329 | 1338 | Meghan M |
 | 330 | 1336 | Frothy Rumbler |
 | 331 | 1334 | Jamie Otero |
 | 332 | 1333 | nikki |
@@ -344,8 +344,8 @@
 | 336 | 1319 | Joshua Sommerville |
 | 337 | 1315 | Desiree Anderson |
 | 338 | 1313 | Jermaine Harris |
-| 339 | 1308 | Snappy Matchbuilder |
-| 340 | 1308 | Laura Morrison |
+| 339 | 1308 | Laura Morrison |
+| 340 | 1308 | Snappy Matchbuilder |
 | 341 | 1308 | Christina Lewis-Vickers |
 | 342 | 1305 | Roman Lavochnik |
 | 343 | 1304 | Sarah Ridenour |
@@ -364,8 +364,8 @@
 | 356 | 1262 | Toni Roberson |
 | 357 | 1261 | Becca Coronado |
 | 358 | 1259 | AkaLefty |
-| 359 | 1257 | Megan Garrick |
-| 360 | 1257 | Megan Ferguson Leone |
+| 359 | 1257 | Megan Ferguson Leone |
+| 360 | 1257 | Megan Garrick |
 | 361 | 1257 | Jackie Lucas |
 | 362 | 1256 | Belle |
 | 363 | 1256 | Phil J. Grombliniak |
@@ -541,7 +541,7 @@
 | 533 | 947 | Jennifer Leigh |
 | 534 | 946 | Crystal Greene |
 | 535 | 946 | Nicky Jackson |
-| 536 | 946 | Crystal Greene |
+| 536 | 946 | Heather Schelkopf |
 | 537 | 945 | Kassandra Hunt |
 | 538 | 943 | Nat |
 | 539 | 942 | Toni Lynn |
@@ -626,9 +626,9 @@
 | 618 | 837 | Deyawn Smith |
 | 619 | 837 | Julio A Laracuente |
 | 620 | 836 | James Simms III |
-| 621 | 835 | Jo Nicole |
+| 621 | 835 | TJ Nash |
 | 622 | 835 | Diane P. Richardson |
-| 623 | 835 | TJ Nash |
+| 623 | 835 | Jo Nicole |
 | 624 | 834 | Montez Mancil |
 | 625 | 834 | Tracy Cowley |
 | 626 | 834 | NanDa Cruzan VI |
@@ -804,8 +804,8 @@
 | 796 | 696 | EMH |
 | 797 | 695 | DLOCC1056 |
 | 798 | 694 | Lyndi Robinson Wakefield |
-| 799 | 694 | Courtney Burcham |
-| 800 | 694 | Rackemwillie34 |
+| 799 | 694 | Rackemwillie34 |
+| 800 | 694 | Courtney Burcham |
 | 801 | 693 | Nessie Zamora |
 | 802 | 692 | LuckyChopstix |
 | 803 | 692 | SwampRebel |
@@ -938,8 +938,8 @@
 | 930 | 625 | Brenda Annabel Smith |
 | 931 | 624 | Brett Addison Jr. |
 | 932 | 624 | Elizabeth Perterson |
-| 933 | 622 | Michael Artis |
-| 934 | 622 | Ryan Meilleur |
+| 933 | 622 | Ryan Meilleur |
+| 934 | 622 | Michael Artis |
 | 935 | 622 | Ben Barkley |
 | 936 | 621 | Moua Ying |
 | 937 | 621 | Kitybox |

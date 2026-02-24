@@ -70,8 +70,8 @@
 | 62 | 1858 | Kristie McFarland |
 | 63 | 1836 | Tina Kay |
 | 64 | 1825 | Nora Rogers |
-| 65 | 1824 | Jessica Ann |
-| 66 | 1824 | Nate Burnside |
+| 65 | 1824 | Nate Burnside |
+| 66 | 1824 | Jessica Ann |
 | 67 | 1791 | Leah Barnett |
 | 68 | 1776 | Whitney Manuel |
 | 69 | 1774 | Liv Whetson |
@@ -179,8 +179,8 @@
 | 171 | 875 | Chasity |
 | 172 | 874 | Jessica Pineda-Lopez |
 | 173 | 871 | Rochelle Hazelett |
-| 174 | 868 | Cranky Gridder |
-| 175 | 868 | Nicole Flippo |
+| 174 | 868 | Nicole Flippo |
+| 175 | 868 | Cranky Gridder |
 | 176 | 866 | Domo Washington |
 | 177 | 864 | Sunny Rotater |
 | 178 | 862 | Santeria Trece Candles |
@@ -235,8 +235,8 @@
 | 227 | 721 | Karon Griffin |
 | 228 | 714 | Jenny Hrndz |
 | 229 | 713 | Stephanie Blkpep Davidson |
-| 230 | 709 | Cynthia Castros-Hampton |
-| 231 | 709 | Christine Niles |
+| 230 | 709 | Christine Niles |
+| 231 | 709 | Cynthia Castros-Hampton |
 | 232 | 708 | Stephanie Bradley |
 | 233 | 707 | Snappy Balancer |
 | 234 | 705 | Jackie Miller |
@@ -287,8 +287,8 @@
 | 279 | 600 | Natasha Jones |
 | 280 | 594 | Cozy Snaplink |
 | 281 | 591 | Crystal Hine |
-| 282 | 586 | Brian Battjes |
-| 283 | 586 | Donna |
+| 282 | 586 | Donna |
+| 283 | 586 | Brian Battjes |
 | 284 | 584 | Michael Johnson |
 | 285 | 583 | Michael Lucado |
 | 286 | 582 | FuzzyNavel |
@@ -407,14 +407,14 @@
 | 399 | 426 | Christina Rotz Shows |
 | 400 | 425 | Angel Miller |
 | 401 | 425 | Ava Petito |
-| 402 | 419 | Desiree Gold |
-| 403 | 419 | Philip Rock |
+| 402 | 419 | Philip Rock |
+| 403 | 419 | Desiree Gold |
 | 404 | 419 | Maggie |
 | 405 | 418 | Rainbow77375 |
 | 406 | 417 | Krish Shah |
 | 407 | 416 | Tay |
-| 408 | 414 | Arden White Kirsch |
-| 409 | 414 | Michelle Allers |
+| 408 | 414 | Michelle Allers |
+| 409 | 414 | Arden White Kirsch |
 | 410 | 413 | Rick Poppen |
 | 411 | 411 | Beaudie Stroebel |
 | 412 | 409 | Rich LeBlanc |
@@ -1984,7 +1984,7 @@
 | 1976 | 77 | Monica Miller |
 | 1977 | 77 | Abigail Gonzalez |
 | 1978 | 76 | Twisty Brickclear |
-| 1979 | 76 | Richard |
+| 1979 | 76 | Cindy McCale |
 | 1980 | 76 | Frisky Tilefall |
 | 1981 | 76 | Richard |
 | 1982 | 76 | Nikki EightySixed |

@@ -117,8 +117,8 @@
 | 109 | 811 | Sassy Pattern |
 | 110 | 806 | Zippy Gridlock |
 | 111 | 805 | Mylo Lipscomb |
-| 112 | 802 | Crystal Carroll |
-| 113 | 802 | Denise Carlson |
+| 112 | 802 | Denise Carlson |
+| 113 | 802 | Crystal Carroll |
 | 114 | 801 | D3TROITB0RN74 |
 | 115 | 798 | Jewell Urban |
 | 116 | 784 | TheNeesh50 |
@@ -149,8 +149,8 @@
 | 141 | 667 | Matt Gooder |
 | 142 | 667 | Lindsey Gonzalez |
 | 143 | 662 | Nerdy Twisterfit |
-| 144 | 661 | Rodney McMath Jr. |
-| 145 | 661 | shar |
+| 144 | 661 | shar |
+| 145 | 661 | Rodney McMath Jr. |
 | 146 | 651 | Adawna Swires |
 | 147 | 650 | April Rondinone |
 | 148 | 650 | Chris Hartig |
@@ -218,8 +218,8 @@
 | 210 | 508 | June Hoffman |
 | 211 | 507 | Andria Lynn |
 | 212 | 504 | Deanna Deckard |
-| 213 | 502 | Ericca Eldridge |
-| 214 | 502 | Christina Black |
+| 213 | 502 | Christina Black |
+| 214 | 502 | Ericca Eldridge |
 | 215 | 501 | Sharyn Lemire |
 | 216 | 499 | Kesha Brady |
 | 217 | 497 | Damn Libra |
@@ -461,9 +461,9 @@
 | 453 | 264 | Chantilly Laace |
 | 454 | 264 | Bussy Bay |
 | 455 | 263 | Laurmarcar |
-| 456 | 262 | Ruben Wheeler |
+| 456 | 262 | Walter Beltran |
 | 457 | 262 | Lilya Troutman |
-| 458 | 262 | Walter Beltran |
+| 458 | 262 | Ruben Wheeler |
 | 459 | 261 | Jen Hallin |
 | 460 | 261 | Laura McPheeters |
 | 461 | 260 | PennyCandee |
@@ -505,7 +505,7 @@
 | 497 | 244 | Amanda Christine |
 | 498 | 244 | Elizabeth Tinoco |
 | 499 | 244 | Penny Dean |
-| 500 | 244 | Elizabeth Tinoco |
+| 500 | 244 | Steve Sperino |
 | 501 | 243 | Jackie Marie |
 | 502 | 242 | PurpleMoonMa |
 | 503 | 242 | Badatvs |
