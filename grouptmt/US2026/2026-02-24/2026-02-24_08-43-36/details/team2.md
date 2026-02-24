@@ -399,8 +399,8 @@
 | 391 | 1170 | Shelley Thornburgh Wright |
 | 392 | 1167 | Min |
 | 393 | 1164 | DefaultUser |
-| 394 | 1163 | Caitlin Schmid |
-| 395 | 1163 | Sarah DeHart |
+| 394 | 1163 | Sarah DeHart |
+| 395 | 1163 | Caitlin Schmid |
 | 396 | 1160 | Maricia Layolla Cason |
 | 397 | 1158 | Brittany Clark |
 | 398 | 1150 | Sheniya Spurgeon |
@@ -645,8 +645,8 @@
 | 637 | 798 | Daniell Martinez |
 | 638 | 797 | Moist_B-hole |
 | 639 | 796 | Brianna Cerney |
-| 640 | 795 | Aletha Williams |
-| 641 | 795 | Alexandra Weir |
+| 640 | 795 | Alexandra Weir |
+| 641 | 795 | Aletha Williams |
 | 642 | 793 | Heather Anspaugh |
 | 643 | 792 | Beatboxxer |
 | 644 | 789 | De'Jah Charncey |
@@ -1105,8 +1105,8 @@
 | 1097 | 539 | Speedy Fill |
 | 1098 | 539 | Dizzy Clicker |
 | 1099 | 537 | Epic Spinfit |
-| 1100 | 537 | Robin |
-| 1101 | 537 | Jaime E. Rodriguez |
+| 1100 | 537 | Jaime E. Rodriguez |
+| 1101 | 537 | Robin |
 | 1102 | 537 | Austin Wilson |
 | 1103 | 536 | Paul Hinkle |
 | 1104 | 536 | Enha |
@@ -1117,8 +1117,8 @@
 | 1109 | 533 | Amanda West |
 | 1110 | 533 | John Quiring |
 | 1111 | 532 | Maribel Anaya Sarabia |
-| 1112 | 532 | Christy Krissie |
-| 1113 | 532 | Happy Tile |
+| 1112 | 532 | Happy Tile |
+| 1113 | 532 | Christy Krissie |
 | 1114 | 532 | Jenny DelVescovo |
 | 1115 | 532 | Tara Lynn Janes |
 | 1116 | 530 | Nikki Arlene |
@@ -1302,9 +1302,9 @@
 | 1294 | 464 | Maddie |
 | 1295 | 464 | Pammie Miller |
 | 1296 | 464 | Ladii_Elmo |
-| 1297 | 464 | Maddie |
-| 1298 | 464 | Pammie Miller |
-| 1299 | 464 | Joseph Greenlee |
+| 1297 | 464 | Natasha Edmonds |
+| 1298 | 464 | Joseph Greenlee |
+| 1299 | 463 | Ys Muhammed |
 | 1300 | 463 | Jaye EL Hunter |
 | 1301 | 462 | Karen Schweyer |
 | 1302 | 462 | Bryan Werleman |

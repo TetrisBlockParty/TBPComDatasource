@@ -68,8 +68,8 @@
 | 60 | 1931 | Denise Nardoni |
 | 61 | 1920 | Trezure Gonzalez |
 | 62 | 1858 | Kristie McFarland |
-| 63 | 1824 | Nate Burnside |
-| 64 | 1824 | Jessica Ann |
+| 63 | 1824 | Jessica Ann |
+| 64 | 1824 | Nate Burnside |
 | 65 | 1804 | Tina Kay |
 | 66 | 1791 | Leah Barnett |
 | 67 | 1776 | Whitney Manuel |
@@ -159,8 +159,8 @@
 | 151 | 950 | MissTaylor |
 | 152 | 950 | Giddy Drop |
 | 153 | 947 | Kellie Montgomery |
-| 154 | 940 | Stephanie Allmon |
-| 155 | 940 | Patty Allen |
+| 154 | 940 | Patty Allen |
+| 155 | 940 | Stephanie Allmon |
 | 156 | 936 | Dolores Falco |
 | 157 | 925 | Cherry Parker |
 | 158 | 914 | Sarajane Lokan |
@@ -196,8 +196,8 @@
 | 188 | 815 | Justin Ritter |
 | 189 | 813 | JessDrown |
 | 190 | 808 | Raya |
-| 191 | 804 | Alaina Lee |
-| 192 | 804 | Gideon Walker |
+| 191 | 804 | Gideon Walker |
+| 192 | 804 | Alaina Lee |
 | 193 | 800 | Lauren Girouard |
 | 194 | 799 | Trisha Balmer |
 | 195 | 792 | Rachel Grant |
@@ -216,8 +216,8 @@
 | 208 | 760 | Kiki |
 | 209 | 759 | Mykal Burton |
 | 210 | 757 | Fancy Cascader |
-| 211 | 755 | Colton |
-| 212 | 755 | Laura Booth Wosko |
+| 211 | 755 | Laura Booth Wosko |
+| 212 | 755 | Colton |
 | 213 | 753 | Morgan Martinez |
 | 214 | 752 | Joye Sims Binion |
 | 215 | 750 | Michael Nowogorski |
@@ -360,8 +360,8 @@
 | 352 | 459 | Randy Clevenger |
 | 353 | 459 | TotoCherue |
 | 354 | 457 | Snippy Wipeout |
-| 355 | 456 | Cynthia Herrmann Egland |
-| 356 | 456 | Kelly |
+| 355 | 456 | Kelly |
+| 356 | 456 | Cynthia Herrmann Egland |
 | 357 | 455 | Kelly Wolf |
 | 358 | 450 | Stefanie LaPointe |
 | 359 | 450 | Luciana Braganca Vieira |
@@ -433,10 +433,10 @@
 | 425 | 387 | Brittany K Ward |
 | 426 | 386 | Geoffrey Nash |
 | 427 | 384 | Tiffany Davie |
-| 428 | 383 | Amber Glover |
-| 429 | 383 | Jessica Christian |
-| 430 | 382 | Theresa Opell Gartner |
-| 431 | 382 | Katheline Lazo Luizaga |
+| 428 | 383 | Jessica Christian |
+| 429 | 383 | Amber Glover |
+| 430 | 382 | Katheline Lazo Luizaga |
+| 431 | 382 | Theresa Opell Gartner |
 | 432 | 381 | Mary Giorgenti |
 | 433 | 380 | neci |
 | 434 | 380 | Foltz Lee Kelli |
