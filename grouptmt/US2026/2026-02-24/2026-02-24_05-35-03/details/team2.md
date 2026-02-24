@@ -178,8 +178,8 @@
 | 170 | 2056 | Tonya Brooks-Johnson |
 | 171 | 2048 | Jose Mendoza |
 | 172 | 2007 | Hannah Erskine |
-| 173 | 2005 | Cody Smith-Candelaria |
-| 174 | 2005 | Cody Nishimura |
+| 173 | 2005 | Cody Nishimura |
+| 174 | 2005 | Cody Smith-Candelaria |
 | 175 | 1989 | Cozy Filler |
 | 176 | 1984 | Jane Fong |
 | 177 | 1983 | Tonya Morgan |
@@ -303,16 +303,16 @@
 | 295 | 1351 | Ashie Ann |
 | 296 | 1351 | Johnny Yeates |
 | 297 | 1351 | Denisha Dawkins |
-| 298 | 1342 | Kelly A Green-Leach |
-| 299 | 1342 | Groovy Puzzle |
+| 298 | 1342 | Groovy Puzzle |
+| 299 | 1342 | Kelly A Green-Leach |
 | 300 | 1341 | Cassie Mercer |
 | 301 | 1338 | Diallo Sparkman |
 | 302 | 1337 | Lucky Ladybug |
 | 303 | 1336 | Frothy Rumbler |
 | 304 | 1334 | Jamie Otero |
-| 305 | 1333 | Tralonda Weeks |
-| 306 | 1333 | Carl Bradshaw |
-| 307 | 1333 | nikki |
+| 305 | 1333 | nikki |
+| 306 | 1333 | Tralonda Weeks |
+| 307 | 1333 | Carl Bradshaw |
 | 308 | 1331 | Christina Walker |
 | 309 | 1319 | Joshua Sommerville |
 | 310 | 1315 | Desiree Anderson |
@@ -363,8 +363,8 @@
 | 355 | 1218 | LaKisha Anderson |
 | 356 | 1217 | Brooks Brooks |
 | 357 | 1216 | Pacynthia Williams |
-| 358 | 1215 | Hyper Cluster |
-| 359 | 1215 | Toni Roberson |
+| 358 | 1215 | Toni Roberson |
+| 359 | 1215 | Hyper Cluster |
 | 360 | 1214 | David Cudicio-Hayden |
 | 361 | 1211 | Cynthia Ward |
 | 362 | 1210 | Amber Gray |

@@ -196,8 +196,8 @@
 | 188 | 783 | Julian Murphy |
 | 189 | 780 | Raya |
 | 190 | 777 | Daryn Elliott |
-| 191 | 774 | Twisty Brick LT |
-| 192 | 774 | ren |
+| 191 | 774 | ren |
+| 192 | 774 | Twisty Brick LT |
 | 193 | 772 | Tye Stovall |
 | 194 | 769 | Hasty Cascadefit |
 | 195 | 768 | Cyd061769 |
@@ -470,8 +470,8 @@
 | 462 | 351 | Hoppy Buildout |
 | 463 | 351 | Nelma |
 | 464 | 350 | Norma JulieMay |
-| 465 | 348 | Ashley Raines |
-| 466 | 348 | Jimmie Clemons |
+| 465 | 348 | Jimmie Clemons |
+| 466 | 348 | Ashley Raines |
 | 467 | 345 | Big T |
 | 468 | 345 | victory |
 | 469 | 345 | Misha Sanders |
@@ -511,8 +511,8 @@
 | 503 | 328 | Cesar Mendez |
 | 504 | 328 | Desiree Soto |
 | 505 | 327 | Jess Bissett |
-| 506 | 326 | Beppy |
-| 507 | 326 | Sissy Lowery Davis |
+| 506 | 326 | Sissy Lowery Davis |
+| 507 | 326 | Beppy |
 | 508 | 326 | Eric Caccavale |
 | 509 | 324 | Paul Daniel Quertermous |
 | 510 | 323 | Tipsy Zonebuilder |
