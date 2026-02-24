@@ -70,8 +70,8 @@
 | 62 | 1868 | Kristie McFarland |
 | 63 | 1836 | Tina Kay |
 | 64 | 1825 | Nora Rogers |
-| 65 | 1824 | Nate Burnside |
-| 66 | 1824 | Jessica Ann |
+| 65 | 1824 | Jessica Ann |
+| 66 | 1824 | Nate Burnside |
 | 67 | 1791 | Leah Barnett |
 | 68 | 1776 | Whitney Manuel |
 | 69 | 1774 | Liv Whetson |
@@ -189,8 +189,8 @@
 | 181 | 858 | Nicole Myers |
 | 182 | 856 | Dana Winters |
 | 183 | 854 | Speedy Bridger |
-| 184 | 847 | Daira Largen |
-| 185 | 847 | Daring Brickzone |
+| 184 | 847 | Daring Brickzone |
+| 185 | 847 | Daira Largen |
 | 186 | 842 | Alexmac |
 | 187 | 829 | Patricia White |
 | 188 | 825 | Lizabeth Fox |
@@ -372,9 +372,9 @@
 | 364 | 461 | Briana Wellman |
 | 365 | 460 | Antonia Russell |
 | 366 | 460 | Hasty Gridpiece |
-| 367 | 456 | RickyG |
-| 368 | 456 | Cynthia Herrmann Egland |
-| 369 | 456 | Kelly |
+| 367 | 456 | Cynthia Herrmann Egland |
+| 368 | 456 | Kelly |
+| 369 | 456 | RickyG |
 | 370 | 455 | Kelly Wolf |
 | 371 | 454 | Swanky Frame |
 | 372 | 452 | Tay |
@@ -409,8 +409,8 @@
 | 401 | 426 | Heather Bateman |
 | 402 | 425 | Ava Petito |
 | 403 | 420 | Jana Polk |
-| 404 | 419 | Desiree Gold |
-| 405 | 419 | Philip Rock |
+| 404 | 419 | Philip Rock |
+| 405 | 419 | Desiree Gold |
 | 406 | 419 | Maggie |
 | 407 | 418 | Rainbow77375 |
 | 408 | 417 | Krish Shah |
@@ -420,8 +420,8 @@
 | 412 | 411 | Beaudie Stroebel |
 | 413 | 411 | Eboni Starr |
 | 414 | 409 | Rich LeBlanc |
-| 415 | 408 | Ashley Muncey |
-| 416 | 408 | Tiffany Ford |
+| 415 | 408 | Tiffany Ford |
+| 416 | 408 | Ashley Muncey |
 | 417 | 407 | Christina Spa |
 | 418 | 406 | Rebel124 |
 | 419 | 406 | Kristen Weese |

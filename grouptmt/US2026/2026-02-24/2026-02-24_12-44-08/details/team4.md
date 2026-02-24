@@ -51,8 +51,8 @@
 | 43 | 1497 | Juggalo |
 | 44 | 1478 | Sammy Noguera |
 | 45 | 1469 | Kimberly Love |
-| 46 | 1461 | Shane Kalamata Platoon |
-| 47 | 1461 | Yoset Mejia |
+| 46 | 1461 | Yoset Mejia |
+| 47 | 1461 | Shane Kalamata Platoon |
 | 48 | 1456 | Michelle Marie |
 | 49 | 1430 | Landon Keith Graffeo |
 | 50 | 1386 | Jen Allison |
@@ -188,8 +188,8 @@
 | 180 | 561 | Steph Marie |
 | 181 | 558 | Marie-Pier Desjardins |
 | 182 | 556 | Circuit8 |
-| 183 | 552 | Angel Raya |
-| 184 | 552 | Joseph Guthrie |
+| 183 | 552 | Joseph Guthrie |
+| 184 | 552 | Angel Raya |
 | 185 | 550 | James Hurley Jr. |
 | 186 | 549 | Cool Towerbuilder |
 | 187 | 547 | Mimi |
@@ -233,8 +233,8 @@
 | 225 | 485 | meowmew |
 | 226 | 482 | Laura |
 | 227 | 475 | Silly Zonebuilder |
-| 228 | 473 | Jolly Dashfit |
-| 229 | 473 | Cranky Rollpiece |
+| 228 | 473 | Cranky Rollpiece |
+| 229 | 473 | Jolly Dashfit |
 | 230 | 472 | Plucky Patternblock |
 | 231 | 472 | Melvin Baird |
 | 232 | 468 | scott |
@@ -293,15 +293,15 @@
 | 285 | 402 | Maria Hammie |
 | 286 | 398 | Tyler Terrific |
 | 287 | 397 | blockstar |
-| 288 | 395 | BigSammy420 |
-| 289 | 395 | Denise B |
+| 288 | 395 | Denise B |
+| 289 | 395 | BigSammy420 |
 | 290 | 394 | Nikki Rae Gordon |
 | 291 | 393 | Montiette Mcglown |
 | 292 | 390 | Ari Droff |
 | 293 | 387 | Sandra Safford |
 | 294 | 386 | Vic |
-| 295 | 382 | Sue Joyce Staats |
-| 296 | 382 | Matt Dell'Olio |
+| 295 | 382 | Matt Dell'Olio |
+| 296 | 382 | Sue Joyce Staats |
 | 297 | 381 | Cool Gridzone |
 | 298 | 380 | Chaz |
 | 299 | 380 | Jen Caldwell |

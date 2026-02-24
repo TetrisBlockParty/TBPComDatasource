@@ -367,16 +367,16 @@
 | 359 | 1257 | Megan Ferguson Leone |
 | 360 | 1257 | Megan Garrick |
 | 361 | 1257 | Jackie Lucas |
-| 362 | 1256 | Phil J. Grombliniak |
-| 363 | 1256 | Belle |
+| 362 | 1256 | Belle |
+| 363 | 1256 | Phil J. Grombliniak |
 | 364 | 1255 | Ambyre Patterson |
 | 365 | 1254 | Erika Densmore |
 | 366 | 1252 | AgileDragon |
 | 367 | 1252 | Brainy Smurf |
 | 368 | 1249 | Tristan Szolek |
 | 369 | 1247 | LaKisha Anderson |
-| 370 | 1245 | DefaultUser |
-| 371 | 1245 | Angel Hunnewell |
+| 370 | 1245 | Angel Hunnewell |
+| 371 | 1245 | DefaultUser |
 | 372 | 1237 | Christine Coughlin |
 | 373 | 1237 | Cheech Dta |
 | 374 | 1233 | Shannon Joslin |
@@ -446,8 +446,8 @@
 | 438 | 1088 | Angelina Marie |
 | 439 | 1088 | BK Queen |
 | 440 | 1087 | Angela Bonquiqui Dinish |
-| 441 | 1085 | Barbra Miller |
-| 442 | 1085 | Bee |
+| 441 | 1085 | Bee |
+| 442 | 1085 | Barbra Miller |
 | 443 | 1084 | Emilee Burke |
 | 444 | 1084 | William Hunt |
 | 445 | 1082 | Thomas Hedrick |
@@ -570,13 +570,13 @@
 | 562 | 915 | Kiely Tomaskovich |
 | 563 | 914 | Perky Rollfit |
 | 564 | 911 | Brenda Pierpoint |
-| 565 | 909 | Valerie Brooke Lusk Armstrong |
-| 566 | 909 | Marella Petilo |
+| 565 | 909 | Marella Petilo |
+| 566 | 909 | Valerie Brooke Lusk Armstrong |
 | 567 | 907 | Gene Mills |
 | 568 | 903 | Stephanie Lumanlan |
 | 569 | 902 | Stephanie Sul |
-| 570 | 899 | Caitlyn Blackwell |
-| 571 | 899 | Patrick Bartlett |
+| 570 | 899 | Patrick Bartlett |
+| 571 | 899 | Caitlyn Blackwell |
 | 572 | 899 | Aletha Williams |
 | 573 | 895 | Donna Colby |
 | 574 | 893 | Shantel Kelley |
@@ -620,8 +620,8 @@
 | 612 | 850 | Sabrina Burton |
 | 613 | 849 | Jasmine Kenney |
 | 614 | 848 | Happy Wipeblock |
-| 615 | 847 | Rhonda Milstead |
-| 616 | 847 | Megan Kitchner |
+| 615 | 847 | Megan Kitchner |
+| 616 | 847 | Rhonda Milstead |
 | 617 | 844 | Diana Fitzwater |
 | 618 | 843 | Quirky Twistline |
 | 619 | 840 | Ganieda |
