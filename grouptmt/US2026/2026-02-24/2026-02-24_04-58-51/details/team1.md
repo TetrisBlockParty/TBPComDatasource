@@ -108,8 +108,8 @@
 | 100 | 773 | Susanna Guerry |
 | 101 | 772 | Kathy Langham |
 | 102 | 770 | Zappy Curvetile |
-| 103 | 769 | Robert Benito |
-| 104 | 769 | Angel Fowler |
+| 103 | 769 | Angel Fowler |
+| 104 | 769 | Robert Benito |
 | 105 | 768 | Jazzy Framezone |
 | 106 | 756 | Cartier |
 | 107 | 751 | Kellie |
@@ -165,8 +165,8 @@
 | 157 | 548 | Luciano Moreira |
 | 158 | 547 | Sharon Reynolds |
 | 159 | 546 | Loony Fitzone |
-| 160 | 543 | Nicole Roseberry Weber |
-| 161 | 543 | Adrian Esteban |
+| 160 | 543 | Adrian Esteban |
+| 161 | 543 | Nicole Roseberry Weber |
 | 162 | 540 | Tonya Beasley |
 | 163 | 537 | BadG52 |
 | 164 | 537 | Stephanie Zahn |
@@ -376,8 +376,8 @@
 | 368 | 297 | Billie Dawn Sparks |
 | 369 | 296 | Jeanna Dunn |
 | 370 | 295 | ESC |
-| 371 | 294 | Mary Love |
-| 372 | 294 | Наталья Солоид |
+| 371 | 294 | Наталья Солоид |
+| 372 | 294 | Mary Love |
 | 373 | 293 | Sunny Pivotfall |
 | 374 | 292 | Clever Cascadepiece |
 | 375 | 292 | Mark Smith |
