@@ -74,8 +74,8 @@
 | 66 | 1119 | Amelpss |
 | 67 | 1109 | BertMofo |
 | 68 | 1089 | Alyssa Papen |
-| 69 | 1082 | Avy Absol |
-| 70 | 1082 | Dion Crommarty |
+| 69 | 1082 | Dion Crommarty |
+| 70 | 1082 | Avy Absol |
 | 71 | 1081 | Dustee Craddock-Harrison |
 | 72 | 1080 | Chilly Line |
 | 73 | 1071 | LisaJo Picken Buchanan |
@@ -108,8 +108,8 @@
 | 100 | 846 | Christine Marie |
 | 101 | 840 | SAP |
 | 102 | 837 | Rica Mitchell |
-| 103 | 834 | Brittney Orengo |
-| 104 | 834 | quicksand420 |
+| 103 | 834 | quicksand420 |
+| 104 | 834 | Brittney Orengo |
 | 105 | 818 | Lori Walker |
 | 106 | 815 | Diana Houts |
 | 107 | 813 | Klo |
@@ -148,8 +148,8 @@
 | 140 | 667 | Swanky Fitline |
 | 141 | 667 | Matt Gooder |
 | 142 | 662 | Nerdy Twisterfit |
-| 143 | 661 | Rodney McMath Jr. |
-| 144 | 661 | shar |
+| 143 | 661 | shar |
+| 144 | 661 | Rodney McMath Jr. |
 | 145 | 651 | Adawna Swires |
 | 146 | 650 | Chris Hartig |
 | 147 | 647 | KM8 |
@@ -220,8 +220,8 @@
 | 212 | 502 | Ericca Eldridge |
 | 213 | 502 | Christina Black |
 | 214 | 501 | Sharyn Lemire |
-| 215 | 499 | DonMega |
-| 216 | 499 | Kesha Brady |
+| 215 | 499 | Kesha Brady |
+| 216 | 499 | DonMega |
 | 217 | 497 | Damn Libra |
 | 218 | 496 | Jessica Bohlken |
 | 219 | 495 | Joeliecea Cobb |
