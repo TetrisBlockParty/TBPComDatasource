@@ -106,8 +106,8 @@
 | 98 | 800 | Desiree Deschaine Havee |
 | 99 | 791 | Greg Hart |
 | 100 | 781 | Ash Galvan |
-| 101 | 773 | Susanna Guerry |
-| 102 | 773 | Cartier |
+| 101 | 773 | Cartier |
+| 102 | 773 | Susanna Guerry |
 | 103 | 772 | Kathy Langham |
 | 104 | 770 | Zappy Curvetile |
 | 105 | 769 | Robert Benito |
@@ -119,8 +119,8 @@
 | 111 | 725 | Phu ckalldems |
 | 112 | 719 | Bindi |
 | 113 | 716 | Kristi Johnson |
-| 114 | 706 | Denice Dee |
-| 115 | 706 | Plucky Fallzone |
+| 114 | 706 | Plucky Fallzone |
+| 115 | 706 | Denice Dee |
 | 116 | 702 | lil mickey |
 | 117 | 699 | cc |
 | 118 | 692 | Melissa Lemmon |
@@ -167,12 +167,12 @@
 | 159 | 548 | Luciano Moreira |
 | 160 | 547 | Sharon Reynolds |
 | 161 | 546 | Loony Fitzone |
-| 162 | 543 | Nicole Roseberry Weber |
-| 163 | 543 | Adrian Esteban |
+| 162 | 543 | Adrian Esteban |
+| 163 | 543 | Nicole Roseberry Weber |
 | 164 | 540 | Tonya Beasley |
 | 165 | 538 | .running. |
-| 166 | 537 | Stephanie Zahn |
-| 167 | 537 | BadG52 |
+| 166 | 537 | BadG52 |
+| 167 | 537 | Stephanie Zahn |
 | 168 | 535 | Plucky Ziggy |
 | 169 | 532 | Νεφ Όνυξ |
 | 170 | 528 | ALFD |
@@ -239,8 +239,8 @@
 | 231 | 424 | Emily Adelaide Wheatley |
 | 232 | 423 | Howdi Duty |
 | 233 | 422 | Jamise Brown |
-| 234 | 421 | Letson Melissa |
-| 235 | 421 | Plucky Stacky |
+| 234 | 421 | Plucky Stacky |
+| 235 | 421 | Letson Melissa |
 | 236 | 420 | Jennifer Noe Chandler |
 | 237 | 419 | John J. Cronin |
 | 238 | 419 | Daring Fitclear |
@@ -675,8 +675,8 @@
 | 667 | 181 | Bean |
 | 668 | 181 | Shano Rae |
 | 669 | 180 | William Cry |
-| 670 | 180 | Cj X Mal |
-| 671 | 180 | Jennifer Crawford |
+| 670 | 180 | Jennifer Crawford |
+| 671 | 180 | Cj X Mal |
 | 672 | 179 | Ryan White |
 | 673 | 179 | Ward Leandrea |
 | 674 | 178 | Gabrielle Louise Malloch |

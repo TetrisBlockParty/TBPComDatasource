@@ -123,8 +123,8 @@
 | 115 | 1134 | Melissa Orth Hunter |
 | 116 | 1124 | Stephanie Rice |
 | 117 | 1121 | Corie A. Brinson |
-| 118 | 1114 | Groovy Catcher |
-| 119 | 1114 | Loopy Fallmatch |
+| 118 | 1114 | Loopy Fallmatch |
+| 119 | 1114 | Groovy Catcher |
 | 120 | 1105 | Adrian Marcel Pate |
 | 121 | 1093 | Angela M. Fletcher |
 | 122 | 1091 | Jennifer |
@@ -157,8 +157,8 @@
 | 149 | 961 | Danielle Allison |
 | 150 | 950 | Giddy Drop |
 | 151 | 950 | MissTaylor |
-| 152 | 940 | Patty Allen |
-| 153 | 940 | Stephanie Allmon |
+| 152 | 940 | Stephanie Allmon |
+| 153 | 940 | Patty Allen |
 | 154 | 936 | Dolores Falco |
 | 155 | 925 | Cherry Parker |
 | 156 | 914 | BadManSheLove |
@@ -192,14 +192,14 @@
 | 184 | 804 | Alaina Lee |
 | 185 | 800 | Lauren Girouard |
 | 186 | 799 | Trisha Balmer |
-| 187 | 794 | Alexmac |
-| 188 | 794 | Raya |
+| 187 | 794 | Raya |
+| 188 | 794 | Alexmac |
 | 189 | 792 | Rachel Grant |
 | 190 | 784 | Jone |
 | 191 | 783 | Julian Murphy |
 | 192 | 777 | Daryn Elliott |
-| 193 | 774 | ren |
-| 194 | 774 | Twisty Brick LT |
+| 193 | 774 | Twisty Brick LT |
+| 194 | 774 | ren |
 | 195 | 772 | Tye Stovall |
 | 196 | 769 | Hasty Cascadefit |
 | 197 | 768 | Cyd061769 |
@@ -225,8 +225,8 @@
 | 217 | 715 | Karon Griffin |
 | 218 | 714 | Jenny Hrndz |
 | 219 | 713 | Stephanie Blkpep Davidson |
-| 220 | 709 | Christine Niles |
-| 221 | 709 | Cynthia Castros-Hampton |
+| 220 | 709 | Cynthia Castros-Hampton |
+| 221 | 709 | Christine Niles |
 | 222 | 708 | Stephanie Bradley |
 | 223 | 704 | Patti Skiles |
 | 224 | 703 | Shawn Miller |
@@ -243,8 +243,8 @@
 | 235 | 646 | Duane Bright |
 | 236 | 644 | Dawn Williams |
 | 237 | 642 | Rania Zaqout |
-| 238 | 641 | Tom Nault |
-| 239 | 641 | Kristal C Lee |
+| 238 | 641 | Kristal C Lee |
+| 239 | 641 | Tom Nault |
 | 240 | 640 | Dee Pratt |
 | 241 | 639 | Nichol Graham |
 | 242 | 635 | Amber Hughes |
@@ -471,8 +471,8 @@
 | 463 | 353 | Eboni G. |
 | 464 | 353 | Cheeky Snapper |
 | 465 | 352 | LadyTorad |
-| 466 | 351 | Eon Harris |
-| 467 | 351 | Nelma |
+| 466 | 351 | Nelma |
+| 467 | 351 | Eon Harris |
 | 468 | 350 | Norma JulieMay |
 | 469 | 348 | Jimmie Clemons |
 | 470 | 348 | Ashley Raines |
@@ -732,8 +732,8 @@
 | 724 | 253 | Silly Curvetile |
 | 725 | 253 | Katrina E Jelks |
 | 726 | 253 | Stephanie Bradley |
-| 727 | 252 | Ashley Parham |
-| 728 | 252 | Lazy Matchfit |
+| 727 | 252 | Lazy Matchfit |
+| 728 | 252 | Ashley Parham |
 | 729 | 252 | El Chapa |
 | 730 | 252 | Lenora Price |
 | 731 | 251 | Sassy Align |
@@ -754,7 +754,7 @@
 | 746 | 247 | Jennifer Evans |
 | 747 | 246 | MomOnBreak |
 | 748 | 246 | Jonathn Poindexter |
-| 749 | 246 | MomOnBreak |
+| 749 | 246 | Erica Anderson |
 | 750 | 246 | James Fuller |
 | 751 | 245 | Danette Marie |
 | 752 | 245 | Tammy Rosenberry |
