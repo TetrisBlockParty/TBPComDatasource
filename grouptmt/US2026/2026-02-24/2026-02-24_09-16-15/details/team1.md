@@ -122,8 +122,8 @@
 | 114 | 751 | Kellie |
 | 115 | 725 | Debbie Kane |
 | 116 | 716 | Kristi Johnson |
-| 117 | 706 | Denice Dee |
-| 118 | 706 | Plucky Fallzone |
+| 117 | 706 | Plucky Fallzone |
+| 118 | 706 | Denice Dee |
 | 119 | 702 | lil mickey |
 | 120 | 699 | cc |
 | 121 | 696 | Carrie Smith |
@@ -137,8 +137,8 @@
 | 129 | 666 | Virginia Gray Floyd |
 | 130 | 652 | Evie Khalil |
 | 131 | 651 | Dandy Basegrid |
-| 132 | 650 | April Carroll |
-| 133 | 650 | Bob |
+| 132 | 650 | Bob |
+| 133 | 650 | April Carroll |
 | 134 | 647 | Theo Pinnow |
 | 135 | 643 | Erin Rosberg |
 | 136 | 642 | Mario Cab |

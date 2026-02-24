@@ -108,8 +108,8 @@
 | 100 | 846 | Christine Marie |
 | 101 | 840 | SAP |
 | 102 | 837 | Rica Mitchell |
-| 103 | 834 | quicksand420 |
-| 104 | 834 | Brittney Orengo |
+| 103 | 834 | Brittney Orengo |
+| 104 | 834 | quicksand420 |
 | 105 | 815 | Diana Houts |
 | 106 | 813 | Klo |
 | 107 | 813 | Amy Suckarieh |
@@ -135,11 +135,11 @@
 | 127 | 726 | Jamie Gustafson |
 | 128 | 725 | Brandon Crabbs |
 | 129 | 719 | George Nutt |
-| 130 | 712 | H.R. Block |
-| 131 | 712 | Leslie Nicole |
+| 130 | 712 | Leslie Nicole |
+| 131 | 712 | H.R. Block |
 | 132 | 708 | Jacqueline Helm |
-| 133 | 704 | Chilly Crasher |
-| 134 | 704 | Austin Owens |
+| 133 | 704 | Austin Owens |
+| 134 | 704 | Chilly Crasher |
 | 135 | 682 | Raegan Lane-Ross |
 | 136 | 668 | Desi Desporte |
 | 137 | 667 | Matt Gooder |
@@ -169,8 +169,8 @@
 | 161 | 600 | Cursed Hag |
 | 162 | 595 | TRCuse |
 | 163 | 587 | YoMomma |
-| 164 | 586 | Carlos Ramirez |
-| 165 | 586 | Latisha Davis |
+| 164 | 586 | Latisha Davis |
+| 165 | 586 | Carlos Ramirez |
 | 166 | 585 | Tracey Lehmann |
 | 167 | 584 | Carlton Unfiltered |
 | 168 | 576 | Jade Rian |
@@ -183,8 +183,8 @@
 | 175 | 561 | Steph Marie |
 | 176 | 560 | Chastity Mitchell |
 | 177 | 558 | Marie-Pier Desjardins |
-| 178 | 552 | Angel Raya |
-| 179 | 552 | Circuit8 |
+| 178 | 552 | Circuit8 |
+| 179 | 552 | Angel Raya |
 | 180 | 550 | James Hurley Jr. |
 | 181 | 549 | Cool Towerbuilder |
 | 182 | 549 | Andy Cabral |
@@ -344,8 +344,8 @@
 | 336 | 336 | ZeeZee |
 | 337 | 335 | Snippy Puzzle |
 | 338 | 334 | Zethra Prenisha Rahming |
-| 339 | 331 | rebel4lyfe |
-| 340 | 331 | Angie Schmidt |
+| 339 | 331 | Angie Schmidt |
+| 340 | 331 | rebel4lyfe |
 | 341 | 330 | Duck |
 | 342 | 329 | Meagan Nicole |
 | 343 | 329 | AyeKay |
@@ -547,13 +547,13 @@
 | 539 | 224 | Vanessa Smart |
 | 540 | 224 | Quirky Dash |
 | 541 | 223 | Perky Riser |
-| 542 | 223 | Funky Risepiece |
-| 543 | 223 | Cranky Glidebuilder |
+| 542 | 223 | Cranky Glidebuilder |
+| 543 | 223 | Funky Risepiece |
 | 544 | 223 | Shane Vick |
 | 545 | 223 | Jessica Atkinson |
 | 546 | 222 | Squeezy Pearsall |
-| 547 | 221 | Rheanda Weaskus |
-| 548 | 221 | Peppy Drop |
+| 547 | 221 | Peppy Drop |
+| 548 | 221 | Rheanda Weaskus |
 | 549 | 220 | Mighty Edgepiece |
 | 550 | 219 | Dapper Balancer |
 | 551 | 219 | Brandon Link |

@@ -68,8 +68,8 @@
 | 60 | 1931 | Denise Nardoni |
 | 61 | 1920 | Trezure Gonzalez |
 | 62 | 1858 | Kristie McFarland |
-| 63 | 1824 | Jessica Ann |
-| 64 | 1824 | Nate Burnside |
+| 63 | 1824 | Nate Burnside |
+| 64 | 1824 | Jessica Ann |
 | 65 | 1804 | Tina Kay |
 | 66 | 1791 | Leah Barnett |
 | 67 | 1776 | Whitney Manuel |
@@ -106,13 +106,13 @@
 | 98 | 1361 | Patricia Gadsden |
 | 99 | 1343 | Joey Banks |
 | 100 | 1320 | Kristie |
-| 101 | 1318 | Diana Ibarra |
-| 102 | 1318 | Tiff Vs Tiffany |
+| 101 | 1318 | Tiff Vs Tiffany |
+| 102 | 1318 | Diana Ibarra |
 | 103 | 1309 | yoyo |
 | 104 | 1297 | Shelby Michelle |
 | 105 | 1290 | JerseyJess |
-| 106 | 1282 | Amanda L Baker |
-| 107 | 1282 | Peppy Shifter |
+| 106 | 1282 | Peppy Shifter |
+| 107 | 1282 | Amanda L Baker |
 | 108 | 1276 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1248 | Lori Barnaby |
@@ -159,8 +159,8 @@
 | 151 | 950 | MissTaylor |
 | 152 | 950 | Giddy Drop |
 | 153 | 947 | Kellie Montgomery |
-| 154 | 940 | Patty Allen |
-| 155 | 940 | Stephanie Allmon |
+| 154 | 940 | Stephanie Allmon |
+| 155 | 940 | Patty Allen |
 | 156 | 936 | Dolores Falco |
 | 157 | 928 | Edwin Calvillo Jr. |
 | 158 | 925 | Cherry Parker |
@@ -190,14 +190,14 @@
 | 182 | 832 | Alexmac |
 | 183 | 829 | Patricia White |
 | 184 | 825 | Lizabeth Fox |
-| 185 | 821 | Angella Lyons |
-| 186 | 821 | Kammy Hill |
+| 185 | 821 | Kammy Hill |
+| 186 | 821 | Angella Lyons |
 | 187 | 817 | Niki Dalrymple |
 | 188 | 815 | Justin Ritter |
 | 189 | 813 | JessDrown |
 | 190 | 808 | Raya |
-| 191 | 804 | Gideon Walker |
-| 192 | 804 | Alaina Lee |
+| 191 | 804 | Alaina Lee |
+| 192 | 804 | Gideon Walker |
 | 193 | 800 | Lauren Girouard |
 | 194 | 799 | Trisha Balmer |
 | 195 | 792 | Rachel Grant |
@@ -257,8 +257,8 @@
 | 249 | 639 | Nichol Graham |
 | 250 | 637 | Giddy Twistbuilder |
 | 251 | 635 | Amber Hughes |
-| 252 | 633 | Jillian Symons |
-| 253 | 633 | Rebecca Funderburk Kirby |
+| 252 | 633 | Rebecca Funderburk Kirby |
+| 253 | 633 | Jillian Symons |
 | 254 | 632 | Rebecca Bailey |
 | 255 | 630 | Jackie Miller |
 | 256 | 629 | rnr junky |
@@ -328,11 +328,11 @@
 | 320 | 505 | Stephanie Simpson |
 | 321 | 504 | Daring Builder |
 | 322 | 500 | Ashley Tookes |
-| 323 | 499 | Megan Rathmanner |
-| 324 | 499 | Gumbo |
+| 323 | 499 | Gumbo |
+| 324 | 499 | Megan Rathmanner |
 | 325 | 496 | Brenda Schmid Wood |
-| 326 | 494 | fraulila |
-| 327 | 494 | MCV |
+| 326 | 494 | MCV |
+| 327 | 494 | fraulila |
 | 328 | 492 | Tasha Wesson-Torrence |
 | 329 | 490 | Cassandra Bryant |
 | 330 | 489 | Isabel Ocasio |
@@ -342,8 +342,8 @@
 | 334 | 483 | Tegan Chapman |
 | 335 | 482 | Chummy Rumbler |
 | 336 | 481 | Tiffanie Alley |
-| 337 | 480 | Dee Franklin |
-| 338 | 480 | TLM |
+| 337 | 480 | TLM |
+| 338 | 480 | Dee Franklin |
 | 339 | 479 | Charles Perrone |
 | 340 | 476 | Shunta Jacobs |
 | 341 | 474 | Troy |
@@ -417,8 +417,8 @@
 | 409 | 404 | Alice |
 | 410 | 403 | Scott Lindsay |
 | 411 | 403 | keni |
-| 412 | 401 | block chick |
-| 413 | 401 | Velma Mull |
+| 412 | 401 | Velma Mull |
+| 413 | 401 | block chick |
 | 414 | 400 | Joy Petroski |
 | 415 | 398 | Breezy Roll |
 | 416 | 397 | Kevin Russell |
@@ -442,8 +442,8 @@
 | 434 | 380 | neci |
 | 435 | 380 | Foltz Lee Kelli |
 | 436 | 379 | Krish Shah |
-| 437 | 378 | Ashley Lynn Marchese |
-| 438 | 378 | Samantha Worley |
+| 437 | 378 | Samantha Worley |
+| 438 | 378 | Ashley Lynn Marchese |
 | 439 | 377 | Paula Little |
 | 440 | 376 | Brittany |
 | 441 | 376 | Breanna Marsden |
@@ -782,11 +782,11 @@
 | 774 | 247 | Jennifer Evans |
 | 775 | 247 | Melanie Sherwood |
 | 776 | 247 | Taylor |
-| 777 | 246 | Erica Anderson |
-| 778 | 246 | Quteeonduty |
-| 779 | 246 | MomOnBreak |
-| 780 | 245 | Martin Bernier |
-| 781 | 245 | Latoya Mayne |
+| 777 | 246 | Quteeonduty |
+| 778 | 246 | MomOnBreak |
+| 779 | 246 | Erica Anderson |
+| 780 | 245 | Latoya Mayne |
+| 781 | 245 | Martin Bernier |
 | 782 | 245 | Bhreagh Gentile |
 | 783 | 245 | Danette Marie |
 | 784 | 244 | LaJeanna Lee Lee |
@@ -1303,8 +1303,8 @@
 | 1295 | 147 | Frothy Piececlear |
 | 1296 | 147 | Citysprout |
 | 1297 | 147 | Corisha Grant |
-| 1298 | 147 | Nikki Boone |
-| 1299 | 147 | Jennifer MacCharles |
+| 1298 | 147 | Jennifer MacCharles |
+| 1299 | 147 | Nikki Boone |
 | 1300 | 146 | Nathaniel Foster |
 | 1301 | 146 | lema ean |
 | 1302 | 146 | Nikia Melancon |
@@ -1630,8 +1630,8 @@
 | 1622 | 108 | Robert Harold Bowling |
 | 1623 | 108 | RedLego |
 | 1624 | 107 | Endawg |
-| 1625 | 107 | Michele Lee Decoste |
-| 1626 | 107 | Recia Lloyd |
+| 1625 | 107 | Recia Lloyd |
+| 1626 | 107 | Michele Lee Decoste |
 | 1627 | 107 | Crystal Brouner-Langlois |
 | 1628 | 107 | Amanda Lynn Wilcox |
 | 1629 | 107 | Lizzie Sprague |

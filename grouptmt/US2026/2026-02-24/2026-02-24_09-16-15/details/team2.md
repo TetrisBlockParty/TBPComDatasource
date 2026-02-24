@@ -399,8 +399,8 @@
 | 391 | 1170 | Shelley Thornburgh Wright |
 | 392 | 1167 | Min |
 | 393 | 1164 | DefaultUser |
-| 394 | 1163 | Sarah DeHart |
-| 395 | 1163 | Caitlin Schmid |
+| 394 | 1163 | Caitlin Schmid |
+| 395 | 1163 | Sarah DeHart |
 | 396 | 1160 | Maricia Layolla Cason |
 | 397 | 1158 | Brittany Clark |
 | 398 | 1150 | Sheniya Spurgeon |
@@ -413,8 +413,8 @@
 | 405 | 1123 | Jodi Mitnick |
 | 406 | 1119 | Teresa Gillmore |
 | 407 | 1119 | Bubbly Snapfit |
-| 408 | 1116 | Wakanda Forever |
-| 409 | 1116 | Em Chen |
+| 408 | 1116 | Em Chen |
+| 409 | 1116 | Wakanda Forever |
 | 410 | 1109 | BYM4L |
 | 411 | 1109 | Melissa McCall |
 | 412 | 1106 | Jessica Redmond |
@@ -447,8 +447,8 @@
 | 439 | 1075 | SaraMarie Eveland |
 | 440 | 1074 | Diana Ayers |
 | 441 | 1073 | Jodi Blake |
-| 442 | 1071 | Kim Dean |
-| 443 | 1071 | Nashu |
+| 442 | 1071 | Nashu |
+| 443 | 1071 | Kim Dean |
 | 444 | 1068 | Tiffany Branham |
 | 445 | 1067 | Taylor Phillips |
 | 446 | 1067 | Lourisha |
