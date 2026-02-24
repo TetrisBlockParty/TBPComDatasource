@@ -76,8 +76,8 @@
 | 68 | 978 | Amber Stoker |
 | 69 | 975 | TSwag |
 | 70 | 974 | Veronica Eve |
-| 71 | 966 | Shalene Frederick Autrey |
-| 72 | 966 | Francesca Gee |
+| 71 | 966 | Francesca Gee |
+| 72 | 966 | Shalene Frederick Autrey |
 | 73 | 961 | Jacqueline Williams |
 | 74 | 951 | Zippy Align |
 | 75 | 929 | Erin Hodges Plumb |
@@ -105,8 +105,8 @@
 | 97 | 744 | Greg Hart |
 | 98 | 737 | Karin Gillen |
 | 99 | 722 | Kellie |
-| 100 | 706 | Plucky Fallzone |
-| 101 | 706 | Denice Dee |
+| 100 | 706 | Denice Dee |
+| 101 | 706 | Plucky Fallzone |
 | 102 | 703 | Angel Fowler |
 | 103 | 691 | Rachael |
 | 104 | 687 | Melissa Lemmon |
@@ -189,10 +189,10 @@
 | 181 | 463 | Brandi Huntington |
 | 182 | 463 | Nicole Roseberry Weber |
 | 183 | 462 | Hasty Cascader |
-| 184 | 458 | Goose egg |
-| 185 | 458 | Dizzy Slider |
-| 186 | 446 | SkipTheSadSauce |
-| 187 | 446 | Cheeky Crusher |
+| 184 | 458 | Dizzy Slider |
+| 185 | 458 | Goose egg |
+| 186 | 446 | Cheeky Crusher |
+| 187 | 446 | SkipTheSadSauce |
 | 188 | 442 | Kimmie Kimms |
 | 189 | 441 | Carrie Smith |
 | 190 | 434 | Yvonne Marie |

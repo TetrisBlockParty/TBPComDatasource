@@ -138,8 +138,8 @@
 | 130 | 615 | Kim Hunt |
 | 131 | 613 | Porkobello |
 | 132 | 613 | Jessica Lynn Cutlip |
-| 133 | 611 | Chris Baggett |
-| 134 | 611 | Ernest Maxwell |
+| 133 | 611 | Ernest Maxwell |
+| 134 | 611 | Chris Baggett |
 | 135 | 602 | Cristy Duerksen |
 | 136 | 595 | Rodney McMath Jr. |
 | 137 | 586 | Latisha Davis |
