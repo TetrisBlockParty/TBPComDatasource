@@ -1053,8 +1053,8 @@
 | 1045 | 554 | Cheery Puzzler |
 | 1046 | 554 | Hoppy Glidebuilder |
 | 1047 | 554 | Dusti Rose Bingham |
-| 1048 | 553 | ruth |
-| 1049 | 553 | Tum |
+| 1048 | 553 | Tum |
+| 1049 | 553 | ruth |
 | 1050 | 553 | Sar Mo |
 | 1051 | 553 | Jason Kelly |
 | 1052 | 552 | Demitri Smith |
