@@ -313,8 +313,8 @@
 | 305 | 342 | Matt Iaccheo |
 | 306 | 342 | Marianita Garcia |
 | 307 | 341 | Nick R Montague |
-| 308 | 340 | Robert |
-| 309 | 340 | Danielle Little-Daugherty |
+| 308 | 340 | Danielle Little-Daugherty |
+| 309 | 340 | Robert |
 | 310 | 338 | Layzietyme |
 | 311 | 338 | Tipsy Builder |
 | 312 | 336 | Sarah Roberts |
@@ -375,8 +375,8 @@
 | 367 | 297 | Billie Dawn Sparks |
 | 368 | 296 | Jeanna Dunn |
 | 369 | 295 | ESC |
-| 370 | 294 | Mary Love |
-| 371 | 294 | Наталья Солоид |
+| 370 | 294 | Наталья Солоид |
+| 371 | 294 | Mary Love |
 | 372 | 293 | Sunny Pivotfall |
 | 373 | 292 | Renee Tucker |
 | 374 | 292 | Clever Cascadepiece |

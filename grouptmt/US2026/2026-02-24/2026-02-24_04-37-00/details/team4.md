@@ -159,15 +159,15 @@
 | 151 | 599 | shar |
 | 152 | 595 | Rodney McMath Jr. |
 | 153 | 587 | YoMomma |
-| 154 | 586 | Cursed Hag |
-| 155 | 586 | Latisha Davis |
+| 154 | 586 | Latisha Davis |
+| 155 | 586 | Cursed Hag |
 | 156 | 584 | Carlton Unfiltered |
 | 157 | 582 | Angela Srubar-Norman |
 | 158 | 578 | Livvy |
 | 159 | 576 | Jade Rian |
 | 160 | 575 | Jenna Ingersoll |
-| 161 | 574 | Carmethia Clemons Haslerig |
-| 162 | 574 | Carlos Ramirez |
+| 161 | 574 | Carlos Ramirez |
+| 162 | 574 | Carmethia Clemons Haslerig |
 | 163 | 568 | Cindy Looper |
 | 164 | 567 | Rico |
 | 165 | 565 | Ren Mc |
@@ -231,8 +231,8 @@
 | 223 | 448 | Mike Solo |
 | 224 | 447 | Jen Mattei |
 | 225 | 446 | Mr. Party |
-| 226 | 444 | Shiny Fit |
-| 227 | 444 | Calvin Cannon |
+| 226 | 444 | Calvin Cannon |
+| 227 | 444 | Shiny Fit |
 | 228 | 442 | 🥔🥔 Spudz |
 | 229 | 441 | Lush Linkfall |
 | 230 | 441 | blasterB |
@@ -439,8 +439,8 @@
 | 431 | 251 | Carol Ricks Raymond |
 | 432 | 251 | Kathy Allen |
 | 433 | 251 | Jackson Karen |
-| 434 | 250 | Ruby Khalisadar |
-| 435 | 250 | Moonsterix |
+| 434 | 250 | Moonsterix |
+| 435 | 250 | Ruby Khalisadar |
 | 436 | 249 | Chantilly Laace |
 | 437 | 249 | Silly Clearfit |
 | 438 | 249 | Stacy Jones |
