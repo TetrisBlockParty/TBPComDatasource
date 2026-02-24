@@ -131,8 +131,8 @@
 | 123 | 718 | Zippy Gridlock |
 | 124 | 712 | H.R. Block |
 | 125 | 708 | Jacqueline Helm |
-| 126 | 704 | Chilly Crasher |
-| 127 | 704 | Austin Owens |
+| 126 | 704 | Austin Owens |
+| 127 | 704 | Chilly Crasher |
 | 128 | 690 | Denia Deni |
 | 129 | 682 | Raegan Lane-Ross |
 | 130 | 669 | Leslie Nicole |
@@ -238,8 +238,8 @@
 | 230 | 442 | John Brunetti |
 | 231 | 442 | 🥔🥔 Spudz |
 | 232 | 441 | Lush Linkfall |
-| 233 | 438 | 23 |
-| 234 | 438 | Melvin Baird |
+| 233 | 438 | Melvin Baird |
+| 234 | 438 | 23 |
 | 235 | 437 | Selena Shaw |
 | 236 | 434 | Ramel Rhodes |
 | 237 | 433 | Damn Libra |
@@ -321,12 +321,12 @@
 | 313 | 335 | Snippy Puzzle |
 | 314 | 332 | Jason Bosco |
 | 315 | 331 | Kate |
-| 316 | 330 | Brittany Little |
+| 316 | 330 | Sandra Safford |
 | 317 | 330 | Duck |
-| 318 | 330 | Sandra Safford |
+| 318 | 330 | Brittany Little |
 | 319 | 329 | Meagan Nicole |
-| 320 | 328 | Leah Kutz Zirbel |
-| 321 | 328 | Heather Bruce |
+| 320 | 328 | Heather Bruce |
+| 321 | 328 | Leah Kutz Zirbel |
 | 322 | 328 | Angie Schmidt |
 | 323 | 327 | Chair |
 | 324 | 324 | Nubian1 |
@@ -471,8 +471,8 @@
 | 463 | 242 | RIFATSIKDER |
 | 464 | 242 | Badatvs |
 | 465 | 241 | Laurel Coppess |
-| 466 | 241 | Katherine Crane |
-| 467 | 241 | Sho Nuff |
+| 466 | 241 | Sho Nuff |
+| 467 | 241 | Katherine Crane |
 | 468 | 240 | Orchislactea |
 | 469 | 240 | Zany Shatterer |
 | 470 | 239 | Krash |

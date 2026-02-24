@@ -655,8 +655,8 @@
 | 647 | 753 | John Jubes |
 | 648 | 751 | Swanky Strikerpiece |
 | 649 | 751 | Tom Riefer |
-| 650 | 750 | Prette Qui |
-| 651 | 750 | Samie Dayle |
+| 650 | 750 | Samie Dayle |
+| 651 | 750 | Prette Qui |
 | 652 | 750 | Lisa Reynolds |
 | 653 | 749 | ToxicTrash |
 | 654 | 749 | Trisha J Schmidt |
@@ -774,10 +774,10 @@
 | 766 | 672 | Lathasa Newkirk |
 | 767 | 671 | Ryan Parson |
 | 768 | 671 | Rose Fx |
-| 769 | 670 | Harrison Littrell |
-| 770 | 670 | Amanda Chamberlain |
-| 771 | 670 | Nutty Cascade |
-| 772 | 670 | Anita Ortiz |
+| 769 | 670 | Amanda Chamberlain |
+| 770 | 670 | Harrison Littrell |
+| 771 | 670 | Anita Ortiz |
+| 772 | 670 | Nutty Cascade |
 | 773 | 670 | Santana Miyagi |
 | 774 | 668 | Audrey Jones |
 | 775 | 668 | Nerdy Blockpiece |
