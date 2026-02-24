@@ -282,8 +282,8 @@
 | 274 | 1480 | Dimitra Zazara |
 | 275 | 1479 | Pacynthia Williams |
 | 276 | 1478 | Misty Walker |
-| 277 | 1477 | Hillary Crawford |
-| 278 | 1477 | Prado |
+| 277 | 1477 | Prado |
+| 278 | 1477 | Hillary Crawford |
 | 279 | 1469 | Carrie Trigg |
 | 280 | 1463 | Yvonne Wharton |
 | 281 | 1459 | Shiny Rollzone |
@@ -606,8 +606,8 @@
 | 598 | 850 | Sabrina Burton |
 | 599 | 849 | Jasmine Kenney |
 | 600 | 848 | Happy Wipeblock |
-| 601 | 847 | Rhonda Milstead |
-| 602 | 847 | Megan Kitchner |
+| 601 | 847 | Megan Kitchner |
+| 602 | 847 | Rhonda Milstead |
 | 603 | 844 | Diana Fitzwater |
 | 604 | 844 | Terri McKelvey McKinley |
 | 605 | 843 | Quirky Twistline |
@@ -981,8 +981,8 @@
 | 973 | 598 | Cosmo |
 | 974 | 597 | Mercedez Hubbard |
 | 975 | 595 | Crystal Hodge Love |
-| 976 | 595 | ElizabethAnn Dickinson |
-| 977 | 595 | Jessica Sutter |
+| 976 | 595 | Jessica Sutter |
+| 977 | 595 | ElizabethAnn Dickinson |
 | 978 | 595 | Sara Pennington |
 | 979 | 593 | Esther Hsu |
 | 980 | 593 | Keila Adames |
@@ -1067,8 +1067,8 @@
 | 1059 | 558 | Byung Bae Park |
 | 1060 | 557 | Marina Linda |
 | 1061 | 557 | Bridgette Sargent |
-| 1062 | 557 | Vivian De Souza |
-| 1063 | 557 | Jason Garnatz |
+| 1062 | 557 | Jason Garnatz |
+| 1063 | 557 | Vivian De Souza |
 | 1064 | 556 | Kamilya Rembert |
 | 1065 | 555 | Noel Tarmy |
 | 1066 | 555 | Amy Roche |
@@ -1165,10 +1165,10 @@
 | 1157 | 519 | gNiK |
 | 1158 | 519 | Bing |
 | 1159 | 518 | Darlene Bowman |
-| 1160 | 517 | Meganator42 |
-| 1161 | 517 | Rebecca Edmund |
-| 1162 | 515 | Brave Gridpiece |
-| 1163 | 515 | Chill Strike |
+| 1160 | 517 | Rebecca Edmund |
+| 1161 | 517 | Meganator42 |
+| 1162 | 515 | Chill Strike |
+| 1163 | 515 | Brave Gridpiece |
 | 1164 | 515 | Ashlyn Berner |
 | 1165 | 515 | Madysen Holt |
 | 1166 | 515 | Poppy |
@@ -1209,8 +1209,8 @@
 | 1201 | 498 | Epic Stackzone |
 | 1202 | 498 | Rolie Garcia |
 | 1203 | 498 | Drwatson187 |
-| 1204 | 497 | Mary Marie |
-| 1205 | 497 | June E Hanson |
+| 1204 | 497 | June E Hanson |
+| 1205 | 497 | Mary Marie |
 | 1206 | 497 | Stephanie Pitts |
 | 1207 | 497 | Bdubb |
 | 1208 | 496 | BlaqSupaMan |

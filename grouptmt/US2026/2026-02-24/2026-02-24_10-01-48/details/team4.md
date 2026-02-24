@@ -108,16 +108,16 @@
 | 100 | 846 | Christine Marie |
 | 101 | 840 | SAP |
 | 102 | 837 | Rica Mitchell |
-| 103 | 834 | quicksand420 |
-| 104 | 834 | Brittney Orengo |
+| 103 | 834 | Brittney Orengo |
+| 104 | 834 | quicksand420 |
 | 105 | 818 | Lori Walker |
 | 106 | 815 | Diana Houts |
 | 107 | 813 | Klo |
 | 108 | 813 | Amy Suckarieh |
 | 109 | 811 | Sassy Pattern |
 | 110 | 806 | Zippy Gridlock |
-| 111 | 802 | Crystal Carroll |
-| 112 | 802 | Denise Carlson |
+| 111 | 802 | Denise Carlson |
+| 112 | 802 | Crystal Carroll |
 | 113 | 801 | D3TROITB0RN74 |
 | 114 | 800 | Mylo Lipscomb |
 | 115 | 798 | Jewell Urban |
@@ -147,8 +147,8 @@
 | 139 | 667 | Matt Gooder |
 | 140 | 667 | Swanky Fitline |
 | 141 | 662 | Nerdy Twisterfit |
-| 142 | 661 | shar |
-| 143 | 661 | Rodney McMath Jr. |
+| 142 | 661 | Rodney McMath Jr. |
+| 143 | 661 | shar |
 | 144 | 651 | Adawna Swires |
 | 145 | 650 | Chris Hartig |
 | 146 | 647 | KM8 |
@@ -157,8 +157,8 @@
 | 149 | 638 | Porkobello |
 | 150 | 635 | Kim Hunt |
 | 151 | 634 | Carrie Brian |
-| 152 | 633 | Jessica Lynn Cutlip |
-| 153 | 633 | Adam Stephanie Parker |
+| 152 | 633 | Adam Stephanie Parker |
+| 153 | 633 | Jessica Lynn Cutlip |
 | 154 | 629 | Chris Baggett |
 | 155 | 623 | ku5hkween |
 | 156 | 622 | Ernest Maxwell |
@@ -229,12 +229,12 @@
 | 221 | 481 | Joanna |
 | 222 | 479 | June Hoffman |
 | 223 | 475 | Silly Zonebuilder |
-| 224 | 473 | Cranky Rollpiece |
-| 225 | 473 | Jolly Dashfit |
+| 224 | 473 | Jolly Dashfit |
+| 225 | 473 | Cranky Rollpiece |
 | 226 | 472 | Plucky Patternblock |
 | 227 | 465 | Leslie Thomas |
-| 228 | 464 | Calvin Cannon |
-| 229 | 464 | Zakia Monae |
+| 228 | 464 | Zakia Monae |
+| 229 | 464 | Calvin Cannon |
 | 230 | 463 | shark tato |
 | 231 | 462 | Crystal Nicolette Moore |
 | 232 | 460 | Kathy Brookins |
@@ -243,8 +243,8 @@
 | 235 | 457 | Kristin Manee |
 | 236 | 457 | J-Rizzle |
 | 237 | 455 | Michele Plunkett |
-| 238 | 454 | David Lay |
-| 239 | 454 | Keshia Lyons |
+| 238 | 454 | Keshia Lyons |
+| 239 | 454 | David Lay |
 | 240 | 450 | Genne Scott |
 | 241 | 449 | Danielle Kollias |
 | 242 | 448 | Mr. Party |
@@ -279,8 +279,8 @@
 | 271 | 407 | Rafael Valentin |
 | 272 | 407 | Hyper Builder |
 | 273 | 402 | Nita Wells |
-| 274 | 399 | Twisty Cascadezone |
-| 275 | 399 | Brittany Little |
+| 274 | 399 | Brittany Little |
+| 275 | 399 | Twisty Cascadezone |
 | 276 | 398 | Tyler Terrific |
 | 277 | 397 | blockstar |
 | 278 | 395 | Denise B |
@@ -326,9 +326,9 @@
 | 318 | 349 | Richard-April Kice |
 | 319 | 349 | jim |
 | 320 | 347 | Zołza 😈 |
-| 321 | 347 | Megan Cutshaw |
-| 322 | 347 | Perky Patternblock |
-| 323 | 347 | Daria Rycewicz |
+| 321 | 347 | Daria Rycewicz |
+| 322 | 347 | Megan Cutshaw |
+| 323 | 347 | Perky Patternblock |
 | 324 | 346 | Metsfan |
 | 325 | 346 | James Philpot Ross |
 | 326 | 344 | Amanda Maciel Clarke |
@@ -348,8 +348,8 @@
 | 340 | 336 | Gracie Ann Taylor |
 | 341 | 335 | Snippy Puzzle |
 | 342 | 334 | Zethra Prenisha Rahming |
-| 343 | 331 | Angie Schmidt |
-| 344 | 331 | rebel4lyfe |
+| 343 | 331 | rebel4lyfe |
+| 344 | 331 | Angie Schmidt |
 | 345 | 330 | Duck |
 | 346 | 329 | AyeKay |
 | 347 | 329 | Meagan Nicole |
@@ -398,8 +398,8 @@
 | 390 | 300 | Jason Frehner |
 | 391 | 299 | Michael Snow |
 | 392 | 298 | Val Erie |
-| 393 | 297 | Allison Rose |
-| 394 | 297 | Brittany Marsh |
+| 393 | 297 | Brittany Marsh |
+| 394 | 297 | Allison Rose |
 | 395 | 295 | Deb Rubeck |
 | 396 | 294 | BootsMcGee |
 | 397 | 293 | Groovy Shiftspin |
