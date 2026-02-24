@@ -80,8 +80,8 @@
 | 72 | 1003 | Destiney Carter |
 | 73 | 999 | Jeremy Steines |
 | 74 | 986 | TeeJ |
-| 75 | 985 | Shelly Chandler |
-| 76 | 985 | Shannon Ferrari |
+| 75 | 985 | Shannon Ferrari |
+| 76 | 985 | Shelly Chandler |
 | 77 | 956 | loulou |
 | 78 | 949 | Patron Anderson |
 | 79 | 941 | Chilly Line |
@@ -159,8 +159,8 @@
 | 151 | 598 | shar |
 | 152 | 595 | Rodney McMath Jr. |
 | 153 | 587 | YoMomma |
-| 154 | 586 | Cursed Hag |
-| 155 | 586 | Latisha Davis |
+| 154 | 586 | Latisha Davis |
+| 155 | 586 | Cursed Hag |
 | 156 | 584 | Carlton Unfiltered |
 | 157 | 582 | Angela Srubar-Norman |
 | 158 | 578 | Livvy |
@@ -284,8 +284,8 @@
 | 276 | 378 | Googenheim |
 | 277 | 378 | Jason Gibbs |
 | 278 | 377 | Matt Dell'Olio |
-| 279 | 376 | Nig |
-| 280 | 376 | Montiette Mcglown |
+| 279 | 376 | Montiette Mcglown |
+| 280 | 376 | Nig |
 | 281 | 373 | Russ Attitude |
 | 282 | 370 | Twisty Risebuilder |
 | 283 | 370 | Kris Bartlett |
@@ -314,9 +314,9 @@
 | 306 | 342 | Lauren Lamb |
 | 307 | 339 | Chance Strickland |
 | 308 | 339 | Blessedmama |
-| 309 | 336 | Stella |
+| 309 | 336 | ZeeZee |
 | 310 | 336 | Tina Lopez |
-| 311 | 336 | ZeeZee |
+| 311 | 336 | Stella |
 | 312 | 335 | Snippy Puzzle |
 | 313 | 332 | Jason Bosco |
 | 314 | 331 | Kate |

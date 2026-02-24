@@ -166,8 +166,8 @@
 | 158 | 2093 | Michele Gabriel |
 | 159 | 2068 | PsychKIRAtrist |
 | 160 | 2060 | Shameika Trail |
-| 161 | 2056 | Tonya Brooks-Johnson |
-| 162 | 2056 | Alisa Lamb |
+| 161 | 2056 | Alisa Lamb |
+| 162 | 2056 | Tonya Brooks-Johnson |
 | 163 | 2048 | Jose Mendoza |
 | 164 | 2007 | Hannah Erskine |
 | 165 | 2005 | Cody Nishimura |
@@ -618,12 +618,12 @@
 | 610 | 786 | Ashe Corso |
 | 611 | 785 | Daniel Amos |
 | 612 | 781 | Amanda Ferrell |
-| 613 | 780 | Megan Kitchner |
-| 614 | 780 | Breezy Filler |
+| 613 | 780 | Breezy Filler |
+| 614 | 780 | Megan Kitchner |
 | 615 | 780 | Amy Reynolds |
 | 616 | 779 | Trinity Oak |
-| 617 | 777 | Ashley Lopez |
-| 618 | 777 | Tesha Oldaker |
+| 617 | 777 | Tesha Oldaker |
+| 618 | 777 | Ashley Lopez |
 | 619 | 776 | Jerilyn Andrina |
 | 620 | 775 | Maya June |
 | 621 | 774 | Shanae Dillahunty |

@@ -80,8 +80,8 @@
 | 72 | 1646 | Gracie |
 | 73 | 1633 | cowboy25469 |
 | 74 | 1617 | Queen Kam |
-| 75 | 1566 | Nerdy Riseclear |
-| 76 | 1566 | Marcie Bressler |
+| 75 | 1566 | Marcie Bressler |
+| 76 | 1566 | Nerdy Riseclear |
 | 77 | 1560 | Logan Naccarato |
 | 78 | 1555 | Snappy Glidepiece |
 | 79 | 1552 | joclisa |
@@ -148,11 +148,11 @@
 | 140 | 963 | Crystal Frey |
 | 141 | 959 | Sashay Tapae Simpson |
 | 142 | 957 | mzcatzy |
-| 143 | 950 | Giddy Drop |
-| 144 | 950 | MissTaylor |
+| 143 | 950 | MissTaylor |
+| 144 | 950 | Giddy Drop |
 | 145 | 943 | Katrina Schroeder |
-| 146 | 940 | Patty Allen |
-| 147 | 940 | Stephanie Allmon |
+| 146 | 940 | Stephanie Allmon |
+| 147 | 940 | Patty Allen |
 | 148 | 939 | Jamie Lang |
 | 149 | 936 | Dolores Falco |
 | 150 | 931 | Danielle Allison |
@@ -183,8 +183,8 @@
 | 175 | 820 | Brenda Lee Vander Molen |
 | 176 | 817 | Niki Dalrymple |
 | 177 | 815 | Justin Ritter |
-| 178 | 804 | Gideon Walker |
-| 179 | 804 | Alaina Lee |
+| 178 | 804 | Alaina Lee |
+| 179 | 804 | Gideon Walker |
 | 180 | 800 | Lauren Girouard |
 | 181 | 792 | Rachel Grant |
 | 182 | 790 | JessDrown |
@@ -305,8 +305,8 @@
 | 297 | 517 | PrncssPJ |
 | 298 | 514 | Nikki White |
 | 299 | 511 | Marci Mize Fandrich |
-| 300 | 508 | Colton |
-| 301 | 508 | joz |
+| 300 | 508 | joz |
+| 301 | 508 | Colton |
 | 302 | 506 | Ammmmmmy |
 | 303 | 505 | Stephanie Simpson |
 | 304 | 500 | Ashley Tookes |

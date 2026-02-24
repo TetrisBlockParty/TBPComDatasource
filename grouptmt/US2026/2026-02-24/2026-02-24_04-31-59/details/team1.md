@@ -45,8 +45,8 @@
 | 37 | 1515 | Felicia Lewis |
 | 38 | 1405 | Chipper Gridlock |
 | 39 | 1391 | Aaron Garnett |
-| 40 | 1334 | june october |
-| 41 | 1334 | Tyler Alcock |
+| 40 | 1334 | Tyler Alcock |
+| 41 | 1334 | june october |
 | 42 | 1321 | Drew Magnus |
 | 43 | 1291 | Marianne Louise West |
 | 44 | 1268 | Hasbro Bros |
@@ -264,8 +264,8 @@
 | 256 | 380 | Snippy Wipebuilder |
 | 257 | 379 | Austin James |
 | 258 | 378 | Eddie Dillon |
-| 259 | 377 | GATOR |
-| 260 | 377 | Rayline M Bradshaw |
+| 259 | 377 | Rayline M Bradshaw |
+| 260 | 377 | GATOR |
 | 261 | 377 | DoodleBug |
 | 262 | 376 | Billie Ann Eason |
 | 263 | 376 | Sassy Builderline |
