@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-24 17:16:43 UTC
+# Standings for team1 as of 2026-02-24 17:17:22 UTC
 
 **Total Participants:** 2280
 
@@ -39,7 +39,7 @@
 | 31 | 1760 | Christina Graham |
 | 32 | 1735 | Jennifer Cates |
 | 33 | 1735 | Amanda Summey Schoemer |
-| 34 | 1703 | Bhelle Sumile |
+| 34 | 1704 | Bhelle Sumile |
 | 35 | 1631 | Rahna Underwood |
 | 36 | 1631 | Trippy Redd |
 | 37 | 1623 | Carrie Beck Geartz |
@@ -84,7 +84,7 @@
 | 76 | 1104 | Seante Bullock |
 | 77 | 1104 | Jacqueline Williams |
 | 78 | 1086 | Jason Cox |
-| 79 | 1073 | Jason Jones |
+| 79 | 1078 | Jason Jones |
 | 80 | 1066 | Dawn Sheppard |
 | 81 | 1054 | Robert Beck |
 | 82 | 1032 | Kathi Snustad |
@@ -116,7 +116,7 @@
 | 108 | 884 | Sevens4L |
 | 109 | 872 | Kathy Langham |
 | 110 | 872 | Madison Wicks |
-| 111 | 852 | Hellsin |
+| 111 | 862 | Hellsin |
 | 112 | 842 | Chris K |
 | 113 | 827 | Robert Benito |
 | 114 | 816 | Melissa Lemmon |
@@ -404,12 +404,12 @@
 | 396 | 325 | GringaLinga |
 | 397 | 324 | Quirky Pusher |
 | 398 | 323 | Nadine Velardo |
-| 399 | 323 | Rico Rico |
-| 400 | 322 | Patty Lavigne Craddock |
-| 401 | 320 | Beazel75 |
-| 402 | 319 | Fresno Beotoni |
-| 403 | 319 | Crystal Cheresnowsky |
-| 404 | 318 | Lilkimmie |
+| 399 | 323 | Lilkimmie |
+| 400 | 323 | Rico Rico |
+| 401 | 322 | Patty Lavigne Craddock |
+| 402 | 320 | Beazel75 |
+| 403 | 319 | Fresno Beotoni |
+| 404 | 319 | Crystal Cheresnowsky |
 | 405 | 318 | Susie Loo |
 | 406 | 318 | Terri Rodela |
 | 407 | 317 | Itspaigebro |
@@ -1068,66 +1068,66 @@
 | 1060 | 113 | Trisha Stiglet |
 | 1061 | 112 | Travis Hughes |
 | 1062 | 112 | Tea Julien |
-| 1063 | 112 | Antonio Feliciano |
-| 1064 | 112 | Raven |
+| 1063 | 112 | Raven |
+| 1064 | 112 | Antonio Feliciano |
 | 1065 | 111 | Geralene Murphree |
-| 1066 | 111 | Rory Eviltwin Bayer |
-| 1067 | 111 | Duanew |
-| 1068 | 111 | Carol Rogers |
+| 1066 | 111 | Carol Rogers |
+| 1067 | 111 | Rory Eviltwin Bayer |
+| 1068 | 111 | Duanew |
 | 1069 | 111 | Michael Butler |
 | 1070 | 111 | squareMel |
-| 1071 | 110 | Robert Benitez |
-| 1072 | 110 | Brahim Amara |
-| 1073 | 110 | Sassy Riseclear |
-| 1074 | 110 | SMSMris |
-| 1075 | 110 | Thia Gibson |
-| 1076 | 110 | Tasha McCormack |
+| 1071 | 110 | Sassy Riseclear |
+| 1072 | 110 | Robert Benitez |
+| 1073 | 110 | Brahim Amara |
+| 1074 | 110 | Thia Gibson |
+| 1075 | 110 | Tasha McCormack |
+| 1076 | 110 | SMSMris |
 | 1077 | 109 | Latonya McLeroy Smith |
-| 1078 | 108 | Katie Wood |
-| 1079 | 108 | Wendy Walker-Hill |
-| 1080 | 108 | Stoney Smith |
-| 1081 | 108 | Nico |
-| 1082 | 108 | Matthew Vd |
-| 1083 | 107 | Nellie Cummings |
-| 1084 | 107 | Shelly Palmer |
-| 1085 | 107 | Scott Tracie Kiser |
-| 1086 | 107 | Turtle Boser |
-| 1087 | 107 | Peg |
-| 1088 | 107 | William Maix |
-| 1089 | 107 | Larry Fritzinger |
-| 1090 | 107 | Dede |
-| 1091 | 107 | sent2bless34 |
-| 1092 | 107 | Kristi Kinard |
-| 1093 | 107 | David Bourne |
-| 1094 | 107 | Snippy Piecefit |
-| 1095 | 106 | Vahid Khaleghi |
-| 1096 | 106 | Kelly Holland |
+| 1078 | 108 | Nico |
+| 1079 | 108 | Katie Wood |
+| 1080 | 108 | Matthew Vd |
+| 1081 | 108 | Wendy Walker-Hill |
+| 1082 | 108 | Stoney Smith |
+| 1083 | 107 | Larry Fritzinger |
+| 1084 | 107 | Kristi Kinard |
+| 1085 | 107 | Dede |
+| 1086 | 107 | Shelly Palmer |
+| 1087 | 107 | William Maix |
+| 1088 | 107 | Peg |
+| 1089 | 107 | Turtle Boser |
+| 1090 | 107 | David Bourne |
+| 1091 | 107 | Snippy Piecefit |
+| 1092 | 107 | sent2bless34 |
+| 1093 | 107 | Nellie Cummings |
+| 1094 | 107 | Scott Tracie Kiser |
+| 1095 | 106 | Honey |
+| 1096 | 106 | Claude Villeneuve |
 | 1097 | 106 | John Dixon |
-| 1098 | 106 | Becky Lynn Cramer-Ingram |
-| 1099 | 106 | Honey |
-| 1100 | 105 | Ebony Hill |
-| 1101 | 105 | Jennifer Duttry |
+| 1098 | 106 | Slinky Fitblock |
+| 1099 | 106 | Becky Lynn Cramer-Ingram |
+| 1100 | 106 | Kelly Holland |
+| 1101 | 106 | Vahid Khaleghi |
 | 1102 | 105 | Jolly Climber |
 | 1103 | 105 | Chummy Spinzone |
-| 1104 | 105 | Felicia Jones |
-| 1105 | 104 | Zippy Buildsnap |
-| 1106 | 104 | Johanna Burke |
+| 1104 | 105 | Jennifer Duttry |
+| 1105 | 105 | Ebony Hill |
+| 1106 | 105 | Felicia Jones |
 | 1107 | 104 | JEREMIA MOORE |
 | 1108 | 104 | Nykia Smith |
 | 1109 | 104 | Nerdy Gridlock |
-| 1110 | 103 | Calli Lynn Hairr |
-| 1111 | 103 | Adriansoky |
-| 1112 | 103 | Lush Drop |
-| 1113 | 103 | Cheery Zonegrid |
-| 1114 | 103 | Lush Blockroll |
-| 1115 | 103 | Claude Villeneuve |
-| 1116 | 103 | Josh Yazvac |
-| 1117 | 103 | Angela Martin Hardy |
-| 1118 | 103 | Tiffany Trinh |
+| 1110 | 104 | Zippy Buildsnap |
+| 1111 | 104 | Johanna Burke |
+| 1112 | 103 | Calli Lynn Hairr |
+| 1113 | 103 | Lush Drop |
+| 1114 | 103 | Adriansoky |
+| 1115 | 103 | Josh Yazvac |
+| 1116 | 103 | Cheery Zonegrid |
+| 1117 | 103 | Lush Blockroll |
+| 1118 | 103 | Angela Martin Hardy |
 | 1119 | 103 | Jazzy Clearbuilder |
-| 1120 | 103 | Merissa Paulsen |
-| 1121 | 103 | Meri Mass |
-| 1122 | 103 | Slinky Fitblock |
+| 1120 | 103 | Tiffany Trinh |
+| 1121 | 103 | Merissa Paulsen |
+| 1122 | 103 | Meri Mass |
 | 1123 | 103 | Dandy Piecebuilder |
 | 1124 | 102 | Heather Coleman |
 | 1125 | 102 | Alice Johnson |
@@ -1139,12 +1139,12 @@
 | 1131 | 101 | Laura Lee Christiansen |
 | 1132 | 101 | Kristal Kay |
 | 1133 | 101 | Michele Baucom |
-| 1134 | 100 | Boog |
+| 1134 | 100 | Spicy Tilefall |
 | 1135 | 100 | Kellie |
-| 1136 | 100 | Plucky Tiltpiece |
-| 1137 | 100 | Fancy Risebuilder |
-| 1138 | 100 | Matt Leroux |
-| 1139 | 100 | Spicy Tilefall |
+| 1136 | 100 | Boog |
+| 1137 | 100 | Plucky Tiltpiece |
+| 1138 | 100 | Fancy Risebuilder |
+| 1139 | 100 | Matt Leroux |
 | 1140 | 100 | Chris Baker |
 | 1141 | 100 | BlazinGames |
 | 1142 | 100 | Jason Philp |
