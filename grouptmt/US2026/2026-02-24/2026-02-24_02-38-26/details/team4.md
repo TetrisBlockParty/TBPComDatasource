@@ -68,8 +68,8 @@
 | 60 | 1097 | BertMofo |
 | 61 | 1092 | Rachel Anne |
 | 62 | 1089 | Alyssa Papen |
-| 63 | 1082 | Avy Absol |
-| 64 | 1082 | Dion Crommarty |
+| 63 | 1082 | Dion Crommarty |
+| 64 | 1082 | Avy Absol |
 | 65 | 1075 | Dustee Craddock-Harrison |
 | 66 | 1064 | Heather Tushner |
 | 67 | 1046 | Johnathan Martinez |
@@ -94,8 +94,8 @@
 | 86 | 850 | Lisa Davis |
 | 87 | 850 | Lucille Truesdale |
 | 88 | 846 | Christine Marie |
-| 89 | 841 | Judy Cox |
-| 90 | 841 | Shauna Havard |
+| 89 | 841 | Shauna Havard |
+| 90 | 841 | Judy Cox |
 | 91 | 840 | Chaz Duncan |
 | 92 | 834 | quicksand420 |
 | 93 | 826 | Rica Mitchell |
@@ -232,8 +232,8 @@
 | 224 | 438 | Melvin Baird |
 | 225 | 436 | Selena Shaw |
 | 226 | 434 | Ramel Rhodes |
-| 227 | 433 | Circuit8 |
-| 228 | 433 | Damn Libra |
+| 227 | 433 | Damn Libra |
+| 228 | 433 | Circuit8 |
 | 229 | 431 | Manny1 |
 | 230 | 430 | Plucky Patternblock |
 | 231 | 427 | Chao Ma |
@@ -253,8 +253,8 @@
 | 245 | 403 | TinyLegoRose |
 | 246 | 400 | Brickh4us |
 | 247 | 399 | Joseph Guthrie |
-| 248 | 398 | Nerdy Twisterfit |
-| 249 | 398 | Tyler Terrific |
+| 248 | 398 | Tyler Terrific |
+| 249 | 398 | Nerdy Twisterfit |
 | 250 | 397 | blockstar |
 | 251 | 397 | blasterB |
 | 252 | 395 | 030Synner |
@@ -267,21 +267,21 @@
 | 259 | 383 | JPW |
 | 260 | 382 | Sue Joyce Staats |
 | 261 | 381 | Rafael Valentin |
-| 262 | 380 | Jen Caldwell |
-| 263 | 380 | Rio Rocha |
-| 264 | 380 | shark tato |
+| 262 | 380 | shark tato |
+| 263 | 380 | Jen Caldwell |
+| 264 | 380 | Rio Rocha |
 | 265 | 379 | Backoff Recupe |
-| 266 | 378 | Mary Ann Pabukis |
-| 267 | 378 | Googenheim |
-| 268 | 378 | Holly Jolly |
+| 266 | 378 | Holly Jolly |
+| 267 | 378 | Mary Ann Pabukis |
+| 268 | 378 | Googenheim |
 | 269 | 376 | Nig |
 | 270 | 374 | Chaz |
 | 271 | 370 | Cheery Risebuilder |
 | 272 | 369 | Matt Dell'Olio |
 | 273 | 368 | Kris Bartlett |
 | 274 | 367 | Meg |
-| 275 | 366 | Andrew Dang |
-| 276 | 366 | Hyper Builder |
+| 275 | 366 | Hyper Builder |
+| 276 | 366 | Andrew Dang |
 | 277 | 360 | James Hurley Jr. |
 | 278 | 359 | KimoKoala |
 | 279 | 358 | David Lay |
