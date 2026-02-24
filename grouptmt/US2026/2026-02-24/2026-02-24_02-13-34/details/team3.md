@@ -186,8 +186,8 @@
 | 178 | 777 | Daryn Elliott |
 | 179 | 776 | JessDrown |
 | 180 | 774 | ren |
-| 181 | 773 | Sashay Tapae Simpson |
-| 182 | 773 | Daira Largen |
+| 181 | 773 | Daira Largen |
+| 182 | 773 | Sashay Tapae Simpson |
 | 183 | 772 | Tye Stovall |
 | 184 | 772 | Twisty Brick LT |
 | 185 | 770 | Raya |
@@ -304,8 +304,8 @@
 | 296 | 499 | Gumbo |
 | 297 | 498 | Chummy Caster |
 | 298 | 497 | Rebecca Bailey |
-| 299 | 494 | Megan Rathmanner |
-| 300 | 494 | MCV |
+| 299 | 494 | MCV |
+| 300 | 494 | Megan Rathmanner |
 | 301 | 489 | Isabel Ocasio |
 | 302 | 488 | Brenda Schmid Wood |
 | 303 | 486 | Skippy |
@@ -376,8 +376,8 @@
 | 368 | 399 | Christina Rotz Shows |
 | 369 | 395 | Joy Petroski |
 | 370 | 391 | gremicx |
-| 371 | 389 | ROODBOY |
-| 372 | 389 | Kristen Weese |
+| 371 | 389 | Kristen Weese |
+| 372 | 389 | ROODBOY |
 | 373 | 388 | Michelle Allers |
 | 374 | 386 | Briana Wellman |
 | 375 | 386 | Kelly Wolf |

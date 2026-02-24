@@ -91,8 +91,8 @@
 | 83 | 864 | Guy Incognito |
 | 84 | 861 | Peachy Fall |
 | 85 | 855 | Chilly Line |
-| 86 | 850 | Lisa Davis |
-| 87 | 850 | Lucille Truesdale |
+| 86 | 850 | Lucille Truesdale |
+| 87 | 850 | Lisa Davis |
 | 88 | 846 | Christine Marie |
 | 89 | 841 | Judy Cox |
 | 90 | 841 | Shauna Havard |
@@ -671,7 +671,7 @@
 | 663 | 159 | Mcg |
 | 664 | 157 | Jazzy Slamdrop |
 | 665 | 157 | Matt Rawls |
-| 666 | 157 | Jazzy Slamdrop |
+| 666 | 157 | Hanh Pham |
 | 667 | 156 | MOCHA |
 | 668 | 155 | Patrick Cookson |
 | 669 | 155 | Faja |
