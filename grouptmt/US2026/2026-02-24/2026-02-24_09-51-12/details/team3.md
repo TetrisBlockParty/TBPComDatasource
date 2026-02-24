@@ -83,8 +83,8 @@
 | 75 | 1633 | cowboy25469 |
 | 76 | 1625 | Queen Kam |
 | 77 | 1615 | joclisa |
-| 78 | 1566 | Nerdy Riseclear |
-| 79 | 1566 | Marcie Bressler |
+| 78 | 1566 | Marcie Bressler |
+| 79 | 1566 | Nerdy Riseclear |
 | 80 | 1560 | Logan Naccarato |
 | 81 | 1555 | Snappy Glidepiece |
 | 82 | 1518 | Christine Filson |
@@ -290,8 +290,8 @@
 | 282 | 582 | FuzzyNavel |
 | 283 | 581 | Crystal Hine |
 | 284 | 578 | James Mitchell |
-| 285 | 574 | Danielle Balcom |
-| 286 | 574 | Rachael McClain Owens |
+| 285 | 574 | Rachael McClain Owens |
+| 286 | 574 | Danielle Balcom |
 | 287 | 572 | Tessina Dewey-Mancino |
 | 288 | 570 | thekey |
 | 289 | 569 | Silly Twist |
@@ -310,8 +310,8 @@
 | 302 | 547 | Aerian Preston |
 | 303 | 542 | France Vézina |
 | 304 | 541 | Mcathen |
-| 305 | 540 | rosy |
-| 306 | 540 | Tanya Kittrell |
+| 305 | 540 | Tanya Kittrell |
+| 306 | 540 | rosy |
 | 307 | 539 | Fancy Curver |
 | 308 | 539 | Kate M. Murdock |
 | 309 | 538 | Chummy Caster |
@@ -431,8 +431,8 @@
 | 423 | 391 | Rebel124 |
 | 424 | 391 | gremicx |
 | 425 | 390 | ROODBOY |
-| 426 | 389 | Amanda J. Mcneil-Anderson |
-| 427 | 389 | Kirhonda Autmon |
+| 426 | 389 | Kirhonda Autmon |
+| 427 | 389 | Amanda J. Mcneil-Anderson |
 | 428 | 387 | Brittany K Ward |
 | 429 | 386 | Geoffrey Nash |
 | 430 | 384 | Tiffany Davie |
@@ -445,8 +445,8 @@
 | 437 | 380 | Foltz Lee Kelli |
 | 438 | 380 | neci |
 | 439 | 379 | Krish Shah |
-| 440 | 378 | Ashley Lynn Marchese |
-| 441 | 378 | Samantha Worley |
+| 440 | 378 | Samantha Worley |
+| 441 | 378 | Ashley Lynn Marchese |
 | 442 | 377 | Paula Little |
 | 443 | 376 | Brittany |
 | 444 | 376 | Breanna Marsden |
@@ -628,8 +628,8 @@
 | 620 | 295 | Omega |
 | 621 | 294 | Kita A Jackson |
 | 622 | 293 | Rufus Lincoln |
-| 623 | 293 | Anna Moeller |
-| 624 | 293 | Tommy Proctor |
+| 623 | 293 | Tommy Proctor |
+| 624 | 293 | Anna Moeller |
 | 625 | 292 | Scouty |
 | 626 | 291 | Jess Dearborn |
 | 627 | 291 | Autumn Phillimore |

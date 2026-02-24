@@ -191,8 +191,8 @@
 | 183 | 519 | Cool Shiftsnap |
 | 184 | 519 | Anaid Sanchez |
 | 185 | 517 | Eric DeSimone |
-| 186 | 513 | Colena Davenport |
-| 187 | 513 | Rebekah LeiAnn Bonsell |
+| 186 | 513 | Rebekah LeiAnn Bonsell |
+| 187 | 513 | Colena Davenport |
 | 188 | 511 | MomMom |
 | 189 | 510 | Rat666 |
 | 190 | 501 | Jessica Russell |
@@ -251,8 +251,8 @@
 | 243 | 422 | Jamise Brown |
 | 244 | 421 | Letson Melissa |
 | 245 | 420 | Jennifer Noe Chandler |
-| 246 | 419 | Daring Fitclear |
-| 247 | 419 | Barrbaric |
+| 246 | 419 | Barrbaric |
+| 247 | 419 | Daring Fitclear |
 | 248 | 419 | John J. Cronin |
 | 249 | 416 | Larissa Marie Nelson |
 | 250 | 416 | Jessica Sheehan |
@@ -369,10 +369,10 @@
 | 361 | 321 | Sunny Shift |
 | 362 | 321 | LD1 |
 | 363 | 320 | Zany Tiler |
-| 364 | 319 | Fresno Beotoni |
-| 365 | 319 | Crystal Cheresnowsky |
-| 366 | 317 | Amh |
-| 367 | 317 | Bloknboy |
+| 364 | 319 | Crystal Cheresnowsky |
+| 365 | 319 | Fresno Beotoni |
+| 366 | 317 | Bloknboy |
+| 367 | 317 | Amh |
 | 368 | 316 | Giggly Builderline |
 | 369 | 315 | san |
 | 370 | 313 | Delvison Rosario |
@@ -399,8 +399,8 @@
 | 391 | 301 | Beazel75 |
 | 392 | 300 | Garrett Burket |
 | 393 | 300 | Logan McFarland |
-| 394 | 299 | Nathan William |
-| 395 | 299 | Rachel Rogers |
+| 394 | 299 | Rachel Rogers |
+| 395 | 299 | Nathan William |
 | 396 | 298 | Sonia Marquis |
 | 397 | 298 | Glitzy Buildsnap |
 | 398 | 297 | Billie Dawn Sparks |

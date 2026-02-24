@@ -108,8 +108,8 @@
 | 100 | 846 | Christine Marie |
 | 101 | 840 | SAP |
 | 102 | 837 | Rica Mitchell |
-| 103 | 834 | Brittney Orengo |
-| 104 | 834 | quicksand420 |
+| 103 | 834 | quicksand420 |
+| 104 | 834 | Brittney Orengo |
 | 105 | 818 | Lori Walker |
 | 106 | 815 | Diana Houts |
 | 107 | 813 | Amy Suckarieh |
@@ -135,8 +135,8 @@
 | 127 | 726 | Jamie Gustafson |
 | 128 | 725 | Brandon Crabbs |
 | 129 | 719 | George Nutt |
-| 130 | 712 | Leslie Nicole |
-| 131 | 712 | H.R. Block |
+| 130 | 712 | H.R. Block |
+| 131 | 712 | Leslie Nicole |
 | 132 | 708 | Jacqueline Helm |
 | 133 | 704 | Austin Owens |
 | 134 | 704 | Chilly Crasher |
@@ -184,8 +184,8 @@
 | 176 | 561 | Steph Marie |
 | 177 | 560 | Chastity Mitchell |
 | 178 | 558 | Marie-Pier Desjardins |
-| 179 | 552 | Circuit8 |
-| 180 | 552 | Angel Raya |
+| 179 | 552 | Angel Raya |
+| 180 | 552 | Circuit8 |
 | 181 | 550 | James Hurley Jr. |
 | 182 | 549 | Cool Towerbuilder |
 | 183 | 546 | Dizzy Tiley |
@@ -253,8 +253,8 @@
 | 245 | 444 | Selena Shaw |
 | 246 | 442 | John Brunetti |
 | 247 | 441 | Lush Linkfall |
-| 248 | 438 | 23 |
-| 249 | 438 | Melvin Baird |
+| 248 | 438 | Melvin Baird |
+| 249 | 438 | 23 |
 | 250 | 435 | Chris Bernstein |
 | 251 | 434 | Ramel Rhodes |
 | 252 | 433 | Damn Libra |
@@ -305,8 +305,8 @@
 | 297 | 375 | George Tzouganos |
 | 298 | 373 | Russ Attitude |
 | 299 | 371 | Jessi Cinotto |
-| 300 | 370 | Kris Bartlett |
-| 301 | 370 | Twisty Risebuilder |
+| 300 | 370 | Twisty Risebuilder |
+| 301 | 370 | Kris Bartlett |
 | 302 | 368 | Dan Wold |
 | 303 | 367 | Meg |
 | 304 | 366 | meowmew |
@@ -1010,8 +1010,8 @@
 | 1002 | 105 | Lakesha Johnson |
 | 1003 | 105 | Mrsjcraw18 |
 | 1004 | 104 | Bruce Gal |
-| 1005 | 104 | Elizabeth Lansou |
-| 1006 | 104 | Takeshia Knowles |
+| 1005 | 104 | Takeshia Knowles |
+| 1006 | 104 | Elizabeth Lansou |
 | 1007 | 103 | Snappy Combofall |
 | 1008 | 102 | Bryan Johnson |
 | 1009 | 102 | Amber bamber |
