@@ -117,8 +117,8 @@
 | 109 | 811 | Sassy Pattern |
 | 110 | 806 | Zippy Gridlock |
 | 111 | 805 | Mylo Lipscomb |
-| 112 | 802 | Denise Carlson |
-| 113 | 802 | Crystal Carroll |
+| 112 | 802 | Crystal Carroll |
+| 113 | 802 | Denise Carlson |
 | 114 | 801 | D3TROITB0RN74 |
 | 115 | 798 | Jewell Urban |
 | 116 | 784 | TheNeesh50 |
@@ -152,8 +152,8 @@
 | 144 | 661 | shar |
 | 145 | 661 | Rodney McMath Jr. |
 | 146 | 651 | Adawna Swires |
-| 147 | 650 | Chris Hartig |
-| 148 | 650 | April Rondinone |
+| 147 | 650 | April Rondinone |
+| 148 | 650 | Chris Hartig |
 | 149 | 647 | KM8 |
 | 150 | 646 | Kim Hunt |
 | 151 | 639 | Serena Goodridge |
@@ -233,8 +233,8 @@
 | 225 | 482 | Laura |
 | 226 | 481 | Joanna |
 | 227 | 475 | Silly Zonebuilder |
-| 228 | 473 | Cranky Rollpiece |
-| 229 | 473 | Jolly Dashfit |
+| 228 | 473 | Jolly Dashfit |
+| 229 | 473 | Cranky Rollpiece |
 | 230 | 472 | Plucky Patternblock |
 | 231 | 466 | scott |
 | 232 | 465 | Leslie Thomas |
@@ -249,16 +249,16 @@
 | 241 | 457 | J-Rizzle |
 | 242 | 457 | Kristin Manee |
 | 243 | 455 | Michele Plunkett |
-| 244 | 454 | Keshia Lyons |
-| 245 | 454 | Jessi Cinotto |
-| 246 | 454 | David Lay |
+| 244 | 454 | David Lay |
+| 245 | 454 | Keshia Lyons |
+| 246 | 454 | Jessi Cinotto |
 | 247 | 450 | Genne Scott |
 | 248 | 449 | Danielle Kollias |
 | 249 | 448 | Mike Solo |
 | 250 | 448 | Mr. Party |
 | 251 | 447 | Chris Bernstein |
-| 252 | 444 | Twisty Cascadezone |
-| 253 | 444 | Selena Shaw |
+| 252 | 444 | Selena Shaw |
+| 253 | 444 | Twisty Cascadezone |
 | 254 | 442 | John Brunetti |
 | 255 | 441 | Lush Linkfall |
 | 256 | 440 | Brickh4us |
@@ -306,14 +306,14 @@
 | 298 | 380 | Chaz |
 | 299 | 380 | Holly Jolly |
 | 300 | 380 | Jen Caldwell |
-| 301 | 378 | Googenheim |
-| 302 | 378 | Mary Ann Pabukis |
+| 301 | 378 | Mary Ann Pabukis |
+| 302 | 378 | Googenheim |
 | 303 | 376 | Nig |
-| 304 | 375 | George Tzouganos |
-| 305 | 375 | Dan Wold |
+| 304 | 375 | Dan Wold |
+| 305 | 375 | George Tzouganos |
 | 306 | 373 | Russ Attitude |
-| 307 | 370 | Kris Bartlett |
-| 308 | 370 | Twisty Risebuilder |
+| 307 | 370 | Twisty Risebuilder |
+| 308 | 370 | Kris Bartlett |
 | 309 | 367 | Meg |
 | 310 | 366 | Ak Jones |
 | 311 | 364 | Lora |
@@ -461,11 +461,11 @@
 | 453 | 264 | Brandi Durig |
 | 454 | 264 | Bussy Bay |
 | 455 | 263 | Laurmarcar |
-| 456 | 262 | Lilya Troutman |
-| 457 | 262 | Ruben Wheeler |
+| 456 | 262 | Ruben Wheeler |
+| 457 | 262 | Lilya Troutman |
 | 458 | 262 | Walter Beltran |
-| 459 | 261 | Laura McPheeters |
-| 460 | 261 | Jen Hallin |
+| 459 | 261 | Jen Hallin |
+| 460 | 261 | Laura McPheeters |
 | 461 | 260 | PennyCandee |
 | 462 | 258 | April Spoelma |
 | 463 | 258 | Ashlee Carnes |
