@@ -341,8 +341,8 @@
 | 333 | 1304 | Sarah Ridenour |
 | 334 | 1303 | Michele Morgan |
 | 335 | 1301 | Mandy Cekine |
-| 336 | 1300 | Shinel Richardson |
-| 337 | 1300 | Snappy Matchbuilder |
+| 336 | 1300 | Snappy Matchbuilder |
+| 337 | 1300 | Shinel Richardson |
 | 338 | 1300 | Tacara Cummings |
 | 339 | 1295 | Jess Morrison |
 | 340 | 1292 | Joshua Mandel |

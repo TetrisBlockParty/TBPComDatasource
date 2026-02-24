@@ -125,8 +125,8 @@
 | 117 | 1134 | Melissa Orth Hunter |
 | 118 | 1124 | Stephanie Rice |
 | 119 | 1121 | Corie A. Brinson |
-| 120 | 1114 | Loopy Fallmatch |
-| 121 | 1114 | Groovy Catcher |
+| 120 | 1114 | Groovy Catcher |
+| 121 | 1114 | Loopy Fallmatch |
 | 122 | 1105 | Adrian Marcel Pate |
 | 123 | 1093 | Angela M. Fletcher |
 | 124 | 1091 | Jennifer |
@@ -255,8 +255,8 @@
 | 247 | 633 | Rebecca Funderburk Kirby |
 | 248 | 630 | Jackie Miller |
 | 249 | 629 | rnr junky |
-| 250 | 627 | Louise Stacy Sisson |
-| 251 | 627 | Juliana Dottore |
+| 250 | 627 | Juliana Dottore |
+| 251 | 627 | Louise Stacy Sisson |
 | 252 | 626 | Cheryl Hinch Tenbrook |
 | 253 | 625 | Jacqueline Rodriguez |
 | 254 | 624 | Hyper Matchzone |
@@ -324,12 +324,12 @@
 | 316 | 506 | Ammmmmmy |
 | 317 | 505 | Stephanie Simpson |
 | 318 | 500 | Ashley Tookes |
-| 319 | 499 | Gumbo |
-| 320 | 499 | Megan Rathmanner |
+| 319 | 499 | Megan Rathmanner |
+| 320 | 499 | Gumbo |
 | 321 | 496 | Brenda Schmid Wood |
 | 322 | 495 | Daring Builder |
-| 323 | 494 | fraulila |
-| 324 | 494 | MCV |
+| 323 | 494 | MCV |
+| 324 | 494 | fraulila |
 | 325 | 492 | Tasha Wesson-Torrence |
 | 326 | 490 | Cassandra Bryant |
 | 327 | 489 | Isabel Ocasio |
@@ -339,8 +339,8 @@
 | 331 | 483 | Tegan Chapman |
 | 332 | 482 | Chummy Rumbler |
 | 333 | 481 | Tiffanie Alley |
-| 334 | 480 | TLM |
-| 335 | 480 | Dee Franklin |
+| 334 | 480 | Dee Franklin |
+| 335 | 480 | TLM |
 | 336 | 479 | Charles Perrone |
 | 337 | 476 | Shunta Jacobs |
 | 338 | 474 | Troy |
@@ -355,11 +355,11 @@
 | 347 | 461 | Hyper Bridger |
 | 348 | 461 | Briana Wellman |
 | 349 | 460 | Antonia Russell |
-| 350 | 459 | Randy Clevenger |
-| 351 | 459 | TotoCherue |
+| 350 | 459 | TotoCherue |
+| 351 | 459 | Randy Clevenger |
 | 352 | 457 | Snippy Wipeout |
-| 353 | 456 | Kelly |
-| 354 | 456 | Cynthia Herrmann Egland |
+| 353 | 456 | Cynthia Herrmann Egland |
+| 354 | 456 | Kelly |
 | 355 | 455 | Kelly Wolf |
 | 356 | 450 | Stefanie LaPointe |
 | 357 | 450 | Luciana Braganca Vieira |
@@ -368,8 +368,8 @@
 | 360 | 447 | Carrie Huskey |
 | 361 | 447 | Num1hater |
 | 362 | 446 | Swanky Frame |
-| 363 | 446 | Jennifer Alvey |
-| 364 | 446 | Shiny Zonebuilder |
+| 363 | 446 | Shiny Zonebuilder |
+| 364 | 446 | Jennifer Alvey |
 | 365 | 445 | Loopy Clusterer |
 | 366 | 444 | Heather De Vries Cobb |
 | 367 | 443 | Christian Werndl |

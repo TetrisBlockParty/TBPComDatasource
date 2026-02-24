@@ -66,8 +66,8 @@
 | 58 | 1170 | Tater |
 | 59 | 1160 | Shalene Frederick Autrey |
 | 60 | 1150 | Cynthia Bradley |
-| 61 | 1137 | TSwag |
-| 62 | 1137 | Jen Sartain |
+| 61 | 1137 | Jen Sartain |
+| 62 | 1137 | TSwag |
 | 63 | 1127 | Andrea Dañielle Ortiz |
 | 64 | 1122 | Kristen Gideon |
 | 65 | 1114 | Jayme Sellers |
@@ -141,8 +141,8 @@
 | 133 | 643 | Erin Rosberg |
 | 134 | 642 | Mario Cab |
 | 135 | 638 | Carrie Smith |
-| 136 | 629 | Tanya Carpenter-Reynolds |
-| 137 | 629 | Death |
+| 136 | 629 | Death |
+| 137 | 629 | Tanya Carpenter-Reynolds |
 | 138 | 628 | Trina Gee |
 | 139 | 626 | Damon J. Martin |
 | 140 | 620 | Ty Brown |
@@ -245,8 +245,8 @@
 | 237 | 424 | Emily Adelaide Wheatley |
 | 238 | 423 | Howdi Duty |
 | 239 | 422 | Jamise Brown |
-| 240 | 421 | Plucky Stacky |
-| 241 | 421 | Letson Melissa |
+| 240 | 421 | Letson Melissa |
+| 241 | 421 | Plucky Stacky |
 | 242 | 420 | Jennifer Noe Chandler |
 | 243 | 419 | John J. Cronin |
 | 244 | 419 | Daring Fitclear |
@@ -268,15 +268,15 @@
 | 260 | 396 | Sam Williams |
 | 261 | 394 | Nick R Montague |
 | 262 | 393 | Wisa |
-| 263 | 392 | Poppy Riserpiece |
-| 264 | 392 | Renee Tucker |
+| 263 | 392 | Renee Tucker |
+| 264 | 392 | Poppy Riserpiece |
 | 265 | 391 | Happy Basegrid |
 | 266 | 390 | David Lutcher |
 | 267 | 388 | Test |
 | 268 | 386 | Melissa Bires Hussar |
 | 269 | 386 | Angela Renea Lester |
-| 270 | 384 | Colleen Pinette |
-| 271 | 384 | Irv |
+| 270 | 384 | Irv |
+| 271 | 384 | Colleen Pinette |
 | 272 | 383 | Margo Wagner |
 | 273 | 382 | Jamie Jury |
 | 274 | 381 | Snippy Wipebuilder |
@@ -465,8 +465,8 @@
 | 457 | 267 | Dena Kayy |
 | 458 | 266 | Angela Jones |
 | 459 | 265 | Yahowah |
-| 460 | 265 | Brenda L. Bunce |
-| 461 | 265 | Cranky Pattern |
+| 460 | 265 | Cranky Pattern |
+| 461 | 265 | Brenda L. Bunce |
 | 462 | 264 | Kayla |
 | 463 | 263 | Charlie Walker |
 | 464 | 263 | Cool Balancer |

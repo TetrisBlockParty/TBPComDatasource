@@ -131,14 +131,14 @@
 | 123 | 735 | Nugget |
 | 124 | 731 | KJ Pool |
 | 125 | 729 | Jamie Mann-Deichmann |
-| 126 | 726 | Jamie Gustafson |
-| 127 | 726 | Amy Suckarieh |
+| 126 | 726 | Amy Suckarieh |
+| 127 | 726 | Jamie Gustafson |
 | 128 | 725 | Brandon Crabbs |
 | 129 | 712 | Leslie Nicole |
 | 130 | 712 | H.R. Block |
 | 131 | 708 | Jacqueline Helm |
-| 132 | 704 | Chilly Crasher |
-| 133 | 704 | Austin Owens |
+| 132 | 704 | Austin Owens |
+| 133 | 704 | Chilly Crasher |
 | 134 | 682 | Raegan Lane-Ross |
 | 135 | 668 | Desi Desporte |
 | 136 | 667 | Lindsey Gonzalez |
@@ -216,8 +216,8 @@
 | 208 | 502 | Ericca Eldridge |
 | 209 | 501 | Sharyn Lemire |
 | 210 | 499 | Kesha Brady |
-| 211 | 496 | Jessica Bohlken |
-| 212 | 496 | Lori |
+| 211 | 496 | Lori |
+| 212 | 496 | Jessica Bohlken |
 | 213 | 495 | Joeliecea Cobb |
 | 214 | 494 | Bio Nelly |
 | 215 | 493 | Amanda Pauldo-Ivy |
@@ -276,9 +276,9 @@
 | 268 | 407 | Hyper Builder |
 | 269 | 407 | Rafael Valentin |
 | 270 | 402 | Nita Wells |
-| 271 | 399 | 030Synner |
-| 272 | 399 | Brittany Little |
-| 273 | 399 | Twisty Cascadezone |
+| 271 | 399 | Twisty Cascadezone |
+| 272 | 399 | 030Synner |
+| 273 | 399 | Brittany Little |
 | 274 | 398 | Tyler Terrific |
 | 275 | 397 | blockstar |
 | 276 | 395 | Denise B |
