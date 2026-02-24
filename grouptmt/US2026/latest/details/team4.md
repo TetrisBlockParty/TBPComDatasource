@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-24 18:12:42 UTC
+# Standings for team4 as of 2026-02-24 18:13:22 UTC
 
 **Total Participants:** 2058
 
@@ -69,10 +69,10 @@
 | 61 | 1215 | Ashley Ingram |
 | 62 | 1209 | Julian Garcia |
 | 63 | 1175 | Kimyatta Cavin |
-| 64 | 1169 | Chilly Line |
-| 65 | 1169 | Livvy |
-| 66 | 1164 | Avy Absol |
-| 67 | 1163 | Amelpss |
+| 64 | 1173 | Amelpss |
+| 65 | 1169 | Chilly Line |
+| 66 | 1169 | Livvy |
+| 67 | 1164 | Avy Absol |
 | 68 | 1154 | Alyssa Papen |
 | 69 | 1133 | Anthony Bryan Riva |
 | 70 | 1129 | LisaJo Picken Buchanan |
@@ -190,9 +190,9 @@
 | 182 | 583 | Christina Black |
 | 183 | 580 | Erin Sabol |
 | 184 | 579 | Oscar Alberto Perez |
-| 185 | 575 | Jenna Ingersoll |
-| 186 | 573 | Rico |
-| 187 | 572 | JPW |
+| 185 | 576 | JPW |
+| 186 | 575 | Jenna Ingersoll |
+| 187 | 573 | Rico |
 | 188 | 571 | Andy Cabral |
 | 189 | 570 | Carly Alexis |
 | 190 | 569 | Zesty Twistbuilder |
@@ -1551,18 +1551,18 @@
 | 1543 | 43 | Douglass |
 | 1544 | 43 | Frisky Striker |
 | 1545 | 43 | Giggly Slammer |
-| 1546 | 43 | Charlotte Garczynski |
+| 1546 | 43 | Johnny Jenks |
 | 1547 | 43 | Andre Rivera |
 | 1548 | 43 | Pablito Pablito |
-| 1549 | 43 | John Robert Roe |
-| 1550 | 43 | Johnny Jenks |
-| 1551 | 42 | Cheeky Linebuilder |
+| 1549 | 43 | Charlotte Garczynski |
+| 1550 | 43 | John Robert Roe |
+| 1551 | 42 | Pipiska |
 | 1552 | 42 | Tet |
 | 1553 | 42 | Hasty Matchgrid |
 | 1554 | 42 | JulioBookworm |
-| 1555 | 42 | Pipiska |
-| 1556 | 42 | Dani Roberts |
-| 1557 | 42 | Dreamy Rollpiece |
+| 1555 | 42 | Cheeky Linebuilder |
+| 1556 | 42 | Dreamy Rollpiece |
+| 1557 | 42 | Dani Roberts |
 | 1558 | 42 | Angela Catalanotto Ericksen |
 | 1559 | 42 | Daniel E Little Sr. |
 | 1560 | 42 | Simiara Robotham |
@@ -1589,51 +1589,51 @@
 | 1581 | 40 | Dandy Dasher |
 | 1582 | 40 | Les |
 | 1583 | 40 | Lush Rollblock |
-| 1584 | 39 | RickyBobby |
-| 1585 | 39 | Theron Bailey |
-| 1586 | 39 | Frilly Wipefit |
-| 1587 | 39 | Kellie Tacuban |
-| 1588 | 39 | Ees17 |
-| 1589 | 39 | Dee Dee Williams |
-| 1590 | 39 | Cheery Gridroll |
-| 1591 | 39 | Swanky Jumper |
-| 1592 | 39 | Anastasia Myers |
-| 1593 | 39 | Flashy Twister |
-| 1594 | 39 | Blockin88 |
-| 1595 | 39 | Scarlet Sunset |
-| 1596 | 38 | Suzie Boyd |
-| 1597 | 38 | Haley Jean |
-| 1598 | 38 | Dapper Wiper |
-| 1599 | 38 | Metrice |
-| 1600 | 38 | Ashley Gilland |
-| 1601 | 38 | Phoenix |
-| 1602 | 38 | Ashley Jaques |
-| 1603 | 38 | Ginger Snappy |
-| 1604 | 38 | rabbit777 |
-| 1605 | 38 | Clever Caster |
-| 1606 | 38 | Wacky Brickmatch |
-| 1607 | 38 | Akrasia |
-| 1608 | 38 | Sassy Block |
-| 1609 | 37 | Monica Denise Webb |
-| 1610 | 37 | Slinky Brickroll |
-| 1611 | 37 | Jazzy Cascadezone |
-| 1612 | 37 | Grant Everett Heaslip |
-| 1613 | 37 | Peachy Patternline |
-| 1614 | 37 | Cool Shatterclear |
-| 1615 | 37 | Tipsy Zonepiece |
-| 1616 | 37 | ihunty |
-| 1617 | 37 | Elaine Hall |
-| 1618 | 36 | Mia |
-| 1619 | 36 | InfinitLee |
-| 1620 | 36 | Rebecca Maino |
-| 1621 | 36 | Iajrbda Wjaudbrkq |
-| 1622 | 36 | Tiny Bubbles |
-| 1623 | 36 | Shiny Zonepiece |
-| 1624 | 36 | Bryson Peebles |
-| 1625 | 36 | Chase Andrews |
-| 1626 | 36 | Keith Allen |
-| 1627 | 36 | Zesty Blocky |
-| 1628 | 36 | Eric Dehn |
+| 1584 | 39 | Eric Dehn |
+| 1585 | 39 | RickyBobby |
+| 1586 | 39 | Theron Bailey |
+| 1587 | 39 | Frilly Wipefit |
+| 1588 | 39 | Kellie Tacuban |
+| 1589 | 39 | Ees17 |
+| 1590 | 39 | Dee Dee Williams |
+| 1591 | 39 | Cheery Gridroll |
+| 1592 | 39 | Swanky Jumper |
+| 1593 | 39 | Anastasia Myers |
+| 1594 | 39 | Flashy Twister |
+| 1595 | 39 | Blockin88 |
+| 1596 | 39 | Scarlet Sunset |
+| 1597 | 38 | Suzie Boyd |
+| 1598 | 38 | Haley Jean |
+| 1599 | 38 | Dapper Wiper |
+| 1600 | 38 | Metrice |
+| 1601 | 38 | Ashley Gilland |
+| 1602 | 38 | Phoenix |
+| 1603 | 38 | Ashley Jaques |
+| 1604 | 38 | Ginger Snappy |
+| 1605 | 38 | rabbit777 |
+| 1606 | 38 | Clever Caster |
+| 1607 | 38 | Wacky Brickmatch |
+| 1608 | 38 | Akrasia |
+| 1609 | 38 | Sassy Block |
+| 1610 | 37 | Monica Denise Webb |
+| 1611 | 37 | Slinky Brickroll |
+| 1612 | 37 | Jazzy Cascadezone |
+| 1613 | 37 | Grant Everett Heaslip |
+| 1614 | 37 | Peachy Patternline |
+| 1615 | 37 | Cool Shatterclear |
+| 1616 | 37 | Tipsy Zonepiece |
+| 1617 | 37 | ihunty |
+| 1618 | 37 | Elaine Hall |
+| 1619 | 36 | Mia |
+| 1620 | 36 | InfinitLee |
+| 1621 | 36 | Rebecca Maino |
+| 1622 | 36 | Iajrbda Wjaudbrkq |
+| 1623 | 36 | Tiny Bubbles |
+| 1624 | 36 | Shiny Zonepiece |
+| 1625 | 36 | Bryson Peebles |
+| 1626 | 36 | Chase Andrews |
+| 1627 | 36 | Keith Allen |
+| 1628 | 36 | Zesty Blocky |
 | 1629 | 35 | netzwrk |
 | 1630 | 35 | Cj Austin |
 | 1631 | 35 | Kathy Eschenbach |
