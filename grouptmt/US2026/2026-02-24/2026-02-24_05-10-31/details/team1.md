@@ -215,8 +215,8 @@
 | 207 | 446 | Spencer Lent |
 | 208 | 442 | Reesey Enyart |
 | 209 | 441 | Kimberly Garcia |
-| 210 | 439 | Witty Builderfit |
-| 211 | 439 | David Miller |
+| 210 | 439 | David Miller |
+| 211 | 439 | Witty Builderfit |
 | 212 | 434 | Mike Ames |
 | 213 | 432 | Brian Spotts |
 | 214 | 431 | Shiny Snapfit |
@@ -393,10 +393,10 @@
 | 385 | 289 | Lynn Adams |
 | 386 | 288 | Tanya Banks |
 | 387 | 288 | Test |
-| 388 | 288 | Tanya Banks |
-| 389 | 287 | Itspaigebro |
-| 390 | 287 | Madbull |
-| 391 | 287 | Blaire Bruckoff |
+| 388 | 287 | Blaire Bruckoff |
+| 389 | 287 | Madbull |
+| 390 | 287 | Itspaigebro |
+| 391 | 285 | Debbie Davis |
 | 392 | 285 | Ric Hard Hernandez |
 | 393 | 285 | Glitzy Grid |
 | 394 | 284 | Bouncy Grid |

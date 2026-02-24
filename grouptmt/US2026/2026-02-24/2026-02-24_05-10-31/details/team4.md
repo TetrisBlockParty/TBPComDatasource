@@ -151,16 +151,16 @@
 | 143 | 619 | April Rondinone |
 | 144 | 618 | Ernest Maxwell |
 | 145 | 616 | Carrie Brian |
-| 146 | 615 | Kim Hunt |
-| 147 | 615 | Angelito |
+| 146 | 615 | Angelito |
+| 147 | 615 | Kim Hunt |
 | 148 | 608 | Swanky Fitline |
 | 149 | 602 | Cristy Duerksen |
-| 150 | 599 | Adam Stephanie Parker |
-| 151 | 599 | shar |
-| 152 | 595 | Rodney McMath Jr. |
-| 153 | 595 | TRCuse |
+| 150 | 599 | shar |
+| 151 | 599 | Adam Stephanie Parker |
+| 152 | 595 | TRCuse |
+| 153 | 595 | Rodney McMath Jr. |
 | 154 | 587 | YoMomma |
-| 155 | 586 | Angela Srubar-Norman |
+| 155 | 586 | Latisha Davis |
 | 156 | 586 | Carlos Ramirez |
 | 157 | 586 | Cursed Hag |
 | 158 | 586 | Angela Srubar-Norman |
@@ -183,8 +183,8 @@
 | 175 | 538 | Steph Marie |
 | 176 | 537 | Scott Jameson |
 | 177 | 535 | Berklie Apedaile |
-| 178 | 532 | Matt Summer |
-| 179 | 532 | Alan George LaRage |
+| 178 | 532 | Alan George LaRage |
+| 179 | 532 | Matt Summer |
 | 180 | 528 | Erin Sabol |
 | 181 | 525 | Lucas J Sutton |
 | 182 | 522 | Carly Alexis |
@@ -203,12 +203,12 @@
 | 195 | 508 | Zesty Twistbuilder |
 | 196 | 507 | Andria Lynn |
 | 197 | 504 | Deanna Deckard |
-| 198 | 502 | Christina Black |
-| 199 | 502 | Ericca Eldridge |
+| 198 | 502 | Ericca Eldridge |
+| 199 | 502 | Christina Black |
 | 200 | 499 | Sharyn Lemire |
 | 201 | 499 | Kesha Brady |
-| 202 | 496 | Jessica Bohlken |
-| 203 | 496 | Lori |
+| 202 | 496 | Lori |
+| 203 | 496 | Jessica Bohlken |
 | 204 | 495 | Joeliecea Cobb |
 | 205 | 493 | Amanda Pauldo-Ivy |
 | 206 | 486 | Mylo Lipscomb |
@@ -250,8 +250,8 @@
 | 242 | 431 | Manny1 |
 | 243 | 428 | Chris Bernstein |
 | 244 | 427 | Chao Ma |
-| 245 | 421 | JIGsaw ~(•¿°)~ |
-| 246 | 421 | Andrew Dang |
+| 245 | 421 | Andrew Dang |
+| 246 | 421 | JIGsaw ~(•¿°)~ |
 | 247 | 419 | Gdiguy |
 | 248 | 413 | Jeff Brian Gates |
 | 249 | 411 | Autumn Kumzi |
@@ -266,9 +266,9 @@
 | 258 | 398 | Nerdy Twisterfit |
 | 259 | 398 | Tyler Terrific |
 | 260 | 397 | blockstar |
-| 261 | 395 | BigSammy420 |
+| 261 | 395 | 030Synner |
 | 262 | 395 | Denise B |
-| 263 | 395 | 030Synner |
+| 263 | 395 | BigSammy420 |
 | 264 | 392 | Neirrah B Olailjeel |
 | 265 | 391 | mike |
 | 266 | 390 | Ari Droff |
@@ -307,7 +307,7 @@
 | 299 | 347 | Zołza 😈 |
 | 300 | 347 | Megan Cutshaw |
 | 301 | 347 | Perky Patternblock |
-| 302 | 347 | Zołza 😈 |
+| 302 | 347 | Daria Rycewicz |
 | 303 | 346 | Metsfan |
 | 304 | 344 | Amanda Maciel Clarke |
 | 305 | 343 | HastyGrabber |
@@ -350,8 +350,8 @@
 | 342 | 314 | Kenna Gunderland |
 | 343 | 313 | DonMega |
 | 344 | 312 | Tawna Curry |
-| 345 | 311 | KayM |
-| 346 | 311 | Ak Jones |
+| 345 | 311 | Ak Jones |
+| 346 | 311 | KayM |
 | 347 | 310 | Glitzy Corner |
 | 348 | 308 | Angela Geist Jusinski |
 | 349 | 308 | Bradley Reeves |
@@ -378,7 +378,7 @@
 | 370 | 292 | Jumpy Zonepiece |
 | 371 | 291 | Ronald Brown Jr. |
 | 372 | 291 | DQ Martin |
-| 373 | 290 | Jared Gutwein |
+| 373 | 290 | Dapper Frame |
 | 374 | 290 | Amy Sanford |
 | 375 | 290 | Jared Gutwein |
 | 376 | 289 | Brave Spinbuilder |
