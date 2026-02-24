@@ -101,8 +101,8 @@
 | 93 | 878 | Lucille Truesdale |
 | 94 | 873 | Courtney Cicoria |
 | 95 | 869 | Judy Cox |
-| 96 | 864 | Guy Incognito |
-| 97 | 864 | Samantha Peterson |
+| 96 | 864 | Samantha Peterson |
+| 97 | 864 | Guy Incognito |
 | 98 | 854 | Shauna Havard |
 | 99 | 851 | Jason Hart |
 | 100 | 846 | Christine Marie |
@@ -135,16 +135,16 @@
 | 127 | 726 | Jamie Gustafson |
 | 128 | 725 | Brandon Crabbs |
 | 129 | 719 | George Nutt |
-| 130 | 712 | H.R. Block |
-| 131 | 712 | Leslie Nicole |
+| 130 | 712 | Leslie Nicole |
+| 131 | 712 | H.R. Block |
 | 132 | 708 | Jacqueline Helm |
-| 133 | 704 | Chilly Crasher |
-| 134 | 704 | Austin Owens |
+| 133 | 704 | Austin Owens |
+| 134 | 704 | Chilly Crasher |
 | 135 | 682 | Raegan Lane-Ross |
 | 136 | 668 | Desi Desporte |
-| 137 | 667 | Matt Gooder |
+| 137 | 667 | Lindsey Gonzalez |
 | 138 | 667 | Swanky Fitline |
-| 139 | 667 | Lindsey Gonzalez |
+| 139 | 667 | Matt Gooder |
 | 140 | 662 | Nerdy Twisterfit |
 | 141 | 661 | Rodney McMath Jr. |
 | 142 | 661 | Carmethia Clemons Haslerig |
@@ -344,8 +344,8 @@
 | 336 | 336 | ZeeZee |
 | 337 | 335 | Snippy Puzzle |
 | 338 | 334 | Zethra Prenisha Rahming |
-| 339 | 331 | rebel4lyfe |
-| 340 | 331 | Angie Schmidt |
+| 339 | 331 | Angie Schmidt |
+| 340 | 331 | rebel4lyfe |
 | 341 | 330 | Duck |
 | 342 | 329 | Meagan Nicole |
 | 343 | 329 | AyeKay |
@@ -547,13 +547,13 @@
 | 539 | 224 | Vanessa Smart |
 | 540 | 224 | Quirky Dash |
 | 541 | 223 | Perky Riser |
-| 542 | 223 | Funky Risepiece |
-| 543 | 223 | Cranky Glidebuilder |
+| 542 | 223 | Cranky Glidebuilder |
+| 543 | 223 | Funky Risepiece |
 | 544 | 223 | Shane Vick |
 | 545 | 223 | Jessica Atkinson |
 | 546 | 222 | Squeezy Pearsall |
-| 547 | 221 | Rheanda Weaskus |
-| 548 | 221 | Peppy Drop |
+| 547 | 221 | Peppy Drop |
+| 548 | 221 | Rheanda Weaskus |
 | 549 | 220 | Mighty Edgepiece |
 | 550 | 219 | Dapper Balancer |
 | 551 | 219 | Brandon Link |

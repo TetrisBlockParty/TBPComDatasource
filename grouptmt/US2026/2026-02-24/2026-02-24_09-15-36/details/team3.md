@@ -159,8 +159,8 @@
 | 151 | 950 | MissTaylor |
 | 152 | 950 | Giddy Drop |
 | 153 | 947 | Kellie Montgomery |
-| 154 | 940 | Patty Allen |
-| 155 | 940 | Stephanie Allmon |
+| 154 | 940 | Stephanie Allmon |
+| 155 | 940 | Patty Allen |
 | 156 | 936 | Dolores Falco |
 | 157 | 928 | Edwin Calvillo Jr. |
 | 158 | 925 | Cherry Parker |
@@ -184,8 +184,8 @@
 | 176 | 857 | Dana Fox |
 | 177 | 856 | Dana Winters |
 | 178 | 854 | Speedy Bridger |
-| 179 | 847 | Daring Brickzone |
-| 180 | 847 | Daira Largen |
+| 179 | 847 | Daira Largen |
+| 180 | 847 | Daring Brickzone |
 | 181 | 846 | Nicole Myers |
 | 182 | 832 | Alexmac |
 | 183 | 829 | Patricia White |
@@ -207,8 +207,8 @@
 | 199 | 784 | Jone |
 | 200 | 783 | Julian Murphy |
 | 201 | 777 | Daryn Elliott |
-| 202 | 774 | ren |
-| 203 | 774 | Twisty Brick LT |
+| 202 | 774 | Twisty Brick LT |
+| 203 | 774 | ren |
 | 204 | 772 | Hasty Cascadefit |
 | 205 | 768 | Cyd061769 |
 | 206 | 766 | Tasha Gillespie |
@@ -216,8 +216,8 @@
 | 208 | 760 | Kiki |
 | 209 | 759 | Mykal Burton |
 | 210 | 757 | Fancy Cascader |
-| 211 | 755 | Laura Booth Wosko |
-| 212 | 755 | Colton |
+| 211 | 755 | Colton |
+| 212 | 755 | Laura Booth Wosko |
 | 213 | 754 | CeceGeGe |
 | 214 | 753 | Morgan Martinez |
 | 215 | 752 | Joye Sims Binion |
@@ -231,8 +231,8 @@
 | 223 | 715 | Karon Griffin |
 | 224 | 714 | Jenny Hrndz |
 | 225 | 713 | Stephanie Blkpep Davidson |
-| 226 | 709 | Christine Niles |
-| 227 | 709 | Cynthia Castros-Hampton |
+| 226 | 709 | Cynthia Castros-Hampton |
+| 227 | 709 | Christine Niles |
 | 228 | 708 | Stephanie Bradley |
 | 229 | 704 | Betty Bóò |
 | 230 | 703 | Shawn Miller |
@@ -290,8 +290,8 @@
 | 282 | 582 | FuzzyNavel |
 | 283 | 581 | Crystal Hine |
 | 284 | 578 | James Mitchell |
-| 285 | 574 | Rachael McClain Owens |
-| 286 | 574 | Danielle Balcom |
+| 285 | 574 | Danielle Balcom |
+| 286 | 574 | Rachael McClain Owens |
 | 287 | 572 | Tessina Dewey-Mancino |
 | 288 | 570 | thekey |
 | 289 | 569 | Gray Hicks |
@@ -328,17 +328,17 @@
 | 320 | 505 | Stephanie Simpson |
 | 321 | 504 | Daring Builder |
 | 322 | 500 | Ashley Tookes |
-| 323 | 499 | Megan Rathmanner |
-| 324 | 499 | Gumbo |
+| 323 | 499 | Gumbo |
+| 324 | 499 | Megan Rathmanner |
 | 325 | 496 | Brenda Schmid Wood |
-| 326 | 494 | fraulila |
-| 327 | 494 | MCV |
+| 326 | 494 | MCV |
+| 327 | 494 | fraulila |
 | 328 | 492 | Tasha Wesson-Torrence |
 | 329 | 490 | Cassandra Bryant |
 | 330 | 489 | Isabel Ocasio |
 | 331 | 487 | MsBee |
-| 332 | 486 | Sleepy |
-| 333 | 486 | Skippy |
+| 332 | 486 | Skippy |
+| 333 | 486 | Sleepy |
 | 334 | 483 | Tegan Chapman |
 | 335 | 482 | Chummy Rumbler |
 | 336 | 481 | Tiffanie Alley |
@@ -407,8 +407,8 @@
 | 399 | 413 | Rick Poppen |
 | 400 | 411 | Beaudie Stroebel |
 | 401 | 409 | Rich LeBlanc |
-| 402 | 408 | Ashley Muncey |
-| 403 | 408 | Tiffany Ford |
+| 402 | 408 | Tiffany Ford |
+| 403 | 408 | Ashley Muncey |
 | 404 | 407 | Christina Spa |
 | 405 | 406 | Kristen Weese |
 | 406 | 405 | Andrew Thorson |
@@ -417,8 +417,8 @@
 | 409 | 404 | Giggy Balanceblock |
 | 410 | 403 | Scott Lindsay |
 | 411 | 403 | keni |
-| 412 | 401 | block chick |
-| 413 | 401 | Velma Mull |
+| 412 | 401 | Velma Mull |
+| 413 | 401 | block chick |
 | 414 | 400 | Joy Petroski |
 | 415 | 398 | Breezy Roll |
 | 416 | 397 | Kevin Russell |
@@ -442,8 +442,8 @@
 | 434 | 380 | neci |
 | 435 | 380 | Foltz Lee Kelli |
 | 436 | 379 | Krish Shah |
-| 437 | 378 | Ashley Lynn Marchese |
-| 438 | 378 | Samantha Worley |
+| 437 | 378 | Samantha Worley |
+| 438 | 378 | Ashley Lynn Marchese |
 | 439 | 377 | Paula Little |
 | 440 | 376 | Brittany |
 | 441 | 376 | Tracy Martin |
@@ -789,9 +789,9 @@
 | 781 | 245 | Latoya Mayne |
 | 782 | 245 | Bhreagh Gentile |
 | 783 | 245 | Danette Marie |
-| 784 | 244 | MizzMonick Smith |
-| 785 | 244 | LaJeanna Lee Lee |
-| 786 | 244 | Amanda Fulton |
+| 784 | 244 | LaJeanna Lee Lee |
+| 785 | 244 | Amanda Fulton |
+| 786 | 244 | MizzMonick Smith |
 | 787 | 242 | Tanesha BigBabby Darling |
 | 788 | 241 | David Bardo |
 | 789 | 241 | Jill Stickney |
