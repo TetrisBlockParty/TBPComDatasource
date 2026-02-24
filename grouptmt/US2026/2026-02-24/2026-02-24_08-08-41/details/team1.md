@@ -47,8 +47,8 @@
 | 39 | 1411 | Snappy Swiper |
 | 40 | 1405 | Chipper Gridlock |
 | 41 | 1391 | Aaron Garnett |
-| 42 | 1334 | june october |
-| 43 | 1334 | Tyler Alcock |
+| 42 | 1334 | Tyler Alcock |
+| 43 | 1334 | june october |
 | 44 | 1325 | Drew Magnus |
 | 45 | 1305 | Michelle Nicole |
 | 46 | 1292 | Marianne Louise West |
@@ -172,8 +172,8 @@
 | 164 | 547 | Sharon Reynolds |
 | 165 | 546 | Loony Fitzone |
 | 166 | 545 | .running. |
-| 167 | 543 | Nicole Roseberry Weber |
-| 168 | 543 | Adrian Esteban |
+| 167 | 543 | Adrian Esteban |
+| 168 | 543 | Nicole Roseberry Weber |
 | 169 | 542 | BadG52 |
 | 170 | 540 | Tonya Beasley |
 | 171 | 537 | Stephanie Zahn |
@@ -196,8 +196,8 @@
 | 188 | 501 | Jessica Russell |
 | 189 | 497 | MIKOZ |
 | 190 | 497 | Steve Schneider |
-| 191 | 496 | Sarah Somers Gray |
-| 192 | 496 | Michelle Beres |
+| 191 | 496 | Michelle Beres |
+| 192 | 496 | Sarah Somers Gray |
 | 193 | 495 | Connie |
 | 194 | 494 | Sean Stallings |
 | 195 | 494 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
@@ -239,10 +239,10 @@
 | 231 | 426 | Brenda Alexander |
 | 232 | 426 | Betsy |
 | 233 | 425 | Tyler Werts |
-| 234 | 424 | Emily Adelaide Wheatley |
-| 235 | 424 | Lindsay Glover |
-| 236 | 424 | Chelsea Dahlquist |
-| 237 | 424 | Serina Marie |
+| 234 | 424 | Serina Marie |
+| 235 | 424 | Chelsea Dahlquist |
+| 236 | 424 | Lindsay Glover |
+| 237 | 424 | Emily Adelaide Wheatley |
 | 238 | 423 | Howdi Duty |
 | 239 | 422 | Jamise Brown |
 | 240 | 421 | Plucky Stacky |
@@ -268,8 +268,8 @@
 | 260 | 396 | Sam Williams |
 | 261 | 394 | Nick R Montague |
 | 262 | 393 | Wisa |
-| 263 | 392 | Renee Tucker |
-| 264 | 392 | Poppy Riserpiece |
+| 263 | 392 | Poppy Riserpiece |
+| 264 | 392 | Renee Tucker |
 | 265 | 391 | Happy Basegrid |
 | 266 | 390 | David Lutcher |
 | 267 | 388 | Test |
@@ -335,7 +335,7 @@
 | 327 | 340 | Nutty Spinblock |
 | 328 | 338 | Layzietyme |
 | 329 | 338 | Michael Espinosa Ulibarri Jr. |
-| 330 | 338 | Layzietyme |
+| 330 | 338 | Tipsy Builder |
 | 331 | 337 | Chaste Minor |
 | 332 | 336 | Sarah Roberts |
 | 333 | 335 | Dreamy Drop |
@@ -358,8 +358,8 @@
 | 350 | 325 | Mitchel White |
 | 351 | 324 | Brave Wrecker |
 | 352 | 323 | Nadine Velardo |
-| 353 | 322 | Chris65 |
-| 354 | 322 | Hasty Columnbuilder |
+| 353 | 322 | Hasty Columnbuilder |
+| 354 | 322 | Chris65 |
 | 355 | 321 | LD1 |
 | 356 | 320 | Zany Tiler |
 | 357 | 319 | Fresno Beotoni |
@@ -378,8 +378,8 @@
 | 370 | 310 | Marci Sanders |
 | 371 | 310 | Chris Sigurdson |
 | 372 | 309 | Isaiah |
-| 373 | 308 | Agustin Duarte Orozco |
-| 374 | 308 | Katie Martin |
+| 373 | 308 | Katie Martin |
+| 374 | 308 | Agustin Duarte Orozco |
 | 375 | 306 | Sunny Shift |
 | 376 | 305 | Damian Salem |
 | 377 | 305 | Tavia |
@@ -491,8 +491,8 @@
 | 483 | 255 | Zesty Brickzone |
 | 484 | 254 | Kipoi |
 | 485 | 252 | Angela Dawn Torres-Tarrants |
-| 486 | 251 | MRdot Rooski |
-| 487 | 251 | Randy Broadwater |
+| 486 | 251 | Randy Broadwater |
+| 487 | 251 | MRdot Rooski |
 | 488 | 250 | Emmarieta Mendez |
 | 489 | 249 | Sassy Towerer |
 | 490 | 249 | GentleKitten7 |

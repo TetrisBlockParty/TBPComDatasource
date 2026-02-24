@@ -432,8 +432,8 @@
 | 424 | 1087 | Cindy Sechler Taninecz |
 | 425 | 1085 | Barbra Miller |
 | 426 | 1085 | Bee |
-| 427 | 1084 | William Hunt |
-| 428 | 1084 | Emilee Burke |
+| 427 | 1084 | Emilee Burke |
+| 428 | 1084 | William Hunt |
 | 429 | 1080 | Jennifer Monroe Kelly |
 | 430 | 1079 | Angela Bonquiqui Dinish |
 | 431 | 1079 | AndrewandShela Gornik |
@@ -592,8 +592,8 @@
 | 584 | 851 | Melissa Schulz |
 | 585 | 851 | James Louie |
 | 586 | 850 | Sabrina Burton |
-| 587 | 848 | Happy Wipeblock |
-| 588 | 848 | Jasmine Kenney |
+| 587 | 848 | Jasmine Kenney |
+| 588 | 848 | Happy Wipeblock |
 | 589 | 847 | Megan Kitchner |
 | 590 | 844 | Terri McKelvey McKinley |
 | 591 | 843 | Quirky Twistline |

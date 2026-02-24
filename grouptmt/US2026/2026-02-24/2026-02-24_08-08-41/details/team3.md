@@ -125,8 +125,8 @@
 | 117 | 1134 | Melissa Orth Hunter |
 | 118 | 1124 | Stephanie Rice |
 | 119 | 1121 | Corie A. Brinson |
-| 120 | 1114 | Groovy Catcher |
-| 121 | 1114 | Loopy Fallmatch |
+| 120 | 1114 | Loopy Fallmatch |
+| 121 | 1114 | Groovy Catcher |
 | 122 | 1105 | Adrian Marcel Pate |
 | 123 | 1093 | Angela M. Fletcher |
 | 124 | 1091 | Jennifer |
@@ -339,8 +339,8 @@
 | 331 | 483 | Tegan Chapman |
 | 332 | 482 | Chummy Rumbler |
 | 333 | 481 | Tiffanie Alley |
-| 334 | 480 | Dee Franklin |
-| 335 | 480 | TLM |
+| 334 | 480 | TLM |
+| 335 | 480 | Dee Franklin |
 | 336 | 479 | Charles Perrone |
 | 337 | 476 | Shunta Jacobs |
 | 338 | 474 | Troy |
@@ -355,11 +355,11 @@
 | 347 | 461 | Hyper Bridger |
 | 348 | 461 | Briana Wellman |
 | 349 | 460 | Antonia Russell |
-| 350 | 459 | TotoCherue |
-| 351 | 459 | Randy Clevenger |
+| 350 | 459 | Randy Clevenger |
+| 351 | 459 | TotoCherue |
 | 352 | 457 | Snippy Wipeout |
-| 353 | 456 | Cynthia Herrmann Egland |
-| 354 | 456 | Kelly |
+| 353 | 456 | Kelly |
+| 354 | 456 | Cynthia Herrmann Egland |
 | 355 | 455 | Kelly Wolf |
 | 356 | 450 | Stefanie LaPointe |
 | 357 | 450 | Luciana Braganca Vieira |
@@ -375,8 +375,8 @@
 | 367 | 443 | Christian Werndl |
 | 368 | 442 | Loopy Fallzone |
 | 369 | 438 | Dannie Litchard |
-| 370 | 436 | Julie Fratrik |
-| 371 | 436 | AC Yeater |
+| 370 | 436 | AC Yeater |
+| 371 | 436 | Julie Fratrik |
 | 372 | 435 | Sabrina Hardrick |
 | 373 | 434 | Criss |
 | 374 | 432 | Hoppy Patternline |
@@ -402,10 +402,10 @@
 | 394 | 414 | RickyG |
 | 395 | 413 | Rick Poppen |
 | 396 | 411 | Beaudie Stroebel |
-| 397 | 409 | Rich LeBlanc |
-| 398 | 409 | Roary Danner |
-| 399 | 408 | Ashley Muncey |
-| 400 | 408 | Tiffany Ford |
+| 397 | 409 | Roary Danner |
+| 398 | 409 | Rich LeBlanc |
+| 399 | 408 | Tiffany Ford |
+| 400 | 408 | Ashley Muncey |
 | 401 | 407 | Christina Spa |
 | 402 | 406 | Kristen Weese |
 | 403 | 405 | Andrew Thorson |
@@ -610,10 +610,10 @@
 | 602 | 302 | Lickity Split |
 | 603 | 299 | Quirky Snapfit |
 | 604 | 299 | Angie Harper |
-| 605 | 299 | Quirky Snapfit |
-| 606 | 297 | Cameo Tweed |
-| 607 | 297 | Zac Hudak |
-| 608 | 297 | Angel Miller |
+| 605 | 299 | Six |
+| 606 | 297 | Angel Miller |
+| 607 | 297 | Cameo Tweed |
+| 608 | 297 | Zac Hudak |
 | 609 | 296 | JoshAllenfan17 |
 | 610 | 295 | Omega |
 | 611 | 294 | Kita A Jackson |

@@ -113,8 +113,8 @@
 | 105 | 813 | Klo |
 | 106 | 811 | Sassy Pattern |
 | 107 | 806 | Lori Walker |
-| 108 | 802 | Denise Carlson |
-| 109 | 802 | Crystal Carroll |
+| 108 | 802 | Crystal Carroll |
+| 109 | 802 | Denise Carlson |
 | 110 | 801 | D3TROITB0RN74 |
 | 111 | 798 | Jewell Urban |
 | 112 | 786 | Zippy Gridlock |
@@ -131,8 +131,8 @@
 | 123 | 735 | Nugget |
 | 124 | 731 | KJ Pool |
 | 125 | 729 | Jamie Mann-Deichmann |
-| 126 | 726 | Amy Suckarieh |
-| 127 | 726 | Jamie Gustafson |
+| 126 | 726 | Jamie Gustafson |
+| 127 | 726 | Amy Suckarieh |
 | 128 | 725 | Brandon Crabbs |
 | 129 | 712 | Leslie Nicole |
 | 130 | 712 | H.R. Block |
@@ -201,9 +201,9 @@
 | 193 | 521 | Andy Cabral |
 | 194 | 520 | Zippy Block |
 | 195 | 520 | Oscar Alberto Perez |
-| 196 | 516 | Nick Gray |
+| 196 | 516 | Twisty Clicky |
 | 197 | 516 | Trish |
-| 198 | 516 | Twisty Clicky |
+| 198 | 516 | Nick Gray |
 | 199 | 513 | Milan Markeisha |
 | 200 | 513 | Zesty Twistbuilder |
 | 201 | 512 | Casey Jeffcoat |
@@ -212,12 +212,12 @@
 | 204 | 509 | Mimi |
 | 205 | 507 | Andria Lynn |
 | 206 | 504 | Deanna Deckard |
-| 207 | 502 | Ericca Eldridge |
-| 208 | 502 | Christina Black |
+| 207 | 502 | Christina Black |
+| 208 | 502 | Ericca Eldridge |
 | 209 | 501 | Sharyn Lemire |
 | 210 | 499 | Kesha Brady |
-| 211 | 496 | Lori |
-| 212 | 496 | Jessica Bohlken |
+| 211 | 496 | Jessica Bohlken |
+| 212 | 496 | Lori |
 | 213 | 495 | Joeliecea Cobb |
 | 214 | 494 | Bio Nelly |
 | 215 | 493 | Amanda Pauldo-Ivy |
@@ -705,7 +705,7 @@
 | 697 | 168 | Mike Nelson |
 | 698 | 168 | Krista Buffaloe |
 | 699 | 168 | LunaMoon |
-| 700 | 168 | Amy C Brown |
+| 700 | 168 | Kristin MacDonald |
 | 701 | 168 | Holly Tracey-Grimes |
 | 702 | 168 | Amy C Brown |
 | 703 | 167 | Dapper Caster |
