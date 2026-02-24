@@ -208,8 +208,8 @@
 | 200 | 446 | Spencer Lent |
 | 201 | 442 | Reesey Enyart |
 | 202 | 441 | Kimberly Garcia |
-| 203 | 439 | Witty Builderfit |
-| 204 | 439 | David Miller |
+| 203 | 439 | David Miller |
+| 204 | 439 | Witty Builderfit |
 | 205 | 433 | Mike Ames |
 | 206 | 432 | Lori Bales |
 | 207 | 432 | Brian Spotts |
@@ -273,7 +273,7 @@
 | 265 | 370 | Gracie |
 | 266 | 367 | Jamie Jury |
 | 267 | 366 | J.F. Fields |
-| 268 | 365 | Shannon Marie Pitts |
+| 268 | 365 | Danielle S Kester |
 | 269 | 365 | Amanda Holibaugh |
 | 270 | 365 | Shannon Marie Pitts |
 | 271 | 364 | Shauna Loe |

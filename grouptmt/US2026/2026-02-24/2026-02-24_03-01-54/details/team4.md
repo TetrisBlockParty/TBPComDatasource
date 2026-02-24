@@ -131,8 +131,8 @@
 | 123 | 702 | Amy Suckarieh |
 | 124 | 698 | Chilly Crasher |
 | 125 | 690 | Denia Deni |
-| 126 | 682 | Raegan Lane-Ross |
-| 127 | 682 | Jamie Gustafson |
+| 126 | 682 | Jamie Gustafson |
+| 127 | 682 | Raegan Lane-Ross |
 | 128 | 667 | Lindsey Gonzalez |
 | 129 | 664 | Leslie Nicole |
 | 130 | 662 | George Nutt |
@@ -162,8 +162,8 @@
 | 154 | 580 | Cursed Hag |
 | 155 | 578 | Livvy |
 | 156 | 575 | Jenna Ingersoll |
-| 157 | 574 | Carlos Ramirez |
-| 158 | 574 | Carmethia Clemons Haslerig |
+| 157 | 574 | Carmethia Clemons Haslerig |
+| 158 | 574 | Carlos Ramirez |
 | 159 | 567 | Rico |
 | 160 | 565 | Ren Mc |
 | 161 | 560 | Chastity Mitchell |
@@ -205,8 +205,8 @@
 | 197 | 491 | Jade Rian |
 | 198 | 478 | Casey Grabner |
 | 199 | 477 | Rebecca Morris |
-| 200 | 476 | Matt Summer |
-| 201 | 476 | Mylo Lipscomb |
+| 200 | 476 | Mylo Lipscomb |
+| 201 | 476 | Matt Summer |
 | 202 | 474 | Joanna |
 | 203 | 473 | Jolly Dashfit |
 | 204 | 467 | Amanda Pauldo-Ivy |
@@ -248,18 +248,18 @@
 | 240 | 413 | Jeff Brian Gates |
 | 241 | 411 | Autumn Kumzi |
 | 242 | 410 | Lindsay Ball |
-| 243 | 409 | Antony Dwayne Beasley |
-| 244 | 409 | Joseph Guthrie |
+| 243 | 409 | Joseph Guthrie |
+| 244 | 409 | Antony Dwayne Beasley |
 | 245 | 408 | Lauren Scott |
 | 246 | 406 | TinyLegoRose |
 | 247 | 400 | Brickh4us |
-| 248 | 398 | Tyler Terrific |
-| 249 | 398 | Nerdy Twisterfit |
-| 250 | 397 | blasterB |
-| 251 | 397 | blockstar |
+| 248 | 398 | Nerdy Twisterfit |
+| 249 | 398 | Tyler Terrific |
+| 250 | 397 | blockstar |
+| 251 | 397 | blasterB |
 | 252 | 396 | scott |
-| 253 | 395 | BigSammy420 |
-| 254 | 395 | 030Synner |
+| 253 | 395 | 030Synner |
+| 254 | 395 | BigSammy420 |
 | 255 | 394 | Nita Wells |
 | 256 | 392 | Neirrah B Olailjeel |
 | 257 | 391 | mike |
@@ -272,23 +272,23 @@
 | 264 | 380 | Rio Rocha |
 | 265 | 380 | Jen Caldwell |
 | 266 | 379 | Backoff Recupe |
-| 267 | 378 | Holly Jolly |
+| 267 | 378 | Googenheim |
 | 268 | 378 | Mary Ann Pabukis |
 | 269 | 378 | Holly Jolly |
 | 270 | 376 | Nig |
 | 271 | 376 | Montiette Mcglown |
 | 272 | 374 | Chaz |
-| 273 | 370 | Cheery Risebuilder |
-| 274 | 370 | Kris Bartlett |
+| 273 | 370 | Kris Bartlett |
+| 274 | 370 | Cheery Risebuilder |
 | 275 | 369 | Matt Dell'Olio |
 | 276 | 367 | Meg |
-| 277 | 366 | Hyper Builder |
-| 278 | 366 | Andrew Dang |
+| 277 | 366 | Andrew Dang |
+| 278 | 366 | Hyper Builder |
 | 279 | 360 | James Hurley Jr. |
 | 280 | 359 | KimoKoala |
-| 281 | 358 | David Lay |
-| 282 | 358 | Twisty Cascadezone |
-| 283 | 358 | Lora |
+| 281 | 358 | Lora |
+| 282 | 358 | David Lay |
+| 283 | 358 | Twisty Cascadezone |
 | 284 | 350 | Dizzy Matchzone |
 | 285 | 349 | jim |
 | 286 | 348 | Dihcheese444 |
