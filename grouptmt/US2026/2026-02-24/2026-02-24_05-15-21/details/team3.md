@@ -128,8 +128,8 @@
 | 120 | 1084 | Santana Lantana |
 | 121 | 1082 | Valerie Gendron |
 | 122 | 1067 | DaBigGuy |
-| 123 | 1066 | Demetrious Shaw Sr. |
-| 124 | 1066 | Jennifer |
+| 123 | 1066 | Jennifer |
+| 124 | 1066 | Demetrious Shaw Sr. |
 | 125 | 1065 | Rachel |
 | 126 | 1058 | Katrina Schroeder |
 | 127 | 1055 | Christine Trester |
@@ -285,8 +285,8 @@
 | 277 | 547 | Aerian Preston |
 | 278 | 546 | Cynthia Castros-Hampton |
 | 279 | 546 | lashanda |
-| 280 | 544 | Tamara Deherrera |
-| 281 | 544 | Angella Lyons |
+| 280 | 544 | Angella Lyons |
+| 281 | 544 | Tamara Deherrera |
 | 282 | 542 | France Vézina |
 | 283 | 541 | Scott Carleton |
 | 284 | 541 | Gray Hicks |

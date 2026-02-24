@@ -131,8 +131,8 @@
 | 123 | 718 | Zippy Gridlock |
 | 124 | 712 | H.R. Block |
 | 125 | 708 | Jacqueline Helm |
-| 126 | 704 | Chilly Crasher |
-| 127 | 704 | Austin Owens |
+| 126 | 704 | Austin Owens |
+| 127 | 704 | Chilly Crasher |
 | 128 | 690 | Denia Deni |
 | 129 | 682 | Raegan Lane-Ross |
 | 130 | 669 | Leslie Nicole |
@@ -151,8 +151,8 @@
 | 143 | 619 | April Rondinone |
 | 144 | 618 | Ernest Maxwell |
 | 145 | 616 | Carrie Brian |
-| 146 | 615 | Angelito |
-| 147 | 615 | Kim Hunt |
+| 146 | 615 | Kim Hunt |
+| 147 | 615 | Angelito |
 | 148 | 608 | Swanky Fitline |
 | 149 | 602 | Cristy Duerksen |
 | 150 | 599 | Adam Stephanie Parker |

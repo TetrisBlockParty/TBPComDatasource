@@ -670,8 +670,8 @@
 | 662 | 742 | Cassie Maynard |
 | 663 | 741 | Leah Keesling |
 | 664 | 741 | Ashley Munn |
-| 665 | 740 | Lylymom |
-| 666 | 740 | Jerry Tempelmeyer |
+| 665 | 740 | Jerry Tempelmeyer |
+| 666 | 740 | Lylymom |
 | 667 | 740 | Lee Harper |
 | 668 | 740 | Cathleena Giusto |
 | 669 | 739 | Johanna Massaro |
