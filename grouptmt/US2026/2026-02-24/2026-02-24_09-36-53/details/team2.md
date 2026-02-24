@@ -317,10 +317,10 @@
 | 309 | 1357 | Tanya Parsons |
 | 310 | 1353 | Deborah Miller |
 | 311 | 1353 | Heather Hoffman Disharoon |
-| 312 | 1351 | Lucky Ladybug |
-| 313 | 1351 | Ashie Ann |
-| 314 | 1351 | Denisha Dawkins |
-| 315 | 1351 | Johnny Yeates |
+| 312 | 1351 | Ashie Ann |
+| 313 | 1351 | Lucky Ladybug |
+| 314 | 1351 | Johnny Yeates |
+| 315 | 1351 | Denisha Dawkins |
 | 316 | 1345 | Shiny Twistfit |
 | 317 | 1342 | Kelly A Green-Leach |
 | 318 | 1342 | Groovy Puzzle |
@@ -516,8 +516,8 @@
 | 508 | 965 | Lonne Emade |
 | 509 | 964 | John Bednarik |
 | 510 | 963 | Casper The Chonk |
-| 511 | 962 | Kathleen Driskell |
-| 512 | 962 | Antionette Sewell |
+| 511 | 962 | Antionette Sewell |
+| 512 | 962 | Kathleen Driskell |
 | 513 | 960 | Smashanator |
 | 514 | 958 | Jc Gilk |
 | 515 | 958 | Lisa Ongtowasruk |
@@ -774,8 +774,8 @@
 | 766 | 710 | Alexis Richardson |
 | 767 | 707 | Giggy Grabber |
 | 768 | 706 | Karen Posadas Centeno |
-| 769 | 706 | Roseanna Peloso |
-| 770 | 706 | Josh Webster |
+| 769 | 706 | Josh Webster |
+| 770 | 706 | Roseanna Peloso |
 | 771 | 705 | Chelsea Gutierrez |
 | 772 | 704 | Terry Paulson |
 | 773 | 703 | Funky Drop |
@@ -880,8 +880,8 @@
 | 872 | 652 | Lively Edgepiece |
 | 873 | 652 | Dane Reing |
 | 874 | 652 | Kimmie Zimmerman-Rocha |
-| 875 | 651 | Unica Rector |
-| 876 | 651 | Lazy Builderfit |
+| 875 | 651 | Lazy Builderfit |
+| 876 | 651 | Unica Rector |
 | 877 | 650 | Pfc Monei Rivera |
 | 878 | 650 | Brittany Chapman |
 | 879 | 650 | Peppy Snapfall |
@@ -1359,7 +1359,7 @@
 | 1351 | 452 | Maria Hammett |
 | 1352 | 452 | Michael David Hollis |
 | 1353 | 452 | Luba Mainz |
-| 1354 | 452 | Michael David Hollis |
+| 1354 | 452 | Kelly Ann |
 | 1355 | 451 | Crafty Rumbler |
 | 1356 | 451 | Gursharan Sandhu |
 | 1357 | 450 | Brandi Fuller Cason |

@@ -162,8 +162,8 @@
 | 154 | 582 | Hellsin |
 | 155 | 581 | Jennifer Hardman |
 | 156 | 574 | Bouncy Grid |
-| 157 | 570 | Cody Slav |
-| 158 | 570 | Dee Perry |
+| 157 | 570 | Dee Perry |
+| 158 | 570 | Cody Slav |
 | 159 | 568 | Jason Savage |
 | 160 | 562 | Timothy Danaher |
 | 161 | 557 | Νεφ Όνυξ |
@@ -176,8 +176,8 @@
 | 168 | 548 | Luciano Moreira |
 | 169 | 547 | Sharon Reynolds |
 | 170 | 545 | .running. |
-| 171 | 543 | Nicole Roseberry Weber |
-| 172 | 543 | Adrian Esteban |
+| 171 | 543 | Adrian Esteban |
+| 172 | 543 | Nicole Roseberry Weber |
 | 173 | 542 | BadG52 |
 | 174 | 540 | Tonya Beasley |
 | 175 | 537 | Stephanie Zahn |
@@ -206,8 +206,8 @@
 | 198 | 493 | Speedy Liney |
 | 199 | 493 | Chuck Gannon |
 | 200 | 492 | Happy Snapbuild |
-| 201 | 488 | Jessie Welch |
-| 202 | 488 | Ly Phethmany |
+| 201 | 488 | Ly Phethmany |
+| 202 | 488 | Jessie Welch |
 | 203 | 486 | Mike Ames |
 | 204 | 482 | Adele Rahman |
 | 205 | 479 | canbrick |
@@ -263,8 +263,8 @@
 | 255 | 409 | Lehrin Maria |
 | 256 | 405 | Tyler L Hunt |
 | 257 | 403 | Alenoush Karimian |
-| 258 | 403 | Jen Nystrom |
-| 259 | 403 | Tami Luce Martin |
+| 258 | 403 | Tami Luce Martin |
+| 259 | 403 | Jen Nystrom |
 | 260 | 399 | Lakeisha Chapman |
 | 261 | 398 | Cece Ibarra |
 | 262 | 398 | MommaKFC |
@@ -417,10 +417,10 @@
 | 409 | 291 | Danielle Mae |
 | 410 | 291 | Sir-Franchise Drake |
 | 411 | 290 | Brave Slice |
-| 412 | 290 | Blake Mckay |
-| 413 | 290 | Nate Funk |
-| 414 | 289 | Snappy Bridgepiece |
-| 415 | 289 | Camelia Trevillion |
+| 412 | 290 | Nate Funk |
+| 413 | 290 | Blake Mckay |
+| 414 | 289 | Camelia Trevillion |
+| 415 | 289 | Snappy Bridgepiece |
 | 416 | 288 | Anita Jack |
 | 417 | 288 | Tanya Banks |
 | 418 | 287 | Lyn Sibayan |
@@ -431,8 +431,8 @@
 | 423 | 287 | Jason Benitez |
 | 424 | 285 | Quirky Pusher |
 | 425 | 285 | Ric Hard Hernandez |
-| 426 | 285 | Debbie Davis |
-| 427 | 285 | Quirky Pusher |
+| 426 | 285 | Tiffany Smith |
+| 427 | 285 | Debbie Davis |
 | 428 | 284 | Angela Fairbank |
 | 429 | 283 | Franswa |
 | 430 | 283 | Teddy Alexander |

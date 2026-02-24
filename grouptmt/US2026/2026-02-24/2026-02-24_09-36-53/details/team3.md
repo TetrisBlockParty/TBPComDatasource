@@ -126,8 +126,8 @@
 | 118 | 1134 | Melissa Orth Hunter |
 | 119 | 1124 | Stephanie Rice |
 | 120 | 1121 | Corie A. Brinson |
-| 121 | 1114 | Loopy Fallmatch |
-| 122 | 1114 | Groovy Catcher |
+| 121 | 1114 | Groovy Catcher |
+| 122 | 1114 | Loopy Fallmatch |
 | 123 | 1105 | Adrian Marcel Pate |
 | 124 | 1093 | Angela M. Fletcher |
 | 125 | 1091 | Jennifer |
@@ -159,8 +159,8 @@
 | 151 | 950 | MissTaylor |
 | 152 | 950 | Giddy Drop |
 | 153 | 947 | Kellie Montgomery |
-| 154 | 940 | Patty Allen |
-| 155 | 940 | Stephanie Allmon |
+| 154 | 940 | Stephanie Allmon |
+| 155 | 940 | Patty Allen |
 | 156 | 936 | Dolores Falco |
 | 157 | 928 | Edwin Calvillo Jr. |
 | 158 | 925 | Cherry Parker |
@@ -176,8 +176,8 @@
 | 168 | 875 | Chasity |
 | 169 | 874 | Jessica Pineda-Lopez |
 | 170 | 871 | Rochelle Hazelett |
-| 171 | 868 | Nicole Flippo |
-| 172 | 868 | Cranky Gridder |
+| 171 | 868 | Cranky Gridder |
+| 172 | 868 | Nicole Flippo |
 | 173 | 866 | Domo Washington |
 | 174 | 864 | Sunny Rotater |
 | 175 | 862 | Santeria Trece Candles |
@@ -275,8 +275,8 @@
 | 267 | 618 | Kaitie Oliver |
 | 268 | 606 | Connie Mohler-Fair |
 | 269 | 605 | Sarah Cowan Burgos |
-| 270 | 604 | Sherry Ogden |
-| 271 | 604 | Bmo |
+| 270 | 604 | Bmo |
+| 271 | 604 | Sherry Ogden |
 | 272 | 601 | Betty Rosas |
 | 273 | 600 | Rynne Ellis |
 | 274 | 600 | Natasha Jones |
@@ -285,8 +285,8 @@
 | 277 | 594 | Cozy Snaplink |
 | 278 | 594 | Marci Mize Fandrich |
 | 279 | 588 | Salena Whitlock |
-| 280 | 586 | Brian Battjes |
-| 281 | 586 | Donna |
+| 280 | 586 | Donna |
+| 281 | 586 | Brian Battjes |
 | 282 | 582 | FuzzyNavel |
 | 283 | 581 | Crystal Hine |
 | 284 | 578 | James Mitchell |
@@ -310,8 +310,8 @@
 | 302 | 547 | Aerian Preston |
 | 303 | 542 | France Vézina |
 | 304 | 541 | Mcathen |
-| 305 | 540 | rosy |
-| 306 | 540 | Tanya Kittrell |
+| 305 | 540 | Tanya Kittrell |
+| 306 | 540 | rosy |
 | 307 | 539 | Fancy Curver |
 | 308 | 539 | Kate M. Murdock |
 | 309 | 538 | Chummy Caster |
@@ -332,8 +332,8 @@
 | 324 | 499 | Gumbo |
 | 325 | 499 | Megan Rathmanner |
 | 326 | 496 | Brenda Schmid Wood |
-| 327 | 494 | MCV |
-| 328 | 494 | fraulila |
+| 327 | 494 | fraulila |
+| 328 | 494 | MCV |
 | 329 | 492 | Tasha Wesson-Torrence |
 | 330 | 490 | Cassandra Bryant |
 | 331 | 489 | Isabel Ocasio |
@@ -379,8 +379,8 @@
 | 371 | 443 | Christian Werndl |
 | 372 | 442 | Loopy Fallzone |
 | 373 | 438 | Dannie Litchard |
-| 374 | 436 | Julie Fratrik |
-| 375 | 436 | AC Yeater |
+| 374 | 436 | AC Yeater |
+| 375 | 436 | Julie Fratrik |
 | 376 | 435 | Sabrina Hardrick |
 | 377 | 434 | Ginger Gray |
 | 378 | 434 | Criss |
@@ -601,9 +601,9 @@
 | 593 | 308 | Quirky Dropzone |
 | 594 | 308 | Danetta McCadden |
 | 595 | 307 | Kristina Gardner |
-| 596 | 306 | Valerie Tarkington |
-| 597 | 306 | Alexis Ford |
-| 598 | 306 | BigE |
+| 596 | 306 | BigE |
+| 597 | 306 | Valerie Tarkington |
+| 598 | 306 | Alexis Ford |
 | 599 | 305 | Frisky Stacker |
 | 600 | 304 | _melisa223_ |
 | 601 | 304 | Carrie Resler |
@@ -780,7 +780,7 @@
 | 772 | 247 | Jennifer Evans |
 | 773 | 247 | Glitzy Rotate |
 | 774 | 247 | Melanie Sherwood |
-| 775 | 247 | Glitzy Rotate |
+| 775 | 247 | Barbara Bennett |
 | 776 | 247 | Taylor |
 | 777 | 246 | MomOnBreak |
 | 778 | 246 | Erica Anderson |

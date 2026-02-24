@@ -147,8 +147,8 @@
 | 139 | 667 | Lindsey Gonzalez |
 | 140 | 667 | Swanky Fitline |
 | 141 | 662 | Nerdy Twisterfit |
-| 142 | 661 | shar |
-| 143 | 661 | Rodney McMath Jr. |
+| 142 | 661 | Rodney McMath Jr. |
+| 143 | 661 | shar |
 | 144 | 651 | Adawna Swires |
 | 145 | 650 | Chris Hartig |
 | 146 | 647 | KM8 |
@@ -156,8 +156,8 @@
 | 148 | 638 | Porkobello |
 | 149 | 635 | Kim Hunt |
 | 150 | 634 | Carrie Brian |
-| 151 | 633 | Jessica Lynn Cutlip |
-| 152 | 633 | Adam Stephanie Parker |
+| 151 | 633 | Adam Stephanie Parker |
+| 152 | 633 | Jessica Lynn Cutlip |
 | 153 | 629 | Chris Baggett |
 | 154 | 623 | Angela Srubar-Norman |
 | 155 | 623 | ku5hkween |
@@ -247,8 +247,8 @@
 | 239 | 454 | David Lay |
 | 240 | 450 | Genne Scott |
 | 241 | 449 | Danielle Kollias |
-| 242 | 448 | Mike Solo |
-| 243 | 448 | Mr. Party |
+| 242 | 448 | Mr. Party |
+| 243 | 448 | Mike Solo |
 | 244 | 447 | Jen Mattei |
 | 245 | 444 | Selena Shaw |
 | 246 | 442 | John Brunetti |
@@ -272,10 +272,10 @@
 | 264 | 413 | Rio Rocha |
 | 265 | 411 | Autumn Kumzi |
 | 266 | 410 | Lindsay Ball |
-| 267 | 409 | Antony Dwayne Beasley |
-| 268 | 409 | Joseph Guthrie |
-| 269 | 408 | Dihcheese444 |
-| 270 | 408 | Lauren Scott |
+| 267 | 409 | Joseph Guthrie |
+| 268 | 409 | Antony Dwayne Beasley |
+| 269 | 408 | Lauren Scott |
+| 270 | 408 | Dihcheese444 |
 | 271 | 407 | Rafael Valentin |
 | 272 | 407 | Hyper Builder |
 | 273 | 402 | Nita Wells |
@@ -434,14 +434,14 @@
 | 426 | 277 | Silly SeaWeed |
 | 427 | 276 | Dennis Bradley |
 | 428 | 275 | Jarred Falls |
-| 429 | 274 | Hector Duran |
-| 430 | 274 | Kourtney Barnes |
+| 429 | 274 | Kourtney Barnes |
+| 430 | 274 | Hector Duran |
 | 431 | 273 | Lane Wasson |
 | 432 | 272 | ChuckBuck Copeland |
 | 433 | 271 | ImJustMe |
 | 434 | 270 | 07VHVW |
-| 435 | 268 | Sallie Sanborn |
-| 436 | 268 | Riverdale |
+| 435 | 268 | Riverdale |
+| 436 | 268 | Sallie Sanborn |
 | 437 | 266 | ĥuf |
 | 438 | 266 | Happy Combo |
 | 439 | 266 | Helen Chao |
@@ -573,7 +573,7 @@
 | 565 | 215 | Steve |
 | 566 | 215 | JoJo |
 | 567 | 214 | Demont Darius |
-| 568 | 214 | Susan R. Wilson |
+| 568 | 214 | Kelly Adams Carnahan |
 | 569 | 214 | Flashy Jumper |
 | 570 | 214 | Brad Campbell |
 | 571 | 214 | Susan R. Wilson |
