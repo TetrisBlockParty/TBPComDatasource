@@ -51,8 +51,8 @@
 | 43 | 1497 | Juggalo |
 | 44 | 1478 | Sammy Noguera |
 | 45 | 1469 | Kimberly Love |
-| 46 | 1461 | Shane Kalamata Platoon |
-| 47 | 1461 | Yoset Mejia |
+| 46 | 1461 | Yoset Mejia |
+| 47 | 1461 | Shane Kalamata Platoon |
 | 48 | 1456 | Michelle Marie |
 | 49 | 1430 | Landon Keith Graffeo |
 | 50 | 1386 | Jen Allison |
@@ -145,15 +145,15 @@
 | 137 | 687 | Carmethia Clemons Haslerig |
 | 138 | 682 | Raegan Lane-Ross |
 | 139 | 668 | Desi Desporte |
-| 140 | 667 | Matt Gooder |
-| 141 | 667 | Swanky Fitline |
+| 140 | 667 | Swanky Fitline |
+| 141 | 667 | Matt Gooder |
 | 142 | 667 | Lindsey Gonzalez |
 | 143 | 662 | Nerdy Twisterfit |
-| 144 | 661 | shar |
-| 145 | 661 | Rodney McMath Jr. |
+| 144 | 661 | Rodney McMath Jr. |
+| 145 | 661 | shar |
 | 146 | 651 | Adawna Swires |
-| 147 | 650 | Chris Hartig |
-| 148 | 650 | April Rondinone |
+| 147 | 650 | April Rondinone |
+| 148 | 650 | Chris Hartig |
 | 149 | 647 | KM8 |
 | 150 | 646 | Kim Hunt |
 | 151 | 639 | Serena Goodridge |
@@ -173,10 +173,10 @@
 | 165 | 602 | Cristy Duerksen |
 | 166 | 597 | Berklie Apedaile |
 | 167 | 595 | TRCuse |
-| 168 | 586 | Rebecca Morris |
-| 169 | 586 | Latisha Davis |
-| 170 | 585 | Tracey Lehmann |
-| 171 | 585 | Lori |
+| 168 | 586 | Latisha Davis |
+| 169 | 586 | Rebecca Morris |
+| 170 | 585 | Lori |
+| 171 | 585 | Tracey Lehmann |
 | 172 | 584 | Carlton Unfiltered |
 | 173 | 576 | Jade Rian |
 | 174 | 575 | Jenna Ingersoll |
@@ -257,8 +257,8 @@
 | 249 | 448 | Mike Solo |
 | 250 | 448 | Mr. Party |
 | 251 | 447 | Chris Bernstein |
-| 252 | 444 | Twisty Cascadezone |
-| 253 | 444 | Selena Shaw |
+| 252 | 444 | Selena Shaw |
+| 253 | 444 | Twisty Cascadezone |
 | 254 | 442 | John Brunetti |
 | 255 | 441 | Lush Linkfall |
 | 256 | 440 | Brickh4us |
@@ -268,9 +268,9 @@
 | 260 | 432 | Jason Gibbs |
 | 261 | 430 | 030Synner |
 | 262 | 428 | Gdiguy |
-| 263 | 427 | Jeff Brian Gates |
-| 264 | 427 | Cheery Risebuilder |
-| 265 | 427 | Chao Ma |
+| 263 | 427 | Chao Ma |
+| 264 | 427 | Jeff Brian Gates |
+| 265 | 427 | Cheery Risebuilder |
 | 266 | 425 | mike |
 | 267 | 425 | Lee Silpe |
 | 268 | 424 | Andrew Dang |
@@ -280,8 +280,8 @@
 | 272 | 419 | Hyper Matchclear |
 | 273 | 417 | Rafael Valentin |
 | 274 | 413 | Rio Rocha |
-| 275 | 411 | Backoff Recupe |
-| 276 | 411 | Autumn Kumzi |
+| 275 | 411 | Autumn Kumzi |
+| 276 | 411 | Backoff Recupe |
 | 277 | 410 | Lindsay Ball |
 | 278 | 409 | Antony Dwayne Beasley |
 | 279 | 408 | Neirrah B Olailjeel |
@@ -306,11 +306,11 @@
 | 298 | 380 | Chaz |
 | 299 | 380 | Holly Jolly |
 | 300 | 380 | Jen Caldwell |
-| 301 | 378 | Googenheim |
-| 302 | 378 | Mary Ann Pabukis |
+| 301 | 378 | Mary Ann Pabukis |
+| 302 | 378 | Googenheim |
 | 303 | 376 | Nig |
-| 304 | 375 | George Tzouganos |
-| 305 | 375 | Dan Wold |
+| 304 | 375 | Dan Wold |
+| 305 | 375 | George Tzouganos |
 | 306 | 373 | Russ Attitude |
 | 307 | 370 | Kris Bartlett |
 | 308 | 370 | Twisty Risebuilder |
@@ -318,11 +318,11 @@
 | 310 | 366 | Ak Jones |
 | 311 | 364 | Lora |
 | 312 | 362 | Nubian1 |
-| 313 | 359 | Holly |
-| 314 | 359 | Allen Lloyd |
+| 313 | 359 | Allen Lloyd |
+| 314 | 359 | Holly |
 | 315 | 359 | Sho Nuff |
-| 316 | 354 | Perky Piecegrid |
-| 317 | 354 | @ |
+| 316 | 354 | @ |
+| 317 | 354 | Perky Piecegrid |
 | 318 | 352 | Kate |
 | 319 | 351 | Dana Scott |
 | 320 | 351 | Metsfan |
@@ -469,8 +469,8 @@
 | 461 | 260 | PennyCandee |
 | 462 | 258 | Ashlee Carnes |
 | 463 | 258 | April Spoelma |
-| 464 | 257 | ThriftySpice |
-| 465 | 257 | Laura Hosford |
+| 464 | 257 | Laura Hosford |
+| 465 | 257 | ThriftySpice |
 | 466 | 257 | Laurel Coppess |
 | 467 | 256 | Tipsy Cascader |
 | 468 | 256 | bloat princess |

@@ -317,8 +317,8 @@
 | 309 | 1381 | Christie |
 | 310 | 1381 | Dapper Dasher |
 | 311 | 1380 | Jerilyn Andrina |
-| 312 | 1376 | Kevin Sees |
-| 313 | 1376 | Megan Brianna |
+| 312 | 1376 | Megan Brianna |
+| 313 | 1376 | Kevin Sees |
 | 314 | 1374 | Sarah Berger |
 | 315 | 1362 | Angie Marie |
 | 316 | 1357 | Tanya Parsons |
@@ -333,8 +333,8 @@
 | 325 | 1342 | Groovy Puzzle |
 | 326 | 1342 | Kelly A Green-Leach |
 | 327 | 1341 | Cassie Mercer |
-| 328 | 1338 | Diallo Sparkman |
-| 329 | 1338 | Meghan M |
+| 328 | 1338 | Meghan M |
+| 329 | 1338 | Diallo Sparkman |
 | 330 | 1336 | Frothy Rumbler |
 | 331 | 1334 | Jamie Otero |
 | 332 | 1333 | nikki |
@@ -364,8 +364,8 @@
 | 356 | 1262 | Toni Roberson |
 | 357 | 1261 | Becca Coronado |
 | 358 | 1259 | AkaLefty |
-| 359 | 1257 | Megan Ferguson Leone |
-| 360 | 1257 | Megan Garrick |
+| 359 | 1257 | Megan Garrick |
+| 360 | 1257 | Megan Ferguson Leone |
 | 361 | 1257 | Jackie Lucas |
 | 362 | 1256 | Phil J. Grombliniak |
 | 363 | 1256 | Belle |
@@ -521,7 +521,7 @@
 | 513 | 973 | Taryece Gause |
 | 514 | 972 | Angela Yantz |
 | 515 | 970 | Smashanator |
-| 516 | 969 | Connie Jimenez |
+| 516 | 969 | Andrew Willis |
 | 517 | 969 | Shuany Arias |
 | 518 | 969 | Connie Jimenez |
 | 519 | 968 | John Bednarik |
@@ -595,8 +595,8 @@
 | 587 | 872 | Trisha Gallagher |
 | 588 | 871 | Dennis McLaurin |
 | 589 | 870 | Joy LaJeunesse |
-| 590 | 866 | Tammie Siegfried |
-| 591 | 866 | Mishka Upchurch |
+| 590 | 866 | Mishka Upchurch |
+| 591 | 866 | Tammie Siegfried |
 | 592 | 865 | Lilia Gomez |
 | 593 | 861 | Shavonna Haynes |
 | 594 | 861 | Beth |
@@ -733,8 +733,8 @@
 | 725 | 749 | Trisha J Schmidt |
 | 726 | 748 | Sassy Linkroll |
 | 727 | 746 | Emily Lyric Converse |
-| 728 | 743 | Gloria Ininahazwe |
-| 729 | 743 | Véronique Lévesque Sabourin |
+| 728 | 743 | Véronique Lévesque Sabourin |
+| 729 | 743 | Gloria Ininahazwe |
 | 730 | 743 | Clever Dashgrid |
 | 731 | 742 | Rhonda Petro |
 | 732 | 741 | Leah Keesling |
@@ -748,8 +748,8 @@
 | 740 | 736 | Kenan Catovic |
 | 741 | 734 | Michelle Sager |
 | 742 | 734 | goofinoff |
-| 743 | 733 | Christine Bollig |
-| 744 | 733 | Victor Obiakarije |
+| 743 | 733 | Victor Obiakarije |
+| 744 | 733 | Christine Bollig |
 | 745 | 733 | Joce Lynn |
 | 746 | 733 | calcap |
 | 747 | 732 | Leticia Martinez Kelley |
@@ -892,8 +892,8 @@
 | 884 | 652 | Lively Edgepiece |
 | 885 | 652 | Court |
 | 886 | 652 | Irna |
-| 887 | 651 | Lazy Builderfit |
-| 888 | 651 | Unica Rector |
+| 887 | 651 | Unica Rector |
+| 888 | 651 | Lazy Builderfit |
 | 889 | 650 | Pfc Monei Rivera |
 | 890 | 650 | Brittany Chapman |
 | 891 | 650 | Peppy Snapfall |

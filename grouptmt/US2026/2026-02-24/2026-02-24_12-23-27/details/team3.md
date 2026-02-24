@@ -32,8 +32,8 @@
 | 24 | 3221 | Ashley Jones |
 | 25 | 3118 | Jamie Lang |
 | 26 | 3042 | Nerdy Spinblock |
-| 27 | 2933 | Grego Daniel |
-| 28 | 2933 | Dan Rob |
+| 27 | 2933 | Dan Rob |
+| 28 | 2933 | Grego Daniel |
 | 29 | 2874 | Zippy Strikesnap |
 | 30 | 2873 | Chummy Shatterer |
 | 31 | 2816 | Fancy Slam |
@@ -70,16 +70,16 @@
 | 62 | 1868 | Kristie McFarland |
 | 63 | 1836 | Tina Kay |
 | 64 | 1825 | Nora Rogers |
-| 65 | 1824 | Nate Burnside |
-| 66 | 1824 | Jessica Ann |
+| 65 | 1824 | Jessica Ann |
+| 66 | 1824 | Nate Burnside |
 | 67 | 1791 | Leah Barnett |
 | 68 | 1776 | Whitney Manuel |
 | 69 | 1774 | Liv Whetson |
 | 70 | 1769 | Aaron Pitkin |
 | 71 | 1691 | Cass Mendoza |
 | 72 | 1681 | Gracie |
-| 73 | 1663 | Mahman |
-| 74 | 1663 | Angeline Joseph |
+| 73 | 1663 | Angeline Joseph |
+| 74 | 1663 | Mahman |
 | 75 | 1640 | Elaine Webb Graves |
 | 76 | 1633 | cowboy25469 |
 | 77 | 1625 | Queen Kam |
@@ -111,8 +111,8 @@
 | 103 | 1311 | JerseyJess |
 | 104 | 1309 | yoyo |
 | 105 | 1297 | Shelby Michelle |
-| 106 | 1282 | Peppy Shifter |
-| 107 | 1282 | Amanda L Baker |
+| 106 | 1282 | Amanda L Baker |
+| 107 | 1282 | Peppy Shifter |
 | 108 | 1280 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1248 | Lori Barnaby |
@@ -127,8 +127,8 @@
 | 119 | 1152 | Julian Murphy |
 | 120 | 1124 | Stephanie Rice |
 | 121 | 1121 | Corie A. Brinson |
-| 122 | 1114 | Loopy Fallmatch |
-| 123 | 1114 | Groovy Catcher |
+| 122 | 1114 | Groovy Catcher |
+| 123 | 1114 | Loopy Fallmatch |
 | 124 | 1105 | Adrian Marcel Pate |
 | 125 | 1101 | Valerie Gendron |
 | 126 | 1093 | Angela M. Fletcher |
@@ -160,8 +160,8 @@
 | 152 | 963 | Crystal Frey |
 | 153 | 961 | Danielle Allison |
 | 154 | 951 | Betty Rosas |
-| 155 | 950 | MissTaylor |
-| 156 | 950 | Giddy Drop |
+| 155 | 950 | Giddy Drop |
+| 156 | 950 | MissTaylor |
 | 157 | 947 | Kellie Montgomery |
 | 158 | 940 | Stephanie Allmon |
 | 159 | 936 | Dolores Falco |
@@ -188,8 +188,8 @@
 | 180 | 858 | Nicole Myers |
 | 181 | 856 | Dana Winters |
 | 182 | 854 | Speedy Bridger |
-| 183 | 847 | Daring Brickzone |
-| 184 | 847 | Daira Largen |
+| 183 | 847 | Daira Largen |
+| 184 | 847 | Daring Brickzone |
 | 185 | 842 | Alexmac |
 | 186 | 829 | Patricia White |
 | 187 | 826 | Kiki |
@@ -272,8 +272,8 @@
 | 264 | 633 | Rebecca Funderburk Kirby |
 | 265 | 632 | Rebecca Bailey |
 | 266 | 629 | rnr junky |
-| 267 | 627 | Louise Stacy Sisson |
-| 268 | 627 | Juliana Dottore |
+| 267 | 627 | Juliana Dottore |
+| 268 | 627 | Louise Stacy Sisson |
 | 269 | 626 | Cheryl Hinch Tenbrook |
 | 270 | 625 | Jacqueline Rodriguez |
 | 271 | 624 | Hyper Matchzone |
@@ -328,19 +328,19 @@
 | 320 | 518 | Marquita Sheard |
 | 321 | 516 | Skippy |
 | 322 | 514 | Nikki White |
-| 323 | 506 | Ammmmmmy |
-| 324 | 506 | Tiffanie Alley |
+| 323 | 506 | Tiffanie Alley |
+| 324 | 506 | Ammmmmmy |
 | 325 | 504 | Daring Builder |
 | 326 | 500 | Ashley Tookes |
-| 327 | 499 | Gumbo |
-| 328 | 499 | Megan Rathmanner |
+| 327 | 499 | Megan Rathmanner |
+| 328 | 499 | Gumbo |
 | 329 | 497 | Chummy Rumbler |
 | 330 | 496 | Brenda Schmid Wood |
 | 331 | 494 | fraulila |
 | 332 | 494 | MCV |
 | 333 | 492 | Tasha Wesson-Torrence |
-| 334 | 490 | Cassandra Bryant |
-| 335 | 490 | TotoCherue |
+| 334 | 490 | TotoCherue |
+| 335 | 490 | Cassandra Bryant |
 | 336 | 489 | Isabel Ocasio |
 | 337 | 487 | MsBee |
 | 338 | 486 | Sleepy |
@@ -367,8 +367,8 @@
 | 359 | 464 | Snazzy Filler |
 | 360 | 464 | Snippy Wipeout |
 | 361 | 463 | Hoài Quắt |
-| 362 | 461 | Breanna Marsden |
-| 363 | 461 | Hyper Bridger |
+| 362 | 461 | Hyper Bridger |
+| 363 | 461 | Breanna Marsden |
 | 364 | 461 | Briana Wellman |
 | 365 | 460 | Antonia Russell |
 | 366 | 460 | Hasty Gridpiece |
@@ -511,8 +511,8 @@
 | 503 | 345 | Nita Frikitona |
 | 504 | 343 | Christina Marie Swisher |
 | 505 | 343 | Michael Leblanc |
-| 506 | 342 | Saucy Buildout |
-| 507 | 342 | Sunny Lift |
+| 506 | 342 | Sunny Lift |
+| 507 | 342 | Saucy Buildout |
 | 508 | 342 | Tipsy Zonebuilder |
 | 509 | 342 | Boldy Corner |
 | 510 | 341 | Funky Jumper |
@@ -1422,7 +1422,7 @@
 | 1414 | 135 | Happy Buildsnap |
 | 1415 | 135 | Kathleen Hastad |
 | 1416 | 134 | Zippy bang |
-| 1417 | 134 | Jess Reppert |
+| 1417 | 134 | biggstan |
 | 1418 | 134 | Sharon Dudley Lawson |
 | 1419 | 134 | Jess Reppert |
 | 1420 | 133 | Mathhew Tompkins |
