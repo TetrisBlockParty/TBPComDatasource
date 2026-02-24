@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-24 19:20:43 UTC
+# Standings for team4 as of 2026-02-24 19:21:24 UTC
 
 **Total Participants:** 2071
 
@@ -12,7 +12,7 @@
 | 4 | 6065 | Kat |
 | 5 | 5371 | Breannah Grafe |
 | 6 | 5108 | East Mamba |
-| 7 | 4828 | Alyssa Cox |
+| 7 | 4871 | Alyssa Cox |
 | 8 | 4533 | Kristy Wintermantel |
 | 9 | 4270 | Alicia Bass |
 | 10 | 4007 | Anthony Magaraci |
@@ -94,9 +94,9 @@
 | 86 | 1009 | loulou |
 | 87 | 989 | Edward White |
 | 88 | 985 | Shannon Ferrari |
-| 89 | 981 | Monica Daley |
-| 90 | 971 | Chaz Duncan |
-| 91 | 968 | Jewell Urban |
+| 89 | 985 | Jewell Urban |
+| 90 | 981 | Monica Daley |
+| 91 | 971 | Chaz Duncan |
 | 92 | 967 | Courtney Cicoria |
 | 93 | 964 | Patron Anderson |
 | 94 | 952 | Jonathan Kimbrough |
@@ -172,8 +172,8 @@
 | 164 | 642 | Cindy Looper |
 | 165 | 640 | Steph Marie |
 | 166 | 635 | Berklie Apedaile |
-| 167 | 626 | Chastity Mitchell |
-| 168 | 624 | Cursed Hag |
+| 167 | 632 | Cursed Hag |
+| 168 | 626 | Chastity Mitchell |
 | 169 | 623 | ku5hkween |
 | 170 | 621 | Angelito |
 | 171 | 618 | YoMomma |
@@ -488,13 +488,13 @@
 | 480 | 274 | Brooke Kaune |
 | 481 | 274 | GBR |
 | 482 | 274 | Cheery Fitline |
-| 483 | 273 | Sam Middleton |
-| 484 | 272 | ChuckBuck Copeland |
-| 485 | 271 | Jackson Karen |
-| 486 | 271 | Jessica Atkinson |
-| 487 | 270 | 07VHVW |
-| 488 | 270 | Jen May |
-| 489 | 269 | Jesse Saville |
+| 483 | 273 | Jesse Saville |
+| 484 | 273 | Sam Middleton |
+| 485 | 272 | ChuckBuck Copeland |
+| 486 | 271 | Jackson Karen |
+| 487 | 271 | Jessica Atkinson |
+| 488 | 270 | 07VHVW |
+| 489 | 270 | Jen May |
 | 490 | 269 | moneybagz |
 | 491 | 268 | Riverdale |
 | 492 | 267 | Bubbly Twistpiece |
@@ -1097,19 +1097,19 @@
 | 1089 | 100 | Geetara |
 | 1090 | 99 | Wacky Shatterline |
 | 1091 | 99 | Lynette Manning |
-| 1092 | 99 | Camille |
-| 1093 | 98 | Epic Tilt |
-| 1094 | 98 | Loopy Bouncer |
-| 1095 | 98 | Speedy Zigzag |
-| 1096 | 98 | Maurice Daniels |
-| 1097 | 98 | Zappy Piecefit |
-| 1098 | 98 | James May |
-| 1099 | 97 | Crystal Canfield |
-| 1100 | 97 | Giggy Bridgepiece |
-| 1101 | 97 | Katrina Looney |
-| 1102 | 97 | Sweet Pea |
-| 1103 | 97 | Peyton Mclaughlin |
-| 1104 | 97 | Austin |
+| 1092 | 99 | Austin |
+| 1093 | 99 | Camille |
+| 1094 | 98 | Epic Tilt |
+| 1095 | 98 | Loopy Bouncer |
+| 1096 | 98 | Speedy Zigzag |
+| 1097 | 98 | Maurice Daniels |
+| 1098 | 98 | Zappy Piecefit |
+| 1099 | 98 | James May |
+| 1100 | 97 | Crystal Canfield |
+| 1101 | 97 | Giggy Bridgepiece |
+| 1102 | 97 | Katrina Looney |
+| 1103 | 97 | Sweet Pea |
+| 1104 | 97 | Peyton Mclaughlin |
 | 1105 | 96 | Danielle Love |
 | 1106 | 96 | 805 |
 | 1107 | 96 | Dyrtie1 |
@@ -1138,8 +1138,8 @@
 | 1130 | 93 | Krystal McPherson |
 | 1131 | 93 | Lush Cluster |
 | 1132 | 93 | Travis Poe |
-| 1133 | 93 | Haddiyah Bilal |
-| 1134 | 93 | Zippy Stack |
+| 1133 | 93 | Zippy Stack |
+| 1134 | 93 | Haddiyah Bilal |
 | 1135 | 92 | Peppy Tilebuilder |
 | 1136 | 92 | Denye |
 | 1137 | 92 | Speedy Wipeblock |
@@ -1161,19 +1161,19 @@
 | 1153 | 89 | Mary Haynes |
 | 1154 | 89 | Erin Kushner |
 | 1155 | 89 | Tarina Berner |
-| 1156 | 88 | Bubbly Crawler |
-| 1157 | 88 | KrakaLackin |
-| 1158 | 88 | Mathew Dissinger |
-| 1159 | 88 | Ann Poulson |
-| 1160 | 88 | Missy Conley Sayne |
-| 1161 | 87 | Tangelo |
-| 1162 | 87 | RonRico Thomas |
-| 1163 | 87 | Derek Pendarvis |
-| 1164 | 87 | Laura Smith |
-| 1165 | 87 | chygesshu |
-| 1166 | 87 | Kat |
-| 1167 | 87 | Chad Moore |
-| 1168 | 87 | deebop |
+| 1156 | 89 | deebop |
+| 1157 | 88 | Bubbly Crawler |
+| 1158 | 88 | KrakaLackin |
+| 1159 | 88 | Mathew Dissinger |
+| 1160 | 88 | Ann Poulson |
+| 1161 | 88 | Missy Conley Sayne |
+| 1162 | 87 | Tangelo |
+| 1163 | 87 | RonRico Thomas |
+| 1164 | 87 | Derek Pendarvis |
+| 1165 | 87 | Laura Smith |
+| 1166 | 87 | chygesshu |
+| 1167 | 87 | Kat |
+| 1168 | 87 | Chad Moore |
 | 1169 | 87 | Kristen Raper |
 | 1170 | 86 | Barbara Rietzke |
 | 1171 | 86 | Kimberly Goncalves |
@@ -1211,8 +1211,8 @@
 | 1203 | 82 | Thomas R. Phillips |
 | 1204 | 82 | Kimberly Paxton |
 | 1205 | 82 | Amanda Lanctot |
-| 1206 | 82 | Jennifer Dresser |
-| 1207 | 82 | Jorge Hamoui |
+| 1206 | 82 | Jorge Hamoui |
+| 1207 | 82 | Jennifer Dresser |
 | 1208 | 81 | Jay-Remy Stringseer |
 | 1209 | 81 | Tiffany Root |
 | 1210 | 81 | Taco Taco |
@@ -1226,11 +1226,11 @@
 | 1218 | 80 | Boldy Linkfall |
 | 1219 | 80 | Jr McQue |
 | 1220 | 80 | Cozy Tiley |
-| 1221 | 80 | Tonya |
-| 1222 | 80 | Leslie Parker |
-| 1223 | 80 | jay |
-| 1224 | 80 | Arthur Reeves Jr. |
-| 1225 | 80 | Erin DeArman |
+| 1221 | 80 | jay |
+| 1222 | 80 | Erin DeArman |
+| 1223 | 80 | Arthur Reeves Jr. |
+| 1224 | 80 | Leslie Parker |
+| 1225 | 80 | Tonya |
 | 1226 | 80 | Joshua A Bea |
 | 1227 | 79 | Joleeoleeooo |
 | 1228 | 79 | Jessalyn Jordan Davis |
