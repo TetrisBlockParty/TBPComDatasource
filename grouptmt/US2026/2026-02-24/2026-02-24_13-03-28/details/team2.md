@@ -140,8 +140,8 @@
 | 132 | 2661 | Mema |
 | 133 | 2640 | bonsai |
 | 134 | 2629 | Altamirano Michael |
-| 135 | 2613 | Jen Tramack |
-| 136 | 2613 | Gloria Liu |
+| 135 | 2613 | Gloria Liu |
+| 136 | 2613 | Jen Tramack |
 | 137 | 2607 | Rob Surace |
 | 138 | 2601 | Lexi Tschappatt |
 | 139 | 2529 | Tj Ball |
@@ -364,8 +364,8 @@
 | 356 | 1262 | Toni Roberson |
 | 357 | 1261 | Becca Coronado |
 | 358 | 1259 | AkaLefty |
-| 359 | 1257 | Megan Garrick |
-| 360 | 1257 | Megan Ferguson Leone |
+| 359 | 1257 | Megan Ferguson Leone |
+| 360 | 1257 | Megan Garrick |
 | 361 | 1257 | Jackie Lucas |
 | 362 | 1256 | Phil J. Grombliniak |
 | 363 | 1256 | Belle |
@@ -911,8 +911,8 @@
 | 903 | 644 | Kevin Luu |
 | 904 | 643 | Rae Rae |
 | 905 | 642 | Lewis Sturgeon |
-| 906 | 641 | Snappy Faller |
-| 907 | 641 | Happy Tile |
+| 906 | 641 | Happy Tile |
+| 907 | 641 | Snappy Faller |
 | 908 | 640 | Taylor Flowers |
 | 909 | 639 | Shindee |
 | 910 | 639 | Tina Marie |

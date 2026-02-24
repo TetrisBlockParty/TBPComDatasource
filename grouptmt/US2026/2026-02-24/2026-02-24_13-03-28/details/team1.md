@@ -166,8 +166,8 @@
 | 158 | 587 | Deanna L Hermanson |
 | 159 | 586 | Christy Jones |
 | 160 | 582 | Hellsin |
-| 161 | 576 | Brandi Huntington |
-| 162 | 576 | Tonya Beasley |
+| 161 | 576 | Tonya Beasley |
+| 162 | 576 | Brandi Huntington |
 | 163 | 574 | Bouncy Grid |
 | 164 | 570 | Dee Perry |
 | 165 | 570 | Cody Slav |
@@ -236,8 +236,8 @@
 | 228 | 449 | Tawnya Peltonen |
 | 229 | 448 | Yvonne Marie |
 | 230 | 447 | Monica Donato |
-| 231 | 446 | Spencer Lent |
-| 232 | 446 | SkipTheSadSauce |
+| 231 | 446 | SkipTheSadSauce |
+| 232 | 446 | Spencer Lent |
 | 233 | 444 | Angela Renea Lester |
 | 234 | 441 | Billie Ann Eason |
 | 235 | 439 | David Miller |
@@ -306,11 +306,11 @@
 | 298 | 376 | Brian Richardsson |
 | 299 | 376 | Sassy Builderline |
 | 300 | 374 | Snappy Brickbuilder |
-| 301 | 372 | Strig |
-| 302 | 372 | Dizzy Party |
-| 303 | 371 | Danielle S Kester |
-| 304 | 371 | Jaimie Lynn |
-| 305 | 371 | Keith Mathis |
+| 301 | 372 | Dizzy Party |
+| 302 | 372 | Strig |
+| 303 | 371 | Keith Mathis |
+| 304 | 371 | Danielle S Kester |
+| 305 | 371 | Jaimie Lynn |
 | 306 | 370 | Gracie |
 | 307 | 368 | Avelyn Calamba |
 | 308 | 367 | April Jones |
@@ -553,8 +553,8 @@
 | 545 | 236 | Marie White |
 | 546 | 236 | whocares |
 | 547 | 236 | Lark |
-| 548 | 235 | Miguel Teixeira |
-| 549 | 235 | Sabrina Coleman |
+| 548 | 235 | Sabrina Coleman |
+| 549 | 235 | Miguel Teixeira |
 | 550 | 235 | Nutty Glide |
 | 551 | 234 | Burnnetter Sisk |
 | 552 | 234 | Aaron Green |
