@@ -442,8 +442,8 @@
 | 434 | 1075 | SaraMarie Eveland |
 | 435 | 1074 | Diana Ayers |
 | 436 | 1073 | Jodi Blake |
-| 437 | 1071 | Nashu |
-| 438 | 1071 | Kim Dean |
+| 437 | 1071 | Kim Dean |
+| 438 | 1071 | Nashu |
 | 439 | 1068 | Tiffany Branham |
 | 440 | 1067 | Taylor Phillips |
 | 441 | 1067 | Lourisha |
@@ -977,8 +977,8 @@
 | 969 | 589 | Sharon Madeiros |
 | 970 | 588 | Wayne Fields |
 | 971 | 587 | Alexx Anaya |
-| 972 | 586 | Cat Thompson |
-| 973 | 586 | Tracy Wise Moon |
+| 972 | 586 | Tracy Wise Moon |
+| 973 | 586 | Cat Thompson |
 | 974 | 586 | Tra Barnum |
 | 975 | 585 | Danielle DeLozier Plesec |
 | 976 | 585 | Laquetta Royston |
@@ -1260,9 +1260,9 @@
 | 1252 | 475 | Aretta Ariel-Boggs |
 | 1253 | 475 | Trey Petty |
 | 1254 | 475 | Oscar Bernie |
-| 1255 | 474 | Lisa Bare |
+| 1255 | 474 | James Zaragoza |
 | 1256 | 474 | Calandra Shaya Robinson |
-| 1257 | 474 | James Zaragoza |
+| 1257 | 474 | Lisa Bare |
 | 1258 | 474 | Lisa Falcon |
 | 1259 | 473 | PlazTTV |
 | 1260 | 472 | Stelleana Cook |
@@ -1293,9 +1293,9 @@
 | 1285 | 465 | Paden Mullenax |
 | 1286 | 465 | Loopy Mover |
 | 1287 | 464 | Maddie |
-| 1288 | 464 | Ladii_Elmo |
+| 1288 | 464 | Pammie Miller |
 | 1289 | 464 | Natasha Edmonds |
-| 1290 | 464 | Pammie Miller |
+| 1290 | 464 | Ladii_Elmo |
 | 1291 | 464 | Joseph Greenlee |
 | 1292 | 463 | Ys Muhammed |
 | 1293 | 463 | Jaye EL Hunter |

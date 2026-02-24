@@ -216,8 +216,8 @@
 | 208 | 502 | Christina Black |
 | 209 | 501 | Sharyn Lemire |
 | 210 | 499 | Kesha Brady |
-| 211 | 496 | Lori |
-| 212 | 496 | Jessica Bohlken |
+| 211 | 496 | Jessica Bohlken |
+| 212 | 496 | Lori |
 | 213 | 495 | Joeliecea Cobb |
 | 214 | 493 | Amanda Pauldo-Ivy |
 | 215 | 491 | Manny1 |
@@ -301,8 +301,8 @@
 | 293 | 375 | George Tzouganos |
 | 294 | 373 | Russ Attitude |
 | 295 | 371 | Jessi Cinotto |
-| 296 | 370 | Twisty Risebuilder |
-| 297 | 370 | Kris Bartlett |
+| 296 | 370 | Kris Bartlett |
+| 297 | 370 | Twisty Risebuilder |
 | 298 | 368 | Dan Wold |
 | 299 | 367 | Meg |
 | 300 | 365 | David Lay |
@@ -315,8 +315,8 @@
 | 307 | 354 | Perky Piecegrid |
 | 308 | 354 | @ |
 | 309 | 352 | Kate |
-| 310 | 351 | Dana Scott |
-| 311 | 351 | Jackie Clark |
+| 310 | 351 | Jackie Clark |
+| 311 | 351 | Dana Scott |
 | 312 | 350 | Dizzy Matchzone |
 | 313 | 349 | Richard-April Kice |
 | 314 | 349 | jim |
@@ -652,7 +652,7 @@
 | 644 | 182 | Cheery Towerzone |
 | 645 | 182 | Stephanie Mico |
 | 646 | 182 | Bigeddie |
-| 647 | 182 | Tamika Starkey |
+| 647 | 182 | Jay You |
 | 648 | 181 | Caitlyn Brown |
 | 649 | 181 | Cool Clusterfit |
 | 650 | 179 | Joseph Gray |

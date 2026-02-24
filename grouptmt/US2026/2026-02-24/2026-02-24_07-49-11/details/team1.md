@@ -202,8 +202,8 @@
 | 194 | 494 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 195 | 493 | Speedy Liney |
 | 196 | 492 | Happy Snapbuild |
-| 197 | 488 | Jessie Welch |
-| 198 | 488 | Ly Phethmany |
+| 197 | 488 | Ly Phethmany |
+| 198 | 488 | Jessie Welch |
 | 199 | 487 | Eric DeSimone |
 | 200 | 482 | Mike Ames |
 | 201 | 479 | canbrick |
@@ -223,8 +223,8 @@
 | 215 | 449 | Tawnya Peltonen |
 | 216 | 448 | Yvonne Marie |
 | 217 | 446 | Spencer Lent |
-| 218 | 446 | SkipTheSadSauce |
-| 219 | 446 | Adele Rahman |
+| 218 | 446 | Adele Rahman |
+| 219 | 446 | SkipTheSadSauce |
 | 220 | 441 | Kimberly Garcia |
 | 221 | 440 | Monica Donato |
 | 222 | 439 | David Miller |
@@ -613,8 +613,8 @@
 | 605 | 205 | Lauren Baxter |
 | 606 | 205 | Davery Spencer Adair |
 | 607 | 204 | Jill King Oldham |
-| 608 | 203 | MelSavage |
-| 609 | 203 | Ashley Rodriguez |
+| 608 | 203 | Ashley Rodriguez |
+| 609 | 203 | MelSavage |
 | 610 | 202 | grizzly |
 | 611 | 201 | Hector Cruz |
 | 612 | 200 | Tina Sinclair |
@@ -673,8 +673,8 @@
 | 665 | 186 | Lilkimmie |
 | 666 | 185 | Tim Russell |
 | 667 | 185 | Kkl |
-| 668 | 184 | Marie Fox |
-| 669 | 184 | Oliver Hollins |
+| 668 | 184 | Missy Broz McNees |
+| 669 | 184 | Marie Fox |
 | 670 | 184 | Sarah Barrow |
 | 671 | 184 | Oliver Hollins |
 | 672 | 183 | Nevaeh Mattox |

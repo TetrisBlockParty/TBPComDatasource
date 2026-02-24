@@ -82,8 +82,8 @@
 | 74 | 1633 | cowboy25469 |
 | 75 | 1625 | Queen Kam |
 | 76 | 1615 | joclisa |
-| 77 | 1566 | Nerdy Riseclear |
-| 78 | 1566 | Marcie Bressler |
+| 77 | 1566 | Marcie Bressler |
+| 78 | 1566 | Nerdy Riseclear |
 | 79 | 1560 | Logan Naccarato |
 | 80 | 1555 | Snappy Glidepiece |
 | 81 | 1518 | Christine Filson |
@@ -307,8 +307,8 @@
 | 299 | 540 | rosy |
 | 300 | 539 | Fancy Curver |
 | 301 | 539 | Kate M. Murdock |
-| 302 | 536 | Giddy Twistbuilder |
-| 303 | 536 | Shannon Matthew Byers |
+| 302 | 536 | Shannon Matthew Byers |
+| 303 | 536 | Giddy Twistbuilder |
 | 304 | 535 | kacihall |
 | 305 | 533 | BugMansMom |
 | 306 | 532 | Sarah Muradyan |
@@ -361,10 +361,10 @@
 | 353 | 456 | Kelly |
 | 354 | 456 | Cynthia Herrmann Egland |
 | 355 | 455 | Kelly Wolf |
-| 356 | 450 | Stefanie LaPointe |
-| 357 | 450 | Luciana Braganca Vieira |
-| 358 | 449 | Lively Caster |
-| 359 | 449 | Jojo M |
+| 356 | 450 | Luciana Braganca Vieira |
+| 357 | 450 | Stefanie LaPointe |
+| 358 | 449 | Jojo M |
+| 359 | 449 | Lively Caster |
 | 360 | 447 | Carrie Huskey |
 | 361 | 447 | Num1hater |
 | 362 | 446 | Swanky Frame |
@@ -436,7 +436,7 @@
 | 428 | 378 | Samantha Worley |
 | 429 | 378 | Ashley Lynn Marchese |
 | 430 | 377 | Paula Little |
-| 431 | 376 | Brittany |
+| 431 | 376 | Breanna Marsden |
 | 432 | 376 | Tracy Martin |
 | 433 | 376 | Romeo |
 | 434 | 376 | Brittany |
