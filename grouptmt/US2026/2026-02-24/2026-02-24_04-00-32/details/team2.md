@@ -427,8 +427,8 @@
 | 419 | 1048 | Sheronda Jackson |
 | 420 | 1043 | Brave Dropmatch |
 | 421 | 1042 | Spunkysmom |
-| 422 | 1042 | Mcintosh Brian Shalonda |
-| 423 | 1042 | Matthew Barry |
+| 422 | 1042 | Matthew Barry |
+| 423 | 1042 | Mcintosh Brian Shalonda |
 | 424 | 1041 | Crystal Hoffman |
 | 425 | 1040 | Phil J. Grombliniak |
 | 426 | 1039 | Laura Morrison |

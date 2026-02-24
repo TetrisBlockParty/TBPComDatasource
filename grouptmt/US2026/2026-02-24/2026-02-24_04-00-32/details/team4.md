@@ -155,8 +155,8 @@
 | 147 | 602 | Cristy Duerksen |
 | 148 | 600 | Carrie Brian |
 | 149 | 599 | Adam Stephanie Parker |
-| 150 | 595 | shar |
-| 151 | 595 | Rodney McMath Jr. |
+| 150 | 595 | Rodney McMath Jr. |
+| 151 | 595 | shar |
 | 152 | 587 | YoMomma |
 | 153 | 586 | Latisha Davis |
 | 154 | 586 | Cursed Hag |
@@ -187,12 +187,12 @@
 | 179 | 521 | Andy Cabral |
 | 180 | 520 | Zippy Block |
 | 181 | 520 | Oscar Alberto Perez |
-| 182 | 516 | Trish |
+| 182 | 516 | Nick Gray |
 | 183 | 516 | Twisty Clicky |
-| 184 | 516 | Nick Gray |
+| 184 | 516 | Trish |
 | 185 | 513 | Erin Thomas |
-| 186 | 512 | Casey Jeffcoat |
-| 187 | 512 | ThaEviLJeNiuZ |
+| 186 | 512 | ThaEviLJeNiuZ |
+| 187 | 512 | Casey Jeffcoat |
 | 188 | 512 | Ellen Durfee |
 | 189 | 509 | Mimi |
 | 190 | 508 | Zesty Twistbuilder |
@@ -207,16 +207,16 @@
 | 199 | 496 | Jessica Bohlken |
 | 200 | 495 | Joeliecea Cobb |
 | 201 | 493 | Amanda Pauldo-Ivy |
-| 202 | 481 | Joanna |
-| 203 | 481 | Rebecca Morris |
+| 202 | 481 | Rebecca Morris |
+| 203 | 481 | Joanna |
 | 204 | 478 | Casey Grabner |
 | 205 | 476 | Mylo Lipscomb |
 | 206 | 475 | Silly Zonebuilder |
 | 207 | 473 | Cranky Rollpiece |
 | 208 | 473 | Jolly Dashfit |
 | 209 | 465 | June Hoffman |
-| 210 | 462 | Crystal Nicolette Moore |
-| 211 | 462 | Leslie Thomas |
+| 210 | 462 | Leslie Thomas |
+| 211 | 462 | Crystal Nicolette Moore |
 | 212 | 461 | TRCuse |
 | 213 | 460 | Kathy Brookins |
 | 214 | 457 | Kristin Manee |
@@ -228,8 +228,8 @@
 | 220 | 448 | Mike Solo |
 | 221 | 447 | Jen Mattei |
 | 222 | 446 | Mr. Party |
-| 223 | 444 | Calvin Cannon |
-| 224 | 444 | Shiny Fit |
+| 223 | 444 | Shiny Fit |
+| 224 | 444 | Calvin Cannon |
 | 225 | 443 | Kristina Black |
 | 226 | 442 | 🥔🥔 Spudz |
 | 227 | 441 | Lush Linkfall |

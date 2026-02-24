@@ -117,8 +117,8 @@
 | 109 | 719 | Bindi |
 | 110 | 716 | Kristi Johnson |
 | 111 | 711 | Debbie Kane |
-| 112 | 706 | Plucky Fallzone |
-| 113 | 706 | Denice Dee |
+| 112 | 706 | Denice Dee |
+| 113 | 706 | Plucky Fallzone |
 | 114 | 702 | lil mickey |
 | 115 | 699 | cc |
 | 116 | 693 | Jason Cox |
@@ -310,8 +310,8 @@
 | 302 | 342 | Marianita Garcia |
 | 303 | 342 | Matt Iaccheo |
 | 304 | 341 | Nick R Montague |
-| 305 | 340 | Danielle Little-Daugherty |
-| 306 | 340 | Robert |
+| 305 | 340 | Robert |
+| 306 | 340 | Danielle Little-Daugherty |
 | 307 | 338 | Tipsy Builder |
 | 308 | 338 | Layzietyme |
 | 309 | 336 | Sarah Roberts |

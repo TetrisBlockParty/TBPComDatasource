@@ -127,8 +127,8 @@
 | 119 | 1084 | Santana Lantana |
 | 120 | 1082 | Valerie Gendron |
 | 121 | 1067 | DaBigGuy |
-| 122 | 1066 | Demetrious Shaw Sr. |
-| 123 | 1066 | Jennifer |
+| 122 | 1066 | Jennifer |
+| 123 | 1066 | Demetrious Shaw Sr. |
 | 124 | 1065 | Rachel |
 | 125 | 1055 | Christine Trester |
 | 126 | 1050 | Sherika C. McDaniels |
@@ -147,11 +147,11 @@
 | 139 | 987 | Happy Tetriblast |
 | 140 | 963 | Crystal Frey |
 | 141 | 957 | mzcatzy |
-| 142 | 950 | Giddy Drop |
-| 143 | 950 | MissTaylor |
+| 142 | 950 | MissTaylor |
+| 143 | 950 | Giddy Drop |
 | 144 | 943 | Katrina Schroeder |
-| 145 | 940 | Stephanie Allmon |
-| 146 | 940 | Patty Allen |
+| 145 | 940 | Patty Allen |
+| 146 | 940 | Stephanie Allmon |
 | 147 | 939 | Jamie Lang |
 | 148 | 936 | Dolores Falco |
 | 149 | 925 | Cherry Parker |
@@ -255,8 +255,8 @@
 | 247 | 602 | Dee Pratt |
 | 248 | 600 | Natasha Jones |
 | 249 | 600 | Connie Mohler-Fair |
-| 250 | 599 | Sherry Ogden |
-| 251 | 599 | Noyb Adam |
+| 250 | 599 | Noyb Adam |
+| 251 | 599 | Sherry Ogden |
 | 252 | 598 | Kaycee Kay |
 | 253 | 595 | Betty Rosas |
 | 254 | 588 | Salena Whitlock |
@@ -279,10 +279,10 @@
 | 271 | 561 | Tom Nault |
 | 272 | 551 | Micayah Stevens |
 | 273 | 547 | Aerian Preston |
-| 274 | 546 | lashanda |
-| 275 | 546 | Cynthia Castros-Hampton |
-| 276 | 544 | Tamara Deherrera |
-| 277 | 544 | Angella Lyons |
+| 274 | 546 | Cynthia Castros-Hampton |
+| 275 | 546 | lashanda |
+| 276 | 544 | Angella Lyons |
+| 277 | 544 | Tamara Deherrera |
 | 278 | 542 | France Vézina |
 | 279 | 541 | Gray Hicks |
 | 280 | 537 | Lizabeth Fox |
