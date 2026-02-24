@@ -1,6 +1,6 @@
 # Standings for team3 as of 2026-02-24 10:47:14 UTC
 
-**Total Participants:** 3402
+**Total Participants:** 3401
 
 ## Participant Scores
 
@@ -69,8 +69,8 @@
 | 61 | 1920 | Trezure Gonzalez |
 | 62 | 1858 | Kristie McFarland |
 | 63 | 1836 | Tina Kay |
-| 64 | 1824 | Jessica Ann |
-| 65 | 1824 | Nate Burnside |
+| 64 | 1824 | Nate Burnside |
+| 65 | 1824 | Jessica Ann |
 | 66 | 1791 | Leah Barnett |
 | 67 | 1776 | Whitney Manuel |
 | 68 | 1774 | Liv Whetson |
@@ -111,8 +111,8 @@
 | 103 | 1309 | yoyo |
 | 104 | 1297 | Shelby Michelle |
 | 105 | 1290 | JerseyJess |
-| 106 | 1282 | Amanda L Baker |
-| 107 | 1282 | Peppy Shifter |
+| 106 | 1282 | Peppy Shifter |
+| 107 | 1282 | Amanda L Baker |
 | 108 | 1276 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1248 | Lori Barnaby |
@@ -167,8 +167,8 @@
 | 159 | 928 | Edwin Calvillo Jr. |
 | 160 | 925 | Cherry Parker |
 | 161 | 914 | BadManSheLove |
-| 162 | 910 | opf |
-| 163 | 910 | Staci George Fitzsimmons |
+| 162 | 910 | Staci George Fitzsimmons |
+| 163 | 910 | opf |
 | 164 | 906 | Patti Skiles |
 | 165 | 899 | Jaime Monhaut-Reed |
 | 166 | 894 | Denita Mungro |
@@ -280,8 +280,8 @@
 | 272 | 609 | Connie Mohler-Fair |
 | 273 | 608 | Noyb Adam |
 | 274 | 605 | Sarah Cowan Burgos |
-| 275 | 604 | Sherry Ogden |
-| 276 | 604 | Bmo |
+| 275 | 604 | Bmo |
+| 276 | 604 | Sherry Ogden |
 | 277 | 600 | Natasha Jones |
 | 278 | 594 | Cozy Snaplink |
 | 279 | 592 | Rachael McClain Owens |
@@ -300,8 +300,8 @@
 | 292 | 566 | Tyler Shoff |
 | 293 | 566 | Eileen Brady Thurber |
 | 294 | 565 | Michael Lucado |
-| 295 | 562 | Dave Herzog |
-| 296 | 562 | Stephanie Burtin |
+| 295 | 562 | Stephanie Burtin |
+| 296 | 562 | Dave Herzog |
 | 297 | 561 | Chauntee Alfrey-Cardinale |
 | 298 | 556 | Shiny Zonebuilder |
 | 299 | 555 | Danielle Weikel |
@@ -329,11 +329,11 @@
 | 321 | 505 | Stephanie Simpson |
 | 322 | 504 | Daring Builder |
 | 323 | 500 | Ashley Tookes |
-| 324 | 499 | Megan Rathmanner |
-| 325 | 499 | Gumbo |
+| 324 | 499 | Gumbo |
+| 325 | 499 | Megan Rathmanner |
 | 326 | 496 | Brenda Schmid Wood |
-| 327 | 494 | MCV |
-| 328 | 494 | fraulila |
+| 327 | 494 | fraulila |
+| 328 | 494 | MCV |
 | 329 | 492 | Tasha Wesson-Torrence |
 | 330 | 490 | TotoCherue |
 | 331 | 490 | Cassandra Bryant |
@@ -434,8 +434,8 @@
 | 426 | 391 | gremicx |
 | 427 | 391 | Rebel124 |
 | 428 | 390 | ROODBOY |
-| 429 | 389 | Kirhonda Autmon |
-| 430 | 389 | Amanda J. Mcneil-Anderson |
+| 429 | 389 | Amanda J. Mcneil-Anderson |
+| 430 | 389 | Kirhonda Autmon |
 | 431 | 387 | Brittany K Ward |
 | 432 | 386 | Geoffrey Nash |
 | 433 | 384 | Tiffany Davie |
@@ -483,8 +483,8 @@
 | 475 | 359 | Kathleen Taylor |
 | 476 | 359 | Steven Fulater |
 | 477 | 358 | Hyper Twisterfit |
-| 478 | 358 | Taylor Culver |
-| 479 | 358 | Beejangles |
+| 478 | 358 | Beejangles |
+| 479 | 358 | Taylor Culver |
 | 480 | 356 | Trice Sodames |
 | 481 | 355 | Eboni Starr |
 | 482 | 354 | Norma JulieMay |
@@ -529,7 +529,7 @@
 | 521 | 335 | Sassy Brickmatch |
 | 522 | 334 | Sharisse Baltimore |
 | 523 | 334 | Carol Cain Thurman |
-| 524 | 334 | Sharisse Baltimore |
+| 524 | 334 | Stella |
 | 525 | 333 | Heather Ferrara |
 | 526 | 333 | Hyper Wipeout |
 | 527 | 332 | Clever Edgepiece |
@@ -546,9 +546,9 @@
 | 538 | 328 | Sdot |
 | 539 | 327 | Jess Bissett |
 | 540 | 327 | Taylor Hood |
-| 541 | 326 | Eric Caccavale |
-| 542 | 326 | Beppy |
-| 543 | 326 | Eric Caccavale |
+| 541 | 326 | Natalie Augustus |
+| 542 | 326 | Eric Caccavale |
+| 543 | 326 | Beppy |
 | 544 | 324 | Paul Daniel Quertermous |
 | 545 | 323 | sofaking |
 | 546 | 323 | Jolly Brick |

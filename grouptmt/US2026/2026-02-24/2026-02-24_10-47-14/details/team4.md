@@ -51,8 +51,8 @@
 | 43 | 1497 | Juggalo |
 | 44 | 1478 | Sammy Noguera |
 | 45 | 1469 | Kimberly Love |
-| 46 | 1461 | Yoset Mejia |
-| 47 | 1461 | Shane Kalamata Platoon |
+| 46 | 1461 | Shane Kalamata Platoon |
+| 47 | 1461 | Yoset Mejia |
 | 48 | 1456 | Michelle Marie |
 | 49 | 1430 | Landon Keith Graffeo |
 | 50 | 1386 | Jen Allison |
@@ -80,8 +80,8 @@
 | 72 | 1080 | Chilly Line |
 | 73 | 1069 | Heather Tushner |
 | 74 | 1056 | Keith Kelley |
-| 75 | 1046 | Johnathan Martinez |
-| 76 | 1046 | Anthony Bryan Riva |
+| 75 | 1046 | Anthony Bryan Riva |
+| 76 | 1046 | Johnathan Martinez |
 | 77 | 1031 | LisaJo Picken Buchanan |
 | 78 | 1028 | TeeJ |
 | 79 | 1024 | Valerie Roberts |
@@ -138,18 +138,18 @@
 | 130 | 712 | H.R. Block |
 | 131 | 712 | Leslie Nicole |
 | 132 | 708 | Jacqueline Helm |
-| 133 | 704 | Chilly Crasher |
-| 134 | 704 | Austin Owens |
+| 133 | 704 | Austin Owens |
+| 134 | 704 | Chilly Crasher |
 | 135 | 687 | Carmethia Clemons Haslerig |
 | 136 | 682 | Raegan Lane-Ross |
 | 137 | 668 | Desi Desporte |
-| 138 | 667 | Matt Gooder |
-| 139 | 667 | Swanky Fitline |
-| 140 | 667 | Angela Srubar-Norman |
+| 138 | 667 | Swanky Fitline |
+| 139 | 667 | Angela Srubar-Norman |
+| 140 | 667 | Matt Gooder |
 | 141 | 667 | Lindsey Gonzalez |
 | 142 | 662 | Nerdy Twisterfit |
-| 143 | 661 | shar |
-| 144 | 661 | Rodney McMath Jr. |
+| 143 | 661 | Rodney McMath Jr. |
+| 144 | 661 | shar |
 | 145 | 651 | Adawna Swires |
 | 146 | 650 | Chris Hartig |
 | 147 | 647 | KM8 |
@@ -215,11 +215,11 @@
 | 207 | 509 | Mimi |
 | 208 | 507 | Andria Lynn |
 | 209 | 504 | Deanna Deckard |
-| 210 | 502 | Ericca Eldridge |
-| 211 | 502 | Christina Black |
+| 210 | 502 | Christina Black |
+| 211 | 502 | Ericca Eldridge |
 | 212 | 501 | Sharyn Lemire |
-| 213 | 499 | Kesha Brady |
-| 214 | 499 | DonMega |
+| 213 | 499 | DonMega |
+| 214 | 499 | Kesha Brady |
 | 215 | 497 | Damn Libra |
 | 216 | 496 | Jessica Bohlken |
 | 217 | 495 | Joeliecea Cobb |
@@ -231,8 +231,8 @@
 | 223 | 482 | Laura |
 | 224 | 481 | Joanna |
 | 225 | 475 | Silly Zonebuilder |
-| 226 | 473 | Jolly Dashfit |
-| 227 | 473 | Cranky Rollpiece |
+| 226 | 473 | Cranky Rollpiece |
+| 227 | 473 | Jolly Dashfit |
 | 228 | 472 | Plucky Patternblock |
 | 229 | 465 | Leslie Thomas |
 | 230 | 464 | Calvin Cannon |
@@ -255,8 +255,8 @@
 | 247 | 444 | Selena Shaw |
 | 248 | 442 | John Brunetti |
 | 249 | 441 | Lush Linkfall |
-| 250 | 438 | Melvin Baird |
-| 251 | 438 | 23 |
+| 250 | 438 | 23 |
+| 251 | 438 | Melvin Baird |
 | 252 | 436 | Chris Bernstein |
 | 253 | 434 | Ramel Rhodes |
 | 254 | 432 | scott |
@@ -283,18 +283,18 @@
 | 275 | 407 | Hyper Builder |
 | 276 | 407 | Rafael Valentin |
 | 277 | 402 | Nita Wells |
-| 278 | 399 | Twisty Cascadezone |
-| 279 | 399 | Brittany Little |
+| 278 | 399 | Brittany Little |
+| 279 | 399 | Twisty Cascadezone |
 | 280 | 398 | Tyler Terrific |
 | 281 | 397 | blockstar |
-| 282 | 395 | BigSammy420 |
-| 283 | 395 | Denise B |
+| 282 | 395 | Denise B |
+| 283 | 395 | BigSammy420 |
 | 284 | 394 | Nikki Rae Gordon |
 | 285 | 393 | Montiette Mcglown |
 | 286 | 392 | Neirrah B Olailjeel |
 | 287 | 390 | Ari Droff |
-| 288 | 387 | Backoff Recupe |
-| 289 | 387 | Sandra Safford |
+| 288 | 387 | Sandra Safford |
+| 289 | 387 | Backoff Recupe |
 | 290 | 386 | Vic |
 | 291 | 382 | Sue Joyce Staats |
 | 292 | 380 | Jen Caldwell |
@@ -321,8 +321,8 @@
 | 313 | 354 | Perky Piecegrid |
 | 314 | 354 | @ |
 | 315 | 352 | Kate |
-| 316 | 351 | Dana Scott |
-| 317 | 351 | Jackie Clark |
+| 316 | 351 | Jackie Clark |
+| 317 | 351 | Dana Scott |
 | 318 | 350 | Dizzy Matchzone |
 | 319 | 349 | Richard-April Kice |
 | 320 | 349 | jim |
@@ -349,8 +349,8 @@
 | 341 | 336 | ZeeZee |
 | 342 | 335 | Snippy Puzzle |
 | 343 | 334 | Zethra Prenisha Rahming |
-| 344 | 331 | Angie Schmidt |
-| 345 | 331 | rebel4lyfe |
+| 344 | 331 | rebel4lyfe |
+| 345 | 331 | Angie Schmidt |
 | 346 | 330 | Duck |
 | 347 | 329 | Meagan Nicole |
 | 348 | 329 | AyeKay |
@@ -367,15 +367,15 @@
 | 359 | 321 | Stacey Stano |
 | 360 | 321 | Paige Kittles |
 | 361 | 321 | Sarah Brown |
-| 362 | 320 | Alan Zukowski |
-| 363 | 320 | O block |
-| 364 | 320 | Cynthia Boudreau |
+| 362 | 320 | O block |
+| 363 | 320 | Cynthia Boudreau |
+| 364 | 320 | Alan Zukowski |
 | 365 | 319 | Michelle Morris |
-| 366 | 319 | Bradley Reeves |
-| 367 | 319 | Jessica Fredericks |
+| 366 | 319 | Jessica Fredericks |
+| 367 | 319 | Bradley Reeves |
 | 368 | 317 | Madison Sweere |
 | 369 | 317 | Paito |
-| 370 | 317 | Madison Sweere |
+| 370 | 317 | Kim Klutz Olson |
 | 371 | 316 | Shukee Lo |
 | 372 | 315 | Glitzy Corner |
 | 373 | 315 | Maureen Flanigan |
@@ -384,8 +384,8 @@
 | 376 | 314 | Kenna Gunderland |
 | 377 | 314 | Marcus TheeyoungWoe Gilmore |
 | 378 | 312 | Tawna Curry |
-| 379 | 311 | Reds Bella |
-| 380 | 311 | KayM |
+| 379 | 311 | KayM |
+| 380 | 311 | Reds Bella |
 | 381 | 308 | Angela Geist Jusinski |
 | 382 | 307 | Eri Kka |
 | 383 | 306 | PeaceOs |

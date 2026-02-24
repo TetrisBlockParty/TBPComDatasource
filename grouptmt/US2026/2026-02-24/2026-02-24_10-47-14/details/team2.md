@@ -300,11 +300,11 @@
 | 292 | 1422 | Rebecca Garland |
 | 293 | 1417 | Ann Knutson Anderson |
 | 294 | 1416 | Brittany Radaszewski |
-| 295 | 1416 | Christina Walker |
-| 296 | 1415 | Maria Escobar |
-| 297 | 1408 | Doowop40 |
-| 298 | 1407 | Lola C Davis |
-| 299 | 1397 | Tralonda Weeks |
+| 295 | 1415 | Maria Escobar |
+| 296 | 1408 | Doowop40 |
+| 297 | 1407 | Lola C Davis |
+| 298 | 1397 | Tralonda Weeks |
+| 299 | 1397 | Christina Walker |
 | 300 | 1392 | Karen Snyder Schrage |
 | 301 | 1391 | Kimberly Hauck-Rausch |
 | 302 | 1391 | Ronnie Nelson |
@@ -371,8 +371,8 @@
 | 363 | 1249 | Tristan Szolek |
 | 364 | 1245 | Angel Hunnewell |
 | 365 | 1242 | Ambyre Patterson |
-| 366 | 1237 | Cheech Dta |
-| 367 | 1237 | Christine Coughlin |
+| 366 | 1237 | Christine Coughlin |
+| 367 | 1237 | Cheech Dta |
 | 368 | 1233 | Shannon Joslin |
 | 369 | 1229 | Brenda Messer |
 | 370 | 1227 | Rebecca Miller |
@@ -880,8 +880,8 @@
 | 872 | 655 | dionia |
 | 873 | 654 | David Duncan |
 | 874 | 653 | Kimmie Zimmerman-Rocha |
-| 875 | 652 | Dane Reing |
-| 876 | 652 | Lively Edgepiece |
+| 875 | 652 | Lively Edgepiece |
+| 876 | 652 | Dane Reing |
 | 877 | 652 | Court |
 | 878 | 651 | Unica Rector |
 | 879 | 651 | Lazy Builderfit |

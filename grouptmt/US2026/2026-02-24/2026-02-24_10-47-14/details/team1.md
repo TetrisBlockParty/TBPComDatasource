@@ -93,11 +93,11 @@
 | 85 | 957 | Zippy Align |
 | 86 | 957 | Erin Hodges Plumb |
 | 87 | 944 | Sweet Baker |
-| 88 | 926 | Amy Griffith |
-| 89 | 920 | Tee Sheree |
-| 90 | 916 | Chirpy Smasher |
-| 91 | 912 | comrade fish |
-| 92 | 904 | Fmp |
+| 88 | 920 | Tee Sheree |
+| 89 | 916 | Chirpy Smasher |
+| 90 | 912 | comrade fish |
+| 91 | 904 | Fmp |
+| 92 | 902 | Amy Griffith |
 | 93 | 898 | Dawn Sheppard |
 | 94 | 896 | Cheeky Crusher |
 | 95 | 892 | Seth Wesson |
@@ -139,8 +139,8 @@
 | 131 | 666 | Virginia Gray Floyd |
 | 132 | 652 | Evie Khalil |
 | 133 | 651 | Dandy Basegrid |
-| 134 | 650 | Bob |
-| 135 | 650 | April Carroll |
+| 134 | 650 | April Carroll |
+| 135 | 650 | Bob |
 | 136 | 647 | Theo Pinnow |
 | 137 | 643 | Erin Rosberg |
 | 138 | 642 | Mario Cab |
@@ -309,8 +309,8 @@
 | 301 | 371 | Danielle S Kester |
 | 302 | 370 | Gracie |
 | 303 | 369 | John Kim |
-| 304 | 367 | Cheeky Pop |
-| 305 | 367 | April Jones |
+| 304 | 367 | April Jones |
+| 305 | 367 | Cheeky Pop |
 | 306 | 366 | J.F. Fields |
 | 307 | 365 | Shannon Marie Pitts |
 | 308 | 365 | Amanda Holibaugh |
@@ -330,8 +330,8 @@
 | 322 | 353 | Josh Riemer |
 | 323 | 352 | Lachelle Dillon |
 | 324 | 350 | Bouncy Line |
-| 325 | 347 | ParisandCory Champagne |
-| 326 | 347 | Michael Espinosa Ulibarri Jr. |
+| 325 | 347 | Michael Espinosa Ulibarri Jr. |
+| 326 | 347 | ParisandCory Champagne |
 | 327 | 346 | Gary Gobin |
 | 328 | 344 | dhardy |
 | 329 | 344 | Buttons Stemm |
@@ -377,8 +377,8 @@
 | 369 | 317 | Bloknboy |
 | 370 | 317 | Amh |
 | 371 | 316 | Giggly Builderline |
-| 372 | 315 | Joe Coon |
-| 373 | 315 | san |
+| 372 | 315 | san |
+| 373 | 315 | Joe Coon |
 | 374 | 314 | Наталья Солоид |
 | 375 | 313 | Steph |
 | 376 | 313 | Delvison Rosario |
@@ -507,9 +507,9 @@
 | 499 | 255 | Adan Reyes |
 | 500 | 254 | Kipoi |
 | 501 | 252 | Angela Dawn Torres-Tarrants |
-| 502 | 251 | Larry Jackson |
-| 503 | 251 | Randy Broadwater |
-| 504 | 251 | MRdot Rooski |
+| 502 | 251 | MRdot Rooski |
+| 503 | 251 | Larry Jackson |
+| 504 | 251 | Randy Broadwater |
 | 505 | 250 | Emmarieta Mendez |
 | 506 | 249 | Toni Sagenbrecht |
 | 507 | 249 | Sassy Towerer |
