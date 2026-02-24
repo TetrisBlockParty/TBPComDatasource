@@ -573,7 +573,7 @@
 | 565 | 185 | Joshua Guess |
 | 566 | 185 | Eric Wren |
 | 567 | 184 | Marcela Johnson |
-| 568 | 183 | Darrin Rubalcava |
+| 568 | 183 | Will Chamberlain |
 | 569 | 183 | Elie Pean |
 | 570 | 183 | Darrin Rubalcava |
 | 571 | 182 | RIFATSIKDER |

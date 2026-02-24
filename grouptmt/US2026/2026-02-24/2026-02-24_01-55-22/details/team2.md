@@ -611,9 +611,9 @@
 | 603 | 754 | Draizen Montrell Thomas |
 | 604 | 751 | Tom Riefer |
 | 605 | 750 | Shalena Marie Humphrey |
-| 606 | 749 | Arwa Fatimah |
-| 607 | 749 | Hoppy Brickmatch |
-| 608 | 749 | Trisha J Schmidt |
+| 606 | 749 | Trisha J Schmidt |
+| 607 | 749 | Arwa Fatimah |
+| 608 | 749 | Hoppy Brickmatch |
 | 609 | 745 | Ronald Higgins |
 | 610 | 743 | Gloria Ininahazwe |
 | 611 | 742 | Cassie Maynard |

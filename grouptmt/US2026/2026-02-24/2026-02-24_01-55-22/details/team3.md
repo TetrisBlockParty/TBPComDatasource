@@ -252,8 +252,8 @@
 | 244 | 578 | James Mitchell |
 | 245 | 573 | Donna |
 | 246 | 572 | Tessina Dewey-Mancino |
-| 247 | 570 | LaTanya GeminiondaRise Johnson |
-| 248 | 570 | thekey |
+| 247 | 570 | thekey |
+| 248 | 570 | LaTanya GeminiondaRise Johnson |
 | 249 | 569 | Michael Johnson |
 | 250 | 569 | Silly Twist |
 | 251 | 568 | Danielle Balcom |
