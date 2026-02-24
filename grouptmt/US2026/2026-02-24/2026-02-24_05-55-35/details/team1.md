@@ -45,8 +45,8 @@
 | 37 | 1515 | Felicia Lewis |
 | 38 | 1405 | Chipper Gridlock |
 | 39 | 1391 | Aaron Garnett |
-| 40 | 1334 | Tyler Alcock |
-| 41 | 1334 | june october |
+| 40 | 1334 | june october |
+| 41 | 1334 | Tyler Alcock |
 | 42 | 1321 | Drew Magnus |
 | 43 | 1291 | Marianne Louise West |
 | 44 | 1290 | Spunky Piecebuilder |
@@ -62,8 +62,8 @@
 | 54 | 1177 | Tipsy Column |
 | 55 | 1170 | Tater |
 | 56 | 1160 | Amanda Jarnagin |
-| 57 | 1137 | TSwag |
-| 58 | 1137 | Jen Sartain |
+| 57 | 1137 | Jen Sartain |
+| 58 | 1137 | TSwag |
 | 59 | 1128 | Cynthia Bradley |
 | 60 | 1127 | Andrea Dañielle Ortiz |
 | 61 | 1122 | Kristen Gideon |
@@ -171,8 +171,8 @@
 | 163 | 543 | Adrian Esteban |
 | 164 | 540 | Tonya Beasley |
 | 165 | 538 | .running. |
-| 166 | 537 | BadG52 |
-| 167 | 537 | Stephanie Zahn |
+| 166 | 537 | Stephanie Zahn |
+| 167 | 537 | BadG52 |
 | 168 | 535 | Plucky Ziggy |
 | 169 | 532 | Νεφ Όνυξ |
 | 170 | 528 | ALFD |
@@ -261,8 +261,8 @@
 | 253 | 392 | Poppy Riserpiece |
 | 254 | 391 | Happy Basegrid |
 | 255 | 390 | David Lutcher |
-| 256 | 386 | Angela Renea Lester |
-| 257 | 386 | Melissa Bires Hussar |
+| 256 | 386 | Melissa Bires Hussar |
+| 257 | 386 | Angela Renea Lester |
 | 258 | 384 | Irv |
 | 259 | 383 | Margo Wagner |
 | 260 | 383 | pjbeta |
