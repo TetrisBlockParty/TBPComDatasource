@@ -70,8 +70,8 @@
 | 62 | 1109 | BertMofo |
 | 63 | 1094 | Shelly Chandler |
 | 64 | 1089 | Alyssa Papen |
-| 65 | 1082 | Avy Absol |
-| 66 | 1082 | Dion Crommarty |
+| 65 | 1082 | Dion Crommarty |
+| 66 | 1082 | Avy Absol |
 | 67 | 1081 | Dustee Craddock-Harrison |
 | 68 | 1069 | Heather Tushner |
 | 69 | 1056 | Keith Kelley |
@@ -199,8 +199,8 @@
 | 191 | 520 | Oscar Alberto Perez |
 | 192 | 520 | Zippy Block |
 | 193 | 516 | Nick Gray |
-| 194 | 516 | Twisty Clicky |
-| 195 | 516 | Trish |
+| 194 | 516 | Trish |
+| 195 | 516 | Twisty Clicky |
 | 196 | 513 | Erin Thomas |
 | 197 | 513 | Milan Markeisha |
 | 198 | 513 | Zesty Twistbuilder |
@@ -210,8 +210,8 @@
 | 202 | 509 | Mimi |
 | 203 | 507 | Andria Lynn |
 | 204 | 504 | Deanna Deckard |
-| 205 | 502 | Ericca Eldridge |
-| 206 | 502 | Christina Black |
+| 205 | 502 | Christina Black |
+| 206 | 502 | Ericca Eldridge |
 | 207 | 501 | Sharyn Lemire |
 | 208 | 499 | Kesha Brady |
 | 209 | 496 | Jessica Bohlken |
@@ -241,8 +241,8 @@
 | 233 | 455 | Michele Plunkett |
 | 234 | 454 | Keshia Lyons |
 | 235 | 449 | Danielle Kollias |
-| 236 | 448 | Mr. Party |
-| 237 | 448 | Mike Solo |
+| 236 | 448 | Mike Solo |
+| 237 | 448 | Mr. Party |
 | 238 | 447 | Jen Mattei |
 | 239 | 444 | Selena Shaw |
 | 240 | 442 | John Brunetti |
@@ -263,8 +263,8 @@
 | 255 | 421 | JIGsaw ~(•¿°)~ |
 | 256 | 420 | Jeff Brian Gates |
 | 257 | 413 | Rio Rocha |
-| 258 | 411 | Autumn Kumzi |
-| 259 | 411 | TinyLegoRose |
+| 258 | 411 | TinyLegoRose |
+| 259 | 411 | Autumn Kumzi |
 | 260 | 410 | Lindsay Ball |
 | 261 | 409 | Joseph Guthrie |
 | 262 | 409 | Antony Dwayne Beasley |

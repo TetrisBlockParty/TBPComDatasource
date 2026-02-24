@@ -219,8 +219,8 @@
 | 211 | 453 | Kimmie Kimms |
 | 212 | 449 | Tawnya Peltonen |
 | 213 | 448 | Yvonne Marie |
-| 214 | 446 | SkipTheSadSauce |
-| 215 | 446 | Spencer Lent |
+| 214 | 446 | Spencer Lent |
+| 215 | 446 | SkipTheSadSauce |
 | 216 | 441 | Kimberly Garcia |
 | 217 | 439 | David Miller |
 | 218 | 437 | Mike Ames |

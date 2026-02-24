@@ -350,8 +350,8 @@
 | 342 | 1264 | Mama T |
 | 343 | 1261 | Becca Coronado |
 | 344 | 1257 | Jackie Lucas |
-| 345 | 1257 | Megan Garrick |
-| 346 | 1257 | Megan Ferguson Leone |
+| 345 | 1257 | Megan Ferguson Leone |
+| 346 | 1257 | Megan Garrick |
 | 347 | 1254 | Erika Densmore |
 | 348 | 1252 | Brainy Smurf |
 | 349 | 1249 | Tristan Szolek |
@@ -557,8 +557,8 @@
 | 549 | 885 | Giggy Mover |
 | 550 | 885 | Miranda Morris |
 | 551 | 883 | Hong Tang |
-| 552 | 882 | Thomas Hedrick |
-| 553 | 882 | Sarah Massey |
+| 552 | 882 | Sarah Massey |
+| 553 | 882 | Thomas Hedrick |
 | 554 | 881 | Layla LS |
 | 555 | 876 | Jelly |
 | 556 | 876 | Jessicah Myers |

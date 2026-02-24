@@ -163,8 +163,8 @@
 | 155 | 925 | Cherry Parker |
 | 156 | 914 | Sarajane Lokan |
 | 157 | 914 | BadManSheLove |
-| 158 | 910 | opf |
-| 159 | 910 | Staci George Fitzsimmons |
+| 158 | 910 | Staci George Fitzsimmons |
+| 159 | 910 | opf |
 | 160 | 899 | Jaime Monhaut-Reed |
 | 161 | 894 | Denita Mungro |
 | 162 | 878 | Shane Wilson Jr. |
@@ -179,8 +179,8 @@
 | 171 | 857 | Dana Fox |
 | 172 | 856 | Dana Winters |
 | 173 | 854 | Speedy Bridger |
-| 174 | 847 | Daira Largen |
-| 175 | 847 | Daring Brickzone |
+| 174 | 847 | Daring Brickzone |
+| 175 | 847 | Daira Largen |
 | 176 | 846 | Nicole Myers |
 | 177 | 845 | Edwin Calvillo Jr. |
 | 178 | 821 | Kammy Hill |
@@ -609,8 +609,8 @@
 | 601 | 295 | Jazzy Spinfit |
 | 602 | 295 | Omega |
 | 603 | 293 | Anna Moeller |
-| 604 | 293 | Tommy Proctor |
-| 605 | 293 | Rufus Lincoln |
+| 604 | 293 | Rufus Lincoln |
+| 605 | 293 | Tommy Proctor |
 | 606 | 292 | Beezwax |
 | 607 | 292 | Scouty |
 | 608 | 291 | Jess Dearborn |
