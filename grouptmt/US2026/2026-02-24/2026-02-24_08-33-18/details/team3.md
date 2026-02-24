@@ -68,8 +68,8 @@
 | 60 | 1931 | Denise Nardoni |
 | 61 | 1920 | Trezure Gonzalez |
 | 62 | 1858 | Kristie McFarland |
-| 63 | 1824 | Jessica Ann |
-| 64 | 1824 | Nate Burnside |
+| 63 | 1824 | Nate Burnside |
+| 64 | 1824 | Jessica Ann |
 | 65 | 1804 | Tina Kay |
 | 66 | 1791 | Leah Barnett |
 | 67 | 1776 | Whitney Manuel |
@@ -175,16 +175,16 @@
 | 167 | 875 | Chasity |
 | 168 | 874 | Jessica Pineda-Lopez |
 | 169 | 871 | Rochelle Hazelett |
-| 170 | 868 | Cranky Gridder |
-| 171 | 868 | Nicole Flippo |
+| 170 | 868 | Nicole Flippo |
+| 171 | 868 | Cranky Gridder |
 | 172 | 866 | Domo Washington |
 | 173 | 864 | Sunny Rotater |
 | 174 | 862 | Santeria Trece Candles |
 | 175 | 857 | Dana Fox |
 | 176 | 856 | Dana Winters |
 | 177 | 854 | Speedy Bridger |
-| 178 | 847 | Daring Brickzone |
-| 179 | 847 | Daira Largen |
+| 178 | 847 | Daira Largen |
+| 179 | 847 | Daring Brickzone |
 | 180 | 846 | Nicole Myers |
 | 181 | 845 | Edwin Calvillo Jr. |
 | 182 | 832 | Alexmac |
@@ -327,11 +327,11 @@
 | 319 | 505 | Stephanie Simpson |
 | 320 | 504 | Daring Builder |
 | 321 | 500 | Ashley Tookes |
-| 322 | 499 | Megan Rathmanner |
-| 323 | 499 | Gumbo |
+| 322 | 499 | Gumbo |
+| 323 | 499 | Megan Rathmanner |
 | 324 | 496 | Brenda Schmid Wood |
-| 325 | 494 | fraulila |
-| 326 | 494 | MCV |
+| 325 | 494 | MCV |
+| 326 | 494 | fraulila |
 | 327 | 492 | Tasha Wesson-Torrence |
 | 328 | 490 | Cassandra Bryant |
 | 329 | 489 | Isabel Ocasio |
@@ -388,8 +388,8 @@
 | 380 | 430 | AlsoJess |
 | 381 | 430 | Quackers |
 | 382 | 428 | Skinny Baldez |
-| 383 | 428 | Hoài Quắt |
-| 384 | 428 | Skinny Baldez |
+| 383 | 428 | Samantha Lynn |
+| 384 | 428 | Hoài Quắt |
 | 385 | 427 | Darlene McMillan |
 | 386 | 426 | Christina Rotz Shows |
 | 387 | 425 | Ava Petito |
@@ -994,9 +994,9 @@
 | 986 | 196 | Monica McCosky |
 | 987 | 196 | 805Angel |
 | 988 | 196 | Agata Sawicka |
-| 989 | 196 | Monica McCosky |
-| 990 | 195 | Eunhye Lee |
-| 991 | 195 | Nicha Hooker |
+| 989 | 196 | Clara Knight |
+| 990 | 195 | Nicha Hooker |
+| 991 | 195 | Eunhye Lee |
 | 992 | 195 | Polopypy |
 | 993 | 194 | Josh Vietz |
 | 994 | 194 | Amber Eby |

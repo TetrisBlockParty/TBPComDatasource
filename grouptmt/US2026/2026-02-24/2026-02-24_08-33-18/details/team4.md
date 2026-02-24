@@ -73,8 +73,8 @@
 | 65 | 1109 | BertMofo |
 | 66 | 1101 | Denia Deni |
 | 67 | 1089 | Alyssa Papen |
-| 68 | 1082 | Dion Crommarty |
-| 69 | 1082 | Avy Absol |
+| 68 | 1082 | Avy Absol |
+| 69 | 1082 | Dion Crommarty |
 | 70 | 1081 | Dustee Craddock-Harrison |
 | 71 | 1080 | Chilly Line |
 | 72 | 1069 | Heather Tushner |
@@ -107,8 +107,8 @@
 | 99 | 846 | Christine Marie |
 | 100 | 840 | SAP |
 | 101 | 837 | Rica Mitchell |
-| 102 | 834 | quicksand420 |
-| 103 | 834 | Brittney Orengo |
+| 102 | 834 | Brittney Orengo |
+| 103 | 834 | quicksand420 |
 | 104 | 815 | Diana Houts |
 | 105 | 813 | Klo |
 | 106 | 811 | Sassy Pattern |
@@ -135,16 +135,16 @@
 | 127 | 726 | Amy Suckarieh |
 | 128 | 725 | Brandon Crabbs |
 | 129 | 719 | George Nutt |
-| 130 | 712 | H.R. Block |
-| 131 | 712 | Leslie Nicole |
+| 130 | 712 | Leslie Nicole |
+| 131 | 712 | H.R. Block |
 | 132 | 708 | Jacqueline Helm |
 | 133 | 704 | Austin Owens |
 | 134 | 704 | Chilly Crasher |
 | 135 | 682 | Raegan Lane-Ross |
 | 136 | 668 | Desi Desporte |
-| 137 | 667 | Matt Gooder |
-| 138 | 667 | Swanky Fitline |
-| 139 | 667 | Lindsey Gonzalez |
+| 137 | 667 | Swanky Fitline |
+| 138 | 667 | Lindsey Gonzalez |
+| 139 | 667 | Matt Gooder |
 | 140 | 662 | Nerdy Twisterfit |
 | 141 | 661 | Rodney McMath Jr. |
 | 142 | 661 | shar |
@@ -235,18 +235,18 @@
 | 227 | 464 | Zakia Monae |
 | 228 | 463 | shark tato |
 | 229 | 462 | Crystal Nicolette Moore |
-| 230 | 460 | Calvin Cannon |
-| 231 | 460 | Kathy Brookins |
-| 232 | 458 | Kristina Black |
-| 233 | 458 | Luis Martinez |
-| 234 | 457 | Kristin Manee |
-| 235 | 457 | J-Rizzle |
+| 230 | 460 | Kathy Brookins |
+| 231 | 460 | Calvin Cannon |
+| 232 | 458 | Luis Martinez |
+| 233 | 458 | Kristina Black |
+| 234 | 457 | J-Rizzle |
+| 235 | 457 | Kristin Manee |
 | 236 | 455 | Michele Plunkett |
 | 237 | 454 | Keshia Lyons |
 | 238 | 450 | Genne Scott |
 | 239 | 449 | Danielle Kollias |
-| 240 | 448 | Mike Solo |
-| 241 | 448 | Mr. Party |
+| 240 | 448 | Mr. Party |
+| 241 | 448 | Mike Solo |
 | 242 | 447 | Jen Mattei |
 | 243 | 444 | Selena Shaw |
 | 244 | 442 | John Brunetti |
@@ -259,9 +259,9 @@
 | 251 | 432 | scott |
 | 252 | 431 | Brickh4us |
 | 253 | 428 | Gdiguy |
-| 254 | 427 | Cheery Risebuilder |
+| 254 | 427 | Jeff Brian Gates |
 | 255 | 427 | Chao Ma |
-| 256 | 427 | Jeff Brian Gates |
+| 256 | 427 | Cheery Risebuilder |
 | 257 | 424 | Andrew Dang |
 | 258 | 421 | JIGsaw ~(•¿°)~ |
 | 259 | 419 | Hyper Matchclear |
@@ -302,19 +302,19 @@
 | 294 | 375 | George Tzouganos |
 | 295 | 373 | Russ Attitude |
 | 296 | 371 | Jessi Cinotto |
-| 297 | 370 | Twisty Risebuilder |
-| 298 | 370 | Kris Bartlett |
+| 297 | 370 | Kris Bartlett |
+| 298 | 370 | Twisty Risebuilder |
 | 299 | 368 | Dan Wold |
 | 300 | 367 | Meg |
 | 301 | 365 | David Lay |
 | 302 | 364 | Lora |
 | 303 | 362 | Nubian1 |
 | 304 | 360 | Lee Silpe |
-| 305 | 359 | Allen Lloyd |
-| 306 | 359 | Holly |
+| 305 | 359 | Holly |
+| 306 | 359 | Allen Lloyd |
 | 307 | 359 | KimoKoala |
-| 308 | 354 | Perky Piecegrid |
-| 309 | 354 | @ |
+| 308 | 354 | @ |
+| 309 | 354 | Perky Piecegrid |
 | 310 | 352 | Kate |
 | 311 | 351 | Dana Scott |
 | 312 | 351 | Jackie Clark |
@@ -355,7 +355,7 @@
 | 347 | 322 | Bryan Hodgins |
 | 348 | 321 | Stacey Stano |
 | 349 | 321 | Sarah Brown |
-| 350 | 320 | Cynthia Boudreau |
+| 350 | 320 | O block |
 | 351 | 320 | Alan Zukowski |
 | 352 | 320 | Cynthia Boudreau |
 | 353 | 319 | Bradley Reeves |
@@ -388,8 +388,8 @@
 | 380 | 300 | Carter Jones |
 | 381 | 299 | Michael Snow |
 | 382 | 298 | Val Erie |
-| 383 | 297 | Allison Rose |
-| 384 | 297 | Brittany Marsh |
+| 383 | 297 | Brittany Marsh |
+| 384 | 297 | Allison Rose |
 | 385 | 296 | Dapper Frame |
 | 386 | 295 | Deb Rubeck |
 | 387 | 294 | Kevin Bush |

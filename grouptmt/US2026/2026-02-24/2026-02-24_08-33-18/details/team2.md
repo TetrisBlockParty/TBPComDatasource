@@ -317,8 +317,8 @@
 | 309 | 1353 | Heather Hoffman Disharoon |
 | 310 | 1351 | Ashie Ann |
 | 311 | 1351 | Lucky Ladybug |
-| 312 | 1351 | Johnny Yeates |
-| 313 | 1351 | Denisha Dawkins |
+| 312 | 1351 | Denisha Dawkins |
+| 313 | 1351 | Johnny Yeates |
 | 314 | 1345 | Shiny Twistfit |
 | 315 | 1342 | Kelly A Green-Leach |
 | 316 | 1342 | Groovy Puzzle |
@@ -341,8 +341,8 @@
 | 333 | 1304 | Sarah Ridenour |
 | 334 | 1303 | Michele Morgan |
 | 335 | 1301 | Mandy Cekine |
-| 336 | 1300 | Snappy Matchbuilder |
-| 337 | 1300 | Shinel Richardson |
+| 336 | 1300 | Shinel Richardson |
+| 337 | 1300 | Snappy Matchbuilder |
 | 338 | 1300 | Tacara Cummings |
 | 339 | 1295 | Jess Morrison |
 | 340 | 1292 | Joshua Mandel |
@@ -377,8 +377,8 @@
 | 369 | 1222 | Kristin Gower |
 | 370 | 1218 | LaKisha Anderson |
 | 371 | 1217 | Brooks Brooks |
-| 372 | 1215 | Toni Roberson |
-| 373 | 1215 | Hyper Cluster |
+| 372 | 1215 | Hyper Cluster |
+| 373 | 1215 | Toni Roberson |
 | 374 | 1214 | David Cudicio-Hayden |
 | 375 | 1211 | Kennedy Sandifer |
 | 376 | 1211 | Cynthia Ward |
@@ -434,8 +434,8 @@
 | 426 | 1087 | Jenn Marie |
 | 427 | 1085 | Barbra Miller |
 | 428 | 1085 | Bee |
-| 429 | 1084 | Emilee Burke |
-| 430 | 1084 | William Hunt |
+| 429 | 1084 | William Hunt |
+| 430 | 1084 | Emilee Burke |
 | 431 | 1080 | Jennifer Monroe Kelly |
 | 432 | 1079 | Angela Bonquiqui Dinish |
 | 433 | 1079 | AndrewandShela Gornik |
@@ -673,8 +673,8 @@
 | 665 | 773 | Chummy Blockbuilder |
 | 666 | 772 | Party d |
 | 667 | 770 | Frilly Fallzone |
-| 668 | 770 | Michael Buckner |
-| 669 | 770 | Nakiiya Dreamcatcher Gore |
+| 668 | 770 | Nakiiya Dreamcatcher Gore |
+| 669 | 770 | Michael Buckner |
 | 670 | 768 | Mia Muse Best |
 | 671 | 766 | Frisky Riserbuilder |
 | 672 | 766 | Diamond Scott |
@@ -717,8 +717,8 @@
 | 709 | 737 | Ginger |
 | 710 | 737 | Breezy Clusterer |
 | 711 | 736 | Kenan Catovic |
-| 712 | 734 | Michelle Sager |
-| 713 | 734 | Emily Lyric Converse |
+| 712 | 734 | Emily Lyric Converse |
+| 713 | 734 | Michelle Sager |
 | 714 | 733 | Joce Lynn |
 | 715 | 733 | Christine Bollig |
 | 716 | 732 | Leticia Martinez Kelley |
@@ -815,8 +815,8 @@
 | 807 | 678 | Monique Foster |
 | 808 | 677 | Kayleigh Wisse |
 | 809 | 676 | Fancy Shiftsnap |
-| 810 | 675 | Katelynn Hollen |
-| 811 | 675 | Ryan Chan |
+| 810 | 675 | Ryan Chan |
+| 811 | 675 | Katelynn Hollen |
 | 812 | 675 | Fi Ne |
 | 813 | 672 | Christina Jarvis-Swarbrick |
 | 814 | 672 | Abimbola Bimbo |
@@ -919,8 +919,8 @@
 | 911 | 622 | Michael Artis |
 | 912 | 622 | Ryan Meilleur |
 | 913 | 621 | Kitybox |
-| 914 | 621 | Erica Dale |
-| 915 | 621 | Moua Ying |
+| 914 | 621 | Moua Ying |
+| 915 | 621 | Erica Dale |
 | 916 | 620 | Beth Decker |
 | 917 | 619 | Allie Leedom |
 | 918 | 619 | Lisa Moone |
@@ -945,9 +945,9 @@
 | 937 | 610 | Shiny Snapmatch |
 | 938 | 607 | Slip |
 | 939 | 607 | Dizzy Zone |
-| 940 | 606 | cel505♡ |
-| 941 | 606 | Stanislav Petkov |
-| 942 | 606 | Ebony Deloach Bryant |
+| 940 | 606 | Stanislav Petkov |
+| 941 | 606 | Ebony Deloach Bryant |
+| 942 | 606 | cel505♡ |
 | 943 | 605 | Mandi Marie Smith |
 | 944 | 605 | Klaudia Figaszewska |
 | 945 | 605 | Saucy Fitzone |
@@ -1013,8 +1013,8 @@
 | 1005 | 577 | GinRox88 |
 | 1006 | 575 | Cini |
 | 1007 | 575 | Joel Rosado |
-| 1008 | 575 | Vung Nguyen |
-| 1009 | 575 | Kira Krause |
+| 1008 | 575 | Kira Krause |
+| 1009 | 575 | Vung Nguyen |
 | 1010 | 574 | Chris Emanuel |
 | 1011 | 574 | Shyenn Gadsby |
 | 1012 | 574 | Shannon Gerbis |
@@ -1042,8 +1042,8 @@
 | 1034 | 562 | Klee |
 | 1035 | 562 | Gabbrielle Sutton |
 | 1036 | 562 | Smiley Strike |
-| 1037 | 562 | Angie Winch |
-| 1038 | 562 | Dan Kulhanek |
+| 1037 | 562 | Dan Kulhanek |
+| 1038 | 562 | Angie Winch |
 | 1039 | 561 | Jenelle Case |
 | 1040 | 560 | De Hawkins |
 | 1041 | 559 | Kaylee McCafferty |
@@ -3045,7 +3045,7 @@
 | 3037 | 239 | Pauly Smuks |
 | 3038 | 239 | Amanda Manues |
 | 3039 | 239 | Stef |
-| 3040 | 239 | Amanda Manues |
+| 3040 | 239 | Flashy Brickmatch |
 | 3041 | 239 | Kylie Songe |
 | 3042 | 239 | Melissa Nelson Ward |
 | 3043 | 239 | ChrisandAmanda Kassal |

@@ -66,8 +66,8 @@
 | 58 | 1173 | Adam Byrd |
 | 59 | 1170 | Tater |
 | 60 | 1150 | Cynthia Bradley |
-| 61 | 1137 | Jen Sartain |
-| 62 | 1137 | TSwag |
+| 61 | 1137 | TSwag |
+| 62 | 1137 | Jen Sartain |
 | 63 | 1127 | Andrea Dañielle Ortiz |
 | 64 | 1122 | Kristen Gideon |
 | 65 | 1114 | Jayme Sellers |
@@ -299,8 +299,8 @@
 | 291 | 371 | Cody Gates |
 | 292 | 370 | Gracie |
 | 293 | 369 | Keith Mathis |
-| 294 | 367 | Cheeky Pop |
-| 295 | 367 | April Jones |
+| 294 | 367 | April Jones |
+| 295 | 367 | Cheeky Pop |
 | 296 | 366 | J.F. Fields |
 | 297 | 365 | Shannon Marie Pitts |
 | 298 | 365 | Amanda Holibaugh |
