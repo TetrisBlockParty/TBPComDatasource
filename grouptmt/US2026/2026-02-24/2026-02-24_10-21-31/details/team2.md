@@ -243,8 +243,8 @@
 | 235 | 1668 | Cambrie Schultz |
 | 236 | 1665 | Carl Bradshaw |
 | 237 | 1663 | Alex Stone LaRue |
-| 238 | 1661 | Danielle Johnson-Chandler |
-| 239 | 1661 | Scott Treadway |
+| 238 | 1661 | Scott Treadway |
+| 239 | 1661 | Danielle Johnson-Chandler |
 | 240 | 1659 | Peppy Zone |
 | 241 | 1656 | Binyah-Binyah |
 | 242 | 1656 | Lemonaide |
@@ -269,8 +269,8 @@
 | 261 | 1558 | Tim Dyer |
 | 262 | 1557 | Poppy Snap |
 | 263 | 1556 | Julay |
-| 264 | 1553 | Wendy Unsain |
-| 265 | 1553 | Sarah Freitas |
+| 264 | 1553 | Sarah Freitas |
+| 265 | 1553 | Wendy Unsain |
 | 266 | 1553 | Boldy Cascadepiece |
 | 267 | 1539 | Nadia Batista Garcia |
 | 268 | 1528 | Stacy Stickle |
@@ -328,8 +328,8 @@
 | 320 | 1342 | Groovy Puzzle |
 | 321 | 1342 | Kelly A Green-Leach |
 | 322 | 1341 | Cassie Mercer |
-| 323 | 1338 | Meghan M |
-| 324 | 1338 | Diallo Sparkman |
+| 323 | 1338 | Diallo Sparkman |
+| 324 | 1338 | Meghan M |
 | 325 | 1336 | Frothy Rumbler |
 | 326 | 1334 | Jamie Otero |
 | 327 | 1333 | nikki |
@@ -370,8 +370,8 @@
 | 362 | 1249 | Tristan Szolek |
 | 363 | 1245 | Angel Hunnewell |
 | 364 | 1242 | Ambyre Patterson |
-| 365 | 1237 | Christine Coughlin |
-| 366 | 1237 | Cheech Dta |
+| 365 | 1237 | Cheech Dta |
+| 366 | 1237 | Christine Coughlin |
 | 367 | 1233 | Shannon Joslin |
 | 368 | 1229 | Brenda Messer |
 | 369 | 1227 | Rebecca Miller |
@@ -592,8 +592,8 @@
 | 584 | 865 | Lilia Gomez |
 | 585 | 864 | Perky Rollfit |
 | 586 | 861 | Anthony |
-| 587 | 861 | Shavonna Haynes |
-| 588 | 861 | Beth |
+| 587 | 861 | Beth |
+| 588 | 861 | Shavonna Haynes |
 | 589 | 858 | Joshua Self |
 | 590 | 857 | Marella Petilo |
 | 591 | 854 | Dawn L Washington-Feuquay |
@@ -872,8 +872,8 @@
 | 864 | 660 | Jenna Nance |
 | 865 | 660 | Shelva Richard |
 | 866 | 659 | Rain |
-| 867 | 656 | Emilie Desma |
-| 868 | 656 | Toni Whipple |
+| 867 | 656 | Toni Whipple |
+| 868 | 656 | Emilie Desma |
 | 869 | 655 | Lively Piecebuilder |
 | 870 | 655 | dionia |
 | 871 | 654 | DLOCC1056 |
@@ -1041,8 +1041,8 @@
 | 1033 | 570 | Erika Deer Kauffman |
 | 1034 | 570 | MauroPRM |
 | 1035 | 570 | Sonya Back |
-| 1036 | 569 | Sparkles |
-| 1037 | 569 | Anita Rose Green |
+| 1036 | 569 | Anita Rose Green |
+| 1037 | 569 | Sparkles |
 | 1038 | 569 | bosswoman |
 | 1039 | 568 | coleksquad |
 | 1040 | 567 | Lucero Ramirez |
@@ -1055,8 +1055,8 @@
 | 1047 | 562 | Klee |
 | 1048 | 562 | Gabbrielle Sutton |
 | 1049 | 562 | Smiley Strike |
-| 1050 | 562 | Angie Winch |
-| 1051 | 562 | Dan Kulhanek |
+| 1050 | 562 | Dan Kulhanek |
+| 1051 | 562 | Angie Winch |
 | 1052 | 561 | Jenelle Case |
 | 1053 | 560 | De Hawkins |
 | 1054 | 559 | Kaylee McCafferty |
@@ -1077,8 +1077,8 @@
 | 1069 | 554 | Asha Nichols-Collins |
 | 1070 | 554 | Dusti Rose Bingham |
 | 1071 | 553 | Sar Mo |
-| 1072 | 553 | ruth |
-| 1073 | 553 | Jason Kelly |
+| 1072 | 553 | Jason Kelly |
+| 1073 | 553 | ruth |
 | 1074 | 552 | Boozi |
 | 1075 | 552 | Savannah Alexander |
 | 1076 | 552 | Heather Johnson |
@@ -1108,8 +1108,8 @@
 | 1100 | 541 | Samantha Rojo |
 | 1101 | 541 | Misty |
 | 1102 | 540 | Melisa Marvin |
-| 1103 | 540 | Pam Doughty |
-| 1104 | 540 | Boldy Block |
+| 1103 | 540 | Boldy Block |
+| 1104 | 540 | Pam Doughty |
 | 1105 | 539 | Nutty Slice |
 | 1106 | 539 | Loopy Brickmatch |
 | 1107 | 539 | stacey |
@@ -1197,8 +1197,8 @@
 | 1189 | 505 | Sammie |
 | 1190 | 504 | Veronica Stevenson |
 | 1191 | 504 | Mary Boss |
-| 1192 | 504 | Richard Hunt |
-| 1193 | 504 | Randall Sykes |
+| 1192 | 504 | Randall Sykes |
+| 1193 | 504 | Richard Hunt |
 | 1194 | 503 | Twisty Tetriblast |
 | 1195 | 503 | Rhiannon Elizabeth Tucker |
 | 1196 | 503 | Aleasha M Brown |
