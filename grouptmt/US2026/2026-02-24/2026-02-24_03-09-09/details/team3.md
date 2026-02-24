@@ -146,8 +146,8 @@
 | 138 | 969 | yoyo |
 | 139 | 963 | Crystal Frey |
 | 140 | 957 | mzcatzy |
-| 141 | 950 | Giddy Drop |
-| 142 | 950 | MissTaylor |
+| 141 | 950 | MissTaylor |
+| 142 | 950 | Giddy Drop |
 | 143 | 943 | Katrina Schroeder |
 | 144 | 940 | Stephanie Allmon |
 | 145 | 939 | Jamie Lang |
@@ -363,9 +363,9 @@
 | 355 | 418 | Heather Davis |
 | 356 | 416 | Tay |
 | 357 | 416 | Ava Petito |
-| 358 | 414 | RickyG |
-| 359 | 414 | Arden White Kirsch |
-| 360 | 414 | Kaitie Oliver |
+| 358 | 414 | Kaitie Oliver |
+| 359 | 414 | RickyG |
+| 360 | 414 | Arden White Kirsch |
 | 361 | 411 | Steffi Chris Dacones |
 | 362 | 411 | Chris Bell |
 | 363 | 409 | Rich LeBlanc |
@@ -376,8 +376,8 @@
 | 368 | 405 | Andrew Thorson |
 | 369 | 405 | fraulila |
 | 370 | 404 | Giggy Balanceblock |
-| 371 | 403 | Scott Lindsay |
-| 372 | 403 | Stephanie Burtin |
+| 371 | 403 | Stephanie Burtin |
+| 372 | 403 | Scott Lindsay |
 | 373 | 401 | block chick |
 | 374 | 400 | Beaudie Stroebel |
 | 375 | 400 | Joy Petroski |

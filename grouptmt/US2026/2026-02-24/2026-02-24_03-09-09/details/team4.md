@@ -248,8 +248,8 @@
 | 240 | 413 | Jeff Brian Gates |
 | 241 | 411 | Autumn Kumzi |
 | 242 | 410 | Lindsay Ball |
-| 243 | 409 | Joseph Guthrie |
-| 244 | 409 | Antony Dwayne Beasley |
+| 243 | 409 | Antony Dwayne Beasley |
+| 244 | 409 | Joseph Guthrie |
 | 245 | 408 | Lauren Scott |
 | 246 | 406 | TinyLegoRose |
 | 247 | 406 | scott |
@@ -311,8 +311,8 @@
 | 303 | 334 | 23 |
 | 304 | 332 | Holly |
 | 305 | 331 | Kate |
-| 306 | 330 | Sandra Safford |
-| 307 | 330 | Duck |
+| 306 | 330 | Duck |
+| 307 | 330 | Sandra Safford |
 | 308 | 329 | Meagan Nicole |
 | 309 | 328 | Angie Schmidt |
 | 310 | 328 | Leah Kutz Zirbel |

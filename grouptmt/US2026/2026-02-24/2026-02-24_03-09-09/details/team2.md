@@ -319,8 +319,8 @@
 | 311 | 1267 | Missie Lawson Gebhardt |
 | 312 | 1263 | Roman Lavochnik |
 | 313 | 1259 | Foxxo |
-| 314 | 1257 | Megan Ferguson Leone |
-| 315 | 1257 | Megan Garrick |
+| 314 | 1257 | Megan Garrick |
+| 315 | 1257 | Megan Ferguson Leone |
 | 316 | 1254 | Erika Densmore |
 | 317 | 1245 | Angel Hunnewell |
 | 318 | 1241 | Jackie Lucas |
@@ -337,8 +337,8 @@
 | 329 | 1222 | Nuke Morris |
 | 330 | 1222 | Kristin Gower |
 | 331 | 1218 | LaKisha Anderson |
-| 332 | 1217 | Brooks Brooks |
-| 333 | 1217 | Christina Lewis-Vickers |
+| 332 | 1217 | Christina Lewis-Vickers |
+| 333 | 1217 | Brooks Brooks |
 | 334 | 1216 | Pacynthia Williams |
 | 335 | 1215 | Toni Roberson |
 | 336 | 1215 | Hyper Cluster |
