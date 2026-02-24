@@ -434,8 +434,8 @@
 | 426 | 1049 | Ashlen Dorrell |
 | 427 | 1048 | Sheronda Jackson |
 | 428 | 1043 | Brave Dropmatch |
-| 429 | 1042 | Spunkysmom |
-| 430 | 1042 | Matthew Barry |
+| 429 | 1042 | Matthew Barry |
+| 430 | 1042 | Spunkysmom |
 | 431 | 1041 | Crystal Hoffman |
 | 432 | 1037 | Allan Wayne Lamia |
 | 433 | 1036 | trabuco |
@@ -466,17 +466,17 @@
 | 458 | 982 | Jackie Burnett |
 | 459 | 981 | Block Master |
 | 460 | 979 | Fae-Bulous |
-| 461 | 978 | Barry Britt |
-| 462 | 978 | Kennedy Sandifer |
+| 461 | 978 | Kennedy Sandifer |
+| 462 | 978 | Barry Britt |
 | 463 | 976 | Sam Joe |
 | 464 | 975 | Amanda Woodruff |
 | 465 | 975 | Kelly Trent |
 | 466 | 974 | Jeremy Parodi |
 | 467 | 970 | Darla Silva |
 | 468 | 970 | Iris Angelica Perez Cantos |
-| 469 | 969 | Steve Man |
-| 470 | 969 | Shuany Arias |
-| 471 | 969 | Andrew Willis |
+| 469 | 969 | Andrew Willis |
+| 470 | 969 | Steve Man |
+| 471 | 969 | Shuany Arias |
 | 472 | 966 | Kayla |
 | 473 | 965 | Desire Rice |
 | 474 | 964 | John Bednarik |
@@ -507,8 +507,8 @@
 | 499 | 925 | blume |
 | 500 | 923 | Chevy |
 | 501 | 922 | Butta |
-| 502 | 921 | Dannette Goldberg-Richards |
-| 503 | 921 | Elisheva Mizrachi |
+| 502 | 921 | Elisheva Mizrachi |
+| 503 | 921 | Dannette Goldberg-Richards |
 | 504 | 920 | Arwa Fatimah |
 | 505 | 919 | Angelina Marie |
 | 506 | 919 | Isaac Trappiel IV |
@@ -633,8 +633,8 @@
 | 625 | 774 | Ryan Gunther |
 | 626 | 773 | Chummy Blockbuilder |
 | 627 | 771 | Ronald Higgins |
-| 628 | 770 | Michael Buckner |
-| 629 | 770 | Frilly Fallzone |
+| 628 | 770 | Frilly Fallzone |
+| 629 | 770 | Michael Buckner |
 | 630 | 768 | Mia Muse Best |
 | 631 | 766 | Frisky Riserbuilder |
 | 632 | 766 | Angela Cagle Silmon |
@@ -655,8 +655,8 @@
 | 647 | 753 | John Jubes |
 | 648 | 751 | Swanky Strikerpiece |
 | 649 | 751 | Tom Riefer |
-| 650 | 750 | Prette Qui |
-| 651 | 750 | Samie Dayle |
+| 650 | 750 | Samie Dayle |
+| 651 | 750 | Prette Qui |
 | 652 | 750 | Lisa Reynolds |
 | 653 | 749 | ToxicTrash |
 | 654 | 749 | Trisha J Schmidt |

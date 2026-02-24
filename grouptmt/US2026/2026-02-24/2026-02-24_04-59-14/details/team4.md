@@ -125,8 +125,8 @@
 | 117 | 733 | D3TROITB0RN74 |
 | 118 | 731 | KJ Pool |
 | 119 | 729 | Jamie Mann-Deichmann |
-| 120 | 726 | Amy Suckarieh |
-| 121 | 726 | Jamie Gustafson |
+| 120 | 726 | Jamie Gustafson |
+| 121 | 726 | Amy Suckarieh |
 | 122 | 725 | Brandon Crabbs |
 | 123 | 718 | Zippy Gridlock |
 | 124 | 712 | H.R. Block |
@@ -238,8 +238,8 @@
 | 230 | 442 | 🥔🥔 Spudz |
 | 231 | 442 | John Brunetti |
 | 232 | 441 | Lush Linkfall |
-| 233 | 438 | 23 |
-| 234 | 438 | Melvin Baird |
+| 233 | 438 | Melvin Baird |
+| 234 | 438 | 23 |
 | 235 | 437 | Selena Shaw |
 | 236 | 436 | Brittney Orengo |
 | 237 | 434 | Ramel Rhodes |
@@ -664,7 +664,7 @@
 | 656 | 170 | Joshua W. Benton |
 | 657 | 170 | Robert Bolden |
 | 658 | 169 | Dante Korleon |
-| 659 | 169 | Jazzy Slamdrop |
+| 659 | 169 | Colton Stamper |
 | 660 | 169 | Joseph Pace |
 | 661 | 169 | Jazzy Slamdrop |
 | 662 | 168 | Holly Tracey-Grimes |
