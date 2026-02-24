@@ -206,8 +206,8 @@
 | 198 | 495 | Connie |
 | 199 | 494 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 200 | 494 | Sean Stallings |
-| 201 | 493 | Speedy Liney |
-| 202 | 493 | Chuck Gannon |
+| 201 | 493 | Chuck Gannon |
+| 202 | 493 | Speedy Liney |
 | 203 | 492 | Happy Snapbuild |
 | 204 | 488 | Jessie Welch |
 | 205 | 488 | Ly Phethmany |
@@ -225,8 +225,8 @@
 | 217 | 460 | Sam Williams |
 | 218 | 458 | Goose egg |
 | 219 | 457 | Kimberly Garcia |
-| 220 | 453 | Kimmie Kimms |
-| 221 | 453 | Angela Spann |
+| 220 | 453 | Angela Spann |
+| 221 | 453 | Kimmie Kimms |
 | 222 | 449 | Tawnya Peltonen |
 | 223 | 448 | Yvonne Marie |
 | 224 | 446 | Monica Donato |
@@ -262,10 +262,10 @@
 | 254 | 414 | Bird Person |
 | 255 | 412 | Sleepysloath5745 |
 | 256 | 410 | Paula Martin |
-| 257 | 409 | Lehrin Maria |
-| 258 | 409 | poopypants |
-| 259 | 408 | Dino |
-| 260 | 408 | Sweetts |
+| 257 | 409 | poopypants |
+| 258 | 409 | Lehrin Maria |
+| 259 | 408 | Sweetts |
+| 260 | 408 | Dino |
 | 261 | 405 | Tyler L Hunt |
 | 262 | 403 | Tami Luce Martin |
 | 263 | 403 | Alenoush Karimian |
@@ -273,8 +273,8 @@
 | 265 | 399 | Lakeisha Chapman |
 | 266 | 398 | Cece Ibarra |
 | 267 | 398 | MommaKFC |
-| 268 | 394 | Lynn Adams |
-| 269 | 394 | Nick R Montague |
+| 268 | 394 | Nick R Montague |
+| 269 | 394 | Lynn Adams |
 | 270 | 393 | Wisa |
 | 271 | 392 | Renee Tucker |
 | 272 | 392 | Poppy Riserpiece |
@@ -314,10 +314,10 @@
 | 306 | 367 | Cheeky Pop |
 | 307 | 366 | J.F. Fields |
 | 308 | 365 | Shannon Marie Pitts |
-| 309 | 364 | Dawn Michelle Scheible |
-| 310 | 364 | Shauna Loe |
-| 311 | 364 | Jo Kerley |
-| 312 | 364 | Tyler Hertzog |
+| 309 | 364 | Shauna Loe |
+| 310 | 364 | Dawn Michelle Scheible |
+| 311 | 364 | Tyler Hertzog |
+| 312 | 364 | Jo Kerley |
 | 313 | 363 | Shiny Gridmatch |
 | 314 | 362 | Brooke Elizabeth Antill |
 | 315 | 360 | Mandyy Rae |
@@ -349,8 +349,8 @@
 | 341 | 337 | Chaste Minor |
 | 342 | 337 | Jeremy Maubert |
 | 343 | 336 | Mrs.Patrica |
-| 344 | 335 | Dreamy Drop |
-| 345 | 335 | Glitzy Curvebuilder |
+| 344 | 335 | Glitzy Curvebuilder |
+| 345 | 335 | Dreamy Drop |
 | 346 | 335 | Rachel Nilles |
 | 347 | 334 | Nate Price |
 | 348 | 332 | Larry Tilton |

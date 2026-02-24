@@ -78,8 +78,8 @@
 | 70 | 1695 | Nora Rogers |
 | 71 | 1691 | Cass Mendoza |
 | 72 | 1681 | Gracie |
-| 73 | 1663 | Mahman |
-| 74 | 1663 | Angeline Joseph |
+| 73 | 1663 | Angeline Joseph |
+| 74 | 1663 | Mahman |
 | 75 | 1633 | cowboy25469 |
 | 76 | 1625 | Queen Kam |
 | 77 | 1615 | joclisa |
@@ -187,8 +187,8 @@
 | 179 | 857 | Dana Fox |
 | 180 | 856 | Dana Winters |
 | 181 | 854 | Speedy Bridger |
-| 182 | 847 | Daring Brickzone |
-| 183 | 847 | Daira Largen |
+| 182 | 847 | Daira Largen |
+| 183 | 847 | Daring Brickzone |
 | 184 | 846 | Nicole Myers |
 | 185 | 842 | Alexmac |
 | 186 | 829 | Patricia White |
@@ -199,8 +199,8 @@
 | 191 | 815 | Justin Ritter |
 | 192 | 813 | JessDrown |
 | 193 | 808 | Raya |
-| 194 | 804 | Alaina Lee |
-| 195 | 804 | Gideon Walker |
+| 194 | 804 | Gideon Walker |
+| 195 | 804 | Alaina Lee |
 | 196 | 800 | Lauren Girouard |
 | 197 | 799 | Trisha Balmer |
 | 198 | 792 | Rachel Grant |
@@ -258,8 +258,8 @@
 | 250 | 642 | Rania Zaqout |
 | 251 | 641 | Tom Nault |
 | 252 | 640 | Dee Pratt |
-| 253 | 639 | Marci Mize Fandrich |
-| 254 | 639 | Nichol Graham |
+| 253 | 639 | Nichol Graham |
+| 254 | 639 | Marci Mize Fandrich |
 | 255 | 637 | Giddy Twistbuilder |
 | 256 | 635 | Amber Hughes |
 | 257 | 633 | Jillian Symons |
@@ -332,8 +332,8 @@
 | 324 | 499 | Megan Rathmanner |
 | 325 | 499 | Gumbo |
 | 326 | 496 | Brenda Schmid Wood |
-| 327 | 494 | MCV |
-| 328 | 494 | fraulila |
+| 327 | 494 | fraulila |
+| 328 | 494 | MCV |
 | 329 | 492 | Tasha Wesson-Torrence |
 | 330 | 490 | Cassandra Bryant |
 | 331 | 490 | TotoCherue |
@@ -983,7 +983,7 @@
 | 975 | 201 | Shelby Crawford |
 | 976 | 201 | Cozy Slice |
 | 977 | 200 | MariahG |
-| 978 | 200 | Kacy Ramsey |
+| 978 | 200 | Donna S. Greene-Brathwaite |
 | 979 | 200 | glichmod |
 | 980 | 200 | Kacy Ramsey |
 | 981 | 199 | Amy Bast |
@@ -1067,8 +1067,8 @@
 | 1059 | 186 | NaTasha Vercher |
 | 1060 | 186 | Randi Snyder |
 | 1061 | 186 | ellie |
-| 1062 | 185 | Tamara Hagen |
-| 1063 | 185 | Gina Bunch |
+| 1062 | 185 | Gina Bunch |
+| 1063 | 185 | Tamara Hagen |
 | 1064 | 185 | Melissa Ponder |
 | 1065 | 184 | Monica Breese |
 | 1066 | 184 | Queendjenane Blaise |

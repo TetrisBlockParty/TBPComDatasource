@@ -108,8 +108,8 @@
 | 100 | 846 | Christine Marie |
 | 101 | 840 | SAP |
 | 102 | 837 | Rica Mitchell |
-| 103 | 834 | quicksand420 |
-| 104 | 834 | Brittney Orengo |
+| 103 | 834 | Brittney Orengo |
+| 104 | 834 | quicksand420 |
 | 105 | 818 | Lori Walker |
 | 106 | 815 | Diana Houts |
 | 107 | 813 | Amy Suckarieh |
@@ -148,8 +148,8 @@
 | 140 | 667 | Swanky Fitline |
 | 141 | 667 | Lindsey Gonzalez |
 | 142 | 662 | Nerdy Twisterfit |
-| 143 | 661 | shar |
-| 144 | 661 | Rodney McMath Jr. |
+| 143 | 661 | Rodney McMath Jr. |
+| 144 | 661 | shar |
 | 145 | 651 | Adawna Swires |
 | 146 | 650 | Chris Hartig |
 | 147 | 647 | KM8 |
@@ -309,8 +309,8 @@
 | 301 | 375 | George Tzouganos |
 | 302 | 373 | Russ Attitude |
 | 303 | 371 | Jessi Cinotto |
-| 304 | 370 | Kris Bartlett |
-| 305 | 370 | Twisty Risebuilder |
+| 304 | 370 | Twisty Risebuilder |
+| 305 | 370 | Kris Bartlett |
 | 306 | 368 | Dan Wold |
 | 307 | 367 | Meg |
 | 308 | 366 | Ak Jones |
@@ -322,8 +322,8 @@
 | 314 | 354 | Perky Piecegrid |
 | 315 | 354 | @ |
 | 316 | 352 | Kate |
-| 317 | 351 | Jackie Clark |
-| 318 | 351 | Dana Scott |
+| 317 | 351 | Dana Scott |
+| 318 | 351 | Jackie Clark |
 | 319 | 350 | Dizzy Matchzone |
 | 320 | 349 | Richard-April Kice |
 | 321 | 349 | jim |
@@ -370,13 +370,13 @@
 | 362 | 321 | Paige Kittles |
 | 363 | 321 | Sarah Brown |
 | 364 | 320 | Alan Zukowski |
-| 365 | 320 | O block |
-| 366 | 320 | Cynthia Boudreau |
-| 367 | 319 | Jessica Fredericks |
-| 368 | 319 | Michelle Morris |
+| 365 | 320 | Cynthia Boudreau |
+| 366 | 320 | O block |
+| 367 | 319 | Michelle Morris |
+| 368 | 319 | Jessica Fredericks |
 | 369 | 319 | Bradley Reeves |
-| 370 | 317 | Kim Klutz Olson |
-| 371 | 317 | Paito |
+| 370 | 317 | Paito |
+| 371 | 317 | Kim Klutz Olson |
 | 372 | 317 | Madison Sweere |
 | 373 | 316 | Shukee Lo |
 | 374 | 315 | Maureen Flanigan |
@@ -621,11 +621,11 @@
 | 613 | 201 | Bryan James Marino |
 | 614 | 200 | Veronica Garza |
 | 615 | 199 | Allen Johnson |
-| 616 | 198 | Zocko Ellet |
-| 617 | 198 | Bubbly Setter |
-| 618 | 197 | Mcg |
+| 616 | 198 | Bubbly Setter |
+| 617 | 198 | Zocko Ellet |
+| 618 | 197 | Satinleader |
 | 619 | 197 | Colton Stamper |
-| 620 | 197 | Satinleader |
+| 620 | 197 | Mcg |
 | 621 | 196 | Julie McAfoos Swanson |
 | 622 | 195 | Adrian Pawlusinski |
 | 623 | 195 | Tianna Frey |
@@ -1017,7 +1017,7 @@
 | 1009 | 104 | Elizabeth Lansou |
 | 1010 | 104 | Takeshia Knowles |
 | 1011 | 103 | Snappy Combofall |
-| 1012 | 102 | Blaze Butler |
+| 1012 | 102 | Amber bamber |
 | 1013 | 102 | Bryan Johnson |
 | 1014 | 102 | Kristina Renea Day |
 | 1015 | 102 | Blaze Butler |
