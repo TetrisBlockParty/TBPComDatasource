@@ -192,8 +192,8 @@
 | 184 | 772 | Tye Stovall |
 | 185 | 770 | Raya |
 | 186 | 768 | Hasty Cascadefit |
-| 187 | 763 | Tasha Gillespie |
-| 188 | 763 | Patricia White |
+| 187 | 763 | Patricia White |
+| 188 | 763 | Tasha Gillespie |
 | 189 | 760 | Kiki |
 | 190 | 757 | Fancy Cascader |
 | 191 | 755 | Laura Booth Wosko |
@@ -297,8 +297,8 @@
 | 289 | 507 | Snappy Balancer |
 | 290 | 506 | Ammmmmmy |
 | 291 | 505 | Stephanie Simpson |
-| 292 | 502 | Giddy Twistbuilder |
-| 293 | 502 | Jeni Dow |
+| 292 | 502 | Jeni Dow |
+| 293 | 502 | Giddy Twistbuilder |
 | 294 | 501 | Rebecca Funderburk Kirby |
 | 295 | 500 | Ashley Tookes |
 | 296 | 499 | Gumbo |

@@ -77,8 +77,8 @@
 | 69 | 1003 | Amber Stoker |
 | 70 | 987 | TSwag |
 | 71 | 980 | Veronica Eve |
-| 72 | 966 | Shalene Frederick Autrey |
-| 73 | 966 | Francesca Gee |
+| 72 | 966 | Francesca Gee |
+| 73 | 966 | Shalene Frederick Autrey |
 | 74 | 961 | Jacqueline Williams |
 | 75 | 957 | Zippy Align |
 | 76 | 934 | Erin Hodges Plumb |
@@ -216,13 +216,13 @@
 | 208 | 425 | Mike Ames |
 | 209 | 424 | Emily Adelaide Wheatley |
 | 210 | 424 | Lindsay Glover |
-| 211 | 424 | Emily Adelaide Wheatley |
+| 211 | 424 | Serina Marie |
 | 212 | 423 | Chelsea Dahlquist |
 | 213 | 422 | Reesey Enyart |
 | 214 | 422 | Jamise Brown |
 | 215 | 420 | Jennifer Noe Chandler |
-| 216 | 419 | John J. Cronin |
-| 217 | 419 | Daring Fitclear |
+| 216 | 419 | Daring Fitclear |
+| 217 | 419 | John J. Cronin |
 | 218 | 417 | Jessie Lynn |
 | 219 | 416 | Jessica Sheehan |
 | 220 | 413 | Ananda Mendez |
@@ -421,8 +421,8 @@
 | 413 | 263 | BigWeenie69 |
 | 414 | 262 | Ramona Shaver |
 | 415 | 261 | Angela Fairbank |
-| 416 | 260 | Debbie Davis |
-| 417 | 260 | Lacy Wolfe |
+| 416 | 260 | Lacy Wolfe |
+| 417 | 260 | Debbie Davis |
 | 418 | 259 | Tiffany Smith |
 | 419 | 258 | Christina Backer |
 | 420 | 258 | Gary Gobin |
