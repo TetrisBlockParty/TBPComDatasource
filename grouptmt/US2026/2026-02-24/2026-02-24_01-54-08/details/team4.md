@@ -260,8 +260,8 @@
 | 252 | 383 | JPW |
 | 253 | 382 | Sue Joyce Staats |
 | 254 | 381 | Rafael Valentin |
-| 255 | 380 | shark tato |
-| 256 | 380 | Rio Rocha |
+| 255 | 380 | Rio Rocha |
+| 256 | 380 | shark tato |
 | 257 | 379 | Backoff Recupe |
 | 258 | 378 | Googenheim |
 | 259 | 378 | Holly Jolly |
@@ -287,7 +287,7 @@
 | 279 | 352 | Montiette Mcglown |
 | 280 | 349 | jim |
 | 281 | 348 | blasterB |
-| 282 | 347 | Perky Patternblock |
+| 282 | 347 | Zołza 😈 |
 | 283 | 347 | Daria Rycewicz |
 | 284 | 347 | Perky Patternblock |
 | 285 | 347 | @ |

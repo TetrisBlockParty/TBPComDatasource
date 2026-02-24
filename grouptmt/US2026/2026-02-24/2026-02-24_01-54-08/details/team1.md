@@ -76,8 +76,8 @@
 | 68 | 1001 | Amber Stoker |
 | 69 | 987 | TSwag |
 | 70 | 980 | Veronica Eve |
-| 71 | 966 | Shalene Frederick Autrey |
-| 72 | 966 | Francesca Gee |
+| 71 | 966 | Francesca Gee |
+| 72 | 966 | Shalene Frederick Autrey |
 | 73 | 961 | Jacqueline Williams |
 | 74 | 957 | Zippy Align |
 | 75 | 948 | Hasbro Bros |
@@ -175,8 +175,8 @@
 | 167 | 509 | Dandy Basegrid |
 | 168 | 508 | Arianna O'Brien |
 | 169 | 497 | MIKOZ |
-| 170 | 496 | Michelle Beres |
-| 171 | 496 | Sarah Somers Gray |
+| 170 | 496 | Sarah Somers Gray |
+| 171 | 496 | Michelle Beres |
 | 172 | 494 | Sean Stallings |
 | 173 | 492 | Rebekah LeiAnn Bonsell |
 | 174 | 491 | cc |

@@ -532,13 +532,13 @@
 | 524 | 840 | Traci Johnson |
 | 525 | 839 | Gary Stash |
 | 526 | 835 | William David Swallow |
-| 527 | 835 | Cris cris |
-| 528 | 835 | Diane P. Richardson |
+| 527 | 835 | Diane P. Richardson |
+| 528 | 835 | Cris cris |
 | 529 | 834 | Montez Mancil |
 | 530 | 831 | Victoria Regina Girolami |
 | 531 | 829 | Alex Dungo Hoang |
-| 532 | 828 | Tracy Cowley |
-| 533 | 828 | Shantel Kelley |
+| 532 | 828 | Shantel Kelley |
+| 533 | 828 | Tracy Cowley |
 | 534 | 826 | Lola Contreras |
 | 535 | 825 | Miranda Morris |
 | 536 | 824 | Khalil Lowe |
@@ -558,10 +558,10 @@
 | 550 | 809 | Lilia Gomez |
 | 551 | 808 | Justin Edwards |
 | 552 | 807 | Shaun Church |
-| 553 | 806 | Mikayala Szaz |
-| 554 | 806 | Eunique Griffin |
-| 555 | 805 | Danielle Simmons |
-| 556 | 805 | Vanessa Moreno |
+| 553 | 806 | Eunique Griffin |
+| 554 | 806 | Mikayala Szaz |
+| 555 | 805 | Vanessa Moreno |
+| 556 | 805 | Danielle Simmons |
 | 557 | 804 | Becca Coronado |
 | 558 | 801 | Lindsey Leigh |
 | 559 | 799 | Dawn L Washington-Feuquay |
@@ -605,8 +605,8 @@
 | 597 | 758 | Stephanie Neuburger |
 | 598 | 757 | Frisky Clearpiece |
 | 599 | 756 | Aleksandr Gershman |
-| 600 | 755 | Taryece Gause |
-| 601 | 755 | Antonio Mckoy Sr. |
+| 600 | 755 | Antonio Mckoy Sr. |
+| 601 | 755 | Taryece Gause |
 | 602 | 754 | Fae-Bulous |
 | 603 | 754 | Draizen Montrell Thomas |
 | 604 | 751 | Tom Riefer |
@@ -647,8 +647,8 @@
 | 639 | 716 | Cc |
 | 640 | 715 | Julio A Laracuente |
 | 641 | 715 | Brenna Ann |
-| 642 | 715 | Nutty Splitter |
-| 643 | 715 | Daniell Martinez |
+| 642 | 715 | Daniell Martinez |
+| 643 | 715 | Nutty Splitter |
 | 644 | 714 | Irene Jones |
 | 645 | 714 | Snazzy Basepiece |
 | 646 | 714 | Frilly Fallzone |
