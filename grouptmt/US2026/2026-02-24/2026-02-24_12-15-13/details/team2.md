@@ -226,8 +226,8 @@
 | 218 | 1800 | Tony Lea |
 | 219 | 1787 | Teddi Notyalc |
 | 220 | 1786 | Eric Carlson |
-| 221 | 1775 | Sommer Shope |
-| 222 | 1775 | Eboni Banks |
+| 221 | 1775 | Eboni Banks |
+| 222 | 1775 | Sommer Shope |
 | 223 | 1774 | Nerdy Pattern |
 | 224 | 1761 | Rosa Franklin |
 | 225 | 1751 | Melissa Penelope Ann Dodge |
@@ -333,8 +333,8 @@
 | 325 | 1342 | Groovy Puzzle |
 | 326 | 1342 | Kelly A Green-Leach |
 | 327 | 1341 | Cassie Mercer |
-| 328 | 1338 | Meghan M |
-| 329 | 1338 | Diallo Sparkman |
+| 328 | 1338 | Diallo Sparkman |
+| 329 | 1338 | Meghan M |
 | 330 | 1336 | Frothy Rumbler |
 | 331 | 1334 | Jamie Otero |
 | 332 | 1333 | nikki |
@@ -344,8 +344,8 @@
 | 336 | 1319 | Joshua Sommerville |
 | 337 | 1315 | Desiree Anderson |
 | 338 | 1313 | Jermaine Harris |
-| 339 | 1308 | Snappy Matchbuilder |
-| 340 | 1308 | Laura Morrison |
+| 339 | 1308 | Laura Morrison |
+| 340 | 1308 | Snappy Matchbuilder |
 | 341 | 1308 | Christina Lewis-Vickers |
 | 342 | 1305 | Roman Lavochnik |
 | 343 | 1304 | Sarah Ridenour |
@@ -367,8 +367,8 @@
 | 359 | 1257 | Megan Garrick |
 | 360 | 1257 | Megan Ferguson Leone |
 | 361 | 1257 | Jackie Lucas |
-| 362 | 1256 | Belle |
-| 363 | 1256 | Phil J. Grombliniak |
+| 362 | 1256 | Phil J. Grombliniak |
+| 363 | 1256 | Belle |
 | 364 | 1255 | Ambyre Patterson |
 | 365 | 1254 | Erika Densmore |
 | 366 | 1252 | AgileDragon |
@@ -1050,10 +1050,10 @@
 | 1042 | 572 | Nate Lee |
 | 1043 | 572 | Rachael Senard |
 | 1044 | 572 | Dan Kulhanek |
-| 1045 | 571 | Matt Johnson |
-| 1046 | 571 | Zachary Boyarski |
-| 1047 | 570 | MauroPRM |
-| 1048 | 570 | Erika Deer Kauffman |
+| 1045 | 571 | Zachary Boyarski |
+| 1046 | 571 | Matt Johnson |
+| 1047 | 570 | Erika Deer Kauffman |
+| 1048 | 570 | MauroPRM |
 | 1049 | 570 | Sonya Back |
 | 1050 | 569 | Sparkles |
 | 1051 | 569 | Anita Rose Green |

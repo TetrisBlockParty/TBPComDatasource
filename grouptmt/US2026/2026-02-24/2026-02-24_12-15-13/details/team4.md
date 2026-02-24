@@ -81,8 +81,8 @@
 | 73 | 1080 | Chilly Line |
 | 74 | 1069 | Heather Tushner |
 | 75 | 1056 | Keith Kelley |
-| 76 | 1046 | Johnathan Martinez |
-| 77 | 1046 | Anthony Bryan Riva |
+| 76 | 1046 | Anthony Bryan Riva |
+| 77 | 1046 | Johnathan Martinez |
 | 78 | 1028 | TeeJ |
 | 79 | 1024 | Valerie Roberts |
 | 80 | 1017 | Jeremy Steines |
@@ -149,8 +149,8 @@
 | 141 | 667 | Swanky Fitline |
 | 142 | 667 | Matt Gooder |
 | 143 | 662 | Nerdy Twisterfit |
-| 144 | 661 | Rodney McMath Jr. |
-| 145 | 661 | shar |
+| 144 | 661 | shar |
+| 145 | 661 | Rodney McMath Jr. |
 | 146 | 651 | Adawna Swires |
 | 147 | 650 | April Rondinone |
 | 148 | 650 | Chris Hartig |
@@ -233,8 +233,8 @@
 | 225 | 482 | Laura |
 | 226 | 481 | Joanna |
 | 227 | 475 | Silly Zonebuilder |
-| 228 | 473 | Jolly Dashfit |
-| 229 | 473 | Cranky Rollpiece |
+| 228 | 473 | Cranky Rollpiece |
+| 229 | 473 | Jolly Dashfit |
 | 230 | 472 | Plucky Patternblock |
 | 231 | 465 | Leslie Thomas |
 | 232 | 464 | Zakia Monae |
@@ -425,8 +425,8 @@
 | 417 | 288 | Amy Jean |
 | 418 | 288 | Eminem |
 | 419 | 286 | Stephme310 |
-| 420 | 284 | Alexandra Karavias |
-| 421 | 284 | Johnny R |
+| 420 | 284 | Johnny R |
+| 421 | 284 | Alexandra Karavias |
 | 422 | 284 | Hector Duran |
 | 423 | 281 | Morti |
 | 424 | 281 | Tyler Bechtel |
@@ -628,8 +628,8 @@
 | 620 | 198 | Zocko Ellet |
 | 621 | 198 | Bubbly Setter |
 | 622 | 197 | Satinleader |
-| 623 | 197 | Colton Stamper |
-| 624 | 197 | Mcg |
+| 623 | 197 | Mcg |
+| 624 | 197 | Colton Stamper |
 | 625 | 196 | Speedy Swipe |
 | 626 | 195 | Jobadia Steelerton |
 | 627 | 195 | Tianna Frey |

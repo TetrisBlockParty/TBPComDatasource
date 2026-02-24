@@ -98,8 +98,8 @@
 | 90 | 916 | Chirpy Smasher |
 | 91 | 912 | comrade fish |
 | 92 | 904 | Fmp |
-| 93 | 898 | Cheeky Crusher |
-| 94 | 898 | Dawn Sheppard |
+| 93 | 898 | Dawn Sheppard |
+| 94 | 898 | Cheeky Crusher |
 | 95 | 892 | Seth Wesson |
 | 96 | 889 | Amanda Johnson Huffman |
 | 97 | 884 | Sevens4L |
@@ -141,8 +141,8 @@
 | 133 | 652 | Evie Khalil |
 | 134 | 651 | Dandy Basegrid |
 | 135 | 651 | Death |
-| 136 | 650 | Bob |
-| 137 | 650 | April Carroll |
+| 136 | 650 | April Carroll |
+| 137 | 650 | Bob |
 | 138 | 647 | Theo Pinnow |
 | 139 | 643 | Erin Rosberg |
 | 140 | 642 | Mario Cab |
@@ -223,8 +223,8 @@
 | 215 | 475 | Reesey Enyart |
 | 216 | 470 | Candy Jones |
 | 217 | 468 | Jessie Lynn |
-| 218 | 467 | Witty Builderfit |
-| 219 | 467 | Brian Spotts |
+| 218 | 467 | Brian Spotts |
+| 219 | 467 | Witty Builderfit |
 | 220 | 466 | Lori Bales |
 | 221 | 460 | Sam Williams |
 | 222 | 458 | Goose egg |
@@ -355,8 +355,8 @@
 | 347 | 337 | Jeremy Maubert |
 | 348 | 337 | Chaste Minor |
 | 349 | 336 | Mrs.Patrica |
-| 350 | 335 | Glitzy Curvebuilder |
-| 351 | 335 | Rachel Nilles |
+| 350 | 335 | Rachel Nilles |
+| 351 | 335 | Glitzy Curvebuilder |
 | 352 | 334 | Nate Price |
 | 353 | 332 | Gina Bettikofer |
 | 354 | 332 | Larry Tilton |
@@ -530,8 +530,8 @@
 | 522 | 246 | Frothy Blockbuilder |
 | 523 | 246 | ken |
 | 524 | 245 | Theeranart Mahawan |
-| 525 | 244 | Mrsbigdawg |
-| 526 | 244 | Kristen Meehan Wangerien |
+| 525 | 244 | Kristen Meehan Wangerien |
+| 526 | 244 | Mrsbigdawg |
 | 527 | 243 | Gerald Richard Franke |
 | 528 | 242 | Pauline Cortez |
 | 529 | 242 | Joshua Weeder |

@@ -32,8 +32,8 @@
 | 24 | 3221 | Ashley Jones |
 | 25 | 3118 | Jamie Lang |
 | 26 | 3042 | Nerdy Spinblock |
-| 27 | 2933 | Dan Rob |
-| 28 | 2933 | Grego Daniel |
+| 27 | 2933 | Grego Daniel |
+| 28 | 2933 | Dan Rob |
 | 29 | 2874 | Zippy Strikesnap |
 | 30 | 2873 | Chummy Shatterer |
 | 31 | 2816 | Fancy Slam |
@@ -127,8 +127,8 @@
 | 119 | 1152 | Julian Murphy |
 | 120 | 1124 | Stephanie Rice |
 | 121 | 1121 | Corie A. Brinson |
-| 122 | 1114 | Groovy Catcher |
-| 123 | 1114 | Loopy Fallmatch |
+| 122 | 1114 | Loopy Fallmatch |
+| 123 | 1114 | Groovy Catcher |
 | 124 | 1105 | Adrian Marcel Pate |
 | 125 | 1101 | Valerie Gendron |
 | 126 | 1093 | Angela M. Fletcher |
@@ -167,8 +167,8 @@
 | 159 | 936 | Dolores Falco |
 | 160 | 928 | Edwin Calvillo Jr. |
 | 161 | 925 | Cherry Parker |
-| 162 | 914 | Staci George Fitzsimmons |
-| 163 | 914 | BadManSheLove |
+| 162 | 914 | BadManSheLove |
+| 163 | 914 | Staci George Fitzsimmons |
 | 164 | 910 | opf |
 | 165 | 906 | Patti Skiles |
 | 166 | 899 | Jaime Monhaut-Reed |
@@ -263,13 +263,13 @@
 | 255 | 642 | Rania Zaqout |
 | 256 | 641 | Tom Nault |
 | 257 | 640 | Dee Pratt |
-| 258 | 639 | Marci Mize Fandrich |
-| 259 | 639 | Nichol Graham |
+| 258 | 639 | Nichol Graham |
+| 259 | 639 | Marci Mize Fandrich |
 | 260 | 637 | Giddy Twistbuilder |
-| 261 | 635 | Amber Hughes |
-| 262 | 635 | Salena Whitlock |
-| 263 | 633 | Jillian Symons |
-| 264 | 633 | Rebecca Funderburk Kirby |
+| 261 | 635 | Salena Whitlock |
+| 262 | 635 | Amber Hughes |
+| 263 | 633 | Rebecca Funderburk Kirby |
+| 264 | 633 | Jillian Symons |
 | 265 | 632 | Rebecca Bailey |
 | 266 | 629 | rnr junky |
 | 267 | 627 | Juliana Dottore |
@@ -362,8 +362,8 @@
 | 354 | 470 | Jazzy Spinfit |
 | 355 | 468 | Bigmack |
 | 356 | 467 | Danielle Rhoades |
-| 357 | 465 | Noettín Kan Zasnemoore |
-| 358 | 465 | Blocked |
+| 357 | 465 | Blocked |
+| 358 | 465 | Noettín Kan Zasnemoore |
 | 359 | 464 | Snazzy Filler |
 | 360 | 464 | Snippy Wipeout |
 | 361 | 463 | Hoài Quắt |
@@ -378,8 +378,8 @@
 | 370 | 455 | Kelly Wolf |
 | 371 | 451 | Swanky Frame |
 | 372 | 450 | Luciana Braganca Vieira |
-| 373 | 449 | Jojo M |
-| 374 | 449 | Sissy Lowery Davis |
+| 373 | 449 | Sissy Lowery Davis |
+| 374 | 449 | Jojo M |
 | 375 | 447 | Carrie Huskey |
 | 376 | 447 | Num1hater |
 | 377 | 446 | Jennifer Alvey |
@@ -413,8 +413,8 @@
 | 405 | 418 | Rainbow77375 |
 | 406 | 417 | Krish Shah |
 | 407 | 416 | Tay |
-| 408 | 414 | Arden White Kirsch |
-| 409 | 414 | Michelle Allers |
+| 408 | 414 | Michelle Allers |
+| 409 | 414 | Arden White Kirsch |
 | 410 | 413 | Rick Poppen |
 | 411 | 411 | Beaudie Stroebel |
 | 412 | 409 | Rich LeBlanc |
