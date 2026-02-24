@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-24 13:30:44 UTC
+# Standings for team4 as of 2026-02-24 13:31:21 UTC
 
 **Total Participants:** 2035
 
@@ -83,7 +83,7 @@
 | 75 | 1056 | Keith Kelley |
 | 76 | 1050 | Anthony Bryan Riva |
 | 77 | 1046 | Johnathan Martinez |
-| 78 | 1031 | TeeJ |
+| 78 | 1032 | TeeJ |
 | 79 | 1027 | Jeremy Steines |
 | 80 | 1024 | Valerie Roberts |
 | 81 | 1012 | Guy Incognito |
@@ -1198,19 +1198,19 @@
 | 1190 | 78 | Breezy Grid |
 | 1191 | 78 | Bromine |
 | 1192 | 78 | Bold Matcher |
-| 1193 | 77 | Kris Brisco |
-| 1194 | 77 | Adam Hughes |
+| 1193 | 77 | Adam Hughes |
+| 1194 | 77 | 805 |
 | 1195 | 77 | Poppy Twistslam |
-| 1196 | 77 | 805 |
+| 1196 | 77 | Kris Brisco |
 | 1197 | 77 | Kris Zulch |
 | 1198 | 77 | Camille |
-| 1199 | 76 | George Thomson Jr. |
-| 1200 | 76 | Beth Ann |
-| 1201 | 76 | Saucy Brickfit |
-| 1202 | 76 | Meli  Jackson |
+| 1199 | 76 | Gage |
+| 1200 | 76 | George Thomson Jr. |
+| 1201 | 76 | Beth Ann |
+| 1202 | 76 | Saucy Brickfit |
 | 1203 | 76 | Heather Hilferty |
 | 1204 | 76 | Jeannie Lee |
-| 1205 | 76 | Gage |
+| 1205 | 76 | Meli  Jackson |
 | 1206 | 75 | Twisty Towerpiece |
 | 1207 | 75 | Dena Shoop |
 | 1208 | 75 | unrewound |
@@ -1219,48 +1219,48 @@
 | 1211 | 75 | Nee |
 | 1212 | 75 | Dizzy Tetrisline |
 | 1213 | 75 | Tarina Berner |
-| 1214 | 74 | Amanda Lanctot |
-| 1215 | 74 | Kevin L Cafleux |
-| 1216 | 74 | Mark Morgan |
-| 1217 | 73 | Thomas R. Phillips |
-| 1218 | 73 | Gary Say |
+| 1214 | 74 | Zippy Linkmatch |
+| 1215 | 74 | Amanda Lanctot |
+| 1216 | 74 | Kevin L Cafleux |
+| 1217 | 74 | Mark Morgan |
+| 1218 | 73 | Rachel Nicole |
 | 1219 | 73 | KnCson |
-| 1220 | 73 | Michele Lauer |
-| 1221 | 73 | Ohmatae |
-| 1222 | 73 | Rachel Nicole |
-| 1223 | 73 | Serene Martell |
-| 1224 | 73 | April Washington |
-| 1225 | 73 | Zhulma Velasco |
-| 1226 | 73 | David Phifer |
-| 1227 | 73 | canglem |
-| 1228 | 72 | Megan Crane |
-| 1229 | 72 | Melitta Boisvert |
-| 1230 | 72 | Reggie |
-| 1231 | 72 | Pikake Medeiros |
-| 1232 | 72 | Giddy Swiper |
+| 1220 | 73 | Gary Say |
+| 1221 | 73 | Serene Martell |
+| 1222 | 73 | Zhulma Velasco |
+| 1223 | 73 | Thomas R. Phillips |
+| 1224 | 73 | canglem |
+| 1225 | 73 | David Phifer |
+| 1226 | 73 | April Washington |
+| 1227 | 73 | Ohmatae |
+| 1228 | 73 | Michele Lauer |
+| 1229 | 72 | Megan Crane |
+| 1230 | 72 | Melitta Boisvert |
+| 1231 | 72 | Reggie |
+| 1232 | 72 | Pikake Medeiros |
 | 1233 | 72 | London Murphy |
-| 1234 | 71 | T |
-| 1235 | 71 | Sara Saxton Moon |
-| 1236 | 71 | Valerie J. Potero |
-| 1237 | 71 | Zippy Linkmatch |
+| 1234 | 72 | Giddy Swiper |
+| 1235 | 71 | Jessica Graham |
+| 1236 | 71 | Sara Saxton Moon |
+| 1237 | 71 | Valerie J. Potero |
 | 1238 | 71 | Dapper Climber |
-| 1239 | 71 | Jmier |
+| 1239 | 71 | T |
 | 1240 | 71 | Amy La Violette |
-| 1241 | 71 | Jessica Graham |
+| 1241 | 71 | Jmier |
 | 1242 | 71 | deebop |
 | 1243 | 70 | Epic Tilt |
 | 1244 | 70 | Jumpy Shatterline |
-| 1245 | 70 | Cassie Haydis |
-| 1246 | 70 | Patrick Cossette |
-| 1247 | 70 | Ayanna James |
-| 1248 | 70 | Tammi Harne |
+| 1245 | 70 | Patrick Cossette |
+| 1246 | 70 | Tammi Harne |
+| 1247 | 70 | Cassie Haydis |
+| 1248 | 70 | Ayanna James |
 | 1249 | 70 | Matthew Doyle |
 | 1250 | 70 | Mighty Blockroll |
 | 1251 | 70 | Ruben Perez |
-| 1252 | 70 | Boldy Twistline |
+| 1252 | 70 | Kayd |
 | 1253 | 70 | Donnie Istillwill Straub |
 | 1254 | 70 | ShadowWanderrr |
-| 1255 | 70 | Kayd |
+| 1255 | 70 | Boldy Twistline |
 | 1256 | 70 | Aaron Wilkins |
 | 1257 | 70 | PlatinumRose |
 | 1258 | 70 | Br23klyn |
