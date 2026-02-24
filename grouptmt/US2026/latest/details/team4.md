@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-24 21:04:44 UTC
+# Standings for team4 as of 2026-02-24 21:05:22 UTC
 
 **Total Participants:** 2085
 
@@ -308,19 +308,19 @@
 | 300 | 413 | Tawna Curry |
 | 301 | 413 | Michael Snow |
 | 302 | 413 | Neirrah B Olailjeel |
-| 303 | 411 | Vic |
-| 304 | 411 | Snippy Puzzle |
-| 305 | 411 | Bradley Reeves |
-| 306 | 410 | Lindsay Ball |
-| 307 | 409 | Antony Dwayne Beasley |
-| 308 | 408 | Dihcheese444 |
+| 303 | 413 | Cynthia Boudreau |
+| 304 | 411 | Vic |
+| 305 | 411 | Snippy Puzzle |
+| 306 | 411 | Bradley Reeves |
+| 307 | 410 | Lindsay Ball |
+| 308 | 409 | Antony Dwayne Beasley |
 | 309 | 408 | Jason Frehner |
-| 310 | 407 | Allison Rose |
-| 311 | 407 | blockstar |
-| 312 | 406 | Zethra Prenisha Rahming |
-| 313 | 405 | ZeeZee |
-| 314 | 404 | Dizzy Matchzone |
-| 315 | 403 | Cynthia Boudreau |
+| 310 | 408 | Dihcheese444 |
+| 311 | 407 | Allison Rose |
+| 312 | 407 | blockstar |
+| 313 | 406 | Zethra Prenisha Rahming |
+| 314 | 405 | ZeeZee |
+| 315 | 404 | Dizzy Matchzone |
 | 316 | 403 | Lora |
 | 317 | 401 | Dan Wold |
 | 318 | 400 | Holly |
@@ -340,8 +340,8 @@
 | 332 | 384 | Chaz |
 | 333 | 384 | Michelle Morris |
 | 334 | 384 | Frances Hui |
-| 335 | 382 | Matt Dell'Olio |
-| 336 | 382 | Sue Joyce Staats |
+| 335 | 382 | Sue Joyce Staats |
+| 336 | 382 | Matt Dell'Olio |
 | 337 | 380 | Amy Jean |
 | 338 | 380 | Holly Jolly |
 | 339 | 377 | Jason Bosco |
@@ -681,25 +681,25 @@
 | 673 | 203 | Myra LaTrice |
 | 674 | 203 | Courtney Lacerte |
 | 675 | 203 | Pampam |
-| 676 | 202 | b |
-| 677 | 202 | Jasmine S Caldwell |
-| 678 | 201 | Nijmeh Hinchsliff |
-| 679 | 201 | Carla Harris |
-| 680 | 201 | Eric Wren |
-| 681 | 201 | Danya Castillo Rios |
-| 682 | 200 | Walid Elsabee |
-| 683 | 200 | Veronica Garza |
-| 684 | 199 | Allen Johnson |
-| 685 | 199 | Amy C Brown |
-| 686 | 199 | Patrick Cookson |
-| 687 | 198 | Earnest Thompson |
-| 688 | 198 | Christina O'Dell-Ishau |
-| 689 | 198 | Zocko Ellet |
-| 690 | 198 | Ahleek Mitchell |
-| 691 | 198 | Jazzy Slamdrop |
-| 692 | 198 | Shiny Twistpiece |
-| 693 | 198 | Bubbly Setter |
-| 694 | 197 | Colton Stamper |
+| 676 | 202 | Colton Stamper |
+| 677 | 202 | b |
+| 678 | 202 | Jasmine S Caldwell |
+| 679 | 201 | Nijmeh Hinchsliff |
+| 680 | 201 | Carla Harris |
+| 681 | 201 | Eric Wren |
+| 682 | 201 | Danya Castillo Rios |
+| 683 | 200 | Walid Elsabee |
+| 684 | 200 | Veronica Garza |
+| 685 | 199 | Allen Johnson |
+| 686 | 199 | Amy C Brown |
+| 687 | 199 | Patrick Cookson |
+| 688 | 198 | Earnest Thompson |
+| 689 | 198 | Christina O'Dell-Ishau |
+| 690 | 198 | Zocko Ellet |
+| 691 | 198 | Ahleek Mitchell |
+| 692 | 198 | Jazzy Slamdrop |
+| 693 | 198 | Shiny Twistpiece |
+| 694 | 198 | Bubbly Setter |
 | 695 | 197 | Lynn Marie |
 | 696 | 197 | Josh Chapell |
 | 697 | 196 | Hanh Pham |
