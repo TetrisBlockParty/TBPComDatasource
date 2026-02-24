@@ -135,8 +135,8 @@
 | 127 | 726 | Jamie Gustafson |
 | 128 | 725 | Brandon Crabbs |
 | 129 | 719 | George Nutt |
-| 130 | 712 | Leslie Nicole |
-| 131 | 712 | H.R. Block |
+| 130 | 712 | H.R. Block |
+| 131 | 712 | Leslie Nicole |
 | 132 | 708 | Jacqueline Helm |
 | 133 | 704 | Chilly Crasher |
 | 134 | 704 | Austin Owens |
@@ -195,9 +195,9 @@
 | 187 | 536 | JPW |
 | 188 | 535 | Berklie Apedaile |
 | 189 | 534 | Lucas J Sutton |
-| 190 | 532 | Matt Summer |
-| 191 | 532 | Carly Alexis |
-| 192 | 532 | Alan George LaRage |
+| 190 | 532 | Carly Alexis |
+| 191 | 532 | Alan George LaRage |
+| 192 | 532 | Matt Summer |
 | 193 | 528 | Erin Sabol |
 | 194 | 525 | 🥔🥔 Spudz |
 | 195 | 520 | Oscar Alberto Perez |
@@ -233,8 +233,8 @@
 | 225 | 473 | Jolly Dashfit |
 | 226 | 472 | Plucky Patternblock |
 | 227 | 465 | Leslie Thomas |
-| 228 | 464 | Zakia Monae |
-| 229 | 464 | Calvin Cannon |
+| 228 | 464 | Calvin Cannon |
+| 229 | 464 | Zakia Monae |
 | 230 | 463 | shark tato |
 | 231 | 462 | Crystal Nicolette Moore |
 | 232 | 460 | Kathy Brookins |
@@ -243,12 +243,12 @@
 | 235 | 457 | Kristin Manee |
 | 236 | 457 | J-Rizzle |
 | 237 | 455 | Michele Plunkett |
-| 238 | 454 | Keshia Lyons |
-| 239 | 454 | David Lay |
+| 238 | 454 | David Lay |
+| 239 | 454 | Keshia Lyons |
 | 240 | 450 | Genne Scott |
 | 241 | 449 | Danielle Kollias |
-| 242 | 448 | Mike Solo |
-| 243 | 448 | Mr. Party |
+| 242 | 448 | Mr. Party |
+| 243 | 448 | Mike Solo |
 | 244 | 447 | Jen Mattei |
 | 245 | 444 | Selena Shaw |
 | 246 | 442 | John Brunetti |
@@ -279,8 +279,8 @@
 | 271 | 407 | Rafael Valentin |
 | 272 | 407 | Hyper Builder |
 | 273 | 402 | Nita Wells |
-| 274 | 399 | Twisty Cascadezone |
-| 275 | 399 | Brittany Little |
+| 274 | 399 | Brittany Little |
+| 275 | 399 | Twisty Cascadezone |
 | 276 | 398 | Tyler Terrific |
 | 277 | 397 | blockstar |
 | 278 | 395 | BigSammy420 |
@@ -318,8 +318,8 @@
 | 310 | 354 | Perky Piecegrid |
 | 311 | 354 | @ |
 | 312 | 352 | Kate |
-| 313 | 351 | Dana Scott |
-| 314 | 351 | Jackie Clark |
+| 313 | 351 | Jackie Clark |
+| 314 | 351 | Dana Scott |
 | 315 | 350 | Dizzy Matchzone |
 | 316 | 349 | Richard-April Kice |
 | 317 | 349 | jim |
@@ -417,9 +417,9 @@
 | 409 | 288 | Susan Williams |
 | 410 | 288 | Eminem |
 | 411 | 286 | Stephme310 |
-| 412 | 284 | Shiny Pivoty |
-| 413 | 284 | Johnny R |
-| 414 | 284 | Alexandra Karavias |
+| 412 | 284 | Alexandra Karavias |
+| 413 | 284 | Shiny Pivoty |
+| 414 | 284 | Johnny R |
 | 415 | 282 | Sho Nuff |
 | 416 | 281 | Tyler Bechtel |
 | 417 | 281 | Tony Pavelka |
@@ -468,8 +468,8 @@
 | 460 | 256 | bloat princess |
 | 461 | 256 | Tipsy Cascader |
 | 462 | 255 | Red |
-| 463 | 254 | Crystal Lynn |
-| 464 | 254 | Jess Reyes |
+| 463 | 254 | Jess Reyes |
+| 464 | 254 | Crystal Lynn |
 | 465 | 253 | Autum Leigh |
 | 466 | 251 | Diosa Ebalobo Magsael |
 | 467 | 251 | Carol Ricks Raymond |
@@ -613,11 +613,11 @@
 | 605 | 201 | Danya Castillo Rios |
 | 606 | 201 | Carla Harris |
 | 607 | 199 | Allen Johnson |
-| 608 | 198 | Zocko Ellet |
-| 609 | 198 | Bubbly Setter |
+| 608 | 198 | Bubbly Setter |
+| 609 | 198 | Zocko Ellet |
 | 610 | 197 | Colton Stamper |
 | 611 | 197 | Satinleader |
-| 612 | 196 | Julie McAfoos Swanson |
+| 612 | 196 | Mcg |
 | 613 | 196 | Michelle McCutcheon |
 | 614 | 196 | Julie McAfoos Swanson |
 | 615 | 195 | Tabi Williams |
@@ -626,7 +626,7 @@
 | 618 | 194 | Katie Alexander |
 | 619 | 194 | Carlos Hernandez |
 | 620 | 194 | Joshua Cuellar |
-| 621 | 194 | Carlos Hernandez |
+| 621 | 194 | Zany Twisterfit |
 | 622 | 193 | Stormy Tomplait |
 | 623 | 192 | Jacob Campbell |
 | 624 | 192 | Frilly Blocky |

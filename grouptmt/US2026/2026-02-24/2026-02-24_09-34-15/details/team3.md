@@ -106,8 +106,8 @@
 | 98 | 1361 | Patricia Gadsden |
 | 99 | 1343 | Joey Banks |
 | 100 | 1320 | Kristie |
-| 101 | 1318 | Tiff Vs Tiffany |
-| 102 | 1318 | Diana Ibarra |
+| 101 | 1318 | Diana Ibarra |
+| 102 | 1318 | Tiff Vs Tiffany |
 | 103 | 1309 | yoyo |
 | 104 | 1297 | Shelby Michelle |
 | 105 | 1290 | JerseyJess |
@@ -176,8 +176,8 @@
 | 168 | 875 | Chasity |
 | 169 | 874 | Jessica Pineda-Lopez |
 | 170 | 871 | Rochelle Hazelett |
-| 171 | 868 | Nicole Flippo |
-| 172 | 868 | Cranky Gridder |
+| 171 | 868 | Cranky Gridder |
+| 172 | 868 | Nicole Flippo |
 | 173 | 866 | Domo Washington |
 | 174 | 864 | Sunny Rotater |
 | 175 | 862 | Santeria Trece Candles |
@@ -207,8 +207,8 @@
 | 199 | 784 | Jone |
 | 200 | 783 | Julian Murphy |
 | 201 | 777 | Daryn Elliott |
-| 202 | 774 | ren |
-| 203 | 774 | Twisty Brick LT |
+| 202 | 774 | Twisty Brick LT |
+| 203 | 774 | ren |
 | 204 | 772 | Hasty Cascadefit |
 | 205 | 768 | Cyd061769 |
 | 206 | 766 | Tasha Gillespie |
@@ -217,8 +217,8 @@
 | 209 | 760 | Kiki |
 | 210 | 759 | Mykal Burton |
 | 211 | 757 | Fancy Cascader |
-| 212 | 755 | Laura Booth Wosko |
-| 213 | 755 | Colton |
+| 212 | 755 | Colton |
+| 213 | 755 | Laura Booth Wosko |
 | 214 | 754 | CeceGeGe |
 | 215 | 753 | Morgan Martinez |
 | 216 | 752 | Joye Sims Binion |
@@ -231,15 +231,15 @@
 | 223 | 715 | Karon Griffin |
 | 224 | 714 | Jenny Hrndz |
 | 225 | 713 | Stephanie Blkpep Davidson |
-| 226 | 709 | Christine Niles |
-| 227 | 709 | Cynthia Castros-Hampton |
+| 226 | 709 | Cynthia Castros-Hampton |
+| 227 | 709 | Christine Niles |
 | 228 | 708 | Stephanie Bradley |
 | 229 | 704 | Betty Bóò |
 | 230 | 703 | Shawn Miller |
-| 231 | 693 | Heather Davis |
-| 232 | 693 | lashanda |
-| 233 | 691 | Snappy Balancer |
-| 234 | 691 | Tia |
+| 231 | 693 | lashanda |
+| 232 | 693 | Heather Davis |
+| 233 | 691 | Tia |
+| 234 | 691 | Snappy Balancer |
 | 235 | 687 | joz |
 | 236 | 685 | Brandon Givens |
 | 237 | 680 | Terry Jo Jones |
@@ -310,8 +310,8 @@
 | 302 | 547 | Aerian Preston |
 | 303 | 542 | France Vézina |
 | 304 | 541 | Mcathen |
-| 305 | 540 | rosy |
-| 306 | 540 | Tanya Kittrell |
+| 305 | 540 | Tanya Kittrell |
+| 306 | 540 | rosy |
 | 307 | 539 | Fancy Curver |
 | 308 | 539 | Kate M. Murdock |
 | 309 | 538 | Chummy Caster |
@@ -567,7 +567,7 @@
 | 559 | 319 | Moneyvybz |
 | 560 | 319 | Jayme |
 | 561 | 318 | James Fuller |
-| 562 | 318 | Earlanda Holland |
+| 562 | 318 | Tina Smith Roy |
 | 563 | 318 | Trey Ward |
 | 564 | 318 | Earlanda Holland |
 | 565 | 317 | Shiny Snapfit |
@@ -586,8 +586,8 @@
 | 578 | 313 | Joseph Vargas |
 | 579 | 313 | Muk |
 | 580 | 313 | Dakota Graham |
-| 581 | 312 | Elizabeth Renee |
-| 582 | 312 | Trice Thomas |
+| 581 | 312 | Trice Thomas |
+| 582 | 312 | Elizabeth Renee |
 | 583 | 311 | Irene Arreguin |
 | 584 | 311 | Sunny Lift |
 | 585 | 309 | Jumpy Curvebuilder |

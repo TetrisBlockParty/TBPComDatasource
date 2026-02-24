@@ -282,8 +282,8 @@
 | 274 | 1480 | Dimitra Zazara |
 | 275 | 1479 | Pacynthia Williams |
 | 276 | 1478 | Misty Walker |
-| 277 | 1477 | Prado |
-| 278 | 1477 | Hillary Crawford |
+| 277 | 1477 | Hillary Crawford |
+| 278 | 1477 | Prado |
 | 279 | 1469 | Carrie Trigg |
 | 280 | 1463 | Yvonne Wharton |
 | 281 | 1459 | Shiny Rollzone |
@@ -425,8 +425,8 @@
 | 417 | 1101 | Kathryn Townsley |
 | 418 | 1099 | Loony Snapper |
 | 419 | 1096 | Amber Shoemaker |
-| 420 | 1093 | Adira Brown |
-| 421 | 1093 | Real Ri |
+| 420 | 1093 | Real Ri |
+| 421 | 1093 | Adira Brown |
 | 422 | 1092 | Jánine Riggs |
 | 423 | 1090 | McLeod Shana |
 | 424 | 1089 | Jerilyn Andrina |
@@ -880,8 +880,8 @@
 | 872 | 652 | Lively Edgepiece |
 | 873 | 652 | Dane Reing |
 | 874 | 652 | Kimmie Zimmerman-Rocha |
-| 875 | 651 | Unica Rector |
-| 876 | 651 | Lazy Builderfit |
+| 875 | 651 | Lazy Builderfit |
+| 876 | 651 | Unica Rector |
 | 877 | 650 | Pfc Monei Rivera |
 | 878 | 650 | Brittany Chapman |
 | 879 | 650 | Peppy Snapfall |
@@ -995,8 +995,8 @@
 | 987 | 589 | Sharon Madeiros |
 | 988 | 588 | Wayne Fields |
 | 989 | 587 | Alexx Anaya |
-| 990 | 586 | Cat Thompson |
-| 991 | 586 | Tracy Wise Moon |
+| 990 | 586 | Tracy Wise Moon |
+| 991 | 586 | Cat Thompson |
 | 992 | 586 | Tra Barnum |
 | 993 | 585 | Danielle DeLozier Plesec |
 | 994 | 585 | Laquetta Royston |
@@ -1096,8 +1096,8 @@
 | 1088 | 544 | Barry Allan |
 | 1089 | 544 | Muhammad |
 | 1090 | 543 | Casey Schumacher |
-| 1091 | 543 | Renee Bowers |
-| 1092 | 543 | Cblock |
+| 1091 | 543 | Cblock |
+| 1092 | 543 | Renee Bowers |
 | 1093 | 543 | Patti Rone |
 | 1094 | 543 | Buggy |
 | 1095 | 543 | Janai Vrabel |

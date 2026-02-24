@@ -123,8 +123,8 @@
 | 115 | 751 | Kellie |
 | 116 | 725 | Debbie Kane |
 | 117 | 716 | Kristi Johnson |
-| 118 | 706 | Denice Dee |
-| 119 | 706 | Plucky Fallzone |
+| 118 | 706 | Plucky Fallzone |
+| 119 | 706 | Denice Dee |
 | 120 | 702 | lil mickey |
 | 121 | 699 | cc |
 | 122 | 696 | Carrie Smith |
@@ -137,13 +137,13 @@
 | 129 | 666 | Virginia Gray Floyd |
 | 130 | 652 | Evie Khalil |
 | 131 | 651 | Dandy Basegrid |
-| 132 | 650 | Bob |
-| 133 | 650 | April Carroll |
+| 132 | 650 | April Carroll |
+| 133 | 650 | Bob |
 | 134 | 647 | Theo Pinnow |
 | 135 | 643 | Erin Rosberg |
 | 136 | 642 | Mario Cab |
-| 137 | 629 | Death |
-| 138 | 629 | Tanya Carpenter-Reynolds |
+| 137 | 629 | Tanya Carpenter-Reynolds |
+| 138 | 629 | Death |
 | 139 | 628 | Trina Gee |
 | 140 | 626 | Damon J. Martin |
 | 141 | 620 | Ty Brown |
@@ -262,17 +262,17 @@
 | 254 | 409 | Lehrin Maria |
 | 255 | 409 | poopypants |
 | 256 | 405 | Tyler L Hunt |
-| 257 | 403 | Tami Luce Martin |
-| 258 | 403 | Alenoush Karimian |
-| 259 | 403 | Jen Nystrom |
+| 257 | 403 | Jen Nystrom |
+| 258 | 403 | Tami Luce Martin |
+| 259 | 403 | Alenoush Karimian |
 | 260 | 399 | Lakeisha Chapman |
 | 261 | 398 | MommaKFC |
 | 262 | 398 | Cece Ibarra |
 | 263 | 396 | Sam Williams |
 | 264 | 394 | Nick R Montague |
 | 265 | 393 | Wisa |
-| 266 | 392 | Renee Tucker |
-| 267 | 392 | Poppy Riserpiece |
+| 266 | 392 | Poppy Riserpiece |
+| 267 | 392 | Renee Tucker |
 | 268 | 391 | Happy Basegrid |
 | 269 | 390 | David Lutcher |
 | 270 | 388 | Test |
@@ -878,7 +878,7 @@
 | 870 | 138 | SophieG |
 | 871 | 137 | Lin |
 | 872 | 137 | Rockin Red |
-| 873 | 136 | Jennifer Chilton-Metlock |
+| 873 | 136 | NicaOrlice |
 | 874 | 136 | Dreamy Basepiece |
 | 875 | 136 | Jennifer Chilton-Metlock |
 | 876 | 135 | Bye Love |
