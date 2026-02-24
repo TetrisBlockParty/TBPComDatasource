@@ -215,8 +215,8 @@
 | 207 | 422 | Chelsea Dahlquist |
 | 208 | 422 | Jamise Brown |
 | 209 | 420 | Jennifer Noe Chandler |
-| 210 | 419 | John J. Cronin |
-| 211 | 419 | Daring Fitclear |
+| 210 | 419 | Daring Fitclear |
+| 211 | 419 | John J. Cronin |
 | 212 | 417 | Jessie Lynn |
 | 213 | 416 | Jessica Sheehan |
 | 214 | 413 | Ananda Mendez |
@@ -816,7 +816,7 @@
 | 808 | 127 | sassy |
 | 809 | 126 | nm1289 |
 | 810 | 126 | Mortious |
-| 811 | 126 | Natasha |
+| 811 | 126 | Cool Combo |
 | 812 | 126 | Hungsolo9 |
 | 813 | 126 | Christina Gutierrez |
 | 814 | 126 | Natasha |

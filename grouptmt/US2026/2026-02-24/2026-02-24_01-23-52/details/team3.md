@@ -248,8 +248,8 @@
 | 240 | 572 | Tessina Dewey-Mancino |
 | 241 | 572 | Duane Bright |
 | 242 | 570 | thekey |
-| 243 | 569 | Michael Johnson |
-| 244 | 569 | Silly Twist |
+| 243 | 569 | Silly Twist |
+| 244 | 569 | Michael Johnson |
 | 245 | 568 | Rachael McClain Owens |
 | 246 | 566 | LaTanya GeminiondaRise Johnson |
 | 247 | 563 | Fallorina Susana |
@@ -283,8 +283,8 @@
 | 275 | 516 | Daring Brickzone |
 | 276 | 516 | PrncssPJ |
 | 277 | 516 | Marquita Sheard |
-| 278 | 508 | Colton |
-| 279 | 508 | joz |
+| 278 | 508 | joz |
+| 279 | 508 | Colton |
 | 280 | 507 | Snappy Balancer |
 | 281 | 506 | Ammmmmmy |
 | 282 | 505 | Stephanie Simpson |
