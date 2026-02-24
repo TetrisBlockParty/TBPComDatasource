@@ -236,8 +236,8 @@
 | 228 | 448 | Mike Solo |
 | 229 | 448 | Mr. Party |
 | 230 | 447 | Jen Mattei |
-| 231 | 444 | Calvin Cannon |
-| 232 | 444 | Selena Shaw |
+| 231 | 444 | Selena Shaw |
+| 232 | 444 | Calvin Cannon |
 | 233 | 442 | John Brunetti |
 | 234 | 441 | Lush Linkfall |
 | 235 | 438 | Melvin Baird |

@@ -301,8 +301,8 @@
 | 293 | 1358 | Arlene Joy Belicina |
 | 294 | 1353 | Deborah Miller |
 | 295 | 1351 | Ashie Ann |
-| 296 | 1351 | Denisha Dawkins |
-| 297 | 1351 | Johnny Yeates |
+| 296 | 1351 | Johnny Yeates |
+| 297 | 1351 | Denisha Dawkins |
 | 298 | 1342 | Groovy Puzzle |
 | 299 | 1342 | Kelly A Green-Leach |
 | 300 | 1341 | Cassie Mercer |
@@ -625,8 +625,8 @@
 | 617 | 793 | Heather Anspaugh |
 | 618 | 792 | Beatboxxer |
 | 619 | 789 | De'Jah Charncey |
-| 620 | 786 | tejas25 |
-| 621 | 786 | Charvi' Carter |
+| 620 | 786 | Charvi' Carter |
+| 621 | 786 | tejas25 |
 | 622 | 786 | Ashe Corso |
 | 623 | 785 | Daniel Amos |
 | 624 | 783 | Shiny Twistfit |

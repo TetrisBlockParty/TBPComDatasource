@@ -45,8 +45,8 @@
 | 37 | 1515 | Felicia Lewis |
 | 38 | 1405 | Chipper Gridlock |
 | 39 | 1391 | Aaron Garnett |
-| 40 | 1334 | june october |
-| 41 | 1334 | Tyler Alcock |
+| 40 | 1334 | Tyler Alcock |
+| 41 | 1334 | june october |
 | 42 | 1321 | Drew Magnus |
 | 43 | 1291 | Marianne Louise West |
 | 44 | 1280 | Spunky Piecebuilder |
@@ -115,12 +115,12 @@
 | 107 | 751 | Kellie |
 | 108 | 748 | Lori Sanders- Davis |
 | 109 | 737 | Karin Gillen |
-| 110 | 725 | Debbie Kane |
-| 111 | 725 | Phu ckalldems |
+| 110 | 725 | Phu ckalldems |
+| 111 | 725 | Debbie Kane |
 | 112 | 719 | Bindi |
 | 113 | 716 | Kristi Johnson |
-| 114 | 706 | Plucky Fallzone |
-| 115 | 706 | Denice Dee |
+| 114 | 706 | Denice Dee |
+| 115 | 706 | Plucky Fallzone |
 | 116 | 702 | lil mickey |
 | 117 | 699 | cc |
 | 118 | 692 | Melissa Lemmon |
@@ -136,8 +136,8 @@
 | 128 | 642 | Mario Cab |
 | 129 | 639 | Theo Pinnow |
 | 130 | 634 | Carrie Smith |
-| 131 | 629 | Tanya Carpenter-Reynolds |
-| 132 | 629 | Death |
+| 131 | 629 | Death |
+| 132 | 629 | Tanya Carpenter-Reynolds |
 | 133 | 628 | Trina Gee |
 | 134 | 626 | Damon J. Martin |
 | 135 | 622 | Chris K |
@@ -171,8 +171,8 @@
 | 163 | 543 | Adrian Esteban |
 | 164 | 540 | Tonya Beasley |
 | 165 | 538 | .running. |
-| 166 | 537 | BadG52 |
-| 167 | 537 | Stephanie Zahn |
+| 166 | 537 | Stephanie Zahn |
+| 167 | 537 | BadG52 |
 | 168 | 535 | Plucky Ziggy |
 | 169 | 532 | Νεφ Όνυξ |
 | 170 | 528 | ALFD |
@@ -188,8 +188,8 @@
 | 180 | 510 | Rat666 |
 | 181 | 508 | Hyper |
 | 182 | 500 | Jennifer Hardman |
-| 183 | 497 | MIKOZ |
-| 184 | 497 | Steve Schneider |
+| 183 | 497 | Steve Schneider |
+| 184 | 497 | MIKOZ |
 | 185 | 496 | Sarah Somers Gray |
 | 186 | 496 | Michelle Beres |
 | 187 | 494 | Sean Stallings |
@@ -339,7 +339,7 @@
 | 331 | 329 | Sarah Marie |
 | 332 | 328 | Richard Corrado |
 | 333 | 327 | Christina Norman |
-| 334 | 325 | GringaLinga |
+| 334 | 325 | Mitchel White |
 | 335 | 325 | Sarahdactyl |
 | 336 | 325 | GringaLinga |
 | 337 | 325 | April Jones |

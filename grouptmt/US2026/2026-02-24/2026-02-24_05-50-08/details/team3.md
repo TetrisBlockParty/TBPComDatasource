@@ -80,8 +80,8 @@
 | 72 | 1646 | Gracie |
 | 73 | 1633 | cowboy25469 |
 | 74 | 1620 | Queen Kam |
-| 75 | 1566 | Nerdy Riseclear |
-| 76 | 1566 | Marcie Bressler |
+| 75 | 1566 | Marcie Bressler |
+| 76 | 1566 | Nerdy Riseclear |
 | 77 | 1560 | Logan Naccarato |
 | 78 | 1555 | Snappy Glidepiece |
 | 79 | 1552 | joclisa |
@@ -186,8 +186,8 @@
 | 178 | 821 | Kammy Hill |
 | 179 | 817 | Niki Dalrymple |
 | 180 | 815 | Justin Ritter |
-| 181 | 804 | Gideon Walker |
-| 182 | 804 | Alaina Lee |
+| 181 | 804 | Alaina Lee |
+| 182 | 804 | Gideon Walker |
 | 183 | 800 | Lauren Girouard |
 | 184 | 799 | Trisha Balmer |
 | 185 | 792 | Rachel Grant |
@@ -231,8 +231,8 @@
 | 223 | 691 | Snappy Balancer |
 | 224 | 691 | Tia |
 | 225 | 689 | Patti Skiles |
-| 226 | 675 | Terry Jo Jones |
-| 227 | 675 | Jeni Dow |
+| 226 | 675 | Jeni Dow |
+| 227 | 675 | Terry Jo Jones |
 | 228 | 662 | Jim Mathews |
 | 229 | 661 | LaShey Thompson |
 | 230 | 655 | Keis |
@@ -317,11 +317,11 @@
 | 309 | 506 | Ammmmmmy |
 | 310 | 505 | Stephanie Simpson |
 | 311 | 500 | Ashley Tookes |
-| 312 | 499 | Gumbo |
-| 313 | 499 | Rebecca Bailey |
+| 312 | 499 | Rebecca Bailey |
+| 313 | 499 | Gumbo |
 | 314 | 495 | Daring Builder |
-| 315 | 494 | Megan Rathmanner |
-| 316 | 494 | MCV |
+| 315 | 494 | MCV |
+| 316 | 494 | Megan Rathmanner |
 | 317 | 492 | Tasha Wesson-Torrence |
 | 318 | 491 | Mcathen |
 | 319 | 490 | Brenda Schmid Wood |
@@ -477,10 +477,10 @@
 | 469 | 345 | Misha Sanders |
 | 470 | 344 | Lys |
 | 471 | 344 | Karent524 |
-| 472 | 343 | Christina Marie Swisher |
-| 473 | 343 | Eboni Starr |
-| 474 | 342 | Saucy Buildout |
-| 475 | 342 | Boldy Corner |
+| 472 | 343 | Eboni Starr |
+| 473 | 343 | Christina Marie Swisher |
+| 474 | 342 | Boldy Corner |
+| 475 | 342 | Saucy Buildout |
 | 476 | 342 | Criss |
 | 477 | 341 | Funky Jumper |
 | 478 | 340 | Becca Engle |
@@ -500,8 +500,8 @@
 | 492 | 334 | Carol Cain Thurman |
 | 493 | 334 | Stella |
 | 494 | 333 | Heather Ferrara |
-| 495 | 332 | Clever Edgepiece |
-| 496 | 332 | Bleu Sun Beams |
+| 495 | 332 | Bleu Sun Beams |
+| 496 | 332 | Clever Edgepiece |
 | 497 | 331 | Wettnippz |
 | 498 | 330 | Christy Quick |
 | 499 | 330 | Willow |
@@ -826,7 +826,7 @@
 | 818 | 225 | Nyesha Niki Nu Nu |
 | 819 | 225 | Leticia Lynn Lowe |
 | 820 | 225 | Barbara Bennett |
-| 821 | 225 | Beto Rodriguez |
+| 821 | 225 | Heather Hymes |
 | 822 | 225 | Dono Chisholm |
 | 823 | 225 | fred |
 | 824 | 225 | Beto Rodriguez |
