@@ -205,9 +205,9 @@
 | 197 | 465 | Hasty Cascader |
 | 198 | 465 | Erin Rosberg |
 | 199 | 461 | Jessie Welch |
-| 200 | 458 | Goose egg |
-| 201 | 458 | Elaine Elaine |
-| 202 | 458 | Dizzy Slider |
+| 200 | 458 | Elaine Elaine |
+| 201 | 458 | Dizzy Slider |
+| 202 | 458 | Goose egg |
 | 203 | 457 | Lori Bales |
 | 204 | 453 | Kimmie Kimms |
 | 205 | 448 | Yvonne Marie |
@@ -215,8 +215,8 @@
 | 207 | 446 | Spencer Lent |
 | 208 | 442 | Reesey Enyart |
 | 209 | 441 | Kimberly Garcia |
-| 210 | 439 | Witty Builderfit |
-| 211 | 439 | David Miller |
+| 210 | 439 | David Miller |
+| 211 | 439 | Witty Builderfit |
 | 212 | 434 | Mike Ames |
 | 213 | 432 | Brian Spotts |
 | 214 | 431 | Shiny Snapfit |
@@ -255,8 +255,8 @@
 | 247 | 395 | Tami Luce Martin |
 | 248 | 393 | Wisa |
 | 249 | 391 | Happy Basegrid |
-| 250 | 390 | David Lutcher |
-| 251 | 390 | Jen Nystrom |
+| 250 | 390 | Jen Nystrom |
+| 251 | 390 | David Lutcher |
 | 252 | 386 | Angela Renea Lester |
 | 253 | 386 | Melissa Bires Hussar |
 | 254 | 384 | Irv |
@@ -348,9 +348,9 @@
 | 340 | 316 | Giggly Builderline |
 | 341 | 315 | san |
 | 342 | 313 | Steph |
-| 343 | 312 | Glitzy Curvebuilder |
-| 344 | 312 | Diane Byrd |
-| 345 | 312 | Michael |
+| 343 | 312 | Michael |
+| 344 | 312 | Glitzy Curvebuilder |
+| 345 | 312 | Diane Byrd |
 | 346 | 311 | Nathan Sealander |
 | 347 | 310 | Marci Sanders |
 | 348 | 309 | Isaiah |

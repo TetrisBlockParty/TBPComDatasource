@@ -102,8 +102,8 @@
 | 94 | 1361 | Patricia Gadsden |
 | 95 | 1343 | Joey Banks |
 | 96 | 1320 | Kristie |
-| 97 | 1318 | Diana Ibarra |
-| 98 | 1318 | Tiff Vs Tiffany |
+| 97 | 1318 | Tiff Vs Tiffany |
+| 98 | 1318 | Diana Ibarra |
 | 99 | 1309 | yoyo |
 | 100 | 1297 | Shelby Michelle |
 | 101 | 1290 | JerseyJess |
@@ -206,8 +206,8 @@
 | 198 | 763 | Khaleada McGill Banks |
 | 199 | 760 | Kiki |
 | 200 | 757 | Fancy Cascader |
-| 201 | 755 | Alexmac |
-| 202 | 755 | Laura Booth Wosko |
+| 201 | 755 | Laura Booth Wosko |
+| 202 | 755 | Alexmac |
 | 203 | 753 | Morgan Martinez |
 | 204 | 750 | Michael Nowogorski |
 | 205 | 746 | Joye Sims Binion |
@@ -443,7 +443,7 @@
 | 435 | 368 | Sheila M Frazier |
 | 436 | 366 | Erykah |
 | 437 | 365 | Frothy Glider |
-| 438 | 363 | 4girls |
+| 438 | 363 | Nena Somerville Kelly |
 | 439 | 363 | Giggly Brickroll |
 | 440 | 363 | 4girls |
 | 441 | 363 | angieelyn |
@@ -463,9 +463,9 @@
 | 455 | 353 | Cheeky Snapper |
 | 456 | 353 | Nikkie Bucciano |
 | 457 | 352 | LadyTorad |
-| 458 | 351 | Eon Harris |
-| 459 | 351 | Hoppy Buildout |
-| 460 | 351 | Nelma |
+| 458 | 351 | Hoppy Buildout |
+| 459 | 351 | Nelma |
+| 460 | 351 | Eon Harris |
 | 461 | 350 | Norma JulieMay |
 | 462 | 348 | Jimmie Clemons |
 | 463 | 348 | Ashley Raines |
@@ -501,8 +501,8 @@
 | 493 | 333 | Heather Ferrara |
 | 494 | 332 | Bleu Sun Beams |
 | 495 | 331 | Wettnippz |
-| 496 | 330 | Emma |
-| 497 | 330 | Christy Quick |
+| 496 | 330 | Christy Quick |
+| 497 | 330 | Emma |
 | 498 | 330 | Willow |
 | 499 | 329 | Sharisse Baltimore |
 | 500 | 329 | Krystal Gerstberger |
