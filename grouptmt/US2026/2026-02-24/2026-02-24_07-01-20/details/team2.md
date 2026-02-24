@@ -274,8 +274,8 @@
 | 266 | 1481 | Jamie Schmitt |
 | 267 | 1480 | Dimitra Zazara |
 | 268 | 1478 | Misty Walker |
-| 269 | 1477 | Prado |
-| 270 | 1477 | Hillary Crawford |
+| 269 | 1477 | Hillary Crawford |
+| 270 | 1477 | Prado |
 | 271 | 1469 | Carrie Trigg |
 | 272 | 1463 | Yvonne Wharton |
 | 273 | 1459 | Shiny Rollzone |
@@ -920,9 +920,9 @@
 | 912 | 614 | Dandy Combo |
 | 913 | 613 | Allyson Marra |
 | 914 | 613 | Brenda Annabel Smith |
-| 915 | 612 | Kitybox |
-| 916 | 612 | Marget Kay |
-| 917 | 612 | Goofy Catcher |
+| 915 | 612 | Goofy Catcher |
+| 916 | 612 | Kitybox |
+| 917 | 612 | Marget Kay |
 | 918 | 611 | Robin L. Vial |
 | 919 | 611 | Boldy Wiper |
 | 920 | 611 | Tom Steffen |

@@ -281,8 +281,8 @@
 | 273 | 377 | DoodleBug |
 | 274 | 377 | GATOR |
 | 275 | 376 | Sassy Builderline |
-| 276 | 376 | Brian Richardsson |
-| 277 | 376 | Billie Ann Eason |
+| 276 | 376 | Billie Ann Eason |
+| 277 | 376 | Brian Richardsson |
 | 278 | 375 | DaRascal |
 | 279 | 374 | Snappy Brickbuilder |
 | 280 | 374 | Chantelle Ceno |
@@ -971,8 +971,8 @@
 | 963 | 114 | elijahbih |
 | 964 | 114 | Nekina Wright |
 | 965 | 114 | Amy Marques |
-| 966 | 113 | Frilly Fitblock |
-| 967 | 113 | Chilly Matchbuilder |
+| 966 | 113 | Austin Jones |
+| 967 | 113 | Frilly Fitblock |
 | 968 | 113 | Susan Good |
 | 969 | 113 | Chilly Matchbuilder |
 | 970 | 112 | CMG |

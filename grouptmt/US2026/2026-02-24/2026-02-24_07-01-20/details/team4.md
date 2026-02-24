@@ -130,20 +130,20 @@
 | 122 | 735 | Nugget |
 | 123 | 731 | KJ Pool |
 | 124 | 729 | Jamie Mann-Deichmann |
-| 125 | 726 | Jamie Gustafson |
-| 126 | 726 | Amy Suckarieh |
+| 125 | 726 | Amy Suckarieh |
+| 126 | 726 | Jamie Gustafson |
 | 127 | 725 | Brandon Crabbs |
-| 128 | 712 | H.R. Block |
-| 129 | 712 | Leslie Nicole |
+| 128 | 712 | Leslie Nicole |
+| 129 | 712 | H.R. Block |
 | 130 | 708 | Jacqueline Helm |
 | 131 | 704 | Austin Owens |
 | 132 | 704 | Chilly Crasher |
 | 133 | 682 | Raegan Lane-Ross |
 | 134 | 668 | Desi Desporte |
-| 135 | 667 | Matt Gooder |
-| 136 | 667 | Lindsey Gonzalez |
-| 137 | 662 | Nerdy Twisterfit |
-| 138 | 662 | George Nutt |
+| 135 | 667 | Lindsey Gonzalez |
+| 136 | 667 | Matt Gooder |
+| 137 | 662 | George Nutt |
+| 138 | 662 | Nerdy Twisterfit |
 | 139 | 661 | Rodney McMath Jr. |
 | 140 | 651 | Adawna Swires |
 | 141 | 650 | Chris Hartig |
@@ -225,8 +225,8 @@
 | 217 | 482 | Laura |
 | 218 | 481 | Joanna |
 | 219 | 475 | Silly Zonebuilder |
-| 220 | 473 | Cranky Rollpiece |
-| 221 | 473 | Jolly Dashfit |
+| 220 | 473 | Jolly Dashfit |
+| 221 | 473 | Cranky Rollpiece |
 | 222 | 468 | June Hoffman |
 | 223 | 465 | Leslie Thomas |
 | 224 | 464 | Zakia Monae |
@@ -241,8 +241,8 @@
 | 233 | 455 | Michele Plunkett |
 | 234 | 454 | Keshia Lyons |
 | 235 | 449 | Danielle Kollias |
-| 236 | 448 | Mike Solo |
-| 237 | 448 | Mr. Party |
+| 236 | 448 | Mr. Party |
+| 237 | 448 | Mike Solo |
 | 238 | 447 | Jen Mattei |
 | 239 | 444 | Selena Shaw |
 | 240 | 442 | John Brunetti |
@@ -263,8 +263,8 @@
 | 255 | 421 | Brickh4us |
 | 256 | 420 | Jeff Brian Gates |
 | 257 | 413 | Rio Rocha |
-| 258 | 411 | TinyLegoRose |
-| 259 | 411 | Autumn Kumzi |
+| 258 | 411 | Autumn Kumzi |
+| 259 | 411 | TinyLegoRose |
 | 260 | 410 | Lindsay Ball |
 | 261 | 409 | Antony Dwayne Beasley |
 | 262 | 409 | Bio Nelly |
@@ -351,8 +351,8 @@
 | 343 | 322 | Bryan Hodgins |
 | 344 | 321 | Sarah Brown |
 | 345 | 321 | Stacey Stano |
-| 346 | 320 | Alan Zukowski |
-| 347 | 320 | O block |
+| 346 | 320 | O block |
+| 347 | 320 | Alan Zukowski |
 | 348 | 319 | Jessica Fredericks |
 | 349 | 319 | Michelle Morris |
 | 350 | 317 | Madison Sweere |

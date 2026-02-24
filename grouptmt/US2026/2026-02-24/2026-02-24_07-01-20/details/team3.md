@@ -347,8 +347,8 @@
 | 339 | 471 | Sarah Moyer |
 | 340 | 467 | Jul |
 | 341 | 467 | Danielle Rhoades |
-| 342 | 465 | Blocked |
-| 343 | 465 | Noettín Kan Zasnemoore |
+| 342 | 465 | Noettín Kan Zasnemoore |
+| 343 | 465 | Blocked |
 | 344 | 464 | Snazzy Filler |
 | 345 | 462 | Brandon Givens |
 | 346 | 462 | Tegan Chapman |
@@ -560,8 +560,8 @@
 | 552 | 316 | Aponk |
 | 553 | 316 | Travis W |
 | 554 | 315 | Amy Montz |
-| 555 | 314 | Cranky Corner |
-| 556 | 314 | toony |
+| 555 | 314 | toony |
+| 556 | 314 | Cranky Corner |
 | 557 | 314 | Rachel Napper |
 | 558 | 313 | Emberblaze |
 | 559 | 313 | Joseph Vargas |
