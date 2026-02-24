@@ -161,8 +161,8 @@
 | 153 | 599 | shar |
 | 154 | 595 | TRCuse |
 | 155 | 590 | Angela Srubar-Norman |
-| 156 | 587 | YoMomma |
-| 157 | 587 | Livvy |
+| 156 | 587 | Livvy |
+| 157 | 587 | YoMomma |
 | 158 | 586 | Carlos Ramirez |
 | 159 | 586 | Latisha Davis |
 | 160 | 586 | Cursed Hag |
@@ -185,8 +185,8 @@
 | 177 | 538 | Steph Marie |
 | 178 | 537 | Scott Jameson |
 | 179 | 535 | Berklie Apedaile |
-| 180 | 532 | Alan George LaRage |
-| 181 | 532 | Matt Summer |
+| 180 | 532 | Matt Summer |
+| 181 | 532 | Alan George LaRage |
 | 182 | 528 | Erin Sabol |
 | 183 | 525 | Lucas J Sutton |
 | 184 | 522 | Carly Alexis |

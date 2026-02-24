@@ -404,8 +404,8 @@
 | 396 | 1116 | Em Chen |
 | 397 | 1116 | Belle |
 | 398 | 1110 | Nadia Batista Garcia |
-| 399 | 1109 | Melissa McCall |
-| 400 | 1109 | BYM4L |
+| 399 | 1109 | BYM4L |
+| 400 | 1109 | Melissa McCall |
 | 401 | 1105 | Nerdy Clearfit |
 | 402 | 1104 | Kimberly Hope Howell |
 | 403 | 1099 | Loony Snapper |
@@ -429,8 +429,8 @@
 | 421 | 1075 | SaraMarie Eveland |
 | 422 | 1074 | Diana Ayers |
 | 423 | 1073 | Jodi Blake |
-| 424 | 1071 | Kim Dean |
-| 425 | 1071 | Nashu |
+| 424 | 1071 | Nashu |
+| 425 | 1071 | Kim Dean |
 | 426 | 1068 | Tiffany Branham |
 | 427 | 1067 | Lourisha |
 | 428 | 1067 | Taylor Phillips |
@@ -2632,7 +2632,7 @@
 | 2624 | 260 | Omfgitskristi |
 | 2625 | 260 | Mike Pitts |
 | 2626 | 260 | Amy Middleton |
-| 2627 | 260 | Brandy Gata |
+| 2627 | 260 | BlockBabe73 |
 | 2628 | 260 | Dawn Burton |
 | 2629 | 260 | Brandy Gata |
 | 2630 | 260 | Aretha Hines |

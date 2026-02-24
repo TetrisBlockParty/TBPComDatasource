@@ -80,8 +80,8 @@
 | 72 | 1646 | Gracie |
 | 73 | 1633 | cowboy25469 |
 | 74 | 1620 | Queen Kam |
-| 75 | 1566 | Nerdy Riseclear |
-| 76 | 1566 | Marcie Bressler |
+| 75 | 1566 | Marcie Bressler |
+| 76 | 1566 | Nerdy Riseclear |
 | 77 | 1560 | Logan Naccarato |
 | 78 | 1555 | Snappy Glidepiece |
 | 79 | 1552 | joclisa |
@@ -267,8 +267,8 @@
 | 259 | 598 | Kaycee Kay |
 | 260 | 594 | Cozy Snaplink |
 | 261 | 588 | Salena Whitlock |
-| 262 | 586 | Donna |
-| 263 | 586 | Brian Battjes |
+| 262 | 586 | Brian Battjes |
+| 263 | 586 | Donna |
 | 264 | 582 | FuzzyNavel |
 | 265 | 578 | James Mitchell |
 | 266 | 574 | Danielle Balcom |
