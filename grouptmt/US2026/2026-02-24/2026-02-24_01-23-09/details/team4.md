@@ -175,16 +175,16 @@
 | 167 | 525 | Lucas J Sutton |
 | 168 | 522 | Carly Alexis |
 | 169 | 521 | Andy Cabral |
-| 170 | 520 | Zippy Block |
-| 171 | 520 | Oscar Alberto Perez |
-| 172 | 516 | Trish |
-| 173 | 516 | Twisty Clicky |
+| 170 | 520 | Oscar Alberto Perez |
+| 171 | 520 | Zippy Block |
+| 172 | 516 | Twisty Clicky |
+| 173 | 516 | Trish |
 | 174 | 514 | Scott Jameson |
 | 175 | 513 | Erin Thomas |
-| 176 | 512 | Angela Srubar-Norman |
-| 177 | 512 | ThaEviLJeNiuZ |
-| 178 | 512 | Casey Jeffcoat |
-| 179 | 512 | Nick Gray |
+| 176 | 512 | Nick Gray |
+| 177 | 512 | Casey Jeffcoat |
+| 178 | 512 | ThaEviLJeNiuZ |
+| 179 | 512 | Angela Srubar-Norman |
 | 180 | 512 | Ellen Durfee |
 | 181 | 504 | Deanna Deckard |
 | 182 | 503 | Andria Lynn |

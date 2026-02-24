@@ -52,7 +52,7 @@
 | 44 | 2028 | Dan Rob |
 | 45 | 1992 | Shandrea Crawford |
 | 46 | 1991 | Calista Jo Dickson |
-| 47 | 1981 | Ashley Kiara |
+| 47 | 1980 | Ashley Kiara |
 | 48 | 1920 | Trezure Gonzalez |
 | 49 | 1915 | Amanda Adkins |
 | 50 | 1908 | Rachel Bowers |
@@ -248,8 +248,8 @@
 | 240 | 572 | Tessina Dewey-Mancino |
 | 241 | 572 | Duane Bright |
 | 242 | 570 | thekey |
-| 243 | 569 | Michael Johnson |
-| 244 | 569 | Silly Twist |
+| 243 | 569 | Silly Twist |
+| 244 | 569 | Michael Johnson |
 | 245 | 568 | Rachael McClain Owens |
 | 246 | 566 | LaTanya GeminiondaRise Johnson |
 | 247 | 563 | Fallorina Susana |

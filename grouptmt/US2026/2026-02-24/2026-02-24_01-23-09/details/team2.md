@@ -34,7 +34,7 @@
 | 26 | 6890 | Alex Hill |
 | 27 | 6714 | Amanda Grohmann |
 | 28 | 6458 | Angela Pruitt |
-| 29 | 6455 | Priscilla Noel |
+| 29 | 6447 | Priscilla Noel |
 | 30 | 6418 | Twlight Welch |
 | 31 | 6259 | Robert Diddle |
 | 32 | 6135 | 赵珞涵 |
@@ -205,7 +205,7 @@
 | 197 | 1706 | Becca Widmer |
 | 198 | 1705 | Steven Marshaun |
 | 199 | 1684 | Ashley Dow |
-| 200 | 1661 | Jaycee |
+| 200 | 1661 | Danielle Johnson-Chandler |
 | 201 | 1661 | Scott Treadway |
 | 202 | 1661 | Jaycee |
 | 203 | 1650 | Cambrie Schultz |
@@ -240,8 +240,8 @@
 | 232 | 1509 | Stacey Clement |
 | 233 | 1509 | Whitney Nicole Waterman |
 | 234 | 1507 | Kiok |
-| 235 | 1498 | Binyah-Binyah |
-| 236 | 1498 | Isabela Shaw |
+| 235 | 1498 | Isabela Shaw |
+| 236 | 1494 | Binyah-Binyah |
 | 237 | 1488 | Sommer Shope |
 | 238 | 1477 | Prado |
 | 239 | 1469 | Carrie Trigg |
