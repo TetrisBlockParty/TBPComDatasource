@@ -248,8 +248,8 @@
 | 240 | 1610 | Ray Ray Prado |
 | 241 | 1609 | Ryan Stadel |
 | 242 | 1601 | Peppy Zone |
-| 243 | 1600 | Jojo Momma |
-| 244 | 1600 | Mo Shine On |
+| 243 | 1600 | Mo Shine On |
+| 244 | 1600 | Jojo Momma |
 | 245 | 1596 | Christine Egidio Morocco |
 | 246 | 1595 | Joyce Johnson Vaughn |
 | 247 | 1592 | Dolores Russworn |
@@ -267,14 +267,14 @@
 | 259 | 1552 | Mcintosh Brian Shalonda |
 | 260 | 1546 | Alyssa Nadine Medelez |
 | 261 | 1528 | Stacy Stickle |
-| 262 | 1509 | Whitney Nicole Waterman |
-| 263 | 1509 | Stacey Clement |
+| 262 | 1509 | Stacey Clement |
+| 263 | 1509 | Whitney Nicole Waterman |
 | 264 | 1501 | Ashle Scranton |
 | 265 | 1498 | Ericka Marie Smith |
 | 266 | 1481 | Jamie Schmitt |
 | 267 | 1478 | Misty Walker |
-| 268 | 1477 | Prado |
-| 269 | 1477 | Hillary Crawford |
+| 268 | 1477 | Hillary Crawford |
+| 269 | 1477 | Prado |
 | 270 | 1469 | Carrie Trigg |
 | 271 | 1463 | Yvonne Wharton |
 | 272 | 1459 | Shiny Rollzone |
@@ -303,10 +303,10 @@
 | 295 | 1358 | Arlene Joy Belicina |
 | 296 | 1353 | Deborah Miller |
 | 297 | 1353 | Heather Hoffman Disharoon |
-| 298 | 1351 | Lucky Ladybug |
-| 299 | 1351 | Ashie Ann |
-| 300 | 1351 | Denisha Dawkins |
-| 301 | 1351 | Johnny Yeates |
+| 298 | 1351 | Johnny Yeates |
+| 299 | 1351 | Denisha Dawkins |
+| 300 | 1351 | Lucky Ladybug |
+| 301 | 1351 | Ashie Ann |
 | 302 | 1342 | Groovy Puzzle |
 | 303 | 1342 | Kelly A Green-Leach |
 | 304 | 1341 | Cassie Mercer |
@@ -407,8 +407,8 @@
 | 399 | 1116 | Belle |
 | 400 | 1116 | Wakanda Forever |
 | 401 | 1110 | Nadia Batista Garcia |
-| 402 | 1109 | Melissa McCall |
-| 403 | 1109 | BYM4L |
+| 402 | 1109 | BYM4L |
+| 403 | 1109 | Melissa McCall |
 | 404 | 1108 | Kimmy Newman |
 | 405 | 1105 | Nerdy Clearfit |
 | 406 | 1104 | Kimberly Hope Howell |
@@ -555,8 +555,8 @@
 | 547 | 885 | Miranda Morris |
 | 548 | 885 | Giggy Mover |
 | 549 | 883 | Hong Tang |
-| 550 | 882 | Sarah Massey |
-| 551 | 882 | Thomas Hedrick |
+| 550 | 882 | Thomas Hedrick |
+| 551 | 882 | Sarah Massey |
 | 552 | 881 | Layla LS |
 | 553 | 876 | Jelly |
 | 554 | 876 | Jessicah Myers |
@@ -571,11 +571,11 @@
 | 563 | 858 | Joshua Self |
 | 564 | 854 | Dawn L Washington-Feuquay |
 | 565 | 854 | Gold Rose |
-| 566 | 852 | Catherine Marsh Gruda |
+| 566 | 852 | Polly Pritchard Chesler |
 | 567 | 852 | Alexandra Lynn |
-| 568 | 852 | Polly Pritchard Chesler |
-| 569 | 851 | James Louie |
-| 570 | 851 | Melissa Schulz |
+| 568 | 852 | Catherine Marsh Gruda |
+| 569 | 851 | Melissa Schulz |
+| 570 | 851 | James Louie |
 | 571 | 850 | Sabrina Burton |
 | 572 | 848 | Jasmine Kenney |
 | 573 | 848 | Happy Wipeblock |
@@ -1138,8 +1138,8 @@
 | 1130 | 515 | Miracle |
 | 1131 | 515 | Erin Reid |
 | 1132 | 514 | Melanie Csikortos |
-| 1133 | 513 | MrsCandyfine As Wine Truss |
-| 1134 | 513 | Stefanie Zonzini-Gagliardi |
+| 1133 | 513 | Stefanie Zonzini-Gagliardi |
+| 1134 | 513 | MrsCandyfine As Wine Truss |
 | 1135 | 511 | Sarah Sims |
 | 1136 | 510 | Steve Zortman |
 | 1137 | 509 | Pocho Zavala |
@@ -1500,8 +1500,8 @@
 | 1492 | 405 | Caroline Roy |
 | 1493 | 405 | Debbie Gerlib-Molinari Leigh |
 | 1494 | 405 | Monica Wilson |
-| 1495 | 404 | Daring Matchfit |
-| 1496 | 404 | Mike Schwob |
+| 1495 | 404 | Mike Schwob |
+| 1496 | 404 | Daring Matchfit |
 | 1497 | 404 | Jean FU Jagielski |
 | 1498 | 404 | Regina Unruh |
 | 1499 | 403 | Selph SpazDevil-Selph |

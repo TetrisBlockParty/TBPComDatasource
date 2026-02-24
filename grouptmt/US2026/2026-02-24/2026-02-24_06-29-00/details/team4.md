@@ -70,8 +70,8 @@
 | 62 | 1106 | BertMofo |
 | 63 | 1094 | Shelly Chandler |
 | 64 | 1089 | Alyssa Papen |
-| 65 | 1082 | Avy Absol |
-| 66 | 1082 | Dion Crommarty |
+| 65 | 1082 | Dion Crommarty |
+| 66 | 1082 | Avy Absol |
 | 67 | 1081 | Dustee Craddock-Harrison |
 | 68 | 1069 | Heather Tushner |
 | 69 | 1056 | Keith Kelley |
@@ -105,8 +105,8 @@
 | 97 | 842 | Aden Moss |
 | 98 | 840 | SAP |
 | 99 | 837 | Rica Mitchell |
-| 100 | 834 | Brittney Orengo |
-| 101 | 834 | quicksand420 |
+| 100 | 834 | quicksand420 |
+| 101 | 834 | Brittney Orengo |
 | 102 | 815 | Diana Houts |
 | 103 | 813 | Klo |
 | 104 | 811 | Sassy Pattern |
@@ -297,8 +297,8 @@
 | 289 | 376 | Nig |
 | 290 | 375 | George Tzouganos |
 | 291 | 373 | Russ Attitude |
-| 292 | 370 | Twisty Risebuilder |
-| 293 | 370 | Kris Bartlett |
+| 292 | 370 | Kris Bartlett |
+| 293 | 370 | Twisty Risebuilder |
 | 294 | 367 | Meg |
 | 295 | 365 | David Lay |
 | 296 | 364 | Lora |
@@ -376,8 +376,8 @@
 | 368 | 302 | Koral Hanke |
 | 369 | 302 | Jenna McGeorge |
 | 370 | 301 | Ultramarine |
-| 371 | 300 | Jason Frehner |
-| 372 | 300 | Carter Jones |
+| 371 | 300 | Carter Jones |
+| 372 | 300 | Jason Frehner |
 | 373 | 299 | Michael Snow |
 | 374 | 298 | Val Erie |
 | 375 | 297 | tipsy tiger |
