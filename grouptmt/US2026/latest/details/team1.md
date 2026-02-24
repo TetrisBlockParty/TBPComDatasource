@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-24 22:12:44 UTC
+# Standings for team1 as of 2026-02-24 22:13:21 UTC
 
 **Total Participants:** 2331
 
@@ -377,13 +377,13 @@
 | 369 | 354 | Garrett Burket |
 | 370 | 354 | Kipoi |
 | 371 | 354 | Mrs.Patrica |
-| 372 | 353 | Josh Riemer |
-| 373 | 352 | Mitchel White |
-| 374 | 352 | Lachelle Dillon |
-| 375 | 351 | Hasty Columnbuilder |
-| 376 | 351 | Dizzy Riseclear |
-| 377 | 350 | Gina Bettikofer |
-| 378 | 350 | Glitzy Grid |
+| 372 | 353 | Glitzy Grid |
+| 373 | 353 | Josh Riemer |
+| 374 | 352 | Mitchel White |
+| 375 | 352 | Lachelle Dillon |
+| 376 | 351 | Hasty Columnbuilder |
+| 377 | 351 | Dizzy Riseclear |
+| 378 | 350 | Gina Bettikofer |
 | 379 | 350 | Matt Iaccheo |
 | 380 | 350 | Bouncy Line |
 | 381 | 347 | Giggly Builderline |
@@ -409,15 +409,15 @@
 | 401 | 336 | Brave Wrecker |
 | 402 | 335 | Nathan William |
 | 403 | 334 | Jeanna Dunn |
-| 404 | 331 | Lisa Miller |
-| 405 | 331 | Angela Fairbank |
-| 406 | 330 | Rebecca Apley Mielke |
-| 407 | 329 | Amber Dee |
-| 408 | 329 | John Barron |
+| 404 | 333 | John Barron |
+| 405 | 331 | Lisa Miller |
+| 406 | 331 | Angela Fairbank |
+| 407 | 330 | Rebecca Apley Mielke |
+| 408 | 329 | Amber Dee |
 | 409 | 327 | Joe Coon |
 | 410 | 327 | Agustin Duarte Orozco |
-| 411 | 326 | Steven Collins |
-| 412 | 326 | Rico Rico |
+| 411 | 326 | Rico Rico |
+| 412 | 326 | Steven Collins |
 | 413 | 324 | Quirky Pusher |
 | 414 | 320 | Toph |
 | 415 | 320 | Beazel75 |
@@ -1181,81 +1181,81 @@
 | 1173 | 100 | Kellie |
 | 1174 | 100 | Plucky Tiltpiece |
 | 1175 | 100 | Spicy Tilefall |
-| 1176 | 100 | Joshua Murphy |
-| 1177 | 100 | Jason Philp |
+| 1176 | 100 | Serena |
+| 1177 | 100 | Joshua Murphy |
 | 1178 | 100 | BlazinGames |
-| 1179 | 100 | Serena |
+| 1179 | 100 | Jason Philp |
 | 1180 | 99 | Michael Vanwinkle |
-| 1181 | 99 | Funky Rollfit |
-| 1182 | 99 | William Miles |
-| 1183 | 99 | Elizabeth Shaw |
-| 1184 | 99 | Unelanuhi Belladonna Mystikal Bomar |
-| 1185 | 99 | Tabetha Craddock |
-| 1186 | 99 | Alex Manieri |
-| 1187 | 99 | Cecilia Thompson |
-| 1188 | 99 | 804RVAME |
-| 1189 | 99 | Ty Meach |
-| 1190 | 99 | Erik Hesner |
-| 1191 | 98 | Jeremy Beckler |
+| 1181 | 99 | Cecilia Thompson |
+| 1182 | 99 | Alex Manieri |
+| 1183 | 99 | Unelanuhi Belladonna Mystikal Bomar |
+| 1184 | 99 | Erik Hesner |
+| 1185 | 99 | Elizabeth Shaw |
+| 1186 | 99 | Tabetha Craddock |
+| 1187 | 99 | William Miles |
+| 1188 | 99 | Funky Rollfit |
+| 1189 | 99 | 804RVAME |
+| 1190 | 99 | Ty Meach |
+| 1191 | 98 | Brandon Reyes |
 | 1192 | 98 | Anthony Ray |
 | 1193 | 98 | Tracy Berry |
-| 1194 | 98 | Brandon Reyes |
-| 1195 | 98 | Mary Logan |
-| 1196 | 97 | Ris |
-| 1197 | 97 | cola |
-| 1198 | 97 | Dropitliktithot |
-| 1199 | 97 | Steve Bomkamp |
-| 1200 | 97 | Churmo |
-| 1201 | 96 | Mighty Fitzone |
-| 1202 | 96 | Gregg Scott |
-| 1203 | 96 | Bharrelson66 |
-| 1204 | 96 | Kathy Murphy |
-| 1205 | 96 | jellikit42 |
-| 1206 | 95 | Vanessa Zuniga Elvira |
-| 1207 | 95 | Goofy Linkblock |
-| 1208 | 95 | Shelby Smith |
-| 1209 | 95 | PSD |
-| 1210 | 95 | Kayla Farley |
-| 1211 | 94 | Christi Ames |
-| 1212 | 94 | Mia Sams |
-| 1213 | 94 | Daysha Johnson |
-| 1214 | 93 | Jazzy Clicker |
-| 1215 | 93 | Zesty Stackbuilder |
+| 1194 | 98 | Jeremy Beckler |
+| 1195 | 98 | J.D3D.D |
+| 1196 | 98 | Mary Logan |
+| 1197 | 97 | Dropitliktithot |
+| 1198 | 97 | Ris |
+| 1199 | 97 | Churmo |
+| 1200 | 97 | Steve Bomkamp |
+| 1201 | 97 | cola |
+| 1202 | 96 | Kathy Murphy |
+| 1203 | 96 | jellikit42 |
+| 1204 | 96 | Gregg Scott |
+| 1205 | 96 | Mighty Fitzone |
+| 1206 | 96 | Bharrelson66 |
+| 1207 | 95 | Kayla Farley |
+| 1208 | 95 | Vanessa Zuniga Elvira |
+| 1209 | 95 | Shelby Smith |
+| 1210 | 95 | Goofy Linkblock |
+| 1211 | 95 | PSD |
+| 1212 | 94 | Daysha Johnson |
+| 1213 | 94 | Christi Ames |
+| 1214 | 94 | Mia Sams |
+| 1215 | 93 | Mister Reid |
 | 1216 | 93 | Peppy Cascade |
-| 1217 | 93 | Lesley Alexandra |
+| 1217 | 93 | ChipsUnion |
 | 1218 | 93 | Jolly Basepiece |
-| 1219 | 93 | Funky Wiper |
-| 1220 | 93 | rigerson |
-| 1221 | 93 | ChipsUnion |
-| 1222 | 92 | BoneDaddy |
-| 1223 | 92 | RifterRoute |
+| 1219 | 93 | Lesley Alexandra |
+| 1220 | 93 | Funky Wiper |
+| 1221 | 93 | rigerson |
+| 1222 | 93 | Jazzy Clicker |
+| 1223 | 93 | Zesty Stackbuilder |
 | 1224 | 92 | C McMurd |
 | 1225 | 92 | Grace Joanne Agnant |
-| 1226 | 91 | Peachy Balanceblock |
-| 1227 | 91 | Witty Curve |
-| 1228 | 91 | cheeseman |
-| 1229 | 91 | Nicole Marie |
-| 1230 | 91 | Marla Erin Salas |
+| 1226 | 92 | BoneDaddy |
+| 1227 | 92 | RifterRoute |
+| 1228 | 91 | Witty Curve |
+| 1229 | 91 | Marla Erin Salas |
+| 1230 | 91 | April Jones |
 | 1231 | 91 | Moo |
-| 1232 | 91 | April Jones |
-| 1233 | 91 | Mister Reid |
-| 1234 | 91 | Matthew Krupansky |
-| 1235 | 91 | Ghost187 |
-| 1236 | 90 | Harry Matthew |
+| 1232 | 91 | Peachy Balanceblock |
+| 1233 | 91 | Nicole Marie |
+| 1234 | 91 | cheeseman |
+| 1235 | 91 | Matthew Krupansky |
+| 1236 | 91 | Ghost187 |
 | 1237 | 90 | Chastity Speight |
-| 1238 | 90 | Jesse Stephenson |
-| 1239 | 90 | Jam |
-| 1240 | 90 | Maria Maloney |
-| 1241 | 90 | Garry Myers |
-| 1242 | 90 | McGee |
-| 1243 | 90 | Charles Robles |
-| 1244 | 90 | Grace Gieroski |
-| 1245 | 89 | uberdork124 |
-| 1246 | 89 | Victoria Montenegro Martinez |
-| 1247 | 89 | FableGray |
-| 1248 | 89 | Kenton Billings |
-| 1249 | 89 | Fra Nk Lin |
-| 1250 | 89 | J.D3D.D |
+| 1238 | 90 | Harry Matthew |
+| 1239 | 90 | Jesse Stephenson |
+| 1240 | 90 | Jam |
+| 1241 | 90 | Maria Maloney |
+| 1242 | 90 | Garry Myers |
+| 1243 | 90 | McGee |
+| 1244 | 90 | Charles Robles |
+| 1245 | 90 | Grace Gieroski |
+| 1246 | 89 | uberdork124 |
+| 1247 | 89 | Victoria Montenegro Martinez |
+| 1248 | 89 | FableGray |
+| 1249 | 89 | Kenton Billings |
+| 1250 | 89 | Fra Nk Lin |
 | 1251 | 89 | Ghost |
 | 1252 | 88 | Allison |
 | 1253 | 88 | Frisky Liney |
@@ -1263,20 +1263,20 @@
 | 1255 | 88 | Gewb |
 | 1256 | 87 | Deanna Scott |
 | 1257 | 87 | Scott Baum |
-| 1258 | 87 | Heaven White |
-| 1259 | 87 | Bouncy Fitzone |
+| 1258 | 87 | Bouncy Fitzone |
+| 1259 | 87 | Heaven White |
 | 1260 | 87 | Ike Williams |
 | 1261 | 87 | Dizzy Spinbuilder |
 | 1262 | 86 | Charles Holland |
 | 1263 | 86 | Katie Oehmann Mosier |
 | 1264 | 86 | Kgreg49 |
-| 1265 | 86 | Barbara Benjamin |
-| 1266 | 86 | Jeffrey Penkowski |
-| 1267 | 86 | BearMan01 |
+| 1265 | 86 | BearMan01 |
+| 1266 | 86 | Barbara Benjamin |
+| 1267 | 86 | Jeffrey Penkowski |
 | 1268 | 85 | Skuba Cece |
-| 1269 | 85 | MyKai Ting |
-| 1270 | 85 | weezy |
-| 1271 | 85 | Shayna Rivera |
+| 1269 | 85 | weezy |
+| 1270 | 85 | Shayna Rivera |
+| 1271 | 85 | MyKai Ting |
 | 1272 | 85 | Michael Floyd Beavers |
 | 1273 | 85 | Bwebb Bryan |
 | 1274 | 85 | Chilly Piececlear |
@@ -1287,27 +1287,27 @@
 | 1279 | 84 | Rock it |
 | 1280 | 84 | Neena AkaJaneen TheQueen |
 | 1281 | 84 | Kelly Marie Hennig |
-| 1282 | 83 | Jessicer |
-| 1283 | 83 | Goofy Liney |
-| 1284 | 83 | Swanky Blockzone |
-| 1285 | 83 | Shante Jenkins |
-| 1286 | 83 | Amy Lynn |
-| 1287 | 82 | Christine Sheridan |
-| 1288 | 82 | Justin Mccarley |
-| 1289 | 82 | Tetrisqn |
-| 1290 | 82 | Jerome Mosby |
-| 1291 | 82 | DeeDee |
-| 1292 | 82 | Bluebird |
-| 1293 | 82 | Pete Garrett |
-| 1294 | 82 | Tina Tiger |
-| 1295 | 81 | Robert |
-| 1296 | 81 | Skyelandor |
+| 1282 | 84 | Lakesha Jackson- Anderson |
+| 1283 | 83 | Jessicer |
+| 1284 | 83 | Goofy Liney |
+| 1285 | 83 | Swanky Blockzone |
+| 1286 | 83 | Shante Jenkins |
+| 1287 | 83 | Amy Lynn |
+| 1288 | 82 | Tina Tiger |
+| 1289 | 82 | Justin Mccarley |
+| 1290 | 82 | Tetrisqn |
+| 1291 | 82 | Jerome Mosby |
+| 1292 | 82 | DeeDee |
+| 1293 | 82 | Bluebird |
+| 1294 | 82 | Pete Garrett |
+| 1295 | 82 | Christine Sheridan |
+| 1296 | 81 | Robert |
 | 1297 | 81 | Gabriel Morales |
-| 1298 | 81 | Quirky Holder |
-| 1299 | 81 | Ajayy Carlson |
+| 1298 | 81 | Ajayy Carlson |
+| 1299 | 81 | Quirky Holder |
 | 1300 | 81 | Olivia Ornella Rubinski |
-| 1301 | 81 | Lakesha Jackson- Anderson |
-| 1302 | 81 | Giddy Glider |
+| 1301 | 81 | Giddy Glider |
+| 1302 | 81 | Skyelandor |
 | 1303 | 81 | Bobby |
 | 1304 | 80 | Breezy Twister |
 | 1305 | 80 | Bouncy Chiseler |
