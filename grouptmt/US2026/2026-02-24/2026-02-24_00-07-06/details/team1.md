@@ -122,8 +122,8 @@
 | 114 | 612 | femmefatale |
 | 115 | 604 | Ryan Lunnin |
 | 116 | 603 | Ty Brown |
-| 117 | 601 | Evan Richmond |
-| 118 | 601 | Phu ckalldems |
+| 117 | 601 | Phu ckalldems |
+| 118 | 601 | Evan Richmond |
 | 119 | 598 | Jessi Sauer |
 | 120 | 594 | Basment Living |
 | 121 | 591 | Giddy Cascade |
@@ -138,8 +138,8 @@
 | 130 | 567 | Christy Jones |
 | 131 | 560 | Jazzy Framezone |
 | 132 | 556 | Susan Ward |
-| 133 | 552 | Hellsin |
-| 134 | 552 | Tanya Carpenter-Reynolds |
+| 133 | 552 | Tanya Carpenter-Reynolds |
+| 134 | 552 | Hellsin |
 | 135 | 550 | Sarah Lombardo |
 | 136 | 548 | Luciano Moreira |
 | 137 | 546 | Loony Fitzone |
@@ -317,8 +317,8 @@
 | 309 | 311 | Nathan Sealander |
 | 310 | 310 | Mrs.Patrica |
 | 311 | 309 | Larry Tilton |
-| 312 | 308 | LD1 |
-| 313 | 308 | Glitzy Curvebuilder |
+| 312 | 308 | Glitzy Curvebuilder |
+| 313 | 308 | LD1 |
 | 314 | 306 | Cece Ibarra |
 | 315 | 305 | Chase Collinsworth |
 | 316 | 305 | Amh |

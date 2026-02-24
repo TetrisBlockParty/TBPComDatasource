@@ -1137,8 +1137,8 @@
 | 1129 | 450 | Brandi Fuller Cason |
 | 1130 | 450 | Donald Nowland |
 | 1131 | 449 | Kristi Biddinger |
-| 1132 | 449 | Crafty Rumbler |
-| 1133 | 449 | Kimberly Ann Malagon |
+| 1132 | 449 | Kimberly Ann Malagon |
+| 1133 | 449 | Crafty Rumbler |
 | 1134 | 448 | Anastacio Hernandez |
 | 1135 | 447 | Dee Blokk |
 | 1136 | 447 | Jake |

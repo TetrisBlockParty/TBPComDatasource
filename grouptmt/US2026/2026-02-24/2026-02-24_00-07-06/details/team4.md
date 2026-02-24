@@ -124,8 +124,8 @@
 | 116 | 682 | Raegan Lane-Ross |
 | 117 | 675 | Chris Alexinas |
 | 118 | 673 | Jacqueline Helm |
-| 119 | 667 | Lindsey Gonzalez |
-| 120 | 667 | Amy Suckarieh |
+| 119 | 667 | Amy Suckarieh |
+| 120 | 667 | Lindsey Gonzalez |
 | 121 | 664 | Leslie Nicole |
 | 122 | 659 | Jamie Gustafson |
 | 123 | 658 | Zippy Gridlock |
@@ -138,8 +138,8 @@
 | 130 | 615 | Kim Hunt |
 | 131 | 613 | Porkobello |
 | 132 | 613 | Jessica Lynn Cutlip |
-| 133 | 611 | Ernest Maxwell |
-| 134 | 611 | Chris Baggett |
+| 133 | 611 | Chris Baggett |
+| 134 | 611 | Ernest Maxwell |
 | 135 | 602 | Cristy Duerksen |
 | 136 | 595 | Rodney McMath Jr. |
 | 137 | 586 | Latisha Davis |
@@ -235,8 +235,8 @@
 | 227 | 409 | Antony Dwayne Beasley |
 | 228 | 403 | TinyLegoRose |
 | 229 | 400 | Brickh4us |
-| 230 | 399 | Jeff Brian Gates |
-| 231 | 399 | Lindsay Ball |
+| 230 | 399 | Lindsay Ball |
+| 231 | 399 | Jeff Brian Gates |
 | 232 | 398 | Tyler Terrific |
 | 233 | 395 | 030Synner |
 | 234 | 394 | Nita Wells |
@@ -472,8 +472,8 @@
 | 464 | 220 | Mighty Edgepiece |
 | 465 | 220 | Ziggy |
 | 466 | 219 | Shane Vick |
-| 467 | 218 | Thomas Hettenhaus |
-| 468 | 218 | Cheaneen Livingston |
+| 467 | 218 | Cheaneen Livingston |
+| 468 | 218 | Thomas Hettenhaus |
 | 469 | 218 | Janita Parrish |
 | 470 | 217 | Dorian |
 | 471 | 217 | Cheery Fitline |
@@ -494,8 +494,8 @@
 | 486 | 208 | Moonsterix |
 | 487 | 208 | Stacy |
 | 488 | 208 | Wacky Blockclear |
-| 489 | 207 | Jessica Wells |
-| 490 | 207 | Sam Middleton |
+| 489 | 207 | Sam Middleton |
+| 490 | 207 | Jessica Wells |
 | 491 | 207 | SammieJo Guy |
 | 492 | 206 | Ron |
 | 493 | 206 | Grann8 |

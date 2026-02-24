@@ -58,8 +58,8 @@
 | 50 | 1772 | Liv Whetson |
 | 51 | 1754 | Nate Burnside |
 | 52 | 1739 | Tina Kay |
-| 53 | 1734 | Aaron Pitkin |
-| 54 | 1734 | Fancy Slam |
+| 53 | 1734 | Fancy Slam |
+| 54 | 1734 | Aaron Pitkin |
 | 55 | 1732 | Jessica Ann |
 | 56 | 1691 | Cass Mendoza |
 | 57 | 1665 | Whitney Manuel |
@@ -637,15 +637,15 @@
 | 629 | 250 | Ashley Parham |
 | 630 | 249 | Emberblaze |
 | 631 | 249 | Sarah Tschee |
-| 632 | 248 | Stormy Anguish |
-| 633 | 248 | Frothy Glider |
+| 632 | 248 | Frothy Glider |
+| 633 | 248 | Stormy Anguish |
 | 634 | 248 | Smiley Zone |
 | 635 | 247 | Cameron Lovell |
 | 636 | 247 | Melanie Sherwood |
 | 637 | 246 | Jonathn Poindexter |
 | 638 | 245 | Martin Bernier |
-| 639 | 245 | Latoya Mayne |
-| 640 | 245 | Jazzy Spinfit |
+| 639 | 245 | Jazzy Spinfit |
+| 640 | 245 | Latoya Mayne |
 | 641 | 245 | Tammy |
 | 642 | 244 | Beezwax |
 | 643 | 244 | Gina Marie |
@@ -1077,7 +1077,7 @@
 | 1069 | 150 | Cheeky Blockline |
 | 1070 | 150 | WOMPWAGUN |
 | 1071 | 150 | Victoria Granger |
-| 1072 | 149 | Erin McGinnis Reinhart |
+| 1072 | 149 | Anna McGee |
 | 1073 | 149 | Alexis Taylor |
 | 1074 | 149 | Elena Sanchez Damian |
 | 1075 | 149 | Erin McGinnis Reinhart |
