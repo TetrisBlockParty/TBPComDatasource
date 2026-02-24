@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-24 15:52:42 UTC
+# Standings for team4 as of 2026-02-24 15:53:21 UTC
 
 **Total Participants:** 2047
 
@@ -99,7 +99,7 @@
 | 91 | 952 | Jonathan Kimbrough |
 | 92 | 932 | Marvin Lou Martin |
 | 93 | 920 | Judy Cox |
-| 94 | 916 | Carolyn Wallace |
+| 94 | 920 | Carolyn Wallace |
 | 95 | 911 | Jason Hart |
 | 96 | 895 | Girl |
 | 97 | 891 | Diana Houts |
@@ -154,7 +154,7 @@
 | 146 | 694 | Porkobello |
 | 147 | 687 | Carmethia Clemons Haslerig |
 | 148 | 684 | Lucas J Sutton |
-| 149 | 678 | shar |
+| 149 | 679 | shar |
 | 150 | 668 | Adam Stephanie Parker |
 | 151 | 668 | Desi Desporte |
 | 152 | 664 | Ernest Maxwell |
@@ -273,8 +273,8 @@
 | 265 | 434 | Ramel Rhodes |
 | 266 | 433 | Backoff Recupe |
 | 267 | 432 | Jason Gibbs |
-| 268 | 430 | 030Synner |
-| 269 | 430 | Brittany Little |
+| 268 | 432 | Brittany Little |
+| 269 | 430 | 030Synner |
 | 270 | 428 | Gdiguy |
 | 271 | 427 | Chao Ma |
 | 272 | 427 | Jeff Brian Gates |
@@ -405,20 +405,20 @@
 | 397 | 317 | Paito |
 | 398 | 316 | Shukee Lo |
 | 399 | 315 | Ultramarine |
-| 400 | 314 | Chummy Towerzone |
-| 401 | 314 | KoolMom9907 |
-| 402 | 311 | Candice Carasiti |
-| 403 | 311 | Reds Bella |
-| 404 | 311 | KayM |
-| 405 | 309 | Brave Spinbuilder |
-| 406 | 309 | Bussy Bay |
-| 407 | 309 | Kevin Blevins |
-| 408 | 308 | Angela Geist Jusinski |
-| 409 | 308 | Deb Rubeck |
-| 410 | 307 | Eri Kka |
-| 411 | 306 | PeaceOs |
-| 412 | 306 | Bethany Ison |
-| 413 | 305 | Tony Pavelka |
+| 400 | 315 | Tony Pavelka |
+| 401 | 314 | Chummy Towerzone |
+| 402 | 314 | KoolMom9907 |
+| 403 | 311 | Candice Carasiti |
+| 404 | 311 | Reds Bella |
+| 405 | 311 | KayM |
+| 406 | 309 | Brave Spinbuilder |
+| 407 | 309 | Bussy Bay |
+| 408 | 309 | Kevin Blevins |
+| 409 | 308 | Angela Geist Jusinski |
+| 410 | 308 | Deb Rubeck |
+| 411 | 307 | Eri Kka |
+| 412 | 306 | PeaceOs |
+| 413 | 306 | Bethany Ison |
 | 414 | 305 | Frances Hui |
 | 415 | 304 | Sarah Neathery |
 | 416 | 302 | Koral Hanke |
@@ -466,31 +466,31 @@
 | 458 | 276 | Bonnie Hurlbrink |
 | 459 | 275 | Jarred Falls |
 | 460 | 274 | Cheery Fitline |
-| 461 | 273 | Lane Wasson |
-| 462 | 273 | Sam Middleton |
-| 463 | 272 | ChuckBuck Copeland |
-| 464 | 272 | Sallie Sanborn |
-| 465 | 271 | Jackson Karen |
-| 466 | 271 | Laurel Coppess |
+| 461 | 273 | Sam Middleton |
+| 462 | 273 | Lane Wasson |
+| 463 | 272 | Sallie Sanborn |
+| 464 | 272 | ChuckBuck Copeland |
+| 465 | 271 | Laurel Coppess |
+| 466 | 271 | Jackson Karen |
 | 467 | 270 | 07VHVW |
 | 468 | 269 | GBR |
-| 469 | 268 | Brooke Kaune |
-| 470 | 268 | Jessica Atkinson |
+| 469 | 268 | Jessica Atkinson |
+| 470 | 268 | Brooke Kaune |
 | 471 | 268 | Riverdale |
-| 472 | 267 | Bubbly Twistpiece |
-| 473 | 266 | Helen Chao |
-| 474 | 265 | Silly Clearfit |
-| 475 | 265 | Degenerate |
-| 476 | 265 | Balsam Joe |
-| 477 | 265 | Christine Therrien |
-| 478 | 265 | Lorena Guerrero-Barron |
-| 479 | 264 | Chantilly Laace |
+| 472 | 267 | Walter Beltran |
+| 473 | 267 | Bubbly Twistpiece |
+| 474 | 266 | Helen Chao |
+| 475 | 265 | Balsam Joe |
+| 476 | 265 | Christine Therrien |
+| 477 | 265 | Lorena Guerrero-Barron |
+| 478 | 265 | Silly Clearfit |
+| 479 | 265 | Degenerate |
 | 480 | 264 | Brandi Durig |
-| 481 | 263 | Laurmarcar |
-| 482 | 262 | Walter Beltran |
+| 481 | 264 | Chantilly Laace |
+| 482 | 263 | Laurmarcar |
 | 483 | 262 | Ruben Wheeler |
-| 484 | 261 | Jen Hallin |
-| 485 | 261 | Laura McPheeters |
+| 484 | 261 | Laura McPheeters |
+| 485 | 261 | Jen Hallin |
 | 486 | 258 | April Spoelma |
 | 487 | 258 | Ashlee Carnes |
 | 488 | 257 | Laura Hosford |
@@ -1885,9 +1885,9 @@
 | 1877 | 14 | Matt Wigton |
 | 1878 | 14 | Sassy Shift |
 | 1879 | 14 | Bouncy Hitter |
-| 1880 | 14 | Nacarius |
-| 1881 | 14 | Dapper Racker |
-| 1882 | 14 | Shanda Stephens |
+| 1880 | 14 | Dapper Racker |
+| 1881 | 14 | Shanda Stephens |
+| 1882 | 14 | Nacarius |
 | 1883 | 14 | Crystal Bullard |
 | 1884 | 13 | Sara Daher |
 | 1885 | 13 | Shiny Blast |
@@ -1915,15 +1915,15 @@
 | 1907 | 12 | Shanika Davis |
 | 1908 | 12 | Eric Sorensen |
 | 1909 | 12 | Ramona Dumas |
-| 1910 | 12 | Frilly Rotater |
-| 1911 | 12 | Loopy Striker |
-| 1912 | 11 | Terri Tatem |
-| 1913 | 11 | Slinky Cascader |
-| 1914 | 11 | TVD |
-| 1915 | 11 | Robert Grant Worthen |
-| 1916 | 11 | Crystal Austin |
-| 1917 | 11 | Pretty 💕 |
-| 1918 | 11 | Amber Renee |
+| 1910 | 12 | Loopy Striker |
+| 1911 | 12 | Frilly Rotater |
+| 1912 | 11 | Slinky Cascader |
+| 1913 | 11 | Amber Renee |
+| 1914 | 11 | Robert Grant Worthen |
+| 1915 | 11 | Terri Tatem |
+| 1916 | 11 | TVD |
+| 1917 | 11 | Crystal Austin |
+| 1918 | 11 | Pretty 💕 |
 | 1919 | 11 | Rick Larrecou |
 | 1920 | 11 | Annette Warnke |
 | 1921 | 11 | Adarsh Shrivastava |
@@ -1953,53 +1953,53 @@
 | 1945 | 10 | Beverly Tackett |
 | 1946 | 10 | Kathy Lott |
 | 1947 | 10 | Shmaka |
-| 1948 | 10 | LDillyDaSilly |
-| 1949 | 10 | Groovy Stacker |
-| 1950 | 10 | Urby Ofazeroth |
-| 1951 | 10 | Tim Taylor |
-| 1952 | 10 | Bryan Sprong |
-| 1953 | 10 | Fawn Gibbs |
-| 1954 | 10 | Vilsen Zamarripa |
-| 1955 | 9 | Heather Peel |
-| 1956 | 9 | StarChild |
-| 1957 | 9 | Chirpy Mover |
-| 1958 | 9 | Charlie Author Richardson |
-| 1959 | 9 | Liknda Saunders |
-| 1960 | 9 | PBlock |
-| 1961 | 9 | Bubbly Rumbler |
-| 1962 | 9 | Lea Ann |
-| 1963 | 9 | Shy |
-| 1964 | 9 | Swanky Fill |
-| 1965 | 9 | Gang |
-| 1966 | 9 | Andy Martorana |
-| 1967 | 9 | Melissa Hensley Hoffman |
-| 1968 | 8 | Lincoln Nebraska |
-| 1969 | 8 | wow |
-| 1970 | 8 | Goofy Balancer |
-| 1971 | 8 | Mana2800 |
-| 1972 | 8 | Melanie Demski |
-| 1973 | 8 | Cayla-Marie Moody |
-| 1974 | 8 | Joseph Pernice |
-| 1975 | 8 | Loopy Fill |
-| 1976 | 8 | Boldy Smasher |
-| 1977 | 8 | Jermre Owens |
-| 1978 | 8 | Dernice Graim |
-| 1979 | 8 | Mark Trusler |
-| 1980 | 8 | GhostFace |
-| 1981 | 8 | rtambuche |
-| 1982 | 8 | Peggy Eaton |
-| 1983 | 8 | Kelly Newsom |
-| 1984 | 8 | Snippy Matchzone |
-| 1985 | 8 | Epic Caster |
-| 1986 | 8 | Tara Spencer |
-| 1987 | 8 | Kimberly Gaines Messman |
-| 1988 | 8 | Erick Manuel Mejia Boitel |
-| 1989 | 8 | Gretchen Smith |
-| 1990 | 8 | Dmu |
-| 1991 | 8 | Savannah Saphyre Allen |
-| 1992 | 7 | Tif Abbott |
+| 1948 | 10 | Urby Ofazeroth |
+| 1949 | 10 | Bryan Sprong |
+| 1950 | 10 | LDillyDaSilly |
+| 1951 | 10 | Groovy Stacker |
+| 1952 | 10 | Tim Taylor |
+| 1953 | 10 | Alfredo Aguilar |
+| 1954 | 10 | Fawn Gibbs |
+| 1955 | 10 | Vilsen Zamarripa |
+| 1956 | 9 | Heather Peel |
+| 1957 | 9 | StarChild |
+| 1958 | 9 | Chirpy Mover |
+| 1959 | 9 | Charlie Author Richardson |
+| 1960 | 9 | Liknda Saunders |
+| 1961 | 9 | PBlock |
+| 1962 | 9 | Bubbly Rumbler |
+| 1963 | 9 | Lea Ann |
+| 1964 | 9 | Shy |
+| 1965 | 9 | Swanky Fill |
+| 1966 | 9 | Gang |
+| 1967 | 9 | Andy Martorana |
+| 1968 | 9 | Melissa Hensley Hoffman |
+| 1969 | 8 | Lincoln Nebraska |
+| 1970 | 8 | wow |
+| 1971 | 8 | Goofy Balancer |
+| 1972 | 8 | Mana2800 |
+| 1973 | 8 | Melanie Demski |
+| 1974 | 8 | Cayla-Marie Moody |
+| 1975 | 8 | Joseph Pernice |
+| 1976 | 8 | Loopy Fill |
+| 1977 | 8 | Boldy Smasher |
+| 1978 | 8 | Jermre Owens |
+| 1979 | 8 | Dernice Graim |
+| 1980 | 8 | Mark Trusler |
+| 1981 | 8 | GhostFace |
+| 1982 | 8 | rtambuche |
+| 1983 | 8 | Peggy Eaton |
+| 1984 | 8 | Kelly Newsom |
+| 1985 | 8 | Savannah Saphyre Allen |
+| 1986 | 8 | Snippy Matchzone |
+| 1987 | 8 | Epic Caster |
+| 1988 | 8 | Tara Spencer |
+| 1989 | 8 | Kimberly Gaines Messman |
+| 1990 | 8 | Erick Manuel Mejia Boitel |
+| 1991 | 8 | Gretchen Smith |
+| 1992 | 8 | Dmu |
 | 1993 | 7 | Chipper Twister |
-| 1994 | 7 | Alfredo Aguilar |
+| 1994 | 7 | Tif Abbott |
 | 1995 | 7 | BeeBunny |
 | 1996 | 7 | Chummy Combofall |
 | 1997 | 7 | Boo |
