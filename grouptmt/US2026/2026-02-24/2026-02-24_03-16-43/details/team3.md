@@ -98,8 +98,8 @@
 | 90 | 1367 | Araceli Parra |
 | 91 | 1361 | Patricia Gadsden |
 | 92 | 1336 | Joey Banks |
-| 93 | 1318 | Diana Ibarra |
-| 94 | 1318 | Denise Nardoni |
+| 93 | 1318 | Denise Nardoni |
+| 94 | 1318 | Diana Ibarra |
 | 95 | 1318 | Tiff Vs Tiffany |
 | 96 | 1297 | Shelby Michelle |
 | 97 | 1290 | JerseyJess |
@@ -249,8 +249,8 @@
 | 241 | 602 | Duane Bright |
 | 242 | 600 | Natasha Jones |
 | 243 | 599 | Sherry Ogden |
-| 244 | 598 | Connie Mohler-Fair |
-| 245 | 598 | Kaycee Kay |
+| 244 | 598 | Kaycee Kay |
+| 245 | 598 | Connie Mohler-Fair |
 | 246 | 597 | Dee Pratt |
 | 247 | 595 | Betty Rosas |
 | 248 | 588 | Jackie Miller |
@@ -372,12 +372,12 @@
 | 364 | 408 | Tiffany Ford |
 | 365 | 408 | Ashley Muncey |
 | 366 | 407 | Christina Spa |
-| 367 | 405 | Skinny Baldez |
-| 368 | 405 | fraulila |
-| 369 | 405 | Andrew Thorson |
+| 367 | 405 | fraulila |
+| 368 | 405 | Andrew Thorson |
+| 369 | 405 | Skinny Baldez |
 | 370 | 404 | Giggy Balanceblock |
-| 371 | 403 | Stephanie Burtin |
-| 372 | 403 | Scott Lindsay |
+| 371 | 403 | Scott Lindsay |
+| 372 | 403 | Stephanie Burtin |
 | 373 | 401 | block chick |
 | 374 | 400 | Beaudie Stroebel |
 | 375 | 400 | Joy Petroski |

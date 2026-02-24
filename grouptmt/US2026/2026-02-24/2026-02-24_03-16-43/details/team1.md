@@ -161,9 +161,9 @@
 | 153 | 548 | Luciano Moreira |
 | 154 | 547 | Sharon Reynolds |
 | 155 | 546 | Loony Fitzone |
-| 156 | 543 | Tipsy Riseclear |
-| 157 | 543 | Nicole Roseberry Weber |
-| 158 | 543 | Adrian Esteban |
+| 156 | 543 | Nicole Roseberry Weber |
+| 157 | 543 | Adrian Esteban |
+| 158 | 543 | Tipsy Riseclear |
 | 159 | 540 | Tonya Beasley |
 | 160 | 537 | BadG52 |
 | 161 | 537 | Stephanie Zahn |
@@ -199,8 +199,8 @@
 | 191 | 470 | Candy Jones |
 | 192 | 462 | Hasty Cascader |
 | 193 | 460 | Erin Rosberg |
-| 194 | 458 | Dizzy Slider |
-| 195 | 458 | Goose egg |
+| 194 | 458 | Goose egg |
+| 195 | 458 | Dizzy Slider |
 | 196 | 453 | Kimmie Kimms |
 | 197 | 450 | Elaine Elaine |
 | 198 | 448 | Yvonne Marie |
@@ -212,12 +212,12 @@
 | 204 | 439 | Witty Builderfit |
 | 205 | 439 | David Miller |
 | 206 | 433 | Mike Ames |
-| 207 | 432 | Brian Spotts |
-| 208 | 432 | Lori Bales |
+| 207 | 432 | Lori Bales |
+| 208 | 432 | Brian Spotts |
 | 209 | 431 | Shiny Snapfit |
 | 210 | 429 | Tana |
-| 211 | 427 | Jessie Lynn |
-| 212 | 427 | Jessie Welch |
+| 211 | 427 | Jessie Welch |
+| 212 | 427 | Jessie Lynn |
 | 213 | 426 | Betsy |
 | 214 | 425 | Tyler Werts |
 | 215 | 424 | Lindsay Glover |
@@ -244,8 +244,8 @@
 | 236 | 404 | Tawnya Peltonen |
 | 237 | 399 | Lakeisha Chapman |
 | 238 | 398 | MommaKFC |
-| 239 | 396 | Monica Donato |
-| 240 | 396 | Sam Williams |
+| 239 | 396 | Sam Williams |
+| 240 | 396 | Monica Donato |
 | 241 | 393 | Wisa |
 | 242 | 391 | Happy Basegrid |
 | 243 | 386 | Melissa Bires Hussar |

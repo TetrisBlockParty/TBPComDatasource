@@ -125,8 +125,8 @@
 | 117 | 716 | Savannah Overdorf |
 | 118 | 712 | H.R. Block |
 | 119 | 710 | SAP |
-| 120 | 708 | Zippy Gridlock |
-| 121 | 708 | Jacqueline Helm |
+| 120 | 708 | Jacqueline Helm |
+| 121 | 708 | Zippy Gridlock |
 | 122 | 704 | Austin Owens |
 | 123 | 702 | Amy Suckarieh |
 | 124 | 698 | Chilly Crasher |
@@ -282,8 +282,8 @@
 | 274 | 370 | Kris Bartlett |
 | 275 | 369 | Matt Dell'Olio |
 | 276 | 367 | Meg |
-| 277 | 366 | Hyper Builder |
-| 278 | 366 | Andrew Dang |
+| 277 | 366 | Andrew Dang |
+| 278 | 366 | Hyper Builder |
 | 279 | 360 | James Hurley Jr. |
 | 280 | 359 | KimoKoala |
 | 281 | 358 | Twisty Cascadezone |
@@ -477,12 +477,12 @@
 | 469 | 234 | Ryry |
 | 470 | 234 | Diosa Ebalobo Magsael |
 | 471 | 233 | Joseph Edmonson |
-| 472 | 233 | Maria Hammie |
-| 473 | 233 | conceptCollector |
+| 472 | 233 | conceptCollector |
+| 473 | 233 | Maria Hammie |
 | 474 | 232 | Sticherella |
 | 475 | 232 | Becky Shimko |
-| 476 | 230 | Martha Lucinda Bishop |
-| 477 | 230 | Joey Riley |
+| 476 | 230 | Joey Riley |
+| 477 | 230 | Martha Lucinda Bishop |
 | 478 | 230 | Silly Clearfit |
 | 479 | 228 | Bethany Ison |
 | 480 | 227 | Asher |
