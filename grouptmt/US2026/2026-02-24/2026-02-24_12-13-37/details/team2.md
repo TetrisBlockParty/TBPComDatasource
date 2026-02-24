@@ -271,8 +271,8 @@
 | 263 | 1561 | Howard Forest |
 | 264 | 1557 | Poppy Snap |
 | 265 | 1553 | Boldy Cascadepiece |
-| 266 | 1553 | Sarah Freitas |
-| 267 | 1553 | Wendy Unsain |
+| 266 | 1553 | Wendy Unsain |
+| 267 | 1553 | Sarah Freitas |
 | 268 | 1539 | Nadia Batista Garcia |
 | 269 | 1537 | Prado |
 | 270 | 1528 | Stacy Stickle |
@@ -317,8 +317,8 @@
 | 309 | 1381 | Christie |
 | 310 | 1381 | Dapper Dasher |
 | 311 | 1380 | Jerilyn Andrina |
-| 312 | 1376 | Megan Brianna |
-| 313 | 1376 | Kevin Sees |
+| 312 | 1376 | Kevin Sees |
+| 313 | 1376 | Megan Brianna |
 | 314 | 1374 | Sarah Berger |
 | 315 | 1362 | Angie Marie |
 | 316 | 1357 | Tanya Parsons |
@@ -544,8 +544,8 @@
 | 536 | 946 | Nicky Jackson |
 | 537 | 945 | Kassandra Hunt |
 | 538 | 943 | Nat |
-| 539 | 942 | Toni Lynn |
-| 540 | 942 | Fancy Twister |
+| 539 | 942 | Fancy Twister |
+| 540 | 942 | Toni Lynn |
 | 541 | 941 | Cool Clearer |
 | 542 | 938 | Hershey Eastman |
 | 543 | 937 | Wes Acton |
@@ -561,8 +561,8 @@
 | 553 | 923 | Danielle Simmons |
 | 554 | 922 | Butta |
 | 555 | 921 | Dannette Goldberg-Richards |
-| 556 | 920 | Miranda Jackson |
-| 557 | 920 | Arwa Fatimah |
+| 556 | 920 | Arwa Fatimah |
+| 557 | 920 | Miranda Jackson |
 | 558 | 919 | Isaac Trappiel IV |
 | 559 | 918 | Draizen Montrell Thomas |
 | 560 | 917 | William David Swallow |
@@ -626,9 +626,9 @@
 | 618 | 837 | Deyawn Smith |
 | 619 | 837 | Julio A Laracuente |
 | 620 | 836 | James Simms III |
-| 621 | 835 | Jo Nicole |
+| 621 | 835 | TJ Nash |
 | 622 | 835 | Diane P. Richardson |
-| 623 | 835 | TJ Nash |
+| 623 | 835 | Jo Nicole |
 | 624 | 834 | Montez Mancil |
 | 625 | 834 | Tracy Cowley |
 | 626 | 834 | NanDa Cruzan VI |

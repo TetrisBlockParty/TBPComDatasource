@@ -229,8 +229,8 @@
 | 221 | 460 | Sam Williams |
 | 222 | 458 | Goose egg |
 | 223 | 453 | Chantelle Ceno |
-| 224 | 453 | Kimmie Kimms |
-| 225 | 453 | Angela Spann |
+| 224 | 453 | Angela Spann |
+| 225 | 453 | Kimmie Kimms |
 | 226 | 449 | Tawnya Peltonen |
 | 227 | 448 | Yvonne Marie |
 | 228 | 447 | Monica Donato |
