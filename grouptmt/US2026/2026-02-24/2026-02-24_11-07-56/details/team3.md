@@ -69,8 +69,8 @@
 | 61 | 1920 | Trezure Gonzalez |
 | 62 | 1858 | Kristie McFarland |
 | 63 | 1836 | Tina Kay |
-| 64 | 1824 | Nate Burnside |
-| 65 | 1824 | Jessica Ann |
+| 64 | 1824 | Jessica Ann |
+| 65 | 1824 | Nate Burnside |
 | 66 | 1791 | Leah Barnett |
 | 67 | 1776 | Whitney Manuel |
 | 68 | 1774 | Liv Whetson |
@@ -78,13 +78,13 @@
 | 70 | 1695 | Nora Rogers |
 | 71 | 1691 | Cass Mendoza |
 | 72 | 1681 | Gracie |
-| 73 | 1663 | Mahman |
-| 74 | 1663 | Angeline Joseph |
+| 73 | 1663 | Angeline Joseph |
+| 74 | 1663 | Mahman |
 | 75 | 1633 | cowboy25469 |
 | 76 | 1625 | Queen Kam |
 | 77 | 1615 | joclisa |
-| 78 | 1566 | Nerdy Riseclear |
-| 79 | 1566 | Marcie Bressler |
+| 78 | 1566 | Marcie Bressler |
+| 79 | 1566 | Nerdy Riseclear |
 | 80 | 1560 | Logan Naccarato |
 | 81 | 1555 | Snappy Glidepiece |
 | 82 | 1518 | Christine Filson |
@@ -127,8 +127,8 @@
 | 119 | 1134 | Melissa Orth Hunter |
 | 120 | 1124 | Stephanie Rice |
 | 121 | 1121 | Corie A. Brinson |
-| 122 | 1114 | Groovy Catcher |
-| 123 | 1114 | Loopy Fallmatch |
+| 122 | 1114 | Loopy Fallmatch |
+| 123 | 1114 | Groovy Catcher |
 | 124 | 1105 | Adrian Marcel Pate |
 | 125 | 1093 | Angela M. Fletcher |
 | 126 | 1091 | Jennifer |
@@ -267,8 +267,8 @@
 | 259 | 632 | Rebecca Bailey |
 | 260 | 630 | Jackie Miller |
 | 261 | 629 | rnr junky |
-| 262 | 627 | Louise Stacy Sisson |
-| 263 | 627 | Juliana Dottore |
+| 262 | 627 | Juliana Dottore |
+| 263 | 627 | Louise Stacy Sisson |
 | 264 | 626 | Cheryl Hinch Tenbrook |
 | 265 | 625 | Jacqueline Rodriguez |
 | 266 | 624 | Hyper Matchzone |
@@ -335,8 +335,8 @@
 | 327 | 494 | MCV |
 | 328 | 494 | fraulila |
 | 329 | 492 | Tasha Wesson-Torrence |
-| 330 | 490 | TotoCherue |
-| 331 | 490 | Cassandra Bryant |
+| 330 | 490 | Cassandra Bryant |
+| 331 | 490 | TotoCherue |
 | 332 | 489 | Isabel Ocasio |
 | 333 | 487 | MsBee |
 | 334 | 486 | Skippy |
@@ -483,9 +483,9 @@
 | 475 | 359 | Kathleen Taylor |
 | 476 | 359 | Steven Fulater |
 | 477 | 358 | Hyper Twisterfit |
-| 478 | 358 | Lys |
-| 479 | 358 | Beejangles |
-| 480 | 358 | Taylor Culver |
+| 478 | 358 | Beejangles |
+| 479 | 358 | Taylor Culver |
+| 480 | 358 | Lys |
 | 481 | 356 | Trice Sodames |
 | 482 | 355 | Eboni Starr |
 | 483 | 354 | Jana Polk |
@@ -508,9 +508,9 @@
 | 500 | 345 | Nita Frikitona |
 | 501 | 343 | Christina Marie Swisher |
 | 502 | 343 | Michael Leblanc |
-| 503 | 342 | Boldy Corner |
+| 503 | 342 | Saucy Buildout |
 | 504 | 342 | Tipsy Zonebuilder |
-| 505 | 342 | Saucy Buildout |
+| 505 | 342 | Boldy Corner |
 | 506 | 341 | Funky Jumper |
 | 507 | 340 | Becca Engle |
 | 508 | 340 | Bleu Sun Beams |
