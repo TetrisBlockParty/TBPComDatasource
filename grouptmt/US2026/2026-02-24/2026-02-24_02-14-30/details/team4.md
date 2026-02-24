@@ -91,8 +91,8 @@
 | 83 | 864 | Guy Incognito |
 | 84 | 861 | Peachy Fall |
 | 85 | 855 | Chilly Line |
-| 86 | 850 | Lisa Davis |
-| 87 | 850 | Lucille Truesdale |
+| 86 | 850 | Lucille Truesdale |
+| 87 | 850 | Lisa Davis |
 | 88 | 846 | Christine Marie |
 | 89 | 841 | Judy Cox |
 | 90 | 841 | Shauna Havard |
@@ -318,7 +318,7 @@
 | 310 | 322 | Bryan Hodgins |
 | 311 | 322 | Dizzy Matchzone |
 | 312 | 321 | Dihcheese444 |
-| 313 | 321 | Heather Bruce |
+| 313 | 321 | Stacey Stano |
 | 314 | 321 | Nikki Rae Gordon |
 | 315 | 321 | Heather Bruce |
 | 316 | 320 | Sarah Hoffman |

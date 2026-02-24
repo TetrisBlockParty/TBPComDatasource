@@ -192,8 +192,8 @@
 | 184 | 772 | Tye Stovall |
 | 185 | 770 | Raya |
 | 186 | 768 | Hasty Cascadefit |
-| 187 | 763 | Tasha Gillespie |
-| 188 | 763 | Patricia White |
+| 187 | 763 | Patricia White |
+| 188 | 763 | Tasha Gillespie |
 | 189 | 760 | Kiki |
 | 190 | 757 | Fancy Cascader |
 | 191 | 755 | Laura Booth Wosko |
@@ -304,8 +304,8 @@
 | 296 | 499 | Gumbo |
 | 297 | 498 | Chummy Caster |
 | 298 | 497 | Rebecca Bailey |
-| 299 | 494 | Megan Rathmanner |
-| 300 | 494 | MCV |
+| 299 | 494 | MCV |
+| 300 | 494 | Megan Rathmanner |
 | 301 | 489 | Isabel Ocasio |
 | 302 | 488 | Brenda Schmid Wood |
 | 303 | 486 | Skippy |
@@ -360,8 +360,8 @@
 | 352 | 414 | RickyG |
 | 353 | 411 | Steffi Chris Dacones |
 | 354 | 409 | Rich LeBlanc |
-| 355 | 408 | Ashley Muncey |
-| 356 | 408 | Tiffany Ford |
+| 355 | 408 | Tiffany Ford |
+| 356 | 408 | Ashley Muncey |
 | 357 | 407 | Christina Spa |
 | 358 | 405 | fraulila |
 | 359 | 405 | Andrew Thorson |
