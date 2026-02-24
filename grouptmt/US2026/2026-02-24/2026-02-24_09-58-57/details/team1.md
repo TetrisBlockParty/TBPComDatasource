@@ -251,8 +251,8 @@
 | 243 | 422 | Jamise Brown |
 | 244 | 421 | Letson Melissa |
 | 245 | 420 | Jennifer Noe Chandler |
-| 246 | 419 | Barrbaric |
-| 247 | 419 | Daring Fitclear |
+| 246 | 419 | Daring Fitclear |
+| 247 | 419 | Barrbaric |
 | 248 | 419 | John J. Cronin |
 | 249 | 416 | Jessica Sheehan |
 | 250 | 416 | Larissa Marie Nelson |
@@ -741,8 +741,8 @@
 | 733 | 170 | Alyssa Ingram |
 | 734 | 170 | Miguel Teixeira |
 | 735 | 169 | Jordan Brooks |
-| 736 | 169 | Nicole Little |
-| 737 | 169 | Pace |
+| 736 | 169 | Pace |
+| 737 | 169 | Nicole Little |
 | 738 | 169 | Sarah Hope |
 | 739 | 169 | Ruby Sandberg |
 | 740 | 168 | Jen |

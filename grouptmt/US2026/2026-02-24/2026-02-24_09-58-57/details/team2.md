@@ -448,8 +448,8 @@
 | 440 | 1075 | SaraMarie Eveland |
 | 441 | 1074 | Diana Ayers |
 | 442 | 1073 | Jodi Blake |
-| 443 | 1071 | Nashu |
-| 444 | 1071 | Kim Dean |
+| 443 | 1071 | Kim Dean |
+| 444 | 1071 | Nashu |
 | 445 | 1068 | Tiffany Branham |
 | 446 | 1067 | Taylor Phillips |
 | 447 | 1067 | Lourisha |
@@ -606,8 +606,8 @@
 | 598 | 850 | Sabrina Burton |
 | 599 | 849 | Jasmine Kenney |
 | 600 | 848 | Happy Wipeblock |
-| 601 | 847 | Rhonda Milstead |
-| 602 | 847 | Megan Kitchner |
+| 601 | 847 | Megan Kitchner |
+| 602 | 847 | Rhonda Milstead |
 | 603 | 844 | Diana Fitzwater |
 | 604 | 844 | Terri McKelvey McKinley |
 | 605 | 843 | Quirky Twistline |
@@ -810,8 +810,8 @@
 | 802 | 686 | Timothy Robert |
 | 803 | 686 | Christina Ashley |
 | 804 | 685 | Rose Fx |
-| 805 | 684 | Sleepypanda67 |
-| 806 | 684 | Atara James |
+| 805 | 684 | Atara James |
+| 806 | 684 | Sleepypanda67 |
 | 807 | 684 | Jazzy Clusterline |
 | 808 | 683 | Nicole Sanqui |
 | 809 | 683 | Audrey Jones |
@@ -908,8 +908,8 @@
 | 900 | 639 | Tina Marie |
 | 901 | 638 | Nate |
 | 902 | 638 | Taren Cowan |
-| 903 | 638 | Daring Caster |
-| 904 | 638 | Kelly |
+| 903 | 638 | Kelly |
+| 904 | 638 | Daring Caster |
 | 905 | 637 | Darcy Mae |
 | 906 | 636 | Tash Bell |
 | 907 | 635 | John Carlin |
@@ -984,9 +984,9 @@
 | 976 | 595 | ElizabethAnn Dickinson |
 | 977 | 595 | Jessica Sutter |
 | 978 | 595 | Sara Pennington |
-| 979 | 593 | Keila Adames |
-| 980 | 593 | Esther Hsu |
-| 981 | 593 | Carre Elizabeth Amanda |
+| 979 | 593 | Carre Elizabeth Amanda |
+| 980 | 593 | Keila Adames |
+| 981 | 593 | Esther Hsu |
 | 982 | 592 | Elizabeth Nieto |
 | 983 | 591 | Ahtavia Watkins |
 | 984 | 591 | Mrs. New |
@@ -996,8 +996,8 @@
 | 988 | 589 | Sharon Madeiros |
 | 989 | 588 | Wayne Fields |
 | 990 | 587 | Alexx Anaya |
-| 991 | 586 | Cat Thompson |
-| 992 | 586 | Tracy Wise Moon |
+| 991 | 586 | Tracy Wise Moon |
+| 992 | 586 | Cat Thompson |
 | 993 | 586 | Tra Barnum |
 | 994 | 585 | Danielle DeLozier Plesec |
 | 995 | 585 | Laquetta Royston |
@@ -1025,8 +1025,8 @@
 | 1017 | 577 | GinRox88 |
 | 1018 | 575 | Cini |
 | 1019 | 575 | Joel Rosado |
-| 1020 | 575 | Kira Krause |
-| 1021 | 575 | Vung Nguyen |
+| 1020 | 575 | Vung Nguyen |
+| 1021 | 575 | Kira Krause |
 | 1022 | 574 | Chris Emanuel |
 | 1023 | 574 | Deborah Potts |
 | 1024 | 574 | Shyenn Gadsby |
@@ -1146,12 +1146,12 @@
 | 1138 | 526 | Lively Catcher |
 | 1139 | 526 | Heidi Kent |
 | 1140 | 526 | Rosa Marie Matias |
-| 1141 | 526 | Heidi Kent |
+| 1141 | 526 | Marcus Ken Wilcox |
 | 1142 | 525 | Sam |
 | 1143 | 525 | Micky |
 | 1144 | 524 | Sean Sabrowski |
-| 1145 | 524 | Gina Bahn |
-| 1146 | 524 | Mandy Kachenmeister |
+| 1145 | 524 | Mandy Kachenmeister |
+| 1146 | 524 | Gina Bahn |
 | 1147 | 523 | Suzy Moody |
 | 1148 | 523 | Sue Leard |
 | 1149 | 523 | Leslie Porter |
@@ -1161,8 +1161,8 @@
 | 1153 | 520 | kcakes |
 | 1154 | 519 | Rob Brown |
 | 1155 | 519 | Ashley Robbins |
-| 1156 | 519 | Abby Jensen |
-| 1157 | 519 | gNiK |
+| 1156 | 519 | gNiK |
+| 1157 | 519 | Abby Jensen |
 | 1158 | 519 | Bing |
 | 1159 | 518 | Darlene Bowman |
 | 1160 | 517 | Meganator42 |
@@ -1209,13 +1209,13 @@
 | 1201 | 498 | Epic Stackzone |
 | 1202 | 498 | Rolie Garcia |
 | 1203 | 498 | Drwatson187 |
-| 1204 | 497 | Mary Marie |
-| 1205 | 497 | June E Hanson |
+| 1204 | 497 | June E Hanson |
+| 1205 | 497 | Mary Marie |
 | 1206 | 497 | Stephanie Pitts |
 | 1207 | 497 | Bdubb |
 | 1208 | 496 | BlaqSupaMan |
-| 1209 | 496 | Lynda Toland |
-| 1210 | 496 | Ashlee Cruz |
+| 1209 | 496 | Ashlee Cruz |
+| 1210 | 496 | Lynda Toland |
 | 1211 | 495 | Dean Glenn |
 | 1212 | 495 | Cranky Tower |
 | 1213 | 495 | Ania |
@@ -1349,8 +1349,8 @@
 | 1341 | 457 | Kray Kray Katelynn |
 | 1342 | 457 | LML |
 | 1343 | 456 | Kimberly Ann Malagon |
-| 1344 | 456 | Dad |
-| 1345 | 456 | KingdomKeeper |
+| 1344 | 456 | KingdomKeeper |
+| 1345 | 456 | Dad |
 | 1346 | 455 | sup |
 | 1347 | 454 | CleverAngel |
 | 1348 | 454 | Bold Brickster |

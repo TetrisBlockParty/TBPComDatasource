@@ -126,8 +126,8 @@
 | 118 | 1134 | Melissa Orth Hunter |
 | 119 | 1124 | Stephanie Rice |
 | 120 | 1121 | Corie A. Brinson |
-| 121 | 1114 | Groovy Catcher |
-| 122 | 1114 | Loopy Fallmatch |
+| 121 | 1114 | Loopy Fallmatch |
+| 122 | 1114 | Groovy Catcher |
 | 123 | 1105 | Adrian Marcel Pate |
 | 124 | 1093 | Angela M. Fletcher |
 | 125 | 1091 | Jennifer |
@@ -156,8 +156,8 @@
 | 148 | 971 | Tasha Schriewer |
 | 149 | 963 | Crystal Frey |
 | 150 | 961 | Danielle Allison |
-| 151 | 950 | MissTaylor |
-| 152 | 950 | Giddy Drop |
+| 151 | 950 | Giddy Drop |
+| 152 | 950 | MissTaylor |
 | 153 | 947 | Kellie Montgomery |
 | 154 | 940 | Stephanie Allmon |
 | 155 | 940 | Patty Allen |
@@ -236,8 +236,8 @@
 | 228 | 708 | Stephanie Bradley |
 | 229 | 704 | Betty Bóò |
 | 230 | 703 | Shawn Miller |
-| 231 | 693 | lashanda |
-| 232 | 693 | Heather Davis |
+| 231 | 693 | Heather Davis |
+| 232 | 693 | lashanda |
 | 233 | 691 | Tia |
 | 234 | 691 | Snappy Balancer |
 | 235 | 687 | joz |
@@ -329,8 +329,8 @@
 | 321 | 505 | Stephanie Simpson |
 | 322 | 504 | Daring Builder |
 | 323 | 500 | Ashley Tookes |
-| 324 | 499 | Megan Rathmanner |
-| 325 | 499 | Gumbo |
+| 324 | 499 | Gumbo |
+| 325 | 499 | Megan Rathmanner |
 | 326 | 496 | Brenda Schmid Wood |
 | 327 | 494 | MCV |
 | 328 | 494 | fraulila |
@@ -343,8 +343,8 @@
 | 335 | 486 | Sleepy |
 | 336 | 483 | Tegan Chapman |
 | 337 | 482 | Chummy Rumbler |
-| 338 | 480 | TLM |
-| 339 | 480 | Dee Franklin |
+| 338 | 480 | Dee Franklin |
+| 339 | 480 | TLM |
 | 340 | 479 | Charles Perrone |
 | 341 | 476 | Shunta Jacobs |
 | 342 | 474 | Troy |
@@ -401,8 +401,8 @@
 | 393 | 426 | Christina Rotz Shows |
 | 394 | 425 | Ava Petito |
 | 395 | 423 | Dapper Liney |
-| 396 | 419 | Desiree Gold |
-| 397 | 419 | Philip Rock |
+| 396 | 419 | Philip Rock |
+| 397 | 419 | Desiree Gold |
 | 398 | 419 | Maggie |
 | 399 | 418 | Rainbow77375 |
 | 400 | 416 | Tay |
@@ -415,9 +415,9 @@
 | 407 | 407 | Christina Spa |
 | 408 | 406 | Kristen Weese |
 | 409 | 405 | Andrew Thorson |
-| 410 | 404 | Giggy Balanceblock |
-| 411 | 404 | Karent524 |
-| 412 | 404 | Alice |
+| 410 | 404 | Alice |
+| 411 | 404 | Giggy Balanceblock |
+| 412 | 404 | Karent524 |
 | 413 | 403 | Scott Lindsay |
 | 414 | 403 | keni |
 | 415 | 401 | block chick |
@@ -442,8 +442,8 @@
 | 434 | 382 | Amanda Martinez |
 | 435 | 382 | Katheline Lazo Luizaga |
 | 436 | 381 | Mary Giorgenti |
-| 437 | 380 | neci |
-| 438 | 380 | Foltz Lee Kelli |
+| 437 | 380 | Foltz Lee Kelli |
+| 438 | 380 | neci |
 | 439 | 379 | Krish Shah |
 | 440 | 378 | Samantha Worley |
 | 441 | 378 | Ashley Lynn Marchese |
@@ -506,9 +506,9 @@
 | 498 | 344 | Lys |
 | 499 | 343 | Michael Leblanc |
 | 500 | 343 | Christina Marie Swisher |
-| 501 | 342 | Tipsy Zonebuilder |
-| 502 | 342 | Saucy Buildout |
-| 503 | 342 | Boldy Corner |
+| 501 | 342 | Saucy Buildout |
+| 502 | 342 | Boldy Corner |
+| 503 | 342 | Tipsy Zonebuilder |
 | 504 | 341 | Funky Jumper |
 | 505 | 340 | Becca Engle |
 | 506 | 340 | Loony Slider |
@@ -847,7 +847,7 @@
 | 839 | 230 | brian |
 | 840 | 230 | Melissa Sisk |
 | 841 | 229 | Everret Maxine |
-| 842 | 229 | Kortnie Kincaid |
+| 842 | 229 | Slick Sally |
 | 843 | 229 | Tessa Bts |
 | 844 | 229 | Kortnie Kincaid |
 | 845 | 228 | Nichole Greene |
@@ -973,7 +973,7 @@
 | 965 | 202 | Terrie Miranda |
 | 966 | 202 | Bela PC |
 | 967 | 201 | Shelby Crawford |
-| 968 | 201 | Erin McGinnis Reinhart |
+| 968 | 201 | Rebecca Lynn |
 | 969 | 201 | Felipe Suzanne Diaz |
 | 970 | 201 | Erin McGinnis Reinhart |
 | 971 | 201 | Cozy Slice |
@@ -1451,9 +1451,9 @@
 | 1443 | 128 | Kc Wise |
 | 1444 | 128 | Kalisha Wilbourn |
 | 1445 | 128 | Sheila Segura |
-| 1446 | 128 | LaMonsherrie Maddox |
+| 1446 | 128 | Twister mcnugget |
 | 1447 | 128 | MsSassy Williams |
-| 1448 | 128 | Twister mcnugget |
+| 1448 | 128 | LaMonsherrie Maddox |
 | 1449 | 127 | MattieT |
 | 1450 | 127 | Alexsandran Valdivia |
 | 1451 | 127 | Kristina Marie |

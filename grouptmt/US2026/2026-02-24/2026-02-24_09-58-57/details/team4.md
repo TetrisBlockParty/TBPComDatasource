@@ -108,8 +108,8 @@
 | 100 | 846 | Christine Marie |
 | 101 | 840 | SAP |
 | 102 | 837 | Rica Mitchell |
-| 103 | 834 | quicksand420 |
-| 104 | 834 | Brittney Orengo |
+| 103 | 834 | Brittney Orengo |
+| 104 | 834 | quicksand420 |
 | 105 | 818 | Lori Walker |
 | 106 | 815 | Diana Houts |
 | 107 | 813 | Amy Suckarieh |
@@ -138,14 +138,14 @@
 | 130 | 712 | Leslie Nicole |
 | 131 | 712 | H.R. Block |
 | 132 | 708 | Jacqueline Helm |
-| 133 | 704 | Austin Owens |
-| 134 | 704 | Chilly Crasher |
+| 133 | 704 | Chilly Crasher |
+| 134 | 704 | Austin Owens |
 | 135 | 687 | Carmethia Clemons Haslerig |
 | 136 | 682 | Raegan Lane-Ross |
 | 137 | 668 | Desi Desporte |
 | 138 | 667 | Swanky Fitline |
-| 139 | 667 | Lindsey Gonzalez |
-| 140 | 667 | Matt Gooder |
+| 139 | 667 | Matt Gooder |
+| 140 | 667 | Lindsey Gonzalez |
 | 141 | 662 | Nerdy Twisterfit |
 | 142 | 661 | Rodney McMath Jr. |
 | 143 | 661 | shar |
@@ -153,8 +153,8 @@
 | 145 | 650 | Chris Hartig |
 | 146 | 647 | KM8 |
 | 147 | 639 | Serena Goodridge |
-| 148 | 638 | Angela Srubar-Norman |
-| 149 | 638 | Porkobello |
+| 148 | 638 | Porkobello |
+| 149 | 638 | Angela Srubar-Norman |
 | 150 | 635 | Kim Hunt |
 | 151 | 634 | Carrie Brian |
 | 152 | 633 | Jessica Lynn Cutlip |
@@ -233,8 +233,8 @@
 | 225 | 473 | Jolly Dashfit |
 | 226 | 472 | Plucky Patternblock |
 | 227 | 465 | Leslie Thomas |
-| 228 | 464 | Zakia Monae |
-| 229 | 464 | Calvin Cannon |
+| 228 | 464 | Calvin Cannon |
+| 229 | 464 | Zakia Monae |
 | 230 | 463 | shark tato |
 | 231 | 462 | Crystal Nicolette Moore |
 | 232 | 460 | Kathy Brookins |
@@ -279,12 +279,12 @@
 | 271 | 407 | Hyper Builder |
 | 272 | 407 | Rafael Valentin |
 | 273 | 402 | Nita Wells |
-| 274 | 399 | Twisty Cascadezone |
-| 275 | 399 | Brittany Little |
+| 274 | 399 | Brittany Little |
+| 275 | 399 | Twisty Cascadezone |
 | 276 | 398 | Tyler Terrific |
 | 277 | 397 | blockstar |
-| 278 | 395 | BigSammy420 |
-| 279 | 395 | Denise B |
+| 278 | 395 | Denise B |
+| 279 | 395 | BigSammy420 |
 | 280 | 394 | Nikki Rae Gordon |
 | 281 | 393 | Montiette Mcglown |
 | 282 | 392 | Neirrah B Olailjeel |
@@ -294,8 +294,8 @@
 | 286 | 387 | Sandra Safford |
 | 287 | 386 | Vic |
 | 288 | 382 | Sue Joyce Staats |
-| 289 | 380 | Chaz |
-| 290 | 380 | Jen Caldwell |
+| 289 | 380 | Jen Caldwell |
+| 290 | 380 | Chaz |
 | 291 | 380 | Holly Jolly |
 | 292 | 378 | Mary Ann Pabukis |
 | 293 | 378 | Googenheim |
@@ -345,7 +345,7 @@
 | 337 | 336 | ZeeZee |
 | 338 | 336 | Stella |
 | 339 | 336 | Tina Lopez |
-| 340 | 336 | Stella |
+| 340 | 336 | Gracie Ann Taylor |
 | 341 | 335 | Snippy Puzzle |
 | 342 | 334 | Zethra Prenisha Rahming |
 | 343 | 331 | rebel4lyfe |
@@ -353,10 +353,10 @@
 | 345 | 330 | Duck |
 | 346 | 329 | AyeKay |
 | 347 | 329 | Meagan Nicole |
-| 348 | 328 | Heather Bruce |
-| 349 | 328 | Leah Kutz Zirbel |
-| 350 | 327 | Jim Hart |
-| 351 | 327 | Jessica Petersen |
+| 348 | 328 | Leah Kutz Zirbel |
+| 349 | 328 | Heather Bruce |
+| 350 | 327 | Jessica Petersen |
+| 351 | 327 | Jim Hart |
 | 352 | 325 | Cool Gridzone |
 | 353 | 325 | Dustin York |
 | 354 | 324 | Sarah Hoffman |
