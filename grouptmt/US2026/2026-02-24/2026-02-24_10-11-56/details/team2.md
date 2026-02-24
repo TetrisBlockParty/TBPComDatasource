@@ -222,8 +222,8 @@
 | 214 | 1813 | Catina Hutchison |
 | 215 | 1807 | Osun Anuket Esu |
 | 216 | 1784 | Matthew Joseph Acevedo |
-| 217 | 1775 | Sommer Shope |
-| 218 | 1775 | Eboni Banks |
+| 217 | 1775 | Eboni Banks |
+| 218 | 1775 | Sommer Shope |
 | 219 | 1770 | Nerdy Pattern |
 | 220 | 1761 | Rosa Franklin |
 | 221 | 1759 | Jojo Momma |
@@ -269,8 +269,8 @@
 | 261 | 1558 | Tim Dyer |
 | 262 | 1557 | Poppy Snap |
 | 263 | 1556 | Julay |
-| 264 | 1553 | Sarah Freitas |
-| 265 | 1553 | Wendy Unsain |
+| 264 | 1553 | Wendy Unsain |
+| 265 | 1553 | Sarah Freitas |
 | 266 | 1553 | Boldy Cascadepiece |
 | 267 | 1539 | Nadia Batista Garcia |
 | 268 | 1528 | Stacy Stickle |
@@ -346,8 +346,8 @@
 | 338 | 1304 | Sarah Ridenour |
 | 339 | 1303 | Michele Morgan |
 | 340 | 1301 | Mandy Cekine |
-| 341 | 1300 | Tacara Cummings |
-| 342 | 1300 | Shinel Richardson |
+| 341 | 1300 | Shinel Richardson |
+| 342 | 1300 | Tacara Cummings |
 | 343 | 1295 | Jess Morrison |
 | 344 | 1292 | Joshua Mandel |
 | 345 | 1290 | Kevin Sees |
@@ -1089,8 +1089,8 @@
 | 1081 | 550 | Daring Matchfit |
 | 1082 | 549 | Ashley Collins |
 | 1083 | 549 | Meeeeee |
-| 1084 | 548 | Melissa Koria |
-| 1085 | 548 | Synn |
+| 1084 | 548 | Synn |
+| 1085 | 548 | Melissa Koria |
 | 1086 | 546 | Drew Berkelbach |
 | 1087 | 545 | Street Sweeper |
 | 1088 | 545 | Elena Vap |
@@ -1180,7 +1180,7 @@
 | 1172 | 511 | Purple durple |
 | 1173 | 511 | Sarah Sims |
 | 1174 | 510 | Steve Zortman |
-| 1175 | 509 | Pocho Zavala |
+| 1175 | 509 | Cassi Owens |
 | 1176 | 509 | Denisse Avilez |
 | 1177 | 509 | Pocho Zavala |
 | 1178 | 509 | Amanda Canterbury |

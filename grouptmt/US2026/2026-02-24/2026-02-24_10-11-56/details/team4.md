@@ -73,8 +73,8 @@
 | 65 | 1119 | Amelpss |
 | 66 | 1109 | BertMofo |
 | 67 | 1089 | Alyssa Papen |
-| 68 | 1082 | Dion Crommarty |
-| 69 | 1082 | Avy Absol |
+| 68 | 1082 | Avy Absol |
+| 69 | 1082 | Dion Crommarty |
 | 70 | 1081 | Dustee Craddock-Harrison |
 | 71 | 1080 | Chilly Line |
 | 72 | 1076 | Julian Garcia |
@@ -108,8 +108,8 @@
 | 100 | 846 | Christine Marie |
 | 101 | 840 | SAP |
 | 102 | 837 | Rica Mitchell |
-| 103 | 834 | Brittney Orengo |
-| 104 | 834 | quicksand420 |
+| 103 | 834 | quicksand420 |
+| 104 | 834 | Brittney Orengo |
 | 105 | 818 | Lori Walker |
 | 106 | 815 | Diana Houts |
 | 107 | 813 | Amy Suckarieh |
@@ -147,8 +147,8 @@
 | 139 | 667 | Swanky Fitline |
 | 140 | 667 | Matt Gooder |
 | 141 | 662 | Nerdy Twisterfit |
-| 142 | 661 | Rodney McMath Jr. |
-| 143 | 661 | shar |
+| 142 | 661 | shar |
+| 143 | 661 | Rodney McMath Jr. |
 | 144 | 651 | Adawna Swires |
 | 145 | 650 | Chris Hartig |
 | 146 | 649 | Angela Srubar-Norman |
@@ -214,8 +214,8 @@
 | 206 | 509 | Mimi |
 | 207 | 507 | Andria Lynn |
 | 208 | 504 | Deanna Deckard |
-| 209 | 502 | Ericca Eldridge |
-| 210 | 502 | Christina Black |
+| 209 | 502 | Christina Black |
+| 210 | 502 | Ericca Eldridge |
 | 211 | 501 | Sharyn Lemire |
 | 212 | 499 | DonMega |
 | 213 | 499 | Kesha Brady |
@@ -320,8 +320,8 @@
 | 312 | 354 | Perky Piecegrid |
 | 313 | 354 | @ |
 | 314 | 352 | Kate |
-| 315 | 351 | Dana Scott |
-| 316 | 351 | Jackie Clark |
+| 315 | 351 | Jackie Clark |
+| 316 | 351 | Dana Scott |
 | 317 | 350 | Dizzy Matchzone |
 | 318 | 349 | jim |
 | 319 | 349 | Richard-April Kice |
@@ -398,8 +398,8 @@
 | 390 | 300 | Dapper Frame |
 | 391 | 299 | Michael Snow |
 | 392 | 298 | Val Erie |
-| 393 | 297 | Allison Rose |
-| 394 | 297 | Brittany Marsh |
+| 393 | 297 | Brittany Marsh |
+| 394 | 297 | Allison Rose |
 | 395 | 295 | Deb Rubeck |
 | 396 | 294 | BootsMcGee |
 | 397 | 293 | Groovy Shiftspin |

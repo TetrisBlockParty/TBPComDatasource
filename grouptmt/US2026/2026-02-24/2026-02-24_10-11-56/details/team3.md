@@ -197,8 +197,8 @@
 | 189 | 815 | Justin Ritter |
 | 190 | 813 | JessDrown |
 | 191 | 808 | Raya |
-| 192 | 804 | Gideon Walker |
-| 193 | 804 | Alaina Lee |
+| 192 | 804 | Alaina Lee |
+| 193 | 804 | Gideon Walker |
 | 194 | 800 | Lauren Girouard |
 | 195 | 799 | Trisha Balmer |
 | 196 | 792 | Rachel Grant |
@@ -290,8 +290,8 @@
 | 282 | 582 | FuzzyNavel |
 | 283 | 581 | Crystal Hine |
 | 284 | 578 | James Mitchell |
-| 285 | 574 | Danielle Balcom |
-| 286 | 574 | Rachael McClain Owens |
+| 285 | 574 | Rachael McClain Owens |
+| 286 | 574 | Danielle Balcom |
 | 287 | 572 | Tessina Dewey-Mancino |
 | 288 | 570 | thekey |
 | 289 | 569 | Michael Johnson |
@@ -324,13 +324,13 @@
 | 316 | 523 | Ktfreeee |
 | 317 | 518 | Marquita Sheard |
 | 318 | 514 | Nikki White |
-| 319 | 506 | Tiffanie Alley |
-| 320 | 506 | Ammmmmmy |
+| 319 | 506 | Ammmmmmy |
+| 320 | 506 | Tiffanie Alley |
 | 321 | 505 | Stephanie Simpson |
 | 322 | 504 | Daring Builder |
 | 323 | 500 | Ashley Tookes |
-| 324 | 499 | Gumbo |
-| 325 | 499 | Megan Rathmanner |
+| 324 | 499 | Megan Rathmanner |
+| 325 | 499 | Gumbo |
 | 326 | 496 | Brenda Schmid Wood |
 | 327 | 494 | fraulila |
 | 328 | 494 | MCV |
@@ -389,14 +389,14 @@
 | 381 | 434 | Criss |
 | 382 | 434 | Ginger Gray |
 | 383 | 432 | Hoppy Patternline |
-| 384 | 432 | Justice 4 P |
-| 385 | 432 | Sabrina Mansfield |
+| 384 | 432 | Sabrina Mansfield |
+| 385 | 432 | Justice 4 P |
 | 386 | 431 | Goofy Fall |
 | 387 | 431 | Donna Esbensen-Alpini |
-| 388 | 430 | AlsoJess |
-| 389 | 430 | Quackers |
-| 390 | 428 | Samantha Lynn |
-| 391 | 428 | Skinny Baldez |
+| 388 | 430 | Quackers |
+| 389 | 430 | AlsoJess |
+| 390 | 428 | Skinny Baldez |
+| 391 | 428 | Samantha Lynn |
 | 392 | 427 | Darlene McMillan |
 | 393 | 426 | Christina Rotz Shows |
 | 394 | 425 | Ava Petito |
