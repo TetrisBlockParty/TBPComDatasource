@@ -87,8 +87,8 @@
 | 79 | 994 | Lori Sanders- Davis |
 | 80 | 973 | Francesca Gee |
 | 81 | 961 | Jacqueline Williams |
-| 82 | 957 | Erin Hodges Plumb |
-| 83 | 957 | Zippy Align |
+| 82 | 957 | Zippy Align |
+| 83 | 957 | Erin Hodges Plumb |
 | 84 | 944 | Sweet Baker |
 | 85 | 920 | Tee Sheree |
 | 86 | 916 | Chirpy Smasher |
@@ -199,8 +199,8 @@
 | 191 | 496 | Sarah Somers Gray |
 | 192 | 496 | Michelle Beres |
 | 193 | 495 | Connie |
-| 194 | 494 | Sean Stallings |
-| 195 | 494 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
+| 194 | 494 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
+| 195 | 494 | Sean Stallings |
 | 196 | 493 | Speedy Liney |
 | 197 | 492 | Happy Snapbuild |
 | 198 | 488 | Ly Phethmany |
@@ -230,8 +230,8 @@
 | 222 | 439 | David Miller |
 | 223 | 436 | Sylvia Vasquez |
 | 224 | 432 | Brian Spotts |
-| 225 | 431 | Shiny Snapfit |
-| 226 | 431 | Tipsy Strikerpiece |
+| 225 | 431 | Tipsy Strikerpiece |
+| 226 | 431 | Shiny Snapfit |
 | 227 | 429 | pjbeta |
 | 228 | 429 | Tana |
 | 229 | 427 | Jessie Lynn |
@@ -245,8 +245,8 @@
 | 237 | 424 | Serina Marie |
 | 238 | 423 | Howdi Duty |
 | 239 | 422 | Jamise Brown |
-| 240 | 421 | Plucky Stacky |
-| 241 | 421 | Letson Melissa |
+| 240 | 421 | Letson Melissa |
+| 241 | 421 | Plucky Stacky |
 | 242 | 420 | Jennifer Noe Chandler |
 | 243 | 419 | Daring Fitclear |
 | 244 | 419 | John J. Cronin |
@@ -268,13 +268,13 @@
 | 260 | 396 | Sam Williams |
 | 261 | 394 | Nick R Montague |
 | 262 | 393 | Wisa |
-| 263 | 392 | Renee Tucker |
-| 264 | 392 | Poppy Riserpiece |
+| 263 | 392 | Poppy Riserpiece |
+| 264 | 392 | Renee Tucker |
 | 265 | 391 | Happy Basegrid |
 | 266 | 390 | David Lutcher |
 | 267 | 388 | Test |
-| 268 | 386 | Melissa Bires Hussar |
-| 269 | 386 | Angela Renea Lester |
+| 268 | 386 | Angela Renea Lester |
+| 269 | 386 | Melissa Bires Hussar |
 | 270 | 384 | Irv |
 | 271 | 384 | Colleen Pinette |
 | 272 | 383 | Margo Wagner |
@@ -351,11 +351,11 @@
 | 343 | 329 | Larry Tilton |
 | 344 | 329 | Sarah Marie |
 | 345 | 328 | Richard Corrado |
-| 346 | 327 | Gina Bettikofer |
-| 347 | 327 | Christina Norman |
+| 346 | 327 | Christina Norman |
+| 347 | 327 | Gina Bettikofer |
 | 348 | 326 | Jasmine Riley |
-| 349 | 325 | GringaLinga |
-| 350 | 325 | Mitchel White |
+| 349 | 325 | Mitchel White |
+| 350 | 325 | GringaLinga |
 | 351 | 324 | Brave Wrecker |
 | 352 | 323 | Nadine Velardo |
 | 353 | 322 | Chris65 |
@@ -370,16 +370,16 @@
 | 362 | 315 | san |
 | 363 | 313 | Steph |
 | 364 | 313 | Delvison Rosario |
-| 365 | 312 | Nicole Meredith Flynn |
-| 366 | 312 | Diane Byrd |
+| 365 | 312 | Diane Byrd |
+| 366 | 312 | Nicole Meredith Flynn |
 | 367 | 311 | Rico Rico |
 | 368 | 311 | Nathan Sealander |
 | 369 | 311 | John Ramirez |
 | 370 | 310 | Marci Sanders |
 | 371 | 310 | Chris Sigurdson |
 | 372 | 309 | Isaiah |
-| 373 | 308 | Agustin Duarte Orozco |
-| 374 | 308 | Katie Martin |
+| 373 | 308 | Katie Martin |
+| 374 | 308 | Agustin Duarte Orozco |
 | 375 | 306 | Sunny Shift |
 | 376 | 305 | Tavia |
 | 377 | 305 | Damian Salem |
@@ -464,9 +464,9 @@
 | 456 | 267 | Dena Kayy |
 | 457 | 267 | Barry Mac'Ockner |
 | 458 | 266 | Angela Jones |
-| 459 | 265 | Brenda L. Bunce |
+| 459 | 265 | Cranky Pattern |
 | 460 | 265 | Yahowah |
-| 461 | 265 | Cranky Pattern |
+| 461 | 265 | Brenda L. Bunce |
 | 462 | 264 | Kayla |
 | 463 | 263 | Scott Betson |
 | 464 | 263 | Cool Balancer |
@@ -510,8 +510,8 @@
 | 502 | 247 | Chilly Riserpiece |
 | 503 | 246 | ken |
 | 504 | 246 | Frothy Blockbuilder |
-| 505 | 245 | Theeranart Mahawan |
-| 506 | 245 | Strig |
+| 505 | 245 | Strig |
+| 506 | 245 | Theeranart Mahawan |
 | 507 | 243 | Larry Jackson |
 | 508 | 243 | Ma stoken |
 | 509 | 242 | Joshua Weeder |

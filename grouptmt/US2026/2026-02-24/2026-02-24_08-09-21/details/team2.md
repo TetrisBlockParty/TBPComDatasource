@@ -432,8 +432,8 @@
 | 424 | 1087 | Cindy Sechler Taninecz |
 | 425 | 1085 | Barbra Miller |
 | 426 | 1085 | Bee |
-| 427 | 1084 | William Hunt |
-| 428 | 1084 | Emilee Burke |
+| 427 | 1084 | Emilee Burke |
+| 428 | 1084 | William Hunt |
 | 429 | 1080 | Jennifer Monroe Kelly |
 | 430 | 1079 | Angela Bonquiqui Dinish |
 | 431 | 1079 | AndrewandShela Gornik |
@@ -592,8 +592,8 @@
 | 584 | 851 | Melissa Schulz |
 | 585 | 851 | James Louie |
 | 586 | 850 | Sabrina Burton |
-| 587 | 848 | Happy Wipeblock |
-| 588 | 848 | Jasmine Kenney |
+| 587 | 848 | Jasmine Kenney |
+| 588 | 848 | Happy Wipeblock |
 | 589 | 847 | Megan Kitchner |
 | 590 | 844 | Terri McKelvey McKinley |
 | 591 | 843 | Quirky Twistline |
@@ -930,10 +930,10 @@
 | 922 | 614 | Dandy Combo |
 | 923 | 613 | Brenda Annabel Smith |
 | 924 | 613 | Allyson Marra |
-| 925 | 613 | Brenda Annabel Smith |
-| 926 | 612 | Goofy Catcher |
-| 927 | 612 | Marget Kay |
-| 928 | 611 | Robin L. Vial |
+| 925 | 612 | Goofy Catcher |
+| 926 | 612 | Marget Kay |
+| 927 | 611 | Robin L. Vial |
+| 928 | 611 | Roderick Allen |
 | 929 | 611 | Sharon Mills |
 | 930 | 611 | April Dawn Royal |
 | 931 | 611 | Tom Steffen |
@@ -1177,8 +1177,8 @@
 | 1169 | 507 | Lina Sanders |
 | 1170 | 507 | Jay Levy |
 | 1171 | 506 | Zesty Pivot |
-| 1172 | 505 | Sammie |
-| 1173 | 505 | Umm E Rubab |
+| 1172 | 505 | Umm E Rubab |
+| 1173 | 505 | Sammie |
 | 1174 | 504 | Veronica Stevenson |
 | 1175 | 504 | Mary Boss |
 | 1176 | 504 | Richard Hunt |

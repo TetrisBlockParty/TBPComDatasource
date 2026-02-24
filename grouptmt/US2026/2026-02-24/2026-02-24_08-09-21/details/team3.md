@@ -68,8 +68,8 @@
 | 60 | 1931 | Denise Nardoni |
 | 61 | 1920 | Trezure Gonzalez |
 | 62 | 1858 | Kristie McFarland |
-| 63 | 1824 | Jessica Ann |
-| 64 | 1824 | Nate Burnside |
+| 63 | 1824 | Nate Burnside |
+| 64 | 1824 | Jessica Ann |
 | 65 | 1804 | Tina Kay |
 | 66 | 1791 | Leah Barnett |
 | 67 | 1776 | Whitney Manuel |
@@ -266,8 +266,8 @@
 | 258 | 618 | Kaitie Oliver |
 | 259 | 606 | Connie Mohler-Fair |
 | 260 | 605 | Sarah Cowan Burgos |
-| 261 | 604 | Bmo |
-| 262 | 604 | Sherry Ogden |
+| 261 | 604 | Sherry Ogden |
+| 262 | 604 | Bmo |
 | 263 | 601 | Betty Rosas |
 | 264 | 600 | Natasha Jones |
 | 265 | 599 | Noyb Adam |
@@ -286,7 +286,7 @@
 | 278 | 574 | Rachael McClain Owens |
 | 279 | 572 | Tessina Dewey-Mancino |
 | 280 | 570 | thekey |
-| 281 | 569 | Silly Twist |
+| 281 | 569 | Michael Johnson |
 | 282 | 569 | Gray Hicks |
 | 283 | 569 | Silly Twist |
 | 284 | 566 | Tyler Shoff |
@@ -328,8 +328,8 @@
 | 320 | 499 | Megan Rathmanner |
 | 321 | 496 | Brenda Schmid Wood |
 | 322 | 495 | Daring Builder |
-| 323 | 494 | MCV |
-| 324 | 494 | fraulila |
+| 323 | 494 | fraulila |
+| 324 | 494 | MCV |
 | 325 | 492 | Tasha Wesson-Torrence |
 | 326 | 490 | Cassandra Bryant |
 | 327 | 489 | Isabel Ocasio |
@@ -339,15 +339,15 @@
 | 331 | 483 | Tegan Chapman |
 | 332 | 482 | Chummy Rumbler |
 | 333 | 481 | Tiffanie Alley |
-| 334 | 480 | Dee Franklin |
-| 335 | 480 | TLM |
+| 334 | 480 | TLM |
+| 335 | 480 | Dee Franklin |
 | 336 | 479 | Charles Perrone |
 | 337 | 476 | Shunta Jacobs |
 | 338 | 474 | Troy |
 | 339 | 471 | Mendoza Lee Christy |
 | 340 | 471 | Sarah Moyer |
-| 341 | 467 | Jul |
-| 342 | 467 | Danielle Rhoades |
+| 341 | 467 | Danielle Rhoades |
+| 342 | 467 | Jul |
 | 343 | 465 | Blocked |
 | 344 | 465 | Noettín Kan Zasnemoore |
 | 345 | 464 | Snazzy Filler |
@@ -355,8 +355,8 @@
 | 347 | 461 | Hyper Bridger |
 | 348 | 461 | Briana Wellman |
 | 349 | 460 | Antonia Russell |
-| 350 | 459 | TotoCherue |
-| 351 | 459 | Randy Clevenger |
+| 350 | 459 | Randy Clevenger |
+| 351 | 459 | TotoCherue |
 | 352 | 457 | Snippy Wipeout |
 | 353 | 456 | Cynthia Herrmann Egland |
 | 354 | 456 | Kelly |
@@ -375,8 +375,8 @@
 | 367 | 443 | Christian Werndl |
 | 368 | 442 | Loopy Fallzone |
 | 369 | 438 | Dannie Litchard |
-| 370 | 436 | Julie Fratrik |
-| 371 | 436 | AC Yeater |
+| 370 | 436 | AC Yeater |
+| 371 | 436 | Julie Fratrik |
 | 372 | 435 | Sabrina Hardrick |
 | 373 | 434 | Criss |
 | 374 | 432 | Justice 4 P |
@@ -412,8 +412,8 @@
 | 404 | 404 | Alice |
 | 405 | 404 | Giggy Balanceblock |
 | 406 | 403 | Scott Lindsay |
-| 407 | 401 | block chick |
-| 408 | 401 | Velma Mull |
+| 407 | 401 | Velma Mull |
+| 408 | 401 | block chick |
 | 409 | 400 | Joy Petroski |
 | 410 | 398 | Breezy Roll |
 | 411 | 397 | Hasty Gridpiece |
@@ -555,7 +555,7 @@
 | 547 | 320 | Or Reznitsky |
 | 548 | 319 | Matty Ray |
 | 549 | 319 | Tracey Cox |
-| 550 | 319 | Matty Ray |
+| 550 | 319 | Moneyvybz |
 | 551 | 319 | Jayme |
 | 552 | 318 | Trey Ward |
 | 553 | 318 | Tina Smith Roy |

@@ -41,7 +41,7 @@
 | 33 | 1631 | Goatimus Lombardi |
 | 34 | 1619 | Isabella Blanco |
 | 35 | 1571 | Koshin Abdirahman |
-| 36 | 1550 | Dawn Alexander |
+| 36 | 1535 | Dawn Alexander |
 | 37 | 1535 | Rebecca Moulton Pinciaro |
 | 38 | 1518 | Cherrish Duren |
 | 39 | 1507 | A5! |
@@ -113,16 +113,16 @@
 | 105 | 813 | Klo |
 | 106 | 811 | Sassy Pattern |
 | 107 | 806 | Lori Walker |
-| 108 | 802 | Denise Carlson |
-| 109 | 802 | Crystal Carroll |
+| 108 | 802 | Crystal Carroll |
+| 109 | 802 | Denise Carlson |
 | 110 | 801 | D3TROITB0RN74 |
 | 111 | 798 | Jewell Urban |
-| 112 | 786 | Zippy Gridlock |
-| 113 | 784 | TheNeesh50 |
-| 114 | 781 | Brittney Griggs |
-| 115 | 779 | Nope Young |
-| 116 | 776 | Savannah Overdorf |
-| 117 | 768 | Trista Leah |
+| 112 | 784 | TheNeesh50 |
+| 113 | 781 | Brittney Griggs |
+| 114 | 779 | Nope Young |
+| 115 | 776 | Savannah Overdorf |
+| 116 | 768 | Trista Leah |
+| 117 | 766 | Zippy Gridlock |
 | 118 | 766 | Robin Watters |
 | 119 | 764 | Valerie Roberts |
 | 120 | 754 | Chris Alexinas |
@@ -137,8 +137,8 @@
 | 129 | 712 | Leslie Nicole |
 | 130 | 712 | H.R. Block |
 | 131 | 708 | Jacqueline Helm |
-| 132 | 704 | Austin Owens |
-| 133 | 704 | Chilly Crasher |
+| 132 | 704 | Chilly Crasher |
+| 133 | 704 | Austin Owens |
 | 134 | 682 | Raegan Lane-Ross |
 | 135 | 668 | Desi Desporte |
 | 136 | 667 | Lindsey Gonzalez |
@@ -201,7 +201,7 @@
 | 193 | 521 | Andy Cabral |
 | 194 | 520 | Zippy Block |
 | 195 | 520 | Oscar Alberto Perez |
-| 196 | 516 | Nick Gray |
+| 196 | 516 | Twisty Clicky |
 | 197 | 516 | Trish |
 | 198 | 516 | Nick Gray |
 | 199 | 513 | Zesty Twistbuilder |
@@ -212,12 +212,12 @@
 | 204 | 509 | Mimi |
 | 205 | 507 | Andria Lynn |
 | 206 | 504 | Deanna Deckard |
-| 207 | 502 | Ericca Eldridge |
-| 208 | 502 | Christina Black |
+| 207 | 502 | Christina Black |
+| 208 | 502 | Ericca Eldridge |
 | 209 | 501 | Sharyn Lemire |
 | 210 | 499 | Kesha Brady |
-| 211 | 496 | Lori |
-| 212 | 496 | Jessica Bohlken |
+| 211 | 496 | Jessica Bohlken |
+| 212 | 496 | Lori |
 | 213 | 495 | Joeliecea Cobb |
 | 214 | 494 | Bio Nelly |
 | 215 | 493 | Amanda Pauldo-Ivy |
@@ -276,9 +276,9 @@
 | 268 | 407 | Hyper Builder |
 | 269 | 407 | Rafael Valentin |
 | 270 | 402 | Nita Wells |
-| 271 | 399 | Twisty Cascadezone |
-| 272 | 399 | 030Synner |
-| 273 | 399 | Brittany Little |
+| 271 | 399 | 030Synner |
+| 272 | 399 | Brittany Little |
+| 273 | 399 | Twisty Cascadezone |
 | 274 | 398 | Tyler Terrific |
 | 275 | 397 | blockstar |
 | 276 | 395 | BigSammy420 |
@@ -387,8 +387,8 @@
 | 379 | 300 | Jason Frehner |
 | 380 | 299 | Michael Snow |
 | 381 | 298 | Val Erie |
-| 382 | 297 | Brittany Marsh |
-| 383 | 297 | Allison Rose |
+| 382 | 297 | Allison Rose |
+| 383 | 297 | Brittany Marsh |
 | 384 | 296 | Dapper Frame |
 | 385 | 295 | Deb Rubeck |
 | 386 | 294 | BootsMcGee |
