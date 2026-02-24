@@ -210,8 +210,8 @@
 | 202 | 502 | Christina Black |
 | 203 | 501 | Sharyn Lemire |
 | 204 | 499 | Kesha Brady |
-| 205 | 496 | Jessica Bohlken |
-| 206 | 496 | Lori |
+| 205 | 496 | Lori |
+| 206 | 496 | Jessica Bohlken |
 | 207 | 495 | Joeliecea Cobb |
 | 208 | 493 | Amanda Pauldo-Ivy |
 | 209 | 481 | Joanna |
@@ -222,8 +222,8 @@
 | 214 | 467 | 🥔🥔 Spudz |
 | 215 | 465 | June Hoffman |
 | 216 | 464 | Zakia Monae |
-| 217 | 462 | Leslie Thomas |
-| 218 | 462 | Crystal Nicolette Moore |
+| 217 | 462 | Crystal Nicolette Moore |
+| 218 | 462 | Leslie Thomas |
 | 219 | 460 | Kathy Brookins |
 | 220 | 458 | Luis Martinez |
 | 221 | 458 | Kristina Black |
@@ -1148,7 +1148,7 @@
 | 1140 | 78 | Terra McGee |
 | 1141 | 78 | Bold Matcher |
 | 1142 | 78 | Breezy Grid |
-| 1143 | 78 | KrakaLackin |
+| 1143 | 78 | Brian O'Neill |
 | 1144 | 77 | Adam Hughes |
 | 1145 | 77 | Kimberly Goncalves |
 | 1146 | 77 | Poppy Twistslam |

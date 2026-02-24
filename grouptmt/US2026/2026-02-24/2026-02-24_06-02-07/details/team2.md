@@ -507,8 +507,8 @@
 | 499 | 946 | Nicky Jackson |
 | 500 | 944 | Lisa Ongtowasruk |
 | 501 | 943 | Angelina Marie |
-| 502 | 942 | Toni Lynn |
-| 503 | 942 | Fancy Twister |
+| 502 | 942 | Fancy Twister |
+| 503 | 942 | Toni Lynn |
 | 504 | 941 | Cool Clearer |
 | 505 | 940 | Jennifer Leigh |
 | 506 | 937 | Heather Schelkopf |
@@ -520,8 +520,8 @@
 | 512 | 925 | blume |
 | 513 | 923 | Chevy |
 | 514 | 922 | Butta |
-| 515 | 921 | Dannette Goldberg-Richards |
-| 516 | 921 | Elisheva Mizrachi |
+| 515 | 921 | Elisheva Mizrachi |
+| 516 | 921 | Dannette Goldberg-Richards |
 | 517 | 920 | Arwa Fatimah |
 | 518 | 919 | Isaac Trappiel IV |
 | 519 | 918 | Lola Contreras |
@@ -874,11 +874,11 @@
 | 866 | 634 | Jessica Galick |
 | 867 | 633 | Daring Caster |
 | 868 | 632 | Lea Stewart |
-| 869 | 631 | Autumn Schaeffer |
-| 870 | 631 | Wuntayk |
+| 869 | 631 | Wuntayk |
+| 870 | 631 | Autumn Schaeffer |
 | 871 | 629 | Ownlane Rico |
-| 872 | 628 | Misty Mitchell |
-| 873 | 628 | Macy Jarrett |
+| 872 | 628 | Macy Jarrett |
+| 873 | 628 | Misty Mitchell |
 | 874 | 627 | Kristie Wilcox |
 | 875 | 626 | cornball |
 | 876 | 626 | Tash Bell |
