@@ -175,16 +175,16 @@
 | 167 | 525 | Lucas J Sutton |
 | 168 | 522 | Carly Alexis |
 | 169 | 521 | Andy Cabral |
-| 170 | 520 | Zippy Block |
-| 171 | 520 | Oscar Alberto Perez |
-| 172 | 516 | Trish |
-| 173 | 516 | Twisty Clicky |
+| 170 | 520 | Oscar Alberto Perez |
+| 171 | 520 | Zippy Block |
+| 172 | 516 | Twisty Clicky |
+| 173 | 516 | Trish |
 | 174 | 514 | Scott Jameson |
 | 175 | 513 | Erin Thomas |
-| 176 | 512 | Angela Srubar-Norman |
-| 177 | 512 | ThaEviLJeNiuZ |
-| 178 | 512 | Casey Jeffcoat |
-| 179 | 512 | Nick Gray |
+| 176 | 512 | Nick Gray |
+| 177 | 512 | Casey Jeffcoat |
+| 178 | 512 | ThaEviLJeNiuZ |
+| 179 | 512 | Angela Srubar-Norman |
 | 180 | 512 | Ellen Durfee |
 | 181 | 504 | Deanna Deckard |
 | 182 | 503 | Andria Lynn |
@@ -245,16 +245,16 @@
 | 237 | 400 | Brickh4us |
 | 238 | 398 | Nerdy Twisterfit |
 | 239 | 398 | Tyler Terrific |
-| 240 | 395 | 030Synner |
-| 241 | 395 | BigSammy420 |
+| 240 | 395 | BigSammy420 |
+| 241 | 395 | 030Synner |
 | 242 | 394 | Nita Wells |
 | 243 | 391 | mike |
 | 244 | 390 | Plucky Patternblock |
 | 245 | 389 | Joseph Guthrie |
 | 246 | 384 | Bio Nelly |
-| 247 | 383 | blockstar |
-| 248 | 383 | JPW |
-| 249 | 383 | Lauren Scott |
+| 247 | 383 | Lauren Scott |
+| 248 | 383 | blockstar |
+| 249 | 383 | JPW |
 | 250 | 382 | Sue Joyce Staats |
 | 251 | 381 | Rafael Valentin |
 | 252 | 380 | Rio Rocha |

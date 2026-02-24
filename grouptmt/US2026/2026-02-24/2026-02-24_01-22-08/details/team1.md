@@ -215,8 +215,8 @@
 | 207 | 422 | Reesey Enyart |
 | 208 | 422 | Jamise Brown |
 | 209 | 420 | Jennifer Noe Chandler |
-| 210 | 419 | John J. Cronin |
-| 211 | 419 | Daring Fitclear |
+| 210 | 419 | Daring Fitclear |
+| 211 | 419 | John J. Cronin |
 | 212 | 417 | Jessie Lynn |
 | 213 | 416 | Jessica Sheehan |
 | 214 | 413 | Ananda Mendez |
