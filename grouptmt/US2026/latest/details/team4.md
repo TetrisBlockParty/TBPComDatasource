@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-24 21:10:42 UTC
+# Standings for team4 as of 2026-02-24 21:11:21 UTC
 
 **Total Participants:** 2086
 
@@ -90,9 +90,9 @@
 | 82 | 1028 | Jeremy Steines |
 | 83 | 1024 | Valerie Roberts |
 | 84 | 1015 | Girl |
-| 85 | 1012 | Guy Incognito |
-| 86 | 1009 | loulou |
-| 87 | 1001 | Chaz Duncan |
+| 85 | 1014 | Chaz Duncan |
+| 86 | 1012 | Guy Incognito |
+| 87 | 1009 | loulou |
 | 88 | 999 | Patron Anderson |
 | 89 | 998 | Edward White |
 | 90 | 990 | Jewell Urban |
@@ -115,8 +115,8 @@
 | 107 | 846 | Christine Marie |
 | 108 | 839 | Trista Leah |
 | 109 | 837 | Lori Walker |
-| 110 | 834 | Brittney Orengo |
-| 111 | 834 | quicksand420 |
+| 110 | 834 | quicksand420 |
+| 111 | 834 | Brittney Orengo |
 | 112 | 832 | Carrie Brian |
 | 113 | 827 | Chris Alexinas |
 | 114 | 825 | Chris Hartig |
@@ -136,15 +136,15 @@
 | 128 | 766 | Robin Watters |
 | 129 | 763 | Matt Gooder |
 | 130 | 756 | Adawna Swires |
-| 131 | 753 | Brandon Crabbs |
-| 132 | 753 | Nugget |
+| 131 | 753 | Nugget |
+| 132 | 753 | Brandon Crabbs |
 | 133 | 739 | George Nutt |
 | 134 | 738 | Serena Goodridge |
 | 135 | 737 | Jamie Mann-Deichmann |
 | 136 | 733 | Swanky Fitline |
 | 137 | 731 | KJ Pool |
-| 138 | 728 | Jessica Lynn Cutlip |
-| 139 | 728 | Lindsey Gonzalez |
+| 138 | 728 | Lindsey Gonzalez |
+| 139 | 728 | Jessica Lynn Cutlip |
 | 140 | 726 | Jamie Gustafson |
 | 141 | 721 | Austin Owens |
 | 142 | 719 | H.R. Block |
@@ -153,8 +153,8 @@
 | 145 | 714 | Chris Baggett |
 | 146 | 708 | Jacqueline Helm |
 | 147 | 700 | TRCuse |
-| 148 | 699 | Porkobello |
-| 149 | 699 | Rodney McMath Jr. |
+| 148 | 699 | Rodney McMath Jr. |
+| 149 | 699 | Porkobello |
 | 150 | 691 | shar |
 | 151 | 690 | Lucas J Sutton |
 | 152 | 687 | Carmethia Clemons Haslerig |
@@ -184,8 +184,8 @@
 | 176 | 614 | Kathy Brookins |
 | 177 | 613 | 🥔🥔 Spudz |
 | 178 | 608 | Alan George LaRage |
-| 179 | 605 | Genne Scott |
-| 180 | 605 | Christina Black |
+| 179 | 605 | Christina Black |
+| 180 | 605 | Genne Scott |
 | 181 | 601 | Circuit8 |
 | 182 | 599 | Jade Rian |
 | 183 | 597 | JPW |
@@ -202,8 +202,8 @@
 | 194 | 570 | Carly Alexis |
 | 195 | 569 | Zesty Twistbuilder |
 | 196 | 567 | Cool Towerbuilder |
-| 197 | 564 | Mimi |
-| 198 | 564 | Manny1 |
+| 197 | 564 | Manny1 |
+| 198 | 564 | Mimi |
 | 199 | 562 | blasterB |
 | 200 | 561 | Andria Lynn |
 | 201 | 558 | Marie-Pier Desjardins |
@@ -215,8 +215,8 @@
 | 207 | 542 | Kimberlee Jan Beckstead |
 | 208 | 541 | Cranky Rollpiece |
 | 209 | 540 | Ellen Durfee |
-| 210 | 537 | Scott Jameson |
-| 211 | 537 | ThaEviLJeNiuZ |
+| 210 | 537 | ThaEviLJeNiuZ |
+| 211 | 537 | Scott Jameson |
 | 212 | 535 | Ericca Eldridge |
 | 213 | 532 | Matt Summer |
 | 214 | 531 | Twisty Clicky |
@@ -225,13 +225,13 @@
 | 217 | 524 | Sharyn Lemire |
 | 218 | 522 | Kristina Black |
 | 219 | 517 | DonMega |
-| 220 | 516 | Trish |
+| 220 | 516 | Nick Gray |
 | 221 | 516 | Damn Libra |
-| 222 | 516 | Nick Gray |
+| 222 | 516 | Trish |
 | 223 | 515 | Joanna |
 | 224 | 513 | Casey Grabner |
-| 225 | 513 | Milan Markeisha |
-| 226 | 513 | Plucky Patternblock |
+| 225 | 513 | Plucky Patternblock |
+| 226 | 513 | Milan Markeisha |
 | 227 | 512 | Casey Jeffcoat |
 | 228 | 508 | June Hoffman |
 | 229 | 506 | scott |
@@ -254,8 +254,8 @@
 | 246 | 478 | Jolly Dashfit |
 | 247 | 478 | Cheery Risebuilder |
 | 248 | 477 | mike |
-| 249 | 475 | Jen Mattei |
-| 250 | 475 | 23 |
+| 249 | 475 | 23 |
+| 250 | 475 | Jen Mattei |
 | 251 | 475 | Chris Bernstein |
 | 252 | 473 | Calvin Cannon |
 | 253 | 472 | Crystal Nicolette Moore |
@@ -263,8 +263,8 @@
 | 255 | 470 | Zakia Monae |
 | 256 | 469 | Rodney Wheeler |
 | 257 | 467 | Brittany Little |
-| 258 | 465 | John Brunetti |
-| 259 | 465 | Leslie Thomas |
+| 258 | 465 | Leslie Thomas |
+| 259 | 465 | John Brunetti |
 | 260 | 460 | Lauren Scott |
 | 261 | 459 | Jason Gibbs |
 | 262 | 458 | Luis Martinez |
@@ -348,9 +348,9 @@
 | 340 | 377 | Lauren Lamb |
 | 341 | 377 | Perky Piecegrid |
 | 342 | 377 | Jason Bosco |
-| 343 | 376 | Stacey Stano |
+| 343 | 377 | Chair |
 | 344 | 376 | Nig |
-| 345 | 376 | Chair |
+| 345 | 376 | Stacey Stano |
 | 346 | 375 | Megan Cutshaw |
 | 347 | 375 | George Tzouganos |
 | 348 | 374 | Amy Sanford |
@@ -1387,16 +1387,16 @@
 | 1379 | 61 | Anthony Caldwell |
 | 1380 | 61 | Rollinsmokes |
 | 1381 | 61 | Daoxed |
-| 1382 | 61 | Connie Mitchell-Smith |
-| 1383 | 61 | Phanie D |
-| 1384 | 61 | Binji |
-| 1385 | 60 | Susan Gillet |
-| 1386 | 60 | KHernan104 |
-| 1387 | 60 | Melanie Klump |
-| 1388 | 60 | Alyssa Gomez |
-| 1389 | 60 | Saucy Brickroll |
-| 1390 | 60 | April Murphy |
-| 1391 | 60 | Jazzy Cascadezone |
+| 1382 | 61 | Jazzy Cascadezone |
+| 1383 | 61 | Connie Mitchell-Smith |
+| 1384 | 61 | Phanie D |
+| 1385 | 61 | Binji |
+| 1386 | 60 | Susan Gillet |
+| 1387 | 60 | KHernan104 |
+| 1388 | 60 | Melanie Klump |
+| 1389 | 60 | Alyssa Gomez |
+| 1390 | 60 | Saucy Brickroll |
+| 1391 | 60 | April Murphy |
 | 1392 | 60 | Dustin Dodson |
 | 1393 | 60 | Johnboom317 |
 | 1394 | 60 | Kb Ludiweci |
