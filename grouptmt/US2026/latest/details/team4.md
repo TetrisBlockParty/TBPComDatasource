@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-24 15:20:20 UTC
+# Standings for team4 as of 2026-02-24 15:20:44 UTC
 
 **Total Participants:** 2043
 
@@ -182,8 +182,8 @@
 | 174 | 593 | Ren Mc |
 | 175 | 590 | Crystal Lynn |
 | 176 | 586 | Latisha Davis |
-| 177 | 585 | Tracey Lehmann |
-| 178 | 585 | Lori |
+| 177 | 585 | Lori |
+| 178 | 585 | Tracey Lehmann |
 | 179 | 584 | Carlton Unfiltered |
 | 180 | 575 | Jenna Ingersoll |
 | 181 | 573 | Rico |
@@ -191,12 +191,12 @@
 | 183 | 570 | Erin Sabol |
 | 184 | 567 | Cool Towerbuilder |
 | 185 | 566 | Christina Black |
-| 186 | 558 | Marie-Pier Desjardins |
-| 187 | 557 | Mimi |
-| 188 | 557 | Carly Alexis |
-| 189 | 556 | Circuit8 |
-| 190 | 552 | Angel Raya |
-| 191 | 552 | Joseph Guthrie |
+| 186 | 561 | Circuit8 |
+| 187 | 558 | Marie-Pier Desjardins |
+| 188 | 557 | Mimi |
+| 189 | 557 | Carly Alexis |
+| 190 | 552 | Joseph Guthrie |
+| 191 | 552 | Angel Raya |
 | 192 | 550 | James Hurley Jr. |
 | 193 | 548 | Melvin Baird |
 | 194 | 546 | Dizzy Tiley |
@@ -211,22 +211,22 @@
 | 203 | 531 | Twisty Clicky |
 | 204 | 526 | Manny1 |
 | 205 | 525 | 🥔🥔 Spudz |
-| 206 | 520 | ThaEviLJeNiuZ |
-| 207 | 520 | Zippy Block |
-| 208 | 520 | Oscar Alberto Perez |
+| 206 | 520 | Zippy Block |
+| 207 | 520 | Oscar Alberto Perez |
+| 208 | 520 | ThaEviLJeNiuZ |
 | 209 | 517 | DonMega |
 | 210 | 516 | Nick Gray |
 | 211 | 516 | Trish |
 | 212 | 515 | Joanna |
-| 213 | 513 | Zesty Twistbuilder |
-| 214 | 513 | Milan Markeisha |
-| 215 | 512 | Kristina Black |
-| 216 | 512 | Casey Jeffcoat |
+| 213 | 513 | Milan Markeisha |
+| 214 | 513 | Zesty Twistbuilder |
+| 215 | 512 | Casey Jeffcoat |
+| 216 | 512 | Kristina Black |
 | 217 | 511 | Nita Wells |
 | 218 | 510 | J-Rizzle |
 | 219 | 508 | June Hoffman |
-| 220 | 504 | Sharyn Lemire |
-| 221 | 504 | Deanna Deckard |
+| 220 | 504 | Deanna Deckard |
+| 221 | 504 | Sharyn Lemire |
 | 222 | 499 | Kesha Brady |
 | 223 | 498 | Genne Scott |
 | 224 | 497 | Damn Libra |
@@ -290,18 +290,18 @@
 | 282 | 410 | Lindsay Ball |
 | 283 | 409 | Antony Dwayne Beasley |
 | 284 | 408 | Neirrah B Olailjeel |
-| 285 | 408 | Dihcheese444 |
-| 286 | 407 | blockstar |
-| 287 | 407 | Hyper Builder |
-| 288 | 407 | Denise B |
+| 285 | 408 | Denise B |
+| 286 | 408 | Dihcheese444 |
+| 287 | 407 | blockstar |
+| 288 | 407 | Hyper Builder |
 | 289 | 404 | Tawna Curry |
 | 290 | 403 | Twisty Risebuilder |
 | 291 | 402 | Maria Hammie |
 | 292 | 400 | Jen Caldwell |
 | 293 | 399 | Jim Hart |
 | 294 | 398 | Tyler Terrific |
-| 295 | 395 | BigSammy420 |
-| 296 | 395 | Daria Rycewicz |
+| 295 | 395 | Daria Rycewicz |
+| 296 | 395 | BigSammy420 |
 | 297 | 394 | Lora |
 | 298 | 394 | Nikki Rae Gordon |
 | 299 | 393 | Montiette Mcglown |
@@ -311,17 +311,17 @@
 | 303 | 387 | Sandra Safford |
 | 304 | 386 | ZeeZee |
 | 305 | 386 | Vic |
-| 306 | 383 | Dan Wold |
-| 307 | 382 | Matt Dell'Olio |
-| 308 | 382 | Sue Joyce Staats |
-| 309 | 381 | Cool Gridzone |
-| 310 | 380 | Chaz |
-| 311 | 380 | Holly Jolly |
-| 312 | 379 | Michelle Morris |
+| 306 | 384 | Michelle Morris |
+| 307 | 383 | Dan Wold |
+| 308 | 382 | Matt Dell'Olio |
+| 309 | 382 | Sue Joyce Staats |
+| 310 | 381 | Cool Gridzone |
+| 311 | 380 | Chaz |
+| 312 | 380 | Holly Jolly |
 | 313 | 378 | Googenheim |
 | 314 | 377 | Lauren Lamb |
-| 315 | 376 | Stacey Stano |
-| 316 | 376 | Nig |
+| 315 | 376 | Nig |
+| 316 | 376 | Stacey Stano |
 | 317 | 375 | George Tzouganos |
 | 318 | 374 | Angie Schmidt |
 | 319 | 373 | Russ Attitude |
@@ -734,56 +734,56 @@
 | 726 | 177 | Korcoran Smith |
 | 727 | 177 | Morgan Patrick |
 | 728 | 177 | Courtney Lacerte |
-| 729 | 176 | Tunia Torres |
-| 730 | 176 | Manuel Groleau |
-| 731 | 176 | Walid Elsabee |
-| 732 | 176 | Jim Gray |
-| 733 | 175 | Lori Goudy |
-| 734 | 175 | Glitzy Crasher |
-| 735 | 174 | Christina O'Dell-Ishau |
-| 736 | 174 | Christina Hyde |
-| 737 | 174 | Zappy Bridgepiece |
-| 738 | 174 | LunaMoon |
-| 739 | 174 | David Boggs |
-| 740 | 174 | Giggly Balancefit |
-| 741 | 173 | Rodney Wheeler |
-| 742 | 173 | FreckledFlamingo |
-| 743 | 173 | Lorinda Wixom |
-| 744 | 173 | Groovy Brickmatch |
-| 745 | 173 | heatheryblue |
-| 746 | 173 | Peppy Strike |
-| 747 | 172 | Griffen |
-| 748 | 172 | Tabitha Calvin |
-| 749 | 172 | sgt baby |
-| 750 | 172 | Roy Simmons |
-| 751 | 172 | Linda Alexander Downing |
-| 752 | 171 | Ali Ian |
-| 753 | 171 | Terrance Fung |
-| 754 | 170 | Larry Agan |
-| 755 | 170 | Josie Peña |
-| 756 | 169 | Angela Gould |
-| 757 | 169 | Melissa Tipton Crawford |
-| 758 | 168 | George Castillo |
-| 759 | 168 | Krista Buffaloe |
-| 760 | 168 | Heather Stratos |
-| 761 | 168 | Mike Nelson |
-| 762 | 168 | Holly Tracey-Grimes |
-| 763 | 168 | Cheery Lift |
-| 764 | 167 | Bad company |
-| 765 | 167 | Dottie Falco |
-| 766 | 166 | Courtney Angel |
-| 767 | 166 | Goofy Fitblock |
-| 768 | 165 | Zappy Buildgrid |
-| 769 | 165 | Wacky Twister |
-| 770 | 164 | Tory Miller |
-| 771 | 164 | Willa Anne Nold Kay |
-| 772 | 164 | Too Low Lou |
-| 773 | 164 | Stephanie Jones |
-| 774 | 164 | Marvetta Williams |
-| 775 | 164 | Leila |
-| 776 | 163 | kaeliwyn |
-| 777 | 163 | LunarCat |
-| 778 | 163 | Cozy Strikerbuilder |
+| 729 | 176 | Leila |
+| 730 | 176 | Tunia Torres |
+| 731 | 176 | Manuel Groleau |
+| 732 | 176 | Walid Elsabee |
+| 733 | 176 | Jim Gray |
+| 734 | 175 | Lori Goudy |
+| 735 | 175 | Glitzy Crasher |
+| 736 | 174 | Christina O'Dell-Ishau |
+| 737 | 174 | Christina Hyde |
+| 738 | 174 | Zappy Bridgepiece |
+| 739 | 174 | LunaMoon |
+| 740 | 174 | David Boggs |
+| 741 | 174 | Giggly Balancefit |
+| 742 | 173 | Rodney Wheeler |
+| 743 | 173 | FreckledFlamingo |
+| 744 | 173 | Lorinda Wixom |
+| 745 | 173 | Groovy Brickmatch |
+| 746 | 173 | heatheryblue |
+| 747 | 173 | Peppy Strike |
+| 748 | 172 | Griffen |
+| 749 | 172 | Tabitha Calvin |
+| 750 | 172 | sgt baby |
+| 751 | 172 | Roy Simmons |
+| 752 | 172 | Linda Alexander Downing |
+| 753 | 171 | Ali Ian |
+| 754 | 171 | Terrance Fung |
+| 755 | 170 | Larry Agan |
+| 756 | 170 | Josie Peña |
+| 757 | 169 | Angela Gould |
+| 758 | 169 | Melissa Tipton Crawford |
+| 759 | 168 | George Castillo |
+| 760 | 168 | Krista Buffaloe |
+| 761 | 168 | Heather Stratos |
+| 762 | 168 | Mike Nelson |
+| 763 | 168 | Holly Tracey-Grimes |
+| 764 | 168 | Cheery Lift |
+| 765 | 167 | Bad company |
+| 766 | 167 | Dottie Falco |
+| 767 | 166 | Courtney Angel |
+| 768 | 166 | Goofy Fitblock |
+| 769 | 165 | Zappy Buildgrid |
+| 770 | 165 | Wacky Twister |
+| 771 | 164 | Tory Miller |
+| 772 | 164 | Willa Anne Nold Kay |
+| 773 | 164 | Too Low Lou |
+| 774 | 164 | Stephanie Jones |
+| 775 | 164 | Marvetta Williams |
+| 776 | 163 | LunarCat |
+| 777 | 163 | Cozy Strikerbuilder |
+| 778 | 163 | kaeliwyn |
 | 779 | 162 | Smiley Tiltbuilder |
 | 780 | 162 | Beenbreto |
 | 781 | 161 | Clinton Jacob |
