@@ -298,11 +298,11 @@
 | 290 | 342 | Matt Iaccheo |
 | 291 | 341 | Nick R Montague |
 | 292 | 341 | Colleen Pinette |
-| 293 | 340 | Robert |
-| 294 | 340 | Danielle Little-Daugherty |
+| 293 | 340 | Danielle Little-Daugherty |
+| 294 | 340 | Robert |
 | 295 | 338 | Layzietyme |
-| 296 | 337 | Tipsy Builder |
-| 297 | 337 | Larissa Marie Nelson |
+| 296 | 337 | Larissa Marie Nelson |
+| 297 | 337 | Tipsy Builder |
 | 298 | 336 | Sarah Roberts |
 | 299 | 334 | Nate Price |
 | 300 | 333 | Wayne Saunders |
@@ -537,8 +537,8 @@
 | 529 | 208 | Donna Addison Williams |
 | 530 | 208 | Jason Landon Sexton |
 | 531 | 207 | Leslie Bush Yarbrough |
-| 532 | 206 | Matt Cinelli |
-| 533 | 206 | Mindy Gloska |
+| 532 | 206 | Mindy Gloska |
+| 533 | 206 | Matt Cinelli |
 | 534 | 204 | Jason Cox |
 | 535 | 204 | Jill King Oldham |
 | 536 | 203 | Cool Balancer |

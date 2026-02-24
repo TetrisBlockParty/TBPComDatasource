@@ -186,8 +186,8 @@
 | 178 | 777 | Daryn Elliott |
 | 179 | 776 | JessDrown |
 | 180 | 774 | ren |
-| 181 | 773 | Daira Largen |
-| 182 | 773 | Sashay Tapae Simpson |
+| 181 | 773 | Sashay Tapae Simpson |
+| 182 | 773 | Daira Largen |
 | 183 | 772 | Tye Stovall |
 | 184 | 772 | Twisty Brick LT |
 | 185 | 770 | Raya |
@@ -360,16 +360,16 @@
 | 352 | 414 | RickyG |
 | 353 | 411 | Steffi Chris Dacones |
 | 354 | 409 | Rich LeBlanc |
-| 355 | 408 | Tiffany Ford |
-| 356 | 408 | Ashley Muncey |
+| 355 | 408 | Ashley Muncey |
+| 356 | 408 | Tiffany Ford |
 | 357 | 407 | Christina Spa |
 | 358 | 405 | fraulila |
 | 359 | 405 | Andrew Thorson |
 | 360 | 405 | Chris Bell |
 | 361 | 405 | Skinny Baldez |
 | 362 | 404 | Giggy Balanceblock |
-| 363 | 403 | Scott Lindsay |
-| 364 | 403 | Stephanie Burtin |
+| 363 | 403 | Stephanie Burtin |
+| 364 | 403 | Scott Lindsay |
 | 365 | 401 | block chick |
 | 366 | 399 | Christina Rotz Shows |
 | 367 | 399 | Loopy Fallzone |
@@ -382,8 +382,8 @@
 | 374 | 386 | Philip Rock |
 | 375 | 386 | Kelly Wolf |
 | 376 | 384 | Tiffany Davie |
-| 377 | 383 | Nikki White |
-| 378 | 383 | Jessica Christian |
+| 377 | 383 | Jessica Christian |
+| 378 | 383 | Nikki White |
 | 379 | 383 | Kirhonda Autmon |
 | 380 | 382 | Amanda J. Mcneil-Anderson |
 | 381 | 382 | Rynne Ellis |

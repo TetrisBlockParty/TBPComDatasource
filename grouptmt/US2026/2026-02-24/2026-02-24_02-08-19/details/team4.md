@@ -94,8 +94,8 @@
 | 86 | 850 | Lisa Davis |
 | 87 | 850 | Lucille Truesdale |
 | 88 | 846 | Christine Marie |
-| 89 | 841 | Shauna Havard |
-| 90 | 841 | Judy Cox |
+| 89 | 841 | Judy Cox |
+| 90 | 841 | Shauna Havard |
 | 91 | 840 | Chaz Duncan |
 | 92 | 834 | quicksand420 |
 | 93 | 826 | Rica Mitchell |

@@ -285,8 +285,8 @@
 | 277 | 1348 | Sarah Freitas |
 | 278 | 1342 | Groovy Puzzle |
 | 279 | 1342 | Kelly A Green-Leach |
-| 280 | 1341 | Moose Griffith |
-| 281 | 1341 | Cassie Mercer |
+| 280 | 1341 | Cassie Mercer |
+| 281 | 1341 | Moose Griffith |
 | 282 | 1338 | Diallo Sparkman |
 | 283 | 1333 | Tralonda Weeks |
 | 284 | 1331 | Christina Walker |
@@ -337,8 +337,8 @@
 | 329 | 1211 | Cynthia Ward |
 | 330 | 1210 | Amber Gray |
 | 331 | 1204 | Tristan Szolek |
-| 332 | 1202 | Kristin Gower |
-| 333 | 1202 | Joshua Mandel |
+| 332 | 1202 | Joshua Mandel |
+| 333 | 1202 | Kristin Gower |
 | 334 | 1194 | Aireka Roman |
 | 335 | 1192 | F-X |
 | 336 | 1188 | Colin Morgan |
