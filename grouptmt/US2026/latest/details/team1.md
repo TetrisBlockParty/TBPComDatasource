@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-24 18:16:43 UTC
+# Standings for team1 as of 2026-02-24 18:17:22 UTC
 
 **Total Participants:** 2291
 
@@ -1029,83 +1029,83 @@
 | 1021 | 122 | Daniel R Morgan |
 | 1022 | 122 | Plucky Tetrisline |
 | 1023 | 121 | Smacked |
-| 1024 | 121 | Crystal Cardenas |
-| 1025 | 121 | Lashá Calloway |
+| 1024 | 121 | Matthew Vd |
+| 1025 | 121 | Crystal Cardenas |
 | 1026 | 121 | Ja Ce |
-| 1027 | 120 | Lynn Anderson |
-| 1028 | 120 | Zach Marihugh |
-| 1029 | 120 | Amanda Alt Caplinger |
-| 1030 | 120 | Meechie |
-| 1031 | 120 | Amber Rochelle |
-| 1032 | 120 | Wanda Honey |
-| 1033 | 120 | Jonathan Vaval |
-| 1034 | 120 | Christian Corral |
-| 1035 | 120 | Coke cane |
-| 1036 | 119 | Fizzy McNutts |
-| 1037 | 119 | Devon Rae |
-| 1038 | 119 | RW! |
-| 1039 | 119 | Frisky Framezone |
-| 1040 | 118 | Joyful Daze |
+| 1027 | 121 | Lashá Calloway |
+| 1028 | 120 | Christian Corral |
+| 1029 | 120 | Lynn Anderson |
+| 1030 | 120 | Zach Marihugh |
+| 1031 | 120 | Amanda Alt Caplinger |
+| 1032 | 120 | Meechie |
+| 1033 | 120 | Amber Rochelle |
+| 1034 | 120 | Coke cane |
+| 1035 | 120 | Wanda Honey |
+| 1036 | 120 | Jonathan Vaval |
+| 1037 | 119 | Fizzy McNutts |
+| 1038 | 119 | Frisky Framezone |
+| 1039 | 119 | Devon Rae |
+| 1040 | 119 | RW! |
 | 1041 | 118 | Mighty Basegrid |
-| 1042 | 118 | Denny Castle |
+| 1042 | 118 | Joyful Daze |
 | 1043 | 118 | Kerry Lee Powell |
-| 1044 | 118 | Tim Mccrary |
-| 1045 | 118 | Matthew Vd |
+| 1044 | 118 | Denny Castle |
+| 1045 | 118 | Tim Mccrary |
 | 1046 | 118 | Its me |
 | 1047 | 118 | Nutty Clusterline |
 | 1048 | 118 | Giggy Stacky |
-| 1049 | 117 | Lis |
-| 1050 | 117 | Omar Hudson |
+| 1049 | 117 | Omar Hudson |
+| 1050 | 117 | Lis |
 | 1051 | 117 | Cynthia Pool |
 | 1052 | 117 | keke :) |
 | 1053 | 116 | Amber Johnson-Grantham |
-| 1054 | 116 | Perky Lifter |
-| 1055 | 116 | Cleo Snider |
-| 1056 | 116 | Loony Patternbuilder |
-| 1057 | 115 | Beeboe17 |
-| 1058 | 115 | Hdhshsn |
+| 1054 | 116 | Cleo Snider |
+| 1055 | 116 | Loony Patternbuilder |
+| 1056 | 116 | Perky Lifter |
+| 1057 | 115 | Kristy Lynn Michaud |
+| 1058 | 115 | Lissie Maldonado |
 | 1059 | 115 | Twisty Wipeout |
-| 1060 | 115 | Kristy Lynn Michaud |
-| 1061 | 115 | Lissie Maldonado |
-| 1062 | 114 | Dawn Mynhier |
-| 1063 | 114 | Amy Marques |
+| 1060 | 115 | Hdhshsn |
+| 1061 | 115 | Beeboe17 |
+| 1062 | 114 | Amy Marques |
+| 1063 | 114 | Dawn Mynhier |
 | 1064 | 113 | Trisha Stiglet |
-| 1065 | 113 | Susan Good |
-| 1066 | 113 | Katie Wood |
-| 1067 | 113 | Raven |
-| 1068 | 113 | Michael Butler |
-| 1069 | 113 | Mark Zeitlin |
-| 1070 | 112 | Travis Hughes |
+| 1065 | 113 | Mark Zeitlin |
+| 1066 | 113 | Susan Good |
+| 1067 | 113 | Michael Butler |
+| 1068 | 113 | Raven |
+| 1069 | 113 | Katie Wood |
+| 1070 | 112 | Tea Julien |
 | 1071 | 112 | Antonio Feliciano |
-| 1072 | 112 | Tea Julien |
-| 1073 | 111 | Rory Eviltwin Bayer |
+| 1072 | 112 | Travis Hughes |
+| 1073 | 111 | Duanew |
 | 1074 | 111 | Geralene Murphree |
-| 1075 | 111 | Duanew |
+| 1075 | 111 | Carol Rogers |
 | 1076 | 111 | squareMel |
 | 1077 | 111 | Scott Tracie Kiser |
-| 1078 | 111 | Carol Rogers |
-| 1079 | 110 | SMSMris |
-| 1080 | 110 | Robert Benitez |
-| 1081 | 110 | Sassy Riseclear |
-| 1082 | 110 | Brahim Amara |
-| 1083 | 110 | Tasha McCormack |
-| 1084 | 110 | Thia Gibson |
+| 1078 | 111 | Rory Eviltwin Bayer |
+| 1079 | 110 | Sassy Riseclear |
+| 1080 | 110 | Thia Gibson |
+| 1081 | 110 | Tasha McCormack |
+| 1082 | 110 | SMSMris |
+| 1083 | 110 | Robert Benitez |
+| 1084 | 110 | Brahim Amara |
 | 1085 | 109 | Latonya McLeroy Smith |
-| 1086 | 108 | Stoney Smith |
-| 1087 | 108 | Eduardo Santos |
-| 1088 | 108 | Nico |
-| 1089 | 108 | Wendy Walker-Hill |
-| 1090 | 107 | Dede |
-| 1091 | 107 | Peg |
-| 1092 | 107 | Turtle Boser |
-| 1093 | 107 | David Bourne |
-| 1094 | 107 | Shelly Palmer |
-| 1095 | 107 | William Maix |
-| 1096 | 107 | Nellie Cummings |
-| 1097 | 107 | sent2bless34 |
-| 1098 | 107 | Larry Fritzinger |
-| 1099 | 107 | Snippy Piecefit |
-| 1100 | 107 | Kristi Kinard |
+| 1086 | 108 | Nico |
+| 1087 | 108 | Wendy Walker-Hill |
+| 1088 | 108 | Stoney Smith |
+| 1089 | 108 | Eduardo Santos |
+| 1090 | 107 | Shelly Palmer |
+| 1091 | 107 | Kristi Kinard |
+| 1092 | 107 | David Bourne |
+| 1093 | 107 | Nellie Cummings |
+| 1094 | 107 | Larry Fritzinger |
+| 1095 | 107 | sent2bless34 |
+| 1096 | 107 | William Maix |
+| 1097 | 107 | Turtle Boser |
+| 1098 | 107 | Dede |
+| 1099 | 107 | Peg |
+| 1100 | 107 | Snippy Piecefit |
 | 1101 | 106 | Honey |
 | 1102 | 106 | Slinky Fitblock |
 | 1103 | 106 | Claude Villeneuve |
