@@ -123,8 +123,8 @@
 | 115 | 1134 | Melissa Orth Hunter |
 | 116 | 1124 | Stephanie Rice |
 | 117 | 1121 | Corie A. Brinson |
-| 118 | 1114 | Groovy Catcher |
-| 119 | 1114 | Loopy Fallmatch |
+| 118 | 1114 | Loopy Fallmatch |
+| 119 | 1114 | Groovy Catcher |
 | 120 | 1105 | Adrian Marcel Pate |
 | 121 | 1093 | Angela M. Fletcher |
 | 122 | 1091 | Jennifer |
@@ -225,8 +225,8 @@
 | 217 | 715 | Karon Griffin |
 | 218 | 714 | Jenny Hrndz |
 | 219 | 713 | Stephanie Blkpep Davidson |
-| 220 | 709 | Christine Niles |
-| 221 | 709 | Cynthia Castros-Hampton |
+| 220 | 709 | Cynthia Castros-Hampton |
+| 221 | 709 | Christine Niles |
 | 222 | 708 | Stephanie Bradley |
 | 223 | 704 | Patti Skiles |
 | 224 | 703 | Shawn Miller |
@@ -243,8 +243,8 @@
 | 235 | 646 | Duane Bright |
 | 236 | 644 | Dawn Williams |
 | 237 | 642 | Rania Zaqout |
-| 238 | 641 | Tom Nault |
-| 239 | 641 | Kristal C Lee |
+| 238 | 641 | Kristal C Lee |
+| 239 | 641 | Tom Nault |
 | 240 | 640 | Dee Pratt |
 | 241 | 639 | Nichol Graham |
 | 242 | 635 | Amber Hughes |
@@ -432,8 +432,8 @@
 | 424 | 378 | Samantha Worley |
 | 425 | 378 | Ashley Lynn Marchese |
 | 426 | 377 | Paula Little |
-| 427 | 376 | Breanna Marsden |
-| 428 | 376 | Brittany |
+| 427 | 376 | Brittany |
+| 428 | 376 | Breanna Marsden |
 | 429 | 376 | Romeo |
 | 430 | 375 | Denise Marie |
 | 431 | 375 | NeeCee |
@@ -471,8 +471,8 @@
 | 463 | 353 | Eboni G. |
 | 464 | 353 | Cheeky Snapper |
 | 465 | 352 | LadyTorad |
-| 466 | 351 | Eon Harris |
-| 467 | 351 | Nelma |
+| 466 | 351 | Nelma |
+| 467 | 351 | Eon Harris |
 | 468 | 350 | Norma JulieMay |
 | 469 | 348 | Jimmie Clemons |
 | 470 | 348 | Ashley Raines |

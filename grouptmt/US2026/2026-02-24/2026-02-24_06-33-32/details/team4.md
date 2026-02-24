@@ -140,8 +140,8 @@
 | 132 | 704 | Chilly Crasher |
 | 133 | 682 | Raegan Lane-Ross |
 | 134 | 668 | Desi Desporte |
-| 135 | 667 | Lindsey Gonzalez |
-| 136 | 667 | Matt Gooder |
+| 135 | 667 | Matt Gooder |
+| 136 | 667 | Lindsey Gonzalez |
 | 137 | 662 | George Nutt |
 | 138 | 662 | Nerdy Twisterfit |
 | 139 | 661 | Rodney McMath Jr. |

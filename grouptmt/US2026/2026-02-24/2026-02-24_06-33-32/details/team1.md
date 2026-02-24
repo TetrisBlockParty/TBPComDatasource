@@ -167,12 +167,12 @@
 | 159 | 548 | Luciano Moreira |
 | 160 | 547 | Sharon Reynolds |
 | 161 | 546 | Loony Fitzone |
-| 162 | 543 | Nicole Roseberry Weber |
-| 163 | 543 | Adrian Esteban |
+| 162 | 543 | Adrian Esteban |
+| 163 | 543 | Nicole Roseberry Weber |
 | 164 | 540 | Tonya Beasley |
 | 165 | 538 | .running. |
-| 166 | 537 | Stephanie Zahn |
-| 167 | 537 | BadG52 |
+| 166 | 537 | BadG52 |
+| 167 | 537 | Stephanie Zahn |
 | 168 | 535 | Plucky Ziggy |
 | 169 | 532 | Νεφ Όνυξ |
 | 170 | 528 | ALFD |
@@ -239,8 +239,8 @@
 | 231 | 424 | Emily Adelaide Wheatley |
 | 232 | 423 | Howdi Duty |
 | 233 | 422 | Jamise Brown |
-| 234 | 421 | Letson Melissa |
-| 235 | 421 | Plucky Stacky |
+| 234 | 421 | Plucky Stacky |
+| 235 | 421 | Letson Melissa |
 | 236 | 420 | Jennifer Noe Chandler |
 | 237 | 419 | John J. Cronin |
 | 238 | 419 | Daring Fitclear |
@@ -261,8 +261,8 @@
 | 253 | 396 | Monica Donato |
 | 254 | 394 | Nick R Montague |
 | 255 | 393 | Wisa |
-| 256 | 392 | Renee Tucker |
-| 257 | 392 | Poppy Riserpiece |
+| 256 | 392 | Poppy Riserpiece |
+| 257 | 392 | Renee Tucker |
 | 258 | 391 | Happy Basegrid |
 | 259 | 390 | David Lutcher |
 | 260 | 386 | Angela Renea Lester |
@@ -274,7 +274,7 @@
 | 266 | 380 | Snippy Wipebuilder |
 | 267 | 379 | Austin James |
 | 268 | 378 | Eddie Dillon |
-| 269 | 377 | GATOR |
+| 269 | 377 | Rayline M Bradshaw |
 | 270 | 377 | DoodleBug |
 | 271 | 377 | GATOR |
 | 272 | 376 | Billie Ann Eason |

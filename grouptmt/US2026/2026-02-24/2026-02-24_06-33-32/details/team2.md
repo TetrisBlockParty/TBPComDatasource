@@ -30,7 +30,7 @@
 | 22 | 7480 | Kyle Saunders |
 | 23 | 7425 | PandaMama |
 | 24 | 7203 | Tiaira Patrice' |
-| 25 | 7130 | Claire Noland |
+| 25 | 7112 | Claire Noland |
 | 26 | 7018 | Kevin Wooddell |
 | 27 | 6963 | Melissa Rebbe-Lehman |
 | 28 | 6962 | Devin Lee |
@@ -368,8 +368,8 @@
 | 360 | 1222 | Kristin Gower |
 | 361 | 1218 | LaKisha Anderson |
 | 362 | 1217 | Brooks Brooks |
-| 363 | 1215 | Toni Roberson |
-| 364 | 1215 | Hyper Cluster |
+| 363 | 1215 | Hyper Cluster |
+| 364 | 1215 | Toni Roberson |
 | 365 | 1214 | David Cudicio-Hayden |
 | 366 | 1211 | Cynthia Ward |
 | 367 | 1210 | Amber Gray |
@@ -388,8 +388,8 @@
 | 380 | 1170 | Shelley Thornburgh Wright |
 | 381 | 1167 | Min |
 | 382 | 1164 | DefaultUser |
-| 383 | 1163 | Caitlin Schmid |
-| 384 | 1163 | Sarah DeHart |
+| 383 | 1163 | Sarah DeHart |
+| 384 | 1163 | Caitlin Schmid |
 | 385 | 1158 | Brittany Clark |
 | 386 | 1150 | Sheniya Spurgeon |
 | 387 | 1149 | Hoppy Brickmatch |
@@ -430,10 +430,10 @@
 | 422 | 1080 | Jennifer Monroe Kelly |
 | 423 | 1079 | Angela Bonquiqui Dinish |
 | 424 | 1079 | AndrewandShela Gornik |
-| 425 | 1076 | Angelina Marie |
-| 426 | 1075 | SaraMarie Eveland |
-| 427 | 1074 | Diana Ayers |
-| 428 | 1073 | Jodi Blake |
+| 425 | 1075 | SaraMarie Eveland |
+| 426 | 1074 | Diana Ayers |
+| 427 | 1073 | Jodi Blake |
+| 428 | 1071 | Kim Dean |
 | 429 | 1071 | Nashu |
 | 430 | 1068 | Tiffany Branham |
 | 431 | 1067 | Lourisha |
@@ -1138,8 +1138,8 @@
 | 1130 | 515 | Madysen Holt |
 | 1131 | 515 | Poppy |
 | 1132 | 514 | Melanie Csikortos |
-| 1133 | 513 | MrsCandyfine As Wine Truss |
-| 1134 | 513 | Stefanie Zonzini-Gagliardi |
+| 1133 | 513 | Stefanie Zonzini-Gagliardi |
+| 1134 | 513 | MrsCandyfine As Wine Truss |
 | 1135 | 511 | Sarah Sims |
 | 1136 | 510 | Steve Zortman |
 | 1137 | 509 | Pocho Zavala |
