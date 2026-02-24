@@ -1155,8 +1155,8 @@
 | 1147 | 443 | Lianne Giandalone LaBounty |
 | 1148 | 443 | N00D3S |
 | 1149 | 442 | Nutty Cascade |
-| 1150 | 442 | Kira Krause |
-| 1151 | 442 | Ashley Criner |
+| 1150 | 442 | Ashley Criner |
+| 1151 | 442 | Kira Krause |
 | 1152 | 442 | Shalena Marie Humphrey |
 | 1153 | 441 | Voltz Dave |
 | 1154 | 441 | Emoniee Sa'niaya |

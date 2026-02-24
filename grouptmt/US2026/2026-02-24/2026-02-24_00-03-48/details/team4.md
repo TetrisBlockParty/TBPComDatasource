@@ -235,8 +235,8 @@
 | 227 | 409 | Antony Dwayne Beasley |
 | 228 | 403 | TinyLegoRose |
 | 229 | 400 | Brickh4us |
-| 230 | 399 | Jeff Brian Gates |
-| 231 | 399 | Lindsay Ball |
+| 230 | 399 | Lindsay Ball |
+| 231 | 399 | Jeff Brian Gates |
 | 232 | 398 | Tyler Terrific |
 | 233 | 395 | 030Synner |
 | 234 | 394 | Nita Wells |
@@ -264,8 +264,8 @@
 | 256 | 369 | Matt Dell'Olio |
 | 257 | 368 | Kris Bartlett |
 | 258 | 367 | Meg |
-| 259 | 366 | Cheery Risebuilder |
-| 260 | 366 | Andrew Dang |
+| 259 | 366 | Andrew Dang |
+| 260 | 366 | Cheery Risebuilder |
 | 261 | 365 | Hyper Builder |
 | 262 | 364 | Joeliecea Cobb |
 | 263 | 361 | Danielle Kollias |
@@ -455,8 +455,8 @@
 | 447 | 227 | Asher |
 | 448 | 227 | Maria Hammie |
 | 449 | 225 | Jennifer Renee |
-| 450 | 224 | Ultramarine |
-| 451 | 224 | Vanessa Smart |
+| 450 | 224 | Vanessa Smart |
+| 451 | 224 | Ultramarine |
 | 452 | 223 | Brave Spinbuilder |
 | 453 | 223 | Jessica Atkinson |
 | 454 | 223 | Funky Risepiece |
@@ -494,8 +494,8 @@
 | 486 | 208 | Moonsterix |
 | 487 | 208 | Stacy |
 | 488 | 208 | Wacky Blockclear |
-| 489 | 207 | Jessica Wells |
-| 490 | 207 | Sam Middleton |
+| 489 | 207 | Sam Middleton |
+| 490 | 207 | Jessica Wells |
 | 491 | 207 | SammieJo Guy |
 | 492 | 206 | James Philpot Ross |
 | 493 | 206 | Grann8 |

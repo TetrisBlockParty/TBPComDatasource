@@ -221,9 +221,9 @@
 | 213 | 397 | Erin Rosberg |
 | 214 | 396 | Sam Williams |
 | 215 | 395 | Monica Donato |
-| 216 | 393 | Happy Snapbuild |
+| 216 | 393 | Lehrin Maria |
 | 217 | 393 | Wisa |
-| 218 | 393 | Lehrin Maria |
+| 218 | 393 | Happy Snapbuild |
 | 219 | 392 | Kathy Langham |
 | 220 | 389 | Speedy Liney |
 | 221 | 387 | Carrie Smith |
@@ -280,11 +280,11 @@
 | 272 | 345 | Keith Mathis |
 | 273 | 344 | dhardy |
 | 274 | 342 | Matt Iaccheo |
-| 275 | 341 | Nick R Montague |
-| 276 | 341 | Standia Civil |
+| 275 | 341 | Standia Civil |
+| 276 | 341 | Nick R Montague |
 | 277 | 341 | Letson Melissa |
-| 278 | 340 | Robert |
-| 279 | 340 | Danielle Little-Daugherty |
+| 278 | 340 | Danielle Little-Daugherty |
+| 279 | 340 | Robert |
 | 280 | 338 | Layzietyme |
 | 281 | 337 | Happy Basegrid |
 | 282 | 337 | Larissa Marie Nelson |
@@ -317,8 +317,8 @@
 | 309 | 311 | Nathan Sealander |
 | 310 | 310 | Mrs.Patrica |
 | 311 | 309 | Larry Tilton |
-| 312 | 308 | LD1 |
-| 313 | 308 | Glitzy Curvebuilder |
+| 312 | 308 | Glitzy Curvebuilder |
+| 313 | 308 | LD1 |
 | 314 | 306 | Cece Ibarra |
 | 315 | 305 | Amh |
 | 316 | 305 | Chase Collinsworth |

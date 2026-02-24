@@ -196,8 +196,8 @@
 | 188 | 715 | Karon Griffin |
 | 189 | 714 | Jenny Hrndz |
 | 190 | 708 | Nicole Myers |
-| 191 | 696 | Christine Niles |
-| 192 | 696 | Domo Washington |
+| 191 | 696 | Domo Washington |
+| 192 | 696 | Christine Niles |
 | 193 | 691 | Angela Scott |
 | 194 | 679 | Patti Skiles |
 | 195 | 677 | Mykal Burton |
@@ -637,8 +637,8 @@
 | 629 | 250 | Ashley Parham |
 | 630 | 249 | Emberblaze |
 | 631 | 249 | Sarah Tschee |
-| 632 | 248 | Stormy Anguish |
-| 633 | 248 | Frothy Glider |
+| 632 | 248 | Frothy Glider |
+| 633 | 248 | Stormy Anguish |
 | 634 | 248 | Smiley Zone |
 | 635 | 247 | Melanie Sherwood |
 | 636 | 247 | Cameron Lovell |
@@ -653,8 +653,8 @@
 | 645 | 244 | Beezwax |
 | 646 | 244 | Rebel124 |
 | 647 | 243 | paranoid |
-| 648 | 243 | BŘŰŤİÇŨŚ |
-| 649 | 243 | Lazy Matchfit |
+| 648 | 243 | Lazy Matchfit |
+| 649 | 243 | BŘŰŤİÇŨŚ |
 | 650 | 243 | Nicholas Roddy |
 | 651 | 241 | Jill Stickney |
 | 652 | 241 | David Bardo |
@@ -690,7 +690,7 @@
 | 682 | 232 | Sarah Morris |
 | 683 | 232 | Sunny Tiltgrid |
 | 684 | 232 | Tina Smith Roy |
-| 685 | 232 | Sarah Morris |
+| 685 | 232 | Stephanie Hill |
 | 686 | 231 | El Chapa |
 | 687 | 231 | Katie Morton |
 | 688 | 230 | Briana Wellman |
@@ -713,8 +713,8 @@
 | 705 | 227 | Angela VanOstrand |
 | 706 | 227 | Anastasia Williams |
 | 707 | 226 | Jumpy Wrecker |
-| 708 | 225 | Sassy Tiler |
-| 709 | 225 | Theresa Opell Gartner |
+| 708 | 225 | Theresa Opell Gartner |
+| 709 | 225 | Sassy Tiler |
 | 710 | 224 | Eboni G. |
 | 711 | 222 | Angel Miller |
 | 712 | 222 | Janay Darkstallion Robinson |
