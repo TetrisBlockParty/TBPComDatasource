@@ -160,8 +160,8 @@
 | 152 | 963 | Crystal Frey |
 | 153 | 961 | Danielle Allison |
 | 154 | 951 | Betty Rosas |
-| 155 | 950 | Giddy Drop |
-| 156 | 950 | MissTaylor |
+| 155 | 950 | MissTaylor |
+| 156 | 950 | Giddy Drop |
 | 157 | 947 | Kellie Montgomery |
 | 158 | 940 | Stephanie Allmon |
 | 159 | 936 | Dolores Falco |
@@ -282,13 +282,13 @@
 | 274 | 618 | Kaitie Oliver |
 | 275 | 609 | Connie Mohler-Fair |
 | 276 | 608 | Noyb Adam |
-| 277 | 604 | Sherry Ogden |
-| 278 | 604 | Bmo |
+| 277 | 604 | Bmo |
+| 278 | 604 | Sherry Ogden |
 | 279 | 600 | Natasha Jones |
 | 280 | 594 | Cozy Snaplink |
 | 281 | 591 | Crystal Hine |
-| 282 | 586 | Brian Battjes |
-| 283 | 586 | Donna |
+| 282 | 586 | Donna |
+| 283 | 586 | Brian Battjes |
 | 284 | 584 | Michael Johnson |
 | 285 | 583 | Michael Lucado |
 | 286 | 582 | FuzzyNavel |
@@ -306,8 +306,8 @@
 | 298 | 556 | Shiny Zonebuilder |
 | 299 | 555 | Danielle Weikel |
 | 300 | 552 | Scott Carleton |
-| 301 | 548 | Shannon Matthew Byers |
-| 302 | 548 | Chris Bell |
+| 301 | 548 | Chris Bell |
+| 302 | 548 | Shannon Matthew Byers |
 | 303 | 547 | Aerian Preston |
 | 304 | 545 | Stephanie Simpson |
 | 305 | 542 | France Vézina |
@@ -350,8 +350,8 @@
 | 342 | 482 | Travis W |
 | 343 | 480 | TLM |
 | 344 | 480 | Dee Franklin |
-| 345 | 476 | Stefanie LaPointe |
-| 346 | 476 | Shunta Jacobs |
+| 345 | 476 | Shunta Jacobs |
+| 346 | 476 | Stefanie LaPointe |
 | 347 | 475 | AC Yeater |
 | 348 | 474 | Troy |
 | 349 | 473 | Christian Werndl |
@@ -413,8 +413,8 @@
 | 405 | 418 | Rainbow77375 |
 | 406 | 417 | Krish Shah |
 | 407 | 416 | Tay |
-| 408 | 414 | Arden White Kirsch |
-| 409 | 414 | Michelle Allers |
+| 408 | 414 | Michelle Allers |
+| 409 | 414 | Arden White Kirsch |
 | 410 | 413 | Rick Poppen |
 | 411 | 411 | Beaudie Stroebel |
 | 412 | 409 | Rich LeBlanc |
@@ -626,8 +626,8 @@
 | 618 | 303 | Aeh |
 | 619 | 303 | Tosha Griffey |
 | 620 | 302 | Jessica |
-| 621 | 302 | Lickity Split |
-| 622 | 302 | Nicholas Roddy |
+| 621 | 302 | Nicholas Roddy |
+| 622 | 302 | Lickity Split |
 | 623 | 300 | Bdhdj |
 | 624 | 299 | Angie Harper |
 | 625 | 299 | Six |

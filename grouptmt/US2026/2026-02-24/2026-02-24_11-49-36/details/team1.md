@@ -278,8 +278,8 @@
 | 270 | 394 | Lynn Adams |
 | 271 | 394 | Nick R Montague |
 | 272 | 393 | Wisa |
-| 273 | 392 | Poppy Riserpiece |
-| 274 | 392 | Renee Tucker |
+| 273 | 392 | Renee Tucker |
+| 274 | 392 | Poppy Riserpiece |
 | 275 | 391 | Happy Basegrid |
 | 276 | 390 | David Lutcher |
 | 277 | 388 | Test |
@@ -311,8 +311,8 @@
 | 303 | 371 | Keith Mathis |
 | 304 | 370 | Gracie |
 | 305 | 368 | Avelyn Calamba |
-| 306 | 367 | Cheeky Pop |
-| 307 | 367 | April Jones |
+| 306 | 367 | April Jones |
+| 307 | 367 | Cheeky Pop |
 | 308 | 366 | J.F. Fields |
 | 309 | 365 | Shannon Marie Pitts |
 | 310 | 364 | Dawn Michelle Scheible |

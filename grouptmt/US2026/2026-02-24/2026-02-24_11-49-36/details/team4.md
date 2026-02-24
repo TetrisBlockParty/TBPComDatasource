@@ -117,8 +117,8 @@
 | 109 | 811 | Sassy Pattern |
 | 110 | 806 | Zippy Gridlock |
 | 111 | 805 | Mylo Lipscomb |
-| 112 | 802 | Denise Carlson |
-| 113 | 802 | Crystal Carroll |
+| 112 | 802 | Crystal Carroll |
+| 113 | 802 | Denise Carlson |
 | 114 | 801 | D3TROITB0RN74 |
 | 115 | 798 | Jewell Urban |
 | 116 | 784 | TheNeesh50 |
@@ -145,12 +145,12 @@
 | 137 | 682 | Raegan Lane-Ross |
 | 138 | 678 | Jessica Lynn Cutlip |
 | 139 | 668 | Desi Desporte |
-| 140 | 667 | Matt Gooder |
-| 141 | 667 | Swanky Fitline |
-| 142 | 667 | Lindsey Gonzalez |
+| 140 | 667 | Swanky Fitline |
+| 141 | 667 | Lindsey Gonzalez |
+| 142 | 667 | Matt Gooder |
 | 143 | 662 | Nerdy Twisterfit |
-| 144 | 661 | shar |
-| 145 | 661 | Rodney McMath Jr. |
+| 144 | 661 | Rodney McMath Jr. |
+| 145 | 661 | shar |
 | 146 | 651 | Adawna Swires |
 | 147 | 650 | April Rondinone |
 | 148 | 650 | Chris Hartig |
@@ -217,8 +217,8 @@
 | 209 | 508 | June Hoffman |
 | 210 | 507 | Andria Lynn |
 | 211 | 504 | Deanna Deckard |
-| 212 | 502 | Ericca Eldridge |
-| 213 | 502 | Christina Black |
+| 212 | 502 | Christina Black |
+| 213 | 502 | Ericca Eldridge |
 | 214 | 501 | Sharyn Lemire |
 | 215 | 499 | DonMega |
 | 216 | 499 | Kesha Brady |
@@ -237,8 +237,8 @@
 | 229 | 473 | Cranky Rollpiece |
 | 230 | 472 | Plucky Patternblock |
 | 231 | 465 | Leslie Thomas |
-| 232 | 464 | Zakia Monae |
-| 233 | 464 | Calvin Cannon |
+| 232 | 464 | Calvin Cannon |
+| 233 | 464 | Zakia Monae |
 | 234 | 463 | shark tato |
 | 235 | 462 | scott |
 | 236 | 462 | Crystal Nicolette Moore |
@@ -278,8 +278,8 @@
 | 270 | 421 | TinyLegoRose |
 | 271 | 419 | Hyper Matchclear |
 | 272 | 413 | Rio Rocha |
-| 273 | 411 | Backoff Recupe |
-| 274 | 411 | Autumn Kumzi |
+| 273 | 411 | Autumn Kumzi |
+| 274 | 411 | Backoff Recupe |
 | 275 | 410 | Lindsay Ball |
 | 276 | 409 | Antony Dwayne Beasley |
 | 277 | 409 | Brittany Little |
@@ -292,8 +292,8 @@
 | 284 | 402 | Nita Wells |
 | 285 | 398 | Tyler Terrific |
 | 286 | 397 | blockstar |
-| 287 | 395 | BigSammy420 |
-| 288 | 395 | Denise B |
+| 287 | 395 | Denise B |
+| 288 | 395 | BigSammy420 |
 | 289 | 394 | Nikki Rae Gordon |
 | 290 | 393 | Montiette Mcglown |
 | 291 | 390 | Ari Droff |
@@ -387,8 +387,8 @@
 | 379 | 314 | Kenna Gunderland |
 | 380 | 313 | Lazy Glidepiece |
 | 381 | 312 | Tawna Curry |
-| 382 | 311 | Reds Bella |
-| 383 | 311 | KayM |
+| 382 | 311 | KayM |
+| 383 | 311 | Reds Bella |
 | 384 | 308 | Angela Geist Jusinski |
 | 385 | 307 | Eri Kka |
 | 386 | 307 | Susan Williams |
@@ -406,8 +406,8 @@
 | 398 | 299 | Michael Snow |
 | 399 | 298 | Jenny Wells-Oakley |
 | 400 | 298 | Val Erie |
-| 401 | 297 | Allison Rose |
-| 402 | 297 | Brittany Marsh |
+| 401 | 297 | Brittany Marsh |
+| 402 | 297 | Allison Rose |
 | 403 | 296 | Deb Rubeck |
 | 404 | 294 | BootsMcGee |
 | 405 | 293 | Shiny Pivoty |
@@ -497,9 +497,9 @@
 | 489 | 248 | Bonnie Hurlbrink |
 | 490 | 247 | Sam Middleton |
 | 491 | 247 | RIFATSIKDER |
-| 492 | 246 | GBR |
-| 493 | 246 | Shanon Klair |
-| 494 | 246 | giantslover514 |
+| 492 | 246 | Shanon Klair |
+| 493 | 246 | giantslover514 |
+| 494 | 246 | GBR |
 | 495 | 245 | Brooke Kaune |
 | 496 | 244 | Steve Sperino |
 | 497 | 244 | Amanda Christine |
