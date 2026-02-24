@@ -283,8 +283,8 @@
 | 275 | 535 | kacihall |
 | 276 | 533 | BugMansMom |
 | 277 | 533 | Cheryl Hinch Tenbrook |
-| 278 | 529 | Michael Lucado |
-| 279 | 529 | rosy |
+| 278 | 529 | rosy |
+| 279 | 529 | Michael Lucado |
 | 280 | 528 | Lizabeth Fox |
 | 281 | 527 | Dapper Snap |
 | 282 | 521 | Cozy Snaplink |
@@ -444,9 +444,9 @@
 | 436 | 348 | Ashley Raines |
 | 437 | 348 | Jimmie Clemons |
 | 438 | 346 | Maggie |
-| 439 | 345 | victory |
-| 440 | 345 | Big T |
-| 441 | 345 | Misha Sanders |
+| 439 | 345 | Misha Sanders |
+| 440 | 345 | victory |
+| 441 | 345 | Big T |
 | 442 | 344 | Lys |
 | 443 | 343 | Christina Marie Swisher |
 | 444 | 343 | Eboni Starr |
@@ -458,8 +458,8 @@
 | 450 | 340 | Becca Engle |
 | 451 | 340 | Erika Thornton |
 | 452 | 338 | Michael Leblanc |
-| 453 | 336 | Kathleen Taylor |
-| 454 | 336 | luluraine |
+| 453 | 336 | luluraine |
+| 454 | 336 | Kathleen Taylor |
 | 455 | 336 | Saucy Buildout |
 | 456 | 335 | Mindy Phelps |
 | 457 | 335 | Sassy Brickmatch |
