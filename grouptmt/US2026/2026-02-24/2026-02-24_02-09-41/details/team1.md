@@ -77,8 +77,8 @@
 | 69 | 1003 | Amber Stoker |
 | 70 | 987 | TSwag |
 | 71 | 980 | Veronica Eve |
-| 72 | 966 | Francesca Gee |
-| 73 | 966 | Shalene Frederick Autrey |
+| 72 | 966 | Shalene Frederick Autrey |
+| 73 | 966 | Francesca Gee |
 | 74 | 961 | Jacqueline Williams |
 | 75 | 957 | Zippy Align |
 | 76 | 934 | Erin Hodges Plumb |
@@ -169,8 +169,8 @@
 | 161 | 522 | Constance Risner |
 | 162 | 519 | Anaid Sanchez |
 | 163 | 513 | Colena Davenport |
-| 164 | 511 | MomMom |
-| 165 | 511 | phrmblk24 |
+| 164 | 511 | phrmblk24 |
+| 165 | 511 | MomMom |
 | 166 | 510 | Rat666 |
 | 167 | 509 | Dandy Basegrid |
 | 168 | 508 | Arianna O'Brien |
@@ -533,9 +533,9 @@
 | 525 | 210 | Madbull |
 | 526 | 210 | Ruthie Mahoney Saunders-Browne |
 | 527 | 209 | Beau Galvan |
-| 528 | 208 | Gerald Richard Franke |
+| 528 | 208 | Jason Landon Sexton |
 | 529 | 208 | Donna Addison Williams |
-| 530 | 208 | Jason Landon Sexton |
+| 530 | 208 | Gerald Richard Franke |
 | 531 | 207 | Leslie Bush Yarbrough |
 | 532 | 206 | Matt Cinelli |
 | 533 | 206 | Mindy Gloska |
