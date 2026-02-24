@@ -365,8 +365,8 @@
 | 357 | 283 | Angela Geist Jusinski |
 | 358 | 283 | Jackie Clark |
 | 359 | 282 | Susan Williams |
-| 360 | 281 | Morti |
-| 361 | 281 | Paige Kittles |
+| 360 | 281 | Paige Kittles |
+| 361 | 281 | Morti |
 | 362 | 279 | Jim Hart |
 | 363 | 278 | Sarah Brown |
 | 364 | 276 | Cynthia Boudreau |

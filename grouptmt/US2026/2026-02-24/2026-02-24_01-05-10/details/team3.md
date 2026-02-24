@@ -60,8 +60,8 @@
 | 52 | 1772 | Liv Whetson |
 | 53 | 1754 | Nate Burnside |
 | 54 | 1739 | Tina Kay |
-| 55 | 1734 | Fancy Slam |
-| 56 | 1734 | Aaron Pitkin |
+| 55 | 1734 | Aaron Pitkin |
+| 56 | 1734 | Fancy Slam |
 | 57 | 1732 | Jessica Ann |
 | 58 | 1732 | Leah Barnett |
 | 59 | 1711 | Amanda Adkins |
@@ -154,8 +154,8 @@
 | 146 | 875 | Chasity |
 | 147 | 874 | Jessica Pineda-Lopez |
 | 148 | 873 | BadManSheLove |
-| 149 | 868 | Felicia Rocha |
-| 150 | 868 | Cranky Gridder |
+| 149 | 868 | Cranky Gridder |
+| 150 | 868 | Felicia Rocha |
 | 151 | 868 | Nicole Flippo |
 | 152 | 864 | Sunny Rotater |
 | 153 | 860 | Demetrious Shaw Sr. |
@@ -422,11 +422,11 @@
 | 414 | 348 | Jimmie Clemons |
 | 415 | 346 | AlsoJess |
 | 416 | 346 | Maggie |
-| 417 | 345 | Misha Sanders |
-| 418 | 345 | victory |
+| 417 | 345 | victory |
+| 418 | 345 | Misha Sanders |
 | 419 | 344 | Beaudie Stroebel |
-| 420 | 343 | Eboni Starr |
-| 421 | 343 | Christina Marie Swisher |
+| 420 | 343 | Christina Marie Swisher |
+| 421 | 343 | Eboni Starr |
 | 422 | 342 | Nelma |
 | 423 | 341 | Giggy Balanceblock |
 | 424 | 341 | Lys |
@@ -437,8 +437,8 @@
 | 429 | 338 | Michael Leblanc |
 | 430 | 336 | luluraine |
 | 431 | 336 | Saucy Buildout |
-| 432 | 334 | Stella |
-| 433 | 334 | Alice |
+| 432 | 334 | Alice |
+| 433 | 334 | Stella |
 | 434 | 334 | Spencer Nikki |
 | 435 | 333 | Giggly Brickroll |
 | 436 | 332 | Loony Slider |

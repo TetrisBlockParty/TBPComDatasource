@@ -162,8 +162,8 @@
 | 154 | 2023 | Tonya Brooks-Johnson |
 | 155 | 2005 | Cody Nishimura |
 | 156 | 1989 | Cozy Filler |
-| 157 | 1983 | Porsche' Nicole |
-| 158 | 1983 | Heather Westrum |
+| 157 | 1983 | Heather Westrum |
+| 158 | 1983 | Porsche' Nicole |
 | 159 | 1977 | Aimee Campbell |
 | 160 | 1962 | Nancy Reid |
 | 161 | 1960 | Michelle Lee |
@@ -276,10 +276,10 @@
 | 268 | 1351 | Ashie Ann |
 | 269 | 1351 | Denisha Dawkins |
 | 270 | 1348 | Sarah Freitas |
-| 271 | 1342 | Kelly A Green-Leach |
-| 272 | 1342 | Groovy Puzzle |
-| 273 | 1341 | Moose Griffith |
-| 274 | 1341 | Cassie Mercer |
+| 271 | 1342 | Groovy Puzzle |
+| 272 | 1342 | Kelly A Green-Leach |
+| 273 | 1341 | Cassie Mercer |
+| 274 | 1341 | Moose Griffith |
 | 275 | 1340 | Ryan Stadel |
 | 276 | 1338 | Diallo Sparkman |
 | 277 | 1337 | Lola C Davis |
@@ -342,7 +342,7 @@
 | 334 | 1164 | F-X |
 | 335 | 1164 | Kori Beth Babb |
 | 336 | 1158 | Brittany Clark |
-| 337 | 1156 | Carl Bradshaw |
+| 337 | 1156 | Arkei Luster |
 | 338 | 1156 | Alezandra Smith |
 | 339 | 1156 | Carl Bradshaw |
 | 340 | 1150 | Sheniya Spurgeon |
@@ -686,8 +686,8 @@
 | 678 | 671 | ນາງ ບີ ລາດຊະຈັກ |
 | 679 | 671 | Rose Fx |
 | 680 | 670 | Santana Miyagi |
-| 681 | 669 | Martina Gabrielle LaPolla |
-| 682 | 669 | Lathasa Newkirk |
+| 681 | 669 | Lathasa Newkirk |
+| 682 | 669 | Martina Gabrielle LaPolla |
 | 683 | 669 | mshir |
 | 684 | 668 | Giggy Grabber |
 | 685 | 668 | Jazzy Clusterline |
