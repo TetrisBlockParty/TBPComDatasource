@@ -143,10 +143,10 @@
 | 135 | 604 | Ryan Lunnin |
 | 136 | 601 | Evan Richmond |
 | 137 | 598 | Jessi Sauer |
-| 138 | 593 | Giddy Cascade |
-| 139 | 593 | Maria C. Hernandez |
-| 140 | 589 | Virginia Gray Floyd |
-| 141 | 589 | April Carroll |
+| 138 | 593 | Maria C. Hernandez |
+| 139 | 593 | Giddy Cascade |
+| 140 | 589 | April Carroll |
+| 141 | 589 | Virginia Gray Floyd |
 | 142 | 587 | Deanna L Hermanson |
 | 143 | 582 | Hellsin |
 | 144 | 577 | Tiger Lily |
@@ -167,8 +167,8 @@
 | 159 | 543 | Adrian Esteban |
 | 160 | 543 | Nicole Roseberry Weber |
 | 161 | 540 | Tonya Beasley |
-| 162 | 537 | BadG52 |
-| 163 | 537 | Stephanie Zahn |
+| 162 | 537 | Stephanie Zahn |
+| 163 | 537 | BadG52 |
 | 164 | 535 | Plucky Ziggy |
 | 165 | 533 | .running. |
 | 166 | 528 | ALFD |
@@ -207,8 +207,8 @@
 | 199 | 458 | Dizzy Slider |
 | 200 | 453 | Kimmie Kimms |
 | 201 | 448 | Yvonne Marie |
-| 202 | 446 | SkipTheSadSauce |
-| 203 | 446 | Spencer Lent |
+| 202 | 446 | Spencer Lent |
+| 203 | 446 | SkipTheSadSauce |
 | 204 | 442 | Reesey Enyart |
 | 205 | 441 | Kimberly Garcia |
 | 206 | 439 | Witty Builderfit |
@@ -336,8 +336,8 @@
 | 328 | 322 | Chris65 |
 | 329 | 321 | LD1 |
 | 330 | 320 | Zany Tiler |
-| 331 | 319 | Fresno Beotoni |
-| 332 | 319 | Crystal Cheresnowsky |
+| 331 | 319 | Crystal Cheresnowsky |
+| 332 | 319 | Fresno Beotoni |
 | 333 | 317 | Bloknboy |
 | 334 | 316 | Giggly Builderline |
 | 335 | 315 | san |
@@ -362,8 +362,8 @@
 | 354 | 300 | Logan McFarland |
 | 355 | 299 | Rachel Rogers |
 | 356 | 299 | Nathan William |
-| 357 | 298 | Glitzy Buildsnap |
-| 358 | 298 | Sweetts |
+| 357 | 298 | Sweetts |
+| 358 | 298 | Glitzy Buildsnap |
 | 359 | 298 | Sonia Marquis |
 | 360 | 297 | Billie Dawn Sparks |
 | 361 | 296 | Jeanna Dunn |
@@ -442,7 +442,7 @@
 | 434 | 258 | Tedashi |
 | 435 | 257 | Marc Abney |
 | 436 | 257 | Andrew Backes |
-| 437 | 257 | Marc Abney |
+| 437 | 257 | Funky Piecebuilder |
 | 438 | 256 | Mary Sheets |
 | 439 | 256 | Joe Coon |
 | 440 | 255 | Sunshine |
