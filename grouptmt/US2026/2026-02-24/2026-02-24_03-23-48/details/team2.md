@@ -119,8 +119,8 @@
 | 111 | 2687 | Kelsey Kyle Rhodes |
 | 112 | 2670 | Rosemadder |
 | 113 | 2666 | ShinyRose |
-| 114 | 2651 | Desiree Harris Rosch |
-| 115 | 2651 | Rebecca Doughman |
+| 114 | 2651 | Rebecca Doughman |
+| 115 | 2651 | Desiree Harris Rosch |
 | 116 | 2641 | Freya |
 | 117 | 2613 | Jen Tramack |
 | 118 | 2596 | Mema |
@@ -288,8 +288,8 @@
 | 280 | 1351 | Ashie Ann |
 | 281 | 1351 | Denisha Dawkins |
 | 282 | 1349 | Sarah Freitas |
-| 283 | 1342 | Groovy Puzzle |
-| 284 | 1342 | Kelly A Green-Leach |
+| 283 | 1342 | Kelly A Green-Leach |
+| 284 | 1342 | Groovy Puzzle |
 | 285 | 1341 | Moose Griffith |
 | 286 | 1341 | Cassie Mercer |
 | 287 | 1338 | Diallo Sparkman |
@@ -336,15 +336,15 @@
 | 328 | 1229 | Brenda Messer |
 | 329 | 1227 | Rebecca Miller |
 | 330 | 1225 | RAEPR05 |
-| 331 | 1222 | Nuke Morris |
-| 332 | 1222 | Ashle Scranton |
+| 331 | 1222 | Ashle Scranton |
+| 332 | 1222 | Nuke Morris |
 | 333 | 1222 | Kristin Gower |
 | 334 | 1218 | LaKisha Anderson |
 | 335 | 1217 | Brooks Brooks |
 | 336 | 1217 | Christina Lewis-Vickers |
 | 337 | 1216 | Pacynthia Williams |
-| 338 | 1215 | Hyper Cluster |
-| 339 | 1215 | Toni Roberson |
+| 338 | 1215 | Toni Roberson |
+| 339 | 1215 | Hyper Cluster |
 | 340 | 1214 | David Cudicio-Hayden |
 | 341 | 1211 | Cynthia Ward |
 | 342 | 1210 | Amber Gray |
@@ -420,9 +420,9 @@
 | 412 | 1044 | Hunter Connors |
 | 413 | 1043 | Brave Dropmatch |
 | 414 | 1042 | Kia Humphery |
-| 415 | 1042 | Matthew Barry |
+| 415 | 1042 | Spunkysmom |
 | 416 | 1042 | Mcintosh Brian Shalonda |
-| 417 | 1042 | Spunkysmom |
+| 417 | 1042 | Matthew Barry |
 | 418 | 1041 | Crystal Hoffman |
 | 419 | 1038 | Giggly Snap |
 | 420 | 1036 | Allison Lockyer |
@@ -482,8 +482,8 @@
 | 474 | 942 | Lisa Ongtowasruk |
 | 475 | 941 | Cool Clearer |
 | 476 | 940 | Jennifer Leigh |
-| 477 | 937 | Heather Schelkopf |
-| 478 | 937 | Fancy Twister |
+| 477 | 937 | Fancy Twister |
+| 478 | 937 | Heather Schelkopf |
 | 479 | 936 | Angie Bolton Workman |
 | 480 | 935 | Kayla |
 | 481 | 933 | Hershey Eastman |

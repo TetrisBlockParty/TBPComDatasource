@@ -109,8 +109,8 @@
 | 101 | 758 | Ash Galvan |
 | 102 | 756 | Cartier |
 | 103 | 748 | Lori Sanders- Davis |
-| 104 | 737 | Kellie |
-| 105 | 737 | Karin Gillen |
+| 104 | 737 | Karin Gillen |
+| 105 | 737 | Kellie |
 | 106 | 712 | Kristi Johnson |
 | 107 | 710 | Rachael |
 | 108 | 706 | Denice Dee |
@@ -188,8 +188,8 @@
 | 180 | 492 | Happy Snapbuild |
 | 181 | 490 | Jennifer Hardman |
 | 182 | 489 | Speedy Liney |
-| 183 | 488 | Hyper |
-| 184 | 488 | Ly Phethmany |
+| 183 | 488 | Ly Phethmany |
+| 184 | 488 | Hyper |
 | 185 | 487 | Eric DeSimone |
 | 186 | 479 | Snappy Matcher |
 | 187 | 479 | canbrick |
@@ -344,10 +344,10 @@
 | 336 | 312 | Michael |
 | 337 | 312 | Diane Byrd |
 | 338 | 311 | Nathan Sealander |
-| 339 | 310 | Marci Sanders |
-| 340 | 310 | Steph |
-| 341 | 308 | Katie Martin |
-| 342 | 308 | Agustin Duarte Orozco |
+| 339 | 310 | Steph |
+| 340 | 310 | Marci Sanders |
+| 341 | 308 | Agustin Duarte Orozco |
+| 342 | 308 | Katie Martin |
 | 343 | 306 | Sunny Shift |
 | 344 | 305 | Speedy Snapfall |
 | 345 | 305 | Damian Salem |

@@ -49,7 +49,7 @@
 | 41 | 2198 | Jamie Furr |
 | 42 | 2193 | Amanda Adkins |
 | 43 | 2144 | Delilah belle |
-| 44 | 2142 | Alanna Rogers |
+| 44 | 2122 | Alanna Rogers |
 | 45 | 2112 | Kay |
 | 46 | 2104 | Cheeky Rumbler |
 | 47 | 2086 | Rachel Bowers |
@@ -196,8 +196,8 @@
 | 188 | 772 | Twisty Brick LT |
 | 189 | 769 | Hasty Cascadefit |
 | 190 | 764 | Cyd061769 |
-| 191 | 763 | Tasha Gillespie |
-| 192 | 763 | Patricia White |
+| 191 | 763 | Patricia White |
+| 192 | 763 | Tasha Gillespie |
 | 193 | 760 | Kiki |
 | 194 | 759 | Khaleada McGill Banks |
 | 195 | 757 | Fancy Cascader |
@@ -286,8 +286,8 @@
 | 278 | 536 | Giddy Twistbuilder |
 | 279 | 536 | Shannon Matthew Byers |
 | 280 | 535 | kacihall |
-| 281 | 533 | Cheryl Hinch Tenbrook |
-| 282 | 533 | BugMansMom |
+| 281 | 533 | BugMansMom |
+| 282 | 533 | Cheryl Hinch Tenbrook |
 | 283 | 531 | rosy |
 | 284 | 529 | Michael Lucado |
 | 285 | 528 | Lizabeth Fox |

@@ -68,8 +68,8 @@
 | 60 | 1106 | Ashley Ingram |
 | 61 | 1098 | BertMofo |
 | 62 | 1089 | Alyssa Papen |
-| 63 | 1082 | Avy Absol |
-| 64 | 1082 | Dion Crommarty |
+| 63 | 1082 | Dion Crommarty |
+| 64 | 1082 | Avy Absol |
 | 65 | 1075 | Dustee Craddock-Harrison |
 | 66 | 1064 | Heather Tushner |
 | 67 | 1047 | Julian Garcia |
@@ -108,8 +108,8 @@
 | 100 | 798 | Jewell Urban |
 | 101 | 792 | Denise Carlson |
 | 102 | 781 | Brittney Griggs |
-| 103 | 780 | Keith Kelley |
-| 104 | 780 | TheNeesh50 |
+| 103 | 780 | TheNeesh50 |
+| 104 | 780 | Keith Kelley |
 | 105 | 779 | Nope Young |
 | 106 | 775 | Klo |
 | 107 | 768 | Trista Leah |
@@ -223,8 +223,8 @@
 | 215 | 452 | Aden Moss |
 | 216 | 449 | Danielle Kollias |
 | 217 | 448 | Mike Solo |
-| 218 | 447 | J-Rizzle |
-| 219 | 447 | Jen Mattei |
+| 218 | 447 | Jen Mattei |
+| 219 | 447 | J-Rizzle |
 | 220 | 446 | Mr. Party |
 | 221 | 444 | Shiny Fit |
 | 222 | 444 | Calvin Cannon |
@@ -344,17 +344,17 @@
 | 336 | 307 | Shukee Lo |
 | 337 | 307 | Kim Klutz Olson |
 | 338 | 306 | PeaceOs |
-| 339 | 306 | Jason Bosco |
+| 339 | 303 | Jason Bosco |
 | 340 | 302 | Jenna McGeorge |
 | 341 | 302 | Alan Zukowski |
-| 342 | 300 | Dana Scott |
-| 343 | 300 | Sarah Neathery |
-| 344 | 300 | Koral Hanke |
+| 342 | 300 | Koral Hanke |
+| 343 | 300 | Dana Scott |
+| 344 | 300 | Jason Frehner |
 | 345 | 300 | Carter Jones |
-| 346 | 300 | Jason Frehner |
+| 346 | 300 | Sarah Neathery |
 | 347 | 298 | Bradley Reeves |
-| 348 | 297 | Brittany Marsh |
-| 349 | 297 | Jackie Clark |
+| 348 | 297 | Jackie Clark |
+| 349 | 297 | Brittany Marsh |
 | 350 | 296 | Zethra Prenisha Rahming |
 | 351 | 295 | Cool Gridzone |
 | 352 | 295 | Deb Rubeck |
@@ -557,8 +557,8 @@
 | 549 | 201 | Michael Orris |
 | 550 | 200 | Frances Hui |
 | 551 | 199 | Eri Kka |
-| 552 | 197 | Loony Rotater |
-| 553 | 197 | Brian Owens |
+| 552 | 197 | Brian Owens |
+| 553 | 197 | Loony Rotater |
 | 554 | 196 | Julie McAfoos Swanson |
 | 555 | 195 | Christine Simmons |
 | 556 | 195 | Tabi Williams |
