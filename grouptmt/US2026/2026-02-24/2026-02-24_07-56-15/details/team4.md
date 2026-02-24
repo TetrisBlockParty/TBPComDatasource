@@ -122,8 +122,8 @@
 | 114 | 779 | Nope Young |
 | 115 | 776 | Savannah Overdorf |
 | 116 | 768 | Trista Leah |
-| 117 | 766 | Zippy Gridlock |
-| 118 | 766 | Robin Watters |
+| 117 | 766 | Robin Watters |
+| 118 | 766 | Zippy Gridlock |
 | 119 | 764 | Valerie Roberts |
 | 120 | 754 | Chris Alexinas |
 | 121 | 742 | Sam Bishop |
@@ -131,14 +131,14 @@
 | 123 | 735 | Nugget |
 | 124 | 731 | KJ Pool |
 | 125 | 729 | Jamie Mann-Deichmann |
-| 126 | 726 | Jamie Gustafson |
-| 127 | 726 | Amy Suckarieh |
+| 126 | 726 | Amy Suckarieh |
+| 127 | 726 | Jamie Gustafson |
 | 128 | 725 | Brandon Crabbs |
 | 129 | 712 | H.R. Block |
 | 130 | 712 | Leslie Nicole |
 | 131 | 708 | Jacqueline Helm |
-| 132 | 704 | Chilly Crasher |
-| 133 | 704 | Austin Owens |
+| 132 | 704 | Austin Owens |
+| 133 | 704 | Chilly Crasher |
 | 134 | 682 | Raegan Lane-Ross |
 | 135 | 668 | Desi Desporte |
 | 136 | 667 | Matt Gooder |
@@ -207,13 +207,13 @@
 | 199 | 513 | Milan Markeisha |
 | 200 | 513 | Zesty Twistbuilder |
 | 201 | 512 | ThaEviLJeNiuZ |
-| 202 | 512 | Ellen Durfee |
-| 203 | 512 | Casey Jeffcoat |
+| 202 | 512 | Casey Jeffcoat |
+| 203 | 512 | Ellen Durfee |
 | 204 | 509 | Mimi |
 | 205 | 507 | Andria Lynn |
 | 206 | 504 | Deanna Deckard |
-| 207 | 502 | Christina Black |
-| 208 | 502 | Ericca Eldridge |
+| 207 | 502 | Ericca Eldridge |
+| 208 | 502 | Christina Black |
 | 209 | 501 | Sharyn Lemire |
 | 210 | 499 | Kesha Brady |
 | 211 | 496 | Jessica Bohlken |
@@ -265,8 +265,8 @@
 | 257 | 421 | JIGsaw ~(•¿°)~ |
 | 258 | 419 | Hyper Matchclear |
 | 259 | 413 | Rio Rocha |
-| 260 | 411 | TinyLegoRose |
-| 261 | 411 | Autumn Kumzi |
+| 260 | 411 | Autumn Kumzi |
+| 261 | 411 | TinyLegoRose |
 | 262 | 410 | Lindsay Ball |
 | 263 | 409 | Joseph Guthrie |
 | 264 | 409 | Antony Dwayne Beasley |
@@ -315,8 +315,8 @@
 | 307 | 354 | @ |
 | 308 | 354 | Perky Piecegrid |
 | 309 | 352 | Kate |
-| 310 | 351 | Jackie Clark |
-| 311 | 351 | Dana Scott |
+| 310 | 351 | Dana Scott |
+| 311 | 351 | Jackie Clark |
 | 312 | 350 | Dizzy Matchzone |
 | 313 | 349 | Richard-April Kice |
 | 314 | 349 | jim |
@@ -350,11 +350,11 @@
 | 342 | 327 | Jessica Petersen |
 | 343 | 327 | Jim Hart |
 | 344 | 325 | Cool Gridzone |
-| 345 | 324 | Sarah Hoffman |
-| 346 | 324 | Vic |
+| 345 | 324 | Vic |
+| 346 | 324 | Sarah Hoffman |
 | 347 | 322 | Bryan Hodgins |
-| 348 | 321 | Sarah Brown |
-| 349 | 321 | Stacey Stano |
+| 348 | 321 | Stacey Stano |
+| 349 | 321 | Sarah Brown |
 | 350 | 320 | Alan Zukowski |
 | 351 | 320 | O block |
 | 352 | 319 | Jessica Fredericks |
@@ -440,9 +440,9 @@
 | 432 | 264 | Chantilly Laace |
 | 433 | 264 | Shh |
 | 434 | 263 | Laurmarcar |
-| 435 | 262 | Ruben Wheeler |
+| 435 | 262 | Walter Beltran |
 | 436 | 262 | Lilya Troutman |
-| 437 | 262 | Walter Beltran |
+| 437 | 262 | Ruben Wheeler |
 | 438 | 261 | Jen Hallin |
 | 439 | 261 | Laura McPheeters |
 | 440 | 260 | Dustin York |

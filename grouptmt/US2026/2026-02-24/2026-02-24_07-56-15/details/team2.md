@@ -456,8 +456,8 @@
 | 448 | 1049 | Giggly Snap |
 | 449 | 1048 | Sheronda Jackson |
 | 450 | 1043 | Brave Dropmatch |
-| 451 | 1042 | Matthew Barry |
-| 452 | 1042 | Spunkysmom |
+| 451 | 1042 | Spunkysmom |
+| 452 | 1042 | Matthew Barry |
 | 453 | 1041 | Crystal Hoffman |
 | 454 | 1037 | Steve Man |
 | 455 | 1036 | trabuco |
@@ -564,8 +564,8 @@
 | 556 | 885 | Giggy Mover |
 | 557 | 885 | Miranda Morris |
 | 558 | 883 | Hong Tang |
-| 559 | 882 | Sarah Massey |
-| 560 | 882 | Thomas Hedrick |
+| 559 | 882 | Thomas Hedrick |
+| 560 | 882 | Sarah Massey |
 | 561 | 881 | Layla LS |
 | 562 | 876 | Jelly |
 | 563 | 876 | Jessicah Myers |
@@ -930,8 +930,8 @@
 | 922 | 614 | Dandy Combo |
 | 923 | 613 | Allyson Marra |
 | 924 | 613 | Brenda Annabel Smith |
-| 925 | 612 | Marget Kay |
-| 926 | 612 | Goofy Catcher |
+| 925 | 612 | Goofy Catcher |
+| 926 | 612 | Marget Kay |
 | 927 | 611 | Robin L. Vial |
 | 928 | 611 | Roderick Allen |
 | 929 | 611 | Sharon Mills |

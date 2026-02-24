@@ -82,8 +82,8 @@
 | 74 | 1633 | cowboy25469 |
 | 75 | 1625 | Queen Kam |
 | 76 | 1615 | joclisa |
-| 77 | 1566 | Marcie Bressler |
-| 78 | 1566 | Nerdy Riseclear |
+| 77 | 1566 | Nerdy Riseclear |
+| 78 | 1566 | Marcie Bressler |
 | 79 | 1560 | Logan Naccarato |
 | 80 | 1555 | Snappy Glidepiece |
 | 81 | 1518 | Christine Filson |
@@ -109,8 +109,8 @@
 | 101 | 1309 | yoyo |
 | 102 | 1297 | Shelby Michelle |
 | 103 | 1290 | JerseyJess |
-| 104 | 1282 | Peppy Shifter |
-| 105 | 1282 | Amanda L Baker |
+| 104 | 1282 | Amanda L Baker |
+| 105 | 1282 | Peppy Shifter |
 | 106 | 1276 | Jessica Bechler |
 | 107 | 1274 | Sarah Fehring |
 | 108 | 1248 | Lori Barnaby |
@@ -125,8 +125,8 @@
 | 117 | 1134 | Melissa Orth Hunter |
 | 118 | 1124 | Stephanie Rice |
 | 119 | 1121 | Corie A. Brinson |
-| 120 | 1114 | Loopy Fallmatch |
-| 121 | 1114 | Groovy Catcher |
+| 120 | 1114 | Groovy Catcher |
+| 121 | 1114 | Loopy Fallmatch |
 | 122 | 1105 | Adrian Marcel Pate |
 | 123 | 1093 | Angela M. Fletcher |
 | 124 | 1091 | Jennifer |
@@ -155,10 +155,10 @@
 | 147 | 966 | Sashay Tapae Simpson |
 | 148 | 963 | Crystal Frey |
 | 149 | 961 | Danielle Allison |
-| 150 | 950 | Giddy Drop |
-| 151 | 950 | MissTaylor |
-| 152 | 940 | Patty Allen |
-| 153 | 940 | Stephanie Allmon |
+| 150 | 950 | MissTaylor |
+| 151 | 950 | Giddy Drop |
+| 152 | 940 | Stephanie Allmon |
+| 153 | 940 | Patty Allen |
 | 154 | 936 | Dolores Falco |
 | 155 | 925 | Cherry Parker |
 | 156 | 914 | Sarajane Lokan |
@@ -228,8 +228,8 @@
 | 220 | 715 | Karon Griffin |
 | 221 | 714 | Jenny Hrndz |
 | 222 | 713 | Stephanie Blkpep Davidson |
-| 223 | 709 | Cynthia Castros-Hampton |
-| 224 | 709 | Christine Niles |
+| 223 | 709 | Christine Niles |
+| 224 | 709 | Cynthia Castros-Hampton |
 | 225 | 708 | Stephanie Bradley |
 | 226 | 704 | Betty Bóò |
 | 227 | 703 | Shawn Miller |
@@ -307,8 +307,8 @@
 | 299 | 540 | rosy |
 | 300 | 539 | Fancy Curver |
 | 301 | 539 | Kate M. Murdock |
-| 302 | 536 | Shannon Matthew Byers |
-| 303 | 536 | Giddy Twistbuilder |
+| 302 | 536 | Giddy Twistbuilder |
+| 303 | 536 | Shannon Matthew Byers |
 | 304 | 535 | kacihall |
 | 305 | 533 | BugMansMom |
 | 306 | 532 | Sarah Muradyan |
@@ -334,8 +334,8 @@
 | 326 | 490 | Cassandra Bryant |
 | 327 | 489 | Isabel Ocasio |
 | 328 | 487 | MsBee |
-| 329 | 486 | Skippy |
-| 330 | 486 | Sleepy |
+| 329 | 486 | Sleepy |
+| 330 | 486 | Skippy |
 | 331 | 483 | Tegan Chapman |
 | 332 | 482 | Chummy Rumbler |
 | 333 | 481 | Tiffanie Alley |
@@ -355,8 +355,8 @@
 | 347 | 461 | Hyper Bridger |
 | 348 | 461 | Briana Wellman |
 | 349 | 460 | Antonia Russell |
-| 350 | 459 | Randy Clevenger |
-| 351 | 459 | TotoCherue |
+| 350 | 459 | TotoCherue |
+| 351 | 459 | Randy Clevenger |
 | 352 | 457 | Snippy Wipeout |
 | 353 | 456 | Kelly |
 | 354 | 456 | Cynthia Herrmann Egland |
@@ -368,15 +368,15 @@
 | 360 | 447 | Carrie Huskey |
 | 361 | 447 | Num1hater |
 | 362 | 446 | Swanky Frame |
-| 363 | 446 | Jennifer Alvey |
-| 364 | 446 | Shiny Zonebuilder |
+| 363 | 446 | Shiny Zonebuilder |
+| 364 | 446 | Jennifer Alvey |
 | 365 | 445 | Loopy Clusterer |
 | 366 | 444 | Heather De Vries Cobb |
 | 367 | 443 | Christian Werndl |
 | 368 | 442 | Loopy Fallzone |
 | 369 | 438 | Dannie Litchard |
-| 370 | 436 | AC Yeater |
-| 371 | 436 | Julie Fratrik |
+| 370 | 436 | Julie Fratrik |
+| 371 | 436 | AC Yeater |
 | 372 | 435 | Sabrina Hardrick |
 | 373 | 434 | Criss |
 | 374 | 432 | Sabrina Mansfield |
@@ -409,11 +409,11 @@
 | 401 | 407 | Christina Spa |
 | 402 | 406 | Kristen Weese |
 | 403 | 405 | Andrew Thorson |
-| 404 | 404 | Giggy Balanceblock |
-| 405 | 404 | Alice |
+| 404 | 404 | Alice |
+| 405 | 404 | Giggy Balanceblock |
 | 406 | 403 | Scott Lindsay |
-| 407 | 401 | Velma Mull |
-| 408 | 401 | block chick |
+| 407 | 401 | block chick |
+| 408 | 401 | Velma Mull |
 | 409 | 400 | Joy Petroski |
 | 410 | 398 | Breezy Roll |
 | 411 | 397 | Hasty Gridpiece |
@@ -769,7 +769,7 @@
 | 761 | 247 | Glitzy Rotate |
 | 762 | 247 | David Sims |
 | 763 | 247 | Taylor |
-| 764 | 246 | Quteeonduty |
+| 764 | 246 | MomOnBreak |
 | 765 | 246 | Erica Anderson |
 | 766 | 246 | Quteeonduty |
 | 767 | 245 | Martin Bernier |

@@ -47,8 +47,8 @@
 | 39 | 1411 | Snappy Swiper |
 | 40 | 1405 | Chipper Gridlock |
 | 41 | 1391 | Aaron Garnett |
-| 42 | 1334 | Tyler Alcock |
-| 43 | 1334 | june october |
+| 42 | 1334 | june october |
+| 43 | 1334 | Tyler Alcock |
 | 44 | 1325 | Drew Magnus |
 | 45 | 1305 | Michelle Nicole |
 | 46 | 1292 | Marianne Louise West |
@@ -65,8 +65,8 @@
 | 57 | 1173 | Adam Byrd |
 | 58 | 1170 | Tater |
 | 59 | 1150 | Cynthia Bradley |
-| 60 | 1137 | Jen Sartain |
-| 61 | 1137 | TSwag |
+| 60 | 1137 | TSwag |
+| 61 | 1137 | Jen Sartain |
 | 62 | 1127 | Andrea Dañielle Ortiz |
 | 63 | 1122 | Kristen Gideon |
 | 64 | 1114 | Jayme Sellers |
@@ -87,8 +87,8 @@
 | 79 | 994 | Lori Sanders- Davis |
 | 80 | 973 | Francesca Gee |
 | 81 | 961 | Jacqueline Williams |
-| 82 | 957 | Zippy Align |
-| 83 | 957 | Erin Hodges Plumb |
+| 82 | 957 | Erin Hodges Plumb |
+| 83 | 957 | Zippy Align |
 | 84 | 944 | Sweet Baker |
 | 85 | 920 | Tee Sheree |
 | 86 | 916 | Chirpy Smasher |
@@ -155,8 +155,8 @@
 | 147 | 598 | Jessi Sauer |
 | 148 | 593 | Giddy Cascade |
 | 149 | 587 | Deanna L Hermanson |
-| 150 | 586 | Tiger Lily |
-| 151 | 586 | Christy Jones |
+| 150 | 586 | Christy Jones |
+| 151 | 586 | Tiger Lily |
 | 152 | 582 | Hellsin |
 | 153 | 581 | Jennifer Hardman |
 | 154 | 574 | Bouncy Grid |
@@ -184,8 +184,8 @@
 | 176 | 525 | Arianna O'Brien |
 | 177 | 522 | Constance Risner |
 | 178 | 521 | Teri Oehlke |
-| 179 | 519 | Cool Shiftsnap |
-| 180 | 519 | Anaid Sanchez |
+| 179 | 519 | Anaid Sanchez |
+| 180 | 519 | Cool Shiftsnap |
 | 181 | 519 | phrmblk24 |
 | 182 | 514 | Chase Collinsworth |
 | 183 | 513 | Colena Davenport |
@@ -245,8 +245,8 @@
 | 237 | 424 | Serina Marie |
 | 238 | 423 | Howdi Duty |
 | 239 | 422 | Jamise Brown |
-| 240 | 421 | Letson Melissa |
-| 241 | 421 | Plucky Stacky |
+| 240 | 421 | Plucky Stacky |
+| 241 | 421 | Letson Melissa |
 | 242 | 420 | Jennifer Noe Chandler |
 | 243 | 419 | Daring Fitclear |
 | 244 | 419 | John J. Cronin |
@@ -351,8 +351,8 @@
 | 343 | 329 | Sarah Marie |
 | 344 | 329 | Larry Tilton |
 | 345 | 328 | Richard Corrado |
-| 346 | 327 | Christina Norman |
-| 347 | 327 | Gina Bettikofer |
+| 346 | 327 | Gina Bettikofer |
+| 347 | 327 | Christina Norman |
 | 348 | 326 | Jasmine Riley |
 | 349 | 325 | GringaLinga |
 | 350 | 325 | Mitchel White |
@@ -368,8 +368,8 @@
 | 360 | 317 | Amh |
 | 361 | 316 | Giggly Builderline |
 | 362 | 315 | san |
-| 363 | 313 | Steph |
-| 364 | 313 | Delvison Rosario |
+| 363 | 313 | Delvison Rosario |
+| 364 | 313 | Steph |
 | 365 | 312 | Diane Byrd |
 | 366 | 312 | Nicole Meredith Flynn |
 | 367 | 311 | Rico Rico |
@@ -381,8 +381,8 @@
 | 373 | 308 | Katie Martin |
 | 374 | 308 | Agustin Duarte Orozco |
 | 375 | 306 | Sunny Shift |
-| 376 | 305 | Tavia |
-| 377 | 305 | Speedy Snapfall |
+| 376 | 305 | Speedy Snapfall |
+| 377 | 305 | Tavia |
 | 378 | 305 | Damian Salem |
 | 379 | 304 | Chummy Rollblock |
 | 380 | 302 | Jenny Gingrich Fuentes |
@@ -436,8 +436,8 @@
 | 428 | 281 | Shiny Snapline |
 | 429 | 281 | Sunshine |
 | 430 | 281 | Jessie |
-| 431 | 280 | Kayla Marie Stevenson |
-| 432 | 280 | Llewej Rekab |
+| 431 | 280 | Llewej Rekab |
+| 432 | 280 | Kayla Marie Stevenson |
 | 433 | 279 | Chris Dawson |
 | 434 | 279 | Herm Junior |
 | 435 | 278 | Thorne Shumate |
@@ -491,8 +491,8 @@
 | 483 | 255 | Zesty Brickzone |
 | 484 | 254 | Kipoi |
 | 485 | 252 | Angela Dawn Torres-Tarrants |
-| 486 | 251 | Randy Broadwater |
-| 487 | 251 | MRdot Rooski |
+| 486 | 251 | MRdot Rooski |
+| 487 | 251 | Randy Broadwater |
 | 488 | 250 | Emmarieta Mendez |
 | 489 | 249 | Mary Cerciello |
 | 490 | 249 | GentleKitten7 |
@@ -610,8 +610,8 @@
 | 602 | 206 | Matt Cinelli |
 | 603 | 205 | Alphonza Keyes Jr. |
 | 604 | 205 | Davery Spencer Adair |
-| 605 | 205 | Alphonza Keyes Jr. |
-| 606 | 205 | Sam Rosado |
+| 605 | 205 | Sam Rosado |
+| 606 | 205 | Lauren Baxter |
 | 607 | 204 | Jill King Oldham |
 | 608 | 203 | Ashley Rodriguez |
 | 609 | 203 | MelSavage |
@@ -1348,7 +1348,7 @@
 | 1340 | 63 | Gerriann Jordan |
 | 1341 | 63 | Bouncy Fitzone |
 | 1342 | 63 | Cari Brown Cady |
-| 1343 | 63 | pat |
+| 1343 | 63 | Christa Payton |
 | 1344 | 63 | Shelley Dose |
 | 1345 | 63 | Lincon |
 | 1346 | 63 | pat |
