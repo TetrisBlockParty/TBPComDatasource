@@ -99,8 +99,8 @@
 | 91 | 878 | Lucille Truesdale |
 | 92 | 873 | Courtney Cicoria |
 | 93 | 869 | Judy Cox |
-| 94 | 864 | Samantha Peterson |
-| 95 | 864 | Guy Incognito |
+| 94 | 864 | Guy Incognito |
+| 95 | 864 | Samantha Peterson |
 | 96 | 854 | Shauna Havard |
 | 97 | 851 | Jason Hart |
 | 98 | 846 | Christine Marie |
@@ -130,8 +130,8 @@
 | 122 | 735 | Nugget |
 | 123 | 731 | KJ Pool |
 | 124 | 729 | Jamie Mann-Deichmann |
-| 125 | 726 | Amy Suckarieh |
-| 126 | 726 | Jamie Gustafson |
+| 125 | 726 | Jamie Gustafson |
+| 126 | 726 | Amy Suckarieh |
 | 127 | 725 | Brandon Crabbs |
 | 128 | 712 | Leslie Nicole |
 | 129 | 712 | H.R. Block |
@@ -168,8 +168,8 @@
 | 160 | 590 | Angela Srubar-Norman |
 | 161 | 589 | Livvy |
 | 162 | 587 | YoMomma |
-| 163 | 586 | Carlos Ramirez |
-| 164 | 586 | Latisha Davis |
+| 163 | 586 | Latisha Davis |
+| 164 | 586 | Carlos Ramirez |
 | 165 | 585 | Tracey Lehmann |
 | 166 | 584 | Carlton Unfiltered |
 | 167 | 576 | Jade Rian |
@@ -207,8 +207,8 @@
 | 199 | 513 | Erin Thomas |
 | 200 | 513 | Zesty Twistbuilder |
 | 201 | 512 | Ellen Durfee |
-| 202 | 512 | ThaEviLJeNiuZ |
-| 203 | 512 | Ellen Durfee |
+| 202 | 512 | Casey Jeffcoat |
+| 203 | 512 | ThaEviLJeNiuZ |
 | 204 | 509 | Mimi |
 | 205 | 507 | Andria Lynn |
 | 206 | 504 | Deanna Deckard |
@@ -236,13 +236,13 @@
 | 228 | 460 | Kathy Brookins |
 | 229 | 458 | Luis Martinez |
 | 230 | 458 | Kristina Black |
-| 231 | 457 | Kristin Manee |
-| 232 | 457 | J-Rizzle |
+| 231 | 457 | J-Rizzle |
+| 232 | 457 | Kristin Manee |
 | 233 | 455 | Michele Plunkett |
 | 234 | 454 | Keshia Lyons |
 | 235 | 449 | Danielle Kollias |
-| 236 | 448 | Mike Solo |
-| 237 | 448 | Mr. Party |
+| 236 | 448 | Mr. Party |
+| 237 | 448 | Mike Solo |
 | 238 | 447 | Jen Mattei |
 | 239 | 444 | Selena Shaw |
 | 240 | 442 | John Brunetti |
@@ -264,8 +264,8 @@
 | 256 | 421 | JIGsaw ~(•¿°)~ |
 | 257 | 419 | Hyper Matchclear |
 | 258 | 413 | Rio Rocha |
-| 259 | 411 | TinyLegoRose |
-| 260 | 411 | Autumn Kumzi |
+| 259 | 411 | Autumn Kumzi |
+| 260 | 411 | TinyLegoRose |
 | 261 | 410 | Lindsay Ball |
 | 262 | 409 | Joseph Guthrie |
 | 263 | 409 | Bio Nelly |
@@ -275,8 +275,8 @@
 | 267 | 407 | Rafael Valentin |
 | 268 | 407 | Hyper Builder |
 | 269 | 402 | Nita Wells |
-| 270 | 399 | Twisty Cascadezone |
-| 271 | 399 | 030Synner |
+| 270 | 399 | 030Synner |
+| 271 | 399 | Twisty Cascadezone |
 | 272 | 398 | Tyler Terrific |
 | 273 | 397 | blockstar |
 | 274 | 397 | Genne Scott |
@@ -510,8 +510,8 @@
 | 502 | 233 | Gigglelymomof2 |
 | 503 | 233 | Joseph Edmonson |
 | 504 | 232 | Sticherella |
-| 505 | 232 | Becky Shimko |
-| 506 | 232 | Dandy Cascadefit |
+| 505 | 232 | Dandy Cascadefit |
+| 506 | 232 | Becky Shimko |
 | 507 | 231 | Loony Rotater |
 | 508 | 230 | Martha Lucinda Bishop |
 | 509 | 230 | Joey Riley |

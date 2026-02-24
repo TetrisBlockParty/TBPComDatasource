@@ -313,8 +313,8 @@
 | 305 | 1351 | Denisha Dawkins |
 | 306 | 1345 | Shiny Twistfit |
 | 307 | 1343 | Sarah Berger |
-| 308 | 1342 | Kelly A Green-Leach |
-| 309 | 1342 | Groovy Puzzle |
+| 308 | 1342 | Groovy Puzzle |
+| 309 | 1342 | Kelly A Green-Leach |
 | 310 | 1341 | Cassie Mercer |
 | 311 | 1340 | Tralonda Weeks |
 | 312 | 1338 | Meghan M |
@@ -581,8 +581,8 @@
 | 573 | 854 | Dawn L Washington-Feuquay |
 | 574 | 854 | Gold Rose |
 | 575 | 852 | Polly Pritchard Chesler |
-| 576 | 852 | Catherine Marsh Gruda |
-| 577 | 852 | Alexandra Lynn |
+| 576 | 852 | Alexandra Lynn |
+| 577 | 852 | Catherine Marsh Gruda |
 | 578 | 851 | Melissa Schulz |
 | 579 | 851 | James Louie |
 | 580 | 850 | Sabrina Burton |
@@ -936,10 +936,10 @@
 | 928 | 611 | Tom Steffen |
 | 929 | 610 | TJ Nash |
 | 930 | 609 | Michael Artis |
-| 931 | 607 | Dizzy Zone |
-| 932 | 607 | Slip |
-| 933 | 606 | Ebony Deloach Bryant |
-| 934 | 606 | Stanislav Petkov |
+| 931 | 607 | Slip |
+| 932 | 607 | Dizzy Zone |
+| 933 | 606 | Stanislav Petkov |
+| 934 | 606 | Ebony Deloach Bryant |
 | 935 | 606 | cel505♡ |
 | 936 | 605 | Tipsy Filler |
 | 937 | 605 | Saucy Fitzone |
@@ -977,8 +977,8 @@
 | 969 | 589 | Sharon Madeiros |
 | 970 | 588 | Wayne Fields |
 | 971 | 587 | Alexx Anaya |
-| 972 | 586 | Cat Thompson |
-| 973 | 586 | Tracy Wise Moon |
+| 972 | 586 | Tracy Wise Moon |
+| 973 | 586 | Cat Thompson |
 | 974 | 586 | Tra Barnum |
 | 975 | 585 | Danielle DeLozier Plesec |
 | 976 | 585 | Laquetta Royston |
@@ -990,8 +990,8 @@
 | 982 | 580 | Ethan Stienbarger |
 | 983 | 580 | Gael |
 | 984 | 580 | Cheery Matchzone |
-| 985 | 579 | Leah LaShomb |
-| 986 | 579 | Roy Salyer |
+| 985 | 579 | Roy Salyer |
+| 986 | 579 | Leah LaShomb |
 | 987 | 579 | Bec |
 | 988 | 579 | Ashley Taylor |
 | 989 | 579 | Funky Caster |
@@ -1527,8 +1527,8 @@
 | 1519 | 403 | Janessa Pafford |
 | 1520 | 403 | Selph SpazDevil-Selph |
 | 1521 | 403 | Jolly Zonebuilder |
-| 1522 | 403 | Ciera Nicole |
-| 1523 | 403 | Trina Harrison |
+| 1522 | 403 | Trina Harrison |
+| 1523 | 403 | Ciera Nicole |
 | 1524 | 403 | Roger Plum |
 | 1525 | 403 | Jumpy Cascader |
 | 1526 | 402 | Luciano Andre Versace Grismondie |

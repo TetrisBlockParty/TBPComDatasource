@@ -358,12 +358,12 @@
 | 350 | 325 | GringaLinga |
 | 351 | 324 | Brave Wrecker |
 | 352 | 323 | Nadine Velardo |
-| 353 | 322 | Hasty Columnbuilder |
-| 354 | 322 | Chris65 |
+| 353 | 322 | Chris65 |
+| 354 | 322 | Hasty Columnbuilder |
 | 355 | 321 | LD1 |
 | 356 | 320 | Zany Tiler |
-| 357 | 319 | Crystal Cheresnowsky |
-| 358 | 319 | Fresno Beotoni |
+| 357 | 319 | Fresno Beotoni |
+| 358 | 319 | Crystal Cheresnowsky |
 | 359 | 317 | Amh |
 | 360 | 317 | Bloknboy |
 | 361 | 316 | Giggly Builderline |
@@ -480,7 +480,7 @@
 | 472 | 258 | Marc Abney |
 | 473 | 257 | Funky Piecebuilder |
 | 474 | 257 | Frisky Risebuilder |
-| 475 | 257 | Funky Piecebuilder |
+| 475 | 257 | Andrew Backes |
 | 476 | 256 | Mary Crisp |
 | 477 | 256 | Mary Sheets |
 | 478 | 255 | Goobette |

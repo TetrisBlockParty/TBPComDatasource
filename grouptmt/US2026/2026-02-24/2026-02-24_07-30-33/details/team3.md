@@ -104,13 +104,13 @@
 | 96 | 1361 | Patricia Gadsden |
 | 97 | 1343 | Joey Banks |
 | 98 | 1320 | Kristie |
-| 99 | 1318 | Tiff Vs Tiffany |
-| 100 | 1318 | Diana Ibarra |
+| 99 | 1318 | Diana Ibarra |
+| 100 | 1318 | Tiff Vs Tiffany |
 | 101 | 1309 | yoyo |
 | 102 | 1297 | Shelby Michelle |
 | 103 | 1290 | JerseyJess |
-| 104 | 1282 | Peppy Shifter |
-| 105 | 1282 | Amanda L Baker |
+| 104 | 1282 | Amanda L Baker |
+| 105 | 1282 | Peppy Shifter |
 | 106 | 1276 | Jessica Bechler |
 | 107 | 1274 | Sarah Fehring |
 | 108 | 1248 | Lori Barnaby |
@@ -180,8 +180,8 @@
 | 172 | 857 | Dana Fox |
 | 173 | 856 | Dana Winters |
 | 174 | 854 | Speedy Bridger |
-| 175 | 847 | Daira Largen |
-| 176 | 847 | Daring Brickzone |
+| 175 | 847 | Daring Brickzone |
+| 176 | 847 | Daira Largen |
 | 177 | 846 | Nicole Myers |
 | 178 | 845 | Edwin Calvillo Jr. |
 | 179 | 832 | Alexmac |
@@ -252,8 +252,8 @@
 | 244 | 633 | Jillian Symons |
 | 245 | 630 | Jackie Miller |
 | 246 | 629 | rnr junky |
-| 247 | 627 | Juliana Dottore |
-| 248 | 627 | Louise Stacy Sisson |
+| 247 | 627 | Louise Stacy Sisson |
+| 248 | 627 | Juliana Dottore |
 | 249 | 626 | Cheryl Hinch Tenbrook |
 | 250 | 625 | Jacqueline Rodriguez |
 | 251 | 624 | Hyper Matchzone |
@@ -261,8 +261,8 @@
 | 253 | 623 | Rebecca Funderburk Kirby |
 | 254 | 620 | Tamara Deherrera |
 | 255 | 619 | Swanky Snapclear |
-| 256 | 618 | Kaitie Oliver |
-| 257 | 618 | Betty Bóò |
+| 256 | 618 | Betty Bóò |
+| 257 | 618 | Kaitie Oliver |
 | 258 | 606 | Connie Mohler-Fair |
 | 259 | 605 | Sarah Cowan Burgos |
 | 260 | 604 | Bmo |
@@ -323,9 +323,9 @@
 | 315 | 506 | Ammmmmmy |
 | 316 | 505 | Stephanie Simpson |
 | 317 | 500 | Ashley Tookes |
-| 318 | 499 | Rebecca Bailey |
-| 319 | 499 | Megan Rathmanner |
-| 320 | 499 | Gumbo |
+| 318 | 499 | Gumbo |
+| 319 | 499 | Rebecca Bailey |
+| 320 | 499 | Megan Rathmanner |
 | 321 | 496 | Brenda Schmid Wood |
 | 322 | 495 | Daring Builder |
 | 323 | 494 | fraulila |
@@ -343,8 +343,8 @@
 | 335 | 479 | Charles Perrone |
 | 336 | 476 | Shunta Jacobs |
 | 337 | 474 | Troy |
-| 338 | 471 | Sarah Moyer |
-| 339 | 471 | Mendoza Lee Christy |
+| 338 | 471 | Mendoza Lee Christy |
+| 339 | 471 | Sarah Moyer |
 | 340 | 467 | Danielle Rhoades |
 | 341 | 467 | Jul |
 | 342 | 465 | Noettín Kan Zasnemoore |
@@ -355,11 +355,11 @@
 | 347 | 461 | Hyper Bridger |
 | 348 | 461 | Briana Wellman |
 | 349 | 460 | Antonia Russell |
-| 350 | 459 | TotoCherue |
-| 351 | 459 | Randy Clevenger |
+| 350 | 459 | Randy Clevenger |
+| 351 | 459 | TotoCherue |
 | 352 | 457 | Snippy Wipeout |
-| 353 | 456 | Kelly |
-| 354 | 456 | Cynthia Herrmann Egland |
+| 353 | 456 | Cynthia Herrmann Egland |
+| 354 | 456 | Kelly |
 | 355 | 455 | Kelly Wolf |
 | 356 | 450 | Stefanie LaPointe |
 | 357 | 450 | Luciana Braganca Vieira |
@@ -375,8 +375,8 @@
 | 367 | 443 | Christian Werndl |
 | 368 | 442 | Loopy Fallzone |
 | 369 | 438 | Dannie Litchard |
-| 370 | 436 | AC Yeater |
-| 371 | 436 | Julie Fratrik |
+| 370 | 436 | Julie Fratrik |
+| 371 | 436 | AC Yeater |
 | 372 | 435 | Sabrina Hardrick |
 | 373 | 434 | Criss |
 | 374 | 432 | Sabrina Mansfield |
@@ -391,8 +391,8 @@
 | 383 | 426 | Christina Rotz Shows |
 | 384 | 425 | Ava Petito |
 | 385 | 423 | Dapper Liney |
-| 386 | 419 | Philip Rock |
-| 387 | 419 | Desiree Gold |
+| 386 | 419 | Desiree Gold |
+| 387 | 419 | Philip Rock |
 | 388 | 419 | Maggie |
 | 389 | 418 | Rainbow77375 |
 | 390 | 416 | Tay |
@@ -463,9 +463,9 @@
 | 455 | 359 | Ann Hammac |
 | 456 | 359 | Kathleen Taylor |
 | 457 | 359 | Krish Shah |
-| 458 | 358 | Hyper Twisterfit |
-| 459 | 358 | Taylor Culver |
-| 460 | 358 | Beejangles |
+| 458 | 358 | Beejangles |
+| 459 | 358 | Hyper Twisterfit |
+| 460 | 358 | Taylor Culver |
 | 461 | 357 | Hoài Quắt |
 | 462 | 356 | Trice Sodames |
 | 463 | 356 | Christy Quick |
@@ -476,8 +476,8 @@
 | 468 | 353 | Cheeky Snapper |
 | 469 | 353 | Eboni G. |
 | 470 | 352 | LadyTorad |
-| 471 | 351 | Nelma |
-| 472 | 351 | Eon Harris |
+| 471 | 351 | Eon Harris |
+| 472 | 351 | Nelma |
 | 473 | 348 | atomictrin |
 | 474 | 348 | Jimmie Clemons |
 | 475 | 348 | Ashley Raines |
