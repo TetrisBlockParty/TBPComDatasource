@@ -109,8 +109,8 @@
 | 101 | 706 | Denice Dee |
 | 102 | 706 | Plucky Fallzone |
 | 103 | 703 | Angel Fowler |
-| 104 | 691 | Rachael |
-| 105 | 691 | Krista Young |
+| 104 | 691 | Krista Young |
+| 105 | 691 | Rachael |
 | 106 | 690 | Melissa Lemmon |
 | 107 | 672 | Tdub |
 | 108 | 671 | Chirpy Smasher |
@@ -239,9 +239,9 @@
 | 231 | 389 | Howdi Duty |
 | 232 | 386 | Brian Spotts |
 | 233 | 384 | Tami Luce Martin |
-| 234 | 383 | Margo Wagner |
+| 234 | 383 | pjbeta |
 | 235 | 383 | Jen Nystrom |
-| 236 | 383 | pjbeta |
+| 236 | 383 | Margo Wagner |
 | 237 | 382 | David Lutcher |
 | 238 | 382 | Angela Renea Lester |
 | 239 | 381 | Happy Basegrid |

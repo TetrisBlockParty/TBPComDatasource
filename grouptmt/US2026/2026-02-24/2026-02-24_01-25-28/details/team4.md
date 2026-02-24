@@ -26,8 +26,8 @@
 | 18 | 2365 | Elizabeth Sallas |
 | 19 | 2002 | Misty Hollibaugh |
 | 20 | 1962 | Cool Buildout |
-| 21 | 1775 | Ash |
-| 22 | 1775 | Dustin Robert |
+| 21 | 1775 | Dustin Robert |
+| 22 | 1775 | Ash |
 | 23 | 1764 | Jason Allen |
 | 24 | 1742 | Ancient Intuition |
 | 25 | 1706 | Ayanna Soto |
