@@ -127,8 +127,8 @@
 | 119 | 1134 | Melissa Orth Hunter |
 | 120 | 1124 | Stephanie Rice |
 | 121 | 1121 | Corie A. Brinson |
-| 122 | 1114 | Loopy Fallmatch |
-| 123 | 1114 | Groovy Catcher |
+| 122 | 1114 | Groovy Catcher |
+| 123 | 1114 | Loopy Fallmatch |
 | 124 | 1105 | Adrian Marcel Pate |
 | 125 | 1093 | Angela M. Fletcher |
 | 126 | 1091 | Jennifer |
@@ -167,8 +167,8 @@
 | 159 | 928 | Edwin Calvillo Jr. |
 | 160 | 925 | Cherry Parker |
 | 161 | 914 | BadManSheLove |
-| 162 | 910 | Staci George Fitzsimmons |
-| 163 | 910 | opf |
+| 162 | 910 | opf |
+| 163 | 910 | Staci George Fitzsimmons |
 | 164 | 906 | Patti Skiles |
 | 165 | 899 | Jaime Monhaut-Reed |
 | 166 | 894 | Denita Mungro |
@@ -218,8 +218,8 @@
 | 210 | 760 | Kiki |
 | 211 | 759 | Mykal Burton |
 | 212 | 757 | Fancy Cascader |
-| 213 | 755 | Laura Booth Wosko |
-| 214 | 755 | Colton |
+| 213 | 755 | Colton |
+| 214 | 755 | Laura Booth Wosko |
 | 215 | 754 | CeceGeGe |
 | 216 | 753 | Morgan Martinez |
 | 217 | 752 | Joye Sims Binion |
@@ -238,10 +238,10 @@
 | 230 | 708 | Stephanie Bradley |
 | 231 | 704 | Betty Bóò |
 | 232 | 703 | Shawn Miller |
-| 233 | 693 | lashanda |
-| 234 | 693 | Heather Davis |
-| 235 | 691 | Snappy Balancer |
-| 236 | 691 | Tia |
+| 233 | 693 | Heather Davis |
+| 234 | 693 | lashanda |
+| 235 | 691 | Tia |
+| 236 | 691 | Snappy Balancer |
 | 237 | 687 | joz |
 | 238 | 683 | Tamara Deherrera |
 | 239 | 680 | Terry Jo Jones |
@@ -324,8 +324,8 @@
 | 316 | 523 | Ktfreeee |
 | 317 | 518 | Marquita Sheard |
 | 318 | 514 | Nikki White |
-| 319 | 506 | Ammmmmmy |
-| 320 | 506 | Tiffanie Alley |
+| 319 | 506 | Tiffanie Alley |
+| 320 | 506 | Ammmmmmy |
 | 321 | 505 | Stephanie Simpson |
 | 322 | 504 | Daring Builder |
 | 323 | 500 | Ashley Tookes |
@@ -409,8 +409,8 @@
 | 401 | 419 | Maggie |
 | 402 | 418 | Rainbow77375 |
 | 403 | 416 | Tay |
-| 404 | 414 | Arden White Kirsch |
-| 405 | 414 | Michelle Allers |
+| 404 | 414 | Michelle Allers |
+| 405 | 414 | Arden White Kirsch |
 | 406 | 413 | Rick Poppen |
 | 407 | 413 | Breanna Marsden |
 | 408 | 411 | Angel Miller |
@@ -616,7 +616,7 @@
 | 608 | 304 | Tammy Rosenberry |
 | 609 | 304 | Julie Peters Fancher |
 | 610 | 304 | Carrie Resler |
-| 611 | 303 | Hasty Pop |
+| 611 | 303 | Sameerah Smith |
 | 612 | 303 | Tosha Griffey |
 | 613 | 303 | Hasty Pop |
 | 614 | 302 | Nicholas Roddy |

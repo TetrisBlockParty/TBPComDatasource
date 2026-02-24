@@ -74,8 +74,8 @@
 | 66 | 1109 | BertMofo |
 | 67 | 1100 | Julian Garcia |
 | 68 | 1089 | Alyssa Papen |
-| 69 | 1082 | Avy Absol |
-| 70 | 1082 | Dion Crommarty |
+| 69 | 1082 | Dion Crommarty |
+| 70 | 1082 | Avy Absol |
 | 71 | 1081 | Dustee Craddock-Harrison |
 | 72 | 1080 | Chilly Line |
 | 73 | 1069 | Heather Tushner |
@@ -157,8 +157,8 @@
 | 149 | 638 | Porkobello |
 | 150 | 635 | Kim Hunt |
 | 151 | 634 | Carrie Brian |
-| 152 | 633 | Adam Stephanie Parker |
-| 153 | 633 | Jessica Lynn Cutlip |
+| 152 | 633 | Jessica Lynn Cutlip |
+| 153 | 633 | Adam Stephanie Parker |
 | 154 | 629 | Chris Baggett |
 | 155 | 623 | ku5hkween |
 | 156 | 622 | Ernest Maxwell |
@@ -185,8 +185,8 @@
 | 177 | 561 | Steph Marie |
 | 178 | 558 | Marie-Pier Desjardins |
 | 179 | 555 | Lori |
-| 180 | 552 | Circuit8 |
-| 181 | 552 | Angel Raya |
+| 180 | 552 | Angel Raya |
+| 181 | 552 | Circuit8 |
 | 182 | 550 | James Hurley Jr. |
 | 183 | 549 | Cool Towerbuilder |
 | 184 | 546 | Dizzy Tiley |
@@ -218,8 +218,8 @@
 | 210 | 502 | Ericca Eldridge |
 | 211 | 502 | Christina Black |
 | 212 | 501 | Sharyn Lemire |
-| 213 | 499 | Kesha Brady |
-| 214 | 499 | DonMega |
+| 213 | 499 | DonMega |
+| 214 | 499 | Kesha Brady |
 | 215 | 497 | Damn Libra |
 | 216 | 496 | Jessica Bohlken |
 | 217 | 495 | Joeliecea Cobb |
@@ -235,8 +235,8 @@
 | 227 | 473 | Cranky Rollpiece |
 | 228 | 472 | Plucky Patternblock |
 | 229 | 465 | Leslie Thomas |
-| 230 | 464 | Zakia Monae |
-| 231 | 464 | Calvin Cannon |
+| 230 | 464 | Calvin Cannon |
+| 231 | 464 | Zakia Monae |
 | 232 | 463 | shark tato |
 | 233 | 462 | Crystal Nicolette Moore |
 | 234 | 460 | Kathy Brookins |
@@ -245,8 +245,8 @@
 | 237 | 457 | Kristin Manee |
 | 238 | 457 | J-Rizzle |
 | 239 | 455 | Michele Plunkett |
-| 240 | 454 | Keshia Lyons |
-| 241 | 454 | David Lay |
+| 240 | 454 | David Lay |
+| 241 | 454 | Keshia Lyons |
 | 242 | 450 | Genne Scott |
 | 243 | 449 | Danielle Kollias |
 | 244 | 448 | Mr. Party |
@@ -316,8 +316,8 @@
 | 308 | 366 | Ak Jones |
 | 309 | 364 | Lora |
 | 310 | 362 | Nubian1 |
-| 311 | 359 | Allen Lloyd |
-| 312 | 359 | Holly |
+| 311 | 359 | Holly |
+| 312 | 359 | Allen Lloyd |
 | 313 | 354 | Perky Piecegrid |
 | 314 | 354 | @ |
 | 315 | 352 | Kate |
@@ -625,15 +625,15 @@
 | 617 | 198 | Bubbly Setter |
 | 618 | 197 | Colton Stamper |
 | 619 | 197 | Mcg |
-| 620 | 197 | Colton Stamper |
+| 620 | 197 | Satinleader |
 | 621 | 196 | Julie McAfoos Swanson |
 | 622 | 195 | Tabi Williams |
 | 623 | 195 | Shant |
 | 624 | 195 | Adrian Pawlusinski |
 | 625 | 194 | Carlos Hernandez |
 | 626 | 194 | Katie Alexander |
-| 627 | 194 | Zany Twisterfit |
-| 628 | 194 | Joshua Cuellar |
+| 627 | 194 | Joshua Cuellar |
+| 628 | 194 | Zany Twisterfit |
 | 629 | 193 | Stormy Tomplait |
 | 630 | 192 | Jacob Campbell |
 | 631 | 192 | Tanner Lund |

@@ -315,8 +315,8 @@
 | 307 | 1381 | Dapper Dasher |
 | 308 | 1380 | Jerilyn Andrina |
 | 309 | 1376 | Megan Brianna |
-| 310 | 1374 | Sarah Berger |
-| 311 | 1374 | Kori Beth Babb |
+| 310 | 1374 | Kori Beth Babb |
+| 311 | 1374 | Sarah Berger |
 | 312 | 1362 | Angie Marie |
 | 313 | 1362 | Kevin Sees |
 | 314 | 1358 | Arlene Joy Belicina |
@@ -360,11 +360,11 @@
 | 352 | 1268 | Keri Womack |
 | 353 | 1264 | Mama T |
 | 354 | 1261 | Becca Coronado |
-| 355 | 1257 | Megan Ferguson Leone |
-| 356 | 1257 | Megan Garrick |
-| 357 | 1257 | Jackie Lucas |
-| 358 | 1256 | Phil J. Grombliniak |
-| 359 | 1256 | Belle |
+| 355 | 1257 | Jackie Lucas |
+| 356 | 1257 | Megan Ferguson Leone |
+| 357 | 1257 | Megan Garrick |
+| 358 | 1256 | Belle |
+| 359 | 1256 | Phil J. Grombliniak |
 | 360 | 1254 | Erika Densmore |
 | 361 | 1252 | AgileDragon |
 | 362 | 1252 | Brainy Smurf |
@@ -859,7 +859,7 @@
 | 851 | 664 | Julie Hamilton |
 | 852 | 664 | Trista Carter |
 | 853 | 664 | Jarboe |
-| 854 | 663 | Christy Long |
+| 854 | 663 | Mike Aprilliano |
 | 855 | 663 | snkylnk |
 | 856 | 663 | Christy Long |
 | 857 | 662 | Casaundra Little-Abeling |
@@ -897,8 +897,8 @@
 | 889 | 647 | Tori Bowers |
 | 890 | 647 | Bob Vu |
 | 891 | 645 | Kacee Conrad Bock |
-| 892 | 645 | Tanya Duran |
-| 893 | 645 | Veronics |
+| 892 | 645 | Veronics |
+| 893 | 645 | Tanya Duran |
 | 894 | 644 | Kevin Luu |
 | 895 | 643 | Rae Rae |
 | 896 | 642 | Lewis Sturgeon |
@@ -1116,8 +1116,8 @@
 | 1108 | 540 | Boldy Block |
 | 1109 | 539 | Loopy Brickmatch |
 | 1110 | 539 | Nutty Slice |
-| 1111 | 539 | Speedy Fill |
-| 1112 | 539 | stacey |
+| 1111 | 539 | stacey |
+| 1112 | 539 | Speedy Fill |
 | 1113 | 539 | Dizzy Clicker |
 | 1114 | 537 | Jaime E. Rodriguez |
 | 1115 | 537 | Austin Wilson |
@@ -1395,7 +1395,7 @@
 | 1387 | 447 | Dee Blokk |
 | 1388 | 446 | Nicole Matthews |
 | 1389 | 446 | Scott |
-| 1390 | 446 | Nicole Matthews |
+| 1390 | 446 | Thomas Smith |
 | 1391 | 445 | Mar Q Thomas |
 | 1392 | 444 | Sandra Link-Gable |
 | 1393 | 444 | Angela Murgia-Owen |
@@ -3475,7 +3475,7 @@
 | 3467 | 214 | Naomy M. Valentin |
 | 3468 | 214 | Kim Nelson Franklin |
 | 3469 | 213 | Frothy Zone |
-| 3470 | 213 | guest |
+| 3470 | 213 | Mark Steven Pichler |
 | 3471 | 213 | Chummy Zonebuilder |
 | 3472 | 213 | Betty J. Hall |
 | 3473 | 213 | guest |
