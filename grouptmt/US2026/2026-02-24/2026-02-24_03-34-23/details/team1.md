@@ -287,8 +287,8 @@
 | 279 | 363 | Shiny Gridmatch |
 | 280 | 362 | Brooke Elizabeth Antill |
 | 281 | 359 | Rodney Schmerfeld |
-| 282 | 358 | Chase Collinsworth |
-| 283 | 358 | Jessica Russell |
+| 282 | 358 | Jessica Russell |
+| 283 | 358 | Chase Collinsworth |
 | 284 | 356 | Tyler Hertzog |
 | 285 | 356 | Dawn Michelle Scheible |
 | 286 | 355 | Keith Mathis |
@@ -331,8 +331,8 @@
 | 323 | 324 | Sylvia Vasquez |
 | 324 | 324 | Brave Wrecker |
 | 325 | 323 | Barrbaric |
-| 326 | 322 | Christina Norman |
-| 327 | 322 | Chris65 |
+| 326 | 322 | Chris65 |
+| 327 | 322 | Christina Norman |
 | 328 | 321 | LD1 |
 | 329 | 320 | Zany Tiler |
 | 330 | 319 | Crystal Cheresnowsky |
