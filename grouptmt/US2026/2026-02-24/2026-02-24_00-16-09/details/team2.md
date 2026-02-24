@@ -391,8 +391,8 @@
 | 383 | 1042 | Spunkysmom |
 | 384 | 1042 | Mcintosh Brian Shalonda |
 | 385 | 1039 | Crystal Hoffman |
-| 386 | 1036 | Amber Shoemaker |
-| 387 | 1036 | Allison Lockyer |
+| 386 | 1036 | Allison Lockyer |
+| 387 | 1036 | Amber Shoemaker |
 | 388 | 1031 | Lupita Flores |
 | 389 | 1026 | Joshua Mandel |
 | 390 | 1024 | Susan Perraut Jones |

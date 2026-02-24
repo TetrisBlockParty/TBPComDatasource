@@ -138,8 +138,8 @@
 | 130 | 615 | Kim Hunt |
 | 131 | 613 | Porkobello |
 | 132 | 613 | Jessica Lynn Cutlip |
-| 133 | 611 | Chris Baggett |
-| 134 | 611 | Ernest Maxwell |
+| 133 | 611 | Ernest Maxwell |
+| 134 | 611 | Chris Baggett |
 | 135 | 602 | Cristy Duerksen |
 | 136 | 595 | Rodney McMath Jr. |
 | 137 | 586 | Latisha Davis |
@@ -203,15 +203,15 @@
 | 195 | 463 | SAP |
 | 196 | 462 | Leslie Thomas |
 | 197 | 459 | Mimi |
-| 198 | 457 | Kristin Manee |
-| 199 | 457 | June Hoffman |
+| 198 | 457 | June Hoffman |
+| 199 | 457 | Kristin Manee |
 | 200 | 455 | Michele Plunkett |
 | 201 | 452 | Crystal Nicolette Moore |
 | 202 | 450 | Amanda Pauldo-Ivy |
 | 203 | 449 | Courtney Cicoria |
 | 204 | 448 | Kesha Brady |
-| 205 | 444 | J-Rizzle |
-| 206 | 444 | Mylo Lipscomb |
+| 205 | 444 | Mylo Lipscomb |
+| 206 | 444 | J-Rizzle |
 | 207 | 443 | Kristina Black |
 | 208 | 442 | 🥔🥔 Spudz |
 | 209 | 441 | Lush Linkfall |
@@ -1354,7 +1354,7 @@
 | 1346 | 47 | Hoodylu |
 | 1347 | 47 | Steven Roe |
 | 1348 | 46 | Valerie Eileen |
-| 1349 | 46 | Daws |
+| 1349 | 46 | Jacqueline Brosius |
 | 1350 | 46 | Connie Mitchell-Smith |
 | 1351 | 46 | Daws |
 | 1352 | 46 | Samantha Ponzillo |
