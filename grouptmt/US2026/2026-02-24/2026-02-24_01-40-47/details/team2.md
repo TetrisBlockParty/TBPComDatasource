@@ -246,8 +246,8 @@
 | 238 | 1488 | Sommer Shope |
 | 239 | 1477 | Prado |
 | 240 | 1469 | Carrie Trigg |
-| 241 | 1466 | Julay |
-| 242 | 1466 | Peppy Zone |
+| 241 | 1466 | Peppy Zone |
+| 242 | 1466 | Julay |
 | 243 | 1463 | Yvonne Wharton |
 | 244 | 1459 | Shiny Rollzone |
 | 245 | 1452 | Cody Smith-Candelaria |

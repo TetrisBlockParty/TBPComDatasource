@@ -143,8 +143,8 @@
 | 135 | 625 | Jewell Urban |
 | 136 | 620 | Porkobello |
 | 137 | 616 | Samantha Peterson |
-| 138 | 615 | Kim Hunt |
-| 139 | 615 | Ernest Maxwell |
+| 138 | 615 | Ernest Maxwell |
+| 139 | 615 | Kim Hunt |
 | 140 | 611 | Chris Baggett |
 | 141 | 602 | Cristy Duerksen |
 | 142 | 600 | Carrie Brian |

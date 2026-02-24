@@ -361,8 +361,8 @@
 | 353 | 408 | Ashley Muncey |
 | 354 | 408 | Tiffany Ford |
 | 355 | 407 | Christina Spa |
-| 356 | 405 | fraulila |
-| 357 | 405 | Andrew Thorson |
+| 356 | 405 | Andrew Thorson |
+| 357 | 405 | fraulila |
 | 358 | 405 | Chris Bell |
 | 359 | 405 | Skinny Baldez |
 | 360 | 403 | Scott Lindsay |
