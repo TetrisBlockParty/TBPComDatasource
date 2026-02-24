@@ -112,8 +112,8 @@
 | 104 | 815 | Diana Houts |
 | 105 | 813 | Klo |
 | 106 | 811 | Sassy Pattern |
-| 107 | 806 | Zippy Gridlock |
-| 108 | 806 | Lori Walker |
+| 107 | 806 | Lori Walker |
+| 108 | 806 | Zippy Gridlock |
 | 109 | 802 | Denise Carlson |
 | 110 | 802 | Amy Suckarieh |
 | 111 | 802 | Crystal Carroll |
@@ -138,8 +138,8 @@
 | 130 | 712 | H.R. Block |
 | 131 | 712 | Leslie Nicole |
 | 132 | 708 | Jacqueline Helm |
-| 133 | 704 | Austin Owens |
-| 134 | 704 | Chilly Crasher |
+| 133 | 704 | Chilly Crasher |
+| 134 | 704 | Austin Owens |
 | 135 | 682 | Raegan Lane-Ross |
 | 136 | 668 | Desi Desporte |
 | 137 | 667 | Swanky Fitline |
@@ -169,8 +169,8 @@
 | 161 | 595 | TRCuse |
 | 162 | 591 | Cursed Hag |
 | 163 | 587 | YoMomma |
-| 164 | 586 | Carlos Ramirez |
-| 165 | 586 | Latisha Davis |
+| 164 | 586 | Latisha Davis |
+| 165 | 586 | Carlos Ramirez |
 | 166 | 585 | Tracey Lehmann |
 | 167 | 584 | Carlton Unfiltered |
 | 168 | 576 | Jade Rian |
@@ -183,8 +183,8 @@
 | 175 | 561 | Steph Marie |
 | 176 | 560 | Chastity Mitchell |
 | 177 | 558 | Marie-Pier Desjardins |
-| 178 | 552 | Angel Raya |
-| 179 | 552 | Circuit8 |
+| 178 | 552 | Circuit8 |
+| 179 | 552 | Angel Raya |
 | 180 | 550 | James Hurley Jr. |
 | 181 | 549 | Cool Towerbuilder |
 | 182 | 546 | Dizzy Tiley |
@@ -202,7 +202,7 @@
 | 194 | 521 | Andy Cabral |
 | 195 | 520 | Oscar Alberto Perez |
 | 196 | 520 | Zippy Block |
-| 197 | 516 | Nick Gray |
+| 197 | 516 | Trish |
 | 198 | 516 | Twisty Clicky |
 | 199 | 516 | Nick Gray |
 | 200 | 513 | Milan Markeisha |
@@ -217,8 +217,8 @@
 | 209 | 502 | Ericca Eldridge |
 | 210 | 501 | Sharyn Lemire |
 | 211 | 499 | Kesha Brady |
-| 212 | 496 | Jessica Bohlken |
-| 213 | 496 | Lori |
+| 212 | 496 | Lori |
+| 213 | 496 | Jessica Bohlken |
 | 214 | 495 | Joeliecea Cobb |
 | 215 | 494 | Bio Nelly |
 | 216 | 493 | Amanda Pauldo-Ivy |
@@ -227,8 +227,8 @@
 | 219 | 482 | Laura |
 | 220 | 481 | Joanna |
 | 221 | 475 | Silly Zonebuilder |
-| 222 | 473 | Jolly Dashfit |
-| 223 | 473 | Cranky Rollpiece |
+| 222 | 473 | Cranky Rollpiece |
+| 223 | 473 | Jolly Dashfit |
 | 224 | 472 | Plucky Patternblock |
 | 225 | 468 | June Hoffman |
 | 226 | 465 | Leslie Thomas |
@@ -813,7 +813,7 @@
 | 805 | 144 | Jessica Johnston |
 | 806 | 144 | Adam Randall |
 | 807 | 143 | Kelly Duncan |
-| 808 | 143 | Sherri |
+| 808 | 143 | Jenna Keen |
 | 809 | 143 | sgt baby |
 | 810 | 143 | Sherri |
 | 811 | 142 | Frank Cook |
@@ -1511,7 +1511,7 @@
 | 1503 | 43 | Giggly Slammer |
 | 1504 | 42 | Simiara Robotham |
 | 1505 | 42 | JulioBookworm |
-| 1506 | 42 | Dreamy Rollpiece |
+| 1506 | 42 | Tet |
 | 1507 | 42 | Hasty Matchgrid |
 | 1508 | 42 | Dreamy Rollpiece |
 | 1509 | 42 | Angela Catalanotto Ericksen |

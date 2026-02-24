@@ -281,8 +281,8 @@
 | 273 | 1480 | Dimitra Zazara |
 | 274 | 1479 | Pacynthia Williams |
 | 275 | 1478 | Misty Walker |
-| 276 | 1477 | Hillary Crawford |
-| 277 | 1477 | Prado |
+| 276 | 1477 | Prado |
+| 277 | 1477 | Hillary Crawford |
 | 278 | 1469 | Carrie Trigg |
 | 279 | 1463 | Yvonne Wharton |
 | 280 | 1459 | Shiny Rollzone |
@@ -415,8 +415,8 @@
 | 407 | 1119 | Bubbly Snapfit |
 | 408 | 1116 | Wakanda Forever |
 | 409 | 1116 | Em Chen |
-| 410 | 1109 | BYM4L |
-| 411 | 1109 | Melissa McCall |
+| 410 | 1109 | Melissa McCall |
+| 411 | 1109 | BYM4L |
 | 412 | 1105 | Jackie Avila |
 | 413 | 1105 | Nerdy Clearfit |
 | 414 | 1104 | Kimberly Hope Howell |

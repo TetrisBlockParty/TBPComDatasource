@@ -68,8 +68,8 @@
 | 60 | 1931 | Denise Nardoni |
 | 61 | 1920 | Trezure Gonzalez |
 | 62 | 1858 | Kristie McFarland |
-| 63 | 1824 | Jessica Ann |
-| 64 | 1824 | Nate Burnside |
+| 63 | 1824 | Nate Burnside |
+| 64 | 1824 | Jessica Ann |
 | 65 | 1804 | Tina Kay |
 | 66 | 1791 | Leah Barnett |
 | 67 | 1776 | Whitney Manuel |
@@ -106,8 +106,8 @@
 | 98 | 1361 | Patricia Gadsden |
 | 99 | 1343 | Joey Banks |
 | 100 | 1320 | Kristie |
-| 101 | 1318 | Diana Ibarra |
-| 102 | 1318 | Tiff Vs Tiffany |
+| 101 | 1318 | Tiff Vs Tiffany |
+| 102 | 1318 | Diana Ibarra |
 | 103 | 1309 | yoyo |
 | 104 | 1297 | Shelby Michelle |
 | 105 | 1290 | JerseyJess |
@@ -156,11 +156,11 @@
 | 148 | 971 | Tasha Schriewer |
 | 149 | 963 | Crystal Frey |
 | 150 | 961 | Danielle Allison |
-| 151 | 950 | Giddy Drop |
-| 152 | 950 | MissTaylor |
+| 151 | 950 | MissTaylor |
+| 152 | 950 | Giddy Drop |
 | 153 | 947 | Kellie Montgomery |
-| 154 | 940 | Patty Allen |
-| 155 | 940 | Stephanie Allmon |
+| 154 | 940 | Stephanie Allmon |
+| 155 | 940 | Patty Allen |
 | 156 | 936 | Dolores Falco |
 | 157 | 925 | Cherry Parker |
 | 158 | 914 | BadManSheLove |
@@ -190,8 +190,8 @@
 | 182 | 832 | Alexmac |
 | 183 | 829 | Patricia White |
 | 184 | 825 | Lizabeth Fox |
-| 185 | 821 | Angella Lyons |
-| 186 | 821 | Kammy Hill |
+| 185 | 821 | Kammy Hill |
+| 186 | 821 | Angella Lyons |
 | 187 | 817 | Niki Dalrymple |
 | 188 | 815 | Justin Ritter |
 | 189 | 813 | JessDrown |
@@ -216,8 +216,8 @@
 | 208 | 760 | Kiki |
 | 209 | 759 | Mykal Burton |
 | 210 | 757 | Fancy Cascader |
-| 211 | 755 | Laura Booth Wosko |
-| 212 | 755 | Colton |
+| 211 | 755 | Colton |
+| 212 | 755 | Laura Booth Wosko |
 | 213 | 753 | Morgan Martinez |
 | 214 | 752 | Joye Sims Binion |
 | 215 | 750 | Michael Nowogorski |
@@ -231,8 +231,8 @@
 | 223 | 715 | Karon Griffin |
 | 224 | 714 | Jenny Hrndz |
 | 225 | 713 | Stephanie Blkpep Davidson |
-| 226 | 709 | Cynthia Castros-Hampton |
-| 227 | 709 | Christine Niles |
+| 226 | 709 | Christine Niles |
+| 227 | 709 | Cynthia Castros-Hampton |
 | 228 | 708 | Stephanie Bradley |
 | 229 | 704 | Betty Bóò |
 | 230 | 703 | Shawn Miller |
@@ -328,8 +328,8 @@
 | 320 | 505 | Stephanie Simpson |
 | 321 | 504 | Daring Builder |
 | 322 | 500 | Ashley Tookes |
-| 323 | 499 | Gumbo |
-| 324 | 499 | Megan Rathmanner |
+| 323 | 499 | Megan Rathmanner |
+| 324 | 499 | Gumbo |
 | 325 | 496 | Brenda Schmid Wood |
 | 326 | 494 | fraulila |
 | 327 | 494 | MCV |
@@ -337,8 +337,8 @@
 | 329 | 490 | Cassandra Bryant |
 | 330 | 489 | Isabel Ocasio |
 | 331 | 487 | MsBee |
-| 332 | 486 | Sleepy |
-| 333 | 486 | Skippy |
+| 332 | 486 | Skippy |
+| 333 | 486 | Sleepy |
 | 334 | 483 | Tegan Chapman |
 | 335 | 482 | Chummy Rumbler |
 | 336 | 481 | Tiffanie Alley |
@@ -365,8 +365,8 @@
 | 357 | 455 | Kelly Wolf |
 | 358 | 450 | Stefanie LaPointe |
 | 359 | 450 | Luciana Braganca Vieira |
-| 360 | 449 | Jojo M |
-| 361 | 449 | Lively Caster |
+| 360 | 449 | Lively Caster |
+| 361 | 449 | Jojo M |
 | 362 | 447 | Carrie Huskey |
 | 363 | 447 | Num1hater |
 | 364 | 446 | Swanky Frame |
@@ -394,8 +394,8 @@
 | 386 | 426 | Christina Rotz Shows |
 | 387 | 425 | Ava Petito |
 | 388 | 423 | Dapper Liney |
-| 389 | 419 | Philip Rock |
-| 390 | 419 | Desiree Gold |
+| 389 | 419 | Desiree Gold |
+| 390 | 419 | Philip Rock |
 | 391 | 419 | Maggie |
 | 392 | 418 | Rainbow77375 |
 | 393 | 416 | Tay |
@@ -428,8 +428,8 @@
 | 420 | 391 | Rebel124 |
 | 421 | 391 | gremicx |
 | 422 | 390 | ROODBOY |
-| 423 | 389 | Kirhonda Autmon |
-| 424 | 389 | Amanda J. Mcneil-Anderson |
+| 423 | 389 | Amanda J. Mcneil-Anderson |
+| 424 | 389 | Kirhonda Autmon |
 | 425 | 387 | Brittany K Ward |
 | 426 | 386 | Geoffrey Nash |
 | 427 | 384 | Tiffany Davie |
@@ -891,7 +891,7 @@
 | 883 | 219 | Christina Stimson |
 | 884 | 219 | Laaken Draper |
 | 885 | 219 | Uluvfai |
-| 886 | 218 | Carri |
+| 886 | 218 | Susan A Kinsey |
 | 887 | 218 | Megan Stanley |
 | 888 | 218 | Carri |
 | 889 | 218 | Amy Fuller Heaton |
