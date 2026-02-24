@@ -637,11 +637,11 @@
 | 629 | 250 | Ashley Parham |
 | 630 | 249 | Emberblaze |
 | 631 | 249 | Sarah Tschee |
-| 632 | 248 | Frothy Glider |
-| 633 | 248 | Stormy Anguish |
+| 632 | 248 | Stormy Anguish |
+| 633 | 248 | Frothy Glider |
 | 634 | 248 | Smiley Zone |
-| 635 | 247 | Melanie Sherwood |
-| 636 | 247 | Cameron Lovell |
+| 635 | 247 | Cameron Lovell |
+| 636 | 247 | Melanie Sherwood |
 | 637 | 246 | Jonathn Poindexter |
 | 638 | 245 | Martin Bernier |
 | 639 | 245 | Jazzy Spinfit |
