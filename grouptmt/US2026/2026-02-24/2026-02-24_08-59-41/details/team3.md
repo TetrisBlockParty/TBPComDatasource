@@ -156,8 +156,8 @@
 | 148 | 971 | Tasha Schriewer |
 | 149 | 963 | Crystal Frey |
 | 150 | 961 | Danielle Allison |
-| 151 | 950 | Giddy Drop |
-| 152 | 950 | MissTaylor |
+| 151 | 950 | MissTaylor |
+| 152 | 950 | Giddy Drop |
 | 153 | 947 | Kellie Montgomery |
 | 154 | 940 | Patty Allen |
 | 155 | 940 | Stephanie Allmon |
@@ -176,8 +176,8 @@
 | 168 | 875 | Chasity |
 | 169 | 874 | Jessica Pineda-Lopez |
 | 170 | 871 | Rochelle Hazelett |
-| 171 | 868 | Cranky Gridder |
-| 172 | 868 | Nicole Flippo |
+| 171 | 868 | Nicole Flippo |
+| 172 | 868 | Cranky Gridder |
 | 173 | 866 | Domo Washington |
 | 174 | 864 | Sunny Rotater |
 | 175 | 862 | Santeria Trece Candles |
@@ -190,14 +190,14 @@
 | 182 | 832 | Alexmac |
 | 183 | 829 | Patricia White |
 | 184 | 825 | Lizabeth Fox |
-| 185 | 821 | Kammy Hill |
-| 186 | 821 | Angella Lyons |
+| 185 | 821 | Angella Lyons |
+| 186 | 821 | Kammy Hill |
 | 187 | 817 | Niki Dalrymple |
 | 188 | 815 | Justin Ritter |
 | 189 | 813 | JessDrown |
 | 190 | 808 | Raya |
-| 191 | 804 | Alaina Lee |
-| 192 | 804 | Gideon Walker |
+| 191 | 804 | Gideon Walker |
+| 192 | 804 | Alaina Lee |
 | 193 | 800 | Lauren Girouard |
 | 194 | 799 | Trisha Balmer |
 | 195 | 792 | Rachel Grant |
@@ -207,8 +207,8 @@
 | 199 | 784 | Jone |
 | 200 | 783 | Julian Murphy |
 | 201 | 777 | Daryn Elliott |
-| 202 | 774 | Twisty Brick LT |
-| 203 | 774 | ren |
+| 202 | 774 | ren |
+| 203 | 774 | Twisty Brick LT |
 | 204 | 772 | Hasty Cascadefit |
 | 205 | 768 | Cyd061769 |
 | 206 | 766 | Tasha Gillespie |
@@ -231,14 +231,14 @@
 | 223 | 715 | Karon Griffin |
 | 224 | 714 | Jenny Hrndz |
 | 225 | 713 | Stephanie Blkpep Davidson |
-| 226 | 709 | Cynthia Castros-Hampton |
-| 227 | 709 | Christine Niles |
+| 226 | 709 | Christine Niles |
+| 227 | 709 | Cynthia Castros-Hampton |
 | 228 | 708 | Stephanie Bradley |
 | 229 | 704 | Betty Bóò |
 | 230 | 703 | Shawn Miller |
 | 231 | 693 | Heather Davis |
-| 232 | 691 | Tia |
-| 233 | 691 | Snappy Balancer |
+| 232 | 691 | Snappy Balancer |
+| 233 | 691 | Tia |
 | 234 | 687 | joz |
 | 235 | 687 | lashanda |
 | 236 | 680 | Terry Jo Jones |
@@ -337,8 +337,8 @@
 | 329 | 490 | Cassandra Bryant |
 | 330 | 489 | Isabel Ocasio |
 | 331 | 487 | MsBee |
-| 332 | 486 | Skippy |
-| 333 | 486 | Sleepy |
+| 332 | 486 | Sleepy |
+| 333 | 486 | Skippy |
 | 334 | 483 | Tegan Chapman |
 | 335 | 482 | Chummy Rumbler |
 | 336 | 481 | Tiffanie Alley |
@@ -363,10 +363,10 @@
 | 355 | 456 | Cynthia Herrmann Egland |
 | 356 | 456 | Kelly |
 | 357 | 455 | Kelly Wolf |
-| 358 | 450 | Luciana Braganca Vieira |
-| 359 | 450 | Stefanie LaPointe |
-| 360 | 449 | Lively Caster |
-| 361 | 449 | Jojo M |
+| 358 | 450 | Stefanie LaPointe |
+| 359 | 450 | Luciana Braganca Vieira |
+| 360 | 449 | Jojo M |
+| 361 | 449 | Lively Caster |
 | 362 | 447 | Carrie Huskey |
 | 363 | 447 | Num1hater |
 | 364 | 446 | Swanky Frame |
@@ -394,8 +394,8 @@
 | 386 | 426 | Christina Rotz Shows |
 | 387 | 425 | Ava Petito |
 | 388 | 423 | Dapper Liney |
-| 389 | 419 | Desiree Gold |
-| 390 | 419 | Philip Rock |
+| 389 | 419 | Philip Rock |
+| 390 | 419 | Desiree Gold |
 | 391 | 419 | Maggie |
 | 392 | 418 | Rainbow77375 |
 | 393 | 416 | Tay |

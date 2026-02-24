@@ -135,19 +135,19 @@
 | 127 | 726 | Jamie Gustafson |
 | 128 | 725 | Brandon Crabbs |
 | 129 | 719 | George Nutt |
-| 130 | 712 | Leslie Nicole |
-| 131 | 712 | H.R. Block |
+| 130 | 712 | H.R. Block |
+| 131 | 712 | Leslie Nicole |
 | 132 | 708 | Jacqueline Helm |
-| 133 | 704 | Austin Owens |
-| 134 | 704 | Chilly Crasher |
+| 133 | 704 | Chilly Crasher |
+| 134 | 704 | Austin Owens |
 | 135 | 682 | Raegan Lane-Ross |
 | 136 | 668 | Desi Desporte |
 | 137 | 667 | Lindsey Gonzalez |
 | 138 | 667 | Matt Gooder |
 | 139 | 667 | Swanky Fitline |
 | 140 | 662 | Nerdy Twisterfit |
-| 141 | 661 | Rodney McMath Jr. |
-| 142 | 661 | shar |
+| 141 | 661 | shar |
+| 142 | 661 | Rodney McMath Jr. |
 | 143 | 653 | Carmethia Clemons Haslerig |
 | 144 | 651 | Adawna Swires |
 | 145 | 650 | Chris Hartig |
@@ -155,8 +155,8 @@
 | 147 | 639 | Serena Goodridge |
 | 148 | 638 | Porkobello |
 | 149 | 634 | Carrie Brian |
-| 150 | 633 | Adam Stephanie Parker |
-| 151 | 633 | Jessica Lynn Cutlip |
+| 150 | 633 | Jessica Lynn Cutlip |
+| 151 | 633 | Adam Stephanie Parker |
 | 152 | 629 | Chris Baggett |
 | 153 | 628 | Kim Hunt |
 | 154 | 623 | ku5hkween |
@@ -213,8 +213,8 @@
 | 205 | 509 | Mimi |
 | 206 | 507 | Andria Lynn |
 | 207 | 504 | Deanna Deckard |
-| 208 | 502 | Christina Black |
-| 209 | 502 | Ericca Eldridge |
+| 208 | 502 | Ericca Eldridge |
+| 209 | 502 | Christina Black |
 | 210 | 501 | Sharyn Lemire |
 | 211 | 499 | Kesha Brady |
 | 212 | 496 | Lori |
@@ -245,14 +245,14 @@
 | 237 | 454 | Keshia Lyons |
 | 238 | 450 | Genne Scott |
 | 239 | 449 | Danielle Kollias |
-| 240 | 448 | Mr. Party |
-| 241 | 448 | Mike Solo |
+| 240 | 448 | Mike Solo |
+| 241 | 448 | Mr. Party |
 | 242 | 447 | Jen Mattei |
 | 243 | 444 | Selena Shaw |
 | 244 | 442 | John Brunetti |
 | 245 | 441 | Lush Linkfall |
-| 246 | 438 | Melvin Baird |
-| 247 | 438 | 23 |
+| 246 | 438 | 23 |
+| 247 | 438 | Melvin Baird |
 | 248 | 435 | Chris Bernstein |
 | 249 | 434 | Ramel Rhodes |
 | 250 | 433 | Damn Libra |
@@ -391,8 +391,8 @@
 | 383 | 300 | Carter Jones |
 | 384 | 299 | Michael Snow |
 | 385 | 298 | Val Erie |
-| 386 | 297 | Allison Rose |
-| 387 | 297 | Brittany Marsh |
+| 386 | 297 | Brittany Marsh |
+| 387 | 297 | Allison Rose |
 | 388 | 296 | Dapper Frame |
 | 389 | 295 | Deb Rubeck |
 | 390 | 294 | BootsMcGee |
@@ -418,10 +418,10 @@
 | 410 | 284 | Shiny Pivoty |
 | 411 | 284 | Alexandra Karavias |
 | 412 | 282 | Sho Nuff |
-| 413 | 281 | Mackenzie Forrester |
-| 414 | 281 | Tony Pavelka |
+| 413 | 281 | Tony Pavelka |
+| 414 | 281 | Morti |
 | 415 | 281 | Tyler Bechtel |
-| 416 | 281 | Morti |
+| 416 | 281 | Mackenzie Forrester |
 | 417 | 280 | Chummy Towerzone |
 | 418 | 279 | Ziggy |
 | 419 | 278 | L Bear Champion |
@@ -575,8 +575,8 @@
 | 567 | 214 | Kelly Adams Carnahan |
 | 568 | 213 | Frank Joseph Epson |
 | 569 | 213 | Derick |
-| 570 | 212 | Undeniable Williams |
-| 571 | 212 | Karen Lambert |
+| 570 | 212 | Karen Lambert |
+| 571 | 212 | Undeniable Williams |
 | 572 | 211 | Sunny Filler |
 | 573 | 210 | Wacky Blockclear |
 | 574 | 209 | Chilly Matcher |
@@ -610,8 +610,8 @@
 | 602 | 201 | Eric Wren |
 | 603 | 201 | Bryan James Marino |
 | 604 | 199 | Allen Johnson |
-| 605 | 198 | Zocko Ellet |
-| 606 | 198 | Bubbly Setter |
+| 605 | 198 | Bubbly Setter |
+| 606 | 198 | Zocko Ellet |
 | 607 | 197 | Colton Stamper |
 | 608 | 196 | Julie McAfoos Swanson |
 | 609 | 196 | Mcg |

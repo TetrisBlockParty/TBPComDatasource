@@ -245,8 +245,8 @@
 | 237 | 424 | Lindsay Glover |
 | 238 | 423 | Howdi Duty |
 | 239 | 422 | Jamise Brown |
-| 240 | 421 | Plucky Stacky |
-| 241 | 421 | Letson Melissa |
+| 240 | 421 | Letson Melissa |
+| 241 | 421 | Plucky Stacky |
 | 242 | 420 | Jennifer Noe Chandler |
 | 243 | 419 | John J. Cronin |
 | 244 | 419 | Barrbaric |
@@ -306,8 +306,8 @@
 | 298 | 365 | Amanda Holibaugh |
 | 299 | 365 | Shannon Marie Pitts |
 | 300 | 364 | Shauna Loe |
-| 301 | 364 | Jo Kerley |
-| 302 | 364 | Dino |
+| 301 | 364 | Dino |
+| 302 | 364 | Jo Kerley |
 | 303 | 364 | John Kim |
 | 304 | 363 | Shiny Gridmatch |
 | 305 | 362 | Brooke Elizabeth Antill |
@@ -348,7 +348,7 @@
 | 340 | 334 | Jasmine Riley |
 | 341 | 332 | Gina Bettikofer |
 | 342 | 331 | Lisa Miller |
-| 343 | 330 | Rebecca Apley Mielke |
+| 343 | 330 | LaFontaine Leslie |
 | 344 | 330 | Jeremy Maubert |
 | 345 | 330 | Mandyy Rae |
 | 346 | 330 | Rebecca Apley Mielke |
@@ -356,12 +356,12 @@
 | 348 | 329 | Larry Tilton |
 | 349 | 328 | Richard Corrado |
 | 350 | 327 | Christina Norman |
-| 351 | 325 | Mitchel White |
-| 352 | 325 | GringaLinga |
+| 351 | 325 | GringaLinga |
+| 352 | 325 | Mitchel White |
 | 353 | 324 | Brave Wrecker |
 | 354 | 323 | Nadine Velardo |
-| 355 | 322 | Hasty Columnbuilder |
-| 356 | 322 | Chris65 |
+| 355 | 322 | Chris65 |
+| 356 | 322 | Hasty Columnbuilder |
 | 357 | 321 | LD1 |
 | 358 | 320 | Zany Tiler |
 | 359 | 319 | Fresno Beotoni |
