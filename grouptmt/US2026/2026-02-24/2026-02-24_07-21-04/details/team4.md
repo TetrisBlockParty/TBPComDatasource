@@ -191,8 +191,8 @@
 | 183 | 537 | Scott Jameson |
 | 184 | 536 | JPW |
 | 185 | 535 | Berklie Apedaile |
-| 186 | 532 | Matt Summer |
-| 187 | 532 | Alan George LaRage |
+| 186 | 532 | Alan George LaRage |
+| 187 | 532 | Matt Summer |
 | 188 | 528 | Erin Sabol |
 | 189 | 528 | Carly Alexis |
 | 190 | 525 | Lucas J Sutton |
@@ -385,8 +385,8 @@
 | 377 | 300 | Jason Frehner |
 | 378 | 299 | Michael Snow |
 | 379 | 298 | Val Erie |
-| 380 | 297 | Allison Rose |
-| 381 | 297 | Brittany Marsh |
+| 380 | 297 | Brittany Marsh |
+| 381 | 297 | Allison Rose |
 | 382 | 296 | Dapper Frame |
 | 383 | 295 | Deb Rubeck |
 | 384 | 294 | BootsMcGee |

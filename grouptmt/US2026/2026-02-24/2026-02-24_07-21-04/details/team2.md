@@ -276,8 +276,8 @@
 | 268 | 1480 | Dimitra Zazara |
 | 269 | 1479 | Pacynthia Williams |
 | 270 | 1478 | Misty Walker |
-| 271 | 1477 | Hillary Crawford |
-| 272 | 1477 | Prado |
+| 271 | 1477 | Prado |
+| 272 | 1477 | Hillary Crawford |
 | 273 | 1469 | Carrie Trigg |
 | 274 | 1463 | Yvonne Wharton |
 | 275 | 1459 | Shiny Rollzone |
@@ -1047,11 +1047,11 @@
 | 1039 | 557 | Jason Garnatz |
 | 1040 | 557 | Marina Linda |
 | 1041 | 556 | Kamilya Rembert |
-| 1042 | 555 | Glitzy Rollblock |
-| 1043 | 555 | Noel Tarmy |
+| 1042 | 555 | Noel Tarmy |
+| 1043 | 555 | Glitzy Rollblock |
 | 1044 | 555 | Amy Roche |
-| 1045 | 554 | Hoppy Glidebuilder |
-| 1046 | 554 | Cheery Puzzler |
+| 1045 | 554 | Cheery Puzzler |
+| 1046 | 554 | Hoppy Glidebuilder |
 | 1047 | 554 | Dusti Rose Bingham |
 | 1048 | 553 | ruth |
 | 1049 | 553 | Tum |
