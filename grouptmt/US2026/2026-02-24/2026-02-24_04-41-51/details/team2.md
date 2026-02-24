@@ -158,9 +158,9 @@
 | 150 | 2173 | Steph Bug Peterson |
 | 151 | 2170 | Steve Grotto |
 | 152 | 2155 | Qiana Sanders |
-| 153 | 2139 | Jumpy Gridpiece |
-| 154 | 2134 | Michelle Lee |
-| 155 | 2113 | Jamie Main |
+| 153 | 2134 | Michelle Lee |
+| 154 | 2113 | Jamie Main |
+| 155 | 2109 | Jumpy Gridpiece |
 | 156 | 2108 | Vo'Landa Reels |
 | 157 | 2106 | Cool Rollpiece |
 | 158 | 2093 | Michele Gabriel |
@@ -618,12 +618,12 @@
 | 610 | 786 | Ashe Corso |
 | 611 | 785 | Daniel Amos |
 | 612 | 781 | Amanda Ferrell |
-| 613 | 780 | Breezy Filler |
-| 614 | 780 | Megan Kitchner |
+| 613 | 780 | Megan Kitchner |
+| 614 | 780 | Breezy Filler |
 | 615 | 780 | Amy Reynolds |
 | 616 | 779 | Trinity Oak |
-| 617 | 777 | Tesha Oldaker |
-| 618 | 777 | Ashley Lopez |
+| 617 | 777 | Ashley Lopez |
+| 618 | 777 | Tesha Oldaker |
 | 619 | 776 | Jerilyn Andrina |
 | 620 | 775 | Maya June |
 | 621 | 775 | g |

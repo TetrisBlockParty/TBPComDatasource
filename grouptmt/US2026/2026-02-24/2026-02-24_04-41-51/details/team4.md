@@ -69,8 +69,8 @@
 | 61 | 1116 | Ashley Ingram |
 | 62 | 1098 | BertMofo |
 | 63 | 1089 | Alyssa Papen |
-| 64 | 1082 | Avy Absol |
-| 65 | 1082 | Dion Crommarty |
+| 64 | 1082 | Dion Crommarty |
+| 65 | 1082 | Avy Absol |
 | 66 | 1075 | Dustee Craddock-Harrison |
 | 67 | 1069 | Heather Tushner |
 | 68 | 1055 | Julian Garcia |
@@ -94,12 +94,12 @@
 | 86 | 895 | Girl |
 | 87 | 879 | Carolyn Wallace |
 | 88 | 873 | Courtney Cicoria |
-| 89 | 870 | Lucille Truesdale |
-| 90 | 869 | Judy Cox |
-| 91 | 864 | Guy Incognito |
-| 92 | 861 | Peachy Fall |
-| 93 | 854 | Shauna Havard |
-| 94 | 851 | Jason Hart |
+| 89 | 869 | Judy Cox |
+| 90 | 864 | Guy Incognito |
+| 91 | 861 | Peachy Fall |
+| 92 | 854 | Shauna Havard |
+| 93 | 851 | Jason Hart |
+| 94 | 850 | Lucille Truesdale |
 | 95 | 846 | Christine Marie |
 | 96 | 842 | Aden Moss |
 | 97 | 837 | Rica Mitchell |
@@ -136,8 +136,8 @@
 | 128 | 690 | Denia Deni |
 | 129 | 682 | Raegan Lane-Ross |
 | 130 | 669 | Leslie Nicole |
-| 131 | 667 | Lindsey Gonzalez |
-| 132 | 667 | Matt Gooder |
+| 131 | 667 | Matt Gooder |
+| 132 | 667 | Lindsey Gonzalez |
 | 133 | 662 | George Nutt |
 | 134 | 660 | Desi Desporte |
 | 135 | 651 | Adawna Swires |
@@ -159,8 +159,8 @@
 | 151 | 599 | shar |
 | 152 | 595 | Rodney McMath Jr. |
 | 153 | 587 | YoMomma |
-| 154 | 586 | Latisha Davis |
-| 155 | 586 | Cursed Hag |
+| 154 | 586 | Cursed Hag |
+| 155 | 586 | Latisha Davis |
 | 156 | 584 | Carlton Unfiltered |
 | 157 | 582 | Angela Srubar-Norman |
 | 158 | 578 | Livvy |
@@ -295,8 +295,8 @@
 | 287 | 365 | Twisty Cascadezone |
 | 288 | 360 | Lee Silpe |
 | 289 | 360 | David Lay |
-| 290 | 359 | Holly |
-| 291 | 359 | KimoKoala |
+| 290 | 359 | KimoKoala |
+| 291 | 359 | Holly |
 | 292 | 358 | Lora |
 | 293 | 354 | @ |
 | 294 | 352 | Brittney Orengo |
@@ -398,18 +398,18 @@
 | 390 | 281 | Tony Pavelka |
 | 391 | 280 | Chummy Towerzone |
 | 392 | 279 | Ziggy |
-| 393 | 278 | L Bear Champion |
-| 394 | 278 | Shainne Brewer |
+| 393 | 278 | Shainne Brewer |
+| 394 | 278 | L Bear Champion |
 | 395 | 277 | Silly SeaWeed |
-| 396 | 276 | Dennis Bradley |
-| 397 | 276 | Cynthia Boudreau |
+| 396 | 276 | Cynthia Boudreau |
+| 397 | 276 | Dennis Bradley |
 | 398 | 275 | Jarred Falls |
 | 399 | 272 | Paito |
 | 400 | 271 | ImJustMe |
 | 401 | 270 | Stephme310 |
 | 402 | 270 | 07VHVW |
-| 403 | 268 | Riverdale |
-| 404 | 268 | Sallie Sanborn |
+| 403 | 268 | Sallie Sanborn |
+| 404 | 268 | Riverdale |
 | 405 | 266 | ĥuf |
 | 406 | 266 | Happy Combo |
 | 407 | 265 | Degenerate |

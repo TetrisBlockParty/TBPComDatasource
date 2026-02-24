@@ -432,8 +432,8 @@
 | 424 | 270 | Ariel Whittington |
 | 425 | 269 | Ramona Shaver |
 | 426 | 267 | Barry Mac'Ockner |
-| 427 | 265 | Cranky Pattern |
-| 428 | 265 | Yahowah |
+| 427 | 265 | Yahowah |
+| 428 | 265 | Cranky Pattern |
 | 429 | 264 | Kayla |
 | 430 | 263 | BigWeenie69 |
 | 431 | 263 | John Ramirez |
