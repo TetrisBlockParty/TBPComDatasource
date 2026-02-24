@@ -98,8 +98,8 @@
 | 90 | 873 | Courtney Cicoria |
 | 91 | 870 | Lucille Truesdale |
 | 92 | 869 | Judy Cox |
-| 93 | 864 | Guy Incognito |
-| 94 | 864 | Samantha Peterson |
+| 93 | 864 | Samantha Peterson |
+| 94 | 864 | Guy Incognito |
 | 95 | 854 | Shauna Havard |
 | 96 | 851 | Jason Hart |
 | 97 | 846 | Christine Marie |
@@ -130,8 +130,8 @@
 | 122 | 731 | KJ Pool |
 | 123 | 729 | Jamie Mann-Deichmann |
 | 124 | 728 | Zippy Gridlock |
-| 125 | 726 | Jamie Gustafson |
-| 126 | 726 | Amy Suckarieh |
+| 125 | 726 | Amy Suckarieh |
+| 126 | 726 | Jamie Gustafson |
 | 127 | 725 | Brandon Crabbs |
 | 128 | 712 | Leslie Nicole |
 | 129 | 712 | H.R. Block |
@@ -190,8 +190,8 @@
 | 182 | 537 | Scott Jameson |
 | 183 | 536 | JPW |
 | 184 | 535 | Berklie Apedaile |
-| 185 | 532 | Alan George LaRage |
-| 186 | 532 | Matt Summer |
+| 185 | 532 | Matt Summer |
+| 186 | 532 | Alan George LaRage |
 | 187 | 528 | Erin Sabol |
 | 188 | 528 | Carly Alexis |
 | 189 | 525 | Lucas J Sutton |
@@ -210,8 +210,8 @@
 | 202 | 509 | Mimi |
 | 203 | 507 | Andria Lynn |
 | 204 | 504 | Deanna Deckard |
-| 205 | 502 | Ericca Eldridge |
-| 206 | 502 | Christina Black |
+| 205 | 502 | Christina Black |
+| 206 | 502 | Ericca Eldridge |
 | 207 | 501 | Sharyn Lemire |
 | 208 | 499 | Kesha Brady |
 | 209 | 496 | Lori |
@@ -357,7 +357,7 @@
 | 349 | 319 | Michelle Morris |
 | 350 | 317 | Kim Klutz Olson |
 | 351 | 317 | Paito |
-| 352 | 317 | Kim Klutz Olson |
+| 352 | 317 | Madison Sweere |
 | 353 | 316 | Shukee Lo |
 | 354 | 315 | rebel4lyfe |
 | 355 | 315 | Maureen Flanigan |
@@ -383,8 +383,8 @@
 | 375 | 300 | Carter Jones |
 | 376 | 299 | Michael Snow |
 | 377 | 298 | Val Erie |
-| 378 | 297 | Brittany Marsh |
-| 379 | 297 | Allison Rose |
+| 378 | 297 | Allison Rose |
+| 379 | 297 | Brittany Marsh |
 | 380 | 296 | Dapper Frame |
 | 381 | 295 | Deb Rubeck |
 | 382 | 294 | BootsMcGee |
@@ -417,8 +417,8 @@
 | 409 | 279 | Ziggy |
 | 410 | 278 | L Bear Champion |
 | 411 | 278 | Shainne Brewer |
-| 412 | 277 | Maria Hammie |
-| 413 | 277 | Silly SeaWeed |
+| 412 | 277 | Silly SeaWeed |
+| 413 | 277 | Maria Hammie |
 | 414 | 276 | Dennis Bradley |
 | 415 | 276 | Cynthia Boudreau |
 | 416 | 275 | Jarred Falls |
@@ -430,8 +430,8 @@
 | 422 | 266 | ĥuf |
 | 423 | 266 | Happy Combo |
 | 424 | 265 | Degenerate |
-| 425 | 265 | Christine Therrien |
-| 426 | 265 | Lorena Guerrero-Barron |
+| 425 | 265 | Lorena Guerrero-Barron |
+| 426 | 265 | Christine Therrien |
 | 427 | 264 | Shh |
 | 428 | 263 | Laurmarcar |
 | 429 | 262 | Ruben Wheeler |
@@ -482,8 +482,8 @@
 | 474 | 242 | RIFATSIKDER |
 | 475 | 242 | Badatvs |
 | 476 | 241 | Katherine Crane |
-| 477 | 240 | Orchislactea |
-| 478 | 240 | Zany Shatterer |
+| 477 | 240 | Zany Shatterer |
+| 478 | 240 | Orchislactea |
 | 479 | 239 | Krash |
 | 480 | 239 | Jess Reyes |
 | 481 | 239 | Christina Nabrizny |
