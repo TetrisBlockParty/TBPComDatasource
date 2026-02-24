@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-24 16:28:44 UTC
+# Standings for team4 as of 2026-02-24 16:29:22 UTC
 
 **Total Participants:** 2050
 
@@ -16,7 +16,7 @@
 | 8 | 4354 | Alyssa Cox |
 | 9 | 4270 | Alicia Bass |
 | 10 | 4007 | Anthony Magaraci |
-| 11 | 3737 | Roger Coulter |
+| 11 | 3750 | Roger Coulter |
 | 12 | 3721 | Tina Martinez |
 | 13 | 3428 | Melissa Adams |
 | 14 | 3103 | Leah Gorsuch |
@@ -32,7 +32,7 @@
 | 24 | 1962 | Cool Buildout |
 | 25 | 1939 | Jason Allen |
 | 26 | 1905 | Ayanna Soto |
-| 27 | 1816 | Jae Job |
+| 27 | 1833 | Jae Job |
 | 28 | 1805 | Ash |
 | 29 | 1784 | Dustin Robert |
 | 30 | 1765 | Johnny Yang Cotter |
@@ -201,8 +201,8 @@
 | 193 | 552 | Angel Raya |
 | 194 | 552 | Dizzy Tiley |
 | 195 | 550 | James Hurley Jr. |
-| 196 | 548 | Melvin Baird |
-| 197 | 547 | Nita Wells |
+| 196 | 548 | Nita Wells |
+| 197 | 548 | Melvin Baird |
 | 198 | 543 | blasterB |
 | 199 | 542 | Kimberlee Jan Beckstead |
 | 200 | 540 | Ellen Durfee |
@@ -542,33 +542,33 @@
 | 534 | 240 | conceptCollector |
 | 535 | 239 | Krash |
 | 536 | 239 | Christina Nabrizny |
-| 537 | 238 | 中山成巳 |
-| 538 | 238 | Will Chamberlain |
-| 539 | 238 | Lisa Bush |
-| 540 | 237 | Frilly Blocky |
-| 541 | 237 | Kaung San |
-| 542 | 237 | Courtney Halleck |
-| 543 | 236 | Melissa VanBourgondien |
-| 544 | 236 | The Murphy |
-| 545 | 236 | Daring Pivot |
-| 546 | 236 | Jennifer Renee |
+| 537 | 238 | Will Chamberlain |
+| 538 | 238 | Lisa Bush |
+| 539 | 238 | 中山成巳 |
+| 540 | 237 | Kaung San |
+| 541 | 237 | Courtney Halleck |
+| 542 | 237 | Frilly Blocky |
+| 543 | 236 | The Murphy |
+| 544 | 236 | Jennifer Renee |
+| 545 | 236 | Melissa VanBourgondien |
+| 546 | 236 | Daring Pivot |
 | 547 | 235 | LaDonna LovinmesomeMe Lambert |
 | 548 | 235 | Mighty Edgepiece |
 | 549 | 235 | Jen May |
-| 550 | 234 | Darrin Rubalcava |
-| 551 | 234 | Ryry |
-| 552 | 234 | Nicole Serio |
-| 553 | 234 | B Renee Desjardin |
-| 554 | 233 | Stacy |
-| 555 | 233 | Gigglelymomof2 |
+| 550 | 235 | Ann G. Carrillo |
+| 551 | 234 | Darrin Rubalcava |
+| 552 | 234 | Ryry |
+| 553 | 234 | Nicole Serio |
+| 554 | 234 | B Renee Desjardin |
+| 555 | 233 | Stacy |
 | 556 | 233 | Heidi Jo Hill |
-| 557 | 233 | Robert Rodriguez |
-| 558 | 232 | Dandy Cascadefit |
-| 559 | 232 | Perky Riser |
-| 560 | 232 | Lou Ie |
-| 561 | 231 | Loony Rotater |
-| 562 | 231 | Shane Vick |
-| 563 | 230 | Ann G. Carrillo |
+| 557 | 233 | Gigglelymomof2 |
+| 558 | 233 | Robert Rodriguez |
+| 559 | 232 | Dandy Cascadefit |
+| 560 | 232 | Perky Riser |
+| 561 | 232 | Lou Ie |
+| 562 | 231 | Loony Rotater |
+| 563 | 231 | Shane Vick |
 | 564 | 230 | Wacky Blockclear |
 | 565 | 230 | Joey Riley |
 | 566 | 229 | Rebecca Blake |
@@ -1056,38 +1056,38 @@
 | 1048 | 104 | Krystol Fantabulously Gorgeously Dennis |
 | 1049 | 104 | Elizabeth Lansou |
 | 1050 | 103 | DinoNuggie |
-| 1051 | 102 | Blaze Butler |
-| 1052 | 102 | Lynella |
-| 1053 | 102 | April Swinney |
-| 1054 | 102 | Bryan Johnson |
+| 1051 | 102 | Lynella |
+| 1052 | 102 | April Swinney |
+| 1053 | 102 | Bryan Johnson |
+| 1054 | 102 | Blaze Butler |
 | 1055 | 102 | Christina Nycol |
-| 1056 | 101 | Saulc1991 |
-| 1057 | 101 | Glen Altomare II |
-| 1058 | 101 | Aleasha Haukenfrers |
-| 1059 | 101 | Speedy Clearer |
-| 1060 | 101 | Joe Beardslee |
-| 1061 | 101 | Neal Allen II |
-| 1062 | 101 | Jessica N Cristina Grindstaff |
-| 1063 | 100 | Aly Eggers |
-| 1064 | 100 | Harper |
-| 1065 | 100 | Brave Tilebuilder |
-| 1066 | 100 | Geetara |
-| 1067 | 100 | Chipper Strikerbuilder |
-| 1068 | 100 | Joyce Fees |
-| 1069 | 99 | Lynette Manning |
-| 1070 | 99 | Wacky Shatterline |
-| 1071 | 99 | Bold Towerpiece |
-| 1072 | 98 | Samantha Kimes |
-| 1073 | 98 | Speedy Zigzag |
-| 1074 | 98 | Maurice Daniels |
-| 1075 | 98 | James May |
+| 1056 | 101 | Neal Allen II |
+| 1057 | 101 | Samantha Kimes |
+| 1058 | 101 | Saulc1991 |
+| 1059 | 101 | Glen Altomare II |
+| 1060 | 101 | Aleasha Haukenfrers |
+| 1061 | 101 | Speedy Clearer |
+| 1062 | 101 | Joe Beardslee |
+| 1063 | 101 | Jessica N Cristina Grindstaff |
+| 1064 | 100 | Aly Eggers |
+| 1065 | 100 | Joyce Fees |
+| 1066 | 100 | Harper |
+| 1067 | 100 | Brave Tilebuilder |
+| 1068 | 100 | Geetara |
+| 1069 | 100 | Chipper Strikerbuilder |
+| 1070 | 99 | Bold Towerpiece |
+| 1071 | 99 | Lynette Manning |
+| 1072 | 99 | Wacky Shatterline |
+| 1073 | 98 | Maurice Daniels |
+| 1074 | 98 | James May |
+| 1075 | 98 | Speedy Zigzag |
 | 1076 | 98 | Zappy Piecefit |
 | 1077 | 98 | Loopy Bouncer |
 | 1078 | 97 | Sweet Pea |
 | 1079 | 97 | 420friend |
 | 1080 | 97 | Peyton Mclaughlin |
-| 1081 | 97 | Carmen Maraj |
-| 1082 | 97 | Giggy Bridgepiece |
+| 1081 | 97 | Giggy Bridgepiece |
+| 1082 | 97 | Carmen Maraj |
 | 1083 | 97 | Crystal Canfield |
 | 1084 | 96 | Dyrtie1 |
 | 1085 | 96 | Deborah Hewitt |
@@ -1182,24 +1182,24 @@
 | 1174 | 83 | Meow Meow |
 | 1175 | 83 | Twisty Risegrid |
 | 1176 | 82 | Jennifer Dresser |
-| 1177 | 82 | Jorge Hamoui |
-| 1178 | 82 | Zippy Linkmatch |
-| 1179 | 82 | Chilly Matchpiece |
-| 1180 | 82 | Marjorie Sims Rentz |
-| 1181 | 82 | Loony Puzzler |
-| 1182 | 82 | Kimberly Paxton |
-| 1183 | 82 | Thomas R. Phillips |
-| 1184 | 82 | Wacky Fitzone |
-| 1185 | 82 | Ashley Kerr |
-| 1186 | 81 | Rob Chebetar |
-| 1187 | 81 | Tiffany Root |
-| 1188 | 81 | Joan Du |
-| 1189 | 81 | Natasha Lee |
-| 1190 | 81 | Jess |
-| 1191 | 81 | Colleen Brown |
-| 1192 | 81 | Garrett G-luv Kyser |
-| 1193 | 81 | Dreamy Tiler |
-| 1194 | 81 | Ace317 |
+| 1177 | 82 | Ace317 |
+| 1178 | 82 | Jorge Hamoui |
+| 1179 | 82 | Zippy Linkmatch |
+| 1180 | 82 | Chilly Matchpiece |
+| 1181 | 82 | Marjorie Sims Rentz |
+| 1182 | 82 | Loony Puzzler |
+| 1183 | 82 | Kimberly Paxton |
+| 1184 | 82 | Thomas R. Phillips |
+| 1185 | 82 | Wacky Fitzone |
+| 1186 | 82 | Ashley Kerr |
+| 1187 | 81 | Rob Chebetar |
+| 1188 | 81 | Tiffany Root |
+| 1189 | 81 | Joan Du |
+| 1190 | 81 | Natasha Lee |
+| 1191 | 81 | Jess |
+| 1192 | 81 | Colleen Brown |
+| 1193 | 81 | Garrett G-luv Kyser |
+| 1194 | 81 | Dreamy Tiler |
 | 1195 | 81 | Jay-Remy Stringseer |
 | 1196 | 80 | Tonya |
 | 1197 | 80 | Joshua A Bea |
@@ -1228,11 +1228,11 @@
 | 1220 | 76 | Heather Hilferty |
 | 1221 | 76 | George Thomson Jr. |
 | 1222 | 76 | Saucy Brickfit |
-| 1223 | 76 | Gage |
-| 1224 | 76 | Beth Ann |
-| 1225 | 76 | Meli  Jackson |
-| 1226 | 76 | Jeannie Lee |
-| 1227 | 75 | Chirpy Rollbuilder |
+| 1223 | 76 | Chirpy Rollbuilder |
+| 1224 | 76 | Gage |
+| 1225 | 76 | Beth Ann |
+| 1226 | 76 | Meli  Jackson |
+| 1227 | 76 | Jeannie Lee |
 | 1228 | 75 | Nee |
 | 1229 | 75 | Dmpster Fire |
 | 1230 | 75 | unrewound |
