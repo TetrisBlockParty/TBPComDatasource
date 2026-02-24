@@ -107,8 +107,8 @@
 | 99 | 758 | Ash Galvan |
 | 100 | 756 | Cartier |
 | 101 | 748 | Lori Sanders- Davis |
-| 102 | 737 | Kellie |
-| 103 | 737 | Karin Gillen |
+| 102 | 737 | Karin Gillen |
+| 103 | 737 | Kellie |
 | 104 | 712 | Kristi Johnson |
 | 105 | 706 | Denice Dee |
 | 106 | 706 | Plucky Fallzone |

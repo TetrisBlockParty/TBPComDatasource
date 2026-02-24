@@ -68,8 +68,8 @@
 | 60 | 1098 | BertMofo |
 | 61 | 1092 | Rachel Anne |
 | 62 | 1089 | Alyssa Papen |
-| 63 | 1082 | Dion Crommarty |
-| 64 | 1082 | Avy Absol |
+| 63 | 1082 | Avy Absol |
+| 64 | 1082 | Dion Crommarty |
 | 65 | 1075 | Dustee Craddock-Harrison |
 | 66 | 1064 | Heather Tushner |
 | 67 | 1046 | Johnathan Martinez |
@@ -94,8 +94,8 @@
 | 86 | 855 | Chilly Line |
 | 87 | 850 | Lucille Truesdale |
 | 88 | 846 | Christine Marie |
-| 89 | 841 | Shauna Havard |
-| 90 | 841 | Judy Cox |
+| 89 | 841 | Judy Cox |
+| 90 | 841 | Shauna Havard |
 | 91 | 840 | Chaz Duncan |
 | 92 | 834 | quicksand420 |
 | 93 | 826 | Rica Mitchell |
@@ -107,8 +107,8 @@
 | 99 | 792 | Denise Carlson |
 | 100 | 787 | Jason Hart |
 | 101 | 781 | Brittney Griggs |
-| 102 | 780 | Keith Kelley |
-| 103 | 780 | TheNeesh50 |
+| 102 | 780 | TheNeesh50 |
+| 103 | 780 | Keith Kelley |
 | 104 | 779 | Nope Young |
 | 105 | 775 | Klo |
 | 106 | 768 | Trista Leah |
@@ -179,17 +179,17 @@
 | 171 | 525 | Lucas J Sutton |
 | 172 | 522 | Carly Alexis |
 | 173 | 521 | Andy Cabral |
-| 174 | 520 | Oscar Alberto Perez |
-| 175 | 520 | Zippy Block |
-| 176 | 516 | Twisty Clicky |
-| 177 | 516 | Trish |
+| 174 | 520 | Zippy Block |
+| 175 | 520 | Oscar Alberto Perez |
+| 176 | 516 | Trish |
+| 177 | 516 | Twisty Clicky |
 | 178 | 514 | Scott Jameson |
 | 179 | 513 | Erin Thomas |
-| 180 | 512 | Nick Gray |
-| 181 | 512 | ThaEviLJeNiuZ |
-| 182 | 512 | Casey Jeffcoat |
-| 183 | 512 | Angela Srubar-Norman |
-| 184 | 512 | Ellen Durfee |
+| 180 | 512 | ThaEviLJeNiuZ |
+| 181 | 512 | Ellen Durfee |
+| 182 | 512 | Nick Gray |
+| 183 | 512 | Casey Jeffcoat |
+| 184 | 512 | Angela Srubar-Norman |
 | 185 | 509 | Mimi |
 | 186 | 507 | Andria Lynn |
 | 187 | 504 | Deanna Deckard |
@@ -223,8 +223,8 @@
 | 215 | 448 | Mike Solo |
 | 216 | 447 | J-Rizzle |
 | 217 | 446 | Mr. Party |
-| 218 | 444 | Shiny Fit |
-| 219 | 444 | Calvin Cannon |
+| 218 | 444 | Calvin Cannon |
+| 219 | 444 | Shiny Fit |
 | 220 | 443 | Kristina Black |
 | 221 | 442 | 🥔🥔 Spudz |
 | 222 | 441 | Jen Mattei |
@@ -393,12 +393,12 @@
 | 385 | 275 | Allison Rose |
 | 386 | 275 | meowmew |
 | 387 | 273 | Tyler Bechtel |
-| 388 | 272 | Tony Pavelka |
-| 389 | 272 | Paito |
+| 388 | 272 | Paito |
+| 389 | 272 | Tony Pavelka |
 | 390 | 270 | Stephme310 |
 | 391 | 270 | 07VHVW |
-| 392 | 268 | Riverdale |
-| 393 | 268 | Sallie Sanborn |
+| 392 | 268 | Sallie Sanborn |
+| 393 | 268 | Riverdale |
 | 394 | 267 | Marcus TheeyoungWoe Gilmore |
 | 395 | 266 | ĥuf |
 | 396 | 266 | Happy Combo |
@@ -423,8 +423,8 @@
 | 415 | 258 | PennyCandee |
 | 416 | 257 | Dustin York |
 | 417 | 256 | Gracie Ann Taylor |
-| 418 | 255 | Red |
-| 419 | 255 | Jenny Wells-Oakley |
+| 418 | 255 | Jenny Wells-Oakley |
+| 419 | 255 | Red |
 | 420 | 253 | Autum Leigh |
 | 421 | 252 | Maureen Flanigan |
 | 422 | 251 | Carol Ricks Raymond |

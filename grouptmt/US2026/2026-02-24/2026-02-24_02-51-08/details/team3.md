@@ -162,8 +162,8 @@
 | 154 | 875 | Chasity |
 | 155 | 874 | Jessica Pineda-Lopez |
 | 156 | 873 | BadManSheLove |
-| 157 | 868 | Cranky Gridder |
-| 158 | 868 | Felicia Rocha |
+| 157 | 868 | Felicia Rocha |
+| 158 | 868 | Cranky Gridder |
 | 159 | 868 | Nicole Flippo |
 | 160 | 864 | Sunny Rotater |
 | 161 | 862 | Santeria Trece Candles |
@@ -189,8 +189,8 @@
 | 181 | 777 | Daryn Elliott |
 | 182 | 774 | ren |
 | 183 | 773 | Daira Largen |
-| 184 | 772 | Twisty Brick LT |
-| 185 | 772 | Tye Stovall |
+| 184 | 772 | Tye Stovall |
+| 185 | 772 | Twisty Brick LT |
 | 186 | 770 | Raya |
 | 187 | 769 | Hasty Cascadefit |
 | 188 | 764 | Cyd061769 |
@@ -421,7 +421,7 @@
 | 413 | 364 | Ashley Rufus Bythcez |
 | 414 | 363 | 4girls |
 | 415 | 362 | Brandon Givens |
-| 416 | 360 | Alexi Pryor |
+| 416 | 360 | Cathy Leger |
 | 417 | 360 | xsiv |
 | 418 | 360 | Alexi Pryor |
 | 419 | 360 | Heather Bateman |
