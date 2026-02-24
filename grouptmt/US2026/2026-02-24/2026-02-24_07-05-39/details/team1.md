@@ -115,8 +115,8 @@
 | 107 | 768 | Jazzy Framezone |
 | 108 | 761 | Karin Gillen |
 | 109 | 751 | Kellie |
-| 110 | 725 | Debbie Kane |
-| 111 | 725 | Phu ckalldems |
+| 110 | 725 | Phu ckalldems |
+| 111 | 725 | Debbie Kane |
 | 112 | 719 | Bindi |
 | 113 | 716 | Kristi Johnson |
 | 114 | 706 | Denice Dee |
@@ -277,7 +277,7 @@
 | 269 | 380 | Snippy Wipebuilder |
 | 270 | 379 | Austin James |
 | 271 | 378 | Eddie Dillon |
-| 272 | 377 | Rayline M Bradshaw |
+| 272 | 377 | DoodleBug |
 | 273 | 377 | GATOR |
 | 274 | 377 | Rayline M Bradshaw |
 | 275 | 376 | Sassy Builderline |

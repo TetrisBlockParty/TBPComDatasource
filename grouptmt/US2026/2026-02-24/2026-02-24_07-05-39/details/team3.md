@@ -231,8 +231,8 @@
 | 223 | 709 | Cynthia Castros-Hampton |
 | 224 | 708 | Stephanie Bradley |
 | 225 | 703 | Shawn Miller |
-| 226 | 691 | Tia |
-| 227 | 691 | Snappy Balancer |
+| 226 | 691 | Snappy Balancer |
+| 227 | 691 | Tia |
 | 228 | 687 | joz |
 | 229 | 675 | Terry Jo Jones |
 | 230 | 662 | Jim Mathews |
@@ -256,8 +256,8 @@
 | 248 | 627 | Louise Stacy Sisson |
 | 249 | 625 | Jacqueline Rodriguez |
 | 250 | 624 | Hyper Matchzone |
-| 251 | 623 | Rebecca Funderburk Kirby |
-| 252 | 623 | Giggy Glidepiece |
+| 251 | 623 | Giggy Glidepiece |
+| 252 | 623 | Rebecca Funderburk Kirby |
 | 253 | 620 | Tamara Deherrera |
 | 254 | 619 | Swanky Snapclear |
 | 255 | 618 | Kaitie Oliver |
@@ -347,8 +347,8 @@
 | 339 | 471 | Sarah Moyer |
 | 340 | 467 | Jul |
 | 341 | 467 | Danielle Rhoades |
-| 342 | 465 | Noettín Kan Zasnemoore |
-| 343 | 465 | Blocked |
+| 342 | 465 | Blocked |
+| 343 | 465 | Noettín Kan Zasnemoore |
 | 344 | 464 | Snazzy Filler |
 | 345 | 462 | Brandon Givens |
 | 346 | 462 | Tegan Chapman |
@@ -383,26 +383,26 @@
 | 375 | 432 | Sabrina Mansfield |
 | 376 | 431 | Donna Esbensen-Alpini |
 | 377 | 430 | Quackers |
-| 378 | 428 | Skinny Baldez |
-| 379 | 428 | Samantha Lynn |
-| 380 | 427 | AlsoJess |
-| 381 | 427 | Darlene McMillan |
+| 378 | 428 | Samantha Lynn |
+| 379 | 428 | Skinny Baldez |
+| 380 | 427 | Darlene McMillan |
+| 381 | 427 | AlsoJess |
 | 382 | 426 | Christina Rotz Shows |
 | 383 | 425 | Ava Petito |
 | 384 | 423 | Dapper Liney |
-| 385 | 419 | Philip Rock |
-| 386 | 419 | Desiree Gold |
+| 385 | 419 | Desiree Gold |
+| 386 | 419 | Philip Rock |
 | 387 | 419 | Maggie |
 | 388 | 418 | Rainbow77375 |
 | 389 | 416 | Tay |
 | 390 | 415 | Steffi Chris Dacones |
-| 391 | 414 | RickyG |
-| 392 | 414 | Arden White Kirsch |
+| 391 | 414 | Arden White Kirsch |
+| 392 | 414 | RickyG |
 | 393 | 413 | Rick Poppen |
 | 394 | 411 | Beaudie Stroebel |
 | 395 | 409 | Rich LeBlanc |
-| 396 | 408 | Ashley Muncey |
-| 397 | 408 | Tiffany Ford |
+| 396 | 408 | Tiffany Ford |
+| 397 | 408 | Ashley Muncey |
 | 398 | 407 | Christina Spa |
 | 399 | 405 | Andrew Thorson |
 | 400 | 404 | Giggy Balanceblock |
@@ -420,11 +420,11 @@
 | 412 | 391 | gremicx |
 | 413 | 390 | ROODBOY |
 | 414 | 389 | Amanda J. Mcneil-Anderson |
-| 415 | 387 | Goofy Fall |
-| 416 | 387 | Brittany K Ward |
+| 415 | 387 | Brittany K Ward |
+| 416 | 387 | Goofy Fall |
 | 417 | 384 | Tiffany Davie |
-| 418 | 383 | Kirhonda Autmon |
-| 419 | 383 | Jessica Christian |
+| 418 | 383 | Jessica Christian |
+| 419 | 383 | Kirhonda Autmon |
 | 420 | 381 | Mary Giorgenti |
 | 421 | 380 | Foltz Lee Kelli |
 | 422 | 380 | neci |
@@ -462,8 +462,8 @@
 | 454 | 359 | Steven Fulater |
 | 455 | 359 | Kathleen Taylor |
 | 456 | 358 | Taylor Culver |
-| 457 | 358 | Beejangles |
-| 458 | 358 | Hyper Twisterfit |
+| 457 | 358 | Hyper Twisterfit |
+| 458 | 358 | Beejangles |
 | 459 | 357 | Hoài Quắt |
 | 460 | 356 | Trice Sodames |
 | 461 | 356 | Christy Quick |

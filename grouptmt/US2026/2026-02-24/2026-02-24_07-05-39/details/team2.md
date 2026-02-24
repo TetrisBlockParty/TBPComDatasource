@@ -214,8 +214,8 @@
 | 206 | 1815 | Chirpy Staggerpiece |
 | 207 | 1813 | Catina Hutchison |
 | 208 | 1807 | Osun Anuket Esu |
-| 209 | 1775 | Sommer Shope |
-| 210 | 1775 | Eboni Banks |
+| 209 | 1775 | Eboni Banks |
+| 210 | 1775 | Sommer Shope |
 | 211 | 1763 | Nerdy Pattern |
 | 212 | 1761 | Rosa Franklin |
 | 213 | 1751 | Melissa Penelope Ann Dodge |
@@ -274,8 +274,8 @@
 | 266 | 1481 | Jamie Schmitt |
 | 267 | 1480 | Dimitra Zazara |
 | 268 | 1478 | Misty Walker |
-| 269 | 1477 | Prado |
-| 270 | 1477 | Hillary Crawford |
+| 269 | 1477 | Hillary Crawford |
+| 270 | 1477 | Prado |
 | 271 | 1469 | Carrie Trigg |
 | 272 | 1463 | Yvonne Wharton |
 | 273 | 1459 | Shiny Rollzone |
@@ -653,8 +653,8 @@
 | 645 | 780 | Amy Reynolds |
 | 646 | 779 | Shanae Dillahunty |
 | 647 | 779 | Trinity Oak |
-| 648 | 777 | Tesha Oldaker |
-| 649 | 777 | Ashley Lopez |
+| 648 | 777 | Ashley Lopez |
+| 649 | 777 | Tesha Oldaker |
 | 650 | 776 | Jerilyn Andrina |
 | 651 | 774 | Ryan Gunther |
 | 652 | 773 | Chummy Blockbuilder |
@@ -672,11 +672,11 @@
 | 664 | 763 | Chelle |
 | 665 | 762 | Slinky Racker |
 | 666 | 760 | Shorty |
-| 667 | 759 | Briana Alexander |
-| 668 | 759 | Jessica Lamb |
+| 667 | 759 | Jessica Lamb |
+| 668 | 759 | Briana Alexander |
 | 669 | 758 | Stephanie Neuburger |
-| 670 | 758 | John Jubes |
-| 671 | 758 | James Smith |
+| 670 | 758 | James Smith |
+| 671 | 758 | John Jubes |
 | 672 | 757 | Frisky Clearpiece |
 | 673 | 756 | Aleksandr Gershman |
 | 674 | 755 | Marcia Jones |

@@ -99,15 +99,15 @@
 | 91 | 878 | Lucille Truesdale |
 | 92 | 873 | Courtney Cicoria |
 | 93 | 869 | Judy Cox |
-| 94 | 864 | Samantha Peterson |
-| 95 | 864 | Guy Incognito |
+| 94 | 864 | Guy Incognito |
+| 95 | 864 | Samantha Peterson |
 | 96 | 854 | Shauna Havard |
 | 97 | 851 | Jason Hart |
 | 98 | 846 | Christine Marie |
 | 99 | 840 | SAP |
 | 100 | 837 | Rica Mitchell |
-| 101 | 834 | quicksand420 |
-| 102 | 834 | Brittney Orengo |
+| 101 | 834 | Brittney Orengo |
+| 102 | 834 | quicksand420 |
 | 103 | 815 | Diana Houts |
 | 104 | 813 | Klo |
 | 105 | 811 | Sassy Pattern |
@@ -130,8 +130,8 @@
 | 122 | 735 | Nugget |
 | 123 | 731 | KJ Pool |
 | 124 | 729 | Jamie Mann-Deichmann |
-| 125 | 726 | Amy Suckarieh |
-| 126 | 726 | Jamie Gustafson |
+| 125 | 726 | Jamie Gustafson |
+| 126 | 726 | Amy Suckarieh |
 | 127 | 725 | Brandon Crabbs |
 | 128 | 712 | H.R. Block |
 | 129 | 712 | Leslie Nicole |
@@ -167,8 +167,8 @@
 | 159 | 590 | Angela Srubar-Norman |
 | 160 | 589 | Livvy |
 | 161 | 587 | YoMomma |
-| 162 | 586 | Carlos Ramirez |
-| 163 | 586 | Latisha Davis |
+| 162 | 586 | Latisha Davis |
+| 163 | 586 | Carlos Ramirez |
 | 164 | 585 | Tracey Lehmann |
 | 165 | 584 | Carlton Unfiltered |
 | 166 | 576 | Jade Rian |
@@ -234,8 +234,8 @@
 | 226 | 462 | Crystal Nicolette Moore |
 | 227 | 460 | Calvin Cannon |
 | 228 | 460 | Kathy Brookins |
-| 229 | 458 | Kristina Black |
-| 230 | 458 | Luis Martinez |
+| 229 | 458 | Luis Martinez |
+| 230 | 458 | Kristina Black |
 | 231 | 457 | Kristin Manee |
 | 232 | 457 | J-Rizzle |
 | 233 | 455 | Michele Plunkett |
@@ -259,8 +259,8 @@
 | 251 | 427 | Chao Ma |
 | 252 | 424 | Andrew Dang |
 | 253 | 423 | Gdiguy |
-| 254 | 421 | Brickh4us |
-| 255 | 421 | JIGsaw ~(•¿°)~ |
+| 254 | 421 | JIGsaw ~(•¿°)~ |
+| 255 | 421 | Brickh4us |
 | 256 | 420 | Jeff Brian Gates |
 | 257 | 414 | Hyper Matchclear |
 | 258 | 413 | Rio Rocha |
@@ -369,16 +369,16 @@
 | 361 | 314 | Kenna Gunderland |
 | 362 | 313 | DonMega |
 | 363 | 312 | Tawna Curry |
-| 364 | 311 | KayM |
-| 365 | 311 | Reds Bella |
-| 366 | 311 | Ak Jones |
+| 364 | 311 | Ak Jones |
+| 365 | 311 | KayM |
+| 366 | 311 | Reds Bella |
 | 367 | 310 | Bradley Reeves |
 | 368 | 308 | Angela Geist Jusinski |
 | 369 | 306 | PeaceOs |
 | 370 | 305 | tipsy tiger |
 | 371 | 304 | Sarah Neathery |
-| 372 | 302 | Jenna McGeorge |
-| 373 | 302 | Koral Hanke |
+| 372 | 302 | Koral Hanke |
+| 373 | 302 | Jenna McGeorge |
 | 374 | 300 | Carter Jones |
 | 375 | 300 | Jason Frehner |
 | 376 | 299 | Michael Snow |
@@ -522,7 +522,7 @@
 | 514 | 227 | 2slo |
 | 515 | 226 | Jen May |
 | 516 | 224 | Quirky Dash |
-| 517 | 224 | Vanessa Smart |
+| 517 | 224 | Shirl |
 | 518 | 224 | Neil Ingham |
 | 519 | 224 | Vanessa Smart |
 | 520 | 223 | Jessica Atkinson |
@@ -594,8 +594,8 @@
 | 586 | 201 | Michael Orris |
 | 587 | 199 | Allen Johnson |
 | 588 | 199 | Eri Kka |
-| 589 | 198 | Bubbly Setter |
-| 590 | 198 | Zocko Ellet |
+| 589 | 198 | Zocko Ellet |
+| 590 | 198 | Bubbly Setter |
 | 591 | 197 | Bryan James Marino |
 | 592 | 197 | Brad Campbell |
 | 593 | 196 | Julie McAfoos Swanson |
