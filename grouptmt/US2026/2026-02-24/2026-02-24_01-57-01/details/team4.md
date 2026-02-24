@@ -179,8 +179,8 @@
 | 171 | 521 | Andy Cabral |
 | 172 | 520 | Oscar Alberto Perez |
 | 173 | 520 | Zippy Block |
-| 174 | 516 | Twisty Clicky |
-| 175 | 516 | Trish |
+| 174 | 516 | Trish |
+| 175 | 516 | Twisty Clicky |
 | 176 | 514 | Scott Jameson |
 | 177 | 513 | Erin Thomas |
 | 178 | 512 | ThaEviLJeNiuZ |
@@ -198,8 +198,8 @@
 | 190 | 496 | Lori |
 | 191 | 495 | Jessica Bohlken |
 | 192 | 493 | April Rondinone |
-| 193 | 492 | Christina Black |
-| 194 | 492 | Sharyn Lemire |
+| 193 | 492 | Sharyn Lemire |
+| 194 | 492 | Christina Black |
 | 195 | 491 | Jade Rian |
 | 196 | 482 | Adam Stephanie Parker |
 | 197 | 478 | Casey Grabner |
@@ -250,8 +250,8 @@
 | 242 | 398 | Nerdy Twisterfit |
 | 243 | 398 | Tyler Terrific |
 | 244 | 397 | blockstar |
-| 245 | 395 | BigSammy420 |
-| 246 | 395 | 030Synner |
+| 245 | 395 | 030Synner |
+| 246 | 395 | BigSammy420 |
 | 247 | 394 | Nita Wells |
 | 248 | 391 | mike |
 | 249 | 390 | Ari Droff |
@@ -260,8 +260,8 @@
 | 252 | 383 | JPW |
 | 253 | 382 | Sue Joyce Staats |
 | 254 | 381 | Rafael Valentin |
-| 255 | 380 | shark tato |
-| 256 | 380 | Rio Rocha |
+| 255 | 380 | Rio Rocha |
+| 256 | 380 | shark tato |
 | 257 | 379 | Backoff Recupe |
 | 258 | 378 | Googenheim |
 | 259 | 378 | Mary Ann Pabukis |

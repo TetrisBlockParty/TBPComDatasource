@@ -336,8 +336,8 @@
 | 328 | 444 | Snazzy Filler |
 | 329 | 443 | Jul |
 | 330 | 442 | Jennifer Alvey |
-| 331 | 436 | AC Yeater |
-| 332 | 436 | Heather De Vries Cobb |
+| 331 | 436 | Heather De Vries Cobb |
+| 332 | 436 | AC Yeater |
 | 333 | 435 | Sabrina Hardrick |
 | 334 | 432 | Snippy Wipeout |
 | 335 | 432 | Jojo M |
@@ -379,8 +379,8 @@
 | 371 | 389 | ROODBOY |
 | 372 | 389 | Kristen Weese |
 | 373 | 388 | Michelle Allers |
-| 374 | 386 | Philip Rock |
-| 375 | 386 | Kelly Wolf |
+| 374 | 386 | Kelly Wolf |
+| 375 | 386 | Philip Rock |
 | 376 | 384 | Tiffany Davie |
 | 377 | 383 | Jessica Christian |
 | 378 | 383 | Nikki White |
@@ -506,8 +506,8 @@
 | 498 | 313 | Tracey Cox |
 | 499 | 313 | Dakota Graham |
 | 500 | 312 | Carol Cain Thurman |
-| 501 | 311 | Irene Arreguin |
-| 502 | 311 | Aponk |
+| 501 | 311 | Aponk |
+| 502 | 311 | Irene Arreguin |
 | 503 | 310 | Kristi Taylor |
 | 504 | 309 | Nikkie Bucciano |
 | 505 | 308 | Grams |
@@ -520,13 +520,13 @@
 | 512 | 308 | Quirky Dropzone |
 | 513 | 307 | Kristina Gardner |
 | 514 | 307 | Lively Caster |
-| 515 | 306 | Dapper Chiseler |
-| 516 | 306 | Valerie Tarkington |
+| 515 | 306 | Valerie Tarkington |
+| 516 | 306 | Dapper Chiseler |
 | 517 | 305 | Breezy Roll |
 | 518 | 304 | _melisa223_ |
 | 519 | 304 | Carrie Resler |
 | 520 | 304 | Courtney Price |
-| 521 | 304 | Carrie Resler |
+| 521 | 304 | Cibf Ecihm |
 | 522 | 303 | Sameerah Smith |
 | 523 | 303 | Cranky Corner |
 | 524 | 303 | Hasty Pop |

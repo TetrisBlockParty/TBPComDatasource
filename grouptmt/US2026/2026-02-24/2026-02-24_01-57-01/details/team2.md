@@ -193,8 +193,8 @@
 | 185 | 1763 | Juliana Marques Do Nascimento Gordy |
 | 186 | 1759 | Nerdy Pattern |
 | 187 | 1756 | Hannah Erskine |
-| 188 | 1751 | Melissa Penelope Ann Dodge |
-| 189 | 1751 | Bob |
+| 188 | 1751 | Bob |
+| 189 | 1751 | Melissa Penelope Ann Dodge |
 | 190 | 1750 | Crystal Slaughter |
 | 191 | 1746 | Dee |
 | 192 | 1745 | Dustin Rains |
@@ -596,17 +596,17 @@
 | 588 | 766 | Angela Cagle Silmon |
 | 589 | 766 | Frisky Riserbuilder |
 | 590 | 764 | Mia Muse Best |
-| 591 | 763 | Heather Causey |
+| 591 | 763 | Chelle |
 | 592 | 763 | Megan Kitchner |
-| 593 | 763 | Chelle |
-| 594 | 761 | Cecilia A Jenkins |
-| 595 | 761 | Jerilyn Andrina |
+| 593 | 763 | Heather Causey |
+| 594 | 761 | Jerilyn Andrina |
+| 595 | 761 | Cecilia A Jenkins |
 | 596 | 759 | Briana Alexander |
 | 597 | 758 | Stephanie Neuburger |
 | 598 | 757 | Frisky Clearpiece |
 | 599 | 756 | Aleksandr Gershman |
-| 600 | 755 | Antonio Mckoy Sr. |
-| 601 | 755 | Taryece Gause |
+| 600 | 755 | Taryece Gause |
+| 601 | 755 | Antonio Mckoy Sr. |
 | 602 | 754 | Fae-Bulous |
 | 603 | 754 | Draizen Montrell Thomas |
 | 604 | 751 | Tom Riefer |
