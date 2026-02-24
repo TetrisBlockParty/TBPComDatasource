@@ -413,8 +413,8 @@
 | 405 | 1042 | Spunkysmom |
 | 406 | 1041 | Crystal Hoffman |
 | 407 | 1038 | Giggly Snap |
-| 408 | 1036 | Amber Shoemaker |
-| 409 | 1036 | Allison Lockyer |
+| 408 | 1036 | Allison Lockyer |
+| 409 | 1036 | Amber Shoemaker |
 | 410 | 1033 | Andrea Maher |
 | 411 | 1031 | Allan Wayne Lamia |
 | 412 | 1031 | Lupita Flores |

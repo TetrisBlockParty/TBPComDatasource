@@ -186,14 +186,14 @@
 | 178 | 777 | Daryn Elliott |
 | 179 | 776 | JessDrown |
 | 180 | 774 | ren |
-| 181 | 773 | Sashay Tapae Simpson |
-| 182 | 773 | Daira Largen |
+| 181 | 773 | Daira Largen |
+| 182 | 773 | Sashay Tapae Simpson |
 | 183 | 772 | Tye Stovall |
 | 184 | 772 | Twisty Brick LT |
 | 185 | 770 | Raya |
 | 186 | 768 | Hasty Cascadefit |
-| 187 | 763 | Tasha Gillespie |
-| 188 | 763 | Patricia White |
+| 187 | 763 | Patricia White |
+| 188 | 763 | Tasha Gillespie |
 | 189 | 760 | Kiki |
 | 190 | 757 | Fancy Cascader |
 | 191 | 755 | Laura Booth Wosko |
@@ -297,15 +297,15 @@
 | 289 | 507 | Snappy Balancer |
 | 290 | 506 | Ammmmmmy |
 | 291 | 505 | Stephanie Simpson |
-| 292 | 502 | Giddy Twistbuilder |
-| 293 | 502 | Jeni Dow |
+| 292 | 502 | Jeni Dow |
+| 293 | 502 | Giddy Twistbuilder |
 | 294 | 501 | Rebecca Funderburk Kirby |
 | 295 | 500 | Ashley Tookes |
 | 296 | 499 | Gumbo |
 | 297 | 498 | Chummy Caster |
 | 298 | 497 | Rebecca Bailey |
-| 299 | 494 | Megan Rathmanner |
-| 300 | 494 | MCV |
+| 299 | 494 | MCV |
+| 300 | 494 | Megan Rathmanner |
 | 301 | 489 | Isabel Ocasio |
 | 302 | 488 | Brenda Schmid Wood |
 | 303 | 486 | Skippy |
@@ -360,16 +360,16 @@
 | 352 | 414 | RickyG |
 | 353 | 411 | Steffi Chris Dacones |
 | 354 | 409 | Rich LeBlanc |
-| 355 | 408 | Ashley Muncey |
-| 356 | 408 | Tiffany Ford |
+| 355 | 408 | Tiffany Ford |
+| 356 | 408 | Ashley Muncey |
 | 357 | 407 | Christina Spa |
 | 358 | 405 | fraulila |
 | 359 | 405 | Andrew Thorson |
 | 360 | 405 | Skinny Baldez |
 | 361 | 405 | Chris Bell |
 | 362 | 404 | Giggy Balanceblock |
-| 363 | 403 | Stephanie Burtin |
-| 364 | 403 | Scott Lindsay |
+| 363 | 403 | Scott Lindsay |
+| 364 | 403 | Stephanie Burtin |
 | 365 | 401 | block chick |
 | 366 | 399 | Velma Mull |
 | 367 | 399 | Christina Rotz Shows |

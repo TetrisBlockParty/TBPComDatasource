@@ -91,11 +91,11 @@
 | 83 | 864 | Guy Incognito |
 | 84 | 861 | Peachy Fall |
 | 85 | 855 | Chilly Line |
-| 86 | 850 | Lisa Davis |
-| 87 | 850 | Lucille Truesdale |
+| 86 | 850 | Lucille Truesdale |
+| 87 | 850 | Lisa Davis |
 | 88 | 846 | Christine Marie |
-| 89 | 841 | Judy Cox |
-| 90 | 841 | Shauna Havard |
+| 89 | 841 | Shauna Havard |
+| 90 | 841 | Judy Cox |
 | 91 | 840 | Chaz Duncan |
 | 92 | 834 | quicksand420 |
 | 93 | 826 | Rica Mitchell |

@@ -77,8 +77,8 @@
 | 69 | 1003 | Amber Stoker |
 | 70 | 987 | TSwag |
 | 71 | 980 | Veronica Eve |
-| 72 | 966 | Shalene Frederick Autrey |
-| 73 | 966 | Francesca Gee |
+| 72 | 966 | Francesca Gee |
+| 73 | 966 | Shalene Frederick Autrey |
 | 74 | 961 | Jacqueline Williams |
 | 75 | 957 | Zippy Align |
 | 76 | 934 | Erin Hodges Plumb |
@@ -221,8 +221,8 @@
 | 213 | 422 | Jamise Brown |
 | 214 | 422 | Reesey Enyart |
 | 215 | 420 | Jennifer Noe Chandler |
-| 216 | 419 | John J. Cronin |
-| 217 | 419 | Daring Fitclear |
+| 216 | 419 | Daring Fitclear |
+| 217 | 419 | John J. Cronin |
 | 218 | 417 | Jessie Lynn |
 | 219 | 416 | Jessica Sheehan |
 | 220 | 413 | Ananda Mendez |
@@ -279,8 +279,8 @@
 | 271 | 362 | Brooke Elizabeth Antill |
 | 272 | 359 | Rodney Schmerfeld |
 | 273 | 357 | Paula Martin |
-| 274 | 356 | Tyler Hertzog |
-| 275 | 356 | Dawn Michelle Scheible |
+| 274 | 356 | Dawn Michelle Scheible |
+| 275 | 356 | Tyler Hertzog |
 | 276 | 355 | Keith Mathis |
 | 277 | 354 | Kimberly Davis |
 | 278 | 353 | Jessica Russell |
@@ -504,8 +504,8 @@
 | 496 | 221 | Amy Hess |
 | 497 | 221 | Spunky Builderpiece |
 | 498 | 220 | Corrie Grant Smithson |
-| 499 | 219 | Negan Mallory Knoxx Spence |
-| 500 | 219 | Breanna Luna |
+| 499 | 219 | Breanna Luna |
+| 500 | 219 | Negan Mallory Knoxx Spence |
 | 501 | 218 | Aaron Green |
 | 502 | 218 | Isaiah |
 | 503 | 218 | Jason Benitez |
