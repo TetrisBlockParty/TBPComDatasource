@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-24 22:50:44 UTC
+# Standings for team1 as of 2026-02-24 22:51:22 UTC
 
 **Total Participants:** 2334
 
@@ -161,8 +161,8 @@
 | 153 | 654 | Ty Brown |
 | 154 | 652 | Erin Rosberg |
 | 155 | 652 | Evie Khalil |
-| 156 | 647 | Theo Pinnow |
-| 157 | 644 | Damon J. Martin |
+| 156 | 647 | Damon J. Martin |
+| 157 | 647 | Theo Pinnow |
 | 158 | 644 | Flashy Rotator |
 | 159 | 637 | Jennifer Hardman |
 | 160 | 632 | Snippy Wipebuilder |
@@ -705,8 +705,8 @@
 | 697 | 203 | Tina Kocher Zimmerman |
 | 698 | 203 | Ramona Mittelstadt |
 | 699 | 202 | Pie-3.14 |
-| 700 | 202 | Piffy |
-| 701 | 202 | TristansDad |
+| 700 | 202 | TristansDad |
+| 701 | 202 | Piffy |
 | 702 | 201 | Joyce Harrell-chavis |
 | 703 | 201 | Donna Horoszewski-Dilgen |
 | 704 | 200 | Prometheus |
@@ -716,14 +716,14 @@
 | 708 | 199 | Rayshawn Beamer |
 | 709 | 199 | Krazykat💋❤️💋 |
 | 710 | 199 | Tina Englert |
-| 711 | 198 | Misty Hall Zaranti |
-| 712 | 198 | Sarah Barrow |
-| 713 | 198 | Kayla Deaton |
-| 714 | 197 | Wacky Strikesnap |
-| 715 | 197 | Philip Hutson |
+| 711 | 199 | Nikki Fridley |
+| 712 | 198 | Misty Hall Zaranti |
+| 713 | 198 | Sarah Barrow |
+| 714 | 198 | Kayla Deaton |
+| 715 | 197 | Wacky Strikesnap |
 | 716 | 197 | Amanda Stevens |
-| 717 | 197 | Cool Towerzone |
-| 718 | 197 | Nikki Fridley |
+| 717 | 197 | Philip Hutson |
+| 718 | 197 | Cool Towerzone |
 | 719 | 197 | Cozy Shatterer |
 | 720 | 196 | Nicole Little |
 | 721 | 195 | Slinky Rotater |

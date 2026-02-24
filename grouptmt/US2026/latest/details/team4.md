@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-24 22:50:44 UTC
+# Standings for team4 as of 2026-02-24 22:51:22 UTC
 
 **Total Participants:** 2099
 
@@ -109,12 +109,12 @@
 | 101 | 899 | Lucille Truesdale |
 | 102 | 887 | Amy Suckarieh |
 | 103 | 871 | Samantha Peterson |
-| 104 | 863 | Sassy Pattern |
-| 105 | 861 | Rica Mitchell |
-| 106 | 854 | Shauna Havard |
-| 107 | 847 | Carrie Brian |
-| 108 | 846 | Christine Marie |
-| 109 | 845 | Klo |
+| 104 | 865 | Klo |
+| 105 | 863 | Sassy Pattern |
+| 106 | 861 | Rica Mitchell |
+| 107 | 854 | Shauna Havard |
+| 108 | 847 | Carrie Brian |
+| 109 | 846 | Christine Marie |
 | 110 | 845 | Denise Carlson |
 | 111 | 839 | Trista Leah |
 | 112 | 837 | Lori Walker |
@@ -129,8 +129,8 @@
 | 121 | 802 | Crystal Carroll |
 | 122 | 787 | TheNeesh50 |
 | 123 | 786 | Nerdy Twisterfit |
-| 124 | 781 | Savannah Overdorf |
-| 125 | 781 | Brittney Griggs |
+| 124 | 781 | Brittney Griggs |
+| 125 | 781 | Savannah Overdorf |
 | 126 | 780 | Angela Srubar-Norman |
 | 127 | 780 | Leslie Nicole |
 | 128 | 766 | Robin Watters |
@@ -328,11 +328,11 @@
 | 320 | 401 | Stacey Stano |
 | 321 | 401 | Dan Wold |
 | 322 | 400 | Holly |
-| 323 | 399 | Michelle Morris |
-| 324 | 399 | Cool Gridzone |
-| 325 | 398 | Tyler Terrific |
-| 326 | 398 | Zołza 😈 |
-| 327 | 398 | Montiette Mcglown |
+| 323 | 400 | Montiette Mcglown |
+| 324 | 399 | Michelle Morris |
+| 325 | 399 | Cool Gridzone |
+| 326 | 398 | Tyler Terrific |
+| 327 | 398 | Zołza 😈 |
 | 328 | 397 | James Philpot Ross |
 | 329 | 396 | Holly Jolly |
 | 330 | 395 | Daria Rycewicz |
@@ -483,8 +483,8 @@
 | 475 | 288 | Michael Orris |
 | 476 | 288 | Jesse Saville |
 | 477 | 288 | Bonnie Hurlbrink |
-| 478 | 285 | Thomas Hettenhaus |
-| 479 | 284 | Frisky Matchgrid |
+| 478 | 286 | Frisky Matchgrid |
+| 479 | 285 | Thomas Hettenhaus |
 | 480 | 284 | Hector Duran |
 | 481 | 284 | Jose Dejesus |
 | 482 | 283 | Chariss Newsom |
@@ -671,44 +671,44 @@
 | 663 | 209 | Bumpy Morris |
 | 664 | 209 | Calvin Dennis |
 | 665 | 209 | Matthew Pate |
-| 666 | 209 | Elle Joe |
-| 667 | 209 | Cheery Gridlock |
+| 666 | 209 | Cheery Gridlock |
+| 667 | 209 | Elle Joe |
 | 668 | 208 | JoAnna Zalkovsky |
 | 669 | 208 | Walid Elsabee |
 | 670 | 207 | Colton Stamper |
 | 671 | 207 | Nikki Wilson |
-| 672 | 206 | Rosemary Foster |
-| 673 | 206 | Cool Clusterfit |
-| 674 | 205 | Ben Nome |
-| 675 | 205 | Flashy Blockpiece |
-| 676 | 204 | Larry Agan |
-| 677 | 204 | Smiley Shifter |
-| 678 | 204 | Kujuanna Hammon |
-| 679 | 204 | Susan Purnell |
+| 672 | 206 | Cool Clusterfit |
+| 673 | 206 | Nijmeh Hinchsliff |
+| 674 | 206 | Rosemary Foster |
+| 675 | 205 | Ben Nome |
+| 676 | 205 | Flashy Blockpiece |
+| 677 | 204 | Larry Agan |
+| 678 | 204 | Susan Purnell |
+| 679 | 204 | Kujuanna Hammon |
 | 680 | 204 | Gwendolyn Pitcairn |
-| 681 | 203 | Cooldamalley |
-| 682 | 203 | MOCHA |
-| 683 | 203 | Tammy Lewis |
-| 684 | 203 | Pampam |
-| 685 | 202 | b |
-| 686 | 202 | Veronica Garza |
-| 687 | 202 | Douglass |
+| 681 | 204 | Smiley Shifter |
+| 682 | 203 | Cooldamalley |
+| 683 | 203 | MOCHA |
+| 684 | 203 | Tammy Lewis |
+| 685 | 203 | Pampam |
+| 686 | 202 | b |
+| 687 | 202 | Veronica Garza |
 | 688 | 202 | Jim Gray |
-| 689 | 202 | Jasmine S Caldwell |
-| 690 | 202 | Nijmeh Hinchsliff |
-| 691 | 201 | Eric Wren |
+| 689 | 202 | Douglass |
+| 690 | 202 | Jasmine S Caldwell |
+| 691 | 201 | Jennifer Marsella |
 | 692 | 201 | Carla Harris |
 | 693 | 201 | Timothy Allen |
-| 694 | 201 | Jennifer Marsella |
+| 694 | 201 | Eric Wren |
 | 695 | 201 | Danya Castillo Rios |
 | 696 | 199 | Allen Johnson |
-| 697 | 199 | Patrick Cookson |
-| 698 | 199 | Amy C Brown |
+| 697 | 199 | Amy C Brown |
+| 698 | 199 | Patrick Cookson |
 | 699 | 198 | Zocko Ellet |
-| 700 | 198 | Ahleek Mitchell |
-| 701 | 198 | Earnest Thompson |
+| 700 | 198 | Earnest Thompson |
+| 701 | 198 | Christina O'Dell-Ishau |
 | 702 | 198 | Jazzy Slamdrop |
-| 703 | 198 | Christina O'Dell-Ishau |
+| 703 | 198 | Ahleek Mitchell |
 | 704 | 198 | Shiny Twistpiece |
 | 705 | 198 | Lorinda Wixom |
 | 706 | 198 | Bubbly Setter |
@@ -716,20 +716,20 @@
 | 708 | 196 | Deanna Mc |
 | 709 | 196 | Speedy Swipe |
 | 710 | 196 | Hanh Pham |
-| 711 | 195 | Tabi Williams |
-| 712 | 195 | Wacky Twister |
-| 713 | 195 | Hasty Fitzone |
+| 711 | 195 | Hasty Fitzone |
+| 712 | 195 | Tabi Williams |
+| 713 | 195 | Wacky Twister |
 | 714 | 195 | Jobadia Steelerton |
 | 715 | 195 | Tianna Frey |
-| 716 | 194 | Carlos Hernandez |
-| 717 | 194 | Katie Alexander |
-| 718 | 194 | Zany Twisterfit |
+| 716 | 194 | Zany Twisterfit |
+| 717 | 194 | Carlos Hernandez |
+| 718 | 194 | Katie Alexander |
 | 719 | 193 | David V. Bowers |
 | 720 | 193 | Miranda Wigginton |
 | 721 | 192 | Shon Woodland |
 | 722 | 192 | Cozy Framezone |
-| 723 | 192 | Tanner Lund |
-| 724 | 192 | Peppy Strike |
+| 723 | 192 | Peppy Strike |
+| 724 | 192 | Tanner Lund |
 | 725 | 191 | Stephanie Jones |
 | 726 | 191 | Norman Klick |
 | 727 | 191 | Zany Mover |
