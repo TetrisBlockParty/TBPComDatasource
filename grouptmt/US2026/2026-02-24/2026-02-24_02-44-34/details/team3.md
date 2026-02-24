@@ -194,8 +194,8 @@
 | 186 | 770 | Raya |
 | 187 | 768 | Hasty Cascadefit |
 | 188 | 764 | Cyd061769 |
-| 189 | 763 | Patricia White |
-| 190 | 763 | Tasha Gillespie |
+| 189 | 763 | Tasha Gillespie |
+| 190 | 763 | Patricia White |
 | 191 | 760 | Kiki |
 | 192 | 757 | Fancy Cascader |
 | 193 | 755 | Laura Booth Wosko |
@@ -257,8 +257,8 @@
 | 249 | 574 | Noyb Adam |
 | 250 | 573 | Donna |
 | 251 | 572 | Tessina Dewey-Mancino |
-| 252 | 570 | thekey |
-| 253 | 570 | LaTanya GeminiondaRise Johnson |
+| 252 | 570 | LaTanya GeminiondaRise Johnson |
+| 253 | 570 | thekey |
 | 254 | 569 | Michael Johnson |
 | 255 | 569 | Silly Twist |
 | 256 | 568 | Danielle Balcom |
@@ -283,8 +283,8 @@
 | 275 | 535 | kacihall |
 | 276 | 533 | BugMansMom |
 | 277 | 533 | Cheryl Hinch Tenbrook |
-| 278 | 529 | Michael Lucado |
-| 279 | 529 | rosy |
+| 278 | 529 | rosy |
+| 279 | 529 | Michael Lucado |
 | 280 | 528 | Lizabeth Fox |
 | 281 | 527 | Dapper Snap |
 | 282 | 521 | Ktfreeee |

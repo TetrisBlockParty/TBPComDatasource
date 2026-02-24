@@ -45,8 +45,8 @@
 | 37 | 1405 | Chipper Gridlock |
 | 38 | 1402 | Amanda Summey Schoemer |
 | 39 | 1391 | Aaron Garnett |
-| 40 | 1334 | Tyler Alcock |
-| 41 | 1334 | june october |
+| 40 | 1334 | june october |
+| 41 | 1334 | Tyler Alcock |
 | 42 | 1277 | Marianne Louise West |
 | 43 | 1261 | Hasbro Bros |
 | 44 | 1250 | Stef Hu |
@@ -149,8 +149,8 @@
 | 141 | 569 | Christy Jones |
 | 142 | 568 | Jason Savage |
 | 143 | 560 | Jazzy Framezone |
-| 144 | 556 | Brandi Huntington |
-| 145 | 556 | Susan Ward |
+| 144 | 556 | Susan Ward |
+| 145 | 556 | Brandi Huntington |
 | 146 | 555 | Sarah Lombardo |
 | 147 | 553 | Flashy Rotator |
 | 148 | 552 | Dee Perry |
@@ -231,8 +231,8 @@
 | 223 | 413 | Ananda Mendez |
 | 224 | 412 | Connie |
 | 225 | 407 | Sleepysloath5745 |
-| 226 | 405 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
-| 227 | 405 | Tyler L Hunt |
+| 226 | 405 | Tyler L Hunt |
+| 227 | 405 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 228 | 404 | Tawnya Peltonen |
 | 229 | 403 | Tipsy Strikerpiece |
 | 230 | 403 | Plucky Stacky |
@@ -452,7 +452,7 @@
 | 444 | 251 | MRdot Rooski |
 | 445 | 251 | Randy Broadwater |
 | 446 | 248 | John Barron |
-| 447 | 248 | Teresa |
+| 447 | 248 | Sunflower |
 | 448 | 248 | LC |
 | 449 | 248 | Teresa |
 | 450 | 247 | Colleen Wise |

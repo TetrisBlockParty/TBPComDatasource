@@ -77,8 +77,8 @@
 | 69 | 1030 | Anthony Bryan Riva |
 | 70 | 999 | Jeremy Steines |
 | 71 | 987 | Julian Garcia |
-| 72 | 985 | Shannon Ferrari |
-| 73 | 985 | Shelly Chandler |
+| 72 | 985 | Shelly Chandler |
+| 73 | 985 | Shannon Ferrari |
 | 74 | 956 | loulou |
 | 75 | 947 | TeeJ |
 | 76 | 939 | Edward White |
@@ -94,8 +94,8 @@
 | 86 | 855 | Chilly Line |
 | 87 | 850 | Lucille Truesdale |
 | 88 | 846 | Christine Marie |
-| 89 | 841 | Judy Cox |
-| 90 | 841 | Shauna Havard |
+| 89 | 841 | Shauna Havard |
+| 90 | 841 | Judy Cox |
 | 91 | 840 | Chaz Duncan |
 | 92 | 834 | quicksand420 |
 | 93 | 826 | Rica Mitchell |
@@ -124,8 +124,8 @@
 | 116 | 716 | Savannah Overdorf |
 | 117 | 712 | H.R. Block |
 | 118 | 710 | SAP |
-| 119 | 708 | Zippy Gridlock |
-| 120 | 708 | Jacqueline Helm |
+| 119 | 708 | Jacqueline Helm |
+| 120 | 708 | Zippy Gridlock |
 | 121 | 704 | Austin Owens |
 | 122 | 702 | Amy Suckarieh |
 | 123 | 698 | Chilly Crasher |
@@ -145,8 +145,8 @@
 | 137 | 633 | Jessica Lynn Cutlip |
 | 138 | 620 | Porkobello |
 | 139 | 616 | Samantha Peterson |
-| 140 | 615 | Kim Hunt |
-| 141 | 615 | Ernest Maxwell |
+| 140 | 615 | Ernest Maxwell |
+| 141 | 615 | Kim Hunt |
 | 142 | 611 | Chris Baggett |
 | 143 | 610 | Angelito |
 | 144 | 608 | Swanky Fitline |
@@ -280,8 +280,8 @@
 | 272 | 370 | Kris Bartlett |
 | 273 | 369 | Matt Dell'Olio |
 | 274 | 367 | Meg |
-| 275 | 366 | Andrew Dang |
-| 276 | 366 | Hyper Builder |
+| 275 | 366 | Hyper Builder |
+| 276 | 366 | Andrew Dang |
 | 277 | 360 | James Hurley Jr. |
 | 278 | 359 | Montiette Mcglown |
 | 279 | 359 | KimoKoala |
@@ -423,8 +423,8 @@
 | 415 | 258 | April Spoelma |
 | 416 | 257 | Dustin York |
 | 417 | 256 | Gracie Ann Taylor |
-| 418 | 255 | Jenny Wells-Oakley |
-| 419 | 255 | Red |
+| 418 | 255 | Red |
+| 419 | 255 | Jenny Wells-Oakley |
 | 420 | 253 | Autum Leigh |
 | 421 | 252 | Maureen Flanigan |
 | 422 | 251 | Kathy Allen |
