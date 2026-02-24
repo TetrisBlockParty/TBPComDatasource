@@ -243,8 +243,8 @@
 | 235 | 1668 | Cambrie Schultz |
 | 236 | 1665 | Carl Bradshaw |
 | 237 | 1663 | Alex Stone LaRue |
-| 238 | 1661 | Danielle Johnson-Chandler |
-| 239 | 1661 | Scott Treadway |
+| 238 | 1661 | Scott Treadway |
+| 239 | 1661 | Danielle Johnson-Chandler |
 | 240 | 1659 | Peppy Zone |
 | 241 | 1656 | Binyah-Binyah |
 | 242 | 1656 | Lemonaide |
@@ -321,8 +321,8 @@
 | 313 | 1357 | Tanya Parsons |
 | 314 | 1353 | Deborah Miller |
 | 315 | 1353 | Heather Hoffman Disharoon |
-| 316 | 1351 | Ashie Ann |
-| 317 | 1351 | Lucky Ladybug |
+| 316 | 1351 | Lucky Ladybug |
+| 317 | 1351 | Ashie Ann |
 | 318 | 1351 | Denisha Dawkins |
 | 319 | 1351 | Johnny Yeates |
 | 320 | 1342 | Groovy Puzzle |
@@ -370,8 +370,8 @@
 | 362 | 1249 | Tristan Szolek |
 | 363 | 1245 | Angel Hunnewell |
 | 364 | 1242 | Ambyre Patterson |
-| 365 | 1237 | Christine Coughlin |
-| 366 | 1237 | Cheech Dta |
+| 365 | 1237 | Cheech Dta |
+| 366 | 1237 | Christine Coughlin |
 | 367 | 1233 | Shannon Joslin |
 | 368 | 1229 | Brenda Messer |
 | 369 | 1227 | Rebecca Miller |
@@ -401,8 +401,8 @@
 | 393 | 1171 | Loretta Brewer-Gage |
 | 394 | 1170 | Shelley Thornburgh Wright |
 | 395 | 1164 | DefaultUser |
-| 396 | 1163 | Sarah DeHart |
-| 397 | 1163 | Caitlin Schmid |
+| 396 | 1163 | Caitlin Schmid |
+| 397 | 1163 | Sarah DeHart |
 | 398 | 1160 | Maricia Layolla Cason |
 | 399 | 1158 | Brittany Clark |
 | 400 | 1150 | Sheniya Spurgeon |
@@ -575,8 +575,8 @@
 | 567 | 888 | Leslie Ann Carter |
 | 568 | 886 | Bold Splitter |
 | 569 | 886 | Cherrica Newman |
-| 570 | 885 | Giggy Mover |
-| 571 | 885 | Miranda Morris |
+| 570 | 885 | Miranda Morris |
+| 571 | 885 | Giggy Mover |
 | 572 | 883 | Hong Tang |
 | 573 | 882 | Sarah Massey |
 | 574 | 881 | Layla LS |
@@ -872,8 +872,8 @@
 | 864 | 660 | Jenna Nance |
 | 865 | 660 | Shelva Richard |
 | 866 | 659 | Rain |
-| 867 | 656 | Emilie Desma |
-| 868 | 656 | Toni Whipple |
+| 867 | 656 | Toni Whipple |
+| 868 | 656 | Emilie Desma |
 | 869 | 655 | Lively Piecebuilder |
 | 870 | 655 | dionia |
 | 871 | 654 | DLOCC1056 |
@@ -1041,8 +1041,8 @@
 | 1033 | 570 | Erika Deer Kauffman |
 | 1034 | 570 | MauroPRM |
 | 1035 | 570 | Sonya Back |
-| 1036 | 569 | Sparkles |
-| 1037 | 569 | Anita Rose Green |
+| 1036 | 569 | Anita Rose Green |
+| 1037 | 569 | Sparkles |
 | 1038 | 569 | bosswoman |
 | 1039 | 568 | coleksquad |
 | 1040 | 567 | Lucero Ramirez |
@@ -1055,8 +1055,8 @@
 | 1047 | 562 | Gabbrielle Sutton |
 | 1048 | 562 | Klee |
 | 1049 | 562 | Smiley Strike |
-| 1050 | 562 | Angie Winch |
-| 1051 | 562 | Dan Kulhanek |
+| 1050 | 562 | Dan Kulhanek |
+| 1051 | 562 | Angie Winch |
 | 1052 | 561 | Jenelle Case |
 | 1053 | 560 | De Hawkins |
 | 1054 | 559 | Kaylee McCafferty |
@@ -1072,8 +1072,8 @@
 | 1064 | 556 | Kamilya Rembert |
 | 1065 | 555 | Noel Tarmy |
 | 1066 | 555 | Amy Roche |
-| 1067 | 554 | Hoppy Glidebuilder |
-| 1068 | 554 | Cheery Puzzler |
+| 1067 | 554 | Cheery Puzzler |
+| 1068 | 554 | Hoppy Glidebuilder |
 | 1069 | 554 | Asha Nichols-Collins |
 | 1070 | 554 | Dusti Rose Bingham |
 | 1071 | 553 | Sar Mo |
@@ -1108,17 +1108,17 @@
 | 1100 | 541 | Samantha Rojo |
 | 1101 | 541 | Misty |
 | 1102 | 540 | Melisa Marvin |
-| 1103 | 540 | Boldy Block |
-| 1104 | 540 | Pam Doughty |
-| 1105 | 539 | Loopy Brickmatch |
-| 1106 | 539 | Nutty Slice |
+| 1103 | 540 | Pam Doughty |
+| 1104 | 540 | Boldy Block |
+| 1105 | 539 | Nutty Slice |
+| 1106 | 539 | Loopy Brickmatch |
 | 1107 | 539 | stacey |
-| 1108 | 539 | Dizzy Clicker |
-| 1109 | 539 | Speedy Fill |
-| 1110 | 537 | Austin Wilson |
-| 1111 | 537 | Robin |
-| 1112 | 537 | Jaime E. Rodriguez |
-| 1113 | 537 | Epic Spinfit |
+| 1108 | 539 | Speedy Fill |
+| 1109 | 539 | Dizzy Clicker |
+| 1110 | 537 | Epic Spinfit |
+| 1111 | 537 | Austin Wilson |
+| 1112 | 537 | Robin |
+| 1113 | 537 | Jaime E. Rodriguez |
 | 1114 | 536 | Paul Hinkle |
 | 1115 | 536 | Enha |
 | 1116 | 535 | Lesley Leanne Houston |
@@ -1145,14 +1145,14 @@
 | 1137 | 527 | Jes Norris |
 | 1138 | 526 | Lively Catcher |
 | 1139 | 526 | Heidi Kent |
-| 1140 | 526 | Lively Catcher |
-| 1141 | 526 | Rosa Marie Matias |
-| 1142 | 525 | Micky |
-| 1143 | 525 | Sam |
-| 1144 | 524 | Mandy Kachenmeister |
-| 1145 | 524 | Sean Sabrowski |
+| 1140 | 526 | Rosa Marie Matias |
+| 1141 | 526 | Marcus Ken Wilcox |
+| 1142 | 525 | Sam |
+| 1143 | 525 | Micky |
+| 1144 | 524 | Sean Sabrowski |
+| 1145 | 524 | Mandy Kachenmeister |
 | 1146 | 524 | Gina Bahn |
-| 1147 | 523 | Leslie Porter |
+| 1147 | 523 | Suzy Moody |
 | 1148 | 523 | Sue Leard |
 | 1149 | 523 | Leslie Porter |
 | 1150 | 521 | Cozy Drop |
