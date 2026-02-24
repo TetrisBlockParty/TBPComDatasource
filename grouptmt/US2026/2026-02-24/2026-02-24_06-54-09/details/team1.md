@@ -106,12 +106,12 @@
 | 98 | 800 | Desiree Deschaine Havee |
 | 99 | 791 | Greg Hart |
 | 100 | 781 | Ash Galvan |
-| 101 | 773 | Susanna Guerry |
-| 102 | 773 | Cartier |
+| 101 | 773 | Cartier |
+| 102 | 773 | Susanna Guerry |
 | 103 | 772 | Kathy Langham |
 | 104 | 770 | Zappy Curvetile |
-| 105 | 769 | Robert Benito |
-| 106 | 769 | Angel Fowler |
+| 105 | 769 | Angel Fowler |
+| 106 | 769 | Robert Benito |
 | 107 | 768 | Jazzy Framezone |
 | 108 | 761 | Karin Gillen |
 | 109 | 751 | Kellie |
@@ -137,8 +137,8 @@
 | 129 | 647 | April Carroll |
 | 130 | 642 | Mario Cab |
 | 131 | 638 | Carrie Smith |
-| 132 | 629 | Tanya Carpenter-Reynolds |
-| 133 | 629 | Death |
+| 132 | 629 | Death |
+| 133 | 629 | Tanya Carpenter-Reynolds |
 | 134 | 628 | Trina Gee |
 | 135 | 626 | Damon J. Martin |
 | 136 | 622 | Chris K |
@@ -316,8 +316,8 @@
 | 308 | 353 | Josh Riemer |
 | 309 | 350 | Bouncy Line |
 | 310 | 347 | ParisandCory Champagne |
-| 311 | 346 | poopypants |
-| 312 | 346 | Gary Gobin |
+| 311 | 346 | Gary Gobin |
+| 312 | 346 | poopypants |
 | 313 | 344 | dhardy |
 | 314 | 344 | Buttons Stemm |
 | 315 | 344 | Standia Civil |

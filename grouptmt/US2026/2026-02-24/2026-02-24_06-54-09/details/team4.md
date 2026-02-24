@@ -95,15 +95,15 @@
 | 87 | 910 | Chaz Duncan |
 | 88 | 904 | Carolyn Wallace |
 | 89 | 895 | Girl |
-| 90 | 892 | Aden Moss |
-| 91 | 873 | Courtney Cicoria |
-| 92 | 870 | Lucille Truesdale |
-| 93 | 869 | Judy Cox |
+| 90 | 873 | Courtney Cicoria |
+| 91 | 870 | Lucille Truesdale |
+| 92 | 869 | Judy Cox |
+| 93 | 864 | Guy Incognito |
 | 94 | 864 | Samantha Peterson |
-| 95 | 864 | Guy Incognito |
-| 96 | 854 | Shauna Havard |
-| 97 | 851 | Jason Hart |
-| 98 | 846 | Christine Marie |
+| 95 | 854 | Shauna Havard |
+| 96 | 851 | Jason Hart |
+| 97 | 846 | Christine Marie |
+| 98 | 842 | Aden Moss |
 | 99 | 840 | SAP |
 | 100 | 837 | Rica Mitchell |
 | 101 | 834 | Brittney Orengo |
@@ -133,8 +133,8 @@
 | 125 | 726 | Jamie Gustafson |
 | 126 | 726 | Amy Suckarieh |
 | 127 | 725 | Brandon Crabbs |
-| 128 | 712 | H.R. Block |
-| 129 | 712 | Leslie Nicole |
+| 128 | 712 | Leslie Nicole |
+| 129 | 712 | H.R. Block |
 | 130 | 708 | Jacqueline Helm |
 | 131 | 704 | Chilly Crasher |
 | 132 | 704 | Austin Owens |
@@ -241,8 +241,8 @@
 | 233 | 455 | Michele Plunkett |
 | 234 | 454 | Keshia Lyons |
 | 235 | 449 | Danielle Kollias |
-| 236 | 448 | Mr. Party |
-| 237 | 448 | Mike Solo |
+| 236 | 448 | Mike Solo |
+| 237 | 448 | Mr. Party |
 | 238 | 447 | Jen Mattei |
 | 239 | 444 | Selena Shaw |
 | 240 | 442 | John Brunetti |
@@ -366,7 +366,7 @@
 | 358 | 314 | KoolMom9907 |
 | 359 | 314 | Paige Kittles |
 | 360 | 314 | Kenna Gunderland |
-| 361 | 314 | Paige Kittles |
+| 361 | 314 | Marcus TheeyoungWoe Gilmore |
 | 362 | 313 | DonMega |
 | 363 | 312 | Tawna Curry |
 | 364 | 311 | Ak Jones |
@@ -480,7 +480,7 @@
 | 472 | 243 | Laura Hosford |
 | 473 | 242 | Badatvs |
 | 474 | 242 | PurpleMoonMa |
-| 475 | 242 | Badatvs |
+| 475 | 242 | RIFATSIKDER |
 | 476 | 241 | Katherine Crane |
 | 477 | 240 | Orchislactea |
 | 478 | 240 | Zany Shatterer |
@@ -672,7 +672,7 @@
 | 664 | 173 | Nijmeh Hinchsliff |
 | 665 | 173 | Peppy Strike |
 | 666 | 172 | Tabitha Calvin |
-| 667 | 172 | Linda Alexander Downing |
+| 667 | 172 | Jennifer Marsella |
 | 668 | 172 | Paul-Eunice Mathewson |
 | 669 | 172 | Linda Alexander Downing |
 | 670 | 171 | Lonnie Brown |
