@@ -81,8 +81,8 @@
 | 73 | 1071 | LisaJo Picken Buchanan |
 | 74 | 1069 | Heather Tushner |
 | 75 | 1056 | Keith Kelley |
-| 76 | 1046 | Anthony Bryan Riva |
-| 77 | 1046 | Johnathan Martinez |
+| 76 | 1046 | Johnathan Martinez |
+| 77 | 1046 | Anthony Bryan Riva |
 | 78 | 1028 | TeeJ |
 | 79 | 1024 | Valerie Roberts |
 | 80 | 1017 | Jeremy Steines |
@@ -112,8 +112,8 @@
 | 104 | 834 | quicksand420 |
 | 105 | 818 | Lori Walker |
 | 106 | 815 | Diana Houts |
-| 107 | 813 | Amy Suckarieh |
-| 108 | 813 | Klo |
+| 107 | 813 | Klo |
+| 108 | 813 | Amy Suckarieh |
 | 109 | 811 | Sassy Pattern |
 | 110 | 806 | Zippy Gridlock |
 | 111 | 805 | Mylo Lipscomb |
@@ -185,9 +185,9 @@
 | 177 | 565 | Ren Mc |
 | 178 | 561 | Steph Marie |
 | 179 | 558 | Marie-Pier Desjardins |
-| 180 | 552 | Circuit8 |
-| 181 | 552 | Angel Raya |
-| 182 | 552 | Joseph Guthrie |
+| 180 | 552 | Joseph Guthrie |
+| 181 | 552 | Circuit8 |
+| 182 | 552 | Angel Raya |
 | 183 | 550 | James Hurley Jr. |
 | 184 | 549 | Cool Towerbuilder |
 | 185 | 547 | Mimi |
@@ -624,8 +624,8 @@
 | 616 | 198 | Zocko Ellet |
 | 617 | 198 | Bubbly Setter |
 | 618 | 197 | Colton Stamper |
-| 619 | 197 | Mcg |
-| 620 | 197 | Satinleader |
+| 619 | 197 | Satinleader |
+| 620 | 197 | Mcg |
 | 621 | 196 | Julie McAfoos Swanson |
 | 622 | 195 | Shant |
 | 623 | 195 | Tianna Frey |

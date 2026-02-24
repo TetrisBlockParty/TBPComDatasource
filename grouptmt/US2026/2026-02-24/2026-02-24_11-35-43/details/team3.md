@@ -83,8 +83,8 @@
 | 75 | 1633 | cowboy25469 |
 | 76 | 1625 | Queen Kam |
 | 77 | 1615 | joclisa |
-| 78 | 1566 | Marcie Bressler |
-| 79 | 1566 | Nerdy Riseclear |
+| 78 | 1566 | Nerdy Riseclear |
+| 79 | 1566 | Marcie Bressler |
 | 80 | 1560 | Logan Naccarato |
 | 81 | 1555 | Elaine Webb Graves |
 | 82 | 1555 | Snappy Glidepiece |
@@ -111,8 +111,8 @@
 | 103 | 1309 | yoyo |
 | 104 | 1297 | Shelby Michelle |
 | 105 | 1290 | JerseyJess |
-| 106 | 1282 | Amanda L Baker |
-| 107 | 1282 | Peppy Shifter |
+| 106 | 1282 | Peppy Shifter |
+| 107 | 1282 | Amanda L Baker |
 | 108 | 1276 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1248 | Lori Barnaby |
@@ -199,8 +199,8 @@
 | 191 | 815 | Justin Ritter |
 | 192 | 813 | JessDrown |
 | 193 | 808 | Raya |
-| 194 | 804 | Alaina Lee |
-| 195 | 804 | Gideon Walker |
+| 194 | 804 | Gideon Walker |
+| 195 | 804 | Alaina Lee |
 | 196 | 800 | Lauren Girouard |
 | 197 | 799 | Trisha Balmer |
 | 198 | 792 | Rachel Grant |
@@ -287,8 +287,8 @@
 | 279 | 600 | Natasha Jones |
 | 280 | 594 | Cozy Snaplink |
 | 281 | 591 | Crystal Hine |
-| 282 | 586 | Donna |
-| 283 | 586 | Brian Battjes |
+| 282 | 586 | Brian Battjes |
+| 283 | 586 | Donna |
 | 284 | 584 | Michael Johnson |
 | 285 | 583 | Michael Lucado |
 | 286 | 582 | FuzzyNavel |
@@ -399,8 +399,8 @@
 | 391 | 431 | Donna Esbensen-Alpini |
 | 392 | 430 | AlsoJess |
 | 393 | 430 | Quackers |
-| 394 | 428 | Samantha Lynn |
-| 395 | 428 | Skinny Baldez |
+| 394 | 428 | Skinny Baldez |
+| 395 | 428 | Samantha Lynn |
 | 396 | 428 | keni |
 | 397 | 427 | Darlene McMillan |
 | 398 | 426 | Christina Rotz Shows |
@@ -986,8 +986,8 @@
 | 978 | 201 | Rebecca Lynn |
 | 979 | 201 | Cozy Slice |
 | 980 | 200 | MariahG |
-| 981 | 200 | Donna S. Greene-Brathwaite |
-| 982 | 200 | Kacy Ramsey |
+| 981 | 200 | Kacy Ramsey |
+| 982 | 200 | Donna S. Greene-Brathwaite |
 | 983 | 200 | glichmod |
 | 984 | 199 | Amy Bast |
 | 985 | 199 | Chipper Piecefit |
@@ -1016,8 +1016,8 @@
 | 1008 | 196 | Clara Knight |
 | 1009 | 196 | 805Angel |
 | 1010 | 195 | Polopypy |
-| 1011 | 195 | Nicha Hooker |
-| 1012 | 195 | Eunhye Lee |
+| 1011 | 195 | Eunhye Lee |
+| 1012 | 195 | Nicha Hooker |
 | 1013 | 194 | Amber Eby |
 | 1014 | 194 | Shicken Nuggit |
 | 1015 | 194 | Josh Vietz |

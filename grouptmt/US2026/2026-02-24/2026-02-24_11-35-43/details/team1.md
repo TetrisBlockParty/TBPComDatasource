@@ -91,8 +91,8 @@
 | 83 | 973 | Francesca Gee |
 | 84 | 971 | Lexuriuos Lifestlye |
 | 85 | 961 | Jacqueline Williams |
-| 86 | 957 | Zippy Align |
-| 87 | 957 | Erin Hodges Plumb |
+| 86 | 957 | Erin Hodges Plumb |
+| 87 | 957 | Zippy Align |
 | 88 | 944 | Sweet Baker |
 | 89 | 920 | Tee Sheree |
 | 90 | 916 | Chirpy Smasher |
@@ -175,8 +175,8 @@
 | 167 | 553 | Flashy Rotator |
 | 168 | 551 | Loony Fitzone |
 | 169 | 549 | Jerry Danowski |
-| 170 | 548 | Stephanie Zahn |
-| 171 | 548 | Luciano Moreira |
+| 170 | 548 | Luciano Moreira |
+| 171 | 548 | Stephanie Zahn |
 | 172 | 547 | Sharon Reynolds |
 | 173 | 545 | .running. |
 | 174 | 543 | Nicole Roseberry Weber |
@@ -243,8 +243,8 @@
 | 235 | 431 | Shiny Snapfit |
 | 236 | 431 | Tipsy Strikerpiece |
 | 237 | 430 | Jennifer Noe Chandler |
-| 238 | 429 | pjbeta |
-| 239 | 429 | Tana |
+| 238 | 429 | Tana |
+| 239 | 429 | pjbeta |
 | 240 | 427 | Ananda Mendez |
 | 241 | 426 | Brenda Alexander |
 | 242 | 426 | Betsy |
@@ -412,8 +412,8 @@
 | 404 | 299 | Rachel Rogers |
 | 405 | 298 | Glitzy Buildsnap |
 | 406 | 297 | Billie Dawn Sparks |
-| 407 | 296 | Shaykmia |
-| 408 | 296 | Jeanna Dunn |
+| 407 | 296 | Jeanna Dunn |
+| 408 | 296 | Shaykmia |
 | 409 | 294 | Mary Love |
 | 410 | 293 | Sunny Pivotfall |
 | 411 | 292 | Mark Smith |

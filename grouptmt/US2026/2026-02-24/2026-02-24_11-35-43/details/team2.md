@@ -317,8 +317,8 @@
 | 309 | 1380 | Jerilyn Andrina |
 | 310 | 1376 | Kevin Sees |
 | 311 | 1376 | Megan Brianna |
-| 312 | 1374 | Sarah Berger |
-| 313 | 1374 | Kori Beth Babb |
+| 312 | 1374 | Kori Beth Babb |
+| 313 | 1374 | Sarah Berger |
 | 314 | 1362 | Angie Marie |
 | 315 | 1357 | Tanya Parsons |
 | 316 | 1353 | Deborah Miller |
@@ -548,15 +548,15 @@
 | 540 | 938 | Hershey Eastman |
 | 541 | 936 | Angie Bolton Workman |
 | 542 | 931 | Felicia Lynn |
-| 543 | 928 | Venita Ray |
-| 544 | 928 | Moni Foxe |
+| 543 | 928 | Moni Foxe |
+| 544 | 928 | Venita Ray |
 | 545 | 927 | Anthony Huebel |
 | 546 | 927 | Wes Acton |
 | 547 | 925 | blume |
 | 548 | 925 | Cris cris |
-| 549 | 923 | Danielle Simmons |
-| 550 | 923 | Chevy |
-| 551 | 923 | Giggy Mover |
+| 549 | 923 | Chevy |
+| 550 | 923 | Giggy Mover |
+| 551 | 923 | Danielle Simmons |
 | 552 | 922 | Butta |
 | 553 | 921 | Dannette Goldberg-Richards |
 | 554 | 920 | Arwa Fatimah |
@@ -723,8 +723,8 @@
 | 715 | 751 | Tom Riefer |
 | 716 | 750 | Samie Dayle |
 | 717 | 750 | Prette Qui |
-| 718 | 749 | ToxicTrash |
-| 719 | 749 | Trisha J Schmidt |
+| 718 | 749 | Trisha J Schmidt |
+| 719 | 749 | ToxicTrash |
 | 720 | 746 | Emily Lyric Converse |
 | 721 | 743 | Gloria Ininahazwe |
 | 722 | 743 | Véronique Lévesque Sabourin |
@@ -742,8 +742,8 @@
 | 734 | 736 | Kenan Catovic |
 | 735 | 734 | Michelle Sager |
 | 736 | 734 | goofinoff |
-| 737 | 733 | Christine Bollig |
-| 738 | 733 | Victor Obiakarije |
+| 737 | 733 | Victor Obiakarije |
+| 738 | 733 | Christine Bollig |
 | 739 | 733 | Joce Lynn |
 | 740 | 732 | Leticia Martinez Kelley |
 | 741 | 732 | calcap |
@@ -815,8 +815,8 @@
 | 807 | 687 | Candy Pitts |
 | 808 | 686 | Christina Ashley |
 | 809 | 685 | Rose Fx |
-| 810 | 684 | Sleepypanda67 |
-| 811 | 684 | Atara James |
+| 810 | 684 | Atara James |
+| 811 | 684 | Sleepypanda67 |
 | 812 | 684 | Jazzy Clusterline |
 | 813 | 683 | Nicole Sanqui |
 | 814 | 683 | Audrey Jones |
@@ -850,16 +850,16 @@
 | 842 | 669 | Armonie Smith |
 | 843 | 668 | Chilly Linebuilder |
 | 844 | 668 | Brownie Sheena |
-| 845 | 668 | Alice Ball |
-| 846 | 668 | Nerdy Blockpiece |
+| 845 | 668 | Nerdy Blockpiece |
+| 846 | 668 | Alice Ball |
 | 847 | 667 | Snazzy Risegrid |
 | 848 | 667 | Asante Alexander |
 | 849 | 667 | Demeka Dangerous-kisses Johnson |
 | 850 | 666 | Laura Mclean |
 | 851 | 665 | Frank Castle |
 | 852 | 665 | Zak Dunn |
-| 853 | 664 | Julie Hamilton |
-| 854 | 664 | Joseph Jones |
+| 853 | 664 | Joseph Jones |
+| 854 | 664 | Julie Hamilton |
 | 855 | 664 | Trista Carter |
 | 856 | 664 | Veronics |
 | 857 | 664 | Jarboe |
@@ -910,8 +910,8 @@
 | 902 | 639 | Connie Lepore-Mann |
 | 903 | 638 | Taren Cowan |
 | 904 | 638 | Nate |
-| 905 | 638 | Daring Caster |
-| 906 | 638 | Kelly |
+| 905 | 638 | Kelly |
+| 906 | 638 | Daring Caster |
 | 907 | 637 | Jason H Baker |
 | 908 | 637 | Darcy Mae |
 | 909 | 636 | Tash Bell |
