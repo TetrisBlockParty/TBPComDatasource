@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-24 19:58:43 UTC
+# Standings for team1 as of 2026-02-24 19:59:23 UTC
 
 **Total Participants:** 2312
 
@@ -102,7 +102,7 @@
 | 94 | 972 | Seth Wesson |
 | 95 | 959 | Plucky Fallzone |
 | 96 | 959 | Jennifer ManWarren |
-| 97 | 949 | Sweet Baker |
+| 97 | 957 | Sweet Baker |
 | 98 | 943 | Amanda Johnson Huffman |
 | 99 | 941 | Desiree Deschaine Havee |
 | 100 | 928 | Kathy Langham |
@@ -205,14 +205,14 @@
 | 197 | 539 | Tana |
 | 198 | 538 | Rebekah LeiAnn Bonsell |
 | 199 | 535 | DaRascal |
-| 200 | 534 | Steve Schneider |
-| 201 | 534 | Tawnya Peltonen |
+| 200 | 534 | Tawnya Peltonen |
+| 201 | 534 | Steve Schneider |
 | 202 | 532 | Nery Martinez |
 | 203 | 531 | Jumpy Dropper |
 | 204 | 529 | Anaid Sanchez |
 | 205 | 525 | Mike Ames |
-| 206 | 525 | ParisandCory Champagne |
-| 207 | 525 | Arianna O'Brien |
+| 206 | 525 | Arianna O'Brien |
+| 207 | 525 | ParisandCory Champagne |
 | 208 | 521 | Teri Oehlke |
 | 209 | 520 | MomMom |
 | 210 | 520 | Lindsay Glover |
@@ -232,8 +232,8 @@
 | 224 | 487 | Howdi Duty |
 | 225 | 487 | Sam Williams |
 | 226 | 486 | David Miller |
-| 227 | 485 | Standia Civil |
-| 228 | 485 | Yvonne Marie |
+| 227 | 485 | Yvonne Marie |
+| 228 | 485 | Standia Civil |
 | 229 | 483 | Tyler Werts |
 | 230 | 480 | Logan McFarland |
 | 231 | 479 | canbrick |
@@ -243,34 +243,34 @@
 | 235 | 476 | LtMooch |
 | 236 | 475 | April Jones |
 | 237 | 475 | Cheeky Pop |
-| 238 | 467 | Brian Spotts |
-| 239 | 467 | Witty Builderfit |
+| 238 | 467 | Witty Builderfit |
+| 239 | 467 | Brian Spotts |
 | 240 | 466 | Lori Bales |
-| 241 | 462 | Chelsea Dahlquist |
-| 242 | 460 | Tyler L Hunt |
-| 243 | 459 | Jennifer Noe Chandler |
-| 244 | 458 | Angela Renea Lester |
+| 241 | 466 | GATOR |
+| 242 | 462 | Chelsea Dahlquist |
+| 243 | 460 | Tyler L Hunt |
+| 244 | 459 | Jennifer Noe Chandler |
 | 245 | 458 | Goose egg |
-| 246 | 453 | Billie Ann Eason |
+| 246 | 458 | Angela Renea Lester |
 | 247 | 453 | Richard Corrado |
-| 248 | 453 | Chantelle Ceno |
-| 249 | 453 | Kimmie Kimms |
-| 250 | 452 | Avelyn Calamba |
-| 251 | 450 | Monica Donato |
-| 252 | 448 | Jo Kerley |
-| 253 | 448 | Jamie Jury |
-| 254 | 446 | Spencer Lent |
-| 255 | 446 | Letson Melissa |
-| 256 | 444 | Lakeisha Chapman |
-| 257 | 441 | Jen Nystrom |
-| 258 | 441 | Chris Sigurdson |
+| 248 | 453 | Kimmie Kimms |
+| 249 | 453 | Chantelle Ceno |
+| 250 | 453 | Billie Ann Eason |
+| 251 | 452 | Avelyn Calamba |
+| 252 | 450 | Monica Donato |
+| 253 | 448 | Jo Kerley |
+| 254 | 448 | Jamie Jury |
+| 255 | 446 | Spencer Lent |
+| 256 | 446 | Letson Melissa |
+| 257 | 444 | Lakeisha Chapman |
+| 258 | 441 | Jen Nystrom |
 | 259 | 441 | Shiny Snapfit |
-| 260 | 439 | Cece Ibarra |
-| 261 | 438 | Wayne Saunders |
-| 262 | 438 | GATOR |
+| 260 | 441 | Chris Sigurdson |
+| 261 | 439 | Cece Ibarra |
+| 262 | 438 | Wayne Saunders |
 | 263 | 438 | Rayline M Bradshaw |
-| 264 | 436 | build master |
-| 265 | 436 | Sylvia Vasquez |
+| 264 | 436 | Sylvia Vasquez |
+| 265 | 436 | build master |
 | 266 | 435 | Irv |
 | 267 | 434 | MommaKFC |
 | 268 | 432 | Emily Adelaide Wheatley |
@@ -282,22 +282,22 @@
 | 274 | 429 | pjbeta |
 | 275 | 428 | Tami Luce Martin |
 | 276 | 427 | Paula Martin |
-| 277 | 426 | Betsy |
-| 278 | 426 | Poppy Riserpiece |
+| 277 | 426 | Poppy Riserpiece |
+| 278 | 426 | Betsy |
 | 279 | 426 | Brenda Alexander |
 | 280 | 425 | Kimberly Davis |
-| 281 | 424 | Dino |
+| 281 | 424 | Plucky Stacky |
 | 282 | 424 | Serina Marie |
-| 283 | 424 | Plucky Stacky |
+| 283 | 424 | Dino |
 | 284 | 422 | Jamise Brown |
-| 285 | 420 | DoodleBug |
-| 286 | 420 | Colleen Pinette |
-| 287 | 420 | Sarahdactyl |
-| 288 | 420 | David Lutcher |
+| 285 | 420 | Colleen Pinette |
+| 286 | 420 | DoodleBug |
+| 287 | 420 | David Lutcher |
+| 288 | 420 | Sarahdactyl |
 | 289 | 419 | Barrbaric |
 | 290 | 418 | Speedy Snapfall |
-| 291 | 416 | Larissa Marie Nelson |
-| 292 | 416 | Amanda Holibaugh |
+| 291 | 416 | Amanda Holibaugh |
+| 292 | 416 | Larissa Marie Nelson |
 | 293 | 414 | Bird Person |
 | 294 | 413 | Dizzy Party |
 | 295 | 412 | Brian Richardsson |
@@ -364,38 +364,38 @@
 | 356 | 355 | Larry Tilton |
 | 357 | 354 | Diane Byrd |
 | 358 | 354 | Garrett Burket |
-| 359 | 354 | Mrs.Patrica |
-| 360 | 353 | Josh Riemer |
-| 361 | 352 | Gary Gobin |
-| 362 | 352 | Lyn Sibayan |
-| 363 | 352 | Lachelle Dillon |
+| 359 | 354 | Gary Gobin |
+| 360 | 354 | Mrs.Patrica |
+| 361 | 353 | Josh Riemer |
+| 362 | 352 | Lachelle Dillon |
+| 363 | 352 | Lyn Sibayan |
 | 364 | 351 | Lilkimmie |
-| 365 | 350 | Dreamy Drop |
-| 366 | 350 | Bouncy Line |
+| 365 | 350 | Bouncy Line |
+| 366 | 350 | Dreamy Drop |
 | 367 | 350 | Glitzy Grid |
 | 368 | 349 | Mitchel White |
 | 369 | 348 | Dizzy Riseclear |
-| 370 | 347 | Sonia Marquis |
-| 371 | 347 | Giggly Builderline |
+| 370 | 347 | Giggly Builderline |
+| 371 | 347 | Sonia Marquis |
 | 372 | 346 | Tanya Banks |
-| 373 | 345 | san |
-| 374 | 345 | Bloknboy |
-| 375 | 344 | Marie Bremner |
-| 376 | 344 | Buttons Stemm |
+| 373 | 345 | Bloknboy |
+| 374 | 345 | san |
+| 375 | 344 | Buttons Stemm |
+| 376 | 344 | Marie Bremner |
 | 377 | 343 | ESC |
-| 378 | 342 | Marianita Garcia |
+| 378 | 342 | Christina Norman |
 | 379 | 342 | Matt Iaccheo |
-| 380 | 342 | Christina Norman |
+| 380 | 342 | Marianita Garcia |
 | 381 | 342 | Chummy Rollblock |
 | 382 | 341 | Amh |
 | 383 | 341 | Mary Love |
 | 384 | 340 | Nutty Spinblock |
-| 385 | 340 | Silly Align |
-| 386 | 339 | Yahowah |
-| 387 | 337 | Jeremy Maubert |
-| 388 | 337 | Katie Martin |
-| 389 | 336 | Brave Wrecker |
-| 390 | 336 | Tavia |
+| 385 | 340 | Tavia |
+| 386 | 340 | Silly Align |
+| 387 | 339 | Yahowah |
+| 388 | 337 | Jeremy Maubert |
+| 389 | 337 | Katie Martin |
+| 390 | 336 | Brave Wrecker |
 | 391 | 335 | Nathan William |
 | 392 | 332 | Mighty Shatterfit |
 | 393 | 332 | Gina Bettikofer |
