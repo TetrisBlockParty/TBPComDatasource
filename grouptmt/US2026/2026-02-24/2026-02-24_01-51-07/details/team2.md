@@ -239,8 +239,8 @@
 | 231 | 1553 | Wendy Unsain |
 | 232 | 1552 | Isabela Shaw |
 | 233 | 1543 | Alyssa Nadine Medelez |
-| 234 | 1509 | Stacey Clement |
-| 235 | 1509 | Whitney Nicole Waterman |
+| 234 | 1509 | Whitney Nicole Waterman |
+| 235 | 1509 | Stacey Clement |
 | 236 | 1507 | Kiok |
 | 237 | 1498 | Binyah-Binyah |
 | 238 | 1488 | Sommer Shope |

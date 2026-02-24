@@ -90,8 +90,8 @@
 | 82 | 869 | Carolyn Wallace |
 | 83 | 864 | Guy Incognito |
 | 84 | 861 | Peachy Fall |
-| 85 | 850 | Lucille Truesdale |
-| 86 | 850 | Lisa Davis |
+| 85 | 850 | Lisa Davis |
+| 86 | 850 | Lucille Truesdale |
 | 87 | 847 | Chilly Line |
 | 88 | 846 | Christine Marie |
 | 89 | 841 | Shauna Havard |
@@ -143,8 +143,8 @@
 | 135 | 625 | Jewell Urban |
 | 136 | 620 | Porkobello |
 | 137 | 616 | Samantha Peterson |
-| 138 | 615 | Ernest Maxwell |
-| 139 | 615 | Kim Hunt |
+| 138 | 615 | Kim Hunt |
+| 139 | 615 | Ernest Maxwell |
 | 140 | 611 | Chris Baggett |
 | 141 | 602 | Cristy Duerksen |
 | 142 | 600 | Carrie Brian |
@@ -177,10 +177,10 @@
 | 169 | 525 | Lucas J Sutton |
 | 170 | 522 | Carly Alexis |
 | 171 | 521 | Andy Cabral |
-| 172 | 520 | Oscar Alberto Perez |
-| 173 | 520 | Zippy Block |
-| 174 | 516 | Trish |
-| 175 | 516 | Twisty Clicky |
+| 172 | 520 | Zippy Block |
+| 173 | 520 | Oscar Alberto Perez |
+| 174 | 516 | Twisty Clicky |
+| 175 | 516 | Trish |
 | 176 | 514 | Scott Jameson |
 | 177 | 513 | Erin Thomas |
 | 178 | 512 | Ellen Durfee |
@@ -295,9 +295,9 @@
 | 287 | 343 | HastyGrabber |
 | 288 | 342 | Lauren Lamb |
 | 289 | 340 | Cranky Rollpiece |
-| 290 | 339 | Jason Gibbs |
-| 291 | 339 | Chance Strickland |
-| 292 | 339 | Blessedmama |
+| 290 | 339 | Chance Strickland |
+| 291 | 339 | Blessedmama |
+| 292 | 339 | Jason Gibbs |
 | 293 | 336 | Tina Lopez |
 | 294 | 334 | 23 |
 | 295 | 332 | Holly |
@@ -343,8 +343,8 @@
 | 335 | 298 | ZeeZee |
 | 336 | 297 | Brittany Marsh |
 | 337 | 296 | Zethra Prenisha Rahming |
-| 338 | 295 | Cool Gridzone |
-| 339 | 295 | Deb Rubeck |
+| 338 | 295 | Deb Rubeck |
+| 339 | 295 | Cool Gridzone |
 | 340 | 294 | BootsMcGee |
 | 341 | 292 | Mike Solo |
 | 342 | 292 | Tracey Lehmann |

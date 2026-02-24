@@ -175,8 +175,8 @@
 | 167 | 509 | Dandy Basegrid |
 | 168 | 508 | Arianna O'Brien |
 | 169 | 497 | MIKOZ |
-| 170 | 496 | Sarah Somers Gray |
-| 171 | 496 | Michelle Beres |
+| 170 | 496 | Michelle Beres |
+| 171 | 496 | Sarah Somers Gray |
 | 172 | 494 | Sean Stallings |
 | 173 | 492 | Rebekah LeiAnn Bonsell |
 | 174 | 491 | cc |
@@ -327,13 +327,13 @@
 | 319 | 317 | Bloknboy |
 | 320 | 316 | Giggly Builderline |
 | 321 | 314 | Amh |
-| 322 | 312 | Glitzy Curvebuilder |
-| 323 | 312 | Diane Byrd |
+| 322 | 312 | Diane Byrd |
+| 323 | 312 | Glitzy Curvebuilder |
 | 324 | 311 | Nathan Sealander |
 | 325 | 310 | Chase Collinsworth |
-| 326 | 308 | Michael |
+| 326 | 308 | Jessie Welch |
 | 327 | 308 | LD1 |
-| 328 | 308 | Jessie Welch |
+| 328 | 308 | Michael |
 | 329 | 306 | Cece Ibarra |
 | 330 | 306 | Sunny Shift |
 | 331 | 305 | Damian Salem |

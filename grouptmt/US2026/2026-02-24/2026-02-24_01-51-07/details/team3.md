@@ -157,8 +157,8 @@
 | 149 | 875 | Chasity |
 | 150 | 874 | Jessica Pineda-Lopez |
 | 151 | 873 | BadManSheLove |
-| 152 | 868 | Felicia Rocha |
-| 153 | 868 | Cranky Gridder |
+| 152 | 868 | Cranky Gridder |
+| 153 | 868 | Felicia Rocha |
 | 154 | 868 | Nicole Flippo |
 | 155 | 864 | Sunny Rotater |
 | 156 | 862 | Santeria Trece Candles |
