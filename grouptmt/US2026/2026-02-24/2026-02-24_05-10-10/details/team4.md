@@ -151,8 +151,8 @@
 | 143 | 619 | April Rondinone |
 | 144 | 618 | Ernest Maxwell |
 | 145 | 616 | Carrie Brian |
-| 146 | 615 | Kim Hunt |
-| 147 | 615 | Angelito |
+| 146 | 615 | Angelito |
+| 147 | 615 | Kim Hunt |
 | 148 | 608 | Swanky Fitline |
 | 149 | 602 | Cristy Duerksen |
 | 150 | 599 | Adam Stephanie Parker |
@@ -183,8 +183,8 @@
 | 175 | 538 | Steph Marie |
 | 176 | 537 | Scott Jameson |
 | 177 | 535 | Berklie Apedaile |
-| 178 | 532 | Matt Summer |
-| 179 | 532 | Alan George LaRage |
+| 178 | 532 | Alan George LaRage |
+| 179 | 532 | Matt Summer |
 | 180 | 528 | Erin Sabol |
 | 181 | 525 | Lucas J Sutton |
 | 182 | 522 | Carly Alexis |
@@ -207,8 +207,8 @@
 | 199 | 502 | Ericca Eldridge |
 | 200 | 499 | Sharyn Lemire |
 | 201 | 499 | Kesha Brady |
-| 202 | 496 | Jessica Bohlken |
-| 203 | 496 | Lori |
+| 202 | 496 | Lori |
+| 203 | 496 | Jessica Bohlken |
 | 204 | 495 | Joeliecea Cobb |
 | 205 | 493 | Amanda Pauldo-Ivy |
 | 206 | 486 | Mylo Lipscomb |
@@ -243,15 +243,15 @@
 | 235 | 438 | Melvin Baird |
 | 236 | 438 | 23 |
 | 237 | 434 | Ramel Rhodes |
-| 238 | 433 | Damn Libra |
-| 239 | 433 | Circuit8 |
+| 238 | 433 | Circuit8 |
+| 239 | 433 | Damn Libra |
 | 240 | 432 | scott |
 | 241 | 432 | Plucky Patternblock |
 | 242 | 431 | Manny1 |
 | 243 | 428 | Chris Bernstein |
 | 244 | 427 | Chao Ma |
-| 245 | 421 | JIGsaw ~(•¿°)~ |
-| 246 | 421 | Andrew Dang |
+| 245 | 421 | Andrew Dang |
+| 246 | 421 | JIGsaw ~(•¿°)~ |
 | 247 | 419 | Gdiguy |
 | 248 | 413 | Jeff Brian Gates |
 | 249 | 411 | Autumn Kumzi |
@@ -339,8 +339,8 @@
 | 331 | 320 | Sarah Hoffman |
 | 332 | 320 | O block |
 | 333 | 318 | Hyper Matchclear |
-| 334 | 317 | Madison Sweere |
-| 335 | 317 | Kim Klutz Olson |
+| 334 | 317 | Kim Klutz Olson |
+| 335 | 317 | Madison Sweere |
 | 336 | 316 | Shukee Lo |
 | 337 | 315 | Juls |
 | 338 | 315 | Maureen Flanigan |
@@ -350,8 +350,8 @@
 | 342 | 314 | KoolMom9907 |
 | 343 | 313 | DonMega |
 | 344 | 312 | Tawna Curry |
-| 345 | 311 | KayM |
-| 346 | 311 | Ak Jones |
+| 345 | 311 | Ak Jones |
+| 346 | 311 | KayM |
 | 347 | 310 | Glitzy Corner |
 | 348 | 308 | Angela Geist Jusinski |
 | 349 | 308 | Bradley Reeves |

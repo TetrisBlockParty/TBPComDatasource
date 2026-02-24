@@ -198,8 +198,8 @@
 | 190 | 1872 | Janel Turley-Garner |
 | 191 | 1855 | Missie Lawson Gebhardt |
 | 192 | 1851 | Kristopher Miller |
-| 193 | 1845 | Katrina Weston |
-| 194 | 1845 | Jessie McDougald |
+| 193 | 1845 | Jessie McDougald |
+| 194 | 1845 | Katrina Weston |
 | 195 | 1840 | blarg |
 | 196 | 1829 | Mr. Street Stack |
 | 197 | 1823 | Lauren Fitzgerald Thomas |
@@ -299,8 +299,8 @@
 | 291 | 1357 | Marie Boyd Faulk |
 | 292 | 1353 | Deborah Miller |
 | 293 | 1351 | Ashie Ann |
-| 294 | 1351 | Denisha Dawkins |
-| 295 | 1351 | Johnny Yeates |
+| 294 | 1351 | Johnny Yeates |
+| 295 | 1351 | Denisha Dawkins |
 | 296 | 1342 | Groovy Puzzle |
 | 297 | 1342 | Kelly A Green-Leach |
 | 298 | 1341 | Cassie Mercer |
@@ -413,8 +413,8 @@
 | 405 | 1088 | BK Queen |
 | 406 | 1087 | Cindy Sechler Taninecz |
 | 407 | 1085 | Bee |
-| 408 | 1085 | Lupita Flores |
-| 409 | 1085 | Barbra Miller |
+| 408 | 1085 | Barbra Miller |
+| 409 | 1085 | Lupita Flores |
 | 410 | 1084 | Emilee Burke |
 | 411 | 1080 | Jennifer Monroe Kelly |
 | 412 | 1079 | Angela Bonquiqui Dinish |

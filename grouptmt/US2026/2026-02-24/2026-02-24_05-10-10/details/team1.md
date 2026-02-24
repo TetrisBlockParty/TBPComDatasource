@@ -215,8 +215,8 @@
 | 207 | 446 | Spencer Lent |
 | 208 | 442 | Reesey Enyart |
 | 209 | 441 | Kimberly Garcia |
-| 210 | 439 | Witty Builderfit |
-| 211 | 439 | David Miller |
+| 210 | 439 | David Miller |
+| 211 | 439 | Witty Builderfit |
 | 212 | 434 | Mike Ames |
 | 213 | 432 | Brian Spotts |
 | 214 | 431 | Shiny Snapfit |
@@ -451,7 +451,7 @@
 | 443 | 260 | Silly Align |
 | 444 | 259 | Tiffany Smith |
 | 445 | 258 | Vivienne Carter |
-| 446 | 258 | Dena Kayy |
+| 446 | 258 | Tedashi |
 | 447 | 257 | Andrew Backes |
 | 448 | 257 | Funky Piecebuilder |
 | 449 | 257 | Marc Abney |

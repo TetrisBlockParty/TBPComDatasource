@@ -128,8 +128,8 @@
 | 120 | 1084 | Santana Lantana |
 | 121 | 1082 | Valerie Gendron |
 | 122 | 1067 | DaBigGuy |
-| 123 | 1066 | Jennifer |
-| 124 | 1066 | Demetrious Shaw Sr. |
+| 123 | 1066 | Demetrious Shaw Sr. |
+| 124 | 1066 | Jennifer |
 | 125 | 1065 | Rachel |
 | 126 | 1058 | Katrina Schroeder |
 | 127 | 1055 | Christine Trester |
@@ -217,8 +217,8 @@
 | 209 | 733 | Annie Marie |
 | 210 | 733 | Annie Déè |
 | 211 | 731 | Samantha Greco |
-| 212 | 729 | Lizabeth Fox |
-| 213 | 729 | CeceGeGe |
+| 212 | 729 | CeceGeGe |
+| 213 | 729 | Lizabeth Fox |
 | 214 | 725 | Angela Scott |
 | 215 | 715 | Karon Griffin |
 | 216 | 714 | Jenny Hrndz |
@@ -246,8 +246,8 @@
 | 238 | 630 | Jackie Miller |
 | 239 | 629 | rnr junky |
 | 240 | 628 | Jeni Dow |
-| 241 | 627 | Louise Stacy Sisson |
-| 242 | 627 | Juliana Dottore |
+| 241 | 627 | Juliana Dottore |
+| 242 | 627 | Louise Stacy Sisson |
 | 243 | 625 | Jacqueline Rodriguez |
 | 244 | 623 | Tom Nault |
 | 245 | 623 | Giggy Glidepiece |
@@ -283,8 +283,8 @@
 | 275 | 561 | Chauntee Alfrey-Cardinale |
 | 276 | 551 | Micayah Stevens |
 | 277 | 547 | Aerian Preston |
-| 278 | 546 | lashanda |
-| 279 | 546 | Cynthia Castros-Hampton |
+| 278 | 546 | Cynthia Castros-Hampton |
+| 279 | 546 | lashanda |
 | 280 | 544 | Angella Lyons |
 | 281 | 544 | Tamara Deherrera |
 | 282 | 542 | France Vézina |
@@ -540,8 +540,8 @@
 | 532 | 317 | Shiny Snapfit |
 | 533 | 317 | Jack Bo |
 | 534 | 317 | Michael Kimbro |
-| 535 | 316 | Travis W |
-| 536 | 316 | Funky Brickster |
+| 535 | 316 | Funky Brickster |
+| 536 | 316 | Travis W |
 | 537 | 315 | Amy Montz |
 | 538 | 314 | toony |
 | 539 | 314 | Rachel Napper |
