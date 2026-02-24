@@ -112,8 +112,8 @@
 | 104 | 834 | Brittney Orengo |
 | 105 | 818 | Lori Walker |
 | 106 | 815 | Diana Houts |
-| 107 | 813 | Klo |
-| 108 | 813 | Amy Suckarieh |
+| 107 | 813 | Amy Suckarieh |
+| 108 | 813 | Klo |
 | 109 | 811 | Sassy Pattern |
 | 110 | 806 | Zippy Gridlock |
 | 111 | 802 | Crystal Carroll |
@@ -143,8 +143,8 @@
 | 135 | 687 | Carmethia Clemons Haslerig |
 | 136 | 682 | Raegan Lane-Ross |
 | 137 | 668 | Desi Desporte |
-| 138 | 667 | Swanky Fitline |
-| 139 | 667 | Lindsey Gonzalez |
+| 138 | 667 | Lindsey Gonzalez |
+| 139 | 667 | Swanky Fitline |
 | 140 | 667 | Matt Gooder |
 | 141 | 662 | Nerdy Twisterfit |
 | 142 | 661 | shar |
@@ -229,8 +229,8 @@
 | 221 | 481 | Joanna |
 | 222 | 479 | June Hoffman |
 | 223 | 475 | Silly Zonebuilder |
-| 224 | 473 | Cranky Rollpiece |
-| 225 | 473 | Jolly Dashfit |
+| 224 | 473 | Jolly Dashfit |
+| 225 | 473 | Cranky Rollpiece |
 | 226 | 472 | Plucky Patternblock |
 | 227 | 465 | Leslie Thomas |
 | 228 | 464 | Calvin Cannon |
@@ -247,8 +247,8 @@
 | 239 | 454 | Keshia Lyons |
 | 240 | 450 | Genne Scott |
 | 241 | 449 | Danielle Kollias |
-| 242 | 448 | Mr. Party |
-| 243 | 448 | Mike Solo |
+| 242 | 448 | Mike Solo |
+| 243 | 448 | Mr. Party |
 | 244 | 447 | Jen Mattei |
 | 245 | 446 | Damn Libra |
 | 246 | 444 | Selena Shaw |
@@ -272,15 +272,15 @@
 | 264 | 413 | Rio Rocha |
 | 265 | 411 | Autumn Kumzi |
 | 266 | 410 | Lindsay Ball |
-| 267 | 409 | Joseph Guthrie |
-| 268 | 409 | Antony Dwayne Beasley |
-| 269 | 408 | Lauren Scott |
-| 270 | 408 | Dihcheese444 |
+| 267 | 409 | Antony Dwayne Beasley |
+| 268 | 409 | Joseph Guthrie |
+| 269 | 408 | Dihcheese444 |
+| 270 | 408 | Lauren Scott |
 | 271 | 407 | Rafael Valentin |
 | 272 | 407 | Hyper Builder |
 | 273 | 402 | Nita Wells |
-| 274 | 399 | Twisty Cascadezone |
-| 275 | 399 | Brittany Little |
+| 274 | 399 | Brittany Little |
+| 275 | 399 | Twisty Cascadezone |
 | 276 | 398 | Tyler Terrific |
 | 277 | 397 | blockstar |
 | 278 | 395 | Denise B |
