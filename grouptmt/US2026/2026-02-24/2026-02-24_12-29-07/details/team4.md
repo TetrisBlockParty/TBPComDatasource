@@ -51,8 +51,8 @@
 | 43 | 1497 | Juggalo |
 | 44 | 1478 | Sammy Noguera |
 | 45 | 1469 | Kimberly Love |
-| 46 | 1461 | Yoset Mejia |
-| 47 | 1461 | Shane Kalamata Platoon |
+| 46 | 1461 | Shane Kalamata Platoon |
+| 47 | 1461 | Yoset Mejia |
 | 48 | 1456 | Michelle Marie |
 | 49 | 1430 | Landon Keith Graffeo |
 | 50 | 1386 | Jen Allison |
@@ -149,8 +149,8 @@
 | 141 | 667 | Lindsey Gonzalez |
 | 142 | 667 | Matt Gooder |
 | 143 | 662 | Nerdy Twisterfit |
-| 144 | 661 | Rodney McMath Jr. |
-| 145 | 661 | shar |
+| 144 | 661 | shar |
+| 145 | 661 | Rodney McMath Jr. |
 | 146 | 651 | Adawna Swires |
 | 147 | 650 | April Rondinone |
 | 148 | 650 | Chris Hartig |
@@ -173,10 +173,10 @@
 | 165 | 602 | Cristy Duerksen |
 | 166 | 597 | Berklie Apedaile |
 | 167 | 595 | TRCuse |
-| 168 | 586 | Rebecca Morris |
-| 169 | 586 | Latisha Davis |
-| 170 | 585 | Tracey Lehmann |
-| 171 | 585 | Lori |
+| 168 | 586 | Latisha Davis |
+| 169 | 586 | Rebecca Morris |
+| 170 | 585 | Lori |
+| 171 | 585 | Tracey Lehmann |
 | 172 | 584 | Carlton Unfiltered |
 | 173 | 576 | Jade Rian |
 | 174 | 575 | Jenna Ingersoll |
@@ -233,8 +233,8 @@
 | 225 | 482 | Laura |
 | 226 | 481 | Joanna |
 | 227 | 475 | Silly Zonebuilder |
-| 228 | 473 | Cranky Rollpiece |
-| 229 | 473 | Jolly Dashfit |
+| 228 | 473 | Jolly Dashfit |
+| 229 | 473 | Cranky Rollpiece |
 | 230 | 472 | Plucky Patternblock |
 | 231 | 468 | scott |
 | 232 | 465 | Leslie Thomas |
@@ -249,13 +249,13 @@
 | 241 | 457 | Kristin Manee |
 | 242 | 457 | J-Rizzle |
 | 243 | 455 | Michele Plunkett |
-| 244 | 454 | David Lay |
+| 244 | 454 | Keshia Lyons |
 | 245 | 454 | Jessi Cinotto |
-| 246 | 454 | Keshia Lyons |
+| 246 | 454 | David Lay |
 | 247 | 450 | Genne Scott |
 | 248 | 449 | Danielle Kollias |
-| 249 | 448 | Mike Solo |
-| 250 | 448 | Mr. Party |
+| 249 | 448 | Mr. Party |
+| 250 | 448 | Mike Solo |
 | 251 | 447 | Chris Bernstein |
 | 252 | 444 | Selena Shaw |
 | 253 | 444 | Twisty Cascadezone |
@@ -268,8 +268,8 @@
 | 260 | 432 | Jason Gibbs |
 | 261 | 430 | 030Synner |
 | 262 | 428 | Gdiguy |
-| 263 | 427 | Chao Ma |
-| 264 | 427 | Jeff Brian Gates |
+| 263 | 427 | Jeff Brian Gates |
+| 264 | 427 | Chao Ma |
 | 265 | 427 | Cheery Risebuilder |
 | 266 | 425 | Lee Silpe |
 | 267 | 425 | mike |
@@ -289,12 +289,12 @@
 | 281 | 408 | Dihcheese444 |
 | 282 | 407 | Hyper Builder |
 | 283 | 406 | KimoKoala |
-| 284 | 402 | Nita Wells |
-| 285 | 402 | Maria Hammie |
+| 284 | 402 | Maria Hammie |
+| 285 | 402 | Nita Wells |
 | 286 | 398 | Tyler Terrific |
 | 287 | 397 | blockstar |
-| 288 | 395 | Denise B |
-| 289 | 395 | BigSammy420 |
+| 288 | 395 | BigSammy420 |
+| 289 | 395 | Denise B |
 | 290 | 394 | Nikki Rae Gordon |
 | 291 | 393 | Montiette Mcglown |
 | 292 | 390 | Ari Droff |
@@ -978,9 +978,9 @@
 | 970 | 111 | Renee |
 | 971 | 111 | BROOKE |
 | 972 | 111 | Cozy Balanceblock |
-| 973 | 111 | Lazy Blocker |
-| 974 | 110 | Tabita Gonzalez |
-| 975 | 110 | Ryan Knives Vanderpool |
+| 973 | 110 | Tabita Gonzalez |
+| 974 | 110 | Ryan Knives Vanderpool |
+| 975 | 110 | Katie Walton |
 | 976 | 110 | Beth Helms |
 | 977 | 109 | Smiley Staggerpiece |
 | 978 | 109 | Cranky Pivoty |

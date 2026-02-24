@@ -70,8 +70,8 @@
 | 62 | 1868 | Kristie McFarland |
 | 63 | 1836 | Tina Kay |
 | 64 | 1825 | Nora Rogers |
-| 65 | 1824 | Jessica Ann |
-| 66 | 1824 | Nate Burnside |
+| 65 | 1824 | Nate Burnside |
+| 66 | 1824 | Jessica Ann |
 | 67 | 1791 | Leah Barnett |
 | 68 | 1776 | Whitney Manuel |
 | 69 | 1774 | Liv Whetson |
@@ -127,8 +127,8 @@
 | 119 | 1152 | Julian Murphy |
 | 120 | 1124 | Stephanie Rice |
 | 121 | 1121 | Corie A. Brinson |
-| 122 | 1114 | Groovy Catcher |
-| 123 | 1114 | Loopy Fallmatch |
+| 122 | 1114 | Loopy Fallmatch |
+| 123 | 1114 | Groovy Catcher |
 | 124 | 1105 | Adrian Marcel Pate |
 | 125 | 1101 | Valerie Gendron |
 | 126 | 1093 | Angela M. Fletcher |
@@ -336,11 +336,11 @@
 | 328 | 499 | Megan Rathmanner |
 | 329 | 497 | Chummy Rumbler |
 | 330 | 496 | Brenda Schmid Wood |
-| 331 | 494 | fraulila |
-| 332 | 494 | MCV |
+| 331 | 494 | MCV |
+| 332 | 494 | fraulila |
 | 333 | 492 | Tasha Wesson-Torrence |
-| 334 | 490 | TotoCherue |
-| 335 | 490 | Cassandra Bryant |
+| 334 | 490 | Cassandra Bryant |
+| 335 | 490 | TotoCherue |
 | 336 | 489 | Isabel Ocasio |
 | 337 | 487 | MsBee |
 | 338 | 486 | Sleepy |
@@ -367,8 +367,8 @@
 | 359 | 464 | Snazzy Filler |
 | 360 | 464 | Snippy Wipeout |
 | 361 | 463 | Hoài Quắt |
-| 362 | 461 | Hyper Bridger |
-| 363 | 461 | Breanna Marsden |
+| 362 | 461 | Breanna Marsden |
+| 363 | 461 | Hyper Bridger |
 | 364 | 461 | Briana Wellman |
 | 365 | 460 | Hasty Gridpiece |
 | 366 | 460 | Antonia Russell |
@@ -378,8 +378,8 @@
 | 370 | 455 | Kelly Wolf |
 | 371 | 451 | Swanky Frame |
 | 372 | 450 | Luciana Braganca Vieira |
-| 373 | 449 | Sissy Lowery Davis |
-| 374 | 449 | Jojo M |
+| 373 | 449 | Jojo M |
+| 374 | 449 | Sissy Lowery Davis |
 | 375 | 447 | Carrie Huskey |
 | 376 | 447 | Num1hater |
 | 377 | 446 | Jennifer Alvey |
@@ -403,8 +403,8 @@
 | 395 | 428 | Samantha Lynn |
 | 396 | 428 | Skinny Baldez |
 | 397 | 428 | keni |
-| 398 | 427 | Angel Miller |
-| 399 | 427 | Darlene McMillan |
+| 398 | 427 | Darlene McMillan |
+| 399 | 427 | Angel Miller |
 | 400 | 426 | Heather Bateman |
 | 401 | 425 | Ava Petito |
 | 402 | 422 | Tay |
@@ -495,8 +495,8 @@
 | 487 | 356 | Trice Sodames |
 | 488 | 356 | Nikkie Bucciano |
 | 489 | 354 | Norma JulieMay |
-| 490 | 353 | Cheeky Snapper |
-| 491 | 353 | Erika Apodaca |
+| 490 | 353 | Erika Apodaca |
+| 491 | 353 | Cheeky Snapper |
 | 492 | 353 | Eboni G. |
 | 493 | 352 | LadyTorad |
 | 494 | 352 | Scott Doss |
@@ -578,8 +578,8 @@
 | 570 | 320 | Victoria Lexis Dyer |
 | 571 | 320 | Billie Jean Cooper |
 | 572 | 319 | Tia Moore |
-| 573 | 319 | Matty Ray |
-| 574 | 319 | Tracey Cox |
+| 573 | 319 | Tracey Cox |
+| 574 | 319 | Matty Ray |
 | 575 | 319 | Jayme |
 | 576 | 318 | James Fuller |
 | 577 | 318 | Tina Smith Roy |

@@ -333,8 +333,8 @@
 | 325 | 1342 | Groovy Puzzle |
 | 326 | 1342 | Kelly A Green-Leach |
 | 327 | 1341 | Cassie Mercer |
-| 328 | 1338 | Meghan M |
-| 329 | 1338 | Diallo Sparkman |
+| 328 | 1338 | Diallo Sparkman |
+| 329 | 1338 | Meghan M |
 | 330 | 1336 | Frothy Rumbler |
 | 331 | 1334 | Jamie Otero |
 | 332 | 1333 | nikki |
@@ -367,8 +367,8 @@
 | 359 | 1257 | Megan Garrick |
 | 360 | 1257 | Megan Ferguson Leone |
 | 361 | 1257 | Jackie Lucas |
-| 362 | 1256 | Phil J. Grombliniak |
-| 363 | 1256 | Belle |
+| 362 | 1256 | Belle |
+| 363 | 1256 | Phil J. Grombliniak |
 | 364 | 1255 | Ambyre Patterson |
 | 365 | 1254 | Erika Densmore |
 | 366 | 1252 | AgileDragon |
@@ -740,8 +740,8 @@
 | 732 | 741 | Leah Keesling |
 | 733 | 741 | Ashley Munn |
 | 734 | 740 | Lylymom |
-| 735 | 740 | Joice Hansen |
-| 736 | 740 | Lee Harper |
+| 735 | 740 | Lee Harper |
+| 736 | 740 | Joice Hansen |
 | 737 | 738 | Jessica S Flecha |
 | 738 | 738 | calcap |
 | 739 | 737 | Breezy Clusterer |
@@ -860,12 +860,12 @@
 | 852 | 669 | Swanky Columnbuilder |
 | 853 | 669 | Armonie Smith |
 | 854 | 668 | Chilly Linebuilder |
-| 855 | 668 | Brownie Sheena |
-| 856 | 668 | Nerdy Blockpiece |
-| 857 | 668 | Alice Ball |
-| 858 | 667 | Snazzy Risegrid |
-| 859 | 667 | Asante Alexander |
-| 860 | 667 | Demeka Dangerous-kisses Johnson |
+| 855 | 668 | Nerdy Blockpiece |
+| 856 | 668 | Alice Ball |
+| 857 | 668 | Brownie Sheena |
+| 858 | 667 | Demeka Dangerous-kisses Johnson |
+| 859 | 667 | Snazzy Risegrid |
+| 860 | 667 | Asante Alexander |
 | 861 | 666 | Laura Mclean |
 | 862 | 665 | Zak Dunn |
 | 863 | 664 | Jarboe |
@@ -880,8 +880,8 @@
 | 872 | 662 | Belle Mari |
 | 873 | 661 | Kristina Marie Hanna |
 | 874 | 661 | Chab |
-| 875 | 660 | Jenna Nance |
-| 876 | 660 | Shelva Richard |
+| 875 | 660 | Shelva Richard |
+| 876 | 660 | Jenna Nance |
 | 877 | 659 | Rain |
 | 878 | 656 | Emilie Desma |
 | 879 | 656 | Synn |
@@ -889,9 +889,9 @@
 | 881 | 655 | dionia |
 | 882 | 654 | David Duncan |
 | 883 | 653 | Kimmie Zimmerman-Rocha |
-| 884 | 652 | Irna |
-| 885 | 652 | Lively Edgepiece |
-| 886 | 652 | Court |
+| 884 | 652 | Lively Edgepiece |
+| 885 | 652 | Court |
+| 886 | 652 | Irna |
 | 887 | 651 | Lazy Builderfit |
 | 888 | 651 | Unica Rector |
 | 889 | 650 | Pfc Monei Rivera |
