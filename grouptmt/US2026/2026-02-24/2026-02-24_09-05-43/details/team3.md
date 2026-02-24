@@ -106,13 +106,13 @@
 | 98 | 1361 | Patricia Gadsden |
 | 99 | 1343 | Joey Banks |
 | 100 | 1320 | Kristie |
-| 101 | 1318 | Tiff Vs Tiffany |
-| 102 | 1318 | Diana Ibarra |
+| 101 | 1318 | Diana Ibarra |
+| 102 | 1318 | Tiff Vs Tiffany |
 | 103 | 1309 | yoyo |
 | 104 | 1297 | Shelby Michelle |
 | 105 | 1290 | JerseyJess |
-| 106 | 1282 | Peppy Shifter |
-| 107 | 1282 | Amanda L Baker |
+| 106 | 1282 | Amanda L Baker |
+| 107 | 1282 | Peppy Shifter |
 | 108 | 1276 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1248 | Lori Barnaby |
@@ -165,8 +165,8 @@
 | 157 | 925 | Cherry Parker |
 | 158 | 914 | Sarajane Lokan |
 | 159 | 914 | BadManSheLove |
-| 160 | 910 | Staci George Fitzsimmons |
-| 161 | 910 | opf |
+| 160 | 910 | opf |
+| 161 | 910 | Staci George Fitzsimmons |
 | 162 | 906 | Patti Skiles |
 | 163 | 900 | Edwin Calvillo Jr. |
 | 164 | 899 | Jaime Monhaut-Reed |
@@ -216,8 +216,8 @@
 | 208 | 760 | Kiki |
 | 209 | 759 | Mykal Burton |
 | 210 | 757 | Fancy Cascader |
-| 211 | 755 | Colton |
-| 212 | 755 | Laura Booth Wosko |
+| 211 | 755 | Laura Booth Wosko |
+| 212 | 755 | Colton |
 | 213 | 754 | CeceGeGe |
 | 214 | 753 | Morgan Martinez |
 | 215 | 752 | Joye Sims Binion |
@@ -376,8 +376,8 @@
 | 368 | 443 | Christian Werndl |
 | 369 | 442 | Loopy Fallzone |
 | 370 | 438 | Dannie Litchard |
-| 371 | 436 | Julie Fratrik |
-| 372 | 436 | AC Yeater |
+| 371 | 436 | AC Yeater |
+| 372 | 436 | Julie Fratrik |
 | 373 | 435 | Sabrina Hardrick |
 | 374 | 434 | Criss |
 | 375 | 433 | Sissy Lowery Davis |
@@ -421,8 +421,8 @@
 | 413 | 401 | Velma Mull |
 | 414 | 400 | Joy Petroski |
 | 415 | 398 | Breezy Roll |
-| 416 | 397 | Hasty Gridpiece |
-| 417 | 397 | Kevin Russell |
+| 416 | 397 | Kevin Russell |
+| 417 | 397 | Hasty Gridpiece |
 | 418 | 394 | Jalissa Monique |
 | 419 | 392 | Michelle Allers |
 | 420 | 392 | Linda Draper |
@@ -442,8 +442,8 @@
 | 434 | 380 | neci |
 | 435 | 380 | Foltz Lee Kelli |
 | 436 | 379 | Krish Shah |
-| 437 | 378 | Samantha Worley |
-| 438 | 378 | Ashley Lynn Marchese |
+| 437 | 378 | Ashley Lynn Marchese |
+| 438 | 378 | Samantha Worley |
 | 439 | 377 | Paula Little |
 | 440 | 376 | Romeo |
 | 441 | 376 | Brittany |

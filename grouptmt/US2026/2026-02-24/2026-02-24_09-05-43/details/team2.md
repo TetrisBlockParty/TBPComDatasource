@@ -316,8 +316,8 @@
 | 308 | 1357 | Tanya Parsons |
 | 309 | 1353 | Deborah Miller |
 | 310 | 1353 | Heather Hoffman Disharoon |
-| 311 | 1351 | Lucky Ladybug |
-| 312 | 1351 | Ashie Ann |
+| 311 | 1351 | Ashie Ann |
+| 312 | 1351 | Lucky Ladybug |
 | 313 | 1351 | Denisha Dawkins |
 | 314 | 1351 | Johnny Yeates |
 | 315 | 1345 | Tralonda Weeks |
@@ -463,8 +463,8 @@
 | 455 | 1048 | Sheronda Jackson |
 | 456 | 1043 | Brave Dropmatch |
 | 457 | 1042 | Spunkysmom |
-| 458 | 1041 | Crystal Hoffman |
-| 459 | 1041 | Shalena Marie Humphrey |
+| 458 | 1041 | Shalena Marie Humphrey |
+| 459 | 1041 | Crystal Hoffman |
 | 460 | 1037 | Steve Man |
 | 461 | 1036 | trabuco |
 | 462 | 1033 | Andrea Maher |
@@ -1028,10 +1028,10 @@
 | 1020 | 573 | Christina Burns |
 | 1021 | 572 | Mercedez Hubbard |
 | 1022 | 572 | Rachael Senard |
-| 1023 | 571 | Zachary Boyarski |
-| 1024 | 571 | Matt Johnson |
-| 1025 | 570 | MauroPRM |
-| 1026 | 570 | Erika Deer Kauffman |
+| 1023 | 571 | Matt Johnson |
+| 1024 | 571 | Zachary Boyarski |
+| 1025 | 570 | Erika Deer Kauffman |
+| 1026 | 570 | MauroPRM |
 | 1027 | 570 | Sonya Back |
 | 1028 | 569 | Anita Rose Green |
 | 1029 | 569 | Sparkles |

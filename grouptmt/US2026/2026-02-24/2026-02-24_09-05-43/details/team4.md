@@ -111,8 +111,8 @@
 | 103 | 834 | Brittney Orengo |
 | 104 | 834 | quicksand420 |
 | 105 | 815 | Diana Houts |
-| 106 | 813 | Amy Suckarieh |
-| 107 | 813 | Klo |
+| 106 | 813 | Klo |
+| 107 | 813 | Amy Suckarieh |
 | 108 | 811 | Sassy Pattern |
 | 109 | 806 | Zippy Gridlock |
 | 110 | 806 | Lori Walker |
@@ -142,9 +142,9 @@
 | 134 | 704 | Chilly Crasher |
 | 135 | 682 | Raegan Lane-Ross |
 | 136 | 668 | Desi Desporte |
-| 137 | 667 | Lindsey Gonzalez |
+| 137 | 667 | Matt Gooder |
 | 138 | 667 | Swanky Fitline |
-| 139 | 667 | Matt Gooder |
+| 139 | 667 | Lindsey Gonzalez |
 | 140 | 662 | Nerdy Twisterfit |
 | 141 | 661 | shar |
 | 142 | 661 | Rodney McMath Jr. |
@@ -232,8 +232,8 @@
 | 224 | 472 | Plucky Patternblock |
 | 225 | 468 | June Hoffman |
 | 226 | 465 | Leslie Thomas |
-| 227 | 464 | Zakia Monae |
-| 228 | 464 | Calvin Cannon |
+| 227 | 464 | Calvin Cannon |
+| 228 | 464 | Zakia Monae |
 | 229 | 463 | shark tato |
 | 230 | 462 | Crystal Nicolette Moore |
 | 231 | 460 | Kathy Brookins |
@@ -311,15 +311,15 @@
 | 303 | 364 | Lora |
 | 304 | 362 | Nubian1 |
 | 305 | 360 | Lee Silpe |
-| 306 | 359 | Holly |
+| 306 | 359 | KimoKoala |
 | 307 | 359 | Allen Lloyd |
-| 308 | 359 | KimoKoala |
+| 308 | 359 | Holly |
 | 309 | 357 | Sandra Safford |
-| 310 | 354 | Perky Piecegrid |
-| 311 | 354 | @ |
+| 310 | 354 | @ |
+| 311 | 354 | Perky Piecegrid |
 | 312 | 352 | Kate |
-| 313 | 351 | Dana Scott |
-| 314 | 351 | Jackie Clark |
+| 313 | 351 | Jackie Clark |
+| 314 | 351 | Dana Scott |
 | 315 | 350 | Dizzy Matchzone |
 | 316 | 349 | jim |
 | 317 | 349 | Richard-April Kice |
@@ -347,8 +347,8 @@
 | 339 | 331 | Angie Schmidt |
 | 340 | 331 | rebel4lyfe |
 | 341 | 330 | Duck |
-| 342 | 329 | AyeKay |
-| 343 | 329 | Meagan Nicole |
+| 342 | 329 | Meagan Nicole |
+| 343 | 329 | AyeKay |
 | 344 | 328 | Heather Bruce |
 | 345 | 328 | Leah Kutz Zirbel |
 | 346 | 327 | Jim Hart |
@@ -526,9 +526,9 @@
 | 518 | 233 | Robert Rodriguez |
 | 519 | 233 | Gigglelymomof2 |
 | 520 | 233 | conceptCollector |
-| 521 | 233 | Gigglelymomof2 |
-| 522 | 232 | Lou Ie |
-| 523 | 232 | Dandy Cascadefit |
+| 521 | 233 | Joseph Edmonson |
+| 522 | 232 | Dandy Cascadefit |
+| 523 | 232 | Lou Ie |
 | 524 | 232 | Becky Shimko |
 | 525 | 231 | Loony Rotater |
 | 526 | 230 | Martha Lucinda Bishop |

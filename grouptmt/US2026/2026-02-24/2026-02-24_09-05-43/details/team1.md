@@ -137,8 +137,8 @@
 | 129 | 666 | Virginia Gray Floyd |
 | 130 | 652 | Evie Khalil |
 | 131 | 651 | Dandy Basegrid |
-| 132 | 650 | Bob |
-| 133 | 650 | April Carroll |
+| 132 | 650 | April Carroll |
+| 133 | 650 | Bob |
 | 134 | 647 | Theo Pinnow |
 | 135 | 643 | Erin Rosberg |
 | 136 | 642 | Mario Cab |
@@ -190,8 +190,8 @@
 | 182 | 519 | Cool Shiftsnap |
 | 183 | 517 | Eric DeSimone |
 | 184 | 514 | Chase Collinsworth |
-| 185 | 513 | Rebekah LeiAnn Bonsell |
-| 186 | 513 | Colena Davenport |
+| 185 | 513 | Colena Davenport |
+| 186 | 513 | Rebekah LeiAnn Bonsell |
 | 187 | 511 | MomMom |
 | 188 | 510 | Rat666 |
 | 189 | 501 | Jessica Russell |
