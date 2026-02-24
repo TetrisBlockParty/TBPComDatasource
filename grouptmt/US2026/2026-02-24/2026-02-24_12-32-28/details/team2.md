@@ -333,8 +333,8 @@
 | 325 | 1342 | Groovy Puzzle |
 | 326 | 1342 | Kelly A Green-Leach |
 | 327 | 1341 | Cassie Mercer |
-| 328 | 1338 | Meghan M |
-| 329 | 1338 | Diallo Sparkman |
+| 328 | 1338 | Diallo Sparkman |
+| 329 | 1338 | Meghan M |
 | 330 | 1336 | Frothy Rumbler |
 | 331 | 1334 | Jamie Otero |
 | 332 | 1333 | nikki |
@@ -364,8 +364,8 @@
 | 356 | 1262 | Toni Roberson |
 | 357 | 1261 | Becca Coronado |
 | 358 | 1259 | AkaLefty |
-| 359 | 1257 | Megan Garrick |
-| 360 | 1257 | Megan Ferguson Leone |
+| 359 | 1257 | Megan Ferguson Leone |
+| 360 | 1257 | Megan Garrick |
 | 361 | 1257 | Jackie Lucas |
 | 362 | 1256 | Belle |
 | 363 | 1256 | Phil J. Grombliniak |
@@ -710,8 +710,8 @@
 | 702 | 766 | Diamond Scott |
 | 703 | 766 | Angela Cagle Silmon |
 | 704 | 763 | Chelle |
-| 705 | 763 | Heather Causey |
-| 706 | 763 | Cecilia A Jenkins |
+| 705 | 763 | Cecilia A Jenkins |
+| 706 | 763 | Heather Causey |
 | 707 | 762 | Slinky Racker |
 | 708 | 760 | Shorty |
 | 709 | 759 | Jessica Lamb |
@@ -883,17 +883,17 @@
 | 875 | 660 | Jenna Nance |
 | 876 | 660 | Shelva Richard |
 | 877 | 659 | Rain |
-| 878 | 656 | Emilie Desma |
-| 879 | 656 | Synn |
+| 878 | 656 | Synn |
+| 879 | 656 | Emilie Desma |
 | 880 | 655 | Lively Piecebuilder |
 | 881 | 655 | dionia |
 | 882 | 654 | David Duncan |
 | 883 | 653 | Kimmie Zimmerman-Rocha |
-| 884 | 652 | Irna |
+| 884 | 652 | Lively Edgepiece |
 | 885 | 652 | Court |
-| 886 | 652 | Lively Edgepiece |
-| 887 | 651 | Unica Rector |
-| 888 | 651 | Lazy Builderfit |
+| 886 | 652 | Irna |
+| 887 | 651 | Lazy Builderfit |
+| 888 | 651 | Unica Rector |
 | 889 | 650 | Pfc Monei Rivera |
 | 890 | 650 | Peppy Snapfall |
 | 891 | 650 | Brittany Chapman |
@@ -907,8 +907,8 @@
 | 899 | 644 | Kevin Luu |
 | 900 | 643 | Rae Rae |
 | 901 | 642 | Lewis Sturgeon |
-| 902 | 641 | Happy Tile |
-| 903 | 641 | Snappy Faller |
+| 902 | 641 | Snappy Faller |
+| 903 | 641 | Happy Tile |
 | 904 | 640 | Taylor Flowers |
 | 905 | 639 | Shindee |
 | 906 | 639 | Tina Marie |

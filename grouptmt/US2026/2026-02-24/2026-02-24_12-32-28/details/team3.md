@@ -32,8 +32,8 @@
 | 24 | 3221 | Ashley Jones |
 | 25 | 3118 | Jamie Lang |
 | 26 | 3042 | Nerdy Spinblock |
-| 27 | 2933 | Dan Rob |
-| 28 | 2933 | Grego Daniel |
+| 27 | 2933 | Grego Daniel |
+| 28 | 2933 | Dan Rob |
 | 29 | 2874 | Zippy Strikesnap |
 | 30 | 2873 | Chummy Shatterer |
 | 31 | 2816 | Fancy Slam |
@@ -378,8 +378,8 @@
 | 370 | 455 | Kelly Wolf |
 | 371 | 451 | Swanky Frame |
 | 372 | 450 | Luciana Braganca Vieira |
-| 373 | 449 | Sissy Lowery Davis |
-| 374 | 449 | Jojo M |
+| 373 | 449 | Jojo M |
+| 374 | 449 | Sissy Lowery Davis |
 | 375 | 447 | Carrie Huskey |
 | 376 | 447 | Num1hater |
 | 377 | 446 | Jennifer Alvey |
@@ -488,8 +488,8 @@
 | 480 | 363 | angieelyn |
 | 481 | 360 | Cathy Leger |
 | 482 | 359 | Kathleen Taylor |
-| 483 | 358 | Beejangles |
-| 484 | 358 | Taylor Culver |
+| 483 | 358 | Taylor Culver |
+| 484 | 358 | Beejangles |
 | 485 | 358 | Hyper Twisterfit |
 | 486 | 356 | Trice Sodames |
 | 487 | 356 | Nikkie Bucciano |

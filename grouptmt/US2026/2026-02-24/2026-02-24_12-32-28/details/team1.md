@@ -50,8 +50,8 @@
 | 42 | 1405 | Chipper Gridlock |
 | 43 | 1391 | Aaron Garnett |
 | 44 | 1388 | Jen Sartain |
-| 45 | 1334 | Tyler Alcock |
-| 46 | 1334 | june october |
+| 45 | 1334 | june october |
+| 46 | 1334 | Tyler Alcock |
 | 47 | 1325 | Drew Magnus |
 | 48 | 1305 | Michelle Nicole |
 | 49 | 1290 | Spunky Piecebuilder |
@@ -216,8 +216,8 @@
 | 208 | 488 | Jessie Welch |
 | 209 | 482 | Adele Rahman |
 | 210 | 479 | canbrick |
-| 211 | 478 | Jumpy Dropper |
-| 212 | 478 | Hasty Cascader |
+| 211 | 478 | Hasty Cascader |
+| 212 | 478 | Jumpy Dropper |
 | 213 | 477 | Howdi Duty |
 | 214 | 477 | Dizzy Slider |
 | 215 | 475 | Reesey Enyart |
@@ -335,8 +335,8 @@
 | 327 | 353 | Josh Riemer |
 | 328 | 352 | Lachelle Dillon |
 | 329 | 351 | Garrett Burket |
-| 330 | 350 | Dreamy Drop |
-| 331 | 350 | Bouncy Line |
+| 330 | 350 | Bouncy Line |
+| 331 | 350 | Dreamy Drop |
 | 332 | 347 | Sonia Marquis |
 | 333 | 347 | ParisandCory Champagne |
 | 334 | 347 | Michael Espinosa Ulibarri Jr. |
@@ -432,8 +432,8 @@
 | 424 | 291 | Danielle Mae |
 | 425 | 290 | Brave Slice |
 | 426 | 290 | Nate Funk |
-| 427 | 289 | Snappy Bridgepiece |
-| 428 | 289 | Camelia Trevillion |
+| 427 | 289 | Camelia Trevillion |
+| 428 | 289 | Snappy Bridgepiece |
 | 429 | 288 | Anita Jack |
 | 430 | 287 | Blaire Bruckoff |
 | 431 | 287 | Dizzy Riseclear |
@@ -479,9 +479,9 @@
 | 471 | 270 | Krie |
 | 472 | 269 | Ramona Shaver |
 | 473 | 268 | Ashley Adams |
-| 474 | 267 | Barry Mac'Ockner |
-| 475 | 267 | Mary Cerciello |
-| 476 | 267 | Dena Kayy |
+| 474 | 267 | Mary Cerciello |
+| 475 | 267 | Dena Kayy |
+| 476 | 267 | Barry Mac'Ockner |
 | 477 | 266 | Angela Jones |
 | 478 | 266 | Jade |
 | 479 | 266 | Ma stoken |
@@ -530,8 +530,8 @@
 | 522 | 246 | ken |
 | 523 | 246 | Frothy Blockbuilder |
 | 524 | 245 | Theeranart Mahawan |
-| 525 | 244 | Kristen Meehan Wangerien |
-| 526 | 244 | Mrsbigdawg |
+| 525 | 244 | Mrsbigdawg |
+| 526 | 244 | Kristen Meehan Wangerien |
 | 527 | 243 | Gerald Richard Franke |
 | 528 | 242 | Dawn Rannelli |
 | 529 | 242 | Stephanie Leday |
@@ -771,8 +771,8 @@
 | 763 | 166 | docjp |
 | 764 | 166 | Christa Ybarra |
 | 765 | 166 | Tina Kocher Zimmerman |
-| 766 | 164 | Christina |
-| 767 | 164 | Paul Osborne |
+| 766 | 164 | Paul Osborne |
+| 767 | 164 | Christina |
 | 768 | 163 | Elizabeth Coover |
 | 769 | 162 | Charla Pross-Fugleberg |
 | 770 | 162 | Lucinda Thacker |

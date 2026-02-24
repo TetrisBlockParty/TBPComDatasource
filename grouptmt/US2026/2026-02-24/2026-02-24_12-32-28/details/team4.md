@@ -117,8 +117,8 @@
 | 109 | 811 | Sassy Pattern |
 | 110 | 806 | Zippy Gridlock |
 | 111 | 805 | Mylo Lipscomb |
-| 112 | 802 | Crystal Carroll |
-| 113 | 802 | Denise Carlson |
+| 112 | 802 | Denise Carlson |
+| 113 | 802 | Crystal Carroll |
 | 114 | 801 | D3TROITB0RN74 |
 | 115 | 798 | Jewell Urban |
 | 116 | 784 | TheNeesh50 |
@@ -149,11 +149,11 @@
 | 141 | 667 | Lindsey Gonzalez |
 | 142 | 667 | Swanky Fitline |
 | 143 | 662 | Nerdy Twisterfit |
-| 144 | 661 | Rodney McMath Jr. |
-| 145 | 661 | shar |
+| 144 | 661 | shar |
+| 145 | 661 | Rodney McMath Jr. |
 | 146 | 651 | Adawna Swires |
-| 147 | 650 | April Rondinone |
-| 148 | 650 | Chris Hartig |
+| 147 | 650 | Chris Hartig |
+| 148 | 650 | April Rondinone |
 | 149 | 647 | KM8 |
 | 150 | 646 | Kim Hunt |
 | 151 | 639 | Serena Goodridge |
@@ -246,8 +246,8 @@
 | 238 | 460 | Kathy Brookins |
 | 239 | 458 | Kristina Black |
 | 240 | 458 | Luis Martinez |
-| 241 | 457 | Kristin Manee |
-| 242 | 457 | J-Rizzle |
+| 241 | 457 | J-Rizzle |
+| 242 | 457 | Kristin Manee |
 | 243 | 455 | Michele Plunkett |
 | 244 | 454 | Keshia Lyons |
 | 245 | 454 | Jessi Cinotto |
@@ -280,8 +280,8 @@
 | 272 | 419 | Hyper Matchclear |
 | 273 | 417 | Rafael Valentin |
 | 274 | 413 | Rio Rocha |
-| 275 | 411 | Autumn Kumzi |
-| 276 | 411 | Backoff Recupe |
+| 275 | 411 | Backoff Recupe |
+| 276 | 411 | Autumn Kumzi |
 | 277 | 410 | Lindsay Ball |
 | 278 | 409 | Antony Dwayne Beasley |
 | 279 | 408 | Lauren Scott |
@@ -300,8 +300,8 @@
 | 292 | 390 | Ari Droff |
 | 293 | 387 | Sandra Safford |
 | 294 | 386 | Vic |
-| 295 | 382 | Matt Dell'Olio |
-| 296 | 382 | Sue Joyce Staats |
+| 295 | 382 | Sue Joyce Staats |
+| 296 | 382 | Matt Dell'Olio |
 | 297 | 381 | Cool Gridzone |
 | 298 | 380 | Chaz |
 | 299 | 380 | Jen Caldwell |
@@ -312,8 +312,8 @@
 | 304 | 375 | Dan Wold |
 | 305 | 375 | George Tzouganos |
 | 306 | 373 | Russ Attitude |
-| 307 | 370 | Twisty Risebuilder |
-| 308 | 370 | Kris Bartlett |
+| 307 | 370 | Kris Bartlett |
+| 308 | 370 | Twisty Risebuilder |
 | 309 | 367 | Meg |
 | 310 | 366 | Ak Jones |
 | 311 | 364 | Lora |
