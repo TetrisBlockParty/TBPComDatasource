@@ -223,8 +223,8 @@
 | 215 | 475 | Reesey Enyart |
 | 216 | 470 | Candy Jones |
 | 217 | 468 | Jessie Lynn |
-| 218 | 467 | Witty Builderfit |
-| 219 | 467 | Brian Spotts |
+| 218 | 467 | Brian Spotts |
+| 219 | 467 | Witty Builderfit |
 | 220 | 466 | Lori Bales |
 | 221 | 460 | Sam Williams |
 | 222 | 458 | Goose egg |
@@ -432,8 +432,8 @@
 | 424 | 291 | Sir-Franchise Drake |
 | 425 | 290 | Brave Slice |
 | 426 | 290 | Nate Funk |
-| 427 | 289 | Snappy Bridgepiece |
-| 428 | 289 | Camelia Trevillion |
+| 427 | 289 | Camelia Trevillion |
+| 428 | 289 | Snappy Bridgepiece |
 | 429 | 288 | Anita Jack |
 | 430 | 287 | Madbull |
 | 431 | 287 | Lyn Sibayan |
@@ -500,7 +500,7 @@
 | 492 | 258 | Lilkimmie |
 | 493 | 258 | Tedashi |
 | 494 | 258 | Marc Abney |
-| 495 | 258 | Lilkimmie |
+| 495 | 258 | Vivienne Carter |
 | 496 | 257 | Andrew Backes |
 | 497 | 256 | Amie Fields |
 | 498 | 256 | Mary Crisp |
@@ -530,8 +530,8 @@
 | 522 | 246 | ken |
 | 523 | 246 | Frothy Blockbuilder |
 | 524 | 245 | Theeranart Mahawan |
-| 525 | 244 | Kristen Meehan Wangerien |
-| 526 | 244 | Mrsbigdawg |
+| 525 | 244 | Mrsbigdawg |
+| 526 | 244 | Kristen Meehan Wangerien |
 | 527 | 243 | Gerald Richard Franke |
 | 528 | 242 | Pauline Cortez |
 | 529 | 242 | Joshua Weeder |
@@ -555,9 +555,9 @@
 | 547 | 235 | Miguel Teixeira |
 | 548 | 235 | Nutty Glide |
 | 549 | 234 | Shannon Guilloty |
-| 550 | 234 | Burnnetter Sisk |
+| 550 | 234 | Aaron Green |
 | 551 | 234 | Dee Doris Ewald Flynn |
-| 552 | 234 | Aaron Green |
+| 552 | 234 | Burnnetter Sisk |
 | 553 | 233 | Jonah Dunn |
 | 554 | 232 | Epic Jumper |
 | 555 | 232 | Nerdy Curvebuilder |
@@ -640,10 +640,10 @@
 | 632 | 205 | Sam Rosado |
 | 633 | 204 | Jill King Oldham |
 | 634 | 203 | Ashley Rodriguez |
-| 635 | 202 | Piffy |
-| 636 | 202 | grizzly |
-| 637 | 201 | Hector Cruz |
-| 638 | 201 | Emily Wray |
+| 635 | 202 | grizzly |
+| 636 | 202 | Piffy |
+| 637 | 201 | Emily Wray |
+| 638 | 201 | Hector Cruz |
 | 639 | 200 | Gina Fontana Meier |
 | 640 | 200 | Tina Sinclair |
 | 641 | 199 | Sarah Henniker |
@@ -697,9 +697,9 @@
 | 689 | 187 | Shawn Robert |
 | 690 | 187 | Katie Bell |
 | 691 | 186 | Donna Taliger Brigante |
-| 692 | 185 | Tim Russell |
-| 693 | 185 | William Touzin |
-| 694 | 185 | Kkl |
+| 692 | 185 | William Touzin |
+| 693 | 185 | Kkl |
+| 694 | 185 | Tim Russell |
 | 695 | 184 | Missy Broz McNees |
 | 696 | 184 | Marie Fox |
 | 697 | 183 | David DeSantis |

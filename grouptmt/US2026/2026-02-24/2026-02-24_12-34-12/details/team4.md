@@ -51,8 +51,8 @@
 | 43 | 1497 | Juggalo |
 | 44 | 1478 | Sammy Noguera |
 | 45 | 1469 | Kimberly Love |
-| 46 | 1461 | Yoset Mejia |
-| 47 | 1461 | Shane Kalamata Platoon |
+| 46 | 1461 | Shane Kalamata Platoon |
+| 47 | 1461 | Yoset Mejia |
 | 48 | 1456 | Michelle Marie |
 | 49 | 1430 | Landon Keith Graffeo |
 | 50 | 1386 | Jen Allison |
@@ -117,8 +117,8 @@
 | 109 | 811 | Sassy Pattern |
 | 110 | 806 | Zippy Gridlock |
 | 111 | 805 | Mylo Lipscomb |
-| 112 | 802 | Crystal Carroll |
-| 113 | 802 | Denise Carlson |
+| 112 | 802 | Denise Carlson |
+| 113 | 802 | Crystal Carroll |
 | 114 | 801 | D3TROITB0RN74 |
 | 115 | 798 | Jewell Urban |
 | 116 | 784 | TheNeesh50 |
@@ -149,11 +149,11 @@
 | 141 | 667 | Matt Gooder |
 | 142 | 667 | Lindsey Gonzalez |
 | 143 | 662 | Nerdy Twisterfit |
-| 144 | 661 | Rodney McMath Jr. |
-| 145 | 661 | shar |
+| 144 | 661 | shar |
+| 145 | 661 | Rodney McMath Jr. |
 | 146 | 651 | Adawna Swires |
-| 147 | 650 | April Rondinone |
-| 148 | 650 | Chris Hartig |
+| 147 | 650 | Chris Hartig |
+| 148 | 650 | April Rondinone |
 | 149 | 647 | KM8 |
 | 150 | 646 | Kim Hunt |
 | 151 | 639 | Serena Goodridge |
@@ -254,8 +254,8 @@
 | 246 | 454 | David Lay |
 | 247 | 450 | Genne Scott |
 | 248 | 449 | Danielle Kollias |
-| 249 | 448 | Mr. Party |
-| 250 | 448 | Mike Solo |
+| 249 | 448 | Mike Solo |
+| 250 | 448 | Mr. Party |
 | 251 | 447 | Chris Bernstein |
 | 252 | 444 | Selena Shaw |
 | 253 | 444 | Twisty Cascadezone |
@@ -268,8 +268,8 @@
 | 260 | 432 | Jason Gibbs |
 | 261 | 430 | 030Synner |
 | 262 | 428 | Gdiguy |
-| 263 | 427 | Cheery Risebuilder |
-| 264 | 427 | Jeff Brian Gates |
+| 263 | 427 | Jeff Brian Gates |
+| 264 | 427 | Cheery Risebuilder |
 | 265 | 427 | Chao Ma |
 | 266 | 425 | mike |
 | 267 | 425 | Lee Silpe |
@@ -280,8 +280,8 @@
 | 272 | 419 | Hyper Matchclear |
 | 273 | 417 | Rafael Valentin |
 | 274 | 413 | Rio Rocha |
-| 275 | 411 | Autumn Kumzi |
-| 276 | 411 | Backoff Recupe |
+| 275 | 411 | Backoff Recupe |
+| 276 | 411 | Autumn Kumzi |
 | 277 | 410 | Lindsay Ball |
 | 278 | 409 | Antony Dwayne Beasley |
 | 279 | 408 | Lauren Scott |
@@ -309,8 +309,8 @@
 | 301 | 378 | Mary Ann Pabukis |
 | 302 | 378 | Googenheim |
 | 303 | 376 | Nig |
-| 304 | 375 | Dan Wold |
-| 305 | 375 | George Tzouganos |
+| 304 | 375 | George Tzouganos |
+| 305 | 375 | Dan Wold |
 | 306 | 373 | Russ Attitude |
 | 307 | 370 | Twisty Risebuilder |
 | 308 | 370 | Kris Bartlett |

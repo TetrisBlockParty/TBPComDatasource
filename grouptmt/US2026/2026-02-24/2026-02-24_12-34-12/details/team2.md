@@ -246,10 +246,10 @@
 | 238 | 1670 | L3sli3 |
 | 239 | 1668 | Cambrie Schultz |
 | 240 | 1663 | Alex Stone LaRue |
-| 241 | 1661 | Danielle Johnson-Chandler |
-| 242 | 1661 | Scott Treadway |
-| 243 | 1656 | Binyah-Binyah |
-| 244 | 1656 | Lemonaide |
+| 241 | 1661 | Scott Treadway |
+| 242 | 1661 | Danielle Johnson-Chandler |
+| 243 | 1656 | Lemonaide |
+| 244 | 1656 | Binyah-Binyah |
 | 245 | 1655 | Glitzy Stackzone |
 | 246 | 1652 | Tim Dyer |
 | 247 | 1651 | Luna |
@@ -300,8 +300,8 @@
 | 292 | 1446 | Tyler C. Jung |
 | 293 | 1445 | Samantha Scibelli |
 | 294 | 1444 | Kristin Ruest |
-| 295 | 1443 | Christina Walker |
-| 296 | 1443 | Maria Escobar |
+| 295 | 1443 | Maria Escobar |
+| 296 | 1443 | Christina Walker |
 | 297 | 1429 | Arlene Joy Belicina |
 | 298 | 1422 | Rebecca Garland |
 | 299 | 1418 | Christie |
@@ -333,8 +333,8 @@
 | 325 | 1342 | Groovy Puzzle |
 | 326 | 1342 | Kelly A Green-Leach |
 | 327 | 1341 | Cassie Mercer |
-| 328 | 1338 | Meghan M |
-| 329 | 1338 | Diallo Sparkman |
+| 328 | 1338 | Diallo Sparkman |
+| 329 | 1338 | Meghan M |
 | 330 | 1336 | Frothy Rumbler |
 | 331 | 1334 | Jamie Otero |
 | 332 | 1333 | nikki |
@@ -367,8 +367,8 @@
 | 359 | 1257 | Megan Garrick |
 | 360 | 1257 | Megan Ferguson Leone |
 | 361 | 1257 | Jackie Lucas |
-| 362 | 1256 | Belle |
-| 363 | 1256 | Phil J. Grombliniak |
+| 362 | 1256 | Phil J. Grombliniak |
+| 363 | 1256 | Belle |
 | 364 | 1255 | Ambyre Patterson |
 | 365 | 1254 | Erika Densmore |
 | 366 | 1252 | AgileDragon |
@@ -528,9 +528,9 @@
 | 520 | 966 | Kayla |
 | 521 | 965 | Lonne Emade |
 | 522 | 963 | Casper The Chonk |
-| 523 | 962 | Kathleen Driskell |
+| 523 | 962 | Antionette Sewell |
 | 524 | 962 | Adam Simmons |
-| 525 | 962 | Antionette Sewell |
+| 525 | 962 | Kathleen Driskell |
 | 526 | 958 | Jc Gilk |
 | 527 | 958 | Lisa Ongtowasruk |
 | 528 | 958 | Cathleena Giusto |
@@ -546,14 +546,14 @@
 | 538 | 946 | Nicky Jackson |
 | 539 | 945 | Kassandra Hunt |
 | 540 | 943 | Nat |
-| 541 | 942 | Fancy Twister |
-| 542 | 942 | Toni Lynn |
+| 541 | 942 | Toni Lynn |
+| 542 | 942 | Fancy Twister |
 | 543 | 941 | Cool Clearer |
 | 544 | 938 | Hershey Eastman |
 | 545 | 936 | Angie Bolton Workman |
 | 546 | 931 | Felicia Lynn |
-| 547 | 928 | Moni Foxe |
-| 548 | 928 | Venita Ray |
+| 547 | 928 | Venita Ray |
+| 548 | 928 | Moni Foxe |
 | 549 | 927 | Anthony Huebel |
 | 550 | 925 | blume |
 | 551 | 925 | Cris cris |
@@ -562,8 +562,8 @@
 | 554 | 923 | Danielle Simmons |
 | 555 | 922 | Butta |
 | 556 | 921 | Dannette Goldberg-Richards |
-| 557 | 920 | Miranda Jackson |
-| 558 | 920 | Arwa Fatimah |
+| 557 | 920 | Arwa Fatimah |
+| 558 | 920 | Miranda Jackson |
 | 559 | 919 | Isaac Trappiel IV |
 | 560 | 918 | Draizen Montrell Thomas |
 | 561 | 917 | William David Swallow |
