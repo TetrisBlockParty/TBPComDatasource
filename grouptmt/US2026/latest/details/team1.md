@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-24 20:30:45 UTC
+# Standings for team1 as of 2026-02-24 20:31:22 UTC
 
 **Total Participants:** 2313
 
@@ -153,25 +153,25 @@
 | 145 | 665 | Death |
 | 146 | 662 | April Carroll |
 | 147 | 658 | Dee Perry |
-| 148 | 654 | Christy Jones |
+| 148 | 654 | Ty Brown |
 | 149 | 654 | femmefatale |
-| 150 | 654 | Trina Gee |
-| 151 | 652 | Evie Khalil |
-| 152 | 652 | Erin Rosberg |
-| 153 | 651 | Ty Brown |
+| 150 | 654 | Christy Jones |
+| 151 | 654 | Trina Gee |
+| 152 | 652 | Evie Khalil |
+| 153 | 652 | Erin Rosberg |
 | 154 | 650 | Tiger Lily |
 | 155 | 647 | Theo Pinnow |
 | 156 | 641 | Tanya Carpenter-Reynolds |
 | 157 | 632 | Snippy Wipebuilder |
 | 158 | 626 | Damon J. Martin |
-| 159 | 623 | Jessie Welch |
-| 160 | 623 | Flashy Rotator |
+| 159 | 623 | Flashy Rotator |
+| 160 | 623 | Jessie Welch |
 | 161 | 621 | Jennifer Hardman |
-| 162 | 611 | Maria C. Hernandez |
-| 163 | 611 | Evan Richmond |
+| 162 | 611 | Evan Richmond |
+| 163 | 611 | Maria C. Hernandez |
 | 164 | 609 | Timothy Danaher |
-| 165 | 608 | .running. |
-| 166 | 608 | ALFD |
+| 165 | 608 | ALFD |
+| 166 | 608 | .running. |
 | 167 | 605 | Jessi Sauer |
 | 168 | 601 | Eric DeSimone |
 | 169 | 596 | Nicole Roseberry Weber |
@@ -1185,12 +1185,12 @@
 | 1177 | 99 | William Miles |
 | 1178 | 99 | Unelanuhi Belladonna Mystikal Bomar |
 | 1179 | 99 | Erik Hesner |
-| 1180 | 98 | Anthony Ray |
-| 1181 | 98 | Jeremy Beckler |
-| 1182 | 98 | Tracy Berry |
-| 1183 | 98 | Brandon Reyes |
-| 1184 | 98 | Mary Logan |
-| 1185 | 98 | Margaret Rose |
+| 1180 | 99 | Margaret Rose |
+| 1181 | 98 | Anthony Ray |
+| 1182 | 98 | Jeremy Beckler |
+| 1183 | 98 | Tracy Berry |
+| 1184 | 98 | Brandon Reyes |
+| 1185 | 98 | Mary Logan |
 | 1186 | 97 | Dropitliktithot |
 | 1187 | 97 | Churmo |
 | 1188 | 97 | Steve Bomkamp |
