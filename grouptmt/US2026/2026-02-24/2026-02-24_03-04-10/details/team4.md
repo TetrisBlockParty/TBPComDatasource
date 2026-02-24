@@ -107,8 +107,8 @@
 | 99 | 792 | Denise Carlson |
 | 100 | 787 | Jason Hart |
 | 101 | 781 | Brittney Griggs |
-| 102 | 780 | TheNeesh50 |
-| 103 | 780 | Keith Kelley |
+| 102 | 780 | Keith Kelley |
+| 103 | 780 | TheNeesh50 |
 | 104 | 779 | Nope Young |
 | 105 | 775 | Klo |
 | 106 | 768 | Trista Leah |
@@ -145,9 +145,9 @@
 | 137 | 633 | Jessica Lynn Cutlip |
 | 138 | 620 | Porkobello |
 | 139 | 616 | Samantha Peterson |
-| 140 | 615 | Angelito |
-| 141 | 615 | Ernest Maxwell |
-| 142 | 615 | Kim Hunt |
+| 140 | 615 | Kim Hunt |
+| 141 | 615 | Angelito |
+| 142 | 615 | Ernest Maxwell |
 | 143 | 611 | Chris Baggett |
 | 144 | 608 | Swanky Fitline |
 | 145 | 605 | Brandon Crabbs |
@@ -162,8 +162,8 @@
 | 154 | 580 | Cursed Hag |
 | 155 | 578 | Livvy |
 | 156 | 575 | Jenna Ingersoll |
-| 157 | 574 | Carlos Ramirez |
-| 158 | 574 | Carmethia Clemons Haslerig |
+| 157 | 574 | Carmethia Clemons Haslerig |
+| 158 | 574 | Carlos Ramirez |
 | 159 | 567 | Rico |
 | 160 | 565 | Ren Mc |
 | 161 | 560 | Chastity Mitchell |
@@ -233,8 +233,8 @@
 | 225 | 438 | Melvin Baird |
 | 226 | 436 | Selena Shaw |
 | 227 | 434 | Ramel Rhodes |
-| 228 | 433 | Circuit8 |
-| 229 | 433 | Damn Libra |
+| 228 | 433 | Damn Libra |
+| 229 | 433 | Circuit8 |
 | 230 | 431 | Manny1 |
 | 231 | 430 | Plucky Patternblock |
 | 232 | 427 | Chao Ma |
@@ -269,8 +269,8 @@
 | 261 | 382 | Sue Joyce Staats |
 | 262 | 381 | Rafael Valentin |
 | 263 | 381 | shark tato |
-| 264 | 380 | Rio Rocha |
-| 265 | 380 | Jen Caldwell |
+| 264 | 380 | Jen Caldwell |
+| 265 | 380 | Rio Rocha |
 | 266 | 379 | Backoff Recupe |
 | 267 | 378 | Mary Ann Pabukis |
 | 268 | 378 | Chaz |

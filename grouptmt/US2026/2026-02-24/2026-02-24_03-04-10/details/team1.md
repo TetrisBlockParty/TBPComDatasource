@@ -260,9 +260,9 @@
 | 252 | 380 | Snippy Wipebuilder |
 | 253 | 379 | Austin James |
 | 254 | 377 | GATOR |
-| 255 | 376 | Brian Richardsson |
-| 256 | 376 | Sassy Builderline |
-| 257 | 376 | Billie Ann Eason |
+| 255 | 376 | Billie Ann Eason |
+| 256 | 376 | Brian Richardsson |
+| 257 | 376 | Sassy Builderline |
 | 258 | 375 | DaRascal |
 | 259 | 374 | Snappy Brickbuilder |
 | 260 | 373 | Frothy Pattern |

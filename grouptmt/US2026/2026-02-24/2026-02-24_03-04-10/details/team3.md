@@ -372,9 +372,9 @@
 | 364 | 408 | Ashley Muncey |
 | 365 | 408 | Tiffany Ford |
 | 366 | 407 | Christina Spa |
-| 367 | 405 | fraulila |
+| 367 | 405 | Skinny Baldez |
 | 368 | 405 | Andrew Thorson |
-| 369 | 405 | Skinny Baldez |
+| 369 | 405 | fraulila |
 | 370 | 404 | Giggy Balanceblock |
 | 371 | 403 | Scott Lindsay |
 | 372 | 403 | Stephanie Burtin |
