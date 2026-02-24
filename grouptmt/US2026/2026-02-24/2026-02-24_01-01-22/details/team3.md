@@ -60,8 +60,8 @@
 | 52 | 1772 | Liv Whetson |
 | 53 | 1754 | Nate Burnside |
 | 54 | 1739 | Tina Kay |
-| 55 | 1734 | Aaron Pitkin |
-| 56 | 1734 | Fancy Slam |
+| 55 | 1734 | Fancy Slam |
+| 56 | 1734 | Aaron Pitkin |
 | 57 | 1732 | Jessica Ann |
 | 58 | 1732 | Leah Barnett |
 | 59 | 1711 | Amanda Adkins |
@@ -198,8 +198,8 @@
 | 190 | 728 | Edwin Calvillo Jr. |
 | 191 | 726 | Michael Nowogorski |
 | 192 | 719 | Angela Scott |
-| 193 | 716 | Morgan Martinez |
-| 194 | 716 | Annie Marie |
+| 193 | 716 | Annie Marie |
+| 194 | 716 | Morgan Martinez |
 | 195 | 715 | Karon Griffin |
 | 196 | 714 | Jenny Hrndz |
 | 197 | 712 | Domo Washington |
@@ -1991,7 +1991,7 @@
 | 1983 | 60 | Tammy Russell Wheller |
 | 1984 | 60 | Spunky Mover |
 | 1985 | 59 | Frothy Wrecker |
-| 1986 | 59 | Tonya Nixon |
+| 1986 | 59 | Zippy Matchline |
 | 1987 | 59 | Lisa Purple Diamond Dempson |
 | 1988 | 59 | Tonya Nixon |
 | 1989 | 59 | Ozell Jones |

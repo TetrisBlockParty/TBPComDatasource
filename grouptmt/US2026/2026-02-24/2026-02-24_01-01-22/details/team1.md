@@ -124,8 +124,8 @@
 | 116 | 612 | femmefatale |
 | 117 | 606 | Ty Brown |
 | 118 | 604 | Ryan Lunnin |
-| 119 | 601 | Evan Richmond |
-| 120 | 601 | Phu ckalldems |
+| 119 | 601 | Phu ckalldems |
+| 120 | 601 | Evan Richmond |
 | 121 | 598 | Jessi Sauer |
 | 122 | 594 | Basment Living |
 | 123 | 591 | Giddy Cascade |
@@ -193,8 +193,8 @@
 | 185 | 462 | Hasty Cascader |
 | 186 | 458 | Goose egg |
 | 187 | 458 | Dizzy Slider |
-| 188 | 446 | SkipTheSadSauce |
-| 189 | 446 | Cheeky Crusher |
+| 188 | 446 | Cheeky Crusher |
+| 189 | 446 | SkipTheSadSauce |
 | 190 | 442 | Kimmie Kimms |
 | 191 | 441 | Kimberly Garcia |
 | 192 | 437 | David Miller |
@@ -491,7 +491,7 @@
 | 483 | 219 | Jeanna Dunn |
 | 484 | 218 | Aaron Green |
 | 485 | 218 | Vivienne Carter |
-| 486 | 218 | Aaron Green |
+| 486 | 218 | Jason Benitez |
 | 487 | 217 | Brave Slice |
 | 488 | 217 | Sarah Bersano |
 | 489 | 216 | Shauntina Burke |

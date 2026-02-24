@@ -190,8 +190,8 @@
 | 182 | 503 | Andria Lynn |
 | 183 | 502 | Ericca Eldridge |
 | 184 | 499 | Berklie Apedaile |
-| 185 | 496 | Lori |
-| 186 | 496 | Cindy Looper |
+| 185 | 496 | Cindy Looper |
+| 186 | 496 | Lori |
 | 187 | 495 | Jessica Bohlken |
 | 188 | 493 | April Rondinone |
 | 189 | 491 | Jade Rian |
