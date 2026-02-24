@@ -135,11 +135,11 @@
 | 127 | 726 | Jamie Gustafson |
 | 128 | 725 | Brandon Crabbs |
 | 129 | 719 | George Nutt |
-| 130 | 712 | H.R. Block |
-| 131 | 712 | Leslie Nicole |
+| 130 | 712 | Leslie Nicole |
+| 131 | 712 | H.R. Block |
 | 132 | 708 | Jacqueline Helm |
-| 133 | 704 | Chilly Crasher |
-| 134 | 704 | Austin Owens |
+| 133 | 704 | Austin Owens |
+| 134 | 704 | Chilly Crasher |
 | 135 | 682 | Raegan Lane-Ross |
 | 136 | 668 | Desi Desporte |
 | 137 | 667 | Lindsey Gonzalez |
@@ -183,8 +183,8 @@
 | 175 | 561 | Steph Marie |
 | 176 | 560 | Chastity Mitchell |
 | 177 | 558 | Marie-Pier Desjardins |
-| 178 | 552 | Angel Raya |
-| 179 | 552 | Circuit8 |
+| 178 | 552 | Circuit8 |
+| 179 | 552 | Angel Raya |
 | 180 | 550 | James Hurley Jr. |
 | 181 | 549 | Cool Towerbuilder |
 | 182 | 549 | Andy Cabral |
@@ -279,8 +279,8 @@
 | 271 | 407 | Rafael Valentin |
 | 272 | 407 | Hyper Builder |
 | 273 | 402 | Nita Wells |
-| 274 | 399 | Brittany Little |
-| 275 | 399 | Twisty Cascadezone |
+| 274 | 399 | Twisty Cascadezone |
+| 275 | 399 | Brittany Little |
 | 276 | 398 | Tyler Terrific |
 | 277 | 397 | blockstar |
 | 278 | 395 | Denise B |
@@ -344,8 +344,8 @@
 | 336 | 336 | Stella |
 | 337 | 335 | Snippy Puzzle |
 | 338 | 334 | Zethra Prenisha Rahming |
-| 339 | 331 | rebel4lyfe |
-| 340 | 331 | Angie Schmidt |
+| 339 | 331 | Angie Schmidt |
+| 340 | 331 | rebel4lyfe |
 | 341 | 330 | Duck |
 | 342 | 329 | AyeKay |
 | 343 | 329 | Meagan Nicole |

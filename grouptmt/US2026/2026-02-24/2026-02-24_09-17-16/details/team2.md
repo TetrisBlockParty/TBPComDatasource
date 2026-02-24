@@ -358,9 +358,9 @@
 | 350 | 1268 | Keri Womack |
 | 351 | 1264 | Mama T |
 | 352 | 1261 | Becca Coronado |
-| 353 | 1257 | Megan Ferguson Leone |
-| 354 | 1257 | Megan Garrick |
-| 355 | 1257 | Jackie Lucas |
+| 353 | 1257 | Jackie Lucas |
+| 354 | 1257 | Megan Ferguson Leone |
+| 355 | 1257 | Megan Garrick |
 | 356 | 1256 | Belle |
 | 357 | 1254 | Erika Densmore |
 | 358 | 1252 | AgileDragon |
@@ -413,8 +413,8 @@
 | 405 | 1123 | Jodi Mitnick |
 | 406 | 1119 | Teresa Gillmore |
 | 407 | 1119 | Bubbly Snapfit |
-| 408 | 1116 | Wakanda Forever |
-| 409 | 1116 | Em Chen |
+| 408 | 1116 | Em Chen |
+| 409 | 1116 | Wakanda Forever |
 | 410 | 1109 | BYM4L |
 | 411 | 1109 | Melissa McCall |
 | 412 | 1106 | Jessica Redmond |
@@ -447,8 +447,8 @@
 | 439 | 1075 | SaraMarie Eveland |
 | 440 | 1074 | Diana Ayers |
 | 441 | 1073 | Jodi Blake |
-| 442 | 1071 | Kim Dean |
-| 443 | 1071 | Nashu |
+| 442 | 1071 | Nashu |
+| 443 | 1071 | Kim Dean |
 | 444 | 1068 | Tiffany Branham |
 | 445 | 1067 | Taylor Phillips |
 | 446 | 1067 | Lourisha |
@@ -597,8 +597,8 @@
 | 589 | 854 | Dawn L Washington-Feuquay |
 | 590 | 854 | Gold Rose |
 | 591 | 852 | Polly Pritchard Chesler |
-| 592 | 852 | Catherine Marsh Gruda |
-| 593 | 852 | Alexandra Lynn |
+| 592 | 852 | Alexandra Lynn |
+| 593 | 852 | Catherine Marsh Gruda |
 | 594 | 851 | Melissa Schulz |
 | 595 | 851 | James Louie |
 | 596 | 850 | Sabrina Burton |

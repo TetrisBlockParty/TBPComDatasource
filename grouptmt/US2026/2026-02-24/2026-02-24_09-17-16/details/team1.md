@@ -337,8 +337,8 @@
 | 329 | 340 | Robert |
 | 330 | 340 | Danielle Little-Daugherty |
 | 331 | 338 | Michael Espinosa Ulibarri Jr. |
-| 332 | 338 | Layzietyme |
-| 333 | 338 | Tipsy Builder |
+| 332 | 338 | Tipsy Builder |
+| 333 | 338 | Layzietyme |
 | 334 | 337 | Chaste Minor |
 | 335 | 336 | Sarah Roberts |
 | 336 | 336 | Mrs.Patrica |
@@ -576,8 +576,8 @@
 | 568 | 221 | Starseed |
 | 569 | 221 | Amy Hess |
 | 570 | 221 | Spunky Builderpiece |
-| 571 | 220 | Ruf Lowman |
-| 572 | 220 | Jana Hutcheson |
+| 571 | 220 | Jana Hutcheson |
+| 572 | 220 | Ruf Lowman |
 | 573 | 220 | Corrie Grant Smithson |
 | 574 | 219 | Breanna Luna |
 | 575 | 219 | Negan Mallory Knoxx Spence |

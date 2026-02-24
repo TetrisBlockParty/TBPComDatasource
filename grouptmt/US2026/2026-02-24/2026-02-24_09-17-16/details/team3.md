@@ -68,8 +68,8 @@
 | 60 | 1931 | Denise Nardoni |
 | 61 | 1920 | Trezure Gonzalez |
 | 62 | 1858 | Kristie McFarland |
-| 63 | 1824 | Jessica Ann |
-| 64 | 1824 | Nate Burnside |
+| 63 | 1824 | Nate Burnside |
+| 64 | 1824 | Jessica Ann |
 | 65 | 1804 | Tina Kay |
 | 66 | 1791 | Leah Barnett |
 | 67 | 1776 | Whitney Manuel |
@@ -106,13 +106,13 @@
 | 98 | 1361 | Patricia Gadsden |
 | 99 | 1343 | Joey Banks |
 | 100 | 1320 | Kristie |
-| 101 | 1318 | Diana Ibarra |
-| 102 | 1318 | Tiff Vs Tiffany |
+| 101 | 1318 | Tiff Vs Tiffany |
+| 102 | 1318 | Diana Ibarra |
 | 103 | 1309 | yoyo |
 | 104 | 1297 | Shelby Michelle |
 | 105 | 1290 | JerseyJess |
-| 106 | 1282 | Amanda L Baker |
-| 107 | 1282 | Peppy Shifter |
+| 106 | 1282 | Peppy Shifter |
+| 107 | 1282 | Amanda L Baker |
 | 108 | 1276 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1248 | Lori Barnaby |
@@ -126,8 +126,8 @@
 | 118 | 1134 | Melissa Orth Hunter |
 | 119 | 1124 | Stephanie Rice |
 | 120 | 1121 | Corie A. Brinson |
-| 121 | 1114 | Loopy Fallmatch |
-| 122 | 1114 | Groovy Catcher |
+| 121 | 1114 | Groovy Catcher |
+| 122 | 1114 | Loopy Fallmatch |
 | 123 | 1105 | Adrian Marcel Pate |
 | 124 | 1093 | Angela M. Fletcher |
 | 125 | 1091 | Jennifer |
@@ -159,8 +159,8 @@
 | 151 | 950 | Giddy Drop |
 | 152 | 950 | MissTaylor |
 | 153 | 947 | Kellie Montgomery |
-| 154 | 940 | Patty Allen |
-| 155 | 940 | Stephanie Allmon |
+| 154 | 940 | Stephanie Allmon |
+| 155 | 940 | Patty Allen |
 | 156 | 936 | Dolores Falco |
 | 157 | 928 | Edwin Calvillo Jr. |
 | 158 | 925 | Cherry Parker |
@@ -231,8 +231,8 @@
 | 223 | 715 | Karon Griffin |
 | 224 | 714 | Jenny Hrndz |
 | 225 | 713 | Stephanie Blkpep Davidson |
-| 226 | 709 | Cynthia Castros-Hampton |
-| 227 | 709 | Christine Niles |
+| 226 | 709 | Christine Niles |
+| 227 | 709 | Cynthia Castros-Hampton |
 | 228 | 708 | Stephanie Bradley |
 | 229 | 704 | Betty Bóò |
 | 230 | 703 | Shawn Miller |
@@ -285,8 +285,8 @@
 | 277 | 594 | Cozy Snaplink |
 | 278 | 590 | Marci Mize Fandrich |
 | 279 | 588 | Salena Whitlock |
-| 280 | 586 | Brian Battjes |
-| 281 | 586 | Donna |
+| 280 | 586 | Donna |
+| 281 | 586 | Brian Battjes |
 | 282 | 582 | FuzzyNavel |
 | 283 | 581 | Crystal Hine |
 | 284 | 578 | James Mitchell |
@@ -328,8 +328,8 @@
 | 320 | 505 | Stephanie Simpson |
 | 321 | 504 | Daring Builder |
 | 322 | 500 | Ashley Tookes |
-| 323 | 499 | Megan Rathmanner |
-| 324 | 499 | Gumbo |
+| 323 | 499 | Gumbo |
+| 324 | 499 | Megan Rathmanner |
 | 325 | 496 | Brenda Schmid Wood |
 | 326 | 494 | fraulila |
 | 327 | 494 | MCV |
@@ -342,8 +342,8 @@
 | 334 | 483 | Tegan Chapman |
 | 335 | 482 | Chummy Rumbler |
 | 336 | 481 | Tiffanie Alley |
-| 337 | 480 | Dee Franklin |
-| 338 | 480 | TLM |
+| 337 | 480 | TLM |
+| 338 | 480 | Dee Franklin |
 | 339 | 479 | Charles Perrone |
 | 340 | 476 | Shunta Jacobs |
 | 341 | 474 | Troy |
@@ -412,9 +412,9 @@
 | 404 | 407 | Christina Spa |
 | 405 | 406 | Kristen Weese |
 | 406 | 405 | Andrew Thorson |
-| 407 | 404 | Giggy Balanceblock |
-| 408 | 404 | Karent524 |
-| 409 | 404 | Alice |
+| 407 | 404 | Karent524 |
+| 408 | 404 | Alice |
+| 409 | 404 | Giggy Balanceblock |
 | 410 | 403 | Scott Lindsay |
 | 411 | 403 | keni |
 | 412 | 401 | block chick |
@@ -442,8 +442,8 @@
 | 434 | 380 | neci |
 | 435 | 380 | Foltz Lee Kelli |
 | 436 | 379 | Krish Shah |
-| 437 | 378 | Ashley Lynn Marchese |
-| 438 | 378 | Samantha Worley |
+| 437 | 378 | Samantha Worley |
+| 438 | 378 | Ashley Lynn Marchese |
 | 439 | 377 | Paula Little |
 | 440 | 376 | Tracy Martin |
 | 441 | 376 | Romeo |
@@ -600,9 +600,9 @@
 | 592 | 308 | Christine Foley |
 | 593 | 308 | Danetta McCadden |
 | 594 | 307 | Kristina Gardner |
-| 595 | 306 | Valerie Tarkington |
-| 596 | 306 | Alexis Ford |
-| 597 | 306 | BigE |
+| 595 | 306 | Alexis Ford |
+| 596 | 306 | BigE |
+| 597 | 306 | Valerie Tarkington |
 | 598 | 305 | Frisky Stacker |
 | 599 | 304 | Carrie Resler |
 | 600 | 304 | Julie Peters Fancher |
@@ -1270,9 +1270,9 @@
 | 1262 | 152 | Amanda Mooney |
 | 1263 | 151 | Spicy Caster |
 | 1264 | 151 | Eliza Rivera |
-| 1265 | 151 | Justplain Killacam Phillips |
-| 1266 | 151 | Nanyamka LeosRule Patterson |
-| 1267 | 151 | Spicy Caster |
+| 1265 | 151 | Nanyamka LeosRule Patterson |
+| 1266 | 151 | Justplain Killacam Phillips |
+| 1267 | 151 | Ron Laliberte |
 | 1268 | 151 | Brad Dimitroff |
 | 1269 | 150 | Zany Balancefit |
 | 1270 | 150 | Xoxotaay |
@@ -1771,8 +1771,8 @@
 | 1763 | 94 | squarish |
 | 1764 | 93 | Kayla Galicia |
 | 1765 | 93 | bistargirl |
-| 1766 | 93 | Kaitlyn Cooper |
-| 1767 | 93 | Jumel Ruffin |
+| 1766 | 93 | Taylor Olson |
+| 1767 | 93 | Christi Solsberry |
 | 1768 | 93 | juju |
 | 1769 | 93 | Kaitlyn Cooper |
 | 1770 | 93 | Jumel Ruffin |
