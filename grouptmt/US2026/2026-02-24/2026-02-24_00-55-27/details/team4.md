@@ -64,8 +64,8 @@
 | 56 | 1106 | Ashley Ingram |
 | 57 | 1092 | Rachel Anne |
 | 58 | 1088 | BertMofo |
-| 59 | 1082 | Dion Crommarty |
-| 60 | 1082 | Avy Absol |
+| 59 | 1082 | Avy Absol |
+| 60 | 1082 | Dion Crommarty |
 | 61 | 1075 | Dustee Craddock-Harrison |
 | 62 | 1059 | Alyssa Papen |
 | 63 | 1049 | Heather Tushner |
@@ -129,8 +129,8 @@
 | 121 | 673 | Jacqueline Helm |
 | 122 | 667 | Lindsey Gonzalez |
 | 123 | 664 | Leslie Nicole |
-| 124 | 659 | Matt Gooder |
-| 125 | 659 | Jamie Gustafson |
+| 124 | 659 | Jamie Gustafson |
+| 125 | 659 | Matt Gooder |
 | 126 | 658 | Zippy Gridlock |
 | 127 | 653 | Patron Anderson |
 | 128 | 647 | KM8 |
@@ -157,8 +157,8 @@
 | 149 | 574 | Carmethia Clemons Haslerig |
 | 150 | 572 | Austin Owens |
 | 151 | 562 | Livvy |
-| 152 | 560 | Chastity Mitchell |
-| 153 | 560 | Carrie Brian |
+| 152 | 560 | Carrie Brian |
+| 153 | 560 | Chastity Mitchell |
 | 154 | 559 | Carlos Ramirez |
 | 155 | 559 | Rico |
 | 156 | 551 | Ren Mc |
@@ -190,8 +190,8 @@
 | 182 | 503 | Andria Lynn |
 | 183 | 502 | Ericca Eldridge |
 | 184 | 499 | Berklie Apedaile |
-| 185 | 496 | Lori |
-| 186 | 496 | Cindy Looper |
+| 185 | 496 | Cindy Looper |
+| 186 | 496 | Lori |
 | 187 | 495 | Jessica Bohlken |
 | 188 | 493 | April Rondinone |
 | 189 | 491 | Jade Rian |
@@ -435,11 +435,11 @@
 | 427 | 242 | Badatvs |
 | 428 | 241 | Amanda Christine |
 | 429 | 241 | Laurel Coppess |
-| 430 | 240 | Orchislactea |
+| 430 | 240 | KayM |
 | 431 | 240 | Zany Shatterer |
-| 432 | 240 | KayM |
-| 433 | 239 | Denise B |
-| 434 | 239 | Kevin Bush |
+| 432 | 240 | Orchislactea |
+| 433 | 239 | Kevin Bush |
+| 434 | 239 | Denise B |
 | 435 | 239 | Ruby Khalisadar |
 | 436 | 238 | GBR |
 | 437 | 238 | 中山成巳 |

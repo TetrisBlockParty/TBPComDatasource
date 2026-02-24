@@ -60,8 +60,8 @@
 | 52 | 1772 | Liv Whetson |
 | 53 | 1754 | Nate Burnside |
 | 54 | 1739 | Tina Kay |
-| 55 | 1734 | Aaron Pitkin |
-| 56 | 1734 | Fancy Slam |
+| 55 | 1734 | Fancy Slam |
+| 56 | 1734 | Aaron Pitkin |
 | 57 | 1732 | Jessica Ann |
 | 58 | 1722 | Leah Barnett |
 | 59 | 1711 | Amanda Adkins |
@@ -198,8 +198,8 @@
 | 190 | 728 | Edwin Calvillo Jr. |
 | 191 | 726 | Michael Nowogorski |
 | 192 | 719 | Angela Scott |
-| 193 | 716 | Morgan Martinez |
-| 194 | 716 | Annie Marie |
+| 193 | 716 | Annie Marie |
+| 194 | 716 | Morgan Martinez |
 | 195 | 715 | Karon Griffin |
 | 196 | 714 | Jenny Hrndz |
 | 197 | 712 | Domo Washington |
@@ -277,8 +277,8 @@
 | 269 | 527 | Dapper Snap |
 | 270 | 520 | Cozy Snaplink |
 | 271 | 519 | Nichol Graham |
-| 272 | 516 | Daring Brickzone |
-| 273 | 516 | PrncssPJ |
+| 272 | 516 | PrncssPJ |
+| 273 | 516 | Daring Brickzone |
 | 274 | 512 | Marquita Sheard |
 | 275 | 508 | rosy |
 | 276 | 508 | joz |
@@ -329,8 +329,8 @@
 | 321 | 437 | Loopy Clusterer |
 | 322 | 436 | Heather De Vries Cobb |
 | 323 | 435 | Sabrina Hardrick |
-| 324 | 432 | Luciana Braganca Vieira |
-| 325 | 432 | Jojo M |
+| 324 | 432 | Jojo M |
+| 325 | 432 | Luciana Braganca Vieira |
 | 326 | 431 | Wendy Dearden |
 | 327 | 431 | Tia |
 | 328 | 430 | Quackers |
