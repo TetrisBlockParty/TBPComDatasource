@@ -621,7 +621,7 @@
 | 613 | 201 | Jake Roberts |
 | 614 | 201 | Carla Harris |
 | 615 | 200 | Veronica Garza |
-| 616 | 200 | Flashy Blockpiece |
+| 616 | 199 | Ben Nome |
 | 617 | 199 | Allen Johnson |
 | 618 | 198 | Zocko Ellet |
 | 619 | 198 | Daniel Gazcon |

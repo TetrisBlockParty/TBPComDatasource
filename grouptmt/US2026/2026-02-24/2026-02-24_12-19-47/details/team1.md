@@ -50,8 +50,8 @@
 | 42 | 1405 | Chipper Gridlock |
 | 43 | 1391 | Aaron Garnett |
 | 44 | 1388 | Jen Sartain |
-| 45 | 1334 | june october |
-| 46 | 1334 | Tyler Alcock |
+| 45 | 1334 | Tyler Alcock |
+| 46 | 1334 | june october |
 | 47 | 1325 | Drew Magnus |
 | 48 | 1305 | Michelle Nicole |
 | 49 | 1290 | Spunky Piecebuilder |
@@ -216,10 +216,10 @@
 | 208 | 488 | Jessie Welch |
 | 209 | 482 | Adele Rahman |
 | 210 | 479 | canbrick |
-| 211 | 478 | Hasty Cascader |
-| 212 | 478 | Jumpy Dropper |
-| 213 | 477 | Dizzy Slider |
-| 214 | 477 | Howdi Duty |
+| 211 | 478 | Jumpy Dropper |
+| 212 | 478 | Hasty Cascader |
+| 213 | 477 | Howdi Duty |
+| 214 | 477 | Dizzy Slider |
 | 215 | 475 | Reesey Enyart |
 | 216 | 470 | Candy Jones |
 | 217 | 468 | Jessie Lynn |
@@ -374,8 +374,8 @@
 | 366 | 324 | Brave Wrecker |
 | 367 | 323 | Nadine Velardo |
 | 368 | 322 | Chris65 |
-| 369 | 322 | Tanya Banks |
-| 370 | 322 | Hasty Columnbuilder |
+| 369 | 322 | Hasty Columnbuilder |
+| 370 | 322 | Tanya Banks |
 | 371 | 321 | LD1 |
 | 372 | 320 | Zany Tiler |
 | 373 | 320 | ESC |
