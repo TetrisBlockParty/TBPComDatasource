@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-24 20:44:44 UTC
+# Standings for team4 as of 2026-02-24 20:45:23 UTC
 
 **Total Participants:** 2082
 
@@ -192,11 +192,11 @@
 | 184 | 590 | Carlton Unfiltered |
 | 185 | 590 | Crystal Lynn |
 | 186 | 586 | Latisha Davis |
-| 187 | 583 | Amanda Pauldo-Ivy |
-| 188 | 580 | Erin Sabol |
-| 189 | 579 | Oscar Alberto Perez |
-| 190 | 575 | Jenna Ingersoll |
-| 191 | 574 | Kathy Brookins |
+| 187 | 584 | Kathy Brookins |
+| 188 | 583 | Amanda Pauldo-Ivy |
+| 189 | 580 | Erin Sabol |
+| 190 | 579 | Oscar Alberto Perez |
+| 191 | 575 | Jenna Ingersoll |
 | 192 | 573 | Rico |
 | 193 | 571 | Andy Cabral |
 | 194 | 570 | Carly Alexis |
@@ -207,8 +207,8 @@
 | 199 | 562 | blasterB |
 | 200 | 561 | Andria Lynn |
 | 201 | 558 | Marie-Pier Desjardins |
-| 202 | 552 | Angel Raya |
-| 203 | 552 | Joseph Guthrie |
+| 202 | 552 | Joseph Guthrie |
+| 203 | 552 | Angel Raya |
 | 204 | 550 | James Hurley Jr. |
 | 205 | 548 | Melvin Baird |
 | 206 | 543 | Zippy Block |
@@ -225,16 +225,16 @@
 | 217 | 524 | Sharyn Lemire |
 | 218 | 522 | Kristina Black |
 | 219 | 517 | DonMega |
-| 220 | 516 | Damn Libra |
-| 221 | 516 | Nick Gray |
-| 222 | 516 | Trish |
+| 220 | 516 | Nick Gray |
+| 221 | 516 | Trish |
+| 222 | 516 | Damn Libra |
 | 223 | 515 | Joanna |
-| 224 | 513 | Casey Grabner |
-| 225 | 513 | Milan Markeisha |
+| 224 | 513 | Milan Markeisha |
+| 225 | 513 | Casey Grabner |
 | 226 | 512 | Casey Jeffcoat |
 | 227 | 508 | June Hoffman |
-| 228 | 506 | Ari Droff |
-| 229 | 506 | scott |
+| 228 | 506 | scott |
+| 229 | 506 | Ari Droff |
 | 230 | 505 | Jessica Bohlken |
 | 231 | 504 | Keshia Lyons |
 | 232 | 504 | Deanna Deckard |
@@ -428,18 +428,18 @@
 | 420 | 314 | KoolMom9907 |
 | 421 | 314 | Jonathan Mahfood |
 | 422 | 313 | Jenny Wells-Oakley |
-| 423 | 311 | Reds Bella |
-| 424 | 310 | 中山成巳 |
-| 425 | 309 | Brave Spinbuilder |
-| 426 | 309 | Kevin Blevins |
-| 427 | 309 | Bussy Bay |
-| 428 | 309 | Shiny Pivoty |
+| 423 | 311 | Shiny Pivoty |
+| 424 | 311 | Reds Bella |
+| 425 | 310 | 中山成巳 |
+| 426 | 309 | Brave Spinbuilder |
+| 427 | 309 | Kevin Blevins |
+| 428 | 309 | Bussy Bay |
 | 429 | 308 | Deb Rubeck |
 | 430 | 308 | Angela Geist Jusinski |
 | 431 | 308 | Lane Wasson |
 | 432 | 308 | Eri Kka |
-| 433 | 306 | Bethany Ison |
-| 434 | 306 | PeaceOs |
+| 433 | 306 | PeaceOs |
+| 434 | 306 | Bethany Ison |
 | 435 | 306 | L Bear Champion |
 | 436 | 304 | ĥuf |
 | 437 | 304 | Sarah Neathery |
@@ -877,16 +877,16 @@
 | 869 | 146 | Molly Ananda Rickerson |
 | 870 | 146 | Haruko Bullock-Brown |
 | 871 | 146 | Cassandra Stewart |
-| 872 | 145 | Aj |
-| 873 | 145 | Shanon James |
-| 874 | 145 | Hoppy Combo |
-| 875 | 145 | Austin Trent Weaver |
-| 876 | 144 | Rampai |
-| 877 | 144 | Jessica Johnston |
-| 878 | 144 | Zach Kerbs |
-| 879 | 144 | Tara |
-| 880 | 144 | Tracy Dawn |
-| 881 | 143 | Spunky Framezone |
+| 872 | 145 | Spunky Framezone |
+| 873 | 145 | Aj |
+| 874 | 145 | Shanon James |
+| 875 | 145 | Hoppy Combo |
+| 876 | 145 | Austin Trent Weaver |
+| 877 | 144 | Rampai |
+| 878 | 144 | Jessica Johnston |
+| 879 | 144 | Zach Kerbs |
+| 880 | 144 | Tara |
+| 881 | 144 | Tracy Dawn |
 | 882 | 143 | Perky Shatterer |
 | 883 | 143 | Katie Walton |
 | 884 | 143 | Sherri |
