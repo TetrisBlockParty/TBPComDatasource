@@ -296,8 +296,8 @@
 | 288 | 1408 | Doowop40 |
 | 289 | 1407 | Lola C Davis |
 | 290 | 1392 | Karen Snyder Schrage |
-| 291 | 1391 | Kimberly Hauck-Rausch |
-| 292 | 1391 | Ronnie Nelson |
+| 291 | 1391 | Ronnie Nelson |
+| 292 | 1391 | Kimberly Hauck-Rausch |
 | 293 | 1387 | Samantha Scibelli |
 | 294 | 1383 | Ladyrainbootz |
 | 295 | 1381 | Christie |
@@ -313,8 +313,8 @@
 | 305 | 1351 | Denisha Dawkins |
 | 306 | 1345 | Shiny Twistfit |
 | 307 | 1343 | Sarah Berger |
-| 308 | 1342 | Kelly A Green-Leach |
-| 309 | 1342 | Groovy Puzzle |
+| 308 | 1342 | Groovy Puzzle |
+| 309 | 1342 | Kelly A Green-Leach |
 | 310 | 1341 | Cassie Mercer |
 | 311 | 1340 | Tralonda Weeks |
 | 312 | 1338 | Meghan M |
@@ -414,8 +414,8 @@
 | 406 | 1116 | Em Chen |
 | 407 | 1116 | Wakanda Forever |
 | 408 | 1110 | Nadia Batista Garcia |
-| 409 | 1109 | Melissa McCall |
-| 410 | 1109 | BYM4L |
+| 409 | 1109 | BYM4L |
+| 410 | 1109 | Melissa McCall |
 | 411 | 1105 | Nerdy Clearfit |
 | 412 | 1104 | Kimberly Hope Howell |
 | 413 | 1101 | Kathryn Townsley |
@@ -493,8 +493,8 @@
 | 485 | 978 | Barry Britt |
 | 486 | 976 | Sam Joe |
 | 487 | 975 | Amanda Woodruff |
-| 488 | 975 | Jamie Willis |
-| 489 | 975 | Kelly Trent |
+| 488 | 975 | Kelly Trent |
+| 489 | 975 | Jamie Willis |
 | 490 | 974 | Jeremy Parodi |
 | 491 | 973 | Taryece Gause |
 | 492 | 972 | Angela Yantz |
@@ -810,8 +810,8 @@
 | 802 | 677 | Blacc Blac |
 | 803 | 677 | Kayleigh Wisse |
 | 804 | 676 | Fancy Shiftsnap |
-| 805 | 675 | Ryan Chan |
-| 806 | 675 | Katelynn Hollen |
+| 805 | 675 | Katelynn Hollen |
+| 806 | 675 | Ryan Chan |
 | 807 | 675 | Fi Ne |
 | 808 | 672 | Christina Jarvis-Swarbrick |
 | 809 | 672 | Lathasa Newkirk |
@@ -998,8 +998,8 @@
 | 990 | 579 | Stacey Tranchida |
 | 991 | 578 | Jack Rippe |
 | 992 | 578 | Jamie Dayton |
-| 993 | 578 | Clever Edge |
-| 994 | 578 | Sierra Edwards Lachmanek |
+| 993 | 578 | Sierra Edwards Lachmanek |
+| 994 | 578 | Clever Edge |
 | 995 | 578 | Brett Addison Jr. |
 | 996 | 577 | Steve Lane |
 | 997 | 577 | GinRox88 |
@@ -1029,8 +1029,8 @@
 | 1021 | 563 | Dione |
 | 1022 | 563 | Heather M Purcell |
 | 1023 | 563 | David Rehse |
-| 1024 | 562 | Klee |
-| 1025 | 562 | Gabbrielle Sutton |
+| 1024 | 562 | Gabbrielle Sutton |
+| 1025 | 562 | Klee |
 | 1026 | 562 | Smiley Strike |
 | 1027 | 562 | Dan Kulhanek |
 | 1028 | 562 | Angie Winch |
@@ -1074,7 +1074,7 @@
 | 1066 | 544 | Deidre Shaffer |
 | 1067 | 544 | Barry Allan |
 | 1068 | 544 | Muhammad |
-| 1069 | 543 | Nate Lee |
+| 1069 | 543 | Casey Schumacher |
 | 1070 | 543 | Cblock |
 | 1071 | 543 | Nate Lee |
 | 1072 | 543 | Janai Vrabel |
@@ -1098,8 +1098,8 @@
 | 1090 | 537 | Robin |
 | 1091 | 536 | Paul Hinkle |
 | 1092 | 536 | Enha |
-| 1093 | 535 | Frisky Patternline |
-| 1094 | 535 | Katrina Willmon |
+| 1093 | 535 | Katrina Willmon |
+| 1094 | 535 | Frisky Patternline |
 | 1095 | 534 | JAG$*V¡LL£•FL•DuuuVaL |
 | 1096 | 534 | Kara Jennifer |
 | 1097 | 533 | Amanda West |
@@ -1505,8 +1505,8 @@
 | 1497 | 408 | Goofy Blockfall |
 | 1498 | 408 | Darlene Tucker |
 | 1499 | 408 | Peachy Blockmatch |
-| 1500 | 408 | Shilo Anderson |
-| 1501 | 408 | Ahisha West-allen |
+| 1500 | 408 | Ahisha West-allen |
+| 1501 | 408 | Shilo Anderson |
 | 1502 | 407 | Witty Patternblock |
 | 1503 | 407 | Brandy Boykin |
 | 1504 | 406 | Quirky Brickline |

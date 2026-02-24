@@ -124,8 +124,8 @@
 | 116 | 1134 | Melissa Orth Hunter |
 | 117 | 1124 | Stephanie Rice |
 | 118 | 1121 | Corie A. Brinson |
-| 119 | 1114 | Groovy Catcher |
-| 120 | 1114 | Loopy Fallmatch |
+| 119 | 1114 | Loopy Fallmatch |
+| 120 | 1114 | Groovy Catcher |
 | 121 | 1105 | Adrian Marcel Pate |
 | 122 | 1093 | Angela M. Fletcher |
 | 123 | 1091 | Jennifer |
@@ -252,8 +252,8 @@
 | 244 | 633 | Jillian Symons |
 | 245 | 630 | Jackie Miller |
 | 246 | 629 | rnr junky |
-| 247 | 627 | Juliana Dottore |
-| 248 | 627 | Louise Stacy Sisson |
+| 247 | 627 | Louise Stacy Sisson |
+| 248 | 627 | Juliana Dottore |
 | 249 | 626 | Cheryl Hinch Tenbrook |
 | 250 | 625 | Jacqueline Rodriguez |
 | 251 | 624 | Hyper Matchzone |
@@ -274,8 +274,8 @@
 | 266 | 594 | Cozy Snaplink |
 | 267 | 590 | Marci Mize Fandrich |
 | 268 | 588 | Salena Whitlock |
-| 269 | 586 | Brian Battjes |
-| 270 | 586 | Donna |
+| 269 | 586 | Donna |
+| 270 | 586 | Brian Battjes |
 | 271 | 582 | FuzzyNavel |
 | 272 | 581 | Crystal Hine |
 | 273 | 578 | James Mitchell |
@@ -334,12 +334,12 @@
 | 326 | 490 | Cassandra Bryant |
 | 327 | 489 | Isabel Ocasio |
 | 328 | 487 | MsBee |
-| 329 | 486 | Sleepy |
-| 330 | 486 | Skippy |
+| 329 | 486 | Skippy |
+| 330 | 486 | Sleepy |
 | 331 | 482 | Chummy Rumbler |
 | 332 | 481 | Tiffanie Alley |
-| 333 | 480 | TLM |
-| 334 | 480 | Dee Franklin |
+| 333 | 480 | Dee Franklin |
+| 334 | 480 | TLM |
 | 335 | 479 | Charles Perrone |
 | 336 | 476 | Shunta Jacobs |
 | 337 | 474 | Troy |
@@ -375,8 +375,8 @@
 | 367 | 443 | Christian Werndl |
 | 368 | 442 | Loopy Fallzone |
 | 369 | 438 | Dannie Litchard |
-| 370 | 436 | AC Yeater |
-| 371 | 436 | Julie Fratrik |
+| 370 | 436 | Julie Fratrik |
+| 371 | 436 | AC Yeater |
 | 372 | 435 | Sabrina Hardrick |
 | 373 | 434 | Criss |
 | 374 | 432 | Justice 4 P |
@@ -512,10 +512,10 @@
 | 504 | 334 | Spencer Nikki |
 | 505 | 334 | Carol Cain Thurman |
 | 506 | 333 | Heather Ferrara |
-| 507 | 332 | Bleu Sun Beams |
-| 508 | 332 | Clever Edgepiece |
-| 509 | 331 | Wettnippz |
-| 510 | 331 | Amanda Declue |
+| 507 | 332 | Clever Edgepiece |
+| 508 | 332 | Bleu Sun Beams |
+| 509 | 331 | Amanda Declue |
+| 510 | 331 | Wettnippz |
 | 511 | 330 | Willow |
 | 512 | 330 | Emma |
 | 513 | 329 | Krystal Gerstberger |

@@ -72,8 +72,8 @@
 | 64 | 1094 | Shelly Chandler |
 | 65 | 1089 | Alyssa Papen |
 | 66 | 1082 | Avy Absol |
-| 67 | 1082 | Denia Deni |
-| 68 | 1082 | Dion Crommarty |
+| 67 | 1082 | Dion Crommarty |
+| 68 | 1082 | Denia Deni |
 | 69 | 1081 | Dustee Craddock-Harrison |
 | 70 | 1080 | Chilly Line |
 | 71 | 1069 | Heather Tushner |
@@ -99,8 +99,8 @@
 | 91 | 878 | Lucille Truesdale |
 | 92 | 873 | Courtney Cicoria |
 | 93 | 869 | Judy Cox |
-| 94 | 864 | Samantha Peterson |
-| 95 | 864 | Guy Incognito |
+| 94 | 864 | Guy Incognito |
+| 95 | 864 | Samantha Peterson |
 | 96 | 854 | Shauna Havard |
 | 97 | 851 | Jason Hart |
 | 98 | 846 | Christine Marie |
@@ -164,12 +164,12 @@
 | 156 | 602 | Cristy Duerksen |
 | 157 | 595 | TRCuse |
 | 158 | 591 | Cursed Hag |
-| 159 | 590 | Angela Srubar-Norman |
-| 160 | 590 | Carmethia Clemons Haslerig |
+| 159 | 590 | Carmethia Clemons Haslerig |
+| 160 | 590 | Angela Srubar-Norman |
 | 161 | 589 | Livvy |
 | 162 | 587 | YoMomma |
-| 163 | 586 | Carlos Ramirez |
-| 164 | 586 | Latisha Davis |
+| 163 | 586 | Latisha Davis |
+| 164 | 586 | Carlos Ramirez |
 | 165 | 585 | Tracey Lehmann |
 | 166 | 584 | Carlton Unfiltered |
 | 167 | 576 | Jade Rian |
@@ -194,8 +194,8 @@
 | 186 | 534 | Lucas J Sutton |
 | 187 | 532 | Matt Summer |
 | 188 | 532 | Alan George LaRage |
-| 189 | 528 | Erin Sabol |
-| 190 | 528 | Carly Alexis |
+| 189 | 528 | Carly Alexis |
+| 190 | 528 | Erin Sabol |
 | 191 | 525 | 🥔🥔 Spudz |
 | 192 | 521 | Andy Cabral |
 | 193 | 520 | Oscar Alberto Perez |
@@ -212,12 +212,12 @@
 | 204 | 509 | Mimi |
 | 205 | 507 | Andria Lynn |
 | 206 | 504 | Deanna Deckard |
-| 207 | 502 | Christina Black |
-| 208 | 502 | Ericca Eldridge |
+| 207 | 502 | Ericca Eldridge |
+| 208 | 502 | Christina Black |
 | 209 | 501 | Sharyn Lemire |
 | 210 | 499 | Kesha Brady |
-| 211 | 496 | Jessica Bohlken |
-| 212 | 496 | Lori |
+| 211 | 496 | Lori |
+| 212 | 496 | Jessica Bohlken |
 | 213 | 495 | Joeliecea Cobb |
 | 214 | 493 | Amanda Pauldo-Ivy |
 | 215 | 491 | Manny1 |
@@ -225,8 +225,8 @@
 | 217 | 482 | Laura |
 | 218 | 481 | Joanna |
 | 219 | 475 | Silly Zonebuilder |
-| 220 | 473 | Jolly Dashfit |
-| 221 | 473 | Cranky Rollpiece |
+| 220 | 473 | Cranky Rollpiece |
+| 221 | 473 | Jolly Dashfit |
 | 222 | 468 | June Hoffman |
 | 223 | 465 | Leslie Thomas |
 | 224 | 464 | Zakia Monae |
@@ -241,8 +241,8 @@
 | 233 | 455 | Michele Plunkett |
 | 234 | 454 | Keshia Lyons |
 | 235 | 449 | Danielle Kollias |
-| 236 | 448 | Mike Solo |
-| 237 | 448 | Mr. Party |
+| 236 | 448 | Mr. Party |
+| 237 | 448 | Mike Solo |
 | 238 | 447 | Jen Mattei |
 | 239 | 444 | Selena Shaw |
 | 240 | 442 | John Brunetti |
@@ -272,8 +272,8 @@
 | 264 | 409 | Bio Nelly |
 | 265 | 408 | Lauren Scott |
 | 266 | 408 | Dihcheese444 |
-| 267 | 407 | Hyper Builder |
-| 268 | 407 | Rafael Valentin |
+| 267 | 407 | Rafael Valentin |
+| 268 | 407 | Hyper Builder |
 | 269 | 402 | Nita Wells |
 | 270 | 399 | Twisty Cascadezone |
 | 271 | 399 | 030Synner |
