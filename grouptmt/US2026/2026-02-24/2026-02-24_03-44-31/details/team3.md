@@ -127,8 +127,8 @@
 | 119 | 1084 | Santana Lantana |
 | 120 | 1082 | Valerie Gendron |
 | 121 | 1067 | DaBigGuy |
-| 122 | 1066 | Jennifer |
-| 123 | 1066 | Demetrious Shaw Sr. |
+| 122 | 1066 | Demetrious Shaw Sr. |
+| 123 | 1066 | Jennifer |
 | 124 | 1065 | Rachel |
 | 125 | 1055 | Christine Trester |
 | 126 | 1050 | Sherika C. McDaniels |
@@ -201,8 +201,8 @@
 | 193 | 763 | Tasha Gillespie |
 | 194 | 760 | Kiki |
 | 195 | 757 | Fancy Cascader |
-| 196 | 755 | Laura Booth Wosko |
-| 197 | 755 | Alexmac |
+| 196 | 755 | Alexmac |
+| 197 | 755 | Laura Booth Wosko |
 | 198 | 750 | Michael Nowogorski |
 | 199 | 742 | Jennifer Lynn Fahrenholtz-Summers |
 | 200 | 740 | Domo Washington |
@@ -307,8 +307,8 @@
 | 299 | 506 | Ammmmmmy |
 | 300 | 505 | Stephanie Simpson |
 | 301 | 500 | Ashley Tookes |
-| 302 | 499 | Gumbo |
-| 303 | 499 | Rebecca Bailey |
+| 302 | 499 | Rebecca Bailey |
+| 303 | 499 | Gumbo |
 | 304 | 494 | MCV |
 | 305 | 494 | Megan Rathmanner |
 | 306 | 492 | Tasha Wesson-Torrence |
@@ -1176,7 +1176,7 @@
 | 1168 | 152 | mrsh |
 | 1169 | 152 | Jennifer Blake |
 | 1170 | 152 | Louise Parker |
-| 1171 | 152 | mrsh |
+| 1171 | 152 | Myriam Lapierre |
 | 1172 | 152 | Hyper Wipeout |
 | 1173 | 151 | Kate M. Murdock |
 | 1174 | 151 | Tiki |

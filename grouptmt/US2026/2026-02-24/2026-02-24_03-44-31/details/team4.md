@@ -68,8 +68,8 @@
 | 60 | 1116 | Ashley Ingram |
 | 61 | 1098 | BertMofo |
 | 62 | 1089 | Alyssa Papen |
-| 63 | 1082 | Avy Absol |
-| 64 | 1082 | Dion Crommarty |
+| 63 | 1082 | Dion Crommarty |
+| 64 | 1082 | Avy Absol |
 | 65 | 1075 | Dustee Craddock-Harrison |
 | 66 | 1064 | Heather Tushner |
 | 67 | 1057 | Lisa Davis |
@@ -255,8 +255,8 @@
 | 247 | 409 | Joseph Guthrie |
 | 248 | 408 | Lauren Scott |
 | 249 | 400 | Brickh4us |
-| 250 | 398 | Nerdy Twisterfit |
-| 251 | 398 | Tyler Terrific |
+| 250 | 398 | Tyler Terrific |
+| 251 | 398 | Nerdy Twisterfit |
 | 252 | 397 | blasterB |
 | 253 | 397 | blockstar |
 | 254 | 395 | 030Synner |
@@ -318,8 +318,8 @@
 | 310 | 330 | Duck |
 | 311 | 330 | Sandra Safford |
 | 312 | 329 | Meagan Nicole |
-| 313 | 328 | Leah Kutz Zirbel |
-| 314 | 328 | Angie Schmidt |
+| 313 | 328 | Angie Schmidt |
+| 314 | 328 | Leah Kutz Zirbel |
 | 315 | 328 | Brittany Little |
 | 316 | 327 | Jason Bosco |
 | 317 | 324 | Nubian1 |
@@ -343,8 +343,8 @@
 | 335 | 311 | Laura |
 | 336 | 311 | Ak Jones |
 | 337 | 308 | Angela Geist Jusinski |
-| 338 | 307 | Shukee Lo |
-| 339 | 307 | Kim Klutz Olson |
+| 338 | 307 | Kim Klutz Olson |
+| 339 | 307 | Shukee Lo |
 | 340 | 306 | PeaceOs |
 | 341 | 304 | Sarah Neathery |
 | 342 | 302 | Alan Zukowski |
