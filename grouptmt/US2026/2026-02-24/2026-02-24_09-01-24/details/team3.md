@@ -68,8 +68,8 @@
 | 60 | 1931 | Denise Nardoni |
 | 61 | 1920 | Trezure Gonzalez |
 | 62 | 1858 | Kristie McFarland |
-| 63 | 1824 | Nate Burnside |
-| 64 | 1824 | Jessica Ann |
+| 63 | 1824 | Jessica Ann |
+| 64 | 1824 | Nate Burnside |
 | 65 | 1804 | Tina Kay |
 | 66 | 1791 | Leah Barnett |
 | 67 | 1776 | Whitney Manuel |
@@ -83,8 +83,8 @@
 | 75 | 1633 | cowboy25469 |
 | 76 | 1625 | Queen Kam |
 | 77 | 1615 | joclisa |
-| 78 | 1566 | Nerdy Riseclear |
-| 79 | 1566 | Marcie Bressler |
+| 78 | 1566 | Marcie Bressler |
+| 79 | 1566 | Nerdy Riseclear |
 | 80 | 1560 | Logan Naccarato |
 | 81 | 1555 | Snappy Glidepiece |
 | 82 | 1518 | Christine Filson |
@@ -126,8 +126,8 @@
 | 118 | 1134 | Melissa Orth Hunter |
 | 119 | 1124 | Stephanie Rice |
 | 120 | 1121 | Corie A. Brinson |
-| 121 | 1114 | Groovy Catcher |
-| 122 | 1114 | Loopy Fallmatch |
+| 121 | 1114 | Loopy Fallmatch |
+| 122 | 1114 | Groovy Catcher |
 | 123 | 1105 | Adrian Marcel Pate |
 | 124 | 1093 | Angela M. Fletcher |
 | 125 | 1091 | Jennifer |
@@ -176,8 +176,8 @@
 | 168 | 875 | Chasity |
 | 169 | 874 | Jessica Pineda-Lopez |
 | 170 | 871 | Rochelle Hazelett |
-| 171 | 868 | Cranky Gridder |
-| 172 | 868 | Nicole Flippo |
+| 171 | 868 | Nicole Flippo |
+| 172 | 868 | Cranky Gridder |
 | 173 | 866 | Domo Washington |
 | 174 | 864 | Sunny Rotater |
 | 175 | 862 | Santeria Trece Candles |
@@ -190,14 +190,14 @@
 | 182 | 832 | Alexmac |
 | 183 | 829 | Patricia White |
 | 184 | 825 | Lizabeth Fox |
-| 185 | 821 | Kammy Hill |
-| 186 | 821 | Angella Lyons |
+| 185 | 821 | Angella Lyons |
+| 186 | 821 | Kammy Hill |
 | 187 | 817 | Niki Dalrymple |
 | 188 | 815 | Justin Ritter |
 | 189 | 813 | JessDrown |
 | 190 | 808 | Raya |
-| 191 | 804 | Alaina Lee |
-| 192 | 804 | Gideon Walker |
+| 191 | 804 | Gideon Walker |
+| 192 | 804 | Alaina Lee |
 | 193 | 800 | Lauren Girouard |
 | 194 | 799 | Trisha Balmer |
 | 195 | 792 | Rachel Grant |
@@ -328,11 +328,11 @@
 | 320 | 505 | Stephanie Simpson |
 | 321 | 504 | Daring Builder |
 | 322 | 500 | Ashley Tookes |
-| 323 | 499 | Gumbo |
-| 324 | 499 | Megan Rathmanner |
+| 323 | 499 | Megan Rathmanner |
+| 324 | 499 | Gumbo |
 | 325 | 496 | Brenda Schmid Wood |
-| 326 | 494 | MCV |
-| 327 | 494 | fraulila |
+| 326 | 494 | fraulila |
+| 327 | 494 | MCV |
 | 328 | 492 | Tasha Wesson-Torrence |
 | 329 | 490 | Cassandra Bryant |
 | 330 | 489 | Isabel Ocasio |
@@ -351,8 +351,8 @@
 | 343 | 471 | Mendoza Lee Christy |
 | 344 | 467 | Jul |
 | 345 | 467 | Danielle Rhoades |
-| 346 | 465 | Noettín Kan Zasnemoore |
-| 347 | 465 | Blocked |
+| 346 | 465 | Blocked |
+| 347 | 465 | Noettín Kan Zasnemoore |
 | 348 | 464 | Snazzy Filler |
 | 349 | 461 | Hyper Bridger |
 | 350 | 461 | Briana Wellman |

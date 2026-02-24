@@ -203,12 +203,12 @@
 | 195 | 1923 | Janel Turley-Garner |
 | 196 | 1906 | Bussyiano Page |
 | 197 | 1896 | Christi Hulet |
-| 198 | 1894 | Dustin Rains |
-| 199 | 1888 | Loopy Clusterbuilder |
-| 200 | 1882 | Jaycee |
-| 201 | 1861 | Juliana Marques Do Nascimento Gordy |
-| 202 | 1855 | Missie Lawson Gebhardt |
-| 203 | 1853 | Kristopher Miller |
+| 198 | 1888 | Loopy Clusterbuilder |
+| 199 | 1882 | Jaycee |
+| 200 | 1861 | Juliana Marques Do Nascimento Gordy |
+| 201 | 1855 | Missie Lawson Gebhardt |
+| 202 | 1853 | Kristopher Miller |
+| 203 | 1845 | Katrina Weston |
 | 204 | 1845 | Jessie McDougald |
 | 205 | 1840 | blarg |
 | 206 | 1833 | Joyce Johnson Vaughn |
@@ -273,8 +273,8 @@
 | 265 | 1552 | Mcintosh Brian Shalonda |
 | 266 | 1539 | Nadia Batista Garcia |
 | 267 | 1528 | Stacy Stickle |
-| 268 | 1509 | Stacey Clement |
-| 269 | 1509 | Whitney Nicole Waterman |
+| 268 | 1509 | Whitney Nicole Waterman |
+| 269 | 1509 | Stacey Clement |
 | 270 | 1501 | Ashle Scranton |
 | 271 | 1498 | Ericka Marie Smith |
 | 272 | 1485 | Carl Bradshaw |
