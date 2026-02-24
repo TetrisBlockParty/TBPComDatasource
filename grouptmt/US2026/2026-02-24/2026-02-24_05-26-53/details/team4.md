@@ -196,9 +196,9 @@
 | 188 | 516 | Nick Gray |
 | 189 | 516 | Twisty Clicky |
 | 190 | 513 | Erin Thomas |
-| 191 | 512 | ThaEviLJeNiuZ |
-| 192 | 512 | Ellen Durfee |
-| 193 | 512 | Casey Jeffcoat |
+| 191 | 512 | Ellen Durfee |
+| 192 | 512 | Casey Jeffcoat |
+| 193 | 512 | ThaEviLJeNiuZ |
 | 194 | 509 | Mimi |
 | 195 | 508 | Milan Markeisha |
 | 196 | 508 | Zesty Twistbuilder |
@@ -245,8 +245,8 @@
 | 237 | 434 | Ramel Rhodes |
 | 238 | 433 | Damn Libra |
 | 239 | 433 | Circuit8 |
-| 240 | 432 | Plucky Patternblock |
-| 241 | 432 | scott |
+| 240 | 432 | scott |
+| 241 | 432 | Plucky Patternblock |
 | 242 | 431 | Manny1 |
 | 243 | 428 | Chris Bernstein |
 | 244 | 427 | Chao Ma |
@@ -290,9 +290,9 @@
 | 282 | 377 | Matt Dell'Olio |
 | 283 | 376 | Nig |
 | 284 | 373 | Russ Attitude |
-| 285 | 370 | Twisty Risebuilder |
-| 286 | 370 | Kris Bartlett |
-| 287 | 370 | Cheery Risebuilder |
+| 285 | 370 | Kris Bartlett |
+| 286 | 370 | Cheery Risebuilder |
+| 287 | 370 | Twisty Risebuilder |
 | 288 | 367 | Meg |
 | 289 | 364 | David Lay |
 | 290 | 360 | Lee Silpe |

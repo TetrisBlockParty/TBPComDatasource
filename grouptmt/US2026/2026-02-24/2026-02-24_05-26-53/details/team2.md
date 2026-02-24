@@ -244,8 +244,8 @@
 | 236 | 1613 | blackq |
 | 237 | 1610 | Ray Ray Prado |
 | 238 | 1609 | Ryan Stadel |
-| 239 | 1600 | Mo Shine On |
-| 240 | 1600 | Jojo Momma |
+| 239 | 1600 | Jojo Momma |
+| 240 | 1600 | Mo Shine On |
 | 241 | 1596 | Christine Egidio Morocco |
 | 242 | 1595 | Joyce Johnson Vaughn |
 | 243 | 1592 | Dolores Russworn |
@@ -343,8 +343,8 @@
 | 335 | 1261 | Becca Coronado |
 | 336 | 1258 | Mama T |
 | 337 | 1257 | Jackie Lucas |
-| 338 | 1257 | Megan Garrick |
-| 339 | 1257 | Megan Ferguson Leone |
+| 338 | 1257 | Megan Ferguson Leone |
+| 339 | 1257 | Megan Garrick |
 | 340 | 1254 | Erika Densmore |
 | 341 | 1252 | Brainy Smurf |
 | 342 | 1249 | Tristan Szolek |
@@ -357,14 +357,14 @@
 | 349 | 1229 | Brenda Messer |
 | 350 | 1227 | Rebecca Miller |
 | 351 | 1225 | RAEPR05 |
-| 352 | 1222 | Ashle Scranton |
-| 353 | 1222 | Nuke Morris |
+| 352 | 1222 | Nuke Morris |
+| 353 | 1222 | Ashle Scranton |
 | 354 | 1222 | Kristin Gower |
 | 355 | 1218 | LaKisha Anderson |
 | 356 | 1217 | Brooks Brooks |
 | 357 | 1216 | Pacynthia Williams |
-| 358 | 1215 | Toni Roberson |
-| 359 | 1215 | Hyper Cluster |
+| 358 | 1215 | Hyper Cluster |
+| 359 | 1215 | Toni Roberson |
 | 360 | 1214 | David Cudicio-Hayden |
 | 361 | 1211 | Cynthia Ward |
 | 362 | 1210 | Amber Gray |
@@ -1053,8 +1053,8 @@
 | 1045 | 541 | Samantha Rojo |
 | 1046 | 541 | Misty |
 | 1047 | 540 | Melisa Marvin |
-| 1048 | 540 | Pam Doughty |
-| 1049 | 540 | Boldy Block |
+| 1048 | 540 | Boldy Block |
+| 1049 | 540 | Pam Doughty |
 | 1050 | 540 | Melissa Koria |
 | 1051 | 539 | Nutty Slice |
 | 1052 | 539 | Dizzy Clicker |
@@ -1069,8 +1069,8 @@
 | 1061 | 535 | Zachary Boyarski |
 | 1062 | 535 | Frisky Patternline |
 | 1063 | 534 | Daphne Jordan |
-| 1064 | 534 | JAG$*V¡LL£•FL•DuuuVaL |
-| 1065 | 534 | Kara Jennifer |
+| 1064 | 534 | Kara Jennifer |
+| 1065 | 534 | JAG$*V¡LL£•FL•DuuuVaL |
 | 1066 | 533 | Amanda West |
 | 1067 | 532 | Jenny DelVescovo |
 | 1068 | 532 | Tara Lynn Janes |

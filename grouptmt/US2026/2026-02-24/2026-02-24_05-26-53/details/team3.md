@@ -102,8 +102,8 @@
 | 94 | 1361 | Patricia Gadsden |
 | 95 | 1343 | Joey Banks |
 | 96 | 1320 | Kristie |
-| 97 | 1318 | Tiff Vs Tiffany |
-| 98 | 1318 | Diana Ibarra |
+| 97 | 1318 | Diana Ibarra |
+| 98 | 1318 | Tiff Vs Tiffany |
 | 99 | 1309 | yoyo |
 | 100 | 1297 | Shelby Michelle |
 | 101 | 1290 | JerseyJess |
@@ -196,8 +196,8 @@
 | 188 | 783 | Julian Murphy |
 | 189 | 780 | Raya |
 | 190 | 777 | Daryn Elliott |
-| 191 | 774 | ren |
-| 192 | 774 | Twisty Brick LT |
+| 191 | 774 | Twisty Brick LT |
+| 192 | 774 | ren |
 | 193 | 772 | Tye Stovall |
 | 194 | 769 | Hasty Cascadefit |
 | 195 | 768 | Cyd061769 |
@@ -227,8 +227,8 @@
 | 219 | 709 | Christine Niles |
 | 220 | 708 | Stephanie Bradley |
 | 221 | 703 | Shawn Miller |
-| 222 | 691 | Snappy Balancer |
-| 223 | 691 | Tia |
+| 222 | 691 | Tia |
+| 223 | 691 | Snappy Balancer |
 | 224 | 689 | Patti Skiles |
 | 225 | 675 | Terry Jo Jones |
 | 226 | 668 | Daring Brickzone |
@@ -298,8 +298,8 @@
 | 290 | 535 | Marci Mize Fandrich |
 | 291 | 535 | kacihall |
 | 292 | 534 | rosy |
-| 293 | 533 | BugMansMom |
-| 294 | 533 | Cheryl Hinch Tenbrook |
+| 293 | 533 | Cheryl Hinch Tenbrook |
+| 294 | 533 | BugMansMom |
 | 295 | 532 | Sarah Muradyan |
 | 296 | 530 | Rynne Ellis |
 | 297 | 530 | KayB |
@@ -583,7 +583,7 @@
 | 575 | 302 | Stephanie Sanchez |
 | 576 | 302 | Lickity Split |
 | 577 | 302 | Jessica |
-| 578 | 302 | Stephanie Sanchez |
+| 578 | 302 | Megan Riggins |
 | 579 | 301 | Muk |
 | 580 | 300 | Tosha Griffey |
 | 581 | 299 | Six |
