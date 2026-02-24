@@ -414,8 +414,8 @@
 | 406 | 1116 | Em Chen |
 | 407 | 1116 | Wakanda Forever |
 | 408 | 1110 | Nadia Batista Garcia |
-| 409 | 1109 | BYM4L |
-| 410 | 1109 | Melissa McCall |
+| 409 | 1109 | Melissa McCall |
+| 410 | 1109 | BYM4L |
 | 411 | 1105 | Nerdy Clearfit |
 | 412 | 1104 | Kimberly Hope Howell |
 | 413 | 1101 | Kathryn Townsley |
@@ -719,8 +719,8 @@
 | 711 | 728 | Snippy Rumbler |
 | 712 | 728 | Lonna Matthews |
 | 713 | 727 | Silly Pivotfall |
-| 714 | 727 | Reita Rolen |
-| 715 | 727 | Cc |
+| 714 | 727 | Cc |
+| 715 | 727 | Reita Rolen |
 | 716 | 726 | Marella Petilo |
 | 717 | 725 | Shylee Tilman |
 | 718 | 725 | Vonceial Boone |
@@ -1050,8 +1050,8 @@
 | 1042 | 555 | Glitzy Rollblock |
 | 1043 | 555 | Noel Tarmy |
 | 1044 | 555 | Amy Roche |
-| 1045 | 554 | Hoppy Glidebuilder |
-| 1046 | 554 | Cheery Puzzler |
+| 1045 | 554 | Cheery Puzzler |
+| 1046 | 554 | Hoppy Glidebuilder |
 | 1047 | 554 | Dusti Rose Bingham |
 | 1048 | 553 | Tum |
 | 1049 | 553 | ruth |

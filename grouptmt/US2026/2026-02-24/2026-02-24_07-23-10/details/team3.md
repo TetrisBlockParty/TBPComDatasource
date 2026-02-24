@@ -155,8 +155,8 @@
 | 147 | 966 | Sashay Tapae Simpson |
 | 148 | 963 | Crystal Frey |
 | 149 | 961 | Danielle Allison |
-| 150 | 950 | MissTaylor |
-| 151 | 950 | Giddy Drop |
+| 150 | 950 | Giddy Drop |
+| 151 | 950 | MissTaylor |
 | 152 | 940 | Patty Allen |
 | 153 | 940 | Stephanie Allmon |
 | 154 | 936 | Dolores Falco |
@@ -172,8 +172,8 @@
 | 164 | 875 | Chasity |
 | 165 | 874 | Jessica Pineda-Lopez |
 | 166 | 871 | Rochelle Hazelett |
-| 167 | 868 | Cranky Gridder |
-| 168 | 868 | Nicole Flippo |
+| 167 | 868 | Nicole Flippo |
+| 168 | 868 | Cranky Gridder |
 | 169 | 866 | Domo Washington |
 | 170 | 864 | Sunny Rotater |
 | 171 | 862 | Santeria Trece Candles |
@@ -231,8 +231,8 @@
 | 223 | 709 | Cynthia Castros-Hampton |
 | 224 | 708 | Stephanie Bradley |
 | 225 | 703 | Shawn Miller |
-| 226 | 691 | Tia |
-| 227 | 691 | Snappy Balancer |
+| 226 | 691 | Snappy Balancer |
+| 227 | 691 | Tia |
 | 228 | 687 | joz |
 | 229 | 675 | Terry Jo Jones |
 | 230 | 662 | Jim Mathews |
@@ -252,8 +252,8 @@
 | 244 | 633 | Jillian Symons |
 | 245 | 630 | Jackie Miller |
 | 246 | 629 | rnr junky |
-| 247 | 627 | Louise Stacy Sisson |
-| 248 | 627 | Juliana Dottore |
+| 247 | 627 | Juliana Dottore |
+| 248 | 627 | Louise Stacy Sisson |
 | 249 | 626 | Cheryl Hinch Tenbrook |
 | 250 | 625 | Jacqueline Rodriguez |
 | 251 | 624 | Hyper Matchzone |
@@ -323,8 +323,8 @@
 | 315 | 506 | Ammmmmmy |
 | 316 | 505 | Stephanie Simpson |
 | 317 | 500 | Ashley Tookes |
-| 318 | 499 | Gumbo |
-| 319 | 499 | Rebecca Bailey |
+| 318 | 499 | Rebecca Bailey |
+| 319 | 499 | Gumbo |
 | 320 | 499 | Megan Rathmanner |
 | 321 | 496 | Brenda Schmid Wood |
 | 322 | 495 | Daring Builder |
@@ -338,8 +338,8 @@
 | 330 | 486 | Sleepy |
 | 331 | 482 | Chummy Rumbler |
 | 332 | 481 | Tiffanie Alley |
-| 333 | 480 | Dee Franklin |
-| 334 | 480 | TLM |
+| 333 | 480 | TLM |
+| 334 | 480 | Dee Franklin |
 | 335 | 479 | Charles Perrone |
 | 336 | 476 | Shunta Jacobs |
 | 337 | 474 | Troy |
@@ -361,14 +361,14 @@
 | 353 | 456 | Cynthia Herrmann Egland |
 | 354 | 456 | Kelly |
 | 355 | 455 | Kelly Wolf |
-| 356 | 450 | Stefanie LaPointe |
-| 357 | 450 | Luciana Braganca Vieira |
+| 356 | 450 | Luciana Braganca Vieira |
+| 357 | 450 | Stefanie LaPointe |
 | 358 | 449 | Lively Caster |
 | 359 | 447 | Carrie Huskey |
 | 360 | 447 | Num1hater |
 | 361 | 446 | Swanky Frame |
-| 362 | 446 | Shiny Zonebuilder |
-| 363 | 446 | Jojo M |
+| 362 | 446 | Jojo M |
+| 363 | 446 | Shiny Zonebuilder |
 | 364 | 446 | Jennifer Alvey |
 | 365 | 445 | Loopy Clusterer |
 | 366 | 444 | Heather De Vries Cobb |

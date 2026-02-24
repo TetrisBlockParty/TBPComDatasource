@@ -106,8 +106,8 @@
 | 98 | 846 | Christine Marie |
 | 99 | 840 | SAP |
 | 100 | 837 | Rica Mitchell |
-| 101 | 834 | quicksand420 |
-| 102 | 834 | Brittney Orengo |
+| 101 | 834 | Brittney Orengo |
+| 102 | 834 | quicksand420 |
 | 103 | 815 | Diana Houts |
 | 104 | 813 | Klo |
 | 105 | 811 | Sassy Pattern |
@@ -133,8 +133,8 @@
 | 125 | 726 | Amy Suckarieh |
 | 126 | 726 | Jamie Gustafson |
 | 127 | 725 | Brandon Crabbs |
-| 128 | 712 | H.R. Block |
-| 129 | 712 | Leslie Nicole |
+| 128 | 712 | Leslie Nicole |
+| 129 | 712 | H.R. Block |
 | 130 | 708 | Jacqueline Helm |
 | 131 | 704 | Austin Owens |
 | 132 | 704 | Chilly Crasher |
@@ -212,12 +212,12 @@
 | 204 | 509 | Mimi |
 | 205 | 507 | Andria Lynn |
 | 206 | 504 | Deanna Deckard |
-| 207 | 502 | Ericca Eldridge |
-| 208 | 502 | Christina Black |
+| 207 | 502 | Christina Black |
+| 208 | 502 | Ericca Eldridge |
 | 209 | 501 | Sharyn Lemire |
 | 210 | 499 | Kesha Brady |
-| 211 | 496 | Lori |
-| 212 | 496 | Jessica Bohlken |
+| 211 | 496 | Jessica Bohlken |
+| 212 | 496 | Lori |
 | 213 | 495 | Joeliecea Cobb |
 | 214 | 493 | Amanda Pauldo-Ivy |
 | 215 | 491 | Manny1 |
@@ -225,8 +225,8 @@
 | 217 | 482 | Laura |
 | 218 | 481 | Joanna |
 | 219 | 475 | Silly Zonebuilder |
-| 220 | 473 | Cranky Rollpiece |
-| 221 | 473 | Jolly Dashfit |
+| 220 | 473 | Jolly Dashfit |
+| 221 | 473 | Cranky Rollpiece |
 | 222 | 468 | June Hoffman |
 | 223 | 465 | Leslie Thomas |
 | 224 | 464 | Zakia Monae |
@@ -234,8 +234,8 @@
 | 226 | 462 | Crystal Nicolette Moore |
 | 227 | 460 | Calvin Cannon |
 | 228 | 460 | Kathy Brookins |
-| 229 | 458 | Kristina Black |
-| 230 | 458 | Luis Martinez |
+| 229 | 458 | Luis Martinez |
+| 230 | 458 | Kristina Black |
 | 231 | 457 | Kristin Manee |
 | 232 | 457 | J-Rizzle |
 | 233 | 455 | Michele Plunkett |
@@ -247,8 +247,8 @@
 | 239 | 444 | Selena Shaw |
 | 240 | 442 | John Brunetti |
 | 241 | 441 | Lush Linkfall |
-| 242 | 438 | 23 |
-| 243 | 438 | Melvin Baird |
+| 242 | 438 | Melvin Baird |
+| 243 | 438 | 23 |
 | 244 | 434 | Ramel Rhodes |
 | 245 | 433 | Damn Libra |
 | 246 | 433 | Circuit8 |
@@ -279,17 +279,17 @@
 | 271 | 399 | Twisty Cascadezone |
 | 272 | 398 | Tyler Terrific |
 | 273 | 397 | blockstar |
-| 274 | 395 | Denise B |
-| 275 | 395 | BigSammy420 |
+| 274 | 395 | BigSammy420 |
+| 275 | 395 | Denise B |
 | 276 | 393 | Montiette Mcglown |
 | 277 | 392 | Neirrah B Olailjeel |
 | 278 | 391 | mike |
 | 279 | 390 | Ari Droff |
 | 280 | 389 | Nikki Rae Gordon |
 | 281 | 382 | Sue Joyce Staats |
-| 282 | 380 | Chaz |
-| 283 | 380 | Jen Caldwell |
-| 284 | 380 | Holly Jolly |
+| 282 | 380 | Holly Jolly |
+| 283 | 380 | Chaz |
+| 284 | 380 | Jen Caldwell |
 | 285 | 379 | Backoff Recupe |
 | 286 | 378 | Mary Ann Pabukis |
 | 287 | 378 | Jason Gibbs |
@@ -306,7 +306,7 @@
 | 298 | 364 | Lora |
 | 299 | 362 | Nubian1 |
 | 300 | 360 | Lee Silpe |
-| 301 | 359 | Allen Lloyd |
+| 301 | 359 | Holly |
 | 302 | 359 | KimoKoala |
 | 303 | 359 | Allen Lloyd |
 | 304 | 354 | @ |
@@ -385,8 +385,8 @@
 | 377 | 300 | Jason Frehner |
 | 378 | 299 | Michael Snow |
 | 379 | 298 | Val Erie |
-| 380 | 297 | Allison Rose |
-| 381 | 297 | Brittany Marsh |
+| 380 | 297 | Brittany Marsh |
+| 381 | 297 | Allison Rose |
 | 382 | 296 | Dapper Frame |
 | 383 | 295 | Deb Rubeck |
 | 384 | 294 | BootsMcGee |
