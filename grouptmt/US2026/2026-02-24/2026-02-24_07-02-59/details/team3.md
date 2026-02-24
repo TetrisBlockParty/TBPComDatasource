@@ -1860,7 +1860,7 @@
 | 1852 | 83 | Cindy Southall |
 | 1853 | 83 | Ilene Barone |
 | 1854 | 82 | Emily Ackley |
-| 1855 | 82 | Andrea Sanders Kelley |
+| 1855 | 82 | Alecia McDermott |
 | 1856 | 82 | Talithia Dangerfield |
 | 1857 | 82 | Andrea Sanders Kelley |
 | 1858 | 82 | madtime |

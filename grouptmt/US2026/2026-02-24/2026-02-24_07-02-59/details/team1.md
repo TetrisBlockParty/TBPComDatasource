@@ -100,8 +100,8 @@
 | 92 | 883 | Jennifer ManWarren |
 | 93 | 883 | Nancy Green |
 | 94 | 863 | Madison Wicks |
-| 95 | 860 | Rachael |
-| 96 | 860 | Tinah Montanna |
+| 95 | 860 | Tinah Montanna |
+| 96 | 860 | Rachael |
 | 97 | 811 | Amanda Johnson Huffman |
 | 98 | 805 | Robert Benito |
 | 99 | 800 | Desiree Deschaine Havee |
@@ -264,14 +264,14 @@
 | 256 | 396 | Monica Donato |
 | 257 | 394 | Nick R Montague |
 | 258 | 393 | Wisa |
-| 259 | 392 | Poppy Riserpiece |
-| 260 | 392 | Renee Tucker |
+| 259 | 392 | Renee Tucker |
+| 260 | 392 | Poppy Riserpiece |
 | 261 | 391 | Happy Basegrid |
 | 262 | 390 | David Lutcher |
 | 263 | 386 | Melissa Bires Hussar |
 | 264 | 386 | Angela Renea Lester |
-| 265 | 384 | Irv |
-| 266 | 384 | Colleen Pinette |
+| 265 | 384 | Colleen Pinette |
+| 266 | 384 | Irv |
 | 267 | 383 | Margo Wagner |
 | 268 | 382 | Jamie Jury |
 | 269 | 380 | Snippy Wipebuilder |
