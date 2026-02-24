@@ -125,8 +125,8 @@
 | 117 | 735 | Nugget |
 | 118 | 731 | KJ Pool |
 | 119 | 729 | Jamie Mann-Deichmann |
-| 120 | 726 | Jamie Gustafson |
-| 121 | 726 | Amy Suckarieh |
+| 120 | 726 | Amy Suckarieh |
+| 121 | 726 | Jamie Gustafson |
 | 122 | 725 | Brandon Crabbs |
 | 123 | 718 | Zippy Gridlock |
 | 124 | 712 | H.R. Block |
@@ -243,8 +243,8 @@
 | 235 | 438 | 23 |
 | 236 | 438 | Melvin Baird |
 | 237 | 434 | Ramel Rhodes |
-| 238 | 433 | Damn Libra |
-| 239 | 433 | Circuit8 |
+| 238 | 433 | Circuit8 |
+| 239 | 433 | Damn Libra |
 | 240 | 432 | Plucky Patternblock |
 | 241 | 432 | scott |
 | 242 | 431 | Manny1 |
@@ -294,7 +294,7 @@
 | 286 | 370 | Twisty Risebuilder |
 | 287 | 370 | Kris Bartlett |
 | 288 | 367 | Meg |
-| 289 | 364 | David Lay |
+| 289 | 360 | David Lay |
 | 290 | 360 | Lee Silpe |
 | 291 | 359 | KimoKoala |
 | 292 | 359 | Holly |

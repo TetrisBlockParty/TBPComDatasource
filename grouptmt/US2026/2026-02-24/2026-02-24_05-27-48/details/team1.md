@@ -108,8 +108,8 @@
 | 100 | 773 | Susanna Guerry |
 | 101 | 772 | Kathy Langham |
 | 102 | 770 | Zappy Curvetile |
-| 103 | 769 | Angel Fowler |
-| 104 | 769 | Robert Benito |
+| 103 | 769 | Robert Benito |
+| 104 | 769 | Angel Fowler |
 | 105 | 768 | Jazzy Framezone |
 | 106 | 756 | Cartier |
 | 107 | 751 | Kellie |
@@ -166,8 +166,8 @@
 | 158 | 548 | Luciano Moreira |
 | 159 | 547 | Sharon Reynolds |
 | 160 | 546 | Loony Fitzone |
-| 161 | 543 | Adrian Esteban |
-| 162 | 543 | Nicole Roseberry Weber |
+| 161 | 543 | Nicole Roseberry Weber |
+| 162 | 543 | Adrian Esteban |
 | 163 | 540 | Tonya Beasley |
 | 164 | 538 | .running. |
 | 165 | 537 | Stephanie Zahn |
