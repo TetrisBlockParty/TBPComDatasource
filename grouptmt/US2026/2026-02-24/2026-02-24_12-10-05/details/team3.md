@@ -32,8 +32,8 @@
 | 24 | 3221 | Ashley Jones |
 | 25 | 3118 | Jamie Lang |
 | 26 | 3042 | Nerdy Spinblock |
-| 27 | 2933 | Dan Rob |
-| 28 | 2933 | Grego Daniel |
+| 27 | 2933 | Grego Daniel |
+| 28 | 2933 | Dan Rob |
 | 29 | 2874 | Zippy Strikesnap |
 | 30 | 2873 | Chummy Shatterer |
 | 31 | 2816 | Fancy Slam |
@@ -70,8 +70,8 @@
 | 62 | 1858 | Kristie McFarland |
 | 63 | 1836 | Tina Kay |
 | 64 | 1825 | Nora Rogers |
-| 65 | 1824 | Jessica Ann |
-| 66 | 1824 | Nate Burnside |
+| 65 | 1824 | Nate Burnside |
+| 66 | 1824 | Jessica Ann |
 | 67 | 1791 | Leah Barnett |
 | 68 | 1776 | Whitney Manuel |
 | 69 | 1774 | Liv Whetson |
@@ -111,8 +111,8 @@
 | 103 | 1311 | JerseyJess |
 | 104 | 1309 | yoyo |
 | 105 | 1297 | Shelby Michelle |
-| 106 | 1282 | Peppy Shifter |
-| 107 | 1282 | Amanda L Baker |
+| 106 | 1282 | Amanda L Baker |
+| 107 | 1282 | Peppy Shifter |
 | 108 | 1280 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1248 | Lori Barnaby |
@@ -127,8 +127,8 @@
 | 119 | 1152 | Julian Murphy |
 | 120 | 1124 | Stephanie Rice |
 | 121 | 1121 | Corie A. Brinson |
-| 122 | 1114 | Groovy Catcher |
-| 123 | 1114 | Loopy Fallmatch |
+| 122 | 1114 | Loopy Fallmatch |
+| 123 | 1114 | Groovy Catcher |
 | 124 | 1105 | Adrian Marcel Pate |
 | 125 | 1101 | Valerie Gendron |
 | 126 | 1093 | Angela M. Fletcher |
@@ -167,8 +167,8 @@
 | 159 | 936 | Dolores Falco |
 | 160 | 928 | Edwin Calvillo Jr. |
 | 161 | 925 | Cherry Parker |
-| 162 | 914 | BadManSheLove |
-| 163 | 914 | Staci George Fitzsimmons |
+| 162 | 914 | Staci George Fitzsimmons |
+| 163 | 914 | BadManSheLove |
 | 164 | 910 | opf |
 | 165 | 906 | Patti Skiles |
 | 166 | 899 | Jaime Monhaut-Reed |
@@ -282,13 +282,13 @@
 | 274 | 618 | Kaitie Oliver |
 | 275 | 609 | Connie Mohler-Fair |
 | 276 | 608 | Noyb Adam |
-| 277 | 604 | Sherry Ogden |
-| 278 | 604 | Bmo |
+| 277 | 604 | Bmo |
+| 278 | 604 | Sherry Ogden |
 | 279 | 600 | Natasha Jones |
 | 280 | 594 | Cozy Snaplink |
 | 281 | 591 | Crystal Hine |
-| 282 | 586 | Brian Battjes |
-| 283 | 586 | Donna |
+| 282 | 586 | Donna |
+| 283 | 586 | Brian Battjes |
 | 284 | 584 | Michael Johnson |
 | 285 | 583 | Michael Lucado |
 | 286 | 582 | FuzzyNavel |
@@ -296,11 +296,11 @@
 | 288 | 578 | James Mitchell |
 | 289 | 572 | Tessina Dewey-Mancino |
 | 290 | 570 | thekey |
-| 291 | 569 | Silly Twist |
-| 292 | 569 | Gray Hicks |
+| 291 | 569 | Gray Hicks |
+| 292 | 569 | Silly Twist |
 | 293 | 567 | Stephanie Burtin |
-| 294 | 566 | Eileen Brady Thurber |
-| 295 | 566 | Tyler Shoff |
+| 294 | 566 | Tyler Shoff |
+| 295 | 566 | Eileen Brady Thurber |
 | 296 | 562 | Dave Herzog |
 | 297 | 562 | Aerian Preston |
 | 298 | 561 | Chauntee Alfrey-Cardinale |
@@ -332,8 +332,8 @@
 | 324 | 506 | Ammmmmmy |
 | 325 | 504 | Daring Builder |
 | 326 | 500 | Ashley Tookes |
-| 327 | 499 | Megan Rathmanner |
-| 328 | 499 | Gumbo |
+| 327 | 499 | Gumbo |
+| 328 | 499 | Megan Rathmanner |
 | 329 | 496 | Brenda Schmid Wood |
 | 330 | 494 | fraulila |
 | 331 | 494 | MCV |
@@ -362,8 +362,8 @@
 | 354 | 470 | Jazzy Spinfit |
 | 355 | 468 | Bigmack |
 | 356 | 467 | Danielle Rhoades |
-| 357 | 465 | Blocked |
-| 358 | 465 | Noettín Kan Zasnemoore |
+| 357 | 465 | Noettín Kan Zasnemoore |
+| 358 | 465 | Blocked |
 | 359 | 464 | Snazzy Filler |
 | 360 | 464 | Snippy Wipeout |
 | 361 | 463 | Hoài Quắt |
@@ -413,13 +413,13 @@
 | 405 | 418 | Rainbow77375 |
 | 406 | 417 | Krish Shah |
 | 407 | 416 | Tay |
-| 408 | 414 | Arden White Kirsch |
-| 409 | 414 | Michelle Allers |
+| 408 | 414 | Michelle Allers |
+| 409 | 414 | Arden White Kirsch |
 | 410 | 413 | Rick Poppen |
 | 411 | 411 | Beaudie Stroebel |
 | 412 | 409 | Rich LeBlanc |
-| 413 | 408 | Tiffany Ford |
-| 414 | 408 | Ashley Muncey |
+| 413 | 408 | Ashley Muncey |
+| 414 | 408 | Tiffany Ford |
 | 415 | 407 | Christina Spa |
 | 416 | 406 | Kristen Weese |
 | 417 | 405 | Andrew Thorson |
@@ -436,9 +436,9 @@
 | 428 | 396 | Steven Fulater |
 | 429 | 394 | Jalissa Monique |
 | 430 | 392 | Linda Draper |
-| 431 | 391 | Rebel124 |
+| 431 | 391 | Ashley Lynn Marchese |
 | 432 | 391 | gremicx |
-| 433 | 391 | Ashley Lynn Marchese |
+| 433 | 391 | Rebel124 |
 | 434 | 390 | ROODBOY |
 | 435 | 389 | Amanda J. Mcneil-Anderson |
 | 436 | 389 | Kirhonda Autmon |
@@ -664,7 +664,7 @@
 | 656 | 284 | Hanna Kim |
 | 657 | 283 | TI Na |
 | 658 | 283 | Dirtgirl27 |
-| 659 | 283 | TI Na |
+| 659 | 282 | Lisa Ann |
 | 660 | 282 | Cheeky Twisterfit |
 | 661 | 281 | Jenna Baker |
 | 662 | 281 | Nerdy Lifter |
