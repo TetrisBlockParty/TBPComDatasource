@@ -235,8 +235,8 @@
 | 227 | 1534 | Rosa Franklin |
 | 228 | 1530 | Mischelle Clay |
 | 229 | 1525 | Catina Hutchison |
-| 230 | 1509 | Stacey Clement |
-| 231 | 1509 | Whitney Nicole Waterman |
+| 230 | 1509 | Whitney Nicole Waterman |
+| 231 | 1509 | Stacey Clement |
 | 232 | 1507 | Kiok |
 | 233 | 1498 | Isabela Shaw |
 | 234 | 1494 | Binyah-Binyah |
@@ -272,11 +272,11 @@
 | 264 | 1351 | Denisha Dawkins |
 | 265 | 1348 | Sarah Freitas |
 | 266 | 1342 | Kelly A Green-Leach |
-| 267 | 1341 | Cassie Mercer |
-| 268 | 1341 | Moose Griffith |
+| 267 | 1341 | Moose Griffith |
+| 268 | 1341 | Cassie Mercer |
 | 269 | 1338 | Diallo Sparkman |
-| 270 | 1337 | Lola C Davis |
-| 271 | 1337 | Carrie Trigg |
+| 270 | 1337 | Carrie Trigg |
+| 271 | 1337 | Lola C Davis |
 | 272 | 1334 | Groovy Puzzle |
 | 273 | 1332 | Julie Kresal |
 | 274 | 1330 | Ann Knutson Anderson |

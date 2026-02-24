@@ -329,8 +329,8 @@
 | 321 | 301 | Susie Loo |
 | 322 | 301 | Chad Atchley |
 | 323 | 300 | Logan McFarland |
-| 324 | 299 | Nathan William |
-| 325 | 299 | Chummy Rollblock |
+| 324 | 299 | Chummy Rollblock |
+| 325 | 299 | Nathan William |
 | 326 | 298 | Sweetts |
 | 327 | 297 | Diane Byrd |
 | 328 | 296 | Sunny Shift |

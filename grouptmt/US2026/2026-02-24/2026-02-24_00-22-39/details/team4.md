@@ -260,8 +260,8 @@
 | 252 | 376 | Nig |
 | 253 | 374 | Ari Droff |
 | 254 | 372 | Aden Moss |
-| 255 | 371 | TRCuse |
-| 256 | 371 | Joeliecea Cobb |
+| 255 | 371 | Joeliecea Cobb |
+| 256 | 371 | TRCuse |
 | 257 | 369 | Matt Dell'Olio |
 | 258 | 368 | Kris Bartlett |
 | 259 | 367 | Meg |
@@ -280,9 +280,9 @@
 | 272 | 350 | Jen Caldwell |
 | 273 | 349 | jim |
 | 274 | 348 | blasterB |
-| 275 | 347 | Gdiguy |
-| 276 | 347 | @ |
-| 277 | 347 | Daria Rycewicz |
+| 275 | 347 | Daria Rycewicz |
+| 276 | 347 | Gdiguy |
+| 277 | 347 | @ |
 | 278 | 345 | Milan Markeisha |
 | 279 | 343 | HastyGrabber |
 | 280 | 342 | Lauren Lamb |
@@ -455,8 +455,8 @@
 | 447 | 230 | Chantilly Laace |
 | 448 | 230 | Martha Lucinda Bishop |
 | 449 | 228 | Bethany Ison |
-| 450 | 227 | Asher |
-| 451 | 227 | Maria Hammie |
+| 450 | 227 | Maria Hammie |
+| 451 | 227 | Asher |
 | 452 | 225 | Jennifer Renee |
 | 453 | 224 | Vanessa Smart |
 | 454 | 224 | Ultramarine |
@@ -663,15 +663,15 @@
 | 655 | 151 | Daresha Fair |
 | 656 | 150 | Michelle McCutcheon |
 | 657 | 150 | Kujuanna Hammon |
-| 658 | 150 | Michelle McCutcheon |
-| 659 | 150 | Kristin Rose Nutter |
+| 658 | 150 | Kristin Rose Nutter |
+| 659 | 150 | Glitzy Crasher |
 | 660 | 150 | moneybagz |
 | 661 | 149 | Petty |
 | 662 | 149 | Boldy Linkpiece |
 | 663 | 148 | McKayla Breanne |
 | 664 | 148 | Zany Mover |
-| 665 | 147 | David Emmanuel George |
-| 666 | 147 | Mike |
+| 665 | 147 | Mike |
+| 666 | 147 | David Emmanuel George |
 | 667 | 147 | Hasty Fitzone |
 | 668 | 147 | Tisha Cammack |
 | 669 | 147 | Balsam Joe |

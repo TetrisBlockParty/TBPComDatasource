@@ -58,8 +58,8 @@
 | 50 | 1772 | Liv Whetson |
 | 51 | 1754 | Nate Burnside |
 | 52 | 1739 | Tina Kay |
-| 53 | 1734 | Fancy Slam |
-| 54 | 1734 | Aaron Pitkin |
+| 53 | 1734 | Aaron Pitkin |
+| 54 | 1734 | Fancy Slam |
 | 55 | 1732 | Jessica Ann |
 | 56 | 1691 | Cass Mendoza |
 | 57 | 1665 | Whitney Manuel |
@@ -305,8 +305,8 @@
 | 297 | 470 | thekey |
 | 298 | 468 | Betty Rosas |
 | 299 | 468 | Sarah Moyer |
-| 300 | 464 | Noyb Adam |
-| 301 | 464 | Danielle Weikel |
+| 300 | 464 | Danielle Weikel |
+| 301 | 464 | Noyb Adam |
 | 302 | 462 | Sleepy |
 | 303 | 462 | Noettín Kan Zasnemoore |
 | 304 | 461 | Tom Nault |
@@ -448,7 +448,7 @@
 | 440 | 329 | Emma |
 | 441 | 328 | Krystal Gerstberger |
 | 442 | 328 | Desiree Soto |
-| 443 | 328 | Krystal Gerstberger |
+| 443 | 328 | Cesar Mendez |
 | 444 | 327 | Misstery |
 | 445 | 326 | Blair Erin Waite |
 | 446 | 326 | Beppy |
