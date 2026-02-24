@@ -232,8 +232,8 @@
 | 224 | 1693 | Ashley Dow |
 | 225 | 1679 | Mischelle Clay |
 | 226 | 1663 | Alex Stone LaRue |
-| 227 | 1661 | Scott Treadway |
-| 228 | 1661 | Danielle Johnson-Chandler |
+| 227 | 1661 | Danielle Johnson-Chandler |
+| 228 | 1661 | Scott Treadway |
 | 229 | 1656 | Binyah-Binyah |
 | 230 | 1655 | Glitzy Stackzone |
 | 231 | 1651 | Luna |
@@ -433,8 +433,8 @@
 | 425 | 1075 | SaraMarie Eveland |
 | 426 | 1074 | Diana Ayers |
 | 427 | 1073 | Jodi Blake |
-| 428 | 1071 | Nashu |
-| 429 | 1071 | Kim Dean |
+| 428 | 1071 | Kim Dean |
+| 429 | 1071 | Nashu |
 | 430 | 1068 | Tiffany Branham |
 | 431 | 1067 | Lourisha |
 | 432 | 1067 | Taylor Phillips |
@@ -454,8 +454,8 @@
 | 446 | 1033 | Andrea Maher |
 | 447 | 1025 | Ann Matzkanin |
 | 448 | 1024 | Tiara Elizabeth Baker |
-| 449 | 1024 | KrisCynthia Lynette |
-| 450 | 1024 | Susan Perraut Jones |
+| 449 | 1024 | Susan Perraut Jones |
+| 450 | 1024 | KrisCynthia Lynette |
 | 451 | 1018 | Eric Castaneda |
 | 452 | 1018 | Donna M Carter |
 | 453 | 1016 | Jennie Lee Huntley |
@@ -1035,8 +1035,8 @@
 | 1027 | 557 | Casaundra Little-Abeling |
 | 1028 | 557 | Marina Linda |
 | 1029 | 556 | Kamilya Rembert |
-| 1030 | 555 | Noel Tarmy |
-| 1031 | 555 | Glitzy Rollblock |
+| 1030 | 555 | Glitzy Rollblock |
+| 1031 | 555 | Noel Tarmy |
 | 1032 | 555 | Amy Roche |
 | 1033 | 554 | Hoppy Glidebuilder |
 | 1034 | 554 | Cheery Puzzler |
@@ -1052,8 +1052,8 @@
 | 1044 | 551 | Edralin Custodio |
 | 1045 | 551 | B |
 | 1046 | 549 | Ashley Collins |
-| 1047 | 548 | Maxwell Escalera |
-| 1048 | 548 | Synn |
+| 1047 | 548 | Synn |
+| 1048 | 548 | Maxwell Escalera |
 | 1049 | 547 | Monique Foster |
 | 1050 | 546 | Drew Berkelbach |
 | 1051 | 545 | Street Sweeper |
@@ -1091,7 +1091,7 @@
 | 1083 | 532 | Tara Lynn Janes |
 | 1084 | 532 | Christy Krissie |
 | 1085 | 532 | Happy Tile |
-| 1086 | 532 | Christy Krissie |
+| 1086 | 532 | Maribel Anaya Sarabia |
 | 1087 | 531 | A Rainbolt |
 | 1088 | 530 | Sharon Mills |
 | 1089 | 528 | Brooklynn Huckaby |
@@ -1116,8 +1116,8 @@
 | 1108 | 523 | Suzy Moody |
 | 1109 | 523 | Leslie Porter |
 | 1110 | 522 | Jenna Nance |
-| 1111 | 521 | Cozy Drop |
-| 1112 | 521 | Karra Lindsey |
+| 1111 | 521 | Karra Lindsey |
+| 1112 | 521 | Cozy Drop |
 | 1113 | 520 | Matt Hughes |
 | 1114 | 520 | kcakes |
 | 1115 | 519 | Rob Brown |

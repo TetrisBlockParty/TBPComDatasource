@@ -115,8 +115,8 @@
 | 107 | 768 | Jazzy Framezone |
 | 108 | 761 | Karin Gillen |
 | 109 | 751 | Kellie |
-| 110 | 725 | Debbie Kane |
-| 111 | 725 | Phu ckalldems |
+| 110 | 725 | Phu ckalldems |
+| 111 | 725 | Debbie Kane |
 | 112 | 719 | Bindi |
 | 113 | 716 | Kristi Johnson |
 | 114 | 706 | Plucky Fallzone |
@@ -202,8 +202,8 @@
 | 194 | 488 | Ly Phethmany |
 | 195 | 487 | Eric DeSimone |
 | 196 | 479 | canbrick |
-| 197 | 478 | Hasty Cascader |
-| 198 | 478 | Jumpy Dropper |
+| 197 | 478 | Jumpy Dropper |
+| 198 | 478 | Hasty Cascader |
 | 199 | 475 | Reesey Enyart |
 | 200 | 473 | Chuck Gannon |
 | 201 | 470 | Candy Jones |

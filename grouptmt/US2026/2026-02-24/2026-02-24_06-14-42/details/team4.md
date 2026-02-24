@@ -70,8 +70,8 @@
 | 62 | 1106 | BertMofo |
 | 63 | 1094 | Shelly Chandler |
 | 64 | 1089 | Alyssa Papen |
-| 65 | 1082 | Dion Crommarty |
-| 66 | 1082 | Avy Absol |
+| 65 | 1082 | Avy Absol |
+| 66 | 1082 | Dion Crommarty |
 | 67 | 1081 | Dustee Craddock-Harrison |
 | 68 | 1069 | Heather Tushner |
 | 69 | 1056 | Keith Kelley |
@@ -104,8 +104,8 @@
 | 96 | 842 | Aden Moss |
 | 97 | 840 | SAP |
 | 98 | 837 | Rica Mitchell |
-| 99 | 834 | Brittney Orengo |
-| 100 | 834 | quicksand420 |
+| 99 | 834 | quicksand420 |
+| 100 | 834 | Brittney Orengo |
 | 101 | 815 | Diana Houts |
 | 102 | 813 | Klo |
 | 103 | 811 | Sassy Pattern |
@@ -158,8 +158,8 @@
 | 150 | 615 | Kim Hunt |
 | 151 | 608 | Swanky Fitline |
 | 152 | 602 | Cristy Duerksen |
-| 153 | 599 | shar |
-| 154 | 599 | Adam Stephanie Parker |
+| 153 | 599 | Adam Stephanie Parker |
+| 154 | 599 | shar |
 | 155 | 595 | TRCuse |
 | 156 | 591 | Cursed Hag |
 | 157 | 590 | Angela Srubar-Norman |
@@ -210,8 +210,8 @@
 | 202 | 502 | Ericca Eldridge |
 | 203 | 501 | Sharyn Lemire |
 | 204 | 499 | Kesha Brady |
-| 205 | 496 | Lori |
-| 206 | 496 | Jessica Bohlken |
+| 205 | 496 | Jessica Bohlken |
+| 206 | 496 | Lori |
 | 207 | 495 | Joeliecea Cobb |
 | 208 | 493 | Amanda Pauldo-Ivy |
 | 209 | 484 | 🥔🥔 Spudz |
@@ -515,7 +515,7 @@
 | 507 | 227 | 2slo |
 | 508 | 227 | Asher |
 | 509 | 226 | Lane Wasson |
-| 510 | 224 | Shirl |
+| 510 | 224 | Quirky Dash |
 | 511 | 224 | Vanessa Smart |
 | 512 | 224 | Shirl |
 | 513 | 223 | Perky Riser |
