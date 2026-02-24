@@ -128,8 +128,8 @@
 | 120 | 1084 | Santana Lantana |
 | 121 | 1082 | Valerie Gendron |
 | 122 | 1067 | DaBigGuy |
-| 123 | 1066 | Jennifer |
-| 124 | 1066 | Demetrious Shaw Sr. |
+| 123 | 1066 | Demetrious Shaw Sr. |
+| 124 | 1066 | Jennifer |
 | 125 | 1065 | Rachel |
 | 126 | 1055 | Christine Trester |
 | 127 | 1048 | Jesse Olive |
@@ -283,8 +283,8 @@
 | 275 | 561 | Chauntee Alfrey-Cardinale |
 | 276 | 551 | Micayah Stevens |
 | 277 | 547 | Aerian Preston |
-| 278 | 546 | lashanda |
-| 279 | 546 | Cynthia Castros-Hampton |
+| 278 | 546 | Cynthia Castros-Hampton |
+| 279 | 546 | lashanda |
 | 280 | 544 | Angella Lyons |
 | 281 | 544 | Tamara Deherrera |
 | 282 | 542 | France Vézina |
@@ -540,8 +540,8 @@
 | 532 | 317 | Shiny Snapfit |
 | 533 | 317 | Jack Bo |
 | 534 | 317 | Michael Kimbro |
-| 535 | 316 | Travis W |
-| 536 | 316 | Funky Brickster |
+| 535 | 316 | Funky Brickster |
+| 536 | 316 | Travis W |
 | 537 | 315 | Amy Montz |
 | 538 | 314 | toony |
 | 539 | 314 | Rachel Napper |
