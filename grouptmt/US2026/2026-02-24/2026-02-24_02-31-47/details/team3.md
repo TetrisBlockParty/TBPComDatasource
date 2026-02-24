@@ -272,8 +272,8 @@
 | 264 | 548 | Brian Battjes |
 | 265 | 546 | Cynthia Castros-Hampton |
 | 266 | 545 | Aerian Preston |
-| 267 | 544 | Angella Lyons |
-| 268 | 544 | Tamara Deherrera |
+| 267 | 544 | Tamara Deherrera |
+| 268 | 544 | Angella Lyons |
 | 269 | 541 | Gray Hicks |
 | 270 | 540 | Danielle Allison |
 | 271 | 540 | France Vézina |
@@ -282,8 +282,8 @@
 | 274 | 535 | kacihall |
 | 275 | 533 | BugMansMom |
 | 276 | 533 | Cheryl Hinch Tenbrook |
-| 277 | 529 | Michael Lucado |
-| 278 | 529 | rosy |
+| 277 | 529 | rosy |
+| 278 | 529 | Michael Lucado |
 | 279 | 528 | Lizabeth Fox |
 | 280 | 527 | Dapper Snap |
 | 281 | 521 | Cozy Snaplink |

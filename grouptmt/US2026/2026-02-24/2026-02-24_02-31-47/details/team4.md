@@ -94,8 +94,8 @@
 | 86 | 850 | Lisa Davis |
 | 87 | 850 | Lucille Truesdale |
 | 88 | 846 | Christine Marie |
-| 89 | 841 | Shauna Havard |
-| 90 | 841 | Judy Cox |
+| 89 | 841 | Judy Cox |
+| 90 | 841 | Shauna Havard |
 | 91 | 840 | Chaz Duncan |
 | 92 | 834 | quicksand420 |
 | 93 | 826 | Rica Mitchell |
@@ -212,8 +212,8 @@
 | 204 | 461 | TRCuse |
 | 205 | 459 | Mimi |
 | 206 | 457 | Crystal Nicolette Moore |
-| 207 | 457 | Zesty Twistbuilder |
-| 208 | 457 | Kristin Manee |
+| 207 | 457 | Kristin Manee |
+| 208 | 457 | Zesty Twistbuilder |
 | 209 | 457 | June Hoffman |
 | 210 | 455 | Michele Plunkett |
 | 211 | 455 | Kathy Brookins |
