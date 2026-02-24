@@ -22,7 +22,7 @@
 | 14 | 4351 | Cheeky Match |
 | 15 | 4132 | Lush Buildout |
 | 16 | 3761 | Ruby Thompson |
-| 17 | 3505 | mjl574 |
+| 17 | 3489 | mjl574 |
 | 18 | 3474 | Jennifer Willis |
 | 19 | 3409 | Tetris Master |
 | 20 | 3360 | Clever Roll |
@@ -74,8 +74,8 @@
 | 66 | 1623 | cowboy25469 |
 | 67 | 1575 | Jennifer Petrie |
 | 68 | 1572 | Mahman |
-| 69 | 1550 | Gracie |
-| 70 | 1540 | Logan Naccarato |
+| 69 | 1540 | Logan Naccarato |
+| 70 | 1506 | Gracie |
 | 71 | 1503 | Christine Filson |
 | 72 | 1488 | Jay Horn |
 | 73 | 1478 | Katie Knaus |
@@ -252,8 +252,8 @@
 | 244 | 578 | James Mitchell |
 | 245 | 573 | Donna |
 | 246 | 572 | Tessina Dewey-Mancino |
-| 247 | 570 | thekey |
-| 248 | 570 | LaTanya GeminiondaRise Johnson |
+| 247 | 570 | LaTanya GeminiondaRise Johnson |
+| 248 | 570 | thekey |
 | 249 | 569 | Michael Johnson |
 | 250 | 569 | Silly Twist |
 | 251 | 568 | Danielle Balcom |
@@ -336,8 +336,8 @@
 | 328 | 444 | Snazzy Filler |
 | 329 | 443 | Jul |
 | 330 | 442 | Jennifer Alvey |
-| 331 | 436 | AC Yeater |
-| 332 | 436 | Heather De Vries Cobb |
+| 331 | 436 | Heather De Vries Cobb |
+| 332 | 436 | AC Yeater |
 | 333 | 435 | Sabrina Hardrick |
 | 334 | 432 | Jojo M |
 | 335 | 432 | Snippy Wipeout |
@@ -379,11 +379,11 @@
 | 371 | 389 | Kristen Weese |
 | 372 | 389 | ROODBOY |
 | 373 | 388 | Michelle Allers |
-| 374 | 386 | Philip Rock |
-| 375 | 386 | Kelly Wolf |
+| 374 | 386 | Kelly Wolf |
+| 375 | 386 | Philip Rock |
 | 376 | 384 | Tiffany Davie |
-| 377 | 383 | Jessica Christian |
-| 378 | 383 | Nikki White |
+| 377 | 383 | Nikki White |
+| 378 | 383 | Jessica Christian |
 | 379 | 383 | Kirhonda Autmon |
 | 380 | 382 | Rynne Ellis |
 | 381 | 382 | Amanda J. Mcneil-Anderson |
@@ -503,11 +503,11 @@
 | 495 | 315 | Clever Edgepiece |
 | 496 | 314 | Bleu Sun Beams |
 | 497 | 313 | Joseph Vargas |
-| 498 | 313 | Tracey Cox |
-| 499 | 313 | Dakota Graham |
+| 498 | 313 | Dakota Graham |
+| 499 | 313 | Tracey Cox |
 | 500 | 312 | Carol Cain Thurman |
-| 501 | 311 | Irene Arreguin |
-| 502 | 311 | Aponk |
+| 501 | 311 | Aponk |
+| 502 | 311 | Irene Arreguin |
 | 503 | 310 | Kristi Taylor |
 | 504 | 309 | Nikkie Bucciano |
 | 505 | 308 | Bryan Byrd |
@@ -528,9 +528,9 @@
 | 520 | 304 | _melisa223_ |
 | 521 | 304 | Courtney Price |
 | 522 | 303 | Sameerah Smith |
-| 523 | 303 | Cranky Corner |
-| 524 | 303 | Hasty Pop |
-| 525 | 302 | Jessica |
+| 523 | 303 | Hasty Pop |
+| 524 | 302 | Jessica |
+| 525 | 302 | Stephanie Sanchez |
 | 526 | 302 | Tina Smith Roy |
 | 527 | 301 | Heather Ferrara |
 | 528 | 301 | Sunny Lift |

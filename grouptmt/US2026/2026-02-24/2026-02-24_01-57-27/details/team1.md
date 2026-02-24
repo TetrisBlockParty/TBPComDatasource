@@ -156,8 +156,8 @@
 | 148 | 545 | Oscar Zamora |
 | 149 | 544 | Trina Gee |
 | 150 | 543 | Adrian Esteban |
-| 151 | 543 | Death |
-| 152 | 543 | Tipsy Riseclear |
+| 151 | 543 | Tipsy Riseclear |
+| 152 | 543 | Death |
 | 153 | 540 | Tonya Beasley |
 | 154 | 537 | Stephanie Zahn |
 | 155 | 531 | Plucky Ziggy |
@@ -175,8 +175,8 @@
 | 167 | 509 | Dandy Basegrid |
 | 168 | 508 | Arianna O'Brien |
 | 169 | 497 | MIKOZ |
-| 170 | 496 | Michelle Beres |
-| 171 | 496 | Sarah Somers Gray |
+| 170 | 496 | Sarah Somers Gray |
+| 171 | 496 | Michelle Beres |
 | 172 | 494 | Sean Stallings |
 | 173 | 492 | Rebekah LeiAnn Bonsell |
 | 174 | 491 | cc |

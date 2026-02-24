@@ -90,9 +90,9 @@
 | 82 | 869 | Carolyn Wallace |
 | 83 | 864 | Guy Incognito |
 | 84 | 861 | Peachy Fall |
-| 85 | 855 | Chilly Line |
-| 86 | 850 | Lucille Truesdale |
-| 87 | 850 | Lisa Davis |
+| 85 | 850 | Lucille Truesdale |
+| 86 | 850 | Lisa Davis |
+| 87 | 847 | Chilly Line |
 | 88 | 846 | Christine Marie |
 | 89 | 841 | Shauna Havard |
 | 90 | 840 | Chaz Duncan |
@@ -260,8 +260,8 @@
 | 252 | 383 | JPW |
 | 253 | 382 | Sue Joyce Staats |
 | 254 | 381 | Rafael Valentin |
-| 255 | 380 | shark tato |
-| 256 | 380 | Rio Rocha |
+| 255 | 380 | Rio Rocha |
+| 256 | 380 | shark tato |
 | 257 | 379 | Backoff Recupe |
 | 258 | 378 | Googenheim |
 | 259 | 378 | Holly Jolly |

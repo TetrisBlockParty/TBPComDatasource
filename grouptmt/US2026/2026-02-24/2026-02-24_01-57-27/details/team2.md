@@ -26,7 +26,7 @@
 | 18 | 8504 | Sam Smith |
 | 19 | 8495 | Kimberly Michelle Brown |
 | 20 | 8179 | Nar |
-| 21 | 7301 | Trisha Gill |
+| 21 | 7240 | Trisha Gill |
 | 22 | 7112 | Claire Noland |
 | 23 | 7049 | Kyle Saunders |
 | 24 | 7018 | Kevin Wooddell |
@@ -584,8 +584,8 @@
 | 576 | 780 | Breezy Filler |
 | 577 | 780 | Amy Reynolds |
 | 578 | 779 | Trinity Oak |
-| 579 | 777 | Ashley Lopez |
-| 580 | 777 | Tesha Oldaker |
+| 579 | 777 | Tesha Oldaker |
+| 580 | 777 | Ashley Lopez |
 | 581 | 776 | BeQuo |
 | 582 | 774 | Cherrica Newman |
 | 583 | 773 | Heather Anspaugh |
@@ -605,15 +605,15 @@
 | 597 | 758 | Stephanie Neuburger |
 | 598 | 757 | Frisky Clearpiece |
 | 599 | 756 | Aleksandr Gershman |
-| 600 | 755 | Antonio Mckoy Sr. |
-| 601 | 755 | Taryece Gause |
+| 600 | 755 | Taryece Gause |
+| 601 | 755 | Antonio Mckoy Sr. |
 | 602 | 754 | Fae-Bulous |
 | 603 | 754 | Draizen Montrell Thomas |
 | 604 | 751 | Tom Riefer |
 | 605 | 750 | Shalena Marie Humphrey |
-| 606 | 749 | Trisha J Schmidt |
-| 607 | 749 | Hoppy Brickmatch |
-| 608 | 749 | Arwa Fatimah |
+| 606 | 749 | Hoppy Brickmatch |
+| 607 | 749 | Arwa Fatimah |
+| 608 | 749 | Trisha J Schmidt |
 | 609 | 745 | Ronald Higgins |
 | 610 | 743 | Gloria Ininahazwe |
 | 611 | 742 | Cassie Maynard |
