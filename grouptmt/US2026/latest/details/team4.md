@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-24 13:36:42 UTC
+# Standings for team4 as of 2026-02-24 13:37:23 UTC
 
 **Total Participants:** 2036
 
@@ -7,8 +7,8 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 8363 | Bubbly Puzzler |
-| 2 | 8070 | sierrabeth |
-| 3 | 8013 | Devinlee Brown |
+| 2 | 8268 | Devinlee Brown |
+| 3 | 8070 | sierrabeth |
 | 4 | 5656 | Kat |
 | 5 | 5310 | Breannah Grafe |
 | 6 | 5108 | East Mamba |
@@ -62,8 +62,8 @@
 | 54 | 1350 | Toots |
 | 55 | 1324 | Lisa Davis |
 | 56 | 1288 | Pee |
-| 57 | 1267 | Isabel Aguilar |
-| 58 | 1260 | Rachel Anne |
+| 57 | 1280 | Rachel Anne |
+| 58 | 1267 | Isabel Aguilar |
 | 59 | 1241 | Justin Hannigan |
 | 60 | 1235 | Mona Sharma |
 | 61 | 1202 | Ashley Ingram |
