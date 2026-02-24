@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-24 18:36:42 UTC
+# Standings for team4 as of 2026-02-24 18:37:22 UTC
 
 **Total Participants:** 2061
 
@@ -46,7 +46,7 @@
 | 38 | 1631 | Goatimus Lombardi |
 | 39 | 1616 | Dee Kay |
 | 40 | 1612 | Dawn Alexander |
-| 41 | 1597 | Rachel Anne |
+| 41 | 1607 | Rachel Anne |
 | 42 | 1584 | Rebecca Moulton Pinciaro |
 | 43 | 1580 | Eric Mcgaughy |
 | 44 | 1571 | Koshin Abdirahman |
@@ -66,8 +66,8 @@
 | 58 | 1280 | Mona Sharma |
 | 59 | 1267 | Isabel Aguilar |
 | 60 | 1245 | Justin Hannigan |
-| 61 | 1215 | Ashley Ingram |
-| 62 | 1212 | Julian Garcia |
+| 61 | 1240 | Julian Garcia |
+| 62 | 1215 | Ashley Ingram |
 | 63 | 1175 | Kimyatta Cavin |
 | 64 | 1173 | Amelpss |
 | 65 | 1169 | Livvy |
@@ -234,12 +234,12 @@
 | 226 | 506 | scott |
 | 227 | 504 | Deanna Deckard |
 | 228 | 499 | Kesha Brady |
-| 229 | 498 | Silly Zonebuilder |
-| 230 | 496 | Mr. Party |
-| 231 | 496 | Jessica Bohlken |
-| 232 | 495 | Joeliecea Cobb |
-| 233 | 493 | Amanda Pauldo-Ivy |
-| 234 | 490 | Casey Grabner |
+| 229 | 498 | Casey Grabner |
+| 230 | 498 | Silly Zonebuilder |
+| 231 | 496 | Mr. Party |
+| 232 | 496 | Jessica Bohlken |
+| 233 | 495 | Joeliecea Cobb |
+| 234 | 493 | Amanda Pauldo-Ivy |
 | 235 | 489 | Brickh4us |
 | 236 | 485 | meowmew |
 | 237 | 482 | Laura |
@@ -286,18 +286,18 @@
 | 278 | 428 | Gdiguy |
 | 279 | 427 | Blessedmama |
 | 280 | 427 | Chao Ma |
-| 281 | 426 | Andrew Dang |
-| 282 | 426 | Maria Hammie |
+| 281 | 426 | Maria Hammie |
+| 282 | 426 | Andrew Dang |
 | 283 | 425 | Jen Caldwell |
 | 284 | 421 | TinyLegoRose |
 | 285 | 421 | JIGsaw ~(•¿°)~ |
 | 286 | 419 | Hyper Matchclear |
-| 287 | 418 | Jessica Fredericks |
-| 288 | 417 | Denise B |
+| 287 | 419 | Twisty Risebuilder |
+| 288 | 418 | Jessica Fredericks |
 | 289 | 417 | Sandra Safford |
-| 290 | 416 | Googenheim |
-| 291 | 415 | Tina Lopez |
-| 292 | 415 | Twisty Risebuilder |
+| 290 | 417 | Denise B |
+| 291 | 416 | Googenheim |
+| 292 | 415 | Tina Lopez |
 | 293 | 413 | KimoKoala |
 | 294 | 413 | Neirrah B Olailjeel |
 | 295 | 411 | Vic |
@@ -396,10 +396,10 @@
 | 388 | 330 | Duck |
 | 389 | 329 | Meagan Nicole |
 | 390 | 329 | Jenna McGeorge |
-| 391 | 328 | Leah Kutz Zirbel |
-| 392 | 326 | Lazy Glidepiece |
-| 393 | 325 | Dustin York |
-| 394 | 325 | Zany Shatterer |
+| 391 | 329 | Zany Shatterer |
+| 392 | 328 | Leah Kutz Zirbel |
+| 393 | 326 | Lazy Glidepiece |
+| 394 | 325 | Dustin York |
 | 395 | 325 | Rodney Wheeler |
 | 396 | 324 | Shh |
 | 397 | 324 | Groovy Shiftspin |
@@ -539,10 +539,10 @@
 | 531 | 250 | Peachy Brickster |
 | 532 | 249 | Joseph Pace |
 | 533 | 248 | Victoria Faniel |
-| 534 | 248 | Vanessa Smart |
-| 535 | 248 | Chirpy Basepiece |
-| 536 | 248 | Gilles Lanctot |
-| 537 | 247 | Jesse Saville |
+| 534 | 248 | Jesse Saville |
+| 535 | 248 | Vanessa Smart |
+| 536 | 248 | Chirpy Basepiece |
+| 537 | 248 | Gilles Lanctot |
 | 538 | 246 | Joseph Edmonson |
 | 539 | 246 | Shanon Klair |
 | 540 | 246 | Tanya Abernathy Jackson |
