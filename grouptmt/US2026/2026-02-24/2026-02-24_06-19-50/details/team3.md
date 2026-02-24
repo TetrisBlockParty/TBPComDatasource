@@ -171,8 +171,8 @@
 | 163 | 875 | Chasity |
 | 164 | 874 | Jessica Pineda-Lopez |
 | 165 | 871 | Rochelle Hazelett |
-| 166 | 868 | Cranky Gridder |
-| 167 | 868 | Nicole Flippo |
+| 166 | 868 | Nicole Flippo |
+| 167 | 868 | Cranky Gridder |
 | 168 | 866 | Domo Washington |
 | 169 | 864 | Sunny Rotater |
 | 170 | 862 | Santeria Trece Candles |
@@ -198,8 +198,8 @@
 | 190 | 784 | Jone |
 | 191 | 783 | Julian Murphy |
 | 192 | 777 | Daryn Elliott |
-| 193 | 774 | Twisty Brick LT |
-| 194 | 774 | ren |
+| 193 | 774 | ren |
+| 194 | 774 | Twisty Brick LT |
 | 195 | 772 | Tye Stovall |
 | 196 | 769 | Hasty Cascadefit |
 | 197 | 768 | Cyd061769 |
@@ -329,8 +329,8 @@
 | 321 | 490 | Cassandra Bryant |
 | 322 | 489 | Isabel Ocasio |
 | 323 | 487 | MsBee |
-| 324 | 486 | Skippy |
-| 325 | 486 | Sleepy |
+| 324 | 486 | Sleepy |
+| 325 | 486 | Skippy |
 | 326 | 482 | Chummy Rumbler |
 | 327 | 481 | Tiffanie Alley |
 | 328 | 480 | Dee Franklin |
@@ -345,8 +345,8 @@
 | 337 | 465 | Noettín Kan Zasnemoore |
 | 338 | 465 | Blocked |
 | 339 | 464 | Snazzy Filler |
-| 340 | 462 | Tegan Chapman |
-| 341 | 462 | Brandon Givens |
+| 340 | 462 | Brandon Givens |
+| 341 | 462 | Tegan Chapman |
 | 342 | 461 | Hyper Bridger |
 | 343 | 461 | Briana Wellman |
 | 344 | 460 | Antonia Russell |

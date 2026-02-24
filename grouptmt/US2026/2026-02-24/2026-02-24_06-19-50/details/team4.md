@@ -163,10 +163,10 @@
 | 155 | 595 | TRCuse |
 | 156 | 591 | Cursed Hag |
 | 157 | 590 | Angela Srubar-Norman |
-| 158 | 587 | YoMomma |
-| 159 | 587 | Livvy |
-| 160 | 586 | Carlos Ramirez |
-| 161 | 586 | Latisha Davis |
+| 158 | 587 | Livvy |
+| 159 | 587 | YoMomma |
+| 160 | 586 | Latisha Davis |
+| 161 | 586 | Carlos Ramirez |
 | 162 | 584 | Carlton Unfiltered |
 | 163 | 576 | Jade Rian |
 | 164 | 575 | Jenna Ingersoll |
@@ -206,8 +206,8 @@
 | 198 | 508 | Milan Markeisha |
 | 199 | 507 | Andria Lynn |
 | 200 | 504 | Deanna Deckard |
-| 201 | 502 | Christina Black |
-| 202 | 502 | Ericca Eldridge |
+| 201 | 502 | Ericca Eldridge |
+| 202 | 502 | Christina Black |
 | 203 | 501 | Sharyn Lemire |
 | 204 | 499 | Kesha Brady |
 | 205 | 496 | Jessica Bohlken |
@@ -387,8 +387,8 @@
 | 379 | 296 | Dapper Frame |
 | 380 | 295 | Deb Rubeck |
 | 381 | 294 | Dan Wold |
-| 382 | 294 | BootsMcGee |
-| 383 | 294 | Kevin Bush |
+| 382 | 294 | Kevin Bush |
+| 383 | 294 | BootsMcGee |
 | 384 | 292 | Jumpy Zonepiece |
 | 385 | 292 | Epic Curvetile |
 | 386 | 291 | DQ Martin |
@@ -439,7 +439,7 @@
 | 431 | 261 | Laura McPheeters |
 | 432 | 260 | Dustin York |
 | 433 | 260 | Bussy Bay |
-| 434 | 260 | Dustin York |
+| 434 | 260 | PennyCandee |
 | 435 | 258 | April Spoelma |
 | 436 | 257 | ThriftySpice |
 | 437 | 256 | bloat princess |
@@ -462,8 +462,8 @@
 | 454 | 248 | Speedy Cascadeclear |
 | 455 | 248 | Jose Dejesus |
 | 456 | 247 | Sam Middleton |
-| 457 | 246 | giantslover514 |
-| 458 | 246 | GBR |
+| 457 | 246 | GBR |
+| 458 | 246 | giantslover514 |
 | 459 | 246 | Shanon Klair |
 | 460 | 245 | Brooke Kaune |
 | 461 | 245 | Ashlee Carnes |

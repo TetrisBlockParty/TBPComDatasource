@@ -383,8 +383,8 @@
 | 375 | 1177 | Kennedy Sandifer |
 | 376 | 1173 | Giggy Blocker |
 | 377 | 1172 | Lakeysha Dortch |
-| 378 | 1171 | Loretta Brewer-Gage |
-| 379 | 1171 | Arkei Luster |
+| 378 | 1171 | Arkei Luster |
+| 379 | 1171 | Loretta Brewer-Gage |
 | 380 | 1170 | Shelley Thornburgh Wright |
 | 381 | 1167 | Min |
 | 382 | 1164 | DefaultUser |
@@ -400,8 +400,8 @@
 | 392 | 1137 | Kenny Alvarado |
 | 393 | 1136 | Ashlen Dorrell |
 | 394 | 1123 | Jodi Mitnick |
-| 395 | 1119 | Bubbly Snapfit |
-| 396 | 1119 | Teresa Gillmore |
+| 395 | 1119 | Teresa Gillmore |
+| 396 | 1119 | Bubbly Snapfit |
 | 397 | 1118 | Ibiza Carolina LaRose |
 | 398 | 1116 | Wakanda Forever |
 | 399 | 1116 | Em Chen |
@@ -454,8 +454,8 @@
 | 446 | 1033 | Andrea Maher |
 | 447 | 1025 | Ann Matzkanin |
 | 448 | 1024 | Tiara Elizabeth Baker |
-| 449 | 1024 | KrisCynthia Lynette |
-| 450 | 1024 | Susan Perraut Jones |
+| 449 | 1024 | Susan Perraut Jones |
+| 450 | 1024 | KrisCynthia Lynette |
 | 451 | 1018 | Eric Castaneda |
 | 452 | 1018 | Donna M Carter |
 | 453 | 1016 | Jennie Lee Huntley |
@@ -1035,8 +1035,8 @@
 | 1027 | 557 | Anita Rose Green |
 | 1028 | 557 | Marina Linda |
 | 1029 | 556 | Kamilya Rembert |
-| 1030 | 555 | Glitzy Rollblock |
-| 1031 | 555 | Noel Tarmy |
+| 1030 | 555 | Noel Tarmy |
+| 1031 | 555 | Glitzy Rollblock |
 | 1032 | 555 | Amy Roche |
 | 1033 | 554 | Cheery Puzzler |
 | 1034 | 554 | Hoppy Glidebuilder |
