@@ -167,8 +167,8 @@
 | 159 | 548 | Luciano Moreira |
 | 160 | 547 | Sharon Reynolds |
 | 161 | 546 | Loony Fitzone |
-| 162 | 543 | Adrian Esteban |
-| 163 | 543 | Nicole Roseberry Weber |
+| 162 | 543 | Nicole Roseberry Weber |
+| 163 | 543 | Adrian Esteban |
 | 164 | 540 | Tonya Beasley |
 | 165 | 538 | .running. |
 | 166 | 537 | Stephanie Zahn |
@@ -226,8 +226,8 @@
 | 218 | 431 | Tipsy Strikerpiece |
 | 219 | 429 | Tana |
 | 220 | 427 | Jessie Lynn |
-| 221 | 426 | Betsy |
-| 222 | 426 | Brenda Alexander |
+| 221 | 426 | Brenda Alexander |
+| 222 | 426 | Betsy |
 | 223 | 425 | Tyler Werts |
 | 224 | 424 | Emily Adelaide Wheatley |
 | 225 | 424 | Chelsea Dahlquist |
