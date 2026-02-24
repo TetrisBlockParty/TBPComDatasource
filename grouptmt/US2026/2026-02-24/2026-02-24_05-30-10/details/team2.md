@@ -159,8 +159,8 @@
 | 151 | 2255 | Thalia Watkins |
 | 152 | 2254 | Alicia Parrish |
 | 153 | 2237 | niecy |
-| 154 | 2219 | Porsche' Nicole |
-| 155 | 2219 | Denise Rickman |
+| 154 | 2219 | Denise Rickman |
+| 155 | 2219 | Porsche' Nicole |
 | 156 | 2217 | Christopher Sanders |
 | 157 | 2173 | Steph Bug Peterson |
 | 158 | 2170 | Steve Grotto |
@@ -178,8 +178,8 @@
 | 170 | 2056 | Tonya Brooks-Johnson |
 | 171 | 2048 | Jose Mendoza |
 | 172 | 2007 | Hannah Erskine |
-| 173 | 2005 | Cody Smith-Candelaria |
-| 174 | 2005 | Cody Nishimura |
+| 173 | 2005 | Cody Nishimura |
+| 174 | 2005 | Cody Smith-Candelaria |
 | 175 | 1989 | Cozy Filler |
 | 176 | 1984 | Jane Fong |
 | 177 | 1983 | Tonya Morgan |
@@ -198,8 +198,8 @@
 | 190 | 1872 | Janel Turley-Garner |
 | 191 | 1855 | Missie Lawson Gebhardt |
 | 192 | 1851 | Kristopher Miller |
-| 193 | 1845 | Katrina Weston |
-| 194 | 1845 | Jessie McDougald |
+| 193 | 1845 | Jessie McDougald |
+| 194 | 1845 | Katrina Weston |
 | 195 | 1840 | blarg |
 | 196 | 1829 | Mr. Street Stack |
 | 197 | 1826 | Dee |
