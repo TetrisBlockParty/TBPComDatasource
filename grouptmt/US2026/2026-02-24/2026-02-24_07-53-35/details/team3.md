@@ -82,8 +82,8 @@
 | 74 | 1633 | cowboy25469 |
 | 75 | 1625 | Queen Kam |
 | 76 | 1615 | joclisa |
-| 77 | 1566 | Marcie Bressler |
-| 78 | 1566 | Nerdy Riseclear |
+| 77 | 1566 | Nerdy Riseclear |
+| 78 | 1566 | Marcie Bressler |
 | 79 | 1560 | Logan Naccarato |
 | 80 | 1555 | Snappy Glidepiece |
 | 81 | 1518 | Christine Filson |
@@ -155,8 +155,8 @@
 | 147 | 966 | Sashay Tapae Simpson |
 | 148 | 963 | Crystal Frey |
 | 149 | 961 | Danielle Allison |
-| 150 | 950 | Giddy Drop |
-| 151 | 950 | MissTaylor |
+| 150 | 950 | MissTaylor |
+| 151 | 950 | Giddy Drop |
 | 152 | 940 | Patty Allen |
 | 153 | 940 | Stephanie Allmon |
 | 154 | 936 | Dolores Falco |
@@ -180,8 +180,8 @@
 | 172 | 857 | Dana Fox |
 | 173 | 856 | Dana Winters |
 | 174 | 854 | Speedy Bridger |
-| 175 | 847 | Daira Largen |
-| 176 | 847 | Daring Brickzone |
+| 175 | 847 | Daring Brickzone |
+| 176 | 847 | Daira Largen |
 | 177 | 846 | Nicole Myers |
 | 178 | 845 | Edwin Calvillo Jr. |
 | 179 | 842 | Tye Stovall |
@@ -307,8 +307,8 @@
 | 299 | 540 | rosy |
 | 300 | 539 | Fancy Curver |
 | 301 | 539 | Kate M. Murdock |
-| 302 | 536 | Shannon Matthew Byers |
-| 303 | 536 | Giddy Twistbuilder |
+| 302 | 536 | Giddy Twistbuilder |
+| 303 | 536 | Shannon Matthew Byers |
 | 304 | 535 | kacihall |
 | 305 | 533 | BugMansMom |
 | 306 | 532 | Sarah Muradyan |
@@ -323,9 +323,9 @@
 | 315 | 506 | Ammmmmmy |
 | 316 | 505 | Stephanie Simpson |
 | 317 | 500 | Ashley Tookes |
-| 318 | 499 | Rebecca Bailey |
+| 318 | 499 | Megan Rathmanner |
 | 319 | 499 | Gumbo |
-| 320 | 499 | Megan Rathmanner |
+| 320 | 499 | Rebecca Bailey |
 | 321 | 496 | Brenda Schmid Wood |
 | 322 | 495 | Daring Builder |
 | 323 | 494 | MCV |
@@ -334,22 +334,22 @@
 | 326 | 490 | Cassandra Bryant |
 | 327 | 489 | Isabel Ocasio |
 | 328 | 487 | MsBee |
-| 329 | 486 | Skippy |
-| 330 | 486 | Sleepy |
+| 329 | 486 | Sleepy |
+| 330 | 486 | Skippy |
 | 331 | 483 | Tegan Chapman |
 | 332 | 482 | Chummy Rumbler |
 | 333 | 481 | Tiffanie Alley |
-| 334 | 480 | TLM |
-| 335 | 480 | Dee Franklin |
+| 334 | 480 | Dee Franklin |
+| 335 | 480 | TLM |
 | 336 | 479 | Charles Perrone |
 | 337 | 476 | Shunta Jacobs |
 | 338 | 474 | Troy |
 | 339 | 471 | Mendoza Lee Christy |
 | 340 | 471 | Sarah Moyer |
-| 341 | 467 | Jul |
-| 342 | 467 | Danielle Rhoades |
-| 343 | 465 | Noettín Kan Zasnemoore |
-| 344 | 465 | Blocked |
+| 341 | 467 | Danielle Rhoades |
+| 342 | 467 | Jul |
+| 343 | 465 | Blocked |
+| 344 | 465 | Noettín Kan Zasnemoore |
 | 345 | 464 | Snazzy Filler |
 | 346 | 462 | Brandon Givens |
 | 347 | 461 | Hyper Bridger |
@@ -375,8 +375,8 @@
 | 367 | 443 | Christian Werndl |
 | 368 | 442 | Loopy Fallzone |
 | 369 | 438 | Dannie Litchard |
-| 370 | 436 | AC Yeater |
-| 371 | 436 | Julie Fratrik |
+| 370 | 436 | Julie Fratrik |
+| 371 | 436 | AC Yeater |
 | 372 | 435 | Sabrina Hardrick |
 | 373 | 434 | Criss |
 | 374 | 432 | Justice 4 P |
