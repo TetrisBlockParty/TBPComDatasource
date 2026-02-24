@@ -109,8 +109,8 @@
 | 101 | 804 | SAP |
 | 102 | 803 | Diana Houts |
 | 103 | 802 | Crystal Carroll |
-| 104 | 798 | Jewell Urban |
-| 105 | 798 | Klo |
+| 104 | 798 | Klo |
+| 105 | 798 | Jewell Urban |
 | 106 | 796 | Denise Carlson |
 | 107 | 781 | Brittney Griggs |
 | 108 | 780 | TheNeesh50 |
@@ -250,8 +250,8 @@
 | 242 | 431 | Manny1 |
 | 243 | 428 | Chris Bernstein |
 | 244 | 427 | Chao Ma |
-| 245 | 421 | Andrew Dang |
-| 246 | 421 | JIGsaw ~(•¿°)~ |
+| 245 | 421 | JIGsaw ~(•¿°)~ |
+| 246 | 421 | Andrew Dang |
 | 247 | 419 | Gdiguy |
 | 248 | 413 | Jeff Brian Gates |
 | 249 | 411 | Autumn Kumzi |

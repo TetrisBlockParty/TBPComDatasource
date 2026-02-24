@@ -108,8 +108,8 @@
 | 100 | 773 | Susanna Guerry |
 | 101 | 772 | Kathy Langham |
 | 102 | 770 | Zappy Curvetile |
-| 103 | 769 | Angel Fowler |
-| 104 | 769 | Robert Benito |
+| 103 | 769 | Robert Benito |
+| 104 | 769 | Angel Fowler |
 | 105 | 768 | Jazzy Framezone |
 | 106 | 756 | Cartier |
 | 107 | 751 | Kellie |
@@ -250,8 +250,8 @@
 | 242 | 399 | Lakeisha Chapman |
 | 243 | 398 | MommaKFC |
 | 244 | 397 | Alenoush Karimian |
-| 245 | 396 | Sam Williams |
-| 246 | 396 | Monica Donato |
+| 245 | 396 | Monica Donato |
+| 246 | 396 | Sam Williams |
 | 247 | 395 | Tami Luce Martin |
 | 248 | 394 | Angela Spann |
 | 249 | 393 | Wisa |
@@ -278,11 +278,11 @@
 | 270 | 374 | Snappy Brickbuilder |
 | 271 | 373 | Jamie Jury |
 | 272 | 373 | Frothy Pattern |
-| 273 | 372 | Wayne Saunders |
-| 274 | 372 | Dizzy Party |
+| 273 | 372 | Dizzy Party |
+| 274 | 372 | Wayne Saunders |
 | 275 | 371 | Jaimie Lynn |
-| 276 | 370 | Chantelle Ceno |
-| 277 | 370 | Gracie |
+| 276 | 370 | Gracie |
+| 277 | 370 | Chantelle Ceno |
 | 278 | 367 | Cheeky Pop |
 | 279 | 366 | J.F. Fields |
 | 280 | 366 | Danielle S Kester |

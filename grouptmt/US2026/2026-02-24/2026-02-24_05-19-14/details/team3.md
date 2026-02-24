@@ -80,8 +80,8 @@
 | 72 | 1646 | Gracie |
 | 73 | 1633 | cowboy25469 |
 | 74 | 1620 | Queen Kam |
-| 75 | 1566 | Marcie Bressler |
-| 76 | 1566 | Nerdy Riseclear |
+| 75 | 1566 | Nerdy Riseclear |
+| 76 | 1566 | Marcie Bressler |
 | 77 | 1560 | Logan Naccarato |
 | 78 | 1555 | Snappy Glidepiece |
 | 79 | 1552 | joclisa |
