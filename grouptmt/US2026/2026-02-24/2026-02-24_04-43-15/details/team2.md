@@ -460,8 +460,8 @@
 | 452 | 991 | Della Hole |
 | 453 | 990 | Crystie Hicks |
 | 454 | 986 | Sabrena Yeisley |
-| 455 | 986 | AgileDragon |
-| 456 | 986 | Mandi Douglas Hilt |
+| 455 | 986 | Mandi Douglas Hilt |
+| 456 | 986 | AgileDragon |
 | 457 | 982 | Jackie Burnett |
 | 458 | 981 | Block Master |
 | 459 | 979 | Fae-Bulous |
@@ -591,25 +591,25 @@
 | 583 | 815 | Shea Edison |
 | 584 | 813 | Krys |
 | 585 | 813 | Ganieda |
-| 586 | 812 | bbv |
-| 587 | 812 | Samantha Jo |
+| 586 | 812 | Samantha Jo |
+| 587 | 812 | bbv |
 | 588 | 811 | Kimberly Randesi |
 | 589 | 811 | Dreamy Blast |
 | 590 | 811 | Samuel Macon |
 | 591 | 809 | Melissa Cole |
 | 592 | 809 | Melissa Holsinger |
 | 593 | 808 | Justin Edwards |
-| 594 | 806 | Mikayala Szaz |
-| 595 | 806 | Eunique Griffin |
-| 596 | 806 | Jc Gilk |
-| 597 | 806 | Mighty Spinbuilder |
+| 594 | 806 | Jc Gilk |
+| 595 | 806 | Mighty Spinbuilder |
+| 596 | 806 | Mikayala Szaz |
+| 597 | 806 | Eunique Griffin |
 | 598 | 805 | Danielle Simmons |
 | 599 | 805 | Vanessa Moreno |
 | 600 | 802 | Trisha Gallagher |
 | 601 | 800 | Anthony |
-| 602 | 795 | Aletha Williams |
+| 602 | 795 | Carrie Mitchell |
 | 603 | 795 | Alexandra Weir |
-| 604 | 795 | Carrie Mitchell |
+| 604 | 795 | Aletha Williams |
 | 605 | 793 | Heather Anspaugh |
 | 606 | 792 | Beatboxxer |
 | 607 | 789 | De'Jah Charncey |
@@ -618,8 +618,8 @@
 | 610 | 786 | Ashe Corso |
 | 611 | 785 | Daniel Amos |
 | 612 | 781 | Amanda Ferrell |
-| 613 | 780 | Breezy Filler |
-| 614 | 780 | Megan Kitchner |
+| 613 | 780 | Megan Kitchner |
+| 614 | 780 | Breezy Filler |
 | 615 | 780 | Amy Reynolds |
 | 616 | 779 | Trinity Oak |
 | 617 | 777 | Ashley Lopez |

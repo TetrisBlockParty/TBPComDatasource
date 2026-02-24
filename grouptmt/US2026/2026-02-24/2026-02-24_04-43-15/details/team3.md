@@ -127,8 +127,8 @@
 | 119 | 1084 | Santana Lantana |
 | 120 | 1082 | Valerie Gendron |
 | 121 | 1067 | DaBigGuy |
-| 122 | 1066 | Jennifer |
-| 123 | 1066 | Demetrious Shaw Sr. |
+| 122 | 1066 | Demetrious Shaw Sr. |
+| 123 | 1066 | Jennifer |
 | 124 | 1065 | Rachel |
 | 125 | 1055 | Christine Trester |
 | 126 | 1050 | Sherika C. McDaniels |
@@ -256,15 +256,15 @@
 | 248 | 605 | Sarah Cowan Burgos |
 | 249 | 604 | Bmo |
 | 250 | 602 | Dee Pratt |
-| 251 | 600 | Natasha Jones |
-| 252 | 600 | Connie Mohler-Fair |
-| 253 | 599 | Sherry Ogden |
-| 254 | 599 | Noyb Adam |
+| 251 | 600 | Connie Mohler-Fair |
+| 252 | 600 | Natasha Jones |
+| 253 | 599 | Noyb Adam |
+| 254 | 599 | Sherry Ogden |
 | 255 | 598 | Kaycee Kay |
 | 256 | 595 | Betty Rosas |
 | 257 | 588 | Salena Whitlock |
-| 258 | 586 | Donna |
-| 259 | 586 | Brian Battjes |
+| 258 | 586 | Brian Battjes |
+| 259 | 586 | Donna |
 | 260 | 582 | FuzzyNavel |
 | 261 | 578 | James Mitchell |
 | 262 | 574 | Rachael McClain Owens |
@@ -272,8 +272,8 @@
 | 264 | 572 | Tessina Dewey-Mancino |
 | 265 | 570 | Fallorina Susana |
 | 266 | 570 | thekey |
-| 267 | 569 | Michael Johnson |
-| 268 | 569 | Silly Twist |
+| 267 | 569 | Silly Twist |
+| 268 | 569 | Michael Johnson |
 | 269 | 568 | Danielle Balcom |
 | 270 | 566 | Eileen Brady Thurber |
 | 271 | 562 | Dave Herzog |
@@ -633,7 +633,7 @@
 | 625 | 276 | Justice 4 P |
 | 626 | 275 | Richard Saunders |
 | 627 | 275 | Hyper Twisterfit |
-| 628 | 275 | Scott Doss |
+| 628 | 275 | Bnoom |
 | 629 | 275 | Mariah Williams |
 | 630 | 275 | Scott Doss |
 | 631 | 274 | Gina Marie |
