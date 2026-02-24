@@ -51,8 +51,8 @@
 | 43 | 1497 | Juggalo |
 | 44 | 1478 | Sammy Noguera |
 | 45 | 1469 | Kimberly Love |
-| 46 | 1461 | Yoset Mejia |
-| 47 | 1461 | Shane Kalamata Platoon |
+| 46 | 1461 | Shane Kalamata Platoon |
+| 47 | 1461 | Yoset Mejia |
 | 48 | 1456 | Michelle Marie |
 | 49 | 1430 | Landon Keith Graffeo |
 | 50 | 1386 | Jen Allison |
@@ -262,8 +262,8 @@
 | 254 | 442 | John Brunetti |
 | 255 | 441 | Lush Linkfall |
 | 256 | 440 | Brickh4us |
-| 257 | 438 | Melvin Baird |
-| 258 | 438 | 23 |
+| 257 | 438 | 23 |
+| 258 | 438 | Melvin Baird |
 | 259 | 434 | Ramel Rhodes |
 | 260 | 432 | Jason Gibbs |
 | 261 | 430 | 030Synner |
@@ -293,8 +293,8 @@
 | 285 | 402 | Maria Hammie |
 | 286 | 398 | Tyler Terrific |
 | 287 | 397 | blockstar |
-| 288 | 395 | BigSammy420 |
-| 289 | 395 | Denise B |
+| 288 | 395 | Denise B |
+| 289 | 395 | BigSammy420 |
 | 290 | 394 | Nikki Rae Gordon |
 | 291 | 393 | Montiette Mcglown |
 | 292 | 390 | Ari Droff |

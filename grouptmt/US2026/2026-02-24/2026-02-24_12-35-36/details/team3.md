@@ -32,8 +32,8 @@
 | 24 | 3221 | Ashley Jones |
 | 25 | 3118 | Jamie Lang |
 | 26 | 3042 | Nerdy Spinblock |
-| 27 | 2933 | Dan Rob |
-| 28 | 2933 | Grego Daniel |
+| 27 | 2933 | Grego Daniel |
+| 28 | 2933 | Dan Rob |
 | 29 | 2874 | Zippy Strikesnap |
 | 30 | 2873 | Chummy Shatterer |
 | 31 | 2816 | Fancy Slam |
@@ -70,8 +70,8 @@
 | 62 | 1868 | Kristie McFarland |
 | 63 | 1836 | Tina Kay |
 | 64 | 1825 | Nora Rogers |
-| 65 | 1824 | Jessica Ann |
-| 66 | 1824 | Nate Burnside |
+| 65 | 1824 | Nate Burnside |
+| 66 | 1824 | Jessica Ann |
 | 67 | 1791 | Leah Barnett |
 | 68 | 1776 | Whitney Manuel |
 | 69 | 1774 | Liv Whetson |
@@ -111,8 +111,8 @@
 | 103 | 1311 | JerseyJess |
 | 104 | 1309 | yoyo |
 | 105 | 1297 | Shelby Michelle |
-| 106 | 1282 | Amanda L Baker |
-| 107 | 1282 | Peppy Shifter |
+| 106 | 1282 | Peppy Shifter |
+| 107 | 1282 | Amanda L Baker |
 | 108 | 1280 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1248 | Lori Barnaby |
@@ -127,8 +127,8 @@
 | 119 | 1152 | Julian Murphy |
 | 120 | 1124 | Stephanie Rice |
 | 121 | 1121 | Corie A. Brinson |
-| 122 | 1114 | Groovy Catcher |
-| 123 | 1114 | Loopy Fallmatch |
+| 122 | 1114 | Loopy Fallmatch |
+| 123 | 1114 | Groovy Catcher |
 | 124 | 1105 | Adrian Marcel Pate |
 | 125 | 1101 | Rachel |
 | 126 | 1101 | Valerie Gendron |
@@ -328,8 +328,8 @@
 | 320 | 518 | Marquita Sheard |
 | 321 | 516 | Skippy |
 | 322 | 514 | Nikki White |
-| 323 | 506 | Tiffanie Alley |
-| 324 | 506 | Ammmmmmy |
+| 323 | 506 | Ammmmmmy |
+| 324 | 506 | Tiffanie Alley |
 | 325 | 504 | Daring Builder |
 | 326 | 500 | Ashley Tookes |
 | 327 | 499 | Megan Rathmanner |
@@ -495,8 +495,8 @@
 | 487 | 356 | Nikkie Bucciano |
 | 488 | 356 | Jimmie Clemons |
 | 489 | 354 | Norma JulieMay |
-| 490 | 353 | Cheeky Snapper |
-| 491 | 353 | Erika Apodaca |
+| 490 | 353 | Erika Apodaca |
+| 491 | 353 | Cheeky Snapper |
 | 492 | 353 | Eboni G. |
 | 493 | 352 | LadyTorad |
 | 494 | 352 | Scott Doss |
