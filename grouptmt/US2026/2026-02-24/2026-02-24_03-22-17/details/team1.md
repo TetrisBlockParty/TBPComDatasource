@@ -184,8 +184,8 @@
 | 176 | 496 | Michelle Beres |
 | 177 | 496 | Sarah Somers Gray |
 | 178 | 494 | Sean Stallings |
-| 179 | 492 | Rebekah LeiAnn Bonsell |
-| 180 | 492 | Happy Snapbuild |
+| 179 | 492 | Happy Snapbuild |
+| 180 | 492 | Rebekah LeiAnn Bonsell |
 | 181 | 490 | Jennifer Hardman |
 | 182 | 489 | Speedy Liney |
 | 183 | 488 | Hyper |
@@ -413,11 +413,11 @@
 | 405 | 273 | Carlos Floyd |
 | 406 | 272 | Lyn Sibayan |
 | 407 | 272 | Rachel Copas |
-| 408 | 271 | Patty Lavigne Craddock |
-| 409 | 271 | Amanda Wharton |
+| 408 | 271 | Amanda Wharton |
+| 409 | 271 | Patty Lavigne Craddock |
 | 410 | 271 | Al Smith Jr |
-| 411 | 270 | Ariel Whittington |
-| 412 | 270 | Brenda Alexander |
+| 411 | 270 | Brenda Alexander |
+| 412 | 270 | Ariel Whittington |
 | 413 | 269 | Ramona Shaver |
 | 414 | 268 | Debbie Davis |
 | 415 | 265 | Cranky Pattern |

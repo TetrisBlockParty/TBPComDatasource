@@ -164,8 +164,8 @@
 | 156 | 873 | BadManSheLove |
 | 157 | 871 | Rochelle Hazelett |
 | 158 | 868 | Cranky Gridder |
-| 159 | 868 | Felicia Rocha |
-| 160 | 868 | Nicole Flippo |
+| 159 | 868 | Nicole Flippo |
+| 160 | 868 | Felicia Rocha |
 | 161 | 864 | Sunny Rotater |
 | 162 | 862 | Santeria Trece Candles |
 | 163 | 862 | Cherry Parker |
@@ -286,8 +286,8 @@
 | 278 | 536 | Giddy Twistbuilder |
 | 279 | 536 | Shannon Matthew Byers |
 | 280 | 535 | kacihall |
-| 281 | 533 | Cheryl Hinch Tenbrook |
-| 282 | 533 | BugMansMom |
+| 281 | 533 | BugMansMom |
+| 282 | 533 | Cheryl Hinch Tenbrook |
 | 283 | 531 | rosy |
 | 284 | 529 | Michael Lucado |
 | 285 | 528 | Lizabeth Fox |

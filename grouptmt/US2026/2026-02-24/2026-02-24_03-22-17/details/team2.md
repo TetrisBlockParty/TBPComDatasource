@@ -119,8 +119,8 @@
 | 111 | 2687 | Kelsey Kyle Rhodes |
 | 112 | 2670 | Rosemadder |
 | 113 | 2666 | ShinyRose |
-| 114 | 2651 | Desiree Harris Rosch |
-| 115 | 2651 | Rebecca Doughman |
+| 114 | 2651 | Rebecca Doughman |
+| 115 | 2651 | Desiree Harris Rosch |
 | 116 | 2641 | Freya |
 | 117 | 2613 | Jen Tramack |
 | 118 | 2596 | Mema |
@@ -336,8 +336,8 @@
 | 328 | 1229 | Brenda Messer |
 | 329 | 1227 | Rebecca Miller |
 | 330 | 1225 | RAEPR05 |
-| 331 | 1222 | Nuke Morris |
-| 332 | 1222 | Ashle Scranton |
+| 331 | 1222 | Ashle Scranton |
+| 332 | 1222 | Nuke Morris |
 | 333 | 1222 | Kristin Gower |
 | 334 | 1218 | LaKisha Anderson |
 | 335 | 1217 | Brooks Brooks |
@@ -409,7 +409,7 @@
 | 401 | 1071 | Nashu |
 | 402 | 1071 | Kim Dean |
 | 403 | 1068 | Tiffany Branham |
-| 404 | 1067 | Caitlin Schmid |
+| 404 | 1067 | Taylor Phillips |
 | 405 | 1067 | Lourisha |
 | 406 | 1067 | Caitlin Schmid |
 | 407 | 1056 | Amber Shoemaker |
@@ -420,9 +420,9 @@
 | 412 | 1044 | Hunter Connors |
 | 413 | 1043 | Brave Dropmatch |
 | 414 | 1042 | Kia Humphery |
-| 415 | 1042 | Matthew Barry |
+| 415 | 1042 | Spunkysmom |
 | 416 | 1042 | Mcintosh Brian Shalonda |
-| 417 | 1042 | Spunkysmom |
+| 417 | 1042 | Matthew Barry |
 | 418 | 1041 | Crystal Hoffman |
 | 419 | 1038 | Giggly Snap |
 | 420 | 1036 | Allison Lockyer |
@@ -468,8 +468,8 @@
 | 460 | 964 | John Bednarik |
 | 461 | 962 | Antionette Sewell |
 | 462 | 962 | Kathleen Driskell |
-| 463 | 960 | KhaosLord |
-| 464 | 960 | Smashanator |
+| 463 | 960 | Smashanator |
+| 464 | 960 | KhaosLord |
 | 465 | 957 | Jennie Lee Huntley |
 | 466 | 956 | Lonne Emade |
 | 467 | 956 | Jenn Marie |
@@ -482,8 +482,8 @@
 | 474 | 942 | Lisa Ongtowasruk |
 | 475 | 941 | Cool Clearer |
 | 476 | 940 | Jennifer Leigh |
-| 477 | 937 | Heather Schelkopf |
-| 478 | 937 | Fancy Twister |
+| 477 | 937 | Fancy Twister |
+| 478 | 937 | Heather Schelkopf |
 | 479 | 936 | Angie Bolton Workman |
 | 480 | 935 | Kayla |
 | 481 | 933 | Hershey Eastman |
@@ -621,13 +621,13 @@
 | 613 | 766 | Diamond Scott |
 | 614 | 766 | Angela Cagle Silmon |
 | 615 | 764 | Mia Muse Best |
-| 616 | 763 | Chelle |
-| 617 | 763 | Megan Kitchner |
-| 618 | 763 | Heather Causey |
+| 616 | 763 | Megan Kitchner |
+| 617 | 763 | Heather Causey |
+| 618 | 763 | Chelle |
 | 619 | 761 | Cecilia A Jenkins |
 | 620 | 761 | Jerilyn Andrina |
-| 621 | 759 | Briana Alexander |
-| 622 | 759 | Jessica Lamb |
+| 621 | 759 | Jessica Lamb |
+| 622 | 759 | Briana Alexander |
 | 623 | 758 | Stephanie Neuburger |
 | 624 | 757 | Frisky Clearpiece |
 | 625 | 756 | Aleksandr Gershman |
@@ -648,8 +648,8 @@
 | 640 | 740 | Cathleena Giusto |
 | 641 | 740 | Lee Harper |
 | 642 | 740 | Véronique Lévesque Sabourin |
-| 643 | 740 | Lee Harper |
-| 644 | 740 | Cathleena Giusto |
+| 643 | 740 | Jerry Tempelmeyer |
+| 644 | 740 | Lylymom |
 | 645 | 739 | Johanna Massaro |
 | 646 | 737 | Ginger |
 | 647 | 737 | Breezy Clusterer |
