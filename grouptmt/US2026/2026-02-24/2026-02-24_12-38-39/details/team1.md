@@ -86,8 +86,8 @@
 | 78 | 1050 | Robert Beck |
 | 79 | 1032 | Kathi Snustad |
 | 80 | 1026 | Kandae |
-| 81 | 1011 | Phu ckalldems |
-| 82 | 1011 | Francesca Gee |
+| 81 | 1011 | Francesca Gee |
+| 82 | 1011 | Phu ckalldems |
 | 83 | 1007 | Zippy Align |
 | 84 | 1002 | Veronica Eve |
 | 85 | 980 | Lexuriuos Lifestlye |
@@ -116,8 +116,8 @@
 | 108 | 791 | Greg Hart |
 | 109 | 782 | Karin Gillen |
 | 110 | 781 | Ash Galvan |
-| 111 | 773 | Susanna Guerry |
-| 112 | 773 | Cartier |
+| 111 | 773 | Cartier |
+| 112 | 773 | Susanna Guerry |
 | 113 | 772 | Kathy Langham |
 | 114 | 770 | Zappy Curvetile |
 | 115 | 768 | Jazzy Framezone |
@@ -416,8 +416,8 @@
 | 408 | 301 | Christina Backer |
 | 409 | 301 | Susie Loo |
 | 410 | 300 | Logan McFarland |
-| 411 | 299 | Nathan William |
-| 412 | 299 | Rachel Rogers |
+| 411 | 299 | Rachel Rogers |
+| 412 | 299 | Nathan William |
 | 413 | 297 | Billie Dawn Sparks |
 | 414 | 296 | Lisa Reynolds Adair |
 | 415 | 296 | Jeanna Dunn |
@@ -715,9 +715,9 @@
 | 707 | 181 | Shano Rae |
 | 708 | 180 | William Cry |
 | 709 | 180 | Jennifer Crawford |
-| 710 | 180 | William Cry |
-| 711 | 179 | Ward Leandrea |
-| 712 | 179 | Ryan White |
+| 710 | 180 | Traci Schmeer |
+| 711 | 179 | Ryan White |
+| 712 | 179 | Ward Leandrea |
 | 713 | 178 | Gabrielle Louise Malloch |
 | 714 | 178 | Archie Ware |
 | 715 | 178 | Robin Burress |

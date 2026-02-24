@@ -233,8 +233,8 @@
 | 225 | 485 | meowmew |
 | 226 | 482 | Laura |
 | 227 | 475 | Silly Zonebuilder |
-| 228 | 473 | Jolly Dashfit |
-| 229 | 473 | Cranky Rollpiece |
+| 228 | 473 | Cranky Rollpiece |
+| 229 | 473 | Jolly Dashfit |
 | 230 | 472 | Plucky Patternblock |
 | 231 | 468 | scott |
 | 232 | 465 | Leslie Thomas |
@@ -257,8 +257,8 @@
 | 249 | 448 | Mr. Party |
 | 250 | 448 | Mike Solo |
 | 251 | 447 | Chris Bernstein |
-| 252 | 444 | Twisty Cascadezone |
-| 253 | 444 | Selena Shaw |
+| 252 | 444 | Selena Shaw |
+| 253 | 444 | Twisty Cascadezone |
 | 254 | 442 | John Brunetti |
 | 255 | 441 | Lush Linkfall |
 | 256 | 440 | Brickh4us |
