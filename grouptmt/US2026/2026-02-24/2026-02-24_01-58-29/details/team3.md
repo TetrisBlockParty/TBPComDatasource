@@ -325,9 +325,9 @@
 | 317 | 461 | Tom Nault |
 | 318 | 456 | Cynthia Herrmann Egland |
 | 319 | 451 | Charles Perrone |
-| 320 | 450 | Antonia Russell |
+| 320 | 450 | Stefanie LaPointe |
 | 321 | 450 | Luciana Braganca Vieira |
-| 322 | 450 | Stefanie LaPointe |
+| 322 | 450 | Antonia Russell |
 | 323 | 449 | Mcathen |
 | 324 | 448 | Scott Carleton |
 | 325 | 447 | Randy Clevenger |
@@ -336,11 +336,11 @@
 | 328 | 444 | Snazzy Filler |
 | 329 | 443 | Jul |
 | 330 | 442 | Jennifer Alvey |
-| 331 | 436 | AC Yeater |
-| 332 | 436 | Heather De Vries Cobb |
+| 331 | 436 | Heather De Vries Cobb |
+| 332 | 436 | AC Yeater |
 | 333 | 435 | Sabrina Hardrick |
-| 334 | 432 | Jojo M |
-| 335 | 432 | Snippy Wipeout |
+| 334 | 432 | Snippy Wipeout |
+| 335 | 432 | Jojo M |
 | 336 | 431 | Wendy Dearden |
 | 337 | 430 | Quackers |
 | 338 | 429 | Tyler Shoff |
@@ -382,11 +382,11 @@
 | 374 | 386 | Philip Rock |
 | 375 | 386 | Kelly Wolf |
 | 376 | 384 | Tiffany Davie |
-| 377 | 383 | Jessica Christian |
-| 378 | 383 | Nikki White |
+| 377 | 383 | Nikki White |
+| 378 | 383 | Jessica Christian |
 | 379 | 383 | Kirhonda Autmon |
-| 380 | 382 | Rynne Ellis |
-| 381 | 382 | Amanda J. Mcneil-Anderson |
+| 380 | 382 | Amanda J. Mcneil-Anderson |
+| 381 | 382 | Rynne Ellis |
 | 382 | 378 | MsBee |
 | 383 | 377 | Hoppy Patternline |
 | 384 | 377 | Dee Franklin |

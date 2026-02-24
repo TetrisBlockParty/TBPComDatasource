@@ -210,10 +210,10 @@
 | 202 | 462 | Leslie Thomas |
 | 203 | 461 | TRCuse |
 | 204 | 459 | Mimi |
-| 205 | 457 | Crystal Nicolette Moore |
+| 205 | 457 | June Hoffman |
 | 206 | 457 | Kristin Manee |
 | 207 | 457 | Zesty Twistbuilder |
-| 208 | 457 | June Hoffman |
+| 208 | 457 | Crystal Nicolette Moore |
 | 209 | 455 | Kathy Brookins |
 | 210 | 455 | Michele Plunkett |
 | 211 | 450 | Amanda Pauldo-Ivy |
@@ -229,8 +229,8 @@
 | 221 | 439 | Jen Mattei |
 | 222 | 438 | Melvin Baird |
 | 223 | 434 | Ramel Rhodes |
-| 224 | 433 | Damn Libra |
-| 225 | 433 | Circuit8 |
+| 224 | 433 | Circuit8 |
+| 225 | 433 | Damn Libra |
 | 226 | 430 | Plucky Patternblock |
 | 227 | 427 | Chao Ma |
 | 228 | 426 | John Brunetti |
@@ -545,8 +545,8 @@
 | 537 | 198 | Rebecca Blake |
 | 538 | 198 | Helen Chao |
 | 539 | 197 | Zippy Tilt |
-| 540 | 197 | Sholom Fried |
-| 541 | 197 | Brian Owens |
+| 540 | 197 | Brian Owens |
+| 541 | 197 | Sholom Fried |
 | 542 | 196 | Julie McAfoos Swanson |
 | 543 | 195 | Christine Simmons |
 | 544 | 194 | Cranky Glidebuilder |

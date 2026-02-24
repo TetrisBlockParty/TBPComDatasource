@@ -175,8 +175,8 @@
 | 167 | 509 | Dandy Basegrid |
 | 168 | 508 | Arianna O'Brien |
 | 169 | 497 | MIKOZ |
-| 170 | 496 | Michelle Beres |
-| 171 | 496 | Sarah Somers Gray |
+| 170 | 496 | Sarah Somers Gray |
+| 171 | 496 | Michelle Beres |
 | 172 | 494 | Sean Stallings |
 | 173 | 492 | Rebekah LeiAnn Bonsell |
 | 174 | 491 | cc |
