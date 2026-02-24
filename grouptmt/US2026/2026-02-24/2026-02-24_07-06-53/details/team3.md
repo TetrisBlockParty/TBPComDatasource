@@ -155,8 +155,8 @@
 | 147 | 966 | Sashay Tapae Simpson |
 | 148 | 963 | Crystal Frey |
 | 149 | 961 | Danielle Allison |
-| 150 | 950 | Giddy Drop |
-| 151 | 950 | MissTaylor |
+| 150 | 950 | MissTaylor |
+| 151 | 950 | Giddy Drop |
 | 152 | 940 | Patty Allen |
 | 153 | 940 | Stephanie Allmon |
 | 154 | 936 | Dolores Falco |
@@ -202,8 +202,8 @@
 | 194 | 783 | Julian Murphy |
 | 195 | 777 | Daryn Elliott |
 | 196 | 775 | Lizabeth Fox |
-| 197 | 774 | ren |
-| 198 | 774 | Twisty Brick LT |
+| 197 | 774 | Twisty Brick LT |
+| 198 | 774 | ren |
 | 199 | 772 | Tye Stovall |
 | 200 | 769 | Hasty Cascadefit |
 | 201 | 768 | Cyd061769 |
@@ -285,8 +285,8 @@
 | 277 | 574 | Rachael McClain Owens |
 | 278 | 572 | Tessina Dewey-Mancino |
 | 279 | 570 | thekey |
-| 280 | 569 | Silly Twist |
-| 281 | 569 | Michael Johnson |
+| 280 | 569 | Michael Johnson |
+| 281 | 569 | Silly Twist |
 | 282 | 566 | Eileen Brady Thurber |
 | 283 | 565 | Michael Lucado |
 | 284 | 564 | Micayah Stevens |
@@ -338,8 +338,8 @@
 | 330 | 486 | Skippy |
 | 331 | 482 | Chummy Rumbler |
 | 332 | 481 | Tiffanie Alley |
-| 333 | 480 | TLM |
-| 334 | 480 | Dee Franklin |
+| 333 | 480 | Dee Franklin |
+| 334 | 480 | TLM |
 | 335 | 479 | Charles Perrone |
 | 336 | 476 | Shunta Jacobs |
 | 337 | 474 | Troy |
@@ -350,16 +350,16 @@
 | 342 | 465 | Noettín Kan Zasnemoore |
 | 343 | 465 | Blocked |
 | 344 | 464 | Snazzy Filler |
-| 345 | 462 | Brandon Givens |
-| 346 | 462 | Tegan Chapman |
+| 345 | 462 | Tegan Chapman |
+| 346 | 462 | Brandon Givens |
 | 347 | 461 | Hyper Bridger |
 | 348 | 461 | Briana Wellman |
 | 349 | 460 | Antonia Russell |
 | 350 | 459 | TotoCherue |
 | 351 | 459 | Randy Clevenger |
 | 352 | 457 | Snippy Wipeout |
-| 353 | 456 | Kelly |
-| 354 | 456 | Cynthia Herrmann Egland |
+| 353 | 456 | Cynthia Herrmann Egland |
+| 354 | 456 | Kelly |
 | 355 | 455 | Kelly Wolf |
 | 356 | 450 | Stefanie LaPointe |
 | 357 | 450 | Luciana Braganca Vieira |
@@ -375,8 +375,8 @@
 | 367 | 443 | Christian Werndl |
 | 368 | 442 | Loopy Fallzone |
 | 369 | 438 | Dannie Litchard |
-| 370 | 436 | AC Yeater |
-| 371 | 436 | Julie Fratrik |
+| 370 | 436 | Julie Fratrik |
+| 371 | 436 | AC Yeater |
 | 372 | 435 | Sabrina Hardrick |
 | 373 | 432 | Sabrina Mansfield |
 | 374 | 432 | Justice 4 P |
@@ -474,8 +474,8 @@
 | 466 | 353 | Eboni G. |
 | 467 | 353 | Nikkie Bucciano |
 | 468 | 352 | LadyTorad |
-| 469 | 351 | Nelma |
-| 470 | 351 | Eon Harris |
+| 469 | 351 | Eon Harris |
+| 470 | 351 | Nelma |
 | 471 | 348 | Ashley Raines |
 | 472 | 348 | atomictrin |
 | 473 | 348 | Jimmie Clemons |

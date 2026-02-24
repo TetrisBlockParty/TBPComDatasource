@@ -138,8 +138,8 @@
 | 130 | 643 | Erin Rosberg |
 | 131 | 642 | Mario Cab |
 | 132 | 638 | Carrie Smith |
-| 133 | 629 | Tanya Carpenter-Reynolds |
-| 134 | 629 | Death |
+| 133 | 629 | Death |
+| 134 | 629 | Tanya Carpenter-Reynolds |
 | 135 | 628 | Trina Gee |
 | 136 | 626 | Damon J. Martin |
 | 137 | 622 | Chris K |
@@ -201,8 +201,8 @@
 | 193 | 494 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 194 | 492 | Happy Snapbuild |
 | 195 | 489 | Speedy Liney |
-| 196 | 488 | Jessie Welch |
-| 197 | 488 | Ly Phethmany |
+| 196 | 488 | Ly Phethmany |
+| 197 | 488 | Jessie Welch |
 | 198 | 487 | Eric DeSimone |
 | 199 | 482 | Mike Ames |
 | 200 | 479 | canbrick |
@@ -216,8 +216,8 @@
 | 208 | 464 | Elaine Elaine |
 | 209 | 461 | Witty Builderfit |
 | 210 | 458 | Goose egg |
-| 211 | 453 | Angela Spann |
-| 212 | 453 | Kimmie Kimms |
+| 211 | 453 | Kimmie Kimms |
+| 212 | 453 | Angela Spann |
 | 213 | 449 | Tawnya Peltonen |
 | 214 | 448 | Yvonne Marie |
 | 215 | 446 | SkipTheSadSauce |
@@ -260,24 +260,24 @@
 | 252 | 399 | Jen Nystrom |
 | 253 | 398 | MommaKFC |
 | 254 | 398 | Cece Ibarra |
-| 255 | 396 | Monica Donato |
-| 256 | 396 | Sam Williams |
+| 255 | 396 | Sam Williams |
+| 256 | 396 | Monica Donato |
 | 257 | 394 | Nick R Montague |
 | 258 | 393 | Wisa |
 | 259 | 392 | Renee Tucker |
 | 260 | 392 | Poppy Riserpiece |
 | 261 | 391 | Happy Basegrid |
 | 262 | 390 | David Lutcher |
-| 263 | 386 | Melissa Bires Hussar |
-| 264 | 386 | Angela Renea Lester |
-| 265 | 384 | Irv |
-| 266 | 384 | Colleen Pinette |
+| 263 | 386 | Angela Renea Lester |
+| 264 | 386 | Melissa Bires Hussar |
+| 265 | 384 | Colleen Pinette |
+| 266 | 384 | Irv |
 | 267 | 383 | Margo Wagner |
 | 268 | 382 | Jamie Jury |
 | 269 | 380 | Snippy Wipebuilder |
 | 270 | 379 | Austin James |
 | 271 | 378 | Eddie Dillon |
-| 272 | 377 | Rayline M Bradshaw |
+| 272 | 377 | DoodleBug |
 | 273 | 377 | GATOR |
 | 274 | 377 | Rayline M Bradshaw |
 | 275 | 376 | Billie Ann Eason |

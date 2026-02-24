@@ -214,8 +214,8 @@
 | 206 | 1815 | Chirpy Staggerpiece |
 | 207 | 1813 | Catina Hutchison |
 | 208 | 1807 | Osun Anuket Esu |
-| 209 | 1775 | Sommer Shope |
-| 210 | 1775 | Eboni Banks |
+| 209 | 1775 | Eboni Banks |
+| 210 | 1775 | Sommer Shope |
 | 211 | 1763 | Nerdy Pattern |
 | 212 | 1761 | Rosa Franklin |
 | 213 | 1751 | Melissa Penelope Ann Dodge |
@@ -274,8 +274,8 @@
 | 266 | 1481 | Jamie Schmitt |
 | 267 | 1480 | Dimitra Zazara |
 | 268 | 1478 | Misty Walker |
-| 269 | 1477 | Prado |
-| 270 | 1477 | Hillary Crawford |
+| 269 | 1477 | Hillary Crawford |
+| 270 | 1477 | Prado |
 | 271 | 1469 | Carrie Trigg |
 | 272 | 1463 | Yvonne Wharton |
 | 273 | 1459 | Shiny Rollzone |
@@ -351,8 +351,8 @@
 | 343 | 1264 | Mama T |
 | 344 | 1261 | Becca Coronado |
 | 345 | 1257 | Jackie Lucas |
-| 346 | 1257 | Megan Garrick |
-| 347 | 1257 | Megan Ferguson Leone |
+| 346 | 1257 | Megan Ferguson Leone |
+| 347 | 1257 | Megan Garrick |
 | 348 | 1256 | Belle |
 | 349 | 1254 | Erika Densmore |
 | 350 | 1252 | Brainy Smurf |
@@ -653,8 +653,8 @@
 | 645 | 780 | Amy Reynolds |
 | 646 | 779 | Shanae Dillahunty |
 | 647 | 779 | Trinity Oak |
-| 648 | 777 | Tesha Oldaker |
-| 649 | 777 | Ashley Lopez |
+| 648 | 777 | Ashley Lopez |
+| 649 | 777 | Tesha Oldaker |
 | 650 | 776 | Jerilyn Andrina |
 | 651 | 774 | Ryan Gunther |
 | 652 | 773 | Chummy Blockbuilder |
@@ -893,12 +893,12 @@
 | 885 | 632 | Jannan Haimour |
 | 886 | 632 | Lea Stewart |
 | 887 | 631 | Autumn Schaeffer |
-| 888 | 629 | Ownlane Rico |
-| 889 | 629 | Snappy Shatterfit |
-| 890 | 628 | Misty Mitchell |
-| 891 | 628 | Macy Jarrett |
-| 892 | 627 | Nicole Cox |
-| 893 | 627 | Kristie Wilcox |
+| 888 | 629 | Snappy Shatterfit |
+| 889 | 629 | Ownlane Rico |
+| 890 | 628 | Macy Jarrett |
+| 891 | 628 | Misty Mitchell |
+| 892 | 627 | Kristie Wilcox |
+| 893 | 627 | Nicole Cox |
 | 894 | 626 | cornball |
 | 895 | 626 | Armonie Smith |
 | 896 | 626 | Tash Bell |

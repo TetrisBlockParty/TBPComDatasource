@@ -99,15 +99,15 @@
 | 91 | 878 | Lucille Truesdale |
 | 92 | 873 | Courtney Cicoria |
 | 93 | 869 | Judy Cox |
-| 94 | 864 | Samantha Peterson |
-| 95 | 864 | Guy Incognito |
+| 94 | 864 | Guy Incognito |
+| 95 | 864 | Samantha Peterson |
 | 96 | 854 | Shauna Havard |
 | 97 | 851 | Jason Hart |
 | 98 | 846 | Christine Marie |
 | 99 | 840 | SAP |
 | 100 | 837 | Rica Mitchell |
-| 101 | 834 | quicksand420 |
-| 102 | 834 | Brittney Orengo |
+| 101 | 834 | Brittney Orengo |
+| 102 | 834 | quicksand420 |
 | 103 | 815 | Diana Houts |
 | 104 | 813 | Klo |
 | 105 | 811 | Sassy Pattern |
@@ -167,8 +167,8 @@
 | 159 | 590 | Angela Srubar-Norman |
 | 160 | 589 | Livvy |
 | 161 | 587 | YoMomma |
-| 162 | 586 | Carlos Ramirez |
-| 163 | 586 | Latisha Davis |
+| 162 | 586 | Latisha Davis |
+| 163 | 586 | Carlos Ramirez |
 | 164 | 585 | Tracey Lehmann |
 | 165 | 584 | Carlton Unfiltered |
 | 166 | 576 | Jade Rian |
@@ -384,8 +384,8 @@
 | 376 | 299 | Dan Wold |
 | 377 | 299 | Michael Snow |
 | 378 | 298 | Val Erie |
-| 379 | 297 | Allison Rose |
-| 380 | 297 | Brittany Marsh |
+| 379 | 297 | Brittany Marsh |
+| 380 | 297 | Allison Rose |
 | 381 | 296 | Dapper Frame |
 | 382 | 295 | Deb Rubeck |
 | 383 | 294 | Kevin Bush |
@@ -522,7 +522,7 @@
 | 514 | 227 | 2slo |
 | 515 | 226 | Jen May |
 | 516 | 224 | Quirky Dash |
-| 517 | 224 | Vanessa Smart |
+| 517 | 224 | Shirl |
 | 518 | 224 | Neil Ingham |
 | 519 | 224 | Vanessa Smart |
 | 520 | 223 | Jessica Atkinson |
