@@ -112,13 +112,13 @@
 | 104 | 834 | Brittney Orengo |
 | 105 | 818 | Lori Walker |
 | 106 | 815 | Diana Houts |
-| 107 | 813 | Amy Suckarieh |
-| 108 | 813 | Klo |
+| 107 | 813 | Klo |
+| 108 | 813 | Amy Suckarieh |
 | 109 | 811 | Sassy Pattern |
 | 110 | 806 | Zippy Gridlock |
 | 111 | 805 | Mylo Lipscomb |
-| 112 | 802 | Denise Carlson |
-| 113 | 802 | Crystal Carroll |
+| 112 | 802 | Crystal Carroll |
+| 113 | 802 | Denise Carlson |
 | 114 | 801 | D3TROITB0RN74 |
 | 115 | 798 | Jewell Urban |
 | 116 | 784 | TheNeesh50 |
@@ -134,8 +134,8 @@
 | 126 | 729 | Jamie Mann-Deichmann |
 | 127 | 726 | Jamie Gustafson |
 | 128 | 725 | Brandon Crabbs |
-| 129 | 719 | George Nutt |
-| 130 | 719 | Leslie Nicole |
+| 129 | 719 | Leslie Nicole |
+| 130 | 719 | George Nutt |
 | 131 | 712 | H.R. Block |
 | 132 | 708 | Jacqueline Helm |
 | 133 | 704 | Chilly Crasher |
@@ -235,8 +235,8 @@
 | 227 | 473 | Jolly Dashfit |
 | 228 | 472 | Plucky Patternblock |
 | 229 | 465 | Leslie Thomas |
-| 230 | 464 | Calvin Cannon |
-| 231 | 464 | Zakia Monae |
+| 230 | 464 | Zakia Monae |
+| 231 | 464 | Calvin Cannon |
 | 232 | 463 | shark tato |
 | 233 | 462 | Crystal Nicolette Moore |
 | 234 | 460 | Kathy Brookins |
@@ -374,7 +374,7 @@
 | 366 | 320 | Cynthia Boudreau |
 | 367 | 319 | Bradley Reeves |
 | 368 | 319 | Michelle Morris |
-| 369 | 319 | Bradley Reeves |
+| 369 | 319 | Jessica Fredericks |
 | 370 | 317 | Madison Sweere |
 | 371 | 317 | Paito |
 | 372 | 317 | Kim Klutz Olson |

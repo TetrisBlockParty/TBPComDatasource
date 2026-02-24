@@ -69,8 +69,8 @@
 | 61 | 1920 | Trezure Gonzalez |
 | 62 | 1858 | Kristie McFarland |
 | 63 | 1836 | Tina Kay |
-| 64 | 1824 | Nate Burnside |
-| 65 | 1824 | Jessica Ann |
+| 64 | 1824 | Jessica Ann |
+| 65 | 1824 | Nate Burnside |
 | 66 | 1791 | Leah Barnett |
 | 67 | 1776 | Whitney Manuel |
 | 68 | 1774 | Liv Whetson |
@@ -78,13 +78,13 @@
 | 70 | 1695 | Nora Rogers |
 | 71 | 1691 | Cass Mendoza |
 | 72 | 1681 | Gracie |
-| 73 | 1663 | Mahman |
-| 74 | 1663 | Angeline Joseph |
+| 73 | 1663 | Angeline Joseph |
+| 74 | 1663 | Mahman |
 | 75 | 1633 | cowboy25469 |
 | 76 | 1625 | Queen Kam |
 | 77 | 1615 | joclisa |
-| 78 | 1566 | Nerdy Riseclear |
-| 79 | 1566 | Marcie Bressler |
+| 78 | 1566 | Marcie Bressler |
+| 79 | 1566 | Nerdy Riseclear |
 | 80 | 1560 | Logan Naccarato |
 | 81 | 1555 | Snappy Glidepiece |
 | 82 | 1518 | Christine Filson |
@@ -127,8 +127,8 @@
 | 119 | 1134 | Melissa Orth Hunter |
 | 120 | 1124 | Stephanie Rice |
 | 121 | 1121 | Corie A. Brinson |
-| 122 | 1114 | Groovy Catcher |
-| 123 | 1114 | Loopy Fallmatch |
+| 122 | 1114 | Loopy Fallmatch |
+| 123 | 1114 | Groovy Catcher |
 | 124 | 1105 | Adrian Marcel Pate |
 | 125 | 1093 | Angela M. Fletcher |
 | 126 | 1091 | Jennifer |
@@ -267,8 +267,8 @@
 | 259 | 632 | Rebecca Bailey |
 | 260 | 630 | Jackie Miller |
 | 261 | 629 | rnr junky |
-| 262 | 627 | Louise Stacy Sisson |
-| 263 | 627 | Juliana Dottore |
+| 262 | 627 | Juliana Dottore |
+| 263 | 627 | Louise Stacy Sisson |
 | 264 | 626 | Cheryl Hinch Tenbrook |
 | 265 | 625 | Jacqueline Rodriguez |
 | 266 | 624 | Hyper Matchzone |
@@ -298,8 +298,8 @@
 | 290 | 569 | Gray Hicks |
 | 291 | 569 | Silly Twist |
 | 292 | 567 | Stephanie Burtin |
-| 293 | 566 | Eileen Brady Thurber |
-| 294 | 566 | Tyler Shoff |
+| 293 | 566 | Tyler Shoff |
+| 294 | 566 | Eileen Brady Thurber |
 | 295 | 565 | Michael Lucado |
 | 296 | 562 | Dave Herzog |
 | 297 | 561 | Chauntee Alfrey-Cardinale |
@@ -335,8 +335,8 @@
 | 327 | 494 | MCV |
 | 328 | 494 | fraulila |
 | 329 | 492 | Tasha Wesson-Torrence |
-| 330 | 490 | TotoCherue |
-| 331 | 490 | Cassandra Bryant |
+| 330 | 490 | Cassandra Bryant |
+| 331 | 490 | TotoCherue |
 | 332 | 489 | Isabel Ocasio |
 | 333 | 487 | MsBee |
 | 334 | 486 | Skippy |
@@ -569,8 +569,8 @@
 | 561 | 320 | Victoria Lexis Dyer |
 | 562 | 320 | Or Reznitsky |
 | 563 | 319 | Tracey Cox |
-| 564 | 319 | Moneyvybz |
-| 565 | 319 | Matty Ray |
+| 564 | 319 | Matty Ray |
+| 565 | 319 | Moneyvybz |
 | 566 | 319 | Jayme |
 | 567 | 318 | James Fuller |
 | 568 | 318 | Trey Ward |
@@ -653,9 +653,9 @@
 | 645 | 285 | Jumpy Wrecker |
 | 646 | 285 | Kate Farok |
 | 647 | 284 | Hanna Kim |
-| 648 | 284 | Funky Matchzone |
-| 649 | 284 | Nikita Ainsworth |
-| 650 | 284 | Maria Ramos |
+| 648 | 284 | Nikita Ainsworth |
+| 649 | 284 | Maria Ramos |
+| 650 | 284 | Funky Matchzone |
 | 651 | 283 | Dirtgirl27 |
 | 652 | 282 | Cheeky Twisterfit |
 | 653 | 282 | Karla Phillips |
@@ -676,9 +676,9 @@
 | 668 | 277 | Joshua David Huie |
 | 669 | 277 | Zakia Foster |
 | 670 | 277 | Joe-Maggie Mathews |
-| 671 | 276 | Mana |
+| 671 | 276 | Crimson |
 | 672 | 276 | Mel Murr |
-| 673 | 276 | Crimson |
+| 673 | 276 | Mana |
 | 674 | 276 | Brysten Green |
 | 675 | 275 | Bnoom |
 | 676 | 275 | Mariah Williams |
@@ -1884,9 +1884,9 @@
 | 1876 | 84 | Shannon Broussard Nixon |
 | 1877 | 84 | Ahmani Waters |
 | 1878 | 83 | Samantha Smead |
-| 1879 | 83 | LaGayle Heflin |
-| 1880 | 83 | Amanda Falta |
-| 1881 | 83 | Tokidoki |
+| 1879 | 83 | Hanne Baker |
+| 1880 | 83 | Michelle Waterman |
+| 1881 | 83 | Hoppy Patternblock |
 | 1882 | 83 | DJ Hebert |
 | 1883 | 83 | LaGayle Heflin |
 | 1884 | 83 | Tokidoki |
