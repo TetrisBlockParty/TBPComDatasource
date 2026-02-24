@@ -513,8 +513,8 @@
 | 505 | 212 | William Blackwell |
 | 506 | 212 | Matthew Foley |
 | 507 | 211 | Bucketsmasher |
-| 508 | 210 | Ruthie Mahoney Saunders-Browne |
-| 509 | 210 | Madbull |
+| 508 | 210 | Madbull |
+| 509 | 210 | Ruthie Mahoney Saunders-Browne |
 | 510 | 209 | Rachel Rogers |
 | 511 | 209 | Elizabeth Kubli |
 | 512 | 209 | Beau Galvan |

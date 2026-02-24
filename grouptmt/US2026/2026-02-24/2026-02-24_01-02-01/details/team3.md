@@ -189,8 +189,8 @@
 | 181 | 755 | Laura Booth Wosko |
 | 182 | 744 | Twisty Brick LT |
 | 183 | 742 | Jennifer Lynn Fahrenholtz-Summers |
-| 184 | 740 | Kiki |
-| 185 | 740 | Staci George Fitzsimmons |
+| 184 | 740 | Staci George Fitzsimmons |
+| 185 | 740 | Kiki |
 | 186 | 738 | Naur |
 | 187 | 736 | Rachel |
 | 188 | 731 | Samantha Greco |
