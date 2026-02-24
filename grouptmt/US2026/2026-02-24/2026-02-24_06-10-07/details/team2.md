@@ -272,8 +272,8 @@
 | 264 | 1498 | Ericka Marie Smith |
 | 265 | 1481 | Jamie Schmitt |
 | 266 | 1478 | Misty Walker |
-| 267 | 1477 | Prado |
-| 268 | 1477 | Hillary Crawford |
+| 267 | 1477 | Hillary Crawford |
+| 268 | 1477 | Prado |
 | 269 | 1469 | Carrie Trigg |
 | 270 | 1463 | Yvonne Wharton |
 | 271 | 1459 | Shiny Rollzone |
@@ -550,8 +550,8 @@
 | 542 | 885 | Miranda Morris |
 | 543 | 885 | Giggy Mover |
 | 544 | 883 | Hong Tang |
-| 545 | 882 | Thomas Hedrick |
-| 546 | 882 | Sarah Massey |
+| 545 | 882 | Sarah Massey |
+| 546 | 882 | Thomas Hedrick |
 | 547 | 881 | Layla LS |
 | 548 | 876 | Jelly |
 | 549 | 876 | Jessicah Myers |
@@ -1052,8 +1052,8 @@
 | 1044 | 551 | B |
 | 1045 | 551 | Edralin Custodio |
 | 1046 | 549 | Ashley Collins |
-| 1047 | 548 | Synn |
-| 1048 | 548 | Maxwell Escalera |
+| 1047 | 548 | Maxwell Escalera |
+| 1048 | 548 | Synn |
 | 1049 | 547 | Monique Foster |
 | 1050 | 546 | Drew Berkelbach |
 | 1051 | 545 | Street Sweeper |
@@ -1063,8 +1063,8 @@
 | 1055 | 543 | Buggy |
 | 1056 | 543 | Patti Rone |
 | 1057 | 543 | Nate Lee |
-| 1058 | 543 | Janai Vrabel |
-| 1059 | 543 | Buggy |
+| 1058 | 543 | Casey Schumacher |
+| 1059 | 543 | Cblock |
 | 1060 | 542 | Megan Nevarez |
 | 1061 | 541 | Samantha Rojo |
 | 1062 | 541 | Misty |

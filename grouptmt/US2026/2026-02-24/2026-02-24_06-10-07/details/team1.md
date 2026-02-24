@@ -83,8 +83,8 @@
 | 75 | 973 | Francesca Gee |
 | 76 | 966 | Shalene Frederick Autrey |
 | 77 | 961 | Jacqueline Williams |
-| 78 | 957 | Zippy Align |
-| 79 | 957 | Erin Hodges Plumb |
+| 78 | 957 | Erin Hodges Plumb |
+| 79 | 957 | Zippy Align |
 | 80 | 944 | Sweet Baker |
 | 81 | 922 | Jason Cox |
 | 82 | 920 | Tee Sheree |
@@ -235,8 +235,8 @@
 | 227 | 424 | Chelsea Dahlquist |
 | 228 | 423 | Howdi Duty |
 | 229 | 422 | Jamise Brown |
-| 230 | 421 | Plucky Stacky |
-| 231 | 421 | Letson Melissa |
+| 230 | 421 | Letson Melissa |
+| 231 | 421 | Plucky Stacky |
 | 232 | 420 | Jennifer Noe Chandler |
 | 233 | 419 | Daring Fitclear |
 | 234 | 419 | John J. Cronin |

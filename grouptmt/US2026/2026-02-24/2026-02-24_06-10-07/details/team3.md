@@ -229,8 +229,8 @@
 | 221 | 709 | Cynthia Castros-Hampton |
 | 222 | 708 | Stephanie Bradley |
 | 223 | 703 | Shawn Miller |
-| 224 | 691 | Tia |
-| 225 | 691 | Snappy Balancer |
+| 224 | 691 | Snappy Balancer |
+| 225 | 691 | Tia |
 | 226 | 689 | Patti Skiles |
 | 227 | 687 | joz |
 | 228 | 675 | Terry Jo Jones |
@@ -243,8 +243,8 @@
 | 235 | 646 | Duane Bright |
 | 236 | 644 | Dawn Williams |
 | 237 | 642 | Rania Zaqout |
-| 238 | 641 | Kristal C Lee |
-| 239 | 641 | Tom Nault |
+| 238 | 641 | Tom Nault |
+| 239 | 641 | Kristal C Lee |
 | 240 | 639 | Nichol Graham |
 | 241 | 635 | Amber Hughes |
 | 242 | 633 | Jillian Symons |

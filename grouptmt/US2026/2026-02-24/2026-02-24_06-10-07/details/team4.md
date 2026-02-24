@@ -192,10 +192,10 @@
 | 184 | 528 | Erin Sabol |
 | 185 | 525 | Lucas J Sutton |
 | 186 | 521 | Andy Cabral |
-| 187 | 520 | Zippy Block |
-| 188 | 520 | Oscar Alberto Perez |
-| 189 | 516 | Trish |
-| 190 | 516 | Twisty Clicky |
+| 187 | 520 | Oscar Alberto Perez |
+| 188 | 520 | Zippy Block |
+| 189 | 516 | Twisty Clicky |
+| 190 | 516 | Trish |
 | 191 | 516 | Nick Gray |
 | 192 | 513 | Erin Thomas |
 | 193 | 513 | Zesty Twistbuilder |
@@ -210,8 +210,8 @@
 | 202 | 502 | Christina Black |
 | 203 | 501 | Sharyn Lemire |
 | 204 | 499 | Kesha Brady |
-| 205 | 496 | Lori |
-| 206 | 496 | Jessica Bohlken |
+| 205 | 496 | Jessica Bohlken |
+| 206 | 496 | Lori |
 | 207 | 495 | Joeliecea Cobb |
 | 208 | 493 | Amanda Pauldo-Ivy |
 | 209 | 484 | 🥔🥔 Spudz |
