@@ -90,8 +90,8 @@
 | 82 | 865 | Carolyn Wallace |
 | 83 | 864 | Guy Incognito |
 | 84 | 861 | Peachy Fall |
-| 85 | 850 | Lucille Truesdale |
-| 86 | 850 | Lisa Davis |
+| 85 | 850 | Lisa Davis |
+| 86 | 850 | Lucille Truesdale |
 | 87 | 847 | Chilly Line |
 | 88 | 846 | Christine Marie |
 | 89 | 841 | Shauna Havard |
@@ -155,8 +155,8 @@
 | 147 | 579 | shar |
 | 148 | 577 | Brandon Crabbs |
 | 149 | 575 | Jenna Ingersoll |
-| 150 | 574 | Carmethia Clemons Haslerig |
-| 151 | 574 | Carlos Ramirez |
+| 150 | 574 | Carlos Ramirez |
+| 151 | 574 | Carmethia Clemons Haslerig |
 | 152 | 572 | Austin Owens |
 | 153 | 562 | Livvy |
 | 154 | 560 | Chastity Mitchell |
@@ -177,8 +177,8 @@
 | 169 | 521 | Andy Cabral |
 | 170 | 520 | Oscar Alberto Perez |
 | 171 | 520 | Zippy Block |
-| 172 | 516 | Trish |
-| 173 | 516 | Twisty Clicky |
+| 172 | 516 | Twisty Clicky |
+| 173 | 516 | Trish |
 | 174 | 514 | Scott Jameson |
 | 175 | 513 | Erin Thomas |
 | 176 | 512 | Casey Jeffcoat |
