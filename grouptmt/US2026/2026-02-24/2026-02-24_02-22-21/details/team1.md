@@ -36,8 +36,8 @@
 | 28 | 1622 | Roger Aschbrenner |
 | 29 | 1595 | Rahna Underwood |
 | 30 | 1592 | Trippy Redd |
-| 31 | 1576 | Hyp James NObettadanluvarat |
-| 32 | 1544 | Christina Graham |
+| 31 | 1544 | Christina Graham |
+| 32 | 1537 | Hyp James NObettadanluvarat |
 | 33 | 1536 | Lola Adkhambekovna |
 | 34 | 1520 | Ashley Elizabeth |
 | 35 | 1515 | Felicia Lewis |
@@ -221,8 +221,8 @@
 | 213 | 422 | Reesey Enyart |
 | 214 | 422 | Jamise Brown |
 | 215 | 420 | Jennifer Noe Chandler |
-| 216 | 419 | John J. Cronin |
-| 217 | 419 | Daring Fitclear |
+| 216 | 419 | Daring Fitclear |
+| 217 | 419 | John J. Cronin |
 | 218 | 417 | Jessie Lynn |
 | 219 | 416 | Jessica Sheehan |
 | 220 | 413 | Ananda Mendez |

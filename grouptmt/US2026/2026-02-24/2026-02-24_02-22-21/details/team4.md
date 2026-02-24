@@ -91,8 +91,8 @@
 | 83 | 864 | Guy Incognito |
 | 84 | 861 | Peachy Fall |
 | 85 | 855 | Chilly Line |
-| 86 | 850 | Lucille Truesdale |
-| 87 | 850 | Lisa Davis |
+| 86 | 850 | Lisa Davis |
+| 87 | 850 | Lucille Truesdale |
 | 88 | 846 | Christine Marie |
 | 89 | 841 | Judy Cox |
 | 90 | 841 | Shauna Havard |
@@ -227,8 +227,8 @@
 | 219 | 444 | Calvin Cannon |
 | 220 | 443 | Kristina Black |
 | 221 | 442 | 🥔🥔 Spudz |
-| 222 | 441 | Jen Mattei |
-| 223 | 441 | Lush Linkfall |
+| 222 | 441 | Lush Linkfall |
+| 223 | 441 | Jen Mattei |
 | 224 | 438 | Melvin Baird |
 | 225 | 434 | Ramel Rhodes |
 | 226 | 433 | Damn Libra |
@@ -1213,7 +1213,7 @@
 | 1205 | 65 | Shelly Matthews |
 | 1206 | 64 | Phyllis Wilson |
 | 1207 | 64 | Angela |
-| 1208 | 64 | Jocelyn L. Williams |
+| 1208 | 64 | Marjorie Sims Rentz |
 | 1209 | 64 | Boldy Twistline |
 | 1210 | 64 | T |
 | 1211 | 64 | Bentley Welsh |

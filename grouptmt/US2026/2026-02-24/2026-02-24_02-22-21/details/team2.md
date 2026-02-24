@@ -545,18 +545,18 @@
 | 537 | 834 | Montez Mancil |
 | 538 | 833 | Ha Ab |
 | 539 | 831 | Victoria Regina Girolami |
-| 540 | 830 | Beth |
-| 541 | 829 | Alex Dungo Hoang |
-| 542 | 828 | Shantel Kelley |
-| 543 | 828 | Tracy Cowley |
-| 544 | 825 | Miranda Morris |
-| 545 | 824 | Khalil Lowe |
-| 546 | 823 | Diana Fitzwater |
-| 547 | 821 | Anthony Mignacca |
-| 548 | 820 | Brenda Pierpoint |
-| 549 | 820 | Laura McCarthey |
-| 550 | 815 | Bold Splitter |
-| 551 | 815 | Shea Edison |
+| 540 | 829 | Alex Dungo Hoang |
+| 541 | 828 | Shantel Kelley |
+| 542 | 828 | Tracy Cowley |
+| 543 | 825 | Miranda Morris |
+| 544 | 824 | Khalil Lowe |
+| 545 | 823 | Diana Fitzwater |
+| 546 | 821 | Anthony Mignacca |
+| 547 | 820 | Brenda Pierpoint |
+| 548 | 820 | Laura McCarthey |
+| 549 | 816 | Beth |
+| 550 | 815 | Shea Edison |
+| 551 | 815 | Bold Splitter |
 | 552 | 813 | Ganieda |
 | 553 | 812 | Samantha Jo |
 | 554 | 811 | Dreamy Blast |

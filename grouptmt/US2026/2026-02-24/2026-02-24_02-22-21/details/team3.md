@@ -25,7 +25,7 @@
 | 17 | 3605 | mjl574 |
 | 18 | 3474 | Jennifer Willis |
 | 19 | 3409 | Tetris Master |
-| 20 | 3370 | Clever Roll |
+| 20 | 3360 | Clever Roll |
 | 21 | 3293 | Briarblack |
 | 22 | 3198 | Laura Melton |
 | 23 | 3111 | Ashley Jones |
@@ -186,14 +186,14 @@
 | 178 | 777 | Daryn Elliott |
 | 179 | 776 | JessDrown |
 | 180 | 774 | ren |
-| 181 | 773 | Daira Largen |
-| 182 | 773 | Sashay Tapae Simpson |
+| 181 | 773 | Sashay Tapae Simpson |
+| 182 | 773 | Daira Largen |
 | 183 | 772 | Twisty Brick LT |
 | 184 | 772 | Tye Stovall |
 | 185 | 770 | Raya |
 | 186 | 768 | Hasty Cascadefit |
-| 187 | 763 | Tasha Gillespie |
-| 188 | 763 | Patricia White |
+| 187 | 763 | Patricia White |
+| 188 | 763 | Tasha Gillespie |
 | 189 | 760 | Kiki |
 | 190 | 757 | Fancy Cascader |
 | 191 | 755 | Laura Booth Wosko |
@@ -304,8 +304,8 @@
 | 296 | 499 | Gumbo |
 | 297 | 498 | Chummy Caster |
 | 298 | 497 | Rebecca Bailey |
-| 299 | 494 | MCV |
-| 300 | 494 | Megan Rathmanner |
+| 299 | 494 | Megan Rathmanner |
+| 300 | 494 | MCV |
 | 301 | 489 | Isabel Ocasio |
 | 302 | 488 | Brenda Schmid Wood |
 | 303 | 486 | Skippy |
@@ -321,8 +321,8 @@
 | 313 | 467 | Danielle Rhoades |
 | 314 | 466 | Sleepy |
 | 315 | 464 | Danielle Weikel |
-| 316 | 462 | Noettín Kan Zasnemoore |
-| 317 | 462 | Tegan Chapman |
+| 316 | 462 | Tegan Chapman |
+| 317 | 462 | Noettín Kan Zasnemoore |
 | 318 | 461 | Tom Nault |
 | 319 | 456 | Cynthia Herrmann Egland |
 | 320 | 452 | Tyler Shoff |
