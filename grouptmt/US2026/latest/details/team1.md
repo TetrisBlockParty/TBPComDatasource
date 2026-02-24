@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-24 16:32:41 UTC
+# Standings for team1 as of 2026-02-24 16:33:21 UTC
 
 **Total Participants:** 2275
 
@@ -55,8 +55,8 @@
 | 47 | 1387 | june october |
 | 48 | 1332 | Michelle Nicole |
 | 49 | 1327 | Drew Magnus |
-| 50 | 1306 | Brenda Stewart |
-| 51 | 1305 | Spunky Piecebuilder |
+| 50 | 1310 | Spunky Piecebuilder |
+| 51 | 1306 | Brenda Stewart |
 | 52 | 1281 | Lori Sanders- Davis |
 | 53 | 1272 | Hasbro Bros |
 | 54 | 1267 | Stef Hu |
@@ -134,12 +134,12 @@
 | 126 | 728 | Denice Dee |
 | 127 | 726 | Krista Young |
 | 128 | 719 | phrmblk24 |
-| 129 | 709 | Virginia Gray Floyd |
-| 130 | 703 | Bob |
-| 131 | 702 | lil mickey |
-| 132 | 699 | cc |
-| 133 | 697 | Giddy Cascade |
-| 134 | 697 | Dandy Basegrid |
+| 129 | 716 | Dandy Basegrid |
+| 130 | 709 | Virginia Gray Floyd |
+| 131 | 703 | Bob |
+| 132 | 702 | lil mickey |
+| 133 | 699 | cc |
+| 134 | 697 | Giddy Cascade |
 | 135 | 696 | Carrie Smith |
 | 136 | 676 | Snappy Matcher |
 | 137 | 676 | Chuck Gannon |
@@ -168,7 +168,7 @@
 | 160 | 609 | Timothy Danaher |
 | 161 | 605 | Jessi Sauer |
 | 162 | 603 | Jennifer Hardman |
-| 163 | 598 | ALFD |
+| 163 | 602 | ALFD |
 | 164 | 596 | Nicole Roseberry Weber |
 | 165 | 594 | Deanna L Hermanson |
 | 166 | 585 | BadG52 |
@@ -512,27 +512,27 @@
 | 504 | 264 | Frisky Risebuilder |
 | 505 | 264 | Toni Sagenbrecht |
 | 506 | 264 | Panda Thagreat |
-| 507 | 263 | Scott Betson |
+| 507 | 263 | Charlie Walker |
 | 508 | 263 | Christy LaSure |
-| 509 | 263 | Charlie Walker |
+| 509 | 263 | Scott Betson |
 | 510 | 262 | Purple |
 | 511 | 262 | Amanda Marie Sutton |
 | 512 | 260 | JaPria Rodgers |
 | 513 | 260 | Mathew Harris |
 | 514 | 260 | Lacy Wolfe |
 | 515 | 260 | Funky Piecebuilder |
-| 516 | 258 | Teresa |
+| 516 | 258 | Vivienne Carter |
 | 517 | 258 | Marc Abney |
-| 518 | 258 | Vivienne Carter |
-| 519 | 258 | Tedashi |
-| 520 | 257 | Andrew Backes |
-| 521 | 257 | Angel Marie |
-| 522 | 256 | Mary Crisp |
-| 523 | 256 | whocares |
-| 524 | 255 | Goobette |
-| 525 | 255 | SavageBooty98 |
-| 526 | 254 | Melanie Kelley |
-| 527 | 254 | Pauline Cortez |
+| 518 | 258 | Tedashi |
+| 519 | 258 | Teresa |
+| 520 | 257 | Angel Marie |
+| 521 | 257 | Andrew Backes |
+| 522 | 256 | Pauline Cortez |
+| 523 | 256 | Mary Crisp |
+| 524 | 256 | whocares |
+| 525 | 256 | Melanie Kelley |
+| 526 | 255 | SavageBooty98 |
+| 527 | 255 | Goobette |
 | 528 | 253 | Bay Marie |
 | 529 | 252 | Rivkah |
 | 530 | 252 | Sunflower |
@@ -1095,18 +1095,18 @@
 | 1087 | 107 | William Maix |
 | 1088 | 107 | Nellie Cummings |
 | 1089 | 106 | Kelly Holland |
-| 1090 | 106 | Honey |
+| 1090 | 106 | Vahid Khaleghi |
 | 1091 | 106 | Becky Lynn Cramer-Ingram |
-| 1092 | 106 | John Dixon |
-| 1093 | 105 | Jolly Climber |
-| 1094 | 105 | Ebony Hill |
-| 1095 | 105 | Chummy Spinzone |
-| 1096 | 105 | Felicia Jones |
-| 1097 | 105 | Vahid Khaleghi |
+| 1092 | 106 | Honey |
+| 1093 | 106 | John Dixon |
+| 1094 | 105 | Jolly Climber |
+| 1095 | 105 | Ebony Hill |
+| 1096 | 105 | Chummy Spinzone |
+| 1097 | 105 | Felicia Jones |
 | 1098 | 105 | Jennifer Duttry |
 | 1099 | 104 | Johanna Burke |
-| 1100 | 104 | Nykia Smith |
-| 1101 | 104 | JEREMIA MOORE |
+| 1100 | 104 | JEREMIA MOORE |
+| 1101 | 104 | Nykia Smith |
 | 1102 | 104 | Nerdy Gridlock |
 | 1103 | 104 | Zippy Buildsnap |
 | 1104 | 103 | Merissa Paulsen |
@@ -1237,11 +1237,11 @@
 | 1229 | 86 | Kgreg49 |
 | 1230 | 86 | Mighty Fitzone |
 | 1231 | 86 | Barbara Benjamin |
-| 1232 | 86 | Charles Holland |
-| 1233 | 86 | Jeffrey Penkowski |
-| 1234 | 86 | BearMan01 |
-| 1235 | 86 | Katie Oehmann Mosier |
-| 1236 | 85 | Mister Reid |
+| 1232 | 86 | Mister Reid |
+| 1233 | 86 | Charles Holland |
+| 1234 | 86 | Jeffrey Penkowski |
+| 1235 | 86 | BearMan01 |
+| 1236 | 86 | Katie Oehmann Mosier |
 | 1237 | 85 | Ash Whitley |
 | 1238 | 85 | Bwebb Bryan |
 | 1239 | 85 | weezy |
