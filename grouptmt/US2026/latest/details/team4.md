@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-24 17:12:42 UTC
+# Standings for team4 as of 2026-02-24 17:13:21 UTC
 
 **Total Participants:** 2051
 
@@ -56,8 +56,8 @@
 | 48 | 1498 | Shane Kalamata Platoon |
 | 49 | 1497 | Juggalo |
 | 50 | 1456 | Michelle Marie |
-| 51 | 1436 | Jen Allison |
-| 52 | 1420 | Rachel Anne |
+| 51 | 1452 | Rachel Anne |
+| 52 | 1436 | Jen Allison |
 | 53 | 1386 | Aden Moss |
 | 54 | 1372 | Lisa Davis |
 | 55 | 1365 | Shelly Chandler |
@@ -636,16 +636,16 @@
 | 628 | 211 | Sunny Filler |
 | 629 | 211 | Satinleader |
 | 630 | 210 | Jlmendillo |
-| 631 | 209 | Matthew Pate |
-| 632 | 209 | Hediyuda |
-| 633 | 209 | Calvin Dennis |
-| 634 | 209 | Elle Joe |
-| 635 | 209 | Bumpy Morris |
-| 636 | 208 | Sholom Fried |
-| 637 | 208 | JoAnna Zalkovsky |
+| 631 | 209 | Mcg |
+| 632 | 209 | Calvin Dennis |
+| 633 | 209 | Elle Joe |
+| 634 | 209 | Hediyuda |
+| 635 | 209 | Matthew Pate |
+| 636 | 209 | Bumpy Morris |
+| 637 | 208 | Sholom Fried |
 | 638 | 208 | Paul-Eunice Mathewson |
 | 639 | 208 | wombat |
-| 640 | 207 | Mcg |
+| 640 | 208 | JoAnna Zalkovsky |
 | 641 | 207 | Chariss Newsom |
 | 642 | 206 | Cool Clusterfit |
 | 643 | 206 | Rosemary Foster |
@@ -1300,8 +1300,8 @@
 | 1292 | 69 | ZZZZZZZ |
 | 1293 | 69 | Dragon De Fuego |
 | 1294 | 69 | Gia Mims |
-| 1295 | 69 | Gerald Tvelia |
-| 1296 | 69 | Dorothy Horton |
+| 1295 | 69 | Dorothy Horton |
+| 1296 | 69 | Gerald Tvelia |
 | 1297 | 69 | Hasty Balancer |
 | 1298 | 68 | I'm sorry |
 | 1299 | 68 | Miriam Ruiz |
@@ -1318,16 +1318,16 @@
 | 1310 | 67 | Rae |
 | 1311 | 67 | Daring Matchfit |
 | 1312 | 67 | Anita Kramer |
-| 1313 | 67 | Zany Cascadebuilder |
-| 1314 | 67 | Monica Manning-Bryson |
-| 1315 | 67 | Amanda Loren |
-| 1316 | 66 | Anne-Marie Reyes |
-| 1317 | 66 | Coflowers |
-| 1318 | 65 | Alison Welsh |
-| 1319 | 65 | Yanais Fernandez |
-| 1320 | 65 | Brain Joy |
-| 1321 | 65 | Barcelos |
-| 1322 | 65 | Taco Taco |
+| 1313 | 67 | Taco Taco |
+| 1314 | 67 | Zany Cascadebuilder |
+| 1315 | 67 | Monica Manning-Bryson |
+| 1316 | 67 | Amanda Loren |
+| 1317 | 66 | Anne-Marie Reyes |
+| 1318 | 66 | Coflowers |
+| 1319 | 65 | Alison Welsh |
+| 1320 | 65 | Yanais Fernandez |
+| 1321 | 65 | Brain Joy |
+| 1322 | 65 | Barcelos |
 | 1323 | 65 | Deb Lilja |
 | 1324 | 65 | Shelly Matthews |
 | 1325 | 65 | Juanita Tia Beckler |
