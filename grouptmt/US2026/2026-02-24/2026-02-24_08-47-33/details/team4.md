@@ -107,13 +107,13 @@
 | 99 | 846 | Christine Marie |
 | 100 | 840 | SAP |
 | 101 | 837 | Rica Mitchell |
-| 102 | 834 | Brittney Orengo |
-| 103 | 834 | quicksand420 |
+| 102 | 834 | quicksand420 |
+| 103 | 834 | Brittney Orengo |
 | 104 | 815 | Diana Houts |
 | 105 | 813 | Klo |
 | 106 | 811 | Sassy Pattern |
-| 107 | 806 | Zippy Gridlock |
-| 108 | 806 | Lori Walker |
+| 107 | 806 | Lori Walker |
+| 108 | 806 | Zippy Gridlock |
 | 109 | 802 | Denise Carlson |
 | 110 | 802 | Crystal Carroll |
 | 111 | 801 | D3TROITB0RN74 |
@@ -135,8 +135,8 @@
 | 127 | 726 | Jamie Gustafson |
 | 128 | 725 | Brandon Crabbs |
 | 129 | 719 | George Nutt |
-| 130 | 712 | H.R. Block |
-| 131 | 712 | Leslie Nicole |
+| 130 | 712 | Leslie Nicole |
+| 131 | 712 | H.R. Block |
 | 132 | 708 | Jacqueline Helm |
 | 133 | 704 | Chilly Crasher |
 | 134 | 704 | Austin Owens |
@@ -245,8 +245,8 @@
 | 237 | 454 | Keshia Lyons |
 | 238 | 450 | Genne Scott |
 | 239 | 449 | Danielle Kollias |
-| 240 | 448 | Mike Solo |
-| 241 | 448 | Mr. Party |
+| 240 | 448 | Mr. Party |
+| 241 | 448 | Mike Solo |
 | 242 | 447 | Jen Mattei |
 | 243 | 444 | Selena Shaw |
 | 244 | 442 | John Brunetti |
@@ -261,8 +261,8 @@
 | 253 | 430 | 030Synner |
 | 254 | 428 | Gdiguy |
 | 255 | 427 | Cheery Risebuilder |
-| 256 | 427 | Chao Ma |
-| 257 | 427 | Jeff Brian Gates |
+| 256 | 427 | Jeff Brian Gates |
+| 257 | 427 | Chao Ma |
 | 258 | 424 | Andrew Dang |
 | 259 | 421 | JIGsaw ~(•¿°)~ |
 | 260 | 419 | Hyper Matchclear |
@@ -281,8 +281,8 @@
 | 273 | 399 | Brittany Little |
 | 274 | 398 | Tyler Terrific |
 | 275 | 397 | blockstar |
-| 276 | 395 | Denise B |
-| 277 | 395 | BigSammy420 |
+| 276 | 395 | BigSammy420 |
+| 277 | 395 | Denise B |
 | 278 | 394 | Nikki Rae Gordon |
 | 279 | 393 | Montiette Mcglown |
 | 280 | 392 | Neirrah B Olailjeel |
