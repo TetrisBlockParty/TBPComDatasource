@@ -108,8 +108,8 @@
 | 100 | 846 | Christine Marie |
 | 101 | 840 | SAP |
 | 102 | 837 | Rica Mitchell |
-| 103 | 834 | Brittney Orengo |
-| 104 | 834 | quicksand420 |
+| 103 | 834 | quicksand420 |
+| 104 | 834 | Brittney Orengo |
 | 105 | 818 | Lori Walker |
 | 106 | 815 | Diana Houts |
 | 107 | 813 | Amy Suckarieh |
@@ -138,8 +138,8 @@
 | 130 | 712 | H.R. Block |
 | 131 | 712 | Leslie Nicole |
 | 132 | 708 | Jacqueline Helm |
-| 133 | 704 | Austin Owens |
-| 134 | 704 | Chilly Crasher |
+| 133 | 704 | Chilly Crasher |
+| 134 | 704 | Austin Owens |
 | 135 | 687 | Carmethia Clemons Haslerig |
 | 136 | 682 | Raegan Lane-Ross |
 | 137 | 668 | Desi Desporte |
@@ -184,8 +184,8 @@
 | 176 | 561 | Steph Marie |
 | 177 | 560 | Chastity Mitchell |
 | 178 | 558 | Marie-Pier Desjardins |
-| 179 | 552 | Circuit8 |
-| 180 | 552 | Angel Raya |
+| 179 | 552 | Angel Raya |
+| 180 | 552 | Circuit8 |
 | 181 | 550 | James Hurley Jr. |
 | 182 | 549 | Cool Towerbuilder |
 | 183 | 546 | Dizzy Tiley |
@@ -195,10 +195,10 @@
 | 187 | 536 | JPW |
 | 188 | 535 | Berklie Apedaile |
 | 189 | 534 | Lucas J Sutton |
-| 190 | 532 | Lori |
-| 191 | 532 | Carly Alexis |
-| 192 | 532 | Alan George LaRage |
-| 193 | 532 | Matt Summer |
+| 190 | 532 | Alan George LaRage |
+| 191 | 532 | Matt Summer |
+| 192 | 532 | Lori |
+| 193 | 532 | Carly Alexis |
 | 194 | 528 | Erin Sabol |
 | 195 | 525 | Crystal Lynn |
 | 196 | 525 | 🥔🥔 Spudz |
@@ -218,8 +218,8 @@
 | 210 | 502 | Christina Black |
 | 211 | 502 | Ericca Eldridge |
 | 212 | 501 | Sharyn Lemire |
-| 213 | 499 | DonMega |
-| 214 | 499 | Kesha Brady |
+| 213 | 499 | Kesha Brady |
+| 214 | 499 | DonMega |
 | 215 | 497 | Damn Libra |
 | 216 | 496 | Jessica Bohlken |
 | 217 | 495 | Joeliecea Cobb |
@@ -242,8 +242,8 @@
 | 234 | 460 | Kathy Brookins |
 | 235 | 458 | Kristina Black |
 | 236 | 458 | Luis Martinez |
-| 237 | 457 | Kristin Manee |
-| 238 | 457 | J-Rizzle |
+| 237 | 457 | J-Rizzle |
+| 238 | 457 | Kristin Manee |
 | 239 | 455 | Michele Plunkett |
 | 240 | 454 | David Lay |
 | 241 | 454 | Keshia Lyons |
@@ -302,14 +302,14 @@
 | 294 | 380 | Chaz |
 | 295 | 378 | Jason Gibbs |
 | 296 | 378 | Googenheim |
-| 297 | 378 | Jason Gibbs |
+| 297 | 378 | Mary Ann Pabukis |
 | 298 | 377 | Matt Dell'Olio |
 | 299 | 376 | Nig |
 | 300 | 375 | George Tzouganos |
 | 301 | 373 | Russ Attitude |
 | 302 | 371 | Jessi Cinotto |
-| 303 | 370 | Twisty Risebuilder |
-| 304 | 370 | Kris Bartlett |
+| 303 | 370 | Kris Bartlett |
+| 304 | 370 | Twisty Risebuilder |
 | 305 | 368 | Dan Wold |
 | 306 | 367 | Meg |
 | 307 | 364 | Lora |
@@ -321,8 +321,8 @@
 | 313 | 354 | @ |
 | 314 | 354 | Perky Piecegrid |
 | 315 | 352 | Kate |
-| 316 | 351 | Jackie Clark |
-| 317 | 351 | Dana Scott |
+| 316 | 351 | Dana Scott |
+| 317 | 351 | Jackie Clark |
 | 318 | 350 | Dizzy Matchzone |
 | 319 | 349 | Richard-April Kice |
 | 320 | 349 | jim |

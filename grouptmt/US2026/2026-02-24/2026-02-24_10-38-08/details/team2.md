@@ -1167,8 +1167,8 @@
 | 1159 | 519 | Abby Jensen |
 | 1160 | 519 | gNiK |
 | 1161 | 518 | Darlene Bowman |
-| 1162 | 517 | Meganator42 |
-| 1163 | 517 | Rebecca Edmund |
+| 1162 | 517 | Rebecca Edmund |
+| 1163 | 517 | Meganator42 |
 | 1164 | 515 | Chill Strike |
 | 1165 | 515 | Brave Gridpiece |
 | 1166 | 515 | Ashlyn Berner |
@@ -1177,8 +1177,8 @@
 | 1169 | 515 | Poppy |
 | 1170 | 515 | Miracle |
 | 1171 | 514 | Melanie Csikortos |
-| 1172 | 513 | Stefanie Zonzini-Gagliardi |
-| 1173 | 513 | MrsCandyfine As Wine Truss |
+| 1172 | 513 | MrsCandyfine As Wine Truss |
+| 1173 | 513 | Stefanie Zonzini-Gagliardi |
 | 1174 | 511 | Purple durple |
 | 1175 | 511 | Sarah Sims |
 | 1176 | 510 | Steve Zortman |

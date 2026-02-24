@@ -124,8 +124,8 @@
 | 116 | 751 | Kellie |
 | 117 | 725 | Debbie Kane |
 | 118 | 716 | Kristi Johnson |
-| 119 | 706 | Plucky Fallzone |
-| 120 | 706 | Denice Dee |
+| 119 | 706 | Denice Dee |
+| 120 | 706 | Plucky Fallzone |
 | 121 | 702 | lil mickey |
 | 122 | 699 | cc |
 | 123 | 696 | Carrie Smith |
@@ -144,10 +144,10 @@
 | 136 | 647 | Theo Pinnow |
 | 137 | 643 | Erin Rosberg |
 | 138 | 642 | Mario Cab |
-| 139 | 629 | Death |
-| 140 | 629 | Tanya Carpenter-Reynolds |
-| 141 | 628 | femmefatale |
-| 142 | 628 | Trina Gee |
+| 139 | 629 | Tanya Carpenter-Reynolds |
+| 140 | 629 | Death |
+| 141 | 628 | Trina Gee |
+| 142 | 628 | femmefatale |
 | 143 | 626 | Damon J. Martin |
 | 144 | 620 | Ty Brown |
 | 145 | 611 | Evan Richmond |
@@ -421,7 +421,7 @@
 | 413 | 291 | Sir-Franchise Drake |
 | 414 | 290 | Nate Funk |
 | 415 | 290 | Brave Slice |
-| 416 | 290 | Nate Funk |
+| 416 | 290 | Blake Mckay |
 | 417 | 289 | Snappy Bridgepiece |
 | 418 | 289 | Camelia Trevillion |
 | 419 | 288 | Anita Jack |

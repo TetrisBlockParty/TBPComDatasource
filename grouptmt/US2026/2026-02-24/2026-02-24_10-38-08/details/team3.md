@@ -111,8 +111,8 @@
 | 103 | 1309 | yoyo |
 | 104 | 1297 | Shelby Michelle |
 | 105 | 1290 | JerseyJess |
-| 106 | 1282 | Peppy Shifter |
-| 107 | 1282 | Amanda L Baker |
+| 106 | 1282 | Amanda L Baker |
+| 107 | 1282 | Peppy Shifter |
 | 108 | 1276 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1248 | Lori Barnaby |
@@ -218,8 +218,8 @@
 | 210 | 760 | Kiki |
 | 211 | 759 | Mykal Burton |
 | 212 | 757 | Fancy Cascader |
-| 213 | 755 | Colton |
-| 214 | 755 | Laura Booth Wosko |
+| 213 | 755 | Laura Booth Wosko |
+| 214 | 755 | Colton |
 | 215 | 754 | CeceGeGe |
 | 216 | 753 | Morgan Martinez |
 | 217 | 752 | Joye Sims Binion |
@@ -238,8 +238,8 @@
 | 230 | 708 | Stephanie Bradley |
 | 231 | 704 | Betty Bóò |
 | 232 | 703 | Shawn Miller |
-| 233 | 693 | lashanda |
-| 234 | 693 | Heather Davis |
+| 233 | 693 | Heather Davis |
+| 234 | 693 | lashanda |
 | 235 | 691 | Tia |
 | 236 | 691 | Snappy Balancer |
 | 237 | 687 | joz |
@@ -324,8 +324,8 @@
 | 316 | 523 | Ktfreeee |
 | 317 | 518 | Marquita Sheard |
 | 318 | 514 | Nikki White |
-| 319 | 506 | Tiffanie Alley |
-| 320 | 506 | Ammmmmmy |
+| 319 | 506 | Ammmmmmy |
+| 320 | 506 | Tiffanie Alley |
 | 321 | 505 | Stephanie Simpson |
 | 322 | 504 | Daring Builder |
 | 323 | 500 | Ashley Tookes |
@@ -383,8 +383,8 @@
 | 375 | 444 | Heather De Vries Cobb |
 | 376 | 442 | Loopy Fallzone |
 | 377 | 438 | Dannie Litchard |
-| 378 | 436 | Julie Fratrik |
-| 379 | 436 | AC Yeater |
+| 378 | 436 | AC Yeater |
+| 379 | 436 | Julie Fratrik |
 | 380 | 435 | Sabrina Hardrick |
 | 381 | 434 | Criss |
 | 382 | 434 | Ginger Gray |
@@ -457,9 +457,9 @@
 | 449 | 376 | Brittany |
 | 450 | 376 | Breanna Marsden |
 | 451 | 375 | Spencer Nikki |
-| 452 | 375 | Denise Marie |
-| 453 | 375 | NeeCee |
-| 454 | 375 | Christy Quick |
+| 452 | 375 | NeeCee |
+| 453 | 375 | Christy Quick |
+| 454 | 375 | Denise Marie |
 | 455 | 373 | Yvonne Felicia Garcia |
 | 456 | 373 | Bekah Dietrich |
 | 457 | 372 | Raijinell King |
@@ -647,14 +647,14 @@
 | 639 | 289 | Peachy Tower |
 | 640 | 289 | Andy Jacobson |
 | 641 | 287 | Timea Popladek |
-| 642 | 286 | Morgan Cudo |
-| 643 | 286 | Frilly Stackzone |
+| 642 | 286 | Frilly Stackzone |
+| 643 | 286 | Morgan Cudo |
 | 644 | 285 | Kate Farok |
 | 645 | 285 | Jumpy Wrecker |
-| 646 | 284 | Funky Matchzone |
-| 647 | 284 | Hanna Kim |
-| 648 | 284 | Maria Ramos |
-| 649 | 284 | Nikita Ainsworth |
+| 646 | 284 | Maria Ramos |
+| 647 | 284 | Nikita Ainsworth |
+| 648 | 284 | Funky Matchzone |
+| 649 | 284 | Hanna Kim |
 | 650 | 283 | Dirtgirl27 |
 | 651 | 282 | Karla Phillips |
 | 652 | 282 | Cheeky Twisterfit |
@@ -1014,7 +1014,7 @@
 | 1006 | 195 | Eunhye Lee |
 | 1007 | 195 | Nicha Hooker |
 | 1008 | 195 | Polopypy |
-| 1009 | 194 | Amber Eby |
+| 1009 | 194 | Shicken Nuggit |
 | 1010 | 194 | Josh Vietz |
 | 1011 | 194 | Amber Eby |
 | 1012 | 193 | Kym Desrochers |
@@ -1315,7 +1315,7 @@
 | 1307 | 147 | Ozell Jones |
 | 1308 | 147 | Jennifer MacCharles |
 | 1309 | 147 | Corisha Grant |
-| 1310 | 147 | Jennifer MacCharles |
+| 1310 | 147 | Nikki Boone |
 | 1311 | 146 | Nathaniel Foster |
 | 1312 | 146 | Snazzy Strikerbuilder |
 | 1313 | 146 | Dreamy Zone |
@@ -1392,8 +1392,8 @@
 | 1384 | 137 | Cynthia Alanis |
 | 1385 | 137 | Slinky Stackbuilder |
 | 1386 | 137 | Tipsy Fitblock |
-| 1387 | 137 | luna |
-| 1388 | 137 | Matthew Gardner |
+| 1387 | 137 | Matthew Gardner |
+| 1388 | 137 | luna |
 | 1389 | 136 | Twisty Linebuilder |
 | 1390 | 136 | Ja'mice Nelson |
 | 1391 | 136 | Peachy Patternblock |
