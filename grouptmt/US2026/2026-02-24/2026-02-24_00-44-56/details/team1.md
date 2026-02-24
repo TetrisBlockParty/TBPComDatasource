@@ -44,8 +44,8 @@
 | 36 | 1405 | Chipper Gridlock |
 | 37 | 1396 | Derek MF Blakey |
 | 38 | 1391 | Aaron Garnett |
-| 39 | 1334 | Tyler Alcock |
-| 40 | 1334 | june october |
+| 39 | 1334 | june october |
+| 40 | 1334 | Tyler Alcock |
 | 41 | 1277 | Marianne Louise West |
 | 42 | 1250 | Stef Hu |
 | 43 | 1239 | Brenda Stewart |
@@ -296,11 +296,11 @@
 | 288 | 336 | Adele Rahman |
 | 289 | 334 | Colleen Pinette |
 | 290 | 334 | Tipsy Builder |
-| 291 | 333 | Wayne Saunders |
-| 292 | 333 | Irv |
-| 293 | 330 | Mandyy Rae |
-| 294 | 330 | Jeremy Maubert |
-| 295 | 330 | Rebecca Apley Mielke |
+| 291 | 333 | Irv |
+| 292 | 333 | Wayne Saunders |
+| 293 | 330 | Jeremy Maubert |
+| 294 | 330 | Rebecca Apley Mielke |
+| 295 | 330 | Mandyy Rae |
 | 296 | 329 | Marianita Garcia |
 | 297 | 328 | Buttons Stemm |
 | 298 | 325 | Mitchel White |

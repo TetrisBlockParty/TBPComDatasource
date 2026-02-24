@@ -176,8 +176,8 @@
 | 168 | 1871 | Christi Hulet |
 | 169 | 1866 | Janel Turley-Garner |
 | 170 | 1845 | Jessie McDougald |
-| 171 | 1840 | Kristopher Miller |
-| 172 | 1840 | blarg |
+| 171 | 1840 | blarg |
+| 172 | 1840 | Kristopher Miller |
 | 173 | 1839 | bonsai |
 | 174 | 1829 | Mr. Street Stack |
 | 175 | 1818 | Shandrica Lowe |
@@ -227,8 +227,8 @@
 | 219 | 1558 | Tim Dyer |
 | 220 | 1557 | Poppy Snap |
 | 221 | 1556 | Tonya Morgan |
-| 222 | 1554 | Osun Anuket Esu |
-| 223 | 1554 | Howard Forest |
+| 222 | 1554 | Howard Forest |
+| 223 | 1554 | Osun Anuket Esu |
 | 224 | 1553 | Wendy Unsain |
 | 225 | 1552 | Cheeky Balancepiece |
 | 226 | 1543 | Alyssa Nadine Medelez |
@@ -658,8 +658,8 @@
 | 650 | 691 | Daniel Amos |
 | 651 | 689 | Shiny Twistfit |
 | 652 | 688 | BIG BABY |
-| 653 | 688 | Tracy Wise |
-| 654 | 688 | Andre Love |
+| 653 | 688 | Andre Love |
+| 654 | 688 | Tracy Wise |
 | 655 | 687 | SwampRebel |
 | 656 | 686 | De'Jah Charncey |
 | 657 | 685 | James Louie |

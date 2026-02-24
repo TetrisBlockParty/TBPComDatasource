@@ -381,13 +381,13 @@
 | 373 | 376 | Kristen Weese |
 | 374 | 375 | Troy |
 | 375 | 375 | neci |
-| 376 | 374 | Dawn Williams |
-| 377 | 374 | Foltz Lee Kelli |
+| 376 | 374 | Foltz Lee Kelli |
+| 377 | 374 | Dawn Williams |
 | 378 | 373 | KayB |
 | 379 | 372 | Breanna Marsden |
 | 380 | 370 | Roary Danner |
-| 381 | 370 | Ashley Lynn Marchese |
-| 382 | 370 | TotoCherue |
+| 381 | 370 | TotoCherue |
+| 382 | 370 | Ashley Lynn Marchese |
 | 383 | 369 | Amber Glover |
 | 384 | 368 | Stephanie Woods |
 | 385 | 368 | Linda Draper |
@@ -409,8 +409,8 @@
 | 401 | 354 | TLM |
 | 402 | 353 | Cheeky Snapper |
 | 403 | 353 | Beejangles |
-| 404 | 352 | Denise Marie |
-| 405 | 352 | xsiv |
+| 404 | 352 | xsiv |
+| 405 | 352 | Denise Marie |
 | 406 | 352 | LadyTorad |
 | 407 | 351 | Eon Harris |
 | 408 | 350 | angieelyn |
@@ -448,8 +448,8 @@
 | 440 | 330 | Snippy Wipeout |
 | 441 | 329 | Emma |
 | 442 | 328 | Krystal Gerstberger |
-| 443 | 328 | Cesar Mendez |
-| 444 | 328 | Desiree Soto |
+| 443 | 328 | Desiree Soto |
+| 444 | 328 | Cesar Mendez |
 | 445 | 327 | Misstery |
 | 446 | 326 | Blair Erin Waite |
 | 447 | 326 | Beppy |
@@ -485,8 +485,8 @@
 | 477 | 312 | Eric Caccavale |
 | 478 | 311 | Irene Arreguin |
 | 479 | 311 | Aponk |
-| 480 | 310 | Trice Sodames |
-| 481 | 310 | Kristi Taylor |
+| 480 | 310 | Kristi Taylor |
+| 481 | 310 | Trice Sodames |
 | 482 | 310 | Joseph Vargas |
 | 483 | 309 | Nikkie Bucciano |
 | 484 | 308 | Sassy Brickmatch |

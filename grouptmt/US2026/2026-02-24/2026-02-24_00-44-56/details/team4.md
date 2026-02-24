@@ -172,8 +172,8 @@
 | 164 | 524 | Erin Sabol |
 | 165 | 522 | Carly Alexis |
 | 166 | 521 | Andy Cabral |
-| 167 | 520 | Oscar Alberto Perez |
-| 168 | 520 | Zippy Block |
+| 167 | 520 | Zippy Block |
+| 168 | 520 | Oscar Alberto Perez |
 | 169 | 516 | Twisty Clicky |
 | 170 | 516 | Trish |
 | 171 | 514 | Scott Jameson |
