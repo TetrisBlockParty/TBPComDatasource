@@ -104,7 +104,7 @@
 | 96 | 881 | Tyler Whitley |
 | 97 | 863 | Madison Wicks |
 | 98 | 860 | Tinah Montanna |
-| 99 | 841 | Hyper |
+| 99 | 812 | Hyper |
 | 100 | 811 | Amanda Johnson Huffman |
 | 101 | 805 | Robert Benito |
 | 102 | 800 | Desiree Deschaine Havee |
@@ -122,8 +122,8 @@
 | 114 | 742 | Chris K |
 | 115 | 725 | Debbie Kane |
 | 116 | 716 | Kristi Johnson |
-| 117 | 706 | Plucky Fallzone |
-| 118 | 706 | Denice Dee |
+| 117 | 706 | Denice Dee |
+| 118 | 706 | Plucky Fallzone |
 | 119 | 702 | lil mickey |
 | 120 | 699 | cc |
 | 121 | 696 | Carrie Smith |
@@ -137,8 +137,8 @@
 | 129 | 666 | Virginia Gray Floyd |
 | 130 | 652 | Evie Khalil |
 | 131 | 651 | Dandy Basegrid |
-| 132 | 650 | Bob |
-| 133 | 650 | April Carroll |
+| 132 | 650 | April Carroll |
+| 133 | 650 | Bob |
 | 134 | 647 | Theo Pinnow |
 | 135 | 643 | Erin Rosberg |
 | 136 | 642 | Mario Cab |
@@ -185,18 +185,18 @@
 | 177 | 525 | Arianna O'Brien |
 | 178 | 522 | Constance Risner |
 | 179 | 521 | Teri Oehlke |
-| 180 | 519 | Anaid Sanchez |
-| 181 | 519 | phrmblk24 |
-| 182 | 519 | Cool Shiftsnap |
+| 180 | 519 | phrmblk24 |
+| 181 | 519 | Cool Shiftsnap |
+| 182 | 519 | Anaid Sanchez |
 | 183 | 517 | Eric DeSimone |
 | 184 | 514 | Chase Collinsworth |
-| 185 | 513 | Rebekah LeiAnn Bonsell |
-| 186 | 513 | Colena Davenport |
+| 185 | 513 | Colena Davenport |
+| 186 | 513 | Rebekah LeiAnn Bonsell |
 | 187 | 511 | MomMom |
 | 188 | 510 | Rat666 |
 | 189 | 501 | Jessica Russell |
-| 190 | 497 | MIKOZ |
-| 191 | 497 | Steve Schneider |
+| 190 | 497 | Steve Schneider |
+| 191 | 497 | MIKOZ |
 | 192 | 496 | Michelle Beres |
 | 193 | 496 | Sarah Somers Gray |
 | 194 | 495 | Connie |
@@ -210,8 +210,8 @@
 | 202 | 486 | Mike Ames |
 | 203 | 482 | Adele Rahman |
 | 204 | 479 | canbrick |
-| 205 | 478 | Jumpy Dropper |
-| 206 | 478 | Hasty Cascader |
+| 205 | 478 | Hasty Cascader |
+| 206 | 478 | Jumpy Dropper |
 | 207 | 477 | Dizzy Slider |
 | 208 | 475 | Reesey Enyart |
 | 209 | 473 | Tamara Brown |
@@ -220,8 +220,8 @@
 | 212 | 466 | Lori Bales |
 | 213 | 458 | Goose egg |
 | 214 | 457 | Kimberly Garcia |
-| 215 | 453 | Angela Spann |
-| 216 | 453 | Kimmie Kimms |
+| 215 | 453 | Kimmie Kimms |
+| 216 | 453 | Angela Spann |
 | 217 | 449 | Tawnya Peltonen |
 | 218 | 448 | Yvonne Marie |
 | 219 | 446 | Monica Donato |

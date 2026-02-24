@@ -135,8 +135,8 @@
 | 127 | 726 | Jamie Gustafson |
 | 128 | 725 | Brandon Crabbs |
 | 129 | 719 | George Nutt |
-| 130 | 712 | Leslie Nicole |
-| 131 | 712 | H.R. Block |
+| 130 | 712 | H.R. Block |
+| 131 | 712 | Leslie Nicole |
 | 132 | 708 | Jacqueline Helm |
 | 133 | 704 | Austin Owens |
 | 134 | 704 | Chilly Crasher |
@@ -195,8 +195,8 @@
 | 187 | 536 | JPW |
 | 188 | 535 | Berklie Apedaile |
 | 189 | 534 | Lucas J Sutton |
-| 190 | 532 | Alan George LaRage |
-| 191 | 532 | Matt Summer |
+| 190 | 532 | Matt Summer |
+| 191 | 532 | Alan George LaRage |
 | 192 | 528 | Carly Alexis |
 | 193 | 528 | Erin Sabol |
 | 194 | 525 | 🥔🥔 Spudz |
@@ -217,8 +217,8 @@
 | 209 | 502 | Christina Black |
 | 210 | 501 | Sharyn Lemire |
 | 211 | 499 | Kesha Brady |
-| 212 | 496 | Lori |
-| 213 | 496 | Jessica Bohlken |
+| 212 | 496 | Jessica Bohlken |
+| 213 | 496 | Lori |
 | 214 | 495 | Joeliecea Cobb |
 | 215 | 494 | Bio Nelly |
 | 216 | 493 | Amanda Pauldo-Ivy |
@@ -374,11 +374,11 @@
 | 366 | 314 | Marcus TheeyoungWoe Gilmore |
 | 367 | 314 | Kenna Gunderland |
 | 368 | 314 | KoolMom9907 |
-| 369 | 314 | Kenna Gunderland |
+| 369 | 314 | Paige Kittles |
 | 370 | 312 | Tawna Curry |
-| 371 | 311 | Ak Jones |
-| 372 | 311 | Reds Bella |
-| 373 | 311 | KayM |
+| 371 | 311 | Reds Bella |
+| 372 | 311 | KayM |
+| 373 | 311 | Ak Jones |
 | 374 | 309 | tipsy tiger |
 | 375 | 308 | Angela Geist Jusinski |
 | 376 | 307 | Eri Kka |

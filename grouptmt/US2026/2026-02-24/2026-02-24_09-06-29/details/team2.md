@@ -178,9 +178,9 @@
 | 170 | 2108 | Vo'Landa Reels |
 | 171 | 2106 | Cool Rollpiece |
 | 172 | 2093 | Michele Gabriel |
-| 173 | 2088 | Mr. Street Stack |
-| 174 | 2084 | Shandrica Lowe |
-| 175 | 2075 | Cody Smith-Candelaria |
+| 173 | 2084 | Shandrica Lowe |
+| 174 | 2075 | Cody Smith-Candelaria |
+| 175 | 2070 | Mr. Street Stack |
 | 176 | 2068 | PsychKIRAtrist |
 | 177 | 2057 | Amy Sayers |
 | 178 | 2056 | Alisa Lamb |
@@ -316,8 +316,8 @@
 | 308 | 1357 | Tanya Parsons |
 | 309 | 1353 | Deborah Miller |
 | 310 | 1353 | Heather Hoffman Disharoon |
-| 311 | 1351 | Lucky Ladybug |
-| 312 | 1351 | Ashie Ann |
+| 311 | 1351 | Ashie Ann |
+| 312 | 1351 | Lucky Ladybug |
 | 313 | 1351 | Denisha Dawkins |
 | 314 | 1351 | Johnny Yeates |
 | 315 | 1345 | Tralonda Weeks |
@@ -1028,10 +1028,10 @@
 | 1020 | 573 | Christina Burns |
 | 1021 | 572 | Mercedez Hubbard |
 | 1022 | 572 | Rachael Senard |
-| 1023 | 571 | Zachary Boyarski |
-| 1024 | 571 | Matt Johnson |
-| 1025 | 570 | MauroPRM |
-| 1026 | 570 | Erika Deer Kauffman |
+| 1023 | 571 | Matt Johnson |
+| 1024 | 571 | Zachary Boyarski |
+| 1025 | 570 | Erika Deer Kauffman |
+| 1026 | 570 | MauroPRM |
 | 1027 | 570 | Sonya Back |
 | 1028 | 569 | Anita Rose Green |
 | 1029 | 569 | Sparkles |
