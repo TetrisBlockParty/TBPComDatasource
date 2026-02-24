@@ -94,8 +94,8 @@
 | 86 | 855 | Chilly Line |
 | 87 | 850 | Lucille Truesdale |
 | 88 | 846 | Christine Marie |
-| 89 | 841 | Judy Cox |
-| 90 | 841 | Shauna Havard |
+| 89 | 841 | Shauna Havard |
+| 90 | 841 | Judy Cox |
 | 91 | 840 | Chaz Duncan |
 | 92 | 834 | quicksand420 |
 | 93 | 826 | Rica Mitchell |
@@ -227,8 +227,8 @@
 | 219 | 444 | Shiny Fit |
 | 220 | 443 | Kristina Black |
 | 221 | 442 | 🥔🥔 Spudz |
-| 222 | 441 | Lush Linkfall |
-| 223 | 441 | Jen Mattei |
+| 222 | 441 | Jen Mattei |
+| 223 | 441 | Lush Linkfall |
 | 224 | 438 | Melvin Baird |
 | 225 | 436 | Selena Shaw |
 | 226 | 434 | Ramel Rhodes |
@@ -245,8 +245,8 @@
 | 237 | 421 | JIGsaw ~(•¿°)~ |
 | 238 | 419 | Silly Zonebuilder |
 | 239 | 413 | Jeff Brian Gates |
-| 240 | 411 | Gdiguy |
-| 241 | 411 | Autumn Kumzi |
+| 240 | 411 | Autumn Kumzi |
+| 241 | 411 | Gdiguy |
 | 242 | 410 | Lindsay Ball |
 | 243 | 409 | Antony Dwayne Beasley |
 | 244 | 408 | Lauren Scott |
