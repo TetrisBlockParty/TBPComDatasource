@@ -44,8 +44,8 @@
 | 36 | 1405 | Chipper Gridlock |
 | 37 | 1396 | Derek MF Blakey |
 | 38 | 1391 | Aaron Garnett |
-| 39 | 1334 | june october |
-| 40 | 1334 | Tyler Alcock |
+| 39 | 1334 | Tyler Alcock |
+| 40 | 1334 | june october |
 | 41 | 1277 | Marianne Louise West |
 | 42 | 1250 | Stef Hu |
 | 43 | 1239 | Brenda Stewart |
@@ -76,8 +76,8 @@
 | 68 | 978 | Amber Stoker |
 | 69 | 975 | TSwag |
 | 70 | 974 | Veronica Eve |
-| 71 | 966 | Francesca Gee |
-| 72 | 966 | Shalene Frederick Autrey |
+| 71 | 966 | Shalene Frederick Autrey |
+| 72 | 966 | Francesca Gee |
 | 73 | 961 | Jacqueline Williams |
 | 74 | 957 | Zippy Align |
 | 75 | 929 | Erin Hodges Plumb |
@@ -451,8 +451,8 @@
 | 443 | 238 | ash |
 | 444 | 236 | Marie White |
 | 445 | 236 | Snappy Bridgepiece |
-| 446 | 235 | Jumpy Rotate |
-| 447 | 235 | Theeranart Mahawan |
+| 446 | 235 | Theeranart Mahawan |
+| 447 | 235 | Jumpy Rotate |
 | 448 | 235 | Nutty Glide |
 | 449 | 234 | Dizzy Riseclear |
 | 450 | 233 | Amie Fields |

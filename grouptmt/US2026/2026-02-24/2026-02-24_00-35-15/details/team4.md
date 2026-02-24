@@ -124,11 +124,11 @@
 | 116 | 687 | Chris Alexinas |
 | 117 | 682 | Raegan Lane-Ross |
 | 118 | 673 | Jacqueline Helm |
-| 119 | 667 | Amy Suckarieh |
-| 120 | 667 | Lindsey Gonzalez |
+| 119 | 667 | Lindsey Gonzalez |
+| 120 | 667 | Amy Suckarieh |
 | 121 | 664 | Leslie Nicole |
-| 122 | 659 | Matt Gooder |
-| 123 | 659 | Jamie Gustafson |
+| 122 | 659 | Jamie Gustafson |
+| 123 | 659 | Matt Gooder |
 | 124 | 658 | Zippy Gridlock |
 | 125 | 653 | Patron Anderson |
 | 126 | 647 | KM8 |
@@ -266,8 +266,8 @@
 | 258 | 369 | Matt Dell'Olio |
 | 259 | 368 | Kris Bartlett |
 | 260 | 367 | Meg |
-| 261 | 366 | Cheery Risebuilder |
-| 262 | 366 | Andrew Dang |
+| 261 | 366 | Andrew Dang |
+| 262 | 366 | Cheery Risebuilder |
 | 263 | 365 | Hyper Builder |
 | 264 | 360 | James Hurley Jr. |
 | 265 | 359 | KimoKoala |
@@ -296,7 +296,7 @@
 | 288 | 329 | Joanna |
 | 289 | 328 | Leah Kutz Zirbel |
 | 290 | 324 | Nubian1 |
-| 291 | 322 | Tina Lopez |
+| 291 | 322 | Jason Gibbs |
 | 292 | 322 | Dizzy Matchzone |
 | 293 | 322 | Tina Lopez |
 | 294 | 321 | Blessedmama |
@@ -305,8 +305,8 @@
 | 297 | 321 | Meagan Nicole |
 | 298 | 321 | Dihcheese444 |
 | 299 | 319 | Lora |
-| 300 | 318 | Duck |
-| 301 | 318 | Russ Attitude |
+| 300 | 318 | Russ Attitude |
+| 301 | 318 | Duck |
 | 302 | 317 | O block |
 | 303 | 317 | Madison Sweere |
 | 304 | 317 | Stella |
@@ -346,8 +346,8 @@
 | 338 | 289 | Lazy Glidepiece |
 | 339 | 288 | Amy Jean |
 | 340 | 288 | Jumpy Zonepiece |
-| 341 | 286 | Bradley Reeves |
-| 342 | 286 | Brittany Little |
+| 341 | 286 | Brittany Little |
+| 342 | 286 | Bradley Reeves |
 | 343 | 285 | Amy Sanford |
 | 344 | 284 | Malakai Darien Fox |
 | 345 | 284 | Glitzy Corner |
@@ -394,8 +394,8 @@
 | 386 | 262 | Ruben Wheeler |
 | 387 | 260 | Carter Jones |
 | 388 | 259 | Allen Lloyd |
-| 389 | 258 | PennyCandee |
-| 390 | 258 | Lilya Troutman |
+| 389 | 258 | Lilya Troutman |
+| 390 | 258 | PennyCandee |
 | 391 | 258 | Stephme310 |
 | 392 | 257 | Dustin York |
 | 393 | 257 | Michael Snow |

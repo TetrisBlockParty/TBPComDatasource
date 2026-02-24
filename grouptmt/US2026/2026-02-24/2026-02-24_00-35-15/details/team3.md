@@ -369,8 +369,8 @@
 | 361 | 386 | Kelly Wolf |
 | 362 | 383 | Kirhonda Autmon |
 | 363 | 383 | Nikki White |
-| 364 | 382 | Amanda J. Mcneil-Anderson |
-| 365 | 382 | Tiffany Davie |
+| 364 | 382 | Tiffany Davie |
+| 365 | 382 | Amanda J. Mcneil-Anderson |
 | 366 | 381 | Christina Spa |
 | 367 | 381 | gremicx |
 | 368 | 379 | Kaitie Oliver |
@@ -467,8 +467,8 @@
 | 459 | 321 | Sdot |
 | 460 | 320 | Kevin Russell |
 | 461 | 320 | Or Reznitsky |
-| 462 | 320 | Taylor Hood |
-| 463 | 320 | Julie Fratrik |
+| 462 | 320 | Julie Fratrik |
+| 463 | 320 | Taylor Hood |
 | 464 | 319 | Boldy Corner |
 | 465 | 318 | Rainbow77375 |
 | 466 | 318 | Christy Quick |
