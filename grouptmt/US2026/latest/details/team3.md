@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-02-24 13:25:22 UTC
+# Standings for team3 as of 2026-02-24 13:25:25 UTC
 
 **Total Participants:** 3425
 
@@ -149,8 +149,8 @@
 | 141 | 1014 | Shavette |
 | 142 | 1012 | Danielle Becker |
 | 143 | 1000 | Sashay Tapae Simpson |
-| 144 | 998 | Giddy Drop |
-| 145 | 998 | Rosalie Call Kehlenbeck |
+| 144 | 998 | Rosalie Call Kehlenbeck |
+| 145 | 998 | Giddy Drop |
 | 146 | 995 | mzcatzy |
 | 147 | 991 | Heather Green |
 | 148 | 990 | Brenda Lee Vander Molen |
@@ -246,8 +246,8 @@
 | 238 | 704 | Lively Caster |
 | 239 | 703 | Rachael McClain Owens |
 | 240 | 702 | Chris Bell |
-| 241 | 693 | Tamara Deherrera |
-| 242 | 693 | lashanda |
+| 241 | 693 | lashanda |
+| 242 | 693 | Tamara Deherrera |
 | 243 | 691 | Tia |
 | 244 | 687 | joz |
 | 245 | 680 | Terry Jo Jones |
@@ -266,8 +266,8 @@
 | 258 | 642 | Rania Zaqout |
 | 259 | 641 | Tom Nault |
 | 260 | 640 | Dee Pratt |
-| 261 | 639 | Marci Mize Fandrich |
-| 262 | 639 | Nichol Graham |
+| 261 | 639 | Nichol Graham |
+| 262 | 639 | Marci Mize Fandrich |
 | 263 | 637 | Giddy Twistbuilder |
 | 264 | 636 | Salena Whitlock |
 | 265 | 636 | Bmo |
@@ -291,9 +291,9 @@
 | 283 | 603 | Eileen Brady Thurber |
 | 284 | 600 | Natasha Jones |
 | 285 | 594 | Cozy Snaplink |
-| 286 | 586 | France Vézina |
+| 286 | 586 | Brian Battjes |
 | 287 | 586 | Donna |
-| 288 | 586 | Brian Battjes |
+| 288 | 586 | France Vézina |
 | 289 | 584 | Michael Johnson |
 | 290 | 583 | Michael Lucado |
 | 291 | 582 | FuzzyNavel |
@@ -335,8 +335,8 @@
 | 327 | 506 | Ammmmmmy |
 | 328 | 504 | Daring Builder |
 | 329 | 500 | Ashley Tookes |
-| 330 | 499 | Megan Rathmanner |
-| 331 | 499 | Gumbo |
+| 330 | 499 | Gumbo |
+| 331 | 499 | Megan Rathmanner |
 | 332 | 497 | Randy Clevenger |
 | 333 | 496 | Brenda Schmid Wood |
 | 334 | 494 | fraulila |
@@ -363,12 +363,12 @@
 | 355 | 474 | Troy |
 | 356 | 473 | Christian Werndl |
 | 357 | 472 | Briana Wellman |
-| 358 | 471 | Mendoza Lee Christy |
-| 359 | 471 | Sarah Moyer |
+| 358 | 471 | Sarah Moyer |
+| 359 | 471 | Mendoza Lee Christy |
 | 360 | 470 | Jazzy Spinfit |
 | 361 | 468 | Bigmack |
-| 362 | 467 | Linda Draper |
-| 363 | 467 | Danielle Rhoades |
+| 362 | 467 | Danielle Rhoades |
+| 363 | 467 | Linda Draper |
 | 364 | 465 | Blocked |
 | 365 | 464 | Snazzy Filler |
 | 366 | 463 | Hoài Quắt |
@@ -385,14 +385,14 @@
 | 377 | 454 | Swanky Frame |
 | 378 | 452 | Dapper Liney |
 | 379 | 450 | Luciana Braganca Vieira |
-| 380 | 449 | Jojo M |
-| 381 | 449 | Sissy Lowery Davis |
+| 380 | 449 | Sissy Lowery Davis |
+| 381 | 449 | Jojo M |
 | 382 | 447 | Carrie Huskey |
 | 383 | 447 | Num1hater |
-| 384 | 445 | Loopy Clusterer |
+| 384 | 445 | Sabrina Hardrick |
 | 385 | 445 | Julie Fratrik |
-| 386 | 445 | Christina Rotz Shows |
-| 387 | 445 | Sabrina Hardrick |
+| 386 | 445 | Loopy Clusterer |
+| 387 | 445 | Christina Rotz Shows |
 | 388 | 444 | Heather De Vries Cobb |
 | 389 | 442 | Loopy Fallzone |
 | 390 | 439 | Quackers |
@@ -407,8 +407,8 @@
 | 399 | 431 | Goofy Fall |
 | 400 | 431 | Donna Esbensen-Alpini |
 | 401 | 428 | keni |
-| 402 | 428 | Samantha Worley |
-| 403 | 428 | Samantha Lynn |
+| 402 | 428 | Samantha Lynn |
+| 403 | 428 | Samantha Worley |
 | 404 | 428 | Skinny Baldez |
 | 405 | 427 | Darlene McMillan |
 | 406 | 426 | Heather Bateman |
@@ -421,8 +421,8 @@
 | 413 | 417 | Krish Shah |
 | 414 | 416 | Scott Lindsay |
 | 415 | 415 | Theresa Opell Gartner |
-| 416 | 414 | Michelle Allers |
-| 417 | 414 | Arden White Kirsch |
+| 416 | 414 | Arden White Kirsch |
+| 417 | 414 | Michelle Allers |
 | 418 | 413 | Rick Poppen |
 | 419 | 412 | Giggy Balanceblock |
 | 420 | 411 | Eboni Starr |
@@ -461,38 +461,38 @@
 | 453 | 381 | Brittany |
 | 454 | 381 | Romeo |
 | 455 | 381 | Mary Giorgenti |
-| 456 | 380 | neci |
-| 457 | 380 | Foltz Lee Kelli |
+| 456 | 380 | Foltz Lee Kelli |
+| 457 | 380 | neci |
 | 458 | 377 | Paula Little |
 | 459 | 376 | Tracy Martin |
-| 460 | 375 | NeeCee |
+| 460 | 375 | Christy Quick |
 | 461 | 375 | Denise Marie |
-| 462 | 375 | Christy Quick |
+| 462 | 375 | NeeCee |
 | 463 | 375 | Kathleen Taylor |
-| 464 | 373 | Yvonne Felicia Garcia |
-| 465 | 373 | Bekah Dietrich |
+| 464 | 373 | Bekah Dietrich |
+| 465 | 373 | Yvonne Felicia Garcia |
 | 466 | 373 | Block Baddie |
 | 467 | 372 | Big T |
 | 468 | 372 | Raijinell King |
 | 469 | 371 | Lys |
 | 470 | 370 | Eric Caccavale |
 | 471 | 369 | Hoppy Buildout |
-| 472 | 368 | Jimmie Clemons |
-| 473 | 368 | Sheila M Frazier |
-| 474 | 368 | Stephanie Woods |
-| 475 | 368 | Ashley Rufus Bythcez |
-| 476 | 368 | Tony Waters |
+| 472 | 368 | Tony Waters |
+| 473 | 368 | Stephanie Woods |
+| 474 | 368 | Ashley Rufus Bythcez |
+| 475 | 368 | Sheila M Frazier |
+| 476 | 368 | Jimmie Clemons |
 | 477 | 367 | Funky Jumper |
 | 478 | 367 | Danetta McCadden |
 | 479 | 366 | Erykah |
 | 480 | 365 | Emma |
 | 481 | 365 | Frothy Glider |
-| 482 | 364 | xsiv |
-| 483 | 364 | 4girls |
-| 484 | 363 | Nena Somerville Kelly |
-| 485 | 363 | angieelyn |
+| 482 | 364 | 4girls |
+| 483 | 364 | xsiv |
+| 484 | 363 | Katrina Turner |
+| 485 | 363 | Nena Somerville Kelly |
 | 486 | 363 | Giggly Brickroll |
-| 487 | 363 | Katrina Turner |
+| 487 | 363 | angieelyn |
 | 488 | 361 | Fredd Thomas |
 | 489 | 360 | Cathy Leger |
 | 490 | 359 | Cranky Corner |
@@ -501,8 +501,8 @@
 | 493 | 358 | Hyper Twisterfit |
 | 494 | 356 | Nikkie Bucciano |
 | 495 | 356 | Trice Sodames |
-| 496 | 354 | Norma JulieMay |
-| 497 | 354 | Mindy Phelps |
+| 496 | 354 | Mindy Phelps |
+| 497 | 354 | Norma JulieMay |
 | 498 | 353 | Cheeky Snapper |
 | 499 | 353 | Erika Apodaca |
 | 500 | 353 | Clever Edgepiece |
@@ -521,19 +521,19 @@
 | 513 | 344 | Aeh |
 | 514 | 343 | Michael Leblanc |
 | 515 | 343 | Christina Marie Swisher |
-| 516 | 342 | Boldy Corner |
+| 516 | 342 | Tipsy Zonebuilder |
 | 517 | 342 | Saucy Buildout |
-| 518 | 342 | Tipsy Zonebuilder |
-| 519 | 342 | Sunny Lift |
+| 518 | 342 | Sunny Lift |
+| 519 | 342 | Boldy Corner |
 | 520 | 341 | Carol Cain Thurman |
 | 521 | 341 | Jolly Dashpiece |
-| 522 | 340 | Erika Thornton |
-| 523 | 340 | Or Reznitsky |
-| 524 | 340 | Beezwax |
-| 525 | 340 | Misstery |
-| 526 | 340 | Becca Engle |
-| 527 | 340 | Bleu Sun Beams |
-| 528 | 340 | Loony Slider |
+| 522 | 340 | Loony Slider |
+| 523 | 340 | Bleu Sun Beams |
+| 524 | 340 | Or Reznitsky |
+| 525 | 340 | Becca Engle |
+| 526 | 340 | Misstery |
+| 527 | 340 | Erika Thornton |
+| 528 | 340 | Beezwax |
 | 529 | 340 | Kerry Nowickshere |
 | 530 | 339 | Evelyn Ortega |
 | 531 | 339 | Heather Ferrara |
