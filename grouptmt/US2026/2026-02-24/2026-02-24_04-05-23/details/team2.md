@@ -416,8 +416,8 @@
 | 408 | 1071 | Kim Dean |
 | 409 | 1068 | Tiffany Branham |
 | 410 | 1067 | Caitlin Schmid |
-| 411 | 1067 | Taylor Phillips |
-| 412 | 1067 | Lourisha |
+| 411 | 1067 | Lourisha |
+| 412 | 1067 | Taylor Phillips |
 | 413 | 1058 | Jessica Wayne Cornwall |
 | 414 | 1052 | Hunter Connors |
 | 415 | 1051 | Kia Humphery |
@@ -843,8 +843,8 @@
 | 835 | 628 | Macy Jarrett |
 | 836 | 627 | Kristie Wilcox |
 | 837 | 626 | Autumn Schaeffer |
-| 838 | 626 | Tash Bell |
-| 839 | 626 | Pfc Monei Rivera |
+| 838 | 626 | Pfc Monei Rivera |
+| 839 | 626 | Tash Bell |
 | 840 | 625 | Kacee Conrad Bock |
 | 841 | 624 | Elizabeth Perterson |
 | 842 | 623 | cornball |

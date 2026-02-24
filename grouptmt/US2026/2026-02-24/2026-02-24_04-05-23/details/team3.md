@@ -340,16 +340,16 @@
 | 332 | 461 | Briana Wellman |
 | 333 | 460 | Antonia Russell |
 | 334 | 459 | Randy Clevenger |
-| 335 | 456 | Kelly |
-| 336 | 456 | Cynthia Herrmann Egland |
+| 335 | 456 | Cynthia Herrmann Egland |
+| 336 | 456 | Kelly |
 | 337 | 455 | Kelly Wolf |
 | 338 | 452 | Tyler Shoff |
 | 339 | 452 | Snippy Wipeout |
 | 340 | 450 | Stefanie LaPointe |
 | 341 | 450 | Luciana Braganca Vieira |
 | 342 | 449 | Mcathen |
-| 343 | 447 | Snazzy Filler |
-| 344 | 447 | Num1hater |
+| 343 | 447 | Num1hater |
+| 344 | 447 | Snazzy Filler |
 | 345 | 446 | Jennifer Alvey |
 | 346 | 445 | Loopy Clusterer |
 | 347 | 444 | Heather De Vries Cobb |
@@ -359,8 +359,8 @@
 | 351 | 438 | Dannie Litchard |
 | 352 | 436 | AC Yeater |
 | 353 | 435 | Sabrina Hardrick |
-| 354 | 432 | Jojo M |
-| 355 | 432 | Julie Fratrik |
+| 354 | 432 | Julie Fratrik |
+| 355 | 432 | Jojo M |
 | 356 | 431 | Donna Esbensen-Alpini |
 | 357 | 430 | Quackers |
 | 358 | 428 | Samantha Lynn |

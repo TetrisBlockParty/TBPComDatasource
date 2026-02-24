@@ -358,8 +358,8 @@
 | 350 | 305 | Damian Salem |
 | 351 | 304 | Chummy Rollblock |
 | 352 | 302 | Richard Corrado |
-| 353 | 301 | Chad Atchley |
-| 354 | 301 | Susie Loo |
+| 353 | 301 | Susie Loo |
+| 354 | 301 | Chad Atchley |
 | 355 | 300 | Logan McFarland |
 | 356 | 299 | Rachel Rogers |
 | 357 | 299 | Nathan William |

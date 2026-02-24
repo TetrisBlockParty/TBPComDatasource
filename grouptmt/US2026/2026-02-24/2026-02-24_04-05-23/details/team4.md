@@ -69,8 +69,8 @@
 | 61 | 1116 | Ashley Ingram |
 | 62 | 1098 | BertMofo |
 | 63 | 1089 | Alyssa Papen |
-| 64 | 1082 | Dion Crommarty |
-| 65 | 1082 | Avy Absol |
+| 64 | 1082 | Avy Absol |
+| 65 | 1082 | Dion Crommarty |
 | 66 | 1075 | Dustee Craddock-Harrison |
 | 67 | 1069 | Heather Tushner |
 | 68 | 1047 | Julian Garcia |
@@ -155,8 +155,8 @@
 | 147 | 602 | Cristy Duerksen |
 | 148 | 600 | Carrie Brian |
 | 149 | 599 | Adam Stephanie Parker |
-| 150 | 595 | shar |
-| 151 | 595 | Rodney McMath Jr. |
+| 150 | 595 | Rodney McMath Jr. |
+| 151 | 595 | shar |
 | 152 | 587 | YoMomma |
 | 153 | 586 | Cursed Hag |
 | 154 | 586 | Latisha Davis |
