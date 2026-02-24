@@ -99,21 +99,21 @@
 | 91 | 878 | Lucille Truesdale |
 | 92 | 873 | Courtney Cicoria |
 | 93 | 869 | Judy Cox |
-| 94 | 864 | Guy Incognito |
-| 95 | 864 | Samantha Peterson |
+| 94 | 864 | Samantha Peterson |
+| 95 | 864 | Guy Incognito |
 | 96 | 854 | Shauna Havard |
 | 97 | 851 | Jason Hart |
 | 98 | 846 | Christine Marie |
 | 99 | 840 | SAP |
 | 100 | 837 | Rica Mitchell |
-| 101 | 834 | Brittney Orengo |
-| 102 | 834 | quicksand420 |
+| 101 | 834 | quicksand420 |
+| 102 | 834 | Brittney Orengo |
 | 103 | 815 | Diana Houts |
 | 104 | 813 | Klo |
 | 105 | 811 | Sassy Pattern |
 | 106 | 806 | Lori Walker |
-| 107 | 802 | Crystal Carroll |
-| 108 | 802 | Denise Carlson |
+| 107 | 802 | Denise Carlson |
+| 108 | 802 | Crystal Carroll |
 | 109 | 801 | D3TROITB0RN74 |
 | 110 | 798 | Jewell Urban |
 | 111 | 781 | Brittney Griggs |
@@ -130,14 +130,14 @@
 | 122 | 735 | Nugget |
 | 123 | 731 | KJ Pool |
 | 124 | 729 | Jamie Mann-Deichmann |
-| 125 | 726 | Jamie Gustafson |
-| 126 | 726 | Amy Suckarieh |
+| 125 | 726 | Amy Suckarieh |
+| 126 | 726 | Jamie Gustafson |
 | 127 | 725 | Brandon Crabbs |
-| 128 | 712 | Leslie Nicole |
-| 129 | 712 | H.R. Block |
+| 128 | 712 | H.R. Block |
+| 129 | 712 | Leslie Nicole |
 | 130 | 708 | Jacqueline Helm |
-| 131 | 704 | Chilly Crasher |
-| 132 | 704 | Austin Owens |
+| 131 | 704 | Austin Owens |
+| 132 | 704 | Chilly Crasher |
 | 133 | 682 | Raegan Lane-Ross |
 | 134 | 668 | Desi Desporte |
 | 135 | 667 | Matt Gooder |
@@ -225,8 +225,8 @@
 | 217 | 482 | Laura |
 | 218 | 481 | Joanna |
 | 219 | 475 | Silly Zonebuilder |
-| 220 | 473 | Cranky Rollpiece |
-| 221 | 473 | Jolly Dashfit |
+| 220 | 473 | Jolly Dashfit |
+| 221 | 473 | Cranky Rollpiece |
 | 222 | 468 | June Hoffman |
 | 223 | 465 | Leslie Thomas |
 | 224 | 464 | Zakia Monae |
@@ -250,13 +250,13 @@
 | 242 | 438 | Melvin Baird |
 | 243 | 438 | 23 |
 | 244 | 434 | Ramel Rhodes |
-| 245 | 433 | Damn Libra |
-| 246 | 433 | Circuit8 |
-| 247 | 432 | scott |
-| 248 | 432 | Plucky Patternblock |
+| 245 | 433 | Circuit8 |
+| 246 | 433 | Damn Libra |
+| 247 | 432 | Plucky Patternblock |
+| 248 | 432 | scott |
 | 249 | 430 | Chris Bernstein |
-| 250 | 427 | Chao Ma |
-| 251 | 427 | Cheery Risebuilder |
+| 250 | 427 | Cheery Risebuilder |
+| 251 | 427 | Chao Ma |
 | 252 | 424 | Andrew Dang |
 | 253 | 423 | Gdiguy |
 | 254 | 421 | Brickh4us |
@@ -323,8 +323,8 @@
 | 315 | 347 | Perky Patternblock |
 | 316 | 346 | Metsfan |
 | 317 | 344 | Amanda Maciel Clarke |
-| 318 | 343 | Blessedmama |
-| 319 | 343 | HastyGrabber |
+| 318 | 343 | HastyGrabber |
+| 319 | 343 | Blessedmama |
 | 320 | 342 | Lauren Lamb |
 | 321 | 340 | Juls |
 | 322 | 339 | Chance Strickland |

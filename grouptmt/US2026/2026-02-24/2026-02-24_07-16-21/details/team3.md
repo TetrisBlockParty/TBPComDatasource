@@ -104,8 +104,8 @@
 | 96 | 1361 | Patricia Gadsden |
 | 97 | 1343 | Joey Banks |
 | 98 | 1320 | Kristie |
-| 99 | 1318 | Diana Ibarra |
-| 100 | 1318 | Tiff Vs Tiffany |
+| 99 | 1318 | Tiff Vs Tiffany |
+| 100 | 1318 | Diana Ibarra |
 | 101 | 1309 | yoyo |
 | 102 | 1297 | Shelby Michelle |
 | 103 | 1290 | JerseyJess |
@@ -124,8 +124,8 @@
 | 116 | 1134 | Melissa Orth Hunter |
 | 117 | 1124 | Stephanie Rice |
 | 118 | 1121 | Corie A. Brinson |
-| 119 | 1114 | Groovy Catcher |
-| 120 | 1114 | Loopy Fallmatch |
+| 119 | 1114 | Loopy Fallmatch |
+| 120 | 1114 | Groovy Catcher |
 | 121 | 1105 | Adrian Marcel Pate |
 | 122 | 1093 | Angela M. Fletcher |
 | 123 | 1091 | Jennifer |
@@ -180,8 +180,8 @@
 | 172 | 857 | Dana Fox |
 | 173 | 856 | Dana Winters |
 | 174 | 854 | Speedy Bridger |
-| 175 | 847 | Daring Brickzone |
-| 176 | 847 | Daira Largen |
+| 175 | 847 | Daira Largen |
+| 176 | 847 | Daring Brickzone |
 | 177 | 846 | Nicole Myers |
 | 178 | 845 | Edwin Calvillo Jr. |
 | 179 | 821 | Angella Lyons |
@@ -227,12 +227,12 @@
 | 219 | 715 | Karon Griffin |
 | 220 | 714 | Jenny Hrndz |
 | 221 | 713 | Stephanie Blkpep Davidson |
-| 222 | 709 | Cynthia Castros-Hampton |
-| 223 | 709 | Christine Niles |
+| 222 | 709 | Christine Niles |
+| 223 | 709 | Cynthia Castros-Hampton |
 | 224 | 708 | Stephanie Bradley |
 | 225 | 703 | Shawn Miller |
-| 226 | 691 | Snappy Balancer |
-| 227 | 691 | Tia |
+| 226 | 691 | Tia |
+| 227 | 691 | Snappy Balancer |
 | 228 | 687 | joz |
 | 229 | 675 | Terry Jo Jones |
 | 230 | 662 | Jim Mathews |
@@ -323,19 +323,19 @@
 | 315 | 506 | Ammmmmmy |
 | 316 | 505 | Stephanie Simpson |
 | 317 | 500 | Ashley Tookes |
-| 318 | 499 | Rebecca Bailey |
-| 319 | 499 | Gumbo |
-| 320 | 499 | Megan Rathmanner |
+| 318 | 499 | Gumbo |
+| 319 | 499 | Megan Rathmanner |
+| 320 | 499 | Rebecca Bailey |
 | 321 | 496 | Brenda Schmid Wood |
 | 322 | 495 | Daring Builder |
-| 323 | 494 | fraulila |
-| 324 | 494 | MCV |
+| 323 | 494 | MCV |
+| 324 | 494 | fraulila |
 | 325 | 492 | Tasha Wesson-Torrence |
 | 326 | 490 | Cassandra Bryant |
 | 327 | 489 | Isabel Ocasio |
 | 328 | 487 | MsBee |
-| 329 | 486 | Sleepy |
-| 330 | 486 | Skippy |
+| 329 | 486 | Skippy |
+| 330 | 486 | Sleepy |
 | 331 | 482 | Chummy Rumbler |
 | 332 | 481 | Tiffanie Alley |
 | 333 | 480 | TLM |
@@ -361,8 +361,8 @@
 | 353 | 456 | Cynthia Herrmann Egland |
 | 354 | 456 | Kelly |
 | 355 | 455 | Kelly Wolf |
-| 356 | 450 | Luciana Braganca Vieira |
-| 357 | 450 | Stefanie LaPointe |
+| 356 | 450 | Stefanie LaPointe |
+| 357 | 450 | Luciana Braganca Vieira |
 | 358 | 449 | Lively Caster |
 | 359 | 447 | Carrie Huskey |
 | 360 | 447 | Num1hater |
@@ -375,8 +375,8 @@
 | 367 | 443 | Christian Werndl |
 | 368 | 442 | Loopy Fallzone |
 | 369 | 438 | Dannie Litchard |
-| 370 | 436 | Julie Fratrik |
-| 371 | 436 | AC Yeater |
+| 370 | 436 | AC Yeater |
+| 371 | 436 | Julie Fratrik |
 | 372 | 435 | Sabrina Hardrick |
 | 373 | 432 | Hoppy Patternline |
 | 374 | 432 | Sabrina Mansfield |
@@ -396,8 +396,8 @@
 | 388 | 418 | Rainbow77375 |
 | 389 | 416 | Tay |
 | 390 | 415 | Steffi Chris Dacones |
-| 391 | 414 | Arden White Kirsch |
-| 392 | 414 | RickyG |
+| 391 | 414 | RickyG |
+| 392 | 414 | Arden White Kirsch |
 | 393 | 413 | Rick Poppen |
 | 394 | 411 | Beaudie Stroebel |
 | 395 | 409 | Goofy Fall |

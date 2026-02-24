@@ -1053,8 +1053,8 @@
 | 1045 | 554 | Cheery Puzzler |
 | 1046 | 554 | Hoppy Glidebuilder |
 | 1047 | 554 | Dusti Rose Bingham |
-| 1048 | 553 | ruth |
-| 1049 | 553 | Tum |
+| 1048 | 553 | Tum |
+| 1049 | 553 | ruth |
 | 1050 | 553 | Sar Mo |
 | 1051 | 553 | Jason Kelly |
 | 1052 | 552 | Demitri Smith |
@@ -1097,8 +1097,8 @@
 | 1089 | 537 | Austin Wilson |
 | 1090 | 536 | Paul Hinkle |
 | 1091 | 536 | Enha |
-| 1092 | 535 | Frisky Patternline |
-| 1093 | 535 | Katrina Willmon |
+| 1092 | 535 | Katrina Willmon |
+| 1093 | 535 | Frisky Patternline |
 | 1094 | 534 | JAG$*V¡LL£•FL•DuuuVaL |
 | 1095 | 534 | Kara Jennifer |
 | 1096 | 533 | Amanda West |
