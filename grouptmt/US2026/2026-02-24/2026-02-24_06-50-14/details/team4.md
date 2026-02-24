@@ -70,8 +70,8 @@
 | 62 | 1108 | BertMofo |
 | 63 | 1094 | Shelly Chandler |
 | 64 | 1089 | Alyssa Papen |
-| 65 | 1082 | Avy Absol |
-| 66 | 1082 | Dion Crommarty |
+| 65 | 1082 | Dion Crommarty |
+| 66 | 1082 | Avy Absol |
 | 67 | 1081 | Dustee Craddock-Harrison |
 | 68 | 1069 | Heather Tushner |
 | 69 | 1056 | Keith Kelley |
@@ -106,8 +106,8 @@
 | 98 | 842 | Aden Moss |
 | 99 | 840 | SAP |
 | 100 | 837 | Rica Mitchell |
-| 101 | 834 | quicksand420 |
-| 102 | 834 | Brittney Orengo |
+| 101 | 834 | Brittney Orengo |
+| 102 | 834 | quicksand420 |
 | 103 | 815 | Diana Houts |
 | 104 | 813 | Klo |
 | 105 | 811 | Sassy Pattern |
@@ -130,8 +130,8 @@
 | 122 | 731 | KJ Pool |
 | 123 | 729 | Jamie Mann-Deichmann |
 | 124 | 728 | Zippy Gridlock |
-| 125 | 726 | Jamie Gustafson |
-| 126 | 726 | Amy Suckarieh |
+| 125 | 726 | Amy Suckarieh |
+| 126 | 726 | Jamie Gustafson |
 | 127 | 725 | Brandon Crabbs |
 | 128 | 712 | H.R. Block |
 | 129 | 712 | Leslie Nicole |
@@ -142,8 +142,8 @@
 | 134 | 668 | Desi Desporte |
 | 135 | 667 | Lindsey Gonzalez |
 | 136 | 667 | Matt Gooder |
-| 137 | 662 | Nerdy Twisterfit |
-| 138 | 662 | George Nutt |
+| 137 | 662 | George Nutt |
+| 138 | 662 | Nerdy Twisterfit |
 | 139 | 661 | Rodney McMath Jr. |
 | 140 | 651 | Adawna Swires |
 | 141 | 650 | Chris Hartig |
@@ -210,12 +210,12 @@
 | 202 | 509 | Mimi |
 | 203 | 507 | Andria Lynn |
 | 204 | 504 | Deanna Deckard |
-| 205 | 502 | Ericca Eldridge |
-| 206 | 502 | Christina Black |
+| 205 | 502 | Christina Black |
+| 206 | 502 | Ericca Eldridge |
 | 207 | 501 | Sharyn Lemire |
 | 208 | 499 | Kesha Brady |
-| 209 | 496 | Lori |
-| 210 | 496 | Jessica Bohlken |
+| 209 | 496 | Jessica Bohlken |
+| 210 | 496 | Lori |
 | 211 | 495 | Joeliecea Cobb |
 | 212 | 493 | Amanda Pauldo-Ivy |
 | 213 | 491 | Manny1 |
@@ -263,8 +263,8 @@
 | 255 | 421 | Brickh4us |
 | 256 | 420 | Jeff Brian Gates |
 | 257 | 413 | Rio Rocha |
-| 258 | 411 | Autumn Kumzi |
-| 259 | 411 | TinyLegoRose |
+| 258 | 411 | TinyLegoRose |
+| 259 | 411 | Autumn Kumzi |
 | 260 | 410 | Lindsay Ball |
 | 261 | 409 | Bio Nelly |
 | 262 | 409 | Antony Dwayne Beasley |
@@ -346,8 +346,8 @@
 | 338 | 328 | Heather Bruce |
 | 339 | 327 | Jim Hart |
 | 340 | 325 | Cool Gridzone |
-| 341 | 324 | Vic |
-| 342 | 324 | Sarah Hoffman |
+| 341 | 324 | Sarah Hoffman |
+| 342 | 324 | Vic |
 | 343 | 322 | Bryan Hodgins |
 | 344 | 321 | Stacey Stano |
 | 345 | 321 | Sarah Brown |
@@ -849,8 +849,8 @@
 | 841 | 132 | Laura Chase-Amara |
 | 842 | 132 | JEan Price |
 | 843 | 131 | Cheryl Johnson |
-| 844 | 131 | Roseanna Anderson |
-| 845 | 131 | Albert Walker III |
+| 844 | 131 | Albert Walker III |
+| 845 | 131 | Roseanna Anderson |
 | 846 | 131 | Jennifer Dineen |
 | 847 | 130 | Kevin Blevins |
 | 848 | 130 | Christina O'Dell-Ishau |
@@ -930,8 +930,8 @@
 | 922 | 115 | mitch |
 | 923 | 115 | Flavoredsausage |
 | 924 | 115 | Jayk |
-| 925 | 114 | Beezie |
-| 926 | 114 | Bruce Harris |
+| 925 | 114 | Libby |
+| 926 | 114 | Beezie |
 | 927 | 114 | Tiffany Tran |
 | 928 | 114 | Bruce Harris |
 | 929 | 113 | Lorry Wofford Jr. |

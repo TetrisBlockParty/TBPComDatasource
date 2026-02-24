@@ -155,16 +155,16 @@
 | 147 | 966 | Sashay Tapae Simpson |
 | 148 | 963 | Crystal Frey |
 | 149 | 961 | Danielle Allison |
-| 150 | 950 | Giddy Drop |
-| 151 | 950 | MissTaylor |
-| 152 | 940 | Patty Allen |
-| 153 | 940 | Stephanie Allmon |
+| 150 | 950 | MissTaylor |
+| 151 | 950 | Giddy Drop |
+| 152 | 940 | Stephanie Allmon |
+| 153 | 940 | Patty Allen |
 | 154 | 936 | Dolores Falco |
 | 155 | 925 | Cherry Parker |
 | 156 | 914 | Sarajane Lokan |
 | 157 | 914 | BadManSheLove |
-| 158 | 910 | opf |
-| 159 | 910 | Staci George Fitzsimmons |
+| 158 | 910 | Staci George Fitzsimmons |
+| 159 | 910 | opf |
 | 160 | 899 | Jaime Monhaut-Reed |
 | 161 | 894 | Denita Mungro |
 | 162 | 878 | Shane Wilson Jr. |
@@ -192,8 +192,8 @@
 | 184 | 804 | Gideon Walker |
 | 185 | 800 | Lauren Girouard |
 | 186 | 799 | Trisha Balmer |
-| 187 | 794 | Alexmac |
-| 188 | 794 | Raya |
+| 187 | 794 | Raya |
+| 188 | 794 | Alexmac |
 | 189 | 792 | Rachel Grant |
 | 190 | 785 | Jeni Dow |
 | 191 | 784 | Jone |
@@ -461,8 +461,8 @@
 | 453 | 359 | Steven Fulater |
 | 454 | 359 | Ann Hammac |
 | 455 | 358 | Beejangles |
-| 456 | 358 | Taylor Culver |
-| 457 | 358 | Hyper Twisterfit |
+| 456 | 358 | Hyper Twisterfit |
+| 457 | 358 | Taylor Culver |
 | 458 | 357 | Hoài Quắt |
 | 459 | 356 | Trice Sodames |
 | 460 | 355 | Kevin Russell |
@@ -488,10 +488,10 @@
 | 480 | 342 | Boldy Corner |
 | 481 | 342 | Criss |
 | 482 | 341 | Funky Jumper |
-| 483 | 340 | Becca Engle |
-| 484 | 340 | Loony Slider |
-| 485 | 340 | Kerry Nowickshere |
-| 486 | 340 | Erika Thornton |
+| 483 | 340 | Loony Slider |
+| 484 | 340 | Kerry Nowickshere |
+| 485 | 340 | Erika Thornton |
+| 486 | 340 | Becca Engle |
 | 487 | 339 | Alice |
 | 488 | 339 | Evelyn Ortega |
 | 489 | 338 | Michael Leblanc |
@@ -609,8 +609,8 @@
 | 601 | 295 | Jazzy Spinfit |
 | 602 | 295 | Omega |
 | 603 | 293 | Anna Moeller |
-| 604 | 293 | Tommy Proctor |
-| 605 | 293 | Rufus Lincoln |
+| 604 | 293 | Rufus Lincoln |
+| 605 | 293 | Tommy Proctor |
 | 606 | 292 | Beezwax |
 | 607 | 292 | Scouty |
 | 608 | 291 | Jess Dearborn |
@@ -626,8 +626,8 @@
 | 618 | 289 | Andy Jacobson |
 | 619 | 286 | Morgan Cudo |
 | 620 | 286 | Frilly Stackzone |
-| 621 | 285 | Kate Farok |
-| 622 | 285 | Jumpy Wrecker |
+| 621 | 285 | Jumpy Wrecker |
+| 622 | 285 | Kate Farok |
 | 623 | 284 | Maria Ramos |
 | 624 | 284 | Hanna Kim |
 | 625 | 282 | Karla Phillips |
