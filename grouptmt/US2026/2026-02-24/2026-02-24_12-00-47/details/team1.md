@@ -116,8 +116,8 @@
 | 108 | 791 | Greg Hart |
 | 109 | 782 | Karin Gillen |
 | 110 | 781 | Ash Galvan |
-| 111 | 773 | Cartier |
-| 112 | 773 | Susanna Guerry |
+| 111 | 773 | Susanna Guerry |
+| 112 | 773 | Cartier |
 | 113 | 772 | Kathy Langham |
 | 114 | 770 | Zappy Curvetile |
 | 115 | 768 | Jazzy Framezone |
@@ -164,8 +164,8 @@
 | 156 | 582 | Hellsin |
 | 157 | 576 | Brandi Huntington |
 | 158 | 574 | Bouncy Grid |
-| 159 | 570 | Dee Perry |
-| 160 | 570 | Cody Slav |
+| 159 | 570 | Cody Slav |
+| 160 | 570 | Dee Perry |
 | 161 | 569 | Michelle Beres |
 | 162 | 569 | Νεφ Όνυξ |
 | 163 | 568 | Jason Savage |
@@ -533,8 +533,8 @@
 | 525 | 244 | Kristen Meehan Wangerien |
 | 526 | 244 | Mrsbigdawg |
 | 527 | 243 | Gerald Richard Franke |
-| 528 | 242 | Stephanie Leday |
-| 529 | 242 | Pauline Cortez |
+| 528 | 242 | Pauline Cortez |
+| 529 | 242 | Stephanie Leday |
 | 530 | 242 | Joshua Weeder |
 | 531 | 241 | Abbey Crespo |
 | 532 | 241 | Brian Ash |

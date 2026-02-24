@@ -354,8 +354,8 @@
 | 346 | 336 | ZeeZee |
 | 347 | 335 | Snippy Puzzle |
 | 348 | 334 | Zethra Prenisha Rahming |
-| 349 | 331 | rebel4lyfe |
-| 350 | 331 | Angie Schmidt |
+| 349 | 331 | Angie Schmidt |
+| 350 | 331 | rebel4lyfe |
 | 351 | 330 | Duck |
 | 352 | 329 | Meagan Nicole |
 | 353 | 329 | AyeKay |
@@ -404,16 +404,16 @@
 | 396 | 300 | Carter Jones |
 | 397 | 300 | Dapper Frame |
 | 398 | 299 | Michael Snow |
-| 399 | 298 | Val Erie |
-| 400 | 298 | Jenny Wells-Oakley |
-| 401 | 297 | Allison Rose |
-| 402 | 297 | Brittany Marsh |
+| 399 | 298 | Jenny Wells-Oakley |
+| 400 | 298 | Val Erie |
+| 401 | 297 | Brittany Marsh |
+| 402 | 297 | Allison Rose |
 | 403 | 296 | Deb Rubeck |
 | 404 | 294 | BootsMcGee |
 | 405 | 293 | Shiny Pivoty |
-| 406 | 292 | Jumpy Zonepiece |
-| 407 | 292 | Epic Curvetile |
-| 408 | 291 | Malakai Darien Fox |
+| 406 | 292 | Epic Curvetile |
+| 407 | 292 | Jumpy Zonepiece |
+| 408 | 291 | DQ Martin |
 | 409 | 291 | Ronald Brown Jr. |
 | 410 | 291 | Malakai Darien Fox |
 | 411 | 291 | Jess Reyes |
@@ -511,8 +511,8 @@
 | 503 | 242 | Badatvs |
 | 504 | 242 | PurpleMoonMa |
 | 505 | 241 | Katherine Crane |
-| 506 | 240 | Orchislactea |
-| 507 | 240 | Zany Shatterer |
+| 506 | 240 | Zany Shatterer |
+| 507 | 240 | Orchislactea |
 | 508 | 239 | Krash |
 | 509 | 239 | Christina Nabrizny |
 | 510 | 238 | Mary Miller |
@@ -590,8 +590,8 @@
 | 582 | 214 | Flashy Jumper |
 | 583 | 213 | Derick |
 | 584 | 213 | Frank Joseph Epson |
-| 585 | 212 | Undeniable Williams |
-| 586 | 212 | Karen Lambert |
+| 585 | 212 | Karen Lambert |
+| 586 | 212 | Undeniable Williams |
 | 587 | 211 | Sunny Filler |
 | 588 | 210 | Wacky Blockclear |
 | 589 | 209 | Chilly Matcher |
