@@ -214,8 +214,8 @@
 | 206 | 1815 | Chirpy Staggerpiece |
 | 207 | 1813 | Catina Hutchison |
 | 208 | 1807 | Osun Anuket Esu |
-| 209 | 1775 | Sommer Shope |
-| 210 | 1775 | Eboni Banks |
+| 209 | 1775 | Eboni Banks |
+| 210 | 1775 | Sommer Shope |
 | 211 | 1763 | Nerdy Pattern |
 | 212 | 1761 | Rosa Franklin |
 | 213 | 1751 | Melissa Penelope Ann Dodge |
@@ -351,8 +351,8 @@
 | 343 | 1264 | Mama T |
 | 344 | 1261 | Becca Coronado |
 | 345 | 1257 | Jackie Lucas |
-| 346 | 1257 | Megan Garrick |
-| 347 | 1257 | Megan Ferguson Leone |
+| 346 | 1257 | Megan Ferguson Leone |
+| 347 | 1257 | Megan Garrick |
 | 348 | 1256 | Belle |
 | 349 | 1254 | Erika Densmore |
 | 350 | 1252 | Brainy Smurf |

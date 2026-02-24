@@ -106,8 +106,8 @@
 | 98 | 846 | Christine Marie |
 | 99 | 840 | SAP |
 | 100 | 837 | Rica Mitchell |
-| 101 | 834 | quicksand420 |
-| 102 | 834 | Brittney Orengo |
+| 101 | 834 | Brittney Orengo |
+| 102 | 834 | quicksand420 |
 | 103 | 815 | Diana Houts |
 | 104 | 813 | Klo |
 | 105 | 811 | Sassy Pattern |
@@ -167,8 +167,8 @@
 | 159 | 590 | Angela Srubar-Norman |
 | 160 | 589 | Livvy |
 | 161 | 587 | YoMomma |
-| 162 | 586 | Carlos Ramirez |
-| 163 | 586 | Latisha Davis |
+| 162 | 586 | Latisha Davis |
+| 163 | 586 | Carlos Ramirez |
 | 164 | 585 | Tracey Lehmann |
 | 165 | 584 | Carlton Unfiltered |
 | 166 | 576 | Jade Rian |
@@ -236,8 +236,8 @@
 | 228 | 460 | Kathy Brookins |
 | 229 | 458 | Luis Martinez |
 | 230 | 458 | Kristina Black |
-| 231 | 457 | Kristin Manee |
-| 232 | 457 | J-Rizzle |
+| 231 | 457 | J-Rizzle |
+| 232 | 457 | Kristin Manee |
 | 233 | 455 | Michele Plunkett |
 | 234 | 454 | Keshia Lyons |
 | 235 | 449 | Danielle Kollias |
@@ -250,8 +250,8 @@
 | 242 | 438 | 23 |
 | 243 | 438 | Melvin Baird |
 | 244 | 434 | Ramel Rhodes |
-| 245 | 433 | Circuit8 |
-| 246 | 433 | Damn Libra |
+| 245 | 433 | Damn Libra |
+| 246 | 433 | Circuit8 |
 | 247 | 432 | Plucky Patternblock |
 | 248 | 432 | scott |
 | 249 | 430 | Chris Bernstein |
@@ -259,8 +259,8 @@
 | 251 | 427 | Chao Ma |
 | 252 | 424 | Andrew Dang |
 | 253 | 423 | Gdiguy |
-| 254 | 421 | JIGsaw ~(•¿°)~ |
-| 255 | 421 | Brickh4us |
+| 254 | 421 | Brickh4us |
+| 255 | 421 | JIGsaw ~(•¿°)~ |
 | 256 | 420 | Jeff Brian Gates |
 | 257 | 419 | Hyper Matchclear |
 | 258 | 413 | Rio Rocha |
@@ -565,8 +565,8 @@
 | 557 | 211 | Gilles Lanctot |
 | 558 | 210 | Wacky Blockclear |
 | 559 | 209 | Matthew Pate |
-| 560 | 209 | Grann8 |
-| 561 | 209 | Ann G. Carrillo |
+| 560 | 209 | Ann G. Carrillo |
+| 561 | 209 | Bumpy Morris |
 | 562 | 209 | Balsam Joe |
 | 563 | 209 | Calvin Dennis |
 | 564 | 209 | Grann8 |

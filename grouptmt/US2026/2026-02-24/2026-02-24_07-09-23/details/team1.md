@@ -100,8 +100,8 @@
 | 92 | 884 | Sevens4L |
 | 93 | 883 | Jennifer ManWarren |
 | 94 | 863 | Madison Wicks |
-| 95 | 860 | Tinah Montanna |
-| 96 | 860 | Rachael |
+| 95 | 860 | Rachael |
+| 96 | 860 | Tinah Montanna |
 | 97 | 811 | Amanda Johnson Huffman |
 | 98 | 805 | Robert Benito |
 | 99 | 800 | Desiree Deschaine Havee |
@@ -115,8 +115,8 @@
 | 107 | 768 | Jazzy Framezone |
 | 108 | 761 | Karin Gillen |
 | 109 | 751 | Kellie |
-| 110 | 725 | Debbie Kane |
-| 111 | 725 | Phu ckalldems |
+| 110 | 725 | Phu ckalldems |
+| 111 | 725 | Debbie Kane |
 | 112 | 719 | Bindi |
 | 113 | 716 | Kristi Johnson |
 | 114 | 706 | Denice Dee |
@@ -133,13 +133,13 @@
 | 125 | 652 | Evie Khalil |
 | 126 | 651 | Dandy Basegrid |
 | 127 | 650 | Bob |
-| 128 | 647 | April Carroll |
-| 129 | 647 | Theo Pinnow |
+| 128 | 647 | Theo Pinnow |
+| 129 | 647 | April Carroll |
 | 130 | 643 | Erin Rosberg |
 | 131 | 642 | Mario Cab |
 | 132 | 638 | Carrie Smith |
-| 133 | 629 | Tanya Carpenter-Reynolds |
-| 134 | 629 | Death |
+| 133 | 629 | Death |
+| 134 | 629 | Tanya Carpenter-Reynolds |
 | 135 | 628 | Trina Gee |
 | 136 | 626 | Damon J. Martin |
 | 137 | 622 | Chris K |
@@ -197,8 +197,8 @@
 | 189 | 496 | Sarah Somers Gray |
 | 190 | 496 | Michelle Beres |
 | 191 | 495 | Connie |
-| 192 | 494 | Sean Stallings |
-| 193 | 494 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
+| 192 | 494 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
+| 193 | 494 | Sean Stallings |
 | 194 | 492 | Happy Snapbuild |
 | 195 | 489 | Speedy Liney |
 | 196 | 488 | Jessie Welch |
@@ -260,12 +260,12 @@
 | 252 | 399 | Jen Nystrom |
 | 253 | 398 | MommaKFC |
 | 254 | 398 | Cece Ibarra |
-| 255 | 396 | Monica Donato |
-| 256 | 396 | Sam Williams |
+| 255 | 396 | Sam Williams |
+| 256 | 396 | Monica Donato |
 | 257 | 394 | Nick R Montague |
 | 258 | 393 | Wisa |
-| 259 | 392 | Renee Tucker |
-| 260 | 392 | Poppy Riserpiece |
+| 259 | 392 | Poppy Riserpiece |
+| 260 | 392 | Renee Tucker |
 | 261 | 391 | Happy Basegrid |
 | 262 | 390 | David Lutcher |
 | 263 | 386 | Melissa Bires Hussar |
