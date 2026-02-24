@@ -316,8 +316,8 @@
 | 308 | 354 | Perky Piecegrid |
 | 309 | 354 | @ |
 | 310 | 352 | Kate |
-| 311 | 351 | Jackie Clark |
-| 312 | 351 | Dana Scott |
+| 311 | 351 | Dana Scott |
+| 312 | 351 | Jackie Clark |
 | 313 | 350 | Dizzy Matchzone |
 | 314 | 349 | Richard-April Kice |
 | 315 | 349 | jim |
@@ -392,8 +392,8 @@
 | 384 | 297 | Brittany Marsh |
 | 385 | 296 | Dapper Frame |
 | 386 | 295 | Deb Rubeck |
-| 387 | 294 | BootsMcGee |
-| 388 | 294 | Kevin Bush |
+| 387 | 294 | Kevin Bush |
+| 388 | 294 | BootsMcGee |
 | 389 | 293 | Ruby Khalisadar |
 | 390 | 292 | Jumpy Zonepiece |
 | 391 | 292 | Epic Curvetile |
@@ -608,12 +608,12 @@
 | 600 | 201 | Jake Roberts |
 | 601 | 201 | Danya Castillo Rios |
 | 602 | 199 | Allen Johnson |
-| 603 | 198 | Bubbly Setter |
-| 604 | 198 | Zocko Ellet |
-| 605 | 197 | Colton Stamper |
-| 606 | 197 | Bryan James Marino |
-| 607 | 196 | Julie McAfoos Swanson |
-| 608 | 196 | Mcg |
+| 603 | 198 | Zocko Ellet |
+| 604 | 198 | Bubbly Setter |
+| 605 | 197 | Bryan James Marino |
+| 606 | 197 | Colton Stamper |
+| 607 | 196 | Mcg |
+| 608 | 196 | Julie McAfoos Swanson |
 | 609 | 195 | Tabi Williams |
 | 610 | 195 | Shant |
 | 611 | 194 | Katie Alexander |

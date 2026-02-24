@@ -68,8 +68,8 @@
 | 60 | 1931 | Denise Nardoni |
 | 61 | 1920 | Trezure Gonzalez |
 | 62 | 1858 | Kristie McFarland |
-| 63 | 1824 | Nate Burnside |
-| 64 | 1824 | Jessica Ann |
+| 63 | 1824 | Jessica Ann |
+| 64 | 1824 | Nate Burnside |
 | 65 | 1804 | Tina Kay |
 | 66 | 1791 | Leah Barnett |
 | 67 | 1776 | Whitney Manuel |
@@ -105,13 +105,13 @@
 | 97 | 1361 | Patricia Gadsden |
 | 98 | 1343 | Joey Banks |
 | 99 | 1320 | Kristie |
-| 100 | 1318 | Tiff Vs Tiffany |
-| 101 | 1318 | Diana Ibarra |
+| 100 | 1318 | Diana Ibarra |
+| 101 | 1318 | Tiff Vs Tiffany |
 | 102 | 1309 | yoyo |
 | 103 | 1297 | Shelby Michelle |
 | 104 | 1290 | JerseyJess |
-| 105 | 1282 | Peppy Shifter |
-| 106 | 1282 | Amanda L Baker |
+| 105 | 1282 | Amanda L Baker |
+| 106 | 1282 | Peppy Shifter |
 | 107 | 1276 | Jessica Bechler |
 | 108 | 1274 | Sarah Fehring |
 | 109 | 1248 | Lori Barnaby |
@@ -400,8 +400,8 @@
 | 392 | 418 | Rainbow77375 |
 | 393 | 416 | Tay |
 | 394 | 415 | Steffi Chris Dacones |
-| 395 | 414 | Arden White Kirsch |
-| 396 | 414 | RickyG |
+| 395 | 414 | RickyG |
+| 396 | 414 | Arden White Kirsch |
 | 397 | 413 | Rick Poppen |
 | 398 | 411 | Beaudie Stroebel |
 | 399 | 409 | Roary Danner |
@@ -946,7 +946,7 @@
 | 938 | 205 | Loopy Brickroll |
 | 939 | 204 | Vicki Feathers-Bell |
 | 940 | 204 | Elyse Grabowsky |
-| 941 | 204 | Karen Picaboo |
+| 941 | 204 | Draone Grayson |
 | 942 | 204 | Tabitha Cornelious |
 | 943 | 204 | Jayce Johnson |
 | 944 | 204 | Karen Picaboo |

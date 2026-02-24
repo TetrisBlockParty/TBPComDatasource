@@ -173,8 +173,8 @@
 | 165 | 548 | Luciano Moreira |
 | 166 | 547 | Sharon Reynolds |
 | 167 | 545 | .running. |
-| 168 | 543 | Adrian Esteban |
-| 169 | 543 | Nicole Roseberry Weber |
+| 168 | 543 | Nicole Roseberry Weber |
+| 169 | 543 | Adrian Esteban |
 | 170 | 542 | BadG52 |
 | 171 | 540 | Tonya Beasley |
 | 172 | 537 | Stephanie Zahn |
@@ -197,8 +197,8 @@
 | 189 | 501 | Jessica Russell |
 | 190 | 497 | MIKOZ |
 | 191 | 497 | Steve Schneider |
-| 192 | 496 | Michelle Beres |
-| 193 | 496 | Sarah Somers Gray |
+| 192 | 496 | Sarah Somers Gray |
+| 193 | 496 | Michelle Beres |
 | 194 | 495 | Connie |
 | 195 | 494 | Sean Stallings |
 | 196 | 494 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
@@ -209,8 +209,8 @@
 | 201 | 485 | Mike Ames |
 | 202 | 482 | Adele Rahman |
 | 203 | 479 | canbrick |
-| 204 | 478 | Hasty Cascader |
-| 205 | 478 | Jumpy Dropper |
+| 204 | 478 | Jumpy Dropper |
+| 205 | 478 | Hasty Cascader |
 | 206 | 477 | Dizzy Slider |
 | 207 | 475 | Reesey Enyart |
 | 208 | 473 | Chuck Gannon |
@@ -384,8 +384,8 @@
 | 376 | 308 | Katie Martin |
 | 377 | 306 | Sunny Shift |
 | 378 | 305 | Tavia |
-| 379 | 305 | Damian Salem |
-| 380 | 305 | Speedy Snapfall |
+| 379 | 305 | Speedy Snapfall |
+| 380 | 305 | Damian Salem |
 | 381 | 304 | Chummy Rollblock |
 | 382 | 302 | Jenny Gingrich Fuentes |
 | 383 | 301 | Christina Backer |
@@ -397,8 +397,8 @@
 | 389 | 300 | Garrett Burket |
 | 390 | 299 | Rachel Rogers |
 | 391 | 299 | Nathan William |
-| 392 | 298 | Glitzy Buildsnap |
-| 393 | 298 | Sonia Marquis |
+| 392 | 298 | Sonia Marquis |
+| 393 | 298 | Glitzy Buildsnap |
 | 394 | 297 | Billie Dawn Sparks |
 | 395 | 296 | Shaykmia |
 | 396 | 296 | Jeanna Dunn |
