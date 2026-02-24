@@ -162,8 +162,8 @@
 | 154 | 875 | Chasity |
 | 155 | 874 | Jessica Pineda-Lopez |
 | 156 | 873 | BadManSheLove |
-| 157 | 868 | Cranky Gridder |
-| 158 | 868 | Felicia Rocha |
+| 157 | 868 | Felicia Rocha |
+| 158 | 868 | Cranky Gridder |
 | 159 | 868 | Nicole Flippo |
 | 160 | 864 | Sunny Rotater |
 | 161 | 862 | Rochelle Hazelett |
@@ -198,8 +198,8 @@
 | 190 | 763 | Tasha Gillespie |
 | 191 | 760 | Kiki |
 | 192 | 757 | Fancy Cascader |
-| 193 | 755 | Alexmac |
-| 194 | 755 | Laura Booth Wosko |
+| 193 | 755 | Laura Booth Wosko |
+| 194 | 755 | Alexmac |
 | 195 | 750 | Michael Nowogorski |
 | 196 | 742 | Jennifer Lynn Fahrenholtz-Summers |
 | 197 | 738 | Naur |

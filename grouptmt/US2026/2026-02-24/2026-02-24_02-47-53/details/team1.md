@@ -149,8 +149,8 @@
 | 141 | 569 | Christy Jones |
 | 142 | 568 | Jason Savage |
 | 143 | 560 | Jazzy Framezone |
-| 144 | 556 | Brandi Huntington |
-| 145 | 556 | Susan Ward |
+| 144 | 556 | Susan Ward |
+| 145 | 556 | Brandi Huntington |
 | 146 | 555 | Sarah Lombardo |
 | 147 | 553 | Flashy Rotator |
 | 148 | 552 | Dee Perry |
@@ -158,9 +158,9 @@
 | 150 | 548 | Luciano Moreira |
 | 151 | 547 | Sharon Reynolds |
 | 152 | 546 | Loony Fitzone |
-| 153 | 543 | Nicole Roseberry Weber |
-| 154 | 543 | Adrian Esteban |
-| 155 | 543 | Tipsy Riseclear |
+| 153 | 543 | Adrian Esteban |
+| 154 | 543 | Tipsy Riseclear |
+| 155 | 543 | Nicole Roseberry Weber |
 | 156 | 540 | Tonya Beasley |
 | 157 | 537 | BadG52 |
 | 158 | 537 | Stephanie Zahn |

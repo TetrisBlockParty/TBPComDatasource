@@ -477,8 +477,8 @@
 | 469 | 942 | Toni Lynn |
 | 470 | 941 | Cool Clearer |
 | 471 | 940 | Jennifer Leigh |
-| 472 | 937 | Heather Schelkopf |
-| 473 | 937 | Fancy Twister |
+| 472 | 937 | Fancy Twister |
+| 473 | 937 | Heather Schelkopf |
 | 474 | 936 | Angie Bolton Workman |
 | 475 | 935 | Victoria Moore-Smith |
 | 476 | 935 | Kayla |
