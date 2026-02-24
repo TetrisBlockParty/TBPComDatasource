@@ -221,8 +221,8 @@
 | 213 | 439 | Jen Mattei |
 | 214 | 438 | Melvin Baird |
 | 215 | 434 | Ramel Rhodes |
-| 216 | 433 | Circuit8 |
-| 217 | 433 | Damn Libra |
+| 216 | 433 | Damn Libra |
+| 217 | 433 | Circuit8 |
 | 218 | 431 | Zesty Twistbuilder |
 | 219 | 430 | Shiny Fit |
 | 220 | 427 | Chao Ma |
@@ -435,7 +435,7 @@
 | 427 | 242 | Badatvs |
 | 428 | 241 | Amanda Christine |
 | 429 | 241 | Laurel Coppess |
-| 430 | 240 | Orchislactea |
+| 430 | 240 | KayM |
 | 431 | 240 | Zany Shatterer |
 | 432 | 240 | Orchislactea |
 | 433 | 239 | Ruby Khalisadar |
@@ -458,11 +458,11 @@
 | 450 | 233 | Maria Hammie |
 | 451 | 232 | Becky Shimko |
 | 452 | 232 | Sticherella |
-| 453 | 230 | Joey Riley |
+| 453 | 230 | Chantilly Laace |
 | 454 | 230 | Martha Lucinda Bishop |
-| 455 | 230 | Chantilly Laace |
-| 456 | 229 | L Bear Champion |
-| 457 | 229 | bloat princess |
+| 455 | 230 | Joey Riley |
+| 456 | 229 | bloat princess |
+| 457 | 229 | L Bear Champion |
 | 458 | 228 | Bethany Ison |
 | 459 | 227 | Asher |
 | 460 | 225 | Jennifer Renee |
