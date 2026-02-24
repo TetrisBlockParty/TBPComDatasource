@@ -66,8 +66,8 @@
 | 58 | 1173 | Adam Byrd |
 | 59 | 1170 | Tater |
 | 60 | 1150 | Cynthia Bradley |
-| 61 | 1137 | Jen Sartain |
-| 62 | 1137 | TSwag |
+| 61 | 1137 | TSwag |
+| 62 | 1137 | Jen Sartain |
 | 63 | 1127 | Andrea Dañielle Ortiz |
 | 64 | 1122 | Kristen Gideon |
 | 65 | 1114 | Jayme Sellers |
@@ -224,9 +224,9 @@
 | 216 | 452 | Tamara Brown |
 | 217 | 449 | Tawnya Peltonen |
 | 218 | 448 | Yvonne Marie |
-| 219 | 446 | Spencer Lent |
-| 220 | 446 | Monica Donato |
-| 221 | 446 | SkipTheSadSauce |
+| 219 | 446 | Monica Donato |
+| 220 | 446 | SkipTheSadSauce |
+| 221 | 446 | Spencer Lent |
 | 222 | 439 | David Miller |
 | 223 | 436 | Sylvia Vasquez |
 | 224 | 432 | Brian Spotts |
@@ -236,8 +236,8 @@
 | 228 | 429 | pjbeta |
 | 229 | 427 | Ananda Mendez |
 | 230 | 427 | Jessie Lynn |
-| 231 | 426 | Betsy |
-| 232 | 426 | Brenda Alexander |
+| 231 | 426 | Brenda Alexander |
+| 232 | 426 | Betsy |
 | 233 | 425 | Tyler Werts |
 | 234 | 424 | Serina Marie |
 | 235 | 424 | Emily Adelaide Wheatley |
@@ -248,8 +248,8 @@
 | 240 | 421 | Plucky Stacky |
 | 241 | 421 | Letson Melissa |
 | 242 | 420 | Jennifer Noe Chandler |
-| 243 | 419 | Daring Fitclear |
-| 244 | 419 | John J. Cronin |
+| 243 | 419 | John J. Cronin |
+| 244 | 419 | Daring Fitclear |
 | 245 | 416 | Larissa Marie Nelson |
 | 246 | 416 | Jessica Sheehan |
 | 247 | 414 | Bird Person |
@@ -268,8 +268,8 @@
 | 260 | 396 | Sam Williams |
 | 261 | 394 | Nick R Montague |
 | 262 | 393 | Wisa |
-| 263 | 392 | Renee Tucker |
-| 264 | 392 | Poppy Riserpiece |
+| 263 | 392 | Poppy Riserpiece |
+| 264 | 392 | Renee Tucker |
 | 265 | 391 | Happy Basegrid |
 | 266 | 390 | David Lutcher |
 | 267 | 388 | Test |
@@ -299,15 +299,15 @@
 | 291 | 371 | Cody Gates |
 | 292 | 370 | Gracie |
 | 293 | 369 | Keith Mathis |
-| 294 | 367 | April Jones |
-| 295 | 367 | Cheeky Pop |
+| 294 | 367 | Cheeky Pop |
+| 295 | 367 | April Jones |
 | 296 | 366 | J.F. Fields |
-| 297 | 365 | Amanda Holibaugh |
-| 298 | 365 | Shannon Marie Pitts |
-| 299 | 364 | John Kim |
-| 300 | 364 | Jo Kerley |
+| 297 | 365 | Shannon Marie Pitts |
+| 298 | 365 | Amanda Holibaugh |
+| 299 | 364 | Jo Kerley |
+| 300 | 364 | Dino |
 | 301 | 364 | Shauna Loe |
-| 302 | 364 | Dino |
+| 302 | 364 | John Kim |
 | 303 | 363 | Shiny Gridmatch |
 | 304 | 362 | Brooke Elizabeth Antill |
 | 305 | 360 | Tyler Hertzog |
@@ -317,14 +317,14 @@
 | 309 | 356 | Dawn Michelle Scheible |
 | 310 | 355 | Shanae Grant |
 | 311 | 355 | Toya Lynn |
-| 312 | 354 | Kimberly Davis |
-| 313 | 354 | Sarahdactyl |
+| 312 | 354 | Sarahdactyl |
+| 313 | 354 | Kimberly Davis |
 | 314 | 353 | Josh Riemer |
 | 315 | 350 | Bouncy Line |
 | 316 | 347 | ParisandCory Champagne |
 | 317 | 346 | Gary Gobin |
-| 318 | 344 | dhardy |
-| 319 | 344 | Buttons Stemm |
+| 318 | 344 | Buttons Stemm |
+| 319 | 344 | dhardy |
 | 320 | 344 | Standia Civil |
 | 321 | 343 | Sweetts |
 | 322 | 342 | Michael |
@@ -555,7 +555,7 @@
 | 547 | 228 | I Am |
 | 548 | 227 | Gilbert Ortiz Jr. |
 | 549 | 227 | Purple |
-| 550 | 227 | Gilbert Ortiz Jr. |
+| 550 | 227 | MomOf2Angels |
 | 551 | 226 | Aaron Green |
 | 552 | 225 | Shiny Rotate |
 | 553 | 225 | Mel Hogan |
@@ -594,8 +594,8 @@
 | 586 | 215 | Dandy Towerbuilder |
 | 587 | 214 | Amanda Marie Sutton |
 | 588 | 214 | Alex Gauthier |
-| 589 | 212 | Craig Mcgonigle |
-| 590 | 212 | Matthew Foley |
+| 589 | 212 | Matthew Foley |
+| 590 | 212 | Craig Mcgonigle |
 | 591 | 211 | Bucketsmasher |
 | 592 | 210 | Ruthie Mahoney Saunders-Browne |
 | 593 | 210 | Danny Brady |
@@ -754,7 +754,7 @@
 | 746 | 165 | Giggly Brickbuilder |
 | 747 | 164 | William Touzin |
 | 748 | 164 | Paul Osborne |
-| 749 | 164 | William Touzin |
+| 749 | 164 | Christina |
 | 750 | 163 | Elizabeth Coover |
 | 751 | 162 | Piffy |
 | 752 | 162 | Lucinda Thacker |
