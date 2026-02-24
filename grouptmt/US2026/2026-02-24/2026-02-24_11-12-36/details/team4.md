@@ -108,8 +108,8 @@
 | 100 | 846 | Christine Marie |
 | 101 | 840 | SAP |
 | 102 | 837 | Rica Mitchell |
-| 103 | 834 | quicksand420 |
-| 104 | 834 | Brittney Orengo |
+| 103 | 834 | Brittney Orengo |
+| 104 | 834 | quicksand420 |
 | 105 | 818 | Lori Walker |
 | 106 | 815 | Diana Houts |
 | 107 | 813 | Amy Suckarieh |
@@ -185,8 +185,8 @@
 | 177 | 565 | Ren Mc |
 | 178 | 561 | Steph Marie |
 | 179 | 558 | Marie-Pier Desjardins |
-| 180 | 552 | Circuit8 |
-| 181 | 552 | Angel Raya |
+| 180 | 552 | Angel Raya |
+| 181 | 552 | Circuit8 |
 | 182 | 550 | James Hurley Jr. |
 | 183 | 549 | Cool Towerbuilder |
 | 184 | 546 | Dizzy Tiley |
@@ -357,8 +357,8 @@
 | 349 | 330 | Duck |
 | 350 | 329 | AyeKay |
 | 351 | 329 | Meagan Nicole |
-| 352 | 328 | Heather Bruce |
-| 353 | 328 | Leah Kutz Zirbel |
+| 352 | 328 | Leah Kutz Zirbel |
+| 353 | 328 | Heather Bruce |
 | 354 | 327 | Jessica Petersen |
 | 355 | 327 | Jim Hart |
 | 356 | 325 | Cool Gridzone |
@@ -379,18 +379,18 @@
 | 371 | 317 | Paito |
 | 372 | 317 | Madison Sweere |
 | 373 | 316 | Shukee Lo |
-| 374 | 315 | Maureen Flanigan |
-| 375 | 315 | Ultramarine |
-| 376 | 314 | KoolMom9907 |
+| 374 | 315 | Ultramarine |
+| 375 | 315 | Maureen Flanigan |
+| 376 | 314 | Kenna Gunderland |
 | 377 | 314 | Marcus TheeyoungWoe Gilmore |
-| 378 | 314 | Kenna Gunderland |
+| 378 | 314 | KoolMom9907 |
 | 379 | 313 | Lazy Glidepiece |
 | 380 | 312 | Tawna Curry |
-| 381 | 311 | KayM |
-| 382 | 311 | Reds Bella |
+| 381 | 311 | Reds Bella |
+| 382 | 311 | KayM |
 | 383 | 308 | Angela Geist Jusinski |
-| 384 | 307 | Susan Williams |
-| 385 | 307 | Eri Kka |
+| 384 | 307 | Eri Kka |
+| 385 | 307 | Susan Williams |
 | 386 | 306 | PeaceOs |
 | 387 | 305 | Frances Hui |
 | 388 | 305 | Groovy Shiftspin |
@@ -403,8 +403,8 @@
 | 395 | 300 | Dapper Frame |
 | 396 | 299 | Michael Snow |
 | 397 | 298 | Val Erie |
-| 398 | 297 | Allison Rose |
-| 399 | 297 | Brittany Marsh |
+| 398 | 297 | Brittany Marsh |
+| 399 | 297 | Allison Rose |
 | 400 | 296 | Deb Rubeck |
 | 401 | 294 | BootsMcGee |
 | 402 | 292 | Epic Curvetile |

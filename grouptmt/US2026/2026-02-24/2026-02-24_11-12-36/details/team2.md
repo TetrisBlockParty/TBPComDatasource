@@ -752,8 +752,8 @@
 | 744 | 728 | Lonna Matthews |
 | 745 | 727 | Reita Rolen |
 | 746 | 727 | Cc |
-| 747 | 725 | Jennifer Coe |
-| 748 | 725 | AISlop |
+| 747 | 725 | AISlop |
+| 748 | 725 | Jennifer Coe |
 | 749 | 725 | Cheyenne Donovan |
 | 750 | 725 | Vonceial Boone |
 | 751 | 725 | Shylee Tilman |
@@ -778,8 +778,8 @@
 | 770 | 714 | Snazzy Basepiece |
 | 771 | 712 | ItsJennifer Neriss |
 | 772 | 711 | Alicia Moreno |
-| 773 | 711 | Timothy Robert |
-| 774 | 711 | Narutofreak13 |
+| 773 | 711 | Narutofreak13 |
+| 774 | 711 | Timothy Robert |
 | 775 | 707 | Giggy Grabber |
 | 776 | 706 | Roseanna Peloso |
 | 777 | 706 | Josh Webster |
@@ -872,8 +872,8 @@
 | 864 | 661 | Kristina Marie Hanna |
 | 865 | 661 | Monica Galli |
 | 866 | 661 | Chab |
-| 867 | 660 | Shelva Richard |
-| 868 | 660 | Jenna Nance |
+| 867 | 660 | Jenna Nance |
+| 868 | 660 | Shelva Richard |
 | 869 | 659 | Rain |
 | 870 | 659 | Tanya Duran |
 | 871 | 656 | Emilie Desma |

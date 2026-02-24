@@ -69,8 +69,8 @@
 | 61 | 1920 | Trezure Gonzalez |
 | 62 | 1858 | Kristie McFarland |
 | 63 | 1836 | Tina Kay |
-| 64 | 1824 | Jessica Ann |
-| 65 | 1824 | Nate Burnside |
+| 64 | 1824 | Nate Burnside |
+| 65 | 1824 | Jessica Ann |
 | 66 | 1791 | Leah Barnett |
 | 67 | 1776 | Whitney Manuel |
 | 68 | 1774 | Liv Whetson |
@@ -111,8 +111,8 @@
 | 103 | 1309 | yoyo |
 | 104 | 1297 | Shelby Michelle |
 | 105 | 1290 | JerseyJess |
-| 106 | 1282 | Amanda L Baker |
-| 107 | 1282 | Peppy Shifter |
+| 106 | 1282 | Peppy Shifter |
+| 107 | 1282 | Amanda L Baker |
 | 108 | 1276 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1248 | Lori Barnaby |
@@ -210,8 +210,8 @@
 | 202 | 784 | Jone |
 | 203 | 777 | Daryn Elliott |
 | 204 | 774 | ren |
-| 205 | 772 | Cyd061769 |
-| 206 | 772 | Hasty Cascadefit |
+| 205 | 772 | Hasty Cascadefit |
+| 206 | 772 | Cyd061769 |
 | 207 | 766 | Tasha Gillespie |
 | 208 | 763 | Khaleada McGill Banks |
 | 209 | 762 | Naur |
@@ -258,12 +258,12 @@
 | 250 | 642 | Rania Zaqout |
 | 251 | 641 | Tom Nault |
 | 252 | 640 | Dee Pratt |
-| 253 | 639 | Marci Mize Fandrich |
-| 254 | 639 | Nichol Graham |
+| 253 | 639 | Nichol Graham |
+| 254 | 639 | Marci Mize Fandrich |
 | 255 | 637 | Giddy Twistbuilder |
 | 256 | 635 | Amber Hughes |
-| 257 | 633 | Jillian Symons |
-| 258 | 633 | Rebecca Funderburk Kirby |
+| 257 | 633 | Rebecca Funderburk Kirby |
+| 258 | 633 | Jillian Symons |
 | 259 | 632 | Rebecca Bailey |
 | 260 | 630 | Jackie Miller |
 | 261 | 629 | rnr junky |
@@ -375,9 +375,9 @@
 | 367 | 455 | Kelly Wolf |
 | 368 | 451 | Swanky Frame |
 | 369 | 450 | Luciana Braganca Vieira |
-| 370 | 449 | Lively Caster |
+| 370 | 449 | Sissy Lowery Davis |
 | 371 | 449 | Jojo M |
-| 372 | 449 | Sissy Lowery Davis |
+| 372 | 449 | Lively Caster |
 | 373 | 447 | Carrie Huskey |
 | 374 | 447 | Num1hater |
 | 375 | 446 | Jennifer Alvey |
@@ -425,8 +425,8 @@
 | 417 | 404 | Giggy Balanceblock |
 | 418 | 404 | Karent524 |
 | 419 | 403 | Scott Lindsay |
-| 420 | 401 | block chick |
-| 421 | 401 | Velma Mull |
+| 420 | 401 | Velma Mull |
+| 421 | 401 | block chick |
 | 422 | 400 | Joy Petroski |
 | 423 | 399 | Ann Hammac |
 | 424 | 398 | Breezy Roll |
@@ -488,11 +488,11 @@
 | 480 | 358 | Hyper Twisterfit |
 | 481 | 356 | Trice Sodames |
 | 482 | 355 | Eboni Starr |
-| 483 | 354 | Jana Polk |
-| 484 | 354 | Norma JulieMay |
-| 485 | 353 | Cheeky Snapper |
+| 483 | 354 | Norma JulieMay |
+| 484 | 354 | Jana Polk |
+| 485 | 353 | Nikkie Bucciano |
 | 486 | 353 | Erika Apodaca |
-| 487 | 353 | Nikkie Bucciano |
+| 487 | 353 | Cheeky Snapper |
 | 488 | 353 | Eboni G. |
 | 489 | 352 | LadyTorad |
 | 490 | 352 | Scott Doss |
@@ -1784,7 +1784,7 @@
 | 1776 | 93 | Jumel Ruffin |
 | 1777 | 93 | Taylor Olson |
 | 1778 | 93 | juju |
-| 1779 | 93 | Jumel Ruffin |
+| 1779 | 93 | Christi Solsberry |
 | 1780 | 93 | Bouncy Dashy |
 | 1781 | 93 | Kayla Galicia |
 | 1782 | 93 | bistargirl |
