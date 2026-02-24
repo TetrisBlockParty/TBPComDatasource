@@ -58,8 +58,8 @@
 | 50 | 1772 | Liv Whetson |
 | 51 | 1754 | Nate Burnside |
 | 52 | 1739 | Tina Kay |
-| 53 | 1734 | Aaron Pitkin |
-| 54 | 1734 | Fancy Slam |
+| 53 | 1734 | Fancy Slam |
+| 54 | 1734 | Aaron Pitkin |
 | 55 | 1732 | Jessica Ann |
 | 56 | 1691 | Cass Mendoza |
 | 57 | 1665 | Whitney Manuel |
@@ -291,8 +291,8 @@
 | 283 | 482 | Fancy Curver |
 | 284 | 482 | Isabel Ocasio |
 | 285 | 482 | Chummy Rumbler |
-| 286 | 479 | Hyper Matchzone |
-| 287 | 479 | Stephanie Bradley |
+| 286 | 479 | Stephanie Bradley |
+| 287 | 479 | Hyper Matchzone |
 | 288 | 478 | Jeni Dow |
 | 289 | 477 | Gumbo |
 | 290 | 476 | Shunta Jacobs |
@@ -313,8 +313,8 @@
 | 305 | 456 | Brenda Schmid Wood |
 | 306 | 451 | Charles Perrone |
 | 307 | 450 | Antonia Russell |
-| 308 | 449 | Stefanie LaPointe |
-| 309 | 449 | Mcathen |
+| 308 | 449 | Mcathen |
+| 309 | 449 | Stefanie LaPointe |
 | 310 | 448 | Scott Carleton |
 | 311 | 448 | Jackie Miller |
 | 312 | 447 | Randy Clevenger |
@@ -323,8 +323,8 @@
 | 315 | 436 | Heather De Vries Cobb |
 | 316 | 434 | Daring Builder |
 | 317 | 432 | Luciana Braganca Vieira |
-| 318 | 431 | Wendy Dearden |
-| 319 | 431 | Tia |
+| 318 | 431 | Tia |
+| 319 | 431 | Wendy Dearden |
 | 320 | 430 | Quackers |
 | 321 | 429 | Carrie Huskey |
 | 322 | 428 | Samantha Lynn |
@@ -665,8 +665,8 @@
 | 657 | 240 | Tammy Rosenberry |
 | 658 | 240 | Bhreagh Gentile |
 | 659 | 239 | Justin Ernst |
-| 660 | 238 | Serena Jarrell |
-| 661 | 238 | Jess Dearborn |
+| 660 | 238 | Jess Dearborn |
+| 661 | 238 | Serena Jarrell |
 | 662 | 237 | Christopher Mastropietro |
 | 663 | 237 | Smiley Clearpiece |
 | 664 | 236 | Snippy Brickster |

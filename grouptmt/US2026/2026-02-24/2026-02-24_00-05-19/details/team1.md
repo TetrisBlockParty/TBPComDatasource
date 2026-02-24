@@ -317,8 +317,8 @@
 | 309 | 311 | Nathan Sealander |
 | 310 | 310 | Mrs.Patrica |
 | 311 | 309 | Larry Tilton |
-| 312 | 308 | LD1 |
-| 313 | 308 | Glitzy Curvebuilder |
+| 312 | 308 | Glitzy Curvebuilder |
+| 313 | 308 | LD1 |
 | 314 | 306 | Cece Ibarra |
 | 315 | 305 | Amh |
 | 316 | 305 | Chase Collinsworth |

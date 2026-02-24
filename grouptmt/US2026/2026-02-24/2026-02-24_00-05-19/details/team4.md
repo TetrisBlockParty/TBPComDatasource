@@ -124,8 +124,8 @@
 | 116 | 682 | Raegan Lane-Ross |
 | 117 | 675 | Chris Alexinas |
 | 118 | 673 | Jacqueline Helm |
-| 119 | 667 | Lindsey Gonzalez |
-| 120 | 667 | Amy Suckarieh |
+| 119 | 667 | Amy Suckarieh |
+| 120 | 667 | Lindsey Gonzalez |
 | 121 | 664 | Leslie Nicole |
 | 122 | 659 | Jamie Gustafson |
 | 123 | 658 | Zippy Gridlock |
@@ -235,8 +235,8 @@
 | 227 | 409 | Antony Dwayne Beasley |
 | 228 | 403 | TinyLegoRose |
 | 229 | 400 | Brickh4us |
-| 230 | 399 | Jeff Brian Gates |
-| 231 | 399 | Lindsay Ball |
+| 230 | 399 | Lindsay Ball |
+| 231 | 399 | Jeff Brian Gates |
 | 232 | 398 | Tyler Terrific |
 | 233 | 395 | 030Synner |
 | 234 | 394 | Nita Wells |
@@ -264,8 +264,8 @@
 | 256 | 369 | Matt Dell'Olio |
 | 257 | 368 | Kris Bartlett |
 | 258 | 367 | Meg |
-| 259 | 366 | Cheery Risebuilder |
-| 260 | 366 | Andrew Dang |
+| 259 | 366 | Andrew Dang |
+| 260 | 366 | Cheery Risebuilder |
 | 261 | 365 | Hyper Builder |
 | 262 | 364 | Joeliecea Cobb |
 | 263 | 361 | Danielle Kollias |

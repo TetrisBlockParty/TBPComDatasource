@@ -733,8 +733,8 @@
 | 725 | 636 | Emilie Desma |
 | 726 | 635 | Kendall Fullerton |
 | 727 | 635 | David Duncan |
-| 728 | 634 | Ronald Higgins |
-| 729 | 634 | Jessica Galick |
+| 728 | 634 | Jessica Galick |
+| 729 | 634 | Ronald Higgins |
 | 730 | 634 | Lewis Sturgeon |
 | 731 | 634 | Latasha Love |
 | 732 | 633 | Daring Caster |
