@@ -292,8 +292,8 @@
 | 284 | 1357 | Marie Boyd Faulk |
 | 285 | 1353 | Deborah Miller |
 | 286 | 1351 | Ashie Ann |
-| 287 | 1351 | Denisha Dawkins |
-| 288 | 1351 | Johnny Yeates |
+| 287 | 1351 | Johnny Yeates |
+| 288 | 1351 | Denisha Dawkins |
 | 289 | 1342 | Groovy Puzzle |
 | 290 | 1342 | Kelly A Green-Leach |
 | 291 | 1341 | Moose Griffith |
@@ -392,8 +392,8 @@
 | 384 | 1116 | Em Chen |
 | 385 | 1116 | Wakanda Forever |
 | 386 | 1110 | Nadia Batista Garcia |
-| 387 | 1109 | Melissa McCall |
-| 388 | 1109 | BYM4L |
+| 387 | 1109 | BYM4L |
+| 388 | 1109 | Melissa McCall |
 | 389 | 1105 | Nerdy Clearfit |
 | 390 | 1104 | Giggy Blocker |
 | 391 | 1104 | Kimberly Hope Howell |
@@ -416,8 +416,8 @@
 | 408 | 1075 | SaraMarie Eveland |
 | 409 | 1074 | Diana Ayers |
 | 410 | 1073 | Jodi Blake |
-| 411 | 1071 | Kim Dean |
-| 412 | 1071 | Nashu |
+| 411 | 1071 | Nashu |
+| 412 | 1071 | Kim Dean |
 | 413 | 1068 | Tiffany Branham |
 | 414 | 1067 | Caitlin Schmid |
 | 415 | 1067 | Taylor Phillips |
@@ -430,8 +430,8 @@
 | 422 | 1049 | Ashlen Dorrell |
 | 423 | 1048 | Sheronda Jackson |
 | 424 | 1043 | Brave Dropmatch |
-| 425 | 1042 | Mcintosh Brian Shalonda |
-| 426 | 1042 | Matthew Barry |
+| 425 | 1042 | Matthew Barry |
+| 426 | 1042 | Mcintosh Brian Shalonda |
 | 427 | 1042 | Spunkysmom |
 | 428 | 1041 | Crystal Hoffman |
 | 429 | 1037 | Allan Wayne Lamia |
@@ -456,18 +456,18 @@
 | 448 | 993 | Davetta Sanford |
 | 449 | 992 | Mighty Shatterfit |
 | 450 | 991 | Della Hole |
-| 451 | 990 | Ann Matzkanin |
-| 452 | 990 | Crystie Hicks |
+| 451 | 990 | Crystie Hicks |
+| 452 | 990 | Ann Matzkanin |
 | 453 | 986 | Sabrena Yeisley |
 | 454 | 986 | Mandi Douglas Hilt |
 | 455 | 982 | Jackie Burnett |
 | 456 | 981 | Block Master |
 | 457 | 979 | Fae-Bulous |
-| 458 | 978 | Barry Britt |
-| 459 | 978 | Kennedy Sandifer |
+| 458 | 978 | Kennedy Sandifer |
+| 459 | 978 | Barry Britt |
 | 460 | 976 | Sam Joe |
-| 461 | 975 | AgileDragon |
-| 462 | 975 | Amanda Woodruff |
+| 461 | 975 | Amanda Woodruff |
+| 462 | 975 | AgileDragon |
 | 463 | 975 | Kelly Trent |
 | 464 | 974 | Jeremy Parodi |
 | 465 | 970 | Darla Silva |
@@ -618,8 +618,8 @@
 | 610 | 786 | Ashe Corso |
 | 611 | 785 | Daniel Amos |
 | 612 | 781 | Amanda Ferrell |
-| 613 | 780 | Breezy Filler |
-| 614 | 780 | Megan Kitchner |
+| 613 | 780 | Megan Kitchner |
+| 614 | 780 | Breezy Filler |
 | 615 | 780 | Amy Reynolds |
 | 616 | 779 | Trinity Oak |
 | 617 | 777 | Ashley Lopez |
@@ -705,12 +705,12 @@
 | 697 | 710 | Alexis Richardson |
 | 698 | 708 | Michelle Sager |
 | 699 | 707 | Trevor Jordan |
-| 700 | 706 | Josh Webster |
-| 701 | 706 | Roseanna Peloso |
+| 700 | 706 | Roseanna Peloso |
+| 701 | 706 | Josh Webster |
 | 702 | 705 | Chelsea Gutierrez |
 | 703 | 704 | Quiksilver |
-| 704 | 704 | Terry Paulson |
-| 705 | 704 | Tansaria Couch-Butler |
+| 704 | 704 | Tansaria Couch-Butler |
+| 705 | 704 | Terry Paulson |
 | 706 | 704 | Alicia Moreno |
 | 707 | 703 | Funky Drop |
 | 708 | 702 | Brittney Jean |

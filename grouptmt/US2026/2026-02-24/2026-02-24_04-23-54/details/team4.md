@@ -397,8 +397,8 @@
 | 389 | 281 | Tony Pavelka |
 | 390 | 280 | Chummy Towerzone |
 | 391 | 279 | Ziggy |
-| 392 | 278 | Shainne Brewer |
-| 393 | 278 | L Bear Champion |
+| 392 | 278 | L Bear Champion |
+| 393 | 278 | Shainne Brewer |
 | 394 | 277 | Silly SeaWeed |
 | 395 | 276 | Dennis Bradley |
 | 396 | 276 | Cynthia Boudreau |
