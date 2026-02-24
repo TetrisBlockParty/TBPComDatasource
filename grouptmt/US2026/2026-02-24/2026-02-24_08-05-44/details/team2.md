@@ -430,10 +430,10 @@
 | 422 | 1088 | BK Queen |
 | 423 | 1087 | Jenn Marie |
 | 424 | 1087 | Cindy Sechler Taninecz |
-| 425 | 1085 | Bee |
-| 426 | 1085 | Barbra Miller |
-| 427 | 1084 | Emilee Burke |
-| 428 | 1084 | William Hunt |
+| 425 | 1085 | Barbra Miller |
+| 426 | 1085 | Bee |
+| 427 | 1084 | William Hunt |
+| 428 | 1084 | Emilee Burke |
 | 429 | 1080 | Jennifer Monroe Kelly |
 | 430 | 1079 | Angela Bonquiqui Dinish |
 | 431 | 1079 | AndrewandShela Gornik |
@@ -922,9 +922,9 @@
 | 914 | 619 | Lisa Moone |
 | 915 | 619 | Dawn Woosley Bowes |
 | 916 | 618 | Jordan Kaiser |
-| 917 | 617 | Biggest thing |
-| 918 | 617 | Annette Ross Clay |
-| 919 | 617 | Jason H Baker |
+| 917 | 617 | Annette Ross Clay |
+| 918 | 617 | Jason H Baker |
+| 919 | 617 | Biggest thing |
 | 920 | 616 | Carol Hurley |
 | 921 | 615 | King Shamell Young |
 | 922 | 614 | Dandy Combo |
@@ -1202,8 +1202,8 @@
 | 1194 | 495 | Dean Glenn |
 | 1195 | 495 | Ania |
 | 1196 | 495 | Brandon Jones |
-| 1197 | 493 | SugaMama |
-| 1198 | 493 | King D |
+| 1197 | 493 | King D |
+| 1198 | 493 | SugaMama |
 | 1199 | 493 | Stephanie A Griffin |
 | 1200 | 493 | Melanie Renee |
 | 1201 | 493 | Jamie Bass |
@@ -1528,10 +1528,10 @@
 | 1520 | 405 | Monica Wilson |
 | 1521 | 404 | Jean FU Jagielski |
 | 1522 | 404 | Mike Schwob |
-| 1523 | 404 | Regina Unruh |
-| 1524 | 404 | Anthony Collins |
-| 1525 | 403 | Selph SpazDevil-Selph |
-| 1526 | 403 | Janessa Pafford |
+| 1523 | 404 | Anthony Collins |
+| 1524 | 404 | Regina Unruh |
+| 1525 | 403 | Janessa Pafford |
+| 1526 | 403 | Selph SpazDevil-Selph |
 | 1527 | 403 | Jolly Zonebuilder |
 | 1528 | 403 | Ciera Nicole |
 | 1529 | 403 | Trina Harrison |
@@ -1556,11 +1556,11 @@
 | 1548 | 400 | Tammy Allen |
 | 1549 | 400 | Brenda Gum |
 | 1550 | 399 | Glizardglo |
-| 1551 | 399 | Hazel Spears |
-| 1552 | 399 | Tay |
+| 1551 | 399 | Tay |
+| 1552 | 399 | Hazel Spears |
 | 1553 | 399 | Angie |
-| 1554 | 398 | Michelle Ettrick |
-| 1555 | 398 | Candace Noel |
+| 1554 | 398 | Candace Noel |
+| 1555 | 398 | Michelle Ettrick |
 | 1556 | 398 | Man of Steel |
 | 1557 | 398 | Ty Quarles |
 | 1558 | 398 | Jordanna Romano |

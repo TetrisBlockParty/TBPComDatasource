@@ -72,8 +72,8 @@
 | 64 | 1101 | Denia Deni |
 | 65 | 1094 | Shelly Chandler |
 | 66 | 1089 | Alyssa Papen |
-| 67 | 1082 | Avy Absol |
-| 68 | 1082 | Dion Crommarty |
+| 67 | 1082 | Dion Crommarty |
+| 68 | 1082 | Avy Absol |
 | 69 | 1081 | Dustee Craddock-Harrison |
 | 70 | 1080 | Chilly Line |
 | 71 | 1069 | Livvy |
@@ -100,15 +100,15 @@
 | 92 | 878 | Lucille Truesdale |
 | 93 | 873 | Courtney Cicoria |
 | 94 | 869 | Judy Cox |
-| 95 | 864 | Guy Incognito |
-| 96 | 864 | Samantha Peterson |
+| 95 | 864 | Samantha Peterson |
+| 96 | 864 | Guy Incognito |
 | 97 | 854 | Shauna Havard |
 | 98 | 851 | Jason Hart |
 | 99 | 846 | Christine Marie |
 | 100 | 840 | SAP |
 | 101 | 837 | Rica Mitchell |
-| 102 | 834 | Brittney Orengo |
-| 103 | 834 | quicksand420 |
+| 102 | 834 | quicksand420 |
+| 103 | 834 | Brittney Orengo |
 | 104 | 815 | Diana Houts |
 | 105 | 813 | Klo |
 | 106 | 811 | Sassy Pattern |
@@ -134,8 +134,8 @@
 | 126 | 726 | Amy Suckarieh |
 | 127 | 726 | Jamie Gustafson |
 | 128 | 725 | Brandon Crabbs |
-| 129 | 712 | Leslie Nicole |
-| 130 | 712 | H.R. Block |
+| 129 | 712 | H.R. Block |
+| 130 | 712 | Leslie Nicole |
 | 131 | 708 | Jacqueline Helm |
 | 132 | 704 | Austin Owens |
 | 133 | 704 | Chilly Crasher |
@@ -208,12 +208,12 @@
 | 200 | 513 | Milan Markeisha |
 | 201 | 512 | ThaEviLJeNiuZ |
 | 202 | 512 | Ellen Durfee |
-| 203 | 512 | ThaEviLJeNiuZ |
+| 203 | 512 | Casey Jeffcoat |
 | 204 | 509 | Mimi |
 | 205 | 507 | Andria Lynn |
 | 206 | 504 | Deanna Deckard |
-| 207 | 502 | Ericca Eldridge |
-| 208 | 502 | Christina Black |
+| 207 | 502 | Christina Black |
+| 208 | 502 | Ericca Eldridge |
 | 209 | 501 | Sharyn Lemire |
 | 210 | 499 | Kesha Brady |
 | 211 | 496 | Lori |

@@ -104,13 +104,13 @@
 | 96 | 1361 | Patricia Gadsden |
 | 97 | 1343 | Joey Banks |
 | 98 | 1320 | Kristie |
-| 99 | 1318 | Diana Ibarra |
-| 100 | 1318 | Tiff Vs Tiffany |
+| 99 | 1318 | Tiff Vs Tiffany |
+| 100 | 1318 | Diana Ibarra |
 | 101 | 1309 | yoyo |
 | 102 | 1297 | Shelby Michelle |
 | 103 | 1290 | JerseyJess |
-| 104 | 1282 | Amanda L Baker |
-| 105 | 1282 | Peppy Shifter |
+| 104 | 1282 | Peppy Shifter |
+| 105 | 1282 | Amanda L Baker |
 | 106 | 1276 | Jessica Bechler |
 | 107 | 1274 | Sarah Fehring |
 | 108 | 1248 | Lori Barnaby |
@@ -125,8 +125,8 @@
 | 117 | 1134 | Melissa Orth Hunter |
 | 118 | 1124 | Stephanie Rice |
 | 119 | 1121 | Corie A. Brinson |
-| 120 | 1114 | Groovy Catcher |
-| 121 | 1114 | Loopy Fallmatch |
+| 120 | 1114 | Loopy Fallmatch |
+| 121 | 1114 | Groovy Catcher |
 | 122 | 1105 | Adrian Marcel Pate |
 | 123 | 1093 | Angela M. Fletcher |
 | 124 | 1091 | Jennifer |
@@ -161,10 +161,10 @@
 | 153 | 940 | Patty Allen |
 | 154 | 936 | Dolores Falco |
 | 155 | 925 | Cherry Parker |
-| 156 | 914 | BadManSheLove |
-| 157 | 914 | Sarajane Lokan |
-| 158 | 910 | opf |
-| 159 | 910 | Staci George Fitzsimmons |
+| 156 | 914 | Sarajane Lokan |
+| 157 | 914 | BadManSheLove |
+| 158 | 910 | Staci George Fitzsimmons |
+| 159 | 910 | opf |
 | 160 | 906 | Patti Skiles |
 | 161 | 899 | Jaime Monhaut-Reed |
 | 162 | 894 | Denita Mungro |
@@ -173,8 +173,8 @@
 | 165 | 875 | Chasity |
 | 166 | 874 | Jessica Pineda-Lopez |
 | 167 | 871 | Rochelle Hazelett |
-| 168 | 868 | Cranky Gridder |
-| 169 | 868 | Nicole Flippo |
+| 168 | 868 | Nicole Flippo |
+| 169 | 868 | Cranky Gridder |
 | 170 | 866 | Domo Washington |
 | 171 | 864 | Sunny Rotater |
 | 172 | 862 | Santeria Trece Candles |
@@ -266,8 +266,8 @@
 | 258 | 618 | Kaitie Oliver |
 | 259 | 606 | Connie Mohler-Fair |
 | 260 | 605 | Sarah Cowan Burgos |
-| 261 | 604 | Bmo |
-| 262 | 604 | Sherry Ogden |
+| 261 | 604 | Sherry Ogden |
+| 262 | 604 | Bmo |
 | 263 | 601 | Betty Rosas |
 | 264 | 600 | Natasha Jones |
 | 265 | 599 | Noyb Adam |
@@ -303,8 +303,8 @@
 | 295 | 546 | lashanda |
 | 296 | 542 | France Vézina |
 | 297 | 541 | Mcathen |
-| 298 | 540 | rosy |
-| 299 | 540 | Tanya Kittrell |
+| 298 | 540 | Tanya Kittrell |
+| 299 | 540 | rosy |
 | 300 | 539 | Fancy Curver |
 | 301 | 539 | Kate M. Murdock |
 | 302 | 536 | Giddy Twistbuilder |
@@ -324,8 +324,8 @@
 | 316 | 506 | Ammmmmmy |
 | 317 | 505 | Stephanie Simpson |
 | 318 | 500 | Ashley Tookes |
-| 319 | 499 | Megan Rathmanner |
-| 320 | 499 | Gumbo |
+| 319 | 499 | Gumbo |
+| 320 | 499 | Megan Rathmanner |
 | 321 | 496 | Brenda Schmid Wood |
 | 322 | 495 | Daring Builder |
 | 323 | 494 | MCV |
@@ -339,8 +339,8 @@
 | 331 | 483 | Tegan Chapman |
 | 332 | 482 | Chummy Rumbler |
 | 333 | 481 | Tiffanie Alley |
-| 334 | 480 | Dee Franklin |
-| 335 | 480 | TLM |
+| 334 | 480 | TLM |
+| 335 | 480 | Dee Franklin |
 | 336 | 479 | Charles Perrone |
 | 337 | 476 | Shunta Jacobs |
 | 338 | 474 | Troy |
@@ -358,8 +358,8 @@
 | 350 | 459 | TotoCherue |
 | 351 | 459 | Randy Clevenger |
 | 352 | 457 | Snippy Wipeout |
-| 353 | 456 | Cynthia Herrmann Egland |
-| 354 | 456 | Kelly |
+| 353 | 456 | Kelly |
+| 354 | 456 | Cynthia Herrmann Egland |
 | 355 | 455 | Kelly Wolf |
 | 356 | 450 | Stefanie LaPointe |
 | 357 | 450 | Luciana Braganca Vieira |
@@ -375,19 +375,19 @@
 | 367 | 443 | Christian Werndl |
 | 368 | 442 | Loopy Fallzone |
 | 369 | 438 | Dannie Litchard |
-| 370 | 436 | Julie Fratrik |
-| 371 | 436 | AC Yeater |
+| 370 | 436 | AC Yeater |
+| 371 | 436 | Julie Fratrik |
 | 372 | 435 | Sabrina Hardrick |
 | 373 | 434 | Criss |
-| 374 | 432 | Justice 4 P |
-| 375 | 432 | Sabrina Mansfield |
+| 374 | 432 | Sabrina Mansfield |
+| 375 | 432 | Justice 4 P |
 | 376 | 432 | Hoppy Patternline |
 | 377 | 431 | Goofy Fall |
 | 378 | 431 | Donna Esbensen-Alpini |
 | 379 | 430 | AlsoJess |
 | 380 | 430 | Quackers |
-| 381 | 428 | Skinny Baldez |
-| 382 | 428 | Samantha Lynn |
+| 381 | 428 | Samantha Lynn |
+| 382 | 428 | Skinny Baldez |
 | 383 | 427 | Darlene McMillan |
 | 384 | 426 | Christina Rotz Shows |
 | 385 | 425 | Ava Petito |
@@ -409,11 +409,11 @@
 | 401 | 407 | Christina Spa |
 | 402 | 406 | Kristen Weese |
 | 403 | 405 | Andrew Thorson |
-| 404 | 404 | Alice |
-| 405 | 404 | Giggy Balanceblock |
+| 404 | 404 | Giggy Balanceblock |
+| 405 | 404 | Alice |
 | 406 | 403 | Scott Lindsay |
-| 407 | 401 | block chick |
-| 408 | 401 | Velma Mull |
+| 407 | 401 | Velma Mull |
+| 408 | 401 | block chick |
 | 409 | 400 | Joy Petroski |
 | 410 | 398 | Breezy Roll |
 | 411 | 397 | Hasty Gridpiece |

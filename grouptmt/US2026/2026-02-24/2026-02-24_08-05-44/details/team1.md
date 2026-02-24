@@ -491,8 +491,8 @@
 | 483 | 255 | Goobette |
 | 484 | 254 | Kipoi |
 | 485 | 252 | Angela Dawn Torres-Tarrants |
-| 486 | 251 | MRdot Rooski |
-| 487 | 251 | Randy Broadwater |
+| 486 | 251 | Randy Broadwater |
+| 487 | 251 | MRdot Rooski |
 | 488 | 250 | Emmarieta Mendez |
 | 489 | 249 | Mary Cerciello |
 | 490 | 249 | GentleKitten7 |
@@ -978,8 +978,8 @@
 | 970 | 115 | PeppyPenguin |
 | 971 | 114 | Amy Marques |
 | 972 | 114 | Nekina Wright |
-| 973 | 113 | Frilly Fitblock |
-| 974 | 113 | Susan Good |
+| 973 | 113 | Susan Good |
+| 974 | 113 | Frilly Fitblock |
 | 975 | 113 | Chilly Matchbuilder |
 | 976 | 112 | Kevin Cook |
 | 977 | 112 | CMG |
