@@ -68,8 +68,8 @@
 | 60 | 1931 | Denise Nardoni |
 | 61 | 1920 | Trezure Gonzalez |
 | 62 | 1858 | Kristie McFarland |
-| 63 | 1824 | Nate Burnside |
-| 64 | 1824 | Jessica Ann |
+| 63 | 1824 | Jessica Ann |
+| 64 | 1824 | Nate Burnside |
 | 65 | 1804 | Tina Kay |
 | 66 | 1791 | Leah Barnett |
 | 67 | 1776 | Whitney Manuel |
@@ -111,8 +111,8 @@
 | 103 | 1309 | yoyo |
 | 104 | 1297 | Shelby Michelle |
 | 105 | 1290 | JerseyJess |
-| 106 | 1282 | Peppy Shifter |
-| 107 | 1282 | Amanda L Baker |
+| 106 | 1282 | Amanda L Baker |
+| 107 | 1282 | Peppy Shifter |
 | 108 | 1276 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1248 | Lori Barnaby |
@@ -184,14 +184,14 @@
 | 176 | 857 | Dana Fox |
 | 177 | 856 | Dana Winters |
 | 178 | 854 | Speedy Bridger |
-| 179 | 847 | Daira Largen |
-| 180 | 847 | Daring Brickzone |
+| 179 | 847 | Daring Brickzone |
+| 180 | 847 | Daira Largen |
 | 181 | 846 | Nicole Myers |
 | 182 | 842 | Alexmac |
 | 183 | 829 | Patricia White |
 | 184 | 825 | Lizabeth Fox |
-| 185 | 821 | Kammy Hill |
-| 186 | 821 | Angella Lyons |
+| 185 | 821 | Angella Lyons |
+| 186 | 821 | Kammy Hill |
 | 187 | 817 | Niki Dalrymple |
 | 188 | 815 | Justin Ritter |
 | 189 | 813 | JessDrown |
@@ -231,8 +231,8 @@
 | 223 | 715 | Karon Griffin |
 | 224 | 714 | Jenny Hrndz |
 | 225 | 713 | Stephanie Blkpep Davidson |
-| 226 | 709 | Christine Niles |
-| 227 | 709 | Cynthia Castros-Hampton |
+| 226 | 709 | Cynthia Castros-Hampton |
+| 227 | 709 | Christine Niles |
 | 228 | 708 | Stephanie Bradley |
 | 229 | 704 | Betty Bóò |
 | 230 | 703 | Shawn Miller |
@@ -285,8 +285,8 @@
 | 277 | 594 | Marci Mize Fandrich |
 | 278 | 594 | Cozy Snaplink |
 | 279 | 588 | Salena Whitlock |
-| 280 | 586 | Donna |
-| 281 | 586 | Brian Battjes |
+| 280 | 586 | Brian Battjes |
+| 281 | 586 | Donna |
 | 282 | 582 | FuzzyNavel |
 | 283 | 581 | Crystal Hine |
 | 284 | 578 | James Mitchell |
@@ -379,8 +379,8 @@
 | 371 | 443 | Christian Werndl |
 | 372 | 442 | Loopy Fallzone |
 | 373 | 438 | Dannie Litchard |
-| 374 | 436 | AC Yeater |
-| 375 | 436 | Julie Fratrik |
+| 374 | 436 | Julie Fratrik |
+| 375 | 436 | AC Yeater |
 | 376 | 435 | Sabrina Hardrick |
 | 377 | 434 | Criss |
 | 378 | 432 | Hoppy Patternline |
@@ -388,10 +388,10 @@
 | 380 | 432 | Justice 4 P |
 | 381 | 431 | Goofy Fall |
 | 382 | 431 | Donna Esbensen-Alpini |
-| 383 | 430 | AlsoJess |
-| 384 | 430 | Quackers |
-| 385 | 428 | Samantha Lynn |
-| 386 | 428 | Skinny Baldez |
+| 383 | 430 | Quackers |
+| 384 | 430 | AlsoJess |
+| 385 | 428 | Skinny Baldez |
+| 386 | 428 | Samantha Lynn |
 | 387 | 427 | Darlene McMillan |
 | 388 | 426 | Christina Rotz Shows |
 | 389 | 425 | Ava Petito |

@@ -108,11 +108,11 @@
 | 100 | 846 | Christine Marie |
 | 101 | 840 | SAP |
 | 102 | 837 | Rica Mitchell |
-| 103 | 834 | Brittney Orengo |
-| 104 | 834 | quicksand420 |
+| 103 | 834 | quicksand420 |
+| 104 | 834 | Brittney Orengo |
 | 105 | 815 | Diana Houts |
-| 106 | 813 | Amy Suckarieh |
-| 107 | 813 | Klo |
+| 106 | 813 | Klo |
+| 107 | 813 | Amy Suckarieh |
 | 108 | 811 | Sassy Pattern |
 | 109 | 806 | Lori Walker |
 | 110 | 806 | Zippy Gridlock |
@@ -138,8 +138,8 @@
 | 130 | 712 | Leslie Nicole |
 | 131 | 712 | H.R. Block |
 | 132 | 708 | Jacqueline Helm |
-| 133 | 704 | Austin Owens |
-| 134 | 704 | Chilly Crasher |
+| 133 | 704 | Chilly Crasher |
+| 134 | 704 | Austin Owens |
 | 135 | 682 | Raegan Lane-Ross |
 | 136 | 668 | Desi Desporte |
 | 137 | 667 | Swanky Fitline |
@@ -169,8 +169,8 @@
 | 161 | 602 | Cristy Duerksen |
 | 162 | 595 | TRCuse |
 | 163 | 587 | YoMomma |
-| 164 | 586 | Latisha Davis |
-| 165 | 586 | Carlos Ramirez |
+| 164 | 586 | Carlos Ramirez |
+| 165 | 586 | Latisha Davis |
 | 166 | 585 | Tracey Lehmann |
 | 167 | 584 | Carlton Unfiltered |
 | 168 | 576 | Jade Rian |
@@ -243,8 +243,8 @@
 | 235 | 457 | J-Rizzle |
 | 236 | 457 | Kristin Manee |
 | 237 | 455 | Michele Plunkett |
-| 238 | 454 | Keshia Lyons |
-| 239 | 454 | David Lay |
+| 238 | 454 | David Lay |
+| 239 | 454 | Keshia Lyons |
 | 240 | 450 | Genne Scott |
 | 241 | 449 | Danielle Kollias |
 | 242 | 448 | Mike Solo |
@@ -253,8 +253,8 @@
 | 245 | 444 | Selena Shaw |
 | 246 | 442 | John Brunetti |
 | 247 | 441 | Lush Linkfall |
-| 248 | 438 | 23 |
-| 249 | 438 | Melvin Baird |
+| 248 | 438 | Melvin Baird |
+| 249 | 438 | 23 |
 | 250 | 435 | Chris Bernstein |
 | 251 | 434 | Ramel Rhodes |
 | 252 | 433 | Damn Libra |
@@ -279,8 +279,8 @@
 | 271 | 407 | Rafael Valentin |
 | 272 | 407 | Hyper Builder |
 | 273 | 402 | Nita Wells |
-| 274 | 399 | Twisty Cascadezone |
-| 275 | 399 | Brittany Little |
+| 274 | 399 | Brittany Little |
+| 275 | 399 | Twisty Cascadezone |
 | 276 | 398 | Tyler Terrific |
 | 277 | 397 | blockstar |
 | 278 | 395 | BigSammy420 |

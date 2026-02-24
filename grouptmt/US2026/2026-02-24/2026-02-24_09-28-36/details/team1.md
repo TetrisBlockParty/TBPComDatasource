@@ -137,18 +137,18 @@
 | 129 | 666 | Virginia Gray Floyd |
 | 130 | 652 | Evie Khalil |
 | 131 | 651 | Dandy Basegrid |
-| 132 | 650 | Bob |
-| 133 | 650 | April Carroll |
+| 132 | 650 | April Carroll |
+| 133 | 650 | Bob |
 | 134 | 647 | Theo Pinnow |
 | 135 | 643 | Erin Rosberg |
 | 136 | 642 | Mario Cab |
-| 137 | 629 | Tanya Carpenter-Reynolds |
-| 138 | 629 | Death |
+| 137 | 629 | Death |
+| 138 | 629 | Tanya Carpenter-Reynolds |
 | 139 | 628 | Trina Gee |
 | 140 | 626 | Damon J. Martin |
 | 141 | 620 | Ty Brown |
-| 142 | 618 | Ryan Lunnin |
-| 143 | 618 | femmefatale |
+| 142 | 618 | femmefatale |
+| 143 | 618 | Ryan Lunnin |
 | 144 | 611 | Evan Richmond |
 | 145 | 609 | Basment Living |
 | 146 | 608 | Tipsy Riseclear |
@@ -271,8 +271,8 @@
 | 263 | 396 | Sam Williams |
 | 264 | 394 | Nick R Montague |
 | 265 | 393 | Wisa |
-| 266 | 392 | Renee Tucker |
-| 267 | 392 | Poppy Riserpiece |
+| 266 | 392 | Poppy Riserpiece |
+| 267 | 392 | Renee Tucker |
 | 268 | 391 | Happy Basegrid |
 | 269 | 390 | David Lutcher |
 | 270 | 388 | Test |
@@ -297,8 +297,8 @@
 | 289 | 373 | Frothy Pattern |
 | 290 | 372 | Wayne Saunders |
 | 291 | 372 | Dizzy Party |
-| 292 | 371 | Danielle S Kester |
-| 293 | 371 | Jaimie Lynn |
+| 292 | 371 | Jaimie Lynn |
+| 293 | 371 | Danielle S Kester |
 | 294 | 370 | Gracie |
 | 295 | 369 | Keith Mathis |
 | 296 | 367 | Cheeky Pop |
@@ -600,8 +600,8 @@
 | 592 | 215 | Natasha Hollowell Causey |
 | 593 | 214 | Alex Gauthier |
 | 594 | 214 | Amanda Marie Sutton |
-| 595 | 212 | Craig Mcgonigle |
-| 596 | 212 | Matthew Foley |
+| 595 | 212 | Matthew Foley |
+| 596 | 212 | Craig Mcgonigle |
 | 597 | 211 | Bucketsmasher |
 | 598 | 211 | Dizzy Rackham |
 | 599 | 210 | Lil H |
