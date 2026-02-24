@@ -112,8 +112,8 @@
 | 104 | 834 | Brittney Orengo |
 | 105 | 818 | Lori Walker |
 | 106 | 815 | Diana Houts |
-| 107 | 813 | Klo |
-| 108 | 813 | Amy Suckarieh |
+| 107 | 813 | Amy Suckarieh |
+| 108 | 813 | Klo |
 | 109 | 811 | Sassy Pattern |
 | 110 | 806 | Zippy Gridlock |
 | 111 | 805 | Mylo Lipscomb |
@@ -145,8 +145,8 @@
 | 137 | 682 | Raegan Lane-Ross |
 | 138 | 668 | Desi Desporte |
 | 139 | 667 | Matt Gooder |
-| 140 | 667 | Swanky Fitline |
-| 141 | 667 | Lindsey Gonzalez |
+| 140 | 667 | Lindsey Gonzalez |
+| 141 | 667 | Swanky Fitline |
 | 142 | 662 | Nerdy Twisterfit |
 | 143 | 661 | shar |
 | 144 | 661 | Rodney McMath Jr. |
@@ -322,8 +322,8 @@
 | 314 | 354 | Perky Piecegrid |
 | 315 | 354 | @ |
 | 316 | 352 | Kate |
-| 317 | 351 | Jackie Clark |
-| 318 | 351 | Dana Scott |
+| 317 | 351 | Dana Scott |
+| 318 | 351 | Jackie Clark |
 | 319 | 350 | Dizzy Matchzone |
 | 320 | 349 | Richard-April Kice |
 | 321 | 349 | jim |
@@ -352,8 +352,8 @@
 | 344 | 336 | Stella |
 | 345 | 335 | Snippy Puzzle |
 | 346 | 334 | Zethra Prenisha Rahming |
-| 347 | 331 | Angie Schmidt |
-| 348 | 331 | rebel4lyfe |
+| 347 | 331 | rebel4lyfe |
+| 348 | 331 | Angie Schmidt |
 | 349 | 330 | Duck |
 | 350 | 329 | AyeKay |
 | 351 | 329 | Meagan Nicole |
@@ -366,7 +366,7 @@
 | 358 | 324 | tipsy tiger |
 | 359 | 324 | Sarah Hoffman |
 | 360 | 322 | Bryan Hodgins |
-| 361 | 321 | Paige Kittles |
+| 361 | 321 | Stacey Stano |
 | 362 | 321 | Sarah Brown |
 | 363 | 321 | Paige Kittles |
 | 364 | 320 | Alan Zukowski |
@@ -621,11 +621,11 @@
 | 613 | 201 | Eric Wren |
 | 614 | 200 | Veronica Garza |
 | 615 | 199 | Allen Johnson |
-| 616 | 198 | Bubbly Setter |
-| 617 | 198 | Zocko Ellet |
-| 618 | 197 | Mcg |
-| 619 | 197 | Colton Stamper |
-| 620 | 197 | Satinleader |
+| 616 | 198 | Zocko Ellet |
+| 617 | 198 | Bubbly Setter |
+| 618 | 197 | Colton Stamper |
+| 619 | 197 | Satinleader |
+| 620 | 197 | Mcg |
 | 621 | 196 | Julie McAfoos Swanson |
 | 622 | 195 | Tianna Frey |
 | 623 | 195 | Shant |

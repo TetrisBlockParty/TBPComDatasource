@@ -69,8 +69,8 @@
 | 61 | 1920 | Trezure Gonzalez |
 | 62 | 1858 | Kristie McFarland |
 | 63 | 1836 | Tina Kay |
-| 64 | 1824 | Jessica Ann |
-| 65 | 1824 | Nate Burnside |
+| 64 | 1824 | Nate Burnside |
+| 65 | 1824 | Jessica Ann |
 | 66 | 1791 | Leah Barnett |
 | 67 | 1776 | Whitney Manuel |
 | 68 | 1774 | Liv Whetson |
@@ -83,8 +83,8 @@
 | 75 | 1633 | cowboy25469 |
 | 76 | 1625 | Queen Kam |
 | 77 | 1615 | joclisa |
-| 78 | 1566 | Marcie Bressler |
-| 79 | 1566 | Nerdy Riseclear |
+| 78 | 1566 | Nerdy Riseclear |
+| 79 | 1566 | Marcie Bressler |
 | 80 | 1560 | Logan Naccarato |
 | 81 | 1555 | Snappy Glidepiece |
 | 82 | 1527 | Elaine Webb Graves |
@@ -210,8 +210,8 @@
 | 202 | 784 | Jone |
 | 203 | 777 | Daryn Elliott |
 | 204 | 774 | ren |
-| 205 | 772 | Cyd061769 |
-| 206 | 772 | Hasty Cascadefit |
+| 205 | 772 | Hasty Cascadefit |
+| 206 | 772 | Cyd061769 |
 | 207 | 766 | Tasha Gillespie |
 | 208 | 763 | Khaleada McGill Banks |
 | 209 | 762 | Naur |
@@ -234,8 +234,8 @@
 | 226 | 719 | Brandon Givens |
 | 227 | 714 | Jenny Hrndz |
 | 228 | 713 | Stephanie Blkpep Davidson |
-| 229 | 709 | Christine Niles |
-| 230 | 709 | Cynthia Castros-Hampton |
+| 229 | 709 | Cynthia Castros-Hampton |
+| 230 | 709 | Christine Niles |
 | 231 | 708 | Stephanie Bradley |
 | 232 | 707 | Snappy Balancer |
 | 233 | 704 | Betty Bóò |
@@ -258,8 +258,8 @@
 | 250 | 642 | Rania Zaqout |
 | 251 | 641 | Tom Nault |
 | 252 | 640 | Dee Pratt |
-| 253 | 639 | Marci Mize Fandrich |
-| 254 | 639 | Nichol Graham |
+| 253 | 639 | Nichol Graham |
+| 254 | 639 | Marci Mize Fandrich |
 | 255 | 637 | Giddy Twistbuilder |
 | 256 | 635 | Amber Hughes |
 | 257 | 633 | Rebecca Funderburk Kirby |
@@ -274,14 +274,14 @@
 | 266 | 624 | Hyper Matchzone |
 | 267 | 623 | Giggy Glidepiece |
 | 268 | 619 | Swanky Snapclear |
-| 269 | 618 | Rynne Ellis |
-| 270 | 618 | Kaitie Oliver |
+| 269 | 618 | Kaitie Oliver |
+| 270 | 618 | Rynne Ellis |
 | 271 | 613 | Kaycee Kay |
 | 272 | 609 | Connie Mohler-Fair |
 | 273 | 608 | Noyb Adam |
 | 274 | 605 | Sarah Cowan Burgos |
-| 275 | 604 | Sherry Ogden |
-| 276 | 604 | Bmo |
+| 275 | 604 | Bmo |
+| 276 | 604 | Sherry Ogden |
 | 277 | 600 | Natasha Jones |
 | 278 | 599 | Salena Whitlock |
 | 279 | 594 | Cozy Snaplink |
@@ -324,8 +324,8 @@
 | 316 | 527 | Dapper Snap |
 | 317 | 518 | Marquita Sheard |
 | 318 | 514 | Nikki White |
-| 319 | 506 | Ammmmmmy |
-| 320 | 506 | Tiffanie Alley |
+| 319 | 506 | Tiffanie Alley |
+| 320 | 506 | Ammmmmmy |
 | 321 | 505 | Stephanie Simpson |
 | 322 | 504 | Daring Builder |
 | 323 | 500 | Ashley Tookes |
@@ -362,8 +362,8 @@
 | 354 | 464 | Snazzy Filler |
 | 355 | 464 | Snippy Wipeout |
 | 356 | 463 | Hoài Quắt |
-| 357 | 461 | Hyper Bridger |
-| 358 | 461 | Breanna Marsden |
+| 357 | 461 | Breanna Marsden |
+| 358 | 461 | Hyper Bridger |
 | 359 | 461 | Briana Wellman |
 | 360 | 460 | Antonia Russell |
 | 361 | 460 | Hasty Gridpiece |
@@ -411,8 +411,8 @@
 | 403 | 419 | Maggie |
 | 404 | 418 | Rainbow77375 |
 | 405 | 416 | Tay |
-| 406 | 414 | Michelle Allers |
-| 407 | 414 | Arden White Kirsch |
+| 406 | 414 | Arden White Kirsch |
+| 407 | 414 | Michelle Allers |
 | 408 | 413 | Rick Poppen |
 | 409 | 411 | Beaudie Stroebel |
 | 410 | 409 | Rich LeBlanc |
@@ -508,8 +508,8 @@
 | 500 | 345 | Nita Frikitona |
 | 501 | 343 | Christina Marie Swisher |
 | 502 | 343 | Michael Leblanc |
-| 503 | 342 | Tipsy Zonebuilder |
-| 504 | 342 | Boldy Corner |
+| 503 | 342 | Boldy Corner |
+| 504 | 342 | Tipsy Zonebuilder |
 | 505 | 342 | Saucy Buildout |
 | 506 | 341 | Funky Jumper |
 | 507 | 340 | Becca Engle |
@@ -806,9 +806,9 @@
 | 798 | 245 | MK Slay |
 | 799 | 245 | Danette Marie |
 | 800 | 244 | Amanda Fulton |
-| 801 | 244 | MizzMonick Smith |
-| 802 | 244 | LaJeanna Lee Lee |
-| 803 | 244 | Cheeky Setter |
+| 801 | 244 | LaJeanna Lee Lee |
+| 802 | 244 | Cheeky Setter |
+| 803 | 244 | MizzMonick Smith |
 | 804 | 242 | Tanesha BigBabby Darling |
 | 805 | 241 | David Bardo |
 | 806 | 241 | Janay Darkstallion Robinson |

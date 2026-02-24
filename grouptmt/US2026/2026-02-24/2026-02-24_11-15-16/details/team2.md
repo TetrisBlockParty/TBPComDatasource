@@ -360,7 +360,7 @@
 | 352 | 1270 | Angela KaplaSchwahn |
 | 353 | 1264 | Mama T |
 | 354 | 1261 | Becca Coronado |
-| 355 | 1257 | Megan Garrick |
+| 355 | 1257 | Jackie Lucas |
 | 356 | 1257 | Megan Ferguson Leone |
 | 357 | 1257 | Megan Garrick |
 | 358 | 1256 | Phil J. Grombliniak |
@@ -593,8 +593,8 @@
 | 585 | 866 | Tammie Siegfried |
 | 586 | 866 | Mishka Upchurch |
 | 587 | 865 | Lilia Gomez |
-| 588 | 861 | Beth |
-| 589 | 861 | Shavonna Haynes |
+| 588 | 861 | Shavonna Haynes |
+| 589 | 861 | Beth |
 | 590 | 861 | Anthony |
 | 591 | 858 | Joshua Self |
 | 592 | 857 | Marella Petilo |
@@ -607,8 +607,8 @@
 | 599 | 851 | Melissa Schulz |
 | 600 | 851 | Jerry Tempelmeyer |
 | 601 | 851 | James Louie |
-| 602 | 850 | Sabrina Burton |
-| 603 | 850 | Gary Stash |
+| 602 | 850 | Gary Stash |
+| 603 | 850 | Sabrina Burton |
 | 604 | 849 | Jasmine Kenney |
 | 605 | 848 | Happy Wipeblock |
 | 606 | 847 | Megan Kitchner |
@@ -699,8 +699,8 @@
 | 691 | 768 | Mia Muse Best |
 | 692 | 768 | Terry Paulson |
 | 693 | 766 | Frisky Riserbuilder |
-| 694 | 766 | Angela Cagle Silmon |
-| 695 | 766 | Diamond Scott |
+| 694 | 766 | Diamond Scott |
+| 695 | 766 | Angela Cagle Silmon |
 | 696 | 764 | Shannon Jackson |
 | 697 | 764 | Boldy Wiper |
 | 698 | 763 | Chelle |
@@ -762,8 +762,8 @@
 | 754 | 724 | Brenna Ann |
 | 755 | 723 | Jannan Haimour |
 | 756 | 722 | Sassy Racker |
-| 757 | 720 | Crystal EatableCupcake Stepney |
-| 758 | 720 | Poldo Ilano |
+| 757 | 720 | Poldo Ilano |
+| 758 | 720 | Crystal EatableCupcake Stepney |
 | 759 | 719 | Maddy Petersen |
 | 760 | 719 | Isabelle Bonneau |
 | 761 | 719 | Chipper Towerfit |
@@ -778,11 +778,11 @@
 | 770 | 714 | Snazzy Basepiece |
 | 771 | 712 | ItsJennifer Neriss |
 | 772 | 711 | Alicia Moreno |
-| 773 | 711 | Timothy Robert |
-| 774 | 711 | Narutofreak13 |
+| 773 | 711 | Narutofreak13 |
+| 774 | 711 | Timothy Robert |
 | 775 | 707 | Giggy Grabber |
-| 776 | 706 | Roseanna Peloso |
-| 777 | 706 | Josh Webster |
+| 776 | 706 | Josh Webster |
+| 777 | 706 | Roseanna Peloso |
 | 778 | 706 | Karen Posadas Centeno |
 | 779 | 705 | Chelsea Gutierrez |
 | 780 | 703 | cornball |
@@ -822,8 +822,8 @@
 | 814 | 683 | Audrey Jones |
 | 815 | 682 | Jacob Tri |
 | 816 | 680 | Nutty Cascade |
-| 817 | 680 | Stephanie Lafalce |
-| 818 | 680 | Paul Combs |
+| 817 | 680 | Paul Combs |
+| 818 | 680 | Stephanie Lafalce |
 | 819 | 680 | mshir |
 | 820 | 679 | Regina Knight |
 | 821 | 679 | DLOCC1056 |
@@ -872,8 +872,8 @@
 | 864 | 661 | Kristina Marie Hanna |
 | 865 | 661 | Monica Galli |
 | 866 | 661 | Chab |
-| 867 | 660 | Shelva Richard |
-| 868 | 660 | Jenna Nance |
+| 867 | 660 | Jenna Nance |
+| 868 | 660 | Shelva Richard |
 | 869 | 659 | Rain |
 | 870 | 659 | Tanya Duran |
 | 871 | 656 | Emilie Desma |
@@ -943,8 +943,8 @@
 | 935 | 619 | Lisa Moone |
 | 936 | 619 | Dawn Woosley Bowes |
 | 937 | 618 | Jordan Kaiser |
-| 938 | 617 | Biggest thing |
-| 939 | 617 | Annette Ross Clay |
+| 938 | 617 | Annette Ross Clay |
+| 939 | 617 | Biggest thing |
 | 940 | 617 | Dizzy Zone |
 | 941 | 616 | Carol Hurley |
 | 942 | 615 | King Shamell Young |
@@ -1057,8 +1057,8 @@
 | 1049 | 563 | David Rehse |
 | 1050 | 562 | Klee |
 | 1051 | 562 | Smiley Strike |
-| 1052 | 562 | Dan Kulhanek |
-| 1053 | 562 | Angie Winch |
+| 1052 | 562 | Angie Winch |
+| 1053 | 562 | Dan Kulhanek |
 | 1054 | 561 | Jenelle Case |
 | 1055 | 560 | De Hawkins |
 | 1056 | 559 | Kaylee McCafferty |
@@ -1113,8 +1113,8 @@
 | 1105 | 542 | Megan Nevarez |
 | 1106 | 541 | Samantha Rojo |
 | 1107 | 541 | Misty |
-| 1108 | 540 | Amanda Canterbury |
-| 1109 | 540 | Melisa Marvin |
+| 1108 | 540 | Melisa Marvin |
+| 1109 | 540 | Amanda Canterbury |
 | 1110 | 540 | Boldy Block |
 | 1111 | 540 | Pam Doughty |
 | 1112 | 539 | Nutty Slice |
@@ -1203,9 +1203,9 @@
 | 1195 | 504 | Richard Hunt |
 | 1196 | 504 | Mary Boss |
 | 1197 | 503 | Aleasha M Brown |
-| 1198 | 503 | Twisty Tetriblast |
-| 1199 | 503 | Jennifer Scott |
-| 1200 | 503 | Rhiannon Elizabeth Tucker |
+| 1198 | 503 | Rhiannon Elizabeth Tucker |
+| 1199 | 503 | Twisty Tetriblast |
+| 1200 | 503 | Jennifer Scott |
 | 1201 | 502 | Leandra Obermeyer |
 | 1202 | 501 | Witty Piecebuilder |
 | 1203 | 501 | Libni |
@@ -1314,8 +1314,8 @@
 | 1306 | 470 | Arlet Alba |
 | 1307 | 470 | Deana |
 | 1308 | 469 | Ubu |
-| 1309 | 469 | Bigg Meezy |
-| 1310 | 469 | William Newcomb |
+| 1309 | 469 | William Newcomb |
+| 1310 | 469 | Bigg Meezy |
 | 1311 | 468 | Aprill Bolton |
 | 1312 | 467 | Tanisha Virgo |
 | 1313 | 467 | Donald Nowland |
