@@ -87,8 +87,8 @@
 | 79 | 994 | Lori Sanders- Davis |
 | 80 | 973 | Francesca Gee |
 | 81 | 961 | Jacqueline Williams |
-| 82 | 957 | Zippy Align |
-| 83 | 957 | Erin Hodges Plumb |
+| 82 | 957 | Erin Hodges Plumb |
+| 83 | 957 | Zippy Align |
 | 84 | 944 | Sweet Baker |
 | 85 | 920 | Tee Sheree |
 | 86 | 916 | Chirpy Smasher |
@@ -155,8 +155,8 @@
 | 147 | 598 | Jessi Sauer |
 | 148 | 593 | Giddy Cascade |
 | 149 | 587 | Deanna L Hermanson |
-| 150 | 586 | Christy Jones |
-| 151 | 586 | Tiger Lily |
+| 150 | 586 | Tiger Lily |
+| 151 | 586 | Christy Jones |
 | 152 | 582 | Hellsin |
 | 153 | 581 | Jennifer Hardman |
 | 154 | 575 | Elaine Elaine |
@@ -219,8 +219,8 @@
 | 211 | 466 | Lori Bales |
 | 212 | 458 | Goose egg |
 | 213 | 457 | Kimberly Garcia |
-| 214 | 453 | Angela Spann |
-| 215 | 453 | Kimmie Kimms |
+| 214 | 453 | Kimmie Kimms |
+| 215 | 453 | Angela Spann |
 | 216 | 452 | Tamara Brown |
 | 217 | 449 | Tawnya Peltonen |
 | 218 | 448 | Yvonne Marie |
@@ -250,8 +250,8 @@
 | 242 | 420 | Jennifer Noe Chandler |
 | 243 | 419 | John J. Cronin |
 | 244 | 419 | Daring Fitclear |
-| 245 | 416 | Larissa Marie Nelson |
-| 246 | 416 | Jessica Sheehan |
+| 245 | 416 | Jessica Sheehan |
+| 246 | 416 | Larissa Marie Nelson |
 | 247 | 414 | Bird Person |
 | 248 | 412 | Sleepysloath5745 |
 | 249 | 410 | Paula Martin |
@@ -263,8 +263,8 @@
 | 255 | 403 | Jen Nystrom |
 | 256 | 403 | Alenoush Karimian |
 | 257 | 399 | Lakeisha Chapman |
-| 258 | 398 | MommaKFC |
-| 259 | 398 | Cece Ibarra |
+| 258 | 398 | Cece Ibarra |
+| 259 | 398 | MommaKFC |
 | 260 | 396 | Sam Williams |
 | 261 | 394 | Nick R Montague |
 | 262 | 393 | Wisa |
@@ -437,8 +437,8 @@
 | 429 | 281 | Jessie |
 | 430 | 281 | Sunshine |
 | 431 | 281 | Shiny Snapline |
-| 432 | 280 | Kayla Marie Stevenson |
-| 433 | 280 | Llewej Rekab |
+| 432 | 280 | Llewej Rekab |
+| 433 | 280 | Kayla Marie Stevenson |
 | 434 | 279 | Chris Dawson |
 | 435 | 279 | Herm Junior |
 | 436 | 278 | Al Smith Jr |
@@ -615,8 +615,8 @@
 | 607 | 205 | Lauren Baxter |
 | 608 | 205 | Sam Rosado |
 | 609 | 204 | Jill King Oldham |
-| 610 | 203 | MelSavage |
-| 611 | 203 | Ashley Rodriguez |
+| 610 | 203 | Ashley Rodriguez |
+| 611 | 203 | MelSavage |
 | 612 | 202 | grizzly |
 | 613 | 201 | Hector Cruz |
 | 614 | 201 | Emily Wray |

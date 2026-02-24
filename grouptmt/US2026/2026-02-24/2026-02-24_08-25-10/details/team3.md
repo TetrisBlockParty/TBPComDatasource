@@ -125,8 +125,8 @@
 | 117 | 1134 | Melissa Orth Hunter |
 | 118 | 1124 | Stephanie Rice |
 | 119 | 1121 | Corie A. Brinson |
-| 120 | 1114 | Groovy Catcher |
-| 121 | 1114 | Loopy Fallmatch |
+| 120 | 1114 | Loopy Fallmatch |
+| 121 | 1114 | Groovy Catcher |
 | 122 | 1105 | Adrian Marcel Pate |
 | 123 | 1093 | Angela M. Fletcher |
 | 124 | 1091 | Jennifer |
@@ -728,8 +728,8 @@
 | 720 | 260 | Josh Borquez |
 | 721 | 260 | Kristen McAlpine |
 | 722 | 260 | Plucky Frame |
-| 723 | 259 | Shania Vaine |
-| 724 | 259 | Tammy |
+| 723 | 259 | Tammy |
+| 724 | 259 | Shania Vaine |
 | 725 | 258 | Spicy Buildout |
 | 726 | 257 | Justin Ernst |
 | 727 | 257 | Kristy Manley |
