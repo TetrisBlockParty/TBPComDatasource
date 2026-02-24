@@ -310,8 +310,8 @@
 | 302 | 471 | Skippy |
 | 303 | 468 | Sarah Moyer |
 | 304 | 465 | Ktfreeee |
-| 305 | 464 | Noyb Adam |
-| 306 | 464 | Danielle Weikel |
+| 305 | 464 | Danielle Weikel |
+| 306 | 464 | Noyb Adam |
 | 307 | 462 | Sleepy |
 | 308 | 462 | Noettín Kan Zasnemoore |
 | 309 | 461 | Tom Nault |
@@ -329,10 +329,10 @@
 | 321 | 437 | Loopy Clusterer |
 | 322 | 436 | Heather De Vries Cobb |
 | 323 | 435 | Sabrina Hardrick |
-| 324 | 432 | Luciana Braganca Vieira |
-| 325 | 432 | Jojo M |
-| 326 | 431 | Tia |
-| 327 | 431 | Wendy Dearden |
+| 324 | 432 | Jojo M |
+| 325 | 432 | Luciana Braganca Vieira |
+| 326 | 431 | Wendy Dearden |
+| 327 | 431 | Tia |
 | 328 | 430 | Quackers |
 | 329 | 429 | James Mitchell |
 | 330 | 429 | Carrie Huskey |

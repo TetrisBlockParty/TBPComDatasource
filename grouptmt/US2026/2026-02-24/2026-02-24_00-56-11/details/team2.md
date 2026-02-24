@@ -353,8 +353,8 @@
 | 345 | 1135 | Kenny Alvarado |
 | 346 | 1134 | Kelsey Kyle Rhodes |
 | 347 | 1118 | Ibiza Carolina LaRose |
-| 348 | 1116 | Belle |
-| 349 | 1116 | Em Chen |
+| 348 | 1116 | Em Chen |
+| 349 | 1116 | Belle |
 | 350 | 1114 | Kevin Walp |
 | 351 | 1109 | Melissa McCall |
 | 352 | 1105 | Nerdy Clearfit |

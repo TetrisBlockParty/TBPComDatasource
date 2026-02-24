@@ -177,8 +177,8 @@
 | 169 | 491 | Michelle Beres |
 | 170 | 490 | Jennifer Hardman |
 | 171 | 488 | Hyper |
-| 172 | 483 | Dandy Basegrid |
-| 173 | 483 | Trina Gee |
+| 172 | 483 | Trina Gee |
+| 173 | 483 | Dandy Basegrid |
 | 174 | 482 | Ly Phethmany |
 | 175 | 480 | Amanda Jarnagin |
 | 176 | 479 | Snappy Matcher |
@@ -188,11 +188,11 @@
 | 180 | 470 | Candy Jones |
 | 181 | 468 | Steve Schneider |
 | 182 | 464 | canbrick |
-| 183 | 463 | Nicole Roseberry Weber |
-| 184 | 463 | Brandi Huntington |
+| 183 | 463 | Brandi Huntington |
+| 184 | 463 | Nicole Roseberry Weber |
 | 185 | 462 | Hasty Cascader |
-| 186 | 458 | Dizzy Slider |
-| 187 | 458 | Goose egg |
+| 186 | 458 | Goose egg |
+| 187 | 458 | Dizzy Slider |
 | 188 | 446 | Cheeky Crusher |
 | 189 | 446 | SkipTheSadSauce |
 | 190 | 442 | Kimmie Kimms |
