@@ -91,8 +91,8 @@
 | 83 | 973 | Francesca Gee |
 | 84 | 971 | Lexuriuos Lifestlye |
 | 85 | 961 | Jacqueline Williams |
-| 86 | 957 | Erin Hodges Plumb |
-| 87 | 957 | Zippy Align |
+| 86 | 957 | Zippy Align |
+| 87 | 957 | Erin Hodges Plumb |
 | 88 | 944 | Sweet Baker |
 | 89 | 920 | Tee Sheree |
 | 90 | 916 | Chirpy Smasher |
@@ -146,8 +146,8 @@
 | 138 | 642 | Mario Cab |
 | 139 | 629 | Tanya Carpenter-Reynolds |
 | 140 | 629 | Death |
-| 141 | 628 | femmefatale |
-| 142 | 628 | Trina Gee |
+| 141 | 628 | Trina Gee |
+| 142 | 628 | femmefatale |
 | 143 | 626 | Damon J. Martin |
 | 144 | 620 | Ty Brown |
 | 145 | 611 | Evan Richmond |
@@ -255,8 +255,8 @@
 | 247 | 424 | Plucky Stacky |
 | 248 | 422 | Jamise Brown |
 | 249 | 421 | Letson Melissa |
-| 250 | 419 | John J. Cronin |
-| 251 | 419 | Barrbaric |
+| 250 | 419 | Barrbaric |
+| 251 | 419 | John J. Cronin |
 | 252 | 416 | Jessica Sheehan |
 | 253 | 416 | Larissa Marie Nelson |
 | 254 | 414 | Bird Person |

@@ -134,8 +134,8 @@
 | 126 | 729 | Jamie Mann-Deichmann |
 | 127 | 726 | Jamie Gustafson |
 | 128 | 725 | Brandon Crabbs |
-| 129 | 719 | Leslie Nicole |
-| 130 | 719 | George Nutt |
+| 129 | 719 | George Nutt |
+| 130 | 719 | Leslie Nicole |
 | 131 | 712 | H.R. Block |
 | 132 | 708 | Jacqueline Helm |
 | 133 | 704 | Austin Owens |
@@ -386,11 +386,11 @@
 | 378 | 314 | Marcus TheeyoungWoe Gilmore |
 | 379 | 313 | Lazy Glidepiece |
 | 380 | 312 | Tawna Curry |
-| 381 | 311 | Reds Bella |
-| 382 | 311 | KayM |
+| 381 | 311 | KayM |
+| 382 | 311 | Reds Bella |
 | 383 | 308 | Angela Geist Jusinski |
-| 384 | 307 | Eri Kka |
-| 385 | 307 | Susan Williams |
+| 384 | 307 | Susan Williams |
+| 385 | 307 | Eri Kka |
 | 386 | 306 | PeaceOs |
 | 387 | 305 | Frances Hui |
 | 388 | 305 | Groovy Shiftspin |
@@ -433,8 +433,8 @@
 | 425 | 279 | Ziggy |
 | 426 | 278 | L Bear Champion |
 | 427 | 278 | Shainne Brewer |
-| 428 | 277 | Maria Hammie |
-| 429 | 277 | Silly SeaWeed |
+| 428 | 277 | Silly SeaWeed |
+| 429 | 277 | Maria Hammie |
 | 430 | 276 | Dennis Bradley |
 | 431 | 275 | Jarred Falls |
 | 432 | 274 | Cheery Fitline |
@@ -624,8 +624,8 @@
 | 616 | 198 | Bubbly Setter |
 | 617 | 198 | Zocko Ellet |
 | 618 | 197 | Mcg |
-| 619 | 197 | Satinleader |
-| 620 | 197 | Colton Stamper |
+| 619 | 197 | Colton Stamper |
+| 620 | 197 | Satinleader |
 | 621 | 196 | Julie McAfoos Swanson |
 | 622 | 195 | Tianna Frey |
 | 623 | 195 | Adrian Pawlusinski |

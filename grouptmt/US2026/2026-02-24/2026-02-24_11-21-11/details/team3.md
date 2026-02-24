@@ -168,8 +168,8 @@
 | 160 | 928 | Edwin Calvillo Jr. |
 | 161 | 925 | Cherry Parker |
 | 162 | 914 | BadManSheLove |
-| 163 | 910 | Staci George Fitzsimmons |
-| 164 | 910 | opf |
+| 163 | 910 | opf |
+| 164 | 910 | Staci George Fitzsimmons |
 | 165 | 906 | Patti Skiles |
 | 166 | 899 | Jaime Monhaut-Reed |
 | 167 | 894 | Denita Mungro |
@@ -219,8 +219,8 @@
 | 211 | 759 | Mykal Burton |
 | 212 | 758 | Shawn Miller |
 | 213 | 757 | Fancy Cascader |
-| 214 | 755 | Colton |
-| 215 | 755 | Laura Booth Wosko |
+| 214 | 755 | Laura Booth Wosko |
+| 215 | 755 | Colton |
 | 216 | 754 | CeceGeGe |
 | 217 | 753 | Morgan Martinez |
 | 218 | 752 | Joye Sims Binion |
@@ -324,8 +324,8 @@
 | 316 | 527 | Dapper Snap |
 | 317 | 518 | Marquita Sheard |
 | 318 | 514 | Nikki White |
-| 319 | 506 | Ammmmmmy |
-| 320 | 506 | Tiffanie Alley |
+| 319 | 506 | Tiffanie Alley |
+| 320 | 506 | Ammmmmmy |
 | 321 | 505 | Stephanie Simpson |
 | 322 | 504 | Daring Builder |
 | 323 | 500 | Ashley Tookes |
@@ -640,8 +640,8 @@
 | 632 | 293 | Tommy Proctor |
 | 633 | 293 | Rufus Lincoln |
 | 634 | 292 | Scouty |
-| 635 | 291 | Jessica Lynn French |
-| 636 | 291 | Autumn Phillimore |
+| 635 | 291 | Autumn Phillimore |
+| 636 | 291 | Jessica Lynn French |
 | 637 | 291 | Jess Dearborn |
 | 638 | 290 | Zesty Rotater |
 | 639 | 290 | Rayzer |
