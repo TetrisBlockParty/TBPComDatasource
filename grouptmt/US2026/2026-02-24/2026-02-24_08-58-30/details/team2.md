@@ -220,8 +220,8 @@
 | 212 | 1813 | Catina Hutchison |
 | 213 | 1807 | Osun Anuket Esu |
 | 214 | 1784 | Matthew Joseph Acevedo |
-| 215 | 1775 | Eboni Banks |
-| 216 | 1775 | Sommer Shope |
+| 215 | 1775 | Sommer Shope |
+| 216 | 1775 | Eboni Banks |
 | 217 | 1770 | Nerdy Pattern |
 | 218 | 1761 | Rosa Franklin |
 | 219 | 1751 | Melissa Penelope Ann Dodge |

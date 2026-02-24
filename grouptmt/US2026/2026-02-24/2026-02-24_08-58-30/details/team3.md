@@ -111,8 +111,8 @@
 | 103 | 1309 | yoyo |
 | 104 | 1297 | Shelby Michelle |
 | 105 | 1290 | JerseyJess |
-| 106 | 1282 | Amanda L Baker |
-| 107 | 1282 | Peppy Shifter |
+| 106 | 1282 | Peppy Shifter |
+| 107 | 1282 | Amanda L Baker |
 | 108 | 1276 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1248 | Lori Barnaby |
@@ -126,8 +126,8 @@
 | 118 | 1134 | Melissa Orth Hunter |
 | 119 | 1124 | Stephanie Rice |
 | 120 | 1121 | Corie A. Brinson |
-| 121 | 1114 | Groovy Catcher |
-| 122 | 1114 | Loopy Fallmatch |
+| 121 | 1114 | Loopy Fallmatch |
+| 122 | 1114 | Groovy Catcher |
 | 123 | 1105 | Adrian Marcel Pate |
 | 124 | 1093 | Angela M. Fletcher |
 | 125 | 1091 | Jennifer |
@@ -156,8 +156,8 @@
 | 148 | 971 | Tasha Schriewer |
 | 149 | 963 | Crystal Frey |
 | 150 | 961 | Danielle Allison |
-| 151 | 950 | Giddy Drop |
-| 152 | 950 | MissTaylor |
+| 151 | 950 | MissTaylor |
+| 152 | 950 | Giddy Drop |
 | 153 | 947 | Kellie Montgomery |
 | 154 | 940 | Patty Allen |
 | 155 | 940 | Stephanie Allmon |
@@ -184,20 +184,20 @@
 | 176 | 857 | Dana Fox |
 | 177 | 856 | Dana Winters |
 | 178 | 854 | Speedy Bridger |
-| 179 | 847 | Daira Largen |
-| 180 | 847 | Daring Brickzone |
+| 179 | 847 | Daring Brickzone |
+| 180 | 847 | Daira Largen |
 | 181 | 846 | Nicole Myers |
 | 182 | 832 | Alexmac |
 | 183 | 829 | Patricia White |
 | 184 | 825 | Lizabeth Fox |
-| 185 | 821 | Kammy Hill |
-| 186 | 821 | Angella Lyons |
+| 185 | 821 | Angella Lyons |
+| 186 | 821 | Kammy Hill |
 | 187 | 817 | Niki Dalrymple |
 | 188 | 815 | Justin Ritter |
 | 189 | 813 | JessDrown |
 | 190 | 808 | Raya |
-| 191 | 804 | Alaina Lee |
-| 192 | 804 | Gideon Walker |
+| 191 | 804 | Gideon Walker |
+| 192 | 804 | Alaina Lee |
 | 193 | 800 | Lauren Girouard |
 | 194 | 799 | Trisha Balmer |
 | 195 | 792 | Rachel Grant |
@@ -231,8 +231,8 @@
 | 223 | 715 | Karon Griffin |
 | 224 | 714 | Jenny Hrndz |
 | 225 | 713 | Stephanie Blkpep Davidson |
-| 226 | 709 | Cynthia Castros-Hampton |
-| 227 | 709 | Christine Niles |
+| 226 | 709 | Christine Niles |
+| 227 | 709 | Cynthia Castros-Hampton |
 | 228 | 708 | Stephanie Bradley |
 | 229 | 704 | Betty Bóò |
 | 230 | 703 | Shawn Miller |
@@ -293,9 +293,9 @@
 | 285 | 574 | Danielle Balcom |
 | 286 | 572 | Tessina Dewey-Mancino |
 | 287 | 570 | thekey |
-| 288 | 569 | Michael Johnson |
+| 288 | 569 | Gray Hicks |
 | 289 | 569 | Silly Twist |
-| 290 | 569 | Gray Hicks |
+| 290 | 569 | Michael Johnson |
 | 291 | 566 | Eileen Brady Thurber |
 | 292 | 566 | Tyler Shoff |
 | 293 | 565 | Michael Lucado |
@@ -360,8 +360,8 @@
 | 352 | 459 | Randy Clevenger |
 | 353 | 459 | TotoCherue |
 | 354 | 457 | Snippy Wipeout |
-| 355 | 456 | Cynthia Herrmann Egland |
-| 356 | 456 | Kelly |
+| 355 | 456 | Kelly |
+| 356 | 456 | Cynthia Herrmann Egland |
 | 357 | 455 | Kelly Wolf |
 | 358 | 450 | Luciana Braganca Vieira |
 | 359 | 450 | Stefanie LaPointe |
@@ -380,8 +380,8 @@
 | 372 | 436 | AC Yeater |
 | 373 | 435 | Sabrina Hardrick |
 | 374 | 434 | Criss |
-| 375 | 432 | Justice 4 P |
-| 376 | 432 | Hoppy Patternline |
+| 375 | 432 | Hoppy Patternline |
+| 376 | 432 | Justice 4 P |
 | 377 | 432 | Sabrina Mansfield |
 | 378 | 431 | Goofy Fall |
 | 379 | 431 | Donna Esbensen-Alpini |
@@ -406,8 +406,8 @@
 | 398 | 411 | Beaudie Stroebel |
 | 399 | 409 | Rich LeBlanc |
 | 400 | 409 | Roary Danner |
-| 401 | 408 | Tiffany Ford |
-| 402 | 408 | Ashley Muncey |
+| 401 | 408 | Ashley Muncey |
+| 402 | 408 | Tiffany Ford |
 | 403 | 407 | Christina Spa |
 | 404 | 406 | Kristen Weese |
 | 405 | 405 | Andrew Thorson |
@@ -481,8 +481,8 @@
 | 473 | 354 | Jana Polk |
 | 474 | 354 | Norma JulieMay |
 | 475 | 353 | Nikkie Bucciano |
-| 476 | 353 | Erika Apodaca |
-| 477 | 353 | Cheeky Snapper |
+| 476 | 353 | Cheeky Snapper |
+| 477 | 353 | Erika Apodaca |
 | 478 | 353 | Eboni G. |
 | 479 | 352 | LadyTorad |
 | 480 | 352 | Scott Doss |
@@ -740,7 +740,7 @@
 | 732 | 257 | Justin Ernst |
 | 733 | 256 | Moniecia Harrison |
 | 734 | 256 | Amy Cunningham Mitchell |
-| 735 | 255 | Alison Baus |
+| 735 | 255 | Dizzy Risepiece |
 | 736 | 255 | Benny Tyrrell |
 | 737 | 255 | Tony Tran |
 | 738 | 255 | Stormy Anguish |

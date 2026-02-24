@@ -169,8 +169,8 @@
 | 161 | 595 | TRCuse |
 | 162 | 591 | Cursed Hag |
 | 163 | 587 | YoMomma |
-| 164 | 586 | Latisha Davis |
-| 165 | 586 | Carlos Ramirez |
+| 164 | 586 | Carlos Ramirez |
+| 165 | 586 | Latisha Davis |
 | 166 | 585 | Tracey Lehmann |
 | 167 | 584 | Carlton Unfiltered |
 | 168 | 576 | Jade Rian |
@@ -183,8 +183,8 @@
 | 175 | 561 | Steph Marie |
 | 176 | 560 | Chastity Mitchell |
 | 177 | 558 | Marie-Pier Desjardins |
-| 178 | 552 | Angel Raya |
-| 179 | 552 | Circuit8 |
+| 178 | 552 | Circuit8 |
+| 179 | 552 | Angel Raya |
 | 180 | 550 | James Hurley Jr. |
 | 181 | 549 | Cool Towerbuilder |
 | 182 | 546 | Dizzy Tiley |
@@ -237,16 +237,16 @@
 | 229 | 463 | shark tato |
 | 230 | 462 | Crystal Nicolette Moore |
 | 231 | 460 | Kathy Brookins |
-| 232 | 458 | Kristina Black |
-| 233 | 458 | Luis Martinez |
+| 232 | 458 | Luis Martinez |
+| 233 | 458 | Kristina Black |
 | 234 | 457 | Kristin Manee |
 | 235 | 457 | J-Rizzle |
 | 236 | 455 | Michele Plunkett |
 | 237 | 454 | Keshia Lyons |
 | 238 | 450 | Genne Scott |
 | 239 | 449 | Danielle Kollias |
-| 240 | 448 | Mr. Party |
-| 241 | 448 | Mike Solo |
+| 240 | 448 | Mike Solo |
+| 241 | 448 | Mr. Party |
 | 242 | 447 | Jen Mattei |
 | 243 | 444 | Selena Shaw |
 | 244 | 442 | John Brunetti |
@@ -426,8 +426,8 @@
 | 418 | 279 | Ziggy |
 | 419 | 278 | L Bear Champion |
 | 420 | 278 | Shainne Brewer |
-| 421 | 277 | Silly SeaWeed |
-| 422 | 277 | Maria Hammie |
+| 421 | 277 | Maria Hammie |
+| 422 | 277 | Silly SeaWeed |
 | 423 | 276 | Dennis Bradley |
 | 424 | 275 | Jarred Falls |
 | 425 | 275 | Dustin York |
@@ -575,8 +575,8 @@
 | 567 | 214 | Susan R. Wilson |
 | 568 | 213 | Frank Joseph Epson |
 | 569 | 213 | Derick |
-| 570 | 212 | Undeniable Williams |
-| 571 | 212 | Karen Lambert |
+| 570 | 212 | Karen Lambert |
+| 571 | 212 | Undeniable Williams |
 | 572 | 211 | Sunny Filler |
 | 573 | 210 | Wacky Blockclear |
 | 574 | 209 | Calvin Dennis |
@@ -596,13 +596,13 @@
 | 588 | 206 | Peachy Brickster |
 | 589 | 206 | Matt Morrow |
 | 590 | 206 | Cozy Balancer |
-| 591 | 204 | Kujuanna Hammon |
-| 592 | 204 | Susan Purnell |
-| 593 | 204 | icequeenx |
+| 591 | 204 | Susan Purnell |
+| 592 | 204 | icequeenx |
+| 593 | 204 | Kujuanna Hammon |
 | 594 | 204 | Smiley Shifter |
 | 595 | 204 | Gwendolyn Pitcairn |
-| 596 | 202 | Brad Campbell |
-| 597 | 202 | Jennifer Brown |
+| 596 | 202 | Jennifer Brown |
+| 597 | 202 | Brad Campbell |
 | 598 | 202 | Jasmine S Caldwell |
 | 599 | 201 | Bryan James Marino |
 | 600 | 201 | Carla Harris |
@@ -610,8 +610,8 @@
 | 602 | 201 | Danya Castillo Rios |
 | 603 | 201 | Eric Wren |
 | 604 | 199 | Allen Johnson |
-| 605 | 198 | Zocko Ellet |
-| 606 | 198 | Bubbly Setter |
+| 605 | 198 | Bubbly Setter |
+| 606 | 198 | Zocko Ellet |
 | 607 | 197 | Colton Stamper |
 | 608 | 196 | Mcg |
 | 609 | 196 | Julie McAfoos Swanson |
