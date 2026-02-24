@@ -32,8 +32,8 @@
 | 24 | 3221 | Ashley Jones |
 | 25 | 3118 | Jamie Lang |
 | 26 | 3042 | Nerdy Spinblock |
-| 27 | 2933 | Dan Rob |
-| 28 | 2933 | Grego Daniel |
+| 27 | 2933 | Grego Daniel |
+| 28 | 2933 | Dan Rob |
 | 29 | 2874 | Zippy Strikesnap |
 | 30 | 2873 | Chummy Shatterer |
 | 31 | 2816 | Fancy Slam |
@@ -199,8 +199,8 @@
 | 191 | 815 | Justin Ritter |
 | 192 | 813 | JessDrown |
 | 193 | 808 | Raya |
-| 194 | 804 | Alaina Lee |
-| 195 | 804 | Gideon Walker |
+| 194 | 804 | Gideon Walker |
+| 195 | 804 | Alaina Lee |
 | 196 | 800 | Lauren Girouard |
 | 197 | 799 | Trisha Balmer |
 | 198 | 792 | Rachel Grant |
@@ -3412,8 +3412,8 @@
 | 3404 | 5 | Toni Miller |
 | 3405 | 5 | Terrie Watson Whitley |
 | 3406 | 5 | Amber Kelson |
-| 3407 | 5 | Terrie Watson Whitley |
-| 3408 | 5 | Star Estrella |
+| 3407 | 5 | Giddy Spinbuilder |
+| 3408 | 5 | Boldy Zonepiece |
 
 ---
 *Standings created by tournaments datasource generation tool*

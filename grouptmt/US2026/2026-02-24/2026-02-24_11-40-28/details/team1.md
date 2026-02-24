@@ -194,8 +194,8 @@
 | 186 | 519 | Cool Shiftsnap |
 | 187 | 517 | Eric DeSimone |
 | 188 | 514 | Mike Ames |
-| 189 | 513 | Rebekah LeiAnn Bonsell |
-| 190 | 513 | Colena Davenport |
+| 189 | 513 | Colena Davenport |
+| 190 | 513 | Rebekah LeiAnn Bonsell |
 | 191 | 511 | MomMom |
 | 192 | 510 | Rat666 |
 | 193 | 501 | Jessica Russell |
@@ -204,8 +204,8 @@
 | 196 | 497 | MIKOZ |
 | 197 | 496 | Sarah Somers Gray |
 | 198 | 495 | Connie |
-| 199 | 494 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
-| 200 | 494 | Sean Stallings |
+| 199 | 494 | Sean Stallings |
+| 200 | 494 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 201 | 493 | Speedy Liney |
 | 202 | 493 | Chuck Gannon |
 | 203 | 492 | Happy Snapbuild |
@@ -472,7 +472,7 @@
 | 464 | 271 | Patty Lavigne Craddock |
 | 465 | 270 | John Barron |
 | 466 | 270 | Krie |
-| 467 | 270 | John Barron |
+| 467 | 270 | Ariel Whittington |
 | 468 | 269 | Ramona Shaver |
 | 469 | 268 | Ashley Adams |
 | 470 | 267 | Dena Kayy |

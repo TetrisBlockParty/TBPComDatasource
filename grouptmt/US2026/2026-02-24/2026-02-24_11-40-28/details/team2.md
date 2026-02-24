@@ -384,8 +384,8 @@
 | 376 | 1225 | RAEPR05 |
 | 377 | 1224 | Kennedy Sandifer |
 | 378 | 1222 | Nuke Morris |
-| 379 | 1218 | LaKisha Anderson |
-| 380 | 1218 | Hyper Cluster |
+| 379 | 1218 | Hyper Cluster |
+| 380 | 1218 | LaKisha Anderson |
 | 381 | 1217 | Brooks Brooks |
 | 382 | 1214 | David Cudicio-Hayden |
 | 383 | 1211 | Cynthia Ward |
@@ -438,7 +438,7 @@
 | 430 | 1089 | Lupita Flores |
 | 431 | 1088 | Angelina Marie |
 | 432 | 1088 | BK Queen |
-| 433 | 1087 | Jenn Marie |
+| 433 | 1087 | Cindy Sechler Taninecz |
 | 434 | 1087 | Angela Bonquiqui Dinish |
 | 435 | 1087 | Jenn Marie |
 | 436 | 1085 | Barbra Miller |
@@ -1304,8 +1304,8 @@
 | 1296 | 474 | James Zaragoza |
 | 1297 | 474 | Lisa Falcon |
 | 1298 | 473 | PlazTTV |
-| 1299 | 472 | Kena T. Tanner |
-| 1300 | 472 | Sarah Dean |
+| 1299 | 472 | Sarah Dean |
+| 1300 | 472 | Kena T. Tanner |
 | 1301 | 472 | Beautiful |
 | 1302 | 472 | Bold Clusterfit |
 | 1303 | 471 | Joshua Vargeson |

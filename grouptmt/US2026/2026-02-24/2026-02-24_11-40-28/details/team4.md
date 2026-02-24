@@ -81,8 +81,8 @@
 | 73 | 1071 | LisaJo Picken Buchanan |
 | 74 | 1069 | Heather Tushner |
 | 75 | 1056 | Keith Kelley |
-| 76 | 1046 | Anthony Bryan Riva |
-| 77 | 1046 | Johnathan Martinez |
+| 76 | 1046 | Johnathan Martinez |
+| 77 | 1046 | Anthony Bryan Riva |
 | 78 | 1028 | TeeJ |
 | 79 | 1024 | Valerie Roberts |
 | 80 | 1017 | Jeremy Steines |
@@ -108,8 +108,8 @@
 | 100 | 846 | Christine Marie |
 | 101 | 840 | SAP |
 | 102 | 837 | Rica Mitchell |
-| 103 | 834 | quicksand420 |
-| 104 | 834 | Brittney Orengo |
+| 103 | 834 | Brittney Orengo |
+| 104 | 834 | quicksand420 |
 | 105 | 818 | Lori Walker |
 | 106 | 815 | Diana Houts |
 | 107 | 813 | Amy Suckarieh |
@@ -172,8 +172,8 @@
 | 164 | 602 | Cristy Duerksen |
 | 165 | 595 | TRCuse |
 | 166 | 587 | YoMomma |
-| 167 | 586 | Rebecca Morris |
-| 168 | 586 | Latisha Davis |
+| 167 | 586 | Latisha Davis |
+| 168 | 586 | Rebecca Morris |
 | 169 | 585 | Tracey Lehmann |
 | 170 | 585 | Lori |
 | 171 | 584 | Carlton Unfiltered |
@@ -198,9 +198,9 @@
 | 190 | 536 | JPW |
 | 191 | 535 | Berklie Apedaile |
 | 192 | 534 | Lucas J Sutton |
-| 193 | 532 | Matt Summer |
+| 193 | 532 | Carly Alexis |
 | 194 | 532 | Alan George LaRage |
-| 195 | 532 | Carly Alexis |
+| 195 | 532 | Matt Summer |
 | 196 | 528 | Ellen Durfee |
 | 197 | 528 | Erin Sabol |
 | 198 | 525 | Crystal Lynn |
@@ -302,7 +302,7 @@
 | 294 | 382 | Matt Dell'Olio |
 | 295 | 382 | Sue Joyce Staats |
 | 296 | 381 | Cool Gridzone |
-| 297 | 380 | Chaz |
+| 297 | 380 | Holly Jolly |
 | 298 | 380 | Jen Caldwell |
 | 299 | 380 | Chaz |
 | 300 | 378 | Googenheim |
@@ -323,8 +323,8 @@
 | 315 | 354 | @ |
 | 316 | 354 | Perky Piecegrid |
 | 317 | 352 | Kate |
-| 318 | 351 | Dana Scott |
-| 319 | 351 | Jackie Clark |
+| 318 | 351 | Jackie Clark |
+| 319 | 351 | Dana Scott |
 | 320 | 350 | Dizzy Matchzone |
 | 321 | 349 | jim |
 | 322 | 349 | Richard-April Kice |
@@ -361,13 +361,13 @@
 | 353 | 329 | Meagan Nicole |
 | 354 | 328 | Heather Bruce |
 | 355 | 328 | Leah Kutz Zirbel |
-| 356 | 327 | Jim Hart |
-| 357 | 327 | Jessica Petersen |
+| 356 | 327 | Jessica Petersen |
+| 357 | 327 | Jim Hart |
 | 358 | 325 | Dustin York |
-| 359 | 324 | Sarah Hoffman |
-| 360 | 324 | tipsy tiger |
+| 359 | 324 | tipsy tiger |
+| 360 | 324 | Sarah Hoffman |
 | 361 | 322 | Bryan Hodgins |
-| 362 | 321 | Paige Kittles |
+| 362 | 321 | Stacey Stano |
 | 363 | 321 | Sarah Brown |
 | 364 | 321 | Paige Kittles |
 | 365 | 320 | Cynthia Boudreau |
@@ -446,12 +446,12 @@
 | 438 | 271 | ImJustMe |
 | 439 | 270 | 07VHVW |
 | 440 | 269 | Sticherella |
-| 441 | 268 | Sallie Sanborn |
-| 442 | 268 | Riverdale |
-| 443 | 267 | Bubbly Twistpiece |
-| 444 | 267 | Jennifer Brown |
-| 445 | 266 | ĥuf |
-| 446 | 266 | Happy Combo |
+| 441 | 268 | Riverdale |
+| 442 | 268 | Sallie Sanborn |
+| 443 | 267 | Jennifer Brown |
+| 444 | 267 | Bubbly Twistpiece |
+| 445 | 266 | Happy Combo |
+| 446 | 266 | ĥuf |
 | 447 | 266 | Helen Chao |
 | 448 | 265 | Christine Therrien |
 | 449 | 265 | Lorena Guerrero-Barron |
