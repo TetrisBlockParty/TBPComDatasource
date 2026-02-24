@@ -235,8 +235,8 @@
 | 227 | 409 | Antony Dwayne Beasley |
 | 228 | 403 | TinyLegoRose |
 | 229 | 400 | Brickh4us |
-| 230 | 399 | Jeff Brian Gates |
-| 231 | 399 | Lindsay Ball |
+| 230 | 399 | Lindsay Ball |
+| 231 | 399 | Jeff Brian Gates |
 | 232 | 398 | Tyler Terrific |
 | 233 | 395 | 030Synner |
 | 234 | 394 | Nita Wells |
@@ -265,8 +265,8 @@
 | 257 | 369 | Matt Dell'Olio |
 | 258 | 368 | Kris Bartlett |
 | 259 | 367 | Meg |
-| 260 | 366 | Andrew Dang |
-| 261 | 366 | Cheery Risebuilder |
+| 260 | 366 | Cheery Risebuilder |
+| 261 | 366 | Andrew Dang |
 | 262 | 365 | Hyper Builder |
 | 263 | 362 | Danielle Kollias |
 | 264 | 360 | James Hurley Jr. |
@@ -666,8 +666,8 @@
 | 658 | 150 | Michelle McCutcheon |
 | 659 | 150 | Kristin Rose Nutter |
 | 660 | 150 | moneybagz |
-| 661 | 149 | Boldy Linkpiece |
-| 662 | 149 | Petty |
+| 661 | 149 | Petty |
+| 662 | 149 | Boldy Linkpiece |
 | 663 | 148 | McKayla Breanne |
 | 664 | 148 | Zany Mover |
 | 665 | 147 | David Emmanuel George |

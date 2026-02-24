@@ -58,8 +58,8 @@
 | 50 | 1772 | Liv Whetson |
 | 51 | 1754 | Nate Burnside |
 | 52 | 1739 | Tina Kay |
-| 53 | 1734 | Fancy Slam |
-| 54 | 1734 | Aaron Pitkin |
+| 53 | 1734 | Aaron Pitkin |
+| 54 | 1734 | Fancy Slam |
 | 55 | 1732 | Jessica Ann |
 | 56 | 1691 | Cass Mendoza |
 | 57 | 1665 | Whitney Manuel |
@@ -181,8 +181,8 @@
 | 173 | 762 | Santeria Trece Candles |
 | 174 | 761 | Peppy Shifter |
 | 175 | 757 | Fancy Cascader |
-| 176 | 755 | Laura Booth Wosko |
-| 177 | 755 | Tye Stovall |
+| 176 | 755 | Tye Stovall |
+| 177 | 755 | Laura Booth Wosko |
 | 178 | 742 | Jennifer Lynn Fahrenholtz-Summers |
 | 179 | 740 | Kiki |
 | 180 | 738 | Naur |
@@ -299,14 +299,14 @@
 | 291 | 476 | Shunta Jacobs |
 | 292 | 475 | Tasha Wesson-Torrence |
 | 293 | 474 | Tiffanie Alley |
-| 294 | 471 | Mendoza Lee Christy |
-| 295 | 471 | Alexmac |
+| 294 | 471 | Alexmac |
+| 295 | 471 | Mendoza Lee Christy |
 | 296 | 471 | Skippy |
 | 297 | 470 | thekey |
 | 298 | 468 | Betty Rosas |
 | 299 | 468 | Sarah Moyer |
-| 300 | 464 | Noyb Adam |
-| 301 | 464 | Danielle Weikel |
+| 300 | 464 | Danielle Weikel |
+| 301 | 464 | Noyb Adam |
 | 302 | 462 | Sleepy |
 | 303 | 462 | Noettín Kan Zasnemoore |
 | 304 | 461 | Tom Nault |

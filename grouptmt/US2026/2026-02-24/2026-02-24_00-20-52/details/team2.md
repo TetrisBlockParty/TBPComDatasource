@@ -235,8 +235,8 @@
 | 227 | 1534 | Rosa Franklin |
 | 228 | 1530 | Mischelle Clay |
 | 229 | 1525 | Catina Hutchison |
-| 230 | 1509 | Stacey Clement |
-| 231 | 1509 | Whitney Nicole Waterman |
+| 230 | 1509 | Whitney Nicole Waterman |
+| 231 | 1509 | Stacey Clement |
 | 232 | 1507 | Kiok |
 | 233 | 1498 | Isabela Shaw |
 | 234 | 1494 | Binyah-Binyah |
@@ -272,11 +272,11 @@
 | 264 | 1351 | Denisha Dawkins |
 | 265 | 1348 | Sarah Freitas |
 | 266 | 1342 | Kelly A Green-Leach |
-| 267 | 1341 | Cassie Mercer |
-| 268 | 1341 | Moose Griffith |
+| 267 | 1341 | Moose Griffith |
+| 268 | 1341 | Cassie Mercer |
 | 269 | 1338 | Diallo Sparkman |
-| 270 | 1337 | Lola C Davis |
-| 271 | 1337 | Carrie Trigg |
+| 270 | 1337 | Carrie Trigg |
+| 271 | 1337 | Lola C Davis |
 | 272 | 1334 | Groovy Puzzle |
 | 273 | 1332 | Julie Kresal |
 | 274 | 1330 | Ann Knutson Anderson |
@@ -303,8 +303,8 @@
 | 295 | 1264 | Missie Lawson Gebhardt |
 | 296 | 1260 | Roman Lavochnik |
 | 297 | 1259 | Foxxo |
-| 298 | 1257 | Megan Garrick |
-| 299 | 1257 | Megan Ferguson Leone |
+| 298 | 1257 | Megan Ferguson Leone |
+| 299 | 1257 | Megan Garrick |
 | 300 | 1254 | Amber Brion |
 | 301 | 1247 | Samantha Scibelli |
 | 302 | 1245 | Angel Hunnewell |
@@ -372,8 +372,8 @@
 | 364 | 1073 | Jodi Blake |
 | 365 | 1071 | Bri Lynn |
 | 366 | 1071 | Barbra Miller |
-| 367 | 1071 | Nashu |
-| 368 | 1071 | Kim Dean |
+| 367 | 1071 | Kim Dean |
+| 368 | 1071 | Nashu |
 | 369 | 1067 | Caitlin Schmid |
 | 370 | 1067 | Taylor Phillips |
 | 371 | 1067 | Bee |
@@ -476,8 +476,8 @@
 | 468 | 894 | Elisheva Mizrachi |
 | 469 | 893 | Kiely Tomaskovich |
 | 470 | 893 | Meghan M |
-| 471 | 890 | Venita Ray |
-| 472 | 890 | Moni Foxe |
+| 471 | 890 | Moni Foxe |
+| 472 | 890 | Venita Ray |
 | 473 | 888 | Leslie Ann Carter |
 | 474 | 887 | Kimmy Newman |
 | 475 | 884 | Gloria Liu |

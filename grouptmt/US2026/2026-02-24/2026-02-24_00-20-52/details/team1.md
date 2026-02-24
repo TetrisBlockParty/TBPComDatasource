@@ -105,8 +105,8 @@
 | 97 | 744 | Greg Hart |
 | 98 | 737 | Karin Gillen |
 | 99 | 722 | Kellie |
-| 100 | 706 | Plucky Fallzone |
-| 101 | 706 | Denice Dee |
+| 100 | 706 | Denice Dee |
+| 101 | 706 | Plucky Fallzone |
 | 102 | 703 | Angel Fowler |
 | 103 | 691 | Rachael |
 | 104 | 687 | Melissa Lemmon |
@@ -377,8 +377,8 @@
 | 369 | 277 | Nutty Spinblock |
 | 370 | 277 | Agustin Duarte Orozco |
 | 371 | 275 | Steph |
-| 372 | 274 | Allena Craft |
-| 373 | 274 | Danielle Mae |
+| 372 | 274 | Danielle Mae |
+| 373 | 274 | Allena Craft |
 | 374 | 273 | Brandie Gallegos |
 | 375 | 273 | Frisky Base |
 | 376 | 273 | Nadine Velardo |
