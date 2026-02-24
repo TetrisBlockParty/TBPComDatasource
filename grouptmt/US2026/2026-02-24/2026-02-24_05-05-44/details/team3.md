@@ -263,8 +263,8 @@
 | 255 | 598 | Kaycee Kay |
 | 256 | 595 | Betty Rosas |
 | 257 | 588 | Salena Whitlock |
-| 258 | 586 | Donna |
-| 259 | 586 | Brian Battjes |
+| 258 | 586 | Brian Battjes |
+| 259 | 586 | Donna |
 | 260 | 582 | FuzzyNavel |
 | 261 | 578 | James Mitchell |
 | 262 | 574 | Rachael McClain Owens |

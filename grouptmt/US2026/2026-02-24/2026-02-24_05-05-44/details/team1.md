@@ -108,8 +108,8 @@
 | 100 | 773 | Susanna Guerry |
 | 101 | 772 | Kathy Langham |
 | 102 | 770 | Zappy Curvetile |
-| 103 | 769 | Robert Benito |
-| 104 | 769 | Angel Fowler |
+| 103 | 769 | Angel Fowler |
+| 104 | 769 | Robert Benito |
 | 105 | 768 | Jazzy Framezone |
 | 106 | 756 | Cartier |
 | 107 | 751 | Kellie |
@@ -363,8 +363,8 @@
 | 355 | 305 | Damian Salem |
 | 356 | 304 | Chummy Rollblock |
 | 357 | 302 | Jenny Gingrich Fuentes |
-| 358 | 301 | Chad Atchley |
-| 359 | 301 | Christina Backer |
+| 358 | 301 | Christina Backer |
+| 359 | 301 | Chad Atchley |
 | 360 | 301 | Susie Loo |
 | 361 | 300 | Logan McFarland |
 | 362 | 300 | Garrett Burket |
@@ -445,9 +445,9 @@
 | 437 | 263 | Charlie Walker |
 | 438 | 263 | BigWeenie69 |
 | 439 | 261 | Angela Fairbank |
-| 440 | 260 | Silly Align |
-| 441 | 260 | Mathew Harris |
-| 442 | 260 | Lacy Wolfe |
+| 440 | 260 | Mathew Harris |
+| 441 | 260 | Lacy Wolfe |
+| 442 | 260 | Silly Align |
 | 443 | 259 | Tiffany Smith |
 | 444 | 258 | Vivienne Carter |
 | 445 | 258 | Dena Kayy |

@@ -198,8 +198,8 @@
 | 190 | 1872 | Janel Turley-Garner |
 | 191 | 1855 | Missie Lawson Gebhardt |
 | 192 | 1851 | Kristopher Miller |
-| 193 | 1845 | Katrina Weston |
-| 194 | 1845 | Jessie McDougald |
+| 193 | 1845 | Jessie McDougald |
+| 194 | 1845 | Katrina Weston |
 | 195 | 1840 | blarg |
 | 196 | 1829 | Mr. Street Stack |
 | 197 | 1823 | Lauren Fitzgerald Thomas |
@@ -392,8 +392,8 @@
 | 384 | 1137 | Kenny Alvarado |
 | 385 | 1130 | Caitlin Schmid |
 | 386 | 1123 | Jodi Mitnick |
-| 387 | 1119 | Teresa Gillmore |
-| 388 | 1119 | Bubbly Snapfit |
+| 387 | 1119 | Bubbly Snapfit |
+| 388 | 1119 | Teresa Gillmore |
 | 389 | 1118 | Ibiza Carolina LaRose |
 | 390 | 1116 | Wakanda Forever |
 | 391 | 1116 | Em Chen |

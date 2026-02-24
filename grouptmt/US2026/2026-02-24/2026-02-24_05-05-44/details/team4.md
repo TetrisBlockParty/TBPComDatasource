@@ -109,8 +109,8 @@
 | 101 | 804 | SAP |
 | 102 | 803 | Diana Houts |
 | 103 | 802 | Crystal Carroll |
-| 104 | 798 | Jewell Urban |
-| 105 | 798 | Klo |
+| 104 | 798 | Klo |
+| 105 | 798 | Jewell Urban |
 | 106 | 796 | Denise Carlson |
 | 107 | 781 | Brittney Griggs |
 | 108 | 780 | TheNeesh50 |
@@ -136,8 +136,8 @@
 | 128 | 690 | Denia Deni |
 | 129 | 682 | Raegan Lane-Ross |
 | 130 | 669 | Leslie Nicole |
-| 131 | 667 | Matt Gooder |
-| 132 | 667 | Lindsey Gonzalez |
+| 131 | 667 | Lindsey Gonzalez |
+| 132 | 667 | Matt Gooder |
 | 133 | 662 | George Nutt |
 | 134 | 660 | Desi Desporte |
 | 135 | 651 | Adawna Swires |
@@ -157,8 +157,8 @@
 | 149 | 602 | Cristy Duerksen |
 | 150 | 599 | shar |
 | 151 | 599 | Adam Stephanie Parker |
-| 152 | 595 | TRCuse |
-| 153 | 595 | Rodney McMath Jr. |
+| 152 | 595 | Rodney McMath Jr. |
+| 153 | 595 | TRCuse |
 | 154 | 587 | YoMomma |
 | 155 | 586 | Latisha Davis |
 | 156 | 586 | Cursed Hag |
