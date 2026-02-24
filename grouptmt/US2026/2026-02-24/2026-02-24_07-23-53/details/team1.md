@@ -119,8 +119,8 @@
 | 111 | 725 | Phu ckalldems |
 | 112 | 719 | Bindi |
 | 113 | 716 | Kristi Johnson |
-| 114 | 706 | Denice Dee |
-| 115 | 706 | Plucky Fallzone |
+| 114 | 706 | Plucky Fallzone |
+| 115 | 706 | Denice Dee |
 | 116 | 702 | lil mickey |
 | 117 | 699 | cc |
 | 118 | 692 | Melissa Lemmon |
@@ -462,9 +462,9 @@
 | 454 | 267 | Barry Mac'Ockner |
 | 455 | 267 | Dena Kayy |
 | 456 | 266 | Angela Jones |
-| 457 | 265 | Brenda L. Bunce |
+| 457 | 265 | Cranky Pattern |
 | 458 | 265 | Yahowah |
-| 459 | 265 | Cranky Pattern |
+| 459 | 265 | Brenda L. Bunce |
 | 460 | 264 | Kayla |
 | 461 | 263 | BigWeenie69 |
 | 462 | 263 | Charlie Walker |
@@ -475,8 +475,8 @@
 | 467 | 260 | Lacy Wolfe |
 | 468 | 260 | Silly Align |
 | 469 | 259 | Lisa Reynolds Adair |
-| 470 | 258 | Marc Abney |
-| 471 | 258 | Vivienne Carter |
+| 470 | 258 | Vivienne Carter |
+| 471 | 258 | Marc Abney |
 | 472 | 258 | Tedashi |
 | 473 | 257 | Funky Piecebuilder |
 | 474 | 257 | Frisky Risebuilder |

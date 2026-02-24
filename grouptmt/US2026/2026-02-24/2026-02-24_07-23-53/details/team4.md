@@ -112,8 +112,8 @@
 | 104 | 813 | Klo |
 | 105 | 811 | Sassy Pattern |
 | 106 | 806 | Lori Walker |
-| 107 | 802 | Denise Carlson |
-| 108 | 802 | Crystal Carroll |
+| 107 | 802 | Crystal Carroll |
+| 108 | 802 | Denise Carlson |
 | 109 | 801 | D3TROITB0RN74 |
 | 110 | 798 | Jewell Urban |
 | 111 | 781 | Brittney Griggs |
@@ -130,11 +130,11 @@
 | 122 | 735 | Nugget |
 | 123 | 731 | KJ Pool |
 | 124 | 729 | Jamie Mann-Deichmann |
-| 125 | 726 | Amy Suckarieh |
-| 126 | 726 | Jamie Gustafson |
+| 125 | 726 | Jamie Gustafson |
+| 126 | 726 | Amy Suckarieh |
 | 127 | 725 | Brandon Crabbs |
-| 128 | 712 | H.R. Block |
-| 129 | 712 | Leslie Nicole |
+| 128 | 712 | Leslie Nicole |
+| 129 | 712 | H.R. Block |
 | 130 | 708 | Jacqueline Helm |
 | 131 | 704 | Austin Owens |
 | 132 | 704 | Chilly Crasher |
@@ -216,8 +216,8 @@
 | 208 | 502 | Christina Black |
 | 209 | 501 | Sharyn Lemire |
 | 210 | 499 | Kesha Brady |
-| 211 | 496 | Lori |
-| 212 | 496 | Jessica Bohlken |
+| 211 | 496 | Jessica Bohlken |
+| 212 | 496 | Lori |
 | 213 | 495 | Joeliecea Cobb |
 | 214 | 493 | Amanda Pauldo-Ivy |
 | 215 | 491 | Manny1 |
@@ -236,8 +236,8 @@
 | 228 | 460 | Kathy Brookins |
 | 229 | 458 | Kristina Black |
 | 230 | 458 | Luis Martinez |
-| 231 | 457 | Kristin Manee |
-| 232 | 457 | J-Rizzle |
+| 231 | 457 | J-Rizzle |
+| 232 | 457 | Kristin Manee |
 | 233 | 455 | Michele Plunkett |
 | 234 | 454 | Keshia Lyons |
 | 235 | 449 | Danielle Kollias |
@@ -247,8 +247,8 @@
 | 239 | 444 | Selena Shaw |
 | 240 | 442 | John Brunetti |
 | 241 | 441 | Lush Linkfall |
-| 242 | 438 | 23 |
-| 243 | 438 | Melvin Baird |
+| 242 | 438 | Melvin Baird |
+| 243 | 438 | 23 |
 | 244 | 434 | Ramel Rhodes |
 | 245 | 433 | Damn Libra |
 | 246 | 433 | Circuit8 |
@@ -264,8 +264,8 @@
 | 256 | 420 | Jeff Brian Gates |
 | 257 | 419 | Hyper Matchclear |
 | 258 | 413 | Rio Rocha |
-| 259 | 411 | TinyLegoRose |
-| 260 | 411 | Autumn Kumzi |
+| 259 | 411 | Autumn Kumzi |
+| 260 | 411 | TinyLegoRose |
 | 261 | 410 | Lindsay Ball |
 | 262 | 409 | Antony Dwayne Beasley |
 | 263 | 409 | Joseph Guthrie |
@@ -279,8 +279,8 @@
 | 271 | 399 | 030Synner |
 | 272 | 398 | Tyler Terrific |
 | 273 | 397 | blockstar |
-| 274 | 395 | Denise B |
-| 275 | 395 | BigSammy420 |
+| 274 | 395 | BigSammy420 |
+| 275 | 395 | Denise B |
 | 276 | 393 | Montiette Mcglown |
 | 277 | 392 | Neirrah B Olailjeel |
 | 278 | 391 | mike |
@@ -312,8 +312,8 @@
 | 304 | 354 | @ |
 | 305 | 354 | Perky Piecegrid |
 | 306 | 352 | Kate |
-| 307 | 351 | Dana Scott |
-| 308 | 351 | Jackie Clark |
+| 307 | 351 | Jackie Clark |
+| 308 | 351 | Dana Scott |
 | 309 | 350 | Dizzy Matchzone |
 | 310 | 349 | jim |
 | 311 | 349 | Richard-April Kice |
@@ -404,11 +404,11 @@
 | 396 | 288 | Amy Jean |
 | 397 | 288 | Eminem |
 | 398 | 286 | meowmew |
-| 399 | 284 | Groovy Shiftspin |
+| 399 | 284 | Malakai Darien Fox |
 | 400 | 284 | Alexandra Karavias |
 | 401 | 284 | Shiny Pivoty |
 | 402 | 284 | Johnny R |
-| 403 | 284 | Malakai Darien Fox |
+| 403 | 284 | Groovy Shiftspin |
 | 404 | 282 | Sho Nuff |
 | 405 | 281 | Tony Pavelka |
 | 406 | 281 | Morti |

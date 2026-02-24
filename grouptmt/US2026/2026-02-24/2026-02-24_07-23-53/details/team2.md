@@ -276,8 +276,8 @@
 | 268 | 1480 | Dimitra Zazara |
 | 269 | 1479 | Pacynthia Williams |
 | 270 | 1478 | Misty Walker |
-| 271 | 1477 | Prado |
-| 272 | 1477 | Hillary Crawford |
+| 271 | 1477 | Hillary Crawford |
+| 272 | 1477 | Prado |
 | 273 | 1469 | Carrie Trigg |
 | 274 | 1463 | Yvonne Wharton |
 | 275 | 1459 | Shiny Rollzone |
@@ -734,13 +734,13 @@
 | 726 | 724 | teo1 |
 | 727 | 722 | Sassy Racker |
 | 728 | 720 | Crystal EatableCupcake Stepney |
-| 729 | 719 | Maddy Petersen |
-| 730 | 719 | Isabelle Bonneau |
+| 729 | 719 | Isabelle Bonneau |
+| 730 | 719 | Maddy Petersen |
 | 731 | 718 | Andre Love |
 | 732 | 717 | Shinette Dobson |
 | 733 | 717 | Yoan Boulanger |
-| 734 | 716 | Irene Jones |
-| 735 | 716 | Leah |
+| 734 | 716 | Leah |
+| 735 | 716 | Irene Jones |
 | 736 | 715 | Daniell Martinez |
 | 737 | 715 | Daphne Jordan |
 | 738 | 715 | Julio A Laracuente |
@@ -1050,11 +1050,11 @@
 | 1042 | 555 | Glitzy Rollblock |
 | 1043 | 555 | Noel Tarmy |
 | 1044 | 555 | Amy Roche |
-| 1045 | 554 | Hoppy Glidebuilder |
-| 1046 | 554 | Cheery Puzzler |
+| 1045 | 554 | Cheery Puzzler |
+| 1046 | 554 | Hoppy Glidebuilder |
 | 1047 | 554 | Dusti Rose Bingham |
-| 1048 | 553 | Tum |
-| 1049 | 553 | ruth |
+| 1048 | 553 | ruth |
+| 1049 | 553 | Tum |
 | 1050 | 553 | Sar Mo |
 | 1051 | 553 | Jason Kelly |
 | 1052 | 552 | Demitri Smith |

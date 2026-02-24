@@ -82,8 +82,8 @@
 | 74 | 1633 | cowboy25469 |
 | 75 | 1625 | Queen Kam |
 | 76 | 1615 | joclisa |
-| 77 | 1566 | Nerdy Riseclear |
-| 78 | 1566 | Marcie Bressler |
+| 77 | 1566 | Marcie Bressler |
+| 78 | 1566 | Nerdy Riseclear |
 | 79 | 1560 | Logan Naccarato |
 | 80 | 1555 | Snappy Glidepiece |
 | 81 | 1518 | Christine Filson |
@@ -252,8 +252,8 @@
 | 244 | 633 | Jillian Symons |
 | 245 | 630 | Jackie Miller |
 | 246 | 629 | rnr junky |
-| 247 | 627 | Louise Stacy Sisson |
-| 248 | 627 | Juliana Dottore |
+| 247 | 627 | Juliana Dottore |
+| 248 | 627 | Louise Stacy Sisson |
 | 249 | 626 | Cheryl Hinch Tenbrook |
 | 250 | 625 | Jacqueline Rodriguez |
 | 251 | 624 | Hyper Matchzone |
@@ -265,8 +265,8 @@
 | 257 | 618 | Betty Bóò |
 | 258 | 606 | Connie Mohler-Fair |
 | 259 | 605 | Sarah Cowan Burgos |
-| 260 | 604 | Bmo |
-| 261 | 604 | Sherry Ogden |
+| 260 | 604 | Sherry Ogden |
+| 261 | 604 | Bmo |
 | 262 | 601 | Betty Rosas |
 | 263 | 600 | Natasha Jones |
 | 264 | 599 | Noyb Adam |
@@ -302,8 +302,8 @@
 | 294 | 544 | Chris Bell |
 | 295 | 542 | France Vézina |
 | 296 | 541 | Mcathen |
-| 297 | 540 | Tanya Kittrell |
-| 298 | 540 | rosy |
+| 297 | 540 | rosy |
+| 298 | 540 | Tanya Kittrell |
 | 299 | 539 | Fancy Curver |
 | 300 | 539 | Kate M. Murdock |
 | 301 | 536 | Shannon Matthew Byers |
@@ -323,8 +323,8 @@
 | 315 | 506 | Ammmmmmy |
 | 316 | 505 | Stephanie Simpson |
 | 317 | 500 | Ashley Tookes |
-| 318 | 499 | Gumbo |
-| 319 | 499 | Rebecca Bailey |
+| 318 | 499 | Rebecca Bailey |
+| 319 | 499 | Gumbo |
 | 320 | 499 | Megan Rathmanner |
 | 321 | 496 | Brenda Schmid Wood |
 | 322 | 495 | Daring Builder |
@@ -338,8 +338,8 @@
 | 330 | 486 | Sleepy |
 | 331 | 482 | Chummy Rumbler |
 | 332 | 481 | Tiffanie Alley |
-| 333 | 480 | Dee Franklin |
-| 334 | 480 | TLM |
+| 333 | 480 | TLM |
+| 334 | 480 | Dee Franklin |
 | 335 | 479 | Charles Perrone |
 | 336 | 476 | Shunta Jacobs |
 | 337 | 474 | Troy |
@@ -358,11 +358,11 @@
 | 350 | 459 | TotoCherue |
 | 351 | 459 | Randy Clevenger |
 | 352 | 457 | Snippy Wipeout |
-| 353 | 456 | Cynthia Herrmann Egland |
-| 354 | 456 | Kelly |
+| 353 | 456 | Kelly |
+| 354 | 456 | Cynthia Herrmann Egland |
 | 355 | 455 | Kelly Wolf |
-| 356 | 450 | Stefanie LaPointe |
-| 357 | 450 | Luciana Braganca Vieira |
+| 356 | 450 | Luciana Braganca Vieira |
+| 357 | 450 | Stefanie LaPointe |
 | 358 | 449 | Lively Caster |
 | 359 | 447 | Carrie Huskey |
 | 360 | 447 | Num1hater |
@@ -429,8 +429,8 @@
 | 421 | 384 | Tiffany Davie |
 | 422 | 383 | Jessica Christian |
 | 423 | 381 | Mary Giorgenti |
-| 424 | 380 | neci |
-| 425 | 380 | Foltz Lee Kelli |
+| 424 | 380 | Foltz Lee Kelli |
+| 425 | 380 | neci |
 | 426 | 378 | Samantha Worley |
 | 427 | 378 | Ashley Lynn Marchese |
 | 428 | 377 | Paula Little |
