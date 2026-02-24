@@ -216,8 +216,8 @@
 | 208 | 502 | Christina Black |
 | 209 | 501 | Sharyn Lemire |
 | 210 | 499 | Kesha Brady |
-| 211 | 496 | Lori |
-| 212 | 496 | Jessica Bohlken |
+| 211 | 496 | Jessica Bohlken |
+| 212 | 496 | Lori |
 | 213 | 495 | Joeliecea Cobb |
 | 214 | 493 | Amanda Pauldo-Ivy |
 | 215 | 491 | Manny1 |

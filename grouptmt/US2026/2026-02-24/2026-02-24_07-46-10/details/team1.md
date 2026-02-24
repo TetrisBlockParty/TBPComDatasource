@@ -202,8 +202,8 @@
 | 194 | 494 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 195 | 493 | Speedy Liney |
 | 196 | 492 | Happy Snapbuild |
-| 197 | 488 | Jessie Welch |
-| 198 | 488 | Ly Phethmany |
+| 197 | 488 | Ly Phethmany |
+| 198 | 488 | Jessie Welch |
 | 199 | 487 | Eric DeSimone |
 | 200 | 482 | Mike Ames |
 | 201 | 479 | canbrick |
@@ -223,8 +223,8 @@
 | 215 | 449 | Tawnya Peltonen |
 | 216 | 448 | Yvonne Marie |
 | 217 | 446 | Spencer Lent |
-| 218 | 446 | SkipTheSadSauce |
-| 219 | 446 | Adele Rahman |
+| 218 | 446 | Adele Rahman |
+| 219 | 446 | SkipTheSadSauce |
 | 220 | 441 | Kimberly Garcia |
 | 221 | 440 | Monica Donato |
 | 222 | 439 | David Miller |

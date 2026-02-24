@@ -354,8 +354,8 @@
 | 346 | 1264 | Mama T |
 | 347 | 1261 | Becca Coronado |
 | 348 | 1257 | Jackie Lucas |
-| 349 | 1257 | Megan Ferguson Leone |
-| 350 | 1257 | Megan Garrick |
+| 349 | 1257 | Megan Garrick |
+| 350 | 1257 | Megan Ferguson Leone |
 | 351 | 1256 | Belle |
 | 352 | 1254 | Erika Densmore |
 | 353 | 1252 | AgileDragon |
@@ -430,8 +430,8 @@
 | 422 | 1088 | BK Queen |
 | 423 | 1087 | Jenn Marie |
 | 424 | 1087 | Cindy Sechler Taninecz |
-| 425 | 1085 | Bee |
-| 426 | 1085 | Barbra Miller |
+| 425 | 1085 | Barbra Miller |
+| 426 | 1085 | Bee |
 | 427 | 1084 | William Hunt |
 | 428 | 1084 | Emilee Burke |
 | 429 | 1080 | Jennifer Monroe Kelly |
@@ -564,8 +564,8 @@
 | 556 | 885 | Miranda Morris |
 | 557 | 885 | Giggy Mover |
 | 558 | 883 | Hong Tang |
-| 559 | 882 | Thomas Hedrick |
-| 560 | 882 | Sarah Massey |
+| 559 | 882 | Sarah Massey |
+| 560 | 882 | Thomas Hedrick |
 | 561 | 881 | Layla LS |
 | 562 | 876 | Jelly |
 | 563 | 876 | Jessicah Myers |
@@ -731,12 +731,12 @@
 | 723 | 725 | Vonceial Boone |
 | 724 | 725 | Shylee Tilman |
 | 725 | 724 | Brenna Ann |
-| 726 | 724 | Epic Fitzone |
-| 727 | 724 | teo1 |
+| 726 | 724 | teo1 |
+| 727 | 724 | Epic Fitzone |
 | 728 | 722 | Sassy Racker |
 | 729 | 720 | Crystal EatableCupcake Stepney |
-| 730 | 719 | Maddy Petersen |
-| 731 | 719 | Isabelle Bonneau |
+| 730 | 719 | Isabelle Bonneau |
+| 731 | 719 | Maddy Petersen |
 | 732 | 718 | Andre Love |
 | 733 | 717 | Shinette Dobson |
 | 734 | 717 | Yoan Boulanger |
@@ -1029,11 +1029,11 @@
 | 1021 | 563 | Dione |
 | 1022 | 563 | Heather M Purcell |
 | 1023 | 563 | David Rehse |
-| 1024 | 562 | Gabbrielle Sutton |
-| 1025 | 562 | Klee |
+| 1024 | 562 | Klee |
+| 1025 | 562 | Gabbrielle Sutton |
 | 1026 | 562 | Smiley Strike |
-| 1027 | 562 | Angie Winch |
-| 1028 | 562 | Dan Kulhanek |
+| 1027 | 562 | Dan Kulhanek |
+| 1028 | 562 | Angie Winch |
 | 1029 | 561 | Jenelle Case |
 | 1030 | 560 | Elizabeth Nieto |
 | 1031 | 560 | De Hawkins |
