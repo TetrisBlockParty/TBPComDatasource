@@ -167,8 +167,8 @@
 | 159 | 548 | Luciano Moreira |
 | 160 | 547 | Sharon Reynolds |
 | 161 | 546 | Loony Fitzone |
-| 162 | 543 | Adrian Esteban |
-| 163 | 543 | Nicole Roseberry Weber |
+| 162 | 543 | Nicole Roseberry Weber |
+| 163 | 543 | Adrian Esteban |
 | 164 | 540 | Tonya Beasley |
 | 165 | 538 | .running. |
 | 166 | 537 | Stephanie Zahn |
@@ -235,8 +235,8 @@
 | 227 | 424 | Lindsay Glover |
 | 228 | 423 | Howdi Duty |
 | 229 | 422 | Jamise Brown |
-| 230 | 421 | Plucky Stacky |
-| 231 | 421 | Letson Melissa |
+| 230 | 421 | Letson Melissa |
+| 231 | 421 | Plucky Stacky |
 | 232 | 420 | Jennifer Noe Chandler |
 | 233 | 419 | John J. Cronin |
 | 234 | 419 | Daring Fitclear |
@@ -253,8 +253,8 @@
 | 245 | 399 | Lakeisha Chapman |
 | 246 | 398 | MommaKFC |
 | 247 | 397 | Alenoush Karimian |
-| 248 | 396 | Monica Donato |
-| 249 | 396 | Sam Williams |
+| 248 | 396 | Sam Williams |
+| 249 | 396 | Monica Donato |
 | 250 | 395 | Tami Luce Martin |
 | 251 | 394 | Nick R Montague |
 | 252 | 393 | Wisa |

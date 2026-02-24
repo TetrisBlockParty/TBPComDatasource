@@ -104,8 +104,8 @@
 | 96 | 1361 | Patricia Gadsden |
 | 97 | 1343 | Joey Banks |
 | 98 | 1320 | Kristie |
-| 99 | 1318 | Diana Ibarra |
-| 100 | 1318 | Tiff Vs Tiffany |
+| 99 | 1318 | Tiff Vs Tiffany |
+| 100 | 1318 | Diana Ibarra |
 | 101 | 1309 | yoyo |
 | 102 | 1297 | Shelby Michelle |
 | 103 | 1290 | JerseyJess |
@@ -204,8 +204,8 @@
 | 196 | 772 | Tye Stovall |
 | 197 | 769 | Hasty Cascadefit |
 | 198 | 768 | Cyd061769 |
-| 199 | 763 | Tasha Gillespie |
-| 200 | 763 | Khaleada McGill Banks |
+| 199 | 763 | Khaleada McGill Banks |
+| 200 | 763 | Tasha Gillespie |
 | 201 | 760 | Kiki |
 | 202 | 759 | Mykal Burton |
 | 203 | 757 | Fancy Cascader |
@@ -216,8 +216,8 @@
 | 208 | 743 | Naur |
 | 209 | 742 | Jennifer Lynn Fahrenholtz-Summers |
 | 210 | 736 | Elissa S-k |
-| 211 | 733 | Annie Marie |
-| 212 | 733 | Annie Déè |
+| 211 | 733 | Annie Déè |
+| 212 | 733 | Annie Marie |
 | 213 | 732 | Angela Scott |
 | 214 | 731 | Samantha Greco |
 | 215 | 729 | Lizabeth Fox |
@@ -343,11 +343,11 @@
 | 335 | 471 | Sarah Moyer |
 | 336 | 467 | Jul |
 | 337 | 467 | Danielle Rhoades |
-| 338 | 465 | Noettín Kan Zasnemoore |
-| 339 | 465 | Blocked |
+| 338 | 465 | Blocked |
+| 339 | 465 | Noettín Kan Zasnemoore |
 | 340 | 464 | Snazzy Filler |
-| 341 | 462 | Tegan Chapman |
-| 342 | 462 | Brandon Givens |
+| 341 | 462 | Brandon Givens |
+| 342 | 462 | Tegan Chapman |
 | 343 | 461 | Hyper Bridger |
 | 344 | 461 | Briana Wellman |
 | 345 | 460 | Antonia Russell |
