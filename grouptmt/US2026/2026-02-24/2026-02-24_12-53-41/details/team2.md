@@ -215,8 +215,8 @@
 | 207 | 1853 | Kristopher Miller |
 | 208 | 1845 | Katrina Weston |
 | 209 | 1840 | blarg |
-| 210 | 1838 | Joyce Johnson Vaughn |
-| 211 | 1838 | Matthew Joseph Acevedo |
+| 210 | 1838 | Matthew Joseph Acevedo |
+| 211 | 1838 | Joyce Johnson Vaughn |
 | 212 | 1826 | Dee |
 | 213 | 1825 | Marie Boyd Faulk |
 | 214 | 1823 | Lauren Fitzgerald Thomas |
@@ -408,8 +408,8 @@
 | 400 | 1172 | Min |
 | 401 | 1171 | Loretta Brewer-Gage |
 | 402 | 1170 | Shelley Thornburgh Wright |
-| 403 | 1163 | Caitlin Schmid |
-| 404 | 1163 | Sarah DeHart |
+| 403 | 1163 | Sarah DeHart |
+| 404 | 1163 | Caitlin Schmid |
 | 405 | 1160 | Ashley Guernsey-Martin |
 | 406 | 1158 | Brittany Clark |
 | 407 | 1153 | Spunkysmom |
@@ -879,13 +879,13 @@
 | 871 | 662 | Greenshades00 |
 | 872 | 662 | Casaundra Little-Abeling |
 | 873 | 662 | Belle Mari |
-| 874 | 661 | Chab |
-| 875 | 661 | Kristina Marie Hanna |
+| 874 | 661 | Kristina Marie Hanna |
+| 875 | 661 | Chab |
 | 876 | 660 | Jenna Nance |
 | 877 | 660 | Shelva Richard |
 | 878 | 659 | Rain |
-| 879 | 656 | Synn |
-| 880 | 656 | Emilie Desma |
+| 879 | 656 | Emilie Desma |
+| 880 | 656 | Synn |
 | 881 | 655 | Lively Piecebuilder |
 | 882 | 655 | dionia |
 | 883 | 654 | David Duncan |
@@ -911,8 +911,8 @@
 | 903 | 644 | Kevin Luu |
 | 904 | 643 | Rae Rae |
 | 905 | 642 | Lewis Sturgeon |
-| 906 | 641 | Happy Tile |
-| 907 | 641 | Snappy Faller |
+| 906 | 641 | Snappy Faller |
+| 907 | 641 | Happy Tile |
 | 908 | 640 | Taylor Flowers |
 | 909 | 639 | Connie Lepore-Mann |
 | 910 | 639 | Libby Hicks |
@@ -920,10 +920,10 @@
 | 912 | 639 | Shindee |
 | 913 | 638 | Taren Cowan |
 | 914 | 638 | Nate |
-| 915 | 638 | Daring Caster |
-| 916 | 638 | Kelly |
-| 917 | 637 | Jason H Baker |
-| 918 | 637 | Darcy Mae |
+| 915 | 638 | Kelly |
+| 916 | 638 | Daring Caster |
+| 917 | 637 | Darcy Mae |
+| 918 | 637 | Jason H Baker |
 | 919 | 636 | Tash Bell |
 | 920 | 635 | John Carlin |
 | 921 | 635 | Pamela Babisky |

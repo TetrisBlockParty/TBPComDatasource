@@ -51,8 +51,8 @@
 | 43 | 1497 | Juggalo |
 | 44 | 1478 | Sammy Noguera |
 | 45 | 1469 | Kimberly Love |
-| 46 | 1461 | Yoset Mejia |
-| 47 | 1461 | Shane Kalamata Platoon |
+| 46 | 1461 | Shane Kalamata Platoon |
+| 47 | 1461 | Yoset Mejia |
 | 48 | 1456 | Michelle Marie |
 | 49 | 1430 | Landon Keith Graffeo |
 | 50 | 1386 | Jen Allison |
@@ -81,8 +81,8 @@
 | 73 | 1080 | Chilly Line |
 | 74 | 1069 | Heather Tushner |
 | 75 | 1056 | Keith Kelley |
-| 76 | 1046 | Anthony Bryan Riva |
-| 77 | 1046 | Johnathan Martinez |
+| 76 | 1046 | Johnathan Martinez |
+| 77 | 1046 | Anthony Bryan Riva |
 | 78 | 1028 | TeeJ |
 | 79 | 1024 | Valerie Roberts |
 | 80 | 1017 | Jeremy Steines |
@@ -122,8 +122,8 @@
 | 114 | 801 | D3TROITB0RN74 |
 | 115 | 798 | Jewell Urban |
 | 116 | 784 | TheNeesh50 |
-| 117 | 781 | Brittney Griggs |
-| 118 | 781 | Savannah Overdorf |
+| 117 | 781 | Savannah Overdorf |
+| 118 | 781 | Brittney Griggs |
 | 119 | 779 | Nope Young |
 | 120 | 777 | Chris Alexinas |
 | 121 | 768 | Trista Leah |
@@ -200,17 +200,17 @@
 | 192 | 536 | JPW |
 | 193 | 534 | Lucas J Sutton |
 | 194 | 532 | Alan George LaRage |
-| 195 | 532 | Matt Summer |
-| 196 | 532 | Carly Alexis |
+| 195 | 532 | Carly Alexis |
+| 196 | 532 | Matt Summer |
 | 197 | 531 | Twisty Clicky |
 | 198 | 528 | Erin Sabol |
 | 199 | 528 | Ellen Durfee |
 | 200 | 525 | Andria Lynn |
 | 201 | 525 | 🥔🥔 Spudz |
-| 202 | 520 | Oscar Alberto Perez |
-| 203 | 520 | Zippy Block |
+| 202 | 520 | Zippy Block |
+| 203 | 520 | Oscar Alberto Perez |
 | 204 | 517 | DonMega |
-| 205 | 516 | Nick Gray |
+| 205 | 516 | Trish |
 | 206 | 516 | Ericca Eldridge |
 | 207 | 516 | Nick Gray |
 | 208 | 515 | Joanna |
@@ -293,21 +293,21 @@
 | 285 | 402 | Maria Hammie |
 | 286 | 398 | Tyler Terrific |
 | 287 | 397 | blockstar |
-| 288 | 395 | Denise B |
-| 289 | 395 | BigSammy420 |
+| 288 | 395 | BigSammy420 |
+| 289 | 395 | Denise B |
 | 290 | 394 | Nikki Rae Gordon |
 | 291 | 393 | Montiette Mcglown |
 | 292 | 390 | Ari Droff |
 | 293 | 387 | Sandra Safford |
 | 294 | 386 | Vic |
-| 295 | 382 | Matt Dell'Olio |
-| 296 | 382 | Sue Joyce Staats |
+| 295 | 382 | Sue Joyce Staats |
+| 296 | 382 | Matt Dell'Olio |
 | 297 | 381 | Cool Gridzone |
 | 298 | 380 | Chaz |
 | 299 | 380 | Jen Caldwell |
 | 300 | 380 | Holly Jolly |
-| 301 | 378 | Googenheim |
-| 302 | 378 | Mary Ann Pabukis |
+| 301 | 378 | Mary Ann Pabukis |
+| 302 | 378 | Googenheim |
 | 303 | 377 | Lauren Lamb |
 | 304 | 376 | Stacey Stano |
 | 305 | 376 | Nig |
@@ -394,10 +394,10 @@
 | 386 | 311 | Reds Bella |
 | 387 | 309 | Groovy Shiftspin |
 | 388 | 308 | Angela Geist Jusinski |
-| 389 | 307 | Susan Williams |
-| 390 | 307 | Eri Kka |
-| 391 | 306 | Bethany Ison |
-| 392 | 306 | PeaceOs |
+| 389 | 307 | Eri Kka |
+| 390 | 307 | Susan Williams |
+| 391 | 306 | PeaceOs |
+| 392 | 306 | Bethany Ison |
 | 393 | 305 | Frances Hui |
 | 394 | 304 | Sarah Neathery |
 | 395 | 304 | Kevin Blevins |

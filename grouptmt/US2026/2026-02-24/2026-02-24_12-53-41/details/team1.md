@@ -171,8 +171,8 @@
 | 163 | 574 | Bouncy Grid |
 | 164 | 570 | Cody Slav |
 | 165 | 570 | Dee Perry |
-| 166 | 569 | Michelle Beres |
-| 167 | 569 | Νεφ Όνυξ |
+| 166 | 569 | Νεφ Όνυξ |
+| 167 | 569 | Michelle Beres |
 | 168 | 568 | Jason Savage |
 | 169 | 560 | Speedy Liney |
 | 170 | 556 | Chase Collinsworth |
@@ -241,8 +241,8 @@
 | 233 | 444 | Angela Renea Lester |
 | 234 | 441 | Billie Ann Eason |
 | 235 | 439 | David Miller |
-| 236 | 438 | Chelsea Dahlquist |
-| 237 | 438 | Rayline M Bradshaw |
+| 236 | 438 | Rayline M Bradshaw |
+| 237 | 438 | Chelsea Dahlquist |
 | 238 | 436 | Sylvia Vasquez |
 | 239 | 435 | DaRascal |
 | 240 | 434 | Wayne Saunders |
@@ -303,8 +303,8 @@
 | 295 | 379 | Austin James |
 | 296 | 378 | Eddie Dillon |
 | 297 | 377 | GATOR |
-| 298 | 376 | Sassy Builderline |
-| 299 | 376 | Brian Richardsson |
+| 298 | 376 | Brian Richardsson |
+| 299 | 376 | Sassy Builderline |
 | 300 | 374 | Snappy Brickbuilder |
 | 301 | 372 | Strig |
 | 302 | 372 | Dizzy Party |
