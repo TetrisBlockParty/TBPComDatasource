@@ -248,8 +248,8 @@
 | 240 | 1610 | Ray Ray Prado |
 | 241 | 1609 | Ryan Stadel |
 | 242 | 1601 | Peppy Zone |
-| 243 | 1600 | Jojo Momma |
-| 244 | 1600 | Mo Shine On |
+| 243 | 1600 | Mo Shine On |
+| 244 | 1600 | Jojo Momma |
 | 245 | 1596 | Christine Egidio Morocco |
 | 246 | 1595 | Joyce Johnson Vaughn |
 | 247 | 1592 | Dolores Russworn |
@@ -272,8 +272,8 @@
 | 264 | 1498 | Ericka Marie Smith |
 | 265 | 1481 | Jamie Schmitt |
 | 266 | 1478 | Misty Walker |
-| 267 | 1477 | Prado |
-| 268 | 1477 | Hillary Crawford |
+| 267 | 1477 | Hillary Crawford |
+| 268 | 1477 | Prado |
 | 269 | 1469 | Carrie Trigg |
 | 270 | 1463 | Yvonne Wharton |
 | 271 | 1459 | Shiny Rollzone |
@@ -810,8 +810,8 @@
 | 802 | 668 | Brownie Sheena |
 | 803 | 668 | Michelle Fields |
 | 804 | 668 | Chilly Linebuilder |
-| 805 | 668 | Nerdy Blockpiece |
-| 806 | 668 | Alice Ball |
+| 805 | 668 | Alice Ball |
+| 806 | 668 | Nerdy Blockpiece |
 | 807 | 667 | Snazzy Risegrid |
 | 808 | 667 | Demeka Dangerous-kisses Johnson |
 | 809 | 666 | Jackie Avila |
@@ -937,8 +937,8 @@
 | 929 | 599 | Crystal Heller Gonzalez |
 | 930 | 599 | Plucky Matchclear |
 | 931 | 599 | Groovy Tilefall |
-| 932 | 598 | Veronica Martin Trinkle |
-| 933 | 598 | Shindee |
+| 932 | 598 | Shindee |
+| 933 | 598 | Veronica Martin Trinkle |
 | 934 | 598 | Lucy Marshall |
 | 935 | 598 | Tiki |
 | 936 | 598 | Cosmo |

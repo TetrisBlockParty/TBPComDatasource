@@ -157,8 +157,8 @@
 | 149 | 957 | Tasha Schriewer |
 | 150 | 950 | Giddy Drop |
 | 151 | 950 | MissTaylor |
-| 152 | 940 | Stephanie Allmon |
-| 153 | 940 | Patty Allen |
+| 152 | 940 | Patty Allen |
+| 153 | 940 | Stephanie Allmon |
 | 154 | 936 | Dolores Falco |
 | 155 | 925 | Cherry Parker |
 | 156 | 914 | BadManSheLove |
@@ -187,8 +187,8 @@
 | 179 | 820 | Patricia White |
 | 180 | 817 | Niki Dalrymple |
 | 181 | 815 | Justin Ritter |
-| 182 | 804 | Alaina Lee |
-| 183 | 804 | Gideon Walker |
+| 182 | 804 | Gideon Walker |
+| 183 | 804 | Alaina Lee |
 | 184 | 800 | Lauren Girouard |
 | 185 | 799 | Trisha Balmer |
 | 186 | 794 | Raya |
@@ -457,9 +457,9 @@
 | 449 | 360 | Alexi Pryor |
 | 450 | 359 | Kathleen Taylor |
 | 451 | 359 | Ann Hammac |
-| 452 | 359 | Kathleen Taylor |
-| 453 | 358 | Block Baddie |
-| 454 | 358 | Beejangles |
+| 452 | 359 | Steven Fulater |
+| 453 | 358 | Beejangles |
+| 454 | 358 | Block Baddie |
 | 455 | 358 | Taylor Culver |
 | 456 | 358 | Hyper Twisterfit |
 | 457 | 357 | Hoài Quắt |
