@@ -64,8 +64,8 @@
 | 56 | 1106 | Ashley Ingram |
 | 57 | 1092 | Rachel Anne |
 | 58 | 1088 | BertMofo |
-| 59 | 1082 | Dion Crommarty |
-| 60 | 1082 | Avy Absol |
+| 59 | 1082 | Avy Absol |
+| 60 | 1082 | Dion Crommarty |
 | 61 | 1075 | Dustee Craddock-Harrison |
 | 62 | 1059 | Alyssa Papen |
 | 63 | 1049 | Heather Tushner |

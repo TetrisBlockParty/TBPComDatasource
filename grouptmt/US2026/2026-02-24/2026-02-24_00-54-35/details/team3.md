@@ -198,8 +198,8 @@
 | 190 | 728 | Edwin Calvillo Jr. |
 | 191 | 726 | Michael Nowogorski |
 | 192 | 719 | Angela Scott |
-| 193 | 716 | Morgan Martinez |
-| 194 | 716 | Annie Marie |
+| 193 | 716 | Annie Marie |
+| 194 | 716 | Morgan Martinez |
 | 195 | 715 | Karon Griffin |
 | 196 | 714 | Jenny Hrndz |
 | 197 | 712 | Domo Washington |

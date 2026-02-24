@@ -76,8 +76,8 @@
 | 68 | 978 | Amber Stoker |
 | 69 | 975 | TSwag |
 | 70 | 974 | Veronica Eve |
-| 71 | 966 | Francesca Gee |
-| 72 | 966 | Shalene Frederick Autrey |
+| 71 | 966 | Shalene Frederick Autrey |
+| 72 | 966 | Francesca Gee |
 | 73 | 961 | Jacqueline Williams |
 | 74 | 957 | Zippy Align |
 | 75 | 929 | Erin Hodges Plumb |
@@ -86,7 +86,7 @@
 | 78 | 892 | Seth Wesson |
 | 79 | 884 | Sevens4L |
 | 80 | 880 | Sweet Baker |
-| 81 | 872 | comrade fish |
+| 81 | 870 | comrade fish |
 | 82 | 860 | Tinah Montanna |
 | 83 | 836 | And |
 | 84 | 834 | Hasbro Bros |
