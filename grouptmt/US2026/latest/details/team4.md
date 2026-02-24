@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-24 14:02:43 UTC
+# Standings for team4 as of 2026-02-24 14:03:22 UTC
 
 **Total Participants:** 2037
 
@@ -61,7 +61,7 @@
 | 53 | 1365 | Shelly Chandler |
 | 54 | 1350 | Toots |
 | 55 | 1324 | Lisa Davis |
-| 56 | 1290 | Rachel Anne |
+| 56 | 1320 | Rachel Anne |
 | 57 | 1288 | Pee |
 | 58 | 1267 | Isabel Aguilar |
 | 59 | 1245 | Justin Hannigan |
@@ -281,9 +281,9 @@
 | 273 | 419 | Hyper Matchclear |
 | 274 | 418 | Jessica Fredericks |
 | 275 | 417 | Rafael Valentin |
-| 276 | 413 | Rio Rocha |
-| 277 | 411 | Autumn Kumzi |
-| 278 | 411 | Backoff Recupe |
+| 276 | 415 | Backoff Recupe |
+| 277 | 413 | Rio Rocha |
+| 278 | 411 | Autumn Kumzi |
 | 279 | 410 | Lindsay Ball |
 | 280 | 410 | KimoKoala |
 | 281 | 409 | Antony Dwayne Beasley |
@@ -640,14 +640,14 @@
 | 632 | 200 | Veronica Garza |
 | 633 | 199 | Allen Johnson |
 | 634 | 199 | Ben Nome |
-| 635 | 198 | Bubbly Setter |
-| 636 | 198 | Zocko Ellet |
-| 637 | 198 | Jlmendillo |
-| 638 | 198 | Ahleek Mitchell |
-| 639 | 198 | Daniel Gazcon |
-| 640 | 197 | Colton Stamper |
-| 641 | 197 | Satinleader |
-| 642 | 197 | RamboBanana |
+| 635 | 199 | RamboBanana |
+| 636 | 198 | Bubbly Setter |
+| 637 | 198 | Zocko Ellet |
+| 638 | 198 | Jlmendillo |
+| 639 | 198 | Ahleek Mitchell |
+| 640 | 198 | Daniel Gazcon |
+| 641 | 197 | Colton Stamper |
+| 642 | 197 | Satinleader |
 | 643 | 197 | Mcg |
 | 644 | 197 | Hediyuda |
 | 645 | 196 | Hanh Pham |
