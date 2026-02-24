@@ -273,8 +273,8 @@
 | 265 | 516 | Daring Brickzone |
 | 266 | 513 | PrncssPJ |
 | 267 | 512 | Marquita Sheard |
-| 268 | 508 | joz |
-| 269 | 508 | rosy |
+| 268 | 508 | rosy |
+| 269 | 508 | joz |
 | 270 | 507 | Snappy Balancer |
 | 271 | 506 | Ammmmmmy |
 | 272 | 505 | Stephanie Simpson |
@@ -2295,8 +2295,8 @@
 | 2287 | 40 | Josh Ellsworth |
 | 2288 | 40 | Becky Magallon |
 | 2289 | 40 | Cassidy Cade |
-| 2290 | 39 | Angelica Hernandez |
-| 2291 | 39 | Jessica Prim |
+| 2290 | 39 | Jessica Prim |
+| 2291 | 39 | Angelica Hernandez |
 | 2292 | 39 | Poppy T-spin |
 | 2293 | 39 | Denise Cloutier |
 | 2294 | 39 | Linda Rochelle Huff |

@@ -189,8 +189,8 @@
 | 181 | 1763 | Juliana Marques Do Nascimento Gordy |
 | 182 | 1759 | Nerdy Pattern |
 | 183 | 1756 | Hannah Erskine |
-| 184 | 1751 | Melissa Penelope Ann Dodge |
-| 185 | 1751 | Bob |
+| 184 | 1751 | Bob |
+| 185 | 1751 | Melissa Penelope Ann Dodge |
 | 186 | 1749 | Denise Rickman |
 | 187 | 1746 | Dee |
 | 188 | 1740 | Dustin Rains |
@@ -994,8 +994,8 @@
 | 986 | 503 | Aleasha M Brown |
 | 987 | 503 | Brave Gridpiece |
 | 988 | 502 | Tristan Snowden |
-| 989 | 501 | Witty Piecebuilder |
-| 990 | 501 | Zesty Pivot |
+| 989 | 501 | Zesty Pivot |
+| 990 | 501 | Witty Piecebuilder |
 | 991 | 500 | Britney M. |
 | 992 | 500 | Leah LaShomb |
 | 993 | 500 | Cassi Owens |

@@ -105,8 +105,8 @@
 | 97 | 744 | Greg Hart |
 | 98 | 737 | Karin Gillen |
 | 99 | 722 | Kellie |
-| 100 | 706 | Denice Dee |
-| 101 | 706 | Plucky Fallzone |
+| 100 | 706 | Plucky Fallzone |
+| 101 | 706 | Denice Dee |
 | 102 | 703 | Angel Fowler |
 | 103 | 691 | Rachael |
 | 104 | 683 | Melissa Lemmon |
@@ -280,16 +280,16 @@
 | 272 | 345 | Keith Mathis |
 | 273 | 344 | dhardy |
 | 274 | 342 | Matt Iaccheo |
-| 275 | 341 | Standia Civil |
-| 276 | 341 | Nick R Montague |
-| 277 | 341 | Letson Melissa |
-| 278 | 340 | Robert |
-| 279 | 340 | Danielle Little-Daugherty |
+| 275 | 341 | Nick R Montague |
+| 276 | 341 | Letson Melissa |
+| 277 | 341 | Standia Civil |
+| 278 | 340 | Danielle Little-Daugherty |
+| 279 | 340 | Robert |
 | 280 | 338 | Layzietyme |
 | 281 | 337 | Happy Basegrid |
 | 282 | 337 | Larissa Marie Nelson |
-| 283 | 336 | Sarah Roberts |
-| 284 | 336 | Adele Rahman |
+| 283 | 336 | Adele Rahman |
+| 284 | 336 | Sarah Roberts |
 | 285 | 334 | Tipsy Builder |
 | 286 | 334 | Colleen Pinette |
 | 287 | 333 | Wayne Saunders |
@@ -317,8 +317,8 @@
 | 309 | 311 | Nathan Sealander |
 | 310 | 310 | Mrs.Patrica |
 | 311 | 309 | Larry Tilton |
-| 312 | 308 | LD1 |
-| 313 | 308 | Glitzy Curvebuilder |
+| 312 | 308 | Glitzy Curvebuilder |
+| 313 | 308 | LD1 |
 | 314 | 306 | Cece Ibarra |
 | 315 | 305 | Amh |
 | 316 | 305 | Chase Collinsworth |

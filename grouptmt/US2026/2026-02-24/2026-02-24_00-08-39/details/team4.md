@@ -124,8 +124,8 @@
 | 116 | 682 | Raegan Lane-Ross |
 | 117 | 675 | Chris Alexinas |
 | 118 | 673 | Jacqueline Helm |
-| 119 | 667 | Lindsey Gonzalez |
-| 120 | 667 | Amy Suckarieh |
+| 119 | 667 | Amy Suckarieh |
+| 120 | 667 | Lindsey Gonzalez |
 | 121 | 664 | Leslie Nicole |
 | 122 | 659 | Jamie Gustafson |
 | 123 | 658 | Zippy Gridlock |
@@ -452,8 +452,8 @@
 | 444 | 230 | Chantilly Laace |
 | 445 | 230 | Martha Lucinda Bishop |
 | 446 | 228 | Bethany Ison |
-| 447 | 227 | Maria Hammie |
-| 448 | 227 | Asher |
+| 447 | 227 | Asher |
+| 448 | 227 | Maria Hammie |
 | 449 | 225 | Jennifer Renee |
 | 450 | 224 | Ultramarine |
 | 451 | 224 | Vanessa Smart |
