@@ -287,8 +287,8 @@
 | 279 | 363 | Shiny Gridmatch |
 | 280 | 362 | Brooke Elizabeth Antill |
 | 281 | 359 | Rodney Schmerfeld |
-| 282 | 358 | Chase Collinsworth |
-| 283 | 358 | Jessica Russell |
+| 282 | 358 | Jessica Russell |
+| 283 | 358 | Chase Collinsworth |
 | 284 | 356 | Tyler Hertzog |
 | 285 | 356 | Dawn Michelle Scheible |
 | 286 | 355 | Keith Mathis |
