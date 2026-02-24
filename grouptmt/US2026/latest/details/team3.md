@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-02-24 16:58:45 UTC
+# Standings for team3 as of 2026-02-24 16:59:22 UTC
 
 **Total Participants:** 3470
 
@@ -102,13 +102,13 @@
 | 94 | 1479 | Betty Ivy |
 | 95 | 1475 | Danielle Cutler |
 | 96 | 1471 | Carrie Jarvis Mohler |
-| 97 | 1464 | Bobbi Moore |
-| 98 | 1464 | Jessica Bechler |
+| 97 | 1464 | Jessica Bechler |
+| 98 | 1464 | Bobbi Moore |
 | 99 | 1462 | Kristal C Lee |
 | 100 | 1423 | Amber Jones |
 | 101 | 1419 | Ivan Del Toro |
 | 102 | 1415 | Tiff Vs Tiffany |
-| 103 | 1405 | JerseyJess |
+| 103 | 1411 | JerseyJess |
 | 104 | 1384 | Morgan Martinez |
 | 105 | 1380 | Peppy Shifter |
 | 106 | 1361 | Patricia Gadsden |
@@ -137,30 +137,30 @@
 | 129 | 1105 | Adrian Marcel Pate |
 | 130 | 1101 | Valerie Gendron |
 | 131 | 1093 | Angela M. Fletcher |
-| 132 | 1091 | Danielle Allison |
-| 133 | 1091 | Jennifer |
+| 132 | 1091 | Jennifer |
+| 133 | 1091 | Danielle Allison |
 | 134 | 1090 | Katrina Schroeder |
 | 135 | 1084 | Santana Lantana |
 | 136 | 1066 | Demetrious Shaw Sr. |
 | 137 | 1055 | Christine Trester |
 | 138 | 1046 | Felicia Rocha |
-| 139 | 1040 | Heather Green |
-| 140 | 1039 | LaTanya GeminiondaRise Johnson |
-| 141 | 1038 | Mandy Smith Oldham |
-| 142 | 1038 | Tasha Schriewer |
+| 139 | 1042 | Tasha Schriewer |
+| 140 | 1040 | Heather Green |
+| 141 | 1039 | LaTanya GeminiondaRise Johnson |
+| 142 | 1038 | Mandy Smith Oldham |
 | 143 | 1028 | Bea Miles |
 | 144 | 1027 | Chelsea Hall |
 | 145 | 1021 | Betty Rosas |
 | 146 | 1021 | Poppy Splitter |
-| 147 | 1014 | Giddy Drop |
-| 148 | 1014 | Shavette |
+| 147 | 1014 | Shavette |
+| 148 | 1014 | Giddy Drop |
 | 149 | 1012 | Danielle Becker |
 | 150 | 1000 | Sashay Tapae Simpson |
 | 151 | 998 | Rosalie Call Kehlenbeck |
 | 152 | 997 | Speedy Bridger |
 | 153 | 995 | mzcatzy |
-| 154 | 990 | Brenda Lee Vander Molen |
-| 155 | 988 | MissTaylor |
+| 154 | 993 | MissTaylor |
+| 155 | 990 | Brenda Lee Vander Molen |
 | 156 | 987 | Happy Tetriblast |
 | 157 | 983 | Sarajane Lokan |
 | 158 | 975 | opf |
@@ -174,8 +174,8 @@
 | 166 | 940 | Stephanie Allmon |
 | 167 | 938 | Rochelle Hazelett |
 | 168 | 925 | Cherry Parker |
-| 169 | 914 | Staci George Fitzsimmons |
-| 170 | 914 | BadManSheLove |
+| 169 | 914 | BadManSheLove |
+| 170 | 914 | Staci George Fitzsimmons |
 | 171 | 909 | Angella Lyons |
 | 172 | 906 | Patti Skiles |
 | 173 | 901 | Domo Washington |
@@ -190,13 +190,13 @@
 | 182 | 874 | Jessica Pineda-Lopez |
 | 183 | 870 | Trisha Balmer |
 | 184 | 868 | Nicole Flippo |
-| 185 | 868 | Nicole Myers |
-| 186 | 868 | Cranky Gridder |
+| 185 | 868 | Cranky Gridder |
+| 186 | 868 | Nicole Myers |
 | 187 | 862 | Santeria Trece Candles |
 | 188 | 862 | Colton |
 | 189 | 856 | Dana Winters |
-| 190 | 847 | Daring Brickzone |
-| 191 | 847 | Daira Largen |
+| 190 | 847 | Daira Largen |
+| 191 | 847 | Daring Brickzone |
 | 192 | 842 | Alexmac |
 | 193 | 840 | Kammy Hill |
 | 194 | 837 | Jeni Dow |
@@ -415,20 +415,20 @@
 | 407 | 438 | Criss |
 | 408 | 438 | Ashley Muncey |
 | 409 | 438 | Justin Ernst |
-| 410 | 436 | AlsoJess |
-| 411 | 436 | Philip Rock |
-| 412 | 432 | Eboni Starr |
-| 413 | 432 | Rainbow77375 |
-| 414 | 431 | Ava Petito |
-| 415 | 431 | Goofy Fall |
-| 416 | 429 | Ashley Lynn Marchese |
-| 417 | 428 | Samantha Worley |
-| 418 | 428 | Skinny Baldez |
-| 419 | 428 | Samantha Lynn |
-| 420 | 428 | Michelle Allers |
-| 421 | 428 | keni |
-| 422 | 427 | Krish Shah |
-| 423 | 427 | Darlene McMillan |
+| 410 | 437 | keni |
+| 411 | 436 | AlsoJess |
+| 412 | 436 | Philip Rock |
+| 413 | 432 | Eboni Starr |
+| 414 | 432 | Rainbow77375 |
+| 415 | 431 | Ava Petito |
+| 416 | 431 | Goofy Fall |
+| 417 | 429 | Ashley Lynn Marchese |
+| 418 | 428 | Samantha Worley |
+| 419 | 428 | Skinny Baldez |
+| 420 | 428 | Samantha Lynn |
+| 421 | 428 | Michelle Allers |
+| 422 | 427 | Darlene McMillan |
+| 423 | 427 | Krish Shah |
 | 424 | 426 | Arden White Kirsch |
 | 425 | 426 | Heather Bateman |
 | 426 | 423 | Breezy Roll |
@@ -537,17 +537,17 @@
 | 529 | 352 | LadyTorad |
 | 530 | 351 | Eon Harris |
 | 531 | 350 | Sunny Lift |
-| 532 | 349 | Frilly Stackzone |
-| 533 | 348 | Saucy Buildout |
-| 534 | 348 | Anna Moeller |
-| 535 | 348 | Ashley Raines |
-| 536 | 348 | Hasty Pop |
-| 537 | 348 | Funky Brickster |
+| 532 | 349 | Funky Brickster |
+| 533 | 349 | Frilly Stackzone |
+| 534 | 348 | Saucy Buildout |
+| 535 | 348 | Anna Moeller |
+| 536 | 348 | Ashley Raines |
+| 537 | 348 | Hasty Pop |
 | 538 | 346 | Autumn Phillimore |
-| 539 | 346 | Joseph Vargas |
-| 540 | 346 | Paul Daniel Quertermous |
+| 539 | 346 | Jess Bissett |
+| 540 | 346 | Joseph Vargas |
 | 541 | 346 | Rayzer |
-| 542 | 346 | Jess Bissett |
+| 542 | 346 | Paul Daniel Quertermous |
 | 543 | 346 | JustGiGi |
 | 544 | 345 | Heather Ferrara |
 | 545 | 345 | victory |
@@ -555,9 +555,9 @@
 | 547 | 343 | Mikki Torres |
 | 548 | 343 | Michael Leblanc |
 | 549 | 343 | Christina Marie Swisher |
-| 550 | 342 | Kristen McAlpine |
+| 550 | 342 | Boldy Corner |
 | 551 | 342 | Tipsy Zonebuilder |
-| 552 | 342 | Boldy Corner |
+| 552 | 342 | Kristen McAlpine |
 | 553 | 341 | Carol Cain Thurman |
 | 554 | 340 | Tammy Rosenberry |
 | 555 | 340 | Beezwax |
@@ -791,14 +791,14 @@
 | 783 | 266 | paranoid |
 | 784 | 266 | Cathy Reeves |
 | 785 | 266 | Reina Roth |
-| 786 | 265 | Yall Sukk |
-| 787 | 264 | Jonathn Poindexter |
-| 788 | 264 | Michell Hendershott Jackson |
-| 789 | 264 | Danielle Beaunoyer Jean |
-| 790 | 264 | Tammi-Jo DeMars |
-| 791 | 264 | Jill Stickney |
-| 792 | 262 | Matty Pope |
-| 793 | 261 | Lazy Matchfit |
+| 786 | 265 | Lazy Matchfit |
+| 787 | 265 | Yall Sukk |
+| 788 | 264 | Jonathn Poindexter |
+| 789 | 264 | Michell Hendershott Jackson |
+| 790 | 264 | Danielle Beaunoyer Jean |
+| 791 | 264 | Tammi-Jo DeMars |
+| 792 | 264 | Jill Stickney |
+| 793 | 262 | Matty Pope |
 | 794 | 261 | Tabitha Cornelious |
 | 795 | 261 | Bhreagh Gentile |
 | 796 | 260 | Ashley Woods |

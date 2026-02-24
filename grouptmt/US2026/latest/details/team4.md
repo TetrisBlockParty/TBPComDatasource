@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-24 16:58:45 UTC
+# Standings for team4 as of 2026-02-24 16:59:22 UTC
 
 **Total Participants:** 2051
 
@@ -124,7 +124,7 @@
 | 116 | 805 | Mylo Lipscomb |
 | 117 | 802 | Denise Carlson |
 | 118 | 802 | Crystal Carroll |
-| 119 | 784 | TheNeesh50 |
+| 119 | 787 | TheNeesh50 |
 | 120 | 781 | Savannah Overdorf |
 | 121 | 781 | Brittney Griggs |
 | 122 | 779 | Nope Young |
@@ -1448,15 +1448,15 @@
 | 1440 | 52 | Flashy Cascadepiece |
 | 1441 | 52 | Cranky Edge |
 | 1442 | 52 | kash |
-| 1443 | 52 | Daniel Bonham |
-| 1444 | 52 | Clever Fitzone |
-| 1445 | 52 | Jeremy Jaubert |
-| 1446 | 52 | Eli Guevara |
-| 1447 | 52 | Terrie Rader |
-| 1448 | 51 | GrapeJetFuel |
-| 1449 | 51 | FrankyThumbs |
-| 1450 | 51 | Teddy Marshall |
-| 1451 | 51 | Bymerica |
+| 1443 | 52 | Eli Guevara |
+| 1444 | 52 | Daniel Bonham |
+| 1445 | 52 | Terrie Rader |
+| 1446 | 52 | Clever Fitzone |
+| 1447 | 52 | Jeremy Jaubert |
+| 1448 | 51 | Bymerica |
+| 1449 | 51 | Teddy Marshall |
+| 1450 | 51 | GrapeJetFuel |
+| 1451 | 51 | FrankyThumbs |
 | 1452 | 51 | Stacey M Hawkins |
 | 1453 | 51 | Isa |
 | 1454 | 51 | Jean Camacho |
@@ -1473,10 +1473,10 @@
 | 1465 | 50 | Matt Tackett |
 | 1466 | 50 | Jeremy S Williams |
 | 1467 | 50 | Chris Lee |
-| 1468 | 49 | Mikkela Rice |
+| 1468 | 49 | Maria N Manuel Mendoza |
 | 1469 | 49 | SpyderByt3 |
-| 1470 | 49 | Ray Binkley |
-| 1471 | 49 | Maria N Manuel Mendoza |
+| 1470 | 49 | Mikkela Rice |
+| 1471 | 49 | Ray Binkley |
 | 1472 | 49 | Lush Basegrid |
 | 1473 | 49 | Jeff Barney |
 | 1474 | 49 | weegoosey |
@@ -1524,11 +1524,11 @@
 | 1516 | 45 | Jeremiah Burton |
 | 1517 | 45 | Cheeky Zone |
 | 1518 | 45 | Dreamy Jumper |
-| 1519 | 45 | rod |
-| 1520 | 45 | Bryan Davidson |
-| 1521 | 44 | Valencia |
-| 1522 | 44 | Charlie Edson |
-| 1523 | 44 | Tara Karen |
+| 1519 | 45 | Bryan Davidson |
+| 1520 | 45 | rod |
+| 1521 | 44 | Charlie Edson |
+| 1522 | 44 | Tara Karen |
+| 1523 | 44 | Valencia |
 | 1524 | 44 | Betty Brush |
 | 1525 | 44 | Cozy Clearfit |
 | 1526 | 44 | Dawn Plumb |
@@ -1549,8 +1549,8 @@
 | 1541 | 43 | Frisky Striker |
 | 1542 | 43 | Giggly Slammer |
 | 1543 | 43 | Amanda Ashley |
-| 1544 | 43 | Pablito Pablito |
-| 1545 | 43 | John Robert Roe |
+| 1544 | 43 | John Robert Roe |
+| 1545 | 43 | Pablito Pablito |
 | 1546 | 42 | Tet |
 | 1547 | 42 | Dreamy Rollpiece |
 | 1548 | 42 | Angela Catalanotto Ericksen |
@@ -1577,9 +1577,9 @@
 | 1569 | 40 | Jason Nellis |
 | 1570 | 40 | Snazzy Tilemaker |
 | 1571 | 40 | Lush Rollblock |
-| 1572 | 40 | Dandy Dasher |
+| 1572 | 40 | Les |
 | 1573 | 40 | David Barrett O'Brien |
-| 1574 | 40 | Les |
+| 1574 | 40 | Dandy Dasher |
 | 1575 | 39 | Theron Bailey |
 | 1576 | 39 | RickyBobby |
 | 1577 | 39 | Blockin88 |
@@ -1600,31 +1600,31 @@
 | 1592 | 38 | Dapper Wiper |
 | 1593 | 38 | Wacky Brickmatch |
 | 1594 | 38 | Metrice |
-| 1595 | 38 | rabbit777 |
-| 1596 | 38 | Ginger Snappy |
-| 1597 | 38 | Sassy Block |
-| 1598 | 38 | Clever Caster |
-| 1599 | 37 | Monica Denise Webb |
+| 1595 | 38 | Clever Caster |
+| 1596 | 38 | rabbit777 |
+| 1597 | 38 | Ginger Snappy |
+| 1598 | 38 | Sassy Block |
+| 1599 | 38 | Dani Roberts |
 | 1600 | 37 | Slinky Brickroll |
-| 1601 | 37 | Jazzy Cascadezone |
-| 1602 | 37 | MsEMoney |
-| 1603 | 37 | Elaine Hall |
-| 1604 | 37 | Grant Everett Heaslip |
-| 1605 | 37 | ihunty |
-| 1606 | 37 | Cool Shatterclear |
-| 1607 | 37 | Tipsy Zonepiece |
-| 1608 | 36 | Bryson Peebles |
-| 1609 | 36 | Shiny Zonepiece |
-| 1610 | 36 | Rebecca Maino |
-| 1611 | 36 | InfinitLee |
-| 1612 | 36 | Iajrbda Wjaudbrkq |
-| 1613 | 36 | Mia |
-| 1614 | 36 | Silverfox |
-| 1615 | 36 | Tiny Bubbles |
-| 1616 | 36 | Dani Roberts |
-| 1617 | 36 | Eric Dehn |
-| 1618 | 36 | Zesty Blocky |
-| 1619 | 36 | Chase Andrews |
+| 1601 | 37 | Monica Denise Webb |
+| 1602 | 37 | Jazzy Cascadezone |
+| 1603 | 37 | MsEMoney |
+| 1604 | 37 | Elaine Hall |
+| 1605 | 37 | Grant Everett Heaslip |
+| 1606 | 37 | ihunty |
+| 1607 | 37 | Cool Shatterclear |
+| 1608 | 37 | Tipsy Zonepiece |
+| 1609 | 36 | Bryson Peebles |
+| 1610 | 36 | Shiny Zonepiece |
+| 1611 | 36 | Rebecca Maino |
+| 1612 | 36 | InfinitLee |
+| 1613 | 36 | Iajrbda Wjaudbrkq |
+| 1614 | 36 | Mia |
+| 1615 | 36 | Silverfox |
+| 1616 | 36 | Tiny Bubbles |
+| 1617 | 36 | Zesty Blocky |
+| 1618 | 36 | Chase Andrews |
+| 1619 | 36 | Eric Dehn |
 | 1620 | 36 | Keith Allen |
 | 1621 | 35 | Peachy Patternline |
 | 1622 | 35 | Kathy Eschenbach |
