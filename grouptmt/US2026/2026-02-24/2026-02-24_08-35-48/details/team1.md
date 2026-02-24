@@ -173,8 +173,8 @@
 | 165 | 548 | Luciano Moreira |
 | 166 | 547 | Sharon Reynolds |
 | 167 | 545 | .running. |
-| 168 | 543 | Adrian Esteban |
-| 169 | 543 | Nicole Roseberry Weber |
+| 168 | 543 | Nicole Roseberry Weber |
+| 169 | 543 | Adrian Esteban |
 | 170 | 542 | BadG52 |
 | 171 | 540 | Tonya Beasley |
 | 172 | 537 | Stephanie Zahn |
@@ -186,8 +186,8 @@
 | 178 | 522 | Constance Risner |
 | 179 | 521 | Teri Oehlke |
 | 180 | 519 | Anaid Sanchez |
-| 181 | 519 | Cool Shiftsnap |
-| 182 | 519 | phrmblk24 |
+| 181 | 519 | phrmblk24 |
+| 182 | 519 | Cool Shiftsnap |
 | 183 | 517 | Eric DeSimone |
 | 184 | 514 | Chase Collinsworth |
 | 185 | 513 | Rebekah LeiAnn Bonsell |
@@ -197,8 +197,8 @@
 | 189 | 501 | Jessica Russell |
 | 190 | 497 | MIKOZ |
 | 191 | 497 | Steve Schneider |
-| 192 | 496 | Michelle Beres |
-| 193 | 496 | Sarah Somers Gray |
+| 192 | 496 | Sarah Somers Gray |
+| 193 | 496 | Michelle Beres |
 | 194 | 495 | Connie |
 | 195 | 494 | Sean Stallings |
 | 196 | 494 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
@@ -209,8 +209,8 @@
 | 201 | 485 | Mike Ames |
 | 202 | 482 | Adele Rahman |
 | 203 | 479 | canbrick |
-| 204 | 478 | Hasty Cascader |
-| 205 | 478 | Jumpy Dropper |
+| 204 | 478 | Jumpy Dropper |
+| 205 | 478 | Hasty Cascader |
 | 206 | 477 | Dizzy Slider |
 | 207 | 475 | Reesey Enyart |
 | 208 | 473 | Chuck Gannon |
@@ -248,8 +248,8 @@
 | 240 | 421 | Plucky Stacky |
 | 241 | 421 | Letson Melissa |
 | 242 | 420 | Jennifer Noe Chandler |
-| 243 | 419 | Daring Fitclear |
-| 244 | 419 | John J. Cronin |
+| 243 | 419 | John J. Cronin |
+| 244 | 419 | Daring Fitclear |
 | 245 | 416 | Larissa Marie Nelson |
 | 246 | 416 | Jessica Sheehan |
 | 247 | 414 | Bird Person |
@@ -563,8 +563,8 @@
 | 555 | 225 | Mel Hogan |
 | 556 | 224 | Jake Mcnabb |
 | 557 | 224 | Gerald Richard Franke |
-| 558 | 223 | Renata Mabie |
-| 559 | 223 | Daniel Lorquet |
+| 558 | 223 | Daniel Lorquet |
+| 559 | 223 | Renata Mabie |
 | 560 | 223 | Erez Yosef |
 | 561 | 222 | Laurie Sanderson |
 | 562 | 222 | Nicole Nikki |

@@ -73,8 +73,8 @@
 | 65 | 1109 | BertMofo |
 | 66 | 1101 | Denia Deni |
 | 67 | 1089 | Alyssa Papen |
-| 68 | 1082 | Dion Crommarty |
-| 69 | 1082 | Avy Absol |
+| 68 | 1082 | Avy Absol |
+| 69 | 1082 | Dion Crommarty |
 | 70 | 1081 | Dustee Craddock-Harrison |
 | 71 | 1080 | Chilly Line |
 | 72 | 1069 | Heather Tushner |
@@ -227,8 +227,8 @@
 | 219 | 482 | Laura |
 | 220 | 481 | Joanna |
 | 221 | 475 | Silly Zonebuilder |
-| 222 | 473 | Cranky Rollpiece |
-| 223 | 473 | Jolly Dashfit |
+| 222 | 473 | Jolly Dashfit |
+| 223 | 473 | Cranky Rollpiece |
 | 224 | 472 | Plucky Patternblock |
 | 225 | 468 | June Hoffman |
 | 226 | 465 | Leslie Thomas |
@@ -251,8 +251,8 @@
 | 243 | 444 | Selena Shaw |
 | 244 | 442 | John Brunetti |
 | 245 | 441 | Lush Linkfall |
-| 246 | 438 | Melvin Baird |
-| 247 | 438 | 23 |
+| 246 | 438 | 23 |
+| 247 | 438 | Melvin Baird |
 | 248 | 435 | Chris Bernstein |
 | 249 | 434 | Ramel Rhodes |
 | 250 | 433 | Damn Libra |
@@ -281,8 +281,8 @@
 | 273 | 399 | Twisty Cascadezone |
 | 274 | 398 | Tyler Terrific |
 | 275 | 397 | blockstar |
-| 276 | 395 | BigSammy420 |
-| 277 | 395 | Denise B |
+| 276 | 395 | Denise B |
+| 277 | 395 | BigSammy420 |
 | 278 | 394 | Nikki Rae Gordon |
 | 279 | 393 | Montiette Mcglown |
 | 280 | 392 | Neirrah B Olailjeel |
@@ -302,8 +302,8 @@
 | 294 | 375 | George Tzouganos |
 | 295 | 373 | Russ Attitude |
 | 296 | 371 | Jessi Cinotto |
-| 297 | 370 | Twisty Risebuilder |
-| 298 | 370 | Kris Bartlett |
+| 297 | 370 | Kris Bartlett |
+| 298 | 370 | Twisty Risebuilder |
 | 299 | 368 | Dan Wold |
 | 300 | 367 | Meg |
 | 301 | 365 | David Lay |

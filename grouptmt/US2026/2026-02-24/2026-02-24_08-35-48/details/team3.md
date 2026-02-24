@@ -105,8 +105,8 @@
 | 97 | 1361 | Patricia Gadsden |
 | 98 | 1343 | Joey Banks |
 | 99 | 1320 | Kristie |
-| 100 | 1318 | Tiff Vs Tiffany |
-| 101 | 1318 | Diana Ibarra |
+| 100 | 1318 | Diana Ibarra |
+| 101 | 1318 | Tiff Vs Tiffany |
 | 102 | 1309 | yoyo |
 | 103 | 1297 | Shelby Michelle |
 | 104 | 1290 | JerseyJess |
@@ -404,8 +404,8 @@
 | 396 | 414 | RickyG |
 | 397 | 413 | Rick Poppen |
 | 398 | 411 | Beaudie Stroebel |
-| 399 | 409 | Roary Danner |
-| 400 | 409 | Rich LeBlanc |
+| 399 | 409 | Rich LeBlanc |
+| 400 | 409 | Roary Danner |
 | 401 | 408 | Ashley Muncey |
 | 402 | 408 | Tiffany Ford |
 | 403 | 407 | Christina Spa |
@@ -998,7 +998,7 @@
 | 990 | 195 | Nicha Hooker |
 | 991 | 195 | Eunhye Lee |
 | 992 | 195 | Polopypy |
-| 993 | 194 | Josh Vietz |
+| 993 | 194 | Cary M. Fong |
 | 994 | 194 | Amber Eby |
 | 995 | 194 | Shicken Nuggit |
 | 996 | 194 | Josh Vietz |
