@@ -51,8 +51,8 @@
 | 43 | 1497 | Juggalo |
 | 44 | 1478 | Sammy Noguera |
 | 45 | 1469 | Kimberly Love |
-| 46 | 1461 | Shane Kalamata Platoon |
-| 47 | 1461 | Yoset Mejia |
+| 46 | 1461 | Yoset Mejia |
+| 47 | 1461 | Shane Kalamata Platoon |
 | 48 | 1456 | Michelle Marie |
 | 49 | 1430 | Landon Keith Graffeo |
 | 50 | 1386 | Jen Allison |
@@ -117,8 +117,8 @@
 | 109 | 811 | Sassy Pattern |
 | 110 | 806 | Zippy Gridlock |
 | 111 | 805 | Mylo Lipscomb |
-| 112 | 802 | Denise Carlson |
-| 113 | 802 | Crystal Carroll |
+| 112 | 802 | Crystal Carroll |
+| 113 | 802 | Denise Carlson |
 | 114 | 801 | D3TROITB0RN74 |
 | 115 | 798 | Jewell Urban |
 | 116 | 784 | TheNeesh50 |
@@ -152,8 +152,8 @@
 | 144 | 661 | shar |
 | 145 | 661 | Rodney McMath Jr. |
 | 146 | 651 | Adawna Swires |
-| 147 | 650 | Chris Hartig |
-| 148 | 650 | April Rondinone |
+| 147 | 650 | April Rondinone |
+| 148 | 650 | Chris Hartig |
 | 149 | 647 | KM8 |
 | 150 | 646 | Kim Hunt |
 | 151 | 639 | Serena Goodridge |
@@ -198,7 +198,7 @@
 | 190 | 537 | Scott Jameson |
 | 191 | 536 | JPW |
 | 192 | 534 | Lucas J Sutton |
-| 193 | 532 | Matt Summer |
+| 193 | 532 | Alan George LaRage |
 | 194 | 532 | Carly Alexis |
 | 195 | 532 | Matt Summer |
 | 196 | 531 | Twisty Clicky |
@@ -246,16 +246,16 @@
 | 238 | 460 | Kathy Brookins |
 | 239 | 458 | Kristina Black |
 | 240 | 458 | Luis Martinez |
-| 241 | 457 | J-Rizzle |
-| 242 | 457 | Kristin Manee |
+| 241 | 457 | Kristin Manee |
+| 242 | 457 | J-Rizzle |
 | 243 | 455 | Michele Plunkett |
 | 244 | 454 | Jessi Cinotto |
 | 245 | 454 | Keshia Lyons |
 | 246 | 454 | David Lay |
 | 247 | 450 | Genne Scott |
 | 248 | 449 | Danielle Kollias |
-| 249 | 448 | Mike Solo |
-| 250 | 448 | Mr. Party |
+| 249 | 448 | Mr. Party |
+| 250 | 448 | Mike Solo |
 | 251 | 447 | Chris Bernstein |
 | 252 | 444 | Twisty Cascadezone |
 | 253 | 444 | Selena Shaw |
@@ -280,8 +280,8 @@
 | 272 | 419 | Hyper Matchclear |
 | 273 | 417 | Rafael Valentin |
 | 274 | 413 | Rio Rocha |
-| 275 | 411 | Backoff Recupe |
-| 276 | 411 | Autumn Kumzi |
+| 275 | 411 | Autumn Kumzi |
+| 276 | 411 | Backoff Recupe |
 | 277 | 410 | Lindsay Ball |
 | 278 | 409 | Antony Dwayne Beasley |
 | 279 | 408 | Lauren Scott |
@@ -293,8 +293,8 @@
 | 285 | 402 | Nita Wells |
 | 286 | 398 | Tyler Terrific |
 | 287 | 397 | blockstar |
-| 288 | 395 | Denise B |
-| 289 | 395 | BigSammy420 |
+| 288 | 395 | BigSammy420 |
+| 289 | 395 | Denise B |
 | 290 | 394 | Nikki Rae Gordon |
 | 291 | 393 | Montiette Mcglown |
 | 292 | 390 | Ari Droff |
@@ -312,8 +312,8 @@
 | 304 | 375 | George Tzouganos |
 | 305 | 375 | Dan Wold |
 | 306 | 373 | Russ Attitude |
-| 307 | 370 | Kris Bartlett |
-| 308 | 370 | Twisty Risebuilder |
+| 307 | 370 | Twisty Risebuilder |
+| 308 | 370 | Kris Bartlett |
 | 309 | 367 | Meg |
 | 310 | 366 | Ak Jones |
 | 311 | 364 | Lora |
@@ -321,8 +321,8 @@
 | 313 | 359 | Holly |
 | 314 | 359 | Allen Lloyd |
 | 315 | 359 | Sho Nuff |
-| 316 | 354 | Perky Piecegrid |
-| 317 | 354 | @ |
+| 316 | 354 | @ |
+| 317 | 354 | Perky Piecegrid |
 | 318 | 352 | Kate |
 | 319 | 351 | Jackie Clark |
 | 320 | 351 | Metsfan |

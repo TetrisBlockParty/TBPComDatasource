@@ -317,8 +317,8 @@
 | 309 | 1381 | Christie |
 | 310 | 1381 | Dapper Dasher |
 | 311 | 1380 | Jerilyn Andrina |
-| 312 | 1376 | Kevin Sees |
-| 313 | 1376 | Megan Brianna |
+| 312 | 1376 | Megan Brianna |
+| 313 | 1376 | Kevin Sees |
 | 314 | 1374 | Sarah Berger |
 | 315 | 1362 | Angie Marie |
 | 316 | 1357 | Tanya Parsons |
@@ -333,8 +333,8 @@
 | 325 | 1342 | Groovy Puzzle |
 | 326 | 1342 | Kelly A Green-Leach |
 | 327 | 1341 | Cassie Mercer |
-| 328 | 1338 | Diallo Sparkman |
-| 329 | 1338 | Meghan M |
+| 328 | 1338 | Meghan M |
+| 329 | 1338 | Diallo Sparkman |
 | 330 | 1336 | Frothy Rumbler |
 | 331 | 1334 | Jamie Otero |
 | 332 | 1333 | nikki |
@@ -364,8 +364,8 @@
 | 356 | 1262 | Toni Roberson |
 | 357 | 1261 | Becca Coronado |
 | 358 | 1259 | AkaLefty |
-| 359 | 1257 | Megan Ferguson Leone |
-| 360 | 1257 | Megan Garrick |
+| 359 | 1257 | Megan Garrick |
+| 360 | 1257 | Megan Ferguson Leone |
 | 361 | 1257 | Jackie Lucas |
 | 362 | 1256 | Phil J. Grombliniak |
 | 363 | 1256 | Belle |
@@ -497,8 +497,8 @@
 | 489 | 1000 | Tonya Lee |
 | 490 | 1000 | Victoria Moore-Smith |
 | 491 | 1000 | Emmmz |
-| 492 | 999 | Tansaria Couch-Butler |
-| 493 | 999 | Lola Contreras |
+| 492 | 999 | Lola Contreras |
+| 493 | 999 | Tansaria Couch-Butler |
 | 494 | 998 | Dedra Steward |
 | 495 | 997 | Ellie Jonas |
 | 496 | 996 | Mighty Shatterfit |
@@ -535,8 +535,8 @@
 | 527 | 958 | Lisa Ongtowasruk |
 | 528 | 957 | Maria Louise |
 | 529 | 956 | Blacc Blac |
-| 530 | 951 | Vermeka Searcey |
-| 531 | 951 | Silly Pivotfall |
+| 530 | 951 | Silly Pivotfall |
+| 531 | 951 | Vermeka Searcey |
 | 532 | 950 | Katie Marie |
 | 533 | 947 | Wes Acton |
 | 534 | 947 | Jennifer Leigh |
@@ -710,8 +710,8 @@
 | 702 | 766 | Diamond Scott |
 | 703 | 764 | Shannon Jackson |
 | 704 | 763 | Chelle |
-| 705 | 763 | Cecilia A Jenkins |
-| 706 | 763 | Heather Causey |
+| 705 | 763 | Heather Causey |
+| 706 | 763 | Cecilia A Jenkins |
 | 707 | 762 | Slinky Racker |
 | 708 | 760 | Shorty |
 | 709 | 759 | Anthony McAlister |
@@ -733,23 +733,23 @@
 | 725 | 749 | Trisha J Schmidt |
 | 726 | 748 | Sassy Linkroll |
 | 727 | 746 | Emily Lyric Converse |
-| 728 | 743 | Gloria Ininahazwe |
-| 729 | 743 | Véronique Lévesque Sabourin |
+| 728 | 743 | Véronique Lévesque Sabourin |
+| 729 | 743 | Gloria Ininahazwe |
 | 730 | 743 | Clever Dashgrid |
 | 731 | 742 | Rhonda Petro |
 | 732 | 741 | Leah Keesling |
 | 733 | 741 | Ashley Munn |
 | 734 | 740 | Lylymom |
-| 735 | 740 | Lee Harper |
-| 736 | 740 | Joice Hansen |
+| 735 | 740 | Joice Hansen |
+| 736 | 740 | Lee Harper |
 | 737 | 738 | Jessica S Flecha |
 | 738 | 737 | Breezy Clusterer |
 | 739 | 737 | Ginger |
 | 740 | 736 | Kenan Catovic |
 | 741 | 734 | Michelle Sager |
 | 742 | 734 | goofinoff |
-| 743 | 733 | Christine Bollig |
-| 744 | 733 | Victor Obiakarije |
+| 743 | 733 | Victor Obiakarije |
+| 744 | 733 | Christine Bollig |
 | 745 | 733 | Joce Lynn |
 | 746 | 733 | calcap |
 | 747 | 732 | Leticia Martinez Kelley |
@@ -892,8 +892,8 @@
 | 884 | 652 | Lively Edgepiece |
 | 885 | 652 | Court |
 | 886 | 652 | Irna |
-| 887 | 651 | Lazy Builderfit |
-| 888 | 651 | Unica Rector |
+| 887 | 651 | Unica Rector |
+| 888 | 651 | Lazy Builderfit |
 | 889 | 650 | Pfc Monei Rivera |
 | 890 | 650 | Brittany Chapman |
 | 891 | 650 | Peppy Snapfall |

@@ -32,8 +32,8 @@
 | 24 | 3221 | Ashley Jones |
 | 25 | 3118 | Jamie Lang |
 | 26 | 3042 | Nerdy Spinblock |
-| 27 | 2933 | Grego Daniel |
-| 28 | 2933 | Dan Rob |
+| 27 | 2933 | Dan Rob |
+| 28 | 2933 | Grego Daniel |
 | 29 | 2874 | Zippy Strikesnap |
 | 30 | 2873 | Chummy Shatterer |
 | 31 | 2816 | Fancy Slam |
@@ -70,8 +70,8 @@
 | 62 | 1868 | Kristie McFarland |
 | 63 | 1836 | Tina Kay |
 | 64 | 1825 | Nora Rogers |
-| 65 | 1824 | Nate Burnside |
-| 66 | 1824 | Jessica Ann |
+| 65 | 1824 | Jessica Ann |
+| 66 | 1824 | Nate Burnside |
 | 67 | 1791 | Leah Barnett |
 | 68 | 1776 | Whitney Manuel |
 | 69 | 1774 | Liv Whetson |
@@ -111,8 +111,8 @@
 | 103 | 1311 | JerseyJess |
 | 104 | 1309 | yoyo |
 | 105 | 1297 | Shelby Michelle |
-| 106 | 1282 | Peppy Shifter |
-| 107 | 1282 | Amanda L Baker |
+| 106 | 1282 | Amanda L Baker |
+| 107 | 1282 | Peppy Shifter |
 | 108 | 1280 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1248 | Lori Barnaby |
@@ -314,8 +314,8 @@
 | 306 | 548 | Shannon Matthew Byers |
 | 307 | 545 | Stephanie Simpson |
 | 308 | 541 | Mcathen |
-| 309 | 540 | rosy |
-| 310 | 540 | Tanya Kittrell |
+| 309 | 540 | Tanya Kittrell |
+| 310 | 540 | rosy |
 | 311 | 539 | Fancy Curver |
 | 312 | 539 | Kate M. Murdock |
 | 313 | 538 | Chummy Caster |
@@ -328,8 +328,8 @@
 | 320 | 518 | Marquita Sheard |
 | 321 | 516 | Skippy |
 | 322 | 514 | Nikki White |
-| 323 | 506 | Ammmmmmy |
-| 324 | 506 | Tiffanie Alley |
+| 323 | 506 | Tiffanie Alley |
+| 324 | 506 | Ammmmmmy |
 | 325 | 504 | Daring Builder |
 | 326 | 500 | Ashley Tookes |
 | 327 | 499 | Gumbo |
@@ -367,8 +367,8 @@
 | 359 | 464 | Snazzy Filler |
 | 360 | 464 | Snippy Wipeout |
 | 361 | 463 | Hoài Quắt |
-| 362 | 461 | Breanna Marsden |
-| 363 | 461 | Hyper Bridger |
+| 362 | 461 | Hyper Bridger |
+| 363 | 461 | Breanna Marsden |
 | 364 | 461 | Briana Wellman |
 | 365 | 460 | Hasty Gridpiece |
 | 366 | 460 | Antonia Russell |
@@ -1292,9 +1292,9 @@
 | 1284 | 153 | Tipsy Dashgrid |
 | 1285 | 153 | Robert Sibigtroth |
 | 1286 | 153 | Marketa McClaster |
-| 1287 | 152 | Amanda Mooney |
+| 1287 | 152 | Crystel b520 |
 | 1288 | 152 | Louise Parker |
-| 1289 | 152 | Crystel b520 |
+| 1289 | 152 | Amanda Mooney |
 | 1290 | 152 | Chilly Wipegrid |
 | 1291 | 151 | Brad Dimitroff |
 | 1292 | 151 | Nanyamka LeosRule Patterson |
@@ -1447,7 +1447,7 @@
 | 1439 | 131 | Terry Perez |
 | 1440 | 131 | Susan Ray Lewis |
 | 1441 | 131 | Christina |
-| 1442 | 130 | birdy |
+| 1442 | 130 | Frisky Balancefit |
 | 1443 | 130 | Athena |
 | 1444 | 130 | birdy |
 | 1445 | 130 | Mol Findor |
