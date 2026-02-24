@@ -60,8 +60,8 @@
 | 52 | 1181 | Carrie Beck Geartz |
 | 53 | 1177 | Tipsy Column |
 | 54 | 1170 | Tater |
-| 55 | 1137 | Jen Sartain |
-| 56 | 1137 | TSwag |
+| 55 | 1137 | TSwag |
+| 56 | 1137 | Jen Sartain |
 | 57 | 1128 | Cynthia Bradley |
 | 58 | 1127 | Andrea Dañielle Ortiz |
 | 59 | 1122 | Kristen Gideon |

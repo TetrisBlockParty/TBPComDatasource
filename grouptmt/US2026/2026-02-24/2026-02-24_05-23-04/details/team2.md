@@ -178,8 +178,8 @@
 | 170 | 2056 | Tonya Brooks-Johnson |
 | 171 | 2048 | Jose Mendoza |
 | 172 | 2007 | Hannah Erskine |
-| 173 | 2005 | Cody Nishimura |
-| 174 | 2005 | Cody Smith-Candelaria |
+| 173 | 2005 | Cody Smith-Candelaria |
+| 174 | 2005 | Cody Nishimura |
 | 175 | 1989 | Cozy Filler |
 | 176 | 1984 | Jane Fong |
 | 177 | 1983 | Tonya Morgan |
@@ -479,9 +479,9 @@
 | 471 | 974 | Jeremy Parodi |
 | 472 | 970 | Darla Silva |
 | 473 | 970 | Iris Angelica Perez Cantos |
-| 474 | 969 | Andrew Willis |
-| 475 | 969 | Steve Man |
-| 476 | 969 | Shuany Arias |
+| 474 | 969 | Steve Man |
+| 475 | 969 | Shuany Arias |
+| 476 | 969 | Andrew Willis |
 | 477 | 966 | Kayla |
 | 478 | 965 | Desire Rice |
 | 479 | 964 | John Bednarik |
@@ -542,8 +542,8 @@
 | 534 | 887 | Kimmy Newman |
 | 535 | 886 | Bold Splitter |
 | 536 | 886 | Cherrica Newman |
-| 537 | 885 | Miranda Morris |
-| 538 | 885 | Giggy Mover |
+| 537 | 885 | Giggy Mover |
+| 538 | 885 | Miranda Morris |
 | 539 | 883 | Hong Tang |
 | 540 | 882 | Sarah Massey |
 | 541 | 882 | Thomas Hedrick |
@@ -608,8 +608,8 @@
 | 600 | 808 | Justin Edwards |
 | 601 | 806 | Eunique Griffin |
 | 602 | 806 | Mighty Spinbuilder |
-| 603 | 805 | Vanessa Moreno |
-| 604 | 805 | Danielle Simmons |
+| 603 | 805 | Danielle Simmons |
+| 604 | 805 | Vanessa Moreno |
 | 605 | 802 | Trisha Gallagher |
 | 606 | 800 | Anthony |
 | 607 | 795 | Carrie Mitchell |
@@ -625,8 +625,8 @@
 | 617 | 785 | Daniel Amos |
 | 618 | 783 | Shiny Twistfit |
 | 619 | 781 | Amanda Ferrell |
-| 620 | 780 | Megan Kitchner |
-| 621 | 780 | Breezy Filler |
+| 620 | 780 | Breezy Filler |
+| 621 | 780 | Megan Kitchner |
 | 622 | 780 | Amy Reynolds |
 | 623 | 779 | Shanae Dillahunty |
 | 624 | 779 | Trinity Oak |
@@ -642,8 +642,8 @@
 | 634 | 770 | Michael Buckner |
 | 635 | 768 | Mia Muse Best |
 | 636 | 766 | Frisky Riserbuilder |
-| 637 | 766 | Angela Cagle Silmon |
-| 638 | 766 | Diamond Scott |
+| 637 | 766 | Diamond Scott |
+| 638 | 766 | Angela Cagle Silmon |
 | 639 | 763 | Chelle |
 | 640 | 763 | Heather Causey |
 | 641 | 761 | Cecilia A Jenkins |

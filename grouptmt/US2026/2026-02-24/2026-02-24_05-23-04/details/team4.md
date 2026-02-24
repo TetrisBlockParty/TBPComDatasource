@@ -70,8 +70,8 @@
 | 62 | 1101 | BertMofo |
 | 63 | 1094 | Shelly Chandler |
 | 64 | 1089 | Alyssa Papen |
-| 65 | 1082 | Avy Absol |
-| 66 | 1082 | Dion Crommarty |
+| 65 | 1082 | Dion Crommarty |
+| 66 | 1082 | Avy Absol |
 | 67 | 1075 | Dustee Craddock-Harrison |
 | 68 | 1069 | Heather Tushner |
 | 69 | 1055 | Julian Garcia |
@@ -109,8 +109,8 @@
 | 101 | 804 | SAP |
 | 102 | 803 | Diana Houts |
 | 103 | 802 | Crystal Carroll |
-| 104 | 798 | Jewell Urban |
-| 105 | 798 | Klo |
+| 104 | 798 | Klo |
+| 105 | 798 | Jewell Urban |
 | 106 | 796 | Denise Carlson |
 | 107 | 783 | D3TROITB0RN74 |
 | 108 | 781 | Brittney Griggs |
@@ -183,8 +183,8 @@
 | 175 | 538 | Steph Marie |
 | 176 | 537 | Scott Jameson |
 | 177 | 535 | Berklie Apedaile |
-| 178 | 532 | Alan George LaRage |
-| 179 | 532 | Matt Summer |
+| 178 | 532 | Matt Summer |
+| 179 | 532 | Alan George LaRage |
 | 180 | 528 | Erin Sabol |
 | 181 | 527 | Brittney Orengo |
 | 182 | 525 | Lucas J Sutton |
@@ -225,8 +225,8 @@
 | 217 | 462 | Crystal Nicolette Moore |
 | 218 | 460 | Kathy Brookins |
 | 219 | 458 | Kristina Black |
-| 220 | 457 | J-Rizzle |
-| 221 | 457 | Kristin Manee |
+| 220 | 457 | Kristin Manee |
+| 221 | 457 | J-Rizzle |
 | 222 | 456 | shark tato |
 | 223 | 455 | Michele Plunkett |
 | 224 | 454 | Keshia Lyons |
@@ -250,8 +250,8 @@
 | 242 | 431 | Manny1 |
 | 243 | 428 | Chris Bernstein |
 | 244 | 427 | Chao Ma |
-| 245 | 421 | Andrew Dang |
-| 246 | 421 | JIGsaw ~(•¿°)~ |
+| 245 | 421 | JIGsaw ~(•¿°)~ |
+| 246 | 421 | Andrew Dang |
 | 247 | 419 | Gdiguy |
 | 248 | 413 | Jeff Brian Gates |
 | 249 | 411 | Autumn Kumzi |

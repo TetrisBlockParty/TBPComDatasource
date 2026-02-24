@@ -196,8 +196,8 @@
 | 188 | 783 | Julian Murphy |
 | 189 | 780 | Raya |
 | 190 | 777 | Daryn Elliott |
-| 191 | 774 | ren |
-| 192 | 774 | Twisty Brick LT |
+| 191 | 774 | Twisty Brick LT |
+| 192 | 774 | ren |
 | 193 | 772 | Tye Stovall |
 | 194 | 769 | Hasty Cascadefit |
 | 195 | 768 | Cyd061769 |
@@ -249,8 +249,8 @@
 | 241 | 627 | Juliana Dottore |
 | 242 | 627 | Louise Stacy Sisson |
 | 243 | 625 | Jacqueline Rodriguez |
-| 244 | 623 | Giggy Glidepiece |
-| 245 | 623 | Tom Nault |
+| 244 | 623 | Tom Nault |
+| 245 | 623 | Giggy Glidepiece |
 | 246 | 619 | Swanky Snapclear |
 | 247 | 618 | Betty Bóò |
 | 248 | 608 | Dee Pratt |
@@ -335,8 +335,8 @@
 | 327 | 474 | Troy |
 | 328 | 471 | Sarah Moyer |
 | 329 | 471 | Mendoza Lee Christy |
-| 330 | 467 | Danielle Rhoades |
-| 331 | 467 | Jul |
+| 330 | 467 | Jul |
+| 331 | 467 | Danielle Rhoades |
 | 332 | 465 | Blocked |
 | 333 | 465 | Noettín Kan Zasnemoore |
 | 334 | 464 | Danielle Weikel |
