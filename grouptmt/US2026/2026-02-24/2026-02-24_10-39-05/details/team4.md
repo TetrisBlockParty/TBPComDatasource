@@ -108,8 +108,8 @@
 | 100 | 846 | Christine Marie |
 | 101 | 840 | SAP |
 | 102 | 837 | Rica Mitchell |
-| 103 | 834 | Brittney Orengo |
-| 104 | 834 | quicksand420 |
+| 103 | 834 | quicksand420 |
+| 104 | 834 | Brittney Orengo |
 | 105 | 818 | Lori Walker |
 | 106 | 815 | Diana Houts |
 | 107 | 813 | Amy Suckarieh |
@@ -138,8 +138,8 @@
 | 130 | 712 | H.R. Block |
 | 131 | 712 | Leslie Nicole |
 | 132 | 708 | Jacqueline Helm |
-| 133 | 704 | Austin Owens |
-| 134 | 704 | Chilly Crasher |
+| 133 | 704 | Chilly Crasher |
+| 134 | 704 | Austin Owens |
 | 135 | 687 | Carmethia Clemons Haslerig |
 | 136 | 682 | Raegan Lane-Ross |
 | 137 | 668 | Desi Desporte |
@@ -218,8 +218,8 @@
 | 210 | 502 | Christina Black |
 | 211 | 502 | Ericca Eldridge |
 | 212 | 501 | Sharyn Lemire |
-| 213 | 499 | DonMega |
-| 214 | 499 | Kesha Brady |
+| 213 | 499 | Kesha Brady |
+| 214 | 499 | DonMega |
 | 215 | 497 | Damn Libra |
 | 216 | 496 | Jessica Bohlken |
 | 217 | 495 | Joeliecea Cobb |
@@ -242,8 +242,8 @@
 | 234 | 460 | Kathy Brookins |
 | 235 | 458 | Kristina Black |
 | 236 | 458 | Luis Martinez |
-| 237 | 457 | Kristin Manee |
-| 238 | 457 | J-Rizzle |
+| 237 | 457 | J-Rizzle |
+| 238 | 457 | Kristin Manee |
 | 239 | 455 | Michele Plunkett |
 | 240 | 454 | David Lay |
 | 241 | 454 | Keshia Lyons |
@@ -255,8 +255,8 @@
 | 247 | 444 | Selena Shaw |
 | 248 | 442 | John Brunetti |
 | 249 | 441 | Lush Linkfall |
-| 250 | 438 | Melvin Baird |
-| 251 | 438 | 23 |
+| 250 | 438 | 23 |
+| 251 | 438 | Melvin Baird |
 | 252 | 436 | Chris Bernstein |
 | 253 | 434 | Ramel Rhodes |
 | 254 | 432 | scott |
@@ -302,14 +302,14 @@
 | 294 | 380 | Chaz |
 | 295 | 378 | Jason Gibbs |
 | 296 | 378 | Googenheim |
-| 297 | 378 | Jason Gibbs |
+| 297 | 378 | Mary Ann Pabukis |
 | 298 | 377 | Matt Dell'Olio |
 | 299 | 376 | Nig |
 | 300 | 375 | George Tzouganos |
 | 301 | 373 | Russ Attitude |
 | 302 | 371 | Jessi Cinotto |
-| 303 | 370 | Twisty Risebuilder |
-| 304 | 370 | Kris Bartlett |
+| 303 | 370 | Kris Bartlett |
+| 304 | 370 | Twisty Risebuilder |
 | 305 | 368 | Dan Wold |
 | 306 | 367 | Meg |
 | 307 | 364 | Lora |
@@ -321,8 +321,8 @@
 | 313 | 354 | @ |
 | 314 | 354 | Perky Piecegrid |
 | 315 | 352 | Kate |
-| 316 | 351 | Jackie Clark |
-| 317 | 351 | Dana Scott |
+| 316 | 351 | Dana Scott |
+| 317 | 351 | Jackie Clark |
 | 318 | 350 | Dizzy Matchzone |
 | 319 | 349 | Richard-April Kice |
 | 320 | 349 | jim |
@@ -644,8 +644,8 @@
 | 636 | 191 | Cece |
 | 637 | 191 | Jobadia Steelerton |
 | 638 | 191 | Norman Klick |
-| 639 | 190 | wombat |
-| 640 | 190 | Joni Marie Flanary |
+| 639 | 190 | Joni Marie Flanary |
+| 640 | 190 | wombat |
 | 641 | 190 | Robert Rangel |
 | 642 | 189 | Daniel Gazcon |
 | 643 | 189 | Amy C Brown |

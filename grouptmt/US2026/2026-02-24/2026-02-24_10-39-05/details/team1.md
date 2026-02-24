@@ -139,8 +139,8 @@
 | 131 | 666 | Virginia Gray Floyd |
 | 132 | 652 | Evie Khalil |
 | 133 | 651 | Dandy Basegrid |
-| 134 | 650 | Bob |
-| 135 | 650 | April Carroll |
+| 134 | 650 | April Carroll |
+| 135 | 650 | Bob |
 | 136 | 647 | Theo Pinnow |
 | 137 | 643 | Erin Rosberg |
 | 138 | 642 | Mario Cab |
@@ -322,8 +322,8 @@
 | 314 | 361 | Tyler Hertzog |
 | 315 | 359 | Rodney Schmerfeld |
 | 316 | 357 | Jasmine Riley |
-| 317 | 356 | build master |
-| 318 | 356 | Brave Linkmatch |
+| 317 | 356 | Brave Linkmatch |
+| 318 | 356 | build master |
 | 319 | 355 | Toya Lynn |
 | 320 | 355 | Shanae Grant |
 | 321 | 354 | Kimberly Davis |
@@ -361,8 +361,8 @@
 | 353 | 329 | Sarah Marie |
 | 354 | 327 | Amber Dee |
 | 355 | 327 | Christina Norman |
-| 356 | 325 | GringaLinga |
-| 357 | 325 | Mitchel White |
+| 356 | 325 | Mitchel White |
+| 357 | 325 | GringaLinga |
 | 358 | 324 | Brave Wrecker |
 | 359 | 324 | Teddy Alexander |
 | 360 | 323 | Nadine Velardo |
@@ -410,8 +410,8 @@
 | 402 | 298 | Glitzy Buildsnap |
 | 403 | 298 | Sonia Marquis |
 | 404 | 297 | Billie Dawn Sparks |
-| 405 | 296 | Jeanna Dunn |
-| 406 | 296 | Shaykmia |
+| 405 | 296 | Shaykmia |
+| 406 | 296 | Jeanna Dunn |
 | 407 | 294 | Mary Love |
 | 408 | 293 | Sunny Pivotfall |
 | 409 | 292 | Mark Smith |
@@ -578,8 +578,8 @@
 | 570 | 223 | Erez Yosef |
 | 571 | 223 | Daniel Lorquet |
 | 572 | 222 | Nicole Nikki |
-| 573 | 222 | Laurie Sanderson |
-| 574 | 222 | Divaaa |
+| 573 | 222 | Divaaa |
+| 574 | 222 | Laurie Sanderson |
 | 575 | 221 | Amy Hess |
 | 576 | 221 | Spunky Builderpiece |
 | 577 | 221 | Mrsbigdawg |
@@ -663,7 +663,7 @@
 | 655 | 193 | Chyna Mae |
 | 656 | 193 | DENOTS42OSPOT |
 | 657 | 193 | Philip Hutson |
-| 658 | 192 | Jessica Imboden |
+| 658 | 192 | Wacky Strikesnap |
 | 659 | 192 | Pie-3.14 |
 | 660 | 192 | Jessica Imboden |
 | 661 | 192 | Zany Gridclear |
