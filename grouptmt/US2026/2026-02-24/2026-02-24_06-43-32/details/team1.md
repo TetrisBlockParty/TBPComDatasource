@@ -84,8 +84,8 @@
 | 76 | 973 | Francesca Gee |
 | 77 | 966 | Shalene Frederick Autrey |
 | 78 | 961 | Jacqueline Williams |
-| 79 | 957 | Zippy Align |
-| 80 | 957 | Erin Hodges Plumb |
+| 79 | 957 | Erin Hodges Plumb |
+| 80 | 957 | Zippy Align |
 | 81 | 944 | Sweet Baker |
 | 82 | 922 | Jason Cox |
 | 83 | 920 | Tee Sheree |
@@ -99,8 +99,8 @@
 | 91 | 884 | Sevens4L |
 | 92 | 883 | Jennifer ManWarren |
 | 93 | 863 | Madison Wicks |
-| 94 | 860 | Tinah Montanna |
-| 95 | 860 | Rachael |
+| 94 | 860 | Rachael |
+| 95 | 860 | Tinah Montanna |
 | 96 | 853 | Nancy Green |
 | 97 | 811 | Amanda Johnson Huffman |
 | 98 | 800 | Desiree Deschaine Havee |
@@ -110,8 +110,8 @@
 | 102 | 773 | Susanna Guerry |
 | 103 | 772 | Kathy Langham |
 | 104 | 770 | Zappy Curvetile |
-| 105 | 769 | Angel Fowler |
-| 106 | 769 | Robert Benito |
+| 105 | 769 | Robert Benito |
+| 106 | 769 | Angel Fowler |
 | 107 | 768 | Jazzy Framezone |
 | 108 | 761 | Karin Gillen |
 | 109 | 751 | Kellie |
@@ -239,8 +239,8 @@
 | 231 | 424 | Chelsea Dahlquist |
 | 232 | 423 | Howdi Duty |
 | 233 | 422 | Jamise Brown |
-| 234 | 421 | Plucky Stacky |
-| 235 | 421 | Letson Melissa |
+| 234 | 421 | Letson Melissa |
+| 235 | 421 | Plucky Stacky |
 | 236 | 420 | Jennifer Noe Chandler |
 | 237 | 419 | Daring Fitclear |
 | 238 | 419 | John J. Cronin |
@@ -355,8 +355,8 @@
 | 347 | 322 | Chris65 |
 | 348 | 321 | LD1 |
 | 349 | 320 | Zany Tiler |
-| 350 | 319 | Fresno Beotoni |
-| 351 | 319 | Crystal Cheresnowsky |
+| 350 | 319 | Crystal Cheresnowsky |
+| 351 | 319 | Fresno Beotoni |
 | 352 | 317 | Bloknboy |
 | 353 | 317 | Amh |
 | 354 | 316 | Giggly Builderline |
@@ -371,8 +371,8 @@
 | 363 | 310 | Lynn Adams |
 | 364 | 310 | Marci Sanders |
 | 365 | 309 | Isaiah |
-| 366 | 308 | Katie Martin |
-| 367 | 308 | Agustin Duarte Orozco |
+| 366 | 308 | Agustin Duarte Orozco |
+| 367 | 308 | Katie Martin |
 | 368 | 306 | Sunny Shift |
 | 369 | 305 | Speedy Snapfall |
 | 370 | 305 | Tavia |
@@ -1582,7 +1582,7 @@
 | 1574 | 42 | Dwayne Bogue |
 | 1575 | 42 | Tyler Mulholland |
 | 1576 | 41 | lisa |
-| 1577 | 41 | GDerro |
+| 1577 | 41 | Eric Inniss |
 | 1578 | 41 | Curtis |
 | 1579 | 41 | GDerro |
 | 1580 | 41 | Emma Hughes |

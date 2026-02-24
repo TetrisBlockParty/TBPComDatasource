@@ -267,8 +267,8 @@
 | 259 | 1552 | Mcintosh Brian Shalonda |
 | 260 | 1546 | Alyssa Nadine Medelez |
 | 261 | 1528 | Stacy Stickle |
-| 262 | 1509 | Whitney Nicole Waterman |
-| 263 | 1509 | Stacey Clement |
+| 262 | 1509 | Stacey Clement |
+| 263 | 1509 | Whitney Nicole Waterman |
 | 264 | 1501 | Ashle Scranton |
 | 265 | 1498 | Ericka Marie Smith |
 | 266 | 1481 | Jamie Schmitt |
@@ -723,12 +723,12 @@
 | 715 | 725 | Jennifer Coe |
 | 716 | 725 | AISlop |
 | 717 | 724 | Brenna Ann |
-| 718 | 724 | Epic Fitzone |
-| 719 | 724 | teo1 |
+| 718 | 724 | teo1 |
+| 719 | 724 | Epic Fitzone |
 | 720 | 722 | Sassy Racker |
 | 721 | 720 | Crystal EatableCupcake Stepney |
-| 722 | 719 | Isabelle Bonneau |
-| 723 | 719 | Maddy Petersen |
+| 722 | 719 | Maddy Petersen |
+| 723 | 719 | Isabelle Bonneau |
 | 724 | 718 | Andre Love |
 | 725 | 717 | Shinette Dobson |
 | 726 | 717 | Yoan Boulanger |
@@ -807,8 +807,8 @@
 | 799 | 675 | Fi Ne |
 | 800 | 674 | Anne Elizabeth |
 | 801 | 672 | Christina Jarvis-Swarbrick |
-| 802 | 672 | Lathasa Newkirk |
-| 803 | 672 | Abimbola Bimbo |
+| 802 | 672 | Abimbola Bimbo |
+| 803 | 672 | Lathasa Newkirk |
 | 804 | 671 | Ryan Parson |
 | 805 | 671 | Mishka Upchurch |
 | 806 | 670 | Santana Miyagi |

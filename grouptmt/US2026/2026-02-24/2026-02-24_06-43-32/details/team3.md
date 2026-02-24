@@ -123,8 +123,8 @@
 | 115 | 1134 | Melissa Orth Hunter |
 | 116 | 1124 | Stephanie Rice |
 | 117 | 1121 | Corie A. Brinson |
-| 118 | 1114 | Loopy Fallmatch |
-| 119 | 1114 | Groovy Catcher |
+| 118 | 1114 | Groovy Catcher |
+| 119 | 1114 | Loopy Fallmatch |
 | 120 | 1105 | Adrian Marcel Pate |
 | 121 | 1093 | Angela M. Fletcher |
 | 122 | 1091 | Jennifer |
@@ -179,8 +179,8 @@
 | 171 | 857 | Dana Fox |
 | 172 | 856 | Dana Winters |
 | 173 | 854 | Speedy Bridger |
-| 174 | 847 | Daring Brickzone |
-| 175 | 847 | Daira Largen |
+| 174 | 847 | Daira Largen |
+| 175 | 847 | Daring Brickzone |
 | 176 | 846 | Nicole Myers |
 | 177 | 845 | Edwin Calvillo Jr. |
 | 178 | 821 | Kammy Hill |
@@ -243,16 +243,16 @@
 | 235 | 646 | Duane Bright |
 | 236 | 644 | Dawn Williams |
 | 237 | 642 | Rania Zaqout |
-| 238 | 641 | Kristal C Lee |
-| 239 | 641 | Tom Nault |
+| 238 | 641 | Tom Nault |
+| 239 | 641 | Kristal C Lee |
 | 240 | 640 | Dee Pratt |
 | 241 | 639 | Nichol Graham |
 | 242 | 635 | Amber Hughes |
 | 243 | 633 | Jillian Symons |
 | 244 | 630 | Jackie Miller |
 | 245 | 629 | rnr junky |
-| 246 | 627 | Louise Stacy Sisson |
-| 247 | 627 | Juliana Dottore |
+| 246 | 627 | Juliana Dottore |
+| 247 | 627 | Louise Stacy Sisson |
 | 248 | 625 | Jacqueline Rodriguez |
 | 249 | 624 | Hyper Matchzone |
 | 250 | 623 | Giggy Glidepiece |
@@ -360,8 +360,8 @@
 | 352 | 456 | Kelly |
 | 353 | 456 | Cynthia Herrmann Egland |
 | 354 | 455 | Kelly Wolf |
-| 355 | 450 | Stefanie LaPointe |
-| 356 | 450 | Luciana Braganca Vieira |
+| 355 | 450 | Luciana Braganca Vieira |
+| 356 | 450 | Stefanie LaPointe |
 | 357 | 449 | Lively Caster |
 | 358 | 447 | Carrie Huskey |
 | 359 | 447 | Num1hater |
@@ -559,7 +559,7 @@
 | 551 | 316 | Tia Moore |
 | 552 | 316 | Travis W |
 | 553 | 315 | Amy Montz |
-| 554 | 314 | Cranky Corner |
+| 554 | 314 | Rachel Napper |
 | 555 | 314 | toony |
 | 556 | 314 | Cranky Corner |
 | 557 | 313 | Joseph Vargas |
@@ -603,9 +603,9 @@
 | 595 | 299 | Angie Harper |
 | 596 | 297 | Zac Hudak |
 | 597 | 297 | Cameo Tweed |
-| 598 | 296 | JoshAllenfan17 |
-| 599 | 296 | Tracy Martin |
-| 600 | 296 | Angel Miller |
+| 598 | 296 | Angel Miller |
+| 599 | 296 | JoshAllenfan17 |
+| 600 | 296 | Tracy Martin |
 | 601 | 295 | Omega |
 | 602 | 294 | Jazzy Spinfit |
 | 603 | 293 | Anna Moeller |
