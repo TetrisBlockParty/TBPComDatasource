@@ -226,8 +226,8 @@
 | 218 | 1800 | Tony Lea |
 | 219 | 1787 | Teddi Notyalc |
 | 220 | 1786 | Eric Carlson |
-| 221 | 1775 | Sommer Shope |
-| 222 | 1775 | Eboni Banks |
+| 221 | 1775 | Eboni Banks |
+| 222 | 1775 | Sommer Shope |
 | 223 | 1774 | Nerdy Pattern |
 | 224 | 1761 | Rosa Franklin |
 | 225 | 1751 | Melissa Penelope Ann Dodge |
@@ -271,8 +271,8 @@
 | 263 | 1561 | Howard Forest |
 | 264 | 1557 | Poppy Snap |
 | 265 | 1553 | Boldy Cascadepiece |
-| 266 | 1553 | Sarah Freitas |
-| 267 | 1553 | Wendy Unsain |
+| 266 | 1553 | Wendy Unsain |
+| 267 | 1553 | Sarah Freitas |
 | 268 | 1539 | Nadia Batista Garcia |
 | 269 | 1537 | Prado |
 | 270 | 1528 | Stacy Stickle |
@@ -351,8 +351,8 @@
 | 343 | 1304 | Sarah Ridenour |
 | 344 | 1303 | Michele Morgan |
 | 345 | 1301 | Mandy Cekine |
-| 346 | 1300 | Tacara Cummings |
-| 347 | 1300 | Shinel Richardson |
+| 346 | 1300 | Shinel Richardson |
+| 347 | 1300 | Tacara Cummings |
 | 348 | 1295 | Jess Morrison |
 | 349 | 1292 | Joshua Mandel |
 | 350 | 1288 | Nicole Cannon |
@@ -364,11 +364,11 @@
 | 356 | 1262 | Toni Roberson |
 | 357 | 1261 | Becca Coronado |
 | 358 | 1259 | AkaLefty |
-| 359 | 1257 | Megan Ferguson Leone |
-| 360 | 1257 | Megan Garrick |
+| 359 | 1257 | Megan Garrick |
+| 360 | 1257 | Megan Ferguson Leone |
 | 361 | 1257 | Jackie Lucas |
-| 362 | 1256 | Belle |
-| 363 | 1256 | Phil J. Grombliniak |
+| 362 | 1256 | Phil J. Grombliniak |
+| 363 | 1256 | Belle |
 | 364 | 1255 | Ambyre Patterson |
 | 365 | 1254 | Erika Densmore |
 | 366 | 1252 | AgileDragon |
@@ -615,8 +615,8 @@
 | 607 | 850 | Sabrina Burton |
 | 608 | 849 | Jasmine Kenney |
 | 609 | 848 | Happy Wipeblock |
-| 610 | 847 | Megan Kitchner |
-| 611 | 847 | Rhonda Milstead |
+| 610 | 847 | Rhonda Milstead |
+| 611 | 847 | Megan Kitchner |
 | 612 | 844 | Diana Fitzwater |
 | 613 | 843 | Quirky Twistline |
 | 614 | 842 | Ha Ab |
@@ -702,8 +702,8 @@
 | 694 | 773 | Chummy Blockbuilder |
 | 695 | 772 | Party d |
 | 696 | 770 | Frilly Fallzone |
-| 697 | 770 | Nakiiya Dreamcatcher Gore |
-| 698 | 770 | Michael Buckner |
+| 697 | 770 | Michael Buckner |
+| 698 | 770 | Nakiiya Dreamcatcher Gore |
 | 699 | 768 | Mia Muse Best |
 | 700 | 766 | Frisky Riserbuilder |
 | 701 | 766 | Angela Cagle Silmon |
@@ -892,8 +892,8 @@
 | 884 | 652 | Lively Edgepiece |
 | 885 | 652 | Court |
 | 886 | 652 | Irna |
-| 887 | 651 | Lazy Builderfit |
-| 888 | 651 | Unica Rector |
+| 887 | 651 | Unica Rector |
+| 888 | 651 | Lazy Builderfit |
 | 889 | 650 | Pfc Monei Rivera |
 | 890 | 650 | Brittany Chapman |
 | 891 | 650 | Peppy Snapfall |
@@ -910,14 +910,14 @@
 | 902 | 641 | Snappy Faller |
 | 903 | 641 | Happy Tile |
 | 904 | 640 | Taylor Flowers |
-| 905 | 639 | Libby Hicks |
+| 905 | 639 | Tina Marie |
 | 906 | 639 | Connie Lepore-Mann |
 | 907 | 639 | Shindee |
 | 908 | 639 | Libby Hicks |
 | 909 | 638 | Nate |
 | 910 | 638 | Taren Cowan |
-| 911 | 638 | Daring Caster |
-| 912 | 638 | Kelly |
+| 911 | 638 | Kelly |
+| 912 | 638 | Daring Caster |
 | 913 | 637 | Jason H Baker |
 | 914 | 637 | Darcy Mae |
 | 915 | 636 | Tash Bell |

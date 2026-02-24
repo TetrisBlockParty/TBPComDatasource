@@ -70,8 +70,8 @@
 | 62 | 1868 | Kristie McFarland |
 | 63 | 1836 | Tina Kay |
 | 64 | 1825 | Nora Rogers |
-| 65 | 1824 | Nate Burnside |
-| 66 | 1824 | Jessica Ann |
+| 65 | 1824 | Jessica Ann |
+| 66 | 1824 | Nate Burnside |
 | 67 | 1791 | Leah Barnett |
 | 68 | 1776 | Whitney Manuel |
 | 69 | 1774 | Liv Whetson |
@@ -188,8 +188,8 @@
 | 180 | 857 | Dana Fox |
 | 181 | 856 | Dana Winters |
 | 182 | 854 | Speedy Bridger |
-| 183 | 847 | Daring Brickzone |
-| 184 | 847 | Daira Largen |
+| 183 | 847 | Daira Largen |
+| 184 | 847 | Daring Brickzone |
 | 185 | 842 | Alexmac |
 | 186 | 829 | Patricia White |
 | 187 | 825 | Lizabeth Fox |
@@ -357,13 +357,13 @@
 | 349 | 474 | Randy Clevenger |
 | 350 | 474 | Troy |
 | 351 | 473 | Christian Werndl |
-| 352 | 471 | Mendoza Lee Christy |
-| 353 | 471 | Sarah Moyer |
+| 352 | 471 | Sarah Moyer |
+| 353 | 471 | Mendoza Lee Christy |
 | 354 | 470 | Jazzy Spinfit |
 | 355 | 468 | Bigmack |
 | 356 | 467 | Danielle Rhoades |
-| 357 | 465 | Noettín Kan Zasnemoore |
-| 358 | 465 | Blocked |
+| 357 | 465 | Blocked |
+| 358 | 465 | Noettín Kan Zasnemoore |
 | 359 | 464 | Snazzy Filler |
 | 360 | 464 | Snippy Wipeout |
 | 361 | 463 | Hoài Quắt |
@@ -549,8 +549,8 @@
 | 541 | 329 | Krystal Gerstberger |
 | 542 | 329 | Fredd Thomas |
 | 543 | 328 | Desiree Soto |
-| 544 | 328 | Cesar Mendez |
-| 545 | 328 | Sdot |
+| 544 | 328 | Sdot |
+| 545 | 328 | Cesar Mendez |
 | 546 | 327 | Jess Bissett |
 | 547 | 327 | Taylor Hood |
 | 548 | 326 | Natalie Augustus |
@@ -644,15 +644,15 @@
 | 636 | 293 | Rufus Lincoln |
 | 637 | 293 | Tommy Proctor |
 | 638 | 292 | Scouty |
-| 639 | 291 | Jess Dearborn |
+| 639 | 291 | Jessica Lynn French |
 | 640 | 291 | Autumn Phillimore |
 | 641 | 291 | Jess Dearborn |
 | 642 | 290 | Justin Parker |
 | 643 | 290 | Rayzer |
 | 644 | 290 | Zesty Rotater |
 | 645 | 289 | Michelle Clarno |
-| 646 | 289 | DidIdothat |
-| 647 | 289 | Andy Jacobson |
+| 646 | 289 | Andy Jacobson |
+| 647 | 289 | DidIdothat |
 | 648 | 287 | Timea Popladek |
 | 649 | 286 | Frilly Stackzone |
 | 650 | 286 | Morgan Cudo |
