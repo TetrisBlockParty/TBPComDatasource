@@ -177,8 +177,8 @@
 | 169 | 491 | Michelle Beres |
 | 170 | 490 | Jennifer Hardman |
 | 171 | 488 | Hyper |
-| 172 | 483 | Trina Gee |
-| 173 | 483 | Dandy Basegrid |
+| 172 | 483 | Dandy Basegrid |
+| 173 | 483 | Trina Gee |
 | 174 | 482 | Ly Phethmany |
 | 175 | 480 | Amanda Jarnagin |
 | 176 | 479 | Snappy Matcher |
@@ -355,8 +355,8 @@
 | 347 | 289 | Nate Price |
 | 348 | 288 | Tanya Banks |
 | 349 | 287 | Itspaigebro |
-| 350 | 286 | Marci Sanders |
-| 351 | 286 | Sarahdactyl |
+| 350 | 286 | Sarahdactyl |
+| 351 | 286 | Marci Sanders |
 | 352 | 285 | Jessie Welch |
 | 353 | 283 | Ric Hard Hernandez |
 | 354 | 283 | Teddy Alexander |
@@ -381,9 +381,9 @@
 | 373 | 275 | Steph |
 | 374 | 274 | Allena Craft |
 | 375 | 274 | Danielle Mae |
-| 376 | 273 | Nadine Velardo |
+| 376 | 273 | Brandie Gallegos |
 | 377 | 273 | Frisky Base |
-| 378 | 273 | Brandie Gallegos |
+| 378 | 273 | Nadine Velardo |
 | 379 | 272 | Renee Tucker |
 | 380 | 272 | Lyn Sibayan |
 | 381 | 271 | Mighty Shatterfit |

@@ -213,8 +213,8 @@
 | 205 | 452 | Crystal Nicolette Moore |
 | 206 | 450 | Amanda Pauldo-Ivy |
 | 207 | 446 | Mr. Party |
-| 208 | 444 | Mylo Lipscomb |
-| 209 | 444 | J-Rizzle |
+| 208 | 444 | J-Rizzle |
+| 209 | 444 | Mylo Lipscomb |
 | 210 | 443 | Kristina Black |
 | 211 | 442 | 🥔🥔 Spudz |
 | 212 | 441 | Lush Linkfall |
@@ -536,7 +536,7 @@
 | 528 | 197 | conceptCollector |
 | 529 | 197 | Peppy Drop |
 | 530 | 197 | Jeff Roberts |
-| 531 | 197 | Peppy Drop |
+| 531 | 197 | Zippy Tilt |
 | 532 | 196 | Julie McAfoos Swanson |
 | 533 | 195 | Christine Simmons |
 | 534 | 194 | Carlos Hernandez |
@@ -624,9 +624,9 @@
 | 616 | 163 | Michael Orris |
 | 617 | 163 | ThriftySpice |
 | 618 | 162 | Ben Nome |
-| 619 | 162 | Cheery Lift |
-| 620 | 162 | Empress Oasis |
-| 621 | 161 | Nicole McMurray |
+| 619 | 162 | Empress Oasis |
+| 620 | 162 | Cheery Lift |
+| 621 | 161 | Manuel Groleau |
 | 622 | 161 | Shirl |
 | 623 | 161 | Nicole McMurray |
 | 624 | 160 | Karen Lambert |

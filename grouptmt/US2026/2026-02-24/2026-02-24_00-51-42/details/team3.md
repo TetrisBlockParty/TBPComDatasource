@@ -60,8 +60,8 @@
 | 52 | 1772 | Liv Whetson |
 | 53 | 1754 | Nate Burnside |
 | 54 | 1739 | Tina Kay |
-| 55 | 1734 | Fancy Slam |
-| 56 | 1734 | Aaron Pitkin |
+| 55 | 1734 | Aaron Pitkin |
+| 56 | 1734 | Fancy Slam |
 | 57 | 1732 | Jessica Ann |
 | 58 | 1722 | Leah Barnett |
 | 59 | 1711 | Amanda Adkins |
@@ -329,8 +329,8 @@
 | 321 | 437 | Loopy Clusterer |
 | 322 | 436 | Heather De Vries Cobb |
 | 323 | 435 | Sabrina Hardrick |
-| 324 | 432 | Jojo M |
-| 325 | 432 | Luciana Braganca Vieira |
+| 324 | 432 | Luciana Braganca Vieira |
+| 325 | 432 | Jojo M |
 | 326 | 431 | Wendy Dearden |
 | 327 | 431 | Tia |
 | 328 | 430 | Quackers |
