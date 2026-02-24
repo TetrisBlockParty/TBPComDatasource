@@ -59,7 +59,7 @@
 | 51 | 2104 | Cheeky Rumbler |
 | 52 | 2093 | Rachel Bowers |
 | 53 | 2059 | Beelow Bently |
-| 54 | 2040 | Jennie Beranek |
+| 54 | 2003 | Jennie Beranek |
 | 55 | 1995 | Ashley Kiara |
 | 56 | 1992 | Shandrea Crawford |
 | 57 | 1991 | Calista Jo Dickson |
@@ -83,8 +83,8 @@
 | 75 | 1633 | cowboy25469 |
 | 76 | 1625 | Queen Kam |
 | 77 | 1615 | joclisa |
-| 78 | 1566 | Marcie Bressler |
-| 79 | 1566 | Nerdy Riseclear |
+| 78 | 1566 | Nerdy Riseclear |
+| 79 | 1566 | Marcie Bressler |
 | 80 | 1560 | Logan Naccarato |
 | 81 | 1555 | Snappy Glidepiece |
 | 82 | 1518 | Christine Filson |
@@ -111,8 +111,8 @@
 | 103 | 1309 | yoyo |
 | 104 | 1297 | Shelby Michelle |
 | 105 | 1290 | JerseyJess |
-| 106 | 1282 | Amanda L Baker |
-| 107 | 1282 | Peppy Shifter |
+| 106 | 1282 | Peppy Shifter |
+| 107 | 1282 | Amanda L Baker |
 | 108 | 1276 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1248 | Lori Barnaby |
@@ -127,8 +127,8 @@
 | 119 | 1134 | Melissa Orth Hunter |
 | 120 | 1124 | Stephanie Rice |
 | 121 | 1121 | Corie A. Brinson |
-| 122 | 1114 | Loopy Fallmatch |
-| 123 | 1114 | Groovy Catcher |
+| 122 | 1114 | Groovy Catcher |
+| 123 | 1114 | Loopy Fallmatch |
 | 124 | 1105 | Adrian Marcel Pate |
 | 125 | 1093 | Angela M. Fletcher |
 | 126 | 1091 | Jennifer |
@@ -186,8 +186,8 @@
 | 178 | 857 | Dana Fox |
 | 179 | 856 | Dana Winters |
 | 180 | 854 | Speedy Bridger |
-| 181 | 847 | Daring Brickzone |
-| 182 | 847 | Daira Largen |
+| 181 | 847 | Daira Largen |
+| 182 | 847 | Daring Brickzone |
 | 183 | 846 | Nicole Myers |
 | 184 | 842 | Alexmac |
 | 185 | 829 | Patricia White |
@@ -218,8 +218,8 @@
 | 210 | 760 | Kiki |
 | 211 | 759 | Mykal Burton |
 | 212 | 757 | Fancy Cascader |
-| 213 | 755 | Laura Booth Wosko |
-| 214 | 755 | Colton |
+| 213 | 755 | Colton |
+| 214 | 755 | Laura Booth Wosko |
 | 215 | 754 | CeceGeGe |
 | 216 | 753 | Morgan Martinez |
 | 217 | 752 | Joye Sims Binion |
@@ -261,8 +261,8 @@
 | 253 | 639 | Nichol Graham |
 | 254 | 637 | Giddy Twistbuilder |
 | 255 | 635 | Amber Hughes |
-| 256 | 633 | Rebecca Funderburk Kirby |
-| 257 | 633 | Jillian Symons |
+| 256 | 633 | Jillian Symons |
+| 257 | 633 | Rebecca Funderburk Kirby |
 | 258 | 632 | Rebecca Bailey |
 | 259 | 630 | Jackie Miller |
 | 260 | 629 | rnr junky |
@@ -285,8 +285,8 @@
 | 277 | 600 | Natasha Jones |
 | 278 | 594 | Cozy Snaplink |
 | 279 | 588 | Salena Whitlock |
-| 280 | 586 | Brian Battjes |
-| 281 | 586 | Donna |
+| 280 | 586 | Donna |
+| 281 | 586 | Brian Battjes |
 | 282 | 582 | FuzzyNavel |
 | 283 | 581 | Crystal Hine |
 | 284 | 578 | James Mitchell |
@@ -310,8 +310,8 @@
 | 302 | 547 | Aerian Preston |
 | 303 | 542 | France Vézina |
 | 304 | 541 | Mcathen |
-| 305 | 540 | Tanya Kittrell |
-| 306 | 540 | rosy |
+| 305 | 540 | rosy |
+| 306 | 540 | Tanya Kittrell |
 | 307 | 539 | Fancy Curver |
 | 308 | 539 | Kate M. Murdock |
 | 309 | 538 | Chummy Caster |
@@ -339,8 +339,8 @@
 | 331 | 490 | TotoCherue |
 | 332 | 489 | Isabel Ocasio |
 | 333 | 487 | MsBee |
-| 334 | 486 | Skippy |
-| 335 | 486 | Sleepy |
+| 334 | 486 | Sleepy |
+| 335 | 486 | Skippy |
 | 336 | 485 | Charles Perrone |
 | 337 | 483 | Tegan Chapman |
 | 338 | 482 | Travis W |
@@ -354,8 +354,8 @@
 | 346 | 471 | Sarah Moyer |
 | 347 | 467 | Danielle Rhoades |
 | 348 | 467 | Jul |
-| 349 | 465 | Noettín Kan Zasnemoore |
-| 350 | 465 | Blocked |
+| 349 | 465 | Blocked |
+| 350 | 465 | Noettín Kan Zasnemoore |
 | 351 | 464 | Snazzy Filler |
 | 352 | 464 | Snippy Wipeout |
 | 353 | 463 | Hoài Quắt |
@@ -390,13 +390,13 @@
 | 382 | 434 | Ginger Gray |
 | 383 | 432 | Sabrina Mansfield |
 | 384 | 432 | Hoppy Patternline |
-| 385 | 432 | Sabrina Mansfield |
+| 385 | 432 | Justice 4 P |
 | 386 | 431 | Goofy Fall |
 | 387 | 431 | Donna Esbensen-Alpini |
 | 388 | 430 | Quackers |
 | 389 | 430 | AlsoJess |
-| 390 | 428 | Skinny Baldez |
-| 391 | 428 | Samantha Lynn |
+| 390 | 428 | Samantha Lynn |
+| 391 | 428 | Skinny Baldez |
 | 392 | 428 | keni |
 | 393 | 427 | Darlene McMillan |
 | 394 | 426 | Christina Rotz Shows |
@@ -448,9 +448,9 @@
 | 440 | 380 | Foltz Lee Kelli |
 | 441 | 380 | neci |
 | 442 | 379 | Krish Shah |
-| 443 | 378 | Nikki Pags |
-| 444 | 378 | Samantha Worley |
-| 445 | 378 | Ashley Lynn Marchese |
+| 443 | 378 | Ashley Lynn Marchese |
+| 444 | 378 | Nikki Pags |
+| 445 | 378 | Samantha Worley |
 | 446 | 377 | Paula Little |
 | 447 | 376 | Breanna Marsden |
 | 448 | 376 | Tracy Martin |
@@ -483,8 +483,8 @@
 | 475 | 359 | Ann Hammac |
 | 476 | 359 | Steven Fulater |
 | 477 | 358 | Hyper Twisterfit |
-| 478 | 358 | Beejangles |
-| 479 | 358 | Taylor Culver |
+| 478 | 358 | Taylor Culver |
+| 479 | 358 | Beejangles |
 | 480 | 356 | Trice Sodames |
 | 481 | 354 | Norma JulieMay |
 | 482 | 354 | Jana Polk |
@@ -677,7 +677,7 @@
 | 669 | 276 | Mel Murr |
 | 670 | 276 | Mana |
 | 671 | 276 | Brysten Green |
-| 672 | 275 | Bnoom |
+| 672 | 275 | Mariah Williams |
 | 673 | 275 | Richard Saunders |
 | 674 | 275 | Bnoom |
 | 675 | 274 | Smiley Zone |
@@ -716,8 +716,8 @@
 | 708 | 268 | Wacky Crasher |
 | 709 | 268 | DanceLuvLaugh |
 | 710 | 267 | April Matthew Kibble |
-| 711 | 266 | Reina Roth |
-| 712 | 266 | paranoid |
+| 711 | 266 | paranoid |
+| 712 | 266 | Beck Nicole |
 | 713 | 266 | Erica Burk |
 | 714 | 266 | Christen Cannon Layhew |
 | 715 | 266 | Reina Roth |
@@ -1437,7 +1437,7 @@
 | 1429 | 130 | Mol Findor |
 | 1430 | 130 | Beanz |
 | 1431 | 130 | birdy |
-| 1432 | 129 | Tae Menifee |
+| 1432 | 129 | Jon Thomas |
 | 1433 | 129 | Meep |
 | 1434 | 129 | Tae Menifee |
 | 1435 | 129 | Brandon Montez Sneed |

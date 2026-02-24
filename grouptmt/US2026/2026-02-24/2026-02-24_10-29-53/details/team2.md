@@ -269,8 +269,8 @@
 | 261 | 1558 | Tim Dyer |
 | 262 | 1557 | Poppy Snap |
 | 263 | 1556 | Julay |
-| 264 | 1553 | Sarah Freitas |
-| 265 | 1553 | Wendy Unsain |
+| 264 | 1553 | Wendy Unsain |
+| 265 | 1553 | Sarah Freitas |
 | 266 | 1553 | Boldy Cascadepiece |
 | 267 | 1539 | Nadia Batista Garcia |
 | 268 | 1528 | Stacy Stickle |
@@ -303,8 +303,8 @@
 | 295 | 1415 | Maria Escobar |
 | 296 | 1408 | Doowop40 |
 | 297 | 1407 | Lola C Davis |
-| 298 | 1397 | Tralonda Weeks |
-| 299 | 1397 | Christina Walker |
+| 298 | 1397 | Christina Walker |
+| 299 | 1397 | Tralonda Weeks |
 | 300 | 1392 | Karen Snyder Schrage |
 | 301 | 1391 | Ronnie Nelson |
 | 302 | 1391 | Kimberly Hauck-Rausch |
@@ -328,8 +328,8 @@
 | 320 | 1342 | Groovy Puzzle |
 | 321 | 1342 | Kelly A Green-Leach |
 | 322 | 1341 | Cassie Mercer |
-| 323 | 1338 | Diallo Sparkman |
-| 324 | 1338 | Meghan M |
+| 323 | 1338 | Meghan M |
+| 324 | 1338 | Diallo Sparkman |
 | 325 | 1336 | Frothy Rumbler |
 | 326 | 1334 | Jamie Otero |
 | 327 | 1333 | nikki |
@@ -339,8 +339,8 @@
 | 331 | 1315 | Desiree Anderson |
 | 332 | 1313 | Jermaine Harris |
 | 333 | 1312 | Tinishia Amie |
-| 334 | 1308 | Laura Morrison |
-| 335 | 1308 | Snappy Matchbuilder |
+| 334 | 1308 | Snappy Matchbuilder |
+| 335 | 1308 | Laura Morrison |
 | 336 | 1308 | Christina Lewis-Vickers |
 | 337 | 1305 | Roman Lavochnik |
 | 338 | 1304 | Sarah Ridenour |
@@ -655,8 +655,8 @@
 | 647 | 802 | Trisha Gallagher |
 | 648 | 798 | Daniell Martinez |
 | 649 | 797 | Moist_B-hole |
-| 650 | 796 | Brianna Cerney |
-| 651 | 796 | Trevor Jordan |
+| 650 | 796 | Trevor Jordan |
+| 651 | 796 | Brianna Cerney |
 | 652 | 795 | Alexandra Weir |
 | 653 | 795 | Aletha Williams |
 | 654 | 793 | Heather Anspaugh |
@@ -961,8 +961,8 @@
 | 953 | 607 | Slip |
 | 954 | 607 | Dizzy Zone |
 | 955 | 607 | Tipsy Filler |
-| 956 | 606 | Stanislav Petkov |
-| 957 | 606 | Ebony Deloach Bryant |
+| 956 | 606 | Ebony Deloach Bryant |
+| 957 | 606 | Stanislav Petkov |
 | 958 | 606 | cel505♡ |
 | 959 | 605 | Saucy Fitzone |
 | 960 | 605 | Mandi Marie Smith |
@@ -991,8 +991,8 @@
 | 983 | 593 | Esther Hsu |
 | 984 | 592 | Elizabeth Nieto |
 | 985 | 591 | Ahtavia Watkins |
-| 986 | 591 | Mrs. New |
-| 987 | 591 | Quinn |
+| 986 | 591 | Quinn |
+| 987 | 591 | Mrs. New |
 | 988 | 590 | NickyBrooks |
 | 989 | 589 | Kelly Templeton |
 | 990 | 589 | Sharon Madeiros |
@@ -1041,8 +1041,8 @@
 | 1033 | 570 | MauroPRM |
 | 1034 | 570 | Erika Deer Kauffman |
 | 1035 | 570 | Sonya Back |
-| 1036 | 569 | Anita Rose Green |
-| 1037 | 569 | Sparkles |
+| 1036 | 569 | Sparkles |
+| 1037 | 569 | Anita Rose Green |
 | 1038 | 569 | bosswoman |
 | 1039 | 568 | coleksquad |
 | 1040 | 567 | Lucero Ramirez |
@@ -1052,15 +1052,15 @@
 | 1044 | 563 | Dione |
 | 1045 | 563 | Heather M Purcell |
 | 1046 | 563 | David Rehse |
-| 1047 | 562 | Klee |
-| 1048 | 562 | Gabbrielle Sutton |
+| 1047 | 562 | Gabbrielle Sutton |
+| 1048 | 562 | Klee |
 | 1049 | 562 | Smiley Strike |
 | 1050 | 562 | Dan Kulhanek |
 | 1051 | 562 | Angie Winch |
 | 1052 | 561 | Jenelle Case |
 | 1053 | 560 | De Hawkins |
-| 1054 | 559 | Britney M. |
-| 1055 | 559 | Kaylee McCafferty |
+| 1054 | 559 | Kaylee McCafferty |
+| 1055 | 559 | Britney M. |
 | 1056 | 558 | Treshell Boyd |
 | 1057 | 558 | Byung Bae Park |
 | 1058 | 558 | David Scott |
@@ -1077,8 +1077,8 @@
 | 1069 | 554 | Asha Nichols-Collins |
 | 1070 | 554 | Dusti Rose Bingham |
 | 1071 | 553 | Sar Mo |
-| 1072 | 553 | Jason Kelly |
-| 1073 | 553 | ruth |
+| 1072 | 553 | ruth |
+| 1073 | 553 | Jason Kelly |
 | 1074 | 552 | Boozi |
 | 1075 | 552 | Savannah Alexander |
 | 1076 | 552 | Heather Johnson |
@@ -1354,7 +1354,7 @@
 | 1346 | 457 | shrimppimp |
 | 1347 | 457 | Charliee Keaira Broughton |
 | 1348 | 456 | Kimberly Ann Malagon |
-| 1349 | 456 | Dad |
+| 1349 | 456 | Harley Williams |
 | 1350 | 456 | KingdomKeeper |
 | 1351 | 456 | Dad |
 | 1352 | 455 | Elyse Rivera |

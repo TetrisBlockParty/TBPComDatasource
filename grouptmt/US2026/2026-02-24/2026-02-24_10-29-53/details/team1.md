@@ -114,8 +114,8 @@
 | 106 | 800 | Desiree Deschaine Havee |
 | 107 | 791 | Greg Hart |
 | 108 | 781 | Ash Galvan |
-| 109 | 773 | Cartier |
-| 110 | 773 | Susanna Guerry |
+| 109 | 773 | Susanna Guerry |
+| 110 | 773 | Cartier |
 | 111 | 772 | Kathy Langham |
 | 112 | 770 | Zappy Curvetile |
 | 113 | 768 | Jazzy Framezone |
@@ -124,8 +124,8 @@
 | 116 | 751 | Kellie |
 | 117 | 725 | Debbie Kane |
 | 118 | 716 | Kristi Johnson |
-| 119 | 706 | Plucky Fallzone |
-| 120 | 706 | Denice Dee |
+| 119 | 706 | Denice Dee |
+| 120 | 706 | Plucky Fallzone |
 | 121 | 702 | lil mickey |
 | 122 | 699 | cc |
 | 123 | 696 | Carrie Smith |
@@ -144,10 +144,10 @@
 | 136 | 647 | Theo Pinnow |
 | 137 | 643 | Erin Rosberg |
 | 138 | 642 | Mario Cab |
-| 139 | 629 | Death |
-| 140 | 629 | Tanya Carpenter-Reynolds |
-| 141 | 628 | femmefatale |
-| 142 | 628 | Trina Gee |
+| 139 | 629 | Tanya Carpenter-Reynolds |
+| 140 | 629 | Death |
+| 141 | 628 | Trina Gee |
+| 142 | 628 | femmefatale |
 | 143 | 626 | Damon J. Martin |
 | 144 | 620 | Ty Brown |
 | 145 | 611 | Evan Richmond |
@@ -162,8 +162,8 @@
 | 154 | 582 | Hellsin |
 | 155 | 581 | Jennifer Hardman |
 | 156 | 574 | Bouncy Grid |
-| 157 | 570 | Cody Slav |
-| 158 | 570 | Dee Perry |
+| 157 | 570 | Dee Perry |
+| 158 | 570 | Cody Slav |
 | 159 | 568 | Jason Savage |
 | 160 | 564 | Νεφ Όνυξ |
 | 161 | 562 | Timothy Danaher |
@@ -348,8 +348,8 @@
 | 340 | 337 | Chaste Minor |
 | 341 | 336 | Mrs.Patrica |
 | 342 | 335 | Glitzy Curvebuilder |
-| 343 | 335 | Dreamy Drop |
-| 344 | 335 | Rachel Nilles |
+| 343 | 335 | Rachel Nilles |
+| 344 | 335 | Dreamy Drop |
 | 345 | 334 | Nate Price |
 | 346 | 332 | Gina Bettikofer |
 | 347 | 331 | Lisa Miller |
@@ -416,8 +416,8 @@
 | 408 | 293 | Sunny Pivotfall |
 | 409 | 292 | Mark Smith |
 | 410 | 292 | Clever Cascadepiece |
-| 411 | 291 | Sir-Franchise Drake |
-| 412 | 291 | Danielle Mae |
+| 411 | 291 | Danielle Mae |
+| 412 | 291 | Sir-Franchise Drake |
 | 413 | 291 | Toph |
 | 414 | 290 | Nate Funk |
 | 415 | 290 | Brave Slice |

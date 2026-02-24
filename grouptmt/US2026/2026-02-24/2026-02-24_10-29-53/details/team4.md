@@ -349,8 +349,8 @@
 | 341 | 336 | Gracie Ann Taylor |
 | 342 | 335 | Snippy Puzzle |
 | 343 | 334 | Zethra Prenisha Rahming |
-| 344 | 331 | rebel4lyfe |
-| 345 | 331 | Angie Schmidt |
+| 344 | 331 | Angie Schmidt |
+| 345 | 331 | rebel4lyfe |
 | 346 | 330 | Duck |
 | 347 | 329 | Meagan Nicole |
 | 348 | 329 | AyeKay |
@@ -384,8 +384,8 @@
 | 376 | 314 | Marcus TheeyoungWoe Gilmore |
 | 377 | 314 | Paige Kittles |
 | 378 | 312 | Tawna Curry |
-| 379 | 311 | KayM |
-| 380 | 311 | Reds Bella |
+| 379 | 311 | Reds Bella |
+| 380 | 311 | KayM |
 | 381 | 308 | Angela Geist Jusinski |
 | 382 | 307 | Eri Kka |
 | 383 | 306 | PeaceOs |
