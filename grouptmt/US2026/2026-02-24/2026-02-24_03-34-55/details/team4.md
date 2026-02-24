@@ -68,8 +68,8 @@
 | 60 | 1110 | Ashley Ingram |
 | 61 | 1098 | BertMofo |
 | 62 | 1089 | Alyssa Papen |
-| 63 | 1082 | Dion Crommarty |
-| 64 | 1082 | Avy Absol |
+| 63 | 1082 | Avy Absol |
+| 64 | 1082 | Dion Crommarty |
 | 65 | 1075 | Dustee Craddock-Harrison |
 | 66 | 1064 | Heather Tushner |
 | 67 | 1047 | Julian Garcia |
@@ -132,8 +132,8 @@
 | 124 | 704 | Chilly Crasher |
 | 125 | 702 | Amy Suckarieh |
 | 126 | 690 | Denia Deni |
-| 127 | 682 | Raegan Lane-Ross |
-| 128 | 682 | Jamie Gustafson |
+| 127 | 682 | Jamie Gustafson |
+| 128 | 682 | Raegan Lane-Ross |
 | 129 | 667 | Lindsey Gonzalez |
 | 130 | 664 | Leslie Nicole |
 | 131 | 663 | Matt Gooder |
