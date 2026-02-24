@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-24 14:18:44 UTC
+# Standings for team1 as of 2026-02-24 14:19:22 UTC
 
 **Total Participants:** 2257
 
@@ -133,7 +133,7 @@
 | 125 | 702 | lil mickey |
 | 126 | 699 | cc |
 | 127 | 696 | Carrie Smith |
-| 128 | 689 | Giddy Cascade |
+| 128 | 693 | Giddy Cascade |
 | 129 | 683 | Oscar Zamora |
 | 130 | 681 | Virginia Gray Floyd |
 | 131 | 676 | Snappy Matcher |
@@ -153,9 +153,9 @@
 | 145 | 647 | Theo Pinnow |
 | 146 | 641 | Tanya Carpenter-Reynolds |
 | 147 | 640 | Adrian Esteban |
-| 148 | 636 | Chuck Gannon |
-| 149 | 628 | Trina Gee |
-| 150 | 628 | femmefatale |
+| 148 | 638 | femmefatale |
+| 149 | 636 | Chuck Gannon |
+| 150 | 628 | Trina Gee |
 | 151 | 626 | Snippy Wipebuilder |
 | 152 | 626 | Damon J. Martin |
 | 153 | 624 | Tiger Lily |
@@ -185,10 +185,10 @@
 | 177 | 560 | Speedy Liney |
 | 178 | 555 | Loony Fitzone |
 | 179 | 552 | Constance Risner |
-| 180 | 548 | Luciano Moreira |
-| 181 | 548 | Stephanie Zahn |
-| 182 | 548 | Ly Phethmany |
-| 183 | 547 | .running. |
+| 180 | 551 | .running. |
+| 181 | 548 | Luciano Moreira |
+| 182 | 548 | Stephanie Zahn |
+| 183 | 548 | Ly Phethmany |
 | 184 | 547 | Sharon Reynolds |
 | 185 | 544 | Sean Stallings |
 | 186 | 543 | Nicole Roseberry Weber |
