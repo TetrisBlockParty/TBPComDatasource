@@ -169,8 +169,8 @@
 | 161 | 928 | Edwin Calvillo Jr. |
 | 162 | 927 | Rochelle Hazelett |
 | 163 | 925 | Cherry Parker |
-| 164 | 914 | BadManSheLove |
-| 165 | 914 | Staci George Fitzsimmons |
+| 164 | 914 | Staci George Fitzsimmons |
+| 165 | 914 | BadManSheLove |
 | 166 | 910 | opf |
 | 167 | 906 | Patti Skiles |
 | 168 | 899 | Jaime Monhaut-Reed |
@@ -182,15 +182,15 @@
 | 174 | 876 | Kiki |
 | 175 | 875 | Chasity |
 | 176 | 874 | Jessica Pineda-Lopez |
-| 177 | 868 | Cranky Gridder |
-| 178 | 868 | Nicole Flippo |
+| 177 | 868 | Nicole Flippo |
+| 178 | 868 | Cranky Gridder |
 | 179 | 866 | Domo Washington |
 | 180 | 862 | Santeria Trece Candles |
 | 181 | 858 | Nicole Myers |
 | 182 | 856 | Dana Winters |
 | 183 | 854 | Speedy Bridger |
-| 184 | 847 | Daring Brickzone |
-| 185 | 847 | Daira Largen |
+| 184 | 847 | Daira Largen |
+| 185 | 847 | Daring Brickzone |
 | 186 | 842 | Alexmac |
 | 187 | 829 | Patricia White |
 | 188 | 827 | Trisha Balmer |
@@ -270,8 +270,8 @@
 | 262 | 637 | Giddy Twistbuilder |
 | 263 | 636 | Salena Whitlock |
 | 264 | 635 | Amber Hughes |
-| 265 | 633 | Jillian Symons |
-| 266 | 633 | Rebecca Funderburk Kirby |
+| 265 | 633 | Rebecca Funderburk Kirby |
+| 266 | 633 | Jillian Symons |
 | 267 | 632 | Rebecca Bailey |
 | 268 | 629 | rnr junky |
 | 269 | 627 | Louise Stacy Sisson |
@@ -340,8 +340,8 @@
 | 332 | 494 | fraulila |
 | 333 | 494 | MCV |
 | 334 | 492 | Tasha Wesson-Torrence |
-| 335 | 490 | Cassandra Bryant |
-| 336 | 490 | TotoCherue |
+| 335 | 490 | TotoCherue |
+| 336 | 490 | Cassandra Bryant |
 | 337 | 489 | Isabel Ocasio |
 | 338 | 488 | Jul |
 | 339 | 487 | MsBee |
@@ -421,8 +421,8 @@
 | 413 | 411 | Eboni Starr |
 | 414 | 411 | Beaudie Stroebel |
 | 415 | 409 | Rich LeBlanc |
-| 416 | 408 | Ashley Muncey |
-| 417 | 408 | Tiffany Ford |
+| 416 | 408 | Tiffany Ford |
+| 417 | 408 | Ashley Muncey |
 | 418 | 407 | Christina Spa |
 | 419 | 406 | Kristen Weese |
 | 420 | 405 | Andrew Thorson |
@@ -1419,8 +1419,8 @@
 | 1411 | 136 | bribri |
 | 1412 | 136 | Twisty Linebuilder |
 | 1413 | 135 | Allison Piccolomini |
-| 1414 | 135 | Happy Buildsnap |
-| 1415 | 135 | Desiree Jenson |
+| 1414 | 135 | Desiree Jenson |
+| 1415 | 135 | Happy Buildsnap |
 | 1416 | 135 | Kathleen Hastad |
 | 1417 | 134 | Zippy bang |
 | 1418 | 134 | biggstan |
@@ -1606,7 +1606,7 @@
 | 1598 | 114 | Barbara Galbreath |
 | 1599 | 114 | Robert Guizzotti |
 | 1600 | 114 | Eva Gregg |
-| 1601 | 114 | Robert Guizzotti |
+| 1601 | 114 | Speedy Rollblock |
 | 1602 | 113 | Selena Paredes |
 | 1603 | 113 | Matt Junkins |
 | 1604 | 113 | Amanda Taber Milson |

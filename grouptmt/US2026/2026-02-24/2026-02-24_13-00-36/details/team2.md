@@ -364,8 +364,8 @@
 | 356 | 1262 | Toni Roberson |
 | 357 | 1261 | Becca Coronado |
 | 358 | 1259 | AkaLefty |
-| 359 | 1257 | Megan Garrick |
-| 360 | 1257 | Megan Ferguson Leone |
+| 359 | 1257 | Megan Ferguson Leone |
+| 360 | 1257 | Megan Garrick |
 | 361 | 1257 | Jackie Lucas |
 | 362 | 1256 | Belle |
 | 363 | 1256 | Phil J. Grombliniak |
@@ -408,8 +408,8 @@
 | 400 | 1172 | Lakeysha Dortch |
 | 401 | 1171 | Loretta Brewer-Gage |
 | 402 | 1170 | Shelley Thornburgh Wright |
-| 403 | 1163 | Caitlin Schmid |
-| 404 | 1163 | Sarah DeHart |
+| 403 | 1163 | Sarah DeHart |
+| 404 | 1163 | Caitlin Schmid |
 | 405 | 1160 | Ashley Guernsey-Martin |
 | 406 | 1158 | Brittany Clark |
 | 407 | 1153 | Spunkysmom |
@@ -495,9 +495,9 @@
 | 487 | 1015 | Elisheva Mizrachi |
 | 488 | 1008 | Barry Britt |
 | 489 | 1003 | Amanda Deitrick |
-| 490 | 1000 | Tonya Lee |
-| 491 | 1000 | Victoria Moore-Smith |
-| 492 | 1000 | Emmmz |
+| 490 | 1000 | Emmmz |
+| 491 | 1000 | Tonya Lee |
+| 492 | 1000 | Victoria Moore-Smith |
 | 493 | 999 | Tansaria Couch-Butler |
 | 494 | 999 | Lola Contreras |
 | 495 | 998 | Dedra Steward |
@@ -879,13 +879,13 @@
 | 871 | 662 | Greenshades00 |
 | 872 | 662 | Casaundra Little-Abeling |
 | 873 | 662 | Belle Mari |
-| 874 | 661 | Chab |
-| 875 | 661 | Kristina Marie Hanna |
+| 874 | 661 | Kristina Marie Hanna |
+| 875 | 661 | Chab |
 | 876 | 660 | Jenna Nance |
 | 877 | 660 | Shelva Richard |
 | 878 | 659 | Rain |
-| 879 | 656 | Synn |
-| 880 | 656 | Emilie Desma |
+| 879 | 656 | Emilie Desma |
+| 880 | 656 | Synn |
 | 881 | 655 | Lively Piecebuilder |
 | 882 | 655 | dionia |
 | 883 | 654 | David Duncan |
