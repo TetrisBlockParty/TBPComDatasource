@@ -68,8 +68,8 @@
 | 60 | 1931 | Denise Nardoni |
 | 61 | 1920 | Trezure Gonzalez |
 | 62 | 1858 | Kristie McFarland |
-| 63 | 1824 | Nate Burnside |
-| 64 | 1824 | Jessica Ann |
+| 63 | 1824 | Jessica Ann |
+| 64 | 1824 | Nate Burnside |
 | 65 | 1804 | Tina Kay |
 | 66 | 1791 | Leah Barnett |
 | 67 | 1776 | Whitney Manuel |
@@ -83,8 +83,8 @@
 | 75 | 1633 | cowboy25469 |
 | 76 | 1625 | Queen Kam |
 | 77 | 1615 | joclisa |
-| 78 | 1566 | Nerdy Riseclear |
-| 79 | 1566 | Marcie Bressler |
+| 78 | 1566 | Marcie Bressler |
+| 79 | 1566 | Nerdy Riseclear |
 | 80 | 1560 | Logan Naccarato |
 | 81 | 1555 | Snappy Glidepiece |
 | 82 | 1518 | Christine Filson |
@@ -126,8 +126,8 @@
 | 118 | 1134 | Melissa Orth Hunter |
 | 119 | 1124 | Stephanie Rice |
 | 120 | 1121 | Corie A. Brinson |
-| 121 | 1114 | Groovy Catcher |
-| 122 | 1114 | Loopy Fallmatch |
+| 121 | 1114 | Loopy Fallmatch |
+| 122 | 1114 | Groovy Catcher |
 | 123 | 1105 | Adrian Marcel Pate |
 | 124 | 1093 | Angela M. Fletcher |
 | 125 | 1091 | Jennifer |
@@ -164,8 +164,8 @@
 | 156 | 936 | Dolores Falco |
 | 157 | 928 | Edwin Calvillo Jr. |
 | 158 | 925 | Cherry Parker |
-| 159 | 914 | BadManSheLove |
-| 160 | 914 | Sarajane Lokan |
+| 159 | 914 | Sarajane Lokan |
+| 160 | 914 | BadManSheLove |
 | 161 | 910 | Staci George Fitzsimmons |
 | 162 | 910 | opf |
 | 163 | 906 | Patti Skiles |
@@ -207,8 +207,8 @@
 | 199 | 785 | Jeni Dow |
 | 200 | 784 | Jone |
 | 201 | 777 | Daryn Elliott |
-| 202 | 774 | ren |
-| 203 | 774 | Twisty Brick LT |
+| 202 | 774 | Twisty Brick LT |
+| 203 | 774 | ren |
 | 204 | 772 | Hasty Cascadefit |
 | 205 | 768 | Cyd061769 |
 | 206 | 766 | Tasha Gillespie |
@@ -231,8 +231,8 @@
 | 223 | 715 | Karon Griffin |
 | 224 | 714 | Jenny Hrndz |
 | 225 | 713 | Stephanie Blkpep Davidson |
-| 226 | 709 | Christine Niles |
-| 227 | 709 | Cynthia Castros-Hampton |
+| 226 | 709 | Cynthia Castros-Hampton |
+| 227 | 709 | Christine Niles |
 | 228 | 708 | Stephanie Bradley |
 | 229 | 704 | Betty Bóò |
 | 230 | 703 | Shawn Miller |
@@ -285,13 +285,13 @@
 | 277 | 598 | Marci Mize Fandrich |
 | 278 | 594 | Cozy Snaplink |
 | 279 | 588 | Salena Whitlock |
-| 280 | 586 | Donna |
-| 281 | 586 | Brian Battjes |
+| 280 | 586 | Brian Battjes |
+| 281 | 586 | Donna |
 | 282 | 582 | FuzzyNavel |
 | 283 | 581 | Crystal Hine |
 | 284 | 578 | James Mitchell |
-| 285 | 574 | Danielle Balcom |
-| 286 | 574 | Rachael McClain Owens |
+| 285 | 574 | Rachael McClain Owens |
+| 286 | 574 | Danielle Balcom |
 | 287 | 572 | Tessina Dewey-Mancino |
 | 288 | 570 | thekey |
 | 289 | 569 | Silly Twist |
@@ -324,8 +324,8 @@
 | 316 | 523 | Ktfreeee |
 | 317 | 518 | Marquita Sheard |
 | 318 | 514 | Nikki White |
-| 319 | 506 | Tiffanie Alley |
-| 320 | 506 | Ammmmmmy |
+| 319 | 506 | Ammmmmmy |
+| 320 | 506 | Tiffanie Alley |
 | 321 | 505 | Stephanie Simpson |
 | 322 | 504 | Daring Builder |
 | 323 | 500 | Ashley Tookes |
@@ -343,8 +343,8 @@
 | 335 | 486 | Sleepy |
 | 336 | 483 | Tegan Chapman |
 | 337 | 482 | Chummy Rumbler |
-| 338 | 480 | TLM |
-| 339 | 480 | Dee Franklin |
+| 338 | 480 | Dee Franklin |
+| 339 | 480 | TLM |
 | 340 | 479 | Charles Perrone |
 | 341 | 476 | Shunta Jacobs |
 | 342 | 474 | Troy |
@@ -410,8 +410,8 @@
 | 402 | 413 | Rick Poppen |
 | 403 | 411 | Beaudie Stroebel |
 | 404 | 409 | Rich LeBlanc |
-| 405 | 408 | Ashley Muncey |
-| 406 | 408 | Tiffany Ford |
+| 405 | 408 | Tiffany Ford |
+| 406 | 408 | Ashley Muncey |
 | 407 | 407 | Christina Spa |
 | 408 | 406 | Kristen Weese |
 | 409 | 405 | Andrew Thorson |
@@ -420,16 +420,16 @@
 | 412 | 404 | Giggy Balanceblock |
 | 413 | 403 | Scott Lindsay |
 | 414 | 403 | keni |
-| 415 | 401 | block chick |
-| 416 | 401 | Velma Mull |
+| 415 | 401 | Velma Mull |
+| 416 | 401 | block chick |
 | 417 | 400 | Joy Petroski |
 | 418 | 398 | Breezy Roll |
 | 419 | 397 | Kevin Russell |
 | 420 | 394 | Jalissa Monique |
 | 421 | 392 | Linda Draper |
 | 422 | 392 | Michelle Allers |
-| 423 | 391 | gremicx |
-| 424 | 391 | Rebel124 |
+| 423 | 391 | Rebel124 |
+| 424 | 391 | gremicx |
 | 425 | 390 | ROODBOY |
 | 426 | 389 | Amanda J. Mcneil-Anderson |
 | 427 | 389 | Kirhonda Autmon |
@@ -445,8 +445,8 @@
 | 437 | 380 | neci |
 | 438 | 380 | Foltz Lee Kelli |
 | 439 | 379 | Krish Shah |
-| 440 | 378 | Ashley Lynn Marchese |
-| 441 | 378 | Samantha Worley |
+| 440 | 378 | Samantha Worley |
+| 441 | 378 | Ashley Lynn Marchese |
 | 442 | 377 | Paula Little |
 | 443 | 376 | Tracy Martin |
 | 444 | 376 | Brittany |
@@ -601,9 +601,9 @@
 | 593 | 308 | Grams |
 | 594 | 308 | Danetta McCadden |
 | 595 | 307 | Kristina Gardner |
-| 596 | 306 | BigE |
-| 597 | 306 | Valerie Tarkington |
-| 598 | 306 | Alexis Ford |
+| 596 | 306 | Valerie Tarkington |
+| 597 | 306 | Alexis Ford |
+| 598 | 306 | BigE |
 | 599 | 305 | Frisky Stacker |
 | 600 | 304 | Julie Peters Fancher |
 | 601 | 304 | _melisa223_ |
