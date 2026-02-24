@@ -68,8 +68,8 @@
 | 60 | 1931 | Denise Nardoni |
 | 61 | 1920 | Trezure Gonzalez |
 | 62 | 1858 | Kristie McFarland |
-| 63 | 1824 | Jessica Ann |
-| 64 | 1824 | Nate Burnside |
+| 63 | 1824 | Nate Burnside |
+| 64 | 1824 | Jessica Ann |
 | 65 | 1804 | Tina Kay |
 | 66 | 1791 | Leah Barnett |
 | 67 | 1776 | Whitney Manuel |
@@ -83,8 +83,8 @@
 | 75 | 1633 | cowboy25469 |
 | 76 | 1625 | Queen Kam |
 | 77 | 1615 | joclisa |
-| 78 | 1566 | Marcie Bressler |
-| 79 | 1566 | Nerdy Riseclear |
+| 78 | 1566 | Nerdy Riseclear |
+| 79 | 1566 | Marcie Bressler |
 | 80 | 1560 | Logan Naccarato |
 | 81 | 1555 | Snappy Glidepiece |
 | 82 | 1518 | Christine Filson |
@@ -126,8 +126,8 @@
 | 118 | 1134 | Melissa Orth Hunter |
 | 119 | 1124 | Stephanie Rice |
 | 120 | 1121 | Corie A. Brinson |
-| 121 | 1114 | Loopy Fallmatch |
-| 122 | 1114 | Groovy Catcher |
+| 121 | 1114 | Groovy Catcher |
+| 122 | 1114 | Loopy Fallmatch |
 | 123 | 1105 | Adrian Marcel Pate |
 | 124 | 1093 | Angela M. Fletcher |
 | 125 | 1091 | Jennifer |
@@ -159,8 +159,8 @@
 | 151 | 950 | Giddy Drop |
 | 152 | 950 | MissTaylor |
 | 153 | 947 | Kellie Montgomery |
-| 154 | 940 | Patty Allen |
-| 155 | 940 | Stephanie Allmon |
+| 154 | 940 | Stephanie Allmon |
+| 155 | 940 | Patty Allen |
 | 156 | 936 | Dolores Falco |
 | 157 | 928 | Edwin Calvillo Jr. |
 | 158 | 925 | Cherry Parker |
@@ -184,8 +184,8 @@
 | 176 | 857 | Dana Fox |
 | 177 | 856 | Dana Winters |
 | 178 | 854 | Speedy Bridger |
-| 179 | 847 | Daring Brickzone |
-| 180 | 847 | Daira Largen |
+| 179 | 847 | Daira Largen |
+| 180 | 847 | Daring Brickzone |
 | 181 | 846 | Nicole Myers |
 | 182 | 842 | Alexmac |
 | 183 | 829 | Patricia White |
@@ -217,8 +217,8 @@
 | 209 | 760 | Kiki |
 | 210 | 759 | Mykal Burton |
 | 211 | 757 | Fancy Cascader |
-| 212 | 755 | Colton |
-| 213 | 755 | Laura Booth Wosko |
+| 212 | 755 | Laura Booth Wosko |
+| 213 | 755 | Colton |
 | 214 | 754 | CeceGeGe |
 | 215 | 753 | Morgan Martinez |
 | 216 | 752 | Joye Sims Binion |
@@ -264,8 +264,8 @@
 | 256 | 632 | Rebecca Bailey |
 | 257 | 630 | Jackie Miller |
 | 258 | 629 | rnr junky |
-| 259 | 627 | Louise Stacy Sisson |
-| 260 | 627 | Juliana Dottore |
+| 259 | 627 | Juliana Dottore |
+| 260 | 627 | Louise Stacy Sisson |
 | 261 | 626 | Cheryl Hinch Tenbrook |
 | 262 | 626 | Tamara Deherrera |
 | 263 | 625 | Jacqueline Rodriguez |
@@ -275,11 +275,11 @@
 | 267 | 618 | Kaitie Oliver |
 | 268 | 606 | Connie Mohler-Fair |
 | 269 | 605 | Sarah Cowan Burgos |
-| 270 | 604 | Bmo |
-| 271 | 604 | Sherry Ogden |
+| 270 | 604 | Sherry Ogden |
+| 271 | 604 | Bmo |
 | 272 | 601 | Betty Rosas |
-| 273 | 600 | Natasha Jones |
-| 274 | 600 | Rynne Ellis |
+| 273 | 600 | Rynne Ellis |
+| 274 | 600 | Natasha Jones |
 | 275 | 599 | Noyb Adam |
 | 276 | 598 | Kaycee Kay |
 | 277 | 594 | Cozy Snaplink |
@@ -310,8 +310,8 @@
 | 302 | 547 | Aerian Preston |
 | 303 | 542 | France Vézina |
 | 304 | 541 | Mcathen |
-| 305 | 540 | Tanya Kittrell |
-| 306 | 540 | rosy |
+| 305 | 540 | rosy |
+| 306 | 540 | Tanya Kittrell |
 | 307 | 539 | Fancy Curver |
 | 308 | 539 | Kate M. Murdock |
 | 309 | 538 | Chummy Caster |
@@ -324,16 +324,16 @@
 | 316 | 523 | Ktfreeee |
 | 317 | 518 | Marquita Sheard |
 | 318 | 514 | Nikki White |
-| 319 | 506 | Ammmmmmy |
-| 320 | 506 | Tiffanie Alley |
+| 319 | 506 | Tiffanie Alley |
+| 320 | 506 | Ammmmmmy |
 | 321 | 505 | Stephanie Simpson |
 | 322 | 504 | Daring Builder |
 | 323 | 500 | Ashley Tookes |
 | 324 | 499 | Gumbo |
 | 325 | 499 | Megan Rathmanner |
 | 326 | 496 | Brenda Schmid Wood |
-| 327 | 494 | fraulila |
-| 328 | 494 | MCV |
+| 327 | 494 | MCV |
+| 328 | 494 | fraulila |
 | 329 | 492 | Tasha Wesson-Torrence |
 | 330 | 490 | Cassandra Bryant |
 | 331 | 489 | Isabel Ocasio |

@@ -73,8 +73,8 @@
 | 65 | 1119 | Amelpss |
 | 66 | 1109 | BertMofo |
 | 67 | 1089 | Alyssa Papen |
-| 68 | 1082 | Dion Crommarty |
-| 69 | 1082 | Avy Absol |
+| 68 | 1082 | Avy Absol |
+| 69 | 1082 | Dion Crommarty |
 | 70 | 1081 | Dustee Craddock-Harrison |
 | 71 | 1080 | Chilly Line |
 | 72 | 1069 | Heather Tushner |
@@ -135,11 +135,11 @@
 | 127 | 726 | Jamie Gustafson |
 | 128 | 725 | Brandon Crabbs |
 | 129 | 719 | George Nutt |
-| 130 | 712 | H.R. Block |
-| 131 | 712 | Leslie Nicole |
+| 130 | 712 | Leslie Nicole |
+| 131 | 712 | H.R. Block |
 | 132 | 708 | Jacqueline Helm |
-| 133 | 704 | Chilly Crasher |
-| 134 | 704 | Austin Owens |
+| 133 | 704 | Austin Owens |
+| 134 | 704 | Chilly Crasher |
 | 135 | 682 | Raegan Lane-Ross |
 | 136 | 677 | Carmethia Clemons Haslerig |
 | 137 | 668 | Desi Desporte |
@@ -169,8 +169,8 @@
 | 161 | 602 | Cristy Duerksen |
 | 162 | 595 | TRCuse |
 | 163 | 587 | YoMomma |
-| 164 | 586 | Carlos Ramirez |
-| 165 | 586 | Latisha Davis |
+| 164 | 586 | Latisha Davis |
+| 165 | 586 | Carlos Ramirez |
 | 166 | 585 | Tracey Lehmann |
 | 167 | 584 | Carlton Unfiltered |
 | 168 | 576 | Jade Rian |
@@ -213,8 +213,8 @@
 | 205 | 509 | Mimi |
 | 206 | 507 | Andria Lynn |
 | 207 | 504 | Deanna Deckard |
-| 208 | 502 | Ericca Eldridge |
-| 209 | 502 | Christina Black |
+| 208 | 502 | Christina Black |
+| 209 | 502 | Ericca Eldridge |
 | 210 | 501 | Sharyn Lemire |
 | 211 | 499 | Kesha Brady |
 | 212 | 499 | DonMega |
@@ -229,8 +229,8 @@
 | 221 | 481 | Joanna |
 | 222 | 479 | June Hoffman |
 | 223 | 475 | Silly Zonebuilder |
-| 224 | 473 | Jolly Dashfit |
-| 225 | 473 | Cranky Rollpiece |
+| 224 | 473 | Cranky Rollpiece |
+| 225 | 473 | Jolly Dashfit |
 | 226 | 472 | Plucky Patternblock |
 | 227 | 465 | Leslie Thomas |
 | 228 | 464 | Calvin Cannon |
@@ -247,8 +247,8 @@
 | 239 | 454 | Keshia Lyons |
 | 240 | 450 | Genne Scott |
 | 241 | 449 | Danielle Kollias |
-| 242 | 448 | Mr. Party |
-| 243 | 448 | Mike Solo |
+| 242 | 448 | Mike Solo |
+| 243 | 448 | Mr. Party |
 | 244 | 447 | Jen Mattei |
 | 245 | 444 | Selena Shaw |
 | 246 | 442 | John Brunetti |
@@ -279,19 +279,19 @@
 | 271 | 407 | Hyper Builder |
 | 272 | 407 | Rafael Valentin |
 | 273 | 402 | Nita Wells |
-| 274 | 399 | Brittany Little |
-| 275 | 399 | Twisty Cascadezone |
+| 274 | 399 | Twisty Cascadezone |
+| 275 | 399 | Brittany Little |
 | 276 | 398 | Tyler Terrific |
 | 277 | 397 | blockstar |
-| 278 | 395 | Denise B |
-| 279 | 395 | BigSammy420 |
+| 278 | 395 | BigSammy420 |
+| 279 | 395 | Denise B |
 | 280 | 394 | Nikki Rae Gordon |
 | 281 | 393 | Montiette Mcglown |
 | 282 | 392 | Neirrah B Olailjeel |
 | 283 | 391 | mike |
 | 284 | 390 | Ari Droff |
-| 285 | 387 | Backoff Recupe |
-| 286 | 387 | Sandra Safford |
+| 285 | 387 | Sandra Safford |
+| 286 | 387 | Backoff Recupe |
 | 287 | 386 | Vic |
 | 288 | 382 | Sue Joyce Staats |
 | 289 | 380 | Jen Caldwell |
@@ -305,8 +305,8 @@
 | 297 | 375 | George Tzouganos |
 | 298 | 373 | Russ Attitude |
 | 299 | 371 | Jessi Cinotto |
-| 300 | 370 | Twisty Risebuilder |
-| 301 | 370 | Kris Bartlett |
+| 300 | 370 | Kris Bartlett |
+| 301 | 370 | Twisty Risebuilder |
 | 302 | 368 | Dan Wold |
 | 303 | 367 | Meg |
 | 304 | 364 | Lora |
@@ -318,8 +318,8 @@
 | 310 | 354 | Perky Piecegrid |
 | 311 | 354 | @ |
 | 312 | 352 | Kate |
-| 313 | 351 | Jackie Clark |
-| 314 | 351 | Dana Scott |
+| 313 | 351 | Dana Scott |
+| 314 | 351 | Jackie Clark |
 | 315 | 350 | Dizzy Matchzone |
 | 316 | 349 | jim |
 | 317 | 349 | Richard-April Kice |
