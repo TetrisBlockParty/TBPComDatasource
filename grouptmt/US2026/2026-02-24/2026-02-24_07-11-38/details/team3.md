@@ -155,10 +155,10 @@
 | 147 | 966 | Sashay Tapae Simpson |
 | 148 | 963 | Crystal Frey |
 | 149 | 961 | Danielle Allison |
-| 150 | 950 | Giddy Drop |
-| 151 | 950 | MissTaylor |
-| 152 | 940 | Patty Allen |
-| 153 | 940 | Stephanie Allmon |
+| 150 | 950 | MissTaylor |
+| 151 | 950 | Giddy Drop |
+| 152 | 940 | Stephanie Allmon |
+| 153 | 940 | Patty Allen |
 | 154 | 936 | Dolores Falco |
 | 155 | 925 | Cherry Parker |
 | 156 | 914 | Sarajane Lokan |
@@ -252,8 +252,8 @@
 | 244 | 633 | Jillian Symons |
 | 245 | 630 | Jackie Miller |
 | 246 | 629 | rnr junky |
-| 247 | 627 | Louise Stacy Sisson |
-| 248 | 627 | Juliana Dottore |
+| 247 | 627 | Juliana Dottore |
+| 248 | 627 | Louise Stacy Sisson |
 | 249 | 625 | Jacqueline Rodriguez |
 | 250 | 624 | Hyper Matchzone |
 | 251 | 623 | Rebecca Funderburk Kirby |
@@ -285,8 +285,8 @@
 | 277 | 574 | Fallorina Susana |
 | 278 | 572 | Tessina Dewey-Mancino |
 | 279 | 570 | thekey |
-| 280 | 569 | Silly Twist |
-| 281 | 569 | Michael Johnson |
+| 280 | 569 | Michael Johnson |
+| 281 | 569 | Silly Twist |
 | 282 | 566 | Eileen Brady Thurber |
 | 283 | 565 | Michael Lucado |
 | 284 | 564 | Micayah Stevens |
@@ -334,8 +334,8 @@
 | 326 | 490 | Cassandra Bryant |
 | 327 | 489 | Isabel Ocasio |
 | 328 | 487 | MsBee |
-| 329 | 486 | Sleepy |
-| 330 | 486 | Skippy |
+| 329 | 486 | Skippy |
+| 330 | 486 | Sleepy |
 | 331 | 482 | Chummy Rumbler |
 | 332 | 481 | Tiffanie Alley |
 | 333 | 480 | TLM |
@@ -390,8 +390,8 @@
 | 382 | 426 | Christina Rotz Shows |
 | 383 | 425 | Ava Petito |
 | 384 | 423 | Dapper Liney |
-| 385 | 419 | Desiree Gold |
-| 386 | 419 | Philip Rock |
+| 385 | 419 | Philip Rock |
+| 386 | 419 | Desiree Gold |
 | 387 | 419 | Maggie |
 | 388 | 418 | Rainbow77375 |
 | 389 | 416 | Tay |
@@ -465,8 +465,8 @@
 | 457 | 358 | Taylor Culver |
 | 458 | 358 | Beejangles |
 | 459 | 357 | Hoài Quắt |
-| 460 | 356 | Trice Sodames |
-| 461 | 356 | Christy Quick |
+| 460 | 356 | Christy Quick |
+| 461 | 356 | Trice Sodames |
 | 462 | 355 | Kevin Russell |
 | 463 | 354 | Norma JulieMay |
 | 464 | 354 | Jana Polk |

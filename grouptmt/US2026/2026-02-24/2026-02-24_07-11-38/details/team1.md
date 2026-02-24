@@ -100,8 +100,8 @@
 | 92 | 884 | Sevens4L |
 | 93 | 883 | Jennifer ManWarren |
 | 94 | 863 | Madison Wicks |
-| 95 | 860 | Tinah Montanna |
-| 96 | 860 | Rachael |
+| 95 | 860 | Rachael |
+| 96 | 860 | Tinah Montanna |
 | 97 | 811 | Amanda Johnson Huffman |
 | 98 | 805 | Robert Benito |
 | 99 | 800 | Desiree Deschaine Havee |
@@ -115,8 +115,8 @@
 | 107 | 768 | Jazzy Framezone |
 | 108 | 761 | Karin Gillen |
 | 109 | 751 | Kellie |
-| 110 | 725 | Debbie Kane |
-| 111 | 725 | Phu ckalldems |
+| 110 | 725 | Phu ckalldems |
+| 111 | 725 | Debbie Kane |
 | 112 | 719 | Bindi |
 | 113 | 716 | Kristi Johnson |
 | 114 | 706 | Denice Dee |
@@ -197,8 +197,8 @@
 | 189 | 496 | Sarah Somers Gray |
 | 190 | 496 | Michelle Beres |
 | 191 | 495 | Connie |
-| 192 | 494 | Sean Stallings |
-| 193 | 494 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
+| 192 | 494 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
+| 193 | 494 | Sean Stallings |
 | 194 | 492 | Happy Snapbuild |
 | 195 | 489 | Speedy Liney |
 | 196 | 488 | Jessie Welch |
@@ -220,7 +220,7 @@
 | 212 | 453 | Kimmie Kimms |
 | 213 | 449 | Tawnya Peltonen |
 | 214 | 448 | Yvonne Marie |
-| 215 | 446 | Adele Rahman |
+| 215 | 446 | SkipTheSadSauce |
 | 216 | 446 | Spencer Lent |
 | 217 | 446 | Adele Rahman |
 | 218 | 444 | Tamara Brown |
@@ -254,18 +254,18 @@
 | 246 | 410 | Paula Martin |
 | 247 | 409 | Lehrin Maria |
 | 248 | 405 | Tyler L Hunt |
-| 249 | 403 | Alenoush Karimian |
-| 250 | 403 | Tami Luce Martin |
+| 249 | 403 | Tami Luce Martin |
+| 250 | 403 | Alenoush Karimian |
 | 251 | 399 | Lakeisha Chapman |
 | 252 | 399 | Jen Nystrom |
-| 253 | 398 | Cece Ibarra |
-| 254 | 398 | MommaKFC |
+| 253 | 398 | MommaKFC |
+| 254 | 398 | Cece Ibarra |
 | 255 | 396 | Sam Williams |
 | 256 | 396 | Monica Donato |
 | 257 | 394 | Nick R Montague |
 | 258 | 393 | Wisa |
-| 259 | 392 | Renee Tucker |
-| 260 | 392 | Poppy Riserpiece |
+| 259 | 392 | Poppy Riserpiece |
+| 260 | 392 | Renee Tucker |
 | 261 | 391 | Happy Basegrid |
 | 262 | 390 | David Lutcher |
 | 263 | 386 | Melissa Bires Hussar |

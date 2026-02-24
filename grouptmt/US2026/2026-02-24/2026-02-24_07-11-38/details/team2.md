@@ -333,8 +333,8 @@
 | 325 | 1304 | Sarah Ridenour |
 | 326 | 1303 | Michele Morgan |
 | 327 | 1301 | Mandy Cekine |
-| 328 | 1300 | Snappy Matchbuilder |
-| 329 | 1300 | Shinel Richardson |
+| 328 | 1300 | Shinel Richardson |
+| 329 | 1300 | Snappy Matchbuilder |
 | 330 | 1300 | Tacara Cummings |
 | 331 | 1295 | Jess Morrison |
 | 332 | 1292 | Joshua Mandel |
@@ -808,8 +808,8 @@
 | 800 | 677 | Blacc Blac |
 | 801 | 677 | Kayleigh Wisse |
 | 802 | 676 | Fancy Shiftsnap |
-| 803 | 675 | Ryan Chan |
-| 804 | 675 | Katelynn Hollen |
+| 803 | 675 | Katelynn Hollen |
+| 804 | 675 | Ryan Chan |
 | 805 | 675 | Fi Ne |
 | 806 | 672 | Shavonna Haynes |
 | 807 | 672 | Abimbola Bimbo |

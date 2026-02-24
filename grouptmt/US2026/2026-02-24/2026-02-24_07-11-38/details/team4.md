@@ -142,8 +142,8 @@
 | 134 | 668 | Desi Desporte |
 | 135 | 667 | Matt Gooder |
 | 136 | 667 | Lindsey Gonzalez |
-| 137 | 662 | George Nutt |
-| 138 | 662 | Nerdy Twisterfit |
+| 137 | 662 | Nerdy Twisterfit |
+| 138 | 662 | George Nutt |
 | 139 | 661 | Rodney McMath Jr. |
 | 140 | 651 | Adawna Swires |
 | 141 | 650 | Chris Hartig |
@@ -225,8 +225,8 @@
 | 217 | 482 | Laura |
 | 218 | 481 | Joanna |
 | 219 | 475 | Silly Zonebuilder |
-| 220 | 473 | Jolly Dashfit |
-| 221 | 473 | Cranky Rollpiece |
+| 220 | 473 | Cranky Rollpiece |
+| 221 | 473 | Jolly Dashfit |
 | 222 | 468 | June Hoffman |
 | 223 | 465 | Leslie Thomas |
 | 224 | 464 | Zakia Monae |
@@ -255,8 +255,8 @@
 | 247 | 432 | scott |
 | 248 | 432 | Plucky Patternblock |
 | 249 | 430 | Chris Bernstein |
-| 250 | 427 | Cheery Risebuilder |
-| 251 | 427 | Chao Ma |
+| 250 | 427 | Chao Ma |
+| 251 | 427 | Cheery Risebuilder |
 | 252 | 424 | Andrew Dang |
 | 253 | 423 | Gdiguy |
 | 254 | 421 | Brickh4us |
@@ -299,8 +299,8 @@
 | 291 | 375 | George Tzouganos |
 | 292 | 373 | Russ Attitude |
 | 293 | 371 | Jessi Cinotto |
-| 294 | 370 | Twisty Risebuilder |
-| 295 | 370 | Kris Bartlett |
+| 294 | 370 | Kris Bartlett |
+| 295 | 370 | Twisty Risebuilder |
 | 296 | 367 | Meg |
 | 297 | 365 | David Lay |
 | 298 | 364 | Lora |
