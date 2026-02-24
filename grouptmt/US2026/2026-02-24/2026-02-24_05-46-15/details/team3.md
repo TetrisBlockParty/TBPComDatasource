@@ -80,8 +80,8 @@
 | 72 | 1646 | Gracie |
 | 73 | 1633 | cowboy25469 |
 | 74 | 1620 | Queen Kam |
-| 75 | 1566 | Marcie Bressler |
-| 76 | 1566 | Nerdy Riseclear |
+| 75 | 1566 | Nerdy Riseclear |
+| 76 | 1566 | Marcie Bressler |
 | 77 | 1560 | Logan Naccarato |
 | 78 | 1555 | Snappy Glidepiece |
 | 79 | 1552 | joclisa |
@@ -171,8 +171,8 @@
 | 163 | 875 | Chasity |
 | 164 | 874 | Jessica Pineda-Lopez |
 | 165 | 871 | Rochelle Hazelett |
-| 166 | 868 | Cranky Gridder |
-| 167 | 868 | Nicole Flippo |
+| 166 | 868 | Nicole Flippo |
+| 167 | 868 | Cranky Gridder |
 | 168 | 864 | Sunny Rotater |
 | 169 | 862 | Santeria Trece Candles |
 | 170 | 859 | Domo Washington |
@@ -207,8 +207,8 @@
 | 199 | 760 | Kiki |
 | 200 | 759 | Mykal Burton |
 | 201 | 757 | Fancy Cascader |
-| 202 | 755 | Alexmac |
-| 203 | 755 | Laura Booth Wosko |
+| 202 | 755 | Laura Booth Wosko |
+| 203 | 755 | Alexmac |
 | 204 | 753 | Morgan Martinez |
 | 205 | 750 | Michael Nowogorski |
 | 206 | 746 | Joye Sims Binion |
@@ -267,8 +267,8 @@
 | 259 | 598 | Kaycee Kay |
 | 260 | 594 | Cozy Snaplink |
 | 261 | 588 | Salena Whitlock |
-| 262 | 586 | Brian Battjes |
-| 263 | 586 | Donna |
+| 262 | 586 | Donna |
+| 263 | 586 | Brian Battjes |
 | 264 | 582 | FuzzyNavel |
 | 265 | 578 | James Mitchell |
 | 266 | 574 | Rachael McClain Owens |
@@ -312,8 +312,8 @@
 | 304 | 518 | Marquita Sheard |
 | 305 | 517 | PrncssPJ |
 | 306 | 514 | Nikki White |
-| 307 | 508 | joz |
-| 308 | 508 | Colton |
+| 307 | 508 | Colton |
+| 308 | 508 | joz |
 | 309 | 506 | Ammmmmmy |
 | 310 | 505 | Stephanie Simpson |
 | 311 | 500 | Ashley Tookes |
@@ -410,8 +410,8 @@
 | 402 | 397 | Hasty Gridpiece |
 | 403 | 393 | keni |
 | 404 | 393 | Kristen Weese |
-| 405 | 392 | Michelle Allers |
-| 406 | 392 | Linda Draper |
+| 405 | 392 | Linda Draper |
+| 406 | 392 | Michelle Allers |
 | 407 | 391 | Rebel124 |
 | 408 | 391 | gremicx |
 | 409 | 389 | ROODBOY |

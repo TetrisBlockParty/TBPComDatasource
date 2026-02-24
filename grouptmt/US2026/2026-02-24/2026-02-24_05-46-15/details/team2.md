@@ -363,8 +363,8 @@
 | 355 | 1218 | LaKisha Anderson |
 | 356 | 1217 | Brooks Brooks |
 | 357 | 1216 | Pacynthia Williams |
-| 358 | 1215 | Toni Roberson |
-| 359 | 1215 | Hyper Cluster |
+| 358 | 1215 | Hyper Cluster |
+| 359 | 1215 | Toni Roberson |
 | 360 | 1214 | David Cudicio-Hayden |
 | 361 | 1211 | Cynthia Ward |
 | 362 | 1210 | Amber Gray |

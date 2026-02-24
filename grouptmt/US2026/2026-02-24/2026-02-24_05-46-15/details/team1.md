@@ -108,8 +108,8 @@
 | 100 | 773 | Susanna Guerry |
 | 101 | 772 | Kathy Langham |
 | 102 | 770 | Zappy Curvetile |
-| 103 | 769 | Angel Fowler |
-| 104 | 769 | Robert Benito |
+| 103 | 769 | Robert Benito |
+| 104 | 769 | Angel Fowler |
 | 105 | 768 | Jazzy Framezone |
 | 106 | 756 | Cartier |
 | 107 | 751 | Kellie |
@@ -171,8 +171,8 @@
 | 163 | 543 | Adrian Esteban |
 | 164 | 540 | Tonya Beasley |
 | 165 | 538 | .running. |
-| 166 | 537 | Stephanie Zahn |
-| 167 | 537 | BadG52 |
+| 166 | 537 | BadG52 |
+| 167 | 537 | Stephanie Zahn |
 | 168 | 535 | Plucky Ziggy |
 | 169 | 529 | Νεφ Όνυξ |
 | 170 | 528 | ALFD |
@@ -188,8 +188,8 @@
 | 180 | 510 | Rat666 |
 | 181 | 508 | Hyper |
 | 182 | 500 | Jennifer Hardman |
-| 183 | 497 | MIKOZ |
-| 184 | 497 | Steve Schneider |
+| 183 | 497 | Steve Schneider |
+| 184 | 497 | MIKOZ |
 | 185 | 496 | Sarah Somers Gray |
 | 186 | 496 | Michelle Beres |
 | 187 | 494 | Sean Stallings |
@@ -197,8 +197,8 @@
 | 189 | 492 | Happy Snapbuild |
 | 190 | 492 | Rebekah LeiAnn Bonsell |
 | 191 | 489 | Speedy Liney |
-| 192 | 488 | Jessie Welch |
-| 193 | 488 | Ly Phethmany |
+| 192 | 488 | Ly Phethmany |
+| 193 | 488 | Jessie Welch |
 | 194 | 487 | Eric DeSimone |
 | 195 | 480 | Connie |
 | 196 | 479 | canbrick |
@@ -267,8 +267,8 @@
 | 259 | 383 | pjbeta |
 | 260 | 383 | Margo Wagner |
 | 261 | 382 | Jamie Jury |
-| 262 | 380 | Snippy Wipebuilder |
-| 263 | 380 | Renee Tucker |
+| 262 | 380 | Renee Tucker |
+| 263 | 380 | Snippy Wipebuilder |
 | 264 | 379 | Austin James |
 | 265 | 378 | Eddie Dillon |
 | 266 | 377 | Rayline M Bradshaw |

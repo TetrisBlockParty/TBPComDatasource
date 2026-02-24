@@ -70,8 +70,8 @@
 | 62 | 1106 | BertMofo |
 | 63 | 1094 | Shelly Chandler |
 | 64 | 1089 | Alyssa Papen |
-| 65 | 1082 | Dion Crommarty |
-| 66 | 1082 | Avy Absol |
+| 65 | 1082 | Avy Absol |
+| 66 | 1082 | Dion Crommarty |
 | 67 | 1075 | Dustee Craddock-Harrison |
 | 68 | 1069 | Heather Tushner |
 | 69 | 1055 | Julian Garcia |
@@ -240,8 +240,8 @@
 | 232 | 444 | Selena Shaw |
 | 233 | 442 | John Brunetti |
 | 234 | 441 | Lush Linkfall |
-| 235 | 438 | 23 |
-| 236 | 438 | Melvin Baird |
+| 235 | 438 | Melvin Baird |
+| 236 | 438 | 23 |
 | 237 | 434 | Ramel Rhodes |
 | 238 | 433 | Circuit8 |
 | 239 | 433 | Damn Libra |
@@ -313,8 +313,8 @@
 | 305 | 347 | Daria Rycewicz |
 | 306 | 347 | Megan Cutshaw |
 | 307 | 346 | Metsfan |
-| 308 | 344 | Amanda Maciel Clarke |
-| 309 | 344 | Tracey Lehmann |
+| 308 | 344 | Tracey Lehmann |
+| 309 | 344 | Amanda Maciel Clarke |
 | 310 | 343 | HastyGrabber |
 | 311 | 343 | Perky Piecegrid |
 | 312 | 343 | Blessedmama |
@@ -548,7 +548,7 @@
 | 540 | 212 | Karen Lambert |
 | 541 | 211 | Frances Hui |
 | 542 | 211 | Sunny Filler |
-| 543 | 211 | Frances Hui |
+| 543 | 211 | Neil Ingham |
 | 544 | 210 | Wacky Blockclear |
 | 545 | 210 | SammieJo Guy |
 | 546 | 209 | Matthew Pate |
