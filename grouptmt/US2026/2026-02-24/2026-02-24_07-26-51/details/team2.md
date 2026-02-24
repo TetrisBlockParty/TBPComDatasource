@@ -251,8 +251,8 @@
 | 243 | 1613 | blackq |
 | 244 | 1610 | Ray Ray Prado |
 | 245 | 1609 | Ryan Stadel |
-| 246 | 1600 | Mo Shine On |
-| 247 | 1600 | Jojo Momma |
+| 246 | 1600 | Jojo Momma |
+| 247 | 1600 | Mo Shine On |
 | 248 | 1596 | Christine Egidio Morocco |
 | 249 | 1592 | Dolores Russworn |
 | 250 | 1581 | Tommy Tha Boss Gunz |
@@ -581,8 +581,8 @@
 | 573 | 854 | Dawn L Washington-Feuquay |
 | 574 | 854 | Gold Rose |
 | 575 | 852 | Polly Pritchard Chesler |
-| 576 | 852 | Catherine Marsh Gruda |
-| 577 | 852 | Alexandra Lynn |
+| 576 | 852 | Alexandra Lynn |
+| 577 | 852 | Catherine Marsh Gruda |
 | 578 | 851 | Melissa Schulz |
 | 579 | 851 | James Louie |
 | 580 | 850 | Sabrina Burton |
@@ -938,8 +938,8 @@
 | 930 | 609 | Michael Artis |
 | 931 | 607 | Dizzy Zone |
 | 932 | 607 | Slip |
-| 933 | 606 | Ebony Deloach Bryant |
-| 934 | 606 | Stanislav Petkov |
+| 933 | 606 | Stanislav Petkov |
+| 934 | 606 | Ebony Deloach Bryant |
 | 935 | 606 | cel505♡ |
 | 936 | 605 | Saucy Fitzone |
 | 937 | 605 | Tipsy Filler |
@@ -1066,8 +1066,8 @@
 | 1058 | 550 | Tristan Snowden |
 | 1059 | 549 | Ashley Collins |
 | 1060 | 549 | DLOCC1056 |
-| 1061 | 548 | Synn |
-| 1062 | 548 | Shiny Snapmatch |
+| 1061 | 548 | Shiny Snapmatch |
+| 1062 | 548 | Synn |
 | 1063 | 546 | Drew Berkelbach |
 | 1064 | 545 | Street Sweeper |
 | 1065 | 544 | A Rainbolt |
@@ -1137,8 +1137,8 @@
 | 1129 | 520 | kcakes |
 | 1130 | 519 | Rob Brown |
 | 1131 | 519 | Ashley Robbins |
-| 1132 | 519 | Bing |
-| 1133 | 519 | gNiK |
+| 1132 | 519 | gNiK |
+| 1133 | 519 | Bing |
 | 1134 | 519 | Abby Jensen |
 | 1135 | 517 | Meganator42 |
 | 1136 | 516 | Nikki Arlene |

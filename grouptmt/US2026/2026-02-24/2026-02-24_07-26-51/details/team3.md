@@ -82,8 +82,8 @@
 | 74 | 1633 | cowboy25469 |
 | 75 | 1625 | Queen Kam |
 | 76 | 1615 | joclisa |
-| 77 | 1566 | Nerdy Riseclear |
-| 78 | 1566 | Marcie Bressler |
+| 77 | 1566 | Marcie Bressler |
+| 78 | 1566 | Nerdy Riseclear |
 | 79 | 1560 | Logan Naccarato |
 | 80 | 1555 | Snappy Glidepiece |
 | 81 | 1518 | Christine Filson |
@@ -104,13 +104,13 @@
 | 96 | 1361 | Patricia Gadsden |
 | 97 | 1343 | Joey Banks |
 | 98 | 1320 | Kristie |
-| 99 | 1318 | Tiff Vs Tiffany |
-| 100 | 1318 | Diana Ibarra |
+| 99 | 1318 | Diana Ibarra |
+| 100 | 1318 | Tiff Vs Tiffany |
 | 101 | 1309 | yoyo |
 | 102 | 1297 | Shelby Michelle |
 | 103 | 1290 | JerseyJess |
-| 104 | 1282 | Peppy Shifter |
-| 105 | 1282 | Amanda L Baker |
+| 104 | 1282 | Amanda L Baker |
+| 105 | 1282 | Peppy Shifter |
 | 106 | 1276 | Jessica Bechler |
 | 107 | 1274 | Sarah Fehring |
 | 108 | 1248 | Lori Barnaby |
@@ -124,8 +124,8 @@
 | 116 | 1134 | Melissa Orth Hunter |
 | 117 | 1124 | Stephanie Rice |
 | 118 | 1121 | Corie A. Brinson |
-| 119 | 1114 | Loopy Fallmatch |
-| 120 | 1114 | Groovy Catcher |
+| 119 | 1114 | Groovy Catcher |
+| 120 | 1114 | Loopy Fallmatch |
 | 121 | 1105 | Adrian Marcel Pate |
 | 122 | 1093 | Angela M. Fletcher |
 | 123 | 1091 | Jennifer |
@@ -155,10 +155,10 @@
 | 147 | 966 | Sashay Tapae Simpson |
 | 148 | 963 | Crystal Frey |
 | 149 | 961 | Danielle Allison |
-| 150 | 950 | MissTaylor |
-| 151 | 950 | Giddy Drop |
-| 152 | 940 | Patty Allen |
-| 153 | 940 | Stephanie Allmon |
+| 150 | 950 | Giddy Drop |
+| 151 | 950 | MissTaylor |
+| 152 | 940 | Stephanie Allmon |
+| 153 | 940 | Patty Allen |
 | 154 | 936 | Dolores Falco |
 | 155 | 925 | Cherry Parker |
 | 156 | 914 | Sarajane Lokan |
@@ -172,16 +172,16 @@
 | 164 | 875 | Chasity |
 | 165 | 874 | Jessica Pineda-Lopez |
 | 166 | 871 | Rochelle Hazelett |
-| 167 | 868 | Nicole Flippo |
-| 168 | 868 | Cranky Gridder |
+| 167 | 868 | Cranky Gridder |
+| 168 | 868 | Nicole Flippo |
 | 169 | 866 | Domo Washington |
 | 170 | 864 | Sunny Rotater |
 | 171 | 862 | Santeria Trece Candles |
 | 172 | 857 | Dana Fox |
 | 173 | 856 | Dana Winters |
 | 174 | 854 | Speedy Bridger |
-| 175 | 847 | Daira Largen |
-| 176 | 847 | Daring Brickzone |
+| 175 | 847 | Daring Brickzone |
+| 176 | 847 | Daira Largen |
 | 177 | 846 | Nicole Myers |
 | 178 | 845 | Edwin Calvillo Jr. |
 | 179 | 832 | Alexmac |
@@ -227,8 +227,8 @@
 | 219 | 715 | Karon Griffin |
 | 220 | 714 | Jenny Hrndz |
 | 221 | 713 | Stephanie Blkpep Davidson |
-| 222 | 709 | Christine Niles |
-| 223 | 709 | Cynthia Castros-Hampton |
+| 222 | 709 | Cynthia Castros-Hampton |
+| 223 | 709 | Christine Niles |
 | 224 | 708 | Stephanie Bradley |
 | 225 | 703 | Shawn Miller |
 | 226 | 691 | Tia |
@@ -265,8 +265,8 @@
 | 257 | 618 | Betty Bóò |
 | 258 | 606 | Connie Mohler-Fair |
 | 259 | 605 | Sarah Cowan Burgos |
-| 260 | 604 | Bmo |
-| 261 | 604 | Sherry Ogden |
+| 260 | 604 | Sherry Ogden |
+| 261 | 604 | Bmo |
 | 262 | 601 | Betty Rosas |
 | 263 | 600 | Natasha Jones |
 | 264 | 599 | Noyb Adam |
@@ -274,8 +274,8 @@
 | 266 | 594 | Cozy Snaplink |
 | 267 | 590 | Marci Mize Fandrich |
 | 268 | 588 | Salena Whitlock |
-| 269 | 586 | Donna |
-| 270 | 586 | Brian Battjes |
+| 269 | 586 | Brian Battjes |
+| 270 | 586 | Donna |
 | 271 | 582 | FuzzyNavel |
 | 272 | 581 | Crystal Hine |
 | 273 | 578 | James Mitchell |
@@ -306,15 +306,15 @@
 | 298 | 540 | Tanya Kittrell |
 | 299 | 539 | Fancy Curver |
 | 300 | 539 | Kate M. Murdock |
-| 301 | 536 | Giddy Twistbuilder |
-| 302 | 536 | Shannon Matthew Byers |
+| 301 | 536 | Shannon Matthew Byers |
+| 302 | 536 | Giddy Twistbuilder |
 | 303 | 535 | kacihall |
 | 304 | 533 | BugMansMom |
 | 305 | 532 | Sarah Muradyan |
 | 306 | 530 | KayB |
-| 307 | 527 | Chummy Caster |
-| 308 | 527 | Dapper Snap |
-| 309 | 527 | Heather Davis |
+| 307 | 527 | Heather Davis |
+| 308 | 527 | Chummy Caster |
+| 309 | 527 | Dapper Snap |
 | 310 | 524 | Colton |
 | 311 | 523 | Ktfreeee |
 | 312 | 518 | Marquita Sheard |
@@ -361,8 +361,8 @@
 | 353 | 456 | Kelly |
 | 354 | 456 | Cynthia Herrmann Egland |
 | 355 | 455 | Kelly Wolf |
-| 356 | 450 | Stefanie LaPointe |
-| 357 | 450 | Luciana Braganca Vieira |
+| 356 | 450 | Luciana Braganca Vieira |
+| 357 | 450 | Stefanie LaPointe |
 | 358 | 449 | Lively Caster |
 | 359 | 447 | Carrie Huskey |
 | 360 | 447 | Num1hater |
@@ -375,8 +375,8 @@
 | 367 | 443 | Christian Werndl |
 | 368 | 442 | Loopy Fallzone |
 | 369 | 438 | Dannie Litchard |
-| 370 | 436 | AC Yeater |
-| 371 | 436 | Julie Fratrik |
+| 370 | 436 | Julie Fratrik |
+| 371 | 436 | AC Yeater |
 | 372 | 435 | Sabrina Hardrick |
 | 373 | 434 | Criss |
 | 374 | 432 | Hoppy Patternline |
@@ -429,10 +429,10 @@
 | 421 | 384 | Tiffany Davie |
 | 422 | 383 | Jessica Christian |
 | 423 | 381 | Mary Giorgenti |
-| 424 | 380 | neci |
-| 425 | 380 | Foltz Lee Kelli |
-| 426 | 378 | Ashley Lynn Marchese |
-| 427 | 378 | Samantha Worley |
+| 424 | 380 | Foltz Lee Kelli |
+| 425 | 380 | neci |
+| 426 | 378 | Samantha Worley |
+| 427 | 378 | Ashley Lynn Marchese |
 | 428 | 377 | Paula Little |
 | 429 | 376 | Tracy Martin |
 | 430 | 376 | Breanna Marsden |
