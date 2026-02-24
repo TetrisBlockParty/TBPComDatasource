@@ -1,6 +1,6 @@
-# Standings for team4 as of 2026-02-24 13:33:22 UTC
+# Standings for team4 as of 2026-02-24 13:34:23 UTC
 
-**Total Participants:** 2035
+**Total Participants:** 2036
 
 ## Participant Scores
 
@@ -32,8 +32,8 @@
 | 24 | 1859 | Ayanna Soto |
 | 25 | 1805 | Ash |
 | 26 | 1799 | Jason Allen |
-| 27 | 1784 | Dustin Robert |
-| 28 | 1766 | Jae Job |
+| 27 | 1786 | Jae Job |
+| 28 | 1784 | Dustin Robert |
 | 29 | 1753 | GreenJeepGirl |
 | 30 | 1677 | Tammi Crnza |
 | 31 | 1673 | Cassie Michaux |
@@ -83,7 +83,7 @@
 | 75 | 1056 | Keith Kelley |
 | 76 | 1050 | Anthony Bryan Riva |
 | 77 | 1046 | Johnathan Martinez |
-| 78 | 1032 | TeeJ |
+| 78 | 1036 | TeeJ |
 | 79 | 1027 | Jeremy Steines |
 | 80 | 1024 | Valerie Roberts |
 | 81 | 1012 | Guy Incognito |
@@ -475,18 +475,18 @@
 | 467 | 261 | Laura McPheeters |
 | 468 | 260 | PennyCandee |
 | 469 | 258 | April Spoelma |
-| 470 | 258 | Ashlee Carnes |
-| 471 | 257 | Laurel Coppess |
-| 472 | 257 | Laura Hosford |
-| 473 | 257 | ThriftySpice |
-| 474 | 256 | GTxIrishman |
-| 475 | 256 | bloat princess |
-| 476 | 256 | Tipsy Cascader |
-| 477 | 255 | Chilly Matcher |
-| 478 | 255 | Becky Shimko |
-| 479 | 255 | Red |
-| 480 | 254 | Frisky Matchgrid |
-| 481 | 253 | Brooke Kaune |
+| 470 | 258 | Brooke Kaune |
+| 471 | 258 | Ashlee Carnes |
+| 472 | 257 | Laurel Coppess |
+| 473 | 257 | Laura Hosford |
+| 474 | 257 | ThriftySpice |
+| 475 | 256 | GTxIrishman |
+| 476 | 256 | bloat princess |
+| 477 | 256 | Tipsy Cascader |
+| 478 | 255 | Chilly Matcher |
+| 479 | 255 | Becky Shimko |
+| 480 | 255 | Red |
+| 481 | 254 | Frisky Matchgrid |
 | 482 | 253 | Christine Simmons |
 | 483 | 253 | Autum Leigh |
 | 484 | 253 | Noel Christa |
@@ -539,14 +539,14 @@
 | 531 | 235 | LaDonna LovinmesomeMe Lambert |
 | 532 | 234 | Darrin Rubalcava |
 | 533 | 234 | Ryry |
-| 534 | 234 | B Renee Desjardin |
-| 535 | 234 | Nicole Serio |
-| 536 | 234 | Peachy Brickster |
-| 537 | 233 | Joseph Edmonson |
-| 538 | 233 | Stacy |
-| 539 | 233 | Robert Rodriguez |
-| 540 | 233 | Gigglelymomof2 |
-| 541 | 232 | Balsam Joe |
+| 534 | 234 | Balsam Joe |
+| 535 | 234 | B Renee Desjardin |
+| 536 | 234 | Nicole Serio |
+| 537 | 234 | Peachy Brickster |
+| 538 | 233 | Joseph Edmonson |
+| 539 | 233 | Stacy |
+| 540 | 233 | Robert Rodriguez |
+| 541 | 233 | Gigglelymomof2 |
 | 542 | 232 | Dandy Cascadefit |
 | 543 | 232 | Lou Ie |
 | 544 | 232 | Mike Kremen |
@@ -1694,9 +1694,9 @@
 | 1686 | 27 | Lynn Anne |
 | 1687 | 27 | Jennifer Pfeiffer Johnson |
 | 1688 | 27 | Perach Alima Shoa |
-| 1689 | 27 | Clint Lafave |
+| 1689 | 27 | Nutty Gridclear |
 | 1690 | 27 | Julie Foulks Porter |
-| 1691 | 27 | Nutty Gridclear |
+| 1691 | 27 | Clint Lafave |
 | 1692 | 26 | Synamatic |
 | 1693 | 26 | Julio León |
 | 1694 | 26 | Vader67 |
@@ -1718,8 +1718,8 @@
 | 1710 | 25 | Agápē Seb |
 | 1711 | 25 | Gracey Lou |
 | 1712 | 25 | Devin Crawford |
-| 1713 | 25 | Plucky Patternbuilder |
-| 1714 | 25 | Zippy Snapgrid |
+| 1713 | 25 | Zippy Snapgrid |
+| 1714 | 25 | Plucky Patternbuilder |
 | 1715 | 24 | Mandee |
 | 1716 | 24 | Judith Isaac |
 | 1717 | 24 | Joe Dardar |
@@ -1749,8 +1749,8 @@
 | 1741 | 23 | Lazy Stacker |
 | 1742 | 23 | Julie Lynn |
 | 1743 | 23 | Jason Lasick |
-| 1744 | 23 | Jazzy Cascadezone |
-| 1745 | 23 | Carzell Kincuzz Hunter |
+| 1744 | 23 | Carzell Kincuzz Hunter |
+| 1745 | 23 | Jazzy Cascadezone |
 | 1746 | 22 | Michael Byers |
 | 1747 | 22 | Pipiska |
 | 1748 | 22 | Mary Ann Denmark |
@@ -1803,8 +1803,8 @@
 | 1795 | 19 | Frilly Rollfit |
 | 1796 | 19 | Swift |
 | 1797 | 19 | Crystal Eaden |
-| 1798 | 19 | Pooh |
-| 1799 | 19 | KingScuba |
+| 1798 | 19 | KingScuba |
+| 1799 | 19 | Pooh |
 | 1800 | 18 | Vilma N Puruco Rodriguez |
 | 1801 | 18 | Loony Slider |
 | 1802 | 18 | Michaele Wagner |
@@ -1825,12 +1825,12 @@
 | 1817 | 17 | Dandre |
 | 1818 | 17 | Nutty Grid |
 | 1819 | 17 | Lil Miss |
-| 1820 | 17 | Breezy Balance |
-| 1821 | 17 | Antronita Kemp |
+| 1820 | 17 | Antronita Kemp |
+| 1821 | 17 | Breezy Balance |
 | 1822 | 17 | Cheeky Linebuilder |
-| 1823 | 16 | Mery wey |
-| 1824 | 16 | SilentB |
-| 1825 | 16 | Orin Whitbeck |
+| 1823 | 16 | SilentB |
+| 1824 | 16 | Orin Whitbeck |
+| 1825 | 16 | Mery wey |
 | 1826 | 16 | Terra Emery |
 | 1827 | 16 | Dizzy Crawler |
 | 1828 | 16 | The Contender |
@@ -1858,13 +1858,13 @@
 | 1850 | 15 | Jimmy Gallagher |
 | 1851 | 15 | Chauncy Ramone Martin |
 | 1852 | 15 | Michelle LaRose |
-| 1853 | 15 | Sharon Berner |
+| 1853 | 15 | Teresa Trich |
 | 1854 | 15 | Mason Junior |
-| 1855 | 15 | Teresa Trich |
-| 1856 | 14 | Dapper Racker |
-| 1857 | 14 | Jen Clemmer |
-| 1858 | 14 | Bouncy Hitter |
-| 1859 | 14 | Nacarius |
+| 1855 | 15 | Sharon Berner |
+| 1856 | 14 | Bouncy Hitter |
+| 1857 | 14 | Dapper Racker |
+| 1858 | 14 | Nacarius |
+| 1859 | 14 | Jen Clemmer |
 | 1860 | 14 | Breezy Linkfall |
 | 1861 | 14 | Shanda Stephens |
 | 1862 | 14 | Crystal Bullard |
@@ -1906,10 +1906,10 @@
 | 1898 | 12 | CandiedBacon |
 | 1899 | 12 | Ramona Dumas |
 | 1900 | 12 | Loopy Striker |
-| 1901 | 11 | Slinky Cascader |
-| 1902 | 11 | Crystal Austin |
+| 1901 | 11 | Crystal Austin |
+| 1902 | 11 | TVD |
 | 1903 | 11 | Pretty 💕 |
-| 1904 | 11 | TVD |
+| 1904 | 11 | Slinky Cascader |
 | 1905 | 11 | Alex Alex |
 | 1906 | 11 | Rick Larrecou |
 | 1907 | 11 | Nathan Wayne Hall |
@@ -1946,101 +1946,102 @@
 | 1938 | 10 | Kathy Lott |
 | 1939 | 10 | Vicky Vallejo |
 | 1940 | 10 | Beverly Tackett |
-| 1941 | 10 | Tim Taylor |
-| 1942 | 10 | LDillyDaSilly |
-| 1943 | 10 | Urby Ofazeroth |
-| 1944 | 9 | Melissa Hensley Hoffman |
-| 1945 | 9 | Heather Peel |
-| 1946 | 9 | Gang |
-| 1947 | 9 | Liknda Saunders |
-| 1948 | 9 | Shy |
-| 1949 | 9 | PBlock |
-| 1950 | 9 | Swanky Fill |
-| 1951 | 9 | Lea Ann |
-| 1952 | 9 | Charlie Author Richardson |
-| 1953 | 9 | Chirpy Mover |
-| 1954 | 9 | Garrick Wilfork |
-| 1955 | 9 | Bubbly Rumbler |
-| 1956 | 9 | Andy Martorana |
-| 1957 | 8 | Dernice Graim |
-| 1958 | 8 | Melanie Demski |
-| 1959 | 8 | Shakeyj |
-| 1960 | 8 | Snippy Matchzone |
-| 1961 | 8 | Loopy Fill |
-| 1962 | 8 | Mark Trusler |
-| 1963 | 8 | Annette Warnke |
-| 1964 | 8 | GhostFace |
-| 1965 | 8 | Joseph Pernice |
-| 1966 | 8 | Boldy Smasher |
-| 1967 | 8 | Tara Spencer |
-| 1968 | 8 | rtambuche |
-| 1969 | 8 | Cayla-Marie Moody |
-| 1970 | 8 | Mana2800 |
-| 1971 | 8 | Lincoln Nebraska |
-| 1972 | 8 | wow |
-| 1973 | 8 | Jermre Owens |
-| 1974 | 8 | Goofy Balancer |
-| 1975 | 8 | Kimberly Gaines Messman |
-| 1976 | 8 | Gretchen Smith |
-| 1977 | 8 | Peggy Eaton |
-| 1978 | 8 | Savannah Saphyre Allen |
-| 1979 | 8 | Dmu |
-| 1980 | 8 | Erick Manuel Mejia Boitel |
-| 1981 | 8 | Epic Caster |
-| 1982 | 7 | Chipper Twister |
-| 1983 | 7 | Denver |
-| 1984 | 7 | Alfredo Aguilar |
-| 1985 | 7 | Tif Abbott |
-| 1986 | 7 | Samantha Munson |
-| 1987 | 7 | BlueWCraft |
-| 1988 | 7 | LilyBug |
-| 1989 | 7 | Slinky Lifter |
-| 1990 | 7 | Zany Shatterbuilder |
-| 1991 | 7 | Lauri Robare Russell |
-| 1992 | 7 | Raymie Jane |
-| 1993 | 7 | Mighty Snapmatch |
-| 1994 | 7 | BeeBunny |
-| 1995 | 7 | David Brown |
-| 1996 | 7 | Laure Houtman |
-| 1997 | 7 | Snippy Spinblock |
-| 1998 | 7 | Boo |
-| 1999 | 7 | Martin Sanchez |
-| 2000 | 7 | Cranky Spinblock |
-| 2001 | 7 | Swanky Cascade |
-| 2002 | 7 | James Nestor |
-| 2003 | 7 | Chummy Combofall |
-| 2004 | 7 | Angel Pacheco |
-| 2005 | 7 | Dovakin |
-| 2006 | 7 | Nutty Wipeblock |
-| 2007 | 7 | Lanetta Carter |
-| 2008 | 6 | Korn Starch |
-| 2009 | 6 | Sarah Farrens |
-| 2010 | 6 | Darin G Jackson |
-| 2011 | 6 | Lazy Clusterfit |
-| 2012 | 6 | Lively Blockline |
-| 2013 | 6 | Giggy Patternzone |
-| 2014 | 6 | Snazzy Grid |
-| 2015 | 6 | Gma |
-| 2016 | 6 | jacob |
-| 2017 | 6 | Jae Son |
-| 2018 | 6 | Jumpy Cascadezone |
-| 2019 | 6 | NoTalkN |
-| 2020 | 5 | Fearsmom |
-| 2021 | 5 | Auakefaia Uailoa |
-| 2022 | 5 | Colleen Shanley |
-| 2023 | 5 | Ursula Reis |
-| 2024 | 5 | Chill Riserpiece |
-| 2025 | 5 | Amanda Perez |
-| 2026 | 5 | Nolegs Tukikit |
-| 2027 | 5 | Tamica Rippke |
-| 2028 | 5 | Angel |
-| 2029 | 5 | Rita Laws |
-| 2030 | 5 | William Yarbro |
-| 2031 | 5 | Christopher Cand |
-| 2032 | 5 | Raider Victor Brown |
-| 2033 | 5 | Moneybagg Keyshawn |
-| 2034 | 5 | Johnfree Nelson |
-| 2035 | 5 | Cannonfodda81 |
+| 1941 | 10 | LDillyDaSilly |
+| 1942 | 10 | Urby Ofazeroth |
+| 1943 | 10 | Tim Taylor |
+| 1944 | 10 | Zany Swipe |
+| 1945 | 9 | Melissa Hensley Hoffman |
+| 1946 | 9 | Heather Peel |
+| 1947 | 9 | Gang |
+| 1948 | 9 | Liknda Saunders |
+| 1949 | 9 | Shy |
+| 1950 | 9 | PBlock |
+| 1951 | 9 | Swanky Fill |
+| 1952 | 9 | Lea Ann |
+| 1953 | 9 | Charlie Author Richardson |
+| 1954 | 9 | Chirpy Mover |
+| 1955 | 9 | Garrick Wilfork |
+| 1956 | 9 | Bubbly Rumbler |
+| 1957 | 9 | Andy Martorana |
+| 1958 | 8 | Dernice Graim |
+| 1959 | 8 | Melanie Demski |
+| 1960 | 8 | Shakeyj |
+| 1961 | 8 | Snippy Matchzone |
+| 1962 | 8 | Loopy Fill |
+| 1963 | 8 | Mark Trusler |
+| 1964 | 8 | Annette Warnke |
+| 1965 | 8 | GhostFace |
+| 1966 | 8 | Joseph Pernice |
+| 1967 | 8 | Boldy Smasher |
+| 1968 | 8 | Tara Spencer |
+| 1969 | 8 | rtambuche |
+| 1970 | 8 | Cayla-Marie Moody |
+| 1971 | 8 | Mana2800 |
+| 1972 | 8 | Lincoln Nebraska |
+| 1973 | 8 | wow |
+| 1974 | 8 | Jermre Owens |
+| 1975 | 8 | Goofy Balancer |
+| 1976 | 8 | Kimberly Gaines Messman |
+| 1977 | 8 | Gretchen Smith |
+| 1978 | 8 | Peggy Eaton |
+| 1979 | 8 | Erick Manuel Mejia Boitel |
+| 1980 | 8 | Dmu |
+| 1981 | 8 | Savannah Saphyre Allen |
+| 1982 | 8 | Epic Caster |
+| 1983 | 7 | Chipper Twister |
+| 1984 | 7 | Denver |
+| 1985 | 7 | Alfredo Aguilar |
+| 1986 | 7 | Tif Abbott |
+| 1987 | 7 | Samantha Munson |
+| 1988 | 7 | BlueWCraft |
+| 1989 | 7 | LilyBug |
+| 1990 | 7 | Slinky Lifter |
+| 1991 | 7 | Zany Shatterbuilder |
+| 1992 | 7 | Lauri Robare Russell |
+| 1993 | 7 | Raymie Jane |
+| 1994 | 7 | Mighty Snapmatch |
+| 1995 | 7 | BeeBunny |
+| 1996 | 7 | David Brown |
+| 1997 | 7 | Laure Houtman |
+| 1998 | 7 | Snippy Spinblock |
+| 1999 | 7 | Boo |
+| 2000 | 7 | Martin Sanchez |
+| 2001 | 7 | Cranky Spinblock |
+| 2002 | 7 | Swanky Cascade |
+| 2003 | 7 | James Nestor |
+| 2004 | 7 | Chummy Combofall |
+| 2005 | 7 | Angel Pacheco |
+| 2006 | 7 | Dovakin |
+| 2007 | 7 | Nutty Wipeblock |
+| 2008 | 7 | Lanetta Carter |
+| 2009 | 6 | Korn Starch |
+| 2010 | 6 | Sarah Farrens |
+| 2011 | 6 | Darin G Jackson |
+| 2012 | 6 | Lazy Clusterfit |
+| 2013 | 6 | Lively Blockline |
+| 2014 | 6 | Giggy Patternzone |
+| 2015 | 6 | Snazzy Grid |
+| 2016 | 6 | Gma |
+| 2017 | 6 | jacob |
+| 2018 | 6 | Jae Son |
+| 2019 | 6 | Jumpy Cascadezone |
+| 2020 | 6 | NoTalkN |
+| 2021 | 5 | Fearsmom |
+| 2022 | 5 | Auakefaia Uailoa |
+| 2023 | 5 | Colleen Shanley |
+| 2024 | 5 | Ursula Reis |
+| 2025 | 5 | Chill Riserpiece |
+| 2026 | 5 | Amanda Perez |
+| 2027 | 5 | Nolegs Tukikit |
+| 2028 | 5 | Tamica Rippke |
+| 2029 | 5 | Angel |
+| 2030 | 5 | Rita Laws |
+| 2031 | 5 | William Yarbro |
+| 2032 | 5 | Christopher Cand |
+| 2033 | 5 | Raider Victor Brown |
+| 2034 | 5 | Moneybagg Keyshawn |
+| 2035 | 5 | Johnfree Nelson |
+| 2036 | 5 | Cannonfodda81 |
 
 ---
 *Standings created by tournaments datasource generation tool*
