@@ -22,7 +22,7 @@
 | 14 | 4869 | Tetris Master |
 | 15 | 4659 | Laura Melton |
 | 16 | 4481 | Cheeky Match |
-| 17 | 4205 | mjl574 |
+| 17 | 4185 | mjl574 |
 | 18 | 4132 | Lush Buildout |
 | 19 | 3932 | Briarblack |
 | 20 | 3900 | Jeana Gilbert |
@@ -57,7 +57,7 @@
 | 49 | 2149 | Delilah belle |
 | 50 | 2112 | Kay |
 | 51 | 2104 | Cheeky Rumbler |
-| 52 | 2093 | Rachel Bowers |
+| 52 | 2086 | Rachel Bowers |
 | 53 | 2059 | Beelow Bently |
 | 54 | 2003 | Jennie Beranek |
 | 55 | 1995 | Ashley Kiara |
@@ -83,8 +83,8 @@
 | 75 | 1633 | cowboy25469 |
 | 76 | 1625 | Queen Kam |
 | 77 | 1615 | joclisa |
-| 78 | 1566 | Marcie Bressler |
-| 79 | 1566 | Nerdy Riseclear |
+| 78 | 1566 | Nerdy Riseclear |
+| 79 | 1566 | Marcie Bressler |
 | 80 | 1560 | Logan Naccarato |
 | 81 | 1555 | Snappy Glidepiece |
 | 82 | 1518 | Christine Filson |
@@ -156,8 +156,8 @@
 | 148 | 971 | Tasha Schriewer |
 | 149 | 963 | Crystal Frey |
 | 150 | 961 | Danielle Allison |
-| 151 | 950 | MissTaylor |
-| 152 | 950 | Giddy Drop |
+| 151 | 950 | Giddy Drop |
+| 152 | 950 | MissTaylor |
 | 153 | 947 | Kellie Montgomery |
 | 154 | 940 | Patty Allen |
 | 155 | 940 | Stephanie Allmon |
@@ -165,8 +165,8 @@
 | 157 | 925 | Cherry Parker |
 | 158 | 914 | Sarajane Lokan |
 | 159 | 914 | BadManSheLove |
-| 160 | 910 | opf |
-| 161 | 910 | Staci George Fitzsimmons |
+| 160 | 910 | Staci George Fitzsimmons |
+| 161 | 910 | opf |
 | 162 | 906 | Patti Skiles |
 | 163 | 900 | Edwin Calvillo Jr. |
 | 164 | 899 | Jaime Monhaut-Reed |
@@ -184,8 +184,8 @@
 | 176 | 857 | Dana Fox |
 | 177 | 856 | Dana Winters |
 | 178 | 854 | Speedy Bridger |
-| 179 | 847 | Daring Brickzone |
-| 180 | 847 | Daira Largen |
+| 179 | 847 | Daira Largen |
+| 180 | 847 | Daring Brickzone |
 | 181 | 846 | Nicole Myers |
 | 182 | 832 | Alexmac |
 | 183 | 829 | Patricia White |
@@ -207,8 +207,8 @@
 | 199 | 784 | Jone |
 | 200 | 783 | Julian Murphy |
 | 201 | 777 | Daryn Elliott |
-| 202 | 774 | ren |
-| 203 | 774 | Twisty Brick LT |
+| 202 | 774 | Twisty Brick LT |
+| 203 | 774 | ren |
 | 204 | 772 | Hasty Cascadefit |
 | 205 | 768 | Cyd061769 |
 | 206 | 766 | Tasha Gillespie |
@@ -231,8 +231,8 @@
 | 223 | 715 | Karon Griffin |
 | 224 | 714 | Jenny Hrndz |
 | 225 | 713 | Stephanie Blkpep Davidson |
-| 226 | 709 | Christine Niles |
-| 227 | 709 | Cynthia Castros-Hampton |
+| 226 | 709 | Cynthia Castros-Hampton |
+| 227 | 709 | Christine Niles |
 | 228 | 708 | Stephanie Bradley |
 | 229 | 704 | Betty Bóò |
 | 230 | 703 | Shawn Miller |
@@ -290,8 +290,8 @@
 | 282 | 582 | FuzzyNavel |
 | 283 | 581 | Crystal Hine |
 | 284 | 578 | James Mitchell |
-| 285 | 574 | Rachael McClain Owens |
-| 286 | 574 | Danielle Balcom |
+| 285 | 574 | Danielle Balcom |
+| 286 | 574 | Rachael McClain Owens |
 | 287 | 572 | Tessina Dewey-Mancino |
 | 288 | 570 | thekey |
 | 289 | 569 | Gray Hicks |
@@ -360,8 +360,8 @@
 | 352 | 459 | TotoCherue |
 | 353 | 459 | Randy Clevenger |
 | 354 | 457 | Snippy Wipeout |
-| 355 | 456 | Kelly |
-| 356 | 456 | Cynthia Herrmann Egland |
+| 355 | 456 | Cynthia Herrmann Egland |
+| 356 | 456 | Kelly |
 | 357 | 455 | Kelly Wolf |
 | 358 | 450 | Luciana Braganca Vieira |
 | 359 | 450 | Stefanie LaPointe |
@@ -407,8 +407,8 @@
 | 399 | 411 | Beaudie Stroebel |
 | 400 | 409 | Roary Danner |
 | 401 | 409 | Rich LeBlanc |
-| 402 | 408 | Ashley Muncey |
-| 403 | 408 | Tiffany Ford |
+| 402 | 408 | Tiffany Ford |
+| 403 | 408 | Ashley Muncey |
 | 404 | 407 | Christina Spa |
 | 405 | 406 | Kristen Weese |
 | 406 | 405 | Andrew Thorson |
@@ -426,8 +426,8 @@
 | 418 | 394 | Jalissa Monique |
 | 419 | 392 | Michelle Allers |
 | 420 | 392 | Linda Draper |
-| 421 | 391 | gremicx |
-| 422 | 391 | Rebel124 |
+| 421 | 391 | Rebel124 |
+| 422 | 391 | gremicx |
 | 423 | 390 | ROODBOY |
 | 424 | 389 | Kirhonda Autmon |
 | 425 | 389 | Amanda J. Mcneil-Anderson |
@@ -439,8 +439,8 @@
 | 431 | 382 | Theresa Opell Gartner |
 | 432 | 382 | Katheline Lazo Luizaga |
 | 433 | 381 | Mary Giorgenti |
-| 434 | 380 | neci |
-| 435 | 380 | Foltz Lee Kelli |
+| 434 | 380 | Foltz Lee Kelli |
+| 435 | 380 | neci |
 | 436 | 379 | Krish Shah |
 | 437 | 378 | Samantha Worley |
 | 438 | 378 | Ashley Lynn Marchese |
@@ -1324,7 +1324,7 @@
 | 1316 | 145 | Dandy Dropmatch |
 | 1317 | 145 | Jes Lynn |
 | 1318 | 144 | Ja'Maine Future-Leader Jackson |
-| 1319 | 144 | Mt Shirley |
+| 1319 | 144 | Audrey Scruton |
 | 1320 | 144 | Amber Baker |
 | 1321 | 144 | Loopy Spinblock |
 | 1322 | 144 | Mt Shirley |
@@ -1979,7 +1979,7 @@
 | 1971 | 75 | mrstlh |
 | 1972 | 75 | Alixandra Delao |
 | 1973 | 75 | CBJ |
-| 1974 | 75 | Spunky Tiley |
+| 1974 | 74 | Ann Smith |
 | 1975 | 74 | wendell |
 | 1976 | 74 | Dsay Yates |
 | 1977 | 74 | Emily Jane |

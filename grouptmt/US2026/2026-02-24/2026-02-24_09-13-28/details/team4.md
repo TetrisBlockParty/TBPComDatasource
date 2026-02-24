@@ -108,14 +108,14 @@
 | 100 | 846 | Christine Marie |
 | 101 | 840 | SAP |
 | 102 | 837 | Rica Mitchell |
-| 103 | 834 | quicksand420 |
-| 104 | 834 | Brittney Orengo |
+| 103 | 834 | Brittney Orengo |
+| 104 | 834 | quicksand420 |
 | 105 | 815 | Diana Houts |
 | 106 | 813 | Amy Suckarieh |
 | 107 | 813 | Klo |
 | 108 | 811 | Sassy Pattern |
-| 109 | 806 | Lori Walker |
-| 110 | 806 | Zippy Gridlock |
+| 109 | 806 | Zippy Gridlock |
+| 110 | 806 | Lori Walker |
 | 111 | 802 | Crystal Carroll |
 | 112 | 802 | Denise Carlson |
 | 113 | 801 | D3TROITB0RN74 |
@@ -169,8 +169,8 @@
 | 161 | 600 | Cursed Hag |
 | 162 | 595 | TRCuse |
 | 163 | 587 | YoMomma |
-| 164 | 586 | Carlos Ramirez |
-| 165 | 586 | Latisha Davis |
+| 164 | 586 | Latisha Davis |
+| 165 | 586 | Carlos Ramirez |
 | 166 | 585 | Tracey Lehmann |
 | 167 | 584 | Carlton Unfiltered |
 | 168 | 576 | Jade Rian |
@@ -202,11 +202,11 @@
 | 194 | 525 | 🥔🥔 Spudz |
 | 195 | 520 | Zippy Block |
 | 196 | 520 | Oscar Alberto Perez |
-| 197 | 516 | Trish |
-| 198 | 516 | Twisty Clicky |
-| 199 | 516 | Nick Gray |
-| 200 | 513 | Zesty Twistbuilder |
-| 201 | 513 | Milan Markeisha |
+| 197 | 516 | Nick Gray |
+| 198 | 516 | Trish |
+| 199 | 516 | Twisty Clicky |
+| 200 | 513 | Milan Markeisha |
+| 201 | 513 | Zesty Twistbuilder |
 | 202 | 512 | ThaEviLJeNiuZ |
 | 203 | 512 | Casey Jeffcoat |
 | 204 | 512 | Ellen Durfee |
@@ -283,8 +283,8 @@
 | 275 | 399 | Brittany Little |
 | 276 | 398 | Tyler Terrific |
 | 277 | 397 | blockstar |
-| 278 | 395 | Denise B |
-| 279 | 395 | BigSammy420 |
+| 278 | 395 | BigSammy420 |
+| 279 | 395 | Denise B |
 | 280 | 394 | Nikki Rae Gordon |
 | 281 | 393 | Montiette Mcglown |
 | 282 | 392 | Neirrah B Olailjeel |
@@ -318,8 +318,8 @@
 | 310 | 354 | @ |
 | 311 | 354 | Perky Piecegrid |
 | 312 | 352 | Kate |
-| 313 | 351 | Jackie Clark |
-| 314 | 351 | Dana Scott |
+| 313 | 351 | Dana Scott |
+| 314 | 351 | Jackie Clark |
 | 315 | 350 | Dizzy Matchzone |
 | 316 | 349 | Richard-April Kice |
 | 317 | 349 | jim |
@@ -349,8 +349,8 @@
 | 341 | 330 | Duck |
 | 342 | 329 | Meagan Nicole |
 | 343 | 329 | AyeKay |
-| 344 | 328 | Heather Bruce |
-| 345 | 328 | Leah Kutz Zirbel |
+| 344 | 328 | Leah Kutz Zirbel |
+| 345 | 328 | Heather Bruce |
 | 346 | 327 | Jessica Petersen |
 | 347 | 327 | Jim Hart |
 | 348 | 325 | Cool Gridzone |
@@ -552,8 +552,8 @@
 | 544 | 223 | Cranky Glidebuilder |
 | 545 | 223 | Jessica Atkinson |
 | 546 | 222 | Squeezy Pearsall |
-| 547 | 221 | Rheanda Weaskus |
-| 548 | 221 | Peppy Drop |
+| 547 | 221 | Peppy Drop |
+| 548 | 221 | Rheanda Weaskus |
 | 549 | 220 | Mighty Edgepiece |
 | 550 | 219 | Brandon Link |
 | 551 | 219 | Dapper Balancer |
