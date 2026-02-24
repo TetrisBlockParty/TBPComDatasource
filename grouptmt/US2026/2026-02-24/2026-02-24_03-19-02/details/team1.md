@@ -161,9 +161,9 @@
 | 153 | 548 | Luciano Moreira |
 | 154 | 547 | Sharon Reynolds |
 | 155 | 546 | Loony Fitzone |
-| 156 | 543 | Tipsy Riseclear |
+| 156 | 543 | Adrian Esteban |
 | 157 | 543 | Nicole Roseberry Weber |
-| 158 | 543 | Adrian Esteban |
+| 158 | 543 | Tipsy Riseclear |
 | 159 | 540 | Tonya Beasley |
 | 160 | 537 | BadG52 |
 | 161 | 537 | Stephanie Zahn |
@@ -199,14 +199,14 @@
 | 191 | 470 | Candy Jones |
 | 192 | 462 | Hasty Cascader |
 | 193 | 460 | Erin Rosberg |
-| 194 | 458 | Dizzy Slider |
-| 195 | 458 | Goose egg |
+| 194 | 458 | Goose egg |
+| 195 | 458 | Dizzy Slider |
 | 196 | 453 | Kimmie Kimms |
 | 197 | 450 | Elaine Elaine |
 | 198 | 448 | Yvonne Marie |
 | 199 | 447 | Νεφ Όνυξ |
-| 200 | 446 | Spencer Lent |
-| 201 | 446 | SkipTheSadSauce |
+| 200 | 446 | SkipTheSadSauce |
+| 201 | 446 | Spencer Lent |
 | 202 | 442 | Reesey Enyart |
 | 203 | 441 | Kimberly Garcia |
 | 204 | 439 | Witty Builderfit |
@@ -216,8 +216,8 @@
 | 208 | 432 | Lori Bales |
 | 209 | 431 | Shiny Snapfit |
 | 210 | 429 | Tana |
-| 211 | 427 | Jessie Lynn |
-| 212 | 427 | Jessie Welch |
+| 211 | 427 | Jessie Welch |
+| 212 | 427 | Jessie Lynn |
 | 213 | 426 | Betsy |
 | 214 | 425 | Tyler Werts |
 | 215 | 424 | Lindsay Glover |
@@ -230,8 +230,8 @@
 | 222 | 419 | John J. Cronin |
 | 223 | 419 | Daring Fitclear |
 | 224 | 416 | Jessica Sheehan |
-| 225 | 414 | Tipsy Strikerpiece |
-| 226 | 414 | Bird Person |
+| 225 | 414 | Bird Person |
+| 226 | 414 | Tipsy Strikerpiece |
 | 227 | 413 | Ananda Mendez |
 | 228 | 412 | Connie |
 | 229 | 410 | Paula Martin |
@@ -372,8 +372,8 @@
 | 364 | 293 | Sunny Pivotfall |
 | 365 | 292 | Mark Smith |
 | 366 | 292 | Clever Cascadepiece |
-| 367 | 291 | Toph |
-| 368 | 291 | Michael Espinosa Ulibarri Jr. |
+| 367 | 291 | Michael Espinosa Ulibarri Jr. |
+| 368 | 291 | Toph |
 | 369 | 291 | Sir-Franchise Drake |
 | 370 | 290 | Shanae Grant |
 | 371 | 290 | san |

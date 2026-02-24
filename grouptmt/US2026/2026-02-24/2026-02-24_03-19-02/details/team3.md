@@ -320,8 +320,8 @@
 | 312 | 476 | Shunta Jacobs |
 | 313 | 476 | Scott Carleton |
 | 314 | 473 | Tom Nault |
-| 315 | 471 | Mendoza Lee Christy |
-| 316 | 471 | Sarah Moyer |
+| 315 | 471 | Sarah Moyer |
+| 316 | 471 | Mendoza Lee Christy |
 | 317 | 467 | Danielle Rhoades |
 | 318 | 465 | Noettín Kan Zasnemoore |
 | 319 | 465 | Blocked |
@@ -369,8 +369,8 @@
 | 361 | 411 | Steffi Chris Dacones |
 | 362 | 411 | Chris Bell |
 | 363 | 409 | Rich LeBlanc |
-| 364 | 408 | Tiffany Ford |
-| 365 | 408 | Ashley Muncey |
+| 364 | 408 | Ashley Muncey |
+| 365 | 408 | Tiffany Ford |
 | 366 | 407 | Christina Spa |
 | 367 | 405 | fraulila |
 | 368 | 405 | Andrew Thorson |

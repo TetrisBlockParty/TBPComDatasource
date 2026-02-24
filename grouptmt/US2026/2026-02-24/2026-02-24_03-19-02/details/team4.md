@@ -68,8 +68,8 @@
 | 60 | 1106 | Ashley Ingram |
 | 61 | 1098 | BertMofo |
 | 62 | 1089 | Alyssa Papen |
-| 63 | 1082 | Dion Crommarty |
-| 64 | 1082 | Avy Absol |
+| 63 | 1082 | Avy Absol |
+| 64 | 1082 | Dion Crommarty |
 | 65 | 1075 | Dustee Craddock-Harrison |
 | 66 | 1064 | Heather Tushner |
 | 67 | 1047 | Julian Garcia |
@@ -282,8 +282,8 @@
 | 274 | 370 | Cheery Risebuilder |
 | 275 | 369 | Matt Dell'Olio |
 | 276 | 367 | Meg |
-| 277 | 366 | Hyper Builder |
-| 278 | 366 | Andrew Dang |
+| 277 | 366 | Andrew Dang |
+| 278 | 366 | Hyper Builder |
 | 279 | 360 | James Hurley Jr. |
 | 280 | 359 | KimoKoala |
 | 281 | 358 | Lora |
@@ -486,20 +486,20 @@
 | 478 | 230 | Joey Riley |
 | 479 | 228 | Bethany Ison |
 | 480 | 227 | Asher |
-| 481 | 224 | Vanessa Smart |
-| 482 | 224 | Sam Middleton |
-| 483 | 224 | Ashley Danielle |
-| 484 | 223 | Funky Risepiece |
-| 485 | 223 | Shane Vick |
-| 486 | 223 | Perky Riser |
+| 481 | 224 | Sam Middleton |
+| 482 | 224 | Ashley Danielle |
+| 483 | 224 | Vanessa Smart |
+| 484 | 223 | Perky Riser |
+| 485 | 223 | Funky Risepiece |
+| 486 | 223 | Shane Vick |
 | 487 | 223 | Jessica Atkinson |
 | 488 | 222 | Brandi Durig |
 | 489 | 222 | Tipsy Cascader |
 | 490 | 222 | Rhys Morgan |
 | 491 | 221 | Rheanda Weaskus |
-| 492 | 220 | Mighty Edgepiece |
-| 493 | 220 | ThriftySpice |
-| 494 | 220 | Helen Chao |
+| 492 | 220 | ThriftySpice |
+| 493 | 220 | Helen Chao |
+| 494 | 220 | Mighty Edgepiece |
 | 495 | 219 | Brandon Link |
 | 496 | 218 | Zippy Tilt |
 | 497 | 218 | Janita Parrish |

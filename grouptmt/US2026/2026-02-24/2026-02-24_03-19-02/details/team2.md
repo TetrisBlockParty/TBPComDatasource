@@ -401,8 +401,8 @@
 | 393 | 1084 | Emilee Burke |
 | 394 | 1081 | Barbra Miller |
 | 395 | 1080 | BK Queen |
-| 396 | 1079 | Angela Bonquiqui Dinish |
-| 397 | 1079 | Jennifer Kistner |
+| 396 | 1079 | Jennifer Kistner |
+| 397 | 1079 | Angela Bonquiqui Dinish |
 | 398 | 1075 | SaraMarie Eveland |
 | 399 | 1074 | Diana Ayers |
 | 400 | 1073 | Jodi Blake |
@@ -468,8 +468,8 @@
 | 460 | 964 | John Bednarik |
 | 461 | 962 | Antionette Sewell |
 | 462 | 962 | Kathleen Driskell |
-| 463 | 960 | Smashanator |
-| 464 | 960 | KhaosLord |
+| 463 | 960 | KhaosLord |
+| 464 | 960 | Smashanator |
 | 465 | 957 | Jennie Lee Huntley |
 | 466 | 956 | Jenn Marie |
 | 467 | 955 | Lonne Emade |
