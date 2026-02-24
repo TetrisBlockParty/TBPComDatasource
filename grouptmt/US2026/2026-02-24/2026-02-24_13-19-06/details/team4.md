@@ -1,6 +1,6 @@
 # Standings for team4 as of 2026-02-24 13:19:06 UTC
 
-**Total Participants:** 2035
+**Total Participants:** 2032
 
 ## Participant Scores
 
@@ -50,7 +50,7 @@
 | 42 | 1505 | Sammy Noguera |
 | 43 | 1504 | LS |
 | 44 | 1497 | Juggalo |
-| 45 | 1473 | Kimberly Love |
+| 45 | 1469 | Kimberly Love |
 | 46 | 1461 | Shane Kalamata Platoon |
 | 47 | 1461 | Yoset Mejia |
 | 48 | 1456 | Michelle Marie |
@@ -64,9 +64,9 @@
 | 56 | 1288 | Pee |
 | 57 | 1267 | Isabel Aguilar |
 | 58 | 1241 | Justin Hannigan |
-| 59 | 1240 | Rachel Anne |
-| 60 | 1235 | Mona Sharma |
-| 61 | 1202 | Ashley Ingram |
+| 59 | 1235 | Mona Sharma |
+| 60 | 1202 | Ashley Ingram |
+| 61 | 1197 | Rachel Anne |
 | 62 | 1177 | Julian Garcia |
 | 63 | 1150 | Kimyatta Cavin |
 | 64 | 1145 | Avy Absol |
@@ -74,11 +74,11 @@
 | 66 | 1127 | Denia Deni |
 | 67 | 1119 | Amelpss |
 | 68 | 1118 | BertMofo |
-| 69 | 1095 | Chilly Line |
-| 70 | 1094 | Dustee Craddock-Harrison |
-| 71 | 1089 | Alyssa Papen |
-| 72 | 1082 | Dion Crommarty |
-| 73 | 1081 | LisaJo Picken Buchanan |
+| 69 | 1094 | Dustee Craddock-Harrison |
+| 70 | 1089 | Alyssa Papen |
+| 71 | 1082 | Dion Crommarty |
+| 72 | 1081 | LisaJo Picken Buchanan |
+| 73 | 1080 | Chilly Line |
 | 74 | 1069 | Heather Tushner |
 | 75 | 1056 | Keith Kelley |
 | 76 | 1046 | Anthony Bryan Riva |
@@ -88,9 +88,9 @@
 | 80 | 1020 | Jeremy Steines |
 | 81 | 1012 | Guy Incognito |
 | 82 | 1003 | Destiney Carter |
-| 83 | 997 | Peachy Fall |
-| 84 | 989 | Edward White |
-| 85 | 985 | Shannon Ferrari |
+| 83 | 989 | Edward White |
+| 84 | 985 | Shannon Ferrari |
+| 85 | 982 | Peachy Fall |
 | 86 | 972 | loulou |
 | 87 | 960 | Patron Anderson |
 | 88 | 953 | Monica Daley |
@@ -111,19 +111,19 @@
 | 103 | 846 | Christine Marie |
 | 104 | 840 | SAP |
 | 105 | 838 | Amy Suckarieh |
-| 106 | 834 | Brittney Orengo |
-| 107 | 834 | quicksand420 |
+| 106 | 834 | quicksand420 |
+| 107 | 834 | Brittney Orengo |
 | 108 | 818 | Lori Walker |
 | 109 | 813 | Klo |
 | 110 | 811 | Sassy Pattern |
 | 111 | 806 | Zippy Gridlock |
 | 112 | 805 | Mylo Lipscomb |
-| 113 | 802 | Denise Carlson |
-| 114 | 802 | Crystal Carroll |
+| 113 | 802 | Crystal Carroll |
+| 114 | 802 | Denise Carlson |
 | 115 | 801 | D3TROITB0RN74 |
 | 116 | 784 | TheNeesh50 |
-| 117 | 781 | Brittney Griggs |
-| 118 | 781 | Savannah Overdorf |
+| 117 | 781 | Savannah Overdorf |
+| 118 | 781 | Brittney Griggs |
 | 119 | 779 | Nope Young |
 | 120 | 777 | Chris Alexinas |
 | 121 | 768 | Trista Leah |
@@ -235,8 +235,8 @@
 | 227 | 485 | meowmew |
 | 228 | 482 | Laura |
 | 229 | 475 | Silly Zonebuilder |
-| 230 | 473 | Cranky Rollpiece |
-| 231 | 473 | Jolly Dashfit |
+| 230 | 473 | Jolly Dashfit |
+| 231 | 473 | Cranky Rollpiece |
 | 232 | 472 | Plucky Patternblock |
 | 233 | 468 | scott |
 | 234 | 467 | Michele Plunkett |
@@ -256,8 +256,8 @@
 | 248 | 454 | Jessi Cinotto |
 | 249 | 450 | Genne Scott |
 | 250 | 449 | Danielle Kollias |
-| 251 | 448 | Mike Solo |
-| 252 | 448 | Mr. Party |
+| 251 | 448 | Mr. Party |
+| 252 | 448 | Mike Solo |
 | 253 | 447 | Chris Bernstein |
 | 254 | 444 | Selena Shaw |
 | 255 | 444 | Twisty Cascadezone |
@@ -287,8 +287,8 @@
 | 279 | 410 | KimoKoala |
 | 280 | 410 | Lindsay Ball |
 | 281 | 409 | Antony Dwayne Beasley |
-| 282 | 408 | Dihcheese444 |
-| 283 | 408 | Neirrah B Olailjeel |
+| 282 | 408 | Neirrah B Olailjeel |
+| 283 | 408 | Dihcheese444 |
 | 284 | 407 | Hyper Builder |
 | 285 | 402 | Nita Wells |
 | 286 | 402 | Maria Hammie |
@@ -310,7 +310,7 @@
 | 302 | 378 | Mary Ann Pabukis |
 | 303 | 378 | Googenheim |
 | 304 | 377 | Lauren Lamb |
-| 305 | 377 | Daria Rycewicz |
+| 305 | 376 | Stacey Stano |
 | 306 | 376 | Nig |
 | 307 | 375 | George Tzouganos |
 | 308 | 375 | Dan Wold |
@@ -626,8 +626,8 @@
 | 618 | 202 | Jasmine S Caldwell |
 | 619 | 201 | Eric Wren |
 | 620 | 201 | Adrian Pawlusinski |
-| 621 | 201 | Carla Harris |
-| 622 | 201 | Eric Wren |
+| 621 | 201 | Bryan James Marino |
+| 622 | 201 | Carla Harris |
 | 623 | 201 | Jake Roberts |
 | 624 | 201 | Danya Castillo Rios |
 | 625 | 200 | Veronica Garza |

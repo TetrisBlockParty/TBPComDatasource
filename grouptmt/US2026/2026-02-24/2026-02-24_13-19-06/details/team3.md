@@ -32,7 +32,7 @@
 | 24 | 3221 | Ashley Jones |
 | 25 | 3118 | Jamie Lang |
 | 26 | 3042 | Nerdy Spinblock |
-| 27 | 2982 | Grego Daniel |
+| 27 | 2949 | Grego Daniel |
 | 28 | 2933 | Dan Rob |
 | 29 | 2874 | Zippy Strikesnap |
 | 30 | 2873 | Chummy Shatterer |
@@ -154,14 +154,14 @@
 | 146 | 991 | Heather Green |
 | 147 | 990 | Brenda Lee Vander Molen |
 | 148 | 987 | Happy Tetriblast |
-| 149 | 978 | Giddy Drop |
-| 150 | 976 | Sarajane Lokan |
-| 151 | 974 | Patty Allen |
-| 152 | 971 | Tasha Schriewer |
-| 153 | 963 | Crystal Frey |
-| 154 | 961 | Danielle Allison |
-| 155 | 959 | MissTaylor |
-| 156 | 951 | Betty Rosas |
+| 149 | 976 | Sarajane Lokan |
+| 150 | 974 | Patty Allen |
+| 151 | 971 | Tasha Schriewer |
+| 152 | 963 | Crystal Frey |
+| 153 | 961 | Danielle Allison |
+| 154 | 959 | MissTaylor |
+| 155 | 951 | Betty Rosas |
+| 156 | 950 | Giddy Drop |
 | 157 | 947 | Kellie Montgomery |
 | 158 | 941 | Dana Fox |
 | 159 | 940 | Stephanie Allmon |
@@ -260,12 +260,12 @@
 | 252 | 650 | Cesar Barraza |
 | 253 | 647 | Wendy Dearden |
 | 254 | 646 | Duane Bright |
-| 255 | 644 | James Mitchell |
-| 256 | 644 | Dawn Williams |
-| 257 | 643 | Rynne Ellis |
-| 258 | 642 | Rania Zaqout |
-| 259 | 641 | Tom Nault |
-| 260 | 640 | Dee Pratt |
+| 255 | 644 | Dawn Williams |
+| 256 | 643 | Rynne Ellis |
+| 257 | 642 | Rania Zaqout |
+| 258 | 641 | Tom Nault |
+| 259 | 640 | Dee Pratt |
+| 260 | 639 | Marci Mize Fandrich |
 | 261 | 639 | Nichol Graham |
 | 262 | 637 | Giddy Twistbuilder |
 | 263 | 636 | Salena Whitlock |

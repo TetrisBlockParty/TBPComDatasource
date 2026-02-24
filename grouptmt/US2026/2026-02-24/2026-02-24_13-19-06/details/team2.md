@@ -34,7 +34,7 @@
 | 26 | 7737 | Trisha Gill |
 | 27 | 7703 | Tiaira Patrice' |
 | 28 | 7018 | Kevin Wooddell |
-| 29 | 6971 | Melissa Rebbe-Lehman |
+| 29 | 6963 | Melissa Rebbe-Lehman |
 | 30 | 6962 | Devin Lee |
 | 31 | 6894 | Alex Hill |
 | 32 | 6714 | Amanda Grohmann |
@@ -140,10 +140,10 @@
 | 132 | 2661 | Mema |
 | 133 | 2640 | bonsai |
 | 134 | 2629 | Altamirano Michael |
-| 135 | 2613 | Gloria Liu |
-| 136 | 2613 | Jen Tramack |
-| 137 | 2607 | Rob Surace |
-| 138 | 2607 | KellyDyan |
+| 135 | 2613 | Jen Tramack |
+| 136 | 2613 | Gloria Liu |
+| 137 | 2607 | KellyDyan |
+| 138 | 2607 | Rob Surace |
 | 139 | 2601 | Lexi Tschappatt |
 | 140 | 2549 | Samantha Roberts |
 | 141 | 2529 | Tj Ball |
@@ -210,20 +210,20 @@
 | 202 | 1905 | Mcintosh Brian Shalonda |
 | 203 | 1896 | Christi Hulet |
 | 204 | 1888 | Loopy Clusterbuilder |
-| 205 | 1869 | Ryan Stadel |
-| 206 | 1865 | Matthew Joseph Acevedo |
-| 207 | 1861 | Juliana Marques Do Nascimento Gordy |
-| 208 | 1855 | Missie Lawson Gebhardt |
-| 209 | 1853 | Kristopher Miller |
-| 210 | 1845 | Katrina Weston |
-| 211 | 1840 | blarg |
-| 212 | 1838 | Joyce Johnson Vaughn |
-| 213 | 1826 | Dee |
-| 214 | 1825 | Marie Boyd Faulk |
-| 215 | 1823 | Lauren Fitzgerald Thomas |
-| 216 | 1821 | Chirpy Staggerpiece |
-| 217 | 1816 | Woodys Glass |
-| 218 | 1813 | Catina Hutchison |
+| 205 | 1865 | Matthew Joseph Acevedo |
+| 206 | 1861 | Juliana Marques Do Nascimento Gordy |
+| 207 | 1855 | Missie Lawson Gebhardt |
+| 208 | 1853 | Kristopher Miller |
+| 209 | 1845 | Katrina Weston |
+| 210 | 1840 | blarg |
+| 211 | 1838 | Joyce Johnson Vaughn |
+| 212 | 1826 | Dee |
+| 213 | 1825 | Marie Boyd Faulk |
+| 214 | 1823 | Lauren Fitzgerald Thomas |
+| 215 | 1821 | Chirpy Staggerpiece |
+| 216 | 1816 | Woodys Glass |
+| 217 | 1813 | Catina Hutchison |
+| 218 | 1809 | Ryan Stadel |
 | 219 | 1807 | Osun Anuket Esu |
 | 220 | 1787 | Teddi Notyalc |
 | 221 | 1786 | Eric Carlson |
@@ -332,8 +332,8 @@
 | 324 | 1350 | Tinishia Amie |
 | 325 | 1349 | Diallo Sparkman |
 | 326 | 1348 | Keri Womack |
-| 327 | 1342 | Groovy Puzzle |
-| 328 | 1342 | Kelly A Green-Leach |
+| 327 | 1342 | Kelly A Green-Leach |
+| 328 | 1342 | Groovy Puzzle |
 | 329 | 1338 | Meghan M |
 | 330 | 1336 | Frothy Rumbler |
 | 331 | 1335 | Jess Morrison |
@@ -359,16 +359,16 @@
 | 351 | 1285 | Christina Wsn |
 | 352 | 1282 | Brandon Armstrong |
 | 353 | 1278 | Amber Brion |
-| 354 | 1272 | Mama T |
-| 355 | 1270 | Angela KaplaSchwahn |
+| 354 | 1270 | Angela KaplaSchwahn |
+| 355 | 1264 | Mama T |
 | 356 | 1262 | Toni Roberson |
 | 357 | 1261 | Becca Coronado |
 | 358 | 1259 | AkaLefty |
-| 359 | 1257 | Megan Garrick |
-| 360 | 1257 | Megan Ferguson Leone |
+| 359 | 1257 | Megan Ferguson Leone |
+| 360 | 1257 | Megan Garrick |
 | 361 | 1257 | Jackie Lucas |
-| 362 | 1256 | Belle |
-| 363 | 1256 | Phil J. Grombliniak |
+| 362 | 1256 | Phil J. Grombliniak |
+| 363 | 1256 | Belle |
 | 364 | 1255 | Ambyre Patterson |
 | 365 | 1254 | Erika Densmore |
 | 366 | 1252 | AgileDragon |
@@ -379,9 +379,9 @@
 | 371 | 1245 | Angel Hunnewell |
 | 372 | 1237 | Christine Coughlin |
 | 373 | 1237 | Cheech Dta |
-| 374 | 1237 | Rebecca Miller |
-| 375 | 1233 | Shannon Joslin |
-| 376 | 1229 | Brenda Messer |
+| 374 | 1233 | Shannon Joslin |
+| 375 | 1229 | Brenda Messer |
+| 376 | 1227 | Rebecca Miller |
 | 377 | 1225 | RAEPR05 |
 | 378 | 1224 | Kennedy Sandifer |
 | 379 | 1222 | Nuke Morris |
@@ -450,8 +450,8 @@
 | 442 | 1087 | Angela Bonquiqui Dinish |
 | 443 | 1085 | Bee |
 | 444 | 1085 | Barbra Miller |
-| 445 | 1084 | Emilee Burke |
-| 446 | 1084 | William Hunt |
+| 445 | 1084 | William Hunt |
+| 446 | 1084 | Emilee Burke |
 | 447 | 1082 | Thomas Hedrick |
 | 448 | 1079 | AndrewandShela Gornik |
 | 449 | 1076 | Mandi Douglas Hilt |
@@ -564,23 +564,23 @@
 | 556 | 923 | Giggy Mover |
 | 557 | 923 | Danielle Simmons |
 | 558 | 922 | Butta |
-| 559 | 921 | Quiksilver |
-| 560 | 921 | Dannette Goldberg-Richards |
-| 561 | 920 | Arwa Fatimah |
-| 562 | 919 | Isaac Trappiel IV |
-| 563 | 918 | Draizen Montrell Thomas |
-| 564 | 917 | William David Swallow |
-| 565 | 915 | Kiely Tomaskovich |
-| 566 | 914 | Perky Rollfit |
-| 567 | 911 | Brenda Pierpoint |
-| 568 | 910 | Joshua Self |
-| 569 | 909 | Valerie Brooke Lusk Armstrong |
-| 570 | 909 | Marella Petilo |
-| 571 | 907 | Gene Mills |
-| 572 | 903 | Stephanie Lumanlan |
-| 573 | 902 | Stephanie Sul |
-| 574 | 901 | KayLynn Ogden McClelland |
-| 575 | 899 | Caitlyn Blackwell |
+| 559 | 921 | Dannette Goldberg-Richards |
+| 560 | 920 | Arwa Fatimah |
+| 561 | 919 | Isaac Trappiel IV |
+| 562 | 918 | Draizen Montrell Thomas |
+| 563 | 917 | William David Swallow |
+| 564 | 915 | Kiely Tomaskovich |
+| 565 | 914 | Perky Rollfit |
+| 566 | 911 | Brenda Pierpoint |
+| 567 | 910 | Joshua Self |
+| 568 | 909 | Valerie Brooke Lusk Armstrong |
+| 569 | 909 | Marella Petilo |
+| 570 | 907 | Gene Mills |
+| 571 | 903 | Stephanie Lumanlan |
+| 572 | 902 | Stephanie Sul |
+| 573 | 901 | KayLynn Ogden McClelland |
+| 574 | 899 | Caitlyn Blackwell |
+| 575 | 899 | Patrick Bartlett |
 | 576 | 899 | Aletha Williams |
 | 577 | 898 | Quiksilver |
 | 578 | 895 | Donna Colby |
@@ -661,21 +661,21 @@
 | 653 | 812 | bbv |
 | 654 | 812 | Samantha Jo |
 | 655 | 812 | CC |
-| 656 | 811 | Vanessa Moreno |
-| 657 | 811 | Kimberly Randesi |
+| 656 | 811 | Kimberly Randesi |
+| 657 | 811 | Vanessa Moreno |
 | 658 | 810 | Roderick Allen |
 | 659 | 809 | Dane Reing |
 | 660 | 809 | Melissa Holsinger |
-| 661 | 809 | Alexandra Weir |
-| 662 | 808 | Leslie Johnson Guinto |
-| 663 | 808 | Justin Edwards |
-| 664 | 805 | Frisky Clearpiece |
-| 665 | 801 | John Jubes |
-| 666 | 800 | Frilly Fallzone |
-| 667 | 798 | Daniell Martinez |
-| 668 | 797 | Moist_B-hole |
-| 669 | 796 | Trevor Jordan |
-| 670 | 796 | Brianna Cerney |
+| 661 | 808 | Leslie Johnson Guinto |
+| 662 | 808 | Justin Edwards |
+| 663 | 802 | Frisky Clearpiece |
+| 664 | 801 | John Jubes |
+| 665 | 800 | Frilly Fallzone |
+| 666 | 798 | Daniell Martinez |
+| 667 | 797 | Moist_B-hole |
+| 668 | 796 | Trevor Jordan |
+| 669 | 796 | Brianna Cerney |
+| 670 | 795 | Alexandra Weir |
 | 671 | 793 | Joseph Musick |
 | 672 | 793 | Heather Anspaugh |
 | 673 | 792 | Beatboxxer |

@@ -1,13 +1,13 @@
 # Standings for team1 as of 2026-02-24 13:19:06 UTC
 
-**Total Participants:** 2251
+**Total Participants:** 2249
 
 ## Participant Scores
 
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 10227 | TAZ-MF-NIZIL |
-| 2 | 8164 | Felicia Haynes |
+| 2 | 8117 | Felicia Haynes |
 | 3 | 7650 | Zerin Graham |
 | 4 | 7160 | Izzie Ramirez-Ford |
 | 5 | 6401 | 'Gilberto Martinez' |
@@ -88,8 +88,8 @@
 | 80 | 1050 | Robert Beck |
 | 81 | 1032 | Kathi Snustad |
 | 82 | 1026 | Kandae |
-| 83 | 1011 | Francesca Gee |
-| 84 | 1011 | Phu ckalldems |
+| 83 | 1011 | Phu ckalldems |
+| 84 | 1011 | Francesca Gee |
 | 85 | 1007 | Zippy Align |
 | 86 | 1002 | Veronica Eve |
 | 87 | 980 | Lexuriuos Lifestlye |
@@ -374,7 +374,7 @@
 | 366 | 330 | Katie Martin |
 | 367 | 329 | Mary Love |
 | 368 | 329 | Sarah Marie |
-| 369 | 329 | Mary Love |
+| 369 | 327 | Amber Dee |
 | 370 | 327 | Christina Norman |
 | 371 | 326 | Chummy Rollblock |
 | 372 | 325 | GringaLinga |
