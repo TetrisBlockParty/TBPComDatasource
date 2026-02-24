@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-24 18:20:44 UTC
+# Standings for team4 as of 2026-02-24 18:21:24 UTC
 
 **Total Participants:** 2060
 
@@ -7,7 +7,7 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 8598 | Bubbly Puzzler |
-| 2 | 8461 | Devinlee Brown |
+| 2 | 8477 | Devinlee Brown |
 | 3 | 8070 | sierrabeth |
 | 4 | 6050 | Kat |
 | 5 | 5371 | Breannah Grafe |
@@ -186,8 +186,8 @@
 | 178 | 590 | Carlton Unfiltered |
 | 179 | 590 | Crystal Lynn |
 | 180 | 586 | Latisha Davis |
-| 181 | 585 | Tracey Lehmann |
-| 182 | 584 | JPW |
+| 181 | 585 | JPW |
+| 182 | 585 | Tracey Lehmann |
 | 183 | 583 | Christina Black |
 | 184 | 580 | Erin Sabol |
 | 185 | 579 | Oscar Alberto Perez |
@@ -284,44 +284,44 @@
 | 276 | 428 | Gdiguy |
 | 277 | 427 | Chao Ma |
 | 278 | 427 | Blessedmama |
-| 279 | 426 | Andrew Dang |
-| 280 | 426 | Maria Hammie |
+| 279 | 426 | Maria Hammie |
+| 280 | 426 | Andrew Dang |
 | 281 | 425 | Jen Caldwell |
-| 282 | 421 | JIGsaw ~(•¿°)~ |
-| 283 | 421 | TinyLegoRose |
+| 282 | 421 | TinyLegoRose |
+| 283 | 421 | JIGsaw ~(•¿°)~ |
 | 284 | 419 | Hyper Matchclear |
 | 285 | 418 | Jessica Fredericks |
-| 286 | 417 | Denise B |
-| 287 | 416 | Googenheim |
-| 288 | 415 | Jim Hart |
-| 289 | 415 | Tina Lopez |
-| 290 | 413 | KimoKoala |
+| 286 | 417 | Sandra Safford |
+| 287 | 417 | Denise B |
+| 288 | 416 | Googenheim |
+| 289 | 415 | Jim Hart |
+| 290 | 415 | Tina Lopez |
 | 291 | 413 | Twisty Risebuilder |
-| 292 | 413 | Neirrah B Olailjeel |
-| 293 | 411 | Snippy Puzzle |
-| 294 | 411 | Autumn Kumzi |
-| 295 | 411 | Vic |
-| 296 | 410 | Lindsay Ball |
-| 297 | 409 | Antony Dwayne Beasley |
-| 298 | 408 | Dihcheese444 |
-| 299 | 407 | blockstar |
-| 300 | 406 | Zethra Prenisha Rahming |
-| 301 | 404 | Dizzy Matchzone |
-| 302 | 404 | Nubian1 |
-| 303 | 404 | Tawna Curry |
-| 304 | 401 | Dan Wold |
-| 305 | 400 | Jess Reyes |
-| 306 | 398 | Tyler Terrific |
-| 307 | 397 | Lora |
-| 308 | 395 | Daria Rycewicz |
+| 292 | 413 | KimoKoala |
+| 293 | 413 | Neirrah B Olailjeel |
+| 294 | 411 | Snippy Puzzle |
+| 295 | 411 | Autumn Kumzi |
+| 296 | 411 | Vic |
+| 297 | 410 | Lindsay Ball |
+| 298 | 409 | Antony Dwayne Beasley |
+| 299 | 408 | Dihcheese444 |
+| 300 | 407 | blockstar |
+| 301 | 406 | Zethra Prenisha Rahming |
+| 302 | 404 | Dizzy Matchzone |
+| 303 | 404 | Nubian1 |
+| 304 | 404 | Tawna Curry |
+| 305 | 401 | Dan Wold |
+| 306 | 400 | Jess Reyes |
+| 307 | 398 | Tyler Terrific |
+| 308 | 397 | Lora |
 | 309 | 395 | BigSammy420 |
-| 310 | 394 | Nikki Rae Gordon |
-| 311 | 394 | Perky Patternblock |
-| 312 | 393 | Montiette Mcglown |
-| 313 | 392 | Mary Ann Pabukis |
-| 314 | 389 | Angie Schmidt |
-| 315 | 389 | Zołza 😈 |
-| 316 | 387 | Sandra Safford |
+| 310 | 395 | Daria Rycewicz |
+| 311 | 394 | Nikki Rae Gordon |
+| 312 | 394 | Perky Patternblock |
+| 313 | 393 | Montiette Mcglown |
+| 314 | 392 | Mary Ann Pabukis |
+| 315 | 389 | Angie Schmidt |
+| 316 | 389 | Zołza 😈 |
 | 317 | 386 | ZeeZee |
 | 318 | 384 | Russ Attitude |
 | 319 | 384 | Michelle Morris |
@@ -331,56 +331,56 @@
 | 323 | 380 | Holly Jolly |
 | 324 | 380 | Chaz |
 | 325 | 377 | Lauren Lamb |
-| 326 | 376 | Nig |
-| 327 | 376 | Kenna Gunderland |
-| 328 | 376 | Morti |
-| 329 | 376 | Stacey Stano |
+| 326 | 376 | Stacey Stano |
+| 327 | 376 | Nig |
+| 328 | 376 | Kenna Gunderland |
+| 329 | 376 | Morti |
 | 330 | 375 | George Tzouganos |
 | 331 | 373 | Perky Piecegrid |
-| 332 | 370 | Amy Sanford |
-| 333 | 370 | Kris Bartlett |
+| 332 | 370 | Kris Bartlett |
+| 333 | 370 | Amy Sanford |
 | 334 | 370 | Kristi Trafton |
 | 335 | 369 | Jackie Clark |
 | 336 | 367 | Meg |
-| 337 | 366 | Jessica Petersen |
-| 338 | 366 | Ak Jones |
+| 337 | 366 | Ak Jones |
+| 338 | 366 | Jessica Petersen |
 | 339 | 364 | Tony Pavelka |
 | 340 | 362 | Allison Rose |
 | 341 | 362 | Jason Bosco |
 | 342 | 361 | Marcus TheeyoungWoe Gilmore |
 | 343 | 359 | Raymond Roberts |
 | 344 | 359 | Holly |
-| 345 | 359 | Allen Lloyd |
-| 346 | 359 | Sho Nuff |
+| 345 | 359 | Sho Nuff |
+| 346 | 359 | Allen Lloyd |
 | 347 | 359 | AyeKay |
 | 348 | 358 | Lilya Troutman |
 | 349 | 356 | Heather Bruce |
-| 350 | 354 | Sarah Hoffman |
-| 351 | 354 | @ |
+| 350 | 354 | @ |
+| 351 | 354 | Sarah Hoffman |
 | 352 | 352 | Kate |
 | 353 | 351 | Dana Scott |
 | 354 | 351 | Metsfan |
-| 355 | 350 | Amanda Maciel Clarke |
-| 356 | 349 | jim |
-| 357 | 349 | Richard-April Kice |
-| 358 | 348 | Frances Hui |
-| 359 | 348 | Bryan Hodgins |
-| 360 | 348 | Maureen Flanigan |
-| 361 | 347 | Ruby Khalisadar |
-| 362 | 347 | Megan Cutshaw |
-| 363 | 347 | Eminem |
-| 364 | 346 | Kevin Bush |
-| 365 | 346 | Gracie Ann Taylor |
+| 355 | 350 | KayM |
+| 356 | 350 | Amanda Maciel Clarke |
+| 357 | 349 | jim |
+| 358 | 349 | Richard-April Kice |
+| 359 | 348 | Maureen Flanigan |
+| 360 | 348 | Bryan Hodgins |
+| 361 | 348 | Frances Hui |
+| 362 | 347 | Ruby Khalisadar |
+| 363 | 347 | Megan Cutshaw |
+| 364 | 347 | Eminem |
+| 365 | 346 | Kevin Bush |
 | 366 | 346 | James Philpot Ross |
-| 367 | 345 | Groovy Gridlock |
-| 368 | 344 | Glitzy Corner |
-| 369 | 344 | Chair |
-| 370 | 343 | ImJustMe |
-| 371 | 343 | Jay You |
-| 372 | 343 | HastyGrabber |
-| 373 | 343 | Candice Carasiti |
-| 374 | 342 | Chance Strickland |
-| 375 | 342 | KayM |
+| 367 | 346 | Gracie Ann Taylor |
+| 368 | 345 | Groovy Gridlock |
+| 369 | 344 | Glitzy Corner |
+| 370 | 344 | Chair |
+| 371 | 343 | ImJustMe |
+| 372 | 343 | Jay You |
+| 373 | 343 | HastyGrabber |
+| 374 | 343 | Candice Carasiti |
+| 375 | 342 | Chance Strickland |
 | 376 | 341 | Michael Snow |
 | 377 | 340 | Juls |
 | 378 | 339 | Susan Williams |
