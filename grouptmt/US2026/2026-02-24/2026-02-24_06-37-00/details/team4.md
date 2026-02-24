@@ -136,8 +136,8 @@
 | 128 | 712 | H.R. Block |
 | 129 | 712 | Leslie Nicole |
 | 130 | 708 | Jacqueline Helm |
-| 131 | 704 | Chilly Crasher |
-| 132 | 704 | Austin Owens |
+| 131 | 704 | Austin Owens |
+| 132 | 704 | Chilly Crasher |
 | 133 | 682 | Raegan Lane-Ross |
 | 134 | 668 | Desi Desporte |
 | 135 | 667 | Matt Gooder |

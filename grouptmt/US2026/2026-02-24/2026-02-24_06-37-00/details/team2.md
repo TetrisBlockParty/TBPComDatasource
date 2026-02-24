@@ -356,8 +356,8 @@
 | 348 | 1252 | Brainy Smurf |
 | 349 | 1249 | Tristan Szolek |
 | 350 | 1245 | Angel Hunnewell |
-| 351 | 1237 | Christine Coughlin |
-| 352 | 1237 | Cheech Dta |
+| 351 | 1237 | Cheech Dta |
+| 352 | 1237 | Christine Coughlin |
 | 353 | 1235 | Bri Lynn |
 | 354 | 1233 | Shannon Joslin |
 | 355 | 1232 | Ambyre Patterson |

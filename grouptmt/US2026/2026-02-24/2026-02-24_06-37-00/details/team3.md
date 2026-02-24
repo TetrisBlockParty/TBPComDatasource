@@ -104,8 +104,8 @@
 | 96 | 1361 | Patricia Gadsden |
 | 97 | 1343 | Joey Banks |
 | 98 | 1320 | Kristie |
-| 99 | 1318 | Tiff Vs Tiffany |
-| 100 | 1318 | Diana Ibarra |
+| 99 | 1318 | Diana Ibarra |
+| 100 | 1318 | Tiff Vs Tiffany |
 | 101 | 1309 | yoyo |
 | 102 | 1297 | Shelby Michelle |
 | 103 | 1290 | JerseyJess |
@@ -123,8 +123,8 @@
 | 115 | 1134 | Melissa Orth Hunter |
 | 116 | 1124 | Stephanie Rice |
 | 117 | 1121 | Corie A. Brinson |
-| 118 | 1114 | Groovy Catcher |
-| 119 | 1114 | Loopy Fallmatch |
+| 118 | 1114 | Loopy Fallmatch |
+| 119 | 1114 | Groovy Catcher |
 | 120 | 1105 | Adrian Marcel Pate |
 | 121 | 1093 | Angela M. Fletcher |
 | 122 | 1091 | Jennifer |
@@ -198,8 +198,8 @@
 | 190 | 784 | Jone |
 | 191 | 783 | Julian Murphy |
 | 192 | 777 | Daryn Elliott |
-| 193 | 774 | Twisty Brick LT |
-| 194 | 774 | ren |
+| 193 | 774 | ren |
+| 194 | 774 | Twisty Brick LT |
 | 195 | 772 | Tye Stovall |
 | 196 | 769 | Hasty Cascadefit |
 | 197 | 768 | Cyd061769 |
@@ -251,8 +251,8 @@
 | 243 | 633 | Jillian Symons |
 | 244 | 630 | Jackie Miller |
 | 245 | 629 | rnr junky |
-| 246 | 627 | Juliana Dottore |
-| 247 | 627 | Louise Stacy Sisson |
+| 246 | 627 | Louise Stacy Sisson |
+| 247 | 627 | Juliana Dottore |
 | 248 | 625 | Jacqueline Rodriguez |
 | 249 | 624 | Hyper Matchzone |
 | 250 | 623 | Giggy Glidepiece |
@@ -420,8 +420,8 @@
 | 412 | 391 | Rebel124 |
 | 413 | 390 | ROODBOY |
 | 414 | 389 | Amanda J. Mcneil-Anderson |
-| 415 | 387 | Brittany K Ward |
-| 416 | 387 | Goofy Fall |
+| 415 | 387 | Goofy Fall |
+| 416 | 387 | Brittany K Ward |
 | 417 | 384 | Tiffany Davie |
 | 418 | 383 | Jessica Christian |
 | 419 | 383 | Kirhonda Autmon |
@@ -582,10 +582,10 @@
 | 574 | 308 | Katrina Turner |
 | 575 | 308 | Danetta McCadden |
 | 576 | 307 | Kristina Gardner |
-| 577 | 306 | Alexis Ford |
-| 578 | 306 | BigE |
-| 579 | 306 | Dapper Chiseler |
-| 580 | 306 | Valerie Tarkington |
+| 577 | 306 | Dapper Chiseler |
+| 578 | 306 | Alexis Ford |
+| 579 | 306 | Valerie Tarkington |
+| 580 | 306 | BigE |
 | 581 | 305 | Frisky Stacker |
 | 582 | 304 | Carrie Resler |
 | 583 | 304 | Courtney Price |
@@ -608,7 +608,7 @@
 | 600 | 296 | Tracy Martin |
 | 601 | 295 | Omega |
 | 602 | 294 | Jazzy Spinfit |
-| 603 | 293 | Anna Moeller |
+| 603 | 293 | Tommy Proctor |
 | 604 | 293 | Rufus Lincoln |
 | 605 | 293 | Anna Moeller |
 | 606 | 292 | Beezwax |
