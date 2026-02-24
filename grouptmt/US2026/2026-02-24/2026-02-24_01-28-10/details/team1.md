@@ -125,8 +125,8 @@
 | 117 | 612 | femmefatale |
 | 118 | 606 | Ty Brown |
 | 119 | 604 | Ryan Lunnin |
-| 120 | 601 | Evan Richmond |
-| 121 | 601 | Phu ckalldems |
+| 120 | 601 | Phu ckalldems |
+| 121 | 601 | Evan Richmond |
 | 122 | 598 | Jessi Sauer |
 | 123 | 594 | Basment Living |
 | 124 | 591 | Giddy Cascade |
@@ -220,11 +220,11 @@
 | 212 | 417 | Jessie Lynn |
 | 213 | 416 | Jessica Sheehan |
 | 214 | 413 | Ananda Mendez |
-| 215 | 412 | Connie |
-| 216 | 412 | Witty Builderfit |
+| 215 | 412 | Witty Builderfit |
+| 216 | 412 | Connie |
 | 217 | 405 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
-| 218 | 404 | Sleepysloath5745 |
-| 219 | 404 | Tawnya Peltonen |
+| 218 | 404 | Tawnya Peltonen |
+| 219 | 404 | Sleepysloath5745 |
 | 220 | 403 | Betsy |
 | 221 | 401 | Happy Snapbuild |
 | 222 | 401 | Νεφ Όνυξ |
@@ -281,10 +281,10 @@
 | 273 | 353 | Josh Riemer |
 | 274 | 353 | Keith Mathis |
 | 275 | 352 | Jamie Jury |
-| 276 | 349 | Cool Shiftsnap |
-| 277 | 349 | Rodney Schmerfeld |
-| 278 | 348 | DoodleBug |
-| 279 | 348 | John Kim |
+| 276 | 349 | Rodney Schmerfeld |
+| 277 | 349 | Cool Shiftsnap |
+| 278 | 348 | John Kim |
+| 279 | 348 | DoodleBug |
 | 280 | 347 | ParisandCory Champagne |
 | 281 | 346 | build master |
 | 282 | 344 | Buttons Stemm |

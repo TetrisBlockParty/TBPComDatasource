@@ -616,7 +616,7 @@
 | 608 | 267 | Chilly Pop |
 | 609 | 266 | Frothy Snapper |
 | 610 | 266 | Beck Nicole |
-| 611 | 266 | Frothy Snapper |
+| 611 | 266 | Reina Roth |
 | 612 | 266 | Crystal Hine |
 | 613 | 264 | Katheline Lazo Luizaga |
 | 614 | 264 | Danielle Beaunoyer Jean |

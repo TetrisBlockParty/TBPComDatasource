@@ -107,8 +107,8 @@
 | 99 | 779 | Nope Young |
 | 100 | 775 | TheNeesh50 |
 | 101 | 775 | Klo |
-| 102 | 768 | Judy Cox |
-| 103 | 768 | Trista Leah |
+| 102 | 768 | Trista Leah |
+| 103 | 768 | Judy Cox |
 | 104 | 766 | Robin Watters |
 | 105 | 764 | Valerie Roberts |
 | 106 | 760 | Keith Kelley |
@@ -155,8 +155,8 @@
 | 147 | 579 | shar |
 | 148 | 577 | Brandon Crabbs |
 | 149 | 575 | Jenna Ingersoll |
-| 150 | 574 | Carmethia Clemons Haslerig |
-| 151 | 574 | Carlos Ramirez |
+| 150 | 574 | Carlos Ramirez |
+| 151 | 574 | Carmethia Clemons Haslerig |
 | 152 | 572 | Austin Owens |
 | 153 | 571 | SAP |
 | 154 | 562 | Livvy |
