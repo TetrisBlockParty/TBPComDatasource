@@ -139,15 +139,15 @@
 | 131 | 666 | Virginia Gray Floyd |
 | 132 | 652 | Evie Khalil |
 | 133 | 651 | Dandy Basegrid |
-| 134 | 650 | April Carroll |
-| 135 | 650 | Bob |
+| 134 | 650 | Bob |
+| 135 | 650 | April Carroll |
 | 136 | 647 | Theo Pinnow |
 | 137 | 643 | Erin Rosberg |
 | 138 | 642 | Mario Cab |
 | 139 | 629 | Death |
 | 140 | 629 | Tanya Carpenter-Reynolds |
-| 141 | 628 | femmefatale |
-| 142 | 628 | Trina Gee |
+| 141 | 628 | Trina Gee |
+| 142 | 628 | femmefatale |
 | 143 | 626 | Damon J. Martin |
 | 144 | 620 | Ty Brown |
 | 145 | 611 | Evan Richmond |
@@ -262,8 +262,8 @@
 | 254 | 414 | Bird Person |
 | 255 | 412 | Sleepysloath5745 |
 | 256 | 410 | Paula Martin |
-| 257 | 409 | poopypants |
-| 258 | 409 | Lehrin Maria |
+| 257 | 409 | Lehrin Maria |
+| 258 | 409 | poopypants |
 | 259 | 408 | Dino |
 | 260 | 408 | Sweetts |
 | 261 | 405 | Tyler L Hunt |
@@ -278,8 +278,8 @@
 | 270 | 393 | Wisa |
 | 271 | 392 | Poppy Riserpiece |
 | 272 | 392 | Renee Tucker |
-| 273 | 391 | Sarahdactyl |
-| 274 | 391 | Happy Basegrid |
+| 273 | 391 | Happy Basegrid |
+| 274 | 391 | Sarahdactyl |
 | 275 | 390 | David Lutcher |
 | 276 | 388 | Test |
 | 277 | 387 | Sarah Roberts |
@@ -293,11 +293,11 @@
 | 285 | 382 | Jamie Jury |
 | 286 | 379 | Austin James |
 | 287 | 378 | Eddie Dillon |
-| 288 | 377 | DoodleBug |
-| 289 | 377 | Rayline M Bradshaw |
+| 288 | 377 | Rayline M Bradshaw |
+| 289 | 377 | DoodleBug |
 | 290 | 377 | GATOR |
-| 291 | 376 | Sassy Builderline |
-| 292 | 376 | Brian Richardsson |
+| 291 | 376 | Brian Richardsson |
+| 292 | 376 | Sassy Builderline |
 | 293 | 375 | DaRascal |
 | 294 | 374 | Snappy Brickbuilder |
 | 295 | 373 | Frothy Pattern |
@@ -309,8 +309,8 @@
 | 301 | 371 | Danielle S Kester |
 | 302 | 370 | Gracie |
 | 303 | 369 | John Kim |
-| 304 | 367 | April Jones |
-| 305 | 367 | Cheeky Pop |
+| 304 | 367 | Cheeky Pop |
+| 305 | 367 | April Jones |
 | 306 | 366 | J.F. Fields |
 | 307 | 365 | Amanda Holibaugh |
 | 308 | 365 | Shannon Marie Pitts |
@@ -322,10 +322,10 @@
 | 314 | 362 | Brooke Elizabeth Antill |
 | 315 | 359 | Rodney Schmerfeld |
 | 316 | 357 | Jasmine Riley |
-| 317 | 356 | Brave Linkmatch |
-| 318 | 356 | build master |
-| 319 | 355 | Shanae Grant |
-| 320 | 355 | Toya Lynn |
+| 317 | 356 | build master |
+| 318 | 356 | Brave Linkmatch |
+| 319 | 355 | Toya Lynn |
+| 320 | 355 | Shanae Grant |
 | 321 | 354 | Kimberly Davis |
 | 322 | 353 | Josh Riemer |
 | 323 | 352 | Lachelle Dillon |
@@ -377,8 +377,8 @@
 | 369 | 317 | Bloknboy |
 | 370 | 317 | Amh |
 | 371 | 316 | Giggly Builderline |
-| 372 | 315 | san |
-| 373 | 315 | Joe Coon |
+| 372 | 315 | Joe Coon |
+| 373 | 315 | san |
 | 374 | 314 | Наталья Солоид |
 | 375 | 313 | Delvison Rosario |
 | 376 | 313 | Steph |
@@ -531,8 +531,8 @@
 | 523 | 244 | Kristen Meehan Wangerien |
 | 524 | 243 | Gerald Richard Franke |
 | 525 | 242 | Stephanie Leday |
-| 526 | 242 | Joshua Weeder |
-| 527 | 242 | Pauline Cortez |
+| 526 | 242 | Pauline Cortez |
+| 527 | 242 | Joshua Weeder |
 | 528 | 241 | Josh Smith |
 | 529 | 241 | Abbey Crespo |
 | 530 | 240 | Jumpy Rotate |

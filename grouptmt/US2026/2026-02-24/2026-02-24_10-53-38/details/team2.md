@@ -306,8 +306,8 @@
 | 298 | 1407 | Lola C Davis |
 | 299 | 1397 | Tralonda Weeks |
 | 300 | 1392 | Karen Snyder Schrage |
-| 301 | 1391 | Ronnie Nelson |
-| 302 | 1391 | Kimberly Hauck-Rausch |
+| 301 | 1391 | Kimberly Hauck-Rausch |
+| 302 | 1391 | Ronnie Nelson |
 | 303 | 1387 | Samantha Scibelli |
 | 304 | 1386 | Kimmy Newman |
 | 305 | 1383 | Ladyrainbootz |
@@ -703,8 +703,8 @@
 | 695 | 766 | Angela Cagle Silmon |
 | 696 | 764 | Shannon Jackson |
 | 697 | 763 | Chelle |
-| 698 | 763 | Cecilia A Jenkins |
-| 699 | 763 | Heather Causey |
+| 698 | 763 | Heather Causey |
+| 699 | 763 | Cecilia A Jenkins |
 | 700 | 762 | Slinky Racker |
 | 701 | 760 | Shorty |
 | 702 | 759 | Anthony McAlister |
@@ -725,14 +725,14 @@
 | 717 | 746 | Emily Lyric Converse |
 | 718 | 744 | Boldy Wiper |
 | 719 | 743 | Danielle Ayoub |
-| 720 | 743 | Gloria Ininahazwe |
-| 721 | 743 | Véronique Lévesque Sabourin |
+| 720 | 743 | Véronique Lévesque Sabourin |
+| 721 | 743 | Gloria Ininahazwe |
 | 722 | 743 | Clever Dashgrid |
 | 723 | 742 | Rhonda Petro |
 | 724 | 741 | Leah Keesling |
 | 725 | 741 | Ashley Munn |
-| 726 | 740 | Joice Hansen |
-| 727 | 740 | Lee Harper |
+| 726 | 740 | Lee Harper |
+| 727 | 740 | Joice Hansen |
 | 728 | 740 | Lylymom |
 | 729 | 738 | Jessica S Flecha |
 | 730 | 737 | Ginger |
@@ -759,7 +759,7 @@
 | 751 | 725 | Cheyenne Donovan |
 | 752 | 724 | Brenna Ann |
 | 753 | 724 | ນາງ ບີ ລາດຊະຈັກ |
-| 754 | 724 | teo1 |
+| 754 | 724 | Epic Fitzone |
 | 755 | 723 | Jannan Haimour |
 | 756 | 722 | Sassy Racker |
 | 757 | 720 | Poldo Ilano |
@@ -780,12 +780,12 @@
 | 772 | 711 | Narutofreak13 |
 | 773 | 710 | Alexis Richardson |
 | 774 | 707 | Giggy Grabber |
-| 775 | 706 | Josh Webster |
-| 776 | 706 | Roseanna Peloso |
+| 775 | 706 | Roseanna Peloso |
+| 776 | 706 | Josh Webster |
 | 777 | 706 | Karen Posadas Centeno |
 | 778 | 705 | Chelsea Gutierrez |
-| 779 | 703 | cornball |
-| 780 | 703 | Funky Drop |
+| 779 | 703 | Funky Drop |
+| 780 | 703 | cornball |
 | 781 | 702 | Brittney Jean |
 | 782 | 701 | Sandra McNab |
 | 783 | 701 | Aishah Brice |
@@ -807,22 +807,22 @@
 | 799 | 691 | Melissa Kay Gibson |
 | 800 | 690 | Lawanda Forbes |
 | 801 | 690 | Latasha Love |
-| 802 | 689 | Martina Gabrielle LaPolla |
-| 803 | 689 | SpaceCase085 |
+| 802 | 689 | SpaceCase085 |
+| 803 | 689 | Martina Gabrielle LaPolla |
 | 804 | 688 | Tracy Wise |
 | 805 | 688 | Newni Bayb |
 | 806 | 687 | Candy Pitts |
 | 807 | 686 | Christina Ashley |
 | 808 | 685 | Rose Fx |
-| 809 | 684 | Atara James |
-| 810 | 684 | Sleepypanda67 |
+| 809 | 684 | Sleepypanda67 |
+| 810 | 684 | Atara James |
 | 811 | 684 | Jazzy Clusterline |
 | 812 | 683 | Nicole Sanqui |
 | 813 | 683 | Audrey Jones |
 | 814 | 682 | Jacob Tri |
 | 815 | 680 | Nutty Cascade |
-| 816 | 680 | Paul Combs |
-| 817 | 680 | Stephanie Lafalce |
+| 816 | 680 | Stephanie Lafalce |
+| 817 | 680 | Paul Combs |
 | 818 | 680 | mshir |
 | 819 | 679 | Regina Knight |
 | 820 | 679 | DLOCC1056 |
