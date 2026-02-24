@@ -113,8 +113,8 @@
 | 105 | 813 | Klo |
 | 106 | 811 | Sassy Pattern |
 | 107 | 806 | Lori Walker |
-| 108 | 802 | Crystal Carroll |
-| 109 | 802 | Denise Carlson |
+| 108 | 802 | Denise Carlson |
+| 109 | 802 | Crystal Carroll |
 | 110 | 801 | D3TROITB0RN74 |
 | 111 | 798 | Jewell Urban |
 | 112 | 796 | Zippy Gridlock |
@@ -131,8 +131,8 @@
 | 123 | 735 | Nugget |
 | 124 | 731 | KJ Pool |
 | 125 | 729 | Jamie Mann-Deichmann |
-| 126 | 726 | Jamie Gustafson |
-| 127 | 726 | Amy Suckarieh |
+| 126 | 726 | Amy Suckarieh |
+| 127 | 726 | Jamie Gustafson |
 | 128 | 725 | Brandon Crabbs |
 | 129 | 712 | Leslie Nicole |
 | 130 | 712 | H.R. Block |
@@ -216,8 +216,8 @@
 | 208 | 502 | Ericca Eldridge |
 | 209 | 501 | Sharyn Lemire |
 | 210 | 499 | Kesha Brady |
-| 211 | 496 | Jessica Bohlken |
-| 212 | 496 | Lori |
+| 211 | 496 | Lori |
+| 212 | 496 | Jessica Bohlken |
 | 213 | 495 | Joeliecea Cobb |
 | 214 | 494 | Bio Nelly |
 | 215 | 493 | Amanda Pauldo-Ivy |
@@ -238,8 +238,8 @@
 | 230 | 460 | Calvin Cannon |
 | 231 | 458 | Kristina Black |
 | 232 | 458 | Luis Martinez |
-| 233 | 457 | J-Rizzle |
-| 234 | 457 | Kristin Manee |
+| 233 | 457 | Kristin Manee |
+| 234 | 457 | J-Rizzle |
 | 235 | 455 | Michele Plunkett |
 | 236 | 454 | Keshia Lyons |
 | 237 | 450 | Genne Scott |
@@ -302,8 +302,8 @@
 | 294 | 375 | George Tzouganos |
 | 295 | 373 | Russ Attitude |
 | 296 | 371 | Jessi Cinotto |
-| 297 | 370 | Twisty Risebuilder |
-| 298 | 370 | Kris Bartlett |
+| 297 | 370 | Kris Bartlett |
+| 298 | 370 | Twisty Risebuilder |
 | 299 | 368 | Dan Wold |
 | 300 | 367 | Meg |
 | 301 | 365 | David Lay |
@@ -381,8 +381,8 @@
 | 373 | 307 | tipsy tiger |
 | 374 | 306 | PeaceOs |
 | 375 | 304 | Sarah Neathery |
-| 376 | 302 | Koral Hanke |
-| 377 | 302 | Jenna McGeorge |
+| 376 | 302 | Jenna McGeorge |
+| 377 | 302 | Koral Hanke |
 | 378 | 300 | Carter Jones |
 | 379 | 300 | Jason Frehner |
 | 380 | 299 | Michael Snow |

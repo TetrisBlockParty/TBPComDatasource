@@ -66,8 +66,8 @@
 | 58 | 1173 | Adam Byrd |
 | 59 | 1170 | Tater |
 | 60 | 1150 | Cynthia Bradley |
-| 61 | 1137 | TSwag |
-| 62 | 1137 | Jen Sartain |
+| 61 | 1137 | Jen Sartain |
+| 62 | 1137 | TSwag |
 | 63 | 1127 | Andrea Dañielle Ortiz |
 | 64 | 1122 | Kristen Gideon |
 | 65 | 1114 | Jayme Sellers |
@@ -141,8 +141,8 @@
 | 133 | 643 | Erin Rosberg |
 | 134 | 642 | Mario Cab |
 | 135 | 638 | Carrie Smith |
-| 136 | 629 | Tanya Carpenter-Reynolds |
-| 137 | 629 | Death |
+| 136 | 629 | Death |
+| 137 | 629 | Tanya Carpenter-Reynolds |
 | 138 | 628 | Trina Gee |
 | 139 | 626 | Damon J. Martin |
 | 140 | 620 | Ty Brown |
@@ -268,8 +268,8 @@
 | 260 | 396 | Sam Williams |
 | 261 | 394 | Nick R Montague |
 | 262 | 393 | Wisa |
-| 263 | 392 | Poppy Riserpiece |
-| 264 | 392 | Renee Tucker |
+| 263 | 392 | Renee Tucker |
+| 264 | 392 | Poppy Riserpiece |
 | 265 | 391 | Happy Basegrid |
 | 266 | 390 | David Lutcher |
 | 267 | 388 | Test |

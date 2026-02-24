@@ -125,8 +125,8 @@
 | 117 | 1134 | Melissa Orth Hunter |
 | 118 | 1124 | Stephanie Rice |
 | 119 | 1121 | Corie A. Brinson |
-| 120 | 1114 | Loopy Fallmatch |
-| 121 | 1114 | Groovy Catcher |
+| 120 | 1114 | Groovy Catcher |
+| 121 | 1114 | Loopy Fallmatch |
 | 122 | 1105 | Adrian Marcel Pate |
 | 123 | 1093 | Angela M. Fletcher |
 | 124 | 1091 | Jennifer |
@@ -234,8 +234,8 @@
 | 226 | 708 | Stephanie Bradley |
 | 227 | 704 | Betty Bóò |
 | 228 | 703 | Shawn Miller |
-| 229 | 691 | Snappy Balancer |
-| 230 | 691 | Tia |
+| 229 | 691 | Tia |
+| 230 | 691 | Snappy Balancer |
 | 231 | 687 | joz |
 | 232 | 677 | Terry Jo Jones |
 | 233 | 662 | Jim Mathews |
@@ -358,8 +358,8 @@
 | 350 | 459 | Randy Clevenger |
 | 351 | 459 | TotoCherue |
 | 352 | 457 | Snippy Wipeout |
-| 353 | 456 | Kelly |
-| 354 | 456 | Cynthia Herrmann Egland |
+| 353 | 456 | Cynthia Herrmann Egland |
+| 354 | 456 | Kelly |
 | 355 | 455 | Kelly Wolf |
 | 356 | 450 | Stefanie LaPointe |
 | 357 | 450 | Luciana Braganca Vieira |
@@ -386,8 +386,8 @@
 | 378 | 431 | Donna Esbensen-Alpini |
 | 379 | 430 | Quackers |
 | 380 | 430 | AlsoJess |
-| 381 | 428 | Skinny Baldez |
-| 382 | 428 | Samantha Lynn |
+| 381 | 428 | Samantha Lynn |
+| 382 | 428 | Skinny Baldez |
 | 383 | 427 | Darlene McMillan |
 | 384 | 426 | Christina Rotz Shows |
 | 385 | 425 | Ava Petito |
@@ -588,7 +588,7 @@
 | 580 | 308 | Stephanie Hill |
 | 581 | 308 | Katie Leigh Blankenship |
 | 582 | 308 | Bryan Byrd |
-| 583 | 308 | Katie Leigh Blankenship |
+| 583 | 308 | Grams |
 | 584 | 308 | Christine Foley |
 | 585 | 308 | Danetta McCadden |
 | 586 | 307 | Kristina Gardner |
@@ -613,7 +613,7 @@
 | 605 | 299 | Angie Harper |
 | 606 | 297 | Cameo Tweed |
 | 607 | 297 | Zac Hudak |
-| 608 | 297 | Cameo Tweed |
+| 608 | 297 | Angel Miller |
 | 609 | 296 | JoshAllenfan17 |
 | 610 | 295 | Omega |
 | 611 | 294 | Kita A Jackson |
@@ -1136,8 +1136,8 @@
 | 1128 | 171 | Mango |
 | 1129 | 171 | Rachelle-Marshall Foreman |
 | 1130 | 170 | Chenelle Ashley |
-| 1131 | 170 | PrincessSquare |
-| 1132 | 170 | Jessica Rose-Morgan |
+| 1131 | 170 | Jessica Rose-Morgan |
+| 1132 | 170 | PrincessSquare |
 | 1133 | 169 | Brittany Smith Brown |
 | 1134 | 169 | Carina Ortega |
 | 1135 | 169 | Denise Michelle Morningstar |

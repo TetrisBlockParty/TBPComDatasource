@@ -358,8 +358,8 @@
 | 350 | 1264 | Mama T |
 | 351 | 1261 | Becca Coronado |
 | 352 | 1257 | Jackie Lucas |
-| 353 | 1257 | Megan Ferguson Leone |
-| 354 | 1257 | Megan Garrick |
+| 353 | 1257 | Megan Garrick |
+| 354 | 1257 | Megan Ferguson Leone |
 | 355 | 1256 | Belle |
 | 356 | 1254 | Erika Densmore |
 | 357 | 1252 | AgileDragon |
