@@ -10,7 +10,7 @@
 | 2 | 15704 | Edita Reed |
 | 3 | 13941 | Corey Lewis |
 | 4 | 11850 | Amy Dial Brown |
-| 5 | 9862 | Jackie's Soblessed |
+| 5 | 9838 | Jackie's Soblessed |
 | 6 | 8319 | Beverly Young |
 | 7 | 8249 | Ange Ptaszynski |
 | 8 | 7750 | Laurie Allen |
@@ -32,8 +32,8 @@
 | 24 | 3221 | Ashley Jones |
 | 25 | 3118 | Jamie Lang |
 | 26 | 3042 | Nerdy Spinblock |
-| 27 | 2933 | Dan Rob |
-| 28 | 2933 | Grego Daniel |
+| 27 | 2933 | Grego Daniel |
+| 28 | 2933 | Dan Rob |
 | 29 | 2874 | Zippy Strikesnap |
 | 30 | 2873 | Chummy Shatterer |
 | 31 | 2816 | Fancy Slam |
@@ -127,8 +127,8 @@
 | 119 | 1152 | Julian Murphy |
 | 120 | 1124 | Stephanie Rice |
 | 121 | 1121 | Corie A. Brinson |
-| 122 | 1114 | Loopy Fallmatch |
-| 123 | 1114 | Groovy Catcher |
+| 122 | 1114 | Groovy Catcher |
+| 123 | 1114 | Loopy Fallmatch |
 | 124 | 1105 | Adrian Marcel Pate |
 | 125 | 1101 | Valerie Gendron |
 | 126 | 1093 | Angela M. Fletcher |
@@ -179,8 +179,8 @@
 | 171 | 875 | Chasity |
 | 172 | 874 | Jessica Pineda-Lopez |
 | 173 | 871 | Rochelle Hazelett |
-| 174 | 868 | Nicole Flippo |
-| 175 | 868 | Cranky Gridder |
+| 174 | 868 | Cranky Gridder |
+| 175 | 868 | Nicole Flippo |
 | 176 | 866 | Domo Washington |
 | 177 | 864 | Sunny Rotater |
 | 178 | 862 | Santeria Trece Candles |
@@ -199,8 +199,8 @@
 | 191 | 815 | Justin Ritter |
 | 192 | 813 | JessDrown |
 | 193 | 808 | Raya |
-| 194 | 804 | Alaina Lee |
-| 195 | 804 | Gideon Walker |
+| 194 | 804 | Gideon Walker |
+| 195 | 804 | Alaina Lee |
 | 196 | 800 | Lauren Girouard |
 | 197 | 799 | Trisha Balmer |
 | 198 | 792 | Rachel Grant |
@@ -210,8 +210,8 @@
 | 202 | 784 | Jone |
 | 203 | 777 | Daryn Elliott |
 | 204 | 774 | ren |
-| 205 | 772 | Cyd061769 |
-| 206 | 772 | Hasty Cascadefit |
+| 205 | 772 | Hasty Cascadefit |
+| 206 | 772 | Cyd061769 |
 | 207 | 766 | Tasha Gillespie |
 | 208 | 763 | Khaleada McGill Banks |
 | 209 | 762 | Naur |
@@ -219,8 +219,8 @@
 | 211 | 759 | Mykal Burton |
 | 212 | 758 | Shawn Miller |
 | 213 | 757 | Fancy Cascader |
-| 214 | 755 | Laura Booth Wosko |
-| 215 | 755 | Colton |
+| 214 | 755 | Colton |
+| 215 | 755 | Laura Booth Wosko |
 | 216 | 754 | CeceGeGe |
 | 217 | 753 | Morgan Martinez |
 | 218 | 752 | Joye Sims Binion |
@@ -296,11 +296,11 @@
 | 288 | 578 | James Mitchell |
 | 289 | 572 | Tessina Dewey-Mancino |
 | 290 | 570 | thekey |
-| 291 | 569 | Gray Hicks |
-| 292 | 569 | Silly Twist |
+| 291 | 569 | Silly Twist |
+| 292 | 569 | Gray Hicks |
 | 293 | 567 | Stephanie Burtin |
-| 294 | 566 | Eileen Brady Thurber |
-| 295 | 566 | Tyler Shoff |
+| 294 | 566 | Tyler Shoff |
+| 295 | 566 | Eileen Brady Thurber |
 | 296 | 562 | Dave Herzog |
 | 297 | 561 | Chauntee Alfrey-Cardinale |
 | 298 | 556 | Shiny Zonebuilder |
@@ -342,8 +342,8 @@
 | 334 | 489 | Isabel Ocasio |
 | 335 | 487 | MsBee |
 | 336 | 486 | Sleepy |
-| 337 | 485 | Charles Perrone |
-| 338 | 485 | Steffi Chris Dacones |
+| 337 | 485 | Steffi Chris Dacones |
+| 338 | 485 | Charles Perrone |
 | 339 | 483 | Tegan Chapman |
 | 340 | 482 | Travis W |
 | 341 | 482 | Chummy Rumbler |
@@ -359,16 +359,16 @@
 | 351 | 471 | Mendoza Lee Christy |
 | 352 | 468 | Bigmack |
 | 353 | 467 | Danielle Rhoades |
-| 354 | 465 | Noettín Kan Zasnemoore |
-| 355 | 465 | Blocked |
+| 354 | 465 | Blocked |
+| 355 | 465 | Noettín Kan Zasnemoore |
 | 356 | 464 | Snazzy Filler |
 | 357 | 464 | Snippy Wipeout |
 | 358 | 463 | Hoài Quắt |
 | 359 | 461 | Breanna Marsden |
 | 360 | 461 | Hyper Bridger |
 | 361 | 461 | Briana Wellman |
-| 362 | 460 | Hasty Gridpiece |
-| 363 | 460 | Antonia Russell |
+| 362 | 460 | Antonia Russell |
+| 363 | 460 | Hasty Gridpiece |
 | 364 | 459 | Randy Clevenger |
 | 365 | 456 | Kelly |
 | 366 | 456 | Cynthia Herrmann Egland |
@@ -397,10 +397,10 @@
 | 389 | 432 | Sabrina Mansfield |
 | 390 | 431 | Goofy Fall |
 | 391 | 431 | Donna Esbensen-Alpini |
-| 392 | 430 | Quackers |
-| 393 | 430 | AlsoJess |
-| 394 | 428 | Samantha Lynn |
-| 395 | 428 | Skinny Baldez |
+| 392 | 430 | AlsoJess |
+| 393 | 430 | Quackers |
+| 394 | 428 | Skinny Baldez |
+| 395 | 428 | Samantha Lynn |
 | 396 | 428 | keni |
 | 397 | 427 | Darlene McMillan |
 | 398 | 426 | Heather Bateman |

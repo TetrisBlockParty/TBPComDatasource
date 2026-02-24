@@ -384,8 +384,8 @@
 | 376 | 1225 | RAEPR05 |
 | 377 | 1224 | Kennedy Sandifer |
 | 378 | 1222 | Nuke Morris |
-| 379 | 1218 | LaKisha Anderson |
-| 380 | 1218 | Hyper Cluster |
+| 379 | 1218 | Hyper Cluster |
+| 380 | 1218 | LaKisha Anderson |
 | 381 | 1217 | Brooks Brooks |
 | 382 | 1214 | David Cudicio-Hayden |
 | 383 | 1211 | Cynthia Ward |

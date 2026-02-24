@@ -81,8 +81,8 @@
 | 73 | 1071 | LisaJo Picken Buchanan |
 | 74 | 1069 | Heather Tushner |
 | 75 | 1056 | Keith Kelley |
-| 76 | 1046 | Anthony Bryan Riva |
-| 77 | 1046 | Johnathan Martinez |
+| 76 | 1046 | Johnathan Martinez |
+| 77 | 1046 | Anthony Bryan Riva |
 | 78 | 1028 | TeeJ |
 | 79 | 1024 | Valerie Roberts |
 | 80 | 1017 | Jeremy Steines |
@@ -134,8 +134,8 @@
 | 126 | 729 | Jamie Mann-Deichmann |
 | 127 | 726 | Jamie Gustafson |
 | 128 | 725 | Brandon Crabbs |
-| 129 | 719 | Leslie Nicole |
-| 130 | 719 | George Nutt |
+| 129 | 719 | George Nutt |
+| 130 | 719 | Leslie Nicole |
 | 131 | 712 | H.R. Block |
 | 132 | 708 | Jacqueline Helm |
 | 133 | 704 | Chilly Crasher |
@@ -217,8 +217,8 @@
 | 209 | 508 | June Hoffman |
 | 210 | 507 | Andria Lynn |
 | 211 | 504 | Deanna Deckard |
-| 212 | 502 | Christina Black |
-| 213 | 502 | Ericca Eldridge |
+| 212 | 502 | Ericca Eldridge |
+| 213 | 502 | Christina Black |
 | 214 | 501 | Sharyn Lemire |
 | 215 | 499 | DonMega |
 | 216 | 499 | Kesha Brady |
@@ -310,8 +310,8 @@
 | 302 | 376 | Nig |
 | 303 | 375 | George Tzouganos |
 | 304 | 373 | Russ Attitude |
-| 305 | 370 | Kris Bartlett |
-| 306 | 370 | Twisty Risebuilder |
+| 305 | 370 | Twisty Risebuilder |
+| 306 | 370 | Kris Bartlett |
 | 307 | 368 | Dan Wold |
 | 308 | 367 | Meg |
 | 309 | 366 | Ak Jones |
@@ -323,8 +323,8 @@
 | 315 | 354 | @ |
 | 316 | 354 | Perky Piecegrid |
 | 317 | 352 | Kate |
-| 318 | 351 | Dana Scott |
-| 319 | 351 | Jackie Clark |
+| 318 | 351 | Jackie Clark |
+| 319 | 351 | Dana Scott |
 | 320 | 350 | Dizzy Matchzone |
 | 321 | 349 | Richard-April Kice |
 | 322 | 349 | jim |
@@ -563,8 +563,8 @@
 | 555 | 223 | Perky Riser |
 | 556 | 222 | Squeezy Pearsall |
 | 557 | 222 | Cozy Balancer |
-| 558 | 221 | Peppy Drop |
-| 559 | 221 | Rheanda Weaskus |
+| 558 | 221 | Rheanda Weaskus |
+| 559 | 221 | Peppy Drop |
 | 560 | 220 | Mighty Edgepiece |
 | 561 | 219 | Brandon Link |
 | 562 | 219 | Dapper Balancer |
@@ -924,10 +924,10 @@
 | 916 | 120 | Kris Johnson |
 | 917 | 119 | Calen Torez |
 | 918 | 119 | Frothy Curve |
-| 919 | 119 | River Shady Sr. |
-| 920 | 119 | Liliveth |
-| 921 | 118 | Cashmere |
-| 922 | 118 | Frisky Column |
+| 919 | 119 | Liliveth |
+| 920 | 119 | River Shady Sr. |
+| 921 | 118 | Frisky Column |
+| 922 | 118 | Cashmere |
 | 923 | 118 | Kristen Rittall |
 | 924 | 117 | MzChocolate |
 | 925 | 117 | Snappy Bouncer |
