@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-24 13:44:41 UTC
+# Standings for team4 as of 2026-02-24 13:45:23 UTC
 
 **Total Participants:** 2036
 
@@ -41,9 +41,9 @@
 | 33 | 1666 | Jayna Anoc |
 | 34 | 1631 | Goatimus Lombardi |
 | 35 | 1628 | Isabella Blanco |
-| 36 | 1585 | Dawn Alexander |
-| 37 | 1571 | Koshin Abdirahman |
-| 38 | 1569 | Cherrish Duren |
+| 36 | 1597 | Cherrish Duren |
+| 37 | 1585 | Dawn Alexander |
+| 38 | 1571 | Koshin Abdirahman |
 | 39 | 1561 | Eric Mcgaughy |
 | 40 | 1549 | Rebecca Moulton Pinciaro |
 | 41 | 1518 | Kimberly Love |
@@ -51,8 +51,8 @@
 | 43 | 1505 | Sammy Noguera |
 | 44 | 1504 | LS |
 | 45 | 1497 | Juggalo |
-| 46 | 1461 | Shane Kalamata Platoon |
-| 47 | 1461 | Yoset Mejia |
+| 46 | 1461 | Yoset Mejia |
+| 47 | 1461 | Shane Kalamata Platoon |
 | 48 | 1456 | Michelle Marie |
 | 49 | 1436 | Jen Allison |
 | 50 | 1430 | Landon Keith Graffeo |
@@ -106,9 +106,9 @@
 | 98 | 873 | Courtney Cicoria |
 | 99 | 864 | Samantha Peterson |
 | 100 | 857 | Rica Mitchell |
-| 101 | 854 | Shauna Havard |
-| 102 | 853 | Sassy Pattern |
-| 103 | 847 | Diana Houts |
+| 101 | 856 | Diana Houts |
+| 102 | 854 | Shauna Havard |
+| 103 | 853 | Sassy Pattern |
 | 104 | 846 | Christine Marie |
 | 105 | 840 | SAP |
 | 106 | 838 | Amy Suckarieh |
@@ -314,53 +314,53 @@
 | 306 | 377 | Lauren Lamb |
 | 307 | 377 | Daria Rycewicz |
 | 308 | 376 | Lora |
-| 309 | 376 | Nig |
-| 310 | 376 | Stacey Stano |
+| 309 | 376 | Stacey Stano |
+| 310 | 376 | Nig |
 | 311 | 375 | George Tzouganos |
 | 312 | 374 | Angie Schmidt |
 | 313 | 373 | Russ Attitude |
-| 314 | 370 | Twisty Risebuilder |
+| 314 | 370 | Kristi Trafton |
 | 315 | 370 | Kris Bartlett |
-| 316 | 370 | Kristi Trafton |
+| 316 | 370 | Twisty Risebuilder |
 | 317 | 368 | Dizzy Matchzone |
 | 318 | 367 | Meg |
 | 319 | 366 | Ak Jones |
-| 320 | 362 | Nubian1 |
-| 321 | 362 | Jessica Petersen |
-| 322 | 359 | Holly |
-| 323 | 359 | Raymond Roberts |
+| 320 | 362 | Jessica Petersen |
+| 321 | 362 | Nubian1 |
+| 322 | 359 | AyeKay |
+| 323 | 359 | Allen Lloyd |
 | 324 | 359 | Sho Nuff |
-| 325 | 359 | Allen Lloyd |
-| 326 | 359 | AyeKay |
+| 325 | 359 | Raymond Roberts |
+| 326 | 359 | Holly |
 | 327 | 356 | Heather Bruce |
 | 328 | 354 | Perky Piecegrid |
 | 329 | 354 | @ |
 | 330 | 352 | Kate |
-| 331 | 351 | Jackie Clark |
-| 332 | 351 | Dana Scott |
-| 333 | 351 | Metsfan |
-| 334 | 349 | Marcus Todd |
+| 331 | 351 | Dana Scott |
+| 332 | 351 | Metsfan |
+| 333 | 351 | Jackie Clark |
+| 334 | 349 | Richard-April Kice |
 | 335 | 349 | jim |
-| 336 | 349 | Richard-April Kice |
-| 337 | 347 | Perky Patternblock |
+| 336 | 349 | Marcus Todd |
+| 337 | 347 | Megan Cutshaw |
 | 338 | 347 | Zołza 😈 |
-| 339 | 347 | Megan Cutshaw |
+| 339 | 347 | Perky Patternblock |
 | 340 | 346 | Jason Bosco |
 | 341 | 346 | James Philpot Ross |
-| 342 | 345 | Amy Sanford |
-| 343 | 344 | Amanda Maciel Clarke |
-| 344 | 344 | Kevin Bush |
-| 345 | 344 | Marcus TheeyoungWoe Gilmore |
+| 342 | 346 | Lilya Troutman |
+| 343 | 345 | Amy Sanford |
+| 344 | 344 | Amanda Maciel Clarke |
+| 345 | 344 | Kevin Bush |
 | 346 | 344 | Glitzy Corner |
-| 347 | 343 | Jay You |
-| 348 | 343 | Blessedmama |
-| 349 | 343 | ImJustMe |
-| 350 | 343 | Maureen Flanigan |
-| 351 | 343 | HastyGrabber |
-| 352 | 342 | Chance Strickland |
-| 353 | 342 | Ruby Khalisadar |
-| 354 | 340 | Juls |
-| 355 | 340 | Lilya Troutman |
+| 347 | 344 | Marcus TheeyoungWoe Gilmore |
+| 348 | 343 | Jay You |
+| 349 | 343 | HastyGrabber |
+| 350 | 343 | Blessedmama |
+| 351 | 343 | ImJustMe |
+| 352 | 343 | Maureen Flanigan |
+| 353 | 342 | Chance Strickland |
+| 354 | 342 | Ruby Khalisadar |
+| 355 | 340 | Juls |
 | 356 | 338 | Groovy Gridlock |
 | 357 | 338 | Chair |
 | 358 | 336 | Stella |
@@ -554,14 +554,14 @@
 | 546 | 231 | Loony Rotater |
 | 547 | 230 | Martha Lucinda Bishop |
 | 548 | 230 | Joey Riley |
-| 549 | 229 | Brandon Link |
-| 550 | 229 | Brad Campbell |
-| 551 | 229 | Rebecca Blake |
-| 552 | 229 | Marco |
-| 553 | 228 | Ashley Danielle |
-| 554 | 227 | Jeff Roberts |
-| 555 | 227 | Rhys Morgan |
-| 556 | 227 | Wacky Blockclear |
+| 549 | 230 | Wacky Blockclear |
+| 550 | 229 | Brandon Link |
+| 551 | 229 | Brad Campbell |
+| 552 | 229 | Rebecca Blake |
+| 553 | 229 | Marco |
+| 554 | 228 | Ashley Danielle |
+| 555 | 227 | Jeff Roberts |
+| 556 | 227 | Rhys Morgan |
 | 557 | 227 | Asher |
 | 558 | 227 | 2slo |
 | 559 | 224 | Shirl |
@@ -988,12 +988,12 @@
 | 980 | 111 | Lazy Blocker |
 | 981 | 111 | Michelle Parker |
 | 982 | 111 | Kanci McKnight |
-| 983 | 111 | BROOKE |
-| 984 | 110 | Tiny Raine |
-| 985 | 110 | Tabita Gonzalez |
-| 986 | 110 | Beth Helms |
-| 987 | 109 | Cranky Pivoty |
-| 988 | 109 | Bruce Gal |
+| 983 | 111 | Bruce Gal |
+| 984 | 111 | BROOKE |
+| 985 | 110 | Tiny Raine |
+| 986 | 110 | Tabita Gonzalez |
+| 987 | 110 | Beth Helms |
+| 988 | 109 | Cranky Pivoty |
 | 989 | 109 | Smiley Staggerpiece |
 | 990 | 109 | Jessica Miller |
 | 991 | 109 | Eli Sanchez |
