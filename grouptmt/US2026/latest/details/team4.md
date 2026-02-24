@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-24 21:46:43 UTC
+# Standings for team4 as of 2026-02-24 21:47:22 UTC
 
 **Total Participants:** 2089
 
@@ -274,63 +274,63 @@
 | 266 | 449 | Danielle Kollias |
 | 267 | 448 | Mike Solo |
 | 268 | 448 | Alan Zukowski |
-| 269 | 444 | Twisty Cascadezone |
-| 270 | 444 | Selena Shaw |
-| 271 | 444 | Rafael Valentin |
-| 272 | 443 | Twisty Risebuilder |
-| 273 | 443 | Lindsay Ball |
-| 274 | 442 | Blessedmama |
-| 275 | 441 | Lush Linkfall |
-| 276 | 440 | Autumn Kumzi |
-| 277 | 440 | 030Synner |
-| 278 | 440 | Lee Silpe |
-| 279 | 438 | Jeff Brian Gates |
-| 280 | 437 | Sandra Safford |
-| 281 | 435 | KimoKoala |
-| 282 | 434 | Ramel Rhodes |
-| 283 | 433 | Backoff Recupe |
-| 284 | 431 | Morti |
-| 285 | 431 | Nikki Rae Gordon |
-| 286 | 429 | Hyper Builder |
-| 287 | 428 | Gdiguy |
-| 288 | 427 | Chao Ma |
-| 289 | 426 | Maria Hammie |
-| 290 | 426 | Andrew Dang |
-| 291 | 426 | Tina Lopez |
-| 292 | 425 | Jen Caldwell |
-| 293 | 422 | Jess Reyes |
-| 294 | 421 | JIGsaw ~(•¿°)~ |
-| 295 | 421 | Hyper Matchclear |
-| 296 | 420 | Kenna Gunderland |
-| 297 | 419 | Nubian1 |
-| 298 | 418 | Jessica Fredericks |
-| 299 | 417 | Denise B |
-| 300 | 417 | Cynthia Boudreau |
-| 301 | 416 | Googenheim |
-| 302 | 413 | Michael Snow |
-| 303 | 413 | Tawna Curry |
-| 304 | 413 | Neirrah B Olailjeel |
-| 305 | 411 | Vic |
-| 306 | 411 | Bradley Reeves |
-| 307 | 411 | Snippy Puzzle |
-| 308 | 410 | Lora |
-| 309 | 409 | Antony Dwayne Beasley |
-| 310 | 408 | Jason Frehner |
-| 311 | 408 | Dihcheese444 |
-| 312 | 407 | Allison Rose |
-| 313 | 407 | blockstar |
-| 314 | 406 | Zethra Prenisha Rahming |
-| 315 | 405 | Chaz |
-| 316 | 405 | ZeeZee |
-| 317 | 404 | Dizzy Matchzone |
-| 318 | 401 | Stacey Stano |
-| 319 | 401 | Dan Wold |
-| 320 | 400 | Holly |
-| 321 | 399 | Cool Gridzone |
-| 322 | 399 | Russ Attitude |
-| 323 | 398 | Tyler Terrific |
-| 324 | 397 | James Philpot Ross |
-| 325 | 397 | Zany Swipe |
+| 269 | 447 | Zany Swipe |
+| 270 | 444 | Twisty Cascadezone |
+| 271 | 444 | Selena Shaw |
+| 272 | 444 | Rafael Valentin |
+| 273 | 443 | Twisty Risebuilder |
+| 274 | 443 | Lindsay Ball |
+| 275 | 442 | Blessedmama |
+| 276 | 441 | Lush Linkfall |
+| 277 | 440 | Autumn Kumzi |
+| 278 | 440 | 030Synner |
+| 279 | 440 | Lee Silpe |
+| 280 | 438 | Jeff Brian Gates |
+| 281 | 437 | Sandra Safford |
+| 282 | 435 | KimoKoala |
+| 283 | 434 | Ramel Rhodes |
+| 284 | 433 | Backoff Recupe |
+| 285 | 431 | Morti |
+| 286 | 431 | Nikki Rae Gordon |
+| 287 | 429 | Hyper Builder |
+| 288 | 428 | Gdiguy |
+| 289 | 427 | Chao Ma |
+| 290 | 426 | Maria Hammie |
+| 291 | 426 | Andrew Dang |
+| 292 | 426 | Tina Lopez |
+| 293 | 425 | Jen Caldwell |
+| 294 | 422 | Jess Reyes |
+| 295 | 421 | JIGsaw ~(•¿°)~ |
+| 296 | 421 | Hyper Matchclear |
+| 297 | 420 | Kenna Gunderland |
+| 298 | 419 | Nubian1 |
+| 299 | 418 | Jessica Fredericks |
+| 300 | 417 | Denise B |
+| 301 | 417 | Cynthia Boudreau |
+| 302 | 416 | Googenheim |
+| 303 | 413 | Michael Snow |
+| 304 | 413 | Tawna Curry |
+| 305 | 413 | Neirrah B Olailjeel |
+| 306 | 411 | Vic |
+| 307 | 411 | Bradley Reeves |
+| 308 | 411 | Snippy Puzzle |
+| 309 | 410 | Lora |
+| 310 | 409 | Antony Dwayne Beasley |
+| 311 | 408 | Jason Frehner |
+| 312 | 408 | Dihcheese444 |
+| 313 | 407 | Allison Rose |
+| 314 | 407 | blockstar |
+| 315 | 406 | Zethra Prenisha Rahming |
+| 316 | 405 | Chaz |
+| 317 | 405 | ZeeZee |
+| 318 | 404 | Dizzy Matchzone |
+| 319 | 401 | Stacey Stano |
+| 320 | 401 | Dan Wold |
+| 321 | 400 | Holly |
+| 322 | 399 | Cool Gridzone |
+| 323 | 399 | Russ Attitude |
+| 324 | 398 | Tyler Terrific |
+| 325 | 397 | James Philpot Ross |
 | 326 | 396 | Holly Jolly |
 | 327 | 395 | Daria Rycewicz |
 | 328 | 395 | BigSammy420 |
@@ -920,15 +920,15 @@
 | 912 | 137 | Libby |
 | 913 | 137 | tossan |
 | 914 | 137 | Tabitha Henson |
-| 915 | 136 | Garnet Glitz |
-| 916 | 135 | Dot Flanagan |
-| 917 | 135 | Kara Kaminski Rhinehart |
-| 918 | 135 | Nikki Ann |
-| 919 | 135 | Hog Crankin |
-| 920 | 134 | Snippy |
-| 921 | 134 | Alicia Atwater |
+| 915 | 136 | Snippy |
+| 916 | 136 | Garnet Glitz |
+| 917 | 135 | Dot Flanagan |
+| 918 | 135 | Kara Kaminski Rhinehart |
+| 919 | 135 | Nikki Ann |
+| 920 | 135 | Hog Crankin |
+| 921 | 135 | Alo |
 | 922 | 134 | Gage |
-| 923 | 134 | Alo |
+| 923 | 134 | Alicia Atwater |
 | 924 | 133 | Kari Rose Haché |
 | 925 | 132 | Jessica Cagle |
 | 926 | 132 | Aj Brantley Lpn |
