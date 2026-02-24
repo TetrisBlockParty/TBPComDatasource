@@ -137,13 +137,13 @@
 | 129 | 666 | Virginia Gray Floyd |
 | 130 | 652 | Evie Khalil |
 | 131 | 651 | Dandy Basegrid |
-| 132 | 650 | April Carroll |
-| 133 | 650 | Bob |
+| 132 | 650 | Bob |
+| 133 | 650 | April Carroll |
 | 134 | 647 | Theo Pinnow |
 | 135 | 643 | Erin Rosberg |
 | 136 | 642 | Mario Cab |
-| 137 | 629 | Death |
-| 138 | 629 | Tanya Carpenter-Reynolds |
+| 137 | 629 | Tanya Carpenter-Reynolds |
+| 138 | 629 | Death |
 | 139 | 628 | Trina Gee |
 | 140 | 626 | Damon J. Martin |
 | 141 | 620 | Ty Brown |
@@ -195,8 +195,8 @@
 | 187 | 511 | MomMom |
 | 188 | 510 | Rat666 |
 | 189 | 501 | Jessica Russell |
-| 190 | 497 | Steve Schneider |
-| 191 | 497 | MIKOZ |
+| 190 | 497 | MIKOZ |
+| 191 | 497 | Steve Schneider |
 | 192 | 496 | Michelle Beres |
 | 193 | 496 | Sarah Somers Gray |
 | 194 | 495 | Connie |
@@ -245,8 +245,8 @@
 | 237 | 424 | Emily Adelaide Wheatley |
 | 238 | 423 | Howdi Duty |
 | 239 | 422 | Jamise Brown |
-| 240 | 421 | Letson Melissa |
-| 241 | 421 | Plucky Stacky |
+| 240 | 421 | Plucky Stacky |
+| 241 | 421 | Letson Melissa |
 | 242 | 420 | Jennifer Noe Chandler |
 | 243 | 419 | Daring Fitclear |
 | 244 | 419 | Barrbaric |
@@ -259,12 +259,12 @@
 | 251 | 409 | poopypants |
 | 252 | 409 | Lehrin Maria |
 | 253 | 405 | Tyler L Hunt |
-| 254 | 403 | Tami Luce Martin |
-| 255 | 403 | Alenoush Karimian |
-| 256 | 403 | Jen Nystrom |
+| 254 | 403 | Jen Nystrom |
+| 255 | 403 | Tami Luce Martin |
+| 256 | 403 | Alenoush Karimian |
 | 257 | 399 | Lakeisha Chapman |
-| 258 | 398 | Cece Ibarra |
-| 259 | 398 | MommaKFC |
+| 258 | 398 | MommaKFC |
+| 259 | 398 | Cece Ibarra |
 | 260 | 396 | Sam Williams |
 | 261 | 394 | Nick R Montague |
 | 262 | 393 | Wisa |
@@ -356,8 +356,8 @@
 | 348 | 329 | Larry Tilton |
 | 349 | 328 | Richard Corrado |
 | 350 | 327 | Christina Norman |
-| 351 | 325 | GringaLinga |
-| 352 | 325 | Mitchel White |
+| 351 | 325 | Mitchel White |
+| 352 | 325 | GringaLinga |
 | 353 | 324 | Brave Wrecker |
 | 354 | 323 | Nadine Velardo |
 | 355 | 322 | Chris65 |
@@ -374,8 +374,8 @@
 | 366 | 313 | Steph |
 | 367 | 312 | Nicole Meredith Flynn |
 | 368 | 312 | Diane Byrd |
-| 369 | 311 | Nathan Sealander |
-| 370 | 311 | John Ramirez |
+| 369 | 311 | John Ramirez |
+| 370 | 311 | Nathan Sealander |
 | 371 | 311 | Rico Rico |
 | 372 | 310 | Chris Sigurdson |
 | 373 | 310 | Marci Sanders |

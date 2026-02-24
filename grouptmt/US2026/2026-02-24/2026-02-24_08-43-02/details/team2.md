@@ -399,8 +399,8 @@
 | 391 | 1170 | Shelley Thornburgh Wright |
 | 392 | 1167 | Min |
 | 393 | 1164 | DefaultUser |
-| 394 | 1163 | Caitlin Schmid |
-| 395 | 1163 | Sarah DeHart |
+| 394 | 1163 | Sarah DeHart |
+| 395 | 1163 | Caitlin Schmid |
 | 396 | 1160 | Maricia Layolla Cason |
 | 397 | 1158 | Brittany Clark |
 | 398 | 1150 | Sheniya Spurgeon |
@@ -645,8 +645,8 @@
 | 637 | 798 | Daniell Martinez |
 | 638 | 797 | Moist_B-hole |
 | 639 | 796 | Brianna Cerney |
-| 640 | 795 | Aletha Williams |
-| 641 | 795 | Alexandra Weir |
+| 640 | 795 | Alexandra Weir |
+| 641 | 795 | Aletha Williams |
 | 642 | 793 | Heather Anspaugh |
 | 643 | 792 | Beatboxxer |
 | 644 | 789 | De'Jah Charncey |
@@ -677,8 +677,8 @@
 | 669 | 770 | Nakiiya Dreamcatcher Gore |
 | 670 | 768 | Mia Muse Best |
 | 671 | 766 | Frisky Riserbuilder |
-| 672 | 766 | Angela Cagle Silmon |
-| 673 | 766 | Diamond Scott |
+| 672 | 766 | Diamond Scott |
+| 673 | 766 | Angela Cagle Silmon |
 | 674 | 766 | Bonita Kee |
 | 675 | 764 | Shannon Jackson |
 | 676 | 763 | Heather Causey |
@@ -1105,8 +1105,8 @@
 | 1097 | 539 | Speedy Fill |
 | 1098 | 539 | Dizzy Clicker |
 | 1099 | 537 | Epic Spinfit |
-| 1100 | 537 | Robin |
-| 1101 | 537 | Jaime E. Rodriguez |
+| 1100 | 537 | Jaime E. Rodriguez |
+| 1101 | 537 | Robin |
 | 1102 | 537 | Austin Wilson |
 | 1103 | 536 | Paul Hinkle |
 | 1104 | 536 | Enha |
@@ -1117,8 +1117,8 @@
 | 1109 | 533 | Amanda West |
 | 1110 | 533 | John Quiring |
 | 1111 | 532 | Maribel Anaya Sarabia |
-| 1112 | 532 | Christy Krissie |
-| 1113 | 532 | Happy Tile |
+| 1112 | 532 | Happy Tile |
+| 1113 | 532 | Christy Krissie |
 | 1114 | 532 | Jenny DelVescovo |
 | 1115 | 532 | Tara Lynn Janes |
 | 1116 | 530 | Nikki Arlene |
