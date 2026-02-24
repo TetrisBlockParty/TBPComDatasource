@@ -156,8 +156,8 @@
 | 148 | 971 | Tasha Schriewer |
 | 149 | 963 | Crystal Frey |
 | 150 | 961 | Danielle Allison |
-| 151 | 950 | Giddy Drop |
-| 152 | 950 | MissTaylor |
+| 151 | 950 | MissTaylor |
+| 152 | 950 | Giddy Drop |
 | 153 | 947 | Kellie Montgomery |
 | 154 | 940 | Stephanie Allmon |
 | 155 | 940 | Patty Allen |
@@ -176,8 +176,8 @@
 | 168 | 875 | Chasity |
 | 169 | 874 | Jessica Pineda-Lopez |
 | 170 | 871 | Rochelle Hazelett |
-| 171 | 868 | Cranky Gridder |
-| 172 | 868 | Nicole Flippo |
+| 171 | 868 | Nicole Flippo |
+| 172 | 868 | Cranky Gridder |
 | 173 | 866 | Domo Washington |
 | 174 | 864 | Sunny Rotater |
 | 175 | 862 | Santeria Trece Candles |
@@ -207,8 +207,8 @@
 | 199 | 784 | Jone |
 | 200 | 783 | Julian Murphy |
 | 201 | 777 | Daryn Elliott |
-| 202 | 774 | Twisty Brick LT |
-| 203 | 774 | ren |
+| 202 | 774 | ren |
+| 203 | 774 | Twisty Brick LT |
 | 204 | 772 | Hasty Cascadefit |
 | 205 | 768 | Cyd061769 |
 | 206 | 766 | Tasha Gillespie |
@@ -231,8 +231,8 @@
 | 223 | 715 | Karon Griffin |
 | 224 | 714 | Jenny Hrndz |
 | 225 | 713 | Stephanie Blkpep Davidson |
-| 226 | 709 | Cynthia Castros-Hampton |
-| 227 | 709 | Christine Niles |
+| 226 | 709 | Christine Niles |
+| 227 | 709 | Cynthia Castros-Hampton |
 | 228 | 708 | Stephanie Bradley |
 | 229 | 704 | Betty Bóò |
 | 230 | 703 | Shawn Miller |
@@ -290,8 +290,8 @@
 | 282 | 582 | FuzzyNavel |
 | 283 | 581 | Crystal Hine |
 | 284 | 578 | James Mitchell |
-| 285 | 574 | Danielle Balcom |
-| 286 | 574 | Rachael McClain Owens |
+| 285 | 574 | Rachael McClain Owens |
+| 286 | 574 | Danielle Balcom |
 | 287 | 572 | Tessina Dewey-Mancino |
 | 288 | 570 | thekey |
 | 289 | 569 | Gray Hicks |
@@ -412,8 +412,8 @@
 | 404 | 407 | Christina Spa |
 | 405 | 406 | Kristen Weese |
 | 406 | 405 | Andrew Thorson |
-| 407 | 404 | Karent524 |
-| 408 | 404 | Giggy Balanceblock |
+| 407 | 404 | Giggy Balanceblock |
+| 408 | 404 | Karent524 |
 | 409 | 404 | Alice |
 | 410 | 403 | Scott Lindsay |
 | 411 | 403 | keni |
@@ -609,8 +609,8 @@
 | 601 | 304 | Courtney Price |
 | 602 | 304 | _melisa223_ |
 | 603 | 304 | Tammy Rosenberry |
-| 604 | 303 | Tosha Griffey |
-| 605 | 303 | Hasty Pop |
+| 604 | 303 | Hasty Pop |
+| 605 | 303 | Tosha Griffey |
 | 606 | 303 | Sameerah Smith |
 | 607 | 302 | Megan Riggins |
 | 608 | 302 | Nicholas Roddy |
@@ -618,16 +618,16 @@
 | 610 | 302 | Jessica |
 | 611 | 300 | Bdhdj |
 | 612 | 299 | Six |
-| 613 | 299 | Angie Harper |
-| 614 | 299 | Quirky Snapfit |
+| 613 | 299 | Quirky Snapfit |
+| 614 | 299 | Angie Harper |
 | 615 | 297 | Cameo Tweed |
 | 616 | 297 | Kevin Fountain |
 | 617 | 297 | Zac Hudak |
 | 618 | 296 | JoshAllenfan17 |
 | 619 | 295 | Omega |
 | 620 | 294 | Kita A Jackson |
-| 621 | 293 | Rufus Lincoln |
-| 622 | 293 | Anna Moeller |
+| 621 | 293 | Anna Moeller |
+| 622 | 293 | Rufus Lincoln |
 | 623 | 293 | Tommy Proctor |
 | 624 | 292 | Scouty |
 | 625 | 291 | Jess Dearborn |
@@ -1003,7 +1003,7 @@
 | 995 | 195 | Nicha Hooker |
 | 996 | 195 | Eunhye Lee |
 | 997 | 195 | Polopypy |
-| 998 | 194 | Josh Vietz |
+| 998 | 194 | Amber Eby |
 | 999 | 194 | Shicken Nuggit |
 | 1000 | 194 | Josh Vietz |
 | 1001 | 193 | Stitchmom |
@@ -1419,8 +1419,8 @@
 | 1411 | 132 | Kenny Smith |
 | 1412 | 132 | Destiny |
 | 1413 | 131 | Crystal Weaver |
-| 1414 | 131 | Lynnie |
-| 1415 | 131 | Susan Ray Lewis |
+| 1414 | 131 | Susan Ray Lewis |
+| 1415 | 131 | Lynnie |
 | 1416 | 131 | Terry Perez |
 | 1417 | 130 | Mol Findor |
 | 1418 | 130 | Liss630 |
@@ -1430,7 +1430,7 @@
 | 1422 | 130 | Jennifer Kahler |
 | 1423 | 130 | AL Cab |
 | 1424 | 130 | birdy |
-| 1425 | 129 | Tae Menifee |
+| 1425 | 129 | Jon Thomas |
 | 1426 | 129 | Meep |
 | 1427 | 129 | Tae Menifee |
 | 1428 | 129 | Savannah Moore |
@@ -2179,7 +2179,7 @@
 | 2171 | 61 | Keisha Brooks |
 | 2172 | 61 | Rainbow Marie |
 | 2173 | 61 | Deva Marie Barber |
-| 2174 | 61 | Rainbow Marie |
+| 2174 | 61 | Lori Rules |
 | 2175 | 60 | Hyper Slammer |
 | 2176 | 60 | Speedy Rollblock |
 | 2177 | 60 | Kob Piccaso |

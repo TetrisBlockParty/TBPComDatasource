@@ -88,8 +88,8 @@
 | 80 | 994 | Lori Sanders- Davis |
 | 81 | 973 | Francesca Gee |
 | 82 | 961 | Jacqueline Williams |
-| 83 | 957 | Zippy Align |
-| 84 | 957 | Erin Hodges Plumb |
+| 83 | 957 | Erin Hodges Plumb |
+| 84 | 957 | Zippy Align |
 | 85 | 944 | Sweet Baker |
 | 86 | 940 | Tyler Whitley |
 | 87 | 920 | Tee Sheree |
@@ -266,13 +266,13 @@
 | 258 | 403 | Tami Luce Martin |
 | 259 | 403 | Jen Nystrom |
 | 260 | 399 | Lakeisha Chapman |
-| 261 | 398 | Cece Ibarra |
-| 262 | 398 | MommaKFC |
+| 261 | 398 | MommaKFC |
+| 262 | 398 | Cece Ibarra |
 | 263 | 396 | Sam Williams |
 | 264 | 394 | Nick R Montague |
 | 265 | 393 | Wisa |
-| 266 | 392 | Poppy Riserpiece |
-| 267 | 392 | Renee Tucker |
+| 266 | 392 | Renee Tucker |
+| 267 | 392 | Poppy Riserpiece |
 | 268 | 391 | Happy Basegrid |
 | 269 | 390 | David Lutcher |
 | 270 | 388 | Test |
@@ -295,8 +295,8 @@
 | 287 | 375 | DaRascal |
 | 288 | 374 | Snappy Brickbuilder |
 | 289 | 373 | Frothy Pattern |
-| 290 | 372 | Wayne Saunders |
-| 291 | 372 | Dizzy Party |
+| 290 | 372 | Dizzy Party |
+| 291 | 372 | Wayne Saunders |
 | 292 | 371 | Jaimie Lynn |
 | 293 | 371 | Danielle S Kester |
 | 294 | 370 | Gracie |

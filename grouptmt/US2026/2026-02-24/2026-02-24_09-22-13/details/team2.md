@@ -282,8 +282,8 @@
 | 274 | 1480 | Dimitra Zazara |
 | 275 | 1479 | Pacynthia Williams |
 | 276 | 1478 | Misty Walker |
-| 277 | 1477 | Hillary Crawford |
-| 278 | 1477 | Prado |
+| 277 | 1477 | Prado |
+| 278 | 1477 | Hillary Crawford |
 | 279 | 1469 | Carrie Trigg |
 | 280 | 1463 | Yvonne Wharton |
 | 281 | 1459 | Shiny Rollzone |
@@ -508,9 +508,9 @@
 | 500 | 972 | Angela Yantz |
 | 501 | 970 | Iris Angelica Perez Cantos |
 | 502 | 969 | Andrew Willis |
-| 503 | 969 | Connie Jimenez |
-| 504 | 969 | Desire Rice |
-| 505 | 969 | Shuany Arias |
+| 503 | 969 | Shuany Arias |
+| 504 | 969 | Connie Jimenez |
+| 505 | 969 | Desire Rice |
 | 506 | 966 | Kayla |
 | 507 | 965 | Lonne Emade |
 | 508 | 964 | John Bednarik |

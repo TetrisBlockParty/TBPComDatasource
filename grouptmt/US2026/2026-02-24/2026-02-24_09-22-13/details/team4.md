@@ -73,8 +73,8 @@
 | 65 | 1119 | Amelpss |
 | 66 | 1109 | BertMofo |
 | 67 | 1089 | Alyssa Papen |
-| 68 | 1082 | Dion Crommarty |
-| 69 | 1082 | Avy Absol |
+| 68 | 1082 | Avy Absol |
+| 69 | 1082 | Dion Crommarty |
 | 70 | 1081 | Dustee Craddock-Harrison |
 | 71 | 1080 | Chilly Line |
 | 72 | 1069 | Heather Tushner |
@@ -156,8 +156,8 @@
 | 148 | 638 | Porkobello |
 | 149 | 635 | Kim Hunt |
 | 150 | 634 | Carrie Brian |
-| 151 | 633 | Adam Stephanie Parker |
-| 152 | 633 | Jessica Lynn Cutlip |
+| 151 | 633 | Jessica Lynn Cutlip |
+| 152 | 633 | Adam Stephanie Parker |
 | 153 | 629 | Chris Baggett |
 | 154 | 623 | ku5hkween |
 | 155 | 622 | Ernest Maxwell |
@@ -233,8 +233,8 @@
 | 225 | 473 | June Hoffman |
 | 226 | 472 | Plucky Patternblock |
 | 227 | 465 | Leslie Thomas |
-| 228 | 464 | Calvin Cannon |
-| 229 | 464 | Zakia Monae |
+| 228 | 464 | Zakia Monae |
+| 229 | 464 | Calvin Cannon |
 | 230 | 463 | shark tato |
 | 231 | 462 | Crystal Nicolette Moore |
 | 232 | 460 | Kathy Brookins |
@@ -247,8 +247,8 @@
 | 239 | 454 | Keshia Lyons |
 | 240 | 450 | Genne Scott |
 | 241 | 449 | Danielle Kollias |
-| 242 | 448 | Mr. Party |
-| 243 | 448 | Mike Solo |
+| 242 | 448 | Mike Solo |
+| 243 | 448 | Mr. Party |
 | 244 | 447 | Jen Mattei |
 | 245 | 444 | Selena Shaw |
 | 246 | 442 | John Brunetti |
@@ -279,8 +279,8 @@
 | 271 | 407 | Hyper Builder |
 | 272 | 407 | Rafael Valentin |
 | 273 | 402 | Nita Wells |
-| 274 | 399 | Brittany Little |
-| 275 | 399 | Twisty Cascadezone |
+| 274 | 399 | Twisty Cascadezone |
+| 275 | 399 | Brittany Little |
 | 276 | 398 | Tyler Terrific |
 | 277 | 397 | blockstar |
 | 278 | 395 | Denise B |
