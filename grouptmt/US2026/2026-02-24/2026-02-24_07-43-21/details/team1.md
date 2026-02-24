@@ -133,8 +133,8 @@
 | 125 | 666 | Virginia Gray Floyd |
 | 126 | 652 | Evie Khalil |
 | 127 | 651 | Dandy Basegrid |
-| 128 | 650 | April Carroll |
-| 129 | 650 | Bob |
+| 128 | 650 | Bob |
+| 129 | 650 | April Carroll |
 | 130 | 647 | Theo Pinnow |
 | 131 | 646 | Tyler Whitley |
 | 132 | 643 | Erin Rosberg |
@@ -202,8 +202,8 @@
 | 194 | 494 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 195 | 493 | Speedy Liney |
 | 196 | 492 | Happy Snapbuild |
-| 197 | 488 | Jessie Welch |
-| 198 | 488 | Ly Phethmany |
+| 197 | 488 | Ly Phethmany |
+| 198 | 488 | Jessie Welch |
 | 199 | 487 | Eric DeSimone |
 | 200 | 482 | Mike Ames |
 | 201 | 479 | canbrick |
@@ -244,8 +244,8 @@
 | 236 | 424 | Emily Adelaide Wheatley |
 | 237 | 423 | Howdi Duty |
 | 238 | 422 | Jamise Brown |
-| 239 | 421 | Letson Melissa |
-| 240 | 421 | Plucky Stacky |
+| 239 | 421 | Plucky Stacky |
+| 240 | 421 | Letson Melissa |
 | 241 | 420 | Jennifer Noe Chandler |
 | 242 | 419 | Daring Fitclear |
 | 243 | 419 | John J. Cronin |
@@ -298,8 +298,8 @@
 | 290 | 371 | Danielle S Kester |
 | 291 | 370 | Gracie |
 | 292 | 369 | Keith Mathis |
-| 293 | 367 | Cheeky Pop |
-| 294 | 367 | April Jones |
+| 293 | 367 | April Jones |
+| 294 | 367 | Cheeky Pop |
 | 295 | 366 | J.F. Fields |
 | 296 | 365 | Shannon Marie Pitts |
 | 297 | 365 | Amanda Holibaugh |
@@ -613,8 +613,8 @@
 | 605 | 205 | Sam Rosado |
 | 606 | 205 | Lauren Baxter |
 | 607 | 204 | Jill King Oldham |
-| 608 | 203 | Ashley Rodriguez |
-| 609 | 203 | MelSavage |
+| 608 | 203 | MelSavage |
+| 609 | 203 | Ashley Rodriguez |
 | 610 | 202 | grizzly |
 | 611 | 201 | Hector Cruz |
 | 612 | 200 | Gina Fontana Meier |

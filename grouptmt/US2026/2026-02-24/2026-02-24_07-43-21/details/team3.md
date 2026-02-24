@@ -172,22 +172,22 @@
 | 164 | 875 | Chasity |
 | 165 | 874 | Jessica Pineda-Lopez |
 | 166 | 871 | Rochelle Hazelett |
-| 167 | 868 | Cranky Gridder |
-| 168 | 868 | Nicole Flippo |
+| 167 | 868 | Nicole Flippo |
+| 168 | 868 | Cranky Gridder |
 | 169 | 866 | Domo Washington |
 | 170 | 864 | Sunny Rotater |
 | 171 | 862 | Santeria Trece Candles |
 | 172 | 857 | Dana Fox |
 | 173 | 856 | Dana Winters |
 | 174 | 854 | Speedy Bridger |
-| 175 | 847 | Daring Brickzone |
-| 176 | 847 | Daira Largen |
+| 175 | 847 | Daira Largen |
+| 176 | 847 | Daring Brickzone |
 | 177 | 846 | Nicole Myers |
 | 178 | 845 | Edwin Calvillo Jr. |
 | 179 | 832 | Alexmac |
 | 180 | 829 | Patricia White |
-| 181 | 821 | Kammy Hill |
-| 182 | 821 | Angella Lyons |
+| 181 | 821 | Angella Lyons |
+| 182 | 821 | Kammy Hill |
 | 183 | 817 | Niki Dalrymple |
 | 184 | 815 | Justin Ritter |
 | 185 | 813 | JessDrown |
@@ -324,8 +324,8 @@
 | 316 | 505 | Stephanie Simpson |
 | 317 | 500 | Ashley Tookes |
 | 318 | 499 | Megan Rathmanner |
-| 319 | 499 | Gumbo |
-| 320 | 499 | Rebecca Bailey |
+| 319 | 499 | Rebecca Bailey |
+| 320 | 499 | Gumbo |
 | 321 | 496 | Brenda Schmid Wood |
 | 322 | 495 | Daring Builder |
 | 323 | 494 | MCV |
@@ -358,8 +358,8 @@
 | 350 | 459 | TotoCherue |
 | 351 | 459 | Randy Clevenger |
 | 352 | 457 | Snippy Wipeout |
-| 353 | 456 | Cynthia Herrmann Egland |
-| 354 | 456 | Kelly |
+| 353 | 456 | Kelly |
+| 354 | 456 | Cynthia Herrmann Egland |
 | 355 | 455 | Kelly Wolf |
 | 356 | 450 | Luciana Braganca Vieira |
 | 357 | 450 | Stefanie LaPointe |
@@ -391,8 +391,8 @@
 | 383 | 426 | Christina Rotz Shows |
 | 384 | 425 | Ava Petito |
 | 385 | 423 | Dapper Liney |
-| 386 | 419 | Desiree Gold |
-| 387 | 419 | Philip Rock |
+| 386 | 419 | Philip Rock |
+| 387 | 419 | Desiree Gold |
 | 388 | 419 | Maggie |
 | 389 | 418 | Rainbow77375 |
 | 390 | 416 | Tay |

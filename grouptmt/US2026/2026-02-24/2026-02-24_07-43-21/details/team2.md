@@ -336,8 +336,8 @@
 | 328 | 1304 | Sarah Ridenour |
 | 329 | 1303 | Michele Morgan |
 | 330 | 1301 | Mandy Cekine |
-| 331 | 1300 | Shinel Richardson |
-| 332 | 1300 | Snappy Matchbuilder |
+| 331 | 1300 | Snappy Matchbuilder |
+| 332 | 1300 | Shinel Richardson |
 | 333 | 1300 | Tacara Cummings |
 | 334 | 1295 | Jess Morrison |
 | 335 | 1292 | Joshua Mandel |
@@ -430,8 +430,8 @@
 | 422 | 1088 | BK Queen |
 | 423 | 1087 | Jenn Marie |
 | 424 | 1087 | Cindy Sechler Taninecz |
-| 425 | 1085 | Bee |
-| 426 | 1085 | Barbra Miller |
+| 425 | 1085 | Barbra Miller |
+| 426 | 1085 | Bee |
 | 427 | 1084 | William Hunt |
 | 428 | 1084 | Emilee Burke |
 | 429 | 1080 | Jennifer Monroe Kelly |
@@ -475,10 +475,10 @@
 | 467 | 1003 | Amanda Deitrick |
 | 468 | 1002 | Lexie Burke |
 | 469 | 1000 | Emmmz |
-| 470 | 1000 | Victoria Moore-Smith |
-| 471 | 1000 | Ashley Guernsey-Martin |
-| 472 | 999 | Tansaria Couch-Butler |
-| 473 | 999 | Lola Contreras |
+| 470 | 1000 | Ashley Guernsey-Martin |
+| 471 | 1000 | Victoria Moore-Smith |
+| 472 | 999 | Lola Contreras |
+| 473 | 999 | Tansaria Couch-Butler |
 | 474 | 998 | Dedra Steward |
 | 475 | 997 | Ellie Jonas |
 | 476 | 995 | Gauri Shrotriya |
@@ -500,8 +500,8 @@
 | 492 | 972 | Angela Yantz |
 | 493 | 970 | Iris Angelica Perez Cantos |
 | 494 | 969 | Andrew Willis |
-| 495 | 969 | Desire Rice |
-| 496 | 969 | Connie Jimenez |
+| 495 | 969 | Connie Jimenez |
+| 496 | 969 | Desire Rice |
 | 497 | 969 | Shuany Arias |
 | 498 | 966 | Kayla |
 | 499 | 965 | Lonne Emade |
@@ -564,8 +564,8 @@
 | 556 | 885 | Giggy Mover |
 | 557 | 885 | Miranda Morris |
 | 558 | 883 | Hong Tang |
-| 559 | 882 | Thomas Hedrick |
-| 560 | 882 | Sarah Massey |
+| 559 | 882 | Sarah Massey |
+| 560 | 882 | Thomas Hedrick |
 | 561 | 881 | Layla LS |
 | 562 | 876 | Jelly |
 | 563 | 876 | Jessicah Myers |
@@ -646,8 +646,8 @@
 | 638 | 792 | Beatboxxer |
 | 639 | 789 | De'Jah Charncey |
 | 640 | 786 | Ashe Corso |
-| 641 | 786 | tejas25 |
-| 642 | 786 | Charvi' Carter |
+| 641 | 786 | Charvi' Carter |
+| 642 | 786 | tejas25 |
 | 643 | 785 | Daniel Amos |
 | 644 | 784 | Kelly Amos |
 | 645 | 783 | Regina Young |
@@ -667,8 +667,8 @@
 | 659 | 773 | Chummy Blockbuilder |
 | 660 | 772 | Party d |
 | 661 | 770 | Frilly Fallzone |
-| 662 | 770 | Nakiiya Dreamcatcher Gore |
-| 663 | 770 | Michael Buckner |
+| 662 | 770 | Michael Buckner |
+| 663 | 770 | Nakiiya Dreamcatcher Gore |
 | 664 | 768 | Mia Muse Best |
 | 665 | 766 | Frisky Riserbuilder |
 | 666 | 766 | Angela Cagle Silmon |
@@ -735,8 +735,8 @@
 | 727 | 724 | teo1 |
 | 728 | 722 | Sassy Racker |
 | 729 | 720 | Crystal EatableCupcake Stepney |
-| 730 | 719 | Maddy Petersen |
-| 731 | 719 | Isabelle Bonneau |
+| 730 | 719 | Isabelle Bonneau |
+| 731 | 719 | Maddy Petersen |
 | 732 | 718 | Andre Love |
 | 733 | 717 | Shinette Dobson |
 | 734 | 717 | Yoan Boulanger |
@@ -879,8 +879,8 @@
 | 871 | 643 | Rae Rae |
 | 872 | 643 | Kimmie Zimmerman-Rocha |
 | 873 | 642 | Lewis Sturgeon |
-| 874 | 642 | Christy Long |
-| 875 | 642 | Kendall Fullerton |
+| 874 | 642 | Kendall Fullerton |
+| 875 | 642 | Christy Long |
 | 876 | 641 | Snappy Faller |
 | 877 | 640 | Taylor Flowers |
 | 878 | 639 | Tina Marie |
@@ -893,20 +893,20 @@
 | 885 | 638 | Kelly |
 | 886 | 638 | Daring Caster |
 | 887 | 637 | Darcy Mae |
-| 888 | 635 | Pamela Babisky |
+| 888 | 635 | John Carlin |
 | 889 | 635 | Boldy Wiper |
-| 890 | 635 | John Carlin |
+| 890 | 635 | Pamela Babisky |
 | 891 | 634 | Jessica Galick |
 | 892 | 632 | Lea Stewart |
 | 893 | 631 | Autumn Schaeffer |
 | 894 | 629 | Snappy Shatterfit |
-| 895 | 629 | Kat Mfm Kaul |
-| 896 | 629 | Luke Califf |
+| 895 | 629 | Luke Califf |
+| 896 | 629 | Kat Mfm Kaul |
 | 897 | 629 | Ownlane Rico |
 | 898 | 628 | Misty Mitchell |
 | 899 | 628 | Macy Jarrett |
-| 900 | 627 | Nicole Cox |
-| 901 | 627 | Kristie Wilcox |
+| 900 | 627 | Kristie Wilcox |
+| 901 | 627 | Nicole Cox |
 | 902 | 626 | Tash Bell |
 | 903 | 624 | Elizabeth Perterson |
 | 904 | 623 | Victor Obiakarije |
@@ -953,8 +953,8 @@
 | 945 | 602 | Jedi |
 | 946 | 601 | Shindee |
 | 947 | 600 | Juanita Lyons |
-| 948 | 599 | Abby Klaski |
-| 949 | 599 | Samuel Labruno |
+| 948 | 599 | Samuel Labruno |
+| 949 | 599 | Abby Klaski |
 | 950 | 599 | Groovy Tilefall |
 | 951 | 599 | Plucky Matchclear |
 | 952 | 599 | Crystal Heller Gonzalez |
@@ -963,11 +963,11 @@
 | 955 | 598 | Tiki |
 | 956 | 598 | Cosmo |
 | 957 | 595 | Crystal Hodge Love |
-| 958 | 595 | ElizabethAnn Dickinson |
-| 959 | 595 | Jessica Sutter |
+| 958 | 595 | Jessica Sutter |
+| 959 | 595 | ElizabethAnn Dickinson |
 | 960 | 595 | Sara Pennington |
-| 961 | 593 | Carre Elizabeth Amanda |
-| 962 | 593 | Keila Adames |
+| 961 | 593 | Keila Adames |
+| 962 | 593 | Carre Elizabeth Amanda |
 | 963 | 591 | Ahtavia Watkins |
 | 964 | 591 | Mrs. New |
 | 965 | 591 | Quinn |
@@ -1005,8 +1005,8 @@
 | 997 | 577 | GinRox88 |
 | 998 | 575 | Cini |
 | 999 | 575 | Joel Rosado |
-| 1000 | 575 | Vung Nguyen |
-| 1001 | 575 | Kira Krause |
+| 1000 | 575 | Kira Krause |
+| 1001 | 575 | Vung Nguyen |
 | 1002 | 574 | Chris Emanuel |
 | 1003 | 574 | Shyenn Gadsby |
 | 1004 | 574 | Shannon Gerbis |
@@ -1016,8 +1016,8 @@
 | 1008 | 572 | Rachael Senard |
 | 1009 | 571 | Zachary Boyarski |
 | 1010 | 571 | Matt Johnson |
-| 1011 | 570 | MauroPRM |
-| 1012 | 570 | Erika Deer Kauffman |
+| 1011 | 570 | Erika Deer Kauffman |
+| 1012 | 570 | MauroPRM |
 | 1013 | 570 | Sonya Back |
 | 1014 | 569 | Anita Rose Green |
 | 1015 | 569 | Sparkles |
@@ -1029,8 +1029,8 @@
 | 1021 | 563 | Dione |
 | 1022 | 563 | Heather M Purcell |
 | 1023 | 563 | David Rehse |
-| 1024 | 562 | Gabbrielle Sutton |
-| 1025 | 562 | Klee |
+| 1024 | 562 | Klee |
+| 1025 | 562 | Gabbrielle Sutton |
 | 1026 | 562 | Smiley Strike |
 | 1027 | 562 | Angie Winch |
 | 1028 | 562 | Dan Kulhanek |
@@ -1173,8 +1173,8 @@
 | 1165 | 505 | Umm E Rubab |
 | 1166 | 505 | Sammie |
 | 1167 | 504 | Veronica Stevenson |
-| 1168 | 504 | Randall Sykes |
-| 1169 | 504 | Richard Hunt |
+| 1168 | 504 | Richard Hunt |
+| 1169 | 504 | Randall Sykes |
 | 1170 | 504 | Mary Boss |
 | 1171 | 503 | Aleasha M Brown |
 | 1172 | 503 | Twisty Tetriblast |

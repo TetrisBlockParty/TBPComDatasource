@@ -168,8 +168,8 @@
 | 160 | 590 | Angela Srubar-Norman |
 | 161 | 590 | Carmethia Clemons Haslerig |
 | 162 | 587 | YoMomma |
-| 163 | 586 | Latisha Davis |
-| 164 | 586 | Carlos Ramirez |
+| 163 | 586 | Carlos Ramirez |
+| 164 | 586 | Latisha Davis |
 | 165 | 585 | Tracey Lehmann |
 | 166 | 584 | Carlton Unfiltered |
 | 167 | 576 | Jade Rian |
@@ -315,8 +315,8 @@
 | 307 | 354 | Perky Piecegrid |
 | 308 | 354 | @ |
 | 309 | 352 | Kate |
-| 310 | 351 | Dana Scott |
-| 311 | 351 | Jackie Clark |
+| 310 | 351 | Jackie Clark |
+| 311 | 351 | Dana Scott |
 | 312 | 350 | Dizzy Matchzone |
 | 313 | 349 | Richard-April Kice |
 | 314 | 349 | jim |
@@ -353,8 +353,8 @@
 | 345 | 324 | Vic |
 | 346 | 324 | Sarah Hoffman |
 | 347 | 322 | Bryan Hodgins |
-| 348 | 321 | Stacey Stano |
-| 349 | 321 | Sarah Brown |
+| 348 | 321 | Sarah Brown |
+| 349 | 321 | Stacey Stano |
 | 350 | 320 | Alan Zukowski |
 | 351 | 320 | O block |
 | 352 | 319 | Jessica Fredericks |
