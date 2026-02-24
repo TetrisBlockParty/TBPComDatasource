@@ -408,8 +408,8 @@
 | 400 | 1116 | Belle |
 | 401 | 1116 | Wakanda Forever |
 | 402 | 1110 | Nadia Batista Garcia |
-| 403 | 1109 | BYM4L |
-| 404 | 1109 | Melissa McCall |
+| 403 | 1109 | Melissa McCall |
+| 404 | 1109 | BYM4L |
 | 405 | 1108 | Kimmy Newman |
 | 406 | 1105 | Nerdy Clearfit |
 | 407 | 1104 | Kimberly Hope Howell |
@@ -732,8 +732,8 @@
 | 724 | 718 | Andre Love |
 | 725 | 717 | Shinette Dobson |
 | 726 | 717 | Yoan Boulanger |
-| 727 | 716 | Irene Jones |
-| 728 | 716 | Leah |
+| 727 | 716 | Leah |
+| 728 | 716 | Irene Jones |
 | 729 | 715 | Daniell Martinez |
 | 730 | 715 | Nutty Splitter |
 | 731 | 715 | Julio A Laracuente |

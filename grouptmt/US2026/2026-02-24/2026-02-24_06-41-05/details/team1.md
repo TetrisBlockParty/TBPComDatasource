@@ -84,8 +84,8 @@
 | 76 | 973 | Francesca Gee |
 | 77 | 966 | Shalene Frederick Autrey |
 | 78 | 961 | Jacqueline Williams |
-| 79 | 957 | Zippy Align |
-| 80 | 957 | Erin Hodges Plumb |
+| 79 | 957 | Erin Hodges Plumb |
+| 80 | 957 | Zippy Align |
 | 81 | 944 | Sweet Baker |
 | 82 | 922 | Jason Cox |
 | 83 | 920 | Tee Sheree |
@@ -110,8 +110,8 @@
 | 102 | 773 | Susanna Guerry |
 | 103 | 772 | Kathy Langham |
 | 104 | 770 | Zappy Curvetile |
-| 105 | 769 | Angel Fowler |
-| 106 | 769 | Robert Benito |
+| 105 | 769 | Robert Benito |
+| 106 | 769 | Angel Fowler |
 | 107 | 768 | Jazzy Framezone |
 | 108 | 761 | Karin Gillen |
 | 109 | 751 | Kellie |
@@ -167,8 +167,8 @@
 | 159 | 548 | Luciano Moreira |
 | 160 | 547 | Sharon Reynolds |
 | 161 | 546 | Loony Fitzone |
-| 162 | 543 | Adrian Esteban |
-| 163 | 543 | Nicole Roseberry Weber |
+| 162 | 543 | Nicole Roseberry Weber |
+| 163 | 543 | Adrian Esteban |
 | 164 | 540 | Tonya Beasley |
 | 165 | 538 | .running. |
 | 166 | 537 | BadG52 |
@@ -176,8 +176,8 @@
 | 168 | 535 | Plucky Ziggy |
 | 169 | 532 | Νεφ Όνυξ |
 | 170 | 528 | ALFD |
-| 171 | 527 | Hyper |
-| 172 | 527 | Nery Martinez |
+| 171 | 527 | Nery Martinez |
+| 172 | 527 | Hyper |
 | 173 | 522 | Constance Risner |
 | 174 | 521 | Teri Oehlke |
 | 175 | 519 | Anaid Sanchez |
@@ -393,8 +393,8 @@
 | 385 | 298 | Glitzy Buildsnap |
 | 386 | 297 | Billie Dawn Sparks |
 | 387 | 296 | Jeanna Dunn |
-| 388 | 295 | Joe Coon |
-| 389 | 295 | ESC |
+| 388 | 295 | ESC |
+| 389 | 295 | Joe Coon |
 | 390 | 294 | Mary Love |
 | 391 | 294 | Наталья Солоид |
 | 392 | 293 | Sunny Pivotfall |

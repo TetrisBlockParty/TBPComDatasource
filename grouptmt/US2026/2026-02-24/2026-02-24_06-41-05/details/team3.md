@@ -104,8 +104,8 @@
 | 96 | 1361 | Patricia Gadsden |
 | 97 | 1343 | Joey Banks |
 | 98 | 1320 | Kristie |
-| 99 | 1318 | Tiff Vs Tiffany |
-| 100 | 1318 | Diana Ibarra |
+| 99 | 1318 | Diana Ibarra |
+| 100 | 1318 | Tiff Vs Tiffany |
 | 101 | 1309 | yoyo |
 | 102 | 1297 | Shelby Michelle |
 | 103 | 1290 | JerseyJess |
@@ -123,8 +123,8 @@
 | 115 | 1134 | Melissa Orth Hunter |
 | 116 | 1124 | Stephanie Rice |
 | 117 | 1121 | Corie A. Brinson |
-| 118 | 1114 | Loopy Fallmatch |
-| 119 | 1114 | Groovy Catcher |
+| 118 | 1114 | Groovy Catcher |
+| 119 | 1114 | Loopy Fallmatch |
 | 120 | 1105 | Adrian Marcel Pate |
 | 121 | 1093 | Angela M. Fletcher |
 | 122 | 1091 | Jennifer |
@@ -161,8 +161,8 @@
 | 153 | 940 | Stephanie Allmon |
 | 154 | 936 | Dolores Falco |
 | 155 | 925 | Cherry Parker |
-| 156 | 914 | Sarajane Lokan |
-| 157 | 914 | BadManSheLove |
+| 156 | 914 | BadManSheLove |
+| 157 | 914 | Sarajane Lokan |
 | 158 | 910 | Staci George Fitzsimmons |
 | 159 | 910 | opf |
 | 160 | 899 | Jaime Monhaut-Reed |
@@ -360,8 +360,8 @@
 | 352 | 456 | Cynthia Herrmann Egland |
 | 353 | 456 | Kelly |
 | 354 | 455 | Kelly Wolf |
-| 355 | 450 | Stefanie LaPointe |
-| 356 | 450 | Luciana Braganca Vieira |
+| 355 | 450 | Luciana Braganca Vieira |
+| 356 | 450 | Stefanie LaPointe |
 | 357 | 449 | Lively Caster |
 | 358 | 447 | Carrie Huskey |
 | 359 | 447 | Num1hater |
@@ -608,9 +608,9 @@
 | 600 | 296 | Angel Miller |
 | 601 | 295 | Omega |
 | 602 | 294 | Jazzy Spinfit |
-| 603 | 293 | Anna Moeller |
+| 603 | 293 | Tommy Proctor |
 | 604 | 293 | Rufus Lincoln |
-| 605 | 293 | Tommy Proctor |
+| 605 | 293 | Anna Moeller |
 | 606 | 292 | Beezwax |
 | 607 | 292 | Scouty |
 | 608 | 291 | Autumn Phillimore |
@@ -880,10 +880,10 @@
 | 872 | 216 | Timothy Troy Frazier |
 | 873 | 216 | Peachy Rollfit |
 | 874 | 216 | Tabbi Wilson |
-| 875 | 215 | Anabela Ruiz |
-| 876 | 215 | Michell Hendershott Jackson |
-| 877 | 214 | krazibtch |
-| 878 | 214 | Snarky McFace |
+| 875 | 215 | Michell Hendershott Jackson |
+| 876 | 215 | Anabela Ruiz |
+| 877 | 214 | Snarky McFace |
+| 878 | 214 | krazibtch |
 | 879 | 213 | Laaken Draper |
 | 880 | 212 | Bernice Smiley |
 | 881 | 211 | Dreamy Tetrisline |
