@@ -109,8 +109,8 @@
 | 101 | 804 | SAP |
 | 102 | 803 | Diana Houts |
 | 103 | 802 | Crystal Carroll |
-| 104 | 798 | Klo |
-| 105 | 798 | Jewell Urban |
+| 104 | 798 | Jewell Urban |
+| 105 | 798 | Klo |
 | 106 | 796 | Denise Carlson |
 | 107 | 781 | Brittney Griggs |
 | 108 | 780 | TheNeesh50 |
@@ -125,8 +125,8 @@
 | 117 | 735 | Nugget |
 | 118 | 731 | KJ Pool |
 | 119 | 729 | Jamie Mann-Deichmann |
-| 120 | 726 | Amy Suckarieh |
-| 121 | 726 | Jamie Gustafson |
+| 120 | 726 | Jamie Gustafson |
+| 121 | 726 | Amy Suckarieh |
 | 122 | 725 | Brandon Crabbs |
 | 123 | 718 | Zippy Gridlock |
 | 124 | 712 | H.R. Block |
@@ -183,8 +183,8 @@
 | 175 | 538 | Steph Marie |
 | 176 | 537 | Scott Jameson |
 | 177 | 535 | Berklie Apedaile |
-| 178 | 532 | Matt Summer |
-| 179 | 532 | Alan George LaRage |
+| 178 | 532 | Alan George LaRage |
+| 179 | 532 | Matt Summer |
 | 180 | 528 | Erin Sabol |
 | 181 | 525 | Lucas J Sutton |
 | 182 | 522 | Carly Alexis |

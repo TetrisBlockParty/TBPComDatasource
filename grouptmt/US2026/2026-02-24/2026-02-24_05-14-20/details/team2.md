@@ -652,9 +652,9 @@
 | 644 | 758 | Stephanie Neuburger |
 | 645 | 757 | Frisky Clearpiece |
 | 646 | 756 | Aleksandr Gershman |
-| 647 | 755 | Bonita Kee |
-| 648 | 755 | Antonio Mckoy Sr. |
-| 649 | 755 | Marcia Jones |
+| 647 | 755 | Marcia Jones |
+| 648 | 755 | Bonita Kee |
+| 649 | 755 | Antonio Mckoy Sr. |
 | 650 | 754 | Draizen Montrell Thomas |
 | 651 | 753 | John Jubes |
 | 652 | 751 | Swanky Strikerpiece |
@@ -709,8 +709,8 @@
 | 701 | 715 | Julio A Laracuente |
 | 702 | 715 | Nutty Splitter |
 | 703 | 715 | Daniell Martinez |
-| 704 | 714 | Irene Jones |
-| 705 | 714 | Poldo Ilano |
+| 704 | 714 | Poldo Ilano |
+| 705 | 714 | Irene Jones |
 | 706 | 714 | Snazzy Basepiece |
 | 707 | 713 | Party d |
 | 708 | 711 | Brianna Cerney |
