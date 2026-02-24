@@ -345,8 +345,8 @@
 | 337 | 455 | Kelly Wolf |
 | 338 | 452 | Tyler Shoff |
 | 339 | 452 | Snippy Wipeout |
-| 340 | 450 | Stefanie LaPointe |
-| 341 | 450 | Luciana Braganca Vieira |
+| 340 | 450 | Luciana Braganca Vieira |
+| 341 | 450 | Stefanie LaPointe |
 | 342 | 449 | Mcathen |
 | 343 | 447 | Num1hater |
 | 344 | 447 | Snazzy Filler |

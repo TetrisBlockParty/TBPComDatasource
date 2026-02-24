@@ -69,8 +69,8 @@
 | 61 | 1116 | Ashley Ingram |
 | 62 | 1098 | BertMofo |
 | 63 | 1089 | Alyssa Papen |
-| 64 | 1082 | Avy Absol |
-| 65 | 1082 | Dion Crommarty |
+| 64 | 1082 | Dion Crommarty |
+| 65 | 1082 | Avy Absol |
 | 66 | 1075 | Dustee Craddock-Harrison |
 | 67 | 1069 | Heather Tushner |
 | 68 | 1047 | Julian Garcia |
@@ -80,8 +80,8 @@
 | 72 | 1003 | Destiney Carter |
 | 73 | 999 | Jeremy Steines |
 | 74 | 986 | TeeJ |
-| 75 | 985 | Shannon Ferrari |
-| 76 | 985 | Shelly Chandler |
+| 75 | 985 | Shelly Chandler |
+| 76 | 985 | Shannon Ferrari |
 | 77 | 956 | loulou |
 | 78 | 949 | Patron Anderson |
 | 79 | 939 | Edward White |
@@ -148,8 +148,8 @@
 | 140 | 619 | April Rondinone |
 | 141 | 618 | Ernest Maxwell |
 | 142 | 616 | Samantha Peterson |
-| 143 | 615 | Angelito |
-| 144 | 615 | Kim Hunt |
+| 143 | 615 | Kim Hunt |
+| 144 | 615 | Angelito |
 | 145 | 611 | Chris Baggett |
 | 146 | 608 | Swanky Fitline |
 | 147 | 602 | Cristy Duerksen |
@@ -158,15 +158,15 @@
 | 150 | 595 | Rodney McMath Jr. |
 | 151 | 595 | shar |
 | 152 | 587 | YoMomma |
-| 153 | 586 | Latisha Davis |
-| 154 | 586 | Cursed Hag |
+| 153 | 586 | Cursed Hag |
+| 154 | 586 | Latisha Davis |
 | 155 | 584 | Carlton Unfiltered |
 | 156 | 582 | Angela Srubar-Norman |
 | 157 | 578 | Livvy |
 | 158 | 576 | Jade Rian |
 | 159 | 575 | Jenna Ingersoll |
-| 160 | 574 | Carlos Ramirez |
-| 161 | 574 | Carmethia Clemons Haslerig |
+| 160 | 574 | Carmethia Clemons Haslerig |
+| 161 | 574 | Carlos Ramirez |
 | 162 | 568 | Cindy Looper |
 | 163 | 567 | Rico |
 | 164 | 565 | Ren Mc |
@@ -212,8 +212,8 @@
 | 204 | 481 | Rebecca Morris |
 | 205 | 478 | Casey Grabner |
 | 206 | 475 | Silly Zonebuilder |
-| 207 | 473 | Jolly Dashfit |
-| 208 | 473 | Cranky Rollpiece |
+| 207 | 473 | Cranky Rollpiece |
+| 208 | 473 | Jolly Dashfit |
 | 209 | 465 | June Hoffman |
 | 210 | 462 | Leslie Thomas |
 | 211 | 462 | Crystal Nicolette Moore |
@@ -266,8 +266,8 @@
 | 258 | 392 | Neirrah B Olailjeel |
 | 259 | 391 | mike |
 | 260 | 390 | Ari Droff |
-| 261 | 387 | JPW |
-| 262 | 387 | Rafael Valentin |
+| 261 | 387 | Rafael Valentin |
+| 262 | 387 | JPW |
 | 263 | 386 | Denise B |
 | 264 | 384 | Bio Nelly |
 | 265 | 382 | Sue Joyce Staats |

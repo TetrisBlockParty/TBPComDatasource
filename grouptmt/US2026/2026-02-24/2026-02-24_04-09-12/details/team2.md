@@ -533,8 +533,8 @@
 | 525 | 886 | Cherrica Newman |
 | 526 | 885 | Giggy Mover |
 | 527 | 883 | Hong Tang |
-| 528 | 882 | Sarah Massey |
-| 529 | 882 | Thomas Hedrick |
+| 528 | 882 | Thomas Hedrick |
+| 529 | 882 | Sarah Massey |
 | 530 | 881 | Layla LS |
 | 531 | 880 | Traci Johnson |
 | 532 | 877 | Anthony Huebel |
