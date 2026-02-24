@@ -139,8 +139,8 @@
 | 131 | 950 | MissTaylor |
 | 132 | 940 | Stephanie Allmon |
 | 133 | 939 | Jamie Lang |
-| 134 | 936 | Giddy Drop |
-| 135 | 936 | Dolores Falco |
+| 134 | 936 | Dolores Falco |
+| 135 | 936 | Giddy Drop |
 | 136 | 932 | Katrina Schroeder |
 | 137 | 931 | Michelle |
 | 138 | 930 | Bea Miles |
@@ -767,8 +767,8 @@
 | 759 | 214 | Snarky McFace |
 | 760 | 213 | Laaken Draper |
 | 761 | 213 | Kortnie Kincaid |
-| 762 | 212 | Beth Ingham |
-| 763 | 212 | Bernice Smiley |
+| 762 | 212 | Bernice Smiley |
+| 763 | 212 | Beth Ingham |
 | 764 | 212 | Carri |
 | 765 | 211 | Allie Kershner |
 | 766 | 211 | QueenBee |

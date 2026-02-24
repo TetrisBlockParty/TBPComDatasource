@@ -70,8 +70,8 @@
 | 62 | 3885 | Linda Pierce |
 | 63 | 3863 | jayjay |
 | 64 | 3847 | Rob Riggin |
-| 65 | 3837 | Ashley Rose Frederick |
-| 66 | 3795 | Liberty |
+| 65 | 3795 | Liberty |
+| 66 | 3788 | Ashley Rose Frederick |
 | 67 | 3768 | Kelly Crook |
 | 68 | 3756 | Macy Williams |
 | 69 | 3745 | Jennifer Peachey |
@@ -205,15 +205,15 @@
 | 197 | 1699 | Becca Widmer |
 | 198 | 1661 | Danielle Johnson-Chandler |
 | 199 | 1661 | Scott Treadway |
-| 200 | 1660 | Ashley Dow |
-| 201 | 1648 | John Rodriguez |
-| 202 | 1647 | Cambrie Schultz |
-| 203 | 1644 | Luna |
-| 204 | 1638 | Lemonaide |
-| 205 | 1634 | Jaycee |
-| 206 | 1629 | Rickey Johnson |
-| 207 | 1621 | LordZophar |
-| 208 | 1613 | blackq |
+| 200 | 1648 | John Rodriguez |
+| 201 | 1647 | Cambrie Schultz |
+| 202 | 1644 | Luna |
+| 203 | 1638 | Lemonaide |
+| 204 | 1634 | Jaycee |
+| 205 | 1629 | Rickey Johnson |
+| 206 | 1621 | LordZophar |
+| 207 | 1613 | blackq |
+| 208 | 1612 | Ashley Dow |
 | 209 | 1610 | Ray Ray Prado |
 | 210 | 1600 | Mo Shine On |
 | 211 | 1596 | Christine Egidio Morocco |
@@ -227,8 +227,8 @@
 | 219 | 1558 | Tim Dyer |
 | 220 | 1557 | Poppy Snap |
 | 221 | 1556 | Tonya Morgan |
-| 222 | 1554 | Howard Forest |
-| 223 | 1554 | Osun Anuket Esu |
+| 222 | 1554 | Osun Anuket Esu |
+| 223 | 1554 | Howard Forest |
 | 224 | 1553 | Wendy Unsain |
 | 225 | 1552 | Cheeky Balancepiece |
 | 226 | 1543 | Alyssa Nadine Medelez |
@@ -286,11 +286,11 @@
 | 278 | 1319 | Joshua Sommerville |
 | 279 | 1315 | Lucky Ladybug |
 | 280 | 1312 | Tinishia Amie |
-| 281 | 1312 | Angie Marie |
-| 282 | 1308 | Eric Carlson |
-| 283 | 1308 | Ronnie Nelson |
-| 284 | 1304 | Sarah Ridenour |
-| 285 | 1303 | Michele Morgan |
+| 281 | 1308 | Eric Carlson |
+| 282 | 1308 | Ronnie Nelson |
+| 283 | 1304 | Sarah Ridenour |
+| 284 | 1303 | Michele Morgan |
+| 285 | 1302 | Angie Marie |
 | 286 | 1300 | Tacara Cummings |
 | 287 | 1297 | Dimitra Zazara |
 | 288 | 1295 | Jess Morrison |
@@ -347,9 +347,9 @@
 | 339 | 1139 | Aireka Roman |
 | 340 | 1135 | Kenny Alvarado |
 | 341 | 1134 | Kelsey Kyle Rhodes |
-| 342 | 1133 | Colin Morgan |
-| 343 | 1127 | Mama T |
-| 344 | 1118 | Ibiza Carolina LaRose |
+| 342 | 1127 | Mama T |
+| 343 | 1118 | Ibiza Carolina LaRose |
+| 344 | 1116 | Em Chen |
 | 345 | 1116 | Belle |
 | 346 | 1114 | Kevin Walp |
 | 347 | 1109 | Melissa McCall |
@@ -728,16 +728,16 @@
 | 720 | 640 | Shelva Richard |
 | 721 | 640 | Slinky Racker |
 | 722 | 639 | Toni Roberson |
-| 723 | 639 | Tina Marie |
-| 724 | 639 | Libby Hicks |
+| 723 | 639 | Libby Hicks |
+| 724 | 639 | Tina Marie |
 | 725 | 639 | Fi Ne |
 | 726 | 639 | Sveta Lana |
 | 727 | 638 | Leah Keesling |
 | 728 | 637 | Koa N Sharon Chen |
 | 729 | 637 | Darcy Mae |
 | 730 | 637 | Karen Posadas Centeno |
-| 731 | 636 | Ronald Higgins |
-| 732 | 636 | Emilie Desma |
+| 731 | 636 | Emilie Desma |
+| 732 | 636 | Ronald Higgins |
 | 733 | 635 | Kendall Fullerton |
 | 734 | 635 | Pamela Babisky |
 | 735 | 635 | David Duncan |
@@ -753,8 +753,8 @@
 | 745 | 630 | Joseph Jones |
 | 746 | 628 | Christina Ashley |
 | 747 | 628 | Polly Pritchard Chesler |
-| 748 | 628 | Macy Jarrett |
-| 749 | 628 | Brownie Sheena |
+| 748 | 628 | Brownie Sheena |
+| 749 | 628 | Macy Jarrett |
 | 750 | 626 | Autumn Schaeffer |
 | 751 | 626 | Toni Whipple |
 | 752 | 626 | Jessica Lamb |

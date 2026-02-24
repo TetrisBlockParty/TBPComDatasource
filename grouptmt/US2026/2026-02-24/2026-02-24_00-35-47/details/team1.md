@@ -124,8 +124,8 @@
 | 116 | 612 | femmefatale |
 | 117 | 606 | Ty Brown |
 | 118 | 604 | Ryan Lunnin |
-| 119 | 601 | Evan Richmond |
-| 120 | 601 | Phu ckalldems |
+| 119 | 601 | Phu ckalldems |
+| 120 | 601 | Evan Richmond |
 | 121 | 598 | Jessi Sauer |
 | 122 | 594 | Basment Living |
 | 123 | 591 | Giddy Cascade |
@@ -234,9 +234,9 @@
 | 226 | 386 | MommaKFC |
 | 227 | 386 | Brian Spotts |
 | 228 | 384 | Tami Luce Martin |
-| 229 | 383 | Jen Nystrom |
-| 230 | 383 | Margo Wagner |
-| 231 | 383 | pjbeta |
+| 229 | 383 | pjbeta |
+| 230 | 383 | Jen Nystrom |
+| 231 | 383 | Margo Wagner |
 | 232 | 382 | David Lutcher |
 | 233 | 382 | Plucky Stacky |
 | 234 | 382 | Angela Renea Lester |
@@ -351,7 +351,7 @@
 | 343 | 290 | Tavia |
 | 344 | 289 | Michael |
 | 345 | 289 | Speedy Snapfall |
-| 346 | 289 | Michael |
+| 346 | 289 | Nate Price |
 | 347 | 288 | Tanya Banks |
 | 348 | 287 | Itspaigebro |
 | 349 | 286 | Sarahdactyl |

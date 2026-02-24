@@ -124,8 +124,8 @@
 | 116 | 687 | Chris Alexinas |
 | 117 | 682 | Raegan Lane-Ross |
 | 118 | 673 | Jacqueline Helm |
-| 119 | 667 | Amy Suckarieh |
-| 120 | 667 | Lindsey Gonzalez |
+| 119 | 667 | Lindsey Gonzalez |
+| 120 | 667 | Amy Suckarieh |
 | 121 | 664 | Leslie Nicole |
 | 122 | 659 | Matt Gooder |
 | 123 | 659 | Jamie Gustafson |
@@ -266,8 +266,8 @@
 | 258 | 369 | Matt Dell'Olio |
 | 259 | 368 | Kris Bartlett |
 | 260 | 367 | Meg |
-| 261 | 366 | Cheery Risebuilder |
-| 262 | 366 | Andrew Dang |
+| 261 | 366 | Andrew Dang |
+| 262 | 366 | Cheery Risebuilder |
 | 263 | 365 | Hyper Builder |
 | 264 | 360 | James Hurley Jr. |
 | 265 | 359 | KimoKoala |
