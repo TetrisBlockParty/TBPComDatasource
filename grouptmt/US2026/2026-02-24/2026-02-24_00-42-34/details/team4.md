@@ -86,8 +86,8 @@
 | 78 | 903 | TeeJ |
 | 79 | 865 | Carolyn Wallace |
 | 80 | 861 | Peachy Fall |
-| 81 | 850 | Lucille Truesdale |
-| 82 | 850 | Lisa Davis |
+| 81 | 850 | Lisa Davis |
+| 82 | 850 | Lucille Truesdale |
 | 83 | 847 | Chilly Line |
 | 84 | 846 | Christine Marie |
 | 85 | 841 | Shauna Havard |
@@ -127,8 +127,8 @@
 | 119 | 673 | Jacqueline Helm |
 | 120 | 667 | Lindsey Gonzalez |
 | 121 | 664 | Leslie Nicole |
-| 122 | 659 | Matt Gooder |
-| 123 | 659 | Jamie Gustafson |
+| 122 | 659 | Jamie Gustafson |
+| 123 | 659 | Matt Gooder |
 | 124 | 658 | Zippy Gridlock |
 | 125 | 653 | Patron Anderson |
 | 126 | 647 | KM8 |
@@ -266,13 +266,13 @@
 | 258 | 369 | Matt Dell'Olio |
 | 259 | 368 | Kris Bartlett |
 | 260 | 367 | Meg |
-| 261 | 366 | Cheery Risebuilder |
-| 262 | 366 | Andrew Dang |
+| 261 | 366 | Andrew Dang |
+| 262 | 366 | Cheery Risebuilder |
 | 263 | 365 | Hyper Builder |
 | 264 | 360 | James Hurley Jr. |
 | 265 | 359 | KimoKoala |
-| 266 | 358 | Twisty Cascadezone |
-| 267 | 358 | David Lay |
+| 266 | 358 | David Lay |
+| 267 | 358 | Twisty Cascadezone |
 | 268 | 356 | mike |
 | 269 | 353 | Jen Caldwell |
 | 270 | 353 | Chaz |
@@ -558,8 +558,8 @@
 | 550 | 187 | Jason Punch |
 | 551 | 186 | Dandy Cascadefit |
 | 552 | 186 | Jesse Saville |
-| 553 | 185 | Joshua Guess |
-| 554 | 185 | Jonathan Mahfood |
+| 553 | 185 | Jonathan Mahfood |
+| 554 | 185 | Joshua Guess |
 | 555 | 185 | Eric Wren |
 | 556 | 184 | Deanna Mc |
 | 557 | 183 | Will Chamberlain |

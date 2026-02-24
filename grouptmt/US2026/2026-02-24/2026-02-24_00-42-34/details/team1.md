@@ -193,8 +193,8 @@
 | 185 | 462 | Hasty Cascader |
 | 186 | 458 | Dizzy Slider |
 | 187 | 458 | Goose egg |
-| 188 | 446 | Cheeky Crusher |
-| 189 | 446 | SkipTheSadSauce |
+| 188 | 446 | SkipTheSadSauce |
+| 189 | 446 | Cheeky Crusher |
 | 190 | 442 | Kimmie Kimms |
 | 191 | 434 | Yvonne Marie |
 | 192 | 433 | Kimberly Garcia |
@@ -214,8 +214,8 @@
 | 206 | 419 | Daring Fitclear |
 | 207 | 417 | Jessie Lynn |
 | 208 | 416 | Jessica Sheehan |
-| 209 | 412 | Connie |
-| 210 | 412 | Witty Builderfit |
+| 209 | 412 | Witty Builderfit |
+| 210 | 412 | Connie |
 | 211 | 408 | Lindsay Glover |
 | 212 | 407 | Ananda Mendez |
 | 213 | 405 | Jerry Danowski |
@@ -231,7 +231,7 @@
 | 223 | 393 | Happy Snapbuild |
 | 224 | 393 | Wisa |
 | 225 | 389 | Speedy Liney |
-| 226 | 386 | Plucky Stacky |
+| 226 | 386 | Brian Spotts |
 | 227 | 386 | MommaKFC |
 | 228 | 386 | Plucky Stacky |
 | 229 | 384 | Tami Luce Martin |
@@ -240,10 +240,10 @@
 | 232 | 383 | pjbeta |
 | 233 | 382 | Angela Renea Lester |
 | 234 | 382 | David Lutcher |
-| 235 | 381 | Alenoush Karimian |
-| 236 | 381 | Howdi Duty |
-| 237 | 380 | Snippy Wipebuilder |
-| 238 | 380 | Bindi |
+| 235 | 381 | Howdi Duty |
+| 236 | 381 | Alenoush Karimian |
+| 237 | 380 | Bindi |
+| 238 | 380 | Snippy Wipebuilder |
 | 239 | 379 | Austin James |
 | 240 | 376 | Brian Richardsson |
 | 241 | 376 | Sassy Builderline |

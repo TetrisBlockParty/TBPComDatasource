@@ -349,8 +349,8 @@
 | 341 | 413 | Ava Petito |
 | 342 | 411 | Steffi Chris Dacones |
 | 343 | 409 | Rich LeBlanc |
-| 344 | 408 | Ashley Muncey |
-| 345 | 408 | Tiffany Ford |
+| 344 | 408 | Tiffany Ford |
+| 345 | 408 | Ashley Muncey |
 | 346 | 405 | Andrew Thorson |
 | 347 | 405 | fraulila |
 | 348 | 405 | Chris Bell |
@@ -409,8 +409,8 @@
 | 401 | 354 | TLM |
 | 402 | 353 | Cheeky Snapper |
 | 403 | 353 | Beejangles |
-| 404 | 352 | Denise Marie |
-| 405 | 352 | xsiv |
+| 404 | 352 | xsiv |
+| 405 | 352 | Denise Marie |
 | 406 | 352 | LadyTorad |
 | 407 | 351 | Eon Harris |
 | 408 | 350 | angieelyn |
