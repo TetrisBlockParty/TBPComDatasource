@@ -110,8 +110,8 @@
 | 102 | 773 | Cartier |
 | 103 | 772 | Kathy Langham |
 | 104 | 770 | Zappy Curvetile |
-| 105 | 769 | Robert Benito |
-| 106 | 769 | Angel Fowler |
+| 105 | 769 | Angel Fowler |
+| 106 | 769 | Robert Benito |
 | 107 | 768 | Jazzy Framezone |
 | 108 | 761 | Karin Gillen |
 | 109 | 751 | Kellie |
@@ -331,8 +331,8 @@
 | 323 | 338 | Layzietyme |
 | 324 | 338 | Michael Espinosa Ulibarri Jr. |
 | 325 | 337 | Chaste Minor |
-| 326 | 336 | Sarah Roberts |
-| 327 | 336 | Toya Lynn |
+| 326 | 336 | Toya Lynn |
+| 327 | 336 | Sarah Roberts |
 | 328 | 335 | Rachel Nilles |
 | 329 | 335 | Dreamy Drop |
 | 330 | 334 | Nate Price |
@@ -989,7 +989,7 @@
 | 981 | 111 | Carol Zimmer Smith |
 | 982 | 111 | Michael Butler |
 | 983 | 110 | Robert Benitez |
-| 984 | 110 | SMSMris |
+| 984 | 110 | Thia Gibson |
 | 985 | 110 | Tasha McCormack |
 | 986 | 110 | SMSMris |
 | 987 | 109 | Latonya McLeroy Smith |

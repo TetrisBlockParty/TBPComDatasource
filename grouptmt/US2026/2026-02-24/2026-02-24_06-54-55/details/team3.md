@@ -171,8 +171,8 @@
 | 163 | 875 | Chasity |
 | 164 | 874 | Jessica Pineda-Lopez |
 | 165 | 871 | Rochelle Hazelett |
-| 166 | 868 | Nicole Flippo |
-| 167 | 868 | Cranky Gridder |
+| 166 | 868 | Cranky Gridder |
+| 167 | 868 | Nicole Flippo |
 | 168 | 866 | Domo Washington |
 | 169 | 864 | Sunny Rotater |
 | 170 | 862 | Santeria Trece Candles |
@@ -390,8 +390,8 @@
 | 382 | 426 | Christina Rotz Shows |
 | 383 | 425 | Ava Petito |
 | 384 | 423 | Dapper Liney |
-| 385 | 419 | Desiree Gold |
-| 386 | 419 | Philip Rock |
+| 385 | 419 | Philip Rock |
+| 386 | 419 | Desiree Gold |
 | 387 | 419 | Maggie |
 | 388 | 418 | Rainbow77375 |
 | 389 | 416 | Tay |
@@ -420,17 +420,17 @@
 | 412 | 391 | gremicx |
 | 413 | 390 | ROODBOY |
 | 414 | 389 | Amanda J. Mcneil-Anderson |
-| 415 | 387 | Brittany K Ward |
-| 416 | 387 | Goofy Fall |
+| 415 | 387 | Goofy Fall |
+| 416 | 387 | Brittany K Ward |
 | 417 | 384 | Tiffany Davie |
 | 418 | 383 | Jessica Christian |
 | 419 | 383 | Kirhonda Autmon |
 | 420 | 381 | Mary Giorgenti |
-| 421 | 380 | Foltz Lee Kelli |
-| 422 | 380 | neci |
-| 423 | 380 | Geoffrey Nash |
-| 424 | 378 | Ashley Lynn Marchese |
-| 425 | 378 | Samantha Worley |
+| 421 | 380 | Geoffrey Nash |
+| 422 | 380 | Foltz Lee Kelli |
+| 423 | 380 | neci |
+| 424 | 378 | Samantha Worley |
+| 425 | 378 | Ashley Lynn Marchese |
 | 426 | 377 | Paula Little |
 | 427 | 376 | Romeo |
 | 428 | 376 | Brittany |
@@ -628,8 +628,8 @@
 | 620 | 286 | Frilly Stackzone |
 | 621 | 285 | Jumpy Wrecker |
 | 622 | 285 | Kate Farok |
-| 623 | 284 | Maria Ramos |
-| 624 | 284 | Hanna Kim |
+| 623 | 284 | Hanna Kim |
+| 624 | 284 | Maria Ramos |
 | 625 | 282 | Karla Phillips |
 | 626 | 282 | Cheeky Twisterfit |
 | 627 | 282 | Lisa Ann |

@@ -106,8 +106,8 @@
 | 98 | 846 | Christine Marie |
 | 99 | 840 | SAP |
 | 100 | 837 | Rica Mitchell |
-| 101 | 834 | Brittney Orengo |
-| 102 | 834 | quicksand420 |
+| 101 | 834 | quicksand420 |
+| 102 | 834 | Brittney Orengo |
 | 103 | 815 | Diana Houts |
 | 104 | 813 | Klo |
 | 105 | 811 | Sassy Pattern |
@@ -198,8 +198,8 @@
 | 190 | 521 | Andy Cabral |
 | 191 | 520 | Zippy Block |
 | 192 | 520 | Oscar Alberto Perez |
-| 193 | 516 | Trish |
-| 194 | 516 | Twisty Clicky |
+| 193 | 516 | Twisty Clicky |
+| 194 | 516 | Trish |
 | 195 | 516 | Nick Gray |
 | 196 | 513 | Zesty Twistbuilder |
 | 197 | 513 | Erin Thomas |
@@ -241,30 +241,30 @@
 | 233 | 455 | Michele Plunkett |
 | 234 | 454 | Keshia Lyons |
 | 235 | 449 | Danielle Kollias |
-| 236 | 448 | Mr. Party |
-| 237 | 448 | Mike Solo |
+| 236 | 448 | Mike Solo |
+| 237 | 448 | Mr. Party |
 | 238 | 447 | Jen Mattei |
 | 239 | 444 | Selena Shaw |
 | 240 | 442 | John Brunetti |
 | 241 | 441 | Lush Linkfall |
-| 242 | 438 | Melvin Baird |
-| 243 | 438 | 23 |
+| 242 | 438 | 23 |
+| 243 | 438 | Melvin Baird |
 | 244 | 434 | Ramel Rhodes |
 | 245 | 433 | Circuit8 |
 | 246 | 433 | Damn Libra |
 | 247 | 432 | scott |
 | 248 | 432 | Plucky Patternblock |
 | 249 | 430 | Chris Bernstein |
-| 250 | 427 | Chao Ma |
-| 251 | 427 | Cheery Risebuilder |
+| 250 | 427 | Cheery Risebuilder |
+| 251 | 427 | Chao Ma |
 | 252 | 424 | Andrew Dang |
 | 253 | 423 | Gdiguy |
 | 254 | 421 | JIGsaw ~(•¿°)~ |
 | 255 | 421 | Brickh4us |
 | 256 | 420 | Jeff Brian Gates |
 | 257 | 413 | Rio Rocha |
-| 258 | 411 | Autumn Kumzi |
-| 259 | 411 | TinyLegoRose |
+| 258 | 411 | TinyLegoRose |
+| 259 | 411 | Autumn Kumzi |
 | 260 | 410 | Lindsay Ball |
 | 261 | 409 | Antony Dwayne Beasley |
 | 262 | 409 | Joseph Guthrie |
@@ -286,9 +286,9 @@
 | 278 | 390 | Ari Droff |
 | 279 | 384 | Nikki Rae Gordon |
 | 280 | 382 | Sue Joyce Staats |
-| 281 | 380 | Chaz |
+| 281 | 380 | Jen Caldwell |
 | 282 | 380 | Holly Jolly |
-| 283 | 380 | Jen Caldwell |
+| 283 | 380 | Chaz |
 | 284 | 379 | Backoff Recupe |
 | 285 | 378 | Jason Gibbs |
 | 286 | 378 | Mary Ann Pabukis |
@@ -298,8 +298,8 @@
 | 290 | 375 | George Tzouganos |
 | 291 | 373 | Russ Attitude |
 | 292 | 371 | Jessi Cinotto |
-| 293 | 370 | Kris Bartlett |
-| 294 | 370 | Twisty Risebuilder |
+| 293 | 370 | Twisty Risebuilder |
+| 294 | 370 | Kris Bartlett |
 | 295 | 367 | Meg |
 | 296 | 365 | David Lay |
 | 297 | 364 | Lora |
@@ -346,8 +346,8 @@
 | 338 | 328 | Heather Bruce |
 | 339 | 327 | Jim Hart |
 | 340 | 325 | Cool Gridzone |
-| 341 | 324 | Vic |
-| 342 | 324 | Sarah Hoffman |
+| 341 | 324 | Sarah Hoffman |
+| 342 | 324 | Vic |
 | 343 | 322 | Bryan Hodgins |
 | 344 | 321 | Stacey Stano |
 | 345 | 321 | Sarah Brown |
@@ -369,9 +369,9 @@
 | 361 | 314 | Kenna Gunderland |
 | 362 | 313 | DonMega |
 | 363 | 312 | Tawna Curry |
-| 364 | 311 | Ak Jones |
-| 365 | 311 | KayM |
-| 366 | 311 | Reds Bella |
+| 364 | 311 | Reds Bella |
+| 365 | 311 | Ak Jones |
+| 366 | 311 | KayM |
 | 367 | 310 | Bradley Reeves |
 | 368 | 308 | Angela Geist Jusinski |
 | 369 | 306 | PeaceOs |
@@ -430,8 +430,8 @@
 | 422 | 266 | ĥuf |
 | 423 | 266 | Happy Combo |
 | 424 | 265 | Degenerate |
-| 425 | 265 | Christine Therrien |
-| 426 | 265 | Lorena Guerrero-Barron |
+| 425 | 265 | Lorena Guerrero-Barron |
+| 426 | 265 | Christine Therrien |
 | 427 | 264 | Shh |
 | 428 | 263 | Laurmarcar |
 | 429 | 262 | Lilya Troutman |
@@ -458,9 +458,9 @@
 | 450 | 251 | Kathy Allen |
 | 451 | 250 | Ruby Khalisadar |
 | 452 | 250 | Moonsterix |
-| 453 | 249 | SHL |
+| 453 | 249 | Stacy Jones |
 | 454 | 249 | Silly Clearfit |
-| 455 | 249 | Stacy Jones |
+| 455 | 249 | SHL |
 | 456 | 248 | Jose Dejesus |
 | 457 | 248 | Chirpy Basepiece |
 | 458 | 248 | Speedy Cascadeclear |
@@ -482,8 +482,8 @@
 | 474 | 242 | PurpleMoonMa |
 | 475 | 242 | Badatvs |
 | 476 | 241 | Katherine Crane |
-| 477 | 240 | Orchislactea |
-| 478 | 240 | Zany Shatterer |
+| 477 | 240 | Zany Shatterer |
+| 478 | 240 | Orchislactea |
 | 479 | 239 | Christina Nabrizny |
 | 480 | 239 | Jess Reyes |
 | 481 | 239 | Krash |
