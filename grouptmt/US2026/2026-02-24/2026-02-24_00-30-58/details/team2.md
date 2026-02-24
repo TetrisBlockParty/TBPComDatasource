@@ -170,8 +170,8 @@
 | 162 | 1949 | Angi Harrison |
 | 163 | 1932 | Gary Schaffner Jr. |
 | 164 | 1904 | Goofy Snapfit |
-| 165 | 1874 | Loopy Clusterbuilder |
-| 166 | 1874 | PsychKIRAtrist |
+| 165 | 1874 | PsychKIRAtrist |
+| 166 | 1874 | Loopy Clusterbuilder |
 | 167 | 1871 | Christi Hulet |
 | 168 | 1866 | Janel Turley-Garner |
 | 169 | 1845 | Jessie McDougald |
@@ -227,16 +227,16 @@
 | 219 | 1558 | Tim Dyer |
 | 220 | 1557 | Poppy Snap |
 | 221 | 1556 | Tonya Morgan |
-| 222 | 1554 | Osun Anuket Esu |
-| 223 | 1554 | Howard Forest |
+| 222 | 1554 | Howard Forest |
+| 223 | 1554 | Osun Anuket Esu |
 | 224 | 1553 | Wendy Unsain |
 | 225 | 1552 | Cheeky Balancepiece |
 | 226 | 1543 | Alyssa Nadine Medelez |
 | 227 | 1534 | Rosa Franklin |
 | 228 | 1530 | Mischelle Clay |
 | 229 | 1525 | Catina Hutchison |
-| 230 | 1509 | Whitney Nicole Waterman |
-| 231 | 1509 | Stacey Clement |
+| 230 | 1509 | Stacey Clement |
+| 231 | 1509 | Whitney Nicole Waterman |
 | 232 | 1507 | Kiok |
 | 233 | 1502 | Sinistah42o |
 | 234 | 1498 | Isabela Shaw |
@@ -326,9 +326,9 @@
 | 318 | 1211 | Cynthia Ward |
 | 319 | 1210 | Amber Gray |
 | 320 | 1203 | Erika Densmore |
-| 321 | 1191 | Nuke Morris |
-| 322 | 1184 | Jamie Otero |
-| 323 | 1182 | Kristin Gower |
+| 321 | 1184 | Jamie Otero |
+| 322 | 1182 | Kristin Gower |
+| 323 | 1181 | Nuke Morris |
 | 324 | 1179 | Georgia Triblett |
 | 325 | 1172 | Lakeysha Dortch |
 | 326 | 1171 | Sarah block |
@@ -340,8 +340,8 @@
 | 332 | 1158 | Brittany Clark |
 | 333 | 1156 | Arkei Luster |
 | 334 | 1156 | Alezandra Smith |
-| 335 | 1142 | April Dawn Gussler |
-| 336 | 1142 | Sheniya Spurgeon |
+| 335 | 1142 | Sheniya Spurgeon |
+| 336 | 1142 | April Dawn Gussler |
 | 337 | 1140 | Kimberly Hauck-Rausch |
 | 338 | 1139 | Carl Bradshaw |
 | 339 | 1139 | Aireka Roman |
@@ -349,8 +349,8 @@
 | 341 | 1134 | Kelsey Kyle Rhodes |
 | 342 | 1127 | Mama T |
 | 343 | 1118 | Ibiza Carolina LaRose |
-| 344 | 1116 | Em Chen |
-| 345 | 1116 | Belle |
+| 344 | 1116 | Belle |
+| 345 | 1116 | Em Chen |
 | 346 | 1114 | Kevin Walp |
 | 347 | 1109 | Melissa McCall |
 | 348 | 1107 | Megan Brianna |
@@ -463,9 +463,9 @@
 | 455 | 907 | Gene Mills |
 | 456 | 905 | Lexie Burke |
 | 457 | 905 | Adam Simmons |
-| 458 | 905 | Lexie Burke |
-| 459 | 904 | Brenda Utphall |
-| 460 | 903 | Eric Castaneda |
+| 458 | 904 | Brenda Utphall |
+| 459 | 903 | Eric Castaneda |
+| 460 | 903 | Dylan Thomason |
 | 461 | 903 | Sarah DeHart |
 | 462 | 903 | Hershey Eastman |
 | 463 | 899 | Patrick Bartlett |

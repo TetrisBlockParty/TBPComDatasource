@@ -229,8 +229,8 @@
 | 221 | 604 | Keis |
 | 222 | 598 | Bmo |
 | 223 | 597 | Kaycee Kay |
-| 224 | 597 | Elissa S-k |
-| 225 | 597 | Dee Pratt |
+| 224 | 597 | Dee Pratt |
+| 225 | 597 | Elissa S-k |
 | 226 | 592 | Connie Mohler-Fair |
 | 227 | 590 | Shawn Miller |
 | 228 | 588 | Salena Whitlock |
@@ -639,7 +639,7 @@
 | 631 | 250 | Marcus Payton |
 | 632 | 250 | Ashley Parham |
 | 633 | 249 | Emberblaze |
-| 634 | 249 | Kathleen Taylor |
+| 634 | 249 | Cameron Lovell |
 | 635 | 249 | Sarah Tschee |
 | 636 | 248 | Stormy Anguish |
 | 637 | 248 | Frothy Glider |

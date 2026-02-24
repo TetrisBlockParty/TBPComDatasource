@@ -28,7 +28,7 @@
 | 20 | 1962 | Cool Buildout |
 | 21 | 1775 | Ash |
 | 22 | 1766 | Dustin Robert |
-| 23 | 1764 | Jason Allen |
+| 23 | 1744 | Jason Allen |
 | 24 | 1742 | Ancient Intuition |
 | 25 | 1706 | Ayanna Soto |
 | 26 | 1669 | Johnny Yang Cotter |
@@ -124,8 +124,8 @@
 | 116 | 687 | Chris Alexinas |
 | 117 | 682 | Raegan Lane-Ross |
 | 118 | 673 | Jacqueline Helm |
-| 119 | 667 | Lindsey Gonzalez |
-| 120 | 667 | Amy Suckarieh |
+| 119 | 667 | Amy Suckarieh |
+| 120 | 667 | Lindsey Gonzalez |
 | 121 | 664 | Leslie Nicole |
 | 122 | 659 | Matt Gooder |
 | 123 | 659 | Jamie Gustafson |
@@ -1552,7 +1552,7 @@
 | 1544 | 31 | Dandy Liner |
 | 1545 | 31 | Los |
 | 1546 | 30 | Khrystyna Lukaniuk |
-| 1547 | 30 | Clara Avilez |
+| 1547 | 30 | Chtid |
 | 1548 | 30 | Mighty T-spin |
 | 1549 | 30 | Apryl Lia |
 | 1550 | 30 | Ka He |

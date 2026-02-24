@@ -44,8 +44,8 @@
 | 36 | 1405 | Chipper Gridlock |
 | 37 | 1396 | Derek MF Blakey |
 | 38 | 1391 | Aaron Garnett |
-| 39 | 1334 | june october |
-| 40 | 1334 | Tyler Alcock |
+| 39 | 1334 | Tyler Alcock |
+| 40 | 1334 | june october |
 | 41 | 1277 | Marianne Louise West |
 | 42 | 1250 | Stef Hu |
 | 43 | 1239 | Brenda Stewart |
@@ -214,8 +214,8 @@
 | 206 | 419 | John J. Cronin |
 | 207 | 417 | Jessie Lynn |
 | 208 | 416 | Jessica Sheehan |
-| 209 | 412 | Witty Builderfit |
-| 210 | 412 | Connie |
+| 209 | 412 | Connie |
+| 210 | 412 | Witty Builderfit |
 | 211 | 408 | Lindsay Glover |
 | 212 | 407 | Ananda Mendez |
 | 213 | 404 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
@@ -251,8 +251,8 @@
 | 243 | 373 | Frothy Pattern |
 | 244 | 372 | Dizzy Party |
 | 245 | 371 | Eddie Dillon |
-| 246 | 370 | Gracie |
-| 247 | 370 | Chantelle Ceno |
+| 246 | 370 | Chantelle Ceno |
+| 247 | 370 | Gracie |
 | 248 | 367 | Bob |
 | 249 | 366 | Eric DeSimone |
 | 250 | 366 | J.F. Fields |
