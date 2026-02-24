@@ -329,8 +329,8 @@
 | 321 | 359 | Rodney Schmerfeld |
 | 322 | 357 | Jasmine Riley |
 | 323 | 356 | build master |
-| 324 | 355 | Toya Lynn |
-| 325 | 355 | Shanae Grant |
+| 324 | 355 | Shanae Grant |
+| 325 | 355 | Toya Lynn |
 | 326 | 354 | Kimberly Davis |
 | 327 | 353 | Josh Riemer |
 | 328 | 352 | Lachelle Dillon |
@@ -432,8 +432,8 @@
 | 424 | 291 | Toph |
 | 425 | 290 | Brave Slice |
 | 426 | 290 | Nate Funk |
-| 427 | 289 | Snappy Bridgepiece |
-| 428 | 289 | Camelia Trevillion |
+| 427 | 289 | Camelia Trevillion |
+| 428 | 289 | Snappy Bridgepiece |
 | 429 | 288 | Anita Jack |
 | 430 | 287 | Dizzy Riseclear |
 | 431 | 287 | Lyn Sibayan |
@@ -498,8 +498,8 @@
 | 490 | 260 | JaPria Rodgers |
 | 491 | 260 | Mathew Harris |
 | 492 | 258 | Lilkimmie |
-| 493 | 258 | Marc Abney |
-| 494 | 258 | Tedashi |
+| 493 | 258 | Tedashi |
+| 494 | 258 | Marc Abney |
 | 495 | 258 | Vivienne Carter |
 | 496 | 257 | Andrew Backes |
 | 497 | 256 | Mary Crisp |

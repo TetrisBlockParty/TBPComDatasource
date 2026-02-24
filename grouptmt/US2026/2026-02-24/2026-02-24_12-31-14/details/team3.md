@@ -32,8 +32,8 @@
 | 24 | 3221 | Ashley Jones |
 | 25 | 3118 | Jamie Lang |
 | 26 | 3042 | Nerdy Spinblock |
-| 27 | 2933 | Dan Rob |
-| 28 | 2933 | Grego Daniel |
+| 27 | 2933 | Grego Daniel |
+| 28 | 2933 | Dan Rob |
 | 29 | 2874 | Zippy Strikesnap |
 | 30 | 2873 | Chummy Shatterer |
 | 31 | 2816 | Fancy Slam |
@@ -314,8 +314,8 @@
 | 306 | 548 | Shannon Matthew Byers |
 | 307 | 545 | Stephanie Simpson |
 | 308 | 541 | Mcathen |
-| 309 | 540 | Tanya Kittrell |
-| 310 | 540 | rosy |
+| 309 | 540 | rosy |
+| 310 | 540 | Tanya Kittrell |
 | 311 | 539 | Fancy Curver |
 | 312 | 539 | Kate M. Murdock |
 | 313 | 538 | Chummy Caster |
@@ -339,8 +339,8 @@
 | 331 | 494 | MCV |
 | 332 | 494 | fraulila |
 | 333 | 492 | Tasha Wesson-Torrence |
-| 334 | 490 | TotoCherue |
-| 335 | 490 | Cassandra Bryant |
+| 334 | 490 | Cassandra Bryant |
+| 335 | 490 | TotoCherue |
 | 336 | 489 | Isabel Ocasio |
 | 337 | 487 | MsBee |
 | 338 | 486 | Sleepy |
@@ -367,14 +367,14 @@
 | 359 | 464 | Snazzy Filler |
 | 360 | 464 | Snippy Wipeout |
 | 361 | 463 | Hoài Quắt |
-| 362 | 461 | Hyper Bridger |
-| 363 | 461 | Breanna Marsden |
+| 362 | 461 | Breanna Marsden |
+| 363 | 461 | Hyper Bridger |
 | 364 | 461 | Briana Wellman |
 | 365 | 460 | Hasty Gridpiece |
 | 366 | 460 | Antonia Russell |
-| 367 | 456 | Kelly |
-| 368 | 456 | Cynthia Herrmann Egland |
-| 369 | 456 | RickyG |
+| 367 | 456 | Cynthia Herrmann Egland |
+| 368 | 456 | RickyG |
+| 369 | 456 | Kelly |
 | 370 | 455 | Kelly Wolf |
 | 371 | 451 | Swanky Frame |
 | 372 | 450 | Luciana Braganca Vieira |
@@ -488,15 +488,15 @@
 | 480 | 363 | Giggly Brickroll |
 | 481 | 360 | Cathy Leger |
 | 482 | 359 | Kathleen Taylor |
-| 483 | 358 | Beejangles |
-| 484 | 358 | Taylor Culver |
+| 483 | 358 | Taylor Culver |
+| 484 | 358 | Beejangles |
 | 485 | 358 | Hyper Twisterfit |
 | 486 | 356 | Trice Sodames |
 | 487 | 356 | Nikkie Bucciano |
 | 488 | 356 | Jimmie Clemons |
 | 489 | 354 | Norma JulieMay |
-| 490 | 353 | Cheeky Snapper |
-| 491 | 353 | Erika Apodaca |
+| 490 | 353 | Erika Apodaca |
+| 491 | 353 | Cheeky Snapper |
 | 492 | 353 | Eboni G. |
 | 493 | 352 | LadyTorad |
 | 494 | 352 | Scott Doss |
@@ -577,9 +577,9 @@
 | 569 | 321 | Hasty Pop |
 | 570 | 320 | Victoria Lexis Dyer |
 | 571 | 320 | Billie Jean Cooper |
-| 572 | 319 | Tia Moore |
-| 573 | 319 | Matty Ray |
-| 574 | 319 | Tracey Cox |
+| 572 | 319 | Matty Ray |
+| 573 | 319 | Tracey Cox |
+| 574 | 319 | Tia Moore |
 | 575 | 319 | Jayme |
 | 576 | 318 | James Fuller |
 | 577 | 318 | Tina Smith Roy |

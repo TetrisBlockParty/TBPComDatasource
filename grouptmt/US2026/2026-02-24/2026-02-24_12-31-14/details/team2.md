@@ -710,8 +710,8 @@
 | 702 | 766 | Angela Cagle Silmon |
 | 703 | 766 | Diamond Scott |
 | 704 | 763 | Chelle |
-| 705 | 763 | Heather Causey |
-| 706 | 763 | Cecilia A Jenkins |
+| 705 | 763 | Cecilia A Jenkins |
+| 706 | 763 | Heather Causey |
 | 707 | 762 | Slinky Racker |
 | 708 | 760 | Shorty |
 | 709 | 759 | Jessica Lamb |
@@ -907,8 +907,8 @@
 | 899 | 644 | Kevin Luu |
 | 900 | 643 | Rae Rae |
 | 901 | 642 | Lewis Sturgeon |
-| 902 | 641 | Happy Tile |
-| 903 | 641 | Snappy Faller |
+| 902 | 641 | Snappy Faller |
+| 903 | 641 | Happy Tile |
 | 904 | 640 | Taylor Flowers |
 | 905 | 639 | Libby Hicks |
 | 906 | 639 | Connie Lepore-Mann |
