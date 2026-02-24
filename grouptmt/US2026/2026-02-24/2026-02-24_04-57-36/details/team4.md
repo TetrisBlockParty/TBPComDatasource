@@ -131,8 +131,8 @@
 | 123 | 718 | Zippy Gridlock |
 | 124 | 712 | H.R. Block |
 | 125 | 708 | Jacqueline Helm |
-| 126 | 704 | Chilly Crasher |
-| 127 | 704 | Austin Owens |
+| 126 | 704 | Austin Owens |
+| 127 | 704 | Chilly Crasher |
 | 128 | 690 | Denia Deni |
 | 129 | 682 | Raegan Lane-Ross |
 | 130 | 669 | Leslie Nicole |
@@ -238,8 +238,8 @@
 | 230 | 442 | 🥔🥔 Spudz |
 | 231 | 441 | blasterB |
 | 232 | 441 | Lush Linkfall |
-| 233 | 438 | 23 |
-| 234 | 438 | Melvin Baird |
+| 233 | 438 | Melvin Baird |
+| 234 | 438 | 23 |
 | 235 | 437 | Selena Shaw |
 | 236 | 434 | Ramel Rhodes |
 | 237 | 433 | Damn Libra |
@@ -406,8 +406,8 @@
 | 398 | 275 | Jarred Falls |
 | 399 | 272 | Paito |
 | 400 | 271 | ImJustMe |
-| 401 | 270 | 07VHVW |
-| 402 | 270 | Stephme310 |
+| 401 | 270 | Stephme310 |
+| 402 | 270 | 07VHVW |
 | 403 | 268 | Riverdale |
 | 404 | 268 | Sallie Sanborn |
 | 405 | 266 | Happy Combo |

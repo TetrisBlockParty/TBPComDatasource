@@ -643,8 +643,8 @@
 | 635 | 763 | Heather Causey |
 | 636 | 761 | Shiny Twistfit |
 | 637 | 761 | Cecilia A Jenkins |
-| 638 | 759 | Jessica Lamb |
-| 639 | 759 | Briana Alexander |
+| 638 | 759 | Briana Alexander |
+| 639 | 759 | Jessica Lamb |
 | 640 | 758 | Stephanie Neuburger |
 | 641 | 757 | Frisky Clearpiece |
 | 642 | 756 | Aleksandr Gershman |

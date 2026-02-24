@@ -152,8 +152,8 @@
 | 144 | 950 | MissTaylor |
 | 145 | 950 | Giddy Drop |
 | 146 | 943 | Katrina Schroeder |
-| 147 | 940 | Patty Allen |
-| 148 | 940 | Stephanie Allmon |
+| 147 | 940 | Stephanie Allmon |
+| 148 | 940 | Patty Allen |
 | 149 | 939 | Jamie Lang |
 | 150 | 936 | Dolores Falco |
 | 151 | 925 | Cherry Parker |
@@ -258,8 +258,8 @@
 | 250 | 604 | Dee Pratt |
 | 251 | 600 | Natasha Jones |
 | 252 | 600 | Connie Mohler-Fair |
-| 253 | 599 | Noyb Adam |
-| 254 | 599 | Sherry Ogden |
+| 253 | 599 | Sherry Ogden |
+| 254 | 599 | Noyb Adam |
 | 255 | 598 | Kaycee Kay |
 | 256 | 595 | Betty Rosas |
 | 257 | 588 | Salena Whitlock |
