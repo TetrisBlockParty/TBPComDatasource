@@ -219,8 +219,8 @@
 | 211 | 475 | Reesey Enyart |
 | 212 | 473 | Tamara Brown |
 | 213 | 470 | Candy Jones |
-| 214 | 467 | Howdi Duty |
-| 215 | 467 | Witty Builderfit |
+| 214 | 467 | Witty Builderfit |
+| 215 | 467 | Howdi Duty |
 | 216 | 466 | Lori Bales |
 | 217 | 460 | Sam Williams |
 | 218 | 458 | Goose egg |
@@ -720,7 +720,7 @@
 | 712 | 177 | Irual Hctrab |
 | 713 | 177 | Sharon Francis |
 | 714 | 176 | Doris Hall |
-| 715 | 175 | Johnson Aryonda |
+| 715 | 175 | Donna Horoszewski-Dilgen |
 | 716 | 175 | Kellie Tunstall |
 | 717 | 175 | Johnson Aryonda |
 | 718 | 175 | Erres Jones |

@@ -798,8 +798,8 @@
 | 790 | 697 | DA Wight |
 | 791 | 696 | EMH |
 | 792 | 694 | Lyndi Robinson Wakefield |
-| 793 | 694 | Courtney Burcham |
-| 794 | 694 | Rackemwillie34 |
+| 793 | 694 | Rackemwillie34 |
+| 794 | 694 | Courtney Burcham |
 | 795 | 693 | Nessie Zamora |
 | 796 | 692 | LuckyChopstix |
 | 797 | 692 | Bubbly Snapbuild |
@@ -821,8 +821,8 @@
 | 813 | 683 | Audrey Jones |
 | 814 | 682 | Jacob Tri |
 | 815 | 680 | Nutty Cascade |
-| 816 | 680 | Stephanie Lafalce |
-| 817 | 680 | Paul Combs |
+| 816 | 680 | Paul Combs |
+| 817 | 680 | Stephanie Lafalce |
 | 818 | 680 | mshir |
 | 819 | 679 | Regina Knight |
 | 820 | 679 | DLOCC1056 |

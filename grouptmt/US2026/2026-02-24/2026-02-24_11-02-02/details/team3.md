@@ -69,8 +69,8 @@
 | 61 | 1920 | Trezure Gonzalez |
 | 62 | 1858 | Kristie McFarland |
 | 63 | 1836 | Tina Kay |
-| 64 | 1824 | Nate Burnside |
-| 65 | 1824 | Jessica Ann |
+| 64 | 1824 | Jessica Ann |
+| 65 | 1824 | Nate Burnside |
 | 66 | 1791 | Leah Barnett |
 | 67 | 1776 | Whitney Manuel |
 | 68 | 1774 | Liv Whetson |
@@ -83,8 +83,8 @@
 | 75 | 1633 | cowboy25469 |
 | 76 | 1625 | Queen Kam |
 | 77 | 1615 | joclisa |
-| 78 | 1566 | Nerdy Riseclear |
-| 79 | 1566 | Marcie Bressler |
+| 78 | 1566 | Marcie Bressler |
+| 79 | 1566 | Nerdy Riseclear |
 | 80 | 1560 | Logan Naccarato |
 | 81 | 1555 | Snappy Glidepiece |
 | 82 | 1518 | Christine Filson |
@@ -199,8 +199,8 @@
 | 191 | 815 | Justin Ritter |
 | 192 | 813 | JessDrown |
 | 193 | 808 | Raya |
-| 194 | 804 | Gideon Walker |
-| 195 | 804 | Alaina Lee |
+| 194 | 804 | Alaina Lee |
+| 195 | 804 | Gideon Walker |
 | 196 | 800 | Lauren Girouard |
 | 197 | 799 | Trisha Balmer |
 | 198 | 792 | Rachel Grant |
@@ -258,8 +258,8 @@
 | 250 | 642 | Rania Zaqout |
 | 251 | 641 | Tom Nault |
 | 252 | 640 | Dee Pratt |
-| 253 | 639 | Nichol Graham |
-| 254 | 639 | Marci Mize Fandrich |
+| 253 | 639 | Marci Mize Fandrich |
+| 254 | 639 | Nichol Graham |
 | 255 | 637 | Giddy Twistbuilder |
 | 256 | 635 | Amber Hughes |
 | 257 | 633 | Rebecca Funderburk Kirby |
@@ -324,16 +324,16 @@
 | 316 | 523 | Ktfreeee |
 | 317 | 518 | Marquita Sheard |
 | 318 | 514 | Nikki White |
-| 319 | 506 | Tiffanie Alley |
-| 320 | 506 | Ammmmmmy |
+| 319 | 506 | Ammmmmmy |
+| 320 | 506 | Tiffanie Alley |
 | 321 | 505 | Stephanie Simpson |
 | 322 | 504 | Daring Builder |
 | 323 | 500 | Ashley Tookes |
 | 324 | 499 | Gumbo |
 | 325 | 499 | Megan Rathmanner |
 | 326 | 496 | Brenda Schmid Wood |
-| 327 | 494 | fraulila |
-| 328 | 494 | MCV |
+| 327 | 494 | MCV |
+| 328 | 494 | fraulila |
 | 329 | 492 | Tasha Wesson-Torrence |
 | 330 | 490 | TotoCherue |
 | 331 | 490 | Cassandra Bryant |
@@ -373,9 +373,9 @@
 | 365 | 455 | Kelly Wolf |
 | 366 | 451 | Swanky Frame |
 | 367 | 450 | Luciana Braganca Vieira |
-| 368 | 449 | Sissy Lowery Davis |
-| 369 | 449 | Jojo M |
-| 370 | 449 | Lively Caster |
+| 368 | 449 | Lively Caster |
+| 369 | 449 | Sissy Lowery Davis |
+| 370 | 449 | Jojo M |
 | 371 | 447 | Carrie Huskey |
 | 372 | 447 | Num1hater |
 | 373 | 446 | Jennifer Alvey |
@@ -1280,7 +1280,7 @@
 | 1272 | 153 | Marketa McClaster |
 | 1273 | 152 | Louise Parker |
 | 1274 | 152 | Amanda Mooney |
-| 1275 | 152 | Louise Parker |
+| 1275 | 152 | Crystel b520 |
 | 1276 | 152 | Chilly Wipegrid |
 | 1277 | 151 | Brad Dimitroff |
 | 1278 | 151 | Loony Snapbuild |
@@ -1318,7 +1318,7 @@
 | 1310 | 147 | Citysprout |
 | 1311 | 147 | Jennifer MacCharles |
 | 1312 | 147 | Corisha Grant |
-| 1313 | 147 | Jennifer MacCharles |
+| 1313 | 147 | Nikki Boone |
 | 1314 | 146 | Nathaniel Foster |
 | 1315 | 146 | Yall Sukk |
 | 1316 | 146 | Dreamy Zone |

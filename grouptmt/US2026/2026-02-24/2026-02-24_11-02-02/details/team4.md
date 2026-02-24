@@ -51,8 +51,8 @@
 | 43 | 1497 | Juggalo |
 | 44 | 1478 | Sammy Noguera |
 | 45 | 1469 | Kimberly Love |
-| 46 | 1461 | Yoset Mejia |
-| 47 | 1461 | Shane Kalamata Platoon |
+| 46 | 1461 | Shane Kalamata Platoon |
+| 47 | 1461 | Yoset Mejia |
 | 48 | 1456 | Michelle Marie |
 | 49 | 1430 | Landon Keith Graffeo |
 | 50 | 1386 | Jen Allison |
@@ -74,14 +74,14 @@
 | 66 | 1119 | Amelpss |
 | 67 | 1109 | BertMofo |
 | 68 | 1089 | Alyssa Papen |
-| 69 | 1082 | Avy Absol |
-| 70 | 1082 | Dion Crommarty |
+| 69 | 1082 | Dion Crommarty |
+| 70 | 1082 | Avy Absol |
 | 71 | 1081 | Dustee Craddock-Harrison |
 | 72 | 1080 | Chilly Line |
 | 73 | 1069 | Heather Tushner |
 | 74 | 1056 | Keith Kelley |
-| 75 | 1046 | Anthony Bryan Riva |
-| 76 | 1046 | Johnathan Martinez |
+| 75 | 1046 | Johnathan Martinez |
+| 76 | 1046 | Anthony Bryan Riva |
 | 77 | 1031 | LisaJo Picken Buchanan |
 | 78 | 1028 | TeeJ |
 | 79 | 1024 | Valerie Roberts |
@@ -112,8 +112,8 @@
 | 104 | 834 | quicksand420 |
 | 105 | 818 | Lori Walker |
 | 106 | 815 | Diana Houts |
-| 107 | 813 | Amy Suckarieh |
-| 108 | 813 | Klo |
+| 107 | 813 | Klo |
+| 108 | 813 | Amy Suckarieh |
 | 109 | 811 | Sassy Pattern |
 | 110 | 806 | Zippy Gridlock |
 | 111 | 805 | Mylo Lipscomb |
@@ -138,8 +138,8 @@
 | 130 | 719 | Leslie Nicole |
 | 131 | 712 | H.R. Block |
 | 132 | 708 | Jacqueline Helm |
-| 133 | 704 | Austin Owens |
-| 134 | 704 | Chilly Crasher |
+| 133 | 704 | Chilly Crasher |
+| 134 | 704 | Austin Owens |
 | 135 | 687 | Carmethia Clemons Haslerig |
 | 136 | 686 | Angela Srubar-Norman |
 | 137 | 682 | Raegan Lane-Ross |
@@ -178,8 +178,8 @@
 | 170 | 576 | Jade Rian |
 | 171 | 575 | Jenna Ingersoll |
 | 172 | 573 | Rico |
-| 173 | 571 | Andy Cabral |
-| 174 | 571 | Rebecca Morris |
+| 173 | 571 | Rebecca Morris |
+| 174 | 571 | Andy Cabral |
 | 175 | 568 | Cindy Looper |
 | 176 | 566 | Lori |
 | 177 | 565 | Ren Mc |
@@ -278,7 +278,7 @@
 | 270 | 411 | Autumn Kumzi |
 | 271 | 410 | Lindsay Ball |
 | 272 | 409 | Antony Dwayne Beasley |
-| 273 | 408 | Neirrah B Olailjeel |
+| 273 | 408 | Dihcheese444 |
 | 274 | 408 | Lauren Scott |
 | 275 | 408 | Neirrah B Olailjeel |
 | 276 | 407 | Hyper Builder |
@@ -309,8 +309,8 @@
 | 301 | 375 | George Tzouganos |
 | 302 | 373 | Russ Attitude |
 | 303 | 371 | Jessi Cinotto |
-| 304 | 370 | Twisty Risebuilder |
-| 305 | 370 | Kris Bartlett |
+| 304 | 370 | Kris Bartlett |
+| 305 | 370 | Twisty Risebuilder |
 | 306 | 368 | Dan Wold |
 | 307 | 367 | Meg |
 | 308 | 366 | Ak Jones |
