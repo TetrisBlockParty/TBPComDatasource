@@ -243,9 +243,9 @@
 | 235 | 1661 | Danielle Johnson-Chandler |
 | 236 | 1661 | Scott Treadway |
 | 237 | 1659 | Peppy Zone |
-| 238 | 1657 | Cambrie Schultz |
-| 239 | 1656 | Binyah-Binyah |
-| 240 | 1655 | Glitzy Stackzone |
+| 238 | 1656 | Binyah-Binyah |
+| 239 | 1655 | Glitzy Stackzone |
+| 240 | 1654 | Cambrie Schultz |
 | 241 | 1651 | Luna |
 | 242 | 1647 | Cheeky Balancepiece |
 | 243 | 1645 | Carl Bradshaw |
@@ -282,8 +282,8 @@
 | 274 | 1480 | Dimitra Zazara |
 | 275 | 1479 | Pacynthia Williams |
 | 276 | 1478 | Misty Walker |
-| 277 | 1477 | Hillary Crawford |
-| 278 | 1477 | Prado |
+| 277 | 1477 | Prado |
+| 278 | 1477 | Hillary Crawford |
 | 279 | 1469 | Carrie Trigg |
 | 280 | 1463 | Yvonne Wharton |
 | 281 | 1459 | Shiny Rollzone |
@@ -325,8 +325,8 @@
 | 317 | 1342 | Kelly A Green-Leach |
 | 318 | 1342 | Groovy Puzzle |
 | 319 | 1341 | Cassie Mercer |
-| 320 | 1338 | Meghan M |
-| 321 | 1338 | Diallo Sparkman |
+| 320 | 1338 | Diallo Sparkman |
+| 321 | 1338 | Meghan M |
 | 322 | 1337 | Christina Walker |
 | 323 | 1336 | Frothy Rumbler |
 | 324 | 1334 | Jamie Otero |
@@ -358,9 +358,9 @@
 | 350 | 1268 | Keri Womack |
 | 351 | 1264 | Mama T |
 | 352 | 1261 | Becca Coronado |
-| 353 | 1257 | Megan Ferguson Leone |
-| 354 | 1257 | Megan Garrick |
-| 355 | 1257 | Jackie Lucas |
+| 353 | 1257 | Jackie Lucas |
+| 354 | 1257 | Megan Ferguson Leone |
+| 355 | 1257 | Megan Garrick |
 | 356 | 1256 | Belle |
 | 357 | 1254 | Erika Densmore |
 | 358 | 1252 | AgileDragon |
@@ -515,8 +515,8 @@
 | 507 | 965 | Lonne Emade |
 | 508 | 964 | John Bednarik |
 | 509 | 963 | Casper The Chonk |
-| 510 | 962 | Antionette Sewell |
-| 511 | 962 | Kathleen Driskell |
+| 510 | 962 | Kathleen Driskell |
+| 511 | 962 | Antionette Sewell |
 | 512 | 960 | Smashanator |
 | 513 | 958 | Jc Gilk |
 | 514 | 957 | Maria Louise |
@@ -535,12 +535,12 @@
 | 527 | 938 | Hershey Eastman |
 | 528 | 937 | Heather Schelkopf |
 | 529 | 936 | Angie Bolton Workman |
-| 530 | 936 | Lisa Reynolds |
-| 531 | 928 | Moni Foxe |
-| 532 | 927 | Anthony Huebel |
-| 533 | 927 | Wes Acton |
-| 534 | 925 | blume |
-| 535 | 925 | Cris cris |
+| 530 | 928 | Moni Foxe |
+| 531 | 927 | Anthony Huebel |
+| 532 | 927 | Wes Acton |
+| 533 | 925 | blume |
+| 534 | 925 | Cris cris |
+| 535 | 923 | Chevy |
 | 536 | 923 | Danielle Simmons |
 | 537 | 922 | Butta |
 | 538 | 921 | Dannette Goldberg-Richards |

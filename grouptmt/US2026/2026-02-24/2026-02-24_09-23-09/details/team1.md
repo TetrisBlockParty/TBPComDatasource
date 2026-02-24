@@ -20,7 +20,7 @@
 | 12 | 3957 | Todd Welch |
 | 13 | 3729 | COOL as Icer |
 | 14 | 3527 | Heidi Feurer |
-| 15 | 3519 | Perky Shiftsnap |
+| 15 | 3485 | Perky Shiftsnap |
 | 16 | 2880 | Lisa Marie |
 | 17 | 2782 | LaQuetta Faith Hines |
 | 18 | 2430 | Josie Kirt |
@@ -66,9 +66,9 @@
 | 58 | 1177 | Tipsy Column |
 | 59 | 1173 | Adam Byrd |
 | 60 | 1170 | Tater |
-| 61 | 1150 | Jen Sartain |
-| 62 | 1150 | Cynthia Bradley |
-| 63 | 1137 | TSwag |
+| 61 | 1150 | Cynthia Bradley |
+| 62 | 1137 | TSwag |
+| 63 | 1137 | Jen Sartain |
 | 64 | 1127 | Andrea Dañielle Ortiz |
 | 65 | 1122 | Kristen Gideon |
 | 66 | 1114 | Jayme Sellers |
@@ -121,8 +121,8 @@
 | 113 | 752 | Chris K |
 | 114 | 751 | Kellie |
 | 115 | 725 | Debbie Kane |
-| 116 | 723 | Melissa Lemmon |
-| 117 | 716 | Kristi Johnson |
+| 116 | 716 | Kristi Johnson |
+| 117 | 706 | Plucky Fallzone |
 | 118 | 706 | Denice Dee |
 | 119 | 702 | Melissa Lemmon |
 | 120 | 702 | lil mickey |
@@ -142,8 +142,8 @@
 | 134 | 647 | Theo Pinnow |
 | 135 | 643 | Erin Rosberg |
 | 136 | 642 | Mario Cab |
-| 137 | 629 | Tanya Carpenter-Reynolds |
-| 138 | 629 | Death |
+| 137 | 629 | Death |
+| 138 | 629 | Tanya Carpenter-Reynolds |
 | 139 | 628 | Trina Gee |
 | 140 | 626 | Damon J. Martin |
 | 141 | 620 | Ty Brown |

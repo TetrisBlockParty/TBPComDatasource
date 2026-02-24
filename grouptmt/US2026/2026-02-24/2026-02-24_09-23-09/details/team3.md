@@ -45,7 +45,7 @@
 | 37 | 2450 | Khristen AC |
 | 38 | 2424 | Mary Pellegrino |
 | 39 | 2413 | Susan Valentino |
-| 40 | 2405 | Josiah Fam |
+| 40 | 2395 | Josiah Fam |
 | 41 | 2390 | Bjorn Neyt |
 | 42 | 2362 | Raven Dudley |
 | 43 | 2319 | Michelle Becker |
@@ -156,8 +156,8 @@
 | 148 | 971 | Tasha Schriewer |
 | 149 | 963 | Crystal Frey |
 | 150 | 961 | Danielle Allison |
-| 151 | 950 | Giddy Drop |
-| 152 | 950 | MissTaylor |
+| 151 | 950 | MissTaylor |
+| 152 | 950 | Giddy Drop |
 | 153 | 947 | Kellie Montgomery |
 | 154 | 940 | Stephanie Allmon |
 | 155 | 940 | Patty Allen |
@@ -176,8 +176,8 @@
 | 168 | 875 | Chasity |
 | 169 | 874 | Jessica Pineda-Lopez |
 | 170 | 871 | Rochelle Hazelett |
-| 171 | 868 | Cranky Gridder |
-| 172 | 868 | Nicole Flippo |
+| 171 | 868 | Nicole Flippo |
+| 172 | 868 | Cranky Gridder |
 | 173 | 866 | Domo Washington |
 | 174 | 864 | Sunny Rotater |
 | 175 | 862 | Santeria Trece Candles |
@@ -207,8 +207,8 @@
 | 199 | 784 | Jone |
 | 200 | 783 | Julian Murphy |
 | 201 | 777 | Daryn Elliott |
-| 202 | 774 | Twisty Brick LT |
-| 203 | 774 | ren |
+| 202 | 774 | ren |
+| 203 | 774 | Twisty Brick LT |
 | 204 | 772 | Hasty Cascadefit |
 | 205 | 768 | Cyd061769 |
 | 206 | 766 | Tasha Gillespie |
@@ -290,8 +290,8 @@
 | 282 | 582 | FuzzyNavel |
 | 283 | 581 | Crystal Hine |
 | 284 | 578 | James Mitchell |
-| 285 | 574 | Danielle Balcom |
-| 286 | 574 | Rachael McClain Owens |
+| 285 | 574 | Rachael McClain Owens |
+| 286 | 574 | Danielle Balcom |
 | 287 | 572 | Tessina Dewey-Mancino |
 | 288 | 570 | thekey |
 | 289 | 569 | Gray Hicks |
@@ -354,7 +354,7 @@
 | 346 | 465 | Noettín Kan Zasnemoore |
 | 347 | 465 | Blocked |
 | 348 | 464 | Snazzy Filler |
-| 349 | 464 | Snippy Wipeout |
+| 349 | 461 | Hyper Bridger |
 | 350 | 461 | Briana Wellman |
 | 351 | 461 | Snippy Wipeout |
 | 352 | 460 | Antonia Russell |
@@ -421,16 +421,16 @@
 | 413 | 401 | Velma Mull |
 | 414 | 400 | Joy Petroski |
 | 415 | 398 | Breezy Roll |
-| 416 | 397 | Hasty Gridpiece |
-| 417 | 397 | Kevin Russell |
+| 416 | 397 | Kevin Russell |
+| 417 | 397 | Hasty Gridpiece |
 | 418 | 394 | Jalissa Monique |
 | 419 | 392 | Linda Draper |
 | 420 | 392 | Michelle Allers |
 | 421 | 391 | gremicx |
 | 422 | 391 | Rebel124 |
 | 423 | 390 | ROODBOY |
-| 424 | 389 | Amanda J. Mcneil-Anderson |
-| 425 | 389 | Kirhonda Autmon |
+| 424 | 389 | Kirhonda Autmon |
+| 425 | 389 | Amanda J. Mcneil-Anderson |
 | 426 | 387 | Brittany K Ward |
 | 427 | 386 | Geoffrey Nash |
 | 428 | 384 | Tiffany Davie |
@@ -630,8 +630,8 @@
 | 622 | 293 | Anna Moeller |
 | 623 | 293 | Tommy Proctor |
 | 624 | 292 | Scouty |
-| 625 | 291 | Jess Dearborn |
-| 626 | 291 | Autumn Phillimore |
+| 625 | 291 | Autumn Phillimore |
+| 626 | 291 | Jess Dearborn |
 | 627 | 291 | Jessica Lynn French |
 | 628 | 290 | Rayzer |
 | 629 | 290 | Zesty Rotater |
@@ -789,9 +789,9 @@
 | 781 | 245 | Bhreagh Gentile |
 | 782 | 245 | Martin Bernier |
 | 783 | 245 | Danette Marie |
-| 784 | 244 | MizzMonick Smith |
-| 785 | 244 | Amanda Fulton |
-| 786 | 244 | LaJeanna Lee Lee |
+| 784 | 244 | LaJeanna Lee Lee |
+| 785 | 244 | MizzMonick Smith |
+| 786 | 244 | Amanda Fulton |
 | 787 | 242 | Tanesha BigBabby Darling |
 | 788 | 241 | David Bardo |
 | 789 | 241 | Jill Stickney |
@@ -1605,8 +1605,8 @@
 | 1597 | 111 | Creator of Chaos |
 | 1598 | 111 | Sherryl McNay |
 | 1599 | 111 | Fancy Patternfit |
-| 1600 | 110 | Lush Shatterclear |
-| 1601 | 110 | Robert Guizzotti |
+| 1600 | 110 | Robert Guizzotti |
+| 1601 | 110 | Anna |
 | 1602 | 110 | fakir |
 | 1603 | 110 | Lush Shatterclear |
 | 1604 | 110 | Pryce |

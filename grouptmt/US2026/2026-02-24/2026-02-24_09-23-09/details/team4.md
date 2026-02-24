@@ -8,7 +8,7 @@
 | :- | :- | :- |
 | 1 | 8196 | Bubbly Puzzler |
 | 2 | 8070 | sierrabeth |
-| 3 | 8001 | Devinlee Brown |
+| 3 | 7994 | Devinlee Brown |
 | 4 | 5656 | Kat |
 | 5 | 5310 | Breannah Grafe |
 | 6 | 4533 | Kristy Wintermantel |
@@ -73,8 +73,8 @@
 | 65 | 1119 | Amelpss |
 | 66 | 1109 | BertMofo |
 | 67 | 1089 | Alyssa Papen |
-| 68 | 1082 | Dion Crommarty |
-| 69 | 1082 | Avy Absol |
+| 68 | 1082 | Avy Absol |
+| 69 | 1082 | Dion Crommarty |
 | 70 | 1081 | Dustee Craddock-Harrison |
 | 71 | 1080 | Chilly Line |
 | 72 | 1069 | Heather Tushner |
@@ -97,22 +97,22 @@
 | 89 | 924 | Monica Daley |
 | 90 | 912 | Carolyn Wallace |
 | 91 | 910 | Chaz Duncan |
-| 92 | 897 | Jason Hart |
-| 93 | 895 | Girl |
-| 94 | 878 | Lucille Truesdale |
-| 95 | 873 | Courtney Cicoria |
-| 96 | 869 | Judy Cox |
-| 97 | 864 | Samantha Peterson |
-| 98 | 864 | Guy Incognito |
-| 99 | 854 | Shauna Havard |
+| 92 | 895 | Girl |
+| 93 | 878 | Lucille Truesdale |
+| 94 | 873 | Courtney Cicoria |
+| 95 | 869 | Judy Cox |
+| 96 | 864 | Samantha Peterson |
+| 97 | 864 | Guy Incognito |
+| 98 | 854 | Shauna Havard |
+| 99 | 851 | Jason Hart |
 | 100 | 846 | Christine Marie |
 | 101 | 840 | SAP |
 | 102 | 837 | Rica Mitchell |
 | 103 | 834 | quicksand420 |
 | 104 | 834 | Brittney Orengo |
 | 105 | 815 | Diana Houts |
-| 106 | 813 | Klo |
-| 107 | 813 | Amy Suckarieh |
+| 106 | 813 | Amy Suckarieh |
+| 107 | 813 | Klo |
 | 108 | 811 | Sassy Pattern |
 | 109 | 806 | Lori Walker |
 | 110 | 806 | Zippy Gridlock |
@@ -164,7 +164,7 @@
 | 156 | 621 | Angelito |
 | 157 | 619 | April Rondinone |
 | 158 | 617 | Erin Thomas |
-| 159 | 609 | Angela Srubar-Norman |
+| 159 | 603 | Angela Srubar-Norman |
 | 160 | 602 | Cristy Duerksen |
 | 161 | 600 | Cursed Hag |
 | 162 | 595 | TRCuse |
@@ -213,8 +213,8 @@
 | 205 | 509 | Mimi |
 | 206 | 507 | Andria Lynn |
 | 207 | 504 | Deanna Deckard |
-| 208 | 502 | Christina Black |
-| 209 | 502 | Ericca Eldridge |
+| 208 | 502 | Ericca Eldridge |
+| 209 | 502 | Christina Black |
 | 210 | 501 | Sharyn Lemire |
 | 211 | 499 | Kesha Brady |
 | 212 | 499 | DonMega |
@@ -279,8 +279,8 @@
 | 271 | 407 | Rafael Valentin |
 | 272 | 407 | Hyper Builder |
 | 273 | 402 | Nita Wells |
-| 274 | 399 | Brittany Little |
-| 275 | 399 | Twisty Cascadezone |
+| 274 | 399 | Twisty Cascadezone |
+| 275 | 399 | Brittany Little |
 | 276 | 398 | Tyler Terrific |
 | 277 | 397 | blockstar |
 | 278 | 395 | BigSammy420 |
@@ -318,8 +318,8 @@
 | 310 | 354 | Perky Piecegrid |
 | 311 | 354 | @ |
 | 312 | 352 | Kate |
-| 313 | 351 | Jackie Clark |
-| 314 | 351 | Dana Scott |
+| 313 | 351 | Dana Scott |
+| 314 | 351 | Jackie Clark |
 | 315 | 350 | Dizzy Matchzone |
 | 316 | 349 | jim |
 | 317 | 349 | Richard-April Kice |
@@ -523,7 +523,7 @@
 | 515 | 234 | B Renee Desjardin |
 | 516 | 234 | Darrin Rubalcava |
 | 517 | 234 | Brian Owens |
-| 518 | 234 | Darrin Rubalcava |
+| 518 | 233 | Joseph Edmonson |
 | 519 | 233 | Robert Rodriguez |
 | 520 | 233 | conceptCollector |
 | 521 | 233 | Gigglelymomof2 |
