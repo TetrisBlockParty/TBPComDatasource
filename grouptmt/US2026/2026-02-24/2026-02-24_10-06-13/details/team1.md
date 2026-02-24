@@ -89,8 +89,8 @@
 | 81 | 994 | Lori Sanders- Davis |
 | 82 | 973 | Francesca Gee |
 | 83 | 961 | Jacqueline Williams |
-| 84 | 957 | Erin Hodges Plumb |
-| 85 | 957 | Zippy Align |
+| 84 | 957 | Zippy Align |
+| 85 | 957 | Erin Hodges Plumb |
 | 86 | 944 | Sweet Baker |
 | 87 | 920 | Tee Sheree |
 | 88 | 916 | Chirpy Smasher |
@@ -124,8 +124,8 @@
 | 116 | 751 | Kellie |
 | 117 | 725 | Debbie Kane |
 | 118 | 716 | Kristi Johnson |
-| 119 | 706 | Denice Dee |
-| 120 | 706 | Plucky Fallzone |
+| 119 | 706 | Plucky Fallzone |
+| 120 | 706 | Denice Dee |
 | 121 | 702 | lil mickey |
 | 122 | 699 | cc |
 | 123 | 696 | Carrie Smith |
@@ -162,13 +162,13 @@
 | 154 | 582 | Hellsin |
 | 155 | 581 | Jennifer Hardman |
 | 156 | 574 | Bouncy Grid |
-| 157 | 570 | Cody Slav |
-| 158 | 570 | Dee Perry |
+| 157 | 570 | Dee Perry |
+| 158 | 570 | Cody Slav |
 | 159 | 568 | Jason Savage |
 | 160 | 564 | Νεφ Όνυξ |
 | 161 | 562 | Timothy Danaher |
-| 162 | 556 | Brandi Huntington |
-| 163 | 556 | Chase Collinsworth |
+| 162 | 556 | Chase Collinsworth |
+| 163 | 556 | Brandi Huntington |
 | 164 | 555 | Sarah Lombardo |
 | 165 | 553 | Flashy Rotator |
 | 166 | 551 | Loony Fitzone |
@@ -177,8 +177,8 @@
 | 169 | 548 | Stephanie Zahn |
 | 170 | 547 | Sharon Reynolds |
 | 171 | 545 | .running. |
-| 172 | 543 | Adrian Esteban |
-| 173 | 543 | Nicole Roseberry Weber |
+| 172 | 543 | Nicole Roseberry Weber |
+| 173 | 543 | Adrian Esteban |
 | 174 | 542 | BadG52 |
 | 175 | 540 | Tonya Beasley |
 | 176 | 535 | Plucky Ziggy |
@@ -211,8 +211,8 @@
 | 203 | 488 | Ly Phethmany |
 | 204 | 482 | Adele Rahman |
 | 205 | 479 | canbrick |
-| 206 | 478 | Jumpy Dropper |
-| 207 | 478 | Hasty Cascader |
+| 206 | 478 | Hasty Cascader |
+| 207 | 478 | Jumpy Dropper |
 | 208 | 477 | Dizzy Slider |
 | 209 | 475 | Reesey Enyart |
 | 210 | 473 | Tamara Brown |
@@ -251,7 +251,7 @@
 | 243 | 422 | Jamise Brown |
 | 244 | 421 | Letson Melissa |
 | 245 | 420 | Jennifer Noe Chandler |
-| 246 | 419 | John J. Cronin |
+| 246 | 419 | Barrbaric |
 | 247 | 419 | Daring Fitclear |
 | 248 | 419 | John J. Cronin |
 | 249 | 416 | Jessica Sheehan |
@@ -375,8 +375,8 @@
 | 367 | 317 | Amh |
 | 368 | 316 | Giggly Builderline |
 | 369 | 315 | san |
-| 370 | 313 | Steph |
-| 371 | 313 | Delvison Rosario |
+| 370 | 313 | Delvison Rosario |
+| 371 | 313 | Steph |
 | 372 | 312 | Diane Byrd |
 | 373 | 312 | Nicole Meredith Flynn |
 | 374 | 311 | Rico Rico |

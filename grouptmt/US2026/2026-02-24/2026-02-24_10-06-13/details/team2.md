@@ -592,14 +592,14 @@
 | 584 | 865 | Lilia Gomez |
 | 585 | 864 | Perky Rollfit |
 | 586 | 861 | Anthony |
-| 587 | 861 | Beth |
-| 588 | 861 | Shavonna Haynes |
+| 587 | 861 | Shavonna Haynes |
+| 588 | 861 | Beth |
 | 589 | 858 | Joshua Self |
 | 590 | 857 | Marella Petilo |
 | 591 | 854 | Dawn L Washington-Feuquay |
 | 592 | 854 | Gold Rose |
-| 593 | 852 | Catherine Marsh Gruda |
-| 594 | 852 | Alexandra Lynn |
+| 593 | 852 | Alexandra Lynn |
+| 594 | 852 | Catherine Marsh Gruda |
 | 595 | 852 | Polly Pritchard Chesler |
 | 596 | 851 | James Louie |
 | 597 | 851 | Melissa Schulz |
@@ -919,15 +919,15 @@
 | 911 | 632 | Lea Stewart |
 | 912 | 631 | Autumn Schaeffer |
 | 913 | 629 | Ownlane Rico |
-| 914 | 629 | Kat Mfm Kaul |
-| 915 | 629 | Luke Califf |
-| 916 | 629 | Snappy Shatterfit |
+| 914 | 629 | Snappy Shatterfit |
+| 915 | 629 | Kat Mfm Kaul |
+| 916 | 629 | Luke Califf |
 | 917 | 628 | Misty Mitchell |
 | 918 | 628 | Macy Jarrett |
 | 919 | 627 | Kristie Wilcox |
 | 920 | 624 | Elizabeth Perterson |
-| 921 | 622 | Michael Artis |
-| 922 | 622 | Ryan Meilleur |
+| 921 | 622 | Ryan Meilleur |
+| 922 | 622 | Michael Artis |
 | 923 | 622 | Ben Barkley |
 | 924 | 621 | Moua Ying |
 | 925 | 621 | Kitybox |
@@ -1059,8 +1059,8 @@
 | 1051 | 562 | Angie Winch |
 | 1052 | 561 | Jenelle Case |
 | 1053 | 560 | De Hawkins |
-| 1054 | 559 | Britney M. |
-| 1055 | 559 | Kaylee McCafferty |
+| 1054 | 559 | Kaylee McCafferty |
+| 1055 | 559 | Britney M. |
 | 1056 | 558 | Treshell Boyd |
 | 1057 | 558 | Byung Bae Park |
 | 1058 | 558 | Linda Miltenburg |
@@ -1172,8 +1172,8 @@
 | 1164 | 515 | Chill Strike |
 | 1165 | 515 | Madysen Holt |
 | 1166 | 515 | Poppy |
-| 1167 | 515 | Miracle |
-| 1168 | 515 | Erin Reid |
+| 1167 | 515 | Erin Reid |
+| 1168 | 515 | Miracle |
 | 1169 | 514 | Melanie Csikortos |
 | 1170 | 513 | Stefanie Zonzini-Gagliardi |
 | 1171 | 513 | MrsCandyfine As Wine Truss |
@@ -1190,8 +1190,8 @@
 | 1182 | 507 | Shyne Sun |
 | 1183 | 507 | Lina Sanders |
 | 1184 | 507 | Jay Levy |
-| 1185 | 506 | Stelleana Cook |
-| 1186 | 506 | Zesty Pivot |
+| 1185 | 506 | Zesty Pivot |
+| 1186 | 506 | Stelleana Cook |
 | 1187 | 505 | Sammie |
 | 1188 | 505 | Umm E Rubab |
 | 1189 | 504 | Veronica Stevenson |

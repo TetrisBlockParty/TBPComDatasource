@@ -83,8 +83,8 @@
 | 75 | 1633 | cowboy25469 |
 | 76 | 1625 | Queen Kam |
 | 77 | 1615 | joclisa |
-| 78 | 1566 | Marcie Bressler |
-| 79 | 1566 | Nerdy Riseclear |
+| 78 | 1566 | Nerdy Riseclear |
+| 79 | 1566 | Marcie Bressler |
 | 80 | 1560 | Logan Naccarato |
 | 81 | 1555 | Snappy Glidepiece |
 | 82 | 1518 | Christine Filson |
@@ -177,16 +177,16 @@
 | 169 | 875 | Chasity |
 | 170 | 874 | Jessica Pineda-Lopez |
 | 171 | 871 | Rochelle Hazelett |
-| 172 | 868 | Cranky Gridder |
-| 173 | 868 | Nicole Flippo |
+| 172 | 868 | Nicole Flippo |
+| 173 | 868 | Cranky Gridder |
 | 174 | 866 | Domo Washington |
 | 175 | 864 | Sunny Rotater |
 | 176 | 862 | Santeria Trece Candles |
 | 177 | 857 | Dana Fox |
 | 178 | 856 | Dana Winters |
 | 179 | 854 | Speedy Bridger |
-| 180 | 847 | Daring Brickzone |
-| 181 | 847 | Daira Largen |
+| 180 | 847 | Daira Largen |
+| 181 | 847 | Daring Brickzone |
 | 182 | 846 | Nicole Myers |
 | 183 | 842 | Alexmac |
 | 184 | 829 | Patricia White |
@@ -217,8 +217,8 @@
 | 209 | 760 | Kiki |
 | 210 | 759 | Mykal Burton |
 | 211 | 757 | Fancy Cascader |
-| 212 | 755 | Colton |
-| 213 | 755 | Laura Booth Wosko |
+| 212 | 755 | Laura Booth Wosko |
+| 213 | 755 | Colton |
 | 214 | 754 | CeceGeGe |
 | 215 | 753 | Morgan Martinez |
 | 216 | 752 | Joye Sims Binion |
@@ -310,8 +310,8 @@
 | 302 | 547 | Aerian Preston |
 | 303 | 542 | France Vézina |
 | 304 | 541 | Mcathen |
-| 305 | 540 | Tanya Kittrell |
-| 306 | 540 | rosy |
+| 305 | 540 | rosy |
+| 306 | 540 | Tanya Kittrell |
 | 307 | 539 | Fancy Curver |
 | 308 | 539 | Kate M. Murdock |
 | 309 | 538 | Chummy Caster |
@@ -415,21 +415,21 @@
 | 407 | 407 | Christina Spa |
 | 408 | 406 | Kristen Weese |
 | 409 | 405 | Andrew Thorson |
-| 410 | 404 | Karent524 |
-| 411 | 404 | Alice |
-| 412 | 404 | Giggy Balanceblock |
+| 410 | 404 | Giggy Balanceblock |
+| 411 | 404 | Karent524 |
+| 412 | 404 | Alice |
 | 413 | 403 | Scott Lindsay |
 | 414 | 403 | keni |
-| 415 | 401 | Velma Mull |
-| 416 | 401 | block chick |
+| 415 | 401 | block chick |
+| 416 | 401 | Velma Mull |
 | 417 | 400 | Joy Petroski |
 | 418 | 398 | Breezy Roll |
 | 419 | 397 | Kevin Russell |
 | 420 | 394 | Jalissa Monique |
-| 421 | 392 | Michelle Allers |
-| 422 | 392 | Linda Draper |
-| 423 | 391 | Rebel124 |
-| 424 | 391 | gremicx |
+| 421 | 392 | Linda Draper |
+| 422 | 392 | Michelle Allers |
+| 423 | 391 | gremicx |
+| 424 | 391 | Rebel124 |
 | 425 | 390 | ROODBOY |
 | 426 | 389 | Kirhonda Autmon |
 | 427 | 389 | Amanda J. Mcneil-Anderson |
@@ -493,8 +493,8 @@
 | 485 | 353 | Eboni G. |
 | 486 | 352 | LadyTorad |
 | 487 | 352 | Scott Doss |
-| 488 | 351 | Nelma |
-| 489 | 351 | Eon Harris |
+| 488 | 351 | Eon Harris |
+| 489 | 351 | Nelma |
 | 490 | 349 | Eboni Starr |
 | 491 | 348 | Ashley Raines |
 | 492 | 348 | atomictrin |

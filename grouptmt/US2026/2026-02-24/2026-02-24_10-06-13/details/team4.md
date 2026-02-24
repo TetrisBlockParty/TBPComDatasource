@@ -138,8 +138,8 @@
 | 130 | 712 | H.R. Block |
 | 131 | 712 | Leslie Nicole |
 | 132 | 708 | Jacqueline Helm |
-| 133 | 704 | Chilly Crasher |
-| 134 | 704 | Austin Owens |
+| 133 | 704 | Austin Owens |
+| 134 | 704 | Chilly Crasher |
 | 135 | 687 | Carmethia Clemons Haslerig |
 | 136 | 682 | Raegan Lane-Ross |
 | 137 | 668 | Desi Desporte |
@@ -229,12 +229,12 @@
 | 221 | 481 | Joanna |
 | 222 | 479 | June Hoffman |
 | 223 | 475 | Silly Zonebuilder |
-| 224 | 473 | Cranky Rollpiece |
-| 225 | 473 | Jolly Dashfit |
+| 224 | 473 | Jolly Dashfit |
+| 225 | 473 | Cranky Rollpiece |
 | 226 | 472 | Plucky Patternblock |
 | 227 | 465 | Leslie Thomas |
-| 228 | 464 | Calvin Cannon |
-| 229 | 464 | Zakia Monae |
+| 228 | 464 | Zakia Monae |
+| 229 | 464 | Calvin Cannon |
 | 230 | 463 | shark tato |
 | 231 | 462 | Crystal Nicolette Moore |
 | 232 | 461 | Damn Libra |
@@ -254,8 +254,8 @@
 | 246 | 444 | Selena Shaw |
 | 247 | 442 | John Brunetti |
 | 248 | 441 | Lush Linkfall |
-| 249 | 438 | Melvin Baird |
-| 250 | 438 | 23 |
+| 249 | 438 | 23 |
+| 250 | 438 | Melvin Baird |
 | 251 | 435 | Chris Bernstein |
 | 252 | 434 | Ramel Rhodes |
 | 253 | 432 | scott |
@@ -318,7 +318,7 @@
 | 310 | 359 | Holly |
 | 311 | 359 | KimoKoala |
 | 312 | 354 | @ |
-| 313 | 354 | Crystal Lynn |
+| 313 | 354 | Perky Piecegrid |
 | 314 | 352 | Kate |
 | 315 | 351 | Dana Scott |
 | 316 | 351 | Jackie Clark |
@@ -393,9 +393,9 @@
 | 385 | 304 | Sarah Neathery |
 | 386 | 302 | Koral Hanke |
 | 387 | 302 | Jenna McGeorge |
-| 388 | 300 | Jason Frehner |
-| 389 | 300 | Carter Jones |
-| 390 | 300 | Dapper Frame |
+| 388 | 300 | Carter Jones |
+| 389 | 300 | Dapper Frame |
+| 390 | 300 | Jason Frehner |
 | 391 | 299 | Michael Snow |
 | 392 | 298 | Val Erie |
 | 393 | 297 | Brittany Marsh |
@@ -418,8 +418,8 @@
 | 410 | 288 | Susan Williams |
 | 411 | 288 | Eminem |
 | 412 | 286 | Stephme310 |
-| 413 | 284 | Shiny Pivoty |
-| 414 | 284 | Alexandra Karavias |
+| 413 | 284 | Alexandra Karavias |
+| 414 | 284 | Shiny Pivoty |
 | 415 | 284 | Johnny R |
 | 416 | 282 | Sho Nuff |
 | 417 | 281 | Tony Pavelka |
@@ -493,15 +493,15 @@
 | 485 | 246 | Shanon Klair |
 | 486 | 246 | giantslover514 |
 | 487 | 245 | Brooke Kaune |
-| 488 | 244 | Elizabeth Tinoco |
+| 488 | 244 | Penny Dean |
 | 489 | 244 | Steve Sperino |
 | 490 | 244 | Elizabeth Tinoco |
 | 491 | 244 | Amanda Christine |
 | 492 | 244 | Jesse Saville |
 | 493 | 243 | Jackie Marie |
 | 494 | 243 | Laura Hosford |
-| 495 | 242 | PurpleMoonMa |
-| 496 | 242 | Badatvs |
+| 495 | 242 | Badatvs |
+| 496 | 242 | PurpleMoonMa |
 | 497 | 241 | Katherine Crane |
 | 498 | 240 | Zany Shatterer |
 | 499 | 240 | Orchislactea |
