@@ -69,8 +69,8 @@
 | 61 | 1116 | Ashley Ingram |
 | 62 | 1101 | BertMofo |
 | 63 | 1089 | Alyssa Papen |
-| 64 | 1082 | Avy Absol |
-| 65 | 1082 | Dion Crommarty |
+| 64 | 1082 | Dion Crommarty |
+| 65 | 1082 | Avy Absol |
 | 66 | 1075 | Dustee Craddock-Harrison |
 | 67 | 1069 | Heather Tushner |
 | 68 | 1055 | Julian Garcia |
@@ -597,9 +597,9 @@
 | 589 | 190 | wombat |
 | 590 | 190 | Robert Rangel |
 | 591 | 189 | JoAnna Zalkovsky |
-| 592 | 188 | Cooldamalley |
-| 593 | 188 | Frilly Blocky |
-| 594 | 188 | Daring Pivot |
+| 592 | 188 | Daring Pivot |
+| 593 | 188 | Cooldamalley |
+| 594 | 188 | Frilly Blocky |
 | 595 | 187 | Jason Punch |
 | 596 | 187 | Nikki Wilson |
 | 597 | 186 | b |

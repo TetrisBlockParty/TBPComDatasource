@@ -108,8 +108,8 @@
 | 100 | 773 | Susanna Guerry |
 | 101 | 772 | Kathy Langham |
 | 102 | 770 | Zappy Curvetile |
-| 103 | 769 | Robert Benito |
-| 104 | 769 | Angel Fowler |
+| 103 | 769 | Angel Fowler |
+| 104 | 769 | Robert Benito |
 | 105 | 768 | Jazzy Framezone |
 | 106 | 756 | Cartier |
 | 107 | 751 | Kellie |
@@ -376,8 +376,8 @@
 | 368 | 297 | Billie Dawn Sparks |
 | 369 | 296 | Jeanna Dunn |
 | 370 | 295 | ESC |
-| 371 | 294 | Mary Love |
-| 372 | 294 | Наталья Солоид |
+| 371 | 294 | Наталья Солоид |
+| 372 | 294 | Mary Love |
 | 373 | 293 | Sunny Pivotfall |
 | 374 | 292 | Mark Smith |
 | 375 | 292 | Clever Cascadepiece |
@@ -496,8 +496,8 @@
 | 488 | 238 | Shaykmia |
 | 489 | 238 | Jumpy Rotate |
 | 490 | 238 | ash |
-| 491 | 237 | Toya Lynn |
-| 492 | 237 | Brad MG |
+| 491 | 237 | Brad MG |
+| 492 | 237 | Toya Lynn |
 | 493 | 236 | Tipsy Tiltpiece |
 | 494 | 236 | Jason Benitez |
 | 495 | 236 | Josh Smith |

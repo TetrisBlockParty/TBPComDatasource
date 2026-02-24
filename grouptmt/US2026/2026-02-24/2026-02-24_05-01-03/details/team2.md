@@ -461,13 +461,13 @@
 | 453 | 991 | Della Hole |
 | 454 | 990 | Crystie Hicks |
 | 455 | 986 | Sabrena Yeisley |
-| 456 | 986 | AgileDragon |
-| 457 | 986 | Mandi Douglas Hilt |
+| 456 | 986 | Mandi Douglas Hilt |
+| 457 | 986 | AgileDragon |
 | 458 | 982 | Jackie Burnett |
 | 459 | 981 | Block Master |
 | 460 | 979 | Fae-Bulous |
-| 461 | 978 | Barry Britt |
-| 462 | 978 | Kennedy Sandifer |
+| 461 | 978 | Kennedy Sandifer |
+| 462 | 978 | Barry Britt |
 | 463 | 976 | Sam Joe |
 | 464 | 975 | Amanda Woodruff |
 | 465 | 975 | Kelly Trent |
