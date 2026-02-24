@@ -68,8 +68,8 @@
 | 60 | 1931 | Denise Nardoni |
 | 61 | 1920 | Trezure Gonzalez |
 | 62 | 1858 | Kristie McFarland |
-| 63 | 1824 | Jessica Ann |
-| 64 | 1824 | Nate Burnside |
+| 63 | 1824 | Nate Burnside |
+| 64 | 1824 | Jessica Ann |
 | 65 | 1804 | Tina Kay |
 | 66 | 1791 | Leah Barnett |
 | 67 | 1776 | Whitney Manuel |
@@ -111,8 +111,8 @@
 | 103 | 1309 | yoyo |
 | 104 | 1297 | Shelby Michelle |
 | 105 | 1290 | JerseyJess |
-| 106 | 1282 | Amanda L Baker |
-| 107 | 1282 | Peppy Shifter |
+| 106 | 1282 | Peppy Shifter |
+| 107 | 1282 | Amanda L Baker |
 | 108 | 1276 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1248 | Lori Barnaby |
@@ -126,8 +126,8 @@
 | 118 | 1134 | Melissa Orth Hunter |
 | 119 | 1124 | Stephanie Rice |
 | 120 | 1121 | Corie A. Brinson |
-| 121 | 1114 | Groovy Catcher |
-| 122 | 1114 | Loopy Fallmatch |
+| 121 | 1114 | Loopy Fallmatch |
+| 122 | 1114 | Groovy Catcher |
 | 123 | 1105 | Adrian Marcel Pate |
 | 124 | 1093 | Angela M. Fletcher |
 | 125 | 1091 | Jennifer |
@@ -163,10 +163,10 @@
 | 155 | 940 | Stephanie Allmon |
 | 156 | 936 | Dolores Falco |
 | 157 | 925 | Cherry Parker |
-| 158 | 914 | BadManSheLove |
-| 159 | 914 | Sarajane Lokan |
-| 160 | 910 | opf |
-| 161 | 910 | Staci George Fitzsimmons |
+| 158 | 914 | Sarajane Lokan |
+| 159 | 914 | BadManSheLove |
+| 160 | 910 | Staci George Fitzsimmons |
+| 161 | 910 | opf |
 | 162 | 906 | Patti Skiles |
 | 163 | 900 | Edwin Calvillo Jr. |
 | 164 | 899 | Jaime Monhaut-Reed |
@@ -176,8 +176,8 @@
 | 168 | 875 | Chasity |
 | 169 | 874 | Jessica Pineda-Lopez |
 | 170 | 871 | Rochelle Hazelett |
-| 171 | 868 | Nicole Flippo |
-| 172 | 868 | Cranky Gridder |
+| 171 | 868 | Cranky Gridder |
+| 172 | 868 | Nicole Flippo |
 | 173 | 866 | Domo Washington |
 | 174 | 864 | Sunny Rotater |
 | 175 | 862 | Santeria Trece Candles |
@@ -207,8 +207,8 @@
 | 199 | 784 | Jone |
 | 200 | 783 | Julian Murphy |
 | 201 | 777 | Daryn Elliott |
-| 202 | 774 | Twisty Brick LT |
-| 203 | 774 | ren |
+| 202 | 774 | ren |
+| 203 | 774 | Twisty Brick LT |
 | 204 | 772 | Hasty Cascadefit |
 | 205 | 768 | Cyd061769 |
 | 206 | 766 | Tasha Gillespie |
@@ -231,8 +231,8 @@
 | 223 | 715 | Karon Griffin |
 | 224 | 714 | Jenny Hrndz |
 | 225 | 713 | Stephanie Blkpep Davidson |
-| 226 | 709 | Cynthia Castros-Hampton |
-| 227 | 709 | Christine Niles |
+| 226 | 709 | Christine Niles |
+| 227 | 709 | Cynthia Castros-Hampton |
 | 228 | 708 | Stephanie Bradley |
 | 229 | 704 | Betty Bóò |
 | 230 | 703 | Shawn Miller |
@@ -331,8 +331,8 @@
 | 323 | 499 | Gumbo |
 | 324 | 499 | Megan Rathmanner |
 | 325 | 496 | Brenda Schmid Wood |
-| 326 | 494 | fraulila |
-| 327 | 494 | MCV |
+| 326 | 494 | MCV |
+| 327 | 494 | fraulila |
 | 328 | 492 | Tasha Wesson-Torrence |
 | 329 | 490 | Cassandra Bryant |
 | 330 | 489 | Isabel Ocasio |
@@ -357,11 +357,11 @@
 | 349 | 461 | Hyper Bridger |
 | 350 | 461 | Briana Wellman |
 | 351 | 460 | Antonia Russell |
-| 352 | 459 | TotoCherue |
-| 353 | 459 | Randy Clevenger |
+| 352 | 459 | Randy Clevenger |
+| 353 | 459 | TotoCherue |
 | 354 | 457 | Snippy Wipeout |
-| 355 | 456 | Kelly |
-| 356 | 456 | Cynthia Herrmann Egland |
+| 355 | 456 | Cynthia Herrmann Egland |
+| 356 | 456 | Kelly |
 | 357 | 455 | Kelly Wolf |
 | 358 | 450 | Luciana Braganca Vieira |
 | 359 | 450 | Stefanie LaPointe |
@@ -376,13 +376,13 @@
 | 368 | 443 | Christian Werndl |
 | 369 | 442 | Loopy Fallzone |
 | 370 | 438 | Dannie Litchard |
-| 371 | 436 | AC Yeater |
-| 372 | 436 | Julie Fratrik |
+| 371 | 436 | Julie Fratrik |
+| 372 | 436 | AC Yeater |
 | 373 | 435 | Sabrina Hardrick |
 | 374 | 434 | Criss |
-| 375 | 432 | Justice 4 P |
-| 376 | 432 | Hoppy Patternline |
-| 377 | 432 | Sabrina Mansfield |
+| 375 | 432 | Sabrina Mansfield |
+| 376 | 432 | Justice 4 P |
+| 377 | 432 | Hoppy Patternline |
 | 378 | 431 | Goofy Fall |
 | 379 | 431 | Donna Esbensen-Alpini |
 | 380 | 430 | AlsoJess |
@@ -406,8 +406,8 @@
 | 398 | 411 | Beaudie Stroebel |
 | 399 | 409 | Rich LeBlanc |
 | 400 | 409 | Roary Danner |
-| 401 | 408 | Ashley Muncey |
-| 402 | 408 | Tiffany Ford |
+| 401 | 408 | Tiffany Ford |
+| 402 | 408 | Ashley Muncey |
 | 403 | 407 | Christina Spa |
 | 404 | 406 | Kristen Weese |
 | 405 | 405 | Andrew Thorson |
@@ -438,8 +438,8 @@
 | 430 | 382 | Katheline Lazo Luizaga |
 | 431 | 382 | Theresa Opell Gartner |
 | 432 | 381 | Mary Giorgenti |
-| 433 | 380 | Foltz Lee Kelli |
-| 434 | 380 | neci |
+| 433 | 380 | neci |
+| 434 | 380 | Foltz Lee Kelli |
 | 435 | 379 | Krish Shah |
 | 436 | 378 | Sissy Lowery Davis |
 | 437 | 378 | Samantha Worley |
@@ -481,8 +481,8 @@
 | 473 | 354 | Norma JulieMay |
 | 474 | 354 | Jana Polk |
 | 475 | 353 | Nikkie Bucciano |
-| 476 | 353 | Erika Apodaca |
-| 477 | 353 | Cheeky Snapper |
+| 476 | 353 | Cheeky Snapper |
+| 477 | 353 | Erika Apodaca |
 | 478 | 353 | Eboni G. |
 | 479 | 352 | LadyTorad |
 | 480 | 352 | Scott Doss |
@@ -904,9 +904,9 @@
 | 896 | 216 | Peachy Rollfit |
 | 897 | 216 | Tabbi Wilson |
 | 898 | 215 | Anabela Ruiz |
-| 899 | 214 | Cathy Reeves |
-| 900 | 214 | Lisa Feddeck |
-| 901 | 214 | krazibtch |
+| 899 | 214 | Lisa Feddeck |
+| 900 | 214 | krazibtch |
+| 901 | 214 | Cathy Reeves |
 | 902 | 213 | Groovy Stackzone |
 | 903 | 213 | Quinn Missouridog |
 | 904 | 212 | Flashy Tiler |
