@@ -64,8 +64,8 @@
 | 56 | 1106 | Ashley Ingram |
 | 57 | 1097 | BertMofo |
 | 58 | 1092 | Rachel Anne |
-| 59 | 1082 | Dion Crommarty |
-| 60 | 1082 | Avy Absol |
+| 59 | 1082 | Avy Absol |
+| 60 | 1082 | Dion Crommarty |
 | 61 | 1075 | Dustee Craddock-Harrison |
 | 62 | 1064 | Heather Tushner |
 | 63 | 1059 | Alyssa Papen |
@@ -85,13 +85,13 @@
 | 77 | 920 | Jonathan Kimbrough |
 | 78 | 911 | TeeJ |
 | 79 | 895 | Girl |
-| 80 | 885 | Yoset Mejia |
-| 81 | 873 | Courtney Cicoria |
+| 80 | 873 | Courtney Cicoria |
+| 81 | 868 | Yoset Mejia |
 | 82 | 865 | Carolyn Wallace |
 | 83 | 864 | Guy Incognito |
 | 84 | 861 | Peachy Fall |
-| 85 | 850 | Lisa Davis |
-| 86 | 850 | Lucille Truesdale |
+| 85 | 850 | Lucille Truesdale |
+| 86 | 850 | Lisa Davis |
 | 87 | 847 | Chilly Line |
 | 88 | 846 | Christine Marie |
 | 89 | 841 | Shauna Havard |
@@ -390,10 +390,10 @@
 | 382 | 267 | Marcus TheeyoungWoe Gilmore |
 | 383 | 266 | Happy Combo |
 | 384 | 266 | Paito |
-| 385 | 266 | Happy Combo |
-| 386 | 265 | Degenerate |
+| 385 | 265 | Degenerate |
+| 386 | 265 | Christine Therrien |
 | 387 | 265 | Lorena Guerrero-Barron |
-| 388 | 265 | Christine Therrien |
+| 388 | 264 | AyeKay |
 | 389 | 264 | Shh |
 | 390 | 264 | Groovy Shiftspin |
 | 391 | 263 | Laurmarcar |

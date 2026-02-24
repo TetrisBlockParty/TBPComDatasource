@@ -241,8 +241,8 @@
 | 233 | 1509 | Whitney Nicole Waterman |
 | 234 | 1509 | Stacey Clement |
 | 235 | 1507 | Kiok |
-| 236 | 1498 | Isabela Shaw |
-| 237 | 1498 | Binyah-Binyah |
+| 236 | 1498 | Binyah-Binyah |
+| 237 | 1498 | Isabela Shaw |
 | 238 | 1488 | Sommer Shope |
 | 239 | 1477 | Prado |
 | 240 | 1469 | Carrie Trigg |
@@ -256,8 +256,8 @@
 | 248 | 1442 | Stacy Stickle |
 | 249 | 1422 | Rebecca Garland |
 | 250 | 1418 | L3sli3 |
-| 251 | 1415 | Kristin Ruest |
-| 252 | 1415 | Jennifer Casey-Kay |
+| 251 | 1415 | Jennifer Casey-Kay |
+| 252 | 1415 | Kristin Ruest |
 | 253 | 1414 | Brittany Radaszewski |
 | 254 | 1413 | Matthew Joseph Acevedo |
 | 255 | 1405 | Joyce Johnson Vaughn |
@@ -533,8 +533,8 @@
 | 525 | 834 | Montez Mancil |
 | 526 | 831 | Victoria Regina Girolami |
 | 527 | 829 | Alex Dungo Hoang |
-| 528 | 828 | Tracy Cowley |
-| 529 | 828 | Shantel Kelley |
+| 528 | 828 | Shantel Kelley |
+| 529 | 828 | Tracy Cowley |
 | 530 | 826 | Lola Contreras |
 | 531 | 825 | Miranda Morris |
 | 532 | 824 | Khalil Lowe |

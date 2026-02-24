@@ -364,8 +364,8 @@
 | 356 | 405 | fraulila |
 | 357 | 405 | Andrew Thorson |
 | 358 | 405 | Chris Bell |
-| 359 | 403 | Stephanie Burtin |
-| 360 | 403 | Scott Lindsay |
+| 359 | 403 | Scott Lindsay |
+| 360 | 403 | Stephanie Burtin |
 | 361 | 401 | block chick |
 | 362 | 399 | Num1hater |
 | 363 | 399 | Loopy Fallzone |

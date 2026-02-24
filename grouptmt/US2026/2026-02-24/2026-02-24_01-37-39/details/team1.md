@@ -35,17 +35,17 @@
 | 27 | 1645 | Jorge Andrade |
 | 28 | 1622 | Roger Aschbrenner |
 | 29 | 1595 | Rahna Underwood |
-| 30 | 1580 | Trippy Redd |
-| 31 | 1544 | Christina Graham |
-| 32 | 1537 | Hyp James NObettadanluvarat |
-| 33 | 1536 | Lola Adkhambekovna |
-| 34 | 1520 | Ashley Elizabeth |
-| 35 | 1515 | Felicia Lewis |
-| 36 | 1454 | Derek MF Blakey |
+| 30 | 1544 | Christina Graham |
+| 31 | 1536 | Lola Adkhambekovna |
+| 32 | 1527 | Hyp James NObettadanluvarat |
+| 33 | 1520 | Ashley Elizabeth |
+| 34 | 1515 | Felicia Lewis |
+| 35 | 1454 | Derek MF Blakey |
+| 36 | 1413 | Trippy Redd |
 | 37 | 1405 | Chipper Gridlock |
 | 38 | 1391 | Aaron Garnett |
-| 39 | 1334 | june october |
-| 40 | 1334 | Tyler Alcock |
+| 39 | 1334 | Tyler Alcock |
+| 40 | 1334 | june october |
 | 41 | 1277 | Marianne Louise West |
 | 42 | 1250 | Stef Hu |
 | 43 | 1239 | Brenda Stewart |
@@ -109,8 +109,8 @@
 | 101 | 706 | Plucky Fallzone |
 | 102 | 706 | Denice Dee |
 | 103 | 703 | Angel Fowler |
-| 104 | 691 | Krista Young |
-| 105 | 691 | Rachael |
+| 104 | 691 | Rachael |
+| 105 | 691 | Krista Young |
 | 106 | 690 | Melissa Lemmon |
 | 107 | 672 | Tdub |
 | 108 | 671 | Chirpy Smasher |
