@@ -108,8 +108,8 @@
 | 100 | 773 | Susanna Guerry |
 | 101 | 772 | Kathy Langham |
 | 102 | 770 | Zappy Curvetile |
-| 103 | 769 | Angel Fowler |
-| 104 | 769 | Robert Benito |
+| 103 | 769 | Robert Benito |
+| 104 | 769 | Angel Fowler |
 | 105 | 768 | Jazzy Framezone |
 | 106 | 756 | Cartier |
 | 107 | 751 | Kellie |
@@ -136,8 +136,8 @@
 | 128 | 642 | Mario Cab |
 | 129 | 639 | Theo Pinnow |
 | 130 | 634 | Carrie Smith |
-| 131 | 629 | Death |
-| 132 | 629 | Tanya Carpenter-Reynolds |
+| 131 | 629 | Tanya Carpenter-Reynolds |
+| 132 | 629 | Death |
 | 133 | 628 | Trina Gee |
 | 134 | 626 | Damon J. Martin |
 | 135 | 622 | Chris K |
@@ -171,8 +171,8 @@
 | 163 | 543 | Adrian Esteban |
 | 164 | 540 | Tonya Beasley |
 | 165 | 538 | .running. |
-| 166 | 537 | Stephanie Zahn |
-| 167 | 537 | BadG52 |
+| 166 | 537 | BadG52 |
+| 167 | 537 | Stephanie Zahn |
 | 168 | 535 | Plucky Ziggy |
 | 169 | 529 | Νεφ Όνυξ |
 | 170 | 528 | ALFD |
@@ -216,8 +216,8 @@
 | 208 | 446 | Spencer Lent |
 | 209 | 446 | SkipTheSadSauce |
 | 210 | 441 | Kimberly Garcia |
-| 211 | 439 | David Miller |
-| 212 | 439 | Witty Builderfit |
+| 211 | 439 | Witty Builderfit |
+| 212 | 439 | David Miller |
 | 213 | 434 | Mike Ames |
 | 214 | 432 | Brian Spotts |
 | 215 | 431 | Shiny Snapfit |
@@ -252,8 +252,8 @@
 | 244 | 399 | Lakeisha Chapman |
 | 245 | 398 | MommaKFC |
 | 246 | 397 | Alenoush Karimian |
-| 247 | 396 | Sam Williams |
-| 248 | 396 | Monica Donato |
+| 247 | 396 | Monica Donato |
+| 248 | 396 | Sam Williams |
 | 249 | 395 | Tami Luce Martin |
 | 250 | 394 | Nick R Montague |
 | 251 | 393 | Wisa |

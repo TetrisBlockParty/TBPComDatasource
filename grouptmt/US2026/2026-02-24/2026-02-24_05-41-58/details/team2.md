@@ -245,8 +245,8 @@
 | 237 | 1613 | blackq |
 | 238 | 1610 | Ray Ray Prado |
 | 239 | 1609 | Ryan Stadel |
-| 240 | 1600 | Jojo Momma |
-| 241 | 1600 | Mo Shine On |
+| 240 | 1600 | Mo Shine On |
+| 241 | 1600 | Jojo Momma |
 | 242 | 1596 | Christine Egidio Morocco |
 | 243 | 1595 | Joyce Johnson Vaughn |
 | 244 | 1592 | Dolores Russworn |
@@ -363,8 +363,8 @@
 | 355 | 1218 | LaKisha Anderson |
 | 356 | 1217 | Brooks Brooks |
 | 357 | 1216 | Pacynthia Williams |
-| 358 | 1215 | Toni Roberson |
-| 359 | 1215 | Hyper Cluster |
+| 358 | 1215 | Hyper Cluster |
+| 359 | 1215 | Toni Roberson |
 | 360 | 1214 | David Cudicio-Hayden |
 | 361 | 1211 | Cynthia Ward |
 | 362 | 1210 | Amber Gray |

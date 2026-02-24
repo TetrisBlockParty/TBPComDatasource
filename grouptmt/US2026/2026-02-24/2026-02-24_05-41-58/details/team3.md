@@ -161,8 +161,8 @@
 | 153 | 936 | Dolores Falco |
 | 154 | 925 | Cherry Parker |
 | 155 | 914 | Sarajane Lokan |
-| 156 | 910 | opf |
-| 157 | 910 | Staci George Fitzsimmons |
+| 156 | 910 | Staci George Fitzsimmons |
+| 157 | 910 | opf |
 | 158 | 905 | Groovy Catcher |
 | 159 | 899 | Jaime Monhaut-Reed |
 | 160 | 894 | Denita Mungro |
@@ -171,8 +171,8 @@
 | 163 | 874 | Jessica Pineda-Lopez |
 | 164 | 873 | BadManSheLove |
 | 165 | 871 | Rochelle Hazelett |
-| 166 | 868 | Cranky Gridder |
-| 167 | 868 | Nicole Flippo |
+| 166 | 868 | Nicole Flippo |
+| 167 | 868 | Cranky Gridder |
 | 168 | 864 | Sunny Rotater |
 | 169 | 862 | Santeria Trece Candles |
 | 170 | 859 | Domo Washington |
@@ -196,8 +196,8 @@
 | 188 | 783 | Julian Murphy |
 | 189 | 780 | Raya |
 | 190 | 777 | Daryn Elliott |
-| 191 | 774 | Twisty Brick LT |
-| 192 | 774 | ren |
+| 191 | 774 | ren |
+| 192 | 774 | Twisty Brick LT |
 | 193 | 772 | Tye Stovall |
 | 194 | 769 | Hasty Cascadefit |
 | 195 | 769 | Patricia White |
@@ -323,8 +323,8 @@
 | 315 | 494 | Megan Rathmanner |
 | 316 | 494 | MCV |
 | 317 | 492 | Tasha Wesson-Torrence |
-| 318 | 490 | Cassandra Bryant |
-| 319 | 490 | Brenda Schmid Wood |
+| 318 | 490 | Brenda Schmid Wood |
+| 319 | 490 | Cassandra Bryant |
 | 320 | 489 | Isabel Ocasio |
 | 321 | 486 | Sleepy |
 | 322 | 486 | Skippy |
@@ -500,8 +500,8 @@
 | 492 | 334 | Carol Cain Thurman |
 | 493 | 334 | Jalissa Monique |
 | 494 | 333 | Heather Ferrara |
-| 495 | 332 | Bleu Sun Beams |
-| 496 | 332 | Clever Edgepiece |
+| 495 | 332 | Clever Edgepiece |
+| 496 | 332 | Bleu Sun Beams |
 | 497 | 331 | Wettnippz |
 | 498 | 330 | Emma |
 | 499 | 330 | Willow |
