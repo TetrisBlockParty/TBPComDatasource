@@ -471,9 +471,9 @@
 | 463 | 1032 | Alyssa Hileman |
 | 464 | 1031 | William Bresee |
 | 465 | 1025 | Ann Matzkanin |
-| 466 | 1024 | Susan Perraut Jones |
-| 467 | 1024 | KrisCynthia Lynette |
-| 468 | 1024 | Tiara Elizabeth Baker |
+| 466 | 1024 | Tiara Elizabeth Baker |
+| 467 | 1024 | Susan Perraut Jones |
+| 468 | 1024 | KrisCynthia Lynette |
 | 469 | 1022 | Jackie Burnett |
 | 470 | 1020 | Darla Silva |
 | 471 | 1019 | Glitzy Rollblock |
@@ -516,8 +516,8 @@
 | 508 | 965 | Lonne Emade |
 | 509 | 964 | John Bednarik |
 | 510 | 963 | Casper The Chonk |
-| 511 | 962 | Kathleen Driskell |
-| 512 | 962 | Antionette Sewell |
+| 511 | 962 | Antionette Sewell |
+| 512 | 962 | Kathleen Driskell |
 | 513 | 960 | Smashanator |
 | 514 | 958 | Jc Gilk |
 | 515 | 958 | Lisa Ongtowasruk |
@@ -883,8 +883,8 @@
 | 875 | 651 | Lazy Builderfit |
 | 876 | 651 | Unica Rector |
 | 877 | 650 | Pfc Monei Rivera |
-| 878 | 650 | Brittany Chapman |
-| 879 | 650 | Peppy Snapfall |
+| 878 | 650 | Peppy Snapfall |
+| 879 | 650 | Brittany Chapman |
 | 880 | 649 | Christy Green |
 | 881 | 647 | Wuntayk |
 | 882 | 647 | Joseph Jones |

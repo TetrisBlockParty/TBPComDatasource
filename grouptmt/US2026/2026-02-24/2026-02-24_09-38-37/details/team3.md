@@ -68,8 +68,8 @@
 | 60 | 1931 | Denise Nardoni |
 | 61 | 1920 | Trezure Gonzalez |
 | 62 | 1858 | Kristie McFarland |
-| 63 | 1824 | Jessica Ann |
-| 64 | 1824 | Nate Burnside |
+| 63 | 1824 | Nate Burnside |
+| 64 | 1824 | Jessica Ann |
 | 65 | 1804 | Tina Kay |
 | 66 | 1791 | Leah Barnett |
 | 67 | 1776 | Whitney Manuel |
@@ -106,8 +106,8 @@
 | 98 | 1361 | Patricia Gadsden |
 | 99 | 1343 | Joey Banks |
 | 100 | 1320 | Kristie |
-| 101 | 1318 | Diana Ibarra |
-| 102 | 1318 | Tiff Vs Tiffany |
+| 101 | 1318 | Tiff Vs Tiffany |
+| 102 | 1318 | Diana Ibarra |
 | 103 | 1309 | yoyo |
 | 104 | 1297 | Shelby Michelle |
 | 105 | 1290 | JerseyJess |
@@ -126,8 +126,8 @@
 | 118 | 1134 | Melissa Orth Hunter |
 | 119 | 1124 | Stephanie Rice |
 | 120 | 1121 | Corie A. Brinson |
-| 121 | 1114 | Loopy Fallmatch |
-| 122 | 1114 | Groovy Catcher |
+| 121 | 1114 | Groovy Catcher |
+| 122 | 1114 | Loopy Fallmatch |
 | 123 | 1105 | Adrian Marcel Pate |
 | 124 | 1093 | Angela M. Fletcher |
 | 125 | 1091 | Jennifer |
@@ -159,8 +159,8 @@
 | 151 | 950 | MissTaylor |
 | 152 | 950 | Giddy Drop |
 | 153 | 947 | Kellie Montgomery |
-| 154 | 940 | Patty Allen |
-| 155 | 940 | Stephanie Allmon |
+| 154 | 940 | Stephanie Allmon |
+| 155 | 940 | Patty Allen |
 | 156 | 936 | Dolores Falco |
 | 157 | 928 | Edwin Calvillo Jr. |
 | 158 | 925 | Cherry Parker |
@@ -176,16 +176,16 @@
 | 168 | 875 | Chasity |
 | 169 | 874 | Jessica Pineda-Lopez |
 | 170 | 871 | Rochelle Hazelett |
-| 171 | 868 | Nicole Flippo |
-| 172 | 868 | Cranky Gridder |
+| 171 | 868 | Cranky Gridder |
+| 172 | 868 | Nicole Flippo |
 | 173 | 866 | Domo Washington |
 | 174 | 864 | Sunny Rotater |
 | 175 | 862 | Santeria Trece Candles |
 | 176 | 857 | Dana Fox |
 | 177 | 856 | Dana Winters |
 | 178 | 854 | Speedy Bridger |
-| 179 | 847 | Daring Brickzone |
-| 180 | 847 | Daira Largen |
+| 179 | 847 | Daira Largen |
+| 180 | 847 | Daring Brickzone |
 | 181 | 846 | Nicole Myers |
 | 182 | 842 | Alexmac |
 | 183 | 829 | Patricia White |
@@ -217,8 +217,8 @@
 | 209 | 760 | Kiki |
 | 210 | 759 | Mykal Burton |
 | 211 | 757 | Fancy Cascader |
-| 212 | 755 | Colton |
-| 213 | 755 | Laura Booth Wosko |
+| 212 | 755 | Laura Booth Wosko |
+| 213 | 755 | Colton |
 | 214 | 754 | CeceGeGe |
 | 215 | 753 | Morgan Martinez |
 | 216 | 752 | Joye Sims Binion |
@@ -264,8 +264,8 @@
 | 256 | 632 | Rebecca Bailey |
 | 257 | 630 | Jackie Miller |
 | 258 | 629 | rnr junky |
-| 259 | 627 | Louise Stacy Sisson |
-| 260 | 627 | Juliana Dottore |
+| 259 | 627 | Juliana Dottore |
+| 260 | 627 | Louise Stacy Sisson |
 | 261 | 626 | Cheryl Hinch Tenbrook |
 | 262 | 625 | Jacqueline Rodriguez |
 | 263 | 624 | Hyper Matchzone |
@@ -282,8 +282,8 @@
 | 274 | 600 | Natasha Jones |
 | 275 | 599 | Noyb Adam |
 | 276 | 598 | Kaycee Kay |
-| 277 | 594 | Cozy Snaplink |
-| 278 | 594 | Marci Mize Fandrich |
+| 277 | 594 | Marci Mize Fandrich |
+| 278 | 594 | Cozy Snaplink |
 | 279 | 588 | Salena Whitlock |
 | 280 | 586 | Brian Battjes |
 | 281 | 586 | Donna |
@@ -310,8 +310,8 @@
 | 302 | 547 | Aerian Preston |
 | 303 | 542 | France Vézina |
 | 304 | 541 | Mcathen |
-| 305 | 540 | Tanya Kittrell |
-| 306 | 540 | rosy |
+| 305 | 540 | rosy |
+| 306 | 540 | Tanya Kittrell |
 | 307 | 539 | Fancy Curver |
 | 308 | 539 | Kate M. Murdock |
 | 309 | 538 | Chummy Caster |
@@ -332,8 +332,8 @@
 | 324 | 499 | Gumbo |
 | 325 | 499 | Megan Rathmanner |
 | 326 | 496 | Brenda Schmid Wood |
-| 327 | 494 | fraulila |
-| 328 | 494 | MCV |
+| 327 | 494 | MCV |
+| 328 | 494 | fraulila |
 | 329 | 492 | Tasha Wesson-Torrence |
 | 330 | 490 | Cassandra Bryant |
 | 331 | 489 | Isabel Ocasio |
@@ -705,8 +705,8 @@
 | 697 | 270 | Courtney van der Kooy |
 | 698 | 270 | Andrew Linge |
 | 699 | 270 | Crafty Tilemaker |
-| 700 | 269 | Bigmack |
-| 701 | 269 | Serena Jarrell |
+| 700 | 269 | Serena Jarrell |
+| 701 | 269 | Bigmack |
 | 702 | 268 | Wacky Crasher |
 | 703 | 268 | DanceLuvLaugh |
 | 704 | 267 | April Matthew Kibble |
@@ -773,8 +773,8 @@
 | 765 | 250 | Marcus Payton |
 | 766 | 249 | Ryze |
 | 767 | 249 | Loony Crawler |
-| 768 | 249 | Snippy Brickster |
-| 769 | 249 | Sarah Tschee |
+| 768 | 249 | Sarah Tschee |
+| 769 | 249 | Snippy Brickster |
 | 770 | 248 | Amie Hendrickson |
 | 771 | 248 | Samantha Lohmeyer |
 | 772 | 247 | Glitzy Rotate |
