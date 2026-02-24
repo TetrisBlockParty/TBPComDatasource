@@ -106,13 +106,13 @@
 | 98 | 1361 | Patricia Gadsden |
 | 99 | 1343 | Joey Banks |
 | 100 | 1320 | Kristie |
-| 101 | 1318 | Tiff Vs Tiffany |
-| 102 | 1318 | Diana Ibarra |
+| 101 | 1318 | Diana Ibarra |
+| 102 | 1318 | Tiff Vs Tiffany |
 | 103 | 1309 | yoyo |
 | 104 | 1297 | Shelby Michelle |
 | 105 | 1290 | JerseyJess |
-| 106 | 1282 | Peppy Shifter |
-| 107 | 1282 | Amanda L Baker |
+| 106 | 1282 | Amanda L Baker |
+| 107 | 1282 | Peppy Shifter |
 | 108 | 1276 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1248 | Lori Barnaby |
@@ -156,8 +156,8 @@
 | 148 | 971 | Tasha Schriewer |
 | 149 | 963 | Crystal Frey |
 | 150 | 961 | Danielle Allison |
-| 151 | 950 | MissTaylor |
-| 152 | 950 | Giddy Drop |
+| 151 | 950 | Giddy Drop |
+| 152 | 950 | MissTaylor |
 | 153 | 947 | Kellie Montgomery |
 | 154 | 940 | Stephanie Allmon |
 | 155 | 940 | Patty Allen |
@@ -190,8 +190,8 @@
 | 182 | 842 | Alexmac |
 | 183 | 829 | Patricia White |
 | 184 | 825 | Lizabeth Fox |
-| 185 | 821 | Kammy Hill |
-| 186 | 821 | Angella Lyons |
+| 185 | 821 | Angella Lyons |
+| 186 | 821 | Kammy Hill |
 | 187 | 817 | Niki Dalrymple |
 | 188 | 815 | Justin Ritter |
 | 189 | 813 | JessDrown |
@@ -207,8 +207,8 @@
 | 199 | 784 | Jone |
 | 200 | 783 | Julian Murphy |
 | 201 | 777 | Daryn Elliott |
-| 202 | 774 | ren |
-| 203 | 774 | Twisty Brick LT |
+| 202 | 774 | Twisty Brick LT |
+| 203 | 774 | ren |
 | 204 | 772 | Hasty Cascadefit |
 | 205 | 768 | Cyd061769 |
 | 206 | 766 | Tasha Gillespie |
@@ -275,8 +275,8 @@
 | 267 | 618 | Kaitie Oliver |
 | 268 | 606 | Connie Mohler-Fair |
 | 269 | 605 | Sarah Cowan Burgos |
-| 270 | 604 | Sherry Ogden |
-| 271 | 604 | Bmo |
+| 270 | 604 | Bmo |
+| 271 | 604 | Sherry Ogden |
 | 272 | 601 | Betty Rosas |
 | 273 | 600 | Rynne Ellis |
 | 274 | 600 | Natasha Jones |
@@ -563,11 +563,11 @@
 | 555 | 320 | Victoria Lexis Dyer |
 | 556 | 320 | Or Reznitsky |
 | 557 | 319 | Moneyvybz |
-| 558 | 319 | Tracey Cox |
-| 559 | 319 | Matty Ray |
+| 558 | 319 | Matty Ray |
+| 559 | 319 | Tracey Cox |
 | 560 | 319 | Jayme |
 | 561 | 318 | James Fuller |
-| 562 | 318 | Earlanda Holland |
+| 562 | 318 | Tina Smith Roy |
 | 563 | 318 | Trey Ward |
 | 564 | 318 | Earlanda Holland |
 | 565 | 317 | Michael Kimbro |
@@ -732,14 +732,14 @@
 | 724 | 260 | Josh Borquez |
 | 725 | 260 | Kristen McAlpine |
 | 726 | 260 | Plucky Frame |
-| 727 | 259 | Shania Vaine |
-| 728 | 259 | Tammy |
-| 729 | 258 | Spicy Buildout |
-| 730 | 258 | Dawn Nicole |
-| 731 | 257 | Justin Ernst |
+| 727 | 259 | Tammy |
+| 728 | 259 | Shania Vaine |
+| 729 | 258 | Dawn Nicole |
+| 730 | 258 | Spicy Buildout |
+| 731 | 257 | Kristy Brown |
 | 732 | 257 | Kristy Manley |
-| 733 | 257 | Kristy Brown |
-| 734 | 257 | Trissy Collins |
+| 733 | 257 | Trissy Collins |
+| 734 | 257 | Justin Ernst |
 | 735 | 256 | Moniecia Harrison |
 | 736 | 256 | Amy Cunningham Mitchell |
 | 737 | 255 | Hi'ilani L Houvener |
@@ -822,10 +822,10 @@
 | 814 | 234 | Kendra Peterson |
 | 815 | 234 | Rashad Green |
 | 816 | 233 | Brian Quigley |
-| 817 | 233 | Jaimie Thomas |
-| 818 | 233 | Sarah Whalen |
-| 819 | 232 | Emi |
-| 820 | 232 | Sunny Tiltgrid |
+| 817 | 233 | Sarah Whalen |
+| 818 | 233 | Jaimie Thomas |
+| 819 | 232 | Sunny Tiltgrid |
+| 820 | 232 | Emi |
 | 821 | 232 | Traci Galitz |
 | 822 | 231 | Katie Morton |
 | 823 | 231 | Janay Darkstallion Robinson |
@@ -1959,7 +1959,7 @@
 | 1951 | 77 | Monica Miller |
 | 1952 | 77 | Abigail Gonzalez |
 | 1953 | 76 | Twisty Brickclear |
-| 1954 | 76 | Cindy McCale |
+| 1954 | 76 | Frisky Tilefall |
 | 1955 | 76 | Richard |
 | 1956 | 76 | Cindy McCale |
 | 1957 | 76 | Nikki EightySixed |

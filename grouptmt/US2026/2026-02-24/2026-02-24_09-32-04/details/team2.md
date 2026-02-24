@@ -472,13 +472,13 @@
 | 464 | 1031 | William Bresee |
 | 465 | 1025 | Ann Matzkanin |
 | 466 | 1024 | Tiara Elizabeth Baker |
-| 467 | 1024 | Susan Perraut Jones |
-| 468 | 1024 | KrisCynthia Lynette |
+| 467 | 1024 | KrisCynthia Lynette |
+| 468 | 1024 | Susan Perraut Jones |
 | 469 | 1022 | Jackie Burnett |
 | 470 | 1019 | Glitzy Rollblock |
 | 471 | 1018 | Eric Castaneda |
-| 472 | 1018 | Donna M Carter |
-| 473 | 1018 | Darla Silva |
+| 472 | 1018 | Darla Silva |
+| 473 | 1018 | Donna M Carter |
 | 474 | 1016 | Jennie Lee Huntley |
 | 475 | 1003 | Amanda Deitrick |
 | 476 | 1002 | Lexie Burke |
@@ -910,8 +910,8 @@
 | 902 | 638 | DLOCC1056 |
 | 903 | 637 | Darcy Mae |
 | 904 | 636 | Tash Bell |
-| 905 | 635 | Pamela Babisky |
-| 906 | 635 | John Carlin |
+| 905 | 635 | John Carlin |
+| 906 | 635 | Pamela Babisky |
 | 907 | 634 | Jessica Galick |
 | 908 | 633 | Theresa Sterrett |
 | 909 | 632 | Lea Stewart |
@@ -995,8 +995,8 @@
 | 987 | 588 | Mercedez Hubbard |
 | 988 | 588 | Wayne Fields |
 | 989 | 587 | Alexx Anaya |
-| 990 | 586 | Cat Thompson |
-| 991 | 586 | Tracy Wise Moon |
+| 990 | 586 | Tracy Wise Moon |
+| 991 | 586 | Cat Thompson |
 | 992 | 586 | Tra Barnum |
 | 993 | 585 | Danielle DeLozier Plesec |
 | 994 | 585 | Laquetta Royston |

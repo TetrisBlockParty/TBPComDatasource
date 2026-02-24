@@ -137,8 +137,8 @@
 | 129 | 666 | Virginia Gray Floyd |
 | 130 | 652 | Evie Khalil |
 | 131 | 651 | Dandy Basegrid |
-| 132 | 650 | Bob |
-| 133 | 650 | April Carroll |
+| 132 | 650 | April Carroll |
+| 133 | 650 | Bob |
 | 134 | 647 | Theo Pinnow |
 | 135 | 643 | Erin Rosberg |
 | 136 | 642 | Mario Cab |
@@ -232,7 +232,7 @@
 | 224 | 436 | Sylvia Vasquez |
 | 225 | 432 | Brian Spotts |
 | 226 | 432 | Chantelle Ceno |
-| 227 | 431 | Snippy Wipebuilder |
+| 227 | 431 | Tipsy Strikerpiece |
 | 228 | 431 | Shiny Snapfit |
 | 229 | 431 | Snippy Wipebuilder |
 | 230 | 430 | Howdi Duty |
@@ -271,8 +271,8 @@
 | 263 | 396 | Sam Williams |
 | 264 | 394 | Nick R Montague |
 | 265 | 393 | Wisa |
-| 266 | 392 | Renee Tucker |
-| 267 | 392 | Poppy Riserpiece |
+| 266 | 392 | Poppy Riserpiece |
+| 267 | 392 | Renee Tucker |
 | 268 | 391 | Happy Basegrid |
 | 269 | 390 | David Lutcher |
 | 270 | 388 | Test |
@@ -354,8 +354,8 @@
 | 346 | 330 | Jeremy Maubert |
 | 347 | 330 | LaFontaine Leslie |
 | 348 | 330 | Rebecca Apley Mielke |
-| 349 | 329 | Larry Tilton |
-| 350 | 329 | Sarah Marie |
+| 349 | 329 | Sarah Marie |
+| 350 | 329 | Larry Tilton |
 | 351 | 328 | Richard Corrado |
 | 352 | 327 | Christina Norman |
 | 353 | 325 | Mitchel White |

@@ -73,8 +73,8 @@
 | 65 | 1119 | Amelpss |
 | 66 | 1109 | BertMofo |
 | 67 | 1089 | Alyssa Papen |
-| 68 | 1082 | Avy Absol |
-| 69 | 1082 | Dion Crommarty |
+| 68 | 1082 | Dion Crommarty |
+| 69 | 1082 | Avy Absol |
 | 70 | 1081 | Dustee Craddock-Harrison |
 | 71 | 1080 | Chilly Line |
 | 72 | 1069 | Heather Tushner |
@@ -147,8 +147,8 @@
 | 139 | 667 | Carmethia Clemons Haslerig |
 | 140 | 667 | Swanky Fitline |
 | 141 | 662 | Nerdy Twisterfit |
-| 142 | 661 | shar |
-| 143 | 661 | Rodney McMath Jr. |
+| 142 | 661 | Rodney McMath Jr. |
+| 143 | 661 | shar |
 | 144 | 651 | Adawna Swires |
 | 145 | 650 | Chris Hartig |
 | 146 | 647 | KM8 |
@@ -240,11 +240,11 @@
 | 232 | 460 | Kathy Brookins |
 | 233 | 458 | Luis Martinez |
 | 234 | 458 | Kristina Black |
-| 235 | 457 | J-Rizzle |
-| 236 | 457 | Kristin Manee |
+| 235 | 457 | Kristin Manee |
+| 236 | 457 | J-Rizzle |
 | 237 | 455 | Michele Plunkett |
-| 238 | 454 | Keshia Lyons |
-| 239 | 454 | David Lay |
+| 238 | 454 | David Lay |
+| 239 | 454 | Keshia Lyons |
 | 240 | 450 | Genne Scott |
 | 241 | 449 | Danielle Kollias |
 | 242 | 448 | Mike Solo |
@@ -318,8 +318,8 @@
 | 310 | 354 | @ |
 | 311 | 354 | Perky Piecegrid |
 | 312 | 352 | Kate |
-| 313 | 351 | Dana Scott |
-| 314 | 351 | Jackie Clark |
+| 313 | 351 | Jackie Clark |
+| 314 | 351 | Dana Scott |
 | 315 | 350 | Dizzy Matchzone |
 | 316 | 349 | Richard-April Kice |
 | 317 | 349 | jim |
@@ -399,8 +399,8 @@
 | 391 | 297 | Brittany Marsh |
 | 392 | 297 | Allison Rose |
 | 393 | 295 | Deb Rubeck |
-| 394 | 294 | BootsMcGee |
-| 395 | 294 | Kevin Bush |
+| 394 | 294 | Kevin Bush |
+| 395 | 294 | BootsMcGee |
 | 396 | 293 | Groovy Shiftspin |
 | 397 | 292 | Epic Curvetile |
 | 398 | 292 | Jumpy Zonepiece |
@@ -471,10 +471,10 @@
 | 463 | 254 | Crystal Lynn |
 | 464 | 254 | Jess Reyes |
 | 465 | 253 | Autum Leigh |
-| 466 | 251 | Diosa Ebalobo Magsael |
-| 467 | 251 | Carol Ricks Raymond |
-| 468 | 251 | Kathy Allen |
-| 469 | 251 | Jackson Karen |
+| 466 | 251 | Jackson Karen |
+| 467 | 251 | Kathy Allen |
+| 468 | 251 | Carol Ricks Raymond |
+| 469 | 251 | Diosa Ebalobo Magsael |
 | 470 | 250 | Moonsterix |
 | 471 | 249 | Stacy Jones |
 | 472 | 249 | SHL |
@@ -488,9 +488,9 @@
 | 480 | 248 | Speedy Cascadeclear |
 | 481 | 247 | RIFATSIKDER |
 | 482 | 247 | Sam Middleton |
-| 483 | 246 | giantslover514 |
+| 483 | 246 | Shanon Klair |
 | 484 | 246 | GBR |
-| 485 | 246 | Shanon Klair |
+| 485 | 246 | giantslover514 |
 | 486 | 245 | Brooke Kaune |
 | 487 | 244 | Elizabeth Tinoco |
 | 488 | 244 | Steve Sperino |
