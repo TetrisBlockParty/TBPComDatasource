@@ -349,8 +349,8 @@
 | 341 | 1252 | Brainy Smurf |
 | 342 | 1249 | Tristan Szolek |
 | 343 | 1245 | Angel Hunnewell |
-| 344 | 1237 | Christine Coughlin |
-| 345 | 1237 | Cheech Dta |
+| 344 | 1237 | Cheech Dta |
+| 345 | 1237 | Christine Coughlin |
 | 346 | 1235 | Bri Lynn |
 | 347 | 1233 | Shannon Joslin |
 | 348 | 1232 | Ambyre Patterson |
@@ -363,8 +363,8 @@
 | 355 | 1218 | LaKisha Anderson |
 | 356 | 1217 | Brooks Brooks |
 | 357 | 1216 | Pacynthia Williams |
-| 358 | 1215 | Hyper Cluster |
-| 359 | 1215 | Toni Roberson |
+| 358 | 1215 | Toni Roberson |
+| 359 | 1215 | Hyper Cluster |
 | 360 | 1214 | David Cudicio-Hayden |
 | 361 | 1211 | Cynthia Ward |
 | 362 | 1210 | Amber Gray |
@@ -527,8 +527,8 @@
 | 519 | 913 | Jessica Redmond |
 | 520 | 910 | Miranda Jackson |
 | 521 | 909 | Valerie Brooke Lusk Armstrong |
-| 522 | 907 | Kiely Tomaskovich |
-| 523 | 907 | Gene Mills |
+| 522 | 907 | Gene Mills |
+| 523 | 907 | Kiely Tomaskovich |
 | 524 | 905 | Brenda Utphall |
 | 525 | 905 | Adam Simmons |
 | 526 | 903 | Dylan Thomason |

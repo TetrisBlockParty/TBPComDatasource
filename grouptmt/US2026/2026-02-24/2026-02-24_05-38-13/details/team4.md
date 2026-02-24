@@ -221,12 +221,12 @@
 | 213 | 473 | Cranky Rollpiece |
 | 214 | 465 | June Hoffman |
 | 215 | 464 | Zakia Monae |
-| 216 | 462 | Crystal Nicolette Moore |
-| 217 | 462 | Leslie Thomas |
+| 216 | 462 | Leslie Thomas |
+| 217 | 462 | Crystal Nicolette Moore |
 | 218 | 460 | Kathy Brookins |
 | 219 | 458 | Kristina Black |
-| 220 | 457 | Kristin Manee |
-| 221 | 457 | J-Rizzle |
+| 220 | 457 | J-Rizzle |
+| 221 | 457 | Kristin Manee |
 | 222 | 456 | shark tato |
 | 223 | 455 | Michele Plunkett |
 | 224 | 454 | Keshia Lyons |

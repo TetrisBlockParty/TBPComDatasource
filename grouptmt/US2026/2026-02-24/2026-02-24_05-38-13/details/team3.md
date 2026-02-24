@@ -196,8 +196,8 @@
 | 188 | 783 | Julian Murphy |
 | 189 | 780 | Raya |
 | 190 | 777 | Daryn Elliott |
-| 191 | 774 | Twisty Brick LT |
-| 192 | 774 | ren |
+| 191 | 774 | ren |
+| 192 | 774 | Twisty Brick LT |
 | 193 | 772 | Tye Stovall |
 | 194 | 769 | Hasty Cascadefit |
 | 195 | 769 | Patricia White |
@@ -219,8 +219,8 @@
 | 211 | 733 | Annie Déè |
 | 212 | 732 | Angela Scott |
 | 213 | 731 | Samantha Greco |
-| 214 | 729 | CeceGeGe |
-| 215 | 729 | Lizabeth Fox |
+| 214 | 729 | Lizabeth Fox |
+| 215 | 729 | CeceGeGe |
 | 216 | 715 | Karon Griffin |
 | 217 | 714 | Jenny Hrndz |
 | 218 | 713 | Stephanie Blkpep Davidson |
