@@ -90,8 +90,8 @@
 | 82 | 867 | Carolyn Wallace |
 | 83 | 864 | Guy Incognito |
 | 84 | 861 | Peachy Fall |
-| 85 | 850 | Lucille Truesdale |
-| 86 | 850 | Lisa Davis |
+| 85 | 850 | Lisa Davis |
+| 86 | 850 | Lucille Truesdale |
 | 87 | 847 | Chilly Line |
 | 88 | 846 | Christine Marie |
 | 89 | 841 | Shauna Havard |
@@ -143,8 +143,8 @@
 | 135 | 625 | Jewell Urban |
 | 136 | 620 | Porkobello |
 | 137 | 616 | Samantha Peterson |
-| 138 | 615 | Ernest Maxwell |
-| 139 | 615 | Kim Hunt |
+| 138 | 615 | Kim Hunt |
+| 139 | 615 | Ernest Maxwell |
 | 140 | 611 | Chris Baggett |
 | 141 | 602 | Cristy Duerksen |
 | 142 | 600 | Carrie Brian |

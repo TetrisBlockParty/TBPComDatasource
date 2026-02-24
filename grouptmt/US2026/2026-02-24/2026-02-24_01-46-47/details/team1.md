@@ -175,8 +175,8 @@
 | 167 | 509 | Dandy Basegrid |
 | 168 | 508 | Arianna O'Brien |
 | 169 | 497 | MIKOZ |
-| 170 | 496 | Sarah Somers Gray |
-| 171 | 496 | Michelle Beres |
+| 170 | 496 | Michelle Beres |
+| 171 | 496 | Sarah Somers Gray |
 | 172 | 494 | Sean Stallings |
 | 173 | 492 | Rebekah LeiAnn Bonsell |
 | 174 | 491 | cc |
@@ -323,8 +323,8 @@
 | 315 | 322 | Cheeky Pop |
 | 316 | 322 | Christina Norman |
 | 317 | 319 | Fresno Beotoni |
-| 318 | 317 | Zany Tiler |
-| 319 | 317 | Bloknboy |
+| 318 | 317 | Bloknboy |
+| 319 | 317 | Zany Tiler |
 | 320 | 316 | Giggly Builderline |
 | 321 | 314 | Amh |
 | 322 | 312 | Glitzy Curvebuilder |
@@ -343,8 +343,8 @@
 | 335 | 301 | Susie Loo |
 | 336 | 301 | Chad Atchley |
 | 337 | 300 | Logan McFarland |
-| 338 | 299 | Chummy Rollblock |
-| 339 | 299 | Nathan William |
+| 338 | 299 | Nathan William |
+| 339 | 299 | Chummy Rollblock |
 | 340 | 298 | Sweetts |
 | 341 | 297 | Speedy Snapfall |
 | 342 | 295 | Richard Corrado |
