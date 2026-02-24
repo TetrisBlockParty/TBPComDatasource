@@ -271,8 +271,8 @@
 | 263 | 633 | Rebecca Funderburk Kirby |
 | 264 | 632 | Rebecca Bailey |
 | 265 | 629 | rnr junky |
-| 266 | 627 | Louise Stacy Sisson |
-| 267 | 627 | Juliana Dottore |
+| 266 | 627 | Juliana Dottore |
+| 267 | 627 | Louise Stacy Sisson |
 | 268 | 626 | Cheryl Hinch Tenbrook |
 | 269 | 625 | Jacqueline Rodriguez |
 | 270 | 624 | Hyper Matchzone |
@@ -287,8 +287,8 @@
 | 279 | 600 | Natasha Jones |
 | 280 | 594 | Cozy Snaplink |
 | 281 | 591 | Crystal Hine |
-| 282 | 586 | Donna |
-| 283 | 586 | Brian Battjes |
+| 282 | 586 | Brian Battjes |
+| 283 | 586 | Donna |
 | 284 | 584 | Michael Johnson |
 | 285 | 583 | Michael Lucado |
 | 286 | 582 | FuzzyNavel |
@@ -312,8 +312,8 @@
 | 304 | 545 | Stephanie Simpson |
 | 305 | 542 | France Vézina |
 | 306 | 541 | Mcathen |
-| 307 | 540 | Tanya Kittrell |
-| 308 | 540 | rosy |
+| 307 | 540 | rosy |
+| 308 | 540 | Tanya Kittrell |
 | 309 | 539 | Fancy Curver |
 | 310 | 539 | Kate M. Murdock |
 | 311 | 538 | Chummy Caster |
@@ -374,7 +374,7 @@
 | 366 | 460 | Antonia Russell |
 | 367 | 456 | RickyG |
 | 368 | 456 | Kelly |
-| 369 | 456 | RickyG |
+| 369 | 456 | Cynthia Herrmann Egland |
 | 370 | 455 | Kelly Wolf |
 | 371 | 451 | Swanky Frame |
 | 372 | 450 | Luciana Braganca Vieira |
@@ -399,8 +399,8 @@
 | 391 | 431 | Donna Esbensen-Alpini |
 | 392 | 430 | AlsoJess |
 | 393 | 430 | Quackers |
-| 394 | 428 | Samantha Lynn |
-| 395 | 428 | Skinny Baldez |
+| 394 | 428 | Skinny Baldez |
+| 395 | 428 | Samantha Lynn |
 | 396 | 428 | keni |
 | 397 | 427 | Darlene McMillan |
 | 398 | 426 | Heather Bateman |
@@ -440,8 +440,8 @@
 | 432 | 391 | Ashley Lynn Marchese |
 | 433 | 391 | Rebel124 |
 | 434 | 390 | ROODBOY |
-| 435 | 389 | Kirhonda Autmon |
-| 436 | 389 | Amanda J. Mcneil-Anderson |
+| 435 | 389 | Amanda J. Mcneil-Anderson |
+| 436 | 389 | Kirhonda Autmon |
 | 437 | 387 | Brittany K Ward |
 | 438 | 386 | Geoffrey Nash |
 | 439 | 384 | Tiffany Davie |
@@ -1021,8 +1021,8 @@
 | 1013 | 196 | Happy Shifter |
 | 1014 | 195 | Eunhye Lee |
 | 1015 | 195 | Nicha Hooker |
-| 1016 | 194 | Amber Eby |
-| 1017 | 194 | Shicken Nuggit |
+| 1016 | 194 | Shicken Nuggit |
+| 1017 | 194 | Amber Eby |
 | 1018 | 194 | Josh Vietz |
 | 1019 | 193 | Melissa Ponder |
 | 1020 | 193 | G |
