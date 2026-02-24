@@ -473,8 +473,8 @@
 | 465 | 950 | Desire Rice |
 | 466 | 950 | ToShi |
 | 467 | 944 | Darla Silva |
-| 468 | 942 | Lisa Ongtowasruk |
-| 469 | 942 | Toni Lynn |
+| 468 | 942 | Toni Lynn |
+| 469 | 942 | Lisa Ongtowasruk |
 | 470 | 941 | Cool Clearer |
 | 471 | 940 | Jennifer Leigh |
 | 472 | 939 | Fae-Bulous |

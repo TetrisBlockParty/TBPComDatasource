@@ -107,8 +107,8 @@
 | 99 | 792 | Denise Carlson |
 | 100 | 787 | Jason Hart |
 | 101 | 781 | Brittney Griggs |
-| 102 | 780 | Keith Kelley |
-| 103 | 780 | TheNeesh50 |
+| 102 | 780 | TheNeesh50 |
+| 103 | 780 | Keith Kelley |
 | 104 | 779 | Nope Young |
 | 105 | 775 | Klo |
 | 106 | 768 | Trista Leah |
@@ -162,8 +162,8 @@
 | 154 | 578 | Livvy |
 | 155 | 577 | Brandon Crabbs |
 | 156 | 575 | Jenna Ingersoll |
-| 157 | 574 | Carmethia Clemons Haslerig |
-| 158 | 574 | Carlos Ramirez |
+| 157 | 574 | Carlos Ramirez |
+| 158 | 574 | Carmethia Clemons Haslerig |
 | 159 | 567 | Rico |
 | 160 | 565 | Ren Mc |
 | 161 | 560 | Chastity Mitchell |
@@ -239,8 +239,8 @@
 | 231 | 430 | Plucky Patternblock |
 | 232 | 427 | Chao Ma |
 | 233 | 426 | John Brunetti |
-| 234 | 424 | Chris Bernstein |
-| 235 | 424 | Keshia Lyons |
+| 234 | 424 | Keshia Lyons |
+| 235 | 424 | Chris Bernstein |
 | 236 | 422 | Zakia Monae |
 | 237 | 421 | JIGsaw ~(•¿°)~ |
 | 238 | 419 | Silly Zonebuilder |
@@ -248,13 +248,13 @@
 | 240 | 413 | Jeff Brian Gates |
 | 241 | 411 | Autumn Kumzi |
 | 242 | 410 | Lindsay Ball |
-| 243 | 409 | Antony Dwayne Beasley |
-| 244 | 409 | Joseph Guthrie |
+| 243 | 409 | Joseph Guthrie |
+| 244 | 409 | Antony Dwayne Beasley |
 | 245 | 408 | Lauren Scott |
 | 246 | 406 | TinyLegoRose |
 | 247 | 400 | Brickh4us |
-| 248 | 398 | Tyler Terrific |
-| 249 | 398 | Nerdy Twisterfit |
+| 248 | 398 | Nerdy Twisterfit |
+| 249 | 398 | Tyler Terrific |
 | 250 | 397 | blasterB |
 | 251 | 397 | blockstar |
 | 252 | 396 | scott |
@@ -291,10 +291,10 @@
 | 283 | 358 | David Lay |
 | 284 | 350 | Dizzy Matchzone |
 | 285 | 349 | jim |
-| 286 | 347 | Daria Rycewicz |
+| 286 | 347 | @ |
 | 287 | 347 | Zołza 😈 |
-| 288 | 347 | Perky Patternblock |
-| 289 | 347 | @ |
+| 288 | 347 | Daria Rycewicz |
+| 289 | 347 | Perky Patternblock |
 | 290 | 344 | Amanda Maciel Clarke |
 | 291 | 343 | HastyGrabber |
 | 292 | 342 | Lauren Lamb |

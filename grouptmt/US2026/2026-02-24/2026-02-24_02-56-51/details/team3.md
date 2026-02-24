@@ -392,9 +392,9 @@
 | 384 | 386 | Philip Rock |
 | 385 | 386 | Dee Franklin |
 | 386 | 384 | Tiffany Davie |
-| 387 | 383 | Kirhonda Autmon |
-| 388 | 383 | Jessica Christian |
-| 389 | 383 | Nikki White |
+| 387 | 383 | Jessica Christian |
+| 388 | 383 | Nikki White |
+| 389 | 383 | Kirhonda Autmon |
 | 390 | 382 | Rynne Ellis |
 | 391 | 378 | MsBee |
 | 392 | 377 | Hoppy Patternline |

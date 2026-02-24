@@ -261,16 +261,16 @@
 | 253 | 379 | Austin James |
 | 254 | 377 | GATOR |
 | 255 | 376 | Billie Ann Eason |
-| 256 | 376 | Brian Richardsson |
-| 257 | 376 | Sassy Builderline |
+| 256 | 376 | Sassy Builderline |
+| 257 | 376 | Brian Richardsson |
 | 258 | 375 | DaRascal |
 | 259 | 374 | Snappy Brickbuilder |
 | 260 | 373 | Frothy Pattern |
 | 261 | 372 | Dizzy Party |
 | 262 | 371 | Eddie Dillon |
 | 263 | 371 | Jaimie Lynn |
-| 264 | 370 | Gracie |
-| 265 | 370 | Chantelle Ceno |
+| 264 | 370 | Chantelle Ceno |
+| 265 | 370 | Gracie |
 | 266 | 367 | Jamie Jury |
 | 267 | 366 | J.F. Fields |
 | 268 | 365 | Amanda Holibaugh |
