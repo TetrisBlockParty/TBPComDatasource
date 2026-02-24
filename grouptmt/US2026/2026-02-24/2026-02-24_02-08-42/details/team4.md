@@ -91,11 +91,11 @@
 | 83 | 864 | Guy Incognito |
 | 84 | 861 | Peachy Fall |
 | 85 | 855 | Chilly Line |
-| 86 | 850 | Lisa Davis |
-| 87 | 850 | Lucille Truesdale |
+| 86 | 850 | Lucille Truesdale |
+| 87 | 850 | Lisa Davis |
 | 88 | 846 | Christine Marie |
-| 89 | 841 | Shauna Havard |
-| 90 | 841 | Judy Cox |
+| 89 | 841 | Judy Cox |
+| 90 | 841 | Shauna Havard |
 | 91 | 840 | Chaz Duncan |
 | 92 | 834 | quicksand420 |
 | 93 | 826 | Rica Mitchell |
@@ -118,8 +118,8 @@
 | 110 | 725 | Diana Houts |
 | 111 | 724 | Destiney Carter |
 | 112 | 723 | Chris Alexinas |
-| 113 | 719 | Jamie Mann-Deichmann |
-| 114 | 719 | Sam Bishop |
+| 113 | 719 | Sam Bishop |
+| 114 | 719 | Jamie Mann-Deichmann |
 | 115 | 716 | Savannah Overdorf |
 | 116 | 712 | H.R. Block |
 | 117 | 710 | SAP |
