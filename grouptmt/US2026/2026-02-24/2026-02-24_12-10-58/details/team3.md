@@ -32,8 +32,8 @@
 | 24 | 3221 | Ashley Jones |
 | 25 | 3118 | Jamie Lang |
 | 26 | 3042 | Nerdy Spinblock |
-| 27 | 2933 | Dan Rob |
-| 28 | 2933 | Grego Daniel |
+| 27 | 2933 | Grego Daniel |
+| 28 | 2933 | Dan Rob |
 | 29 | 2874 | Zippy Strikesnap |
 | 30 | 2873 | Chummy Shatterer |
 | 31 | 2816 | Fancy Slam |
@@ -70,8 +70,8 @@
 | 62 | 1858 | Kristie McFarland |
 | 63 | 1836 | Tina Kay |
 | 64 | 1825 | Nora Rogers |
-| 65 | 1824 | Jessica Ann |
-| 66 | 1824 | Nate Burnside |
+| 65 | 1824 | Nate Burnside |
+| 66 | 1824 | Jessica Ann |
 | 67 | 1791 | Leah Barnett |
 | 68 | 1776 | Whitney Manuel |
 | 69 | 1774 | Liv Whetson |
@@ -111,8 +111,8 @@
 | 103 | 1311 | JerseyJess |
 | 104 | 1309 | yoyo |
 | 105 | 1297 | Shelby Michelle |
-| 106 | 1282 | Peppy Shifter |
-| 107 | 1282 | Amanda L Baker |
+| 106 | 1282 | Amanda L Baker |
+| 107 | 1282 | Peppy Shifter |
 | 108 | 1280 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1248 | Lori Barnaby |
@@ -167,8 +167,8 @@
 | 159 | 936 | Dolores Falco |
 | 160 | 928 | Edwin Calvillo Jr. |
 | 161 | 925 | Cherry Parker |
-| 162 | 914 | BadManSheLove |
-| 163 | 914 | Staci George Fitzsimmons |
+| 162 | 914 | Staci George Fitzsimmons |
+| 163 | 914 | BadManSheLove |
 | 164 | 910 | opf |
 | 165 | 906 | Patti Skiles |
 | 166 | 899 | Jaime Monhaut-Reed |
@@ -209,22 +209,22 @@
 | 201 | 786 | Micayah Stevens |
 | 202 | 784 | Jone |
 | 203 | 777 | Daryn Elliott |
-| 204 | 774 | Michael Nowogorski |
-| 205 | 774 | ren |
-| 206 | 772 | Cyd061769 |
-| 207 | 772 | Hasty Cascadefit |
-| 208 | 769 | Tasha Gillespie |
-| 209 | 766 | Mykal Burton |
-| 210 | 763 | Khaleada McGill Banks |
-| 211 | 762 | Naur |
-| 212 | 760 | Kiki |
-| 213 | 758 | Shawn Miller |
-| 214 | 757 | Fancy Cascader |
-| 215 | 755 | Colton |
-| 216 | 755 | Laura Booth Wosko |
-| 217 | 754 | CeceGeGe |
-| 218 | 753 | Morgan Martinez |
-| 219 | 752 | Joye Sims Binion |
+| 204 | 774 | ren |
+| 205 | 772 | Cyd061769 |
+| 206 | 772 | Hasty Cascadefit |
+| 207 | 769 | Tasha Gillespie |
+| 208 | 766 | Mykal Burton |
+| 209 | 763 | Khaleada McGill Banks |
+| 210 | 762 | Naur |
+| 211 | 760 | Kiki |
+| 212 | 758 | Shawn Miller |
+| 213 | 757 | Fancy Cascader |
+| 214 | 755 | Colton |
+| 215 | 755 | Laura Booth Wosko |
+| 216 | 754 | CeceGeGe |
+| 217 | 753 | Morgan Martinez |
+| 218 | 752 | Joye Sims Binion |
+| 219 | 750 | Michael Nowogorski |
 | 220 | 747 | Annie Déè |
 | 221 | 742 | Jennifer Lynn Fahrenholtz-Summers |
 | 222 | 736 | Elissa S-k |
@@ -282,13 +282,13 @@
 | 274 | 618 | Kaitie Oliver |
 | 275 | 609 | Connie Mohler-Fair |
 | 276 | 608 | Noyb Adam |
-| 277 | 604 | Sherry Ogden |
-| 278 | 604 | Bmo |
+| 277 | 604 | Bmo |
+| 278 | 604 | Sherry Ogden |
 | 279 | 600 | Natasha Jones |
 | 280 | 594 | Cozy Snaplink |
 | 281 | 591 | Crystal Hine |
-| 282 | 586 | Brian Battjes |
-| 283 | 586 | Donna |
+| 282 | 586 | Donna |
+| 283 | 586 | Brian Battjes |
 | 284 | 584 | Michael Johnson |
 | 285 | 583 | Michael Lucado |
 | 286 | 582 | FuzzyNavel |
@@ -296,11 +296,11 @@
 | 288 | 578 | James Mitchell |
 | 289 | 572 | Tessina Dewey-Mancino |
 | 290 | 570 | thekey |
-| 291 | 569 | Silly Twist |
-| 292 | 569 | Gray Hicks |
+| 291 | 569 | Gray Hicks |
+| 292 | 569 | Silly Twist |
 | 293 | 567 | Stephanie Burtin |
-| 294 | 566 | Eileen Brady Thurber |
-| 295 | 566 | Tyler Shoff |
+| 294 | 566 | Tyler Shoff |
+| 295 | 566 | Eileen Brady Thurber |
 | 296 | 562 | Dave Herzog |
 | 297 | 562 | Aerian Preston |
 | 298 | 561 | Chauntee Alfrey-Cardinale |
@@ -362,8 +362,8 @@
 | 354 | 470 | Jazzy Spinfit |
 | 355 | 468 | Bigmack |
 | 356 | 467 | Danielle Rhoades |
-| 357 | 465 | Blocked |
-| 358 | 465 | Noettín Kan Zasnemoore |
+| 357 | 465 | Noettín Kan Zasnemoore |
+| 358 | 465 | Blocked |
 | 359 | 464 | Snazzy Filler |
 | 360 | 464 | Snippy Wipeout |
 | 361 | 463 | Hoài Quắt |
@@ -413,13 +413,13 @@
 | 405 | 418 | Rainbow77375 |
 | 406 | 417 | Krish Shah |
 | 407 | 416 | Tay |
-| 408 | 414 | Arden White Kirsch |
-| 409 | 414 | Michelle Allers |
+| 408 | 414 | Michelle Allers |
+| 409 | 414 | Arden White Kirsch |
 | 410 | 413 | Rick Poppen |
 | 411 | 411 | Beaudie Stroebel |
 | 412 | 409 | Rich LeBlanc |
-| 413 | 408 | Tiffany Ford |
-| 414 | 408 | Ashley Muncey |
+| 413 | 408 | Ashley Muncey |
+| 414 | 408 | Tiffany Ford |
 | 415 | 407 | Christina Spa |
 | 416 | 406 | Kristen Weese |
 | 417 | 405 | Andrew Thorson |
@@ -436,9 +436,9 @@
 | 428 | 396 | Steven Fulater |
 | 429 | 394 | Jalissa Monique |
 | 430 | 392 | Linda Draper |
-| 431 | 391 | Rebel124 |
+| 431 | 391 | Ashley Lynn Marchese |
 | 432 | 391 | gremicx |
-| 433 | 391 | Ashley Lynn Marchese |
+| 433 | 391 | Rebel124 |
 | 434 | 390 | ROODBOY |
 | 435 | 389 | Amanda J. Mcneil-Anderson |
 | 436 | 389 | Kirhonda Autmon |

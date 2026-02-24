@@ -51,8 +51,8 @@
 | 43 | 1497 | Juggalo |
 | 44 | 1478 | Sammy Noguera |
 | 45 | 1469 | Kimberly Love |
-| 46 | 1461 | Yoset Mejia |
-| 47 | 1461 | Shane Kalamata Platoon |
+| 46 | 1461 | Shane Kalamata Platoon |
+| 47 | 1461 | Yoset Mejia |
 | 48 | 1456 | Michelle Marie |
 | 49 | 1430 | Landon Keith Graffeo |
 | 50 | 1386 | Jen Allison |
@@ -117,8 +117,8 @@
 | 109 | 811 | Sassy Pattern |
 | 110 | 806 | Zippy Gridlock |
 | 111 | 805 | Mylo Lipscomb |
-| 112 | 802 | Crystal Carroll |
-| 113 | 802 | Denise Carlson |
+| 112 | 802 | Denise Carlson |
+| 113 | 802 | Crystal Carroll |
 | 114 | 801 | D3TROITB0RN74 |
 | 115 | 798 | Jewell Urban |
 | 116 | 784 | TheNeesh50 |
@@ -149,11 +149,11 @@
 | 141 | 667 | Matt Gooder |
 | 142 | 667 | Lindsey Gonzalez |
 | 143 | 662 | Nerdy Twisterfit |
-| 144 | 661 | Rodney McMath Jr. |
-| 145 | 661 | shar |
+| 144 | 661 | shar |
+| 145 | 661 | Rodney McMath Jr. |
 | 146 | 651 | Adawna Swires |
-| 147 | 650 | April Rondinone |
-| 148 | 650 | Chris Hartig |
+| 147 | 650 | Chris Hartig |
+| 148 | 650 | April Rondinone |
 | 149 | 647 | KM8 |
 | 150 | 646 | Kim Hunt |
 | 151 | 639 | Serena Goodridge |
@@ -387,8 +387,8 @@
 | 379 | 314 | KoolMom9907 |
 | 380 | 313 | Lazy Glidepiece |
 | 381 | 312 | Tawna Curry |
-| 382 | 311 | Reds Bella |
-| 383 | 311 | KayM |
+| 382 | 311 | KayM |
+| 383 | 311 | Reds Bella |
 | 384 | 308 | Angela Geist Jusinski |
 | 385 | 307 | Susan Williams |
 | 386 | 307 | Eri Kka |
@@ -439,8 +439,8 @@
 | 431 | 277 | Silly SeaWeed |
 | 432 | 276 | Dennis Bradley |
 | 433 | 275 | Jarred Falls |
-| 434 | 274 | Cheery Fitline |
-| 435 | 274 | Kourtney Barnes |
+| 434 | 274 | Kourtney Barnes |
+| 435 | 274 | Cheery Fitline |
 | 436 | 273 | Lane Wasson |
 | 437 | 272 | ChuckBuck Copeland |
 | 438 | 271 | ImJustMe |
