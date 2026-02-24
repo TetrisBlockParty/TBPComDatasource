@@ -87,18 +87,18 @@
 | 79 | 957 | Erin Hodges Plumb |
 | 80 | 957 | Zippy Align |
 | 81 | 944 | Sweet Baker |
-| 82 | 937 | Nancy Green |
-| 83 | 933 | Jason Cox |
-| 84 | 920 | Tee Sheree |
-| 85 | 916 | Chirpy Smasher |
-| 86 | 906 | Lexuriuos Lifestlye |
-| 87 | 904 | Fmp |
-| 88 | 898 | Dawn Sheppard |
-| 89 | 896 | Cheeky Crusher |
-| 90 | 892 | Seth Wesson |
-| 91 | 887 | comrade fish |
-| 92 | 884 | Sevens4L |
-| 93 | 883 | Jennifer ManWarren |
+| 82 | 922 | Jason Cox |
+| 83 | 920 | Tee Sheree |
+| 84 | 916 | Chirpy Smasher |
+| 85 | 906 | Lexuriuos Lifestlye |
+| 86 | 904 | Fmp |
+| 87 | 898 | Dawn Sheppard |
+| 88 | 896 | Cheeky Crusher |
+| 89 | 892 | Seth Wesson |
+| 90 | 887 | comrade fish |
+| 91 | 884 | Sevens4L |
+| 92 | 883 | Jennifer ManWarren |
+| 93 | 883 | Nancy Green |
 | 94 | 863 | Madison Wicks |
 | 95 | 860 | Tinah Montanna |
 | 96 | 860 | Rachael |
@@ -270,8 +270,8 @@
 | 262 | 390 | David Lutcher |
 | 263 | 386 | Melissa Bires Hussar |
 | 264 | 386 | Angela Renea Lester |
-| 265 | 384 | Irv |
-| 266 | 384 | Colleen Pinette |
+| 265 | 384 | Colleen Pinette |
+| 266 | 384 | Irv |
 | 267 | 383 | Margo Wagner |
 | 268 | 382 | Jamie Jury |
 | 269 | 380 | Snippy Wipebuilder |

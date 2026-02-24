@@ -136,8 +136,8 @@
 | 128 | 712 | H.R. Block |
 | 129 | 712 | Leslie Nicole |
 | 130 | 708 | Jacqueline Helm |
-| 131 | 704 | Austin Owens |
-| 132 | 704 | Chilly Crasher |
+| 131 | 704 | Chilly Crasher |
+| 132 | 704 | Austin Owens |
 | 133 | 682 | Raegan Lane-Ross |
 | 134 | 668 | Desi Desporte |
 | 135 | 667 | Matt Gooder |
@@ -152,14 +152,14 @@
 | 144 | 638 | Porkobello |
 | 145 | 633 | Jessica Lynn Cutlip |
 | 146 | 629 | Chris Baggett |
-| 147 | 627 | Swanky Fitline |
-| 148 | 627 | shar |
-| 149 | 623 | ku5hkween |
-| 150 | 622 | Ernest Maxwell |
-| 151 | 621 | Angelito |
-| 152 | 619 | April Rondinone |
-| 153 | 616 | Carrie Brian |
-| 154 | 615 | Kim Hunt |
+| 147 | 627 | shar |
+| 148 | 623 | ku5hkween |
+| 149 | 622 | Ernest Maxwell |
+| 150 | 621 | Angelito |
+| 151 | 619 | April Rondinone |
+| 152 | 616 | Carrie Brian |
+| 153 | 615 | Kim Hunt |
+| 154 | 608 | Swanky Fitline |
 | 155 | 602 | Cristy Duerksen |
 | 156 | 599 | Adam Stephanie Parker |
 | 157 | 595 | TRCuse |
@@ -167,8 +167,8 @@
 | 159 | 590 | Angela Srubar-Norman |
 | 160 | 589 | Livvy |
 | 161 | 587 | YoMomma |
-| 162 | 586 | Carlos Ramirez |
-| 163 | 586 | Latisha Davis |
+| 162 | 586 | Latisha Davis |
+| 163 | 586 | Carlos Ramirez |
 | 164 | 585 | Tracey Lehmann |
 | 165 | 584 | Carlton Unfiltered |
 | 166 | 576 | Jade Rian |
@@ -241,22 +241,22 @@
 | 233 | 455 | Michele Plunkett |
 | 234 | 454 | Keshia Lyons |
 | 235 | 449 | Danielle Kollias |
-| 236 | 448 | Mike Solo |
-| 237 | 448 | Mr. Party |
+| 236 | 448 | Mr. Party |
+| 237 | 448 | Mike Solo |
 | 238 | 447 | Jen Mattei |
 | 239 | 444 | Selena Shaw |
 | 240 | 442 | John Brunetti |
 | 241 | 441 | Lush Linkfall |
-| 242 | 438 | 23 |
-| 243 | 438 | Melvin Baird |
+| 242 | 438 | Melvin Baird |
+| 243 | 438 | 23 |
 | 244 | 434 | Ramel Rhodes |
 | 245 | 433 | Circuit8 |
 | 246 | 433 | Damn Libra |
 | 247 | 432 | scott |
 | 248 | 432 | Plucky Patternblock |
 | 249 | 430 | Chris Bernstein |
-| 250 | 427 | Cheery Risebuilder |
-| 251 | 427 | Chao Ma |
+| 250 | 427 | Chao Ma |
+| 251 | 427 | Cheery Risebuilder |
 | 252 | 424 | Andrew Dang |
 | 253 | 423 | Gdiguy |
 | 254 | 421 | Brickh4us |

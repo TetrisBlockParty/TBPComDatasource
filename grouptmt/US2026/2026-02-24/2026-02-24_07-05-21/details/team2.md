@@ -214,8 +214,8 @@
 | 206 | 1815 | Chirpy Staggerpiece |
 | 207 | 1813 | Catina Hutchison |
 | 208 | 1807 | Osun Anuket Esu |
-| 209 | 1775 | Sommer Shope |
-| 210 | 1775 | Eboni Banks |
+| 209 | 1775 | Eboni Banks |
+| 210 | 1775 | Sommer Shope |
 | 211 | 1763 | Nerdy Pattern |
 | 212 | 1761 | Rosa Franklin |
 | 213 | 1751 | Melissa Penelope Ann Dodge |
@@ -274,8 +274,8 @@
 | 266 | 1481 | Jamie Schmitt |
 | 267 | 1480 | Dimitra Zazara |
 | 268 | 1478 | Misty Walker |
-| 269 | 1477 | Prado |
-| 270 | 1477 | Hillary Crawford |
+| 269 | 1477 | Hillary Crawford |
+| 270 | 1477 | Prado |
 | 271 | 1469 | Carrie Trigg |
 | 272 | 1463 | Yvonne Wharton |
 | 273 | 1459 | Shiny Rollzone |
@@ -315,8 +315,8 @@
 | 307 | 1342 | Kelly A Green-Leach |
 | 308 | 1341 | Cassie Mercer |
 | 309 | 1340 | Tralonda Weeks |
-| 310 | 1338 | Diallo Sparkman |
-| 311 | 1338 | Meghan M |
+| 310 | 1338 | Meghan M |
+| 311 | 1338 | Diallo Sparkman |
 | 312 | 1336 | Frothy Rumbler |
 | 313 | 1334 | Jamie Otero |
 | 314 | 1334 | Christina Walker |
@@ -635,8 +635,8 @@
 | 627 | 797 | Moist_B-hole |
 | 628 | 795 | William Bresee |
 | 629 | 795 | Carrie Mitchell |
-| 630 | 795 | Aletha Williams |
-| 631 | 795 | Alexandra Weir |
+| 630 | 795 | Alexandra Weir |
+| 631 | 795 | Aletha Williams |
 | 632 | 793 | Heather Anspaugh |
 | 633 | 792 | Beatboxxer |
 | 634 | 789 | De'Jah Charncey |
@@ -664,8 +664,8 @@
 | 656 | 770 | Michael Buckner |
 | 657 | 768 | Mia Muse Best |
 | 658 | 766 | Frisky Riserbuilder |
-| 659 | 766 | Diamond Scott |
-| 660 | 766 | Angela Cagle Silmon |
+| 659 | 766 | Angela Cagle Silmon |
+| 660 | 766 | Diamond Scott |
 | 661 | 766 | Bonita Kee |
 | 662 | 763 | Heather Causey |
 | 663 | 763 | Cecilia A Jenkins |
@@ -675,8 +675,8 @@
 | 667 | 759 | Briana Alexander |
 | 668 | 759 | Jessica Lamb |
 | 669 | 758 | Stephanie Neuburger |
-| 670 | 758 | John Jubes |
-| 671 | 758 | James Smith |
+| 670 | 758 | James Smith |
+| 671 | 758 | John Jubes |
 | 672 | 757 | Frisky Clearpiece |
 | 673 | 756 | Aleksandr Gershman |
 | 674 | 755 | Marcia Jones |
@@ -901,8 +901,8 @@
 | 893 | 627 | Kristie Wilcox |
 | 894 | 626 | cornball |
 | 895 | 626 | Tash Bell |
-| 896 | 626 | Armonie Smith |
-| 897 | 624 | Elizabeth Perterson |
+| 896 | 624 | Elizabeth Perterson |
+| 897 | 623 | Luke Califf |
 | 898 | 623 | Victor Obiakarije |
 | 899 | 622 | Ben Barkley |
 | 900 | 622 | Ryan Meilleur |

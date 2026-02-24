@@ -179,8 +179,8 @@
 | 171 | 857 | Dana Fox |
 | 172 | 856 | Dana Winters |
 | 173 | 854 | Speedy Bridger |
-| 174 | 847 | Daring Brickzone |
-| 175 | 847 | Daira Largen |
+| 174 | 847 | Daira Largen |
+| 175 | 847 | Daring Brickzone |
 | 176 | 846 | Nicole Myers |
 | 177 | 845 | Edwin Calvillo Jr. |
 | 178 | 836 | Patti Skiles |
