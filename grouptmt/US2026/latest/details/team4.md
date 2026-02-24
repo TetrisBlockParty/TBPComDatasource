@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-24 14:58:43 UTC
+# Standings for team4 as of 2026-02-24 14:59:21 UTC
 
 **Total Participants:** 2042
 
@@ -224,9 +224,9 @@
 | 216 | 512 | Kristina Black |
 | 217 | 510 | J-Rizzle |
 | 218 | 508 | June Hoffman |
-| 219 | 504 | Sharyn Lemire |
-| 220 | 504 | Deanna Deckard |
-| 221 | 502 | Nita Wells |
+| 219 | 504 | Nita Wells |
+| 220 | 504 | Sharyn Lemire |
+| 221 | 504 | Deanna Deckard |
 | 222 | 499 | Kesha Brady |
 | 223 | 498 | Genne Scott |
 | 224 | 497 | Damn Libra |
@@ -862,58 +862,58 @@
 | 854 | 143 | Jenna Keen |
 | 855 | 142 | Witty Link |
 | 856 | 142 | Atia Scott |
-| 857 | 142 | Frothy Curve |
-| 858 | 142 | AjJess |
-| 859 | 142 | Frank Cook |
-| 860 | 142 | Katie Linneman-Rowland |
+| 857 | 142 | Katie Linneman-Rowland |
+| 858 | 142 | Frothy Curve |
+| 859 | 142 | AjJess |
+| 860 | 142 | Frank Cook |
 | 861 | 142 | Swanky Blockline |
 | 862 | 141 | Robert Sch |
 | 863 | 141 | Renee Marshall |
 | 864 | 140 | SloFut Mataryal BrownBwoy |
-| 865 | 139 | Stephanie Griego |
-| 866 | 138 | JEan Price |
-| 867 | 138 | Clever Tilefall |
-| 868 | 138 | Rampai |
+| 865 | 139 | Sarah Tenenbaum |
+| 866 | 139 | Stephanie Griego |
+| 867 | 138 | Rampai |
+| 868 | 138 | JEan Price |
 | 869 | 138 | Angel Johnson |
-| 870 | 137 | Spunky Tower |
-| 871 | 137 | tossan |
-| 872 | 137 | Dania Cochrane |
-| 873 | 137 | poopoo |
-| 874 | 137 | Cj Lewis-haut |
-| 875 | 137 | Lazy Blocker |
-| 876 | 137 | Samantha Gamble |
-| 877 | 137 | Aj |
-| 878 | 136 | Rick SJ |
-| 879 | 135 | Kara Kaminski Rhinehart |
-| 880 | 135 | Nikki Ann |
-| 881 | 135 | Sha Ta Nay Mitchell |
-| 882 | 135 | Dot Flanagan |
-| 883 | 135 | Hog Crankin |
-| 884 | 134 | Tabitha Henson |
+| 870 | 138 | Clever Tilefall |
+| 871 | 137 | Lazy Blocker |
+| 872 | 137 | tossan |
+| 873 | 137 | Spunky Tower |
+| 874 | 137 | Dania Cochrane |
+| 875 | 137 | poopoo |
+| 876 | 137 | Cj Lewis-haut |
+| 877 | 137 | Samantha Gamble |
+| 878 | 137 | Aj |
+| 879 | 136 | Rick SJ |
+| 880 | 135 | Sha Ta Nay Mitchell |
+| 881 | 135 | Nikki Ann |
+| 882 | 135 | Kara Kaminski Rhinehart |
+| 883 | 135 | Dot Flanagan |
+| 884 | 135 | Hog Crankin |
 | 885 | 134 | Alicia Atwater |
-| 886 | 134 | Snippy |
-| 887 | 133 | Sarah Tenenbaum |
+| 886 | 134 | Tabitha Henson |
+| 887 | 134 | Snippy |
 | 888 | 133 | Buttlicker |
 | 889 | 133 | April Jo Roder |
-| 890 | 132 | Jessica Cagle |
-| 891 | 132 | Marlisa Clark |
+| 890 | 132 | Marlisa Clark |
+| 891 | 132 | Joe Lonnemann |
 | 892 | 132 | Aj Brantley Lpn |
-| 893 | 132 | Joe Lonnemann |
+| 893 | 132 | Jessica Cagle |
 | 894 | 131 | Roseanna Anderson |
 | 895 | 131 | Albert Walker III |
-| 896 | 129 | Shelly Goad |
-| 897 | 129 | Michele Badgwell |
+| 896 | 129 | Dreamy Snapgrid |
+| 897 | 129 | Juan Barron |
 | 898 | 129 | Alo |
-| 899 | 129 | Juan Barron |
-| 900 | 129 | Dreamy Snapgrid |
+| 899 | 129 | Michele Badgwell |
+| 900 | 129 | Shelly Goad |
 | 901 | 129 | Verna Neal |
-| 902 | 128 | Bigg Guy |
-| 903 | 128 | k |
+| 902 | 128 | k |
+| 903 | 128 | Bigg Guy |
 | 904 | 128 | Shiny Matchfit |
-| 905 | 127 | Riley Chelsie |
-| 906 | 127 | Kari Rose Haché |
-| 907 | 127 | JD |
-| 908 | 127 | Renee |
+| 905 | 127 | Renee |
+| 906 | 127 | Riley Chelsie |
+| 907 | 127 | Kari Rose Haché |
+| 908 | 127 | JD |
 | 909 | 127 | LucasEveryday |
 | 910 | 126 | Ian Starnes |
 | 911 | 126 | Skyler Patzer |
@@ -1307,13 +1307,13 @@
 | 1299 | 68 | Lowkey24 |
 | 1300 | 67 | Rae |
 | 1301 | 67 | Daring Matchfit |
-| 1302 | 67 | Zany Cascadebuilder |
-| 1303 | 67 | Monica Manning-Bryson |
-| 1304 | 67 | Amanda Loren |
-| 1305 | 66 | Anne-Marie Reyes |
-| 1306 | 66 | Coflowers |
-| 1307 | 66 | Nerdy Clicker |
-| 1308 | 66 | Anita Kramer |
+| 1302 | 67 | Anita Kramer |
+| 1303 | 67 | Zany Cascadebuilder |
+| 1304 | 67 | Monica Manning-Bryson |
+| 1305 | 67 | Amanda Loren |
+| 1306 | 66 | Anne-Marie Reyes |
+| 1307 | 66 | Coflowers |
+| 1308 | 66 | Nerdy Clicker |
 | 1309 | 65 | Leslie Parker |
 | 1310 | 65 | Rita Loucks |
 | 1311 | 65 | Brain Joy |
@@ -1505,46 +1505,46 @@
 | 1497 | 46 | Daws |
 | 1498 | 46 | SweetHoneyComb |
 | 1499 | 45 | rod |
-| 1500 | 45 | Bryan Davidson |
-| 1501 | 45 | Bymerica |
-| 1502 | 45 | Peachy Pusher |
-| 1503 | 45 | Jeremiah Burton |
-| 1504 | 45 | Derek Bartley |
-| 1505 | 45 | Amy Anderson-Franks |
-| 1506 | 45 | Spicy T-spin |
-| 1507 | 45 | Snippy Snapzone |
-| 1508 | 45 | Cheeky Zone |
-| 1509 | 44 | Dawn Plumb |
-| 1510 | 44 | Valencia |
-| 1511 | 44 | smiley400 |
-| 1512 | 44 | Cozy Clearfit |
-| 1513 | 44 | Melton Jmcm |
-| 1514 | 44 | Peachy Roll |
-| 1515 | 44 | Blair Shriver |
-| 1516 | 44 | Faith Dawn Hershey |
-| 1517 | 44 | Lucky2Guns |
-| 1518 | 44 | De'Chon Millender-Rogers |
-| 1519 | 44 | Frothy Twisterfit |
-| 1520 | 44 | Charlie Edson |
-| 1521 | 44 | Tara Karen |
-| 1522 | 43 | Douglass |
-| 1523 | 43 | Cool Stackbuilder |
-| 1524 | 43 | Giggly Slammer |
-| 1525 | 43 | Lanee Morgan |
-| 1526 | 43 | Charlotte Garczynski |
-| 1527 | 43 | Amanda Ashley |
-| 1528 | 43 | Johnny Jenks |
-| 1529 | 43 | Frisky Striker |
-| 1530 | 43 | James Yulich |
-| 1531 | 43 | Pablito Pablito |
-| 1532 | 42 | Angela Catalanotto Ericksen |
-| 1533 | 42 | JulioBookworm |
-| 1534 | 42 | Hasty Matchgrid |
-| 1535 | 42 | Dreamy Rollpiece |
-| 1536 | 42 | Simiara Robotham |
-| 1537 | 42 | Daniel E Little Sr. |
-| 1538 | 42 | Tet |
-| 1539 | 42 | Dreamy Jumper |
+| 1500 | 45 | Dreamy Jumper |
+| 1501 | 45 | Bryan Davidson |
+| 1502 | 45 | Bymerica |
+| 1503 | 45 | Peachy Pusher |
+| 1504 | 45 | Jeremiah Burton |
+| 1505 | 45 | Derek Bartley |
+| 1506 | 45 | Amy Anderson-Franks |
+| 1507 | 45 | Spicy T-spin |
+| 1508 | 45 | Snippy Snapzone |
+| 1509 | 45 | Cheeky Zone |
+| 1510 | 44 | Dawn Plumb |
+| 1511 | 44 | Valencia |
+| 1512 | 44 | smiley400 |
+| 1513 | 44 | Cozy Clearfit |
+| 1514 | 44 | Melton Jmcm |
+| 1515 | 44 | Peachy Roll |
+| 1516 | 44 | Blair Shriver |
+| 1517 | 44 | Faith Dawn Hershey |
+| 1518 | 44 | Lucky2Guns |
+| 1519 | 44 | De'Chon Millender-Rogers |
+| 1520 | 44 | Frothy Twisterfit |
+| 1521 | 44 | Charlie Edson |
+| 1522 | 44 | Tara Karen |
+| 1523 | 43 | Douglass |
+| 1524 | 43 | Cool Stackbuilder |
+| 1525 | 43 | Giggly Slammer |
+| 1526 | 43 | Lanee Morgan |
+| 1527 | 43 | Charlotte Garczynski |
+| 1528 | 43 | Amanda Ashley |
+| 1529 | 43 | Johnny Jenks |
+| 1530 | 43 | Frisky Striker |
+| 1531 | 43 | James Yulich |
+| 1532 | 43 | Pablito Pablito |
+| 1533 | 42 | Angela Catalanotto Ericksen |
+| 1534 | 42 | JulioBookworm |
+| 1535 | 42 | Hasty Matchgrid |
+| 1536 | 42 | Dreamy Rollpiece |
+| 1537 | 42 | Simiara Robotham |
+| 1538 | 42 | Daniel E Little Sr. |
+| 1539 | 42 | Tet |
 | 1540 | 42 | Saucy Brickroll |
 | 1541 | 41 | Deion |
 | 1542 | 41 | Paul Brown |
