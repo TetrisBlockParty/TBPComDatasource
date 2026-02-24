@@ -140,8 +140,8 @@
 | 132 | 598 | Jessi Sauer |
 | 133 | 593 | Maria C. Hernandez |
 | 134 | 591 | Giddy Cascade |
-| 135 | 589 | April Carroll |
-| 136 | 589 | Virginia Gray Floyd |
+| 135 | 589 | Virginia Gray Floyd |
+| 136 | 589 | April Carroll |
 | 137 | 582 | Hellsin |
 | 138 | 577 | Tiger Lily |
 | 139 | 575 | cc |
@@ -197,8 +197,8 @@
 | 189 | 473 | Chuck Gannon |
 | 190 | 470 | Candy Jones |
 | 191 | 462 | Hasty Cascader |
-| 192 | 458 | Dizzy Slider |
-| 193 | 458 | Goose egg |
+| 192 | 458 | Goose egg |
+| 193 | 458 | Dizzy Slider |
 | 194 | 457 | Erin Rosberg |
 | 195 | 453 | Kimmie Kimms |
 | 196 | 450 | Elaine Elaine |
@@ -226,8 +226,8 @@
 | 218 | 423 | Chelsea Dahlquist |
 | 219 | 422 | Jamise Brown |
 | 220 | 420 | Jennifer Noe Chandler |
-| 221 | 419 | John J. Cronin |
-| 222 | 419 | Daring Fitclear |
+| 221 | 419 | Daring Fitclear |
+| 222 | 419 | John J. Cronin |
 | 223 | 416 | Jessica Sheehan |
 | 224 | 413 | Ananda Mendez |
 | 225 | 412 | Connie |
@@ -337,9 +337,9 @@
 | 329 | 317 | Zany Tiler |
 | 330 | 316 | Giggly Builderline |
 | 331 | 314 | Amh |
-| 332 | 312 | Michael |
+| 332 | 312 | Glitzy Curvebuilder |
 | 333 | 312 | Diane Byrd |
-| 334 | 312 | Glitzy Curvebuilder |
+| 334 | 312 | Michael |
 | 335 | 311 | Nathan Sealander |
 | 336 | 310 | Marci Sanders |
 | 337 | 308 | Shiny Gridmatch |

@@ -392,8 +392,8 @@
 | 384 | 386 | Philip Rock |
 | 385 | 386 | Dee Franklin |
 | 386 | 384 | Tiffany Davie |
-| 387 | 383 | Jessica Christian |
-| 388 | 383 | Kirhonda Autmon |
+| 387 | 383 | Kirhonda Autmon |
+| 388 | 383 | Jessica Christian |
 | 389 | 383 | Nikki White |
 | 390 | 382 | Rynne Ellis |
 | 391 | 380 | neci |
@@ -412,12 +412,12 @@
 | 404 | 370 | Geoffrey Nash |
 | 405 | 369 | Linda Draper |
 | 406 | 369 | Amber Glover |
-| 407 | 368 | Sheila M Frazier |
-| 408 | 368 | Tony Waters |
-| 409 | 368 | Stephanie Woods |
-| 410 | 368 | Nikki Pags |
-| 411 | 366 | Brittany |
-| 412 | 366 | Rick Poppen |
+| 407 | 368 | Tony Waters |
+| 408 | 368 | Sheila M Frazier |
+| 409 | 368 | Nikki Pags |
+| 410 | 368 | Stephanie Woods |
+| 411 | 366 | Rick Poppen |
+| 412 | 366 | Brittany |
 | 413 | 364 | Ashley Rufus Bythcez |
 | 414 | 363 | 4girls |
 | 415 | 362 | Brandon Givens |
