@@ -49,8 +49,8 @@
 | 41 | 1411 | Snappy Swiper |
 | 42 | 1405 | Chipper Gridlock |
 | 43 | 1391 | Aaron Garnett |
-| 44 | 1334 | june october |
-| 45 | 1334 | Tyler Alcock |
+| 44 | 1334 | Tyler Alcock |
+| 45 | 1334 | june october |
 | 46 | 1325 | Drew Magnus |
 | 47 | 1305 | Michelle Nicole |
 | 48 | 1290 | Spunky Piecebuilder |
@@ -162,8 +162,8 @@
 | 154 | 582 | Hellsin |
 | 155 | 581 | Jennifer Hardman |
 | 156 | 574 | Bouncy Grid |
-| 157 | 570 | Cody Slav |
-| 158 | 570 | Dee Perry |
+| 157 | 570 | Dee Perry |
+| 158 | 570 | Cody Slav |
 | 159 | 568 | Jason Savage |
 | 160 | 564 | Νεφ Όνυξ |
 | 161 | 562 | Timothy Danaher |
@@ -202,8 +202,8 @@
 | 194 | 496 | Sarah Somers Gray |
 | 195 | 496 | Michelle Beres |
 | 196 | 495 | Connie |
-| 197 | 494 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
-| 198 | 494 | Sean Stallings |
+| 197 | 494 | Sean Stallings |
+| 198 | 494 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 199 | 493 | Chuck Gannon |
 | 200 | 493 | Speedy Liney |
 | 201 | 492 | Happy Snapbuild |
@@ -211,8 +211,8 @@
 | 203 | 488 | Ly Phethmany |
 | 204 | 482 | Adele Rahman |
 | 205 | 479 | canbrick |
-| 206 | 478 | Jumpy Dropper |
-| 207 | 478 | Hasty Cascader |
+| 206 | 478 | Hasty Cascader |
+| 207 | 478 | Jumpy Dropper |
 | 208 | 477 | Dizzy Slider |
 | 209 | 475 | Reesey Enyart |
 | 210 | 473 | Tamara Brown |
@@ -355,8 +355,8 @@
 | 347 | 330 | Rebecca Apley Mielke |
 | 348 | 330 | LaFontaine Leslie |
 | 349 | 330 | Mandyy Rae |
-| 350 | 329 | Sarah Marie |
-| 351 | 329 | Larry Tilton |
+| 350 | 329 | Larry Tilton |
+| 351 | 329 | Sarah Marie |
 | 352 | 328 | Richard Corrado |
 | 353 | 327 | Christina Norman |
 | 354 | 327 | Amber Dee |
@@ -507,8 +507,8 @@
 | 499 | 251 | Randy Broadwater |
 | 500 | 251 | MRdot Rooski |
 | 501 | 250 | Emmarieta Mendez |
-| 502 | 249 | Toni Sagenbrecht |
-| 503 | 249 | GentleKitten7 |
+| 502 | 249 | GentleKitten7 |
+| 503 | 249 | Toni Sagenbrecht |
 | 504 | 249 | Sassy Towerer |
 | 505 | 248 | Bustin’ Blocks |
 | 506 | 248 | Carl Claunch |
@@ -564,11 +564,11 @@
 | 556 | 227 | Gilbert Ortiz Jr. |
 | 557 | 227 | MomOf2Angels |
 | 558 | 226 | Starseed |
-| 559 | 225 | Shiny Rotate |
-| 560 | 225 | Owicked1 |
-| 561 | 225 | Neely Janelle Stewart |
-| 562 | 225 | Mel Hogan |
-| 563 | 224 | Gerald Richard Franke |
+| 559 | 225 | Mel Hogan |
+| 560 | 225 | Neely Janelle Stewart |
+| 561 | 225 | Shiny Rotate |
+| 562 | 225 | Owicked1 |
+| 563 | 224 | Jake Mcnabb |
 | 564 | 224 | Dizzy Rackham |
 | 565 | 224 | Gerald Richard Franke |
 | 566 | 223 | Renata Mabie |
@@ -624,8 +624,8 @@
 | 616 | 205 | Davery Spencer Adair |
 | 617 | 205 | Alphonza Keyes Jr. |
 | 618 | 204 | Jill King Oldham |
-| 619 | 203 | Ashley Rodriguez |
-| 620 | 203 | MelSavage |
+| 619 | 203 | MelSavage |
+| 620 | 203 | Ashley Rodriguez |
 | 621 | 202 | grizzly |
 | 622 | 201 | Emily Wray |
 | 623 | 201 | Hector Cruz |
