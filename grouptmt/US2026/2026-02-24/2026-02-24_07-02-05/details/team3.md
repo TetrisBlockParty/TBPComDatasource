@@ -347,8 +347,8 @@
 | 339 | 471 | Sarah Moyer |
 | 340 | 467 | Jul |
 | 341 | 467 | Danielle Rhoades |
-| 342 | 465 | Blocked |
-| 343 | 465 | Noettín Kan Zasnemoore |
+| 342 | 465 | Noettín Kan Zasnemoore |
+| 343 | 465 | Blocked |
 | 344 | 464 | Snazzy Filler |
 | 345 | 462 | Brandon Givens |
 | 346 | 462 | Tegan Chapman |
