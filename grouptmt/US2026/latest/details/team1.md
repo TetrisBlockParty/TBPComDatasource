@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-24 23:46:22 UTC
+# Standings for team1 as of 2026-02-24 23:46:46 UTC
 
 **Total Participants:** 2346
 
@@ -1238,14 +1238,14 @@
 | 1230 | 93 | Jazzy Clicker |
 | 1231 | 93 | Jolly Basepiece |
 | 1232 | 93 | Peppy Cascade |
-| 1233 | 92 | RifterRoute |
-| 1234 | 92 | HIM |
-| 1235 | 92 | Ivan Reynolds |
-| 1236 | 92 | C McMurd |
-| 1237 | 92 | Grace Joanne Agnant |
-| 1238 | 92 | Amanda Belock Edmundson |
-| 1239 | 92 | BoneDaddy |
-| 1240 | 91 | Salih Atasoy |
+| 1233 | 92 | Salih Atasoy |
+| 1234 | 92 | RifterRoute |
+| 1235 | 92 | HIM |
+| 1236 | 92 | Ivan Reynolds |
+| 1237 | 92 | C McMurd |
+| 1238 | 92 | Grace Joanne Agnant |
+| 1239 | 92 | Amanda Belock Edmundson |
+| 1240 | 92 | BoneDaddy |
 | 1241 | 91 | Peachy Balanceblock |
 | 1242 | 91 | Marla Erin Salas |
 | 1243 | 91 | Nicole Marie |
@@ -1453,96 +1453,96 @@
 | 1445 | 66 | Vanessa G Keill |
 | 1446 | 66 | Lucy Moore |
 | 1447 | 66 | Cheeky Rollfit |
-| 1448 | 66 | Sean Behjani |
-| 1449 | 66 | Crystal Mock |
-| 1450 | 66 | Connie Matheney |
+| 1448 | 66 | Crystal Mock |
+| 1449 | 66 | Connie Matheney |
+| 1450 | 66 | Sean Behjani |
 | 1451 | 65 | Jessica Lang |
-| 1452 | 65 | Brian Mc Auley |
-| 1453 | 65 | Kayla |
-| 1454 | 65 | Stephanie Twoallbeefpattiez Johnson |
-| 1455 | 65 | Missy Anderson |
-| 1456 | 65 | Heidi Hile |
-| 1457 | 65 | Colton Samantha Lester |
-| 1458 | 65 | Jessica Kelsey |
-| 1459 | 64 | BlackberryCobbler |
-| 1460 | 64 | Hank |
-| 1461 | 64 | Jerred Hunter |
+| 1452 | 65 | Colton Samantha Lester |
+| 1453 | 65 | Jessica Kelsey |
+| 1454 | 65 | Missy Anderson |
+| 1455 | 65 | Kayla |
+| 1456 | 65 | Brian Mc Auley |
+| 1457 | 65 | Stephanie Twoallbeefpattiez Johnson |
+| 1458 | 65 | Heidi Hile |
+| 1459 | 64 | Cool Balancer |
+| 1460 | 64 | Brave Tiley |
+| 1461 | 64 | BlackberryCobbler |
 | 1462 | 64 | Home Plate |
-| 1463 | 64 | Jasmine Del Real Est |
-| 1464 | 64 | Brave Tiley |
-| 1465 | 64 | Giggy Crusher |
-| 1466 | 64 | Twisty Rollbuilder |
-| 1467 | 64 | Kimi Kay Anderson |
-| 1468 | 64 | Cool Balancer |
-| 1469 | 64 | madd |
+| 1463 | 64 | Kimi Kay Anderson |
+| 1464 | 64 | Jerred Hunter |
+| 1465 | 64 | madd |
+| 1466 | 64 | Giggy Crusher |
+| 1467 | 64 | Jasmine Del Real Est |
+| 1468 | 64 | Hank |
+| 1469 | 64 | Twisty Rollbuilder |
 | 1470 | 64 | Kenneth Ray Steiner |
-| 1471 | 63 | Shelley Dose |
-| 1472 | 63 | Lincon |
-| 1473 | 63 | Christa Payton |
-| 1474 | 63 | Shea Hall |
-| 1475 | 63 | Max R Eble |
-| 1476 | 63 | Elania Marie Degrez |
-| 1477 | 63 | Mike Kimes |
+| 1471 | 63 | Lincon |
+| 1472 | 63 | Goofy Blockroll |
+| 1473 | 63 | Max R Eble |
+| 1474 | 63 | Shelley Dose |
+| 1475 | 63 | Mike Kimes |
+| 1476 | 63 | Virginia Swank |
+| 1477 | 63 | Arthur James Watson |
 | 1478 | 63 | Witty Frame |
-| 1479 | 63 | Cari Brown Cady |
-| 1480 | 63 | Virginia Swank |
-| 1481 | 63 | Arthur James Watson |
-| 1482 | 63 | Darrell Mcdonnell |
-| 1483 | 62 | Shanetta Jacob Hannagan Johnson |
-| 1484 | 62 | Michael Campbell |
+| 1479 | 63 | Christa Payton |
+| 1480 | 63 | Shea Hall |
+| 1481 | 63 | Darrell Mcdonnell |
+| 1482 | 63 | Elania Marie Degrez |
+| 1483 | 63 | Cari Brown Cady |
+| 1484 | 62 | Julia Wilson |
 | 1485 | 62 | Rooster |
-| 1486 | 62 | Nerdy Rotator |
-| 1487 | 62 | Mitch |
-| 1488 | 62 | Hilda Silvers |
+| 1486 | 62 | Michael Campbell |
+| 1487 | 62 | Hilda Silvers |
+| 1488 | 62 | Shanetta Jacob Hannagan Johnson |
 | 1489 | 62 | Grant Halverson |
-| 1490 | 62 | Julia Wilson |
-| 1491 | 62 | Louie Ornelas |
-| 1492 | 62 | Kishi |
-| 1493 | 62 | Joshua Brymer |
-| 1494 | 61 | Jimmie |
-| 1495 | 61 | tiffanyfree |
-| 1496 | 61 | Chirpy Zoney |
+| 1490 | 62 | Louie Ornelas |
+| 1491 | 62 | Nerdy Rotator |
+| 1492 | 62 | Joshua Brymer |
+| 1493 | 62 | Mitch |
+| 1494 | 62 | Kishi |
+| 1495 | 61 | Jimmie |
+| 1496 | 61 | tiffanyfree |
 | 1497 | 61 | Perky Patternfall |
 | 1498 | 61 | Baddiebby |
-| 1499 | 61 | Karen Guy |
-| 1500 | 60 | Marcellus Royal |
+| 1499 | 61 | Chirpy Zoney |
+| 1500 | 61 | Karen Guy |
 | 1501 | 60 | Michael Akins |
-| 1502 | 60 | Scott Hevenor |
-| 1503 | 60 | Block attack |
-| 1504 | 60 | Bambi Cervidae |
-| 1505 | 60 | Samantha Netherly-Ratliff |
-| 1506 | 60 | Apex892 |
-| 1507 | 60 | Ron |
-| 1508 | 59 | Hoppy Snapgrid |
-| 1509 | 59 | Mia Ballard |
-| 1510 | 59 | Kaitlyn Sheldon |
-| 1511 | 59 | Eric Inniss |
-| 1512 | 59 | Loopy Shiftsnap |
-| 1513 | 59 | Chummy Tiltpiece |
-| 1514 | 58 | Lavon Usher |
-| 1515 | 58 | Goofy Blockroll |
+| 1502 | 60 | Marcellus Royal |
+| 1503 | 60 | Scott Hevenor |
+| 1504 | 60 | Block attack |
+| 1505 | 60 | Apex892 |
+| 1506 | 60 | Samantha Netherly-Ratliff |
+| 1507 | 60 | Bambi Cervidae |
+| 1508 | 60 | Ron |
+| 1509 | 59 | Hoppy Snapgrid |
+| 1510 | 59 | Mia Ballard |
+| 1511 | 59 | Kaitlyn Sheldon |
+| 1512 | 59 | Chummy Tiltpiece |
+| 1513 | 59 | Loopy Shiftsnap |
+| 1514 | 59 | Eric Inniss |
+| 1515 | 58 | Lavon Usher |
 | 1516 | 58 | Irina Varona |
 | 1517 | 58 | Tommy |
 | 1518 | 58 | Ry |
 | 1519 | 58 | Dart King |
 | 1520 | 58 | Snazzy Buildsnap |
 | 1521 | 57 | Syrano Casa |
-| 1522 | 57 | McMeow |
-| 1523 | 57 | Marie Wilson |
+| 1522 | 57 | Marie Wilson |
+| 1523 | 57 | McMeow |
 | 1524 | 57 | Mandy Dodson |
-| 1525 | 57 | Chipper Wipegrid |
-| 1526 | 57 | Justin Alberry |
-| 1527 | 57 | Kristye |
+| 1525 | 57 | Kristye |
+| 1526 | 57 | Chipper Wipegrid |
+| 1527 | 57 | Justin Alberry |
 | 1528 | 57 | Ashley Freeman |
-| 1529 | 56 | Tinamarie Ann Brown |
-| 1530 | 56 | Jess Ortiz |
-| 1531 | 56 | Zac Brubaker |
-| 1532 | 56 | Hasty Dropmatch |
-| 1533 | 56 | Blythe |
-| 1534 | 56 | GG Water |
+| 1529 | 56 | Eric Perry |
+| 1530 | 56 | Zac Brubaker |
+| 1531 | 56 | Hasty Dropmatch |
+| 1532 | 56 | Blythe |
+| 1533 | 56 | GG Water |
+| 1534 | 56 | Jess Ortiz |
 | 1535 | 56 | Amy Hoats |
-| 1536 | 56 | Eduk8ted Rednek |
-| 1537 | 56 | Eric Perry |
+| 1536 | 56 | Tinamarie Ann Brown |
+| 1537 | 56 | Eduk8ted Rednek |
 | 1538 | 56 | Terry Aldridge |
 | 1539 | 56 | Carlitos Faith Faith |
 | 1540 | 56 | Dreamy Patternfit |
