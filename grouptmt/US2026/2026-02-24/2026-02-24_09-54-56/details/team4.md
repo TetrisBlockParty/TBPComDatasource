@@ -138,8 +138,8 @@
 | 130 | 712 | Leslie Nicole |
 | 131 | 712 | H.R. Block |
 | 132 | 708 | Jacqueline Helm |
-| 133 | 704 | Austin Owens |
-| 134 | 704 | Chilly Crasher |
+| 133 | 704 | Chilly Crasher |
+| 134 | 704 | Austin Owens |
 | 135 | 687 | Carmethia Clemons Haslerig |
 | 136 | 682 | Raegan Lane-Ross |
 | 137 | 668 | Desi Desporte |
@@ -147,8 +147,8 @@
 | 139 | 667 | Swanky Fitline |
 | 140 | 667 | Lindsey Gonzalez |
 | 141 | 662 | Nerdy Twisterfit |
-| 142 | 661 | Rodney McMath Jr. |
-| 143 | 661 | shar |
+| 142 | 661 | shar |
+| 143 | 661 | Rodney McMath Jr. |
 | 144 | 651 | Adawna Swires |
 | 145 | 650 | Chris Hartig |
 | 146 | 647 | KM8 |
@@ -169,8 +169,8 @@
 | 161 | 602 | Cristy Duerksen |
 | 162 | 595 | TRCuse |
 | 163 | 587 | YoMomma |
-| 164 | 586 | Latisha Davis |
-| 165 | 586 | Carlos Ramirez |
+| 164 | 586 | Carlos Ramirez |
+| 165 | 586 | Latisha Davis |
 | 166 | 585 | Tracey Lehmann |
 | 167 | 584 | Carlton Unfiltered |
 | 168 | 582 | Shiny Fit |
@@ -240,15 +240,15 @@
 | 232 | 460 | Kathy Brookins |
 | 233 | 458 | Kristina Black |
 | 234 | 458 | Luis Martinez |
-| 235 | 457 | Kristin Manee |
-| 236 | 457 | J-Rizzle |
+| 235 | 457 | J-Rizzle |
+| 236 | 457 | Kristin Manee |
 | 237 | 455 | Michele Plunkett |
 | 238 | 454 | Keshia Lyons |
 | 239 | 454 | David Lay |
 | 240 | 450 | Genne Scott |
 | 241 | 449 | Danielle Kollias |
-| 242 | 448 | Mike Solo |
-| 243 | 448 | Mr. Party |
+| 242 | 448 | Mr. Party |
+| 243 | 448 | Mike Solo |
 | 244 | 447 | Jen Mattei |
 | 245 | 446 | Damn Libra |
 | 246 | 444 | Selena Shaw |
@@ -262,9 +262,9 @@
 | 254 | 431 | Brickh4us |
 | 255 | 430 | 030Synner |
 | 256 | 428 | Gdiguy |
-| 257 | 427 | Chao Ma |
+| 257 | 427 | Cheery Risebuilder |
 | 258 | 427 | Jeff Brian Gates |
-| 259 | 427 | Cheery Risebuilder |
+| 259 | 427 | Chao Ma |
 | 260 | 424 | Andrew Dang |
 | 261 | 421 | JIGsaw ~(•¿°)~ |
 | 262 | 419 | Hyper Matchclear |
@@ -290,8 +290,8 @@
 | 282 | 392 | Neirrah B Olailjeel |
 | 283 | 391 | mike |
 | 284 | 390 | Ari Droff |
-| 285 | 387 | Sandra Safford |
-| 286 | 387 | Backoff Recupe |
+| 285 | 387 | Backoff Recupe |
+| 286 | 387 | Sandra Safford |
 | 287 | 386 | Vic |
 | 288 | 382 | Sue Joyce Staats |
 | 289 | 380 | Chaz |
@@ -320,8 +320,8 @@
 | 312 | 354 | Crystal Lynn |
 | 313 | 354 | Perky Piecegrid |
 | 314 | 352 | Kate |
-| 315 | 351 | Jackie Clark |
-| 316 | 351 | Dana Scott |
+| 315 | 351 | Dana Scott |
+| 316 | 351 | Jackie Clark |
 | 317 | 350 | Dizzy Matchzone |
 | 318 | 349 | Richard-April Kice |
 | 319 | 349 | jim |
@@ -503,8 +503,8 @@
 | 495 | 242 | Badatvs |
 | 496 | 242 | PurpleMoonMa |
 | 497 | 241 | Katherine Crane |
-| 498 | 240 | Orchislactea |
-| 499 | 240 | Zany Shatterer |
+| 498 | 240 | Zany Shatterer |
+| 499 | 240 | Orchislactea |
 | 500 | 239 | Krash |
 | 501 | 239 | Christina Nabrizny |
 | 502 | 238 | Mary Miller |

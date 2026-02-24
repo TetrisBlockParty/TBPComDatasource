@@ -83,8 +83,8 @@
 | 75 | 1633 | cowboy25469 |
 | 76 | 1625 | Queen Kam |
 | 77 | 1615 | joclisa |
-| 78 | 1566 | Nerdy Riseclear |
-| 79 | 1566 | Marcie Bressler |
+| 78 | 1566 | Marcie Bressler |
+| 79 | 1566 | Nerdy Riseclear |
 | 80 | 1560 | Logan Naccarato |
 | 81 | 1555 | Snappy Glidepiece |
 | 82 | 1518 | Christine Filson |
@@ -111,8 +111,8 @@
 | 103 | 1309 | yoyo |
 | 104 | 1297 | Shelby Michelle |
 | 105 | 1290 | JerseyJess |
-| 106 | 1282 | Peppy Shifter |
-| 107 | 1282 | Amanda L Baker |
+| 106 | 1282 | Amanda L Baker |
+| 107 | 1282 | Peppy Shifter |
 | 108 | 1276 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1248 | Lori Barnaby |
@@ -126,8 +126,8 @@
 | 118 | 1134 | Melissa Orth Hunter |
 | 119 | 1124 | Stephanie Rice |
 | 120 | 1121 | Corie A. Brinson |
-| 121 | 1114 | Groovy Catcher |
-| 122 | 1114 | Loopy Fallmatch |
+| 121 | 1114 | Loopy Fallmatch |
+| 122 | 1114 | Groovy Catcher |
 | 123 | 1105 | Adrian Marcel Pate |
 | 124 | 1093 | Angela M. Fletcher |
 | 125 | 1091 | Jennifer |
@@ -217,8 +217,8 @@
 | 209 | 760 | Kiki |
 | 210 | 759 | Mykal Burton |
 | 211 | 757 | Fancy Cascader |
-| 212 | 755 | Laura Booth Wosko |
-| 213 | 755 | Colton |
+| 212 | 755 | Colton |
+| 213 | 755 | Laura Booth Wosko |
 | 214 | 754 | CeceGeGe |
 | 215 | 753 | Morgan Martinez |
 | 216 | 752 | Joye Sims Binion |
@@ -260,8 +260,8 @@
 | 252 | 639 | Nichol Graham |
 | 253 | 637 | Giddy Twistbuilder |
 | 254 | 635 | Amber Hughes |
-| 255 | 633 | Rebecca Funderburk Kirby |
-| 256 | 633 | Jillian Symons |
+| 255 | 633 | Jillian Symons |
+| 256 | 633 | Rebecca Funderburk Kirby |
 | 257 | 632 | Rebecca Bailey |
 | 258 | 630 | Jackie Miller |
 | 259 | 629 | rnr junky |
@@ -290,8 +290,8 @@
 | 282 | 582 | FuzzyNavel |
 | 283 | 581 | Crystal Hine |
 | 284 | 578 | James Mitchell |
-| 285 | 574 | Danielle Balcom |
-| 286 | 574 | Rachael McClain Owens |
+| 285 | 574 | Rachael McClain Owens |
+| 286 | 574 | Danielle Balcom |
 | 287 | 572 | Tessina Dewey-Mancino |
 | 288 | 570 | thekey |
 | 289 | 569 | Silly Twist |
@@ -310,8 +310,8 @@
 | 302 | 547 | Aerian Preston |
 | 303 | 542 | France Vézina |
 | 304 | 541 | Mcathen |
-| 305 | 540 | rosy |
-| 306 | 540 | Tanya Kittrell |
+| 305 | 540 | Tanya Kittrell |
+| 306 | 540 | rosy |
 | 307 | 539 | Fancy Curver |
 | 308 | 539 | Kate M. Murdock |
 | 309 | 538 | Chummy Caster |
@@ -335,12 +335,12 @@
 | 327 | 494 | MCV |
 | 328 | 494 | fraulila |
 | 329 | 492 | Tasha Wesson-Torrence |
-| 330 | 490 | TotoCherue |
-| 331 | 490 | Cassandra Bryant |
+| 330 | 490 | Cassandra Bryant |
+| 331 | 490 | TotoCherue |
 | 332 | 489 | Isabel Ocasio |
 | 333 | 487 | MsBee |
-| 334 | 486 | Skippy |
-| 335 | 486 | Sleepy |
+| 334 | 486 | Sleepy |
+| 335 | 486 | Skippy |
 | 336 | 483 | Tegan Chapman |
 | 337 | 482 | Chummy Rumbler |
 | 338 | 480 | TLM |
@@ -410,8 +410,8 @@
 | 402 | 413 | Rick Poppen |
 | 403 | 411 | Beaudie Stroebel |
 | 404 | 409 | Rich LeBlanc |
-| 405 | 408 | Ashley Muncey |
-| 406 | 408 | Tiffany Ford |
+| 405 | 408 | Tiffany Ford |
+| 406 | 408 | Ashley Muncey |
 | 407 | 407 | Christina Spa |
 | 408 | 406 | Kristen Weese |
 | 409 | 405 | Andrew Thorson |
@@ -428,8 +428,8 @@
 | 420 | 394 | Jalissa Monique |
 | 421 | 392 | Linda Draper |
 | 422 | 392 | Michelle Allers |
-| 423 | 391 | gremicx |
-| 424 | 391 | Rebel124 |
+| 423 | 391 | Rebel124 |
+| 424 | 391 | gremicx |
 | 425 | 390 | ROODBOY |
 | 426 | 389 | Amanda J. Mcneil-Anderson |
 | 427 | 389 | Kirhonda Autmon |
@@ -453,8 +453,8 @@
 | 445 | 376 | Tracy Martin |
 | 446 | 376 | Romeo |
 | 447 | 375 | NeeCee |
-| 448 | 375 | Spencer Nikki |
-| 449 | 375 | Denise Marie |
+| 448 | 375 | Denise Marie |
+| 449 | 375 | Spencer Nikki |
 | 450 | 373 | Bekah Dietrich |
 | 451 | 373 | Nikki Pags |
 | 452 | 369 | Hoppy Buildout |
@@ -496,7 +496,7 @@
 | 488 | 351 | Eon Harris |
 | 489 | 351 | Nelma |
 | 490 | 349 | Eboni Starr |
-| 491 | 348 | Ashley Raines |
+| 491 | 348 | Jimmie Clemons |
 | 492 | 348 | atomictrin |
 | 493 | 348 | Ashley Raines |
 | 494 | 345 | Big T |
@@ -515,7 +515,7 @@
 | 507 | 340 | Bleu Sun Beams |
 | 508 | 340 | Loony Slider |
 | 509 | 340 | Erika Thornton |
-| 510 | 340 | Loony Slider |
+| 510 | 340 | Kerry Nowickshere |
 | 511 | 339 | Evelyn Ortega |
 | 512 | 337 | Mindy Phelps |
 | 513 | 337 | Blair Erin Waite |
@@ -579,7 +579,7 @@
 | 571 | 316 | Tia Moore |
 | 572 | 316 | Aponk |
 | 573 | 315 | Amy Montz |
-| 574 | 314 | Rachel Napper |
+| 574 | 314 | toony |
 | 575 | 314 | Cranky Corner |
 | 576 | 314 | Rachel Napper |
 | 577 | 313 | Emberblaze |
