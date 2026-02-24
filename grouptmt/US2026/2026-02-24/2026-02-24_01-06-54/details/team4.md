@@ -107,8 +107,8 @@
 | 99 | 779 | Nope Young |
 | 100 | 775 | Klo |
 | 101 | 775 | TheNeesh50 |
-| 102 | 768 | Trista Leah |
-| 103 | 768 | Judy Cox |
+| 102 | 768 | Judy Cox |
+| 103 | 768 | Trista Leah |
 | 104 | 766 | Robin Watters |
 | 105 | 764 | Valerie Roberts |
 | 106 | 760 | Keith Kelley |

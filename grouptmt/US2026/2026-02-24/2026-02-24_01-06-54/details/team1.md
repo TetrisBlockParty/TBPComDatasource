@@ -188,8 +188,8 @@
 | 180 | 470 | Candy Jones |
 | 181 | 468 | Steve Schneider |
 | 182 | 464 | canbrick |
-| 183 | 463 | Brandi Huntington |
-| 184 | 463 | Nicole Roseberry Weber |
+| 183 | 463 | Nicole Roseberry Weber |
+| 184 | 463 | Brandi Huntington |
 | 185 | 462 | Hasty Cascader |
 | 186 | 458 | Dizzy Slider |
 | 187 | 458 | Goose egg |
@@ -521,7 +521,7 @@
 | 513 | 208 | Megan Kradzinski Ferguson |
 | 514 | 208 | Gerald Richard Franke |
 | 515 | 208 | Donna Addison Williams |
-| 516 | 208 | Megan Kradzinski Ferguson |
+| 516 | 208 | Jason Landon Sexton |
 | 517 | 207 | Leslie Bush Yarbrough |
 | 518 | 206 | Matt Cinelli |
 | 519 | 206 | Mindy Gloska |
