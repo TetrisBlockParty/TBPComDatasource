@@ -110,13 +110,13 @@
 | 102 | 773 | Susanna Guerry |
 | 103 | 772 | Kathy Langham |
 | 104 | 770 | Zappy Curvetile |
-| 105 | 769 | Robert Benito |
-| 106 | 769 | Angel Fowler |
+| 105 | 769 | Angel Fowler |
+| 106 | 769 | Robert Benito |
 | 107 | 768 | Jazzy Framezone |
 | 108 | 761 | Karin Gillen |
 | 109 | 751 | Kellie |
-| 110 | 725 | Debbie Kane |
-| 111 | 725 | Phu ckalldems |
+| 110 | 725 | Phu ckalldems |
+| 111 | 725 | Debbie Kane |
 | 112 | 719 | Bindi |
 | 113 | 716 | Kristi Johnson |
 | 114 | 706 | Plucky Fallzone |
@@ -202,8 +202,8 @@
 | 194 | 488 | Ly Phethmany |
 | 195 | 487 | Eric DeSimone |
 | 196 | 479 | canbrick |
-| 197 | 478 | Hasty Cascader |
-| 198 | 478 | Jumpy Dropper |
+| 197 | 478 | Jumpy Dropper |
+| 198 | 478 | Hasty Cascader |
 | 199 | 475 | Reesey Enyart |
 | 200 | 473 | Chuck Gannon |
 | 201 | 472 | Dizzy Slider |
@@ -284,12 +284,12 @@
 | 276 | 374 | Snappy Brickbuilder |
 | 277 | 373 | Frothy Pattern |
 | 278 | 372 | Chantelle Ceno |
-| 279 | 372 | Wayne Saunders |
-| 280 | 372 | Dizzy Party |
+| 279 | 372 | Dizzy Party |
+| 280 | 372 | Wayne Saunders |
 | 281 | 371 | Jaimie Lynn |
 | 282 | 370 | Gracie |
-| 283 | 367 | April Jones |
-| 284 | 367 | Cheeky Pop |
+| 283 | 367 | Cheeky Pop |
+| 284 | 367 | April Jones |
 | 285 | 366 | J.F. Fields |
 | 286 | 366 | Danielle S Kester |
 | 287 | 365 | Shannon Marie Pitts |
@@ -306,8 +306,8 @@
 | 298 | 360 | Tyler Hertzog |
 | 299 | 359 | Rodney Schmerfeld |
 | 300 | 358 | Keith Mathis |
-| 301 | 356 | Dawn Michelle Scheible |
-| 302 | 356 | build master |
+| 301 | 356 | build master |
+| 302 | 356 | Dawn Michelle Scheible |
 | 303 | 355 | Shanae Grant |
 | 304 | 354 | Kimberly Davis |
 | 305 | 353 | Josh Riemer |

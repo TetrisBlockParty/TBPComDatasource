@@ -158,8 +158,8 @@
 | 150 | 615 | Kim Hunt |
 | 151 | 608 | Swanky Fitline |
 | 152 | 602 | Cristy Duerksen |
-| 153 | 599 | shar |
-| 154 | 599 | Adam Stephanie Parker |
+| 153 | 599 | Adam Stephanie Parker |
+| 154 | 599 | shar |
 | 155 | 595 | TRCuse |
 | 156 | 591 | Cursed Hag |
 | 157 | 590 | Angela Srubar-Norman |
@@ -210,8 +210,8 @@
 | 202 | 502 | Ericca Eldridge |
 | 203 | 501 | Sharyn Lemire |
 | 204 | 499 | Kesha Brady |
-| 205 | 496 | Lori |
-| 206 | 496 | Jessica Bohlken |
+| 205 | 496 | Jessica Bohlken |
+| 206 | 496 | Lori |
 | 207 | 495 | Joeliecea Cobb |
 | 208 | 493 | Amanda Pauldo-Ivy |
 | 209 | 491 | Manny1 |

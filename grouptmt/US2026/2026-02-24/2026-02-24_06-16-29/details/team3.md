@@ -104,8 +104,8 @@
 | 96 | 1361 | Patricia Gadsden |
 | 97 | 1343 | Joey Banks |
 | 98 | 1320 | Kristie |
-| 99 | 1318 | Tiff Vs Tiffany |
-| 100 | 1318 | Diana Ibarra |
+| 99 | 1318 | Diana Ibarra |
+| 100 | 1318 | Tiff Vs Tiffany |
 | 101 | 1309 | yoyo |
 | 102 | 1297 | Shelby Michelle |
 | 103 | 1290 | JerseyJess |
@@ -220,8 +220,8 @@
 | 212 | 733 | Annie Marie |
 | 213 | 732 | Angela Scott |
 | 214 | 731 | Samantha Greco |
-| 215 | 729 | CeceGeGe |
-| 216 | 729 | Lizabeth Fox |
+| 215 | 729 | Lizabeth Fox |
+| 216 | 729 | CeceGeGe |
 | 217 | 715 | Karon Griffin |
 | 218 | 714 | Jenny Hrndz |
 | 219 | 713 | Stephanie Blkpep Davidson |
@@ -264,8 +264,8 @@
 | 256 | 604 | Bmo |
 | 257 | 604 | Sherry Ogden |
 | 258 | 601 | Betty Rosas |
-| 259 | 600 | Connie Mohler-Fair |
-| 260 | 600 | Natasha Jones |
+| 259 | 600 | Natasha Jones |
+| 260 | 600 | Connie Mohler-Fair |
 | 261 | 599 | Noyb Adam |
 | 262 | 598 | Kaycee Kay |
 | 263 | 594 | Cozy Snaplink |
@@ -276,8 +276,8 @@
 | 268 | 582 | FuzzyNavel |
 | 269 | 578 | Kaitie Oliver |
 | 270 | 578 | James Mitchell |
-| 271 | 574 | Rachael McClain Owens |
-| 272 | 574 | Danielle Balcom |
+| 271 | 574 | Danielle Balcom |
+| 272 | 574 | Rachael McClain Owens |
 | 273 | 572 | Tessina Dewey-Mancino |
 | 274 | 570 | thekey |
 | 275 | 570 | Fallorina Susana |
@@ -309,8 +309,8 @@
 | 301 | 527 | Crystal Hine |
 | 302 | 527 | Dapper Snap |
 | 303 | 527 | Heather Davis |
-| 304 | 523 | Ktfreeee |
-| 305 | 521 | Crystal Hine |
+| 304 | 527 | Chummy Caster |
+| 305 | 523 | Ktfreeee |
 | 306 | 518 | Marquita Sheard |
 | 307 | 517 | PrncssPJ |
 | 308 | 514 | Nikki White |
@@ -437,8 +437,8 @@
 | 429 | 375 | NeeCee |
 | 430 | 375 | Denise Marie |
 | 431 | 370 | Roary Danner |
-| 432 | 369 | Hoppy Buildout |
-| 433 | 369 | Amber Glover |
+| 432 | 369 | Amber Glover |
+| 433 | 369 | Hoppy Buildout |
 | 434 | 369 | Bekah Dietrich |
 | 435 | 368 | Sheila M Frazier |
 | 436 | 368 | Tony Waters |
