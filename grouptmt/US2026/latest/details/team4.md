@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-24 21:30:42 UTC
+# Standings for team4 as of 2026-02-24 21:31:23 UTC
 
 **Total Participants:** 2088
 
@@ -44,7 +44,7 @@
 | 36 | 1677 | Tammi Crnza |
 | 37 | 1673 | Cassie Michaux |
 | 38 | 1655 | Cherrish Duren |
-| 39 | 1645 | Koshin Abdirahman |
+| 39 | 1647 | Koshin Abdirahman |
 | 40 | 1631 | Goatimus Lombardi |
 | 41 | 1621 | Shane Kalamata Platoon |
 | 42 | 1616 | Dee Kay |
@@ -256,9 +256,9 @@
 | 248 | 478 | Jolly Dashfit |
 | 249 | 478 | Cheery Risebuilder |
 | 250 | 477 | mike |
-| 251 | 475 | 23 |
-| 252 | 475 | Jen Mattei |
-| 253 | 475 | Chris Bernstein |
+| 251 | 475 | Chris Bernstein |
+| 252 | 475 | 23 |
+| 253 | 475 | Jen Mattei |
 | 254 | 472 | Crystal Nicolette Moore |
 | 255 | 470 | Marcus Todd |
 | 256 | 470 | Zakia Monae |
@@ -274,17 +274,17 @@
 | 266 | 449 | Danielle Kollias |
 | 267 | 448 | Mike Solo |
 | 268 | 448 | Alan Zukowski |
-| 269 | 444 | Selena Shaw |
-| 270 | 444 | Twisty Cascadezone |
+| 269 | 444 | Twisty Cascadezone |
+| 270 | 444 | Selena Shaw |
 | 271 | 444 | Rafael Valentin |
-| 272 | 442 | Blessedmama |
-| 273 | 441 | Lush Linkfall |
-| 274 | 440 | Autumn Kumzi |
-| 275 | 440 | Lee Silpe |
-| 276 | 440 | 030Synner |
-| 277 | 438 | Jeff Brian Gates |
-| 278 | 437 | Sandra Safford |
-| 279 | 435 | Twisty Risebuilder |
+| 272 | 443 | Twisty Risebuilder |
+| 273 | 442 | Blessedmama |
+| 274 | 441 | Lush Linkfall |
+| 275 | 440 | Autumn Kumzi |
+| 276 | 440 | Lee Silpe |
+| 277 | 440 | 030Synner |
+| 278 | 438 | Jeff Brian Gates |
+| 279 | 437 | Sandra Safford |
 | 280 | 435 | KimoKoala |
 | 281 | 434 | Ramel Rhodes |
 | 282 | 433 | Backoff Recupe |
@@ -293,9 +293,9 @@
 | 285 | 429 | Hyper Builder |
 | 286 | 428 | Gdiguy |
 | 287 | 427 | Chao Ma |
-| 288 | 426 | Tina Lopez |
-| 289 | 426 | Maria Hammie |
-| 290 | 426 | Andrew Dang |
+| 288 | 426 | Maria Hammie |
+| 289 | 426 | Andrew Dang |
+| 290 | 426 | Tina Lopez |
 | 291 | 425 | Jen Caldwell |
 | 292 | 422 | Jess Reyes |
 | 293 | 421 | JIGsaw ~(•¿°)~ |
@@ -303,22 +303,22 @@
 | 295 | 420 | Kenna Gunderland |
 | 296 | 419 | Nubian1 |
 | 297 | 418 | Jessica Fredericks |
-| 298 | 417 | Denise B |
-| 299 | 417 | Cynthia Boudreau |
+| 298 | 417 | Cynthia Boudreau |
+| 299 | 417 | Denise B |
 | 300 | 416 | Googenheim |
-| 301 | 413 | Neirrah B Olailjeel |
-| 302 | 413 | Michael Snow |
+| 301 | 413 | Michael Snow |
+| 302 | 413 | Neirrah B Olailjeel |
 | 303 | 413 | Tawna Curry |
 | 304 | 411 | Bradley Reeves |
-| 305 | 411 | Vic |
-| 306 | 411 | Snippy Puzzle |
+| 305 | 411 | Snippy Puzzle |
+| 306 | 411 | Vic |
 | 307 | 410 | Lora |
 | 308 | 410 | Lindsay Ball |
 | 309 | 409 | Antony Dwayne Beasley |
 | 310 | 408 | Dihcheese444 |
 | 311 | 408 | Jason Frehner |
-| 312 | 407 | blockstar |
-| 313 | 407 | Allison Rose |
+| 312 | 407 | Allison Rose |
+| 313 | 407 | blockstar |
 | 314 | 406 | Zethra Prenisha Rahming |
 | 315 | 405 | ZeeZee |
 | 316 | 404 | Dizzy Matchzone |
@@ -398,11 +398,11 @@
 | 390 | 342 | Chance Strickland |
 | 391 | 340 | Juls |
 | 392 | 339 | River Shady Sr. |
-| 393 | 338 | Kim Klutz Olson |
-| 394 | 338 | Jumpy Zonepiece |
-| 395 | 336 | Walter Beltran |
-| 396 | 336 | Stella |
-| 397 | 334 | Chummy Towerzone |
+| 393 | 338 | Chummy Towerzone |
+| 394 | 338 | Kim Klutz Olson |
+| 395 | 338 | Jumpy Zonepiece |
+| 396 | 336 | Walter Beltran |
+| 397 | 336 | Stella |
 | 398 | 334 | Stephme310 |
 | 399 | 334 | rebel4lyfe |
 | 400 | 333 | Dustin York |
@@ -471,8 +471,8 @@
 | 463 | 290 | Adrian Pawlusinski |
 | 464 | 288 | Michael Orris |
 | 465 | 288 | Sallie Sanborn |
-| 466 | 288 | Jesse Saville |
-| 467 | 287 | Bonnie Hurlbrink |
+| 466 | 288 | Bonnie Hurlbrink |
+| 467 | 288 | Jesse Saville |
 | 468 | 285 | Thomas Hettenhaus |
 | 469 | 284 | Hector Duran |
 | 470 | 284 | Ryry |
@@ -583,28 +583,28 @@
 | 575 | 236 | Melissa VanBourgondien |
 | 576 | 235 | Shirl |
 | 577 | 235 | Mighty Edgepiece |
-| 578 | 235 | Petty |
-| 579 | 235 | LaDonna LovinmesomeMe Lambert |
-| 580 | 234 | Nicole Serio |
-| 581 | 234 | B Renee Desjardin |
-| 582 | 234 | Darrin Rubalcava |
-| 583 | 234 | Lou Ie |
-| 584 | 233 | Robert Rodriguez |
-| 585 | 233 | Wacky Blockclear |
-| 586 | 233 | Stacy |
-| 587 | 233 | sgt baby |
-| 588 | 233 | Heidi Jo Hill |
-| 589 | 232 | Brad Campbell |
+| 578 | 235 | Brad Campbell |
+| 579 | 235 | Petty |
+| 580 | 235 | LaDonna LovinmesomeMe Lambert |
+| 581 | 234 | Nicole Serio |
+| 582 | 234 | B Renee Desjardin |
+| 583 | 234 | Darrin Rubalcava |
+| 584 | 234 | Lou Ie |
+| 585 | 233 | Robert Rodriguez |
+| 586 | 233 | Wacky Blockclear |
+| 587 | 233 | Stacy |
+| 588 | 233 | sgt baby |
+| 589 | 233 | Heidi Jo Hill |
 | 590 | 232 | Dandy Cascadefit |
 | 591 | 231 | Rebecca A Rit |
 | 592 | 231 | Shane Vick |
 | 593 | 231 | Loony Rotater |
 | 594 | 229 | Peppy Drop |
 | 595 | 229 | Brandon Link |
-| 596 | 229 | Dante Korleon |
-| 597 | 229 | Melissa Priest Sellers |
+| 596 | 229 | Marco |
+| 597 | 229 | Dante Korleon |
 | 598 | 229 | Rebecca Blake |
-| 599 | 229 | Marco |
+| 599 | 229 | Melissa Priest Sellers |
 | 600 | 229 | Flashy Jumper |
 | 601 | 228 | Katie McCabe |
 | 602 | 228 | Jesus Garcia |
@@ -979,21 +979,21 @@
 | 971 | 121 | Frothy Patterner |
 | 972 | 121 | Sadie Rae Ryan |
 | 973 | 121 | Cozy Balanceblock |
-| 974 | 120 | Serena Butter |
-| 975 | 120 | Alee Marie |
-| 976 | 120 | Jesse Jamez Crater |
-| 977 | 120 | mistresscoundrl1 |
-| 978 | 120 | Kris Johnson |
-| 979 | 120 | Zappy Snaplink |
-| 980 | 119 | Calen Torez |
-| 981 | 119 | Clever Breaker |
-| 982 | 119 | Keri Hough |
-| 983 | 119 | Michelle Parker |
-| 984 | 118 | Kristen Rittall |
-| 985 | 118 | Frisky Column |
-| 986 | 118 | MoP11 |
-| 987 | 118 | Cashmere |
-| 988 | 118 | Loony Slider |
+| 974 | 120 | Loony Slider |
+| 975 | 120 | Serena Butter |
+| 976 | 120 | Alee Marie |
+| 977 | 120 | Jesse Jamez Crater |
+| 978 | 120 | mistresscoundrl1 |
+| 979 | 120 | Kris Johnson |
+| 980 | 120 | Zappy Snaplink |
+| 981 | 119 | Calen Torez |
+| 982 | 119 | Clever Breaker |
+| 983 | 119 | Keri Hough |
+| 984 | 119 | Michelle Parker |
+| 985 | 118 | Kristen Rittall |
+| 986 | 118 | Frisky Column |
+| 987 | 118 | MoP11 |
+| 988 | 118 | Cashmere |
 | 989 | 117 | Matt Narcisse |
 | 990 | 117 | Snappy Bouncer |
 | 991 | 117 | MzChocolate |
