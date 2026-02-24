@@ -188,8 +188,8 @@
 | 180 | 492 | Happy Snapbuild |
 | 181 | 490 | Jennifer Hardman |
 | 182 | 489 | Speedy Liney |
-| 183 | 488 | Hyper |
-| 184 | 488 | Ly Phethmany |
+| 183 | 488 | Ly Phethmany |
+| 184 | 488 | Hyper |
 | 185 | 487 | Eric DeSimone |
 | 186 | 484 | Jason Cox |
 | 187 | 479 | Snappy Matcher |
@@ -416,8 +416,8 @@
 | 408 | 271 | Amanda Wharton |
 | 409 | 271 | Patty Lavigne Craddock |
 | 410 | 271 | Al Smith Jr |
-| 411 | 270 | Ariel Whittington |
-| 412 | 270 | Brenda Alexander |
+| 411 | 270 | Brenda Alexander |
+| 412 | 270 | Ariel Whittington |
 | 413 | 269 | Ramona Shaver |
 | 414 | 268 | Debbie Davis |
 | 415 | 265 | Cranky Pattern |

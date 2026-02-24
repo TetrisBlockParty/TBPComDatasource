@@ -95,8 +95,8 @@
 | 87 | 851 | Jason Hart |
 | 88 | 850 | Lucille Truesdale |
 | 89 | 846 | Christine Marie |
-| 90 | 841 | Shauna Havard |
-| 91 | 841 | Judy Cox |
+| 90 | 841 | Judy Cox |
+| 91 | 841 | Shauna Havard |
 | 92 | 840 | Chaz Duncan |
 | 93 | 834 | quicksand420 |
 | 94 | 826 | Rica Mitchell |
@@ -147,8 +147,8 @@
 | 139 | 620 | Porkobello |
 | 140 | 616 | Samantha Peterson |
 | 141 | 615 | Kim Hunt |
-| 142 | 615 | Ernest Maxwell |
-| 143 | 615 | Angelito |
+| 142 | 615 | Angelito |
+| 143 | 615 | Ernest Maxwell |
 | 144 | 611 | Chris Baggett |
 | 145 | 608 | Swanky Fitline |
 | 146 | 602 | Cristy Duerksen |
@@ -164,8 +164,8 @@
 | 156 | 578 | Livvy |
 | 157 | 576 | Jade Rian |
 | 158 | 575 | Jenna Ingersoll |
-| 159 | 574 | Carmethia Clemons Haslerig |
-| 160 | 574 | Carlos Ramirez |
+| 159 | 574 | Carlos Ramirez |
+| 160 | 574 | Carmethia Clemons Haslerig |
 | 161 | 567 | Rico |
 | 162 | 565 | Ren Mc |
 | 163 | 560 | Chastity Mitchell |
@@ -197,7 +197,7 @@
 | 189 | 504 | Deanna Deckard |
 | 190 | 502 | Ericca Eldridge |
 | 191 | 500 | Milan Markeisha |
-| 192 | 499 | Kesha Brady |
+| 192 | 499 | Sharyn Lemire |
 | 193 | 499 | Christina Black |
 | 194 | 499 | Kesha Brady |
 | 195 | 496 | Cindy Looper |
@@ -249,8 +249,8 @@
 | 241 | 413 | Jeff Brian Gates |
 | 242 | 411 | Autumn Kumzi |
 | 243 | 410 | Lindsay Ball |
-| 244 | 409 | Antony Dwayne Beasley |
-| 245 | 409 | Joseph Guthrie |
+| 244 | 409 | Joseph Guthrie |
+| 245 | 409 | Antony Dwayne Beasley |
 | 246 | 408 | Lauren Scott |
 | 247 | 406 | TinyLegoRose |
 | 248 | 400 | Brickh4us |
@@ -332,10 +332,10 @@
 | 324 | 318 | Russ Attitude |
 | 325 | 317 | Madison Sweere |
 | 326 | 315 | Juls |
-| 327 | 314 | Kenna Gunderland |
-| 328 | 314 | KoolMom9907 |
-| 329 | 314 | Marcus TheeyoungWoe Gilmore |
-| 330 | 314 | Paige Kittles |
+| 327 | 314 | Marcus TheeyoungWoe Gilmore |
+| 328 | 314 | Paige Kittles |
+| 329 | 314 | Kenna Gunderland |
+| 330 | 314 | KoolMom9907 |
 | 331 | 313 | DonMega |
 | 332 | 312 | Tawna Curry |
 | 333 | 311 | Laura |
@@ -356,8 +356,8 @@
 | 348 | 297 | Brittany Marsh |
 | 349 | 297 | Jackie Clark |
 | 350 | 296 | Zethra Prenisha Rahming |
-| 351 | 295 | Deb Rubeck |
-| 352 | 295 | Cool Gridzone |
+| 351 | 295 | Cool Gridzone |
+| 352 | 295 | Deb Rubeck |
 | 353 | 294 | BootsMcGee |
 | 354 | 294 | Dan Wold |
 | 355 | 293 | Jim Hart |
@@ -557,8 +557,8 @@
 | 549 | 201 | Andrea Gallagher |
 | 550 | 200 | Frances Hui |
 | 551 | 199 | Eri Kka |
-| 552 | 197 | Loony Rotater |
-| 553 | 197 | Brian Owens |
+| 552 | 197 | Brian Owens |
+| 553 | 197 | Loony Rotater |
 | 554 | 196 | Julie McAfoos Swanson |
 | 555 | 195 | Tabi Williams |
 | 556 | 195 | Christine Simmons |
