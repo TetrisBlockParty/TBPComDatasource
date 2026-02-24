@@ -216,8 +216,8 @@
 | 208 | 502 | Ericca Eldridge |
 | 209 | 501 | Sharyn Lemire |
 | 210 | 499 | Kesha Brady |
-| 211 | 496 | Jessica Bohlken |
-| 212 | 496 | Lori |
+| 211 | 496 | Lori |
+| 212 | 496 | Jessica Bohlken |
 | 213 | 495 | Joeliecea Cobb |
 | 214 | 494 | Bio Nelly |
 | 215 | 493 | Amanda Pauldo-Ivy |
@@ -381,8 +381,8 @@
 | 373 | 307 | tipsy tiger |
 | 374 | 306 | PeaceOs |
 | 375 | 304 | Sarah Neathery |
-| 376 | 302 | Koral Hanke |
-| 377 | 302 | Jenna McGeorge |
+| 376 | 302 | Jenna McGeorge |
+| 377 | 302 | Koral Hanke |
 | 378 | 300 | Carter Jones |
 | 379 | 300 | Jason Frehner |
 | 380 | 299 | Michael Snow |

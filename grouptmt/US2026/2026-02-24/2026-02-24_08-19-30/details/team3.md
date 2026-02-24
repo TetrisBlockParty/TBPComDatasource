@@ -82,8 +82,8 @@
 | 74 | 1633 | cowboy25469 |
 | 75 | 1625 | Queen Kam |
 | 76 | 1615 | joclisa |
-| 77 | 1566 | Marcie Bressler |
-| 78 | 1566 | Nerdy Riseclear |
+| 77 | 1566 | Nerdy Riseclear |
+| 78 | 1566 | Marcie Bressler |
 | 79 | 1560 | Logan Naccarato |
 | 80 | 1555 | Snappy Glidepiece |
 | 81 | 1518 | Christine Filson |
@@ -125,8 +125,8 @@
 | 117 | 1134 | Melissa Orth Hunter |
 | 118 | 1124 | Stephanie Rice |
 | 119 | 1121 | Corie A. Brinson |
-| 120 | 1114 | Loopy Fallmatch |
-| 121 | 1114 | Groovy Catcher |
+| 120 | 1114 | Groovy Catcher |
+| 121 | 1114 | Loopy Fallmatch |
 | 122 | 1105 | Adrian Marcel Pate |
 | 123 | 1093 | Angela M. Fletcher |
 | 124 | 1091 | Jennifer |
@@ -205,8 +205,8 @@
 | 197 | 784 | Jone |
 | 198 | 783 | Julian Murphy |
 | 199 | 777 | Daryn Elliott |
-| 200 | 774 | Twisty Brick LT |
-| 201 | 774 | ren |
+| 200 | 774 | ren |
+| 201 | 774 | Twisty Brick LT |
 | 202 | 769 | Hasty Cascadefit |
 | 203 | 768 | Cyd061769 |
 | 204 | 766 | Tasha Gillespie |
@@ -355,11 +355,11 @@
 | 347 | 461 | Hyper Bridger |
 | 348 | 461 | Briana Wellman |
 | 349 | 460 | Antonia Russell |
-| 350 | 459 | Randy Clevenger |
-| 351 | 459 | TotoCherue |
+| 350 | 459 | TotoCherue |
+| 351 | 459 | Randy Clevenger |
 | 352 | 457 | Snippy Wipeout |
-| 353 | 456 | Kelly |
-| 354 | 456 | Cynthia Herrmann Egland |
+| 353 | 456 | Cynthia Herrmann Egland |
+| 354 | 456 | Kelly |
 | 355 | 455 | Kelly Wolf |
 | 356 | 450 | Luciana Braganca Vieira |
 | 357 | 450 | Stefanie LaPointe |
@@ -375,8 +375,8 @@
 | 367 | 443 | Christian Werndl |
 | 368 | 442 | Loopy Fallzone |
 | 369 | 438 | Dannie Litchard |
-| 370 | 436 | AC Yeater |
-| 371 | 436 | Julie Fratrik |
+| 370 | 436 | Julie Fratrik |
+| 371 | 436 | AC Yeater |
 | 372 | 435 | Sabrina Hardrick |
 | 373 | 434 | Criss |
 | 374 | 432 | Sabrina Mansfield |
@@ -557,8 +557,8 @@
 | 549 | 319 | Matty Ray |
 | 550 | 319 | Tracey Cox |
 | 551 | 319 | Jayme |
-| 552 | 318 | Tina Smith Roy |
-| 553 | 318 | Trey Ward |
+| 552 | 318 | Trey Ward |
+| 553 | 318 | Tina Smith Roy |
 | 554 | 318 | Earlanda Holland |
 | 555 | 317 | Shiny Snapfit |
 | 556 | 317 | Michael Kimbro |
@@ -1048,8 +1048,8 @@
 | 1040 | 186 | Giggly Hitter |
 | 1041 | 186 | Paula Urlacher |
 | 1042 | 186 | NaTasha Vercher |
-| 1043 | 186 | Giggly Hitter |
-| 1044 | 186 | ellie |
+| 1043 | 186 | ellie |
+| 1044 | 186 | Randi Snyder |
 | 1045 | 185 | Gina Bunch |
 | 1046 | 185 | Melissa Ponder |
 | 1047 | 185 | Ryze |
