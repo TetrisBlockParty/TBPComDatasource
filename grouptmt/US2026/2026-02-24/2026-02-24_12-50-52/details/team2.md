@@ -56,7 +56,7 @@
 | 48 | 5569 | Maegan Beaule |
 | 49 | 5427 | jayjay |
 | 50 | 5370 | Kimberly Schall |
-| 51 | 5242 | Nika Bee |
+| 51 | 5232 | Nika Bee |
 | 52 | 4978 | Jill Stroehlein |
 | 53 | 4899 | Nickie Baby |
 | 54 | 4886 | Kelly Crook |
@@ -215,8 +215,8 @@
 | 207 | 1853 | Kristopher Miller |
 | 208 | 1845 | Katrina Weston |
 | 209 | 1840 | blarg |
-| 210 | 1838 | Joyce Johnson Vaughn |
-| 211 | 1838 | Matthew Joseph Acevedo |
+| 210 | 1838 | Matthew Joseph Acevedo |
+| 211 | 1838 | Joyce Johnson Vaughn |
 | 212 | 1826 | Dee |
 | 213 | 1825 | Marie Boyd Faulk |
 | 214 | 1823 | Lauren Fitzgerald Thomas |
@@ -226,8 +226,8 @@
 | 218 | 1807 | Osun Anuket Esu |
 | 219 | 1787 | Teddi Notyalc |
 | 220 | 1786 | Eric Carlson |
-| 221 | 1775 | Sommer Shope |
-| 222 | 1775 | Eboni Banks |
+| 221 | 1775 | Eboni Banks |
+| 222 | 1775 | Sommer Shope |
 | 223 | 1774 | Nerdy Pattern |
 | 224 | 1772 | Moose Griffith |
 | 225 | 1761 | Rosa Franklin |
@@ -278,9 +278,9 @@
 | 270 | 1537 | Prado |
 | 271 | 1528 | Stacy Stickle |
 | 272 | 1526 | Ronnie Nelson |
-| 273 | 1515 | Ann Knutson Anderson |
-| 274 | 1509 | Stacey Clement |
-| 275 | 1509 | Whitney Nicole Waterman |
+| 273 | 1509 | Stacey Clement |
+| 274 | 1509 | Whitney Nicole Waterman |
+| 275 | 1506 | Hillary Crawford |
 | 276 | 1506 | Shiny Twistfit |
 | 277 | 1501 | Ashle Scranton |
 | 278 | 1498 | Ericka Marie Smith |
@@ -412,10 +412,10 @@
 | 404 | 1163 | Sarah DeHart |
 | 405 | 1160 | Ashley Guernsey-Martin |
 | 406 | 1158 | Brittany Clark |
-| 407 | 1153 | Spunkysmom |
-| 408 | 1150 | Sheniya Spurgeon |
-| 409 | 1149 | Hoppy Brickmatch |
-| 410 | 1149 | Kenny Alvarado |
+| 407 | 1150 | Sheniya Spurgeon |
+| 408 | 1149 | Hoppy Brickmatch |
+| 409 | 1149 | Kenny Alvarado |
+| 410 | 1147 | Jánine Riggs |
 | 411 | 1147 | Jennifer Kistner |
 | 412 | 1145 | Miranda Morris |
 | 413 | 1145 | Jodi Mitnick |
@@ -430,8 +430,8 @@
 | 422 | 1119 | Teresa Gillmore |
 | 423 | 1116 | Wakanda Forever |
 | 424 | 1116 | Em Chen |
-| 425 | 1109 | Melissa McCall |
-| 426 | 1109 | BYM4L |
+| 425 | 1109 | BYM4L |
+| 426 | 1109 | Melissa McCall |
 | 427 | 1109 | Jenn Marie |
 | 428 | 1107 | Kathryn Townsley |
 | 429 | 1106 | Jessica Redmond |
@@ -456,8 +456,8 @@
 | 448 | 1075 | SaraMarie Eveland |
 | 449 | 1074 | Diana Ayers |
 | 450 | 1073 | Jodi Blake |
-| 451 | 1071 | Nashu |
-| 452 | 1071 | Kim Dean |
+| 451 | 1071 | Kim Dean |
+| 452 | 1071 | Nashu |
 | 453 | 1070 | Dylan Thomason |
 | 454 | 1068 | Tiffany Branham |
 | 455 | 1067 | Lourisha |
@@ -553,8 +553,8 @@
 | 545 | 938 | Hershey Eastman |
 | 546 | 936 | Angie Bolton Workman |
 | 547 | 931 | Felicia Lynn |
-| 548 | 928 | Venita Ray |
-| 549 | 928 | Moni Foxe |
+| 548 | 928 | Moni Foxe |
+| 549 | 928 | Venita Ray |
 | 550 | 927 | Anthony Huebel |
 | 551 | 925 | blume |
 | 552 | 925 | Cris cris |
@@ -570,8 +570,8 @@
 | 562 | 915 | Kiely Tomaskovich |
 | 563 | 914 | Perky Rollfit |
 | 564 | 911 | Brenda Pierpoint |
-| 565 | 909 | Valerie Brooke Lusk Armstrong |
-| 566 | 909 | Marella Petilo |
+| 565 | 909 | Marella Petilo |
+| 566 | 909 | Valerie Brooke Lusk Armstrong |
 | 567 | 907 | Gene Mills |
 | 568 | 903 | Stephanie Lumanlan |
 | 569 | 902 | Stephanie Sul |
@@ -1000,8 +1000,8 @@
 | 992 | 599 | Plucky Matchclear |
 | 993 | 598 | Cosmo |
 | 994 | 598 | Tiki |
-| 995 | 598 | Veronica Martin Trinkle |
-| 996 | 598 | Lucy Marshall |
+| 995 | 598 | Lucy Marshall |
+| 996 | 598 | Veronica Martin Trinkle |
 | 997 | 597 | Mercedez Hubbard |
 | 998 | 595 | ElizabethAnn Dickinson |
 | 999 | 595 | Jessica Sutter |

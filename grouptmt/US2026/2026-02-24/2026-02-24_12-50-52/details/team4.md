@@ -8,7 +8,7 @@
 | :- | :- | :- |
 | 1 | 8363 | Bubbly Puzzler |
 | 2 | 8070 | sierrabeth |
-| 3 | 8013 | Devinlee Brown |
+| 3 | 8011 | Devinlee Brown |
 | 4 | 5656 | Kat |
 | 5 | 5310 | Breannah Grafe |
 | 6 | 5108 | East Mamba |
@@ -110,15 +110,15 @@
 | 102 | 840 | SAP |
 | 103 | 838 | Amy Suckarieh |
 | 104 | 837 | Rica Mitchell |
-| 105 | 834 | quicksand420 |
-| 106 | 834 | Brittney Orengo |
+| 105 | 834 | Brittney Orengo |
+| 106 | 834 | quicksand420 |
 | 107 | 818 | Lori Walker |
 | 108 | 813 | Klo |
 | 109 | 811 | Sassy Pattern |
 | 110 | 806 | Zippy Gridlock |
 | 111 | 805 | Mylo Lipscomb |
-| 112 | 802 | Denise Carlson |
-| 113 | 802 | Crystal Carroll |
+| 112 | 802 | Crystal Carroll |
+| 113 | 802 | Denise Carlson |
 | 114 | 801 | D3TROITB0RN74 |
 | 115 | 798 | Jewell Urban |
 | 116 | 784 | TheNeesh50 |
@@ -213,7 +213,7 @@
 | 205 | 516 | Trish |
 | 206 | 516 | Nick Gray |
 | 207 | 516 | Ericca Eldridge |
-| 208 | 515 | Joanna |
+| 208 | 513 | Zesty Twistbuilder |
 | 209 | 513 | Milan Markeisha |
 | 210 | 512 | Casey Jeffcoat |
 | 211 | 512 | ThaEviLJeNiuZ |
@@ -406,12 +406,12 @@
 | 398 | 300 | Carter Jones |
 | 399 | 300 | Jason Frehner |
 | 400 | 300 | Dapper Frame |
-| 401 | 299 | Deb Rubeck |
-| 402 | 299 | Michael Snow |
+| 401 | 299 | Michael Snow |
+| 402 | 299 | Deb Rubeck |
 | 403 | 298 | Jenny Wells-Oakley |
 | 404 | 298 | Val Erie |
-| 405 | 297 | Brittany Marsh |
-| 406 | 297 | Allison Rose |
+| 405 | 297 | Allison Rose |
+| 406 | 297 | Brittany Marsh |
 | 407 | 294 | BootsMcGee |
 | 408 | 293 | Shiny Pivoty |
 | 409 | 293 | ImJustMe |

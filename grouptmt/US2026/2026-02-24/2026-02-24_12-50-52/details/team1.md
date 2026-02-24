@@ -562,8 +562,8 @@
 | 554 | 234 | Dee Doris Ewald Flynn |
 | 555 | 233 | Jonah Dunn |
 | 556 | 232 | Nerdy Curvebuilder |
-| 557 | 231 | Alex Nicol |
-| 558 | 231 | Marqs Mel |
+| 557 | 231 | Marqs Mel |
+| 558 | 231 | Alex Nicol |
 | 559 | 230 | Peppy Columnbuilder |
 | 560 | 230 | Panda Thagreat |
 | 561 | 229 | Steven Collins |
@@ -620,9 +620,9 @@
 | 612 | 214 | Amanda Marie Sutton |
 | 613 | 214 | Alex Gauthier |
 | 614 | 213 | Henry Lanier |
-| 615 | 212 | Craig Mcgonigle |
+| 615 | 212 | Bruce Cruz |
 | 616 | 212 | Matthew Foley |
-| 617 | 212 | Bruce Cruz |
+| 617 | 212 | Craig Mcgonigle |
 | 618 | 211 | Bucketsmasher |
 | 619 | 210 | Danny Brady |
 | 620 | 210 | Lil H |

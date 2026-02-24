@@ -23,7 +23,7 @@
 | 15 | 4721 | Cheeky Match |
 | 16 | 4659 | Laura Melton |
 | 17 | 4225 | mjl574 |
-| 18 | 4207 | Lush Buildout |
+| 18 | 4132 | Lush Buildout |
 | 19 | 3953 | Briarblack |
 | 20 | 3900 | Jeana Gilbert |
 | 21 | 3761 | Ruby Thompson |
@@ -111,8 +111,8 @@
 | 103 | 1311 | JerseyJess |
 | 104 | 1309 | yoyo |
 | 105 | 1297 | Shelby Michelle |
-| 106 | 1282 | Peppy Shifter |
-| 107 | 1282 | Amanda L Baker |
+| 106 | 1282 | Amanda L Baker |
+| 107 | 1282 | Peppy Shifter |
 | 108 | 1280 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1251 | Suzieq |
@@ -182,8 +182,8 @@
 | 174 | 876 | Kiki |
 | 175 | 875 | Chasity |
 | 176 | 874 | Jessica Pineda-Lopez |
-| 177 | 868 | Nicole Flippo |
-| 178 | 868 | Cranky Gridder |
+| 177 | 868 | Cranky Gridder |
+| 178 | 868 | Nicole Flippo |
 | 179 | 866 | Domo Washington |
 | 180 | 862 | Santeria Trece Candles |
 | 181 | 858 | Nicole Myers |
@@ -238,8 +238,8 @@
 | 230 | 715 | Betty Bóò |
 | 231 | 714 | Jenny Hrndz |
 | 232 | 713 | Stephanie Blkpep Davidson |
-| 233 | 709 | Cynthia Castros-Hampton |
-| 234 | 709 | Christine Niles |
+| 233 | 709 | Christine Niles |
+| 234 | 709 | Cynthia Castros-Hampton |
 | 235 | 708 | Stephanie Bradley |
 | 236 | 707 | Snappy Balancer |
 | 237 | 705 | Jackie Miller |
@@ -301,8 +301,8 @@
 | 293 | 572 | Tessina Dewey-Mancino |
 | 294 | 570 | thekey |
 | 295 | 569 | Silly Twist |
-| 296 | 569 | Roary Danner |
-| 297 | 569 | Gray Hicks |
+| 296 | 569 | Gray Hicks |
+| 297 | 569 | Roary Danner |
 | 298 | 567 | Stephanie Burtin |
 | 299 | 566 | Aerian Preston |
 | 300 | 566 | Tyler Shoff |
@@ -345,27 +345,27 @@
 | 337 | 489 | Isabel Ocasio |
 | 338 | 487 | MsBee |
 | 339 | 486 | Sleepy |
-| 340 | 485 | Steffi Chris Dacones |
-| 341 | 485 | Charles Perrone |
+| 340 | 485 | Charles Perrone |
+| 341 | 485 | Steffi Chris Dacones |
 | 342 | 483 | Jul |
 | 343 | 483 | Tegan Chapman |
 | 344 | 482 | Travis W |
 | 345 | 480 | TLM |
 | 346 | 480 | Dee Franklin |
-| 347 | 476 | Stefanie LaPointe |
-| 348 | 476 | Shunta Jacobs |
+| 347 | 476 | Shunta Jacobs |
+| 348 | 476 | Stefanie LaPointe |
 | 349 | 475 | AC Yeater |
 | 350 | 474 | Troy |
 | 351 | 474 | Randy Clevenger |
 | 352 | 473 | Christian Werndl |
 | 353 | 471 | Sarah Moyer |
 | 354 | 471 | Mendoza Lee Christy |
-| 355 | 470 | Snippy Wipeout |
-| 356 | 470 | Jazzy Spinfit |
-| 357 | 468 | Bigmack |
-| 358 | 467 | Danielle Rhoades |
-| 359 | 465 | Blocked |
-| 360 | 464 | Snazzy Filler |
+| 355 | 470 | Jazzy Spinfit |
+| 356 | 468 | Bigmack |
+| 357 | 467 | Danielle Rhoades |
+| 358 | 465 | Blocked |
+| 359 | 464 | Snazzy Filler |
+| 360 | 464 | Snippy Wipeout |
 | 361 | 463 | Hoài Quắt |
 | 362 | 461 | Breanna Marsden |
 | 363 | 461 | Hyper Bridger |
@@ -455,9 +455,9 @@
 | 447 | 382 | Amanda Martinez |
 | 448 | 382 | Katheline Lazo Luizaga |
 | 449 | 382 | Theresa Opell Gartner |
-| 450 | 382 | Amanda Martinez |
-| 451 | 381 | Romeo |
-| 452 | 381 | Mary Giorgenti |
+| 450 | 381 | Romeo |
+| 451 | 381 | Mary Giorgenti |
+| 452 | 380 | Foltz Lee Kelli |
 | 453 | 380 | neci |
 | 454 | 378 | Brittany |
 | 455 | 378 | Spencer Nikki |
