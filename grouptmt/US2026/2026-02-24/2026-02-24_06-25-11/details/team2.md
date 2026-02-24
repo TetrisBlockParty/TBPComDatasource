@@ -232,8 +232,8 @@
 | 224 | 1693 | Ashley Dow |
 | 225 | 1679 | Mischelle Clay |
 | 226 | 1663 | Alex Stone LaRue |
-| 227 | 1661 | Danielle Johnson-Chandler |
-| 228 | 1661 | Scott Treadway |
+| 227 | 1661 | Scott Treadway |
+| 228 | 1661 | Danielle Johnson-Chandler |
 | 229 | 1656 | Binyah-Binyah |
 | 230 | 1655 | Glitzy Stackzone |
 | 231 | 1651 | Luna |
@@ -248,8 +248,8 @@
 | 240 | 1610 | Ray Ray Prado |
 | 241 | 1609 | Ryan Stadel |
 | 242 | 1601 | Peppy Zone |
-| 243 | 1600 | Jojo Momma |
-| 244 | 1600 | Mo Shine On |
+| 243 | 1600 | Mo Shine On |
+| 244 | 1600 | Jojo Momma |
 | 245 | 1596 | Christine Egidio Morocco |
 | 246 | 1595 | Joyce Johnson Vaughn |
 | 247 | 1592 | Dolores Russworn |
@@ -433,8 +433,8 @@
 | 425 | 1075 | SaraMarie Eveland |
 | 426 | 1074 | Diana Ayers |
 | 427 | 1073 | Jodi Blake |
-| 428 | 1071 | Kim Dean |
-| 429 | 1071 | Nashu |
+| 428 | 1071 | Nashu |
+| 429 | 1071 | Kim Dean |
 | 430 | 1068 | Tiffany Branham |
 | 431 | 1067 | Lourisha |
 | 432 | 1067 | Taylor Phillips |
