@@ -112,8 +112,8 @@
 | 104 | 834 | Brittney Orengo |
 | 105 | 818 | Lori Walker |
 | 106 | 815 | Diana Houts |
-| 107 | 813 | Klo |
-| 108 | 813 | Amy Suckarieh |
+| 107 | 813 | Amy Suckarieh |
+| 108 | 813 | Klo |
 | 109 | 811 | Sassy Pattern |
 | 110 | 806 | Zippy Gridlock |
 | 111 | 805 | Mylo Lipscomb |
@@ -309,8 +309,8 @@
 | 301 | 375 | George Tzouganos |
 | 302 | 373 | Russ Attitude |
 | 303 | 371 | Jessi Cinotto |
-| 304 | 370 | Twisty Risebuilder |
-| 305 | 370 | Kris Bartlett |
+| 304 | 370 | Kris Bartlett |
+| 305 | 370 | Twisty Risebuilder |
 | 306 | 368 | Dan Wold |
 | 307 | 367 | Meg |
 | 308 | 366 | Ak Jones |
@@ -347,8 +347,8 @@
 | 339 | 338 | Groovy Gridlock |
 | 340 | 338 | Chair |
 | 341 | 336 | ZeeZee |
-| 342 | 336 | Tina Lopez |
-| 343 | 336 | Gracie Ann Taylor |
+| 342 | 336 | Gracie Ann Taylor |
+| 343 | 336 | Tina Lopez |
 | 344 | 336 | Stella |
 | 345 | 335 | Snippy Puzzle |
 | 346 | 334 | Zethra Prenisha Rahming |
