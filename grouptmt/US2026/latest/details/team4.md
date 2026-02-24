@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-24 17:50:44 UTC
+# Standings for team4 as of 2026-02-24 17:51:22 UTC
 
 **Total Participants:** 2056
 
@@ -231,9 +231,9 @@
 | 223 | 508 | June Hoffman |
 | 224 | 506 | Ari Droff |
 | 225 | 506 | scott |
-| 226 | 504 | Deanna Deckard |
-| 227 | 499 | Kesha Brady |
-| 228 | 498 | Genne Scott |
+| 226 | 505 | Genne Scott |
+| 227 | 504 | Deanna Deckard |
+| 228 | 499 | Kesha Brady |
 | 229 | 498 | Silly Zonebuilder |
 | 230 | 496 | Jessica Bohlken |
 | 231 | 496 | Mr. Party |
@@ -244,7 +244,7 @@
 | 236 | 482 | Cranky Rollpiece |
 | 237 | 482 | Laura |
 | 238 | 482 | Brickh4us |
-| 239 | 477 | Jolly Dashfit |
+| 239 | 478 | Jolly Dashfit |
 | 240 | 475 | 23 |
 | 241 | 474 | David Lay |
 | 242 | 472 | Plucky Patternblock |
@@ -309,7 +309,7 @@
 | 301 | 404 | Nubian1 |
 | 302 | 401 | Dan Wold |
 | 303 | 400 | Jess Reyes |
-| 304 | 398 | Snippy Puzzle |
+| 304 | 399 | Snippy Puzzle |
 | 305 | 398 | Tyler Terrific |
 | 306 | 397 | Lora |
 | 307 | 395 | BigSammy420 |
@@ -405,9 +405,9 @@
 | 397 | 321 | Sarah Brown |
 | 398 | 320 | Cynthia Boudreau |
 | 399 | 320 | O block |
-| 400 | 319 | Bradley Reeves |
-| 401 | 319 | David Boggs |
-| 402 | 317 | Jumpy Zonepiece |
+| 400 | 319 | Jumpy Zonepiece |
+| 401 | 319 | Bradley Reeves |
+| 402 | 319 | David Boggs |
 | 403 | 317 | Madison Sweere |
 | 404 | 317 | ThriftySpice |
 | 405 | 317 | Paito |
@@ -619,13 +619,13 @@
 | 611 | 218 | Janita Parrish |
 | 612 | 218 | Rebecca A Rit |
 | 613 | 218 | Vamp |
-| 614 | 218 | ChasingZen |
-| 615 | 218 | moneybagz |
-| 616 | 217 | Melissa Priest Sellers |
-| 617 | 217 | Globofish |
-| 618 | 217 | Andrea Gallagher |
-| 619 | 217 | Michelle McCutcheon |
-| 620 | 216 | wombat |
+| 614 | 218 | wombat |
+| 615 | 218 | ChasingZen |
+| 616 | 218 | moneybagz |
+| 617 | 217 | Melissa Priest Sellers |
+| 618 | 217 | Globofish |
+| 619 | 217 | Andrea Gallagher |
+| 620 | 217 | Michelle McCutcheon |
 | 621 | 216 | Julie McAfoos Swanson |
 | 622 | 216 | Mcg |
 | 623 | 215 | Kelly Adams Carnahan |
@@ -697,13 +697,13 @@
 | 689 | 192 | Tanner Lund |
 | 690 | 191 | Earnest Thompson |
 | 691 | 191 | Norman Klick |
-| 692 | 191 | Cece |
-| 693 | 190 | Joni Marie Flanary |
-| 694 | 190 | Jim Gray |
-| 695 | 188 | Cooldamalley |
-| 696 | 188 | Dickie Rice |
-| 697 | 188 | Jazzy Slamdrop |
-| 698 | 188 | Stephanie Jones |
+| 692 | 191 | Stephanie Jones |
+| 693 | 191 | Cece |
+| 694 | 190 | Joni Marie Flanary |
+| 695 | 190 | Jim Gray |
+| 696 | 188 | Cooldamalley |
+| 697 | 188 | Dickie Rice |
+| 698 | 188 | Jazzy Slamdrop |
 | 699 | 188 | Tammy Lewis |
 | 700 | 188 | sgt baby |
 | 701 | 187 | Jason Punch |
@@ -1156,25 +1156,25 @@
 | 1148 | 88 | Mathew Dissinger |
 | 1149 | 88 | Ann Poulson |
 | 1150 | 87 | Kat |
-| 1151 | 87 | chygesshu |
-| 1152 | 87 | Tangelo |
-| 1153 | 87 | Laura Smith |
-| 1154 | 87 | RonRico Thomas |
-| 1155 | 87 | Derek Pendarvis |
+| 1151 | 87 | Tangelo |
+| 1152 | 87 | chygesshu |
+| 1153 | 87 | RonRico Thomas |
+| 1154 | 87 | Derek Pendarvis |
+| 1155 | 87 | Laura Smith |
 | 1156 | 87 | Kristen Raper |
 | 1157 | 87 | Tarina Berner |
 | 1158 | 87 | Chad Moore |
 | 1159 | 86 | Barbara Rietzke |
 | 1160 | 86 | Katrina Looney |
 | 1161 | 86 | Linda Wilbur Scott |
-| 1162 | 86 | Krista Bartlett |
-| 1163 | 85 | Oba Yozo |
-| 1164 | 85 | Rae Henderson |
-| 1165 | 85 | Tim Knight-ten |
-| 1166 | 85 | Mbeth Moore |
-| 1167 | 85 | Staci Robinson Jones |
-| 1168 | 85 | Dylan Schultz |
-| 1169 | 85 | Kimberly Goncalves |
+| 1162 | 86 | Kimberly Goncalves |
+| 1163 | 86 | Krista Bartlett |
+| 1164 | 85 | Oba Yozo |
+| 1165 | 85 | Rae Henderson |
+| 1166 | 85 | Tim Knight-ten |
+| 1167 | 85 | Mbeth Moore |
+| 1168 | 85 | Staci Robinson Jones |
+| 1169 | 85 | Dylan Schultz |
 | 1170 | 85 | Victoria Calvario |
 | 1171 | 84 | BJ Snyder |
 | 1172 | 84 | Guillermo Perara |
@@ -1689,24 +1689,24 @@
 | 1681 | 31 | Sab |
 | 1682 | 31 | BearGirl |
 | 1683 | 31 | Christopher Cand |
-| 1684 | 30 | Ka He |
-| 1685 | 30 | Cool Ziggy |
-| 1686 | 30 | Apryl Lia |
-| 1687 | 30 | Chtid |
-| 1688 | 30 | Alberto Rosel |
-| 1689 | 30 | Clara Avilez |
-| 1690 | 30 | Derald Miller |
-| 1691 | 30 | Khrystyna Lukaniuk |
-| 1692 | 30 | Jameel HumanTornado Brown |
-| 1693 | 29 | Joshua Smith |
-| 1694 | 29 | Amanda Gann |
-| 1695 | 29 | EMSquire |
-| 1696 | 29 | Interesting |
-| 1697 | 29 | Jennifer West Campos |
-| 1698 | 29 | Kathy Garcia |
-| 1699 | 29 | Quan Wen |
-| 1700 | 29 | Ariel Guerra |
-| 1701 | 28 | Cheeky Linebuilder |
+| 1684 | 31 | Cheeky Linebuilder |
+| 1685 | 30 | Ka He |
+| 1686 | 30 | Cool Ziggy |
+| 1687 | 30 | Apryl Lia |
+| 1688 | 30 | Chtid |
+| 1689 | 30 | Alberto Rosel |
+| 1690 | 30 | Clara Avilez |
+| 1691 | 30 | Derald Miller |
+| 1692 | 30 | Khrystyna Lukaniuk |
+| 1693 | 30 | Jameel HumanTornado Brown |
+| 1694 | 29 | Joshua Smith |
+| 1695 | 29 | Amanda Gann |
+| 1696 | 29 | EMSquire |
+| 1697 | 29 | Interesting |
+| 1698 | 29 | Jennifer West Campos |
+| 1699 | 29 | Kathy Garcia |
+| 1700 | 29 | Quan Wen |
+| 1701 | 29 | Ariel Guerra |
 | 1702 | 28 | Lab2dablock |
 | 1703 | 28 | Keith Watson |
 | 1704 | 28 | Shiny Brickline |
