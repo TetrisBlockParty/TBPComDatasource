@@ -115,8 +115,8 @@
 | 107 | 768 | Jazzy Framezone |
 | 108 | 761 | Karin Gillen |
 | 109 | 751 | Kellie |
-| 110 | 725 | Debbie Kane |
-| 111 | 725 | Phu ckalldems |
+| 110 | 725 | Phu ckalldems |
+| 111 | 725 | Debbie Kane |
 | 112 | 719 | Bindi |
 | 113 | 716 | Kristi Johnson |
 | 114 | 706 | Denice Dee |
@@ -268,10 +268,10 @@
 | 260 | 392 | Poppy Riserpiece |
 | 261 | 391 | Happy Basegrid |
 | 262 | 390 | David Lutcher |
-| 263 | 386 | Melissa Bires Hussar |
-| 264 | 386 | Angela Renea Lester |
-| 265 | 384 | Irv |
-| 266 | 384 | Colleen Pinette |
+| 263 | 386 | Angela Renea Lester |
+| 264 | 386 | Melissa Bires Hussar |
+| 265 | 384 | Colleen Pinette |
+| 266 | 384 | Irv |
 | 267 | 383 | Margo Wagner |
 | 268 | 382 | Jamie Jury |
 | 269 | 380 | Snippy Wipebuilder |

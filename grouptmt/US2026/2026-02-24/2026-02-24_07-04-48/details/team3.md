@@ -104,8 +104,8 @@
 | 96 | 1361 | Patricia Gadsden |
 | 97 | 1343 | Joey Banks |
 | 98 | 1320 | Kristie |
-| 99 | 1318 | Tiff Vs Tiffany |
-| 100 | 1318 | Diana Ibarra |
+| 99 | 1318 | Diana Ibarra |
+| 100 | 1318 | Tiff Vs Tiffany |
 | 101 | 1309 | yoyo |
 | 102 | 1297 | Shelby Michelle |
 | 103 | 1290 | JerseyJess |
@@ -207,8 +207,8 @@
 | 199 | 772 | Tye Stovall |
 | 200 | 769 | Hasty Cascadefit |
 | 201 | 768 | Cyd061769 |
-| 202 | 763 | Tasha Gillespie |
-| 203 | 763 | Khaleada McGill Banks |
+| 202 | 763 | Khaleada McGill Banks |
+| 203 | 763 | Tasha Gillespie |
 | 204 | 760 | Kiki |
 | 205 | 759 | Mykal Burton |
 | 206 | 757 | Fancy Cascader |
@@ -231,8 +231,8 @@
 | 223 | 709 | Cynthia Castros-Hampton |
 | 224 | 708 | Stephanie Bradley |
 | 225 | 703 | Shawn Miller |
-| 226 | 691 | Tia |
-| 227 | 691 | Snappy Balancer |
+| 226 | 691 | Snappy Balancer |
+| 227 | 691 | Tia |
 | 228 | 687 | joz |
 | 229 | 675 | Terry Jo Jones |
 | 230 | 662 | Jim Mathews |

@@ -136,8 +136,8 @@
 | 128 | 712 | H.R. Block |
 | 129 | 712 | Leslie Nicole |
 | 130 | 708 | Jacqueline Helm |
-| 131 | 704 | Austin Owens |
-| 132 | 704 | Chilly Crasher |
+| 131 | 704 | Chilly Crasher |
+| 132 | 704 | Austin Owens |
 | 133 | 682 | Raegan Lane-Ross |
 | 134 | 668 | Desi Desporte |
 | 135 | 667 | Matt Gooder |
@@ -241,14 +241,14 @@
 | 233 | 455 | Michele Plunkett |
 | 234 | 454 | Keshia Lyons |
 | 235 | 449 | Danielle Kollias |
-| 236 | 448 | Mike Solo |
-| 237 | 448 | Mr. Party |
+| 236 | 448 | Mr. Party |
+| 237 | 448 | Mike Solo |
 | 238 | 447 | Jen Mattei |
 | 239 | 444 | Selena Shaw |
 | 240 | 442 | John Brunetti |
 | 241 | 441 | Lush Linkfall |
-| 242 | 438 | 23 |
-| 243 | 438 | Melvin Baird |
+| 242 | 438 | Melvin Baird |
+| 243 | 438 | 23 |
 | 244 | 434 | Ramel Rhodes |
 | 245 | 433 | Circuit8 |
 | 246 | 433 | Damn Libra |
@@ -259,8 +259,8 @@
 | 251 | 427 | Chao Ma |
 | 252 | 424 | Andrew Dang |
 | 253 | 423 | Gdiguy |
-| 254 | 421 | Brickh4us |
-| 255 | 421 | JIGsaw ~(•¿°)~ |
+| 254 | 421 | JIGsaw ~(•¿°)~ |
+| 255 | 421 | Brickh4us |
 | 256 | 420 | Jeff Brian Gates |
 | 257 | 414 | Hyper Matchclear |
 | 258 | 413 | Rio Rocha |
