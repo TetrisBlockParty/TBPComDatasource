@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-24 21:50:44 UTC
+# Standings for team4 as of 2026-02-24 21:51:22 UTC
 
 **Total Participants:** 2089
 
@@ -142,8 +142,8 @@
 | 134 | 739 | George Nutt |
 | 135 | 738 | Serena Goodridge |
 | 136 | 737 | Jamie Mann-Deichmann |
-| 137 | 733 | Swanky Fitline |
-| 138 | 732 | Jessica Lynn Cutlip |
+| 137 | 734 | Jessica Lynn Cutlip |
+| 138 | 733 | Swanky Fitline |
 | 139 | 731 | KJ Pool |
 | 140 | 728 | Lindsey Gonzalez |
 | 141 | 727 | H.R. Block |
@@ -980,41 +980,41 @@
 | 972 | 121 | Wacky Blockclear |
 | 973 | 121 | Cozy Balanceblock |
 | 974 | 121 | Sadie Rae Ryan |
-| 975 | 120 | Serena Butter |
-| 976 | 120 | Zappy Snaplink |
-| 977 | 120 | Alee Marie |
-| 978 | 120 | Jesse Jamez Crater |
-| 979 | 120 | Kris Johnson |
-| 980 | 120 | mistresscoundrl1 |
-| 981 | 119 | mitch |
-| 982 | 119 | Clever Breaker |
-| 983 | 119 | Calen Torez |
-| 984 | 119 | Michelle Parker |
-| 985 | 119 | Keri Hough |
-| 986 | 118 | MoP11 |
-| 987 | 118 | Kristen Rittall |
-| 988 | 118 | Frisky Column |
-| 989 | 118 | Cashmere |
-| 990 | 117 | Matt Narcisse |
-| 991 | 117 | MzChocolate |
-| 992 | 117 | Snappy Bouncer |
-| 993 | 117 | Ninaforever |
-| 994 | 117 | Denatrious Perry |
-| 995 | 117 | Tracey Oger |
-| 996 | 117 | Amber bamber |
-| 997 | 116 | Joyce Fees |
-| 998 | 116 | Snappy Combofall |
-| 999 | 116 | Crystal Canfield |
-| 1000 | 116 | Natalie;) |
-| 1001 | 116 | Lindsey Bergkvist |
+| 975 | 120 | mitch |
+| 976 | 120 | Serena Butter |
+| 977 | 120 | Zappy Snaplink |
+| 978 | 120 | Joyce Fees |
+| 979 | 120 | Alee Marie |
+| 980 | 120 | Kris Johnson |
+| 981 | 120 | mistresscoundrl1 |
+| 982 | 120 | Jesse Jamez Crater |
+| 983 | 119 | Clever Breaker |
+| 984 | 119 | Snappy Combofall |
+| 985 | 119 | Calen Torez |
+| 986 | 119 | Michelle Parker |
+| 987 | 119 | Keri Hough |
+| 988 | 118 | MoP11 |
+| 989 | 118 | Kristen Rittall |
+| 990 | 118 | Frisky Column |
+| 991 | 118 | Cashmere |
+| 992 | 117 | Matt Narcisse |
+| 993 | 117 | MzChocolate |
+| 994 | 117 | Snappy Bouncer |
+| 995 | 117 | Ninaforever |
+| 996 | 117 | Denatrious Perry |
+| 997 | 117 | Amber bamber |
+| 998 | 117 | Tracey Oger |
+| 999 | 116 | Natalie;) |
+| 1000 | 116 | Lindsey Bergkvist |
+| 1001 | 116 | Crystal Canfield |
 | 1002 | 116 | Shadonna Brandes |
 | 1003 | 116 | April Swinney |
 | 1004 | 115 | ScootyLadoo |
 | 1005 | 115 | Mona Touchine |
 | 1006 | 115 | Chummy Riserpiece |
 | 1007 | 115 | Jennifer Matson |
-| 1008 | 115 | Jayk |
-| 1009 | 115 | Brenda Bird |
+| 1008 | 115 | Brenda Bird |
+| 1009 | 115 | Jayk |
 | 1010 | 114 | Beezie |
 | 1011 | 114 | KAP |
 | 1012 | 114 | Nutty Lifter |
@@ -1022,16 +1022,16 @@
 | 1014 | 113 | Lorry Wofford Jr. |
 | 1015 | 113 | Bold Buildsnap |
 | 1016 | 113 | Tammy Johndro |
-| 1017 | 113 | DaRuler |
-| 1018 | 113 | Robert Everett |
-| 1019 | 113 | Gina Sexton Powell |
-| 1020 | 113 | Laurie McGregor |
-| 1021 | 113 | Abigail Murphy |
-| 1022 | 113 | Jared M D Campbell |
-| 1023 | 112 | Natasha Crossley |
-| 1024 | 112 | RogueRebel |
-| 1025 | 112 | Saundra Miller |
-| 1026 | 112 | Bold Towerpiece |
+| 1017 | 113 | Laurie McGregor |
+| 1018 | 113 | Gina Sexton Powell |
+| 1019 | 113 | Abigail Murphy |
+| 1020 | 113 | Robert Everett |
+| 1021 | 113 | Jared M D Campbell |
+| 1022 | 113 | DaRuler |
+| 1023 | 112 | Bold Towerpiece |
+| 1024 | 112 | Natasha Crossley |
+| 1025 | 112 | RogueRebel |
+| 1026 | 112 | Saundra Miller |
 | 1027 | 112 | Loopy Bouncer |
 | 1028 | 112 | Ken Cheney |
 | 1029 | 111 | deebop |
@@ -1042,14 +1042,14 @@
 | 1034 | 110 | UJ Mate |
 | 1035 | 109 | Eli Sanchez |
 | 1036 | 109 | Ace317 |
-| 1037 | 109 | Jessica Miller |
-| 1038 | 109 | Loyal |
-| 1039 | 109 | Patrick Cossette |
-| 1040 | 109 | Kristina Renea Day |
-| 1041 | 108 | Krs |
-| 1042 | 108 | Bob Moores |
+| 1037 | 109 | Kristina Renea Day |
+| 1038 | 109 | Jessica Miller |
+| 1039 | 109 | Loyal |
+| 1040 | 109 | Patrick Cossette |
+| 1041 | 108 | Patrick Watkins |
+| 1042 | 108 | Krs |
 | 1043 | 108 | 0934 |
-| 1044 | 108 | Patrick Watkins |
+| 1044 | 108 | Bob Moores |
 | 1045 | 108 | Rebecca Rister |
 | 1046 | 108 | MoonChild |
 | 1047 | 108 | Cozy Matchclear |
@@ -1057,14 +1057,14 @@
 | 1049 | 108 | Tina |
 | 1050 | 107 | Justin Davis |
 | 1051 | 107 | DinoNuggie |
-| 1052 | 107 | Izrahiah Yzaiah Israel |
-| 1053 | 107 | Savannah Roughton Jones |
+| 1052 | 107 | Chirpy Tetriblast |
+| 1053 | 107 | Izrahiah Yzaiah Israel |
 | 1054 | 107 | Carlos G Reyes |
-| 1055 | 107 | Chirpy Tetriblast |
-| 1056 | 107 | Lauren R. Walls |
-| 1057 | 106 | Erin Kushner |
-| 1058 | 106 | Kirsten Britt O'Donnell |
-| 1059 | 106 | Sunny Brickroll |
+| 1055 | 107 | Savannah Roughton Jones |
+| 1056 | 107 | Erin Kushner |
+| 1057 | 107 | Lauren R. Walls |
+| 1058 | 106 | Sunny Brickroll |
+| 1059 | 106 | Kirsten Britt O'Donnell |
 | 1060 | 106 | Harold M. |
 | 1061 | 106 | juggernaut |
 | 1062 | 106 | Robin Visintainer |
@@ -1072,16 +1072,16 @@
 | 1064 | 106 | Bamm Grundie |
 | 1065 | 106 | Nick Horn |
 | 1066 | 105 | Mrsjcraw18 |
-| 1067 | 105 | Zerkiiboy |
-| 1068 | 105 | Krystol Fantabulously Gorgeously Dennis |
-| 1069 | 105 | Lakesha Johnson |
-| 1070 | 105 | Quirky Puzzler |
-| 1071 | 105 | Aleshia Harrity |
+| 1067 | 105 | Quirky Puzzler |
+| 1068 | 105 | Zerkiiboy |
+| 1069 | 105 | Aleshia Harrity |
+| 1070 | 105 | Lakesha Johnson |
+| 1071 | 105 | Krystol Fantabulously Gorgeously Dennis |
 | 1072 | 105 | Shelly Short |
-| 1073 | 104 | Takeshia Knowles |
-| 1074 | 104 | Angelson |
-| 1075 | 104 | Carmen Maraj |
-| 1076 | 104 | Jessi Mayfield |
+| 1073 | 104 | Angelson |
+| 1074 | 104 | Takeshia Knowles |
+| 1075 | 104 | Jessi Mayfield |
+| 1076 | 104 | Carmen Maraj |
 | 1077 | 104 | Elizabeth Lansou |
 | 1078 | 104 | 420friend |
 | 1079 | 104 | Dyrtie1 |
@@ -1098,11 +1098,11 @@
 | 1090 | 101 | Neal Allen II |
 | 1091 | 101 | Jessica N Cristina Grindstaff |
 | 1092 | 101 | Alfredo Aguilar |
-| 1093 | 101 | Speedy Clearer |
-| 1094 | 101 | Chirpy Rollbuilder |
+| 1093 | 101 | Aleasha Haukenfrers |
+| 1094 | 101 | Saulc1991 |
 | 1095 | 101 | Joe Beardslee |
-| 1096 | 101 | Aleasha Haukenfrers |
-| 1097 | 101 | Saulc1991 |
+| 1096 | 101 | Speedy Clearer |
+| 1097 | 101 | Chirpy Rollbuilder |
 | 1098 | 100 | Chipper Strikerbuilder |
 | 1099 | 100 | Aly Eggers |
 | 1100 | 100 | Geetara |
@@ -1849,29 +1849,29 @@
 | 1841 | 19 | Cindy Hernandez |
 | 1842 | 19 | Shakeyj |
 | 1843 | 19 | Amanda Mason Scott |
-| 1844 | 19 | KingScuba |
+| 1844 | 19 | Amanda Hein |
 | 1845 | 19 | Pooh |
-| 1846 | 19 | Bienlis Paulino |
-| 1847 | 19 | Justin Petty |
-| 1848 | 19 | Chill Riserpiece |
-| 1849 | 19 | Crafty Snapline |
-| 1850 | 19 | Frilly Rollfit |
-| 1851 | 19 | Swift |
-| 1852 | 19 | Finn |
-| 1853 | 19 | Justin Decker |
-| 1854 | 18 | Jadiel Bermudez |
-| 1855 | 18 | Degenerate |
-| 1856 | 18 | Tonya Beverly |
-| 1857 | 18 | Samantha Kleine |
-| 1858 | 18 | Minion radish |
-| 1859 | 18 | Terri Tatem |
-| 1860 | 18 | McKayla Snell |
-| 1861 | 18 | Sylvia Fox |
-| 1862 | 18 | Vilma N Puruco Rodriguez |
-| 1863 | 18 | Roslyn Fitzgerald |
-| 1864 | 18 | Michaele Wagner |
-| 1865 | 18 | shaylyn |
-| 1866 | 18 | Amanda Hein |
+| 1846 | 19 | KingScuba |
+| 1847 | 19 | Bienlis Paulino |
+| 1848 | 19 | Justin Petty |
+| 1849 | 19 | Chill Riserpiece |
+| 1850 | 19 | Crafty Snapline |
+| 1851 | 19 | Frilly Rollfit |
+| 1852 | 19 | Swift |
+| 1853 | 19 | Finn |
+| 1854 | 19 | Justin Decker |
+| 1855 | 18 | Jadiel Bermudez |
+| 1856 | 18 | Degenerate |
+| 1857 | 18 | Tonya Beverly |
+| 1858 | 18 | Samantha Kleine |
+| 1859 | 18 | Minion radish |
+| 1860 | 18 | Terri Tatem |
+| 1861 | 18 | McKayla Snell |
+| 1862 | 18 | Sylvia Fox |
+| 1863 | 18 | Vilma N Puruco Rodriguez |
+| 1864 | 18 | Roslyn Fitzgerald |
+| 1865 | 18 | Michaele Wagner |
+| 1866 | 18 | shaylyn |
 | 1867 | 17 | Stephanie Nash |
 | 1868 | 17 | Alainmino |
 | 1869 | 17 | Kyawt Sandi Thwe |
