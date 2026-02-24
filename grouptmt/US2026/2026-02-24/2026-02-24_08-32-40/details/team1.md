@@ -66,8 +66,8 @@
 | 58 | 1173 | Adam Byrd |
 | 59 | 1170 | Tater |
 | 60 | 1150 | Cynthia Bradley |
-| 61 | 1137 | Jen Sartain |
-| 62 | 1137 | TSwag |
+| 61 | 1137 | TSwag |
+| 62 | 1137 | Jen Sartain |
 | 63 | 1127 | Andrea Dañielle Ortiz |
 | 64 | 1122 | Kristen Gideon |
 | 65 | 1114 | Jayme Sellers |
@@ -87,8 +87,8 @@
 | 79 | 994 | Lori Sanders- Davis |
 | 80 | 973 | Francesca Gee |
 | 81 | 961 | Jacqueline Williams |
-| 82 | 957 | Zippy Align |
-| 83 | 957 | Erin Hodges Plumb |
+| 82 | 957 | Erin Hodges Plumb |
+| 83 | 957 | Zippy Align |
 | 84 | 944 | Sweet Baker |
 | 85 | 925 | Phu ckalldems |
 | 86 | 920 | Tee Sheree |
@@ -294,13 +294,13 @@
 | 286 | 373 | Frothy Pattern |
 | 287 | 372 | Wayne Saunders |
 | 288 | 372 | Dizzy Party |
-| 289 | 371 | Jaimie Lynn |
-| 290 | 371 | Cody Gates |
-| 291 | 371 | Danielle S Kester |
+| 289 | 371 | Danielle S Kester |
+| 290 | 371 | Jaimie Lynn |
+| 291 | 371 | Cody Gates |
 | 292 | 370 | Gracie |
 | 293 | 369 | Keith Mathis |
-| 294 | 367 | Cheeky Pop |
-| 295 | 367 | April Jones |
+| 294 | 367 | April Jones |
+| 295 | 367 | Cheeky Pop |
 | 296 | 366 | J.F. Fields |
 | 297 | 365 | Shannon Marie Pitts |
 | 298 | 365 | Amanda Holibaugh |

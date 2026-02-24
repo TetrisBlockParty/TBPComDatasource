@@ -341,8 +341,8 @@
 | 333 | 1304 | Sarah Ridenour |
 | 334 | 1303 | Michele Morgan |
 | 335 | 1301 | Mandy Cekine |
-| 336 | 1300 | Snappy Matchbuilder |
-| 337 | 1300 | Shinel Richardson |
+| 336 | 1300 | Shinel Richardson |
+| 337 | 1300 | Snappy Matchbuilder |
 | 338 | 1300 | Tacara Cummings |
 | 339 | 1295 | Jess Morrison |
 | 340 | 1292 | Joshua Mandel |
@@ -377,8 +377,8 @@
 | 369 | 1222 | Kristin Gower |
 | 370 | 1218 | LaKisha Anderson |
 | 371 | 1217 | Brooks Brooks |
-| 372 | 1215 | Toni Roberson |
-| 373 | 1215 | Hyper Cluster |
+| 372 | 1215 | Hyper Cluster |
+| 373 | 1215 | Toni Roberson |
 | 374 | 1214 | David Cudicio-Hayden |
 | 375 | 1211 | Kennedy Sandifer |
 | 376 | 1211 | Cynthia Ward |
@@ -413,12 +413,12 @@
 | 405 | 1123 | Jodi Mitnick |
 | 406 | 1119 | Bubbly Snapfit |
 | 407 | 1119 | Teresa Gillmore |
-| 408 | 1116 | Em Chen |
-| 409 | 1116 | Wakanda Forever |
-| 410 | 1109 | Melissa McCall |
-| 411 | 1109 | BYM4L |
-| 412 | 1105 | Jackie Avila |
-| 413 | 1105 | Nerdy Clearfit |
+| 408 | 1116 | Wakanda Forever |
+| 409 | 1116 | Em Chen |
+| 410 | 1109 | BYM4L |
+| 411 | 1109 | Melissa McCall |
+| 412 | 1105 | Nerdy Clearfit |
+| 413 | 1105 | Jackie Avila |
 | 414 | 1104 | Kimberly Hope Howell |
 | 415 | 1101 | Kathryn Townsley |
 | 416 | 1099 | Loony Snapper |
@@ -434,8 +434,8 @@
 | 426 | 1087 | Jenn Marie |
 | 427 | 1085 | Barbra Miller |
 | 428 | 1085 | Bee |
-| 429 | 1084 | Emilee Burke |
-| 430 | 1084 | William Hunt |
+| 429 | 1084 | William Hunt |
+| 430 | 1084 | Emilee Burke |
 | 431 | 1080 | Jennifer Monroe Kelly |
 | 432 | 1079 | Angela Bonquiqui Dinish |
 | 433 | 1079 | AndrewandShela Gornik |
@@ -537,8 +537,8 @@
 | 529 | 925 | Cris cris |
 | 530 | 923 | Chevy |
 | 531 | 922 | Butta |
-| 532 | 921 | Elisheva Mizrachi |
-| 533 | 921 | Dannette Goldberg-Richards |
+| 532 | 921 | Dannette Goldberg-Richards |
+| 533 | 921 | Elisheva Mizrachi |
 | 534 | 920 | Arwa Fatimah |
 | 535 | 919 | Isaac Trappiel IV |
 | 536 | 918 | Draizen Montrell Thomas |
@@ -554,8 +554,8 @@
 | 546 | 903 | Dylan Thomason |
 | 547 | 903 | Stephanie Lumanlan |
 | 548 | 902 | Stephanie Sul |
-| 549 | 899 | Caitlyn Blackwell |
-| 550 | 899 | Patrick Bartlett |
+| 549 | 899 | Patrick Bartlett |
+| 550 | 899 | Caitlyn Blackwell |
 | 551 | 898 | Koa N Sharon Chen |
 | 552 | 895 | Donna Colby |
 | 553 | 893 | Shantel Kelley |
@@ -717,8 +717,8 @@
 | 709 | 737 | Ginger |
 | 710 | 737 | Breezy Clusterer |
 | 711 | 736 | Kenan Catovic |
-| 712 | 734 | Michelle Sager |
-| 713 | 734 | Emily Lyric Converse |
+| 712 | 734 | Emily Lyric Converse |
+| 713 | 734 | Michelle Sager |
 | 714 | 733 | Joce Lynn |
 | 715 | 733 | Christine Bollig |
 | 716 | 732 | Leticia Martinez Kelley |
@@ -735,8 +735,8 @@
 | 727 | 725 | Cheyenne Donovan |
 | 728 | 725 | Vonceial Boone |
 | 729 | 724 | Brenna Ann |
-| 730 | 724 | teo1 |
-| 731 | 724 | Epic Fitzone |
+| 730 | 724 | Epic Fitzone |
+| 731 | 724 | teo1 |
 | 732 | 723 | Jannan Haimour |
 | 733 | 722 | Sassy Racker |
 | 734 | 720 | Crystal EatableCupcake Stepney |
@@ -829,10 +829,10 @@
 | 821 | 669 | Swanky Columnbuilder |
 | 822 | 669 | Armonie Smith |
 | 823 | 668 | Chilly Linebuilder |
-| 824 | 668 | Michelle Fields |
-| 825 | 668 | Brownie Sheena |
-| 826 | 668 | Alice Ball |
-| 827 | 668 | Nerdy Blockpiece |
+| 824 | 668 | Brownie Sheena |
+| 825 | 668 | Michelle Fields |
+| 826 | 668 | Nerdy Blockpiece |
+| 827 | 668 | Alice Ball |
 | 828 | 667 | Asante Alexander |
 | 829 | 667 | Snazzy Risegrid |
 | 830 | 667 | Demeka Dangerous-kisses Johnson |
@@ -880,8 +880,8 @@
 | 872 | 647 | Bob Vu |
 | 873 | 647 | Tori Bowers |
 | 874 | 645 | Kacee Conrad Bock |
-| 875 | 645 | Veronics |
-| 876 | 645 | NanDa Cruzan VI |
+| 875 | 645 | NanDa Cruzan VI |
+| 876 | 645 | Veronics |
 | 877 | 644 | Kevin Luu |
 | 878 | 643 | Rae Rae |
 | 879 | 642 | Lewis Sturgeon |
@@ -1360,8 +1360,8 @@
 | 1352 | 447 | Tammy Mitchell |
 | 1353 | 447 | Jake |
 | 1354 | 447 | Sammy |
-| 1355 | 447 | Rose Tripp |
-| 1356 | 447 | Dee Blokk |
+| 1355 | 447 | Dee Blokk |
+| 1356 | 447 | Rose Tripp |
 | 1357 | 446 | Scott |
 | 1358 | 446 | Thomas Smith |
 | 1359 | 445 | Jackie Beddow |

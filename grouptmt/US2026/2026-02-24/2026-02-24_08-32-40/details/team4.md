@@ -73,8 +73,8 @@
 | 65 | 1101 | Denia Deni |
 | 66 | 1094 | Shelly Chandler |
 | 67 | 1089 | Alyssa Papen |
-| 68 | 1082 | Dion Crommarty |
-| 69 | 1082 | Avy Absol |
+| 68 | 1082 | Avy Absol |
+| 69 | 1082 | Dion Crommarty |
 | 70 | 1081 | Dustee Craddock-Harrison |
 | 71 | 1080 | Chilly Line |
 | 72 | 1069 | Heather Tushner |
@@ -107,8 +107,8 @@
 | 99 | 846 | Christine Marie |
 | 100 | 840 | SAP |
 | 101 | 837 | Rica Mitchell |
-| 102 | 834 | quicksand420 |
-| 103 | 834 | Brittney Orengo |
+| 102 | 834 | Brittney Orengo |
+| 103 | 834 | quicksand420 |
 | 104 | 815 | Diana Houts |
 | 105 | 813 | Klo |
 | 106 | 811 | Sassy Pattern |
@@ -131,8 +131,8 @@
 | 123 | 735 | Nugget |
 | 124 | 731 | KJ Pool |
 | 125 | 729 | Jamie Mann-Deichmann |
-| 126 | 726 | Jamie Gustafson |
-| 127 | 726 | Amy Suckarieh |
+| 126 | 726 | Amy Suckarieh |
+| 127 | 726 | Jamie Gustafson |
 | 128 | 725 | Brandon Crabbs |
 | 129 | 719 | George Nutt |
 | 130 | 712 | H.R. Block |
@@ -195,8 +195,8 @@
 | 187 | 534 | Lucas J Sutton |
 | 188 | 532 | Matt Summer |
 | 189 | 532 | Alan George LaRage |
-| 190 | 528 | Carly Alexis |
-| 191 | 528 | Erin Sabol |
+| 190 | 528 | Erin Sabol |
+| 191 | 528 | Carly Alexis |
 | 192 | 525 | 🥔🥔 Spudz |
 | 193 | 524 | Circuit8 |
 | 194 | 521 | Andy Cabral |
@@ -259,9 +259,9 @@
 | 251 | 432 | scott |
 | 252 | 431 | Brickh4us |
 | 253 | 428 | Gdiguy |
-| 254 | 427 | Cheery Risebuilder |
+| 254 | 427 | Jeff Brian Gates |
 | 255 | 427 | Chao Ma |
-| 256 | 427 | Jeff Brian Gates |
+| 256 | 427 | Cheery Risebuilder |
 | 257 | 424 | Andrew Dang |
 | 258 | 421 | JIGsaw ~(•¿°)~ |
 | 259 | 419 | Hyper Matchclear |
@@ -316,8 +316,8 @@
 | 308 | 354 | Perky Piecegrid |
 | 309 | 354 | @ |
 | 310 | 352 | Kate |
-| 311 | 351 | Dana Scott |
-| 312 | 351 | Jackie Clark |
+| 311 | 351 | Jackie Clark |
+| 312 | 351 | Dana Scott |
 | 313 | 350 | Dizzy Matchzone |
 | 314 | 349 | jim |
 | 315 | 349 | Richard-April Kice |
@@ -327,8 +327,8 @@
 | 319 | 347 | Megan Cutshaw |
 | 320 | 346 | Metsfan |
 | 321 | 344 | Amanda Maciel Clarke |
-| 322 | 343 | Blessedmama |
-| 323 | 343 | HastyGrabber |
+| 322 | 343 | HastyGrabber |
+| 323 | 343 | Blessedmama |
 | 324 | 342 | Lauren Lamb |
 | 325 | 341 | Jason Bosco |
 | 326 | 340 | Juls |
@@ -344,10 +344,10 @@
 | 336 | 331 | rebel4lyfe |
 | 337 | 330 | Sandra Safford |
 | 338 | 330 | Duck |
-| 339 | 329 | AyeKay |
-| 340 | 329 | Meagan Nicole |
-| 341 | 328 | Leah Kutz Zirbel |
-| 342 | 328 | Heather Bruce |
+| 339 | 329 | Meagan Nicole |
+| 340 | 329 | AyeKay |
+| 341 | 328 | Heather Bruce |
+| 342 | 328 | Leah Kutz Zirbel |
 | 343 | 327 | Jim Hart |
 | 344 | 327 | Jessica Petersen |
 | 345 | 325 | Cool Gridzone |
@@ -424,8 +424,8 @@
 | 416 | 279 | Ziggy |
 | 417 | 278 | L Bear Champion |
 | 418 | 278 | Shainne Brewer |
-| 419 | 277 | Silly SeaWeed |
-| 420 | 277 | Maria Hammie |
+| 419 | 277 | Maria Hammie |
+| 420 | 277 | Silly SeaWeed |
 | 421 | 276 | Dennis Bradley |
 | 422 | 275 | Jarred Falls |
 | 423 | 274 | Kourtney Barnes |
@@ -859,7 +859,7 @@
 | 851 | 132 | Adam Randall |
 | 852 | 132 | Laura Chase-Amara |
 | 853 | 132 | Jessica Cagle |
-| 854 | 132 | JEan Price |
+| 854 | 132 | Aj Brantley Lpn |
 | 855 | 132 | Joe Lonnemann |
 | 856 | 132 | JEan Price |
 | 857 | 131 | Albert Walker III |

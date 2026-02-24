@@ -68,8 +68,8 @@
 | 60 | 1931 | Denise Nardoni |
 | 61 | 1920 | Trezure Gonzalez |
 | 62 | 1858 | Kristie McFarland |
-| 63 | 1824 | Jessica Ann |
-| 64 | 1824 | Nate Burnside |
+| 63 | 1824 | Nate Burnside |
+| 64 | 1824 | Jessica Ann |
 | 65 | 1804 | Tina Kay |
 | 66 | 1791 | Leah Barnett |
 | 67 | 1776 | Whitney Manuel |
@@ -165,8 +165,8 @@
 | 157 | 925 | Cherry Parker |
 | 158 | 914 | BadManSheLove |
 | 159 | 914 | Sarajane Lokan |
-| 160 | 910 | opf |
-| 161 | 910 | Staci George Fitzsimmons |
+| 160 | 910 | Staci George Fitzsimmons |
+| 161 | 910 | opf |
 | 162 | 906 | Patti Skiles |
 | 163 | 899 | Jaime Monhaut-Reed |
 | 164 | 894 | Denita Mungro |
@@ -175,8 +175,8 @@
 | 167 | 875 | Chasity |
 | 168 | 874 | Jessica Pineda-Lopez |
 | 169 | 871 | Rochelle Hazelett |
-| 170 | 868 | Cranky Gridder |
-| 171 | 868 | Nicole Flippo |
+| 170 | 868 | Nicole Flippo |
+| 171 | 868 | Cranky Gridder |
 | 172 | 866 | Domo Washington |
 | 173 | 864 | Sunny Rotater |
 | 174 | 862 | Santeria Trece Candles |
@@ -190,8 +190,8 @@
 | 182 | 832 | Alexmac |
 | 183 | 829 | Patricia White |
 | 184 | 825 | Lizabeth Fox |
-| 185 | 821 | Angella Lyons |
-| 186 | 821 | Kammy Hill |
+| 185 | 821 | Kammy Hill |
+| 186 | 821 | Angella Lyons |
 | 187 | 817 | Niki Dalrymple |
 | 188 | 815 | Justin Ritter |
 | 189 | 813 | JessDrown |
@@ -389,13 +389,13 @@
 | 381 | 430 | Quackers |
 | 382 | 428 | Skinny Baldez |
 | 383 | 428 | Hoài Quắt |
-| 384 | 428 | Skinny Baldez |
+| 384 | 428 | Samantha Lynn |
 | 385 | 427 | Darlene McMillan |
 | 386 | 426 | Christina Rotz Shows |
 | 387 | 425 | Ava Petito |
 | 388 | 423 | Dapper Liney |
-| 389 | 419 | Philip Rock |
-| 390 | 419 | Desiree Gold |
+| 389 | 419 | Desiree Gold |
+| 390 | 419 | Philip Rock |
 | 391 | 419 | Maggie |
 | 392 | 418 | Rainbow77375 |
 | 393 | 416 | Tay |
@@ -698,8 +698,8 @@
 | 690 | 270 | Frothy Snapper |
 | 691 | 270 | Courtney van der Kooy |
 | 692 | 270 | Crafty Tilemaker |
-| 693 | 269 | Serena Jarrell |
-| 694 | 269 | Bigmack |
+| 693 | 269 | Bigmack |
+| 694 | 269 | Serena Jarrell |
 | 695 | 268 | DanceLuvLaugh |
 | 696 | 268 | Julia Nicole |
 | 697 | 268 | Wacky Crasher |
@@ -1744,7 +1744,7 @@
 | 1736 | 95 | Wacky Caster |
 | 1737 | 95 | Natashia Richardson |
 | 1738 | 95 | Bridgette Hodges |
-| 1739 | 95 | melloman74 |
+| 1739 | 95 | Richard Rowell |
 | 1740 | 95 | Isabelle Hall-Burns |
 | 1741 | 95 | Lori Haymann |
 | 1742 | 95 | melloman74 |
