@@ -107,8 +107,8 @@
 | 99 | 798 | Jewell Urban |
 | 100 | 792 | Denise Carlson |
 | 101 | 781 | Brittney Griggs |
-| 102 | 780 | TheNeesh50 |
-| 103 | 780 | Keith Kelley |
+| 102 | 780 | Keith Kelley |
+| 103 | 780 | TheNeesh50 |
 | 104 | 779 | Nope Young |
 | 105 | 775 | Klo |
 | 106 | 768 | Trista Leah |
@@ -125,8 +125,8 @@
 | 117 | 716 | Savannah Overdorf |
 | 118 | 712 | H.R. Block |
 | 119 | 710 | SAP |
-| 120 | 708 | Jacqueline Helm |
-| 121 | 708 | Zippy Gridlock |
+| 120 | 708 | Zippy Gridlock |
+| 121 | 708 | Jacqueline Helm |
 | 122 | 704 | Austin Owens |
 | 123 | 702 | Amy Suckarieh |
 | 124 | 698 | Chilly Crasher |
@@ -248,8 +248,8 @@
 | 240 | 413 | Jeff Brian Gates |
 | 241 | 411 | Autumn Kumzi |
 | 242 | 410 | Lindsay Ball |
-| 243 | 409 | Joseph Guthrie |
-| 244 | 409 | Antony Dwayne Beasley |
+| 243 | 409 | Antony Dwayne Beasley |
+| 244 | 409 | Joseph Guthrie |
 | 245 | 408 | Lauren Scott |
 | 246 | 406 | TinyLegoRose |
 | 247 | 406 | scott |
@@ -497,9 +497,9 @@
 | 489 | 222 | Rhys Morgan |
 | 490 | 222 | Tipsy Cascader |
 | 491 | 221 | Rheanda Weaskus |
-| 492 | 220 | ThriftySpice |
-| 493 | 220 | Helen Chao |
-| 494 | 220 | Mighty Edgepiece |
+| 492 | 220 | Helen Chao |
+| 493 | 220 | Mighty Edgepiece |
+| 494 | 220 | ThriftySpice |
 | 495 | 219 | Brandon Link |
 | 496 | 218 | Cheaneen Livingston |
 | 497 | 218 | Dorian |

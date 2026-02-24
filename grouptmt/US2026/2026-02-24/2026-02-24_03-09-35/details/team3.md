@@ -346,8 +346,8 @@
 | 338 | 444 | Snazzy Filler |
 | 339 | 443 | Carrie Huskey |
 | 340 | 443 | Christian Werndl |
-| 341 | 442 | Loopy Fallzone |
-| 342 | 442 | Jennifer Alvey |
+| 341 | 442 | Jennifer Alvey |
+| 342 | 442 | Loopy Fallzone |
 | 343 | 438 | Dannie Litchard |
 | 344 | 436 | AC Yeater |
 | 345 | 435 | Sabrina Hardrick |
@@ -372,9 +372,9 @@
 | 364 | 408 | Ashley Muncey |
 | 365 | 408 | Tiffany Ford |
 | 366 | 407 | Christina Spa |
-| 367 | 405 | Skinny Baldez |
-| 368 | 405 | Andrew Thorson |
-| 369 | 405 | fraulila |
+| 367 | 405 | fraulila |
+| 368 | 405 | Skinny Baldez |
+| 369 | 405 | Andrew Thorson |
 | 370 | 404 | Giggy Balanceblock |
 | 371 | 403 | Scott Lindsay |
 | 372 | 403 | Stephanie Burtin |

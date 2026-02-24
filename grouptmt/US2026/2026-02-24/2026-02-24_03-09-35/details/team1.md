@@ -396,8 +396,8 @@
 | 388 | 280 | Gina Bettikofer |
 | 389 | 279 | Chris Dawson |
 | 390 | 279 | Herm Junior |
-| 391 | 278 | Thorne Shumate |
-| 392 | 278 | Michelle |
+| 391 | 278 | Michelle |
+| 392 | 278 | Thorne Shumate |
 | 393 | 277 | Nutty Spinblock |
 | 394 | 275 | san |
 | 395 | 275 | Mighty Shatterfit |
@@ -447,11 +447,11 @@
 | 439 | 255 | Sunshine |
 | 440 | 254 | Kipoi |
 | 441 | 253 | Mary Crisp |
-| 442 | 252 | Angela Dawn Torres-Tarrants |
+| 442 | 252 | Dena Kayy |
 | 443 | 252 | Tamara Brown |
-| 444 | 252 | Dena Kayy |
-| 445 | 251 | MRdot Rooski |
-| 446 | 251 | Randy Broadwater |
+| 444 | 252 | Angela Dawn Torres-Tarrants |
+| 445 | 251 | Randy Broadwater |
+| 446 | 251 | MRdot Rooski |
 | 447 | 249 | Mary Cerciello |
 | 448 | 249 | Toni Sagenbrecht |
 | 449 | 248 | Sunflower |

@@ -319,8 +319,8 @@
 | 311 | 1267 | Missie Lawson Gebhardt |
 | 312 | 1263 | Roman Lavochnik |
 | 313 | 1259 | Foxxo |
-| 314 | 1257 | Megan Ferguson Leone |
-| 315 | 1257 | Megan Garrick |
+| 314 | 1257 | Megan Garrick |
+| 315 | 1257 | Megan Ferguson Leone |
 | 316 | 1254 | Erika Densmore |
 | 317 | 1245 | Angel Hunnewell |
 | 318 | 1241 | Jackie Lucas |
