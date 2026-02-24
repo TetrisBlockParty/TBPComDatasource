@@ -111,8 +111,8 @@
 | 103 | 1309 | yoyo |
 | 104 | 1297 | Shelby Michelle |
 | 105 | 1290 | JerseyJess |
-| 106 | 1282 | Peppy Shifter |
-| 107 | 1282 | Amanda L Baker |
+| 106 | 1282 | Amanda L Baker |
+| 107 | 1282 | Peppy Shifter |
 | 108 | 1276 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1248 | Lori Barnaby |
@@ -258,12 +258,12 @@
 | 250 | 642 | Rania Zaqout |
 | 251 | 641 | Tom Nault |
 | 252 | 640 | Dee Pratt |
-| 253 | 639 | Nichol Graham |
-| 254 | 639 | Marci Mize Fandrich |
+| 253 | 639 | Marci Mize Fandrich |
+| 254 | 639 | Nichol Graham |
 | 255 | 637 | Giddy Twistbuilder |
 | 256 | 635 | Amber Hughes |
-| 257 | 633 | Rebecca Funderburk Kirby |
-| 258 | 633 | Jillian Symons |
+| 257 | 633 | Jillian Symons |
+| 258 | 633 | Rebecca Funderburk Kirby |
 | 259 | 632 | Rebecca Bailey |
 | 260 | 630 | Jackie Miller |
 | 261 | 629 | rnr junky |
@@ -329,11 +329,11 @@
 | 321 | 505 | Stephanie Simpson |
 | 322 | 504 | Daring Builder |
 | 323 | 500 | Ashley Tookes |
-| 324 | 499 | Gumbo |
-| 325 | 499 | Megan Rathmanner |
+| 324 | 499 | Megan Rathmanner |
+| 325 | 499 | Gumbo |
 | 326 | 496 | Brenda Schmid Wood |
-| 327 | 494 | fraulila |
-| 328 | 494 | MCV |
+| 327 | 494 | MCV |
+| 328 | 494 | fraulila |
 | 329 | 492 | Tasha Wesson-Torrence |
 | 330 | 490 | TotoCherue |
 | 331 | 490 | Cassandra Bryant |
@@ -542,8 +542,8 @@
 | 534 | 329 | Bree Sexton |
 | 535 | 329 | Krystal Gerstberger |
 | 536 | 328 | Sdot |
-| 537 | 328 | Desiree Soto |
-| 538 | 328 | Cesar Mendez |
+| 537 | 328 | Cesar Mendez |
+| 538 | 328 | Desiree Soto |
 | 539 | 327 | Jess Bissett |
 | 540 | 327 | Taylor Hood |
 | 541 | 326 | Natalie Augustus |
@@ -642,10 +642,10 @@
 | 634 | 290 | Zesty Rotater |
 | 635 | 290 | Rayzer |
 | 636 | 290 | Justin Parker |
-| 637 | 289 | DidIdothat |
-| 638 | 289 | Peachy Tower |
+| 637 | 289 | Peachy Tower |
+| 638 | 289 | Michelle Clarno |
 | 639 | 289 | Andy Jacobson |
-| 640 | 289 | Michelle Clarno |
+| 640 | 289 | DidIdothat |
 | 641 | 287 | Timea Popladek |
 | 642 | 286 | Morgan Cudo |
 | 643 | 286 | Jm |
@@ -1318,7 +1318,7 @@
 | 1310 | 147 | Ozell Jones |
 | 1311 | 147 | Jennifer MacCharles |
 | 1312 | 147 | Corisha Grant |
-| 1313 | 147 | Jennifer MacCharles |
+| 1313 | 147 | Nikki Boone |
 | 1314 | 146 | Nathaniel Foster |
 | 1315 | 146 | Oliver Neal II |
 | 1316 | 146 | Dizzy Towerfit |

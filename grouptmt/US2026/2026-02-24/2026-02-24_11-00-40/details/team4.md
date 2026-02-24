@@ -74,14 +74,14 @@
 | 66 | 1119 | Amelpss |
 | 67 | 1109 | BertMofo |
 | 68 | 1089 | Alyssa Papen |
-| 69 | 1082 | Avy Absol |
-| 70 | 1082 | Dion Crommarty |
+| 69 | 1082 | Dion Crommarty |
+| 70 | 1082 | Avy Absol |
 | 71 | 1081 | Dustee Craddock-Harrison |
 | 72 | 1080 | Chilly Line |
 | 73 | 1069 | Heather Tushner |
 | 74 | 1056 | Keith Kelley |
-| 75 | 1046 | Anthony Bryan Riva |
-| 76 | 1046 | Johnathan Martinez |
+| 75 | 1046 | Johnathan Martinez |
+| 76 | 1046 | Anthony Bryan Riva |
 | 77 | 1031 | LisaJo Picken Buchanan |
 | 78 | 1028 | TeeJ |
 | 79 | 1024 | Valerie Roberts |
@@ -144,8 +144,8 @@
 | 136 | 686 | Angela Srubar-Norman |
 | 137 | 682 | Raegan Lane-Ross |
 | 138 | 668 | Desi Desporte |
-| 139 | 667 | Swanky Fitline |
-| 140 | 667 | Matt Gooder |
+| 139 | 667 | Matt Gooder |
+| 140 | 667 | Swanky Fitline |
 | 141 | 667 | Lindsey Gonzalez |
 | 142 | 662 | Nerdy Twisterfit |
 | 143 | 661 | Rodney McMath Jr. |
@@ -178,8 +178,8 @@
 | 170 | 576 | Jade Rian |
 | 171 | 575 | Jenna Ingersoll |
 | 172 | 573 | Rico |
-| 173 | 571 | Andy Cabral |
-| 174 | 571 | Rebecca Morris |
+| 173 | 571 | Rebecca Morris |
+| 174 | 571 | Andy Cabral |
 | 175 | 568 | Cindy Looper |
 | 176 | 566 | Lori |
 | 177 | 565 | Ren Mc |
@@ -196,9 +196,9 @@
 | 188 | 536 | JPW |
 | 189 | 535 | Berklie Apedaile |
 | 190 | 534 | Lucas J Sutton |
-| 191 | 532 | Alan George LaRage |
-| 192 | 532 | Matt Summer |
-| 193 | 532 | Carly Alexis |
+| 191 | 532 | Matt Summer |
+| 192 | 532 | Carly Alexis |
+| 193 | 532 | Alan George LaRage |
 | 194 | 528 | Erin Sabol |
 | 195 | 525 | 🥔🥔 Spudz |
 | 196 | 525 | Crystal Lynn |
@@ -240,8 +240,8 @@
 | 232 | 463 | shark tato |
 | 233 | 462 | Crystal Nicolette Moore |
 | 234 | 460 | Kathy Brookins |
-| 235 | 458 | Luis Martinez |
-| 236 | 458 | Kristina Black |
+| 235 | 458 | Kristina Black |
+| 236 | 458 | Luis Martinez |
 | 237 | 457 | J-Rizzle |
 | 238 | 457 | Kristin Manee |
 | 239 | 455 | Michele Plunkett |
@@ -263,9 +263,9 @@
 | 255 | 431 | Brickh4us |
 | 256 | 430 | 030Synner |
 | 257 | 428 | Gdiguy |
-| 258 | 427 | Cheery Risebuilder |
+| 258 | 427 | Jeff Brian Gates |
 | 259 | 427 | Chao Ma |
-| 260 | 427 | Jeff Brian Gates |
+| 260 | 427 | Cheery Risebuilder |
 | 261 | 425 | Lee Silpe |
 | 262 | 425 | mike |
 | 263 | 424 | Andrew Dang |
@@ -309,8 +309,8 @@
 | 301 | 375 | George Tzouganos |
 | 302 | 373 | Russ Attitude |
 | 303 | 371 | Jessi Cinotto |
-| 304 | 370 | Twisty Risebuilder |
-| 305 | 370 | Kris Bartlett |
+| 304 | 370 | Kris Bartlett |
+| 305 | 370 | Twisty Risebuilder |
 | 306 | 368 | Dan Wold |
 | 307 | 367 | Meg |
 | 308 | 366 | Ak Jones |
