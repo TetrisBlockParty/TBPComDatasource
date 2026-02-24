@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-24 20:12:43 UTC
+# Standings for team1 as of 2026-02-24 20:13:22 UTC
 
 **Total Participants:** 2312
 
@@ -8,7 +8,7 @@
 | :- | :- | :- |
 | 1 | 10597 | TAZ-MF-NIZIL |
 | 2 | 8424 | Felicia Haynes |
-| 3 | 7838 | Zerin Graham |
+| 3 | 7848 | Zerin Graham |
 | 4 | 7160 | Izzie Ramirez-Ford |
 | 5 | 6404 | 'Gilberto Martinez' |
 | 6 | 6100 | Matt |
@@ -60,7 +60,7 @@
 | 52 | 1387 | june october |
 | 53 | 1362 | Hasbro Bros |
 | 54 | 1332 | Drew Magnus |
-| 55 | 1304 | Adrian Esteban |
+| 55 | 1318 | Adrian Esteban |
 | 56 | 1291 | Cheeky Twistslam |
 | 57 | 1281 | Lori Sanders- Davis |
 | 58 | 1281 | Cynthia Bradley |
@@ -160,8 +160,8 @@
 | 152 | 652 | Evie Khalil |
 | 153 | 648 | Ty Brown |
 | 154 | 647 | Theo Pinnow |
-| 155 | 641 | Tanya Carpenter-Reynolds |
-| 156 | 636 | Tiger Lily |
+| 155 | 641 | Tiger Lily |
+| 156 | 641 | Tanya Carpenter-Reynolds |
 | 157 | 632 | Snippy Wipebuilder |
 | 158 | 626 | Damon J. Martin |
 | 159 | 623 | Flashy Rotator |
@@ -181,19 +181,19 @@
 | 173 | 586 | SkipTheSadSauce |
 | 174 | 579 | Michelle Beres |
 | 175 | 577 | Jerry Danowski |
-| 176 | 576 | Brandi Huntington |
-| 177 | 576 | Tonya Beasley |
+| 176 | 576 | Tonya Beasley |
+| 177 | 576 | Brandi Huntington |
 | 178 | 575 | Νεφ Όνυξ |
 | 179 | 574 | Sarah Lombardo |
-| 180 | 574 | Bouncy Grid |
-| 181 | 574 | Rat666 |
+| 180 | 574 | Rat666 |
+| 181 | 574 | Bouncy Grid |
 | 182 | 572 | Ly Phethmany |
 | 183 | 570 | Cody Slav |
 | 184 | 568 | Jason Savage |
-| 185 | 565 | Jessica Russell |
-| 186 | 565 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
-| 187 | 564 | Sleepysloath5745 |
-| 188 | 564 | Speedy Liney |
+| 185 | 565 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
+| 186 | 565 | Jessica Russell |
+| 187 | 564 | Speedy Liney |
+| 188 | 564 | Sleepysloath5745 |
 | 189 | 561 | Constance Risner |
 | 190 | 555 | Loony Fitzone |
 | 191 | 550 | John J. Cronin |
@@ -203,20 +203,20 @@
 | 195 | 544 | Sean Stallings |
 | 196 | 540 | Plucky Ziggy |
 | 197 | 539 | Tana |
-| 198 | 538 | Rebekah LeiAnn Bonsell |
-| 199 | 537 | Chaste Minor |
-| 200 | 535 | DaRascal |
-| 201 | 534 | Tawnya Peltonen |
+| 198 | 539 | MomMom |
+| 199 | 538 | Rebekah LeiAnn Bonsell |
+| 200 | 537 | Chaste Minor |
+| 201 | 535 | DaRascal |
 | 202 | 534 | Steve Schneider |
-| 203 | 532 | Nery Martinez |
-| 204 | 531 | Jumpy Dropper |
-| 205 | 530 | Logan McFarland |
-| 206 | 529 | Anaid Sanchez |
-| 207 | 525 | Arianna O'Brien |
-| 208 | 525 | Mike Ames |
+| 203 | 534 | Tawnya Peltonen |
+| 204 | 532 | Nery Martinez |
+| 205 | 531 | Jumpy Dropper |
+| 206 | 530 | Logan McFarland |
+| 207 | 529 | Anaid Sanchez |
+| 208 | 525 | Arianna O'Brien |
 | 209 | 525 | ParisandCory Champagne |
-| 210 | 521 | Teri Oehlke |
-| 211 | 520 | MomMom |
+| 210 | 525 | Mike Ames |
+| 211 | 521 | Teri Oehlke |
 | 212 | 520 | Lindsay Glover |
 | 213 | 519 | Cool Shiftsnap |
 | 214 | 518 | Adele Rahman |
@@ -231,8 +231,8 @@
 | 223 | 491 | Yvonne Marie |
 | 224 | 490 | Hasty Cascader |
 | 225 | 488 | Lehrin Maria |
-| 226 | 487 | Howdi Duty |
-| 227 | 487 | Sam Williams |
+| 226 | 487 | Sam Williams |
+| 227 | 487 | Howdi Duty |
 | 228 | 486 | David Miller |
 | 229 | 485 | Standia Civil |
 | 230 | 483 | Tyler Werts |
@@ -467,28 +467,28 @@
 | 459 | 294 | Jade |
 | 460 | 293 | Sunny Pivotfall |
 | 461 | 293 | Zesty Brickzone |
-| 462 | 292 | Clever Cascadepiece |
-| 463 | 292 | Blake Mckay |
+| 462 | 292 | Blake Mckay |
+| 463 | 292 | Clever Cascadepiece |
 | 464 | 291 | Joshua Weeder |
 | 465 | 291 | Sir-Franchise Drake |
-| 466 | 291 | Danielle Mae |
-| 467 | 291 | Toph |
+| 466 | 291 | Toph |
+| 467 | 291 | Danielle Mae |
 | 468 | 290 | Carlos Floyd |
 | 469 | 290 | Ariel Whittington |
-| 470 | 290 | Brave Slice |
-| 471 | 289 | Snappy Bridgepiece |
-| 472 | 288 | ash |
-| 473 | 288 | I Am |
-| 474 | 288 | Purple |
-| 475 | 288 | Megan Kradzinski Ferguson |
-| 476 | 287 | Rikki Jo Creech |
-| 477 | 287 | Jason Benitez |
+| 470 | 290 | Tiffany Smith |
+| 471 | 290 | Brave Slice |
+| 472 | 289 | Snappy Bridgepiece |
+| 473 | 288 | ash |
+| 474 | 288 | I Am |
+| 475 | 288 | Purple |
+| 476 | 288 | Megan Kradzinski Ferguson |
+| 477 | 287 | Rikki Jo Creech |
 | 478 | 287 | Abbey Crespo |
-| 479 | 287 | Barry Mac'Ockner |
-| 480 | 286 | Cool Balancer |
-| 481 | 285 | Sunshine |
+| 479 | 287 | Jason Benitez |
+| 480 | 287 | Barry Mac'Ockner |
+| 481 | 286 | Cool Balancer |
 | 482 | 285 | Amie Fields |
-| 483 | 285 | Tiffany Smith |
+| 483 | 285 | Sunshine |
 | 484 | 284 | Mary Cerciello |
 | 485 | 283 | Matthew Foley |
 | 486 | 283 | Franswa |
@@ -497,29 +497,29 @@
 | 489 | 282 | MamaB24 |
 | 490 | 282 | Timothy Dew |
 | 491 | 282 | Toni Sagenbrecht |
-| 492 | 281 | Shiny Snapline |
-| 493 | 281 | Chilly Riserpiece |
+| 492 | 281 | Chilly Riserpiece |
+| 493 | 281 | Shiny Snapline |
 | 494 | 281 | Jessie |
-| 495 | 280 | Llewej Rekab |
-| 496 | 280 | Kayla Marie Stevenson |
+| 495 | 280 | Christy LaSure |
+| 496 | 280 | Llewej Rekab |
 | 497 | 280 | Mary Sheets |
-| 498 | 280 | Christy LaSure |
+| 498 | 280 | Kayla Marie Stevenson |
 | 499 | 280 | Ruthie Mahoney Saunders-Browne |
 | 500 | 279 | Chris Dawson |
 | 501 | 278 | Thorne Shumate |
 | 502 | 278 | Sassy Towerer |
-| 503 | 277 | Melanie Kelley |
-| 504 | 277 | Lucile Lynn |
-| 505 | 276 | Scott Betson |
-| 506 | 276 | Ma stoken |
+| 503 | 277 | Lucile Lynn |
+| 504 | 277 | Melanie Kelley |
+| 505 | 276 | Ma stoken |
+| 506 | 276 | Scott Betson |
 | 507 | 275 | Jake Mcnabb |
 | 508 | 274 | Mel Fab |
 | 509 | 274 | Manley Smith |
 | 510 | 273 | Peppy Columnbuilder |
-| 511 | 272 | Epic Jumper |
-| 512 | 272 | Rachel Copas |
-| 513 | 271 | Charlie Walker |
-| 514 | 271 | Kristen Meehan Wangerien |
+| 511 | 272 | Rachel Copas |
+| 512 | 272 | Epic Jumper |
+| 513 | 271 | Kristen Meehan Wangerien |
+| 514 | 271 | Charlie Walker |
 | 515 | 270 | John Barron |
 | 516 | 270 | Breanna Luna |
 | 517 | 269 | Ramona Shaver |
@@ -656,12 +656,12 @@
 | 648 | 217 | Sarah Bersano |
 | 649 | 216 | BettyAnn Savo |
 | 650 | 216 | Shauntina Burke |
-| 651 | 216 | Nicolette Ivory Chastain |
-| 652 | 215 | Jeffrey Scott Younkins |
-| 653 | 215 | Jenny Hughes |
-| 654 | 215 | Britney Marie Burton Cole |
-| 655 | 215 | Missy Broz McNees |
-| 656 | 215 | Gina Fontana Meier |
+| 651 | 216 | Gina Fontana Meier |
+| 652 | 216 | Nicolette Ivory Chastain |
+| 653 | 215 | Jeffrey Scott Younkins |
+| 654 | 215 | Jenny Hughes |
+| 655 | 215 | Britney Marie Burton Cole |
+| 656 | 215 | Missy Broz McNees |
 | 657 | 215 | Gauge Slusher |
 | 658 | 215 | Swanky Patternfit |
 | 659 | 214 | Alex Gauthier |
