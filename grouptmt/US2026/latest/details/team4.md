@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-24 22:34:43 UTC
+# Standings for team4 as of 2026-02-24 22:35:23 UTC
 
 **Total Participants:** 2095
 
@@ -942,29 +942,29 @@
 | 934 | 130 | Snappy Combofall |
 | 935 | 130 | Loony Slider |
 | 936 | 129 | Michele Badgwell |
-| 937 | 129 | Juan Barron |
-| 938 | 129 | mitch |
-| 939 | 129 | Dreamy Snapgrid |
-| 940 | 129 | Ryan Knives Vanderpool |
-| 941 | 128 | Shiny Matchfit |
-| 942 | 128 | Bigg Guy |
-| 943 | 128 | Vanita M Hemphill |
-| 944 | 128 | Tyler Brown |
-| 945 | 128 | Raeann Gibson |
-| 946 | 127 | Lynella |
-| 947 | 127 | LucasEveryday |
-| 948 | 127 | Maverick |
-| 949 | 127 | Riley Chelsie |
-| 950 | 127 | Danelle Sulentic |
-| 951 | 126 | Skyler Patzer |
-| 952 | 126 | PAPatty |
-| 953 | 126 | Bob N Alisha Hinojosa |
-| 954 | 126 | Lynette Manning |
-| 955 | 126 | Spicy Cascadezone |
-| 956 | 126 | amy |
-| 957 | 126 | Ian Starnes |
-| 958 | 125 | Liliveth |
-| 959 | 125 | Brittany Price |
+| 937 | 129 | Raeann Gibson |
+| 938 | 129 | Juan Barron |
+| 939 | 129 | mitch |
+| 940 | 129 | Dreamy Snapgrid |
+| 941 | 129 | Ryan Knives Vanderpool |
+| 942 | 128 | Shiny Matchfit |
+| 943 | 128 | Bigg Guy |
+| 944 | 128 | Vanita M Hemphill |
+| 945 | 128 | Tyler Brown |
+| 946 | 127 | Riley Chelsie |
+| 947 | 127 | Danelle Sulentic |
+| 948 | 127 | Lynella |
+| 949 | 127 | LucasEveryday |
+| 950 | 127 | Maverick |
+| 951 | 126 | Ian Starnes |
+| 952 | 126 | Skyler Patzer |
+| 953 | 126 | PAPatty |
+| 954 | 126 | Bob N Alisha Hinojosa |
+| 955 | 126 | Lynette Manning |
+| 956 | 126 | Spicy Cascadezone |
+| 957 | 126 | amy |
+| 958 | 125 | Brittany Price |
+| 959 | 125 | Liliveth |
 | 960 | 124 | Zzz |
 | 961 | 123 | RobinC |
 | 962 | 123 | Gregory Mock |
@@ -1016,8 +1016,8 @@
 | 1008 | 115 | Chummy Riserpiece |
 | 1009 | 115 | Mona Touchine |
 | 1010 | 115 | Brenda Bird |
-| 1011 | 115 | Jayk |
-| 1012 | 114 | Daring Strike |
+| 1011 | 115 | Daring Strike |
+| 1012 | 115 | Jayk |
 | 1013 | 114 | KAP |
 | 1014 | 114 | Beezie |
 | 1015 | 114 | Nutty Lifter |
@@ -1643,8 +1643,8 @@
 | 1635 | 37 | Monica Denise Webb |
 | 1636 | 37 | J |
 | 1637 | 37 | Grant Everett Heaslip |
-| 1638 | 37 | Peachy Patternline |
-| 1639 | 37 | Savannah Saphyre Allen |
+| 1638 | 37 | Savannah Saphyre Allen |
+| 1639 | 37 | Peachy Patternline |
 | 1640 | 37 | Tipsy Zonepiece |
 | 1641 | 37 | Ios |
 | 1642 | 37 | Slinky Brickroll |
@@ -1658,20 +1658,20 @@
 | 1650 | 36 | Iajrbda Wjaudbrkq |
 | 1651 | 36 | Mia |
 | 1652 | 36 | InfinitLee |
-| 1653 | 36 | Will Smith |
-| 1654 | 36 | Keith Allen |
+| 1653 | 36 | Keith Allen |
+| 1654 | 36 | Will Smith |
 | 1655 | 36 | Kelly Newsom |
 | 1656 | 36 | Bryson Peebles |
 | 1657 | 36 | Zesty Blocky |
-| 1658 | 35 | netzwrk |
-| 1659 | 35 | Mimi |
+| 1658 | 35 | Cj Austin |
+| 1659 | 35 | Josh Brock |
 | 1660 | 35 | Shanna Poet |
-| 1661 | 35 | Bubbly Shatterline |
-| 1662 | 35 | Josh Brock |
-| 1663 | 35 | Alicia Bryant |
-| 1664 | 35 | Camyra Dunnigan |
-| 1665 | 35 | Kathy Eschenbach |
-| 1666 | 35 | Cj Austin |
+| 1661 | 35 | Mimi |
+| 1662 | 35 | netzwrk |
+| 1663 | 35 | Kathy Eschenbach |
+| 1664 | 35 | Alicia Bryant |
+| 1665 | 35 | Camyra Dunnigan |
+| 1666 | 35 | Bubbly Shatterline |
 | 1667 | 35 | TrillVille |
 | 1668 | 35 | Smiley Wipebuilder |
 | 1669 | 35 | Nayyirah Hariyyan |
@@ -1682,55 +1682,55 @@
 | 1674 | 34 | Krista Wilder |
 | 1675 | 34 | Christi Gumber |
 | 1676 | 34 | ChromaticZero |
-| 1677 | 34 | kn1fehandz |
-| 1678 | 34 | Brandy Birkett |
-| 1679 | 34 | Saucy Snapper |
-| 1680 | 34 | John Anderson |
-| 1681 | 34 | Lil Miss |
-| 1682 | 33 | Jolene Marie Caetano |
-| 1683 | 33 | Emily Finhill |
-| 1684 | 33 | Getem gone |
-| 1685 | 33 | Cheery Blockmatch |
-| 1686 | 33 | 1 |
-| 1687 | 33 | Jodi Warner Sommerer |
-| 1688 | 33 | Robert Sloan |
-| 1689 | 33 | Cranky Matchpiece |
-| 1690 | 33 | You know who |
-| 1691 | 33 | Allison Moody |
-| 1692 | 33 | DaReal007EJW |
-| 1693 | 33 | Zesty Shatterline |
-| 1694 | 33 | Reshau Clay |
-| 1695 | 33 | IceQueenKiller |
-| 1696 | 33 | StarChild |
-| 1697 | 32 | Tisha McManus |
-| 1698 | 32 | Scott Burkett |
-| 1699 | 32 | LaTrice Malone-Hubert |
-| 1700 | 32 | CheBrandNew |
-| 1701 | 32 | Jason Lasick |
-| 1702 | 32 | Block Buster |
-| 1703 | 31 | Bunny A Finley |
-| 1704 | 31 | Dandy Liner |
-| 1705 | 31 | Hoppy Brickzone |
-| 1706 | 31 | Sab |
-| 1707 | 31 | Christopher Cand |
-| 1708 | 31 | Los |
-| 1709 | 30 | Apryl Lia |
-| 1710 | 30 | Khrystyna Lukaniuk |
-| 1711 | 30 | Chauncy Ramone Martin |
-| 1712 | 30 | Derald Miller |
-| 1713 | 30 | Chtid |
-| 1714 | 30 | Alberto Rosel |
-| 1715 | 30 | Jameel HumanTornado Brown |
-| 1716 | 30 | Cool Ziggy |
+| 1677 | 34 | Saucy Snapper |
+| 1678 | 34 | kn1fehandz |
+| 1679 | 34 | John Anderson |
+| 1680 | 34 | Brandy Birkett |
+| 1681 | 34 | CandiedBacon |
+| 1682 | 34 | Lil Miss |
+| 1683 | 33 | Robert Sloan |
+| 1684 | 33 | Jodi Warner Sommerer |
+| 1685 | 33 | Emily Finhill |
+| 1686 | 33 | Cranky Matchpiece |
+| 1687 | 33 | Getem gone |
+| 1688 | 33 | You know who |
+| 1689 | 33 | Jolene Marie Caetano |
+| 1690 | 33 | 1 |
+| 1691 | 33 | Cheery Blockmatch |
+| 1692 | 33 | Allison Moody |
+| 1693 | 33 | DaReal007EJW |
+| 1694 | 33 | Zesty Shatterline |
+| 1695 | 33 | Reshau Clay |
+| 1696 | 33 | IceQueenKiller |
+| 1697 | 33 | StarChild |
+| 1698 | 32 | Tisha McManus |
+| 1699 | 32 | Scott Burkett |
+| 1700 | 32 | Block Buster |
+| 1701 | 32 | LaTrice Malone-Hubert |
+| 1702 | 32 | Jason Lasick |
+| 1703 | 32 | CheBrandNew |
+| 1704 | 31 | Sab |
+| 1705 | 31 | Bunny A Finley |
+| 1706 | 31 | Hoppy Brickzone |
+| 1707 | 31 | Dandy Liner |
+| 1708 | 31 | Christopher Cand |
+| 1709 | 31 | Los |
+| 1710 | 30 | Apryl Lia |
+| 1711 | 30 | Khrystyna Lukaniuk |
+| 1712 | 30 | Chauncy Ramone Martin |
+| 1713 | 30 | Derald Miller |
+| 1714 | 30 | Chtid |
+| 1715 | 30 | Alberto Rosel |
+| 1716 | 30 | Jameel HumanTornado Brown |
 | 1717 | 30 | Ka He |
-| 1718 | 30 | Clara Avilez |
-| 1719 | 29 | Plucky Curvetile |
-| 1720 | 29 | Bouncy Ziggy |
-| 1721 | 29 | Ariel Guerra |
-| 1722 | 29 | Kathy Garcia |
-| 1723 | 29 | Joshua Smith |
-| 1724 | 29 | Quan Wen |
-| 1725 | 29 | CandiedBacon |
+| 1718 | 30 | Cool Ziggy |
+| 1719 | 30 | Clara Avilez |
+| 1720 | 29 | Plucky Curvetile |
+| 1721 | 29 | Bouncy Ziggy |
+| 1722 | 29 | Ariel Guerra |
+| 1723 | 29 | Kathy Garcia |
+| 1724 | 29 | Joshua Smith |
+| 1725 | 29 | Quan Wen |
 | 1726 | 29 | Amanda Gann |
 | 1727 | 29 | Jennifer West Campos |
 | 1728 | 29 | Interesting |
