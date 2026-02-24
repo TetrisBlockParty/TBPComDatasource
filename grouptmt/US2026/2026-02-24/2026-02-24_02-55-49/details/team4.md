@@ -94,8 +94,8 @@
 | 86 | 855 | Chilly Line |
 | 87 | 850 | Lucille Truesdale |
 | 88 | 846 | Christine Marie |
-| 89 | 841 | Shauna Havard |
-| 90 | 841 | Judy Cox |
+| 89 | 841 | Judy Cox |
+| 90 | 841 | Shauna Havard |
 | 91 | 840 | Chaz Duncan |
 | 92 | 834 | quicksand420 |
 | 93 | 826 | Rica Mitchell |
@@ -107,8 +107,8 @@
 | 99 | 792 | Denise Carlson |
 | 100 | 787 | Jason Hart |
 | 101 | 781 | Brittney Griggs |
-| 102 | 780 | Keith Kelley |
-| 103 | 780 | TheNeesh50 |
+| 102 | 780 | TheNeesh50 |
+| 103 | 780 | Keith Kelley |
 | 104 | 779 | Nope Young |
 | 105 | 775 | Klo |
 | 106 | 768 | Trista Leah |
@@ -181,8 +181,8 @@
 | 173 | 521 | Andy Cabral |
 | 174 | 520 | Oscar Alberto Perez |
 | 175 | 520 | Zippy Block |
-| 176 | 516 | Trish |
-| 177 | 516 | Twisty Clicky |
+| 176 | 516 | Twisty Clicky |
+| 177 | 516 | Trish |
 | 178 | 514 | Scott Jameson |
 | 179 | 513 | Erin Thomas |
 | 180 | 512 | Ellen Durfee |
@@ -248,13 +248,13 @@
 | 240 | 413 | Jeff Brian Gates |
 | 241 | 411 | Autumn Kumzi |
 | 242 | 410 | Lindsay Ball |
-| 243 | 409 | Antony Dwayne Beasley |
-| 244 | 409 | Joseph Guthrie |
+| 243 | 409 | Joseph Guthrie |
+| 244 | 409 | Antony Dwayne Beasley |
 | 245 | 408 | Lauren Scott |
 | 246 | 403 | TinyLegoRose |
 | 247 | 400 | Brickh4us |
-| 248 | 398 | Tyler Terrific |
-| 249 | 398 | Nerdy Twisterfit |
+| 248 | 398 | Nerdy Twisterfit |
+| 249 | 398 | Tyler Terrific |
 | 250 | 397 | blasterB |
 | 251 | 397 | blockstar |
 | 252 | 396 | scott |
@@ -286,9 +286,9 @@
 | 278 | 366 | Andrew Dang |
 | 279 | 360 | James Hurley Jr. |
 | 280 | 359 | KimoKoala |
-| 281 | 358 | David Lay |
-| 282 | 358 | Lora |
-| 283 | 358 | Twisty Cascadezone |
+| 281 | 358 | Twisty Cascadezone |
+| 282 | 358 | David Lay |
+| 283 | 358 | Lora |
 | 284 | 350 | Dizzy Matchzone |
 | 285 | 349 | jim |
 | 286 | 347 | Daria Rycewicz |
