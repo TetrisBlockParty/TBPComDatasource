@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-24 22:18:43 UTC
+# Standings for team1 as of 2026-02-24 22:19:22 UTC
 
 **Total Participants:** 2331
 
@@ -342,10 +342,10 @@
 | 334 | 376 | Sassy Builderline |
 | 335 | 375 | Zany Tiler |
 | 336 | 374 | Jaimie Lynn |
-| 337 | 374 | Nadine Velardo |
-| 338 | 374 | Michael Espinosa Ulibarri Jr. |
-| 339 | 374 | Snappy Brickbuilder |
-| 340 | 372 | Danielle S Kester |
+| 337 | 374 | Danielle S Kester |
+| 338 | 374 | Nadine Velardo |
+| 339 | 374 | Michael Espinosa Ulibarri Jr. |
+| 340 | 374 | Snappy Brickbuilder |
 | 341 | 371 | Gary Gobin |
 | 342 | 371 | Teddy Alexander |
 | 343 | 371 | Delvison Rosario |
@@ -363,28 +363,28 @@
 | 355 | 362 | Brooke Elizabeth Antill |
 | 356 | 362 | Diane Byrd |
 | 357 | 361 | Nate Price |
-| 358 | 361 | Michael |
-| 359 | 360 | dhardy |
-| 360 | 360 | Tipsy Builder |
-| 361 | 360 | Jumpy Rotate |
-| 362 | 359 | Madbull |
-| 363 | 359 | Rodney Schmerfeld |
-| 364 | 359 | LaFontaine Leslie |
-| 365 | 358 | Elizabeth Kubli |
+| 358 | 361 | Elizabeth Kubli |
+| 359 | 361 | Michael |
+| 360 | 360 | dhardy |
+| 361 | 360 | Tipsy Builder |
+| 362 | 360 | Jumpy Rotate |
+| 363 | 359 | Madbull |
+| 364 | 359 | Rodney Schmerfeld |
+| 365 | 359 | LaFontaine Leslie |
 | 366 | 357 | Jasmine Riley |
 | 367 | 356 | Patty Lavigne Craddock |
 | 368 | 356 | Lyn Sibayan |
-| 369 | 354 | Mrs.Patrica |
-| 370 | 354 | Garrett Burket |
+| 369 | 354 | Garrett Burket |
+| 370 | 354 | Mrs.Patrica |
 | 371 | 354 | Kipoi |
 | 372 | 353 | Chummy Rollblock |
 | 373 | 353 | Glitzy Grid |
 | 374 | 353 | Josh Riemer |
 | 375 | 352 | Mitchel White |
 | 376 | 352 | Lachelle Dillon |
-| 377 | 351 | Dizzy Riseclear |
+| 377 | 352 | Gina Bettikofer |
 | 378 | 351 | Hasty Columnbuilder |
-| 379 | 351 | Gina Bettikofer |
+| 379 | 351 | Dizzy Riseclear |
 | 380 | 350 | Bouncy Line |
 | 381 | 350 | Matt Iaccheo |
 | 382 | 347 | Sonia Marquis |
@@ -392,8 +392,8 @@
 | 384 | 346 | Tanya Banks |
 | 385 | 345 | whocares |
 | 386 | 345 | san |
-| 387 | 344 | Buttons Stemm |
-| 388 | 344 | Amh |
+| 387 | 344 | Amh |
+| 388 | 344 | Buttons Stemm |
 | 389 | 343 | ESC |
 | 390 | 343 | Silly Align |
 | 391 | 342 | Marianita Garcia |
@@ -1124,32 +1124,32 @@
 | 1116 | 110 | Thia Gibson |
 | 1117 | 110 | Tasha McCormack |
 | 1118 | 110 | Robert Benitez |
-| 1119 | 110 | Sassy Riseclear |
-| 1120 | 110 | Karly Alexandrea |
+| 1119 | 110 | Karly Alexandrea |
+| 1120 | 110 | Sassy Riseclear |
 | 1121 | 108 | Stoney Smith |
 | 1122 | 108 | Nico |
 | 1123 | 108 | Wendy Walker-Hill |
-| 1124 | 107 | William Maix |
+| 1124 | 107 | Shelly Palmer |
 | 1125 | 107 | Kristi Kinard |
 | 1126 | 107 | Peg |
 | 1127 | 107 | Dede |
-| 1128 | 107 | Larry Fritzinger |
-| 1129 | 107 | sent2bless34 |
-| 1130 | 107 | David Bourne |
-| 1131 | 107 | Shelly Palmer |
-| 1132 | 107 | J.D3D.D |
-| 1133 | 106 | Cheeky Gridder |
-| 1134 | 106 | Becky Lynn Cramer-Ingram |
-| 1135 | 106 | Chris Baker |
-| 1136 | 106 | Claude Villeneuve |
-| 1137 | 106 | Slinky Fitblock |
-| 1138 | 106 | Honey |
-| 1139 | 106 | Kelly Holland |
-| 1140 | 106 | Jeffrey Hughes |
-| 1141 | 106 | John Dixon |
-| 1142 | 106 | Todd Echterling |
-| 1143 | 105 | Nerdy Gridlock |
-| 1144 | 105 | Ebony Hill |
+| 1128 | 107 | sent2bless34 |
+| 1129 | 107 | Larry Fritzinger |
+| 1130 | 107 | William Maix |
+| 1131 | 107 | David Bourne |
+| 1132 | 107 | Todd Echterling |
+| 1133 | 107 | J.D3D.D |
+| 1134 | 106 | Chris Baker |
+| 1135 | 106 | Claude Villeneuve |
+| 1136 | 106 | Becky Lynn Cramer-Ingram |
+| 1137 | 106 | Cheeky Gridder |
+| 1138 | 106 | Slinky Fitblock |
+| 1139 | 106 | Honey |
+| 1140 | 106 | Kelly Holland |
+| 1141 | 106 | Jeffrey Hughes |
+| 1142 | 106 | John Dixon |
+| 1143 | 105 | Ebony Hill |
+| 1144 | 105 | Nerdy Gridlock |
 | 1145 | 105 | Felicia Jones |
 | 1146 | 105 | Jennifer Duttry |
 | 1147 | 105 | Jolly Climber |
