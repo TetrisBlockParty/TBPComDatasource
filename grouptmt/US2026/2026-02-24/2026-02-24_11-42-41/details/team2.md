@@ -14,7 +14,7 @@
 | 6 | 13459 | Cool Snapclear |
 | 7 | 11764 | Ariel |
 | 8 | 11630 | Elizabeth Hinkens |
-| 9 | 11312 | Nick Jensen |
+| 9 | 11272 | Nick Jensen |
 | 10 | 11014 | Muhammad Noor |
 | 11 | 10909 | Rickey Goins Jr. |
 | 12 | 10131 | Wendy Harder Gage |
@@ -224,8 +224,8 @@
 | 216 | 1807 | Osun Anuket Esu |
 | 217 | 1787 | Teddi Notyalc |
 | 218 | 1784 | Matthew Joseph Acevedo |
-| 219 | 1775 | Sommer Shope |
-| 220 | 1775 | Eboni Banks |
+| 219 | 1775 | Eboni Banks |
+| 220 | 1775 | Sommer Shope |
 | 221 | 1774 | Nerdy Pattern |
 | 222 | 1761 | Rosa Franklin |
 | 223 | 1751 | Melissa Penelope Ann Dodge |
@@ -573,8 +573,8 @@
 | 565 | 905 | Cathleena Giusto |
 | 566 | 903 | Stephanie Lumanlan |
 | 567 | 902 | Stephanie Sul |
-| 568 | 899 | Patrick Bartlett |
-| 569 | 899 | Caitlyn Blackwell |
+| 568 | 899 | Caitlyn Blackwell |
+| 569 | 899 | Patrick Bartlett |
 | 570 | 895 | Donna Colby |
 | 571 | 893 | Shantel Kelley |
 | 572 | 890 | Traci Johnson |
@@ -594,8 +594,8 @@
 | 586 | 866 | Mishka Upchurch |
 | 587 | 866 | Tammie Siegfried |
 | 588 | 865 | Lilia Gomez |
-| 589 | 861 | Shavonna Haynes |
-| 590 | 861 | Beth |
+| 589 | 861 | Beth |
+| 590 | 861 | Shavonna Haynes |
 | 591 | 861 | Anthony |
 | 592 | 858 | Joshua Self |
 | 593 | 857 | Marella Petilo |
@@ -612,8 +612,8 @@
 | 604 | 850 | Gary Stash |
 | 605 | 849 | Jasmine Kenney |
 | 606 | 848 | Happy Wipeblock |
-| 607 | 847 | Rhonda Milstead |
-| 608 | 847 | Megan Kitchner |
+| 607 | 847 | Megan Kitchner |
+| 608 | 847 | Rhonda Milstead |
 | 609 | 844 | Diana Fitzwater |
 | 610 | 843 | Quirky Twistline |
 | 611 | 842 | Ha Ab |
@@ -627,8 +627,8 @@
 | 619 | 835 | Diane P. Richardson |
 | 620 | 835 | TJ Nash |
 | 621 | 834 | Montez Mancil |
-| 622 | 834 | NanDa Cruzan VI |
-| 623 | 834 | Tracy Cowley |
+| 622 | 834 | Tracy Cowley |
+| 623 | 834 | NanDa Cruzan VI |
 | 624 | 831 | Victoria Regina Girolami |
 | 625 | 830 | Chelle Vintson |
 | 626 | 826 | Demitri Smith |
@@ -750,8 +750,8 @@
 | 742 | 732 | calcap |
 | 743 | 731 | Timothy Robert |
 | 744 | 728 | Snippy Rumbler |
-| 745 | 728 | Del Davis |
-| 746 | 728 | Lonna Matthews |
+| 745 | 728 | Lonna Matthews |
+| 746 | 728 | Del Davis |
 | 747 | 727 | Reita Rolen |
 | 748 | 727 | Cc |
 | 749 | 726 | Michelle Fields |
@@ -835,8 +835,8 @@
 | 827 | 677 | Kayleigh Wisse |
 | 828 | 676 | Anastacio Hernandez |
 | 829 | 676 | Fancy Shiftsnap |
-| 830 | 675 | Ryan Chan |
-| 831 | 675 | Katelynn Hollen |
+| 830 | 675 | Katelynn Hollen |
+| 831 | 675 | Ryan Chan |
 | 832 | 675 | Fi Ne |
 | 833 | 672 | Christina Jarvis-Swarbrick |
 | 834 | 672 | Abimbola Bimbo |
