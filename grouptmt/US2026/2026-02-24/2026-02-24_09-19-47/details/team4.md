@@ -73,8 +73,8 @@
 | 65 | 1119 | Amelpss |
 | 66 | 1109 | BertMofo |
 | 67 | 1089 | Alyssa Papen |
-| 68 | 1082 | Dion Crommarty |
-| 69 | 1082 | Avy Absol |
+| 68 | 1082 | Avy Absol |
+| 69 | 1082 | Dion Crommarty |
 | 70 | 1081 | Dustee Craddock-Harrison |
 | 71 | 1080 | Chilly Line |
 | 72 | 1069 | Heather Tushner |
@@ -101,8 +101,8 @@
 | 93 | 878 | Lucille Truesdale |
 | 94 | 873 | Courtney Cicoria |
 | 95 | 869 | Judy Cox |
-| 96 | 864 | Guy Incognito |
-| 97 | 864 | Samantha Peterson |
+| 96 | 864 | Samantha Peterson |
+| 97 | 864 | Guy Incognito |
 | 98 | 854 | Shauna Havard |
 | 99 | 851 | Jason Hart |
 | 100 | 846 | Christine Marie |
@@ -111,8 +111,8 @@
 | 103 | 834 | quicksand420 |
 | 104 | 834 | Brittney Orengo |
 | 105 | 815 | Diana Houts |
-| 106 | 813 | Klo |
-| 107 | 813 | Amy Suckarieh |
+| 106 | 813 | Amy Suckarieh |
+| 107 | 813 | Klo |
 | 108 | 811 | Sassy Pattern |
 | 109 | 806 | Lori Walker |
 | 110 | 806 | Zippy Gridlock |
@@ -213,8 +213,8 @@
 | 205 | 509 | Mimi |
 | 206 | 507 | Andria Lynn |
 | 207 | 504 | Deanna Deckard |
-| 208 | 502 | Christina Black |
-| 209 | 502 | Ericca Eldridge |
+| 208 | 502 | Ericca Eldridge |
+| 209 | 502 | Christina Black |
 | 210 | 501 | Sharyn Lemire |
 | 211 | 499 | Kesha Brady |
 | 212 | 499 | DonMega |
@@ -501,8 +501,8 @@
 | 493 | 242 | PurpleMoonMa |
 | 494 | 242 | Badatvs |
 | 495 | 241 | Katherine Crane |
-| 496 | 240 | Orchislactea |
-| 497 | 240 | Zany Shatterer |
+| 496 | 240 | Zany Shatterer |
+| 497 | 240 | Orchislactea |
 | 498 | 239 | Krash |
 | 499 | 239 | Christina Nabrizny |
 | 500 | 238 | Mary Miller |
@@ -523,10 +523,10 @@
 | 515 | 234 | B Renee Desjardin |
 | 516 | 234 | Darrin Rubalcava |
 | 517 | 234 | Brian Owens |
-| 518 | 233 | conceptCollector |
+| 518 | 233 | Joseph Edmonson |
 | 519 | 233 | Robert Rodriguez |
-| 520 | 233 | Gigglelymomof2 |
-| 521 | 233 | Joseph Edmonson |
+| 520 | 233 | conceptCollector |
+| 521 | 233 | Gigglelymomof2 |
 | 522 | 232 | Lou Ie |
 | 523 | 232 | Becky Shimko |
 | 524 | 232 | Dandy Cascadefit |
@@ -552,8 +552,8 @@
 | 544 | 223 | Jessica Atkinson |
 | 545 | 223 | Shane Vick |
 | 546 | 222 | Squeezy Pearsall |
-| 547 | 221 | Rheanda Weaskus |
-| 548 | 221 | Peppy Drop |
+| 547 | 221 | Peppy Drop |
+| 548 | 221 | Rheanda Weaskus |
 | 549 | 220 | Mighty Edgepiece |
 | 550 | 219 | Dapper Balancer |
 | 551 | 219 | Brandon Link |
