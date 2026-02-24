@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-24 16:40:42 UTC
+# Standings for team1 as of 2026-02-24 16:41:21 UTC
 
 **Total Participants:** 2275
 
@@ -399,12 +399,12 @@
 | 391 | 326 | Chummy Rollblock |
 | 392 | 325 | Joe Coon |
 | 393 | 325 | GringaLinga |
-| 394 | 324 | Quirky Pusher |
-| 395 | 323 | Nadine Velardo |
-| 396 | 323 | Rico Rico |
-| 397 | 322 | Chris65 |
-| 398 | 322 | Patty Lavigne Craddock |
-| 399 | 321 | Dizzy Riseclear |
+| 394 | 324 | Dizzy Riseclear |
+| 395 | 324 | Quirky Pusher |
+| 396 | 323 | Nadine Velardo |
+| 397 | 323 | Rico Rico |
+| 398 | 322 | Chris65 |
+| 399 | 322 | Patty Lavigne Craddock |
 | 400 | 320 | Beazel75 |
 | 401 | 320 | Zany Tiler |
 | 402 | 319 | Crystal Cheresnowsky |
@@ -1139,43 +1139,43 @@
 | 1131 | 100 | Kellie |
 | 1132 | 100 | Jason Philp |
 | 1133 | 100 | BlazinGames |
-| 1134 | 99 | Unelanuhi Belladonna Mystikal Bomar |
-| 1135 | 99 | Slinky Fitblock |
-| 1136 | 99 | Tabetha Craddock |
+| 1134 | 99 | William Miles |
+| 1135 | 99 | Cecilia Thompson |
+| 1136 | 99 | Elizabeth Shaw |
 | 1137 | 99 | Michael Vanwinkle |
-| 1138 | 99 | Cecilia Thompson |
+| 1138 | 99 | Tabetha Craddock |
 | 1139 | 99 | Spicy Zoner |
-| 1140 | 99 | William Miles |
-| 1141 | 99 | Tom Jaramillo |
-| 1142 | 99 | Elizabeth Shaw |
-| 1143 | 98 | Mary Logan |
-| 1144 | 98 | Brandon Reyes |
-| 1145 | 98 | Tracy Berry |
-| 1146 | 98 | Jeremy Beckler |
-| 1147 | 98 | Todd Echterling |
-| 1148 | 98 | Anthony Ray |
-| 1149 | 98 | Margaret Rose |
-| 1150 | 98 | Dchielle |
-| 1151 | 97 | Joshua Murphy |
-| 1152 | 97 | Churmo |
+| 1140 | 99 | Tom Jaramillo |
+| 1141 | 99 | Slinky Fitblock |
+| 1142 | 99 | Unelanuhi Belladonna Mystikal Bomar |
+| 1143 | 98 | Jeremy Beckler |
+| 1144 | 98 | Anthony Ray |
+| 1145 | 98 | Mary Logan |
+| 1146 | 98 | Brandon Reyes |
+| 1147 | 98 | Dchielle |
+| 1148 | 98 | Margaret Rose |
+| 1149 | 98 | Tracy Berry |
+| 1150 | 98 | Todd Echterling |
+| 1151 | 97 | Steve Bomkamp |
+| 1152 | 97 | Ris |
 | 1153 | 97 | cola |
-| 1154 | 97 | Ris |
+| 1154 | 97 | Jeffrey Hughes |
 | 1155 | 97 | Dropitliktithot |
-| 1156 | 97 | Jeffrey Hughes |
-| 1157 | 97 | Steve Bomkamp |
-| 1158 | 96 | Ty Meach |
-| 1159 | 96 | Kathy Murphy |
-| 1160 | 96 | jellikit42 |
-| 1161 | 96 | Bharrelson66 |
-| 1162 | 96 | Gregg Scott |
-| 1163 | 95 | Goofy Linkblock |
-| 1164 | 95 | Claude Villeneuve |
-| 1165 | 95 | Kayla Farley |
+| 1156 | 97 | Churmo |
+| 1157 | 97 | Joshua Murphy |
+| 1158 | 97 | Erik Hesner |
+| 1159 | 96 | jellikit42 |
+| 1160 | 96 | Ty Meach |
+| 1161 | 96 | Gregg Scott |
+| 1162 | 96 | Bharrelson66 |
+| 1163 | 96 | Kathy Murphy |
+| 1164 | 95 | Vanessa Zuniga Elvira |
+| 1165 | 95 | Shelby Smith |
 | 1166 | 95 | Vicky Clemont |
-| 1167 | 95 | Vanessa Zuniga Elvira |
-| 1168 | 95 | Erik Hesner |
-| 1169 | 95 | Shelby Smith |
-| 1170 | 95 | Zappy Cluster |
+| 1167 | 95 | Zappy Cluster |
+| 1168 | 95 | Claude Villeneuve |
+| 1169 | 95 | Goofy Linkblock |
+| 1170 | 95 | Kayla Farley |
 | 1171 | 94 | Daysha Johnson |
 | 1172 | 94 | Lush Blockroll |
 | 1173 | 94 | MagaMan |
