@@ -107,8 +107,8 @@
 | 99 | 846 | Christine Marie |
 | 100 | 840 | SAP |
 | 101 | 837 | Rica Mitchell |
-| 102 | 834 | Brittney Orengo |
-| 103 | 834 | quicksand420 |
+| 102 | 834 | quicksand420 |
+| 103 | 834 | Brittney Orengo |
 | 104 | 815 | Diana Houts |
 | 105 | 813 | Klo |
 | 106 | 811 | Sassy Pattern |
@@ -131,8 +131,8 @@
 | 123 | 735 | Nugget |
 | 124 | 731 | KJ Pool |
 | 125 | 729 | Jamie Mann-Deichmann |
-| 126 | 726 | Amy Suckarieh |
-| 127 | 726 | Jamie Gustafson |
+| 126 | 726 | Jamie Gustafson |
+| 127 | 726 | Amy Suckarieh |
 | 128 | 725 | Brandon Crabbs |
 | 129 | 719 | George Nutt |
 | 130 | 712 | Leslie Nicole |
@@ -195,8 +195,8 @@
 | 187 | 534 | Lucas J Sutton |
 | 188 | 532 | Matt Summer |
 | 189 | 532 | Alan George LaRage |
-| 190 | 528 | Erin Sabol |
-| 191 | 528 | Carly Alexis |
+| 190 | 528 | Carly Alexis |
+| 191 | 528 | Erin Sabol |
 | 192 | 525 | 🥔🥔 Spudz |
 | 193 | 521 | Andy Cabral |
 | 194 | 520 | Zippy Block |
@@ -281,8 +281,8 @@
 | 273 | 399 | Brittany Little |
 | 274 | 398 | Tyler Terrific |
 | 275 | 397 | blockstar |
-| 276 | 395 | Denise B |
-| 277 | 395 | BigSammy420 |
+| 276 | 395 | BigSammy420 |
+| 277 | 395 | Denise B |
 | 278 | 394 | Nikki Rae Gordon |
 | 279 | 393 | Montiette Mcglown |
 | 280 | 392 | Neirrah B Olailjeel |
@@ -327,8 +327,8 @@
 | 319 | 347 | Daria Rycewicz |
 | 320 | 346 | Metsfan |
 | 321 | 344 | Amanda Maciel Clarke |
-| 322 | 343 | HastyGrabber |
-| 323 | 343 | Blessedmama |
+| 322 | 343 | Blessedmama |
+| 323 | 343 | HastyGrabber |
 | 324 | 342 | Lauren Lamb |
 | 325 | 341 | Jason Bosco |
 | 326 | 340 | Juls |

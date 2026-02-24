@@ -68,8 +68,8 @@
 | 60 | 1931 | Denise Nardoni |
 | 61 | 1920 | Trezure Gonzalez |
 | 62 | 1858 | Kristie McFarland |
-| 63 | 1824 | Nate Burnside |
-| 64 | 1824 | Jessica Ann |
+| 63 | 1824 | Jessica Ann |
+| 64 | 1824 | Nate Burnside |
 | 65 | 1804 | Tina Kay |
 | 66 | 1791 | Leah Barnett |
 | 67 | 1776 | Whitney Manuel |
