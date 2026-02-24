@@ -79,8 +79,8 @@
 | 71 | 1030 | Anthony Bryan Riva |
 | 72 | 999 | Jeremy Steines |
 | 73 | 986 | TeeJ |
-| 74 | 985 | Shelly Chandler |
-| 75 | 985 | Shannon Ferrari |
+| 74 | 985 | Shannon Ferrari |
+| 75 | 985 | Shelly Chandler |
 | 76 | 956 | loulou |
 | 77 | 939 | Edward White |
 | 78 | 932 | Marvin Lou Martin |
@@ -105,8 +105,8 @@
 | 97 | 811 | Sassy Pattern |
 | 98 | 806 | Lori Walker |
 | 99 | 802 | Crystal Carroll |
-| 100 | 798 | Jewell Urban |
-| 101 | 798 | Klo |
+| 100 | 798 | Klo |
+| 101 | 798 | Jewell Urban |
 | 102 | 792 | Denise Carlson |
 | 103 | 789 | Keith Kelley |
 | 104 | 781 | Brittney Griggs |
@@ -120,8 +120,8 @@
 | 112 | 733 | D3TROITB0RN74 |
 | 113 | 731 | KJ Pool |
 | 114 | 729 | Diana Houts |
-| 115 | 725 | Brandon Crabbs |
-| 116 | 725 | SAP |
+| 115 | 725 | SAP |
+| 116 | 725 | Brandon Crabbs |
 | 117 | 719 | Jamie Mann-Deichmann |
 | 118 | 719 | Sam Bishop |
 | 119 | 718 | Zippy Gridlock |
@@ -165,8 +165,8 @@
 | 157 | 578 | Livvy |
 | 158 | 576 | Jade Rian |
 | 159 | 575 | Jenna Ingersoll |
-| 160 | 574 | Carmethia Clemons Haslerig |
-| 161 | 574 | Carlos Ramirez |
+| 160 | 574 | Carlos Ramirez |
+| 161 | 574 | Carmethia Clemons Haslerig |
 | 162 | 567 | Rico |
 | 163 | 565 | Ren Mc |
 | 164 | 560 | Chastity Mitchell |
@@ -199,11 +199,11 @@
 | 191 | 504 | Deanna Deckard |
 | 192 | 502 | Ericca Eldridge |
 | 193 | 500 | Milan Markeisha |
-| 194 | 499 | Kesha Brady |
-| 195 | 499 | Sharyn Lemire |
-| 196 | 499 | Christina Black |
-| 197 | 496 | Jessica Bohlken |
-| 198 | 496 | Lori |
+| 194 | 499 | Sharyn Lemire |
+| 195 | 499 | Christina Black |
+| 196 | 499 | Kesha Brady |
+| 197 | 496 | Lori |
+| 198 | 496 | Jessica Bohlken |
 | 199 | 495 | Joeliecea Cobb |
 | 200 | 493 | Amanda Pauldo-Ivy |
 | 201 | 481 | Rebecca Morris |
@@ -228,8 +228,8 @@
 | 220 | 448 | Mike Solo |
 | 221 | 447 | Jen Mattei |
 | 222 | 446 | Mr. Party |
-| 223 | 444 | Shiny Fit |
-| 224 | 444 | Calvin Cannon |
+| 223 | 444 | Calvin Cannon |
+| 224 | 444 | Shiny Fit |
 | 225 | 443 | Kristina Black |
 | 226 | 442 | 🥔🥔 Spudz |
 | 227 | 441 | Lush Linkfall |
@@ -433,12 +433,12 @@
 | 425 | 255 | Jenny Wells-Oakley |
 | 426 | 253 | Autum Leigh |
 | 427 | 252 | Maureen Flanigan |
-| 428 | 251 | Jackson Karen |
-| 429 | 251 | Kathy Allen |
-| 430 | 251 | Carol Ricks Raymond |
+| 428 | 251 | Kathy Allen |
+| 429 | 251 | Carol Ricks Raymond |
+| 430 | 251 | Jackson Karen |
 | 431 | 250 | Moonsterix |
 | 432 | 250 | Ruby Khalisadar |
-| 433 | 249 | Chantilly Laace |
+| 433 | 249 | Stacy Jones |
 | 434 | 249 | SHL |
 | 435 | 249 | Chantilly Laace |
 | 436 | 248 | Speedy Cascadeclear |
@@ -1527,7 +1527,7 @@
 | 1519 | 36 | Shiny Zonepiece |
 | 1520 | 36 | InfinitLee |
 | 1521 | 36 | Bryson Peebles |
-| 1522 | 36 | Shiny Zonepiece |
+| 1522 | 36 | Zesty Blocky |
 | 1523 | 36 | Chase Andrews |
 | 1524 | 36 | Silverfox |
 | 1525 | 36 | Eric Dehn |
