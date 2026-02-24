@@ -117,8 +117,8 @@
 | 109 | 719 | Bindi |
 | 110 | 716 | Kristi Johnson |
 | 111 | 711 | Debbie Kane |
-| 112 | 706 | Plucky Fallzone |
-| 113 | 706 | Denice Dee |
+| 112 | 706 | Denice Dee |
+| 113 | 706 | Plucky Fallzone |
 | 114 | 702 | lil mickey |
 | 115 | 699 | cc |
 | 116 | 693 | Jason Cox |
@@ -186,8 +186,8 @@
 | 178 | 496 | Sarah Somers Gray |
 | 179 | 496 | Michelle Beres |
 | 180 | 494 | Sean Stallings |
-| 181 | 492 | Jennifer Hardman |
-| 182 | 492 | Rebekah LeiAnn Bonsell |
+| 181 | 492 | Rebekah LeiAnn Bonsell |
+| 182 | 492 | Jennifer Hardman |
 | 183 | 492 | Happy Snapbuild |
 | 184 | 490 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 185 | 489 | Speedy Liney |
@@ -246,8 +246,8 @@
 | 238 | 399 | Lakeisha Chapman |
 | 239 | 398 | MommaKFC |
 | 240 | 397 | Alenoush Karimian |
-| 241 | 396 | Monica Donato |
-| 242 | 396 | Sam Williams |
+| 241 | 396 | Sam Williams |
+| 242 | 396 | Monica Donato |
 | 243 | 395 | Tami Luce Martin |
 | 244 | 393 | Wisa |
 | 245 | 391 | Happy Basegrid |
@@ -274,8 +274,8 @@
 | 266 | 373 | Frothy Pattern |
 | 267 | 372 | Dizzy Party |
 | 268 | 371 | Jaimie Lynn |
-| 269 | 370 | Chantelle Ceno |
-| 270 | 370 | Gracie |
+| 269 | 370 | Gracie |
+| 270 | 370 | Chantelle Ceno |
 | 271 | 367 | Jamie Jury |
 | 272 | 367 | Rayline M Bradshaw |
 | 273 | 366 | Danielle S Kester |

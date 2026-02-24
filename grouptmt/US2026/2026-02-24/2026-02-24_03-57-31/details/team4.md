@@ -192,8 +192,8 @@
 | 184 | 516 | Nick Gray |
 | 185 | 513 | Erin Thomas |
 | 186 | 512 | Casey Jeffcoat |
-| 187 | 512 | ThaEviLJeNiuZ |
-| 188 | 512 | Ellen Durfee |
+| 187 | 512 | Ellen Durfee |
+| 188 | 512 | ThaEviLJeNiuZ |
 | 189 | 509 | Mimi |
 | 190 | 508 | Zesty Twistbuilder |
 | 191 | 507 | Andria Lynn |
@@ -212,8 +212,8 @@
 | 204 | 478 | Casey Grabner |
 | 205 | 476 | Mylo Lipscomb |
 | 206 | 475 | Silly Zonebuilder |
-| 207 | 473 | Cranky Rollpiece |
-| 208 | 473 | Jolly Dashfit |
+| 207 | 473 | Jolly Dashfit |
+| 208 | 473 | Cranky Rollpiece |
 | 209 | 465 | June Hoffman |
 | 210 | 462 | Crystal Nicolette Moore |
 | 211 | 462 | Leslie Thomas |
@@ -228,16 +228,16 @@
 | 220 | 448 | Mike Solo |
 | 221 | 447 | Jen Mattei |
 | 222 | 446 | Mr. Party |
-| 223 | 444 | Calvin Cannon |
-| 224 | 444 | Shiny Fit |
+| 223 | 444 | Shiny Fit |
+| 224 | 444 | Calvin Cannon |
 | 225 | 443 | Kristina Black |
 | 226 | 442 | 🥔🥔 Spudz |
 | 227 | 441 | Lush Linkfall |
 | 228 | 438 | Melvin Baird |
 | 229 | 436 | Selena Shaw |
 | 230 | 434 | Ramel Rhodes |
-| 231 | 433 | Damn Libra |
-| 232 | 433 | Circuit8 |
+| 231 | 433 | Circuit8 |
+| 232 | 433 | Damn Libra |
 | 233 | 432 | scott |
 | 234 | 431 | Manny1 |
 | 235 | 430 | Plucky Patternblock |
@@ -250,9 +250,9 @@
 | 242 | 413 | Jeff Brian Gates |
 | 243 | 411 | Autumn Kumzi |
 | 244 | 410 | Lindsay Ball |
-| 245 | 409 | Joseph Guthrie |
-| 246 | 409 | TinyLegoRose |
-| 247 | 409 | Antony Dwayne Beasley |
+| 245 | 409 | Antony Dwayne Beasley |
+| 246 | 409 | Joseph Guthrie |
+| 247 | 409 | TinyLegoRose |
 | 248 | 408 | Lauren Scott |
 | 249 | 400 | James Hurley Jr. |
 | 250 | 400 | Brickh4us |
@@ -345,8 +345,8 @@
 | 337 | 311 | Ak Jones |
 | 338 | 311 | KayM |
 | 339 | 308 | Angela Geist Jusinski |
-| 340 | 307 | Kim Klutz Olson |
-| 341 | 307 | Shukee Lo |
+| 340 | 307 | Shukee Lo |
+| 341 | 307 | Kim Klutz Olson |
 | 342 | 306 | PeaceOs |
 | 343 | 304 | Sarah Neathery |
 | 344 | 302 | Jenna McGeorge |
@@ -458,11 +458,11 @@
 | 450 | 244 | Amanda Christine |
 | 451 | 243 | Laura Hosford |
 | 452 | 243 | Jackie Marie |
-| 453 | 242 | PurpleMoonMa |
-| 454 | 242 | Badatvs |
+| 453 | 242 | Badatvs |
+| 454 | 242 | PurpleMoonMa |
 | 455 | 242 | RIFATSIKDER |
-| 456 | 241 | Katherine Crane |
-| 457 | 241 | Laurel Coppess |
+| 456 | 241 | Laurel Coppess |
+| 457 | 241 | Katherine Crane |
 | 458 | 240 | Zany Shatterer |
 | 459 | 240 | Orchislactea |
 | 460 | 239 | Kevin Bush |
