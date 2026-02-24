@@ -91,11 +91,11 @@
 | 83 | 864 | Guy Incognito |
 | 84 | 861 | Peachy Fall |
 | 85 | 855 | Chilly Line |
-| 86 | 850 | Lucille Truesdale |
-| 87 | 850 | Lisa Davis |
+| 86 | 850 | Lisa Davis |
+| 87 | 850 | Lucille Truesdale |
 | 88 | 846 | Christine Marie |
-| 89 | 841 | Shauna Havard |
-| 90 | 841 | Judy Cox |
+| 89 | 841 | Judy Cox |
+| 90 | 841 | Shauna Havard |
 | 91 | 840 | Chaz Duncan |
 | 92 | 834 | quicksand420 |
 | 93 | 826 | Rica Mitchell |
@@ -333,8 +333,8 @@
 | 325 | 314 | Paige Kittles |
 | 326 | 313 | DonMega |
 | 327 | 312 | Tawna Curry |
-| 328 | 311 | Ak Jones |
-| 329 | 311 | Laura |
+| 328 | 311 | Laura |
+| 329 | 311 | Ak Jones |
 | 330 | 308 | Angela Geist Jusinski |
 | 331 | 307 | Shukee Lo |
 | 332 | 307 | Kim Klutz Olson |
@@ -606,7 +606,7 @@
 | 598 | 177 | Tina Williams |
 | 599 | 177 | Veronica Garza |
 | 600 | 176 | Walid Elsabee |
-| 601 | 174 | Katie McCabe |
+| 601 | 174 | Christina Hyde |
 | 602 | 174 | David Boggs |
 | 603 | 174 | Katie McCabe |
 | 604 | 173 | Joshua Cuellar |

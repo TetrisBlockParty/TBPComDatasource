@@ -65,8 +65,8 @@
 | 57 | 1103 | Drew Magnus |
 | 58 | 1100 | Carrie Beck Geartz |
 | 59 | 1091 | Adam Byrd |
-| 60 | 1076 | Redlicious 1 |
-| 61 | 1076 | Cheeky Twistslam |
+| 60 | 1076 | Cheeky Twistslam |
+| 61 | 1076 | Redlicious 1 |
 | 62 | 1046 | Kristen Roles Robben |
 | 63 | 1032 | Kathi Snustad |
 | 64 | 1027 | Robert Beck |
@@ -202,8 +202,8 @@
 | 194 | 457 | Erin Rosberg |
 | 195 | 450 | Elaine Elaine |
 | 196 | 448 | Yvonne Marie |
-| 197 | 446 | SkipTheSadSauce |
-| 198 | 446 | Spencer Lent |
+| 197 | 446 | Spencer Lent |
+| 198 | 446 | SkipTheSadSauce |
 | 199 | 442 | Kimmie Kimms |
 | 200 | 441 | Kimberly Garcia |
 | 201 | 439 | David Miller |
@@ -257,15 +257,15 @@
 | 249 | 379 | Bob |
 | 250 | 379 | Austin James |
 | 251 | 377 | GATOR |
-| 252 | 376 | Brian Richardsson |
-| 253 | 376 | Billie Ann Eason |
-| 254 | 376 | Sassy Builderline |
+| 252 | 376 | Sassy Builderline |
+| 253 | 376 | Brian Richardsson |
+| 254 | 376 | Billie Ann Eason |
 | 255 | 375 | DaRascal |
 | 256 | 374 | Snappy Brickbuilder |
 | 257 | 373 | Frothy Pattern |
 | 258 | 372 | Dizzy Party |
-| 259 | 371 | Eddie Dillon |
-| 260 | 371 | Jaimie Lynn |
+| 259 | 371 | Jaimie Lynn |
+| 260 | 371 | Eddie Dillon |
 | 261 | 370 | Chantelle Ceno |
 | 262 | 370 | Gracie |
 | 263 | 367 | Jamie Jury |

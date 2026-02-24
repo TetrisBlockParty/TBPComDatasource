@@ -161,8 +161,8 @@
 | 153 | 875 | Chasity |
 | 154 | 874 | Jessica Pineda-Lopez |
 | 155 | 873 | BadManSheLove |
-| 156 | 868 | Felicia Rocha |
-| 157 | 868 | Cranky Gridder |
+| 156 | 868 | Cranky Gridder |
+| 157 | 868 | Felicia Rocha |
 | 158 | 868 | Nicole Flippo |
 | 159 | 864 | Sunny Rotater |
 | 160 | 862 | Santeria Trece Candles |
@@ -321,8 +321,8 @@
 | 313 | 467 | Danielle Rhoades |
 | 314 | 466 | Sleepy |
 | 315 | 464 | Danielle Weikel |
-| 316 | 462 | Noettín Kan Zasnemoore |
-| 317 | 462 | Tegan Chapman |
+| 316 | 462 | Tegan Chapman |
+| 317 | 462 | Noettín Kan Zasnemoore |
 | 318 | 461 | Tom Nault |
 | 319 | 456 | Cynthia Herrmann Egland |
 | 320 | 452 | Tyler Shoff |
