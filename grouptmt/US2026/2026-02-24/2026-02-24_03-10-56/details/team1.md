@@ -183,8 +183,8 @@
 | 175 | 496 | Michelle Beres |
 | 176 | 496 | Sarah Somers Gray |
 | 177 | 494 | Sean Stallings |
-| 178 | 492 | Rebekah LeiAnn Bonsell |
-| 179 | 492 | Happy Snapbuild |
+| 178 | 492 | Happy Snapbuild |
+| 179 | 492 | Rebekah LeiAnn Bonsell |
 | 180 | 490 | Jennifer Hardman |
 | 181 | 489 | Speedy Liney |
 | 182 | 488 | Hyper |
@@ -220,8 +220,8 @@
 | 212 | 427 | Jessie Welch |
 | 213 | 426 | Betsy |
 | 214 | 425 | Tyler Werts |
-| 215 | 424 | Serina Marie |
-| 216 | 424 | Lindsay Glover |
+| 215 | 424 | Lindsay Glover |
+| 216 | 424 | Serina Marie |
 | 217 | 424 | Emily Adelaide Wheatley |
 | 218 | 423 | Howdi Duty |
 | 219 | 423 | Chelsea Dahlquist |
@@ -462,8 +462,8 @@
 | 454 | 247 | Colleen Wise |
 | 455 | 247 | Chilly Riserpiece |
 | 456 | 246 | ken |
-| 457 | 245 | Strig |
-| 458 | 245 | Rico Rico |
+| 457 | 245 | Rico Rico |
+| 458 | 245 | Strig |
 | 459 | 245 | Vivienne Carter |
 | 460 | 244 | Scott Betson |
 | 461 | 244 | Bay Marie |

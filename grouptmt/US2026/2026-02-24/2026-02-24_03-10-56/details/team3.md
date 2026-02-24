@@ -164,8 +164,8 @@
 | 156 | 873 | BadManSheLove |
 | 157 | 869 | Rochelle Hazelett |
 | 158 | 868 | Felicia Rocha |
-| 159 | 868 | Cranky Gridder |
-| 160 | 868 | Nicole Flippo |
+| 159 | 868 | Nicole Flippo |
+| 160 | 868 | Cranky Gridder |
 | 161 | 864 | Sunny Rotater |
 | 162 | 862 | Santeria Trece Candles |
 | 163 | 862 | Cherry Parker |
@@ -191,8 +191,8 @@
 | 183 | 777 | Daryn Elliott |
 | 184 | 774 | ren |
 | 185 | 773 | Daira Largen |
-| 186 | 772 | Twisty Brick LT |
-| 187 | 772 | Tye Stovall |
+| 186 | 772 | Tye Stovall |
+| 187 | 772 | Twisty Brick LT |
 | 188 | 769 | Hasty Cascadefit |
 | 189 | 764 | Cyd061769 |
 | 190 | 763 | Patricia White |
@@ -320,8 +320,8 @@
 | 312 | 476 | Shunta Jacobs |
 | 313 | 476 | Scott Carleton |
 | 314 | 473 | Tom Nault |
-| 315 | 471 | Sarah Moyer |
-| 316 | 471 | Mendoza Lee Christy |
+| 315 | 471 | Mendoza Lee Christy |
+| 316 | 471 | Sarah Moyer |
 | 317 | 467 | Danielle Rhoades |
 | 318 | 465 | Blocked |
 | 319 | 465 | Noettín Kan Zasnemoore |
@@ -342,8 +342,8 @@
 | 334 | 447 | Randy Clevenger |
 | 335 | 447 | Num1hater |
 | 336 | 445 | Loopy Clusterer |
-| 337 | 444 | Heather De Vries Cobb |
-| 338 | 444 | Snazzy Filler |
+| 337 | 444 | Snazzy Filler |
+| 338 | 444 | Heather De Vries Cobb |
 | 339 | 443 | Carrie Huskey |
 | 340 | 443 | Christian Werndl |
 | 341 | 442 | Loopy Fallzone |

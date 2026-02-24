@@ -68,8 +68,8 @@
 | 60 | 1106 | Ashley Ingram |
 | 61 | 1098 | BertMofo |
 | 62 | 1089 | Alyssa Papen |
-| 63 | 1082 | Dion Crommarty |
-| 64 | 1082 | Avy Absol |
+| 63 | 1082 | Avy Absol |
+| 64 | 1082 | Dion Crommarty |
 | 65 | 1075 | Dustee Craddock-Harrison |
 | 66 | 1064 | Heather Tushner |
 | 67 | 1047 | Julian Garcia |
@@ -131,8 +131,8 @@
 | 123 | 702 | Amy Suckarieh |
 | 124 | 698 | Chilly Crasher |
 | 125 | 690 | Denia Deni |
-| 126 | 682 | Jamie Gustafson |
-| 127 | 682 | Raegan Lane-Ross |
+| 126 | 682 | Raegan Lane-Ross |
+| 127 | 682 | Jamie Gustafson |
 | 128 | 667 | Lindsey Gonzalez |
 | 129 | 664 | Leslie Nicole |
 | 130 | 662 | George Nutt |
@@ -267,8 +267,8 @@
 | 259 | 386 | JPW |
 | 260 | 384 | Bio Nelly |
 | 261 | 382 | Sue Joyce Staats |
-| 262 | 381 | shark tato |
-| 263 | 381 | Rafael Valentin |
+| 262 | 381 | Rafael Valentin |
+| 263 | 381 | shark tato |
 | 264 | 380 | Rio Rocha |
 | 265 | 380 | Jen Caldwell |
 | 266 | 379 | Backoff Recupe |
@@ -282,8 +282,8 @@
 | 274 | 370 | Cheery Risebuilder |
 | 275 | 369 | Matt Dell'Olio |
 | 276 | 367 | Meg |
-| 277 | 366 | Andrew Dang |
-| 278 | 366 | Hyper Builder |
+| 277 | 366 | Hyper Builder |
+| 278 | 366 | Andrew Dang |
 | 279 | 360 | James Hurley Jr. |
 | 280 | 359 | KimoKoala |
 | 281 | 358 | Twisty Cascadezone |
@@ -340,8 +340,8 @@
 | 332 | 311 | Laura |
 | 333 | 311 | Ak Jones |
 | 334 | 308 | Angela Geist Jusinski |
-| 335 | 307 | Shukee Lo |
-| 336 | 307 | Kim Klutz Olson |
+| 335 | 307 | Kim Klutz Olson |
+| 336 | 307 | Shukee Lo |
 | 337 | 306 | PeaceOs |
 | 338 | 303 | Jason Bosco |
 | 339 | 302 | Alan Zukowski |
