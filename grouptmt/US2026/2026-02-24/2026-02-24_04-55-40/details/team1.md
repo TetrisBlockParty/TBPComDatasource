@@ -108,8 +108,8 @@
 | 100 | 773 | Susanna Guerry |
 | 101 | 772 | Kathy Langham |
 | 102 | 770 | Zappy Curvetile |
-| 103 | 769 | Angel Fowler |
-| 104 | 769 | Robert Benito |
+| 103 | 769 | Robert Benito |
+| 104 | 769 | Angel Fowler |
 | 105 | 768 | Jazzy Framezone |
 | 106 | 756 | Cartier |
 | 107 | 751 | Kellie |
@@ -119,8 +119,8 @@
 | 111 | 719 | Bindi |
 | 112 | 716 | Kristi Johnson |
 | 113 | 711 | Debbie Kane |
-| 114 | 706 | Plucky Fallzone |
-| 115 | 706 | Denice Dee |
+| 114 | 706 | Denice Dee |
+| 115 | 706 | Plucky Fallzone |
 | 116 | 702 | lil mickey |
 | 117 | 699 | cc |
 | 118 | 692 | Melissa Lemmon |
