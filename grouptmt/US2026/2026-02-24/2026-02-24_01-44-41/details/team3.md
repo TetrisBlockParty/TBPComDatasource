@@ -593,8 +593,8 @@
 | 585 | 275 | Hyper Twisterfit |
 | 586 | 275 | Cassandra Bryant |
 | 587 | 274 | Gina Marie |
-| 588 | 273 | Kevin Fountain |
-| 589 | 273 | Jason |
+| 588 | 273 | Jason |
+| 589 | 273 | Kevin Fountain |
 | 590 | 273 | Michael Latasha Gray |
 | 591 | 272 | Brysten Green |
 | 592 | 272 | James Lykes |
@@ -620,7 +620,7 @@
 | 612 | 267 | Chilly Pop |
 | 613 | 266 | Frothy Snapper |
 | 614 | 266 | Beck Nicole |
-| 615 | 266 | Frothy Snapper |
+| 615 | 266 | Reina Roth |
 | 616 | 266 | Crystal Hine |
 | 617 | 264 | Jennifer Neiman Gaal |
 | 618 | 264 | Tammi-Jo DeMars |

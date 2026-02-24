@@ -175,8 +175,8 @@
 | 167 | 509 | Dandy Basegrid |
 | 168 | 508 | Arianna O'Brien |
 | 169 | 497 | MIKOZ |
-| 170 | 496 | Sarah Somers Gray |
-| 171 | 496 | Michelle Beres |
+| 170 | 496 | Michelle Beres |
+| 171 | 496 | Sarah Somers Gray |
 | 172 | 494 | Sean Stallings |
 | 173 | 492 | Rebekah LeiAnn Bonsell |
 | 174 | 491 | cc |
@@ -184,8 +184,8 @@
 | 176 | 489 | Speedy Liney |
 | 177 | 488 | Hyper |
 | 178 | 482 | Ly Phethmany |
-| 179 | 479 | canbrick |
-| 180 | 479 | Snappy Matcher |
+| 179 | 479 | Snappy Matcher |
+| 180 | 479 | canbrick |
 | 181 | 478 | Jumpy Dropper |
 | 182 | 475 | Steve Schneider |
 | 183 | 473 | Chuck Gannon |
@@ -235,8 +235,8 @@
 | 227 | 398 | Tyler L Hunt |
 | 228 | 396 | Sam Williams |
 | 229 | 395 | Monica Donato |
-| 230 | 393 | Lehrin Maria |
-| 231 | 393 | Wisa |
+| 230 | 393 | Wisa |
+| 231 | 393 | Lehrin Maria |
 | 232 | 389 | Howdi Duty |
 | 233 | 386 | Brian Spotts |
 | 234 | 386 | Spencer Lent |
@@ -323,8 +323,8 @@
 | 315 | 322 | Chris65 |
 | 316 | 322 | Cheeky Pop |
 | 317 | 319 | Fresno Beotoni |
-| 318 | 317 | Zany Tiler |
-| 319 | 317 | Bloknboy |
+| 318 | 317 | Bloknboy |
+| 319 | 317 | Zany Tiler |
 | 320 | 316 | Giggly Builderline |
 | 321 | 314 | Amh |
 | 322 | 312 | Diane Byrd |
@@ -343,14 +343,14 @@
 | 335 | 301 | Susie Loo |
 | 336 | 301 | Chad Atchley |
 | 337 | 300 | Logan McFarland |
-| 338 | 299 | Chummy Rollblock |
-| 339 | 299 | Nathan William |
+| 338 | 299 | Nathan William |
+| 339 | 299 | Chummy Rollblock |
 | 340 | 298 | Sweetts |
 | 341 | 297 | Speedy Snapfall |
 | 342 | 295 | Richard Corrado |
 | 343 | 294 | Наталья Солоид |
-| 344 | 293 | Garrett Burket |
-| 345 | 293 | Sunny Pivotfall |
+| 344 | 293 | Sunny Pivotfall |
+| 345 | 293 | Garrett Burket |
 | 346 | 292 | Mark Smith |
 | 347 | 292 | Clever Cascadepiece |
 | 348 | 291 | Sir-Franchise Drake |

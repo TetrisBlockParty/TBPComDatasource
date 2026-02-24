@@ -219,8 +219,8 @@
 | 211 | 450 | Amanda Pauldo-Ivy |
 | 212 | 449 | Danielle Kollias |
 | 213 | 446 | Mr. Party |
-| 214 | 444 | J-Rizzle |
-| 215 | 444 | Calvin Cannon |
+| 214 | 444 | Calvin Cannon |
+| 215 | 444 | J-Rizzle |
 | 216 | 443 | Kristina Black |
 | 217 | 442 | 🥔🥔 Spudz |
 | 218 | 441 | Lush Linkfall |
@@ -228,8 +228,8 @@
 | 220 | 439 | Jen Mattei |
 | 221 | 438 | Melvin Baird |
 | 222 | 434 | Ramel Rhodes |
-| 223 | 433 | Circuit8 |
-| 224 | 433 | Damn Libra |
+| 223 | 433 | Damn Libra |
+| 224 | 433 | Circuit8 |
 | 225 | 430 | Plucky Patternblock |
 | 226 | 427 | Chao Ma |
 | 227 | 426 | John Brunetti |
@@ -260,12 +260,12 @@
 | 252 | 383 | JPW |
 | 253 | 382 | Sue Joyce Staats |
 | 254 | 381 | Rafael Valentin |
-| 255 | 380 | Rio Rocha |
-| 256 | 380 | shark tato |
+| 255 | 380 | shark tato |
+| 256 | 380 | Rio Rocha |
 | 257 | 379 | Backoff Recupe |
-| 258 | 378 | Mary Ann Pabukis |
-| 259 | 378 | Googenheim |
-| 260 | 378 | Holly Jolly |
+| 258 | 378 | Googenheim |
+| 259 | 378 | Holly Jolly |
+| 260 | 378 | Mary Ann Pabukis |
 | 261 | 376 | Nig |
 | 262 | 372 | Aden Moss |
 | 263 | 371 | Joeliecea Cobb |
@@ -343,8 +343,8 @@
 | 335 | 298 | ZeeZee |
 | 336 | 297 | Brittany Marsh |
 | 337 | 296 | Zethra Prenisha Rahming |
-| 338 | 295 | Deb Rubeck |
-| 339 | 295 | Cool Gridzone |
+| 338 | 295 | Cool Gridzone |
+| 339 | 295 | Deb Rubeck |
 | 340 | 294 | BootsMcGee |
 | 341 | 292 | Epic Curvetile |
 | 342 | 292 | Tracey Lehmann |
@@ -1379,7 +1379,7 @@
 | 1371 | 46 | Quirky Dash |
 | 1372 | 46 | emd |
 | 1373 | 46 | Rollinsmokes |
-| 1374 | 46 | SweetHoneyComb |
+| 1374 | 46 | Daws |
 | 1375 | 46 | Samantha Ponzillo |
 | 1376 | 46 | Valerie Eileen |
 | 1377 | 46 | Jacqueline Brosius |

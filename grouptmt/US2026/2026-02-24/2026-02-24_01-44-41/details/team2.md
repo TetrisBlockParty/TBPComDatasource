@@ -328,8 +328,8 @@
 | 320 | 1222 | Nuke Morris |
 | 321 | 1220 | Ricardo Burton |
 | 322 | 1218 | LaKisha Anderson |
-| 323 | 1217 | Brooks Brooks |
-| 324 | 1217 | Christina Lewis-Vickers |
+| 323 | 1217 | Christina Lewis-Vickers |
+| 324 | 1217 | Brooks Brooks |
 | 325 | 1216 | Pacynthia Williams |
 | 326 | 1214 | David Cudicio-Hayden |
 | 327 | 1211 | Cynthia Ward |
