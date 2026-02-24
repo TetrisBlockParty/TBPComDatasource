@@ -125,8 +125,8 @@
 | 117 | 735 | Nugget |
 | 118 | 731 | KJ Pool |
 | 119 | 729 | Jamie Mann-Deichmann |
-| 120 | 726 | Amy Suckarieh |
-| 121 | 726 | Jamie Gustafson |
+| 120 | 726 | Jamie Gustafson |
+| 121 | 726 | Amy Suckarieh |
 | 122 | 725 | Brandon Crabbs |
 | 123 | 718 | Zippy Gridlock |
 | 124 | 712 | H.R. Block |
@@ -183,8 +183,8 @@
 | 175 | 538 | Steph Marie |
 | 176 | 537 | Scott Jameson |
 | 177 | 535 | Berklie Apedaile |
-| 178 | 532 | Alan George LaRage |
-| 179 | 532 | Matt Summer |
+| 178 | 532 | Matt Summer |
+| 179 | 532 | Alan George LaRage |
 | 180 | 528 | Erin Sabol |
 | 181 | 525 | Lucas J Sutton |
 | 182 | 522 | Carly Alexis |
@@ -221,12 +221,12 @@
 | 213 | 473 | Jolly Dashfit |
 | 214 | 465 | June Hoffman |
 | 215 | 464 | Zakia Monae |
-| 216 | 462 | Crystal Nicolette Moore |
-| 217 | 462 | Leslie Thomas |
+| 216 | 462 | Leslie Thomas |
+| 217 | 462 | Crystal Nicolette Moore |
 | 218 | 460 | Kathy Brookins |
 | 219 | 458 | Kristina Black |
-| 220 | 457 | J-Rizzle |
-| 221 | 457 | Kristin Manee |
+| 220 | 457 | Kristin Manee |
+| 221 | 457 | J-Rizzle |
 | 222 | 456 | shark tato |
 | 223 | 455 | Michele Plunkett |
 | 224 | 454 | Keshia Lyons |
@@ -296,8 +296,8 @@
 | 288 | 367 | Meg |
 | 289 | 360 | David Lay |
 | 290 | 360 | Lee Silpe |
-| 291 | 359 | Holly |
-| 292 | 359 | KimoKoala |
+| 291 | 359 | KimoKoala |
+| 292 | 359 | Holly |
 | 293 | 358 | Lora |
 | 294 | 354 | @ |
 | 295 | 351 | Dana Scott |

@@ -652,15 +652,15 @@
 | 644 | 758 | Stephanie Neuburger |
 | 645 | 757 | Frisky Clearpiece |
 | 646 | 756 | Aleksandr Gershman |
-| 647 | 755 | Marcia Jones |
+| 647 | 755 | Bonita Kee |
 | 648 | 755 | Antonio Mckoy Sr. |
-| 649 | 755 | Bonita Kee |
+| 649 | 755 | Marcia Jones |
 | 650 | 754 | Draizen Montrell Thomas |
 | 651 | 753 | John Jubes |
 | 652 | 751 | Swanky Strikerpiece |
 | 653 | 751 | Tom Riefer |
-| 654 | 750 | Prette Qui |
-| 655 | 750 | Samie Dayle |
+| 654 | 750 | Samie Dayle |
+| 655 | 750 | Prette Qui |
 | 656 | 750 | Lisa Reynolds |
 | 657 | 749 | ToxicTrash |
 | 658 | 749 | Trisha J Schmidt |
@@ -670,8 +670,8 @@
 | 662 | 742 | Cassie Maynard |
 | 663 | 741 | Leah Keesling |
 | 664 | 741 | Ashley Munn |
-| 665 | 740 | Lylymom |
-| 666 | 740 | Jerry Tempelmeyer |
+| 665 | 740 | Jerry Tempelmeyer |
+| 666 | 740 | Lylymom |
 | 667 | 740 | Lee Harper |
 | 668 | 740 | Cathleena Giusto |
 | 669 | 739 | Johanna Massaro |
