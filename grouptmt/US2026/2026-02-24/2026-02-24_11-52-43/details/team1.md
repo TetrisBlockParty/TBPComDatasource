@@ -144,10 +144,10 @@
 | 136 | 647 | Theo Pinnow |
 | 137 | 643 | Erin Rosberg |
 | 138 | 642 | Mario Cab |
-| 139 | 629 | Death |
-| 140 | 629 | Tanya Carpenter-Reynolds |
-| 141 | 628 | femmefatale |
-| 142 | 628 | Trina Gee |
+| 139 | 629 | Tanya Carpenter-Reynolds |
+| 140 | 629 | Death |
+| 141 | 628 | Trina Gee |
+| 142 | 628 | femmefatale |
 | 143 | 626 | Damon J. Martin |
 | 144 | 620 | Ty Brown |
 | 145 | 617 | Tipsy Riseclear |
@@ -211,8 +211,8 @@
 | 203 | 493 | Chuck Gannon |
 | 204 | 492 | Happy Snapbuild |
 | 205 | 491 | Tamara Brown |
-| 206 | 488 | Ly Phethmany |
-| 207 | 488 | Jessie Welch |
+| 206 | 488 | Jessie Welch |
+| 207 | 488 | Ly Phethmany |
 | 208 | 482 | Adele Rahman |
 | 209 | 479 | canbrick |
 | 210 | 478 | Hasty Cascader |
@@ -241,8 +241,8 @@
 | 233 | 438 | Chelsea Dahlquist |
 | 234 | 436 | Sylvia Vasquez |
 | 235 | 433 | Richard Corrado |
-| 236 | 431 | Tipsy Strikerpiece |
-| 237 | 431 | Shiny Snapfit |
+| 236 | 431 | Shiny Snapfit |
+| 237 | 431 | Tipsy Strikerpiece |
 | 238 | 430 | Jennifer Noe Chandler |
 | 239 | 429 | pjbeta |
 | 240 | 429 | Tana |
@@ -278,8 +278,8 @@
 | 270 | 394 | Lynn Adams |
 | 271 | 394 | Nick R Montague |
 | 272 | 393 | Wisa |
-| 273 | 392 | Poppy Riserpiece |
-| 274 | 392 | Renee Tucker |
+| 273 | 392 | Renee Tucker |
+| 274 | 392 | Poppy Riserpiece |
 | 275 | 391 | Happy Basegrid |
 | 276 | 390 | David Lutcher |
 | 277 | 388 | Test |

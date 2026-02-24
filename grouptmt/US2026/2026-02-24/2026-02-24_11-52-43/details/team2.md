@@ -276,8 +276,8 @@
 | 268 | 1539 | Nadia Batista Garcia |
 | 269 | 1537 | Prado |
 | 270 | 1528 | Stacy Stickle |
-| 271 | 1509 | Whitney Nicole Waterman |
-| 272 | 1509 | Stacey Clement |
+| 271 | 1509 | Stacey Clement |
+| 272 | 1509 | Whitney Nicole Waterman |
 | 273 | 1506 | Shiny Twistfit |
 | 274 | 1501 | Ashle Scranton |
 | 275 | 1498 | Ericka Marie Smith |
@@ -1124,21 +1124,21 @@
 | 1116 | 540 | Melisa Marvin |
 | 1117 | 540 | Amanda Canterbury |
 | 1118 | 539 | stacey |
-| 1119 | 539 | Speedy Fill |
-| 1120 | 539 | Dizzy Clicker |
-| 1121 | 539 | Boldy Brickfit |
-| 1122 | 539 | Nutty Slice |
-| 1123 | 539 | Lively Catcher |
-| 1124 | 539 | Loopy Brickmatch |
+| 1119 | 539 | Dizzy Clicker |
+| 1120 | 539 | Boldy Brickfit |
+| 1121 | 539 | Nutty Slice |
+| 1122 | 539 | Lively Catcher |
+| 1123 | 539 | Loopy Brickmatch |
+| 1124 | 539 | Speedy Fill |
 | 1125 | 538 | Lesley Leanne Houston |
 | 1126 | 537 | Jaime E. Rodriguez |
 | 1127 | 537 | Robin |
 | 1128 | 537 | Austin Wilson |
-| 1129 | 536 | Paul Hinkle |
-| 1130 | 536 | Enha |
+| 1129 | 536 | Enha |
+| 1130 | 536 | Paul Hinkle |
 | 1131 | 535 | Frisky Patternline |
 | 1132 | 535 | Katrina Willmon |
-| 1133 | 534 | JAG$*V¡LL£•FL•DuuuVaL |
+| 1133 | 534 | Kara Jennifer |
 | 1134 | 534 | Sherilyn Huie |
 | 1135 | 534 | JAG$*V¡LL£•FL•DuuuVaL |
 | 1136 | 533 | John Quiring |
@@ -1156,16 +1156,16 @@
 | 1148 | 528 | Brooklynn Huckaby |
 | 1149 | 528 | Justin Hines |
 | 1150 | 527 | Jes Norris |
-| 1151 | 526 | Marcus Ken Wilcox |
-| 1152 | 526 | Rosa Marie Matias |
-| 1153 | 526 | Heidi Kent |
-| 1154 | 525 | Micky |
-| 1155 | 525 | Sam |
+| 1151 | 526 | Rosa Marie Matias |
+| 1152 | 526 | Heidi Kent |
+| 1153 | 526 | Marcus Ken Wilcox |
+| 1154 | 525 | Sam |
+| 1155 | 525 | Micky |
 | 1156 | 524 | Sean Sabrowski |
-| 1157 | 524 | Gina Bahn |
-| 1158 | 524 | Mandy Kachenmeister |
-| 1159 | 523 | Suzy Moody |
-| 1160 | 523 | Sue Leard |
+| 1157 | 524 | Mandy Kachenmeister |
+| 1158 | 524 | Gina Bahn |
+| 1159 | 523 | Sue Leard |
+| 1160 | 523 | Suzy Moody |
 | 1161 | 523 | Leslie Porter |
 | 1162 | 522 | Jay Levy |
 | 1163 | 521 | Karra Lindsey |
@@ -1358,8 +1358,8 @@
 | 1350 | 460 | LaWanda Powell |
 | 1351 | 459 | Happy Cluster |
 | 1352 | 459 | Gabby Devant |
-| 1353 | 458 | Tanyla Strickland |
-| 1354 | 458 | STLBatman |
+| 1353 | 458 | STLBatman |
+| 1354 | 458 | Tanyla Strickland |
 | 1355 | 458 | Chill Rotater |
 | 1356 | 457 | Kray Kray Katelynn |
 | 1357 | 457 | Anna Mayo |
@@ -1373,8 +1373,8 @@
 | 1365 | 456 | Dad |
 | 1366 | 456 | Harley Williams |
 | 1367 | 456 | Frilly Tilemaker |
-| 1368 | 455 | sup |
-| 1369 | 455 | Elyse Rivera |
+| 1368 | 455 | Elyse Rivera |
+| 1369 | 455 | sup |
 | 1370 | 454 | CleverAngel |
 | 1371 | 454 | Bold Brickster |
 | 1372 | 454 | Sherri Morgan |

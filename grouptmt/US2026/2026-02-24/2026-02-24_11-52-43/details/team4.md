@@ -108,8 +108,8 @@
 | 100 | 846 | Christine Marie |
 | 101 | 840 | SAP |
 | 102 | 837 | Rica Mitchell |
-| 103 | 834 | Brittney Orengo |
-| 104 | 834 | quicksand420 |
+| 103 | 834 | quicksand420 |
+| 104 | 834 | Brittney Orengo |
 | 105 | 818 | Lori Walker |
 | 106 | 815 | Diana Houts |
 | 107 | 813 | Amy Suckarieh |
@@ -117,8 +117,8 @@
 | 109 | 811 | Sassy Pattern |
 | 110 | 806 | Zippy Gridlock |
 | 111 | 805 | Mylo Lipscomb |
-| 112 | 802 | Denise Carlson |
-| 113 | 802 | Crystal Carroll |
+| 112 | 802 | Crystal Carroll |
+| 113 | 802 | Denise Carlson |
 | 114 | 801 | D3TROITB0RN74 |
 | 115 | 798 | Jewell Urban |
 | 116 | 784 | TheNeesh50 |
@@ -220,8 +220,8 @@
 | 212 | 502 | Ericca Eldridge |
 | 213 | 502 | Christina Black |
 | 214 | 501 | Sharyn Lemire |
-| 215 | 499 | Kesha Brady |
-| 216 | 499 | DonMega |
+| 215 | 499 | DonMega |
+| 216 | 499 | Kesha Brady |
 | 217 | 497 | Damn Libra |
 | 218 | 496 | Jessica Bohlken |
 | 219 | 495 | Joeliecea Cobb |
@@ -364,8 +364,8 @@
 | 356 | 327 | Jessica Petersen |
 | 357 | 327 | Jim Hart |
 | 358 | 325 | Dustin York |
-| 359 | 324 | tipsy tiger |
-| 360 | 324 | Sarah Hoffman |
+| 359 | 324 | Sarah Hoffman |
+| 360 | 324 | tipsy tiger |
 | 361 | 322 | Bryan Hodgins |
 | 362 | 321 | Sarah Brown |
 | 363 | 321 | Paige Kittles |
@@ -378,7 +378,7 @@
 | 370 | 319 | Jessica Fredericks |
 | 371 | 317 | Madison Sweere |
 | 372 | 317 | Kim Klutz Olson |
-| 373 | 317 | Madison Sweere |
+| 373 | 317 | Paito |
 | 374 | 316 | Shukee Lo |
 | 375 | 315 | Maureen Flanigan |
 | 376 | 315 | Ultramarine |
@@ -387,8 +387,8 @@
 | 379 | 314 | KoolMom9907 |
 | 380 | 313 | Lazy Glidepiece |
 | 381 | 312 | Tawna Curry |
-| 382 | 311 | Reds Bella |
-| 383 | 311 | KayM |
+| 382 | 311 | KayM |
+| 383 | 311 | Reds Bella |
 | 384 | 308 | Angela Geist Jusinski |
 | 385 | 307 | Eri Kka |
 | 386 | 307 | Susan Williams |
@@ -540,12 +540,12 @@
 | 532 | 232 | Lou Ie |
 | 533 | 232 | Dandy Cascadefit |
 | 534 | 231 | Loony Rotater |
-| 535 | 230 | Martha Lucinda Bishop |
-| 536 | 230 | Joey Riley |
+| 535 | 230 | Joey Riley |
+| 536 | 230 | Martha Lucinda Bishop |
 | 537 | 229 | Jessica Wells |
-| 538 | 229 | Brad Campbell |
-| 539 | 229 | Marco |
-| 540 | 229 | Stacy |
+| 538 | 229 | Stacy |
+| 539 | 229 | Brad Campbell |
+| 540 | 229 | Marco |
 | 541 | 228 | Ashley Danielle |
 | 542 | 227 | Rhys Morgan |
 | 543 | 227 | 2slo |
@@ -604,9 +604,9 @@
 | 596 | 209 | Chilly Matcher |
 | 597 | 208 | Sholom Fried |
 | 598 | 208 | JoAnna Zalkovsky |
-| 599 | 207 | Chariss Newsom |
-| 600 | 207 | Rebecca Blake |
-| 601 | 207 | ChasingZen |
+| 599 | 207 | ChasingZen |
+| 600 | 207 | Chariss Newsom |
+| 601 | 207 | Rebecca Blake |
 | 602 | 206 | Matt Morrow |
 | 603 | 204 | Susan Purnell |
 | 604 | 204 | Gwendolyn Pitcairn |
@@ -889,7 +889,7 @@
 | 881 | 129 | Alo |
 | 882 | 128 | Bigg Guy |
 | 883 | 128 | k |
-| 884 | 127 | Riley Chelsie |
+| 884 | 127 | Kari Rose Haché |
 | 885 | 127 | Rosemary Foster |
 | 886 | 127 | Riley Chelsie |
 | 887 | 126 | Spicy Cascadezone |
