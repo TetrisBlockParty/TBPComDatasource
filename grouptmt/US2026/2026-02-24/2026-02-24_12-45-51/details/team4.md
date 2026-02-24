@@ -110,8 +110,8 @@
 | 102 | 840 | SAP |
 | 103 | 838 | Amy Suckarieh |
 | 104 | 837 | Rica Mitchell |
-| 105 | 834 | Brittney Orengo |
-| 106 | 834 | quicksand420 |
+| 105 | 834 | quicksand420 |
+| 106 | 834 | Brittney Orengo |
 | 107 | 818 | Lori Walker |
 | 108 | 813 | Klo |
 | 109 | 811 | Sassy Pattern |
@@ -188,8 +188,8 @@
 | 180 | 561 | Steph Marie |
 | 181 | 558 | Marie-Pier Desjardins |
 | 182 | 556 | Circuit8 |
-| 183 | 552 | Angel Raya |
-| 184 | 552 | Joseph Guthrie |
+| 183 | 552 | Joseph Guthrie |
+| 184 | 552 | Angel Raya |
 | 185 | 550 | James Hurley Jr. |
 | 186 | 549 | Cool Towerbuilder |
 | 187 | 547 | Mimi |
@@ -548,8 +548,8 @@
 | 540 | 231 | Loony Rotater |
 | 541 | 230 | Joey Riley |
 | 542 | 230 | Martha Lucinda Bishop |
-| 543 | 229 | Brad Campbell |
-| 544 | 229 | Marco |
+| 543 | 229 | Marco |
+| 544 | 229 | Brad Campbell |
 | 545 | 228 | Ashley Danielle |
 | 546 | 227 | Asher |
 | 547 | 227 | Jeff Roberts |

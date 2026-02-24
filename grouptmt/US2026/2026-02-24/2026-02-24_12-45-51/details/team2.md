@@ -367,8 +367,8 @@
 | 359 | 1257 | Megan Ferguson Leone |
 | 360 | 1257 | Megan Garrick |
 | 361 | 1257 | Jackie Lucas |
-| 362 | 1256 | Phil J. Grombliniak |
-| 363 | 1256 | Belle |
+| 362 | 1256 | Belle |
+| 363 | 1256 | Phil J. Grombliniak |
 | 364 | 1255 | Ambyre Patterson |
 | 365 | 1254 | Erika Densmore |
 | 366 | 1252 | AgileDragon |
@@ -446,8 +446,8 @@
 | 438 | 1088 | Angelina Marie |
 | 439 | 1088 | BK Queen |
 | 440 | 1087 | Angela Bonquiqui Dinish |
-| 441 | 1085 | Barbra Miller |
-| 442 | 1085 | Bee |
+| 441 | 1085 | Bee |
+| 442 | 1085 | Barbra Miller |
 | 443 | 1084 | Emilee Burke |
 | 444 | 1084 | William Hunt |
 | 445 | 1082 | Thomas Hedrick |
@@ -575,8 +575,8 @@
 | 567 | 907 | Gene Mills |
 | 568 | 903 | Stephanie Lumanlan |
 | 569 | 902 | Stephanie Sul |
-| 570 | 899 | Caitlyn Blackwell |
-| 571 | 899 | Patrick Bartlett |
+| 570 | 899 | Patrick Bartlett |
+| 571 | 899 | Caitlyn Blackwell |
 | 572 | 899 | Aletha Williams |
 | 573 | 898 | KayLynn Ogden McClelland |
 | 574 | 895 | Donna Colby |
@@ -669,8 +669,8 @@
 | 661 | 800 | Frilly Fallzone |
 | 662 | 798 | Daniell Martinez |
 | 663 | 797 | Moist_B-hole |
-| 664 | 796 | Brianna Cerney |
-| 665 | 796 | Trevor Jordan |
+| 664 | 796 | Trevor Jordan |
+| 665 | 796 | Brianna Cerney |
 | 666 | 795 | Alexandra Weir |
 | 667 | 793 | Joseph Musick |
 | 668 | 793 | Heather Anspaugh |
@@ -707,8 +707,8 @@
 | 699 | 770 | Michael Buckner |
 | 700 | 768 | Mia Muse Best |
 | 701 | 766 | Frisky Riserbuilder |
-| 702 | 766 | Diamond Scott |
-| 703 | 766 | Angela Cagle Silmon |
+| 702 | 766 | Angela Cagle Silmon |
+| 703 | 766 | Diamond Scott |
 | 704 | 766 | Ced Mitch |
 | 705 | 763 | Heather Causey |
 | 706 | 763 | Cecilia A Jenkins |
@@ -884,8 +884,8 @@
 | 876 | 660 | Jenna Nance |
 | 877 | 660 | Shelva Richard |
 | 878 | 659 | Rain |
-| 879 | 656 | Emilie Desma |
-| 880 | 656 | Synn |
+| 879 | 656 | Synn |
+| 880 | 656 | Emilie Desma |
 | 881 | 655 | Lively Piecebuilder |
 | 882 | 655 | dionia |
 | 883 | 654 | David Duncan |

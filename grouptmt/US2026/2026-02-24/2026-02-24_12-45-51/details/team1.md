@@ -139,7 +139,7 @@
 | 131 | 668 | Ryan Lunnin |
 | 132 | 667 | Basment Living |
 | 133 | 666 | Virginia Gray Floyd |
-| 134 | 652 | Erin Rosberg |
+| 134 | 652 | Evie Khalil |
 | 135 | 652 | Jessica Sheehan |
 | 136 | 652 | Erin Rosberg |
 | 137 | 651 | Dandy Basegrid |
@@ -252,8 +252,8 @@
 | 244 | 431 | Tipsy Strikerpiece |
 | 245 | 429 | pjbeta |
 | 246 | 427 | Ananda Mendez |
-| 247 | 426 | Betsy |
-| 248 | 426 | Brenda Alexander |
+| 247 | 426 | Brenda Alexander |
+| 248 | 426 | Betsy |
 | 249 | 425 | Tyler Werts |
 | 250 | 424 | Lindsay Glover |
 | 251 | 424 | Serina Marie |
