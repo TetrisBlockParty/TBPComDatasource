@@ -238,8 +238,8 @@
 | 230 | 472 | Plucky Patternblock |
 | 231 | 468 | scott |
 | 232 | 465 | Leslie Thomas |
-| 233 | 464 | Zakia Monae |
-| 234 | 464 | Calvin Cannon |
+| 233 | 464 | Calvin Cannon |
+| 234 | 464 | Zakia Monae |
 | 235 | 463 | shark tato |
 | 236 | 462 | Crystal Nicolette Moore |
 | 237 | 461 | Jen Mattei |
@@ -254,8 +254,8 @@
 | 246 | 454 | Keshia Lyons |
 | 247 | 450 | Genne Scott |
 | 248 | 449 | Danielle Kollias |
-| 249 | 448 | Mike Solo |
-| 250 | 448 | Mr. Party |
+| 249 | 448 | Mr. Party |
+| 250 | 448 | Mike Solo |
 | 251 | 447 | Chris Bernstein |
 | 252 | 444 | Selena Shaw |
 | 253 | 444 | Twisty Cascadezone |
@@ -268,8 +268,8 @@
 | 260 | 432 | Jason Gibbs |
 | 261 | 430 | 030Synner |
 | 262 | 428 | Gdiguy |
-| 263 | 427 | Chao Ma |
-| 264 | 427 | Jeff Brian Gates |
+| 263 | 427 | Jeff Brian Gates |
+| 264 | 427 | Chao Ma |
 | 265 | 427 | Cheery Risebuilder |
 | 266 | 425 | Lee Silpe |
 | 267 | 425 | mike |
@@ -300,8 +300,8 @@
 | 292 | 390 | Ari Droff |
 | 293 | 387 | Sandra Safford |
 | 294 | 386 | Vic |
-| 295 | 382 | Matt Dell'Olio |
-| 296 | 382 | Sue Joyce Staats |
+| 295 | 382 | Sue Joyce Staats |
+| 296 | 382 | Matt Dell'Olio |
 | 297 | 381 | Cool Gridzone |
 | 298 | 380 | Jen Caldwell |
 | 299 | 380 | Holly Jolly |

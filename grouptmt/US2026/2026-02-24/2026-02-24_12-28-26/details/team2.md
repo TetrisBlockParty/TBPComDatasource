@@ -367,8 +367,8 @@
 | 359 | 1257 | Megan Garrick |
 | 360 | 1257 | Megan Ferguson Leone |
 | 361 | 1257 | Jackie Lucas |
-| 362 | 1256 | Phil J. Grombliniak |
-| 363 | 1256 | Belle |
+| 362 | 1256 | Belle |
+| 363 | 1256 | Phil J. Grombliniak |
 | 364 | 1255 | Ambyre Patterson |
 | 365 | 1254 | Erika Densmore |
 | 366 | 1252 | AgileDragon |
@@ -714,8 +714,8 @@
 | 706 | 763 | Cecilia A Jenkins |
 | 707 | 762 | Slinky Racker |
 | 708 | 760 | Shorty |
-| 709 | 759 | Anthony McAlister |
-| 710 | 759 | teo1 |
+| 709 | 759 | teo1 |
+| 710 | 759 | Anthony McAlister |
 | 711 | 759 | Jessica Lamb |
 | 712 | 759 | Briana Alexander |
 | 713 | 758 | Stephanie Neuburger |
@@ -733,15 +733,15 @@
 | 725 | 749 | Trisha J Schmidt |
 | 726 | 748 | Sassy Linkroll |
 | 727 | 746 | Emily Lyric Converse |
-| 728 | 743 | Véronique Lévesque Sabourin |
-| 729 | 743 | Gloria Ininahazwe |
+| 728 | 743 | Gloria Ininahazwe |
+| 729 | 743 | Véronique Lévesque Sabourin |
 | 730 | 743 | Clever Dashgrid |
 | 731 | 742 | Rhonda Petro |
 | 732 | 741 | Leah Keesling |
 | 733 | 741 | Ashley Munn |
 | 734 | 740 | Lylymom |
-| 735 | 740 | Joice Hansen |
-| 736 | 740 | Lee Harper |
+| 735 | 740 | Lee Harper |
+| 736 | 740 | Joice Hansen |
 | 737 | 738 | Jessica S Flecha |
 | 738 | 738 | calcap |
 | 739 | 737 | Breezy Clusterer |
