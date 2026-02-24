@@ -88,8 +88,8 @@
 | 80 | 994 | Lori Sanders- Davis |
 | 81 | 973 | Francesca Gee |
 | 82 | 961 | Jacqueline Williams |
-| 83 | 957 | Zippy Align |
-| 84 | 957 | Erin Hodges Plumb |
+| 83 | 957 | Erin Hodges Plumb |
+| 84 | 957 | Zippy Align |
 | 85 | 944 | Sweet Baker |
 | 86 | 940 | Tyler Whitley |
 | 87 | 920 | Tee Sheree |
@@ -112,8 +112,8 @@
 | 104 | 791 | Greg Hart |
 | 105 | 782 | Angel Fowler |
 | 106 | 781 | Ash Galvan |
-| 107 | 773 | Cartier |
-| 108 | 773 | Susanna Guerry |
+| 107 | 773 | Susanna Guerry |
+| 108 | 773 | Cartier |
 | 109 | 772 | Kathy Langham |
 | 110 | 770 | Zappy Curvetile |
 | 111 | 768 | Jazzy Framezone |
@@ -147,8 +147,8 @@
 | 139 | 628 | Trina Gee |
 | 140 | 626 | Damon J. Martin |
 | 141 | 620 | Ty Brown |
-| 142 | 618 | Ryan Lunnin |
-| 143 | 618 | femmefatale |
+| 142 | 618 | femmefatale |
+| 143 | 618 | Ryan Lunnin |
 | 144 | 611 | Evan Richmond |
 | 145 | 609 | Basment Living |
 | 146 | 608 | Tipsy Riseclear |
@@ -259,15 +259,15 @@
 | 251 | 414 | Bird Person |
 | 252 | 412 | Sleepysloath5745 |
 | 253 | 410 | Paula Martin |
-| 254 | 409 | Lehrin Maria |
-| 255 | 409 | poopypants |
+| 254 | 409 | poopypants |
+| 255 | 409 | Lehrin Maria |
 | 256 | 405 | Tyler L Hunt |
 | 257 | 403 | Tami Luce Martin |
 | 258 | 403 | Jen Nystrom |
 | 259 | 403 | Alenoush Karimian |
 | 260 | 399 | Lakeisha Chapman |
-| 261 | 398 | Cece Ibarra |
-| 262 | 398 | MommaKFC |
+| 261 | 398 | MommaKFC |
+| 262 | 398 | Cece Ibarra |
 | 263 | 396 | Sam Williams |
 | 264 | 394 | Nick R Montague |
 | 265 | 393 | Wisa |

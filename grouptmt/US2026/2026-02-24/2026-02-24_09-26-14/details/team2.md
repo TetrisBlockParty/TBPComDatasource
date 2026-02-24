@@ -472,8 +472,8 @@
 | 464 | 1031 | William Bresee |
 | 465 | 1025 | Ann Matzkanin |
 | 466 | 1024 | Tiara Elizabeth Baker |
-| 467 | 1024 | Susan Perraut Jones |
-| 468 | 1024 | KrisCynthia Lynette |
+| 467 | 1024 | KrisCynthia Lynette |
+| 468 | 1024 | Susan Perraut Jones |
 | 469 | 1022 | Jackie Burnett |
 | 470 | 1019 | Glitzy Rollblock |
 | 471 | 1018 | Eric Castaneda |
@@ -563,8 +563,8 @@
 | 555 | 903 | Dylan Thomason |
 | 556 | 903 | Stephanie Lumanlan |
 | 557 | 902 | Stephanie Sul |
-| 558 | 899 | Caitlyn Blackwell |
-| 559 | 899 | Patrick Bartlett |
+| 558 | 899 | Patrick Bartlett |
+| 559 | 899 | Caitlyn Blackwell |
 | 560 | 895 | Donna Colby |
 | 561 | 893 | Shantel Kelley |
 | 562 | 890 | Venita Ray |
@@ -910,8 +910,8 @@
 | 902 | 638 | DLOCC1056 |
 | 903 | 637 | Darcy Mae |
 | 904 | 636 | Tash Bell |
-| 905 | 635 | Pamela Babisky |
-| 906 | 635 | John Carlin |
+| 905 | 635 | John Carlin |
+| 906 | 635 | Pamela Babisky |
 | 907 | 634 | Jessica Galick |
 | 908 | 632 | Lea Stewart |
 | 909 | 631 | Autumn Schaeffer |
@@ -928,8 +928,8 @@
 | 920 | 622 | Ryan Meilleur |
 | 921 | 622 | Ben Barkley |
 | 922 | 621 | Moua Ying |
-| 923 | 621 | Erica Dale |
-| 924 | 621 | Kitybox |
+| 923 | 621 | Kitybox |
+| 924 | 621 | Erica Dale |
 | 925 | 620 | Gael |
 | 926 | 620 | Beth Decker |
 | 927 | 619 | Allie Leedom |

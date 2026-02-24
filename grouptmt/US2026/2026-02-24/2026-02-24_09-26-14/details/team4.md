@@ -111,8 +111,8 @@
 | 103 | 834 | Brittney Orengo |
 | 104 | 834 | quicksand420 |
 | 105 | 815 | Diana Houts |
-| 106 | 813 | Amy Suckarieh |
-| 107 | 813 | Klo |
+| 106 | 813 | Klo |
+| 107 | 813 | Amy Suckarieh |
 | 108 | 811 | Sassy Pattern |
 | 109 | 806 | Lori Walker |
 | 110 | 806 | Zippy Gridlock |
@@ -138,8 +138,8 @@
 | 130 | 712 | Leslie Nicole |
 | 131 | 712 | H.R. Block |
 | 132 | 708 | Jacqueline Helm |
-| 133 | 704 | Austin Owens |
-| 134 | 704 | Chilly Crasher |
+| 133 | 704 | Chilly Crasher |
+| 134 | 704 | Austin Owens |
 | 135 | 682 | Raegan Lane-Ross |
 | 136 | 668 | Desi Desporte |
 | 137 | 667 | Lindsey Gonzalez |
@@ -233,8 +233,8 @@
 | 225 | 473 | Jolly Dashfit |
 | 226 | 472 | Plucky Patternblock |
 | 227 | 465 | Leslie Thomas |
-| 228 | 464 | Calvin Cannon |
-| 229 | 464 | Zakia Monae |
+| 228 | 464 | Zakia Monae |
+| 229 | 464 | Calvin Cannon |
 | 230 | 463 | shark tato |
 | 231 | 462 | Crystal Nicolette Moore |
 | 232 | 460 | Kathy Brookins |
@@ -253,8 +253,8 @@
 | 245 | 444 | Selena Shaw |
 | 246 | 442 | John Brunetti |
 | 247 | 441 | Lush Linkfall |
-| 248 | 438 | Melvin Baird |
-| 249 | 438 | 23 |
+| 248 | 438 | 23 |
+| 249 | 438 | Melvin Baird |
 | 250 | 435 | Chris Bernstein |
 | 251 | 434 | Ramel Rhodes |
 | 252 | 433 | Damn Libra |
@@ -305,8 +305,8 @@
 | 297 | 375 | George Tzouganos |
 | 298 | 373 | Russ Attitude |
 | 299 | 371 | Jessi Cinotto |
-| 300 | 370 | Twisty Risebuilder |
-| 301 | 370 | Kris Bartlett |
+| 300 | 370 | Kris Bartlett |
+| 301 | 370 | Twisty Risebuilder |
 | 302 | 368 | Dan Wold |
 | 303 | 367 | Meg |
 | 304 | 364 | Lora |
@@ -464,8 +464,8 @@
 | 456 | 258 | April Spoelma |
 | 457 | 257 | Laurel Coppess |
 | 458 | 257 | ThriftySpice |
-| 459 | 256 | Candice Carasiti |
-| 460 | 256 | Tipsy Cascader |
+| 459 | 256 | Tipsy Cascader |
+| 460 | 256 | Candice Carasiti |
 | 461 | 256 | bloat princess |
 | 462 | 255 | Red |
 | 463 | 254 | Crystal Lynn |

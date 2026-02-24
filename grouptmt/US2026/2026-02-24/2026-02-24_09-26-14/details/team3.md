@@ -68,8 +68,8 @@
 | 60 | 1931 | Denise Nardoni |
 | 61 | 1920 | Trezure Gonzalez |
 | 62 | 1858 | Kristie McFarland |
-| 63 | 1824 | Nate Burnside |
-| 64 | 1824 | Jessica Ann |
+| 63 | 1824 | Jessica Ann |
+| 64 | 1824 | Nate Burnside |
 | 65 | 1804 | Tina Kay |
 | 66 | 1791 | Leah Barnett |
 | 67 | 1776 | Whitney Manuel |
@@ -83,8 +83,8 @@
 | 75 | 1633 | cowboy25469 |
 | 76 | 1625 | Queen Kam |
 | 77 | 1615 | joclisa |
-| 78 | 1566 | Nerdy Riseclear |
-| 79 | 1566 | Marcie Bressler |
+| 78 | 1566 | Marcie Bressler |
+| 79 | 1566 | Nerdy Riseclear |
 | 80 | 1560 | Logan Naccarato |
 | 81 | 1555 | Snappy Glidepiece |
 | 82 | 1518 | Christine Filson |
@@ -126,8 +126,8 @@
 | 118 | 1134 | Melissa Orth Hunter |
 | 119 | 1124 | Stephanie Rice |
 | 120 | 1121 | Corie A. Brinson |
-| 121 | 1114 | Groovy Catcher |
-| 122 | 1114 | Loopy Fallmatch |
+| 121 | 1114 | Loopy Fallmatch |
+| 122 | 1114 | Groovy Catcher |
 | 123 | 1105 | Adrian Marcel Pate |
 | 124 | 1093 | Angela M. Fletcher |
 | 125 | 1091 | Jennifer |
@@ -159,8 +159,8 @@
 | 151 | 950 | Giddy Drop |
 | 152 | 950 | MissTaylor |
 | 153 | 947 | Kellie Montgomery |
-| 154 | 940 | Stephanie Allmon |
-| 155 | 940 | Patty Allen |
+| 154 | 940 | Patty Allen |
+| 155 | 940 | Stephanie Allmon |
 | 156 | 936 | Dolores Falco |
 | 157 | 928 | Edwin Calvillo Jr. |
 | 158 | 925 | Cherry Parker |
@@ -176,8 +176,8 @@
 | 168 | 875 | Chasity |
 | 169 | 874 | Jessica Pineda-Lopez |
 | 170 | 871 | Rochelle Hazelett |
-| 171 | 868 | Cranky Gridder |
-| 172 | 868 | Nicole Flippo |
+| 171 | 868 | Nicole Flippo |
+| 172 | 868 | Cranky Gridder |
 | 173 | 866 | Domo Washington |
 | 174 | 864 | Sunny Rotater |
 | 175 | 862 | Santeria Trece Candles |
@@ -196,8 +196,8 @@
 | 188 | 815 | Justin Ritter |
 | 189 | 813 | JessDrown |
 | 190 | 808 | Raya |
-| 191 | 804 | Alaina Lee |
-| 192 | 804 | Gideon Walker |
+| 191 | 804 | Gideon Walker |
+| 192 | 804 | Alaina Lee |
 | 193 | 800 | Lauren Girouard |
 | 194 | 799 | Trisha Balmer |
 | 195 | 792 | Rachel Grant |
@@ -275,8 +275,8 @@
 | 267 | 618 | Kaitie Oliver |
 | 268 | 606 | Connie Mohler-Fair |
 | 269 | 605 | Sarah Cowan Burgos |
-| 270 | 604 | Bmo |
-| 271 | 604 | Sherry Ogden |
+| 270 | 604 | Sherry Ogden |
+| 271 | 604 | Bmo |
 | 272 | 601 | Betty Rosas |
 | 273 | 600 | Rynne Ellis |
 | 274 | 600 | Natasha Jones |
@@ -285,8 +285,8 @@
 | 277 | 594 | Cozy Snaplink |
 | 278 | 593 | Marci Mize Fandrich |
 | 279 | 588 | Salena Whitlock |
-| 280 | 586 | Donna |
-| 281 | 586 | Brian Battjes |
+| 280 | 586 | Brian Battjes |
+| 281 | 586 | Donna |
 | 282 | 582 | FuzzyNavel |
 | 283 | 581 | Crystal Hine |
 | 284 | 578 | James Mitchell |
@@ -407,8 +407,8 @@
 | 399 | 413 | Rick Poppen |
 | 400 | 411 | Beaudie Stroebel |
 | 401 | 409 | Rich LeBlanc |
-| 402 | 408 | Tiffany Ford |
-| 403 | 408 | Ashley Muncey |
+| 402 | 408 | Ashley Muncey |
+| 403 | 408 | Tiffany Ford |
 | 404 | 407 | Christina Spa |
 | 405 | 406 | Kristen Weese |
 | 406 | 405 | Andrew Thorson |
@@ -762,8 +762,8 @@
 | 754 | 252 | Ashley Parham |
 | 755 | 252 | Lenora Price |
 | 756 | 251 | Sassy Align |
-| 757 | 251 | Doddie Marie |
-| 758 | 251 | Adrian Massey |
+| 757 | 251 | Adrian Massey |
+| 758 | 251 | Doddie Marie |
 | 759 | 251 | Colleen Phelps |
 | 760 | 250 | mia |
 | 761 | 250 | Steph Arcari |
