@@ -81,8 +81,8 @@
 | 73 | 1080 | Chilly Line |
 | 74 | 1069 | Heather Tushner |
 | 75 | 1056 | Keith Kelley |
-| 76 | 1046 | Johnathan Martinez |
-| 77 | 1046 | Anthony Bryan Riva |
+| 76 | 1046 | Anthony Bryan Riva |
+| 77 | 1046 | Johnathan Martinez |
 | 78 | 1028 | TeeJ |
 | 79 | 1024 | Valerie Roberts |
 | 80 | 1017 | Jeremy Steines |
@@ -145,8 +145,8 @@
 | 137 | 704 | Chilly Crasher |
 | 138 | 687 | Carmethia Clemons Haslerig |
 | 139 | 668 | Desi Desporte |
-| 140 | 667 | Swanky Fitline |
-| 141 | 667 | Lindsey Gonzalez |
+| 140 | 667 | Lindsey Gonzalez |
+| 141 | 667 | Swanky Fitline |
 | 142 | 667 | Matt Gooder |
 | 143 | 664 | Porkobello |
 | 144 | 662 | Nerdy Twisterfit |
@@ -286,8 +286,8 @@
 | 278 | 410 | KimoKoala |
 | 279 | 410 | Lindsay Ball |
 | 280 | 409 | Antony Dwayne Beasley |
-| 281 | 408 | Neirrah B Olailjeel |
-| 282 | 408 | Dihcheese444 |
+| 281 | 408 | Dihcheese444 |
+| 282 | 408 | Neirrah B Olailjeel |
 | 283 | 407 | Hyper Builder |
 | 284 | 402 | Maria Hammie |
 | 285 | 402 | Nita Wells |
@@ -491,8 +491,8 @@
 | 483 | 251 | Kathy Allen |
 | 484 | 251 | Diosa Ebalobo Magsael |
 | 485 | 250 | Moonsterix |
-| 486 | 249 | Joseph Pace |
-| 487 | 249 | SHL |
+| 486 | 249 | SHL |
+| 487 | 249 | Joseph Pace |
 | 488 | 249 | Stacy Jones |
 | 489 | 248 | Jose Dejesus |
 | 490 | 248 | Gilles Lanctot |
@@ -549,8 +549,8 @@
 | 541 | 231 | Loony Rotater |
 | 542 | 230 | Joey Riley |
 | 543 | 230 | Martha Lucinda Bishop |
-| 544 | 229 | Brad Campbell |
-| 545 | 229 | Marco |
+| 544 | 229 | Marco |
+| 545 | 229 | Brad Campbell |
 | 546 | 228 | Ashley Danielle |
 | 547 | 227 | Asher |
 | 548 | 227 | Jeff Roberts |

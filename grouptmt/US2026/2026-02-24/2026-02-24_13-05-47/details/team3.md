@@ -126,8 +126,8 @@
 | 118 | 1154 | Carrie Jarvis Mohler |
 | 119 | 1152 | Julian Murphy |
 | 120 | 1124 | Stephanie Rice |
-| 121 | 1121 | Corie A. Brinson |
-| 122 | 1121 | Loopy Fallmatch |
+| 121 | 1121 | Loopy Fallmatch |
+| 122 | 1121 | Corie A. Brinson |
 | 123 | 1114 | Groovy Catcher |
 | 124 | 1108 | Rachel |
 | 125 | 1105 | Adrian Marcel Pate |
@@ -169,8 +169,8 @@
 | 161 | 928 | Edwin Calvillo Jr. |
 | 162 | 927 | Rochelle Hazelett |
 | 163 | 925 | Cherry Parker |
-| 164 | 914 | BadManSheLove |
-| 165 | 914 | Staci George Fitzsimmons |
+| 164 | 914 | Staci George Fitzsimmons |
+| 165 | 914 | BadManSheLove |
 | 166 | 910 | opf |
 | 167 | 906 | Patti Skiles |
 | 168 | 899 | Jaime Monhaut-Reed |
@@ -182,8 +182,8 @@
 | 174 | 876 | Kiki |
 | 175 | 875 | Chasity |
 | 176 | 874 | Jessica Pineda-Lopez |
-| 177 | 868 | Cranky Gridder |
-| 178 | 868 | Nicole Flippo |
+| 177 | 868 | Nicole Flippo |
+| 178 | 868 | Cranky Gridder |
 | 179 | 866 | Domo Washington |
 | 180 | 862 | Santeria Trece Candles |
 | 181 | 858 | Nicole Myers |
@@ -219,8 +219,8 @@
 | 211 | 772 | Fancy Cascader |
 | 212 | 767 | Heather Davis |
 | 213 | 766 | Mykal Burton |
-| 214 | 763 | Jim Mathews |
-| 215 | 763 | Khaleada McGill Banks |
+| 214 | 763 | Khaleada McGill Banks |
+| 215 | 763 | Jim Mathews |
 | 216 | 762 | Naur |
 | 217 | 758 | Shawn Miller |
 | 218 | 755 | Colton |
@@ -265,8 +265,8 @@
 | 257 | 642 | Rania Zaqout |
 | 258 | 641 | Tom Nault |
 | 259 | 640 | Dee Pratt |
-| 260 | 639 | Marci Mize Fandrich |
-| 261 | 639 | Nichol Graham |
+| 260 | 639 | Nichol Graham |
+| 261 | 639 | Marci Mize Fandrich |
 | 262 | 637 | Giddy Twistbuilder |
 | 263 | 636 | Bmo |
 | 264 | 636 | Salena Whitlock |
@@ -464,11 +464,11 @@
 | 456 | 378 | Brittany |
 | 457 | 377 | Paula Little |
 | 458 | 376 | Tracy Martin |
-| 459 | 375 | Denise Marie |
+| 459 | 375 | NeeCee |
 | 460 | 375 | Christy Quick |
 | 461 | 375 | Denise Marie |
-| 462 | 373 | Bekah Dietrich |
-| 463 | 373 | Yvonne Felicia Garcia |
+| 462 | 373 | Yvonne Felicia Garcia |
+| 463 | 373 | Bekah Dietrich |
 | 464 | 372 | Raijinell King |
 | 465 | 371 | Lys |
 | 466 | 370 | Eric Caccavale |
@@ -548,9 +548,9 @@
 | 540 | 333 | Hyper Wipeout |
 | 541 | 333 | Heather Ferrara |
 | 542 | 333 | Moneyvybz |
-| 543 | 331 | Shiny Snapfit |
+| 543 | 331 | Amanda Declue |
 | 544 | 331 | Wettnippz |
-| 545 | 331 | Amanda Declue |
+| 545 | 331 | Shiny Snapfit |
 | 546 | 330 | Willow |
 | 547 | 329 | Krystal Gerstberger |
 | 548 | 329 | Bree Sexton |
