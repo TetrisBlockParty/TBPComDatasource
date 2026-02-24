@@ -129,8 +129,8 @@
 | 121 | 1084 | Santana Lantana |
 | 122 | 1082 | Valerie Gendron |
 | 123 | 1067 | DaBigGuy |
-| 124 | 1066 | Demetrious Shaw Sr. |
-| 125 | 1066 | Jennifer |
+| 124 | 1066 | Jennifer |
+| 125 | 1066 | Demetrious Shaw Sr. |
 | 126 | 1065 | Rachel |
 | 127 | 1058 | Katrina Schroeder |
 | 128 | 1055 | Christine Trester |
@@ -231,8 +231,8 @@
 | 223 | 691 | Tia |
 | 224 | 691 | Snappy Balancer |
 | 225 | 689 | Patti Skiles |
-| 226 | 675 | Jeni Dow |
-| 227 | 675 | Terry Jo Jones |
+| 226 | 675 | Terry Jo Jones |
+| 227 | 675 | Jeni Dow |
 | 228 | 662 | Jim Mathews |
 | 229 | 661 | LaShey Thompson |
 | 230 | 655 | Keis |
@@ -267,8 +267,8 @@
 | 259 | 598 | Kaycee Kay |
 | 260 | 594 | Cozy Snaplink |
 | 261 | 588 | Salena Whitlock |
-| 262 | 586 | Donna |
-| 263 | 586 | Brian Battjes |
+| 262 | 586 | Brian Battjes |
+| 263 | 586 | Donna |
 | 264 | 582 | FuzzyNavel |
 | 265 | 578 | James Mitchell |
 | 266 | 574 | Danielle Balcom |
@@ -377,8 +377,8 @@
 | 369 | 431 | Donna Esbensen-Alpini |
 | 370 | 430 | Quackers |
 | 371 | 428 | Samantha Lynn |
-| 372 | 427 | AlsoJess |
-| 373 | 427 | Darlene McMillan |
+| 372 | 427 | Darlene McMillan |
+| 373 | 427 | AlsoJess |
 | 374 | 426 | Christina Rotz Shows |
 | 375 | 423 | Dapper Liney |
 | 376 | 422 | Sabrina Mansfield |

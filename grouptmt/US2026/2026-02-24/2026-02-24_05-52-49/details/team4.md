@@ -164,8 +164,8 @@
 | 156 | 587 | YoMomma |
 | 157 | 587 | Livvy |
 | 158 | 586 | Carlos Ramirez |
-| 159 | 586 | Latisha Davis |
-| 160 | 586 | Cursed Hag |
+| 159 | 586 | Cursed Hag |
+| 160 | 586 | Latisha Davis |
 | 161 | 584 | Carlton Unfiltered |
 | 162 | 576 | Jade Rian |
 | 163 | 575 | Jenna Ingersoll |
@@ -245,8 +245,8 @@
 | 237 | 434 | Ramel Rhodes |
 | 238 | 433 | Circuit8 |
 | 239 | 433 | Damn Libra |
-| 240 | 432 | scott |
-| 241 | 432 | Plucky Patternblock |
+| 240 | 432 | Plucky Patternblock |
+| 241 | 432 | scott |
 | 242 | 431 | Manny1 |
 | 243 | 430 | Chris Bernstein |
 | 244 | 427 | Chao Ma |
@@ -426,7 +426,7 @@
 | 418 | 266 | Happy Combo |
 | 419 | 265 | Degenerate |
 | 420 | 265 | Christine Therrien |
-| 421 | 265 | Degenerate |
+| 421 | 265 | Lorena Guerrero-Barron |
 | 422 | 264 | Shh |
 | 423 | 263 | Laurmarcar |
 | 424 | 262 | Lilya Troutman |

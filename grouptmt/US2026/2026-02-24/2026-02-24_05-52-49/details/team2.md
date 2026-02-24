@@ -301,8 +301,8 @@
 | 293 | 1358 | Arlene Joy Belicina |
 | 294 | 1353 | Deborah Miller |
 | 295 | 1351 | Ashie Ann |
-| 296 | 1351 | Denisha Dawkins |
-| 297 | 1351 | Johnny Yeates |
+| 296 | 1351 | Johnny Yeates |
+| 297 | 1351 | Denisha Dawkins |
 | 298 | 1342 | Groovy Puzzle |
 | 299 | 1342 | Kelly A Green-Leach |
 | 300 | 1341 | Cassie Mercer |
@@ -619,8 +619,8 @@
 | 611 | 805 | Vanessa Moreno |
 | 612 | 802 | Trisha Gallagher |
 | 613 | 795 | Carrie Mitchell |
-| 614 | 795 | Aletha Williams |
-| 615 | 795 | Alexandra Weir |
+| 614 | 795 | Alexandra Weir |
+| 615 | 795 | Aletha Williams |
 | 616 | 794 | Cathleena Giusto |
 | 617 | 793 | Heather Anspaugh |
 | 618 | 792 | Beatboxxer |
@@ -631,8 +631,8 @@
 | 623 | 785 | Daniel Amos |
 | 624 | 783 | Shiny Twistfit |
 | 625 | 780 | Amy Reynolds |
-| 626 | 780 | Megan Kitchner |
-| 627 | 780 | Breezy Filler |
+| 626 | 780 | Breezy Filler |
+| 627 | 780 | Megan Kitchner |
 | 628 | 779 | Trinity Oak |
 | 629 | 779 | Shanae Dillahunty |
 | 630 | 777 | Ashley Lopez |
