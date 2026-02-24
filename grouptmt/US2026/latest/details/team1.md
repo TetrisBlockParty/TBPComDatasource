@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-24 20:14:22 UTC
+# Standings for team1 as of 2026-02-24 20:14:45 UTC
 
 **Total Participants:** 2312
 
@@ -105,7 +105,7 @@
 | 97 | 957 | Sweet Baker |
 | 98 | 943 | Amanda Johnson Huffman |
 | 99 | 941 | Desiree Deschaine Havee |
-| 100 | 928 | Kathy Langham |
+| 100 | 931 | Kathy Langham |
 | 101 | 920 | Tee Sheree |
 | 102 | 916 | Hyper |
 | 103 | 916 | Chirpy Smasher |
@@ -490,42 +490,42 @@
 | 482 | 285 | Amie Fields |
 | 483 | 285 | Sunshine |
 | 484 | 284 | Mary Cerciello |
-| 485 | 283 | Matthew Foley |
-| 486 | 283 | Franswa |
-| 487 | 282 | Rachel Nichole Henry |
-| 488 | 282 | Pauline Cortez |
+| 485 | 283 | Franswa |
+| 486 | 283 | Matthew Foley |
+| 487 | 282 | Toni Sagenbrecht |
+| 488 | 282 | Timothy Dew |
 | 489 | 282 | MamaB24 |
-| 490 | 282 | Timothy Dew |
-| 491 | 282 | Toni Sagenbrecht |
-| 492 | 281 | Chilly Riserpiece |
-| 493 | 281 | Shiny Snapline |
+| 490 | 282 | Pauline Cortez |
+| 491 | 282 | Rachel Nichole Henry |
+| 492 | 281 | Shiny Snapline |
+| 493 | 281 | Chilly Riserpiece |
 | 494 | 281 | Jessie |
-| 495 | 280 | Christy LaSure |
-| 496 | 280 | Llewej Rekab |
-| 497 | 280 | Mary Sheets |
-| 498 | 280 | Kayla Marie Stevenson |
-| 499 | 280 | Ruthie Mahoney Saunders-Browne |
+| 495 | 280 | Ruthie Mahoney Saunders-Browne |
+| 496 | 280 | Christy LaSure |
+| 497 | 280 | Llewej Rekab |
+| 498 | 280 | Mary Sheets |
+| 499 | 280 | Kayla Marie Stevenson |
 | 500 | 279 | Chris Dawson |
 | 501 | 278 | Thorne Shumate |
 | 502 | 278 | Sassy Towerer |
-| 503 | 277 | Lucile Lynn |
-| 504 | 277 | Melanie Kelley |
-| 505 | 276 | Ma stoken |
+| 503 | 277 | Melanie Kelley |
+| 504 | 277 | Lucile Lynn |
+| 505 | 276 | Epic Jumper |
 | 506 | 276 | Scott Betson |
-| 507 | 275 | Jake Mcnabb |
-| 508 | 274 | Mel Fab |
+| 507 | 276 | Ma stoken |
+| 508 | 275 | Jake Mcnabb |
 | 509 | 274 | Manley Smith |
-| 510 | 273 | Peppy Columnbuilder |
-| 511 | 272 | Rachel Copas |
-| 512 | 272 | Epic Jumper |
+| 510 | 274 | Mel Fab |
+| 511 | 273 | Peppy Columnbuilder |
+| 512 | 272 | Rachel Copas |
 | 513 | 271 | Kristen Meehan Wangerien |
 | 514 | 271 | Charlie Walker |
 | 515 | 270 | John Barron |
 | 516 | 270 | Breanna Luna |
 | 517 | 269 | Ramona Shaver |
 | 518 | 269 | Theeranart Mahawan |
-| 519 | 268 | Ashley Adams |
-| 520 | 268 | Brian K Young II |
+| 519 | 268 | Brian K Young II |
+| 520 | 268 | Ashley Adams |
 | 521 | 267 | Larry Oaks |
 | 522 | 267 | Buggs |
 | 523 | 266 | Angela Jones |
@@ -569,24 +569,24 @@
 | 561 | 250 | Emmarieta Mendez |
 | 562 | 249 | Gerald Richard Franke |
 | 563 | 248 | Liliana Pena |
-| 564 | 248 | Carl Claunch |
-| 565 | 248 | Blake Cobb |
-| 566 | 248 | Shiny Rotate |
-| 567 | 247 | Nate Carter |
-| 568 | 247 | Josh Smith |
-| 569 | 247 | Colleen Wise |
+| 564 | 248 | Shiny Rotate |
+| 565 | 248 | Carl Claunch |
+| 566 | 248 | Blake Cobb |
+| 567 | 247 | Colleen Wise |
+| 568 | 247 | Nate Carter |
+| 569 | 247 | Josh Smith |
 | 570 | 246 | Frothy Blockbuilder |
-| 571 | 246 | ken |
-| 572 | 246 | Nicole Nikki |
+| 571 | 246 | Nicole Nikki |
+| 572 | 246 | ken |
 | 573 | 244 | Jennifer Corrado |
 | 574 | 244 | Mrsbigdawg |
-| 575 | 243 | Olivia Witmer |
+| 575 | 244 | Dandy Towerbuilder |
 | 576 | 243 | Jordan Brooks |
-| 577 | 242 | Andrew Boone |
-| 578 | 242 | Dawn Rannelli |
-| 579 | 242 | Stephanie Leday |
-| 580 | 242 | Equinn |
-| 581 | 242 | Dandy Towerbuilder |
+| 577 | 243 | Olivia Witmer |
+| 578 | 242 | Stephanie Leday |
+| 579 | 242 | Dawn Rannelli |
+| 580 | 242 | Andrew Boone |
+| 581 | 242 | Equinn |
 | 582 | 240 | Tipsy Tiltpiece |
 | 583 | 240 | Brendan Sullivan |
 | 584 | 239 | Dandy Glider |
@@ -855,89 +855,89 @@
 | 847 | 160 | Purple |
 | 848 | 160 | Dorny |
 | 849 | 160 | Sari Jones |
-| 850 | 159 | Mariah Cornell |
-| 851 | 159 | Jai Pahpasay |
-| 852 | 159 | Lisa Marie |
+| 850 | 159 | Trenna L Szczepaniak |
+| 851 | 159 | Mariah Cornell |
+| 852 | 159 | Josh Watters |
 | 853 | 159 | Cool Combo |
-| 854 | 159 | Josh Watters |
-| 855 | 159 | Trenna L Szczepaniak |
-| 856 | 158 | Hungsolo9 |
-| 857 | 158 | Zhang EN |
+| 854 | 159 | Lisa Marie |
+| 855 | 159 | Jai Pahpasay |
+| 856 | 158 | Zhang EN |
+| 857 | 158 | Hungsolo9 |
 | 858 | 158 | Daring Roll |
 | 859 | 157 | Brynn Elizabeth |
 | 860 | 157 | Sabrina Cortez Mendoza |
 | 861 | 157 | Sara Buuck |
-| 862 | 156 | Tammy Autry |
-| 863 | 156 | Nicole Michele Barfield |
-| 864 | 155 | Mary Pelley |
-| 865 | 155 | Steven Schultheis |
-| 866 | 155 | Cozy Cascader |
+| 862 | 156 | Nicole Michele Barfield |
+| 863 | 156 | Tammy Autry |
+| 864 | 155 | Steven Schultheis |
+| 865 | 155 | Cozy Cascader |
+| 866 | 155 | Mary Pelley |
 | 867 | 154 | Tazz |
-| 868 | 154 | ply |
-| 869 | 154 | John Kiser |
+| 868 | 154 | Lalo Enriquez |
+| 869 | 154 | ply |
 | 870 | 154 | EverPi |
-| 871 | 154 | Lalo Enriquez |
-| 872 | 153 | Perla Silva |
-| 873 | 153 | Tate Blondin |
-| 874 | 153 | SweetSunshower |
-| 875 | 152 | Christine Smith |
-| 876 | 152 | Dandy Piecebuilder |
+| 871 | 154 | John Kiser |
+| 872 | 153 | Amber Nixon |
+| 873 | 153 | SweetSunshower |
+| 874 | 153 | Tate Blondin |
+| 875 | 153 | Perla Silva |
+| 876 | 152 | 윤이나 |
 | 877 | 152 | Tiffany N Danny Martinez |
-| 878 | 152 | Jen Justus |
-| 879 | 152 | Natiera Catrece |
-| 880 | 152 | Cree |
-| 881 | 152 | 윤이나 |
-| 882 | 151 | Lively Buildout |
-| 883 | 151 | Jodee Woods |
-| 884 | 150 | Toespixe |
-| 885 | 150 | Shannon Elizabeth |
-| 886 | 150 | Brian |
-| 887 | 150 | Melissa Marckini |
-| 888 | 150 | Roxy Cohen-Skalli |
-| 889 | 150 | Lisa Miller Trump |
-| 890 | 150 | Its me |
-| 891 | 149 | Shay J Duval |
-| 892 | 149 | Alexis |
-| 893 | 149 | Amber Nixon |
-| 894 | 149 | Jenn |
-| 895 | 149 | Meechie |
+| 878 | 152 | Christine Smith |
+| 879 | 152 | Dandy Piecebuilder |
+| 880 | 152 | Jen Justus |
+| 881 | 152 | Natiera Catrece |
+| 882 | 152 | Cree |
+| 883 | 151 | Lively Buildout |
+| 884 | 151 | Jodee Woods |
+| 885 | 150 | Brian |
+| 886 | 150 | Toespixe |
+| 887 | 150 | Shannon Elizabeth |
+| 888 | 150 | Lisa Miller Trump |
+| 889 | 150 | Its me |
+| 890 | 150 | Melissa Marckini |
+| 891 | 150 | Roxy Cohen-Skalli |
+| 892 | 149 | Jenn |
+| 893 | 149 | Alexis |
+| 894 | 149 | Nekina Wright |
+| 895 | 149 | Shay J Duval |
 | 896 | 149 | Sherrick Edwards |
-| 897 | 149 | Nekina Wright |
-| 898 | 148 | Angel Albright |
-| 899 | 148 | PeppyPenguin |
-| 900 | 147 | Jeff Newinski |
-| 901 | 147 | Woohoo |
-| 902 | 147 | Tierney Birdsell |
-| 903 | 147 | Javyjavz |
-| 904 | 146 | Kathryn Chiles Anderson |
-| 905 | 146 | UffleFluff |
-| 906 | 146 | Jean Graziano |
-| 907 | 146 | Costa del Sol |
-| 908 | 146 | Laurie LeCroy |
-| 909 | 146 | Robert Young |
-| 910 | 146 | Lively Slammer |
-| 911 | 146 | Scott Tracie Kiser |
-| 912 | 146 | Peachy Cascader |
-| 913 | 145 | bgiu |
-| 914 | 145 | Sandy Jones |
-| 915 | 145 | Peachy Zoney |
-| 916 | 145 | Aimee Horton |
-| 917 | 145 | Tim Giacobone |
-| 918 | 144 | Austin Jones |
+| 897 | 149 | Meechie |
+| 898 | 148 | PeppyPenguin |
+| 899 | 148 | Angel Albright |
+| 900 | 147 | Jean Graziano |
+| 901 | 147 | Javyjavz |
+| 902 | 147 | Woohoo |
+| 903 | 147 | Tierney Birdsell |
+| 904 | 147 | Jeff Newinski |
+| 905 | 146 | Lively Slammer |
+| 906 | 146 | Scott Tracie Kiser |
+| 907 | 146 | Robert Young |
+| 908 | 146 | Costa del Sol |
+| 909 | 146 | Kathryn Chiles Anderson |
+| 910 | 146 | Peachy Cascader |
+| 911 | 146 | UffleFluff |
+| 912 | 146 | Laurie LeCroy |
+| 913 | 145 | Peachy Zoney |
+| 914 | 145 | Aimee Horton |
+| 915 | 145 | Sandy Jones |
+| 916 | 145 | Tim Giacobone |
+| 917 | 145 | bgiu |
+| 918 | 144 | Tara |
 | 919 | 144 | Frisky Fall |
-| 920 | 144 | Tara |
+| 920 | 144 | Austin Jones |
 | 921 | 143 | Crystal Raffaele |
 | 922 | 143 | Chilly Linebuilder |
 | 923 | 143 | Mike Hobby |
 | 924 | 143 | Unicorn |
 | 925 | 143 | Jacob Shaddock |
 | 926 | 143 | Gremb |
-| 927 | 142 | narutyler649 |
-| 928 | 142 | Ja Ce |
-| 929 | 142 | Charlie Ryno |
+| 927 | 142 | Dennis McNeal |
+| 928 | 142 | narutyler649 |
+| 929 | 142 | Sharon Thomas |
 | 930 | 142 | Nick |
-| 931 | 142 | Sharon Thomas |
-| 932 | 142 | Dennis McNeal |
+| 931 | 142 | Charlie Ryno |
+| 932 | 142 | Ja Ce |
 | 933 | 141 | Frisky Twistslam |
 | 934 | 140 | Chilly Glidezone |
 | 935 | 140 | Shawn Thisismyoldaccount Gilmore |

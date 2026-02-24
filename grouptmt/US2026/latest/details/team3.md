@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-02-24 20:14:22 UTC
+# Standings for team3 as of 2026-02-24 20:14:45 UTC
 
 **Total Participants:** 3507
 
@@ -59,7 +59,7 @@
 | 51 | 2263 | Leah Barnett |
 | 52 | 2258 | Tina Kay |
 | 53 | 2255 | Gracie |
-| 54 | 2206 | Shari Garber |
+| 54 | 2216 | Shari Garber |
 | 55 | 2181 | Jennifer Petrie |
 | 56 | 2152 | Delilah belle |
 | 57 | 2104 | Cheeky Rumbler |
@@ -521,26 +521,26 @@
 | 513 | 370 | sofaking |
 | 514 | 369 | Hoppy Buildout |
 | 515 | 368 | Michael Leblanc |
-| 516 | 368 | Andrew Linge |
-| 517 | 368 | Ashley Rufus Bythcez |
-| 518 | 368 | Sheila M Frazier |
-| 519 | 368 | Christine Foley |
+| 516 | 368 | Ashley Rufus Bythcez |
+| 517 | 368 | Andrew Linge |
+| 518 | 368 | Christine Foley |
+| 519 | 368 | Sheila M Frazier |
 | 520 | 368 | Clever Edgepiece |
 | 521 | 367 | Danetta McCadden |
 | 522 | 367 | Cathy Leger |
-| 523 | 367 | Mel Murr |
+| 523 | 367 | Beejangles |
 | 524 | 367 | Amy Montz |
-| 525 | 367 | Beejangles |
-| 526 | 366 | Cranky Corner |
-| 527 | 366 | Moneyvybz |
+| 525 | 367 | Mel Murr |
+| 526 | 366 | Sunny Lift |
+| 527 | 366 | Erykah |
 | 528 | 366 | Danielle Dani |
-| 529 | 366 | Erykah |
-| 530 | 366 | Sunny Lift |
+| 529 | 366 | Moneyvybz |
+| 530 | 366 | Cranky Corner |
 | 531 | 365 | Tipsy Zonebuilder |
 | 532 | 365 | Kerry Nowickshere |
 | 533 | 364 | Norma JulieMay |
-| 534 | 364 | Amanda Declue |
-| 535 | 364 | Daisy Rocha |
+| 534 | 364 | Daisy Rocha |
+| 535 | 364 | Amanda Declue |
 | 536 | 363 | Katrina Turner |
 | 537 | 363 | Nena Somerville Kelly |
 | 538 | 363 | angieelyn |
@@ -553,11 +553,11 @@
 | 545 | 359 | Kellie Montgomery |
 | 546 | 359 | Bleu Sun Beams |
 | 547 | 358 | Taylor Culver |
-| 548 | 357 | Frisky Pop |
-| 549 | 356 | Funky Brickster |
-| 550 | 356 | Stella |
-| 551 | 356 | Blokell |
-| 552 | 356 | Hasty Pop |
+| 548 | 357 | Hasty Pop |
+| 549 | 357 | Frisky Pop |
+| 550 | 356 | Funky Brickster |
+| 551 | 356 | Stella |
+| 552 | 356 | Blokell |
 | 553 | 354 | Felicia Doxey |
 | 554 | 353 | Cheeky Snapper |
 | 555 | 352 | Allie Kershner |
@@ -655,17 +655,17 @@
 | 647 | 317 | Jack Bo |
 | 648 | 317 | Sassy Tiler |
 | 649 | 317 | Quirky Snapfit |
-| 650 | 317 | Christopher Mastropietro |
-| 651 | 317 | Michael Kimbro |
-| 652 | 317 | Quirky Dropzone |
-| 653 | 316 | Susan A Kinsey |
-| 654 | 316 | Kimberly Walker |
-| 655 | 316 | Joshua David Huie |
-| 656 | 315 | Nerdy Lifter |
-| 657 | 314 | DeAnna Knopp |
-| 658 | 314 | toony |
-| 659 | 313 | Stephanie Hill |
-| 660 | 313 | Cibf Ecihm |
+| 650 | 317 | Cibf Ecihm |
+| 651 | 317 | Christopher Mastropietro |
+| 652 | 317 | Michael Kimbro |
+| 653 | 317 | Quirky Dropzone |
+| 654 | 316 | Susan A Kinsey |
+| 655 | 316 | Kimberly Walker |
+| 656 | 316 | Joshua David Huie |
+| 657 | 315 | Nerdy Lifter |
+| 658 | 314 | DeAnna Knopp |
+| 659 | 314 | toony |
+| 660 | 313 | Stephanie Hill |
 | 661 | 313 | Serena Jarrell |
 | 662 | 313 | PrincessSquare |
 | 663 | 312 | Trice Thomas |
@@ -1204,8 +1204,8 @@
 | 1196 | 183 | Cedes Y Horton |
 | 1197 | 183 | Jessica Valenzuela |
 | 1198 | 183 | MD |
-| 1199 | 182 | Tig |
-| 1200 | 182 | Lisa Sullivan |
+| 1199 | 182 | Lisa Sullivan |
+| 1200 | 182 | Tig |
 | 1201 | 182 | Andrefer |
 | 1202 | 182 | Alma M Brown |
 | 1203 | 182 | Chantal Benee Gaines |
@@ -1276,8 +1276,8 @@
 | 1268 | 170 | Frothy Glider |
 | 1269 | 170 | Snazzy Shatterclear |
 | 1270 | 170 | Tanya Lombard James |
-| 1271 | 170 | Christina |
-| 1272 | 170 | Erica Netherland |
+| 1271 | 170 | Erica Netherland |
+| 1272 | 170 | Christina |
 | 1273 | 169 | Patti Esterline Larr |
 | 1274 | 169 | Carina Ortega |
 | 1275 | 169 | Frothy Clearpiece |
@@ -1293,8 +1293,8 @@
 | 1285 | 168 | Kelli Pazour |
 | 1286 | 168 | Isaac Meighan |
 | 1287 | 168 | Amanda Jean Stafford |
-| 1288 | 168 | Mandy Poynter-Wallace |
-| 1289 | 168 | Samantha Bagent |
+| 1288 | 168 | Samantha Bagent |
+| 1289 | 168 | Mandy Poynter-Wallace |
 | 1290 | 167 | Kassy Eddy |
 | 1291 | 167 | Ja'Maine Future-Leader Jackson |
 | 1292 | 167 | Quirky Stackzone |
@@ -1318,11 +1318,11 @@
 | 1310 | 165 | Kayley Hoxworth |
 | 1311 | 165 | Sara Bell |
 | 1312 | 165 | Primus |
-| 1313 | 165 | Sarah Collins |
+| 1313 | 165 | Tipsy Fitblock |
 | 1314 | 165 | Valerie Strong |
-| 1315 | 165 | Laurel |
-| 1316 | 165 | Giggly Cascadefit |
-| 1317 | 164 | Tipsy Fitblock |
+| 1315 | 165 | Sarah Collins |
+| 1316 | 165 | Laurel |
+| 1317 | 165 | Giggly Cascadefit |
 | 1318 | 164 | Hyper Shuffler |
 | 1319 | 164 | NIQUE42 |
 | 1320 | 164 | Ernest Holloway |

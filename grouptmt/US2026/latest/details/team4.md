@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-24 20:14:22 UTC
+# Standings for team4 as of 2026-02-24 20:14:45 UTC
 
 **Total Participants:** 2080
 
@@ -26,7 +26,7 @@
 | 18 | 2621 | Clarence Patawaran |
 | 19 | 2408 | Misty Hollibaugh |
 | 20 | 2386 | Michelle Pearman |
-| 21 | 2210 | Christina LR |
+| 21 | 2247 | Christina LR |
 | 22 | 2035 | Robin Getchel |
 | 23 | 2028 | Jason Allen |
 | 24 | 2011 | GreenJeepGirl |
@@ -45,9 +45,9 @@
 | 37 | 1673 | Cassie Michaux |
 | 38 | 1633 | Cherrish Duren |
 | 39 | 1631 | Goatimus Lombardi |
-| 40 | 1616 | Dee Kay |
-| 41 | 1612 | Dawn Alexander |
-| 42 | 1610 | Koshin Abdirahman |
+| 40 | 1630 | Koshin Abdirahman |
+| 41 | 1616 | Dee Kay |
+| 42 | 1612 | Dawn Alexander |
 | 43 | 1594 | Shane Kalamata Platoon |
 | 44 | 1594 | Rebecca Moulton Pinciaro |
 | 45 | 1580 | Eric Mcgaughy |
@@ -101,8 +101,8 @@
 | 93 | 971 | Chaz Duncan |
 | 94 | 967 | Courtney Cicoria |
 | 95 | 952 | Jonathan Kimbrough |
-| 96 | 932 | Marvin Lou Martin |
-| 97 | 930 | Judy Cox |
+| 96 | 936 | Judy Cox |
+| 97 | 932 | Marvin Lou Martin |
 | 98 | 911 | Jason Hart |
 | 99 | 904 | Nope Young |
 | 100 | 900 | Diana Houts |
