@@ -73,8 +73,8 @@
 | 65 | 1119 | Amelpss |
 | 66 | 1109 | BertMofo |
 | 67 | 1089 | Alyssa Papen |
-| 68 | 1082 | Avy Absol |
-| 69 | 1082 | Dion Crommarty |
+| 68 | 1082 | Dion Crommarty |
+| 69 | 1082 | Avy Absol |
 | 70 | 1081 | Dustee Craddock-Harrison |
 | 71 | 1080 | Chilly Line |
 | 72 | 1069 | Heather Tushner |
@@ -112,8 +112,8 @@
 | 104 | 834 | Brittney Orengo |
 | 105 | 818 | Lori Walker |
 | 106 | 815 | Diana Houts |
-| 107 | 813 | Amy Suckarieh |
-| 108 | 813 | Klo |
+| 107 | 813 | Klo |
+| 108 | 813 | Amy Suckarieh |
 | 109 | 811 | Sassy Pattern |
 | 110 | 806 | Zippy Gridlock |
 | 111 | 802 | Crystal Carroll |
@@ -135,8 +135,8 @@
 | 127 | 726 | Jamie Gustafson |
 | 128 | 725 | Brandon Crabbs |
 | 129 | 719 | George Nutt |
-| 130 | 712 | Leslie Nicole |
-| 131 | 712 | H.R. Block |
+| 130 | 712 | H.R. Block |
+| 131 | 712 | Leslie Nicole |
 | 132 | 708 | Jacqueline Helm |
 | 133 | 704 | Austin Owens |
 | 134 | 704 | Chilly Crasher |
@@ -233,8 +233,8 @@
 | 225 | 473 | Cranky Rollpiece |
 | 226 | 472 | Plucky Patternblock |
 | 227 | 465 | Leslie Thomas |
-| 228 | 464 | Zakia Monae |
-| 229 | 464 | Calvin Cannon |
+| 228 | 464 | Calvin Cannon |
+| 229 | 464 | Zakia Monae |
 | 230 | 463 | shark tato |
 | 231 | 462 | Crystal Nicolette Moore |
 | 232 | 460 | Kathy Brookins |
@@ -262,9 +262,9 @@
 | 254 | 431 | Brickh4us |
 | 255 | 430 | 030Synner |
 | 256 | 428 | Gdiguy |
-| 257 | 427 | Chao Ma |
+| 257 | 427 | Cheery Risebuilder |
 | 258 | 427 | Jeff Brian Gates |
-| 259 | 427 | Cheery Risebuilder |
+| 259 | 427 | Chao Ma |
 | 260 | 424 | Andrew Dang |
 | 261 | 421 | JIGsaw ~(•¿°)~ |
 | 262 | 419 | Hyper Matchclear |
@@ -332,9 +332,9 @@
 | 324 | 346 | James Philpot Ross |
 | 325 | 346 | Metsfan |
 | 326 | 344 | Amanda Maciel Clarke |
-| 327 | 343 | HastyGrabber |
-| 328 | 343 | Blessedmama |
-| 329 | 343 | Jay You |
+| 327 | 343 | Jay You |
+| 328 | 343 | HastyGrabber |
+| 329 | 343 | Blessedmama |
 | 330 | 342 | Ruby Khalisadar |
 | 331 | 342 | Lauren Lamb |
 | 332 | 341 | Jason Bosco |
@@ -348,8 +348,8 @@
 | 340 | 336 | Tina Lopez |
 | 341 | 335 | Snippy Puzzle |
 | 342 | 334 | Zethra Prenisha Rahming |
-| 343 | 331 | rebel4lyfe |
-| 344 | 331 | Angie Schmidt |
+| 343 | 331 | Angie Schmidt |
+| 344 | 331 | rebel4lyfe |
 | 345 | 330 | Duck |
 | 346 | 329 | Meagan Nicole |
 | 347 | 329 | AyeKay |

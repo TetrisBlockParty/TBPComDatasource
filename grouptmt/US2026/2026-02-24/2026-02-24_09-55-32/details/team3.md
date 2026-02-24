@@ -68,8 +68,8 @@
 | 60 | 1931 | Denise Nardoni |
 | 61 | 1920 | Trezure Gonzalez |
 | 62 | 1858 | Kristie McFarland |
-| 63 | 1824 | Nate Burnside |
-| 64 | 1824 | Jessica Ann |
+| 63 | 1824 | Jessica Ann |
+| 64 | 1824 | Nate Burnside |
 | 65 | 1804 | Tina Kay |
 | 66 | 1791 | Leah Barnett |
 | 67 | 1776 | Whitney Manuel |
@@ -83,8 +83,8 @@
 | 75 | 1633 | cowboy25469 |
 | 76 | 1625 | Queen Kam |
 | 77 | 1615 | joclisa |
-| 78 | 1566 | Nerdy Riseclear |
-| 79 | 1566 | Marcie Bressler |
+| 78 | 1566 | Marcie Bressler |
+| 79 | 1566 | Nerdy Riseclear |
 | 80 | 1560 | Logan Naccarato |
 | 81 | 1555 | Snappy Glidepiece |
 | 82 | 1518 | Christine Filson |
@@ -111,8 +111,8 @@
 | 103 | 1309 | yoyo |
 | 104 | 1297 | Shelby Michelle |
 | 105 | 1290 | JerseyJess |
-| 106 | 1282 | Peppy Shifter |
-| 107 | 1282 | Amanda L Baker |
+| 106 | 1282 | Amanda L Baker |
+| 107 | 1282 | Peppy Shifter |
 | 108 | 1276 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1248 | Lori Barnaby |
@@ -156,8 +156,8 @@
 | 148 | 971 | Tasha Schriewer |
 | 149 | 963 | Crystal Frey |
 | 150 | 961 | Danielle Allison |
-| 151 | 950 | MissTaylor |
-| 152 | 950 | Giddy Drop |
+| 151 | 950 | Giddy Drop |
+| 152 | 950 | MissTaylor |
 | 153 | 947 | Kellie Montgomery |
 | 154 | 940 | Stephanie Allmon |
 | 155 | 940 | Patty Allen |
@@ -217,8 +217,8 @@
 | 209 | 760 | Kiki |
 | 210 | 759 | Mykal Burton |
 | 211 | 757 | Fancy Cascader |
-| 212 | 755 | Laura Booth Wosko |
-| 213 | 755 | Colton |
+| 212 | 755 | Colton |
+| 213 | 755 | Laura Booth Wosko |
 | 214 | 754 | CeceGeGe |
 | 215 | 753 | Morgan Martinez |
 | 216 | 752 | Joye Sims Binion |
@@ -231,15 +231,15 @@
 | 223 | 715 | Karon Griffin |
 | 224 | 714 | Jenny Hrndz |
 | 225 | 713 | Stephanie Blkpep Davidson |
-| 226 | 709 | Christine Niles |
-| 227 | 709 | Cynthia Castros-Hampton |
+| 226 | 709 | Cynthia Castros-Hampton |
+| 227 | 709 | Christine Niles |
 | 228 | 708 | Stephanie Bradley |
 | 229 | 704 | Betty Bóò |
 | 230 | 703 | Shawn Miller |
 | 231 | 693 | lashanda |
 | 232 | 693 | Heather Davis |
-| 233 | 691 | Tia |
-| 234 | 691 | Snappy Balancer |
+| 233 | 691 | Snappy Balancer |
+| 234 | 691 | Tia |
 | 235 | 687 | joz |
 | 236 | 685 | Brandon Givens |
 | 237 | 680 | Terry Jo Jones |
@@ -310,8 +310,8 @@
 | 302 | 547 | Aerian Preston |
 | 303 | 542 | France Vézina |
 | 304 | 541 | Mcathen |
-| 305 | 540 | rosy |
-| 306 | 540 | Tanya Kittrell |
+| 305 | 540 | Tanya Kittrell |
+| 306 | 540 | rosy |
 | 307 | 539 | Fancy Curver |
 | 308 | 539 | Kate M. Murdock |
 | 309 | 538 | Chummy Caster |
@@ -332,19 +332,19 @@
 | 324 | 499 | Megan Rathmanner |
 | 325 | 499 | Gumbo |
 | 326 | 496 | Brenda Schmid Wood |
-| 327 | 494 | MCV |
-| 328 | 494 | fraulila |
+| 327 | 494 | fraulila |
+| 328 | 494 | MCV |
 | 329 | 492 | Tasha Wesson-Torrence |
 | 330 | 490 | TotoCherue |
 | 331 | 490 | Cassandra Bryant |
 | 332 | 489 | Isabel Ocasio |
 | 333 | 487 | MsBee |
-| 334 | 486 | Skippy |
-| 335 | 486 | Sleepy |
+| 334 | 486 | Sleepy |
+| 335 | 486 | Skippy |
 | 336 | 483 | Tegan Chapman |
 | 337 | 482 | Chummy Rumbler |
-| 338 | 480 | TLM |
-| 339 | 480 | Dee Franklin |
+| 338 | 480 | Dee Franklin |
+| 339 | 480 | TLM |
 | 340 | 479 | Charles Perrone |
 | 341 | 476 | Shunta Jacobs |
 | 342 | 474 | Troy |
@@ -410,14 +410,14 @@
 | 402 | 413 | Rick Poppen |
 | 403 | 411 | Beaudie Stroebel |
 | 404 | 409 | Rich LeBlanc |
-| 405 | 408 | Ashley Muncey |
-| 406 | 408 | Tiffany Ford |
+| 405 | 408 | Tiffany Ford |
+| 406 | 408 | Ashley Muncey |
 | 407 | 407 | Christina Spa |
 | 408 | 406 | Kristen Weese |
 | 409 | 405 | Andrew Thorson |
-| 410 | 404 | Giggy Balanceblock |
-| 411 | 404 | Karent524 |
-| 412 | 404 | Alice |
+| 410 | 404 | Alice |
+| 411 | 404 | Giggy Balanceblock |
+| 412 | 404 | Karent524 |
 | 413 | 403 | Scott Lindsay |
 | 414 | 403 | keni |
 | 415 | 401 | block chick |
@@ -428,8 +428,8 @@
 | 420 | 394 | Jalissa Monique |
 | 421 | 392 | Linda Draper |
 | 422 | 392 | Michelle Allers |
-| 423 | 391 | gremicx |
-| 424 | 391 | Rebel124 |
+| 423 | 391 | Rebel124 |
+| 424 | 391 | gremicx |
 | 425 | 390 | ROODBOY |
 | 426 | 389 | Amanda J. Mcneil-Anderson |
 | 427 | 389 | Kirhonda Autmon |
@@ -442,11 +442,11 @@
 | 434 | 382 | Amanda Martinez |
 | 435 | 382 | Theresa Opell Gartner |
 | 436 | 381 | Mary Giorgenti |
-| 437 | 380 | neci |
-| 438 | 380 | Foltz Lee Kelli |
+| 437 | 380 | Foltz Lee Kelli |
+| 438 | 380 | neci |
 | 439 | 379 | Krish Shah |
-| 440 | 378 | Ashley Lynn Marchese |
-| 441 | 378 | Samantha Worley |
+| 440 | 378 | Samantha Worley |
+| 441 | 378 | Ashley Lynn Marchese |
 | 442 | 377 | Paula Little |
 | 443 | 376 | Romeo |
 | 444 | 376 | Breanna Marsden |
@@ -601,9 +601,9 @@
 | 593 | 308 | Bryan Byrd |
 | 594 | 308 | Danetta McCadden |
 | 595 | 307 | Kristina Gardner |
-| 596 | 306 | Valerie Tarkington |
-| 597 | 306 | Alexis Ford |
-| 598 | 306 | BigE |
+| 596 | 306 | Alexis Ford |
+| 597 | 306 | BigE |
+| 598 | 306 | Valerie Tarkington |
 | 599 | 305 | Frisky Stacker |
 | 600 | 304 | _melisa223_ |
 | 601 | 304 | Tammy Rosenberry |
@@ -1371,8 +1371,8 @@
 | 1363 | 139 | Taji Miller |
 | 1364 | 139 | Patti Esterline Larr |
 | 1365 | 138 | Sabrina SoldierGirl Flynn |
-| 1366 | 138 | Christina Dawn Bowen |
-| 1367 | 138 | Tig |
+| 1366 | 138 | Tig |
+| 1367 | 138 | Christina Dawn Bowen |
 | 1368 | 138 | Rosey Posey |
 | 1369 | 138 | JC99 |
 | 1370 | 138 | Marie Abram |
@@ -1649,7 +1649,7 @@
 | 1641 | 106 | Abigail Boyle |
 | 1642 | 105 | LaShawyn Wood |
 | 1643 | 105 | Heather Moore |
-| 1644 | 105 | Jenny Melnechenko |
+| 1644 | 105 | Edward Hackett |
 | 1645 | 105 | Monique Adame Rosas |
 | 1646 | 105 | Jenny Melnechenko |
 | 1647 | 104 | Sarah Katelyn Dembeck |

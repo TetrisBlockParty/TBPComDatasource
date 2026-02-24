@@ -167,8 +167,8 @@
 | 159 | 568 | Jason Savage |
 | 160 | 564 | Νεφ Όνυξ |
 | 161 | 562 | Timothy Danaher |
-| 162 | 556 | Chase Collinsworth |
-| 163 | 556 | Brandi Huntington |
+| 162 | 556 | Brandi Huntington |
+| 163 | 556 | Chase Collinsworth |
 | 164 | 555 | Sarah Lombardo |
 | 165 | 553 | Flashy Rotator |
 | 166 | 551 | Loony Fitzone |
@@ -211,8 +211,8 @@
 | 203 | 488 | Jessie Welch |
 | 204 | 482 | Adele Rahman |
 | 205 | 479 | canbrick |
-| 206 | 478 | Hasty Cascader |
-| 207 | 478 | Jumpy Dropper |
+| 206 | 478 | Jumpy Dropper |
+| 207 | 478 | Hasty Cascader |
 | 208 | 477 | Dizzy Slider |
 | 209 | 475 | Reesey Enyart |
 | 210 | 473 | Tamara Brown |
@@ -332,7 +332,7 @@
 | 324 | 344 | Standia Civil |
 | 325 | 344 | dhardy |
 | 326 | 343 | Sweetts |
-| 327 | 342 | Marianita Garcia |
+| 327 | 342 | Matt Iaccheo |
 | 328 | 342 | Michael |
 | 329 | 342 | Marianita Garcia |
 | 330 | 340 | Robert |
@@ -388,9 +388,9 @@
 | 380 | 309 | Isaiah |
 | 381 | 308 | Agustin Duarte Orozco |
 | 382 | 308 | Katie Martin |
-| 383 | 305 | Damian Salem |
-| 384 | 305 | Speedy Snapfall |
-| 385 | 305 | Tavia |
+| 383 | 305 | Tavia |
+| 384 | 305 | Damian Salem |
+| 385 | 305 | Speedy Snapfall |
 | 386 | 302 | Jenny Gingrich Fuentes |
 | 387 | 301 | Glitzy Grid |
 | 388 | 301 | Chad Atchley |
@@ -479,7 +479,7 @@
 | 471 | 265 | Brenda L. Bunce |
 | 472 | 265 | Cranky Pattern |
 | 473 | 264 | Kayla |
-| 474 | 263 | BigWeenie69 |
+| 474 | 263 | Scott Betson |
 | 475 | 263 | Charlie Walker |
 | 476 | 263 | BigWeenie69 |
 | 477 | 263 | Cool Balancer |
@@ -504,11 +504,11 @@
 | 496 | 255 | Zesty Brickzone |
 | 497 | 254 | Kipoi |
 | 498 | 252 | Angela Dawn Torres-Tarrants |
-| 499 | 251 | Randy Broadwater |
-| 500 | 251 | MRdot Rooski |
+| 499 | 251 | MRdot Rooski |
+| 500 | 251 | Randy Broadwater |
 | 501 | 250 | Emmarieta Mendez |
-| 502 | 249 | GentleKitten7 |
-| 503 | 249 | Toni Sagenbrecht |
+| 502 | 249 | Toni Sagenbrecht |
+| 503 | 249 | GentleKitten7 |
 | 504 | 249 | Sassy Towerer |
 | 505 | 248 | Carl Claunch |
 | 506 | 248 | Teresa |
@@ -561,8 +561,8 @@
 | 553 | 228 | I Am |
 | 554 | 228 | Megan Kradzinski Ferguson |
 | 555 | 227 | MomOf2Angels |
-| 556 | 227 | Gilbert Ortiz Jr. |
-| 557 | 227 | Purple |
+| 556 | 227 | Purple |
+| 557 | 227 | Gilbert Ortiz Jr. |
 | 558 | 226 | Starseed |
 | 559 | 225 | Neely Janelle Stewart |
 | 560 | 225 | Owicked1 |
@@ -684,7 +684,7 @@
 | 676 | 187 | Playtray |
 | 677 | 187 | Katie Bell |
 | 678 | 187 | Shawn Robert |
-| 679 | 187 | Paul Gates |
+| 679 | 187 | Jessica Weed |
 | 680 | 186 | Donna Taliger Brigante |
 | 681 | 185 | Kkl |
 | 682 | 185 | Tim Russell |
