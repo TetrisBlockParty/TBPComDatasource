@@ -135,11 +135,11 @@
 | 127 | 726 | Jamie Gustafson |
 | 128 | 725 | Brandon Crabbs |
 | 129 | 719 | George Nutt |
-| 130 | 712 | H.R. Block |
-| 131 | 712 | Leslie Nicole |
+| 130 | 712 | Leslie Nicole |
+| 131 | 712 | H.R. Block |
 | 132 | 708 | Jacqueline Helm |
-| 133 | 704 | Austin Owens |
-| 134 | 704 | Chilly Crasher |
+| 133 | 704 | Chilly Crasher |
+| 134 | 704 | Austin Owens |
 | 135 | 682 | Raegan Lane-Ross |
 | 136 | 668 | Desi Desporte |
 | 137 | 667 | Lindsey Gonzalez |
@@ -155,8 +155,8 @@
 | 147 | 639 | Serena Goodridge |
 | 148 | 638 | Porkobello |
 | 149 | 634 | Carrie Brian |
-| 150 | 633 | Adam Stephanie Parker |
-| 151 | 633 | Jessica Lynn Cutlip |
+| 150 | 633 | Jessica Lynn Cutlip |
+| 151 | 633 | Adam Stephanie Parker |
 | 152 | 629 | Chris Baggett |
 | 153 | 628 | Kim Hunt |
 | 154 | 623 | ku5hkween |
@@ -169,8 +169,8 @@
 | 161 | 595 | TRCuse |
 | 162 | 591 | Cursed Hag |
 | 163 | 587 | YoMomma |
-| 164 | 586 | Carlos Ramirez |
-| 165 | 586 | Latisha Davis |
+| 164 | 586 | Latisha Davis |
+| 165 | 586 | Carlos Ramirez |
 | 166 | 585 | Tracey Lehmann |
 | 167 | 584 | Carlton Unfiltered |
 | 168 | 576 | Jade Rian |
@@ -217,8 +217,8 @@
 | 209 | 502 | Ericca Eldridge |
 | 210 | 501 | Sharyn Lemire |
 | 211 | 499 | Kesha Brady |
-| 212 | 496 | Jessica Bohlken |
-| 213 | 496 | Lori |
+| 212 | 496 | Lori |
+| 213 | 496 | Jessica Bohlken |
 | 214 | 495 | Joeliecea Cobb |
 | 215 | 494 | Bio Nelly |
 | 216 | 493 | Amanda Pauldo-Ivy |
@@ -227,13 +227,13 @@
 | 219 | 482 | Laura |
 | 220 | 481 | Joanna |
 | 221 | 475 | Silly Zonebuilder |
-| 222 | 473 | Jolly Dashfit |
-| 223 | 473 | Cranky Rollpiece |
+| 222 | 473 | Cranky Rollpiece |
+| 223 | 473 | Jolly Dashfit |
 | 224 | 472 | Plucky Patternblock |
 | 225 | 468 | June Hoffman |
 | 226 | 465 | Leslie Thomas |
-| 227 | 464 | Calvin Cannon |
-| 228 | 464 | Zakia Monae |
+| 227 | 464 | Zakia Monae |
+| 228 | 464 | Calvin Cannon |
 | 229 | 463 | shark tato |
 | 230 | 462 | Crystal Nicolette Moore |
 | 231 | 460 | Kathy Brookins |
@@ -718,7 +718,7 @@
 | 710 | 167 | Lorinda Wixom |
 | 711 | 167 | Melissa Priest Sellers |
 | 712 | 166 | Goofy Fitblock |
-| 713 | 166 | Lynn Marie |
+| 713 | 166 | Shon Woodland |
 | 714 | 166 | Jim Gray |
 | 715 | 166 | Lynn Marie |
 | 716 | 165 | Hanh Pham |

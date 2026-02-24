@@ -224,9 +224,9 @@
 | 216 | 453 | Angela Spann |
 | 217 | 449 | Tawnya Peltonen |
 | 218 | 448 | Yvonne Marie |
-| 219 | 446 | SkipTheSadSauce |
-| 220 | 446 | Monica Donato |
-| 221 | 446 | Spencer Lent |
+| 219 | 446 | Monica Donato |
+| 220 | 446 | Spencer Lent |
+| 221 | 446 | SkipTheSadSauce |
 | 222 | 439 | David Miller |
 | 223 | 436 | Sylvia Vasquez |
 | 224 | 432 | Brian Spotts |
@@ -239,10 +239,10 @@
 | 231 | 426 | Betsy |
 | 232 | 426 | Brenda Alexander |
 | 233 | 425 | Tyler Werts |
-| 234 | 424 | Serina Marie |
-| 235 | 424 | Chelsea Dahlquist |
-| 236 | 424 | Emily Adelaide Wheatley |
-| 237 | 424 | Lindsay Glover |
+| 234 | 424 | Chelsea Dahlquist |
+| 235 | 424 | Lindsay Glover |
+| 236 | 424 | Serina Marie |
+| 237 | 424 | Emily Adelaide Wheatley |
 | 238 | 423 | Howdi Duty |
 | 239 | 422 | Jamise Brown |
 | 240 | 421 | Plucky Stacky |
@@ -622,8 +622,8 @@
 | 614 | 203 | MelSavage |
 | 615 | 203 | Ashley Rodriguez |
 | 616 | 202 | grizzly |
-| 617 | 201 | Hector Cruz |
-| 618 | 201 | Emily Wray |
+| 617 | 201 | Emily Wray |
+| 618 | 201 | Hector Cruz |
 | 619 | 200 | Tina Sinclair |
 | 620 | 200 | Gina Fontana Meier |
 | 621 | 199 | Tina Englert |
@@ -859,8 +859,8 @@
 | 851 | 142 | Sharon Thomas |
 | 852 | 141 | Jenn |
 | 853 | 141 | Tim Giacobone |
-| 854 | 140 | Chilly Glidezone |
-| 855 | 140 | Dawn Cox |
+| 854 | 140 | Isodor |
+| 855 | 140 | Chilly Glidezone |
 | 856 | 140 | Shawn Thisismyoldaccount Gilmore |
 | 857 | 140 | Dawn Cox |
 | 858 | 139 | Connie Balentine |

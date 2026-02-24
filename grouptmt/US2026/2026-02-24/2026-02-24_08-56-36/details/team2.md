@@ -220,8 +220,8 @@
 | 212 | 1813 | Catina Hutchison |
 | 213 | 1807 | Osun Anuket Esu |
 | 214 | 1784 | Matthew Joseph Acevedo |
-| 215 | 1775 | Eboni Banks |
-| 216 | 1775 | Sommer Shope |
+| 215 | 1775 | Sommer Shope |
+| 216 | 1775 | Eboni Banks |
 | 217 | 1770 | Nerdy Pattern |
 | 218 | 1761 | Rosa Franklin |
 | 219 | 1751 | Melissa Penelope Ann Dodge |
@@ -281,8 +281,8 @@
 | 273 | 1480 | Dimitra Zazara |
 | 274 | 1479 | Pacynthia Williams |
 | 275 | 1478 | Misty Walker |
-| 276 | 1477 | Hillary Crawford |
-| 277 | 1477 | Prado |
+| 276 | 1477 | Prado |
+| 277 | 1477 | Hillary Crawford |
 | 278 | 1469 | Carrie Trigg |
 | 279 | 1463 | Yvonne Wharton |
 | 280 | 1459 | Shiny Rollzone |
@@ -399,8 +399,8 @@
 | 391 | 1170 | Shelley Thornburgh Wright |
 | 392 | 1167 | Min |
 | 393 | 1164 | DefaultUser |
-| 394 | 1163 | Sarah DeHart |
-| 395 | 1163 | Caitlin Schmid |
+| 394 | 1163 | Caitlin Schmid |
+| 395 | 1163 | Sarah DeHart |
 | 396 | 1160 | Maricia Layolla Cason |
 | 397 | 1158 | Brittany Clark |
 | 398 | 1150 | Sheniya Spurgeon |

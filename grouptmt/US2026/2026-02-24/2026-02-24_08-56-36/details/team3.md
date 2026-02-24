@@ -83,8 +83,8 @@
 | 75 | 1633 | cowboy25469 |
 | 76 | 1625 | Queen Kam |
 | 77 | 1615 | joclisa |
-| 78 | 1566 | Nerdy Riseclear |
-| 79 | 1566 | Marcie Bressler |
+| 78 | 1566 | Marcie Bressler |
+| 79 | 1566 | Nerdy Riseclear |
 | 80 | 1560 | Logan Naccarato |
 | 81 | 1555 | Snappy Glidepiece |
 | 82 | 1518 | Christine Filson |
@@ -106,13 +106,13 @@
 | 98 | 1361 | Patricia Gadsden |
 | 99 | 1343 | Joey Banks |
 | 100 | 1320 | Kristie |
-| 101 | 1318 | Diana Ibarra |
-| 102 | 1318 | Tiff Vs Tiffany |
+| 101 | 1318 | Tiff Vs Tiffany |
+| 102 | 1318 | Diana Ibarra |
 | 103 | 1309 | yoyo |
 | 104 | 1297 | Shelby Michelle |
 | 105 | 1290 | JerseyJess |
-| 106 | 1282 | Amanda L Baker |
-| 107 | 1282 | Peppy Shifter |
+| 106 | 1282 | Peppy Shifter |
+| 107 | 1282 | Amanda L Baker |
 | 108 | 1276 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1248 | Lori Barnaby |
@@ -156,8 +156,8 @@
 | 148 | 971 | Tasha Schriewer |
 | 149 | 963 | Crystal Frey |
 | 150 | 961 | Danielle Allison |
-| 151 | 950 | Giddy Drop |
-| 152 | 950 | MissTaylor |
+| 151 | 950 | MissTaylor |
+| 152 | 950 | Giddy Drop |
 | 153 | 947 | Kellie Montgomery |
 | 154 | 940 | Patty Allen |
 | 155 | 940 | Stephanie Allmon |
@@ -176,8 +176,8 @@
 | 168 | 875 | Chasity |
 | 169 | 874 | Jessica Pineda-Lopez |
 | 170 | 871 | Rochelle Hazelett |
-| 171 | 868 | Nicole Flippo |
-| 172 | 868 | Cranky Gridder |
+| 171 | 868 | Cranky Gridder |
+| 172 | 868 | Nicole Flippo |
 | 173 | 866 | Domo Washington |
 | 174 | 864 | Sunny Rotater |
 | 175 | 862 | Santeria Trece Candles |
@@ -190,8 +190,8 @@
 | 182 | 832 | Alexmac |
 | 183 | 829 | Patricia White |
 | 184 | 825 | Lizabeth Fox |
-| 185 | 821 | Angella Lyons |
-| 186 | 821 | Kammy Hill |
+| 185 | 821 | Kammy Hill |
+| 186 | 821 | Angella Lyons |
 | 187 | 817 | Niki Dalrymple |
 | 188 | 815 | Justin Ritter |
 | 189 | 813 | JessDrown |
@@ -207,8 +207,8 @@
 | 199 | 784 | Jone |
 | 200 | 783 | Julian Murphy |
 | 201 | 777 | Daryn Elliott |
-| 202 | 774 | Twisty Brick LT |
-| 203 | 774 | ren |
+| 202 | 774 | ren |
+| 203 | 774 | Twisty Brick LT |
 | 204 | 772 | Hasty Cascadefit |
 | 205 | 768 | Cyd061769 |
 | 206 | 766 | Tasha Gillespie |
@@ -337,13 +337,13 @@
 | 329 | 490 | Cassandra Bryant |
 | 330 | 489 | Isabel Ocasio |
 | 331 | 487 | MsBee |
-| 332 | 486 | Sleepy |
-| 333 | 486 | Skippy |
+| 332 | 486 | Skippy |
+| 333 | 486 | Sleepy |
 | 334 | 483 | Tegan Chapman |
 | 335 | 482 | Chummy Rumbler |
 | 336 | 481 | Tiffanie Alley |
-| 337 | 480 | Dee Franklin |
-| 338 | 480 | TLM |
+| 337 | 480 | TLM |
+| 338 | 480 | Dee Franklin |
 | 339 | 479 | Charles Perrone |
 | 340 | 476 | Shunta Jacobs |
 | 341 | 474 | Troy |
@@ -357,8 +357,8 @@
 | 349 | 461 | Hyper Bridger |
 | 350 | 461 | Briana Wellman |
 | 351 | 460 | Antonia Russell |
-| 352 | 459 | TotoCherue |
-| 353 | 459 | Randy Clevenger |
+| 352 | 459 | Randy Clevenger |
+| 353 | 459 | TotoCherue |
 | 354 | 457 | Snippy Wipeout |
 | 355 | 456 | Kelly |
 | 356 | 456 | Cynthia Herrmann Egland |
@@ -394,8 +394,8 @@
 | 386 | 426 | Christina Rotz Shows |
 | 387 | 425 | Ava Petito |
 | 388 | 423 | Dapper Liney |
-| 389 | 419 | Philip Rock |
-| 390 | 419 | Desiree Gold |
+| 389 | 419 | Desiree Gold |
+| 390 | 419 | Philip Rock |
 | 391 | 419 | Maggie |
 | 392 | 418 | Rainbow77375 |
 | 393 | 416 | Tay |
@@ -472,12 +472,12 @@
 | 464 | 360 | Alexi Pryor |
 | 465 | 359 | Kathleen Taylor |
 | 466 | 359 | Steven Fulater |
-| 467 | 359 | Kathleen Taylor |
-| 468 | 358 | Beejangles |
-| 469 | 358 | Hyper Twisterfit |
-| 470 | 358 | Taylor Culver |
-| 471 | 356 | Trice Sodames |
-| 472 | 356 | Christy Quick |
+| 467 | 359 | Ann Hammac |
+| 468 | 358 | Hyper Twisterfit |
+| 469 | 358 | Taylor Culver |
+| 470 | 358 | Beejangles |
+| 471 | 356 | Christy Quick |
+| 472 | 356 | Trice Sodames |
 | 473 | 354 | Norma JulieMay |
 | 474 | 354 | Jana Polk |
 | 475 | 353 | Cheeky Snapper |
