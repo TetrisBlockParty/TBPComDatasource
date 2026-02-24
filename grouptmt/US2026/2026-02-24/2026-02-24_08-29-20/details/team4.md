@@ -73,8 +73,8 @@
 | 65 | 1101 | Denia Deni |
 | 66 | 1094 | Shelly Chandler |
 | 67 | 1089 | Alyssa Papen |
-| 68 | 1082 | Dion Crommarty |
-| 69 | 1082 | Avy Absol |
+| 68 | 1082 | Avy Absol |
+| 69 | 1082 | Dion Crommarty |
 | 70 | 1081 | Dustee Craddock-Harrison |
 | 71 | 1080 | Chilly Line |
 | 72 | 1069 | Heather Tushner |
@@ -169,8 +169,8 @@
 | 161 | 595 | TRCuse |
 | 162 | 591 | Cursed Hag |
 | 163 | 587 | YoMomma |
-| 164 | 586 | Carlos Ramirez |
-| 165 | 586 | Latisha Davis |
+| 164 | 586 | Latisha Davis |
+| 165 | 586 | Carlos Ramirez |
 | 166 | 585 | Tracey Lehmann |
 | 167 | 584 | Carlton Unfiltered |
 | 168 | 576 | Jade Rian |
@@ -259,9 +259,9 @@
 | 251 | 432 | scott |
 | 252 | 431 | Brickh4us |
 | 253 | 428 | Gdiguy |
-| 254 | 427 | Cheery Risebuilder |
-| 255 | 427 | Chao Ma |
-| 256 | 427 | Jeff Brian Gates |
+| 254 | 427 | Jeff Brian Gates |
+| 255 | 427 | Cheery Risebuilder |
+| 256 | 427 | Chao Ma |
 | 257 | 424 | Andrew Dang |
 | 258 | 421 | JIGsaw ~(•¿°)~ |
 | 259 | 419 | Hyper Matchclear |
@@ -269,12 +269,12 @@
 | 261 | 411 | Autumn Kumzi |
 | 262 | 411 | TinyLegoRose |
 | 263 | 410 | Lindsay Ball |
-| 264 | 409 | Antony Dwayne Beasley |
-| 265 | 409 | Joseph Guthrie |
-| 266 | 408 | Dihcheese444 |
-| 267 | 408 | Lauren Scott |
-| 268 | 407 | Hyper Builder |
-| 269 | 407 | Rafael Valentin |
+| 264 | 409 | Joseph Guthrie |
+| 265 | 409 | Antony Dwayne Beasley |
+| 266 | 408 | Lauren Scott |
+| 267 | 408 | Dihcheese444 |
+| 268 | 407 | Rafael Valentin |
+| 269 | 407 | Hyper Builder |
 | 270 | 402 | Nita Wells |
 | 271 | 399 | Twisty Cascadezone |
 | 272 | 399 | 030Synner |
@@ -346,10 +346,10 @@
 | 338 | 330 | Sandra Safford |
 | 339 | 329 | Meagan Nicole |
 | 340 | 329 | AyeKay |
-| 341 | 328 | Heather Bruce |
-| 342 | 328 | Leah Kutz Zirbel |
-| 343 | 327 | Jim Hart |
-| 344 | 327 | Jessica Petersen |
+| 341 | 328 | Leah Kutz Zirbel |
+| 342 | 328 | Heather Bruce |
+| 343 | 327 | Jessica Petersen |
+| 344 | 327 | Jim Hart |
 | 345 | 325 | Cool Gridzone |
 | 346 | 324 | Sarah Hoffman |
 | 347 | 322 | Bryan Hodgins |
@@ -374,8 +374,8 @@
 | 366 | 314 | KoolMom9907 |
 | 367 | 313 | DonMega |
 | 368 | 312 | Tawna Curry |
-| 369 | 311 | Reds Bella |
-| 370 | 311 | Ak Jones |
+| 369 | 311 | Ak Jones |
+| 370 | 311 | Reds Bella |
 | 371 | 311 | KayM |
 | 372 | 309 | tipsy tiger |
 | 373 | 308 | Angela Geist Jusinski |
@@ -645,7 +645,7 @@
 | 637 | 186 | Veronica Garza |
 | 638 | 186 | b |
 | 639 | 185 | Jonathan Mahfood |
-| 640 | 185 | Joshua Guess |
+| 640 | 185 | Jesus Garcia |
 | 641 | 185 | Deanna Mc |
 | 642 | 185 | Joshua Guess |
 | 643 | 185 | Marcela Johnson |

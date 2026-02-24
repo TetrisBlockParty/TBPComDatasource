@@ -220,8 +220,8 @@
 | 212 | 1813 | Catina Hutchison |
 | 213 | 1807 | Osun Anuket Esu |
 | 214 | 1784 | Matthew Joseph Acevedo |
-| 215 | 1775 | Eboni Banks |
-| 216 | 1775 | Sommer Shope |
+| 215 | 1775 | Sommer Shope |
+| 216 | 1775 | Eboni Banks |
 | 217 | 1763 | Nerdy Pattern |
 | 218 | 1761 | Rosa Franklin |
 | 219 | 1751 | Dustin Rains |
@@ -300,8 +300,8 @@
 | 292 | 1407 | Lola C Davis |
 | 293 | 1392 | Mikayala Szaz |
 | 294 | 1392 | Karen Snyder Schrage |
-| 295 | 1391 | Ronnie Nelson |
-| 296 | 1391 | Kimberly Hauck-Rausch |
+| 295 | 1391 | Kimberly Hauck-Rausch |
+| 296 | 1391 | Ronnie Nelson |
 | 297 | 1387 | Samantha Scibelli |
 | 298 | 1386 | Kimmy Newman |
 | 299 | 1383 | Ladyrainbootz |
@@ -358,8 +358,8 @@
 | 350 | 1264 | Mama T |
 | 351 | 1261 | Becca Coronado |
 | 352 | 1257 | Jackie Lucas |
-| 353 | 1257 | Megan Garrick |
-| 354 | 1257 | Megan Ferguson Leone |
+| 353 | 1257 | Megan Ferguson Leone |
+| 354 | 1257 | Megan Garrick |
 | 355 | 1256 | Belle |
 | 356 | 1254 | Erika Densmore |
 | 357 | 1252 | AgileDragon |
@@ -447,8 +447,8 @@
 | 439 | 1071 | Kim Dean |
 | 440 | 1071 | Nashu |
 | 441 | 1068 | Tiffany Branham |
-| 442 | 1067 | Lourisha |
-| 443 | 1067 | Taylor Phillips |
+| 442 | 1067 | Taylor Phillips |
+| 443 | 1067 | Lourisha |
 | 444 | 1063 | Allan Wayne Lamia |
 | 445 | 1059 | Chris Gonzales Bulante |
 | 446 | 1058 | Jessica Wayne Cornwall |
@@ -537,8 +537,8 @@
 | 529 | 925 | Cris cris |
 | 530 | 923 | Chevy |
 | 531 | 922 | Butta |
-| 532 | 921 | Elisheva Mizrachi |
-| 533 | 921 | Dannette Goldberg-Richards |
+| 532 | 921 | Dannette Goldberg-Richards |
+| 533 | 921 | Elisheva Mizrachi |
 | 534 | 920 | Arwa Fatimah |
 | 535 | 919 | Isaac Trappiel IV |
 | 536 | 918 | Draizen Montrell Thomas |
@@ -554,8 +554,8 @@
 | 546 | 903 | Dylan Thomason |
 | 547 | 903 | Stephanie Lumanlan |
 | 548 | 902 | Stephanie Sul |
-| 549 | 899 | Caitlyn Blackwell |
-| 550 | 899 | Patrick Bartlett |
+| 549 | 899 | Patrick Bartlett |
+| 550 | 899 | Caitlyn Blackwell |
 | 551 | 898 | Koa N Sharon Chen |
 | 552 | 895 | Donna Colby |
 | 553 | 893 | Shantel Kelley |
@@ -660,8 +660,8 @@
 | 652 | 783 | Regina Young |
 | 653 | 781 | g |
 | 654 | 781 | TJ Nash |
-| 655 | 780 | Amy Reynolds |
-| 656 | 780 | Breezy Filler |
+| 655 | 780 | Breezy Filler |
+| 656 | 780 | Amy Reynolds |
 | 657 | 779 | Shanae Dillahunty |
 | 658 | 779 | Trinity Oak |
 | 659 | 777 | Tesha Oldaker |
@@ -677,20 +677,20 @@
 | 669 | 770 | Michael Buckner |
 | 670 | 768 | Mia Muse Best |
 | 671 | 766 | Frisky Riserbuilder |
-| 672 | 766 | Bonita Kee |
+| 672 | 766 | Angela Cagle Silmon |
 | 673 | 766 | Diamond Scott |
-| 674 | 766 | Angela Cagle Silmon |
+| 674 | 766 | Bonita Kee |
 | 675 | 764 | Shannon Jackson |
-| 676 | 763 | Chelle |
+| 676 | 763 | Heather Causey |
 | 677 | 763 | Cecilia A Jenkins |
-| 678 | 763 | Heather Causey |
+| 678 | 763 | Chelle |
 | 679 | 762 | Slinky Racker |
 | 680 | 760 | Shorty |
-| 681 | 759 | Anthony McAlister |
-| 682 | 759 | Jessica Lamb |
-| 683 | 759 | Briana Alexander |
-| 684 | 758 | Stephanie Neuburger |
-| 685 | 758 | John Jubes |
+| 681 | 759 | Jessica Lamb |
+| 682 | 759 | Briana Alexander |
+| 683 | 759 | Anthony McAlister |
+| 684 | 758 | John Jubes |
+| 685 | 758 | Stephanie Neuburger |
 | 686 | 757 | Frisky Clearpiece |
 | 687 | 755 | Marcia Jones |
 | 688 | 755 | Antonio Mckoy Sr. |
@@ -710,8 +710,8 @@
 | 702 | 741 | Ashley Munn |
 | 703 | 740 | Lylymom |
 | 704 | 740 | Jerry Tempelmeyer |
-| 705 | 740 | Joice Hansen |
-| 706 | 740 | Lee Harper |
+| 705 | 740 | Lee Harper |
+| 706 | 740 | Joice Hansen |
 | 707 | 739 | Johanna Massaro |
 | 708 | 738 | Jessica S Flecha |
 | 709 | 737 | Ginger |
@@ -871,8 +871,8 @@
 | 863 | 651 | Lazy Builderfit |
 | 864 | 651 | Unica Rector |
 | 865 | 650 | Pfc Monei Rivera |
-| 866 | 650 | Peppy Snapfall |
-| 867 | 650 | Brittany Chapman |
+| 866 | 650 | Brittany Chapman |
+| 867 | 650 | Peppy Snapfall |
 | 868 | 649 | Christy Green |
 | 869 | 647 | Joseph Jones |
 | 870 | 647 | Wuntayk |
@@ -1143,8 +1143,8 @@
 | 1135 | 523 | Leslie Porter |
 | 1136 | 523 | Suzy Moody |
 | 1137 | 522 | Rosa Marie Matias |
-| 1138 | 521 | Karra Lindsey |
-| 1139 | 521 | Cozy Drop |
+| 1138 | 521 | Cozy Drop |
+| 1139 | 521 | Karra Lindsey |
 | 1140 | 520 | Matt Hughes |
 | 1141 | 520 | kcakes |
 | 1142 | 519 | Rob Brown |

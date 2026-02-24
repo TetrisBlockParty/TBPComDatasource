@@ -68,8 +68,8 @@
 | 60 | 1931 | Denise Nardoni |
 | 61 | 1920 | Trezure Gonzalez |
 | 62 | 1858 | Kristie McFarland |
-| 63 | 1824 | Jessica Ann |
-| 64 | 1824 | Nate Burnside |
+| 63 | 1824 | Nate Burnside |
+| 64 | 1824 | Jessica Ann |
 | 65 | 1804 | Tina Kay |
 | 66 | 1791 | Leah Barnett |
 | 67 | 1776 | Whitney Manuel |
@@ -125,8 +125,8 @@
 | 117 | 1134 | Melissa Orth Hunter |
 | 118 | 1124 | Stephanie Rice |
 | 119 | 1121 | Corie A. Brinson |
-| 120 | 1114 | Groovy Catcher |
-| 121 | 1114 | Loopy Fallmatch |
+| 120 | 1114 | Loopy Fallmatch |
+| 121 | 1114 | Groovy Catcher |
 | 122 | 1105 | Adrian Marcel Pate |
 | 123 | 1093 | Angela M. Fletcher |
 | 124 | 1091 | Jennifer |
@@ -717,7 +717,7 @@
 | 709 | 264 | Tammi-Jo DeMars |
 | 710 | 264 | Jm |
 | 711 | 264 | Kimberly Walker |
-| 712 | 264 | Tammi-Jo DeMars |
+| 712 | 264 | Aeh |
 | 713 | 263 | JustGiGi |
 | 714 | 261 | Ashley Kennedy |
 | 715 | 261 | Jillian Ann |
@@ -1312,8 +1312,8 @@
 | 1304 | 145 | Frisky Fitblock |
 | 1305 | 145 | Chill Risegrid |
 | 1306 | 145 | Ruben Gonzalez |
-| 1307 | 145 | Jes Lynn |
-| 1308 | 145 | Dandy Dropmatch |
+| 1307 | 145 | Dandy Dropmatch |
+| 1308 | 145 | Jes Lynn |
 | 1309 | 144 | Giddy Matchline |
 | 1310 | 144 | Ja'Maine Future-Leader Jackson |
 | 1311 | 144 | Tamara Hagen |
@@ -1645,9 +1645,9 @@
 | 1637 | 104 | Kristin Gonzales |
 | 1638 | 104 | Sarah Katelyn Dembeck |
 | 1639 | 104 | Fancy Racker |
-| 1640 | 104 | James Boosie Gordon |
-| 1641 | 104 | Kara New |
-| 1642 | 104 | Poppy Brickline |
+| 1640 | 104 | Poppy Brickline |
+| 1641 | 104 | James Boosie Gordon |
+| 1642 | 104 | Kara New |
 | 1643 | 103 | Mrs.H |
 | 1644 | 103 | Vrenda Spring Herb |
 | 1645 | 103 | Zachary Campbell |
