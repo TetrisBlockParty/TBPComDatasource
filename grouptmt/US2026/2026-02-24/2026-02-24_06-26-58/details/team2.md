@@ -232,8 +232,8 @@
 | 224 | 1693 | Ashley Dow |
 | 225 | 1679 | Mischelle Clay |
 | 226 | 1663 | Alex Stone LaRue |
-| 227 | 1661 | Danielle Johnson-Chandler |
-| 228 | 1661 | Scott Treadway |
+| 227 | 1661 | Scott Treadway |
+| 228 | 1661 | Danielle Johnson-Chandler |
 | 229 | 1656 | Binyah-Binyah |
 | 230 | 1655 | Glitzy Stackzone |
 | 231 | 1651 | Luna |
@@ -248,8 +248,8 @@
 | 240 | 1610 | Ray Ray Prado |
 | 241 | 1609 | Ryan Stadel |
 | 242 | 1601 | Peppy Zone |
-| 243 | 1600 | Jojo Momma |
-| 244 | 1600 | Mo Shine On |
+| 243 | 1600 | Mo Shine On |
+| 244 | 1600 | Jojo Momma |
 | 245 | 1596 | Christine Egidio Morocco |
 | 246 | 1595 | Joyce Johnson Vaughn |
 | 247 | 1592 | Dolores Russworn |
@@ -407,8 +407,8 @@
 | 399 | 1116 | Belle |
 | 400 | 1116 | Wakanda Forever |
 | 401 | 1110 | Nadia Batista Garcia |
-| 402 | 1109 | Melissa McCall |
-| 403 | 1109 | BYM4L |
+| 402 | 1109 | BYM4L |
+| 403 | 1109 | Melissa McCall |
 | 404 | 1108 | Kimmy Newman |
 | 405 | 1105 | Nerdy Clearfit |
 | 406 | 1104 | Kimberly Hope Howell |
@@ -433,8 +433,8 @@
 | 425 | 1075 | SaraMarie Eveland |
 | 426 | 1074 | Diana Ayers |
 | 427 | 1073 | Jodi Blake |
-| 428 | 1071 | Kim Dean |
-| 429 | 1071 | Nashu |
+| 428 | 1071 | Nashu |
+| 429 | 1071 | Kim Dean |
 | 430 | 1068 | Tiffany Branham |
 | 431 | 1067 | Lourisha |
 | 432 | 1067 | Taylor Phillips |
@@ -491,8 +491,8 @@
 | 483 | 973 | Taryece Gause |
 | 484 | 970 | Iris Angelica Perez Cantos |
 | 485 | 969 | Andrew Willis |
-| 486 | 969 | Desire Rice |
-| 487 | 969 | Connie Jimenez |
+| 486 | 969 | Connie Jimenez |
+| 487 | 969 | Desire Rice |
 | 488 | 969 | Shuany Arias |
 | 489 | 966 | Kayla |
 | 490 | 965 | Lonne Emade |
@@ -1448,7 +1448,7 @@
 | 1440 | 416 | Poy Huang |
 | 1441 | 416 | Janet Marie Vega |
 | 1442 | 415 | Jacqueline Muellerleile |
-| 1443 | 414 | Tony Farley |
+| 1443 | 414 | Armani Walker |
 | 1444 | 414 | Squirrel |
 | 1445 | 414 | Tony Farley |
 | 1446 | 414 | LintFunk |

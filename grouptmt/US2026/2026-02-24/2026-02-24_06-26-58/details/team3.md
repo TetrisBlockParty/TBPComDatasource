@@ -104,8 +104,8 @@
 | 96 | 1361 | Patricia Gadsden |
 | 97 | 1343 | Joey Banks |
 | 98 | 1320 | Kristie |
-| 99 | 1318 | Diana Ibarra |
-| 100 | 1318 | Tiff Vs Tiffany |
+| 99 | 1318 | Tiff Vs Tiffany |
+| 100 | 1318 | Diana Ibarra |
 | 101 | 1309 | yoyo |
 | 102 | 1297 | Shelby Michelle |
 | 103 | 1290 | JerseyJess |
@@ -171,8 +171,8 @@
 | 163 | 875 | Chasity |
 | 164 | 874 | Jessica Pineda-Lopez |
 | 165 | 871 | Rochelle Hazelett |
-| 166 | 868 | Nicole Flippo |
-| 167 | 868 | Cranky Gridder |
+| 166 | 868 | Cranky Gridder |
+| 167 | 868 | Nicole Flippo |
 | 168 | 866 | Domo Washington |
 | 169 | 864 | Sunny Rotater |
 | 170 | 862 | Santeria Trece Candles |
@@ -188,8 +188,8 @@
 | 180 | 817 | Niki Dalrymple |
 | 181 | 815 | Justin Ritter |
 | 182 | 813 | JessDrown |
-| 183 | 804 | Alaina Lee |
-| 184 | 804 | Gideon Walker |
+| 183 | 804 | Gideon Walker |
+| 184 | 804 | Alaina Lee |
 | 185 | 800 | Lauren Girouard |
 | 186 | 799 | Trisha Balmer |
 | 187 | 794 | Alexmac |
@@ -198,8 +198,8 @@
 | 190 | 784 | Jone |
 | 191 | 783 | Julian Murphy |
 | 192 | 777 | Daryn Elliott |
-| 193 | 774 | ren |
-| 194 | 774 | Twisty Brick LT |
+| 193 | 774 | Twisty Brick LT |
+| 194 | 774 | ren |
 | 195 | 772 | Tye Stovall |
 | 196 | 769 | Hasty Cascadefit |
 | 197 | 768 | Cyd061769 |
@@ -220,8 +220,8 @@
 | 212 | 733 | Annie Déè |
 | 213 | 732 | Angela Scott |
 | 214 | 731 | Samantha Greco |
-| 215 | 729 | Lizabeth Fox |
-| 216 | 729 | CeceGeGe |
+| 215 | 729 | CeceGeGe |
+| 216 | 729 | Lizabeth Fox |
 | 217 | 715 | Karon Griffin |
 | 218 | 714 | Jenny Hrndz |
 | 219 | 713 | Stephanie Blkpep Davidson |
@@ -375,14 +375,14 @@
 | 367 | 436 | AC Yeater |
 | 368 | 436 | Julie Fratrik |
 | 369 | 435 | Sabrina Hardrick |
-| 370 | 432 | Jojo M |
-| 371 | 432 | Hoppy Patternline |
-| 372 | 432 | Sabrina Mansfield |
+| 370 | 432 | Sabrina Mansfield |
+| 371 | 432 | Jojo M |
+| 372 | 432 | Hoppy Patternline |
 | 373 | 431 | Donna Esbensen-Alpini |
 | 374 | 430 | Quackers |
 | 375 | 428 | Samantha Lynn |
-| 376 | 427 | Darlene McMillan |
-| 377 | 427 | AlsoJess |
+| 376 | 427 | AlsoJess |
+| 377 | 427 | Darlene McMillan |
 | 378 | 426 | Christina Rotz Shows |
 | 379 | 424 | Ava Petito |
 | 380 | 423 | Dapper Liney |
@@ -1227,7 +1227,7 @@
 | 1219 | 153 | Tipsy Dashgrid |
 | 1220 | 152 | Louise Parker |
 | 1221 | 152 | Amanda Mooney |
-| 1222 | 152 | Louise Parker |
+| 1222 | 152 | Crystel b520 |
 | 1223 | 152 | Hyper Wipeout |
 | 1224 | 151 | Nanyamka LeosRule Patterson |
 | 1225 | 151 | Brad Dimitroff |

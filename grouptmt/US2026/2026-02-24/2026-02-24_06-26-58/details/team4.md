@@ -70,8 +70,8 @@
 | 62 | 1106 | BertMofo |
 | 63 | 1094 | Shelly Chandler |
 | 64 | 1089 | Alyssa Papen |
-| 65 | 1082 | Avy Absol |
-| 66 | 1082 | Dion Crommarty |
+| 65 | 1082 | Dion Crommarty |
+| 66 | 1082 | Avy Absol |
 | 67 | 1081 | Dustee Craddock-Harrison |
 | 68 | 1069 | Heather Tushner |
 | 69 | 1056 | Keith Kelley |
@@ -163,8 +163,8 @@
 | 155 | 595 | TRCuse |
 | 156 | 591 | Cursed Hag |
 | 157 | 590 | Angela Srubar-Norman |
-| 158 | 587 | YoMomma |
-| 159 | 587 | Livvy |
+| 158 | 587 | Livvy |
+| 159 | 587 | YoMomma |
 | 160 | 586 | Latisha Davis |
 | 161 | 586 | Carlos Ramirez |
 | 162 | 584 | Carlton Unfiltered |
@@ -297,8 +297,8 @@
 | 289 | 376 | Nig |
 | 290 | 375 | George Tzouganos |
 | 291 | 373 | Russ Attitude |
-| 292 | 370 | Twisty Risebuilder |
-| 293 | 370 | Kris Bartlett |
+| 292 | 370 | Kris Bartlett |
+| 293 | 370 | Twisty Risebuilder |
 | 294 | 367 | Meg |
 | 295 | 365 | David Lay |
 | 296 | 364 | Lora |
