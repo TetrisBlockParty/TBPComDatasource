@@ -44,8 +44,8 @@
 | 36 | 1405 | Chipper Gridlock |
 | 37 | 1396 | Derek MF Blakey |
 | 38 | 1391 | Aaron Garnett |
-| 39 | 1334 | june october |
-| 40 | 1334 | Tyler Alcock |
+| 39 | 1334 | Tyler Alcock |
+| 40 | 1334 | june october |
 | 41 | 1277 | Marianne Louise West |
 | 42 | 1250 | Stef Hu |
 | 43 | 1239 | Brenda Stewart |
@@ -124,8 +124,8 @@
 | 116 | 612 | femmefatale |
 | 117 | 606 | Ty Brown |
 | 118 | 604 | Ryan Lunnin |
-| 119 | 601 | Phu ckalldems |
-| 120 | 601 | Evan Richmond |
+| 119 | 601 | Evan Richmond |
+| 120 | 601 | Phu ckalldems |
 | 121 | 598 | Jessi Sauer |
 | 122 | 594 | Basment Living |
 | 123 | 591 | Giddy Cascade |
@@ -142,8 +142,8 @@
 | 134 | 556 | Susan Ward |
 | 135 | 555 | Sarah Lombardo |
 | 136 | 553 | Flashy Rotator |
-| 137 | 552 | Hellsin |
-| 138 | 552 | Tanya Carpenter-Reynolds |
+| 137 | 552 | Tanya Carpenter-Reynolds |
+| 138 | 552 | Hellsin |
 | 139 | 550 | Timothy Danaher |
 | 140 | 548 | Luciano Moreira |
 | 141 | 546 | Loony Fitzone |
@@ -485,8 +485,8 @@
 | 477 | 221 | Amy Hess |
 | 478 | 221 | Spunky Builderpiece |
 | 479 | 220 | Bouncy Line |
-| 480 | 219 | Negan Mallory Knoxx Spence |
-| 481 | 219 | Breanna Luna |
+| 480 | 219 | Breanna Luna |
+| 481 | 219 | Negan Mallory Knoxx Spence |
 | 482 | 219 | Jeanna Dunn |
 | 483 | 218 | Vivienne Carter |
 | 484 | 218 | Jason Benitez |
