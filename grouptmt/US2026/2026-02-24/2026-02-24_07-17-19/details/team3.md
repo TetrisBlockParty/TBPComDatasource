@@ -124,8 +124,8 @@
 | 116 | 1134 | Melissa Orth Hunter |
 | 117 | 1124 | Stephanie Rice |
 | 118 | 1121 | Corie A. Brinson |
-| 119 | 1114 | Groovy Catcher |
-| 120 | 1114 | Loopy Fallmatch |
+| 119 | 1114 | Loopy Fallmatch |
+| 120 | 1114 | Groovy Catcher |
 | 121 | 1105 | Adrian Marcel Pate |
 | 122 | 1093 | Angela M. Fletcher |
 | 123 | 1091 | Jennifer |
@@ -157,8 +157,8 @@
 | 149 | 961 | Danielle Allison |
 | 150 | 950 | Giddy Drop |
 | 151 | 950 | MissTaylor |
-| 152 | 940 | Stephanie Allmon |
-| 153 | 940 | Patty Allen |
+| 152 | 940 | Patty Allen |
+| 153 | 940 | Stephanie Allmon |
 | 154 | 936 | Dolores Falco |
 | 155 | 925 | Cherry Parker |
 | 156 | 914 | Sarajane Lokan |
@@ -180,8 +180,8 @@
 | 172 | 857 | Dana Fox |
 | 173 | 856 | Dana Winters |
 | 174 | 854 | Speedy Bridger |
-| 175 | 847 | Daring Brickzone |
-| 176 | 847 | Daira Largen |
+| 175 | 847 | Daira Largen |
+| 176 | 847 | Daring Brickzone |
 | 177 | 846 | Nicole Myers |
 | 178 | 845 | Edwin Calvillo Jr. |
 | 179 | 821 | Angella Lyons |
@@ -190,8 +190,8 @@
 | 182 | 817 | Niki Dalrymple |
 | 183 | 815 | Justin Ritter |
 | 184 | 813 | JessDrown |
-| 185 | 804 | Alaina Lee |
-| 186 | 804 | Gideon Walker |
+| 185 | 804 | Gideon Walker |
+| 186 | 804 | Alaina Lee |
 | 187 | 800 | Lauren Girouard |
 | 188 | 799 | Trisha Balmer |
 | 189 | 797 | Raya |
@@ -227,12 +227,12 @@
 | 219 | 715 | Karon Griffin |
 | 220 | 714 | Jenny Hrndz |
 | 221 | 713 | Stephanie Blkpep Davidson |
-| 222 | 709 | Cynthia Castros-Hampton |
-| 223 | 709 | Christine Niles |
+| 222 | 709 | Christine Niles |
+| 223 | 709 | Cynthia Castros-Hampton |
 | 224 | 708 | Stephanie Bradley |
 | 225 | 703 | Shawn Miller |
-| 226 | 691 | Snappy Balancer |
-| 227 | 691 | Tia |
+| 226 | 691 | Tia |
+| 227 | 691 | Snappy Balancer |
 | 228 | 687 | joz |
 | 229 | 675 | Terry Jo Jones |
 | 230 | 662 | Jim Mathews |
@@ -274,8 +274,8 @@
 | 266 | 594 | Cozy Snaplink |
 | 267 | 590 | Marci Mize Fandrich |
 | 268 | 588 | Salena Whitlock |
-| 269 | 586 | Brian Battjes |
-| 270 | 586 | Donna |
+| 269 | 586 | Donna |
+| 270 | 586 | Brian Battjes |
 | 271 | 582 | FuzzyNavel |
 | 272 | 581 | Crystal Hine |
 | 273 | 578 | James Mitchell |
@@ -355,14 +355,14 @@
 | 347 | 461 | Hyper Bridger |
 | 348 | 461 | Briana Wellman |
 | 349 | 460 | Antonia Russell |
-| 350 | 459 | Randy Clevenger |
-| 351 | 459 | TotoCherue |
+| 350 | 459 | TotoCherue |
+| 351 | 459 | Randy Clevenger |
 | 352 | 457 | Snippy Wipeout |
-| 353 | 456 | Cynthia Herrmann Egland |
-| 354 | 456 | Kelly |
+| 353 | 456 | Kelly |
+| 354 | 456 | Cynthia Herrmann Egland |
 | 355 | 455 | Kelly Wolf |
-| 356 | 450 | Luciana Braganca Vieira |
-| 357 | 450 | Stefanie LaPointe |
+| 356 | 450 | Stefanie LaPointe |
+| 357 | 450 | Luciana Braganca Vieira |
 | 358 | 449 | Lively Caster |
 | 359 | 447 | Carrie Huskey |
 | 360 | 447 | Num1hater |
@@ -1282,7 +1282,7 @@
 | 1274 | 147 | Jennifer MacCharles |
 | 1275 | 147 | Nikki Boone |
 | 1276 | 146 | Nathaniel Foster |
-| 1277 | 146 | Nikia Melancon |
+| 1277 | 146 | Oliver Neal II |
 | 1278 | 146 | Snazzy Strikerbuilder |
 | 1279 | 146 | Dreamy Zone |
 | 1280 | 146 | Corie Prosser |

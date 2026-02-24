@@ -112,8 +112,8 @@
 | 104 | 813 | Klo |
 | 105 | 811 | Sassy Pattern |
 | 106 | 806 | Lori Walker |
-| 107 | 802 | Crystal Carroll |
-| 108 | 802 | Denise Carlson |
+| 107 | 802 | Denise Carlson |
+| 108 | 802 | Crystal Carroll |
 | 109 | 801 | D3TROITB0RN74 |
 | 110 | 798 | Jewell Urban |
 | 111 | 781 | Brittney Griggs |
@@ -142,8 +142,8 @@
 | 134 | 668 | Desi Desporte |
 | 135 | 667 | Matt Gooder |
 | 136 | 667 | Lindsey Gonzalez |
-| 137 | 662 | Nerdy Twisterfit |
-| 138 | 662 | George Nutt |
+| 137 | 662 | George Nutt |
+| 138 | 662 | Nerdy Twisterfit |
 | 139 | 661 | Rodney McMath Jr. |
 | 140 | 651 | Adawna Swires |
 | 141 | 650 | Chris Hartig |
@@ -236,19 +236,19 @@
 | 228 | 460 | Calvin Cannon |
 | 229 | 458 | Luis Martinez |
 | 230 | 458 | Kristina Black |
-| 231 | 457 | J-Rizzle |
-| 232 | 457 | Kristin Manee |
+| 231 | 457 | Kristin Manee |
+| 232 | 457 | J-Rizzle |
 | 233 | 455 | Michele Plunkett |
 | 234 | 454 | Keshia Lyons |
 | 235 | 449 | Danielle Kollias |
-| 236 | 448 | Mr. Party |
-| 237 | 448 | Mike Solo |
+| 236 | 448 | Mike Solo |
+| 237 | 448 | Mr. Party |
 | 238 | 447 | Jen Mattei |
 | 239 | 444 | Selena Shaw |
 | 240 | 442 | John Brunetti |
 | 241 | 441 | Lush Linkfall |
-| 242 | 438 | Melvin Baird |
-| 243 | 438 | 23 |
+| 242 | 438 | 23 |
+| 243 | 438 | Melvin Baird |
 | 244 | 434 | Ramel Rhodes |
 | 245 | 433 | Damn Libra |
 | 246 | 433 | Circuit8 |
@@ -264,8 +264,8 @@
 | 256 | 420 | Jeff Brian Gates |
 | 257 | 419 | Hyper Matchclear |
 | 258 | 413 | Rio Rocha |
-| 259 | 411 | Autumn Kumzi |
-| 260 | 411 | TinyLegoRose |
+| 259 | 411 | TinyLegoRose |
+| 260 | 411 | Autumn Kumzi |
 | 261 | 410 | Lindsay Ball |
 | 262 | 409 | Antony Dwayne Beasley |
 | 263 | 409 | Joseph Guthrie |
@@ -279,8 +279,8 @@
 | 271 | 399 | Twisty Cascadezone |
 | 272 | 398 | Tyler Terrific |
 | 273 | 397 | blockstar |
-| 274 | 395 | BigSammy420 |
-| 275 | 395 | Denise B |
+| 274 | 395 | Denise B |
+| 275 | 395 | BigSammy420 |
 | 276 | 393 | Montiette Mcglown |
 | 277 | 392 | Neirrah B Olailjeel |
 | 278 | 391 | mike |
@@ -288,8 +288,8 @@
 | 280 | 384 | Nikki Rae Gordon |
 | 281 | 382 | Sue Joyce Staats |
 | 282 | 380 | Jen Caldwell |
-| 283 | 380 | Holly Jolly |
-| 284 | 380 | Chaz |
+| 283 | 380 | Chaz |
+| 284 | 380 | Holly Jolly |
 | 285 | 379 | Backoff Recupe |
 | 286 | 378 | Mary Ann Pabukis |
 | 287 | 378 | Jason Gibbs |
@@ -299,8 +299,8 @@
 | 291 | 375 | George Tzouganos |
 | 292 | 373 | Russ Attitude |
 | 293 | 371 | Jessi Cinotto |
-| 294 | 370 | Twisty Risebuilder |
-| 295 | 370 | Kris Bartlett |
+| 294 | 370 | Kris Bartlett |
+| 295 | 370 | Twisty Risebuilder |
 | 296 | 367 | Meg |
 | 297 | 365 | David Lay |
 | 298 | 364 | Lora |
@@ -416,12 +416,12 @@
 | 408 | 281 | Morti |
 | 409 | 280 | Chummy Towerzone |
 | 410 | 279 | Ziggy |
-| 411 | 278 | L Bear Champion |
-| 412 | 278 | Shainne Brewer |
+| 411 | 278 | Shainne Brewer |
+| 412 | 278 | L Bear Champion |
 | 413 | 277 | Maria Hammie |
 | 414 | 277 | Silly SeaWeed |
-| 415 | 276 | Cynthia Boudreau |
-| 416 | 276 | Dennis Bradley |
+| 415 | 276 | Dennis Bradley |
+| 416 | 276 | Cynthia Boudreau |
 | 417 | 275 | Jarred Falls |
 | 418 | 273 | Lane Wasson |
 | 419 | 271 | ImJustMe |
