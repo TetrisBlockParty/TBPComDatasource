@@ -335,8 +335,8 @@
 | 327 | 1171 | Loretta Brewer-Gage |
 | 328 | 1170 | Shelley Thornburgh Wright |
 | 329 | 1167 | Min |
-| 330 | 1164 | Kori Beth Babb |
-| 331 | 1164 | F-X |
+| 330 | 1164 | F-X |
+| 331 | 1164 | Kori Beth Babb |
 | 332 | 1158 | Brittany Clark |
 | 333 | 1156 | Arkei Luster |
 | 334 | 1156 | Alezandra Smith |
@@ -349,8 +349,8 @@
 | 341 | 1134 | Kelsey Kyle Rhodes |
 | 342 | 1127 | Mama T |
 | 343 | 1118 | Ibiza Carolina LaRose |
-| 344 | 1116 | Em Chen |
-| 345 | 1116 | Belle |
+| 344 | 1116 | Belle |
+| 345 | 1116 | Em Chen |
 | 346 | 1114 | Kevin Walp |
 | 347 | 1109 | Melissa McCall |
 | 348 | 1105 | Nerdy Clearfit |

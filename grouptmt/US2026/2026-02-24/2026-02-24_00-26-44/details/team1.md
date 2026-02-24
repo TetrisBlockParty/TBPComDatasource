@@ -214,8 +214,8 @@
 | 206 | 419 | Daring Fitclear |
 | 207 | 417 | Jessie Lynn |
 | 208 | 416 | Jessica Sheehan |
-| 209 | 412 | Witty Builderfit |
-| 210 | 412 | Connie |
+| 209 | 412 | Connie |
+| 210 | 412 | Witty Builderfit |
 | 211 | 408 | Lindsay Glover |
 | 212 | 407 | Ananda Mendez |
 | 213 | 404 | Tawnya Peltonen |
@@ -670,7 +670,7 @@
 | 662 | 159 | Sarah Cassese |
 | 663 | 159 | Jai Pahpasay |
 | 664 | 158 | Daring Roll |
-| 665 | 157 | Donna Taliger Brigante |
+| 665 | 157 | Heather Martin |
 | 666 | 157 | davis13 |
 | 667 | 157 | Donna Taliger Brigante |
 | 668 | 156 | Tammy Autry |

@@ -124,8 +124,8 @@
 | 116 | 682 | Raegan Lane-Ross |
 | 117 | 675 | Chris Alexinas |
 | 118 | 673 | Jacqueline Helm |
-| 119 | 667 | Lindsey Gonzalez |
-| 120 | 667 | Amy Suckarieh |
+| 119 | 667 | Amy Suckarieh |
+| 120 | 667 | Lindsey Gonzalez |
 | 121 | 664 | Leslie Nicole |
 | 122 | 659 | Jamie Gustafson |
 | 123 | 659 | Matt Gooder |
@@ -444,7 +444,7 @@
 | 436 | 235 | Jessica Petersen |
 | 437 | 235 | LaDonna LovinmesomeMe Lambert |
 | 438 | 235 | Stacy Jones |
-| 439 | 234 | Ryry |
+| 439 | 234 | Ruby Khalisadar |
 | 440 | 234 | Richard-April Kice |
 | 441 | 234 | Diosa Ebalobo Magsael |
 | 442 | 234 | Ryry |
