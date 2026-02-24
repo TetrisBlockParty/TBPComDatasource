@@ -358,8 +358,8 @@
 | 350 | 1264 | Mama T |
 | 351 | 1261 | Becca Coronado |
 | 352 | 1257 | Jackie Lucas |
-| 353 | 1257 | Megan Ferguson Leone |
-| 354 | 1257 | Megan Garrick |
+| 353 | 1257 | Megan Garrick |
+| 354 | 1257 | Megan Ferguson Leone |
 | 355 | 1256 | Belle |
 | 356 | 1254 | Erika Densmore |
 | 357 | 1252 | AgileDragon |
@@ -458,8 +458,8 @@
 | 450 | 1049 | Giggly Snap |
 | 451 | 1048 | Sheronda Jackson |
 | 452 | 1043 | Brave Dropmatch |
-| 453 | 1042 | Spunkysmom |
-| 454 | 1042 | Matthew Barry |
+| 453 | 1042 | Matthew Barry |
+| 454 | 1042 | Spunkysmom |
 | 455 | 1041 | Crystal Hoffman |
 | 456 | 1037 | Steve Man |
 | 457 | 1036 | trabuco |
@@ -1718,10 +1718,10 @@
 | 1710 | 371 | Melinda Avriett |
 | 1711 | 371 | Brandy Bo |
 | 1712 | 370 | Jaxson |
-| 1713 | 370 | Leslie Clark |
+| 1713 | 370 | Steph Moniz |
 | 1714 | 370 | Emesia Quarry |
-| 1715 | 370 | Jennifer Crystal Fernald |
-| 1716 | 370 | Steph Moniz |
+| 1715 | 370 | Leslie Clark |
+| 1716 | 370 | Jennifer Crystal Fernald |
 | 1717 | 370 | Aqueelah Walters |
 | 1718 | 369 | Paige Cloud |
 | 1719 | 369 | Cathy Bitters |

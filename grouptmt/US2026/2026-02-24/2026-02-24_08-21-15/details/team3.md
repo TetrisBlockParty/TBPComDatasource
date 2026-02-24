@@ -125,8 +125,8 @@
 | 117 | 1134 | Melissa Orth Hunter |
 | 118 | 1124 | Stephanie Rice |
 | 119 | 1121 | Corie A. Brinson |
-| 120 | 1114 | Loopy Fallmatch |
-| 121 | 1114 | Groovy Catcher |
+| 120 | 1114 | Groovy Catcher |
+| 121 | 1114 | Loopy Fallmatch |
 | 122 | 1105 | Adrian Marcel Pate |
 | 123 | 1093 | Angela M. Fletcher |
 | 124 | 1091 | Jennifer |
@@ -1246,7 +1246,7 @@
 | 1238 | 155 | Dani Robertson |
 | 1239 | 155 | Amanda Neal |
 | 1240 | 155 | Tiki |
-| 1241 | 154 | Riley Hall |
+| 1241 | 154 | Tim Amos |
 | 1242 | 154 | GirthBrooks |
 | 1243 | 154 | Loretta Hendricks |
 | 1244 | 154 | Kristen Reeves |

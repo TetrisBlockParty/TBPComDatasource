@@ -73,8 +73,8 @@
 | 65 | 1101 | Denia Deni |
 | 66 | 1094 | Shelly Chandler |
 | 67 | 1089 | Alyssa Papen |
-| 68 | 1082 | Avy Absol |
-| 69 | 1082 | Dion Crommarty |
+| 68 | 1082 | Dion Crommarty |
+| 69 | 1082 | Avy Absol |
 | 70 | 1081 | Dustee Craddock-Harrison |
 | 71 | 1080 | Chilly Line |
 | 72 | 1069 | Heather Tushner |
@@ -113,8 +113,8 @@
 | 105 | 813 | Klo |
 | 106 | 811 | Sassy Pattern |
 | 107 | 806 | Lori Walker |
-| 108 | 802 | Denise Carlson |
-| 109 | 802 | Crystal Carroll |
+| 108 | 802 | Crystal Carroll |
+| 109 | 802 | Denise Carlson |
 | 110 | 801 | D3TROITB0RN74 |
 | 111 | 798 | Jewell Urban |
 | 112 | 796 | Zippy Gridlock |
@@ -212,12 +212,12 @@
 | 204 | 509 | Mimi |
 | 205 | 507 | Andria Lynn |
 | 206 | 504 | Deanna Deckard |
-| 207 | 502 | Christina Black |
-| 208 | 502 | Ericca Eldridge |
+| 207 | 502 | Ericca Eldridge |
+| 208 | 502 | Christina Black |
 | 209 | 501 | Sharyn Lemire |
 | 210 | 499 | Kesha Brady |
-| 211 | 496 | Jessica Bohlken |
-| 212 | 496 | Lori |
+| 211 | 496 | Lori |
+| 212 | 496 | Jessica Bohlken |
 | 213 | 495 | Joeliecea Cobb |
 | 214 | 494 | Bio Nelly |
 | 215 | 493 | Amanda Pauldo-Ivy |
@@ -266,8 +266,8 @@
 | 258 | 421 | JIGsaw ~(•¿°)~ |
 | 259 | 419 | Hyper Matchclear |
 | 260 | 413 | Rio Rocha |
-| 261 | 411 | TinyLegoRose |
-| 262 | 411 | Autumn Kumzi |
+| 261 | 411 | Autumn Kumzi |
+| 262 | 411 | TinyLegoRose |
 | 263 | 410 | Lindsay Ball |
 | 264 | 409 | Antony Dwayne Beasley |
 | 265 | 409 | Joseph Guthrie |
@@ -302,8 +302,8 @@
 | 294 | 375 | George Tzouganos |
 | 295 | 373 | Russ Attitude |
 | 296 | 371 | Jessi Cinotto |
-| 297 | 370 | Kris Bartlett |
-| 298 | 370 | Twisty Risebuilder |
+| 297 | 370 | Twisty Risebuilder |
+| 298 | 370 | Kris Bartlett |
 | 299 | 368 | Dan Wold |
 | 300 | 367 | Meg |
 | 301 | 365 | David Lay |
@@ -316,8 +316,8 @@
 | 308 | 354 | Perky Piecegrid |
 | 309 | 354 | @ |
 | 310 | 352 | Kate |
-| 311 | 351 | Jackie Clark |
-| 312 | 351 | Dana Scott |
+| 311 | 351 | Dana Scott |
+| 312 | 351 | Jackie Clark |
 | 313 | 350 | Dizzy Matchzone |
 | 314 | 349 | jim |
 | 315 | 349 | Richard-April Kice |

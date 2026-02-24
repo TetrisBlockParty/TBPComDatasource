@@ -66,8 +66,8 @@
 | 58 | 1173 | Adam Byrd |
 | 59 | 1170 | Tater |
 | 60 | 1150 | Cynthia Bradley |
-| 61 | 1137 | TSwag |
-| 62 | 1137 | Jen Sartain |
+| 61 | 1137 | Jen Sartain |
+| 62 | 1137 | TSwag |
 | 63 | 1127 | Andrea Dañielle Ortiz |
 | 64 | 1122 | Kristen Gideon |
 | 65 | 1114 | Jayme Sellers |
@@ -141,8 +141,8 @@
 | 133 | 643 | Erin Rosberg |
 | 134 | 642 | Mario Cab |
 | 135 | 638 | Carrie Smith |
-| 136 | 629 | Death |
-| 137 | 629 | Tanya Carpenter-Reynolds |
+| 136 | 629 | Tanya Carpenter-Reynolds |
+| 137 | 629 | Death |
 | 138 | 628 | Trina Gee |
 | 139 | 626 | Damon J. Martin |
 | 140 | 620 | Ty Brown |
@@ -155,8 +155,8 @@
 | 147 | 598 | Jessi Sauer |
 | 148 | 593 | Giddy Cascade |
 | 149 | 587 | Deanna L Hermanson |
-| 150 | 586 | Christy Jones |
-| 151 | 586 | Tiger Lily |
+| 150 | 586 | Tiger Lily |
+| 151 | 586 | Christy Jones |
 | 152 | 582 | Hellsin |
 | 153 | 581 | Jennifer Hardman |
 | 154 | 574 | Bouncy Grid |
@@ -232,8 +232,8 @@
 | 224 | 432 | Brian Spotts |
 | 225 | 431 | Shiny Snapfit |
 | 226 | 431 | Tipsy Strikerpiece |
-| 227 | 429 | Tana |
-| 228 | 429 | pjbeta |
+| 227 | 429 | pjbeta |
+| 228 | 429 | Tana |
 | 229 | 427 | Ananda Mendez |
 | 230 | 427 | Jessie Lynn |
 | 231 | 426 | Brenda Alexander |
@@ -250,8 +250,8 @@
 | 242 | 420 | Jennifer Noe Chandler |
 | 243 | 419 | John J. Cronin |
 | 244 | 419 | Daring Fitclear |
-| 245 | 416 | Larissa Marie Nelson |
-| 246 | 416 | Jessica Sheehan |
+| 245 | 416 | Jessica Sheehan |
+| 246 | 416 | Larissa Marie Nelson |
 | 247 | 414 | Bird Person |
 | 248 | 412 | Sleepysloath5745 |
 | 249 | 410 | Paula Martin |
@@ -261,7 +261,7 @@
 | 253 | 405 | Tyler L Hunt |
 | 254 | 403 | Jen Nystrom |
 | 255 | 403 | Tami Luce Martin |
-| 256 | 403 | Jen Nystrom |
+| 256 | 403 | Alenoush Karimian |
 | 257 | 399 | Lakeisha Chapman |
 | 258 | 398 | MommaKFC |
 | 259 | 398 | Cece Ibarra |
@@ -407,9 +407,9 @@
 | 399 | 293 | Sunny Pivotfall |
 | 400 | 292 | Clever Cascadepiece |
 | 401 | 292 | Mark Smith |
-| 402 | 291 | Toph |
+| 402 | 291 | Danielle Mae |
 | 403 | 291 | Sir-Franchise Drake |
-| 404 | 291 | Danielle Mae |
+| 404 | 291 | Toph |
 | 405 | 290 | Nate Funk |
 | 406 | 290 | Brave Slice |
 | 407 | 290 | Blake Mckay |
