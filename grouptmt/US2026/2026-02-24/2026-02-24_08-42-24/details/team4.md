@@ -138,8 +138,8 @@
 | 130 | 712 | Leslie Nicole |
 | 131 | 712 | H.R. Block |
 | 132 | 708 | Jacqueline Helm |
-| 133 | 704 | Chilly Crasher |
-| 134 | 704 | Austin Owens |
+| 133 | 704 | Austin Owens |
+| 134 | 704 | Chilly Crasher |
 | 135 | 682 | Raegan Lane-Ross |
 | 136 | 668 | Desi Desporte |
 | 137 | 667 | Matt Gooder |
@@ -169,8 +169,8 @@
 | 161 | 595 | TRCuse |
 | 162 | 591 | Cursed Hag |
 | 163 | 587 | YoMomma |
-| 164 | 586 | Latisha Davis |
-| 165 | 586 | Carlos Ramirez |
+| 164 | 586 | Carlos Ramirez |
+| 165 | 586 | Latisha Davis |
 | 166 | 585 | Tracey Lehmann |
 | 167 | 584 | Carlton Unfiltered |
 | 168 | 576 | Jade Rian |
@@ -217,8 +217,8 @@
 | 209 | 502 | Christina Black |
 | 210 | 501 | Sharyn Lemire |
 | 211 | 499 | Kesha Brady |
-| 212 | 496 | Lori |
-| 213 | 496 | Jessica Bohlken |
+| 212 | 496 | Jessica Bohlken |
+| 213 | 496 | Lori |
 | 214 | 495 | Joeliecea Cobb |
 | 215 | 494 | Bio Nelly |
 | 216 | 493 | Amanda Pauldo-Ivy |
@@ -245,14 +245,14 @@
 | 237 | 454 | Keshia Lyons |
 | 238 | 450 | Genne Scott |
 | 239 | 449 | Danielle Kollias |
-| 240 | 448 | Mr. Party |
-| 241 | 448 | Mike Solo |
+| 240 | 448 | Mike Solo |
+| 241 | 448 | Mr. Party |
 | 242 | 447 | Jen Mattei |
 | 243 | 444 | Selena Shaw |
 | 244 | 442 | John Brunetti |
 | 245 | 441 | Lush Linkfall |
-| 246 | 438 | Melvin Baird |
-| 247 | 438 | 23 |
+| 246 | 438 | 23 |
+| 247 | 438 | Melvin Baird |
 | 248 | 435 | Chris Bernstein |
 | 249 | 434 | Ramel Rhodes |
 | 250 | 433 | Damn Libra |

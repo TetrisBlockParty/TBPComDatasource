@@ -173,8 +173,8 @@
 | 165 | 548 | Luciano Moreira |
 | 166 | 547 | Sharon Reynolds |
 | 167 | 545 | .running. |
-| 168 | 543 | Adrian Esteban |
-| 169 | 543 | Nicole Roseberry Weber |
+| 168 | 543 | Nicole Roseberry Weber |
+| 169 | 543 | Adrian Esteban |
 | 170 | 542 | BadG52 |
 | 171 | 540 | Tonya Beasley |
 | 172 | 537 | Stephanie Zahn |
@@ -200,12 +200,12 @@
 | 192 | 496 | Michelle Beres |
 | 193 | 496 | Sarah Somers Gray |
 | 194 | 495 | Connie |
-| 195 | 494 | Sean Stallings |
-| 196 | 494 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
+| 195 | 494 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
+| 196 | 494 | Sean Stallings |
 | 197 | 493 | Speedy Liney |
 | 198 | 492 | Happy Snapbuild |
-| 199 | 488 | Ly Phethmany |
-| 200 | 488 | Jessie Welch |
+| 199 | 488 | Jessie Welch |
+| 200 | 488 | Ly Phethmany |
 | 201 | 485 | Mike Ames |
 | 202 | 484 | Chuck Gannon |
 | 203 | 482 | Adele Rahman |
@@ -493,8 +493,8 @@
 | 485 | 255 | SavageBooty98 |
 | 486 | 254 | Kipoi |
 | 487 | 252 | Angela Dawn Torres-Tarrants |
-| 488 | 251 | MRdot Rooski |
-| 489 | 251 | Randy Broadwater |
+| 488 | 251 | Randy Broadwater |
+| 489 | 251 | MRdot Rooski |
 | 490 | 250 | Emmarieta Mendez |
 | 491 | 249 | Sassy Towerer |
 | 492 | 249 | Toni Sagenbrecht |
@@ -524,15 +524,15 @@
 | 516 | 241 | Abbey Crespo |
 | 517 | 240 | Jumpy Rotate |
 | 518 | 240 | Liliana Pena |
-| 519 | 239 | Anielle Reagan |
+| 519 | 239 | Tipsy Tiltpiece |
 | 520 | 239 | Jennifer Corrado |
-| 521 | 239 | Tipsy Tiltpiece |
+| 521 | 239 | Anielle Reagan |
 | 522 | 238 | ash |
 | 523 | 237 | Brad MG |
-| 524 | 236 | Marie White |
-| 525 | 236 | whocares |
-| 526 | 235 | Sabrina Coleman |
-| 527 | 235 | Lush Zoney |
+| 524 | 236 | whocares |
+| 525 | 236 | Marie White |
+| 526 | 235 | Lush Zoney |
+| 527 | 235 | Sabrina Coleman |
 | 528 | 235 | Nutty Glide |
 | 529 | 234 | Shannon Guilloty |
 | 530 | 234 | Dee Doris Ewald Flynn |

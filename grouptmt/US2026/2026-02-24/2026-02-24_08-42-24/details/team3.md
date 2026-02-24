@@ -68,8 +68,8 @@
 | 60 | 1931 | Denise Nardoni |
 | 61 | 1920 | Trezure Gonzalez |
 | 62 | 1858 | Kristie McFarland |
-| 63 | 1824 | Nate Burnside |
-| 64 | 1824 | Jessica Ann |
+| 63 | 1824 | Jessica Ann |
+| 64 | 1824 | Nate Burnside |
 | 65 | 1804 | Tina Kay |
 | 66 | 1791 | Leah Barnett |
 | 67 | 1776 | Whitney Manuel |
@@ -196,8 +196,8 @@
 | 188 | 815 | Justin Ritter |
 | 189 | 813 | JessDrown |
 | 190 | 808 | Raya |
-| 191 | 804 | Alaina Lee |
-| 192 | 804 | Gideon Walker |
+| 191 | 804 | Gideon Walker |
+| 192 | 804 | Alaina Lee |
 | 193 | 800 | Lauren Girouard |
 | 194 | 799 | Trisha Balmer |
 | 195 | 792 | Rachel Grant |
@@ -360,8 +360,8 @@
 | 352 | 459 | Randy Clevenger |
 | 353 | 459 | TotoCherue |
 | 354 | 457 | Snippy Wipeout |
-| 355 | 456 | Cynthia Herrmann Egland |
-| 356 | 456 | Kelly |
+| 355 | 456 | Kelly |
+| 356 | 456 | Cynthia Herrmann Egland |
 | 357 | 455 | Kelly Wolf |
 | 358 | 450 | Stefanie LaPointe |
 | 359 | 450 | Luciana Braganca Vieira |
@@ -428,8 +428,8 @@
 | 420 | 391 | Rebel124 |
 | 421 | 391 | gremicx |
 | 422 | 390 | ROODBOY |
-| 423 | 389 | Amanda J. Mcneil-Anderson |
-| 424 | 389 | Kirhonda Autmon |
+| 423 | 389 | Kirhonda Autmon |
+| 424 | 389 | Amanda J. Mcneil-Anderson |
 | 425 | 387 | Brittany K Ward |
 | 426 | 386 | Geoffrey Nash |
 | 427 | 384 | Tiffany Davie |
