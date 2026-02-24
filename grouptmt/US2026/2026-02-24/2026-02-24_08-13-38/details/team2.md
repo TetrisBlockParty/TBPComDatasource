@@ -219,8 +219,8 @@
 | 211 | 1816 | Woodys Glass |
 | 212 | 1813 | Catina Hutchison |
 | 213 | 1807 | Osun Anuket Esu |
-| 214 | 1775 | Sommer Shope |
-| 215 | 1775 | Eboni Banks |
+| 214 | 1775 | Eboni Banks |
+| 215 | 1775 | Sommer Shope |
 | 216 | 1763 | Nerdy Pattern |
 | 217 | 1761 | Rosa Franklin |
 | 218 | 1751 | Melissa Penelope Ann Dodge |
@@ -341,8 +341,8 @@
 | 333 | 1304 | Sarah Ridenour |
 | 334 | 1303 | Michele Morgan |
 | 335 | 1301 | Mandy Cekine |
-| 336 | 1300 | Shinel Richardson |
-| 337 | 1300 | Snappy Matchbuilder |
+| 336 | 1300 | Snappy Matchbuilder |
+| 337 | 1300 | Shinel Richardson |
 | 338 | 1300 | Tacara Cummings |
 | 339 | 1295 | Jess Morrison |
 | 340 | 1292 | Joshua Mandel |
@@ -377,8 +377,8 @@
 | 369 | 1222 | Kristin Gower |
 | 370 | 1218 | LaKisha Anderson |
 | 371 | 1217 | Brooks Brooks |
-| 372 | 1215 | Toni Roberson |
-| 373 | 1215 | Hyper Cluster |
+| 372 | 1215 | Hyper Cluster |
+| 373 | 1215 | Toni Roberson |
 | 374 | 1214 | David Cudicio-Hayden |
 | 375 | 1211 | Kennedy Sandifer |
 | 376 | 1211 | Cynthia Ward |
@@ -566,8 +566,8 @@
 | 558 | 885 | Giggy Mover |
 | 559 | 885 | Miranda Morris |
 | 560 | 883 | Hong Tang |
-| 561 | 882 | Sarah Massey |
-| 562 | 882 | Thomas Hedrick |
+| 561 | 882 | Thomas Hedrick |
+| 562 | 882 | Sarah Massey |
 | 563 | 881 | Layla LS |
 | 564 | 876 | Jelly |
 | 565 | 876 | Jessicah Myers |
@@ -592,8 +592,8 @@
 | 584 | 851 | Melissa Schulz |
 | 585 | 851 | James Louie |
 | 586 | 850 | Sabrina Burton |
-| 587 | 848 | Happy Wipeblock |
-| 588 | 848 | Jasmine Kenney |
+| 587 | 848 | Jasmine Kenney |
+| 588 | 848 | Happy Wipeblock |
 | 589 | 847 | Megan Kitchner |
 | 590 | 844 | Terri McKelvey McKinley |
 | 591 | 843 | Quirky Twistline |
@@ -981,8 +981,8 @@
 | 973 | 589 | Kelly Templeton |
 | 974 | 588 | Wayne Fields |
 | 975 | 587 | Alexx Anaya |
-| 976 | 586 | Cat Thompson |
-| 977 | 586 | Tracy Wise Moon |
+| 976 | 586 | Tracy Wise Moon |
+| 977 | 586 | Cat Thompson |
 | 978 | 586 | Tra Barnum |
 | 979 | 585 | Danielle DeLozier Plesec |
 | 980 | 585 | Laquetta Royston |
@@ -1141,8 +1141,8 @@
 | 1133 | 523 | Leslie Porter |
 | 1134 | 523 | Suzy Moody |
 | 1135 | 522 | Rosa Marie Matias |
-| 1136 | 521 | Cozy Drop |
-| 1137 | 521 | Karra Lindsey |
+| 1136 | 521 | Karra Lindsey |
+| 1137 | 521 | Cozy Drop |
 | 1138 | 520 | Matt Hughes |
 | 1139 | 520 | kcakes |
 | 1140 | 519 | Rob Brown |
@@ -1193,8 +1193,8 @@
 | 1185 | 499 | Mike73 |
 | 1186 | 498 | Drwatson187 |
 | 1187 | 497 | Stephanie Pitts |
-| 1188 | 497 | June E Hanson |
-| 1189 | 497 | Mary Marie |
+| 1188 | 497 | Mary Marie |
+| 1189 | 497 | June E Hanson |
 | 1190 | 497 | Bdubb |
 | 1191 | 496 | BlaqSupaMan |
 | 1192 | 496 | Ashlee Cruz |
@@ -1206,9 +1206,9 @@
 | 1198 | 493 | SugaMama |
 | 1199 | 493 | King D |
 | 1200 | 493 | Melanie Renee |
-| 1201 | 493 | Epic Stackbuilder |
-| 1202 | 493 | Hopeanna |
-| 1203 | 493 | Jamie Bass |
+| 1201 | 493 | Hopeanna |
+| 1202 | 493 | Jamie Bass |
+| 1203 | 493 | Epic Stackbuilder |
 | 1204 | 493 | Skyler Morgan |
 | 1205 | 492 | Charming Leech |
 | 1206 | 492 | Kelly Meredeith |
