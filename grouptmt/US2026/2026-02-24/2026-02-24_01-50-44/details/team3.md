@@ -252,8 +252,8 @@
 | 244 | 578 | James Mitchell |
 | 245 | 573 | Donna |
 | 246 | 572 | Tessina Dewey-Mancino |
-| 247 | 570 | LaTanya GeminiondaRise Johnson |
-| 248 | 570 | thekey |
+| 247 | 570 | thekey |
+| 248 | 570 | LaTanya GeminiondaRise Johnson |
 | 249 | 569 | Michael Johnson |
 | 250 | 569 | Silly Twist |
 | 251 | 568 | Rachael McClain Owens |
@@ -597,9 +597,9 @@
 | 589 | 273 | Jason |
 | 590 | 273 | Michael Latasha Gray |
 | 591 | 272 | Brysten Green |
-| 592 | 272 | Todd Hall |
-| 593 | 272 | Six |
-| 594 | 272 | James Lykes |
+| 592 | 272 | James Lykes |
+| 593 | 272 | Todd Hall |
+| 594 | 272 | Six |
 | 595 | 271 | Amanda Martinez |
 | 596 | 270 | Crafty Tilemaker |
 | 597 | 270 | p brewster |
