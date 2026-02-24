@@ -45,8 +45,8 @@
 | 37 | 1405 | Chipper Gridlock |
 | 38 | 1402 | Amanda Summey Schoemer |
 | 39 | 1391 | Aaron Garnett |
-| 40 | 1334 | june october |
-| 41 | 1334 | Tyler Alcock |
+| 40 | 1334 | Tyler Alcock |
+| 41 | 1334 | june october |
 | 42 | 1277 | Marianne Louise West |
 | 43 | 1250 | Stef Hu |
 | 44 | 1239 | Brenda Stewart |

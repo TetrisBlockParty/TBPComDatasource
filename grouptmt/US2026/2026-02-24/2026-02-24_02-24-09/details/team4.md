@@ -91,8 +91,8 @@
 | 83 | 864 | Guy Incognito |
 | 84 | 861 | Peachy Fall |
 | 85 | 855 | Chilly Line |
-| 86 | 850 | Lucille Truesdale |
-| 87 | 850 | Lisa Davis |
+| 86 | 850 | Lisa Davis |
+| 87 | 850 | Lucille Truesdale |
 | 88 | 846 | Christine Marie |
 | 89 | 841 | Shauna Havard |
 | 90 | 841 | Judy Cox |
@@ -223,12 +223,12 @@
 | 215 | 448 | Mike Solo |
 | 216 | 447 | J-Rizzle |
 | 217 | 446 | Mr. Party |
-| 218 | 444 | Calvin Cannon |
-| 219 | 444 | Shiny Fit |
+| 218 | 444 | Shiny Fit |
+| 219 | 444 | Calvin Cannon |
 | 220 | 443 | Kristina Black |
 | 221 | 442 | 🥔🥔 Spudz |
-| 222 | 441 | Jen Mattei |
-| 223 | 441 | Lush Linkfall |
+| 222 | 441 | Lush Linkfall |
+| 223 | 441 | Jen Mattei |
 | 224 | 438 | Melvin Baird |
 | 225 | 436 | Selena Shaw |
 | 226 | 434 | Ramel Rhodes |
@@ -361,8 +361,8 @@
 | 353 | 290 | Jared Gutwein |
 | 354 | 290 | Dan Wold |
 | 355 | 289 | Lazy Glidepiece |
-| 356 | 288 | Bradley Reeves |
-| 357 | 288 | Amy Jean |
+| 356 | 288 | Amy Jean |
+| 357 | 288 | Bradley Reeves |
 | 358 | 287 | Amy Sanford |
 | 359 | 284 | Shiny Pivoty |
 | 360 | 284 | Chair |
@@ -404,8 +404,8 @@
 | 396 | 265 | Degenerate |
 | 397 | 265 | Christine Therrien |
 | 398 | 265 | Lorena Guerrero-Barron |
-| 399 | 264 | Shh |
-| 400 | 264 | AyeKay |
+| 399 | 264 | AyeKay |
+| 400 | 264 | Shh |
 | 401 | 263 | Laurmarcar |
 | 402 | 262 | Ruben Wheeler |
 | 403 | 262 | Lilya Troutman |

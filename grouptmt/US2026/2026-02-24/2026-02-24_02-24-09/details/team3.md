@@ -304,8 +304,8 @@
 | 296 | 499 | Gumbo |
 | 297 | 498 | Chummy Caster |
 | 298 | 497 | Rebecca Bailey |
-| 299 | 494 | MCV |
-| 300 | 494 | Megan Rathmanner |
+| 299 | 494 | Megan Rathmanner |
+| 300 | 494 | MCV |
 | 301 | 489 | Isabel Ocasio |
 | 302 | 488 | Brenda Schmid Wood |
 | 303 | 486 | Skippy |
@@ -321,8 +321,8 @@
 | 313 | 467 | Danielle Rhoades |
 | 314 | 466 | Sleepy |
 | 315 | 464 | Danielle Weikel |
-| 316 | 462 | Noettín Kan Zasnemoore |
-| 317 | 462 | Tegan Chapman |
+| 316 | 462 | Tegan Chapman |
+| 317 | 462 | Noettín Kan Zasnemoore |
 | 318 | 461 | Tom Nault |
 | 319 | 456 | Cynthia Herrmann Egland |
 | 320 | 452 | Tyler Shoff |
@@ -427,7 +427,7 @@
 | 419 | 359 | Ann Hammac |
 | 420 | 358 | Taylor Culver |
 | 421 | 356 | Trice Sodames |
-| 422 | 355 | Block Baddie |
+| 422 | 355 | TLM |
 | 423 | 355 | Kevin Russell |
 | 424 | 355 | Block Baddie |
 | 425 | 353 | angieelyn |
