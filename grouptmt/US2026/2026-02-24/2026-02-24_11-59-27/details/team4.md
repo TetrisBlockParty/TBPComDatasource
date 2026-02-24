@@ -152,8 +152,8 @@
 | 144 | 661 | shar |
 | 145 | 661 | Rodney McMath Jr. |
 | 146 | 651 | Adawna Swires |
-| 147 | 650 | Chris Hartig |
-| 148 | 650 | April Rondinone |
+| 147 | 650 | April Rondinone |
+| 148 | 650 | Chris Hartig |
 | 149 | 647 | KM8 |
 | 150 | 646 | Kim Hunt |
 | 151 | 639 | Serena Goodridge |
@@ -165,9 +165,9 @@
 | 157 | 622 | Ernest Maxwell |
 | 158 | 621 | Angelito |
 | 159 | 617 | Erin Thomas |
-| 160 | 616 | Chastity Mitchell |
-| 161 | 616 | Cursed Hag |
-| 162 | 616 | Carlos Ramirez |
+| 160 | 616 | Carlos Ramirez |
+| 161 | 616 | Chastity Mitchell |
+| 162 | 616 | Cursed Hag |
 | 163 | 613 | Shiny Fit |
 | 164 | 602 | Cristy Duerksen |
 | 165 | 595 | TRCuse |
@@ -185,9 +185,9 @@
 | 177 | 565 | Ren Mc |
 | 178 | 561 | Steph Marie |
 | 179 | 558 | Marie-Pier Desjardins |
-| 180 | 552 | Joseph Guthrie |
-| 181 | 552 | Angel Raya |
-| 182 | 552 | Circuit8 |
+| 180 | 552 | Angel Raya |
+| 181 | 552 | Circuit8 |
+| 182 | 552 | Joseph Guthrie |
 | 183 | 550 | James Hurley Jr. |
 | 184 | 549 | Cool Towerbuilder |
 | 185 | 547 | Mimi |
@@ -205,8 +205,8 @@
 | 197 | 528 | Ellen Durfee |
 | 198 | 525 | 🥔🥔 Spudz |
 | 199 | 525 | Crystal Lynn |
-| 200 | 520 | Oscar Alberto Perez |
-| 201 | 520 | Zippy Block |
+| 200 | 520 | Zippy Block |
+| 201 | 520 | Oscar Alberto Perez |
 | 202 | 518 | Twisty Clicky |
 | 203 | 516 | Trish |
 | 204 | 516 | Nick Gray |
@@ -274,8 +274,8 @@
 | 266 | 425 | mike |
 | 267 | 425 | Lee Silpe |
 | 268 | 424 | Andrew Dang |
-| 269 | 421 | TinyLegoRose |
-| 270 | 421 | JIGsaw ~(•¿°)~ |
+| 269 | 421 | JIGsaw ~(•¿°)~ |
+| 270 | 421 | TinyLegoRose |
 | 271 | 419 | Hyper Matchclear |
 | 272 | 418 | Brittany Little |
 | 273 | 413 | Rio Rocha |
@@ -299,8 +299,8 @@
 | 291 | 390 | Ari Droff |
 | 292 | 387 | Sandra Safford |
 | 293 | 386 | Vic |
-| 294 | 382 | Sue Joyce Staats |
-| 295 | 382 | Matt Dell'Olio |
+| 294 | 382 | Matt Dell'Olio |
+| 295 | 382 | Sue Joyce Staats |
 | 296 | 381 | Cool Gridzone |
 | 297 | 380 | Holly Jolly |
 | 298 | 380 | Jen Caldwell |
@@ -342,8 +342,8 @@
 | 334 | 343 | HastyGrabber |
 | 335 | 343 | Blessedmama |
 | 336 | 342 | Chance Strickland |
-| 337 | 342 | Lauren Lamb |
-| 338 | 342 | Ruby Khalisadar |
+| 337 | 342 | Ruby Khalisadar |
+| 338 | 342 | Lauren Lamb |
 | 339 | 341 | Kevin Bush |
 | 340 | 340 | Juls |
 | 341 | 338 | Groovy Gridlock |

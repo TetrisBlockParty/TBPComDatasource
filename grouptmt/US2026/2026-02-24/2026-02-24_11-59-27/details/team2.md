@@ -211,8 +211,8 @@
 | 203 | 1861 | Juliana Marques Do Nascimento Gordy |
 | 204 | 1855 | Missie Lawson Gebhardt |
 | 205 | 1853 | Kristopher Miller |
-| 206 | 1845 | Katrina Weston |
-| 207 | 1845 | Jessie McDougald |
+| 206 | 1845 | Jessie McDougald |
+| 207 | 1845 | Katrina Weston |
 | 208 | 1840 | blarg |
 | 209 | 1838 | Joyce Johnson Vaughn |
 | 210 | 1826 | Dee |
@@ -246,10 +246,10 @@
 | 238 | 1670 | L3sli3 |
 | 239 | 1668 | Cambrie Schultz |
 | 240 | 1663 | Alex Stone LaRue |
-| 241 | 1661 | Danielle Johnson-Chandler |
-| 242 | 1661 | Scott Treadway |
-| 243 | 1656 | Binyah-Binyah |
-| 244 | 1656 | Lemonaide |
+| 241 | 1661 | Scott Treadway |
+| 242 | 1661 | Danielle Johnson-Chandler |
+| 243 | 1656 | Lemonaide |
+| 244 | 1656 | Binyah-Binyah |
 | 245 | 1655 | Glitzy Stackzone |
 | 246 | 1652 | Tim Dyer |
 | 247 | 1651 | Luna |
@@ -374,8 +374,8 @@
 | 366 | 1252 | AgileDragon |
 | 367 | 1252 | Brainy Smurf |
 | 368 | 1249 | Tristan Szolek |
-| 369 | 1245 | Angel Hunnewell |
-| 370 | 1245 | DefaultUser |
+| 369 | 1245 | DefaultUser |
+| 370 | 1245 | Angel Hunnewell |
 | 371 | 1237 | Christine Coughlin |
 | 372 | 1237 | Cheech Dta |
 | 373 | 1233 | Shannon Joslin |
@@ -401,8 +401,8 @@
 | 393 | 1178 | Dany Murillo |
 | 394 | 1176 | Misti Markijohn |
 | 395 | 1173 | Giggy Blocker |
-| 396 | 1172 | Lakeysha Dortch |
-| 397 | 1172 | Min |
+| 396 | 1172 | Min |
+| 397 | 1172 | Lakeysha Dortch |
 | 398 | 1171 | Loretta Brewer-Gage |
 | 399 | 1170 | Shelley Thornburgh Wright |
 | 400 | 1163 | Caitlin Schmid |
@@ -482,8 +482,8 @@
 | 474 | 1026 | Kiana Boschh |
 | 475 | 1025 | Ann Matzkanin |
 | 476 | 1024 | Tiara Elizabeth Baker |
-| 477 | 1024 | KrisCynthia Lynette |
-| 478 | 1024 | Susan Perraut Jones |
+| 477 | 1024 | Susan Perraut Jones |
+| 478 | 1024 | KrisCynthia Lynette |
 | 479 | 1022 | Jackie Burnett |
 | 480 | 1020 | Dylan Thomason |
 | 481 | 1019 | Glitzy Rollblock |
@@ -1310,8 +1310,8 @@
 | 1302 | 472 | Beautiful |
 | 1303 | 472 | Kena T. Tanner |
 | 1304 | 472 | Sarah Dean |
-| 1305 | 471 | Joshua Vargeson |
-| 1306 | 471 | Brea Nycole |
+| 1305 | 471 | Brea Nycole |
+| 1306 | 471 | Joshua Vargeson |
 | 1307 | 471 | Keyloni Duvall |
 | 1308 | 471 | Emoniee Sa'niaya |
 | 1309 | 470 | Zappy Jumper |

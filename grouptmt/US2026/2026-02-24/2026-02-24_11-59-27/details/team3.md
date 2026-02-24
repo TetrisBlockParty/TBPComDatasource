@@ -179,8 +179,8 @@
 | 171 | 875 | Chasity |
 | 172 | 874 | Jessica Pineda-Lopez |
 | 173 | 871 | Rochelle Hazelett |
-| 174 | 868 | Nicole Flippo |
-| 175 | 868 | Cranky Gridder |
+| 174 | 868 | Cranky Gridder |
+| 175 | 868 | Nicole Flippo |
 | 176 | 866 | Domo Washington |
 | 177 | 864 | Sunny Rotater |
 | 178 | 862 | Santeria Trece Candles |
@@ -219,8 +219,8 @@
 | 211 | 760 | Kiki |
 | 212 | 758 | Shawn Miller |
 | 213 | 757 | Fancy Cascader |
-| 214 | 755 | Colton |
-| 215 | 755 | Laura Booth Wosko |
+| 214 | 755 | Laura Booth Wosko |
+| 215 | 755 | Colton |
 | 216 | 754 | CeceGeGe |
 | 217 | 753 | Morgan Martinez |
 | 218 | 752 | Joye Sims Binion |
@@ -440,8 +440,8 @@
 | 432 | 391 | gremicx |
 | 433 | 391 | Rebel124 |
 | 434 | 390 | ROODBOY |
-| 435 | 389 | Kirhonda Autmon |
-| 436 | 389 | Amanda J. Mcneil-Anderson |
+| 435 | 389 | Amanda J. Mcneil-Anderson |
+| 436 | 389 | Kirhonda Autmon |
 | 437 | 387 | Brittany K Ward |
 | 438 | 386 | Geoffrey Nash |
 | 439 | 384 | Tiffany Davie |
@@ -2001,8 +2001,8 @@
 | 1993 | 75 | Alixandra Delao |
 | 1994 | 75 | $hort Dog |
 | 1995 | 75 | Natasha Crum |
-| 1996 | 75 | Jessica Saxe |
-| 1997 | 75 | CBJ |
+| 1996 | 75 | CBJ |
+| 1997 | 75 | Jessica Saxe |
 | 1998 | 75 | Noodlez |
 | 1999 | 74 | wendell |
 | 2000 | 74 | Ann Smith |
