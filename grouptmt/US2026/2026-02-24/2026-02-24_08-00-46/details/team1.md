@@ -6,7 +6,7 @@
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 10085 | TAZ-MF-NIZIL |
+| 1 | 10084 | TAZ-MF-NIZIL |
 | 2 | 8117 | Felicia Haynes |
 | 3 | 7650 | Zerin Graham |
 | 4 | 7160 | Izzie Ramirez-Ford |
@@ -87,8 +87,8 @@
 | 79 | 994 | Lori Sanders- Davis |
 | 80 | 973 | Francesca Gee |
 | 81 | 961 | Jacqueline Williams |
-| 82 | 957 | Zippy Align |
-| 83 | 957 | Erin Hodges Plumb |
+| 82 | 957 | Erin Hodges Plumb |
+| 83 | 957 | Zippy Align |
 | 84 | 944 | Sweet Baker |
 | 85 | 920 | Tee Sheree |
 | 86 | 916 | Chirpy Smasher |
@@ -96,8 +96,8 @@
 | 88 | 904 | Fmp |
 | 89 | 898 | Dawn Sheppard |
 | 90 | 896 | Cheeky Crusher |
-| 91 | 896 | comrade fish |
-| 92 | 892 | Seth Wesson |
+| 91 | 892 | Seth Wesson |
+| 92 | 887 | comrade fish |
 | 93 | 884 | Sevens4L |
 | 94 | 883 | Jennifer ManWarren |
 | 95 | 863 | Madison Wicks |
@@ -172,8 +172,8 @@
 | 164 | 547 | Sharon Reynolds |
 | 165 | 546 | Loony Fitzone |
 | 166 | 545 | .running. |
-| 167 | 543 | Adrian Esteban |
-| 168 | 543 | Nicole Roseberry Weber |
+| 167 | 543 | Nicole Roseberry Weber |
+| 168 | 543 | Adrian Esteban |
 | 169 | 542 | BadG52 |
 | 170 | 540 | Tonya Beasley |
 | 171 | 537 | Stephanie Zahn |
@@ -207,8 +207,8 @@
 | 199 | 488 | Ly Phethmany |
 | 200 | 484 | Mike Ames |
 | 201 | 479 | canbrick |
-| 202 | 478 | Jumpy Dropper |
-| 203 | 478 | Hasty Cascader |
+| 202 | 478 | Hasty Cascader |
+| 203 | 478 | Jumpy Dropper |
 | 204 | 477 | Dizzy Slider |
 | 205 | 475 | Reesey Enyart |
 | 206 | 473 | Chuck Gannon |
@@ -217,8 +217,8 @@
 | 209 | 466 | Lori Bales |
 | 210 | 464 | Elaine Elaine |
 | 211 | 458 | Goose egg |
-| 212 | 453 | Angela Spann |
-| 213 | 453 | Kimmie Kimms |
+| 212 | 453 | Kimmie Kimms |
+| 213 | 453 | Angela Spann |
 | 214 | 452 | Tamara Brown |
 | 215 | 449 | Tawnya Peltonen |
 | 216 | 448 | Yvonne Marie |
@@ -317,8 +317,8 @@
 | 309 | 356 | build master |
 | 310 | 355 | Shanae Grant |
 | 311 | 355 | Toya Lynn |
-| 312 | 354 | Sarahdactyl |
-| 313 | 354 | Kimberly Davis |
+| 312 | 354 | Kimberly Davis |
+| 313 | 354 | Sarahdactyl |
 | 314 | 353 | Josh Riemer |
 | 315 | 350 | Bouncy Line |
 | 316 | 347 | ParisandCory Champagne |
@@ -351,15 +351,15 @@
 | 343 | 329 | Sarah Marie |
 | 344 | 329 | Larry Tilton |
 | 345 | 328 | Richard Corrado |
-| 346 | 327 | Christina Norman |
-| 347 | 327 | Gina Bettikofer |
+| 346 | 327 | Gina Bettikofer |
+| 347 | 327 | Christina Norman |
 | 348 | 326 | Jasmine Riley |
-| 349 | 325 | Mitchel White |
-| 350 | 325 | GringaLinga |
+| 349 | 325 | GringaLinga |
+| 350 | 325 | Mitchel White |
 | 351 | 324 | Brave Wrecker |
 | 352 | 323 | Nadine Velardo |
-| 353 | 322 | Hasty Columnbuilder |
-| 354 | 322 | Chris65 |
+| 353 | 322 | Chris65 |
+| 354 | 322 | Hasty Columnbuilder |
 | 355 | 321 | LD1 |
 | 356 | 320 | Zany Tiler |
 | 357 | 319 | Crystal Cheresnowsky |
@@ -382,8 +382,8 @@
 | 374 | 308 | Agustin Duarte Orozco |
 | 375 | 306 | Sunny Shift |
 | 376 | 305 | Speedy Snapfall |
-| 377 | 305 | Damian Salem |
-| 378 | 305 | Tavia |
+| 377 | 305 | Tavia |
+| 378 | 305 | Damian Salem |
 | 379 | 304 | Chummy Rollblock |
 | 380 | 302 | Jenny Gingrich Fuentes |
 | 381 | 301 | Susie Loo |
