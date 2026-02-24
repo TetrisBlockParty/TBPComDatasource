@@ -442,11 +442,11 @@
 | 434 | 1075 | SaraMarie Eveland |
 | 435 | 1074 | Diana Ayers |
 | 436 | 1073 | Jodi Blake |
-| 437 | 1071 | Kim Dean |
-| 438 | 1071 | Nashu |
+| 437 | 1071 | Nashu |
+| 438 | 1071 | Kim Dean |
 | 439 | 1068 | Tiffany Branham |
-| 440 | 1067 | Lourisha |
-| 441 | 1067 | Taylor Phillips |
+| 440 | 1067 | Taylor Phillips |
+| 441 | 1067 | Lourisha |
 | 442 | 1063 | Allan Wayne Lamia |
 | 443 | 1059 | Chris Gonzales Bulante |
 | 444 | 1058 | Jessica Wayne Cornwall |
@@ -456,8 +456,8 @@
 | 448 | 1049 | Giggly Snap |
 | 449 | 1048 | Sheronda Jackson |
 | 450 | 1043 | Brave Dropmatch |
-| 451 | 1042 | Matthew Barry |
-| 452 | 1042 | Spunkysmom |
+| 451 | 1042 | Spunkysmom |
+| 452 | 1042 | Matthew Barry |
 | 453 | 1041 | Crystal Hoffman |
 | 454 | 1037 | Steve Man |
 | 455 | 1036 | trabuco |
@@ -804,8 +804,8 @@
 | 796 | 680 | mshir |
 | 797 | 680 | Danielle Ayoub |
 | 798 | 680 | Nutty Cascade |
-| 799 | 680 | Paul Combs |
-| 800 | 680 | Stephanie Lafalce |
+| 799 | 680 | Stephanie Lafalce |
+| 800 | 680 | Paul Combs |
 | 801 | 679 | Cynthia Louann Rose |
 | 802 | 679 | Regina Knight |
 | 803 | 679 | Kassandra Hunt |
@@ -919,8 +919,8 @@
 | 911 | 621 | Moua Ying |
 | 912 | 620 | Beth Decker |
 | 913 | 619 | Allie Leedom |
-| 914 | 619 | Dawn Woosley Bowes |
-| 915 | 619 | Lisa Moone |
+| 914 | 619 | Lisa Moone |
+| 915 | 619 | Dawn Woosley Bowes |
 | 916 | 618 | Jordan Kaiser |
 | 917 | 617 | Annette Ross Clay |
 | 918 | 617 | Jason H Baker |
@@ -933,14 +933,14 @@
 | 925 | 612 | Goofy Catcher |
 | 926 | 612 | Marget Kay |
 | 927 | 611 | Robin L. Vial |
-| 928 | 611 | Roderick Allen |
-| 929 | 611 | Sharon Mills |
+| 928 | 611 | Sharon Mills |
+| 929 | 611 | Roderick Allen |
 | 930 | 611 | Tom Steffen |
 | 931 | 611 | Josh N Corrine |
 | 932 | 607 | Slip |
 | 933 | 607 | Dizzy Zone |
-| 934 | 606 | Stanislav Petkov |
-| 935 | 606 | Ebony Deloach Bryant |
+| 934 | 606 | Ebony Deloach Bryant |
+| 935 | 606 | Stanislav Petkov |
 | 936 | 606 | cel505♡ |
 | 937 | 605 | Saucy Fitzone |
 | 938 | 605 | Tipsy Filler |
@@ -949,8 +949,8 @@
 | 941 | 604 | Jessica Hughes |
 | 942 | 603 | Trisha Miller |
 | 943 | 602 | Christina Loftus |
-| 944 | 602 | Jedi |
-| 945 | 602 | AsnPryBoy83 |
+| 944 | 602 | AsnPryBoy83 |
+| 945 | 602 | Jedi |
 | 946 | 601 | Shindee |
 | 947 | 600 | Juanita Lyons |
 | 948 | 599 | Samuel Labruno |

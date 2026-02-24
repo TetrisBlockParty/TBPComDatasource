@@ -172,8 +172,8 @@
 | 164 | 547 | Sharon Reynolds |
 | 165 | 546 | Loony Fitzone |
 | 166 | 545 | .running. |
-| 167 | 543 | Adrian Esteban |
-| 168 | 543 | Nicole Roseberry Weber |
+| 167 | 543 | Nicole Roseberry Weber |
+| 168 | 543 | Adrian Esteban |
 | 169 | 542 | BadG52 |
 | 170 | 540 | Tonya Beasley |
 | 171 | 537 | Stephanie Zahn |
@@ -207,8 +207,8 @@
 | 199 | 488 | Ly Phethmany |
 | 200 | 484 | Mike Ames |
 | 201 | 479 | canbrick |
-| 202 | 478 | Jumpy Dropper |
-| 203 | 478 | Hasty Cascader |
+| 202 | 478 | Hasty Cascader |
+| 203 | 478 | Jumpy Dropper |
 | 204 | 477 | Dizzy Slider |
 | 205 | 475 | Reesey Enyart |
 | 206 | 473 | Chuck Gannon |
@@ -248,8 +248,8 @@
 | 240 | 421 | Letson Melissa |
 | 241 | 421 | Plucky Stacky |
 | 242 | 420 | Jennifer Noe Chandler |
-| 243 | 419 | John J. Cronin |
-| 244 | 419 | Daring Fitclear |
+| 243 | 419 | Daring Fitclear |
+| 244 | 419 | John J. Cronin |
 | 245 | 416 | Larissa Marie Nelson |
 | 246 | 416 | Jessica Sheehan |
 | 247 | 414 | Bird Person |
@@ -358,8 +358,8 @@
 | 350 | 325 | GringaLinga |
 | 351 | 324 | Brave Wrecker |
 | 352 | 323 | Nadine Velardo |
-| 353 | 322 | Hasty Columnbuilder |
-| 354 | 322 | Chris65 |
+| 353 | 322 | Chris65 |
+| 354 | 322 | Hasty Columnbuilder |
 | 355 | 321 | LD1 |
 | 356 | 320 | Zany Tiler |
 | 357 | 319 | Crystal Cheresnowsky |
@@ -368,8 +368,8 @@
 | 360 | 317 | Bloknboy |
 | 361 | 316 | Giggly Builderline |
 | 362 | 315 | san |
-| 363 | 313 | Steph |
-| 364 | 313 | Delvison Rosario |
+| 363 | 313 | Delvison Rosario |
+| 364 | 313 | Steph |
 | 365 | 312 | Diane Byrd |
 | 366 | 312 | Nicole Meredith Flynn |
 | 367 | 311 | John Ramirez |
@@ -378,8 +378,8 @@
 | 370 | 310 | Marci Sanders |
 | 371 | 310 | Chris Sigurdson |
 | 372 | 309 | Isaiah |
-| 373 | 308 | Katie Martin |
-| 374 | 308 | Agustin Duarte Orozco |
+| 373 | 308 | Agustin Duarte Orozco |
+| 374 | 308 | Katie Martin |
 | 375 | 306 | Sunny Shift |
 | 376 | 305 | Speedy Snapfall |
 | 377 | 305 | Damian Salem |
@@ -464,8 +464,8 @@
 | 456 | 267 | Dena Kayy |
 | 457 | 267 | Barry Mac'Ockner |
 | 458 | 266 | Angela Jones |
-| 459 | 265 | Cranky Pattern |
-| 460 | 265 | Yahowah |
+| 459 | 265 | Yahowah |
+| 460 | 265 | Cranky Pattern |
 | 461 | 265 | Brenda L. Bunce |
 | 462 | 264 | Kayla |
 | 463 | 263 | Charlie Walker |
@@ -539,8 +539,8 @@
 | 531 | 233 | Jonah Dunn |
 | 532 | 232 | Nerdy Curvebuilder |
 | 533 | 231 | Alex Nicol |
-| 534 | 230 | Peppy Columnbuilder |
-| 535 | 230 | Lachelle Dillon |
+| 534 | 230 | Lachelle Dillon |
+| 535 | 230 | Peppy Columnbuilder |
 | 536 | 230 | Panda Thagreat |
 | 537 | 229 | Steven Collins |
 | 538 | 229 | Epic Jumper |
@@ -1211,7 +1211,7 @@
 | 1203 | 80 | Tofy |
 | 1204 | 80 | Sid Castro |
 | 1205 | 80 | Tina Tiger |
-| 1206 | 80 | Sid Castro |
+| 1206 | 80 | Giggy Towerfit |
 | 1207 | 80 | Matt Weierke |
 | 1208 | 80 | Silly Patternblock |
 | 1209 | 80 | Roxann Boykin |

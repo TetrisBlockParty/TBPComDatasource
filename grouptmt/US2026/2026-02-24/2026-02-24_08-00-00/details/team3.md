@@ -213,8 +213,8 @@
 | 205 | 760 | Kiki |
 | 206 | 759 | Mykal Burton |
 | 207 | 757 | Fancy Cascader |
-| 208 | 755 | Laura Booth Wosko |
-| 209 | 755 | Colton |
+| 208 | 755 | Colton |
+| 209 | 755 | Laura Booth Wosko |
 | 210 | 753 | Morgan Martinez |
 | 211 | 752 | Joye Sims Binion |
 | 212 | 750 | Michael Nowogorski |
@@ -254,8 +254,8 @@
 | 246 | 633 | Jillian Symons |
 | 247 | 630 | Jackie Miller |
 | 248 | 629 | rnr junky |
-| 249 | 627 | Louise Stacy Sisson |
-| 250 | 627 | Juliana Dottore |
+| 249 | 627 | Juliana Dottore |
+| 250 | 627 | Louise Stacy Sisson |
 | 251 | 626 | Cheryl Hinch Tenbrook |
 | 252 | 625 | Jacqueline Rodriguez |
 | 253 | 624 | Hyper Matchzone |
@@ -303,12 +303,12 @@
 | 295 | 546 | lashanda |
 | 296 | 542 | France Vézina |
 | 297 | 541 | Mcathen |
-| 298 | 540 | rosy |
-| 299 | 540 | Tanya Kittrell |
+| 298 | 540 | Tanya Kittrell |
+| 299 | 540 | rosy |
 | 300 | 539 | Fancy Curver |
 | 301 | 539 | Kate M. Murdock |
-| 302 | 536 | Shannon Matthew Byers |
-| 303 | 536 | Giddy Twistbuilder |
+| 302 | 536 | Giddy Twistbuilder |
+| 303 | 536 | Shannon Matthew Byers |
 | 304 | 535 | kacihall |
 | 305 | 533 | BugMansMom |
 | 306 | 532 | Sarah Muradyan |
@@ -355,8 +355,8 @@
 | 347 | 461 | Hyper Bridger |
 | 348 | 461 | Briana Wellman |
 | 349 | 460 | Antonia Russell |
-| 350 | 459 | Randy Clevenger |
-| 351 | 459 | TotoCherue |
+| 350 | 459 | TotoCherue |
+| 351 | 459 | Randy Clevenger |
 | 352 | 457 | Snippy Wipeout |
 | 353 | 456 | Kelly |
 | 354 | 456 | Cynthia Herrmann Egland |
@@ -368,8 +368,8 @@
 | 360 | 447 | Carrie Huskey |
 | 361 | 447 | Num1hater |
 | 362 | 446 | Swanky Frame |
-| 363 | 446 | Jennifer Alvey |
-| 364 | 446 | Shiny Zonebuilder |
+| 363 | 446 | Shiny Zonebuilder |
+| 364 | 446 | Jennifer Alvey |
 | 365 | 445 | Loopy Clusterer |
 | 366 | 444 | Heather De Vries Cobb |
 | 367 | 443 | Christian Werndl |
@@ -409,11 +409,11 @@
 | 401 | 407 | Christina Spa |
 | 402 | 406 | Kristen Weese |
 | 403 | 405 | Andrew Thorson |
-| 404 | 404 | Giggy Balanceblock |
-| 405 | 404 | Alice |
+| 404 | 404 | Alice |
+| 405 | 404 | Giggy Balanceblock |
 | 406 | 403 | Scott Lindsay |
-| 407 | 401 | Velma Mull |
-| 408 | 401 | block chick |
+| 407 | 401 | block chick |
+| 408 | 401 | Velma Mull |
 | 409 | 400 | Joy Petroski |
 | 410 | 398 | Breezy Roll |
 | 411 | 397 | Kevin Russell |
@@ -611,9 +611,9 @@
 | 603 | 299 | Quirky Snapfit |
 | 604 | 299 | Angie Harper |
 | 605 | 299 | Six |
-| 606 | 297 | Angel Miller |
+| 606 | 297 | Zac Hudak |
 | 607 | 297 | Cameo Tweed |
-| 608 | 297 | Zac Hudak |
+| 608 | 297 | Angel Miller |
 | 609 | 296 | JoshAllenfan17 |
 | 610 | 295 | Omega |
 | 611 | 294 | Kita A Jackson |
@@ -751,8 +751,8 @@
 | 743 | 252 | Ashley Parham |
 | 744 | 252 | Lenora Price |
 | 745 | 251 | Sassy Align |
-| 746 | 251 | Doddie Marie |
-| 747 | 251 | Colleen Phelps |
+| 746 | 251 | Colleen Phelps |
+| 747 | 251 | Doddie Marie |
 | 748 | 251 | Adrian Massey |
 | 749 | 250 | Moniecia Harrison |
 | 750 | 250 | Jonathn Poindexter |
@@ -898,9 +898,9 @@
 | 890 | 216 | Timothy Troy Frazier |
 | 891 | 216 | Heyska |
 | 892 | 216 | Tabbi Wilson |
-| 893 | 215 | Anabela Ruiz |
-| 894 | 215 | Laaken Draper |
-| 895 | 215 | Michell Hendershott Jackson |
+| 893 | 215 | Michell Hendershott Jackson |
+| 894 | 215 | Anabela Ruiz |
+| 895 | 215 | Laaken Draper |
 | 896 | 214 | krazibtch |
 | 897 | 213 | Groovy Stackzone |
 | 898 | 213 | Quinn Missouridog |
