@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-24 22:14:44 UTC
+# Standings for team1 as of 2026-02-24 22:15:23 UTC
 
 **Total Participants:** 2331
 
@@ -344,10 +344,10 @@
 | 336 | 374 | Jaimie Lynn |
 | 337 | 374 | Nadine Velardo |
 | 338 | 374 | Michael Espinosa Ulibarri Jr. |
-| 339 | 371 | Gary Gobin |
-| 340 | 371 | Teddy Alexander |
-| 341 | 371 | Delvison Rosario |
-| 342 | 371 | Danielle S Kester |
+| 339 | 372 | Danielle S Kester |
+| 340 | 371 | Gary Gobin |
+| 341 | 371 | Teddy Alexander |
+| 342 | 371 | Delvison Rosario |
 | 343 | 367 | Brave Linkmatch |
 | 344 | 366 | J.F. Fields |
 | 345 | 366 | Danielle Little-Daugherty |
@@ -1280,11 +1280,11 @@
 | 1272 | 85 | Ash Whitley |
 | 1273 | 85 | Bwebb Bryan |
 | 1274 | 85 | Michael Floyd Beavers |
-| 1275 | 85 | Skuba Cece |
-| 1276 | 84 | Rock it |
-| 1277 | 84 | Neena AkaJaneen TheQueen |
-| 1278 | 84 | Kelly Marie Hennig |
-| 1279 | 84 | Lakesha Jackson- Anderson |
+| 1275 | 85 | Lakesha Jackson- Anderson |
+| 1276 | 85 | Skuba Cece |
+| 1277 | 84 | Rock it |
+| 1278 | 84 | Neena AkaJaneen TheQueen |
+| 1279 | 84 | Kelly Marie Hennig |
 | 1280 | 84 | Chirpy Matchline |
 | 1281 | 84 | Purp |
 | 1282 | 84 | Chirpy Tiler |
@@ -1438,13 +1438,13 @@
 | 1430 | 66 | Stephanie Randall |
 | 1431 | 66 | Michael Willett |
 | 1432 | 66 | Cheeky Rollfit |
-| 1433 | 66 | Lucy Moore |
-| 1434 | 66 | Stormz420 |
-| 1435 | 65 | Brian Mc Auley |
-| 1436 | 65 | Missy Anderson |
-| 1437 | 65 | Colton Samantha Lester |
-| 1438 | 65 | Heidi Hile |
-| 1439 | 65 | Salih Atasoy |
+| 1433 | 66 | Salih Atasoy |
+| 1434 | 66 | Lucy Moore |
+| 1435 | 66 | Stormz420 |
+| 1436 | 65 | Brian Mc Auley |
+| 1437 | 65 | Missy Anderson |
+| 1438 | 65 | Colton Samantha Lester |
+| 1439 | 65 | Heidi Hile |
 | 1440 | 65 | Kayla |
 | 1441 | 65 | Jessica Lang |
 | 1442 | 64 | Jasmine Del Real Est |
