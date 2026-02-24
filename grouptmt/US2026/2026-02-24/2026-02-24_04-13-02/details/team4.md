@@ -69,8 +69,8 @@
 | 61 | 1116 | Ashley Ingram |
 | 62 | 1098 | BertMofo |
 | 63 | 1089 | Alyssa Papen |
-| 64 | 1082 | Avy Absol |
-| 65 | 1082 | Dion Crommarty |
+| 64 | 1082 | Dion Crommarty |
+| 65 | 1082 | Avy Absol |
 | 66 | 1075 | Dustee Craddock-Harrison |
 | 67 | 1069 | Heather Tushner |
 | 68 | 1047 | Julian Garcia |
@@ -106,8 +106,8 @@
 | 98 | 811 | Sassy Pattern |
 | 99 | 806 | Lori Walker |
 | 100 | 802 | Crystal Carroll |
-| 101 | 798 | Klo |
-| 102 | 798 | Jewell Urban |
+| 101 | 798 | Jewell Urban |
+| 102 | 798 | Klo |
 | 103 | 796 | Denise Carlson |
 | 104 | 785 | SAP |
 | 105 | 781 | Brittney Griggs |
@@ -158,15 +158,15 @@
 | 150 | 598 | shar |
 | 151 | 595 | Rodney McMath Jr. |
 | 152 | 587 | YoMomma |
-| 153 | 586 | Cursed Hag |
-| 154 | 586 | Latisha Davis |
+| 153 | 586 | Latisha Davis |
+| 154 | 586 | Cursed Hag |
 | 155 | 584 | Carlton Unfiltered |
 | 156 | 582 | Angela Srubar-Norman |
 | 157 | 578 | Livvy |
 | 158 | 576 | Jade Rian |
 | 159 | 575 | Jenna Ingersoll |
-| 160 | 574 | Carmethia Clemons Haslerig |
-| 161 | 574 | Carlos Ramirez |
+| 160 | 574 | Carlos Ramirez |
+| 161 | 574 | Carmethia Clemons Haslerig |
 | 162 | 568 | Cindy Looper |
 | 163 | 567 | Rico |
 | 164 | 565 | Ren Mc |
@@ -179,8 +179,8 @@
 | 171 | 538 | Steph Marie |
 | 172 | 537 | Scott Jameson |
 | 173 | 535 | Berklie Apedaile |
-| 174 | 532 | Alan George LaRage |
-| 175 | 532 | Matt Summer |
+| 174 | 532 | Matt Summer |
+| 175 | 532 | Alan George LaRage |
 | 176 | 528 | Erin Sabol |
 | 177 | 525 | Lucas J Sutton |
 | 178 | 522 | Carly Alexis |

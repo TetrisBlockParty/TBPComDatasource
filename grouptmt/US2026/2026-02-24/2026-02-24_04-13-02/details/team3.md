@@ -147,8 +147,8 @@
 | 139 | 987 | Happy Tetriblast |
 | 140 | 963 | Crystal Frey |
 | 141 | 957 | mzcatzy |
-| 142 | 950 | MissTaylor |
-| 143 | 950 | Giddy Drop |
+| 142 | 950 | Giddy Drop |
+| 143 | 950 | MissTaylor |
 | 144 | 943 | Katrina Schroeder |
 | 145 | 940 | Patty Allen |
 | 146 | 940 | Stephanie Allmon |

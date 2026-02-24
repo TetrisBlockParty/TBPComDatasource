@@ -45,8 +45,8 @@
 | 37 | 1515 | Felicia Lewis |
 | 38 | 1405 | Chipper Gridlock |
 | 39 | 1391 | Aaron Garnett |
-| 40 | 1334 | june october |
-| 41 | 1334 | Tyler Alcock |
+| 40 | 1334 | Tyler Alcock |
+| 41 | 1334 | june october |
 | 42 | 1321 | Drew Magnus |
 | 43 | 1291 | Marianne Louise West |
 | 44 | 1268 | Hasbro Bros |
@@ -167,8 +167,8 @@
 | 159 | 543 | Tipsy Riseclear |
 | 160 | 543 | Nicole Roseberry Weber |
 | 161 | 540 | Tonya Beasley |
-| 162 | 537 | BadG52 |
-| 163 | 537 | Stephanie Zahn |
+| 162 | 537 | Stephanie Zahn |
+| 163 | 537 | BadG52 |
 | 164 | 535 | Plucky Ziggy |
 | 165 | 533 | .running. |
 | 166 | 528 | ALFD |
@@ -188,8 +188,8 @@
 | 180 | 496 | Michelle Beres |
 | 181 | 494 | Sean Stallings |
 | 182 | 493 | Jennifer Hardman |
-| 183 | 492 | Rebekah LeiAnn Bonsell |
-| 184 | 492 | Happy Snapbuild |
+| 183 | 492 | Happy Snapbuild |
+| 184 | 492 | Rebekah LeiAnn Bonsell |
 | 185 | 490 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 186 | 489 | Speedy Liney |
 | 187 | 488 | Hyper |
@@ -203,14 +203,14 @@
 | 195 | 463 | Erin Rosberg |
 | 196 | 462 | Hasty Cascader |
 | 197 | 461 | Jessie Welch |
-| 198 | 458 | Goose egg |
+| 198 | 458 | Dizzy Slider |
 | 199 | 458 | Elaine Elaine |
-| 200 | 458 | Dizzy Slider |
+| 200 | 458 | Goose egg |
 | 201 | 457 | Lori Bales |
 | 202 | 453 | Kimmie Kimms |
 | 203 | 448 | Yvonne Marie |
-| 204 | 446 | SkipTheSadSauce |
-| 205 | 446 | Spencer Lent |
+| 204 | 446 | Spencer Lent |
+| 205 | 446 | SkipTheSadSauce |
 | 206 | 442 | Reesey Enyart |
 | 207 | 441 | Kimberly Garcia |
 | 208 | 439 | Witty Builderfit |
@@ -338,8 +338,8 @@
 | 330 | 322 | Christina Norman |
 | 331 | 321 | LD1 |
 | 332 | 320 | Zany Tiler |
-| 333 | 319 | Crystal Cheresnowsky |
-| 334 | 319 | Fresno Beotoni |
+| 333 | 319 | Fresno Beotoni |
+| 334 | 319 | Crystal Cheresnowsky |
 | 335 | 317 | Bloknboy |
 | 336 | 316 | Giggly Builderline |
 | 337 | 315 | san |
