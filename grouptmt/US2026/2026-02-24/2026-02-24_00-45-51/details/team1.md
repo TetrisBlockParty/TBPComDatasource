@@ -44,8 +44,8 @@
 | 36 | 1405 | Chipper Gridlock |
 | 37 | 1396 | Derek MF Blakey |
 | 38 | 1391 | Aaron Garnett |
-| 39 | 1334 | Tyler Alcock |
-| 40 | 1334 | june october |
+| 39 | 1334 | june october |
+| 40 | 1334 | Tyler Alcock |
 | 41 | 1277 | Marianne Louise West |
 | 42 | 1250 | Stef Hu |
 | 43 | 1239 | Brenda Stewart |
@@ -210,8 +210,8 @@
 | 202 | 422 | Jamise Brown |
 | 203 | 422 | Reesey Enyart |
 | 204 | 419 | John J. Cronin |
-| 205 | 419 | Jennifer Noe Chandler |
-| 206 | 419 | Daring Fitclear |
+| 205 | 419 | Daring Fitclear |
+| 206 | 419 | Jennifer Noe Chandler |
 | 207 | 417 | Jessie Lynn |
 | 208 | 416 | Jessica Sheehan |
 | 209 | 412 | Witty Builderfit |

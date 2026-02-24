@@ -184,8 +184,8 @@
 | 176 | 761 | Peppy Shifter |
 | 177 | 760 | Gideon Walker |
 | 178 | 757 | Fancy Cascader |
-| 179 | 755 | Laura Booth Wosko |
-| 180 | 755 | Tye Stovall |
+| 179 | 755 | Tye Stovall |
+| 180 | 755 | Laura Booth Wosko |
 | 181 | 742 | Jennifer Lynn Fahrenholtz-Summers |
 | 182 | 740 | Kiki |
 | 183 | 740 | Staci George Fitzsimmons |
@@ -373,8 +373,8 @@
 | 365 | 382 | Amanda J. Mcneil-Anderson |
 | 366 | 382 | Tiffany Davie |
 | 367 | 381 | Christina Spa |
-| 368 | 379 | Kelly |
-| 369 | 379 | Kaitie Oliver |
+| 368 | 379 | Kaitie Oliver |
+| 369 | 379 | Kelly |
 | 370 | 378 | MsBee |
 | 371 | 377 | Hoppy Patternline |
 | 372 | 377 | Dee Franklin |
@@ -460,9 +460,9 @@
 | 452 | 323 | Sharisse Baltimore |
 | 453 | 323 | Tipsy Zonebuilder |
 | 454 | 323 | Jess Bissett |
-| 455 | 322 | Amanda Declue |
+| 455 | 322 | Nena Somerville Kelly |
 | 456 | 322 | Beth Smith |
-| 457 | 322 | Nena Somerville Kelly |
+| 457 | 322 | Amanda Declue |
 | 458 | 321 | Jl |
 | 459 | 321 | Sdot |
 | 460 | 320 | Kevin Russell |
@@ -485,8 +485,8 @@
 | 477 | 312 | Eric Caccavale |
 | 478 | 311 | Irene Arreguin |
 | 479 | 311 | Aponk |
-| 480 | 310 | Trice Sodames |
-| 481 | 310 | Kristi Taylor |
+| 480 | 310 | Kristi Taylor |
+| 481 | 310 | Trice Sodames |
 | 482 | 310 | Joseph Vargas |
 | 483 | 309 | Nikkie Bucciano |
 | 484 | 308 | Sassy Brickmatch |
@@ -587,7 +587,7 @@
 | 579 | 270 | Frisky Stacker |
 | 580 | 270 | LaNette Morgan |
 | 581 | 270 | p brewster |
-| 582 | 270 | Crafty Tilemaker |
+| 582 | 270 | Rachel Napper |
 | 583 | 270 | Hyper Bridger |
 | 584 | 270 | Crafty Tilemaker |
 | 585 | 269 | Bigmack |

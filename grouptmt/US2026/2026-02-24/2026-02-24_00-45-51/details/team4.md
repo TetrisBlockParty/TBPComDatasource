@@ -213,8 +213,8 @@
 | 205 | 451 | Kesha Brady |
 | 206 | 450 | Amanda Pauldo-Ivy |
 | 207 | 446 | Mr. Party |
-| 208 | 444 | Mylo Lipscomb |
-| 209 | 444 | J-Rizzle |
+| 208 | 444 | J-Rizzle |
+| 209 | 444 | Mylo Lipscomb |
 | 210 | 443 | Kristina Black |
 | 211 | 442 | 🥔🥔 Spudz |
 | 212 | 441 | Lush Linkfall |
@@ -266,8 +266,8 @@
 | 258 | 369 | Matt Dell'Olio |
 | 259 | 368 | Kris Bartlett |
 | 260 | 367 | Meg |
-| 261 | 366 | Andrew Dang |
-| 262 | 366 | Cheery Risebuilder |
+| 261 | 366 | Cheery Risebuilder |
+| 262 | 366 | Andrew Dang |
 | 263 | 365 | Hyper Builder |
 | 264 | 362 | Gdiguy |
 | 265 | 360 | James Hurley Jr. |
@@ -539,9 +539,9 @@
 | 531 | 197 | Peppy Drop |
 | 532 | 196 | Julie McAfoos Swanson |
 | 533 | 195 | Christine Simmons |
-| 534 | 194 | Zany Twisterfit |
+| 534 | 194 | Carlos Hernandez |
 | 535 | 194 | Cranky Glidebuilder |
-| 536 | 194 | Carlos Hernandez |
+| 536 | 194 | Zany Twisterfit |
 | 537 | 192 | Jacob Campbell |
 | 538 | 192 | Twisty Risebuilder |
 | 539 | 192 | Rebecca A Rit |
@@ -642,7 +642,7 @@
 | 634 | 160 | Robert Bolden |
 | 635 | 159 | Hoppy Clearer |
 | 636 | 159 | Heather Mamabear Pezze |
-| 637 | 159 | Hoppy Clearer |
+| 637 | 159 | Jennifer Perkins |
 | 638 | 157 | Jazzy Slamdrop |
 | 639 | 156 | Tabi Williams |
 | 640 | 155 | Faja |

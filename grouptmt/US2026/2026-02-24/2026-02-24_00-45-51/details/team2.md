@@ -687,10 +687,10 @@
 | 679 | 669 | Lathasa Newkirk |
 | 680 | 669 | Martina Gabrielle LaPolla |
 | 681 | 668 | Giggy Grabber |
-| 682 | 668 | Anthony |
-| 683 | 668 | Jazzy Clusterline |
-| 684 | 666 | Jackie Avila |
-| 685 | 666 | Laura Mclean |
+| 682 | 668 | Jazzy Clusterline |
+| 683 | 668 | Anthony |
+| 684 | 666 | Laura Mclean |
+| 685 | 666 | Jackie Avila |
 | 686 | 665 | Zak Dunn |
 | 687 | 663 | Regina Young |
 | 688 | 662 | Samie Dayle |
