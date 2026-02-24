@@ -68,8 +68,8 @@
 | 60 | 1931 | Denise Nardoni |
 | 61 | 1920 | Trezure Gonzalez |
 | 62 | 1858 | Kristie McFarland |
-| 63 | 1824 | Jessica Ann |
-| 64 | 1824 | Nate Burnside |
+| 63 | 1824 | Nate Burnside |
+| 64 | 1824 | Jessica Ann |
 | 65 | 1804 | Tina Kay |
 | 66 | 1791 | Leah Barnett |
 | 67 | 1776 | Whitney Manuel |
@@ -125,8 +125,8 @@
 | 117 | 1134 | Melissa Orth Hunter |
 | 118 | 1124 | Stephanie Rice |
 | 119 | 1121 | Corie A. Brinson |
-| 120 | 1114 | Groovy Catcher |
-| 121 | 1114 | Loopy Fallmatch |
+| 120 | 1114 | Loopy Fallmatch |
+| 121 | 1114 | Groovy Catcher |
 | 122 | 1105 | Adrian Marcel Pate |
 | 123 | 1093 | Angela M. Fletcher |
 | 124 | 1091 | Jennifer |
