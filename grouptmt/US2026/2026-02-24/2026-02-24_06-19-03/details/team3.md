@@ -104,8 +104,8 @@
 | 96 | 1361 | Patricia Gadsden |
 | 97 | 1343 | Joey Banks |
 | 98 | 1320 | Kristie |
-| 99 | 1318 | Tiff Vs Tiffany |
-| 100 | 1318 | Diana Ibarra |
+| 99 | 1318 | Diana Ibarra |
+| 100 | 1318 | Tiff Vs Tiffany |
 | 101 | 1309 | yoyo |
 | 102 | 1297 | Shelby Michelle |
 | 103 | 1290 | JerseyJess |
@@ -171,8 +171,8 @@
 | 163 | 875 | Chasity |
 | 164 | 874 | Jessica Pineda-Lopez |
 | 165 | 871 | Rochelle Hazelett |
-| 166 | 868 | Cranky Gridder |
-| 167 | 868 | Nicole Flippo |
+| 166 | 868 | Nicole Flippo |
+| 167 | 868 | Cranky Gridder |
 | 168 | 866 | Domo Washington |
 | 169 | 864 | Sunny Rotater |
 | 170 | 862 | Santeria Trece Candles |
@@ -198,8 +198,8 @@
 | 190 | 784 | Jone |
 | 191 | 783 | Julian Murphy |
 | 192 | 777 | Daryn Elliott |
-| 193 | 774 | Twisty Brick LT |
-| 194 | 774 | ren |
+| 193 | 774 | ren |
+| 194 | 774 | Twisty Brick LT |
 | 195 | 772 | Tye Stovall |
 | 196 | 769 | Hasty Cascadefit |
 | 197 | 768 | Cyd061769 |
@@ -225,8 +225,8 @@
 | 217 | 715 | Karon Griffin |
 | 218 | 714 | Jenny Hrndz |
 | 219 | 713 | Stephanie Blkpep Davidson |
-| 220 | 709 | Christine Niles |
-| 221 | 709 | Cynthia Castros-Hampton |
+| 220 | 709 | Cynthia Castros-Hampton |
+| 221 | 709 | Christine Niles |
 | 222 | 708 | Stephanie Bradley |
 | 223 | 703 | Shawn Miller |
 | 224 | 691 | Snappy Balancer |
@@ -264,8 +264,8 @@
 | 256 | 604 | Sherry Ogden |
 | 257 | 604 | Bmo |
 | 258 | 601 | Betty Rosas |
-| 259 | 600 | Connie Mohler-Fair |
-| 260 | 600 | Natasha Jones |
+| 259 | 600 | Natasha Jones |
+| 260 | 600 | Connie Mohler-Fair |
 | 261 | 599 | Noyb Adam |
 | 262 | 598 | Kaycee Kay |
 | 263 | 594 | Cozy Snaplink |
@@ -329,8 +329,8 @@
 | 321 | 490 | Cassandra Bryant |
 | 322 | 489 | Isabel Ocasio |
 | 323 | 487 | MsBee |
-| 324 | 486 | Skippy |
-| 325 | 486 | Sleepy |
+| 324 | 486 | Sleepy |
+| 325 | 486 | Skippy |
 | 326 | 482 | Chummy Rumbler |
 | 327 | 481 | Tiffanie Alley |
 | 328 | 480 | Dee Franklin |
@@ -345,8 +345,8 @@
 | 337 | 465 | Noettín Kan Zasnemoore |
 | 338 | 465 | Blocked |
 | 339 | 464 | Snazzy Filler |
-| 340 | 462 | Tegan Chapman |
-| 341 | 462 | Brandon Givens |
+| 340 | 462 | Brandon Givens |
+| 341 | 462 | Tegan Chapman |
 | 342 | 461 | Hyper Bridger |
 | 343 | 461 | Briana Wellman |
 | 344 | 460 | Antonia Russell |
@@ -743,7 +743,7 @@
 | 735 | 250 | mia |
 | 736 | 250 | Steph Arcari |
 | 737 | 250 | Marcus Payton |
-| 738 | 249 | Sarah Tschee |
+| 738 | 249 | Snippy Brickster |
 | 739 | 249 | Loony Crawler |
 | 740 | 249 | Sarah Tschee |
 | 741 | 248 | Amie Hendrickson |
@@ -993,8 +993,8 @@
 | 985 | 191 | Felicia Doxey |
 | 986 | 191 | lady lua |
 | 987 | 190 | Anthony Jackson |
-| 988 | 190 | Cheery Brickster |
-| 989 | 190 | Bethany Baughman |
+| 988 | 190 | Bethany Baughman |
+| 989 | 190 | Cheery Brickster |
 | 990 | 190 | Janette Schilling |
 | 991 | 190 | Rank Stranger |
 | 992 | 189 | Cranky Slam |

@@ -206,8 +206,8 @@
 | 198 | 508 | Milan Markeisha |
 | 199 | 507 | Andria Lynn |
 | 200 | 504 | Deanna Deckard |
-| 201 | 502 | Christina Black |
-| 202 | 502 | Ericca Eldridge |
+| 201 | 502 | Ericca Eldridge |
+| 202 | 502 | Christina Black |
 | 203 | 501 | Sharyn Lemire |
 | 204 | 499 | Kesha Brady |
 | 205 | 496 | Lori |
@@ -417,8 +417,8 @@
 | 409 | 278 | Shainne Brewer |
 | 410 | 277 | Maria Hammie |
 | 411 | 277 | Silly SeaWeed |
-| 412 | 276 | Dennis Bradley |
-| 413 | 276 | Cynthia Boudreau |
+| 412 | 276 | Cynthia Boudreau |
+| 413 | 276 | Dennis Bradley |
 | 414 | 275 | Jarred Falls |
 | 415 | 271 | ImJustMe |
 | 416 | 270 | 07VHVW |

@@ -110,8 +110,8 @@
 | 102 | 773 | Susanna Guerry |
 | 103 | 772 | Kathy Langham |
 | 104 | 770 | Zappy Curvetile |
-| 105 | 769 | Robert Benito |
-| 106 | 769 | Angel Fowler |
+| 105 | 769 | Angel Fowler |
+| 106 | 769 | Robert Benito |
 | 107 | 768 | Jazzy Framezone |
 | 108 | 761 | Karin Gillen |
 | 109 | 751 | Kellie |
@@ -202,8 +202,8 @@
 | 194 | 488 | Ly Phethmany |
 | 195 | 487 | Eric DeSimone |
 | 196 | 479 | canbrick |
-| 197 | 478 | Hasty Cascader |
-| 198 | 478 | Jumpy Dropper |
+| 197 | 478 | Jumpy Dropper |
+| 198 | 478 | Hasty Cascader |
 | 199 | 475 | Reesey Enyart |
 | 200 | 473 | Chuck Gannon |
 | 201 | 472 | Dizzy Slider |
@@ -315,8 +315,8 @@
 | 307 | 350 | Bouncy Line |
 | 308 | 349 | Cece Ibarra |
 | 309 | 347 | ParisandCory Champagne |
-| 310 | 346 | poopypants |
-| 311 | 346 | Gary Gobin |
+| 310 | 346 | Gary Gobin |
+| 311 | 346 | poopypants |
 | 312 | 344 | dhardy |
 | 313 | 344 | Buttons Stemm |
 | 314 | 344 | Standia Civil |
@@ -755,7 +755,7 @@
 | 747 | 159 | Josh Watters |
 | 748 | 159 | Trenna L Szczepaniak |
 | 749 | 159 | davis13 |
-| 750 | 159 | Trenna L Szczepaniak |
+| 750 | 159 | Sarah Cassese |
 | 751 | 158 | Daring Roll |
 | 752 | 157 | Angel Marie |
 | 753 | 157 | Sabrina Cortez Mendoza |

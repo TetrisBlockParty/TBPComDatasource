@@ -383,8 +383,8 @@
 | 375 | 1177 | Kennedy Sandifer |
 | 376 | 1173 | Giggy Blocker |
 | 377 | 1172 | Lakeysha Dortch |
-| 378 | 1171 | Loretta Brewer-Gage |
-| 379 | 1171 | Arkei Luster |
+| 378 | 1171 | Arkei Luster |
+| 379 | 1171 | Loretta Brewer-Gage |
 | 380 | 1170 | Shelley Thornburgh Wright |
 | 381 | 1167 | Min |
 | 382 | 1164 | DefaultUser |
@@ -400,8 +400,8 @@
 | 392 | 1137 | Kenny Alvarado |
 | 393 | 1136 | Ashlen Dorrell |
 | 394 | 1123 | Jodi Mitnick |
-| 395 | 1119 | Bubbly Snapfit |
-| 396 | 1119 | Teresa Gillmore |
+| 395 | 1119 | Teresa Gillmore |
+| 396 | 1119 | Bubbly Snapfit |
 | 397 | 1118 | Ibiza Carolina LaRose |
 | 398 | 1116 | Wakanda Forever |
 | 399 | 1116 | Em Chen |
@@ -521,8 +521,8 @@
 | 513 | 925 | blume |
 | 514 | 923 | Chevy |
 | 515 | 922 | Butta |
-| 516 | 921 | Elisheva Mizrachi |
-| 517 | 921 | Dannette Goldberg-Richards |
+| 516 | 921 | Dannette Goldberg-Richards |
+| 517 | 921 | Elisheva Mizrachi |
 | 518 | 920 | Arwa Fatimah |
 | 519 | 920 | Angela Yantz |
 | 520 | 919 | Isaac Trappiel IV |
