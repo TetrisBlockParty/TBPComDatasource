@@ -338,8 +338,8 @@
 | 330 | 486 | Skippy |
 | 331 | 482 | Chummy Rumbler |
 | 332 | 481 | Tiffanie Alley |
-| 333 | 480 | TLM |
-| 334 | 480 | Dee Franklin |
+| 333 | 480 | Dee Franklin |
+| 334 | 480 | TLM |
 | 335 | 479 | Charles Perrone |
 | 336 | 476 | Shunta Jacobs |
 | 337 | 474 | Troy |
@@ -355,11 +355,11 @@
 | 347 | 461 | Hyper Bridger |
 | 348 | 461 | Briana Wellman |
 | 349 | 460 | Antonia Russell |
-| 350 | 459 | Randy Clevenger |
-| 351 | 459 | TotoCherue |
+| 350 | 459 | TotoCherue |
+| 351 | 459 | Randy Clevenger |
 | 352 | 457 | Snippy Wipeout |
-| 353 | 456 | Cynthia Herrmann Egland |
-| 354 | 456 | Kelly |
+| 353 | 456 | Kelly |
+| 354 | 456 | Cynthia Herrmann Egland |
 | 355 | 455 | Kelly Wolf |
 | 356 | 450 | Luciana Braganca Vieira |
 | 357 | 450 | Stefanie LaPointe |
@@ -780,8 +780,8 @@
 | 772 | 244 | Amanda Fulton |
 | 773 | 243 | Casey McDowell |
 | 774 | 242 | Tanesha BigBabby Darling |
-| 775 | 241 | David Bardo |
-| 776 | 241 | Jill Stickney |
+| 775 | 241 | Jill Stickney |
+| 776 | 241 | David Bardo |
 | 777 | 241 | Myoshia Norwood |
 | 778 | 240 | Quindarius Broaden |
 | 779 | 240 | Christopher Mastropietro |

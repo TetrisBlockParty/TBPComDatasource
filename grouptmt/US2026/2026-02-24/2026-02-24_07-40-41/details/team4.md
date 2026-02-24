@@ -168,8 +168,8 @@
 | 160 | 590 | Angela Srubar-Norman |
 | 161 | 590 | Carmethia Clemons Haslerig |
 | 162 | 587 | YoMomma |
-| 163 | 586 | Latisha Davis |
-| 164 | 586 | Carlos Ramirez |
+| 163 | 586 | Carlos Ramirez |
+| 164 | 586 | Latisha Davis |
 | 165 | 585 | Tracey Lehmann |
 | 166 | 584 | Carlton Unfiltered |
 | 167 | 576 | Jade Rian |
@@ -208,7 +208,7 @@
 | 200 | 513 | Zesty Twistbuilder |
 | 201 | 512 | Casey Jeffcoat |
 | 202 | 512 | ThaEviLJeNiuZ |
-| 203 | 512 | Casey Jeffcoat |
+| 203 | 512 | Ellen Durfee |
 | 204 | 509 | Mimi |
 | 205 | 507 | Andria Lynn |
 | 206 | 504 | Deanna Deckard |
@@ -225,8 +225,8 @@
 | 217 | 482 | Laura |
 | 218 | 481 | Joanna |
 | 219 | 475 | Silly Zonebuilder |
-| 220 | 473 | Cranky Rollpiece |
-| 221 | 473 | Jolly Dashfit |
+| 220 | 473 | Jolly Dashfit |
+| 221 | 473 | Cranky Rollpiece |
 | 222 | 468 | June Hoffman |
 | 223 | 465 | Leslie Thomas |
 | 224 | 464 | Zakia Monae |
@@ -326,8 +326,8 @@
 | 318 | 347 | Megan Cutshaw |
 | 319 | 346 | Metsfan |
 | 320 | 344 | Amanda Maciel Clarke |
-| 321 | 343 | Blessedmama |
-| 322 | 343 | HastyGrabber |
+| 321 | 343 | HastyGrabber |
+| 322 | 343 | Blessedmama |
 | 323 | 342 | Lauren Lamb |
 | 324 | 341 | Jason Bosco |
 | 325 | 340 | Juls |
@@ -353,8 +353,8 @@
 | 345 | 324 | Sarah Hoffman |
 | 346 | 324 | Vic |
 | 347 | 322 | Bryan Hodgins |
-| 348 | 321 | Sarah Brown |
-| 349 | 321 | Stacey Stano |
+| 348 | 321 | Stacey Stano |
+| 349 | 321 | Sarah Brown |
 | 350 | 320 | O block |
 | 351 | 320 | Alan Zukowski |
 | 352 | 319 | Michelle Morris |
@@ -363,8 +363,8 @@
 | 355 | 317 | Paito |
 | 356 | 317 | Madison Sweere |
 | 357 | 316 | Shukee Lo |
-| 358 | 315 | Ultramarine |
-| 359 | 315 | Glitzy Corner |
+| 358 | 315 | Glitzy Corner |
+| 359 | 315 | Ultramarine |
 | 360 | 315 | Maureen Flanigan |
 | 361 | 314 | Marcus TheeyoungWoe Gilmore |
 | 362 | 314 | Kenna Gunderland |
@@ -380,14 +380,14 @@
 | 372 | 306 | PeaceOs |
 | 373 | 305 | tipsy tiger |
 | 374 | 304 | Sarah Neathery |
-| 375 | 302 | Koral Hanke |
-| 376 | 302 | Jenna McGeorge |
-| 377 | 300 | Jason Frehner |
-| 378 | 300 | Carter Jones |
+| 375 | 302 | Jenna McGeorge |
+| 376 | 302 | Koral Hanke |
+| 377 | 300 | Carter Jones |
+| 378 | 300 | Jason Frehner |
 | 379 | 299 | Michael Snow |
 | 380 | 298 | Val Erie |
-| 381 | 297 | Brittany Marsh |
-| 382 | 297 | Allison Rose |
+| 381 | 297 | Allison Rose |
+| 382 | 297 | Brittany Marsh |
 | 383 | 296 | Dapper Frame |
 | 384 | 295 | Deb Rubeck |
 | 385 | 294 | Kevin Bush |
@@ -417,8 +417,8 @@
 | 409 | 281 | Tony Pavelka |
 | 410 | 280 | Chummy Towerzone |
 | 411 | 279 | Ziggy |
-| 412 | 278 | L Bear Champion |
-| 413 | 278 | Shainne Brewer |
+| 412 | 278 | Shainne Brewer |
+| 413 | 278 | L Bear Champion |
 | 414 | 277 | Maria Hammie |
 | 415 | 277 | Silly SeaWeed |
 | 416 | 276 | Dennis Bradley |
@@ -427,8 +427,8 @@
 | 419 | 273 | Lane Wasson |
 | 420 | 272 | ChuckBuck Copeland |
 | 421 | 271 | ImJustMe |
-| 422 | 270 | Stephme310 |
-| 423 | 270 | 07VHVW |
+| 422 | 270 | 07VHVW |
+| 423 | 270 | Stephme310 |
 | 424 | 268 | Sallie Sanborn |
 | 425 | 268 | Riverdale |
 | 426 | 267 | Hector Duran |

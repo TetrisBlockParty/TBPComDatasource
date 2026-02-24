@@ -133,8 +133,8 @@
 | 125 | 666 | Virginia Gray Floyd |
 | 126 | 652 | Evie Khalil |
 | 127 | 651 | Dandy Basegrid |
-| 128 | 650 | April Carroll |
-| 129 | 650 | Bob |
+| 128 | 650 | Bob |
+| 129 | 650 | April Carroll |
 | 130 | 647 | Theo Pinnow |
 | 131 | 643 | Erin Rosberg |
 | 132 | 642 | Mario Cab |
@@ -244,13 +244,13 @@
 | 236 | 424 | Lindsay Glover |
 | 237 | 423 | Howdi Duty |
 | 238 | 422 | Jamise Brown |
-| 239 | 421 | Letson Melissa |
-| 240 | 421 | Plucky Stacky |
+| 239 | 421 | Plucky Stacky |
+| 240 | 421 | Letson Melissa |
 | 241 | 420 | Jennifer Noe Chandler |
 | 242 | 419 | John J. Cronin |
 | 243 | 419 | Daring Fitclear |
-| 244 | 416 | Jessica Sheehan |
-| 245 | 416 | Larissa Marie Nelson |
+| 244 | 416 | Larissa Marie Nelson |
+| 245 | 416 | Jessica Sheehan |
 | 246 | 414 | Bird Person |
 | 247 | 412 | Sleepysloath5745 |
 | 248 | 410 | Paula Martin |
@@ -298,8 +298,8 @@
 | 290 | 371 | Cody Gates |
 | 291 | 370 | Gracie |
 | 292 | 369 | Keith Mathis |
-| 293 | 367 | Cheeky Pop |
-| 294 | 367 | April Jones |
+| 293 | 367 | April Jones |
+| 294 | 367 | Cheeky Pop |
 | 295 | 366 | J.F. Fields |
 | 296 | 365 | Amanda Holibaugh |
 | 297 | 365 | Shannon Marie Pitts |
@@ -338,9 +338,9 @@
 | 330 | 338 | Layzietyme |
 | 331 | 337 | Chaste Minor |
 | 332 | 336 | Sarah Roberts |
-| 333 | 335 | Rachel Nilles |
-| 334 | 335 | Glitzy Curvebuilder |
-| 335 | 335 | Dreamy Drop |
+| 333 | 335 | Dreamy Drop |
+| 334 | 335 | Rachel Nilles |
+| 335 | 335 | Glitzy Curvebuilder |
 | 336 | 334 | Nate Price |
 | 337 | 331 | Lisa Miller |
 | 338 | 330 | LaFontaine Leslie |
@@ -362,8 +362,8 @@
 | 354 | 322 | Hasty Columnbuilder |
 | 355 | 321 | LD1 |
 | 356 | 320 | Zany Tiler |
-| 357 | 319 | Fresno Beotoni |
-| 358 | 319 | Crystal Cheresnowsky |
+| 357 | 319 | Crystal Cheresnowsky |
+| 358 | 319 | Fresno Beotoni |
 | 359 | 317 | Amh |
 | 360 | 317 | Bloknboy |
 | 361 | 316 | Giggly Builderline |
@@ -751,7 +751,7 @@
 | 743 | 164 | Christina |
 | 744 | 164 | Paul Osborne |
 | 745 | 164 | William Touzin |
-| 746 | 164 | Paul Osborne |
+| 746 | 164 | Jordan Brooks |
 | 747 | 163 | Elizabeth Coover |
 | 748 | 162 | Piffy |
 | 749 | 162 | Jay Tressler |
