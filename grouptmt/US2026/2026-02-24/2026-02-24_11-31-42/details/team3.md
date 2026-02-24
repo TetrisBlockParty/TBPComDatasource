@@ -127,8 +127,8 @@
 | 119 | 1140 | Melissa Orth Hunter |
 | 120 | 1124 | Stephanie Rice |
 | 121 | 1121 | Corie A. Brinson |
-| 122 | 1114 | Groovy Catcher |
-| 123 | 1114 | Loopy Fallmatch |
+| 122 | 1114 | Loopy Fallmatch |
+| 123 | 1114 | Groovy Catcher |
 | 124 | 1105 | Adrian Marcel Pate |
 | 125 | 1101 | Valerie Gendron |
 | 126 | 1093 | Angela M. Fletcher |
@@ -270,13 +270,13 @@
 | 262 | 627 | Juliana Dottore |
 | 263 | 627 | Louise Stacy Sisson |
 | 264 | 626 | Cheryl Hinch Tenbrook |
-| 265 | 625 | Salena Whitlock |
-| 266 | 625 | Jacqueline Rodriguez |
+| 265 | 625 | Jacqueline Rodriguez |
+| 266 | 625 | Salena Whitlock |
 | 267 | 624 | Hyper Matchzone |
 | 268 | 623 | Giggy Glidepiece |
 | 269 | 619 | Swanky Snapclear |
-| 270 | 618 | Kaitie Oliver |
-| 271 | 618 | Rynne Ellis |
+| 270 | 618 | Rynne Ellis |
+| 271 | 618 | Kaitie Oliver |
 | 272 | 613 | Kaycee Kay |
 | 273 | 609 | Connie Mohler-Fair |
 | 274 | 608 | Noyb Adam |
@@ -792,8 +792,8 @@
 | 784 | 248 | Samantha Lohmeyer |
 | 785 | 248 | Amie Hendrickson |
 | 786 | 247 | Melanie Sherwood |
-| 787 | 247 | Barbara Bennett |
-| 788 | 247 | Jennifer Evans |
+| 787 | 247 | Jennifer Evans |
+| 788 | 247 | Barbara Bennett |
 | 789 | 247 | Taylor |
 | 790 | 246 | MomOnBreak |
 | 791 | 246 | Erica Anderson |
@@ -918,7 +918,7 @@
 | 910 | 216 | Heyska |
 | 911 | 216 | Timothy Troy Frazier |
 | 912 | 216 | Zaza Lewis |
-| 913 | 216 | Timothy Troy Frazier |
+| 913 | 216 | Peachy Rollfit |
 | 914 | 216 | Tabbi Wilson |
 | 915 | 215 | Agata Sawicka |
 | 916 | 215 | Anabela Ruiz |

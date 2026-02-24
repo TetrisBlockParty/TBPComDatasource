@@ -91,8 +91,8 @@
 | 83 | 973 | Francesca Gee |
 | 84 | 971 | Lexuriuos Lifestlye |
 | 85 | 961 | Jacqueline Williams |
-| 86 | 957 | Zippy Align |
-| 87 | 957 | Erin Hodges Plumb |
+| 86 | 957 | Erin Hodges Plumb |
+| 87 | 957 | Zippy Align |
 | 88 | 944 | Sweet Baker |
 | 89 | 920 | Tee Sheree |
 | 90 | 916 | Chirpy Smasher |
@@ -175,8 +175,8 @@
 | 167 | 553 | Flashy Rotator |
 | 168 | 551 | Loony Fitzone |
 | 169 | 549 | Jerry Danowski |
-| 170 | 548 | Stephanie Zahn |
-| 171 | 548 | Luciano Moreira |
+| 170 | 548 | Luciano Moreira |
+| 171 | 548 | Stephanie Zahn |
 | 172 | 547 | Sharon Reynolds |
 | 173 | 545 | .running. |
 | 174 | 543 | Nicole Roseberry Weber |
@@ -194,14 +194,14 @@
 | 186 | 519 | Cool Shiftsnap |
 | 187 | 517 | Eric DeSimone |
 | 188 | 514 | Mike Ames |
-| 189 | 513 | Colena Davenport |
-| 190 | 513 | Rebekah LeiAnn Bonsell |
+| 189 | 513 | Rebekah LeiAnn Bonsell |
+| 190 | 513 | Colena Davenport |
 | 191 | 511 | MomMom |
 | 192 | 510 | Rat666 |
 | 193 | 501 | Jessica Russell |
-| 194 | 497 | Daring Fitclear |
+| 194 | 497 | MIKOZ |
 | 195 | 497 | Steve Schneider |
-| 196 | 497 | MIKOZ |
+| 196 | 497 | Daring Fitclear |
 | 197 | 496 | Sarah Somers Gray |
 | 198 | 495 | Connie |
 | 199 | 494 | Sean Stallings |
@@ -472,10 +472,10 @@
 | 464 | 271 | Elizabeth Kubli |
 | 465 | 270 | Ariel Whittington |
 | 466 | 270 | Krie |
-| 467 | 270 | Ariel Whittington |
+| 467 | 270 | John Barron |
 | 468 | 269 | Ramona Shaver |
 | 469 | 268 | Ashley Adams |
-| 470 | 267 | Barry Mac'Ockner |
+| 470 | 267 | Mary Cerciello |
 | 471 | 267 | Dena Kayy |
 | 472 | 267 | Barry Mac'Ockner |
 | 473 | 266 | Angela Jones |

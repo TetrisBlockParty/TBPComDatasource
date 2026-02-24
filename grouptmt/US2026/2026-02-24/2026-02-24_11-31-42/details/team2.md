@@ -516,8 +516,8 @@
 | 508 | 974 | Jeremy Parodi |
 | 509 | 973 | Taryece Gause |
 | 510 | 972 | Angela Yantz |
-| 511 | 970 | Smashanator |
-| 512 | 970 | Iris Angelica Perez Cantos |
+| 511 | 970 | Iris Angelica Perez Cantos |
+| 512 | 970 | Smashanator |
 | 513 | 969 | Andrew Willis |
 | 514 | 969 | Shuany Arias |
 | 515 | 969 | Connie Jimenez |
@@ -808,15 +808,15 @@
 | 800 | 691 | Melissa Kay Gibson |
 | 801 | 690 | Lawanda Forbes |
 | 802 | 690 | Latasha Love |
-| 803 | 689 | Martina Gabrielle LaPolla |
-| 804 | 689 | SpaceCase085 |
+| 803 | 689 | SpaceCase085 |
+| 804 | 689 | Martina Gabrielle LaPolla |
 | 805 | 688 | Tracy Wise |
 | 806 | 688 | Newni Bayb |
 | 807 | 687 | Candy Pitts |
 | 808 | 686 | Christina Ashley |
 | 809 | 685 | Rose Fx |
-| 810 | 684 | Sleepypanda67 |
-| 811 | 684 | Atara James |
+| 810 | 684 | Atara James |
+| 811 | 684 | Sleepypanda67 |
 | 812 | 684 | Jazzy Clusterline |
 | 813 | 683 | Nicole Sanqui |
 | 814 | 683 | Audrey Jones |
@@ -965,8 +965,8 @@
 | 957 | 607 | Tipsy Filler |
 | 958 | 607 | Slip |
 | 959 | 607 | Lucero Ramirez |
-| 960 | 606 | Stanislav Petkov |
-| 961 | 606 | Ebony Deloach Bryant |
+| 960 | 606 | Ebony Deloach Bryant |
+| 961 | 606 | Stanislav Petkov |
 | 962 | 606 | cel505♡ |
 | 963 | 605 | Saucy Fitzone |
 | 964 | 605 | Klaudia Figaszewska |
