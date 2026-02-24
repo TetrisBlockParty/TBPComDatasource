@@ -282,8 +282,8 @@
 | 274 | 1480 | Dimitra Zazara |
 | 275 | 1479 | Pacynthia Williams |
 | 276 | 1478 | Misty Walker |
-| 277 | 1477 | Hillary Crawford |
-| 278 | 1477 | Prado |
+| 277 | 1477 | Prado |
+| 278 | 1477 | Hillary Crawford |
 | 279 | 1469 | Carrie Trigg |
 | 280 | 1466 | Shiny Twistfit |
 | 281 | 1463 | Yvonne Wharton |
@@ -346,8 +346,8 @@
 | 338 | 1304 | Sarah Ridenour |
 | 339 | 1303 | Michele Morgan |
 | 340 | 1301 | Mandy Cekine |
-| 341 | 1300 | Shinel Richardson |
-| 342 | 1300 | Tacara Cummings |
+| 341 | 1300 | Tacara Cummings |
+| 342 | 1300 | Shinel Richardson |
 | 343 | 1295 | Jess Morrison |
 | 344 | 1292 | Joshua Mandel |
 | 345 | 1290 | Kevin Sees |
@@ -592,8 +592,8 @@
 | 584 | 865 | Lilia Gomez |
 | 585 | 864 | Perky Rollfit |
 | 586 | 861 | Anthony |
-| 587 | 861 | Beth |
-| 588 | 861 | Shavonna Haynes |
+| 587 | 861 | Shavonna Haynes |
+| 588 | 861 | Beth |
 | 589 | 858 | Joshua Self |
 | 590 | 857 | Marella Petilo |
 | 591 | 854 | Dawn L Washington-Feuquay |
@@ -810,8 +810,8 @@
 | 802 | 686 | Timothy Robert |
 | 803 | 686 | Christina Ashley |
 | 804 | 685 | Rose Fx |
-| 805 | 684 | Atara James |
-| 806 | 684 | Sleepypanda67 |
+| 805 | 684 | Sleepypanda67 |
+| 806 | 684 | Atara James |
 | 807 | 684 | Jazzy Clusterline |
 | 808 | 683 | Nicole Sanqui |
 | 809 | 683 | Audrey Jones |
@@ -822,8 +822,8 @@
 | 814 | 680 | Stephanie Lafalce |
 | 815 | 680 | Paul Combs |
 | 816 | 679 | Cynthia Louann Rose |
-| 817 | 679 | Regina Knight |
-| 818 | 679 | Kassandra Hunt |
+| 817 | 679 | Kassandra Hunt |
+| 818 | 679 | Regina Knight |
 | 819 | 678 | Monique Foster |
 | 820 | 677 | Kayleigh Wisse |
 | 821 | 676 | Fancy Shiftsnap |
@@ -975,18 +975,18 @@
 | 967 | 599 | Crystal Heller Gonzalez |
 | 968 | 599 | Plucky Matchclear |
 | 969 | 599 | Groovy Tilefall |
-| 970 | 598 | Lucy Marshall |
-| 971 | 598 | Veronica Martin Trinkle |
+| 970 | 598 | Veronica Martin Trinkle |
+| 971 | 598 | Lucy Marshall |
 | 972 | 598 | Tiki |
 | 973 | 598 | Cosmo |
 | 974 | 597 | Mercedez Hubbard |
 | 975 | 595 | Crystal Hodge Love |
-| 976 | 595 | ElizabethAnn Dickinson |
-| 977 | 595 | Jessica Sutter |
+| 976 | 595 | Jessica Sutter |
+| 977 | 595 | ElizabethAnn Dickinson |
 | 978 | 595 | Sara Pennington |
-| 979 | 593 | Esther Hsu |
+| 979 | 593 | Carre Elizabeth Amanda |
 | 980 | 593 | Keila Adames |
-| 981 | 593 | Carre Elizabeth Amanda |
+| 981 | 593 | Esther Hsu |
 | 982 | 592 | Elizabeth Nieto |
 | 983 | 591 | Ahtavia Watkins |
 | 984 | 591 | Sandra McNab |
@@ -1059,21 +1059,21 @@
 | 1051 | 562 | Angie Winch |
 | 1052 | 561 | Jenelle Case |
 | 1053 | 560 | De Hawkins |
-| 1054 | 559 | Britney M. |
-| 1055 | 559 | Kaylee McCafferty |
+| 1054 | 559 | Kaylee McCafferty |
+| 1055 | 559 | Britney M. |
 | 1056 | 558 | Treshell Boyd |
 | 1057 | 558 | Byung Bae Park |
 | 1058 | 558 | Linda Miltenburg |
 | 1059 | 558 | David Scott |
 | 1060 | 557 | Marina Linda |
-| 1061 | 557 | Jason Garnatz |
-| 1062 | 557 | Bridgette Sargent |
+| 1061 | 557 | Bridgette Sargent |
+| 1062 | 557 | Jason Garnatz |
 | 1063 | 557 | Vivian De Souza |
 | 1064 | 556 | Kamilya Rembert |
 | 1065 | 555 | Noel Tarmy |
 | 1066 | 555 | Amy Roche |
-| 1067 | 554 | Cheery Puzzler |
-| 1068 | 554 | Hoppy Glidebuilder |
+| 1067 | 554 | Hoppy Glidebuilder |
+| 1068 | 554 | Cheery Puzzler |
 | 1069 | 554 | Asha Nichols-Collins |
 | 1070 | 554 | Dusti Rose Bingham |
 | 1071 | 553 | Sar Mo |
@@ -1165,10 +1165,10 @@
 | 1157 | 519 | gNiK |
 | 1158 | 519 | Bing |
 | 1159 | 518 | Darlene Bowman |
-| 1160 | 517 | Meganator42 |
-| 1161 | 517 | Rebecca Edmund |
-| 1162 | 515 | Brave Gridpiece |
-| 1163 | 515 | Chill Strike |
+| 1160 | 517 | Rebecca Edmund |
+| 1161 | 517 | Meganator42 |
+| 1162 | 515 | Chill Strike |
+| 1163 | 515 | Brave Gridpiece |
 | 1164 | 515 | Ashlyn Berner |
 | 1165 | 515 | Madysen Holt |
 | 1166 | 515 | Poppy |
@@ -1209,15 +1209,15 @@
 | 1201 | 498 | Epic Stackzone |
 | 1202 | 498 | Rolie Garcia |
 | 1203 | 498 | Drwatson187 |
-| 1204 | 497 | Mary Marie |
-| 1205 | 497 | June E Hanson |
+| 1204 | 497 | June E Hanson |
+| 1205 | 497 | Mary Marie |
 | 1206 | 497 | Stephanie Pitts |
 | 1207 | 497 | Bdubb |
 | 1208 | 496 | BlaqSupaMan |
 | 1209 | 496 | Ashlee Cruz |
 | 1210 | 496 | Lynda Toland |
-| 1211 | 495 | Dean Glenn |
-| 1212 | 495 | Cranky Tower |
+| 1211 | 495 | Cranky Tower |
+| 1212 | 495 | Dean Glenn |
 | 1213 | 495 | Ania |
 | 1214 | 495 | Brandon Jones |
 | 1215 | 494 | Niqua Rucker |

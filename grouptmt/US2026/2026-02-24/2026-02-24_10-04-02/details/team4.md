@@ -112,8 +112,8 @@
 | 104 | 834 | Brittney Orengo |
 | 105 | 818 | Lori Walker |
 | 106 | 815 | Diana Houts |
-| 107 | 813 | Klo |
-| 108 | 813 | Amy Suckarieh |
+| 107 | 813 | Amy Suckarieh |
+| 108 | 813 | Klo |
 | 109 | 811 | Sassy Pattern |
 | 110 | 806 | Zippy Gridlock |
 | 111 | 802 | Crystal Carroll |
@@ -135,8 +135,8 @@
 | 127 | 726 | Jamie Gustafson |
 | 128 | 725 | Brandon Crabbs |
 | 129 | 719 | George Nutt |
-| 130 | 712 | H.R. Block |
-| 131 | 712 | Leslie Nicole |
+| 130 | 712 | Leslie Nicole |
+| 131 | 712 | H.R. Block |
 | 132 | 708 | Jacqueline Helm |
 | 133 | 704 | Chilly Crasher |
 | 134 | 704 | Austin Owens |
@@ -144,8 +144,8 @@
 | 136 | 682 | Raegan Lane-Ross |
 | 137 | 668 | Desi Desporte |
 | 138 | 667 | Lindsey Gonzalez |
-| 139 | 667 | Matt Gooder |
-| 140 | 667 | Swanky Fitline |
+| 139 | 667 | Swanky Fitline |
+| 140 | 667 | Matt Gooder |
 | 141 | 662 | Nerdy Twisterfit |
 | 142 | 661 | shar |
 | 143 | 661 | Rodney McMath Jr. |
@@ -229,8 +229,8 @@
 | 221 | 481 | Joanna |
 | 222 | 479 | June Hoffman |
 | 223 | 475 | Silly Zonebuilder |
-| 224 | 473 | Cranky Rollpiece |
-| 225 | 473 | Jolly Dashfit |
+| 224 | 473 | Jolly Dashfit |
+| 225 | 473 | Cranky Rollpiece |
 | 226 | 472 | Plucky Patternblock |
 | 227 | 465 | Leslie Thomas |
 | 228 | 464 | Calvin Cannon |
@@ -247,8 +247,8 @@
 | 239 | 454 | Keshia Lyons |
 | 240 | 450 | Genne Scott |
 | 241 | 449 | Danielle Kollias |
-| 242 | 448 | Mr. Party |
-| 243 | 448 | Mike Solo |
+| 242 | 448 | Mike Solo |
+| 243 | 448 | Mr. Party |
 | 244 | 447 | Jen Mattei |
 | 245 | 446 | Damn Libra |
 | 246 | 444 | Selena Shaw |
@@ -272,15 +272,15 @@
 | 264 | 413 | Rio Rocha |
 | 265 | 411 | Autumn Kumzi |
 | 266 | 410 | Lindsay Ball |
-| 267 | 409 | Joseph Guthrie |
-| 268 | 409 | Antony Dwayne Beasley |
-| 269 | 408 | Lauren Scott |
-| 270 | 408 | Dihcheese444 |
-| 271 | 407 | Hyper Builder |
-| 272 | 407 | Rafael Valentin |
+| 267 | 409 | Antony Dwayne Beasley |
+| 268 | 409 | Joseph Guthrie |
+| 269 | 408 | Dihcheese444 |
+| 270 | 408 | Lauren Scott |
+| 271 | 407 | Rafael Valentin |
+| 272 | 407 | Hyper Builder |
 | 273 | 402 | Nita Wells |
-| 274 | 399 | Twisty Cascadezone |
-| 275 | 399 | Brittany Little |
+| 274 | 399 | Brittany Little |
+| 275 | 399 | Twisty Cascadezone |
 | 276 | 398 | Tyler Terrific |
 | 277 | 397 | blockstar |
 | 278 | 395 | Denise B |
@@ -353,8 +353,8 @@
 | 345 | 330 | Duck |
 | 346 | 329 | AyeKay |
 | 347 | 329 | Meagan Nicole |
-| 348 | 328 | Heather Bruce |
-| 349 | 328 | Leah Kutz Zirbel |
+| 348 | 328 | Leah Kutz Zirbel |
+| 349 | 328 | Heather Bruce |
 | 350 | 327 | Jessica Petersen |
 | 351 | 327 | Jim Hart |
 | 352 | 325 | Cool Gridzone |
@@ -1198,7 +1198,7 @@
 | 1190 | 75 | Tarina Berner |
 | 1191 | 75 | unrewound |
 | 1192 | 75 | Jason Goldstein |
-| 1193 | 74 | Mark Morgan |
+| 1193 | 74 | Baleria Ruedas Pantoja |
 | 1194 | 74 | Kevin L Cafleux |
 | 1195 | 74 | Mark Morgan |
 | 1196 | 73 | Rachel Nicole |

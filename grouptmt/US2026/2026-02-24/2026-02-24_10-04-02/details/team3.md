@@ -111,8 +111,8 @@
 | 103 | 1309 | yoyo |
 | 104 | 1297 | Shelby Michelle |
 | 105 | 1290 | JerseyJess |
-| 106 | 1282 | Amanda L Baker |
-| 107 | 1282 | Peppy Shifter |
+| 106 | 1282 | Peppy Shifter |
+| 107 | 1282 | Amanda L Baker |
 | 108 | 1276 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1248 | Lori Barnaby |
@@ -207,8 +207,8 @@
 | 199 | 785 | Jeni Dow |
 | 200 | 784 | Jone |
 | 201 | 777 | Daryn Elliott |
-| 202 | 774 | Twisty Brick LT |
-| 203 | 774 | ren |
+| 202 | 774 | ren |
+| 203 | 774 | Twisty Brick LT |
 | 204 | 772 | Hasty Cascadefit |
 | 205 | 771 | Cyd061769 |
 | 206 | 766 | Tasha Gillespie |
@@ -231,8 +231,8 @@
 | 223 | 715 | Karon Griffin |
 | 224 | 714 | Jenny Hrndz |
 | 225 | 713 | Stephanie Blkpep Davidson |
-| 226 | 709 | Cynthia Castros-Hampton |
-| 227 | 709 | Christine Niles |
+| 226 | 709 | Christine Niles |
+| 227 | 709 | Cynthia Castros-Hampton |
 | 228 | 708 | Stephanie Bradley |
 | 229 | 704 | Betty Bóò |
 | 230 | 703 | Shawn Miller |
@@ -290,8 +290,8 @@
 | 282 | 582 | FuzzyNavel |
 | 283 | 581 | Crystal Hine |
 | 284 | 578 | James Mitchell |
-| 285 | 574 | Rachael McClain Owens |
-| 286 | 574 | Danielle Balcom |
+| 285 | 574 | Danielle Balcom |
+| 286 | 574 | Rachael McClain Owens |
 | 287 | 572 | Tessina Dewey-Mancino |
 | 288 | 570 | thekey |
 | 289 | 569 | Gray Hicks |
@@ -324,8 +324,8 @@
 | 316 | 523 | Ktfreeee |
 | 317 | 518 | Marquita Sheard |
 | 318 | 514 | Nikki White |
-| 319 | 506 | Ammmmmmy |
-| 320 | 506 | Tiffanie Alley |
+| 319 | 506 | Tiffanie Alley |
+| 320 | 506 | Ammmmmmy |
 | 321 | 505 | Stephanie Simpson |
 | 322 | 504 | Daring Builder |
 | 323 | 500 | Ashley Tookes |
@@ -343,8 +343,8 @@
 | 335 | 486 | Sleepy |
 | 336 | 483 | Tegan Chapman |
 | 337 | 482 | Chummy Rumbler |
-| 338 | 480 | Dee Franklin |
-| 339 | 480 | TLM |
+| 338 | 480 | TLM |
+| 339 | 480 | Dee Franklin |
 | 340 | 479 | Charles Perrone |
 | 341 | 476 | Shunta Jacobs |
 | 342 | 476 | Stefanie LaPointe |
@@ -420,16 +420,16 @@
 | 412 | 404 | Giggy Balanceblock |
 | 413 | 403 | Scott Lindsay |
 | 414 | 403 | keni |
-| 415 | 401 | Velma Mull |
-| 416 | 401 | block chick |
+| 415 | 401 | block chick |
+| 416 | 401 | Velma Mull |
 | 417 | 400 | Joy Petroski |
 | 418 | 398 | Breezy Roll |
 | 419 | 397 | Kevin Russell |
 | 420 | 394 | Jalissa Monique |
-| 421 | 392 | Michelle Allers |
-| 422 | 392 | Linda Draper |
-| 423 | 391 | Rebel124 |
-| 424 | 391 | gremicx |
+| 421 | 392 | Linda Draper |
+| 422 | 392 | Michelle Allers |
+| 423 | 391 | gremicx |
+| 424 | 391 | Rebel124 |
 | 425 | 390 | ROODBOY |
 | 426 | 389 | Kirhonda Autmon |
 | 427 | 389 | Amanda J. Mcneil-Anderson |
@@ -438,12 +438,12 @@
 | 430 | 384 | Tiffany Davie |
 | 431 | 383 | Jessica Christian |
 | 432 | 383 | Amber Glover |
-| 433 | 382 | Theresa Opell Gartner |
-| 434 | 382 | Katheline Lazo Luizaga |
+| 433 | 382 | Katheline Lazo Luizaga |
+| 434 | 382 | Theresa Opell Gartner |
 | 435 | 382 | Amanda Martinez |
 | 436 | 381 | Mary Giorgenti |
-| 437 | 380 | Foltz Lee Kelli |
-| 438 | 380 | neci |
+| 437 | 380 | neci |
+| 438 | 380 | Foltz Lee Kelli |
 | 439 | 379 | Krish Shah |
 | 440 | 378 | Samantha Worley |
 | 441 | 378 | Ashley Lynn Marchese |
@@ -531,10 +531,10 @@
 | 523 | 333 | Heather Ferrara |
 | 524 | 333 | Hyper Wipeout |
 | 525 | 332 | Clever Edgepiece |
-| 526 | 331 | Amanda Declue |
-| 527 | 331 | Wettnippz |
-| 528 | 330 | Willow |
-| 529 | 330 | Emma |
+| 526 | 331 | Wettnippz |
+| 527 | 331 | Amanda Declue |
+| 528 | 330 | Emma |
+| 529 | 330 | Willow |
 | 530 | 329 | Krystal Gerstberger |
 | 531 | 329 | Fredd Thomas |
 | 532 | 329 | Bree Sexton |
@@ -1425,8 +1425,8 @@
 | 1417 | 132 | Kenny Smith |
 | 1418 | 132 | Destiny |
 | 1419 | 131 | Crystal Weaver |
-| 1420 | 131 | Lynnie |
-| 1421 | 131 | Susan Ray Lewis |
+| 1420 | 131 | Susan Ray Lewis |
+| 1421 | 131 | Lynnie |
 | 1422 | 131 | Terry Perez |
 | 1423 | 130 | Milly Rivera |
 | 1424 | 130 | Twisty Twistfit |
