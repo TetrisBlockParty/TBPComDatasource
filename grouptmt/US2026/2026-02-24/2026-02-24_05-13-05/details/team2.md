@@ -659,7 +659,7 @@
 | 651 | 753 | John Jubes |
 | 652 | 751 | Swanky Strikerpiece |
 | 653 | 751 | Tom Riefer |
-| 654 | 750 | Lisa Reynolds |
+| 654 | 750 | Samie Dayle |
 | 655 | 750 | Prette Qui |
 | 656 | 750 | Lisa Reynolds |
 | 657 | 749 | ToxicTrash |

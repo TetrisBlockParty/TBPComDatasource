@@ -201,9 +201,9 @@
 | 193 | 772 | Tye Stovall |
 | 194 | 769 | Hasty Cascadefit |
 | 195 | 768 | Cyd061769 |
-| 196 | 763 | Patricia White |
-| 197 | 763 | Khaleada McGill Banks |
-| 198 | 763 | Tasha Gillespie |
+| 196 | 763 | Tasha Gillespie |
+| 197 | 763 | Patricia White |
+| 198 | 763 | Khaleada McGill Banks |
 | 199 | 760 | Kiki |
 | 200 | 757 | Fancy Cascader |
 | 201 | 755 | Laura Booth Wosko |
@@ -398,7 +398,7 @@
 | 390 | 407 | Stephanie Burtin |
 | 391 | 405 | fraulila |
 | 392 | 405 | Andrew Thorson |
-| 393 | 405 | fraulila |
+| 393 | 405 | Skinny Baldez |
 | 394 | 404 | Giggy Balanceblock |
 | 395 | 403 | Scott Lindsay |
 | 396 | 401 | block chick |

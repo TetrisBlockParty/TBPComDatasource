@@ -155,10 +155,10 @@
 | 147 | 615 | Kim Hunt |
 | 148 | 608 | Swanky Fitline |
 | 149 | 602 | Cristy Duerksen |
-| 150 | 599 | Adam Stephanie Parker |
-| 151 | 599 | shar |
-| 152 | 595 | Rodney McMath Jr. |
-| 153 | 595 | TRCuse |
+| 150 | 599 | shar |
+| 151 | 599 | Adam Stephanie Parker |
+| 152 | 595 | TRCuse |
+| 153 | 595 | Rodney McMath Jr. |
 | 154 | 587 | YoMomma |
 | 155 | 586 | Carlos Ramirez |
 | 156 | 586 | Angela Srubar-Norman |
@@ -199,8 +199,8 @@
 | 191 | 512 | Ellen Durfee |
 | 192 | 512 | ThaEviLJeNiuZ |
 | 193 | 509 | Mimi |
-| 194 | 508 | Milan Markeisha |
-| 195 | 508 | Zesty Twistbuilder |
+| 194 | 508 | Zesty Twistbuilder |
+| 195 | 508 | Milan Markeisha |
 | 196 | 507 | Andria Lynn |
 | 197 | 504 | Deanna Deckard |
 | 198 | 502 | Christina Black |

@@ -211,8 +211,8 @@
 | 203 | 457 | Lori Bales |
 | 204 | 453 | Kimmie Kimms |
 | 205 | 448 | Yvonne Marie |
-| 206 | 446 | SkipTheSadSauce |
-| 207 | 446 | Spencer Lent |
+| 206 | 446 | Spencer Lent |
+| 207 | 446 | SkipTheSadSauce |
 | 208 | 442 | Reesey Enyart |
 | 209 | 441 | Kimberly Garcia |
 | 210 | 439 | David Miller |
