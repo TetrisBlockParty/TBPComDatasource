@@ -491,8 +491,8 @@
 | 483 | 255 | Adan Reyes |
 | 484 | 254 | Kipoi |
 | 485 | 252 | Angela Dawn Torres-Tarrants |
-| 486 | 251 | Randy Broadwater |
-| 487 | 251 | MRdot Rooski |
+| 486 | 251 | MRdot Rooski |
+| 487 | 251 | Randy Broadwater |
 | 488 | 250 | Emmarieta Mendez |
 | 489 | 249 | Mary Cerciello |
 | 490 | 249 | Toni Sagenbrecht |
@@ -613,8 +613,8 @@
 | 605 | 205 | Davery Spencer Adair |
 | 606 | 205 | Sam Rosado |
 | 607 | 204 | Jill King Oldham |
-| 608 | 203 | MelSavage |
-| 609 | 203 | Ashley Rodriguez |
+| 608 | 203 | Ashley Rodriguez |
+| 609 | 203 | MelSavage |
 | 610 | 202 | grizzly |
 | 611 | 201 | Hector Cruz |
 | 612 | 200 | Tina Sinclair |
@@ -751,7 +751,7 @@
 | 743 | 164 | William Touzin |
 | 744 | 164 | Christina |
 | 745 | 164 | Paul Osborne |
-| 746 | 164 | Christina |
+| 746 | 164 | Jordan Brooks |
 | 747 | 163 | Elizabeth Coover |
 | 748 | 162 | Jay Tressler |
 | 749 | 162 | Lucinda Thacker |

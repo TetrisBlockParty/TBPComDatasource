@@ -104,8 +104,8 @@
 | 96 | 1361 | Patricia Gadsden |
 | 97 | 1343 | Joey Banks |
 | 98 | 1320 | Kristie |
-| 99 | 1318 | Tiff Vs Tiffany |
-| 100 | 1318 | Diana Ibarra |
+| 99 | 1318 | Diana Ibarra |
+| 100 | 1318 | Tiff Vs Tiffany |
 | 101 | 1309 | yoyo |
 | 102 | 1297 | Shelby Michelle |
 | 103 | 1290 | JerseyJess |
@@ -172,16 +172,16 @@
 | 164 | 875 | Chasity |
 | 165 | 874 | Jessica Pineda-Lopez |
 | 166 | 871 | Rochelle Hazelett |
-| 167 | 868 | Nicole Flippo |
-| 168 | 868 | Cranky Gridder |
+| 167 | 868 | Cranky Gridder |
+| 168 | 868 | Nicole Flippo |
 | 169 | 866 | Domo Washington |
 | 170 | 864 | Sunny Rotater |
 | 171 | 862 | Santeria Trece Candles |
 | 172 | 857 | Dana Fox |
 | 173 | 856 | Dana Winters |
 | 174 | 854 | Speedy Bridger |
-| 175 | 847 | Daira Largen |
-| 176 | 847 | Daring Brickzone |
+| 175 | 847 | Daring Brickzone |
+| 176 | 847 | Daira Largen |
 | 177 | 846 | Nicole Myers |
 | 178 | 845 | Edwin Calvillo Jr. |
 | 179 | 842 | Tye Stovall |
@@ -213,8 +213,8 @@
 | 205 | 760 | Kiki |
 | 206 | 759 | Mykal Burton |
 | 207 | 757 | Fancy Cascader |
-| 208 | 755 | Colton |
-| 209 | 755 | Laura Booth Wosko |
+| 208 | 755 | Laura Booth Wosko |
+| 209 | 755 | Colton |
 | 210 | 753 | Morgan Martinez |
 | 211 | 752 | Joye Sims Binion |
 | 212 | 750 | Michael Nowogorski |
@@ -228,8 +228,8 @@
 | 220 | 715 | Karon Griffin |
 | 221 | 714 | Jenny Hrndz |
 | 222 | 713 | Stephanie Blkpep Davidson |
-| 223 | 709 | Cynthia Castros-Hampton |
-| 224 | 709 | Christine Niles |
+| 223 | 709 | Christine Niles |
+| 224 | 709 | Cynthia Castros-Hampton |
 | 225 | 708 | Stephanie Bradley |
 | 226 | 703 | Shawn Miller |
 | 227 | 691 | Tia |
@@ -420,8 +420,8 @@
 | 412 | 393 | keni |
 | 413 | 392 | Linda Draper |
 | 414 | 392 | Michelle Allers |
-| 415 | 391 | Rebel124 |
-| 416 | 391 | gremicx |
+| 415 | 391 | gremicx |
+| 416 | 391 | Rebel124 |
 | 417 | 390 | ROODBOY |
 | 418 | 389 | Kirhonda Autmon |
 | 419 | 389 | Amanda J. Mcneil-Anderson |

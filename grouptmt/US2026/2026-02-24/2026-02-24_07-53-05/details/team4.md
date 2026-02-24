@@ -100,8 +100,8 @@
 | 92 | 878 | Lucille Truesdale |
 | 93 | 873 | Courtney Cicoria |
 | 94 | 869 | Judy Cox |
-| 95 | 864 | Samantha Peterson |
-| 96 | 864 | Guy Incognito |
+| 95 | 864 | Guy Incognito |
+| 96 | 864 | Samantha Peterson |
 | 97 | 854 | Shauna Havard |
 | 98 | 851 | Jason Hart |
 | 99 | 846 | Christine Marie |
@@ -268,9 +268,9 @@
 | 260 | 411 | TinyLegoRose |
 | 261 | 411 | Autumn Kumzi |
 | 262 | 410 | Lindsay Ball |
-| 263 | 409 | Bio Nelly |
-| 264 | 409 | Antony Dwayne Beasley |
-| 265 | 409 | Joseph Guthrie |
+| 263 | 409 | Antony Dwayne Beasley |
+| 264 | 409 | Joseph Guthrie |
+| 265 | 409 | Bio Nelly |
 | 266 | 408 | Lauren Scott |
 | 267 | 408 | Dihcheese444 |
 | 268 | 407 | Hyper Builder |
@@ -301,8 +301,8 @@
 | 293 | 375 | George Tzouganos |
 | 294 | 373 | Russ Attitude |
 | 295 | 371 | Jessi Cinotto |
-| 296 | 370 | Twisty Risebuilder |
-| 297 | 370 | Kris Bartlett |
+| 296 | 370 | Kris Bartlett |
+| 297 | 370 | Twisty Risebuilder |
 | 298 | 368 | Dan Wold |
 | 299 | 367 | Meg |
 | 300 | 365 | David Lay |
@@ -363,7 +363,7 @@
 | 355 | 317 | Kim Klutz Olson |
 | 356 | 317 | Madison Sweere |
 | 357 | 316 | Shukee Lo |
-| 358 | 315 | Ultramarine |
+| 358 | 315 | Maureen Flanigan |
 | 359 | 315 | Glitzy Corner |
 | 360 | 315 | Ultramarine |
 | 361 | 314 | Paige Kittles |
@@ -440,9 +440,9 @@
 | 432 | 264 | Chantilly Laace |
 | 433 | 264 | Shh |
 | 434 | 263 | Laurmarcar |
-| 435 | 262 | Walter Beltran |
-| 436 | 262 | Ruben Wheeler |
-| 437 | 262 | Lilya Troutman |
+| 435 | 262 | Ruben Wheeler |
+| 436 | 262 | Lilya Troutman |
+| 437 | 262 | Walter Beltran |
 | 438 | 261 | Jen Hallin |
 | 439 | 261 | Laura McPheeters |
 | 440 | 260 | PennyCandee |
@@ -450,8 +450,8 @@
 | 442 | 260 | Dustin York |
 | 443 | 258 | Ashlee Carnes |
 | 444 | 258 | April Spoelma |
-| 445 | 257 | Laurel Coppess |
-| 446 | 257 | ThriftySpice |
+| 445 | 257 | ThriftySpice |
+| 446 | 257 | Laurel Coppess |
 | 447 | 256 | bloat princess |
 | 448 | 256 | Candice Carasiti |
 | 449 | 255 | Red |

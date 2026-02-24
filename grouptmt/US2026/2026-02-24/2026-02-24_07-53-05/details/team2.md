@@ -430,8 +430,8 @@
 | 422 | 1088 | BK Queen |
 | 423 | 1087 | Jenn Marie |
 | 424 | 1087 | Cindy Sechler Taninecz |
-| 425 | 1085 | Barbra Miller |
-| 426 | 1085 | Bee |
+| 425 | 1085 | Bee |
+| 426 | 1085 | Barbra Miller |
 | 427 | 1084 | William Hunt |
 | 428 | 1084 | Emilee Burke |
 | 429 | 1080 | Jennifer Monroe Kelly |
@@ -968,13 +968,13 @@
 | 960 | 595 | Sara Pennington |
 | 961 | 593 | Carre Elizabeth Amanda |
 | 962 | 593 | Keila Adames |
-| 963 | 591 | Quinn |
+| 963 | 591 | Ahtavia Watkins |
 | 964 | 591 | Mrs. New |
-| 965 | 591 | Ahtavia Watkins |
+| 965 | 591 | Quinn |
 | 966 | 590 | NickyBrooks |
 | 967 | 589 | Adrian Benitez |
-| 968 | 589 | Kelly Templeton |
-| 969 | 589 | Sharon Madeiros |
+| 968 | 589 | Sharon Madeiros |
+| 969 | 589 | Kelly Templeton |
 | 970 | 588 | Wayne Fields |
 | 971 | 587 | Alexx Anaya |
 | 972 | 586 | Cat Thompson |
@@ -1009,7 +1009,7 @@
 | 1001 | 575 | Vung Nguyen |
 | 1002 | 574 | Chris Emanuel |
 | 1003 | 574 | Shyenn Gadsby |
-| 1004 | 574 | Chris Emanuel |
+| 1004 | 574 | Shannon Gerbis |
 | 1005 | 573 | Vaniel Glover |
 | 1006 | 573 | Christina Burns |
 | 1007 | 572 | Mercedez Hubbard |
