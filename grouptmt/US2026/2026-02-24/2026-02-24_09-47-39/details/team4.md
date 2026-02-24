@@ -143,9 +143,9 @@
 | 135 | 687 | Carmethia Clemons Haslerig |
 | 136 | 682 | Raegan Lane-Ross |
 | 137 | 668 | Desi Desporte |
-| 138 | 667 | Swanky Fitline |
+| 138 | 667 | Lindsey Gonzalez |
 | 139 | 667 | Matt Gooder |
-| 140 | 667 | Lindsey Gonzalez |
+| 140 | 667 | Swanky Fitline |
 | 141 | 662 | Nerdy Twisterfit |
 | 142 | 661 | Rodney McMath Jr. |
 | 143 | 661 | shar |
@@ -184,8 +184,8 @@
 | 176 | 561 | Steph Marie |
 | 177 | 560 | Chastity Mitchell |
 | 178 | 558 | Marie-Pier Desjardins |
-| 179 | 552 | Circuit8 |
-| 180 | 552 | Angel Raya |
+| 179 | 552 | Angel Raya |
+| 180 | 552 | Circuit8 |
 | 181 | 550 | James Hurley Jr. |
 | 182 | 549 | Cool Towerbuilder |
 | 183 | 546 | Dizzy Tiley |
@@ -195,9 +195,9 @@
 | 187 | 536 | JPW |
 | 188 | 535 | Berklie Apedaile |
 | 189 | 534 | Lucas J Sutton |
-| 190 | 532 | Matt Summer |
-| 191 | 532 | Alan George LaRage |
-| 192 | 532 | Carly Alexis |
+| 190 | 532 | Alan George LaRage |
+| 191 | 532 | Carly Alexis |
+| 192 | 532 | Matt Summer |
 | 193 | 528 | Erin Sabol |
 | 194 | 525 | 🥔🥔 Spudz |
 | 195 | 520 | Zippy Block |
@@ -213,8 +213,8 @@
 | 205 | 509 | Mimi |
 | 206 | 507 | Andria Lynn |
 | 207 | 504 | Deanna Deckard |
-| 208 | 502 | Christina Black |
-| 209 | 502 | Ericca Eldridge |
+| 208 | 502 | Ericca Eldridge |
+| 209 | 502 | Christina Black |
 | 210 | 501 | Sharyn Lemire |
 | 211 | 499 | DonMega |
 | 212 | 499 | Kesha Brady |
@@ -229,12 +229,12 @@
 | 221 | 481 | Joanna |
 | 222 | 479 | June Hoffman |
 | 223 | 475 | Silly Zonebuilder |
-| 224 | 473 | Jolly Dashfit |
-| 225 | 473 | Cranky Rollpiece |
+| 224 | 473 | Cranky Rollpiece |
+| 225 | 473 | Jolly Dashfit |
 | 226 | 472 | Plucky Patternblock |
 | 227 | 465 | Leslie Thomas |
-| 228 | 464 | Calvin Cannon |
-| 229 | 464 | Zakia Monae |
+| 228 | 464 | Zakia Monae |
+| 229 | 464 | Calvin Cannon |
 | 230 | 463 | shark tato |
 | 231 | 462 | Crystal Nicolette Moore |
 | 232 | 460 | Kathy Brookins |
@@ -276,8 +276,8 @@
 | 268 | 409 | Joseph Guthrie |
 | 269 | 408 | Lauren Scott |
 | 270 | 408 | Dihcheese444 |
-| 271 | 407 | Rafael Valentin |
-| 272 | 407 | Hyper Builder |
+| 271 | 407 | Hyper Builder |
+| 272 | 407 | Rafael Valentin |
 | 273 | 402 | Nita Wells |
 | 274 | 399 | Brittany Little |
 | 275 | 399 | Twisty Cascadezone |
@@ -505,8 +505,8 @@
 | 497 | 241 | Katherine Crane |
 | 498 | 240 | Zany Shatterer |
 | 499 | 240 | Orchislactea |
-| 500 | 239 | Krash |
-| 501 | 239 | Christina Nabrizny |
+| 500 | 239 | Christina Nabrizny |
+| 501 | 239 | Krash |
 | 502 | 238 | Mary Miller |
 | 503 | 238 | 中山成巳 |
 | 504 | 237 | Courtney Halleck |
