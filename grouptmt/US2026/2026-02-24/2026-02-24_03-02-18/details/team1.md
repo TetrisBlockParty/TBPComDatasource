@@ -190,8 +190,8 @@
 | 182 | 488 | Hyper |
 | 183 | 487 | Eric DeSimone |
 | 184 | 482 | Ly Phethmany |
-| 185 | 479 | canbrick |
-| 186 | 479 | Snappy Matcher |
+| 185 | 479 | Snappy Matcher |
+| 186 | 479 | canbrick |
 | 187 | 478 | Jumpy Dropper |
 | 188 | 475 | Steve Schneider |
 | 189 | 473 | Chuck Gannon |
@@ -211,8 +211,8 @@
 | 203 | 439 | Witty Builderfit |
 | 204 | 439 | David Miller |
 | 205 | 433 | Mike Ames |
-| 206 | 432 | Lori Bales |
-| 207 | 432 | Brian Spotts |
+| 206 | 432 | Brian Spotts |
+| 207 | 432 | Lori Bales |
 | 208 | 431 | Shiny Snapfit |
 | 209 | 429 | Tana |
 | 210 | 427 | Jessie Welch |
@@ -251,18 +251,18 @@
 | 243 | 386 | Melissa Bires Hussar |
 | 244 | 385 | Bob |
 | 245 | 384 | Tami Luce Martin |
-| 246 | 383 | Margo Wagner |
-| 247 | 383 | Jen Nystrom |
+| 246 | 383 | Jen Nystrom |
+| 247 | 383 | Margo Wagner |
 | 248 | 383 | pjbeta |
-| 249 | 382 | Angela Renea Lester |
-| 250 | 382 | David Lutcher |
+| 249 | 382 | David Lutcher |
+| 250 | 382 | Angela Renea Lester |
 | 251 | 381 | Alenoush Karimian |
 | 252 | 380 | Snippy Wipebuilder |
 | 253 | 379 | Austin James |
 | 254 | 377 | GATOR |
-| 255 | 376 | Brian Richardsson |
-| 256 | 376 | Sassy Builderline |
-| 257 | 376 | Billie Ann Eason |
+| 255 | 376 | Billie Ann Eason |
+| 256 | 376 | Brian Richardsson |
+| 257 | 376 | Sassy Builderline |
 | 258 | 375 | DaRascal |
 | 259 | 374 | Snappy Brickbuilder |
 | 260 | 373 | Frothy Pattern |
@@ -428,9 +428,9 @@
 | 420 | 263 | John Ramirez |
 | 421 | 263 | Ed Franz Jr |
 | 422 | 261 | Angela Fairbank |
-| 423 | 260 | Lacy Wolfe |
-| 424 | 260 | Debbie Davis |
-| 425 | 260 | Silly Align |
+| 423 | 260 | Debbie Davis |
+| 424 | 260 | Silly Align |
+| 425 | 260 | Lacy Wolfe |
 | 426 | 259 | Tiffany Smith |
 | 427 | 258 | Tedashi |
 | 428 | 258 | Gary Gobin |

@@ -333,8 +333,8 @@
 | 325 | 1228 | Mama T |
 | 326 | 1227 | Rebecca Miller |
 | 327 | 1225 | RAEPR05 |
-| 328 | 1222 | Ashle Scranton |
-| 329 | 1222 | Nuke Morris |
+| 328 | 1222 | Nuke Morris |
+| 329 | 1222 | Ashle Scranton |
 | 330 | 1222 | Kristin Gower |
 | 331 | 1218 | LaKisha Anderson |
 | 332 | 1217 | Brooks Brooks |

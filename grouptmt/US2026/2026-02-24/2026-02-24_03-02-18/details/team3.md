@@ -296,8 +296,8 @@
 | 288 | 517 | PrncssPJ |
 | 289 | 516 | Rebecca Funderburk Kirby |
 | 290 | 511 | Marci Mize Fandrich |
-| 291 | 508 | Colton |
-| 292 | 508 | joz |
+| 291 | 508 | joz |
+| 292 | 508 | Colton |
 | 293 | 506 | Ammmmmmy |
 | 294 | 505 | Stephanie Simpson |
 | 295 | 505 | Kellie Montgomery |
@@ -363,7 +363,7 @@
 | 355 | 418 | Heather Davis |
 | 356 | 416 | Tay |
 | 357 | 416 | Ava Petito |
-| 358 | 414 | Arden White Kirsch |
+| 358 | 414 | RickyG |
 | 359 | 414 | Kaitie Oliver |
 | 360 | 414 | Arden White Kirsch |
 | 361 | 411 | Steffi Chris Dacones |

@@ -68,8 +68,8 @@
 | 60 | 1106 | Ashley Ingram |
 | 61 | 1098 | BertMofo |
 | 62 | 1089 | Alyssa Papen |
-| 63 | 1082 | Avy Absol |
-| 64 | 1082 | Dion Crommarty |
+| 63 | 1082 | Dion Crommarty |
+| 64 | 1082 | Avy Absol |
 | 65 | 1075 | Dustee Craddock-Harrison |
 | 66 | 1064 | Heather Tushner |
 | 67 | 1047 | Julian Garcia |
@@ -233,8 +233,8 @@
 | 225 | 438 | Melvin Baird |
 | 226 | 436 | Selena Shaw |
 | 227 | 434 | Ramel Rhodes |
-| 228 | 433 | Circuit8 |
-| 229 | 433 | Damn Libra |
+| 228 | 433 | Damn Libra |
+| 229 | 433 | Circuit8 |
 | 230 | 431 | Manny1 |
 | 231 | 430 | Plucky Patternblock |
 | 232 | 427 | Chao Ma |
@@ -248,8 +248,8 @@
 | 240 | 413 | Jeff Brian Gates |
 | 241 | 411 | Autumn Kumzi |
 | 242 | 410 | Lindsay Ball |
-| 243 | 409 | Antony Dwayne Beasley |
-| 244 | 409 | Joseph Guthrie |
+| 243 | 409 | Joseph Guthrie |
+| 244 | 409 | Antony Dwayne Beasley |
 | 245 | 408 | Lauren Scott |
 | 246 | 406 | TinyLegoRose |
 | 247 | 406 | scott |
@@ -419,8 +419,8 @@
 | 411 | 259 | Allen Lloyd |
 | 412 | 259 | Ultramarine |
 | 413 | 258 | Val Erie |
-| 414 | 258 | PennyCandee |
-| 415 | 258 | April Spoelma |
+| 414 | 258 | April Spoelma |
+| 415 | 258 | PennyCandee |
 | 416 | 257 | Dustin York |
 | 417 | 256 | Candice Carasiti |
 | 418 | 256 | Gracie Ann Taylor |
