@@ -211,8 +211,8 @@
 | 203 | 488 | Mike Ames |
 | 204 | 482 | Adele Rahman |
 | 205 | 479 | canbrick |
-| 206 | 478 | Jumpy Dropper |
-| 207 | 478 | Hasty Cascader |
+| 206 | 478 | Hasty Cascader |
+| 207 | 478 | Jumpy Dropper |
 | 208 | 477 | Dizzy Slider |
 | 209 | 475 | Reesey Enyart |
 | 210 | 473 | Tamara Brown |
@@ -266,8 +266,8 @@
 | 258 | 403 | Jen Nystrom |
 | 259 | 403 | Alenoush Karimian |
 | 260 | 399 | Lakeisha Chapman |
-| 261 | 398 | Cece Ibarra |
-| 262 | 398 | MommaKFC |
+| 261 | 398 | MommaKFC |
+| 262 | 398 | Cece Ibarra |
 | 263 | 396 | Sam Williams |
 | 264 | 394 | Nick R Montague |
 | 265 | 393 | Wisa |
@@ -586,8 +586,8 @@
 | 578 | 219 | MamaB24 |
 | 579 | 219 | Breanna Luna |
 | 580 | 217 | Jamie Catlett |
-| 581 | 217 | Sarah Bersano |
-| 582 | 217 | Rikki Jo Creech |
+| 581 | 217 | Rikki Jo Creech |
+| 582 | 217 | Sarah Bersano |
 | 583 | 216 | Nicolette Ivory Chastain |
 | 584 | 216 | Marqs Mel |
 | 585 | 216 | Shauntina Burke |
@@ -1143,7 +1143,7 @@
 | 1135 | 93 | Peppy Cascade |
 | 1136 | 93 | Funky Zonebuilder |
 | 1137 | 92 | Flashy Gridroll |
-| 1138 | 92 | Lilly Denny |
+| 1138 | 92 | Grace Joanne Agnant |
 | 1139 | 92 | C McMurd |
 | 1140 | 92 | Lilly Denny |
 | 1141 | 91 | Vahid Khaleghi |
