@@ -200,8 +200,8 @@
 | 192 | 513 | Zesty Twistbuilder |
 | 193 | 513 | Erin Thomas |
 | 194 | 512 | Ellen Durfee |
-| 195 | 512 | Casey Jeffcoat |
-| 196 | 512 | ThaEviLJeNiuZ |
+| 195 | 512 | ThaEviLJeNiuZ |
+| 196 | 512 | Casey Jeffcoat |
 | 197 | 509 | Mimi |
 | 198 | 508 | Milan Markeisha |
 | 199 | 507 | Andria Lynn |
@@ -439,7 +439,7 @@
 | 431 | 261 | Jen Hallin |
 | 432 | 260 | Dustin York |
 | 433 | 260 | Bussy Bay |
-| 434 | 260 | Dustin York |
+| 434 | 260 | PennyCandee |
 | 435 | 258 | April Spoelma |
 | 436 | 257 | ThriftySpice |
 | 437 | 256 | Candice Carasiti |
@@ -502,8 +502,8 @@
 | 494 | 233 | conceptCollector |
 | 495 | 233 | Joseph Edmonson |
 | 496 | 232 | Becky Shimko |
-| 497 | 232 | Dandy Cascadefit |
-| 498 | 232 | Sticherella |
+| 497 | 232 | Sticherella |
+| 498 | 232 | Dandy Cascadefit |
 | 499 | 231 | Loony Rotater |
 | 500 | 230 | Joey Riley |
 | 501 | 230 | Martha Lucinda Bishop |
@@ -515,7 +515,7 @@
 | 507 | 227 | Asher |
 | 508 | 227 | 2slo |
 | 509 | 226 | Lane Wasson |
-| 510 | 224 | Shirl |
+| 510 | 224 | Quirky Dash |
 | 511 | 224 | Vanessa Smart |
 | 512 | 224 | Shirl |
 | 513 | 223 | Shane Vick |

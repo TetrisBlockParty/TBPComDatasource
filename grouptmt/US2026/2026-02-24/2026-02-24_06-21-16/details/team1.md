@@ -106,8 +106,8 @@
 | 98 | 800 | Desiree Deschaine Havee |
 | 99 | 791 | Greg Hart |
 | 100 | 781 | Ash Galvan |
-| 101 | 773 | Cartier |
-| 102 | 773 | Susanna Guerry |
+| 101 | 773 | Susanna Guerry |
+| 102 | 773 | Cartier |
 | 103 | 772 | Kathy Langham |
 | 104 | 770 | Zappy Curvetile |
 | 105 | 769 | Robert Benito |
@@ -202,8 +202,8 @@
 | 194 | 488 | Ly Phethmany |
 | 195 | 487 | Eric DeSimone |
 | 196 | 479 | canbrick |
-| 197 | 478 | Hasty Cascader |
-| 198 | 478 | Jumpy Dropper |
+| 197 | 478 | Jumpy Dropper |
+| 198 | 478 | Hasty Cascader |
 | 199 | 475 | Reesey Enyart |
 | 200 | 473 | Chuck Gannon |
 | 201 | 472 | Dizzy Slider |
