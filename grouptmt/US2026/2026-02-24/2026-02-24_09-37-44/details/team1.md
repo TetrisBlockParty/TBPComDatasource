@@ -162,8 +162,8 @@
 | 154 | 582 | Hellsin |
 | 155 | 581 | Jennifer Hardman |
 | 156 | 574 | Bouncy Grid |
-| 157 | 570 | Cody Slav |
-| 158 | 570 | Dee Perry |
+| 157 | 570 | Dee Perry |
+| 158 | 570 | Cody Slav |
 | 159 | 568 | Jason Savage |
 | 160 | 562 | Timothy Danaher |
 | 161 | 560 | Νεφ Όνυξ |
@@ -252,10 +252,10 @@
 | 244 | 421 | Letson Melissa |
 | 245 | 420 | Jennifer Noe Chandler |
 | 246 | 419 | Barrbaric |
-| 247 | 419 | Daring Fitclear |
-| 248 | 419 | John J. Cronin |
-| 249 | 416 | Jessica Sheehan |
-| 250 | 416 | Larissa Marie Nelson |
+| 247 | 419 | John J. Cronin |
+| 248 | 419 | Daring Fitclear |
+| 249 | 416 | Larissa Marie Nelson |
+| 250 | 416 | Jessica Sheehan |
 | 251 | 414 | Bird Person |
 | 252 | 412 | Sleepysloath5745 |
 | 253 | 410 | Paula Martin |
