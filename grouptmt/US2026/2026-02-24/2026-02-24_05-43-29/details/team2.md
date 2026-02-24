@@ -343,8 +343,8 @@
 | 335 | 1261 | Becca Coronado |
 | 336 | 1258 | Mama T |
 | 337 | 1257 | Jackie Lucas |
-| 338 | 1257 | Megan Ferguson Leone |
-| 339 | 1257 | Megan Garrick |
+| 338 | 1257 | Megan Garrick |
+| 339 | 1257 | Megan Ferguson Leone |
 | 340 | 1254 | Erika Densmore |
 | 341 | 1252 | Brainy Smurf |
 | 342 | 1249 | Tristan Szolek |

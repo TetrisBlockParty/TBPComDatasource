@@ -500,8 +500,8 @@
 | 492 | 334 | Spencer Nikki |
 | 493 | 334 | Stella |
 | 494 | 333 | Heather Ferrara |
-| 495 | 332 | Bleu Sun Beams |
-| 496 | 332 | Clever Edgepiece |
+| 495 | 332 | Clever Edgepiece |
+| 496 | 332 | Bleu Sun Beams |
 | 497 | 331 | Wettnippz |
 | 498 | 330 | Christy Quick |
 | 499 | 330 | Willow |
@@ -733,8 +733,8 @@
 | 725 | 251 | Adrian Massey |
 | 726 | 251 | Doddie Marie |
 | 727 | 251 | Colleen Phelps |
-| 728 | 250 | Steph Arcari |
-| 729 | 250 | mia |
+| 728 | 250 | mia |
+| 729 | 250 | Steph Arcari |
 | 730 | 250 | Marcus Payton |
 | 731 | 249 | Sarah Tschee |
 | 732 | 249 | Loony Crawler |
@@ -748,8 +748,8 @@
 | 740 | 246 | MomOnBreak |
 | 741 | 245 | Tammy Rosenberry |
 | 742 | 245 | Bhreagh Gentile |
-| 743 | 245 | Martin Bernier |
-| 744 | 245 | Tammy Rosenberry |
+| 743 | 245 | Latoya Mayne |
+| 744 | 245 | Martin Bernier |
 | 745 | 245 | Danette Marie |
 | 746 | 244 | Amanda Fulton |
 | 747 | 244 | Andy Jacobson |
@@ -865,9 +865,9 @@
 | 857 | 218 | Crystal Johnson |
 | 858 | 217 | Jessica Quinn |
 | 859 | 217 | Roger Taylor |
-| 860 | 216 | Andrew Linge |
-| 861 | 216 | Zaza Lewis |
-| 862 | 216 | Heyska |
+| 860 | 216 | Zaza Lewis |
+| 861 | 216 | Heyska |
+| 862 | 216 | Andrew Linge |
 | 863 | 216 | Tabbi Wilson |
 | 864 | 215 | Anabela Ruiz |
 | 865 | 215 | Michell Hendershott Jackson |

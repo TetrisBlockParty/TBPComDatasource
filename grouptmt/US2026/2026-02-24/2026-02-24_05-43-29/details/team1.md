@@ -45,8 +45,8 @@
 | 37 | 1515 | Felicia Lewis |
 | 38 | 1405 | Chipper Gridlock |
 | 39 | 1391 | Aaron Garnett |
-| 40 | 1334 | june october |
-| 41 | 1334 | Tyler Alcock |
+| 40 | 1334 | Tyler Alcock |
+| 41 | 1334 | june october |
 | 42 | 1321 | Drew Magnus |
 | 43 | 1291 | Marianne Louise West |
 | 44 | 1280 | Spunky Piecebuilder |
@@ -108,8 +108,8 @@
 | 100 | 773 | Susanna Guerry |
 | 101 | 772 | Kathy Langham |
 | 102 | 770 | Zappy Curvetile |
-| 103 | 769 | Angel Fowler |
-| 104 | 769 | Robert Benito |
+| 103 | 769 | Robert Benito |
+| 104 | 769 | Angel Fowler |
 | 105 | 768 | Jazzy Framezone |
 | 106 | 756 | Cartier |
 | 107 | 751 | Kellie |
@@ -145,8 +145,8 @@
 | 137 | 611 | Evan Richmond |
 | 138 | 609 | Basment Living |
 | 139 | 608 | Tipsy Riseclear |
-| 140 | 606 | Ty Brown |
-| 141 | 606 | Erin Rosberg |
+| 140 | 606 | Erin Rosberg |
+| 141 | 606 | Ty Brown |
 | 142 | 604 | Ryan Lunnin |
 | 143 | 603 | Maria C. Hernandez |
 | 144 | 598 | Jessi Sauer |
@@ -171,8 +171,8 @@
 | 163 | 543 | Adrian Esteban |
 | 164 | 540 | Tonya Beasley |
 | 165 | 538 | .running. |
-| 166 | 537 | Stephanie Zahn |
-| 167 | 537 | BadG52 |
+| 166 | 537 | BadG52 |
+| 167 | 537 | Stephanie Zahn |
 | 168 | 535 | Plucky Ziggy |
 | 169 | 529 | Νεφ Όνυξ |
 | 170 | 528 | ALFD |
@@ -194,11 +194,11 @@
 | 186 | 496 | Michelle Beres |
 | 187 | 494 | Sean Stallings |
 | 188 | 494 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
-| 189 | 492 | Happy Snapbuild |
-| 190 | 492 | Rebekah LeiAnn Bonsell |
+| 189 | 492 | Rebekah LeiAnn Bonsell |
+| 190 | 492 | Happy Snapbuild |
 | 191 | 489 | Speedy Liney |
-| 192 | 488 | Jessie Welch |
-| 193 | 488 | Ly Phethmany |
+| 192 | 488 | Ly Phethmany |
+| 193 | 488 | Jessie Welch |
 | 194 | 487 | Eric DeSimone |
 | 195 | 480 | Connie |
 | 196 | 479 | canbrick |
@@ -220,10 +220,10 @@
 | 212 | 439 | Witty Builderfit |
 | 213 | 434 | Mike Ames |
 | 214 | 432 | Brian Spotts |
-| 215 | 431 | Shiny Snapfit |
-| 216 | 431 | Tipsy Strikerpiece |
-| 217 | 429 | Chase Collinsworth |
-| 218 | 429 | Tana |
+| 215 | 431 | Tipsy Strikerpiece |
+| 216 | 431 | Shiny Snapfit |
+| 217 | 429 | Tana |
+| 218 | 429 | Chase Collinsworth |
 | 219 | 427 | Jessie Lynn |
 | 220 | 426 | Brenda Alexander |
 | 221 | 426 | Betsy |
@@ -252,8 +252,8 @@
 | 244 | 399 | Lakeisha Chapman |
 | 245 | 398 | MommaKFC |
 | 246 | 397 | Alenoush Karimian |
-| 247 | 396 | Sam Williams |
-| 248 | 396 | Monica Donato |
+| 247 | 396 | Monica Donato |
+| 248 | 396 | Sam Williams |
 | 249 | 395 | Tami Luce Martin |
 | 250 | 394 | Nick R Montague |
 | 251 | 393 | Wisa |
@@ -267,8 +267,8 @@
 | 259 | 383 | pjbeta |
 | 260 | 383 | Margo Wagner |
 | 261 | 382 | Jamie Jury |
-| 262 | 380 | Snippy Wipebuilder |
-| 263 | 380 | Renee Tucker |
+| 262 | 380 | Renee Tucker |
+| 263 | 380 | Snippy Wipebuilder |
 | 264 | 379 | Austin James |
 | 265 | 378 | Eddie Dillon |
 | 266 | 377 | Rayline M Bradshaw |
@@ -1084,7 +1084,7 @@
 | 1076 | 96 | Kathy Murphy |
 | 1077 | 96 | thtgood |
 | 1078 | 95 | Shelby Smith |
-| 1079 | 95 | Vanessa Zuniga Elvira |
+| 1079 | 95 | Kayla Farley |
 | 1080 | 95 | Althaea Frost Ambrose |
 | 1081 | 95 | Vanessa Zuniga Elvira |
 | 1082 | 94 | Tracy Berry |

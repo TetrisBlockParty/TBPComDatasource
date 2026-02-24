@@ -70,8 +70,8 @@
 | 62 | 1106 | BertMofo |
 | 63 | 1094 | Shelly Chandler |
 | 64 | 1089 | Alyssa Papen |
-| 65 | 1082 | Dion Crommarty |
-| 66 | 1082 | Avy Absol |
+| 65 | 1082 | Avy Absol |
+| 66 | 1082 | Dion Crommarty |
 | 67 | 1075 | Dustee Craddock-Harrison |
 | 68 | 1069 | Heather Tushner |
 | 69 | 1055 | Julian Garcia |
@@ -125,8 +125,8 @@
 | 117 | 735 | Nugget |
 | 118 | 731 | KJ Pool |
 | 119 | 729 | Jamie Mann-Deichmann |
-| 120 | 726 | Amy Suckarieh |
-| 121 | 726 | Jamie Gustafson |
+| 120 | 726 | Jamie Gustafson |
+| 121 | 726 | Amy Suckarieh |
 | 122 | 725 | Brandon Crabbs |
 | 123 | 718 | Zippy Gridlock |
 | 124 | 712 | Leslie Nicole |
@@ -213,12 +213,12 @@
 | 205 | 496 | Jessica Bohlken |
 | 206 | 495 | Joeliecea Cobb |
 | 207 | 493 | Amanda Pauldo-Ivy |
-| 208 | 481 | Joanna |
-| 209 | 481 | Rebecca Morris |
+| 208 | 481 | Rebecca Morris |
+| 209 | 481 | Joanna |
 | 210 | 478 | Casey Grabner |
 | 211 | 475 | Silly Zonebuilder |
-| 212 | 473 | Jolly Dashfit |
-| 213 | 473 | Cranky Rollpiece |
+| 212 | 473 | Cranky Rollpiece |
+| 213 | 473 | Jolly Dashfit |
 | 214 | 465 | June Hoffman |
 | 215 | 464 | Zakia Monae |
 | 216 | 462 | Leslie Thomas |
@@ -243,8 +243,8 @@
 | 235 | 438 | 23 |
 | 236 | 438 | Melvin Baird |
 | 237 | 434 | Ramel Rhodes |
-| 238 | 433 | Circuit8 |
-| 239 | 433 | Damn Libra |
+| 238 | 433 | Damn Libra |
+| 239 | 433 | Circuit8 |
 | 240 | 432 | Plucky Patternblock |
 | 241 | 432 | scott |
 | 242 | 431 | Manny1 |
