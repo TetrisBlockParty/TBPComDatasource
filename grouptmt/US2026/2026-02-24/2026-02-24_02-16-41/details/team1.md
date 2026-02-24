@@ -77,8 +77,8 @@
 | 69 | 1003 | Amber Stoker |
 | 70 | 987 | TSwag |
 | 71 | 980 | Veronica Eve |
-| 72 | 966 | Shalene Frederick Autrey |
-| 73 | 966 | Francesca Gee |
+| 72 | 966 | Francesca Gee |
+| 73 | 966 | Shalene Frederick Autrey |
 | 74 | 961 | Jacqueline Williams |
 | 75 | 957 | Zippy Align |
 | 76 | 934 | Erin Hodges Plumb |
@@ -502,10 +502,10 @@
 | 494 | 222 | Nicole Nikki |
 | 495 | 221 | Stephanie Leday |
 | 496 | 221 | Amy Hess |
-| 497 | 221 | Stephanie Leday |
+| 497 | 221 | Spunky Builderpiece |
 | 498 | 220 | Corrie Grant Smithson |
-| 499 | 219 | Negan Mallory Knoxx Spence |
-| 500 | 219 | Breanna Luna |
+| 499 | 219 | Breanna Luna |
+| 500 | 219 | Negan Mallory Knoxx Spence |
 | 501 | 218 | Aaron Green |
 | 502 | 218 | Isaiah |
 | 503 | 218 | Jason Benitez |

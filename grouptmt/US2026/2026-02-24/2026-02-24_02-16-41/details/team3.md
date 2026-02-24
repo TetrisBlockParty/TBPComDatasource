@@ -321,8 +321,8 @@
 | 313 | 467 | Danielle Rhoades |
 | 314 | 466 | Sleepy |
 | 315 | 464 | Danielle Weikel |
-| 316 | 462 | Tegan Chapman |
-| 317 | 462 | Noettín Kan Zasnemoore |
+| 316 | 462 | Noettín Kan Zasnemoore |
+| 317 | 462 | Tegan Chapman |
 | 318 | 461 | Tom Nault |
 | 319 | 456 | Cynthia Herrmann Egland |
 | 320 | 452 | Tyler Shoff |
@@ -360,16 +360,16 @@
 | 352 | 414 | RickyG |
 | 353 | 411 | Steffi Chris Dacones |
 | 354 | 409 | Rich LeBlanc |
-| 355 | 408 | Ashley Muncey |
-| 356 | 408 | Tiffany Ford |
+| 355 | 408 | Tiffany Ford |
+| 356 | 408 | Ashley Muncey |
 | 357 | 407 | Christina Spa |
 | 358 | 405 | fraulila |
 | 359 | 405 | Andrew Thorson |
-| 360 | 405 | Skinny Baldez |
-| 361 | 405 | Chris Bell |
+| 360 | 405 | Chris Bell |
+| 361 | 405 | Skinny Baldez |
 | 362 | 404 | Giggy Balanceblock |
-| 363 | 403 | Stephanie Burtin |
-| 364 | 403 | Scott Lindsay |
+| 363 | 403 | Scott Lindsay |
+| 364 | 403 | Stephanie Burtin |
 | 365 | 401 | block chick |
 | 366 | 399 | Christina Rotz Shows |
 | 367 | 399 | Velma Mull |

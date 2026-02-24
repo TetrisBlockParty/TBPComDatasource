@@ -313,8 +313,8 @@
 | 305 | 1267 | Missie Lawson Gebhardt |
 | 306 | 1263 | Roman Lavochnik |
 | 307 | 1259 | Foxxo |
-| 308 | 1257 | Megan Garrick |
-| 309 | 1257 | Megan Ferguson Leone |
+| 308 | 1257 | Megan Ferguson Leone |
+| 309 | 1257 | Megan Garrick |
 | 310 | 1255 | Jane Fong |
 | 311 | 1254 | Erika Densmore |
 | 312 | 1245 | Angel Hunnewell |
@@ -413,8 +413,8 @@
 | 405 | 1042 | Spunkysmom |
 | 406 | 1041 | Crystal Hoffman |
 | 407 | 1038 | Giggly Snap |
-| 408 | 1036 | Amber Shoemaker |
-| 409 | 1036 | Allison Lockyer |
+| 408 | 1036 | Allison Lockyer |
+| 409 | 1036 | Amber Shoemaker |
 | 410 | 1033 | Andrea Maher |
 | 411 | 1031 | Allan Wayne Lamia |
 | 412 | 1031 | Lupita Flores |
@@ -480,8 +480,8 @@
 | 472 | 930 | Gloria Liu |
 | 473 | 929 | William Hunt |
 | 474 | 928 | Elizabeth Wilbanks |
-| 475 | 923 | Chevy |
-| 476 | 923 | blume |
+| 475 | 923 | blume |
+| 476 | 923 | Chevy |
 | 477 | 922 | Butta |
 | 478 | 921 | Dannette Goldberg-Richards |
 | 479 | 919 | Isaac Trappiel IV |

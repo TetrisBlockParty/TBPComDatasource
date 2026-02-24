@@ -604,7 +604,7 @@
 | 596 | 177 | Veronica Garza |
 | 597 | 177 | Tina Williams |
 | 598 | 177 | Snippy Clearer |
-| 599 | 177 | Veronica Garza |
+| 599 | 177 | Cooldamalley |
 | 600 | 176 | Walid Elsabee |
 | 601 | 174 | Christina Hyde |
 | 602 | 174 | Katie McCabe |
