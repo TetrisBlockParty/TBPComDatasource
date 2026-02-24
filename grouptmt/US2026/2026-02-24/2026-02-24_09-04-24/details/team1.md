@@ -142,8 +142,8 @@
 | 134 | 647 | Theo Pinnow |
 | 135 | 643 | Erin Rosberg |
 | 136 | 642 | Mario Cab |
-| 137 | 629 | Death |
-| 138 | 629 | Tanya Carpenter-Reynolds |
+| 137 | 629 | Tanya Carpenter-Reynolds |
+| 138 | 629 | Death |
 | 139 | 628 | Trina Gee |
 | 140 | 626 | Damon J. Martin |
 | 141 | 620 | Ty Brown |
@@ -173,8 +173,8 @@
 | 165 | 548 | Luciano Moreira |
 | 166 | 547 | Sharon Reynolds |
 | 167 | 545 | .running. |
-| 168 | 543 | Nicole Roseberry Weber |
-| 169 | 543 | Adrian Esteban |
+| 168 | 543 | Adrian Esteban |
+| 169 | 543 | Nicole Roseberry Weber |
 | 170 | 542 | BadG52 |
 | 171 | 540 | Tonya Beasley |
 | 172 | 537 | Stephanie Zahn |
@@ -220,8 +220,8 @@
 | 212 | 466 | Lori Bales |
 | 213 | 458 | Goose egg |
 | 214 | 457 | Kimberly Garcia |
-| 215 | 453 | Angela Spann |
-| 216 | 453 | Kimmie Kimms |
+| 215 | 453 | Kimmie Kimms |
+| 216 | 453 | Angela Spann |
 | 217 | 449 | Tawnya Peltonen |
 | 218 | 448 | Yvonne Marie |
 | 219 | 446 | Spencer Lent |

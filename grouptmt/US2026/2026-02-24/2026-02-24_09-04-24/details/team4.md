@@ -135,8 +135,8 @@
 | 127 | 726 | Jamie Gustafson |
 | 128 | 725 | Brandon Crabbs |
 | 129 | 719 | George Nutt |
-| 130 | 712 | Leslie Nicole |
-| 131 | 712 | H.R. Block |
+| 130 | 712 | H.R. Block |
+| 131 | 712 | Leslie Nicole |
 | 132 | 708 | Jacqueline Helm |
 | 133 | 704 | Austin Owens |
 | 134 | 704 | Chilly Crasher |
@@ -146,8 +146,8 @@
 | 138 | 667 | Swanky Fitline |
 | 139 | 667 | Matt Gooder |
 | 140 | 662 | Nerdy Twisterfit |
-| 141 | 661 | Rodney McMath Jr. |
-| 142 | 661 | shar |
+| 141 | 661 | shar |
+| 142 | 661 | Rodney McMath Jr. |
 | 143 | 653 | Carmethia Clemons Haslerig |
 | 144 | 651 | Adawna Swires |
 | 145 | 650 | Chris Hartig |
@@ -217,8 +217,8 @@
 | 209 | 502 | Christina Black |
 | 210 | 501 | Sharyn Lemire |
 | 211 | 499 | Kesha Brady |
-| 212 | 496 | Lori |
-| 213 | 496 | Jessica Bohlken |
+| 212 | 496 | Jessica Bohlken |
+| 213 | 496 | Lori |
 | 214 | 495 | Joeliecea Cobb |
 | 215 | 494 | Bio Nelly |
 | 216 | 493 | Amanda Pauldo-Ivy |
@@ -245,14 +245,14 @@
 | 237 | 454 | Keshia Lyons |
 | 238 | 450 | Genne Scott |
 | 239 | 449 | Danielle Kollias |
-| 240 | 448 | Mr. Party |
-| 241 | 448 | Mike Solo |
+| 240 | 448 | Mike Solo |
+| 241 | 448 | Mr. Party |
 | 242 | 447 | Jen Mattei |
 | 243 | 444 | Selena Shaw |
 | 244 | 442 | John Brunetti |
 | 245 | 441 | Lush Linkfall |
-| 246 | 438 | Melvin Baird |
-| 247 | 438 | 23 |
+| 246 | 438 | 23 |
+| 247 | 438 | Melvin Baird |
 | 248 | 435 | Chris Bernstein |
 | 249 | 434 | Ramel Rhodes |
 | 250 | 433 | David Lay |
