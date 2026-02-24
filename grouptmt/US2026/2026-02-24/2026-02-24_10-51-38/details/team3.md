@@ -69,8 +69,8 @@
 | 61 | 1920 | Trezure Gonzalez |
 | 62 | 1858 | Kristie McFarland |
 | 63 | 1836 | Tina Kay |
-| 64 | 1824 | Jessica Ann |
-| 65 | 1824 | Nate Burnside |
+| 64 | 1824 | Nate Burnside |
+| 65 | 1824 | Jessica Ann |
 | 66 | 1791 | Leah Barnett |
 | 67 | 1776 | Whitney Manuel |
 | 68 | 1774 | Liv Whetson |
@@ -186,8 +186,8 @@
 | 178 | 857 | Dana Fox |
 | 179 | 856 | Dana Winters |
 | 180 | 854 | Speedy Bridger |
-| 181 | 847 | Daira Largen |
-| 182 | 847 | Daring Brickzone |
+| 181 | 847 | Daring Brickzone |
+| 182 | 847 | Daira Largen |
 | 183 | 846 | Nicole Myers |
 | 184 | 842 | Alexmac |
 | 185 | 829 | Patricia White |
@@ -280,22 +280,22 @@
 | 272 | 609 | Connie Mohler-Fair |
 | 273 | 608 | Noyb Adam |
 | 274 | 605 | Sarah Cowan Burgos |
-| 275 | 604 | Sherry Ogden |
-| 276 | 604 | Bmo |
+| 275 | 604 | Bmo |
+| 276 | 604 | Sherry Ogden |
 | 277 | 600 | Natasha Jones |
 | 278 | 594 | Cozy Snaplink |
 | 279 | 592 | Rachael McClain Owens |
 | 280 | 588 | Salena Whitlock |
-| 281 | 586 | Donna |
-| 282 | 586 | Brian Battjes |
+| 281 | 586 | Brian Battjes |
+| 282 | 586 | Donna |
 | 283 | 582 | FuzzyNavel |
 | 284 | 581 | Crystal Hine |
 | 285 | 578 | James Mitchell |
 | 286 | 574 | Danielle Balcom |
 | 287 | 572 | Tessina Dewey-Mancino |
 | 288 | 570 | thekey |
-| 289 | 569 | Silly Twist |
-| 290 | 569 | Michael Johnson |
+| 289 | 569 | Michael Johnson |
+| 290 | 569 | Silly Twist |
 | 291 | 569 | Gray Hicks |
 | 292 | 567 | Stephanie Burtin |
 | 293 | 566 | Tyler Shoff |
@@ -431,8 +431,8 @@
 | 423 | 397 | Kevin Russell |
 | 424 | 394 | Jalissa Monique |
 | 425 | 392 | Linda Draper |
-| 426 | 391 | gremicx |
-| 427 | 391 | Rebel124 |
+| 426 | 391 | Rebel124 |
+| 427 | 391 | gremicx |
 | 428 | 390 | ROODBOY |
 | 429 | 389 | Amanda J. Mcneil-Anderson |
 | 430 | 389 | Kirhonda Autmon |
@@ -509,8 +509,8 @@
 | 501 | 343 | Christina Marie Swisher |
 | 502 | 343 | Michael Leblanc |
 | 503 | 342 | Saucy Buildout |
-| 504 | 342 | Boldy Corner |
-| 505 | 342 | Tipsy Zonebuilder |
+| 504 | 342 | Tipsy Zonebuilder |
+| 505 | 342 | Boldy Corner |
 | 506 | 341 | Funky Jumper |
 | 507 | 340 | Erika Thornton |
 | 508 | 340 | Misstery |
@@ -529,7 +529,7 @@
 | 521 | 335 | Sassy Brickmatch |
 | 522 | 334 | Sharisse Baltimore |
 | 523 | 334 | Carol Cain Thurman |
-| 524 | 334 | Sharisse Baltimore |
+| 524 | 334 | Stella |
 | 525 | 333 | Heather Ferrara |
 | 526 | 333 | Hyper Wipeout |
 | 527 | 332 | Clever Edgepiece |
@@ -663,8 +663,8 @@
 | 655 | 281 | Nerdy Lifter |
 | 656 | 281 | Boldy Blocker |
 | 657 | 279 | Ryan Williams |
-| 658 | 279 | John Barb Padron |
-| 659 | 279 | Mikey Lewis |
+| 658 | 279 | Mikey Lewis |
+| 659 | 279 | John Barb Padron |
 | 660 | 279 | Myoshia Norwood |
 | 661 | 278 | Silver Marchán |
 | 662 | 278 | Flashy Rumbler |
@@ -999,7 +999,7 @@
 | 991 | 198 | Shelly Marie Lloyd |
 | 992 | 197 | Ashley Lindeland |
 | 993 | 197 | Giddy Basepiece |
-| 994 | 197 | Johnny Berlin |
+| 994 | 197 | Angel Mendez |
 | 995 | 197 | Tiffany Marler |
 | 996 | 197 | BabyTonj Evans |
 | 997 | 197 | Johnny Berlin |
