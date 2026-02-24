@@ -202,8 +202,8 @@
 | 194 | 457 | Erin Rosberg |
 | 195 | 450 | Elaine Elaine |
 | 196 | 448 | Yvonne Marie |
-| 197 | 446 | SkipTheSadSauce |
-| 198 | 446 | Spencer Lent |
+| 197 | 446 | Spencer Lent |
+| 198 | 446 | SkipTheSadSauce |
 | 199 | 442 | Kimmie Kimms |
 | 200 | 441 | Kimberly Garcia |
 | 201 | 439 | David Miller |
@@ -212,8 +212,8 @@
 | 204 | 429 | Tana |
 | 205 | 427 | Jessie Welch |
 | 206 | 426 | Betsy |
-| 207 | 425 | Mike Ames |
-| 208 | 425 | Tyler Werts |
+| 207 | 425 | Tyler Werts |
+| 208 | 425 | Mike Ames |
 | 209 | 424 | Emily Adelaide Wheatley |
 | 210 | 424 | Serina Marie |
 | 211 | 424 | Lindsay Glover |
@@ -264,10 +264,10 @@
 | 256 | 374 | Snappy Brickbuilder |
 | 257 | 373 | Frothy Pattern |
 | 258 | 372 | Dizzy Party |
-| 259 | 371 | Jaimie Lynn |
-| 260 | 371 | Eddie Dillon |
-| 261 | 370 | Gracie |
-| 262 | 370 | Chantelle Ceno |
+| 259 | 371 | Eddie Dillon |
+| 260 | 371 | Jaimie Lynn |
+| 261 | 370 | Chantelle Ceno |
+| 262 | 370 | Gracie |
 | 263 | 367 | Jamie Jury |
 | 264 | 366 | J.F. Fields |
 | 265 | 365 | Danielle S Kester |

@@ -256,8 +256,8 @@
 | 248 | 578 | James Mitchell |
 | 249 | 573 | Donna |
 | 250 | 572 | Tessina Dewey-Mancino |
-| 251 | 570 | LaTanya GeminiondaRise Johnson |
-| 252 | 570 | thekey |
+| 251 | 570 | thekey |
+| 252 | 570 | LaTanya GeminiondaRise Johnson |
 | 253 | 569 | Michael Johnson |
 | 254 | 569 | Silly Twist |
 | 255 | 568 | Rachael McClain Owens |
@@ -282,8 +282,8 @@
 | 274 | 535 | kacihall |
 | 275 | 533 | BugMansMom |
 | 276 | 533 | Cheryl Hinch Tenbrook |
-| 277 | 529 | Michael Lucado |
-| 278 | 529 | rosy |
+| 277 | 529 | rosy |
+| 278 | 529 | Michael Lucado |
 | 279 | 528 | Lizabeth Fox |
 | 280 | 527 | Dapper Snap |
 | 281 | 521 | Ktfreeee |
@@ -1147,8 +1147,8 @@
 | 1139 | 151 | Tiki |
 | 1140 | 151 | Ron Laliberte |
 | 1141 | 151 | Brad Dimitroff |
-| 1142 | 151 | Justplain Killacam Phillips |
-| 1143 | 151 | Spicy Caster |
+| 1142 | 151 | Spicy Caster |
+| 1143 | 151 | Justplain Killacam Phillips |
 | 1144 | 151 | Kate M. Murdock |
 | 1145 | 150 | Cheeky Blockline |
 | 1146 | 150 | monied |

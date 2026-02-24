@@ -68,8 +68,8 @@
 | 60 | 1097 | BertMofo |
 | 61 | 1092 | Rachel Anne |
 | 62 | 1089 | Alyssa Papen |
-| 63 | 1082 | Dion Crommarty |
-| 64 | 1082 | Avy Absol |
+| 63 | 1082 | Avy Absol |
+| 64 | 1082 | Dion Crommarty |
 | 65 | 1075 | Dustee Craddock-Harrison |
 | 66 | 1064 | Heather Tushner |
 | 67 | 1046 | Johnathan Martinez |
@@ -94,8 +94,8 @@
 | 86 | 850 | Lucille Truesdale |
 | 87 | 850 | Lisa Davis |
 | 88 | 846 | Christine Marie |
-| 89 | 841 | Shauna Havard |
-| 90 | 841 | Judy Cox |
+| 89 | 841 | Judy Cox |
+| 90 | 841 | Shauna Havard |
 | 91 | 840 | Chaz Duncan |
 | 92 | 834 | quicksand420 |
 | 93 | 826 | Rica Mitchell |
@@ -245,8 +245,8 @@
 | 237 | 421 | JIGsaw ~(•¿°)~ |
 | 238 | 419 | Silly Zonebuilder |
 | 239 | 413 | Jeff Brian Gates |
-| 240 | 411 | Gdiguy |
-| 241 | 411 | Autumn Kumzi |
+| 240 | 411 | Autumn Kumzi |
+| 241 | 411 | Gdiguy |
 | 242 | 410 | Lindsay Ball |
 | 243 | 409 | Antony Dwayne Beasley |
 | 244 | 408 | Lauren Scott |
@@ -333,8 +333,8 @@
 | 325 | 314 | Paige Kittles |
 | 326 | 313 | DonMega |
 | 327 | 312 | Tawna Curry |
-| 328 | 311 | Ak Jones |
-| 329 | 311 | Laura |
+| 328 | 311 | Laura |
+| 329 | 311 | Ak Jones |
 | 330 | 308 | Angela Geist Jusinski |
 | 331 | 308 | Metsfan |
 | 332 | 307 | Shukee Lo |
@@ -350,8 +350,8 @@
 | 342 | 300 | Koral Hanke |
 | 343 | 297 | Brittany Marsh |
 | 344 | 296 | Zethra Prenisha Rahming |
-| 345 | 295 | Cool Gridzone |
-| 346 | 295 | Deb Rubeck |
+| 345 | 295 | Deb Rubeck |
+| 346 | 295 | Cool Gridzone |
 | 347 | 294 | BootsMcGee |
 | 348 | 292 | Epic Curvetile |
 | 349 | 292 | Jumpy Zonepiece |
@@ -398,8 +398,8 @@
 | 390 | 268 | Sallie Sanborn |
 | 391 | 268 | Riverdale |
 | 392 | 267 | Marcus TheeyoungWoe Gilmore |
-| 393 | 266 | Happy Combo |
-| 394 | 266 | ĥuf |
+| 393 | 266 | ĥuf |
+| 394 | 266 | Happy Combo |
 | 395 | 266 | Paito |
 | 396 | 265 | Christine Therrien |
 | 397 | 265 | Degenerate |
@@ -670,8 +670,8 @@
 | 662 | 159 | Jennifer Perkins |
 | 663 | 159 | Mcg |
 | 664 | 157 | Hanh Pham |
-| 665 | 157 | Matt Rawls |
-| 666 | 157 | Jazzy Slamdrop |
+| 665 | 157 | Jazzy Slamdrop |
+| 666 | 157 | Matt Rawls |
 | 667 | 156 | MOCHA |
 | 668 | 155 | Patrick Cookson |
 | 669 | 155 | Lorinda Wixom |
