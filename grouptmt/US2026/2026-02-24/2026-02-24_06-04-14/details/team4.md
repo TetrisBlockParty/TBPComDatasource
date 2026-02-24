@@ -133,8 +133,8 @@
 | 125 | 712 | Leslie Nicole |
 | 126 | 712 | H.R. Block |
 | 127 | 708 | Jacqueline Helm |
-| 128 | 704 | Chilly Crasher |
-| 129 | 704 | Austin Owens |
+| 128 | 704 | Austin Owens |
+| 129 | 704 | Chilly Crasher |
 | 130 | 690 | Denia Deni |
 | 131 | 682 | Raegan Lane-Ross |
 | 132 | 668 | Desi Desporte |
@@ -206,8 +206,8 @@
 | 198 | 508 | Milan Markeisha |
 | 199 | 507 | Andria Lynn |
 | 200 | 504 | Deanna Deckard |
-| 201 | 502 | Ericca Eldridge |
-| 202 | 502 | Christina Black |
+| 201 | 502 | Christina Black |
+| 202 | 502 | Ericca Eldridge |
 | 203 | 501 | Sharyn Lemire |
 | 204 | 499 | Kesha Brady |
 | 205 | 496 | Jessica Bohlken |

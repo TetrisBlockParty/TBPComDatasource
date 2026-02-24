@@ -820,8 +820,8 @@
 | 812 | 665 | Zak Dunn |
 | 813 | 664 | Jarboe |
 | 814 | 664 | Julie Hamilton |
-| 815 | 663 | Regina Young |
-| 816 | 663 | snkylnk |
+| 815 | 663 | snkylnk |
+| 816 | 663 | Regina Young |
 | 817 | 663 | Mike Aprilliano |
 | 818 | 662 | Belle Mari |
 | 819 | 662 | Magic steve |
@@ -857,8 +857,8 @@
 | 849 | 643 | Rae Rae |
 | 850 | 643 | Kimmie Zimmerman-Rocha |
 | 851 | 642 | Lewis Sturgeon |
-| 852 | 642 | Kendall Fullerton |
-| 853 | 642 | Christy Long |
+| 852 | 642 | Christy Long |
+| 853 | 642 | Kendall Fullerton |
 | 854 | 640 | Taylor Flowers |
 | 855 | 639 | Tanya Duran |
 | 856 | 639 | Connie Lepore-Mann |
@@ -874,11 +874,11 @@
 | 866 | 634 | Jessica Galick |
 | 867 | 633 | Daring Caster |
 | 868 | 632 | Lea Stewart |
-| 869 | 631 | Autumn Schaeffer |
-| 870 | 631 | Wuntayk |
+| 869 | 631 | Wuntayk |
+| 870 | 631 | Autumn Schaeffer |
 | 871 | 629 | Ownlane Rico |
-| 872 | 628 | Misty Mitchell |
-| 873 | 628 | Macy Jarrett |
+| 872 | 628 | Macy Jarrett |
+| 873 | 628 | Misty Mitchell |
 | 874 | 627 | Kristie Wilcox |
 | 875 | 626 | cornball |
 | 876 | 626 | Nicole Cox |
