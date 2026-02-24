@@ -363,8 +363,8 @@
 | 355 | 418 | Heather Davis |
 | 356 | 416 | Tay |
 | 357 | 416 | Ava Petito |
-| 358 | 414 | RickyG |
-| 359 | 414 | Kaitie Oliver |
+| 358 | 414 | Kaitie Oliver |
+| 359 | 414 | RickyG |
 | 360 | 411 | Steffi Chris Dacones |
 | 361 | 411 | Arden White Kirsch |
 | 362 | 411 | Chris Bell |

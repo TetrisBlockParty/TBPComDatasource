@@ -68,8 +68,8 @@
 | 60 | 1098 | BertMofo |
 | 61 | 1092 | Rachel Anne |
 | 62 | 1089 | Alyssa Papen |
-| 63 | 1082 | Dion Crommarty |
-| 64 | 1082 | Avy Absol |
+| 63 | 1082 | Avy Absol |
+| 64 | 1082 | Dion Crommarty |
 | 65 | 1075 | Dustee Craddock-Harrison |
 | 66 | 1064 | Heather Tushner |
 | 67 | 1046 | Johnathan Martinez |
@@ -77,8 +77,8 @@
 | 69 | 1030 | Anthony Bryan Riva |
 | 70 | 999 | Jeremy Steines |
 | 71 | 987 | Julian Garcia |
-| 72 | 985 | Shelly Chandler |
-| 73 | 985 | Shannon Ferrari |
+| 72 | 985 | Shannon Ferrari |
+| 73 | 985 | Shelly Chandler |
 | 74 | 956 | loulou |
 | 75 | 947 | TeeJ |
 | 76 | 939 | Edward White |
@@ -162,8 +162,8 @@
 | 154 | 578 | Livvy |
 | 155 | 577 | Brandon Crabbs |
 | 156 | 575 | Jenna Ingersoll |
-| 157 | 574 | Carmethia Clemons Haslerig |
-| 158 | 574 | Carlos Ramirez |
+| 157 | 574 | Carlos Ramirez |
+| 158 | 574 | Carmethia Clemons Haslerig |
 | 159 | 567 | Rico |
 | 160 | 565 | Ren Mc |
 | 161 | 560 | Chastity Mitchell |
@@ -223,8 +223,8 @@
 | 215 | 448 | Mike Solo |
 | 216 | 447 | J-Rizzle |
 | 217 | 446 | Mr. Party |
-| 218 | 444 | Shiny Fit |
-| 219 | 444 | Calvin Cannon |
+| 218 | 444 | Calvin Cannon |
+| 219 | 444 | Shiny Fit |
 | 220 | 443 | Kristina Black |
 | 221 | 442 | 🥔🥔 Spudz |
 | 222 | 441 | Jen Mattei |
@@ -304,7 +304,7 @@
 | 296 | 339 | Jason Gibbs |
 | 297 | 336 | ZeeZee |
 | 298 | 336 | Tina Lopez |
-| 299 | 336 | ZeeZee |
+| 299 | 336 | Stella |
 | 300 | 335 | Snippy Puzzle |
 | 301 | 334 | 23 |
 | 302 | 333 | Dihcheese444 |
@@ -330,8 +330,8 @@
 | 322 | 317 | Madison Sweere |
 | 323 | 315 | Juls |
 | 324 | 314 | Kenna Gunderland |
-| 325 | 314 | KoolMom9907 |
-| 326 | 314 | Paige Kittles |
+| 325 | 314 | Paige Kittles |
+| 326 | 314 | KoolMom9907 |
 | 327 | 313 | DonMega |
 | 328 | 312 | Metsfan |
 | 329 | 312 | Tawna Curry |
