@@ -140,8 +140,8 @@
 | 132 | 704 | Austin Owens |
 | 133 | 682 | Raegan Lane-Ross |
 | 134 | 668 | Desi Desporte |
-| 135 | 667 | Lindsey Gonzalez |
-| 136 | 667 | Matt Gooder |
+| 135 | 667 | Matt Gooder |
+| 136 | 667 | Lindsey Gonzalez |
 | 137 | 662 | Nerdy Twisterfit |
 | 138 | 662 | George Nutt |
 | 139 | 661 | Rodney McMath Jr. |
@@ -225,8 +225,8 @@
 | 217 | 482 | Laura |
 | 218 | 481 | Joanna |
 | 219 | 475 | Silly Zonebuilder |
-| 220 | 473 | Jolly Dashfit |
-| 221 | 473 | Cranky Rollpiece |
+| 220 | 473 | Cranky Rollpiece |
+| 221 | 473 | Jolly Dashfit |
 | 222 | 468 | June Hoffman |
 | 223 | 465 | Leslie Thomas |
 | 224 | 464 | Zakia Monae |
@@ -247,16 +247,16 @@
 | 239 | 444 | Selena Shaw |
 | 240 | 442 | John Brunetti |
 | 241 | 441 | Lush Linkfall |
-| 242 | 438 | Melvin Baird |
-| 243 | 438 | 23 |
+| 242 | 438 | 23 |
+| 243 | 438 | Melvin Baird |
 | 244 | 434 | Ramel Rhodes |
 | 245 | 433 | Circuit8 |
 | 246 | 433 | Damn Libra |
 | 247 | 432 | scott |
 | 248 | 432 | Plucky Patternblock |
 | 249 | 430 | Chris Bernstein |
-| 250 | 427 | Cheery Risebuilder |
-| 251 | 427 | Chao Ma |
+| 250 | 427 | Chao Ma |
+| 251 | 427 | Cheery Risebuilder |
 | 252 | 424 | Andrew Dang |
 | 253 | 423 | Gdiguy |
 | 254 | 421 | Brickh4us |

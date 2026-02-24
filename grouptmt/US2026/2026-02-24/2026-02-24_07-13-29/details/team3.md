@@ -35,8 +35,8 @@
 | 27 | 2873 | Chummy Shatterer |
 | 28 | 2864 | Zippy Strikesnap |
 | 29 | 2778 | Ray Lader |
-| 30 | 2771 | Fancy Slam |
-| 31 | 2749 | DeAnna Michelle Schlebach |
+| 30 | 2749 | DeAnna Michelle Schlebach |
+| 31 | 2724 | Fancy Slam |
 | 32 | 2697 | River |
 | 33 | 2582 | Fran Lin |
 | 34 | 2551 | Brandon Green |
@@ -124,8 +124,8 @@
 | 116 | 1134 | Melissa Orth Hunter |
 | 117 | 1124 | Stephanie Rice |
 | 118 | 1121 | Corie A. Brinson |
-| 119 | 1114 | Groovy Catcher |
-| 120 | 1114 | Loopy Fallmatch |
+| 119 | 1114 | Loopy Fallmatch |
+| 120 | 1114 | Groovy Catcher |
 | 121 | 1105 | Adrian Marcel Pate |
 | 122 | 1093 | Angela M. Fletcher |
 | 123 | 1091 | Jennifer |
@@ -155,10 +155,10 @@
 | 147 | 966 | Sashay Tapae Simpson |
 | 148 | 963 | Crystal Frey |
 | 149 | 961 | Danielle Allison |
-| 150 | 950 | Giddy Drop |
-| 151 | 950 | MissTaylor |
-| 152 | 940 | Patty Allen |
-| 153 | 940 | Stephanie Allmon |
+| 150 | 950 | MissTaylor |
+| 151 | 950 | Giddy Drop |
+| 152 | 940 | Stephanie Allmon |
+| 153 | 940 | Patty Allen |
 | 154 | 936 | Dolores Falco |
 | 155 | 925 | Cherry Parker |
 | 156 | 914 | Sarajane Lokan |
@@ -202,8 +202,8 @@
 | 194 | 783 | Julian Murphy |
 | 195 | 777 | Daryn Elliott |
 | 196 | 775 | Lizabeth Fox |
-| 197 | 774 | Twisty Brick LT |
-| 198 | 774 | ren |
+| 197 | 774 | ren |
+| 198 | 774 | Twisty Brick LT |
 | 199 | 772 | Tye Stovall |
 | 200 | 769 | Hasty Cascadefit |
 | 201 | 768 | Cyd061769 |
@@ -244,8 +244,8 @@
 | 236 | 646 | Duane Bright |
 | 237 | 644 | Dawn Williams |
 | 238 | 642 | Rania Zaqout |
-| 239 | 641 | Tom Nault |
-| 240 | 641 | Kristal C Lee |
+| 239 | 641 | Kristal C Lee |
+| 240 | 641 | Tom Nault |
 | 241 | 640 | Dee Pratt |
 | 242 | 639 | Nichol Graham |
 | 243 | 635 | Amber Hughes |
@@ -254,13 +254,13 @@
 | 246 | 629 | rnr junky |
 | 247 | 627 | Juliana Dottore |
 | 248 | 627 | Louise Stacy Sisson |
-| 249 | 626 | Cheryl Hinch Tenbrook |
-| 250 | 625 | Jacqueline Rodriguez |
-| 251 | 624 | Hyper Matchzone |
+| 249 | 625 | Jacqueline Rodriguez |
+| 250 | 624 | Hyper Matchzone |
+| 251 | 623 | Rebecca Funderburk Kirby |
 | 252 | 623 | Giggy Glidepiece |
-| 253 | 623 | Rebecca Funderburk Kirby |
-| 254 | 620 | Tamara Deherrera |
-| 255 | 619 | Swanky Snapclear |
+| 253 | 620 | Tamara Deherrera |
+| 254 | 619 | Swanky Snapclear |
+| 255 | 618 | Kaitie Oliver |
 | 256 | 618 | Betty Bóò |
 | 257 | 606 | Connie Mohler-Fair |
 | 258 | 606 | Cheryl Hinch Tenbrook |
@@ -285,8 +285,8 @@
 | 277 | 574 | Fallorina Susana |
 | 278 | 572 | Tessina Dewey-Mancino |
 | 279 | 570 | thekey |
-| 280 | 569 | Silly Twist |
-| 281 | 569 | Michael Johnson |
+| 280 | 569 | Michael Johnson |
+| 281 | 569 | Silly Twist |
 | 282 | 566 | Eileen Brady Thurber |
 | 283 | 565 | Michael Lucado |
 | 284 | 564 | Micayah Stevens |
@@ -334,8 +334,8 @@
 | 326 | 490 | Cassandra Bryant |
 | 327 | 489 | Isabel Ocasio |
 | 328 | 487 | MsBee |
-| 329 | 486 | Sleepy |
-| 330 | 486 | Skippy |
+| 329 | 486 | Skippy |
+| 330 | 486 | Sleepy |
 | 331 | 482 | Chummy Rumbler |
 | 332 | 481 | Tiffanie Alley |
 | 333 | 480 | TLM |
@@ -350,8 +350,8 @@
 | 342 | 465 | Noettín Kan Zasnemoore |
 | 343 | 465 | Blocked |
 | 344 | 464 | Snazzy Filler |
-| 345 | 462 | Tegan Chapman |
-| 346 | 462 | Brandon Givens |
+| 345 | 462 | Brandon Givens |
+| 346 | 462 | Tegan Chapman |
 | 347 | 461 | Hyper Bridger |
 | 348 | 461 | Briana Wellman |
 | 349 | 460 | Antonia Russell |
@@ -390,8 +390,8 @@
 | 382 | 426 | Christina Rotz Shows |
 | 383 | 425 | Ava Petito |
 | 384 | 423 | Dapper Liney |
-| 385 | 419 | Desiree Gold |
-| 386 | 419 | Philip Rock |
+| 385 | 419 | Philip Rock |
+| 386 | 419 | Desiree Gold |
 | 387 | 419 | Maggie |
 | 388 | 418 | Rainbow77375 |
 | 389 | 416 | Tay |
@@ -465,8 +465,8 @@
 | 457 | 358 | Taylor Culver |
 | 458 | 358 | Beejangles |
 | 459 | 357 | Hoài Quắt |
-| 460 | 356 | Trice Sodames |
-| 461 | 356 | Christy Quick |
+| 460 | 356 | Christy Quick |
+| 461 | 356 | Trice Sodames |
 | 462 | 355 | Kevin Russell |
 | 463 | 354 | Norma JulieMay |
 | 464 | 354 | Jana Polk |

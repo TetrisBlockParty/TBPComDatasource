@@ -107,20 +107,20 @@
 | 99 | 800 | Desiree Deschaine Havee |
 | 100 | 791 | Greg Hart |
 | 101 | 781 | Ash Galvan |
-| 102 | 773 | Cartier |
-| 103 | 773 | Susanna Guerry |
+| 102 | 773 | Susanna Guerry |
+| 103 | 773 | Cartier |
 | 104 | 772 | Kathy Langham |
 | 105 | 770 | Zappy Curvetile |
 | 106 | 769 | Angel Fowler |
 | 107 | 768 | Jazzy Framezone |
 | 108 | 761 | Karin Gillen |
 | 109 | 751 | Kellie |
-| 110 | 725 | Debbie Kane |
-| 111 | 725 | Phu ckalldems |
+| 110 | 725 | Phu ckalldems |
+| 111 | 725 | Debbie Kane |
 | 112 | 719 | Bindi |
 | 113 | 716 | Kristi Johnson |
-| 114 | 706 | Plucky Fallzone |
-| 115 | 706 | Denice Dee |
+| 114 | 706 | Denice Dee |
+| 115 | 706 | Plucky Fallzone |
 | 116 | 702 | lil mickey |
 | 117 | 699 | cc |
 | 118 | 692 | Melissa Lemmon |
