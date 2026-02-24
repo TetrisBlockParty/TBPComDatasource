@@ -138,8 +138,8 @@
 | 130 | 615 | Kim Hunt |
 | 131 | 613 | Porkobello |
 | 132 | 613 | Jessica Lynn Cutlip |
-| 133 | 611 | Chris Baggett |
-| 134 | 611 | Ernest Maxwell |
+| 133 | 611 | Ernest Maxwell |
+| 134 | 611 | Chris Baggett |
 | 135 | 602 | Cristy Duerksen |
 | 136 | 595 | Rodney McMath Jr. |
 | 137 | 586 | Latisha Davis |
@@ -210,8 +210,8 @@
 | 202 | 450 | Amanda Pauldo-Ivy |
 | 203 | 449 | Courtney Cicoria |
 | 204 | 448 | Kesha Brady |
-| 205 | 444 | J-Rizzle |
-| 206 | 444 | Mylo Lipscomb |
+| 205 | 444 | Mylo Lipscomb |
+| 206 | 444 | J-Rizzle |
 | 207 | 443 | Kristina Black |
 | 208 | 442 | 🥔🥔 Spudz |
 | 209 | 441 | Lush Linkfall |
@@ -220,8 +220,8 @@
 | 212 | 439 | Jen Mattei |
 | 213 | 438 | Melvin Baird |
 | 214 | 434 | Ramel Rhodes |
-| 215 | 433 | Damn Libra |
-| 216 | 433 | Circuit8 |
+| 215 | 433 | Circuit8 |
+| 216 | 433 | Damn Libra |
 | 217 | 431 | Zesty Twistbuilder |
 | 218 | 427 | Chao Ma |
 | 219 | 426 | John Brunetti |
@@ -323,8 +323,8 @@
 | 315 | 305 | Megan Cutshaw |
 | 316 | 305 | Kenna Gunderland |
 | 317 | 300 | Jason Frehner |
-| 318 | 300 | Dana Scott |
-| 319 | 300 | Koral Hanke |
+| 318 | 300 | Koral Hanke |
+| 319 | 300 | Dana Scott |
 | 320 | 299 | Jenna McGeorge |
 | 321 | 298 | ZeeZee |
 | 322 | 296 | Sarah Hoffman |

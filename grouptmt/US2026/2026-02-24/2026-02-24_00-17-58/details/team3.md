@@ -58,8 +58,8 @@
 | 50 | 1772 | Liv Whetson |
 | 51 | 1754 | Nate Burnside |
 | 52 | 1739 | Tina Kay |
-| 53 | 1734 | Fancy Slam |
-| 54 | 1734 | Aaron Pitkin |
+| 53 | 1734 | Aaron Pitkin |
+| 54 | 1734 | Fancy Slam |
 | 55 | 1732 | Jessica Ann |
 | 56 | 1691 | Cass Mendoza |
 | 57 | 1665 | Whitney Manuel |
@@ -314,8 +314,8 @@
 | 306 | 456 | Brenda Schmid Wood |
 | 307 | 451 | Charles Perrone |
 | 308 | 450 | Antonia Russell |
-| 309 | 449 | Stefanie LaPointe |
-| 310 | 449 | Mcathen |
+| 309 | 449 | Mcathen |
+| 310 | 449 | Stefanie LaPointe |
 | 311 | 448 | Scott Carleton |
 | 312 | 448 | Jackie Miller |
 | 313 | 447 | Randy Clevenger |

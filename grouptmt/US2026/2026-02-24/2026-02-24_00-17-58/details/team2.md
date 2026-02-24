@@ -175,8 +175,8 @@
 | 167 | 1871 | Christi Hulet |
 | 168 | 1866 | Janel Turley-Garner |
 | 169 | 1845 | Jessie McDougald |
-| 170 | 1840 | blarg |
-| 171 | 1840 | Kristopher Miller |
+| 170 | 1840 | Kristopher Miller |
+| 171 | 1840 | blarg |
 | 172 | 1835 | Alisa Lamb |
 | 173 | 1834 | bonsai |
 | 174 | 1829 | Mr. Street Stack |
@@ -349,8 +349,8 @@
 | 341 | 1134 | Kelsey Kyle Rhodes |
 | 342 | 1127 | Mama T |
 | 343 | 1118 | Ibiza Carolina LaRose |
-| 344 | 1116 | Belle |
-| 345 | 1116 | Em Chen |
+| 344 | 1116 | Em Chen |
+| 345 | 1116 | Belle |
 | 346 | 1114 | Kevin Walp |
 | 347 | 1109 | Melissa McCall |
 | 348 | 1105 | Nerdy Clearfit |
