@@ -45,8 +45,8 @@
 | 37 | 1515 | Felicia Lewis |
 | 38 | 1405 | Chipper Gridlock |
 | 39 | 1391 | Aaron Garnett |
-| 40 | 1334 | june october |
-| 41 | 1334 | Tyler Alcock |
+| 40 | 1334 | Tyler Alcock |
+| 41 | 1334 | june october |
 | 42 | 1321 | Drew Magnus |
 | 43 | 1291 | Marianne Louise West |
 | 44 | 1268 | Hasbro Bros |
@@ -167,8 +167,8 @@
 | 159 | 543 | Tipsy Riseclear |
 | 160 | 543 | Nicole Roseberry Weber |
 | 161 | 540 | Tonya Beasley |
-| 162 | 537 | BadG52 |
-| 163 | 537 | Stephanie Zahn |
+| 162 | 537 | Stephanie Zahn |
+| 163 | 537 | BadG52 |
 | 164 | 535 | Plucky Ziggy |
 | 165 | 533 | .running. |
 | 166 | 528 | ALFD |
@@ -192,8 +192,8 @@
 | 184 | 492 | Happy Snapbuild |
 | 185 | 490 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 186 | 489 | Speedy Liney |
-| 187 | 488 | Hyper |
-| 188 | 488 | Ly Phethmany |
+| 187 | 488 | Ly Phethmany |
+| 188 | 488 | Hyper |
 | 189 | 487 | Eric DeSimone |
 | 190 | 484 | Νεφ Όνυξ |
 | 191 | 479 | canbrick |
@@ -203,14 +203,14 @@
 | 195 | 463 | Erin Rosberg |
 | 196 | 462 | Hasty Cascader |
 | 197 | 461 | Jessie Welch |
-| 198 | 458 | Goose egg |
+| 198 | 458 | Dizzy Slider |
 | 199 | 458 | Elaine Elaine |
-| 200 | 458 | Dizzy Slider |
+| 200 | 458 | Goose egg |
 | 201 | 457 | Lori Bales |
 | 202 | 453 | Kimmie Kimms |
 | 203 | 448 | Yvonne Marie |
-| 204 | 446 | SkipTheSadSauce |
-| 205 | 446 | Spencer Lent |
+| 204 | 446 | Spencer Lent |
+| 205 | 446 | SkipTheSadSauce |
 | 206 | 442 | Reesey Enyart |
 | 207 | 441 | Kimberly Garcia |
 | 208 | 439 | Witty Builderfit |
@@ -338,15 +338,15 @@
 | 330 | 322 | Christina Norman |
 | 331 | 321 | LD1 |
 | 332 | 320 | Zany Tiler |
-| 333 | 319 | Crystal Cheresnowsky |
-| 334 | 319 | Fresno Beotoni |
+| 333 | 319 | Fresno Beotoni |
+| 334 | 319 | Crystal Cheresnowsky |
 | 335 | 317 | Bloknboy |
 | 336 | 316 | Giggly Builderline |
 | 337 | 315 | san |
 | 338 | 314 | Amh |
-| 339 | 312 | Diane Byrd |
-| 340 | 312 | Michael |
-| 341 | 312 | Glitzy Curvebuilder |
+| 339 | 312 | Glitzy Curvebuilder |
+| 340 | 312 | Diane Byrd |
+| 341 | 312 | Michael |
 | 342 | 311 | Nathan Sealander |
 | 343 | 310 | Steph |
 | 344 | 310 | Marci Sanders |
@@ -1308,7 +1308,7 @@
 | 1300 | 64 | Patricia Mills |
 | 1301 | 63 | pat |
 | 1302 | 63 | Gerriann Jordan |
-| 1303 | 63 | Lincon |
+| 1303 | 63 | Shannon Elizabeth |
 | 1304 | 63 | Shelley Dose |
 | 1305 | 63 | Diana |
 | 1306 | 63 | Neena AkaJaneen TheQueen |

@@ -69,8 +69,8 @@
 | 61 | 1116 | Ashley Ingram |
 | 62 | 1098 | BertMofo |
 | 63 | 1089 | Alyssa Papen |
-| 64 | 1082 | Avy Absol |
-| 65 | 1082 | Dion Crommarty |
+| 64 | 1082 | Dion Crommarty |
+| 65 | 1082 | Avy Absol |
 | 66 | 1075 | Dustee Craddock-Harrison |
 | 67 | 1069 | Heather Tushner |
 | 68 | 1047 | Julian Garcia |
@@ -179,8 +179,8 @@
 | 171 | 538 | Steph Marie |
 | 172 | 537 | Scott Jameson |
 | 173 | 535 | Berklie Apedaile |
-| 174 | 532 | Alan George LaRage |
-| 175 | 532 | Matt Summer |
+| 174 | 532 | Matt Summer |
+| 175 | 532 | Alan George LaRage |
 | 176 | 528 | Erin Sabol |
 | 177 | 525 | Lucas J Sutton |
 | 178 | 522 | Carly Alexis |
@@ -192,8 +192,8 @@
 | 184 | 516 | Trish |
 | 185 | 513 | Erin Thomas |
 | 186 | 512 | Ellen Durfee |
-| 187 | 512 | Casey Jeffcoat |
-| 188 | 512 | ThaEviLJeNiuZ |
+| 187 | 512 | ThaEviLJeNiuZ |
+| 188 | 512 | Casey Jeffcoat |
 | 189 | 509 | Mimi |
 | 190 | 508 | Zesty Twistbuilder |
 | 191 | 507 | Andria Lynn |
@@ -424,8 +424,8 @@
 | 416 | 261 | Jen Hallin |
 | 417 | 260 | Bussy Bay |
 | 418 | 260 | PennyCandee |
-| 419 | 259 | Ultramarine |
-| 420 | 259 | Allen Lloyd |
+| 419 | 259 | Allen Lloyd |
+| 420 | 259 | Ultramarine |
 | 421 | 258 | April Spoelma |
 | 422 | 257 | ThriftySpice |
 | 423 | 257 | Dustin York |

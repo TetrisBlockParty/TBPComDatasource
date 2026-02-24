@@ -127,8 +127,8 @@
 | 119 | 1084 | Santana Lantana |
 | 120 | 1082 | Valerie Gendron |
 | 121 | 1067 | DaBigGuy |
-| 122 | 1066 | Jennifer |
-| 123 | 1066 | Demetrious Shaw Sr. |
+| 122 | 1066 | Demetrious Shaw Sr. |
+| 123 | 1066 | Jennifer |
 | 124 | 1065 | Rachel |
 | 125 | 1055 | Christine Trester |
 | 126 | 1050 | Sherika C. McDaniels |
@@ -1977,8 +1977,8 @@
 | 1969 | 69 | Tyrhonda Thompson |
 | 1970 | 69 | Cynthia Alanis |
 | 1971 | 69 | Kendra Renee |
-| 1972 | 68 | Jessica Saxe |
-| 1973 | 68 | MrsDoublette |
+| 1972 | 68 | MrsDoublette |
+| 1973 | 68 | Jessica Saxe |
 | 1974 | 68 | Deborah Charnley |
 | 1975 | 68 | Jim Weaver |
 | 1976 | 68 | Melony Holubek-Lemke |
